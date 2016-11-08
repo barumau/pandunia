@@ -1,8 +1,10 @@
-Introducing yourself
-====================
+Lessons
+=======
 
-Dialog
-------
+Introducing yourself
+--------------------
+
+### Dialog
 
 > ☻: **ti ye ce?** = Who are you?  
 > ☺: **mi ye yusef. ti ye ce?** = I am Yusef. Who are you?  
@@ -11,8 +13,7 @@ Dialog
 > ☻: **ta de nam ye ce?** = What's her name?  
 > ☺: **ta de nam ye sara.** = Her name is Sara.
 
-Grammar
--------
+### Grammar
 
 Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi de panyo** (is my friend).
 
@@ -30,8 +31,7 @@ Good! Likewise you can describe yourself by saying **mi** followed by a word tha
 > **mi bon.** = I am good. / I am well.  
 
 
-Exercises
----------
+### Exercises
 
 Try translating these sentences from English to Pandunia. The correct answers are after the word list.
 
@@ -43,8 +43,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 6. My name is _ _ _ _ _ _.
 
 
-Word List
----------
+### Word List
 
 **mi** I, me. **mi de** my.  
 **ti** you. **ti de** your.  
@@ -53,8 +52,7 @@ Word List
 **ye** is. **no** is not.  
 **bon** good. **panyo** friend. **nam** name.
 
-Answers to the Exercises
-------------------------
+### Answers to the Exercises
 
 1. ti ye ce?
 2. mi ye sam.
@@ -68,7 +66,7 @@ Answers to the Exercises
 
 
 Saying hello
-============
+------------
 
 > **cau** = Hello!
 
@@ -105,8 +103,7 @@ The pattern in **cau ti** is convenient for addressing people by name, kinship t
 Other Pandunia words for greeting are **halo** and **salam**. They are also very international words. **halo** is known in Western countries and elsewhere. **salam** is a common greeting in Africa and Asia. You can choose freely, which word to use when you greet people.
 
 
-Exercises
----------
+### Exercises
 
 Try translating these sentences from English to Pandunia. The correct answers are after the word list.
 
@@ -115,15 +112,13 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 3. Hello, mother!
 4. Goodbye!
 
-Word List
----------
+### Word List
 
 **cau, halo, salam** greeting, hello, hi, salaam, ciao, etc.  
 **mama** mother, mom. **baba** father, dad. **xef** chief, boss.
 
 
-Answers to the Exercises
-------------------------
+### Answers to the Exercises
 
 1. ti cau ta.
 2. mama cau baba.
@@ -135,10 +130,9 @@ Answers to the Exercises
 
 
 Making requests
-===============
+---------------
 
-Dialog
-------
+### Dialog
 
 ☻: **cau!** = Hello!  
 ☺: **cau! cing sit.** = Hello! Please sit!  
@@ -150,8 +144,8 @@ Dialog
 ☻: **mi cau ta. cau!** = I will. Bye!  
 ☺: **cau!** = Bye!
 
-Grammar
--------
+
+### Grammar
 
 Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish the sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
@@ -187,8 +181,8 @@ In practice, direct commands can be also made with just one verb and a commandin
 
 > **saf!** = Clean it!
 
-Exercises
----------
+
+### Exercises
 
 Try translating these sentences from English to Pandunia.
 
@@ -199,13 +193,13 @@ Try translating these sentences from English to Pandunia.
 5. The boss sits and drinks coffee.
 6. Greet the boss! 
 
-Word List
----------
+
+### Word List
 
 **ca** tea. **cing** to ask; please. **da** to give. **danku** thanks. **i** and. **kafe** coffee. **kamar** room. **koman** to command. **o** or. **saf** clean. **sit** to sit. **yem** to eat or drink.
 
-Answers to the Exercises
-------------------------
+
+### Answers to the Exercises
 
 1. ta yem ca.
 2. xef cing ta sit.
@@ -219,10 +213,9 @@ Answers to the Exercises
 
 
 Yes or no questions
-===================
+-------------------
 
-Dialog
-------
+### Dialog
 
 ☻: **salam! kia ti yem kafe o ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
@@ -237,8 +230,8 @@ Dialog
 ☻: **danku. mi da un ca i un kafe i un sup na des minut bada.**  
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.  
 
-Asking questions
-----------------
+
+### Asking questions
 
 Questions that can be answered by saying "yes" or "no" have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
@@ -258,8 +251,8 @@ Of course common and proper nouns can also be used.
 > **kia baba saf kamar?** = Does the father clean the room?  
 > **kia niki sabe pandunia?** = Does Nicky know Pandunia?
 
-Giving answers
---------------
+
+### Giving answers
 
 Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
@@ -280,8 +273,8 @@ It is also possible to answer yes by repeating the main verb of the question.
 > – **kia ti yem su?** = Do you drink water?  
 > – **yem.** = (Yes, I) drink.
 
-Exercises
----------
+
+### Exercises
 
 Try translating these sentences from English to Pandunia.
 
@@ -292,13 +285,13 @@ Try translating these sentences from English to Pandunia.
 5. Does she eat soup?
 6. She doesn't.
 
-Word List
----------
+
+### Word List
 
 **bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **sabe** to know how. **su** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes, affirmative.
 
-Answers to the Exercises
-------------------------
+
+### Answers to the Exercises
 
 1. kia ti sabe pandunia?
 2. ye. mi sabe pandunia.
@@ -312,7 +305,7 @@ Answers to the Exercises
 
 
 Saying no
-=========
+---------
 
 In the previous lesson you learned to answer ye and no to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
 
@@ -332,8 +325,8 @@ The negated word can be of any type: verb, pronoun, noun, adjective and even num
 > **no ta, ama mi mala mau.** = Not she but I have cats.  
 > **mi mala no un, ama du mau.** = I have not one but two cats.
 
-Exercises
----------
+
+### Exercises
 
 Translate these sentences from English to Pandunia. Sometimes there is more than one correct answer.
 
@@ -344,13 +337,13 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 5. The chief drinks tea but not coffee.
 6. The mother has no dogs but (she has) two cats. 
 
-Word List
----------
+
+### Word List
 
 **kop** cup, glass, mug. **kali** empty. **mala** to have, to own. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
 
-Answers to the Exercises
-------------------------
+
+### Answers to the Exercises
 
 1. ta no saf kamar.
 2. un kop no kali.

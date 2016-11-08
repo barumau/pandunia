@@ -4,57 +4,45 @@ Grammar of Pandunia
 Introduction
 ------------
 
-Pandunia is a constructed language that is built for a very special purpose:
-it is to be a language of world-wide communication. This ambitious goal sets
-special requirements for the language. It has to be learnable by all people
-– regardless of which language or languages they happen to know before –
-and learnable to confident mastery!
+Pandunia is a constructed language that is built for a very special purpose: it is to be a language of world-wide communication. This ambitious goal sets special requirements for the language. It has to be learnable by all people – regardless of which language or languages they happen to know before – and learnable to confident mastery!
 
-Grammatical categories and markings, which people learn in their mother tongue
-and take for granted ever since, are by no means universal. Therefore the 
-grammar of an international language is the best when it is reduced into a
-minimum. This points to an isolating grammar, which is free from inflection
+Grammatical categories and markings, which people learn in their mother tongue and take for granted ever since, are by no means universal. Therefore the grammar of an international language is the best when it is reduced into a minimum. This points to an isolating grammar, which is free from inflection
 and morphology.
 
 Pandunia, as an isolating language, has the following grammatical properties:
 
 1. It uses word order to mark the relations in a sentence.
-2. It relies almost exclusively on full words, very seldom on vague _particles_
-   and never on affixes.
-3. It doesn't require the speaker to say more than what the context requires.
+2. It relies almost exclusively on full words, very seldom on vague _particles_ and never on affixes.
+3. It doesn't require the speaker to say more than what the context requires. 
    (Whereas many other languages require the speaker to specify gender, tense, mood
    and other factors always!)
 
 --------------------------------------------------------------------------------
 
 Word types
-==========
+----------
 
-In Pandunia the main word types (which are also called parts of speech) are
-content words and function words. The content words are further divided into
-thing-words, action-words, quality-words and quantity-words.
+In Pandunia the main word types (which are also called parts of speech) are nouns, pronouns, verbs, adjectives, numerals and particles.
 
-Note! This grammar avoids using categories like the noun, the verb and the
-adjective, because they could bring forward wrong associations in the mind of
-the reader. Pandunia works in a different way than English. So it is best to
+Note! In the context of Pandunia, the word types, like the noun, do not mean exactly the same thing as in English. However, it is better to use familiar words than to invent something completely new and strange. Anyway, Pandunia works in a different way than English. So it is best to
 approach it with an open mind.
 
 --------------------------------------------------------------------------------
 
 Content words
-=============
+-------------
 
 Content words are words that refer to some thing, action or quality.
 They are divided into four categories as follows.
 
 1. Thing-words: **sabzi** vegetable, **mau** cat, **ren** person,
-   **meza** table, **lume** light, **tara** star, **sole** sun, **sama** sky.
+   **meza** table, **lus** light, **tara** star, **sole** sun, **sama** sky.
 2. Action-words: **yem** eating, **loga** speaking, **vide** seeing,
    **sabe** knowing, **vola** wanting.
 3. Quality-words: **bon** good, **nov** new, **sundar** beautiful,
    **kuai** fast, **sana** healthy.
 4. Quantity-words: **un** one, **du** two, **san** three, 
-   **poli** many, **xau** few.
+   **poli** many, **kam** few.
 
 Thing-words refer to a class of things. They don't contain information
 about the quantity. In other words, there aren't separate singular and plural
@@ -72,13 +60,13 @@ or phrase that they qualify.
 **un tara** - one star  
 **du tara** - two stars  
 **san tara** - three stars  
-**xau tara** - few stars  
+**kam tara** - few stars  
 **poli tara** - many stars
 
 Thing-words can be put together with each other.
 
-**sole lume** - sun light  
-**tara lume** - star light  
+**sole lus** - sun light  
+**tara lus** - star light  
 **tara sama** - star sky
 
 Also quality-words can be put together with thing-words.
@@ -155,7 +143,7 @@ So the basic sentence word order is subject-predicate-object.
 Naturally pronouns can also function as objects of the predicate.
 
 **mi vide ti.** - I see you  
-**tamen vola loga ta.** - They want to speak it.
+**tamen yem ta.** - They eat it.
 
 
 Action-words in series
@@ -280,7 +268,8 @@ Time-words express a point in time or an aspect (i.e. a point of view) to the ti
 **suba** - (in the) morning  
 **din** - (at) daytime  
 **xam** - (in the) evening  
-**noce** - (in the) night  
+**noc** - (in the) night  
+**jin** - now  
 **yer** - yesterday  
 **kal** - tomorrow  
 **hai** - still  
@@ -294,6 +283,36 @@ The place of the particle doesn't matter. It can be placed freely to express dif
 **mi hai yem.** - I still eat.  
 **mi yem hai.** - I eat still.
 
+
+--------------------------------------------------------------------------------
+
+# Phrase types
+
+Phrases are combinations of words, which belong to different categories.
+
+|                  |                                      |
+|------------------|:-------------------------------------|
+| N + N            | compound word                        |
+| Pp + N           | short identity predicate             |
+| A + N            | noun modified by adjective           |
+| NP + A           | stative (adjectival) predicate       |
+| NP + V           | passive predicate                    |
+| NP + NP + VP     | active predicate (SOV)               |
+| NP + V + NP      | active predicate (SVO)               |
+| NP + VP + A      | predicate with modifier (adverb)     |
+| Pp + NP + V + NP | short causative phrase               |
+
+mi ti amor. = mi amor ti.
+
+
+1. thing-word
+2. thing-word + thing-word = a compound word
+3. quality-word + thing-word = a qualified thing-word
+4. thing-word + quality-word = stative predicate of the thing-word
+5. thing-word + action-word = active predicate of the thing-word
+6. thing-word + action-word + thing-word = complete SVO sentence
+
+(verb phrase)(noun phrase)(quality)
 
 --------------------------------------------------------------------------------
 
