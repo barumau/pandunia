@@ -22,12 +22,48 @@ Pandunia, as an isolating language, has the following grammatical properties:
 Word types
 ----------
 
-In Pandunia the main word types (which are also called parts of speech) are nouns, pronouns, verbs, adjectives, numerals and particles.
+In Pandunia the main word types (which are also called parts of speech) are the noun, the verb, the adjective and the numerals. Different word types describe different kinds of things in the real world and they also serve in different roles in sentences.
 
-Note! In the context of Pandunia, the word types, like the noun, do not mean exactly the same thing as in English. However, it is better to use familiar words than to invent something completely new and strange. Anyway, Pandunia works in a different way than English. So it is best to
-approach it with an open mind.
+Each Pandunia word belongs to one primary word type. So for example **batu** (stone) is a noun, not a verb, and **amor** (love) is primarily a verb, not a noun. However, it is still possible that a verb, like **amor**, functions as a noun in a phrase, like **mi di amor** (my love).
 
 --------------------------------------------------------------------------------
+
+## Nouns
+
+A noun is a word that names a thing (ex. **batu** = stone), a person (ex. **mama** = mother), an abstract concept, or the proper name of a person (ex. **paula**) or a place (ex. **london**).
+
+Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc. For example the word **batu** can refer to any number of stones, and likewise **tara** can refer to one or more stars.
+
+Sometimes the context tells the number and definiteness. For example, in the normal context on Earth, the word **sol** obviously refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+
+Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
+
+**sol guang** - sun light  
+**luna guang** - moon light  
+**luna batu** - moon stone
+
+
+
+## Adjectives
+
+Adjectives are words that modify (change the meaning of) another word. An adjective adds some property, quality or status to the thing that is denoted by another word.
+
+Adjectives come before the noun that they modify.
+
+**hau tenci** - good weather  
+**sundar femin** - beautiful woman  
+**neu haus** - new house
+
+When an adjective follows immediately a noun phrase, it becomes a statement of fact. In this role they can be called _adjectival verbs_ or _stative verbs_.
+
+**tenci hau.** - The weather is good.  
+**femin sundar.** - Women are beautiful.  
+**haus neu.** - Houses are new.
+
+Naturally there can be adjectives in both sides of the noun as well.
+
+**neu haus sundar.** - New houses are beautiful.
+
 
 Content words
 -------------
@@ -35,13 +71,16 @@ Content words
 Content words are words that refer to some thing, action or quality.
 They are divided into four categories as follows.
 
-1. Thing-words: **sabzi** vegetable, **mau** cat, **ren** person,
+1. _Nouns_ are words that name objects and things.  
+   **sabzi** vegetable, **mau** cat, **ren** person,
    **meza** table, **lus** light, **tara** star, **sole** sun, **sama** sky.
-2. Action-words: **yem** eating, **loga** speaking, **vide** seeing,
+2. _Verbs_ are words for actions. **yem** eating, **loga** speaking, **vide** seeing,
    **sabe** knowing, **vola** wanting.
-3. Quality-words: **bon** good, **nov** new, **sundar** beautiful,
+3. _Adjectives_ are words for describing qualities of things.  
+   **hau** good, **neu** new, **sundar** beautiful,
    **kuai** fast, **sana** healthy.
-4. Quantity-words: **un** one, **du** two, **san** three, 
+4. _Numerals_ are words for numbers and quantities.  
+   **un** one, **du** two, **san** three, 
    **poli** many, **kam** few.
 
 Thing-words refer to a class of things. They don't contain information

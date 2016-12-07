@@ -17,6 +17,10 @@ Some remarkable features of Pandunia:
 
 Yes! Pandunia was in development for years and it has gone through many changes. At last the foundation is stable. The vocabulary is still growing so probably you won't find all words that you need in the dictionary yet.
 
+## Learning material
+
+- [Basic rules of Pandunia](basics.md)
+
 ## Join Others
 
 Some people are already interested about Pandunia and they are using it. Here are some places where you can find them:

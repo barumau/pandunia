@@ -6,11 +6,11 @@ Introducing yourself
 
 ### Dialog
 
-> ☻: **ti ye ce?** = Who are you?  
-> ☺: **mi ye yusef. ti ye ce?** = I am Yusef. Who are you?  
-> ☻: **mi ye maria. ta ye ce?** = I am Maria. Who is that?  
+> ☻: **ti ye ke?** = Who are you?  
+> ☺: **mi ye yusef. ti ye ke?** = I am Yusef. Who are you?  
+> ☻: **mi ye maria. ta ye ke?** = I am Maria. Who is that?  
 > ☺: **ta ye mi de panyo.** = That is my friend.  
-> ☻: **ta de nam ye ce?** = What's her name?  
+> ☻: **ta de nam ye ke?** = What's her name?  
 > ☺: **ta de nam ye sara.** = Her name is Sara.
 
 ### Grammar
@@ -36,7 +36,7 @@ Good! Likewise you can describe yourself by saying **mi** followed by a word tha
 Try translating these sentences from English to Pandunia. The correct answers are after the word list.
 
 1. Who are you?
-2. I am Sam.
+2. I am Thomas.
 3. Who is your friend?
 4. She is Sara.
 5. What is your name?
@@ -48,17 +48,17 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 **mi** I, me. **mi de** my.  
 **ti** you. **ti de** your.  
 **ta** he, she or it. **ta de** his, her, its.  
-**ce** who or what.  
+**ke** who or what.  
 **ye** is. **no** is not.  
 **bon** good. **panyo** friend. **nam** name.
 
 ### Answers to the Exercises
 
-1. ti ye ce?
-2. mi ye sam.
-3. ti de panyo ye ce?
+1. ti ye ke?
+2. mi ye tomas.
+3. ti de panyo ye ke?
 4. ta ye sara.
-5. ti de nam ye ce?
+5. ti de nam ye ke?
 6. mi de nam ye _ _ _ _ _ _. 
 
 
