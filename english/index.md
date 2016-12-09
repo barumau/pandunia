@@ -1,5 +1,5 @@
-pandunia - world pidgin
-========================
+pandunia - a simple world language
+==================================
 
 ![](http://www.pandunia.info/kuvat/bandera.png "The flag of Pandunia")
 
@@ -15,11 +15,7 @@ Some remarkable features of Pandunia:
 
 ## Should I learn it now?
 
-Yes! Pandunia was in development for years and it has gone through many changes. At last the foundation is stable. The vocabulary is still growing so probably you won't find all words that you need in the dictionary yet.
-
-## Learning material
-
-- [Basic rules of Pandunia](basics.md)
+Maybe! Pandunia is still under construction. The grammar is stable but some words can still be changed. If you like to learn constructed languages and help to improve them, you should learn Pandunia and help us! But if you want to learn a complete language that is ready now, probably you should consider learning some other language like Esperanto or Lidepla. Remember, you can always come back to Pandunia later!
 
 ## Join Others
 

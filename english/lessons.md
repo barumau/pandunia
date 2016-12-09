@@ -6,29 +6,36 @@ Introducing yourself
 
 ### Dialog
 
-> ☻: **ti ye ke?** = Who are you?  
-> ☺: **mi ye yusef. ti ye ke?** = I am Yusef. Who are you?  
-> ☻: **mi ye maria. ta ye ke?** = I am Maria. Who is that?  
-> ☺: **ta ye mi de panyo.** = That is my friend.  
-> ☻: **ta de nam ye ke?** = What's her name?  
-> ☺: **ta de nam ye sara.** = Her name is Sara.
+> ☻: **ti ke?** = Who are you?  
+> ☺: **mi yusef. ti ke?** = I am Yusef. Who are you?  
+> ☻: **mi maria. ta ke?** = I am Maria. Who is that?  
+> ☺: **ta se mi de panyo.** = That is my friend.  
+> ☻: **ta de nam se ke?** = What's her name?  
+> ☺: **ta de nam se sara.** = Her name is Sara.
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi de panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta se mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **se mi de panyo** (is my friend).
 
-The word **ye** is interesting. It means "to be" or more like "there is". It's opposite is **no**, which means "to be not" or "there is not". So to deny something, you can simply replace **ye** with **no**.
+The word for "to be" is not normally used in Pandunia. Expression like **ta sara** (She Sara) is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
 
-> **mi no sara.** - I'm not Sara.  
-> **ta ye sara.** - She is Sara.
+> **ta sara.** - She is Sara.
+> **ta no sara.** - She is not Sara.  
 
-Another interesting thing in Pandunia is that the word **ye** can be dropped after the personal pronouns. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
+But something is needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **se** in the middle. It's not a verb but a pronoun, which corresponds to English words _himself, herself, themselves_ etc. It's not needed in the negative, because **no** already separates the two.
 
-> **mi _ _ _ _ _ _.**
+> **mau se hewan** - The cat is an animal.
+> **mau no hewan** - The cat is not an animal.
 
-Good! Likewise you can describe yourself by saying **mi** followed by a word that describes you.
+Of course personal pronouns like **mi, ti** and **ta** don't need **se** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
 
-> **mi bon.** = I am good. / I am well.  
+> **mi .............. !**
+
+Good! Likewise you can describe yourself by saying **mi** followed by any word that describes you.
+
+> **mi bon.** - I am good. / I am well.
+> **mi adam.** - I'm a man.
+> **mi femin.** - I'm a woman.
 
 
 ### Exercises
@@ -40,7 +47,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 3. Who is your friend?
 4. She is Sara.
 5. What is your name?
-6. My name is _ _ _ _ _ _.
+6. My name is ...........
 
 
 ### Word List
@@ -54,12 +61,12 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Answers to the Exercises
 
-1. ti ye ke?
-2. mi ye tomas.
-3. ti de panyo ye ke?
-4. ta ye sara.
-5. ti de nam ye ke?
-6. mi de nam ye _ _ _ _ _ _. 
+1. ti ke?
+2. mi tomas.
+3. ti de panyo (se) ke?
+4. ta sara.
+5. ti de nam (se) ke?
+6. mi de nam se ........... 
 
 
 --------------------------------------------------------------------------------
@@ -100,7 +107,7 @@ The pattern in **cau ti** is convenient for addressing people by name, kinship t
 > **cau baba!** = Hello, father!  
 > **cau xef!** = Hello, chief!
 
-Other Pandunia words for greeting are **halo** and **salam**. They are also very international words. **halo** is known in Western countries and elsewhere. **salam** is a common greeting in Africa and Asia. You can choose freely, which word to use when you greet people.
+Other Pandunia words for greeting are **halo** and **salam**. They are also very international words. **halo** is known in Western countries and elsewhere. **salam** is a common greeting in many parts of Asia and Africa. You can choose freely, which word to use when you greet people.
 
 
 ### Exercises
@@ -170,6 +177,8 @@ The phrase **cing cau ta** has a useful pattern that can be used for making poli
 > **cing da kafe.** = Please give me some coffee.
 > **cing da ca.** = Please give me some tea.
 > **cing yem ca.** = Please have some tea.
+
+<!--
 > **cing saf kamar.** = Please clean the room.
 
 Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **cing**.
@@ -181,6 +190,7 @@ In practice, direct commands can be also made with just one verb and a commandin
 
 > **saf!** = Clean it!
 
+-->
 
 ### Exercises
 
@@ -221,7 +231,7 @@ Yes or no questions
 ☺: **ca.** = Tea.  
 ☻: **i ti?** = And you?  
 ○: **mi no sabe pandunia...** = I don't speak Pandunia...  
-☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?*  
+☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?
 ☺: **no. ta no yem ca. ta yem kafe.** = No, he won't. He would like to have coffee.  
 ☻: **kia ti yem sup?** = Would you like to have soup?  
 ☺: **yem.** = Yes.  
@@ -303,6 +313,7 @@ Try translating these sentences from English to Pandunia.
 
 --------------------------------------------------------------------------------
 
+<!--
 
 Saying no
 ---------
@@ -317,6 +328,7 @@ Conceptually negation means the absence or non-existence of the negated word. In
 > **mi cing ti saf kamar.** = I ask you to clean the room.  
 > **mi no cing ti saf kamar.** = I do NOT ask you to clean the room.  
 > **mi cing ti no saf kamar.** = I ask you NOT to clean the room.
+
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
@@ -352,6 +364,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 5. xef yem ca ama no kafe.
 6. mama mala no kuta ama du mau. 
 
+-->
 
 
 --------------------------------------------------------------------------------

@@ -39,9 +39,7 @@ So at first you can make simple observations with just words.
 
 > **meza.** - A table.  
 > **kursi.** - A chair.  
-> **honger.** - Hungry.  
-> **xawa.** - Rain. (It rains.)
-
+> **hima.** - Snow. (It's snowing!)
 
 Describing Being
 ----------------
@@ -49,7 +47,7 @@ Describing Being
 The simplest sentences consist of a subject and a one-word desciption, which can be a noun or an adjective.
 
 > **ta sara.** - She is Sara.  
-> **ta hux.** - She is nice.  
+> **ta kawai.** - She is cute.  
 > **ta batu.** - It's a stone.  
 > **batu cung.** - The stone is heavy.
 
@@ -63,7 +61,7 @@ To say the opposite, you add **no** in the middle.
 
 > **mi no ti.** - I'm not you.  
 > **ta no sara.** - She is not Sara.  
-> **ta no hux.** - She is not nice.  
+> **ta no kawai.** - She is not cute.  
 > **ta no batu.** - It's not a stone.  
 > **batu no cung.** - The stone is not heavy.
 
@@ -139,28 +137,32 @@ Asking Questions
 **Ke** is the general question word. It corresponds to _what, who_ and _which_ in English.
 
 > **ti ke?** - Who are you?  
-> **ni ke?** - What is this?  
 > **ke batu se cung?** - Which stone is heavy?  
 > **ke sabab?** - Why? (What reason?)  
 > **ke moment?** - When? (What moment?)
 
-**Ka** is the question tag. When it is the last word of the sentence, it questions the entire sentence. Otherwise it questions only the word that follows it. (So actually it works just like a normal modifier.)
+
+Modal Particles
+---------------
+
+Modal particles are used for expressing the speaker's attitude to what he or she is saying. Modal particle affects the word that is immediately after it. If the modal particle is the last word of the sentence, it affects the entire sentence.
+
+The word **sol** _(only, just)_ is a good example because it works almost exactly like in English.
+
+> **ta yem vin sol.** - He drinks wine, only.  
+> **ta yem sol vin.** - He drinks _only wine_. (He doesn't drink anything else.)  
+> **ta sol yem vin.** - He _only drinks_ wine. (He doesn't do anything else.)  
+> **sol ta yem vin.** - _Only he_ drinks wine. (Nobody else does it.)
+
+A more exotic example is the question particle **ma**. Structurally it works exactly like **sol**, but it has a different meaning. **Ma** questions the next word or, when it is the last word, the entire sentence.
 
 > **ti yem vin ka?** - Do you drink wine?  
 > **ti yem ka vin?** - Is it wine that you drink?  
-> **ti ka yem vin?** - Do you _drink_ wine? (Drinking is questioned.)  
+> **ti ka yem vin?** - Do you _drink_ wine?  
 > **ka ti yem vin?** - Is it you who drinks wine?
 
-https://en.wikipedia.org/wiki/Tagalog_grammar#Enclitic_particles
+Other common modal particles are **ham** (also, too), **hata** (even, implies extreme case), **ya** (indeed, as you know), **ne** (asking for affirmation or reaction), **ba** (polite suggestion), **la** (emphasizing speaker's own opinion).
+
+Note: To say _either A or B_, say **sol A sol B**. To say _both A and B_, say **ham A ham B**.
 
 
-Miscellaneous
--------------
-
-Note: The so-called "word classes" are not as strict in Pandunia as they are in English and most natural languages. For example, the word **fikir**, _to think_, can also mean _a thought_. So you could make a strange sentence like **Mi fikir fikir**, literally, "I think a thought." Of course, there is rarely a reason to say it because it's true by definition.
-
-
-
-http://patwa.pbworks.com/w/page/23629099/Guide-short
-
-https://mw.lojban.org/papri/The_Crash_Course_(a_draft)
