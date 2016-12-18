@@ -1,0 +1,465 @@
+adres (n)	address
+agres (v)	aggression
+aha (v)	realize (to become aware of)
+almas (n)	diamond
+amuk (v)	rage (fury)
+analis (v)	analyse
+anjil (n)	gospel
+anma (n)	soul
+anus (n)	anus
+ara (n)	saw (tool)
+armia (n)	army
+asal (n)	origin
+asan (v)	posture (asana)
+asia (pn)	Asia
+atak (v)	attack
+atom (n)	atom
+aventur (v)	adventure
+aventurer (n)	adventurer
+bab (n)	chapter (section)
+badan (n)	body
+bagaj (n)	luggage (baggage)
+bai (a)	white
+baldi (n)	bucket
+banan (n)	banana
+bandera (n)	flag
+bank (v)	bank
+banker (n)	banker
+bar (n)	time (occasion)
+barat (pn)	India
+barut (n)	gunpowder
+bas (a)	enough (sufficient)
+batat (n)	yam (sweet potato)
+bazar (n)	market (bazaar)
+bek (v)	bake
+beker (n)	baker
+beng (a)	sick (ill)
+benzin (n)	gasoline (petrol)
+beret (n)	beret
+bin (n)	pot (bin)
+biolojia (n)	biology
+bir (n)	beer
+bol (n)	ball
+bom (n)	bomb
+bot (n)	boat (ship)
+botol (n)	bottle
+boton (n)	button
+brazil (pn)	Brazil
+britan (pn)	Britain (UK)
+brox (n)	brush
+bud (v)	understand (comprehend)
+buk (n)	book
+bus (n)	bus
+ca (n)	tea
+ca wan (cw)	tea bowl
+cabi (n)	key
+caku (n)	knife
+camca (n)	spoon
+can (v)	make (manufacture)
+cap (v)	press (to stamp)
+cau (v)	greet (greeting)
+cim (n)	bird
+cing (v)	ask (to request)
+cingua (n)	frog
+cis (n)	cheese
+cizel (n)	chisel
+cokolat (n)	chocolate
+cuka (n)	vinegar
+cun (v)	choose (select)
+cung (a)	heavy (weighty)
+cup (v)	suck
+cuti (v)	vacation (holiday)
+da (v)	give
+dai (a)	big
+dama (n)	checkers
+dank (v)	thank (thank you)
+dans (v)	dance
+dant (n)	tooth
+dant brox (cw)	tooth brush
+dau (n)	way (road)
+den (n)	electricity
+deng (v)	wait
+des (num)	ten (10)
+desen (v)	draw (to make a picture)
+detal (n)	detail
+dev (n)	god
+ding (n)	nail (spike)
+dok (v)	read
+dokter (n)	doctor (physician)
+dolar (n)	dollar
+dong (n)	east
+du (num)	two (2)
+dul (n)	dust
+dul cupor (cw)	vacuum cleaner
+dunia (n)	world
+dux (v)	shower
+dux (v)	shower
+eglis (n)	church
+engli (a)	English
+euro (n)	euro
+europa (pn)	Europe
+fakir (n)	fakir (ascetic)
+famil (n)	family
+famil nam (cw)	surname (family name)
+fan (n)	fan (fanatic)
+fantaz (v)	fantasy (imagination)
+fantom (n)	ghost (fantom)
+fasin (v)	fascinate
+fem (n)	woman (female)
+fen (v)	divide (split)
+filosofia (n)	philosophy
+for (a)	away (gone)
+forum (n)	forum
+fubu (n)	belly (abdomen)
+fung (v)	wind
+futur (tam)	future
+gamel (n)	camel
+ganja (n)	cannabis
+gas (n)	gas
+gau (a)	high
+gazel (n)	gazelle
+gem (v)	game
+gemer (n)	gamer (player)
+giga (num)	billion (giga-)
+gim (n)	gold
+gitar (n)	guitar
+go (v)	go
+gojia (n)	country (land)
+gol (n)	goal
+gom (n)	rubber
+goro (n)	oink
+grafik (n)	graphic (image)
+grafiker (n)	graphic artist
+gram (n)	gram
+gras (n)	grass
+grimas (n)	grimace
+grom (n)	thunder (roar)
+grup (n)	group
+gua (n)	cave
+guanxi (n)	connection (relationship)
+guru (n)	guru (mentor)
+gut (n)	bone
+habar (n)	news
+haha (v)	laugh
+hak (v)	right (justification)
+halo (v)	hello (hi)
+hamak (n)	hammock
+hamar (n)	hammer
+hamir (n)	yeast
+hata (tam)	even (up to)
+hatar (a)	danger (peril)
+hati (n)	elephant
+hau (a)	good
+hawa (n)	air
+helen (pn)	Greek (Hellenic)
+hema (n)	tent
+hen (v)	hate
+hewan (n)	animal
+hibrid (a)	hybrid (mongrel)
+hima (n)	snow
+himalia (pn)	Himalayas
+historia (n)	history
+horvatia (pn)	Croatia
+hotel (n)	hotel
+hua (n)	flower
+hua bin (cw)	vase (flower pot)
+i (conj)	and
+inji (n)	ginger
+inspir (v)	inspire (inspiration)
+interes (a)	interesting
+irak (pn)	Iraq
+iran (pn)	Iran
+it (n)	brick
+italia (pn)	Italy
+itiopia (pn)	Ethiopia
+jaket (n)	jacket (coat)
+jam (v)	collect (gather)
+jang (v)	fight (battle)
+jeb (n)	pocket
+jel (n)	gel (jelly)
+jelos (a)	jealous
+jen (v)	birth
+jeste (v)	gesture
+ji (a)	just (only)
+jin (n)	near (close)
+jok (v)	joke
+jovan (a)	young
+juk (n)	bamboo
+jup (n)	jup
+jus (n)	juice
+kabil (a)	able (capable)
+kad (n)	card
+kafas (n)	cage
+kafe (n)	coffee
+kafe kop (cn)	coffee cup
+kal (a)	black
+kam (a)	few
+kamar (n)	room (chamber)
+kamis (n)	shirt
+kan (n)	workshop
+kanguru (n)	cangaroo
+kanun (n)	law
+karot (n)	carrot
+kastan (n)	chestnut
+kat (v)	cut
+ke (dp)	what?
+kek (n)	cake
+ketel (n)	kettle
+ki (dp)	which (that)
+kia (v)	ask (question)
+kilo (num)	thousand (kilo-)
+kimia (n)	chemistry
+kirat (n)	carat
+kitab (v)	write
+klub (n)	club
+koi (dp)	some
+kok (n)	chicken
+koko (n)	coco
+komputor (n)	computer
+komun (a)	common (shared)
+kona (n)	corner
+kop (n)	cup
+kopi (v)	copy
+korup (a)	corrupt
+kot (n)	coat
+koton (a)	cotton
+krus (n)	cross
+ku (prep)	to (toward)
+kuai (a)	fast (rapid)
+kuan (a)	wide
+kupa (n)	dome
+kursi (n)	chair
+lab (n)	lip
+lai (v)	come
+lala (n)	tulip
+lau (a)	old
+leng (a)	cold
+letis (n)	lettuce
+lid (v)	lead (direct)
+lider (n)	leader
+lili (n)	lily
+limun (n)	lemon
+lin (n)	line
+lis (a)	smooth
+lobak (n)	radish
+log (v)	speak (word)
+lojia (n)	study (-ology)
+lok (n)	place (location)
+long (a)	long
+luna (n)	moon
+lusun (n)	asparagus
+lut (v)	rob (loot)
+mac (v)	match (contest)
+mad (n)	honey
+maf (v)	sorry (pardon)
+magia (n)	magic
+maidan (n)	square (plaza)
+mais (n)	corn (maize)
+makas (n)	scissors
+mal (v)	own (possess)
+mam (n)	breast (boob)
+mango (n)	mango
+mantu (n)	dumpling
+manux (n)	human being
+manux (n)	human being
+marxa (v)	walk (march)
+mas (n)	mass (lump)
+masal (n)	issue
+mat (v)	death
+mau (n)	cat
+max (a)	more
+maxim (a)	most (maximally)
+maxin (n)	machine
+mede (v)	help
+medit (v)	meditate (ponder)
+mega (num)	million (mega-)
+mes (n)	month
+metal (n)	metal
+meza (n)	table
+mi (pp)	I (me)
+mien (n)	noodle
+migan (n)	mandarin orange
+mijin (n)	MSG (monosodium glutamate)
+mimen (pp)	we
+min (a)	less
+minar (n)	tower
+minim (a)	least (minimally)
+minut (n)	minute
+misal (n)	example
+miskin (a)	poor (miserable)
+mit (n)	myth
+model (v)	model
+mogu (n)	mushroom (fungus)
+mol (a)	soft
+moli (n)	jasmine
+monster (n)	monster
+mos (n)	moss
+mosim (n)	season
+moskit (n)	mosquito
+motor (n)	engine (motor)
+mudan (n)	peony
+muka (n)	face
+mun (n)	door (gate)
+munkin (a)	possible (maybe)
+mus (v)	must
+musik (n)	music
+musiker (n)	musician
+nafas (v)	breath (breathe)
+nag (a)	naked (bare)
+naijiria (pn)	Nigeria
+nam (v)	name
+nama (n)	meat (flesh)
+narak (n)	hell
+nas (n)	people (folk)
+nasia (n)	nation
+nau (n)	brain
+nen (tw)	year
+net (n)	net
+nil (a)	blue
+nipon (pn)	Japan
+no (tam)	no (not)
+noc (tw)	night
+nos (n)	nose
+not (v)	note (observation)
+nul (num)	zero (none)
+numer (n)	number
+nun (tam)	now
+o (conj.)	or
+or (n)	ear
+pagri (n)	turban
+pak (v)	pack (package)
+pakistan (pn)	Pakistan
+pal (n)	fruit
+pan (n)	bread
+pang (a)	thick (fat)
+pantalon (n)	pants (trousers)
+paper (n)	paper
+parda (n)	curtain
+pat (n)	path
+pent (v)	paint
+pes (n)	money
+piano (n)	piano
+pigu (n)	buttocks (butt)
+pingo (n)	apple
+piping (v)	criticize
+pix (v)	piss (urine)
+plan (v)	plan
+plastik (n)	plastic
+plat (n)	plate
+poker (n)	poker
+polis (v)	police
+ponguin (n)	penguin
+program (v)	program
+programer (n)	programmer
+puding (n)	pudding
+puj (v)	worship
+putau (n)	grape
+putong (a)	common (universal)
+radio (n)	radio
+ramazan (pn)	Ramadan
+rang (n)	color
+razon (v)	reason (rational thinking)
+recet (n)	recipe
+resid (n)	receit
+rik (a)	rich
+rit (n)	ritual (ceremony)
+roket (n)	rocket
+rol (n)	role
+romans (v)	love (romance)
+rul (v)	roll
+sabab (n)	reason (cause)
+sabun (n)	soap
+sad (a)	plain (simple)
+saf (a)	clean (pure)
+safar (v)	travel (voyage)
+sak (n)	bag (sack)
+salad (n)	salad
+salam (v)	hello (salaam)
+sam (a)	same
+saman (n)	sky
+san (num)	three
+sanduk (n)	box (chest)
+sant (a)	holy (sacred)
+sapat (n)	shoe
+se (pp)	self
+sekur (a)	safe (secure)
+sifa (n)	quality (charasteristic)
+sigar (n)	cigar
+sigaret (n)	cigarette
+silsil (n)	chain
+sin (n)	chest (breast)
+sofa (n)	sofa (couch)
+son (v)	sleep
+sos (n)	sauce
+sosis (n)	sausage
+stop (v)	stop
+suan (a)	sour
+suba (n)	morning
+sukar (n)	sugar
+sum (v)	sum
+sun (v)	hear (listen)
+sup (n)	soup
+super (a)	super (superb)
+ta (pp)	he or she
+tabia (n)	nature (environment)
+tamar (n)	date fruit
+tamen (pp)	they
+tanzania (pn)	Tanzania
+tara (n)	star
+tava (n)	frying pan
+tel (a)	distant (tele-)
+tem (v)	topic (theme)
+ten (v)	have (hold)
+tenci (n)	weather
+tenis (n)	tennis
+teyan (v)	suggest (propose)
+tez (a)	energetic (depending on context: brisk, fast, loud, hot, sharp, etc)
+ti (pp)	you
+tiket (n)	ticket
+tim (n)	team
+timen (pp)	you
+tip (n)	type (category)
+to (conj)	so (then)
+tomat (n)	tomato
+ton (n)	tone (pitch or shade)
+tong (n)	barrel
+top (n)	gun
+tren (n)	train
+tub (n)	tube
+tufan (n)	storm (tempest)
+turkia (pn)	Turkey
+umur (n)	age
+vaz (n)	vase
+venen (n)	poison (venom)
+ver (a)	true (real)
+viet (pn)	Vietnam
+viman (n)	airplane
+vol (v)	want (desire)
+vot (v)	vote
+wa (i)	wow
+wad (v)	promise (commitment)
+wan (n)	bowl (earless cup)
+wang (a)	yellow
+wen (n)	circle (round)
+xak (v)	doubt (disbelief)
+xant (a)	peace
+xatur (n)	chess
+xik (a)	elegant (chic)
+xin (n)	heart
+xir (n)	poem
+xirop (n)	syrup
+xok (v)	shock (collide)
+xuli (v)	repair (fix)
+yakin (a)	certain (sure)
+ye (tam)	yes (yeah)
+yen (n)	eye
+yep (n)	leaf
+yumor (n)	humor
+zaitun (n)	olive
+zalim (a)	mean (cruel)
+zam (n)	time (moment)
+zizi (n)	fly (housefly)
+zon (n)	belt (zone)
+zukam (n)	cold (illness)
+zumrud (n)	emerald
+
