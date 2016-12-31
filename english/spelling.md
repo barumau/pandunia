@@ -1,48 +1,51 @@
-# Spelling of Pandunia
+Spelling of Pandunia
+====================
 
-## Pronunciation
+The Basic Latin alphabet is used for writing Pandunia.
 
-### Vowels
+> a b c d e f g h i j k l m n o p r s t u v w x y z
 
-| Letter | Phonetic<br> symbol | English<br> approximation |
-|:------:|:-------------------:|:-------------------------:|
-|a       | /a/                 | ah                        |
-|e       | /e/                 | eh                        |
-|i       | /i/                 | ee                        |
-|o       | /o/                 | oh                        |
-|u       | /u/                 | oo                        |
+Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is silent. Every letter has one sound, always the same.
 
-### Consonants
 
-| Letter | Phonetic<br> symbol | English<br> approximation |
-|:------:|:-------------------:|:-------------------------:|
-|p       | /p/                 | pop                       |
-|b       | /b/                 | bat                       |
-|t       | /t/                 | tap                       |
-|d       | /d/                 | dude                      |
-|k       | /k/                 | key                       |
-|g       | /g/                 | get                       |
-|f       | /f/                 | foot                      |
-|v       | /v/ /w/             | vet or wet                |
-|s       | /s/                 | sissy                     |
-|z       | /z/                 | zoo                       |
-|x       | /ʃ/ /ɕ/             | ship                      |
-|c       | /tʃ/                | church                    |
-|j       | /dʒ/                | jet                       |
-|h       | /h/                 | hot                       |
-|m       | /m/                 | mom                       |
-|n       | /n/                 | nine                      |
-|ng*     | /ŋ/                 | song                      |
-|l       | /l/                 | lolly                     |
-|r       | /r/                 | road                      |
-|y       | /j/                 | yet                       |
 
-(*) **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be mute. So the word **pang** can be pronounced /paŋ/ or /paŋg/.
+Vowel Sounds
+------------
+
+Pandunia has five vowels.
+
+    i   u
+    e   o
+      a
+
+They are pronounced as follows: **a** like in _palm_, **e** like in _hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in _rude_. They are pure vowels, so their quality doesn't change over the duration of the vowel.
+
+Semivowels **y** and **w** are pronounced like in English.
+
+
+Consonant Sounds
+----------------
+
+Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, v, z** is familiar and easy.
+
+The following consonants are pronounced differently in Pandunia than in English.
+
+- **c** is always pronounced like ch in _chip, church_.
+- **g** is always hard like in _girl, get_.
+- **r** is preferably trilled like in Scottish English or Spanish _carro_. Also other pronunciations are acceptable. Note that **r** is never silent!
+- **s** is always voiceless like in _sissy_. **z** is voiced like in _zoo_.
+- **x** is pronounced like sh in _ship_.
+- **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
 
 
 ### Stress Accent
 
-The stress is on the last syllable of a word.
+The stress is on the syllable, which is before the last consonant.
+
+1. Words with only one syllable carry the stress. Ex. MAU, TONG.
+2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
+3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, CAMca, filoSOfia
+4. Suffixes don't change the place of the stress. Ex. proGRAM, proGRAMer.
 
 
 ### Schwa
@@ -51,22 +54,22 @@ Schwa is a short, unstressed and neutral vowel, which can be added after a conso
 
 For example, some people can ease the pronunciation of words like **sam**, **kop** and **sabab**, which end in consonants, by adding a schwa sound in the end like this /samə/, /kopə/, /sababə/. If words like that are difficult to you, it's better to add a schwa than to "swallow" the last consonant.
 
-The schwa is always unstressed and it doesn't ever change the accented syllable.
+The schwa is always unstressed and it doesn't ever change the place of the stress.
 
 
 ## Letter Case
 
-Pandunia is normally written only in small letters (i.e. lower case letters). Larger capital letters are not used and there are no capitalization rules. So it is correct to begin all words with a small letter, including personal names and place names.
+Pandunia is normally written only in small letters (i.e. lower case letters). Capital letters can be in the beginning of sentences and proper nouns, such as personal names and place names, but it is not required.
 
-There are three reasons why Pandunia doesn't use capital letters.
+There are three reasons why capital letters are not necessary.
 
 1. Writing represents speech and there are no "capital sounds" in speech in beginning of proper names etc.
 2. Most of the scripts and alphabets of the world have only one letter case.
 3. It is simpler to use only small letters.
 
-Note! It's not a big mistake to use capital letters. Sometimes people do it habitually because they are used to them in other languages. Still capital letters are unnecessary and not recommended.
+Note! It's not a mistake to use the capital letters. Sometimes people do it habitually because they are used to them in other languages. But still capital letters are unnecessary and not recommended.
 
-Capital letters are used in standard international acronyms. For example: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 200 kJ (du hon kilo jul).
+Capital letters are used in standard international acronyms. For example: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
 
 
 ## Syllabification
@@ -90,5 +93,5 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-**mi vide ti :)** = I see you.  
-**mi no vide ti :(** = I don't see you. 
+**mi vid ti :)** = I see you.  
+**mi no vid ti :(** = I don't see you. 

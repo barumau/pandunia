@@ -51,9 +51,8 @@ Ilo aŭ maŝino. Ekz. **komputor** komputilo.
 
 ### -ia
 
-Nomoj de fizikaj kaj pensaj "regionoj" ofte finiĝas per -ia.
+Nomoj de lokoj, landoj kaj regionoj ofte finiĝas per -ia.
 
-- Sciencoj: **filosofia** filozofio, **biolojia** biologio, **kimia** ĥemio.
 - Landoj: **arabia** Arabio, **indonesia** Indonezio, **rosia** Rusio, **turkia** Turkio
 - Regionoj: **imperia** imperio, **nasia** ŝtato, **demokratia** demokratio, **media** meza regiono, **tabia** naturo
 - Ejoj: **bekeria** bakejo.
@@ -64,6 +63,8 @@ Loĝanto. Ekz. **indonesian** Indoneziano, **rosian** rusiano.
 
 ### -ie
 
-Abstraktaj kvalitoj. Ekz. **hurie** libereco, **sofie** saĝeco.
+Ago aŭ sistemo. Ekz. **funcie** funkcio, **demokratie** demokratio, **biolojie** biologio, **filsofie** filozofio.
+
+
 
 

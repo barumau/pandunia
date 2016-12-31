@@ -9,25 +9,25 @@ Introducing yourself
 > ☻: **ti ke?** = Who are you?  
 > ☺: **mi yusef. ti ke?** = I am Yusef. Who are you?  
 > ☻: **mi maria. ta ke?** = I am Maria. Who is that?  
-> ☺: **ta se mi de panyo.** = That is my friend.  
-> ☻: **ta de nam se ke?** = What's her name?  
-> ☺: **ta de nam se sara.** = Her name is Sara.
+> ☺: **ta ye mi ge panyo.** = That is my friend.  
+> ☻: **ta ge nam ye ke?** = What's her name?  
+> ☺: **ta ge nam ye sara.** = Her name is Sara.
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta se mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **se mi de panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi de panyo** (is my friend).
 
 The word for "to be" is not normally used in Pandunia. Expression like **ta sara** (She Sara) is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
 
 > **ta sara.** - She is Sara.
 > **ta no sara.** - She is not Sara.  
 
-But something is needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **se** in the middle. It's not a verb but a pronoun, which corresponds to English words _himself, herself, themselves_ etc. It's not needed in the negative, because **no** already separates the two.
+But something is needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **ye** in the middle. It's not a verb but a particle, **ye** means "yes" in English. Naturally, **no** is used for negation.
 
-> **mau se hewan** - The cat is an animal.
+> **mau ye hewan** - The cat is an animal.
 > **mau no hewan** - The cat is not an animal.
 
-Of course personal pronouns like **mi, ti** and **ta** don't need **se** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
+Of course personal pronouns like **mi, ti** and **ta** don't need **ye** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
 
 > **mi .............. !**
 
@@ -52,21 +52,21 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Word List
 
-**mi** I, me. **mi de** my.  
-**ti** you. **ti de** your.  
-**ta** he, she or it. **ta de** his, her, its.  
+**mi** I, me. **mi ge** my.  
+**ti** you. **ti ge** your.  
+**ta** he, she or it. **ta ge** his, her, its.  
 **ke** who or what.  
-**ye** is. **no** is not.  
+**ye** yes. **no** no.  
 **bon** good. **panyo** friend. **nam** name.
 
 ### Answers to the Exercises
 
-1. ti ke?
-2. mi tomas.
-3. ti de panyo (se) ke?
-4. ta sara.
-5. ti de nam (se) ke?
-6. mi de nam se ........... 
+1. ti (ye) ke?
+2. mi (ye) tomas.
+3. ti de panyo (ye) ke?
+4. ta (ye) sara.
+5. ti de nam (ye) ke?
+6. mi de nam ye ........... 
 
 
 --------------------------------------------------------------------------------
@@ -75,20 +75,20 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 Saying hello
 ------------
 
-> **cau** = Hello!
+> **salam** = Hello!
 
-This is how people greet each other in Pandunia. They say **cau**. It is used for saying both hello and goodbye.
+This is how people greet each other in Pandunia. They say **salam**. It is used for saying both hello and goodbye.
 
-> **cau** = Bye!
+> **salam** = Bye!
 
-The word **cau** means "greeting". It is similar to the famous Italian greeting, _Ciao!_, which is known in many countries. In addition, it is close to Vietnamese greeting, _Chào!_, which just happens to sound alike. Pandunia always uses words like **cau**, which are known in many places around the world.Pandunia is a constructed world language. 
+The word **salam** means "greeting". It is originally an Arabic word, which means _peace_, and it is a common greeting in many parts of the world, especially in Africa and Asia. Pandunia is a constructed world language, which borrows words from all parts of the world.
 
-As a predicate, **cau** means "to greet".
+**Salam** is converted into an active verb by adding **-a**. **Salama** means "to greet".
 
-> **mi cau ti.** = I greet you.  
-> **ti cau mi.** = You greet me.
+> **mi salama ti.** = I greet you.  
+> **ti salama mi.** = You greet me.
 
-These are active sentences. In active sentences the subject does the action to the object. In **mi cau ti** the first word, **mi**, is the subject, **cau** is the verb (action word), and **ti** is the object. The order of subject, verb and object is important and it never changes.
+These are active sentences. In active sentences the subject does the action to the object. In **mi salama ti** the first word, **mi**, is the subject, **salama** is the verb (action word), and **ti** is the object. The order of subject, verb and object is important and it never changes.
 
 > Word order in active sentence: Subject + Verb + Object
 
@@ -96,18 +96,18 @@ Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she
 
 In Pandunia sentences can be made shorter by leaving out pronouns that are obvious in the present situation.
 
-> **mi cau ti!** = I greet you.  
-> **cau ti!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
-> **cau!** = Greetings! (It is obvious that the listeners are greeted.)
+> **mi salama ti!** = I greet you.  
+> **salama ti!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
+> **salama!** = Greetings! (It is obvious that the listeners are greeted.)
 
-The pattern in **cau ti** is convenient for addressing people by name, kinship term or profession.
+The pattern in **salama ti** is convenient for addressing people by name, kinship term or profession.
 
-> **cau toni!** = Hello, Tony!  
-> **cau mama!** = Hello, mother!  
-> **cau baba!** = Hello, father!  
-> **cau xef!** = Hello, chief!
+> **salama toni!** = Hello, Tony!  
+> **salama mama!** = Hello, mother!  
+> **salama baba!** = Hello, father!  
+> **salama xef!** = Hello, chief!
 
-Other Pandunia words for greeting are **halo** and **salam**. They are also very international words. **halo** is known in Western countries and elsewhere. **salam** is a common greeting in many parts of Asia and Africa. You can choose freely, which word to use when you greet people.
+Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
 
 
 ### Exercises
@@ -121,16 +121,16 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Word List
 
-**cau, halo, salam** greeting, hello, hi, salaam, ciao, etc.  
+**salam, halo** greeting, hello, hi, salaam, ciao, etc.  
 **mama** mother, mom. **baba** father, dad. **xef** chief, boss.
 
 
 ### Answers to the Exercises
 
-1. ti cau ta.
-2. mama cau baba.
-3. cau mama!
-4. cau!
+1. ti salama ta.
+2. mama salama baba.
+3. salama mama!
+4. salama!
 
 
 --------------------------------------------------------------------------------
@@ -141,24 +141,24 @@ Making requests
 
 ### Dialog
 
-☻: **cau!** = Hello!  
-☺: **cau! cing sit.** = Hello! Please sit!  
-☻: **danku.** = Thank you.  
-☺: **cing yem kafe o ca.** = Please have some coffee or tea.  
-☻: **mi yem ca. danku.** = I will have some tea, thank you.  
+☻: **salam!** = Hello!  
+☺: **salam! cing sit.** = Hello! Please sit!  
+☻: **danke.** = Thank you.  
+☺: **cing kana kafe o ca.** = Please have some coffee or tea.  
+☻: **mi kana ca. danke.** = I will have some tea, thank you.  
 ...  
-☺: **cing cau ti de mama!** = Please tell greetings to your mother.  
-☻: **mi cau ta. cau!** = I will. Bye!  
-☺: **cau!** = Bye!
+☺: **cing salama ti de mama!** = Please tell greetings to your mother.  
+☻: **mi salama ta. salam!** = I will. Bye!  
+☺: **salam!** = Bye!
 
 
 ### Grammar
 
 Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish the sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
-> **mi cing ti cau ta.** = I ask you to say hello to him/her.
+> **mi cing ti salama ta.** = I ask you to say hello to him/her.
 
-This sentence has a pivot structure. The first verb, **cing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **cau** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the pivot or hinge between the two verbs.
+This sentence has a pivot structure. The first verb, **cing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salama** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the pivot or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -166,24 +166,24 @@ The pivot structure is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in the context. In other words the speaker can safely assume that the listeners know who he or she is talking about. So it is unnecessary to keep on repeating them. In this manner phrases can be made shorter.
 
-> **mi cing ti cau ta.** = I ask you to say hello to him/her.  
-> **cing cau ta.** = Please say hello to him/her.
+> **mi cing ti salama ta.** = I ask you to say hello to him/her.  
+> **cing salama ta.** = Please say hello to him/her.
 
 See how the translation of **cing** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
 
-The phrase **cing cau ta** has a useful pattern that can be used for making polite requests.
+The phrase **cing salama ta** has a useful pattern that can be used for making polite requests.
 
 > **cing sit.** = Please be seated.
-> **cing da kafe.** = Please give me some coffee.
-> **cing da ca.** = Please give me some tea.
-> **cing yem ca.** = Please have some tea.
+> **cing dona kafe.** = Please give me some coffee.
+> **cing dona ca.** = Please give me some tea.
+> **cing kana ca.** = Please have some tea.
 
 <!--
 > **cing saf kamar.** = Please clean the room.
 
 Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **cing**.
 
-> **koman da ca.** = Give me some tea!
+> **koman dona ca.** = Give me some tea!
 > **koman saf kamar.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
@@ -206,17 +206,17 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **da** to give. **danku** thanks. **i** and. **kafe** coffee. **kamar** room. **koman** to command. **o** or. **saf** clean. **sit** to sit. **yem** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. **koman** to command. **o** or. **saf** clean. **sit** to sit. **kana** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. ta yem ca.
+1. ta kana ca.
 2. xef cing ta sit.
-3. cing yem kafe o ca.
+3. cing kana kafe o ca.
 4. mama cing mi safa kamar.
-5. xef sit i yem kafe.
-6. koman cau xef!
+5. xef sit i kana kafe.
+6. koman salama xef!
 
 
 --------------------------------------------------------------------------------
@@ -227,17 +227,17 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia ti yem kafe o ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia ti kana kafe o ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i ti?** = And you?  
 ○: **mi no sabe pandunia...** = I don't speak Pandunia...  
-☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?
-☺: **no. ta no yem ca. ta yem kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia ti yem sup?** = Would you like to have soup?  
-☺: **yem.** = Yes.  
-☻: **kia ta yem sup?** = Would he like to have soup?  
-☺: **no yem.** = No.  
-☻: **danku. mi da un ca i un kafe i un sup na des minut bada.**  
+☻: **maf! kia ta kana ca?** = Pardon! Will he have tea?
+☺: **no. ta no kana ca. ta kana kafe.** = No, he won't. He would like to have coffee.  
+☻: **kia ti kana sup?** = Would you like to have soup?  
+☺: **kana.** = Yes.  
+☻: **kia ta kana sup?** = Would he like to have soup?  
+☺: **no kana.** = No.  
+☻: **danke. mi dona un ca i un kafe i un sup na des minut bada.**  
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.  
 
 
@@ -245,19 +245,19 @@ Yes or no questions
 
 Questions that can be answered by saying "yes" or "no" have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **mi kia ti yem ca.** = I ask (do) you drink tea.  
-> **kia ti yem ca?** = Do you drink tea?  
-> **kia yem ca?** = Drink tea?
+> **mi kia ti kana ca.** = I ask (do) you drink tea.  
+> **kia ti kana ca?** = Do you drink tea?  
+> **kia kana ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ta yem ca?** = Does he or she drink tea?  
-> **kia ti yem sup?** = Do you eat soup?  
-> **kia mimen yem su?** = Do we drink water?
+> **kia ta kana ca?** = Does he or she drink tea?  
+> **kia ti kana sup?** = Do you eat soup?  
+> **kia mimen kana sui?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xef yem kafe?** = Does the chief drink coffee?  
+> **kia xef kana kafe?** = Does the chief drink coffee?  
 > **kia baba saf kamar?** = Does the father clean the room?  
 > **kia niki sabe pandunia?** = Does Nicky know Pandunia?
 
@@ -266,22 +266,22 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
-> – **kia ti yem sup?** = Do you eat soup?  
+> – **kia ti kana sup?** = Do you eat soup?  
 > – **ye.** = Yes.  
-> – **kia ta yem sup?** = Does she eat soup?  
+> – **kia ta kana sup?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia ti yem kafe?** = Do you drink coffee?  
-> – **ye. mi yem kafe.** = Yes, I drink coffee.  
-> – **kia ta yem kafe?** = Does he drink coffee?  
-> – **no. ta no yem kafe.** = No, he doesn't drink coffee.
+> – **kia ti kana kafe?** = Do you drink coffee?  
+> – **ye. mi kana kafe.** = Yes, I drink coffee.  
+> – **kia ta kana kafe?** = Does he drink coffee?  
+> – **no. ta no kana kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia ti yem su?** = Do you drink water?  
-> – **yem.** = (Yes, I) drink.
+> – **kia ti kana sui?** = Do you drink water?  
+> – **kana.** = (Yes, I) drink.
 
 
 ### Exercises
@@ -298,17 +298,17 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **sabe** to know how. **su** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes, affirmative.
+**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **sabe** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
 
 
 ### Answers to the Exercises
 
 1. kia ti sabe pandunia?
 2. ye. mi sabe pandunia.
-3. kia mama yem kafe?
-4. no. ta no yem kafe.
-5. kia ta yem sup?
-6. (ta) no yem. 
+3. kia mama kana kafe?
+4. no. ta no kana kafe.
+5. kia ta kana sup?
+6. (ta) no kana. 
 
 
 --------------------------------------------------------------------------------
@@ -320,10 +320,10 @@ Saying no
 
 In the previous lesson you learned to answer ye and no to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
 
-> **mi cau ti.** = I greet you.  
-> **mi no cau ti.** = I do not greet you.
+> **mi salama ti.** = I greet you.  
+> **mi no salama ti.** = I do not greet you.
 
-Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no cau ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
+Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salama ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
 > **mi cing ti saf kamar.** = I ask you to clean the room.  
 > **mi no cing ti saf kamar.** = I do NOT ask you to clean the room.  
@@ -359,9 +359,9 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 1. ta no saf kamar.
 2. un kop no kali.
-3. du kuta no yem sup.
+3. du kuta no kana sup.
 4. ta no mala kuta i mau. / ta mala no kuta i no mau.
-5. xef yem ca ama no kafe.
+5. xef kana ca ama no kafe.
 6. mama mala no kuta ama du mau. 
 
 -->

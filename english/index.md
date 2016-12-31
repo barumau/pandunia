@@ -17,9 +17,16 @@ Some remarkable features of Pandunia:
 
 Maybe! Pandunia is still under construction. The grammar is stable but some words can still be changed. If you like to learn constructed languages and help to improve them, you should learn Pandunia and help us! But if you want to learn a complete language that is ready now, probably you should consider learning some other language like Esperanto or Lidepla. Remember, you can always come back to Pandunia later!
 
+## Dictionaries
+
+- [Searchable dictionary](tiddly.html)
+- [English-Pandunia](english-pandunia.md)
+
 ## Join Others
 
 Some people are already interested about Pandunia and they are using it. Here are some places where you can find them:
 
 - [Pandunia Facebook group](http://www.facebook.com/groups/pandunia)
+- [Telegram group chat](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 - [Pandunia's Yahoo group](https://groups.yahoo.com/neo/groups/pandunia/info) : It's a mailing list, which is not so active anymore. Join it by sending a blank message to pandunia-subscribe@yahoogroups.com
+

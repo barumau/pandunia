@@ -1,122 +1,116 @@
-Grammar of Pandunia
-====================
-
-Introduction
-------------
-
-Pandunia is a constructed language that is built for a very special purpose: it is to be a language of world-wide communication. This ambitious goal sets special requirements for the language. It has to be learnable by all people – regardless of which language or languages they happen to know before – and learnable to confident mastery!
-
-Grammatical categories and markings, which people learn in their mother tongue and take for granted ever since, are by no means universal. Therefore the grammar of an international language is the best when it is reduced into a minimum. This points to an isolating grammar, which is free from inflection
-and morphology.
-
-Pandunia, as an isolating language, has the following grammatical properties:
-
-1. It uses word order to mark the relations in a sentence.
-2. It relies almost exclusively on full words, very seldom on vague _particles_ and never on affixes.
-3. It doesn't require the speaker to say more than what the context requires. 
-   (Whereas many other languages require the speaker to specify gender, tense, mood
-   and other factors always!)
+Grammar
+=======
 
 --------------------------------------------------------------------------------
 
-Word types
-----------
+Basic Rules
+-----------
 
-In Pandunia the main word types (which are also called parts of speech) are the noun, the verb, the adjective and the numerals. Different word types describe different kinds of things in the real world and they also serve in different roles in sentences.
+1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
+2. The stress accent is on the syllable before the last consonant of the word.
+3. Nouns are undefined by number and gender. They are neither masculine nor feminine, and neither singular nor plural by default.
+4. When adjective is before the noun, it is a modifier. When it follows the noun, it is an adjectival verb.
+    - ex. **bon pan** = Good bread. **pan bon** = Bread (is) good.
+5. Compound words are made by combining the elements that form them. The main word stands at the end.
+    - ex. **poste sanduk** = mailbox
+6. Sentences with transitive verbs have subject-verb-object word order. Most active verbs end in **-a**.
+    - ex. **mi penta mesa.** = I paint tables.
+7. Sentence with passive meaning has only subject and verb. Most passive verbs end in **-u**.
+    - ex. **meza pentu.** = Table is painted.
+8. The object of a transitive verb can function as the subject of the following verb. This structure is called the _pivot structure_.
+    - ex. **mi cing ti dona pesa.** = I ask you to give money.
+9. Pronouns can be left out when they are obvious and redundant.
+    - **mi kia ti loga pandunia?** → **kia ti loga pandunia?** = Do you speak Pandunia?
+    - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
 
-Each Pandunia word belongs to one primary word type. So for example **batu** (stone) is a noun, not a verb, and **amor** (love) is primarily a verb, not a noun. However, it is still possible that a verb, like **amor**, functions as a noun in a phrase, like **mi di amor** (my love).
 
---------------------------------------------------------------------------------
 
-## Nouns
 
-A noun is a word that names a thing (ex. **batu** = stone), a person (ex. **mama** = mother), an abstract concept, or the proper name of a person (ex. **paula**) or a place (ex. **london**).
+Parts of speech
+---------------
 
-Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc. For example the word **batu** can refer to any number of stones, and likewise **tara** can refer to one or more stars.
+All words are invariable in Pandunia. There is no inflexion of any kind. That's why the parts of speech depend on the meaning of words, not on the form.
 
-Sometimes the context tells the number and definiteness. For example, in the normal context on Earth, the word **sol** obviously refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+The parts of speech in Pandunia are:
+
+1. The noun names a thing, a person, an abstract concept or a proper name, ex. stone, table, robot, cat, human, city, london.
+2. The modifier is a word that adds some quality to the thing denoted by another word, ex. good, bad, big, fast.
+3. The numeral is a word that tells the number or amount of things.
+4. The verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
+5. The particle is a structural or an abstract word, ex. yes, no, but, if.
+
+
+
+Nouns
+-----
+
+A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
+
+> **batu** - a stone, stones, the stone or the stones
+> **meza** - a table, tables, the table or the tables
+> **sui** - water
+
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sol** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-**sol guang** - sun light  
-**luna guang** - moon light  
-**luna batu** - moon stone
+> **sol guang** - sun light  
+> **luna guang** - moon light  
+> **luna batu** - moon stone
+
+When an adjective or a verb is converted into a noun, it often ends in **-e**.
+
+> **posta** - to mail (to send by mail)
+> **poste** - mail
+> **nov** - new
+> **nove** - new
+
+
+Modifiers
+---------
+
+A modifier is a word that changes the meaning of another word. They come before the noun that they modify.
+
+> **day batu** - big stone
+> **cung batu** - heavy stone  
+> **day meza** - bit table  
+> **gau meza** - high table
+
+When a modifier follows a noun phrase, it becomes a stative verb.
+
+> **batu day.** - The stone is big.  
+> **meza gau.** - The table is high.
+
+Naturally there can be modifiers on both sides of the noun as well.
+
+> **day meza gau.** - The big table is high.
 
 
 
-## Adjectives
+Numerals
+--------
 
-Adjectives are words that modify (change the meaning of) another word. An adjective adds some property, quality or status to the thing that is denoted by another word.
+Sometimes it is known from the context how many objects are spoken about. For example, the word **sol** (sun) normally refers to just one sun because there is only one.
 
-Adjectives come before the noun that they modify.
+Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
-**hau tenci** - good weather  
-**sundar femin** - beautiful woman  
-**neu haus** - new house
+> **un tara** - one star  
+> **du tara** - two stars  
+> **san tara** - three stars  
+> **xau tara** - few stars  
 
-When an adjective follows immediately a noun phrase, it becomes a statement of fact. In this role they can be called _adjectival verbs_ or _stative verbs_.
+Ordinal numerals come after the word that they modify.
 
-**tenci hau.** - The weather is good.  
-**femin sundar.** - Women are beautiful.  
-**haus neu.** - Houses are new.
+> **fen un** - the first part (part one)
+> **fen du** - the second part (part two)
+> **fen san** - the third part (part three)
 
-Naturally there can be adjectives in both sides of the noun as well.
-
-**neu haus sundar.** - New houses are beautiful.
-
-
-Content words
--------------
-
-Content words are words that refer to some thing, action or quality.
-They are divided into four categories as follows.
-
-1. _Nouns_ are words that name objects and things.  
-   **sabzi** vegetable, **mau** cat, **ren** person,
-   **meza** table, **lus** light, **tara** star, **sole** sun, **sama** sky.
-2. _Verbs_ are words for actions. **yem** eating, **loga** speaking, **vide** seeing,
-   **sabe** knowing, **vola** wanting.
-3. _Adjectives_ are words for describing qualities of things.  
-   **hau** good, **neu** new, **sundar** beautiful,
-   **kuai** fast, **sana** healthy.
-4. _Numerals_ are words for numbers and quantities.  
-   **un** one, **du** two, **san** three, 
-   **poli** many, **kam** few.
-
-Thing-words refer to a class of things. They don't contain information
-about the quantity. In other words, there aren't separate singular and plural
-forms.
-For example the word **batu** can refer to any number of stones, and likewise
-**tara** can refer to one or more stars.
-
-Sometimes the context tells how many objects are spoken about. In the normal
-context on Earth, **sama** refers to the only sky and **sole** refers to the
-only sun that there is.
-
-Quantity can be expressed with quantity-words. They are put before the word
-or phrase that they qualify.
-
-**un tara** - one star  
-**du tara** - two stars  
-**san tara** - three stars  
-**kam tara** - few stars  
-**poli tara** - many stars
-
-Thing-words can be put together with each other.
-
-**sole lus** - sun light  
-**tara lus** - star light  
-**tara sama** - star sky
-
-Also quality-words can be put together with thing-words.
-
-**un nov meza** - one new table  
-**du sana ren** - two healthy persons  
-**poli sundar tara** - many beautiful stars
 
 
 Pronouns
 --------
+
+### Personal pronouns
 
 Pronouns can substitute thing-words and phrases of thing-words.
 
@@ -131,68 +125,102 @@ Pronouns can substitute thing-words and phrases of thing-words.
 
 Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself, yourself, himself, herself, itself, ourselves_ and _themselves_ all at once.
 
-**ce** - who, what or which?  
-**ki** - (the one) that (relative pronoun)  
+
+### Demonstrative pronouns
+
 **ni** - this, these  
-**na** - that, those  
+**tu** - that, those  
 **el** - the one(s)
+
+The demonstrative pronouns work like modifiers.
+
+> **ni batu.** - This stone
+> **ni ye batu.** - This is a stone.
+> **ni batu cung.** - This stone is heavy.
+
+
+### Interrogative pronoun
+
+**Ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
+
+> **ke?** - Who or what?
+> **ke ting?** - What? (Which thing?)
+> **ke ren?** - Who? (Which person?)
+> **ke sabab?** - Why? (Which reason?)
+> **ke zam?** - When? (What time?)
+
+
+### Relative pronoun
+
+**Jo**, the relative pronoun, corresponds to English words _which, that, who_ and _whom_.
+
+> **mi leva batu, jo cung.** - I lift a stone, which is heavy.
+> **ta adam, jo mi vida.** - He is the man whom I saw.
+> **mimen suka ren, jo suka mimen.** - We like people who like us.
+
+
 
 --------------------------------------------------------------------------------
 
-Predicates
-==========
 
 
 Predicate of state
 ------------------
 
-When the predicate begins with a thing-word, a quality-word or a quantity-word, it becomes a predicate of identity. It is translated to English with "to be".
+Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a ponoun and the predicate is an adjective.
 
-**mi ren.** - I am a person. (Literally: _I person._)  
-**mi nov.** - I am new. (Lit. _I new._)  
-**ta nov meza.** - It is a new table. (Lit. _It new table._)  
-**tamen du sundar tara.** - They are two beautiful stars.
+**mi bon.** - I am good.  
+**sara bon.** - Sara is good.  
+**batu cung.** - Stone is heavy.
 
-When a quality-word follows a thing-word, they make a sentence that expresses state.
+Likewise, it's possible that the subject is a pronoun and the predicate is a noun.
 
-**un meza nov.** - One table is new.
-**tara sundar.** - Stars are beautiful.
+> **ta sara.** - She is Sara.
+> **ta batu.** - It is a stone.
 
-The predicate can include an action-word, but it is an inactive part of the phrase.
+But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Particle **ye** (yes) does it.
 
-**mi un yem sabzi ren.** - I am a vegetarian.  
-**ta un yem de meza.** - It is a dinner table.
+> **ta ye mi.** - It is me.
+> **tu ye batu.** - That is a stone.
+> **batu ye ting.** - Stone is a thing.
+> **jovan ye sundar.** - Young is beautiful.
+
+To deny something, use the word **no** instead of **ye**.
+
+> **mi no ti.** - I'm not you.
+> **batu no hewan.** Stone is not an animal.
+> **jovan no sundar.** - Young is not beautiful.
 
 
 Predicate of action
 -------------------
 
-In predicates of action, the main word in the predicate is an action-word.
+In predicates of action, the main word in the predicate is a verb (i.e. an action-word). In Pandunia, verbs are easy to identify because most of them end in **-a** or **-u**.
 
-**mi yem.** - I eat.  
-**ti vide.** - You see.
+Ending **-a** is used in the subject–verb–object word order (SVO), which is the normal word order also in English and in many other languages, including French, Spanish, Chinese and Modern Arabic.
 
-The predicate can have an object, which is simply the word that follows the action-word.
+> **mi kana pan.** - I eat bread.
+> **mi vida ti.** - I see you.
 
-**mi yem sabzi.** - I eat vegetables.  
-**ti vide tara.** - You see stars.
+Ending **-u** is used in the subject–object–verb word order (SOV). SOV is the normal word order in many languages, including Japanese, Korean, Turkish and the languages of India.
 
-So the basic sentence word order is subject-predicate-object.
+> **mi pan kanu.** - I eat bread. (Word-for-word: _I bread eat._)
+> **mi ti vida.** - I see you. (Word-for-word: _I you see._)
 
-Naturally pronouns can also function as objects of the predicate.
+The passive voice is formed by deleting the agent subject from the SOV type, leaving only OV.
 
-**mi vide ti.** - I see you  
-**tamen yem ta.** - They eat it.
+> **pan kanu.** - Bread is eaten.
 
 
-Action-words in series
-----------------------
+
+Serial verbs
+------------
 
 All action-words that come one after another are activated by the subject. There can be 2, 3 or even more action-words in series.
 
-1. **mi vide tara.** - I see the stars.  
-2. **mi vola vide tara.** - I want to see the stars.  
-3. **mi vola ken vide tara.** - I want to be able to see the stars.
+1. **mi go jia.** - I go home.  
+2. **mi ken go jia.** - I can go home.  
+3. **mi vol ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 Pivot structure
@@ -200,23 +228,9 @@ Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-**mi vola ti yem sabzi.** - I want you to eat vegetables.
+> **mi vol ti kana sabzi.** - I want (that) you eat vegetables.
 
-In the example above, **mi vola** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is _the pivot_ of the sentence.
-
-The pivot structure is very useful for expressing the speaker's point of view to what others do.
-
-**mi vola ti lai.** - I want you to come.  
-**mi xaka tamen yem tot banana.** - I suspect they ate all bananas.  
-**mi vide ta na dukan.** - I saw him in the shop.
-
-The reflexive pronoun can also function as the pivot.
-
-**mi vola se sundar.** - I want (myself) to be beautiful.
-
-Also a thing-word can function as the pivot with the help of **se**.
-
-**mi vide jovan ren na dukan.** - I see young people in the shop.
+In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **kana sabzi**. So **ti** is _the pivot_ of the sentence.
 
 
 Pronoun dropping
@@ -224,14 +238,11 @@ Pronoun dropping
 
 In certain type of expressions the pronouns gets dropped because of brevity. This is done especially in commands and requests.
 
-**mi cing ti lai.** - I ask you to come.  
-**cing lai!** - Please come! (Literally: _Request come!_)
+> **mi cing ti lay.** - I ask you to come.  
+> **cing lay!** - Please come! (Literally: _Request come!_)
 
 
 --------------------------------------------------------------------------------
-
-Particles
-=========
 
 
 Affirmation and negation
@@ -241,123 +252,71 @@ Particle **ye** is affirmative and **no** is negative. **ye** affirms the existe
 
 Expressions are affirmative by default, so the word **ye** is not necessary. However it is especially convenient in expressions of state.
 
-**mi ye ren.** - I am a person.  
-**ta ye un nov meza.** - It is a new table.
+> **mi ye ren.** - I am a person.  
+> **ta ye un nov meza.** - It is a new table.
 
 Such sentences can be simply negated with **no**.
 
-**mi no ren.** - I'm not a person.  
-**ta no un nov meza.** - It's not a new table.
+> **mi no ren.** - I'm not a person.  
+> **ta no nov meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
-**mi vide ti.** - I see you.  
-**mi no vide ti.** - I don't see you.  
-**mi vide no ti ama tamen.** - I see, not you, but them.
+> **mi vida ti.** - I see you.  
+> **mi no vida ti.** - I don't see you.  
+> **mi vida no ti ama tamen.** - I see, not you, but them.
 
 These particles also answer questions.
 
-**kia ti vide mi?** - Do you see me.  
-**ye. (mi vide ti.)** - Yes. (I see you.)  
-**no. (mi no vide ti.)** - No. (I don't see you.)
+> **kia ti vida mi?** - Do you see me.  
+> **ye. (mi vida ti.)** - Yes. (I see you.)  
+> **no. (mi no vida ti.)** - No. (I don't see you.)
 
 
 
-Qualifier particle: de
-----------------------
+Modifier particles
+------------------
 
-The particle **de** changes any kind of phrase into a quality-phrase.
+There are two particles that change a word or phrase into a modifier, **ge** and **de**. They have the same function but the word order is different. **Ge** connects the modifying word to the modified word, and **de** connects the modified word to the modifying word, in precisely the said order.
 
-The personal pronouns are changed into possessive pronouns.
+When pronouns are turned into modifiers, they become _possessive pronouns_. There are two ways to build them in Pandunia.
 
-**mi de** my  
-**ti de** your  
-**ta de** his, her or its  
-**mimen de** our  
-**timen de** your  
-**tamen de** their
-
-Here's how it works in sentences.
-
-**mi de mama se sundar.** - My mother is beautiful.  
-**mi suka ti de dom** - I like your house.
-
-Also content words are changed into possessives.
-
-**maria de mama** - Maria's mother  
-**loga de tema** - the topic of the speech  
-**jovan de dom** - house of the young
-
-Even a predicate can be qualified with the help of **de**.
-
-**ta loga pandunia.** - He speaks Pandunia.  
-**ta sundar de loga pandunia.** - He beautifully speaks Pandunia.
-
-Also thing-words can qualify a predicate.
-
-**ta bate ding.** - He hits nails.  
-**ta hamar de bate ding.** - He "hammerly" hits nails.
+| With _ge_                        | With _de_                                |
+|:---------------------------------|:-----------------------------------------|
+| **mi ge jia** - my home          | **jia de mi** - the home of mine         |
+| **ti ge jia** - your home        | **jia de ti** - the home of yours        |
+| **ta ge jia** - his/her/its home | **jia de ta** - the home of his/hers/its |
+| **mimen ge jia** - our home      | **jia de mimen** - the home of ours      |
+| **timen ge jia** - your home     | **jia de timen** - the home of you all   |
+| **tamen ge jia** - their home    | **jia de tamen** - the home of theirs    |
 
 
-Time-words
-----------
+A modifier particle changes any kind of phrase into an equivalent of a quality-word. So also nouns and verbs can be changed into modifiers.
 
-Time-words express a point in time or an aspect (i.e. a point of view) to the time when something happened. Their function is similar to function of English words like _tomorrow, now_ and _already_.
-
-**suba** - (in the) morning  
-**din** - (at) daytime  
-**xam** - (in the) evening  
-**noc** - (in the) night  
-**jin** - now  
-**yer** - yesterday  
-**kal** - tomorrow  
-**hai** - still  
-**la** - already  
-**gang** - just, recently  
-**sun** - soon
-
-The place of the particle doesn't matter. It can be placed freely to express different emphasis.
-
-**hai mi yem.** - Still I eat.  
-**mi hai yem.** - I still eat.  
-**mi yem hai.** - I eat still.
+> **maria ge mama** - Maria's mother  
+> **batu ge cung** - stone's weight  
+> **kana ge zam** - the moment of eating
 
 
---------------------------------------------------------------------------------
+Other Topics
+------------
 
-# Phrase types
+### Sentence Word Orders
 
-Phrases are combinations of words, which belong to different categories.
+In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
-|                  |                                      |
-|------------------|:-------------------------------------|
-| N + N            | compound word                        |
-| Pp + N           | short identity predicate             |
-| A + N            | noun modified by adjective           |
-| NP + A           | stative (adjectival) predicate       |
-| NP + V           | passive predicate                    |
-| NP + NP + VP     | active predicate (SOV)               |
-| NP + V + NP      | active predicate (SVO)               |
-| NP + VP + A      | predicate with modifier (adverb)     |
-| Pp + NP + V + NP | short causative phrase               |
+    1. With the verb ending in -a
+        - object–subject–verb (OSV) : pan mi kana.
+        - subject–verb–object (SVO) :     mi kana pan.
+        - verb–object–subject (VOS) :        kana pan mi.
+    2. With the verb ending in -u
+        - subject-object-verb (SOV) : mi pan kanu.
+        - object-verb-subject (OVS) :    pan kanu mi.
+        - verb-subject-object (VSO) :        kanu mi pan.
 
-mi ti amor. = mi amor ti.
+The constituent, which is further away from the verb, can be left out. So for example **pan mi kana** (OSV) can be trunkated to **mi kana** (SV). Likewise **mi pan kanu** (SOV) can be trunkated to **pan kanu** (OV).
+
+The typical word orders in everyday Pandunia are SVO, SOV and OSV, which occurs frequently in dependant clauses like **mi vida ren, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
 
-1. thing-word
-2. thing-word + thing-word = a compound word
-3. quality-word + thing-word = a qualified thing-word
-4. thing-word + quality-word = stative predicate of the thing-word
-5. thing-word + action-word = active predicate of the thing-word
-6. thing-word + action-word + thing-word = complete SVO sentence
-
-(verb phrase)(noun phrase)(quality)
-
---------------------------------------------------------------------------------
-
-# Compound words
-
-Compound words are an effective way to grow your vocabulary. In Pandunia compound words always consist of whole words. There aren't any special prefixes or suffixes, such as -er and -al are in English words like _maker_ and _natural_.
-
-**kan** means a place or a workshop.
 

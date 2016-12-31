@@ -1,9 +1,8 @@
 # pandunia
-<!-- [gimmick:themechooser](Choose theme) -->
 [gimmick:theme](readable)
-<!-- [gimmick:theme](readable) -->
-<!-- [gimmick:theme](slate) -->
 
-[Quick Start](quickguide.md)
+[Spelling](spelling.md)
+[Grammar](grammar.md)
 [Lessons](lessons.md)
-<!-- [Grammar](grammar.md) -->
+[Words](words.md)
+
