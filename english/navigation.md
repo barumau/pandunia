@@ -5,4 +5,5 @@
 [Grammar](grammar.md)
 [Lessons](lessons.md)
 [Words](words.md)
+[FAQ](FAQ.md)
 
