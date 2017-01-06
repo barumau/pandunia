@@ -1,8 +1,6 @@
 Frequently Asked Questions
 ==========================
 
-General
--------
 
 #### How many people can speak Pandunia?
 
@@ -36,9 +34,6 @@ Creating offshoot languages is very common in the auxiliary language community. 
 It is better to have one big language with several dialects than many competing languages.
 
 
-
-Structural matters
-------------------
 
 <!--
 #### What is a worldlang?

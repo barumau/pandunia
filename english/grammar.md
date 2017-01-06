@@ -205,7 +205,7 @@ Ending **-a** is used in the subject–verb–object word order (SVO), which is 
 Ending **-u** is used in the subject–object–verb word order (SOV). SOV is the normal word order in many languages, including Japanese, Korean, Turkish and the languages of India.
 
 > **mi pan kanu.** - I eat bread. (Word-for-word: _I bread eat._)
-> **mi ti vida.** - I see you. (Word-for-word: _I you see._)
+> **mi ti vidu.** - I see you. (Word-for-word: _I you see._)
 
 The passive voice is formed by deleting the agent subject from the SOV type, leaving only OV.
 
@@ -298,6 +298,58 @@ A modifier particle changes any kind of phrase into an equivalent of a quality-w
 > **kana ge zam** - the moment of eating
 
 
+
+Prepositions
+------------
+
+Pandunia has three prepositions of place.
+
+1. **na** - location (in general): at, in, on
+2. **ze** - origin: from, since
+3. **do** - destination: to, till, until
+
+Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
+
+> **mi lay jia.** - I come home.
+> **ti seda kursi.** - You sit (on) the chair.
+> **ta lala sofa.** - S/he lies (on) the sofa.
+> **fix nata daria.** - Fish swim (in) the water.
+> **janger marxa dau.** - Warriors march (on) the road.
+
+A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
+
+> **mi na hotel.** - I'm in the hotel.
+> **mi sona na hotel.** - I sleep in the hotel.
+> **mi sona ze xam do suba.** - I sleep since evening until morning.
+> **mi safara ze london do paris.** - I travel from London to Paris.
+
+Prepositions can be complemented also by a verb phrase. Then they refer to time.
+
+> **mi denga ze ti toka.** - I have waited since you left.
+> **mi denga do ti lay jia.** - I wait until you come home.
+> **mi denga na ti sona.** - I wait while you sleep.
+
+More precise expressions of place are expressed with _a preposition + place word + **de**_.
+
+> **na dur de** - for the time/duration of
+> **mi denga na dur de ti sona.** - I wait for the time when you sleep.
+> **na lok de** - at the place of
+> **mi denga na lok de ti toka.** - I wait at the place where you left.
+> **na xia de** - under, below
+> **un kuta lala na xia de meza.** - A dog lies under the table.
+> **na men de** - on the surface of
+> **un mau lala na men de meza.** - A cat lies on the table.
+
+Similar meaning can be expressed also with compound words.
+
+> **un mau lala na meza men.** - A dog lies at the tabletop.
+
+In addition, a preposition can be followed immediately by a verb.
+
+> **dura** - to last, to take time
+> **mi denga na dura ti sona.** - I wait during you sleep.
+
+
 Other Topics
 ------------
 
@@ -314,7 +366,7 @@ In theory, there are six possible word orders for the transitive sentence. In pr
         - object-verb-subject (OVS) :    pan kanu mi.
         - verb-subject-object (VSO) :        kanu mi pan.
 
-The constituent, which is further away from the verb, can be left out. So for example **pan mi kana** (OSV) can be trunkated to **mi kana** (SV). Likewise **mi pan kanu** (SOV) can be trunkated to **pan kanu** (OV).
+The constituent, which is further away from the verb, can be left out. So for example **pan mi kana** (OSV) can be truncated to **mi kana** (SV). Likewise **mi pan kanu** (SOV) can be truncated to **pan kanu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV, which occurs frequently in dependant clauses like **mi vida ren, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 

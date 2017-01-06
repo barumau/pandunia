@@ -8,8 +8,6 @@ This is a short and simple guide to Pandunia, a constructed world language.
 
 Pandunia is not a difficult language to learn. Compared with other languages that you have probably studied in the past, it has a relatively simple vocabulary, a simple grammar, a simple spelling and simple sounds.
 
-One thing to keep in mind as you learn Pandunia is that it is not a strict, rule-oriented language where there is a "right way" and a "wrong way" to say things. The important thing is to make yourself understood. Consequently, much of the language involves words that have meaning, like "book" or "eat", and very little involves purely grammatical ideas (like singular vs. plural and tenses).
-
 
 Pronunciation
 -------------
@@ -20,12 +18,11 @@ The vowels **A E I O U** are pronounced approximately as follows: **A** as in _f
 
 Diphthongs are sounds that glide from one vowel sound to another. So for example **EI** begins with **E** sound and ends in **I** sound, much like the _ei_ in _eight_ in English.
 
-Most consonants are pronounced as in English. **G** is always hard, **H** is never silent, **S** is always sharp, **X** is pronounced like _sh_ in _ship_, **C** is pronounced like _ch_ in _chip_ or _c_ in _cello_!
+Most consonants are pronounced as in English. **G** is always hard, **H** is never silent, **S** is always sharp, **X** is pronounced like _sh_ in _ship_, **C** is pronounced like _ch_ in _chip_!
 
 Semivowels **Y** and **W** are used only in the beginning of a syllable.
 
 All words of more than one syllable are stressed on the last syllable. This is a simple principle but it will not be easy for all speakers. Just do your best and listen to others keenly!
-
 
 
 One-word sentences
@@ -51,13 +48,13 @@ The simplest sentences consist of a subject and a one-word desciption, which can
 > **ta batu.** - It's a stone.  
 > **batu cung.** - The stone is heavy.
 
-This simple structure works for a pronoun and a noun, and for a noun and an adjective. But when you combine two words of the same type, you need to add **se** in the middle.
+This simple structure works for a pronoun and a noun, and for a noun and an adjective. But when you combine two words of the same type, you need to add a particle in the middle. You can use **ye** (yes).
 
-> **mi se ti.** - I am you.  
-> **batu se ting.** - The stone is a thing.  
-> **jovan se sundar.** - Young is beautiful.
+> **mi ye ti.** - I am you.  
+> **batu ye ting.** - The stone is a thing.  
+> **jovan ye sundar.** - Young is beautiful.
 
-To say the opposite, you add **no** in the middle.
+To say the opposite, add **no** in the middle.
 
 > **mi no ti.** - I'm not you.  
 > **ta no sara.** - She is not Sara.  
@@ -137,9 +134,11 @@ Asking Questions
 **Ke** is the general question word. It corresponds to _what, who_ and _which_ in English.
 
 > **ti ke?** - Who are you?  
-> **ke batu se cung?** - Which stone is heavy?  
+> **ke batu cung?** - Which stone is heavy?  
+> **ke ting?** - What? (Which thing?)
+> **ke ren?** - Who? (Which person?)
 > **ke sabab?** - Why? (What reason?)  
-> **ke moment?** - When? (What moment?)
+> **ke zam?** - When? (What moment?)
 
 
 Modal Particles
@@ -147,22 +146,62 @@ Modal Particles
 
 Modal particles are used for expressing the speaker's attitude to what he or she is saying. Modal particle affects the word that is immediately after it. If the modal particle is the last word of the sentence, it affects the entire sentence.
 
-The word **sol** _(only, just)_ is a good example because it works almost exactly like in English.
+The word **ji** _(only, just)_ is a good example because it works almost exactly like in English.
 
-> **ta yem vin sol.** - He drinks wine, only.  
-> **ta yem sol vin.** - He drinks _only wine_. (He doesn't drink anything else.)  
-> **ta sol yem vin.** - He _only drinks_ wine. (He doesn't do anything else.)  
-> **sol ta yem vin.** - _Only he_ drinks wine. (Nobody else does it.)
+> **ta yem bir ji.** - He drinks beer, only.  
+> **ta yem ji bir.** - He drinks _only beer_. (He doesn't drink anything else.)  
+> **ta ji yem bir.** - He _only drinks_ beer. (He doesn't do anything else.)  
+> **ji ta yem bir.** - _Only he_ drinks beer. (Nobody else does it.)
 
 A more exotic example is the question particle **ma**. Structurally it works exactly like **sol**, but it has a different meaning. **Ma** questions the next word or, when it is the last word, the entire sentence.
 
-> **ti yem vin ka?** - Do you drink wine?  
-> **ti yem ka vin?** - Is it wine that you drink?  
-> **ti ka yem vin?** - Do you _drink_ wine?  
-> **ka ti yem vin?** - Is it you who drinks wine?
+> **ti yem bir ka?** - Do you drink wine?  
+> **ti yem ka bir?** - Is it beer that you drink?  
+> **ti ka yem bir?** - Do you _drink_ beer?  
+> **ka ti yem bir?** - Is it you who drinks beer?
 
-Other common modal particles are **ham** (also, too), **hata** (even, implies extreme case), **ya** (indeed, as you know), **ne** (asking for affirmation or reaction), **ba** (polite suggestion), **la** (emphasizing speaker's own opinion).
+Other common modal particles are **hata** (even, implies extreme case), **ya** (indeed, as you know), **ne** (asking for affirmation or reaction), **ba** (polite suggestion), **la** (emphasizing speaker's own opinion).
 
-Note: To say _either A or B_, say **sol A sol B**. To say _both A and B_, say **ham A ham B**.
+
+
+Rules of syntax
+---------------
+
+- PP = personal pronoun
+- N = noun
+- NP = noun phrase
+- A = modifier (adjective or adverb)
+- V = verb
+- VP = verb phrase
+- TAM = tense, aspect or modal particle
+    - affirmative: **ye**
+    - negative: **no**
+    - time: **nun, pas, futur, yer, suba, ...**
+    - modal: **ji, ka, la, ya, ne, ba, ...**
+
+| Word types           | Meaning                   | Examples                                           |
+|:---------------------|:--------------------------|:---------------------------------------------------|
+| N + N                | compound noun             | **tara saman** - star-sky                          |
+| A + N                | modified noun             | **hau buk** - good book                            |
+| PP + A               | quality: PP is A          | **mi hau.** - I am good.                           |
+| NP + A               | quality: NP is A          | **buk hau.** - Books are good.                     |
+| PP + NP              | identity: PP is N         | **mi adam.** - I am a man.                         |
+| NP TAM N             | identity: NP is N         | **mau ye hewan.** - Cat is animal.                 |
+| NP + A + N           | identity: NP is modified N| **mau hau hewan.** - Cat is good animal.           |
+| A TAM A              | identity: A is A          | **lau ye hau.** - Old is good.                     |
+| V TAM V              | identity: V is V          | **vid ye din.** - Seeing is believing.             |
+| PP + V               | passive verb phrase (OV)  | **mi bud.** - I am understood.                     |
+| PP + PP + V          | active verb phrase (SOV)  | **mi ta bud.** - _I him understand._               |
+| PP + V + PP          | active verb phrase (SVO)  | **mi bud ta.** - I understand him.                 |
+| PP + NP + V          | active verb phrase (SOV)  | **mi hewan bud.** - _I animals understand._        |
+| PP + V + NP          | active verb phrase (SVO)  | **mi bud hewan.** - I understand animals.          |
+| NP + TAM + V + NP    | active verb phrase (SVO)  | **mau yem mux.** - Cats eat mice.                  |
+| NP + V + V + NP      | serial verb               | **mau yau yem mux.** - Cats need to eat mice.      |
+| NP + V + NP + V + NP | pivot structure           | **mi vid mau yem mux.** - I see cats eat mice.     |
+| V + NP + V + NP      | stripped pivot structure  | **kia ta lai dom?** - Did he come home?            |
+| V + V + NP           | stripped pivot structure  | **cing lai dom.** - Please come home.              |
+| VP + A               | modified phrase           | **mi bud ta, hau.** - I understand her well.       |
+| VP + TAM             | modified phrase           | **ti bud ta ka?** - You understand him, eh?        |
+
 
 

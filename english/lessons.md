@@ -15,7 +15,7 @@ Introducing yourself
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi de panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi de panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi ge panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi ge panyo** (is my friend).
 
 The word for "to be" is not normally used in Pandunia. Expression like **ta sara** (She Sara) is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
 
@@ -34,8 +34,8 @@ Of course personal pronouns like **mi, ti** and **ta** don't need **ye** after t
 Good! Likewise you can describe yourself by saying **mi** followed by any word that describes you.
 
 > **mi bon.** - I am good. / I am well.
-> **mi adam.** - I'm a man.
-> **mi femin.** - I'm a woman.
+> **mi man.** - I'm a man.
+> **mi fem.** - I'm a woman.
 
 
 ### Exercises
@@ -63,10 +63,10 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 1. ti (ye) ke?
 2. mi (ye) tomas.
-3. ti de panyo (ye) ke?
+3. ti ge panyo (ye) ke?
 4. ta (ye) sara.
-5. ti de nam (ye) ke?
-6. mi de nam ye ........... 
+5. ti ge nam (ye) ke?
+6. mi ge nam ye ........... 
 
 
 --------------------------------------------------------------------------------
@@ -237,7 +237,7 @@ Yes or no questions
 ☺: **kana.** = Yes.  
 ☻: **kia ta kana sup?** = Would he like to have soup?  
 ☺: **no kana.** = No.  
-☻: **danke. mi dona un ca i un kafe i un sup na des minut bada.**  
+☻: **danke. mi dona un ca i un kafe i un sup na des minut bad.**  
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.  
 
 

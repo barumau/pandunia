@@ -17,10 +17,12 @@ Some remarkable features of Pandunia:
 
 Maybe! Pandunia is still under construction. The grammar is stable but some words can still be changed. If you like to learn constructed languages and help to improve them, you should learn Pandunia and help us! But if you want to learn a complete language that is ready now, probably you should consider learning some other language like Esperanto or Lidepla. Remember, you can always come back to Pandunia later!
 
-## Dictionaries
+## Learning material
 
+- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Searchable dictionary](tiddly.html)
-- [English-Pandunia](english-pandunia.md)
+- [English-Pandunia](english-pandunia.md) dictionary
+- [Pandunia-English](pandunia-english.md) dictionary
 
 ## Join Others
 
