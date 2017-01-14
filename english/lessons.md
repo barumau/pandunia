@@ -230,7 +230,7 @@ Yes or no questions
 ☻: **salam! kia ti kana kafe o ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i ti?** = And you?  
-○: **mi no sabe pandunia...** = I don't speak Pandunia...  
+○: **mi no saba pandunia...** = I don't speak Pandunia...  
 ☻: **maf! kia ta kana ca?** = Pardon! Will he have tea?
 ☺: **no. ta no kana ca. ta kana kafe.** = No, he won't. He would like to have coffee.  
 ☻: **kia ti kana sup?** = Would you like to have soup?  
@@ -259,7 +259,7 @@ Of course common and proper nouns can also be used.
 
 > **kia xef kana kafe?** = Does the chief drink coffee?  
 > **kia baba saf kamar?** = Does the father clean the room?  
-> **kia niki sabe pandunia?** = Does Nicky know Pandunia?
+> **kia niki saba pandunia?** = Does Nicky know Pandunia?
 
 
 ### Giving answers
@@ -298,13 +298,13 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **sabe** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
+**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **saba** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
 
 
 ### Answers to the Exercises
 
-1. kia ti sabe pandunia?
-2. ye. mi sabe pandunia.
+1. kia ti saba pandunia?
+2. ye. mi saba pandunia.
 3. kia mama kana kafe?
 4. no. ta no kana kafe.
 5. kia ta kana sup?

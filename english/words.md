@@ -15,7 +15,7 @@ Hartmut Traunmuller divided the world into four major cultural spheres in his ar
 
 They are roughly outlined in the picture below.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Mapo de kulturkomunumoj")
+![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Map of cultural spheres")
 
 
 
@@ -34,7 +34,55 @@ Pandunia's words come from some of the most widely spoken languages of the world
 Word Building
 -------------
 
-It's possible to build new words in Pandunia. It is said that Pandunia has a productive system of word derivation. Pandunia uses suffixes, which are already in international use. Many of them come from ancient Greek and Latin and Arabic.
+It's possible to build new words in Pandunia. It is said that Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of them come from ancient Greek, Latin, Arabic and Persian.
+
+
+### Vowel endings
+
+Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from verb roots and adjective roots. Some adjectives are also derived from nouns.
+
+Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
+
+**-i** is the marker of adjective and adjectival verb (i.e. static verb). For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**. Words that are adjectives _by nature_ don't need the ending. That's why for example **nov** (new) and **sundar** (beautiful) are without the ending.
+
+There are two simple vowel endings for nouns. **-o** means the process and **-e** means the result of the process. So **logo** means the _act of speaking_ and **loge** means the _speech_ that results from the action. Quite often **-e** is left out and so **log** means the same thing as **loge**.
+
+The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending.
+
+Here are some examples.
+
+**loga** - to speak (active verb)
+**logu** - to be spoken (passive verb)
+**logi** - spoken, wordy (adjective)
+**logo** - speaking (process)
+**loge** or **log** - speech, word(s) (result)
+
+**kitaba** - to write (active verb)
+**kitabu** - to be written (passive verb)
+**kitabi** - written, textual (adjective)
+**kitabo** - writing (process)
+**kitabe** or **kitab** - writing, text (result)
+
+**nov** - new (adjective)
+**nova** - to make new (active verb)
+**novu** - to become new (passive verb)
+**novo** - renovation (process)
+**nove** - novelty, new thing (result)
+
+There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
+
+**hav** - to have (active verb)
+**havu** - to belong (passive verb)
+**havo** - having (process)
+**have** - that what is had (result)
+
+**mus** - to must, to be compelled (passive verb)
+**musa** - to compel (active verb)
+**musi** - compulsory, obligatory
+
+
+### Other suffixes
+
 
 ### -i
 

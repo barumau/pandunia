@@ -14,6 +14,10 @@ La ĉefaj trajtoj la pandunia estas:
 - simpla skribo
 - facile lernebla gramatiko, kiu estas tre konciza
 
+## Vortaro
+
+[Esperanto-Pandunia](esperanto-pandunia.md)
+
 ## Komunumo
 
 Kelkaj homoj jam interesigas sin pri pandunia. Vi povas renkonti ilin tie:

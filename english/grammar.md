@@ -69,7 +69,7 @@ When an adjective or a verb is converted into a noun, it often ends in **-e**.
 Modifiers
 ---------
 
-A modifier is a word that changes the meaning of another word. They come before the noun that they modify.
+A modifier is a word that adds a particular quality for another word. In Pandunia modifiers come before the noun that they modify.
 
 > **day batu** - big stone
 > **cung batu** - heavy stone  
@@ -105,6 +105,44 @@ Ordinal numerals come after the word that they modify.
 > **fen du** - the second part (part two)
 > **fen san** - the third part (part three)
 
+The basic number words are:
+
+- 0 **nul**
+- 1 **un**
+- 2 **du**
+- 3 **san**
+- 4 **car**
+- 5 **lim**
+- 6 **sis**
+- 7 **set**
+- 8 **bat**
+- 9 **noy**
+
+Greater numbers are simply made by putting one digit after another – exactly like they are written in the universal numerical language of mathematics.
+
+- 10 **un nul** or **des**
+- 11 **un un**
+- 12 **un du**
+- 13 **un san**
+- 20 **du nul**
+- 21 **du un**
+- 22 **du du**
+- 100 **un nul nul** or **hon**
+- 101 **un nul un** or **hon un**
+- 200 **du nul nul** or **du hon**
+
+
+Numbers that are greater than 999 may use the multiples from the International System of Units. So for example kilo denotes a multiple of a thousand.
+
+- 1000 **kilo**
+- 1 000 000 **mega**
+- 1 000 000 000 **giga**
+- 1 000 000 000 000 **tera**
+- 10<sup>15</sup> **peta**
+- 10<sup>18</sup> **eksa**
+- 10<sup>21</sup> **zeta**
+- 10<sup>24</sup> **yota**
+    
 
 
 Pronouns
