@@ -8,7 +8,7 @@ Currently a few people are using Pandunia. It is still a very new language.
 
 #### When was Pandunia created?
 
-Creators of Pandunia began to create a language together first in 2005. Many different ideas were tried over the years. The language called Pandunia got its "final" form in 2016 – but of course languages evolve all the time!
+Creators of Pandunia began to create a language together first in 2005. Since the beginning the basic idea was to create an evenly global auxiliary language. Many different structures and ideas were tried over the years. The name _Pandunia_ was invented already in 2007 but the language got its "final" form in 2016 – though of course languages evolve all the time!
 
 #### What does the flag of Pandunia represent?
 
@@ -34,6 +34,37 @@ Creating offshoot languages is very common in the auxiliary language community. 
 It is better to have one big language with several dialects than many competing languages.
 
 
+#### What languages have influenced the grammar of Pandunia?
+
+Pandunia has been influenced by both natural and constructed languages.
+
+- Natural languages with isolating grammar were a useful model. For example the pivot structure comes directly from Chinese.
+- Works of earlier language makers were inspirational.
+    - Esperanto, Ido, Novial etc. were closely examined.
+    - Latino sine Flexione, Lingua Sistemfrater and Interglossa all have well thought-out isolating grammars.
+- Natural contact languages gave many ideas. It is an interesting observation that when speakers of different languages come into contact, they tend to create a contact language with isolating grammar to overcome the language barrier — no matter what type of languages they speak natively.
+
+The "family tree" of Pandunia is presented in the figure below.
+
+![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
+
+
+#### Why analytic structure was chosen for Pandunia?
+
+Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
+
+1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
+2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
+
+Pandunia is best described as an _analytic language_. Pandunia uses a handful of suffixes for marking parts of speech and for word derivation. On the other hand, Pandunia uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
+
+To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
+
+    Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
+    Pandunia:  mi ken    vid|a du  sundar    yen        nun.
+               I  can    see   two beautiful eyes       now.
+
+So while Pandunia is not free from inflection, it is used relatively little.
 
 <!--
 #### What is a worldlang?
@@ -43,9 +74,9 @@ A worldlang is a constructed interlanguage that borrows its words, speech sounds
 
 #### How does Pandunia differ from other auxiliary languages?
 
-- The vocabulary of Pandunia is evenly global. It consists of Western (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian words. Most of the other auxiliary languages use only Western words and, because they were created in the late 1800s and the early 1900s, their creators considered them "civilized" words and the others were "barbaric".
+- The vocabulary of Pandunia is evenly global. It consists of Western (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian words. Many other auxiliary languages use only or mostly Western words, which is not ideal for the world language in our opinion.
 - Internationality is the main criterion for selecting words to Pandunia. All the words of Pandunia are known by many nations in some part of the world.
-- The grammar of Pandunia is minimal but very flexible. Pandunia has only a few grammatical structures, which are re-used over and over again.
+- The grammar of Pandunia is concise but very flexible. Pandunia has only a few grammatical structures, which are re-used over and over again.
 - Pandunia is a truly neutral language. It's not meant to imitate any languages, whereas for example Esperanto, Ido and Interlingua are intentionally close to the European languages.
 
 
@@ -58,5 +89,16 @@ Esperanto has an ingenious system for marking parts of speech (PoS) with vowel e
 Pandunia is different. It has part of speech markers for the noun, the verb and the adjective, but they are not always required. For example, when the root word is an adjective, it doesn't need the adjectival ending. Moreover, the endings are never inflected in Pandunia. So Pandunia is, in its core, a completely different type of language.
 
 
+#### Are the makers of Pandunia aware of the history of the IAL movement?
+
+Yes. Here are some of the most important lessons to be learned from the history of the international auxiliary language (IAL) movement.
+
+- Over 99% of IALs do not survive in the long term.
+- Languages that are created without any pre-existing model (so called _a priori_ languages) have very low chance of survival.
+- Languages that imitate and simplify one or more natural languages have some chance of survival.
+- Out of a group of many similar languages only one is likely to do well.
+- Success can be short-lived. (Remember Volapük and Ido.)
+- Rational reasons do not explain success. The "best" language doesn't necessarily win.
+- Large international organizations, such as the UN or the EU, pay very little attention to IALs. So it is up to grassroots movements to push an IAL to success.
 
 
