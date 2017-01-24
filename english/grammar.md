@@ -385,7 +385,60 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dura** - to last, to take time
-> **mi denga na dura ti sona.** - I wait during you sleep.
+> **mi denga na dura ti sona.** - _I wait during you sleep._
+
+
+
+Tense, Aspect and Mood
+----------------------
+
+### Mood
+
+Mood particles indicate what the speaker thinks about s/he says in relation to the listener. Mood particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
+
+In Pandunia, a mood particle modifies the subsequent word, or the whole sentence, when the mood particle is the last word in the sentence.
+
+The particle **plus** _(also)_ is a good example because it functions much like in English.
+
+> **ta kana bir plus.** - S/he drinks beer, _also_.  
+> **ta kana plus bir.** - S/he drinks _also beer_.  
+> **ta plus kana bir.** - S/he _also drinks_ beer.  
+> **plus ta kana bir.** - _Also s/he_ drinks beer.
+
+Possibly a more foreign example is the question particle **ka**. It works just like **plus**, only the meaning is different. So **ka** puts the subsequent word under question, or the entire sentence.
+
+> **ti kana bir ka?** - Do you drink beer?  
+> **ti kana ka bir?** - _Is is beer_ that you drink?  
+> **ti ka kana bir?** - _Is it drinking_ that you do to the beer?  
+> **ka ti kana bir?** - _Is it you_ who drinks beer?
+
+
+Note! Also adjectives can modify the subsequent word or the entire sentence.
+
+> **mi bon kitaba buk.** - I write well books.
+> **mi kitaba bon buk.** - I write good books.
+> **mi kitaba buk bon.** - I write books well.
+
+However, mood particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
+
+
+### Tense
+
+In Pandunia, tense is expressed with time words and time phrases. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+
+> **mi hav mau gon.** - I had cats in the past.
+> **ama mi no hav mau nun.** - But I don't have cats now.
+> **munkin mi hav mau futur.** - Maybe I have cats in the future.
+
+Verbs are not conjugated! So the verb **hav** stayed the same in all tenses in the examples above.
+
+Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
+
+
+<!-- There are also countless of other ways to express time. -->
+
+
+
 
 
 Other Topics

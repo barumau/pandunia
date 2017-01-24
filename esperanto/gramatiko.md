@@ -256,14 +256,14 @@ Modalaj partikuloj estas la alia maniero por montri rilaton aŭ vidpunkton de la
 
 En pandunia, modala partikulo modifas la sekvantan vorton. Se la partikulo estas la lasta vorto de la frazo, ĝi modifas la tutan frazon.
 
-Partikulo **ji** _(nur)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
+Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
 
-> **ta kana bir ji.** - Ŝi trinkas bieron nur.  
-> **ta kana ji bir.** - Ŝi trinkas _nur bieron_.  
-> **ta ji kana bir.** - Ŝi _nur trinkas_ bieron.  
-> **ji ta kana bir.** - _Nur ŝi_ trinkas bieron.
+> **ta kana bir plus.** - Li trinkas bieron, _ankaŭ_.  
+> **ta kana plus bir.** - Li trinkas _ankaŭ bieron_.  
+> **ta plus kana bir.** - Li _ankaŭ trinkas_ bieron.  
+> **plus ta kana bir.** - _Ankaŭ li_ trinkas bieron.
 
-Eble pli fremda ekzemplo estas demanda partikulo **ka**. Ĝi funkcias tute same kiel **ji**, sed nature la signifo estas malsama. Do **ka** demandas aŭ la sekvantan vorton aŭ laste la tutan frazon.
+Eble pli fremda ekzemplo estas demanda partikulo **ka**. Ĝi funkcias tute same kiel **plus**, nur la signifo estas malsama. Do **ka** demandas aŭ la sekvantan vorton aŭ laste la tutan frazon.
 
 > **ti kana bir ka?** - Ĉu vi trinkas bieron?  
 > **ti kana ka bir?** - _Ĉu bieron_ vi trinkas?  

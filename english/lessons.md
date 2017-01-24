@@ -147,7 +147,7 @@ Making requests
 ☺: **cing kana kafe o ca.** = Please have some coffee or tea.  
 ☻: **mi kana ca. danke.** = I will have some tea, thank you.  
 ...  
-☺: **cing salama ti de mama!** = Please tell greetings to your mother.  
+☺: **cing salama ti ge mama!** = Please tell greetings to your mother.  
 ☻: **mi salama ta. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
@@ -332,10 +332,10 @@ Conceptually negation means the absence or non-existence of the negated word. In
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
-> **ta no mala mau.** = She doesn't have a cat.  
-> **ta mala no mau, ama kuta.** = She has no cats but dogs.  
-> **no ta, ama mi mala mau.** = Not she but I have cats.  
-> **mi mala no un, ama du mau.** = I have not one but two cats.
+> **ta no hav mau.** = She doesn't have a cat.  
+> **ta hav no mau, ama kuta.** = She has no cats but dogs.  
+> **no ta, ama mi hav mau.** = Not she but I have cats.  
+> **mi hav no un, ama du mau.** = I have not one but two cats.
 
 
 ### Exercises
@@ -352,7 +352,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kop** cup, glass, mug. **kali** empty. **mala** to have, to own. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
+**kop** cup, glass, mug. **kali** empty. **hav** to have. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
 
 
 ### Answers to the Exercises
