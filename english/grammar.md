@@ -467,3 +467,54 @@ The typical word orders in everyday Pandunia are SVO, SOV and OSV, which occurs 
 
 
 
+### Hierarchy of Word Types
+
+Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
+
+Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **mi vida ti** (I see you) can be pictured as a tree as follows.
+
+    mi vida ti.
+
+       vida
+      ┌─┴─┐
+     mi   ti
+
+Adjectives and numerals point to their head word, the noun.
+
+    mi vida san jovan ren.
+
+       vida
+      ┌─┴──┐
+     mi   ren
+           |
+         jovan
+           |
+          san
+
+The hierarchy of word types in Pandunia from the more to the less central is as follows.
+
+1. Conjunctions: i, o
+2. Connectors: ge, de
+3. Coverbs (prepositions): na, do, ze, bi, koz, por
+4. Verbs
+5. Nouns and pronouns
+6. Tense, aspect and mood particles
+7. Numerals
+8. Adjectives
+
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Koz** is at the top, because it connects the two sub-phrases.
+
+
+    yusef i sara vol darsa pandunia koz ta ye bon dunia bax.
+
+                         koz
+               ┌──────────┴──────────┐
+              vol                    ye
+          ┌────┴──────┐           ┌──┴──┐
+          i         darsa        ta    bax
+      ┌───┴───┐    ┌──┴────┐            |
+    yusef   sara       pandunia       dunia
+                                        |
+                                       bon
+
+
