@@ -14,13 +14,13 @@ Basic Rules
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with transitive verbs have subject-verb-object word order. Most active verbs end in **-a**.
-    - ex. **mi penta mesa.** = I paint tables.
+    - ex. **mi penta meza.** = I paint tables.
 7. Sentence with passive meaning has only subject and verb. Most passive verbs end in **-u**.
     - ex. **meza pentu.** = Table is painted.
 8. The object of a transitive verb can function as the subject of the following verb. This structure is called the _pivot structure_.
     - ex. **mi cing ti dona pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia ti loga pandunia?** → **kia ti loga pandunia?** = Do you speak Pandunia?
+    - **mi kia ti saba pandunia?** → **kia ti saba pandunia?** = Do you speak Pandunia?
     - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
 
 
@@ -166,15 +166,19 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 ### Demonstrative pronouns
 
-**ni** - this, these  
-**tu** - that, those  
-**el** - the one(s)
+**El** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
+
+The distance to the speaker can be specified by adding words **jin** (near) and **far** (far).
+
+**el** - this or that
+**el jin** - this over here
+**el far** - that over there
 
 The demonstrative pronouns work like modifiers.
 
-> **ni batu.** - This stone
-> **ni ye batu.** - This is a stone.
-> **ni batu cung.** - This stone is heavy.
+> **el batu.** - That stone
+> **el ye batu.** - That is a stone.
+> **el batu cung.** - That stone is heavy.
 
 
 ### Interrogative pronoun
@@ -184,7 +188,7 @@ The demonstrative pronouns work like modifiers.
 > **ke?** - Who or what?
 > **ke ting?** - What? (Which thing?)
 > **ke ren?** - Who? (Which person?)
-> **ke sabab?** - Why? (Which reason?)
+> **ke koz?** - Why? (Which reason?)
 > **ke zam?** - When? (What time?)
 
 
@@ -193,7 +197,7 @@ The demonstrative pronouns work like modifiers.
 **Jo**, the relative pronoun, corresponds to English words _which, that, who_ and _whom_.
 
 > **mi leva batu, jo cung.** - I lift a stone, which is heavy.
-> **ta adam, jo mi vida.** - He is the man whom I saw.
+> **ta man, jo mi vida.** - He is the man whom I saw.
 > **mimen suka ren, jo suka mimen.** - We like people who like us.
 
 
