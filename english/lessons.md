@@ -17,7 +17,7 @@ Introducing yourself
 
 Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye mi ge panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye mi ge panyo** (is my friend).
 
-The word for "to be" is not normally used in Pandunia. Expression like **ta sara** (She Sara) is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
+The word for "to be" is not normally used in Pandunia. An expression like **ta sara** (literally, "She Sara") is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
 
 > **ta sara.** - She is Sara.
 > **ta no sara.** - She is not Sara.  
@@ -27,13 +27,13 @@ But something is needed between two nouns. If you say, for example, **mau hewan*
 > **mau ye hewan** - The cat is an animal.
 > **mau no hewan** - The cat is not an animal.
 
-Of course personal pronouns like **mi, ti** and **ta** don't need **ye** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
+Of course personal pronouns like **mi**, **ti** and **ta** don't need **ye** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
 
 > **mi .............. !**
 
 Good! Likewise you can describe yourself by saying **mi** followed by any word that describes you.
 
-> **mi bon.** - I am good. / I am well.
+> **mi bon.** - I'm good. / I'm well.  
 > **mi man.** - I'm a man.
 > **mi fem.** - I'm a woman.
 
@@ -58,6 +58,8 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 **ke** who or what.  
 **ye** yes. **no** no.  
 **bon** good. **panyo** friend. **nam** name.
+**fem** woman. **man** man.
+**mau** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
@@ -104,7 +106,7 @@ The pattern in **salama ti** is convenient for addressing people by name, kinshi
 
 > **salama toni!** = Hello, Tony!  
 > **salama mama!** = Hello, mother!  
-> **salama baba!** = Hello, father!  
+> **salama papa!** = Hello, father!  
 > **salama xef!** = Hello, chief!
 
 Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
@@ -122,15 +124,15 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Word List
 
 **salam, halo** greeting, hello, hi, salaam, ciao, etc.  
-**mama** mother, mom. **baba** father, dad. **xef** chief, boss.
+**mama** mother, mom. **papa** father, dad. **xef** chief, boss.
 
 
 ### Answers to the Exercises
 
 1. ti salama ta.
-2. mama salama baba.
+2. mama salama papa.
 3. salama mama!
-4. salama!
+4. salam!
 
 
 --------------------------------------------------------------------------------
@@ -142,11 +144,11 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! cing sit.** = Hello! Please sit!  
+☺: **salam! cing seda.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing kana kafe o ca.** = Please have some coffee or tea.  
-☻: **mi kana ca. danke.** = I will have some tea, thank you.  
-...  
+☺: **cing yem kafe o ca.** = Please have some coffee or tea.  
+☻: **mi yem ca. danke.** = I will have some tea, thank you.  
+...
 ☺: **cing salama ti ge mama!** = Please tell greetings to your mother.  
 ☻: **mi salama ta. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
@@ -154,11 +156,11 @@ Making requests
 
 ### Grammar
 
-Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish the sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
+Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
 > **mi cing ti salama ta.** = I ask you to say hello to him/her.
 
-This sentence has a pivot structure. The first verb, **cing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salama** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the pivot or hinge between the two verbs.
+This sentence has a _pivot structure_. The first verb, **cing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salama** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -173,22 +175,22 @@ See how the translation of **cing** changed between the two sentences? The meani
 
 The phrase **cing salama ta** has a useful pattern that can be used for making polite requests.
 
-> **cing sit.** = Please be seated.
-> **cing dona kafe.** = Please give me some coffee.
-> **cing dona ca.** = Please give me some tea.
-> **cing kana ca.** = Please have some tea.
+> **cing seda.** = Please be seated.  
+> **cing dar kafe.** = Please give me some coffee.  
+> **cing dar ca.** = Please give me some tea.  
+> **cing yem ca.** = Please have some tea.
 
 <!--
-> **cing saf kamar.** = Please clean the room.
+> **cing safa kamar.** = Please clean the room.
 
 Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **cing**.
 
-> **koman dona ca.** = Give me some tea!
-> **koman saf kamar.** = Clean the room!
+> **koman dar ca.** = Give (me) some tea!  
+> **koman safa kamar.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-> **saf!** = Clean it!
+> **safa!** = Clean it!
 
 -->
 
@@ -201,22 +203,20 @@ Try translating these sentences from English to Pandunia.
 3. Please have some coffee or tea.
 4. Mother asked me to clean the room.
 5. The boss sits and drinks coffee.
-6. Greet the boss! 
 
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. **koman** to command. **o** or. **saf** clean. **sit** to sit. **kana** to eat or drink.
+**ca** tea. **cing** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **o** or. **safa** to clean. **seda** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. ta kana ca.
-2. xef cing ta sit.
-3. cing kana kafe o ca.
+1. ta yem ca.
+2. xef cing ta seda.
+3. cing yem kafe o ca.
 4. mama cing mi safa kamar.
-5. xef sit i kana kafe.
-6. koman salama xef!
+5. xef seda i yem kafe.
 
 
 --------------------------------------------------------------------------------
@@ -227,38 +227,38 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia ti kana kafe o ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia ti yem kafe o ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i ti?** = And you?  
 ○: **mi no saba pandunia...** = I don't speak Pandunia...  
-☻: **maf! kia ta kana ca?** = Pardon! Will he have tea?
-☺: **no. ta no kana ca. ta kana kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia ti kana sup?** = Would you like to have soup?  
-☺: **kana.** = Yes.  
-☻: **kia ta kana sup?** = Would he like to have soup?  
-☺: **no kana.** = No.  
-☻: **danke. mi dona un ca i un kafe i un sup na des minut bad.**  
- = Thank you. I will bring one tea, one coffee and one soup in ten minutes.  
+☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?  
+☺: **no. ta no yem ca. ta yem kafe.** = No, he won't. He would like to have coffee.  
+☻: **kia ti yem sup?** = Would you like to have soup?  
+☺: **yem.** = Yes. (_I eat._)  
+☻: **kia ta yem sup?** = Would he like to have soup?  
+☺: **no yem.** = No.  
+☻: **danke. mi dar un ca i un kafe i un sup na des minut bad.**
+ = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
-Questions that can be answered by saying "yes" or "no" have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
+Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **mi kia ti kana ca.** = I ask (do) you drink tea.  
-> **kia ti kana ca?** = Do you drink tea?  
-> **kia kana ca?** = Drink tea?
+> **mi kia ti yem ca.** = I ask (do) you drink tea.  
+> **kia ti yem ca?** = Do you drink tea?  
+> **kia yem ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ta kana ca?** = Does he or she drink tea?  
-> **kia ti kana sup?** = Do you eat soup?  
-> **kia mimen kana sui?** = Do we drink water?
+> **kia ta yem ca?** = Does he or she drink tea?  
+> **kia ti yem sup?** = Do you eat soup?  
+> **kia mimen yem sui?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xef kana kafe?** = Does the chief drink coffee?  
-> **kia baba saf kamar?** = Does the father clean the room?  
+> **kia xef yem kafe?** = Does the chief drink coffee?  
+> **kia papa safa kamar?** = Does the father clean the room?  
 > **kia niki saba pandunia?** = Does Nicky know Pandunia?
 
 
@@ -266,22 +266,22 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
-> – **kia ti kana sup?** = Do you eat soup?  
+> – **kia ti yem sup?** = Do you eat soup?  
 > – **ye.** = Yes.  
-> – **kia ta kana sup?** = Does she eat soup?  
+> – **kia ta yem sup?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia ti kana kafe?** = Do you drink coffee?  
-> – **ye. mi kana kafe.** = Yes, I drink coffee.  
-> – **kia ta kana kafe?** = Does he drink coffee?  
-> – **no. ta no kana kafe.** = No, he doesn't drink coffee.
+> – **kia ti yem kafe?** = Do you drink coffee?  
+> – **ye. mi yem kafe.** = Yes, I drink coffee.  
+> – **kia ta yem kafe?** = Does he drink coffee?  
+> – **no. ta no yem kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia ti kana sui?** = Do you drink water?  
-> – **kana.** = (Yes, I) drink.
+> – **kia ti yem sui?** = Do you drink water?  
+> – **yem.** = (Yes, I) drink.
 
 
 ### Exercises
@@ -296,38 +296,37 @@ Try translating these sentences from English to Pandunia.
 6. She doesn't.
 
 
+
 ### Word List
 
-**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **saba** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
+**bad** after. **maf** pardon, sorry. **minut** minute. **no** not. **saba** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
 
 
 ### Answers to the Exercises
 
 1. kia ti saba pandunia?
 2. ye. mi saba pandunia.
-3. kia mama kana kafe?
-4. no. ta no kana kafe.
-5. kia ta kana sup?
-6. (ta) no kana. 
+3. kia mama yem kafe?
+4. no. ta no yem kafe.
+5. kia ta yem sup?
+6. (ta) no yem.
 
 
 --------------------------------------------------------------------------------
 
-<!--
-
 Saying no
 ---------
 
-In the previous lesson you learned to answer ye and no to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer **ye** and **no** to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
 
 > **mi salama ti.** = I greet you.  
 > **mi no salama ti.** = I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salama ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi cing ti saf kamar.** = I ask you to clean the room.  
-> **mi no cing ti saf kamar.** = I do NOT ask you to clean the room.  
-> **mi cing ti no saf kamar.** = I ask you NOT to clean the room.
+> **mi cing ti safa kamar.** = I ask you to clean the room.  
+> **mi no cing ti safa kamar.** = I do NOT ask you to clean the room.  
+> **mi cing ti no safa kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
@@ -352,19 +351,149 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kop** cup, glass, mug. **kali** empty. **hav** to have. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
+**kop** cup, glass, mug. **kong** empty. **hav** to have. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
 
 
 ### Answers to the Exercises
 
-1. ta no saf kamar.
-2. un kop no kali.
-3. du kuta no kana sup.
-4. ta no mala kuta i mau. / ta mala no kuta i no mau.
-5. xef kana ca ama no kafe.
-6. mama mala no kuta ama du mau. 
-
--->
+1. ta no safa kamar.
+2. un kop no kong.
+3. du kuta no yem sup.
+4. ta no hav kuta i mau. / ta hav no kuta i no mau.
+5. xef yem ca ama no kafe.
+6. mama hav no kuta ama du mau.
 
 
 --------------------------------------------------------------------------------
+
+More Questions
+--------------
+
+To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the interrogative pronoun **ke** is normally used. The question can be made more specific by adding words for person, time, manner or thing if needed.
+
+> **ta ke?** = What is that? / Who is (s)he?  
+> **ke ren lay?** = Who is coming? (**ren** = person)  
+> **ke zam ti yem?** = When do you eat? (**zam** = time)  
+> **ke yang dansa?** = How to dance? (**yang** = manner, style)
+
+In Pandunia, questions beginning with _why_ are asked using **koz ke**.
+
+> **ti suku mau koz ke?** = Why do you like cats?
+
+Questions asking about the cause or reason of something, are answered by adding **koz** before the cause or reason. **koz** is actually a passive verb meaning _to be caused by_.
+
+> **ti suku mau koz ke?** = Why do you like cats?  
+> **koz tamen kaway.** = Because they are cute.
+
+Of course **koz** can also be used to express the cause or reason for something, even when not answering to a question.
+
+> **mi suku mau koz tamen kaway** = I like cats because they are cute.
+
+### Exercises
+
+1. Who likes soup?
+2. The father does.
+3. When will he come?
+4. In ten minutes
+5. Why doesn't she eat?
+6. Because she doesn't like coffee or soup.
+
+
+### Word List
+
+**dansa** to dance. **lay** to come. **ren** person. **suku** to like. **yang** manner, style. **zam** time.
+
+
+### Answers to the Exercises
+
+
+1. ke ren suku sup?
+2. papa suku.
+3. ke zam ta lay?
+4. na des minut bad.
+5. ta no yem koz ke?
+6. koz (ta) no suku kafe o sup.
+
+
+
+
+--------------------------------------------------------------------------------
+
+Past, present and future
+------------------------
+
+### Expressing time
+
+There are no verb conjugations in Pandunia. All verbs have only one form. In a way they are similar to some English verbs, such as "to hit", which is the same in all tenses.
+
+
+> **mi darba ta.** = I hit it.
+
+In Pandunia all verbs are like that! For example, **mi yem pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
+
+> **mi yem pan na suba yeme.** = I ate bread for breakfast.
+
+The adjectives for past, present and future are **gon, nun** and **futur**. They can be used for modifying nouns.
+
+> **sara ye mi ge gon xef.** = Sara is my former boss.
+> **yusef ye mi ge nun xef.** = Yusef is my current boss.
+> **maria ye mi ge futur xef.** = Maria is my future boss.
+
+The same words are used when you talk about actions and events in time. Simply put the word before the verb.
+
+> **mi gon darba ta.** = I hit it (in the past).
+> **mi nun darba ta.** = I am hitting it (currently).
+> **mi futur darba ta.** = I will hit it (in the future).
+
+Alternatively the time word can be placed last in the sentence.
+
+> **mi darba ta gon.**
+> **mi darba ta nun.**
+> **mi darba ta futur.**
+
+
+It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
+
+> **mi gon hav un mau.** = I had a cat in the past.
+> **ta bon mau.** = It was a good cat.
+> **mi hav un mux nun.** = I have a mouse now.
+
+Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
+
+> **mi jenu na nen 2003.** = I was born in 2003.
+> **ta safa kamar na bad den.** = He will clean the room tomorrow.
+
+
+### Word List
+
+**gon** past, former. **nun** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba yeme** morning meal, breakfast.
+
+<!--
+### Exercises
+
+Try translating these sentences from English to Pandunia. The correct answers are at the bottom of this page.
+
+<ol>
+<li>My boss will celebrate in the future	
+<li>I used to have two dogs.	
+<li>You are eating soup right now.
+<li>She cleaned the room the day before.
+<li>The cat will drink coffee tomorrow.
+<li>Your mother partied last night.
+</ol>
+
+### Answers to the Exercises
+
+<ol>
+<li>mi de xefe pati na melai.
+<li>mi mala du hau na pase.
+<li>ti yem sup na jin.
+<li>ta safa kamar na din befo.
+<li>mau yem kafe na din bada.
+<li>ti de mama pati na yo befo.
+</ol>
+-->
+
+
+
+

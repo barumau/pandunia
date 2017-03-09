@@ -8,17 +8,17 @@ Basic Rules
 
 1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
 2. The stress accent is on the syllable before the last consonant of the word.
-3. Nouns are undefined by number and gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. When adjective is before the noun, it is a modifier. When it follows the noun, it is an adjectival verb.
+3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
+4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
     - ex. **bon pan** = Good bread. **pan bon** = Bread (is) good.
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with transitive verbs have subject-verb-object word order. Most active verbs end in **-a**.
     - ex. **mi penta meza.** = I paint tables.
-7. Sentence with passive meaning has only subject and verb. Most passive verbs end in **-u**.
+7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
     - ex. **meza pentu.** = Table is painted.
-8. The object of a transitive verb can function as the subject of the following verb. This structure is called the _pivot structure_.
-    - ex. **mi cing ti dona pesa.** = I ask you to give money.
+8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
+    - ex. **mi cing ti dar pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
     - **mi kia ti saba pandunia?** → **kia ti saba pandunia?** = Do you speak Pandunia?
     - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
@@ -99,7 +99,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **san tara** - three stars  
 > **xau tara** - few stars  
 
-Ordinal numerals come after the word that they modify.
+Ordinal numbers come after the word that they modify.
 
 > **fen un** - the first part (part one)
 > **fen du** - the second part (part two)
@@ -161,14 +161,14 @@ Pronouns can substitute thing-words and phrases of thing-words.
 
 **se** - self
 
-Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself, yourself, himself, herself, itself, ourselves_ and _themselves_ all at once.
+Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
 
 ### Demonstrative pronouns
 
 **El** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
 
-The distance to the speaker can be specified by adding words **jin** (near) and **far** (far).
+The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
 
 **el** - this or that
 **el jin** - this over here
@@ -188,13 +188,13 @@ The demonstrative pronouns work like modifiers.
 > **ke?** - Who or what?
 > **ke ting?** - What? (Which thing?)
 > **ke ren?** - Who? (Which person?)
-> **ke koz?** - Why? (Which reason?)
 > **ke zam?** - When? (What time?)
+> **ke yang?** - How? (What manner?)
 
 
 ### Relative pronoun
 
-**Jo**, the relative pronoun, corresponds to English words _which, that, who_ and _whom_.
+**Jo**, the relative pronoun, corresponds to English words _which_, _that_, _who_ and _whom_.
 
 > **mi leva batu, jo cung.** - I lift a stone, which is heavy.
 > **ta man, jo mi vida.** - He is the man whom I saw.
@@ -209,7 +209,7 @@ The demonstrative pronouns work like modifiers.
 Predicate of state
 ------------------
 
-Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a ponoun and the predicate is an adjective.
+Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective.
 
 **mi bon.** - I am good.  
 **sara bon.** - Sara is good.  
@@ -241,28 +241,28 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Ending **-a** is used in the subject–verb–object word order (SVO), which is the normal word order also in English and in many other languages, including French, Spanish, Chinese and Modern Arabic.
 
-> **mi kana pan.** - I eat bread.
+> **mi auda musik.** - I hear music.  
 > **mi vida ti.** - I see you.
 
 Ending **-u** is used in the subject–object–verb word order (SOV). SOV is the normal word order in many languages, including Japanese, Korean, Turkish and the languages of India.
 
-> **mi pan kanu.** - I eat bread. (Word-for-word: _I bread eat._)
+> **mi musik audu.** - I hear music. (Word-for-word: _I music hear._)  
 > **mi ti vidu.** - I see you. (Word-for-word: _I you see._)
 
-The passive voice is formed by deleting the agent subject from the SOV type, leaving only OV.
+The passive voice is formed by removing the agent subject from the SOV type, leaving only OV.
 
-> **pan kanu.** - Bread is eaten.
+> **musik audu.** - Music is heard.
 
 
 
 Serial verbs
 ------------
 
-All action-words that come one after another are activated by the subject. There can be 2, 3 or even more action-words in series.
+All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
 
-1. **mi go jia.** - I go home.  
-2. **mi ken go jia.** - I can go home.  
-3. **mi vol ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
+1. **mi pay jia.** - I go home.  
+2. **mi ken pay jia.** - I can go home.  
+3. **mi vol ken pay jia.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 Pivot structure
@@ -270,15 +270,15 @@ Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-> **mi vol ti kana sabzi.** - I want (that) you eat vegetables.
+> **mi vol ti yem sabzi.** - I want (that) you eat vegetables.
 
-In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **kana sabzi**. So **ti** is _the pivot_ of the sentence.
+In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
 
 
 Pronoun dropping
 ----------------
 
-In certain type of expressions the pronouns gets dropped because of brevity. This is done especially in commands and requests.
+In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
 > **mi cing ti lay.** - I ask you to come.  
 > **cing lay!** - Please come! (Literally: _Request come!_)
@@ -290,7 +290,7 @@ In certain type of expressions the pronouns gets dropped because of brevity. Thi
 Affirmation and negation
 ------------------------
 
-Particle **ye** is affirmative and **no** is negative. **ye** affirms the existence of something, whereas **no** denies it. In other words **ye** means "to be" or "there is" and **no** means "to be not" or "there is not".
+Particle **ye** is affirmative and **no** is negative. **ye** affirms the existence of something, whereas **no** denies it. In other words **ye** means "to be" or "there is" and **no** means "not to be" or "there is not".
 
 Expressions are affirmative by default, so the word **ye** is not necessary. However it is especially convenient in expressions of state.
 
@@ -308,9 +308,9 @@ The word **no** is used for denying anything. It affects always the next word.
 > **mi no vida ti.** - I don't see you.  
 > **mi vida no ti ama tamen.** - I see, not you, but them.
 
-These particles also answer questions.
+The particles **ye** and **no** may also be used to answer questions.
 
-> **kia ti vida mi?** - Do you see me.  
+> **kia ti vida mi?** - Do you see me?  
 > **ye. (mi vida ti.)** - Yes. (I see you.)  
 > **no. (mi no vida ti.)** - No. (I don't see you.)
 
@@ -321,7 +321,7 @@ Modifier particles
 
 There are two particles that change a word or phrase into a modifier, **ge** and **de**. They have the same function but the word order is different. **Ge** connects the modifying word to the modified word, and **de** connects the modified word to the modifying word, in precisely the said order.
 
-When pronouns are turned into modifiers, they become _possessive pronouns_. There are two ways to build them in Pandunia.
+When pronouns are turned into modifiers, they become _possessive pronouns_. There are two ways to build them in Pandunia:
 
 | With _ge_                        | With _de_                                |
 |:---------------------------------|:-----------------------------------------|
@@ -337,18 +337,18 @@ A modifier particle changes any kind of phrase into an equivalent of a quality-w
 
 > **maria ge mama** - Maria's mother  
 > **batu ge cung** - stone's weight  
-> **kana ge zam** - the moment of eating
+> **yem ge zam** - the moment of eating
 
 
 
 Prepositions
 ------------
 
-Pandunia has three prepositions of place.
+Pandunia has three prepositions of place and time.
 
-1. **na** - location (in general): at, in, on
-2. **ze** - origin: from, since
-3. **do** - destination: to, till, until
+1. **na** - location or moment (in general): at, in, on, during
+2. **ze** - origin or beginning: from, since
+3. **do** - destination or end: to, till, until
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
@@ -371,7 +371,7 @@ Prepositions can be complemented also by a verb phrase. Then they refer to time.
 > **mi denga do ti lay jia.** - I wait until you come home.
 > **mi denga na ti sona.** - I wait while you sleep.
 
-More precise expressions of place are expressed with _a preposition + place word + **de**_.
+More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
 > **na dur de** - for the time/duration of
 > **mi denga na dur de ti sona.** - I wait for the time when you sleep.
@@ -384,7 +384,7 @@ More precise expressions of place are expressed with _a preposition + place word
 
 Similar meaning can be expressed also with compound words.
 
-> **un mau lala na meza men.** - A dog lies at the tabletop.
+> **un mau lala na meza men.** - A cat lies at the tabletop.
 
 In addition, a preposition can be followed immediately by a verb.
 
@@ -404,17 +404,17 @@ In Pandunia, a mood particle modifies the subsequent word, or the whole sentence
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-> **ta kana bir plus.** - S/he drinks beer, _also_.  
-> **ta kana plus bir.** - S/he drinks _also beer_.  
-> **ta plus kana bir.** - S/he _also drinks_ beer.  
-> **plus ta kana bir.** - _Also s/he_ drinks beer.
+> **ta yem bir plus.** - S/he drinks beer, _also_.  
+> **ta yem plus bir.** - S/he drinks _also beer_.  
+> **ta plus yem bir.** - S/he _also drinks_ beer.  
+> **plus ta yem bir.** - _Also s/he_ drinks beer.
 
 Possibly a more foreign example is the question particle **ka**. It works just like **plus**, only the meaning is different. So **ka** puts the subsequent word under question, or the entire sentence.
 
-> **ti kana bir ka?** - Do you drink beer?  
-> **ti kana ka bir?** - _Is is beer_ that you drink?  
-> **ti ka kana bir?** - _Is it drinking_ that you do to the beer?  
-> **ka ti kana bir?** - _Is it you_ who drinks beer?
+> **ti yem bir ka?** - Do you drink beer?  
+> **ti yem ka bir?** - _Is is beer_ that you drink?  
+> **ti ka yem bir?** - _Is it drinking_ that you do to the beer?  
+> **ka ti yem bir?** - _Is it you_ who drinks beer?
 
 
 Note! Also adjectives can modify the subsequent word or the entire sentence.
@@ -428,13 +428,13 @@ However, mood particles can modify all kinds of words, including pronouns and nu
 
 ### Tense
 
-In Pandunia, tense is expressed with time words and time phrases. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
 > **mi hav mau gon.** - I had cats in the past.
 > **ama mi no hav mau nun.** - But I don't have cats now.
 > **munkin mi hav mau futur.** - Maybe I have cats in the future.
 
-Verbs are not conjugated! So the verb **hav** stayed the same in all tenses in the examples above.
+Note! Verbs are not conjugated. So the verb **hav** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
@@ -453,17 +453,17 @@ Other Topics
 In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : pan mi kana.
-        - subject–verb–object (SVO) :     mi kana pan.
-        - verb–object–subject (VOS) :        kana pan mi.
+        - object–subject–verb (OSV) : musik mi auda.
+        - subject–verb–object (SVO) :       mi auda musik.
+        - verb–object–subject (VOS) :          auda musik mi.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi pan kanu.
-        - object-verb-subject (OVS) :    pan kanu mi.
-        - verb-subject-object (VSO) :        kanu mi pan.
+        - subject-object-verb (SOV) : mi musik audu.
+        - object-verb-subject (OVS) :    musik audu mi.
+        - verb-subject-object (VSO) :          audu mi musik.
 
-The constituent, which is further away from the verb, can be left out. So for example **pan mi kana** (OSV) can be truncated to **mi kana** (SV). Likewise **mi pan kanu** (SOV) can be truncated to **pan kanu** (OV).
+The constituent, which is further away from the verb, can be left out. So for example **musik mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musik audu** (SOV) can be truncated to **musik audu** (OV).
 
-The typical word orders in everyday Pandunia are SVO, SOV and OSV, which occurs frequently in dependant clauses like **mi vida ren, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
+The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **mi vida ren, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
 
 

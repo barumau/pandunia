@@ -695,7 +695,9 @@ stopa [v] stop (halt)
 suan [a] sour
 suba [n] morning
 sui [n] water
-suka [v] like (be fond of)
+suka [v] delight (make happy)
+suki [a] happy (joyful)
+suku [v] like (enjoy, be fond of)
 sukar [n] sugar
 sukari [a] sweet (sugary)
 suki [a] nice (agreeable)

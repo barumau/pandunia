@@ -9,88 +9,141 @@ Gramatiko
 Bazaj reguloj
 -------------
 
-1. Ĉiu vorto estas legata kiel ĝi estas skribita. Nur minusklaj literoj estas necesaj.
-2. La akcento estas sur la silabo antaŭ la lasta konsonanto.
-3. La substantivoj ne estas ŝanĝata laŭ nombro nek sekso. Ili estas nek ununombraj nek multnombraj.
-4. Adjektivaj verboj funkcias kiel adjektivoj kiam ili antaŭas substantivon kaj kiel verboj kiam ili sekvas substantivon.
-    - ekz. **bon panyo** = bona(j) amiko(j); **panyo bon** = Amiko(j) estas bona(j).
-5. Frazoj kun transitivaj verboj havas vortordon _subjekto-verbo-objekto_. Transitivaj verboj finiĝas per **-a**. 
-    - ekz. **mi penta meza.** = Mi koloras tablojn.
-6. Frazoj sen objekto estas netransitivaj. Netransitivaj verboj finiĝas per **-u**.
-    - ekz. **meza pentu.** = Tablo(j) koloriĝus.
-7. Kunmetitaj vortoj estas formataj per simpla kunigo de la vortoj. La ĉefa vorto staras en la fino.
+1. Ĉiu vorto elparoliĝas kiel ĝi skribiĝas. Neniu litero estas silenta. Nur minusklaj literoj estas necesaj.
+2. La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
+3. Substantivoj ("_Esencovortoj_") ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
+4. Kiam adjektivo antaŭas substantivon, ĝi funkcias kiel modifovorto. Kiam ĝi sekvas substantivon, ĝi rolas kvazaŭ adjektiva verbo.
+    - ekz. **bon pan** = Bona pano. **pan bon** = (La) pano bonas.
+5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa vorto ĉiam staras je la fino. Malkiel en Esperanto, en pandunia oni ne algluas vortojn.
     - ekz. **poste sanduk** = leterkesto
-8. La objekto de la transitiva verbo povas esti subjekto de la sekvanta verbo. Tia strukturo estas nomita la ĉarnira frazo.
-    - ekz. **mi cing ti dona pesa.** = Mi petas vin por doni monon.
-9. Pronomoj povas esti forlasitaj kiam ili estas sendube konataj.
-    - **(mi) kia ti saba pandunia?** = Ĉu vi scipovas pandunian?
-    - **(mi) cing (ti) loga max tez.** = Bonvolu parolu pli laŭte.
+6. En frazoj faritaj per transitiva verbo, oni uzas la vortordon subjekto-verbo-objekto. La plejparto de aktivaj verboj finiĝas per **-a**
+    - ekz.  **mi penta meza.** = Mi kolorigas tablojn.
+7. En frazoj kiuj havas pasivan sencon, rolas nur subjekto kaj verbo. La plejparto de pasivaj verboj finiĝas per **-u**
+
+    - ekz.  **meza pentu.** = Tablo koloriĝas.
+8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
+    - ekz. **mi cing ti dar pesa.** = Mi petas vin (por) doni monon.
+9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
+    - **mi kia ti saba pandunia?** → **kia ti saba pandunia?** = Ĉu vi parolas Pandunian?
+    - **mi cing ti loga tez.** →  **cing loga tez.** = Bonvolu paroli laŭte.
 
 
-Vortklasoj
-----------
+Vortospecoj
+-----------
 
-La vortoj de pandunia ne fleksias. Do la vortklasoj de pandunia ne estas konata laū formo sed laū signifo. La vortoj de pandunia havas naturan vortklason.
+En Pandunia, vortoj estas senfleksiaj. La vortospeco dependas de la signifo de la vorto, ne ĝia formo.
 
-1. Substantivoj - klaso por aĵoj: ŝtono, tablo, roboto, ŝafo, homo, deo ktp.
-2. Adjektivoj - klaso por kvalitoj: bona, malbona, granda, rapida ktp.
-3. Verboj - klaso por agoj: manĝi, paroli, vidi ktp.
-4. Partikuloj - klaso por abstraktaj aspektoj: jes, ne, sed, se, do, ja ktp.
+Jen la vortospecoj en Pandunia:
 
-Plej ofte (sed ne ĉiam) ĉiu konas nature korektan vortklason de vortoj.
-
-
-
-
-Substantivoj
-------------
-
-La substantivoj kaj adjektivoj ne fleksias laŭ nombro kaj kazo en pandunio.
-
-> **meza.** - Tablo aū tabloj.
-> **kursi.** - Seĝo aū seĝoj.
-> **hima.** - Neĝo.
-
-Kiam substantivo estas derivata el adjektivo aŭ verbo, ĝi ofte finiĝas per **-e**.
-
-> **nov → nove** = nova → novaĵo
-> **posta → poste** = poŝti → poŝto
+1. La _Esencovorto_ (substantivo) prezentas aĵon, personon, abstraktan ideon aŭ propran nomon. Ekz. ŝtono, tablo, roboto, kato, homo, urbo, Londono ktp.
+2. La _Modifovorto_ (adjektivo/adverbo) priskribas econ de tio, kio estas prezentita de alia vorto. Ekz. bona, malbona, granda, rapide ktp.
+3. La _Kvantovorto_ (numeralo) estas vorto kiu indikas la nombron aŭ kvanton de io.
+4. La _Agovorto_ (verbo) indikas agon aŭ okazon. Ekz. manĝi, paroli, rigardi kaj pensi.
+5. La _Rolvorteto_ (partikulo) estas struktura aŭ abstrakta vorto, kiu havas specialan rolon. Ekz. jes, ne, sed, se ktp.
 
 
-Adjektivoj
-----------
 
-Adjektivoj modifas la sekvantan substantivon.
+Esencovortoj (substantivoj)
+-----------------
 
-> **day meza.** - Granda tablo.
-> **day kursi.** - Granda seĝo.
-> **bon kursi.** - Bona seĝo.
+_Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en Pandunia. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-Derivaj adjektivoj finiĝas per **-i**.
+> **batu** - ŝtono, ŝtonoj, la ŝtono, la stonoj
+> **meza** - tablo, tabloj, la tablo, la tabloj
+> **sui** - akvo
 
-> **manux → manuxi** - homo → homa
-> **kitaba → kitabi** - skribi → skriba
+Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
 
-Ili povas ankaū modifi la sekvantan verbon. Do ili funkcias kiel adverboj.
+Kunmetante du aŭ pli da vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
-> **mi bon sona.** - Mi bone dormas.
-> **ti bon saba pandunia.** - Vi bone konas pandunian.
+> **sol guang** - suna lumo
+> **luna guang** - luna lumo
+> **luna guang** - luna ŝtono
+
+Kiam Esencovorto fariĝas el Modifovorto aŭ Agovorto, ĝi ofte finiĝas per **-e**.
+
+> **posta** - poŝti, enpoŝtigi
+> **poste** - poŝto
+> **nov** - nova
+> **nove** - novaĵo, nova afero
 
 
-Numeraloj
----------
+Modifovortoj (adjektivoj/adverboj)
+-----------------
 
-Numeralo estas la unua vorto en substantiva frazo.
+_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En Pandunia, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
 
-> **un day meza.** - Unu granda tablo.
-> **du day kursi.** - Du grandaj seĝoj.
-> **san bon kursi.** - Tri bonaj seĝoj.
+> **day batu** - granda ŝtono
+> **cung batu** - peza ŝtono
+> **day meza** - granda tablo
+> **gau meza** - alta tablo
 
-Adjektivoj de ordo (ordaj numeraloj) estas simple numeraloj, kiu staras post la substantivo.
+Kiam Modifovorto sekvas Esencovorton, ĝi rolas kvazaŭ verbo, kiu indikas staton. Tio estas, kiel adjektivaj verboj en Esperanto.
 
-> **fen un.** - La unua parto.
-> **fen du.** - La dua parto.
-> **fen san.** - La tria parto.
+> **batu day.** - La ŝtono grandas.
+> **meza gau.** - La tablo altas.
+
+Kompreneble, eblas ke Modifovortoj aperu je ambaŭ flankoj de Esencovorto.
+
+> **day meza gau.** - La granda tablo altas.
+
+
+
+Kvantovortoj (numeraloj)
+-----------------
+
+Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **sol** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
+
+Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
+
+> **un tara** - unu stelo
+> **du tara** - du steloj 
+> **san tara** - tri steloj
+> **san tara** - kelkaj steloj
+
+Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
+
+> **fen un** - la unua parto
+> **fen du** - la dua parto
+> **fen san** - la tria parto
+
+Jen la ĉefaj nombroj:
+
+- 0 **nul**
+- 1 **un**
+- 2 **du**
+- 3 **san**
+- 4 **car**
+- 5 **lim**
+- 6 **sis**
+- 7 **set**
+- 8 **bat**
+- 9 **noy**
+
+Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la matematiko. 
+
+- 10 **un nul** aŭ **des**
+- 11 **un un**
+- 12 **un du**
+- 13 **un san**
+- 20 **du nul**
+- 21 **du un**
+- 22 **du du**
+- 100 **un nul nul** aŭ **hon**
+- 101 **un nul un** aŭ **hon un**
+- 200 **du nul nul** aŭ **du hon**
+
+
+Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.
+
+- 1000 **kilo**
+- 1 000 000 **mega**
+- 1 000 000 000 **giga**
+- 1 000 000 000 000 **tera**
+- 10<sup>15</sup> **peta**
+- 10<sup>18</sup> **eksa**
+- 10<sup>21</sup> **zeta**
+- 10<sup>24</sup> **yota**
 
 
 
@@ -99,97 +152,123 @@ Pronomoj
 
 ### Personaj pronomoj
 
-- **mi** mi
-- **ti** ci
-- **ta** ĝi, ŝi, li
-- **mimen** ni
-- **timen** vi
-- **tamen** ili
+Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
-La personaj pronomoj anstataŭigas kompletajn substantivajn frazojn.
+**mi** - mi  
+**ti** - vi _(ununumbre)_  
+**ta** - li, ŝi, ri, ĝi  
+**mimen** - ni  
+**timen** - vi _(multnombre)  _
+**tamen** - ili
 
-> **un jovan boi na jia. _ta_ duk buk.**
-> _Unu juna knabo estas en la hejmo. Li leĝas libron._
-
+**se** - si (mem)
 
 
-### Montraj pronomoj
+Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-- **ni** ĉi tiu
-- **tu** tiu
-
-La montraj pronomoj estas adjektivoj.
-
-> **tu batu.** - Tiu ŝtono.
-> **tu ye batu.** - Tiu estas ŝtono.
-> **tu batu cung.** - Tiu ŝtono estas peza.
+**mi vida se** - Mi vidas min.
+**ta vida se** - Ŝi vidas sin.
 
 
-### Demanda pronomo
+### Montrovorto
 
-**Ke** estas la ĝenerala demandvorto. Ĝi estas kaj la demanda pronomo kaj la demanda adjektivo.
+**el** estas la ĉefa Montrovorto en Pandunia. Ĝi enhavas la signifon de _tio_, _ĉi tio_, _tiu_ kaj _ĉi tiu_.
 
-> **ke?** - Kio? Kiu?
-> **ke ting?** - Kiu aĵo?
-> **ke ren?** - Kiu persono?  
-> **ke sabab?** - Kial? (Kiu kaŭzo?)  
-> **ke zam?** - Kiam? (Kiu momento?)
+La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
-
+**el** - (ĉi) tio, (ĉi) tiu
+**el jin** - ĉi tio, ĉi tiu _(proksima)_
+**el far** - tio, tiu _(fora)_
 
 
-Frazoj de esto
---------------
+Montrovortoj povas roli kiel Modifovortoj.
 
-Frazoj konsistas el _subjekto kaj predikato_. En la plej simplaj frazoj, la subjekto estas substantivo ău pronomo kaj la predikato estas adjektivo.
+> **el batu.** - Tiu ŝtono.
+> **el ye batu.** - Tio estas ŝtono.
+> **el batu cung.** - Tiu ŝtono pezas.
 
-> **mi bon.** - Mi estas bona.
-> **sara bon.** - Sara estas bona.
-> **batu cung.** - Ŝtono estas peza.
 
-Sed se oni volas kunmeti du vortojn de sama vortklaso, oni devas meti partikulon al la mezo. En jesaj frazoj la plej oportuna partikulo estas **ye** _(jes)_.
+### Demandaovorto
 
-> **ta ye sara.** - Ŝi estas Sara.
+**ke** estas la ĝenerala demandovorto en Pandunia. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
+
+> **ke?** - Kiu?/Kio?
+> **ke ting?** - Kio? (Kiu afero?)
+> **ke ren?** - Kiu? (Kiu persono?)
+> **ke zam?** - Kiam? (Kiu tempo?)
+> **ke yang?** - Kiel? (Kiu maniero?)
+
+
+### Korelativo
+
+*jo* estas la korelativo, kaj funkcias kiel la korelativa senco de la vortoj _kiu_ kaj _kio_.
+
+> **mi leva batu, jo cung.** - Mi levas ŝtonon, kiu estas peza.
+> **ta man, jo mi vida.** - Li estas la viro, kiun mi vidis.
+> **mimen suka ren, jo suka mimen.** - Ni ŝatas homojn, kiuj ŝatas nin.
+
+
+
+----------------------------------------------------------------------
+
+
+Stata predikato
+--------------------
+
+Frazoj normale konsistas el subjekto kaj predikato. En la plej simplaj frazoj la subjekto estas substantivo aŭ pronomo, kaj la predikato estas adjektivo, kiu indikas la staton.
+
+**mi bon.** - Mi bonas.
+**sara bon.** - Sara bonas.  
+**batu cung.** - La ŝtono pezas.
+
+Eblas ankaŭ, ke la subjekto estas pronomo, kaj la predikato estas substantivo.
+
+> **ta sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)
+> **ta batu.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
+
+Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per la vorteto **ye** (jes). Tamen eblas uzi **ye** tiurole ankaŭ en normalaj situacioj.
+
 > **ta ye mi.** - Ĝi estas mi.
-> **tu ye batu.** - Tiu estas ŝtono.
+> **el ye batu.** - Tio estas ŝtono.
 > **batu ye ting.** - Ŝtono estas aĵo.
 > **jovan ye sundar.** - Juna estas bela.
 
-La funkcio de partikulo **ye** estas apartigi la vortojn. Alikaze la frazo povus ŝajnu kiel kunmetita vorto. Ekzemple, sen apartiga partikulo, **batu ting** signifus _ŝton-aĵon_.
-
-En neaj frazoj oni uzas vorton **no** anstataŭ **ye**.
+Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ye**.
 
 > **mi no ti.** - Mi ne estas vi.
-> **batu no hewan.** - Ŝtono ne estas besto.
+> **batu no hewan.** Ŝtono ne estas animalo.
 > **jovan no sundar.** - Juna ne estas bela.
 
 
+Aga predikato
+------------------
+
+En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En Pandunia, Agovortoj facile distingeblas, ĉar ili plejofte finiĝas per **-a** aŭ **-u**.
+
+La finiĝo **-a** uziĝas en la vortordo _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba.
+
+> **mi auda musik.** - Mi aŭdas muzikon.  
+> **mi vida ti.** - Mi vidas vin.
+
+La finiĝo **-u** uziĝas en la vortordo _subjekto-objekto-verbo_ (SOV), kiu ankaŭ estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
+
+> **mi musik audu.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)   
+> **mi ti vidu.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
+
+La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo, tiel ke nur restu objekto kaj verbo.
+
+> **musik audu.** - Muziko aŭdiĝas. 
 
 
-Frazoj de ago
--------------
 
-Aktivaj frazoj povas uzi du vortordojn.
-
-1. Subjekto - verbo - objekto
-    - **mi kana pingo.** - Mi manĝas pomon.
-2. Subjekto - objekto - verbo
-    - **mi pingo kana.** - Mi pomon manĝas.
-
-Pasiva frazo estas simpligo de la dua vortordo per forigo de la subjekto.
-
-> **pingo kana.** - Pomon manĝas. (Pomo estas manĝita.)
-
-
-
-Verbserio
+Verboĉenoj
 ---------
 
-En verbserio du verboj havas la saman subjekton kaj la dua verbfrazo estas la objekto de la unua verbo.
+En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la objekto de la unua verbo.
 
-> **mi ken go jia.** - Mi povas iri hejmen.
-> **mi yau go jia.** - Mi bezonas iri hejmen.
-> **mi vol go jia.** - Mi volas iri hejmen.
+1. **mi pay jia.** - Mi iras hejmen.  
+2. **mi ken pay jia.** - Mi povas iri hejmen.  
+3. **mi vol ken pay jia.** - Mi volas povi iri hejmen.
 
 La falsa verbserio estas vere kunmetaĵo de pasiva verbfrazo kaj aktiva verbfrazo. Ĝi ŝajnas same kiel vera verbserio, sed la unua verbo estas pasiva.
 
@@ -198,32 +277,32 @@ La falsa verbserio estas vere kunmetaĵo de pasiva verbfrazo kaj aktiva verbfraz
 
 
 
-Ĉarnira frazo
+Ĉarnirfrazoj
 -------------
 
 La ĉarnira konstruo estas tre grava konstruo en pandunia. Ĝi estas ankaŭ la bazo por aliaj konstruoj.
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
-> **ta cing _mi_ go jia.** - Ĝi petas min iri hejmen.  
-> **ta les _mi_ go jia.** - Ĝi lasas min iri hejmen.  
-> **ta mus _mi_ go jia.** - Li devigas min iri hejmen.
+> **ta cing _mi_ pay jia.** - Ĝi petas min iri hejmen.  
+> **ta les _mi_ pay jia.** - Ĝi lasas min iri hejmen.  
+> **ta mus _mi_ pay jia.** - Li devigas min iri hejmen.
 
 La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subjekto, ĉar ĝi estas memkomprenebla en la kunteksto.
 
-> **mi kia ti go jia.** - Mi demandas (ĉu) vi iris hejmen.
-> **kia ti go jia?** - Ĉu vi iris hejmen?
+> **mi kia ti pay jia.** - Mi demandas (ĉu) vi iris hejmen.
+> **kia ti pay jia?** - Ĉu vi iris hejmen?
 
 Ĉi tiu estas tipa formo de klaso da frazoj, kiuj montras rilaton aŭ vidpunkton de la parolanto al kion li parolas.
 
-> Demando: **kia ta go jia?** - Mi demandas ke...
-> Kredo: **xin ta go jia.** - Mi kredas ke...
-> Dubo: **xak ta go jia.** - Mi dubas ke...
+> Demando: **kia ta pay jia?** - Mi demandas ke...
+> Kredo: **xin ta pay jia.** - Mi kredas ke...
+> Dubo: **xaka ta pay jia.** - Mi dubas ke...
 
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
-> **mi cing ti go jia.** - Mi petas vin iri hejmen.  
-> **cing go jia.** - Bonvolu iri hejmen.
+> **mi cing ti pay jia.** - Mi petas vin iri hejmen.  
+> **cing pay jia.** - Bonvolu iri hejmen.
 
 
 
@@ -278,5 +357,26 @@ Notu! Ankaŭ adjektivoj povas modifi aŭ unu vorton aŭ la tutan frazon.
 > **mi kitaba buk bon.** - Mi skribas librojn bone.
 
 Sed modalaj partikuloj povas modifi ĉiu tipo de vorto. Adjektivoj ne povas modifi pronomojn kaj nombrovortojn.
+
+
+
+
+Aliaj temoj
+-----------
+
+
+### Vortordoj
+
+Teorie ekzistas sis eblaj vortordoj. Ĉiu de ili eblas en pandunia dank'al la du tipoj de agovortoj.
+
+
+    1. Kun a-finiĝa verbo
+         - objekto–aganto–agovorto (OSV) : musik mi auda.
+         - aganto–agovorto–objekto (SVO) :       mi auda musik.
+         - agovorto–objekto–aganto (VOS) :          auda musik mi.
+     2. Kun u-finiĝa verbo
+         - aganto-objekto-agovorto (SOV) : mi musik audu.
+         - objekto-agovorto-aganto (OVS) :    musik audu mi.
+         - agovorto-aganto-objekto (VSO) :          audu mi musik.
 
 

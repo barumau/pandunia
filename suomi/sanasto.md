@@ -1,69 +1,73 @@
-Vortaro
+Sanasto
 =======
 
-Internaciaj vortoj
-------------------
+Kansainväliset sanat
+--------------------
 
-Ekzistas kelkaj internaciaj vortprovizoj.
+Toisin kuin kenties usein luullaan, maailmassa on olemassa useita kansainvälisiä sanastoja.
 
-Hartmut Traunmuller dividis la mondon en kvar ĉefajn kulturajn sferojn en sia artikolo [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf). La lingvoj en la sama kulturkomunumo havas komunajn vortojn kaj kulturajn konceptojn. La kvar ĉefaj kulturaj sferoj estas:
+Hartmut Traunmuller jakaa maailman neljään suureen kulttuuripiiriin artikkelissaan [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf). Samaan kulttuuripiiriin kuuluvat kielet omaavat yhteisiä sanoja ja kulttuurikäsitteitä. Neljä suurinta kulttuuripiiriä ovat:
 
-1. la eŭropa (okcidenta) kulturkomunumo
-2. la afrikazia (islama) kulturkomunumo
-3. la sudazia (barata) kulturkomunumo
-4. la orientazia (ĉina) kulturkomunumo
+1. eurooppalainen eli läntinen kulttuuripiiri
+2. afrikkalais-aasialainen eli islamilainen kulttuuripiiri
+3. eteläaasialainen eli intialainen kulttuuripiiri
+4. itäaasialainen eli kiinalainen kulttuuripiiri
 
-La suba monda mapo montras ilin preskaŭe.
+Niiden rajat on piirretty summittaisesti alla olevaan maailman karttaan.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Mapo de kulturkomunumoj")
-
-
-Metodo por prunti vortojn al pandunia
--------------------------------------
-
-Vortoj de pandunia venas el kelkaj de la plej vaste parolataj lingvoj de la mondo. Estas metodo por prunti vortojn. La tri ĉefaj kondiĉoj por prunti vortojn estas:
-
-- Egaleco: Vortoj estas pruntita egale de diversaj regionoj de la mondo.
-- Vasteco: Pandunia pruntas vaste uzatajn, internaciajn vortojn.
-- Simpleco: Simple prononceblaj vortoj estas pli bonaj.
+![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Kulttuuripiirit kartalla")
 
 
-Vortfarado
-----------
+Kuinka pandunian sanat saadaan?
+-------------------------------
 
-Pandunia havas produktiva sistemo de vortfarado per afiksoj.
+Pandunian sanat tulevat maailman laajiiten puhutuista kielistä. Sanat otetaan siten, että ne täyttävät kolme ehtoa:
+
+- Tasapuolisuus: Sanat otetaan tasapuolisesti maailman eri puolilta.
+- Levinneisyys: Pandunian sanat ovat laajasti tunnettuja ja käytettyjä kansainvälisiä sanoja.
+- Yksinkertaisuus: Helposti äännettävät ja lyhyet sanat ovat pandunialle otollisia.
+
+
+Sananmuodostus
+--------------
+
+Panduniaan voi muodostaa uusia sanoja päätteitä käyttämällä.
 
 ### -i
 
-Adjektiva sufikso. **manuxi** homa, **metali** metala.
+Yleisin adjektiivin pääte. **Manuxi** inhimillinen, **metali** metallinen.
 
 ### -al
 
-Adjektiva sufikso, ofte uzata kun -ia. Ekz. **imperial** imperia, **tabial** natura.
+Toinen adjektivin pääte, jota usein käytetään päätteen -ia jatkona. Esim. **imperial** imperiaalinen, **tabial** luonnollinen.
 
 ### -er
 
-Faranto. Ekz. **beker** bakisto, **lider** direktoro, **xofer** ŝoforo.
+Tekijä. Esim. **beker** leipuri, **lider** johtaja, **xofer** ajaja.
 
 ### -or
 
-Ilo aŭ maŝino. Ekz. **komputor** komputilo.
+Kone. Esim. **komputor** tietokone.
 
 ### -ia
 
-Nomoj de fizikaj kaj pensaj "regionoj" ofte finiĝas per -ia.
+Paikkojen ja alueiden yleinen pääte.
 
-- Sciencoj: **filosofia** filozofio, **biolojia** biologio, **kimia** ĥemio.
-- Landoj: **arabia** Arabio, **indonesia** Indonezio, **rosia** Rusio, **turkia** Turkio
-- Regionoj: **imperia** imperio, **nasia** ŝtato, **demokratia** demokratio, **media** meza regiono, **tabia** naturo
-- Ejoj: **bekeria** bakejo.
+- Maiden ja alueiden nimissä: **arabia** Arabia, **indonesia** Indonesia, **rusia** Venäjä, **turkia** Turkki
+- Alueet: **imperia** keisarikunta, **nasia** kansakunta, **demokratia** demokratia, **media** keskialue, **tabia** luonto
+- Paikat ja huoneet: **bekeria** leipomo, **kuzinia** keittiö, **bania** kylpyhuone.
 
 ### -ian
 
-Loĝanto. Ekz. **indonesian** Indoneziano, **rosian** rusiano.
+Asukas tai jäsen. Esim. **indonesian** indonesialainen, **rusian** venäläinen.
+
+Eräissä sanoissa käytetään lyhyempää päätettä -an: **europan** eurooppalainen, **afrikan** afrikkalainen, **amerikan** amerikkalainen, **usan** yhdysvaltalainen.
 
 ### -ie
 
-Abstraktaj kvalitoj. Ekz. **hurie** libereco, **sofie** saĝeco.
+Erilaisten ajatusjärjestelmien pääte.
+
+- Tieteet: **lojie** tiede, **filsofie** filosofia, **biolojie** biologia, **kimie** kemia.
+- Uskonnot: **dinie** uskonto, **kristie** kristinusko
 
 
