@@ -46,51 +46,51 @@ Tip: As you can see from the range of expressions, **salam** is a general word f
 
 
 
-### me <small>I, me</small>
+### mi <small>I, me</small>
 
-**me salam mama.** I greet mother.
+**mi salam mama.** I greet mother.
 
-**me salam papa.** I greet father.
+**mi salam papa.** I greet father.
 
 **salam mama!** Hello, mother!
 
 **salam papa!** Hello, father!
 
+**mimen salam mama.** We greet mother.
 
 
-### ni <small>you</small>
 
-**me salam ni.** I greet you.
+### ti <small>you</small>
 
-**ni salam me.** You greet me.
+**mi salam ti.** I greet you.
 
-Tip: The basic word order is subject-verb-object. Words don't ever change their form in Pandunia. That's why **me** stays the same in Pandunia, but in English 'I' changes to 'me'.
+**ti salam mi.** You greet me.
 
-**salam ni!** Hello you!
+Tip: The basic word order is subject-verb-object. Words don't ever change their form in Pandunia. That's why **mi** stays the same in Pandunia, but in English 'I' changes to 'me'.
 
-Tip: Two more pronouns are created from **ni**. **Nini** is means "you all". **Nime** means _you and me_, so it is the inclusive form of "we" (for two or more persons).
+**salam ti!** Hello you!
 
-**nime salam mama.** We greet mother.
+Note:  **Ti** means one single person only. The plural pronoun is **timen**, "you all".
 
-**me salam nini.** I greet you all.
+**mi salam timen.** I greet you all.
 
-**salam nini!** Hello you all!
+**salam timen!** Hello you all!
 
 
 
 ### e <small>to be</small>
 
-**me e tomas.** I am Thomas.
+**mi e tomas.** I am Thomas.
 
-**ni e sara.** You are Sara.
+**ti e sara.** You are Sara.
 
 **mau e hewan.** The cat is an animal.
 
-Note: Like every word in Pandunia, **e** is unchanging. So _am, is, are, was_ and _were_ are all translated **e** in Pandunia! In addition, in simple phrases it's allowed to leave out **e** after a pronoun like **me** and **ni**.
+Note: Like every word in Pandunia, **e** is unchanging. So _am, is, are, was_ and _were_ are all translated **e** in Pandunia! In addition, in simple phrases it's allowed to leave out **e** after a pronoun like **mi** and **ti**.
 
-**me sara.** I'm Sara.
+**mi sara.** I'm Sara.
 
-**ni tomas.** You're Thomas.
+**ti tomas.** You're Thomas.
 
 
 
@@ -102,13 +102,13 @@ Note: Like every word in Pandunia, **e** is unchanging. So _am, is, are, was_ an
 
 **ta e pingo.** It is an apple.
 
-Tip: **Ta** is the general third person pronoun. It is used for people (irrespective of gender) as well as things. As you can guess, **tata** means "they" and **tame** means _them and me_, so it is the exclusive form of "we".
+Tip: **Ta** is the general third person pronoun. It is used for people (irrespective of gender) as well as things. As you can guess, **Tamen** means "they".
 
-**tata e pingo.** They are apples.
+**tamen e pingo.** They are apples.
 
-**nime salam tata.** We greet them.
+**mimen salam tamen.** We greet them.
 
-**tame salam nini.** We greet you.
+**mimen salam timen.** We greet you.
 
 
 
@@ -116,15 +116,15 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **ke?** What?
 
-**ni e ke?** Who are you?
-**me e tomas.** I'm Thomas.
+**ti e ke?** Who are you?
+**mi e tomas.** I'm Thomas.
 
 **ta e ke?** Who is he/she?
 **ta e sara.** She is Sara.
 
-**nini e ke?** Who are you people?
+**timen e ke?** Who are you people?
 
-**tata e ke?** Who are they?
+**tamen e ke?** Who are they?
 
 
 
@@ -144,9 +144,9 @@ Note: When an adjective, like **roxu**, is placed before a noun, it works as a m
 
 ### nam <small>be called, name</small>
 
-**ni nam ke?** What's your name?
+**ti nam ke?** What's your name?
 
-**me nam tomas.** My name is Thomas.
+**mi nam tomas.** My name is Thomas.
 
 **ta nam ke?** What's his/her name?
 
@@ -156,23 +156,23 @@ Note: When an adjective, like **roxu**, is placed before a noun, it works as a m
 
 ### kia <small>to ask a question</small>
 
-**kia ni e tomas?** Are you Thomas?
+**kia ti e tomas?** Are you Thomas?
 
-**kia ni e doktor?** Are you a doctor?
+**kia ti e doktor?** Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **me kia ni doktor.** (I ask, you doctor?) by dropping out the first word.
+Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia ti doktor.** (I ask, you doctor?) by dropping out the first word.
 
-**kia ni bon?** How are you? (Literally: _Are you good?_)
-**me bon.** I'm good.
-**ni ne?** And you?
-**me no bon.** I'm not good.
+**kia ti bon?** How are you? (Literally: _Are you good?_)
+**mi bon.** I'm good.
+**ti ne?** And you?
+**mi no bon.** I'm not good.
 
 
 
 ### ye <small>yes</small>
 
-**kia ni bon?** Are you well?
-**ye. me bon.** Yes, I'm well.
+**kia ti bon?** Are you well?
+**ye. mi bon.** Yes, I'm well.
 
 **kia doktor na?** Is there a doctor?
 **ye. sa man e doktor.** Yes. That man is a doctor.
@@ -184,7 +184,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### no <small>no, not</small>
 
-**me no doktor.** I'm not a doctor.
+**mi no doktor.** I'm not a doctor.
 
 **sa man no e doktor.** That man is not a doctor.
 
@@ -200,43 +200,43 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **ta yem pingo.** He/she eats an apple.
 
-**tata yem pingo.** They eat apples.
+**tamen yem pingo.** They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
 
-**kia ni yem kafe?** Do you drink coffee?
+**kia ti yem kafe?** Do you drink coffee?
 
-**me yem kafe.** I drink coffee.
+**mi yem kafe.** I drink coffee.
 
 Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy!
 
-**me yem kafe i pan.** I'm having coffee and bread.
+**mi yem kafe i pan.** I'm having coffee and bread.
 
 
 
 ### vole <small>want</small>
 
-**ni vole yem ke?** What would you like to eat?
+**ti vole yem ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**me vole yem kafe.** I want to drink coffee.
+**mi vole yem kafe.** I want to drink coffee.
 
-**kia ni vole yem ca?** Would you like to drink tea?
-**no. me no vole ca. me vole kafe.** No, I don't want tea. I want coffee.
+**kia ti vole yem ca?** Would you like to drink tea?
+**no. mi no vole ca. mi vole kafe.** No, I don't want tea. I want coffee.
 
-**ni vole ke pingo?** Which apple do you want?
+**ti vole ke pingo?** Which apple do you want?
 **sa roxu.** This red one.
 
 
 
 ### cing <small>request, please</small>
 
-**me cing ni yem ca.** I ask you to drink tea.
+**mi cing ti yem ca.** I ask you to drink tea.
 
-**me cing ni lai jia.** I ask you to come home.
+**mi cing ti lai jia.** I ask you to come home.
 
-**me cing ni mede me.** I ask you to help me.
+**mi cing ti mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
@@ -246,7 +246,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing lai jia.** Please, come home!
 
-**cing mede me.** Please, help me.
+**cing mede mi.** Please, help me.
 
 
 
@@ -254,22 +254,22 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danku!** Thanks!
 
-**danku ni.** Thank you.
+**danku ti.** Thank you.
 
-**me danku ni.** I thank you.
+**mi danku ti.** I thank you.
 
-**me danku ni mede me.** I thank you for helping me.
+**mi danku ti mede mi.** I thank you for helping me.
 
-**danku ni mede me.** Thanks for helping me.
+**danku ti mede mi.** Thanks for helping me.
 
-**ni keci.** You're welcome. (Literally: _You're polite._)
+**ti keci.** You're welcome. (Literally: _You're polite._)
 
 
 
 ### ha <small>have</small>
 
-**kia ni ha ana?** Do you have children?
-**ye. me ha un ana.** Yes, I have a child.
+**kia ti ha ana?** Do you have children?
+**ye. mi ha un ana.** Yes, I have a child.
 
 <!--
 
@@ -291,10 +291,10 @@ Tip: To make direct requests, drop all the pronouns.
 **** Let's go eat!
 **yem salam!** Bon appetit!
 
-**kia ni sabi pandunia?** Do you speak Pandunia?
+**kia ti sabi pandunia?** Do you speak Pandunia?
 
 **** I didn't quite understand you.
-**me budi lit pandunia.** Ymmärrän vähän panduniaa.
+**mi budi lit pandunia.** Ymmärrän vähän panduniaa.
 **** I don't understand at all.
 
 **** I can't hear you.
@@ -387,11 +387,11 @@ Part 3
 
 ### mafu <small>sorry, pardon</small>
 
-**mafu! me no budi.** Sorry, I don't understand.
+**mafu! mi no budi.** Sorry, I don't understand.
 
 **mafu! sa ke?** Excuse me, what's this?
 
-**mafu. ni nam ke?** Excuse me, what's your name?
+**mafu. ti nam ke?** Excuse me, what's your name?
 
 
 ---
@@ -399,7 +399,7 @@ Part 3
 
 ### la <small>that, the one</small>
 
-**me vole la haus.** I want the house.
+**mi vole la haus.** I want the house.
 
 
 
@@ -407,19 +407,19 @@ Part 3
 
 ### loji <small>study, research</small>
 
-**me sabi du baxa.** I know two languages.
+**mi sabi du baxa.** I know two languages.
 
 **ta doku loji buku.** He/she reads a study book.
 
 Tip: Action words like **loji** and **baxa** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
 
-**me baxa pandunia.** I speak Pandunia.
+**mi baxa pandunia.** I speak Pandunia.
 
 
 **ke habar?** What's new?
 
 
-<!-- **me loji kazu loji.** I study a case study. -->
+<!-- **mi loji kazu loji.** I study a case study. -->
 
 
 Word List
@@ -454,12 +454,10 @@ All words of Pandunia are loan words from other languages that are spoken around
 **lai** come <small>(Vietnamese _lai_)</small>
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>
 **man** man <small>(English _man_)</small>
-**me** I, me <small>(Hindi _mẽ_ मैं)</small>
 **mede** help <small>(French _aider_)</small>
-**ni** you <small>(Mandarin _nǐ_ 你)</small>
+**mi** I, me <small>(Swahili _mimi_)</small>
+**mimen** we
 **nili** blue <small>(Kannada _nīli_)</small>
-**nime** we; you and I
-**nini** you all <small>(Swahili _ninyi_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **noce** night <small>(Spanish _noche_)</small>
 **nau** now, currently <small>(English _now_)</small>
@@ -473,9 +471,10 @@ All words of Pandunia are loan words from other languages that are spoken around
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>
 **suba** morning <small>(Wolof _subba_)</small>
+**ti** you <small>(Russian _ty_ ты)</small>
+**timen** you all
 **ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>
-**tame** we; me and them
-**tata** they
+**tamen** they <small>(Mandarin _tāmen_ 他们)</small>
 **vide** see, look <small>(Russian _videt'_ видеть)</small>
 **u** or <small>(French _ou_)</small>
 **vole** want <small>(Italian _volere_)</small>
@@ -539,9 +538,9 @@ TAM : tense, aspect or mood particle
         - **sara ye vide le roxu hua.** Sara sees the red flower.
         - **tim no vide ta.** Tim doesn't see it.
     6. PP + verb + PP + verb + NP : the pivot structure
-        - **me vole ni lai jia.** I want you to come home.
+        - **me vole ti lai jia.** I want you to come home.
     7. verb + PP + verb + NP : template for questions and other modalities
-        - **kia ni lai jia gon?** Did you come home already?
+        - **kia ti lai jia gon?** Did you come home already?
     8. verb + verb + NP : template for requests and commands
         - **cing lai jia.** Please come home.
         - **bana lai jia!** Don't come home!

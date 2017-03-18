@@ -42,14 +42,14 @@ Basic Rules
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with transitive verbs have subject-verb-object word order.
-    - ex. **me penta meza.** = I paint tables.
+    - ex. **mi penta meza.** = I paint tables.
 7. A sentence with passive meaning has only a subject and a verb.
     - ex. **ta penta.** = It is painted.
 8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **me cing ni dar pesa.** = I ask you to give money.
+    - ex. **mi cing ti dar pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
-    - **me kia ni sabi pandunia?** → **kia ni sabi pandunia?** = Do you speak Pandunia?
-    - **me cing ni loga tez.** →  **cing loga tez.** = Please speak louder.
+    - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Do you speak Pandunia?
+    - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
 
 
 
@@ -179,13 +179,12 @@ Pronouns
 
 Pronouns can substitute thing-words and phrases of thing-words.
 
-**me** - I, me  
-**ni** - you  
+**mi** - I, me  
+**ti** - you  
 **ta** - he, she, it  
-**nime** - we (inclusive)
-**tame** - we (exclusive)
-**nini** - you all  
-**tata** - they
+**mimen** - we (exclusive)
+**timen** - you all  
+**tamen** - they
 
 **se** - self
 
@@ -224,9 +223,9 @@ The demonstrative pronouns work like modifiers.
 
 **Jo**, the relative pronoun, corresponds to English words _which_, _that_, _who_ and _whom_.
 
-> **me leva batu, jo cung.** - I lift a stone, which is heavy.
-> **ta man, jo me vide.** - He is the man whom I saw.
-> **tame suka ren, jo suka tame.** - We like people who like us.
+> **mi leva batu, jo cung.** - I lift a stone, which is heavy.
+> **ta man, jo mi vide.** - He is the man whom I saw.
+> **mimen suka ren, jo suka mimen.** - We like people who like us.
 
 
 
@@ -239,7 +238,7 @@ Predicate of state
 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective.
 
-**me bon.** - I am good.  
+**mi bon.** - I am good.  
 **sara bon.** - Sara is good.  
 **batu cung.** - Stone is heavy.
 
@@ -248,16 +247,16 @@ Likewise, it's possible that the subject is a pronoun and the predicate is a nou
 > **ta sara.** - She is Sara.
 > **ta batu.** - It is a stone.
 
-But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Particle **e** (yes) does it.
+But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Then the verb **e** (to be) is used.
 
-> **ta e me.** - It is me.
+> **ta e mi.** - It is me.
 > **tu e batu.** - That is a stone.
 > **batu e ting.** - Stone is a thing.
 > **jovan e sundar.** - Young is beautiful.
 
 To deny something, use the word **no** before **e**.
 
-> **me no e ni.** - I'm not you.
+> **mi no e ti.** - I'm not you.
 > **batu no e hewan.** Stone is not an animal.
 > **jovan no e sundar.** - Young is not beautiful.
 
@@ -267,14 +266,21 @@ Predicate of action
 
 In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
 
-Active sentences use the subject–verb–object word order (SVO), which is the normal word order also in English and in many other languages, including French, Spanish, Chinese and Modern Arabic.
+Active sentences are frequently in the subject–verb–object word order (SVO).
 
-> **me auda musik.** - I hear music.  
-> **me vide ni.** - I see you.
+> **mi yem pingo.** - I eat apples.
+> **mi auda musik.** - I hear music.  
+> **mi vide ti.** - I see you.
 
-Passive sentences normally have only a subject and a verb.
+There is also alternative word order, subject–object–verb (SOV). It can be used only in short sentences.
 
-> **ni vide.** - You are seen.
+**mi pingo yem.** - _I apples eat._
+
+SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
+
+In passive sentences, the subject is the undergoer of the action and there is no object.
+
+> **ti vide.** - You are seen.
 > **musik se auda.** - Music is heard.
 
 
@@ -284,9 +290,9 @@ Serial verbs
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
 
-1. **me go jia.** - I go home.  
-2. **me ken go jia.** - I can go home.  
-3. **me vole ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
+1. **mi go jia.** - I go home.  
+2. **mi ken go jia.** - I can go home.  
+3. **mi vole ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 Pivot structure
@@ -294,9 +300,9 @@ Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-> **me vole ni yem sabzi.** - I want (that) you eat vegetables.
+> **mi vole ti yem sabzi.** - I want (that) you eat vegetables.
 
-In the example above, **me vole** has **ni** as its object. At the same time, **ni** functions as the subject of the following predicate, **yem sabzi**. So **ni** is the _pivot_ of the sentence.
+In the example above, **mi vole** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
 
 
 Pronoun dropping
@@ -304,7 +310,7 @@ Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **me cing ni lai.** - I ask you to come.  
+> **mi cing ti lai.** - I ask you to come.  
 > **cing lai!** - Please come! (Literally: _Request come!_)
 
 
@@ -316,25 +322,25 @@ Affirmation and negation
 
 Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it.
 
-> **me e ren.** - I am a person.  
+> **mi e ren.** - I am a person.  
 > **ta e un nov meza.** - It is a new table.
 
 Such sentences can be simply negated with **no**.
 
-> **me no e ren.** - I'm not a person.  
+> **mi no e ren.** - I'm not a person.  
 > **ta no e nov meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
-> **me vide ni.** - I see you.  
-> **me no vide ni.** - I don't see you.  
-> **me vide no ni ama tata.** - I see, not you, but them.
+> **mi vide ti.** - I see you.  
+> **mi no vide ti.** - I don't see you.  
+> **mi vide no ti ama tamen.** - I see, not you, but them.
 
 The particles **ye** and **no** are used for answering questions.
 
-> **kia ni vide me?** - Do you see me?  
-> **ye. (me vide ni.)** - Yes. (I see you.)  
-> **no. (me no vide ni.)** - No. (I don't see you.)
+> **kia ti vide mi?** - Do you see me?  
+> **ye. (mi vide ti.)** - Yes. (I see you.)  
+> **no. (mi no vide ti.)** - No. (I don't see you.)
 
 
 
@@ -347,13 +353,12 @@ When pronouns are turned into modifiers, they become _possessive pronouns_. Ther
 
 | With _ge_                        | With _de_                                |
 |:---------------------------------|:-----------------------------------------|
-| **me ge jia** - my home          | **jia de me** - the home of mine         |
-| **ni ge jia** - your home        | **jia de ni** - the home of yours        |
+| **mi ge jia** - my home          | **jia de mi** - the home of mine         |
+| **ti ge jia** - your home        | **jia de ti** - the home of yours        |
 | **ta ge jia** - his/her/its home | **jia de ta** - the home of his/hers/its |
-| **nime ge jia** - our home       | **jia de nime** - the home of ours       |
-| **tame ge jia** - our home       | **jia de tame** - the home of ours       |
-| **nini ge jia** - your home      | **jia de nini** - the home of you all    |
-| **tata ge jia** - their home     | **jia de tata** - the home of theirs     |
+| **mimen ge jia** - our home      | **jia de mimen** - the home of ours      |
+| **timen ge jia** - your home     | **jia de timen** - the home of you all   |
+| **tamen ge jia** - their home    | **jia de tamen** - the home of theirs    |
 
 
 A modifier particle changes any kind of phrase into an equivalent of a quality-word. So also nouns and verbs can be changed into modifiers.
@@ -375,31 +380,31 @@ Pandunia has three prepositions of place and time.
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **me lai jia.** - I come home.
-> **ni side kursi.** - You sit (on) the chair.
+> **mi lai jia.** - I come home.
+> **ti side kursi.** - You sit (on) the chair.
 > **ta lala sofa.** - S/he lies (on) the sofa.
 > **pexe nata daria.** - Fish swim (in) the water.
 > **janger marxa dau.** - Warriors march (on) the road.
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
-> **me na hotel.** - I'm in the hotel.
-> **me sona na hotel.** - I sleep in the hotel.
-> **me sona ze xam do suba.** - I sleep since evening until morning.
-> **me safara ze london do paris.** - I travel from London to Paris.
+> **mi na hotel.** - I'm in the hotel.
+> **mi sona na hotel.** - I sleep in the hotel.
+> **mi sona ze xam do suba.** - I sleep since evening until morning.
+> **mi safara ze london do paris.** - I travel from London to Paris.
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **me denga ze ni toka.** - I have waited since you left.
-> **me denga do ni lai jia.** - I wait until you come home.
-> **me denga na ni sona.** - I wait while you sleep.
+> **mi denga ze ti toka.** - I have waited since you left.
+> **mi denga do ti lai jia.** - I wait until you come home.
+> **mi denga na ti sona.** - I wait while you sleep.
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
 > **na dur de** - for the time/duration of
-> **me denga na dur de ni sona.** - I wait for the time when you sleep.
+> **mi denga na dur de ti sona.** - I wait for the time when you sleep.
 > **na lok de** - at the place of
-> **me denga na lok de ni toka.** - I wait at the place where you left.
+> **mi denga na lok de ti toka.** - I wait at the place where you left.
 > **na xia de** - under, below
 > **un kuta lala na xia de meza.** - A dog lies under the table.
 > **na men de** - on the surface of
@@ -412,7 +417,7 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dura** - to last, to take time
-> **me denga na dura ni sona.** - _I wait during you sleep._
+> **mi denga na dura ti sona.** - _I wait during you sleep._
 
 
 
@@ -434,17 +439,17 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 
 Possibly a more foreign example is the question particle **ka**. It works just like **plus**, only the meaning is different. So **ka** puts the subsequent word under question, or the entire sentence.
 
-> **ni yem bir ka?** - Do you drink beer?  
-> **ni yem ka bir?** - _Is is beer_ that you drink?  
-> **ni ka yem bir?** - _Is it drinking_ that you do to the beer?  
-> **ka ni yem bir?** - _Is it you_ who drinks beer?
+> **ti yem bir ka?** - Do you drink beer?  
+> **ti yem ka bir?** - _Is is beer_ that you drink?  
+> **ti ka yem bir?** - _Is it drinking_ that you do to the beer?  
+> **ka ti yem bir?** - _Is it you_ who drinks beer?
 
 
 Note! Also adjectives can modify the subsequent word or the entire sentence.
 
-> **me bon kitaba buk.** - I write well books.
-> **me kitaba bon buk.** - I write good books.
-> **me kitaba buk bon.** - I write books well.
+> **mi bon kitaba buk.** - I write well books.
+> **mi kitaba bon buk.** - I write good books.
+> **mi kitaba buk bon.** - I write books well.
 
 However, mood particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
@@ -453,9 +458,9 @@ However, mood particles can modify all kinds of words, including pronouns and nu
 
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
-> **me hav mau gon.** - I had cats in the past.
-> **ama me no hav mau nun.** - But I don't have cats now.
-> **munkin me hav mau futur.** - Maybe I have cats in the future.
+> **mi hav mau gon.** - I had cats in the past.
+> **ama mi no hav mau nun.** - But I don't have cats now.
+> **munkin mi hav mau futur.** - Maybe I have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **hav** stayed the same in all tenses in the examples above.
 
@@ -475,21 +480,21 @@ Other Topics
 
 Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
 
-Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **me vide ni** (I see you) can be pictured as a tree as follows.
+Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **mi vide ti** (I see you) can be pictured as a tree as follows.
 
-    me vide ni.
+    mi vide ti.
 
        vide
       ┌─┴─┐
-     me   ti
+     mi   ti
 
 Adjectives and numerals point to their head word, the noun.
 
-    me vide san jovan ren.
+    mi vide san jovan ren.
 
        vide
       ┌─┴──┐
-     me   ren
+     mi   ren
            |
          jovan
            |
