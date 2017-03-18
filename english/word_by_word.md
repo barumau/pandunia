@@ -20,7 +20,7 @@ This is a course for learning Pandunia rapidly through words. The course consist
 
 Note! Many lessons include also tips and notes like this. They are there to clarify usage patterns and grammatical details.
 
-Are you ready? Let's begin!
+
 
 
 Part 1: Greeting and introduction
@@ -50,9 +50,7 @@ Tip: As you can see from the range of expressions, **salam** is a general word f
 
 **me salam mama.** I greet mother.
 
-**mama salam me.** Mother greets me.
-
-Tip: The basic word order is subject-verb-object. Words don't ever change their form in Pandunia. That's why **me** stays the same in Pandunia, but in English 'I' changes to 'me'.
+**me salam papa.** I greet father.
 
 **salam mama!** Hello, mother!
 
@@ -63,6 +61,10 @@ Tip: The basic word order is subject-verb-object. Words don't ever change their 
 ### ni <small>you</small>
 
 **me salam ni.** I greet you.
+
+**ni salam me.** You greet me.
+
+Tip: The basic word order is subject-verb-object. Words don't ever change their form in Pandunia. That's why **me** stays the same in Pandunia, but in English 'I' changes to 'me'.
 
 **salam ni!** Hello you!
 
@@ -76,15 +78,33 @@ Tip: Two more pronouns are created from **ni**. **Nini** is means "you all". **N
 
 
 
+### e <small>to be</small>
+
+**me e tomas.** I am Thomas.
+
+**ni e sara.** You are Sara.
+
+**mau e hewan.** The cat is an animal.
+
+Note: Like every word in Pandunia, **e** is unchanging. So _am, is, are, was_ and _were_ are all translated **e** in Pandunia! In addition, in simple phrases it's allowed to leave out **e** after a pronoun like **me** and **ni**.
+
+**me sara.** I'm Sara.
+
+**ni tomas.** You're Thomas.
+
+
+
 ### ta <small>he, she or it</small>
 
-**ta fem.** She is a woman.
+**ta e fem.** She is a woman.
 
-**ta man.** He is a man.
+**ta e man.** He is a man.
 
-**ta pingo.** It is an apple.
+**ta e pingo.** It is an apple.
 
 Tip: **Ta** is the general third person pronoun. It is used for people (irrespective of gender) as well as things. As you can guess, **tata** means "they" and **tame** means _them and me_, so it is the exclusive form of "we".
+
+**tata e pingo.** They are apples.
 
 **nime salam tata.** We greet them.
 
@@ -96,25 +116,25 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **ke?** What?
 
-**ni ke?** Who are you?
-**me tomas.** I'm Thomas.
+**ni e ke?** Who are you?
+**me e tomas.** I'm Thomas.
 
-**ta ke?** Who is he/she?
-**ta sara.** She is Sara.
+**ta e ke?** Who is he/she?
+**ta e sara.** She is Sara.
 
-**nini ke?** Who are you people?
+**nini e ke?** Who are you people?
 
-**tata ke?** Who are they?
+**tata e ke?** Who are they?
 
 
 
 ### sa <small>this, that</small>
 
-**sa ke? / ke sa?** What's this?
+**sa e ke? / ke e sa?** What's this?
 
-**sa ye pingo.** This is an apple.
+**sa e pingo.** This is an apple.
 
-**sa ye roxu pingo.** This is a red apple.
+**sa e roxu pingo.** This is a red apple.
 
 **sa pingo roxu.** This apple is red.
 
@@ -122,7 +142,7 @@ Note: When an adjective, like **roxu**, is placed before a noun, it works as a m
 
 
 
-### nam <small>name</small>
+### nam <small>be called, name</small>
 
 **ni nam ke?** What's your name?
 
@@ -133,11 +153,12 @@ Note: When an adjective, like **roxu**, is placed before a noun, it works as a m
 **ta nam sara.** Her name is Sara.
 
 
+
 ### kia <small>to ask a question</small>
 
-**kia ni tomas?** Are you Thomas?
+**kia ni e tomas?** Are you Thomas?
 
-**kia ni doktor?** Are you a doctor?
+**kia ni e doktor?** Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **me kia ni doktor.** (I ask, you doctor?) by dropping out the first word.
 
@@ -153,21 +174,19 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **kia ni bon?** Are you well?
 **ye. me bon.** Yes, I'm well.
 
-**kia ha doktor?** Is there a doctor?
-**ye. sa man ye doktor.** Yes. That man is a doctor.
+**kia doktor na?** Is there a doctor?
+**ye. sa man e doktor.** Yes. That man is a doctor.
 
-Tip: The word **ye** is often used in place of "to be". But it is commonly left out after pronouns like **me**, **ni** and **ta**.
+**sa fem e doktor.** That woman is a doctor.
 
-**sa fem ye doktor.** That woman is a doctor.
-
-**ta doktor.** She is a doctor.
+**ta doktor.** He/she is a doctor.
 
 
 ### no <small>no, not</small>
 
 **me no doktor.** I'm not a doctor.
 
-**sa man no doktor.** That man is not a doctor.
+**sa man no e doktor.** That man is not a doctor.
 
 **sa pingo no roxu.** - This apple is not red.
 
@@ -177,7 +196,7 @@ Tip: The word **ye** is often used in place of "to be". But it is commonly left 
 ## Part 2
 
 
-### yem <small>eat, drink</small>
+### yem <small>consume, eat, drink</small>
 
 **ta yem pingo.** He/she eats an apple.
 
@@ -252,7 +271,7 @@ Tip: To make direct requests, drop all the pronouns.
 **kia ni ha ana?** Do you have children?
 **ye. me ha un ana.** Yes, I have a child.
 
-
+<!--
 
 **** See you later!
 **** See you tomorrow!
@@ -357,17 +376,7 @@ Tip: To make direct requests, drop all the pronouns.
 **** I give them a book.
 
 
-
-
-
-
-
-
-
-
-
-
-
+-->
 
 
 
@@ -388,9 +397,9 @@ Part 3
 ---
 
 
-### le <small>that, the one</small>
+### la <small>that, the one</small>
 
-**me yau le haus.** I want that house.
+**me vole la haus.** I want the house.
 
 
 
@@ -404,7 +413,7 @@ Part 3
 
 Tip: Action words like **loji** and **baxa** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
 
-**me baxa Pandunia.** I speak Pandunia.
+**me baxa pandunia.** I speak Pandunia.
 
 
 **ke habar?** What's new?
@@ -427,6 +436,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ca** tea <small>(Mandarin _chá_ 茶)</small>
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>
 **den** day <small>(Russian _den'_ день)</small>
+**e** to be <small>(Portuguese _é_)</small>
 **fem** woman <small>(French _femme_)</small>
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** have; there is <small>(Portuguese _há_)</small>
@@ -453,7 +463,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **no** no, not <small>(Spanish _no_)</small>
 **noce** night <small>(Spanish _noche_)</small>
 **nau** now, currently <small>(English _now_)</small>
-**o** or <small>(Spanish _o_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **puti** white <small>(Filipino _puti_)</small>
@@ -467,6 +476,8 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>
 **tame** we; me and them
 **tata** they
+**vide** see, look <small>(Russian _videt'_ видеть)</small>
+**u** or <small>(French _ou_)</small>
 **vole** want <small>(Italian _volere_)</small>
 **xam** evening <small>(Hindi _śām_ शाम )</small>
 **ye** yes <small>(Korean 예 _ye_)</small>
@@ -475,10 +486,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 
 <!--
-**kara** black <small>(Turkish _kara_)</small>
-**nili** blue <small>(Kannada _nīli_)</small>
-**yelo** yellow <small>(English _yellow_)</small>
-**puti** white <small>(Filipino _puti_)</small>
 ****  <small>()</small>
 **loga** talk, speak <small>()</small>
 **loji** study, research <small>()</small>
@@ -487,6 +494,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 http://bwari.tripod.com/FGGCABUJA/id18.html
 -->
 
+<!--
 
 Grammar
 -------
@@ -537,4 +545,6 @@ TAM : tense, aspect or mood particle
     8. verb + verb + NP : template for requests and commands
         - **cing lai jia.** Please come home.
         - **bana lai jia!** Don't come home!
+
+-->
 
