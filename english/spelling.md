@@ -44,15 +44,14 @@ The stress is on the syllable, which is before the last consonant.
 
 1. Words with only one syllable carry the stress. Ex. MAU, TONG.
 2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
-3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, CAMca, filoSOfia
-4. Suffixes don't change the place of the stress. Ex. proGRAM, proGRAMer.
+3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, CAMca, filSOfi
 
 
 ### Schwa
 
 Schwa is a short, unstressed and neutral vowel, which can be added after a consonant to make pronunciation easier in spoken language. It is never written in Pandunia. However, the symbol /ə/ is used for the schwa in the International Phonetic Alphabet.
 
-For example, some people can ease the pronunciation of words like **sam**, **kop** and **sabab**, which end in consonants, by adding a schwa sound in the end like this /samə/, /kopə/, /sababə/. If words like that are difficult to you, it's better to add a schwa than to "swallow" the last consonant.
+For example, some people can ease the pronunciation of words like **sam** and **kop**, which end in consonants, by adding a schwa sound in the end like this /samə/, /kopə/. If words like that are difficult to you, it's better to add a schwa than to "swallow" the last consonant.
 
 The schwa is always unstressed and it doesn't ever change the place of the stress.
 
@@ -93,5 +92,6 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-**mi vid ti :)** = I see you.  
-**mi no vid ti :(** = I don't see you. 
+**mi vide ti :)** = I see you.
+**mi no vide ti :(** = I don't see you.
+

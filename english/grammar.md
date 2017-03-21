@@ -143,7 +143,7 @@ The basic number words are:
 - 6 **sis**
 - 7 **set**
 - 8 **bat**
-- 9 **noy**
+- 9 **noi**
 
 Greater numbers are simply made by putting one digit after another – exactly like they are written in the universal numerical language of mathematics.
 
@@ -189,6 +189,9 @@ Pronouns can substitute thing-words and phrases of thing-words.
 **se** - self
 
 Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
+
+**mi vide se** - I see myself.
+**ta vide se** - She sees herself. / He sees himself.
 
 
 ### Demonstrative pronouns
@@ -250,7 +253,7 @@ Likewise, it's possible that the subject is a pronoun and the predicate is a nou
 But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Then the verb **e** (to be) is used.
 
 > **ta e mi.** - It is me.
-> **tu e batu.** - That is a stone.
+> **sa e batu.** - That is a stone.
 > **batu e ting.** - Stone is a thing.
 > **jovan e sundar.** - Young is beautiful.
 
@@ -269,7 +272,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 Active sentences are frequently in the subject–verb–object word order (SVO).
 
 > **mi yem pingo.** - I eat apples.
-> **mi auda musik.** - I hear music.  
+> **mi audi musik.** - I hear music.  
 > **mi vide ti.** - I see you.
 
 There is also alternative word order, subject–object–verb (SOV). It can be used only in short sentences.
@@ -281,7 +284,8 @@ SOV and SVO are the two most common word orders by far in the languages of the w
 In passive sentences, the subject is the undergoer of the action and there is no object.
 
 > **ti vide.** - You are seen.
-> **musik se auda.** - Music is heard.
+> **musik audi.** - Music is heard.
+
 
 
 
@@ -389,22 +393,22 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
 > **mi na hotel.** - I'm in the hotel.
-> **mi sona na hotel.** - I sleep in the hotel.
-> **mi sona ze xam do suba.** - I sleep since evening until morning.
-> **mi safara ze london do paris.** - I travel from London to Paris.
+> **mi son na hotel.** - I sleep in the hotel.
+> **mi son ze xam do suba.** - I sleep since evening until morning.
+> **mi safar ze london do paris.** - I travel from London to Paris.
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi denga ze ti toka.** - I have waited since you left.
-> **mi denga do ti lai jia.** - I wait until you come home.
-> **mi denga na ti sona.** - I wait while you sleep.
+> **mi deng ze ti toka.** - I have waited since you left.
+> **mi deng do ti lai jia.** - I wait until you come home.
+> **mi deng na ti son.** - I wait while you sleep.
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
 > **na dur de** - for the time/duration of
-> **mi denga na dur de ti sona.** - I wait for the time when you sleep.
+> **mi deng na dur de ti son.** - I wait for the time when you sleep.
 > **na lok de** - at the place of
-> **mi denga na lok de ti toka.** - I wait at the place where you left.
+> **mi deng na lok de ti toka.** - I wait at the place where you left.
 > **na xia de** - under, below
 > **un kuta lala na xia de meza.** - A dog lies under the table.
 > **na men de** - on the surface of
@@ -417,7 +421,15 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dura** - to last, to take time
-> **mi denga na dura ti sona.** - _I wait during you sleep._
+> **mi deng na dura ti son.** - _I wait during you sleep._
+
+
+### List of prepositions
+
+**na ante** before. **na bada** after.
+**na cen** in front. **na pice** behind.
+**na xia** under, below. **na gau** over, above.
+**na jin** near. **na long** far away. **na visin** beside, next to.
 
 
 

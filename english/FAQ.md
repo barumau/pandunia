@@ -49,22 +49,20 @@ The "family tree" of Pandunia is presented in the figure below.
 ![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
 
 
-#### Why analytic structure was chosen for Pandunia?
+#### Why isolating structure was chosen for Pandunia?
 
 Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
 
 1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
 2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
 
-Pandunia is best described as an _analytic language_. Pandunia uses a handful of suffixes for marking parts of speech and for word derivation. On the other hand, Pandunia uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
+Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
 
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    vid|a du  sundar    yen        nun.
+    Pandunia:  mi ken    vide  du  sundar    yen        nun.
                I  can    see   two beautiful eyes       now.
-
-So while Pandunia is not free from inflection, it is used relatively little.
 
 <!--
 #### What is a worldlang?
@@ -82,11 +80,7 @@ A worldlang is a constructed interlanguage that borrows its words, speech sounds
 
 #### Did Esperanto and its kind influence Pandunia?
 
-Yes, with a limited effect.
-
-Esperanto has an ingenious system for marking parts of speech (PoS) with vowel endings. In Esperanto nouns end in -o, adjectives end in -a, verbs in -i and adverbs in -e. (These are the dictionary forms. Some of them are inflected in actual use.) Similar PoS marking systems are used in the offshoots of Esperanto. Most notable offshoots are Ido and Novial. In Novial the endings are different: nouns end in -e or -um, adjectives in -i, verbs in -a and adverbs in -men. Almost all words were marked with the part of speech markers in Esperanto and its kind.
-
-Pandunia is different. It has part of speech markers for the noun, the verb and the adjective, but they are not always required. For example, when the root word is an adjective, it doesn't need the adjectival ending. Moreover, the endings are never inflected in Pandunia. So Pandunia is, in its core, a completely different type of language.
+In the end, very little. Esperanto has an ingenious system for marking parts of speech (PoS) with vowel endings. In Esperanto nouns end in -o, adjectives end in -a, verbs in -i and adverbs in -e. (These are the dictionary forms. Some of them are inflected in actual use.) Similar PoS marking systems are used in the offshoots of Esperanto, such as Ido and Novial. The system is fascinating and it was tested in the development of Pandunia. However, it didn't fit together with Pandunia's diverse vocabulary and actually it made the grammar more complicated than what it needs to be. So finally all obvious Esperanto influences were left out.
 
 
 #### Are the makers of Pandunia aware of the history of the IAL movement?

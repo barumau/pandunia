@@ -23,8 +23,8 @@ Note! Many lessons include also tips and notes like this. They are there to clar
 
 
 
-Part 1: Greeting and introduction
----------------------------------
+Part 1: Greeting and basics
+---------------------------
 
 ### salam <small>greet, greeting</small>
 
@@ -37,6 +37,8 @@ Part 1: Greeting and introduction
 **xam salam!** Good evening!
 
 **noce salam!** Good night!
+
+**yem salam!** Bon appetit!
 
 **lai salam!** Welcome!
 
@@ -169,17 +171,30 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
+### ha <small>have</small>
+
+**mi ha bon dom.** I have a good house.
+
+**ta no ha pesa.** S/he doesn't have money.
+
+**mi vole ha nova fon.** I want to have a new phone.
+
+**kia ti ha ana?** Do you have children?
+**mi ha du ana.** I have two children.
+
+
+
 ### ye <small>yes</small>
 
 **kia ti bon?** Are you well?
 **ye. mi bon.** Yes, I'm well.
 
-**kia doktor na?** Is there a doctor?
-**ye. sa man e doktor.** Yes. That man is a doctor.
+**kia ha doktor?** Is there a doctor?
+**ye. ta e doktor.** Yes. He/she is a doctor.
 
-**sa fem e doktor.** That woman is a doctor.
+**kia ha vin?** Do you have wine?
+**ye. bai i roxu.** Yes, white and red.
 
-**ta doktor.** He/she is a doctor.
 
 
 ### no <small>no, not</small>
@@ -192,11 +207,38 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
+### jan <small>to know</small>
 
-## Part 2
+**mi jan ta.** I know him/her.
+
+**kia ti jan sa ren?** Do you know that person?
+
+**kia timen jan alise?** Do you know each other?
+
+**mimen jan alise ze long.** We know each other for long.
+
+
+
+### ge <small>'s</small>
+
+
+
+### mede <small>help</small>
+
+**mi nide mede.** I need help.
+
+**kia ni ken mede me?** Can you help me?
+
+**kia mi ken mede ti?** Can I help you?
+
+
+
+## Part 2: Eating
 
 
 ### yem <small>consume, eat, drink</small>
+
+**kia ti vole yem koi?** Would you like to eat something?
 
 **ta yem pingo.** He/she eats an apple.
 
@@ -250,26 +292,70 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### danku <small>thank</small>
+### danke <small>thank</small>
 
-**danku!** Thanks!
+**danke!** Thanks!
 
-**danku ti.** Thank you.
+**danke ti.** Thank you.
 
-**mi danku ti.** I thank you.
+**mi danke ti.** I thank you.
 
-**mi danku ti mede mi.** I thank you for helping me.
+**mi danke ti mede mi.** I thank you for helping me.
 
-**danku ti mede mi.** Thanks for helping me.
+**danke ti mede mi.** Thanks for helping me.
 
 **ti keci.** You're welcome. (Literally: _You're polite._)
 
 
 
-### ha <small>have</small>
+### mafu <small>sorry, pardon</small>
 
-**kia ti ha ana?** Do you have children?
-**ye. mi ha un ana.** Yes, I have a child.
+**mafu! mi no aha.** Sorry, I don't understand.
+
+**mafu! sa ke?** Excuse me, what's this?
+
+**mafu. ti nam ke?** Excuse me, what's your name?
+
+
+Part 3: Communication
+---------------------
+
+
+
+### aha <small>understand</small>
+
+**kia ti aha mi?** Do you understand me?
+
+**mi aha.** I understand.
+
+**mafu. mi no aha ti.** Sorry. I don't understand you.
+
+**mi no bas aha ti.** I didn't quite understand you.
+
+**mi aha nul.** I don't understand at all.
+
+
+
+### sabi <small>know how</small>
+
+**mi sabi cala kare.** I can drive a car.
+
+**ta no sabi cala kare.** S/he doesn't know how to drive a car.
+
+**kia ti sabi xuli ta?** Do you know how to fix it?
+
+**kia ti sabi pandunia?** Do you speak Pandunia?
+
+**mi sabi pandunia.** I speak Pandunia.
+
+**mi sabi xau pandunia.** I speak a little Pandunia.
+
+**mi no sabi engli.** I don't speak English.
+
+**mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
+
+
+
 
 <!--
 
@@ -289,13 +375,8 @@ Tip: To make direct requests, drop all the pronouns.
 **** Are you hungry?
 **** Are you thirsty?
 **** Let's go eat!
-**yem salam!** Bon appetit!
 
-**kia ti sabi pandunia?** Do you speak Pandunia?
-
-**** I didn't quite understand you.
-**mi budi lit pandunia.** Ymmärrän vähän panduniaa.
-**** I don't understand at all.
+**** I study Pandunia.
 
 **** I can't hear you.
 **** Could you speak louder?
@@ -305,21 +386,18 @@ Tip: To make direct requests, drop all the pronouns.
 **** What does this word mean?
 **** I don't remember.
 
-**** I study Pandunia.
 
 **** Of course!
 
-**** Do you know that person?
-**** Do you know each other?
-**** We know each other for long.
 
 **** Where do you live?
+
+**** I work at ...
 
 **** Do you like ...?
 
 **** I feel alright.
 
-**** I work at ...
 
 **** Please, write here!
 **** Please, sit here!
@@ -333,11 +411,12 @@ Tip: To make direct requests, drop all the pronouns.
 **** Where should I go?
 **** To whom should I go?
 
+**** Where is the theater?
+
 **** Where are you going?
 **** Let's go!
 **** Let's go by foot!
 
-**** Where is the theater?
 
 **** I'm looking for the toilet.
 
@@ -357,17 +436,13 @@ Tip: To make direct requests, drop all the pronouns.
 **** It is cheap / expensive.
 
 **** What is it like?
-**** It it new?
+**** Is it new?
 
 **** Which is better?
 **** This is the best of all.
 
 **** You are right.
 
-**** I need help.
-
-**** Can you help me?
-**** Can I help you?
 
 **** Leave me alone!
 
@@ -383,18 +458,6 @@ Tip: To make direct requests, drop all the pronouns.
 
 Part 3
 ------
-
-
-### mafu <small>sorry, pardon</small>
-
-**mafu! mi no budi.** Sorry, I don't understand.
-
-**mafu! sa ke?** Excuse me, what's this?
-
-**mafu. ti nam ke?** Excuse me, what's your name?
-
-
----
 
 
 ### la <small>that, the one</small>
@@ -432,6 +495,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **batu** stone <small>(Indonesian _batu_)</small>
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
 **baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
+**bon** good <small>(French _bon_)</small>
 **budi** understand <small>(Hindi _buddhi_ बुद्धि)</small>
 **ca** tea <small>(Mandarin _chá_ 茶)</small>
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>

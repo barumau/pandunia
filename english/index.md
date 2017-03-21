@@ -24,6 +24,10 @@ Maybe! Pandunia is still under construction. The grammar is stable but some word
 - [English-Pandunia](english-pandunia.md) dictionary
 - [Pandunia-English](pandunia-english.md) dictionary
 
+## Articles
+
+- [Pandunia - a new world pidgin](intro.html)
+
 ## Join Others
 
 Some people are already interested about Pandunia and they are using it. Here are some places where you can find them:
