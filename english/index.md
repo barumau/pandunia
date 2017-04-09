@@ -13,10 +13,6 @@ Some remarkable features of Pandunia:
 - As a constructed language, Pandunia is completely regular – there are no exceptions.
 - Pandunia is truly international! Words of Pandunia are world words, which are borrowed from many languages all across the globe, including the top-10 most widely spoken languages of the world.
 
-## Should I learn it now?
-
-Maybe! Pandunia is still under construction. The grammar is stable but some words can still be changed. If you like to learn constructed languages and help to improve them, you should learn Pandunia and help us! But if you want to learn a complete language that is ready now, probably you should consider learning some other language like Esperanto or Lidepla. Remember, you can always come back to Pandunia later!
-
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
@@ -27,6 +23,7 @@ Maybe! Pandunia is still under construction. The grammar is stable but some word
 ## Articles
 
 - [Pandunia - a new world pidgin](intro.html)
+- [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (an article in Interlinguistica Tartuensis 10)
 
 ## Join Others
 
@@ -35,4 +32,5 @@ Some people are already interested about Pandunia and they are using it. Here ar
 - [Pandunia Facebook group](http://www.facebook.com/groups/pandunia)
 - [Telegram group chat](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 - [Pandunia's Yahoo group](https://groups.yahoo.com/neo/groups/pandunia/info) : It's a mailing list, which is not so active anymore. Join it by sending a blank message to pandunia-subscribe@yahoogroups.com
+- Contact person: Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 

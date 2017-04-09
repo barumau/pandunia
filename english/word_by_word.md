@@ -177,7 +177,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **ta no ha pesa.** S/he doesn't have money.
 
-**mi vole ha nova fon.** I want to have a new phone.
+**mi vol ha nova fon.** I want to have a new phone.
 
 **kia ti ha ana?** Do you have children?
 **mi ha du ana.** I have two children.
@@ -203,7 +203,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **sa man no e doktor.** That man is not a doctor.
 
-**sa pingo no roxu.** - This apple is not red.
+**sa pingo no roxu.** This apple is not red.
 
 
 
@@ -221,13 +221,21 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### ge <small>'s</small>
 
+**ta e mi ge mama.** She is my mother.
+
+**ta e mi ge man.** He is my man.
+
+**ta e mi ge fem.** She is my wife.
+
+**tomas e sara ge panyo.** Thomas is Sara's friend.
+
 
 
 ### mede <small>help</small>
 
-**mi nide mede.** I need help.
+**mi nesese mede.** I need help.
 
-**kia ni ken mede me?** Can you help me?
+**kia ni ken mede mi?** Can you help me?
 
 **kia mi ken mede ti?** Can I help you?
 
@@ -238,7 +246,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### yem <small>consume, eat, drink</small>
 
-**kia ti vole yem koi?** Would you like to eat something?
+**kia ti vol yem koi?** Would you like to eat something?
 
 **ta yem pingo.** He/she eats an apple.
 
@@ -256,18 +264,20 @@ Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at firs
 
 
 
-### vole <small>want</small>
+### vol <small>want</small>
 
-**ti vole yem ke?** What would you like to eat?
+**kia ti vol yem?** Would you like to eat?
+
+**ti vol yem ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi vole yem kafe.** I want to drink coffee.
+**mi vol yem kafe.** I want to drink coffee.
 
-**kia ti vole yem ca?** Would you like to drink tea?
-**no. mi no vole ca. mi vole kafe.** No, I don't want tea. I want coffee.
+**kia ti vol yem ca?** Would you like to drink tea?
+**no. mi no vol ca. mi vol kafe.** No, I don't want tea. I want coffee.
 
-**ti vole ke pingo?** Which apple do you want?
+**ti vol ke pingo?** Which apple do you want?
 **sa roxu.** This red one.
 
 
@@ -308,6 +318,32 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
+### haide <small>let's</small>
+
+**haide yem!** Let's eat!
+
+**haide go yem!** Let's go eat!
+
+**haide go jia.** Let's go home.
+
+
+
+### nesese <small>need</small>
+
+**mi nesese mede.** I need help.
+
+**mi nesese yem.** I'm hungry.
+
+**kia ti nesese yem?** Are you hungry?
+
+**kia ti nesese sui?** Are you thirsty?
+
+
+
+
+Part 3: Communication
+---------------------
+
 ### mafu <small>sorry, pardon</small>
 
 **mafu! mi no aha.** Sorry, I don't understand.
@@ -315,10 +351,6 @@ Tip: To make direct requests, drop all the pronouns.
 **mafu! sa ke?** Excuse me, what's this?
 
 **mafu. ti nam ke?** Excuse me, what's your name?
-
-
-Part 3: Communication
----------------------
 
 
 
@@ -356,11 +388,54 @@ Part 3: Communication
 
 
 
+### loga <small>to say, speak, talk</small>
+
+**ti loga ke?** What did you say?
+
+**mi loga do ti.** I talk to you.
+
+**mimen loga do alise.** We talk to each other.
+
+**se loga ke yang bi pandunia ki "dog"?** How do you say "dog" in Pandunia?
+
+**"dog" e ke na pandunia?** What is "dog" in Pandunia?
+
+
+
+### audi <small>to listen, hear</small>
+
+**mi no ken audi ti.** I can't hear you.
+
+**cing loga kuwa.** Please speak louder.
+
+**mi audi musik.** I listen to music.
+
+**ti audi ke yang ge musik?** What kind of music do you listen to?
+
+
+### mana <small>to mean</small>
+
+**"jia" ye mana ke?** What does "jia" mean?
+
+
+
 
 <!--
 
 **** See you later!
 **** See you tomorrow!
+
+**** I study Pandunia.
+
+**** How do you say "" in Pandunia?
+**** Show me in the dictionary!
+**** What does this word mean?
+**** I don't remember.
+
+**** Please, write here!
+
+
+
 
 **** (I wish you) all the best!
 
@@ -372,19 +447,7 @@ Part 3: Communication
 
 **** Cheers!
 
-**** Are you hungry?
-**** Are you thirsty?
-**** Let's go eat!
 
-**** I study Pandunia.
-
-**** I can't hear you.
-**** Could you speak louder?
-
-**** How do you say "" in Pandunia?
-**** Show me in the dictionary!
-**** What does this word mean?
-**** I don't remember.
 
 
 **** Of course!
@@ -399,7 +462,6 @@ Part 3: Communication
 **** I feel alright.
 
 
-**** Please, write here!
 **** Please, sit here!
 
 **** I rather stand.
@@ -451,7 +513,6 @@ Part 3: Communication
 **** I give them a book.
 
 
--->
 
 
 
@@ -462,7 +523,7 @@ Part 3
 
 ### la <small>that, the one</small>
 
-**mi vole la haus.** I want the house.
+**mi vol la haus.** I want the house.
 
 
 
@@ -482,7 +543,8 @@ Tip: Action words like **loji** and **baxa** are only normal, inactive words whe
 **ke habar?** What's new?
 
 
-<!-- **mi loji kazu loji.** I study a case study. -->
+**mi logi kazu logi.** I study a case study.
+-->
 
 
 Word List
@@ -492,6 +554,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 
 **ama** but <small>(Turkish _ama_)</small>
+**bai** white <small>(Mandarin _bái_ 白)</small>
 **batu** stone <small>(Indonesian _batu_)</small>
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
 **baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
@@ -506,28 +569,29 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ha** have; there is <small>(Portuguese _há_)</small>
 **habar** news <small>(Malay _khabar_)</small>
 **i** and <small>(Polish _i_)</small>
+**jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
 **jia** home <small>(Mandarin _jiā_ 家)</small>
 **kafe** coffee <small>(German _Kaffee_)</small>
-**yem** eat, drink <small>(Hindi _khānā_ खाना)</small>
 **kara** black <small>(Turkish _kara_)</small>
+**kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>
-**katu** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
 **ke** what? who? <small>(Spanish _qué_)</small>
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>
 **lai** come <small>(Vietnamese _lai_)</small>
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>
 **man** man <small>(English _man_)</small>
+**mana** to mean; meaning <small>(Swahili _maana_)</small>
 **mede** help <small>(French _aider_)</small>
 **mi** I, me <small>(Swahili _mimi_)</small>
 **mimen** we
+**nesese** need; necessary <small>(Haitian Creole _nesesè_)</small>
 **nili** blue <small>(Kannada _nīli_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **noce** night <small>(Spanish _noche_)</small>
 **nau** now, currently <small>(English _now_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
-**puti** white <small>(Filipino _puti_)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>
 **roxu** red <small>(Romanian _roșu_)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
@@ -541,17 +605,18 @@ All words of Pandunia are loan words from other languages that are spoken around
 **tamen** they <small>(Mandarin _tāmen_ 他们)</small>
 **vide** see, look <small>(Russian _videt'_ видеть)</small>
 **u** or <small>(French _ou_)</small>
-**vole** want <small>(Italian _volere_)</small>
+**vol** want <small>(Italian _volere_)</small>
 **xam** evening <small>(Hindi _śām_ शाम )</small>
 **ye** yes <small>(Korean 예 _ye_)</small>
 **yelo** yellow <small>(English _yellow_)</small>
+**yem** eat, drink <small>(Turkish _yemek_)</small>
 
 
 
 <!--
 ****  <small>()</small>
 **loga** talk, speak <small>()</small>
-**loji** study, research <small>()</small>
+**logi** study, research <small>()</small>
 **magi** magic <small>()</small>
 ****  <small>()</small>
 http://bwari.tripod.com/FGGCABUJA/id18.html
@@ -602,7 +667,7 @@ TAM : tense, aspect or mood particle
         - **sara ye vide le roxu hua.** Sara sees the red flower.
         - **tim no vide ta.** Tim doesn't see it.
     6. PP + verb + PP + verb + NP : the pivot structure
-        - **me vole ti lai jia.** I want you to come home.
+        - **me vol ti lai jia.** I want you to come home.
     7. verb + PP + verb + NP : template for questions and other modalities
         - **kia ti lai jia gon?** Did you come home already?
     8. verb + verb + NP : template for requests and commands

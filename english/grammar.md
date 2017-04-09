@@ -76,6 +76,7 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns are invar
 
 > **batu** - a stone, stones, the stone or the stones
 > **meza** - a table, tables, the table or the tables
+> **kursi** - a chair, chairs, the chair or the chairs
 > **sui** - water
 
 Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
@@ -100,8 +101,9 @@ A modifier is a word that adds a particular quality for another word. In Panduni
 
 > **dai batu** - big stone
 > **cung batu** - heavy stone  
-> **dai meza** - bit table  
+> **dai meza** - big table  
 > **gau meza** - high table
+> **bon kursi.** - good chair
 
 When a modifier follows a noun phrase, it becomes a stative verb.
 
@@ -182,7 +184,7 @@ Pronouns can substitute thing-words and phrases of thing-words.
 **mi** - I, me  
 **ti** - you  
 **ta** - he, she, it  
-**mimen** - we (exclusive)
+**mimen** - we
 **timen** - you all  
 **tamen** - they
 
@@ -192,6 +194,7 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 **mi vide se** - I see myself.
 **ta vide se** - She sees herself. / He sees himself.
+**mimen vida se.** - We see ourselves.
 
 
 ### Demonstrative pronouns
@@ -218,7 +221,7 @@ The demonstrative pronouns work like modifiers.
 > **ke?** - Who or what?
 > **ke ting?** - What? (Which thing?)
 > **ke ren?** - Who? (Which person?)
-> **ke zam?** - When? (What time?)
+> **ke sat?** - When? (What time?)
 > **ke yang?** - How? (What manner?)
 
 
@@ -296,7 +299,7 @@ All action-words (verbs) that come one after another are activated by the subjec
 
 1. **mi go jia.** - I go home.  
 2. **mi ken go jia.** - I can go home.  
-3. **mi vole ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
+3. **mi vol ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 Pivot structure
@@ -304,9 +307,9 @@ Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-> **mi vole ti yem sabzi.** - I want (that) you eat vegetables.
+> **mi vol ti yem sabzi.** - I want (that) you eat vegetables.
 
-In the example above, **mi vole** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
+In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
 
 
 Pronoun dropping
@@ -526,11 +529,11 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Koz** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vole darsa pandunia koz ta e bon dunia baxa.
+    yusef i sara vol darsa pandunia koz ta e bon dunia baxa.
 
                          koz
                ┌──────────┴──────────┐
-              vole                    e
+              vol                    e
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ta    baxa
       ┌───┴───┐    ┌──┴────┐            |

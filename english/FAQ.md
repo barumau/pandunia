@@ -96,3 +96,12 @@ Yes. Here are some of the most important lessons to be learned from the history 
 - Large international organizations, such as the UN or the EU, pay very little attention to IALs. So it is up to grassroots movements to push an IAL to success.
 
 
+#### Should Pandunia replace English?
+
+Pandunia is not meant to replace English or any other languages. People have ability to speak several languages and they speak every language for a different reason. Some people speak one language at home, another at work and yet another on international travels. We can imagine a world where English and all other languages will continue to be spoken, and where also Pandunia is spoken.
+
+In a way, English will never be replaced. Those who speak it today will speak it tomorrow. But new generations will grow and they will choose which language(s) they want to speak with each other. So it will be _another world_ with another world language. Maybe it will be English, or maybe a new kind of English or maybe something else. The landscape of languages changes in a natural process. Different languages were spoken in the past and different languages will be spoken in the future.
+
+You are free to speak Pandunia, English and any other language that your heart desires.
+
+
