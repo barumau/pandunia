@@ -2,23 +2,13 @@
 
 ### Introduction
 
-Pandunia is a constructed language that is designed to be relatively easy for everyone. There are generally four major things that make a language easy or hard for learners.
+Pandunia is a constructed language that is designed to be relatively easy for everyone. You can learn it fast with this practical course.
 
-1. How closely it is related to the languages that you already know?
-2. How simple or complex its system of sounds is?
-3. How complicated its grammar is?
-4. How differently it has to be used in different social situations?
+The course consists of short lessons. Each lesson introduces one new word, which is used in several different phrases in the lesson. This is to teach you how the word works as part of sentences. Possibly you will encounter also other new words in the same lesson but don't worry about them! You don't have to learn all of them at once. Just memorize the phrases that are useful for you! Maybe the rest will go to your memory subconciously.
 
-Pandunia responds to all of these requirements.
+You can study this course together with one or several friends. Read the phrases together and try to make small conversations. You can also study alone. Even then it's useful to read out loud and create conversations. Repeat the same phrases several times today, tomorrow, the day after tomorrow and so on. As they say, _repetition is the mother of learning_.
 
-1. It has lots of loan words from all over the world, so every learner will be familiar with some of it.
-2. Pandunia has relatively simple pronunciation. Most of its consonants and vowels are among the most common sounds found in world languages. Also its words are mostly 2-3 syllables long.
-3. It has a straightforward grammar, which is regular and analytic. Words are not inflected, which is particularly helpful for beginners.
-4. As a constructed language, Pandunia is free from awkward cultural traditions. You don't have to talk in different ways to different people, such as a friend, a stranger or your superior. You can just speak it!
-
-This is a course for learning Pandunia rapidly through words. The course consists of short lessons. Each lesson introduces a new word, which is repeated several times in the lesson in various phrases. The lesson can include also other new words, but don't worry about them! You don't have to learn them all at once. Just concentrate on the main word and how it works with other words.
-
-Note! Many lessons include also tips and notes like this. They are there to clarify usage patterns and grammatical details.
+Note! Many lessons include also tips and notes like this. They are there to clarify grammatical details for those who are interested. You can skip over them if they are not helpful. You don't have to know the theory of the language. You can just speak Pandunia!
 
 
 
@@ -396,27 +386,42 @@ Part 3: Communication
 
 **mimen loga do alise.** We talk to each other.
 
-**se loga ke yang bi pandunia ki "dog"?** How do you say "dog" in Pandunia?
+**se loga ke yang bi pandunia ki "cat"?** How do you say "cat" in Pandunia?
 
-**"dog" e ke na pandunia?** What is "dog" in Pandunia?
+**"cat" e ke na pandunia?** What is "cat" in Pandunia?
 
+**mau loga miau.** Cat says meow.
 
 
 ### audi <small>to listen, hear</small>
 
 **mi no ken audi ti.** I can't hear you.
 
-**cing loga kuwa.** Please speak louder.
+**cing loga kuat.** Please speak louder.
 
 **mi audi musik.** I listen to music.
 
 **ti audi ke yang ge musik?** What kind of music do you listen to?
 
 
+### vide <small>to see</small>
+
+**mi suka vide ti.** I'm happy to see you!
+
+**vide ti bada!** See you later!
+
+**vide ti nale!** See you tomorrow!
+
+**mi vide ta yer.** I saw him/her yesterday.
+
+
 ### mana <small>to mean</small>
 
-**"jia" ye mana ke?** What does "jia" mean?
+**"mau" ye mana ke?** What does "mau" mean?
 
+**ta mana un yang de hewan.** It means a kind of animal.
+
+**mi no aha ta mana ke.** I don't understand what it means.
 
 
 
@@ -611,68 +616,4 @@ All words of Pandunia are loan words from other languages that are spoken around
 **yelo** yellow <small>(English _yellow_)</small>
 **yem** eat, drink <small>(Turkish _yemek_)</small>
 
-
-
-<!--
-****  <small>()</small>
-**loga** talk, speak <small>()</small>
-**logi** study, research <small>()</small>
-**magi** magic <small>()</small>
-****  <small>()</small>
-http://bwari.tripod.com/FGGCABUJA/id18.html
--->
-
-<!--
-
-Grammar
--------
-
-This part is for those who want to understand the mechanics of the language. It's not mandatory to read it. You can learn Pandunia perfectly well by studying example sentences and words. Remember, a language is learned _for real_ by using it, not by learning a set of rules!
-
-Pandunia is an analytic language. It means that its grammar is all about the word order (i.e. the syntax). It doesn't deal with words because all words are separate, unchanging and uninflected. The role of a word is decided by its place in a sentence, not by its form or ending!
-
-Basically the grammar of Pandunia consists of sentence templates. The fundamental ones are listed below.
-
-PP : personal pronoun
-NP : noun phrase
-TAM : tense, aspect or mood particle
-
-1. Noun phrase (NP) types
-    1. noun
-        - **hua** flower
-    2. adjective + noun
-        - **roxu hua** red flower
-    3. noun + noun : compound word
-        - **ca kopa** tea cup
-    4. noun + verb : compound word (where the verb functions as a noun)
-        - **suba yem** morning meal (morning eating)
-    5. verb + noun : compound word
-        - **yem ci** : eater (eating doer)
-    6. verb + verb
-        - **baxa loji** communication study
-    7. number + adjective + noun
-        - **du roxu hua** two red flowers
-2. Predicate phrase types
-    1. PP + NP : predicate of identity
-        - **me man.** - I'm a man.
-        - **ta sara.** - She is Sara.
-    2. NP + TAM + NP : predicate of identity
-        - **sa fem ye sara.** That woman is Sara.
-    3. NP + (TAM) + adjective : predicate of state
-        - **hua roxu.** Flower is red.
-        - **sa hua gon roxu.** That flower was red.
-    4. PP + verb + NP : active predicate
-        - **me vide un roxu hua.** I see a red flower.
-    5. NP + TAM + verb + NP : active predicate
-        - **sara ye vide le roxu hua.** Sara sees the red flower.
-        - **tim no vide ta.** Tim doesn't see it.
-    6. PP + verb + PP + verb + NP : the pivot structure
-        - **me vol ti lai jia.** I want you to come home.
-    7. verb + PP + verb + NP : template for questions and other modalities
-        - **kia ti lai jia gon?** Did you come home already?
-    8. verb + verb + NP : template for requests and commands
-        - **cing lai jia.** Please come home.
-        - **bana lai jia!** Don't come home!
-
--->
 

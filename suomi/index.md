@@ -27,4 +27,5 @@ Muita pandunian harrastajia voit löytää internetissä seuraavista paikoista:
 - [Pandunian Facebook-ryhmä](http://www.facebook.com/groups/pandunia) (enimmäkseen englanniksi)
 - [Telegram-pikaviestiryhmä](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 - [Keskusteluryhmä](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia) : Liity sähköpostitse lähettämällä tyhjä viesti osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
+- Yhteyshenkilö: Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 
