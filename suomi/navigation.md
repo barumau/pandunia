@@ -3,4 +3,4 @@
 
 [Sana sanalta](jumla.md)
 [Kielioppi](baxa_kanun.md)
-[Sanasto](sanasto.md)
+[Sanasto](loga.md)

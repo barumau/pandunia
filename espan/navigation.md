@@ -1,6 +1,6 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Lecciones](lecciones.md)
+[Lecciones](darsa.md)
 [Videos](../pandunia/video.md)
 

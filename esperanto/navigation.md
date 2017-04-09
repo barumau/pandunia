@@ -1,7 +1,9 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Prononco](prononco.md)
-[Utilaj frazoj](frazaro.md)
-[Gramatiko](gramatiko.md)
-[Vortaro](vortaro.md)
+[Prononco](abc.md)
+[Utilaj frazoj](jumla.md)
+[Gramatiko](baxa_kanun.md)
+[Vortaro](loga.md)
+
+
