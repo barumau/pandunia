@@ -12,14 +12,14 @@ Perussäännöt
     - esim. **bon pan** = Hyvää leipää. **pan bon** = Leipä (on) hyvää.
 5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia asiansanoja vierekkäin. Tärkein sana on viimeisenä.
     - esim. **poste sanduk** = postilaatikko
-6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Useimmat aktiiviset verbit päättyvät **a**:han.
+6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
     - esim. **mi penta meza.** = Minä maalaan pöytiä.
-7. Passiivisen lauseessa on vain subjekti ja verbi. Useimmat aktiiviset verbit päättyvät **-u**:hun.
-    - esim. **meza pentu.** = Pöytä maalataan.
+7. Passiivisen lauseessa on vain subjekti ja verbi.
+    - esim. **ta penta.** = Se maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
     - esim. **mi cing ti dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **mi kia ti saba pandunia?** → **kia ti saba pandunia?** = Osaatko sinä panduniaa?
+    - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Osaatko sinä panduniaa?
     - **mi cing ti loga tez.** →  **cing loga tez.** = Pyydän, puhu kovempaa.
 
 
@@ -47,16 +47,35 @@ Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukum
 > **kursi** - tuoli tai tuoleja
 > **hima** - lunta
 
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
 
+Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
+
+> **sole guang** - auringon valo
+> **luna guang** - kuun valo
+> **luna batu** - kuukivi
+
+Asiansanan sanominen kahdesti on helppo tapa korostaa sen monikollisuutta.
+
+> **batu batu** - paljon kiviä
+> **tara tara** - paljon tähtiä
+> **hima hima** - paljon lunta
 
 Laatusanat
 ----------
 
 Laatusanat määrittävät seuraavana tulevaa asiansanaa.
 
-> **day meza.** - Iso pöytä.
-> **day kursi.** - Iso tuoli.
+> **dai batu** - iso kivi
+> **cung batu** - raskas kivi  
+> **dai meza** - isto pöytä
+> **gau meza** - korkea pöytä
 > **bon kursi.** - Hyvä tuoli.
+
+Kuun laatusanaa on asiansanan perässä, se toimii tilaa ilmaisevana teonsanana.
+
+> **batu dai.** - Kivi on iso.  
+> **meza gau.** - Pöytä on korkea.
 
 Laatusanoilla voi myös määrittää teonsanaa eli ne toimivat myös adverbin tavoin.
 
@@ -69,8 +88,8 @@ Lukusanat
 
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
-> **un day meza.** - Yksi iso pöytä.
-> **du day kursi.** - Kaksi isoa tuolia.
+> **un dai meza.** - Yksi iso pöytä.
+> **du dai kursi.** - Kaksi isoa tuolia.
 > **san bon kursi.** - Kolme hyvää tuolia.
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
@@ -90,7 +109,7 @@ Perusluvut ovat:
 - 6 **sis**
 - 7 **set**
 - 8 **bat**
-- 9 **noy**
+- 9 **noi**
 
 Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään – ihan samalla tavalla kuin ne kirjoitetaan matematiikan universaalilla kielellä.
 
@@ -135,6 +154,14 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 > **un jovan boi na jia. _ta_ duk buk.**
 > _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
+**se** - itse
+
+Refleksiivipronominia **se** käytetään sellaisenaan kaikissa persoonissa.
+
+**mi vide se** - Minä näen itseni.
+**ta vide se** - Hän näkee itsensä.
+**mimen vida se.** - Me näemme itsemme.
+
 
 ### Osoittavat pronominit
 
@@ -143,9 +170,9 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 
 Osoittavat pronomonit ovat laatusanan kaltaisia
 
-> **tu batu.** - Tämä kivi.
-> **tu ye batu.** - Tämä on kivi.
-> **tu batu cung.** - Tämä kivi painaa.
+> **ni batu.** - Tämä kivi.
+> **ni e batu.** - Tämä on kivi.
+> **ni batu cung.** - Tämä kivi painaa.
 
 
 ### Kysymyspronomini
@@ -156,7 +183,7 @@ Osoittavat pronomonit ovat laatusanan kaltaisia
 > **ke ting?** - Mikä esine?
 > **ke ren?** - Kuka? (Mikä henkilö?)  
 > **koz ke?** - Miksi? (Minkä takia?)  
-> **ke zam?** - Milloin? (Mikä hetki?)
+> **ke sat?** - Milloin? (Mikä hetki?)
 
 
 
@@ -170,21 +197,26 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 > **sara bon.** - Sara on hyvä.
 > **batu cung.** - Kivi on painava.
 
-Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niitä erottamaan tarvitaan pikkusana väliin. Myöntölauseissa kätevä pikkusana on **ye** _(kyllä)_.
+Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 
-> **ta ye sara.** - Hän on Sara.
-> **ta ye mi.** - Se on minä.
-> **tu ye batu.** - Tuo on kivi.
-> **batu ye ting.** - Kivi on esine.
-> **jovan ye sundar.** - Nuori on kaunista.
+> **ta sara.** - Hän on Sara.
+> **ta batu.** - Se on kivi.
+
+Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **e** sopii tähän tarkoitukseen.
+
+> **ta e sara.** - Hän on Sara.
+> **ta e mi.** - Se on minä.
+> **tu e batu.** - Tuo on kivi.
+> **batu e ting.** - Kivi on esine.
+> **jovan e sundar.** - Nuori on kaunista.
 
 Pikkusanan **ye** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu ye ting**, kivi on esine.
 
-Kieltolauseissa käytetään sanaa **no** (ei). Se pannaan sanan **ye** paikalle.
+Kieltolauseissa käytetään sanaa **no** (ei).
 
-> **mi no ti.** - Minä en ole sinä.
-> **batu no hewan.** - Kivi ei ole eläin.
-> **jovan no sundar.** - Nuori ei ole kaunista.
+> **mi no e ti.** - Minä en ole sinä.
+> **batu no e hewan.** - Kivi ei ole eläin.
+> **jovan no e sundar.** - Nuori ei ole kaunista.
 
 
 
@@ -192,17 +224,29 @@ Kieltolauseissa käytetään sanaa **no** (ei). Se pannaan sanan **ye** paikalle
 Tekemistä ilmaisevat lauseet
 ----------------------------
 
-Aktiivilauseessa on kaksi mahdollista sanajärjestystä.
+In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
 
-1. Subjekti - a-päätteinen verbi - objekti
-    - **mi vida ti.** - Minä näen sinut.
-2. Subjekti - objekti - u-päätteinen verbi
-    - **mi ti vidu.** - Minä sinut näen.
+Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-Passiivilauseen rakenne saadaan poistamalla tyypin 2 aktiivilauseen tekijäsubjekti.
+> **mi yem pingo.** - Minä syön omenoita.
+> **mi audi musik.** - Minä kuuntelen musiikkia.  
+> **mi vide ti.** - Minä näen sinut.
 
-> **ti vidu.** - Sinut nähdään.
-> **pinpay yemu.** - Omenaa syödään.
+Toinen mahdollinen sanajärjestys on subjekti–objekti–verbi. Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
+
+**mi pingo yem.** - _Minä omenoita syön._
+
+SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestystä käytetään mm. hindissä, urdussa, tamilissa, turkissa, japanissa ja koreassa. SVO on yleisin mm. englannissa, espanjassa, yleiskiinassa, indonesiassa ja modernissa arabian kielessä.
+
+Passiivilauseessa subjekti on teon kohde tai kokija ja objektia ei ole.
+
+> **ti vide.** - Sinut nähdään.
+> **musik audi.** - Musiikkia kuullaan.
+
+Passiivin voi ilmaista myös apuverbin **bei** avulla.
+
+> **ti bei vide.** - Sinut nähdään. (Sinä tulet nähdyksi.)
+> **musik bei audi.** - Musiikkia kuullaan. (Musiikki tulee kuulluksi.)
 
 
 
@@ -211,13 +255,13 @@ Verbisarja
  
 Verbisarjassa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja aina jälkimmäinen verbi on edellisen verbin kohteena.
  
-> **mi ken pay jia.** - Minä voin mennä kotiin.
-> **mi yau pay jia.** - Minun täytyy mennä kotiin.
-> **mi vol pay jia.** - Mi haluan mennä kotiin.
+> **mi ken go jia.** - Minä voin mennä kotiin.
+> **mi yau go jia.** - Minun täytyy mennä kotiin.
+> **mi vol go jia.** - Mi haluan mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  
-> **mi mus pay jia.** - Minun on pakko mennä kotiin.
+> **mi mus go jia.** - Minun on pakko mennä kotiin.
  
  
  
@@ -228,31 +272,31 @@ Saranarakenne on pandunian keskeisimpiä lauserakenteita. Lisäksi se toimii per
  
 Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekijä.
  
-> **ta cing _mi_ pay jia.** - Hän pyytää minua menemään kotiin.
+> **ta cing _mi_ go jia.** - Hän pyytää minua menemään kotiin.
  
-Yllä olevassa esimerkissä ensimmäinen verbi, **cing** (pyytää), saa kohteekseen sanan **mi**, joka toimii yhtäaikaa toisen verbin, **pay** (mennä), tekijänä. Toisen verbin kohde on **jia** (koti). Niinpä sanalla **mi** on kaksi roolia: (1) ensimmäisen verbin kohde eli objekti ja (2) toisen verbin tekijä eli subjekti. Se toimii siis ikään kuin saranana kahden verbin välissä.
+Yllä olevassa esimerkissä ensimmäinen verbi, **cing** (pyytää), saa kohteekseen sanan **mi**, joka toimii yhtäaikaa toisen verbin, **go** (mennä), tekijänä. Toisen verbin kohde on **jia** (koti). Niinpä sanalla **mi** on kaksi roolia: (1) ensimmäisen verbin kohde eli objekti ja (2) toisen verbin tekijä eli subjekti. Se toimii siis ikään kuin saranana kahden verbin välissä.
  
-> **ta les _mi_ pay jia.** - Hän päästää minut menemään kotiin.
-> **ta mus _mi_ pay jia.** - Hän pakottaa minut menemään kotiin.
+> **ta les _mi_ go jia.** - Hän päästää minut menemään kotiin.
+> **ta mus _mi_ go jia.** - Hän pakottaa minut menemään kotiin.
  
 panduniassa on sallittua jättää pronomini pois silloin, kun se tunnetaan ilman muuta. Toisin sanoen, kun puhuja voi varmasti olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu, hänen ei tarvitse jatkuvasti toistaa sitä. Tällä tavalla lauseista voi tehdä lyhyempiä.
  
 Ensimmäisessä saranarakenteen muunnelmassa jätetään pois ensimmäinen subjekti, joka viittaa puhujaan.
  
-> **mi kia ti pay jia.** - Minä kysyn, menetkö sinä kotiin.
-> **kia ti pay jia?** - Menetkö kotiin?
+> **mi kia ti go jia.** - Minä kysyn, menetkö sinä kotiin.
+> **kia ti go jia?** - Menetkö kotiin?
  
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
-> **mi xin ta pay jia.** - Minä luulen, että hän menee kotiin.
-> **xin ta pay jia.** - Kai hän menee kotiin.
-> **mi xak ta pay jia.** - Minä epäilen, että hän menee kotiin.
-> **xak ta pay jia.** - Tokko hän menee kotiin.
+> **mi xin ta go jia.** - Minä luulen, että hän menee kotiin.
+> **xin ta go jia.** - Kai hän menee kotiin.
+> **mi xak ta go jia.** - Minä epäilen, että hän menee kotiin.
+> **xak ta go jia.** - Tokko hän menee kotiin.
  
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
  
-> **mi cing ti pay jia.** - Minä pyydän sinua menemään kotiin.
-> **cing pay jia!** - (Pyydän) mene kotiin!
+> **mi cing ti go jia.** - Minä pyydän sinua menemään kotiin.
+> **cing go jia!** - (Pyydän) mene kotiin!
 
 
 
