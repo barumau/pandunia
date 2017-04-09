@@ -1,6 +1,6 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Sana sanalta](sana_sanalta.md)
-[Kielioppi](kielioppi.md)
+[Sana sanalta](jumla.md)
+[Kielioppi](baxa_kanun.md)
 [Sanasto](sanasto.md)

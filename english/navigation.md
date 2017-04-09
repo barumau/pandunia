@@ -1,11 +1,11 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Spelling](spelling.md)
-[Phrasebook](word_by_word.md)
-[Grammar](grammar.md)
-[Lessons](lessons.md)
+[Spelling](abc.md)
+[Phrasebook](jumla.md)
+[Grammar](baxa_kanun.md)
+[Lessons](darsa.md)
 [Words](words.md)
 [Videos](../pandunia/video.md)
-[FAQ](FAQ.md)
+[FAQ](kia_i_jabu.md)
 
