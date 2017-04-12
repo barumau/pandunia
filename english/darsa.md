@@ -150,7 +150,7 @@ Making requests
 ☻: **salam!** = Hello!  
 ☺: **salam! cing seda.** = Hello! Please sit!  
 ☻: **danku.** = Thank you.  
-☺: **cing yem kafe o ca.** = Please have some coffee or tea.  
+☺: **cing yem kafe u ca.** = Please have some coffee or tea.  
 ☻: **mi yem ca. danku.** = I will have some tea, thank you.  
 ...
 ☺: **cing salam ti ge mama!** = Please tell greetings to your mother.  
@@ -211,7 +211,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dar** to give. **danku** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **o** or. **safi** to clean. **seda** to sit. **yem** to eat or drink.
+**ca** tea. **cing** to ask; please. **dar** to give. **danku** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **safi** to clean. **seda** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
@@ -323,8 +323,8 @@ Saying no
 
 In the previous lesson you learned to answer **ye** and **no** to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
 
-> **mi salama ti.** = I greet you.  
-> **mi no salama ti.** = I do not greet you.
+> **mi salam ti.** = I greet you.  
+> **mi no salam ti.** = I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salam ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
@@ -510,6 +510,8 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 <li>ti de mama pati na yo befo.
 </ol>
 -->
+
+
 
 
 

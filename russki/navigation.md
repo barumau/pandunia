@@ -1,7 +1,7 @@
 # Пандуния
 [gimmick:theme](readable)
 
-[Звучание](zvuchanie.md)
-[Уроки](uroki.md)
-[Videos](../pandunia/video.md)
+[Звучание](abc.md)
+[Уроки](darsa.md)
+[видеоклипи](../pandunia/video.md)
 

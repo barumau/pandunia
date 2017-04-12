@@ -225,7 +225,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **mi nesese mede.** I need help.
 
-**kia ni ken mede mi?** Can you help me?
+**kia ti ken mede mi?** Can you help me?
 
 **kia mi ken mede ti?** Can I help you?
 
