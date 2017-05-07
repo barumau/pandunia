@@ -331,8 +331,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-Part 3: Communication
----------------------
+## Part 3. Communication
 
 ### mafu <small>sorry, pardon</small>
 
@@ -372,7 +371,7 @@ Part 3: Communication
 
 **mi sabi xau pandunia.** I speak a little Pandunia.
 
-**mi no sabi engli.** I don't speak English.
+**mi no sabi englix.** I don't speak English.
 
 **mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
 
@@ -417,6 +416,8 @@ Part 3: Communication
 
 ### mana <small>to mean</small>
 
+**sa loga ye mana ke?** What does this word mean?
+
 **"mau" ye mana ke?** What does "mau" mean?
 
 **ta mana un yang de hewan.** It means a kind of animal.
@@ -424,23 +425,81 @@ Part 3: Communication
 **mi no aha ta mana ke.** I don't understand what it means.
 
 
+### kitaba <small>write</small>
+
+**cing kitaba ti ge adres.** Please, write your address.
+
+**cing kitaba ta na sa.** Please, write it here!
+
+
+### baxa <small>language, communication</small>
+
+**kia timen baxa pandunia.** Do you speak in Pandunia?
+
+**mimen baxa pandunia.** We speak in Pandunia.
+
+**kia ti sabi baxa englix?** Can you speak English?
+
+**frans, espan, portugal, ruski** French, Spanish, Portuguese, Russian
+
+**putong han, nipon, indonesia** Chinese, Japanese, Indonesian
+
+**arabi, turki, farsi, urdu, hindi** Arabic, Turkish, Farsi, Urdu, Hindi
+
+**swahili, hausa, yoruba, amara** Swahili, Hausa, Yoruba, Amharic
+
+
+## Part 4. Going around
+
+### go <small>to go</small>
+
+**ti go ke?** Where are you going?
+
+**mi go jia.** I'm going home.
+
+**mi mus go ke?** Where should I go?
+
+**mi mus go ke ren?** To whom should I go?
+
+**haide go!** Let's go!
+
+**haide go bi pede** Let's go by foot!
+
+
+### lai <small>to come</small>
+
+**cing lai!** Come here!
+
+**ti lai ze ke?** Where do you come from?
+
+**mi lai ze dubai.** I come from Dubai.
+
+**mi lai jia nale.** I will come home tomorrow.
+
+
+### safar <small>to travel</small>
+
+**kia ti safar bi tren?** Do you travel by train?
+
+**mimen safar ze london do paris.** We travel from London to Paris.
+
+**safar muc long.** The voyage is very long.
+
+
+### abita <small>to live, reside</small>
+
+**ti abita ke?** Where do you live?
+
+**mi abita singapur.** I live in Singapore.
+
+**kia ti abita sa hotel?** Do you live in this hotel?
 
 <!--
 
-**** See you later!
-**** See you tomorrow!
-
 **** I study Pandunia.
 
-**** How do you say "" in Pandunia?
 **** Show me in the dictionary!
-**** What does this word mean?
 **** I don't remember.
-
-**** Please, write here!
-
-
-
 
 **** (I wish you) all the best!
 
@@ -452,20 +511,13 @@ Part 3: Communication
 
 **** Cheers!
 
-
-
-
 **** Of course!
-
-
-**** Where do you live?
 
 **** I work at ...
 
 **** Do you like ...?
 
 **** I feel alright.
-
 
 **** Please, sit here!
 
@@ -475,15 +527,7 @@ Part 3: Communication
 **** I wait for you in front of the house.
 **** We are being called.
 
-**** Where should I go?
-**** To whom should I go?
-
 **** Where is the theater?
-
-**** Where are you going?
-**** Let's go!
-**** Let's go by foot!
-
 
 **** I'm looking for the toilet.
 
@@ -510,45 +554,13 @@ Part 3: Communication
 
 **** You are right.
 
-
 **** Leave me alone!
 
 **** He/she sits in the room.
 
 **** I give them a book.
 
-
-
-
-
-
-Part 3
-------
-
-
-### la <small>that, the one</small>
-
-**mi vol la haus.** I want the house.
-
-
-
-
-
-### loji <small>study, research</small>
-
-**mi sabi du baxa.** I know two languages.
-
-**ta doku loji buku.** He/she reads a study book.
-
-Tip: Action words like **loji** and **baxa** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
-
-**mi baxa pandunia.** I speak Pandunia.
-
-
 **ke habar?** What's new?
-
-
-**mi logi kazu logi.** I study a case study.
 -->
 
 
@@ -594,7 +606,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **nili** blue <small>(Kannada _nīli_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **noce** night <small>(Spanish _noche_)</small>
-**nau** now, currently <small>(English _now_)</small>
+**nun** now, currently <small>(German _nun_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>

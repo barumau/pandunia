@@ -330,12 +330,12 @@ Affirmation and negation
 Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it.
 
 > **mi e ren.** - I am a person.  
-> **ta e un nov meza.** - It is a new table.
+> **ta e un nova meza.** - It is a new table.
 
 Such sentences can be simply negated with **no**.
 
 > **mi no e ren.** - I'm not a person.  
-> **ta no e nov meza.** - It's not a new table.
+> **ta no e nova meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -372,7 +372,7 @@ A modifier particle changes any kind of phrase into an equivalent of a quality-w
 
 > **maria ge mama** - Maria's mother  
 > **batu ge cung** - stone's weight  
-> **yem ge zam** - the moment of eating
+> **yem ge sat** - the moment of eating
 
 
 
@@ -455,7 +455,7 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 Possibly a more foreign example is the question particle **ka**. It works just like **plus**, only the meaning is different. So **ka** puts the subsequent word under question, or the entire sentence.
 
 > **ti yem bir ka?** - Do you drink beer?  
-> **ti yem ka bir?** - _Is is beer_ that you drink?  
+> **ti yem ka bir?** - _Is it beer_ that you drink?  
 > **ti ka yem bir?** - _Is it drinking_ that you do to the beer?  
 > **ka ti yem bir?** - _Is it you_ who drinks beer?
 
@@ -473,11 +473,11 @@ However, mood particles can modify all kinds of words, including pronouns and nu
 
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
-> **mi hav mau gon.** - I had cats in the past.
-> **ama mi no hav mau nun.** - But I don't have cats now.
-> **munkin mi hav mau futur.** - Maybe I have cats in the future.
+> **mi ha mau gon.** - I had cats in the past.
+> **ama mi no ha mau nun.** - But I don't have cats now.
+> **munkin mi ha mau futur.** - Maybe I have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **hav** stayed the same in all tenses in the examples above.
+Note! Verbs are not conjugated. So the verb **ha** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
@@ -540,5 +540,7 @@ The following example shows how the scope affects the final position of words in
     yusef   sara       pandunia       dunia
                                         |
                                        bon
+
+
 
 
