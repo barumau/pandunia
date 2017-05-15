@@ -10,7 +10,6 @@ agres : aggression
 aha : understand (realize)
 ai : alas! (ouch!)
 aina : mirror
-ajib : weird (strange)
 aka : brother or sister
 aksar : letter (character)
 akse : axis
@@ -27,13 +26,15 @@ ana : son or daughter
 analis : analyse
 anime : animation (cartoon)
 anjil : gospel
-anma : soul
+anma : spirit (soul)
 anten : antenna
 anus : anus
 ara : saw (tool)
 arabi : Arabic
 argentina : Argentina
 armi : army
+arte : art
+arte ja : artist
 asal : origin
 asan : posture (asana)
 asia : Asia
@@ -52,7 +53,7 @@ ayiti : Haiti
 ---
 
 bada : after (later)
-badal : exchange (to swap)
+badal : exchange (swap)
 badam : almond
 badan : body
 bagaje : luggage (baggage)
@@ -99,12 +100,14 @@ benzin : gasoline (petrol)
 beret : beret
 beton : concrete (material with cement)
 bi : with (by means of)
+bi no : without
 bi tema de : about (concerning)
 bi yang de : like (in the style of)
 bibi : baby (darling)
 bin : pot (bin)
 bir : beer
 bis : kiss
+bizar : weird (strange)
 bizi : busy (occupied)
 bobo : fool (idiot)
 boi : boy
@@ -127,7 +130,8 @@ budi : intelligent
 buk : book
 bula : forget
 bumi : earth (soil)
-bunduk : gun
+bumi dou : peanut (groundnut)
+bunduk : rifle
 bur : bad (not good)
 bus : bus
 buton : key (push-button)
@@ -154,9 +158,10 @@ caya : shadow
 cek : check (to examine)
 celo : cello
 cen : front
-ceng : success (accomplishment)
+ceng : success (accomplish)
 ceska : Czech
 cile : Chile
+cili : bell pepper
 cing : ask (request; please)
 cing lai! : Come in!
 cingua : frog
@@ -224,7 +229,9 @@ doktor : doctor (physician)
 dolar : dollar
 domino : dominoes
 dong : east
+dou : bean or pea (legume)
 dox : fault (guilt)
+doze : portion (dose)
 drama : drama
 du : two (2)
 dua : pray
@@ -232,6 +239,7 @@ duan : short (not long)
 duka : grief (sorrow)
 dul : dust
 dum : tail
+duman : smoke
 duna : dune
 dunia : world
 dura : last (take time)
@@ -289,7 +297,6 @@ fin : end
 final : last (final)
 fizik : physics
 fobi : fear (phobia)
-fondo : bottom
 forka : fork
 forme : form (shape)
 forum : forum
@@ -389,6 +396,7 @@ hima rose : frost
 himalia : Himalayas
 hindu : Hindu
 histori : history
+hiyar : cucumber
 hobi : hobby
 hon : hundred
 hor : hour
@@ -399,6 +407,8 @@ hua : flower
 hua bin : vase (flower pot)
 huang : yellow
 huli : fox
+humus : chickpea
+humus sos : hummus
 
  i
 ---
@@ -474,6 +484,7 @@ juxa : inject
 
 kabau : water buffalo
 kabil : able (capable)
+kabila : tribe
 kabin : cabin (booth)
 kaca : catch (to hunt)
 kafas : cage
@@ -483,12 +494,11 @@ kafe kop : coffee cup
 kai : open (not closed)
 kaixi : begin (commence)
 kaka : excrement (shit)
-kala : art
-kala ja : artist
 kalam : pen
 kalkula : calculate
 kalsium : calcium (Ca)
 kamar : room (chamber)
+kamar tal : floor
 kambudia : Cambodia
 kamera : camera
 kamis : shirt
@@ -607,6 +617,10 @@ lampa : lamp
 lanka : Sri Lanka
 lansa : throw
 lao : Laos
+larva : larva (maggot, caterpillar)
+lasun : garlic
+lat : pungent (spicy, hot)
+lat cili : chili pepper
 latvia : Latvia
 lau : old (not young)
 lava : lava
@@ -627,7 +641,7 @@ lim : five (5)
 limfa : lymph
 limit : limit (boundary)
 limun : lemon
-linia : line
+lin : line (stripe)
 lis : smooth
 lista : list
 lit : little (small)
@@ -728,6 +742,7 @@ mol : soft
 moli : jasmine
 mongol : Mongolia
 monster : monster
+moral : morality (ethics)
 mos : moss
 mosim : season
 moskit : mosquito
@@ -764,6 +779,7 @@ nakun : nail (fingernail)
 nale : tomorrow
 nam : name
 nama : meat (flesh)
+nami : wave
 nanas : pineapple
 narak : hell
 naranje : orange fruit
@@ -827,7 +843,6 @@ pang : thick (fat)
 pantalon : pants (trousers)
 panyo : friend
 papa : father
-papa : pope
 papaya : papaya
 paper : paper
 paraguay : Paraguay
@@ -854,6 +869,7 @@ pilot : pilot
 pin : needle (pin)
 ping : flat
 pingo : apple
+piper : pepper
 piping : criticize
 pirat : pirate
 pixa : piss (urine)
@@ -861,7 +877,7 @@ piza : pizza
 plan : plan
 plastik : plastic
 plat : plate
-plus : also (plus)
+plus : also (plus, too)
 poker : poker
 polis : police
 politik : politics
@@ -915,6 +931,7 @@ rik : rich
 ris : rice
 riske : risk
 rit : ritual (ceremony)
+ritme : rhythm (beat)
 roket : rocket
 rol : role
 rom : rum
@@ -953,7 +970,7 @@ salada : salad
 salam : greeting (hello)
 salim : surrender (to give up)
 sam : same
-saman : sky (heaven)
+sama : sky (heaven)
 san : three
 sanduk : box (chest)
 sang : blood
@@ -1016,7 +1033,6 @@ sui : water
 suka : like (be fond of)
 sukar : sugar
 suki : happy (joyful)
-suki : happy
 sum : sum (total)
 sun : soon
 sundar : beautiful (handsome)
@@ -1038,6 +1054,7 @@ tabul : table (matrix)
 tai : Thai (Thailand)
 taiga : taiga
 taksi : taxi
+tal : bottom
 tala : lock
 talka : bee (communal work)
 tamar : date fruit
@@ -1110,7 +1127,6 @@ uni stat de amerika : United States of America
 urdun : Jordan
 uruguay : Uruguay
 usa : America (USA)
-uza : use (employ)
 
  v
 ---
@@ -1122,6 +1138,7 @@ vaza : vase
 venen : poison (venom)
 venesuela : Venezuela
 ver : true (real)
+verme : worm
 vice : substitute (vice-)
 vide : look (see)
 vide maidan : visual field (field of vision)
@@ -1146,6 +1163,7 @@ vot : vote
 wa : wow! (gee!)
 wada : promise (commitment)
 wadi : canyon (gulch, gorge)
+waf : dog
 waha : oasis
 wakil : represent (to)
 wan : bowl (earless cup)
@@ -1167,7 +1185,7 @@ xam den : afternoon
 xam salam : Good evening
 xam yem : dinner
 xan : mountain (hill)
-xanti : peace
+xanti : peace (calm)
 xaria : shari'a
 xatan : devil (Satan)
 xatur : chess
@@ -1204,6 +1222,7 @@ yod : iodine
 yoga : yoga
 yoni : vagina
 yumor : humor
+yung : use (employ)
 yungam : brave (courageous)
 yureka : find (discover)
 
