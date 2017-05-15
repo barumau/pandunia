@@ -18,7 +18,7 @@ Pandunia tarjoaa ratkaisun jokaiseen kohtaan.
 
 Tällä kurssilla opetellaan pandunia sanojen kautta. Kurssi koostuu lyhyistä kappaleista. Joka kappaleessa esitellään uusi sana ja sen käyttöä erilaisten lauseiden osana. Kappaleessa saattaa tulla vastaan myös muita uusia sanoja, mutta älä huolehdi niistä liikaa! Kaikkia sanoja ei tarvitse oppia kerralla, vaan niitä toistetaan kappaleiden kuluessa. On parempi keskittyä hyödyllisten lauseiden oppimiseen. Niitä kannattaa kokeilla käytännössä aina tilaisuuden tullen!
 
-Huomaa! Kappaleissa on monesti tällaisia huomioita ja vinkkejä. Niissä kerrotaan sanojen käyttöalasta ja kieliopin piirteistä.
+Huom! Kappaleissa on monesti tällaisia huomioita ja vinkkejä. Niissä kerrotaan sanojen käyttöalasta ja kieliopin piirteistä.
 
 
 
@@ -44,7 +44,7 @@ Osa 1: Tervehdykset ja perussanoja
 
 **safar salam!** Hyvää matkaa!
 
-> Vinkki: Kuten huomaat, **salam** on yleiskäyttöinen sana hyvän toivottamiseen. Käytä sitä aina kun mahdollista!
+Vinkki! Kuten huomaat, **salam** on yleiskäyttöinen sana hyvän toivottamiseen. Käytä sitä aina kun mahdollista!
 
 
 
@@ -68,11 +68,11 @@ Osa 1: Tervehdykset ja perussanoja
 
 **ti salam mi.** Sinä tervehdit minua.
 
-> Vinkki: Lauseen tavallinen sanajärjestys on tekijä–teonsana–teon kohde. Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **mi** pysyy koko ajan samana, oli se sitten tekijänä taikka teon kohteena.
+Vinkki! Lauseen tavallinen sanajärjestys on tekijä–teonsana–teon kohde. Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **mi** pysyy koko ajan samana, oli se sitten tekijänä taikka teon kohteena.
 
 **salam ti!** Hei, sinä!
 
-> Huomaa: Pronominien monikkomuodot ovat **mimen** (me) ja **timen** (te).
+Huom! Pronominien monikkomuodot ovat **mimen** (me) ja **timen** (te).
 
 **mi salam timen.** Minä tervehdin teitä.
 
@@ -88,7 +88,7 @@ Osa 1: Tervehdykset ja perussanoja
 
 **mau e hewan.** Kissa on eläin.
 
-> Huomaa: Myös **e** on taipumaton eli, toisin kuin suomen kielessä, se ei taivu persoonamuodoissa. Lisäksi koko sana voidaan jättää pois ihan yksinkertaisissa lauseissa, jotka alkavat pronominilla kuten **mi** tai **ti**.
+Huom! Myös **e** on taipumaton eli, toisin kuin suomen kielessä, se ei taivu persoonamuodoissa. Lisäksi koko sana voidaan jättää pois ihan yksinkertaisissa lauseissa, jotka alkavat pronominilla kuten **mi** tai **ti**.
 
 **mi sara.** Minä Sara.
 
@@ -140,7 +140,7 @@ Vinkki: Pronominia **ta** käytetään sekä miehistä että naisista. Kuten voi
 
 **sa pingo roxu.** Tämä omena on punainen.
 
-> Huomaa: Kun adjektiivi, kuten **roxu**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
+Huom! Kun adjektiivi, kuten **roxu**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
 **ta roxu.** Se on punainen.
 
