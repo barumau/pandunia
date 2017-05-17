@@ -103,12 +103,12 @@ In Pandunia sentences can be made shorter by leaving out pronouns that are obvio
 > **salam ti!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
 > **salam!** = Greetings! (It is obvious that the listeners are greeted.)
 
-The pattern in **salama ti** is convenient for addressing people by name, kinship term or profession.
+The pattern in **salam ti** is convenient for addressing people by name, kinship term or profession.
 
 > **salam toni!** = Hello, Tony!  
 > **salam mama!** = Hello, mother!  
 > **salam papa!** = Hello, father!  
-> **salam xefe!** = Hello, chief!
+> **salam cef!** = Hello, chief!
 
 Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
 
@@ -128,14 +128,14 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Word List
 
 **salam, halo** greeting, hello, hi, salaam, ciao, etc.  
-**mama** mother, mom. **papa** father, dad. **xefe** chief, boss.
+**mama** mother, mom. **papa** father, dad. **cef** chief, boss.
 
 
 ### Answers to the Exercises
 
-1. ti salama ta.
-2. mama salama papa.
-3. salama mama!
+1. ti salam ta.
+2. mama salam papa.
+3. salam mama!
 4. salam!
 
 
@@ -148,12 +148,12 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! cing seda.** = Hello! Please sit!  
-☻: **danku.** = Thank you.  
-☺: **cing yem kafe u ca.** = Please have some coffee or tea.  
-☻: **mi yem ca. danku.** = I will have some tea, thank you.  
+☺: **salam! bite seda.** = Hello! Please sit!  
+☻: **danke.** = Thank you.  
+☺: **bite yem kafe u tca.** = Please have some coffee or tea.  
+☻: **mi yem tca. danke.** = I will have some tea, thank you.  
 ...
-☺: **cing salam ti ge mama!** = Please tell greetings to your mother.  
+☺: **bite salam ti ge mama!** = Please tell greetings to your mother.  
 ☻: **mi salam ta. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
@@ -162,9 +162,9 @@ Making requests
 
 Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
-> **mi cing ti salama ta.** = I ask you to say hello to him/her.
+> **mi bite ti salam ta.** = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **cing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salam** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
+This sentence has a _pivot structure_. The first verb, **bite** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salam** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -172,24 +172,24 @@ The pivot structure is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in the context. In other words the speaker can safely assume that the listeners know who he or she is talking about. So it is unnecessary to keep on repeating them. In this manner phrases can be made shorter.
 
-> **mi cing ti salam ta.** = I ask you to say hello to him/her.  
-> **cing salam ta.** = Please say hello to him/her.
+> **mi bite ti salam ta.** = I ask you to say hello to him/her.  
+> **bite salam ta.** = Please say hello to him/her.
 
-See how the translation of **cing** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
+See how the translation of **bite** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
 
-The phrase **cing salam ta** has a useful pattern that can be used for making polite requests.
+The phrase **bite salam ta** has a useful pattern that can be used for making polite requests.
 
-> **cing seda.** = Please be seated.  
-> **cing dar kafe.** = Please give me some coffee.  
-> **cing dar ca.** = Please give me some tea.  
-> **cing yem ca.** = Please have some tea.
+> **bite seda.** = Please be seated.  
+> **bite dar kafe.** = Please give me some coffee.  
+> **bite dar tca.** = Please give me some tea.  
+> **bite yem tca.** = Please have some tea.
 
 <!--
-> **cing safi kamar.** = Please clean the room.
+> **bite safi kamar.** = Please clean the room.
 
-Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **cing**.
+Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **bite**.
 
-> **koman dar ca.** = Give (me) some tea!  
+> **koman dar tca.** = Give (me) some tea!  
 > **koman safi kamar.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
@@ -211,16 +211,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dar** to give. **danku** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **safi** to clean. **seda** to sit. **yem** to eat or drink.
+**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **safi** to clean. **seda** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. ta yem ca.
-2. xefe cing ta seda.
-3. cing yem kafe o ca.
-4. mama cing me safi kamar.
-5. xefe seda i yem kafe.
+1. ta yem tca.
+2. cef bite ta seda.
+3. bite yem kafe o tca.
+4. mama bite me safi kamar.
+5. cef seda i yem kafe.
 
 
 --------------------------------------------------------------------------------
@@ -231,37 +231,37 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia ti yem kafe o ca?** = Hello! Would you like to have coffee or tea?  
-☺: **ca.** = Tea.  
+☻: **salam! kia ti yem kafe o tca?** = Hello! Would you like to have coffee or tea?  
+☺: **tca.** = Tea.  
 ☻: **i ti?** = And you?  
 ○: **mi no sabi pandunia...** = I don't speak Pandunia...  
-☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?  
-☺: **no. ta no yem ca. ta yem kafe.** = No, he won't. He would like to have coffee.  
+☻: **maf! kia ta yem tca?** = Pardon! Will he have tea?  
+☺: **no. ta no yem tca. ta yem kafe.** = No, he won't. He would like to have coffee.  
 ☻: **kia ti yem sup?** = Would you like to have soup?  
 ☺: **yem.** = Yes. (_I eat._)  
 ☻: **kia ta yem sup?** = Would he like to have soup?  
 ☺: **no yem.** = No.  
-☻: **danku. mi dar un ca i un kafe i un sup na bada de des minut.**
+☻: **danke. mi dar un tca i un kafe i un sup na bada de des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
-Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
+Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **bite**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **mi kia ti yem ca.** = I ask (do) you drink tea.  
-> **kia ti yem ca?** = Do you drink tea?  
-> **kia yem ca?** = Drink tea?
+> **mi kia ti yem tca.** = I ask (do) you drink tea.  
+> **kia ti yem tca?** = Do you drink tea?  
+> **kia yem tca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ta yem ca?** = Does he or she drink tea?  
+> **kia ta yem tca?** = Does he or she drink tea?  
 > **kia ti yem sup?** = Do you eat soup?  
 > **kia mimen yem sui?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xefe se yem kafe?** = Does the chief drink coffee?  
+> **kia cef se yem kafe?** = Does the chief drink coffee?  
 <!-- > **kia papa ye safi kamar?** = Does the father clean the room?  -->
 > **kia niki se sabi pandunia?** = Does Nicky know Pandunia?
 
@@ -328,15 +328,15 @@ In the previous lesson you learned to answer **ye** and **no** to questions. The
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salam ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi cing ti safi kamar.** = I ask you to clean the room.  
-> **mi no cing ti safi kamar.** = I do NOT ask you to clean the room.  
-> **mi cing ti no safi kamar.** = I ask you NOT to clean the room.
+> **mi bite ti safi kamar.** = I ask you to clean the room.  
+> **mi no bite ti safi kamar.** = I do NOT ask you to clean the room.  
+> **mi bite ti no safi kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
 > **ta no ha mau.** = She doesn't have a cat.  
-> **ta ha no mau, ama kuta.** = She has no cats but dogs.  
+> **ta ha no mau, ama waf.** = She has no cats but dogs.  
 > **no ta, ama mi ha mau.** = Not she but I have cats.  
 > **mi ha no un, ama du mau.** = I have not one but two cats.
 
@@ -355,17 +355,17 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kop** cup, glass, mug. **kong** empty. **ha** to have. **mau** cat. **kuta** dog. **du** two. **nul** zero. **ama** but.
+**kop** cup, glass, mug. **kong** empty. **ha** to have. **mau** cat. **waf** dog. **du** two. **nul** zero. **ama** but.
 
 
 ### Answers to the Exercises
 
 1. ta no safi kamar.
 2. un kop no kong.
-3. du kuta no yem sup.
-4. ta no ha kuta i mau. / ta ha no kuta i no mau.
-5. xefe se yem ca ama no kafe.
-6. mama se ha no kuta ama du mau.
+3. du waf no yem sup.
+4. ta no ha waf i mau. / ta ha no waf i no mau.
+5. cef se yem tca ama no kafe.
+6. mama se ha no waf ama du mau.
 
 
 <!--
@@ -452,9 +452,9 @@ There are also specific time words.
 
 The adjectives for past, present and future are **gon, nun** and **futur**. They can be used for modifying nouns.
 
-> **sara e mi ge gon xefe.** = Sara is my former boss.
-> **yusef e mi ge nun xefe.** = Yusef is my current boss.
-> **maria e mi ge futur xefe.** = Maria is my future boss.
+> **sara e mi ge gon cef.** = Sara is my former boss.
+> **yusef e mi ge nun cef.** = Yusef is my current boss.
+> **maria e mi ge futur cef.** = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time. Simply put the word before the verb.
 
@@ -473,12 +473,14 @@ It is not necessary to repeat the time expressions all the time. It would be awk
 
 > **mi gon ha un mau.** = I had a cat in the past.
 > **ta bon mau.** = It was a good cat.
-> **mi ha un muxu nun.** = I have a mouse now.
+> **mi ha un waf nun.** = I have a dog now.
 
+<!-- 
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
 
 > **mi jenu na nen 2003.** = I was born in 2003.
 > **ta safi kamar na bada den.** = He will clean the room tomorrow.
+-->
 
 
 ### Word List
@@ -502,7 +504,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Answers to the Exercises
 
 <ol>
-<li>mi de xefe pati na melai.
+<li>mi de cef pati na melai.
 <li>mi mala du hau na pase.
 <li>ti yem sup na jin.
 <li>ta safi kamar na din befo.

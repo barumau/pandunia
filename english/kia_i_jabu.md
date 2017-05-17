@@ -4,7 +4,7 @@ Frequently Asked Questions
 
 #### How many people can speak Pandunia?
 
-Currently a few people are using Pandunia. It is still a very new language.
+Currently speakers of Pandunia are counted in tens. It is still a very new language.
 
 #### When was Pandunia created?
 
@@ -32,6 +32,19 @@ If your change is a small thing, you should try it in practice with other people
 Creating offshoot languages is very common in the auxiliary language community. The case of Esperanto is famous. Offshoots of Esperanto are counted in the hundreds but most people haven't even heard of them. Esperanto is still the most popular language of its kind.
 
 It is better to have one big language with several dialects than many competing languages.
+
+
+#### Why the letter C is pronounced like SH?
+ 
+Pandunia follows the phonetic principle. One letter represents exactly one sound, and one sound is written with exactly one letter.
+
+Traditionally there isn't any dedicated letter for /ʃ/ in the Latin alphabet. This sound is frequently written by the letter combination SH in English. Other languages use different letters and letter combinations such as CH in French, SCH in German, SJ in Swedish, SZ in Polish, Š in Czech and Ş in Turkish.
+
+On the other hand, there isn't any dedicated sound for the letter C. In English C has several uses. It can stand for /k/ as in _cat_, /s/ as in _city_, /ʃ/ as in _musician_ and /tʃ/ as in _cello_. Other languages use C for these and several other sounds, see details in [Wikipedia](https://en.wikipedia.org/wiki/C#Use_in_writing_systems).
+
+English _hard C_ can be represented by K and the _soft C_ by S. Slavic /ts/, Italian /tʃ/ and Turkic /dʒ/ are compound sounds that are better represented by letter combinations than a single letter. So the letter C is free for re-use. /ʃ/ is the only simple sound that is widely used in modern languages and that doesn't have a dedicated letter in the Latin alphabet. That's why C stands for /ʃ/ in Pandunia.
+
+The sound /tʃ/ (i.e. the CH in _church_) is logically written TC in Pandunia. This is another sound that is written in different ways in different languages. Some of them are in principle similar to the Pandunia way, including French TCH, German TSCH, Swedish TJ, Vietnamese TR, Finnish TŠ and Filipino TS.
 
 
 #### What languages have influenced the grammar of Pandunia?

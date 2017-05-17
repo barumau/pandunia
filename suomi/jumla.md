@@ -34,15 +34,17 @@ Osa 1: Tervehdykset ja perussanoja
 
 **den salam!** Päivää!
 
-**xam salam!** Iltaa!
+**cam salam!** Iltaa!
 
-**noce salam!** Hyvää yötä!
+**notce salam!** Hyvää yötä!
 
 **yem salam!** Hyvää ruokahalua!
 
 **lai salam!** Tervetuloa!
 
 **safar salam!** Hyvää matkaa!
+
+**son salam!** Nuku hyvin!
 
 Vinkki! Kuten huomaat, **salam** on yleiskäyttöinen sana hyvän toivottamiseen. Käytä sitä aina kun mahdollista!
 
@@ -265,31 +267,31 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi vole yem kafe.** I want to drink coffee.
 
-**kia ti vole yem ca?** Would you like to drink tea?
-**no. mi no vole ca. mi vole kafe.** No, I don't want tea. I want coffee.
+**kia ti vole yem tca?** Would you like to drink tea?
+**no. mi no vole tca. mi vole kafe.** No, I don't want tea. I want coffee.
 
 **ti vole ke pingo?** Which apple do you want?
 **sa roxu.** This red one.
 
 
 
-### cing <small>request, please</small>
+### bite <small>request, please</small>
 
-**mi cing ti yem ca.** I ask you to drink tea.
+**mi bite ti yem tca.** I ask you to drink tea.
 
-**mi cing ti lai jia.** I ask you to come home.
+**mi bite ti lai jia.** I ask you to come home.
 
-**mi cing ti mede mi.** I ask you to help me.
+**mi bite ti mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing yem ca.** Please, have some tea!
+**bite yem tca.** Please, have some tea!
 
-**cing yem kafe.** Please, have some coffee!
+**bite yem kafe.** Please, have some coffee!
 
-**cing lai jia.** Please, come home!
+**bite lai jia.** Please, come home!
 
-**cing mede mi.** Please, help me.
+**bite mede mi.** Please, help me.
 
 
 
@@ -305,7 +307,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danke ti mede mi.** Thanks for helping me.
 
-**ti keci.** You're welcome. (Literally: _You're polite._)
+**ti ketci.** You're welcome. (Literally: _You're polite._)
 
 
 
@@ -353,7 +355,7 @@ Part 3: Communication
 
 **mi no sabi engli.** I don't speak English.
 
-**mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
+**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
 
 
 
@@ -471,13 +473,13 @@ Part 3
 
 ### loji <small>study, research</small>
 
-**mi sabi du baxa.** I know two languages.
+**mi sabi du baca.** I know two languages.
 
 **ta doku loji buku.** He/she reads a study book.
 
-Tip: Action words like **loji** and **baxa** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
+Tip: Action words like **loji** and **baca** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
 
-**mi baxa pandunia.** I speak Pandunia.
+**mi baca pandunia.** I speak Pandunia.
 
 
 **ke habar?** What's new?
@@ -495,11 +497,11 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ama** but <small>(Turkish _ama_)</small>
 **batu** stone <small>(Indonesian _batu_)</small>
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
-**baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
+**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
+**bite** ask, request <small>(German _bitten_)</small>
 **bon** good <small>(French _bon_)</small>
 **budi** understand <small>(Hindi _buddhi_ बुद्धि)</small>
-**ca** tea <small>(Mandarin _chá_ 茶)</small>
-**cing** ask, request <small>(Mandarin _qǐng_ 请)</small>
+**tca** tea <small>(Mandarin _chá_ 茶)</small>
 **den** day <small>(Russian _den'_ день)</small>
 **e** to be <small>(Portuguese _é_)</small>
 **fem** woman <small>(French _femme_)</small>
@@ -514,7 +516,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>
 **katu** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
 **ke** what? who? <small>(Spanish _qué_)</small>
-**keci** polite <small>(Mandarin _kèqi_ 客气)</small>
+**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>
 **lai** come <small>(Vietnamese _lai_)</small>
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>
@@ -524,13 +526,13 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mimen** we
 **nili** blue <small>(Kannada _nīli_)</small>
 **no** no, not <small>(Spanish _no_)</small>
-**noce** night <small>(Spanish _noche_)</small>
-**nau** now, currently <small>(English _now_)</small>
+**notce** night <small>(Spanish _noche_)</small>
+**nun** now, currently <small>(German _nun_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **puti** white <small>(Filipino _puti_)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>
-**roxu** red <small>(Romanian _roșu_)</small>
+**ruje** red <small>(French _rouge_)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
 **sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>
@@ -543,7 +545,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **vide** see, look <small>(Russian _videt'_ видеть)</small>
 **u** or <small>(French _ou_)</small>
 **vole** want <small>(Italian _volere_)</small>
-**xam** evening <small>(Hindi _śām_ शाम )</small>
+**cam** evening <small>(Hindi _śām_ शाम )</small>
 **ye** yes <small>(Korean 예 _ye_)</small>
 **yelo** yellow <small>(English _yellow_)</small>
 
@@ -579,13 +581,13 @@ TAM : tense, aspect or mood particle
     2. adjective + noun
         - **roxu hua** red flower
     3. noun + noun : compound word
-        - **ca kopa** tea cup
+        - **tca kopa** tea cup
     4. noun + verb : compound word (where the verb functions as a noun)
         - **suba yem** morning meal (morning eating)
     5. verb + noun : compound word
         - **yem ci** : eater (eating doer)
     6. verb + verb
-        - **baxa loji** communication study
+        - **baca loji** communication study
     7. number + adjective + noun
         - **du roxu hua** two red flowers
 2. Predicate phrase types
@@ -607,7 +609,7 @@ TAM : tense, aspect or mood particle
     7. verb + PP + verb + NP : template for questions and other modalities
         - **kia ti lai jia gon?** Did you come home already?
     8. verb + verb + NP : template for requests and commands
-        - **cing lai jia.** Please come home.
+        - **bite lai jia.** Please come home.
         - **bana lai jia!** Don't come home!
 
 -->

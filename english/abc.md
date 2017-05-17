@@ -3,7 +3,7 @@ Spelling of Pandunia
 
 The Basic Latin alphabet is used for writing Pandunia.
 
-> a b c d e f g h i j k l m n o p r s t u v w x y z
+> a b c d e f g h i j k l m n o p r s t u v w y z
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is silent. Every letter has one sound, always the same.
 
@@ -26,16 +26,23 @@ Semivowels **y** and **w** are pronounced like in English.
 Consonant Sounds
 ----------------
 
-Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, v, z** is familiar and easy.
+    p  b  f  v  m  w
+    t  d  s  z  n  l  r
+          c  j     y
+    k  g  h     ng
+
+Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, k, l, m, n, p, t, v, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
-- **c** is always pronounced like ch in _chip, church_.
+- **c** is always pronounced like SH in _ship_.
+- **j** is pronounced like Z in _measure_ or the J in the French greeting _bon jour_.
 - **g** is always hard like in _girl, get_.
 - **r** is preferably trilled like in Scottish English or Spanish _carro_. Also other pronunciations are acceptable. Note that **r** is never silent!
 - **s** is always voiceless like in _sissy_. **z** is voiced like in _zoo_.
-- **x** is pronounced like sh in _ship_.
 - **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
+
+Letter combination **tc** is pronounced like ch in _chip_ and **dj** is pronounced like the English J.
 
 
 ### Stress Accent
@@ -44,7 +51,7 @@ The stress is on the syllable, which is before the last consonant.
 
 1. Words with only one syllable carry the stress. Ex. MAU, TONG.
 2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
-3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, CAMca, filSOfi
+3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
 
 
 ### Schwa
@@ -73,7 +80,7 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 ## Syllabification
 
-[-] Words may be divided into syllables with a hyphen. The hyphen is placed between spoken syllables. For example: nov, ka-fe, ma-xim, pos-ta.
+[-] Words may be divided into syllables with a hyphen. The hyphen is placed between spoken syllables. For example: bin, ka-fe, yu-mor, pos-ta.
 
 
 ## Punctuation

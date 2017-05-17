@@ -24,15 +24,17 @@ Part 1: Greeting and basics
 
 **den salam!** Good day!
 
-**xam salam!** Good evening!
+**cam salam!** Good evening!
 
-**noce salam!** Good night!
+**notce salam!** Good night!
 
 **yem salam!** Bon appetit!
 
 **lai salam!** Welcome!
 
 **safar salam!** Have a safe journey!
+
+**son salam!** Sleep well!
 
 Tip: As you can see from the range of expressions, **salam** is a general word for well-wishing. Use it any time!
 
@@ -126,11 +128,11 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **sa e pingo.** This is an apple.
 
-**sa e roxu pingo.** This is a red apple.
+**sa e ruje pingo.** This is a red apple.
 
-**sa pingo roxu.** This apple is red.
+**sa pingo ruje.** This apple is red.
 
-Note: When an adjective, like **roxu**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+Note: When an adjective, like **ruje**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
 
 
@@ -183,7 +185,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **ye. ta e doktor.** Yes. He/she is a doctor.
 
 **kia ha vin?** Do you have wine?
-**ye. bai i roxu.** Yes, white and red.
+**ye. bai i ruje.** Yes, white and red.
 
 
 
@@ -193,7 +195,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **sa man no e doktor.** That man is not a doctor.
 
-**sa pingo no roxu.** This apple is not red.
+**sa pingo no ruje.** This apple is not red.
 
 
 
@@ -264,31 +266,31 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi vol yem kafe.** I want to drink coffee.
 
-**kia ti vol yem ca?** Would you like to drink tea?
-**no. mi no vol ca. mi vol kafe.** No, I don't want tea. I want coffee.
+**kia ti vol yem tca?** Would you like to drink tea?
+**no. mi no vol tca. mi vol kafe.** No, I don't want tea. I want coffee.
 
 **ti vol ke pingo?** Which apple do you want?
-**sa roxu.** This red one.
+**sa ruje.** This red one.
 
 
 
-### cing <small>request, please</small>
+### bite <small>request, please</small>
 
-**mi cing ti yem ca.** I ask you to drink tea.
+**mi bite ti yem tca.** I ask you to drink tea.
 
-**mi cing ti lai jia.** I ask you to come home.
+**mi bite ti lai jia.** I ask you to come home.
 
-**mi cing ti mede mi.** I ask you to help me.
+**mi bite ti mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing yem ca.** Please, have some tea!
+**bite yem tca.** Please, have some tea!
 
-**cing yem kafe.** Please, have some coffee!
+**bite yem kafe.** Please, have some coffee!
 
-**cing lai jia.** Please, come home!
+**bite lai jia.** Please, come home!
 
-**cing mede mi.** Please, help me.
+**bite mede mi.** Please, help me.
 
 
 
@@ -304,7 +306,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danke ti mede mi.** Thanks for helping me.
 
-**ti keci.** You're welcome. (Literally: _You're polite._)
+**ti ketci.** You're welcome. (Literally: _You're polite._)
 
 
 
@@ -359,21 +361,21 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### sabi <small>know how</small>
 
-**mi sabi cala kare.** I can drive a car.
+**mi sabi tcala gar.** I can drive a car.
 
-**ta no sabi cala kare.** S/he doesn't know how to drive a car.
+**ta no sabi tcala gar.** S/he doesn't know how to drive a car.
 
-**kia ti sabi xuli ta?** Do you know how to fix it?
+**kia ti sabi culi ta?** Do you know how to fix it?
 
 **kia ti sabi pandunia?** Do you speak Pandunia?
 
 **mi sabi pandunia.** I speak Pandunia.
 
-**mi sabi xau pandunia.** I speak a little Pandunia.
+**mi sabi cau pandunia.** I speak a little Pandunia.
 
-**mi no sabi englix.** I don't speak English.
+**mi no sabi englic.** I don't speak English.
 
-**mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
+**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
 
 
 
@@ -396,7 +398,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken audi ti.** I can't hear you.
 
-**cing loga kuat.** Please speak louder.
+**bite loga kuat.** Please speak louder.
 
 **mi audi musik.** I listen to music.
 
@@ -427,18 +429,18 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kitaba <small>write</small>
 
-**cing kitaba ti ge adres.** Please, write your address.
+**bite kitaba ti ge adres.** Please, write your address.
 
-**cing kitaba ta na sa.** Please, write it here!
+**bite kitaba ta na sa.** Please, write it here!
 
 
-### baxa <small>language, communication</small>
+### baca <small>language, communication</small>
 
-**kia timen baxa pandunia.** Do you speak in Pandunia?
+**kia timen baca pandunia.** Do you speak in Pandunia?
 
-**mimen baxa pandunia.** We speak in Pandunia.
+**mimen baca pandunia.** We speak in Pandunia.
 
-**kia ti sabi baxa englix?** Can you speak English?
+**kia ti sabi baca englic?** Can you speak English?
 
 **frans, espan, portugal, ruski** French, Spanish, Portuguese, Russian
 
@@ -468,7 +470,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### lai <small>to come</small>
 
-**cing lai!** Come here!
+**bite lai!** Come here!
 
 **ti lai ze ke?** Where do you come from?
 
@@ -574,13 +576,14 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bai** white <small>(Mandarin _bái_ 白)</small>
 **batu** stone <small>(Indonesian _batu_)</small>
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
-**baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
+**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
+**bite** ask, request <small>(German _bitten_)</small>
 **bon** good <small>(French _bon_)</small>
 **budi** understand <small>(Hindi _buddhi_ बुद्धि)</small>
-**ca** tea <small>(Mandarin _chá_ 茶)</small>
-**cing** ask, request <small>(Mandarin _qǐng_ 请)</small>
+**tca** tea <small>(Mandarin _chá_ 茶)</small>
 **den** day <small>(Russian _den'_ день)</small>
 **e** to be <small>(Portuguese _é_)</small>
+**englic** English
 **fem** woman <small>(French _femme_)</small>
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** have; there is <small>(Portuguese _há_)</small>
@@ -593,7 +596,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>
 **ke** what? who? <small>(Spanish _qué_)</small>
-**keci** polite <small>(Mandarin _kèqi_ 客气)</small>
+**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>
 **lai** come <small>(Vietnamese _lai_)</small>
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>
@@ -605,12 +608,12 @@ All words of Pandunia are loan words from other languages that are spoken around
 **nesese** need; necessary <small>(Haitian Creole _nesesè_)</small>
 **nili** blue <small>(Kannada _nīli_)</small>
 **no** no, not <small>(Spanish _no_)</small>
-**noce** night <small>(Spanish _noche_)</small>
+**notce** night <small>(Spanish _noche_)</small>
 **nun** now, currently <small>(German _nun_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>
-**roxu** red <small>(Romanian _roșu_)</small>
+**ruje** red <small>(French _rouge_)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
 **sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>
@@ -623,7 +626,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **vide** see, look <small>(Russian _videt'_ видеть)</small>
 **u** or <small>(French _ou_)</small>
 **vol** want <small>(Italian _volere_)</small>
-**xam** evening <small>(Hindi _śām_ शाम )</small>
+**cam** evening <small>(Hindi _śām_ शाम )</small>
 **ye** yes <small>(Korean 예 _ye_)</small>
 **yelo** yellow <small>(English _yellow_)</small>
 **yem** eat, drink <small>(Turkish _yemek_)</small>

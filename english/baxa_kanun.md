@@ -46,10 +46,10 @@ Basic Rules
 7. A sentence with passive meaning has only a subject and a verb.
     - ex. **ta penta.** = It is painted.
 8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **mi cing ti dar pesa.** = I ask you to give money.
+    - ex. **mi bite ti dar pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
     - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Do you speak Pandunia?
-    - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
+    - **mi bite ti loga tez.** →  **bite loga tez.** = Please speak louder.
 
 
 
@@ -126,7 +126,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **un tara** - one star  
 > **du tara** - two stars  
 > **san tara** - three stars  
-> **xau tara** - few stars  
+> **cau tara** - few stars  
 
 Ordinal numbers come after the word that they modify.
 
@@ -317,8 +317,8 @@ Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **mi cing ti lai.** - I ask you to come.  
-> **cing lai!** - Please come! (Literally: _Request come!_)
+> **mi bite ti lai.** - I ask you to come.  
+> **bite lai!** - Please come! (Literally: _Request come!_)
 
 
 --------------------------------------------------------------------------------
@@ -529,13 +529,13 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Koz** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia koz ta e bon dunia baxa.
+    yusef i sara vol darsa pandunia koz ta e bon dunia baca.
 
                          koz
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    baxa
+          i         darsa        ta    baca
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |

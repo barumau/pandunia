@@ -2,7 +2,6 @@
 ---
 
 a : ah!
-abita : live (reside)
 adres : address
 adulte : adult
 afrika : Africa
@@ -20,12 +19,13 @@ almas : diamond
 alu : potato
 ama : but
 amerika : America (continent)
+amor : love
 amper : ampere
 amuk : rage (fury)
 ana : son or daughter
 analis : analyse
+andjil : gospel
 anime : animation (cartoon)
-anjil : gospel
 anma : spirit (soul)
 anten : antenna
 anus : anus
@@ -34,7 +34,6 @@ arabi : Arabic
 argentina : Argentina
 armi : army
 arte : art
-arte ja : artist
 asal : origin
 asan : posture (asana)
 asia : Asia
@@ -52,6 +51,8 @@ ayiti : Haiti
  b
 ---
 
+baca : language
+baca logi : linguistics
 bada : after (later)
 badal : exchange (swap)
 badam : almond
@@ -62,6 +63,7 @@ bal : strong (force)
 balde : bucket
 balkon : balcony (porch)
 balu : sand
+bambu : bamboo
 ban : board (plank)
 bana : build (construct)
 banan : banana
@@ -87,8 +89,6 @@ bat : eight (8)
 batata : yam (sweet potato)
 bateri : battery
 batu : stone
-baxa : language
-baxa logi : linguistics
 bazar : market (bazaar)
 baze : base (foundation)
 bebe : baby
@@ -107,6 +107,7 @@ bibi : baby (darling)
 bin : pot (bin)
 bir : beer
 bis : kiss
+bite : ask (request; please)
 bizar : weird (strange)
 bizi : busy (occupied)
 bobo : fool (idiot)
@@ -128,7 +129,7 @@ brun : brown
 buda : Buddha
 budi : intelligent
 buk : book
-bula : forget
+bul : forget
 bumi : earth (soil)
 bumi dou : peanut (groundnut)
 bunduk : rifle
@@ -140,44 +141,33 @@ buton ban : keyboard
  c
 ---
 
-ca : tea
-ca wan : tea bowl
 cabi : key
-cabuk : whip (lash)
-cakra : disk (wheel)
-caku : knife
-camca : spoon
-campion : champion
-can : produce (manufacture)
-cang : sing (chant)
-cap : press (stamp)
-car : four (4)
-cat : chat (informal conversation)
-cat kamar : chat room
-caya : shadow
-cek : check (to examine)
-celo : cello
-cen : front
-ceng : success (accomplish)
-ceska : Czech
-cile : Chile
-cili : bell pepper
-cing : ask (request; please)
-cing lai! : Come in!
-cingua : frog
-ciperia : Albania
-cis : cheese
-citat : quote (to cite)
-cizel : chisel
-coda : fuck
-cokolat : chocolate
-cu : feel (sense by touch)
-cuka : vinegar
-cun : choose (select)
-cung : heavy (weighty)
-cupa : suck
-curi : steal (theft)
-cuti : vacation (holiday)
+cak : doubt (disbelief)
+cal : scarf
+cam : evening
+cam den : afternoon
+cam salam : Good evening
+cam yem : dinner
+can : mountain (hill)
+canti : peace (calm)
+carbon : coal (carbon)
+caria : shari'a
+catan : devil (Satan)
+catur : chess
+cau : few (little)
+cef : chief
+cef wazir : prime minister
+cia : under (below)
+cifu : master (sensei)
+cigo : accident (mishap)
+cik : elegant (chic)
+cim : heart
+cir : poem
+cirop : syrup
+cok : shock (collide)
+culi : repair (fix)
+cup : suck
+
 
  d
 ---
@@ -186,7 +176,8 @@ dado : die (dice)
 daftar : register
 daftar ja : secretary
 dai : big
-daixi : ambassador
+daici : ambassador
+daici kan : embassy
 dama : checkers
 dane : seed
 dania : Denmark
@@ -195,6 +186,7 @@ dans : dance
 dante : tooth
 dante brox : tooth brush
 dante doktor : dentist
+dap : answer (response)
 dar : give
 darba : strike (punch)
 daria : sea (ocean)
@@ -222,20 +214,33 @@ dewa logi : theology
 deya : village
 din : religion
 ding : nail (spike)
+djang : fight (war)
+djangal : forest (jungle)
+djara : jug (jar)
+djeb : pocket
+djen : birth
+djen den : birthday
+djidju : spider
+djin : near (close)
+djong : species
+djuca : inject
+djudo : judo
+djungo : China
 do : to (till, until)
-doic : German
+doc : fault (guilt)
+doitce : German
 dok : read
 doktor : doctor (physician)
 dolar : dollar
 domino : dominoes
 dong : east
 dou : bean or pea (legume)
-dox : fault (guilt)
 doze : portion (dose)
 drama : drama
 du : two (2)
 dua : pray
 duan : short (not long)
+duc : shower
 duka : grief (sorrow)
 dul : dust
 dum : tail
@@ -243,7 +248,6 @@ duman : smoke
 duna : dune
 dunia : world
 dura : last (take time)
-dux : shower
 
  e
 ---
@@ -255,7 +259,7 @@ ekuador : Ecuador
 eletre : electricity
 eletron : electron
 energi : energy
-englix : English
+englic : English
 eni : any (no matter which)
 eritra : Erithrea
 espanya : Spain
@@ -268,6 +272,7 @@ europa uni : European Union (EU)
  f
 ---
 
+fai : fire
 fain : fine (delicate)
 famil : family
 famil nam : surname (family name)
@@ -279,7 +284,6 @@ far : far
 farsi : Persian (Farsi)
 faru : rhinoceros
 fasin : fascinate
-fatig : tired
 fei : fly
 fem : woman (female)
 fen : part (fraction)
@@ -288,14 +292,14 @@ festa : party (festival)
 fet : fat (grease)
 figur : figure (representation)
 fiksa : fix (attach)
-fiksa : fasten (to fixate)
 fila : line (row)
 filme : film
 filsofi : philosophy
 filter : filter
 fin : end
 final : last (final)
-fizik : physics
+fizik : physique
+fizik logi : physics
 fobi : fear (phobia)
 forka : fork
 forme : form (shape)
@@ -306,7 +310,6 @@ frans : France
 fu : bah! (yuck!)
 fubu : belly (abdomen)
 fuk : clothing
-funci : function (operation)
 fung : wind
 futur : future
 
@@ -315,13 +318,13 @@ futur : future
 
 gabar : grave (tomb)
 gada : donkey (ass)
-gaja : elephant
+gadja : elephant
 gamel : camel
 gami : marriage (matrimony)
-gana : song
+gana : sing (song)
+gandja : cannabis
 gang : just (recently)
 ganga : Ganges
-ganja : cannabis
 gar : car (cart)
 garam : warm
 garanti : guarantee
@@ -356,8 +359,8 @@ grimas : grimace
 grom : thunder (roar)
 grup : group
 gua : cave
+guanci : connection (relationship)
 guang : light (illumination)
-guanxi : connection (relationship)
 guru : guru (mentor)
 gusta : taste (sense the flavor)
 gut : bone
@@ -419,13 +422,14 @@ ibri : Hebrew
 idea : idea
 iman : belief, faith, creed
 imperia : empire
+in : inside (interior)
+incala : hope (wish)
+indji : ginger
 indonesia : Indonesia
 informa : inform (communicate)
-inji : ginger
 inspira : inspire (inspiration)
 interes : interest (interesting)
 intervu : interview
-inxala : hope (wish)
 irak : Iraq
 iran : Iran
 islam : Islam
@@ -439,45 +443,22 @@ izi : easy
  j
 ---
 
-ja : doer (-er)
-jabu : answer (response)
+ja : already
 jadi : if (suppose, assume)
 jaket : jacket (coat)
-jamia : congregation (assembly)
-jan : know
 janela : window
-jang : fight (war)
-jangal : forest (jungle)
-jara : jug (jar)
-jeb : pocket
 jele : gel (jelly)
 jelos : jealous
-jen : birth
-jen den : birthday
-jener : generate (to produce)
 jeni : genius
-jenju : pearl
 jeste : gesture
-jia : home
-jiju : spider
-jin : near (close)
-jins : sex (gender)
 jiraf : giraffe
 jiva : live (life)
 jiva logi : biology (study of life)
-jo : which (that who)
-joi : joy
-jok : joke
-jong : species
 jovan : young
-judo : judo
-juk : bamboo
-jumla : sentence (phrase)
-jung : middle (center)
-jungo : China
+ju : live (reside)
+jung : melt
 jup : skirt
 jus : juice
-juxa : inject
 
  k
 ---
@@ -487,15 +468,16 @@ kabil : able (capable)
 kabila : tribe
 kabin : cabin (booth)
 kaca : catch (to hunt)
+kaca : porridge
 kafas : cage
 kafe : coffee
 kafe kan : cafe (coffee shop)
 kafe kop : coffee cup
 kai : open (not closed)
-kaixi : begin (commence)
+kaici : begin (commence)
 kaka : excrement (shit)
 kalam : pen
-kalkula : calculate
+kalkul : calculate
 kalsium : calcium (Ca)
 kamar : room (chamber)
 kamar tal : floor
@@ -530,18 +512,17 @@ kat : cut
 kata : story (tale)
 kava : dig (excavate)
 kawai : cute
-kaxa : porridge
 kazu : event (case, instance)
 ke : what?
 ke yang? : how?
-kecap : ketchup
-keci : polite
 kek : cake
 kelele : noise
 kemet : Ancient Egypt (Kemet)
 ken : can
 kenar : border (edge)
 kenya : Kenya
+ketcap : ketchup
+ketci : polite
 ketel : kettle
 ki : that (conj.)
 kia : ask (make a question)
@@ -562,7 +543,6 @@ kode : code (cipher)
 koi : some
 kok : chicken
 koko : coco
-kol : coal (carbon)
 kolombia : Colombia
 koloni : colony (settlemen)
 kolun : column (pillar)
@@ -571,9 +551,9 @@ kompani : company (corporation)
 komput : compute
 komun : common (shared)
 kona : corner
-koncung : insect
 kong : empty
 konsel : advice (counsel)
+kontcung : insect
 kontinu : continue (resume)
 konus : cone
 kop : cup
@@ -599,8 +579,6 @@ kuran : Quran (Koran)
 kursi : chair
 kurva : curve
 kusen : cushion (pillow)
-kuzina : cook (prepare food)
-kuzina kamar : kitchen
 
  l
 ---
@@ -620,7 +598,7 @@ lao : Laos
 larva : larva (maggot, caterpillar)
 lasun : garlic
 lat : pungent (spicy, hot)
-lat cili : chili pepper
+lat tcili : chili pepper
 latvia : Latvia
 lau : old (not young)
 lava : lava
@@ -661,16 +639,15 @@ lut : rob (loot)
  m
 ---
 
-mac : match (contest)
-maci : fish
+macin : machine
+madjar : Hungary
+madju : harness
 madu : honey
 maf : sorry (pardon)
 mafan : trouble (bother)
 magi : magic
 maidan : square (plaza)
 mais : corn (maize)
-majar : Hungary
-maju : harness
 makala : article (writing)
 makas : scissors
 makedonia : Macedonia
@@ -688,22 +665,23 @@ mani : mania (frenzy)
 manioka : cassava (manioc)
 mano : hand
 mantu : dumpling
-manux : human being
+manuc : human being
 mar : time (occasion)
 mara : tree
+marce : walk (march)
 margarin : margarine
 marka : mark (trace)
-marxa : walk (march)
+mas : more
 masa : mass (lump)
 masala : issue
+masim : most (maximally)
 maska : mask (camouflage)
+matce : match (contest)
+matci : fish
 mater : matter (substance)
 mati : death
 matur : mature (ripe, adult)
 mau : cat
-max : more
-maxim : most (maximally)
-maxin : machine
 medalia : medallion (medal)
 mede : help
 medi : mean (medium)
@@ -722,7 +700,6 @@ mi : I (me)
 mi ge : my
 mien : noodle
 migan : mandarin orange
-mijin : MSG (monosodium glutamate)
 mila : meet
 milke : milk
 mimen : we
@@ -736,6 +713,7 @@ misal : example
 miskin : poor (miserable)
 misri : Egypt
 mit : myth
+mitcin : MSG (monosodium glutamate)
 model : model
 mogu : mushroom (fungus)
 mol : soft
@@ -759,22 +737,21 @@ mungus : mongoose
 munkin : possible (maybe)
 mus : must
 musik : music
-muxu : mouse
 myanma : Myanmar (Burma)
 
  n
 ---
 
 na : at (in, on)
-na cen : before
+na cia : below (under)
 na dura de : while (during)
-na jung : in the middle
+na in : in (inside)
 na men : on (on the surface)
-na xia : below (under)
+na wai : out (outside)
 nabat : plant (vegetable)
 nadi : river
 nafas : breath
-naijiria : Nigeria
+naidjiria : Nigeria
 nakun : nail (fingernail)
 nale : tomorrow
 nam : name
@@ -782,7 +759,6 @@ nama : meat (flesh)
 nami : wave
 nanas : pineapple
 narak : hell
-naranje : orange fruit
 nas : people (folk)
 nasia : nation
 nau : brain
@@ -790,16 +766,14 @@ nen : year
 nen festa : anniversary
 nenufar : water lily (nenuphar)
 nepal : Nepal
-nesese : need
 net : net
+nice : niche (alcove)
+nide : need
 nil : blue
 nilon : nylon
-nioni : bird
 nipon : Japan
-nitrojen : nitrogen
-nixe : niche (alcove)
+nitro : nitrogen
 no : no (not)
-noce : night
 noi : nine (9)
 nong : cultivate
 nor : north
@@ -807,6 +781,7 @@ norge : Norway
 norma : norm (standard)
 nos : nose
 nota : notice (observe)
+notce : night
 nova : new
 nuda : naked (bare)
 nul : zero (none)
@@ -819,7 +794,7 @@ nun : now
 
 o : oh!
 okei : okay (acceptable)
-oksijen : oxygen
+oksi : oxygen
 oma : grandmother
 oman : Oman
 opa : grandfather
@@ -832,12 +807,14 @@ oskur : dark (dim)
 ---
 
 pagri : turban
+pai : pie (pastry)
 pak : pack (package)
 pakistan : Pakistan
 pal : fruit
 palma : palm tree
 palo : pole (stake)
 pan : bread
+panda : panda
 pandunia : Pandunia
 pang : thick (fat)
 pantalon : pants (trousers)
@@ -851,7 +828,8 @@ pasa : happen (occur)
 paskal : pascal
 pat : path
 paunde : pound (£)
-pei : pay
+peca : job (occupation)
+pei : pay (payment)
 pende : hang (dangle)
 penguin : penguin
 penis : penis
@@ -860,8 +838,8 @@ penta : paint
 pera : pear
 peru : Peru
 pesa : money
-pexa : job (occupation)
 piano : piano
+pica : piss (urine)
 pifu : skin
 pigu : buttocks (butt)
 pilipin : Philippines (Filipino)
@@ -872,7 +850,6 @@ pingo : apple
 piper : pepper
 piping : criticize
 pirat : pirate
-pixa : piss (urine)
 piza : pizza
 plan : plan
 plastik : plastic
@@ -899,7 +876,7 @@ proba : try (attempt)
 program : program
 proses : process (procedure)
 puding : pudding
-puja : worship
+pudja : worship
 pul : bridge
 pulo : island
 punt : point (full stop)
@@ -921,9 +898,9 @@ rasti : grow
 razon : reason (rational thinking)
 re : again
 rebel : rebellion
-recet : recipe
 redi : ready (prepare)
 ren : person
+reset : recipe
 resid : receit
 restoran : restaurant
 rezin : resin
@@ -936,18 +913,15 @@ roket : rocket
 rol : role
 rom : rum
 roma : Rome
-romanse : romance (love affair)
 ron : cry (weep)
 rong : oriental dragon
 rose : dew
 rosia : Russia
 rotor : rotor (rotator)
-roxu : red
 roza : rose
 ruk : back
 ruk sak : backpack (rucksack)
 rulo : roll
-rung : melt
 rupa : appearance (looks)
 rutin : routine
 
@@ -956,7 +930,6 @@ rutin : routine
 
 sa : this or that
 sa far : that (that over there)
-sa jin : this (this over here)
 saba : reason (cause)
 sabat : Saturday
 sabi : know how
@@ -1004,6 +977,7 @@ sis : six (6)
 sismo : earthquake
 sismo logi : seismology
 sistem : system
+sitat : quote (to cite)
 siti : city (town)
 slovenia : Slovenia
 sofa : sofa (couch)
@@ -1067,6 +1041,27 @@ tatu : tattoo
 taul : towel
 tava : frying pan
 taza : fresh
+tca : tea
+tca wan : tea bowl
+tcabuk : whip (lash)
+tcakra : wheel
+tcaku : knife
+tcampion : champion
+tcap : press (stamp)
+tcat : chat (informal conversation)
+tcat kamar : chat room
+tcaya : shadow
+tcek : check (to examine)
+tcelo : cello
+tceska : Czech
+tcile : Chile
+tcili : bell pepper
+tciperia : Albania
+tcis : cheese
+tcoda : fuck
+tcokolat : chocolate
+tcuri : steal (theft)
+tcuti : vacation (holiday)
 tekni : technique (technology)
 tekni logi : technology (study of techniques)
 tela : cloth (fabric, textile)
@@ -1081,7 +1076,6 @@ teror : terror
 teste : test (challenge)
 teyan : suggest (propose)
 ti : you
-ticin : bow instrument (violin, etc.)
 tik : right (correct)
 tiket : ticket
 tim : team
@@ -1091,8 +1085,8 @@ ting : thing
 tip : type (category)
 tiran : tyrant
 titan : titanium
+titcin : bow instrument (violin, etc.)
 to : so (then)
-tocu : touch
 tomat : tomato
 ton : tone (pitch or shade)
 tong : barrel (can)
@@ -1101,6 +1095,8 @@ tot : all
 total : total
 tren : train
 tren dau : railway (railroad)
+tsan : produce (manufacture)
+tsuka : vinegar
 tubu : tube (pipe)
 tufan : storm (tempest)
 tul : tool
@@ -1125,7 +1121,7 @@ un : one (1)
 uni : unite
 uni stat de amerika : United States of America
 urdun : Jordan
-uruguay : Uruguay
+uruguai : Uruguay
 usa : America (USA)
 
  v
@@ -1139,7 +1135,6 @@ venen : poison (venom)
 venesuela : Venezuela
 ver : true (real)
 verme : worm
-vice : substitute (vice-)
 vide : look (see)
 vide maidan : visual field (field of vision)
 viet : Vietnam
@@ -1148,6 +1143,7 @@ vin : wine
 vinil : vinyl
 virus : virus
 virus logi : virology
+vis : substitute (vice-)
 visa : visa
 visin : neighbour (vicinity)
 viza : show (display)
@@ -1161,16 +1157,20 @@ vot : vote
 ---
 
 wa : wow! (gee!)
+wac : wash
+wac macin : washing machine
 wada : promise (commitment)
 wadi : canyon (gulch, gorge)
 waf : dog
 waha : oasis
+wai : outside (exterior)
+wai ting wazir kan : ministry of foreign affairs
 wakil : represent (to)
 wan : bowl (earless cup)
 wang : monarch (king, queen)
 waris : heritage
-wax : wash
 wazir : minister (politician)
+wazir kan : ministry
 wen : circle (round)
 weste : west
 win : win (victory)
