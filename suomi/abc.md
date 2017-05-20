@@ -3,7 +3,9 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla.
 
-> a b c d e f g h i j k l m n o p r s t u v w y z
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA:      | a | b | ʃ | d | e | f | g | h | i | ʒ | k | l | m | n | o | p | r | s | t | u | v | w | j | z |
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
