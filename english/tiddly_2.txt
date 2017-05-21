@@ -26,7 +26,7 @@ anime	animation (cartoon)
 anma	spirit (soul)
 anten	antenna
 anus	anus
-ara	saw (tool)
+ara	saw tool
 arabi	Arabic
 argentina	Argentina
 armi	army
@@ -43,6 +43,7 @@ audi	hear (listen)
 australia	Australia
 avar	damage (wreck)
 aventur	adventure
+ax	argh!
 ayiti	Haiti
 baca	language
 baca logi	linguistics
@@ -117,7 +118,7 @@ botol	bottle
 boton	button
 brazil	Brazil
 britan	Britain (UK)
-brox	brush
+broc	brush
 brun	brown
 buda	Buddha
 budi	intelligent
@@ -132,7 +133,7 @@ buton	key (push-button)
 buton ban	keyboard
 cabi	key
 cak	doubt (disbelief)
-cal	scarf
+cal	scarf (shawl)
 cam	evening
 cam den	afternoon
 cam salam	Good evening
@@ -167,7 +168,7 @@ dania	Denmark
 danke	thanks (thank you)
 dans	dance
 dante	tooth
-dante brox	tooth brush
+dante broc	tooth brush
 dante doktor	dentist
 dap	answer (response)
 dar	give
@@ -209,10 +210,9 @@ djong	species
 djuca	inject
 djudo	judo
 djungo	China
-djus	juice
 do	to (till, until)
 doc	fault (guilt)
-doitc	German
+doitce	German
 dok	read
 doktor	doctor (physician)
 dolar	dollar
@@ -248,7 +248,9 @@ eurasia	Eurasia
 euro	euro
 europa	Europe
 europa uni	European Union (EU)
+exo	echo
 fai	fire
+faida	use (utility, benefit)
 fain	fine (delicate)
 famil	family
 famil nam	surname (family name)
@@ -256,6 +258,7 @@ fan	opposing (anti-)
 fanat	fan (fanatic)
 fantazi	fantasy (imagination)
 fantom	ghost (fantom)
+fanus	lantern
 far	far
 farsi	Persian (Farsi)
 faru	rhinoceros
@@ -274,6 +277,7 @@ filsofi	philosophy
 filter	filter
 fin	end
 final	last (final)
+finger	finger (toe)
 fizik	physique
 fizik logi	physics
 fobi	fear (phobia)
@@ -316,11 +320,14 @@ ging	respect (esteem)
 gitar	guitar
 glas	glass
 go	go
-godjia	country (land)
+gojia	country (land)
 gol	goal
 gola	throat (gullet)
 gom	rubber
 gon	past (former, gone)
+gong	work (labor)
+gong kan	workplace
+gong ren	worker
 goro	pig
 goro nama	pork
 goton	cotton
@@ -333,32 +340,27 @@ grup	group
 gua	cave
 guanci	connection (relationship)
 guang	light (illumination)
+gubu	hippopotamus
 guru	guru (mentor)
 gusta	taste (sense the flavor)
 gut	bone
 ha	have
-habar	news
 habar paper	newspaper
 haha	laugh
 hai	still (yet)
 haide	let's
 hak	right (justification)
 hakim	judgment
-halif	caliph
 halo	hello (hi)
 hamak	hammock
 hamar	hammer
 hamir	yeast
 hanguk	South Korea
-harap	bad (spoiled)
 harmoni	harmony
-has	special (distinct)
 hata	even (up to)
-hatar	danger (peril)
 hawa	air
 helen	Greek (Hellenic)
 helmet	helmet
-hema	tent
 hen	hate
 hewan	animal
 hibride	hybrid (mongrel)
@@ -367,7 +369,6 @@ hima rose	frost
 himalia	Himalayas
 hindu	Hindu
 histori	history
-hiyar	cucumber
 hobi	hobby
 hon	hundred
 hor	hour
@@ -418,6 +419,7 @@ jovan	young
 ju	live (reside)
 jung	melt
 jup	skirt
+jus	juice
 kabau	water buffalo
 kabil	able (capable)
 kabila	tribe
@@ -446,15 +448,11 @@ kanal	channel
 kandi	candy (sweets)
 kanguru	cangaroo
 kanun	law
-kaos	chaos (turmoil)
 kap	get (take, receive)
 kapa	cover (covering)
-kapal	head
-kapal gut	skull
 kapitan	captain
 kaput	broken (out of order)
-kar	make (do, act, perform)
-kar kan	workplace
+kar	make (do, act)
 kara	black
 karaoke	karaoke
 karate	karate
@@ -506,7 +504,6 @@ kompani	company (corporation)
 komput	compute
 komun	common (shared)
 kona	corner
-kong	empty
 konsel	advice (counsel)
 kontcung	insect
 kontinu	continue (resume)
@@ -574,6 +571,7 @@ lin	line (stripe)
 lis	smooth
 lista	list
 lit	little (small)
+litci	lychee (litchi)
 litre	liter
 lobak	radish
 loga	say (word)
@@ -582,6 +580,7 @@ lok	place (location)
 long	long
 losi	screw
 lubnan	Lebanon
+lulu	pearl
 lun	argument (thesis)
 luna	moon
 lusun	asparagus
@@ -612,12 +611,13 @@ mani	mania (frenzy)
 manioka	cassava (manioc)
 mano	hand
 mantu	dumpling
-manus	human being
+manuc	human being
 mar	time (occasion)
 mara	tree
 marce	walk (march)
 margarin	margarine
 marka	mark (trace)
+marmar	marble
 mas	more
 masa	mass (lump)
 masala	issue
@@ -627,6 +627,7 @@ matce	match (contest)
 matci	fish
 mater	matter (substance)
 mati	death
+matras	mattress
 matur	mature (ripe, adult)
 mau	cat
 medalia	medallion (medal)
@@ -634,7 +635,7 @@ mede	help
 medi	mean (medium)
 medita	meditate (ponder)
 mega	million (mega-)
-mehiko	Mexico
+melodi	melody
 member	member
 meme	sheep
 memori	memory
@@ -642,6 +643,7 @@ men	surface
 mes	month
 metal	metal
 metre	metre
+mexiko	Mexico
 meza	table
 mi	I (me)
 mi ge	my
@@ -651,7 +653,7 @@ mila	meet
 milke	milk
 mimen	we
 min	less
-minar	tower
+minara	tower
 ming	bright (radiant)
 minim	least (minimally)
 minus	except (minus)
@@ -676,6 +678,7 @@ mudan	peony
 mudi	aim (objective)
 muhim	important
 muka	face
+mum	wax
 mumia	mummy
 mumu	cow
 mumu nama	beef
@@ -684,6 +687,7 @@ mungus	mongoose
 munkin	possible (maybe)
 mus	must
 musik	music
+muskul	muscle
 myanma	Myanmar (Burma)
 na	at (in, on)
 na cia	below (under)
@@ -731,6 +735,7 @@ nul	zero (none)
 numer	number
 numer un	first (number one)
 nun	now
+nuton	newton (N)
 o	oh!
 okei	okay (acceptable)
 oksi	oxygen
@@ -777,15 +782,17 @@ piano	piano
 pica	piss (urine)
 pifu	skin
 pigu	buttocks (butt)
+piknik	picnic
 pilipin	Philippines (Filipino)
 pilot	pilot
 pin	needle (pin)
 ping	flat
 pingo	apple
+pipa	pipe
 piper	pepper
 piping	criticize
 pirat	pirate
-piza	pizza
+pitsa	pizza
 plan	plan
 plastik	plastic
 plat	plate
@@ -810,6 +817,7 @@ presis	precise (exact, accurate)
 proba	try (attempt)
 program	program
 proses	process (procedure)
+puder	powder
 puding	pudding
 pudja	worship
 pul	bridge
@@ -862,6 +870,7 @@ saba	reason (cause)
 sabat	Saturday
 sabi	know how
 sabun	soap
+sabur	patient (composed)
 sade	plain (simple)
 safar	travel (voyage)
 safi	clean (pure)
@@ -878,6 +887,8 @@ sang	blood
 sani	sleigh (sledge)
 sant	holy (sacred)
 sapat	shoe
+sar	head
+sar gut	skull
 sat	time of day (moment)
 se	self
 seksi	sex (sexual intercourse)
@@ -887,11 +898,13 @@ sel	cell (biology)
 selen	selenium
 sen	chest (thorax)
 sense	sense
+sensur	censor
 senti	feel (emotion)
 serbia	Serbia
 serce	search
 seri	series
 serva	serve (wait upon)
+sesam	sesame
 set	seven (7)
 sibir	Siberia
 sifa	quality (charasteristic)
@@ -911,7 +924,7 @@ slovenia	Slovenia
 sofa	sofa (couch)
 sofi	wise
 sok	sock
-sol	just (only)
+sol	only (just)
 sole	sun
 son	sleep (dream)
 son kamar	bedroom
@@ -952,6 +965,7 @@ tabul	table (matrix)
 tai	Thai (Thailand)
 taiga	taiga
 taksi	taxi
+taktik	tactics (strategy)
 tal	bottom
 tala	lock
 talka	bee (communal work)
@@ -1016,7 +1030,7 @@ ton	tone (pitch or shade)
 tong	barrel (can)
 top	gun
 tot	all
-total	total
+total	total (complete)
 tren	train
 tren dau	railway (railroad)
 tsan	produce (manufacture)
@@ -1040,9 +1054,10 @@ umur	age
 un	one (1)
 uni	unite
 uni stat de amerika	United States of America
+uran	uranium
 urdun	Jordan
 uruguai	Uruguay
-usa	America (USA)
+usa	USA
 vaksin	vaccine
 vale	valley
 vanila	vanilla
@@ -1080,16 +1095,29 @@ wai ting wazir kan	ministry of foreign affairs
 wakil	represent (to)
 wan	bowl (earless cup)
 wang	monarch (king, queen)
-waris	heritage
+waris	heritage (bequest)
 wazir	minister (politician)
 wazir kan	ministry
 wen	circle (round)
 weste	west
 win	win (victory)
+xabar	news
+xali	empty
+xalif	caliph
+xan	ruler (khan)
+xaos	chaos (disorder, turmoil)
+xarap	bad (spoiled)
+xas	special (distinct)
+xatar	danger (peril)
+xema	tent
+xiyar	cucumber
+xor	choir (chorus)
+yak	yak
 yakin	certain (sure)
 yala	hurry (hasten)
 yaman	Yemen
-yang	kind (type, manner, style)
+yang	kind (type, style)
+yasen	ash tree
 ye	yes (yeah)
 yehudi	Jew
 yem	eat
@@ -1110,7 +1138,7 @@ zaitun	olive
 zalim	mean (cruel)
 zaman	age (epoch)
 zambia	Zambia
-zardux	Zoroaster
+zarduc	Zoroaster
 zarura	necessary (critical)
 ze	from (since)
 zimbabwe	Zimbabwe
@@ -1121,4 +1149,3 @@ zon	belt (zone)
 zukam	cold (illness)
 zulu	Zulu
 zumrud	emerald
-
