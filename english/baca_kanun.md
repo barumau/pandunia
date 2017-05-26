@@ -12,7 +12,7 @@ Introduction
 
 When talking about grammar, many people first think of marking of person, tense, mood, case, number and gender in words, and usage of articles, prepositions and other so called _grammar words_ and the rules that govern them. For many, they are the natural building blocks of grammar and they can't imagine a language without them. The grammar of Pandunia is different. It doesn't have any grammatical markings and there are very few rules that concern specific words.
 
-Structurally Pandunia is an isolating language. In Pandunia, all words are unchanging – they aren't ever inflected, and there are no endings like the plural -s or -es in English. So instead of the form, it is the _meaning_ of words that matters, and their place in sentence.
+Structurally Pandunia is an isolating language. In Pandunia, all words are unchanging – they aren't ever inflected, and there are no endings like the plural -s or -es in English. So instead of the form, it is the _meaning_ of words that matters, and their place in the sentence.
 
 These are the reasons why an isolating structure was chosen for Pandunia, the global contact language:
 
@@ -140,7 +140,7 @@ The basic number words are:
 - 1 **un**
 - 2 **du**
 - 3 **san**
-- 4 **car**
+- 4 **tcar**
 - 5 **lim**
 - 6 **sis**
 - 7 **set**
@@ -204,7 +204,7 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
 
 **sa** - this or that
-**sa jin** - this over here
+**sa djin** - this over here
 **sa far** - that over there
 
 The demonstrative pronouns work like modifiers.
@@ -220,7 +220,7 @@ The demonstrative pronouns work like modifiers.
 
 > **ke?** - Who or what?
 > **ke ting?** - What? (Which thing?)
-> **ke ren?** - Who? (Which person?)
+> **ke jen?** - Who? (Which person?)
 > **ke sat?** - When? (What time?)
 > **ke yang?** - How? (What manner?)
 
@@ -231,7 +231,7 @@ The demonstrative pronouns work like modifiers.
 
 > **mi leva batu, jo cung.** - I lift a stone, which is heavy.
 > **ta man, jo mi vide.** - He is the man whom I saw.
-> **mimen suka ren, jo suka mimen.** - We like people who like us.
+> **mimen suka jen, jo suka mimen.** - We like people who like us.
 
 
 
@@ -329,12 +329,12 @@ Affirmation and negation
 
 Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it.
 
-> **mi e ren.** - I am a person.  
+> **mi e jen.** - I am a person.  
 > **ta e un nova meza.** - It is a new table.
 
 Such sentences can be simply negated with **no**.
 
-> **mi no e ren.** - I'm not a person.  
+> **mi no e jen.** - I'm not a person.  
 > **ta no e nova meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
@@ -390,14 +390,14 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 > **mi lai jia.** - I come home.
 > **ti side kursi.** - You sit (on) the chair.
 > **ta lala sofa.** - S/he lies (on) the sofa.
-> **pexe nata daria.** - Fish swim (in) the water.
-> **janger marxa dau.** - Warriors march (on) the road.
+> **matci nata daria.** - Fish swim (in) the sea.
+> **janger marce dau.** - Warriors march (on) the road.
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
 > **mi na hotel.** - I'm in the hotel.
 > **mi son na hotel.** - I sleep in the hotel.
-> **mi son ze xam do suba.** - I sleep since evening until morning.
+> **mi son ze cam do suba.** - I sleep since evening until morning.
 > **mi safar ze london do paris.** - I travel from London to Paris.
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
@@ -505,11 +505,11 @@ Each sentence can be drawn as a tree diagram, where the central words are above 
 
 Adjectives and numerals point to their head word, the noun.
 
-    mi vide san jovan ren.
+    mi vide san jovan jen.
 
        vide
       ┌─┴──┐
-     mi   ren
+     mi   jen
            |
          jovan
            |
@@ -540,6 +540,7 @@ The following example shows how the scope affects the final position of words in
     yusef   sara       pandunia       dunia
                                         |
                                        bon
+
 
 
 
