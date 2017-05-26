@@ -5,7 +5,7 @@
 
 [Phrasebook](jumla.md)
 
-[Grammar](baxa_kanun.md)
+[Grammar](baca_kanun.md)
 
 [Lessons](darsa.md)
 

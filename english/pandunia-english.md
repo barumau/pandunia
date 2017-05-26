@@ -395,6 +395,7 @@ huang : yellow
 huli : fox
 humus : chickpea
 humus sos : hummus
+hura : hooray (cheer)
 i : and
 i/u : and/or
 ##i
@@ -528,6 +529,7 @@ komput : compute
 komun : common (shared)
 kona : corner
 konsel : advice (counsel)
+konson : consonant
 kontcung : insect
 kontinu : continue (resume)
 konus : cone
@@ -1120,8 +1122,10 @@ visin : neighbour (vicinity)
 viza : show (display)
 vizit : visit
 vodu : voodoo
+vokal : vowel
 vol : want (desire)
 volta : volt
+vos : voice
 vot : vote
 ##w
 wa : wow! (gee!)

@@ -109,6 +109,6 @@ The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhe
 | Javanese   | basa         | /basa/ |
 | Sundanese  | basa         | /basa/ |
 
-As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **baxa**.
+As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **baca**.
 
 

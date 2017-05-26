@@ -614,7 +614,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>
-**ruje** red <small>(French _rouge_)</small>
+**lal** red <small>(Bengali _lal_)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
 **sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>
