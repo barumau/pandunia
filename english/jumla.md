@@ -451,6 +451,7 @@ Tip: To make direct requests, drop all the pronouns.
 **swahili, hausa, yoruba, amara** Swahili, Hausa, Yoruba, Amharic
 
 
+
 ## Part 4. Going around
 
 ### go <small>to go</small>
@@ -488,13 +489,13 @@ Tip: To make direct requests, drop all the pronouns.
 **safar muc long.** The voyage is very long.
 
 
-### abita <small>to live, reside</small>
+### ju <small>to live, reside</small>
 
-**ti abita ke?** Where do you live?
+**ti ju ke?** Where do you live?
 
-**mi abita singapur.** I live in Singapore.
+**mi ju singapur.** I live in Singapore.
 
-**kia ti abita sa hotel?** Do you live in this hotel?
+**kia ti ju sa hotel?** Do you live in this hotel?
 
 <!--
 
@@ -562,7 +563,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **** I give them a book.
 
-**ke habar?** What's new?
+**ke xabar?** What's new?
 -->
 
 
@@ -587,7 +588,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **fem** woman <small>(French _femme_)</small>
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** have; there is <small>(Portuguese _há_)</small>
-**habar** news <small>(Malay _khabar_)</small>
+**xabar** news <small>(Malay _khabar_)</small>
 **i** and <small>(Polish _i_)</small>
 **jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
 **jia** home <small>(Mandarin _jiā_ 家)</small>

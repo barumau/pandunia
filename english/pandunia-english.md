@@ -56,11 +56,11 @@ badan : body
 bagaje : luggage (baggage)
 bai : white
 bal : strong (force)
-balde : bucket
+baldi : bucket
 balkon : balcony (porch)
 balu : sand
 bambu : bamboo
-ban : board (plank)
+ban : child (offspring)
 bana : build (construct)
 banan : banana
 banda : band
@@ -89,6 +89,7 @@ bazar : market (bazaar)
 baze : base (foundation)
 bebe : baby
 bede : bed
+bei : verb of passive
 belarus : Belarus
 belgi : Belgium
 beng : sick (ill)
@@ -106,6 +107,7 @@ bis : kiss
 bite : ask (request; please)
 bizar : weird (strange)
 bizi : busy (occupied)
+blu : blue
 bobo : fool (idiot)
 boi : boy
 boikot : boycott
@@ -132,7 +134,7 @@ bunduk : rifle
 bur : bad (not good)
 bus : bus
 buton : key (push-button)
-buton ban : keyboard
+buton paban : keyboard
 ##c
 cabi : key
 cak : doubt (disbelief)
@@ -171,15 +173,16 @@ dane : seed
 dania : Denmark
 danke : thanks (thank you)
 dans : dance
-dante : tooth
-dante broc : tooth brush
-dante doktor : dentist
+dant : tooth
+dant broc : tooth brush
+dant doktor : dentist
 dap : answer (response)
 dar : give
 darba : strike (punch)
 daria : sea (ocean)
 darma : dharma (piety)
 darsa : lesson
+darsa ban : student (pupil)
 darsa guru : teacher
 darsa kan : school (institution)
 dau : way (road)
@@ -220,6 +223,7 @@ doitce : German
 dok : read
 doktor : doctor (physician)
 dolar : dollar
+dom : house
 domino : dominoes
 dong : east
 dou : bean or pea (legume)
@@ -269,6 +273,7 @@ far : far
 farsi : Persian (Farsi)
 faru : rhinoceros
 fasin : fascinate
+feber : fiever
 fei : fly
 fem : woman (female)
 fen : part (fraction)
@@ -333,8 +338,8 @@ gola : throat (gullet)
 gom : rubber
 gon : past (former, gone)
 gong : work (labor)
+gong jen : worker
 gong kan : workplace
-gong ren : worker
 goro : pig
 goro nama : pork
 goton : cotton
@@ -365,11 +370,12 @@ hamar : hammer
 hamir : yeast
 hanguk : South Korea
 harmoni : harmony
+hat : hand
 hata : even (up to)
 hawa : air
 helen : Greek (Hellenic)
 helmet : helmet
-hen : hate
+hen : very
 hewan : animal
 hibride : hybrid (mongrel)
 hima : snow
@@ -417,16 +423,22 @@ izi : easy
 ja : already
 jadi : if (suppose, assume)
 jaket : jacket (coat)
+jan : know
 janela : window
 jele : gel (jelly)
 jelos : jealous
+jen : person (people)
 jeni : genius
 jeste : gesture
+jia : home
 jiraf : giraffe
 jiva : live (life)
 jiva logi : biology (study of life)
+joga : play (have fun)
+jok : joke
 jovan : young
 ju : live (reside)
+jumla : sentence (phrase)
 jung : melt
 jup : skirt
 jus : juice
@@ -534,7 +546,7 @@ kuan : wide
 kuang : mineral (ore)
 kuang sui : mineral water
 kul : cool
-kupa : dome
+kupa : dome (vault)
 kuper : copper
 kupon : coupon
 kura : care (cure)
@@ -550,6 +562,7 @@ lai : come
 lai salam : welcome
 laji : rubbish (trash)
 laka : lacquer (varnish)
+lal : red
 lala : lie (lie down)
 lampa : lamp
 lanka : Sri Lanka
@@ -568,6 +581,7 @@ leter : letter (message)
 letis : lettuce
 libel : dragonfly
 liber : free (unchained)
+licu : squirrel
 lida : lead (direct)
 lietuva : Lithuania
 liga : connect (join, link)
@@ -622,7 +636,6 @@ mango : mango
 mangus : mangosteen
 mani : mania (frenzy)
 manioka : cassava (manioc)
-mano : hand
 mantu : dumpling
 manuc : human being
 mar : time (occasion)
@@ -636,10 +649,10 @@ masa : mass (lump)
 masala : issue
 masim : most (maximally)
 maska : mask (camouflage)
+mat : forbid (don't!)
 matce : match (contest)
 matci : fish
 mater : matter (substance)
-mati : death
 matras : mattress
 matur : mature (ripe, adult)
 mau : cat
@@ -686,6 +699,7 @@ moral : morality (ethics)
 mos : moss
 mosim : season
 moskit : mosquito
+mot : death (dead)
 motor : engine (motor)
 mudan : peony
 mudi : aim (objective)
@@ -730,7 +744,6 @@ nepal : Nepal
 net : net
 nice : niche (alcove)
 nide : need
-nil : blue
 nilon : nylon
 nipon : Japan
 nitro : nitrogen
@@ -762,9 +775,12 @@ ordu : horde (wandering troop)
 orgazme : orgasm
 oskur : dark (dim)
 ##p
+paban : board (plank)
 pagri : turban
 pai : pie (pastry)
 pak : pack (package)
+paket : packet
+paki : bird
 pakistan : Pakistan
 pal : fruit
 palma : palm tree
@@ -804,6 +820,7 @@ pilot : pilot
 pin : needle (pin)
 ping : flat
 pingo : apple
+pinse : pliers (pincers)
 pipa : pipe
 piper : pepper
 piping : criticize
@@ -855,7 +872,6 @@ razon : reason (rational thinking)
 re : again
 rebel : rebellion
 redi : ready (prepare)
-ren : person
 reset : recipe
 resid : receit
 restoran : restaurant
@@ -1005,6 +1021,7 @@ tcakra : wheel
 tcaku : knife
 tcampion : champion
 tcap : press (stamp)
+tcar : four (4)
 tcat : chat (informal conversation)
 tcat kamar : chat room
 tcaya : shadow
@@ -1040,6 +1057,7 @@ timen : you
 tin : can (tin can)
 ting : thing
 tip : type (category)
+tira : pull
 tiran : tyrant
 titan : titanium
 titcin : bow instrument (violin, etc.)
@@ -1061,6 +1079,7 @@ tulip : tulip
 tundra : tundra
 tunel : tunnel
 tunel tren : subway (metro)
+tung : hurt (pain)
 tunis : Tunisia
 tur : tour (trip)
 turkia : Turkey
@@ -1116,7 +1135,6 @@ wai : outside (exterior)
 wai ting wazir kan : ministry of foreign affairs
 wakil : represent (to)
 wan : bowl (earless cup)
-wang : monarch (king, queen)
 waris : heritage (bequest)
 wazir : minister (politician)
 wazir kan : ministry
@@ -1127,13 +1145,16 @@ win : win (victory)
 xabar : news
 xali : empty
 xalif : caliph
-xan : ruler (khan)
+xan : monarch (king, queen)
 xaos : chaos (disorder, turmoil)
-xarap : bad (spoiled)
+xarap : bad (ruined, spoiled)
 xas : special (distinct)
 xatar : danger (peril)
+xazin : treasure (treasury)
 xema : tent
+xen : hate
 xiyar : cucumber
+xolera : cholera
 xor : choir (chorus)
 ##y
 yak : yak
@@ -1161,7 +1182,7 @@ yureka : find (discover)
 zafran : saffron
 zaitun : olive
 zalim : mean (cruel)
-zaman : age (epoch)
+zaman : period (age, epoch)
 zambia : Zambia
 zarduc : Zoroaster
 zarura : necessary (critical)

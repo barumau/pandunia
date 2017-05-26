@@ -412,8 +412,8 @@ More precise expressions of place and time are expressed with _a preposition + a
 > **mi deng na dur de ti son.** - I wait for the time when you sleep.
 > **na lok de** - at the place of
 > **mi deng na lok de ti toka.** - I wait at the place where you left.
-> **na xia de** - under, below
-> **un kuta lala na xia de meza.** - A dog lies under the table.
+> **na cia de** - under, below
+> **un kuta lala na cia de meza.** - A dog lies under the table.
 > **na men de** - on the surface of
 > **un mau lala na men de meza.** - A cat lies on the table.
 
@@ -431,7 +431,7 @@ In addition, a preposition can be followed immediately by a verb.
 
 **na ante** before. **na bada** after.
 **na cen** in front. **na pice** behind.
-**na xia** under, below. **na gau** over, above.
+**na cia** under, below. **na gau** over, above.
 **na jin** near. **na long** far away. **na visin** beside, next to.
 
 
