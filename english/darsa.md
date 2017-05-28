@@ -231,7 +231,7 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia ti yem kafe o tca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia ti yem kafe u tca?** = Hello! Would you like to have coffee or tea?  
 ☺: **tca.** = Tea.  
 ☻: **i ti?** = And you?  
 ○: **mi no sabi pandunia...** = I don't speak Pandunia...  

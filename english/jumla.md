@@ -128,9 +128,9 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **sa e pingo.** This is an apple.
 
-**sa e ruje pingo.** This is a red apple.
+**sa e lal pingo.** This is a red apple.
 
-**sa pingo ruje.** This apple is red.
+**sa pingo lal.** This apple is red.
 
 Note: When an adjective, like **ruje**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -185,7 +185,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **ye. ta e doktor.** Yes. He/she is a doctor.
 
 **kia ha vin?** Do you have wine?
-**ye. bai i ruje.** Yes, white and red.
+**ye. bai i lal.** Yes, white and red.
 
 
 
@@ -195,7 +195,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **sa man no e doktor.** That man is not a doctor.
 
-**sa pingo no ruje.** This apple is not red.
+**sa pingo no lal.** This apple is not red.
 
 
 
@@ -422,7 +422,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" ye mana ke?** What does "mau" mean?
 
-**ta mana un yang de hewan.** It means a kind of animal.
+**ta mana yang de hewan.** It means a kind of animal.
 
 **mi no aha ta mana ke.** I don't understand what it means.
 
@@ -442,7 +442,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia ti sabi baca englic?** Can you speak English?
 
-**frans, espan, portugal, ruski** French, Spanish, Portuguese, Russian
+**frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
 **putong han, nipon, indonesia** Chinese, Japanese, Indonesian
 
@@ -579,16 +579,15 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
 **baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
 **bite** ask, request <small>(German _bitten_)</small>
+**blu** blue <small>(English _blue_)</small>
 **bon** good <small>(French _bon_)</small>
-**budi** understand <small>(Hindi _buddhi_ बुद्धि)</small>
-**tca** tea <small>(Mandarin _chá_ 茶)</small>
+**cam** evening <small>(Hindi _śām_ शाम )</small>
 **den** day <small>(Russian _den'_ день)</small>
 **e** to be <small>(Portuguese _é_)</small>
 **englic** English
 **fem** woman <small>(French _femme_)</small>
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** have; there is <small>(Portuguese _há_)</small>
-**xabar** news <small>(Malay _khabar_)</small>
 **i** and <small>(Polish _i_)</small>
 **jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
 **jia** home <small>(Mandarin _jiā_ 家)</small>
@@ -600,6 +599,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ketci** polite <small>(Mandarin _kèqi_ 客气)</small>
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>
 **lai** come <small>(Vietnamese _lai_)</small>
+**lal** red <small>(Bengali _lal_)</small>
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>
 **man** man <small>(English _man_)</small>
 **mana** to mean; meaning <small>(Swahili _maana_)</small>
@@ -614,12 +614,12 @@ All words of Pandunia are loan words from other languages that are spoken around
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
 **ren** person <small>(Mandarin _rén_ 人)</small>
-**lal** red <small>(Bengali _lal_)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
 **sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>
 **suba** morning <small>(Wolof _subba_)</small>
+**tca** tea <small>(Mandarin _chá_ 茶)</small>
 **ti** you <small>(Russian _ty_ ты)</small>
 **timen** you all
 **ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>
@@ -627,9 +627,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **vide** see, look <small>(Russian _videt'_ видеть)</small>
 **u** or <small>(French _ou_)</small>
 **vol** want <small>(Italian _volere_)</small>
-**cam** evening <small>(Hindi _śām_ शाम )</small>
+**wang** yellow <small>(Cantonese _wong_)</small>
+**xabar** news <small>(Malay _khabar_)</small>
 **ye** yes <small>(Korean 예 _ye_)</small>
-**yelo** yellow <small>(English _yellow_)</small>
 **yem** eat, drink <small>(Turkish _yemek_)</small>
 
 

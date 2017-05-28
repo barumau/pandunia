@@ -11,7 +11,7 @@
 
 **den salam!** Bonan tagon!
 
-**xam salam!** Bonan vesperon!
+**cam salam!** Bonan vesperon!
 
 **noce salam!** Bonan nokton!
 
@@ -113,9 +113,9 @@
 
 **sa e pingo.** Tio estas pomo.
 
-**sa e roxu pingo.** Tio estas ruĝa pomo.
+**sa e lal pingo.** Tio estas ruĝa pomo.
 
-**sa pingo roxu.** Tiu pomo ruĝas.
+**sa pingo lal.** Tiu pomo ruĝas.
 
 
 
@@ -169,7 +169,7 @@
 **ye. ta e doktor.** Jes. Ŝi/li estas doktoro.
 
 **kia ha vin?** Ĉu vi havas vinon?
-**ye. bai i roxu.** Jes, blankan kaj ruĝan.
+**ye. bai i lal.** Jes, blankan kaj ruĝan.
 
 
 
@@ -179,7 +179,7 @@
 
 **sa man no e doktor.** Tiu viro ne estas doktoro.
 
-**sa pingo no roxu.** Tiu pomo ne estas ruĝa.
+**sa pingo no lal.** Tiu pomo ne estas ruĝa.
 
 
 
@@ -211,7 +211,7 @@
 
 **mi nesese mede.** Mi bezonas helpon.
 
-**kia ni ken mede mi?** Ĉu vi povas helpi min?
+**kia ti ken mede mi?** Ĉu vi povas helpi min?
 
 **kia mi ken mede ti?** Ĉu mi povas helpi vin?
 
@@ -259,23 +259,23 @@
 
 
 
-### cing <small>peti</small>
+### bite <small>peti</small>
 
-**mi cing ti yem ca.** Mi petas ke vi trinku teon.
+**mi bite ti yem ca.** Mi petas ke vi trinku teon.
 
-**mi cing ti lai jia.** Mi petas ke vi venu hejmen.
+**mi bite ti lai jia.** Mi petas ke vi venu hejmen.
 
-**mi cing ti mede mi.** Mi petas ke vi helpu min.
+**mi bite ti mede mi.** Mi petas ke vi helpu min.
 
 > Notu! Faru mallongajn petojn forlasante la pronomojn.
 
-**cing yem ca.** Bonvolu trinki teon!
+**bite yem ca.** Bonvolu trinki teon!
 
-**cing yem kafe.** Bonvolu trinki kafon!
+**bite yem kafe.** Bonvolu trinki kafon!
 
-**cing lai jia.** Bonvolu veni hejmen!
+**bite lai jia.** Bonvolu veni hejmen!
 
-**cing mede mi.** Bonvolu helpi min.
+**bite mede mi.** Bonvolu helpi min.
 
 
 <!--
@@ -292,7 +292,7 @@
 
 **danke ti mede mi.** Thanks for helping me.
 
-**ti keci.** You're welcome. (Literally: _You're polite._)
+**ti ketci.** You're welcome. (Literally: _You're polite._)
 
 
 
@@ -348,21 +348,21 @@ Part 3: Communication
 
 ### sabi <small>know how</small>
 
-**mi sabi cala kare.** I can drive a car.
+**mi sabi cala gar.** I can drive a car.
 
-**ta no sabi cala kare.** S/he doesn't know how to drive a car.
+**ta no sabi cala gar.** S/he doesn't know how to drive a car.
 
-**kia ti sabi xuli ta?** Do you know how to fix it?
+**kia ti sabi culi ta?** Do you know how to fix it?
 
 **kia ti sabi pandunia?** Do you speak Pandunia?
 
 **mi sabi pandunia.** I speak Pandunia.
 
-**mi sabi xau pandunia.** I speak a little Pandunia.
+**mi sabi cau pandunia.** I speak a little Pandunia.
 
-**mi no sabi engli.** I don't speak angla.
+**mi no sabi englic.** I don't speak angla.
 
-**mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
+**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
 
 
 
@@ -384,7 +384,7 @@ Part 3: Communication
 
 **mi no ken audi ti.** I can't hear you.
 
-**cing loga kuwa.** Please speak louder.
+**bite loga kuat.** Please speak louder.
 
 **mi audi musik.** I listen to music.
 
@@ -535,17 +535,17 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bai** blanka <small>(mandarenĉina _bái_ 白)</small>
 **batu** ŝtono <small>(indonezia _batu_)</small>
 **bazar** bazaro, vendoplaco <small>(persa _bāzār_ بازار)</small>
-**baxa** lingvo <small>(hindia _bhāśā_ भाषा)</small>
+**baca** lingvo <small>(hindia _bhāśā_ भाषा)</small>
+**bite** peti <small>(mandarenĉina _qǐng_ 请)</small>
+**blu** blua <small>(angla _blue_)</small>
 **bon** bona <small>(franca _bon_)</small>
-**budi** kompreni <small>(hindia _buddhi_ बुद्धि)</small>
-**ca** teo <small>(mandarenĉina _chá_ 茶)</small>
-**cing** peti <small>(mandarenĉina _qǐng_ 请)</small>
+**cam** vespero <small>(hindia _śām_ शाम )</small>
 **den** tago <small>(rusa _den'_ день)</small>
 **e** esti <small>(portugala _é_)</small>
+**englic** angla <small>(angla _English_)</small>
 **fem** virino <small>(franca _femme_)</small>
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** havi <small>(portugala _há_)</small>
-**habar** novaĵoj <small>(malaja _khabar_)</small>
 **i** kaj <small>(pola _i_)</small>
 **jan** scii <small>(hindia _jānnā_ जानना)</small>
 **jia** hejmo <small>(mandarenĉina _jiā_ 家)</small>
@@ -557,6 +557,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>
 **kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>
 **lai** veni <small>(vjetnama _lai_)</small>
+**lal** ruĝa <small>(bangla _lal_)</small>
 **mama** patrino <small>(mandarenĉina _māma_ 妈妈)</small>
 **man** viro <small>(angla _man_)</small>
 **mana** signifi <small>(sŭahila _maana_)</small>
@@ -571,12 +572,13 @@ All words of Pandunia are loan words from other languages that are spoken around
 **papa** patro <small>(rusa _papa_ папа)</small>
 **pingo** pomo <small>(mandarenĉina _píngguǒ_ 苹果)</small>
 **ren** persono <small>(mandarenĉina _rén_ 人)</small>
-**roxu** ruĝa <small>(rumana _roșu_)</small>
+**lal** ruĝa <small>(rumana _roșu_)</small>
 **sa** tiu <small>(haitia _sa_)</small>
 **sabi** scipovi <small>(niĝeria piĝino _sabi_)</small>
 **safar** vojaĝi <small>(araba _safar_ سفر)</small>
 **salam** saluti <small>(araba _salām_ سلام)</small>
 **suba** mateno <small>(ŭolofa _subba_)</small>
+**tca** teo <small>(mandarenĉina _chá_ 茶)</small>
 **ti** vi (singulare) <small>(rusa _ty_ ты)</small>
 **timen** vi (plurale)
 **ta** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>
@@ -584,73 +586,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **vide** vidi, rigardi <small>(rusa _videt'_ видеть)</small>
 **u** aŭ <small>(franca _ou_)</small>
 **vol** voli <small>(itala _volere_)</small>
-**xam** vespero <small>(hindia _śām_ शाम )</small>
+**wang** flava <small>(kantonĉina _wong_)</small>
+**xabar** novaĵoj <small>(malaja _khabar_)</small>
 **ye** jes <small>(korea 예 _ye_)</small>
 **yelo** flava <small>(angla _yellow_)</small>
 **yem** manĝi, trinki <small>(turka _yemek_)</small>
-
-
-
-<!--
-****  <small>()</small>
-**loga** talk, speak <small>()</small>
-**logi** study, research <small>()</small>
-**magi** magic <small>()</small>
-****  <small>()</small>
-http://bwari.tripod.com/FGGCABUJA/id18.html
--->
-
-<!--
-
-Grammar
--------
-
-This part is for those who want to understand the mechanics of the language. It's not mandatory to read it. You can learn Pandunia perfectly well by studying example sentences and words. Remember, a language is learned _for real_ by using it, not by learning a set of rules!
-
-Pandunia is an analytic language. It means that its grammar is all about the word order (i.e. the syntax). It doesn't deal with words because all words are separate, unchanging and uninflected. The role of a word is decided by its place in a sentence, not by its form or ending!
-
-Basically the grammar of Pandunia consists of sentence templates. The fundamental ones are listed below.
-
-PP : personal pronoun
-NP : noun phrase
-TAM : tense, aspect or mood particle
-
-1. Noun phrase (NP) types
-    1. noun
-        - **hua** flower
-    2. adjective + noun
-        - **roxu hua** red flower
-    3. noun + noun : compound word
-        - **ca kopa** tea cup
-    4. noun + verb : compound word (where the verb functions as a noun)
-        - **suba yem** morning meal (morning eating)
-    5. verb + noun : compound word
-        - **yem ci** : eater (eating doer)
-    6. verb + verb
-        - **baxa loji** communication study
-    7. number + adjective + noun
-        - **du roxu hua** two red flowers
-2. Predicate phrase types
-    1. PP + NP : predicate of identity
-        - **me man.** - I'm a man.
-        - **ta sara.** - She is Sara.
-    2. NP + TAM + NP : predicate of identity
-        - **sa fem ye sara.** That woman is Sara.
-    3. NP + (TAM) + adjective : predicate of state
-        - **hua roxu.** Flower is red.
-        - **sa hua gon roxu.** That flower was red.
-    4. PP + verb + NP : active predicate
-        - **me vide un roxu hua.** I see a red flower.
-    5. NP + TAM + verb + NP : active predicate
-        - **sara ye vide le roxu hua.** Sara sees the red flower.
-        - **tim no vide ta.** Tim doesn't see it.
-    6. PP + verb + PP + verb + NP : the pivot structure
-        - **me vol ti lai jia.** I want you to come home.
-    7. verb + PP + verb + NP : template for questions and other modalities
-        - **kia ti lai jia gon?** Did you come home already?
-    8. verb + verb + NP : template for requests and commands
-        - **cing lai jia.** Please come home.
-        - **bana lai jia!** Don't come home!
-
--->
 

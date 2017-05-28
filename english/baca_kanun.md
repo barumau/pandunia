@@ -194,7 +194,7 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 **mi vide se** - I see myself.
 **ta vide se** - She sees herself. / He sees himself.
-**mimen vida se.** - We see ourselves.
+**mimen vide se.** - We see ourselves.
 
 
 ### Demonstrative pronouns
@@ -432,7 +432,7 @@ In addition, a preposition can be followed immediately by a verb.
 **na ante** before. **na bada** after.
 **na cen** in front. **na pice** behind.
 **na cia** under, below. **na gau** over, above.
-**na jin** near. **na long** far away. **na visin** beside, next to.
+**na djin** near. **na long** far away. **na visin** beside, next to.
 
 
 
