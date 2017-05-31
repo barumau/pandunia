@@ -158,7 +158,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **kia ti bon?** How are you? (Literally: _Are you good?_)
 **mi bon.** I'm good.
-**ti ne?** And you?
+**kia ti?** And you?
 **mi no bon.** I'm not good.
 
 
@@ -203,7 +203,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **mi jan ta.** I know him/her.
 
-**kia ti jan sa ren?** Do you know that person?
+**kia ti jan sa jen?** Do you know that person?
 
 **kia timen jan alise?** Do you know each other?
 
@@ -225,7 +225,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### mede <small>help</small>
 
-**mi nesese mede.** I need help.
+**mi neses mede.** I need help.
 
 **kia ti ken mede mi?** Can you help me?
 
@@ -250,7 +250,7 @@ Note: Unlike English, Pandunia doesn't have separate singular and plural forms. 
 
 **mi yem kafe.** I drink coffee.
 
-Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy!
+Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
 **mi yem kafe i pan.** I'm having coffee and bread.
 
@@ -270,7 +270,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **no. mi no vol tca. mi vol kafe.** No, I don't want tea. I want coffee.
 
 **ti vol ke pingo?** Which apple do you want?
-**sa ruje.** This red one.
+**sa lal.** This red one.
 
 
 
@@ -320,28 +320,28 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### nesese <small>need</small>
+### neses <small>need</small>
 
-**mi nesese mede.** I need help.
+**mi neses mede.** I need help.
 
-**mi nesese yem.** I'm hungry.
+**mi neses yem.** I'm hungry.
 
-**kia ti nesese yem?** Are you hungry?
+**kia ti neses yem?** Are you hungry?
 
-**kia ti nesese sui?** Are you thirsty?
+**kia ti neses sui?** Are you thirsty?
 
 
 
 
 ## Part 3. Communication
 
-### mafu <small>sorry, pardon</small>
+### maf <small>sorry, pardon</small>
 
-**mafu! mi no aha.** Sorry, I don't understand.
+**maf! mi no aha.** Sorry, I don't understand.
 
-**mafu! sa ke?** Excuse me, what's this?
+**maf! sa ke?** Excuse me, what's this?
 
-**mafu. ti nam ke?** Excuse me, what's your name?
+**maf. ti nam ke?** Excuse me, what's your name?
 
 
 
@@ -351,7 +351,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi aha.** I understand.
 
-**mafu. mi no aha ti.** Sorry. I don't understand you.
+**maf. mi no aha ti.** Sorry. I don't understand you.
 
 **mi no bas aha ti.** I didn't quite understand you.
 
@@ -361,7 +361,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### sabi <small>know how</small>
 
-**mi sabi tcala gar.** I can drive a car.
+**mi sabi gida gar.** I can drive a car.
 
 **ta no sabi tcala gar.** S/he doesn't know how to drive a car.
 
@@ -375,7 +375,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no sabi englic.** I don't speak English.
 
-**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
+**maf. mi no sabi ti ge baca.** Sorry, I don't speak your language.
 
 
 
@@ -590,6 +590,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ha** have; there is <small>(Portuguese _há_)</small>
 **i** and <small>(Polish _i_)</small>
 **jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
+**jen** person <small>(Mandarin _rén_ 人)</small>
 **jia** home <small>(Mandarin _jiā_ 家)</small>
 **kafe** coffee <small>(German _Kaffee_)</small>
 **kara** black <small>(Turkish _kara_)</small>
@@ -606,14 +607,12 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mede** help <small>(French _aider_)</small>
 **mi** I, me <small>(Swahili _mimi_)</small>
 **mimen** we
-**nesese** need; necessary <small>(Haitian Creole _nesesè_)</small>
-**nili** blue <small>(Kannada _nīli_)</small>
+**neses** need; necessary <small>(Haitian Creole _nesesè_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **notce** night <small>(Spanish _noche_)</small>
 **nun** now, currently <small>(German _nun_)</small>
 **papa** father <small>(Russian _papa_ папа)</small>
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
-**ren** person <small>(Mandarin _rén_ 人)</small>
 **sa** this; that <small>(Haitian Creole _sa_)</small>
 **sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>

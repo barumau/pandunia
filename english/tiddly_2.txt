@@ -1,4 +1,4 @@
-a	ah!
+a1	ah!
 adres	address
 adulte	adult
 afrika	Africa
@@ -35,6 +35,7 @@ asal	origin
 asan	posture (asana)
 asia	Asia
 asket	ascetic
+asma	asthma
 aspirin	aspirin
 ata	flour
 atak	attack
@@ -76,7 +77,7 @@ barat	India
 barbar	barbarian
 barda	beard
 baru	bear
-barut	gunpowder
+barud	gunpowder
 bas	enough (sufficient)
 basen	pool (basin)
 bat	eight (8)
@@ -93,6 +94,7 @@ belgi	Belgium
 beng	sick (ill)
 benzin	gasoline (petrol)
 beret	beret
+bet	house
 beton	concrete (material with cement)
 bi	with (by means of)
 bi no	without
@@ -103,6 +105,7 @@ bin	pot (bin)
 bir	beer
 bis	kiss
 bite	ask (request; please)
+bite lai in!	Come in!
 bizar	weird (strange)
 bizi	busy (occupied)
 blu	blue
@@ -135,6 +138,7 @@ buton	key (push-button)
 buton paban	keyboard
 cabi	key
 cak	doubt (disbelief)
+cakal	jackal
 cal	scarf (shawl)
 cam	evening
 cam den	afternoon
@@ -219,7 +223,7 @@ doitce	German
 dok	read
 doktor	doctor (physician)
 dolar	dollar
-dom	house
+dom	home (household)
 domino	dominoes
 dong	east
 dou	bean or pea (legume)
@@ -236,7 +240,7 @@ duman	smoke
 duna	dune
 dunia	world
 dura	last (take time)
-e	be
+e1	be
 eglis	church
 ekran	screen
 ekuador	Ecuador
@@ -388,8 +392,7 @@ huli	fox
 humus	chickpea
 humus sos	hummus
 hura	hooray (cheer)
-i	and
-i/u	and/or
+i1	and
 ibri	Hebrew
 idea	idea
 iman	belief, faith, creed
@@ -399,6 +402,7 @@ incala	hope (wish)
 indji	ginger
 indonesia	Indonesia
 informa	inform (communicate)
+ingai	should (ought)
 inspira	inspire (inspiration)
 interes	interest (interesting)
 intervu	interview
@@ -471,6 +475,7 @@ karaoke	karaoke
 karate	karate
 karde	card
 kari	curry
+karo	square
 karot	carrot
 kasa	case (container)
 kastan	chestnut
@@ -499,13 +504,13 @@ kimi logi	chemistry
 kira	rent
 kirat	carat
 kisma	fate (destiny)
-kitaba	write
-kitaba kan	library
+kitab	write
+kitab kan	library
 kiwi	kiwi fruit
 klar	clear (not obscured)
 klas	class (category)
 klub	club
-kode	code (cipher)
+kod	code (cipher)
 koi	some
 kok	chicken
 koko	coco
@@ -530,13 +535,13 @@ kosmos	space (cosmos, universe)
 kosta	shore (coast)
 kot	coat
 krem	cream
-kristo	Christ
 krita	cry (shout)
 krus	cross
 kuan	wide
 kuang	mineral (ore)
 kuang sui	mineral water
 kul	cool
+kuli	porter (coolie)
 kupa	dome (vault)
 kuper	copper
 kupon	coupon
@@ -656,6 +661,7 @@ meme	sheep
 memori	memory
 men	surface
 mes	month
+mesi	messiah (Christ)
 metal	metal
 metre	metre
 mexiko	Mexico
@@ -712,10 +718,10 @@ na in	in (inside)
 na men	on (on the surface)
 na wai	out (outside)
 nabat	plant (vegetable)
+nabi	prophet
 nadi	river
 nafas	breath
 naidjiria	Nigeria
-nakun	nail (fingernail)
 nale	tomorrow
 nam	name
 nama	meat (flesh)
@@ -725,13 +731,14 @@ narak	hell
 nas	people (folk)
 nasia	nation
 nau	brain
+naxun	nail (fingernail)
 nen	year
 nen festa	anniversary
 nenufar	water lily (nenuphar)
 nepal	Nepal
+neses	need
 net	net
 nice	niche (alcove)
-nide	need
 nilon	nylon
 nipon	Japan
 nitro	nitrogen
@@ -751,7 +758,7 @@ numer	number
 numer un	first (number one)
 nun	now
 nuton	newton (N)
-o	oh!
+o1	oh!
 okei	okay (acceptable)
 oksi	oxygen
 oma	grandmother
@@ -778,6 +785,7 @@ pang	thick (fat)
 pantalon	pants (trousers)
 panyo	friend
 papa	father
+papagai	parrot (parakeet)
 papaya	papaya
 paper	paper
 paraguay	Paraguay
@@ -817,6 +825,7 @@ plastik	plastic
 plat	plate
 plus	also (plus, too)
 poker	poker
+poli	much (many, lots)
 polis	police
 politik	politics
 polska	Poland
@@ -899,7 +908,7 @@ salam	greeting (hello)
 salim	surrender (to give up)
 sam	same
 sama	sky (heaven)
-san	three
+san	three (3)
 sanduk	box (chest)
 sang	blood
 sani	sleigh (sledge)
@@ -975,7 +984,7 @@ super	super (superb)
 sura	chapter (section)
 suriname	Suriname
 svedia	Sweden
-ta	he or she
+ta	he or she or it
 tabak	tobacco
 tabar	axe (hatchet)
 tabia	nature (environment)
@@ -988,6 +997,7 @@ tal	bottom
 tala	lock
 talka	bee (communal work)
 tamar	date fruit
+tambur	drum
 tamen	they
 tank	tank (container)
 tanzania	Tanzania
@@ -1066,7 +1076,7 @@ tung	hurt (pain)
 tunis	Tunisia
 tur	tour (trip)
 turkia	Turkey
-u	or
+u1	or
 udas	sad
 ukrayina	Ukraine
 ulu	howling
@@ -1128,12 +1138,13 @@ xali	empty
 xalif	caliph
 xan	monarch (king, queen)
 xaos	chaos (disorder, turmoil)
-xarap	bad (ruined, spoiled)
+xarab	bad (ruined, spoiled)
 xas	special (distinct)
 xatar	danger (peril)
 xazin	treasure (treasury)
 xema	tent
 xen	hate
+xerub	cherub
 xiyar	cucumber
 xolera	cholera
 xor	choir (chorus)
@@ -1169,6 +1180,7 @@ ze	from (since)
 zimbabwe	Zimbabwe
 zina	adultery (infidelity)
 zink	zinc
+zira	cumin
 zizi	fly (housefly)
 zon	belt (zone)
 zukam	cold (illness)

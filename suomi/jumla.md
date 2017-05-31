@@ -138,13 +138,13 @@ Vinkki: Pronominia **ta** käytetään sekä miehistä että naisista. Kuten voi
 
 **sa e pingo.** Tämä on omena.
 
-**sa e roxu pingo.** Tämä on punainen omena.
+**sa e lal pingo.** Tämä on punainen omena.
 
-**sa pingo roxu.** Tämä omena on punainen.
+**sa pingo lal.** Tämä omena on punainen.
 
 Huom! Kun adjektiivi, kuten **roxu**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
-**ta roxu.** Se on punainen.
+**ta lal.** Se on punainen.
 
 
 ### nam <small>nimi, olla nimeltään</small>
@@ -167,9 +167,9 @@ Huom! Kun adjektiivi, kuten **roxu**, on ennen substantiivia, se toimii määree
 
 Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **kia**. Se on ihan tavallinen verbi eikä mikään kysymyspartikkeli. Itse asiassa edellinen kysymys on lyhennetty muoto lauseesta **mi kia ti doktor.** (Minä kysyn, oletko sinä lääkäri.) Alussa oleva, itsestään selvä pronomini vain jätetään pois.
 
-**kia ti bon?** Kuinka voit? (Sananmukaisesti: _Oletko hyvä?_)
+**kia ti bon?** Kuinka voit? (Sananmukaisesti: _Oletko hyvin?_)
 **mi bon.** Voin hyvin.
-**ti ne?** Entä sinä?
+**kia ti?** Entä sinä?
 **mi no bon.** Minä en voi hyvin.
 
 
@@ -180,7 +180,7 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 **ta no ha pesa.** Hänellä ei ole rahaa.
 
-**mi vole ha nova fon.** Minä haluan saada uuden puhelimen.
+**mi vol ha nova fon.** Minä haluan saada uuden puhelimen.
 
 **kia ti ha ana?** Onko sinulla lapsia?
 **mi ha du ana.** Minulla on kaksi lasta.
@@ -196,7 +196,7 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 **ye. ta e doktor.** Kyllä. Hän on lääkäri.
 
 **kia ha vin?** Onko teillä viiniä?
-**ye. bai i roxu.** Kyllä, valkoista ja punaista.
+**ye. bai i lal.** Kyllä, valkoista ja punaista.
 
 
 
@@ -206,7 +206,7 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 **sa man no e doktor.** Tuo mies ei ole lääkäri.
 
-**sa pingo no roxu.** Tämä omena ei ole punainen.
+**sa pingo no lal.** Tämä omena ei ole punainen.
 
 
 
@@ -214,7 +214,7 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 **mi jan ta.** Minä tunnen hänet.
 
-**kia ti jan sa ren?** Tunnetko tuon henkilön?
+**kia ti jan sa jen?** Tunnetko tuon henkilön?
 
 **kia timen jan alise?** Tunnetteko toisenne?
 
@@ -222,395 +222,239 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 
 
-### ge <small>'s</small>
+### ge <small>-n, oma</small>
 
+**ta e mi ge mama.** Hän on minun äiti.
 
+**ta e mi ge man.** Hän on minun mies.
 
-### mede <small>help</small>
+**ta e mi ge fem.** Hän on minun vaimo/nainen.
 
-**mi nide mede.** I need help.
+**tomas e sara ge panyo.** Tomas on Saran ystävä.
 
-**kia ni ken mede me?** Can you help me?
 
-**kia mi ken mede ti?** Can I help you?
 
+### mede <small>auttaa</small>
 
+**mi neses mede.** Minä tarvitsen apua.
 
-## Part 2: Eating
+**kia ni ken mede mi?** Voitko auttaa minua?
 
+**kia mi ken mede ti?** Voinko auttaa sinua?
 
-### yem <small>consume, eat, drink</small>
 
-**kia ti vole yem koi?** Would you like to eat something?
 
-**ta yem pingo.** He/she eats an apple.
+## Osa 2: Ruokailu
 
-**tamen yem pingo.** They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
+### yem <small>syödä, juoda</small>
 
-**kia ti yem kafe?** Do you drink coffee?
+**kia ti vol yem koi?** Haluaisitko syödä jotakin?
 
-**mi yem kafe.** I drink coffee.
+**ta yem pingo.** Hän syö omenaa.
 
-Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy!
+**tamen yem pingo.** He syövät omenoita.
 
-**mi yem kafe i pan.** I'm having coffee and bread.
+Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **pingo** voi tarkoittaa yhtä tai useampaa omenaa.
 
+**kia ti yem kafe?** Juotko kahvia?
 
+**mi yem kafe.** Minä juon kahvia.
 
-### vole <small>want</small>
+Vinkki: Sana **yem** sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**ti vole yem ke?** What would you like to eat?
+**mi yem kafe i pan.** Minä nautin kahvia ja leipää.
 
-Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi vole yem kafe.** I want to drink coffee.
 
-**kia ti vole yem tca?** Would you like to drink tea?
-**no. mi no vole tca. mi vole kafe.** No, I don't want tea. I want coffee.
+### vol <small>haluta</small>
 
-**ti vole ke pingo?** Which apple do you want?
-**sa roxu.** This red one.
+**kia ti vol yem?** Haluaisitko syödä?
 
+**ti vol yem ke?** Mitä haluaisit syödä?
 
+Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke** on samalla paikalla kuin normaalissakin lauseessa.
 
-### bite <small>request, please</small>
+**mi vol yem kafe.** Minä haluan juoda kahvia.
 
-**mi bite ti yem tca.** I ask you to drink tea.
+**kia ti vol yem tca?** Haluaisitko juoda teetä.
+**no. mi no vol tca. mi vol kafe.** Ei, minä en halua teetä. Minä haluan kahvia.
 
-**mi bite ti lai jia.** I ask you to come home.
+**ti vol ke pingo?** Minkä omenan haluat?
+**sa lal.** Tuon punaisen.
 
-**mi bite ti mede mi.** I ask you to help me.
 
-Tip: To make direct requests, drop all the pronouns.
 
-**bite yem tca.** Please, have some tea!
+### bite <small>pyytää</small>
 
-**bite yem kafe.** Please, have some coffee!
+**mi bite ti yem tca.** Minä pyydän sinua juomaan teetä.
 
-**bite lai jia.** Please, come home!
+**mi bite ti lai jia.** Minä pyydän sinua tulemaan kotiin.
 
-**bite mede mi.** Please, help me.
+**mi bite ti mede mi.** Minä pyydän sinua auttamaan minua.
 
+Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
+**bite yem tca.** Juopa teetä.
 
-### danke <small>thank</small>
+**bite yem kafe.** Juopa kahvia.
 
-**danke!** Thanks!
+**bite lai jia.** Tulepa kotiin.
 
-**danke ti.** Thank you.
+**bite mede mi.** Autapa minua.
 
-**mi danke ti.** I thank you.
 
-**mi danke ti mede mi.** I thank you for helping me.
 
-**danke ti mede mi.** Thanks for helping me.
+### danke <small>kiittää</small>
 
-**ti ketci.** You're welcome. (Literally: _You're polite._)
+**danke!** Kiitos!
 
+**danke ti.** Kiitos sinulle.
 
+**mi danke ti.** Minä kiitän sinua.
 
-### mafu <small>sorry, pardon</small>
+**mi danke ti mede mi.** Minä kiitän sinua minun auttamisesta.
 
-**mafu! mi no aha.** Sorry, I don't understand.
+**danke ti mede mi.** Kiitos kun autoit minua.
 
-**mafu! sa ke?** Excuse me, what's this?
+**ti ketci.** Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
 
-**mafu. ti nam ke?** Excuse me, what's your name?
 
 
-Part 3: Communication
----------------------
+### haide <small>tehkäämme</small>
 
+**haide yem!** Syökäämme!
 
+**haide go yem!** Menkäämme syömään!
 
-### aha <small>understand</small>
+**haide go jia.** Menkäämme kotiin.
 
-**kia ti aha mi?** Do you understand me?
 
-**mi aha.** I understand.
 
-**mafu. mi no aha ti.** Sorry. I don't understand you.
+### neses <small>tarvita</small>
 
-**mi no bas aha ti.** I didn't quite understand you.
+**mi neses mede.** Tarvitsen apua.
 
-**mi aha nul.** I don't understand at all.
+**mi neses yem.** Minulla on nälkä. (Tarvitsen ruokaa.)
 
+**kia ti neses yem?** Onko sinulla nälkä?
 
+**kia ti neses sui?** Onko sinulla jano?
 
-### sabi <small>know how</small>
 
-**mi sabi cala kare.** I can drive a car.
 
-**ta no sabi cala kare.** S/he doesn't know how to drive a car.
 
-**kia ti sabi xuli ta?** Do you know how to fix it?
+## Osa 3. Viestintä
 
-**kia ti sabi pandunia?** Do you speak Pandunia?
+### maf <small>anteeksi</small>
 
-**mi sabi pandunia.** I speak Pandunia.
+**maf! mi no aha.** Anteeksi, minä en ymmärrä.
 
-**mi sabi xau pandunia.** I speak a little Pandunia.
+**maf! sa ke?** Anteeksi, mikä tämä on?
 
-**mi no sabi engli.** I don't speak English.
+**maf. ti nam ke?** Anteeksi, mikä sinun nimi on?
 
-**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
 
 
+### aha <small>ymmärtää</small>
 
+**kia ti aha mi?** Ymmärrätkö minua?
 
-<!--
+**mi aha.** Minä ymmärrän.
 
-**** See you later!
-**** See you tomorrow!
+**maf. mi no aha ti.** Anteeksi, minä en ymmärrä sinua.
 
-**** (I wish you) all the best!
+**mi no bas aha ti.** En aivan ymmärtänyt sinua.
 
-**** I will never forget you.
+**mi aha nul.** En ymmärrä yhtään.
 
-**** Don't worry! (Hakuna matata!)
 
-**toto okei** Everything is alright.
 
-**** Cheers!
+### sabi <small>osata</small>
 
-**** Are you hungry?
-**** Are you thirsty?
-**** Let's go eat!
+**mi sabi gida gar.** Osaan ajaa autolla.
 
-**** I study Pandunia.
+**ta no sabi tcala gar.** Hän ei osaa ajaa autolla.
 
-**** I can't hear you.
-**** Could you speak louder?
+**kia ti sabi culi ta?** Osaatko korjata sen?
 
-**** How do you say "" in Pandunia?
-**** Show me in the dictionary!
-**** What does this word mean?
-**** I don't remember.
+**kia ti sabi pandunia?** Osaatko panduniaa?
 
+**mi sabi pandunia.** Minä osaan panduniaa.
 
-**** Of course!
+**mi sabi cau pandunia.** Minä osaan vähän panduniaa.
 
+**mi no sabi englic.** Minä en osaa englantia.
 
-**** Where do you live?
+**maf. mi no sabi ti ge baca.** Anteeksi, en osaa sinun kieltäsi.
 
-**** I work at ...
 
-**** Do you like ...?
 
-**** I feel alright.
 
 
-**** Please, write here!
-**** Please, sit here!
 
-**** I rather stand.
 
-**** They wait for us.
-**** I wait for you in front of the house.
-**** We are being called.
-
-**** Where should I go?
-**** To whom should I go?
-
-**** Where is the theater?
-
-**** Where are you going?
-**** Let's go!
-**** Let's go by foot!
-
-
-**** I'm looking for the toilet.
-
-**** Go there / forward / back / left / right.
-**** Come here / back / to us.
-
-**** With pleasure!
-
-**** When does the party begin?
-
-**** They sell everything.
-
-**** I will buy a beer.
-
-**** How much does it cost?
-**** Nothing.
-**** It is cheap / expensive.
-
-**** What is it like?
-**** Is it new?
-
-**** Which is better?
-**** This is the best of all.
-
-**** You are right.
-
-
-**** Leave me alone!
-
-**** He/she sits in the room.
-
-**** I give them a book.
-
-
--->
-
-
-
-
-Part 3
-------
-
-
-### la <small>that, the one</small>
-
-**mi vole la haus.** I want the house.
-
-
-
-
-
-### loji <small>study, research</small>
-
-**mi sabi du baca.** I know two languages.
-
-**ta doku loji buku.** He/she reads a study book.
-
-Tip: Action words like **loji** and **baca** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
-
-**mi baca pandunia.** I speak Pandunia.
-
-
-**ke habar?** What's new?
-
-
-<!-- **mi loji kazu loji.** I study a case study. -->
-
-
-Word List
+Sanasto
 ----------
 
-All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
+Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapallon joka puolella. Luultavasti tunnistat paljonkin pandunian sanoja suomen, englannin ja muiden osaamiesi kielten kautta. Yleensä jokainen pandunian sana tunnetaan useammassa kielessä. Esimerkiksi **mama** ja **papa** (äiti ja isä) ovat käytössä sadoissa kielissä. Tässä sanastossa on tilan vuoksi kuitenkin esillä vain yksi "lähdekieli".
 
 
-**ama** but <small>(Turkish _ama_)</small>
-**batu** stone <small>(Indonesian _batu_)</small>
-**bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
-**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
-**bite** ask, request <small>(German _bitten_)</small>
-**bon** good <small>(French _bon_)</small>
-**budi** understand <small>(Hindi _buddhi_ बुद्धि)</small>
-**tca** tea <small>(Mandarin _chá_ 茶)</small>
-**den** day <small>(Russian _den'_ день)</small>
-**e** to be <small>(Portuguese _é_)</small>
-**fem** woman <small>(French _femme_)</small>
-**gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
-**ha** have; there is <small>(Portuguese _há_)</small>
-**habar** news <small>(Malay _khabar_)</small>
-**i** and <small>(Polish _i_)</small>
-**jia** home <small>(Mandarin _jiā_ 家)</small>
-**kafe** coffee <small>(German _Kaffee_)</small>
-**yem** eat, drink <small>(Hindi _khānā_ खाना)</small>
-**kara** black <small>(Turkish _kara_)</small>
-**kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>
-**katu** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
-**ke** what? who? <small>(Spanish _qué_)</small>
-**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>
-**kia** ask, question <small>(Hindi _kyā_ क्या)</small>
-**lai** come <small>(Vietnamese _lai_)</small>
-**mama** mother <small>(Mandarin _māma_ 妈妈)</small>
-**man** man <small>(English _man_)</small>
-**mede** help <small>(French _aider_)</small>
-**mi** I, me <small>(Swahili _mimi_)</small>
-**mimen** we
-**nili** blue <small>(Kannada _nīli_)</small>
-**no** no, not <small>(Spanish _no_)</small>
-**notce** night <small>(Spanish _noche_)</small>
-**nun** now, currently <small>(German _nun_)</small>
-**papa** father <small>(Russian _papa_ папа)</small>
-**pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
-**puti** white <small>(Filipino _puti_)</small>
-**ren** person <small>(Mandarin _rén_ 人)</small>
-**ruje** red <small>(French _rouge_)</small>
-**sa** this; that <small>(Haitian Creole _sa_)</small>
-**sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
-**safar** travel, journey <small>(Arabic _safar_ سفر)</small>
-**salam** greet; hello <small>(Arabic _salām_ سلام)</small>
-**suba** morning <small>(Wolof _subba_)</small>
-**ti** you <small>(Russian _ty_ ты)</small>
-**timen** you all
-**ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>
-**tamen** they <small>(Mandarin _tāmen_ 他们)</small>
-**vide** see, look <small>(Russian _videt'_ видеть)</small>
-**u** or <small>(French _ou_)</small>
-**vole** want <small>(Italian _volere_)</small>
-**cam** evening <small>(Hindi _śām_ शाम )</small>
-**ye** yes <small>(Korean 예 _ye_)</small>
-**yelo** yellow <small>(English _yellow_)</small>
+**ama** mutta <small>(turkki _ama_)</small>
+**bai** valkoinen <small>(yleiskiina _bái_ 白)</small>
+**batu** kivi <small>(indonesia _batu_)</small>
+**bazar** tori, basaari <small>(persia _bāzār_ بازار)</small>
+**baca** kieli <small>(hindi _bhāśā_ भाषा)</small>
+**bite** pyytää <small>(saksa _bitten_)</small>
+**blu** sininen <small>(englanti _blue_)</small>
+**bon** hyvä <small>(ranska _bon_)</small>
+**cam** ilta <small>(hindi _śām_ शाम )</small>
+**den** päivä <small>(venäjä _den'_ день)</small>
+**e** olla <small>(portugali _é_)</small>
+**fem** nainen <small>(ranska _femme_)</small>
+**gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>
+**ha** olla, omistaa <small>(portugali _há_)</small>
+**i** ja <small>(Polish _i_)</small>
+**jan** tietää, tuntea <small>(hindi _jānnā_ जानना)</small>
+**jen** henkilö <small>(yleiskiina _rén_ 人)</small>
+**jia** koti <small>(yleiskiina _jiā_ 家)</small>
+**kafe** kahvi <small>(saksa _Kaffee_)</small>
+**kara** musta <small>(turkki _kara_)</small>
+**kat** leikata, katkaista <small>(hindi ‎_kāṭnā_ काटना)</small>
+**kata** kertoa; tarina <small>(japani _kataru_ 語る)</small>
+**ke** mikä? kuka? <small>(espanja _qué_)</small>
+**ketci** kohtelias <small>(yleiskiina _kèqi_ 客气)</small>
+**kia** kysyä; kysymys <small>(hindi _kyā_ क्या)</small>
+**lai** tulla <small>(vietnami _lai_)</small>
+**lal** punainen <small>(bangla _lal_)</small>
+**mama** äiti <small>(yleiskiina _māma_ 妈妈)</small>
+**man** mies <small>(englanti _man_)</small>
+**mana** tarkoittaa, merkitä <small>(swahili _maana_)</small>
+**mede** auttaa; apu <small>(ranska _aider_)</small>
+**mi** minä <small>(swahili _mimi_)</small>
+**mimen** me
+**neses** tarvita <small>(Haitin kreoli _nesesè_)</small>
+**no** ei <small>(espanja _no_)</small>
+**notce** yö <small>(espanja _noche_)</small>
+**nun** nyt, nykyään <small>(saksa _nun_)</small>
+**papa** isä <small>(venäjä _papa_ папа)</small>
+**pingo** omena <small>(yleiskiina _píngguǒ_ 苹果)</small>
+**sa** tämä, tuo <small>(Haitin kreoli _sa_)</small>
+**sabi** osata <small>(Nigerian pidžin _sabi_)</small>
+**safar** matkustaa; matka <small>(arabia _safar_ سفر)</small>
+**salam** tervehtiä; terve <small>(arabia _salām_ سلام)</small>
+**suba** aamu <small>(wolof _subba_)</small>
+**tca** tee <small>(yleiskiina _chá_ 茶)</small>
+**ti** siinä <small>(venäjä _ty_ ты)</small>
+**timen** te
+**ta** hän, se <small>(yleiskiina _tā_ 他/她/它)</small>
+**tamen** he <small>(yleiskiina _tāmen_ 他们)</small>
+**vide** katsoa, nähdä <small>(venäjä _videt'_ видеть)</small>
+**u** tai <small>(ranska _ou_)</small>
+**vol** haluta <small>(italia _volere_)</small>
+**wang** keltainen <small>(kantoninkiina _wong_)</small>
+**xabar** uutinen <small>(malaiji _khabar_)</small>
+**ye** kyllä <small>(korea 예 _ye_)</small>
+**yem** syödä, juoda <small>(turkki _yemek_)</small>
 
-
-
-<!--
-****  <small>()</small>
-**loga** talk, speak <small>()</small>
-**loji** study, research <small>()</small>
-**magi** magic <small>()</small>
-****  <small>()</small>
-http://bwari.tripod.com/FGGCABUJA/id18.html
--->
-
-<!--
-
-Grammar
--------
-
-This part is for those who want to understand the mechanics of the language. It's not mandatory to read it. You can learn Pandunia perfectly well by studying example sentences and words. Remember, a language is learned _for real_ by using it, not by learning a set of rules!
-
-Pandunia is an analytic language. It means that its grammar is all about the word order (i.e. the syntax). It doesn't deal with words because all words are separate, unchanging and uninflected. The role of a word is decided by its place in a sentence, not by its form or ending!
-
-Basically the grammar of Pandunia consists of sentence templates. The fundamental ones are listed below.
-
-PP : personal pronoun
-NP : noun phrase
-TAM : tense, aspect or mood particle
-
-1. Noun phrase (NP) types
-    1. noun
-        - **hua** flower
-    2. adjective + noun
-        - **roxu hua** red flower
-    3. noun + noun : compound word
-        - **tca kopa** tea cup
-    4. noun + verb : compound word (where the verb functions as a noun)
-        - **suba yem** morning meal (morning eating)
-    5. verb + noun : compound word
-        - **yem ci** : eater (eating doer)
-    6. verb + verb
-        - **baca loji** communication study
-    7. number + adjective + noun
-        - **du roxu hua** two red flowers
-2. Predicate phrase types
-    1. PP + NP : predicate of identity
-        - **me man.** - I'm a man.
-        - **ta sara.** - She is Sara.
-    2. NP + TAM + NP : predicate of identity
-        - **sa fem ye sara.** That woman is Sara.
-    3. NP + (TAM) + adjective : predicate of state
-        - **hua roxu.** Flower is red.
-        - **sa hua gon roxu.** That flower was red.
-    4. PP + verb + NP : active predicate
-        - **me vide un roxu hua.** I see a red flower.
-    5. NP + TAM + verb + NP : active predicate
-        - **sara ye vide le roxu hua.** Sara sees the red flower.
-        - **tim no vide ta.** Tim doesn't see it.
-    6. PP + verb + PP + verb + NP : the pivot structure
-        - **me vole ti lai jia.** I want you to come home.
-    7. verb + PP + verb + NP : template for questions and other modalities
-        - **kia ti lai jia gon?** Did you come home already?
-    8. verb + verb + NP : template for requests and commands
-        - **bite lai jia.** Please come home.
-        - **bana lai jia!** Don't come home!
-
--->
 

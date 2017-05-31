@@ -19,11 +19,9 @@ Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido
 
 ## Keskustelua panduniasta
 
-Muita pandunian harrastajia voit löytää internetissä seuraavista paikoista:
+Useat ihmiset harrastavat panduniaa. Panduniaa käsitteleviä englanninkielisiä foorumeita on [Redditissä](https://www.reddit.com/r/pandunia/), [Facebookissa](http://www.facebook.com/groups/pandunia) ja [Telegramissa](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw).
 
-- Facebookin suomenkielinen [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet)
-- [Pandunian Facebook-ryhmä](http://www.facebook.com/groups/pandunia) (enimmäkseen englanniksi)
-- [Telegram-pikaviestiryhmä](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
-- [Keskusteluryhmä](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia) : Liity sähköpostitse lähettämällä tyhjä viesti osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
-- Yhteyshenkilö: Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
+Suomeksi panduniasta voi keskustella Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä. Toinen paikka on Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet). Pandunialla on myös oma mutta hiljainen [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia), johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
+
+Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 

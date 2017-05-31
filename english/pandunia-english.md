@@ -1,4 +1,3 @@
-a : ah!
 ##a
 adres : address
 adulte : adult
@@ -46,6 +45,7 @@ avar : damage (wreck)
 aventur : adventure
 ax : argh!
 ayiti : Haiti
+a : ah!
 ##b
 baca : language
 baca logi : linguistics
@@ -240,7 +240,6 @@ duman : smoke
 duna : dune
 dunia : world
 dura : last (take time)
-e : be
 ##e
 eglis : church
 ekran : screen
@@ -258,6 +257,7 @@ euro : euro
 europa : Europe
 europa uni : European Union (EU)
 exo : echo
+e : be
 ##f
 fai : fire
 faida : use (utility, benefit)
@@ -396,8 +396,6 @@ huli : fox
 humus : chickpea
 humus sos : hummus
 hura : hooray (cheer)
-i : and
-i/u : and/or
 ##i
 ibri : Hebrew
 idea : idea
@@ -408,6 +406,7 @@ incala : hope (wish)
 indji : ginger
 indonesia : Indonesia
 informa : inform (communicate)
+ingai : should (ought)
 inspira : inspire (inspiration)
 interes : interest (interesting)
 intervu : interview
@@ -420,6 +419,7 @@ it : brick
 italia : Italy
 itiopia : Ethiopia
 izi : easy
+i : and
 ##j
 ja : already
 jadi : if (suppose, assume)
@@ -541,7 +541,6 @@ kosmos : space (cosmos, universe)
 kosta : shore (coast)
 kot : coat
 krem : cream
-kristo : Christ
 krita : cry (shout)
 krus : cross
 kuan : wide
@@ -669,6 +668,7 @@ meme : sheep
 memori : memory
 men : surface
 mes : month
+mesi : messiah (Christ)
 metal : metal
 metre : metre
 mexiko : Mexico
@@ -729,7 +729,6 @@ nabat : plant (vegetable)
 nadi : river
 nafas : breath
 naidjiria : Nigeria
-nakun : nail (fingernail)
 nale : tomorrow
 nam : name
 nama : meat (flesh)
@@ -739,13 +738,14 @@ narak : hell
 nas : people (folk)
 nasia : nation
 nau : brain
+naxun : nail (fingernail)
 nen : year
 nen festa : anniversary
 nenufar : water lily (nenuphar)
 nepal : Nepal
+neses : need
 net : net
 nice : niche (alcove)
-nide : need
 nilon : nylon
 nipon : Japan
 nitro : nitrogen
@@ -765,7 +765,6 @@ numer : number
 numer un : first (number one)
 nun : now
 nuton : newton (N)
-o : oh!
 ##o
 okei : okay (acceptable)
 oksi : oxygen
@@ -776,6 +775,7 @@ or : ear
 ordu : horde (wandering troop)
 orgazme : orgasm
 oskur : dark (dim)
+o : oh!
 ##p
 paban : board (plank)
 pagri : turban
@@ -833,6 +833,7 @@ plastik : plastic
 plat : plate
 plus : also (plus, too)
 poker : poker
+poli : much (many, lots)
 polis : police
 politik : politics
 polska : Poland
@@ -917,7 +918,7 @@ salam : greeting (hello)
 salim : surrender (to give up)
 sam : same
 sama : sky (heaven)
-san : three
+san : three (3)
 sanduk : box (chest)
 sang : blood
 sani : sleigh (sledge)
@@ -994,7 +995,7 @@ sura : chapter (section)
 suriname : Suriname
 svedia : Sweden
 ##t
-ta : he or she
+ta : he or she or it
 tabak : tobacco
 tabar : axe (hatchet)
 tabia : nature (environment)
@@ -1085,7 +1086,6 @@ tung : hurt (pain)
 tunis : Tunisia
 tur : tour (trip)
 turkia : Turkey
-u : or
 ##u
 udas : sad
 ukrayina : Ukraine
@@ -1099,6 +1099,7 @@ uran : uranium
 urdun : Jordan
 uruguai : Uruguay
 usa : USA
+u : or
 ##v
 vaksin : vaccine
 vale : valley

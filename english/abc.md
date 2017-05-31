@@ -30,7 +30,7 @@ Consonant Sounds
     p  b  f  v  m  w
     t  d  s  z  n  l  r
           c  j     y
-    k  g  h  x  ng
+    k  g  x  h  ng
 
 Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, k, l, m, n, p, t, v, z** is familiar and easy.
 
