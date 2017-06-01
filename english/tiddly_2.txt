@@ -1,4 +1,4 @@
-a1	ah!
+a	ah!
 adres	address
 adulte	adult
 afrika	Africa
@@ -80,6 +80,7 @@ baru	bear
 barud	gunpowder
 bas	enough (sufficient)
 basen	pool (basin)
+basket	basket
 bat	eight (8)
 batata	yam (sweet potato)
 bateri	battery
@@ -93,6 +94,7 @@ belarus	Belarus
 belgi	Belgium
 beng	sick (ill)
 benzin	gasoline (petrol)
+beranda	veranda (porch)
 beret	beret
 bet	house
 beton	concrete (material with cement)
@@ -104,6 +106,7 @@ bibi	baby (darling)
 bin	pot (bin)
 bir	beer
 bis	kiss
+biskut	biscuit (cookie)
 bite	ask (request; please)
 bite lai in!	Come in!
 bizar	weird (strange)
@@ -137,6 +140,7 @@ bus	bus
 buton	key (push-button)
 buton paban	keyboard
 cabi	key
+caca	rustle
 cak	doubt (disbelief)
 cakal	jackal
 cal	scarf (shawl)
@@ -144,6 +148,7 @@ cam	evening
 cam den	afternoon
 cam salam	Good evening
 cam yem	dinner
+camba	field (countryside)
 can	mountain (hill)
 canti	peace (calm)
 carbon	coal (carbon)
@@ -240,7 +245,7 @@ duman	smoke
 duna	dune
 dunia	world
 dura	last (take time)
-e1	be
+e	be
 eglis	church
 ekran	screen
 ekuador	Ecuador
@@ -304,6 +309,7 @@ futur	future
 gabar	grave (tomb)
 gada	donkey (ass)
 gadja	elephant
+galeri	gallery (exhibition hall)
 gamel	camel
 gami	marriage (matrimony)
 gana	sing (song)
@@ -350,6 +356,7 @@ gua	cave
 guanci	connection (relationship)
 guang	light (illumination)
 gubu	hippopotamus
+gun	quality (attribute, property, characteristic, -ness)
 guru	guru (mentor)
 gusta	taste (sense the flavor)
 gut	bone
@@ -392,7 +399,7 @@ huli	fox
 humus	chickpea
 humus sos	hummus
 hura	hooray (cheer)
-i1	and
+i	and
 ibri	Hebrew
 idea	idea
 iman	belief, faith, creed
@@ -758,7 +765,7 @@ numer	number
 numer un	first (number one)
 nun	now
 nuton	newton (N)
-o1	oh!
+o	oh!
 okei	okay (acceptable)
 oksi	oxygen
 oma	grandmother
@@ -860,6 +867,7 @@ radio	radio
 ramazan	Ramadan
 randa	plane (plane tool)
 rang	color
+rapid	fast (quick)
 rasa	race (ethnicity)
 rasti	grow
 razon	reason (rational thinking)
@@ -877,6 +885,7 @@ rit	ritual (ceremony)
 ritme	rhythm (beat)
 roket	rocket
 rol	role
+rola	roll
 rom	rum
 roma	Rome
 ron	cry (weep)
@@ -887,7 +896,6 @@ rotor	rotor (rotator)
 roza	rose
 ruk	back
 ruk sak	backpack (rucksack)
-rulo	roll
 rupa	appearance (looks)
 rutin	routine
 sa	this or that
@@ -980,7 +988,7 @@ sun	soon
 sundar	beautiful (handsome)
 suomi	Finland
 sup	soup
-super	super (superb)
+super	superb (wonderful, super)
 sura	chapter (section)
 suriname	Suriname
 svedia	Sweden
@@ -1017,6 +1025,7 @@ tcap	press (stamp)
 tcar	four (4)
 tcat	chat (informal conversation)
 tcat kamar	chat room
+tcatar	umbrella (parasol)
 tcaya	shadow
 tcek	check (to examine)
 tcelo	cello
@@ -1065,6 +1074,7 @@ tren	train
 tren dau	railway (railroad)
 tsan	produce (manufacture)
 tsuka	vinegar
+tualet	toilet (WC)
 tubu	tube (pipe)
 tufan	storm (tempest)
 tul	tool
@@ -1076,7 +1086,8 @@ tung	hurt (pain)
 tunis	Tunisia
 tur	tour (trip)
 turkia	Turkey
-u1	or
+tuzi	rabbit (hare)
+u	or
 udas	sad
 ukrayina	Ukraine
 ulu	howling
@@ -1099,6 +1110,7 @@ ver	true (real)
 verme	worm
 vide	look (see)
 vide maidan	visual field (field of vision)
+video	video
 viet	Vietnam
 viman	airplane
 vin	wine

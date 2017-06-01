@@ -35,6 +35,7 @@ asal : origin
 asan : posture (asana)
 asia : Asia
 asket : ascetic
+asma : asthma
 aspirin : aspirin
 ata : flour
 atak : attack
@@ -78,9 +79,10 @@ barat : India
 barbar : barbarian
 barda : beard
 baru : bear
-barut : gunpowder
+barud : gunpowder
 bas : enough (sufficient)
 basen : pool (basin)
+basket : basket
 bat : eight (8)
 batata : yam (sweet potato)
 bateri : battery
@@ -94,7 +96,9 @@ belarus : Belarus
 belgi : Belgium
 beng : sick (ill)
 benzin : gasoline (petrol)
+beranda : veranda (porch)
 beret : beret
+bet : house
 beton : concrete (material with cement)
 bi : with (by means of)
 bi no : without
@@ -104,7 +108,9 @@ bibi : baby (darling)
 bin : pot (bin)
 bir : beer
 bis : kiss
+biskut : biscuit (cookie)
 bite : ask (request; please)
+bite lai in! : Come in!
 bizar : weird (strange)
 bizi : busy (occupied)
 blu : blue
@@ -137,12 +143,15 @@ buton : key (push-button)
 buton paban : keyboard
 ##c
 cabi : key
+caca : rustle
 cak : doubt (disbelief)
+cakal : jackal
 cal : scarf (shawl)
 cam : evening
 cam den : afternoon
 cam salam : Good evening
 cam yem : dinner
+camba : field (countryside)
 can : mountain (hill)
 canti : peace (calm)
 carbon : coal (carbon)
@@ -223,7 +232,7 @@ doitce : German
 dok : read
 doktor : doctor (physician)
 dolar : dollar
-dom : house
+dom : home (household)
 domino : dominoes
 dong : east
 dou : bean or pea (legume)
@@ -307,6 +316,7 @@ futur : future
 gabar : grave (tomb)
 gada : donkey (ass)
 gadja : elephant
+galeri : gallery (exhibition hall)
 gamel : camel
 gami : marriage (matrimony)
 gana : sing (song)
@@ -353,6 +363,7 @@ gua : cave
 guanci : connection (relationship)
 guang : light (illumination)
 gubu : hippopotamus
+gun : quality (attribute, property, characteristic, -ness)
 guru : guru (mentor)
 gusta : taste (sense the flavor)
 gut : bone
@@ -482,6 +493,7 @@ karaoke : karaoke
 karate : karate
 karde : card
 kari : curry
+karo : square
 karot : carrot
 kasa : case (container)
 kastan : chestnut
@@ -510,13 +522,13 @@ kimi logi : chemistry
 kira : rent
 kirat : carat
 kisma : fate (destiny)
-kitaba : write
-kitaba kan : library
+kitab : write
+kitab kan : library
 kiwi : kiwi fruit
 klar : clear (not obscured)
 klas : class (category)
 klub : club
-kode : code (cipher)
+kod : code (cipher)
 koi : some
 kok : chicken
 koko : coco
@@ -547,6 +559,7 @@ kuan : wide
 kuang : mineral (ore)
 kuang sui : mineral water
 kul : cool
+kuli : porter (coolie)
 kupa : dome (vault)
 kuper : copper
 kupon : coupon
@@ -726,6 +739,7 @@ na in : in (inside)
 na men : on (on the surface)
 na wai : out (outside)
 nabat : plant (vegetable)
+nabi : prophet
 nadi : river
 nafas : breath
 naidjiria : Nigeria
@@ -794,6 +808,7 @@ pang : thick (fat)
 pantalon : pants (trousers)
 panyo : friend
 papa : father
+papagai : parrot (parakeet)
 papaya : papaya
 paper : paper
 paraguay : Paraguay
@@ -869,6 +884,7 @@ radio : radio
 ramazan : Ramadan
 randa : plane (plane tool)
 rang : color
+rapid : fast (quick)
 rasa : race (ethnicity)
 rasti : grow
 razon : reason (rational thinking)
@@ -886,6 +902,7 @@ rit : ritual (ceremony)
 ritme : rhythm (beat)
 roket : rocket
 rol : role
+rola : roll
 rom : rum
 roma : Rome
 ron : cry (weep)
@@ -896,7 +913,6 @@ rotor : rotor (rotator)
 roza : rose
 ruk : back
 ruk sak : backpack (rucksack)
-rulo : roll
 rupa : appearance (looks)
 rutin : routine
 ##s
@@ -990,7 +1006,7 @@ sun : soon
 sundar : beautiful (handsome)
 suomi : Finland
 sup : soup
-super : super (superb)
+super : superb (wonderful, super)
 sura : chapter (section)
 suriname : Suriname
 svedia : Sweden
@@ -1008,6 +1024,7 @@ tal : bottom
 tala : lock
 talka : bee (communal work)
 tamar : date fruit
+tambur : drum
 tamen : they
 tank : tank (container)
 tanzania : Tanzania
@@ -1027,6 +1044,7 @@ tcap : press (stamp)
 tcar : four (4)
 tcat : chat (informal conversation)
 tcat kamar : chat room
+tcatar : umbrella (parasol)
 tcaya : shadow
 tcek : check (to examine)
 tcelo : cello
@@ -1075,6 +1093,7 @@ tren : train
 tren dau : railway (railroad)
 tsan : produce (manufacture)
 tsuka : vinegar
+tualet : toilet (WC)
 tubu : tube (pipe)
 tufan : storm (tempest)
 tul : tool
@@ -1086,6 +1105,7 @@ tung : hurt (pain)
 tunis : Tunisia
 tur : tour (trip)
 turkia : Turkey
+tuzi : rabbit (hare)
 ##u
 udas : sad
 ukrayina : Ukraine
@@ -1111,6 +1131,7 @@ ver : true (real)
 verme : worm
 vide : look (see)
 vide maidan : visual field (field of vision)
+video : video
 viet : Vietnam
 viman : airplane
 vin : wine
@@ -1152,12 +1173,13 @@ xali : empty
 xalif : caliph
 xan : monarch (king, queen)
 xaos : chaos (disorder, turmoil)
-xarap : bad (ruined, spoiled)
+xarab : bad (ruined, spoiled)
 xas : special (distinct)
 xatar : danger (peril)
 xazin : treasure (treasury)
 xema : tent
 xen : hate
+xerub : cherub
 xiyar : cucumber
 xolera : cholera
 xor : choir (chorus)
@@ -1195,6 +1217,7 @@ ze : from (since)
 zimbabwe : Zimbabwe
 zina : adultery (infidelity)
 zink : zinc
+zira : cumin
 zizi : fly (housefly)
 zon : belt (zone)
 zukam : cold (illness)
