@@ -112,3 +112,93 @@ The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhe
 As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **baca**.
 
 
+### Examples of East Asian words
+
+#### jen (person)
+
+| Language   | Spoken form  | Written form    |
+|------------|--------------|-----------------|
+| Mandarin   | ʐən          | 人 (rén)     |
+| Wu         | ɲiŋ, zəŋ     | 人           |
+| Cantonese  | jɐn          | 人           |
+| Vietnamese | ɲɜn          | nhân         |
+| Korean     | in           | 인           |
+| Japanese   | niŋ, dʒiŋ    | 人           |
+
+
+#### hua (flower)
+
+| Language   | Spoken form  | Written form    |
+|------------|--------------|-----------------|
+| Mandarin   | hua          | 花           |
+| Wu         | hʊ                   | 花           |
+| Cantonese  | fa:          | 花           |
+| Vietnamese | hua:         | hoa          |
+| Korean     | hua          | 화           |
+| Japanese   | ka           | 花           |
+
+
+
+### Examples of words from Arabic
+
+#### ama (but)
+
+| Language   | Spoken  form | Written form    |
+|------------|--------------|-----------------|
+| Arabic     | ʾammā        | اما             |
+| Persian    | æmma         | اما             |
+| Urdu       | əmma         | اما             |
+| Tajik      | ammo         | аммо            |
+| Turkish    | ama          | ama             |
+| Hausa      | amma         | amma            |
+| Yoruba     | amɔ          | amọ             |
+
+#### dua (prayer)
+
+| Language   | Spoken  form | Written form    |
+|------------|--------------|-----------------|
+| Arabic     | duʿa:         | دعاء            |
+| Persian    | doʕa         | دعاء            |
+| Turkish    | dua          | dua             |
+| Kazakh     | duɣa         | дұға            |
+| Indonesian | doa          | doa             |
+| Hausa      | adduʕa       | addu'a          |
+| Yoruba     | adura        | àdúrà           |
+
+#### kitab (writing)
+
+This word means _book_ in many languages. The original Arabic word means all kinds of writing.
+
+| Language   | Spoken  form | Written form    |
+|------------|--------------|-----------------|
+| Arabic     | kita:b       | كتاب             |
+| Persian    | keta:b       | کتاب             |
+| Urdu       | kitab        | کتاب             |
+| Hindi      | kitab        | किताब             |
+| Indonesian | kitab        | kitab           |
+| Turkish    | kitap        | kitap           |
+| Oromo      | kita:ba      | kitaaba         |
+| Swahili    | kitabu       | kitabu          |
+
+
+
+<!--
+
+projet (planned endeavour)
+
+ris
+typical phenomen that there is a common word in regions where the word traveled late.
+
+pal (palamu)
+
+kitab
+kitab kan
+
+kamar
+kamis
+
+janela
+bandera
+-->
+
+

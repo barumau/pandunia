@@ -19,7 +19,6 @@ amerika : America (continent)
 amor : love
 amper : ampere
 amuk : rage (fury)
-ana : son or daughter
 analis : analyse
 andjil : gospel
 anime : animation (cartoon)
@@ -64,9 +63,8 @@ bambu : bamboo
 ban : child (offspring)
 bana : build (construct)
 banan : banana
-banda : band
-bandaje : bandage
-bandera : flag
+banda : band (bandage)
+bandera : flag (banner)
 bandi : prisoner (jailbird)
 bandi kan : prison
 bangla : Bangladesh (Bengal)
@@ -78,6 +76,7 @@ bar : bar (pub)
 barat : India
 barbar : barbarian
 barda : beard
+barka : congratulate
 baru : bear
 barud : gunpowder
 bas : enough (sufficient)
@@ -90,7 +89,7 @@ batu : stone
 bazar : market (bazaar)
 baze : base (foundation)
 bebe : baby
-bede : bed
+bed : bed
 bei : verb of passive
 belarus : Belarus
 belgi : Belgium
@@ -166,6 +165,7 @@ cifu : master (sensei)
 cigo : accident (mishap)
 cik : elegant (chic)
 cim : heart
+cin : new
 cir : poem
 cirop : syrup
 cok : shock (collide)
@@ -190,7 +190,7 @@ dar : give
 darba : strike (punch)
 daria : sea (ocean)
 darma : dharma (piety)
-darsa : lesson
+darsa : learn (study, lesson)
 darsa ban : student (pupil)
 darsa guru : teacher
 darsa kan : school (institution)
@@ -214,6 +214,7 @@ dewa logi : theology
 deya : village
 din : religion
 ding : nail (spike)
+diske : disc (disk)
 djang : fight (war)
 djangal : forest (jungle)
 djara : jug (jar)
@@ -336,13 +337,14 @@ gazel : gazelle
 ge : own (particle of possession)
 gem : game
 gen : root
+gida : drive
 giga : billion (giga-)
 gim : gold
 ging : respect (esteem)
 gitar : guitar
 glas : glass
 go : go
-gojia : country (land)
+godjia : country (land)
 gol : goal
 gola : throat (gullet)
 gom : rubber
@@ -410,7 +412,7 @@ hura : hooray (cheer)
 ##i
 ibri : Hebrew
 idea : idea
-iman : belief, faith, creed
+iman : believe (faith, creed)
 imperia : empire
 in : inside (interior)
 incala : hope (wish)
@@ -437,12 +439,12 @@ jadi : if (suppose, assume)
 jaket : jacket (coat)
 jan : know
 janela : window
+janu : knee
 jele : gel (jelly)
 jelos : jealous
 jen : person (people)
 jeni : genius
 jeste : gesture
-jia : home
 jiraf : giraffe
 jiva : live (life)
 jiva logi : biology (study of life)
@@ -459,7 +461,6 @@ kabau : water buffalo
 kabil : able (capable)
 kabila : tribe
 kabin : cabin (booth)
-kaca : catch (to hunt)
 kaca : porridge
 kafas : cage
 kafe : coffee
@@ -491,14 +492,15 @@ kar : make (do, act)
 kara : black
 karaoke : karaoke
 karate : karate
-karde : card
 kari : curry
 karo : square
 karot : carrot
+karta : card
 kasa : case (container)
 kastan : chestnut
 kat : cut
 kata : story (tale)
+katca : catch (to hunt)
 kava : dig (excavate)
 kawai : cute
 kazu : event (case, instance)
@@ -537,7 +539,7 @@ koloni : colony (settlemen)
 kolun : column (pillar)
 koma : comma
 kompani : company (corporation)
-komput : compute
+komputer : computer
 komun : common (shared)
 kona : corner
 konsel : advice (counsel)
@@ -552,6 +554,7 @@ kos : cough
 kosmos : space (cosmos, universe)
 kosta : shore (coast)
 kot : coat
+koz : reason (cause)
 krem : cream
 krita : cry (shout)
 krus : cross
@@ -560,6 +563,7 @@ kuang : mineral (ore)
 kuang sui : mineral water
 kul : cool
 kuli : porter (coolie)
+kultur : culture
 kupa : dome (vault)
 kuper : copper
 kupon : coupon
@@ -631,11 +635,12 @@ madjar : Hungary
 madju : harness
 madu : honey
 maf : sorry (pardon)
-mafan : trouble (bother)
+mafan : trouble (disturbance, bother)
 magi : magic
 maidan : square (plaza)
 mais : corn (maize)
 makala : article (writing)
+makan : butter
 makas : scissors
 makedonia : Macedonia
 mal : property (possession)
@@ -654,6 +659,7 @@ mantu : dumpling
 manuc : human being
 mar : time (occasion)
 mara : tree
+maraton : marathon
 marce : walk (march)
 margarin : margarine
 marka : mark (trace)
@@ -683,6 +689,7 @@ men : surface
 mes : month
 mesi : messiah (Christ)
 metal : metal
+metod : method
 metre : metre
 mexiko : Mexico
 meza : table
@@ -716,6 +723,7 @@ mosim : season
 moskit : mosquito
 mot : death (dead)
 motor : engine (motor)
+mucu : mouse
 mudan : peony
 mudi : aim (objective)
 muhim : important
@@ -737,6 +745,7 @@ na cia : below (under)
 na dura de : while (during)
 na in : in (inside)
 na men : on (on the surface)
+na vis de : instead of
 na wai : out (outside)
 nabat : plant (vegetable)
 nabi : prophet
@@ -753,6 +762,7 @@ nas : people (folk)
 nasia : nation
 nau : brain
 naxun : nail (fingernail)
+nederland : Netherlands
 nen : year
 nen festa : anniversary
 nenufar : water lily (nenuphar)
@@ -818,6 +828,7 @@ paskal : pascal
 pat : path
 paunde : pound (£)
 peca : job (occupation)
+ped : foot
 pei : pay (payment)
 pende : hang (dangle)
 penguin : penguin
@@ -844,6 +855,7 @@ piping : criticize
 pirat : pirate
 pitsa : pizza
 plan : plan
+planet : planet
 plastik : plastic
 plat : plate
 plus : also (plus, too)
@@ -866,7 +878,9 @@ poze : position (arrangement)
 pratik : practical
 presis : precise (exact, accurate)
 proba : try (attempt)
+problem : problem
 program : program
+projet : project (planned endeavour)
 proses : process (procedure)
 puder : powder
 puding : pudding
@@ -914,12 +928,12 @@ roza : rose
 ruk : back
 ruk sak : backpack (rucksack)
 rupa : appearance (looks)
+ruski : Russian (ethnic Russian)
 rutin : routine
 ##s
 sa : this or that
 sa djin : this (this over here)
 sa far : that (that over there)
-saba : reason (cause)
 sabat : Saturday
 sabi : know how
 sabun : soap
@@ -967,6 +981,7 @@ silsil : chain
 sin : sign (signal)
 singa : lion
 singapur : Singapore
+sir : secret
 sis : six (6)
 sismo : earthquake
 sismo logi : seismology
@@ -1062,10 +1077,10 @@ tekni logi : technology (study of techniques)
 tela : cloth (fabric, textile)
 tele : distant (tele-)
 tema : topic (theme)
-tenci : weather
 tene : hold (grasp)
 tenis : tennis
 tenta : tempt (entice)
+tentci : weather
 tep : tape
 teror : terror
 teste : test (challenge)
@@ -1082,7 +1097,8 @@ tira : pull
 tiran : tyrant
 titan : titanium
 titcin : bow instrument (violin, etc.)
-to : so (then)
+to : so (then, therefore)
+togo : Togo
 tomat : tomato
 ton : tone (pitch or shade)
 tong : barrel (can)
@@ -1160,12 +1176,14 @@ waha : oasis
 wai : outside (exterior)
 wai ting wazir kan : ministry of foreign affairs
 wakil : represent (to)
+wal : wall
 wan : bowl (earless cup)
 waris : heritage (bequest)
 wazir : minister (politician)
 wazir kan : ministry
 wen : circle (round)
 weste : west
+wiki : wiki
 win : win (victory)
 ##x
 xabar : news
