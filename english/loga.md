@@ -1,5 +1,5 @@
-International Words
-===================
+World Words
+===========
 
 Cultures of the world
 ---------------------
@@ -85,6 +85,8 @@ Words of Pandunia come from the following _language pools_. Each pool includes 5
 In practice many words are shared by two or more language pools. Pandunia favors international, intercontinental and global words. 
 
 
+## Examples
+
 ### Example: Selecting the word for "language"
 
 First possible candidates are searched from widely spoken languages. The search reveals that there are several words that are international.
@@ -96,27 +98,134 @@ First possible candidates are searched from widely spoken languages. The search 
 
 The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhere in India, Indochina and Malay archipelago, which are some of the most densely populated areas in the world.
 
-| Language   | Written form | Pronunciation |
-|------------|--------------|---------------|
-| Hindi      | भाषा          | /bʱaʂa/ |
-| Punjabi    | ਭਾਸ਼ਾ          | /bʱaʃa/ |
-| Gujarati   | ભાષા          | /bʱaʃa/ |
-| Marathi    | भाषा          | /bʱaɕa/ |
-| Bangla     | ভাষা           | /bʱaʃa/ |
-| Telugu     | భాష          | /baʃa/ |
-| Thai       | ภาษา         | /pʰa:sa:/ |
-| Indonesian | bahasa       | /bahasa/ |
-| Javanese   | basa         | /basa/ |
-| Sundanese  | basa         | /basa/ |
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Hindi      | bʱaʂa        | भाषा          |
+| Punjabi    | bʱaʃa         | ਭਾਸ਼ਾ          |
+| Gujarati   | bʱaʃa        | ભાષા          |
+| Marathi    | bʱaɕa        | भाषा          |
+| Bangla     | bʱaʃa        | ভাষা           |
+| Telugu     | baʃa         | భాష          |
+| Thai       | pʰa:sa:      | ภาษา         |
+| Indonesian | bahasa       | bahasa          |
+| Javanese   | basa         | basa            |
+| Sundanese  | basa         | basa            |
 
 As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **baca**.
+
+
+### Examples of global words
+
+#### bir (beer)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| German     | bi:ɐ         | Bier            |
+| English    | biəɹ         | beer            |
+| French     | biɛʁ         | bière           |
+| Italian    | birra        | birra           |
+| Turkish    | bira         | bira            |
+| Arabic     | bi:ra        | بيرَه            |
+| Amharic    | bira         | ቢራ              |
+| Rwanda     | bjere        | byere           |
+| Swahili    | bia          | bia             |
+| Hindi      | bijər        | बियर             |
+| Indonesian | bir          | bir             |
+| Japanese   | bi:ru        | ビール             |
+| Wu         | bi           | 啤(酒)            |
+| Mandarin   | pʰi          | 啤(酒)            |
+
+#### tca (tea)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Mandarin   | tʂʰa         | 茶 |
+| Japanese   | tʃa          | 茶 |
+| Korean     | tʃʰa         | 차 |
+| Vietnamese | tʂa          | trà             |
+| Bangla     | tʃa          | চা  |
+| Hindi      | tʃai         | चाय |
+| Russian    | tʃai         | чай             |
+| Swahili    | tʃai         | chai            |
+| Arabic     | ʃai          | شاي |
+| Portuguese | ʃa           | chá             |
+
+<!-- 
+#### kafe (coffee)
+-->
+
+#### motor (motor)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Spanish    | motor        | motor           |
+| English    | moʊtəɹ       | motor           |
+| French     | motœʁ        | moteur          |
+| Russian    | motor        | мотор           |
+| Turkish    | motor        | motor           |
+| Persian    | motor        | موتور            |
+| Arabic     | mutu:r       | موتور            |
+| Hindi      | motər        | मोटर             |
+| Japanese   | mo:ta:       | モーター         |
+| Mandarin   | muotuo       | 摩托              |
+
+<!-- salad guitar -->
+
+### Examples of semiglobal words
+
+#### bandera (flag)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Portuguese | bɐndeiɾa     | bandeira        |
+| Spanish    | bandieɾa     | bandiera        |
+| English    | bænəɹ        | banner          |
+| French     | baniɛʁ       | bannière        |
+| Indonesian | bəndera      | bendera         |
+| Amharic    | bandera      | ባንዴራ            |
+| Swahili    | bandera      | bandera         |
+| Kongo      | bande:la     | bandêla         |
+
+
+#### kamis (shirt)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Italian    | kamitʃa      | camicia         |
+| Spanish    | kamisa       | camisa          |
+| Portuguese | kɐmiza       | camisa          |
+| French     | ʃəmiz        | chemise         |
+| Arabic     | qami:s       | قميص           |
+| Amharic    | ʃəmiz        | ሸሚዝ             |
+| Urdu       | qami:z       | قمیض           |
+| Hindi      | qami:z       | क़मीज़             |
+| Indonesian | kəmedʒa      | kemeja          |
+| Filipino   | kamisa       | kamisa          |
+
+
+
+### Examples of South Asian words
+
+#### manuc (human being)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Hindi      | manuʂia      | मनुष्य          |
+| Bangla     | manuʃ        | মানুষ           |
+| Telugu     | manisi       | మనిషి      |
+| Tamil      | manitan      | மனிதன்         |
+| Khmer      | mɔnuh        | មនុស្ស     |
+| Thai       | manut        | มนุษย์          |
+| Indonesian | manusia      | manusia         |
+| Javanese   | manuŋsa      | manungsa        |
+
 
 
 ### Examples of East Asian words
 
 #### jen (person)
 
-| Language   | Spoken form  | Written form    |
+| Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
 | Mandarin   | ʐən          | 人 (rén)     |
 | Wu         | ɲiŋ, zəŋ     | 人           |
@@ -128,9 +237,9 @@ As you can see, the same word is written and pronounced differently in different
 
 #### hua (flower)
 
-| Language   | Spoken form  | Written form    |
+| Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
-| Mandarin   | hua          | 花           |
+| Mandarin   | hua          | 花 (huā)     |
 | Wu         | hʊ                   | 花           |
 | Cantonese  | fa:          | 花           |
 | Vietnamese | hua:         | hoa          |
@@ -138,12 +247,25 @@ As you can see, the same word is written and pronounced differently in different
 | Japanese   | ka           | 花           |
 
 
+#### lai (come)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Mandarin   | lai          | 来 (lái)       |
+| Wu         | lɛ                   | 来           |
+| Cantonese  | loi          | 來           |
+| Vietnamese | la:i         | lại          |
+| Korean     | lɛ           | 래           |
+| Japanese   | rai          | 來           |
+
+
+
 
 ### Examples of words from Arabic
 
 #### ama (but)
 
-| Language   | Spoken  form | Written form    |
+| Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
 | Arabic     | ʾammā        | اما             |
 | Persian    | æmma         | اما             |
@@ -155,7 +277,7 @@ As you can see, the same word is written and pronounced differently in different
 
 #### dua (prayer)
 
-| Language   | Spoken  form | Written form    |
+| Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
 | Arabic     | duʿa:         | دعاء            |
 | Persian    | doʕa         | دعاء            |
@@ -169,7 +291,7 @@ As you can see, the same word is written and pronounced differently in different
 
 This word means _book_ in many languages. The original Arabic word means all kinds of writing.
 
-| Language   | Spoken  form | Written form    |
+| Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
 | Arabic     | kita:b       | كتاب             |
 | Persian    | keta:b       | کتاب             |
@@ -181,8 +303,24 @@ This word means _book_ in many languages. The original Arabic word means all kin
 | Swahili    | kitabu       | kitabu          |
 
 
+### Examples of scattered words
+
+#### kamar (room, chamber)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| Italian    | kamera       | camera          |
+| Portuguese | kɐmaɾa       | câmara          |
+| Spanish    | kamaɾa       | cámara          |
+| German     | kamɐ         | Kammer          |
+| Hindi      | kəmra        | कमरा             |
+| Urdu       | kəmra        | کمرا      |
+| Indonesian | kamar        | kamar           |
 
 <!--
+
+#### janela (window)
+
 
 projet (planned endeavour)
 
@@ -191,14 +329,6 @@ typical phenomen that there is a common word in regions where the word traveled 
 
 pal (palamu)
 
-kitab
-kitab kan
-
-kamar
-kamis
-
-janela
-bandera
 -->
 
 

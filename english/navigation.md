@@ -11,7 +11,7 @@
 
 [Dictionary]()
 
-  * [Principles](loga.md)
+  * [World words](loga.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)
