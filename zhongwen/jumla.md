@@ -387,62 +387,61 @@ Tip: To make direct requests, drop all the pronouns.
 字典
 -----
 
-**ama** 但是 <small>(土耳其语 _ama_)</small>
-**bai** 白色 <small>(普通话 _bái_ 白)</small>
-**batu** 石头 <small>(印度尼西亚语 _batu_)</small>
-**bazar** 市场 <small>(波斯语 _bāzār_ بازار)</small>
-**baxa** 语言 <small>(印地语 _bhāśā_ भाषा)</small>
-**bon** 好 <small>(法语 _bon_)</small>
-**budi** 明白 <small>(印地语 _buddhi_ बुद्धि)</small>
-**ca** 茶 <small>(普通话 _chá_ 茶)</small>
-**cing** 请 <small>(普通话 _qǐng_ 请)</small>
-**den** 天 <small>(俄语 _den'_ день)</small>
-**e** 是 <small>(葡萄牙语 _é_)</small>
-**fem** 女人 <small>(法语 _femme_)</small>
-**gon** 过 <small>(泰语 _gɔ̀ɔn_ ก่อน)</small>
-**ha** 有 <small>(葡萄牙语 _há_)</small>
-**habar** 消息 <small>(马来语 _khabar_)</small>
-**i** 和 <small>(波兰语 _i_)</small>
-**jan** 知道 <small>(印地语 _jānnā_ जानना)</small>
-**jia** 家 <small>(普通话 _jiā_ 家)</small>
-**kafe** 咖啡 <small>(德语 _Kaffee_)</small>
-**kara** 黑色 <small>(土耳其语 _kara_)</small>
-**kat** 切 <small>(印地语 ‎_kāṭnā_ काटना)</small>
-**kata** 叙说 <small>(日语 _kataru_ 語る)</small>
-**ke** 什么，谁 <small>(西班牙语 _qué_)</small>
-**keci** 客气 <small>(普通话 _kèqi_ 客气)</small>
-**kia** 问，问题 <small>(印地语 _kyā_ क्या)</small>
-**lai** 来 <small>(越南语 _lai_)</small>
-**mama** 妈妈 <small>(普通话 _māma_ 妈妈)</small>
-**man** 男人 <small>(英语 _man_)</small>
-**mana** 意义 <small>(斯瓦希里语 _maana_)</small>
-**mede** 帮助 <small>(法语 _aider_)</small>
-**mi** 我 <small>(斯瓦希里语 _mimi_)</small>
-**mimen** 我们
-**nesese** 需要 <small>(Haitian Creole _nesesè_)</small>
-**nili** 蓝色 <small>(卡纳达语 _nīli_)</small>
-**no** 不 <small>(西班牙语 _no_)</small>
-**noce** 夜晚 <small>(西班牙语 _noche_)</small>
-**nau** 现在 <small>(英语 _now_)</small>
-**papa** 爸爸 <small>(俄语 _papa_ папа)</small>
-**pingo** 苹果 <small>(普通话 _píngguǒ_ 苹果)</small>
-**ren** 人 <small>(普通话 _rén_ 人)</small>
-**roxu** 红色 <small>(罗马尼亚语 _roșu_)</small>
-**sa** 这 <small>(海地语 _sa_)</small>
-**sabi** 会 <small>(尼日利亚话 _sabi_)</small>
-**safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>
-**salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>
-**suba** 早上 <small>(Wolof _subba_)</small>
-**ti** 你 <small>(俄语 _ty_ ты)</small>
-**timen** 你们
-**ta** 他，她，它 <small>(普通话 _tā_ 他/她/它)</small>
-**tamen** 他们 <small>(普通话 _tāmen_ 他们)</small>
-**vide** 看 <small>(俄语 _videt'_ видеть)</small>
-**u** 或 <small>(法语 _ou_)</small>
-**vol** 想要 <small>(意大利语 _volere_)</small>
-**xam** 晚上 <small>(印地语 _śām_ शाम )</small>
-**ye** 是，对 <small>(韩国语 예 _ye_)</small>
-**yelo** 黄色 <small>(英语 _yellow_)</small>
-**yem** 吃，喝 <small>(土耳其语 _yemek_)</small>
+**ama** 但是 <small>(土耳其语 _ama_)</small>  
+**bai** 白色 <small>(普通话 _bái_ 白)</small>  
+**batu** 石头 <small>(印度尼西亚语 _batu_)</small>  
+**bazar** 市场 <small>(波斯语 _bāzār_ بازار)</small>  
+**baca** 语言 <small>(印地语 _bhāśā_ भाषा)</small>  
+**bon** 好 <small>(法语 _bon_)</small>  
+**bite** 请 <small>(德语 _bitte_)</small>  
+**cam** 晚上 <small>(印地语 _śām_ शाम )</small>  
+**den** 天 <small>(俄语 _den'_ день)</small>  
+**dom** 家 <small>(俄语 _dom_ дом)</small>  
+**e** 是 <small>(葡萄牙语 _é_)</small>  
+**fem** 女人 <small>(法语 _femme_)</small>  
+**gon** 过 <small>(泰语 _gɔ̀ɔn_ ก่อน)</small>  
+**ha** 有 <small>(葡萄牙语 _há_)</small>  
+**i** 和 <small>(波兰语 _i_)</small>  
+**jan** 知道 <small>(印地语 _jānnā_ जानना)</small>  
+**kafe** 咖啡 <small>(德语 _Kaffee_)</small>  
+**kara** 黑色 <small>(土耳其语 _kara_)</small>  
+**kat** 切 <small>(印地语 ‎_kāṭnā_ काटना)</small>  
+**kata** 叙说 <small>(日语 _kataru_ 語る)</small>  
+**ke** 什么，谁 <small>(西班牙语 _qué_)</small>  
+**ketci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
+**kia** 问，问题 <small>(印地语 _kyā_ क्या)</small>  
+**lai** 来 <small>(越南语 _lai_)</small>  
+**lal** 红色 <small>(印地语 _lal_)</small>  
+**mama** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
+**man** 男人 <small>(英语 _man_)</small>  
+**mana** 意义 <small>(斯瓦希里语 _maana_)</small>  
+**mede** 帮助 <small>(法语 _aider_)</small>  
+**mi** 我 <small>(斯瓦希里语 _mimi_)</small>  
+**mimen** 我们  
+**nesese** 需要 <small>(Haitian Creole _nesesè_)</small>  
+**nili** 蓝色 <small>(卡纳达语 _nīli_)</small>  
+**no** 不 <small>(西班牙语 _no_)</small>  
+**notce** 夜晚 <small>(西班牙语 _noche_)</small>  
+**nau** 现在 <small>(英语 _now_)</small>  
+**papa** 爸爸 <small>(俄语 _papa_ папа)</small>  
+**pingo** 苹果 <small>(普通话 _píngguǒ_ 苹果)</small>  
+**jen** 人 <small>(普通话 _rén_ 人)</small>  
+**sa** 这 <small>(海地语 _sa_)</small>  
+**sabi** 会 <small>(尼日利亚话 _sabi_)</small>  
+**safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>  
+**salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>  
+**suba** 早上 <small>(Wolof _subba_)</small>  
+**tca** 茶 <small>(普通话 _chá_ 茶)</small>  
+**ti** 你 <small>(俄语 _ty_ ты)</small>  
+**timen** 你们  
+**ta** 他，她，它 <small>(普通话 _tā_ 他/她/它)</small>  
+**tamen** 他们 <small>(普通话 _tāmen_ 他们)</small>  
+**vide** 看 <small>(俄语 _videt'_ видеть)</small>  
+**u** 或 <small>(法语 _ou_)</small>  
+**vol** 想要 <small>(意大利语 _volere_)</small>  
+**ye** 是，对 <small>(韩国语 예 _ye_)</small>  
+**wang** 黄色 <small>(广东话 _wong_)</small>  
+**xabar** 消息 <small>(马来语 _khabar_)</small>  
+**yem** 吃，喝 <small>(土耳其语 _yemek_)</small>  
 
 

@@ -27,7 +27,7 @@ Some remarkable features of Pandunia:
 
 ## Join Others
 
-Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in [Reddit](https://www.reddit.com/r/pandunia/), [Facebook](http://www.facebook.com/groups/pandunia) and [Telegram](https://t.me/joinchat/AAAAAAdb7jo6_0kkHCxuJw).
+Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in [Reddit](https://www.reddit.com/r/pandunia/), [Facebook](http://www.facebook.com/groups/pandunia) and [Telegram](https://telegram.me/joinchat/AAAAAAdb7jo6_0kkHCxuJw).
 
 There is talk about Pandunia also in mailing lists. The official [Pandunia group](https://groups.yahoo.com/neo/groups/pandunia/info) can be joined by sending a blank email message [here](mailto:pandunia-subscribe@yahoogroups.com). Other related mailing lists include [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) and [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
 

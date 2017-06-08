@@ -278,7 +278,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi bite ti yem tca.** I ask you to drink tea.
 
-**mi bite ti lai jia.** I ask you to come home.
+**mi bite ti lai dom.** I ask you to come home.
 
 **mi bite ti mede mi.** I ask you to help me.
 
@@ -288,7 +288,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **bite yem kafe.** Please, have some coffee!
 
-**bite lai jia.** Please, come home!
+**bite lai dom.** Please, come home!
 
 **bite mede mi.** Please, help me.
 
@@ -316,7 +316,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **haide go yem!** Let's go eat!
 
-**haide go jia.** Let's go home.
+**haide go dom.** Let's go home.
 
 
 
@@ -458,7 +458,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ti go ke?** Where are you going?
 
-**mi go jia.** I'm going home.
+**mi go dom.** I'm going home.
 
 **mi mus go ke?** Where should I go?
 
@@ -477,7 +477,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi lai ze dubai.** I come from Dubai.
 
-**mi lai jia nale.** I will come home tomorrow.
+**mi lai dom nale.** I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
@@ -583,6 +583,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bon** good <small>(French _bon_)</small>
 **cam** evening <small>(Hindi _śām_ शाम )</small>
 **den** day <small>(Russian _den'_ день)</small>
+**dom** home <small>(Russian _dom_ дом)</small>
 **e** to be <small>(Portuguese _é_)</small>
 **englic** English
 **fem** woman <small>(French _femme_)</small>
@@ -591,7 +592,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **i** and <small>(Polish _i_)</small>
 **jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
 **jen** person <small>(Mandarin _rén_ 人)</small>
-**jia** home <small>(Mandarin _jiā_ 家)</small>
 **kafe** coffee <small>(German _Kaffee_)</small>
 **kara** black <small>(Turkish _kara_)</small>
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
