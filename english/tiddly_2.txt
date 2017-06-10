@@ -27,6 +27,7 @@ anten	antenna
 anus	anus
 ara	saw tool
 arabi	Arabic
+arena	arena (stadium)
 argentina	Argentina
 armi	army
 arte	art
@@ -102,6 +103,7 @@ bi no	without
 bi tema de	about (concerning)
 bi yang de	like (in the style of)
 bibi	baby (darling)
+biblia	Bible
 bin	pot (bin)
 bir	beer
 bis	kiss
@@ -975,7 +977,6 @@ sofa	sofa (couch)
 sofi	wise
 sok	sock
 sol	only (just)
-sole	sun
 son	sleep (dream)
 son kamar	bedroom
 soni	sound
@@ -1006,6 +1007,7 @@ sup	soup
 super	superb (wonderful, super)
 sura	chapter (section)
 suriname	Suriname
+surya	sun
 svedia	Sweden
 ta	he or she or it
 tabak	tobacco
@@ -1022,6 +1024,7 @@ talka	bee (communal work)
 tamar	date fruit
 tambur	drum
 tamen	they
+tanax	Tanakh (Jewish Bible)
 tank	tank (container)
 tanzania	Tanzania
 tap	tap (stopper)
@@ -1183,6 +1186,7 @@ yakin	certain (sure)
 yala	hurry (hasten)
 yaman	Yemen
 yang	kind (type, style)
+yani	that is (in other words, i.e.)
 yasen	ash tree
 ye	yes (yeah)
 yehudi	Jew
@@ -1205,6 +1209,7 @@ zalim	mean (cruel)
 zaman	period (age, epoch)
 zambia	Zambia
 zarduc	Zoroaster
+zarduc din	Zoroastrianism
 zarura	necessary (critical)
 ze	from (since)
 zimbabwe	Zimbabwe
