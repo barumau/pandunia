@@ -52,6 +52,7 @@ a : ah!
 ##b  
 baca : language  
 baca logi : linguistics  
+bad : bad (not good)  
 bada : after (later)  
 badal : exchange (swap)  
 badam : almond  
@@ -141,7 +142,6 @@ bul : forget
 bumi : earth (soil)  
 bumi dou : peanut (groundnut)  
 bunduk : rifle  
-bur : bad (not good)  
 bus : bus  
 buton : key (push-button)  
 buton paban : keyboard  

@@ -11,7 +11,7 @@ baru ban na sol. ta pensa: "nun mi ken kar eni ting de mi vol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-baru ban go do wac kamar. ta pensa "mi no vol wac dant nun." baru ban e bur.
+baru ban go do wac kamar. ta pensa "mi no vol wac dant nun." baru ban e bad.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
@@ -83,5 +83,5 @@ baru ban wac dant bi dant broc tot suba i tot cam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
-baru mama nota baru ban kura se ge dant mas bon. mama loga: "ti e bon lit baru!"
+baru mama not baru ban kura se ge dant mas bon. mama loga: "ti e bon lit baru!"
 
