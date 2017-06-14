@@ -185,16 +185,16 @@ The phrase **bite salam ta** has a useful pattern that can be used for making po
 > **bite yem tca.** = Please have some tea.
 
 <!--
-> **bite safi kamar.** = Please clean the room.
+> **bite saf kamar.** = Please clean the room.
 
 Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **bite**.
 
 > **koman dar tca.** = Give (me) some tea!  
-> **koman safi kamar.** = Clean the room!
+> **koman saf kamar.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-> **safi!** = Clean it!
+> **saf!** = Clean it!
 
 -->
 
@@ -211,7 +211,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **safi** to clean. **seda** to sit. **yem** to eat or drink.
+**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **seda** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
@@ -219,7 +219,7 @@ Try translating these sentences from English to Pandunia.
 1. ta yem tca.
 2. cef bite ta seda.
 3. bite yem kafe o tca.
-4. mama bite me safi kamar.
+4. mama bite me saf kamar.
 5. cef seda i yem kafe.
 
 
@@ -262,7 +262,7 @@ Requests usually concern the one or the ones spoken to, but questions are often 
 Of course common and proper nouns can also be used.
 
 > **kia cef se yem kafe?** = Does the chief drink coffee?  
-<!-- > **kia papa ye safi kamar?** = Does the father clean the room?  -->
+<!-- > **kia papa ye saf kamar?** = Does the father clean the room?  -->
 > **kia niki se sabi pandunia?** = Does Nicky know Pandunia?
 
 
@@ -328,9 +328,9 @@ In the previous lesson you learned to answer **ye** and **no** to questions. The
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salam ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi bite ti safi kamar.** = I ask you to clean the room.  
-> **mi no bite ti safi kamar.** = I do NOT ask you to clean the room.  
-> **mi bite ti no safi kamar.** = I ask you NOT to clean the room.
+> **mi bite ti saf kamar.** = I ask you to clean the room.  
+> **mi no bite ti saf kamar.** = I do NOT ask you to clean the room.  
+> **mi bite ti no saf kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
@@ -360,7 +360,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Answers to the Exercises
 
-1. ta no safi kamar.
+1. ta no saf kamar.
 2. un kop no kong.
 3. du waf no yem sup.
 4. ta no ha waf i mau. / ta ha no waf i no mau.
@@ -479,7 +479,7 @@ It is not necessary to repeat the time expressions all the time. It would be awk
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
 
 > **mi jenu na nen 2003.** = I was born in 2003.
-> **ta safi kamar na bada den.** = He will clean the room tomorrow.
+> **ta saf kamar na bada den.** = He will clean the room tomorrow.
 -->
 
 
@@ -507,7 +507,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 <li>mi de cef pati na melai.
 <li>mi mala du hau na pase.
 <li>ti yem sup na jin.
-<li>ta safi kamar na din befo.
+<li>ta saf kamar na din befo.
 <li>mau yem kafe na din bada.
 <li>ti de mama pati na yo befo.
 </ol>

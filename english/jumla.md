@@ -225,7 +225,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### mede <small>help</small>
 
-**mi neses mede.** I need help.
+**mi nid mede.** I need help.
 
 **kia ti ken mede mi?** Can you help me?
 
@@ -320,15 +320,15 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### neses <small>need</small>
+### nid <small>need</small>
 
-**mi neses mede.** I need help.
+**mi nid mede.** I need help.
 
-**mi neses yem.** I'm hungry.
+**mi nid yem.** I'm hungry.
 
-**kia ti neses yem?** Are you hungry?
+**kia ti nid yem?** Are you hungry?
 
-**kia ti neses sui?** Are you thirsty?
+**kia ti nid sui?** Are you thirsty?
 
 
 
@@ -607,7 +607,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mede** help <small>(French _aider_)</small>
 **mi** I, me <small>(Swahili _mimi_)</small>
 **mimen** we
-**neses** need; necessary <small>(Haitian Creole _nesesè_)</small>
+**nid** need; necessary <small>(English _need_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **notce** night <small>(Spanish _noche_)</small>
 **nun** now, currently <small>(German _nun_)</small>

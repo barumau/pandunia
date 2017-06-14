@@ -9,12 +9,14 @@ aina : mirror
 aka : brother or sister  
 aksar : letter (character)  
 akse : axis  
+alah : Allah  
 ali : other  
 alkol : alcohol  
 almari : cabinet (cupboard)  
 almas : diamond  
 alu : potato  
 ama : but  
+amen : affirm (agree, concur, amen)  
 amerika : America (continent)  
 amor : love  
 amper : ampere  
@@ -100,7 +102,7 @@ beranda : veranda (porch)
 beret : beret  
 bet : house  
 beton : concrete (material with cement)  
-bi : with (by means of)  
+bi : with (by)  
 bi no : without  
 bi tema de : about (concerning)  
 bi yang de : like (in the style of)  
@@ -133,6 +135,7 @@ broc : brush
 brun : brown  
 buda : Buddha  
 budi : intelligent  
+budjet : budget  
 buk : book  
 bul : forget  
 bumi : earth (soil)  
@@ -153,6 +156,7 @@ cam den : afternoon
 cam salam : Good evening  
 cam yem : dinner  
 camba : field (countryside)  
+campion : champion  
 can : mountain (hill)  
 canti : peace (calm)  
 carbon : coal (carbon)  
@@ -162,11 +166,13 @@ catur : chess
 cau : few (little)  
 cef : chief  
 cef wazir : prime minister  
+centi : centi-  
 cia : under (below)  
 cifu : master (sensei)  
 cigo : accident (mishap)  
 cik : elegant (chic)  
 cim : heart  
+cin : believe (faith, creed)  
 cin : new  
 cir : poem  
 cirop : syrup  
@@ -201,10 +207,11 @@ dawa : drug (medicine)
 dawa kan : drugstore (pharmacy)  
 de : of (particle of possession)  
 debat : argue (debate)  
+deci : deci-  
 dem : point (spot)  
 demo krati : democracy  
 demon : demon  
-den : day  
+den : day (daytime)  
 den salam : Good day  
 den yem : lunch  
 deng : wait  
@@ -215,6 +222,7 @@ dewa : god
 dewa logi : theology  
 deya : village  
 din : religion  
+din guru : priest (cleric)  
 ding : nail (spike)  
 diske : disc (disk)  
 djang : fight (war)  
@@ -378,11 +386,13 @@ haha : laugh
 hai : still (yet)  
 haide : let's  
 hak : right (justification)  
-hakim : judgment  
+hakim : judgment (sentence)  
+hakim guru : judge (referee)  
 halo : hello (hi)  
 hamak : hammock  
 hamar : hammer  
 hamir : yeast  
+handis : engineer (apply science to)  
 hanguk : South Korea  
 harmoni : harmony  
 hat : hand  
@@ -397,6 +407,7 @@ hima : snow
 hima rose : frost  
 himalia : Himalayas  
 hindu : Hindu  
+hisab : calculation (arithmetic, computation)  
 histori : history  
 hobi : hobby  
 hon : hundred  
@@ -406,7 +417,6 @@ horvatia : Croatia
 hotel : hotel  
 hua : flower  
 hua bin : vase (flower pot)  
-huang : yellow  
 huli : fox  
 humus : chickpea  
 humus sos : hummus  
@@ -414,7 +424,6 @@ hura : hooray (cheer)
 ##i  
 ibri : Hebrew  
 idea : idea  
-iman : believe (faith, creed)  
 imperia : empire  
 in : inside (interior)  
 incala : hope (wish)  
@@ -471,8 +480,8 @@ kafe kop : coffee cup
 kai : open (not closed)  
 kaici : begin (commence)  
 kaka : excrement (shit)  
+kakau : cocoa  
 kalam : pen  
-kalkul : calculate  
 kalsium : calcium (Ca)  
 kamar : room (chamber)  
 kamar tal : floor  
@@ -511,7 +520,7 @@ ke yang? : how?
 kek : cake  
 kelele : noise  
 kemet : Ancient Egypt (Kemet)  
-ken : can  
+ken : can (be able)  
 kenar : border (edge)  
 kenya : Kenya  
 ketcap : ketchup  
@@ -543,7 +552,7 @@ koma : comma
 kompani : company (corporation)  
 komputer : computer  
 komun : common (shared)  
-kona : corner  
+kona : corner (angle)  
 konsel : advice (counsel)  
 konson : consonant  
 kontcung : insect  
@@ -589,6 +598,7 @@ lanka : Sri Lanka
 lansa : throw  
 lao : Laos  
 larva : larva (maggot, caterpillar)  
+lastik : elastic  
 lasun : garlic  
 lat : pungent (spicy, hot)  
 lat tcili : chili pepper  
@@ -618,6 +628,7 @@ lis : smooth
 lista : list  
 lit : little (small)  
 litci : lychee (litchi)  
+liter : liter (litre)  
 litre : liter  
 lobak : radish  
 loga : say (word)  
@@ -639,6 +650,10 @@ madu : honey
 maf : sorry (pardon)  
 mafan : trouble (disturbance, bother)  
 magi : magic  
+magnet : magnet  
+mai : commerce  
+mai dar : sell  
+mai kap : buy  
 maidan : square (plaza)  
 mais : corn (maize)  
 makala : article (writing)  
@@ -691,6 +706,7 @@ men : surface
 mes : month  
 mesi : messiah (Christ)  
 metal : metal  
+meter : meter  
 metod : method  
 metre : metre  
 mexiko : Mexico  
@@ -699,7 +715,9 @@ mi : I (me)
 mi ge : my  
 mien : noodle  
 migan : mandarin orange  
+mikro : micro-  
 mila : meet  
+mili : milli-  
 milke : milk  
 mimen : we  
 min : less  
@@ -713,7 +731,7 @@ miskin : poor (miserable)
 misri : Egypt  
 mit : myth  
 mitcin : MSG (monosodium glutamate)  
-model : model  
+model : model (design)  
 mogu : mushroom (fungus)  
 mol : soft  
 moli : jasmine  
@@ -759,6 +777,7 @@ nam : name
 nama : meat (flesh)  
 nami : wave  
 nanas : pineapple  
+nano : nano-  
 narak : hell  
 nas : people (folk)  
 nasia : nation  
@@ -769,9 +788,9 @@ nen : year
 nen festa : anniversary  
 nenufar : water lily (nenuphar)  
 nepal : Nepal  
-neses : need  
 net : net  
 nice : niche (alcove)  
+nid : need  
 nilon : nylon  
 nipon : Japan  
 nitro : nitrogen  
@@ -782,10 +801,10 @@ nor : north
 norge : Norway  
 norma : norm (standard)  
 nos : nose  
-nota : notice (observe)  
+not : notice (observe)  
 notce : night  
-nova : new  
-nuda : naked (bare)  
+nov : new  
+nud : naked (bare)  
 nul : zero (none)  
 numer : number  
 numer un : first (number one)  
@@ -817,6 +836,7 @@ pan : bread
 panda : panda  
 pandunia : Pandunia  
 pang : thick (fat)  
+panik : panic  
 pantalon : pants (trousers)  
 panyo : friend  
 papa : father  
@@ -838,6 +858,7 @@ penis : penis
 pensa : think  
 penta : paint  
 pera : pear  
+peri : fairy  
 peru : Peru  
 pesa : money  
 piano : piano  
@@ -907,6 +928,7 @@ razon : reason (rational thinking)
 re : again  
 rebel : rebellion  
 redi : ready (prepare)  
+repor : report (recount, relate)  
 reset : recipe  
 resid : receit  
 restoran : restaurant  
@@ -941,8 +963,8 @@ sabi : know how
 sabun : soap  
 sabur : patient (composed)  
 sade : plain (simple)  
+saf : clean (pure)  
 safar : travel (voyage)  
-safi : clean (pure)  
 sak : bag (sack)  
 sal : salt  
 salada : salad  
@@ -951,6 +973,7 @@ salim : surrender (to give up)
 sam : same  
 sama : sky (heaven)  
 san : three (3)  
+sanat : produce (manufacture)  
 sanduk : box (chest)  
 sang : blood  
 sani : sleigh (sledge)  
@@ -990,6 +1013,7 @@ sismo logi : seismology
 sistem : system  
 sitat : quote (to cite)  
 siti : city (town)  
+sivil : civilian (civil)  
 slovenia : Slovenia  
 sofa : sofa (couch)  
 sofi : wise  
@@ -1017,6 +1041,7 @@ sui : water
 suka : like (be fond of)  
 sukar : sugar  
 suki : happy (joyful)  
+sultan : power (authority, rule)  
 sum : sum (total)  
 sun : soon  
 sundar : beautiful (handsome)  
@@ -1057,7 +1082,6 @@ tca wan : tea bowl
 tcabuk : whip (lash)  
 tcakra : wheel  
 tcaku : knife  
-tcampion : champion  
 tcap : press (stamp)  
 tcar : four (4)  
 tcat : chat (informal conversation)  
@@ -1110,7 +1134,6 @@ tot : all
 total : total (complete)  
 tren : train  
 tren dau : railway (railroad)  
-tsan : produce (manufacture)  
 tsuka : vinegar  
 tualet : toilet (WC)  
 tubu : tube (pipe)  
@@ -1181,7 +1204,9 @@ wai ting wazir kan : ministry of foreign affairs
 wakil : represent (to)  
 wal : wall  
 wan : bowl (earless cup)  
+wang : yellow  
 waris : heritage (bequest)  
+wat : watt  
 wazir : minister (politician)  
 wazir kan : ministry  
 wen : circle (round)  
