@@ -166,7 +166,7 @@ catur : chess
 cau : few (little)  
 cef : chief  
 cef wazir : prime minister  
-centi : centi-  
+centi : centi- (per cent)  
 cia : under (below)  
 cifu : master (sensei)  
 cigo : accident (mishap)  
@@ -646,7 +646,6 @@ lut : rob (loot)
 macin : machine  
 madjar : Hungary  
 madju : harness  
-madu : honey  
 maf : sorry (pardon)  
 mafan : trouble (disturbance, bother)  
 magi : magic  
@@ -697,6 +696,7 @@ medalia : medallion (medal)
 mede : help  
 medi : mean (medium)  
 medita : meditate (ponder)  
+medu : honey  
 mega : million (mega-)  
 melodi : melody  
 member : member  
