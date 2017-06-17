@@ -18,5 +18,5 @@
 
 [Videos](../pandunia/video.md)
 
-[FAQ](kia_i_jabu.md)
+[FAQ](kia_i_dap.md)
 
