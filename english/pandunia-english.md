@@ -135,6 +135,7 @@ britan : Britain (UK)
 broc : brush  
 brun : brown  
 buda : Buddha  
+budan : Mercury  
 budi : intelligent  
 budjet : budget  
 buk : book  
@@ -158,6 +159,7 @@ cam yem : dinner
 camba : field (countryside)  
 campion : champion  
 can : mountain (hill)  
+cani : Saturn  
 canti : peace (calm)  
 carbon : coal (carbon)  
 caria : shari'a  
@@ -269,6 +271,7 @@ eletron : electron
 energi : energy  
 englic : English  
 eni : any (no matter which)  
+eris : Eris (dwarf planet)  
 eritra : Erithrea  
 espanya : Spain  
 esti : Estonia  
@@ -680,6 +683,7 @@ marce : walk (march)
 margarin : margarine  
 marka : mark (trace)  
 marmar : marble  
+marsi : Mars  
 mas : more  
 masa : mass (lump)  
 masala : issue  
@@ -703,6 +707,18 @@ member : member
 meme : sheep  
 memori : memory  
 men : surface  
+mes 1 (mes un) : January  
+mes 10 (mes des) : October  
+mes 11 (mes des un) : November  
+mes 12 (mes des du) : December  
+mes 2 (mes du) : February  
+mes 3 (mes sam) : March  
+mes 4 (mes tcar) : April  
+mes 5 (mes lim) : May  
+mes 6 (mes sis) : June  
+mes 7 (mes set) : July  
+mes 8 (mes bat) : August  
+mes 9 (mes noi) : September  
 mes : month  
 mesi : messiah (Christ)  
 metal : metal  
@@ -743,6 +759,7 @@ mosim : season
 moskit : mosquito  
 mot : death (dead)  
 motor : engine (motor)  
+mucing : Jupiter  
 mucu : mouse  
 mudan : peony  
 mudi : aim (objective)  
@@ -788,6 +805,7 @@ nen : year
 nen festa : anniversary  
 nenufar : water lily (nenuphar)  
 nepal : Nepal  
+neptun : Neptune  
 net : net  
 nice : niche (alcove)  
 nid : need  
@@ -882,6 +900,7 @@ planet : planet
 plastik : plastic  
 plat : plate  
 plus : also (plus, too)  
+pluto : Pluto (dwarf planet)  
 poker : poker  
 poli : much (many, lots)  
 polis : police  
@@ -958,7 +977,7 @@ rutin : routine
 sa : this or that  
 sa djin : this (this over here)  
 sa far : that (that over there)  
-sabat : Saturday  
+sabat : Sabbath  
 sabi : know how  
 sabun : soap  
 sabur : patient (composed)  
@@ -995,6 +1014,7 @@ sensur : censor
 senti : feel (emotion)  
 serbia : Serbia  
 serce : search  
+seres : Ceres (dwarf planet)  
 seri : series  
 serva : serve (wait upon)  
 sesam : sesame  
@@ -1159,6 +1179,7 @@ un : one (1)
 uni : unite  
 uni stat de amerika : United States of America  
 uran : uranium  
+uran : Uranus  
 urdun : Jordan  
 uruguai : Uruguay  
 usa : USA  
@@ -1167,9 +1188,18 @@ u : or
 vaksin : vaccine  
 vale : valley  
 vanila : vanilla  
+var 1 (var un) : Monday  
+var 2 (var du) : Tuesday  
+var 3 (var sam) : Wednesday  
+var 4 (var tcar) : Thursday  
+var 5 (var lim) : Friday  
+var 6 (var sis) : Saturday  
+var 7 (var set) : Sunday  
+var : day of the week  
 vaza : vase  
 venen : poison (venom)  
 venesuela : Venezuela  
+venus : Venus  
 ver : true (real)  
 verme : worm  
 vide : look (see)  
