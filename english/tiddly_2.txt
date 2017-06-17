@@ -952,10 +952,10 @@ sal	salt
 salada	salad
 salam	greeting (hello)
 salim	surrender (to give up)
-sam	same
+sam	three (3)
 sama	sky (heaven)
-san	three (3)
-sanat	produce (manufacture)
+san	make (produce, manufacture)
+san kan	factory
 sanduk	box (chest)
 sang	blood
 sani	sleigh (sledge)
@@ -970,6 +970,7 @@ sekun	second(s)
 sekur	safe (secure)
 sel	cell (biology)
 selen	selenium
+sem	same
 sen	chest (thorax)
 sense	sense
 sensur	censor

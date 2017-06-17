@@ -125,21 +125,21 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 
 > **un tara** - one star  
 > **du tara** - two stars  
-> **san tara** - three stars  
+> **sam tara** - three stars  
 > **cau tara** - few stars  
 
 Ordinal numbers come after the word that they modify.
 
 > **fen un** - the first part (part one)
 > **fen du** - the second part (part two)
-> **fen san** - the third part (part three)
+> **fen sam** - the third part (part three)
 
 The basic number words are:
 
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **san**
+- 3 **sam**
 - 4 **tcar**
 - 5 **lim**
 - 6 **sis**
@@ -152,7 +152,7 @@ Greater numbers are simply made by putting one digit after another – exactly l
 - 10 **un nul** or **des**
 - 11 **un un**
 - 12 **un du**
-- 13 **un san**
+- 13 **un sam**
 - 20 **du nul**
 - 21 **du un**
 - 22 **du du**
@@ -296,12 +296,12 @@ Serial verbs
 ------------
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
-
-1. **mi go jia.** - I go home.  
-2. **mi ken go jia.** - I can go home.  
-3. **mi vol ken go jia.** - I want to be able to go home. (Lit. _I want can go home_!)
-
-
+ 
+1. **mi go dom.** - I go home.  
+2. **mi ken go dom.** - I can go home.  
+3. **mi vol ken go dom.** - I want to be able to go home. (Lit. _I want can go home_!)
+ 
+ 
 Pivot structure
 ---------------
 
@@ -360,14 +360,14 @@ When pronouns are turned into modifiers, they become _possessive pronouns_. Ther
 
 | With _ge_                        | With _de_                                |
 |:---------------------------------|:-----------------------------------------|
-| **mi ge jia** - my home          | **jia de mi** - the home of mine         |
-| **ti ge jia** - your home        | **jia de ti** - the home of yours        |
-| **ta ge jia** - his/her/its home | **jia de ta** - the home of his/hers/its |
-| **mimen ge jia** - our home      | **jia de mimen** - the home of ours      |
-| **timen ge jia** - your home     | **jia de timen** - the home of you all   |
-| **tamen ge jia** - their home    | **jia de tamen** - the home of theirs    |
-
-
+| **mi ge dom** - my home          | **dom de mi** - the home of mine         |
+| **ti ge dom** - your home        | **dom de ti** - the home of yours        |
+| **ta ge dom** - his/her/its home | **dom de ta** - the home of his/hers/its |
+| **mimen ge dom** - our home      | **dom de mimen** - the home of ours      |
+| **timen ge dom** - your home     | **dom de timen** - the home of you all   |
+| **tamen ge dom** - their home    | **dom de tamen** - the home of theirs    |
+ 
+ 
 A modifier particle changes any kind of phrase into an equivalent of a quality-word. So also nouns and verbs can be changed into modifiers.
 
 > **maria ge mama** - Maria's mother  
@@ -387,7 +387,7 @@ Pandunia has three prepositions of place and time.
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **mi lai jia.** - I come home.
+> **mi lai dom.** - I come home.
 > **ti side kursi.** - You sit (on) the chair.
 > **ta lala sofa.** - S/he lies (on) the sofa.
 > **matci nata daria.** - Fish swim (in) the sea.
@@ -403,7 +403,7 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **mi deng ze ti toka.** - I have waited since you left.
-> **mi deng do ti lai jia.** - I wait until you come home.
+> **mi deng do ti lai dom.** - I wait until you come home.
 > **mi deng na ti son.** - I wait while you sleep.
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
@@ -505,7 +505,7 @@ Each sentence can be drawn as a tree diagram, where the central words are above 
 
 Adjectives and numerals point to their head word, the noun.
 
-    mi vide san jovan jen.
+    mi vide sam jovan jen.
 
        vide
       ┌─┴──┐
@@ -513,11 +513,11 @@ Adjectives and numerals point to their head word, the noun.
            |
          jovan
            |
-          san
+          sam
 
 The hierarchy of word types in Pandunia from the more to the less central is as follows.
 
-1. Conjunctions: i, o
+1. Conjunctions: i, u
 2. Connectors: ge, de
 3. Coverbs (prepositions): na, do, ze, bi, koz, por
 4. Verbs
@@ -540,6 +540,7 @@ The following example shows how the scope affects the final position of words in
     yusef   sara       pandunia       dunia
                                         |
                                        bon
+
 
 
 
