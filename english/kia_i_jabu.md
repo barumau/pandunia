@@ -1,6 +1,7 @@
 Frequently Asked Questions
 ==========================
 
+## General
 
 #### How many people can speak Pandunia?
 
@@ -25,6 +26,8 @@ Pandunia doesn't fit into any of the traditional types of languages. Also in tha
 ![](http://www.pandunia.info/kuvat/platypusbandera.png "Our platypus")
 
 
+## Past, present and future
+
 #### I want to change something in Pandunia. What should I do?
 
 If your change is a small thing, you should try it in practice with other people and see how it works. If it really is a good change, other people will accept it and use it.
@@ -33,21 +36,7 @@ Creating offshoot languages is very common in the auxiliary language community. 
 
 It is better to have one big language with several dialects than many competing languages.
 
-
-#### Why the letter C is pronounced like SH?
- 
-Pandunia follows the phonetic principle. One letter represents exactly one sound, and one sound is written with exactly one letter.
-
-Traditionally there isn't any dedicated letter for /ʃ/ in the Latin alphabet. This sound is frequently written by the letter combination SH in English. Other languages use different letters and letter combinations such as CH in French, SCH in German, SJ in Swedish, SZ in Polish, Š in Czech and Ş in Turkish.
-
-On the other hand, there isn't any dedicated sound for the letter C. In English C has several uses. It can stand for /k/ as in _cat_, /s/ as in _city_, /ʃ/ as in _musician_ and /tʃ/ as in _cello_. Other languages use C for these and several other sounds, see details in [Wikipedia](https://en.wikipedia.org/wiki/C#Use_in_writing_systems).
-
-English _hard C_ can be represented by K and the _soft C_ by S. Slavic /ts/, Italian /tʃ/ and Turkic /dʒ/ are compound sounds that are better represented by letter combinations than a single letter. So the letter C is free for re-use. /ʃ/ is the only simple sound that is widely used in modern languages and that doesn't have a dedicated letter in the Latin alphabet. That's why C stands for /ʃ/ in Pandunia.
-
-The sound /tʃ/ (i.e. the CH in _church_) is logically written TC in Pandunia. This is another sound that is written in different ways in different languages. Some of them are in principle similar to the Pandunia way, including French TCH, German TSCH, Swedish TJ, Vietnamese TR, Finnish TŠ and Filipino TS.
-
-
-#### What languages have influenced the grammar of Pandunia?
+#### Which languages have influenced the grammar of Pandunia?
 
 Pandunia has been influenced by both natural and constructed languages.
 
@@ -62,20 +51,8 @@ The "family tree" of Pandunia is presented in the figure below.
 ![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
 
 
-#### Why isolating structure was chosen for Pandunia?
 
-Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
-
-1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
-2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
-
-Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
-
-To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
-
-    Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    vide  du  sundar    yen        nun.
-               I  can    see   two beautiful eyes       now.
+## Auxiliary language
 
 <!--
 #### What is a worldlang?
@@ -116,5 +93,40 @@ Pandunia is not meant to replace English or any other languages. People have abi
 In a way, English will never be replaced. Those who speak it today will speak it tomorrow. But new generations will grow and they will choose which language(s) they want to speak with each other. So it will be _another world_ with another world language. Maybe it will be English, or maybe a new kind of English or maybe something else. The landscape of languages changes in a natural process. Different languages were spoken in the past and different languages will be spoken in the future.
 
 You are free to speak Pandunia, English and any other language that your heart desires.
+
+## Grammar and vocabulary
+
+#### Why isolating structure was chosen for Pandunia?
+
+Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
+
+1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
+2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
+
+Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
+
+To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
+
+    Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
+    Pandunia:  mi ken    vide  du  sundar    yen        nun.
+               I  can    see   two beautiful eyes       now.
+
+#### Why is the letter C pronounced like SH?
+ 
+Pandunia follows the phonetic principle. One letter represents exactly one sound, and one sound is written with exactly one letter.
+
+Traditionally there isn't any dedicated letter for /ʃ/ in the Latin alphabet. This sound is frequently written by the letter combination SH in English. Other languages use different letters and letter combinations such as CH in French, SCH in German, SJ in Swedish, SZ in Polish, Š in Czech and Ş in Turkish.
+
+On the other hand, there isn't any dedicated sound for the letter C. In English C has several uses. It can stand for /k/ as in _cat_, /s/ as in _city_, /ʃ/ as in _musician_ and /tʃ/ as in _cello_. Other languages use C for these and several other sounds, see details in [Wikipedia](https://en.wikipedia.org/wiki/C#Use_in_writing_systems).
+
+English _hard C_ can be represented by K and the _soft C_ by S. Slavic /ts/, Italian /tʃ/ and Turkic /dʒ/ are compound sounds that are better represented by letter combinations than a single letter. So the letter C is free for re-use. /ʃ/ is the only simple sound that is widely used in modern languages and that doesn't have a dedicated letter in the Latin alphabet. That's why C stands for /ʃ/ in Pandunia.
+
+The sound /tʃ/ (i.e. the CH in _church_) is logically written TC in Pandunia. This is another sound that is written in different ways in different languages. Some of them are in principle similar to the Pandunia way, including French TCH, German TSCH, Swedish TJ, Vietnamese TR, Finnish TŠ and Filipino TS.
+
+#### Shouldn't "salam" mean "peace"?
+
+In many languages, expressions of greeting have something to do with peace, health or well-being. The origins of Pandunia's word **salam** can be traced back to Semitic triliteral root SLM, which covers a variety of meanings including safety, security, peace and health. Likewise the English word _salutation_ (and French greeting _salut_) can be traced back to Latin "salus", which means safety, security, health and well-being.
+
+So the meaning of **salam** is greater than the meaning of peace. It means well-being in general and you can use it as a general expression for well-wishing in all kinds of situations, not just when you meet somebody. See the first lesson in the [phrasebook](jumla.md) for a lot of examples!
 
 
