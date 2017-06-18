@@ -238,7 +238,7 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 **mi neses mede.** Minä tarvitsen apua.
 
-**kia ni ken mede mi?** Voitko auttaa minua?
+**kia ti ken mede mi?** Voitko auttaa minua?
 
 **kia mi ken mede ti?** Voinko auttaa sinua?
 
@@ -289,7 +289,7 @@ Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke*
 
 **mi bite ti yem tca.** Minä pyydän sinua juomaan teetä.
 
-**mi bite ti lai jia.** Minä pyydän sinua tulemaan kotiin.
+**mi bite ti lai dom.** Minä pyydän sinua tulemaan kotiin.
 
 **mi bite ti mede mi.** Minä pyydän sinua auttamaan minua.
 
@@ -299,7 +299,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **bite yem kafe.** Juopa kahvia.
 
-**bite lai jia.** Tulepa kotiin.
+**bite lai dom.** Tulepa kotiin.
 
 **bite mede mi.** Autapa minua.
 
@@ -327,7 +327,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **haide go yem!** Menkäämme syömään!
 
-**haide go jia.** Menkäämme kotiin.
+**haide go dom.** Menkäämme kotiin.
 
 
 
@@ -390,6 +390,123 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 
 
+### loga <small>sanoa, puhua</small>
+
+**ti loga ke?** Mitä sinä sanoit?
+
+**mi loga do ti.** Minä puhun sinulle.
+
+**mimen loga do alise.** Me puhumme toisillemme.
+
+**se loga ke yang bi pandunia ki "kissa"?** Miten sanotaan "kissa" panduniaksi?
+
+**"kissa" e ke na pandunia?** Mikä "kissa" on panduniaksi?
+
+**mau loga miau.** Kissa sanoo miau.
+
+
+### audi <small>kuulla, kuunnella</small>
+
+**mi no ken audi ti.** En voi kuulla sinua.
+
+**bite loga kuat.** Puhuisitko kovempaa.
+
+**mi audi musik.** Minä kuuntelen musiikkia.
+
+**ti audi ke yang ge musik?** Minkälaista musiikkia sinä kuuntelet?
+
+
+### vide <small>nähdä</small>
+
+**suka vide ti.** Hauska nähdä sinua!
+
+**vide ti bada!** Nähdään myöhemmin!
+
+**vide ti nale!** Nähdään huomenna!
+
+**mi vide ta yer.** Minä näin hänet eilen.
+
+
+### mana <small>tarkoittaa</small>
+
+**sa loga ye mana ke?** Mitä tämä sana tarkoittaa?
+
+**"mau" ye mana ke?** Mitä "mau" tarkoittaa?
+
+**ta mana yang de hewan.** Se tarkoittaa eräänlaista eläintä.
+
+**mi no aha ta mana ke.** Minä en ymmärrä mitä se tarkoittaa.
+
+
+### kitab <small>kirjoittaa</small>
+
+**bite kitab ti ge adres.** Kirjoittaisitko osoitteesi.
+
+**bite kitab ta na sa.** Kirjoittaisitko sen tähän!
+
+
+### baca <small>kieli, kommunikaatio</small>
+
+**kia timen baca pandunia.** Puhutteko te panduniaa?
+
+**mimen baca pandunia.** Me puhumme panduniaa.
+
+**kia ti sabi baca englic?** Osaatko puhua englantia?
+
+**frans, espanya, portugal, ruski** Ranskaa, espanjaa, portugalia, venäjää
+
+**putong han, nipon, indonesia** Yleiskiinaa, japania, indonesiaa
+
+**arabi, turki, farsi, urdu, hindi** Arabiaa, turkkia, persiaa, urdua, hindiä
+
+**swahili, hausa, yoruba, amara** Swahilia, hausaa, jorubaa, amharaa
+
+
+
+## Osa 4. Kulkeminen
+
+### go <small>mennä</small>
+
+**ti go ke?** Minne sinä menet?
+
+**mi go dom.** Minä menen kotiin.
+
+**mi mus go ke?** Minne minun pitää mennä?
+
+**mi mus go ke jen?** Kenen luoksen minun pitää mennä?
+
+**haide go!** Menkäämme!
+
+**haide go bi ped** Menkäämme jalan!
+
+
+### lai <small>tulla</small>
+
+**bite lai!** Tule tänne!
+
+**ti lai ze ke?** Mistä sinä tulet?
+
+**mi lai ze dubai.** Minä tulen Dubaista.
+
+**mi lai dom nale.** Minä tulen kotiin huomenna.
+
+
+### safar <small>matkustaa</small>
+
+**kia ti safar bi tren?** Matkustatko junalla?
+
+**mimen safar ze london do paris.** Me matkustamme Lontoosta Pariisiin.
+
+**safar hen long.** Matka on hyvin pitkä.
+
+
+### ju <small>asua</small>
+
+**ti ju ke?** Missä sinä asut?
+
+**mi ju singapur.** Asun Singaporessa.
+
+**kia ti ju sa hotel?** Astuko tässä hotellissa?
 
 
 
@@ -410,14 +527,15 @@ Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapall
 **bon** hyvä <small>(ranska _bon_)</small>
 **cam** ilta <small>(hindi _śām_ शाम )</small>
 **den** päivä <small>(venäjä _den'_ день)</small>
+**dom** koti <small>(venäjä _dom_ дом)</small>
 **e** olla <small>(portugali _é_)</small>
+**englic** englanti <small>(englanti _English_)</small>
 **fem** nainen <small>(ranska _femme_)</small>
 **gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>
 **ha** olla, omistaa <small>(portugali _há_)</small>
 **i** ja <small>(Polish _i_)</small>
 **jan** tietää, tuntea <small>(hindi _jānnā_ जानना)</small>
 **jen** henkilö <small>(yleiskiina _rén_ 人)</small>
-**jia** koti <small>(yleiskiina _jiā_ 家)</small>
 **kafe** kahvi <small>(saksa _Kaffee_)</small>
 **kara** musta <small>(turkki _kara_)</small>
 **kat** leikata, katkaista <small>(hindi ‎_kāṭnā_ काटना)</small>

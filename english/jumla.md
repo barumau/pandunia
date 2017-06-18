@@ -225,7 +225,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### mede <small>help</small>
 
-**mi nid mede.** I need help.
+**mi neses mede.** I need help.
 
 **kia ti ken mede mi?** Can you help me?
 
@@ -320,15 +320,15 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### nid <small>need</small>
+### neses <small>need</small>
 
-**mi nid mede.** I need help.
+**mi neses mede.** I need help.
 
-**mi nid yem.** I'm hungry.
+**mi neses yem.** I'm hungry.
 
-**kia ti nid yem?** Are you hungry?
+**kia ti neses yem?** Are you hungry?
 
-**kia ti nid sui?** Are you thirsty?
+**kia ti neses sui?** Are you thirsty?
 
 
 
@@ -407,7 +407,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### vide <small>to see</small>
 
-**mi suka vide ti.** I'm happy to see you!
+**suka vide ti.** Happy to see you!
 
 **vide ti bada!** See you later!
 
@@ -427,11 +427,11 @@ Tip: To make direct requests, drop all the pronouns.
 **mi no aha ta mana ke.** I don't understand what it means.
 
 
-### kitaba <small>write</small>
+### kitab <small>write</small>
 
-**bite kitaba ti ge adres.** Please, write your address.
+**bite kitab ti ge adres.** Please, write your address.
 
-**bite kitaba ta na sa.** Please, write it here!
+**bite kitab ta na sa.** Please, write it here!
 
 
 ### baca <small>language, communication</small>
@@ -462,11 +462,11 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi mus go ke?** Where should I go?
 
-**mi mus go ke ren?** To whom should I go?
+**mi mus go ke jen?** To whom should I go?
 
 **haide go!** Let's go!
 
-**haide go bi pede** Let's go by foot!
+**haide go bi ped** Let's go by foot!
 
 
 ### lai <small>to come</small>
@@ -607,7 +607,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mede** help <small>(French _aider_)</small>
 **mi** I, me <small>(Swahili _mimi_)</small>
 **mimen** we
-**nid** need; necessary <small>(English _need_)</small>
+**neses** need; necessary <small>(Spanish _necesitar_)</small>
 **no** no, not <small>(Spanish _no_)</small>
 **notce** night <small>(Spanish _noche_)</small>
 **nun** now, currently <small>(German _nun_)</small>

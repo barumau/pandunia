@@ -83,7 +83,7 @@ Quite often number and definiteness is known because it was specified earlier or
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **sole guang** - sun light  
+> **surya guang** - sun light  
 > **luna guang** - moon light  
 > **luna batu** - moon stone
 
@@ -119,7 +119,7 @@ Naturally there can be modifiers on both sides of the noun as well.
 Numerals
 --------
 
-Sometimes it is known from the context how many objects are spoken about. For example, the word **sole** (sun) normally refers to just one sun because there is only one.
+Sometimes it is known from the context how many objects are spoken about. For example, the word **surya** (sun) normally refers to just one sun because there is only one.
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
@@ -127,6 +127,11 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **du tara** - two stars  
 > **sam tara** - three stars  
 > **cau tara** - few stars  
+> **poli tara** - many stars
+
+> **un dai meza** - one big table  
+> **du dai kursi** - two big chairs  
+> **sam bon kursi** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
@@ -335,7 +340,7 @@ Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existe
 Such sentences can be simply negated with **no**.
 
 > **mi no e jen.** - I'm not a person.  
-> **ta no e nova meza.** - It's not a new table.
+> **ta no e nov meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -388,7 +393,7 @@ Pandunia has three prepositions of place and time.
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
 > **mi lai dom.** - I come home.
-> **ti side kursi.** - You sit (on) the chair.
+> **ti sit kursi.** - You sit (on) the chair.
 > **ta lala sofa.** - S/he lies (on) the sofa.
 > **matci nata daria.** - Fish swim (in) the sea.
 > **janger marce dau.** - Warriors march (on) the road.
@@ -402,7 +407,7 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi deng ze ti toka.** - I have waited since you left.
+> **mi deng ze ti go.** - I have waited since you left.
 > **mi deng do ti lai dom.** - I wait until you come home.
 > **mi deng na ti son.** - I wait while you sleep.
 
@@ -423,14 +428,14 @@ Similar meaning can be expressed also with compound words.
 
 In addition, a preposition can be followed immediately by a verb.
 
-> **dura** - to last, to take time
-> **mi deng na dura ti son.** - _I wait during you sleep._
+> **dur** - to last, to take time
+> **mi deng na dur ti son.** - _I wait during you sleep._
 
 
 ### List of prepositions
 
 **na ante** before. **na bada** after.
-**na cen** in front. **na pice** behind.
+**na tcen** in front. **na pitce** behind.
 **na cia** under, below. **na gau** over, above.
 **na djin** near. **na long** far away. **na visin** beside, next to.
 

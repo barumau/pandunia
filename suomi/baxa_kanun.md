@@ -20,7 +20,7 @@ Perussäännöt
     - esim. **mi cing ti dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Osaatko sinä panduniaa?
-    - **mi cing ti loga tez.** →  **cing loga tez.** = Pyydän, puhu kovempaa.
+    - **mi bite ti loga tez.** →  **bite loga tez.** = Pyydän, puhu kovempaa.
 
 
 
@@ -51,7 +51,7 @@ Quite often number and definiteness is known because it was specified earlier or
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **sole guang** - auringon valo
+> **surya guang** - auringon valo
 > **luna guang** - kuun valo
 > **luna batu** - kuukivi
 
@@ -66,21 +66,25 @@ Laatusanat
 
 Laatusanat määrittävät seuraavana tulevaa asiansanaa.
 
-> **dai batu** - iso kivi
+> **dai batu** - iso kivi  
 > **cung batu** - raskas kivi  
-> **dai meza** - isto pöytä
-> **gau meza** - korkea pöytä
-> **bon kursi.** - Hyvä tuoli.
+> **dai meza** - isto pöytä  
+> **gau meza** - korkea pöytä  
+> **bon kursi.** - hyvä tuoli
 
 Kuun laatusanaa on asiansanan perässä, se toimii tilaa ilmaisevana teonsanana.
 
 > **batu dai.** - Kivi on iso.  
 > **meza gau.** - Pöytä on korkea.
 
+Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
+
+> **dai meza gau.** - Iso pöytä on korkea.
+
 Laatusanoilla voi myös määrittää teonsanaa eli ne toimivat myös adverbin tavoin.
 
-> **mi _bon_ son.** - Minä nukun _hyvin_.
-> **ti _bon_ jan pandunia.** - Sinä osaat panduniaa _hyvin_.
+> **mi _bon_ son.** - Minä nukun _hyvin_.  
+> **ti _bon_ sabi pandunia.** - Sinä osaat panduniaa _hyvin_.
 
 
 Lukusanat
@@ -88,9 +92,16 @@ Lukusanat
 
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
-> **un dai meza.** - Yksi iso pöytä.
-> **du dai kursi.** - Kaksi isoa tuolia.
-> **san bon kursi.** - Kolme hyvää tuolia.
+> **un tara** - yksi tähti  
+> **du tara** - kaksi tähteä  
+> **sam tara** - kolme tähteä  
+> **cau tara** - vähän tähtiä  
+> **poli tara** - paljon tähtiä
+
+
+> **un dai meza** - yksi iso pöytä  
+> **du dai kursi** - kaksi isoa tuolia  
+> **sam bon kursi** - kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
 
@@ -103,8 +114,8 @@ Perusluvut ovat:
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **san**
-- 4 **car**
+- 3 **sam**
+- 4 **tcar**
 - 5 **lim**
 - 6 **sis**
 - 7 **set**
@@ -116,7 +127,7 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 - 10 **un nul** tai **des**
 - 11 **un un**
 - 12 **un du**
-- 13 **un san**
+- 13 **un sam**
 - 20 **du nul**
 - 21 **du un**
 - 22 **du du**
@@ -151,7 +162,7 @@ Pronominit
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-> **un jovan boi na jia. _ta_ duk buk.**
+> **un jovan boi na dom. _ta_ dok buk.**
 > _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
 **se** - itse
@@ -160,19 +171,19 @@ Refleksiivipronominia **se** käytetään sellaisenaan kaikissa persoonissa.
 
 **mi vide se** - Minä näen itseni.
 **ta vide se** - Hän näkee itsensä.
-**mimen vida se.** - Me näemme itsemme.
+**mimen vide se.** - Me näemme itsemme.
 
 
-### Osoittavat pronominit
+### Osoittava pronomini
 
-- **ni** tämä
-- **tu** tuo
+Panduniassa on yksi yleiskäyttöinen osoittava pronomini eli demonstratiivipronomini. Se on **sa**. Se vastaa suomen tätä, tuota ja sitä.
+
 
 Osoittavat pronomonit ovat laatusanan kaltaisia
 
-> **ni batu.** - Tämä kivi.
-> **ni e batu.** - Tämä on kivi.
-> **ni batu cung.** - Tämä kivi painaa.
+> **sa batu.** - Tämä kivi.
+> **sa e batu.** - Tämä on kivi.
+> **sa batu cung.** - Tämä kivi painaa.
 
 
 ### Kysymyspronomini
@@ -195,7 +206,7 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 
 > **mi bon.** - Minä olen hyvä.
 > **sara bon.** - Sara on hyvä.
-> **batu cung.** - Kivi on painava.
+> **batu cung.** - Kivi on painava. (Kivi painaa.)
 
 Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 
@@ -206,7 +217,7 @@ Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy pa
 
 > **ta e sara.** - Hän on Sara.
 > **ta e mi.** - Se on minä.
-> **tu e batu.** - Tuo on kivi.
+> **sa e batu.** - Tuo on kivi.
 > **batu e ting.** - Kivi on esine.
 > **jovan e sundar.** - Nuori on kaunista.
 
@@ -255,13 +266,13 @@ Verbisarja
  
 Verbisarjassa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja aina jälkimmäinen verbi on edellisen verbin kohteena.
  
-> **mi ken go jia.** - Minä voin mennä kotiin.
-> **mi yau go jia.** - Minun täytyy mennä kotiin.
-> **mi vol go jia.** - Mi haluan mennä kotiin.
+> **mi ken go dom.** - Minä voin mennä kotiin.  
+> **mi vol go dom.** - Mi haluan mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  
-> **mi mus go jia.** - Minun on pakko mennä kotiin.
+> **mi mus go dom.** - Minun on pakko mennä kotiin.  
+> **mi ingai go dom.** - Minun pitäisi mennä kotiin.  
  
  
  
@@ -276,27 +287,27 @@ Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekij
  
 Yllä olevassa esimerkissä ensimmäinen verbi, **cing** (pyytää), saa kohteekseen sanan **mi**, joka toimii yhtäaikaa toisen verbin, **go** (mennä), tekijänä. Toisen verbin kohde on **jia** (koti). Niinpä sanalla **mi** on kaksi roolia: (1) ensimmäisen verbin kohde eli objekti ja (2) toisen verbin tekijä eli subjekti. Se toimii siis ikään kuin saranana kahden verbin välissä.
  
-> **ta les _mi_ go jia.** - Hän päästää minut menemään kotiin.
-> **ta mus _mi_ go jia.** - Hän pakottaa minut menemään kotiin.
+> **ta les _mi_ go dom.** - Hän päästää minut menemään kotiin.
+> **ta mus _mi_ go dom.** - Hän pakottaa minut menemään kotiin.
  
 panduniassa on sallittua jättää pronomini pois silloin, kun se tunnetaan ilman muuta. Toisin sanoen, kun puhuja voi varmasti olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu, hänen ei tarvitse jatkuvasti toistaa sitä. Tällä tavalla lauseista voi tehdä lyhyempiä.
  
 Ensimmäisessä saranarakenteen muunnelmassa jätetään pois ensimmäinen subjekti, joka viittaa puhujaan.
  
-> **mi kia ti go jia.** - Minä kysyn, menetkö sinä kotiin.
-> **kia ti go jia?** - Menetkö kotiin?
+> **mi kia ti go dom.** - Minä kysyn, menetkö sinä kotiin.
+> **kia ti go dom?** - Menetkö kotiin?
  
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
-> **mi xin ta go jia.** - Minä luulen, että hän menee kotiin.
-> **xin ta go jia.** - Kai hän menee kotiin.
-> **mi xak ta go jia.** - Minä epäilen, että hän menee kotiin.
-> **xak ta go jia.** - Tokko hän menee kotiin.
+> **mi cin ta go dom.** - Minä luulen, että hän menee kotiin.
+> **cin ta go com.** - Kai hän menee kotiin.
+> **mi cak ta go dom.** - Minä epäilen, että hän menee kotiin.
+> **cak ta go dom.** - Tokko hän menee kotiin.
  
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
  
-> **mi cing ti go jia.** - Minä pyydän sinua menemään kotiin.
-> **cing go jia!** - (Pyydän) mene kotiin!
+> **mi bite ti go dom.** - Minä pyydän sinua menemään kotiin.
+> **bite go dom!** - (Pyydän) mene kotiin!
 
 
 
@@ -311,19 +322,19 @@ Omistuspronominit ilmaistaan määrepartikkelien avulla. Ne voidaan siis ilmaist
 
 | With _ge_                        | With _de_                                |
 |:---------------------------------|:-----------------------------------------|
-| **mi ge jia** - minun koti       | **jia de mi** - kotini minun             |
-| **ti ge jia** - sinun koti       | **jia de ti** - kotisi sinun             |
-| **ta ge jia** - hänen koti       | **jia de ta** - kotinsa hänen            |
-| **mimen ge jia** - meidän koti   | **jia de mimen** - kotimme               |
-| **timen ge jia** - teidän koti   | **jia de timen** - kotinne               |
-| **tamen ge jia** - heidän koti   | **jia de tamen** - kotinsa               |
+| **mi ge dom** - minun koti       | **dom de mi** - kotini minun             |
+| **ti ge dom** - sinun koti       | **dom de ti** - kotisi sinun             |
+| **ta ge dom** - hänen koti       | **dom de ta** - kotinsa hänen            |
+| **mimen ge dom** - meidän koti   | **dom de mimen** - kotimme               |
+| **timen ge dom** - teidän koti   | **dom de timen** - kotinne               |
+| **tamen ge dom** - heidän koti   | **dom de tamen** - kotinsa               |
 
 
 Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
 
 > **maria ge mama** - Marian äiti
 > **batu ge cung** - kiven paino
-> **yem ge zam** - syömisen aika
+> **yem ge sat** - syömisen aika
 
 
 
@@ -338,33 +349,33 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
-> **mi lay jia.** - Minä tulen kotiin.
-> **ti seda kursi.** - Sinä istut sohvaa (sohvalla).
+> **mi lai dom.** - Minä tulen kotiin.
+> **ti sit kursi.** - Sinä istut sohvaa (sohvalla).
 > **ta lala sofa.** - Hän makaa sohvaa (sohvalla).
-> **fix nata daria.** - Kalat uivat vettä (vedessä).
+> **matci nata daria.** - Kalat uivat vettä (vedessä).
 > **janger marxa dau.** - Soturit kävelevät tietä (tiellä).
 
 Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini tai substantiivi täydentää preposition.
 
 > **mi na hotel.** - Minä (olen) hotellissa.
-> **mi sona na hotel.** - Minä nukun hotellissa.
-> **mi sona ze xam do suba.** - Minä nukun illasta aamuun.
-> **mi safara ze london do paris.** - Minä matkustan Lontoosta Pariisiin.
+> **mi son na hotel.** - Minä nukun hotellissa.
+> **mi son ze cam do suba.** - Minä nukun illasta aamuun.
+> **mi safar ze london do paris.** - Minä matkustan Lontoosta Pariisiin.
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
 
-> **mi denga ze ti toka.** - Minä odotan sinun lähdöstä lähtien.
-> **mi denga do ti lay jia.** - Minä odotan siihen asti, kun tulet kotiin.
-> **mi denga na ti sona.** - Minä odotan kun sinä nukut.
+> **mi deng ze ti go.** - Minä odotan sinun lähdöstä lähtien.
+> **mi deng do ti lai dom.** - Minä odotan siihen asti, kun tulet kotiin.
+> **mi deng na ti son.** - Minä odotan kun sinä nukut.
 
 Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _prepositio + ajan tai paikan sana + **de**_.
 
 > **na dur de** - aikana, kestäessä
 > **mi denga na dur de ti sona.** - Minä odotan sillä aikaa kun sinä nukut.
 > **na lok de** - paikassa
-> **mi denga na lok de ti toka.** - Minä odotan siinä paikassa mistä sinä lähdit.
-> **na xia de** - alapuolella
-> **un kuta lala na xia de meza.** - Koira makaa pöydän alla.
+> **mi deng na lok de ti toka.** - Minä odotan siinä paikassa mistä sinä lähdit.
+> **na cia de** - alapuolella
+> **un kuta lala na cia de meza.** - Koira makaa pöydän alla.
 > **na men de** - päällä, pinnalla
 > **un mau lala na men de meza.** - Kissa makaa pöydällä.
 
@@ -374,8 +385,8 @@ Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **ge** avulla
 
 Lisäksi myös verbialkuinen lauseke voi täydentää preposition.
 
-> **dura** - kestää (aikaa)
-> **mi denga na dura ti sona.** - Minä odotan sinun nukkumisen aikana.
+> **dur** - kestää (aikaa)
+> **mi deng na dur ti son.** - Minä odotan sinun nukkumisen aikana.
 
 
 Tavan partikkelit
@@ -412,23 +423,6 @@ Ero on siinä, että tavan partikkelit voivat määrittää mitä tahansa sanaa,
 Muuta
 -----
 
-### Lauseen sanajärjestykset
-
-Teoriassa aktiivisen lauseen osat voivat olla kuudessa eri järjestyksessä. Ne kaikki ovat käytännössä mahdollisia panduniassa kahden eri verbipäätteen ansiosta.
-
-    1. Päätteellä -a
-        - objekti–subjekti–verbi (OSV) : musik mi auda.
-        - subjekti–verbi–objekti (SVO) :       mi auda musik.
-        - verbi–objekti–subjekti (VOS) :          auda musik mi.
-    2. Päätteellä -u
-        - subjekti-objekti-verbi (SOV) : mi musik audu.
-        - objekti-verbi-subjekti (OVS) :    musik audu mi.
-        - verbi-subjekti-objekti (VSO) :          audu mi musik.
-
-Se lauseenosa, joka on kauempana verbistä, voidaan aina jättää pois. Siis esimerkiksi **musik mi auda** (_Musiikkia minä kuuntelen_, OSV) voidaan karsia muotoon **mi auda** (_Minä kuuntelen_, SV). Samoin **mi musik audu** (_Minä musiikkia kuuntelen_, SOV) voidaan karsia muotoon **musik audu** (_Muusikkia kuunnellaan_, OV).
-
-Tavallisesti panduniassa käytetyt sanajärjestykset ovat SV, SVO, OV, SOV ja OSV. Viimeksi mainittu esiintyy usein sivulauseissa, esim. **mi vida ren, jo ti suka.** (Minä näin ihmisen, _josta sinä tykkäät_.) Loput sanajärjestyksistä esiintyvät lähinnä runoudessa, laulunsanoissa ja kirjoitetussa kielessä.
-
 
 
 ### Sanaluokkien arvojärjestys
@@ -439,29 +433,29 @@ Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sana
 
     mi vida ti. - Minä näen sinut.
 
-       vida
+       vide
       ┌─┴─┐
      mi   ti
 
 Laatusanat ja lukusanat riippuvat pääsanastaan.
 
-    mi vida san jovan ren. - Minä näen kolme nuorta ihmistä.
+    mi vide sam jovan jen. - Minä näen kolme nuorta ihmistä.
 
-       vida
+       vide
       ┌─┴──┐
-     mi   ren
+     mi   jen
            |
          jovan
            |
-          san
+          sam
 
 Sanaluokkien arvojärjestys panduniassa:
 
-1. Konjunktiot: i, o
+1. Konjunktiot: i, u
 2. Määrepartikkelit: ge, de
 3. Prepositiot: na, do, ze, bi, koz, por
 4. Teonsanat
-5. Asiansana ja pronominit
+5. Asiansanat ja pronominit
 6. Ajan ja tavan partikkelit
 7. Lukusanat
 8. Laatusanat
@@ -470,13 +464,13 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara vol darsa pandunia koz ta ye bon dunia bax.
+    yusef i sara vol darsa pandunia koz ta e bon dunia baca.
 
                          koz
                ┌──────────┴──────────┐
-              vol                    ye
+              vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    bax
+          i         darsa        ta    baca
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |
