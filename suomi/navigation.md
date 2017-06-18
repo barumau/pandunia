@@ -3,7 +3,7 @@
 
 [Äänteet](abc.md)
 [Sana sanalta](jumla.md)
-[Kielioppi](baxa_kanun.md)
+[Kielioppi](baca_kanun.md)
 [Sanasto](loga.md)
-[UKK](kia_i_jabu.md)
+[UKK](kia_i_dap.md)
 
