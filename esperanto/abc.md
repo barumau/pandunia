@@ -7,7 +7,7 @@ Pandunia uzas la bazan latinan alfabeton sen aldonitaj literoj.
 
 Jen la pandunia alfabeto (sekvata per esperanta prononco en krampoj).
 
-> a b c d e f g h i j k l m n o p r s t u v w x y z
+> a b c d e f g h i j k l m n o p r s t u v w x y z  
 > (a b ŝ d e f g h i ĵ k l m n o p r s t u v ŭ ĥ j z)
 
 

@@ -32,6 +32,8 @@ Part 1: Greeting and basics
 
 **lai salam!** Welcome!
 
+**go salam!** Goodbye!
+
 **safar salam!** Have a safe journey!
 
 **son salam!** Sleep well!
@@ -486,16 +488,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mimen safar ze london do paris.** We travel from London to Paris.
 
-**safar muc long.** The voyage is very long.
+**safar hen long.** The voyage is very long.
 
 
-### ju <small>to live, reside</small>
+### abit <small>to live, reside</small>
 
-**ti ju ke?** Where do you live?
+**ti abit ke?** Where do you live?
 
-**mi ju singapur.** I live in Singapore.
+**mi abit singapur.** I live in Singapore.
 
-**kia ti ju sa hotel?** Do you live in this hotel?
+**kia ti abit sa hotel?** Do you live in this hotel?
 
 <!--
 
@@ -573,6 +575,7 @@ Word List
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
+**abit** live, reside <small>Italian _abitare_</small>  
 **ama** but <small>(Turkish _ama_)</small>  
 **bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  

@@ -384,6 +384,8 @@ A modifier particle changes any kind of phrase into an equivalent of a quality-w
 Prepositions
 ------------
 
+### Prepositions of place and time
+
 Pandunia has three prepositions of place and time.
 
 1. **na** - location or moment (in general): at, in, on, during
@@ -392,34 +394,34 @@ Pandunia has three prepositions of place and time.
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **mi lai dom.** - I come home.
-> **ti sit kursi.** - You sit (on) the chair.
-> **ta lala sofa.** - S/he lies (on) the sofa.
-> **matci nata daria.** - Fish swim (in) the sea.
-> **janger marce dau.** - Warriors march (on) the road.
+> **mi lai dom.** - I come home.  
+> **ti sit kursi.** - You sit (on) the chair.  
+> **ta lala sofa.** - S/he lies (on) the sofa.  
+> **matci nata daria.** - Fish swim (in) the sea.  
+> **janger marce dau.** - Warriors march (on) the road.  
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
-> **mi na hotel.** - I'm in the hotel.
-> **mi son na hotel.** - I sleep in the hotel.
-> **mi son ze cam do suba.** - I sleep since evening until morning.
-> **mi safar ze london do paris.** - I travel from London to Paris.
+> **mi na hotel.** - I'm in the hotel.  
+> **mi son na hotel.** - I sleep in the hotel.  
+> **mi son ze cam do suba.** - I sleep since evening until morning.  
+> **mi safar ze london do paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi deng ze ti go.** - I have waited since you left.
-> **mi deng do ti lai dom.** - I wait until you come home.
-> **mi deng na ti son.** - I wait while you sleep.
+> **mi deng ze ti go.** - I have waited since you left.  
+> **mi deng do ti lai dom.** - I wait until you come home.  
+> **mi deng na ti son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
-> **na dur de** - for the time/duration of
-> **mi deng na dur de ti son.** - I wait for the time when you sleep.
-> **na lok de** - at the place of
-> **mi deng na lok de ti toka.** - I wait at the place where you left.
-> **na cia de** - under, below
-> **un kuta lala na cia de meza.** - A dog lies under the table.
-> **na men de** - on the surface of
+> **na dur de** - for the time/duration of  
+> **mi deng na dur de ti son.** - I wait for the time when you sleep.  
+> **na lok de** - at the place of  
+> **mi deng na lok de ti toka.** - I wait at the place where you left.  
+> **na cia de** - under, below  
+> **un waf lala na cia de meza.** - A dog lies under the table.  
+> **na men de** - on the surface of  
 > **un mau lala na men de meza.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
@@ -432,11 +434,34 @@ In addition, a preposition can be followed immediately by a verb.
 > **mi deng na dur ti son.** - _I wait during you sleep._
 
 
-### List of prepositions
+### Prepositions of manner
 
-**na ante** before. **na bada** after.
-**na tcen** in front. **na pitce** behind.
-**na cia** under, below. **na gau** over, above.
+Preposition **bi** indicates means. It corresponds to English prepositions _with_ and _by (by means of)_. The meaning of **bi** is very broad. Often it is followed by another word that defines the meaning more precisely.
+
+> **mi kat pan bi kati.** - I cut bread with a knife.  
+> **mi kat pan bi yung kati.** - I cut bread by using a knife.
+
+Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
+
+> **mi sabi pandunia ka guru.** - I know Pandunia like a master.
+
+**Ka** relates the verb or the adjective to a point of comparison. In the above example **loga** (know-how) is the verb and **guru** (master) is the point of comparison.
+
+**Ka** is also used when adjectives are compared.
+
+> **ban e min dai ka papa.** - The child is smaller than the father.  
+> **opa e sem dai ka papa.** - Grandfather is as big as father.
+
+**Ka** relates the adverbs of comparison – **mas** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+
+
+
+
+### List of compound prepositions
+
+**na ante** before. **na bada** after.  
+**na tcen** in front. **na pitce** behind.  
+**na cia** under, below. **na gau** over, above.  
 **na djin** near. **na long** far away. **na visin** beside, next to.
 
 
@@ -456,14 +481,6 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 > **ta yem plus bir.** - S/he drinks _also beer_.  
 > **ta plus yem bir.** - S/he _also drinks_ beer.  
 > **plus ta yem bir.** - _Also s/he_ drinks beer.
-
-Possibly a more foreign example is the question particle **ka**. It works just like **plus**, only the meaning is different. So **ka** puts the subsequent word under question, or the entire sentence.
-
-> **ti yem bir ka?** - Do you drink beer?  
-> **ti yem ka bir?** - _Is it beer_ that you drink?  
-> **ti ka yem bir?** - _Is it drinking_ that you do to the beer?  
-> **ka ti yem bir?** - _Is it you_ who drinks beer?
-
 
 Note! Also adjectives can modify the subsequent word or the entire sentence.
 

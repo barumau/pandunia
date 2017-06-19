@@ -148,7 +148,7 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! bite seda.** = Hello! Please sit!  
+☺: **salam! bite sit.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
 ☺: **bite yem kafe u tca.** = Please have some coffee or tea.  
 ☻: **mi yem tca. danke.** = I will have some tea, thank you.  
@@ -179,7 +179,7 @@ See how the translation of **bite** changed between the two sentences? The meani
 
 The phrase **bite salam ta** has a useful pattern that can be used for making polite requests.
 
-> **bite seda.** = Please be seated.  
+> **bite sit.** = Please be seated.  
 > **bite dar kafe.** = Please give me some coffee.  
 > **bite dar tca.** = Please give me some tea.  
 > **bite yem tca.** = Please have some tea.
@@ -211,16 +211,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **seda** to sit. **yem** to eat or drink.
+**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **sit** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
 
 1. ta yem tca.
-2. cef bite ta seda.
+2. cef bite ta sit.
 3. bite yem kafe o tca.
-4. mama bite me saf kamar.
-5. cef seda i yem kafe.
+4. mama bite mi saf kamar.
+5. cef sit i yem kafe.
 
 
 --------------------------------------------------------------------------------
@@ -310,7 +310,7 @@ Try translating these sentences from English to Pandunia.
 
 1. kia ti sabi pandunia?
 2. ye. mi sabi pandunia.
-3. kia mama se yem kafe?
+3. kia mama yem kafe?
 4. no. ta no yem kafe.
 5. kia ta yem sup?
 6. (ta) no yem.
@@ -355,17 +355,17 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kop** cup, glass, mug. **kong** empty. **ha** to have. **mau** cat. **waf** dog. **du** two. **nul** zero. **ama** but.
+**kop** cup, glass, mug. **xali** empty. **ha** to have. **mau** cat. **waf** dog. **du** two. **nul** zero. **ama** but.
 
 
 ### Answers to the Exercises
 
 1. ta no saf kamar.
-2. un kop no kong.
+2. un kop no xali.
 3. du waf no yem sup.
 4. ta no ha waf i mau. / ta ha no waf i no mau.
-5. cef se yem tca ama no kafe.
-6. mama se ha no waf ama du mau.
+5. cef yem tca ama no kafe.
+6. mama ha no waf ama du mau.
 
 
 <!--

@@ -1,4 +1,5 @@
 ##a  
+abit : live (reside, inhabit)  
 adres : address  
 adulte : adult  
 afrika : Africa  
@@ -465,12 +466,12 @@ jiva logi : biology (study of life)
 joga : play (have fun)  
 jok : joke  
 jovan : young  
-ju : live (reside)  
 jumla : sentence (phrase)  
 jung : melt  
 jup : skirt  
 jus : juice  
 ##k  
+ka : like (as, as if, than)  
 kabau : water buffalo  
 kabil : able (capable)  
 kabila : tribe  
@@ -515,6 +516,7 @@ kastan : chestnut
 kat : cut  
 kata : story (tale)  
 katca : catch (to hunt)  
+kati : knife  
 kava : dig (excavate)  
 kawai : cute  
 kazu : event (case, instance)  
@@ -970,7 +972,7 @@ rotor : rotor (rotator)
 roza : rose  
 ruk : back  
 ruk sak : backpack (rucksack)  
-rupa : appearance (looks)  
+rup : appearance (looks)  
 ruski : Russian (ethnic Russian)  
 rutin : routine  
 ##s  
@@ -1102,7 +1104,6 @@ tca : tea
 tca wan : tea bowl  
 tcabuk : whip (lash)  
 tcakra : wheel  
-tcaku : knife  
 tcap : press (stamp)  
 tcar : four (4)  
 tcat : chat (informal conversation)  
