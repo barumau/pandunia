@@ -156,9 +156,9 @@ Note: When an adjective, like **ruje**, is placed before a noun, it works as a m
 
 Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia ti doktor.** (I ask, you doctor?) by dropping out the first word.
 
-**kia ti bon?** How are you? (Literally: _Are you good?_)
-**mi bon.** I'm good.
-**kia ti?** And you?
+**kia ti bon?** How are you? (Literally: _Are you good?_)  
+**mi bon.** I'm good.  
+**kia ti?** And you?  
 **mi no bon.** I'm not good.
 
 
@@ -171,8 +171,8 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **mi vol ha nova fon.** I want to have a new phone.
 
-**kia ti ha ana?** Do you have children?
-**mi ha du ana.** I have two children.
+**kia ti ha ban?** Do you have children?  
+**mi ha du ban.** I have two children.
 
 
 
@@ -266,10 +266,10 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi vol yem kafe.** I want to drink coffee.
 
-**kia ti vol yem tca?** Would you like to drink tea?
+**kia ti vol yem tca?** Would you like to drink tea?  
 **no. mi no vol tca. mi vol kafe.** No, I don't want tea. I want coffee.
 
-**ti vol ke pingo?** Which apple do you want?
+**ti vol ke pingo?** Which apple do you want?  
 **sa lal.** This red one.
 
 
@@ -389,7 +389,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **se loga ke yang bi pandunia ki "cat"?** How do you say "cat" in Pandunia?
 
-**"cat" e ke na pandunia?** What is "cat" in Pandunia?
+**"cat" e ke bi pandunia?** What is "cat" in Pandunia?
 
 **mau loga miau.** Cat says meow.
 
@@ -573,62 +573,62 @@ Word List
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
-**ama** but <small>(Turkish _ama_)</small>
-**bai** white <small>(Mandarin _bái_ 白)</small>
-**batu** stone <small>(Indonesian _batu_)</small>
-**bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>
-**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>
-**bite** ask, request <small>(German _bitten_)</small>
-**blu** blue <small>(English _blue_)</small>
-**bon** good <small>(French _bon_)</small>
-**cam** evening <small>(Hindi _śām_ शाम )</small>
-**den** day <small>(Russian _den'_ день)</small>
-**dom** home <small>(Russian _dom_ дом)</small>
-**e** to be <small>(Portuguese _é_)</small>
-**englic** English
-**fem** woman <small>(French _femme_)</small>
-**gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
-**ha** have; there is <small>(Portuguese _há_)</small>
-**i** and <small>(Polish _i_)</small>
-**jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>
-**jen** person <small>(Mandarin _rén_ 人)</small>
-**kafe** coffee <small>(German _Kaffee_)</small>
-**kara** black <small>(Turkish _kara_)</small>
-**kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>
-**kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>
-**ke** what? who? <small>(Spanish _qué_)</small>
-**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>
-**kia** ask, question <small>(Hindi _kyā_ क्या)</small>
-**lai** come <small>(Vietnamese _lai_)</small>
-**lal** red <small>(Bengali _lal_)</small>
-**mama** mother <small>(Mandarin _māma_ 妈妈)</small>
-**man** man <small>(English _man_)</small>
-**mana** to mean; meaning <small>(Swahili _maana_)</small>
-**mede** help <small>(French _aider_)</small>
-**mi** I, me <small>(Swahili _mimi_)</small>
-**mimen** we
-**neses** need; necessary <small>(Spanish _necesitar_)</small>
-**no** no, not <small>(Spanish _no_)</small>
-**notce** night <small>(Spanish _noche_)</small>
-**nun** now, currently <small>(German _nun_)</small>
-**papa** father <small>(Russian _papa_ папа)</small>
-**pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>
-**sa** this; that <small>(Haitian Creole _sa_)</small>
-**sabi** know how <small>(Nigerian Pidgin _sabi_)</small>
-**safar** travel, journey <small>(Arabic _safar_ سفر)</small>
-**salam** greet; hello <small>(Arabic _salām_ سلام)</small>
-**suba** morning <small>(Wolof _subba_)</small>
-**tca** tea <small>(Mandarin _chá_ 茶)</small>
-**ti** you <small>(Russian _ty_ ты)</small>
-**timen** you all
-**ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>
-**tamen** they <small>(Mandarin _tāmen_ 他们)</small>
-**vide** see, look <small>(Russian _videt'_ видеть)</small>
-**u** or <small>(French _ou_)</small>
-**vol** want <small>(Italian _volere_)</small>
-**wang** yellow <small>(Cantonese _wong_)</small>
-**xabar** news <small>(Malay _khabar_)</small>
-**ye** yes <small>(Korean 예 _ye_)</small>
-**yem** eat, drink <small>(Turkish _yemek_)</small>
+**ama** but <small>(Turkish _ama_)</small>  
+**bai** white <small>(Mandarin _bái_ 白)</small>  
+**batu** stone <small>(Indonesian _batu_)</small>  
+**bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
+**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
+**bite** ask, request <small>(German _bitten_)</small>  
+**blu** blue <small>(English _blue_)</small>  
+**bon** good <small>(French _bon_)</small>  
+**cam** evening <small>(Hindi _śām_ शाम )</small>  
+**den** day <small>(Russian _den'_ день)</small>  
+**dom** home <small>(Russian _dom_ дом)</small>  
+**e** to be <small>(Portuguese _é_)</small>  
+**englic** English  
+**fem** woman <small>(French _femme_)</small>  
+**gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
+**ha** have; there is <small>(Portuguese _há_)</small>  
+**i** and <small>(Polish _i_)</small>  
+**jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>  
+**jen** person <small>(Mandarin _rén_ 人)</small>  
+**kafe** coffee <small>(German _Kaffee_)</small>  
+**kara** black <small>(Turkish _kara_)</small>  
+**kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
+**kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
+**ke** what? who? <small>(Spanish _qué_)</small>  
+**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>  
+**kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
+**lai** come <small>(Vietnamese _lai_)</small>  
+**lal** red <small>(Bengali _lal_)</small>  
+**mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
+**man** man <small>(English _man_)</small>  
+**mana** to mean; meaning <small>(Swahili _maana_)</small>  
+**mede** help <small>(French _aider_)</small>  
+**mi** I, me <small>(Swahili _mimi_)</small>  
+**mimen** we  
+**neses** need; necessary <small>(Spanish _necesitar_)</small>  
+**no** no, not <small>(Spanish _no_)</small>  
+**notce** night <small>(Spanish _noche_)</small>  
+**nun** now, currently <small>(German _nun_)</small>  
+**papa** father <small>(Russian _papa_ папа)</small>  
+**pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
+**sa** this; that <small>(Haitian Creole _sa_)</small>  
+**sabi** know how <small>(Nigerian Pidgin _sabi_)</small>  
+**safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
+**salam** greet; hello <small>(Arabic _salām_ سلام)</small>  
+**suba** morning <small>(Wolof _subba_)</small>  
+**tca** tea <small>(Mandarin _chá_ 茶)</small>  
+**ti** you <small>(Russian _ty_ ты)</small>  
+**timen** you all  
+**ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>  
+**tamen** they <small>(Mandarin _tāmen_ 他们)</small>  
+**vide** see, look <small>(Russian _videt'_ видеть)</small>  
+**u** or <small>(French _ou_)</small>  
+**vol** want <small>(Italian _volere_)</small>  
+**wang** yellow <small>(Cantonese _wong_)</small>  
+**xabar** news <small>(Malay _khabar_)</small>  
+**ye** yes <small>(Korean 예 _ye_)</small>  
+**yem** eat, drink <small>(Turkish _yemek_)</small>  
 
 

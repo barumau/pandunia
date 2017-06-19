@@ -21,6 +21,8 @@
 
 **safar salam!** Bonan vojaĝon!
 
+**son salam!** Bonan nokton!
+
 > Notu! **Salam** estas ĝenerala vorto por salutado en ĉiuj situacioj.
 
 
@@ -138,11 +140,11 @@
 
 **kia ti e doktor?** Ĉu vi estas doktoro?
 
-> Notu! Demandoj ofter komencas per **kia**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi kia ti doktor.** (Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
+> Notu! Demandoj ofte komencas per **kia**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi kia ti doktor.** (Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
 
-**kia ti bon?** Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)
-**mi bon.** Mi fartas bone.
-**ti ne?** Kaj vi?
+**kia ti bon?** Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
+**mi bon.** Mi fartas bone.  
+**kia ti?** Kaj vi?  
 **mi no bon.** Mi ne fartas bone.
 
 
@@ -155,8 +157,8 @@
 
 **mi vol ha nova fon.** Mi volas havi novan telefonon.
 
-**kia ti ha ana?** Ĉu vi havas infanojn?
-**mi ha du ana.** Mi havas du infanojn.
+**kia ti ha ban?** Ĉu vi havas infanojn?  
+**mi ha du ban.** Mi havas du infanojn.
 
 
 
@@ -251,134 +253,135 @@
 
 **mi vol yem kafe.** Mi volas trinki kafon.
 
-**kia ti vol yem ca?** Ĉu vi volas trinki teon?
+**kia ti vol yem ca?** Ĉu vi volas trinki teon?  
 **no. mi no vol ca. mi vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
 
-**ti vol ke pingo?** Kiun pomon vi volas manĝi?
-**sa roxu.** Tiun ruĝan.
+**ti vol ke pingo?** Kiun pomon vi volas manĝi?  
+**sa lal.** Tiun ruĝan.
 
 
 
 ### bite <small>peti</small>
 
-**mi bite ti yem ca.** Mi petas ke vi trinku teon.
+**mi bite ti yem tca.** Mi petas ke vi trinku teon.
 
-**mi bite ti lai jia.** Mi petas ke vi venu hejmen.
+**mi bite ti lai dom.** Mi petas ke vi venu hejmen.
 
 **mi bite ti mede mi.** Mi petas ke vi helpu min.
 
 > Notu! Faru mallongajn petojn forlasante la pronomojn.
 
-**bite yem ca.** Bonvolu trinki teon!
+**bite yem tca.** Bonvolu trinki teon!
 
 **bite yem kafe.** Bonvolu trinki kafon!
 
-**bite lai jia.** Bonvolu veni hejmen!
+**bite lai dom.** Bonvolu veni hejmen!
 
 **bite mede mi.** Bonvolu helpi min.
 
 
-<!--
 
-### danke <small>thank</small>
+### danke <small>danki</small>
 
-**danke!** Thanks!
+**danke!** Dankon!
 
-**danke ti.** Thank you.
+**danke ti.** Dankon al vi.
 
-**mi danke ti.** I thank you.
+**mi danke ti.** Mi dankas vin.
 
-**mi danke ti mede mi.** I thank you for helping me.
+**mi danke ti mede mi.** Mi dankan vin pro helpi min.
 
-**danke ti mede mi.** Thanks for helping me.
+**danke ti mede mi.** Dankon pro helpi min.
 
-**ti ketci.** You're welcome. (Literally: _You're polite._)
-
-
-
-### haide <small>let's</small>
-
-**haide yem!** Let's eat!
-
-**haide go yem!** Let's go eat!
-
-**haide go jia.** Let's go home.
+**ti ketci.** Nedankinde. (Laŭvorte: Vi ĝentila._)
 
 
 
-### nesese <small>need</small>
+### haide <small>ni faru</small>
 
-**mi nesese mede.** I need help.
+**haide yem!** Ni manĝu!
 
-**mi nesese yem.** I'm hungry.
+**haide go yem!** Ni iru manĝi!
 
-**kia ti nesese yem?** Are you hungry?
-
-**kia ti nesese sui?** Are you thirsty?
+**haide go dom.** Ni iru hejmen.
 
 
 
+### neses <small>bezoni</small>
 
-Part 3: Communication
+**mi neses mede.** Mi bezonas helpon.
+
+**mi neses yem.** Mi bezonas manĝi.
+
+**kia ti neses yem?** Ĉu vi bezonas manĝi?
+
+**kia ti neses sui?** Ĉu vi bezonas trinki (akvon)?
+
+
+
+
+3a parto: Komunikado
 ---------------------
 
-### mafu <small>sorry, pardon</small>
+### maf <small>pardono</small>
 
-**mafu! mi no aha.** Sorry, I don't understand.
+**maf! mi no aha.** Pardonon, mi no komprenas.
 
-**mafu! sa ke?** Excuse me, what's this?
+**maf! sa ke?** Pardonon, kio estas tio?
 
-**mafu. ti nam ke?** Excuse me, what's your name?
-
-
-
-### aha <small>understand</small>
-
-**kia ti aha mi?** Do you understand me?
-
-**mi aha.** I understand.
-
-**mafu. mi no aha ti.** Sorry. I don't understand you.
-
-**mi no bas aha ti.** I didn't quite understand you.
-
-**mi aha nul.** I don't understand at all.
+**maf. ti nam ke?** Pardonon, kio estas via nomo?
 
 
 
-### sabi <small>know how</small>
+### aha <small>kompreni</small>
 
-**mi sabi cala gar.** I can drive a car.
+**kia ti aha mi?** Ĉu vi komprenas min?
 
-**ta no sabi cala gar.** S/he doesn't know how to drive a car.
+**mi aha.** Mi komprenas.
 
-**kia ti sabi culi ta?** Do you know how to fix it?
+**maf. mi no aha ti.** Pardonon, mi ne komprenas vin.
 
-**kia ti sabi pandunia?** Do you speak Pandunia?
+**mi no bas aha ti.** Mi ne sufiĉe komprenis vin.
 
-**mi sabi pandunia.** I speak Pandunia.
-
-**mi sabi cau pandunia.** I speak a little Pandunia.
-
-**mi no sabi englic.** I don't speak angla.
-
-**mafu. mi no sabi ti ge baca.** Sorry, I don't speak your language.
+**mi aha nul.** Mi komprenas nenion.
 
 
 
-### loga <small>to say, speak, talk</small>
+### sabi <small>povi, scipovi</small>
 
-**ti loga ke?** What did you say?
+**mi sabi gida gar.** Mi scipovas konduki aŭton.
 
-**mi loga do ti.** I talk to you.
+**ta no sabi cala gar.** Ŝi/li ne scipovas konduki aŭton.
 
-**mimen loga do alise.** We talk to each other.
+**kia ti sabi culi ta?** Ĉu vi scipovas ripari ĝin?
 
-**se loga ke yang bi pandunia ki "dog"?** How do you say "dog" in Pandunia?
+**kia ti sabi pandunia?** Ĉu vi povas paroli pandunion?
 
-**"dog" e ke na pandunia?** What is "dog" in Pandunia?
+**mi sabi pandunia.** Mi scipovas pandunion.
+
+**mi sabi cau pandunia.** Mi scipovas ete pandunion.
+
+**mi no sabi englic.** Mi ne povas paroli la anglan.
+
+**maf. mi no sabi ti ge baca.** Pardonon, mi ne povas paroli vian lingvon.
 
 
+
+### loga <small>diri, paroli</small>
+
+**ti loga ke?** Kion vi diris?
+
+**mi loga do ti.** Mi parolas al vi.
+
+**mimen loga do alise.** Ni parolas unu al alia.
+
+**se loga ke yang bi pandunia ki "kato"?** Kiel oni diras "kato" pandunie?
+
+**"kato" e ke bi pandunia?** Kio estas "kato" pandunie?
+
+**mau loga miau.** Kato diras miaŭ.
+
+<!--
 
 ### audi <small>to listen, hear</small>
 
@@ -391,137 +394,98 @@ Part 3: Communication
 **ti audi ke yang ge musik?** What kind of music do you listen to?
 
 
+### vide <small>to see</small>
+
+**suka vide ti.** Happy to see you!
+
+**vide ti bada!** See you later!
+
+**vide ti nale!** See you tomorrow!
+
+**mi vide ta yer.** I saw him/her yesterday.
+
+
 ### mana <small>to mean</small>
 
-**"jia" ye mana ke?** What does "jia" mean?
+**sa loga ye mana ke?** What does this word mean?
 
--->
+**"mau" ye mana ke?** What does "mau" mean?
 
+**ta mana yang de hewan.** It means a kind of animal.
 
-<!--
+**mi no aha ta mana ke.** I don't understand what it means.
 
-**** See you later!
-**** See you tomorrow!
 
-**** I study Pandunia.
+### kitab <small>write</small>
 
-**** How do you say "" in Pandunia?
-**** Show me in the dictionary!
-**** What does this word mean?
-**** I don't remember.
+**bite kitab ti ge adres.** Please, write your address.
 
-**** Please, write here!
+**bite kitab ta na sa.** Please, write it here!
 
 
+### baca <small>language, communication</small>
 
+**kia timen baca pandunia.** Do you speak in Pandunia?
 
-**** (I wish you) all the best!
+**mimen baca pandunia.** We speak in Pandunia.
 
-**** I will never forget you.
+**kia ti sabi baca englic?** Can you speak English?
 
-**** Don't worry! (Hakuna matata!)
+**frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
-**toto okei** Everything is alright.
+**putong han, nipon, indonesia** Chinese, Japanese, Indonesian
 
-**** Cheers!
+**arabi, turki, farsi, urdu, hindi** Arabic, Turkish, Farsi, Urdu, Hindi
 
+**swahili, hausa, yoruba, amara** Swahili, Hausa, Yoruba, Amharic
 
 
 
-**** Of course!
+## Part 4. Going around
 
+### go <small>to go</small>
 
-**** Where do you live?
+**ti go ke?** Where are you going?
 
-**** I work at ...
+**mi go dom.** I'm going home.
 
-**** Do you like ...?
+**mi mus go ke?** Where should I go?
 
-**** I feel alright.
+**mi mus go ke jen?** To whom should I go?
 
+**haide go!** Let's go!
 
-**** Please, sit here!
+**haide go bi ped** Let's go by foot!
 
-**** I rather stand.
 
-**** They wait for us.
-**** I wait for you in front of the house.
-**** We are being called.
+### lai <small>to come</small>
 
-**** Where should I go?
-**** To whom should I go?
+**bite lai!** Come here!
 
-**** Where is the theater?
+**ti lai ze ke?** Where do you come from?
 
-**** Where are you going?
-**** Let's go!
-**** Let's go by foot!
+**mi lai ze dubai.** I come from Dubai.
 
+**mi lai dom nale.** I will come home tomorrow.
 
-**** I'm looking for the toilet.
 
-**** Go there / forward / back / left / right.
-**** Come here / back / to us.
+### safar <small>to travel</small>
 
-**** With pleasure!
+**kia ti safar bi tren?** Do you travel by train?
 
-**** When does the party begin?
+**mimen safar ze london do paris.** We travel from London to Paris.
 
-**** They sell everything.
+**safar muc long.** The voyage is very long.
 
-**** I will buy a beer.
 
-**** How much does it cost?
-**** Nothing.
-**** It is cheap / expensive.
+### ju <small>to live, reside</small>
 
-**** What is it like?
-**** Is it new?
+**ti ju ke?** Where do you live?
 
-**** Which is better?
-**** This is the best of all.
+**mi ju singapur.** I live in Singapore.
 
-**** You are right.
+**kia ti ju sa hotel?** Do you live in this hotel?
 
-
-**** Leave me alone!
-
-**** He/she sits in the room.
-
-**** I give them a book.
-
-
-
-
-
-
-Part 3
-------
-
-
-### la <small>that, the one</small>
-
-**mi vol la haus.** I want the house.
-
-
-
-
-
-### loji <small>study, research</small>
-
-**mi sabi du baxa.** I know two languages.
-
-**ta doku loji buku.** He/she reads a study book.
-
-Tip: Action words like **loji** and **baxa** are only normal, inactive words when they are in the place of a noun in a sentence. They become active when they come after the subject.
-
-**mi baxa pandunia.** I speak Pandunia.
-
-
-**ke habar?** What's new?
-
-
-**mi logi kazu logi.** I study a case study.
 -->
 
 
@@ -531,64 +495,61 @@ Vortaro
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from angla and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
-**ama** sed <small>(turka _ama_)</small>
-**bai** blanka <small>(mandarenĉina _bái_ 白)</small>
-**batu** ŝtono <small>(indonezia _batu_)</small>
-**bazar** bazaro, vendoplaco <small>(persa _bāzār_ بازار)</small>
-**baca** lingvo <small>(hindia _bhāśā_ भाषा)</small>
-**bite** peti <small>(mandarenĉina _qǐng_ 请)</small>
-**blu** blua <small>(angla _blue_)</small>
-**bon** bona <small>(franca _bon_)</small>
-**cam** vespero <small>(hindia _śām_ शाम )</small>
-**den** tago <small>(rusa _den'_ день)</small>
-**e** esti <small>(portugala _é_)</small>
-**englic** angla <small>(angla _English_)</small>
-**fem** virino <small>(franca _femme_)</small>
-**gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>
-**ha** havi <small>(portugala _há_)</small>
-**i** kaj <small>(pola _i_)</small>
-**jan** scii <small>(hindia _jānnā_ जानना)</small>
-**jia** hejmo <small>(mandarenĉina _jiā_ 家)</small>
-**kafe** kafo <small>(germana _Kaffee_)</small>
-**kara** nigra <small>(turka _kara_)</small>
-**kat** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>
-**kata** rakonti <small>(japana _kataru_ 語る)</small>
-**ke** kio? kiu? <small>(hispana _qué_)</small>
-**keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>
-**kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>
-**lai** veni <small>(vjetnama _lai_)</small>
-**lal** ruĝa <small>(bangla _lal_)</small>
-**mama** patrino <small>(mandarenĉina _māma_ 妈妈)</small>
-**man** viro <small>(angla _man_)</small>
-**mana** signifi <small>(sŭahila _maana_)</small>
-**mede** helpi <small>(franca _aider_)</small>
-**mi** mi <small>(sŭahila _mimi_)</small>
-**mimen** ni
-**nesese** bezoni <small>(haitia _nesesè_)</small>
-**nili** blua <small>(karnata _nīli_)</small>
-**no** ne <small>(hispana _no_)</small>
-**noce** nokto <small>(hispana _noche_)</small>
-**nau** nun <small>(angla _now_)</small>
-**papa** patro <small>(rusa _papa_ папа)</small>
-**pingo** pomo <small>(mandarenĉina _píngguǒ_ 苹果)</small>
-**ren** persono <small>(mandarenĉina _rén_ 人)</small>
-**lal** ruĝa <small>(rumana _roșu_)</small>
-**sa** tiu <small>(haitia _sa_)</small>
-**sabi** scipovi <small>(niĝeria piĝino _sabi_)</small>
-**safar** vojaĝi <small>(araba _safar_ سفر)</small>
-**salam** saluti <small>(araba _salām_ سلام)</small>
-**suba** mateno <small>(ŭolofa _subba_)</small>
-**tca** teo <small>(mandarenĉina _chá_ 茶)</small>
-**ti** vi (singulare) <small>(rusa _ty_ ты)</small>
-**timen** vi (plurale)
-**ta** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>
-**tamen** ili <small>(mandarenĉina _tāmen_ 他们)</small>
-**vide** vidi, rigardi <small>(rusa _videt'_ видеть)</small>
-**u** aŭ <small>(franca _ou_)</small>
-**vol** voli <small>(itala _volere_)</small>
-**wang** flava <small>(kantonĉina _wong_)</small>
-**xabar** novaĵoj <small>(malaja _khabar_)</small>
-**ye** jes <small>(korea 예 _ye_)</small>
-**yelo** flava <small>(angla _yellow_)</small>
-**yem** manĝi, trinki <small>(turka _yemek_)</small>
+**ama** sed <small>(turka _ama_)</small>  
+**bai** blanka <small>(mandarenĉina _bái_ 白)</small>  
+**batu** ŝtono <small>(indonezia _batu_)</small>  
+**bazar** bazaro, vendoplaco <small>(persa _bāzār_ بازار)</small>  
+**baca** lingvo <small>(hindia _bhāśā_ भाषा)</small>  
+**bite** peti <small>(mandarenĉina _qǐng_ 请)</small>  
+**blu** blua <small>(angla _blue_)</small>  
+**bon** bona <small>(franca _bon_)</small>  
+**cam** vespero <small>(hindia _śām_ शाम )</small>  
+**den** tago <small>(rusa _den'_ день)</small>  
+**dom** hejmo <small>(rusa _dom_ дом)</small>  
+**e** esti <small>(portugala _é_)</small>  
+**englic** angla <small>(angla _English_)</small>  
+**fem** virino <small>(franca _femme_)</small>  
+**gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
+**ha** havi <small>(portugala _há_)</small>  
+**i** kaj <small>(pola _i_)</small>  
+**jan** scii <small>(hindia _jānnā_ जानना)</small>  
+**jen** persono <small>(mandarencxina _rén_ 人)</small>  
+**kafe** kafo <small>(germana _Kaffee_)</small>  
+**kara** nigra <small>(turka _kara_)</small>  
+**kat** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
+**kata** rakonti <small>(japana _kataru_ 語る)</small>  
+**ke** kio? kiu? <small>(hispana _qué_)</small>  
+**ketci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
+**kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>  
+**lai** veni <small>(vjetnama _lai_)</small>  
+**lal** ruĝa <small>(bangla _lal_)</small>  
+**mama** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
+**man** viro <small>(angla _man_)</small>  
+**mana** signifi <small>(sŭahila _maana_)</small>  
+**mede** helpi <small>(franca _aider_)</small>  
+**mi** mi <small>(sŭahila _mimi_)</small>  
+**mimen** ni  
+**nesese** bezoni <small>(haitia _nesesè_)</small>  
+**no** ne <small>(hispana _no_)</small>  
+**noce** nokto <small>(hispana _noche_)</small>  
+**nau** nun <small>(angla _now_)</small>  
+**papa** patro <small>(rusa _papa_ папа)</small>  
+**pingo** pomo <small>(mandarenĉina _píngguǒ_ 苹果)</small>  
+**sa** tiu <small>(haitia _sa_)</small>  
+**sabi** scipovi <small>(niĝeria piĝino _sabi_)</small>  
+**safar** vojaĝi <small>(araba _safar_ سفر)</small>  
+**salam** saluti <small>(araba _salām_ سلام)</small>  
+**suba** mateno <small>(ŭolofa _subba_)</small>  
+**tca** teo <small>(mandarenĉina _chá_ 茶)</small>  
+**ti** vi (singulare) <small>(rusa _ty_ ты)</small>  
+**timen** vi (plurale)  
+**ta** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>  
+**tamen** ili <small>(mandarenĉina _tāmen_ 他们)</small>  
+**vide** vidi, rigardi <small>(rusa _videt'_ видеть)</small>  
+**u** aŭ <small>(franca _ou_)</small>  
+**vol** voli <small>(itala _volere_)</small>  
+**wang** flava <small>(kantonĉina _wong_)</small>  
+**xabar** novaĵoj <small>(malaja _khabar_)</small>  
+**ye** jes <small>(korea 예 _ye_)</small>  
+**yem** manĝi, trinki <small>(turka _yemek_)</small>  
 

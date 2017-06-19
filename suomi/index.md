@@ -19,7 +19,7 @@ Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido
 
 ## Keskustelua panduniasta
 
-Useat ihmiset harrastavat panduniaa. Panduniaa käsitteleviä englanninkielisiä foorumeita on [Redditissä](https://www.reddit.com/r/pandunia/), [Facebookissa](http://www.facebook.com/groups/pandunia) ja [Telegramissa](http://t.me/pandunia_grup).
+Useat ihmiset harrastavat panduniaa. Panduniaa käsitteleviä englanninkielisiä foorumeita on [Redditissä](https://www.reddit.com/r/pandunia/), [Facebookissa](http://www.facebook.com/groups/pandunia) ja [Telegramissa](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA).
 
 Suomeksi panduniasta voi keskustella Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä. Toinen paikka on Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet). Pandunialla on myös oma mutta hiljainen [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia), johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
 

@@ -1,70 +1,58 @@
 Usein kysyttyjä kysymyksiä
 ==========================
 
+## Yleistä
 
 #### Kuinka moni osaa panduniaa?
 
 Tällä hetkellä panduniaa osaa muutama kymmenen harrastajaa. Sitä opetellaan pikemmin huvin kuin hyödyn vuoksi.
 
-<!--
-#### When was Pandunia created?
+#### Milloin pandunia on luotu?
 
-Creators of Pandunia began to create a language together first in 2005. Since the beginning the basic idea was to create an evenly global auxiliary language. Many different structures and ideas were tried over the years. The name _Pandunia_ was invented already in 2007 but the language got its "final" form in 2016 – though of course languages evolve all the time!
--->
-
+Pandunian tekijät alkoivat työskennellä yhdessä vuonna 2005. Alusta lähtien päämääränä oli luoda kansainvälinen apukieli, joka olisi maailmanlaajuisesti tasapuolinen. Kehityksen aikana on kokeiltu monia eri lähestymistapoja ja ratkaisuja. Nimi _pandunia_ keksittiin jo vuonna 2007, mutta kieli alkoi saada lopullisen muotonsa vasta vuoden 2016 kuluessa – tosin kielethän kehittyvät koko ajan!
 
 #### Mitä pandunian lippu esittää?
 
 ![](http://www.pandunia.info/kuvat/bandera.png "Pandunian lippu")
 
-Pandunian lippu esittää Maapalloa. Lipussa on vihreä maa, kirkkaan sininen ilmakehä ja keltainen aurinko tumman sinisen avaruuden muodostamaa taustaa vasten.
-
+Pandunian lippu esittää maapalloa. Vihreä tarkoittaa maata, kirkkaansininen ilmakehää, keltainen aurinkoa ja taustan tummansini avaruutta, jossa maapallo kelluu.
 
 #### Miksi pandunian maskotti on vesinokkaeläin?
 
-Vesinokkaeläin on muniva, ankannokkainen, majavanhäntäinen, saukonräpyläinen nisäkäs, joka elää Itä-Australiassa. Se on epätavallinen otus ja aivan oma lajinsa. Samalla tavalla myöskään pandunia ei sovi mihinkään perinteiseen kieliperheeseen, vaan se on ainoalaatuinen sekoitus idän ja lännen, pohjoisen ja etelän sanoista ja kieliopeista.
+Vesinokkaeläin on munia muniva, ankannokkainen, majavanhäntäinen ja saukonräpyläinnen otus, joka asuu Itä-Australiassa. Se on erikoinen otus ja juuri sen vuoksi se on sopiva maskotti pandunialle, joka on myös erikoislaatuinen sekoitus eri kielten sanoista ja rakenteista idästä ja lännestä, pohjoisesta ja etelästä.
 
-![](http://www.pandunia.info/kuvat/platypusbandera.png "vesinokkaeläin")
+Pandunia ei istu mihinkään perinteiseen kielikategoriaan ja myös siinä suhteessa se muistuttaa vesinokkaeläintä, joka on ainutlaatuinen.
 
-
-#### I want to change something in Pandunia. What should I do?
-
-If your change is a small thing, you should try it in practice with other people and see how it works. If it really is a good change, other people will accept it and use it.
-
-Creating offshoot languages is very common in the auxiliary language community. The case of Esperanto is famous. Offshoots of Esperanto are counted in the hundreds but most people haven't even heard of them. Esperanto is still the most popular language of its kind.
-
-It is better to have one big language with several dialects than many competing languages.
+![](http://www.pandunia.info/kuvat/platypusbandera.png "Vesinokkaeläin")
 
 
-#### What languages have influenced the grammar of Pandunia?
+## Menneisyys, nykyisyys ja tulevaisuus
 
-Pandunia has been influenced by both natural and constructed languages.
+#### Haluan muuttaa panduniasta jotakin. Mitä minun pitäisi tehdä?
 
-- Natural languages with isolating grammar were a useful model. For example the pivot structure comes directly from Chinese.
-- Works of earlier language makers were inspirational.
-    - Esperanto, Ido, Novial etc. were closely examined.
-    - Latino sine Flexione, Lingua Sistemfrater and Interglossa all have well thought-out isolating grammars.
-- Natural contact languages gave many ideas. It is an interesting observation that when speakers of different languages come into contact, they tend to create a contact language with isolating grammar to overcome the language barrier — no matter what type of languages they speak natively.
+Jos haluat tehdä pienen muutoksen, sinun kannattaa kokeilla sen toimivuutta käytännössä muiden ihmisten kanssa. Jos se todella on hyvä muutos, muut ihmiset alkavat käyttää sitä ja se leviää.
 
-The "family tree" of Pandunia is presented in the figure below.
+Keinotekoisten kielten piirissä on yleistä luoda uusia kieliä vanhojen pohjalta. Esperanto on tullut kuuluisaksi siitä, että sen pohjalta on luotu sadoittain _parannettuja esperantoja_, mutta tosiasiassa lähes kaikki niistä ovat painuneet unholaan. Esperanto on yhä lajissaan tunnetuin ja suosituin.
 
-![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
+On parempi, että on yksi suuri kieli ja monta murretta kuin monta keskenään kilpailevaa kieltä.
+
+#### Mitkä kielet ovat vaikuttaneet pandunian syntyyn?
+
+Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielistä.
+
+- Luonnolliset taipumattomat kielet olivat tärkeä malli. Esimerkiksi _saranarakenne_ on peräisin suoraan kiinan kielestä.
+- Aikaisemmat keinotekoiset kielet toimivat inspiraation lähteenä.
+    - Esperanto, Ido, Novial vaikuttivat tietyssä välivaiheessa pandunian rakenteeseen
+    - mutta loppujen lopuksi päämääräksi tuli taipumaton kielioppi, jollaisia on mm. Latino Sine Flexionessa, Lingua Sistemfraterissa ja Interglossassa.
+- Luonnolliset yhteyskielet eli niin sanotut pidžinit ja kreolit olivat myös tarkastelun koheena. On mielenkiintoista huomata, että kun eri kieliä puhuvat ihmiset joutuvat tekemisiin toistensa kanssa, he luovat spontaanisti yhteisen kielen, jonka sanat ovat taipumattomia — riippumatta siitä minkälaista kieltä he puhuvat syntyjään.
+
+Pandunian "sukupuu" on kuvattu alla.
+
+![](http://www.pandunia.info/sura/familytree.gif "Pandunian sukupuu")
 
 
-#### Why isolating structure was chosen for Pandunia?
 
-Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
-
-1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
-2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
-
-Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
-
-To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
-
-    Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    vide  du  sundar    yen        nun.
-               I  can    see   two beautiful eyes       now.
+## Apukieli
 
 <!--
 #### What is a worldlang?
@@ -72,38 +60,82 @@ To demonstrate the difference, let's compare the same sentence in Esperanto (an 
 A worldlang is a constructed interlanguage that borrows its words, speech sounds and possibly grammar from different language families of the world. There are many worldlangs. Some of them are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
 -->
 
-#### How does Pandunia differ from other auxiliary languages?
+#### Miten pandunia eroaa muista apukielistä?
 
-- The vocabulary of Pandunia is evenly global. It consists of Western (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian words. Many other auxiliary languages use only or mostly Western words, which is not ideal for the world language in our opinion.
-- Internationality is the main criterion for selecting words to Pandunia. All the words of Pandunia are known by many nations in some part of the world.
-- The grammar of Pandunia is concise but very flexible. Pandunia has only a few grammatical structures, which are re-used over and over again.
-- Pandunia is a truly neutral language. It's not meant to imitate any languages, whereas for example Esperanto, Ido and Interlingua are intentionally close to the European languages.
+- Pandunian kielioppi on täysin taipumaton.
+- Pandunia on joustava ja ystävällinen vasta-alkajia kohtaan. Meidän mielestä apukielen tarkoitus on onnistunut viestintä, ei kielen osaaminen pilkulleen oikein.
+- Pandunian sanasto on tasapuolisesti maailmanlaajuinen. Siinä on sanoja kaikilta mantereilta: Euroopasta, Aasiasta, Afrikasta ja Amerikoista.
+    - Kansainvälisyys on sanaston tärkein mittari. Kaikki pandunian sanat ovat kansainvälisiä sanoja jossakin päin maailmaa.
+    - Useimma muut apukielet käyttävät vain läntistä sanastoa, mikä ei meidän mielestä vastaa maailmankielen ihannetta.
+- Pandunian kielioppi on tiivis mutta joustava. Panduniassa on vain muutamia kielioppirakenteita, joita sovelletaan uudestaan ja uudestaan eri tilanteissa.
+- Pandunia on aidosti neutraali kieli.
 
-
-#### Did Esperanto and its kind influence Pandunia?
-
-In the end, very little. Esperanto has an ingenious system for marking parts of speech (PoS) with vowel endings. In Esperanto nouns end in -o, adjectives end in -a, verbs in -i and adverbs in -e. (These are the dictionary forms. Some of them are inflected in actual use.) Similar PoS marking systems are used in the offshoots of Esperanto, such as Ido and Novial. The system is fascinating and it was tested in the development of Pandunia. However, it didn't fit together with Pandunia's diverse vocabulary and actually it made the grammar more complicated than what it needs to be. So finally all obvious Esperanto influences were left out.
-
-
-#### Are the makers of Pandunia aware of the history of the IAL movement?
-
-Yes. Here are some of the most important lessons to be learned from the history of the international auxiliary language (IAL) movement.
-
-- Over 99% of IALs do not survive in the long term.
-- Languages that are created without any pre-existing model (so called _a priori_ languages) have very low chance of survival.
-- Languages that imitate and simplify one or more natural languages have some chance of survival.
-- Out of a group of many similar languages only one is likely to do well.
-- Success can be short-lived. (Remember Volapük and Ido.)
-- Rational reasons do not explain success. The "best" language doesn't necessarily win.
-- Large international organizations, such as the UN or the EU, pay very little attention to IALs. So it is up to grassroots movements to push an IAL to success.
+Yllä mainittuja pandunian ominaispiirteitä saattaa esiintyä muissakin kielissä, mutta kokonaisuutena se on ainutlaatuinen.
 
 
-#### Should Pandunia replace English?
+#### Kuinka paljon esperanto vaikutti pandunian syntyyn?
 
-Pandunia is not meant to replace English or any other languages. People have ability to speak several languages and they speak every language for a different reason. Some people speak one language at home, another at work and yet another on international travels. We can imagine a world where English and all other languages will continue to be spoken, and where also Pandunia is spoken.
+Alussa Esperanto oli tärkeä innoituksen lähde. Ilman esperantoa panduniaa ei olisi koskaan alettu tekemään. Mutta esperanto ei näy varsinaisessa lopputuloksessa, vaan pandunia on aivan erilainen kieli niin rakenteeltaan kuin sanastoltaankin.
 
-In a way, English will never be replaced. Those who speak it today will speak it tomorrow. But new generations will grow and they will choose which language(s) they want to speak with each other. So it will be _another world_ with another world language. Maybe it will be English, or maybe a new kind of English or maybe something else. The landscape of languages changes in a natural process. Different languages were spoken in the past and different languages will be spoken in the future.
 
-You are free to speak Pandunia, English and any other language that your heart desires.
+#### Ovatko pandunia tekijät tietoisia apukielten historiasta?
+
+Kyllä. Tässä on tärkeimpiä asioita, mitä apukielten historiasta voi oppia.
+
+- Yli 99% apukielistä ei jää elämään.
+- Ilman mitään esikuvaa luodut apukielet (niin sanotut _a-prioriset_ kielet) harvoin saavat suosiota.
+- Luonnollisia kieliä muistuttavat apukielet saavat paremmin suosiota, mutta liika luonnollisuus ei myöskään toimi.
+- Monen samantyyppisen kielen joukosta vain yksi voi menestyä.
+- Menestys voi olla lyhytkestoista. (Muistakaa volapük ja ido.)
+- Järkisyyt eivät selitä kokonaan kielten menestystä. "Paras" kieli ei välttämättä voita.
+- Suuret kansainväliset järjestöt, kuten Yhdistyneet kansakunna ja Euroopan unioni, eivät panosta apukieliin. Siksi menestyksen täytyy alkaa ruohonjuuritasolta.
+
+
+#### Onko pandunian tarkoitus korvata englanti?
+
+Panduniaa ei ole tarkoitettu korvaamaan englantia tai mitään muutakaan kieltä. Ihmisillä on taito puhua useita kieliä ja he puhuvat eri kieliä eri asioita varten. Joku voi puhua yhtä kieltä kotona, toista töissä ja kolmatta matkoilla. Voimme kuvitella maailman, jossa englantia, suomea ja kaikkia muita kieliä yhä puhutaan ja myös panduniaa niiden lisäksi.
+
+Tavallaan englantia ei koskaan korvata millään muulla kielellä. Ne jotka käyttävät sitä nyt, käyttävät sitä myös jatkossa. Mutta jokainen uusi sukupolvi valitsee, mitä kieltä he haluavat käyttää keskenään. Joten uutta maailmankieltä tullaan puhumaan uudessa maailmassa. Ehkä se on yhä englanti, ehkä erilainen englannin versio tai kokonaan eri kieli. Joka tapauksessa kielten maailmaa muuttuu luonnollisesti. Ennen puhuttiin eri kieliä ja tulevaisuudessa puhutaa eri kieliä.
+
+Jokainen saa vapaasti puhua pandunia, englantia tai mitä kieltä haluaa.
+
+
+
+
+## Kielioppi ja sanasto
+
+#### Miksi pandunian sanat ovat taipumattomia?
+
+Pandunian kehityksen aikana kokeiltiin useita erilaisia kielioppeja. Tärkein valinta tehtiin esperantomaisen kokoavan sanarakenteen ja taipumattoman sanarakenteen välillä.
+
+1. Kokoavassa kieliopissa jokainen sana koostuu eroteltavista osista. Esimerkiksi esperanton sana "hundoj" (koirat) koostuu kolmesta osasta: hund- (koira), -o- (substantiivin tunnus) ja -j (monikon tunnus).
+2. Taipumattomassa kielessä jokainen sana on jakamaton. Esimerkiksi yleiskiinassa sana "meidän" koostuu kolmesta osasta: wǒ (minä), men (monikon tunnus) ja de (omistuksen tunnus). Sitten ne vain pannaan yhteen: wǒmende, 我们的.
+
+Pandunia on taipumaton kieli. Mm. persoonamuodot, aikamuodot, yksikkö ja monikko ilmaistaan irrallisilla sanoilla.
+
+Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen osat on erotettu toisistaan pystyviivalla.
+
+    Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
+    Pandunia:  mi   vol    vide  ti ge   du    sundar    yen.
+               Minä haluan nähdä sinun   kaksi kaunista  silmää.
+
+#### Miksi kirjain C äännetään suhu-ässänä?
+
+Pandunian kirjoitus on äänteenmukaista. Perussääntö on: Yksi kirjain vastaa yhtä äännettä, ja yksi äänne vastaa yhtä kirjainta.
+
+Perinteisesti suhu-ässälle ei ole omaa kirjainta latinalaisissa aakkosissa. Kyseinen äänne eli /ʃ/ kirjoitetaan eri tavoilla eri kielissä: englannissa yleensä SH, ranskassa CH, saksassa SCH, ruotsissa SJ, puolassa SZ, suomessa ja tšekissä Š ja turkissa Ş, vain joitakin mainitaksemme.
+
+Toisaalta C-kirjain ei esitä vain yhtä äännettä vaan monia. Englannissa se on /k/ kuten sanassa _cat_, /s/ kuten sanassa _city_, /ʃ/ kuten sanassa _musician_ ja /tʃ/ kuten sanassa _cello_. Itä-Euroopan kielissä ja esperantossa C äännetään säännönmukaisesti /ts/. Turkissa C on /dʒ/. Kansainvälisessä kielessä on parasta kirjoittaa /k/ K:lla, /s/ S:llä, /ts/ TS:llä jne. Siis C-kirjain jää vapaaksi uusiokäyttöä varten!
+
+C-kirjain on vapaa ja /ʃ/ on ainoa äänne, jolle ei ole omaa, luontevaa kirjainta. Sen vuoksi panduniassa C on /ʃ/ eli suhu-ässä.
+
+Äänneyhdistelmä /tʃ/ (kuten englannin sanassa _match_) kirjoitetaan johdonmukaisesti kirjainyhdistelmällä TC. Myös tälle äänneyhdistelmälle ei ole vakiintunutta kansainvälistä kirjoitustapaa. Useat kirjoitustavat ovat kuitenkin periaatteessa samanlaisia yhdistelmiä kuin pandunian TC, esimerkiksi ranskan TCH, saksan TSCH, ruotsin TJ, vietnamin TR, filippiinin TS ja tietysti suomen TŠ.
+
+
+#### Eikö sanan "salam" pitäisi tarkoittaa rauhaa?
+
+Monessa kielessä tervehdyssana liittyy rauhaan, terveyteen tai hyvinvointiin. Suomessa sanotaan "terve" ja kiinassa "nǐ hǎo" (sinä hyvä). Pandunian sana **salam** on peräisin seemiläisten kielten sanajuuresta SLM, jonka merkitys kattaa mm. turvallisuuden, rauhan ja terveyden. Samoin länsimaisten kielten "salut" tarkoittaa alunperin latinassa turvallisuutta, terveyttä ja hyvinvointia.
+
+Näin ollen sanan **salam** merkitys on laajempi kuin vain rauha ja tervehdyksenä se tarkoittaa muutakin kuin tulemista rauhan aikein. **Salam** tarkoittaa hyvinvointia yleensä ja sitä käytetään toivottamaan toisille hyvää kaikissa tilanteissa kuten tavatessa, onnitellessa ja toivottaessa hyvää matkaa. Esimerkkejä löydät [tulkkisanakirjan](jumla.md) ensimmäisestä luvusta!
 
 
