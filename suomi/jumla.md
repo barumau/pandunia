@@ -42,6 +42,8 @@ Osa 1: Tervehdykset ja perussanoja
 
 **lai salam!** Tervetuloa!
 
+**go salam!** Hyvästi!
+
 **safar salam!** Hyvää matkaa!
 
 **son salam!** Nuku hyvin!
@@ -500,13 +502,13 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 **safar hen long.** Matka on hyvin pitkä.
 
 
-### ju <small>asua</small>
+### abit <small>asua</small>
 
-**ti ju ke?** Missä sinä asut?
+**ti abit ke?** Missä sinä asut?
 
-**mi ju singapur.** Asun Singaporessa.
+**mi abit singapur.** Asun Singaporessa.
 
-**kia ti ju sa hotel?** Astuko tässä hotellissa?
+**kia ti abit sa hotel?** Astuko tässä hotellissa?
 
 
 
@@ -517,62 +519,63 @@ Sanasto
 Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapallon joka puolella. Luultavasti tunnistat paljonkin pandunian sanoja suomen, englannin ja muiden osaamiesi kielten kautta. Yleensä jokainen pandunian sana tunnetaan useammassa kielessä. Esimerkiksi **mama** ja **papa** (äiti ja isä) ovat käytössä sadoissa kielissä. Tässä sanastossa on tilan vuoksi kuitenkin esillä vain yksi "lähdekieli".
 
 
-**ama** mutta <small>(turkki _ama_)</small>
-**bai** valkoinen <small>(yleiskiina _bái_ 白)</small>
-**batu** kivi <small>(indonesia _batu_)</small>
-**bazar** tori, basaari <small>(persia _bāzār_ بازار)</small>
-**baca** kieli <small>(hindi _bhāśā_ भाषा)</small>
-**bite** pyytää <small>(saksa _bitten_)</small>
-**blu** sininen <small>(englanti _blue_)</small>
-**bon** hyvä <small>(ranska _bon_)</small>
-**cam** ilta <small>(hindi _śām_ शाम )</small>
-**den** päivä <small>(venäjä _den'_ день)</small>
-**dom** koti <small>(venäjä _dom_ дом)</small>
-**e** olla <small>(portugali _é_)</small>
-**englic** englanti <small>(englanti _English_)</small>
-**fem** nainen <small>(ranska _femme_)</small>
-**gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>
-**ha** olla, omistaa <small>(portugali _há_)</small>
-**i** ja <small>(Polish _i_)</small>
-**jan** tietää, tuntea <small>(hindi _jānnā_ जानना)</small>
-**jen** henkilö <small>(yleiskiina _rén_ 人)</small>
-**kafe** kahvi <small>(saksa _Kaffee_)</small>
-**kara** musta <small>(turkki _kara_)</small>
-**kat** leikata, katkaista <small>(hindi ‎_kāṭnā_ काटना)</small>
-**kata** kertoa; tarina <small>(japani _kataru_ 語る)</small>
-**ke** mikä? kuka? <small>(espanja _qué_)</small>
-**ketci** kohtelias <small>(yleiskiina _kèqi_ 客气)</small>
-**kia** kysyä; kysymys <small>(hindi _kyā_ क्या)</small>
-**lai** tulla <small>(vietnami _lai_)</small>
-**lal** punainen <small>(bangla _lal_)</small>
-**mama** äiti <small>(yleiskiina _māma_ 妈妈)</small>
-**man** mies <small>(englanti _man_)</small>
-**mana** tarkoittaa, merkitä <small>(swahili _maana_)</small>
-**mede** auttaa; apu <small>(ranska _aider_)</small>
-**mi** minä <small>(swahili _mimi_)</small>
-**mimen** me
-**neses** tarvita <small>(Haitin kreoli _nesesè_)</small>
-**no** ei <small>(espanja _no_)</small>
-**notce** yö <small>(espanja _noche_)</small>
-**nun** nyt, nykyään <small>(saksa _nun_)</small>
-**papa** isä <small>(venäjä _papa_ папа)</small>
-**pingo** omena <small>(yleiskiina _píngguǒ_ 苹果)</small>
-**sa** tämä, tuo <small>(Haitin kreoli _sa_)</small>
-**sabi** osata <small>(Nigerian pidžin _sabi_)</small>
-**safar** matkustaa; matka <small>(arabia _safar_ سفر)</small>
-**salam** tervehtiä; terve <small>(arabia _salām_ سلام)</small>
-**suba** aamu <small>(wolof _subba_)</small>
-**tca** tee <small>(yleiskiina _chá_ 茶)</small>
-**ti** siinä <small>(venäjä _ty_ ты)</small>
-**timen** te
-**ta** hän, se <small>(yleiskiina _tā_ 他/她/它)</small>
-**tamen** he <small>(yleiskiina _tāmen_ 他们)</small>
-**vide** katsoa, nähdä <small>(venäjä _videt'_ видеть)</small>
-**u** tai <small>(ranska _ou_)</small>
-**vol** haluta <small>(italia _volere_)</small>
-**wang** keltainen <small>(kantoninkiina _wong_)</small>
-**xabar** uutinen <small>(malaiji _khabar_)</small>
-**ye** kyllä <small>(korea 예 _ye_)</small>
-**yem** syödä, juoda <small>(turkki _yemek_)</small>
+**abit** loĝi <small>itala _abitare_</small>  
+**ama** mutta <small>(turkki _ama_)</small>  
+**bai** valkoinen <small>(yleiskiina _bái_ 白)</small>  
+**batu** kivi <small>(indonesia _batu_)</small>  
+**bazar** tori, basaari <small>(persia _bāzār_ بازار)</small>  
+**baca** kieli <small>(hindi _bhāśā_ भाषा)</small>  
+**bite** pyytää <small>(saksa _bitten_)</small>  
+**blu** sininen <small>(englanti _blue_)</small>  
+**bon** hyvä <small>(ranska _bon_)</small>  
+**cam** ilta <small>(hindi _śām_ शाम )</small>  
+**den** päivä <small>(venäjä _den'_ день)</small>  
+**dom** koti <small>(venäjä _dom_ дом)</small>  
+**e** olla <small>(portugali _é_)</small>  
+**englic** englanti <small>(englanti _English_)</small>  
+**fem** nainen <small>(ranska _femme_)</small>  
+**gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>  
+**ha** olla, omistaa <small>(portugali _há_)</small>  
+**i** ja <small>(Polish _i_)</small>  
+**jan** tietää, tuntea <small>(hindi _jānnā_ जानना)</small>  
+**jen** henkilö <small>(yleiskiina _rén_ 人)</small>  
+**kafe** kahvi <small>(saksa _Kaffee_)</small>  
+**kara** musta <small>(turkki _kara_)</small>  
+**kat** leikata, katkaista <small>(hindi ‎_kāṭnā_ काटना)</small>  
+**kata** kertoa; tarina <small>(japani _kataru_ 語る)</small>  
+**ke** mikä? kuka? <small>(espanja _qué_)</small>  
+**ketci** kohtelias <small>(yleiskiina _kèqi_ 客气)</small>  
+**kia** kysyä; kysymys <small>(hindi _kyā_ क्या)</small>  
+**lai** tulla <small>(vietnami _lai_)</small>  
+**lal** punainen <small>(bangla _lal_)</small>  
+**mama** äiti <small>(yleiskiina _māma_ 妈妈)</small>  
+**man** mies <small>(englanti _man_)</small>  
+**mana** tarkoittaa, merkitä <small>(swahili _maana_)</small>  
+**mede** auttaa; apu <small>(ranska _aider_)</small>  
+**mi** minä <small>(swahili _mimi_)</small>  
+**mimen** me  
+**neses** tarvita <small>(Haitin kreoli _nesesè_)</small>  
+**no** ei <small>(espanja _no_)</small>  
+**notce** yö <small>(espanja _noche_)</small>  
+**nun** nyt, nykyään <small>(saksa _nun_)</small>  
+**papa** isä <small>(venäjä _papa_ папа)</small>  
+**pingo** omena <small>(yleiskiina _píngguǒ_ 苹果)</small>  
+**sa** tämä, tuo <small>(Haitin kreoli _sa_)</small>  
+**sabi** osata <small>(Nigerian pidžin _sabi_)</small>  
+**safar** matkustaa; matka <small>(arabia _safar_ سفر)</small>  
+**salam** tervehtiä; terve <small>(arabia _salām_ سلام)</small>  
+**suba** aamu <small>(wolof _subba_)</small>  
+**tca** tee <small>(yleiskiina _chá_ 茶)</small>  
+**ti** siinä <small>(venäjä _ty_ ты)</small> 
+**timen** te  
+**ta** hän, se <small>(yleiskiina _tā_ 他/她/它)</small>  
+**tamen** he <small>(yleiskiina _tāmen_ 他们)</small>  
+**vide** katsoa, nähdä <small>(venäjä _videt'_ видеть)</small>  
+**u** tai <small>(ranska _ou_)</small>  
+**vol** haluta <small>(italia _volere_)</small>  
+**wang** keltainen <small>(kantoninkiina _wong_)</small>  
+**xabar** uutinen <small>(malaiji _khabar_)</small>  
+**ye** kyllä <small>(korea 예 _ye_)</small>  
+**yem** syödä, juoda <small>(turkki _yemek_)</small>  
 
 

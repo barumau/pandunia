@@ -403,14 +403,6 @@ Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se to
 > **ta plus yem bir.** - Hän _myös juo_ olutta.  
 > **plus ta yem bir.** - _Myös hän_ juo olutta.
 
-Pandunian kysymyspartikkeli **ka** vastaa suomen kysymyspäätettä -ko, -kö.
-
-> **ti yem bir ka?** - Juotko sinä olutta?  
-> **ti yem ka bir?** - _Oluttako_ sinä juot?  
-> **ti ka yem bir?** - _Juotko_ sinä olutta?  
-> **ka ti yem bir?** - _Sinäkö_ juot olutta?
-
-
 Huom! Myös laatusanat voivat määrittää sekä seuraavaa sanaa että viimeisenä ollessaan koko lausetta.
 
 > **mi bon kitab buk.** - Minä hyvin kirjoitan kirjoja.

@@ -19,6 +19,8 @@
 
 **lai salam!** Bonvenon!
 
+**go salam!** Ĝis!
+
 **safar salam!** Bonan vojaĝon!
 
 **son salam!** Bonan nokton!
@@ -381,112 +383,111 @@
 
 **mau loga miau.** Kato diras miaŭ.
 
-<!--
 
-### audi <small>to listen, hear</small>
+### audi <small>aŭdi, aŭskulti</small>
 
-**mi no ken audi ti.** I can't hear you.
+**mi no ken audi ti.** Mi ne povas aŭdi vin.
 
-**bite loga kuat.** Please speak louder.
+**bite loga kuat.** Bonvolu paroli pli forte.
 
-**mi audi musik.** I listen to music.
+**mi audi musik.** Mi aŭskultas muzikon.
 
-**ti audi ke yang ge musik?** What kind of music do you listen to?
-
-
-### vide <small>to see</small>
-
-**suka vide ti.** Happy to see you!
-
-**vide ti bada!** See you later!
-
-**vide ti nale!** See you tomorrow!
-
-**mi vide ta yer.** I saw him/her yesterday.
+**ti audi ke yang ge musik?** Kian muzikon vi aŭskultas?
 
 
-### mana <small>to mean</small>
+### vide <small>vidi, rigardi</small>
 
-**sa loga ye mana ke?** What does this word mean?
+**suka vide ti.** Mi ĝojas vidi vin!
 
-**"mau" ye mana ke?** What does "mau" mean?
+**vide ti re!** Ĝis la revido!
 
-**ta mana yang de hewan.** It means a kind of animal.
+**vide ti nale!** Ĝis la revido morgaŭ!
 
-**mi no aha ta mana ke.** I don't understand what it means.
-
-
-### kitab <small>write</small>
-
-**bite kitab ti ge adres.** Please, write your address.
-
-**bite kitab ta na sa.** Please, write it here!
+**mi vide ta yer.** Mi vidin lin/ŝin hieraŭ.
 
 
-### baca <small>language, communication</small>
+### mana <small>signifi</small>
 
-**kia timen baca pandunia.** Do you speak in Pandunia?
+**sa loga ye mana ke?** Kion tiu vorto signifas?
 
-**mimen baca pandunia.** We speak in Pandunia.
+**"mau" ye mana ke?** Kion "mau" signifas?
 
-**kia ti sabi baca englic?** Can you speak English?
+**ta mana yang de hewan.** Ĝi signifas tipon de besto.
 
-**frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
-
-**putong han, nipon, indonesia** Chinese, Japanese, Indonesian
-
-**arabi, turki, farsi, urdu, hindi** Arabic, Turkish, Farsi, Urdu, Hindi
-
-**swahili, hausa, yoruba, amara** Swahili, Hausa, Yoruba, Amharic
+**mi no aha ta mana ke.** Mi ne komprenas kion ĝi signifas.
 
 
+### kitab <small>skribi</small>
 
-## Part 4. Going around
+**bite kitab ti ge adres.** Bonvolu skribi vian adreson.
 
-### go <small>to go</small>
-
-**ti go ke?** Where are you going?
-
-**mi go dom.** I'm going home.
-
-**mi mus go ke?** Where should I go?
-
-**mi mus go ke jen?** To whom should I go?
-
-**haide go!** Let's go!
-
-**haide go bi ped** Let's go by foot!
+**bite kitab ta na sa.** Bonvolu skribi ĝin tie!
 
 
-### lai <small>to come</small>
+### baca <small>lingvo, lingvumi</small>
 
-**bite lai!** Come here!
+**kia timen baca pandunia.** Ĉu vi parolas pandunion?
 
-**ti lai ze ke?** Where do you come from?
+**mimen baca pandunia.** Ni parolas pandunion.
 
-**mi lai ze dubai.** I come from Dubai.
+**kia ti sabi baca englic?** Ĉu vi povas paroli la anglan?
 
-**mi lai dom nale.** I will come home tomorrow.
+**frans, espanya, portugal, ruski** la franca, la hispana, la portugala, la rusa
 
+**putong han, nipon, indonesia** la ĉina, la japana, la indonezia
 
-### safar <small>to travel</small>
+**arabi, turki, farsi, urdu, hindi** la araba, la turka, la persa, la urdua, la hindia
 
-**kia ti safar bi tren?** Do you travel by train?
-
-**mimen safar ze london do paris.** We travel from London to Paris.
-
-**safar muc long.** The voyage is very long.
+**swahili, hausa, yoruba, amara** la sŭahilia, la haŭsa, la joruba, la amhara
 
 
-### ju <small>to live, reside</small>
 
-**ti ju ke?** Where do you live?
+## 4a parto: Iro
 
-**mi ju singapur.** I live in Singapore.
+### go <small>iri</small>
 
-**kia ti ju sa hotel?** Do you live in this hotel?
+**ti go ke?** Kien vi iras?
 
--->
+**mi go dom.** Mi iras hejmen.
+
+**mi mus go ke?** Kien mi devas iri?
+
+**mi mus go ke jen?** Al kiu mi devas iri?
+
+**haide go!** Ni iru!
+
+**haide go bi ped** Ni iru piede!
+
+
+### lai <small>veni</small>
+
+**bite lai!** Bonvolu veni!
+
+**ti lai ze ke?** Vi venas el kie?
+
+**mi lai ze dubai.** Mi venas el Dubai.
+
+**mi lai dom nale.** Mi venos hejmen morgaŭ.
+
+
+### safar <small>vojaĝi</small>
+
+**kia ti safar bi tren?** Ĉu vi vojaĝas per vagonaro?
+
+**mimen safar ze london do paris.** Ni vojaĝas el Londono al Parizo.
+
+**safar hen long.** La vojaĝo estas tre longa.
+
+
+### abit <small>loĝi</small>
+
+**ti abit ke?** Kie vi loĝas?
+
+**mi abit singapur.** Mi loĝas en Singapuro.
+
+**kia ti abit sa hotel?** Ĉu vi loĝas en tiu hotelo?
+
+
 
 
 Vortaro
@@ -495,6 +496,7 @@ Vortaro
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from angla and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
+**abit** loĝi <small>itala _abitare_</small>  
 **ama** sed <small>(turka _ama_)</small>  
 **bai** blanka <small>(mandarenĉina _bái_ 白)</small>  
 **batu** ŝtono <small>(indonezia _batu_)</small>  

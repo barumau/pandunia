@@ -22,10 +22,10 @@ Bazaj reguloj
 
     - ekz.  **ta penta.** = Ĝi koloriĝas.
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **mi cing ti dar pesa.** = Mi petas vin (por) doni monon.
+    - ekz. **mi bite ti dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Ĉu vi parolas Pandunian?
-    - **mi cing ti loga tez.** →  **cing loga tez.** = Bonvolu paroli laŭte.
+    - **mi bite ti loga tez.** →  **bite loga tez.** = Bonvolu paroli laŭte.
 
 
 Vortospecoj
@@ -48,22 +48,22 @@ Esencovortoj (substantivoj)
 
 _Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en Pandunia. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-> **batu** - ŝtono, ŝtonoj, la ŝtono, la stonoj
-> **meza** - tablo, tabloj, la tablo, la tabloj
-> **sui** - akvo
+> **batu** - ŝtono, ŝtonoj, la ŝtono, la stonoj  
+> **meza** - tablo, tabloj, la tablo, la tabloj  
+> **sui** - akvo  
 
-Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
+Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **surya** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
 
 Kunmetante du aŭ pli da vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
-> **sol guang** - suna lumo
-> **luna guang** - luna lumo
-> **luna batu** - luna ŝtono
+> **surya guang** - suna lumo  
+> **luna guang** - luna lumo  
+> **luna batu** - luna ŝtono  
 
 Facila maniero por emfazi multecon estas repeti la vorton.
 
-> **batu batu** - ŝtonoj, multe da ŝtonoj
-> **tara tara** - steloj, multe da steloj
+> **batu batu** - ŝtonoj, multe da ŝtonoj  
+> **tara tara** - steloj, multe da steloj  
 
 
 
@@ -73,15 +73,15 @@ Modifovortoj (adjektivoj/adverboj)
 
 _Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En Pandunia, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
 
-> **dai batu** - granda ŝtono
-> **cung batu** - peza ŝtono
-> **dai meza** - granda tablo
-> **gau meza** - alta tablo
+> **dai batu** - granda ŝtono  
+> **cung batu** - peza ŝtono  
+> **dai meza** - granda tablo  
+> **gau meza** - alta tablo  
 
 Kiam Modifovorto sekvas Esencovorton, ĝi rolas kvazaŭ verbo, kiu indikas staton. Tio estas, kiel adjektivaj verboj en Esperanto.
 
-> **batu dai.** - La ŝtono grandas.
-> **meza gau.** - La tablo altas.
+> **batu dai.** - La ŝtono grandas.  
+> **meza gau.** - La tablo altas.  
 
 Kompreneble, eblas ke Modifovortoj aperu je ambaŭ flankoj de Esencovorto.
 
@@ -92,20 +92,20 @@ Kompreneble, eblas ke Modifovortoj aperu je ambaŭ flankoj de Esencovorto.
 Kvantovortoj (numeraloj)
 -----------------
 
-Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **sol** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
+Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **surya** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
 
 Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
-> **un tara** - unu stelo
-> **du tara** - du steloj 
-> **san tara** - tri steloj
-> **xau tara** - kelkaj steloj
+> **un tara** - unu stelo  
+> **du tara** - du steloj  
+> **san tara** - tri steloj  
+> **cau tara** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
-> **fen un** - la unua parto
-> **fen du** - la dua parto
-> **fen san** - la tria parto
+> **fen un** - la unua parto  
+> **fen du** - la dua parto  
+> **fen san** - la tria parto  
 
 Jen la ĉefaj nombroj:
 
@@ -158,7 +158,7 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 **ti** - vi _(ununumbre)_  
 **ta** - li, ŝi, ri, ĝi  
 **mimen** - ni  
-**timen** - vi _(multnombre)  _
+**timen** - vi _(multnombre)  
 **tamen** - ili
 
 **se** - si (mem)
@@ -166,8 +166,8 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
 Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vide se** - Mi vidas min.
-**ta vide se** - Ŝi vidas sin.
+**mi vide se** - Mi vidas min.  
+**ta vide se** - Ŝi vidas sin.  
 
 
 ### Montrovorto
@@ -176,36 +176,36 @@ Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi ri
 
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
-**sa** - (ĉi) tio, (ĉi) tiu
-**sa jin** - ĉi tio, ĉi tiu _(proksima)_
-**sa far** - tio, tiu _(fora)_
+**sa** - (ĉi) tio, (ĉi) tiu  
+**sa jin** - ĉi tio, ĉi tiu _(proksima)_  
+**sa far** - tio, tiu _(fora)_  
 
 
 Montrovortoj povas roli kiel Modifovortoj.
 
-> **sa batu.** - Tiu ŝtono.
-> **sa e batu.** - Tio estas ŝtono.
-> **sa batu cung.** - Tiu ŝtono pezas.
+> **sa batu.** - Tiu ŝtono.  
+> **sa e batu.** - Tio estas ŝtono.  
+> **sa batu cung.** - Tiu ŝtono pezas.  
 
 
 ### Demandaovorto
 
 **Ke** estas la ĝenerala demandovorto en Pandunia. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
-> **ke?** - Kiu?/Kio?
-> **ke ting?** - Kio? (Kiu afero?)
-> **ke ren?** - Kiu? (Kiu persono?)
-> **ke zam?** - Kiam? (Kiu tempo?)
-> **ke yang?** - Kiel? (Kiu maniero?)
+> **ke?** - Kiu?/Kio?  
+> **ke ting?** - Kio? (Kiu afero?)  
+> **ke jen?** - Kiu? (Kiu persono?)  
+> **ke zam?** - Kiam? (Kiu tempo?)  
+> **ke yang?** - Kiel? (Kiu maniero?)  
 
 
 ### Korelativo
 
 *Jo* estas la korelativo, kaj funkcias kiel la korelativa senco de la vortoj _kiu_ kaj _kio_.
 
-> **mi leva batu, jo cung.** - Mi levas ŝtonon, kiu estas peza.
-> **ta man, jo mi vide.** - Li estas la viro, kiun mi vidis.
-> **mimen suka ren, jo suka mimen.** - Ni ŝatas homojn, kiuj ŝatas nin.
+> **mi leva batu, jo cung.** - Mi levas ŝtonon, kiu estas peza.  
+> **ta man, jo mi vide.** - Li estas la viro, kiun mi vidis.  
+> **mimen suka jen, jo suka mimen.** - Ni ŝatas homojn, kiuj ŝatas nin.  
 
 
 
@@ -217,27 +217,27 @@ Stata predikato
 
 Frazoj normale konsistas el subjekto kaj predikato. En la plej simplaj frazoj la subjekto estas substantivo aŭ pronomo, kaj la predikato estas adjektivo, kiu indikas la staton.
 
-**mi bon.** - Mi bonas.
+**mi bon.** - Mi bonas.  
 **sara bon.** - Sara bonas.  
-**batu cung.** - La ŝtono pezas.
+**batu cung.** - La ŝtono pezas.  
 
 Eblas ankaŭ, ke la subjekto estas pronomo, kaj la predikato estas substantivo.
 
-> **ta sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)
+> **ta sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)  
 > **ta batu.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
 
 Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per la vorteto **ye** (jes). Tamen eblas uzi **ye** tiurole ankaŭ en normalaj situacioj.
 
-> **ta e mi.** - Ĝi estas mi.
-> **sa e batu.** - Tio estas ŝtono.
-> **batu e ting.** - Ŝtono estas aĵo.
+> **ta e mi.** - Ĝi estas mi.  
+> **sa e batu.** - Tio estas ŝtono.  
+> **batu e ting.** - Ŝtono estas aĵo.  
 > **jovan e sundar.** - Juna estas bela.
 
 Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ye**.
 
-> **mi no e ti.** - Mi ne estas vi.
-> **batu no e hewan.** Ŝtono ne estas animalo.
-> **jovan no e sundar.** - Juna ne estas bela.
+> **mi no e ti.** - Mi ne estas vi.  
+> **batu no e hewan.** Ŝtono ne estas animalo.  
+> **jovan no e sundar.** - Juna ne estas bela.  
 
 
 Aga predikato
@@ -247,22 +247,22 @@ En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En Pa
 
 Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba.
 
-> **mi yem pingo.** - Mi manĝas pomojn.
+> **mi yem pingo.** - Mi manĝas pomojn.  
 > **mi audi musik.** - Mi aŭdas muzikon.  
 > **mi vide ti.** - Mi vidas vin.
 
 Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
 
-> **mi musik audi.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)   
+> **mi musik audi.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)     
 > **mi ti vide.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
 
 La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo, tiel ke nur restu objekto kaj verbo.
 
-> **ti vide.** - Vi vidiĝas.
-> **musik audi.** - Muziko aŭdiĝas. 
+> **ti vide.** - Vi vidiĝas.  
+> **musik audi.** - Muziko aŭdiĝas.  
 Sed ofte oni uzas la helpantan verbon **bei** por la pasiva senco.
 
-> **ti bei vide.** - Vi estas vidata.
+> **ti bei vide.** - Vi estas vidata.  
 > **musik bei audi.** - Muziko estas aŭdata.
 
 
@@ -272,10 +272,10 @@ Verboĉenoj
 
 En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la objekto de la unua verbo.
 
-1. **mi go jia.** - Mi iras hejmen.  
-2. **mi ken go jia.** - Mi povas iri hejmen.  
-3. **mi vole ken go jia.** - Mi volas povi iri hejmen.
-4. **mi mus go jia.** - Mi devas iri hejmen.
+1. **mi go dom.** - Mi iras hejmen.  
+2. **mi ken go dom.** - Mi povas iri hejmen.  
+3. **mi vol ken go dom.** - Mi volas povi iri hejmen.  
+4. **mi mus go dom.** - Mi devas iri hejmen.
 
 
 
@@ -286,25 +286,25 @@ La ĉarnira konstruo estas tre grava konstruo en pandunia. Ĝi estas ankaŭ la b
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
-> **ta cing _mi_ go jia.** - Ĝi petas min iri hejmen.  
-> **ta les _mi_ go jia.** - Ĝi lasas min iri hejmen.  
-> **ta mus _mi_ go jia.** - Li devigas min iri hejmen.
+> **ta bite _mi_ go dom.** - Ĝi petas min iri hejmen.  
+> **ta les _mi_ go dom.** - Ĝi lasas min iri hejmen.  
+> **ta mus _mi_ go dom.** - Li devigas min iri hejmen.
 
 La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subjekto, ĉar ĝi estas memkomprenebla en la kunteksto.
 
-> **mi kia ti go jia.** - Mi demandas (ĉu) vi iris hejmen.
-> **kia ti go jia?** - Ĉu vi iris hejmen?
+> **mi kia ti go dom.** - Mi demandas (ĉu) vi iris hejmen.  
+> **kia ti go dom?** - Ĉu vi iris hejmen?
 
 Ĉi tiu estas tipa formo de klaso da frazoj, kiuj montras rilaton aŭ vidpunkton de la parolanto al kion li parolas.
 
-> Demando: **kia ta go jia?** - Mi demandas ke...
-> Kredo: **xin ta go jia.** - Mi kredas ke...
-> Dubo: **xak ta go jia.** - Mi dubas ke...
+> Demando: **kia ta go dom?** - Mi demandas ke...  
+> Kredo: **cin ta go dom.** - Mi kredas ke...  
+> Dubo: **cak ta go dom.** - Mi dubas ke...  
 
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
-> **mi cing ti go jia.** - Mi petas vin iri hejmen.  
-> **cing go jia.** - Bonvolu iri hejmen.
+> **mi bite ti go dom.** - Mi petas vin iri hejmen.  
+> **bite go dom.** - Bonvolu iri hejmen.
 
 
 
@@ -317,19 +317,19 @@ La determinaj partikuloj esprimas posedon inter alia. La partikulo **ge** estas 
 
 La partikulo **de** estas uzata en kontraŭa ordo: unue la determinato, meze la partikulo **de** kaj laste la determinanto.
 
-| With _ge_                        | With _de_                                |
+| Per _ge_                         | Per _de_                                 |
 |:---------------------------------|:-----------------------------------------|
-| **mi ge jia** - mia hejmo        | **jia de mi** - hejmo de mi              |
-| **ti ge jia** - via hejmo        | **jia de ti** - hejmo de vi              |
-| **ta ge jia** - lia/ŝia hejmo    | **jia de ta** - hejmo de li/ŝi/ĝi        |
-| **mimen ge jia** - nia home      | **jia de mimen** - hejmo de ni           |
-| **timen ge jia** - via home      | **jia de timen** - hejmo de vi           |
-| **tamen ge jia** - ilia home     | **jia de tamen** - hejmo de ili          |
+| **mi ge dom** - mia hejmo        | **dom de mi** - hejmo de mi              |
+| **ti ge dom** - via hejmo        | **dom de ti** - hejmo de vi              |
+| **ta ge dom** - lia/ŝia hejmo    | **dom de ta** - hejmo de li/ŝi/ĝi        |
+| **mimen ge dom** - nia home      | **dom de mimen** - hejmo de ni           |
+| **timen ge dom** - via home      | **dom de timen** - hejmo de vi           |
+| **tamen ge dom** - ilia home     | **dom de tamen** - hejmo de ili          |
 
-> **jovan mama ge jia** - domo de juna patrino
+> **jovan mama ge dom** - domo de juna patrino  
 > **batu ge cung** - pezo de ŝtono
 
-> **jia de jovan mama** - domo de juna patrino
+> **dom de jovan mama** - domo de juna patrino  
 > **cung de batu** - pezo de ŝtono
 
 
@@ -349,19 +349,11 @@ Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en
 > **ta plus yem bir.** - Li _ankaŭ trinkas_ bieron.  
 > **plus ta yem bir.** - _Ankaŭ li_ trinkas bieron.
 
-Eble pli fremda ekzemplo estas demanda partikulo **ka**. Ĝi funkcias tute same kiel **plus**, nur la signifo estas malsama. Do **ka** demandas aŭ la sekvantan vorton aŭ laste la tutan frazon.
-
-> **ti yem bir ka?** - Ĉu vi trinkas bieron?  
-> **ti yem ka bir?** - _Ĉu bieron_ vi trinkas?  
-> **ti ka yem bir?** - _Ĉu trinkas_ vi bieron?  
-> **ka ti yem bir?** - _Ĉu vi_, trinkas bieron?
-
-
 Notu! Ankaŭ adjektivoj povas modifi aŭ unu vorton aŭ la tutan frazon.
 
-> **mi bon kitaba buk.** - Mi bone skribas librojn.
-> **mi kitaba bon buk.** - Mi skribas bonajn librojn.
-> **mi kitaba buk bon.** - Mi skribas librojn bone.
+> **mi bon kitab buk.** - Mi bone skribas librojn.  
+> **mi kitab bon buk.** - Mi skribas bonajn librojn.  
+> **mi kitab buk bon.** - Mi skribas librojn bone.  
 
 Sed modalaj partikuloj povas modifi ĉiu tipo de vorto. Adjektivoj ne povas modifi pronomojn kaj nombrovortojn.
 
