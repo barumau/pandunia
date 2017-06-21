@@ -491,17 +491,105 @@ Tip: To make direct requests, drop all the pronouns.
 **safar hen long.** The voyage is very long.
 
 
+### na <small>in, on, at</small>
+
+**hotel na ke?** Where is the hotel?
+
+**hotel na sa dau.** The hotel is on that road.
+
+**ti na ke?** Where are you?
+
+**mi na dom.** I'm at home.
+
+**ta na ke?** Where is he/she?
+
+**ta sit na kamar.** He/she sits in the room.
+
+Tip! You can use **na** as a preposition or alone as the verb.
+
+**mi gong na...** I work at ...
+
+
 ### abit <small>to live, reside</small>
 
 **ti abit ke?** Where do you live?
+
+Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the meaning of being at somewhere.
 
 **mi abit singapur.** I live in Singapore.
 
 **kia ti abit sa hotel?** Do you live in this hotel?
 
-<!--
 
-**** I study Pandunia.
+### deng <small>to wait</small>
+
+**bite deng!** Please wait!
+
+**tamen deng mimen.** They wait for us.
+
+**mi deng ti na hotel.** I wait for you in the hotel.
+
+
+
+
+## Part 5. Doing business
+
+
+### kap <small>take, get</small>
+
+**mi kap un kafe.** I will take a coffee.
+
+**bite kap un kafe do mi.** Please take one coffee for me.
+
+**ti ja kap pesa ze mi.** You already got money from me.
+
+
+### dar <small>give</small>
+
+**bite dar pesa.** Please give me some money.
+
+
+
+### mai <small>commerce</small>
+
+**tamen mai dar tot.** They sell everything.
+
+**mi kap un bir.** I will take a beer.
+
+**mi mai kap un bir.** I will buy a beer.
+
+
+
+
+
+### yang <small>type, kind, sort</small>
+
+**ta e ke yang?** What is it like?
+
+**kia ta nov?** Is it new?
+
+**ke e mas bon?** Which is better?
+
+**sa e masim bon (ze tot).** This is the best (of all).
+
+
+
+<!--
+**** How much does it cost?  
+**** Nothing.  
+**** It is cheap / expensive.  
+
+
+**** We are being called.
+
+**** I'm looking for the toilet.
+
+**** Go there / forward / back / left / right.
+**** Come here / back / to us.
+
+
+
+**mi darsa pandunia.** I study Pandunia.
 
 **** Show me in the dictionary!
 **** I don't remember.
@@ -512,13 +600,12 @@ Tip: To make direct requests, drop all the pronouns.
 
 **** Don't worry! (Hakuna matata!)
 
-**toto okei** Everything is alright.
+**tot e okei.** Everything is alright.
 
 **** Cheers!
 
 **** Of course!
 
-**** I work at ...
 
 **** Do you like ...?
 
@@ -528,40 +615,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 **** I rather stand.
 
-**** They wait for us.
-**** I wait for you in front of the house.
-**** We are being called.
 
-**** Where is the theater?
-
-**** I'm looking for the toilet.
-
-**** Go there / forward / back / left / right.
-**** Come here / back / to us.
 
 **** With pleasure!
 
-**** When does the party begin?
+**festa ye kaici na ke sat?** When does the party begin?
 
-**** They sell everything.
-
-**** I will buy a beer.
-
-**** How much does it cost?
-**** Nothing.
-**** It is cheap / expensive.
-
-**** What is it like?
-**** Is it new?
-
-**** Which is better?
-**** This is the best of all.
 
 **** You are right.
 
 **** Leave me alone!
-
-**** He/she sits in the room.
 
 **** I give them a book.
 

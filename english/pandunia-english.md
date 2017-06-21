@@ -180,6 +180,7 @@ cin : new
 cir : poem  
 cirop : syrup  
 cok : shock (collide)  
+corab : sock (stocking)  
 culi : repair (fix)  
 cup : suck  
 ##d  
@@ -538,6 +539,8 @@ kilo gram : kilogram (kg)
 kimi : chemical  
 kimi logi : chemistry  
 kira : rent  
+kira dar : rent out (let, lease)  
+kira kap : rent (hire)  
 kirat : carat  
 kisma : fate (destiny)  
 kitab : write  
@@ -878,6 +881,7 @@ penis : penis
 pensa : think  
 penta : paint  
 pera : pear  
+perfet : perfect  
 peri : fairy  
 peru : Peru  
 pesa : money  
@@ -1015,12 +1019,12 @@ sense : sense
 sensur : censor  
 senti : feel (emotion)  
 serbia : Serbia  
-serce : search  
 seres : Ceres (dwarf planet)  
 seri : series  
 serva : serve (wait upon)  
 sesam : sesame  
 set : seven (7)  
+set var : week  
 sibir : Siberia  
 sifa : quality (charasteristic)  
 sigar : cigar  
@@ -1040,7 +1044,7 @@ sivil : civilian (civil)
 slovenia : Slovenia  
 sofa : sofa (couch)  
 sofi : wise  
-sok : sock  
+sok : search (seek)  
 sol : only (just)  
 son : sleep (dream)  
 son kamar : bedroom  
@@ -1061,9 +1065,8 @@ sudafrika : South Africa (republic)
 sudan : Sudan  
 suha : dry  
 sui : water  
-suka : like (be fond of)  
+suk : enjoy (like, be pleased, be happy)  
 sukar : sugar  
-suki : happy (joyful)  
 sultan : power (authority, rule)  
 sum : sum (total)  
 sun : soon  
@@ -1134,6 +1137,7 @@ tep : tape
 teror : terror  
 teste : test (challenge)  
 teyan : suggest (propose)  
+tez : intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)  
 ti : you  
 tik : right (correct)  
 tiket : ticket  
