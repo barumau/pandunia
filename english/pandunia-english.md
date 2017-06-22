@@ -3,7 +3,7 @@ abit : live (reside, inhabit)
 adres : address  
 adulte : adult  
 afrika : Africa  
-agres : aggression  
+agres : agression (assault)  
 aha : understand (realize)  
 ai : alas! (ouch!)  
 aina : mirror  
@@ -58,7 +58,7 @@ bada : after (later)
 badal : exchange (swap)  
 badam : almond  
 badan : body  
-bagaje : luggage (baggage)  
+bagaj : luggage (baggage)  
 bai : white  
 bal : strong (force)  
 baldi : bucket  
@@ -95,7 +95,7 @@ bazar : market (bazaar)
 baze : base (foundation)  
 bebe : baby  
 bed : bed  
-bei : verb of passive  
+bei : undergo (verb of the passive voice)  
 belarus : Belarus  
 belgi : Belgium  
 beng : sick (ill)  
@@ -176,7 +176,6 @@ cigo : accident (mishap)
 cik : elegant (chic)  
 cim : heart  
 cin : believe (faith, creed)  
-cin : new  
 cir : poem  
 cirop : syrup  
 cok : shock (collide)  
@@ -263,7 +262,7 @@ dum : tail
 duman : smoke  
 duna : dune  
 dunia : world  
-dura : last (take time)  
+dur : last (take time)  
 ##e  
 eglis : church  
 ekran : screen  
@@ -386,11 +385,10 @@ gusta : taste (sense the flavor)
 gut : bone  
 ##h  
 ha : have  
-habar paper : newspaper  
 haha : laugh  
 hai : still (yet)  
 haide : let's  
-hak : right (justification)  
+hak : right (justification, privilege)  
 hakim : judgment (sentence)  
 hakim guru : judge (referee)  
 halo : hello (hi)  
@@ -418,7 +416,7 @@ hobi : hobby
 hon : hundred  
 hor : hour  
 hormon : hormone  
-horvatia : Croatia  
+horvat : Croatia  
 hotel : hotel  
 hua : flower  
 hua bin : vase (flower pot)  
@@ -429,7 +427,7 @@ hura : hooray (cheer)
 ##i  
 ibri : Hebrew  
 idea : idea  
-imperia : empire  
+imper : empire  
 in : inside (interior)  
 incala : hope (wish)  
 indji : ginger  
@@ -450,9 +448,9 @@ itiopia : Ethiopia
 izi : easy  
 i : and  
 ##j  
-ja : already  
+ja : already (done)  
 jadi : if (suppose, assume)  
-jaket : jacket (coat)  
+jaket : jacket  
 jan : know  
 janela : window  
 janu : knee  
@@ -493,7 +491,7 @@ kamar tal : floor
 kambudia : Cambodia  
 kamera : camera  
 kamis : shirt  
-kampe : camp  
+kamp : camp  
 kan : workshop (place for...)  
 kanada : Canada  
 kanal : channel  
@@ -533,7 +531,7 @@ ketcap : ketchup
 ketci : polite  
 ketel : kettle  
 ki : that (conj.)  
-kia : ask (make a question)  
+kia : ask (question)  
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  
 kimi : chemical  
@@ -542,7 +540,7 @@ kira : rent
 kira dar : rent out (let, lease)  
 kira kap : rent (hire)  
 kirat : carat  
-kisma : fate (destiny)  
+kismat : fate (destiny)  
 kitab : write  
 kitab kan : library  
 kiwi : kiwi fruit  
@@ -575,7 +573,7 @@ kosta : shore (coast)
 kot : coat  
 koz : reason (cause)  
 krem : cream  
-krita : cry (shout)  
+kri : cry (shout)  
 krus : cross  
 kuan : wide  
 kuang : mineral (ore)  
@@ -592,18 +590,18 @@ kursi : chair
 kurva : curve  
 kusen : cushion (pillow)  
 ##l  
+lab : lip  
 laba : horn (bugle)  
-labi : lip  
-lada : load (to charge)  
+lad : load (to charge)  
+ladji : rubbish (trash)  
 lai : come  
 lai salam : welcome  
-laji : rubbish (trash)  
 laka : lacquer (varnish)  
 lal : red  
 lala : lie (lie down)  
 lampa : lamp  
 lanka : Sri Lanka  
-lansa : throw  
+lans : throw (launch)  
 lao : Laos  
 larva : larva (maggot, caterpillar)  
 lastik : elastic  
@@ -620,13 +618,11 @@ letis : lettuce
 libel : dragonfly  
 liber : free (unchained)  
 licu : squirrel  
-lida : lead (direct)  
+lid : lead (direct)  
 lietuva : Lithuania  
-liga : connect (join, link)  
+lig : connect (join, link)  
 lilak : lilac  
 lili : lily  
-lilun : theory  
-lilun ja : theorist  
 lim : five (5)  
 limfa : lymph  
 limit : limit (boundary)  
@@ -637,7 +633,6 @@ lista : list
 lit : little (small)  
 litci : lychee (litchi)  
 liter : liter (litre)  
-litre : liter  
 lobak : radish  
 loga : say (word)  
 logi : science  
@@ -704,7 +699,7 @@ mau : cat
 medalia : medallion (medal)  
 mede : help  
 medi : mean (medium)  
-medita : meditate (ponder)  
+medit : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
 melodi : melody  
@@ -729,7 +724,6 @@ mesi : messiah (Christ)
 metal : metal  
 meter : meter  
 metod : method  
-metre : metre  
 mexiko : Mexico  
 meza : table  
 mi : I (me)  
@@ -737,7 +731,7 @@ mi ge : my
 mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
-mila : meet  
+mil : meet  
 mili : milli-  
 milke : milk  
 mimen : we  
@@ -767,7 +761,6 @@ motor : engine (motor)
 mucing : Jupiter  
 mucu : mouse  
 mudan : peony  
-mudi : aim (objective)  
 muhim : important  
 muka : face  
 mum : wax  
@@ -784,7 +777,7 @@ myanma : Myanmar (Burma)
 ##n  
 na : at (in, on)  
 na cia : below (under)  
-na dura de : while (during)  
+na dur de : while (during)  
 na in : in (inside)  
 na men : on (on the surface)  
 na vis de : instead of  
@@ -811,9 +804,9 @@ nen festa : anniversary
 nenufar : water lily (nenuphar)  
 nepal : Nepal  
 neptun : Neptune  
+neses : need  
 net : net  
-nice : niche (alcove)  
-nid : need  
+nic : niche (alcove)  
 nilon : nylon  
 nipon : Japan  
 nitro : nitrogen  
@@ -822,7 +815,7 @@ noi : nine (9)
 nong : cultivate  
 nor : north  
 norge : Norway  
-norma : norm (standard)  
+normal : norm (standard)  
 nos : nose  
 not : notice (observe)  
 notce : night  
@@ -914,7 +907,7 @@ politik : politics
 polska : Poland  
 pompa : pump (to)  
 pon : put (place)  
-ponta : point (indicate)  
+pont : point (indicate)  
 por : for (in order to)  
 porta : carry (bear)  
 portugal : Portugal  
@@ -922,7 +915,6 @@ posta : mail
 posta cap : postal stamp  
 posta kan : post office  
 poto : mud (mire)  
-poze : position (arrangement)  
 pratik : practical  
 presis : precise (exact, accurate)  
 proba : try (attempt)  
@@ -1015,7 +1007,7 @@ sel : cell (biology)
 selen : selenium  
 sem : same  
 sen : chest (thorax)  
-sense : sense  
+sens : sense  
 sensur : censor  
 senti : feel (emotion)  
 serbia : Serbia  
@@ -1063,7 +1055,6 @@ suba yem : breakfast
 sud : south  
 sudafrika : South Africa (republic)  
 sudan : Sudan  
-suha : dry  
 sui : water  
 suk : enjoy (like, be pleased, be happy)  
 sukar : sugar  
@@ -1077,6 +1068,7 @@ super : superb (wonderful, super)
 sura : chapter (section)  
 suriname : Suriname  
 surya : sun  
+suxa : dry  
 svedia : Sweden  
 ##t  
 ta : he or she or it  
@@ -1129,10 +1121,11 @@ tekni logi : technology (study of techniques)
 tela : cloth (fabric, textile)  
 tele : distant (tele-)  
 tema : topic (theme)  
-tene : hold (grasp)  
+ten : hold (grasp)  
 tenis : tennis  
 tenta : tempt (entice)  
 tentci : weather  
+teori : theory  
 tep : tape  
 teror : terror  
 teste : test (challenge)  
@@ -1162,7 +1155,7 @@ tren : train
 tren dau : railway (railroad)  
 tsuka : vinegar  
 tualet : toilet (WC)  
-tubu : tube (pipe)  
+tub : tube (pipe)  
 tufan : storm (tempest)  
 tul : tool  
 tulip : tulip  
@@ -1183,8 +1176,8 @@ umur : age
 un : one (1)  
 uni : unite  
 uni stat de amerika : United States of America  
-uran : uranium  
 uran : Uranus  
+uranium : uranium  
 urdun : Jordan  
 uruguai : Uruguay  
 usa : USA  
@@ -1231,7 +1224,7 @@ vot : vote
 wa : wow! (gee!)  
 wac : wash  
 wac macin : washing machine  
-wada : promise (commitment)  
+wad : promise (commitment)  
 wadi : canyon (gulch, gorge)  
 waf : dog  
 waha : oasis  
@@ -1251,6 +1244,7 @@ wiki : wiki
 win : win (victory)  
 ##x  
 xabar : news  
+xabar paper : newspaper  
 xali : empty  
 xalif : caliph  
 xan : monarch (king, queen)  

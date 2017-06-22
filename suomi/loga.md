@@ -1,5 +1,5 @@
-Sanasto
-=======
+Maailman sanastot
+=================
 
 Kansainväliset sanat
 --------------------

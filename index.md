@@ -17,3 +17,4 @@
 [Tutustu panduniaan suomeksi](suomi/index.md)
 
 
+[pandunia bi pandunia](pandunia/index.md)
