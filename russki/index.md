@@ -16,8 +16,10 @@
 ### Ссылки
 
 - [Группа Пандунии в Facebook](http://www.facebook.com/groups/pandunia)
-- [Telegram group chat](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
+- [Telegram group chat](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
+- [ВКонтакте](https://vk.com/pandunia)
 - [Пандунийская рассылка в Yahoo-группах](https://groups.yahoo.com/neo/groups/pandunia/info)
 
 
 Контакт: [risto@pandunia.info](mailto:risto@pandunia.info)
+

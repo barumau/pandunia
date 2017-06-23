@@ -3,5 +3,12 @@
 
 [Звучание](abc.md)
 [Уроки](darsa.md)
+[Грамматика](baca_kanun.md)
+
+[Словарь]()
+
+  * [пандуния-русский](pandunia-ruski.md)
+  * [русский-пандуния](ruski-pandunia.md)
+
 [видеоклипи](../pandunia/video.md)
 

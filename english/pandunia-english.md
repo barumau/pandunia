@@ -1,3 +1,4 @@
+a : ah!  
 ##a  
 abit : live (reside, inhabit)  
 adres : address  
@@ -49,7 +50,6 @@ avar : damage (wreck)
 aventur : adventure  
 ax : argh!  
 ayiti : Haiti  
-a : ah!  
 ##b  
 baca : language  
 baca logi : linguistics  
@@ -263,6 +263,7 @@ duman : smoke
 duna : dune  
 dunia : world  
 dur : last (take time)  
+e : be  
 ##e  
 eglis : church  
 ekran : screen  
@@ -281,7 +282,6 @@ euro : euro
 europa : Europe  
 europa uni : European Union (EU)  
 exo : echo  
-e : be  
 ##f  
 fai : fire  
 faida : use (utility, benefit)  
@@ -424,6 +424,7 @@ huli : fox
 humus : chickpea  
 humus sos : hummus  
 hura : hooray (cheer)  
+i : and  
 ##i  
 ibri : Hebrew  
 idea : idea  
@@ -446,7 +447,6 @@ it : brick
 italia : Italy  
 itiopia : Ethiopia  
 izi : easy  
-i : and  
 ##j  
 ja : already (done)  
 jadi : if (suppose, assume)  
@@ -826,6 +826,7 @@ numer : number
 numer un : first (number one)  
 nun : now  
 nuton : newton (N)  
+o : oh!  
 ##o  
 okei : okay (acceptable)  
 oksi : oxygen  
@@ -836,7 +837,6 @@ or : ear
 ordu : horde (wandering troop)  
 orgazme : orgasm  
 oskur : dark (dim)  
-o : oh!  
 ##p  
 paban : board (plank)  
 pagri : turban  
@@ -1167,6 +1167,7 @@ tunis : Tunisia
 tur : tour (trip)  
 turkia : Turkey  
 tuzi : rabbit (hare)  
+u : or  
 ##u  
 udas : sad  
 ukrayina : Ukraine  
@@ -1181,7 +1182,6 @@ uranium : uranium
 urdun : Jordan  
 uruguai : Uruguay  
 usa : USA  
-u : or  
 ##v  
 vaksin : vaccine  
 vale : valley  
