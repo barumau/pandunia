@@ -546,11 +546,21 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 ### dar <small>give</small>
 
-**bite dar pesa.** Please give me some money.
+**bite dar pesa.** Please give some money.
+
+**bite dar ta do mi.** Please give it to me.
+
+**mi dar sa do ti.** I give this to you.
+
+**mi dar buk do tamen.** I give a book to them.
+
+**ta no vol dar ta do mi.** He/she doesn't want to give it to me.
 
 
 
 ### mai <small>commerce</small>
+
+Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai kap** means _to buy_.
 
 **tamen mai dar tot.** They sell everything.
 
@@ -559,8 +569,16 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 **mi mai kap un bir.** I will buy a beer.
 
 
+### kira <small>rent</small>
+
+**mi vol kira kap un gar.** I want to rent a car.
+
+**ta kira dar kamar do biznes jen.** He/she rents rooms to business people.
+
+Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 
+<!--
 
 ### yang <small>type, kind, sort</small>
 
@@ -574,7 +592,6 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 
 
-<!--
 **** How much does it cost?  
 **** Nothing.  
 **** It is cheap / expensive.  
@@ -625,8 +642,6 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 **** You are right.
 
 **** Leave me alone!
-
-**** I give them a book.
 
 **ke xabar?** What's new?
 -->
