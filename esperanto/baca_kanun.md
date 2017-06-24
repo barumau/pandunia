@@ -98,21 +98,21 @@ Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto
 
 > **un tara** - unu stelo  
 > **du tara** - du steloj  
-> **san tara** - tri steloj  
+> **sam tara** - tri steloj  
 > **cau tara** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
 > **fen un** - la unua parto  
 > **fen du** - la dua parto  
-> **fen san** - la tria parto  
+> **fen sam** - la tria parto  
 
 Jen la ĉefaj nombroj:
 
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **san**
+- 3 **sam**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
@@ -125,7 +125,7 @@ Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la 
 - 10 **un nul** aŭ **des**
 - 11 **un un**
 - 12 **un du**
-- 13 **un san**
+- 13 **un sam**
 - 20 **du nul**
 - 21 **du un**
 - 22 **du du**
@@ -155,7 +155,7 @@ Pronomoj
 Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
 **mi** - mi  
-**ti** - vi _(ununumbre)_  
+**ti** - vi _(ununombre)_  
 **ta** - li, ŝi, ri, ĝi  
 **mimen** - ni  
 **timen** - vi _(multnombre)  
@@ -177,7 +177,7 @@ Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi ri
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
 **sa** - (ĉi) tio, (ĉi) tiu  
-**sa jin** - ĉi tio, ĉi tiu _(proksima)_  
+**sa djin** - ĉi tio, ĉi tiu _(proksima)_  
 **sa far** - tio, tiu _(fora)_  
 
 
@@ -195,17 +195,11 @@ Montrovortoj povas roli kiel Modifovortoj.
 > **ke?** - Kiu?/Kio?  
 > **ke ting?** - Kio? (Kiu afero?)  
 > **ke jen?** - Kiu? (Kiu persono?)  
-> **ke zam?** - Kiam? (Kiu tempo?)  
+> **ke sat?** - Kiam? (Kiu tempo?)  
 > **ke yang?** - Kiel? (Kiu maniero?)  
+> **ke koz?** - Kial? (Kiu kaŭzo?)
 
 
-### Korelativo
-
-*Jo* estas la korelativo, kaj funkcias kiel la korelativa senco de la vortoj _kiu_ kaj _kio_.
-
-> **mi leva batu, jo cung.** - Mi levas ŝtonon, kiu estas peza.  
-> **ta man, jo mi vide.** - Li estas la viro, kiun mi vidis.  
-> **mimen suka jen, jo suka mimen.** - Ni ŝatas homojn, kiuj ŝatas nin.  
 
 
 
@@ -332,7 +326,56 @@ La partikulo **de** estas uzata en kontraŭa ordo: unue la determinato, meze la 
 > **dom de jovan mama** - domo de juna patrino  
 > **cung de batu** - pezo de ŝtono
 
+Pandunia havas du determinaj partikuloj, **ge** kaj **de**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
 
+### Posedo
+
+La determinaj partikuloj esprimas posedon inter alia. La partikulo **ge** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **ge** kaj laste la determinato.
+
+
+> **maria ge mama** - Maria panjo    
+> **mi ge bet** - mia domo    
+> **mi ge papa ge bet** - mia patra domo
+
+**De** funkcias kiel esperanta "de".
+
+> **mama de maria** - panjo de Maria
+> **bet de mi** - domo mia  
+> **bet de papa de mi** - domo de patro mia
+
+### Adjektivaj frazoj
+
+Normalle la adjectivo estas antaŭ la substantivo en pandunio. Oni povas meti ĝin post substantive per helpo de **de**.
+
+> **nov bet** - nova domo  
+> **bet de nov** - domo nova
+
+Oni povas krei pli kompleksajn adjektivojn per helpo de la determinaj partikuloj.
+
+> **roza rang ge lab** - rozkoloraj lipoj  
+> **sama rang ge yen** - cielkoloraj okuloj
+
+Kaj en la kontraŭa ordo:
+
+> **lab de roza rang** - lipoj rozkoloraj  
+> **yen de sama rang** - okuloj cielkoloraj
+
+### Relativa frazo
+
+Oni kreas ankaŭ relativajn frazojn per la determinajn partikulojn.
+
+Jen **de** funkcias kiel esperanta "kiu".
+
+> **ta e man _de mi vide_.** - Li estas viro, _kiun mi vidis_.
+
+Ankaŭ eblas uzi partikulon **ge**. Oni ne povas esperantigi ĝin laŭvorte.
+
+**ta e _mi vide ge_ man.** - *Li estas _mividita_ viro.
+
+Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
+
+> **mi vide man _de yem pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
+> **mi vide _yem pingo ge_ man.** - *Mi vidas _pommanĝantan_ viron.
 
 
 Modalaj partikuloj

@@ -228,15 +228,7 @@ The demonstrative pronouns work like modifiers.
 > **ke jen?** - Who? (Which person?)
 > **ke sat?** - When? (What time?)
 > **ke yang?** - How? (What manner?)
-
-
-### Relative pronoun
-
-**Jo**, the relative pronoun, corresponds to English words _which_, _that_, _who_ and _whom_.
-
-> **mi leva batu, jo cung.** - I lift a stone, which is heavy.
-> **ta man, jo mi vide.** - He is the man whom I saw.
-> **mimen suka jen, jo suka mimen.** - We like people who like us.
+> **ke koz?** - Why? (What cause?)
 
 
 
@@ -279,7 +271,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences are frequently in the subject–verb–object word order (SVO).
 
-> **mi yem pingo.** - I eat apples.
+> **mi yem pingo.** - I eat apples.  
 > **mi audi musik.** - I hear music.  
 > **mi vide ti.** - I see you.
 
@@ -291,9 +283,13 @@ SOV and SVO are the two most common word orders by far in the languages of the w
 
 In passive sentences, the subject is the undergoer of the action and there is no object.
 
-> **ti vide.** - You are seen.
+> **ti vide.** - You are seen.  
 > **musik audi.** - Music is heard.
 
+Passive can be expressed with help of the verb **bei**.
+
+> **ti bei vide.** - You get seen.  
+> **musik bei audi.** - Music gets heard.
 
 
 
@@ -359,25 +355,59 @@ The particles **ye** and **no** are used for answering questions.
 Modifier particles
 ------------------
 
-There are two particles that change a word or phrase into a modifier, **ge** and **de**. They have the same function but the word order is different. **Ge** connects the modifying word to the modified word, and **de** connects the modified word to the modifying word, in precisely the said order.
+Particles **ge** and **de** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
 
-When pronouns are turned into modifiers, they become _possessive pronouns_. There are two ways to build them in Pandunia:
+### Possession
 
-| With _ge_                        | With _de_                                |
-|:---------------------------------|:-----------------------------------------|
-| **mi ge dom** - my home          | **dom de mi** - the home of mine         |
-| **ti ge dom** - your home        | **dom de ti** - the home of yours        |
-| **ta ge dom** - his/her/its home | **dom de ta** - the home of his/hers/its |
-| **mimen ge dom** - our home      | **dom de mimen** - the home of ours      |
-| **timen ge dom** - your home     | **dom de timen** - the home of you all   |
-| **tamen ge dom** - their home    | **dom de tamen** - the home of theirs    |
- 
- 
-A modifier particle changes any kind of phrase into an equivalent of a quality-word. So also nouns and verbs can be changed into modifiers.
+The modifier particle can be used for any possessive noun or pronoun.
+
+With regards to possession, **ge** works like apostrophe-s ('s) in English.
 
 > **maria ge mama** - Maria's mother  
-> **batu ge cung** - stone's weight  
-> **yem ge sat** - the moment of eating
+> **mi ge bet** - my house  
+> **mi ge papa ge bet** - my father's house
+
+**De** works like "of" in English.
+
+> **mama de maria** - the mother of Maria
+> **bet de mi** - the house of mine  
+> **bet de papa de mi** - the house of the father of mine
+
+### Attribution with adjectives
+
+Another way to use these particles is to connect an adjective or other words with a noun. It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
+
+Normally the adjective is before the noun in Pandunia. It can be placed after the noun with the help of **de**.
+
+> **nov bet** - new house  
+> **bet de nov** - house _of new_
+
+The modifier particles are useful for creating complex adjectives that consists of two or more words.
+
+> **roza rang ge lab** - rose-colored lips  
+> **sama rang ge yen** - sky-colored eyes
+
+Or in the opposite order:
+
+> **lab de roza rang** - lips of the color of the rose  
+> **yen de sama rang** - eyes of the color of the sky
+
+### Relative clauses
+
+Also relative clauses are created with help of the modifier particles.
+
+Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
+
+> **ta e man _de mi vide_.** - He is the man _that I saw_.
+
+It's possible to construct relatives clauses with **ge** too. Then the relative clause precedes the noun that it modifies, and ends with the particle **ge**. This structure doesn't exist in English, so there isn't a word-for-word translation for it.
+
+**ta e _mi vide ge_ man.** - *He is the _my seen_ man.
+
+If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
+
+> **mi vide man _de yem pingo_.** - I see a man _who eats apples_.  
+> **mi vide _yem pingo ge_ man.** - I see an _apple-eating_ man.
 
 
 

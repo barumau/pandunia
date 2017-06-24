@@ -192,9 +192,10 @@ Osoittavat pronomonit ovat laatusanan kaltaisia
 
 > **ke?** - Mikä?
 > **ke ting?** - Mikä esine?
-> **ke ren?** - Kuka? (Mikä henkilö?)  
-> **koz ke?** - Miksi? (Minkä takia?)  
+> **ke jen?** - Kuka? (Mikä henkilö?)  
 > **ke sat?** - Milloin? (Mikä hetki?)
+> **ke yang?** - Miten? (Mikä tapa?)
+> **ke koz?** - Miksi? (Mikä syy?)  
 
 
 
@@ -239,7 +240,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-> **mi yem pingo.** - Minä syön omenoita.
+> **mi yem pingo.** - Minä syön omenoita.  
 > **mi audi musik.** - Minä kuuntelen musiikkia.  
 > **mi vide ti.** - Minä näen sinut.
 
@@ -251,12 +252,12 @@ SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestyst�
 
 Passiivilauseessa subjekti on teon kohde tai kokija ja objektia ei ole.
 
-> **ti vide.** - Sinut nähdään.
+> **ti vide.** - Sinut nähdään.  
 > **musik audi.** - Musiikkia kuullaan.
 
 Passiivin voi ilmaista myös apuverbin **bei** avulla.
 
-> **ti bei vide.** - Sinut nähdään. (Sinä tulet nähdyksi.)
+> **ti bei vide.** - Sinut nähdään. (Sinä tulet nähdyksi.)  
 > **musik bei audi.** - Musiikkia kuullaan. (Musiikki tulee kuulluksi.)
 
 
@@ -287,14 +288,14 @@ Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekij
  
 Yllä olevassa esimerkissä ensimmäinen verbi, **cing** (pyytää), saa kohteekseen sanan **mi**, joka toimii yhtäaikaa toisen verbin, **go** (mennä), tekijänä. Toisen verbin kohde on **jia** (koti). Niinpä sanalla **mi** on kaksi roolia: (1) ensimmäisen verbin kohde eli objekti ja (2) toisen verbin tekijä eli subjekti. Se toimii siis ikään kuin saranana kahden verbin välissä.
  
-> **ta les _mi_ go dom.** - Hän päästää minut menemään kotiin.
+> **ta les _mi_ go dom.** - Hän päästää minut menemään kotiin.  
 > **ta mus _mi_ go dom.** - Hän pakottaa minut menemään kotiin.
  
 panduniassa on sallittua jättää pronomini pois silloin, kun se tunnetaan ilman muuta. Toisin sanoen, kun puhuja voi varmasti olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu, hänen ei tarvitse jatkuvasti toistaa sitä. Tällä tavalla lauseista voi tehdä lyhyempiä.
  
 Ensimmäisessä saranarakenteen muunnelmassa jätetään pois ensimmäinen subjekti, joka viittaa puhujaan.
  
-> **mi kia ti go dom.** - Minä kysyn, menetkö sinä kotiin.
+> **mi kia ti go dom.** - Minä kysyn, menetkö sinä kotiin.  
 > **kia ti go dom?** - Menetkö kotiin?
  
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
@@ -316,25 +317,60 @@ Määrepartikkelit
 
 Panduniassa on kaksi määrepartikkelia, **ge** ja **de**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
 
-Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **ge** käytetään siten, että ensin on määre, keskimmäisenä **ge** ja viimeisenä pääsana. Sanaa **de** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **de** ja viimeisenä määre.
+Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **ge** käytetään siten, että ensin on määre, keskimmäisenä **ge** ja viimeisenä pääsana. Sanaa **de** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **de** ja viimeisenä määre. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
 
-Omistuspronominit ilmaistaan määrepartikkelien avulla. Ne voidaan siis ilmaista kahdella tavalla:
+### Omistus
 
-| With _ge_                        | With _de_                                |
-|:---------------------------------|:-----------------------------------------|
-| **mi ge dom** - minun koti       | **dom de mi** - kotini minun             |
-| **ti ge dom** - sinun koti       | **dom de ti** - kotisi sinun             |
-| **ta ge dom** - hänen koti       | **dom de ta** - kotinsa hänen            |
-| **mimen ge dom** - meidän koti   | **dom de mimen** - kotimme               |
-| **timen ge dom** - teidän koti   | **dom de timen** - kotinne               |
-| **tamen ge dom** - heidän koti   | **dom de tamen** - kotinsa               |
+Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
+
+**Ge** vastaa suomen genetiivimuotoa.
+
+> **maria ge mama** - Marian äiti  
+> **mi ge bet** - minun talo  
+> **mi ge papa ge bet** - minun isän talo
+
+**De** on sama mutta käänteisessä sanajärjestyksessä.
+
+> **mama de maria** - äiti Marian
+> **bet de mi** - talo minun  
+> **bet de papa de mi** - talo isän minun
 
 
-Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
+### Adjektiivimääreet
 
-> **maria ge mama** - Marian äiti
-> **batu ge cung** - kiven paino
-> **yem ge sat** - syömisen aika
+Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat pääsanaansa. Partikkeli näyttää, kummassa päässä pääsana sijaitsee.
+
+Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **de** avulla.
+
+> **nov bet** - uusi talo  
+> **bet de nov** - talo uusi
+
+Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
+
+> **roza rang ge lab** - ruusun väriset huulet  
+> **sama rang ge yen** - taivaan väriset silmät
+
+Tai käänteisessä järjestyksessä:
+
+> **lab de roza rang** - huulet ruusun väriset  
+> **yen de sama rang** - silmät taivaan siniset
+
+### Määrelause
+
+Määrepartikkelien avulla kokonaisista lauseista voi tehdä määreitä.
+
+Siinä tapauksessa **de** vastaa suomen relatiivipronominia _joka_.
+
+> **ta e man _de mi vide_.** - Hän on mies, _jonka minä näin_.
+
+Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
+
+**ta e _mi vide ge_ man.** - Hän on minun näkemä mies.
+
+Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
+
+> **mi vide man _de yem pingo_.** - Minä näen miehen, _joka syö omenoita_.  
+> **mi vide _yem pingo ge_ man.** - Minä näen _omenia syövän_ miehen.
 
 
 
