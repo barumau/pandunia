@@ -402,12 +402,13 @@ Tip: To make direct requests, drop all the pronouns.
 **gon** 过 <small>(泰语 _gɔ̀ɔn_ ก่อน)</small>  
 **ha** 有 <small>(葡萄牙语 _há_)</small>  
 **i** 和 <small>(波兰语 _i_)</small>  
-**jan** 知道 <small>(印地语 _jānnā_ जानना)</small>  
+**jen** 人 <small>(普通话 _rén_ 人)</small>  
 **kafe** 咖啡 <small>(德语 _Kaffee_)</small>  
 **kara** 黑色 <small>(土耳其语 _kara_)</small>  
 **kat** 切 <small>(印地语 ‎_kāṭnā_ काटना)</small>  
 **kata** 叙说 <small>(日语 _kataru_ 語る)</small>  
 **ke** 什么，谁 <small>(西班牙语 _qué_)</small>  
+**ken** 会 <small>(英语 _can_)</small>  
 **ketci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
 **kia** 问，问题 <small>(印地语 _kyā_ क्या)</small>  
 **lai** 来 <small>(越南语 _lai_)</small>  
@@ -425,9 +426,8 @@ Tip: To make direct requests, drop all the pronouns.
 **nau** 现在 <small>(英语 _now_)</small>  
 **papa** 爸爸 <small>(俄语 _papa_ папа)</small>  
 **pingo** 苹果 <small>(普通话 _píngguǒ_ 苹果)</small>  
-**jen** 人 <small>(普通话 _rén_ 人)</small>  
 **sa** 这 <small>(海地语 _sa_)</small>  
-**sabi** 会 <small>(尼日利亚话 _sabi_)</small>  
+**sap** 知道 <small>(泰语 _saap_ ทราบ)</small>  
 **safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>  
 **salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>  
 **suba** 早上 <small>(Wolof _subba_)</small>  

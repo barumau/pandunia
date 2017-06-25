@@ -48,7 +48,7 @@ Basic Rules
 8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
     - ex. **mi bite ti dar pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Do you speak Pandunia?
+    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Do you speak Pandunia?
     - **mi bite ti loga tez.** →  **bite loga tez.** = Please speak louder.
 
 
@@ -473,7 +473,7 @@ Preposition **bi** indicates means. It corresponds to English prepositions _with
 
 Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi sabi pandunia ka guru.** - I know Pandunia like a master.
+> **mi sap pandunia ka guru.** - I know Pandunia like a master.
 
 **Ka** relates the verb or the adjective to a point of comparison. In the above example **loga** (know-how) is the verb and **guru** (master) is the point of comparison.
 
@@ -578,12 +578,12 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 7. Numerals
 8. Adjectives
 
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Koz** is at the top, because it connects the two sub-phrases.
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia koz ta e bon dunia baca.
+    yusef i sara vol darsa pandunia ze koz de ta e bon dunia baca.
 
-                         koz
+                         ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
@@ -592,6 +592,7 @@ The following example shows how the scope affects the final position of words in
     yusef   sara       pandunia       dunia
                                         |
                                        bon
+
 
 
 

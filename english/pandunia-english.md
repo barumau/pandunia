@@ -1,4 +1,3 @@
-a : ah!  
 ##a  
 abit : live (reside, inhabit)  
 adres : address  
@@ -50,6 +49,7 @@ avar : damage (wreck)
 aventur : adventure  
 ax : argh!  
 ayiti : Haiti  
+a : ah!  
 ##b  
 baca : language  
 baca logi : linguistics  
@@ -118,6 +118,8 @@ bite : ask (request; please)
 bite lai in! : Come in!  
 bizar : weird (strange)  
 bizi : busy (occupied)  
+biznes : business (commercial activity)  
+biznes jen : businessperson (businessman)  
 blu : blue  
 bobo : fool (idiot)  
 boi : boy  
@@ -157,6 +159,7 @@ cam : evening
 cam den : afternoon  
 cam salam : Good evening  
 cam yem : dinner  
+caman : shaman  
 camba : field (countryside)  
 campion : champion  
 can : mountain (hill)  
@@ -221,8 +224,8 @@ deng : wait
 des : ten (10)  
 desen : drawing (picture)  
 detal : detail  
-dewa : god  
-dewa logi : theology  
+dev : god  
+dev logi : theology  
 deya : village  
 din : religion  
 din guru : priest (cleric)  
@@ -263,7 +266,6 @@ duman : smoke
 duna : dune  
 dunia : world  
 dur : last (take time)  
-e : be  
 ##e  
 eglis : church  
 ekran : screen  
@@ -282,6 +284,7 @@ euro : euro
 europa : Europe  
 europa uni : European Union (EU)  
 exo : echo  
+e : be  
 ##f  
 fai : fire  
 faida : use (utility, benefit)  
@@ -326,6 +329,7 @@ fu : bah! (yuck!)
 fubu : belly (abdomen)  
 fuk : clothing  
 fung : wind  
+funsi : function (to work)  
 futur : future  
 ##g  
 gabar : grave (tomb)  
@@ -391,6 +395,7 @@ haide : let's
 hak : right (justification, privilege)  
 hakim : judgment (sentence)  
 hakim guru : judge (referee)  
+hal : state (condition, situation, status)  
 halo : hello (hi)  
 hamak : hammock  
 hamar : hammer  
@@ -424,7 +429,6 @@ huli : fox
 humus : chickpea  
 humus sos : hummus  
 hura : hooray (cheer)  
-i : and  
 ##i  
 ibri : Hebrew  
 idea : idea  
@@ -447,11 +451,11 @@ it : brick
 italia : Italy  
 itiopia : Ethiopia  
 izi : easy  
+i : and  
 ##j  
 ja : already (done)  
 jadi : if (suppose, assume)  
 jaket : jacket  
-jan : know  
 janela : window  
 janu : knee  
 jele : gel (jelly)  
@@ -548,7 +552,6 @@ klar : clear (not obscured)
 klas : class (category)  
 klub : club  
 kod : code (cipher)  
-koi : some  
 kok : chicken  
 koko : coco  
 kolombia : Colombia  
@@ -826,7 +829,6 @@ numer : number
 numer un : first (number one)  
 nun : now  
 nuton : newton (N)  
-o : oh!  
 ##o  
 okei : okay (acceptable)  
 oksi : oxygen  
@@ -837,6 +839,7 @@ or : ear
 ordu : horde (wandering troop)  
 orgazme : orgasm  
 oskur : dark (dim)  
+o : oh!  
 ##p  
 paban : board (plank)  
 pagri : turban  
@@ -861,7 +864,8 @@ papaya : papaya
 paper : paper  
 paraguay : Paraguay  
 parda : curtain  
-pasa : happen (occur)  
+pas : pass (go by, go past)  
+pasa : pass (transfer, hand over)  
 paskal : pascal  
 pat : path  
 paunde : pound (£)  
@@ -876,6 +880,7 @@ penta : paint
 pera : pear  
 perfet : perfect  
 peri : fairy  
+permis : allow (permit)  
 peru : Peru  
 pesa : money  
 piano : piano  
@@ -976,7 +981,6 @@ sa : this or that
 sa djin : this (this over here)  
 sa far : that (that over there)  
 sabat : Sabbath  
-sabi : know how  
 sabun : soap  
 sabur : patient (composed)  
 sade : plain (simple)  
@@ -995,6 +999,7 @@ sanduk : box (chest)
 sang : blood  
 sani : sleigh (sledge)  
 sant : holy (sacred)  
+sap : know  
 sapat : shoe  
 sar : head  
 sar gut : skull  
@@ -1167,7 +1172,6 @@ tunis : Tunisia
 tur : tour (trip)  
 turkia : Turkey  
 tuzi : rabbit (hare)  
-u : or  
 ##u  
 udas : sad  
 ukrayina : Ukraine  
@@ -1182,6 +1186,7 @@ uranium : uranium
 urdun : Jordan  
 uruguai : Uruguay  
 usa : USA  
+u : or  
 ##v  
 vaksin : vaccine  
 vale : valley  
@@ -1275,6 +1280,9 @@ yen sui : tear drop
 yep : leaf  
 yer : yesterday  
 yesu : Jesus  
+yo : some  
+yo jen : someone (somebody)  
+yo ting : something  
 yod : iodine  
 yoga : yoga  
 yoni : vagina  

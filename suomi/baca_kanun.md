@@ -19,7 +19,7 @@ Perussäännöt
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
     - esim. **mi cing ti dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Osaatko sinä panduniaa?
+    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Osaatko sinä panduniaa?
     - **mi bite ti loga tez.** →  **bite loga tez.** = Pyydän, puhu kovempaa.
 
 
@@ -84,7 +84,7 @@ Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 Laatusanoilla voi myös määrittää teonsanaa eli ne toimivat myös adverbin tavoin.
 
 > **mi _bon_ son.** - Minä nukun _hyvin_.  
-> **ti _bon_ sabi pandunia.** - Sinä osaat panduniaa _hyvin_.
+> **ti _bon_ baca pandunia.** - Sinä puhut panduniaa _hyvin_.
 
 
 Lukusanat

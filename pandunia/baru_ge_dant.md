@@ -3,7 +3,7 @@ baru ban ge dant tung
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un suba baru mama vol go do bazar. ta loga do baru ban: "mat yem kandi i kek na dura de mi na bazar." baru ban loga: "ye, ye, mama! mi jan ta. mi dai baru. bite go wai!" baru mama loga "salam" i ta go wai.
+un suba baru mama vol go do bazar. ta loga do baru ban: "mat yem kandi i kek na dura de mi na bazar." baru ban loga: "ye, ye, mama! mi sap ta. mi dai baru. bite go wai!" baru mama loga "salam" i ta go wai.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
@@ -31,7 +31,7 @@ baru ban yem tot medu.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, baru ban senti no jan ge ting na boka. ta ge dant tung!
+bada, baru ban senti no sap ge ting na boka. ta ge dant tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 

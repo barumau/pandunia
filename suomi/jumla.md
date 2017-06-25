@@ -212,15 +212,15 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 
 
-### jan <small>tietää, tuntea</small>
+### sap <small>tietää, tuntea</small>
 
-**mi jan ta.** Minä tunnen hänet.
+**mi sap ta.** Minä tunnen hänet.
 
-**kia ti jan sa jen?** Tunnetko tuon henkilön?
+**kia ti sap sa jen?** Tunnetko tuon henkilön?
 
-**kia timen jan alise?** Tunnetteko toisenne?
+**kia timen sap alise?** Tunnetteko toisenne?
 
-**mimen jan alise ze long.** Tunnemme toisemme jo vanhastaan.
+**mimen sap alise ze long.** Tunnemme toisemme jo vanhastaan.
 
 
 
@@ -372,23 +372,23 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 
 
-### sabi <small>osata</small>
+### ken <small>osata</small>
 
-**mi sabi gida gar.** Osaan ajaa autolla.
+**mi ken gida gar.** Osaan ajaa autolla.
 
-**ta no sabi tcala gar.** Hän ei osaa ajaa autolla.
+**ta no ken gida gar.** Hän ei osaa ajaa autolla.
 
-**kia ti sabi culi ta?** Osaatko korjata sen?
+**kia ti ken culi ta?** Osaatko korjata sen?
 
-**kia ti sabi pandunia?** Osaatko panduniaa?
+**kia ti ken pandunia?** Osaatko panduniaa?
 
-**mi sabi pandunia.** Minä osaan panduniaa.
+**mi ken pandunia.** Minä osaan panduniaa.
 
-**mi sabi cau pandunia.** Minä osaan vähän panduniaa.
+**mi ken cau pandunia.** Minä osaan vähän panduniaa.
 
-**mi no sabi englic.** Minä en osaa englantia.
+**mi no ken englic.** Minä en osaa englantia.
 
-**maf. mi no sabi ti ge baca.** Anteeksi, en osaa sinun kieltäsi.
+**maf. mi no ken ti ge baca.** Anteeksi, en osaa sinun kieltäsi.
 
 
 
@@ -453,7 +453,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mimen baca pandunia.** Me puhumme panduniaa.
 
-**kia ti sabi baca englic?** Osaatko puhua englantia?
+**kia ti ken baca englic?** Osaatko puhua englantia?
 
 **frans, espanya, portugal, ruski** Ranskaa, espanjaa, portugalia, venäjää
 
@@ -537,13 +537,13 @@ Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapall
 **gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>  
 **ha** olla, omistaa <small>(portugali _há_)</small>  
 **i** ja <small>(Polish _i_)</small>  
-**jan** tietää, tuntea <small>(hindi _jānnā_ जानना)</small>  
 **jen** henkilö <small>(yleiskiina _rén_ 人)</small>  
 **kafe** kahvi <small>(saksa _Kaffee_)</small>  
 **kara** musta <small>(turkki _kara_)</small>  
 **kat** leikata, katkaista <small>(hindi ‎_kāṭnā_ काटना)</small>  
 **kata** kertoa; tarina <small>(japani _kataru_ 語る)</small>  
 **ke** mikä? kuka? <small>(espanja _qué_)</small>  
+**ken** voida, osata <small>(englanti _can_)</small>  
 **ketci** kohtelias <small>(yleiskiina _kèqi_ 客气)</small>  
 **kia** kysyä; kysymys <small>(hindi _kyā_ क्या)</small>  
 **lai** tulla <small>(vietnami _lai_)</small>  
@@ -561,9 +561,9 @@ Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapall
 **papa** isä <small>(venäjä _papa_ папа)</small>  
 **pingo** omena <small>(yleiskiina _píngguǒ_ 苹果)</small>  
 **sa** tämä, tuo <small>(Haitin kreoli _sa_)</small>  
-**sabi** osata <small>(Nigerian pidžin _sabi_)</small>  
 **safar** matkustaa; matka <small>(arabia _safar_ سفر)</small>  
 **salam** tervehtiä; terve <small>(arabia _salām_ سلام)</small>  
+**sap** tietää, tuntea <small>(Thai _saap_ ทราบ)</small>  
 **suba** aamu <small>(wolof _subba_)</small>  
 **tca** tee <small>(yleiskiina _chá_ 茶)</small>  
 **ti** siinä <small>(venäjä _ty_ ты)</small> 

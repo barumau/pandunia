@@ -187,15 +187,15 @@
 
 
 
-### jan <small>scii, koni</small>
+### sap <small>scii, koni</small>
 
-**mi jan ta.** Mi konas lin/ŝin.
+**mi sap ta.** Mi konas lin/ŝin.
 
-**kia ti jan sa ren?** Ĉu vi konas tiun personon?
+**kia ti sap sa ren?** Ĉu vi konas tiun personon?
 
-**kia timen jan alise?** Ĉu vi konas unu la alian?
+**kia timen sap alise?** Ĉu vi konas unu la alian?
 
-**mimen jan alise ze long.** Ni konas unu la alian longe.
+**mimen sap alise ze long.** Ni konas unu la alian longe.
 
 
 
@@ -349,23 +349,23 @@
 
 
 
-### sabi <small>povi, scipovi</small>
+### ken <small>povi</small>
 
-**mi sabi gida gar.** Mi scipovas konduki aŭton.
+**mi ken gida gar.** Mi povas konduki aŭton.
 
-**ta no sabi cala gar.** Ŝi/li ne scipovas konduki aŭton.
+**ta no ken cala gar.** Ŝi/li ne povas konduki aŭton.
 
-**kia ti sabi culi ta?** Ĉu vi scipovas ripari ĝin?
+**kia ti ken culi ta?** Ĉu vi povas ripari ĝin?
 
-**kia ti sabi pandunia?** Ĉu vi povas paroli pandunion?
+**kia ti ken pandunia?** Ĉu vi povas paroli pandunion?
 
-**mi sabi pandunia.** Mi scipovas pandunion.
+**mi ken pandunia.** Mi povas pandunion.
 
-**mi sabi cau pandunia.** Mi scipovas ete pandunion.
+**mi ken cau pandunia.** Mi povas ete pandunion.
 
-**mi no sabi englic.** Mi ne povas paroli la anglan.
+**mi no ken englic.** Mi ne povas paroli la anglan.
 
-**maf. mi no sabi ti ge baca.** Pardonon, mi ne povas paroli vian lingvon.
+**maf. mi no ken ti ge baca.** Pardonon, mi ne povas paroli vian lingvon.
 
 
 
@@ -430,7 +430,7 @@
 
 **mimen baca pandunia.** Ni parolas pandunion.
 
-**kia ti sabi baca englic?** Ĉu vi povas paroli la anglan?
+**kia ti ken baca englic?** Ĉu vi povas paroli la anglan?
 
 **frans, espanya, portugal, ruski** la franca, la hispana, la portugala, la rusa
 
@@ -514,13 +514,13 @@ All words of Pandunia are loan words from other languages that are spoken around
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
 **ha** havi <small>(portugala _há_)</small>  
 **i** kaj <small>(pola _i_)</small>  
-**jan** scii <small>(hindia _jānnā_ जानना)</small>  
 **jen** persono <small>(mandarencxina _rén_ 人)</small>  
 **kafe** kafo <small>(germana _Kaffee_)</small>  
 **kara** nigra <small>(turka _kara_)</small>  
 **kat** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
 **kata** rakonti <small>(japana _kataru_ 語る)</small>  
 **ke** kio? kiu? <small>(hispana _qué_)</small>  
+**ken** scipovi <small>(angla _can_)</small>  
 **ketci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
 **kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>  
 **lai** veni <small>(vjetnama _lai_)</small>  
@@ -538,9 +538,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **papa** patro <small>(rusa _papa_ папа)</small>  
 **pingo** pomo <small>(mandarenĉina _píngguǒ_ 苹果)</small>  
 **sa** tiu <small>(haitia _sa_)</small>  
-**sabi** scipovi <small>(niĝeria piĝino _sabi_)</small>  
 **safar** vojaĝi <small>(araba _safar_ سفر)</small>  
 **salam** saluti <small>(araba _salām_ سلام)</small>  
+**sap** scii <small>(tajlanda _saap_ ทราบ)</small>  
 **suba** mateno <small>(ŭolofa _subba_)</small>  
 **tca** teo <small>(mandarenĉina _chá_ 茶)</small>  
 **ti** vi (singulare) <small>(rusa _ty_ ты)</small>  

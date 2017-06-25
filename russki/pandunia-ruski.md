@@ -202,8 +202,8 @@ den yem : обед
 des : десять (10)  
 desen : рисунок  
 detal : подробно  
-dewa : Бог  
-dewa logi : теология  
+dev : Бог  
+dev logi : теология  
 deya : деревня  
 din : религия  
 din guru : священник  
@@ -298,6 +298,7 @@ fu : бах! (Тьфу!)
 fubu : живот  
 fuk : одежда  
 fung : ветер  
+funsi : функция  
 futur : будущее  
 ##g  
 gabar : могила (гробница)  
@@ -399,7 +400,6 @@ itiopia : Эфиопия
 i : и  
 ##j  
 ja : уже (в прошлом)  
-jan : знать  
 janela : окно  
 janu : колено  
 jele : Гель (желе)  
@@ -475,7 +475,6 @@ kiwi : киви
 klas : класс (категория)  
 klub : клуб  
 kod : Код (шифр)  
-koi : некоторые  
 kok : курица  
 koko : кокос  
 kolombia : Колумбия  
@@ -828,6 +827,7 @@ sanduk : сундук
 sang : кровь  
 sani : сани  
 sant : священный  
+sap : знать  
 sapat : башмак  
 sar : глава  
 sar gut : череп  
@@ -1051,6 +1051,7 @@ yen sui : слеза
 yep : лист  
 yer : вчера  
 yesu : Иисус  
+yo : некоторые  
 yod : йод  
 yoga : йога  
 yumor : юмор  

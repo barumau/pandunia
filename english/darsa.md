@@ -234,7 +234,7 @@ Yes or no questions
 ☻: **salam! kia ti yem kafe u tca?** = Hello! Would you like to have coffee or tea?  
 ☺: **tca.** = Tea.  
 ☻: **i ti?** = And you?  
-○: **mi no sabi pandunia...** = I don't speak Pandunia...  
+○: **mi no baca pandunia...** = I don't speak Pandunia...  
 ☻: **maf! kia ta yem tca?** = Pardon! Will he have tea?  
 ☺: **no. ta no yem tca. ta yem kafe.** = No, he won't. He would like to have coffee.  
 ☻: **kia ti yem sup?** = Would you like to have soup?  
@@ -263,7 +263,7 @@ Of course common and proper nouns can also be used.
 
 > **kia cef se yem kafe?** = Does the chief drink coffee?  
 <!-- > **kia papa ye saf kamar?** = Does the father clean the room?  -->
-> **kia niki se sabi pandunia?** = Does Nicky know Pandunia?
+> **kia niki se baca pandunia?** = Does Nicky speak Pandunia?
 
 
 ### Giving answers
@@ -303,13 +303,13 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **sabi** to know how. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
+**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **baca** speak; language. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
 
 
 ### Answers to the Exercises
 
-1. kia ti sabi pandunia?
-2. ye. mi sabi pandunia.
+1. kia ti baca pandunia?
+2. ye. mi baca pandunia.
 3. kia mama yem kafe?
 4. no. ta no yem kafe.
 5. kia ta yem sup?

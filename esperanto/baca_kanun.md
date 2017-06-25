@@ -24,7 +24,7 @@ Bazaj reguloj
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
     - ekz. **mi bite ti dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **mi kia ti sabi pandunia?** → **kia ti sabi pandunia?** = Ĉu vi parolas Pandunian?
+    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Ĉu vi parolas Pandunian?
     - **mi bite ti loga tez.** →  **bite loga tez.** = Bonvolu paroli laŭte.
 
 

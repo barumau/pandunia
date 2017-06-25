@@ -119,6 +119,8 @@ bite : pyytää (anoa)
 bite lai in! : Tule sisään!  
 bizar : outo (kummallinen)  
 bizi : kiireinen  
+biznes : liiketoiminta (bisnes)  
+biznes jen : liikemies  
 blu : sininen  
 bobo : hölmö  
 boi : poika  
@@ -158,6 +160,7 @@ cam : ilta
 cam den : iltapäivä  
 cam salam : Hyvää iltaa!  
 cam yem : päivällinen (iltaruoka)  
+caman : šamaani  
 camba : pelto (maaseutu)  
 campion : mestari (voittaja)  
 can : vuori (kukkula)  
@@ -222,8 +225,8 @@ deng : odottaa
 des : kymmenen (10)  
 desen : piirtää (piirustus)  
 detal : yksityiskohta (detalji)  
-dewa : jumala  
-dewa logi : teologia  
+dev : jumala  
+dev logi : teologia  
 deya : kylä  
 din : uskoa (uskonto)  
 din guru : pappi  
@@ -327,6 +330,7 @@ fu : hyi!
 fubu : maha (vatsa)  
 fuk : vaate (pukea)  
 fung : tuuli (tuulla)  
+funsi : toimia  
 futur : tuleva (tulevaisuus)  
 ##g  
 gabar : hauta  
@@ -392,6 +396,7 @@ haide : tehkäämme
 hak : oikeus (etuoikeus)  
 hakim : tuomita (tuomio)  
 hakim guru : tuomari  
+hal : tila (tilanne)  
 halo : haloo (hei)  
 hamak : riippumatto  
 hamar : vasar  
@@ -452,7 +457,6 @@ i : ja
 ja : jo (aiemmin)  
 jadi : jos  
 jaket : jakku  
-jan : tietää (tuntea)  
 janela : ikkuna  
 janu : polvi  
 jele : hyytelö (geeli)  
@@ -549,7 +553,6 @@ klar : selkeä (selvä)
 klas : luokka (kategoria)  
 klub : kerho (klubi)  
 kod : koodi  
-koi : jokin (joku)  
 kok : kana  
 koko : kookos  
 kolombia : Kolumbia  
@@ -862,7 +865,8 @@ papaya : papaija
 paper : paperi  
 paraguay : Paraguai  
 parda : verho  
-pasa : tapahtua  
+pas : ohi (ohittaa)  
+pasa : siirtää (syöttää)  
 paskal : pascal  
 pat : polku  
 paunde : punta  
@@ -877,6 +881,7 @@ penta : maalata
 pera : päärynä  
 perfet : täydellinen  
 peri : keiju  
+permis : luvata (lupa)  
 peru : Peru  
 pesa : raha  
 piano : piano  
@@ -977,7 +982,6 @@ sa : tämä tai tuo
 sa djin : tämä tässä  
 sa far : tuo tuolla  
 sabat : sapatti  
-sabi : osata (taitaa)  
 sabun : saippua  
 sabur : kärsivällinen  
 sade : yksinkertainen  
@@ -996,6 +1000,7 @@ sanduk : laatikko
 sang : veri  
 sani : reki  
 sant : pyhä  
+sap : tietää (tuntea, osata)  
 sapat : kenkä  
 sar : pää  
 sar gut : pääkallo  
@@ -1276,6 +1281,9 @@ yen sui : kyynel
 yep : lehti  
 yer : eilen  
 yesu : Jeesus  
+yo : jokin (joku)  
+yo jen : joku  
+yo ting : jokin  
 yod : jodi  
 yoga : jooga  
 yoni : vagina  

@@ -201,15 +201,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### jan <small>to know</small>
+### sap <small>to know</small>
 
-**mi jan ta.** I know him/her.
+**mi sap ta.** I know him/her.
 
-**kia ti jan sa jen?** Do you know that person?
+**kia ti sap sa jen?** Do you know that person?
 
-**kia timen jan alise?** Do you know each other?
+**kia timen sap alise?** Do you know each other?
 
-**mimen jan alise ze long.** We know each other for long.
+**mimen sap alise ze long.** We know each other for long.
 
 
 
@@ -361,23 +361,23 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### sabi <small>know how</small>
+### ken <small>can</small>
 
-**mi sabi gida gar.** I can drive a car.
+**mi ken gida gar.** I can drive a car.
 
-**ta no sabi tcala gar.** S/he doesn't know how to drive a car.
+**ta no ken gida gar.** S/he doesn't know how to drive a car.
 
-**kia ti sabi culi ta?** Do you know how to fix it?
+**kia ti ken culi ta?** Do you know how to fix it?
 
-**kia ti sabi pandunia?** Do you speak Pandunia?
+**kia ti ken pandunia?** Do you speak Pandunia?
 
-**mi sabi pandunia.** I speak Pandunia.
+**mi ken pandunia.** I speak Pandunia.
 
-**mi sabi cau pandunia.** I speak a little Pandunia.
+**mi ken cau pandunia.** I speak a little Pandunia.
 
-**mi no sabi englic.** I don't speak English.
+**mi no ken englic.** I don't speak English.
 
-**maf. mi no sabi ti ge baca.** Sorry, I don't speak your language.
+**maf. mi no ken ti ge baca.** Sorry, I don't speak your language.
 
 
 
@@ -442,7 +442,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mimen baca pandunia.** We speak in Pandunia.
 
-**kia ti sabi baca englic?** Can you speak English?
+**kia ti ken baca englic?** Can you speak English?
 
 **frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
@@ -671,13 +671,13 @@ All words of Pandunia are loan words from other languages that are spoken around
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
 **ha** have; there is <small>(Portuguese _há_)</small>  
 **i** and <small>(Polish _i_)</small>  
-**jan** know; knowledge <small>(Hindi _jānnā_ जानना)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kara** black <small>(Turkish _kara_)</small>  
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
+**ken** can <small>(English _can_)</small>  
 **ketci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **lai** come <small>(Vietnamese _lai_)</small>  
@@ -695,9 +695,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **papa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
-**sabi** know how <small>(Nigerian Pidgin _sabi_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>  
+**sap** know <small>(Thai _saap_ ทราบ)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tca** tea <small>(Mandarin _chá_ 茶)</small>  
 **ti** you <small>(Russian _ty_ ты)</small>  
