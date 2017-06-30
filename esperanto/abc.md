@@ -26,8 +26,7 @@ Akcento
 
 La akcento estas sur la vokalo antaŭ la lasta konsonanto. 
 
-1. Se vorto havas nur unu silabon, ĝi estas forta.
-2. Se multasilaba vorto finiĝas per konsonanto, la lasta silabo estas la forta.
-3. Se multasilaba vorto finiĝas per vokalo, la antaŭlasta silabo estas la forta.
-4. Sufiksojn ne ŝanĝas la lokon de akcento.
+1. Se la vorto finas je konsonanto: akcento je la lasta silabo.
+2. Se la vorto finas je vokalo: akcento je la antaŭlasta silabo.
+
 
