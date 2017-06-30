@@ -1,8 +1,12 @@
 # pandunia
 [gimmick:theme](readable)
 
+[Etusivu](index.md)
+
 [Äänteet](abc.md)
+
 [Sana sanalta](jumla.md)
+
 [Kielioppi](baca_kanun.md)
 
 [Sanasto]()
