@@ -57,7 +57,8 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **belize** : Belize  
 **bolivia** : Bolivia  
 **brazil** : Brazil  
-**dominica** : Dominican Republic  
+**dominika** : Dominica  
+**dominikan republik** : Dominican Republic  
 **ekuador** : Ecuador  
 **gayana** : Guyana  
 **guatemala** : Guatemala  
@@ -84,7 +85,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **bama** : Myanmar (Burma)  
 **bangla** : Bangladesh (Bengal)  
 **barat** : India  
-**djungo** : China  
+**djungok** : China  
 **hanguk** : South Korea  
 **indonesia** : Indonesia  
 **irak** : Iraq  
@@ -116,7 +117,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **bolgaria** : Bulgaria  
 **britan** : Britain (UK)  
 **danmark** : Denmark  
-**doitc** : German  
+**doitc** : Germany  
 **espanya** : Spain  
 **esti** : Estonia  
 **frans** : France  

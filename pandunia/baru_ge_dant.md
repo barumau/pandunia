@@ -15,7 +15,7 @@ baru ban go do wac kamar. ta pensa "mi no vol wac dant nun." baru ban e bad.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-baru ban joga lit gar na tot kamar. ta vide kek sanduk na meza. ta pensa "mi vol yem kek!" ama ta memori: "ax! mama mat mi yem kek." baru ban no yem kek.
+baru ban joga lit gar na mei kamar. ta vide kek sanduk na meza. ta pensa "mi vol yem kek!" ama ta memori: "ax! mama mat mi yem kek." baru ban no yem kek.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
@@ -71,7 +71,7 @@ dant lai do wai!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-doktor loga do baru ban: "bur dant na wai nun. bite memori yung dant broc na tot suba i na tot cam!" baru ban wada memori.
+doktor loga do baru ban: "bur dant na wai nun. bite memori yung dant broc na mei suba i na mei cam!" baru ban wada memori.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
 
@@ -79,7 +79,7 @@ baru ban loga: "danke doktor i waf i mau i licu!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 
-baru ban wac dant bi dant broc tot suba i tot cam.
+baru ban wac dant bi dant broc mei suba i mei cam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 

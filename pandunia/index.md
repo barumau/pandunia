@@ -5,10 +5,6 @@ pandunia - dunia baca
 
 salam dunia!
 
-pandunia e inter nasia ge nov baca. pandunia ge loga lai ze dunia ge tot fen: afrika, amerika, asia, europa – ze koz de dunia baca mus wakil tot dunia!
+pandunia e inter nasia ge nov baca. pandunia ge loga lai ze dunia ge mei fen: afrika, amerika, asia, europa – ze koz de dunia baca mus wakil tot dunia!
 
-kia ti sabi pandunia ja?
-
----
-
-[mini darsa](mini_darse.html)
+kia ti sap pandunia ja? se ken darsa pandunia bi [mini darsa](mini_darse.html).

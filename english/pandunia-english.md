@@ -119,6 +119,7 @@ bir : beer
 bis : kiss  
 biskut : biscuit (cookie)  
 bite : ask (request; please)  
+bite lai : invite  
 bite lai in! : Come in!  
 bizar : weird (strange)  
 bizi : busy (occupied)  
@@ -249,7 +250,7 @@ djin : near (close)
 djong : species  
 djuca : inject  
 djudo : judo  
-djungo : China  
+djungok : China  
 do : to (till, until)  
 doc : fault (guilt)  
 doitc : German  
@@ -362,6 +363,7 @@ gaun : dress
 gayana : Guyana  
 gaze : gauze  
 gazel : gazelle  
+gazet : magazine (journal, gazette)  
 ge : own (particle of possession)  
 gem : game  
 gen : root  
@@ -430,6 +432,7 @@ hindu : Hindu
 hisab : calculation (arithmetic, computation)  
 histori : history  
 hobi : hobby  
+hoki : hockey  
 hon : hundred  
 honduras : Honduras  
 hor : hour  
@@ -454,6 +457,7 @@ indonesia : Indonesia
 informa : inform (communicate)  
 ingai : should (ought)  
 inspira : inspire (inspiration)  
+inter : between  
 interes : interest (interesting)  
 intervu : interview  
 irak : Iraq  
@@ -709,6 +713,7 @@ marka : mark (trace)
 marmar : marble  
 marsi : Mars  
 mas : more  
+mas ka bas : too much  
 masa : mass (lump)  
 masaj : massage  
 masala : issue  
@@ -727,6 +732,7 @@ medi : mean (medium)
 medit : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
+megam : cloud  
 mei : every (each)  
 mei ce : everything  
 mei jen : everybody (everyone)  
@@ -765,6 +771,7 @@ mili : milli-
 milke : milk  
 mimen : we  
 min : less  
+min ka bas : too little  
 minara : tower  
 ming : bright (radiant)  
 minim : least (minimally)  
@@ -853,6 +860,7 @@ norge : Norway
 normal : norm (standard)  
 nos : nose  
 not : notice (observe)  
+not buk : notebook  
 notce : night  
 nov : new  
 nud : naked (bare)  
@@ -883,7 +891,7 @@ pak : pack (package)
 paket : packet  
 paki : bird  
 pakistan : Pakistan  
-pal : fruit  
+pal : fruit (result, outcome)  
 palma : palm tree  
 palo : pole (stake)  
 pan : bread  
@@ -962,6 +970,7 @@ pratik : practical
 presis : precise (exact, accurate)  
 proba : try (attempt)  
 problem : problem  
+profesor : professor  
 program : program  
 projet : project (planned endeavour)  
 proses : process (procedure)  
@@ -1126,7 +1135,6 @@ tabar : axe (hatchet)
 tabia : nature (environment)  
 tabul : table (matrix)  
 tai : Thai (Thailand)  
-tai : too (too much)  
 taiga : taiga  
 taksi : taxi  
 taktik : tactics (strategy)  
@@ -1294,7 +1302,7 @@ win : win (victory)
 wing : wing  
 ##x  
 xabar : news  
-xabar paper : newspaper  
+xabar gazet : newspaper (gazette)  
 xali : empty  
 xalif : caliph  
 xan : monarch (king, queen)  
