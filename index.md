@@ -12,6 +12,10 @@
 
 ![](http://pandunia.info/kuvat/ru.png) [Изучаем язык Пандуния на русском](russki/index.md)
 
+![](http://pandunia.info/kuvat/jp.png)[パンズニヤ語を日本語で学ぶ](nipon/index.md)
+
+![](http://pandunia.info/kuvat/id.png) ![](http://pandunia.info/kuvat/my.png) [Belajar bahasa Pandunia dalam bahasa Melayu/Indonesia](malayu/index.md)
+
 ![](http://pandunia.info/kuvat/eo.gif) [Lernu pandunion esperante](esperanto/index.md)
 
 ![](http://pandunia.info/kuvat/fi.png) [Tutustu panduniaan suomeksi](suomi/index.md)
