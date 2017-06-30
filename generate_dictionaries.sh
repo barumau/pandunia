@@ -10,8 +10,9 @@ awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | 
 sed 's/_//g' -i english/english-pandunia.md
 sed 's/$/  /' -i english/english-pandunia.md
 #Tiddly dictionary
-sed 's/_//g' -i english/tiddly_2.txt
-cat temp/tiddly_1.html english/tiddly_2.txt temp/tiddly_3.html > english/tiddly.html
+cp english/tiddly_2.txt temp/temp.txt
+sed 's/_//g' -i temp/temp.txt
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
 
 # ze pandunia do suomi
 cat suomi/sanasto.txt temp/alfahead.txt > temp/temp.txt
@@ -36,3 +37,14 @@ cp russki/slovar.txt temp/temp.txt
 awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' > russki/ruski-pandunia.md
 sed 's/_//g' -i russki/ruski-pandunia.md
 sed 's/$/  /' -i russki/ruski-pandunia.md
+
+# ze pandunia do esperanto
+cat esperanto/vortaro.txt temp/alfahead.txt > temp/temp.txt
+sed 's/	/ : /g' temp/temp.txt | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/pandunia-esperanto.md
+sed 's/_//g' -i esperanto/pandunia-esperanto.md
+sed 's/$/  /' -i esperanto/pandunia-esperanto.md
+# ze esperanto do pandunia
+cat esperanto/vortaro.txt temp/alfahead.txt > temp/temp.txt
+awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/esperanto-pandunia.md
+sed 's/_//g' -i esperanto/esperanto-pandunia.md
+sed 's/$/  /' -i esperanto/esperanto-pandunia.md
