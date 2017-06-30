@@ -43,23 +43,24 @@ Asiansanat
 
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
-> **meza** - pöytä tai pöytiä
-> **kursi** - tuoli tai tuoleja
-> **hima** - lunta
+> **batu** - kivi tai kiviä  
+> **meza** - pöytä tai pöytiä  
+> **kursi** - tuoli tai tuoleja  
+> **hima** - lunta  
 
 Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **surya guang** - auringon valo
-> **luna guang** - kuun valo
-> **luna batu** - kuukivi
+> **surya guang** - auringon valo  
+> **luna guang** - kuun valo  
+> **luna batu** - kuukivi  
 
 Asiansanan sanominen kahdesti on helppo tapa korostaa sen monikollisuutta.
 
-> **batu batu** - paljon kiviä
-> **tara tara** - paljon tähtiä
-> **hima hima** - paljon lunta
+> **batu batu** - paljon kiviä  
+> **tara tara** - paljon tähtiä  
+> **hima hima** - paljon lunta  
 
 Laatusanat
 ----------
@@ -107,7 +108,7 @@ Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan per�
 
 > **fen un.** - Ensimmäinen osa.
 > **fen du.** - Toinen osa.
-> **fen san.** - Kolmas osa.
+> **fen sam.** - Kolmas osa.
 
 Perusluvut ovat:
 
@@ -377,6 +378,8 @@ Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii 
 Prepositiot
 -----------
 
+### Ajan ja paikan prepositiot
+
 Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 1. **na** - paikka tai ajanhetki yleensä: -ssa, -lla, luona
@@ -385,35 +388,35 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
-> **mi lai dom.** - Minä tulen kotiin.
-> **ti sit kursi.** - Sinä istut sohvaa (sohvalla).
-> **ta lala sofa.** - Hän makaa sohvaa (sohvalla).
-> **matci nata daria.** - Kalat uivat vettä (vedessä).
-> **janger marxa dau.** - Soturit kävelevät tietä (tiellä).
+> **mi lai dom.** - Minä tulen kotiin.  
+> **ti sit kursi.** - Sinä istut sohvaa (sohvalla).  
+> **ta lala sofa.** - Hän makaa sohvaa (sohvalla).  
+> **matci nata daria.** - Kalat uivat vettä (vedessä).  
+> **djang nik marce dau.** - Soturit kävelevät tietä (tiellä).  
 
 Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini tai substantiivi täydentää preposition.
 
-> **mi na hotel.** - Minä (olen) hotellissa.
-> **mi son na hotel.** - Minä nukun hotellissa.
-> **mi son ze cam do suba.** - Minä nukun illasta aamuun.
-> **mi safar ze london do paris.** - Minä matkustan Lontoosta Pariisiin.
+> **mi na hotel.** - Minä (olen) hotellissa.  
+> **mi son na hotel.** - Minä nukun hotellissa.  
+> **mi son ze cam do suba.** - Minä nukun illasta aamuun.  
+> **mi safar ze london do paris.** - Minä matkustan Lontoosta Pariisiin.  
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
 
-> **mi deng ze ti go.** - Minä odotan sinun lähdöstä lähtien.
-> **mi deng do ti lai dom.** - Minä odotan siihen asti, kun tulet kotiin.
-> **mi deng na ti son.** - Minä odotan kun sinä nukut.
+> **mi deng ze ti go.** - Minä odotan sinun lähdöstä lähtien.  
+> **mi deng do ti lai dom.** - Minä odotan siihen asti, kun tulet kotiin.  
+> **mi deng na ti son.** - Minä odotan kun sinä nukut.  
 
 Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _prepositio + ajan tai paikan sana + **de**_.
 
-> **na dur de** - aikana, kestäessä
-> **mi denga na dur de ti sona.** - Minä odotan sillä aikaa kun sinä nukut.
-> **na lok de** - paikassa
-> **mi deng na lok de ti toka.** - Minä odotan siinä paikassa mistä sinä lähdit.
-> **na cia de** - alapuolella
-> **un kuta lala na cia de meza.** - Koira makaa pöydän alla.
-> **na men de** - päällä, pinnalla
-> **un mau lala na men de meza.** - Kissa makaa pöydällä.
+> **na dur de** - aikana, kestäessä  
+> **mi deng na dur de ti son.** - Minä odotan sillä aikaa kun sinä nukut.  
+> **na lok de** - paikassa  
+> **mi deng na lok de ti toka.** - Minä odotan siinä paikassa mistä sinä lähdit.  
+> **na cia de** - alapuolella  
+> **un waf lala na cia de meza.** - Koira makaa pöydän alla.  
+> **na men de** - päällä, pinnalla  
+> **un mau lala na men de meza.** - Kissa makaa pöydällä.  
 
 Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **ge** avulla.
 
@@ -421,12 +424,16 @@ Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **ge** avulla
 
 Lisäksi myös verbialkuinen lauseke voi täydentää preposition.
 
-> **dur** - kestää (aikaa)
-> **mi deng na dur ti son.** - Minä odotan sinun nukkumisen aikana.
+> **dur** - kestää (aikaa)  
+> **mi deng na dur ti son.** - Minä odotan sinun nukkumisen aikana.  
+### Tavan prepositiot
 
+...
 
-Tavan partikkelit
-------------------
+Ajan ja tavan partikkelit
+-------------------------
+
+### Tapa
 
 Tavan partikkeleilla puhuja voi ilmaista, miten hän suhtautuu sanomaansa asiaan. Monissa kielissä on jonkinlaisia tavan partikkeleita. Suomen kielessä sellaisia ovat sanat _vain, kai_ ja _toki_.
 
@@ -446,6 +453,9 @@ Huom! Myös laatusanat voivat määrittää sekä seuraavaa sanaa että viimeise
 > **mi kitab buk bon.** - Minä kirjoitan kirjoja hyvin.
 
 Ero on siinä, että tavan partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.
+
+### Aika
+
 
 
 Muuta
@@ -481,20 +491,20 @@ Sanaluokkien arvojärjestys panduniassa:
 
 1. Konjunktiot: i, u
 2. Määrepartikkelit: ge, de
-3. Prepositiot: na, do, ze, bi, koz, por
+3. Prepositiot: na, do, ze, bi
 4. Teonsanat
 5. Asiansanat ja pronominit
 6. Ajan ja tavan partikkelit
 7. Lukusanat
 8. Laatusanat
 
-Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **koz**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **Koz** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
+Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **koz**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **Ze koz de** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
     yusef i sara vol darsa pandunia koz ta e bon dunia baca.
 
-                         koz
+                         ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐

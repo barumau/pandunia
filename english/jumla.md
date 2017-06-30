@@ -134,8 +134,9 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **sa pingo lal.** This apple is red.
 
-Note: When an adjective, like **ruje**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+Note: When an adjective, like **lal**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
+**ta lal.** It's red.
 
 
 ### nam <small>be called, name</small>
@@ -180,13 +181,13 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### ye <small>yes</small>
 
-**kia ti bon?** Are you well?
+**kia ti bon?** Are you well?  
 **ye. mi bon.** Yes, I'm well.
 
-**kia ha doktor?** Is there a doctor?
+**kia ha doktor?** Is there a doctor?  
 **ye. ta e doktor.** Yes. He/she is a doctor.
 
-**kia ha vin?** Do you have wine?
+**kia ha vin?** Do you have wine?  
 **ye. bai i lal.** Yes, white and red.
 
 
@@ -409,7 +410,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### vide <small>to see</small>
 
-**suka vide ti.** Happy to see you!
+**suk vide ti.** Happy to see you!
 
 **vide ti bada!** See you later!
 

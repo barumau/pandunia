@@ -74,9 +74,9 @@ Nouns
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu** - a stone, stones, the stone or the stones
-> **meza** - a table, tables, the table or the tables
-> **kursi** - a chair, chairs, the chair or the chairs
+> **batu** - a stone, stones, the stone or the stones  
+> **meza** - a table, tables, the table or the tables  
+> **kursi** - a chair, chairs, the chair or the chairs  
 > **sui** - water
 
 Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
@@ -114,6 +114,10 @@ Naturally there can be modifiers on both sides of the noun as well.
 
 > **dai meza gau.** - The big table is high.
 
+Modifiers can modify also verbs. Then they function like English adverbs.
+
+> **mi _bon_ son.** - I sleep _well_.  
+> **ti _bon_ baca pandunia.** - You speak Pandunia _well_.
 
 
 Numerals
@@ -234,10 +238,10 @@ The demonstrative pronouns work like modifiers.
 
 --------------------------------------------------------------------------------
 
+Verbs
+------
 
-
-Predicate of state
-------------------
+### Predicate of state
 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective.
 
@@ -264,8 +268,8 @@ To deny something, use the word **no** before **e**.
 > **jovan no e sundar.** - Young is not beautiful.
 
 
-Predicate of action
--------------------
+
+### Predicate of action
 
 In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
 
@@ -293,8 +297,7 @@ Passive can be expressed with help of the verb **bei**.
 
 
 
-Serial verbs
-------------
+### Serial verbs
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
@@ -302,9 +305,9 @@ All action-words (verbs) that come one after another are activated by the subjec
 2. **mi ken go dom.** - I can go home.  
 3. **mi vol ken go dom.** - I want to be able to go home. (Lit. _I want can go home_!)
  
+
  
-Pivot structure
----------------
+### Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
@@ -313,8 +316,8 @@ When the predicate has an object, the object can begin a new predicate. This is 
 In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
 
 
-Pronoun dropping
-----------------
+
+### Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
@@ -324,9 +327,11 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 --------------------------------------------------------------------------------
 
+Particles
+---------
 
-Affirmation and negation
-------------------------
+
+### Affirmation and negation
 
 Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it.
 
@@ -352,12 +357,11 @@ The particles **ye** and **no** are used for answering questions.
 
 
 
-Modifier particles
-------------------
+### Modifier particles
 
 Particles **ge** and **de** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
 
-### Possession
+#### Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
@@ -373,7 +377,7 @@ With regards to possession, **ge** works like apostrophe-s ('s) in English.
 > **bet de mi** - the house of mine  
 > **bet de papa de mi** - the house of the father of mine
 
-### Attribution with adjectives
+#### Attribution with adjectives
 
 Another way to use these particles is to connect an adjective or other words with a noun. It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
@@ -392,7 +396,7 @@ Or in the opposite order:
 > **lab de roza rang** - lips of the color of the rose  
 > **yen de sama rang** - eyes of the color of the sky
 
-### Relative clauses
+#### Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
@@ -411,6 +415,46 @@ If the relative clause is missing a subject but contains an object (i.e. if the 
 
 
 
+### Mood Particles
+
+Mood particles indicate what the speaker thinks about s/he says in relation to the listener. Mood particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
+
+In Pandunia, a mood particle modifies the subsequent word, or the whole sentence, when the mood particle is the last word in the sentence.
+
+The particle **plus** _(also)_ is a good example because it functions much like in English.
+
+> **ta yem bir plus.** - S/he drinks beer, _also_.  
+> **ta yem plus bir.** - S/he drinks _also beer_.  
+> **ta plus yem bir.** - S/he _also drinks_ beer.  
+> **plus ta yem bir.** - _Also s/he_ drinks beer.
+
+Note! Also adjectives can modify the subsequent word or the entire sentence.
+
+> **mi bon kitab buk.** - I write well books.
+> **mi kitab bon buk.** - I write good books.
+> **mi kitab buk bon.** - I write books well.
+
+However, mood particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
+
+
+### Tense and Aspect Particles
+
+In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+
+> **mi ha mau gon.** - I had cats in the past.
+> **ama mi no ha mau nun.** - But I don't have cats now.
+> **munkin mi ha mau futur.** - Maybe I have cats in the future.
+
+Note! Verbs are not conjugated. So the verb **ha** stayed the same in all tenses in the examples above.
+
+Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
+
+
+<!-- There are also countless of other ways to express time. -->
+
+
+--------------------------------------------------------------------------------
+
 Prepositions
 ------------
 
@@ -428,7 +472,7 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 > **ti sit kursi.** - You sit (on) the chair.  
 > **ta lala sofa.** - S/he lies (on) the sofa.  
 > **matci nata daria.** - Fish swim (in) the sea.  
-> **janger marce dau.** - Warriors march (on) the road.  
+> **djang nik marce dau.** - Warriors march (on) the road.  
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
@@ -461,7 +505,7 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dur** - to last, to take time
-> **mi deng na dur ti son.** - _I wait during you sleep._
+> **mi deng na dur de ti son.** - _I wait during you sleep._
 
 
 ### Prepositions of manner
@@ -493,48 +537,6 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 **na tcen** in front. **na pitce** behind.  
 **na cia** under, below. **na gau** over, above.  
 **na djin** near. **na long** far away. **na visin** beside, next to.
-
-
-
-Tense, Aspect and Mood
-----------------------
-
-### Mood
-
-Mood particles indicate what the speaker thinks about s/he says in relation to the listener. Mood particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
-
-In Pandunia, a mood particle modifies the subsequent word, or the whole sentence, when the mood particle is the last word in the sentence.
-
-The particle **plus** _(also)_ is a good example because it functions much like in English.
-
-> **ta yem bir plus.** - S/he drinks beer, _also_.  
-> **ta yem plus bir.** - S/he drinks _also beer_.  
-> **ta plus yem bir.** - S/he _also drinks_ beer.  
-> **plus ta yem bir.** - _Also s/he_ drinks beer.
-
-Note! Also adjectives can modify the subsequent word or the entire sentence.
-
-> **mi bon kitaba buk.** - I write well books.
-> **mi kitaba bon buk.** - I write good books.
-> **mi kitaba buk bon.** - I write books well.
-
-However, mood particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
-
-
-### Tense
-
-In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
-
-> **mi ha mau gon.** - I had cats in the past.
-> **ama mi no ha mau nun.** - But I don't have cats now.
-> **munkin mi ha mau futur.** - Maybe I have cats in the future.
-
-Note! Verbs are not conjugated. So the verb **ha** stayed the same in all tenses in the examples above.
-
-Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
-
-
-<!-- There are also countless of other ways to express time. -->
 
 
 
@@ -571,7 +573,7 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 
 1. Conjunctions: i, u
 2. Connectors: ge, de
-3. Coverbs (prepositions): na, do, ze, bi, koz, por
+3. Coverbs (prepositions): na, do, ze, bi
 4. Verbs
 5. Nouns and pronouns
 6. Tense, aspect and mood particles
@@ -583,7 +585,7 @@ The following example shows how the scope affects the final position of words in
 
     yusef i sara vol darsa pandunia ze koz de ta e bon dunia baca.
 
-                         ze koz de
+                      ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐

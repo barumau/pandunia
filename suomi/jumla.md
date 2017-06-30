@@ -144,7 +144,7 @@ Vinkki: Pronominia **ta** käytetään sekä miehistä että naisista. Kuten voi
 
 **sa pingo lal.** Tämä omena on punainen.
 
-Huom! Kun adjektiivi, kuten **roxu**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
+Huom! Kun adjektiivi, kuten **lal**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
 **ta lal.** Se on punainen.
 
@@ -184,20 +184,20 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 **mi vol ha nova fon.** Minä haluan saada uuden puhelimen.
 
-**kia ti ha ana?** Onko sinulla lapsia?
-**mi ha du ana.** Minulla on kaksi lasta.
+**kia ti ha ban?** Onko sinulla lapsia?
+**mi ha du ban.** Minulla on kaksi lasta.
 
 
 
 ### ye <small>kyllä</small>
 
-**kia ti bon?** Voitko hyvin?
+**kia ti bon?** Voitko hyvin?  
 **ye. mi bon.** Kyllä, minä voin hyvin.
 
-**kia ha doktor?** Onko täällä lääkäriä?
+**kia ha doktor?** Onko täällä lääkäriä?  
 **ye. ta e doktor.** Kyllä. Hän on lääkäri.
 
-**kia ha vin?** Onko teillä viiniä?
+**kia ha vin?** Onko teillä viiniä?  
 **ye. bai i lal.** Kyllä, valkoista ja punaista.
 
 
@@ -402,7 +402,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **se loga ke yang bi pandunia ki "kissa"?** Miten sanotaan "kissa" panduniaksi?
 
-**"kissa" e ke na pandunia?** Mikä "kissa" on panduniaksi?
+**"kissa" e ke bi pandunia?** Mikä "kissa" on panduniaksi?
 
 **mau loga miau.** Kissa sanoo miau.
 
@@ -420,7 +420,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 ### vide <small>nähdä</small>
 
-**suka vide ti.** Hauska nähdä sinua!
+**suk vide ti.** Hauska nähdä sinua!
 
 **vide ti bada!** Nähdään myöhemmin!
 
