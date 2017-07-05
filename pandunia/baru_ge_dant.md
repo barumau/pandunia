@@ -23,7 +23,7 @@ baru ban vide kandi botol na almari. ta pensa "mi vol yem kandi!" ama ta memori:
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-baru ban vide medu bin na ali almari. ta pensa "mama loga nul ting bi tema de medu. mi ken yem medu!" baru ban sit na kursi i ta yem lit medu. medu bon gusta!
+baru ban vide medu bin na alter almari. ta pensa "mama loga nul ting bi tema de medu. mi ken yem medu!" baru ban sit na kursi i ta yem lit medu. medu bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 

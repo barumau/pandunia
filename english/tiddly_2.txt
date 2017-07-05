@@ -10,10 +10,10 @@ aina	mirror
 aka	brother or sister
 akse	axis
 alah	Allah
-ali	other
 alkol	alcohol
 almari	cabinet (cupboard)
 almas	diamond
+alter	other (alter, change)
 alu	potato
 ama	but
 amen	affirm (agree, concur, amen)
@@ -327,7 +327,7 @@ fizik logi	physics
 fobi	fear (phobia)
 fokus	concentrate (focus)
 forka	fork
-forme	form (shape)
+forma	form (shape)
 forum	forum
 fosfor	phosphorus
 foto	photograph

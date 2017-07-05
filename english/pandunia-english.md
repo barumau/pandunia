@@ -333,7 +333,7 @@ fizik logi : physics
 fobi : fear (phobia)  
 fokus : concentrate (focus)  
 forka : fork  
-forme : form (shape)  
+forma : form (shape)  
 forum : forum  
 fosfor : phosphorus  
 foto : photograph  
