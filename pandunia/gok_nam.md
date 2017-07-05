@@ -127,7 +127,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **italia** : Italy  
 **latvia** : Latvia  
 **lietuva** : Lithuania  
-**madjar** : Hungary  
+**madyar** : Hungary  
 **makedonia** : Macedonia  
 **nederland** : Netherlands  
 **norge** : Norway  
