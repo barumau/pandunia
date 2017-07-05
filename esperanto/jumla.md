@@ -49,7 +49,7 @@
 
 **ti salam mi.** Vi salutas min.
 
-> Notu! La baza vortordo estas subjekto-verbo-objekto. Vortoj neniam ŝanĝiĝas en pandunia. Do **mi** havas la saman formon kiel subjekto kaj kiel objekto.
+> Notu! La baza vortordo estas subjekto-verbo-objekto. Vortoj neniam ŝanĝiĝas en pandunio. Do **mi** havas la saman formon kiel subjekto kaj kiel objekto.
 
 **salam ti!** Saluton al vi!
 
@@ -233,7 +233,7 @@
 
 **tamen yem pingo.** Ili manĝas pomojn.
 
-> Notu! Pandunia ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **pingo** indikas unu aŭ multajn pomojn.
+> Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **pingo** indikas unu aŭ multajn pomojn.
 
 **kia ti yem kafe?** Ĉu vi trinkas kafon?
 
@@ -251,7 +251,7 @@
 
 **ti vol yem ke?** Kion vi volas manĝi?
 
-> Notu! En pandunia la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke** ne ŝanĝas la vortordon.
+> Notu! En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke** ne ŝanĝas la vortordon.
 
 **mi vol yem kafe.** Mi volas trinki kafon.
 
@@ -493,8 +493,9 @@
 Vortaro
 -------
 
+<!--
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from angla and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
-
+-->
 
 **abit** loĝi <small>itala _abitare_</small>  
 **ama** sed <small>(turka _ama_)</small>  

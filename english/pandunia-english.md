@@ -8,7 +8,6 @@ aha : understand (realize)
 ai : alas! (ouch!)  
 aina : mirror  
 aka : brother or sister  
-aksar : letter (character)  
 akse : axis  
 alah : Allah  
 ali : other  
@@ -93,6 +92,7 @@ bat : eight (8)
 batata : yam (sweet potato)  
 bateri : battery  
 batu : stone  
+bauhu : protect (defend)  
 bazar : market (bazaar)  
 baze : base (foundation)  
 bebe : baby  
@@ -235,6 +235,7 @@ detal : detail
 dev : god  
 dev logi : theology  
 deya : village  
+dian : attention (focus)  
 din : religion  
 din guru : priest (cleric)  
 ding : nail (spike)  
@@ -330,6 +331,7 @@ finger : finger (toe)
 fizik : physique  
 fizik logi : physics  
 fobi : fear (phobia)  
+fokus : concentrate (focus)  
 forka : fork  
 forme : form (shape)  
 forum : forum  
@@ -339,6 +341,7 @@ frans : France
 fu : bah! (yuck!)  
 fubu : belly (abdomen)  
 fuk : clothing  
+ful : full  
 fung : wind  
 funsi : function (to work)  
 futur : future  
@@ -417,7 +420,7 @@ handis : engineer (apply science to)
 hanguk : South Korea  
 harmoni : harmony  
 hat : hand  
-hata : even (up to)  
+hata : even (intensifier)  
 hawa : air  
 hazar : hazard (random)  
 helen : Greek (Hellenic)  
@@ -448,6 +451,7 @@ hura : hooray (cheer)
 ##i  
 ibri : Hebrew  
 idea : idea  
+igen : opinion (view)  
 iha : donkey (ass)  
 imper : empire  
 in : inside (interior)  
@@ -508,6 +512,7 @@ kai : open (not closed)
 kaici : begin (commence)  
 kaka : excrement (shit)  
 kakau : cocoa  
+kal : black  
 kalam : pen  
 kalsium : calcium (Ca)  
 kamar : room (chamber)  
@@ -527,7 +532,7 @@ kapa : cover (covering)
 kapitan : captain  
 kaput : broken (out of order)  
 kar : make (do, act)  
-kara : black  
+kara : letter (character)  
 karaoke : karaoke  
 karate : karate  
 kari : curry  
@@ -583,6 +588,7 @@ kompani : company (corporation)
 komputer : computer  
 komun : common (shared)  
 kona : corner (angle)  
+kong : hole  
 kongo : Congo  
 konsel : advice (counsel)  
 konson : consonant  
@@ -624,7 +630,6 @@ ladji : rubbish (trash)
 lai : come  
 lai salam : welcome  
 laka : lacquer (varnish)  
-lal : red  
 lala : lie (lie down)  
 lampa : lamp  
 lanka : Sri Lanka  
@@ -675,8 +680,8 @@ lusun : asparagus
 lut : rob (loot)  
 ##m  
 macin : machine  
-madjar : Hungary  
 madju : harness  
+madyar : Hungary  
 maf : sorry (pardon)  
 mafan : trouble (disturbance, bother)  
 magi : magic  
@@ -728,7 +733,7 @@ matur : mature (ripe, adult)
 mau : cat  
 medalia : medallion (medal)  
 mede : help  
-medi : mean (medium)  
+medi : mean (medium, average)  
 medit : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
@@ -739,8 +744,7 @@ mei jen : everybody (everyone)
 melodi : melody  
 member : member  
 meme : sheep  
-memori : memory  
-men : surface  
+men : bunch (collection)  
 mes 1 (mes un) : January  
 mes 10 (mes des) : October  
 mes 11 (mes des un) : November  
@@ -818,7 +822,7 @@ na : at (in, on)
 na cia : below (under)  
 na dur de : while (during)  
 na in : in (inside)  
-na men : on (on the surface)  
+na par : on (on top)  
 na vis de : instead of  
 na wai : out (outside)  
 nabat : plant (vegetable)  
@@ -906,6 +910,7 @@ papa : father
 papagai : parrot (parakeet)  
 papaya : papaya  
 paper : paper  
+par : top (highest part)  
 paraguai : Paraguay  
 parda : curtain  
 pas : pass (go by, go past)  
@@ -1017,6 +1022,7 @@ rom : rum
 roma : Rome  
 ron : cry (weep)  
 rong : oriental dragon  
+ros : red  
 rose : dew  
 rosia : Russia  
 rotor : rotor (rotator)  
@@ -1203,6 +1209,7 @@ titan : titanium
 titcin : bow instrument (violin, etc.)  
 to : so (then, therefore)  
 togo : Togo  
+tolo : top (spinning top)  
 tomat : tomato  
 ton : tone (pitch or shade)  
 tong : barrel (can)  
@@ -1318,6 +1325,7 @@ xiyar : cucumber
 xolera : cholera  
 xor : choir (chorus)  
 ##y  
+yad : memory  
 yak : yak  
 yakin : certain (sure)  
 yala : hurry (hasten)  

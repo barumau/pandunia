@@ -33,6 +33,10 @@ Suomeksi panduniasta voi keskustella Facebookin [Tekokielet](http://www.facebook
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 
+## Kirjoituksia
+
+- [Maailman yhteyskieli](dunia_pidjin.md)
+
 
 ## Panduniasta muissa julkaisuissa
 

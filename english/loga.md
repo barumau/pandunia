@@ -203,6 +203,16 @@ As you can see, the same word is written and pronounced differently in different
 | Filipino   | kamisa       | kamisa          |
 
 
+#### kat (to cut)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| English    | kʌt          | cut             |
+| Hindi      | kətna        | काटना           |
+| Bangla     | kata         | কাটা                |
+| Swahili    | kata         | kata            |
+| Vietnamese | kɐʔt         | cắt             |
+
 
 ### Examples of South Asian words
 

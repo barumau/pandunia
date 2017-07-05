@@ -3,7 +3,7 @@ Gramatiko
 
 
 
-Ĉi tia teksto temas pri la vortklasoj kaj la sintakso de pandunia.
+Ĉi tia teksto temas pri la vortklasoj kaj la sintakso de pandunio.
 
 
 Bazaj reguloj
@@ -14,7 +14,7 @@ Bazaj reguloj
 3. Substantivoj ("_Esencovortoj_") ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
 4. Kiam adjektivo antaŭas substantivon, ĝi funkcias kiel modifovorto. Kiam ĝi sekvas substantivon, ĝi rolas kvazaŭ adjektiva verbo.
     - ekz. **bon pan** = Bona pano. **pan bon** = (La) pano bonas.
-5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa vorto ĉiam staras je la fino. Malkiel en Esperanto, en pandunia oni ne algluas vortojn.
+5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa vorto ĉiam staras je la fino. Malkiel en Esperanto, en pandunio oni ne algluas vortojn.
     - ekz. **poste sanduk** = leterkesto
 6. En frazoj faritaj per transitiva verbo, oni uzas la vortordon subjekto-verbo-objekto.
     - ekz.  **mi penta meza.** = Mi kolorigas tablojn.
@@ -24,16 +24,16 @@ Bazaj reguloj
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
     - ekz. **mi bite ti dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Ĉu vi parolas Pandunian?
+    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Ĉu vi parolas pandunion?
     - **mi bite ti loga tez.** →  **bite loga tez.** = Bonvolu paroli laŭte.
 
 
 Vortospecoj
 -----------
 
-En Pandunia, vortoj estas senfleksiaj. La vortospeco dependas de la signifo de la vorto, ne ĝia formo.
+En pandunio, vortoj estas senfleksiaj. La vortospeco dependas de la signifo de la vorto, ne ĝia formo.
 
-Jen la vortospecoj en Pandunia:
+Jen la vortospecoj en pandunio:
 
 1. La _Esencovorto_ (substantivo) prezentas aĵon, personon, abstraktan ideon aŭ propran nomon. Ekz. ŝtono, tablo, roboto, kato, homo, urbo, Londono ktp.
 2. La _Modifovorto_ (adjektivo/adverbo) priskribas econ de tio, kio estas prezentita de alia vorto. Ekz. bona, malbona, granda, rapide ktp.
@@ -46,7 +46,7 @@ Jen la vortospecoj en Pandunia:
 Esencovortoj (substantivoj)
 -----------------
 
-_Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en Pandunia. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
+_Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
 > **batu** - ŝtono, ŝtonoj, la ŝtono, la stonoj  
 > **meza** - tablo, tabloj, la tablo, la tabloj  
@@ -71,7 +71,7 @@ Facila maniero por emfazi multecon estas repeti la vorton.
 Modifovortoj (adjektivoj/adverboj)
 -----------------
 
-_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En Pandunia, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
+_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En pandunio, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
 
 > **dai batu** - granda ŝtono  
 > **cung batu** - peza ŝtono  
@@ -172,7 +172,7 @@ Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi ri
 
 ### Montrovorto
 
-**Sa** estas la ĉefa Montrovorto en Pandunia. Ĝi enhavas la signifon de _tio_, _ĉi tio_, _tiu_ kaj _ĉi tiu_.
+**Sa** estas la ĉefa Montrovorto en pandunio. Ĝi enhavas la signifon de _tio_, _ĉi tio_, _tiu_ kaj _ĉi tiu_.
 
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
@@ -190,7 +190,7 @@ Montrovortoj povas roli kiel Modifovortoj.
 
 ### Demandaovorto
 
-**Ke** estas la ĝenerala demandovorto en Pandunia. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
+**Ke** estas la ĝenerala demandovorto en pandunio. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
 > **ke?** - Kiu?/Kio?  
 > **ke ting?** - Kio? (Kiu afero?)  
@@ -237,7 +237,7 @@ Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni 
 Aga predikato
 ------------------
 
-En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En Pandunia, Agovortoj facile distingeblas, ĉar ili plejofte finiĝas per **-a** aŭ **-u**.
+En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pandunio, Agovortoj facile distingeblas, ĉar ili plejofte finiĝas per **-a** aŭ **-u**.
 
 Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba.
 
@@ -276,7 +276,7 @@ En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la o
 Ĉarnirfrazoj
 -------------
 
-La ĉarnira konstruo estas tre grava konstruo en pandunia. Ĝi estas ankaŭ la bazo por aliaj konstruoj.
+La ĉarnira konstruo estas tre grava konstruo en pandunio. Ĝi estas ankaŭ la bazo por aliaj konstruoj.
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
@@ -305,7 +305,7 @@ La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la 
 Determinaj partikuloj
 ---------------------
 
-Pandunia havas du determinaj partikuloj, **ge** kaj **de**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
+Pandunio havas du determinaj partikuloj, **ge** kaj **de**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
 
 La determinaj partikuloj esprimas posedon inter alia. La partikulo **ge** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **ge** kaj laste la determinato.
 
@@ -326,7 +326,6 @@ La partikulo **de** estas uzata en kontraŭa ordo: unue la determinato, meze la 
 > **dom de jovan mama** - domo de juna patrino  
 > **cung de batu** - pezo de ŝtono
 
-Pandunia havas du determinaj partikuloj, **ge** kaj **de**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
 
 ### Posedo
 
@@ -383,7 +382,7 @@ Modalaj partikuloj
 
 Modalaj partikuloj estas la alia maniero por montri rilaton aŭ vidpunkton de la parolanto al kion li parolas. Verŝajne ĉiu lingvo havas almenaŭ kelkajn modalajn partikulojn. Orientaziaj lingvoj, kiel la ĉina kaj la japana, ofte havas frazfinajn modalajn partikulojn.
 
-En pandunia, modala partikulo modifas la sekvantan vorton. Se la partikulo estas la lasta vorto de la frazo, ĝi modifas la tutan frazon.
+En pandunio, modala partikulo modifas la sekvantan vorton. Se la partikulo estas la lasta vorto de la frazo, ĝi modifas la tutan frazon.
 
 Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
 

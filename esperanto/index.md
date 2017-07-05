@@ -1,13 +1,13 @@
-pandunia - simpla mondlingvo
+pandunio - simpla mondlingvo
 ============================
 
-![](http://www.pandunia.info/kuvat/bandera.png "The flag of Pandunia")
+![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flago")
 
-## Kio estas pandunia?
+## Kio estas pandunio?
 
 Pandunia estas multakultura konstruita helpa lingvo kiu celas por lingva neŭtraleco. Ĝi estas la produkto de pluraj jaroj da esplorado, verko kaj eksperimentado. Ĝi estas ankoraŭ laboro progresanta.
 
-La ĉefaj trajtoj la pandunia estas:
+La ĉefaj trajtoj de pandunio estas:
 
 - multakultura vortprovizo, kiu enhavas vortojn de multaj lingvoj, ekzemple la angla, la araba, la ĉina, la hispana, la franca, la hinda, la japana, la persa, la rusa, la sŭahila kaj multaj aliaj lingvoj.
 - relative simpla fonemaro
@@ -16,12 +16,13 @@ La ĉefaj trajtoj la pandunia estas:
 
 ## Vortaro
 
-[Esperanto-Pandunia](esperanto-pandunia.md)
+[Esperanto-Pandunia](esperanto-pandunio.md)
 
 ## Komunumo
 
-Kelkaj homoj jam interesigas sin pri pandunia. Vi povas renkonti ilin tie:
+Kelkaj homoj jam interesigas sin pri pandunio. Vi povas renkonti ilin tie:
 
-- [Pandunia Facebook grupo](http://www.facebook.com/groups/pandunia)
+- [Pandunia Fejsbuk grupo](http://www.facebook.com/groups/pandunia)
 - [pandunia esperanto grup](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) en Telegram
 - [Retpoŝtlisto](https://groups.yahoo.com/neo/groups/pandunia/info) en Yahoo. Aliĝu per sendi mesaĝon al pandunia-subscribe@yahoogroups.com
+

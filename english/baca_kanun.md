@@ -79,7 +79,7 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns are invar
 > **kursi** - a chair, chairs, the chair or the chairs  
 > **sui** - water
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
@@ -210,7 +210,7 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 **Sa** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
 
-The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
+The distance to the speaker can be specified by adding words **djin** (near) and **far** (far), if needed.
 
 **sa** - this or that
 **sa djin** - this over here
@@ -495,12 +495,12 @@ More precise expressions of place and time are expressed with _a preposition + a
 > **mi deng na lok de ti toka.** - I wait at the place where you left.  
 > **na cia de** - under, below  
 > **un waf lala na cia de meza.** - A dog lies under the table.  
-> **na men de** - on the surface of  
-> **un mau lala na men de meza.** - A cat lies on the table.
+> **na par de** - on the surface of  
+> **un mau lala na par de meza.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
 
-> **un mau lala na meza men.** - A cat lies at the tabletop.
+> **un mau lala na meza par.** - A cat lies at the tabletop.
 
 In addition, a preposition can be followed immediately by a verb.
 

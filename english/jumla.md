@@ -40,6 +40,8 @@ Part 1: Greeting and basics
 
 Tip: As you can see from the range of expressions, **salam** is a general word for well-wishing. Use it any time!
 
+Note: **Salam** is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
+
 
 
 ### mi <small>I, me</small>

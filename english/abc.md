@@ -30,14 +30,14 @@ Consonant Sounds
     p  b  f  v  m  w
     t  d  s  z  n  l  r
           c  j     y
-    k  g  x  h  ng
+    k  g  x  h
 
 Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, k, l, m, n, p, t, v, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
 - **c** is always pronounced like SH in _ship_.
-- **j** is pronounced like Z in _measure_ or the J in the French greeting _bon jour_.
+- **j** is pronounced like the S in _measure_ or the J in the French greeting _bon jour_.
 - **g** is always hard like in _girl, get_.
 - **r** is preferably trilled like in Scottish English or Spanish _carro_. Also other pronunciations are acceptable. Note that **r** is never silent!
 - **s** is always voiceless like in _sissy_. **z** is voiced like in _zoo_.
