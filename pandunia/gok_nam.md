@@ -139,7 +139,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **slovenska** : Slovakia  
 **slovenia** : Slovenia  
 **suomi** : Finland  
-**sverie** : Sweden  
+**svenska** : Sweden  
 **svis** : Switzerland  
 **tceska** : Czech  
 **tcip** : Albania  

@@ -132,13 +132,13 @@ Tip: **Ta** is the general third person pronoun. It is used for people (irrespec
 
 **sa e pingo.** This is an apple.
 
-**sa e lal pingo.** This is a red apple.
+**sa e ros pingo.** This is a red apple.
 
-**sa pingo lal.** This apple is red.
+**sa pingo ros.** This apple is red.
 
-Note: When an adjective, like **lal**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
-**ta lal.** It's red.
+**ta ros.** It's red.
 
 
 ### nam <small>be called, name</small>
@@ -190,7 +190,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **ye. ta e doktor.** Yes. He/she is a doctor.
 
 **kia ha vin?** Do you have wine?  
-**ye. bai i lal.** Yes, white and red.
+**ye. bai i ros.** Yes, white and red.
 
 
 
@@ -200,7 +200,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **sa man no e doktor.** That man is not a doctor.
 
-**sa pingo no lal.** This apple is not red.
+**sa pingo no ros.** This apple is not red.
 
 
 
@@ -275,7 +275,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **no. mi no vol tca. mi vol kafe.** No, I don't want tea. I want coffee.
 
 **ti vol ke pingo?** Which apple do you want?  
-**sa lal.** This red one.
+**sa ros.** This red one.
 
 
 
@@ -676,7 +676,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **i** and <small>(Polish _i_)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
-**kara** black <small>(Turkish _kara_)</small>  
+**kal** black <small>(Hindi काला _kāla_)</small>  
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
@@ -684,7 +684,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ketci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **lai** come <small>(Vietnamese _lai_)</small>  
-**lal** red <small>(Bengali _lal_)</small>  
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mana** to mean; meaning <small>(Swahili _maana_)</small>  
@@ -697,6 +696,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **nun** now, currently <small>(German _nun_)</small>  
 **papa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
+**ros** red <small>(Italian _rosso_)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>  
@@ -714,5 +714,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **xabar** news <small>(Malay _khabar_)</small>  
 **ye** yes <small>(Korean 예 _ye_)</small>  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  
+
 
 

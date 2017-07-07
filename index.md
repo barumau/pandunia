@@ -10,6 +10,8 @@
 
 ![](http://pandunia.info/kuvat/es.png) [Aprende Pandunia en Español](espanya/index.md)
 
+![](http://pandunia.info/kuvat/fr.png) [Apprenez le pandunia à partir du français](frans/index.md)
+
 ![](http://pandunia.info/kuvat/ru.png) [Изучаем язык Пандуния на русском](russki/index.md)
 
 ![](http://pandunia.info/kuvat/jp.png)[パンズニヤ語を日本語で学ぶ](nipon/index.md)
