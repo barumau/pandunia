@@ -279,23 +279,23 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 
 
 
-### bite <small>demander, s’il vous plait</small>
+### tcing <small>demander, s’il vous plait</small>
 
-**mi bite ti yem tca.** Je te demande si tu veux du thé.
+**mi tcing ti yem tca.** Je te demande si tu veux du thé.
 
-**mi bite ti lai dom.** Je te demande de venir à la maison.
+**mi tcing ti lai dom.** Je te demande de venir à la maison.
 
-**mi bite ti mede mi.** Je te demande de m’aider.
+**mi tcing ti mede mi.** Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**bite yem tca.** Un thé, s’il vous plait !
+**tcing yem tca.** Un thé, s’il vous plait !
 
-**bite yem kafe.** Un café, s’il vous plait!
+**tcing yem kafe.** Un café, s’il vous plait!
 
-**bite lai dom.** Viens à la maison, s’il te plait !
+**tcing lai dom.** Viens à la maison, s’il te plait !
 
-**bite mede mi.** Aide moi, s’il te plait.
+**tcing mede mi.** Aide moi, s’il te plait.
 
 
 
@@ -403,7 +403,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **mi no ken audi ti.** Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**bite loga kuat.** Parlez plus fort, s’il vous plait.
+**tcing loga kuat.** Parlez plus fort, s’il vous plait.
 
 **mi audi musik.** J’écoute de la musique.
 
@@ -434,9 +434,9 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### kitab <small>écrire</small>
 
-**bite kitab ti ge adres.** S’il te plait, écris ton adresse.
+**tcing kitab ti ge adres.** S’il te plait, écris ton adresse.
 
-**bite kitab ta na sa.** S’il te plait, écris-le là !
+**tcing kitab ta na sa.** S’il te plait, écris-le là !
 
 
 ### baca <small>langue, communication</small>
@@ -475,7 +475,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### lai <small>venir</small>
 
-**bite lai!** Viens ici !
+**tcing lai!** Viens ici !
 
 **ti lai ze ke?** D’où viens-tu ?
 
@@ -525,7 +525,7 @@ Astuce : Ça va aussi de dire « ti abit na ke? » mais **abit** recouvre déjà
 
 ### deng <small>attendre</small>
 
-**bite deng!** Veuillez attendre !
+**tcing deng!** Veuillez attendre !
 
 **tamen deng mimen.** Ils nous attendent.
 
@@ -541,16 +541,16 @@ Astuce : Ça va aussi de dire « ti abit na ke? » mais **abit** recouvre déjà
 
 **mi kap un kafe.** Je vais prendre un café.
 
-**bite kap un kafe do mi.** Prends-moi un café, s’il te plait.
+**tcing kap un kafe do mi.** Prends-moi un café, s’il te plait.
 
 **ti ja kap pesa ze mi.** Tu as déjà eu de l’argent de ma part.
 
 
 ### dar <small>donner</small>
 
-**bite dar pesa.** Donne-moi de l’argent, s’il te plait.
+**tcing dar pesa.** Donne-moi de l’argent, s’il te plait.
 
-**bite dar ta do mi.** Donne-le moi, s’il te plait.
+**tcing dar ta do mi.** Donne-le moi, s’il te plait.
 
 **mi dar sa do ti.** Je te donne ceci.
 
@@ -661,7 +661,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **batu** pierre <small>(Indonésien _batu_)</small>  
 **bazar** marché <small>(Persan _bāzār_ بازار)</small>  
 **baca** langue, communiquer <small>(Hindi _bhāśā_ भाषा)</small>  
-**bite** demander quelque chose <small>(Allemand _bitten_)</small>  
+**tcing** demander quelque chose <small>(Allemand _bitten_)</small>  
 **blu** bleu <small>(Anglais _blue_)</small>  
 **bon** bon
 **cam** soir <small>(Hindi _śām_ शाम )</small>  
