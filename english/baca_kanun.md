@@ -38,16 +38,19 @@ Basic Rules
 2. The stress accent is on the syllable before the last consonant of the word.
 3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
 4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **pan bon** = Bread (is) good.
+    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with transitive verbs have subject-verb-object word order.
     - ex. **mi penta meza.** = I paint tables.
 7. A sentence with passive meaning has only a subject and a verb.
     - ex. **ta penta.** = It is painted.
-8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
+8. The subject of a sentence consists of a personal pronoun alone, or a noun phrase followed by a tense, aspect or mood particle.
+    - **mimen baca pandunia.** = We speak Pandunia.
+    - **jen ye baca pandunia.** = People _indeed_ speak Pandunia.
+9. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
     - ex. **mi bite ti dar pesa.** = I ask you to give money.
-9. Pronouns can be left out when they are obvious and redundant.
+10. Pronouns can be left out when they are obvious and redundant.
     - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Do you speak Pandunia?
     - **mi bite ti loga tez.** →  **bite loga tez.** = Please speak louder.
 
@@ -193,7 +196,7 @@ Pronouns can substitute thing-words and phrases of thing-words.
 **mi** - I, me  
 **ti** - you  
 **ta** - he, she, it  
-**mimen** - we
+**mimen** - we  
 **timen** - you all  
 **tamen** - they
 
