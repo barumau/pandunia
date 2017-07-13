@@ -279,23 +279,23 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 
 
-### bite <small>request, please</small>
+### tcing <small>request, please</small>
 
-**mi bite ti yem tca.** I ask you to drink tea.
+**mi tcing ti yem tca.** I ask you to drink tea.
 
-**mi bite ti lai dom.** I ask you to come home.
+**mi tcing ti lai dom.** I ask you to come home.
 
-**mi bite ti mede mi.** I ask you to help me.
+**mi tcing ti mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**bite yem tca.** Please, have some tea!
+**tcing yem tca.** Please, have some tea!
 
-**bite yem kafe.** Please, have some coffee!
+**tcing yem kafe.** Please, have some coffee!
 
-**bite lai dom.** Please, come home!
+**tcing lai dom.** Please, come home!
 
-**bite mede mi.** Please, help me.
+**tcing mede mi.** Please, help me.
 
 
 
@@ -403,7 +403,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken audi ti.** I can't hear you.
 
-**bite loga kuat.** Please speak louder.
+**tcing loga kuat.** Please speak louder.
 
 **mi audi musik.** I listen to music.
 
@@ -434,9 +434,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kitab <small>write</small>
 
-**bite kitab ti ge adres.** Please, write your address.
+**tcing kitab ti ge adres.** Please, write your address.
 
-**bite kitab ta na sa.** Please, write it here!
+**tcing kitab ta na sa.** Please, write it here!
 
 
 ### baca <small>language, communication</small>
@@ -476,7 +476,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### lai <small>to come</small>
 
-**bite lai!** Come here!
+**tcing lai!** Come here!
 
 **ti lai ze ke?** Where do you come from?
 
@@ -526,7 +526,7 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 ### deng <small>to wait</small>
 
-**bite deng!** Please wait!
+**tcing deng!** Please wait!
 
 **tamen deng mimen.** They wait for us.
 
@@ -542,16 +542,16 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 **mi kap un kafe.** I will take a coffee.
 
-**bite kap un kafe do mi.** Please take one coffee for me.
+**tcing kap un kafe do mi.** Please take one coffee for me.
 
 **ti ja kap pesa ze mi.** You already got money from me.
 
 
 ### dar <small>give</small>
 
-**bite dar pesa.** Please give some money.
+**tcing dar pesa.** Please give some money.
 
-**bite dar ta do mi.** Please give it to me.
+**tcing dar ta do mi.** Please give it to me.
 
 **mi dar sa do ti.** I give this to you.
 
@@ -662,7 +662,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **batu** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
 **baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
-**bite** ask, request <small>(German _bitten_)</small>  
+**tcing** ask, request <small>(German _bitten_)</small>  
 **blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
 **cam** evening <small>(Hindi _śām_ शाम )</small>  

@@ -10,10 +10,10 @@ aina : mirror
 aka : brother or sister  
 akse : axis  
 alah : Allah  
-ali : other  
 alkol : alcohol  
 almari : cabinet (cupboard)  
 almas : diamond  
+alter : other (alter, change)  
 alu : potato  
 ama : but  
 amen : affirm (agree, concur, amen)  
@@ -118,7 +118,6 @@ bin : pot (bin)
 bir : beer  
 bis : kiss  
 biskut : biscuit (cookie)  
-bite : ask (request; please)  
 bite lai : invite  
 bite lai in! : Come in!  
 bizar : weird (strange)  
@@ -144,6 +143,7 @@ britan : Britain (UK)
 broc : brush  
 brun : brown  
 buda : Buddha  
+buda din : Buddhism  
 budan : Mercury  
 budi : intelligent  
 budjet : budget  
@@ -328,6 +328,7 @@ filter : filter
 fin : end  
 final : last (final)  
 finger : finger (toe)  
+finger wen : finger ring  
 fizik : physique  
 fizik logi : physics  
 fobi : fear (phobia)  
@@ -584,6 +585,7 @@ kolombia : Colombia
 koloni : colony (settlemen)  
 kolun : column (pillar)  
 koma : comma  
+komik : comical (funny)  
 kompani : company (corporation)  
 komputer : computer  
 komun : common (shared)  
@@ -724,7 +726,9 @@ masaj : massage
 masala : issue  
 masim : most (maximally)  
 maska : mask (camouflage)  
+mat : eye  
 mat : forbid (don't!)  
+mat sui : tear drop  
 matce : match (contest)  
 matci : fish  
 mater : matter (substance)  
@@ -825,6 +829,7 @@ na in : in (inside)
 na par : on (on top)  
 na vis de : instead of  
 na wai : out (outside)  
+na wen : around (about)  
 nabat : plant (vegetable)  
 nabi : prophet  
 nadi : river  
@@ -1069,6 +1074,7 @@ sekur : safe (secure)
 sel : cell (biology)  
 selen : selenium  
 sem : same  
+sement : cement  
 sen : chest (thorax)  
 sens : sense  
 sensur : censor  
@@ -1089,6 +1095,7 @@ sin : sign (signal)
 singa : lion  
 singapur : Singapore  
 sir : secret  
+sirka : about (approximately, circa)  
 sis : six (6)  
 sismo : earthquake  
 sismo logi : seismology  
@@ -1132,7 +1139,7 @@ sura : chapter (section)
 suriname : Suriname  
 surya : sun  
 suxa : dry  
-sverie : Sweden  
+svenska : Sweden  
 svis : Switzerland  
 ##t  
 ta : he or she or it  
@@ -1174,6 +1181,7 @@ tcelo : cello
 tceska : Czech  
 tcile : Chile  
 tcili : bell pepper  
+tcing : ask (request; please)  
 tcip : Albania  
 tcis : cheese  
 tcoda : fuck  
@@ -1214,6 +1222,7 @@ tomat : tomato
 ton : tone (pitch or shade)  
 tong : barrel (can)  
 top : gun  
+tortuga : turtle (tortoise)  
 tot : whole (entire, all)  
 tren : train  
 tren dau : railway (railroad)  
@@ -1302,7 +1311,7 @@ waris : heritage (bequest)
 wat : watt  
 wazir : minister (politician)  
 wazir kan : ministry  
-wen : circle (round)  
+wen : circle (ring)  
 weste : west  
 wiki : wiki  
 win : win (victory)  
@@ -1336,8 +1345,6 @@ yasen : ash tree
 ye : yes (yeah)  
 yehudi : Jew  
 yem : eat  
-yen : eye  
-yen sui : tear drop  
 yep : leaf  
 yer : yesterday  
 yesu : Jesus  

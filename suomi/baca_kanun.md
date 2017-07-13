@@ -20,7 +20,7 @@ Perussäännöt
     - esim. **mi cing ti dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Osaatko sinä panduniaa?
-    - **mi bite ti loga tez.** →  **bite loga tez.** = Pyydän, puhu kovempaa.
+    - **mi tcing ti loga tez.** →  **tcing loga tez.** = Pyydän, puhu kovempaa.
 
 
 
@@ -308,8 +308,8 @@ Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lausei
  
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
  
-> **mi bite ti go dom.** - Minä pyydän sinua menemään kotiin.
-> **bite go dom!** - (Pyydän) mene kotiin!
+> **mi tcing ti go dom.** - Minä pyydän sinua menemään kotiin.
+> **tcing go dom!** - (Pyydän) mene kotiin!
 
 
 

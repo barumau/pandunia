@@ -287,23 +287,23 @@ Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke*
 
 
 
-### bite <small>pyytää</small>
+### tcing <small>pyytää</small>
 
-**mi bite ti yem tca.** Minä pyydän sinua juomaan teetä.
+**mi tcing ti yem tca.** Minä pyydän sinua juomaan teetä.
 
-**mi bite ti lai dom.** Minä pyydän sinua tulemaan kotiin.
+**mi tcing ti lai dom.** Minä pyydän sinua tulemaan kotiin.
 
-**mi bite ti mede mi.** Minä pyydän sinua auttamaan minua.
+**mi tcing ti mede mi.** Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**bite yem tca.** Juopa teetä.
+**tcing yem tca.** Juopa teetä.
 
-**bite yem kafe.** Juopa kahvia.
+**tcing yem kafe.** Juopa kahvia.
 
-**bite lai dom.** Tulepa kotiin.
+**tcing lai dom.** Tulepa kotiin.
 
-**bite mede mi.** Autapa minua.
+**tcing mede mi.** Autapa minua.
 
 
 
@@ -411,7 +411,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mi no ken audi ti.** En voi kuulla sinua.
 
-**bite loga kuat.** Puhuisitko kovempaa.
+**tcing loga kuat.** Puhuisitko kovempaa.
 
 **mi audi musik.** Minä kuuntelen musiikkia.
 
@@ -442,9 +442,9 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 ### kitab <small>kirjoittaa</small>
 
-**bite kitab ti ge adres.** Kirjoittaisitko osoitteesi.
+**tcing kitab ti ge adres.** Kirjoittaisitko osoitteesi.
 
-**bite kitab ta na sa.** Kirjoittaisitko sen tähän!
+**tcing kitab ta na sa.** Kirjoittaisitko sen tähän!
 
 
 ### baca <small>kieli, kommunikaatio</small>
@@ -484,7 +484,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 ### lai <small>tulla</small>
 
-**bite lai!** Tule tänne!
+**tcing lai!** Tule tänne!
 
 **ti lai ze ke?** Mistä sinä tulet?
 
@@ -525,7 +525,7 @@ Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapall
 **batu** kivi <small>(indonesia _batu_)</small>  
 **bazar** tori, basaari <small>(persia _bāzār_ بازار)</small>  
 **baca** kieli <small>(hindi _bhāśā_ भाषा)</small>  
-**bite** pyytää <small>(saksa _bitten_)</small>  
+**tcing** pyytää <small>(saksa _bitten_)</small>  
 **blu** sininen <small>(englanti _blue_)</small>  
 **bon** hyvä <small>(ranska _bon_)</small>  
 **cam** ilta <small>(hindi _śām_ शाम )</small>  

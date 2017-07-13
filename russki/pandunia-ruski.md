@@ -8,13 +8,12 @@ aha : понимать
 ai : Увы! (Ой!)  
 aina : зеркало  
 aka : Брат или сестра  
-aksar : буква (символ)  
 akse : ось  
 alah : Аллах  
-ali : Другие  
 alkol : алкоголь  
 almari : шкаф  
 almas : алмаз  
+alter : Другие  
 alu : картошка  
 ama : но  
 amen : Утверждать (соглашаться, соглашаться, аминь)  
@@ -31,9 +30,9 @@ anus : анус
 ara : Пила  
 arabi : арабский  
 arena : Арена (стадион)  
-argentina : Аргентина  
 armi : армия  
 arte : искусство  
+arxentina : Аргентина  
 asal : начало  
 asan : Поза (асана)  
 asia : Азия  
@@ -60,6 +59,7 @@ bal : сильный
 baldi : ведро  
 balkon : Балкон (веранда)  
 balu : песок  
+bama : Мьянма (Бирма)  
 bambu : бамбук  
 ban : ребёнок  
 bana : строить  
@@ -104,7 +104,6 @@ bibi : любимый
 biblia : библия  
 bir : пиво  
 biskut : печенье  
-bite : просьба  
 bite lai in! : Войдите!  
 bizar : странный  
 bizi : занят  
@@ -173,8 +172,8 @@ daici : посол
 daici kan : посольство  
 dama : шашки  
 dane : семя  
-dania : Дания  
 danke : спасибо  
+danmark : Дания  
 dans : танец  
 dant : зуб  
 dant broc : зубная щетка  
@@ -218,10 +217,10 @@ djidju : паук
 djin : рядом  
 djuca : впрыскивать  
 djudo : дзюдо  
-djungo : Китай  
+djungok : Китай  
 do : до  
 doc : вина  
-doitce : Немецкий  
+doitc : Немецкий  
 dok : читать  
 doktor : врач  
 dolar : доллар  
@@ -289,7 +288,7 @@ finger : палец
 fizik logi : физика  
 fobi : страх (фобия)  
 forka : вилка  
-forme : форма  
+forma : форма  
 forum : Форум  
 fosfor : фосфор  
 foto : фотография  
@@ -302,7 +301,6 @@ funsi : функция
 futur : будущее  
 ##g  
 gabar : могила (гробница)  
-gada : осёл  
 gadja : слон  
 galeri : галерея  
 gamel : верблюд  
@@ -323,7 +321,7 @@ gim : золото
 ging : уважение  
 gitar : гитара  
 go : идти  
-godjia : страна (государство, земля)  
+gok : страна (государство, земля)  
 gol : цель (намерение, задача)  
 gola : горло  
 gom : ластик  
@@ -383,6 +381,7 @@ hura : Ура (приветствие)
 ##i  
 ibri : иврит  
 idea : идея  
+iha : осёл  
 imper : империя  
 indji : имбирь  
 indonesia : Индонезия  
@@ -426,6 +425,7 @@ kafe kan : кафе (кофейня)
 kafe kop : кофейная чашка  
 kaici : начинать  
 kakau : какао  
+kal : чёрный  
 kalam : ручка  
 kalsium : кальций  
 kamar : комната (камера)  
@@ -439,7 +439,7 @@ kandi : конфета (сладость)
 kanun : закон  
 kapitan : капитан  
 kar : делать  
-kara : чёрный  
+kara : буква (символ)  
 karaoke : караоке  
 karate : каратэ  
 kari : карри  
@@ -474,7 +474,7 @@ kitab kan : библиотека
 kiwi : киви  
 klas : класс (категория)  
 klub : клуб  
-kod : Код (шифр)  
+kod : код (шифр)  
 kok : курица  
 koko : кокос  
 kolombia : Колумбия  
@@ -514,7 +514,6 @@ lab : губа
 laba : горн  
 ladji : мусор  
 laka : лак  
-lal : красный  
 lampa : лампа  
 lanka : Шри-Ланка  
 lao : Лаос  
@@ -550,8 +549,8 @@ luna : Луна
 lusun : спаржа  
 ##m  
 macin : машина  
-madjar : Венгрия  
 madju : упряжь  
+madyar : Венгрия  
 magi : магия  
 magnet : магнит  
 mai : коммерция  
@@ -581,6 +580,8 @@ margarin : маргарин
 marmar : мрамор  
 marsi : Марс  
 maska : Маска (камуфляж)  
+mat : глаз  
+mat sui : слеза  
 matce : Матч (конкурс)  
 matci : рыба  
 mater : вещество  
@@ -589,9 +590,9 @@ mau : кот (кошка)
 medalia : медальон (медаль)  
 medi : средний  
 mega : миллион (мега-)  
+mei : все (каждый)  
 melodi : мелодия  
 meme : овца  
-memori : память  
 mes 1 (mes un) : январь  
 mes 10 (mes des) : октября  
 mes 11 (mes des un) : ноябрь  
@@ -607,6 +608,7 @@ mes 9 (mes noi) : сентябрь
 mes : месяц  
 mesi : Мессия (Христос)  
 metal : металл  
+metal nik : металлист  
 meter : метр  
 metod : метод  
 mexiko : Мексика  
@@ -644,12 +646,12 @@ mumu : корова
 mumu nama : говядина  
 mun : дверь (ворота, шлюз)  
 mungus : мангуста  
+mur : стена  
 musik : Музыка  
 muskul : мускул  
-myanma : Мьянма (Бирма)  
 ##n  
 na cia : ниже (под)  
-na men : на (на поверхности)  
+na par : на (на поверхности)  
 na vis de : вместо  
 nabat : растение  
 nadi : река  
@@ -707,7 +709,7 @@ pak : пакет
 paket : пакет  
 paki : птица  
 pakistan : Пакистан  
-pal : фрукт  
+pal : фрукт (результат)  
 palma : Пальма  
 pan : хлеб  
 panda : панда  
@@ -720,7 +722,7 @@ papa : отец
 papagai : попугай  
 papaya : папайя  
 paper : бумага  
-paraguay : Парагвай  
+paraguai : Парагвай  
 parda : занавес  
 paskal : паскаль  
 pat : дорожка (путь)  
@@ -800,6 +802,7 @@ rom : ром
 roma : Рим  
 ron : плакать  
 rong : Восточный дракон  
+ros : красный  
 rose : роса  
 rosia : Россия  
 rotor : ротор  
@@ -838,6 +841,7 @@ sekun : секунд
 sekur : безопасный  
 sel : клетка (биология)  
 selen : селен  
+sement : цемент  
 sensur : цензор  
 serbia : Сербия  
 seres : Церера (карликовая планета)  
@@ -885,13 +889,13 @@ sup : суп
 suriname : Суринам  
 surya : солнце  
 suxa : сухой  
-svedia : Швеция  
+svenska : Швеция  
 ##t  
 ta : он или она  
 tabak : табак  
 tabar : топор  
 tabia : Природа  
-tabul : Таблица (матрица)  
+tabul : таблица (матрица)  
 tai : Тайский  
 taiga : тайга  
 taksi : такси  
@@ -915,7 +919,8 @@ tcaya : тень
 tcelo : виолончель  
 tceska : Чешский  
 tcile : Чили  
-tciperia : Албания  
+tcing : просьба  
+tcip : Албания  
 tcis : сыр  
 tcokolat : шоколад  
 tcuti : отпуск  
@@ -942,7 +947,6 @@ titan : титан
 tomat : помидор  
 ton : тон  
 tong : бочка (ведро)  
-tot : все (каждый)  
 tren : поезд  
 tren dau : железная дорога  
 tsuka : уксус  
@@ -956,7 +960,7 @@ tunel : тоннель
 tunel tren : метро  
 tunis : Тунис  
 tur : Тур  
-turkia : Турция  
+turki : Турция  
 tuzi : заяц  
 ##u  
 ukrayina : Украина  
@@ -1011,7 +1015,6 @@ waf : собака
 waha : оазис  
 wai ting wazir kan : Министерство иностранных дел  
 wakil : Представлять  
-wal : стена  
 wan : чаша  
 wang : желтый  
 wat : ватт  
@@ -1023,7 +1026,7 @@ wiki : вики
 win : победа  
 ##x  
 xabar : Новости  
-xabar paper : газета  
+xabar gazet : новины  
 xali : пустой  
 xalif : халиф  
 xan : Монарх (король, королева)  
@@ -1037,6 +1040,7 @@ xiyar : огурец
 xolera : холера  
 xor : хор  
 ##y  
+yad : память  
 yak : як  
 yakin : уверенный  
 yaman : Йемен  
@@ -1046,8 +1050,6 @@ yasen : Ясень
 ye : да  
 yehudi : еврей  
 yem : есть  
-yen : глаз  
-yen sui : слеза  
 yep : лист  
 yer : вчера  
 yesu : Иисус  

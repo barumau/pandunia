@@ -144,12 +144,12 @@ Pidiendo
 ### Diálogo
 
 ☻: **salam!** = ¡Hola!  
-☺: **salam! bite sit.** = ¡ Hola!¡ Por favor sientese!  
+☺: **salam! tcing sit.** = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.** = ¡Gracias!  
-☺: **bite yem kafe u tca.** = Por favor tiene algo de café o té.  
+☺: **tcing yem kafe u tca.** = Por favor tiene algo de café o té.  
 ☻: **mi yem tca. danke.** = Tengo té, gracias.  
 ...  
-☺: **bite salam ti ge mama!** = Por favor llevale saludos a tu madre.  
+☺: **tcing salam ti ge mama!** = Por favor llevale saludos a tu madre.  
 ☻: **mi salam ta. salam!** = Yo la saludo. ¡Adiós!  
 ☺: **salam!** = ¡Chao!
 
@@ -158,9 +158,9 @@ Pidiendo
 
  En Pandunia los pronombres personales son: **mi** = yo, **ti** = tú, usted, y **ta** = él, ella, ello. Pandunia es una lengua de género neutral. No distingue sexos en los pronombres de las terceras personas o en otros pronombres. Todos los pronombres personales son usados en la siguiente oración.
 
-> **mi bite ti salam ta.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
+> **mi tcing ti salam ta.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
-Esta oración es una _oración eje_. El primer verbo, **bite** = pedir, se dirije a **ti** como su objeto. Al mismo tiempo **ti** sirve también como el sujeto del segundo verbo, **salam** = saludar, del cual su objeto es **ta**. Así **ti** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
+Esta oración es una _oración eje_. El primer verbo, **tcing** = pedir, se dirije a **ti** como su objeto. Al mismo tiempo **ti** sirve también como el sujeto del segundo verbo, **salam** = saludar, del cual su objeto es **ta**. Así **ti** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
 
 > Oración eje: Sujeto + Verbo¹ + Objeto/Sujeto + Verbo² + Objeto
 
@@ -168,21 +168,21 @@ La oración eje es una estructura común en Pandunia.
 
 Recordemos que se permite dejar por fuera pronombres que se conocen en el contexto. En otras palabras, el hablante puede asumir con seguridad que los oyentes saben de lo que él o ella está hablando. Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se pueden hacer frases más cortas. 
 
-> **mi bite ti salam ta.** = Yo te pido digas hola a él.
-> **bite salam ta.** = Por favor dile hola.
+> **mi tcing ti salam ta.** = Yo te pido digas hola a él.
+> **tcing salam ta.** = Por favor dile hola.
 
-¿Vea cómo la traducción de **bite** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
+¿Vea cómo la traducción de **tcing** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
-La frase **bite salam ta** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
+La frase **tcing salam ta** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
 
-> **bite sit.** = Por favor sientese.  
-> **bite dar kafe.** = Por favor me da un poco de café.  
-> **bite dar tca.** = Por favor me da un poco de té.  
-> **bite yem tca.** = Por favor tiene algo de té.  
-> **bite saf kamar.** = Por favor limpie la habitación.  
+> **tcing sit.** = Por favor sientese.  
+> **tcing dar kafe.** = Por favor me da un poco de café.  
+> **tcing dar tca.** = Por favor me da un poco de té.  
+> **tcing yem tca.** = Por favor tiene algo de té.  
+> **tcing saf kamar.** = Por favor limpie la habitación.  
 
 <!--
-Las ordenes son introducidas con **koman** = ordenar. Se utiliza la misma estructura eje como para pedir con **bite**.
+Las ordenes son introducidas con **koman** = ordenar. Se utiliza la misma estructura eje como para pedir con **tcing**.
 
 **koman dar tca.** = ¡Deme un poco de té!
 **koman saf kamar.** = ¡Limpie la habitación!
@@ -205,15 +205,15 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**tca** té. **bite** pedir, solicitar; por favor. **dar** dar. **danke** gracias. **i** y. **kafe** café. **kamar** room. <!-- **koman** to command. --> **u** o. **saf** limpiar. **sit** estar sentado. **yem** beber, comer.
+**tca** té. **tcing** pedir, solicitar; por favor. **dar** dar. **danke** gracias. **i** y. **kafe** café. **kamar** room. <!-- **koman** to command. --> **u** o. **saf** limpiar. **sit** estar sentado. **yem** beber, comer.
 
 
 ### Respuestas
 
 1. ta yem tca.
-2. cef bite ta sit.
-3. bite yem kafe o tca.
-4. mama bite mi saf kamar.
+2. cef tcing ta sit.
+3. tcing yem kafe o tca.
+4. mama tcing mi saf kamar.
 5. cef sit i yem kafe.
 
 
@@ -242,7 +242,7 @@ Preguntas de Sí o No
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **bite**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **kia** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **tcing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **kia** = preguntar.
 
 > **mi kia ti yem tca.** = Yo preguntarte, tomas té.  
 > **kia ti yem tca?** = ¿Bebes tú té?  
@@ -318,9 +318,9 @@ En la lección anterios apredimos a responder con **ye** y **no**. La palabra **
 
  Conceptualmente negación significa a ausencia de la palabra negada. En la frase **mi no salam ti** la palabra **no** niega la existencia de **salam** (saludo). En Pandunia la palabra negativa ne se aplica a la palabra que la sigue. Ya que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-> **mi bite ti saf kamar.** = Yo te pedi limpiar la habitación.  
-> **mi no bite ti saf kamar.** = Yo no te pedi limpiar la habitación.  
-> **mi bite ti no saf kamar.** = Yo te pedi no limpiar la habitación.  
+> **mi tcing ti saf kamar.** = Yo te pedi limpiar la habitación.  
+> **mi no tcing ti saf kamar.** = Yo no te pedi limpiar la habitación.  
+> **mi tcing ti no saf kamar.** = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 

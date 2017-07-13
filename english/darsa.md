@@ -148,12 +148,12 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! bite sit.** = Hello! Please sit!  
+☺: **salam! tcing sit.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **bite yem kafe u tca.** = Please have some coffee or tea.  
+☺: **tcing yem kafe u tca.** = Please have some coffee or tea.  
 ☻: **mi yem tca. danke.** = I will have some tea, thank you.  
 ...
-☺: **bite salam ti ge mama!** = Please tell greetings to your mother.  
+☺: **tcing salam ti ge mama!** = Please tell greetings to your mother.  
 ☻: **mi salam ta. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
@@ -162,9 +162,9 @@ Making requests
 
 Pandunia's personal pronouns are: **mi** = I, **ti** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
-> **mi bite ti salam ta.** = I ask you to say hello to him/her.
+> **mi tcing ti salam ta.** = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **bite** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salam** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
+This sentence has a _pivot structure_. The first verb, **tcing** = to request, addresses **ti** as its object. At the same time **ti** serves also as the subject of the second verb, **salam** = to greet, whose object is **ta**. So **ti** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -172,22 +172,22 @@ The pivot structure is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in the context. In other words the speaker can safely assume that the listeners know who he or she is talking about. So it is unnecessary to keep on repeating them. In this manner phrases can be made shorter.
 
-> **mi bite ti salam ta.** = I ask you to say hello to him/her.  
-> **bite salam ta.** = Please say hello to him/her.
+> **mi tcing ti salam ta.** = I ask you to say hello to him/her.  
+> **tcing salam ta.** = Please say hello to him/her.
 
-See how the translation of **bite** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
+See how the translation of **tcing** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
 
-The phrase **bite salam ta** has a useful pattern that can be used for making polite requests.
+The phrase **tcing salam ta** has a useful pattern that can be used for making polite requests.
 
-> **bite sit.** = Please be seated.  
-> **bite dar kafe.** = Please give me some coffee.  
-> **bite dar tca.** = Please give me some tea.  
-> **bite yem tca.** = Please have some tea.
+> **tcing sit.** = Please be seated.  
+> **tcing dar kafe.** = Please give me some coffee.  
+> **tcing dar tca.** = Please give me some tea.  
+> **tcing yem tca.** = Please have some tea.
 
 <!--
-> **bite saf kamar.** = Please clean the room.
+> **tcing saf kamar.** = Please clean the room.
 
-Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **bite**.
+Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **tcing**.
 
 > **koman dar tca.** = Give (me) some tea!  
 > **koman saf kamar.** = Clean the room!
@@ -211,15 +211,15 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**tca** tea. **bite** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **sit** to sit. **yem** to eat or drink.
+**tca** tea. **tcing** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **sit** to sit. **yem** to eat or drink.
 
 
 ### Answers to the Exercises
 
 1. ta yem tca.
-2. cef bite ta sit.
-3. bite yem kafe o tca.
-4. mama bite mi saf kamar.
+2. cef tcing ta sit.
+3. tcing yem kafe o tca.
+4. mama tcing mi saf kamar.
 5. cef sit i yem kafe.
 
 
@@ -247,7 +247,7 @@ Yes or no questions
 
 ### Asking questions
 
-Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **bite**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
+Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **tcing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
 > **mi kia ti yem tca.** = I ask (do) you drink tea.  
 > **kia ti yem tca?** = Do you drink tea?  
@@ -328,9 +328,9 @@ In the previous lesson you learned to answer **ye** and **no** to questions. The
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salam ti** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi bite ti saf kamar.** = I ask you to clean the room.  
-> **mi no bite ti saf kamar.** = I do NOT ask you to clean the room.  
-> **mi bite ti no saf kamar.** = I ask you NOT to clean the room.
+> **mi tcing ti saf kamar.** = I ask you to clean the room.  
+> **mi no tcing ti saf kamar.** = I do NOT ask you to clean the room.  
+> **mi tcing ti no saf kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.

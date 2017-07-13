@@ -140,12 +140,12 @@ Personal pronouns like **mi**, **ti** and **ta** don't always need **e** after t
 ### Диалог
 
 ☻: **salam!** = Привет!  
-☺: **salam! bite sit.** = Привет! Пожалуйста, садись!  
+☺: **salam! tcing sit.** = Привет! Пожалуйста, садись!  
 ☻: **danke.** = Спасибо.  
-☺: **bite yem kafe o tca.** = Пожалуйста, пей кофе или чай.  
+☺: **tcing yem kafe o tca.** = Пожалуйста, пей кофе или чай.  
 ☻: **mi yem tca. danke.** = Я попью чай, спасибо.  
 ...
-☺: **bite salam ti ge mama!** = Пожалуйста, передавай привет твоей маме.  
+☺: **tcing salam ti ge mama!** = Пожалуйста, передавай привет твоей маме.  
 ☻: **mi salam ta. salam!** = Я поприветствую её. Пока!  
 ☺: **salam!** = Пока!
 

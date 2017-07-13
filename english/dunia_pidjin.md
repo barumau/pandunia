@@ -166,7 +166,7 @@ The verb **bei** is used when the object of an action comes first in the sentenc
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi bite ta yem kafe.
+    Pandunia:  mi tcing ta yem kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 
