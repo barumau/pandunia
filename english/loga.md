@@ -211,6 +211,7 @@ As you can see, the same word is written and pronounced differently in different
 | Hindi      | kətna        | काटना           |
 | Bangla     | kata         | কাটা                |
 | Swahili    | kata         | kata            |
+| Wu Chinese | kɐʔ          |  |
 | Vietnamese | kɐʔt         | cắt             |
 
 

@@ -1,6 +1,23 @@
 Common Words
 ============
 
+## Opposites
+
+**Fan** is a word that reverses the meaning of the following word.
+
+> **fan bon** - ungood (bad)  
+> **fan mol** - unsoft (hard)  
+> **fan suk** - dislike  
+
+It's acceptable to use **fan** even if there is already a word that means the opposite thing.
+
+> **long** - long  
+> **duan** - short  
+> **fan long** - unlong (short)  
+> **fan duan** - unshort (long)  
+
+
+
 ## Correlatives
 
 > Correlatives are the words used to ask questions which require specific answers -- the "who, what, when, where, how" of a language, and their general answers ("there, here, everywhere, nowhere, somewhere").  
