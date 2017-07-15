@@ -7,6 +7,12 @@ Usein kysyttyjä kysymyksiä
 
 Tällä hetkellä panduniaa osaa muutama kymmenen harrastajaa. Sitä opetellaan pikemmin huvin kuin hyödyn vuoksi.
 
+#### Miten voin edistää pandunian leviämistä?
+
+Opiskele panduniaa! Puhu sitä muiden kanssa! Kerro siitä muille! Kirjoita juttuja, tee videoita, podcasteja, musiikkia jne.
+
+Voit myös auttaa tämän internetsivuston kanssa kääntämällä sen toiselle kielelle, täydentämällä tai korjaamalla virheitä. Tämän sivuston sisältö on tallessa [GitHubissa](https://github.com/barumau/pandunia). Voit myös lähettää korjauksia ja ehdotuksia sähköpostilla osoitteeseen risto@pandunia.info
+
 #### Milloin pandunia on luotu?
 
 Pandunian tekijät alkoivat työskennellä yhdessä vuonna 2005. Alusta lähtien päämääränä oli luoda kansainvälinen apukieli, joka olisi maailmanlaajuisesti tasapuolinen. Kehityksen aikana on kokeiltu monia eri lähestymistapoja ja ratkaisuja. Nimi _pandunia_ keksittiin jo vuonna 2007, mutta kieli alkoi saada lopullisen muotonsa vasta vuoden 2016 kuluessa – tosin kielethän kehittyvät koko ajan!

@@ -7,6 +7,12 @@ Frequently Asked Questions
 
 Currently speakers of Pandunia are counted in tens. It is still a very new language.
 
+#### How can I help to spread Pandunia?
+
+Learn Pandunia! Speak it with others! Talk about it with others! Write stories or articles, make videos, podcasts, music, etc.
+
+You can also help with this website by translating content and correcting mistakes. Contents ("source code") of this website are stored in [GitHub](https://github.com/barumau/pandunia). You can also send changes by email to risto@pandunia.info
+
 #### When was Pandunia created?
 
 Creators of Pandunia began to create a language together first in 2005. Since the beginning the basic idea was to create an evenly global auxiliary language. Many different structures and ideas were tried over the years. The name _Pandunia_ was invented already in 2007 but the language got its "final" form in 2016 – though of course languages evolve all the time!
