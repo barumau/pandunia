@@ -29,6 +29,7 @@ anten : antenna
 anus : anus  
 ara : saw tool  
 arabi : Arabic  
+aranji : orange (fruit)  
 arbuz : watermelon  
 arena : arena (stadium)  
 armi : army  
@@ -401,6 +402,7 @@ guang : light (illumination)
 guatemala : Guatemala  
 gubu : hippopotamus  
 gun : quality (attribute, property, characteristic, -ness)  
+gung fu : kung fu  
 guru : guru (mentor)  
 gusta : taste (sense the flavor)  
 gut : bone  
@@ -424,6 +426,7 @@ hat : hand
 hata : even (intensifier)  
 hawa : air  
 hazar : hazard (random)  
+he : huh? (pardon?)  
 helen : Greek (Hellenic)  
 helmet : helmet  
 hen : very  
@@ -455,6 +458,7 @@ idea : idea
 igen : opinion (view)  
 iha : donkey (ass)  
 imper : empire  
+imper xan : emperor  
 in : inside (interior)  
 incala : hope (wish)  
 indji : ginger  
@@ -923,6 +927,7 @@ pasa : pass (transfer, hand over)
 paskal : pascal  
 pat : path  
 paunde : pound (£)  
+paus : pause (break, interrupt)  
 peca : job (occupation)  
 ped : foot  
 pei : pay (payment)  
@@ -1007,6 +1012,7 @@ rasti : grow
 ratib : order (arrange)  
 razon : reason (rational thinking)  
 re : again  
+re kar : repeat  
 rebel : rebellion  
 redi : ready (prepare)  
 repor : report (recount, relate)  
@@ -1108,7 +1114,7 @@ sofa : sofa (couch)
 sofi : wise  
 sok : search (seek)  
 sol : only (just)  
-son : sleep (dream)  
+son : sleep  
 son kamar : bedroom  
 soni : sound  
 sos : sauce  
@@ -1122,6 +1128,7 @@ suba : morning
 suba den : forenoon  
 suba salam : Good morning  
 suba yem : breakfast  
+suci : sushi  
 sud : south  
 sudafrika : South Africa (republic)  
 sudan : Sudan  
@@ -1303,6 +1310,7 @@ wadi : canyon (gulch, gorge)
 waf : dog  
 waha : oasis  
 wai : outside (exterior)  
+wai gok : foreign country  
 wai ting wazir kan : ministry of foreign affairs  
 wakil : represent (to)  
 wan : bowl (earless cup)  
@@ -1354,6 +1362,7 @@ yo ting : something
 yod : iodine  
 yoga : yoga  
 yoni : vagina  
+yosai : fortress (stronghold)  
 yumor : humor  
 yung : use (employ)  
 yungam : brave (courageous)  
