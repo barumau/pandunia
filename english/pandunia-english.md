@@ -1,4 +1,5 @@
 ##a  
+
 abit : live (reside, inhabit)  
 adres : address  
 adulte : adult  
@@ -51,7 +52,9 @@ aventur : adventure
 ax : argh!  
 ayiti : Haiti  
 a : ah!  
+
 ##b  
+
 baca : language  
 baca logi : linguistics  
 bad : bad (not good)  
@@ -157,7 +160,9 @@ bunduk : rifle
 bus : bus  
 buton : key (push-button)  
 buton paban : keyboard  
+
 ##c  
+
 cabi : key  
 caca : rustle  
 cak : doubt (disbelief)  
@@ -195,7 +200,9 @@ cok : shock (collide)
 corab : sock (stocking)  
 culi : repair (fix)  
 cup : suck  
+
 ##d  
+
 dado : die (dice)  
 daftar : register  
 dai : big  
@@ -280,7 +287,9 @@ dunia : world
 dunia baca : world language  
 dur : last (take time)  
 dzayer : Algeria  
+
 ##e  
+
 eglis : church  
 ekran : screen  
 ekuador : Ecuador  
@@ -293,6 +302,7 @@ eris : Eris (dwarf planet)
 eritra : Erithrea  
 espanya : Spain  
 esti : Estonia  
+nov log : new word  
 eurasia : Eurasia  
 euro : euro  
 europa : Europe  
@@ -348,7 +358,9 @@ ful : full
 fung : wind  
 funsi : function (to work)  
 futur : future  
+
 ##g  
+
 gabar : grave (tomb)  
 gadja : elephant  
 galeri : gallery (exhibition hall)  
@@ -407,7 +419,9 @@ gung fu : kung fu
 guru : guru (mentor)  
 gusta : taste (sense the flavor)  
 gut : bone  
+
 ##h  
+
 ha : have  
 haha : laugh  
 hai : still (yet)  
@@ -453,7 +467,9 @@ huli : fox
 humus : chickpea  
 humus sos : hummus  
 hura : hooray (cheer)  
+
 ##i  
+
 ibri : Hebrew  
 idea : idea  
 igen : opinion (view)  
@@ -480,7 +496,9 @@ italia : Italy
 itiopia : Ethiopia  
 izi : easy  
 i : and  
+
 ##j  
+
 ja : already (done)  
 jadi : if (suppose, assume)  
 jaket : jacket  
@@ -629,7 +647,9 @@ kuran : Quran (Koran)
 kursi : chair  
 kurva : curve  
 kusen : cushion (pillow)  
+
 ##l  
+
 lab : lip  
 laba : horn (bugle)  
 lad : load (to charge)  
@@ -685,7 +705,9 @@ lun : argument (thesis)
 luna : moon  
 lusun : asparagus  
 lut : rob (loot)  
+
 ##m  
+
 ma : mother  
 macin : machine  
 madju : harness  
@@ -828,7 +850,9 @@ mus : must
 musik : music  
 musik nik : music fan  
 muskul : muscle  
+
 ##n  
+
 na : at (in, on)  
 na cia : below (under)  
 na dur de : while (during)  
@@ -887,7 +911,9 @@ numer : number
 numer un : first (number one)  
 nun : now  
 nuton : newton (N)  
+
 ##o  
+
 okei : okay (acceptable)  
 oksi : oxygen  
 oma : grandmother  
@@ -899,7 +925,9 @@ orgazme : orgasm
 oskur : dark (dim)  
 osteraix : Austria  
 o : oh!  
+
 ##p  
+
 pa : father  
 paban : board (plank)  
 pagri : turban  
@@ -1005,7 +1033,9 @@ puru : feather
 putau : grape  
 putong : common (universal)  
 putong han : Mandarin Chinese (Putonghua)  
+
 ##r  
+
 radio : radio  
 ramazan : Ramadan  
 randa : plane (plane tool)  
@@ -1047,7 +1077,9 @@ ruk sak : backpack (rucksack)
 rup : appearance (looks)  
 ruski : Russian (ethnic Russian)  
 rutin : routine  
+
 ##s  
+
 sa : this or that  
 sa djin : this (this over here)  
 sa far : that (that over there)  
@@ -1152,7 +1184,9 @@ surya : sun
 suxa : dry  
 svenska : Sweden  
 svis : Switzerland  
+
 ##t  
+
 ta : he or she or it  
 tabak : tobacco  
 tabar : axe (hatchet)  
@@ -1251,7 +1285,9 @@ tunis : Tunisia
 tur : tour (trip)  
 turki : Turkey  
 tuzi : rabbit (hare)  
+
 ##u  
+
 udas : sad  
 ukrayina : Ukraine  
 ulu : howling  
@@ -1266,7 +1302,9 @@ urdun : Jordan
 uruguai : Uruguay  
 usa : USA  
 u : or  
+
 ##v  
+
 vaksin : vaccine  
 vale : valley  
 vanila : vanilla  
@@ -1305,7 +1343,9 @@ vol : want (desire)
 volta : volt  
 vos : voice  
 vot : vote  
+
 ##w  
+
 wa : wow! (gee!)  
 wac : wash  
 wac macin : washing machine  
@@ -1328,7 +1368,9 @@ weste : west
 wiki : wiki  
 win : win (victory)  
 wing : wing  
+
 ##x  
+
 xabar : news  
 xabar gazet : newspaper (gazette)  
 xali : empty  
@@ -1345,7 +1387,9 @@ xerub : cherub
 xiyar : cucumber  
 xolera : cholera  
 xor : choir (chorus)  
+
 ##y  
+
 yad : memory  
 yak : yak  
 yakin : certain (sure)  
@@ -1371,7 +1415,9 @@ yumor : humor
 yung : use (employ)  
 yungam : brave (courageous)  
 yureka : find (discover)  
+
 ##z  
+
 zafran : saffron  
 zaitun : olive  
 zalim : mean (cruel)  
@@ -1391,3 +1437,4 @@ zon : belt (zone)
 zukam : cold (illness)  
 zulu : Zulu  
 zumrud : emerald  
+
