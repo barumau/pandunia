@@ -68,6 +68,7 @@ balu : sand
 bama : Myanmar (Burma)  
 bambu : bamboo  
 ban : child (offspring)  
+ban ge lau : parents  
 bana : build (construct)  
 banan : banana  
 banda : band (bandage)  
@@ -685,6 +686,7 @@ luna : moon
 lusun : asparagus  
 lut : rob (loot)  
 ##m  
+ma : mother  
 macin : machine  
 madju : harness  
 madyar : Hungary  
@@ -705,7 +707,7 @@ mal : property (possession)
 malaisia : Malaysia  
 malaria : malaria  
 mam : breast (boob)  
-mama : mother  
+mama : mother (mom)  
 man : man (male)  
 mana : mean (signify)  
 manga : comic (cartoon)  
@@ -775,6 +777,7 @@ mexiko : Mexico
 meza : table  
 mi : I (me)  
 mi ge : my  
+mi ge lau : my parents  
 mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
@@ -897,6 +900,7 @@ oskur : dark (dim)
 osteraix : Austria  
 o : oh!  
 ##p  
+pa : father  
 paban : board (plank)  
 pagri : turban  
 pai : pie (pastry)  
@@ -915,7 +919,7 @@ pang : thick (fat)
 panik : panic  
 pantalon : pants (trousers)  
 panyo : friend  
-papa : father  
+papa : father (dad)  
 papagai : parrot (parakeet)  
 papaya : papaya  
 paper : paper  

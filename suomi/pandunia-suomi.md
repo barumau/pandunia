@@ -30,6 +30,7 @@ anten : antenni
 anus : peräaukko (anus)  
 ara : saha  
 arabi : arabi  
+aranji : appelsiini  
 arbuz : vesimeloni (arbuusi)  
 arena : areena (stadioni)  
 armi : armeija  
@@ -402,6 +403,7 @@ guang : valo (loiste)
 guatemala : Guatemala  
 gubu : virtahepo  
 gun : piirre (laatu, ominaisuus)  
+gung fu : kungfu  
 guru : asiantuntija (guru)  
 gusta : maistaa (maku)  
 gut : luu  
@@ -425,6 +427,7 @@ hat : käsi
 hata : jopa  
 hawa : ilma  
 hazar : satunnainen (sattuma)  
+he : häh?  
 helen : Kreikka (helleeni)  
 helmet : kypärä  
 hen : hyvin (erittäin, sangen)  
@@ -456,6 +459,7 @@ idea : idea
 igen : mielipide (olla jtk mieltä)  
 iha : aasi  
 imper : imperiumi  
+imper xan : keisari  
 in : sisus  
 incala : toivoa  
 indji : inkivääri  
@@ -924,6 +928,7 @@ pasa : siirtää (syöttää)
 paskal : pascal  
 pat : polku  
 paunde : punta  
+paus : tauko (keskeytys, paussi)  
 peca : ammatti  
 ped : jalkaterä  
 pei : maksaa (maksu)  
@@ -1008,6 +1013,7 @@ rasti : kasvaa
 ratib : järjestää  
 razon : järki (päättely)  
 re : taas (uudestaan)  
+re kar : toistaa (tehdä uudestaan)  
 rebel : kapinoida (kapina)  
 redi : valmis (valmistautua)  
 repor : raportti (reportaasi)  
@@ -1123,6 +1129,7 @@ suba : aamu
 suba den : aamupäivä  
 suba salam : Hyvää huomenta!  
 suba yem : aamiainen (aamupala)  
+suci : sushi  
 sud : etelä  
 sudafrika : Etelä-Afrikan tasavalta  
 sudan : Sudan  
@@ -1304,6 +1311,7 @@ wadi : uoma (kanjoni)
 waf : koira  
 waha : keidas  
 wai : ulkopuoli  
+wai gok : ulkomaa  
 wai ting wazir kan : ulkoministeriö  
 wakil : edustaa  
 wan : kulho  
@@ -1355,6 +1363,7 @@ yo ting : jokin
 yod : jodi  
 yoga : jooga  
 yoni : vagina  
+yosai : linnoitus (linnake)  
 yumor : huumori  
 yung : käyttää (käyttö)  
 yungam : rohkea (uskalias, urhea)  
