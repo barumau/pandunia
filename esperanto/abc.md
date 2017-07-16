@@ -18,7 +18,7 @@ Oni rajtas skribi pandunion per nur minusklaj literoj. Sed, se oni volas, oni po
 Diftongoj
 ---------
 
-Diftongo (ĝemelvokalo) estas kunmeto de du vokaloj, kie prononco glitas el la unua vokalo al la dua en sama silabo. La plej oftaj diftongoj estas **ai, ei, au**.
+Diftongo (ĝemelvokalo) estas kunmeto de du vokaloj, kie prononco glitas el la unua vokalo al la dua en sama silabo. La plej oftaj diftongoj estas **ai, ei, au** (aj, ej, aŭ).
 
 
 Akcento
@@ -26,5 +26,6 @@ Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
-> **mí vól lóga komún báca yáni pandúnia.**
+> **dúnia e mimén ge sundár planét.**  
+> **mí vól lóga komún báca yáni pandúnia.**  
 
