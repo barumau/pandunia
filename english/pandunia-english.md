@@ -123,8 +123,6 @@ bin : pot (bin)
 bir : beer  
 bis : kiss  
 biskut : biscuit (cookie)  
-bite lai : invite  
-bite lai in! : Come in!  
 bizar : weird (strange)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
@@ -1227,6 +1225,8 @@ tceska : Czech
 tcile : Chile  
 tcili : bell pepper  
 tcing : ask (request; please)  
+tcing lai : invite  
+tcing lai in! : Come in!  
 tcip : Albania  
 tcis : cheese  
 tcoda : fuck  

@@ -3,9 +3,10 @@ cat english/pandunia-english.md | sed '/^#/ d' > temp/temp2.txt
 cat temp/temp2.txt temp/alfahead.txt > temp/temp.txt
 awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > english/english-pandunia.md
 sed 's/_//g' -i english/english-pandunia.md
+sed 's/$/  /' -i english/english-pandunia.md
 
 #Tiddly dictionary
-cp english/wordlist.txt temp/temp.txt
+cp english/pandunia-english.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
 
