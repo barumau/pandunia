@@ -692,7 +692,7 @@ liber : free (unchained)
 lici : lychee (litchi)  
 lid : lead (direct)  
 lietuva : Lithuania  
-lig : connect (join, link)  
+liga : connect (join, link)  
 lilak : lilac  
 lili : lily  
 lim : five (5)  
@@ -905,7 +905,7 @@ nikaragua : Nicaragua
 nilon : nylon  
 nipon : Japan  
 nitro : nitrogen  
-nix : niche (alcove)  
+nixa : niche (alcove)  
 no : no (not)  
 noce : night  
 noi : nine (9)  
@@ -1339,7 +1339,7 @@ vot : vote
 ##w  
 
 wa : wow! (gee!)  
-wad : promise (commitment)  
+wada : promise (commitment)  
 wadi : canyon (gulch, gorge)  
 waf : dog  
 waha : oasis  

@@ -6,7 +6,8 @@ adres ←
 adulte ← frans:adulte englix:adult espanya:portugal:adulto  
 afrika ←   
 agres ←   
-aha ←   
+ah ← doitc:ach farsi:ahh  
+aha ← ruski:aha   
 ai ← portugal:ai espanya:ay putonghan:āi  
 aina ←   
 aka ← (man) uzbek:aka swahili:kaka arab:ʾaḵ | (fem) kan:tamil:telugu:akka  
@@ -24,7 +25,7 @@ amor ← portugal:espanya:amor frans:amour
 amper ←   
 amuk ← indonesia:may:amuk englix:amuck,amok  
 analis ← espanya:análisis englix:analysis ruski:turki:analiz doitc:frans:analyse italia:analisi  
-andjil ← arab:hindi:urdu:injīl indonesia:injil farsi:enjil turki:incil swahili:injili frans:évangile portugal:evangelho italia:vangelo  
+anjil ← arab:hindi:urdu:injīl indonesia:injil farsi:enjil turki:incil swahili:injili frans:évangile portugal:evangelho italia:vangelo  
 anime ← nipon:anime  
 anma ← tamil:ānmā hindi:ātmā espanya:portugal:alma  
 anten ←   
@@ -36,7 +37,7 @@ arbuz ← ruski:arbuz hindi:urdu:tarbūz farsi:xarbuz turki:karpuz
 arena ←   
 armi ← frans:armée doitc:Armei ruski:armiya englix:army hindi:urdu:ārmī  
 arte ← frans:portugal:espanya:arte englix:art  
-arxentina ←   
+argentina ←   
 asal ← arab:farsi:hindi:urdu:asl indonesia:asal  
 asan ← hindi:āsan englix:doitc:ruski:asana  
 asia ←   
@@ -50,19 +51,17 @@ audi ← italia:udire englix:audio-
 australia ←   
 avar ← portugal:italia:avaria frans:avarie ruski:avariia espanya:avería doitc:Havarie ← arab:cawār  
 aventur ← portugal:espanya:aventura frans:aventure ruski:avantiura englix:adventure doitc:Abenteuer  
-ax ← doitc:ach farsi:ahh  
 ayiti ←  
 
 ## b
  
-baca ← hindi:urdu:bhāśā thai:phasa indonesia:bahasa  
-baca logi ←   
+baxa ← hindi:urdu:bhāśā thai:phasa indonesia:bahasa  
 bad ← pas:farsi:hindi:urdu:englix:bad kur:bed  
 bada ← arab:baʿda farsi:ba’d hindi:urdu:bād swahili:baada  
 badal ← arab:baddala swahili:badili hausa:badali farsi:badal hindi:urdu:badalnā  
 badam ← farsi:badam tamil:telugu:badamu  
 badan ← arab:farsi:hindi:urdu:indonesia:badan englix:body turki:beden + amara:bädən  
-bagaj ← turki:bagaj portugal:bagagem espanya:bagaje frans:bagage englix:baggage ruski:bagaž indonesia:bagasi bangla:bægej  
+bagaje ← turki:bagaj portugal:bagagem espanya:bagaje frans:bagage englix:baggage ruski:bagaž indonesia:bagasi bangla:bægej  
 bai ← putonghan:bái  
 bal ← hindi:urdu:bal telugu:balamu bangla:bål mal:balam guj:marati:baL  
 baldi ← portugal:espanya:balde hindi:urdu:bālTī  
@@ -139,12 +138,12 @@ botol ← bangla:indonesia:botol englix:bottle ruski:butylka
 boton ← espanya:botón englix:button frans:bouton portugal:botão hindi:urdu:baTan nipon:botan telugu:bottāmu bangla:botam  
 brazil ←   
 britan ←   
-broc ← englix:brush hindi:urdu:braš portugal:espanya:brocha frans:brosse farsi:boros nipon:swahili:burashi hanguk:beureoši amara:bruš mal:berus arab:furša  
+brox ← englix:brush hindi:urdu:braš portugal:espanya:brocha frans:brosse farsi:boros nipon:swahili:burashi hanguk:beureoši amara:bruš mal:berus arab:furša  
 brun ←   
 buda ←   
 budan ← tamil:budan hindi:urdu:budh telugu:budhuvu thai:phut bama:boudə  
 budi ← hindi:urdu:buddh indonesia:budi  
-budjet ← doitc:englix:frans:budget ruski:biudžet amara:baǧät indonesia:bujet farsi:budje turki:bütçe  
+bujet ← doitc:englix:frans:budget ruski:biudžet amara:baǧät indonesia:bujet farsi:budje turki:bütçe  
 buk ← englix:book indonesia:swahili:buku som:buug zulu:bhuku  
 bul ← bangla:hindi:urdu:bhūl + frans:oublier  
 bumi ←   
@@ -156,46 +155,42 @@ buton paban ← indonesia:papan ketik putonghan:jiànpán englix:keyboard
 
 ## c
 
+ca ← putonghan:chá nipon:hanguk:cha portugal:chà hindi:urdu:ruski:čay  
+ca wan ← indonesia:cawan putonghan:cháwǎn nipon:chawan  
 cabi ← fula:wol:caabi hindi:urdu:cābī portugal:chave telugu:sāvi  
-caca ← putonghan:shāshā  
-cak ← arab:šakk farsi:šak urdu:śakk swahili:shaka  
-cakal ← espanya:portugal:frans:chacal ruski:šakal turki:çakal farsi:šoğāl englix:jackal  
-cal ← englix:doitc:ruski:frans:espanya:portugal:arab:turki:indonesia:farsi:hindi:urdu:nipon:hanguk:  
-cam ← hindi:urdu:śām farsi:akšam  
-caman ← englic:shaman rus:šaman  
-camba ← swahili:shamba + frans:champ (espanya:portugal:campo)  
+cabuk ← hindi:urdu:cābuk indonesia:cambuk bama:cabu'  
+cakra ← thai:bama:čak bangla:cākā hindi:kan:cakra telugu:cakramu  
 campion ← frans:champion amara:turki:şampiyon englix:champion nipon:chanpion hanguk:čæmpieon ruski:čempion espanya:campeón  
-can ← putonghan:shān nipon:hanguk:san  
-cani ← hindi:bangla:urdu:tamil:telugu:śani bama:səne  
 cans ← englix:frans:chanse ruski:šans turki:şans  
-canti ← bangla:hindi:urdu:śanti thai:santi  
-carbon ← frans:charbon  
-caria ← arab:šarī'a farsi:šari'at turki:şerîat indonesia:syariat bangla:šåriya hindi:urdu:śariyat englix:espanya:sharia frans:charia ruski:šariat  
-catan ←   
+cap ← indonesia:cap hindi:urdu:farsi:chāp  
+car ← hindi:urdu:bangla:cār  
+cat ← englix:chat nipon:chatto ruski:čat hindi:cEṭ  
+catar ← bangla:chata hindi:urdu:chātā khmer:čhat farsi:čatr kan:marati:panjabi:chatri tat:čatir bolgar:čadar  
+karbon ← frans:charbon  
 catur ← mon:šatar indonesia:catur hindi:śatranj  
-cau ← putonghan:shǎo  
-ce ← putonghan:shì + egy:še' arab:šay turki:şey  
-cef ←   
+caya ← bangla:hindi:cāyā tamil:telugu:cāya orm:caaya farsi:sayeh  
+cek ← englix:check portugal:checar doitc:checken  
+celo ←   
 centi ←   
-cia ← putonghan:xià  
-cifu ← putonghan:shīfu yuthan:sifu  
-cigo ← putonghan:shìgù hanguk:sago nipon:jiko  
-cik ← frans:englix:chic turki:şık farsi:šik nipon:shikku na  
-cim ← hanguk:šim hak:sim putonghan:xīn nipon:shinzō  
-cin ← putonghan:xìn hanguk:nipon:shin  
-cir ← arab:šiʿr turki:şiir farsi:urdu:še'r swahili:shairi + putonghan:shī nipon:shi hanguk:ši  
-cirop ← portugal:xarope frans:ruski:sirop turki:şurup amara:šurop  
-cok ← frans:choc espanya:portugal:choque englix:shock turki:şok  
+ceska ←   
+cile ←   
+cili ← nahuatl:chīlli espanya:chile englix:doitc:hanguk:portugal:chili nipon:chiri  
+cing ← putonghan:qǐng yuthan:cing wuu:qin  
+cis ← englix:cheese putonghan:qĭsī swahili:chizi  
+coda ← bangla:coda hindi:urdu:codnā  
+cokolat ←   
 corab ← arab:egy:šurrab farsi:urdu:jurāb turki:çorap ron:ciorap  
-culi ← putonghan:xiūlǐ hanguk:suri nipon:shuuri wuu:xiuli  
+cuka ← indonesia:cuka putonghan:cù hanguk:cho nipon:su  
 cup ← bama:cup portugal:espanya:chupar  
-dado ← portugal:espanya:tagalog:dado indonesia:swahili:dadu  
-daftar ← arab:farsi:indonesia:daftar turki:defter amara:däbtär  
-dai ← yuthan:daai putonghan:dà,dài viet:đại nipon:dai- hanguk:dae-  
-daici ←   
+curi ← bangla:indonesia:curi hindi:urdu:corī  
+cuti ← hindi:urdu:chuTTī indonesia:cuti  
 
 ## d
 
+dado ← portugal:espanya:tagalog:dado indonesia:swahili:dadu  
+daftar ← arab:farsi:indonesia:daftar turki:defter amara:däbtär  
+dai ← yuthan:daai putonghan:dà,dài viet:đại nipon:dai- hanguk:dae-  
+daixi ← nipon:taishi putonghan:dàshǐ   
 dama ← arab:dāmā amara:swahili:turki:dama frans:dames espanya:portugal:damas viet:cờ đam indonesia:dam  
 dane ← farsi:dāne turki:nipon:tane hindi:urdu:dānā  
 danke ← doitc:Danke afr:dankie ukr:tceska:polska: englix:thank hindi:dhanyavad  
@@ -223,23 +218,12 @@ deng ← putonghan:děng min:dêng
 des ← portugal:dez ruski:děsyat' hindi:urdu:das  
 desen ← frans:dessin portugal:desenho italia:disegno ron:desen + turki:desen polska:deseń  
 detal ← portugal:detalhe espanya:detalle frans:détail englix:detail ruski:detal'  
-dev ← hindi:urdu:devtā indonesia:dewa portugal:deus  
+deva ← hindi:urdu:devtā indonesia:dewa portugal:deus  
 deya ← arab:ḍayʿa portugal:aldeia espanya:aldea + taj:deha farsi:deh + indonesia:jav:désa  
 dian ← guj:marati:hindi:bangla:dhyān urdu:dhiyān  
 din ← arab:urdu:dīn farsi:turki:din swahili:dini hausa:addini  
 ding ← putonghan:dīng viet:đinh yuthan:deng  
 diske ←   
-djang ← farsi:hindi:urdu:uzbek:jang putonghan:zhànzhēng  
-djangal ← farsi:urdu:jangal bangla:jångål + englix:jungle …  
-djara ← espanya:portugal:jarra arab:jara englix:jar  
-djeb ← hindi:urdu:jeb turki:cep farsi:jib hun:zseb  
-djen ← hindi:kan:panjabi:janma bangla:jånmå mal:jananam + gre:genna englix:genesis + putonghan:shēng  
-djidju ← putonghan:zhizhu hanguk:jiju wuu:zizi  
-djin ← putonghan:jìn wuu:jín  
-djong ← putonghan:zhǒng hanguk:jong yuthan:zung nipon:shu  
-djuca ← nipon:chushā hanguk:jusa putonghan:zhùshè  
-djudo ←   
-djungok ← putonghan:zhōngguǒ yuthan:zunggwok nipon:chūgoku indonesia:Tiongkok  
 do ← putonghan:dào wuu:dO yuthan:dou ruski:do  
 doc ← hindi:urdu:doš indonesia:dosa  
 doitc ← doitc:Deutsch  
@@ -247,7 +231,7 @@ dok ← putonghan:dú viet:đọc yuthan:duk wuu:do' hanguk:dok,du nipon:doku
 doktor ← ned:indonesia:dokter englix:doctor turki:doktor egy:duktūr swahili:daktari hindi:urdu:dāktar   
 dolar ←   
 dom ← ruski:dom englix:domestic frans: portugal: espanya:  
-dominica ←   
+dominika ←   
 domino ←   
 dong ← putonghan:dōng hanguk:dong viet:đông nipon:tō  
 dou ← putonghan:dòu yuthan:dau viet:đậu hanguk:-du nipon:-dō lao:thai:tua  
@@ -256,7 +240,7 @@ drama ←
 du ← bangla:dui hindi:urdu: hanguk:du indonesia:dua ruski:dva portugal:dois  
 dua ← arab:duʿāʾ farsi:do'ā urdu:du'ā turki:dua may:indonesia:doa kaz:duğa + espanya:portugal:rogar  
 duan ← viet:đoản putonghan:duǎn  
-duc ← doitc:Dusch frans:douche arab:farsi:ruski:duš turki:duş indonesia:dus portugal:duche espanya:ducha  
+dux ← doitc:Dusch frans:douche arab:farsi:ruski:duš turki:duş indonesia:dus portugal:duche espanya:ducha  
 duka ← hindi:urdu:duhkh thai:dúk bama:doʊʔkʰa  
 dul ← hindi:marati:dhūl thai:khmer:thulii zulu:uthuli  
 dum ← hindi:urdu:uzbek:dum farsi:dom bal:dumb  
@@ -340,12 +324,12 @@ futur ← englix:frans:future espanya:portugal:futuro
 ## g
 
 gabar ← arab:farsi:urdu:hindi:qabr bangla:kåbår + doitc:Grab englix:grave  
-gadja ← indonesia:gajah telugu:gajamu hindi:urdu:gaj tagalog:gadya  
+gaja ← indonesia:gajah telugu:gajamu hindi:urdu:gaj tagalog:gadya  
 galeri ←   
 gamel ← egy:gamal arab:jamal englix:camel  
 gami ← englix:marry frans:marier espanya:portugal:marito  
 gana ← hindi:urdu:gānā arab:ḡannā kan:gānamāḍu  
-gandja ← indonesia:ganja hindi:urdu:gāNjā tamil:kañcā thai:ganchaa  
+ganja ← indonesia:ganja hindi:urdu:gāNjā tamil:kañcā thai:ganchaa  
 gang ← putonghan:gāng  
 ganga ←   
 gar ← hindi:urdu:gāŗī bangla:gaŗi amara:swahili:gari orm:gaari + englix:car espanya:portugal:carro  
@@ -353,7 +337,7 @@ garam ← hindi:urdu:garm + englix:warm
 garanti ← englix:guarantee  
 gardin ← englix:garden + frans:espanya:jardin + ron:grădină  
 gas ← englix:gas nipon:gasu frans:ruski:gaz doitc: espanya: portugal:  
-gatci ← hanguk:gachi nipon:kachi yuthan:gaazik putonghan:jiàzhí viet:giá trị  
+gaci ← hanguk:gachi nipon:kachi yuthan:gaazik putonghan:jiàzhí viet:giá trị  
 gau ← putonghan:gāo viet:cao hanguk:go  
 gaun ← englix:gown indonesia:gaun swahili:gauni  
 gayana ←   
@@ -388,8 +372,8 @@ grimas ← englix:frans:grimace doitc:Grimasse ruski:grimasa polska:grymas
 grom ← ruski:grom tceska:hrom  
 grup ← turki:grup englix:group frans:groupe doitc:Gruppe ruski:gruppa farsi:goruh nipon:gurūpu hanguk:geurup  
 gua ← indonesia:gua jav:guwa bangla:guha marati:guhā hindi:urdu:gufā bama:gu  
-guanci ← putonghan:guānxì wuu:guexi hak:guanhe viet:quan hệ hanguk:gwangye  
 guang ← putonghan:guāng  
+guanxi ← putonghan:guānxì wuu:guexi hak:guanhe viet:quan hệ hanguk:gwangye  
 guatemala ←   
 gubu ← fula:ngabu soto:kubu lub:gubu kongo:ngubu/mvubu gan:envubu zulu:rwa:imvubu cona:mvuu amara:gumarre  
 gun ← hindi:guṇ khmer:thai:gun telugu:guṇamu  
@@ -401,6 +385,7 @@ gut ← hak:min:kut putonghan:gǔ yuthan:gwat nipon:kotsu hanguk:gol viet:cốt
 ## h
 
 ha ← portugal:há  
+habar ← arab:farsi:hindi:urdu:xabar bangla:khåbår swahili:habari indonesia:kabar  
 haha ← englix:hanguk:nipon:doitc:ruski:turki:viet:haha putonghan:hāhā arab:farsi:hāhā espanya:jaja  
 hai ← putonghan:hái  
 haide ← ron:haide bolgar:horvat:hajde turki:haydi ruski:ayda + viet:hãy  
@@ -408,20 +393,29 @@ hak ← arab:farsi:urdu:hindi:haqq turki:indonesia:hak swahili:haki hausa:hakki
 hakim ← arab:ḥakama swahili:hakimu turki:indonesia:hakim tagalog:hukom  
 hakim guru ←   
 hal ← arab:ḥala turki:hâl swahili:hali farsi:hālat  
+hali ← arab:farsi:hindi:urdu:xāli tamil:kali nipon:kara  
+halif ←   
 halo ← englix:hello doitc:hallo frans:allô turki:farsi:alo  
 hamak ← englix:hammock frans:hamac ruski:gamak turki:hamak nipon:hanmokku  
 hamar ← englix:doitc:hammer hausa:hamma nipon:hanmā  
 hamir ← swahili:hamira hindi:urdu:xamīr turki:hamur arab:xamīra farsi:moxammer  
+han ← hindi:urdu:xān ruski:xan englix:khan espanya:hanguk:nipon:kan putonghan:hán turki:han  
 handis ← arab:handasa + farsi:mohandes urdu:muhandis amara:mähandis turki:mühendis swahili:mhandisi  
 hanguk ←   
+harab ← bangla:kharap farsi:hindi:urdu:xarāb turki:harap  
 harmoni ←   
+has ← arab:xass farsi:urdu:hindi:xās indonesia:khas  
 hat ← bangla:hat hindi:urdu:hāth  
 hata ← arab:hatta swahili:hata portugal:até espanya:hasta  
+hatar ← arab:xaTar farsi:xatar hindi:urdu:xatrā swahili:hatari  
 hawa ← arab:hawā’ swahili:hewa turki:hava hindi:urdu:panjabi:marati:havā  
 hazar ← englix:hazard frans:hasard espanya:azar + arab:ḥaẓẓ + (dado) alb:bolgar:turki:zar  
+hazin ← hindi:urdu:xazin arab:xazīna farsi:xazine turki:hazine ruski:kazna  
 he ← frans:hein doitc:hä kongo:hanguk:nipon:espanya:e fin:häh  
 helen ←   
 helmet ← englix:hanguk:helmet doitc:indonesia:helm nipon:herumetto swahili:helmeti  
+hema ← swahili:hema arab:farsi:xaima hindi:urdu:hēmā indonesia:khemat  
+hen ← putonghan:hèn wuu:ħen viet:hận + frans:haine  
 hen ← putonghan:hěn  
 hewan ← arab:haywan turki:heyvan hindi:hEvān indonesia:kéwan  
 hibride ← espanya:portugal:híbrido indonesia:hibrida englix:hybrid ruski:gibrid doitc:frans:hybride  
@@ -431,6 +425,7 @@ himalia ← hindi:urdu:himālya
 hindu ←   
 hisab ← arab:ḥisab amara:hisab swahili:hisabu turki:hesap farsi:  
 histori ←   
+hiyar ← farsi:arab:xiyār turki:hıyar hindi:urdu:khīrā amara:kiyar  
 hobi ← englix:doitc:frans:espanya:hobby ruski:hobbi turki:indonesia:hobi  
 hoki ←   
 hon ←   
@@ -455,15 +450,15 @@ iha ←
 imper ← frans:englix:empire ruski:imperiya espanya:imperio  
 imper xan ←   
 in ← italia:doitc:englix:in espanya:en  
-incala ← arab:ʾinšāʾllāh turki:inşallah indonesia:insyallah portugal:oxalá espanya:ojalá  
-indji ← hindi:urdu:tamil:inji englix:ginger  
 indonesia ←   
 informa ← englix:inform espanya:informar doitc:informieren ruski:informirovat'  
 ingai ← putonghan:yīnggāi yuthan:jinggoi  
+inji ← hindi:urdu:tamil:inji englix:ginger  
 inspira ← italia:ispirazione englix:frans:doitc:inspiration  
 inter ←   
 interes ← ruski:espanya:interés portugal:italia:doitc:interesse englix:interest frans:intérêt  
 intervu ← englix:interview  
+inxala ← arab:ʾinšāʾllāh turki:inşallah indonesia:insyallah portugal:oxalá espanya:ojalá  
 irak ←   
 iran ←   
 islam ←   
@@ -481,23 +476,34 @@ jadi ← bangla:jôdi hindi:urdu:yadi + putonghan:jiǎdìng viet:giả định
 jaket ← englix:jacket putonghan:jiákè espanya:chaqueta farsi:žākat  
 jameika ←   
 janela ← portugal:janela bangla:janala tamil:cannal indonesia:jendéla  
+jang ← farsi:hindi:urdu:uzbek:jang putonghan:zhànzhēng  
+jangal ← farsi:urdu:jangal bangla:jångål + englix:jungle …  
 janu ← frans:genou farsi:zānu telugu:januvu  
+jara ← espanya:portugal:jarra arab:jara englix:jar  
+jeb ← hindi:urdu:jeb turki:cep farsi:jib hun:zseb  
 jele ← frans:gelée englix:jelly indonesia:selai  
 jelos ← englix:jealous espanya:celoso frans:jaloux tagalog:selos italia:geloso  
 jen ← putonghan:rén nipon:jin wuu:zən + frans:gens portugal:gente + hindi:jan  
+jen ← hindi:kan:panjabi:janma bangla:jånmå mal:jananam + gre:genna englix:genesis + putonghan:shēng  
 jeni ← frans:génie doitc:Genie portugal:gênio ruski:geniy  
 jentil ← espanya:portugal:frans:gentil englix:gentle  
 jeste ← italia:espanya:portugal:gesto frans:geste englix:gesture ruski:žest turki:jest  
+jiju ← putonghan:zhizhu hanguk:jiju wuu:zizi  
+jin ← putonghan:jìn wuu:jín  
 jiraf ← englix:giraffe arab:zarāfa turki:zürafa hindi:urdu:jirāf indonesia:jerapah  
 jiva ← ruski:živoi polska:żywy + hindi:urdu:jīvan khmer:jīwət thai:jīwit indonesia:jiwa  
 jiva logi ← swahili:biolojia englix:biology  
 joga ← portugal:jogar italia:giocare espanya:jugar frans:jouer  
 jok ← englix:joke nipon:jōku  
+jong ← putonghan:zhǒng hanguk:jong yuthan:zung nipon:shu  
 jovan ← farsi:hindi:urdu:javān italia:giovane portugal:jovem  
+judo ←   
 jumla ← arab:urdu:jumla farsi:jomle turki:cümle + putonghan:jù  
+jungok ← putonghan:zhōngguǒ yuthan:zunggwok nipon:chūgoku indonesia:Tiongkok  
 jung ← putonghan:róng yuthan:yung  
 jup ← frans:jupe egy:farsi:žūp  
 jus ← indonesia:frans:jus englix:juice swahili:jusi nipon:jūsu hanguk:juseu  
+juxa ← nipon:chushā hanguk:jusa putonghan:zhùshè  
 
 ## k
 
@@ -506,7 +512,7 @@ kabau ← ceb:kabaw tagalog:kalabaw indonesia:kerbau khmer:krabəy jav:kebo
 kabil ← englix:frans:capable arab:qabil farsi:qabel panjabi:kabal  
 kabila ← swahili:hausa:kabila turki:kabile arab:qabila farsi:qabile  
 kabin ←   
-kaca ←   
+kaca ← englix:catch italia:cacciare espanya:cazar  
 kafas ← arab:hindi:urdu:qafas turki:kafes wol:kaaf doitc:Käfig  
 kafe ← putonghan:kāfei espanya:portugal:frans:café doitc:kaffee englix:coffee ruski:kofe viet:cà phê  
 kafe kan ← turki:kahvehane hindi:kofīkhānā  
@@ -530,6 +536,7 @@ kanal ←
 kandi ← englix:candy hindi:kEndi nipon:kyandi  
 kanguru ←   
 kanun ← hindi:urdu:arab:farsi:kanūn turki:kanun + englix:canon  
+kaos ← ruski:xaos englix:frans:doitc:chaos espanya:portugal:caos  
 kap ← hun:kap turki:kapmak sve:kapa englix:capture espanya:capturar  
 kapa ← telugu:kappu turki:kapak + englix:cap + englix:cape  
 kapitan ←   
@@ -547,22 +554,23 @@ kastan ← portugal:castanha turki:kestane ruski:kaštan
 kat ← englix:cut hindi:urdu:katnā swahili:kata viet:cắt  
 kata ← nipon:kataru tamil:telugu:katha + indonesia:kata  
 katalunya ←   
-katca ← englix:catch italia:cacciare espanya:cazar  
 kati ← tamil:telugu:kan:mal:katti  
 kava ← portugal:espanya:cavar  
 kawai ← nipon:englix:kawaii putonghan:kǎwāyī  
+kaxa ← ruski:kaša   
 kazu ←   
 ke ← italia:che espanya:qué portugal:frans:que bangla:panjabi:ki  
 ke yang? ← thai:yang-ngai putonghan:zenmeyang  
+kecap ←   
+keci ← putonghan:kèqì  
 kek ← englix:cake amara:hindi:urdu:thai:turki:farsi:kek  
 kelele ← swahili:lingala:kongo:kelele  
 kemet ← coptic:Kēme  
 ken ← englix:can  
 kenar ← turki:kenar farsi:kenār hindi:urdu:kanārā bangla:kinar  
 kenya ←   
-ketcap ←   
-ketci ← putonghan:kèqì  
 ketel ← englix:kettle indonesia:ketel ruski:kotyol hindi:urdu:ketlī  
+kerub ← ibri:xeruv doitc:Cherub ruski:xeruvim amara:kirubel englix:cherub  
 kia ← hindi:urdu:kyā  
 kilo ←   
 kimi ←   
@@ -582,6 +590,7 @@ klub ← doitc:ruski:klub englix:frans:espanya:club portugal:clube turki:kulüp 
 kod ←   
 kok ← swahili:kuku rwa:inkoko + frans:coq englix:cock  
 koko ← englix:frans:espanya:coco doitc:ruski:kokos nipon:koko  
+kolera ←   
 kolombia ←   
 koloni ←   
 kolun ←   
@@ -600,6 +609,7 @@ kontinu ← englix:continue espanya:continuar polska:kontynuować
 konus ← ruski:tkm:konus turki:koni englix:cone espanya:cono  
 kop ← espanya:copa englix:cup nipon:kappu hindi:urdu:kap arab:kūb  
 kopi ← englix:copy indonesia:kopi  
+kor ← ruski:xor doitc:Chor englix:choir turki:koro portugal:espanya:coro frans:cœur hindi:koras  
 korne ← portugal:corno frans:corne arab:qarn englix:horn espanya:cuerno  
 kos ← putonghan:késou hindi:khānsī espanya:tos portugal:tosse kongo:koso-koso  
 kosmos ← ruski:kosmos englix:cosmos  
@@ -631,7 +641,7 @@ kusen ← englix:cushion nipon:kusshon frans:coussin farsi:kusan
 lab ← tagalog:labi farsi:hindi:urdu:lab espanya:portugal:labio (englix:frans:labial)  
 laba ← putonghan:laba  
 lad ← hindi:panjabi:laDnā doitc:laden englix:load  
-ladji ← putonghan:laji  
+laji ← putonghan:laji  
 lai ← putonghan:lái viet:lai nipon:rai  
 lai salam ←   
 laka ←   
@@ -644,7 +654,6 @@ larva ←
 lastik ← amara:lastik englix:elastic turki:elastik frans: espanya: portugal: ruski:  
 lasun ← marati:lasūṇ nep:lasun hindi:urdu:lahsūn bangla:rôsun  
 lat ← yuthan:lat wuu:la' putonghan:là + horvat:ljut mak:lut  
-lat tcili ←   
 latif ← turki:latif arab:laṭīf swahili:-latifu  
 latvia ←   
 lau ← putonghan:lǎo yuthan:lou  
@@ -655,10 +664,10 @@ leter ← englix:letter yoruba:leta frans:lettre italia:lettera
 letis ← englix:lettuce hindi:urdu:letis nipon:retasu  
 libel ← ned:libel doitc:Libelle portugal:espanya:libélula frans:libellule  
 liber ←   
-licu ← putonghan:lishu nipon:risu  
+lici ← putonghan:lìzhī indonesia:leci englix:espanya:ruski:lichi  
 lid ←   
 lietuva ←   
-lig ← portugal:espanya:ligar frans:lier + englix:league ruski:liga  
+liga ← portugal:espanya:ligar frans:lier + englix:league ruski:liga  
 lilak ← englix:lilac turki:leylak farsi:nilak  
 lili ← englix:lily doitc:Lilie ruski:liliya portugal:lirio  
 lim ← indonesia:tagalog:lima  
@@ -669,8 +678,8 @@ lin ← indonesia:lin frans:ligne ruski:lin’ englix:line portugal:linha espany
 lis ← frans:lisse espanya:portugal:liso farsi:liz + indonesia:licin  
 lista ← doitc:frans:turki:liste englix:hindi:farsi:list espanya:portugal:lista nipon:risuto  
 lit ← englix:little tagalog:maliit  
-litci ← putonghan:lìzhī indonesia:leci englix:espanya:ruski:lichi  
 liter ←   
+lixu ← putonghan:lishu nipon:risu  
 lobak ← indonesia:lobak yuthan:lobaak putonghan:luóbo  
 loga ← Speech: englix:doitc:ruski:-log frans:-logue espanya:portugal:italia:-logo + Language: arab:luğa swahili:lugha + Dictionary: urdu:luġat uzbek:lug'at tat:luğat  
 logi ← englix:-logy turki:-loji frans:doitc:-logie espanya:portugal:-logia ruski:-logiya  
@@ -686,18 +695,17 @@ lut ← hindi:panjabi:lūTnā englix:loot
 
 ## m
 
-macin ← frans:englix:machine indonesia:mesin  
-madju ← putonghan:mǎjù hanguk:magu nipon:bagu  
+mace ← turki:maç englix:match  
+maci ← panjabi:maččī bangla:mač hindi:urdu:mačlī telugu:matsyamu  
 madyar ←   
 maf ← indonesia:maaf panjabi:urdu:māf bangla:maph  
 mafan ← putonghan:máfan  
 magi ← doitc:frans:magie ruski:magiya espanya:portugal:magia  
 magnet ←   
 mai ← putonghan:mǎi,mài  
-mai dar ←   
-mai kap ←   
 maidan ← arab:maidān turki:farsi:meydan hindi:urdu:maidān telugu:maidanam  
 mais ← frans:maïs doitc:Mais englix:maize  
+maju ← putonghan:mǎjù hanguk:magu nipon:bagu  
 makala ← arab:maqāl farsi:maqāle turki:makale swahili:makala  
 makan ← hindi:urdu:makkhan bangla:makhôn panjabi:makhaṇa  
 makas ← arab:maqass amara:məqəs orm:maqasii swahili:makasi som:maqas hausa:almakashi yoruba:àlùmogàjí  
@@ -724,21 +732,20 @@ margarin ← doitc:ruski:turki:margarin frans: spo:portugal:tagalog:margarina fa
 marka ←   
 marmar ← farsi:marmar turki:mermer ruski:mramor doitc:Marmor espanya:marmol  
 marsi ← zulu:uMarsi englix:frans:doitc:ruski:turki:Mars  
-mas ← espanya:más portugal:mais sci:max-  
 masa ← englix:mass ruski:massa  
-masaj ←   
+masaje ← frans:englix:massage   
 masala ← arab:mas'ala hausa:matsala turki:mesele indonesia:masalah  
-masim ←   
 maska ←   
 mat ← hindi:urdu:mat  
 mat ← viet:mắt indonesia:tagalog:mata + nipon:me  
 mat sui ← hanguk:nunmul mal:kannunīr indonesia:air mata viet:nước mắt  
-matce ← turki:maç englix:match  
-matci ← panjabi:maččī bangla:mač hindi:urdu:mačlī telugu:matsyamu  
 mater ← turki:madde arab:madda englix:matter  
 matras ←   
 matur ← englix:frans:mature portugal:espanya:maduro  
 mau ← putonghan:māo viet:mèo  
+max ← espanya:más portugal:mais sci:max-  
+maxim ← englix:maximum   
+maxin ← frans:englix:machine indonesia:mesin  
 medalia ←   
 mede ← englix:help  
 medi ←   
@@ -747,7 +754,7 @@ medu ← tceska:med hun:méz hindi:urdu:madhu indonesia:madu yuthan:mat viet:m�
 mega ←   
 megam ← tamil:telugu:mal:mēgham hindi:urdu:megh lao:thai:mēk  
 mei ← putonghan:měi hanguk:mae nipon:mai viet:mọi  
-mei ce ← putonghan:měishì  
+mei xe ← putonghan:měishì  
 mei jen ←   
 melodi ←   
 member ← englix:member frans:membre portugal:membro  
@@ -780,7 +787,6 @@ misri ←
 mit ← turki:polska:mit portugal:espanya:mito frans:mythe hindi:urdu:mithak englix:myth ruski:mif  
 mitcin ← tagalog:bitsin indonesia:micin/pécin putonghan:wèijīng  
 moda ←   
-moda nik ←   
 model ← amara:englix:hanguk:model putonghan:mótèr nipon:moderu frans: espanya: portugal: doitc: ruski:  
 mogu ← putonghan:mógū wuu:mugu  
 mol ← portugal:mole frans:mou,molle  
@@ -793,8 +799,6 @@ mosim ← hindi:urdu:mOsam indonesia:musim arab:mausim turki:mevsim swahili:msim
 moskit ← ruski:kaz:moskit englix:espanya:portugal:mosquito frans:moustique  
 mot ← urdu:mOt amara:mot arab:mawt swahili:mauti portugal:morte  
 motor ← putonghan:englix:doitc:frans:espanya:portugal:ruski:turki:farsi:indonesia:motor hindi:urdu:moTar  
-mucing ← putonghan:mùxing + arab:urdu:muštarī swahili:Mshtarii  
-mucu ← farsi:muš ruski:myš + englix:mouse doitc:Maus + putonghan:shu  
 mudan ← putonghan:mǔdān yuthan:maaudaan viet:mẫu đơn hanguk:moran nipon:botan  
 muhim ← hausa:muhimmi swahili:muhimu arab:muhimm farsi:mohemm  
 muka ← indonesia:tamil:muka tagalog:mukha hindi:urdu:mukh  
@@ -808,6 +812,8 @@ mur ← frans:polska:mur portugal:espanya:muro doitc:Mauer
 mus ← doitc:müssen polska:musieć  
 musik ← doitc:indonesia:musik englix:music frans:musique arab:musīqa farsi:musiqi turki:müzik swahili:muziki  
 muskul ←   
+muxing ← putonghan:mùxing + arab:urdu:muštarī swahili:Mshtarii  
+muxu ← farsi:muš ruski:myš + englix:mouse doitc:Maus + putonghan:shu  
 
 ## n
 
@@ -816,7 +822,7 @@ nabat ← arab:nabata pas:urdu:nabāt
 nabi ← amara:arab:nabiyy farsi:nabi urdu:nabī turki:nebi swahili:nabii  
 nadi ← hindi:urdu:bangla:mal:nadī telugu:kan:nadi  
 nafas ← arab:farsi:urdu:nafas indonesia:napas turki:nefes fula:nafsu swahili:nafasa  
-naidjiria ← pcm:Naija yoruba:Nàìjíríà igbo:Naìjíríyà  
+naijiria ← pcm:Naija yoruba:Nàìjíríà igbo:Naìjíríyà  
 nale ← kan:mal:naLe tamil:naLai  
 nam ← hindi:urdu:nām indonesia:nama doitc:englix:name nipon:namae portugal:nome frans:nom  
 nama ← swahili:nyama lingala:kongo:niama hausa:nama  
@@ -830,20 +836,19 @@ nau ← putonghan:nǎo viet:não nipon:nō
 naxun ← urdu:nāxun hindi:nākhun bangla:nôkh telugu:nakhamu farsi:nāxon  
 nederland ←   
 nen ← putonghan:nién nipon:nen  
-nen festa ←   
 nenufar ← frans:nénufar ruski:nenyufar turki:nilüfer  
 nepal ←   
 neptun ←   
 neses ←   
 net ← englix:net  
-nic ←   
-nijer ←   
 nik ← ruski:polska:-nik englix:-nik est:-nik lat:nieks fin:-niekka  
 nikaragua ←   
 nilon ←   
 nipon ← nipon:nippon  
 nitro ← englix:indonesia:nitrogen arab:farsi:nitrožen hindi:urdu:naitrojan  
+nixa ← frans:niche ruski:niša   
 no ← englix:espanya:no  
+noce ← ruski:noč espanya:noche portugal:noite  
 noi ← bangla:noy doitc:neun  
 nong ← putonghan:nóng viet:nông hanguk:nong nipon:nō  
 nor ←   
@@ -852,12 +857,9 @@ normal ← frans:norme ruski:norma nipon:noruma
 nos ← ruski:nos englix:nose  
 not ← doitc:englix:frans:note turki:not  
 not buk ←   
-notce ← ruski:noč espanya:noche portugal:noite  
-nov ← ruski:novyĭ portugal:novo farsi:now  
-nud ← ruski:nagoy polska:nagi hindi:nagna englix:naked doitc:nackt  
+nova ← ruski:novyĭ portugal:novo farsi:now  
+nud ←   
 nul ← doitc:englix:null ruski:nul' espanya:portugal:nulo indonesia:nol  
-nul ce ←   
-nul jen ←   
 numer ← frans:espanya:portugal:numero doitc:Nummer turki:numara ruski:nomer  
 numer un ← englix:number one doitc:Nummer eins espanya:numero uno frans:numèro un ruski:nomer odin  
 nun ← doitc:nun ruski:nyn + farsi:urdu:aknūn  
@@ -875,7 +877,7 @@ or ← doitc:Ohr frans:oreille portugal:orelha espanya:oreja + putonghan:ěr
 ordu ←   
 orgazme ←   
 oskur ← espanya:oscuro englix:frans:obscure portugal:escuro  
-osteraix ←   
+osteraih ← doic:Österreich   
 
 ## p
 
@@ -910,7 +912,6 @@ paskal ←
 pat ← hindi:urdu:path englix:path doitc:Pfad + ruski:put  
 paunde ←   
 paus ← doitc:frans:englix:pause ruski:pauza portugal:espanya:pausa  
-peca ← farsi:piše bangla:hindi:peśā bangla:peša aze:peşə  
 ped ← hindi:urdu:pEr panjabi:pēr portugal:pé kan:pāda italia:piede  
 pei ← englix:pay frans:payer  
 pende ← portugal:espanya:pender frans:pendre  
@@ -924,8 +925,8 @@ peri ← indonesia:turki:peri farsi:pari hanguk:peări englix:fairy
 permis ← frans:permis espanya:portugal:permiso englix:permission  
 peru ←   
 pesa ← swahili:pesa hindi:urdu:pEsā dari:peyse + amara:besa  
+pexa ← farsi:piše bangla:hindi:peśā bangla:peša aze:peşə  
 piano ←   
-pica ← farsi:hindi:urdu:pešāb italia:piscia englix:piss  
 pifu ← putonghan:pífū hanguk:pibu nipon:hifu  
 pigu ← putonghan:pígǔ  
 piknik ← ruski:hindi:indonesia:turki:piknik nipon:pikunikku hanguk:pikeunik englix:frans:picnic doitc:Picknick  
@@ -942,6 +943,7 @@ pirat ←
 pistol ←   
 pistol nik ←   
 pitsa ←   
+pixa ← farsi:hindi:urdu:pešāb italia:piscia englix:piss  
 plan ← englix:doitc:frans:espanya:ruski:turki:plan portugal:plano  
 planet ←   
 plastik ←   
@@ -1030,10 +1032,9 @@ rutin ← englix:frans:doitc:routine espanya:ruski:rutina farsi:rutin nipon:rūc
 
 ## s
 
-sa ←   
-sa djin ←   
-sa far ←   
+sa ← ayiti:sa frans:ce,ça   
 sabat ← arab:sabt espanya:sábado tagalog:sabado kongo:sabala ruski:subbota indonesia:sabtu  
+sabi ← portugal:espanya:saber kri:pcm:sabi  
 sabun ← arab:turki:farsi:hindi:urdu:indonesia:sabun swahili:sabuni portugal:sabão  
 sabur ← arab:ṣabūr farsi:sabur indonesia:sabar + turki:sabır swahili:subira yoruba:sùúrù  
 sade ← turki:sade farsi:sāde hindi:urdu:sādā telugu:sādhuvu  
@@ -1049,12 +1050,10 @@ salone ←
 sam ← hanguk:thai:yuthan:sam putonghan:sān nipon:san  
 sama ← arab:samā' amara:səmai orm:samii hausa:sama yoruba:sánmà wol:asamaan hindi:urdu:asman  
 san ← arab:ṣanaʿa swahili:sanii + farsi:urdu:san'at + hanguk:nipon:san viet:sản putonghan:chǎn yuthan:caan  
-san kan ←   
 sanduk ← arab:ṣandūq farsi:hindi:urdu:sandūk ruski:sunduk hausa:sanduƙi swahili:sanduki amara:sänduq  
 sang ← frans:sang portugal:sangue espanya:sangre  
 sani ← ruski:sani polska:sanie tceska:sáně kaz:šana  
 sant ← espanya:portugal:italia:santo frans:englix:saint  
-sap ← thai:sâap + italia:sapere portugal:espanya:saber kri:pcm:sabi  
 sapat ← portugal:sapato indonesia:sepatu espanya:zapato tagalog:sapatos sin:sapattu telugu:ceppu  
 sar ← farsi:hindi:urdu:sar kur:ser + arab:ra's  
 sar gut ←   
@@ -1113,10 +1112,10 @@ suba ← turki:sabah arab:sabāħ hausa:asuba swahili:asubuhi wol:subba farsi:so
 suba den ←   
 suba salam ←   
 suba yem ←   
-suci ←   
 sud ←   
 sudafrika ←   
 sudan ←   
+suha ← hindi:urdu:sūkhā bangla:sukna ruski:suxoi polska:suchy  
 sui ← putonghan:shǔi hak:sui yuthan:sœi nipon:sui viet:thuỷ hanguk:turki:su  
 suk ← hindi:urdu:sukhî + thai:suk telugu:sukhamu + indonesia:suka minnan:su-kha + nipon:sukī  
 sukar ← arab:sukkar swahili:sukari hausa:sukar amara:sukkwar espanya:azucar englix:sugar  
@@ -1130,7 +1129,7 @@ super ← englix:ruski:super
 sura ← swahili:sura + englix:sura etc  
 suriname ←   
 surya ← tamil:sūriyan telugu:sūryudu hindi:urdu:sūraj bangla:surjô jav:surya  
-suxa ← hindi:urdu:sūkhā bangla:sukna ruski:suxoi polska:suchy  
+suxi ← nipon:englix:sushi   
 svenska ←   
 svis ←   
 
@@ -1160,28 +1159,6 @@ tatu ←
 taul ←   
 tava ← turki:tava farsi:tave hindi:urdu:thavā bangla:tava  
 taza ← turki:farsi:taze hindi:urdu:tāzā bangla:taja telugu:tājā  
-tca ← putonghan:chá nipon:hanguk:cha portugal:chà hindi:urdu:ruski:čay  
-tca wan ← indonesia:cawan putonghan:cháwǎn nipon:chawan  
-tcabuk ← hindi:urdu:cābuk indonesia:cambuk bama:cabu'  
-tcakra ← thai:bama:čak bangla:cākā hindi:kan:cakra telugu:cakramu  
-tcap ← indonesia:cap hindi:urdu:farsi:chāp  
-tcar ← hindi:urdu:bangla:cār  
-tcat ← englix:chat nipon:chatto ruski:čat hindi:cEṭ  
-tcat kamar ←   
-tcatar ← bangla:chata hindi:urdu:chātā khmer:čhat farsi:čatr kan:marati:panjabi:chatri tat:čatir bolgar:čadar  
-tcaya ← bangla:hindi:cāyā tamil:telugu:cāya orm:caaya farsi:sayeh  
-tcek ← englix:check portugal:checar doitc:checken  
-tcelo ←   
-tceska ←   
-tcile ←   
-tcili ← nahuatl:chīlli espanya:chile englix:doitc:hanguk:portugal:chili nipon:chiri  
-tcing ← putonghan:qǐng yuthan:cing wuu:qin  
-tcip ←   
-tcis ← englix:cheese putonghan:qĭsī swahili:chizi  
-tcoda ← bangla:coda hindi:urdu:codnā  
-tcokolat ←   
-tcuri ← bangla:indonesia:curi hindi:urdu:corī  
-tcuti ← hindi:urdu:chuTTī indonesia:cuti  
 tekni ← amara:turki:teknik ruski:texnika englix:technique espanya:técnica doitc:Technik  
 tekni logi ←   
 tela ← espanya:tagalog:italia:tela  
@@ -1190,7 +1167,7 @@ tema ← portugal:espanya:ruski:tema doitc:Thema englix:theme
 ten ← espanya:tener frans:tenir englix:-tain  
 tenis ← englix:tennis amara:tänis  
 tenta ← espanya:portugal:tentar frans:tenter englix:tempt  
-tentci ← putonghan:tiānqì nipon:tenki  
+tenci ← putonghan:tiānqì nipon:tenki  
 teori ←   
 tep ← englix:tape hindi:urdu:Tep swahili:nipon:tēpu  
 teror ←   
@@ -1220,7 +1197,6 @@ tortuga ← espanya:tortuga frans:tortue englix:tortoise portugal:tartaruga
 tot ← portugal:todo  
 tren ← bangla:hindi:urdu:espanya:turki:tren englix:frans:train farsi:tran portugal:trem  
 tren dau ←   
-tsuka ← indonesia:cuka putonghan:cù hanguk:cho nipon:su  
 tualet ←   
 tub ← englix:frans:tube espanya:portugal:tubo nipon:chūbu hanguk:tyubi turki:tüp  
 tufan ← farsi:hindi:urdu:tufān swahili:tufani indonesia:topan putonghan:táifēng portugal:tufão  
@@ -1289,9 +1265,9 @@ vot ←
 ## w
 
 wa ← putonghan:wā nipon:wā hanguk:wa may:wah hindi:urdu:vāh frans:ouah + englix:wow ruski:vau  
-wac ← englix:wash doitc:waschen  
-wac macin ←   
-wad ← arab:waʕd farsi:vade urdu:va'da turki:vaat  
+wax ← englix:wash doitc:waschen  
+wax macin ←   
+wada ← arab:waʕd farsi:vade urdu:va'da turki:vaat  
 wadi ← arab:swahili:wadi hindi:urdu:turki:vadi  
 waf ← frans:ouaf farsi:wap + englix:woof + putonghan:wāng nipon:wan  
 waha ←   
@@ -1313,21 +1289,31 @@ wing ← englix:wing doitc:Winge
 
 ## x
 
-xabar ← arab:farsi:hindi:urdu:xabar bangla:khåbår swahili:habari indonesia:kabar  
-xali ← arab:farsi:hindi:urdu:xāli tamil:kali nipon:kara  
-xalif ←   
-xan ← hindi:urdu:xān ruski:xan englix:khan espanya:hanguk:nipon:kan putonghan:hán turki:han  
-xaos ← ruski:xaos englix:frans:doitc:chaos espanya:portugal:caos  
-xarab ← bangla:kharap farsi:hindi:urdu:xarāb turki:harap  
-xas ← arab:xass farsi:urdu:hindi:xās indonesia:khas  
-xatar ← arab:xaTar farsi:xatar hindi:urdu:xatrā swahili:hatari  
-xazin ← hindi:urdu:xazin arab:xazīna farsi:xazine turki:hazine ruski:kazna  
-xema ← swahili:hema arab:farsi:xaima hindi:urdu:hēmā indonesia:khemat  
-xen ← putonghan:hèn wuu:ħen viet:hận + frans:haine  
-xerub ← ibri:xeruv doitc:Cherub ruski:xeruvim amara:kirubel englix:cherub  
-xiyar ← farsi:arab:xiyār turki:hıyar hindi:urdu:khīrā amara:kiyar  
-xolera ←   
-xor ← ruski:xor doitc:Chor englix:choir turki:koro portugal:espanya:coro frans:cœur hindi:koras  
+xaxa ← putonghan:shāshā  
+xak ← arab:šakk farsi:šak urdu:śakk swahili:shaka  
+xakal ← espanya:portugal:frans:chacal ruski:šakal turki:çakal farsi:šoğāl englix:jackal  
+xal ← englix:doitc:ruski:frans:espanya:portugal:arab:turki:indonesia:farsi:hindi:urdu:nipon:hanguk:  
+xam ← hindi:urdu:śām farsi:akšam  
+xaman ← englic:shaman rus:šaman  
+xamba ← swahili:shamba + frans:champ (espanya:portugal:campo)  
+xan ← putonghan:shān nipon:hanguk:san  
+xani ← hindi:bangla:urdu:tamil:telugu:śani bama:səne  
+xanti ← bangla:hindi:urdu:śanti thai:santi  
+xaria ← arab:šarī'a farsi:šari'at turki:şerîat indonesia:syariat bangla:šåriya hindi:urdu:śariyat englix:espanya:sharia frans:charia ruski:šariat  
+xatan ←   
+xau ← putonghan:shǎo  
+xe ← putonghan:shì + egy:še' arab:šay turki:şey  
+xef ← fran:chef eng:chief espanya:jefe   
+xia ← putonghan:xià  
+xifu ← putonghan:shīfu yuthan:sifu  
+xigo ← putonghan:shìgù hanguk:sago nipon:jiko  
+xik ← frans:englix:chic turki:şık farsi:šik nipon:shikku na  
+xim ← hanguk:šim hak:sim putonghan:xīn nipon:shinzō  
+xin ← putonghan:xìn hanguk:nipon:shin  
+xir ← arab:šiʿr turki:şiir farsi:urdu:še'r swahili:shairi + putonghan:shī nipon:shi hanguk:ši  
+xirop ← portugal:xarope frans:ruski:sirop turki:şurup amara:šurop  
+xok ← frans:choc espanya:portugal:choque englix:shock turki:şok  
+xuli ← putonghan:xiūlǐ hanguk:suri nipon:shuuri wuu:xiuli  
 
 ## y
 
@@ -1362,8 +1348,8 @@ zaitun ← arab:zaitūn espanya:aceituna indonesia:zaitun swahili:zaituni hindi:
 zalim ← turki:urdu:hindi:zālim farsi:zālem swahili:dhalimu  
 zaman ← amara:zämän farsi:zamān arab:turki:horvat:indonesia:zaman  
 zambia ←   
-zarduc ←   
-zarduc din ←   
+zardux ←   
+zardux din ←   
 zarura ← arab:ðarura swahili:dharura farsi:hindi:urdu:zaruri  
 ze ← ruski:z tceska:ze  
 zigzag ←   
