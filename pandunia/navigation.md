@@ -11,4 +11,5 @@
 [loga lista]()
 
   * [gok nam](gok_nam.md)
+  * [asal de loga](asal_de_loga.md)
 

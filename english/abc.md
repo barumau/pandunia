@@ -3,8 +3,8 @@ Spelling of Pandunia
 
 The Basic Latin alphabet is used for writing Pandunia. Here is the alphabet of Pandunia followed by the symbols of the Internation Phonetic Alphabet (IPA).
 
-    Pandunia: a b c d e f g h i j k l m n o p r s t u v w x y z
-    IPA:     [a b ʃ d e f g h i ʒ k l m n o p r s t u v w x j z]
+    Pandunia: a b c  d e f g h i j  k l m n o p r s t u v w x y z
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is silent. Every letter has one sound, always the same.
 

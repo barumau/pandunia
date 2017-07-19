@@ -46,13 +46,13 @@ Basic Rules
 7. A sentence with passive meaning has only a subject and a verb.
     - ex. **ta penta.** = It is painted.
 8. The subject of a sentence consists of a personal pronoun alone, or a noun phrase followed by a tense, aspect or mood particle.
-    - **mimen baca pandunia.** = We speak Pandunia.
-    - **jen ye baca pandunia.** = People _indeed_ speak Pandunia.
+    - **mimen baxa pandunia.** = We speak Pandunia.
+    - **jen ye baxa pandunia.** = People _indeed_ speak Pandunia.
 9. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **mi bite ti dar pesa.** = I ask you to give money.
+    - ex. **mi cing ti dar pesa.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Do you speak Pandunia?
-    - **mi bite ti loga tez.** →  **bite loga tez.** = Please speak louder.
+    - **mi kia ti baxa pandunia?** → **kia ti baxa pandunia?** = Do you speak Pandunia?
+    - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
 
 
 
@@ -120,7 +120,7 @@ Naturally there can be modifiers on both sides of the noun as well.
 Modifiers can modify also verbs. Then they function like English adverbs.
 
 > **mi _bon_ son.** - I sleep _well_.  
-> **ti _bon_ baca pandunia.** - You speak Pandunia _well_.
+> **ti _bon_ baxa pandunia.** - You speak Pandunia _well_.
 
 
 Numerals
@@ -133,7 +133,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **un tara** - one star  
 > **du tara** - two stars  
 > **sam tara** - three stars  
-> **cau tara** - few stars  
+> **xau tara** - few stars  
 > **poli tara** - many stars
 
 > **un dai meza** - one big table  
@@ -152,7 +152,7 @@ The basic number words are:
 - 1 **un**
 - 2 **du**
 - 3 **sam**
-- 4 **tcar**
+- 4 **car**
 - 5 **lim**
 - 6 **sis**
 - 7 **set**
@@ -213,10 +213,10 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 **Sa** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
 
-The distance to the speaker can be specified by adding words **djin** (near) and **far** (far), if needed.
+The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
 
 **sa** - this or that
-**sa djin** - this over here
+**sa jin** - this over here
 **sa far** - that over there
 
 The demonstrative pronouns work like modifiers.
@@ -324,8 +324,8 @@ In the example above, **mi vol** has **ti** as its object. At the same time, **t
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **mi bite ti lai.** - I ask you to come.  
-> **bite lai!** - Please come! (Literally: _Request come!_)
+> **mi cing ti lai.** - I ask you to come.  
+> **cing lai!** - Please come! (Literally: _Request come!_)
 
 
 --------------------------------------------------------------------------------
@@ -344,7 +344,7 @@ Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existe
 Such sentences can be simply negated with **no**.
 
 > **mi no e jen.** - I'm not a person.  
-> **ta no e nov meza.** - It's not a new table.
+> **ta no e nova meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -386,18 +386,18 @@ Another way to use these particles is to connect an adjective or other words wit
 
 Normally the adjective is before the noun in Pandunia. It can be placed after the noun with the help of **de**.
 
-> **nov bet** - new house  
-> **bet de nov** - house _of new_
+> **nova bet** - new house  
+> **bet de nova** - house _of new_
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
 > **roza rang ge lab** - rose-colored lips  
-> **sama rang ge yen** - sky-colored eyes
+> **sama rang ge mat** - sky-colored eyes
 
 Or in the opposite order:
 
 > **lab de roza rang** - lips of the color of the rose  
-> **yen de sama rang** - eyes of the color of the sky
+> **mat de sama rang** - eyes of the color of the sky
 
 #### Relative clauses
 
@@ -474,7 +474,7 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 > **mi lai dom.** - I come home.  
 > **ti sit kursi.** - You sit (on) the chair.  
 > **ta lala sofa.** - S/he lies (on) the sofa.  
-> **matci nata daria.** - Fish swim (in) the sea.  
+> **maci nata daria.** - Fish swim (in) the sea.  
 > **djang nik marce dau.** - Warriors march (on) the road.  
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
@@ -496,8 +496,8 @@ More precise expressions of place and time are expressed with _a preposition + a
 > **mi deng na dur de ti son.** - I wait for the time when you sleep.  
 > **na lok de** - at the place of  
 > **mi deng na lok de ti toka.** - I wait at the place where you left.  
-> **na cia de** - under, below  
-> **un waf lala na cia de meza.** - A dog lies under the table.  
+> **na xia de** - under, below  
+> **un waf lala na xia de meza.** - A dog lies under the table.  
 > **na par de** - on the surface of  
 > **un mau lala na par de meza.** - A cat lies on the table.
 
@@ -529,7 +529,7 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 > **ban e min dai ka papa.** - The child is smaller than the father.  
 > **opa e sem dai ka papa.** - Grandfather is as big as father.
 
-**Ka** relates the adverbs of comparison – **mas** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**Ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
 
 
@@ -537,9 +537,9 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 ### List of compound prepositions
 
 **na ante** before. **na bada** after.  
-**na tcen** in front. **na pitce** behind.  
-**na cia** under, below. **na gau** over, above.  
-**na djin** near. **na long** far away. **na visin** beside, next to.
+**na cen** in front. **na pice** behind.  
+**na xia** under, below. **na gau** over, above.  
+**na jin** near. **na long** far away. **na visin** beside, next to.
 
 
 
@@ -586,13 +586,13 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia ze koz de ta e bon dunia baca.
+    yusef i sara vol darsa pandunia ze koz de ta e bon dunia baxa.
 
                       ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    baca
+          i         darsa        ta    baxa
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |

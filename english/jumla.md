@@ -24,9 +24,9 @@ Part 1: Greeting and basics
 
 **den salam!** Good day!
 
-**cam salam!** Good evening!
+**xam salam!** Good evening!
 
-**notce salam!** Good night!
+**noce salam!** Good night!
 
 **yem salam!** Bon appetit!
 
@@ -204,15 +204,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### sap <small>to know</small>
+### sabi <small>to know</small>
 
-**mi sap ta.** I know him/her.
+**mi sabi ta.** I know him/her.
 
-**kia ti sap sa jen?** Do you know that person?
+**kia ti sabi sa jen?** Do you know that person?
 
-**kia timen sap alise?** Do you know each other?
+**kia timen sabi alise?** Do you know each other?
 
-**mimen sap alise ze long.** We know each other for long.
+**mimen sabi alise ze long.** We know each other for long.
 
 
 
@@ -271,31 +271,31 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi vol yem kafe.** I want to drink coffee.
 
-**kia ti vol yem tca?** Would you like to drink tea?  
-**no. mi no vol tca. mi vol kafe.** No, I don't want tea. I want coffee.
+**kia ti vol yem ca?** Would you like to drink tea?  
+**no. mi no vol ca. mi vol kafe.** No, I don't want tea. I want coffee.
 
 **ti vol ke pingo?** Which apple do you want?  
 **sa ros.** This red one.
 
 
 
-### tcing <small>request, please</small>
+### cing <small>request, please</small>
 
-**mi tcing ti yem tca.** I ask you to drink tea.
+**mi cing ti yem ca.** I ask you to drink tea.
 
-**mi tcing ti lai dom.** I ask you to come home.
+**mi cing ti lai dom.** I ask you to come home.
 
-**mi tcing ti mede mi.** I ask you to help me.
+**mi cing ti mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**tcing yem tca.** Please, have some tea!
+**cing yem ca.** Please, have some tea!
 
-**tcing yem kafe.** Please, have some coffee!
+**cing yem kafe.** Please, have some coffee!
 
-**tcing lai dom.** Please, come home!
+**cing lai dom.** Please, come home!
 
-**tcing mede mi.** Please, help me.
+**cing mede mi.** Please, help me.
 
 
 
@@ -311,7 +311,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danke ti mede mi.** Thanks for helping me.
 
-**ti ketci.** You're welcome. (Literally: _You're polite._)
+**ti keci.** You're welcome. (Literally: _You're polite._)
 
 
 
@@ -370,17 +370,17 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ta no ken gida gar.** S/he doesn't know how to drive a car.
 
-**kia ti ken culi ta?** Do you know how to fix it?
+**kia ti ken xuli ta?** Do you know how to fix it?
 
 **kia ti ken pandunia?** Do you speak Pandunia?
 
 **mi ken pandunia.** I speak Pandunia.
 
-**mi ken cau pandunia.** I speak a little Pandunia.
+**mi ken xau pandunia.** I speak a little Pandunia.
 
-**mi no ken englic.** I don't speak English.
+**mi no ken englix.** I don't speak English.
 
-**maf. mi no ken ti ge baca.** Sorry, I don't speak your language.
+**maf. mi no ken ti ge baxa.** Sorry, I don't speak your language.
 
 
 
@@ -392,7 +392,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mimen loga do alise.** We talk to each other.
 
-**se loga ke yang bi pandunia ki "cat"?** How do you say "cat" in Pandunia?
+**se loga "cat" bi ke yang bi pandunia?** How do you say "cat" in Pandunia?
 
 **"cat" e ke bi pandunia?** What is "cat" in Pandunia?
 
@@ -403,7 +403,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken audi ti.** I can't hear you.
 
-**tcing loga kuat.** Please speak louder.
+**cing loga kuat.** Please speak louder.
 
 **mi audi musik.** I listen to music.
 
@@ -434,18 +434,18 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kitab <small>write</small>
 
-**tcing kitab ti ge adres.** Please, write your address.
+**cing kitab ti ge adres.** Please, write your address.
 
-**tcing kitab ta na sa.** Please, write it here!
+**cing kitab ta na sa.** Please, write it here!
 
 
-### baca <small>language, communication</small>
+### baxa <small>language, communication</small>
 
-**kia timen baca pandunia.** Do you speak in Pandunia?
+**kia timen baxa pandunia.** Do you speak in Pandunia?
 
-**mimen baca pandunia.** We speak in Pandunia.
+**mimen baxa pandunia.** We speak in Pandunia.
 
-**kia ti ken baca englic?** Can you speak English?
+**kia ti ken baxa englix?** Can you speak English?
 
 **frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
@@ -476,7 +476,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### lai <small>to come</small>
 
-**tcing lai!** Come here!
+**cing lai!** Come here!
 
 **ti lai ze ke?** Where do you come from?
 
@@ -526,7 +526,7 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 ### deng <small>to wait</small>
 
-**tcing deng!** Please wait!
+**cing deng!** Please wait!
 
 **tamen deng mimen.** They wait for us.
 
@@ -542,16 +542,16 @@ Tip: It is also okay to say "ti abit na ke?" However **abit** already covers the
 
 **mi kap un kafe.** I will take a coffee.
 
-**tcing kap un kafe do mi.** Please take one coffee for me.
+**cing kap un kafe do mi.** Please take one coffee for me.
 
 **ti ja kap pesa ze mi.** You already got money from me.
 
 
 ### dar <small>give</small>
 
-**tcing dar pesa.** Please give some money.
+**cing dar pesa.** Please give some money.
 
-**tcing dar ta do mi.** Please give it to me.
+**cing dar ta do mi.** Please give it to me.
 
 **mi dar sa do ti.** I give this to you.
 
@@ -646,7 +646,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **** Leave me alone!
 
-**ke xabar?** What's new?
+**ke habar?** What's new?
 -->
 
 
@@ -661,18 +661,19 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
-**baca** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
-**tcing** ask, request <small>(German _bitten_)</small>  
+**baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
 **blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
-**cam** evening <small>(Hindi _śām_ शाम )</small>  
+**ca** tea <small>(Mandarin _chá_ 茶)</small>  
+**cing** ask, request <small>(German _bitten_)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
 **dom** home <small>(Russian _dom_ дом)</small>  
 **e** to be <small>(Portuguese _é_)</small>  
-**englic** English  
+**englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
 **ha** have; there is <small>(Portuguese _há_)</small>  
+**habar** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
@@ -681,7 +682,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
 **ken** can <small>(English _can_)</small>  
-**ketci** polite <small>(Mandarin _kèqi_ 客气)</small>  
+**keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **lai** come <small>(Vietnamese _lai_)</small>  
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
@@ -692,7 +693,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mimen** we  
 **neses** need; necessary <small>(Spanish _necesitar_)</small>  
 **no** no, not <small>(Spanish _no_)</small>  
-**notce** night <small>(Spanish _noche_)</small>  
+**noce** night <small>(Spanish _noche_)</small>  
 **nun** now, currently <small>(German _nun_)</small>  
 **papa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
@@ -700,9 +701,8 @@ All words of Pandunia are loan words from other languages that are spoken around
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>  
-**sap** know <small>(Thai _saap_ ทราบ)</small>  
+**sabi** know <small>(Thai _saap_ ทราบ)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
-**tca** tea <small>(Mandarin _chá_ 茶)</small>  
 **ti** you <small>(Russian _ty_ ты)</small>  
 **timen** you all  
 **ta** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>  
@@ -711,7 +711,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **u** or <small>(French _ou_)</small>  
 **vol** want <small>(Italian _volere_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  
-**xabar** news <small>(Malay _khabar_)</small>  
+**xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ye** yes <small>(Korean 예 _ye_)</small>  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  
 

@@ -3,8 +3,8 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-    pandunia : a b c d e f g h i j k l m n o p r s t u v w x y z
-    API :     [a b ʃ d e f g h i ʒ k l m n o p r s t u v w x j z]
+    pandunia : a b c  d e f g h i j  k l m n o p r s t u v w x y z
+    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -32,19 +32,19 @@ Consonnes
           c  j     y
     k  g  x  h
 
-La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, j, k, l, m, n, p, t, v, z** est facile et habituelle.
+La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, v, z** est facile et habituelle.
 
 Les consonnes suivantes se prononcent différement en pandunia et en français :
 
-- **c** se prononce toujours comme le « ch » de _chat_ ;
-- **h** est aspiré ;
+- **x** se prononce toujours comme le « ch » de _chat_ ;
+- **c** se prononce comme le « tch » de _tchâo !_
+- **j** est prononcé comme le « dj » dans _Djibouti_.
+- **h** est aspiré ou il est un son guttural, comme le « ch » allemand de _Ach!_ ou le la « jota » espagnole ;
 - **g** se prononce toujours comme dans _gâteau_ ou _gouter_ ;
 - **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
 - **s** est toujours prononcé comme dans _souris_. 
-- **x** est un son guttural, comme le « ch » allemand de _Ach!_ ou le la « jota » espagnole ;
 - **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
 
-La combinaison de lettres **tc** se prononce comme le « tch » de _tchâo !_ et **dj** est prononcé comme dans _Djibouti_.
 
 
 ### Accent tonique
@@ -103,3 +103,4 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 **mi vide ti :)** = Je te vois.
 **mi no vide ti :(** = Je ne te vois pas.
+

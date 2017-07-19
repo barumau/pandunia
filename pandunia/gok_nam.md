@@ -8,7 +8,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **angola** : Angola  
 **benin** : Benin  
 **burkina** : Burkina Faso  
-**djibuti** : Djibouti  
+**jibuti** : jibouti  
 **dzayer** : Algeria  
 **eritra** : Erithrea  
 **gabon** : Gabon  
@@ -29,13 +29,13 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **misri** : Egypt  
 **mosambik** : Mozambique  
 **muritania** : Mauritania  
-**naidjiria (naidja)** : Nigeria  
+**naijiria (naija)** : Nigeria  
 **namibia** : Namibia  
 **nijer** : Niger  
 **rundi** : Burundi  
 **rwanda** : Rwanda  
 **salone** : Sierra Leone  
-**secel** : Seychelles  
+**sexel** : Seychelles  
 **senegal** : Senegal  
 **somali** : Somalia  
 **soto** : Lesotho  
@@ -43,7 +43,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **sudan** : Sudan  
 **swazi** : Swaziland  
 **tanzania** : Tanzania  
-**tcad** : Chad  
+**cad** : Chad  
 **tswana** : Botswana  
 **togo** : Togo  
 **tunis** : Tunisia  
@@ -52,7 +52,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 
 ## amerika
 
-**arxentina** : Argentina  
+**argentina** : Argentina  
 **ayiti** : Haiti  
 **belize** : Belize  
 **bolivia** : Bolivia  
@@ -75,7 +75,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **peru** : Peru  
 **puertoriko** : Puerto Rico  
 **suriname** : Suriname  
-**tcile** : Chile  
+**cile** : Chile  
 **usa (uni stat de amerika)** : United States of America  
 **uruguai** : Uruguay  
 **venesuela** : Venezuela  
@@ -85,7 +85,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **bama** : Myanmar (Burma)  
 **bangla** : Bangladesh (Bengal)  
 **barat** : India  
-**djungok** : China  
+**jungok** : China  
 **hanguk** : South Korea  
 **indonesia** : Indonesia  
 **irak** : Iraq  
@@ -117,7 +117,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **bolgaria** : Bulgaria  
 **britan** : Britain (UK)  
 **danmark** : Denmark  
-**doitc** : Germany  
+**doic** : Germany  
 **espanya** : Spain  
 **esti** : Estonia  
 **frans** : France  
@@ -131,7 +131,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **makedonia** : Macedonia  
 **nederland** : Netherlands  
 **norge** : Norway  
-**osteraix** : Austria  
+**osteraih** : Austria  
 **polska** : Poland  
 **portugal** : Portugal  
 **rosia** : Russia  
@@ -141,14 +141,14 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **suomi** : Finland  
 **svenska** : Sweden  
 **svis** : Switzerland  
-**tceska** : Czech  
-**tcip** : Albania  
+**ceska** : Czech  
+**cip** : Albania  
 **ukrayina** : Ukraine  
 
 ## oseania
 
 **australia** : Australia  
-**fidji** : Fiji  
+**fiji** : Fiji  
 **papua niugini** : Papua New Guinea  
 **samoa** : Samoa  
 **solomon** : Solomon Islands  

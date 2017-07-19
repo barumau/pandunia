@@ -3,8 +3,8 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-    Pandunia: a b c d e f g h i j k l m n o p r s t u v w x y z
-    IPA:     [a b ʃ d e f g h i ʒ k l m n o p r s t u v w x j z]
+    Pandunia: a b c  d e f g h i j  k l m n o p r s t u v w x y z
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -33,9 +33,9 @@ Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k
 Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
 - **z** on soinnillinen S. Se siis äännetään kuten englannin sanssa _zoo_.
-- **c** on niin sanottu _suhu-ässä_ eli /ʃ/. Se äännetään kuten Š sanassa _šakki_.
-- **j** on edellisen soinnillinen muunnelma eli /ʒ/. Se äännetään kuten Ž sanassa _Brežnev_.
-- **x** on hälyinen, vahvaa H:ta muistuttava äänne. Se on tuttu esim. saksan sanasta "ach".
+- **x** on niin sanottu _suhu-ässä_ eli /ʃ/. Se äännetään kuten Š sanassa _šakki_.
+- **c** on /tʃ/ eli se äännetään kuin TŠ sanassa _tšekki_.
+- **j** on edellisen soinnillinen muunnelma eli /dʒ/. Se äännetään kuten DŽ sanassa _džonkki_.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
