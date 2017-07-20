@@ -261,7 +261,7 @@ cell (biology)   : sel
 cello   : celo  
 cement   : sement  
 censor   : sensur  
-centi- (per cent) : xenti  
+centi- (per cent) : centi  
 Ceres (dwarf planet)   : seres  
 certain (sure)   : yakin  
 chain   : silsil  
@@ -304,7 +304,7 @@ cloth (fabric, textile)   : tela
 clothing   : fuk  
 cloud   : megam  
 club   : klub  
-coal (carbon) : xarbon  
+coal (carbon) : karbon  
 coat   : kot  
 coco   : koko  
 cocoa   : kakau  
@@ -332,7 +332,7 @@ concrete (material with cement)   : beton
 cone   : konus  
 Congo   : kongo  
 congratulate   : barka  
-connect (join, link)   : lig  
+connect (join, link)   : liga  
 connection (relationship)   : guanxi  
 consonant   : konson  
 continue (resume)   : kontinu  
@@ -530,7 +530,7 @@ from (since)   : ze
 frost   : hima rose  
 fruit (result, outcome)   : pal  
 frying pan   : tava  
-fuck   : coda  
+fuck (screw)   : coda  
 full   : ful  
 function (to work)   : funci  
 future   : futur  
@@ -595,7 +595,7 @@ harness   : maju
 hate   : hen  
 have   : ha  
 hazard (random)   : hazar  
-he or she or it   : ta  
+he or she or it   : ye  
 head   : sar  
 hear (listen)   : audi  
 heart : xim  
@@ -757,8 +757,9 @@ load (to charge)   : lad
 lock   : tala  
 long   : long  
 look (see)   : vide  
+lot (much, very)   : cok  
 love   : amor  
-luggage (baggage)   : bagaj  
+luggage (baggage)   : bagaje  
 lunch   : den yem  
 lychee (litchi)   : lici  
 lymph   : limfa  
@@ -789,7 +790,7 @@ marriage (matrimony)   : gami
 Mars   : marsi  
 mask (camouflage)   : maska  
 mass (lump)   : masa  
-massage   : masaj  
+massage   : masaje  
 master (sensei) : xifu  
 match (contest)   : mace  
 matter (substance)   : mater  
@@ -843,7 +844,6 @@ most (maximally)   : maxim
 mother   : ma  
 mother (mom)   : mama  
 mountain (hill) : xan  
-mouse   : mucu  
 mouse   : muxu  
 mouth   : boka  
 MSG (monosodium glutamate)   : micin  
@@ -882,7 +882,7 @@ newspaper (gazette)   : habar gazet
 newton (N)   : nuton  
 Nicaragua   : nikaragua  
 nice (pleasant, lovely)   : latif  
-niche (alcove)   : nix  
+niche (alcove)   : nixa  
 Niger   : nijer  
 Nigeria   : naijiria  
 night   : noce  
@@ -1042,7 +1042,7 @@ process (procedure)   : proses
 professor   : profesor  
 program   : program  
 project (planned endeavour)   : projet  
-promise (commitment)   : wad  
+promise (commitment)   : wada  
 property (possession)   : mal  
 prophet   : nabi  
 protect (defend)   : bauhu  
@@ -1273,6 +1273,7 @@ that is (in other words, i.e.)   : yani
 theology   : deva logi  
 theory   : teori  
 they   : tamen  
+they   : yemen  
 thick (fat)   : pang  
 thing   : ting  
 thing : xe  
@@ -1355,11 +1356,10 @@ vase (flower pot)   : hua bin
 Venezuela   : venesuela  
 Venus   : venus  
 veranda (porch)   : beranda  
-very   : hen  
 video   : video  
 Vietnam   : viet  
 village   : deya  
-vinegar   : tsuka  
+vinegar   : cuka  
 vinyl   : vinil  
 virology   : virus logi  
 virus   : virus  
@@ -1430,11 +1430,11 @@ year   : nen
 yeast   : hamir  
 yellow   : wang  
 Yemen   : yaman  
-yes (yeah)   : ye  
+yes (yeah)   : ya  
 yesterday   : yer  
 yoga   : yoga  
-you   : ti  
-you   : timen  
+you   : tu  
+you all   : tumen  
 young   : jovan  
 ##z  
 Zambia   : zambia  

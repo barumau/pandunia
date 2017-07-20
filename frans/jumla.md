@@ -24,9 +24,9 @@ Remarque ! Beaucoup de leçons contiennent également des astuces et des remarqu
 
 **den salam!** Bonjour !
 
-**cam salam!** Bonsoir !
+**xam salam!** Bonsoir !
 
-**notce salam!** Bonne nuit !
+**noce salam!** Bonne nuit !
 
 **yem salam!** Bon appétit !
 
@@ -58,21 +58,21 @@ Remarque : **Salam** est une salutation populaire qui est utilisée à la fois p
 
 
 
-### ti <small>tu, te, toi</small>
+### tu <small>tu, te, toi</small>
 
-**mi salam ti.** Je te salue.
+**mi salam tu.** Je te salue.
 
-**ti salam mi.** Tu me salues.
+**tu salam mi.** Tu me salues.
 
 Astuce : L’ordre de base des mots est sujet-verbe-objet. Les mots de changent pas de forme en pandunia. C’est pour cela que **mi** reste pareil en pandunia, mais qu’en français, « Je » deviens « me ».
 
-**salam ti!** Salut, toi !
+**salam tu!** Salut, toi !
 
-Remarque :  **Ti** ne fait référence qu’à une seule personne. Le pronom pluriel est **timen**, « vous tous ».
+Remarque :  **tu** ne fait référence qu’à une seule personne. Le pronom pluriel est **tumen**, « vous tous ».
 
-**mi salam timen.** Je vous salue tous.
+**mi salam tumen.** Je vous salue tous.
 
-**salam timen!** Salut à tous !
+**salam tumen!** Salut à tous !
 
 
 
@@ -80,33 +80,33 @@ Remarque :  **Ti** ne fait référence qu’à une seule personne. Le pronom plu
 
 **mi e tomas.** Je suis Thomas.
 
-**ti e sara.** Tu es Sara.
+**tu e sara.** Tu es Sara.
 
 **mau e hewan.** Le chat est un animal.
 
-Remarque : Comme tous les mots en pandunia, **e** est invariable. Ainsi, toutes les formes suivantes sont traduites par **e** en pandunia : _suis_, _es_, _est_, _sommes_, _êtes_, _sont_, _étais_, _était_, _étions_, _étiez_, _étaient_ ! De plus, dans les phares simples, il est possible de retirer **e** après un pronom comme **mi** et **ti**.
+Remarque : Comme tous les mots en pandunia, **e** est invariable. Ainsi, toutes les formes suivantes sont traduites par **e** en pandunia : _suis_, _es_, _est_, _sommes_, _êtes_, _sont_, _étais_, _était_, _étions_, _étiez_, _étaient_ ! De plus, dans les phares simples, il est possible de retirer **e** après un pronom comme **mi** et **tu**.
 
 **mi sara.** Je (suis) Sara.
 
-**ti tomas.** Tu (es) Thomas.
+**tu tomas.** Tu (es) Thomas.
 
 
 
-### ta <small>il, elle</small>
+### ye <small>il, elle</small>
 
-**ta e fem.** C’est une femme.
+**ye e fem.** C’est une femme.
 
-**ta e man.** C’est un homme.
+**ye e man.** C’est un homme.
 
-**ta e pingo.** C’est une pomme.
+**ye e pingo.** C’est une pomme.
 
-Astuce : **ta** est le pronom générique de la troisième personne. On l’utilise pour des personnes (peu importe leur sexe) et aussi pour les choses. Vous l’avez deviné, **tamen** signifie « ils/elles ».
+Astuce : **ye** est le pronom générique de la troisième personne. On l’utilise pour des personnes (peu importe leur sexe) et aussi pour les choses. Vous l’avez deviné, **yemen** signifie « ils/elles ».
 
-**tamen e pingo.** Ce sont des pommes.
+**yemen e pingo.** Ce sont des pommes.
 
-**mimen salam tamen.** Nous les saluons.
+**mimen salam yemen.** Nous les saluons.
 
-**mimen salam timen.** Nous vous saluons tous.
+**mimen salam tumen.** Nous vous saluons tous.
 
 
 
@@ -114,15 +114,15 @@ Astuce : **ta** est le pronom générique de la troisième personne. On l’util
 
 **ke?** Quoi ?
 
-**ti e ke?** Qui es-tu ?
+**tu e ke?** Qui es-tu ?
 **mi e tomas.** Je suis Thomas.
 
-**ta e ke?** Qui c’est ?
-**ta e sara.** C’est Sara.
+**ye e ke?** Qui c’est ?
+**ye e sara.** C’est Sara.
 
-**timen e ke?** Qui êtes-vous ?
+**tumen e ke?** Qui êtes-vous ?
 
-**tamen e ke?** Qui sont-ils ?
+**yemen e ke?** Qui sont-ils ?
 
 
 
@@ -138,32 +138,32 @@ Astuce : **ta** est le pronom générique de la troisième personne. On l’util
 
 Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
 
-**ta ros.** C’est rouge.
+**ye ros.** C’est rouge.
 
 
 ### nam <small>nom</small>
 
-**ti nam ke?** Quel est ton nom?
+**tu nam ke?** Quel est ton nom?
 
 **mi nam tomas.** Mon nom est Thomas.
 
-**ta nam ke?** Quel est son nom ?
+**ye nam ke?** Quel est son nom ?
 
-**ta nam sara.** Son nom est Sara.
+**ye nam sara.** Son nom est Sara.
 
 
 
 ### kia <small>Est-ce que, poser une question</small>
 
-**kia ti e tomas?** Est-ce que tu es Thomas ?
+**kia tu e tomas?** Est-ce que tu es Thomas ?
 
-**kia ti e doktor?** Est-ce que tu es médecin ?
+**kia tu e doktor?** Est-ce que tu es médecin ?
 
-Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi kia ti doktor.** (Je pose la question : es-tu médecin ?) où l’on a retiré le premier mot.
+Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi kia tu doktor.** (Je pose la question : es-tu médecin ?) où l’on a retiré le premier mot.
 
-**kia ti bon?** Comment ça va ? (Mot à mot : _Est-ce que tu bien ?_)  
+**kia tu bon?** Comment ça va ? (Mot à mot : _Est-ce que tu bien ?_)  
 **mi bon.** Je vais bien.  
-**kia ti?** Et toi ?  
+**kia tu?** Et toi ?  
 **mi no bon.** Je ne vais pas bien.
 
 
@@ -172,25 +172,25 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **mi ha bon dom.** J’ai une bonne maison.
 
-**ta no ha pesa.** Il/elle n’a pas d’argent.
+**ye no ha pesa.** Il/elle n’a pas d’argent.
 
 **mi vol ha nova fon.** Je veux un nouveau téléphone.
 
-**kia ti ha ban?** As-tu des enfants ?  
+**kia tu ha ban?** As-tu des enfants ?  
 **mi ha du ban.** J’ai deux enfants.
 
 
 
-### ye <small>oui</small>
+### ya <small>oui</small>
 
-**kia ti bon?** Est-ce que ça va ?  
-**ye. mi bon.** Oui, je vais bien.
+**kia tu bon?** Est-ce que ça va ?  
+**ya. mi bon.** Oui, je vais bien.
 
 **kia ha doktor?** Est-ce qu’il y a un médecin ?  
-**ye. ta e doktor.** Oui. Il/elle est médecin.
+**ya. ye e doktor.** Oui. Il/elle est médecin.
 
 **kia ha vin?** Est-ce que tu as du vin?  
-**ye. bai i ros.** Oui, du blanc et du rouge.
+**ya. bai i ros.** Oui, du blanc et du rouge.
 
 
 
@@ -206,11 +206,11 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 ### sap <small>connaitre</small>
 
-**mi sap ta.** Je le/la connais.
+**mi sap ye.** Je le/la connais.
 
-**kia ti sap sa jen?** Est-ce que tu connais cette personne ?
+**kia tu sap sa jen?** Est-ce que tu connais cette personne ?
 
-**kia timen sap alise?** Est-ce que vous vous connaissez l’un l’autre?
+**kia tumen sap alise?** Est-ce que vous vous connaissez l’un l’autre?
 
 **mimen sap alise ze long.** Nous nous connaissons l’un l’autre depuis longtemps.
 
@@ -218,11 +218,11 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 ### ge <small>possessif</small>
 
-**ta e mi ge mama.** C’est ma mère.
+**ye e mi ge mama.** C’est ma mère.
 
-**ta e mi ge man.** C’est mon mari (mon homme).
+**ye e mi ge man.** C’est mon mari (mon homme).
 
-**ta e mi ge fem.** C’est ma femme.
+**ye e mi ge fem.** C’est ma femme.
 
 **tomas e sara ge panyo.** Thomas est l’ami de Sara.
 
@@ -232,9 +232,9 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **mi neses mede.** J’ai besoin d’aide.
 
-**kia ti ken mede mi?** Est-ce que tu peux m’aider ?
+**kia tu ken mede mi?** Est-ce que tu peux m’aider ?
 
-**kia mi ken mede ti?** Est-ce que je peux t’aider ?
+**kia mi ken mede tu?** Est-ce que je peux t’aider ?
 
 
 
@@ -243,15 +243,15 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 ### yem <small>consommer, manger, boire</small>
 
-**kia ti vol yem koi?** Est-ce que tu veux manger quelque chose ?
+**kia tu vol yem koi?** Est-ce que tu veux manger quelque chose ?
 
-**ta yem pingo.** Il/elle mange une pomme.
+**ye yem pingo.** Il/elle mange une pomme.
 
-**tamen yem pingo.** Ils/elles mangent des pommes.
+**yemen yem pingo.** Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **pingo** peut signifier une ou plusieurs pommes.
 
-**kia ti yem kafe?** Est-ce que tu bois du café ?
+**kia tu yem kafe?** Est-ce que tu bois du café ?
 
 **mi yem kafe.** Je bois du café.
 
@@ -263,39 +263,39 @@ Astuce : Le sens de **yem** regroupe à la fois l’idée de manger et de boire.
 
 ### vol <small>vouloir</small>
 
-**kia ti vol yem?** Est-ce que tu veux manger ?
+**kia tu vol yem?** Est-ce que tu veux manger ?
 
-**ti vol yem ke?** _Qu’_est-ce que tu veux manger ?
+**tu vol yem ke?** _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « Tu veux manger quoi ? ».
 
 **mi vol yem kafe.** Je veux boire un café.
 
-**kia ti vol yem tca?** Est-ce que tu veux (boire) du thé ?  
-**no. mi no vol tca. mi vol kafe.** Non, Je ne veux pas de thé. Je veux du café.
+**kia tu vol yem ca?** Est-ce que tu veux (boire) du thé ?  
+**no. mi no vol ca. mi vol kafe.** Non, Je ne veux pas de thé. Je veux du café.
 
-**ti vol ke pingo?** Quelle pomme veux-tu ?  
+**tu vol ke pingo?** Quelle pomme veux-tu ?  
 **sa ros.** La rouge. (mot à mot _cette rouge_)
 
 
 
-### tcing <small>demander, s’il vous plait</small>
+### cing <small>demander, s’il vous plait</small>
 
-**mi tcing ti yem tca.** Je te demande si tu veux du thé.
+**mi cing tu yem ca.** Je te demande si tu veux du thé.
 
-**mi tcing ti lai dom.** Je te demande de venir à la maison.
+**mi cing tu lai dom.** Je te demande de venir à la maison.
 
-**mi tcing ti mede mi.** Je te demande de m’aider.
+**mi cing tu mede mi.** Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**tcing yem tca.** Un thé, s’il vous plait !
+**cing yem ca.** Un thé, s’il vous plait !
 
-**tcing yem kafe.** Un café, s’il vous plait!
+**cing yem kafe.** Un café, s’il vous plait!
 
-**tcing lai dom.** Viens à la maison, s’il te plait !
+**cing lai dom.** Viens à la maison, s’il te plait !
 
-**tcing mede mi.** Aide moi, s’il te plait.
+**cing mede mi.** Aide moi, s’il te plait.
 
 
 
@@ -303,15 +303,15 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **danke!** Merci !
 
-**danke ti.** Merci à toi.
+**danke tu.** Merci à toi.
 
-**mi danke ti.** Je te remercie.
+**mi danke tu.** Je te remercie.
 
-**mi danke ti mede mi.** Je te remercie de m’aider.
+**mi danke tu mede mi.** Je te remercie de m’aider.
 
-**danke ti mede mi.** Merci de m’aider.
+**danke tu mede mi.** Merci de m’aider.
 
-**ti ketci.** De rien. (mot à mot : _tu es poli._)
+**tu ketci.** De rien. (mot à mot : _tu es poli._)
 
 
 
@@ -331,9 +331,9 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **mi neses yem.** J’ai faim.
 
-**kia ti neses yem?** Est-ce que tu as faim ?
+**kia tu neses yem?** Est-ce que tu as faim ?
 
-**kia ti neses sui?** Est-ce que tu as soif ?
+**kia tu neses sui?** Est-ce que tu as soif ?
 
 
 
@@ -346,19 +346,19 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **maf! sa ke?** Excusez-moi, qu’est-ce que c’est ?
 
-**maf. ti nam ke?** Pardon, quel est ton nom ?
+**maf. tu nam ke?** Pardon, quel est ton nom ?
 
 
 
 ### aha <small>comprendre</small>
 
-**kia ti aha mi?** Est-ce que tu me comprends ?
+**kia tu aha mi?** Est-ce que tu me comprends ?
 
 **mi aha.** Je comprends.
 
-**maf. mi no aha ti.** Désolé, je ne t’ai pas compris.
+**maf. mi no aha tu.** Désolé, je ne t’ai pas compris.
 
-**mi no bas aha ti.** Je ne t’ai pas trop compris.
+**mi no bas aha tu.** Je ne t’ai pas trop compris.
 
 **mi aha nul.** Je n’ai rien compris du tout.
 
@@ -368,27 +368,27 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **mi ken gida gar.** Je sais conduire une voiture.
 
-**ta no ken gida gar.** Il/elle ne sait pas conduire une voiture.
+**ye no ken gida gar.** Il/elle ne sait pas conduire une voiture.
 
-**kia ti ken culi ta?** Est-ce que tu sais réparer ça ?
+**kia tu ken culi ye?** Est-ce que tu sais réparer ça ?
 
-**kia ti ken pandunia?** Est-ce que tu parles pandunia ?
+**kia tu ken pandunia?** Est-ce que tu parles pandunia ?
 
 **mi ken pandunia.** Je parle pandunia.
 
-**mi ken cau pandunia.** Je parle un peu pandunia.
+**mi ken xau pandunia.** Je parle un peu pandunia.
 
 **mi no ken englic.** Je ne parle pas anglais.
 
-**maf. mi no ken ti ge baca.** Désolé, je ne parle pas ta langue.
+**maf. mi no ken tu ge baxa.** Désolé, je ne parle pas ye langue.
 
 
 
 ### loga <small>mot, dire, parler</small>
 
-**ti loga ke?** Qu’est-ce que tu dis ?
+**tu loga ke?** Qu’est-ce que tu dis ?
 
-**mi loga do ti.** Je te parle. (mot à mot : _je parle à toi_)
+**mi loga do tu.** Je te parle. (mot à mot : _je parle à toi_)
 
 **mimen loga do alise.** Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
@@ -401,50 +401,50 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### audi <small>écouter, entendre</small>
 
-**mi no ken audi ti.** Je ne t’entends pas. (Je n’arrive pas à t’entendre)
+**mi no ken audi tu.** Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**tcing loga kuat.** Parlez plus fort, s’il vous plait.
+**cing loga kuat.** Parlez plus fort, s’il vous plait.
 
 **mi audi musik.** J’écoute de la musique.
 
-**ti audi ke yang ge musik?** Quel genre de musique est-ce que tu écoutes ?
+**tu audi ke yang ge musik?** Quel genre de musique est-ce que tu écoutes ?
 
 
 ### vide <small>voir</small>
 
-**suk vide ti.** Heureux de te voir !
+**suk vide tu.** Heureux de te voir !
 
-**vide ti bada!** On se voit plus tard !
+**vide tu bada!** On se voit plus tard !
 
-**vide ti nale!** On se voit demain !
+**vide tu nale!** On se voit demain !
 
-**mi vide ta yer.** Je l’ai vu(e) hier.
+**mi vide ye yer.** Je l’ai vu(e) hier.
 
 
 ### mana <small>signifier, vouloir dire</small>
 
-**sa loga ye mana ke?** Que veut dire ce mot ?
+**sa loga ya mana ke?** Que veut dire ce mot ?
 
-**"mau" ye mana ke?** Que signifie « mau » ?
+**"mau" ya mana ke?** Que signifie « mau » ?
 
-**ta mana yang de hewan.** Ça signifie un genre d’animal.
+**ye mana yang de hewan.** Ça signifie un genre d’animal.
 
-**mi no aha ta mana ke.** Je ne comprend pas ce que cela signifie.
+**mi no aha ye mana ke.** Je ne comprend pas ce que cela signifie.
 
 
 ### kitab <small>écrire</small>
 
-**tcing kitab ti ge adres.** S’il te plait, écris ton adresse.
+**cing kitab tu ge adres.** S’il te plait, écris ton adresse.
 
-**tcing kitab ta na sa.** S’il te plait, écris-le là !
+**cing kitab ye na sa.** S’il te plait, écris-le là !
 
 
-### baca <small>langue, communication</small>
+### baxa <small>langue, communication</small>
 
-**kia timen baca pandunia.** Est-ce que vous parlez tous pandunia ?  
-**mimen baca pandunia.** Nous parlons pandunia.
+**kia tumen baxa pandunia.** Est-ce que vous parlez tous pandunia ?  
+**mimen baxa pandunia.** Nous parlons pandunia.
 
-**kia ti ken baca englic?** Est-ce que tu parles anglais ?
+**kia tu ken baxa englic?** Est-ce que tu parles anglais ?
 
 **frans, espanya, portugal, ruski** français, espagnol, portugais, russe
 
@@ -460,7 +460,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### go <small>aller</small>
 
-**ti go ke?** Où vas-tu ?
+**tu go ke?** Où vas-tu ?
 
 **mi go dom.** Je vais à la maison.
 
@@ -475,9 +475,9 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### lai <small>venir</small>
 
-**tcing lai!** Viens ici !
+**cing lai!** Viens ici !
 
-**ti lai ze ke?** D’où viens-tu ?
+**tu lai ze ke?** D’où viens-tu ?
 
 **mi lai ze dubai.** Je viens de Dubaï.
 
@@ -486,7 +486,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### safar <small>voyager</small>
 
-**kia ti safar bi tren?** Est-ce que tu voyages en train ?
+**kia tu safar bi tren?** Est-ce que tu voyages en train ?
 
 **mimen safar ze london do paris.** Nous voyageons de Londres à Paris.
 
@@ -499,13 +499,13 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **hotel na sa dau.** L’hôtel est sur cette route.
 
-**ti na ke?** Où es-tu ?
+**tu na ke?** Où es-tu ?
 
 **mi na dom.** Je suis à la maison.
 
-**ta na ke?** Où il/elle est ?
+**ye na ke?** Où il/elle est ?
 
-**ta sit na kamar.** Il/elle est assis(e) dans la pièce.
+**ye sit na kamar.** Il/elle est assis(e) dans la pièce.
 
 Astuce ! Vous pouvez utiliser **na** comme préposition ou tout seul comme un verbe.
 
@@ -514,22 +514,22 @@ Astuce ! Vous pouvez utiliser **na** comme préposition ou tout seul comme un ve
 
 ### abit <small>vivre, habiter, résider</small>
 
-**ti abit ke?** Où est-ce que tu habites ?
+**tu abit ke?** Où est-ce que tu habites ?
 
-Astuce : Ça va aussi de dire « ti abit na ke? » mais **abit** recouvre déjà l’idée d’être à un endroit.
+Astuce : Ça va aussi de dire « tu abit na ke? » mais **abit** recouvre déjà l’idée d’être à un endroit.
 
 **mi abit singapur.** Je vis à Singapore.
 
-**kia ti abit sa hotel?** Est-ce que tu résides dans cet hôtel ?
+**kia tu abit sa hotel?** Est-ce que tu résides dans cet hôtel ?
 
 
 ### deng <small>attendre</small>
 
-**tcing deng!** Veuillez attendre !
+**cing deng!** Veuillez attendre !
 
-**tamen deng mimen.** Ils nous attendent.
+**yemen deng mimen.** Ils nous attendent.
 
-**mi deng ti na hotel.** Je t’attends à l’hôtel.
+**mi deng tu na hotel.** Je t’attends à l’hôtel.
 
 
 
@@ -541,22 +541,22 @@ Astuce : Ça va aussi de dire « ti abit na ke? » mais **abit** recouvre déjà
 
 **mi kap un kafe.** Je vais prendre un café.
 
-**tcing kap un kafe do mi.** Prends-moi un café, s’il te plait.
+**cing kap un kafe do mi.** Prends-moi un café, s’il te plait.
 
-**ti ja kap pesa ze mi.** Tu as déjà eu de l’argent de ma part.
+**tu ja kap pesa ze mi.** Tu as déjà eu de l’argent de ma part.
 
 
 ### dar <small>donner</small>
 
-**tcing dar pesa.** Donne-moi de l’argent, s’il te plait.
+**cing dar pesa.** Donne-moi de l’argent, s’il te plait.
 
-**tcing dar ta do mi.** Donne-le moi, s’il te plait.
+**cing dar ye do mi.** Donne-le moi, s’il te plait.
 
-**mi dar sa do ti.** Je te donne ceci.
+**mi dar sa do tu.** Je te donne ceci.
 
-**mi dar buk do tamen.** Je leur donne un livre.
+**mi dar buk do yemen.** Je leur donne un livre.
 
-**ta no vol dar ta do mi.** Il/elle ne veut pas me le donner.
+**ye no vol dar ye do mi.** Il/elle ne veut pas me le donner.
 
 
 
@@ -564,7 +564,7 @@ Astuce : Ça va aussi de dire « ti abit na ke? » mais **abit** recouvre déjà
 
 Astuce : acheter et vendre sont des mots composés : **mai dar** signifie _vendre_ et **mai kap** signifie _acheter_.
 
-**tamen mai dar tot.** Ils vendent (de) tout.
+**yemen mai dar tot.** Ils vendent (de) tout.
 
 **mi kap un bir.** Je prends une bière.
 
@@ -575,7 +575,7 @@ Astuce : acheter et vendre sont des mots composés : **mai dar** signifie _vendr
 
 **mi vol kira kap un gar.** Je veux louer une voiture.
 
-**ta kira dar kamar do biznes jen.** Il/elle loue des chambres à des hommes d’affaires.
+**ye kira dar kamar do biznes jen.** Il/elle loue des chambres à des hommes d’affaires.
 
 Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
@@ -584,9 +584,9 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 ### yang <small>type, genre, sorte</small>
 
-**ta e ke yang?** Ça ressemble à quoi ?
+**ye e ke yang?** Ça ressemble à quoi ?
 
-**kia ta nov?** C’est nouveau ?
+**kia ye nov?** C’est nouveau ?
 
 **ke e mas bon?** Lequel est mieux ?
 
@@ -638,14 +638,14 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 **** Avec plaisir !
 
-**festa ye kaici na ke sat?** Quand commence la fête ?
+**festa ya kaici na ke sat?** Quand commence la fête ?
 
 
 **** Tu as raison.
 
 **** Laisse-moi tranquille !
 
-**ke xabar?** Quoi de neuf ?
+**ke habar?** Quoi de neuf ?
 -->
 
 
@@ -660,18 +660,19 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **bai** blanc <small>(Mandarin _bái_ 白)</small>  
 **batu** pierre <small>(Indonésien _batu_)</small>  
 **bazar** marché <small>(Persan _bāzār_ بازار)</small>  
-**baca** langue, communiquer <small>(Hindi _bhāśā_ भाषा)</small>  
-**tcing** demander quelque chose <small>(Allemand _bitten_)</small>  
+**baxa** langue, communiquer <small>(Hindi _bhāśā_ भाषा)</small>  
 **blu** bleu <small>(Anglais _blue_)</small>  
 **bon** bon
-**cam** soir <small>(Hindi _śām_ शाम )</small>  
+**ca** thé <small>(Mandarin _chá_ 茶)</small>  
+**cing** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russie _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
 **e** être <small>(Portugais _é_)</small>  
-**englic** anglais <small>(Anglais _English_)</small>
-**fem** femme
+**englix** anglais <small>(Anglais _English_)</small>  
+**fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
 **ha** avoir, il y a <small>(Portugais _há_)</small>  
+**habar** nouvelles <small>(Malais _khabar_)</small>  
 **i** et <small>(Polonais _i_)</small>  
 **jen** personne <small>(Mandarin _rén_ 人)</small>  
 **kafe** café <small>(Allemand _Kaffee_)</small>  
@@ -680,7 +681,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **kata** dire, raconter, histoire <small>(Japonais _kataru_ 語る)</small>  
 **ke** quoi ? qui ? <small>(Espagnol _qué_)</small>  
 **ken** pouvoir <small>(Anglais _can_)</small>  
-**ketci** poli <small>(Mandarin _kèqi_ 客气)</small>  
+**keci** poli <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** poser une question <small>(Hindi _kyā_ क्या)</small>  
 **lai** venir <small>(Vietnamien _lai_)</small>  
 **mama** maman <small>(Mandarin _māma_ 妈妈)</small>  
@@ -691,27 +692,26 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **mimen** nous  
 **neses** avoir besoin, nécessaire <small>(Espagnol _necesitar_)</small>  
 **no** non, ne… pas <small>(Espagnol _no_)</small>  
-**notce** nuit <small>(Espagnol _noche_)</small>  
+**noce** nuit <small>(Espagnol _noche_)</small>  
 **nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
 **papa** papa <small>(Russe _papa_ папа)</small>  
 **pingo** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ros** rouge <small>(Italien _rosso_)</small>  
 **sa** ceci, cela <small>(créole haïtien _sa_)</small>  
+**sabi** savoir <small>(Thaï _saap_ ทราบ)</small>  
 **safar** voyager <small>(Arabe _safar_ سفر)</small>  
 **salam** saluer, salut <small>(Arabe _salām_ سلام)</small>  
-**sap** savoir <small>(Thaï _saap_ ทราบ)</small>  
 **suba** matin <small>(Wolof _subba_)</small>  
-**tca** thé <small>(Mandarin _chá_ 茶)</small>  
-**ti** tu/toi <small>(Russe _ty_ ты)</small>  
-**timen** vous tous  
-**ta** il, elle <small>(Mandarin _tā_ 他/她/它)</small>  
-**tamen** ils, elles <small>(Mandarin _tāmen_ 他们)</small>  
+**tu** tu/toi <small>(Russe _ty_ ты)</small>  
+**tumen** vous tous  
 **vide** voire, regarder <small>(Russe _videt'_ видеть)</small>  
 **u** ou <small>(Français _ou_)</small>  
 **vol** vouloir <small>(Italien _volere_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  
-**xabar** nouvelles <small>(Malais _khabar_)</small>  
-**ye** oui <small>(Coréen 예 _ye_)</small>  
+**xam** soir <small>(Hindi _śām_ शाम )</small>  
+**ya** oui <small>(Indonesien _ya_)</small>  
+**ye** il, elle <small>(Lingala _yé_)</small>  
+**yemen** ils, elles  
 **yem** manger, boire <small>(Turc _yemek_)</small>  
 
 

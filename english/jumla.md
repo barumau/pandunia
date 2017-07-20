@@ -414,7 +414,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **suk vide tu.** Happy to see you!
 
-**vide tu bada!** See you later!
+**vide tu re!** See you again!
 
 **vide tu nale!** See you tomorrow!
 
@@ -699,9 +699,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
+**sabi** know <small>(Thai _saap_ ทราบ)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greet; hello <small>(Arabic _salām_ سلام)</small>  
-**sabi** know <small>(Thai _saap_ ทราบ)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tu** you <small>(Russian _ty_ ты)</small>  
 **tumen** you all  
@@ -711,7 +711,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **wang** yellow <small>(Cantonese _wong_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ya** yes <small>(Indonesian _ya_)</small>  
-**ye** he, she, it <small>(Hindi _ye_ यह)</small>  
+**ye** he, she, it <small>(Lingala _yé_)</small>  
 **yemen** they  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  
 
