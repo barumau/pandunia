@@ -3,7 +3,7 @@
 
 [Prononco](abc.md)
 [Utilaj frazoj](jumla.md)
-[Gramatiko](baca_kanun.md)
+[Gramatiko](baxa_kanun.md)
 
 [Vortaro]()
 

@@ -7,7 +7,7 @@
 
 [Sana sanalta](jumla.md)
 
-[Kielioppi](baca_kanun.md)
+[Kielioppi](baxa_kanun.md)
 
 [Sanasto]()
 

@@ -90,10 +90,10 @@ Pandunia's consonant inventory is smaller than that of English and Mandarin. Maj
 |------------|-------------|-------------|-------------|
 | Nasals     | m n ng      | m n ng      | m n ng      |
 | Stops      | p b t d k g | p b t d k g | p b t d k g |
-| Liquids    | r l y w     | r l y w     | l y w (yü)  |
-| Sibilants  | s z c  j    | s z sh zh   | s z* sh r   |
-| Fricatives | f v h x     | f v h (th dh) | f h       |
-| Affricates | tc dj       | ch j        | ch zh (c j q) |
+| Liquids    | l r y w     | l r y w     | l r y w (yü)|
+| Sibilants  | s z x       | s z sh (zh) | s z* sh     |
+| Fricatives | f v h       | f v h (th dh) | f h       |
+| Affricates | c j         | ch j        | ch zh (q j c) |
 
 ### Regular spelling
 
@@ -129,18 +129,18 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **mi** = I, **ti** = you, **ta** = he, she. The first person pronoun **mi** is borrowed from English "me", and re-spelled for Pandunia. The third person pronoun **ta** is borrowed from Standard Chinese "tā", which refers to both males and females as well as inanimate objects. The second person pronoun **ti** is inspired by several languages, including Polish "ty", Russian "ты" and French "tu". This shows how Pandunia is not simply a mix of English and Chinese, but it borrows words from languages around the world.
+The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me", and re-spelled for Pandunia. The second person pronoun **tu** is shared by several languages, including Spanish "tu" and Hindi-Urdu "tū". French "tu" and Russian "ty" are also quite similar. The third person pronoun **ye** is similar to Lingala "yé", Swahili "yeye" and Hindi-Urdu "yeh". All of them refer to both male and female persons as well as inanimate objects. This shows how Pandunia is not simply a mix of English and Chinese, but it borrows words from lots of languages around the world.
 
 The possessive pronouns follow the pattern of Standard Chinese.
 
 | English | Pandunia | Chinese  |
 |---------|----------|----------|
 | my      | mi ge    | wǒ de    |
-| your    | ti ge    | nǐ de    |
-| his/her | ta ge    | tā de    |
+| your    | tu ge    | nǐ de    |
+| his/her | ye ge    | tā de    |
 | our     | mimen ge | wǒmen de |
-| your    | timen ge | nǐmen de |
-| their   | tamen ge | tāmen de |
+| your    | tumen ge | nǐmen de |
+| their   | yemen ge | tāmen de |
 
 
 ## Easy sentences
@@ -148,7 +148,7 @@ The possessive pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi amor ti, ti amor mi.
+    Pandunia:  mi amor tu, tu amor mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
@@ -160,13 +160,13 @@ The verb **bei** is used when the object of an action comes first in the sentenc
 **Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ta no ken bei yem.
+    Pandunia:  ye no ken bei yem.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi tcing ta yem kafe.
+    Pandunia:  mi cing ye yem kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 

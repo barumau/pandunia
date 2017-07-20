@@ -991,6 +991,7 @@ pexa : job (occupation)
 piano : piano  
 pifu : skin  
 pigu : buttocks (butt)  
+pijin : pidgin (contact language)  
 piknik : picnic  
 pilipin : Philippines (Filipino)  
 pilot : pilot  
