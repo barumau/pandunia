@@ -189,6 +189,7 @@ coda : fuck (screw)
 cok : lot (much, very)  
 cokolat : chocolate  
 corab : sock (stocking)  
+cuka : vinegar  
 cup : suck  
 curi : steal (theft)  
 cuti : vacation (holiday)  
@@ -845,7 +846,6 @@ moskit : mosquito
 mot : death (dead)  
 motor : engine (motor)  
 mucing : Jupiter  
-mucu : mouse  
 mudan : peony  
 muhim : important  
 muka : face  
@@ -1201,7 +1201,6 @@ svis : Switzerland
 
 ##t  
 
-ta : he or she or it  
 tabak : tobacco  
 tabar : axe (hatchet)  
 tabia : nature (environment)  
@@ -1240,12 +1239,10 @@ teror : terror
 teste : test (challenge)  
 teyan : suggest (propose)  
 tez : intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)  
-ti : you  
 ticin : bow instrument (violin, etc.)  
 tik : right (correct)  
 tiket : ticket  
 tim : team  
-timen : you  
 tin : can (tin can)  
 ting : thing  
 tip : type (category)  
@@ -1263,7 +1260,8 @@ tortuga : turtle (tortoise)
 tot : whole (entire, all)  
 tren : train  
 tren dau : railway (railroad)  
-tsuka : vinegar  
+tu : you  
+tumen : you all  
 tualet : toilet (WC)  
 tub : tube (pipe)  
 tufan : storm (tempest)  
@@ -1397,6 +1395,7 @@ xuli : repair (fix)
 
 ##y  
 
+ya : yes (yeah)  
 yad : memory  
 yak : yak  
 yakin : certain (sure)  
@@ -1405,7 +1404,8 @@ yaman : Yemen
 yang : kind (type, style)  
 yani : that is (in other words, i.e.)  
 yasen : ash tree  
-ye : yes (yeah)  
+ye : he or she or it  
+yemen : they  
 yehudi : Jew  
 yem : eat  
 yep : leaf  

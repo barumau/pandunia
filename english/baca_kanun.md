@@ -38,21 +38,21 @@ Basic Rules
 2. The stress accent is on the syllable before the last consonant of the word.
 3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
 4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
+    - ex. **bon pan** = Good bread. **ye bon** = It (is) good.
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with transitive verbs have subject-verb-object word order.
     - ex. **mi penta meza.** = I paint tables.
 7. A sentence with passive meaning has only a subject and a verb.
-    - ex. **ta penta.** = It is painted.
+    - ex. **ye penta.** = It is painted.
 8. The subject of a sentence consists of a personal pronoun alone, or a noun phrase followed by a tense, aspect or mood particle.
     - **mimen baxa pandunia.** = We speak Pandunia.
-    - **jen ye baxa pandunia.** = People _indeed_ speak Pandunia.
+    - **jen ya baxa pandunia.** = People _indeed_ speak Pandunia.
 9. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **mi cing ti dar pesa.** = I ask you to give money.
+    - ex. **mi cing tu dar pesa.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia ti baxa pandunia?** → **kia ti baxa pandunia?** = Do you speak Pandunia?
-    - **mi cing ti loga tez.** →  **cing loga tez.** = Please speak louder.
+    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Do you speak Pandunia?
+    - **mi cing tu loga tez.** →  **cing loga tez.** = Please speak louder.
 
 
 
@@ -120,7 +120,7 @@ Naturally there can be modifiers on both sides of the noun as well.
 Modifiers can modify also verbs. Then they function like English adverbs.
 
 > **mi _bon_ son.** - I sleep _well_.  
-> **ti _bon_ baxa pandunia.** - You speak Pandunia _well_.
+> **tu _bon_ baxa pandunia.** - You speak Pandunia _well_.
 
 
 Numerals
@@ -194,18 +194,18 @@ Pronouns
 Pronouns can substitute thing-words and phrases of thing-words.
 
 **mi** - I, me  
-**ti** - you  
-**ta** - he, she, it  
+**tu** - you  
+**ye** - he, she, it  
 **mimen** - we  
-**timen** - you all  
-**tamen** - they
+**tumen** - you all  
+**yemen** - they
 
 **se** - self
 
 Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
 **mi vide se** - I see myself.
-**ta vide se** - She sees herself. / He sees himself.
+**ye vide se** - She sees herself. / He sees himself.
 **mimen vide se.** - We see ourselves.
 
 
@@ -254,19 +254,19 @@ Normally a sentence consists of a subject and a predicate. In the simplest sente
 
 Likewise, it's possible that the subject is a pronoun and the predicate is a noun.
 
-> **ta sara.** - She is Sara.
-> **ta batu.** - It is a stone.
+> **ye sara.** - She is Sara.
+> **ye batu.** - It is a stone.
 
 But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Then the verb **e** (to be) is used.
 
-> **ta e mi.** - It is me.
+> **ye e mi.** - It is me.
 > **sa e batu.** - That is a stone.
 > **batu e ting.** - Stone is a thing.
 > **jovan e sundar.** - Young is beautiful.
 
 To deny something, use the word **no** before **e**.
 
-> **mi no e ti.** - I'm not you.
+> **mi no e tu.** - I'm not you.
 > **batu no e hewan.** Stone is not an animal.
 > **jovan no e sundar.** - Young is not beautiful.
 
@@ -280,7 +280,7 @@ Active sentences are frequently in the subject–verb–object word order (SVO).
 
 > **mi yem pingo.** - I eat apples.  
 > **mi audi musik.** - I hear music.  
-> **mi vide ti.** - I see you.
+> **mi vide tu.** - I see you.
 
 There is also alternative word order, subject–object–verb (SOV). It can be used only in short sentences.
 
@@ -290,12 +290,12 @@ SOV and SVO are the two most common word orders by far in the languages of the w
 
 In passive sentences, the subject is the undergoer of the action and there is no object.
 
-> **ti vide.** - You are seen.  
+> **tu vide.** - You are seen.  
 > **musik audi.** - Music is heard.
 
 Passive can be expressed with help of the verb **bei**.
 
-> **ti bei vide.** - You get seen.  
+> **tu bei vide.** - You get seen.  
 > **musik bei audi.** - Music gets heard.
 
 
@@ -314,9 +314,9 @@ All action-words (verbs) that come one after another are activated by the subjec
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-> **mi vol ti yem sabzi.** - I want (that) you eat vegetables.
+> **mi vol tu yem sabzi.** - I want (that) you eat vegetables.
 
-In the example above, **mi vol** has **ti** as its object. At the same time, **ti** functions as the subject of the following predicate, **yem sabzi**. So **ti** is the _pivot_ of the sentence.
+In the example above, **mi vol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **yem sabzi**. So **tu** is the _pivot_ of the sentence.
 
 
 
@@ -324,7 +324,7 @@ In the example above, **mi vol** has **ti** as its object. At the same time, **t
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **mi cing ti lai.** - I ask you to come.  
+> **mi cing tu lai.** - I ask you to come.  
 > **cing lai!** - Please come! (Literally: _Request come!_)
 
 
@@ -336,27 +336,27 @@ Particles
 
 ### Affirmation and negation
 
-Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it.
+Particle **ya** is affirmative and **no** is negative. **ya** affirms the existence of something, whereas **no** denies it.
 
 > **mi e jen.** - I am a person.  
-> **ta e un nova meza.** - It is a new table.
+> **ye e un nova meza.** - It is a new table.
 
 Such sentences can be simply negated with **no**.
 
 > **mi no e jen.** - I'm not a person.  
-> **ta no e nova meza.** - It's not a new table.
+> **ye no e nova meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
-> **mi vide ti.** - I see you.  
-> **mi no vide ti.** - I don't see you.  
-> **mi vide no ti ama tamen.** - I see, not you, but them.
+> **mi vide tu.** - I see you.  
+> **mi no vide tu.** - I don't see you.  
+> **mi vide no tu ama yemen.** - I see, not you, but them.
 
-The particles **ye** and **no** are used for answering questions.
+The particles **ya** and **no** are used for answering questions.
 
-> **kia ti vide mi?** - Do you see me?  
-> **ye. (mi vide ti.)** - Yes. (I see you.)  
-> **no. (mi no vide ti.)** - No. (I don't see you.)
+> **kia tu vide mi?** - Do you see me?  
+> **ya. (mi vide tu.)** - Yes. (I see you.)  
+> **no. (mi no vide tu.)** - No. (I don't see you.)
 
 
 
@@ -405,11 +405,11 @@ Also relative clauses are created with help of the modifier particles.
 
 Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
 
-> **ta e man _de mi vide_.** - He is the man _that I saw_.
+> **ye e man _de mi vide_.** - He is the man _that I saw_.
 
 It's possible to construct relatives clauses with **ge** too. Then the relative clause precedes the noun that it modifies, and ends with the particle **ge**. This structure doesn't exist in English, so there isn't a word-for-word translation for it.
 
-**ta e _mi vide ge_ man.** - *He is the _my seen_ man.
+**ye e _mi vide ge_ man.** - *He is the _my seen_ man.
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
@@ -426,10 +426,10 @@ In Pandunia, a mood particle modifies the subsequent word, or the whole sentence
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-> **ta yem bir plus.** - S/he drinks beer, _also_.  
-> **ta yem plus bir.** - S/he drinks _also beer_.  
-> **ta plus yem bir.** - S/he _also drinks_ beer.  
-> **plus ta yem bir.** - _Also s/he_ drinks beer.
+> **ye yem bir plus.** - S/he drinks beer, _also_.  
+> **ye yem plus bir.** - S/he drinks _also beer_.  
+> **ye plus yem bir.** - S/he _also drinks_ beer.  
+> **plus ye yem bir.** - _Also s/he_ drinks beer.
 
 Note! Also adjectives can modify the subsequent word or the entire sentence.
 
@@ -472,8 +472,8 @@ Pandunia has three prepositions of place and time.
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
 > **mi lai dom.** - I come home.  
-> **ti sit kursi.** - You sit (on) the chair.  
-> **ta lala sofa.** - S/he lies (on) the sofa.  
+> **tu sit kursi.** - You sit (on) the chair.  
+> **ye lala sofa.** - S/he lies (on) the sofa.  
 > **maci nata daria.** - Fish swim (in) the sea.  
 > **djang nik marce dau.** - Warriors march (on) the road.  
 
@@ -486,16 +486,16 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi deng ze ti go.** - I have waited since you left.  
-> **mi deng do ti lai dom.** - I wait until you come home.  
-> **mi deng na ti son.** - I wait while you sleep.  
+> **mi deng ze tu go.** - I have waited since you left.  
+> **mi deng do tu lai dom.** - I wait until you come home.  
+> **mi deng na tu son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
 > **na dur de** - for the time/duration of  
-> **mi deng na dur de ti son.** - I wait for the time when you sleep.  
+> **mi deng na dur de tu son.** - I wait for the time when you sleep.  
 > **na lok de** - at the place of  
-> **mi deng na lok de ti toka.** - I wait at the place where you left.  
+> **mi deng na lok de tu toka.** - I wait at the place where you left.  
 > **na xia de** - under, below  
 > **un waf lala na xia de meza.** - A dog lies under the table.  
 > **na par de** - on the surface of  
@@ -508,7 +508,7 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dur** - to last, to take time
-> **mi deng na dur de ti son.** - _I wait during you sleep._
+> **mi deng na dur de tu son.** - _I wait during you sleep._
 
 
 ### Prepositions of manner
@@ -552,13 +552,13 @@ Other Topics
 
 Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
 
-Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **mi vide ti** (I see you) can be pictured as a tree as follows.
+Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **mi vide tu** (I see you) can be pictured as a tree as follows.
 
-    mi vide ti.
+    mi vide tu.
 
        vide
       ┌─┴─┐
-     mi   ti
+     mi   tu
 
 Adjectives and numerals point to their head word, the noun.
 
@@ -586,13 +586,13 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia ze koz de ta e bon dunia baxa.
+    yusef i sara vol darsa pandunia ze koz de ye e bon dunia baxa.
 
                       ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    baxa
+          i         darsa        ye    baxa
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |
