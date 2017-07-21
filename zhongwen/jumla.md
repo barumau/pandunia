@@ -38,17 +38,17 @@
 
 
 
-### ti <small>你</small>
+### tu <small>你</small>
 
-**mi salam ti.** 我给你打招呼。
+**mi salam tu.** 我给你打招呼。
 
-**ti salam mi.** 你给我打招呼。
+**tu salam mi.** 你给我打招呼。
 
-**salam ti!** 你好！
+**salam tu!** 你好！
 
-**mi salam timen.** 我给你们打招呼。
+**mi salam tumen.** 我给你们打招呼。
 
-**salam timen!** 你们好！
+**salam tumen!** 你们好！
 
 
 
@@ -57,30 +57,30 @@
 
 **mi e tomas.** 我是托马斯。
 
-**ti e sara.** 你是莎拉。
+**tu e sara.** 你是莎拉。
 
 **mau e hewan.** 猫是动物。
 
 **mi sara.** 我是莎拉。
 
-**ti tomas.** 你是托马斯。
+**tu tomas.** 你是托马斯。
 
 
-### ta <small>他，她，它</small>
+### ye <small>他，她，它</small>
 
-**ta e fem.** 她是一个女人。
+**ye e fem.** 她是一个女人。
 
-**ta e man.** 他是一个男人。
+**ye e man.** 他是一个男人。
 
-**ta e pingo.** 它是一个苹果。
-
-
-**tamen e pingo.** 他们是苹果。
+**ye e pingo.** 它是一个苹果。
 
 
-**mimen salam tamen.** We greet them.
+**yemen e pingo.** 他们是苹果。
 
-**mimen salam timen.** We greet you.
+
+**mimen salam yemen.** We greet them.
+
+**mimen salam tumen.** We greet you.
 
 
 
@@ -88,15 +88,15 @@
 
 **ke?** 什么？
 
-**ti e ke?** 你是谁？
+**tu e ke?** 你是谁？
 **mi e tomas.** 我是托马斯。
 
-**ta e ke?** 她是谁？
-**ta e sara.** 她是莎拉。
+**ye e ke?** 她是谁？
+**ye e sara.** 她是莎拉。
 
-**timen e ke?** 你们是谁？
+**tumen e ke?** 你们是谁？
 
-**tamen e ke?** 他们是谁？
+**yemen e ke?** 他们是谁？
 
 <!--
 
@@ -107,11 +107,11 @@
 
 **sa e pingo.** This is an apple.
 
-**sa e roxu pingo.** This is a red apple.
+**sa e ros pingo.** This is a red apple.
 
-**sa pingo roxu.** This apple is red.
+**sa pingo ros.** This apple is red.
 
-Note: When an adjective, like **roxu**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
 
 
@@ -391,28 +391,29 @@ Tip: To make direct requests, drop all the pronouns.
 **bai** 白色 <small>(普通话 _bái_ 白)</small>  
 **batu** 石头 <small>(印度尼西亚语 _batu_)</small>  
 **bazar** 市场 <small>(波斯语 _bāzār_ بازار)</small>  
-**baca** 语言 <small>(印地语 _bhāśā_ भाषा)</small>  
+**baxa** 语言 <small>(印地语 _bhāśā_ भाषा)</small>  
+**blu** 蓝色 <small>(英语 _blue_)</small>  
 **bon** 好 <small>(法语 _bon_)</small>  
-**bite** 请 <small>(德语 _bitte_)</small>  
-**cam** 晚上 <small>(印地语 _śām_ शाम )</small>  
+**ca** 茶 <small>(普通话 _chá_ 茶)</small>  
+**cing** 请 <small>(普通话 _qǐng_ 请)</small>  
 **den** 天 <small>(俄语 _den'_ день)</small>  
 **dom** 家 <small>(俄语 _dom_ дом)</small>  
 **e** 是 <small>(葡萄牙语 _é_)</small>  
 **fem** 女人 <small>(法语 _femme_)</small>  
 **gon** 过 <small>(泰语 _gɔ̀ɔn_ ก่อน)</small>  
 **ha** 有 <small>(葡萄牙语 _há_)</small>  
+**habar** 消息 <small>(马来语 _khabar_)</small>  
 **i** 和 <small>(波兰语 _i_)</small>  
 **jen** 人 <small>(普通话 _rén_ 人)</small>  
 **kafe** 咖啡 <small>(德语 _Kaffee_)</small>  
-**kara** 黑色 <small>(土耳其语 _kara_)</small>  
+**kal** 黑色 <small>(土耳其语 _kara_)</small>  
 **kat** 切 <small>(印地语 ‎_kāṭnā_ काटना)</small>  
 **kata** 叙说 <small>(日语 _kataru_ 語る)</small>  
 **ke** 什么，谁 <small>(西班牙语 _qué_)</small>  
 **ken** 会 <small>(英语 _can_)</small>  
-**ketci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
+**keci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
 **kia** 问，问题 <small>(印地语 _kyā_ क्या)</small>  
 **lai** 来 <small>(越南语 _lai_)</small>  
-**lal** 红色 <small>(印地语 _lal_)</small>  
 **mama** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
 **man** 男人 <small>(英语 _man_)</small>  
 **mana** 意义 <small>(斯瓦希里语 _maana_)</small>  
@@ -420,28 +421,27 @@ Tip: To make direct requests, drop all the pronouns.
 **mi** 我 <small>(斯瓦希里语 _mimi_)</small>  
 **mimen** 我们  
 **nesese** 需要 <small>(Haitian Creole _nesesè_)</small>  
-**nili** 蓝色 <small>(卡纳达语 _nīli_)</small>  
 **no** 不 <small>(西班牙语 _no_)</small>  
 **notce** 夜晚 <small>(西班牙语 _noche_)</small>  
 **nau** 现在 <small>(英语 _now_)</small>  
 **papa** 爸爸 <small>(俄语 _papa_ папа)</small>  
 **pingo** 苹果 <small>(普通话 _píngguǒ_ 苹果)</small>  
+**ros** 红色 <small>(印地语 _lal_)</small>  
 **sa** 这 <small>(海地语 _sa_)</small>  
-**sap** 知道 <small>(泰语 _saap_ ทราบ)</small>  
+**sabi** 知道 <small>(泰语 _saap_ ทราบ)</small>  
 **safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>  
 **salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>  
 **suba** 早上 <small>(Wolof _subba_)</small>  
-**tca** 茶 <small>(普通话 _chá_ 茶)</small>  
-**ti** 你 <small>(俄语 _ty_ ты)</small>  
-**timen** 你们  
-**ta** 他，她，它 <small>(普通话 _tā_ 他/她/它)</small>  
-**tamen** 他们 <small>(普通话 _tāmen_ 他们)</small>  
+**tu** 你 <small>(俄语 _ty_ ты)</small>  
+**tumen** 你们  
 **vide** 看 <small>(俄语 _videt'_ видеть)</small>  
 **u** 或 <small>(法语 _ou_)</small>  
 **vol** 想要 <small>(意大利语 _volere_)</small>  
-**ye** 是，对 <small>(韩国语 예 _ye_)</small>  
 **wang** 黄色 <small>(广东话 _wong_)</small>  
-**xabar** 消息 <small>(马来语 _khabar_)</small>  
+**xam** 晚上 <small>(印地语 _śām_ शाम )</small>  
+**ya** 是，对 <small>(韩国语 예 _ye_)</small>  
+**ye** 他，她，它 <small>(林加拉语 _yé_)</small>  
+**yemen** 他们  
 **yem** 吃，喝 <small>(土耳其语 _yemek_)</small>  
 
 

@@ -15,12 +15,12 @@ Perussäännöt
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
     - esim. **mi penta meza.** = Minä maalaan pöytiä.
 7. Passiivisen lauseessa on vain subjekti ja verbi.
-    - esim. **ta penta.** = Se maalataan.
+    - esim. **ye penta.** = Se maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
-    - esim. **mi cing ti dar pesa.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **mi cing tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Osaatko sinä panduniaa?
-    - **mi tcing ti loga tez.** →  **tcing loga tez.** = Pyydän, puhu kovempaa.
+    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Osaatko sinä panduniaa?
+    - **mi cing tu loga tez.** →  **cing loga tez.** = Pyydän, puhu kovempaa.
 
 
 
@@ -85,7 +85,7 @@ Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 Laatusanoilla voi myös määrittää teonsanaa eli ne toimivat myös adverbin tavoin.
 
 > **mi _bon_ son.** - Minä nukun _hyvin_.  
-> **ti _bon_ baca pandunia.** - Sinä puhut panduniaa _hyvin_.
+> **tu _bon_ baxa pandunia.** - Sinä puhut panduniaa _hyvin_.
 
 
 Lukusanat
@@ -96,7 +96,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 > **un tara** - yksi tähti  
 > **du tara** - kaksi tähteä  
 > **sam tara** - kolme tähteä  
-> **cau tara** - vähän tähtiä  
+> **xau tara** - vähän tähtiä  
 > **poli tara** - paljon tähtiä
 
 
@@ -116,7 +116,7 @@ Perusluvut ovat:
 - 1 **un**
 - 2 **du**
 - 3 **sam**
-- 4 **tcar**
+- 4 **car**
 - 5 **lim**
 - 6 **sis**
 - 7 **set**
@@ -155,15 +155,15 @@ Pronominit
 ### Persoonapronominit
 
 - **mi** minä
-- **ti** sinä
-- **ta** hän, se
+- **tu** sinä
+- **ye** hän, se
 - **mimen** me
-- **timen** te
-- **tamen** he
+- **tumen** te
+- **yemen** he
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-> **un jovan boi na dom. _ta_ dok buk.**
+> **un jovan boi na dom. _ye_ dok buk.**
 > _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
 **se** - itse
@@ -171,7 +171,7 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 Refleksiivipronominia **se** käytetään sellaisenaan kaikissa persoonissa.
 
 **mi vide se** - Minä näen itseni.
-**ta vide se** - Hän näkee itsensä.
+**ye vide se** - Hän näkee itsensä.
 **mimen vide se.** - Me näemme itsemme.
 
 
@@ -212,22 +212,22 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 
 Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 
-> **ta sara.** - Hän on Sara.
-> **ta batu.** - Se on kivi.
+> **ye sara.** - Hän on Sara.
+> **ye batu.** - Se on kivi.
 
 Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **e** sopii tähän tarkoitukseen.
 
-> **ta e sara.** - Hän on Sara.
-> **ta e mi.** - Se on minä.
+> **ye e sara.** - Hän on Sara.
+> **ye e mi.** - Se on minä.
 > **sa e batu.** - Tuo on kivi.
 > **batu e ting.** - Kivi on esine.
 > **jovan e sundar.** - Nuori on kaunista.
 
-Pikkusanan **ye** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu ye ting**, kivi on esine.
+Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu ya ting**, kivi on esine.
 
 Kieltolauseissa käytetään sanaa **no** (ei).
 
-> **mi no e ti.** - Minä en ole sinä.
+> **mi no e tu.** - Minä en ole sinä.
 > **batu no e hewan.** - Kivi ei ole eläin.
 > **jovan no e sundar.** - Nuori ei ole kaunista.
 
@@ -243,7 +243,7 @@ Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO)
 
 > **mi yem pingo.** - Minä syön omenoita.  
 > **mi audi musik.** - Minä kuuntelen musiikkia.  
-> **mi vide ti.** - Minä näen sinut.
+> **mi vide tu.** - Minä näen sinut.
 
 Toinen mahdollinen sanajärjestys on subjekti–objekti–verbi. Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
 
@@ -253,12 +253,12 @@ SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestyst�
 
 Passiivilauseessa subjekti on teon kohde tai kokija ja objektia ei ole.
 
-> **ti vide.** - Sinut nähdään.  
+> **tu vide.** - Sinut nähdään.  
 > **musik audi.** - Musiikkia kuullaan.
 
 Passiivin voi ilmaista myös apuverbin **bei** avulla.
 
-> **ti bei vide.** - Sinut nähdään. (Sinä tulet nähdyksi.)  
+> **tu bei vide.** - Sinut nähdään. (Sinä tulet nähdyksi.)  
 > **musik bei audi.** - Musiikkia kuullaan. (Musiikki tulee kuulluksi.)
 
 
@@ -285,31 +285,31 @@ Saranarakenne on pandunian keskeisimpiä lauserakenteita. Lisäksi se toimii per
  
 Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekijä.
  
-> **ta cing _mi_ go jia.** - Hän pyytää minua menemään kotiin.
+> **ye cing _mi_ go jia.** - Hän pyytää minua menemään kotiin.
  
 Yllä olevassa esimerkissä ensimmäinen verbi, **cing** (pyytää), saa kohteekseen sanan **mi**, joka toimii yhtäaikaa toisen verbin, **go** (mennä), tekijänä. Toisen verbin kohde on **jia** (koti). Niinpä sanalla **mi** on kaksi roolia: (1) ensimmäisen verbin kohde eli objekti ja (2) toisen verbin tekijä eli subjekti. Se toimii siis ikään kuin saranana kahden verbin välissä.
  
-> **ta les _mi_ go dom.** - Hän päästää minut menemään kotiin.  
-> **ta mus _mi_ go dom.** - Hän pakottaa minut menemään kotiin.
+> **ye les _mi_ go dom.** - Hän päästää minut menemään kotiin.  
+> **ye mus _mi_ go dom.** - Hän pakottaa minut menemään kotiin.
  
 panduniassa on sallittua jättää pronomini pois silloin, kun se tunnetaan ilman muuta. Toisin sanoen, kun puhuja voi varmasti olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu, hänen ei tarvitse jatkuvasti toistaa sitä. Tällä tavalla lauseista voi tehdä lyhyempiä.
  
 Ensimmäisessä saranarakenteen muunnelmassa jätetään pois ensimmäinen subjekti, joka viittaa puhujaan.
  
-> **mi kia ti go dom.** - Minä kysyn, menetkö sinä kotiin.  
-> **kia ti go dom?** - Menetkö kotiin?
+> **mi kia tu go dom.** - Minä kysyn, menetkö sinä kotiin.  
+> **kia tu go dom?** - Menetkö kotiin?
  
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
-> **mi cin ta go dom.** - Minä luulen, että hän menee kotiin.
-> **cin ta go com.** - Kai hän menee kotiin.
-> **mi cak ta go dom.** - Minä epäilen, että hän menee kotiin.
-> **cak ta go dom.** - Tokko hän menee kotiin.
+> **mi xin ye go dom.** - Minä luulen, että hän menee kotiin.
+> **xin ye go com.** - Kai hän menee kotiin.
+> **mi xak ye go dom.** - Minä epäilen, että hän menee kotiin.
+> **xak ye go dom.** - Tokko hän menee kotiin.
  
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
  
-> **mi tcing ti go dom.** - Minä pyydän sinua menemään kotiin.
-> **tcing go dom!** - (Pyydän) mene kotiin!
+> **mi cing tu go dom.** - Minä pyydän sinua menemään kotiin.
+> **cing go dom!** - (Pyydän) mene kotiin!
 
 
 
@@ -343,18 +343,18 @@ Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat
 
 Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **de** avulla.
 
-> **nov bet** - uusi talo  
-> **bet de nov** - talo uusi
+> **nova bet** - uusi talo  
+> **bet de nova** - talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
 > **roza rang ge lab** - ruusun väriset huulet  
-> **sama rang ge yen** - taivaan väriset silmät
+> **sama rang ge mat** - taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
 > **lab de roza rang** - huulet ruusun väriset  
-> **yen de sama rang** - silmät taivaan siniset
+> **mat de sama rang** - silmät taivaan siniset
 
 ### Määrelause
 
@@ -362,11 +362,11 @@ Määrepartikkelien avulla kokonaisista lauseista voi tehdä määreitä.
 
 Siinä tapauksessa **de** vastaa suomen relatiivipronominia _joka_.
 
-> **ta e man _de mi vide_.** - Hän on mies, _jonka minä näin_.
+> **ye e man _de mi vide_.** - Hän on mies, _jonka minä näin_.
 
 Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
-**ta e _mi vide ge_ man.** - Hän on minun näkemä mies.
+**ye e _mi vide ge_ man.** - Hän on minun näkemä mies.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
@@ -389,10 +389,10 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
 > **mi lai dom.** - Minä tulen kotiin.  
-> **ti sit kursi.** - Sinä istut sohvaa (sohvalla).  
-> **ta lala sofa.** - Hän makaa sohvaa (sohvalla).  
-> **matci nata daria.** - Kalat uivat vettä (vedessä).  
-> **djang nik marce dau.** - Soturit kävelevät tietä (tiellä).  
+> **tu sit kursi.** - Sinä istut sohvaa (sohvalla).  
+> **ye lala sofa.** - Hän makaa sohvaa (sohvalla).  
+> **maci nata daria.** - Kalat uivat vettä (vedessä).  
+> **jang nik marce dau.** - Soturit kävelevät tietä (tiellä).  
 
 Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini tai substantiivi täydentää preposition.
 
@@ -403,16 +403,16 @@ Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
 
-> **mi deng ze ti go.** - Minä odotan sinun lähdöstä lähtien.  
-> **mi deng do ti lai dom.** - Minä odotan siihen asti, kun tulet kotiin.  
-> **mi deng na ti son.** - Minä odotan kun sinä nukut.  
+> **mi deng ze tu go.** - Minä odotan sinun lähdöstä lähtien.  
+> **mi deng do tu lai dom.** - Minä odotan siihen asti, kun tulet kotiin.  
+> **mi deng na tu son.** - Minä odotan kun sinä nukut.  
 
 Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _prepositio + ajan tai paikan sana + **de**_.
 
 > **na dur de** - aikana, kestäessä  
-> **mi deng na dur de ti son.** - Minä odotan sillä aikaa kun sinä nukut.  
+> **mi deng na dur de tu son.** - Minä odotan sillä aikaa kun sinä nukut.  
 > **na lok de** - paikassa  
-> **mi deng na lok de ti toka.** - Minä odotan siinä paikassa mistä sinä lähdit.  
+> **mi deng na lok de tu toka.** - Minä odotan siinä paikassa mistä sinä lähdit.  
 > **na cia de** - alapuolella  
 > **un waf lala na cia de meza.** - Koira makaa pöydän alla.  
 > **na men de** - päällä, pinnalla  
@@ -425,7 +425,9 @@ Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **ge** avulla
 Lisäksi myös verbialkuinen lauseke voi täydentää preposition.
 
 > **dur** - kestää (aikaa)  
-> **mi deng na dur ti son.** - Minä odotan sinun nukkumisen aikana.  
+> **mi deng na dur tu son.** - Minä odotan sinun nukkumisen aikana.  
+
+
 ### Tavan prepositiot
 
 ...
@@ -441,10 +443,10 @@ Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lausee
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-> **ta yem bir plus.** - Hän juo olutta, myös.  
-> **ta yem plus bir.** - Hän juo _myös olutta_.  
-> **ta plus yem bir.** - Hän _myös juo_ olutta.  
-> **plus ta yem bir.** - _Myös hän_ juo olutta.
+> **ye yem bir plus.** - Hän juo olutta, myös.  
+> **ye yem plus bir.** - Hän juo _myös olutta_.  
+> **ye plus yem bir.** - Hän _myös juo_ olutta.  
+> **plus ye yem bir.** - _Myös hän_ juo olutta.
 
 Huom! Myös laatusanat voivat määrittää sekä seuraavaa sanaa että viimeisenä ollessaan koko lausetta.
 
@@ -467,13 +469,13 @@ Muuta
 
 Puhuttu kieli on äänteiden virtaa, joka koostuu sanoista. Pandunian tapauksessa kirjoitettu kieli on kirjainten virtaa vasemmalta oikealle, joka koostuu kirjoitetuista sanoista. Jokainen lause tai muu ilmaus on siis yhden tai useamman sanan muodostama ketju. Ketjun sanat eivät kuitenkaan ole tasa-arvoisia, vaan sanoilla on arvojärjestys keskeisimmästä vähäpätöisimpään. Yksinkertaisen lauseen rakenteellinen keskus on verbi ja muut sanat liittyvät siihen joko suorasti tai epäsuorasti.
 
-Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sanat ovat ylempänä ja niistä riippuvat sanat alempana. Esimerkiksi lause **mi vida ti** voidaan piirtää näin:
+Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sanat ovat ylempänä ja niistä riippuvat sanat alempana. Esimerkiksi lause **mi vida tu** voidaan piirtää näin:
 
-    mi vida ti. - Minä näen sinut.
+    mi vida tu. - Minä näen sinut.
 
        vide
       ┌─┴─┐
-     mi   ti
+     mi   tu
 
 Laatusanat ja lukusanat riippuvat pääsanastaan.
 
@@ -502,13 +504,13 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara vol darsa pandunia koz ta e bon dunia baca.
+    yusef i sara vol darsa pandunia koz ye e bon dunia baxa.
 
-                         ze koz de
+                      ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    baca
+          i         darsa        ye    baxa
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |

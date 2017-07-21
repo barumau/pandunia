@@ -665,7 +665,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
-**cing** ask, request <small>(German _bitten_)</small>  
+**cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
 **dom** home <small>(Russian _dom_ дом)</small>  
 **e** to be <small>(Portuguese _é_)</small>  

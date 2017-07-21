@@ -782,6 +782,7 @@ medit : meditate (ponder)
 medu : honey  
 mega : million (mega-)  
 megam : cloud  
+mehiko : Mexico  
 mei : every (each)  
 mei jen : everybody (everyone)  
 mei xe : everything  
@@ -789,10 +790,8 @@ melodi : melody
 member : member  
 meme : sheep  
 men : bunch (collection)  
+mes : month  
 mes 1 (mes un) : January  
-mes 10 (mes des) : October  
-mes 11 (mes des un) : November  
-mes 12 (mes des du) : December  
 mes 2 (mes du) : February  
 mes 3 (mes sam) : March  
 mes 4 (mes car) : April  
@@ -801,13 +800,14 @@ mes 6 (mes sis) : June
 mes 7 (mes set) : July  
 mes 8 (mes bat) : August  
 mes 9 (mes noi) : September  
-mes : month  
+mes 10 (mes des) : October  
+mes 11 (mes des un) : November  
+mes 12 (mes des du) : December  
 mesi : messiah (Christ)  
 metal : metal  
 metal nik : metalhead  
 meter : meter  
 metod : method  
-mexiko : Mexico  
 meza : table  
 mi : I (me)  
 mi ge : my  

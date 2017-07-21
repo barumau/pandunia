@@ -25,8 +25,8 @@ Konsonantit
 
     p  b  f  v  m  w
     t  d  s  z  n  l  r
-          c  j     y
-    k  g  x  h  ng
+    c  j  x        y
+    k  g  h     ng
 
 Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t, v** ääntäminen on tuttua ja helppoa.
 

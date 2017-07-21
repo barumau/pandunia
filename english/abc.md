@@ -29,22 +29,21 @@ Consonant Sounds
 
     p  b  f  v  m  w
     t  d  s  z  n  l  r
-          c  j     y
-    k  g  x  h
+    c  j  x        y
+    k  g  h
 
-Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, k, l, m, n, p, t, v, z** is familiar and easy.
+Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, v, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
-- **c** is always pronounced like SH in _ship_.
-- **j** is pronounced like the S in _measure_ or the J in the French greeting _bon jour_.
 - **g** is always hard like in _girl, get_.
 - **r** is preferably trilled like in Scottish English or Spanish _carro_. Also other pronunciations are acceptable. Note that **r** is never silent!
 - **s** is always voiceless like in _sissy_. **z** is voiced like in _zoo_.
-- **x** is a gargling sound. It sounds like the ch in "loch" when it is pronounced by a real Scot.
+- **x** is always pronounced like SH in _ship_.
+- **c** is pronounced like CH in _chip_.
+- **j** is pronounced like the English J.
 - **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
 
-Letter combination **tc** is pronounced like ch in _chip_ and **dj** is pronounced like the English J.
 
 
 ### Stress Accent
@@ -56,7 +55,7 @@ The stress is on the syllable, which is before the last consonant.
 3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
 
 > **dúnia e mimén ge sundár planét.**  
-> **mí vól lóga komún báca yáni pandúnia.**  
+> **mí vól lóga komún báxa yáni pandúnia.**  
 
 
 ### Schwa
