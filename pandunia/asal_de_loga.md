@@ -317,8 +317,8 @@ fu ← ruski:fu polska:fuj doic:pfui
 fubu ← putonghan:fubu nipon:fukubu  
 fuk ← nipon:fuku viet:phục yuthan:fuk putonghan:fú  
 ful ← englix:full doic:voll  
+funci ← espanya:función portugal:função indonesia:fungsi turki:fonksiyon ruski:funktsiia  
 fung ← putonghan:fēng yuthan:wuu:fung  
-funsi ← espanya:función portugal:função indonesia:fungsi turki:fonksiyon ruski:funktsiia  
 futur ← englix:frans:future espanya:portugal:futuro  
 
 ## g
@@ -1286,19 +1286,20 @@ wing ← englix:wing doic:Winge
 
 ## x
 
-xaxa ← putonghan:shāshā  
 xak ← arabi:šakk farsi:šak urdu:śakk swahili:shaka  
 xakal ← espanya:portugal:frans:chacal ruski:šakal turki:çakal farsi:šoğāl englix:jackal  
 xal ← englix:doic:ruski:frans:espanya:portugal:arabi:turki:indonesia:farsi:hindi:urdu:nipon:hanguk:  
 xam ← hindi:urdu:śām farsi:akšam  
 xaman ← englic:shaman rus:šaman  
 xamba ← swahili:shamba + frans:champ (espanya:portugal:campo)  
+xampu ← portugal:xampu englix:shampoo  
 xan ← putonghan:shān nipon:hanguk:san  
 xani ← hindi:bangla:urdu:tamil:telugu:śani bama:səne  
 xanti ← bangla:hindi:urdu:śanti thai:santi  
 xaria ← arabi:šarī'a farsi:šari'at turki:şerîat indonesia:syariat bangla:šåriya hindi:urdu:śariyat englix:espanya:sharia frans:charia ruski:šariat  
 xatan ←   
 xau ← putonghan:shǎo  
+xaxa ← putonghan:shāshā  
 xe ← putonghan:shì + egy:še' arabi:šay turki:şey  
 xef ← fran:chef eng:chief espanya:jefe   
 xia ← putonghan:xià  

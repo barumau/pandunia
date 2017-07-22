@@ -28,14 +28,14 @@ analis : analyse
 anime : animation (cartoon)  
 anjil : gospel
 anma : spirit (soul)  
-anten : antenna  
+antena : antenna  
 anus : anus  
 ara : saw tool  
 arabi : Arabic  
 aranji : orange (fruit)  
 arbuz : watermelon  
 arena : arena (stadium)  
-argentina : Argentina
+arhentina : Argentina
 armi : army  
 arte : art  
 asal : origin  
@@ -101,7 +101,7 @@ baxa : language
 baxa logi : linguistics
 bazar : market (bazaar)  
 baze : base (foundation)  
-bebe : baby  
+bebe : baby (darling)  
 bed : bed  
 bei : undergo (verb of the passive voice)  
 belarus : Belarus  
@@ -118,7 +118,6 @@ bi : with (by)
 bi no : without  
 bi tema de : about (concerning)  
 bi yang de : like (in the style of)  
-bibi : baby (darling)  
 biblia : Bible  
 bin : pot (bin)  
 bir : beer  
@@ -168,8 +167,9 @@ ca : tea
 ca wan : tea bowl  
 cabi : key  
 cabuk : whip (lash)  
-cakra : wheel  
+caka : wheel  
 campion : champion  
+cans : opportunity (chance)  
 cap : press (stamp)  
 car : four (4)  
 cat : chat (informal conversation)  
@@ -271,7 +271,7 @@ dzayer : Algeria
 
 ##e  
 
-e_ : be  
+e : be  
 eglis : church  
 eho : echo  
 ekran : screen  
@@ -438,6 +438,7 @@ helen : Greek (Hellenic)
 helmet : helmet  
 hema : tent  
 hen : hate  
+hero : hero  
 hewan : animal  
 hibride : hybrid (mongrel)  
 hima : snow  
@@ -523,7 +524,6 @@ jong : species
 jovan : young  
 judo : judo  
 jumla : sentence (phrase)  
-jung : melt  
 jungok : China  
 jup : skirt  
 jus : juice  
@@ -778,7 +778,7 @@ maxin : machine
 medalia : medallion (medal)  
 mede : help  
 medi : mean (medium, average)  
-medit : meditate (ponder)  
+medita : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
 megam : cloud  
@@ -1184,7 +1184,7 @@ sudafrika : South Africa (republic)
 sudan : Sudan  
 suha : dry  
 sui : water  
-suk : enjoy (like, be pleased, be happy)  
+suka : enjoy (like, be pleased, be happy)  
 sukar : sugar  
 sultan : power (authority, rule)  
 sum : sum (total)  
@@ -1362,37 +1362,37 @@ wing : wing
 
 ##x  
 
-xak : doubt (disbelief)
-xakal : jackal
-xal : scarf (shawl)
-xam : evening
-xam den : afternoon
-xam salam : Good evening
-xam yem : dinner
-xaman : shaman
-xamba : field (countryside)
-xan : mountain (hill)
-xani : Saturn
-xans : opportunity (chance)
-xanti : peace (calm)
-xaria : shari'a
-xatan : devil (Satan)
-xatur : chess
-xau : few (little)
-xaxa : rustle
-xe : thing
-xef : chief
-xef wazir : prime minister
-xia : under (below)
-xifu : master (sensei)
-xigo : accident (mishap)
-xik : elegant (chic)
-xim : heart
-xin : believe (faith, creed)
-xir : poem
-xirop : syrup
-xok : shock (collide)
-xuli : repair (fix)
+xak : doubt (disbelief)  
+xakal : jackal  
+xal : scarf (shawl)  
+xam : evening  
+xam den : afternoon  
+xam salam : Good evening  
+xam yem : dinner  
+xaman : shaman  
+xamba : field (countryside)  
+xampu : shampoo  
+xan : mountain (hill)  
+xani : Saturn  
+xanti : peace (calm)  
+xaria : shari'a  
+xatan : devil (Satan)  
+xatur : chess  
+xau : few (little)  
+xaxa : rustle  
+xe : thing  
+xef : chief  
+xef wazir : prime minister  
+xia : under (below)  
+xifu : master (sensei)  
+xigo : accident (mishap)  
+xik : elegant (chic)  
+xim : heart  
+xin : believe (faith, creed)  
+xir : poem  
+xirop : syrup  
+xok : shock (collide)  
+xuli : repair (fix)  
 
 ##y  
 

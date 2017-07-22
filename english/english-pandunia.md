@@ -53,7 +53,7 @@
 able (capable)   : kabil  
 about (approximately, circa)   : sirka  
 about (concerning)   : bi tema de  
-accident (mishap) : xigo  
+accident (mishap)   : xigo  
 address   : adres  
 adult   : adulte  
 adultery (infidelity)   : zina  
@@ -62,7 +62,7 @@ advice (counsel)   : konsel
 affirm (agree, concur, amen)   : amen  
 Africa   : afrika  
 after (later)   : bada  
-afternoon : xam den  
+afternoon   : xam den  
 again   : re  
 age   : umur  
 agression (assault)   : agres  
@@ -89,7 +89,7 @@ animal   : hewan
 animation (cartoon)   : anime  
 anniversary   : nen festa  
 answer (response)   : dap  
-antenna   : anten  
+antenna   : antena  
 anus   : anus  
 any (no matter which)   : eni  
 appearance (looks)   : rup  
@@ -97,7 +97,7 @@ apple   : pingo
 April   : mes 4 (mes car)  
 Arabic   : arabi  
 arena (stadium)   : arena  
-Argentina : argentina  
+Argentina : arhentina  
 argh! : ah  
 argue (debate)   : debat  
 argument (thesis)   : lun  
@@ -123,8 +123,7 @@ Austria   : osteraih
 axe (hatchet)   : tabar  
 axis   : akse  
 ##b  
-baby   : bebe  
-baby (darling)   : bibi  
+baby (darling)   : bebe  
 back   : ruk  
 backpack (rucksack)   : ruk sak  
 bad (not good)   : bad  
@@ -158,7 +157,7 @@ beer   : bir
 begin (commence)   : kaixi  
 Belarus   : belarus  
 Belgium   : belgi  
-believe (faith, creed) : xin  
+believe (faith, creed)   : xin  
 Belize   : belize  
 bell pepper  : cili  
 belly (abdomen)   : fubu  
@@ -278,12 +277,12 @@ cheese   : cis
 chemical   : kimi  
 chemistry   : kimi logi  
 cherub   : kerub  
-chess : xatur  
+chess   : xatur  
 chest (thorax)   : sen  
 chestnut   : kastan  
 chicken   : kok  
 chickpea   : humus  
-chief : xef  
+chief   : xef  
 child (offspring)   : ban  
 Chile   : cile  
 chili pepper   : lat cili  
@@ -383,13 +382,13 @@ demon   : demon
 Denmark   : danmark  
 dentist   : dante doktor  
 detail   : detal  
-devil (Satan) : xatan  
+devil (Satan)   : xatan  
 dew   : rose  
 dharma (piety)   : darma  
 diamond   : almas  
 die (dice)   : dado  
 dig (excavate)   : kava  
-dinner : xam yem  
+dinner   : xam yem  
 disc (disk)   : diske  
 distant (tele-)   : tele  
 doctor (physician)   : doktor  
@@ -401,7 +400,7 @@ Dominican Republic   : dominika
 dominoes   : domino  
 donkey (ass)   : iha  
 door (gate)   : mun  
-doubt (disbelief) : xak  
+doubt (disbelief)   : xak  
 dragonfly   : libel  
 drama   : drama  
 drawing (picture)   : desen  
@@ -429,7 +428,7 @@ eight (8)   : bat
 elastic   : lastik  
 electricity   : eletre  
 electron   : eletron  
-elegant (chic) : xik  
+elegant (chic)   : xik  
 elephant   : gaja  
 embassy : daixi kan  
 emerald   : zumrud  
@@ -441,7 +440,7 @@ energy   : energi
 engine (motor)   : motor  
 engineer (apply science to)   : handis  
 English   : englix  
-enjoy (like, be pleased, be happy)   : suk  
+enjoy (like, be pleased, be happy)   : suka  
 enough (sufficient)   : bas  
 enthusiast (aficionado)   : nik  
 Eris (dwarf planet)   : eris  
@@ -453,7 +452,7 @@ euro   : euro
 Europe   : europa  
 European Union (EU)   : europa uni  
 even (intensifier)   : hata  
-evening : xam  
+evening   : xam  
 event (case, instance)   : kazu  
 every (each)   : mei  
 everybody (everyone)   : mei jen  
@@ -484,8 +483,8 @@ fear (phobia)   : fobi
 feather   : puru  
 February   : mes 2 (mes du)  
 feel (emotion)   : senti  
-few (little) : xau  
-field (countryside) : xamba  
+few (little)   : xau  
+field (countryside)   : xamba  
 fiever   : feber  
 fight (war)   : jang  
 figure (representation)   : figur  
@@ -560,7 +559,7 @@ god   : deva
 gold   : gim  
 good   : bon  
 Good day   : den salam  
-Good evening : xam salam  
+Good evening   : xam salam  
 Good morning   : suba salam  
 gospel : anjil  
 gram   : gram  
@@ -598,13 +597,14 @@ hazard (random)   : hazar
 he or she or it   : ye  
 head   : sar  
 hear (listen)   : audi  
-heart : xim  
+heart   : xim  
 Hebrew   : ibri  
 hell   : narak  
 hello (hi)   : halo  
 helmet   : helmet  
 help   : mede  
 heritage (bequest)   : waris  
+hero   : hero  
 high   : gau  
 Himalayas   : himalia  
 Hindu   : hindu  
@@ -669,7 +669,7 @@ Israel   : israel
 issue   : masala  
 Italy   : italia  
 ##j  
-jackal : xakal  
+jackal   : xakal  
 jacket   : jaket  
 Jamaica   : jameika  
 January   : mes 1 (mes un)  
@@ -791,7 +791,7 @@ Mars   : marsi
 mask (camouflage)   : maska  
 mass (lump)   : masa  
 massage   : masaje  
-master (sensei) : xifu  
+master (sensei)   : xifu  
 match (contest)   : mace  
 matter (substance)   : mater  
 mattress   : matras  
@@ -802,10 +802,9 @@ mean (medium, average)   : medi
 mean (signify)   : mana  
 meat (flesh)   : nama  
 medallion (medal)   : medalia  
-meditate (ponder)   : medit  
+meditate (ponder)   : medita  
 meet   : mil  
 melody   : melodi  
-melt   : jung  
 member   : member  
 memory   : yad  
 Mercury   : budan  
@@ -814,7 +813,7 @@ metal   : metal
 metalhead   : metal nik  
 meter   : meter  
 method   : metod  
-Mexico   : mexiko  
+Mexico   : mehiko  
 micro-   : mikro  
 milk   : milke  
 milli-   : mili  
@@ -843,7 +842,7 @@ moss   : mos
 most (maximally)   : maxim  
 mother   : ma  
 mother (mom)   : mama  
-mountain (hill) : xan  
+mountain (hill)   : xan  
 mouse   : muxu  
 mouth   : boka  
 MSG (monosodium glutamate)   : micin  
@@ -918,7 +917,7 @@ one (1)   : un
 only (just)   : sol  
 open (not closed)   : kai  
 opinion (view)   : igen  
-opportunity (chance) : xans  
+opportunity (chance)   : cans  
 opposing (anti-)   : fan  
 or   : u  
 orange (fruit)   : aranji  
@@ -957,7 +956,7 @@ path   : pat
 patient (composed)   : sabur  
 pause (break, interrupt)   : paus  
 pay (payment)   : pei  
-peace (calm) : xanti  
+peace (calm)   : xanti  
 peanut (groundnut)   : bumi dou  
 pear   : pera  
 pearl   : lulu  
@@ -980,6 +979,7 @@ physics   : fizik logi
 physique   : fizik  
 piano   : piano  
 picnic   : piknik  
+pidgin (contact language)   : pijin  
 pie (pastry)   : pai  
 pig   : goro  
 pilot   : pilot  
@@ -1001,7 +1001,7 @@ play (have fun)   : joga
 pliers (pincers)   : pinse  
 Pluto (dwarf planet)   : pluto  
 pocket   : jeb  
-poem : xir  
+poem   : xir  
 point (full stop)   : punt  
 point (indicate)   : pont  
 point (spot)   : dem  
@@ -1034,7 +1034,7 @@ pray   : dua
 precise (exact, accurate)   : presis  
 press (stamp)   : cap  
 priest (cleric)   : din guru  
-prime minister : xef wazir  
+prime minister   : xef wazir  
 prison   : bandi kan  
 prisoner (jailbird)   : bandi  
 problem   : problem  
@@ -1077,7 +1077,7 @@ religion   : din
 rent   : kira  
 rent (hire)   : kira kap  
 rent out (let, lease)   : kira dar  
-repair (fix) : xuli  
+repair (fix)   : xuli  
 repeat   : re kar  
 report (recount, relate)   : repor  
 represent (to)   : wakil  
@@ -1110,7 +1110,7 @@ rubbish (trash)   : laji
 rum   : rom  
 Russia   : rosia  
 Russian (ethnic Russian)   : ruski  
-rustle : xaxa  
+rustle   : xaxa  
 ##s  
 Sabbath   : sabat  
 sad   : udas  
@@ -1121,13 +1121,13 @@ salt   : sal
 same   : sem  
 sand   : balu  
 Saturday   : var 6 (var sis)  
-Saturn : xani  
+Saturn   : xani  
 sauce   : sos  
 sausage   : sosis  
 save (deposit, bank)   : banka  
 saw tool   : ara  
 say (word)   : loga  
-scarf (shawl) : xal  
+scarf (shawl)   : xal  
 school (institution)   : darsa kan  
 science   : logi  
 scissors   : makas  
@@ -1153,11 +1153,12 @@ sesame   : sesam
 seven (7)   : set  
 sex (sexual intercourse)   : seksi  
 shadow   : caya  
-shaman : xaman  
-shari'a : xaria  
+shaman   : xaman  
+shampoo   : xampu  
+shari'a   : xaria  
 sheep   : meme  
 shirt   : kamis  
-shock (collide) : xok  
+shock (collide)   : xok  
 shoe   : sapat  
 shore (coast)   : kosta  
 short (not long)   : duan  
@@ -1237,7 +1238,7 @@ surrender (to give up)   : salim
 sushi   : suxi  
 Sweden   : svenska  
 Switzerland   : svis  
-syrup : xirop  
+syrup   : xirop  
 system   : sistem  
 ##t  
 table   : meza  
@@ -1276,7 +1277,7 @@ they   : tamen
 they   : yemen  
 thick (fat)   : pang  
 thing   : ting  
-thing : xe  
+thing   : xe  
 think   : pensa  
 this (this over here)   : sa jin  
 this or that   : sa  
@@ -1333,7 +1334,7 @@ tyrant   : tiran
 ##u  
 Ukraine   : ukrayina  
 umbrella (parasol)   : catar  
-under (below) : xia  
+under (below)   : xia  
 undergo (verb of the passive voice)   : bei  
 understand (realize)   : aha  
 unite   : uni  
@@ -1395,7 +1396,7 @@ weird (strange)   : bizar
 welcome   : lai salam  
 west   : weste  
 what?   : ke  
-wheel   : cakra  
+wheel   : caka  
 while (during)   : na dur de  
 whip (lash)   : cabuk  
 white   : bai  

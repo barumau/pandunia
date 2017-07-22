@@ -34,13 +34,9 @@ awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | 
 sed 's/_//g' -i russki/ruski-pandunia.md
 sed 's/$/  /' -i russki/ruski-pandunia.md
 
-# ze pandunia do esperanto
-cat esperanto/vortaro.txt temp/alfahead.txt > temp/temp.txt
-sed 's/	/ : /g' temp/temp.txt | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/pandunia-esperanto.md
-sed 's/_//g' -i esperanto/pandunia-esperanto.md
-sed 's/$/  /' -i esperanto/pandunia-esperanto.md
 # ze esperanto do pandunia
-cat esperanto/vortaro.txt temp/alfahead.txt > temp/temp.txt
-awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/esperanto-pandunia.md
+cat esperanto/pandunia-esperanto.md | sed '/^#/ d' > temp/temp2.txt
+cat temp/temp2.txt temp/alfahead.txt > temp/temp.txt
+awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/esperanto-pandunia.md
 sed 's/_//g' -i esperanto/esperanto-pandunia.md
 sed 's/$/  /' -i esperanto/esperanto-pandunia.md
