@@ -114,20 +114,25 @@ Pandunia is an isolating language. It uses separate words to express things like
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    vide  du  sundar    yen        nun.
+    Pandunia:  mi ken    vide  du  sundar    mat        nun.
                I  can    see   two beautiful eyes       now.
 
-#### Why is the letter C pronounced like SH?
+#### Why is the letter X pronounced like SH?
  
 Pandunia follows the phonetic principle. One letter represents exactly one sound, and one sound is written with exactly one letter.
 
 Traditionally there isn't any dedicated letter for /ʃ/ in the Latin alphabet. This sound is frequently written by the letter combination SH in English. Other languages use different letters and letter combinations such as CH in French, SCH in German, SJ in Swedish, SZ in Polish, Š in Czech and Ş in Turkish.
 
-On the other hand, there isn't any dedicated sound for the letter C. In English C has several uses. It can stand for /k/ as in _cat_, /s/ as in _city_, /ʃ/ as in _musician_ and /tʃ/ as in _cello_. Other languages use C for these and several other sounds, see details in [Wikipedia](https://en.wikipedia.org/wiki/C#Use_in_writing_systems).
+However, there is a handful of languages that use the letter X for /ʃ/. Basque and Maltese do it without exception. Portuguese and Catalan are less consistent, but X stands for /ʃ/ frequently. Pandunia word **xampu** is written exactly the same as in Portuguese. It means _shampoo_.
 
-English _hard C_ can be represented by K and the _soft C_ by S. Slavic /ts/, Italian /tʃ/ and Turkic /dʒ/ are compound sounds that are better represented by letter combinations than a single letter. So the letter C is free for re-use. /ʃ/ is the only simple sound that is widely used in modern languages and that doesn't have a dedicated letter in the Latin alphabet. That's why C stands for /ʃ/ in Pandunia.
+In the Chinese romanization systen, Pīnyīn, the letter X stands for /ɕ/ which is close to /ʃ/. Pandunia has many words with X from Chinese, for example **xia, xim** and **xin**.
 
-The sound /tʃ/ (i.e. the CH in _church_) is logically written TC in Pandunia. This is another sound that is written in different ways in different languages. Some of them are in principle similar to the Pandunia way, including French TCH, German TSCH, Swedish TJ, Vietnamese TR, Finnish TŠ and Filipino TS.
+
+#### Why is the letter C pronounced like CH?
+
+Actually there are several languages where C is pronounced like English CH. Some of them are Indonesian, Hausa, Oromo and Rwanda. In Italian, when C is followed by E or I, it is pronounced /tʃ/. This pronunciation is attested in loand words from Italian such as _cello_ and _cappuccino_.
+
+On the other hand, the letter C doesn't stand for any dedicated sound in English. The _hard C_ can be represented by K and the _soft C_ by S. So it kind of makes sense to drop the H from CH.
 
 #### Shouldn't "salam" mean "peace"?
 
