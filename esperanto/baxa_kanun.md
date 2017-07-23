@@ -20,12 +20,12 @@ Bazaj reguloj
     - ekz.  **mi penta meza.** = Mi kolorigas tablojn.
 7. En frazoj kiuj havas pasivan sencon, rolas nur subjekto kaj verbo.
 
-    - ekz.  **ta penta.** = Ĝi koloriĝas.
+    - ekz.  **ye penta.** = Ĝi koloriĝas.
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **mi bite ti dar pesa.** = Mi petas vin (por) doni monon.
+    - ekz. **mi cing tu dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **mi kia ti baca pandunia?** → **kia ti baca pandunia?** = Ĉu vi parolas pandunion?
-    - **mi bite ti loga tez.** →  **bite loga tez.** = Bonvolu paroli laŭte.
+    - **mi kia tu baca pandunia?** → **kia tu baca pandunia?** = Ĉu vi parolas pandunion?
+    - **mi cing tu loga tez.** →  **cing loga tez.** = Bonvolu paroli laŭte.
 
 
 Vortospecoj
@@ -155,11 +155,11 @@ Pronomoj
 Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
 **mi** - mi  
-**ti** - vi _(ununombre)_  
-**ta** - li, ŝi, ri, ĝi  
+**tu** - vi _(ununombre)_  
+**ye** - li, ŝi, ri, ĝi  
 **mimen** - ni  
-**timen** - vi _(multnombre)  
-**tamen** - ili
+**tumen** - vi _(multnombre)  
+**yemen** - ili
 
 **se** - si (mem)
 
@@ -167,7 +167,7 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
 **mi vide se** - Mi vidas min.  
-**ta vide se** - Ŝi vidas sin.  
+**ye vide se** - Ŝi vidas sin.  
 
 
 ### Montrovorto
@@ -217,19 +217,19 @@ Frazoj normale konsistas el subjekto kaj predikato. En la plej simplaj frazoj la
 
 Eblas ankaŭ, ke la subjekto estas pronomo, kaj la predikato estas substantivo.
 
-> **ta sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)  
-> **ta batu.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
+> **ye sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)  
+> **ye batu.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
 
-Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per la vorteto **ye** (jes). Tamen eblas uzi **ye** tiurole ankaŭ en normalaj situacioj.
+Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per la vorteto **ya** (jes). yemen eblas uzi **ya** tiurole ankaŭ en normalaj situacioj.
 
-> **ta e mi.** - Ĝi estas mi.  
+> **ye e mi.** - Ĝi estas mi.  
 > **sa e batu.** - Tio estas ŝtono.  
 > **batu e ting.** - Ŝtono estas aĵo.  
 > **jovan e sundar.** - Juna estas bela.
 
-Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ye**.
+Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ya**.
 
-> **mi no e ti.** - Mi ne estas vi.  
+> **mi no e tu.** - Mi ne estas vi.  
 > **batu no e hewan.** Ŝtono ne estas animalo.  
 > **jovan no e sundar.** - Juna ne estas bela.  
 
@@ -243,20 +243,20 @@ Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas
 
 > **mi yem pingo.** - Mi manĝas pomojn.  
 > **mi audi musik.** - Mi aŭdas muzikon.  
-> **mi vide ti.** - Mi vidas vin.
+> **mi vide tu.** - Mi vidas vin.
 
 Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
 
 > **mi musik audi.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)     
-> **mi ti vide.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
+> **mi tu vide.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
 
 La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo, tiel ke nur restu objekto kaj verbo.
 
-> **ti vide.** - Vi vidiĝas.  
+> **tu vide.** - Vi vidiĝas.  
 > **musik audi.** - Muziko aŭdiĝas.  
 Sed ofte oni uzas la helpantan verbon **bei** por la pasiva senco.
 
-> **ti bei vide.** - Vi estas vidata.  
+> **tu bei vide.** - Vi estas vidata.  
 > **musik bei audi.** - Muziko estas aŭdata.
 
 
@@ -280,25 +280,25 @@ La ĉarnira konstruo estas tre grava konstruo en pandunio. Ĝi estas ankaŭ la b
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
-> **ta bite _mi_ go dom.** - Ĝi petas min iri hejmen.  
-> **ta les _mi_ go dom.** - Ĝi lasas min iri hejmen.  
-> **ta mus _mi_ go dom.** - Li devigas min iri hejmen.
+> **ye cing _mi_ go dom.** - Ĝi petas min iri hejmen.  
+> **ye les _mi_ go dom.** - Ĝi lasas min iri hejmen.  
+> **ye mus _mi_ go dom.** - Li devigas min iri hejmen.
 
 La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subjekto, ĉar ĝi estas memkomprenebla en la kunteksto.
 
-> **mi kia ti go dom.** - Mi demandas (ĉu) vi iris hejmen.  
-> **kia ti go dom?** - Ĉu vi iris hejmen?
+> **mi kia tu go dom.** - Mi demandas (ĉu) vi iris hejmen.  
+> **kia tu go dom?** - Ĉu vi iris hejmen?
 
 Ĉi tiu estas tipa formo de klaso da frazoj, kiuj montras rilaton aŭ vidpunkton de la parolanto al kion li parolas.
 
-> Demando: **kia ta go dom?** - Mi demandas ke...  
-> Kredo: **cin ta go dom.** - Mi kredas ke...  
-> Dubo: **cak ta go dom.** - Mi dubas ke...  
+> Demando: **kia ye go dom?** - Mi demandas ke...  
+> Kredo: **cin ye go dom.** - Mi kredas ke...  
+> Dubo: **cak ye go dom.** - Mi dubas ke...  
 
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
-> **mi bite ti go dom.** - Mi petas vin iri hejmen.  
-> **bite go dom.** - Bonvolu iri hejmen.
+> **mi cing tu go dom.** - Mi petas vin iri hejmen.  
+> **cing go dom.** - Bonvolu iri hejmen.
 
 
 
@@ -314,11 +314,11 @@ La partikulo **de** estas uzata en kontraŭa ordo: unue la determinato, meze la 
 | Per _ge_                         | Per _de_                                 |
 |:---------------------------------|:-----------------------------------------|
 | **mi ge dom** - mia hejmo        | **dom de mi** - hejmo de mi              |
-| **ti ge dom** - via hejmo        | **dom de ti** - hejmo de vi              |
-| **ta ge dom** - lia/ŝia hejmo    | **dom de ta** - hejmo de li/ŝi/ĝi        |
-| **mimen ge dom** - nia home      | **dom de mimen** - hejmo de ni           |
-| **timen ge dom** - via home      | **dom de timen** - hejmo de vi           |
-| **tamen ge dom** - ilia home     | **dom de tamen** - hejmo de ili          |
+| **tu ge dom** - via hejmo        | **dom de tu** - hejmo de vi              |
+| **ye ge dom** - lia/ŝia hejmo    | **dom de ye** - hejmo de li/ŝi/ĝi        |
+| **mimen ge dom** - nia hejmo     | **dom de mimen** - hejmo de ni           |
+| **tumen ge dom** - via hejmo     | **dom de tumen** - hejmo de vi           |
+| **yemen ge dom** - ilia hejmo    | **dom de yemen** - hejmo de ili          |
 
 > **jovan mama ge dom** - domo de juna patrino  
 > **batu ge cung** - pezo de ŝtono
@@ -352,12 +352,12 @@ Normalle la adjectivo estas antaŭ la substantivo en pandunio. Oni povas meti ĝ
 Oni povas krei pli kompleksajn adjektivojn per helpo de la determinaj partikuloj.
 
 > **roza rang ge lab** - rozkoloraj lipoj  
-> **sama rang ge yen** - cielkoloraj okuloj
+> **sama rang ge mat** - cielkoloraj okuloj
 
 Kaj en la kontraŭa ordo:
 
 > **lab de roza rang** - lipoj rozkoloraj  
-> **yen de sama rang** - okuloj cielkoloraj
+> **mat de sama rang** - okuloj cielkoloraj
 
 ### Relativa frazo
 
@@ -365,11 +365,11 @@ Oni kreas ankaŭ relativajn frazojn per la determinajn partikulojn.
 
 Jen **de** funkcias kiel esperanta "kiu".
 
-> **ta e man _de mi vide_.** - Li estas viro, _kiun mi vidis_.
+> **ye e man _de mi vide_.** - Li estas viro, _kiun mi vidis_.
 
 Ankaŭ eblas uzi partikulon **ge**. Oni ne povas esperantigi ĝin laŭvorte.
 
-**ta e _mi vide ge_ man.** - *Li estas _mividita_ viro.
+**ye e _mi vide ge_ man.** - *Li estas _mividita_ viro.
 
 Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
 
@@ -386,10 +386,10 @@ En pandunio, modala partikulo modifas la sekvantan vorton. Se la partikulo estas
 
 Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
 
-> **ta yem bir plus.** - Li trinkas bieron, _ankaŭ_.  
-> **ta yem plus bir.** - Li trinkas _ankaŭ bieron_.  
-> **ta plus yem bir.** - Li _ankaŭ trinkas_ bieron.  
-> **plus ta yem bir.** - _Ankaŭ li_ trinkas bieron.
+> **ye yem bir plus.** - Li trinkas bieron, _ankaŭ_.  
+> **ye yem plus bir.** - Li trinkas _ankaŭ bieron_.  
+> **ye plus yem bir.** - Li _ankaŭ trinkas_ bieron.  
+> **plus ye yem bir.** - _Ankaŭ li_ trinkas bieron.
 
 Notu! Ankaŭ adjektivoj povas modifi aŭ unu vorton aŭ la tutan frazon.
 
