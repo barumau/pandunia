@@ -190,7 +190,7 @@ bottom   : tal
 bow instrument (violin, etc.)   : ticin  
 bowl (earless cup)   : wan  
 box (chest)   : sanduk  
-boy   : boi  
+boy   : jovan man  
 boycott   : boikot  
 brain   : nau  
 brave (courageous)   : yungam  
@@ -283,6 +283,7 @@ chestnut   : kastan
 chicken   : kok  
 chickpea   : humus  
 chief   : xef  
+child (kid)   : nini  
 child (offspring)   : ban  
 Chile   : cile  
 chili pepper   : lat cili  
@@ -372,6 +373,7 @@ dance   : dans
 danger (peril)   : hatar  
 dark (dim)   : oskur  
 date fruit   : tamar  
+daughter   : fem ban  
 day (daytime)   : den  
 day of the week   : var  
 death (dead)   : mot  
@@ -483,6 +485,7 @@ fear (phobia)   : fobi
 feather   : puru  
 February   : mes 2 (mes du)  
 feel (emotion)   : senti  
+female   : fem  
 few (little)   : xau  
 field (countryside)   : xamba  
 fiever   : feber  
@@ -551,6 +554,7 @@ get (take, receive)   : kap
 ghost (fantom)   : fantom  
 ginger   : inji  
 giraffe   : jiraf  
+girl   : jovan fem  
 give   : dar  
 glass   : glas  
 go   : go  
@@ -774,7 +778,8 @@ make (do, act)   : kar
 make (produce, manufacture)   : san  
 malaria   : malaria  
 Malaysia   : malaisia  
-man (male)   : man  
+male   : man  
+man (adult male)   : matur man  
 Mandarin Chinese (Putonghua)   : putong han  
 mandarin orange   : migan  
 mango   : mango  
@@ -1190,6 +1195,7 @@ soft   : mol
 some   : yo  
 someone (somebody)   : yo jen  
 something   : yo ting  
+son   : man ban  
 soon   : sun  
 sorry (pardon)   : maf  
 sound   : soni  
@@ -1412,7 +1418,7 @@ wise   : sofi
 with (by)   : bi  
 without   : bi no  
 wolf   : beria  
-woman (female)   : fem  
+woman (adult female)   : matur fem  
 work (labor)   : gong  
 worker   : gong jen  
 workplace   : gong kan  

@@ -844,6 +844,7 @@ net ← englix:net
 nik ← ruski:polska:-nik englix:-nik est:-nik lat:nieks fin:-niekka  
 nikaragua ←   
 nilon ←   
+nini ← espanya:niño/niña portugal:menino/menina  
 nipon ← nipon:nippon  
 nitro ← englix:indonesia:nitrogen arabi:farsi:nitrožen hindi:urdu:naitrojan  
 nixa ← frans:niche ruski:niša   
@@ -975,7 +976,7 @@ projet ← frans:project portugal:projeto turki:proje farsi:prože englix:projec
 proses ← polska:proces italia:processo doic:Prozess ruski:protsess englix:process frans:procès nipon:purosesu hanguk:peuroseseu farsi:prose  
 puder ← frans:poudre ruski:pudra amara:pudər englix:powder  
 puding ←   
-pudja ← hindi:urdu:pūjā kan:pūje indonesia:puja thai:būchā  
+puja ← hindi:urdu:pūjā kan:pūje indonesia:puja thai:būchā  
 puertoriko ←   
 pul ← panjabi:hindi:urdu:pul farsi:pol  
 pulo ← tagalog:jav:pulo indonesia:pulau  

@@ -131,7 +131,6 @@ biznes : business (commercial activity)
 biznes jen : businessperson (businessman)  
 blu : blue  
 bobo : fool (idiot)  
-boi : boy  
 boikot : boycott  
 boka : mouth  
 bola : ball  
@@ -308,7 +307,8 @@ faru : rhinoceros
 fasin : fascinate  
 feber : fiever  
 fei : fly  
-fem : woman (female)  
+fem : female  
+fem ban : daughter  
 fen : part (fraction)  
 fer : iron  
 festa : party (festival)  
@@ -522,6 +522,8 @@ joga : play (have fun)
 jok : joke  
 jong : species  
 jovan : young  
+jovan fem : girl  
+jovan man : boy  
 judo : judo  
 jumla : sentence (phrase)  
 jungok : China  
@@ -744,7 +746,8 @@ malaisia : Malaysia
 malaria : malaria  
 mam : breast (boob)  
 mama : mother (mom)  
-man : man (male)  
+man : male  
+man ban : son  
 mana : mean (signify)  
 manga : comic (cartoon)  
 mango : mango  
@@ -770,6 +773,8 @@ mat sui : tear drop
 mater : matter (substance)  
 matras : mattress  
 matur : mature (ripe, adult)  
+matur fem : woman (adult female)  
+matur man : man (adult male)  
 mau : cat  
 max : more  
 max ka bas : too much  
@@ -903,6 +908,7 @@ nijer : Niger
 nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  
 nilon : nylon  
+nini : child (kid)  
 nipon : Japan  
 nitro : nitrogen  
 nixa : niche (alcove)  
