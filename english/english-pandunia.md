@@ -291,6 +291,7 @@ China   : jungok
 chocolate   : cokolat  
 choir (chorus)   : kor  
 cholera   : kolera  
+choose (select)   : cun  
 church   : eglis  
 cigar   : sigar  
 cigarette   : sigaret  
@@ -600,7 +601,7 @@ have   : ha
 hazard (random)   : hazar  
 he or she or it   : ye  
 head   : sar  
-hear (listen)   : audi  
+hear (listen)   : ting  
 heart   : xim  
 Hebrew   : ibri  
 hell   : narak  
@@ -827,7 +828,7 @@ mineral (ore)   : kuang
 mineral water   : kuang sui  
 minister (politician)   : wazir  
 ministry   : wazir kan  
-ministry of foreign affairs   : wai ting wazir kan  
+ministry of foreign affairs   : wai xe wazir kan  
 minute   : minut  
 mirror   : aina  
 model (design)   : model  
@@ -1174,6 +1175,7 @@ Siberia   : sibir
 sick (ill)   : beng  
 Sierra Leone   : salone  
 sign (signal)   : sin  
+silver   : candi  
 sing (song)   : gana  
 Singapore   : singapur  
 six (6)   : sis  
@@ -1194,7 +1196,7 @@ sofa (couch)   : sofa
 soft   : mol  
 some   : yo  
 someone (somebody)   : yo jen  
-something   : yo ting  
+something   : yo xe  
 son   : man ban  
 soon   : sun  
 sorry (pardon)   : maf  
@@ -1210,6 +1212,7 @@ special (distinct)   : has
 species   : jong  
 spider   : jiju  
 spirit (soul)   : anma  
+spoon   : camca  
 sport (athletics)   : sporte  
 square   : karo  
 square (plaza)   : maidan  
@@ -1282,7 +1285,6 @@ theory   : teori
 they   : tamen  
 they   : yemen  
 thick (fat)   : pang  
-thing   : ting  
 thing   : xe  
 think   : pensa  
 this (this over here)   : sa jin  
@@ -1334,7 +1336,6 @@ turban   : pagri
 Turkey   : turki  
 turtle (tortoise)   : tortuga  
 two (2)   : du  
-type (category)   : tip  
 typewriter   : kitab maxin  
 tyrant   : tiran  
 ##u  

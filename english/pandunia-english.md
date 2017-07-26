@@ -47,7 +47,6 @@ aspirin : aspirin
 ata : flour  
 atak : attack  
 atom : atom  
-audi : hear (listen)  
 australia : Australia  
 avar : damage (wreck)  
 aventur : adventure  
@@ -167,7 +166,9 @@ ca wan : tea bowl
 cabi : key  
 cabuk : whip (lash)  
 caka : wheel  
+camca : spoon  
 campion : champion  
+candi : silver  
 cans : opportunity (chance)  
 cap : press (stamp)  
 car : four (4)  
@@ -189,6 +190,7 @@ cok : lot (much, very)
 cokolat : chocolate  
 corab : sock (stocking)  
 cuka : vinegar  
+cun : choose (select)  
 cup : suck  
 curi : steal (theft)  
 cuti : vacation (holiday)  
@@ -1251,8 +1253,7 @@ tik : right (correct)
 tiket : ticket  
 tim : team  
 tin : can (tin can)  
-ting : thing  
-tip : type (category)  
+ting : hear (listen)  
 tira : pull  
 tiran : tyrant  
 titan : titanium  
@@ -1350,7 +1351,7 @@ waf : dog
 waha : oasis  
 wai : outside (exterior)  
 wai gok : foreign country  
-wai ting wazir kan : ministry of foreign affairs  
+wai xe wazir kan : ministry of foreign affairs  
 wakil : represent (to)  
 wan : bowl (earless cup)  
 wang : yellow  
@@ -1420,7 +1421,7 @@ yer : yesterday
 yesu : Jesus  
 yo : some  
 yo jen : someone (somebody)  
-yo ting : something  
+yo xe : something  
 yod : iodine  
 yoga : yoga  
 yoni : vagina  

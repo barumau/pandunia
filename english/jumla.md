@@ -399,15 +399,15 @@ Tip: To make direct requests, drop all the pronouns.
 **mau loga miau.** Cat says meow.
 
 
-### audi <small>to listen, hear</small>
+### ting <small>to listen, hear</small>
 
-**mi no ken audi tu.** I can't hear you.
+**mi no ken ting tu.** I can't hear you.
 
 **cing loga kuat.** Please speak louder.
 
-**mi audi musik.** I listen to music.
+**mi ting musik.** I listen to music.
 
-**tu audi ke yang ge musik?** What kind of music do you listen to?
+**tu ting ke yang ge musik?** What kind of music do you listen to?
 
 
 ### vide <small>to see</small>

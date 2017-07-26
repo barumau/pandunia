@@ -24,7 +24,7 @@ Bazaj reguloj
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
     - ekz. **mi cing tu dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **mi kia tu baca pandunia?** → **kia tu baca pandunia?** = Ĉu vi parolas pandunion?
+    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Ĉu vi parolas pandunion?
     - **mi cing tu loga tez.** →  **cing loga tez.** = Bonvolu paroli laŭte.
 
 
@@ -99,7 +99,7 @@ Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto
 > **un tara** - unu stelo  
 > **du tara** - du steloj  
 > **sam tara** - tri steloj  
-> **cau tara** - kelkaj steloj  
+> **xau tara** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
@@ -177,7 +177,7 @@ Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi ri
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
 **sa** - (ĉi) tio, (ĉi) tiu  
-**sa djin** - ĉi tio, ĉi tiu _(proksima)_  
+**sa jin** - ĉi tio, ĉi tiu _(proksima)_  
 **sa far** - tio, tiu _(fora)_  
 
 
