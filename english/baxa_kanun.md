@@ -215,27 +215,27 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
 
-**sa** - this or that
-**sa jin** - this over here
-**sa far** - that over there
+**sa** - this or that  
+**sa jin** - this over here  
+**sa far** - that over there  
 
 The demonstrative pronouns work like modifiers.
 
-> **sa batu.** - That stone
-> **sa e batu.** - That is a stone.
-> **sa batu cung.** - That stone is heavy.
+> **sa batu.** - That stone  
+> **sa e batu.** - That is a stone.  
+> **sa batu cung.** - That stone is heavy.  
 
 
 ### Interrogative pronoun
 
 **Ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
 
-> **ke?** - Who or what?
-> **ke ting?** - What? (Which thing?)
-> **ke jen?** - Who? (Which person?)
-> **ke sat?** - When? (What time?)
-> **ke yang?** - How? (What manner?)
-> **ke koz?** - Why? (What cause?)
+> **ke?** - Who or what?  
+> **ke xe?** - What? (Which thing?)  
+> **ke jen?** - Who? (Which person?)  
+> **ke sat?** - When? (What time?)  
+> **ke yang?** - How? (What manner?)  
+> **ke koz?** - Why? (What cause?)  
 
 
 
@@ -248,28 +248,27 @@ Verbs
 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective.
 
-**mi bon.** - I am good.  
-**sara bon.** - Sara is good.  
-**batu cung.** - Stone is heavy.
+> **mi bon.** - I am good.  
+> **sara bon.** - Sara is good.  
+> **batu cung.** - Stone is heavy.
 
 Likewise, it's possible that the subject is a pronoun and the predicate is a noun.
 
-> **ye sara.** - She is Sara.
-> **ye batu.** - It is a stone.
+> **ye sara.** - She is Sara.  
+> **ye batu.** - It is a stone.  
 
 But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Then the verb **e** (to be) is used.
 
-> **ye e mi.** - It is me.
-> **sa e batu.** - That is a stone.
-> **batu e ting.** - Stone is a thing.
+> **ye e mi.** - It is me.  
+> **sa e batu.** - That is a stone.  
+> **batu e vat.** - Stone is an object.  
 > **jovan e sundar.** - Young is beautiful.
 
 To deny something, use the word **no** before **e**.
 
-> **mi no e tu.** - I'm not you.
-> **batu no e hewan.** Stone is not an animal.
-> **jovan no e sundar.** - Young is not beautiful.
-
+> **mi no e tu.** - I'm not you.  
+> **batu no e hewan.** Stone is not an animal.  
+> **jovan no e sundar.** - Young is not beautiful.  
 
 
 ### Predicate of action
@@ -279,7 +278,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 Active sentences are frequently in the subject–verb–object word order (SVO).
 
 > **mi yem pingo.** - I eat apples.  
-> **mi audi musik.** - I hear music.  
+> **mi ting musik.** - I hear music.  
 > **mi vide tu.** - I see you.
 
 There is also alternative word order, subject–object–verb (SOV). It can be used only in short sentences.
@@ -291,13 +290,38 @@ SOV and SVO are the two most common word orders by far in the languages of the w
 In passive sentences, the subject is the undergoer of the action and there is no object.
 
 > **tu vide.** - You are seen.  
-> **musik audi.** - Music is heard.
+> **musik ting.** - Music is heard.
 
 Passive can be expressed with help of the verb **bei**.
 
 > **tu bei vide.** - You get seen.  
-> **musik bei audi.** - Music gets heard.
+> **musik bei ting.** - Music gets heard.
 
+
+### Separating subject and verb
+
+Sometimes a sentence is similar to a compound word. There was one sentence above, that could be understood both as a sentence and as a compound word.
+
+> **musik ting.** - *Music is heard.  
+> **musik ting.** - music hearing _or_ hearing music  
+> **musik ting e latif.** - Hearing music is pleasant.  
+
+We need something to separate the two. That's why it is useful and often even necessary to add a tense, aspect or mood particle between the subject and the verb.
+
+Particle **ya** (yes) is appropriate for affirmative sentences and particle **no** (not) is perfect for negative sentences.
+
+> **musik ya ting.** - Music is heard.  
+> **musik no ting.** - Music is not heard.  
+
+Also other particles can be used as separators.
+
+> **musik ja ting.** - Music was already heard.  
+> **musik sun ting.** - Music soon will be heard.  
+
+Note! Pronoun subjects don't need to be separated from the verb. It's because pronouns can never be part of compound words. They are always independent.
+
+> **mi ting tu.** - I hear you.  
+> **ye ting musik.** - He/she hears music.  
 
 
 ### Serial verbs
@@ -336,15 +360,11 @@ Particles
 
 ### Affirmation and negation
 
-Particle **ya** is affirmative and **no** is negative. **ya** affirms the existence of something, whereas **no** denies it.
+Particle **ya** is affirmative and **no** is negative. **Ya** affirms something, whereas **no** denies it.
 
-> **mi e jen.** - I am a person.  
-> **ye e un nova meza.** - It is a new table.
-
-Such sentences can be simply negated with **no**.
-
-> **mi no e jen.** - I'm not a person.  
-> **ye no e nova meza.** - It's not a new table.
+> **kia ti baxa pandunia?** - Do you speak Pandunia?  
+> **ya, mi ya baxa ye.** - Yes, I indeed speak it.  
+> **no, mi no baxa ye.** - No, I don't speak it.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -357,7 +377,6 @@ The particles **ya** and **no** are used for answering questions.
 > **kia tu vide mi?** - Do you see me?  
 > **ya. (mi vide tu.)** - Yes. (I see you.)  
 > **no. (mi no vide tu.)** - No. (I don't see you.)
-
 
 
 ### Modifier particles
@@ -520,9 +539,9 @@ Preposition **bi** indicates means. It corresponds to English prepositions _with
 
 Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi sap pandunia ka guru.** - I know Pandunia like a master.
+> **mi sabi pandunia ka guru.** - I know Pandunia like a master.
 
-**Ka** relates the verb or the adjective to a point of comparison. In the above example **loga** (know-how) is the verb and **guru** (master) is the point of comparison.
+**Ka** relates the verb or the adjective to a point of comparison. In the above example **sabi** (know) is the verb and **guru** (master) is the point of comparison.
 
 **Ka** is also used when adjectives are compared.
 
@@ -539,7 +558,7 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 **na ante** before. **na bada** after.  
 **na cen** in front. **na pice** behind.  
 **na xia** under, below. **na gau** over, above.  
-**na jin** near. **na long** far away. **na visin** beside, next to.
+**na jin** near. **na far** far away. **na visin** beside, next to.
 
 
 
