@@ -159,11 +159,13 @@ ca ← putonghan:chá nipon:hanguk:cha portugal:chà hindi:urdu:ruski:čay
 ca wan ← indonesia:cawan putonghan:cháwǎn nipon:chawan  
 cabi ← fula:wol:caabi hindi:urdu:cābī portugal:chave telugu:sāvi  
 cabuk ← hindi:urdu:cābuk indonesia:cambuk bama:cabu'  
-cakra ← thai:bama:čak bangla:cākā hindi:kan:cakra telugu:cakramu  
+cakra ← thai:bama:čak bangla:caka hindi:kan:cakra indonesia:cakram telugu:cakramu  
 campion ← frans:champion amara:turki:şampiyon englix:champion nipon:chanpion hanguk:čæmpieon ruski:čempion espanya:campeón  
+cang ← putonghan:chángcháng  
 cans ← englix:frans:chanse ruski:šans turki:şans  
 cap ← indonesia:cap hindi:urdu:farsi:chāp  
 car ← hindi:urdu:bangla:cār  
+carnir ←  italia:cerniera espanya:charnela frans:charnière doic:Scharnier ruski:šarnir  
 cat ← englix:chat nipon:chatto ruski:čat hindi:cEṭ  
 catar ← bangla:chata hindi:urdu:chātā khmer:čhat farsi:čatr kan:marati:panjabi:chatri tat:čatir bolgar:čadar  
 karbon ← frans:charbon  
@@ -175,10 +177,12 @@ centi ←
 ceska ←   
 cile ←   
 cili ← nahuatl:chīlli espanya:chile englix:doic:hanguk:portugal:chili nipon:chiri  
+cimpanzi : kongo:ki|mpenzi englix:chimpanzee  
 cing ← putonghan:qǐng yuthan:cing wuu:qin  
 cis ← englix:cheese putonghan:qĭsī swahili:chizi  
+cita ← espnanya:cita italia:citazione ruski:citata doic:Zitat 
 coda ← bangla:coda hindi:urdu:codnā  
-cokolat ←   
+cokolat ← indonesia:cokelat englix:chocolate  
 corab ← arabi:egy:šurrab farsi:urdu:jurāb turki:çorap ron:ciorap  
 cuka ← indonesia:cuka putonghan:cù hanguk:cho nipon:su  
 cup ← bama:cup portugal:espanya:chupar  
@@ -552,7 +556,7 @@ karta ← indonesia:kartu englix:card may:kad nipon:kādo hanguk:kadeu swahili:k
 kasa ← turki:kasa portugal:espanya: englix:doic:  
 kastan ← portugal:castanha turki:kestane ruski:kaštan  
 kat ← englix:cut hindi:urdu:katnā swahili:kata viet:cắt  
-kata ← nipon:kataru tamil:telugu:katha + indonesia:kata  
+kata ← hindi:kathā tamil:telugu:katha + nipon:kataru + indonesia:kata  
 katalunya ←   
 kati ← tamil:telugu:kan:mal:katti  
 kava ← portugal:espanya:cavar  
@@ -561,7 +565,7 @@ kaxa ← ruski:kaša
 kazu ←   
 ke ← italia:che espanya:qué portugal:frans:que bangla:panjabi:ki  
 ke yang? ← thai:yang-ngai putonghan:zenmeyang  
-kecap ←   
+kecap ← turki:ketçap hindi:urdu:kecap nipon:kechappu pilipin:ketsap  
 keci ← putonghan:kèqì  
 kek ← englix:cake amara:hindi:urdu:thai:turki:farsi:kek  
 kelele ← swahili:lingala:kongo:kelele  
@@ -576,13 +580,11 @@ kilo ←
 kimi ←   
 kimi logi ← indonesia:kimia turki:kimya swahili:kemia ruski:ximiya  
 kira ← turki:kira arabi:kirāʾ amara:kiray hindi:urdu:kirāyā espanya:alquiler  
-kira dar ←   
-kira kap ←   
 kirat ← arabi:qirāt espanya:quilate englix:carat  
 kismat ← arabi:qisma farsi:hindi:urdu:qismat turki:kısmet englix:kismet  
 kitab ← arabi:hindi:urdu:kitāb farsi:ketāb swahili:kitabu orm:kitaaba  
 kitab kan ← farsi:ketābxane turki:kütüphane + nipon:toshokan + putonghan:túshūguǎn  
-kitab macin ←   
+kitab maxin ←   
 kiwi ←   
 klar ← doic:klar espanya:portugal:claro englix:clear frans:claire italia:chiaro  
 klas ← englix:doic:frans:espanya:portugal:ruski:indonesia:  
@@ -1190,6 +1192,7 @@ tomat ←
 ton ← doic:frans:ruski:ton englix:tone  
 tong ← putonghan:tǒng hanguk:indonesia:tong frans:tonneau doic:Tonne espanya:portugal:tonel  
 top ← turki:horvat:bangla:hindi:urdu:farsi:top kat:topi  
+topi ← indonesia:topi hindi:urdu:ṭopī kannada:ṭōpi tamil:toppi  
 tortuga ← espanya:tortuga frans:tortue englix:tortoise portugal:tartaruga  
 tot ← portugal:todo  
 tren ← bangla:hindi:urdu:espanya:turki:tren englix:frans:train farsi:tran portugal:trem  
@@ -1264,7 +1267,7 @@ vot ←
 
 wa ← putonghan:wā nipon:wā hanguk:wa may:wah hindi:urdu:vāh frans:ouah + englix:wow ruski:vau  
 wax ← englix:wash doic:waschen  
-wax macin ←   
+wax maxin ←   
 wada ← arabi:waʕd farsi:vade urdu:va'da turki:vaat  
 wadi ← arabi:swahili:wadi hindi:urdu:turki:vadi  
 waf ← frans:ouaf farsi:wap + englix:woof + putonghan:wāng nipon:wan  
@@ -1277,8 +1280,7 @@ wan ← putonghan:wǎn
 wang ← viet:vàng,hoàng wuu:húang putonghan:huáng yuthan:wong hanguk:hwang  
 waris ← arabi:waritha + indonesia:warisan panjabi:vāras farsi:verāsat telugu:vārasatvam swahili:urithi amara:wərs  
 wat ←   
-wazir ←   
-wazir kan ←   
+wazir ← swahili:waziri  
 wen ← thai:lao:wæn hanguk:won nipon:en putonghan:yuán  
 weste ← englix:west frans:ouest  
 wiki ←   
@@ -1290,6 +1292,7 @@ wing ← englix:wing doic:Winge
 xak ← arabi:šakk farsi:šak urdu:śakk swahili:shaka  
 xakal ← espanya:portugal:frans:chacal ruski:šakal turki:çakal farsi:šoğāl englix:jackal  
 xal ← englix:doic:ruski:frans:espanya:portugal:arabi:turki:indonesia:farsi:hindi:urdu:nipon:hanguk:  
+xale ← frans:englix:chalet portugal:chalé rus:šale  
 xam ← hindi:urdu:śām farsi:akšam  
 xaman ← englic:shaman rus:šaman  
 xamba ← swahili:shamba + frans:champ (espanya:portugal:campo)  

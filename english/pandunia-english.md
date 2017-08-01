@@ -165,13 +165,15 @@ ca : tea
 ca wan : tea bowl  
 cabi : key  
 cabuk : whip (lash)  
-caka : wheel  
+cakra : wheel  
 camca : spoon  
 campion : champion  
 candi : silver  
+cang : often (frequently)  
 cans : opportunity (chance)  
 cap : press (stamp)  
 car : four (4)  
+carnir : hinge (pivot)  
 cat : chat (informal conversation)  
 cat kamar : chat room  
 catar : umbrella (parasol)  
@@ -182,9 +184,12 @@ centi : centi- (per cent)
 ceska : Czech  
 cile : Chile  
 cili : bell pepper 
+cimpanzi : chimpanzee  
+cincila : chinchilla  
 cing : ask (request; please)  
 cip : Albania  
 cis : cheese  
+cita : quote (quotation)  
 coda : fuck (screw)  
 cok : lot (much, very)  
 cokolat : chocolate  
@@ -522,11 +527,13 @@ jiva : live (life)
 jiva logi : biology (study of life)  
 joga : play (have fun)  
 jok : joke  
+joki : jockey  
 jong : species  
 jovan : young  
 jovan fem : girl  
 jovan man : boy  
 judo : judo  
+jul : joule (J)  
 jumla : sentence (phrase)  
 jungok : China  
 jup : skirt  
@@ -924,7 +931,7 @@ normal : norm (standard)
 nos : nose  
 not : notice (observe)  
 not buk : notebook  
-nova : new  
+nova : new (novel)  
 nud : naked (bare)  
 nul : zero (none)  
 nul jen : nobody (no-one)  
@@ -1264,6 +1271,7 @@ tomat : tomato
 ton : tone (pitch or shade)  
 tong : barrel (can)  
 top : gun  
+topi : hat (cap)  
 tortuga : turtle (tortoise)  
 tot : whole (entire, all)  
 tren : train  
@@ -1372,6 +1380,7 @@ wing : wing
 xak : doubt (disbelief)  
 xakal : jackal  
 xal : scarf (shawl)  
+xale : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
 xam salam : Good evening  
