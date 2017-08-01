@@ -426,14 +426,13 @@ Here **de** has a similar role as English relative pronouns _which_, _that_, _wh
 
 > **ye e man _de mi vide_.** - He is the man _that I saw_.
 
-It's possible to construct relatives clauses with **ge** too. Then the relative clause precedes the noun that it modifies, and ends with the particle **ge**. This structure doesn't exist in English, so there isn't a word-for-word translation for it.
-
-**ye e _mi vide ge_ man.** - *He is the _my seen_ man.
-
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
 > **mi vide man _de yem pingo_.** - I see a man _who eats apples_.  
-> **mi vide _yem pingo ge_ man.** - I see an _apple-eating_ man.
+
+It's possible to construct relative clauses with **ge** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **ge** immediately after the verb.
+
+> **mi vide _pingo yem ge_ man.** - I see an _apple-eating_ man.
 
 
 
