@@ -24,63 +24,63 @@
 
 
 
-### mi <small>我</small>
+### me <small>我</small>
 
-**mi salam mama.** 我迎接妈妈。
+**me salam mama.** 我迎接妈妈。
 
-**mi salam papa.** 我迎接爸爸。
+**me salam papa.** 我迎接爸爸。
 
 **salam mama!** 妈妈，你好！
 
 **salam papa!** 爸爸，你好！
 
-**mimen salam mama.** 我们迎接妈妈。
+**memen salam mama.** 我们迎接妈妈。
 
 
 
-### tu <small>你</small>
+### ni <small>你</small>
 
-**mi salam tu.** 我给你打招呼。
+**me salam ni.** 我给你打招呼。
 
-**tu salam mi.** 你给我打招呼。
+**ni salam me.** 你给我打招呼。
 
-**salam tu!** 你好！
+**salam ni!** 你好！
 
-**mi salam tumen.** 我给你们打招呼。
+**me salam nimen.** 我给你们打招呼。
 
-**salam tumen!** 你们好！
+**salam nimen!** 你们好！
 
 
 
 
 ### e <small>是</small>
 
-**mi e tomas.** 我是托马斯。
+**me e tomas.** 我是托马斯。
 
-**tu e sara.** 你是莎拉。
+**ni e sara.** 你是莎拉。
 
 **mau e hewan.** 猫是动物。
 
-**mi sara.** 我是莎拉。
+**me sara.** 我是莎拉。
 
-**tu tomas.** 你是托马斯。
-
-
-### ye <small>他，她，它</small>
-
-**ye e fem.** 她是一个女人。
-
-**ye e man.** 他是一个男人。
-
-**ye e pingo.** 它是一个苹果。
+**ni tomas.** 你是托马斯。
 
 
-**yemen e pingo.** 他们是苹果。
+### ta <small>他，她，它</small>
+
+**ta e fem.** 她是一个女人。
+
+**ta e man.** 他是一个男人。
+
+**ta e pingo.** 它是一个苹果。
 
 
-**mimen salam yemen.** We greet them.
+**tamen e pingo.** 他们是苹果。
 
-**mimen salam tumen.** We greet you.
+
+**memen salam tamen.** We greet them.
+
+**memen salam nimen.** We greet you.
 
 
 
@@ -88,15 +88,15 @@
 
 **ke?** 什么？
 
-**tu e ke?** 你是谁？
-**mi e tomas.** 我是托马斯。
+**ni e ke?** 你是谁？
+**me e tomas.** 我是托马斯。
 
-**ye e ke?** 她是谁？
-**ye e sara.** 她是莎拉。
+**ta e ke?** 她是谁？
+**ta e sara.** 她是莎拉。
 
-**tumen e ke?** 你们是谁？
+**nimen e ke?** 你们是谁？
 
-**yemen e ke?** 他们是谁？
+**tamen e ke?** 他们是谁？
 
 <!--
 
@@ -119,7 +119,7 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 **ti nam ke?** What's your name?
 
-**mi nam tomas.** My name is Thomas.
+**me nam tomas.** My name is Thomas.
 
 **ta nam ke?** What's his/her name?
 
@@ -133,44 +133,44 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 **kia ti e doktor?** Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia ti doktor.** (I ask, you doctor?) by dropping out the first word.
+Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **me kia ti doktor.** (I ask, you doctor?) by dropping out the first word.
 
 **kia ti bon?** How are you? (Literally: _Are you good?_)
-**mi bon.** I'm good.
+**me bon.** I'm good.
 **ti ne?** And you?
-**mi no bon.** I'm not good.
+**me no bon.** I'm not good.
 
 
 
 ### ha <small>have</small>
 
-**mi ha bon dom.** I have a good house.
+**me ha bon dom.** I have a good house.
 
 **ta no ha pesa.** S/he doesn't have money.
 
-**mi vol ha nova fon.** I want to have a new phone.
+**me vol ha nova fon.** I want to have a new phone.
 
 **kia ti ha ana?** Do you have children?
-**mi ha du ana.** I have two children.
+**me ha du ana.** I have two children.
 
 
 
-### ye <small>yes</small>
+### ta <small>yes</small>
 
 **kia ti bon?** Are you well?
-**ye. mi bon.** Yes, I'm well.
+**ta. me bon.** Yes, I'm well.
 
 **kia ha doktor?** Is there a doctor?
-**ye. ta e doktor.** Yes. He/she is a doctor.
+**ta. ta e doktor.** Yes. He/she is a doctor.
 
 **kia ha vin?** Do you have wine?
-**ye. bai i roxu.** Yes, white and red.
+**ta. bai i roxu.** Yes, white and red.
 
 
 
 ### no <small>no, not</small>
 
-**mi no doktor.** I'm not a doctor.
+**me no doktor.** I'm not a doctor.
 
 **sa man no e doktor.** That man is not a doctor.
 
@@ -180,13 +180,13 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### jan <small>to know</small>
 
-**mi jan ta.** I know him/her.
+**me jan ta.** I know him/her.
 
 **kia ti jan sa ren?** Do you know that person?
 
 **kia timen jan alise?** Do you know each other?
 
-**mimen jan alise ze long.** We know each other for long.
+**memen jan alise ze long.** We know each other for long.
 
 
 
@@ -196,11 +196,11 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### mede <small>帮助</small>
 
-**mi nesese mede.** 我需要帮助。
+**me nesese mede.** 我需要帮助。
 
 **kia ni ken mede me?** 你可以帮我吗？
 
-**kia mi ken mede ti?** 我能帮你吗？
+**kia me ken mede ti?** 我能帮你吗？
 
 
 
@@ -220,11 +220,11 @@ Note: Unlike 英语, Pandunia doesn't have separate singular and plural forms. T
 
 **kia ti yem kafe?** Do you drink coffee?
 
-**mi yem kafe.** I drink coffee.
+**me yem kafe.** I drink coffee.
 
 Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy!
 
-**mi yem kafe i pan.** I'm having coffee and bread.
+**me yem kafe i pan.** I'm having coffee and bread.
 
 
 
@@ -236,10 +236,10 @@ Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at firs
 
 Tip: While 英语 puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi vol yem kafe.** I want to drink coffee.
+**me vol yem kafe.** I want to drink coffee.
 
 **kia ti vol yem ca?** Would you like to drink tea?
-**no. mi no vol ca. mi vol kafe.** No, I don't want tea. I want coffee.
+**no. me no vol ca. me vol kafe.** No, I don't want tea. I want coffee.
 
 **ti vol ke pingo?** Which apple do you want?
 **sa roxu.** This red one.
@@ -248,11 +248,11 @@ Tip: While 英语 puts the "what" at the beginning of a question, in Pandunia th
 
 ### cing <small>request, please</small>
 
-**mi cing ti yem ca.** I ask you to drink tea.
+**me cing ti yem ca.** I ask you to drink tea.
 
-**mi cing ti lai jia.** I ask you to come home.
+**me cing ti lai jia.** I ask you to come home.
 
-**mi cing ti mede mi.** I ask you to help me.
+**me cing ti mede me.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
@@ -262,7 +262,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing lai jia.** Please, come home!
 
-**cing mede mi.** Please, help me.
+**cing mede me.** Please, help me.
 
 
 
@@ -272,11 +272,11 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danke ti.** Thank you.
 
-**mi danke ti.** I thank you.
+**me danke ti.** I thank you.
 
-**mi danke ti mede mi.** I thank you for helping me.
+**me danke ti mede me.** I thank you for helping me.
 
-**danke ti mede mi.** Thanks for helping me.
+**danke ti mede me.** Thanks for helping me.
 
 **ti keci.** You're welcome. (Literally: _You're polite._)
 
@@ -294,9 +294,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### nesese <small>need</small>
 
-**mi nesese mede.** I need help.
+**me nesese mede.** I need help.
 
-**mi nesese yem.** I'm hungry.
+**me nesese yem.** I'm hungry.
 
 **kia ti nesese yem?** Are you hungry?
 
@@ -310,7 +310,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### mafu <small>sorry, pardon</small>
 
-**mafu! mi no aha.** Sorry, I don't understand.
+**mafu! me no aha.** Sorry, I don't understand.
 
 **mafu! sa ke?** Excuse me, what's this?
 
@@ -320,21 +320,21 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### aha <small>understand</small>
 
-**kia ti aha mi?** Do you understand me?
+**kia ti aha me?** Do you understand me?
 
-**mi aha.** I understand.
+**me aha.** I understand.
 
-**mafu. mi no aha ti.** Sorry. I don't understand you.
+**mafu. me no aha ti.** Sorry. I don't understand you.
 
-**mi no bas aha ti.** I didn't quite understand you.
+**me no bas aha ti.** I didn't quite understand you.
 
-**mi aha nul.** I don't understand at all.
+**me aha nul.** I don't understand at all.
 
 
 
 ### sabi <small>know how</small>
 
-**mi sabi cala kare.** I can drive a car.
+**me sabi cala kare.** I can drive a car.
 
 **ta no sabi cala kare.** S/he doesn't know how to drive a car.
 
@@ -342,13 +342,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia ti sabi pandunia?** Do you speak Pandunia?
 
-**mi sabi pandunia.** I speak Pandunia.
+**me sabi pandunia.** I speak Pandunia.
 
-**mi sabi xau pandunia.** I speak a little Pandunia.
+**me sabi xau pandunia.** I speak a little Pandunia.
 
-**mi no sabi engli.** I don't speak 英语.
+**me no sabi engli.** I don't speak 英语.
 
-**mafu. mi no sabi ti ge baxa.** Sorry, I don't speak your language.
+**mafu. me no sabi ti ge baxa.** Sorry, I don't speak your language.
 
 
 
@@ -356,9 +356,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ti loga ke?** What did you say?
 
-**mi loga do ti.** I talk to you.
+**me loga do ti.** I talk to you.
 
-**mimen loga do alise.** We talk to each other.
+**memen loga do alise.** We talk to each other.
 
 **se loga ke yang bi pandunia ki "dog"?** How do you say "dog" in Pandunia?
 
@@ -368,18 +368,18 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### audi <small>to listen, hear</small>
 
-**mi no ken audi ti.** I can't hear you.
+**me no ken audi ti.** I can't hear you.
 
 **cing loga kuwa.** Please speak louder.
 
-**mi audi musik.** I listen to music.
+**me audi musik.** I listen to music.
 
 **ti audi ke yang ge musik?** What kind of music do you listen to?
 
 
 ### mana <small>to mean</small>
 
-**"jia" ye mana ke?** What does "jia" mean?
+**"jia" ta mana ke?** What does "jia" mean?
 
 -->
 
@@ -417,10 +417,12 @@ Tip: To make direct requests, drop all the pronouns.
 **mama** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
 **man** 男人 <small>(英语 _man_)</small>  
 **mana** 意义 <small>(斯瓦希里语 _maana_)</small>  
+**me** 我 <small>(英语 _me_)</small>  
 **mede** 帮助 <small>(法语 _aider_)</small>  
-**mi** 我 <small>(斯瓦希里语 _mimi_)</small>  
-**mimen** 我们  
+**memen** 我们  
 **nesese** 需要 <small>(Haitian Creole _nesesè_)</small>  
+**ni** 你 <small>(泰米尔语 _nī_ நீ)</small>  
+**nimen** 你们  
 **no** 不 <small>(西班牙语 _no_)</small>  
 **notce** 夜晚 <small>(西班牙语 _noche_)</small>  
 **nau** 现在 <small>(英语 _now_)</small>  
@@ -432,16 +434,14 @@ Tip: To make direct requests, drop all the pronouns.
 **safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>  
 **salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>  
 **suba** 早上 <small>(Wolof _subba_)</small>  
-**tu** 你 <small>(俄语 _ty_ ты)</small>  
-**tumen** 你们  
-**vide** 看 <small>(俄语 _videt'_ видеть)</small>  
+**ta** 他，她，它 <small>(普通话 _tā_)</small>  
+**tamen** 他们  
 **u** 或 <small>(法语 _ou_)</small>  
+**vide** 看 <small>(俄语 _videt'_ видеть)</small>  
 **vol** 想要 <small>(意大利语 _volere_)</small>  
 **wang** 黄色 <small>(广东话 _wong_)</small>  
 **xam** 晚上 <small>(印地语 _śām_ शाम )</small>  
-**ya** 是，对 <small>(韩国语 예 _ye_)</small>  
-**ye** 他，她，它 <small>(林加拉语 _yé_)</small>  
-**yemen** 他们  
+**ya** 是，对 <small>(韩国语 예 _ta_)</small>  
 **yem** 吃，喝 <small>(土耳其语 _yemek_)</small>  
 
 

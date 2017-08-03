@@ -789,6 +789,9 @@ max : more
 max ka bas : too much  
 maxim : most (maximally)  
 maxin : machine  
+me : I (me)  
+me ge : my  
+me ge lau : my parents  
 medalia : medallion (medal)  
 mede : help  
 medi : mean (medium, average)  
@@ -803,6 +806,7 @@ mei xe : everything
 melodi : melody  
 member : member  
 meme : sheep  
+memen : we  
 men : bunch (collection)  
 mes : month  
 mes 1 (mes un) : January  
@@ -823,9 +827,6 @@ metal nik : metalhead
 meter : meter  
 metod : method  
 meza : table  
-mi : I (me)  
-mi ge : my  
-mi ge lau : my parents  
 micin : MSG (monosodium glutamate)  
 mien : noodle  
 migan : mandarin orange  
@@ -833,7 +834,6 @@ mikro : micro-
 mil : meet  
 mili : milli-  
 milke : milk  
-mimen : we  
 min : less  
 min ka bas : too little  
 minara : tower  
@@ -913,11 +913,12 @@ nepal : Nepal
 neptun : Neptune  
 neses : need  
 net : net  
+ni : you  
 nijer : Niger  
 nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  
 nilon : nylon  
-nini : child (kid)  
+nimen : you all  
 nipon : Japan  
 nitro : nitrogen  
 nixa : niche (alcove)  
@@ -1217,6 +1218,7 @@ svis : Switzerland
 
 ##t  
 
+ta : he or she or it  
 tabak : tobacco  
 tabar : axe (hatchet)  
 tabia : nature (environment)  
@@ -1276,8 +1278,6 @@ tortuga : turtle (tortoise)
 tot : whole (entire, all)  
 tren : train  
 tren dau : railway (railroad)  
-tu : you  
-tumen : you all  
 tualet : toilet (WC)  
 tub : tube (pipe)  
 tufan : storm (tempest)  
@@ -1421,8 +1421,6 @@ yaman : Yemen
 yang : kind (type, style)  
 yani : that is (in other words, i.e.)  
 yasen : ash tree  
-ye : he or she or it  
-yemen : they  
 yehudi : Jew  
 yem : eat  
 yep : leaf  

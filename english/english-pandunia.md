@@ -283,11 +283,12 @@ chestnut   : kastan
 chicken   : kok  
 chickpea   : humus  
 chief   : xef  
-child (kid)   : nini  
 child (offspring)   : ban  
 Chile   : cile  
 chili pepper   : lat cili  
+chimpanzee   : cimpanzi  
 China   : jungok  
+chinchilla   : cincila  
 chocolate   : cokolat  
 choir (chorus)   : kor  
 cholera   : kolera  
@@ -343,6 +344,7 @@ copy   : kopi
 corn (maize)   : mais  
 corner (angle)   : kona  
 Costa Rica   : kostarika  
+cottage (chalet)   : xale  
 cotton   : goton  
 cough   : kos  
 country (land)   : gok  
@@ -596,10 +598,11 @@ hand   : hat
 hang (dangle)   : pende  
 harmony   : harmoni  
 harness   : maju  
+hat (cap)   : topi  
 hate   : hen  
 have   : ha  
 hazard (random)   : hazar  
-he or she or it   : ye  
+he or she or it   : ta  
 head   : sar  
 hear (listen)   : ting  
 heart   : xim  
@@ -613,6 +616,7 @@ hero   : hero
 high   : gau  
 Himalayas   : himalia  
 Hindu   : hindu  
+hinge (pivot)   : carnir  
 hippopotamus   : gubu  
 history   : histori  
 hobby   : hobi  
@@ -644,7 +648,7 @@ Hungary   : madyar
 hurry (hasten)   : yala  
 hurt (pain)   : tung  
 hybrid (mongrel)   : hibride  
-I (me)   : mi  
+I (me)   : me  
 ##i  
 Iceland   : island  
 idea   : idea  
@@ -685,8 +689,10 @@ jealous   : jelos
 Jesus   : yesu  
 Jew   : yehudi  
 job (occupation)   : pexa  
+jockey   : joki  
 joke   : jok  
 Jordan   : urdun  
+joule (J)   : jul  
 judge (referee)   : hakim guru  
 judgment (sentence)   : hakim  
 judo   : judo  
@@ -860,8 +866,8 @@ mushroom (fungus)   : mogu
 music   : musik  
 music fan   : musik nik  
 must   : mus  
-my   : mi ge  
-my parents   : mi ge lau  
+my   : me ge  
+my parents   : me ge lau  
 Myanmar (Burma)   : bama  
 myth   : mit  
 ##n  
@@ -881,7 +887,7 @@ Nepal   : nepal
 Neptune   : neptun  
 net   : net  
 Netherlands   : nederland  
-new   : nova  
+new (novel)   : nova  
 news   : habar  
 newspaper (gazette)   : habar gazet  
 newton (N)   : nuton  
@@ -913,6 +919,7 @@ oasis   : waha
 object (thing, article, material, stuff)   : vat  
 October   : mes 10 (mes des)  
 of (particle of possession)   : de  
+often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okei  
 old (not young)   : lau  
@@ -1060,6 +1067,7 @@ pungent (spicy, hot)   : lat
 put (place)   : pon  
 quality (attribute, property, characteristic, -ness)   : gun  
 quality (charasteristic)   : sifa  
+quote (quotation)   : cita  
 quote (to cite)   : sitat  
 Quran (Koran)   : kuran  
 ##r  
@@ -1283,7 +1291,6 @@ that is (in other words, i.e.)   : yani
 theology   : deva logi  
 theory   : teori  
 they   : tamen  
-they   : yemen  
 thick (fat)   : pang  
 thing   : xe  
 think   : pensa  
@@ -1395,7 +1402,7 @@ watt   : wat
 wave   : nami  
 wax   : mum  
 way (road)   : dau  
-we   : mimen  
+we   : memen  
 weather   : tenci  
 Wednesday   : var 3 (var sam)  
 week   : set var  
@@ -1403,7 +1410,7 @@ weird (strange)   : bizar
 welcome   : lai salam  
 west   : weste  
 what?   : ke  
-wheel   : caka  
+wheel   : cakra  
 while (during)   : na dur de  
 whip (lash)   : cabuk  
 white   : bai  
@@ -1441,8 +1448,8 @@ Yemen   : yaman
 yes (yeah)   : ya  
 yesterday   : yer  
 yoga   : yoga  
-you   : tu  
-you all   : tumen  
+you   : ni  
+you all   : nimen  
 young   : jovan  
 ##z  
 Zambia   : zambia  

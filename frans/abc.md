@@ -101,6 +101,6 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-**mi vide ti :)** = Je te vois.
-**mi no vide ti :(** = Je ne te vois pas.
+> **me vide ni :)** = Je te vois.  
+> **me no vide ni :(** = Je ne te vois pas.
 
