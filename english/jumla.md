@@ -114,10 +114,10 @@ Tip: **ta** is the general third person pronoun. It is used for people (irrespec
 
 **ke?** What?
 
-**ni e ke?** Who are you?
+**ni e ke?** Who are you?  
 **me e tomas.** I'm Thomas.
 
-**ta e ke?** Who is he/she?
+**ta e ke?** Who is he/she?  
 **ta e sara.** She is Sara.
 
 **nimen e ke?** Who are you people?
@@ -170,7 +170,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### ha <small>have</small>
 
-**me ha bon dom.** I have a good house.
+**me ha bon bet.** I have a good house.
 
 **ta no ha pesa.** S/he doesn't have money.
 
@@ -243,7 +243,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### yem <small>consume, eat, drink</small>
 
-**kia ni vol yem koi?** Would you like to eat something?
+**kia ni vol yem yo?** Would you like to eat something?
 
 **ta yem pingo.** He/she eats an apple.
 
@@ -412,7 +412,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### vide <small>to see</small>
 
-**suk vide ni.** Happy to see you!
+**suka vide ni.** Happy to see you!
 
 **vide ni re!** See you again!
 

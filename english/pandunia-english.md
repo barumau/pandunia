@@ -122,8 +122,6 @@ bin : pot (bin)
 bir : beer  
 bis : kiss  
 biskut : biscuit (cookie)  
-bite lai : invite  
-bite lai in! : Come in!  
 bizar : weird (strange)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
@@ -187,6 +185,8 @@ cili : bell pepper
 cimpanzi : chimpanzee  
 cincila : chinchilla  
 cing : ask (request; please)  
+cing lai : invite  
+cing lai in! : Come in!  
 cip : Albania  
 cis : cheese  
 cita : quote (quotation)  

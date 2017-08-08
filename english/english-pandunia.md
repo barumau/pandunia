@@ -320,7 +320,7 @@ colony (settlemen)   : koloni
 color   : rang  
 column (pillar)   : kolun  
 come   : lai  
-Come in!   : bite lai in!  
+Come in!   : cing lai in!  
 comic (cartoon)   : manga  
 comical (funny)   : komik  
 comma   : koma  
@@ -667,7 +667,7 @@ intelligent   : budi
 intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)   : tez  
 interest (interesting)   : interes  
 interview   : intervu  
-invite   : bite lai  
+invite   : cing lai  
 iodine   : yod  
 Iran   : iran  
 Iraq   : irak  
