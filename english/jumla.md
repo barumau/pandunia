@@ -132,16 +132,16 @@ Tip: **ta** is the general third person pronoun. It is used for people (irrespec
 
 **sa e pingo.** This is an apple.
 
-**sa e ros pingo.** This is a red apple.
+**sa e pingo ros.** This is a red apple.
 
-**sa pingo ros.** This apple is red.
+**sa pingo e ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
 **ta ros.** It's red.
 
 
-### nam <small>be called, name</small>
+### nam <small>name</small>
 
 **ni nam ke?** What's your name?
 
@@ -174,7 +174,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **ta no ha pesa.** S/he doesn't have money.
 
-**me vol ha nova fon.** I want to have a new phone.
+**me vol ha fon nova.** I want to have a new phone.
 
 **kia ni ha ban?** Do you have children?  
 **me ha du ban.** I have two children.
@@ -216,15 +216,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### ge <small>'s</small>
+### de <small>of</small>
 
-**ta e me ge mama.** She is my mother.
+**ta e mama de me.** She is my mother.
 
-**ta e me ge man.** He is my man.
+**ta e man de me.** He is my man.
 
-**ta e me ge fem.** She is my wife.
+**ta e fem de me.** She is my wife.
 
-**tomas e sara ge panyo.** Thomas is Sara's friend.
+**tomas e panyo de sara.** Thomas is Sara's friend.
 
 
 
@@ -232,9 +232,9 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **me neses mede.** I need help.
 
-**kia ni ken mede me?** Can you help me?
+**kia ni kan mede me?** Can you help me?
 
-**kia me ken mede ni?** Can I help you?
+**kia me kan mede ni?** Can I help you?
 
 
 
@@ -364,23 +364,23 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### ken <small>can</small>
+### kan <small>can</small>
 
-**me ken gida gar.** I can drive a car.
+**me kan gida gar.** I can drive a car.
 
-**ta no ken gida gar.** S/he doesn't know how to drive a car.
+**ta no kan gida gar.** S/he doesn't know how to drive a car.
 
-**kia ni ken xuli ta?** Do you know how to fix it?
+**kia ni kan xuli ta?** Do you know how to fix it?
 
-**kia ni ken pandunia?** Do you speak Pandunia?
+**kia ni kan pandunia?** Do you speak Pandunia?
 
-**me ken pandunia.** I speak Pandunia.
+**me kan pandunia.** I speak Pandunia.
 
-**me ken xau pandunia.** I speak a little Pandunia.
+**me kan xau pandunia.** I speak a little Pandunia.
 
-**me no ken englix.** I don't speak English.
+**me no kan englix.** I don't speak English.
 
-**maf. me no ken ni ge baxa.** Sorry, I don't speak your language.
+**maf. me no kan baxa de ni.** Sorry, I don't speak your language.
 
 
 
@@ -392,22 +392,22 @@ Tip: To make direct requests, drop all the pronouns.
 
 **memen loga do alise.** We talk to each other.
 
-**se loga "cat" bi ke yang bi pandunia?** How do you say "cat" in Pandunia?
+**se loga "cat" bi ke yang na pandunia?** How do you say "cat" in Pandunia?
 
-**"cat" e ke bi pandunia?** What is "cat" in Pandunia?
+**"cat" e ke na pandunia?** What is "cat" in Pandunia?
 
 **mau loga miau.** Cat says meow.
 
 
 ### ting <small>to listen, hear</small>
 
-**me no ken ting ni.** I can't hear you.
+**me no kan ting ni.** I can't hear you.
 
 **cing loga kuat.** Please speak louder.
 
 **me ting musik.** I listen to music.
 
-**ni ting ke yang ge musik?** What kind of music do you listen to?
+**ni ting musik de ke yang?** What kind of music do you listen to?
 
 
 ### vide <small>to see</small>
@@ -432,7 +432,7 @@ Tip: To make direct requests, drop all the pronouns.
 **me no aha ta mana ke.** I don't understand what it means.
 
 
-### kitab <small>write</small>
+### kitab <small>to write, writing</small>
 
 **cing kitab ni ge adres.** Please, write your address.
 
@@ -445,7 +445,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **memen baxa pandunia.** We speak in Pandunia.
 
-**kia ni ken baxa englix?** Can you speak English?
+**kia ni kan baxa englix?** Can you speak English?
 
 **frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
@@ -465,13 +465,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me go dom.** I'm going home.
 
-**me mus go ke?** Where should I go?
+**me mus go do ke?** Where should I go?
 
-**me mus go ke jen?** To whom should I go?
+**me mus go do ke jen?** To whom should I go?
 
 **haide go!** Let's go!
 
-**haide go bi ped** Let's go by foot!
+**haide go bi pede** Let's go by foot!
 
 
 ### lai <small>to come</small>
@@ -491,7 +491,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **memen safar ze london do paris.** We travel from London to Paris.
 
-**safar hen long.** The voyage is very long.
+**safar cok long.** The voyage is very long.
 
 
 ### na <small>in, on, at</small>
@@ -563,20 +563,20 @@ Tip: It is also okay to say "ni abit na ke?" However **abit** already covers the
 
 ### mai <small>commerce</small>
 
-Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai kap** means _to buy_.
+Tip: Buying and selling a compound words: **dar mai** means _to sell_ and **kap mai** means _to buy_.
 
-**tamen mai dar tot.** They sell everything.
+**tamen dar mai mei xe.** They sell everything.
 
 **me kap un bir.** I will take a beer.
 
-**me mai kap un bir.** I will buy a beer.
+**me kap mai un bir.** I will buy a beer.
 
 
 ### kira <small>rent</small>
 
-**me vol kira kap un gar.** I want to rent a car.
+**me vol kap kira un gar.** I want to rent a car.
 
-**ta kira dar kamar do biznes jen.** He/she rents rooms to business people.
+**ta dar kira kamar do biznes jen.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -678,10 +678,10 @@ All words of Pandunia are loan words from other languages that are spoken around
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
+**kan** can <small>(English _can_)</small>  
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
-**ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **lai** come <small>(Vietnamese _lai_)</small>  

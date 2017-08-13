@@ -75,12 +75,10 @@ banana : banana
 banda : band (bandage)  
 bandera : flag (banner)  
 bandi : prisoner (jailbird)  
-bandi kan : prison  
 bangla : Bangladesh (Bengal)  
 banka : save (deposit, bank)  
 banko : bench  
 banya : bath  
-banya kamar : bathroom  
 bar : bar (pub)  
 barat : India  
 barbar : barbarian  
@@ -96,13 +94,12 @@ batata : yam (sweet potato)
 bateri : battery  
 batu : stone  
 bauhu : protect (defend)  
-baxa : language
-baxa logi : linguistics
+baxa : language  
 bazar : market (bazaar)  
 baze : base (foundation)  
+be : be done (verb of the passive voice)  
 bebe : baby (darling)  
 bed : bed  
-bei : undergo (verb of the passive voice)  
 belarus : Belarus  
 belgi : Belgium  
 belize : Belize  
@@ -111,7 +108,6 @@ benzin : gasoline (petrol)
 beranda : veranda (porch)  
 beret : beret  
 beria : wolf  
-bet : house  
 beton : concrete (material with cement)  
 bi : with (by)  
 bi no : without  
@@ -125,7 +121,6 @@ biskut : biscuit (cookie)
 bizar : weird (strange)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
-biznes jen : businessperson (businessman)  
 blu : blue  
 bobo : fool (idiot)  
 boikot : boycott  
@@ -160,7 +155,6 @@ buton paban : keyboard
 ##c  
 
 ca : tea  
-ca wan : tea bowl  
 cabi : key  
 cabuk : whip (lash)  
 cakra : wheel  
@@ -170,10 +164,10 @@ candi : silver
 cang : often (frequently)  
 cans : opportunity (chance)  
 cap : press (stamp)  
+cap posta : postal stamp  
 car : four (4)  
 carnir : hinge (pivot)  
 cat : chat (informal conversation)  
-cat kamar : chat room  
 catar : umbrella (parasol)  
 caya : shadow  
 cek : check (to examine)  
@@ -206,7 +200,6 @@ dado : die (dice)
 daftar : register  
 dai : big  
 daixi : ambassador
-daixi kan : embassy
 dama : checkers  
 dane : seed  
 danke : thanks (thank you)  
@@ -221,12 +214,8 @@ darba : strike (punch)
 daria : sea (ocean)  
 darma : dharma (piety)  
 darsa : learn (study, lesson)  
-darsa ban : student (pupil)  
-darsa guru : teacher  
-darsa kan : school (institution)  
 dau : way (road)  
 dawa : drug (medicine)  
-dawa kan : drugstore (pharmacy)  
 de : of (particle of possession)  
 debat : argue (debate)  
 deci : deci-  
@@ -234,6 +223,7 @@ dem : point (spot)
 demo krati : democracy  
 demon : demon  
 den : day (daytime)  
+den jena : birthday  
 den salam : Good day  
 den yem : lunch  
 deng : wait  
@@ -241,11 +231,9 @@ des : ten (10)
 desen : drawing (picture)  
 detal : detail  
 deva : god  
-deva logi : theology  
 deya : village  
 dian : attention (focus)  
 din : religion  
-din guru : priest (cleric)  
 ding : nail (spike)  
 diske : disc (disk)  
 do : to (till, until)  
@@ -253,7 +241,16 @@ doic : German
 dok : read  
 doktor : doctor (physician)  
 dolar : dollar  
-dom : home (household)  
+dom : house  
+dom bandi : prison  
+dom daixi : embassy
+dom darsa : school (institution)  
+dom dawa : drugstore (pharmacy)  
+dom kafe : cafe (coffee shop)  
+dom kitab : library  
+dom posta : post office  
+dom san : factory  
+dom wazir : ministry  
 dominika : Dominican Republic  
 domino : dominoes  
 dong : east  
@@ -331,7 +328,6 @@ final : last (final)
 finger : finger (toe)  
 finger wen : finger ring  
 fizik : physique  
-fizik logi : physics  
 fobi : fear (phobia)  
 fokus : concentrate (focus)  
 forka : fork  
@@ -387,8 +383,6 @@ gola : throat (gullet)
 gom : rubber  
 gon : past (former, gone)  
 gong : work (labor)  
-gong jen : worker  
-gong kan : workplace  
 goro : pig  
 goro nama : pork  
 goton : cotton  
@@ -406,6 +400,9 @@ gubu : hippopotamus
 gun : quality (attribute, property, characteristic, -ness)  
 gung fu : kung fu  
 guru : guru (mentor)  
+guru darsa : teacher  
+guru din : priest (cleric)  
+guru hakim : judge (referee)  
 gusta : taste (sense the flavor)  
 gut : bone  
 
@@ -419,7 +416,6 @@ hai : still (yet)
 haide : let's  
 hak : right (justification, privilege)  
 hakim : judgment (sentence)  
-hakim guru : judge (referee)  
 hal : state (condition, situation, status)  
 hali : empty  
 halif : caliph  
@@ -481,7 +477,7 @@ imper : empire
 imper han : emperor
 in : inside (interior)  
 indonesia : Indonesia  
-informa : inform (communicate)  
+info : information (inform)  
 ingai : should (ought)  
 inji : ginger  
 inspira : inspire (inspiration)  
@@ -514,17 +510,18 @@ jaz : jazz
 jeb : pocket  
 jele : gel (jelly)  
 jelos : jealous  
-jen : birth  
 jen : person (people)  
-jen den : birthday  
+jen biznes : businessperson (businessman)  
+jen gong : worker  
+jena : birth  
 jeni : genius  
 jentil : kind (nice, gentle)  
 jeste : gesture  
+jia : home (household)  
 jiju : spider  
 jin : near (close)  
 jiraf : giraffe  
 jiva : live (life)  
-jiva logi : biology (study of life)  
 joga : play (have fun)  
 jok : joke  
 joki : jockey  
@@ -550,8 +547,6 @@ kabin : cabin (booth)
 kaca : catch (to hunt)  
 kafas : cage  
 kafe : coffee  
-kafe kan : cafe (coffee shop)  
-kafe kop : coffee cup  
 kai : open (not closed)  
 kaixi : begin (commence)  
 kaka : excrement (shit)  
@@ -560,12 +555,14 @@ kal : black
 kalam : pen  
 kalsium : calcium (Ca)  
 kamar : room (chamber)  
-kamar tal : floor  
+kamar cat : chat room  
+kamar son : bedroom  
+kamar banya : bathroom  
 kambudia : Cambodia  
 kamera : camera  
 kamis : shirt  
 kamp : camp  
-kan : workshop (place for...)  
+kan : can (be able)  
 kanada : Canada  
 kanal : channel  
 kandi : candy (sweets)  
@@ -601,7 +598,6 @@ keci : polite
 kek : cake  
 kelele : noise  
 kemet : Ancient Egypt (Kemet)  
-ken : can (be able)  
 kenar : border (edge)  
 kenya : Kenya  
 kerub : cherub  
@@ -610,15 +606,12 @@ kia : ask (question)
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  
 kimi : chemical  
-kimi logi : chemistry  
 kira : rent  
 kira dar : rent out (let, lease)  
 kira kap : rent (hire)  
 kirat : carat  
 kismat : fate (destiny)  
 kitab : write  
-kitab kan : library  
-kitab maxin : typewriter  
 kiwi : kiwi fruit  
 klar : clear (not obscured)  
 klas : class (category)  
@@ -644,6 +637,8 @@ konson : consonant
 kontinu : continue (resume)  
 konus : cone  
 kop : cup  
+kop ca : tea cup  
+kop kafe : coffee cup  
 kopi : copy  
 korne : horn  
 kor : choir (chorus)  
@@ -720,7 +715,16 @@ lixu : squirrel
 lobak : radish  
 loga : say (word)  
 logi : science  
-lok : place (location)  
+logi baxa : linguistics
+logi deva : theology  
+logi fizik : physics  
+logi jiva : biology (study of life)  
+logi kimi : chemistry  
+logi sismo : seismology  
+logi tekni : technology (study of techniques)  
+logi virus : virology  
+loka : place (location)  
+loka gong : workplace  
 long : long  
 losi : screw  
 lubnan : Lebanon  
@@ -789,6 +793,8 @@ max : more
 max ka bas : too much  
 maxim : most (maximally)  
 maxin : machine  
+maxin kitab : typewriter  
+maxin wax : washing machine  
 me : I (me)  
 me ge : my  
 me ge lau : my parents  
@@ -807,6 +813,7 @@ melodi : melody
 member : member  
 meme : sheep  
 memen : we  
+memo : memory  
 men : bunch (collection)  
 mes : month  
 mes 1 (mes un) : January  
@@ -1041,8 +1048,6 @@ por : for (in order to)
 porta : carry (bear)  
 portugal : Portugal  
 posta : mail  
-posta cap : postal stamp  
-posta kan : post office  
 poto : mud (mire)  
 pratik : practical  
 presis : precise (exact, accurate)  
@@ -1131,7 +1136,6 @@ salone : Sierra Leone
 sam : three (3)  
 sama : sky (heaven)  
 san : make (produce, manufacture)  
-san kan : factory  
 sanduk : box (chest)  
 sang : blood  
 sani : sleigh (sledge)  
@@ -1171,7 +1175,6 @@ sir : secret
 sirka : about (approximately, circa)  
 sis : six (6)  
 sismo : earthquake  
-sismo logi : seismology  
 sistem : system  
 sitat : quote (to cite)  
 siti : city (town)  
@@ -1182,7 +1185,6 @@ sofi : wise
 sok : search (seek)  
 sol : only (just)  
 son : sleep  
-son kamar : bedroom  
 soni : sound  
 sos : sauce  
 sosis : sausage  
@@ -1228,6 +1230,7 @@ taiga : taiga
 taksi : taxi  
 taktik : tactics (strategy)  
 tal : bottom  
+tal kamar : floor  
 tala : lock  
 talka : bee (communal work)  
 tamar : date fruit  
@@ -1243,7 +1246,6 @@ taul : towel
 tava : frying pan  
 taza : fresh  
 tekni : technique (technology)  
-tekni logi : technology (study of techniques)  
 tela : cloth (fabric, textile)  
 tele : distant (tele-)  
 tema : topic (theme)  
@@ -1337,7 +1339,6 @@ viman : airplane
 vin : wine  
 vinil : vinyl  
 virus : virus  
-virus logi : virology  
 vis : substitute (vice-)  
 visa : visa  
 visin : neighbour (vicinity)  
@@ -1358,17 +1359,15 @@ wadi : canyon (gulch, gorge)
 waf : dog  
 waha : oasis  
 wai : outside (exterior)  
-wai gok : foreign country  
-wai xe wazir kan : ministry of foreign affairs  
 wakil : represent (to)  
 wan : bowl (earless cup)  
+wan ca : tea bowl  
 wang : yellow  
 waris : heritage (bequest)  
 wat : watt  
+wawa : baby (infant)  
 wax : wash  
-wax maxin : washing machine  
 wazir : minister (politician)  
-wazir kan : ministry  
 wen : circle (ring)  
 weste : west  
 wiki : wiki  
@@ -1413,7 +1412,6 @@ xuli : repair (fix)
 ##y  
 
 ya : yes (yeah)  
-yad : memory  
 yak : yak  
 yakin : certain (sure)  
 yala : hurry (hasten)  
