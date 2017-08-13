@@ -38,7 +38,7 @@ Basic category nouns are:
 > **jen** - person  
 > **ce** - thing  
 > **yang** - kind, type  
-> **lok** - place  
+> **loka** - place  
 > **sat** - time, moment  
 
 These determiners and category nouns can be combined into this table of correlatives.
@@ -48,7 +48,7 @@ These determiners and category nouns can be combined into this table of correlat
 | Person      | **ke jen**<br>(who)           | **sa jen**<br>(that person)   | **yo jen**<br>(someone)       | **mei jen**<br>(everyone)      | **nul jen**<br>(no-one)      |
 | Thing       | **ke ce**<br>(what)           | **sa ce**<br>(that thing)     | **yo ce**<br>(something)      | **mei ce**<br>(everything)     | **nul ce**<br>(nothing)      |
 | Kind        | **ke yang**<br>(what kind of) | **sa yang**<br>(that kind of) | **yo yang**<br>(some kind of) | **mei yang**<br>(all kinds of) | **nul yang**<br>(no kind of) |
-| Place       | **ke lok**<br>(where)         | **sa lok**<br>(there)         | **yo lok**<br>(somewhere)     | **mei lok**<br>(everywhere)    | **nul lok**<br>(nowhere)     |
+| Place       | **ke loka**<br>(where)        | **sa loka**<br>(there)        | **yo loka**<br>(somewhere)    | **mei loka**<br>(everywhere)   | **nul loka**<br>(nowhere)    |
 | Time        | **ke sat**<br>(when)          | **sa sat**<br>(that time)     | **yo sat**<br>(sometime)      | **mei sat**<br>(all the time)  | **nul sat**<br>(never)       |
 
 
