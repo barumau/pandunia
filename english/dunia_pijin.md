@@ -129,17 +129,17 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **me** = I, **ni** = you, **ta** = he, she. The first person pronoun **me** is borrowed from English "me" and several other Indo-European languages, which use similar words. The second person pronoun is from Mandarin but also from the Dravidian languages of India. For example in Tamil "nī" means you. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. That's why it's ideal for Pandunia, which is a gender-neutral langauge. The plural marker **men** is also from Mandarin. The plurals are quite logically **memen** (we), **nimen** (you) and **tamen** (they).
+The basic personal pronouns of Pandunia are: **me** = I, **yu** = you, **ta** = he, she. The first and second person pronouns **me** are borrowed from English "me" and "you", and re-spelled for Pandunia. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
 
 The possessive pronouns follow the pattern of Standard Chinese.
 
 | English | Pandunia | Chinese  |
 |---------|----------|----------|
 | my      | me ge    | wǒ de    |
-| your    | ni ge    | nǐ de    |
+| your    | yu ge    | nǐ de    |
 | his/her | ta ge    | tā de    |
 | our     | memen ge | wǒmen de |
-| your    | nimen ge | nǐmen de |
+| your    | yumen ge | nǐmen de |
 | their   | tamen ge | tāmen de |
 
 
@@ -148,19 +148,19 @@ The possessive pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me amor ni, ni amor me.
+    Pandunia:  me amor yu, yu amor me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo be yem.
+    Pandunia:  pingo bei yem.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**Be** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
+**Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ta no ken be yem.
+    Pandunia:  ta no ken bei yem.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

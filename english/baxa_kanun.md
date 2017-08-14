@@ -103,7 +103,7 @@ Modifiers
 
 A modifier is a word that adds a particular quality for another word. In Pandunia modifiers come after the noun that they modify.
 
-> **batu dai** - big stone  
+> **batu dai** - big stone
 > **batu cung** - heavy stone  
 > **meza dai** - big table  
 > **meza gau** - high table  
@@ -578,48 +578,6 @@ The following example shows how the scope affects the final position of words in
                                        bon
 
 
-### Head-initial grammar
 
-In linguistics, head is a word that is the most meaningful part of an expression. For example, in a compound word the head is the main word that is modified by other words. For example "path" is the head of "footpath". Likewise, in a noun phrase the head is a noun that is modified or complemented by other words. For example in the phrase "new house that was built" the head is "house" and the modifiers are "new" and "that was built".
 
-A head-initial language is a language where in general the head precedes its modifiers. Pandunia is a head-initial language.
-
-In sentence level Pandunia follows the topic-comment structure. The topic is the first part of the clause and the rest of the clause (i.e. the comment) is about the topic.
-
-> **sa mau se son na meza.** - That cat, it sleeps on the table.
-
-Pandunia uses SVO word order and quite often it can be understood so that the subject is the topic and the VO part is the comment. For example in the sentence **me amor ni.** (I love you.) **me** is the topic and **amor ni** is the comment.
-
-Verb phrases are head-initial. 
-
-- **me baxa pandunia.** - I speak Pandunia.
-    - **baxa** is the head of the verb phrase.
-    - **pandunia** is the complement of the verb phrase.
-- **me vole baxa pandunia.** - I want to speak Pandunia.
-    - **vole** is the head of the verb phrase.
-    - **baxa pandunia** is the complement of **vole**.
-
-Noun phrases are head-initial too except for the optional determiners, which come before the main noun.
-
-- **fem jovan i sundar** - young and beautiful woman
-    - **fem** is the head.
-    - **jovan i sundar** is the comment, which modifies the head.
-- **ye fem jovan** - this young woman
-    - Here the head **fem** is between determiner **ye** and modifier **jovan**.
-
-Preposition phrases are head-initial too. This order makes preposition phrases very convenient to construct.
-
-> **na dom** - at the house  
-> **na in dom** - inside the house  
-> **na in de dom** - on the inside of the house  
-
-Head-initial phrases are easy to grasp. The main thing is mentioned first and the following words tell more about it, one after another. So words go from the general to details.
-
-- **kia ni vol sa kamis bai?** - Do you want that white shirt?
-    - **kia** indicates that what follows is a question.
-    - **ni** indicates that it is about you.
-    - **vol** says it's about wanting.
-    - **sa** - It's there.
-    - **kamis** - It's a shirt.
-    - **bai** - It's the white one!
 

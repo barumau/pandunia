@@ -217,7 +217,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of South Asian words
 
-#### manux (human being)
+#### manuc (human being)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|

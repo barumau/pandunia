@@ -1,7 +1,7 @@
 
 ![](http://www.pandunia.info/kuvat/bandera.png "The flag of Pandunia")
 
-#Pandunia - pijin dunia
+#Pandunia - dunia pijin
 
 
 ![](http://pandunia.info/kuvat/gb.png) ![](http://pandunia.info/kuvat/us.png) [Learn about Pandunia in English](english/index.md)

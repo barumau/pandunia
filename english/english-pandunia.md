@@ -124,7 +124,6 @@ axe (hatchet)   : tabar
 axis   : akse  
 ##b  
 baby (darling)   : bebe  
-baby (infant)   : wawa  
 back   : ruk  
 backpack (rucksack)   : ruk sak  
 bad (not good)   : bad  
@@ -143,16 +142,15 @@ barrel (can)   : tong
 base (foundation)   : baze  
 basket   : basket  
 bath   : banya  
-bathroom   : kamar banya  
+bathroom   : banya kamar  
 battery   : bateri  
 be   : e  
-be done (verb of the passive voice)   : be  
 bean or pea (legume)   : dou  
 bear   : baru  
 beard   : barda  
 beautiful (handsome)   : sundar  
 bed   : bed  
-bedroom   : kamar son  
+bedroom   : son kamar  
 bee (communal work)   : talka  
 beef   : mumu nama  
 beer   : bir  
@@ -171,10 +169,10 @@ between   : inter
 Bible   : biblia  
 big   : dai  
 billion (giga-)   : giga  
-biology (study of life)   : logi jiva  
+biology (study of life)   : jiva logi  
 bird   : paki  
-birth   : jena  
-birthday   : den jena  
+birth   : jen  
+birthday   : jen den  
 biscuit (cookie)   : biskut  
 black   : kal  
 blood   : sang  
@@ -218,7 +216,7 @@ Bulgaria   : bolgaria
 bunch (collection)   : men  
 bus   : bus  
 business (commercial activity)   : biznes  
-businessperson (businessman)   : jen biznes  
+businessperson (businessman)   : biznes jen  
 busy (occupied)   : bizi  
 but   : ama  
 butter   : makan  
@@ -228,7 +226,7 @@ buy   : mai kap
 ##c  
 cabin (booth)   : kabin  
 cabinet (cupboard)   : almari  
-cafe (coffee shop)   : dom kafe  
+cafe (coffee shop)   : kafe kan  
 cage   : kafas  
 cake   : kek  
 calcium (Ca)   : kalsium  
@@ -238,7 +236,7 @@ Cambodia   : kambudia
 camel   : gamel  
 camera   : kamera  
 camp   : kamp  
-can (be able)   : kan  
+can (be able)   : ken  
 can (tin can)   : tin  
 Canada   : kanada  
 candy (sweets)   : kandi  
@@ -272,12 +270,12 @@ channel   : kanal
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : sura  
 chat (informal conversation)   : cat  
-chat room   : kamar cat  
+chat room   : cat kamar  
 check (to examine)   : cek  
 checkers   : dama  
 cheese   : cis  
 chemical   : kimi  
-chemistry   : logi kimi  
+chemistry   : kimi logi  
 cherub   : kerub  
 chess   : xatur  
 chest (thorax)   : sen  
@@ -314,7 +312,7 @@ coco   : koko
 cocoa   : kakau  
 code (cipher)   : kod  
 coffee   : kafe  
-coffee cup   : kop kafe  
+coffee cup   : kafe kop  
 cold   : leng  
 cold (illness)   : zukam  
 Colombia   : kolombia  
@@ -415,7 +413,7 @@ dress   : gaun
 drill (bore)   : bor  
 drive   : gida  
 drug (medicine)   : dawa  
-drugstore (pharmacy)   : dom dawa  
+drugstore (pharmacy)   : dawa kan  
 drum   : tambur  
 dry   : suha  
 dumpling   : mantu  
@@ -437,7 +435,7 @@ electricity   : eletre
 electron   : eletron  
 elegant (chic)   : xik  
 elephant   : gaja  
-embassy : dom daixi  
+embassy : daixi kan  
 emerald   : zumrud  
 emperor : imper han  
 empire   : imper  
@@ -471,7 +469,7 @@ excrement (shit)   : kaka
 eye   : mat  
 ##f  
 face   : muka  
-factory   : dom san  
+factory   : san kan  
 fairy   : peri  
 family   : famil  
 fan (fanatic)   : fanat  
@@ -510,7 +508,7 @@ five (5)   : lim
 fix (attach)   : fiksa  
 flag (banner)   : bandera  
 flat   : ping  
-floor   : tal kamar  
+floor   : kamar tal  
 flour   : ata  
 flower   : hua  
 fly   : fei  
@@ -518,6 +516,7 @@ fly (housefly)   : zizi
 fool (idiot)   : bobo  
 foot   : ped  
 for (in order to)   : por  
+foreign country   : wai gok  
 forenoon   : suba den  
 forest (jungle)   : jangal  
 forget   : bul  
@@ -625,7 +624,7 @@ hockey   : hoki
 hold (grasp)   : ten  
 hole   : kong  
 holy (sacred)   : sant  
-home (household)   : jia  
+home (household)   : dom  
 Honduras   : honduras  
 honey   : medu  
 hooray (cheer)   : hura  
@@ -637,7 +636,7 @@ horn (bugle)   : laba
 horse   : uma  
 hotel   : hotel  
 hour   : hor  
-house   : dom  
+house   : bet  
 how?   : ke yang?  
 howling   : ulu  
 huh? (pardon?)   : he  
@@ -658,7 +657,7 @@ important   : muhim
 in (inside)   : na in  
 India   : barat  
 Indonesia   : indonesia  
-information (inform)   : info  
+inform (communicate)   : informa  
 inject   : juxa  
 insect   : koncung  
 inside (interior)   : in  
@@ -694,7 +693,7 @@ jockey   : joki
 joke   : jok  
 Jordan   : urdun  
 joule (J)   : jul  
-judge (referee)   : guru hakim  
+judge (referee)   : hakim guru  
 judgment (sentence)   : hakim  
 judo   : judo  
 jug (jar)   : jara  
@@ -725,7 +724,7 @@ kung fu   : gung fu
 ##l  
 lacquer (varnish)   : laka  
 lamp   : lampa  
-language   : baxa  
+language : baxa  
 lantern   : fanus  
 Laos   : lao  
 larva (maggot, caterpillar)   : larva  
@@ -746,7 +745,7 @@ let's   : haide
 letter (character)   : kara  
 letter (message)   : leter  
 lettuce   : letis  
-library   : dom kitab  
+library   : kitab kan  
 lie (lie down)   : lala  
 light (illumination)   : guang  
 like (as, as if, than)   : ka  
@@ -756,7 +755,7 @@ lily   : lili
 limit (boundary)   : limit  
 line (row)   : fila  
 line (stripe)   : lin  
-linguistics : logi baxa  
+linguistics : baxa logi  
 lion   : singa  
 lip   : lab  
 list   : lista  
@@ -819,7 +818,7 @@ meditate (ponder)   : medita
 meet   : mil  
 melody   : melodi  
 member   : member  
-memory   : memo  
+memory   : yad  
 Mercury   : budan  
 messiah (Christ)   : mesi  
 metal   : metal  
@@ -834,7 +833,8 @@ million (mega-)   : mega
 mineral (ore)   : kuang  
 mineral water   : kuang sui  
 minister (politician)   : wazir  
-ministry   : dom wazir  
+ministry   : wazir kan  
+ministry of foreign affairs   : wai xe wazir kan  
 minute   : minut  
 mirror   : aina  
 model (design)   : model  
@@ -988,7 +988,7 @@ Philippines (Filipino)   : pilipin
 philosophy   : filsofi  
 phosphorus   : fosfor  
 photograph   : foto  
-physics   : logi fizik  
+physics   : fizik logi  
 physique   : fizik  
 piano   : piano  
 picnic   : piknik  
@@ -1002,7 +1002,7 @@ pirate   : pirat
 piss (urine)   : pixa  
 pistol   : pistol  
 pizza   : pitsa  
-place (location)   : loka  
+place (location)   : lok  
 plain (simple)   : sade  
 plan   : plan  
 plane (plane tool)   : randa  
@@ -1033,8 +1033,8 @@ porter (coolie)   : kuli
 portion (dose)   : doze  
 Portugal   : portugal  
 possible (maybe)   : munkin  
-post office   : dom posta  
-postal stamp   : cap posta  
+post office   : posta kan  
+postal stamp   : posta cap  
 posture (asana)   : asan  
 pot (bin)   : bin  
 potato   : alu  
@@ -1046,9 +1046,9 @@ practice (to exercise)   : len
 pray   : dua  
 precise (exact, accurate)   : presis  
 press (stamp)   : cap  
-priest (cleric)   : guru din  
+priest (cleric)   : din guru  
 prime minister   : xef wazir  
-prison   : dom bandi  
+prison   : bandi kan  
 prisoner (jailbird)   : bandi  
 problem   : problem  
 process (procedure)   : proses  
@@ -1142,7 +1142,7 @@ save (deposit, bank)   : banka
 saw tool   : ara  
 say (word)   : loga  
 scarf (shawl)   : xal  
-school (institution)   : dom darsa  
+school (institution)   : darsa kan  
 science   : logi  
 scissors   : makas  
 screen   : ekran  
@@ -1153,7 +1153,7 @@ season   : mosim
 second(s)   : sekun  
 secret   : sir  
 seed   : dane  
-seismology   : logi sismo  
+seismology   : sismo logi  
 selenium   : selen  
 self   : se  
 sell   : mai dar  
@@ -1238,6 +1238,7 @@ storm (tempest)   : tufan
 story (tale)   : kata  
 strike (punch)   : darba  
 strong (force)   : bal  
+student (pupil)   : darsa ban  
 substitute (vice-)   : vis  
 subway (metro)   : tunel tren  
 suck   : cup  
@@ -1271,13 +1272,12 @@ taste (sense the flavor)   : gusta
 tattoo   : tatu  
 taxi   : taksi  
 tea   : ca  
-tea bowl   : wan ca  
-tea cup   : kop ca  
-teacher   : guru darsa  
+tea bowl   : ca wan  
+teacher   : darsa guru  
 team   : tim  
 tear drop   : mat sui  
 technique (technology)   : tekni  
-technology (study of techniques)   : logi tekni  
+technology (study of techniques)   : tekni logi  
 tempt (entice)   : tenta  
 ten (10)   : des  
 tennis   : tenis  
@@ -1288,7 +1288,7 @@ Thai (Thailand)   : tai
 thanks (thank you)   : danke  
 that (that over there)   : sa far  
 that is (in other words, i.e.)   : yani  
-theology   : logi deva  
+theology   : deva logi  
 theory   : teori  
 they   : tamen  
 thick (fat)   : pang  
@@ -1343,12 +1343,13 @@ turban   : pagri
 Turkey   : turki  
 turtle (tortoise)   : tortuga  
 two (2)   : du  
-typewriter   : maxin kitab  
+typewriter   : kitab maxin  
 tyrant   : tiran  
 ##u  
 Ukraine   : ukrayina  
 umbrella (parasol)   : catar  
 under (below)   : xia  
+undergo (verb of the passive voice)   : bei  
 understand (realize)   : aha  
 unite   : uni  
 United States of America   : uni stat de amerika  
@@ -1375,7 +1376,7 @@ Vietnam   : viet
 village   : deya  
 vinegar   : cuka  
 vinyl   : vinil  
-virology   : logi virus  
+virology   : virus logi  
 virus   : virus  
 visa   : visa  
 visit   : vizit  
@@ -1392,7 +1393,7 @@ wall   : mur
 want (desire)   : vol  
 warm   : garam  
 wash   : wax  
-washing machine   : maxin wax  
+washing machine   : wax maxin  
 water   : sui  
 water buffalo   : kabau  
 water lily (nenuphar)   : nenufar  
@@ -1427,8 +1428,9 @@ without   : bi no
 wolf   : beria  
 woman (adult female)   : matur fem  
 work (labor)   : gong  
-worker   : jen gong  
-workplace   : loka gong  
+worker   : gong jen  
+workplace   : gong kan  
+workshop (place for...)   : kan  
 world   : dunia  
 world language : dunia baxa  
 worm   : verme  
