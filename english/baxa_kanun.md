@@ -1,88 +1,93 @@
 Grammar
 =======
 
-Introduction
-------------
-
-> Grammatica, tormento de pueritia, es quasi semper inutile.  
-> —Giuseppe Peano, [Primo Libro](http://www.oocities.org/athens/Olympus/2948/primlib1.html)
-
-> If we imagine a fictitious language, in which all kinds of grammatical markings are missing [...] we come to the principles of an isolating language
-> —August Dauses, [Universality of grammar and grammatical universals](http://www.erlangerliste.de/ressourc/dauses1.html)
-
-When talking about grammar, many people first think of marking of person, tense, mood, case, number and gender in words, and usage of articles, prepositions and other so called _grammar words_ and the rules that govern them. For many, they are the natural building blocks of grammar and they can't imagine a language without them. The grammar of Pandunia is different. It doesn't have any grammatical markings and there are very few rules that concern specific words.
-
-Structurally Pandunia is an isolating language. In Pandunia, all words are unchanging – they aren't ever inflected, and there are no endings like the plural -s or -es in English. So instead of the form, it is the _meaning_ of words that matters, and their place in the sentence.
-
-These are the reasons why an isolating structure was chosen for Pandunia, the global contact language:
-
-- Natural isolating languages are not uncommon. They are particularly common in Southeast Asia, Oceania and West Africa.
-    - The Chinese languages are isolating. This includes Mandarin Chinese, which is spoken by more native speakers than any other language on earth.
-    - Also several other isolating languages are spoken by millions of speakers, such as Vietnamese, Thai, Burmese, Yoruba and Igbo.
-- Spontaneously created _contact languages_ tend to be isolating. This applies also to most instances of _pidgin English_.
-- It's easier to learn _just words_ than to learn rules and their exceptions.
-    - Isolating languages are considered to be generally easier to learn than inflectional and agglutinating languages.
-    - Usually learners speak an isolating variant of the target language at first anyway, for example a kind of "broken English".
-- The gap between a beginner and a fluent speaker is more narrow and less obvious for an isolating language than for inflectional languages.
-- It's easier to borrow words in all shapes and forms when the grammar doesn't set any morphological criteria.
+## 0. Introduction
 
 This grammar deals with the types of words and word order patterns in Pandunia. However, it's possible to learn Pandunia without reading this grammar, for example with the help of a phrasebook and a dictionary.
 
 
+
+## 1. Pronunciation
+
+### 1.1. Alphabet
+
+Pandunia uses unaccented letters of the Latin alphabet to represent its sounds. Alphabetical order is standard. Only lower-case letters are used as the standard. Upper-case letters may be used at will.
+
+### 1.2. Vowels
+
+Pandunia has five pure vowels.
+
+     a : low back unrounded         (English approx.: fAther)
+     e : lower-mid front unrounded  (English approx.: pEt)
+     i : high front unrounded       (English approx.: machIne)
+     o : upper-mid back rounded     (English approx.: nOte)
+     u : high back rounded          (English approx.: rUle)
+
+The vowels are pure. Don't turn them into diphthongs or reduce them in unstressed syllables.
+
+### 1.2. Consonants
+
+     b : bilabial stop, voiced
+     p : bilabial stop, unvoiced
+     f : labio-dental fricative, unvoiced
+     v : labio-dental fricative, voiced
+     m : bilabial nasal, voiced
+     d : dental or alveolar stop, voiced
+     t : dental or alveolar stop, unvoiced
+     s : linguo-alveolar fricative, unvoiced (sibilant)
+     z : linguo-alveolar fricative, voiced (sibilant)
+     n : dental or alveolar nasal, voiced
+     c : palatal or retroflex fricative, unvoiced (sibilant)
+     j : palatal or retroflex fricative, voiced (sibilant)
+     g : velar stop, voiced
+     k : velar stop, unvoiced
+     h : velar or glottal fricative, unvoiced
+     l : linguo-alveolar lateral
+     r : linguo-palatal retroflex trill or glide
+
+### 1.3. Stress Accent
+
+The stress accent is on the vowel before the last consonant of a word.
+
+1. Words with only one syllable carry the stress. Ex. MAU, TONG.
+2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
+3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
+
+> **dúnia ye memén ge sundár planét.**  
+> **mé vól lóga komún báxe yáni pandúnia.**  
+
+
 --------------------------------------------------------------------------------
 
-Basic Rules
------------
+## 2. Nouns
 
-1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
-2. The stress accent is on the syllable before the last consonant of the word.
-3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
-5. Compound words are made by combining the elements that form them. The main word stands at the end.
-    - ex. **poste sanduk** = mailbox
-6. Sentences with transitive verbs have subject-verb-object word order.
-    - ex. **me penta meza.** = I paint tables.
-7. A sentence with passive meaning has only a subject and a verb.
-    - ex. **ta penta.** = It is painted.
-8. The subject of a sentence consists of a personal pronoun alone, or a noun phrase followed by a tense, aspect or mood particle.
-    - **memen baxa pandunia.** = We speak Pandunia.
-    - **jen ya baxa pandunia.** = People _indeed_ speak Pandunia.
-9. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **me cing ni dar pesa.** = I ask you to give money.
-10. Pronouns can be left out when they are obvious and redundant.
-    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
-    - **me cing ni loga tez.** →  **cing loga tez.** = Please speak louder.
-
-
-
-
-Parts of speech
----------------
-
-All words are invariable in Pandunia. There is no inflexion of any kind. That's why the parts of speech depend on the meaning of words, not on the form.
-
-The parts of speech in Pandunia are:
-
-1. The noun names a thing, a person, an abstract concept or a proper name, ex. stone, table, robot, cat, human, city, london.
-2. The modifier is a word that adds some quality to the thing denoted by another word, ex. good, bad, big, fast.
-3. The numeral is a word that tells the number or amount of things.
-4. The verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
-5. The particle is a structural or an abstract word, ex. yes, no, but, if.
-
-
-
-Nouns
------
+### 2.1. Uninflected
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
 > **batu** - a stone, stones, the stone or the stones  
 > **meza** - a table, tables, the table or the tables  
 > **kursi** - a chair, chairs, the chair or the chairs  
-> **sui** - water
+> **su** - water
 
 Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+
+### 2.2. Number
+
+Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
+
+An easy way to emphasize plurality is to repeat the noun.
+
+> **batu batu** - stones, lots of stones  
+> **tara tara** - stars, lots of stars  
+
+### 2.3. Gender
+
+Pandunia doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
+
+Some words carry _natural gender_. For example **fem** (woman) is feminine and **man** (man) is masculine.
+
+### 2.4. Compounds
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
@@ -90,41 +95,75 @@ Two or more nouns can be put together to make a compound word. The last word is 
 > **luna guang** - moon light  
 > **luna batu** - moon stone
 
-An easy way to emphasize plurality is to repeat the noun.
+--------------------------------------------------------------------------------
 
-> **batu batu** - stones, lots of stones
-> **tara tara** - stars, lots of stars
+## 3. Modifiers
 
+A modifier is a word that adds some quality or description to the thing denoted by another word, ex. good, bad, big, fast.
 
+### 3.1. Adjectives
 
-Modifiers
----------
+#### 3.1.1. General
 
-A modifier is a word that adds a particular quality for another word. In Pandunia modifiers come before the noun that they modify.
+An adjective is a word that adds a particular quality for a noun. In Pandunia adjectives are usually before the noun that they modify.
 
-> **dai batu** - big stone
-> **cung batu** - heavy stone  
-> **dai meza** - big table  
-> **gau meza** - high table
-> **bon kursi.** - good chair
+> **day batu** - big stone
+> **day meza** - big table  
+> **alti meza** - high table
+> **bon kursi** - good chair
 
-When a modifier follows a noun phrase, it becomes a stative verb.
+Adjectives can be also after the noun.
 
-> **batu dai.** - The stone is big.  
-> **meza gau.** - The table is high.
+> **batu day.** - stone big  
+> **meza alti.** - table high
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **dai meza gau.** - The big table is high.
-
-Modifiers can modify also verbs. Then they function like English adverbs.
-
-> **me _bon_ son.** - I sleep _well_.  
-> **ni _bon_ baxa pandunia.** - You speak Pandunia _well_.
+> **day meza alti** - big table high
 
 
-Numerals
---------
+#### 3.1.3. Adjective endings
+
+Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
+
+The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
+
+Some suffixes are also adjectival by default. These include **-al**. Ex. **social** _societal_.
+
+
+
+### 3.2 Adverbs
+
+An adverb is a word that modifies a verb, an adjective or another adverb. Often adverbs end in **-o**.
+
+> **me sona _bono_.** - I sleep _well_.  
+> **ni _bono_ baxa pandunia.** - You speak Pandunia _well_.
+
+
+#### 3.2.2. Adverb ending
+
+Adverbs of manner end in **-o**: **bono** _well_, **sundaro** _beautifully_.
+
+
+### 3.3. Comparison
+
+Both adjectives and adverbs can be compared.
+
+- **max** (more) indicates comparison of superiority
+- **maxim** (most) indicates the superlative of superiority
+- **min** (less) indicates comparison of inferiority
+- **minim** (least) indicates the superlative of inferiority
+- **sam** (as) indicates the comparison of equality
+
+Particle **ka** relates the adverbs of comparison to the point of comparison.
+
+> **me ye max bon ka ni.** - I am better than you.  
+> **ni loga sam bono ka me.** - You speak as well as me.
+
+
+--------------------------------------------------------------------------------
+
+## 4. Numerals
 
 Sometimes it is known from the context how many objects are spoken about. For example, the word **surya** (sun) normally refers to just one sun because there is only one.
 
@@ -186,10 +225,9 @@ Numbers that are greater than 999 may use the multiples from the International S
     
 
 
-Pronouns
---------
+## 5. Pronouns
 
-### Personal pronouns
+### 5.1. Personal pronouns
 
 Pronouns can substitute thing-words and phrases of thing-words.
 
@@ -204,12 +242,12 @@ Pronouns can substitute thing-words and phrases of thing-words.
 
 Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
-**me vide se** - I see myself.
-**ta vide se** - She sees herself. / He sees himself.
-**memen vide se.** - We see ourselves.
+**me vida se** - I see myself.
+**ta vida se** - She sees herself. / He sees himself.
+**memen vida se.** - We see ourselves.
 
 
-### Demonstrative pronouns
+### 5.2. Demonstrative pronouns
 
 **Sa** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
 
@@ -226,105 +264,129 @@ The demonstrative pronouns work like modifiers.
 > **sa batu cung.** - That stone is heavy.  
 
 
-### Interrogative pronoun
+### 5.3. Interrogative pronoun
 
 **Ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
 
 > **ke?** - Who or what?  
 > **ke xe?** - What? (Which thing?)  
-> **ke jen?** - Who? (Which person?)  
+> **ke yen?** - Who? (Which person?)  
 > **ke sat?** - When? (What time?)  
 > **ke yang?** - How? (What manner?)  
 > **ke koz?** - Why? (What cause?)  
+
+--------------------------------------------------------------------------------
+
+## 6. Verbs
+
+A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
+
+### 6.1. Verb endings
+
+Most verbs end in **-a** and **-u**. A handful of verbs are without a standard ending.
 
 
 
 --------------------------------------------------------------------------------
 
-Verbs
-------
+## 8. Sentences
 
-### Predicate of state
+### 8.1. Observations
 
-Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective.
+Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
+
+> **mau!** - A cat!  
+> **pluva!** - (It) rains!  
+
+
+### 8.2. Stative Sentences
+
+
+#### 8.2.1. With pronoun subject
+
+Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
 
 > **me bon.** - I am good.  
-> **sara bon.** - Sara is good.  
-> **batu cung.** - Stone is heavy.
-
-Likewise, it's possible that the subject is a pronoun and the predicate is a noun.
-
+> **ta novi.** - It is new.  
 > **ta sara.** - She is Sara.  
-> **ta batu.** - It is a stone.  
 
-But when two similar words (that belong to the same part of speech) are put together, it is necessary to separate them. Then the verb **e** (to be) is used.
+The word **no** is added to form the negative.
 
-> **ta e me.** - It is me.  
-> **sa e batu.** - That is a stone.  
-> **batu e vat.** - Stone is an object.  
-> **jovan e sundar.** - Young is beautiful.
+> **me no bon.** - I'm not good.  
+> **ta no novi.** - It's not new.  
+> **ta no sara.** - She is not Sara.
 
-To deny something, use the word **no** before **e**.
+Also two personal pronouns can be juxtaposed.
 
-> **me no e ni.** - I'm not you.  
-> **batu no e hewan.** Stone is not an animal.  
-> **jovan no e sundar.** - Young is not beautiful.  
+> **me ye ta.** - I am he/she.  
+> **me no ni.** - I'm not you.
+
+#### 8.2.2. With noun subject
+
+When the subject is a noun, the word **ye** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
+
+> **sara ye bon.** - Sara is good.  
+> **batu ye day.** - The stone is big.  
+> **meza ye novi.** - The table is new.  
+> **meza no purani.** - The table is not old.
 
 
-### Predicate of action
+#### 8.2.3. With adjective subject
 
-In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
+The same rule applies also for two adjectives.
 
-Active sentences are frequently in the subject–verb–object word order (SVO).
+> **jovan ye sundar.** - Young is beautiful.  
+> **novi no purani.** - New is not old.  
+
+#### 8.2.4. To be
+
+Pandunia doesn't use a verb like "to be" in English.
+
+
+
+### 8.3. Active Sentences
+
+In predicates of action, the main word in the predicate is a verb (i.e. an action-word). In Pandunia, verbs are easy to identify because most of them end in **-a** or **-u**.
+
+Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
 > **me yem pingo.** - I eat apples.  
-> **me ting musik.** - I hear music.  
-> **me vide ni.** - I see you.
+> **me auda musik.** - I hear music.  
+> **me vida ni.** - I see you.
 
-There is also alternative word order, subject–object–verb (SOV). It can be used only in short sentences.
+Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
-**me pingo yem.** - _I apples eat._
+**me pingo yemu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
-In passive sentences, the subject is the undergoer of the action and there is no object.
+The passive voice is formed by removing the agent subject from the SOV type, leaving only OV.
 
-> **ni vide.** - You are seen.  
-> **musik ting.** - Music is heard.
+> **ni vidu.** - You are seen.  
+> **musik audu.** - Music is heard.
 
-Passive can be expressed with help of the verb **bei**.
+#### 8.4.3. Word Orders
 
-> **ni bei vide.** - You get seen.  
-> **musik bei ting.** - Music gets heard.
+In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
+    1. With the verb ending in -a
+        - object–subject–verb (OSV) : musik mi auda.
+        - subject–verb–object (SVO) :       mi auda musik.
+        - verb–object–subject (VOS) :          auda musik mi.
+    2. With the verb ending in -u
+        - subject-object-verb (SOV) : mi musik audu.
+        - object-verb-subject (OVS) :    musik audu mi.
+        - verb-subject-object (VSO) :          audu mi musik.
 
-### Separating subject and verb
+The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
 
-Sometimes a sentence is similar to a compound word. There was one sentence above, that could be understood both as a sentence and as a compound word.
-
-> **musik ting.** - *Music is heard.  
-> **musik ting.** - music hearing _or_ hearing music  
-> **musik ting e latif.** - Hearing music is pleasant.  
-
-We need something to separate the two. That's why it is useful and often even necessary to add a tense, aspect or mood particle between the subject and the verb.
-
-Particle **ya** (yes) is appropriate for affirmative sentences and particle **no** (not) is perfect for negative sentences.
-
-> **musik ya ting.** - Music is heard.  
-> **musik no ting.** - Music is not heard.  
-
-Also other particles can be used as separators.
-
-> **musik ja ting.** - Music was already heard.  
-> **musik sun ting.** - Music soon will be heard.  
-
-Note! Pronoun subjects don't need to be separated from the verb. It's because pronouns can never be part of compound words. They are always independent.
-
-> **me ting ni.** - I hear you.  
-> **ta ting musik.** - He/she hears music.  
+The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **me vida yen, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
 
-### Serial verbs
+### 8.4. Passive Sentences
+
+
+### 8.3. Serial verbs
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
@@ -334,22 +396,23 @@ All action-words (verbs) that come one after another are activated by the subjec
  
 
  
-### Pivot structure
+### 8.4. Pivot structure
 
 When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
 
-> **me vol ni yem sabzi.** - I want (that) you eat vegetables.
+> **me vol ni yem sabze.** - I want (that) you eat vegetables.
 
-In the example above, **me vol** has **ni** as its object. At the same time, **ni** functions as the subject of the following predicate, **yem sabzi**. So **ni** is the _pivot_ of the sentence.
+In the example above, **me vol** has **ni** as its object. At the same time, **ni** functions as the subject of the following predicate, **yem sabze**. So **ni** is the _pivot_ of the sentence.
 
 
 
-### Pronoun dropping
+### 8.5. Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **me cing ni lai.** - I ask you to come.  
-> **cing lai!** - Please come! (Literally: _Request come!_)
+> **me cing ni lay.** - I ask you to come.  
+> **cing lay!** - Please come! (Literally: _Request come!_)
+
 
 
 --------------------------------------------------------------------------------
@@ -360,23 +423,30 @@ Particles
 
 ### Affirmation and negation
 
-Particle **ya** is affirmative and **no** is negative. **Ya** affirms something, whereas **no** denies it.
+Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it. In other words **ye** means "to be" or "there is" and **no** means "not to be" or "there is not".
 
-> **kia ti baxa pandunia?** - Do you speak Pandunia?  
-> **ya, me ya baxa ta.** - Yes, I indeed speak it.  
-> **no, me no baxa ta.** - No, I don't speak it.
+Expressions are affirmative by default, so the word **ye** is not always necessary. However it is especially convenient in expressions of state.
+
+> **me ye yen.** - I am a person.  
+> **ta ye novi meza.** - It is a new table.
+
+Such sentences can be simply negated with **no**.
+
+> **me no yen.** - I'm not a person.  
+> **ta no novi meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
-> **me vide ni.** - I see you.  
-> **me no vide ni.** - I don't see you.  
-> **me vide no ni ama tamen.** - I see, not you, but them.
+> **me vida ni.** - I see you.  
+> **me no vida ni.** - I don't see you.  
+> **me vida no ni ama tamen.** - I see, not you, but them.
 
-The particles **ya** and **no** are used for answering questions.
+The particles **ye** and **no** are used also for answering questions.
 
-> **kia ni vide me?** - Do you see me?  
-> **ya. (me vide ni.)** - Yes. (I see you.)  
-> **no. (me no vide ni.)** - No. (I don't see you.)
+> **kia ni vida me?** - Do you see me?  
+> **ye. (me vida ni.)** - Yes. (I see you.)  
+> **no. (me no vida ni.)** - No. (I don't see you.)
+
 
 
 ### Modifier particles
@@ -428,19 +498,19 @@ Here **de** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **me vide man _de yem pingo_.** - I see a man _who eats apples_.  
+> **me vida man _de yem pingo_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **ge** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **ge** immediately after the verb.
 
-> **me vide _pingo yem ge_ man.** - I see an _apple-eating_ man.
+> **me vida _pingo yem ge_ man.** - I see an _apple-eating_ man.
 
 
 
-### Mood Particles
+### Modal Particles
 
-Mood particles indicate what the speaker thinks about s/he says in relation to the listener. Mood particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
+Modal particles indicate what the speaker thinks about s/he says in relation to the listener. Modal particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
 
-In Pandunia, a mood particle modifies the subsequent word, or the whole sentence, when the mood particle is the last word in the sentence.
+In Pandunia, a modal particle modifies the subsequent word, or the whole sentence, when the modal particle is the last word in the sentence.
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
@@ -449,13 +519,7 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 > **ta plus yem bir.** - S/he _also drinks_ beer.  
 > **plus ta yem bir.** - _Also s/he_ drinks beer.
 
-Note! Also adjectives can modify the subsequent word or the entire sentence.
-
-> **me bon kitab buk.** - I write well books.
-> **me kitab bon buk.** - I write good books.
-> **me kitab buk bon.** - I write books well.
-
-However, mood particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
+Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 
 ### Tense and Aspect Particles
@@ -471,7 +535,6 @@ Note! Verbs are not conjugated. So the verb **ha** stayed the same in all tenses
 Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
 
-<!-- There are also countless of other ways to express time. -->
 
 
 --------------------------------------------------------------------------------
@@ -489,11 +552,11 @@ Pandunia has three prepositions of place and time.
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **me lai dom.** - I come home.  
+> **me lay dom.** - I come home.  
 > **ni sit kursi.** - You sit (on) the chair.  
 > **ta lala sofa.** - S/he lies (on) the sofa.  
 > **maci nata daria.** - Fish swim (in) the sea.  
-> **djang nik marce dau.** - Warriors march (on) the road.  
+> **janger marca dau.** - Warriors march (on) the road.  
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
@@ -505,7 +568,7 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **me deng ze ni go.** - I have waited since you left.  
-> **me deng do ni lai dom.** - I wait until you come home.  
+> **me deng do ni lay dom.** - I wait until you come home.  
 > **me deng na ni son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
@@ -562,29 +625,172 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 
 
+## 12. Word Building
+
+It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of hem come from ancient Greek, Latin, Arabic and Persian.
+
+### 12.1. Part of speech markers
+
+Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from verb roots and adjective roots. Some adjectives are also derived from nouns.
+
+Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
+
+**-i** is the marker of adjective and adjectival verb (i.e. static verb). For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**. Words that are adjectives _by nature_ don't need the ending. That's why for example **nov** (new) and **sundar** (beautiful) are without the ending.
+
+There are two simple vowel endings for nouns. **-o** means the process and **-e** means the result of the process. So **logo** means the _act of speaking_ and **loge** means the _speech_ that results from the action. Quite often **-e** is left out and so **log** means the same thing as **loge**.
+
+The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending.
+
+Here are some examples.
+
+**loga** - to speak (active verb)  
+**logu** - to be spoken (passive verb)  
+**logi** - spoken, wordy (adjective)  
+**loge** or **log** - speech, word(s) (noun)  
+
+**kitaba** - to write (active verb)  
+**kitabu** - to be written (passive verb)  
+**kitabi** - written, textual (adjective)  
+**kitabe** or **kitab** - writing, text (noun)  
+
+**nov** or **novi** - new (adjective)  
+**novo** - newly (adverb)  
+**nova** - to make new (active verb)  
+**novu** - to become new (passive verb)  
+**nove** - novelty, new thing (noun)  
+
+There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
+
+**hav** - to have (active verb)  
+**havu** - to belong (passive verb)  
+**have** - that what is had (noun)  
+
+**mus** - to must, to be compelled (passive verb)  
+**musa** - to compel (active verb)  
+**musi** - compulsory, obligatory  
+
+
+
+
+Pandunia has a system of word derivation with final vowels that is applied on action roots and description roots. Usually it's not applied on thing roots and name roots, and also pronouns, conjuctions, numerals and particles are unaffected. However there are exceptions.
+
+- **a** marks verbs for subject-verb-object word order (SVO)
+- **u** marks verbs for object-verb-subject word order (OVS)
+- **i** marks adjectives i.e. modifiers of nouns
+- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
+- **e** marks nouns that are derived from action roots and description roots
+
+#### 12.1.2. Deriving verbs
+
+1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
+2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
+3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
+
+#### 12.1.3. Deriving modifiers
+
+If the root word is a description, then it's adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
+
+If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
+
+If the root is a thing, an object or a person, then its adjectival form will mean "that which is somehow related to the root". The definition is loose and it is meant to be loose.
+
+
+http://archives.conlang.info/do/vonvia/tanfupaun.html 
+-I  active verb, relation or act or event
+-U  passive verb, agent and patient reversed
+
+
+#### 12.1.4. Deriving nouns
+
+
+
+### 12.2. Other suffixes
+
+### -al
+
+**-al** is originally a common adjectival suffix in Western words. It describes something that is somehow related. For example **socia** society → **social** social, related to society.
+
+### -er
+
+Maker, agent of action. Ekz. **beker** baker, **lider** leader, **xofer** driver.
+
+**-er** is the agentive suffix in English and German. It has equivalents in the Romance languages, such as French -eur, Spanish -ero and Portuguese -eiro. The suffix is found in many French and English loan words in Russian, such as шофёр /šofyor/ (chauffeur) and лидер /lidyer/ (leader).
+
+
+### -or
+
+**-or** is a technical suffix that is used for mechanical equipment and machinery. For example **motor, filtor** (filter), **komputor** (computer).
+
+
+### -ia
+
+Names of places, regions and lands often end in **-ia**.
+
+- Lands: **arabia** Arabia, **indonesia** Indonesia, **rusia** Russia, **turkia** Turkey
+- Regions: **imperia** empire, **nasia** nation, **demokratia** democracy, **media** middle area, **tabia** nature
+- Shops and workshops: **bekeria** bakery.
+
+**-ia** is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Pandunia adopts this practice.
+
+| Pandunia | English | Italian | Russian          | Turkish | Arabic        |
+|----------|---------|---------|------------------|---------|---------------|
+| asia     | Asia    | Asia    | Азия (Aziya)     | Asya    | آسِيَا (āsiyā)   |
+| italia   | Italy   | Italia  | Италия (Italiya) | İtalya  | إِيطَالِيَا (ītāliyā) |
+| rusia    | Russia  | Russia  | Россия (Rossiya) | Rusya   | رُوسِيَا (rūsiyā) |
+| suria    | Syria   | Siria   | Сирия (Siriya)   | Suriye  | سُورِيَا (sūriyā) |
+| turkia   | Turkey  | Turchia | Турция (Turciya) | Türkiye | تُرْكِيَّا (turkiyā) |
+
+By coincidence, Japanese has a similar sounding suffix for words for places. For example  
+パン (_pan_ = bread) → パン屋 (_pan'ya_ = bakery, "bread shop").
+
+**-ia** is also the ending for abstract things and systems, such as science and religion: **filsofia, kimia, biolojia, religia**.
+
+
+### -ian
+
+The suffix **-ian** is derived from **-ia** and it means something or someone that belongs to or comes from that place. For example: **asian, italian, rusian**. There are a few words where **-an** means the same thing: **afrikan, amerikan, europan**.
+
 
 Other Topics
 ------------
+
+### Sentence Word Orders
+
+In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
+
+    1. With the verb ending in -a
+        - object–subject–verb (OSV) : musik mi auda.
+        - subject–verb–object (SVO) :       mi auda musik.
+        - verb–object–subject (VOS) :          auda musik mi.
+    2. With the verb ending in -u
+        - subject-object-verb (SOV) : mi musik audu.
+        - object-verb-subject (OVS) :    musik audu mi.
+        - verb-subject-object (VSO) :          audu mi musik.
+
+The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
+
+The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **me vida yen, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
+
 
 ### Hierarchy of Word Types
 
 Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
 
-Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **me vide ni** (I see you) can be pictured as a tree as follows.
+Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **me vida ni** (I see you) can be pictured as a tree as follows.
 
-    me vide ni.
+    me vida ni.
 
-       vide
+       vida
       ┌─┴─┐
      me   ni
 
 Adjectives and numerals point to their head word, the noun.
 
-    me vide sam jovan jen.
+    me vida sam jovan yen.
 
-       vide
+       vida
       ┌─┴──┐
-     me   jen
+     me   yen
            |
          jovan
            |
@@ -619,6 +825,44 @@ The following example shows how the scope affects the final position of words in
 
 
 
+
+--------------------------------------------------------------------------------
+
+Basic Rules
+-----------
+
+1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
+2. The stress accent is on the syllable before the last consonant of the word.
+3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
+4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
+5. Compound words are made by combining the elements that form them. The main word stands at the end.
+    - ex. **poste sanduk** = mailbox
+6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
+    - ex. **me penta meza.** = I paint tables.
+7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
+    - ex. **meza pentu.** = The table gets painted.
+8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
+    - ex. **me cing ni dar pesa.** = I ask you to give money.
+9. Pronouns can be left out when they are obvious and redundant.
+    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
+    - **me cing ni loga klar.** →  **cing loga klar.** = Please speak clearer.
+
+
+
+
+Parts of speech
+---------------
+
+All words are invariable in Pandunia. There is no inflexion of any kind. That's why the parts of speech depend on the meaning of words, not on the form.
+
+The parts of speech in Pandunia are:
+
+1. The noun names a thing, a person, an abstract concept or a proper name, ex. stone, table, robot, cat, human, city, london.
+2. The modifier is a word that adds some quality to the thing denoted by another word, ex. good, bad, big, fast.
+3. The numeral is a word that tells the number or amount of things.
+4. The verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
+5. The particle is a structural or an abstract word, ex. yes, no, but, if.
 
 
 

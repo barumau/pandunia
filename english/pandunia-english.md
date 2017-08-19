@@ -32,7 +32,8 @@ antena : antenna
 anus : anus  
 ara : saw tool  
 arabi : Arabic  
-aranji : orange (fruit)  
+aranje : orange (fruit)  
+aranji : orange (orange-colored)  
 arbuz : watermelon  
 arena : arena (stadium)  
 arhentina : Argentina
@@ -97,7 +98,7 @@ bateri : battery
 batu : stone  
 bauhu : protect (defend)  
 baxa : language
-baxa logi : linguistics
+baxa lojia : linguistics
 bazar : market (bazaar)  
 baze : base (foundation)  
 bebe : baby (darling)  
@@ -142,7 +143,6 @@ boton : button
 brazil : Brazil  
 britan : Britain (UK)  
 brox : brush
-brun : brown  
 buda : Buddha  
 buda din : Buddhism  
 budan : Mercury  
@@ -185,8 +185,8 @@ cili : bell pepper
 cimpanzi : chimpanzee  
 cincila : chinchilla  
 cing : ask (request; please)  
-cing lai : invite  
-cing lai in! : Come in!  
+cing lay : invite  
+cing lay in! : Come in!  
 cip : Albania  
 cis : cheese  
 cita : quote (quotation)  
@@ -241,7 +241,7 @@ des : ten (10)
 desen : drawing (picture)  
 detal : detail  
 deva : god  
-deva logi : theology  
+deva lojia : theology  
 deya : village  
 dian : attention (focus)  
 din : religion  
@@ -331,7 +331,8 @@ final : last (final)
 finger : finger (toe)  
 finger wen : finger ring  
 fizik : physique  
-fizik logi : physics  
+fiziker : physicist  
+fizikia : physics  
 fobi : fear (phobia)  
 fokus : concentrate (focus)  
 forka : fork  
@@ -386,9 +387,6 @@ gol : goal
 gola : throat (gullet)  
 gom : rubber  
 gon : past (former, gone)  
-gong : work (labor)  
-gong jen : worker  
-gong kan : workplace  
 goro : pig  
 goro nama : pork  
 goton : cotton  
@@ -424,11 +422,11 @@ hal : state (condition, situation, status)
 hali : empty  
 halif : caliph  
 halo : hello (hi)  
+halos : halo  
 hamak : hammock  
 hamar : hammer  
 hamir : yeast  
 han : monarch (king, queen)  
-handis : engineer (apply science to)  
 hanguk : South Korea  
 haos : chaos (disorder, turmoil)  
 harab : bad (ruined, spoiled)  
@@ -453,7 +451,10 @@ hima rose : frost
 himalia : Himalayas  
 hindu : Hindu  
 hisab : calculation (arithmetic, computation)  
-histori : history  
+hisaba : calculate  
+histor : history (story)  
+historer : historian  
+historia : history (study of history)  
 hiyar : cucumber  
 hobi : hobby  
 hoki : hockey  
@@ -468,21 +469,26 @@ hua bin : vase (flower pot)
 huli : fox  
 humus : chickpea  
 humus sos : hummus  
-hura : hooray (cheer)  
+hura : cheer (hooray)  
 
 ##i  
 
 i : and  
 ibri : Hebrew  
 idea : idea  
+ideal : ideal (optimal)  
+idealisme : idealisme  
 igen : opinion (view)  
 iha : donkey (ass)  
-imper : empire  
-imper han : emperor
+impera : reign (rule as an emperor)  
+imperer : emperor  
+imperia : empire  
 in : inside (interior)  
 indonesia : Indonesia  
 informa : inform (communicate)  
-ingai : should (ought)  
+informe : information  
+ingai : should (ought) 
+injener : engineer  
 inji : ginger  
 inspira : inspire (inspiration)  
 inter : between  
@@ -508,6 +514,7 @@ jameika : Jamaica
 janela : window  
 jang : fight (war)  
 jangal : forest (jungle)  
+janger : warrior (fighter)  
 janu : knee  
 jara : jug (jar)  
 jaz : jazz  
@@ -523,11 +530,11 @@ jeste : gesture
 jiju : spider  
 jin : near (close)  
 jiraf : giraffe  
-jiva : live (life)  
-jiva logi : biology (study of life)  
+jiva : live  
+jive : life  
+jive lojia : biology (study of life)  
 joga : play (have fun)  
 jok : joke  
-joki : jockey  
 jong : species  
 jovan : young  
 jovan fem : girl  
@@ -552,6 +559,7 @@ kafas : cage
 kafe : coffee  
 kafe kan : cafe (coffee shop)  
 kafe kop : coffee cup  
+kafi : brown (coffee-colored)  
 kai : open (not closed)  
 kaixi : begin (commence)  
 kaka : excrement (shit)  
@@ -572,16 +580,17 @@ kandi : candy (sweets)
 kanguru : cangaroo  
 kanun : law  
 kap : get (take, receive)  
-kapa : cover (covering)  
+kapa : cover (conceal)  
+kape : cover (covering)  
 kapitan : captain  
 kaput : broken (out of order)  
-kar : make (do, act)  
-kara : letter (character)  
+kar : deed (work)  
+kara : do (make, act)  
+karia : occupation (career)  
 karaoke : karaoke  
 karate : karate  
 karbon : coal (carbon)
 kari : curry  
-karo : square  
 karot : carrot  
 karta : card  
 kasa : case (container)  
@@ -610,10 +619,10 @@ kia : ask (question)
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  
 kimi : chemical  
-kimi logi : chemistry  
-kira : rent  
-kira dar : rent out (let, lease)  
-kira kap : rent (hire)  
+kimia : chemistry  
+kira : rent (hire)  
+kiriza : rent out (let, lease)  
+kire : rent  
 kirat : carat  
 kismat : fate (destiny)  
 kitab : write  
@@ -649,7 +658,8 @@ korne : horn
 kor : choir (chorus)  
 kos : cough  
 kosmos : space (cosmos, universe)  
-kosta : shore (coast)  
+kosta : cost  
+koste : cost (price)  
 kostarika : Costa Rica  
 kot : coat  
 koz : reason (cause)  
@@ -658,7 +668,7 @@ kri : cry (shout)
 krus : cross  
 kuan : wide  
 kuang : mineral (ore)  
-kuang sui : mineral water  
+kuang su : mineral water  
 kuba : Cuba  
 kul : cool  
 kuli : porter (coolie)  
@@ -677,14 +687,14 @@ kusen : cushion (pillow)
 lab : lip  
 laba : horn (bugle)  
 lad : load (to charge)  
-lai : come  
-lai salam : welcome  
+lay : come  
+lay salam : welcome  
 laji : rubbish (trash)  
 laka : lacquer (varnish)  
 lala : lie (lie down)  
 lampa : lamp  
+lanca : throw (launch)  
 lanka : Sri Lanka  
-lans : throw (launch)  
 lao : Laos  
 larva : larva (maggot, caterpillar)  
 lastik : elastic  
@@ -702,30 +712,32 @@ letis : lettuce
 libel : dragonfly  
 liber : free (unchained)  
 lici : lychee (litchi)  
-lid : lead (direct)  
+lida : lead (direct)  
+lider : leader (director)  
 lietuva : Lithuania  
 liga : connect (join, link)  
+lige : joint (league)  
 lilak : lilac  
 lili : lily  
 lim : five (5)  
 limfa : lymph  
 limit : limit (boundary)  
 limun : lemon  
-lin : line (stripe)  
+linye : line (stripe)  
 lis : smooth  
-lista : list  
+liste : list (listing)  
 lit : little (small)  
-liter : liter (litre)  
+litre : liter (litre)  
 lixu : squirrel  
 lobak : radish  
-loga : say (word)  
-logi : science  
+loga : say  
+loge : word  
+lojia : science  
 lok : place (location)  
 long : long  
 losi : screw  
 lubnan : Lebanon  
 lulu : pearl  
-lun : argument (thesis)  
 luna : moon  
 lusun : asparagus  
 lut : rob (loot)  
@@ -758,6 +770,7 @@ mama : mother (mom)
 man : male  
 man ban : son  
 mana : mean (signify)  
+mane : meaning (signification)  
 manga : comic (cartoon)  
 mango : mango  
 mangus : mangosteen  
@@ -768,17 +781,21 @@ manux : human being
 mar : time (occasion)  
 mara : tree  
 maraton : marathon  
-marce : walk (march)  
+marca : walk (march)  
 margarin : margarine  
-marka : mark (trace)  
+marka : mark (leave a mark)  
+marke : mark (trace)  
 marmar : marble  
 marsi : Mars  
 masa : mass (lump)  
 masaje : massage  
+masajer : masseur (masseuse)  
 masala : issue  
-maska : mask (camouflage)  
-mat : eye  
-mat sui : tear drop  
+maske : mask (camouflage)  
+mat : death  
+mata : kill  
+mati : dead  
+matu : die  
 mater : matter (substance)  
 matras : mattress  
 matur : mature (ripe, adult)  
@@ -787,7 +804,9 @@ matur man : man (adult male)
 mau : cat  
 max : more  
 max ka bas : too much  
+maxi : additional  
 maxim : most (maximally)  
+maximi : maximal  
 maxin : machine  
 me : I (me)  
 me ge : my  
@@ -838,7 +857,12 @@ min : less
 min ka bas : too little  
 minara : tower  
 ming : bright (radiant)  
+mini : lesser (mini-)  
 minim : least (minimally)  
+minimi : minimal  
+minimalisme : minimalism  
+minister : minister (politician)  
+ministeria : ministry  
 minus : except (minus)  
 minut : minute  
 misal : example  
@@ -857,7 +881,6 @@ moral : morality (ethics)
 mos : moss  
 mosim : season  
 moskit : mosquito  
-mot : death (dead)  
 motor : engine (motor)  
 mucing : Jupiter  
 mudan : peony  
@@ -945,6 +968,8 @@ nuton : newton (N)
 ##o  
 
 o : oh!  
+ofis : office (position)  
+ofiser : officer  
 okei : okay (acceptable)  
 oksi : oxygen  
 oma : grandmother  
@@ -991,7 +1016,8 @@ pat : path
 paunde : pound (£)  
 paus : pause (break, interrupt)  
 ped : foot  
-pei : pay (payment)  
+pey : payment  
+peya : pay  
 pende : hang (dangle)  
 penguin : penguin  
 penis : penis  
@@ -1032,7 +1058,9 @@ pluto : Pluto (dwarf planet)
 poker : poker  
 poli : much (many, lots)  
 polis : police  
+poliser : police officer  
 politik : politics  
+politiker : politician  
 polska : Poland  
 pompa : pump (to)  
 pon : put (place)  
@@ -1040,10 +1068,13 @@ pont : point (indicate)
 por : for (in order to)  
 porta : carry (bear)  
 portugal : Portugal  
-posta : mail  
-posta cap : postal stamp  
-posta kan : post office  
+posta : send by mail  
+poste : mail  
+poste cap : postal stamp  
+poste kan : post office  
 poto : mud (mire)  
+poza : pose (set)  
+poze : pose (position)  
 pratik : practical  
 presis : precise (exact, accurate)  
 proba : try (attempt)  
@@ -1064,6 +1095,7 @@ puru : feather
 putau : grape  
 putong : common (universal)  
 putong han : Mandarin Chinese (Putonghua)  
+puxa : push  
 
 ##r  
 
@@ -1072,9 +1104,12 @@ ramazan : Ramadan
 randa : plane (plane tool)  
 rang : color  
 rapid : fast (quick)  
-rasa : race (ethnicity)  
-rasti : grow  
-ratib : order (arrange)  
+rase : race (ethnicity)  
+rasisme : racism  
+raste : growth  
+rastu : grow  
+ratiba : order (arrange)  
+ratibe : order (arrangement)  
 razon : reason (rational thinking)  
 re : again  
 re kar : repeat  
@@ -1096,7 +1131,8 @@ rol : role
 rola : roll  
 rom : rum  
 roma : Rome  
-ron : cry (weep)  
+roma empiria : Roman Empire  
+rona : cry (weep)  
 rong : oriental dragon  
 ros : red  
 rose : dew  
@@ -1118,20 +1154,24 @@ sabat : Sabbath
 sabi : know  
 sabun : soap  
 sabur : patient (composed)  
-sade : plain (simple)  
+sadi : plain (simple)  
 saf : clean (pure)  
 safar : travel (voyage)  
 safar nik : tourist  
+safarer : traveler  
 sak : bag (sack)  
 sal : salt  
 salada : salad  
 salam : greeting (hello)  
+salama : greet  
 salim : surrender (to give up)  
 salone : Sierra Leone  
+salta : jump  
 sam : three (3)  
 sama : sky (heaven)  
-san : make (produce, manufacture)  
+sana : make (produce, manufacture)  
 san kan : factory  
+sania : production  
 sanduk : box (chest)  
 sang : blood  
 sani : sleigh (sledge)  
@@ -1141,7 +1181,8 @@ sar : head
 sar gut : skull  
 sat : time of day (moment)  
 se : self  
-seksi : sex (sexual intercourse)  
+sekse : sex (sexual intercourse)  
+seksi : sexy (sexual)  
 sekun : second(s)  
 sekur : safe (secure)  
 sel : cell (biology)  
@@ -1170,10 +1211,10 @@ singapur : Singapore
 sir : secret  
 sirka : about (approximately, circa)  
 sis : six (6)  
-sismo : earthquake  
-sismo logi : seismology  
+sisme : earthquake  
+sisme lojia : seismology  
 sistem : system  
-sitat : quote (to cite)  
+sita : quote (to cite)  
 siti : city (town)  
 sivil : civilian (civil)  
 slovenia : Slovenia  
@@ -1183,13 +1224,17 @@ sok : search (seek)
 sol : only (just)  
 son : sleep  
 son kamar : bedroom  
-soni : sound  
+sona : sleep (be asleep)  
+sonda : sound (make a sound)  
+sonde : sound (audio)  
 sos : sauce  
 sosis : sausage  
 sporte : sport (athletics)  
+sporter : athlete (sportsman)  
 stadion : stadium  
 stat : state  
 stop : stop  
+su : water  
 suan : sour  
 suba : morning  
 suba den : forenoon  
@@ -1198,11 +1243,13 @@ suba yem : breakfast
 sud : south  
 sudafrika : South Africa (republic)  
 sudan : Sudan  
-suha : dry  
-sui : water  
-suka : enjoy (like, be pleased, be happy)  
+suhi : dry  
+suka : enjoy (like)  
+suki : nice  
 sukar : sugar  
 sultan : power (authority, rule)  
+sultana : rule (be in charge)  
+sultaner : ruler  
 sum : sum (total)  
 sun : soon  
 sundar : beautiful (handsome)  
@@ -1222,6 +1269,7 @@ ta : he or she or it
 tabak : tobacco  
 tabar : axe (hatchet)  
 tabia : nature (environment)  
+tabial : environmental  
 tabul : table (matrix)  
 tai : Thai (Thailand)  
 taiga : taiga  
@@ -1229,7 +1277,7 @@ taksi : taxi
 taktik : tactics (strategy)  
 tal : bottom  
 tala : lock  
-talka : bee (communal work)  
+talke : bee (communal work)  
 tamar : date fruit  
 tambur : drum  
 tamen : they  
@@ -1242,8 +1290,8 @@ tatu : tattoo
 taul : towel  
 tava : frying pan  
 taza : fresh  
-tekni : technique (technology)  
-tekni logi : technology (study of techniques)  
+tekne : technique (technology)  
+tekne lojia : technology (study of techniques)  
 tela : cloth (fabric, textile)  
 tele : distant (tele-)  
 tema : topic (theme)  
@@ -1254,6 +1302,8 @@ tenta : tempt (entice)
 teori : theory  
 tep : tape  
 teror : terror  
+tesa : argue (claim)  
+tese : argument (thesis)  
 teste : test (challenge)  
 teyan : suggest (propose)  
 tez : intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)  
@@ -1267,6 +1317,7 @@ tira : pull
 tiran : tyrant  
 titan : titanium  
 to : so (then, therefore)  
+toca : touch  
 togo : Togo  
 tolo : top (spinning top)  
 tomat : tomato  
@@ -1301,7 +1352,8 @@ ulu : howling
 uma : horse  
 umur : age  
 un : one (1)  
-uni : unite  
+una : unite  
+uni : united  
 uni stat de amerika : United States of America  
 uran : Uranus  
 uranium : uranium  
@@ -1329,7 +1381,8 @@ venesuela : Venezuela
 venus : Venus  
 ver : true (real)  
 verme : worm  
-vide : look (see)  
+vida : look (see)  
+vide : view (vision)  
 vide maidan : visual field (field of vision)  
 video : video  
 viet : Vietnam  
@@ -1337,7 +1390,7 @@ viman : airplane
 vin : wine  
 vinil : vinyl  
 virus : virus  
-virus logi : virology  
+virus lojia : virology  
 vis : substitute (vice-)  
 visa : visa  
 visin : neighbour (vicinity)  
@@ -1353,22 +1406,19 @@ vot : vote
 ##w  
 
 wa : wow! (gee!)  
-wada : promise (commitment)  
-wadi : canyon (gulch, gorge)  
+wada : promise (commit)  
 waf : dog  
 waha : oasis  
 wai : outside (exterior)  
 wai gok : foreign country  
 wai xe wazir kan : ministry of foreign affairs  
-wakil : represent (to)  
+wakila : represent  
 wan : bowl (earless cup)  
 wang : yellow  
 waris : heritage (bequest)  
 wat : watt  
-wax : wash  
-wax maxin : washing machine  
-wazir : minister (politician)  
-wazir kan : ministry  
+waxa : wash  
+waxe maxin : washing machine  
 wen : circle (ring)  
 weste : west  
 wiki : wiki  
@@ -1397,8 +1447,8 @@ xatur : chess
 xau : few (little)  
 xaxa : rustle  
 xe : thing  
-xef : chief  
-xef wazir : prime minister  
+xefe : chief (boss)  
+xefe minister : prime minister  
 xia : under (below)  
 xifu : master (sensei)  
 xigo : accident (mishap)  
@@ -1408,7 +1458,7 @@ xin : believe (faith, creed)
 xir : poem  
 xirop : syrup  
 xok : shock (collide)  
-xuli : repair (fix)  
+xula : repair (fix)  
 
 ##y  
 
@@ -1423,6 +1473,8 @@ yani : that is (in other words, i.e.)
 yasen : ash tree  
 yehudi : Jew  
 yem : eat  
+yen : eye  
+yen su : tear drop  
 yep : leaf  
 yer : yesterday  
 yesu : Jesus  
