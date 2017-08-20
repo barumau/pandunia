@@ -1244,8 +1244,9 @@ sud : south
 sudafrika : South Africa (republic)  
 sudan : Sudan  
 suhi : dry  
-suka : enjoy (like)  
-suki : nice  
+suka : delight (make happy)  
+suki : happy (delighted)  
+suku : be fond of (like, enjoy)  
 sukar : sugar  
 sultan : power (authority, rule)  
 sultana : rule (be in charge)  

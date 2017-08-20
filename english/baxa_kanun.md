@@ -134,10 +134,13 @@ Some suffixes are also adjectival by default. These include **-al**. Ex. **socia
 
 ### 3.2 Adverbs
 
-An adverb is a word that modifies a verb, an adjective or another adverb. Often adverbs end in **-o**.
+An adverb is a word that modifies a verb, an adjective or another adverb.
 
+Adverbs of manner are next to the verb or at the end of the sentence.
+
+> **me _bono_ sona.** - I well sleep.  
 > **me sona _bono_.** - I sleep _well_.  
-> **ni _bono_ baxa pandunia.** - You speak Pandunia _well_.
+> **ni baxa pandunia _bono_.** - You speak Pandunia _well_.
 
 
 #### 3.2.2. Adverb ending
@@ -171,7 +174,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 
 > **un tara** - one star  
 > **du tara** - two stars  
-> **sam tara** - three stars  
+> **san tara** - three stars  
 > **xau tara** - few stars  
 > **poli tara** - many stars
 
@@ -190,7 +193,7 @@ The basic number words are:
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **sam**
+- 3 **san**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
@@ -279,11 +282,137 @@ The demonstrative pronouns work like modifiers.
 
 ## 6. Verbs
 
+#### 6.1. General
+
 A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
 
-### 6.1. Verb endings
+Pandunia has two types of verb: verbs that end in **-a** and verbs that end in **-u**. The endings decide the order of the other constituents (subject and object) in the sentence. So the sentence structure depends on the type of the verb.
+
+#### 6.2. Verbs that end in -a
+
+Verbs that end in **-a** use this triangular pattern.
+
+    Word order triangle for verbs that end in -a
+    
+      V
+     ↗ ↘
+    S ← O
+
+#### 6.2.1. SVO order
+
+The most common word order in Pandunia is subject-verb-object (SVO). In this sentence structure the subject comes first, the verb second, and the object third.
+
+    subject-verb-object
+    
+      V
+     ↗ ↘
+    S   O
+
+Examples:  
+**me vida tamen.** - I see them.  
+**ni baka pan.** - You bake bread.  
+
+#### 6.2.2. OVS order
+
+The second structure in this triangle is OVS. It is frequent in dependant clauses.
+
+    object-subject-verb
+    
+      V
+     ↗ 
+    S ← O
+
+For example: **me yem pan, jo ni baka.** - I eat bread _that you baked._
+
+#### 6.2.3. VOS order
+
+The third structure of this triangle is VOS, which is rarely used.
+
+    verb-object-subject
+    
+      V
+       ↘
+    S ← O
+
+
+
+#### 6.2. Verbs that end in -u
+
+Verbs that end in **-u** use this triangular pattern.
+
+    Word order triangle for verbs that end in -u
+    
+      V
+     ↗ ↘
+    O ← S
+
+#### 6.2.1. SOV order
+
+SOV order is commonly used alternative for SVO order.
+
+    subject-object-verb
+    
+      V
+     ↗ 
+    O ← S
+
+Examples:  
+**me tamen vidu.** - _I them see._  
+**ni pan baka.** - _You bread bake._
+
+#### 6.2.1. OVS order
+
+OVS order is common in "passive" sentences.
+
+    object-verb-subject
+    
+      V
+     ↗ ↘
+    O   S
+
+Examples:  
+**pan baku ni.** - Bread is baked by you.  
+**ni suku me.** - You are delighted by me.
+
+#### 6.2.1. VSO order
+
+VSO order is very rare but possible.
+
+    verb-subject-object
+    
+      V
+       ↘
+    O ← S
+
+### 6.3. Passive sentences
+
+In passive sentence there is only object and verb but no subject (i.e. agent).
+
+> **me vidu.** - I am seen.  
+> **pan baku.** - Bread is baked.  
+> **kop kasaru.** - Cup breaks. (Cup gets broken.)
+
+### 6.4. Summary
+
+In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
+
+    1. With the verb ending in -a
+        - object–subject–verb (OSV) : musik me auda.
+        - subject–verb–object (SVO) :       me auda musik.
+        - verb–object–subject (VOS) :          auda musik me.
+    2. With the verb ending in -u
+        - subject-object-verb (SOV) : me musik audu.
+        - object-verb-subject (OVS) :    musik audu me.
+        - verb-subject-object (VSO) :          audu me musik.
+
+The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
+
+### 6.5. Verb endings
 
 Most verbs end in **-a** and **-u**. A handful of verbs are without a standard ending.
+
+
+
 
 
 
