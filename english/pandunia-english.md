@@ -10,6 +10,7 @@ ah : argh!
 aha : understand (realize)  
 ai : alas! (ouch!)  
 aina : mirror  
+ajil : agile  
 aka : brother or sister  
 akse : axis  
 alah : Allah  
@@ -211,7 +212,6 @@ dama : checkers
 dane : seed  
 danke : thanks (thank you)  
 danmark : Denmark  
-dans : dance  
 dante : tooth  
 dante brox : tooth brush  
 dante doktor : dentist  
@@ -522,10 +522,11 @@ jeb : pocket
 jele : gel (jelly)  
 jelos : jealous  
 jen : birth  
-jen : person (people)  
 jen den : birthday  
-jeni : genius  
+jena : give birth  
+jenu : be born  
 jentil : kind (nice, gentle)  
+jenxen : ginseng  
 jeste : gesture  
 jiju : spider  
 jin : near (close)  
@@ -1132,6 +1133,9 @@ rola : roll
 rom : rum  
 roma : Rome  
 roma empiria : Roman Empire  
+romansa : love romantically  
+romanse : romantic love  
+romansi : romantic  
 rona : cry (weep)  
 rong : oriental dragon  
 ros : red  
@@ -1356,11 +1360,14 @@ un : one (1)
 una : unite  
 uni : united  
 uni stat de amerika : United States of America  
+unia : union  
 uran : Uranus  
 uranium : uranium  
 urdun : Jordan  
 uruguai : Uruguay  
-usa : USA  
+usamerika : US America  
+uza : use  
+uzer : user  
 
 ##v  
 
@@ -1463,15 +1470,16 @@ xula : repair (fix)
 
 ##y  
 
-ya : yes (yeah)  
 yad : memory  
 yak : yak  
 yakin : certain (sure)  
 yala : hurry (hasten)  
 yaman : Yemen  
+yan : person (people)  
 yang : kind (type, style)  
 yani : that is (in other words, i.e.)  
 yasen : ash tree  
+ye : yes (yeah)  
 yehudi : Jew  
 yem : eat  
 yen : eye  
@@ -1487,7 +1495,6 @@ yoga : yoga
 yoni : vagina  
 yosai : fortress (stronghold)  
 yumor : humor  
-yung : use (employ)  
 yungam : brave (courageous)  
 yureka : find (discover)  
 

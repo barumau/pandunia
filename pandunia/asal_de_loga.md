@@ -487,7 +487,6 @@ jara ← espanya:portugal:jarra arabi:jara englix:jar
 jeb ← hindi:urdu:jeb turki:cep farsi:jib hun:zseb  
 jele ← frans:gelée englix:jelly indonesia:selai  
 jelos ← englix:jealous espanya:celoso frans:jaloux tagalog:selos italia:geloso  
-jen ← putonghan:rén nipon:jin wuu:zən + frans:gens portugal:gente + hindi:jan  
 jen ← hindi:kan:panjabi:janma bangla:jånmå mal:jananam + gre:genna englix:genesis + putonghan:shēng  
 jeni ← frans:génie doic:Genie portugal:gênio ruski:geniy  
 jentil ← espanya:portugal:frans:gentil englix:gentle  
@@ -1325,6 +1324,7 @@ yak ←
 yakin ← indonesia:yakin arabi:yakīn swahili:yakini  
 yala ← arabi:yalla  
 yaman ←   
+yan ← yuthan:yan putonghan:rén + englix:-ian espania:-iano frans:-ien(ne)  
 yang ← putonghan:yàng thai:yàang viet:dạng  
 yani ← turki:yani arabi:ya'ni hindi:urdu:yānī farsi:ya'ne swahili:yaani  
 yasen ← ruski:yasen horvat:jasen  

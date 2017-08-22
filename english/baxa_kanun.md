@@ -602,11 +602,6 @@ With regards to possession, **ge** works like apostrophe-s ('s) in English.
 
 Another way to use these particles is to connect an adjective or other words with a noun. It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
-Normally the adjective is before the noun in Pandunia. It can be placed after the noun with the help of **de**.
-
-> **nova bet** - new house  
-> **bet de nova** - house _of new_
-
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
 > **roza rang ge lab** - rose-colored lips  
@@ -623,7 +618,7 @@ Also relative clauses are created with help of the modifier particles.
 
 Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
 
-> **ta e man _de me vide_.** - He is the man _that I saw_.
+> **ta ye man _de me vida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
@@ -631,7 +626,7 @@ If the relative clause is missing a subject but contains an object (i.e. if the 
 
 It's possible to construct relative clauses with **ge** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **ge** immediately after the verb.
 
-> **me vida _pingo yem ge_ man.** - I see an _apple-eating_ man.
+> **me vida _pingo yemu ge_ man.** - I see an _apple-eating_ man.
 
 
 

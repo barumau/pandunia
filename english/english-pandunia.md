@@ -1498,7 +1498,7 @@ year   : nen
 yeast   : hamir  
 yellow   : wang  
 Yemen   : yaman  
-yes (yeah)   : ya  
+yes (yeah)   : ye  
 yesterday   : yer  
 yoga   : yoga  
 you   : ni  
