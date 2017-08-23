@@ -156,12 +156,12 @@ Both adjectives and adverbs can be compared.
 - **maxim** (most) indicates the superlative of superiority
 - **min** (less) indicates comparison of inferiority
 - **minim** (least) indicates the superlative of inferiority
-- **sam** (as) indicates the comparison of equality
+- **sem** (as) indicates the comparison of equality
 
 Particle **ka** relates the adverbs of comparison to the point of comparison.
 
 > **me ye max bon ka ni.** - I am better than you.  
-> **ni loga sam bono ka me.** - You speak as well as me.
+> **ni loga sem bono ka me.** - You speak as well as me.
 
 
 --------------------------------------------------------------------------------
@@ -174,13 +174,13 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 
 > **un tara** - one star  
 > **du tara** - two stars  
-> **san tara** - three stars  
+> **sam tara** - three stars  
 > **xau tara** - few stars  
 > **poli tara** - many stars
 
 > **un dai meza** - one big table  
 > **du dai kursi** - two big chairs  
-> **sam bon kursi** - three good chairs
+> **sem bon kursi** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
@@ -193,7 +193,7 @@ The basic number words are:
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **san**
+- 3 **sam**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
@@ -312,9 +312,9 @@ Examples:
 **me vida tamen.** - I see them.  
 **ni baka pan.** - You bake bread.  
 
-#### 6.2.2. OVS order
+#### 6.2.2. OSV order
 
-The second structure in this triangle is OVS. It is frequent in dependant clauses.
+The second structure in this triangle is OSV. It is frequent in dependant clauses.
 
     object-subject-verb
     
@@ -336,7 +336,7 @@ The third structure of this triangle is VOS, which is rarely used.
 
 
 
-#### 6.2. Verbs that end in -u
+#### 6.3. Verbs that end in -u
 
 Verbs that end in **-u** use this triangular pattern.
 
@@ -346,7 +346,7 @@ Verbs that end in **-u** use this triangular pattern.
      ↗ ↘
     O ← S
 
-#### 6.2.1. SOV order
+#### 6.3.1. SOV order
 
 SOV order is commonly used alternative for SVO order.
 
@@ -358,9 +358,9 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **me tamen vidu.** - _I them see._  
-**ni pan baka.** - _You bread bake._
+**ni pan baku.** - _You bread bake._
 
-#### 6.2.1. OVS order
+#### 6.3.2. OVS order
 
 OVS order is common in "passive" sentences.
 
@@ -374,7 +374,7 @@ Examples:
 **pan baku ni.** - Bread is baked by you.  
 **ni suku me.** - You are delighted by me.
 
-#### 6.2.1. VSO order
+#### 6.3.3. VSO order
 
 VSO order is very rare but possible.
 
@@ -605,12 +605,12 @@ Another way to use these particles is to connect an adjective or other words wit
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
 > **roza rang ge lab** - rose-colored lips  
-> **sama rang ge mat** - sky-colored eyes
+> **saman rang ge mat** - sky-colored eyes
 
 Or in the opposite order:
 
 > **lab de roza rang** - lips of the color of the rose  
-> **mat de sama rang** - eyes of the color of the sky
+> **mat de saman rang** - eyes of the color of the sky
 
 #### Relative clauses
 

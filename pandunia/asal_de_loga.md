@@ -1324,13 +1324,13 @@ yak ←
 yakin ← indonesia:yakin arabi:yakīn swahili:yakini  
 yala ← arabi:yalla  
 yaman ←   
-yan ← yuthan:yan putonghan:rén + englix:-ian espania:-iano frans:-ien(ne)  
 yang ← putonghan:yàng thai:yàang viet:dạng  
 yani ← turki:yani arabi:ya'ni hindi:urdu:yānī farsi:ya'ne swahili:yaani  
 yasen ← ruski:yasen horvat:jasen  
 ye ← lingala:yé swahili:yeye zulu:-ye- hindi:urdu:yeh  
 yehudi ←   
 yem ← turki:yemek + yuthan:yam  
+yen ← yuthan:yan putonghan:rén + englix:-ian frans:-ien(ne)  
 yep ← putonghan:yè yuthan:yip hak:min:yap hanguk:ip wuu:ye'  
 yer ← frans:hier espanya:ayer italia:ieri ayiti:yè  
 yo ← putonghan:yǒu  

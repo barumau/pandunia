@@ -174,7 +174,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **ta no ha pesa.** S/he doesn't have money.
 
-**me vol ha nova fon.** I want to have a new phone.
+**me vol ha novi fon.** I want to have a new phone.
 
 **kia ni ha ban?** Do you have children?  
 **me ha du ban.** I have two children.
@@ -208,7 +208,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **me sabi ta.** I know him/her.
 
-**kia ni sabi sa jen?** Do you know that person?
+**kia ni sabi sa yen?** Do you know that person?
 
 **kia nimen sabi alise?** Do you know each other?
 
@@ -467,7 +467,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me mus go ke?** Where should I go?
 
-**me mus go ke jen?** To whom should I go?
+**me mus go ke yen?** To whom should I go?
 
 **haide go!** Let's go!
 
@@ -576,7 +576,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **me vol kira kap un gar.** I want to rent a car.
 
-**ta kira dar kamar do biznes jen.** He/she rents rooms to business people.
+**ta kira dar kamar do biznes yen.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -587,11 +587,11 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **ta e ke yang?** What is it like?
 
-**kia ta nova?** Is it new?
+**kia ta novi?** Is it new?
 
 **ke e mas bon?** Which is better?
 
-**sa e masim bon (ze tot).** This is the best (of all).
+**sa e maxim bon (ze tot).** This is the best (of all).
 
 
 
@@ -675,7 +675,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ha** have; there is <small>(Portuguese _há_)</small>  
 **habar** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
-**jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
@@ -714,6 +713,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ya** yes <small>(Indonesian _ya_)</small>  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  
+**yen** person <small>(Mandarin _rén_ 人)</small>  
 
 
 
