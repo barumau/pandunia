@@ -739,19 +739,19 @@ In addition, a preposition can be followed immediately by a verb.
 
 Preposition **bi** indicates means. It corresponds to English prepositions _with_ and _by (by means of)_. The meaning of **bi** is very broad. Often it is followed by another word that defines the meaning more precisely.
 
-> **me kat pan bi kati.** - I cut bread with a knife.  
-> **me kat pan bi yung kati.** - I cut bread by using a knife.
+> **me kata pan bi caku.** - I cut bread with a knife.  
+> **me kata pan bi uza caku.** - I cut bread by using a knife.
 
 Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **me sabi pandunia ka guru.** - I know Pandunia like a master.
+> **me saba pandunia ka guru.** - I know Pandunia like a master.
 
 **Ka** relates the verb or the adjective to a point of comparison. In the above example **sabi** (know) is the verb and **guru** (master) is the point of comparison.
 
 **Ka** is also used when adjectives are compared.
 
-> **ban e min dai ka papa.** - The child is smaller than the father.  
-> **opa e sem dai ka papa.** - Grandfather is as big as father.
+> **ban ye min dai ka papa.** - The child is smaller than the father.  
+> **opa ye sem dai ka papa.** - Grandfather is as big as father.
 
 **Ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
@@ -768,11 +768,11 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 
 
-## 12. Word Building
+## 11. Word Building
 
 It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of hem come from ancient Greek, Latin, Arabic and Persian.
 
-### 12.1. Part of speech markers
+### 11.1. Part of speech markers
 
 Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from verb roots and adjective roots. Some adjectives are also derived from nouns.
 
@@ -823,13 +823,13 @@ Pandunia has a system of word derivation with final vowels that is applied on ac
 - **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
 - **e** marks nouns that are derived from action roots and description roots
 
-#### 12.1.2. Deriving verbs
+#### 11.1.2. Deriving verbs
 
 1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
 2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
 3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
 
-#### 12.1.3. Deriving modifiers
+#### 11.1.3. Deriving modifiers
 
 If the root word is a description, then it's adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
 
@@ -837,59 +837,71 @@ If the root is an action, then its adjectival form will mean the state that is p
 
 If the root is a thing, an object or a person, then its adjectival form will mean "that which is somehow related to the root". The definition is loose and it is meant to be loose.
 
-#### 12.1.4. Deriving nouns
+#### 11.1.4. Deriving nouns
 
 
 
-### 12.2. Other suffixes
+### 11.2. Derivational Suffixes
 
-### -al
+#### 11.2.1. -al
 
-**-al** is originally a common adjectival suffix in Western words. It describes something that is somehow related. For example **socia** society → **social** social, related to society.
+Creates concordant adjectives from action and thing roots. The resulting adjective is loosely related to the root.
 
-### -er
+**norme** norm, rule; **normal** normal, regular, that which is in concordance with norms and rules.  
+**tabia** nature; **tabial** natural, that which is in concordance with the nature.
 
-Maker, agent of action. Ekz. **beker** baker, **lider** leader, **xofer** driver.
+#### 11.2.2. -an
 
-**-er** is the agentive suffix in English and German. It has equivalents in the Romance languages, such as French -eur, Spanish -ero and Portuguese -eiro. The suffix is found in many French and English loan words in Russian, such as шофёр /šofyor/ (chauffeur) and лидер /lidyer/ (leader).
+When applied to action roots, it denotes the active participant of the action.
+
+**loga** to speak; **logan** speaking, the one who speaks  
+**vida** to see; **vidan** seeing, the one who sees  
+
+When applied to place name roots, it denotes something or someone that belongs to, comes from, or is related to that place.
+
+**amerika** America; **amerikan** American  
+**europa** Europe; **europan** European  
+**asia** Asia; **asian** Asian
+**rusia** Russia; **rusian** Russian, of Russia  
+
+#### 11.2.3. -er
+
+Creates agent nouns from action roots. It denotes someone or something that performs that verb's action.
+
+**baka** to bake; **baker** baker, the one who bakes.  
+**lida** to lead; **lider** leader, the one who leads.  
+**komputa** to compute, to process data; **komputer** computer  
+
+#### 11.2.4. -ia
+
+Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
+
+**manux** human being; **manuxia** humanity, mankind, all the human beings as a group.  
+**kristi** Christian, **kristia** Christianity, all Christians as a group.  
+**filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
+
+This ending is often found in place names, especially country names, but it's not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
+
+**arab** Arab; **arabia** Arabia  
+**rus** Russian; **rusia** Russia  
+**turki** Turk; **turkia** Turkey  
+**asia** Asia  
+**indonesia** Indonesia  
+
+#### 11.2.5. -iz-
+
+Causative suffix.
+
+#### 11.2.6. -ul-
+
+Creates verbs that reverse the meaning of the base verb.
+
+**liga** to tie; **ligula** to untie  
+**ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
 
 
-### -or
 
-**-or** is a technical suffix that is used for mechanical equipment and machinery. For example **motor, filtor** (filter), **komputor** (computer).
-
-
-### -ia
-
-Names of places, regions and lands often end in **-ia**.
-
-- Lands: **arabia** Arabia, **indonesia** Indonesia, **rusia** Russia, **turkia** Turkey
-- Regions: **imperia** empire, **nasia** nation, **demokratia** democracy, **media** middle area, **tabia** nature
-- Shops and workshops: **bekeria** bakery.
-
-**-ia** is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Pandunia adopts this practice.
-
-| Pandunia | English | Italian | Russian          | Turkish | Arabic        |
-|----------|---------|---------|------------------|---------|---------------|
-| asia     | Asia    | Asia    | Азия (Aziya)     | Asya    | آسِيَا (āsiyā)   |
-| italia   | Italy   | Italia  | Италия (Italiya) | İtalya  | إِيطَالِيَا (ītāliyā) |
-| rusia    | Russia  | Russia  | Россия (Rossiya) | Rusya   | رُوسِيَا (rūsiyā) |
-| suria    | Syria   | Siria   | Сирия (Siriya)   | Suriye  | سُورِيَا (sūriyā) |
-| turkia   | Turkey  | Turchia | Турция (Turciya) | Türkiye | تُرْكِيَّا (turkiyā) |
-
-By coincidence, Japanese has a similar sounding suffix for words for places. For example  
-パン (_pan_ = bread) → パン屋 (_pan'ya_ = bakery, "bread shop").
-
-**-ia** is also the ending for abstract things and systems, such as science and religion: **filsofia, kimia, biolojia, religia**.
-
-
-### -ian
-
-The suffix **-ian** is derived from **-ia** and it means something or someone that belongs to or comes from that place. For example: **asian, italian, rusian**. There are a few words where **-an** means the same thing: **afrikan, amerikan, europan**.
-
-
-Other Topics
-------------
+## 12. Other Topics
 
 ### Sentence Word Orders
 
@@ -947,26 +959,19 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia ze koz de ta e bon dunia baxa.
+    yusef i sara vol darsa pandunia ze koz de ta e bon dunia bax.
 
                       ze koz de
                ┌──────────┴──────────┐
               vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ta    baxa
+          i         darsa        ta    bax
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |
                                        bon
 
-
-
-
-
---------------------------------------------------------------------------------
-
-Basic Rules
------------
+### Basic Rules
 
 1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
 2. The stress accent is on the syllable before the last consonant of the word.
@@ -984,22 +989,5 @@ Basic Rules
 9. Pronouns can be left out when they are obvious and redundant.
     - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
     - **me cing ni loga klar.** →  **cing loga klar.** = Please speak clearer.
-
-
-
-
-Parts of speech
----------------
-
-All words are invariable in Pandunia. There is no inflexion of any kind. That's why the parts of speech depend on the meaning of words, not on the form.
-
-The parts of speech in Pandunia are:
-
-1. The noun names a thing, a person, an abstract concept or a proper name, ex. stone, table, robot, cat, human, city, london.
-2. The modifier is a word that adds some quality to the thing denoted by another word, ex. good, bad, big, fast.
-3. The numeral is a word that tells the number or amount of things.
-4. The verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
-5. The particle is a structural or an abstract word, ex. yes, no, but, if.
-
 
 

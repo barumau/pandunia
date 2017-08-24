@@ -1353,6 +1353,8 @@ zardux ←
 zardux din ←   
 zarura ← arabi:ðarura swahili:dharura farsi:hindi:urdu:zaruri  
 ze ← ruski:z tceska:ze  
+ziba ← swahili:ziba kongo:ziba  
+zibula ← swahili:zibua kongo:zibula  
 zigzag ←   
 zimbabwe ←   
 zina ← arabi:turki:urdu:hindi:hausa:zina swahili:zinaa indonesia:zinah farsi:zena  

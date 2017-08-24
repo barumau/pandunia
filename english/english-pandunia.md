@@ -310,6 +310,9 @@ choice (selection)   : cun
 choir (chorus)   : kor  
 cholera   : kolera  
 choose (select)   : cuna  
+Christ   : kriste  
+Christian   : kristi  
+Christianity (Christendom)   : kristia  
 church   : eglis  
 cigar   : sigar  
 cigarette   : sigaret  
@@ -345,7 +348,10 @@ comma   : koma
 commerce   : mai  
 common (shared)   : komun  
 common (universal)   : putong  
+communism   : komunisme  
+communist   : komuniste  
 company (corporation)   : kompani  
+compute (to process data)   : komputa  
 computer   : komputer  
 concentrate (focus)   : fokus  
 concrete (material with cement)   : beton  
@@ -1084,6 +1090,7 @@ play a game   : gema
 play music   : musika  
 player (gamer)   : gemer  
 pliers (pincers)   : pinse  
+plug (stop with a plug)   : ziba  
 Pluto (dwarf planet)   : pluto  
 pocket   : jeb  
 poem   : xir  
@@ -1452,6 +1459,7 @@ union   : unia
 unite   : una  
 united   : uni  
 United States of America   : uni stat de amerika  
+unplug (uncork)   : zibula  
 uranium   : uranium  
 Uranus   : uran  
 Uruguay   : uruguai  

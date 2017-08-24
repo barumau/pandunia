@@ -676,8 +676,11 @@ kolun : column (pillar)
 koma : comma  
 komik : comical (funny)  
 kompani : company (corporation)  
+komputa : compute (to process data)  
 komputer : computer  
 komun : common (shared)  
+komunisme : communism  
+komuniste : communist  
 kona : corner (angle)  
 koncung : insect  
 kong : hole  
@@ -698,6 +701,9 @@ kostarika : Costa Rica
 kot : coat  
 koz : reason (cause)  
 krem : cream  
+kriste : Christ  
+kristi : Christian  
+kristia : Christianity (Christendom)  
 krita : cry (shout)  
 krus : cross  
 kuan : wide  
@@ -1549,6 +1555,8 @@ zardux : Zoroaster
 zardux din : Zoroastrianism  
 zarura : necessary (critical)  
 ze : from (since)  
+ziba : plug (stop with a plug)  
+zibula : unplug (uncork)  
 zigzag : zigzag  
 zimbabwe : Zimbabwe  
 zina : adultery (infidelity)  
