@@ -392,22 +392,7 @@ In passive sentence there is only object and verb but no subject (i.e. agent).
 > **pan baku.** - Bread is baked.  
 > **kop kasaru.** - Cup breaks. (Cup gets broken.)
 
-### 6.4. Summary
-
-In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
-
-    1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik me auda.
-        - subject–verb–object (SVO) :       me auda musik.
-        - verb–object–subject (VOS) :          auda musik me.
-    2. With the verb ending in -u
-        - subject-object-verb (SOV) : me musik audu.
-        - object-verb-subject (OVS) :    musik audu me.
-        - verb-subject-object (VSO) :          audu me musik.
-
-The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
-
-### 6.5. Verb endings
+### 6.4. Verb endings
 
 Most verbs end in **-a** and **-u**. A handful of verbs are without a standard ending.
 
@@ -489,14 +474,39 @@ Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
-The passive voice is formed by removing the agent subject from the SOV type, leaving only OV.
+
+### 8.4. Passive Sentences
+
+#### 8.4.1. OV order
+
+In the passive voice there is no agent subject in the sentence. There is only the object and the verb. Normally the passive is expressed with object–verb (VO) word order with the verb ending in **-u**.
 
 > **ni vidu.** - You are seen.  
-> **musik audu.** - Music is heard.
+> **musik audu.** - Music is heard.  
+> **pan baku.** - Bread is baked.  
 
-#### 8.4.3. Word Orders
+Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
-In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
+The agent can be mentioned after the verb with or without the preposition **de**.
+
+> **ni vidu me.** - You are seen by me.  
+> **ni vidu de me.** - You are seen by me.
+
+
+#### 8.4.2. OV order
+
+In verb–object (VO) order the focus is on the verb.
+
+> **vida ni.** - Seeing you.  
+> **auda musik.** - Listening music.  
+> **baka pan.** - Baking bread.
+
+
+#### 8.5. All Possible Word Orders
+
+There are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
+
+Different orders put the focus on different constituents: the subject, the object or the verb. The focus or emphasis is on the first part of a sentence.
 
     1. With the verb ending in -a
         - object–subject–verb (OSV) : musik mi auda.
@@ -509,48 +519,56 @@ In theory, there are six possible word orders for the transitive sentence. In pr
 
 The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
 
-The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **me vida yen, jo ti suka.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
+The typical word orders in everyday Pandunia are SVO, SOV and OSV. The other word orders can be heard in poetry and in other forms of literary language.
 
 
-### 8.4. Passive Sentences
+### 8.6. Pivot structure
+
+#### 8.6.1. Basic pivot structure (SVOVO)
+
+In the _pivot structure_ the word order is:  
+subject – verb 1 – object 1 – verb 2 – object 2.
+
+Object 1 functions has dual role. It is at the same time the object for verb 1 and the subject for verb 2.
+
+> **me vol ni yem sabze.** - I want you eat vegetables.
+
+In the example above, **me vol** has **ni** as its object. At the same time, **ni** functions as the subject of the following predicate, **yem sabze**. So **ni** is the _pivot_ of the entire sentence.
 
 
-### 8.3. Serial verbs
+### 8.7. Serial verbs
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
 1. **me go dom.** - I go home.  
 2. **me ken go dom.** - I can go home.  
 3. **me vol ken go dom.** - I want to be able to go home. (Lit. _I want can go home_!)
- 
-
- 
-### 8.4. Pivot structure
-
-When the predicate has an object, the object can begin a new predicate. This is called the _pivot structure_.
-
-> **me vol ni yem sabze.** - I want (that) you eat vegetables.
-
-In the example above, **me vol** has **ni** as its object. At the same time, **ni** functions as the subject of the following predicate, **yem sabze**. So **ni** is the _pivot_ of the sentence.
 
 
-
-### 8.5. Pronoun dropping
+### 8.8. Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-> **me cing ni lay.** - I ask you to come.  
-> **cing lay!** - Please come! (Literally: _Request come!_)
+#### 8.8.2. Short pivot structure (VOVO)
+
+> **me kia ni baxa pandunia.** - I ask do you speak Pandunia.  
+> **kia ni baxa pandunia?** - Do you speak Pandunia.
+
+#### 8.8.3. Short pivot structure (VVO)
+
+> **me cing ni lay dom.** - I ask you to come home.  
+> **cing lay dom!** - Please come home! (Literally: _Request come home!_)
 
 
 
 --------------------------------------------------------------------------------
 
-Particles
----------
+## 9. Particles
 
 
-### Affirmation and negation
+### 9.1. Affirmation and Negation
+
+### 9.1.1. Affirmative
 
 Particle **ye** is affirmative and **no** is negative. **Ye** affirms the existence of something, whereas **no** denies it. In other words **ye** means "to be" or "there is" and **no** means "not to be" or "there is not".
 
@@ -558,6 +576,8 @@ Expressions are affirmative by default, so the word **ye** is not always necessa
 
 > **me ye yen.** - I am a person.  
 > **ta ye novi meza.** - It is a new table.
+
+### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
@@ -582,7 +602,7 @@ The particles **ye** and **no** are used also for answering questions.
 
 Particles **ge** and **de** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
 
-#### Possession
+#### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
@@ -598,7 +618,7 @@ With regards to possession, **ge** works like apostrophe-s ('s) in English.
 > **bet de me** - the house of mine  
 > **bet de papa de me** - the house of the father of mine
 
-#### Attribution with adjectives
+#### 9.2.2. Attribution with adjectives
 
 Another way to use these particles is to connect an adjective or other words with a noun. It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
@@ -612,7 +632,7 @@ Or in the opposite order:
 > **lab de roza rang** - lips of the color of the rose  
 > **mat de saman rang** - eyes of the color of the sky
 
-#### Relative clauses
+#### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
@@ -630,7 +650,7 @@ It's possible to construct relative clauses with **ge** too. Then the relative c
 
 
 
-### Modal Particles
+### 9.3. Modal Particles
 
 Modal particles indicate what the speaker thinks about s/he says in relation to the listener. Modal particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
 
@@ -646,7 +666,7 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 
-### Tense and Aspect Particles
+### 9.4. Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
@@ -663,10 +683,9 @@ Naturally time words are used only when they are necessary. Usually it is enough
 
 --------------------------------------------------------------------------------
 
-Prepositions
-------------
+## 10. Prepositions
 
-### Prepositions of place and time
+### 10.1. Prepositions of place and time
 
 Pandunia has three prepositions of place and time.
 
@@ -716,7 +735,7 @@ In addition, a preposition can be followed immediately by a verb.
 > **me deng na dur de ni son.** - _I wait during you sleep._
 
 
-### Prepositions of manner
+### 10.2. Prepositions of manner
 
 Preposition **bi** indicates means. It corresponds to English prepositions _with_ and _by (by means of)_. The meaning of **bi** is very broad. Often it is followed by another word that defines the meaning more precisely.
 
@@ -739,7 +758,7 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 
 
-### List of compound prepositions
+### 10.3. List of compound prepositions
 
 **na ante** before. **na bada** after.  
 **na cen** in front. **na pice** behind.  
@@ -785,7 +804,7 @@ Here are some examples.
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**hav** - to have (active verb)  
+**hav** or **hava** - to have (active verb)  
 **havu** - to belong (passive verb)  
 **have** - that what is had (noun)  
 
@@ -817,12 +836,6 @@ If the root word is a description, then it's adjectival form will mean "that whi
 If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
 
 If the root is a thing, an object or a person, then its adjectival form will mean "that which is somehow related to the root". The definition is loose and it is meant to be loose.
-
-
-http://archives.conlang.info/do/vonvia/tanfupaun.html 
--I  active verb, relation or act or event
--U  passive verb, agent and patient reversed
-
 
 #### 12.1.4. Deriving nouns
 
