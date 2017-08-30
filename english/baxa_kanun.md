@@ -1,60 +1,31 @@
 Grammar
 =======
 
-## 0. Introduction
+## 1. Introduction
+
+### 1.1. Foreword
 
 This grammar deals with the types of words and word order patterns in Pandunia. However, it's possible to learn Pandunia without reading this grammar, for example with the help of a phrasebook and a dictionary.
 
+### 1.2. Basic Rules
 
+1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
+2. The stress accent is on the syllable before the last consonant of the word.
+3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
+4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
+    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
+5. Compound words are made by combining the elements that form them. The main word stands at the end.
+    - ex. **poste sanduk** = mailbox
+6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
+    - ex. **me penta meza.** = I paint tables.
+7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
+    - ex. **meza pentu.** = The table gets painted.
+8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
+    - ex. **me cing ni dar pesa.** = I ask you to give money.
+9. Pronouns can be left out when they are obvious and redundant.
+    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
+    - **me cing ni loga klar.** →  **cing loga klar.** = Please speak clearer.
 
-## 1. Pronunciation
-
-### 1.1. Alphabet
-
-Pandunia uses unaccented letters of the Latin alphabet to represent its sounds. Alphabetical order is standard. Only lower-case letters are used as the standard. Upper-case letters may be used at will.
-
-### 1.2. Vowels
-
-Pandunia has five pure vowels.
-
-     a : low back unrounded         (English approx.: fAther)
-     e : lower-mid front unrounded  (English approx.: pEt)
-     i : high front unrounded       (English approx.: machIne)
-     o : upper-mid back rounded     (English approx.: nOte)
-     u : high back rounded          (English approx.: rUle)
-
-The vowels are pure. Don't turn them into diphthongs or reduce them in unstressed syllables.
-
-### 1.2. Consonants
-
-     b : bilabial stop, voiced
-     p : bilabial stop, unvoiced
-     f : labio-dental fricative, unvoiced
-     v : labio-dental fricative, voiced
-     m : bilabial nasal, voiced
-     d : dental or alveolar stop, voiced
-     t : dental or alveolar stop, unvoiced
-     s : linguo-alveolar fricative, unvoiced (sibilant)
-     z : linguo-alveolar fricative, voiced (sibilant)
-     n : dental or alveolar nasal, voiced
-     c : palatal or retroflex fricative, unvoiced (sibilant)
-     j : palatal or retroflex fricative, voiced (sibilant)
-     g : velar stop, voiced
-     k : velar stop, unvoiced
-     h : velar or glottal fricative, unvoiced
-     l : linguo-alveolar lateral
-     r : linguo-palatal retroflex trill or glide
-
-### 1.3. Stress Accent
-
-The stress accent is on the vowel before the last consonant of a word.
-
-1. Words with only one syllable carry the stress. Ex. MAU, TONG.
-2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
-3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
-
-> **dúnia ye memén ge sundár planét.**  
-> **mé vól lóga komún báxe yáni pandúnia.**  
 
 
 --------------------------------------------------------------------------------
@@ -882,9 +853,9 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 
 This ending is often found in place names, especially country names, but it's not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
-**arab** Arab; **arabia** Arabia  
+**arab** Arab, Arabic; **arabia** Arabia  
 **rus** Russian; **rusia** Russia  
-**turki** Turk; **turkia** Turkey  
+**turki** Turk, Turkish; **turkia** Turkey  
 **asia** Asia  
 **indonesia** Indonesia  
 
@@ -970,24 +941,4 @@ The following example shows how the scope affects the final position of words in
     yusef   sara       pandunia       dunia
                                         |
                                        bon
-
-### Basic Rules
-
-1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
-2. The stress accent is on the syllable before the last consonant of the word.
-3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
-5. Compound words are made by combining the elements that form them. The main word stands at the end.
-    - ex. **poste sanduk** = mailbox
-6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
-    - ex. **me penta meza.** = I paint tables.
-7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
-    - ex. **meza pentu.** = The table gets painted.
-8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **me cing ni dar pesa.** = I ask you to give money.
-9. Pronouns can be left out when they are obvious and redundant.
-    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
-    - **me cing ni loga klar.** →  **cing loga klar.** = Please speak clearer.
-
 

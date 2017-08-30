@@ -851,6 +851,7 @@ Mandarin Chinese (Putonghua)   : putong han
 mandarin orange   : migan  
 mango   : mango  
 mangosteen   : mangus  
+many (much)   : multi  
 marathon   : maraton  
 marble   : marmar  
 March   : mes 3 (mes sam)  
@@ -922,7 +923,6 @@ mountain (hill)   : xan
 mouse   : muxu  
 mouth   : boka  
 MSG (monosodium glutamate)   : micin  
-much (many, lots)   : poli  
 mud (mire)   : poto  
 mummy   : mumia  
 muscle   : muskul  
@@ -1261,6 +1261,7 @@ series   : seri
 serve (wait upon)   : serva  
 sesame   : sesam  
 seven (7)   : set  
+several   : poli  
 sex (sexual intercourse)   : sekse  
 sexy (sexual)   : seksi  
 shadow   : caya  
@@ -1363,6 +1364,7 @@ table (matrix)   : tabul
 tactics (strategy)   : taktik  
 taiga   : taiga  
 tail   : dum  
+tailor   : darzer  
 Tanakh (Jewish Bible)   : tanah  
 tank (container)   : tank  
 Tanzania   : tanzania  
@@ -1479,6 +1481,7 @@ vase (flower pot)   : hua bin
 Venezuela   : venesuela  
 Venus   : venus  
 veranda (porch)   : beranda  
+very (very much)   : multo  
 video   : video  
 Vietnam   : viet  
 view (vision)   : vide  

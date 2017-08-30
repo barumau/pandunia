@@ -222,7 +222,8 @@ deng ← putonghan:děng min:dêng
 des ← portugal:dez ruski:děsyat' hindi:urdu:das  
 desen ← frans:dessin portugal:desenho italia:disegno ron:desen + turki:desen polska:deseń  
 detal ← portugal:detalhe espanya:detalle frans:détail englix:detail ruski:detal'  
-deva ← hindi:urdu:devtā indonesia:dewa portugal:deus  
+dev ← hindi:urdu:devtā indonesia:dewa portugal:deus  
+devi kat ← khmer:teivea' ka'tʰaa  
 deya ← arabi:ḍayʿa portugal:aldeia espanya:aldea + taj:deha farsi:deh + indonesia:jav:désa  
 dian ← guj:marati:hindi:bangla:dhyān urdu:dhiyān  
 din ← arabi:urdu:dīn farsi:turki:din swahili:dini hausa:addini  
@@ -447,14 +448,12 @@ hura ←
 ## i
 
 i ← polska:ruski:i espanya:y portugal:e  
-ibri ←   
 idea ← frans:idée  
 igen ← nipon:iken yuthan:yigin viet:ý kiến hanguk:uigyeon putonghan:yìjiàn  
 iha ←   
-imper ← frans:englix:empire ruski:imperiya espanya:imperio  
-imper xan ←   
+ikan ← indonesia:malayu:ikan maori:ika hawayi:samoa:i'a  
+imperia ← frans:englix:empire ruski:imperiya espanya:imperio  
 in ← italia:doic:englix:in espanya:en  
-indonesia ←   
 informa ← englix:inform espanya:informar doic:informieren ruski:informirovat'  
 ingai ← putonghan:yīnggāi yuthan:jinggoi  
 inji ← hindi:urdu:tamil:inji englix:ginger  
@@ -463,14 +462,7 @@ inter ←
 interes ← ruski:espanya:interés portugal:italia:doic:interesse englix:interest frans:intérêt  
 intervu ← englix:interview  
 inxala ← arabi:ʾinšāʾllāh turki:inşallah indonesia:insyallah portugal:oxalá espanya:ojalá  
-irak ←   
-iran ←   
-islam ←   
-island ←   
-israel ←   
 it ← bangla:iT thai:it hindi:urdu:īNT khmer:ət bur:ut kan:iTTige telugu:iTuka  
-italia ←   
-itiopia ←   
 izi ← englix:easy  
 
 ## j
@@ -697,7 +689,6 @@ lut ← hindi:panjabi:lūTnā englix:loot
 ## m
 
 mace ← turki:maç englix:match  
-maci ← panjabi:maččī bangla:mač hindi:urdu:mačlī telugu:matsyamu  
 madyar ←   
 maf ← indonesia:maaf panjabi:urdu:māf bangla:maph  
 mafan ← putonghan:máfan  
@@ -803,6 +794,8 @@ motor ← putonghan:englix:doic:frans:espanya:portugal:ruski:turki:farsi:indones
 mudan ← putonghan:mǔdān yuthan:maaudaan viet:mẫu đơn hanguk:moran nipon:botan  
 muhim ← hausa:muhimmi swahili:muhimu arabi:muhimm farsi:mohemm  
 muka ← indonesia:tamil:muka tagalog:mukha hindi:urdu:mukh  
+multi ← englix:frans:ruski:multi-  
+multo ← italia:molto portugal:muito  
 mum ← farsi:turki:uzbek:mum hindi:urdu:mom  
 mumia ←   
 mumu ← englix:moo  
@@ -953,7 +946,6 @@ plat ← doic:Platte frans:plat espanya:tagalog:plato englix:plate hindi:pleT
 plus ←   
 pluto ←   
 poker ← hindi:urdu:pokar nipon:pōkā putonghan:pūkè englix:doic:frans:farsi:poker  
-poli ← ell:poli englix:frans:doic:poly- espanya:portugal:ruski:poli-  
 polis ←   
 politik ←   
 polska ←   

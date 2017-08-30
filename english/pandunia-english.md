@@ -233,6 +233,7 @@ darse : lesson
 darse ban : student (pupil)  
 darse guru : teacher  
 darse kan : school (institution)  
+darzer : tailor  
 dau : way (road)  
 dawa : drug (medicine)  
 dawa kan : drugstore (pharmacy)  
@@ -251,8 +252,10 @@ deng : wait
 des : ten (10)  
 desen : drawing (picture)  
 detal : detail  
-deva : god  
-deva lojia : theology  
+dev : god  
+dev lojia : theology  
+devi : divine (godly)  
+devi kat : myth (divine story)  
 deya : village  
 dian : attention (focus)  
 din : religion  
@@ -507,6 +510,7 @@ ideal : ideal (optimal)
 idealisme : idealisme  
 igen : opinion (view)  
 iha : donkey (ass)  
+ikan : fish  
 impera : reign (rule as an emperor)  
 imperer : emperor  
 imperia : empire  
@@ -786,8 +790,10 @@ lut : rob (loot)
 ##m  
 
 ma : mother  
+maca : compete (have a match)  
 mace : match (contest)  
-maci : fish  
+made : matter (substance)  
+madi : material  
 madyar : Hungary  
 maf : sorry (pardon)  
 mafan : trouble (disturbance, bother)  
@@ -820,6 +826,7 @@ mangus : mangosteen
 manioka : cassava (manioc)  
 mantu : dumpling  
 manux : human being  
+manuxia : mankind (humanity)  
 mar : time (occasion)  
 mara : tree  
 maraton : marathon  
@@ -838,7 +845,6 @@ mat : death
 mata : kill  
 mati : dead  
 matu : die  
-mater : matter (substance)  
 matras : mattress  
 matur : mature (ripe, adult)  
 matur fem : woman (adult female)  
@@ -892,7 +898,6 @@ micin : MSG (monosodium glutamate)
 mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
-mil : meet  
 mili : milli-  
 milke : milk  
 min : less  
@@ -910,7 +915,8 @@ minut : minute
 misal : example  
 miskin : poor (miserable)  
 misri : Egypt  
-mit : myth  
+mit : meeting (gathering)  
+mita : meet  
 moda : fashion (trend)  
 moda nik : fashionista  
 model : model (design)  
@@ -927,6 +933,8 @@ motor : engine (motor)
 mudan : peony  
 muhim : important  
 muka : face  
+multi : many (much)  
+multo : very (very much)  
 mum : wax  
 mumia : mummy  
 mumu : cow  
@@ -1100,7 +1108,7 @@ plat : plate
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
 poker : poker  
-poli : much (many, lots)  
+poli : several  
 polis : police  
 poliser : police officer  
 politik : politics  
