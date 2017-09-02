@@ -1065,6 +1065,7 @@ sens ← englix:sense nor:frans:sens
 sensur ← englix:censor portugal:espanya:censurar ruski:cenzur  
 senti ← portugal:espanya:frans:sentir  
 serbia ←   
+serca ← englix:search frans:chercher italia:cercare  
 seres ←   
 seri ←   
 serva ← frans:portugal:espanya:servir + hindi:urdu:sevā  
@@ -1091,8 +1092,7 @@ sivil ← amara:turki:sivil englix:civil frans: espanya: portugal: doic: ruski:
 slovenia ←   
 sofa ← amara:englix:doic:ruski:indonesia:nipon:sofa hindi:sofā putonghan:shāfā  
 sofi ← ell:sofos  
-sok ← lao:sk afr:soek ned:zoeken nipon:sōsaku putonghan:sousuǒ yuthan:sausaak  
-sol ←   
+solo ←   
 son ← ruski:son hindi:urdu:sonā portugal:sonho espanya:sueño  
 soni ← frans:son englix:sonic  
 sos ← farsi:polska:sos englix:sauce doic:Soße ruski:sous nipon:sōsu hanguk:soseu viet:xốt  

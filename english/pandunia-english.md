@@ -170,6 +170,7 @@ ca wan : tea bowl
 cabi : key  
 cabuk : whip (lash)  
 cakra : wheel  
+caku : knife  
 camca : spoon  
 campion : champion  
 candi : silver  
@@ -218,12 +219,14 @@ daixi : ambassador
 daixi kan : embassy
 dama : checkers  
 dane : seed  
+danka : thank  
 danke : thanks (thank you)  
 danmark : Denmark  
 dante : tooth  
 dante brox : tooth brush  
 dante dokter : dentist  
 dap : answer (response)  
+dapa : respond (give an answer)  
 dar : give  
 darba : strike (punch)  
 daria : sea (ocean)  
@@ -239,7 +242,7 @@ dawa : drug (medicine)
 dawa kan : drugstore (pharmacy)  
 day : big  
 de : of (particle of possession)  
-debat : argue (debate)  
+debat : argument (debate)  
 deci : deci-  
 dem : point (spot)  
 demokrati : democratic  
@@ -248,7 +251,7 @@ demon : demon
 den : day (daytime)  
 den salam : Good day  
 den yem : lunch  
-deng : wait  
+denga : wait  
 des : ten (10)  
 desen : drawing (picture)  
 detal : detail  
@@ -276,7 +279,6 @@ dox : fault (guilt)
 doze : portion (dose)  
 drama : drama  
 du : two (2)  
-dua : pray  
 duan : short (not long)  
 duk : grief (sorrow)  
 duka : grieve  
@@ -288,6 +290,8 @@ dunia : world
 dunia bax : world language  
 dur : duration  
 dura : last (take time)  
+duwa : pray  
+duwe : prayer  
 dux : shower  
 dzayer : Algeria  
 
@@ -330,11 +334,15 @@ fanus : lantern
 far : far  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
-fasin : fascinate  
+fasin : fascination  
+faxe : bundle  
 faxisme : fascism  
 faxiste : fascist  
 feber : fiever  
 fei : fly  
+fek : feces (poop)  
+feka : defecate  
+fekal : fecal  
 fem : female  
 fem ban : daughter  
 fen : part (fraction)  
@@ -351,14 +359,17 @@ filsofi : philosophic
 filsofia : philosophy  
 filter : filter  
 fin : end  
+fina : finish (put an end to)  
+fini : finished  
 final : last (final)  
 finger : finger (toe)  
 finger wen : finger ring  
 fizik : physique  
 fiziker : physicist  
 fizikia : physics  
-fobi : fear (phobia)  
-fokus : concentrate (focus)  
+fobe : fear (phobia)  
+fokus : focus (concentration)  
+fokusa : concentrate  
 forka : fork  
 forme : form (shape)  
 forum : forum  
@@ -634,7 +645,6 @@ kastan : chestnut
 kat : cut  
 kata : story (tale)  
 katalunya : Catalonia  
-kati : knife  
 kava : dig (excavate)  
 kave : pit (excavation)  
 kawayi : cute  
@@ -694,7 +704,7 @@ konson : consonant
 kontinu : continue (resume)  
 konus : cone  
 kop : cup  
-kopi : copy  
+kopie : copy  
 korne : horn  
 kor : choir (chorus)  
 kos : cough  
@@ -776,6 +786,7 @@ lixu : squirrel
 lobak : radish  
 loga : say  
 loge : word  
+loge liste : word list  
 loja : research (to study)  
 lojia : science  
 lok : place (location)  
@@ -785,7 +796,7 @@ lubnan : Lebanon
 lulu : pearl  
 luna : moon  
 lusun : asparagus  
-lut : rob (loot)  
+luta : rob (loot)  
 
 ##m  
 
@@ -960,7 +971,7 @@ na dur de : while (during)
 na in : in (inside)  
 na par : on (on top)  
 na vis de : instead of  
-na wai : out (outside)  
+na way : out (outside)  
 na wen : around (about)  
 na xia : below (under)  
 nabat : plant (vegetable)  
@@ -1137,7 +1148,7 @@ projet : project (planned endeavour)
 proses : process (procedure)  
 puder : powder  
 puding : pudding  
-pudja : worship  
+puja : worship (revere)  
 puertoriko : Puerto Rico  
 pul : bridge  
 pulo : island  
@@ -1252,9 +1263,12 @@ sens : sense
 sensur : censor  
 senti : feel (emotion)  
 serbia : Serbia  
+serca : search  
 seres : Ceres (dwarf planet)  
 seri : series  
 serva : serve (wait upon)  
+serve : service  
+server : servant (waiter)  
 sesam : sesame  
 set : seven (7)  
 set var : week  
@@ -1279,7 +1293,7 @@ slovenia : Slovenia
 sofa : sofa (couch)  
 sofi : wise  
 sok : search (seek)  
-sol : only (just)  
+solo : only (just)  
 son : sleep  
 son kamar : bedroom  
 sona : sleep (be asleep)  
