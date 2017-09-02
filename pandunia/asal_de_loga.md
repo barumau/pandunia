@@ -1028,7 +1028,7 @@ rutin ← englix:frans:doic:routine espanya:ruski:rutina farsi:rutin nipon:rūch
 
 sa ← ayiti:sa frans:ce,ça   
 sabat ← arabi:sabt espanya:sábado tagalog:sabado kongo:sabala ruski:subbota indonesia:sabtu  
-sabi ← portugal:espanya:saber kri:pcm:sabi  
+saba ← kongo:zâba portugal:espanya:saber kri:pcm:sabi  
 sabun ← arabi:turki:farsi:hindi:urdu:indonesia:sabun swahili:sabuni portugal:sabão  
 sabur ← arabi:ṣabūr farsi:sabur indonesia:sabar + turki:sabır swahili:subira yoruba:sùúrù  
 sade ← turki:sade farsi:sāde hindi:urdu:sādā telugu:sādhuvu  

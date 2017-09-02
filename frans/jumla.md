@@ -46,23 +46,23 @@ Remarque : **Salam** est une salutation populaire qui est utilisée à la fois p
 
 ### me <small>je, me, moi</small>
 
-**me salam mama.** Je salue maman.
+**me salama mama.** Je salue maman.
 
-**me salam papa.** Je salue papa.
+**me salama papa.** Je salue papa.
 
 **salam mama!** Salut, maman !
 
 **salam papa!** Salut, papa !
 
-**memen salam mama.** Nous saluons maman.
+**memen salama mama.** Nous saluons maman.
 
 
 
 ### ni <small>tu, te, toi</small>
 
-**me salam ni.** Je te salue.
+**me salama ni.** Je te salue.
 
-**ni salam me.** Tu me salues.
+**ni salama me.** Tu me salues.
 
 Astuce : L’ordre de base des mots est sujet-verbe-objet. Les mots de changent pas de forme en pandunia. C’est pour cela que **me** reste pareil en pandunia, mais qu’en français, « Je » deviens « me ».
 
@@ -70,21 +70,21 @@ Astuce : L’ordre de base des mots est sujet-verbe-objet. Les mots de changent 
 
 Remarque :  **ni** ne fait référence qu’à une seule personne. Le pronom pluriel est **nimen**, « vous tous ».
 
-**me salam nimen.** Je vous salue tous.
+**me salama nimen.** Je vous salue tous.
 
 **salam nimen!** Salut à tous !
 
 
 
-### e <small>verbe être</small>
+### ye <small>verbe être</small>
 
-**me e tomas.** Je suis Thomas.
+**me ye tomas.** Je suis Thomas.
 
-**ni e sara.** Tu es Sara.
+**ni ye sara.** Tu es Sara.
 
-**mau e hewan.** Le chat est un animal.
+**mau ye hewan.** Le chat est un animal.
 
-Remarque : Comme tous les mots en pandunia, **e** est invariable. Ainsi, toutes les formes suivantes sont traduites par **e** en pandunia : _suis_, _es_, _est_, _sommes_, _êtes_, _sont_, _étais_, _était_, _étions_, _étiez_, _étaient_ ! De plus, dans les phares simples, il est possible de retirer **e** après un pronom comme **me** et **ni**.
+Remarque : Comme tous les mots en pandunia, **ye** est invariable. Ainsi, toutes les formes suivantes sont traduites par **ye** en pandunia : _suis_, _es_, _est_, _sommes_, _êtes_, _sont_, _étais_, _était_, _étions_, _étiez_, _étaient_ ! De plus, dans les phares simples, il est possible de retirer **ye** après un pronom comme **me** et **ni**.
 
 **me sara.** Je (suis) Sara.
 
@@ -94,15 +94,15 @@ Remarque : Comme tous les mots en pandunia, **e** est invariable. Ainsi, toutes 
 
 ### ta <small>il, elle</small>
 
-**ta e fem.** C’est une femme.
+**ta ye fem.** C’est une femme.
 
-**ta e man.** C’est un homme.
+**ta ye man.** C’est un homme.
 
-**ta e pingo.** C’est une pomme.
+**ta ye pingo.** C’est une pomme.
 
 Astuce : **ta** est le pronom générique de la troisième personne. On l’utilise pour des personnes (peu importe leur sexe) et aussi pour les choses. Vous l’avez deviné, **tamen** signifie « ils/elles ».
 
-**tamen e pingo.** Ce sont des pommes.
+**tamen ye pingo.** Ce sont des pommes.
 
 **memen salam tamen.** Nous les saluons.
 
@@ -114,25 +114,25 @@ Astuce : **ta** est le pronom générique de la troisième personne. On l’util
 
 **ke?** Quoi ?
 
-**ni e ke?** Qui es-tu ?
-**me e tomas.** Je suis Thomas.
+**ni ye ke?** Qui es-tu ?
+**me ye tomas.** Je suis Thomas.
 
-**ta e ke?** Qui c’est ?
-**ta e sara.** C’est Sara.
+**ta ye ke?** Qui c’est ?
+**ta ye sara.** C’est Sara.
 
-**nimen e ke?** Qui êtes-vous ?
+**nimen ye ke?** Qui êtes-vous ?
 
-**tamen e ke?** Qui sont-ils ?
+**tamen ye ke?** Qui sont-ils ?
 
 
 
 ### sa <small>ce, cet(te), ces, ceci, cela</small>
 
-**sa e ke? / ke e sa?** Qu’est-ce que c’est que ça ?
+**sa ye ke? / ke ye sa?** Qu’est-ce que c’est que ça ?
 
-**sa e pingo.** Ceci est une pomme.
+**sa ye pingo.** Ceci est une pomme.
 
-**sa e ros pingo.** Ceci est une pomme rouge.
+**sa ye ros pingo.** Ceci est une pomme rouge.
 
 **sa pingo ros.** Cette pomme est rouge.
 
@@ -155,9 +155,9 @@ Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctio
 
 ### kia <small>Est-ce que, poser une question</small>
 
-**kia ni e tomas?** Est-ce que tu es Thomas ?
+**kia ni ye tomas?** Est-ce que tu es Thomas ?
 
-**kia ni e doktor?** Est-ce que tu es médecin ?
+**kia ni ye doktor?** Est-ce que tu es médecin ?
 
 Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **me kia ni doktor.** (Je pose la question : es-tu médecin ?) où l’on a retiré le premier mot.
 
@@ -181,16 +181,16 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 
 
-### ya <small>oui</small>
+### ye <small>oui</small>
 
 **kia ni bon?** Est-ce que ça va ?  
-**ya. me bon.** Oui, je vais bien.
+**ye. me bon.** Oui, je vais bien.
 
 **kia ha doktor?** Est-ce qu’il y a un médecin ?  
-**ya. ta e doktor.** Oui. Il/elle est médecin.
+**ye. ta ye doktor.** Oui. Il/elle est médecin.
 
 **kia ha vin?** Est-ce que tu as du vin?  
-**ya. bai i ros.** Oui, du blanc et du rouge.
+**ye. bai i ros.** Oui, du blanc et du rouge.
 
 
 
@@ -198,33 +198,33 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **me no doktor.** Je ne suis pas médecin.
 
-**sa man no e doktor.** Cet homme n’est pas un médecin.
+**sa man no doktor.** Cet homme n’est pas un médecin.
 
 **sa pingo no ros.** Cette pomme n’est pas rouge.
 
 
 
-### sap <small>connaitre</small>
+### saba <small>connaitre</small>
 
-**me sap ta.** Je le/la connais.
+**me saba ta.** Je le/la connais.
 
-**kia ni sap sa jen?** Est-ce que tu connais cette personne ?
+**kia ni saba sa jen?** Est-ce que tu connais cette personne ?
 
-**kia nimen sap alise?** Est-ce que vous vous connaissez l’un l’autre?
+**kia nimen saba alise?** Est-ce que vous vous connaissez l’un l’autre?
 
-**memen sap alise ze long.** Nous nous connaissons l’un l’autre depuis longtemps.
+**memen saba alise ze long.** Nous nous connaissons l’un l’autre depuis longtemps.
 
 
 
 ### ge <small>possessif</small>
 
-**ta e me ge mama.** C’est ma mère.
+**ta ye me ge mama.** C’est ma mère.
 
-**ta e me ge man.** C’est mon mari (mon homme).
+**ta ye me ge man.** C’est mon mari (mon homme).
 
-**ta e me ge fem.** C’est ma femme.
+**ta ye me ge fem.** C’est ma femme.
 
-**tomas e sara ge panyo.** Thomas est l’ami de Sara.
+**tomas ye sara ge panyo.** Thomas est l’ami de Sara.
 
 
 
@@ -299,17 +299,17 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 
 
-### danke <small>remercier, merci</small>
+### danke <small>merci</small>
 
 **danke!** Merci !
 
-**danke ni.** Merci à toi.
+**danka ni.** Merci à toi.
 
-**me danke ni.** Je te remercie.
+**me danka ni.** Je te remercie.
 
-**me danke ni mede me.** Je te remercie de m’aider.
+**me danka ni mede me.** Je te remercie de m’aider.
 
-**danke ni mede me.** Merci de m’aider.
+**danka ni mede me.** Merci de m’aider.
 
 **ni keci.** De rien. (mot à mot : _tu es poli._)
 
@@ -370,7 +370,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **ta no ken gida gar.** Il/elle ne sait pas conduire une voiture.
 
-**kia ni ken culi ta?** Est-ce que tu sais réparer ça ?
+**kia ni ken xula ta?** Est-ce que tu sais réparer ça ?
 
 **kia ni ken pandunia?** Est-ce que tu parles pandunia ?
 
@@ -378,7 +378,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **me ken xau pandunia.** Je parle un peu pandunia.
 
-**me no ken englic.** Je ne parle pas anglais.
+**me no ken englix.** Je ne parle pas anglais.
 
 **maf. me no ken ni ge baxa.** Désolé, je ne parle pas ta langue.
 
@@ -394,7 +394,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **se loga ke yang bi pandunia ki "chat"?** Comment se dit « chat » en pandunia ?
 
-**"chat" e ke bi pandunia?** Qu’est-ce que c’est, « chat», en pandunia ?
+**"chat" ye ke bi pandunia?** Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loga miau.** Un chat dit miaou.
 
@@ -410,36 +410,36 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **ni audi ke yang ge musik?** Quel genre de musique est-ce que tu écoutes ?
 
 
-### vide <small>voir</small>
+### vida <small>voir</small>
 
-**suk vide ni.** Heureux de te voir !
+**suk vida ni.** Heureux de te voir !
 
-**vide ni bada!** On se voit plus tard !
+**vida ni bada!** On se voit plus tard !
 
-**vide ni nale!** On se voit demain !
+**vida ni nale!** On se voit demain !
 
-**me vide ta yer.** Je l’ai vu(e) hier.
+**me vida ta yer.** Je l’ai vu(e) hier.
 
 
 ### mana <small>signifier, vouloir dire</small>
 
-**sa loga ya mana ke?** Que veut dire ce mot ?
+**sa loge mana ke?** Que veut dire ce mot ?
 
-**"mau" ya mana ke?** Que signifie « mau » ?
+**"mau" mana ke?** Que signifie « mau » ?
 
 **ta mana yang de hewan.** Ça signifie un genre d’animal.
 
 **me no aha ta mana ke.** Je ne comprend pas ce que cela signifie.
 
 
-### kitab <small>écrire</small>
+### kitaba <small>écrire</small>
 
-**cing kitab ni ge adres.** S’il te plait, écris ton adresse.
+**cing kitaba ni ge adres.** S’il te plait, écris ton adresse.
 
-**cing kitab ta na sa.** S’il te plait, écris-le là !
+**cing kitaba ta na sa.** S’il te plait, écris-le là !
 
 
-### baxa <small>langue, communication</small>
+### baxa <small>communiquer</small>
 
 **kia nimen baxa pandunia.** Est-ce que vous parlez tous pandunia ?  
 **memen baxa pandunia.** Nous parlons pandunia.
@@ -584,13 +584,13 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 ### yang <small>type, genre, sorte</small>
 
-**ta e ke yang?** Ça ressemble à quoi ?
+**ta ye ke yang?** Ça ressemble à quoi ?
 
 **kia ta nov?** C’est nouveau ?
 
-**ke e mas bon?** Lequel est mieux ?
+**ke ye mas bon?** Lequel est mieux ?
 
-**sa e masim bon (ze tot).** C’est le meilleur (de tous).
+**sa ye masim bon (ze tot).** C’est le meilleur (de tous).
 
 
 
@@ -619,7 +619,7 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 **** Pas de souci ! (Hakuna matata !)
 
-**tot e okei.** Tout va bien.
+**tot ye okei.** Tout va bien.
 
 **** Santé !
 
@@ -638,7 +638,7 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 **** Avec plaisir !
 
-**festa ya kaici na ke sat?** Quand commence la fête ?
+**festa ye kaici na ke sat?** Quand commence la fête ?
 
 
 **** Tu as raison.
@@ -667,7 +667,6 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **cing** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russie _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
-**e** être <small>(Portugais _é_)</small>  
 **englix** anglais <small>(Anglais _English_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
@@ -707,11 +706,11 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **ta** il, elle <small>(Mandarin _tā_ 他/她/它)</small>  
 **tamen** ils, elles  
 **u** ou <small>(Français _ou_)</small>  
-**vide** voire, regarder <small>(Russe _videt'_ видеть)</small>  
+**vida** voire, regarder <small>(Russe _videt'_ видеть)</small>  
 **vol** vouloir <small>(Italien _volere_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  
 **xam** soir <small>(Hindi _śām_ शाम )</small>  
-**ya** oui <small>(Indonesien _ya_)</small>  
+**ye** oui; être <small>(Anglais _ye_)</small>  
 **yem** manger, boire <small>(Turc _yemek_)</small>  
 
 
