@@ -103,6 +103,6 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **me vide ni :)** = I see you.  
-> **me no vide ni :(** = I don't see you.
+> **me vida ni :)** = I see you.  
+> **me no vida ni :(** = I don't see you.
 

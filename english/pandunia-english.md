@@ -1,7 +1,6 @@
 ##a  
 
 a : ah!  
-abit : live (reside, inhabit)  
 adres : address  
 adulte : adult  
 afrika : Africa  
@@ -270,7 +269,8 @@ doic : German
 doka : read  
 dokter : doctor (physician)  
 dolar : dollar  
-dom : home (household)  
+dom : home (residence)  
+doma : live (dwell, reside)  
 dominika : Dominican Republic  
 domino : dominoes  
 dong : east  
@@ -996,9 +996,10 @@ nen festa : anniversary
 nenufar : water lily (nenuphar)  
 nepal : Nepal  
 neptun : Neptune  
-neses : need  
 net : net  
 ni : you  
+nida : need  
+nidi : necessary (needed)  
 nijer : Niger  
 nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  

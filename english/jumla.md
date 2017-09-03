@@ -230,7 +230,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### mede <small>help</small>
 
-**me neses mede.** I need help.
+**me nida mede.** I need help.
 
 **kia ni ken mede me?** Can you help me?
 
@@ -325,15 +325,15 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### neses <small>need</small>
+### nida <small>need</small>
 
-**me neses mede.** I need help.
+**me nida mede.** I need help.
 
-**me neses yem.** I'm hungry.
+**me nida yem.** I'm hungry.
 
-**kia ni neses yem?** Are you hungry?
+**kia ni nida yem?** Are you hungry?
 
-**kia ni neses sui?** Are you thirsty?
+**kia ni nida sui?** Are you thirsty?
 
 
 
@@ -513,16 +513,15 @@ Tip! You can use **na** as a preposition or alone as the verb.
 **me gong na...** I work at ...
 
 
-### abit <small>to live, reside</small>
+### doma <small>to live, reside</small>
 
-**ni abit ke?** Where do you live?
+**ni doma ke?** Where do you live?
 
-Tip: It is also okay to say "ni abit na ke?" However **abit** already covers the meaning of being at somewhere.
+**me doma singapur.** I live in Singapore.
 
-**me abit singapur.** I live in Singapore.
+**kia ni doma sa hotel?** Do you live in this hotel?
 
-**kia ni abit sa hotel?** Do you live in this hotel?
-
+Tip: It is also okay to say "ni doma na ke?" instead of "ni doma ke". However **doma** already covers the meaning of being at somewhere, so **na** is not necessary.
 
 ### denga <small>to wait</small>
 
@@ -656,7 +655,6 @@ Word List
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
-**abit** live, reside <small>Italian _abitare_</small>  
 **ama** but <small>(Turkish _ama_)</small>  
 **bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
@@ -668,7 +666,8 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
-**dom** home <small>(Russian _dom_ дом)</small>  
+**dom** home, residence <small>(Russian _dom_ дом)</small>  
+**doma** live, reside  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
@@ -690,8 +689,8 @@ All words of Pandunia are loan words from other languages that are spoken around
 **me** I, me <small>(Georgian _me_ მე)</small>  
 **mede** help <small>(French _aider_)</small>  
 **memen** we  
-**neses** need; necessary <small>(Spanish _necesitar_)</small>  
 **ni** you <small>(Tamil _nī_ நீ)</small>  
+**nida** need <small>(English _need_)</small>  
 **nimen** you all  
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  

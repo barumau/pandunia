@@ -102,7 +102,7 @@ arena (stadium)   : arena
 Argentina : arhentina  
 argh! : ah  
 argue (claim)   : tesa  
-argue (debate)   : debat  
+argument (debate)   : debat  
 argument (thesis)   : tese  
 army   : armi  
 around (about)   : na wen  
@@ -227,6 +227,7 @@ budget   : bujet
 build (construct)   : bana  
 Bulgaria   : bolgaria  
 bunch (collection)   : men  
+bundle   : faxe  
 bus   : bus  
 business (commercial activity)   : biznes  
 businessperson (businessman)   : biznes yen  
@@ -351,9 +352,10 @@ common (universal)   : putong
 communism   : komunisme  
 communist   : komuniste  
 company (corporation)   : kompani  
+compete (have a match)   : maca  
 compute (to process data)   : komputa  
 computer   : komputer  
-concentrate (focus)   : fokus  
+concentrate   : fokusa  
 concrete (material with cement)   : beton  
 cone   : konus  
 Congo   : kongo  
@@ -364,7 +366,7 @@ consonant   : konson
 continue (resume)   : kontinu  
 cool   : kul  
 copper   : kuper  
-copy   : kopi  
+copy   : kopie  
 corn (maize)   : mais  
 corner (angle)   : kona  
 cost   : kosta  
@@ -411,6 +413,7 @@ death   : mat
 December   : mes 12 (mes des du)  
 deci-   : deci  
 deed (work)   : kar  
+defecate   : feka  
 defecate (shit)   : kaka  
 delight (make happy)   : suka  
 democracy   : demokratia  
@@ -429,6 +432,7 @@ dig (excavate)   : kava
 dinner   : xam yem  
 disc (disk)   : diske  
 distant (tele-)   : tele  
+divine (godly)   : devi  
 do (make, act)   : kara  
 doctor (physician)   : dokter  
 dog   : waf  
@@ -512,7 +516,7 @@ fantasize   : fantasa
 fantastic (imaginary)   : fantasi  
 fantasy (imagination)   : fantas  
 far   : far  
-fascinate   : fasin  
+fascination   : fasin  
 fascism   : faxisme  
 fascist   : faxiste  
 fashion (trend)   : moda  
@@ -523,9 +527,11 @@ fate (destiny)   : kismat
 father   : pa  
 father (dad)   : papa  
 fault (guilt)   : dox  
-fear (phobia)   : fobi  
+fear (phobia)   : fobe  
 feather   : puru  
 February   : mes 2 (mes du)  
+fecal   : fekal  
+feces (poop)   : fek  
 feel (emotion)   : senti  
 female   : fem  
 few (little)   : xau  
@@ -540,10 +546,12 @@ find (discover)   : yureka
 fine (delicate)   : fain  
 finger (toe)   : finger  
 finger ring   : finger wen  
+finish (put an end to)   : fina  
+finished   : fini  
 Finland   : suomi  
 fire   : fai  
 first (number one)   : numer un  
-fish   : maci  
+fish   : ikan  
 five (5)   : lim  
 fix (attach)   : fiksa  
 flag (banner)   : bandera  
@@ -553,6 +561,7 @@ flour   : ata
 flower   : hua  
 fly   : fei  
 fly (housefly)   : zizi  
+focus (concentration)   : fokus  
 fool (idiot)   : bobo  
 foot   : ped  
 for (in order to)   : por  
@@ -603,7 +612,7 @@ give birth   : jena
 glass   : glas  
 go   : go  
 goal   : gol  
-god   : deva  
+god   : dev  
 gold   : gim  
 good   : bon  
 Good day   : den salam  
@@ -773,7 +782,7 @@ kind (type, style)   : yang
 kiss   : bis  
 kiwi fruit   : kiwi  
 knee   : janu  
-knife   : kati  
+knife   : caku  
 know   : sabi  
 kung fu   : gung fu  
 ##l  
@@ -851,6 +860,7 @@ Mandarin Chinese (Putonghua)   : putong han
 mandarin orange   : migan  
 mango   : mango  
 mangosteen   : mangus  
+mankind (humanity)   : manuxia  
 many (much)   : multi  
 marathon   : maraton  
 marble   : marmar  
@@ -867,7 +877,8 @@ massage   : masaje
 masseur (masseuse)   : masajer  
 master (sensei)   : xifu  
 match (contest)   : mace  
-matter (substance)   : mater  
+material   : madi  
+matter (substance)   : made  
 mattress   : matras  
 mature (ripe, adult)   : matur  
 maximal   : maximi  
@@ -879,7 +890,8 @@ meaning (signification)   : mane
 meat (flesh)   : nama  
 medallion (medal)   : medalia  
 meditate (ponder)   : medita  
-meet   : mil  
+meet   : mita  
+meeting (gathering)   : mit  
 melody   : melodi  
 member   : member  
 memory   : yad  
@@ -934,7 +946,7 @@ must   : mus
 my   : me ge  
 my parents   : me ge lau  
 Myanmar (Burma)   : bama  
-myth   : mit  
+myth (divine story)   : devi kat  
 ##n  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
@@ -995,7 +1007,7 @@ olive   : zaitun
 Oman   : oman  
 on (on top)   : na par  
 one (1)   : un  
-only (just)   : sol  
+only (just)   : solo  
 open (not closed)   : kai  
 opinion (view)   : igen  
 opportunity (chance)   : cans  
@@ -1009,7 +1021,7 @@ orgasm   : orgazme
 oriental dragon   : rong  
 origin   : asal  
 other (alter, change)   : alter  
-out (outside)   : na wai  
+out (outside)   : na way  
 outside (exterior)   : wai  
 own (particle of possession)   : ge  
 oxygen   : oksi  
@@ -1126,7 +1138,8 @@ powder   : puder
 power (authority, rule)   : sultan  
 practical   : pratik  
 practice (to exercise)   : lenxa  
-pray   : dua  
+pray   : duwa  
+prayer   : duwe  
 precise (exact, accurate)   : presis  
 prepare (make ready)   : reda  
 press (imprint)   : capa  
@@ -1187,6 +1200,7 @@ represent   : wakila
 research (to study)   : loja  
 resin   : rezin  
 respect (esteem)   : ging  
+respond (give an answer)   : dapa  
 restaurant   : restoran  
 rhinoceros   : faru  
 rhythm (beat)   : ritme  
@@ -1198,7 +1212,7 @@ right (justification, privilege)   : hak
 risk   : riske  
 ritual (ceremony)   : rit  
 river   : nadi  
-rob (loot)   : lut  
+rob (loot)   : luta  
 robot   : robot  
 rocket   : roket  
 role   : rol  
@@ -1243,6 +1257,7 @@ scissors   : makas
 screen   : ekran  
 screw   : losi  
 sea (ocean)   : daria  
+search   : serca  
 search (seek)   : sok  
 season   : mosim  
 second(s)   : sekun  
@@ -1258,7 +1273,9 @@ sentence (phrase)   : jumla
 September   : mes 9 (mes noi)  
 Serbia   : serbia  
 series   : seri  
+servant (waiter)   : server  
 serve (wait upon)   : serva  
+service   : serve  
 sesame   : sesam  
 seven (7)   : set  
 several   : poli  
@@ -1387,11 +1404,12 @@ terror   : teror
 terrorism   : terorisme  
 test (challenge)   : teste  
 Thai (Thailand)   : tai  
+thank   : danka  
 thanks (thank you)   : danke  
 that (that over there)   : sa far  
 that is (in other words, i.e.)   : yani  
 theft   : cur  
-theology   : deva lojia  
+theology   : dev lojia  
 theory   : teori  
 they   : tamen  
 thick (fat)   : pang  
@@ -1499,7 +1517,7 @@ voodoo   : vodu
 vote   : vot  
 vowel   : vokal  
 ##w  
-wait   : deng  
+wait   : denga  
 walk (march)   : marca  
 wall   : mur  
 want (desire)   : vol  
@@ -1541,11 +1559,12 @@ without   : bi no
 wolf   : beria  
 woman (adult female)   : matur fem  
 word   : loge  
+word list   : loge liste  
 workshop (place for...)   : kan  
 world   : dunia  
 world language   : dunia bax  
 worm   : verme  
-worship   : pudja  
+worship (revere)   : puja  
 wow! (gee!)   : wa  
 write   : kitab  
 ##x  
