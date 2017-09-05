@@ -751,7 +751,7 @@ Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase 
 
 **-i** is the marker of adjective and adjectival verb (i.e. static verb). For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**. Words that are adjectives _by nature_ don't need the ending. That's why for example **nov** (new) and **sundar** (beautiful) are without the ending.
 
-There are two simple vowel endings for nouns. **-o** means the process and **-e** means the result of the process. So **logo** means the _act of speaking_ and **loge** means the _speech_ that results from the action. Quite often **-e** is left out and so **log** means the same thing as **loge**.
+**-e** is the marker of nouns. It means the result of the process. So **loge** means the _speech_ that results from the act of speaking. Quite often **-e** is left out and so **log** would mean the same thing as **loge**.
 
 The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending.
 
@@ -802,7 +802,7 @@ Pandunia has a system of word derivation with final vowels that is applied on ac
 
 #### 11.1.3. Deriving modifiers
 
-If the root word is a description, then it's adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
+If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
 
 If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
 
@@ -810,16 +810,21 @@ If the root is a thing, an object or a person, then its adjectival form will mea
 
 #### 11.1.4. Deriving nouns
 
+If the root word is an action, then its noun form will mean the product of the action. For example from **kitab-** = "to write" we get **kitabe** = "writing" or "text".
+
+If the root word is a description, then its noun form will mean a concrete instance of that quality. For example from **nov-** = "new" we get **nove** = "a novelty" i.e. something new.
+
+Additional noun suffixes are presented below.
 
 
 ### 11.2. Derivational Suffixes
 
 #### 11.2.1. -al
 
-Creates concordant adjectives from action and thing roots. The resulting adjective is loosely related to the root.
+Creates adjectives from action and thing roots. The resulting adjective indicates relationship of having or likeness.
 
-**norme** norm, rule; **normal** normal, regular, that which is in concordance with norms and rules.  
-**tabia** nature; **tabial** natural, that which is in concordance with the nature.
+**norme** norm, rule; **normal** normal, regular, that which has rules.  
+**tabia** nature; **tabial** natural, that which is or behaves like the nature.
 
 #### 11.2.2. -an
 
@@ -837,13 +842,21 @@ When applied to place name roots, it denotes something or someone that belongs t
 
 #### 11.2.3. -er
 
-Creates agent nouns from action roots. It denotes someone or something that performs that verb's action.
+Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
 
 **baka** to bake; **baker** baker, the one who bakes.  
 **lida** to lead; **lider** leader, the one who leads.  
 **komputa** to compute, to process data; **komputer** computer  
 
-#### 11.2.4. -ia
+#### 11.2.4. -es
+
+Creates abstract nouns from adjectives, denoting "state of being".
+
+**novi** new; **noves** newness  
+**rik** rich; **rikes** richness  
+
+
+#### 11.2.5. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -851,19 +864,20 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
 **filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
 
-This ending is often found in place names, especially country names, but it's not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
+This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
 **arab** Arab, Arabic; **arabia** Arabia  
 **rus** Russian; **rusia** Russia  
 **turki** Turk, Turkish; **turkia** Turkey  
 **asia** Asia  
 **indonesia** Indonesia  
+**italia** Italy  
 
-#### 11.2.5. -iz-
+#### 11.2.6. -iz-
 
 Causative suffix.
 
-#### 11.2.6. -ul-
+#### 11.2.7. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 
@@ -879,13 +893,13 @@ Creates verbs that reverse the meaning of the base verb.
 In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik mi auda.
-        - subject–verb–object (SVO) :       mi auda musik.
-        - verb–object–subject (VOS) :          auda musik mi.
+        - object–subject–verb (OSV) : musik me auda.
+        - subject–verb–object (SVO) :       me auda musik.
+        - verb–object–subject (VOS) :          auda musik me.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musik audu.
-        - object-verb-subject (OVS) :    musik audu mi.
-        - verb-subject-object (VSO) :          audu mi musik.
+        - subject-object-verb (SOV) : me musik audu.
+        - object-verb-subject (OVS) :    musik audu me.
+        - verb-subject-object (VSO) :          audu me musik.
 
 The constituent, which is further away from the verb, can be left out. So for example **musik me auda** (OSV) can be truncated to **me auda** (SV). Likewise **me musik audu** (SOV) can be truncated to **musik audu** (OV).
 
@@ -930,11 +944,11 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia ze koz de ta e bon dunia bax.
+    yusef i sara vol darsa pandunia ze koz de ta ye bon dunia bax.
 
                       ze koz de
                ┌──────────┴──────────┐
-              vol                    e
+              vol                   ye
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ta    bax
       ┌───┴───┐    ┌──┴────┐            |

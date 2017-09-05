@@ -1061,7 +1061,12 @@ palo : pole (stake)
 pan : bread  
 panama : Panama  
 panda : panda  
+panafrikan : pan-African  
+panamerikan : pan-American  
+panasian : pan-Asian  
+paneuropan : pan-European  
 pandunia : Pandunia  
+pandunian : global  
 pang : thick (fat)  
 panik : panic  
 pantalon : pants (trousers)  
@@ -1498,6 +1503,8 @@ waris : heritage (bequest)
 wat : watt  
 waxa : wash  
 waxe maxin : washing machine  
+weka : wake (make awake)  
+weki : awake  
 wen : circle (ring)  
 weste : west  
 wiki : wiki  
