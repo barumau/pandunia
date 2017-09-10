@@ -6,28 +6,28 @@ Introducing yourself
 
 ### Dialog
 
-> ☻: **yu e ke?** = Who are you?  
-> ☺: **me e yusef. yu e ke?** = I am Yusef. Who are you?  
-> ☻: **me e maria. ta e ke?** = I am Maria. Who is that?  
-> ☺: **ta e me ge panyo.** = That is my friend.  
+> ☻: **ni ye ke?** = Who are you?  
+> ☺: **me ye yusef. ni ye ke?** = I am Yusef. Who are you?  
+> ☻: **me ye maria. ta ye ke?** = I am Maria. Who is that?  
+> ☺: **ta ye me ge panyo.** = That is my friend.  
 > ☻: **ta nam ke?** = What's her name?  
 > ☺: **ta nam sara.** = Her name is Sara.
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta e me ge panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **e me ge panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ta ye me ge panyo** the topic is the pronoun **ta** (he, she, it), which is followed by the comment **ye me ge panyo** (is my friend).
 
-The word **e** means _to be_ in Pandunia. The same word is used for all persons. And to say the opposite, simply add **no** (which is the word for _no_) before it.
+The word **ye** means _to be_ in Pandunia. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
 
-> **ta e sara.** - She is Sara.
-> **ta no e sara.** - She is not Sara.
+> **ta ye sara.** - She is Sara.
+> **ta no ye sara.** - She is not Sara.
 
-But **e** is always needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **e** in the middle.
+But **ye** is always needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **ye** in the middle.
 
-> **mau e hewan** - The cat is an animal.
-> **mau no e hewan** - The cat is not an animal.
+> **mau ye hewan** - The cat is an animal.
+> **mau no hewan** - The cat is not an animal.
 
-Personal pronouns like **me**, **yu** and **ta** don't always need **e** after them. So you can introduce yourself simply by saying **me** followed by your name. Try it!
+Personal pronouns like **me**, **ni** and **ta** don't always need **ye** after them. So you can introduce yourself simply by saying **me** followed by your name. Try it!
 
 > **me .............. !**
 
@@ -53,22 +53,22 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Word List
 
 **me** I, me. **me ge** my.  
-**yu** you. **yu ge** your.  
+**ni** you. **ni ge** your.  
 **ta** he, she or it. **ta ge** his, her, its.  
 **ke** who or what.  
-**e** to be (am, is, are, etc)
-**ya** yes. **no** no.  
+**ye** to be (am, is, are, etc)
+**ye** yes. **no** no.  
 **bon** good. **panyo** friend. **nam** name.
 **fem** woman. **man** man.
 **mau** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
-1. yu (e) ke?
-2. me (e) tomas.
-3. yu ge panyo e ke?
-4. ta (e) sara.
-5. yu nam ke?
+1. ni (ye) ke?
+2. me (ye) tomas.
+3. ni ge panyo ye ke?
+4. ta (ye) sara.
+5. ni nam ke?
 6. me nam ........... 
 
 
@@ -86,24 +86,24 @@ This is how people greet each other in Pandunia. They say **salam**. It is used 
 
 The word **salam** means "greeting". It is originally an Arabic word, which means _peace_, and it is a common greeting in many parts of the world, especially in Africa and Asia. Pandunia is a constructed world language, which borrows words from all parts of the world.
 
-**Salam** can also be a verb. Then it means "to greet".
+The verb form of **salam** is **salama**, which means "to greet".
 
-> **me salam yu.** = I greet you.  
-> **yu salam me.** = You greet me.
+> **me salama ni.** = I greet you.  
+> **ni salama me.** = You greet me.
 
-These are active sentences. In active sentences the subject does the action to the object. In **me salam yu** the first word, **me**, is the subject, **salam** is the verb (action word), and **yu** is the object. The order of subject, verb and object is important and it never changes.
+These are active sentences. In active sentences the subject does the action to the object. In **me salama ni** the first word, **me**, is the subject, **salama** is the verb (action word), and **ni** is the object. The order of subject, verb and object is important and it never changes.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are: **me** = I, **yu** = you, and **ta** = he, she, it. Note that the pronouns stayed the same in the previous example sentences. Words never change in Pandunia. They always stay the same regardless of their position in sentence.
+Pandunia's personal pronouns are: **me** = I, **ni** = you, and **ta** = he, she, it. Note that the pronouns stayed the same in the previous example sentences. Words never change in Pandunia. They always stay the same regardless of their position in sentence.
 
 In Pandunia sentences can be made shorter by leaving out pronouns that are obvious in the present situation.
 
-> **me salam yu!** = I greet you.  
-> **salam yu!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
-> **salam!** = Greetings! (It is obvious that the listeners are greeted.)
+> **me salama ni!** = I greet you.  
+> **salama ni!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
+> **salama!** = Greetings! (It is obvious that the listeners are greeted.)
 
-The pattern in **salam yu** is convenient for addressing people by name, kinship term or profession.
+The pattern in **salam ni** is convenient for addressing people by name, kinship term or profession.
 
 > **salam toni!** = Hello, Tony!  
 > **salam mama!** = Hello, mother!  
@@ -113,7 +113,7 @@ The pattern in **salam yu** is convenient for addressing people by name, kinship
 Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
 
 **halo!** - Hello!
-**me halo yu.** - I say hello to you.
+**me halo ni.** - I say hello to you.
 
 
 ### Exercises
@@ -133,8 +133,8 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Answers to the Exercises
 
-1. yu salam ta.
-2. mama salam papa.
+1. ni salama ta.
+2. mama salama papa.
 3. salam mama!
 4. salam!
 
@@ -153,18 +153,18 @@ Making requests
 ☺: **cing yem kafe u ca.** = Please have some coffee or tea.  
 ☻: **me yem ca. danke.** = I will have some tea, thank you.  
 ...
-☺: **cing salam yu ge mama!** = Please tell greetings to your mother.  
-☻: **me salam ta. salam!** = I will. Bye!  
+☺: **cing salama ni ge mama!** = Please tell greetings to your mother.  
+☻: **me salama ta. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
 
 ### Grammar
 
-Pandunia's personal pronouns are: **me** = I, **yu** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
+Pandunia's personal pronouns are: **me** = I, **ni** = you, and **ta** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
-> **me cing yu salam ta.** = I ask you to say hello to him/her.
+> **me cing ni salam ta.** = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **cing** = to request, addresses **yu** as its object. At the same time **yu** serves also as the subject of the second verb, **salam** = to greet, whose object is **ta**. So **yu** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
+This sentence has a _pivot structure_. The first verb, **cing** = to request, addresses **ni** as its object. At the same time **ni** serves also as the subject of the second verb, **salama** = to greet, whose object is **ta**. So **ni** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
 
 > Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
 
@@ -172,12 +172,12 @@ The pivot structure is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in the context. In other words the speaker can safely assume that the listeners know who he or she is talking about. So it is unnecessary to keep on repeating them. In this manner phrases can be made shorter.
 
-> **me cing yu salam ta.** = I ask you to say hello to him/her.  
-> **cing salam ta.** = Please say hello to him/her.
+> **me cing ni salama ta.** = I ask you to say hello to him/her.  
+> **cing salama ta.** = Please say hello to him/her.
 
 See how the translation of **cing** changed between the two sentences? The meaning of the word, the concept, did not change, but its use did. English reflects this change by using different words, to ask and please. Pandunia can cope with changes like this without resorting to different words. It is a principle in Pandunia that there is always exactly one word for one concept. Different words are not created just because the grammatical role of a concept changes.
 
-The phrase **cing salam ta** has a useful pattern that can be used for making polite requests.
+The phrase **cing salama ta** has a useful pattern that can be used for making polite requests.
 
 > **cing sit.** = Please be seated.  
 > **cing dar kafe.** = Please give me some coffee.  
@@ -231,13 +231,13 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia yu yem kafe u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia ni yem kafe u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
-☻: **i yu?** = And you?  
+☻: **i ni?** = And you?  
 ○: **me no baxa pandunia...** = I don't speak Pandunia...  
 ☻: **maf! kia ta yem ca?** = Pardon! Will he have tea?  
 ☺: **no. ta no yem ca. ta yem kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia yu yem sup?** = Would you like to have soup?  
+☻: **kia ni yem sup?** = Would you like to have soup?  
 ☺: **yem.** = Yes. (_I eat._)  
 ☻: **kia ta yem sup?** = Would he like to have soup?  
 ☺: **no yem.** = No.  
@@ -249,42 +249,42 @@ Yes or no questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **me kia yu yem ca.** = I ask (do) you drink tea.  
-> **kia yu yem ca?** = Do you drink tea?  
+> **me kia ni yem ca.** = I ask (do) you drink tea.  
+> **kia ni yem ca?** = Do you drink tea?  
 > **kia yem ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
 > **kia ta yem ca?** = Does he or she drink tea?  
-> **kia yu yem sup?** = Do you eat soup?  
-> **kia memen yem sui?** = Do we drink water?
+> **kia ni yem sup?** = Do you eat soup?  
+> **kia memen yem su?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xef ya yem kafe?** = Does the chief drink coffee?  
-<!-- > **kia papa ya saf kamar?** = Does the father clean the room?  -->
-> **kia niki ya baxa pandunia?** = Does Nicky speak Pandunia?
+> **kia xef ye yem kafe?** = Does the chief drink coffee?  
+> **kia papa ye safa kamar?** = Does the father clean the room?  
+> **kia niki ye baxa pandunia?** = Does Nicky speak Pandunia?
 
 
 ### Giving answers
 
-Yes/no questions can be answered with **ya** = yes, and **no** = no.
+Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
-> – **kia yu yem sup?** = Do you eat soup?  
-> – **ya.** = Yes.  
+> – **kia ni yem sup?** = Do you eat soup?  
+> – **ye.** = Yes.  
 > – **kia ta yem sup?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia yu yem kafe?** = Do you drink coffee?  
-> – **ya. me yem kafe.** = Yes, I drink coffee.  
+> – **kia ni yem kafe?** = Do you drink coffee?  
+> – **ye. me yem kafe.** = Yes, I drink coffee.  
 > – **kia ta yem kafe?** = Does he drink coffee?  
 > – **no. ta no yem kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia yu yem sui?** = Do you drink water?  
+> – **kia ni yem su?** = Do you drink water?  
 > – **yem.** = (Yes, I) drink.
 
 
@@ -303,13 +303,13 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **sui** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ya** yes.
+**bada** after. **maf** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **su** water. **sup** soup. **un** one (1). **des** ten. **kia** to ask a question. **ye** yes.
 
 
 ### Answers to the Exercises
 
-1. kia yu baxa pandunia?
-2. ya. me baxa pandunia.
+1. kia ni baxa pandunia?
+2. ye. me baxa pandunia.
 3. kia mama yem kafe?
 4. no. ta no yem kafe.
 5. kia ta yem sup?
@@ -321,16 +321,16 @@ Try translating these sentences from English to Pandunia.
 Saying no
 ---------
 
-In the previous lesson you learned to answer **ya** and **no** to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer **ye** and **no** to questions. The word **no** is used for denying something. Adding **no** in front of the verb turns an affirmative sentence to negative.
 
-> **me salam yu.** = I greet you.  
-> **me no salam yu.** = I do not greet you.
+> **me salama ni.** = I greet you.  
+> **me no salama ni.** = I do not greet you.
 
-Conceptually negation means the absence or non-existence of the negated word. In the phrase **me no salam yu** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
+Conceptually negation means the absence or non-existence of the negated word. In the phrase **me no salama ni** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **me cing yu saf kamar.** = I ask you to clean the room.  
-> **me no cing yu saf kamar.** = I do NOT ask you to clean the room.  
-> **me cing yu no saf kamar.** = I ask you NOT to clean the room.
+> **me cing ni saf kamar.** = I ask you to clean the room.  
+> **me no cing ni saf kamar.** = I do NOT ask you to clean the room.  
+> **me cing ni no saf kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
@@ -377,18 +377,18 @@ More Questions
 
 To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the interrogative pronoun **ke** is normally used. The question can be made more specific by adding words for person, time, manner or thing if needed.
 
-> **ta e ke?** = What is that? / Who is (s)he?  
+> **ta ye ke?** = What is that? / Who is (s)he?  
 > **ke ren lai?** = Who is coming? (**ren** = person)  
-> **ke zam yu yem?** = When do you eat? (**zam** = time)  
+> **ke zam ni yem?** = When do you eat? (**zam** = time)  
 > **ke yang dansa?** = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using **koz ke**.
 
-> **yu suku mau koz ke?** = Why do you like cats?
+> **ni suku mau koz ke?** = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding **koz** before the cause or reason. **koz** is actually a passive verb meaning _to be caused by_.
 
-> **yu suku mau koz ke?** = Why do you like cats?  
+> **ni suku mau koz ke?** = Why do you like cats?  
 > **koz tamen kaway.** = Because they are cute.
 
 Of course **koz** can also be used to express the cause or reason for something, even when not answering to a question.
@@ -452,9 +452,9 @@ There are also specific time words.
 
 The adjectives for past, present and future are **gon, nun** and **futur**. They can be used for modifying nouns.
 
-> **sara e me ge gon xef.** = Sara is my former boss.
-> **yusef e me ge nun xef.** = Yusef is my current boss.
-> **maria e me ge futur xef.** = Maria is my future boss.
+> **sara ye me ge gon xef.** = Sara is my former boss.
+> **yusef ye me ge nun xef.** = Yusef is my current boss.
+> **maria ye me ge futur xef.** = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time. Simply put the word before the verb.
 
@@ -506,10 +506,10 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 <ol>
 <li>me de xef pati na melai.
 <li>me mala du hau na pase.
-<li>yu yem sup na jin.
+<li>ni yem sup na jin.
 <li>ta saf kamar na din befo.
 <li>mau yem kafe na din bada.
-<li>yu de mama pati na yo befo.
+<li>ni de mama pati na yo befo.
 </ol>
 -->
 

@@ -208,7 +208,9 @@ cupa : suck
 cur : theft  
 cura : steal  
 curer : thief  
-cute : vacation (holiday)  
+cut : exit (leaving)  
+cut mun : exit door  
+cuta : leave (go out, exit)  
 
 ##d  
 
@@ -667,6 +669,9 @@ kilo : thousand (kilo-)
 kilo gram : kilogram (kg)  
 kimi : chemical  
 kimia : chemistry  
+kina : move (transfer, change place)  
+kine : movement  
+kini : kinetic  
 kira : rent (hire)  
 kiriza : rent out (let, lease)  
 kire : rent  
@@ -759,12 +764,14 @@ latif : nice (pleasant, lovely)
 latvia : Latvia  
 lau : old (not young)  
 lava : lava  
+laxa : release (let, let go)  
 lenxa : practice (to exercise)  
 leng : cold  
 leter : letter (message)  
 letis : lettuce  
 libel : dragonfly  
 liber : free (unchained)  
+libera : free (liberate)  
 lici : lychee (litchi)  
 lida : lead (direct)  
 lider : leader (director)  
@@ -1366,9 +1373,9 @@ tanzania : Tanzania
 tap : tap (stopper)  
 tara : star  
 tatu : tattoo  
-taul : towel  
+taula : towel  
 tava : frying pan  
-taza : fresh  
+tazi : fresh  
 tekne : technique (technology)  
 tekne lojia : technology (study of techniques)  
 tela : cloth (fabric, textile)  
@@ -1447,6 +1454,7 @@ uzer : user
 
 ##v  
 
+vakans : vacation (holiday)  
 vaksin : vaccine  
 vale : valley  
 vanila : vanilla  

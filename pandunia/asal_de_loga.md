@@ -648,9 +648,9 @@ lastik ← amara:lastik englix:elastic turki:elastik frans: espanya: portugal: r
 lasun ← marati:lasūṇ nep:lasun hindi:urdu:lahsūn bangla:rôsun  
 lat ← yuthan:lat wuu:la' putonghan:là + horvat:ljut mak:lut  
 latif ← turki:latif arabi:laṭīf swahili:-latifu  
-latvia ←   
 lau ← putonghan:lǎo yuthan:lou  
 lava ←   
+laxa ← frans:lâcher italia:lasciare doic:lassen  
 len ← putonghan:liàn viet:luyện nipon:ren  
 leng ← putonghan:lěng viet:lạnh  
 leter ← englix:letter yoruba:leta frans:lettre italia:lettera  

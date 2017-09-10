@@ -104,9 +104,9 @@ Astuce : **ta** est le pronom générique de la troisième personne. On l’util
 
 **tamen ye pingo.** Ce sont des pommes.
 
-**memen salam tamen.** Nous les saluons.
+**memen salama tamen.** Nous les saluons.
 
-**memen salam nimen.** Nous vous saluons tous.
+**memen salama nimen.** Nous vous saluons tous.
 
 
 
@@ -174,7 +174,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **ta no ha pesa.** Il/elle n’a pas d’argent.
 
-**me vol ha nova fon.** Je veux un nouveau téléphone.
+**me vol ha novi fon.** Je veux un nouveau téléphone.
 
 **kia ni ha ban?** As-tu des enfants ?  
 **me ha du ban.** J’ai deux enfants.
@@ -230,7 +230,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 ### mede <small>aide, aider</small>
 
-**me neses mede.** J’ai besoin d’aide.
+**me nida mede.** J’ai besoin d’aide.
 
 **kia ni ken mede me?** Est-ce que tu peux m’aider ?
 
@@ -399,15 +399,15 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mau loga miau.** Un chat dit miaou.
 
 
-### audi <small>écouter, entendre</small>
+### auda <small>écouter, entendre</small>
 
-**me no ken audi ni.** Je ne t’entends pas. (Je n’arrive pas à t’entendre)
+**me no ken auda ni.** Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
 **cing loga kuat.** Parlez plus fort, s’il vous plait.
 
-**me audi musik.** J’écoute de la musique.
+**me auda musik.** J’écoute de la musique.
 
-**ni audi ke yang ge musik?** Quel genre de musique est-ce que tu écoutes ?
+**ni auda ke yang ge musik?** Quel genre de musique est-ce que tu écoutes ?
 
 
 ### vida <small>voir</small>
@@ -490,7 +490,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **memen safar ze london do paris.** Nous voyageons de Londres à Paris.
 
-**safar hen long.** Le voyage est très long.
+**safar multo long.** Le voyage est très long.
 
 
 ### na <small>dans, sur, à</small>
@@ -512,15 +512,15 @@ Astuce ! Vous pouvez utiliser **na** comme préposition ou tout seul comme un ve
 **me gong na...** Je travaille à ...
 
 
-### abit <small>vivre, habiter, résider</small>
+### doma <small>vivre, habiter, résider</small>
 
-**ni abit ke?** Où est-ce que tu habites ?
+**ni doma ke?** Où est-ce que tu habites ?
 
 Astuce : Ça va aussi de dire « tu abit na ke? » mais **abit** recouvre déjà l’idée d’être à un endroit.
 
-**me abit singapur.** Je vis à Singapore.
+**me doma singapur.** Je vis à Singapore.
 
-**kia ni abit sa hotel?** Est-ce que tu résides dans cet hôtel ?
+**kia ni doma sa hotel?** Est-ce que tu résides dans cet hôtel ?
 
 
 ### deng <small>attendre</small>
@@ -586,7 +586,7 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 
 **ta ye ke yang?** Ça ressemble à quoi ?
 
-**kia ta nov?** C’est nouveau ?
+**kia ta novi?** C’est nouveau ?
 
 **ke ye mas bon?** Lequel est mieux ?
 
@@ -655,25 +655,25 @@ Liste de mots
 Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde. Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez. Habituellement, un mot en pandunia est partagé par plusieurs langues. Par exemple, **mama** et **papa** sont connus dans des centaines de langues. Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 
 
-**abit** vivre, habiter, résider<small>Italien _abitare_</small>  
 **ama** mais <small>(Turc _ama_)</small>  
 **bai** blanc <small>(Mandarin _bái_ 白)</small>  
 **batu** pierre <small>(Indonésien _batu_)</small>  
 **bazar** marché <small>(Persan _bāzār_ بازار)</small>  
-**baxa** langue, communiquer <small>(Hindi _bhāśā_ भाषा)</small>  
+**bax** langue <small>(Hindi _bhāśā_ भाषा)</small>  
+**baxa** communiquer  
 **blu** bleu <small>(Anglais _blue_)</small>  
 **bon** bon
 **ca** thé <small>(Mandarin _chá_ 茶)</small>  
 **cing** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russie _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
+**doma** vivre, habiter, résider<small>Russe _dom_ дом</small>  
 **englix** anglais <small>(Anglais _English_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
 **ha** avoir, il y a <small>(Portugais _há_)</small>  
 **habar** nouvelles <small>(Malais _khabar_)</small>  
 **i** et <small>(Polonais _i_)</small>  
-**jen** personne <small>(Mandarin _rén_ 人)</small>  
 **kafe** café <small>(Allemand _Kaffee_)</small>  
 **kal** noir <small>(Hindi काला _kāla_)</small>  
 **kat** couper <small>(Hindi ‎_kāṭnā_ काटना)</small>  
@@ -689,8 +689,8 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **mede** aider <small>(Français _aider_)</small>  
 **me** je, me <small>(Swahili _mimi_)</small>  
 **memen** nous  
-**neses** avoir besoin, nécessaire <small>(Espagnol _necesitar_)</small>  
 **ni** tu/toi <small>(Tamoul _nī_ நீ)</small>  
+**nida** avoir besoin, nécessaire <small>(Anglais _need_)</small>  
 **nimen** vous tous  
 **no** non, ne… pas <small>(Espagnol _no_)</small>  
 **noce** nuit <small>(Espagnol _noche_)</small>  
@@ -712,5 +712,6 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **xam** soir <small>(Hindi _śām_ शाम )</small>  
 **ye** oui; être <small>(Anglais _ye_)</small>  
 **yem** manger, boire <small>(Turc _yemek_)</small>  
+**yen** personne <small>(Mandarin _rén_ 人)</small>  
 
 

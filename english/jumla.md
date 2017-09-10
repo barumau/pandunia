@@ -170,7 +170,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### ha <small>have</small>
 
-**me ha bon bet.** I have a good house.
+**me ha bon dom.** I have a good house.
 
 **ta no ha pesa.** S/he doesn't have money.
 
