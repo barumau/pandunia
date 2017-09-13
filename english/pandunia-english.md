@@ -132,7 +132,7 @@ biskut : biscuit (cookie)
 bizar : weird (strange)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
-biznes yen : businessperson (businessman)  
+biznes jen : businessperson (businessman)  
 bobo : fool (idiot)  
 boikot : boycott  
 boka : mouth  
@@ -326,7 +326,8 @@ faida : use (utility, benefit)
 fain : fine (delicate)  
 famil : family  
 famil nam : surname (family name)  
-fan : opposing (anti-)  
+fan : fun (amusement)  
+fani : funny (amusing)  
 fanat : fan (fanatic)  
 fantas : fantasy (imagination)  
 fantasa : fantasize  
@@ -555,6 +556,8 @@ izi : easy
 ja : already (done)  
 jadi : if (suppose, assume)  
 jaket : jacket  
+jala : burn (cause to burn)  
+jalu : burn (be burned)  
 jameika : Jamaica  
 janela : window  
 jang : fight (war)  
@@ -566,9 +569,10 @@ jaz : jazz
 jeb : pocket  
 jele : gel (jelly)  
 jelos : jealous  
-jen : birth  
-jen den : birthday  
-jena : give birth  
+jen : person (people)  
+jene : birth  
+jene den : birthday  
+jena : give birth (procreate, generate)  
 jenu : be born  
 jentil : kind (nice, gentle)  
 jenxen : ginseng  
@@ -854,15 +858,15 @@ marka : mark (leave a mark)
 marke : mark (trace)  
 marmar : marble  
 marsi : Mars  
+marta : kill  
+marte : death  
+marti : dead  
+martu : die  
 mas : mass (lump)  
 masaje : massage  
 masajer : masseur (masseuse)  
 masala : issue  
 maske : mask (camouflage)  
-mat : death  
-mata : kill  
-mati : dead  
-matu : die  
 matras : mattress  
 matur : mature (ripe, adult)  
 matur fem : woman (adult female)  
@@ -886,7 +890,7 @@ mega : million (mega-)
 megam : cloud  
 mehiko : Mexico  
 mei : every (each)  
-mei yen : everybody (everyone)  
+mei jen : everybody (everyone)  
 mei xe : everything  
 melodi : melody  
 member : member  
@@ -1029,7 +1033,7 @@ not buk : notebook
 nova : new (novel)  
 nud : naked (bare)  
 nul : zero (none)  
-nul yen : nobody (no-one)  
+nul jen : nobody (no-one)  
 nul xe : nothing  
 numer : number  
 numer un : first (number one)  
@@ -1090,7 +1094,11 @@ pasa : pass (transfer, hand over)
 paskal : pascal  
 pat : path  
 paunde : pound (£)  
-paus : pause (break, interrupt)  
+paus : pause (break, interruption)  
+paxa : hurt  
+paxi : painful  
+paxia : suffering (passion)  
+paxu : suffer (get hurt)  
 ped : foot  
 pey : payment  
 peya : pay  
@@ -1157,6 +1165,7 @@ proba : try (attempt)
 problem : problem  
 profesor : professor  
 program : program  
+programer : programmer (coder)  
 projet : project (planned endeavour)  
 proses : process (procedure)  
 puder : powder  
@@ -1567,12 +1576,12 @@ yasen : ash tree
 ye : yes (yeah)  
 yehudi : Jew  
 yem : eat  
-yen : person (people)  
+yen : eye  
 yep : leaf  
 yer : yesterday  
 yesu : Jesus  
 yo : some  
-yo yen : someone (somebody)  
+yo jen : someone (somebody)  
 yo xe : something  
 yod : iodine  
 yoga : yoga  

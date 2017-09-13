@@ -2,14 +2,14 @@
 
 [gimmick:theme](readable)
 
-[kata](baru_ge_dant.md)
+[kate](baru_ge_dant.md)
 
 [piper i karot](piper_i_karot.md)
 
 [video](video.md)
 
-[loga lista]()
+[loge liste]()
 
   * [gok nam](gok_nam.md)
-  * [asal de loga](asal_de_loga.md)
+  * [loge asle](loge_asle.md)
 

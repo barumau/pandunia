@@ -126,6 +126,7 @@ attention (focus)   : dian
 August   : mes 8 (mes bat)  
 Australia   : australia  
 Austria   : osteraih  
+awake   : weki  
 axe (hatchet)   : tabar  
 axis   : akse  
 ##b  
@@ -184,8 +185,8 @@ big   : day
 billion (giga-)   : giga  
 biology (study of life)   : jive lojia  
 bird   : paki  
-birth   : jen  
-birthday   : jen den  
+birth   : jene  
+birthday   : jene den  
 biscuit (cookie)   : biskut  
 black   : kal  
 blood   : sang  
@@ -230,7 +231,7 @@ bunch (collection)   : men
 bundle   : faxe  
 bus   : bus  
 business (commercial activity)   : biznes  
-businessperson (businessman)   : biznes yen  
+businessperson (businessman)   : biznes jen  
 busy (occupied)   : bizi  
 but   : ama  
 butter   : makan  
@@ -408,8 +409,8 @@ date fruit   : tamar
 daughter   : fem ban  
 day (daytime)   : den  
 day of the week   : var  
-dead   : mati  
-death   : mat  
+dead   : marti  
+death   : marte  
 December   : mes 12 (mes des du)  
 deci-   : deci  
 deed (work)   : kar  
@@ -426,7 +427,7 @@ devil (Satan)   : xatan
 dew   : rose  
 dharma (piety)   : darma  
 diamond   : almas  
-die   : matu  
+die   : martu  
 die (dice)   : dado  
 dig (excavate)   : kava  
 dinner   : xam yem  
@@ -500,12 +501,15 @@ even (intensifier)   : hata
 evening   : xam  
 event (case, instance)   : kazu  
 every (each)   : mei  
-everybody (everyone)   : mei yen  
+everybody (everyone)   : mei jen  
 everything   : mei xe  
 example   : misal  
 except (minus)   : minus  
 exchange (swap)   : badal  
 excrement (shit)   : kak  
+exit (leaving)   : cut  
+exit door   : cut mun  
+eye   : yen  
 ##f  
 face   : muka  
 factory   : san kan  
@@ -576,8 +580,9 @@ forum   : forum
 four (4)   : car  
 fox   : huli  
 France   : frans  
+free (liberate)   : libera  
 free (unchained)   : liber  
-fresh   : taza  
+fresh   : tazi  
 Friday   : var 5 (var lim)  
 friend   : panyo  
 from (since)   : ze  
@@ -586,7 +591,9 @@ fruit (result, outcome)   : pal
 frying pan   : tava  
 fuck (screw)   : coda  
 full   : ful  
+fun (amusement)   : fan  
 function (to work)   : funca  
+funny (amusing)   : fani  
 future   : futur  
 ##g  
 gallery (exhibition hall)   : galeri  
@@ -608,8 +615,9 @@ ginseng   : jenxen
 giraffe   : jiraf  
 girl   : jovan fem  
 give   : dar  
-give birth   : jena  
+give birth (procreate, generate)   : jena  
 glass   : glas  
+global   : pandunian  
 go   : go  
 goal   : gol  
 god   : dev  
@@ -682,7 +690,7 @@ hockey   : hoki
 hold (grasp)   : ten  
 hole   : kong  
 holy (sacred)   : sant  
-home (household)   : dom  
+home (residence)   : dom  
 Honduras   : honduras  
 honey   : medu  
 hope (wish)   : inxala  
@@ -775,10 +783,11 @@ kettle   : ketel
 key   : cabi  
 key (push-button)   : buton  
 keyboard     : buton paban  
-kill   : mata  
+kill   : marta  
 kilogram (kg)   : kilo gram  
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
+kinetic   : kini  
 kiss   : bis  
 kiwi fruit   : kiwi  
 knee   : janu  
@@ -803,6 +812,7 @@ leader (director)   : lider
 leaf   : yep  
 learn (study)   : darsa  
 least (minimally)   : minim  
+leave (go out, exit)   : cuta  
 Lebanon   : lubnan  
 lemon   : limun  
 less   : min  
@@ -830,7 +840,7 @@ liter (litre)   : litre
 Lithuania   : lietuva  
 little (small)   : lit  
 live   : jiva  
-live (reside, inhabit)   : abit  
+live (dwell, reside)   : doma  
 load (to charge)   : lad  
 lock   : tala  
 long   : long  
@@ -934,6 +944,8 @@ mother (mom)   : mama
 mountain (hill)   : xan  
 mouse   : muxu  
 mouth   : boka  
+move (transfer, change place)   : kina  
+movement   : kine  
 MSG (monosodium glutamate)   : micin  
 mud (mire)   : poto  
 mummy   : mumia  
@@ -957,7 +969,8 @@ nation   : nasia
 nature (environment)   : tabia  
 near (close)   : jin  
 necessary (critical)   : zarura  
-need   : neses  
+necessary (needed)   : nidi  
+need   : nida  
 needle (pin)   : pin  
 neighbour (vicinity)   : visin  
 Nepal   : nepal  
@@ -977,7 +990,7 @@ night   : noce
 nine (9)   : noi  
 nitrogen   : nitro  
 no (not)   : no  
-nobody (no-one)   : nul yen  
+nobody (no-one)   : nul jen  
 noise   : kelele  
 noodle   : mien  
 norm (standard)   : normal  
@@ -1011,7 +1024,6 @@ only (just)   : solo
 open (not closed)   : kai  
 opinion (view)   : igen  
 opportunity (chance)   : cans  
-opposing (anti-)   : fan  
 or   : u  
 orange (fruit)   : aranje  
 orange (orange-colored)   : aranji  
@@ -1031,6 +1043,10 @@ packet   : paket
 paint   : penta  
 Pakistan   : pakistan  
 palm tree   : palma  
+pan-African   : panafrikan  
+pan-American   : panamerikan  
+pan-Asian   : panasian  
+pan-European   : paneuropan  
 Panama   : panama  
 panda   : panda  
 Pandunia   : pandunia  
@@ -1065,7 +1081,7 @@ pepper   : piper
 perfect   : perfet  
 period (age, epoch)   : zaman  
 Persian (Farsi)   : farsi  
-person (people)   : yen  
+person (people)   : jen  
 Peru   : peru  
 Philippines (Filipino)   : pilipin  
 philosopher   : filsofer  
@@ -1189,6 +1205,7 @@ recipe   : reset
 red   : ros  
 register   : daftar  
 reign (rule as an emperor)   : impera  
+release (let, let go)   : laxa  
 religion   : din  
 rent   : kire  
 rent (hire)   : kira  
@@ -1318,7 +1335,7 @@ sock (stocking)   : corab
 sofa (couch)   : sofa  
 soft   : mol  
 some   : yo  
-someone (somebody)   : yo yen  
+someone (somebody)   : yo jen  
 something   : yo xe  
 son   : man ban  
 song   : gan  
@@ -1446,7 +1463,7 @@ topic (theme)   : tem
 touch   : toca  
 tour (trip)   : tur  
 tourist   : safar nik  
-towel   : taul  
+towel   : taula  
 tower   : minara  
 train   : tren  
 travel (voyage)   : safar  
@@ -1488,7 +1505,7 @@ use   : uza
 use (utility, benefit)   : faida  
 user   : uzer  
 ##v  
-vacation (holiday)   : cute  
+vacation (holiday)   : vakans  
 vaccine   : vaksin  
 vagina   : yoni  
 valley   : vale  
@@ -1518,6 +1535,7 @@ vote   : vot
 vowel   : vokal  
 ##w  
 wait   : denga  
+wake (make awake)   : weka  
 walk (march)   : marca  
 wall   : mur  
 want (desire)   : vol  
