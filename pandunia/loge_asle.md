@@ -1,3 +1,31 @@
+# loge asle
+
+pandunia loge lay ze multi bax de tot dunia.
+
+- afrikan bax
+    - arabi
+    - swahili
+    - amari
+    - hausa
+- europan i amerikan bax
+    - englix
+    - espanya
+    - portugal
+    - frans
+    - rus
+    - doic
+- dong asian bax
+    - han bax
+    - nipon
+    - hanguk
+- sud asian bax
+    - hindi
+    - bangla
+    - urdu
+    - indonesia
+    - farsi
+    - turki
+
 ## a
 
 a ← englix:ah   

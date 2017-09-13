@@ -51,8 +51,6 @@ atom : atom
 auda : hear (listen)  
 australia : Australia  
 avar : damage (wreck)  
-aventur : adventure  
-aventurer : adventurer  
 ayiti : Haiti  
 
 ##b  
@@ -64,8 +62,8 @@ badam : almond
 badan : body  
 bagaje : luggage (baggage)  
 baka : bake  
-baker : baker  
-bakeria : bakery  
+bakar : baker  
+bakaria : bakery  
 bal : strong (force)  
 baldi : bucket  
 balkon : balcony (porch)  
@@ -207,7 +205,7 @@ cuna : choose (select)
 cupa : suck  
 cur : theft  
 cura : steal  
-curer : thief  
+curar : thief  
 cut : exit (leaving)  
 cut mun : exit door  
 cuta : leave (go out, exit)  
@@ -225,7 +223,7 @@ danke : thanks (thank you)
 danmark : Denmark  
 dante : tooth  
 dante brox : tooth brush  
-dante dokter : dentist  
+dante doktar : dentist  
 dap : answer (response)  
 dapa : respond (give an answer)  
 dar : give  
@@ -237,7 +235,7 @@ darse : lesson
 darse ban : student (pupil)  
 darse guru : teacher  
 darse kan : school (institution)  
-darzer : tailor  
+darzar : tailor  
 dau : way (road)  
 dawa : drug (medicine)  
 dawa kan : drugstore (pharmacy)  
@@ -269,7 +267,7 @@ diske : disc (disk)
 do : to (till, until)  
 doic : German  
 doka : read  
-dokter : doctor (physician)  
+doktar : doctor (physician)  
 dolar : dollar  
 dom : home (residence)  
 doma : live (dwell, reside)  
@@ -357,10 +355,10 @@ figur : figure (representation)
 fiksa : fix (attach)  
 fila : line (row)  
 filme : film  
-filsofer : philosopher  
+filsofar : philosopher  
 filsofi : philosophic  
 filsofia : philosophy  
-filter : filter  
+filtar : filter  
 fin : end  
 fina : finish (put an end to)  
 fini : finished  
@@ -368,7 +366,7 @@ final : last (final)
 finger : finger (toe)  
 finger wen : finger ring  
 fizik : physique  
-fiziker : physicist  
+fizikar : physicist  
 fizikia : physics  
 fobe : fear (phobia)  
 fokus : focus (concentration)  
@@ -415,7 +413,7 @@ gazet : magazine (journal, gazette)
 ge : own (particle of possession)  
 gem : game  
 gema : play a game  
-gemer : player (gamer)  
+gemar : player (gamer)  
 gen : root  
 gida : drive  
 giga : billion (giga-)  
@@ -434,7 +432,7 @@ goro nama : pork
 goton : cotton  
 grafik : graphic (image, illustration)  
 grafika : illustrate  
-grafiker : graphic artist  
+grafikar : graphic artist  
 gram : gram  
 gras : grass  
 grimas : grimace  
@@ -497,7 +495,7 @@ hindu : Hindu
 hisab : calculation (arithmetic, computation)  
 hisaba : calculate  
 histor : history (story)  
-historer : historian  
+historar : historian  
 historia : history (study of history)  
 hiyar : cucumber  
 hobe : hobby  
@@ -526,14 +524,14 @@ igen : opinion (view)
 iha : donkey (ass)  
 ikan : fish  
 impera : reign (rule as an emperor)  
-imperer : emperor  
+imperar : emperor  
 imperia : empire  
 in : inside (interior)  
 indonesia : Indonesia  
 informa : inform (communicate)  
 informe : information  
 ingai : should (ought) 
-injener : engineer  
+injenar : engineer  
 inji : ginger  
 inspira : inspire (inspiration)  
 inter : between  
@@ -561,7 +559,7 @@ jalu : burn (be burned)
 jameika : Jamaica  
 janela : window  
 jang : fight (war)  
-janger : warrior (fighter)  
+jangar : warrior (fighter)  
 jangal : forest (jungle)  
 janu : knee  
 jara : jug (jar)  
@@ -585,7 +583,7 @@ jive : life
 jive lojia : biology (study of life)  
 joga : play (have fun)  
 jok : joke  
-joker : joker  
+jokar : joker  
 jong : species  
 jovan : young  
 jovan fem : girl  
@@ -625,7 +623,7 @@ kambudia : Cambodia
 kamera : camera  
 kamis : shirt  
 kamp : camp  
-kamper : camper  
+kampar : camper  
 kan : workshop (place for...)  
 kanada : Canada  
 kanal : channel  
@@ -700,7 +698,7 @@ koma : comma
 komik : comical (funny)  
 kompani : company (corporation)  
 komputa : compute (to process data)  
-komputer : computer  
+komputar : computer  
 komun : common (shared)  
 komunisme : communism  
 komuniste : communist  
@@ -778,7 +776,7 @@ liber : free (unchained)
 libera : free (liberate)  
 lici : lychee (litchi)  
 lida : lead (direct)  
-lider : leader (director)  
+lidar : leader (director)  
 lietuva : Lithuania  
 liga : connect (join, link)  
 lige : joint (league)  
@@ -820,7 +818,7 @@ madyar : Hungary
 maf : sorry (pardon)  
 mafan : trouble (disturbance, bother)  
 magi : magical  
-mager : magician (sorcerer)  
+magar : magician (sorcerer)  
 magia : magic  
 magnet : magnet  
 mai : commerce  
@@ -859,12 +857,14 @@ marke : mark (trace)
 marmar : marble  
 marsi : Mars  
 marta : kill  
+martar : killer  
 marte : death  
 marti : dead  
 martu : die  
+martur : victim of killing (also: martyr)  
 mas : mass (lump)  
+masajar : masseur (masseuse)  
 masaje : massage  
-masajer : masseur (masseuse)  
 masala : issue  
 maske : mask (camouflage)  
 matras : mattress  
@@ -893,7 +893,7 @@ mei : every (each)
 mei jen : everybody (everyone)  
 mei xe : everything  
 melodi : melody  
-member : member  
+membar : member  
 meme : sheep  
 memen : we  
 men : bunch (collection)  
@@ -913,7 +913,7 @@ mes 12 (mes des du) : December
 mesi : messiah (Christ)  
 metal : metal  
 metal nik : metalhead  
-meter : meter  
+metar : meter  
 metod : method  
 meza : table  
 micin : MSG (monosodium glutamate)  
@@ -930,8 +930,8 @@ mini : lesser (mini-)
 minim : least (minimally)  
 minimi : minimal  
 minimalisme : minimalism  
-minister : minister (politician)  
-ministeria : ministry  
+ministar : minister (politician)  
+ministaria : ministry  
 minus : except (minus)  
 minut : minute  
 misal : example  
@@ -946,7 +946,7 @@ mogu : mushroom (fungus)
 mol : soft  
 moli : jasmine  
 mongol : Mongolia  
-monster : monster  
+monstar : monster  
 moral : morality (ethics)  
 mos : moss  
 mosim : season  
@@ -969,7 +969,7 @@ mus : must
 musik : music  
 musik nik : music fan  
 musika : play music  
-musiker : musician  
+musikar : musician  
 muskul : muscle  
 muxing : Jupiter  
 muxu : mouse  
@@ -1044,7 +1044,7 @@ nuton : newton (N)
 
 o : oh!  
 ofis : office (position)  
-ofiser : officer  
+ofisar : officer  
 okei : okay (acceptable)  
 oksi : oxygen  
 oma : grandmother  
@@ -1142,9 +1142,9 @@ pluto : Pluto (dwarf planet)
 poker : poker  
 poli : several  
 polis : police  
-poliser : police officer  
+polisar : police officer  
 politik : politics  
-politiker : politician  
+politikar : politician  
 polska : Poland  
 pompa : pump (to)  
 pon : put (place)  
@@ -1165,7 +1165,7 @@ proba : try (attempt)
 problem : problem  
 profesor : professor  
 program : program  
-programer : programmer (coder)  
+programar : programmer (coder)  
 projet : project (planned endeavour)  
 proses : process (procedure)  
 puder : powder  
@@ -1247,7 +1247,7 @@ sadi : plain (simple)
 saf : clean (pure)  
 safar : travel (voyage)  
 safar nik : tourist  
-safarer : traveler  
+safarar : traveler  
 sak : bag (sack)  
 sal : salt  
 salada : salad  
@@ -1290,7 +1290,7 @@ seres : Ceres (dwarf planet)
 seri : series  
 serva : serve (wait upon)  
 serve : service  
-server : servant (waiter)  
+servar : servant (waiter)  
 sesam : sesame  
 set : seven (7)  
 set var : week  
@@ -1324,7 +1324,7 @@ sonde : sound (audio)
 sos : sauce  
 sosis : sausage  
 sporte : sport (athletics)  
-sporter : athlete (sportsman)  
+sportar : athlete (sportsman)  
 stadion : stadium  
 stat : state  
 stop : stop  
@@ -1344,7 +1344,7 @@ suku : be fond of (like, enjoy)
 sukar : sugar  
 sultan : power (authority, rule)  
 sultana : rule (be in charge)  
-sultaner : ruler  
+sultanar : ruler  
 sum : sum (total)  
 sun : soon  
 sundar : beautiful (handsome)  
@@ -1459,7 +1459,7 @@ urdun : Jordan
 uruguai : Uruguay  
 usamerika : US America  
 uza : use  
-uzer : user  
+uzar : user  
 
 ##v  
 
@@ -1551,7 +1551,7 @@ xau : few (little)
 xaxa : rustle  
 xe : thing  
 xefe : chief (boss)  
-xefe minister : prime minister  
+xefe ministar : prime minister  
 xia : under (below)  
 xifu : master (sensei)  
 xigo : accident (mishap)  

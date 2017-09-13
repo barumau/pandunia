@@ -828,11 +828,6 @@ Creates adjectives from action and thing roots. The resulting adjective indicate
 
 #### 11.2.2. -an
 
-When applied to action roots, it denotes the active participant of the action.
-
-**loga** to speak; **logan** speaking, the one who speaks  
-**vida** to see; **vidan** seeing, the one who sees  
-
 When applied to place name roots, it denotes something or someone that belongs to, comes from, or is related to that place.
 
 **amerika** America; **amerikan** American  
@@ -840,15 +835,24 @@ When applied to place name roots, it denotes something or someone that belongs t
 **asia** Asia; **asian** Asian
 **rusia** Russia; **rusian** Russian, of Russia  
 
-#### 11.2.3. -er
+#### 11.2.3. -ar
 
 Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
 
-**baka** to bake; **baker** baker, the one who bakes.  
-**lida** to lead; **lider** leader, the one who leads.  
-**komputa** to compute, to process data; **komputer** computer  
+**loga** to speak; **logar** speaker, the one who speaks  
+**baka** to bake; **bakar** baker, the one who bakes  
+**lida** to lead; **lidar** leader, the one who leads  
+**komputa** to compute, to process data; **komputar** computer  
+**marta** to kill; **martar** killer  
 
-#### 11.2.4. -es
+#### 11.2.4. -ur
+
+Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
+
+**kriata** to create; **kriatur** creature, the one who is created  
+**marta** to kill; **martur** the one who gets killed; by extension: a martyr  
+
+#### 11.2.5. -es
 
 Creates abstract nouns from adjectives, denoting "state of being".
 
@@ -856,7 +860,7 @@ Creates abstract nouns from adjectives, denoting "state of being".
 **rik** rich; **rikes** richness  
 
 
-#### 11.2.5. -ia
+#### 11.2.6. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -873,11 +877,11 @@ This ending is often found in place names, especially in country names. However 
 **indonesia** Indonesia  
 **italia** Italy  
 
-#### 11.2.6. -iz-
+#### 11.2.7. -iz-
 
 Causative suffix.
 
-#### 11.2.7. -ul-
+#### 11.2.8. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 
