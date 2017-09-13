@@ -12,6 +12,9 @@ aina : mirror
 ajil : agile  
 aka : brother or sister  
 akse : axis  
+akta : act (play a role)  
+aktar : actor (actress)  
+akte : act (scene)  
 alah : Allah  
 alkol : alcohol  
 almari : cabinet (cupboard)  
@@ -267,7 +270,8 @@ diske : disc (disk)
 do : to (till, until)  
 doic : German  
 doka : read  
-doktar : doctor (physician)  
+dokta : heal (cure)  
+doktar : doctor (physician, healer)  
 dolar : dollar  
 dom : home (residence)  
 doma : live (dwell, reside)  
@@ -322,6 +326,7 @@ europan unia : European Union (EU)
 fai : fire  
 faida : use (utility, benefit)  
 fain : fine (delicate)  
+faktar : factor (agent, actor)  
 famil : family  
 famil nam : surname (family name)  
 fan : fun (amusement)  
@@ -347,6 +352,7 @@ fekal : fecal
 fem : female  
 fem ban : daughter  
 fen : part (fraction)  
+fena : divide (to partition)  
 fer : iron  
 festa : celebrate (party)  
 feste : party (festival)  
@@ -695,6 +701,7 @@ kolombia : Colombia
 koloni : colony (settlemen)  
 kolun : column (pillar)  
 koma : comma  
+komal : soft  
 komik : comical (funny)  
 kompani : company (corporation)  
 komputa : compute (to process data)  
@@ -731,6 +738,8 @@ kuan : wide
 kuang : mineral (ore)  
 kuang su : mineral water  
 kuba : Cuba  
+kuka : cook (prepare food)  
+kukar : cook (chef)  
 kul : cool  
 kuli : porter (coolie)  
 kultur : culture  
@@ -740,7 +749,8 @@ kupon : coupon
 kura : care (cure)  
 kuran : Quran (Koran)  
 kursi : chair  
-kurva : curve  
+kurve : curve  
+kurvi : curvy (curved)  
 kusen : cushion (pillow)  
 
 ##l  
@@ -892,8 +902,10 @@ mehiko : Mexico
 mei : every (each)  
 mei jen : everybody (everyone)  
 mei xe : everything  
-melodi : melody  
-membar : member  
+melodi : melodious  
+melodia : melody  
+memba : participate  
+membar : member (participant)  
 meme : sheep  
 memen : we  
 men : bunch (collection)  
@@ -943,8 +955,9 @@ moda : fashion (trend)
 moda nik : fashionista  
 model : model (design)  
 mogu : mushroom (fungus)  
-mol : soft  
 moli : jasmine  
+mola : grind (grind in mill)  
+molar : miller  
 mongol : Mongolia  
 monstar : monster  
 moral : morality (ethics)  
@@ -1045,7 +1058,8 @@ nuton : newton (N)
 o : oh!  
 ofis : office (position)  
 ofisar : officer  
-okei : okay (acceptable)  
+okey : okay (acceptable)  
+okeya : accept (to say okay)  
 oksi : oxygen  
 oma : grandmother  
 oman : Oman  
@@ -1089,8 +1103,7 @@ paper : paper
 par : top (highest part)  
 paraguai : Paraguay  
 parda : curtain  
-pas : pass (go by, go past)  
-pasa : pass (transfer, hand over)  
+pasa : pass (go by, go past)  
 paskal : pascal  
 pat : path  
 paunde : pound (£)  
@@ -1272,6 +1285,7 @@ sar : head
 sar gut : skull  
 sat : time of day (moment)  
 se : self  
+sekretar : secretary  
 sekse : sex (sexual intercourse)  
 seksi : sexy (sexual)  
 sekun : second(s)  
@@ -1337,6 +1351,8 @@ suba yem : breakfast
 sud : south  
 sudafrika : South Africa (republic)  
 sudan : Sudan  
+suede : sweat (perspiration)  
+suedi : sweaty  
 suhi : dry  
 suka : delight (make happy)  
 suki : happy (delighted)  
@@ -1346,6 +1362,7 @@ sultan : power (authority, rule)
 sultana : rule (be in charge)  
 sultanar : ruler  
 sum : sum (total)  
+suma : sum up (add together)  
 sun : soon  
 sundar : beautiful (handsome)  
 suomi : Finland  

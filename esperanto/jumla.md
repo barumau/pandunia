@@ -191,7 +191,7 @@
 
 **me saba ta.** Mi konas lin/ŝin.
 
-**kia ni saba sa ren?** Ĉu vi konas tiun personon?
+**kia ni saba sa jen?** Ĉu vi konas tiun personon?
 
 **kia nimen saba alise?** Ĉu vi konas unu la alian?
 
@@ -309,15 +309,15 @@
 
 
 
-### neses <small>bezoni</small>
+### nida <small>bezoni</small>
 
-**me neses mede.** Mi bezonas helpon.
+**me nida mede.** Mi bezonas helpon.
 
-**me neses yem.** Mi bezonas manĝi.
+**me nida yem.** Mi bezonas manĝi.
 
-**kia ni neses yem?** Ĉu vi bezonas manĝi?
+**kia ni nida yem?** Ĉu vi bezonas manĝi?
 
-**kia ni neses sui?** Ĉu vi bezonas trinki (akvon)?
+**kia ni nida su?** Ĉu vi bezonas trinki (akvon)?
 
 
 
@@ -424,7 +424,7 @@
 **cing kitaba ta na sa.** Bonvolu skribi ĝin tie!
 
 
-### baxa <small>lingvo, lingvumi</small>
+### baxa <small>paroli, lingvumi</small>
 
 **kia nimen baxa pandunia.** Ĉu vi parolas pandunion?
 
@@ -479,13 +479,13 @@
 **safar multo long.** La vojaĝo estas tre longa.
 
 
-### abit <small>loĝi</small>
+### doma <small>loĝi</small>
 
-**ni abit ke?** Kie vi loĝas?
+**ni doma ke?** Kie vi loĝas?
 
-**me abit singapur.** Mi loĝas en Singapuro.
+**me doma singapur.** Mi loĝas en Singapuro.
 
-**kia ni abit sa hotel?** Ĉu vi loĝas en tiu hotelo?
+**kia ni doma sa hotel?** Ĉu vi loĝas en tiu hotelo?
 
 
 
@@ -493,11 +493,7 @@
 Vortaro
 -------
 
-<!--
-All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from angla and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
--->
 
-**abit** loĝi <small>itala _abitare_</small>  
 **ama** sed <small>(turka _ama_)</small>  
 **bai** blanka <small>(mandarenĉina _bái_ 白)</small>  
 **batu** ŝtono <small>(indonezia _batu_)</small>  
@@ -509,13 +505,15 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ca** teo <small>(mandarenĉina _chá_ 茶)</small>  
 **cing** peti <small>(mandarenĉina _qǐng_ 请)</small>  
 **den** tago <small>(rusa _den'_ день)</small>  
-**dom** hejmo <small>(rusa _dom_ дом)</small>  
+**dom** hejmo, loĝejo <small>(rusa _dom_ дом)</small>  
+**doma** loĝi  
 **englix** angla <small>(angla _English_)</small>  
 **fem** virino <small>(franca _femme_)</small>  
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
 **ha** havi <small>(portugala _há_)</small>  
 **habar** novaĵoj <small>(malaja _khabar_)</small>  
 **i** kaj <small>(pola _i_)</small>  
+**jen** persono <small>(mandarencxina _rén_ 人)</small>  
 **kafe** kafo <small>(germana _Kaffee_)</small>  
 **kal** nigra <small>(Hindi काला _kāla_)</small>  
 **kat** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
@@ -531,8 +529,8 @@ All words of Pandunia are loan words from other languages that are spoken around
 **me** mi <small>(kartvela _me_ მე)</small>  
 **mede** helpi <small>(franca _aider_)</small>  
 **memen** ni  
-**neses** bezoni <small>(haitia _nesesè_)</small>  
 **ni** vi (singulare) <small>(tamila _nī_ நீ)</small>  
+**nida** bezoni <small>(angla _need_)</small>  
 **nimen** vi (plurale)  
 **no** ne <small>(hispana _no_)</small>  
 **noce** nokto <small>(hispana _noche_)</small>  
@@ -554,5 +552,4 @@ All words of Pandunia are loan words from other languages that are spoken around
 **xam** vespero <small>(hindia _śām_ शाम )</small>  
 **ye** jes; esti <small>(angla _yeah_)</small>  
 **yem** manĝi, trinki <small>(turka _yemek_)</small>  
-**yen** persono <small>(mandarencxina _rén_ 人)</small>  
 

@@ -26,6 +26,12 @@ pandunia loge lay ze multi bax de tot dunia.
     - farsi
     - turki
 
+## -
+
+-ar : polski:-arz englix:-er  
+-ia : italia:-ia arab:-iya hindi:-iyat  
+-ul : swahili:-ua,-oa kongo:-ula  
+
 ## a
 
 a ← englix:ah   
@@ -91,6 +97,7 @@ badam ← farsi:badam tamil:telugu:badamu
 badan ← arabi:farsi:hindi:urdu:indonesia:badan englix:body turki:beden + amara:bädən  
 bagaje ← turki:bagaj portugal:bagagem espanya:bagaje frans:bagage englix:baggage ruski:bagaž indonesia:bagasi bangla:bægej  
 bai ← putonghan:bái  
+baka ← zulu:bhaka englix:bake hindi:pakānā  
 bal ← hindi:urdu:bal telugu:balamu bangla:bål mal:balam guj:marati:baL  
 baldi ← portugal:espanya:balde hindi:urdu:bālTī  
 balkon ← englix:espanya:ruski: hindi:bālkani  
@@ -616,13 +623,13 @@ kolombia ←
 koloni ←   
 kolun ←   
 koma ← nipon:konma doic:hanguk:komma indonesia:koma englix:comma  
+komal ← hindi:urdu:komal khmer:kaomal  
 komik ← farsi:turki:indonesia:komik englix:comical doic:komisch  
 kompani ←   
 komputer ←   
 komun ← espanya:común frans:commun italia:commune portugal:comum englix:common  
 kona ← hindi:urdu:konā swahili:kona zulu:ikhona rwa:ikoni hausa:kwanā wol:koñ  
 kong ← putonghan:kǒng yuthan:hung kur:kun  
-kongo ←   
 konsel ←   
 konson ←   
 kontcung ← putonghan:kūnchóng viet:côn trùng nipon:konchū hanguk:gonchung  
@@ -645,6 +652,7 @@ kuan ← putonghan:kuān lao:thai:kwāng
 kuang ← putonghan:kuàng viet:quặng/khoáng  
 kuang sui ←   
 kuba ←   
+kukar : horvat:kuhar polski:kucharz englix:cook thai:gúk italia:cuoco doic:Koch ruski:kok indonesia:koki nipon:kokku  
 kul ← englix:cool  
 kuli ← amara:putonghan:kuli englix:coolie  
 kultur ←   
@@ -809,8 +817,8 @@ mitcin ← tagalog:bitsin indonesia:micin/pécin putonghan:wèijīng
 moda ←   
 model ← amara:englix:hanguk:model putonghan:mótèr nipon:moderu frans: espanya: portugal: doic: ruski:  
 mogu ← putonghan:mógū wuu:mugu  
-mol ← portugal:mole frans:mou,molle  
 moli ← putonghan:mòli hanguk:malli khmer:mlih indonesia:melati  
+mola ← espanya:moler ruski:molot' putonghan:mò  
 mongol ←   
 monster ← englix:doic:monster frans:monstre ruski:monstr portugal:monstro espanya:monstruo nipon:monsutā  
 moral ←   
@@ -1135,8 +1143,7 @@ suba den ←
 suba salam ←   
 suba yem ←   
 sud ←   
-sudafrika ←   
-sudan ←   
+suede ← englix:sweat sanskrit:sveda telugu:svēdamu + spa:sudor  
 suha ← hindi:urdu:sūkhā bangla:sukna ruski:suxoi polska:suchy  
 sui ← putonghan:shǔi hak:sui yuthan:sœi nipon:sui viet:thuỷ hanguk:turki:su  
 suk ← hindi:urdu:sukhî + thai:suk telugu:sukhamu + indonesia:suka minnan:su-kha + nipon:sukī  

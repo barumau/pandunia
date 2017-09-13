@@ -208,7 +208,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **me saba ta.** I know him/her.
 
-**kia ni saba sa yen?** Do you know that person?
+**kia ni saba sa jen?** Do you know that person?
 
 **kia nimen saba alise?** Do you know each other?
 
@@ -333,7 +333,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia ni nida yem?** Are you hungry?
 
-**kia ni nida sui?** Are you thirsty?
+**kia ni nida su?** Are you thirsty?
 
 
 
@@ -467,7 +467,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me mus go ke?** Where should I go?
 
-**me mus go ke yen?** To whom should I go?
+**me mus go ke jen?** To whom should I go?
 
 **haide go!** Let's go!
 
@@ -575,7 +575,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **me vol kira kap un gar.** I want to rent a car.
 
-**ta kira dar kamar do biznes yen.** He/she rents rooms to business people.
+**ta kira dar kamar do biznes jen.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -674,6 +674,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ha** have; there is <small>(Portuguese _há_)</small>  
 **habar** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
+**jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
@@ -712,7 +713,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ye** yes; to be <small>(English _yeah_)</small>  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  
-**yen** person <small>(Mandarin _rén_ 人)</small>  
 
 
 

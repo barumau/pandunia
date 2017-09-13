@@ -806,7 +806,9 @@ If the root word is a description, then its adjectival form will mean "that whic
 
 If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
 
-If the root is a thing, an object or a person, then its adjectival form will mean "that which is somehow related to the root". The definition is loose and it is meant to be loose.
+If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
+
+If the root is a place word, then it's adjectival form will mean "that which is from that place". Examples: **Iran**, **irani** = "Iranian".
 
 #### 11.1.4. Deriving nouns
 
