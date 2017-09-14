@@ -1043,7 +1043,7 @@ normal : norm (standard)
 nos : nose  
 not : notice (observe)  
 not buk : notebook  
-nova : new (novel)  
+novi : new (novel)  
 nud : naked (bare)  
 nul : zero (none)  
 nul jen : nobody (no-one)  
