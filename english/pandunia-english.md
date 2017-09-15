@@ -29,7 +29,7 @@ amper : ampere
 amuk : rage (fury)  
 analis : analyse  
 anime : animation (cartoon)  
-anjil : gospel
+anjil : gospel  
 anma : spirit (soul)  
 antena : antenna  
 anus : anus  
@@ -40,9 +40,11 @@ aranji : orange (orange-colored)
 arbuz : watermelon  
 arena : arena (stadium)  
 arhentina : Argentina
-armi : army  
+armia : army  
 arte : art  
-asal : origin  
+artar : artist  
+asle : origin  
+asli : original  
 asan : posture (asana)  
 asia : Asia  
 asket : ascetic  

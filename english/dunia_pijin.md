@@ -129,17 +129,17 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **me** = I, **yu** = you, **ta** = he, she. The first and second person pronouns **me** are borrowed from English "me" and "you", and re-spelled for Pandunia. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
+The basic personal pronouns of Pandunia are: **me** = I, **ni** = you, **ta** = he, she. The first person pronoun **me** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **ni** is from Mandarin and the Dravidian languages of India. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
 
 The possessive pronouns follow the pattern of Standard Chinese.
 
 | English | Pandunia | Chinese  |
 |---------|----------|----------|
 | my      | me ge    | wǒ de    |
-| your    | yu ge    | nǐ de    |
+| your    | ni ge    | nǐ de    |
 | his/her | ta ge    | tā de    |
 | our     | memen ge | wǒmen de |
-| your    | yumen ge | nǐmen de |
+| your    | nimen ge | nǐmen de |
 | their   | tamen ge | tāmen de |
 
 
@@ -148,7 +148,7 @@ The possessive pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me amor yu, yu amor me.
+    Pandunia:  me amor ni, ni amor me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)

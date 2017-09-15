@@ -72,7 +72,7 @@ arena ←
 armi ← frans:armée doic:Armei ruski:armiya englix:army hindi:urdu:ārmī  
 arte ← frans:portugal:espanya:arte englix:art  
 argentina ←   
-asal ← arabi:farsi:hindi:urdu:asl indonesia:asal  
+asle ← arabi:farsi:hindi:urdu:asl indonesia:asal  
 asan ← hindi:āsan englix:doic:ruski:asana  
 asia ←   
 asket ←   
@@ -775,7 +775,9 @@ max ← espanya:más portugal:mais sci:max-
 maxim ← englix:maximum   
 maxin ← frans:englix:machine indonesia:mesin  
 medalia ←   
-mede ← englix:help  
+mi ← englix:me fula:marati:mi swahili:mimi  
+memen ←   
+mede ← hindi:urdu:madad englix:mayday frans:aide  
 medi ←   
 medit ← englix:meditate espanya:meditar  
 medu ← tceska:med hun:méz hindi:urdu:madhu indonesia:madu yuthan:mat viet:mật  
@@ -795,14 +797,12 @@ meter ←
 metod ←   
 mexiko ←   
 meza ← espanya:portugal:mesa swahili:meza hindi:urdu:mez indonesia:meja  
-mi ← englix:me fula:marati:mi swahili:mimi  
 mien ← putonghan:miàn hak:mien yuthan:min viet:mì,miến nipon:men hanguk:myeon + indonesia:mi,mie thai:lao:mī  
 migan ← putonghan:mìgān nipon:mikan  
 mikro ←   
 mil ← hindi:urdu:milnā  
 mili ←   
 milke ← englix:milk doic:Milch hanguk:milkeu nipon:miruku lingala:míliki kongo::miliki  
-mimen ←   
 min ← sci:minus espanya:portugal:menos ruski:menše  
 minara ← hindi:urdu:minārā swahili:mnara turki:minare indonesia:menara  
 ming ← putonghan:míng hanguk:myeong nipon:mei  
