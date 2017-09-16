@@ -7,7 +7,7 @@
 
 [Phrases courantes](jumla.md)
 
-[Grammaire](baca_kanun.md)
+[Grammaire](bax_kanun.md)
 
 [Cours](darsa.md)
 
