@@ -528,7 +528,7 @@ jok ← englix:joke nipon:jōku
 jong ← putonghan:zhǒng hanguk:jong yuthan:zung nipon:shu  
 jovan ← farsi:hindi:urdu:javān italia:giovane portugal:jovem  
 judo ←   
-jumla ← arabi:urdu:jumla farsi:jomle turki:cümle + putonghan:jù  
+jumle ← arabi:urdu:jumla farsi:jomle turki:cümle + putonghan:jù  
 jungok ← putonghan:zhōngguǒ yuthan:zunggwok nipon:chūgoku indonesia:Tiongkok  
 jung ← putonghan:róng yuthan:yung  
 jup ← frans:jupe egy:farsi:žūp  

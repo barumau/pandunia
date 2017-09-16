@@ -5,7 +5,7 @@
 
 [Äänteet](abc.md)
 
-[Sana sanalta](jumla.md)
+[Sana sanalta](jumle.md)
 
 [Kielioppi](bax_kanun.md)
 

@@ -5,7 +5,7 @@
 
 [Spelling](abc.md)
 
-[Phrasebook](jumla.md)
+[Phrasebook](jumle.md)
 
 [Grammar](bax_kanun.md)
 

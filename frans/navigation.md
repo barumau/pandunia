@@ -5,11 +5,11 @@
 
 [Alphabet](abc.md)
 
-[Phrases courantes](jumla.md)
+[Phrases courantes](jumle.md)
 
 [Grammaire](bax_kanun.md)
 
-[Cours](darsa.md)
+[Cours](darse.md)
 
 [Vocabulaire]()
 
