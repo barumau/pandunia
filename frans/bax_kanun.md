@@ -10,21 +10,21 @@ Cette grammaire traite du types des mots et des différentes façons d'ordonner 
 ### 1.2.  Règles de base
 
 1. Tout mot est lu comme il est écrit. Aucune lettre n'est muette. Seul les lettres minuscules sont nécessaires.
-2. The stress accent is on the syllable before the last consonant of the word.
-3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
-5. Compound words are made by combining the elements that form them. The main word stands at the end.
-    - ex. **poste sanduk** = mailbox
-6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
-    - ex. **me penta meza.** = I paint tables.
-7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
-    - ex. **meza pentu.** = The table gets painted.
-8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **me cing ni dar pesa.** = I ask you to give money.
-9. Pronouns can be left out when they are obvious and redundant.
-    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Do you speak Pandunia?
-    - **me cing ni loga klar.** →  **cing loga klar.** = Please speak clearer.
+2. L'accentuation se fait sur la syllabe précédent la dernière consonne du mot.
+3. Les noms ne sont pas affectés par le nombre et le genre. Ils ne sont ni masculins ni féminin, et ni singulier ni pluriel, par défaut.
+4. Quand un adjectif est placé avant le nom, il fonctionne comme un modificateur. Quand il suit le nom, il fonctionne comme un verbe adjectival.
+    - ex. **bon pan** = bon pain. **ta bon** = Il (est) bon.
+5. On peut créer de nouveaux mots, des mots composés, en combinant plusieurs mots simple. Le mot principal, le signifiant demeure toujours à la fin. Ces nouveaux mots ne s'agglutinent pas (il y a un espace entre chaque partie).
+    - ex. **poste sanduk** = boîte aux lettre
+6. Les phrases avec un verbe actif ont un ordre sujet-verbe-objet. La plupart des verbes actifs se terminent par un **-a**.
+    - ex. **me penta meza.** = Je peints des tables.
+7. Une phrase avec un sens passif a seulement un sujet et un verbe. La plupart des verbes passif se terminent par un **-u**.
+    - ex. **meza pentu.** = Les tables sont en train d'être peintes.
+8. L'object d'un verbe transitif peut fonctionner comme le sujet du verbe suivant dans la phrase. Cette structure est appelé la _structure pivot_.
+    - ex. **me cing ni dar pesa.** = Je te demande de me donner de l'argent.
+9. Les pronoms peuvent être omis quand ils sont évidents et redondants.
+    - **me kia ni baxa pandunia?** → **kia ni baxa pandunia?** = Parles-tu Pandunia?
+    - **me cing ni loga klar.** →  **cing loga klar.** = S'il te plait, parles plus clairement.
 
 
 
