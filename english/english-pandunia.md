@@ -992,7 +992,7 @@ Nepal   : nepal
 Neptune   : neptun  
 net   : net  
 Netherlands   : nederland  
-new (novel)   : nova  
+new (novel)   : novi  
 news   : habar  
 newspaper (gazette)   : habar gazet  
 newton (N)   : nuton  
