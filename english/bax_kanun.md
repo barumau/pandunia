@@ -12,8 +12,8 @@ This grammar deals with the types of words and word order patterns in Pandunia. 
 1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
 2. The stress accent is on the syllable before the last consonant of the word.
 3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. When an adjective is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
-    - ex. **bon pan** = Good bread. **ta bon** = It (is) good.
+4. An adjective is placed before or after a noun and it works as a modifier.
+    - ex. **bon pan** = Good bread. **pan bon** = Bread good.
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
