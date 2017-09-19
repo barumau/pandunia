@@ -951,6 +951,7 @@ penis ←
 pensa ← espanya:portugal:pensar frans:penser  
 penta ← englix:paint frans:peindre espanya:portugal:pintar  
 pera ←   
+perda ← ruski:perdet' bangla:pada hindi:urdu:pād portugal:peider espanya:peer putonghan:pì  
 perfet ← portugal:perfeito italia:perfetto frans:parfait englix:perfect doic:perfekt espanya:perfecto polska:perfekcja  
 peri ← indonesia:turki:peri farsi:pari hanguk:peări englix:fairy  
 permis ← frans:permis espanya:portugal:permiso englix:permission  

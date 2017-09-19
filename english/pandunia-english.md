@@ -200,8 +200,7 @@ cing lay in! : Come in!
 cip : Albania  
 cis : cheese  
 cita : quote  
-coda : fuck (screw)  
-cok : lot (much, very)  
+coda : fuck  
 cokolat : chocolate  
 corab : sock (stocking)  
 cuka : vinegar  
@@ -303,7 +302,6 @@ dzayer : Algeria
 
 ##e  
 
-e : be  
 eglis : church  
 eho : echo  
 ekran : screen  
@@ -818,6 +816,8 @@ lulu : pearl
 luna : moon  
 lusun : asparagus  
 luta : rob (loot)  
+luza : lose (fail to win)  
+luzar : loser  
 
 ##m  
 
@@ -894,8 +894,12 @@ me : I (me)
 me ge : my  
 me ge lau : my parents  
 medalia : medallion (medal)  
-mede : help  
+
+mede : help (aid, assistance)  
+meda : help (assist)
+
 medi : mean (medium, average)  
+
 medita : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
@@ -910,6 +914,8 @@ memba : participate
 membar : member (participant)  
 meme : sheep  
 memen : we  
+memor : memory  
+memora : remember  
 men : bunch (collection)  
 mes : month  
 mes 1 (mes un) : January  
@@ -1104,7 +1110,7 @@ papaya : papaya
 paper : paper  
 par : top (highest part)  
 paraguai : Paraguay  
-parda : curtain  
+parde : curtain  
 pasa : pass (go by, go past)  
 paskal : pascal  
 pat : path  
@@ -1123,6 +1129,7 @@ penis : penis
 pensa : think  
 penta : paint  
 pera : pear  
+perda : fart (flatulate)  
 perfet : perfect  
 peri : fairy  
 permis : allow (permit)  
@@ -1204,7 +1211,7 @@ ramazan : Ramadan
 randa : plane (plane tool)  
 rang : color  
 rapid : fast (quick)  
-rase : race (ethnicity)  
+ras : race (ethnicity)  
 rasisme : racism  
 raste : growth  
 rastu : grow  
@@ -1408,13 +1415,13 @@ tekne : technique (technology)
 tekne lojia : technology (study of techniques)  
 tela : cloth (fabric, textile)  
 tele : distant (tele-)  
-tem : topic (theme)  
-tema : be about  
+tem : topic (subject, theme)  
+tema : be about (discuss as a subject)  
 ten : hold (grasp)  
 tenci : weather  
 tenis : tennis  
 tenta : tempt (entice)  
-teori : theory  
+teore : theory  
 tep : tape  
 teror : terror  
 terorisme : terrorism  
@@ -1431,6 +1438,7 @@ tim : team
 tin : can (tin can)  
 tira : pull  
 tiran : tyrant  
+tirania : tyranny  
 titan : titanium  
 to : so (then, therefore)  
 toca : touch  
@@ -1443,6 +1451,7 @@ top : gun
 topi : hat (cap)  
 tortuga : turtle (tortoise)  
 tot : whole (entire, all)  
+total : total (affecting all)  
 tren : train  
 tren dau : railway (railroad)  
 tualet : toilet (WC)  
@@ -1576,15 +1585,16 @@ xifu : master (sensei)
 xigo : accident (mishap)  
 xik : elegant (chic)  
 xim : heart  
-xin : believe (faith, creed)  
+xin : belief (faith, creed)  
+xina : believe  
 xir : poem  
+xirar : poet  
 xirop : syrup  
 xok : shock (collide)  
 xula : repair (fix)  
 
 ##y  
 
-yad : memory  
 yak : yak  
 yakin : certain (sure)  
 yala : hurry (hasten)  
