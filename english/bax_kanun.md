@@ -145,9 +145,10 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 
 > **un tara** - one star  
 > **du tara** - two stars  
-> **sam tara** - three stars  
-> **xau tara** - few stars  
-> **poli tara** - many stars
+> **sam tara** - three stars
+> **poli tara** - several stars (two or more)
+> **xau tara** - few stars
+> **multi tara** - many stars
 
 > **un dai meza** - one big table  
 > **du dai kursi** - two big chairs  
