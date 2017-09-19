@@ -217,9 +217,9 @@ Pronouns can substitute thing-words and phrases of thing-words.
 
 Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
-**me vida se** - I see myself.
-**ta vida se** - She sees herself. / He sees himself.
-**memen vida se.** - We see ourselves.
+**me vida se** - I see myself.  
+**ta vida se** - She sees herself. / He sees himself. / It sees itself.  
+**memen vida se.** - We see ourselves.  
 
 
 ### 5.2. Demonstrative pronouns
@@ -245,7 +245,7 @@ The demonstrative pronouns work like modifiers.
 
 > **ke?** - Who or what?  
 > **ke xe?** - What? (Which thing?)  
-> **ke yen?** - Who? (Which person?)  
+> **ke jen?** - Who? (Which person?)  
 > **ke sat?** - When? (What time?)  
 > **ke yang?** - How? (What manner?)  
 > **ke koz?** - Why? (What cause?)  
