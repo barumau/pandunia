@@ -83,10 +83,10 @@ An adjective is a word that adds a particular quality for a noun. In Pandunia ad
 > **alti meza** - high table
 > **bon kursi** - good chair
 
-Adjectives can be also after the noun.
+Adjectives can be also after the noun, there they work as adjectival verbs.
 
-> **batu day.** - stone big  
-> **meza alti.** - table high
+> **batu day.** - stone (is) big  
+> **meza alti.** - table (is) high
 
 Naturally there can be modifiers on both sides of the noun as well.
 
