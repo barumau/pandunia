@@ -62,9 +62,9 @@ Some words carry _natural gender_. For example **fem** (woman) is feminine and *
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **surya guang** - sun light  
-> **luna guang** - moon light  
-> **luna batu** - moon stone
+> **surya guang** - sunlight  
+> **luna guang** - moonlight  
+> **luna batu** - moonstone
 
 --------------------------------------------------------------------------------
 
