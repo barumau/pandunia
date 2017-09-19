@@ -235,7 +235,7 @@ The distance to the speaker can be specified by adding words **jin** (near) and 
 The demonstrative pronouns work like modifiers.
 
 > **sa batu.** - That stone  
-> **sa e batu.** - That is a stone.  
+> **sa ye batu.** - That is a stone.  
 > **sa batu cung.** - That stone is heavy.  
 
 
