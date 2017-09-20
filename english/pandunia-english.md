@@ -8,8 +8,6 @@ afrikan [a] African
 agres [n] agression (assault)  
 ah [int] argh!  
 aha [v] understand (realize)  
-ai [int] alas! (ouch!)  
-aine [n] mirror  
 ajil [a] agile  
 aka [n] brother or sister  
 akse [n] axis  
@@ -60,6 +58,8 @@ auda [v] hear (listen)
 australia [n] Australia  
 avar [n] damage (wreck)  
 ayiti [n] Haiti  
+ay [int] alas! (ouch!)  
+ayne [n] mirror  
 
 ##b  
 
@@ -80,7 +80,7 @@ balu [n] sand
 bama [n] Myanmar (Burma)  
 bambu [n] bamboo  
 ban [n] child (offspring)  
-ban ge lau [n] parents  
+ban ge law [n] parents  
 bana [v] build (construct)  
 banana [n] banana  
 banda [v] bind  
@@ -246,7 +246,7 @@ darse ban [n] student (pupil)
 darse guru [n] teacher  
 darse kan [n] school (institution)  
 darzar [n] tailor  
-dau [n] way (road)  
+daw [n] way (road)  
 dawa [n] drug (medicine)  
 dawa kan [n] drugstore (pharmacy)  
 day [a] big  
@@ -329,8 +329,6 @@ europan unia [n] European Union (EU)
 
 ##f  
 
-faide [n] use (utility, benefit)  
-fain [a] fine (delicate)  
 faktar [n] factor (agent, actor)  
 famil [n] family  
 famil nam [n] surname (family name)  
@@ -350,6 +348,8 @@ faxe [n] bundle
 faxisme [n] fascism  
 faxiste [n] fascist  
 fay [n] fire  
+fayde [n] use (utility, benefit)  
+fayn [a] fine (delicate)  
 feber [n] fiever  
 feya [v] fly  
 fek [n] feces (poop)  
@@ -419,7 +419,7 @@ garam [a] warm
 garante [n] guarantee  
 gardin [n] garden  
 gas [n] gas  
-gaun [n] dress  
+gawn [n] dress (gown)  
 gaw [a] high  
 gayana [n] Guyana  
 gaze [n] gauze  
@@ -470,8 +470,6 @@ ha [n] have
 habar [n] news  
 habar gazet [n] newspaper (gazette)  
 haha [int] laugh  
-hai [n] still (yet)  
-haida [n] let's  
 hak [n] right (justification, privilege)  
 hakim [n] judgment (sentence)  
 hakim guru [n] judge (referee)  
@@ -493,6 +491,8 @@ hata [adv] even (intensifier)
 hatar [n] danger (peril)  
 hatari [a] dangerous  
 hawa [n] air  
+hay [n] still (yet)  
+hayda [n] let's  
 hazar [n] hazard  
 hazari [a] random  
 hazin [n] treasure (treasury)  
@@ -546,7 +546,7 @@ in [n] inside (interior)
 indonesia [n] Indonesia  
 informa [v] inform (communicate)  
 informe [n] information  
-ingai [v] should (ought) 
+ingay [v] should (ought) 
 injenar [n] engineer  
 inji [n] ginger  
 inspira [v] inspire (inspiration)  
@@ -614,7 +614,7 @@ juxa [v] inject
 ##k  
 
 ka [pr] like (as, as if, than)  
-kabau [n] water buffalo  
+kabaw [n] water buffalo  
 kabil [a] able (capable)  
 kabila [n] tribe  
 kabin [n] cabin (booth)  
@@ -624,12 +624,9 @@ kafe [n] coffee
 kafe kan [n] cafe (coffee shop)  
 kafe kop [n] coffee cup  
 kafi [a] brown (coffee-colored)  
-kay [a] open (not closed)  
-kaya [v] open  
-kaixa [v] begin (commence)  
 kak [n] excrement (shit)  
 kaka [v] defecate (shit)  
-kakau [n] cocoa  
+kakaw [n] cocoa  
 kal [a] black  
 kalam [n] pen  
 kalsium [n] calcium (Ca)  
@@ -667,6 +664,9 @@ kava [v] dig (excavate)
 kave [n] pit (excavation)  
 kawayi [a] cute  
 kaxa [n] porridge  
+kay [a] open (not closed)  
+kaya [v] open  
+kayxa [v] begin (commence)  
 kazu [n] event (case, instance)  
 ke [pn] what?  
 ke yang? [fr] how?  
@@ -846,8 +846,6 @@ magar [n] magician (sorcerer)
 magia [n] magic  
 magnet [n] magnet  
 magneti [a] magnetic  
-maidan [n] square (plaza)  
-mais [n] corn (maize)  
 maju [n] harness  
 makala [n] article (writing)  
 makan [n] butter  
@@ -855,7 +853,7 @@ makas [n] scissors
 makedonia [n] Macedonia  
 mal [n] property (possession)  
 mali [a] financial  
-malaisia [n] Malaysia  
+malaysia [n] Malaysia  
 malaria [n] malaria  
 mam [n] breast (boob)  
 mama [n] mother (mom)  
@@ -895,13 +893,15 @@ matras [n] mattress
 matur [a] mature (ripe, adult)  
 matur fem [n] woman (adult female)  
 matur man [n] man (adult male)  
-mau [n] cat  
 max [adv] more  
 max ka bas [adv] too much  
 maxi [a] additional  
 maxim [adv] most (maximally)  
 maximi [a] maximal  
 maxin [n] machine  
+maw [n] cat  
+maydan [n] square (plaza)  
+mays [n] corn (maize)  
 me [pr] I (me)  
 me ge [pr] my  
 me ge law [n] my parents  
@@ -1020,7 +1020,6 @@ nabi [n] prophet
 nadi [n] river  
 nafas [n] breath  
 nahun [n] nail (fingernail)  
-naijiria [n] Nigeria  
 nale [n] tomorrow  
 nam [n] name  
 nama [v] call (give name)  
@@ -1029,7 +1028,8 @@ nano [num] nano-
 narak [n] hell  
 nas [n] people (folk)  
 nasia [n] nation  
-nau [n] brain  
+naw [n] brain  
+nayjiria [n] Nigeria  
 nederland [n] Netherlands  
 nen [n] year  
 nen feste [n] anniversary  
@@ -1089,14 +1089,13 @@ or [n] ear
 ordu [n] horde (wandering troop)  
 orgazme [n] orgasm  
 oskur [a] dark (dim)  
-osteraih [n] Austria  
+osterayh [n] Austria  
 
 ##p  
 
 pa [n] father  
 paban [n] board (plank)  
 pagri [n] turban  
-pai [n] pie (pastry)  
 pak [n] pack (package)  
 paka [v] pack  
 paket [n] packet  
@@ -1118,21 +1117,23 @@ panik [n] panic
 pantalon [n] pants (trousers)  
 panyo [n] friend  
 papa [n] father (dad)  
-papagai [n] parrot (parakeet)  
+papagay [n] parrot (parakeet)  
 papaya [n] papaya  
 paper [n] paper  
 par [n] top (highest part)  
-paraguai [n] Paraguay  
+paraguay [n] Paraguay  
 parde [n] curtain  
 pasa [v] pass (go by, go past)  
 paskal [n] pascal  
 pat [n] path  
-paunde [n] pound (£)  
-paus [n] pause (break, interruption)  
+pawnde [n] pound (£)  
+paws [n] pause (break, interruption)  
+pawsa [v] pause (interrupt)  
 paxa [v] hurt  
 paxi [a] painful  
 paxia [n] suffering (passion)  
 paxu [v] suffer (get hurt)  
+pay [n] pie (pastry)  
 ped [n] foot  
 pey [n] payment  
 peya [v] pay  
@@ -1213,7 +1214,7 @@ pulo [n] island
 punt [n] point (full stop)  
 pupe [n] doll (puppet)  
 puru [n] feather  
-putau [n] grape  
+putaw [n] grape  
 putong [a] common (universal)  
 putong han [n] Mandarin Chinese (Putonghua)  
 puxa [v] push  
@@ -1310,6 +1311,7 @@ sapat [n] shoe
 sar [n] head  
 sar gut [n] skull  
 sat [n] time of day (moment)  
+sawna [n] sauna  
 se [pr] self  
 sekretar [n] secretary  
 seksa [v] have sex  
@@ -1414,8 +1416,6 @@ tabar [n] axe (hatchet)
 tabel [n] table (matrix)  
 tabia [n] nature (environment)  
 tabial [a] environmental  
-tai [n] Thai (Thailand)  
-taiga [n] taiga  
 taksi [n] taxi  
 taktik [n] tactics (strategy)  
 tal [n] bottom  
@@ -1429,8 +1429,10 @@ tanzania [n] Tanzania
 tap [n] tap (stopper)  
 tara [n] star  
 tatu [n] tattoo  
-taula [n] towel  
+tawla [n] towel  
 tava [n] frying pan  
+tay [n] Thai (Thailand)  
+tayga [n] taiga  
 tazi [a] fresh  
 tekne [n] technique (technology)  
 tekne lojia [n] technology (study of techniques)  
@@ -1475,7 +1477,7 @@ tortuga [n] turtle (tortoise)
 tot [a] whole (entire, all)  
 total [a] total (affecting all)  
 tren [n] train  
-tren dau [n] railway (railroad)  
+tren daw [n] railway (railroad)  
 tualet [n] toilet (WC)  
 tub [n] tube (pipe)  
 tufan [n] storm (tempest)  
@@ -1510,7 +1512,7 @@ unia [n] union
 uran [n] Uranus  
 uranium [n] uranium  
 urdun [n] Jordan  
-uruguai [n] Uruguay  
+uruguay [n] Uruguay  
 usamerika [n] US America  
 uza [v] use  
 uzar [n] user  
@@ -1539,7 +1541,7 @@ vero [adv] truly (really)
 verme [n] worm  
 vida [v] look (see)  
 vide [n] view (vision)  
-vide maidan [n] visual field (field of vision)  
+vide maydan [n] visual field (field of vision)  
 video [n] video  
 viet [n] Vietnam  
 viman [n] airplane  
@@ -1565,8 +1567,8 @@ wa [int] wow! (gee!)
 wada [v] promise (commit)  
 waf [n] dog  
 waha [n] oasis  
-wai [n] outside (exterior)  
-wai gok [n] foreign country  
+way [n] outside (exterior)  
+way gojia [n] foreign country  
 wakila [v] represent  
 wan [n] bowl (earless cup)  
 wang [n] yellow  
@@ -1603,7 +1605,7 @@ xaria [n] shari'a
 xatan [n] devil (Satan)  
 xatani [a] devilish (satanic)  
 xatur [n] chess  
-xau [n] few (little)  
+xaw [n] few (little)  
 xaxa [v] rustle  
 xe [n] thing  
 xefe [n] chief (boss)  
@@ -1612,7 +1614,7 @@ xefi [a] main
 xia [n] under (below)  
 xifu [n] master (sensei)  
 xigo [n] accident (mishap)  
-xik [n] elegant (chic)  
+xik [a] elegant (chic)  
 xim [n] heart  
 xin [n] belief (faith, creed)  
 xina [v] believe  
@@ -1620,6 +1622,8 @@ xir [n] poem
 xirar [n] poet  
 xirop [n] syrup  
 xok [n] shock (collision)  
+xow [n] show  
+xowa [v] show (display)  
 xula [v] repair (fix)  
 
 ##y  
@@ -1644,7 +1648,7 @@ yo xe [n] something
 yod [n] iodine  
 yoga [n] yoga  
 yoni [n] vagina  
-yosai [n] fortress (stronghold)  
+yosay [n] fortress (stronghold)  
 yumor [n] humor  
 yungam [a] brave (courageous)  
 yureka [v] find (discover)  
@@ -1652,12 +1656,12 @@ yureka [v] find (discover)
 ##z  
 
 zafran [n] saffron  
-zaitun [n] olive  
 zalim [a] mean (cruel)  
 zaman [n] period (age, epoch)  
 zambia [n] Zambia  
 zardux [n] Zoroaster  
 zardux din [n] Zoroastrianism  
+zaytun [n] olive  
 ze [pr] from (since)  
 ziba [v] plug (stop with a plug)  
 zibula [v] unplug (uncork)  
