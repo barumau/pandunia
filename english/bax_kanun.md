@@ -362,7 +362,7 @@ In passive sentence there is only object and verb but no subject (i.e. agent).
 
 > **me vidu.** - I am seen.  
 > **pan baku.** - Bread is baked.  
-> **kop kasaru.** - Cup breaks. (Cup gets broken.)
+> **kop kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
 
