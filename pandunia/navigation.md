@@ -2,7 +2,10 @@
 
 [gimmick:theme](readable)
 
-[kate](baru_ge_dant.md)
+[histor]()
+
+  * [baru ban ge dante tung](baru_ge_dant.md)
+  * [sam liti goro](3_liti_goro.md)
 
 [piper i karot](piper_i_karot.md)
 
@@ -10,6 +13,6 @@
 
 [loge liste]()
 
-  * [gok nam](gok_nam.md)
+  * [gojia nam](gok_nam.md)
   * [loge asle](loge_asle.md)
 
