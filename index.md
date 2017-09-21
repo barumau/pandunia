@@ -18,6 +18,8 @@
 
 ![](http://pandunia.info/kuvat/id.png) ![](http://pandunia.info/kuvat/my.png) [Belajar bahasa Pandunia dalam bahasa Melayu/Indonesia](malayu/index.md)
 
+![](http://pandunia.info/kuvat/pl.png)[Poznaj Pandunię w języku polskim](polski/index.md)
+
 ![](http://pandunia.info/kuvat/eo.gif) [Lernu pandunion esperante](esperanto/index.md)
 
 ![](http://pandunia.info/kuvat/fi.png) [Tutustu panduniaan suomeksi](suomi/index.md)
