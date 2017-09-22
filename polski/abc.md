@@ -54,8 +54,8 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach które kończą się spółgłoską. Np. koMUN, baZAR, kaMIS.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. DUnia, meLOdi
 
-> **dúnia ye memén ge sundár planét.**  
-> **mé vól lóga komún báxa yáni pandúnia.**  
+> **dúnia si mimén ge sundár planét.**  
+> **mí vól lóga komún báx yáni pandúnia.**  
 
 
 ### Szwa
@@ -103,6 +103,6 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach formalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **me vida ni :)** = Ja widzę cię.  
-> **me no vida ni :(** = Ja nie widzę się.
+> **mi vida tu :)** = Ja widzę cię.  
+> **mi no vida tu :(** = Ja nie widzę się.
 

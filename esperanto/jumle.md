@@ -29,69 +29,69 @@
 
 
 
-### me <small>mi</small>
+### mi <small>mi</small>
 
-**me salama mama.** Mi salutas patrinon.
+**mi salama mama.** Mi salutas patrinon.
 
-**me salama papa.** Mi salutas patron.
+**mi salama papa.** Mi salutas patron.
 
 **salam mama!** Saluton, partino!
 
 **salam papa!** Saluton, patro!
 
-**memen salama mama.** Ni salutas patrinon.
+**mimen salama mama.** Ni salutas patrinon.
 
 
 
-### ni <small>ni (singulare)</small>
+### tu <small>vi (singulare)</small>
 
-**me salama ni.** Mi salutas vin.
+**mi salama tu.** Mi salutas vin.
 
-**ni salama me.** Vi salutas min.
+**tu salama mi.** Vi salutas min.
 
-> Notu! La baza vortordo estas subjekto-verbo-objekto. Vortoj neniam ŝanĝiĝas en pandunio. Do **me** havas la saman formon kiel subjekto kaj kiel objekto.
+> Notu! La baza vortordo estas subjekto-verbo-objekto. Vortoj neniam ŝanĝiĝas en pandunio. Do **mi** havas la saman formon kiel subjekto kaj kiel objekto.
 
-**salam ni!** Saluton al vi!
+**salam tu!** Saluton al vi!
 
-> Notu! **ni** signifas nur unu personon. La plurala formo estas **nimen**.
+> Notu! **tu** signifas nur unu personon. La plurala formo estas **tumen**.
 
-**me salama nimen.** Mi salutas vin ĉiujn.
+**mi salama tumen.** Mi salutas vin ĉiujn.
 
-**salam nimen!** Saluton al vi ĉiuj!
-
-
-
-### ye <small>esti</small>
-
-**me ye tomas.** Mi estas Tomas.
-
-**ni ye sara.** Vi estas Sara.
-
-**mau ye hewan.** Kato estas besto.
-
-> Notu! Ankaŭ **ye** ŝanĝiĝas neniam. Do **ye** kovras ĉiuj formoj de esti: _estas, estos, estis, estus_! Adicie oni povas forlasi ĝin en simplaj, mallongaj frazoj post pronomoj kiel **me** kaj **ni**.
-
-**me sara.** Mi (estas) Sara.
-
-**ni tomas.** Vi (estas) Tomas.
+**salam tumen!** Saluton al vi ĉiuj!
 
 
 
-### ta <small>li, ŝi, ĝi</small>
+### si <small>esti</small>
 
-**ta ye fem.** Ŝi estas virino.
+**mi si tomas.** Mi estas Tomas.
 
-**ta ye man.** Li estas viro.
+**tu si sara.** Vi estas Sara.
 
-**ta ye pingo.** Ĝi estas pomo.
+**mau si hewan.** Kato estas besto.
 
-> Notu! **ta** estas ĝenerala pronomo de tria persono. La plurala vorto estas **tamen**.
+> Notu! Ankaŭ **si** ŝanĝiĝas neniam. Do **si** kovras ĉiuj formoj de esti: _estas, estos, estis, estus_! Adicie oni povas forlasi ĝin en simplaj, mallongaj frazoj post pronomoj kiel **mi** kaj **tu**.
 
-**tamen ye pingo.** Ili estas pomoj.
+**mi sara.** Mi (estas) Sara.
 
-**memen salam tamen.** Ni salutas ilin.
+**tu tomas.** Vi (estas) Tomas.
 
-**memen salam nimen.** Ni salutas vin ĉiujn.
+
+
+### ye <small>li, ŝi, ĝi</small>
+
+**ye si fem.** Ŝi estas virino.
+
+**ye si man.** Li estas viro.
+
+**ye si pingo.** Ĝi estas pomo.
+
+> Notu! **ye** estas ĝenerala pronomo de tria persono. La plurala vorto estas **yemen**.
+
+**yemen si pingo.** Ili estas pomoj.
+
+**mimen salam yemen.** Ni salutas ilin.
+
+**mimen salam tumen.** Ni salutas vin ĉiujn.
 
 
 
@@ -99,25 +99,25 @@
 
 **ke?** Kion?
 
-**ni ye ke?** Kiu vi estas?
-**me ye tomas.** Mi estas Tomaso.
+**tu si ke?** Kiu vi estas?
+**mi si tomas.** Mi estas Tomaso.
 
-**ta ye ke?** Kiu ŝi estas?
-**ta ye sara.** Ŝi estas Sara.
+**ye si ke?** Kiu ŝi estas?
+**ye si sara.** Ŝi estas Sara.
 
-**nimen ye ke?** Kiuj vi estas?
+**tumen si ke?** Kiuj vi estas?
 
-**tamen ye ke?** Kiuj ili estas?
+**yemen si ke?** Kiuj ili estas?
 
 
 
 ### sa <small>tiu, tio</small>
 
-**sa ye ke? / ke ye sa?** Kio estas tio?
+**sa si ke? / ke si sa?** Kio estas tio?
 
-**sa ye pingo.** Tio estas pomo.
+**sa si pingo.** Tio estas pomo.
 
-**sa ye ros pingo.** Tio estas ruĝa pomo.
+**sa si ros pingo.** Tio estas ruĝa pomo.
 
 **sa pingo ros.** Tiu pomo ruĝas.
 
@@ -126,60 +126,60 @@
 
 ### nam <small>nomo</small>
 
-**ni nam ke?** Kio estas via nomo?
+**tu nam si ke?** Kio estas via nomo?
 
-**me nam tomas.** Mia nomo estas Tomaso.
+**mi nam si tomas.** Mia nomo estas Tomaso.
 
-**ta nam ke?** Kio estas ŝia nomo?
+**ye nam si ke?** Kio estas ŝia nomo?
 
-**ta nam sara.** Ŝia nomo estas Sara.
+**ye nam si sara.** Ŝia nomo estas Sara.
 
 
 
 ### kia <small>demandi, ĉu</small>
 
-**kia ni ye tomas?** Ĉu vi estas Tomaso?
+**kia tu si tomas?** Ĉu vi estas Tomaso?
 
-**kia ni ye doktor?** Ĉu vi estas doktoro?
+**kia tu si doktor?** Ĉu vi estas doktoro?
 
-> Notu! Demandoj ofte komencas per **kia**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **me kia ni ye doktor.** (Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
+> Notu! Demandoj ofte komencas per **kia**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi kia tu si doktor.** (Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
 
-**kia ni bon?** Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
-**me bon.** Mi fartas bone.  
-**kia ni?** Kaj vi?  
-**me no bon.** Mi ne fartas bone.
+**kia tu bon?** Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
+**mi bon.** Mi fartas bone.  
+**kia tu?** Kaj vi?  
+**mi no bon.** Mi ne fartas bone.
 
 
 
 ### ha <small>havi</small>
 
-**me ha bon dom.** Mi havas bonan domon.
+**mi ha bon dom.** Mi havas bonan domon.
 
-**ta no ha pesa.** Li/ŝi ne havas mono.
+**ye no ha pesa.** Li/ŝi ne havas mono.
 
-**me vol ha nova fon.** Mi volas havi novan telefonon.
+**mi vol ha nova fon.** Mi volas havi novan telefonon.
 
-**kia ni ha ban?** Ĉu vi havas infanojn?  
-**me ha du ban.** Mi havas du infanojn.
+**kia tu ha ban?** Ĉu vi havas infanojn?  
+**mi ha du ban.** Mi havas du infanojn.
 
 
 
-### ye <small>jes</small>
+### si <small>jes</small>
 
-**kia ni bon?** Ĉu vi fartas bone?
-**ye. me bon.** Jes, mi fartas bone.
+**kia tu bon?** Ĉu vi fartas bone?
+**si. mi bon.** Jes, mi fartas bone.
 
 **kia ha doktor?** Ĉu estas doktoro?
-**ye. ta ye doktor.** Jes. Ŝi/li estas doktoro.
+**si. ye si doktor.** Jes. Ŝi/li estas doktoro.
 
 **kia ha vin?** Ĉu vi havas vinon?
-**ye. bai i ros.** Jes, blankan kaj ruĝan.
+**si. bai i ros.** Jes, blankan kaj ruĝan.
 
 
 
 ### no <small>ne</small>
 
-**me no doktor.** Mi no estas doktoro.
+**mi no doktor.** Mi no estas doktoro.
 
 **sa man no doktor.** Tiu viro ne estas doktoro.
 
@@ -189,35 +189,35 @@
 
 ### saba <small>scii, koni</small>
 
-**me saba ta.** Mi konas lin/ŝin.
+**mi saba ye.** Mi konas lin/ŝin.
 
-**kia ni saba sa jen?** Ĉu vi konas tiun personon?
+**kia tu saba sa jen?** Ĉu vi konas tiun personon?
 
-**kia nimen saba alise?** Ĉu vi konas unu la alian?
+**kia tumen saba alise?** Ĉu vi konas unu la alian?
 
-**memen saba alise ze long.** Ni konas unu la alian longe.
+**mimen saba alise ze long.** Ni konas unu la alian longe.
 
 
 
 ### ge <small>(poseda partikulo)</small>
 
-**ta ye me ge mama.** Ŝi estas mia patrino.
+**ye si mi ge mama.** Ŝi estas mia patrino.
 
-**ta ye me ge man.** Li estas mia spozo.
+**ye si mi ge man.** Li estas mia spozo.
 
-**ta ye me ge fem.** Ŝi estas mia spozino.
+**ye si mi ge fem.** Ŝi estas mia spozino.
 
-**tomas ye sara ge panyo.** Tomaso estas amiko de Sara.
+**tomas si sara ge panyo.** Tomaso estas amiko de Sara.
 
 
 
 ### mede <small>helpi</small>
 
-**me neses mede.** Mi bezonas helpon.
+**mi neses mede.** Mi bezonas helpon.
 
-**kia ni ken mede me?** Ĉu vi povas helpi min?
+**kia tu ken mede mi?** Ĉu vi povas helpi min?
 
-**kia me ken mede ni?** Ĉu mi povas helpi vin?
+**kia mi ken mede tu?** Ĉu mi povas helpi vin?
 
 
 
@@ -227,49 +227,49 @@
 
 ### yem <small>manĝi, trinki</small>
 
-**kia ni vol yem koi?** Ĉu vi volas manĝi ion?
+**kia tu vol yem koi?** Ĉu vi volas manĝi ion?
 
-**ta yem pingo.** Li/ŝi manĝas pomon.
+**ye yem pingo.** Li/ŝi manĝas pomon.
 
-**tamen yem pingo.** Ili manĝas pomojn.
+**yemen yem pingo.** Ili manĝas pomojn.
 
 > Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **pingo** indikas unu aŭ multajn pomojn.
 
-**kia ni yem kafe?** Ĉu vi trinkas kafon?
+**kia tu yem kafe?** Ĉu vi trinkas kafon?
 
-**me yem kafe.** Mi trinkas kafon.
+**mi yem kafe.** Mi trinkas kafon.
 
 > Notu! Signifo de **yem** kovras manĝadon kaj trinkadon.
 
-**me yem kafe i pan.** Mi manĝas kafon kaj panon.
+**mi yem kafe i pan.** Mi manĝas kafon kaj panon.
 
 
 
 ### vol <small>voli</small>
 
-**kia ni vol yem?** Ĉu vi volas manĝi?
+**kia tu vol yem?** Ĉu vi volas manĝi?
 
-**ni vol yem ke?** Kion vi volas manĝi?
+**tu vol yem ke?** Kion vi volas manĝi?
 
 > Notu! En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**me vol yem kafe.** Mi volas trinki kafon.
+**mi vol yem kafe.** Mi volas trinki kafon.
 
-**kia ni vol yem ca?** Ĉu vi volas trinki teon?  
-**no. me no vol ca. me vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
+**kia tu vol yem ca?** Ĉu vi volas trinki teon?  
+**no. mi no vol ca. mi vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
 
-**ni vol ke pingo?** Kiun pomon vi volas manĝi?  
+**tu vol ke pingo?** Kiun pomon vi volas manĝi?  
 **sa ros.** Tiun ruĝan.
 
 
 
 ### cing <small>peti</small>
 
-**me cing ni yem ca.** Mi petas ke vi trinku teon.
+**mi cing tu yem ca.** Mi petas ke vi trinku teon.
 
-**me cing ni lai dom.** Mi petas ke vi venu hejmen.
+**mi cing tu lai dom.** Mi petas ke vi venu hejmen.
 
-**me cing ni mede me.** Mi petas ke vi helpu min.
+**mi cing tu mede mi.** Mi petas ke vi helpu min.
 
 > Notu! Faru mallongajn petojn forlasante la pronomojn.
 
@@ -279,7 +279,7 @@
 
 **cing lai dom.** Bonvolu veni hejmen!
 
-**cing mede me.** Bonvolu helpi min.
+**cing mede mi.** Bonvolu helpi min.
 
 
 
@@ -287,15 +287,15 @@
 
 **danke!** Dankon!
 
-**danka ni.** Dankon al vi.
+**danka tu.** Dankon al vi.
 
-**me danka ni.** Mi dankas vin.
+**mi danka tu.** Mi dankas vin.
 
-**me danka ni mede me.** Mi dankan vin pro helpi min.
+**mi danka tu mede mi.** Mi dankan vin pro helpi min.
 
-**danka ni mede me.** Dankon pro helpi min.
+**danka tu mede mi.** Dankon pro helpi min.
 
-**ni keci.** Nedankinde. (Laŭvorte: Vi ĝentila._)
+**tu keci.** Nedankinde. (Laŭvorte: Vi ĝentila._)
 
 
 
@@ -311,13 +311,13 @@
 
 ### nida <small>bezoni</small>
 
-**me nida mede.** Mi bezonas helpon.
+**mi nida mede.** Mi bezonas helpon.
 
-**me nida yem.** Mi bezonas manĝi.
+**mi nida yem.** Mi bezonas manĝi.
 
-**kia ni nida yem?** Ĉu vi bezonas manĝi?
+**kia tu nida yem?** Ĉu vi bezonas manĝi?
 
-**kia ni nida su?** Ĉu vi bezonas trinki (akvon)?
+**kia tu nida su?** Ĉu vi bezonas trinki (akvon)?
 
 
 
@@ -327,83 +327,83 @@
 
 ### maf <small>pardono</small>
 
-**maf! me no aha.** Pardonon, mi no komprenas.
+**maf! mi no aha.** Pardonon, mi no komprenas.
 
 **maf! sa ke?** Pardonon, kio estas tio?
 
-**maf. ni nam ke?** Pardonon, kio estas via nomo?
+**maf. tu nam ke?** Pardonon, kio estas via nomo?
 
 
 
 ### aha <small>kompreni</small>
 
-**kia ni aha me?** Ĉu vi komprenas min?
+**kia tu aha mi?** Ĉu vi komprenas min?
 
-**me aha.** Mi komprenas.
+**mi aha.** Mi komprenas.
 
-**maf. me no aha ni.** Pardonon, mi ne komprenas vin.
+**maf. mi no aha tu.** Pardonon, mi ne komprenas vin.
 
-**me no bas aha ni.** Mi ne sufiĉe komprenis vin.
+**mi no bas aha tu.** Mi ne sufiĉe komprenis vin.
 
-**me aha nul.** Mi komprenas nenion.
+**mi aha nul.** Mi komprenas nenion.
 
 
 
 ### ken <small>povi</small>
 
-**me ken gida gar.** Mi povas konduki aŭton.
+**mi ken gida gar.** Mi povas konduki aŭton.
 
-**ta no ken gida gar.** Ŝi/li ne povas konduki aŭton.
+**ye no ken gida gar.** Ŝi/li ne povas konduki aŭton.
 
-**kia ni ken xula ta?** Ĉu vi povas ripari ĝin?
+**kia tu ken xula ye?** Ĉu vi povas ripari ĝin?
 
-**kia ni ken pandunia?** Ĉu vi povas paroli pandunion?
+**kia tu ken pandunia?** Ĉu vi povas paroli pandunion?
 
-**me ken pandunia.** Mi povas pandunion.
+**mi ken pandunia.** Mi povas pandunion.
 
-**me ken xau pandunia.** Mi povas ete pandunion.
+**mi ken xau pandunia.** Mi povas ete pandunion.
 
-**me no ken englix.** Mi ne povas paroli la anglan.
+**mi no ken englix.** Mi ne povas paroli la anglan.
 
-**maf. me no ken ni ge baxa.** Pardonon, mi ne povas paroli vian lingvon.
+**maf. mi no ken tu ge baxa.** Pardonon, mi ne povas paroli vian lingvon.
 
 
 
 ### loga <small>diri, paroli</small>
 
-**ni loga ke?** Kion vi diris?
+**tu loga ke?** Kion vi diris?
 
-**me loga do ni.** Mi parolas al vi.
+**mi loga do tu.** Mi parolas al vi.
 
-**memen loga do alise.** Ni parolas unu al alia.
+**mimen loga do alise.** Ni parolas unu al alia.
 
 **se loga ke yang bi pandunia ki "kato"?** Kiel oni diras "kato" pandunie?
 
-**"kato" ye ke bi pandunia?** Kio estas "kato" pandunie?
+**"kato" si ke bi pandunia?** Kio estas "kato" pandunie?
 
 **mau loga miau.** Kato diras miaŭ.
 
 
 ### auda <small>aŭdi, aŭskulti</small>
 
-**me no ken auda ni.** Mi ne povas aŭdi vin.
+**mi no ken auda tu.** Mi ne povas aŭdi vin.
 
 **cing loga kuat.** Bonvolu paroli pli forte.
 
-**me auda musik.** Mi aŭskultas muzikon.
+**mi auda musik.** Mi aŭskultas muzikon.
 
-**ni auda ke yang ge musik?** Kian muzikon vi aŭskultas?
+**tu auda ke yang ge musik?** Kian muzikon vi aŭskultas?
 
 
 ### vida <small>vidi, rigardi</small>
 
-**suku vida ni.** Mi ĝojas vidi vin!
+**suku vida tu.** Mi ĝojas vidi vin!
 
-**vida ni re!** Ĝis la revido!
+**vida tu re!** Ĝis la revido!
 
-**vida ni nale!** Ĝis la revido morgaŭ!
+**vida tu nale!** Ĝis la revido morgaŭ!
 
-**me vida ta yer.** Mi vidin lin/ŝin hieraŭ.
+**mi vida ye yer.** Mi vidin lin/ŝin hieraŭ.
 
 
 ### mana <small>signifi</small>
@@ -412,25 +412,25 @@
 
 **"mau" mana ke?** Kion "mau" signifas?
 
-**ta mana yang de hewan.** Ĝi signifas tipon de besto.
+**ye mana yang de hewan.** Ĝi signifas tipon de besto.
 
-**me no aha ta mana ke.** Mi ne komprenas kion ĝi signifas.
+**mi no aha ye mana ke.** Mi ne komprenas kion ĝi signifas.
 
 
 ### kitaba <small>skribi</small>
 
-**cing kitaba ni ge adres.** Bonvolu skribi vian adreson.
+**cing kitaba tu ge adres.** Bonvolu skribi vian adreson.
 
-**cing kitaba ta na sa.** Bonvolu skribi ĝin tie!
+**cing kitaba ye na sa.** Bonvolu skribi ĝin tie!
 
 
 ### baxa <small>paroli, lingvumi</small>
 
-**kia nimen baxa pandunia.** Ĉu vi parolas pandunion?
+**kia tumen baxa pandunia.** Ĉu vi parolas pandunion?
 
-**memen baxa pandunia.** Ni parolas pandunion.
+**mimen baxa pandunia.** Ni parolas pandunion.
 
-**kia ni ken baxa englix?** Ĉu vi povas paroli la anglan?
+**kia tu ken baxa englix?** Ĉu vi povas paroli la anglan?
 
 **frans, espanya, portugal, ruski** la franca, la hispana, la portugala, la rusa
 
@@ -446,13 +446,13 @@
 
 ### go <small>iri</small>
 
-**ni go ke?** Kien vi iras?
+**tu go ke?** Kien vi iras?
 
-**me go dom.** Mi iras hejmen.
+**mi go dom.** Mi iras hejmen.
 
-**me mus go ke?** Kien mi devas iri?
+**mi mus go ke?** Kien mi devas iri?
 
-**me mus go ke jen?** Al kiu mi devas iri?
+**mi mus go ke jen?** Al kiu mi devas iri?
 
 **haide go!** Ni iru!
 
@@ -463,29 +463,29 @@
 
 **cing lai!** Bonvolu veni!
 
-**ni lai ze ke?** Vi venas el kie?
+**tu lai ze ke?** Vi venas el kie?
 
-**me lai ze dubai.** Mi venas el Dubai.
+**mi lai ze dubai.** Mi venas el Dubai.
 
-**me lai dom nale.** Mi venos hejmen morgaŭ.
+**mi lai dom nale.** Mi venos hejmen morgaŭ.
 
 
 ### safara <small>vojaĝi</small>
 
-**kia ni safara bi tren?** Ĉu vi vojaĝas per vagonaro?
+**kia tu safara bi tren?** Ĉu vi vojaĝas per vagonaro?
 
-**memen safara ze london do paris.** Ni vojaĝas el Londono al Parizo.
+**mimen safara ze london do paris.** Ni vojaĝas el Londono al Parizo.
 
 **safar multo long.** La vojaĝo estas tre longa.
 
 
 ### doma <small>loĝi</small>
 
-**ni doma ke?** Kie vi loĝas?
+**tu doma ke?** Kie vi loĝas?
 
-**me doma singapur.** Mi loĝas en Singapuro.
+**mi doma singapur.** Mi loĝas en Singapuro.
 
-**kia ni doma sa hotel?** Ĉu vi loĝas en tiu hotelo?
+**kia tu doma sa hotel?** Ĉu vi loĝas en tiu hotelo?
 
 
 
@@ -526,12 +526,10 @@ Vortaro
 **mama** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
 **man** viro <small>(angla _man_)</small>  
 **mana** signifi <small>(sŭahila _maana_)</small>  
-**me** mi <small>(kartvela _me_ მე)</small>  
-**mede** helpi <small>(franca _aider_)</small>  
-**memen** ni  
-**ni** vi (singulare) <small>(tamila _nī_ நீ)</small>  
+**meda** helpi <small>(franca _aider_)</small>  
+**mi** mi <small>(kartvela _mi_ მე)</small>  
+**mimen** ni  
 **nida** bezoni <small>(angla _need_)</small>  
-**nimen** vi (plurale)  
 **no** ne <small>(hispana _no_)</small>  
 **noce** nokto <small>(hispana _noche_)</small>  
 **nun** nun <small>(angla _now_)</small>  
@@ -542,14 +540,16 @@ Vortaro
 **saba** scii <small>(konga _zaba_)</small>  
 **safar** vojaĝi <small>(araba _safar_ سفر)</small>  
 **salam** saluti <small>(araba _salām_ سلام)</small>  
+**si** jes; esti <small>(hispana _sí_)</small>  
 **suba** mateno <small>(ŭolofa _subba_)</small>  
-**ta** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>  
-**tamen** ili  
+**tu** vi (singulare) <small>(tamila _nī_ நீ)</small>  
+**tumen** vi (plurale)  
 **u** aŭ <small>(franca _ou_)</small>  
 **vida** vidi, rigardi <small>(rusa _videt'_ видеть)</small>  
 **vol** voli <small>(itala _volere_)</small>  
 **wang** flava <small>(kantonĉina _wong_)</small>  
 **xam** vespero <small>(hindia _śām_ शाम )</small>  
-**ye** jes; esti <small>(angla _yeah_)</small>  
+**ye** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>  
 **yem** manĝi, trinki <small>(turka _yemek_)</small>  
+**yemen** ili  
 

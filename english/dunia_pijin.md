@@ -112,7 +112,7 @@ English doesn't have word tones but it has word stress. Word stress is variable 
 
 Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **me vól lóga supér dúnia báca.**
+Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi vól lóga supér dúnia báca.**
 
 Pandunia doesn't have word tone.
 
@@ -129,18 +129,18 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **me** = I, **ni** = you, **ta** = he, she. The first person pronoun **me** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **ni** is from Mandarin and the Dravidian languages of India. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
+The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **tu** is from Mandarin and the Dravidian languages of India. The third person pronoun **ye** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
 
 The possessive pronouns follow the pattern of Standard Chinese.
 
 | English | Pandunia | Chinese  |
 |---------|----------|----------|
-| my      | me ge    | wǒ de    |
-| your    | ni ge    | nǐ de    |
-| his/her | ta ge    | tā de    |
-| our     | memen ge | wǒmen de |
-| your    | nimen ge | nǐmen de |
-| their   | tamen ge | tāmen de |
+| my      | mi ge    | wǒ de    |
+| your    | tu ge    | nǐ de    |
+| his/her | ye ge    | tā de    |
+| our     | mimen ge | wǒmen de |
+| your    | tumen ge | nǐmen de |
+| their   | yemen ge | tāmen de |
 
 
 ## Easy sentences
@@ -148,7 +148,7 @@ The possessive pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me amor ni, ni amor me.
+    Pandunia:  mi amor tu, tu amor mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
@@ -160,13 +160,13 @@ The verb **bei** is used when the object of an action comes first in the sentenc
 **Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ta no ken bei yem.
+    Pandunia:  ye no ken bei yem.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me cing ta yem kafe.
+    Pandunia:  mi cing ye yem kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 

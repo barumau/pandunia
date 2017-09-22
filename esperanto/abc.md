@@ -26,6 +26,6 @@ Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
-> **dúnia e memén ge sundár planét.**  
-> **mé vól lóga komún báxa yáni pandúnia.**  
+> **dúnia si mimén ge sundár planét.**  
+> **mí vól lóga komún báx yáni pandúnia.**  
 
