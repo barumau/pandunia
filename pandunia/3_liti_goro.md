@@ -1,6 +1,6 @@
 # sam liti goro
 
-<small>"Three Little Pigs" bi pandunia bax</small>
+<small>"Three Little Pigs" bi pandunia bax. kitabu **thethedorn**.</small>
 
 na gon den, law ma goro ha sam lito goro. ama ye ha no bas yeme por dar do yemen. to na den de yemen bas law, ye dar yemen do dunia por yemen serca se ge kismat.
 
