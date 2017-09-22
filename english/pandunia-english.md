@@ -491,7 +491,7 @@ hata [adv] even (intensifier)
 hatar [n] danger (peril)  
 hatari [a] dangerous  
 hawa [n] air  
-hay [n] still (yet)  
+hay [adv] still (yet)  
 hayda [n] let's  
 hazar [n] hazard  
 hazari [a] random  
@@ -1605,7 +1605,7 @@ xaria [n] shari'a
 xatan [n] devil (Satan)  
 xatani [a] devilish (satanic)  
 xatur [n] chess  
-xaw [n] few (little)  
+xaw [a] few (little)  
 xaxa [v] rustle  
 xe [n] thing  
 xefe [n] chief (boss)  
