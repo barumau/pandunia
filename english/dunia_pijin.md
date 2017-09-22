@@ -129,18 +129,18 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **tu** is from Mandarin and the Dravidian languages of India. The third person pronoun **ye** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is also from Mandarin.
+The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **tu** is from Spanish and other Indo-European languages. The third person pronoun **ye** is from Bantu languages of Africa and also Hindi and Urdu of India. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is from Standard Chinese.
 
-The possessive pronouns follow the pattern of Standard Chinese.
+The plural pronouns follow the pattern of Standard Chinese.
 
-| English | Pandunia | Chinese  |
-|---------|----------|----------|
-| my      | mi ge    | wǒ de    |
-| your    | tu ge    | nǐ de    |
-| his/her | ye ge    | tā de    |
-| our     | mimen ge | wǒmen de |
-| your    | tumen ge | nǐmen de |
-| their   | yemen ge | tāmen de |
+| English | Pandunia | Chinese |
+|---------|----------|---------|
+| I       | mi       | wǒ      |
+| you     | tu       | nǐ      |
+| he/she  | ye       | tā      |
+| we      | mimen    | wǒmen   |
+| you     | tumen    | nǐmen   |
+| they    | yemen    | tāmen   |
 
 
 ## Easy sentences
@@ -148,7 +148,7 @@ The possessive pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi amor tu, tu amor mi.
+    Pandunia:  mi romansa tu, tu romansa mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
@@ -168,6 +168,17 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
     English:   I invite him to drink coffee.
     Pandunia:  mi cing ye yem kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
+
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
+
+    English:   It is an apple.
+    Pandunia:  ye si pingo.
+    Chinese:   Tā shì píngguǒ. (他是苹果。)
+
+    English:   They are apples.
+    Pandunia:  yemen si pingo.
+    Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
+
 
 
 ## Pandunia - a global language

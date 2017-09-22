@@ -16,6 +16,11 @@ Some remarkable features of Pandunia:
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Spelling](abc.md)
+- [Phrasebook](jumle.md)
+- [Grammar](bax_kanun.md)
+- [Lessons with Dialogs](darse.md)
+
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](english-pandunia.md) dictionary
 - [Pandunia-English](pandunia-english.md) dictionary
@@ -24,6 +29,7 @@ Some remarkable features of Pandunia:
 
 - [Pandunia - a new world pidgin](dunia_pijin.md)
 - [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (an article in Interlinguistica Tartuensis 10)
+- [Why do I like Pandunia?](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinions from learners
 
 ## Join Others
 
