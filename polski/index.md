@@ -5,11 +5,11 @@ pandunia - prosty światowy język
 
 ## Czym jest Pandunia?
 
-Pandunia to skonstruowany globalny międzyjęzyk. W język słowach, to stworzony przez człowieka język, który jest zaprojektowany, by służyć w międzynarodowej komunikacji na całym świecie jako suplement do innych języków.
+Pandunia to skonstruowany globalny międzyjęzyk. W prostszych słowach, to stworzony przez człowieka język, który jest zaprojektowany, by służyć w międzynarodowej komunikacji na całym świecie jako suplement do innych języków.
 
 Niektóre zauważalne cechy Pandunii:
 
-- Pandunia jest prostrza i łatwiejsza niż naturalnie powstałe międzynarodowe języki jak angielski, chiński, francuski i arabski.
+- Pandunia jest prostsza i łatwiejsza niż naturalnie powstałe międzynarodowe języki jak angielski, chiński, francuski i arabski.
 - Jako skonstruowany język, Pandunia jest kompletnie regularna – nie ma żadnych wyjątków.
 - Słowa Pandunii to słowa światowe, które są zapożyczone z wielu języków na całym świecie, w tym najpopularniejszych 10 najczęściej używanych języków świata.
 
