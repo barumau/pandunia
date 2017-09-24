@@ -314,6 +314,7 @@ ekran [n] screen
 ekuador [n] Ecuador  
 elektre [n] electricity  
 elektron [n] electron  
+enda [v] go  
 energi [n] energy  
 englix [a] English  
 eni [a] any (no matter which)  
@@ -463,6 +464,7 @@ gung fu [n] kung fu
 guru [n] guru (mentor)  
 gusta [v] taste (sense flavor)  
 guste [n] taste (flavor)  
+gustu ka [v] taste like  
 gut [n] bone  
 
 ##h  

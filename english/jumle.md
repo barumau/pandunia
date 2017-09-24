@@ -32,7 +32,7 @@ Part 1: Greeting and basics
 
 **lay salam!** Welcome!
 
-**go salam!** Goodbye!
+**cut salam!** Goodbye!
 
 **safar salam!** Have a safe journey!
 
@@ -315,13 +315,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### haide <small>let's</small>
+### haida <small>let's</small>
 
-**haide yem!** Let's eat!
+**haida yem!** Let's eat!
 
-**haide go yem!** Let's go eat!
+**haida enda yem!** Let's go eat!
 
-**haide go dom.** Let's go home.
+**haida enda dom.** Let's go home.
 
 
 
@@ -459,19 +459,19 @@ Tip: To make direct requests, drop all the pronouns.
 
 ## Part 4. Going around
 
-### go <small>to go</small>
+### enda <small>to go</small>
 
-**tu go ke?** Where are you going?
+**tu enda ke?** Where are you going?
 
-**mi go dom.** I'm going home.
+**mi enda dom.** I'm going home.
 
-**mi mus go ke?** Where should I go?
+**mi mus enda ke?** Where should I go?
 
-**mi mus go ke jen?** To whom should I go?
+**mi mus enda ke jen?** To whom should I go?
 
-**haide go!** Let's go!
+**haida enda!** Let's go!
 
-**haide go bi ped** Let's go by foot!
+**haida enda bi ped** Let's go by foot!
 
 
 ### lai <small>to come</small>
@@ -668,6 +668,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **den** day <small>(Russian _den'_ день)</small>  
 **dom** home, residence <small>(Russian _dom_ дом)</small>  
 **doma** live, reside  
+**enda** to go <small>(Swahili _kuenda_)</small>  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  

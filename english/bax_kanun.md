@@ -512,9 +512,9 @@ In the example above, **mi vol** has **tu** as its object. At the same time, **t
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
-1. **mi go dom.** - I go home.  
-2. **mi ken go dom.** - I can go home.  
-3. **mi vol ken go dom.** - I want to be able to go home. (Lit. _I want can go home_!)
+1. **mi enda dom.** - I go home.  
+2. **mi ken enda dom.** - I can go home.  
+3. **mi vol ken enda dom.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 ### 8.8. Pronoun dropping
@@ -682,7 +682,7 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi deng ze tu go.** - I have waited since you left.  
+> **mi deng ze tu enda.** - I have waited since you left.  
 > **mi deng do tu lay dom.** - I wait until you come home.  
 > **mi deng na tu son.** - I wait while you sleep.  
 
