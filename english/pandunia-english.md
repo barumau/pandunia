@@ -58,8 +58,8 @@ auda [v] hear (listen)
 australia [n] Australia  
 avar [n] damage (wreck)  
 ayiti [n] Haiti  
-ay [int] alas! (ouch!)  
-ayne [n] mirror  
+ai [int] alas! (ouch!)  
+aine [n] mirror  
 
 ##b  
 
@@ -246,7 +246,7 @@ darse ban [n] student (pupil)
 darse guru [n] teacher  
 darse kan [n] school (institution)  
 darzar [n] tailor  
-daw [n] way (road)  
+dau [n] way (road)  
 dawa [n] drug (medicine)  
 dawa kan [n] drugstore (pharmacy)  
 day [a] big  
@@ -329,6 +329,9 @@ europan unia [n] European Union (EU)
 
 ##f  
 
+faide [n] use (utility, benefit)  
+faidi [a] useful (beneficial)  
+fain [a] fine (delicate)  
 faktar [n] factor (agent, actor)  
 famil [n] family  
 famil nam [n] surname (family name)  
@@ -348,10 +351,7 @@ faxe [n] bundle
 faxisme [n] fascism  
 faxiste [n] fascist  
 fay [n] fire  
-fayde [n] use (utility, benefit)  
-fayn [a] fine (delicate)  
 feber [n] fiever  
-feya [v] fly  
 fek [n] feces (poop)  
 feka [v] defecate  
 fekal [a] fecal  
@@ -364,6 +364,7 @@ festa [v] celebrate (party)
 feste [n] party (festival)  
 fet [n] fat (grease)  
 feti [a] fatty (greasy)  
+feya [v] fly  
 figur [n] figure (representation)  
 fiksa [v] fix (attach)  
 file [n] line (row)  
@@ -419,7 +420,7 @@ garam [a] warm
 garante [n] guarantee  
 gardin [n] garden  
 gas [n] gas  
-gawn [n] dress (gown)  
+gaun [n] dress (gown)  
 gaw [a] high  
 gayana [n] Guyana  
 gaze [n] gauze  
@@ -492,7 +493,7 @@ hatar [n] danger (peril)
 hatari [a] dangerous  
 hawa [n] air  
 hay [n] still (yet)  
-hayda [n] let's  
+haida [n] let's  
 hazar [n] hazard  
 hazari [a] random  
 hazin [n] treasure (treasury)  
@@ -614,7 +615,7 @@ juxa [v] inject
 ##k  
 
 ka [pr] like (as, as if, than)  
-kabaw [n] water buffalo  
+kabau [n] water buffalo  
 kabil [a] able (capable)  
 kabila [n] tribe  
 kabin [n] cabin (booth)  
@@ -626,7 +627,7 @@ kafe kop [n] coffee cup
 kafi [a] brown (coffee-colored)  
 kak [n] excrement (shit)  
 kaka [v] defecate (shit)  
-kakaw [n] cocoa  
+kakau [n] cocoa  
 kal [a] black  
 kalam [n] pen  
 kalsium [n] calcium (Ca)  
@@ -666,7 +667,7 @@ kawayi [a] cute
 kaxa [n] porridge  
 kay [a] open (not closed)  
 kaya [v] open  
-kayxa [v] begin (commence)  
+kaixa [v] begin (commence)  
 kazu [n] event (case, instance)  
 ke [pn] what?  
 ke yang? [fr] how?  
@@ -853,7 +854,7 @@ makas [n] scissors
 makedonia [n] Macedonia  
 mal [n] property (possession)  
 mali [a] financial  
-malaysia [n] Malaysia  
+malaisia [n] Malaysia  
 malaria [n] malaria  
 mam [n] breast (boob)  
 mama [n] mother (mom)  
@@ -899,9 +900,9 @@ maxi [a] additional
 maxim [adv] most (maximally)  
 maximi [a] maximal  
 maxin [n] machine  
-maw [n] cat  
-maydan [n] square (plaza)  
-mays [n] corn (maize)  
+mau [n] cat  
+maidan [n] square (plaza)  
+mais [n] corn (maize)  
 me [pr] I (me)  
 me ge [pr] my  
 me ge law [n] my parents  
@@ -1028,8 +1029,8 @@ nano [num] nano-
 narak [n] hell  
 nas [n] people (folk)  
 nasia [n] nation  
-naw [n] brain  
-nayjiria [n] Nigeria  
+nau [n] brain  
+naijiria [n] Nigeria  
 nederland [n] Netherlands  
 nen [n] year  
 nen feste [n] anniversary  
@@ -1089,7 +1090,7 @@ or [n] ear
 ordu [n] horde (wandering troop)  
 orgazme [n] orgasm  
 oskur [a] dark (dim)  
-osterayh [n] Austria  
+osteraih [n] Austria  
 
 ##p  
 
@@ -1117,23 +1118,23 @@ panik [n] panic
 pantalon [n] pants (trousers)  
 panyo [n] friend  
 papa [n] father (dad)  
-papagay [n] parrot (parakeet)  
+papagai [n] parrot (parakeet)  
 papaya [n] papaya  
 paper [n] paper  
 par [n] top (highest part)  
-paraguay [n] Paraguay  
+paraguai [n] Paraguay  
 parde [n] curtain  
 pasa [v] pass (go by, go past)  
 paskal [n] pascal  
 pat [n] path  
-pawnde [n] pound (£)  
-paws [n] pause (break, interruption)  
-pawsa [v] pause (interrupt)  
+paunde [n] pound (£)  
+paus [n] pause (break, interruption)  
+pausa [v] pause (interrupt)  
 paxa [v] hurt  
 paxi [a] painful  
 paxia [n] suffering (passion)  
 paxu [v] suffer (get hurt)  
-pay [n] pie (pastry)  
+pai [n] pie (pastry)  
 ped [n] foot  
 pey [n] payment  
 peya [v] pay  
@@ -1214,7 +1215,7 @@ pulo [n] island
 punt [n] point (full stop)  
 pupe [n] doll (puppet)  
 puru [n] feather  
-putaw [n] grape  
+putau [n] grape  
 putong [a] common (universal)  
 putong han [n] Mandarin Chinese (Putonghua)  
 puxa [v] push  
@@ -1311,7 +1312,7 @@ sapat [n] shoe
 sar [n] head  
 sar gut [n] skull  
 sat [n] time of day (moment)  
-sawna [n] sauna  
+sauna [n] sauna  
 se [pr] self  
 sekretar [n] secretary  
 seksa [v] have sex  
@@ -1429,10 +1430,10 @@ tanzania [n] Tanzania
 tap [n] tap (stopper)  
 tara [n] star  
 tatu [n] tattoo  
-tawla [n] towel  
+taula [n] towel  
 tava [n] frying pan  
-tay [n] Thai (Thailand)  
-tayga [n] taiga  
+tai [n] Thai (Thailand)  
+taiga [n] taiga  
 tazi [a] fresh  
 tekne [n] technique (technology)  
 tekne lojia [n] technology (study of techniques)  
@@ -1477,7 +1478,7 @@ tortuga [n] turtle (tortoise)
 tot [a] whole (entire, all)  
 total [a] total (affecting all)  
 tren [n] train  
-tren daw [n] railway (railroad)  
+tren dau [n] railway (railroad)  
 tualet [n] toilet (WC)  
 tub [n] tube (pipe)  
 tufan [n] storm (tempest)  
@@ -1512,7 +1513,7 @@ unia [n] union
 uran [n] Uranus  
 uranium [n] uranium  
 urdun [n] Jordan  
-uruguay [n] Uruguay  
+uruguai [n] Uruguay  
 usamerika [n] US America  
 uza [v] use  
 uzar [n] user  
@@ -1541,7 +1542,7 @@ vero [adv] truly (really)
 verme [n] worm  
 vida [v] look (see)  
 vide [n] view (vision)  
-vide maydan [n] visual field (field of vision)  
+vide maidan [n] visual field (field of vision)  
 video [n] video  
 viet [n] Vietnam  
 viman [n] airplane  
@@ -1648,7 +1649,7 @@ yo xe [n] something
 yod [n] iodine  
 yoga [n] yoga  
 yoni [n] vagina  
-yosay [n] fortress (stronghold)  
+yosai [n] fortress (stronghold)  
 yumor [n] humor  
 yungam [a] brave (courageous)  
 yureka [v] find (discover)  
@@ -1661,7 +1662,7 @@ zaman [n] period (age, epoch)
 zambia [n] Zambia  
 zardux [n] Zoroaster  
 zardux din [n] Zoroastrianism  
-zaytun [n] olive  
+zaitun [n] olive  
 ze [pr] from (since)  
 ziba [v] plug (stop with a plug)  
 zibula [v] unplug (uncork)  

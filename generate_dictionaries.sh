@@ -1,7 +1,8 @@
 # ze englic do pandunia
 cat english/pandunia-english.md | sed '/^#/ d' > temp/temp2.txt
 cat temp/temp2.txt temp/alfahead.txt > temp/temp.txt
-awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > english/english-pandunia.md
+sed 's/\[.*\]/:/g' temp/temp.txt > temp/temp2.txt 
+awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp2.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > english/english-pandunia.md
 sed 's/_//g' -i english/english-pandunia.md
 sed 's/$/  /' -i english/english-pandunia.md
 
