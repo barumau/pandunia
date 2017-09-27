@@ -27,50 +27,41 @@ Any words and affixes can be combined together. In other words, you don't have t
 
 ## Origins of Suffixes
 
+### -ar
+
+-er is the agentive suffix in English and German. It has equivalents in French -eur, Spanish -ero and Portuguese -eiro. The suffix is found in many French and English loan words in Russian, f.ex. шофёр /šofyor/ (chauffeur, driver), лидер /lidyer/ (leader).
+
+### -i
+
 **-i** describes something that is similar to the root word. It comes from several sources. In Arabic, Persian, Urdu and Hindi -ī is a very common suffix for deriving adjectives from nouns. It is close to both -y and -ic in English. In Japanese -i is a frequent adjectival suffix.
 
-**-ar**. -er is the agentive suffix in English and German. It has equivalents in French -eur, Spanish -ero and Portuguese -eiro. The suffix is found in many French and English loan words in Russian, f.ex. шофёр /šofyor/ (chauffeur, driver), лидер /lidyer/ (leader).
+### -ia
 
-**-iste** is a suffix that denotes a person who tends to behave or think in a certain way. It is a common suffix in Western languages.
+**-ia** is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Pandunia adopts this practice.
 
-<!--
--ia and -ie
+| Pandunia | asia            | italia              | rusia               | suria             | turkia              |
+|:---------|:---------------:|:-------------------:|:-------------------:|:-----------------:|:-------------------:|
+| English  | Asia            | Italy               | Russia              | Syria             | Turkey              |
+| Italian  | Asia            | Italia              | Russia              | Siria             | Turchia             |
+| Russian  | Азия<br>(Aziya) | Италия<br>(Italiya) | Россия<br>(Rossiya) | Сирия<br>(Siriya) | Турция<br>(Turciya) |
+| Turkish  | Asya            | İtalya              | Rusya               | Suriye            | Türkiye             |
+| Arabic   | آسِيَا <br>(āsiyā) | إِيطَالِيَا <br>(ītāliyā) | رُوسِيَا <br>(rūsiyā)  | سُورِيَا <br>(sūriyā) | تُرْكِيَّا <br>(turkiyā)  |
 
--ia is a very common and wide-spread suffix. It's used in many languages in names of countries and regions. Pandunia adopts this practice.
-
-Pandunia	asia	italia	rusia	suria	turkia
-English	Asia	Italy	Russia	Syria	Turkey
-Italian	Asia	Italia	Russia	Siria	Turchia
-Russian	Азия
-(Aziya)	Италия
-(Italiya)	Россия
-(Rossiya)	Сирия
-(Siriya)	Турция
-(Turciya)
-Turkish	Asya	İtalya	Rusya	Suriye	Türkiye
-Arabic	آسِيَا
-(āsiyā)	إِيطَالِيَا
-(ītāliyā)	رُوسِيَا
-(rūsiyā)	سُورِيَا
-(sūriyā)	تُرْكِيَّا
-(turkiyā)
-In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English baker → bakery, in German Bäcker → Bäckerei, in Spanish panadero → panadería, and in French boulanger → boulangerie. Pandunia adopts also this practice: beker (baker) → bekeria (bakery).
+In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English _baker → bakery_, in German _Bäcker → Bäckerei_, in Spanish _panadero → panadería_, and in French _boulanger → boulangerie_. Pandunia adopts also this practice: **bekar** (baker) → **bekaria** (bakery).
 
 By coincidence, Japanese has a similar sounding suffix for place names:
-パン (pan = bread) → パン屋 (pan'ya = bakery).
+パン (pan = bread) → パン屋 (panya = bakery).
 
-The suffix -ia is also used with names of governments and other organizations. This is also a common practice across languages. For example imperia (empire) has parallels in Spanish imperio and Russian империя /imperiya/. rajia (kingdom) is preceded by Hindi राज्य /rājya/. demokratia (democracy) of course has many precedents, among others German Demokratie.
+The suffix **-ia** is also used with names of governments and other organizations. This is also a common practice across languages. For example **imperia** (empire) has parallels in Spanish _imperio_ and Russian _империя_ /imperiya/. **Rajia** (kingdom) is preceded by Hindi राज्य /rājya/. **Demokratia** (democracy) of course has many precedents, among others German _Demokratie_.
 
-In Pandunia, all words ending in -ia are concrete things. Another suffix, -ie is used with words for abstract systems of thinking, such as science and religion. There are enough examples in natural languages (like French and German) to establish this pattern.
+In addition **-ia** is used in words for abstract systems of thinking, such as science and religion. There are lots of examples in natural languages for this pattern too.
 
-Pandunia	filosofie	kimie	biolojie	relijie
-English	philosophy	chemistry	biology	religion
-French	philosophie	chimie	biologie	religion
-German	Philosophie	Chemie	Biologie	Religion
-Romanian	filozofie	chimie	biologie	religie
-In some cases it makes sense to use both -ia and -ie with the same root word to emphasize the concrete or alternatively the abstract side of things.
-demokratia = democracy (a country ruled by the people)
-demokratie = democracy (a system of rule by the people)
+<!--
+
+| Pandunia | filsofia    | kimia     | biolojia | relijia  |
+| English  | philosophy  | chemistry | biology  | religion |
+| French   | philosophie | chimie    | biologie | religion |
+| German   | Philosophie | Chemie    | Biologie | Religion |
 
 -an
 
@@ -81,3 +72,9 @@ The same suffix is present in a lot of English words borrowed from French and La
 The suffix is found also in Indonesian in loan words from Dutch and English, for example imigran, infiltran, kontestan (immigrant, infiltrator, contestant). Here we see the suffix in the simplified form -an, which is the form that was chosen for Pandunia.
 
 -->
+
+### -iste
+
+**-iste** is a suffix that denotes a person who tends to behave or think in a certain way. It is a common suffix in Western languages.
+
+

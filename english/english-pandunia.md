@@ -132,6 +132,7 @@ August   : mes 8 (mes bat)
 Australia   : australia  
 Austria   : osteraih  
 awake   : weki  
+aware (enlightened)   : budi  
 axe (hatchet)   : tabar  
 axis   : akse  
 ##b  
@@ -227,8 +228,7 @@ brother or sister   : aka
 brown (coffee-colored)   : kafi  
 brush   : brox  
 bucket   : baldi  
-Buddha   : buda  
-Buddhism   : buda din  
+Buddhism   : bud din  
 budget   : bujet  
 build (construct)   : bana  
 Bulgaria   : bolgaria  
@@ -350,6 +350,9 @@ coffee   : kafe
 coffee cup   : kafe kop  
 cold   : leng  
 cold (illness)   : zukam  
+collect (gather, bring together)   : jama  
+collection (congregation)   : jamia  
+collective   : jami  
 Colombia   : kolombia  
 colony (settlemen)   : kolonia  
 color   : rang  
@@ -638,6 +641,7 @@ give   : dar
 give birth (procreate, generate)   : jena  
 glass   : glas  
 global   : pandunian  
+go   : enda  
 goal   : gol  
 god   : dev  
 gold   : gim  
@@ -758,7 +762,6 @@ insect   : koncung
 inside (interior)   : in  
 inspire (inspiration)   : inspira  
 instead of   : na vis de  
-intelligent   : budi  
 intend (plan)   : plana  
 intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)   : tez  
 interest (interesting)   : interes  
@@ -848,7 +851,7 @@ lemon   : limun
 less   : min  
 lesser (mini-)   : mini  
 lesson   : darse  
-let's   : haida  
+let's   : hayda  
 letter (message)   : leter  
 lettuce   : letis  
 library   : kitab kan  
@@ -1002,6 +1005,8 @@ naked (bare)   : nudi
 name   : nam  
 nano-   : nano  
 nation   : nasia  
+national   : nasial  
+nationalism   : nasialisme  
 nature (environment)   : tabia  
 near (close)   : jin  
 necessary (needed)   : nidi  
@@ -1181,6 +1186,7 @@ politician   : politikar
 politics   : politik  
 pool (basin)   : basen  
 poor (miserable)   : miskin  
+popular   : nasi  
 pork   : goro nama  
 porridge   : kaxa  
 portion (dose)   : doze  
@@ -1242,6 +1248,8 @@ Ramadan   : ramazan
 random   : hazari  
 read   : doka  
 ready   : redi  
+realization (awareness, enlightenment, bodhi)   : bud  
+realize (become aware of)   : buda  
 reason (cause)   : koz  
 reason (rational thinking)   : razon  
 rebellion   : rebel  
@@ -1462,6 +1470,7 @@ tap (stopper)   : tap
 tape   : tep  
 taste (flavor)   : guste  
 taste (sense flavor)   : gusta  
+taste like   : gustu ka  
 tattoo   : tatu  
 taxi   : taksi  
 tea   : ca  

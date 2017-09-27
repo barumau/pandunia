@@ -575,6 +575,9 @@ jadi [conj] if (suppose, assume)
 jaket [n] jacket  
 jala [v] burn (cause to burn)  
 jalu [v] burn (be burned)  
+jama [v] collect (gather, bring together)  
+jami [a] collective  
+jamia [n] collection (congregation)  
 jameika [n] Jamaica  
 janela [n] window  
 jang [n] fight (war)  
