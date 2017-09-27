@@ -768,7 +768,7 @@ Here are some examples.
 **kitabi** - written, textual (adjective)  
 **kitabe** or **kitab** - writing, text (noun)  
 
-**nov** or **novi** - new (adjective)  
+**novi** or **nov** - new (adjective)  
 **novo** - newly (adverb)  
 **nova** - to make new (active verb)  
 **novu** - to become new (passive verb)  
@@ -776,7 +776,7 @@ Here are some examples.
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**hav** or **hava** - to have (active verb)  
+**hava** or **hav** - to have (active verb)  
 **havu** - to belong (passive verb)  
 **have** - that what is had (noun)  
 

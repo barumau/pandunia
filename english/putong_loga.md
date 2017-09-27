@@ -1,6 +1,7 @@
 Common Words
 ============
 
+<!--
 ## Opposites
 
 **Fan** is a word that reverses the meaning of the following word.
@@ -15,7 +16,7 @@ It's acceptable to use **fan** even if there is already a word that means the op
 > **duan** - short  
 > **fan long** - unlong (short)  
 > **fan duan** - unshort (long)  
-
+-->
 
 
 ## Correlatives
@@ -36,7 +37,7 @@ The determiners are independent words. Basically it's an open class of words, so
 Basic category nouns are:
 
 > **jen** - person  
-> **ce** - thing  
+> **xe** - thing  
 > **yang** - kind, type  
 > **lok** - place  
 > **sat** - time, moment  
@@ -46,7 +47,7 @@ These determiners and category nouns can be combined into this table of correlat
 |             | Question                      | Pointer                       | Indefinite                    | Universal                      | Negative                     |
 |-------------|:-----------------------------:|:-----------------------------:|:----------------------------:|:-------------------------------:|:----------------------------:|
 | Person      | **ke jen**<br>(who)           | **sa jen**<br>(that person)   | **yo jen**<br>(someone)       | **mei jen**<br>(everyone)      | **nul jen**<br>(no-one)      |
-| Thing       | **ke ce**<br>(what)           | **sa ce**<br>(that thing)     | **yo ce**<br>(something)      | **mei ce**<br>(everything)     | **nul ce**<br>(nothing)      |
+| Thing       | **ke xe**<br>(what)           | **sa xe**<br>(that thing)     | **yo xe**<br>(something)      | **mei xe**<br>(everything)     | **nul xe**<br>(nothing)      |
 | Kind        | **ke yang**<br>(what kind of) | **sa yang**<br>(that kind of) | **yo yang**<br>(some kind of) | **mei yang**<br>(all kinds of) | **nul yang**<br>(no kind of) |
 | Place       | **ke lok**<br>(where)         | **sa lok**<br>(there)         | **yo lok**<br>(somewhere)     | **mei lok**<br>(everywhere)    | **nul lok**<br>(nowhere)     |
 | Time        | **ke sat**<br>(when)          | **sa sat**<br>(that time)     | **yo sat**<br>(sometime)      | **mei sat**<br>(all the time)  | **nul sat**<br>(never)       |
@@ -59,19 +60,19 @@ Pandunia uses the names that the people use to refer to themselves or their coun
 > **britan** - Britain  
 > **espanya** - Spain (España)  
 > **barat** - India (Bharat)  
-> **rosia** - Russia (Rossiya)
+> **rusia** - Russia (Rossiya)
 > **nipon** - Japan (Nippon)  
-> **djungo** - China (Zhōngguǒ)  
+> **jungo** - China (Zhōngguǒ)  
 > **misri** - Egypt (Misr)  
 > **naidjiria** - Nigeria (Naijiria)  
 
 The country name can be different than the names of the peoples or ethnic groups that inhabit it.
 
 - **britan** - Britain
-    - **englic** - English
+    - **englix** - English
     - **skot** - Scot
     - **kemri** - Welsh (Cymru)
-- **rosia** - Russia
+- **rusia** - Russia
     - **ruski** - Russian
     - **tatar** - Tatar
     - **backor** - Bashkir
@@ -82,18 +83,18 @@ The word for inhabitants of the country is country name + **jen** (person).
 > **espanya jen** - a Spaniard  
 > **barat jen** - an Indian  
 
-The name of a language is the name of the ethnic group + **baca** (language).
+The name of a language is the name of the ethnic group + **bax** (language).
 
-> **englic baca** - English (language)  
-> **kemri baca** - Welsh (language)  
-> **ruski baca** - Russian (language)
+> **englix bax** - English (language)  
+> **kemri bax** - Welsh (language)  
+> **ruski bax** - Russian (language)
 
 
 ## Types of people
 
 **Guru** denotes a master or an expert in a field.
 
-> **darsa guru** - teacher (master of learning)  
+> **darse guru** - teacher (master of learning)  
 > **din guru** - priest (master of religion)  
 > **hakim guru** - judge (master of justice)  
 
@@ -117,12 +118,12 @@ Also **bet** (house) and **kaban** (booth) can be used
 
 ## Fields of science
 
-Fields of science usually end in **logi** (study).
+Fields of science usually end in **lojia** (study).
 
-> **tekni logi** - technology (study of techniques)  
-> **fizik logi** - physics (study of the physical)  
-> **jiva logi** - biology (study of life)  
-> **bumi logi** - geology (study of the ground)  
-> **dev logi** - theology (study of the god(s))  
+> **tekne lojia** - technology (study of techniques)  
+> **fizik lojia** - physics (study of the physical)  
+> **jive lojia** - biology (study of life)  
+> **bumi lojia** - geology (study of the ground)  
+> **dev lojia** - theology (study of the god(s))  
 
 
