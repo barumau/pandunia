@@ -156,10 +156,11 @@ boton [n] button
 brazil [n] Brazil  
 britan [n] Britain (UK)  
 brox [n] brush  
-buda [n] Buddha  
-buda din [n] Buddhism  
+bud [n] realization (awareness, enlightenment, bodhi)  
+bud din [n] Buddhism  
+buda [v] realize (become aware of)  
+budi [a] aware (enlightened)  
 budan [n] Mercury  
-budi [a] intelligent  
 bujet [n] budget  
 buk [n] book  
 bula [v] forget  
@@ -1023,6 +1024,7 @@ nabi [n] prophet
 nadi [n] river  
 nafas [n] breath  
 nahun [n] nail (fingernail)  
+naijiria [n] Nigeria  
 nale [n] tomorrow  
 nam [n] name  
 nama [v] call (give name)  
@@ -1030,9 +1032,11 @@ nanas [n] pineapple
 nano [num] nano-  
 narak [n] hell  
 nas [n] people (folk)  
+nasi [a] popular  
 nasia [n] nation  
+nasial [a] national  
+nasialisme [n] nationalism  
 nau [n] brain  
-naijiria [n] Nigeria  
 nederland [n] Netherlands  
 nen [n] year  
 nen feste [n] anniversary  
@@ -1608,7 +1612,7 @@ xaria [n] shari'a
 xatan [n] devil (Satan)  
 xatani [a] devilish (satanic)  
 xatur [n] chess  
-xaw [a] few (little)  
+xaw [adv] few (little)  
 xaxa [v] rustle  
 xe [n] thing  
 xefe [n] chief (boss)  
