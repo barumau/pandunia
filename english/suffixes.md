@@ -42,9 +42,22 @@ Among Romance languages, Romanian uses the suffix -ar. For example _văcar_ (her
 
 In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Pandunia's **bekar**.
 
+### -e
+
+**-e** is a usual noun ending in French, English and German.
+
 ### -i
 
-**-i** describes something that is similar to the root word. It comes from several sources. In Arabic, Persian, Urdu and Hindi -ī is a very common suffix for deriving adjectives from nouns. It is close to both -y and -ic in English. In Japanese -i is a frequent adjectival suffix.
+**-i** describes something that is similar to the root word. It comes from several sources.
+
+-i is similar in sound to the adjectival ending -y in English, f.ex. watery.
+
+In Arabic, Persian, Urdu and Hindi -ī is a very common suffix for deriving adjectives from nouns. For example _islāmī_ = Islamic, _insānī_ humane, _pakistānī_ Pakistani.
+
+In Japanese -i is a frequent adjectival suffix (of the so called i-adjectives).
+
+Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand; _kézi_ = manual.
+
 
 ### -ia
 
@@ -87,5 +100,13 @@ The suffix is found also in Indonesian in loan words from Dutch and English, for
 ### -iste
 
 **-iste** is a suffix that denotes a person who tends to behave or think in a certain way. It is a common suffix in Western languages.
+
+### -o
+
+In Slavic languages adverbs usually end in -o. Also many common Spanish and Italian adverbs end in -o.
+
+### -u
+
+"Passive" verb ending -u comes from two important West African languages, Hausa (f.ex. _soya_ = to fry; _soyu_ = to be fried) and Wolof (f.ex. _tëj_ = to close; _tëju_ = to be closed).
 
 
