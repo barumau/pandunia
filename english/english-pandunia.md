@@ -143,9 +143,9 @@ bad (not good)   : bad
 bad (ruined, spoiled)   : harab  
 bag (sack)   : sak  
 bah! (yuck!)   : fu  
-bake   : baka  
-baker   : bakar  
-bakery   : bakaria  
+bake   : beka  
+baker   : bekar  
+bakery   : bekaria  
 balcony (porch)   : balkon  
 ball   : bola  
 bamboo   : bambu  
@@ -438,6 +438,8 @@ democratic   : demokrati
 demon   : demon  
 Denmark   : danmark  
 dentist   : dante doktar  
+depict (describe, illustrate)   : grafa  
+depiction (graph)   : graf  
 detail   : detal  
 devil (Satan)   : xatan  
 devilish (satanic)   : xatani  
@@ -591,7 +593,6 @@ fly (housefly)   : zizi
 focus (concentration)   : fokus  
 fool (idiot)   : bobo  
 foot   : ped  
-for (in order to)   : por  
 force (strength)   : bale  
 foreign country   : way gojia  
 forenoon   : suba den  
@@ -654,8 +655,7 @@ gram   : gram
 grandfather   : opa  
 grandmother   : oma  
 grape   : putau  
-graphic (image, illustration)   : grafik  
-graphic artist   : grafikar  
+graphic (descriptive)   : grafi  
 grass   : gras  
 grave (tomb)   : gabar  
 Greek (Hellenic)   : helen  
@@ -750,7 +750,6 @@ idea   : idea
 ideal (optimal)   : ideal  
 idealisme   : idealisme  
 if (suppose, assume)   : jadi  
-illustrate   : grafika  
 important   : muhim  
 in (inside)   : na in  
 India   : barat  
@@ -819,6 +818,7 @@ kilogram (kg)   : kilo gram
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
 kinetic   : kini  
+kiosk   : kioske  
 kiss   : bis  
 kiwi fruit   : kiwi  
 knead (give massage)   : masa  
@@ -1039,6 +1039,7 @@ north   : norde
 northern   : nordi  
 Norway   : norge  
 nose   : nos  
+notary   : notar  
 note (observation)   : not  
 notebook   : not buk  
 nothing   : nul xe  
@@ -1088,6 +1089,7 @@ pack (package)   : pak
 packet   : paket  
 painful   : paxi  
 paint   : penta  
+painter   : pentar  
 Pakistan   : pakistan  
 palm tree   : palma  
 pan-African   : panafrikan  
@@ -1188,6 +1190,8 @@ pool (basin)   : basen
 poor (miserable)   : miskin  
 popular   : nasi  
 pork   : goro nama  
+porn   : porne  
+pornography   : porne grafia  
 porridge   : kaxa  
 portion (dose)   : doze  
 Portugal   : portugal  
@@ -1262,6 +1266,7 @@ reign (rule as an emperor)   : impera
 release (let, let go)   : laxa  
 religion   : din  
 remember   : memora  
+renew (make new, renovate)   : nova  
 rent   : kire  
 rent (hire)   : kira  
 rent out (let, lease)   : kiriza  
@@ -1513,10 +1518,11 @@ time of day (moment)   : sat
 titanium   : titan  
 to (till, until)   : do  
 tobacco   : tabak  
+today   : ajo  
 Togo   : togo  
 toilet (WC)   : tualet  
 tomato   : tomat  
-tomorrow   : nale  
+tomorrow   : kexo  
 tone (pitch or shade)   : ton  
 too little   : min ka bas  
 too much   : max ka bas  
@@ -1672,7 +1678,7 @@ yeast   : hamir
 yellow   : wang  
 Yemen   : yaman  
 yes (yeah)   : ye  
-yesterday   : yer  
+yesterday   : yero  
 yoga   : yoga  
 you   : ni  
 you all   : nimen  

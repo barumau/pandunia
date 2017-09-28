@@ -9,6 +9,7 @@ agres [n] agression (assault)
 ah [int] argh!  
 aha [v] understand (realize)  
 ajil [a] agile  
+ajo [adv] today  
 aka [n] brother or sister  
 akse [n] axis  
 akta [v] act (play a role)  
@@ -69,9 +70,6 @@ badal [n] exchange (swap)
 badam [n] almond  
 badan [n] body  
 bagaje [n] luggage (baggage)  
-baka [v] bake  
-bakar [n] baker  
-bakaria [n] bakery  
 bal [a] strong  
 bale [n] force (strength)  
 baldi [n] bucket  
@@ -117,6 +115,9 @@ bazi [a] basic
 bebe [n] baby (darling)  
 bed [n] bed  
 bei [v] undergo (verb of the passive voice)  
+beka [v] bake  
+bekar [n] baker  
+bekaria [n] bakery  
 belarus [n] Belarus  
 belgi [n] Belgium  
 belize [n] Belize  
@@ -447,9 +448,9 @@ gon [adv] past (former, gone)
 goro [n] pig  
 goro nama [n] pork  
 goton [n] cotton  
-grafik [n] graphic (image, illustration)  
-grafika [v] illustrate  
-grafikar [n] graphic artist  
+graf [n] depiction (graph)  
+grafa [v] depict (describe, illustrate)  
+grafi [a] graphic (descriptive)  
 gram [n] gram  
 gras [n] grass  
 grimas [n] grimace  
@@ -687,6 +688,7 @@ kenar [n] border (edge)
 kenya [n] Kenya  
 kerub [n] cherub  
 ketel [n] kettle  
+kexo [adv] tomorrow  
 kia [v] ask (question)  
 kilo [num] thousand (kilo-)  
 kilo gram [n] kilogram (kg)  
@@ -695,6 +697,7 @@ kimia [n] chemistry
 kina [v] move (transfer, change place)  
 kine [n] movement  
 kini [a] kinetic  
+kioske [n] kiosk  
 kira [v] rent (hire)  
 kire [n] rent  
 kiriza [v] rent out (let, lease)  
@@ -1028,7 +1031,6 @@ nadi [n] river
 nafas [n] breath  
 nahun [n] nail (fingernail)  
 naijiria [n] Nigeria  
-nale [n] tomorrow  
 nam [n] name  
 nama [v] call (give name)  
 nanas [n] pineapple  
@@ -1073,6 +1075,8 @@ nos [n] nose
 not [n] note (observation)  
 not buk [n] notebook  
 nota [v] notice (observe)  
+notar [n] notary  
+nova [v] renew (make new, renovate)  
 novi [a] new (novel)  
 nudi [a] naked (bare)  
 nudisme [n] nudism  
@@ -1152,6 +1156,7 @@ penguin [n] penguin
 penis [n] penis  
 pensa [v] think  
 penta [v] paint  
+pentar [n] painter  
 pera [n] pear  
 perda [v] fart  
 perfet [a] perfect  
@@ -1196,7 +1201,8 @@ politikar [n] politician
 polska [n] Poland  
 pompa [v] pump  
 ponta [v] point (indicate)  
-por [pr] for (in order to)  
+porne [n] porn  
+porne grafia [n] pornography  
 porta [v] carry (bear)  
 portugal [n] Portugal  
 posta [v] send by mail  
@@ -1650,7 +1656,7 @@ yehudi [a] Jew
 yem [v] eat  
 yen [n] eye  
 yep [n] leaf  
-yer [adv] yesterday  
+yero [adv] yesterday  
 yesu [n] Jesus  
 yo [pr] some  
 yo jen [n] someone (somebody)  
