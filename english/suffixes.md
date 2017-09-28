@@ -25,11 +25,22 @@ Any words and affixes can be combined together. In other words, you don't have t
 **budi** : aware  
 **budisme** : Buddhism  
 
+
 ## Origins of Suffixes
+
+### -a
+
+**-a** is the marker of verbs in SVO word order. It is a common verb ending in many natural languages, including Bengali, Swahili, Romanian and Swedish. So, there are pre-existing models for -a, but also other vowels serve as verb endings in different languages.
 
 ### -ar
 
--er is the agentive suffix in English and German. It has equivalents in French -eur, Spanish -ero and Portuguese -eiro. The suffix is found in many French and English loan words in Russian, f.ex. шофёр /šofyor/ (chauffeur, driver), лидер /lidyer/ (leader).
+**-ar** forms nouns that denote an agent. It comes originally from Latin suffix _-arius_, which is present in a handful of English words including _secretary_ (Latin: _secretarius_), _notary_ (Latin: _notarius_) and _vicar_ (Latin: _vicarius_).
+
+This suffix is more productive in Slavic languages. It is used for example in many Serbo-Croatian words, including _ribar_ (fisher), _pekar_ (baker), _ljekar_ (doctor) and _novinar_ (journalist).
+
+Among Romance languages, Romanian uses the suffix -ar. For example _văcar_ (herdsman) and _fierar_ (blacksmith). In Spanish the equivalent suffix is -ero (as in _vaquero_ and _herrero_), -eiro in Portuguese (_vaqueiro_ and _ferreiro_) and -eur in French.
+
+In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Pandunia's **bekar**.
 
 ### -i
 
