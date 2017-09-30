@@ -183,7 +183,7 @@ caku [n] knife
 camca [n] spoon  
 campion [n] champion  
 candi [n] silver  
-cang ad[v] often (frequently)  
+cang [adv] often (frequently)  
 cans [n] opportunity (chance)  
 cap [n] press (stamp)  
 capa [v] press (imprint)  
@@ -507,6 +507,7 @@ helmet [n] helmet
 hema [n] tent  
 hen [n] hate  
 hero [n] hero  
+heroi [a] heroic  
 hewan [n] animal  
 hibride [n] hybrid (mongrel)  
 hima [n] snow  

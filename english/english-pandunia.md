@@ -264,7 +264,6 @@ can (be able)   : ken
 can (tin can)   : tin  
 Canada   : kanada  
 candy (sweets)   : kandi  
-cang ad: often (frequently)    
 cangaroo   : kanguru  
 cannabis   : ganja  
 captain   : kapitan  
@@ -705,6 +704,7 @@ help (aid, assistance)   : mede
 help (assist) : meda  
 heritage (bequest)   : waris  
 hero   : hero  
+heroic   : heroi  
 high   : gaw  
 Himalayas   : himalia  
 Hindu   : hindu  
@@ -1057,6 +1057,7 @@ October   : mes 10 (mes des)
 of (particle of possession)   : de  
 office (position)   : ofis  
 officer   : ofisar  
+often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okey  
 old (not young)   : law  
