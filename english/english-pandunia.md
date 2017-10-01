@@ -66,7 +66,7 @@ adultery (infidelity)   : zine
 advice (counsel)   : konsel  
 affirm (agree, concur)   : amena  
 Africa   : afrika  
-African   : afrikan  
+African   : afrikai  
 after (later)   : bada  
 afternoon   : xam den  
 age   : umur  
@@ -87,6 +87,7 @@ already (done)   : ja
 also (plus, too)   : plus  
 ambassador : daixi  
 America (continent)   : amerika  
+American   : amerikai  
 ampere   : amper  
 analysis   : analis  
 Ancient Egypt (Kemet)   : kemet  
@@ -118,6 +119,7 @@ artist   : artar
 ascetic   : asket  
 ash tree   : yasen  
 Asia   : asia  
+Asian   : asiai  
 ask (question)   : kia  
 ask (request; please)   : cing  
 asparagus   : lusun  
@@ -170,6 +172,7 @@ bear   : baru
 beard   : barda  
 beautiful (handsome)   : sundar  
 bed   : bed  
+bedouin (nomadic)   : badawi  
 bedroom   : son kamar  
 beef   : mumu nama  
 beer   : bir  
@@ -200,6 +203,7 @@ blood   : sang
 blue   : nil  
 board (plank)   : paban  
 boat (ship)   : bot  
+bodily (corporal)   : badani  
 body   : badan  
 Bolivia   : bolivia  
 bomb   : bombe  
@@ -507,7 +511,7 @@ engineer   : injenar
 English   : englix  
 enough (sufficient)   : bas  
 enthusiast (aficionado)   : nik  
-environmental   : tabial  
+environmental (natural)   : tabiai  
 Eris (dwarf planet)   : eris  
 Erithrea   : eritra  
 Estonia   : esti  
@@ -515,8 +519,8 @@ Ethiopia   : itiopia
 Eurasia   : eurasia  
 euro   : euro  
 Europe   : europa  
-European   : europan  
-European Union (EU)   : europan unia  
+European   : europai  
+European Union (EU)   : europai unia  
 even (intensifier)   : hata  
 evening   : xam  
 event (case, instance)   : kazu  
@@ -557,7 +561,6 @@ fault (guilt)   : dox
 fear (phobia)   : fobe  
 feather   : puru  
 February   : mes 2 (mes du)  
-fecal   : fekal  
 feces (poop)   : fek  
 feel (emote)   : senta  
 female   : fem  
@@ -640,7 +643,7 @@ girl   : jovan fem
 give   : dar  
 give birth (procreate, generate)   : jena  
 glass   : glas  
-global   : pandunian  
+global   : panduniai  
 go   : enda  
 goal   : gol  
 god   : dev  
@@ -875,7 +878,7 @@ little (small)   : liti
 live   : jiva  
 live (dwell, reside)   : doma  
 load (to charge)   : lada  
-local   : lokal  
+local   : loki  
 lock   : tala  
 long   : long  
 look (see)   : vida  
@@ -941,7 +944,7 @@ media   : midia
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mit  
-melodious   : melodi  
+melodious (melodic)   : melodi  
 melody   : melodia  
 member (participant)   : membar  
 memory   : memor  
@@ -1005,8 +1008,8 @@ naked (bare)   : nudi
 name   : nam  
 nano-   : nano  
 nation   : nasia  
-national   : nasial  
-nationalism   : nasialisme  
+national   : nasiai  
+nationalism   : nasiaisme  
 nature (environment)   : tabia  
 near (close)   : jin  
 necessary (needed)   : nidi  
@@ -1093,10 +1096,10 @@ paint   : penta
 painter   : pentar  
 Pakistan   : pakistan  
 palm tree   : palma  
-pan-African   : panafrikan  
-pan-American   : panamerikan  
-pan-Asian   : panasian  
-pan-European   : paneuropan  
+pan-African   : panafrikai  
+pan-American   : panamerikai  
+pan-Asian   : panasiai  
+pan-European   : paneuropai  
 Panama   : panama  
 panda   : panda  
 Pandunia   : pandunia  
@@ -1165,6 +1168,9 @@ planet   : planet
 plant (vegetable)   : nabat  
 plastic   : plastik  
 plate   : plat  
+Plato   : platon  
+Platonic   : platoni  
+Platonism   : platonia  
 play (have fun)   : joga  
 play a game   : gema  
 play music   : musika  

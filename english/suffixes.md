@@ -56,7 +56,7 @@ In Arabic, Persian, Urdu and Hindi -ī is a very common suffix for deriving adje
 
 In Japanese -i is a frequent adjectival suffix (of the so called i-adjectives).
 
-Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand; _kézi_ = manual.
+Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand → _kézi_ = manual; _Európa_ Europe → _európai_ European; _Ázsia_ Asia →  _ásziai_ Asian.
 
 
 ### -ia
@@ -80,22 +80,18 @@ The suffix **-ia** is also used with names of governments and other organization
 
 In addition **-ia** is used in words for abstract systems of thinking, such as science and religion. There are lots of examples in natural languages for this pattern too.
 
-<!--
+| Pandunia | filsofia    | kimia     | fizikia  |
+|:---------|:------------|:----------|:---------|
+| English  | philosophy  | chemistry | physics  |
+| French   | philosophie | chimie    | physique |
+| German   | Philosophie | Chemie    | Physik   |
+| Arabic   | falsafa     | kīmiyā    | fīziyā   |
+| Swahili  | falsafa     | kemia     | fizikia  |
 
-| Pandunia | filsofia    | kimia     | biolojia | relijia  |
-| English  | philosophy  | chemistry | biology  | religion |
-| French   | philosophie | chimie    | biologie | religion |
-| German   | Philosophie | Chemie    | Biologie | Religion |
 
--an
+### -isme
 
--an is the suffix for active participle. It descends from Latinate suffix of active participle. In French the present active participle ends in -ant, which is pronounced without the final -t, which is silent. In Spanish and Portuguese the corresponding suffix is -ando.
-
-The same suffix is present in a lot of English words borrowed from French and Latin, both nouns (f.ex. commandant, contestant, immigrant, participant) and adjectives (f.ex. repugnant, triumphant). It is also present in loan words in German (e.g. Musikant, Kommandant, Konkurrent), Russian (e.g. музыкант, комендант, конкурент) and many other languages of Europe.
-
-The suffix is found also in Indonesian in loan words from Dutch and English, for example imigran, infiltran, kontestan (immigrant, infiltrator, contestant). Here we see the suffix in the simplified form -an, which is the form that was chosen for Pandunia.
-
--->
+**-isme** denotes an ideology or a doctrine.
 
 ### -iste
 

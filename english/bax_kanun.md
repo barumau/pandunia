@@ -822,21 +822,20 @@ Additional noun suffixes are presented below.
 
 ### 11.2. Derivational Suffixes
 
-#### 11.2.1. -al
+#### 11.2.1. -i
 
-Creates adjectives from action and thing roots. The resulting adjective indicates relationship of having or likeness.
+**-i** is the all-purpose adjective suffix. It creates adjectives from action and thing roots.
 
-**norme** norm, rule; **normal** normal, regular, that which has rules.  
-**tabia** nature; **tabial** natural, that which is or behaves like the nature.
+**norme** norm, rule; **normi** normal, regular, that which has rules.  
+**tabia** nature; **tabiai** natural, that which is or behaves like the nature  
 
-#### 11.2.2. -an
+It can be applied to names as well.
 
-When applied to place name roots, it denotes something or someone that belongs to, comes from, or is related to that place.
-
-**amerika** America; **amerikan** American  
-**europa** Europe; **europan** European  
-**asia** Asia; **asian** Asian
-**rusia** Russia; **rusian** Russian, of Russia  
+**iran** Iran, **irani** Iranian  
+**pakistan** Pakistan, **pakistani** Pakistani  
+**amerika** America, **amerikai** American  
+**europa** Europe, **europai** European  
+**asia** Asia, **asiai** Asian  
 
 #### 11.2.3. -ar
 
@@ -855,14 +854,6 @@ Creates undergoer nouns from action roots. It denotes the passive participant, w
 **kriata** to create; **kriatur** creature, the one who is created  
 **marta** to kill; **martur** the one who gets killed; by extension: a martyr  
 
-#### 11.2.5. -es
-
-Creates abstract nouns from adjectives, denoting "state of being".
-
-**novi** new; **noves** newness  
-**rik** rich; **rikes** richness  
-
-
 #### 11.2.6. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
@@ -879,6 +870,11 @@ This ending is often found in place names, especially in country names. However 
 **asia** Asia  
 **indonesia** Indonesia  
 **italia** Italy  
+
+Also abstract nouns often end in **-ia**.
+
+**novi** new, **novia** newness, novelty  
+
 
 #### 11.2.7. -iz-
 

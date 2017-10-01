@@ -4,7 +4,7 @@ a [int] ah!
 adres [n] address  
 adulte [n] adult  
 afrika [n] Africa  
-afrikan [a] African  
+afrikai [a] African  
 agres [n] agression (assault)  
 ah [int] argh!  
 aha [v] understand (realize)  
@@ -26,6 +26,7 @@ ama [conj] but
 amen [n] agreement (amen)  
 amena [v] affirm (agree, concur)  
 amerika [n] America (continent)  
+amerikai [a] American  
 amor [n] love  
 amper [n] ampere  
 amuk [n] rage (fury)  
@@ -49,6 +50,7 @@ asle [n] origin
 asli [a] original  
 asan [n] posture (asana)  
 asia [n] Asia  
+asiai [a] Asian  
 asket [n] ascetic  
 asma [n] asthma  
 aspirin [n] aspirin  
@@ -69,6 +71,8 @@ bada [n] after (later)
 badal [n] exchange (swap)  
 badam [n] almond  
 badan [n] body  
+badani [a] bodily (corporal)  
+badawi [a] bedouin (nomadic)  
 bagaje [n] luggage (baggage)  
 bal [a] strong  
 bale [n] force (strength)  
@@ -327,8 +331,8 @@ esti [n] Estonia
 eurasia [n] Eurasia  
 euro [n] euro  
 europa [n] Europe  
-europan [a] European  
-europan unia [n] European Union (EU)  
+europai [a] European  
+europai unia [n] European Union (EU)  
 
 ##f  
 
@@ -357,7 +361,6 @@ fay [n] fire
 feber [n] fiever  
 fek [n] feces (poop)  
 feka [v] defecate  
-fekal [a] fecal  
 fem [a] female  
 fem ban [n] daughter  
 fen [n] part (fraction)  
@@ -831,7 +834,7 @@ loge liste [n] word list
 loja [v] research (to study)  
 lojia [n] science  
 lok [n] place (location)  
-lokal [a] local  
+loki [a] local  
 long [a] long  
 losi [n] screw  
 lubnan [n] Lebanon  
@@ -868,7 +871,7 @@ malaisia [n] Malaysia
 malaria [n] malaria  
 mam [n] breast (boob)  
 mama [n] mother (mom)  
-mamal [a] mammal  
+mamal [n] mammal  
 man [n] male  
 man ban [n] son  
 mana [v] mean (signify)  
@@ -927,7 +930,7 @@ mehiko [n] Mexico
 mei [n] every (each)  
 mei jen [n] everybody (everyone)  
 mei xe [n] everything  
-melodi [a] melodious  
+melodi [a] melodious (melodic)  
 melodia [n] melody  
 memba [v] participate  
 membar [n] member (participant)  
@@ -1040,8 +1043,8 @@ narak [n] hell
 nas [n] people (folk)  
 nasi [a] popular  
 nasia [n] nation  
-nasial [a] national  
-nasialisme [n] nationalism  
+nasiai [a] national  
+nasiaisme [n] nationalism  
 nau [n] brain  
 nederland [n] Netherlands  
 nen [n] year  
@@ -1121,12 +1124,12 @@ palma [n] palm tree
 pan [n] bread  
 panama [n] Panama  
 panda [n] panda  
-panafrikan [a] pan-African  
-panamerikan [a] pan-American  
-panasian [a] pan-Asian  
-paneuropan [a] pan-European  
+panafrikai [a] pan-African  
+panamerikai [a] pan-American  
+panasiai [a] pan-Asian  
+paneuropai [a] pan-European  
 pandunia [n] Pandunia  
-pandunian [a] global  
+panduniai [a] global  
 pang [a] thick (fat)  
 panik [n] panic  
 pantalon [n] pants (trousers)  
@@ -1191,6 +1194,9 @@ plana [v] intend (plan)
 planet [n] planet  
 plastik [n] plastic  
 plat [n] plate  
+platon [n] Plato  
+platoni [a] Platonic  
+platonia [n] Platonism  
 plus [adv] also (plus, too)  
 pluto [n] Pluto (dwarf planet)  
 poker [n] poker  
@@ -1432,7 +1438,7 @@ tabak [n] tobacco
 tabar [n] axe (hatchet)  
 tabel [n] table (matrix)  
 tabia [n] nature (environment)  
-tabial [a] environmental  
+tabiai [a] environmental (natural)  
 taksi [n] taxi  
 taktik [n] tactics (strategy)  
 tal [n] bottom  
