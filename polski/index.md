@@ -16,6 +16,10 @@ Niektóre zauważalne cechy Pandunii:
 ## Materiały do nauki
 
 - [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Pisownia](abc.md)
+- [Rozmówki](jumle.md)
+- [Gramatyka](bax_kanun.md)
+
 - [Słownik z możliwością wyszukiwania](tiddly.html)
 - [Polsko-Pandunia](polski-pandunia.md) słownik
 - [Pandunia-Polski](pandunia-polski.md) słownik
@@ -24,10 +28,17 @@ Niektóre zauważalne cechy Pandunii:
 
 - [Pandunia - nowy światowy pidżyn](dunia_pijin.md)
 - [Pandunia, globalny język kontaktowy](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
+- [Dlaczego lubię Pandunię](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinie uczących się
 
 ## Dołącz do innych
 
-Wiele osób już teraz interesuje się Pandunią i mówi nią. Fora dyskusyjne znajdują się na [Reddicie](https://www.reddit.com/r/pandunia/) i [Facebooku](http://www.facebook.com/groups/pandunia). W komunikatorze internetowym Telegram znajdują się trzy grupy: [grupa wielojęzyczna](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [grupa Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) i [jedynie z Pandunią](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+Wielu ludzi już jest zainteresowanymi Pandunią i używają ją. Znajdziesz fora Pandunii w kilku miejscach:
+
+- Linki i dyskusja na [Reddicie](https://www.reddit.com/r/pandunia/)
+- [Przyjaciele Pandunii](http://www.facebook.com/groups/pandunia) na Facebooku
+- kanały Telegram: [wielojęzyczny](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [w Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) i [w Pandunii](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- [kanały Discord](https://discord.gg/uk36mn8)
+- Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_).
 
 Pandunia jest również obecna na listach mailingowych. Do oficjalnej [grupy Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) można dołączyć wysyłając tutaj [here](mailto:pandunia-subscribe@yahoogroups.com) pustą wiadomość e-mail. nne powiązane listy mailingowe obejmują [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) i [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
 
