@@ -9,9 +9,8 @@ Sometimes regularly derived Pandunia words differ in form and/or meaning from th
 **nas** : people, folk (from Arabic ناس /nās/ )  
 **nasi** : popular  
 **nasia** : nation (similar to Afrikaans "nasie" and Russian "нация" /natsiya/ )  
-**nasial** : national  
-**nasialiste** : nationalist  
-**nasialisme** : nationalism  
+**nasiai** : national  
+**nasiaisme** : nationalism  
 
 Sometimes back-derivation leads to new words.
 
