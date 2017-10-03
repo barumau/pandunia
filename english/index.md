@@ -16,6 +16,11 @@ Some remarkable features of Pandunia:
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Spelling](abc.md)
+- [Phrasebook](jumle.md)
+- [Grammar](bax_kanun.md)
+- [Lessons with Dialogs](darse.md)
+
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](english-pandunia.md) dictionary
 - [Pandunia-English](pandunia-english.md) dictionary
@@ -24,14 +29,21 @@ Some remarkable features of Pandunia:
 
 - [Pandunia - a new world pidgin](dunia_pijin.md)
 - [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (an article in Interlinguistica Tartuensis 10)
+- [Why do I like Pandunia?](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinions from learners
 
 ## Join Others
 
-Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in [Reddit](https://www.reddit.com/r/pandunia/) and [Facebook](http://www.facebook.com/groups/pandunia). In Telegram instant messenger there are three groups: [multilingual group](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [Esperanto group](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) and [Pandunia only](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in several places:
+
+- Links and discussion in [Reddit](https://www.reddit.com/r/pandunia/)
+- [Friends of Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
+- channels in Telegram instant messenger: [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [in Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) and [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- [channels in Discord](https://discord.gg/uk36mn8)
+- You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_). Spread the word!
+
 
 There is talk about Pandunia also in mailing lists. The official [Pandunia group](https://groups.yahoo.com/neo/groups/pandunia/info) can be joined by sending a blank email message [here](mailto:pandunia-subscribe@yahoogroups.com). Other related mailing lists include [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) and [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
 
-You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_). Spread the word!
 
 You can contact a creator of Pandunia, Risto Kupsala, via email [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 

@@ -15,6 +15,7 @@
 
   * [World words](loga.md)
   * [Common words](putong_loga.md)
+  * [Suffixes](suffixes.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)

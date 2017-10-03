@@ -5,6 +5,6 @@ pandunia - dunia bax
 
 salam dunia!
 
-pandunia e inter nasia ge novi bax. pandunia ge loge lay ze dunia ge mei fen: afrika, amerika, asia, europa – ze koz de dunia bax mus wakila tot dunia!
+pandunia si inter nasia ge novi bax. pandunia ge loge lay ze dunia ge mei fen: afrika, amerika, asia, europa – ze koz de dunia bax mus wakila tot dunia!
 
-kia ti saba pandunia ja? se ken darsa pandunia bi [mini darse](mini_darse.html).
+kia tu saba pandunia ja? se ken darsa pandunia bi [mini darse](mini_darse.html).

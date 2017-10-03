@@ -299,6 +299,7 @@ ekran ← frans:écran ruski:turki:ekran khmer:ekrang
 ekuador ←   
 eletre ← portugal:eletricidate italia:elettricità  
 eletron ←   
+enda ← swahili:-enda kongo:kwenda + italia:andare  
 energi ←   
 englic ←   
 eni ← englix:any  
@@ -393,7 +394,6 @@ gim ← nipon:kin hanguk:geum yuthan:gam hak:min:viet:kim thai:kam tagalog:ginto
 ging ← yuthan:ging viet:kính hanguk:gyeong putonghan:jìng  
 gitar ←   
 glas ← englix:glass hindi:urdu:glās swahili:glasi nipon:garasu  
-go ← englix:go  
 gok ← putonghan:guó yuthan:gwok wuu:go' viet:quốc hanguk:guk nipon:koku  
 gol ← englix:goal portugal:espanya:ruski:turki:farsi:gol nipon:gōru  
 gola ← tamil:mal:kaluttu hindi:urdu:galā bangla:gåla farsi:galu italia:gola portugal:goela englix:gullet amara:gurorro  

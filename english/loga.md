@@ -111,7 +111,7 @@ The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhe
 | Javanese   | basa         | basa            |
 | Sundanese  | basa         | basa            |
 
-As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **baca**.
+As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **bax**.
 
 
 ### Examples of global words
@@ -135,7 +135,7 @@ As you can see, the same word is written and pronounced differently in different
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### tca (tea)
+#### ca (tea)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -217,7 +217,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of South Asian words
 
-#### manuc (human being)
+#### manux (human being)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
