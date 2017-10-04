@@ -1,5 +1,6 @@
   
-##a  
+##a
+
 abit : asua  
 adres : osoite  
 adulte : aikuinen  
@@ -52,7 +53,9 @@ aventur : seikkailu
 ax : äh!  
 ayiti : Haiti  
 a : ah!  
-##b  
+
+##b
+
 baca : kieli (puhekieli)  
 baca logi : kielitiede  
 bad : huono  
@@ -157,7 +160,9 @@ bunduk : pyssy (kivääri)
 bus : bussi (linja-auto)  
 buton : näppäin  
 buton paban : näppäimistö  
-##c  
+
+##c
+
 cabi : avain  
 caca : kahista  
 cak : epäillä  
@@ -195,7 +200,9 @@ cok : isku (šokki)
 corab : sukka  
 culi : korjata  
 cup : imeä  
-##d  
+
+##d
+
 dado : noppa  
 daftar : rekisteri (luettelo)  
 dai : iso (suuri)  
@@ -280,7 +287,9 @@ dunia : maailma (Maapallo)
 dunia baca : maailmankieli  
 dur : kestää (kulua aikaa)  
 dzayer : Algeria  
+
 ##e  
+
 eglis : kirkko  
 ekran : näyttöruutu  
 ekuador : Ekvador  
@@ -299,7 +308,9 @@ europa : Eurooppa
 europa uni : Euroopan Unioni  
 exo : kaiku  
 e : olla  
+
 ##f  
+
 fai : tuli (palo)  
 faida : hyöty  
 fain : hieno (hienojakoinen)  
@@ -348,7 +359,9 @@ ful : täysi
 fung : tuuli (tuulla)  
 funsi : toimia  
 futur : tuleva (tulevaisuus)  
+
 ##g  
+
 gabar : hauta  
 gadja : norsu (elefantti)  
 galeri : galleria (näyttely)  
@@ -407,7 +420,9 @@ gung fu : kungfu
 guru : asiantuntija (guru)  
 gusta : maistaa (maku)  
 gut : luu  
-##h  
+
+##h
+
 ha : olla (omistaa)  
 haha : nauraa (nauru)  
 hai : yhä (vielä)  
@@ -453,7 +468,9 @@ huli : kettu
 humus : kikherne  
 humus sos : hummus  
 hura : hurrata (hurraa)  
-##i  
+
+##i
+
 ibri : heprea  
 idea : idea  
 igen : mielipide (olla jtk mieltä)  
@@ -480,7 +497,9 @@ italia : Italia
 itiopia : Etiopia  
 izi : helppo  
 i : ja  
-##j  
+
+##j
+
 ja : jo (aiemmin)  
 jadi : jos  
 jaket : jakku  
@@ -503,7 +522,9 @@ jumla : lause
 jung : sulaa  
 jup : hame  
 jus : mehu  
-##k  
+
+##k
+
 ka : kuin (kuten)  
 kabau : vesipuhveli  
 kabil : kyetä (kykenevä, pätevä)  
@@ -629,7 +650,9 @@ kuran : koraani
 kursi : tuoli  
 kurva : mutka (kurvi)  
 kusen : tyyny  
-##l  
+
+##l
+
 lab : huuli  
 laba : torvi  
 lad : ladata  
@@ -685,7 +708,9 @@ lun : väittää (väite)
 luna : kuu  
 lusun : parsa  
 lut : ryöstää (ryövätä)  
-##m  
+
+##m
+
 macin : kone (masiina)  
 madju : valjaat  
 madyar : Unkari  
@@ -826,7 +851,9 @@ mus : täytyä (pakko)
 musik : musiikki  
 musik nik : musiikinharrastaja  
 muskul : lihas (muskeli)  
-##n  
+
+##n
+
 na : sijaintia merkitsevä prepositio  
 na cia : alla (alapuolella)  
 na dur de : sillä aikaa kun  
@@ -885,7 +912,9 @@ numer : numero (luku)
 numer un : ensimmäinen (numero yksi)  
 nun : nyt  
 nuton : newton  
-##o  
+
+##o
+
 okei : okei (kelvata)  
 oksi : happi  
 oma : isoäiti (mummo)  
@@ -897,7 +926,9 @@ orgazme : orgasmi
 oskur : hämärä  
 osteraix : Itävalta  
 o : oi!  
-##p  
+
+##p
+
 paban : lauta  
 pagri : turbaani  
 pai : piirakka (piiras)  
@@ -1001,8 +1032,10 @@ pupe : nukke
 puru : sulka (höyhen)  
 putau : rypäle  
 putong : yleinen (tavallinen)  
-putong han : yleiskiina  
-##r  
+putong han : yleiskiina
+
+##r
+
 radio : radio  
 ramazan : ramadan  
 randa : höylä  
@@ -1043,8 +1076,10 @@ ruk : selkä
 ruk sak : selkäreppu  
 rup : ulkoasu (ulkonäkö)  
 ruski : venäläinen  
-rutin : tottumus (rutiini)  
-##s  
+rutin : tottumus (rutiini)
+
+##s
+
 sa : tämä tai tuo  
 sa djin : tämä tässä  
 sa far : tuo tuolla  
@@ -1101,6 +1136,7 @@ silsil : ketju
 sin : merkki (signaali)  
 singa : leijona  
 singapur : Singapore  
+si : kyllä (joo)  
 sir : salainen  
 sirka : noin  
 sis : kuusi (6)  
@@ -1133,7 +1169,7 @@ suci : sushi
 sud : etelä  
 sudafrika : Etelä-Afrikan tasavalta  
 sudan : Sudan  
-sui : vesi  
+su : vesi  
 suk : tykätä (nauttia, pitää)  
 sukar : sokeri  
 sultan : valta (määräysvalta)  
@@ -1148,9 +1184,11 @@ suriname : Surinam
 surya : aurinko  
 suxa : kuiva  
 svenska : Ruotsi  
-svis : Sveitsi  
+svis : Sveitsi
+
+  
 ##t  
-ta : hän (se)  
+
 tabak : tupakka  
 tabar : kirves (tappara)  
 tabia : luonto (ympäristö)  
@@ -1164,7 +1202,6 @@ tala : lukko
 talka : talkoo  
 tamar : taateli  
 tambur : rumpu  
-tamen : he (ne)  
 tanax : tanakh (juutalaisten raamattu)  
 tank : tankki (säiliö)  
 tanzania : Tansania  
@@ -1211,11 +1248,9 @@ teror : kauhu (terrori)
 teste : testata (koetella)  
 teyan : ehdottaa (ehdotus)  
 tez : kiivas (asiayhteydestä riippuen: kova, nopea, väkevä, vahva)  
-ti : sinä  
 tik : oikea (asianmukainen)  
 tiket : lippu (piletti)  
 tim : joukkue (tiimi)  
-timen : te  
 tin : tölkki  
 ting : asia  
 tip : laji (sortti, tyyppi)  
@@ -1236,10 +1271,12 @@ tren : juna
 tren dau : junarata (rautatie)  
 tsuka : etikka  
 tualet : vessa (WC)  
+tu : sinä  
 tub : putki  
 tufan : myrsky  
 tul : työkalu  
 tulip : tulppaani  
+tumen : te  
 tundra : tundra  
 tunel : tunneli  
 tunel tren : metrojuna (maanalainen)  
@@ -1247,8 +1284,10 @@ tung : sattua (kipu)
 tunis : Tunisia  
 tur : kierros (turnee)  
 turki : Turkki  
-tuzi : jänis (pupu)  
-##u  
+tuzi : jänis (pupu)
+
+##u
+
 udas : surullinen  
 ukrayina : Ukraina  
 ulu : ulvoa  
@@ -1262,8 +1301,10 @@ uranium : uraani
 urdun : Jordania  
 uruguai : Uruguai  
 usa : USA  
-u : tai (vai)  
-##v  
+u : tai (vai)
+
+##v
+
 vaksin : rokote  
 vale : laakso  
 vanila : vanilja  
@@ -1301,8 +1342,10 @@ vokal : vokaali
 vol : haluta  
 volta : voltti (V)  
 vos : ääni (puheääni)  
-vot : äänestää (ääni)  
-##w  
+vot : äänestää (ääni)
+
+##w
+
 wa : oho! (vau!)  
 wac : pestä (pesu)  
 wac macin : pesukone  
@@ -1325,7 +1368,9 @@ weste : länsi
 wiki : wiki  
 win : voittaa  
 wing : siipi  
+
 ##x  
+
 xabar : uutinen  
 xabar gazet : sanomalehti  
 xali : tyhjä  
@@ -1342,7 +1387,9 @@ xerub : kerubi
 xiyar : kurkku (kasvi)  
 xolera : kolera  
 xor : kuoro  
+
 ##y  
+
 yad : muisti  
 yak : jakki  
 yakin : varma  
@@ -1351,7 +1398,8 @@ yaman : Jemen
 yang : laji (sortti, tyyppi)  
 yani : eli (toisin sanoen)  
 yasen : jalava  
-ye : kyllä (joo)  
+ye : hän (se)  
+yemen : he (ne)  
 yehudi : juutalainen  
 yem : nauttia (syödä tai juoda)  
 yep : lehti  
@@ -1368,7 +1416,9 @@ yumor : huumori
 yung : käyttää (käyttö)  
 yungam : rohkea (uskalias, urhea)  
 yureka : löytää  
+
 ##z  
+
 zafran : sahrami  
 zaitun : oliivi  
 zalim : julma  
@@ -1387,4 +1437,5 @@ zizi : kärpänen
 zon : vyö (vyöhyke)  
 zukam : vilustuminen  
 zulu : zulu  
-zumrud : smaragdi  
+zumrud : smaragdi
+

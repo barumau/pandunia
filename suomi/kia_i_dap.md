@@ -122,7 +122,7 @@ Pandunia on taipumaton kieli. Mm. persoonamuodot, aikamuodot, yksikkö ja monikk
 Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen osat on erotettu toisistaan pystyviivalla.
 
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
-    Pandunia:  mi   vol    vide  ti ge   du    sundar    yen.
+    Pandunia:  mi   vol    vida  tu ge   du    sundar    yen.
                Minä haluan nähdä sinun   kaksi kaunista  silmää.
 
 #### Miksi kirjain C äännetään suhu-ässänä?
