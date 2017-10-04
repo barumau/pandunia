@@ -206,7 +206,7 @@ catar ← bangla:chata hindi:urdu:chātā khmer:čhat farsi:čatr kan:marati:pan
 karbon ← frans:charbon  
 catur ← mon:šatar indonesia:catur hindi:śatranj  
 caya ← bangla:hindi:cāyā tamil:telugu:cāya orm:caaya farsi:sayeh  
-cek ← englix:check portugal:checar doic:checken  
+ceka ← englix:check portugal:checar doic:checken swahili:ceki  
 celo ←   
 centi ←   
 ceska ←   
@@ -231,7 +231,8 @@ daftar ← arabi:farsi:indonesia:daftar turki:defter amara:däbtär
 dai ← yuthan:daai putonghan:dà,dài viet:đại nipon:dai- hanguk:dae-  
 daixi ← nipon:taishi putonghan:dàshǐ   
 dama ← arabi:dāmā amara:swahili:turki:dama frans:dames espanya:portugal:damas viet:cờ đam indonesia:dam  
-dane ← farsi:dāne turki:nipon:tane hindi:urdu:dānā  
+dana ← hindi:urdu:denāespanya:donar  
+dane ← farsi:dāne turki:nipon:tane thai:tan hindi:urdu:dānā  
 danke ← doic:Danke afr:dankie ukr:tceska:polska: englix:thank hindi:dhanyavad  
 danmark ←   
 dans ← turki:dans englix:dance frans:danse portugal:dança nipon:dansu farsi:dāns  
@@ -348,6 +349,7 @@ fizik ←
 fizik logi ← swahili:fizikia arabi:fiziya  
 fobi ←   
 fokus ← ruski:fokus englix:focus portugal:espanya:foco  
+fong ← putonghan:fēng yuthan:wuu:fung min:fong  
 forka ←   
 forma ← frans:forme portugal:espanya:ruski:forma doic:englix:form  
 forum ←   
@@ -359,7 +361,7 @@ fubu ← putonghan:fubu nipon:fukubu
 fuk ← nipon:fuku viet:phục yuthan:fuk putonghan:fú  
 ful ← englix:full doic:voll  
 funci ← espanya:función portugal:função indonesia:fungsi turki:fonksiyon ruski:funktsiia  
-fung ← putonghan:fēng yuthan:wuu:fung  
+funga ← swahili:-funga lingala:kofúnga kongo:kufunga  
 futur ← englix:frans:future espanya:portugal:futuro  
 
 ## g
@@ -940,7 +942,7 @@ parda ← hindi:urdu:pardā farsi:parde turki:perde
 pas ← englix:pass portugal:passar espanya:pasar + turki:pasaport ruski:pasport ...  
 pasa ← espanya:pasar portugal:passar englix:pass frans:passer swahili:pasi hindi:pās  
 paskal ←   
-pat ← hindi:urdu:path englix:path doic:Pfad + ruski:put  
+pat ← hindi:urdu:path tamil:pātai englix:path doic:Pfad turki:patika + ruski:put  
 paunde ←   
 paus ← doic:frans:englix:pause ruski:pauza portugal:espanya:pausa  
 ped ← hindi:urdu:pEr panjabi:pēr portugal:pé kan:pāda italia:piede  

@@ -232,7 +232,7 @@ daftar [n] register
 daixi [n] ambassador
 daixi kan [n] embassy
 dama [n] checkers  
-dane [n] seed  
+dane [n] grain (seed)  
 danka [v] thank  
 danke [n] thanks (thank you)  
 danmark [n] Denmark  
@@ -242,6 +242,7 @@ dante doktar [n] dentist
 dap [n] answer (response)  
 dapa [v] respond (give an answer)  
 dar [v] give  
+dare [n] gift  
 darba [v] strike (punch)  
 daria [n] sea (ocean)  
 darme [n] dharma (piety)  
@@ -391,6 +392,8 @@ fizikia [n] physics
 fobe [n] fear (phobia)  
 fokus [n] focus (concentration)  
 fokusa [v] concentrate  
+fong [n] wind  
+fonga [v] blow  
 forke [n] fork  
 forme [n] form (shape)  
 forum [n] forum  
@@ -404,7 +407,9 @@ fuka [v] wear clothes
 ful [a] full  
 fula [v] fill  
 funca [v] function (work)  
-fung [n] wind  
+funga [v] close (shut)  
+fungi [a] closed (shut)  
+fungula [v] open  
 futur [a] future  
 
 ##g  
@@ -437,6 +442,7 @@ gem [n] game
 gema [v] play a game  
 gemar [n] player (gamer)  
 gen [n] root  
+geta [v] get (receive, obtain, take)  
 gida [v] drive  
 giga [num] billion (giga-)  
 gim [n] gold  
@@ -657,6 +663,7 @@ kanguru [n] cangaroo
 kanun [n] law  
 kap [n] cover (covering)  
 kapa [v] cover (conceal)  
+kapula [v] uncover (reveal)  
 kapitan [n] captain  
 kaput [a] broken (out of order)  
 kar [n] deed (work)  
@@ -1053,7 +1060,6 @@ nenufar [n] water lily (nenuphar)
 nepal [n] Nepal  
 neptun [n] Neptune  
 net [n] net  
-ni [pn] you  
 niama [n] meat (flesh)  
 nida [v] need  
 nidi [a] necessary (needed)  
@@ -1062,7 +1068,6 @@ nik [n] enthusiast (aficionado)
 nikaragua [n] Nicaragua  
 nil [a] blue  
 nilon [n] nylon  
-nimen [pn] you all  
 nipon : Japan  
 nitro [n] nitrogen  
 nixe [n] niche (alcove)  
@@ -1143,7 +1148,7 @@ paraguai [n] Paraguay
 parde [n] curtain  
 pasa [v] pass (go by, go past)  
 paskal [n] pascal  
-pat [n] path  
+pat [n] path (track, trail)  
 paunde [n] pound (£)  
 paus [n] pause (break, interruption)  
 pausa [v] pause (interrupt)  
@@ -1359,6 +1364,7 @@ servar [n] servant (waiter)
 sesam [n] sesame  
 set [num] seven (7)  
 set var [n] week  
+si [adv] yes (yeah)  
 sibir [n] Siberia  
 sifa [n] quality (charasteristic)  
 sigar [n] cigar  
@@ -1433,7 +1439,6 @@ svis [n] Switzerland
 
 ##t  
 
-ta [pr] he or she or it  
 tabak [n] tobacco  
 tabar [n] axe (hatchet)  
 tabel [n] table (matrix)  
@@ -1445,7 +1450,6 @@ tal [n] bottom
 tala [n] lock  
 tamar [n] date fruit  
 tambur [n] drum  
-tamen [pr] they  
 tanah [n] Tanakh (Jewish Bible)  
 tank [n] tank (container)  
 tanzania [n] Tanzania  
@@ -1501,11 +1505,13 @@ tot [a] whole (entire, all)
 total [a] total (affecting all)  
 tren [n] train  
 tren dau [n] railway (railroad)  
+tu [pn] you  
 tualet [n] toilet (WC)  
 tub [n] tube (pipe)  
 tufan [n] storm (tempest)  
 tul [n] tool  
 tulip [n] tulip  
+tumen [pn] you all  
 tundra [n] tundra  
 tunel [n] tunnel  
 tunel tren [n] subway (metro)  
@@ -1658,7 +1664,8 @@ yaman [n] Yemen
 yang [n] kind (type, style)  
 yani [conj] that is (in other words, i.e.)  
 yasen [n] ash tree  
-ye [adv] yes (yeah)  
+ye [pr] he or she or it  
+yemen [pr] they  
 yehudi [a] Jew  
 yem [v] eat  
 yen [n] eye  

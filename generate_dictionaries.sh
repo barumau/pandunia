@@ -11,13 +11,9 @@ cp english/pandunia-english.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
 
-# ze pandunia do suomi
-cat suomi/sanasto.txt temp/alfahead.txt > temp/temp.txt
-sed 's/	/ : /g' temp/temp.txt | LC_ALL=C sort -f | sed 's/.00/##/g' > suomi/pandunia-suomi.md
-sed 's/_//g' -i suomi/pandunia-suomi.md
-sed 's/$/  /' -i suomi/pandunia-suomi.md
 # ze suomi do pandunia
-cat suomi/sanasto.txt temp/alfahead.txt > temp/temp.txt
+cat suomi/pandunia-suomi.md | sed '/^#/ d' > temp/temp2.txt
+cat temp/temp2.txt temp/alfahead.txt > temp/temp.txt
 awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > suomi/suomi-pandunia.md
 sed 's/_//g' -i suomi/suomi-pandunia.md
 sed 's/$/  /' -i suomi/suomi-pandunia.md

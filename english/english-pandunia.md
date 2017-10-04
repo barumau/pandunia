@@ -200,6 +200,7 @@ birthday   : jene den
 biscuit (cookie)   : biskut  
 black   : kal  
 blood   : sang  
+blow   : fonga  
 blue   : nil  
 board (plank)   : paban  
 boat (ship)   : bot  
@@ -340,6 +341,8 @@ classify (categorize)   : klasa
 clean (pure)   : saf  
 clean (purify)   : safa  
 clear (not obscured)   : klar  
+close (shut)   : funga  
+closed (shut)   : fungi  
 cloth (fabric, textile)   : tela  
 clothing   : fuk  
 cloud   : megam  
@@ -635,7 +638,9 @@ gazelle   : gazel
 gel (jelly)   : jele  
 German   : doic  
 gesture   : jeste  
+get (receive, obtain, take)   : geta  
 ghost (fantom)   : fantom  
+gift   : dare  
 ginger   : inji  
 ginseng   : jenxen  
 giraffe   : jiraf  
@@ -653,6 +658,7 @@ Good day   : den salam
 Good evening   : xam salam  
 Good morning   : suba salam  
 gospel   : anjil  
+grain (seed)   : dane  
 gram   : gram  
 grandfather   : opa  
 grandmother   : oma  
@@ -694,7 +700,7 @@ hate   : hen
 have   : ha  
 have sex   : seksa  
 hazard   : hazar  
-he or she or it   : ta  
+he or she or it   : ye  
 head   : sar  
 heal (cure)   : dokta  
 hear (listen)   : auda  
@@ -1069,6 +1075,7 @@ Oman   : oman
 on (on top)   : na par  
 one (1)   : un  
 only (just)   : solo  
+open   : fungula  
 open   : kaya  
 open (not closed)   : kay  
 opinion (view)   : igen  
@@ -1116,7 +1123,7 @@ party (festival)   : feste
 pascal   : paskal  
 pass (go by, go past)   : pasa  
 past (former, gone)   : gon  
-path   : pat  
+path (track, trail)   : pat  
 pause (break, interruption)   : paus  
 pause (interrupt)   : pausa  
 pay   : peya  
@@ -1349,7 +1356,6 @@ season   : mosim
 second(s)   : sekun  
 secret   : sir  
 secretary   : sekretar  
-seed   : dane  
 seismology   : sisme lojia  
 selenium   : selen  
 self   : se  
@@ -1506,7 +1512,7 @@ that is (in other words, i.e.)   : yani
 theft   : cur  
 theology   : dev lojia  
 theory   : teore  
-they   : tamen  
+they   : yemen  
 thick (fat)   : pang  
 thief   : curar  
 thing   : xe  
@@ -1575,6 +1581,7 @@ tyrant   : tiran
 ##u  
 Ukraine   : ukrayina  
 umbrella (parasol)   : catar  
+uncover (reveal)   : kapula  
 under (below)   : xia  
 undergo (verb of the passive voice)   : bei  
 understand (realize)   : aha  
@@ -1656,7 +1663,7 @@ whole (entire, all)   : tot
 wide   : kuan  
 wiki   : wiki  
 win (victory)   : win  
-wind   : fung  
+wind   : fong  
 window   : janela  
 wine   : vin  
 wing   : wing  
@@ -1684,11 +1691,11 @@ year   : nen
 yeast   : hamir  
 yellow   : wang  
 Yemen   : yaman  
-yes (yeah)   : ye  
+yes (yeah)   : si  
 yesterday   : yero  
 yoga   : yoga  
-you   : ni  
-you all   : nimen  
+you   : tu  
+you all   : tumen  
 young   : jovan  
 ##z  
 Zambia   : zambia  

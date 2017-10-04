@@ -7,6 +7,48 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
     
 a : ah!    
 ##a  
@@ -1010,7 +1052,7 @@ pupe : nukke
 puru : sulka (höyhen)    
 putau : rypäle    
 putong : yleinen (tavallinen)    
-putong han : yleiskiina    
+putong han : yleiskiina  
 ##r  
 radio : radio    
 ramazan : ramadan    
@@ -1052,7 +1094,7 @@ ruk : selkä
 ruk sak : selkäreppu    
 rup : ulkoasu (ulkonäkö)    
 ruski : venäläinen    
-rutin : tottumus (rutiini)    
+rutin : tottumus (rutiini)  
 ##s  
 sa : tämä tai tuo    
 sa djin : tämä tässä    
@@ -1255,8 +1297,8 @@ tung : sattua (kipu)
 tunis : Tunisia    
 tur : kierros (turnee)    
 turki : Turkki    
-tuzi : jänis (pupu)    
-u : tai (vai)    
+tuzi : jänis (pupu)  
+u : tai (vai)  
 ##u  
 udas : surullinen    
 ukrayina : Ukraina    
@@ -1309,7 +1351,7 @@ vokal : vokaali
 vol : haluta    
 volta : voltti (V)    
 vos : ääni (puheääni)    
-vot : äänestää (ääni)    
+vot : äänestää (ääni)  
 ##w  
 wa : oho! (vau!)    
 wac : pestä (pesu)    
@@ -1396,4 +1438,4 @@ zizi : kärpänen
 zon : vyö (vyöhyke)    
 zukam : vilustuminen    
 zulu : zulu    
-zumrud : smaragdi    
+zumrud : smaragdi  
