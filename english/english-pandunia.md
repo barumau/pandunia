@@ -752,7 +752,7 @@ hurry (hasten)   : yala
 hurt   : paxa  
 hurt (pain)   : tung  
 hybrid (mongrel)   : hibride  
-I (me)   : me  
+I (me)   : mi  
 ##i  
 Iceland   : island  
 idea   : idea  
@@ -1003,8 +1003,8 @@ music   : musik
 music fan   : musik nik  
 musician   : musikar  
 must   : mus  
-my   : me ge  
-my parents   : me ge law  
+my   : mi ge  
+my parents   : mi ge law  
 Myanmar (Burma)   : bama  
 myth (divine story)   : devi kat  
 ##n  
@@ -1645,7 +1645,7 @@ watermelon   : arbuz
 watt   : wat  
 wax   : mum  
 way (road)   : dau  
-we   : memen  
+we   : mimen  
 wear clothes   : fuka  
 weather   : tenci  
 Wednesday   : var 3 (var sam)  

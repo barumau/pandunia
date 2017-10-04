@@ -923,9 +923,6 @@ maxin [n] machine
 mau [n] cat  
 maidan [n] square (plaza)  
 mais [n] corn (maize)  
-me [pr] I (me)  
-me ge [pr] my  
-me ge law [n] my parents  
 medalia [n] medallion (medal)  
 mede [n] help (aid, assistance)  
 meda [v] help (assist)
@@ -942,7 +939,6 @@ melodia [n] melody
 memba [v] participate  
 membar [n] member (participant)  
 meme [n] sheep  
-memen [pn] we  
 memor [n] memory  
 memora [v] remember  
 men [n] bunch (collection)  
@@ -964,6 +960,9 @@ metal [n] metal
 metar [n] meter  
 metod [n] method  
 meza [n] table  
+mi [pr] I (me)  
+mi ge [pr] my  
+mi ge law [n] my parents  
 micin [n] MSG (monosodium glutamate)  
 mien [n] noodle  
 midi [a] mean (medium, average)  
@@ -972,6 +971,7 @@ migan [n] mandarin orange
 mikro [num] micro-  
 mili [num] milli-  
 milke [n] milk  
+mimen [pn] we  
 min [adv] less  
 min ka bas [adv] too little  
 minara [n] tower  
