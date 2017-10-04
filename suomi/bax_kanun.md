@@ -7,86 +7,115 @@ Perussäännöt
 
 1. Kaikki sanat luetaan äänteenmukaisesti. Kaikki sanat voidaan kirjoittaa pienillä kirjaimilla.
 2. Sanan painollinen tavu on ennen viimeistä konsonanttia.
-3. Kaikki sanat ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
-4. Kun laatusana on ennen asiansanaa, se toimii määreenä. Kun se on asiansanan jälkeen, se toimii teonsanana.
-    - esim. **bon pan** = Hyvää leipää. **pan bon** = Leipä (on) hyvää.
-5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia asiansanoja vierekkäin. Tärkein sana on viimeisenä.
+3. Substantiivit (asiansanat) ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
+4. Adjektiivin (laatusanan) paikka on asiansanan edessä tai jäljessä. Adjektiivien yleinen pääte on **-i**.
+    - esim. **bon pan** = Hyvää leipää. **pan bon** = Leipää hyvää.
+5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia substantiiveja peräkkäin. Tärkein sana on viimeisenä.
     - esim. **poste sanduk** = postilaatikko
-6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
+6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Tällöin verbin pääte on **-a**.
     - esim. **mi penta meza.** = Minä maalaan pöytiä.
-7. Passiivisen lauseessa on vain subjekti ja verbi.
-    - esim. **ye pentu.** = Se maalataan.
+7. Passiivisen lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
+    - esim. **meza pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
     - esim. **mi cing tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Osaatko sinä panduniaa?
-    - **mi cing tu loga tez.** →  **cing loga tez.** = Pyydän, puhu kovempaa.
+    - **mi cing tu loga klar.** →  **cing loga klar.** = Pyydän, puhu selvästi.
 
 
 
-Sanaluokat
-----------
+--------------------------------------------------------------------------------
+## 2. Substantiivit
 
-Kaikki pandunian sanat ovat taipumattomia. Niinpä pandunian sanaluokat perustuvat merkitykseen muodon sijasta.
-
-Pandunian sanaluokat ovat:
-
-1. Asiansanat (substantiivit) nimeävät esineitä ja asioita, kuten kivi, pöytä, robotti, kissa, ihminen ja jumala.
-2. Laatusanat (adjektiivit) kuvaavat asioiden ja tekojen laatua, esim. hyvä, huono, iso ja nopea.
-3. Lukusanat (numeraalit) ilmoittavat määrää, lukumäärää ja järjestystä, esim. yksi, monta ja ensimmäinen.
-4. Teonsanat (verbit) nimeävät tekoja ja tapahtumia, esim. syödä, puhua, katsoa ja kirjoittaa.
-5. Pikkusanat (partikkelit) ovat rakenteellisia ja käsitteellisiä sanoja, esim. kyllä, ei, mutta, jos, joten ja kai.
-
-
-Asiansanat
-----------
+### 2.1. Taipumattomia
 
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
 > **batu** - kivi tai kiviä  
 > **meza** - pöytä tai pöytiä  
 > **kursi** - tuoli tai tuoleja  
-> **hima** - lunta  
+> **su** - vesi, vettä  
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sole** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **surya** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **luna** maapallon ainoaa kuuta.
 
-Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
+### 2.3. Suku
+
+Panduniassa ei ole kieliopillista sukua (eli maskuliinia, feminiiniä tai neutria).
+
+Tietyillä sanoilla on _luonnollinen suku_. Esimerkiksi **fem** (nainen) on feminiini ja **man** (mies) on maskuliini.
+
+### 2.4. Yhdyssanat
+
+Kaksi tai useampia substantiiveja voidaan liittää yhdyssanaksi. Yhdyssanan viimeinen sana on tärkein ja se määrää koko yhdyssanan sanaluokan. Sitä ennen tulevat sana ainoastaan muokkaavat pääsanan merkitystä.
 
 > **surya guang** - auringon valo  
 > **luna guang** - kuun valo  
 > **luna batu** - kuukivi  
 
-Asiansanan sanominen kahdesti on helppo tapa korostaa sen monikollisuutta.
+--------------------------------------------------------------------------------
 
-> **batu batu** - paljon kiviä  
-> **tara tara** - paljon tähtiä  
-> **hima hima** - paljon lunta  
+## 3. Määreet
 
-Laatusanat
-----------
+Määre on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
 
-Laatusanat määrittävät seuraavana tulevaa asiansanaa.
+### 3.1. Adjektiivit
 
-> **dai batu** - iso kivi  
-> **cung batu** - raskas kivi  
-> **dai meza** - isto pöytä  
-> **gau meza** - korkea pöytä  
+#### 3.1.1. Yleistä
+
+Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
+
+> **day batu** - iso kivi  
+> **day meza** - iso pöytä  
+> **gaw meza** - korkea pöytä  
 > **bon kursi.** - hyvä tuoli
 
-Kuun laatusanaa on asiansanan perässä, se toimii tilaa ilmaisevana teonsanana.
+Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-> **batu dai.** - Kivi on iso.  
-> **meza gau.** - Pöytä on korkea.
+> **batu day** - kivi iso _tai_ Kivi on iso.  
+> **meza gaw** - pöytä korkea _tai_ Pöytä on korkea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-> **dai meza gau.** - Iso pöytä on korkea.
+> **day meza gaw.** - Iso pöytä on korkea.
 
-Laatusanoilla voi myös määrittää teonsanaa eli ne toimivat myös adverbin tavoin.
+#### 3.1.3. Adjektiivin päätteet
 
-> **mi _bon_ son.** - Minä nukun _hyvin_.  
-> **tu _bon_ baxa pandunia.** - Sinä puhut panduniaa _hyvin_.
+Adjektiivin tunnus on **-i**. Tätä päätettä käytetään aina, kun adjektiivi on johdettu teonsanaa tai asiansanaa tarkoittavasta sanavartalosta. Eism. **logi** _puhuttu_, **suki** _pidetty, mukava_, **kitabi** _kirjoitettu_.
 
+Päätettä ei käytetä sellaisten sanavartaloiden kanssa, jotka ilmaisevat laatua ja jotka päättyvät helposti äännettävään konsonanttiin. Esim. **bon** _hyvä_, **sundar** _kaunis_.
+
+
+
+### 3.2 Adverbit
+
+Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
+
+Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
+
+> **mi _bono_ sona.** - Minä _hyvin_ nukun.  
+> **mi sona _bono_.** - Minä nukun _hyvin_.  
+> **tu baxa pandunia _bono_.** - Sinä puhut panduniaa _hyvin_.
+
+
+#### 3.2.2. Adverbin tunnus
+
+Tavan adverbien tunnus on **-o**: **bono** _hyvin_, **sundaro** _kauniisti_.
+
+
+### 3.3. Vertailu
+
+Sekä adjektiiveja että adverbeja voi verrata.
+
+- **max** : enemmän, -mpi
+- **maxim** : eniten
+- **min** : vähemmän
+- **minim** : vähiten
+- **sem** : yhtä
+
+Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
+
+> **mi si max bon ka tu.** - Minä olen parempi kuin sinä.  
+> **tu loga sem bono ka mi.** - Sinä puhut yhtä hyvin kuin minä.
 
 Lukusanat
 ---------
@@ -96,8 +125,9 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 > **un tara** - yksi tähti  
 > **du tara** - kaksi tähteä  
 > **sam tara** - kolme tähteä  
-> **xau tara** - vähän tähtiä  
-> **poli tara** - paljon tähtiä
+> **xaw tara** - vähän tähtiä  
+> **poli tara** - useita tähtiä  
+> **multi tara** - paljon tähtiä  
 
 
 > **un dai meza** - yksi iso pöytä  
@@ -183,7 +213,7 @@ Panduniassa on yksi yleiskäyttöinen osoittava pronomini eli demonstratiivipron
 Osoittavat pronomonit ovat laatusanan kaltaisia
 
 > **sa batu.** - Tämä kivi.
-> **sa e batu.** - Tämä on kivi.
+> **sa si batu.** - Tämä on kivi.
 > **sa batu cung.** - Tämä kivi painaa.
 
 
@@ -504,13 +534,13 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara vol darsa pandunia koz ye e bon dunia baxa.
+    yusef i sara vol darsa pandunia ze koz de ye si bon dunia bax.
 
                       ze koz de
                ┌──────────┴──────────┐
-              vol                    e
+              vol                   si
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ye    baxa
+          i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |

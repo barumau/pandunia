@@ -12,7 +12,7 @@ This grammar deals with the types of words and word order patterns in Pandunia. 
 1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
 2. The stress accent is on the syllable before the last consonant of the word.
 3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. An adjective is placed before or after a noun and it works as a modifier.
+4. An adjective is placed before or after a noun and it works as a modifier. Frequently adjectives end in **-i**.
     - ex. **bon pan** = Good bread. **pan bon** = Bread good.
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
@@ -80,17 +80,17 @@ An adjective is a word that adds a particular quality for a noun. In Pandunia ad
 
 > **day batu** - big stone
 > **day meza** - big table  
-> **alti meza** - high table
+> **gaw meza** - high table
 > **bon kursi** - good chair
 
-Adjectives can be also after the noun.
+Adjectives can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batu day.** - stone big  
-> **meza alti.** - table high
+> **batu day.** - stone big _or_ The stone is big.  
+> **meza gaw.** - table high _or_ The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meza alti** - big table high
+> **day meza gaw** - big table high
 
 
 #### 3.1.3. Adjective endings
@@ -98,8 +98,6 @@ Naturally there can be modifiers on both sides of the noun as well.
 Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
 
 The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
-
-Some suffixes are also adjectival by default. These include **-al**. Ex. **social** _societal_.
 
 
 
@@ -145,14 +143,14 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 
 > **un tara** - one star  
 > **du tara** - two stars  
-> **sam tara** - three stars
-> **poli tara** - several stars (two or more)
-> **xau tara** - few stars
+> **sam tara** - three stars  
+> **poli tara** - several stars (two or more)  
+> **xaw tara** - few stars
 > **multi tara** - many stars
 
 > **un dai meza** - one big table  
 > **du dai kursi** - two big chairs  
-> **sem bon kursi** - three good chairs
+> **sam bon kursi** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
