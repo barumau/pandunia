@@ -744,17 +744,17 @@ It's possible to build new words in Pandunia. Pandunia has a productive system o
 
 ### 11.1. Part of speech markers
 
-Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from verb roots and adjective roots. Some adjectives are also derived from nouns.
+Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from action-roots and description-roots. Some adjectives are also derived from thing-roots. Pronouns, conjuctions, numerals and particles are outside of the word derivation system.
 
-Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
+Pandunia uses the following vowel endings to mark parts of speech.
 
-**-i** is the marker of adjective and adjectival verb (i.e. static verb). For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**. Words that are adjectives _by nature_ don't need the ending. That's why for example **nov** (new) and **sundar** (beautiful) are without the ending.
+- **a** marks verbs for subject-verb-object word order (SVO)
+- **u** marks verbs for object-verb-subject word order (OVS)
+- **i** marks adjectives i.e. modifiers of nouns
+- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
+- **e** marks nouns that are derived from action roots and description roots
 
-**-e** is the marker of nouns. It means the result of the process. So **loge** means the _speech_ that results from the act of speaking. Quite often **-e** is left out and so **log** would mean the same thing as **loge**.
-
-The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending.
-
-Here are some examples.
+The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending. Here are some examples.
 
 **loga** - to speak (active verb)  
 **logu** - to be spoken (passive verb)  
@@ -783,33 +783,18 @@ There is a handful of verbs, which appear without the ending. These are some of 
 **musi** - compulsory, obligatory  
 
 
-
-
-Pandunia has a system of word derivation with final vowels that is applied on action roots and description roots. Usually it's not applied on thing roots and name roots, and also pronouns, conjuctions, numerals and particles are unaffected. However there are exceptions.
-
-- **a** marks verbs for subject-verb-object word order (SVO)
-- **u** marks verbs for object-verb-subject word order (OVS)
-- **i** marks adjectives i.e. modifiers of nouns
-- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
-- **e** marks nouns that are derived from action roots and description roots
-
 #### 11.1.2. Deriving verbs
+
+Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
 
 1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
 2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
 3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
 
-#### 11.1.3. Deriving modifiers
 
-If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
+#### 11.1.3. Deriving nouns
 
-If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
-
-If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
-
-If the root is a place word, then it's adjectival form will mean "that which is from that place". Examples: **Iran**, **irani** = "Iranian".
-
-#### 11.1.4. Deriving nouns
+**-e** is the marker of nouns. It means the result of the process. So **loge** means the _speech_ that results from the act of speaking. Quite often **-e** is left out and so **log** would mean the same thing as **loge**.
 
 If the root word is an action, then its noun form will mean the product of the action. For example from **kitab-** = "to write" we get **kitabe** = "writing" or "text".
 
@@ -818,22 +803,44 @@ If the root word is a description, then its noun form will mean a concrete insta
 Additional noun suffixes are presented below.
 
 
-### 11.2. Derivational Suffixes
+#### 11.1.4. Deriving modifiers
 
-#### 11.2.1. -i
+**-i** is the marker of adjective and adjectival verb (i.e. static verb). It is the all-purpose adjective suffix.
 
-**-i** is the all-purpose adjective suffix. It creates adjectives from action and thing roots.
+For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**.
 
-**norme** norm, rule; **normi** normal, regular, that which has rules.  
-**tabia** nature; **tabiai** natural, that which is or behaves like the nature  
+Words that are adjectives _by birth_ don't need the ending. That's why for example **bon** (good) and **sundar** (beautiful) don't end in -i.
 
-It can be applied to names as well.
+If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
+
+If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
+
+If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
+
+If the root is a place word, then it's adjectival form will mean "that which is from that place".
 
 **iran** Iran, **irani** Iranian  
 **pakistan** Pakistan, **pakistani** Pakistani  
 **amerika** America, **amerikai** American  
 **europa** Europe, **europai** European  
-**asia** Asia, **asiai** Asian  
+**asia** Asia, **asiai** Asian
+
+#### 11.1.5. Words without an ending
+
+1. When a thing-root serves as a noun, it doesn't need the noun ending.
+2. When a description-root serves as an adjective, it doesn't need the adjective ending.
+3. When an action-root serves as a verb, it doesn't always need the verb ending. (*)
+
+|                  | Noun        | Adjective   | Verb        |
+|:-----------------|:------------|:------------|:------------|
+| Thing-root       | **hamer**   | hameri      | hamera      |
+| Description-root | bone        | **bon**     | bona        |
+| Action-root      | yeme        | yemi        | **yem**     |
+
+Note! Pandunia doesn't follow the rule about action-roots because we think that normally it is more useful to mark verbs than nouns. So an action-root like **kitab** (writing) gives two verbs, **kitaba** and **kitabu** – but the plain root, **kitab**, is used as a noun!
+
+
+### 11.2. Derivational Suffixes
 
 #### 11.2.3. -ar
 
