@@ -680,29 +680,29 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi deng ze tu enda.** - I have waited since you left.  
-> **mi deng do tu lay dom.** - I wait until you come home.  
-> **mi deng na tu son.** - I wait while you sleep.  
+> **mi denga ze tu enda.** - I have waited since you left.  
+> **mi denga do tu lay dom.** - I wait until you come home.  
+> **mi denga na tu son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
 
 > **na dur de** - for the time/duration of  
-> **mi deng na dur de tu son.** - I wait for the time when you sleep.  
+> **mi denga na dur de tu son.** - I wait for the time when you sleep.  
 > **na lok de** - at the place of  
-> **mi deng na lok de tu toka.** - I wait at the place where you left.  
+> **mi denga na lok de tu enda.** - I wait at the place where you left.  
 > **na xia de** - under, below  
 > **un waf lala na xia de meza.** - A dog lies under the table.  
-> **na par de** - on the surface of  
-> **un mau lala na par de meza.** - A cat lies on the table.
+> **na fas de** - on the surface of  
+> **un mau lala na fas de meza.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
 
-> **un mau lala na meza par.** - A cat lies at the tabletop.
+> **un mau lala na meza fas.** - A cat lies at the tabletop.
 
 In addition, a preposition can be followed immediately by a verb.
 
-> **dur** - to last, to take time
-> **mi deng na dur de tu son.** - _I wait during you sleep._
+> **dura** - to last, to take time
+> **mi denga na dura tu son.** - _I wait during you sleep._
 
 
 ### 10.2. Prepositions of manner

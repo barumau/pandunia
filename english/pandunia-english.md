@@ -354,6 +354,7 @@ fanus [n] lantern
 far [a] far  
 farsi [a] Persian (Farsi)  
 faru [n] rhinoceros  
+fas [n] surface  
 fasin [n] fascination  
 faxe [n] bundle  
 faxisme [n] fascism  
@@ -1031,7 +1032,7 @@ muxu [n] mouse
 na [pr] at (in, on)  
 na dur de [pr] while (during)  
 na in [pr] in (inside)  
-na par [pr] on (on top)  
+na fas [pr] on (on surface)  
 na vis de [pr] instead of  
 na way [pr] out (outside)  
 na wen [pr] around (about)  
@@ -1143,7 +1144,7 @@ papa [n] father (dad)
 papagai [n] parrot (parakeet)  
 papaya [n] papaya  
 paper [n] paper  
-par [n] top (highest part)  
+par [a] equal (peer)  
 paraguai [n] Paraguay  
 parde [n] curtain  
 pasa [v] pass (go by, go past)  

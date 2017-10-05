@@ -515,6 +515,7 @@ English   : englix
 enough (sufficient)   : bas  
 enthusiast (aficionado)   : nik  
 environmental (natural)   : tabiai  
+equal (peer)   : par  
 Eris (dwarf planet)   : eris  
 Erithrea   : eritra  
 Estonia   : esti  
@@ -1072,7 +1073,7 @@ okay (acceptable)   : okey
 old (not young)   : law  
 olive   : zaitun  
 Oman   : oman  
-on (on top)   : na par  
+on (on surface)   : na fas  
 one (1)   : un  
 only (just)   : solo  
 open   : fungula  
@@ -1463,6 +1464,7 @@ sum up (add together)   : suma
 sun   : surya  
 Sunday   : var 7 (var set)  
 superb (wonderful, super)   : super  
+surface   : fas  
 Suriname   : suriname  
 surname (family name)   : famil nam  
 surrender (to give up)   : salima  
@@ -1542,7 +1544,6 @@ too much   : max ka bas
 tool   : tul  
 tooth   : dante  
 tooth brush   : dante brox  
-top (highest part)   : par  
 top (spinning top)   : tolo  
 topic (subject, theme)   : tem  
 total (affecting all)   : total  
