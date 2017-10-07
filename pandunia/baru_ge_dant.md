@@ -3,7 +3,7 @@ baru ban da dante tung
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un suba baru mama vol enda ko bazar. ye loga ko baru ban: "no yem kandi i kek na dura du mi na bazar." baru ban loga: "ya, ya, mama! mi sabi ye. mi dai baru. cing enda wai!" baru mama loga "salam" i ye enda wai.
+un suba baru mama vol enda ko bazar. ye loga ko baru ban: "no yem kandi i kek na dura du mi na bazar." baru ban loga: "si, si, mama! mi sabi ye. mi dai baru. cing enda wai!" baru mama loga "salam" i ye enda wai.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
@@ -39,7 +39,7 @@ ye kap tele fon. ye loga: "halo! kia tu si dante doktor? cing lay ko mi! mi hava
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-doktor lay ko baru famil da jia. ye loga: "kia tu neses mede?" baru ban loga: “ya! mi hava tung dante!"
+doktor lay ko baru famil da jia. ye loga: "kia tu neses mede?" baru ban loga: "si! mi hava tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 

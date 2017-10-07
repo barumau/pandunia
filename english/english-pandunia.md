@@ -214,6 +214,7 @@ bomb   : bombe
 bone   : gut  
 book   : buk  
 border (edge)   : kenar  
+bother   : mafana  
 bottle   : botol  
 bottom   : tal  
 bow instrument (violin, etc.)   : ticin  
@@ -701,7 +702,7 @@ harmony   : harmonia
 harness   : maju  
 hat (cap)   : topi  
 hate   : hen  
-have   : ha  
+have   : hava  
 have sex   : seksa  
 hazard   : hazar  
 he or she or it   : ye  

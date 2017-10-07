@@ -232,9 +232,9 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **mi nida mede.** I need help.
 
-**kia tu ken mede mi?** Can you help me?
+**kia tu ken meda mi?** Can you help me?
 
-**kia mi ken mede tu?** Can I help you?
+**kia mi ken meda tu?** Can I help you?
 
 
 
@@ -307,9 +307,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi danka tu.** I thank you.
 
-**mi danka tu mede mi.** I thank you for helping me.
+**mi danka tu meda mi.** I thank you for helping me.
 
-**danka tu mede mi.** Thanks for helping me.
+**danka tu meda mi.** Thanks for helping me.
 
 **tu keci.** You're welcome. (Literally: _You're polite._)
 
@@ -687,8 +687,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **lay** come <small>(Vietnamese _lai_)</small>  
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
-**mana** to mean; meaning <small>(Swahili _maana_)</small>  
-**mede** help <small>(French _aider_)</small>  
+**mana** to mean <small>(Swahili _maana_)</small>  
+**meda** to help, to assist <small>(French _aider_)</small>  
+**mede** help, assistance  
 **mi** I, me <small>(Swahili _mimi_)</small>  
 **mimen** we  
 **nida** need <small>(English _need_)</small>  

@@ -866,6 +866,7 @@ madi [a] material
 madyar [n] Hungary  
 maf [n] sorry (pardon)  
 mafan [n] trouble (disturbance, bother)  
+mafana [v] bother  
 magi [a] magical  
 magar [n] magician (sorcerer)  
 magia [n] magic  
