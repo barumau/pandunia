@@ -322,10 +322,10 @@ Conceptually negation means the absence or non-existence of the negated word. In
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
-> **ye no ha mau.** = She doesn't have a cat.  
-> **ye ha no mau, ama waf.** = She has no cats but dogs.  
-> **no ye, ama mi ha mau.** = Not she but I have cats.  
-> **mi ha no un, ama du mau.** = I have not one but two cats.
+> **ye no hava mau.** = She doesn't have a cat.  
+> **ye hava no mau, ama waf.** = She has no cats but dogs.  
+> **no ye, ama mi hava mau.** = Not she but I have cats.  
+> **mi hava no un, ama du mau.** = I have not one but two cats.
 
 
 ### Exercises
@@ -342,7 +342,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kop** cup, glass, mug. **hali** empty. **ha** to have. **mau** cat. **waf** dog. **du** two. **nul** zero. **ama** but.
+**kop** cup, glass, mug. **hali** empty. **hava** to have. **mau** cat. **waf** dog. **du** two. **nul** zero. **ama** but.
 
 
 ### Answers to the Exercises
@@ -350,9 +350,9 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 1. ye no saf kamar.
 2. un kop no hali.
 3. du waf no yem sup.
-4. ye no ha waf i mau. / ye ha no waf i no mau.
+4. ye no hava waf i mau. / ye hava no waf i no mau.
 5. xef yem ca ama no kafe.
-6. mama ha no waf ama du mau.
+6. mama hava no waf ama du mau.
 
 
 <!--
@@ -458,9 +458,9 @@ Alternatively the time word can be placed last in the sentence.
 
 It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
 
-> **mi gon ha un mau.** = I had a cat in the past.
+> **mi gon hava un mau.** = I had a cat in the past.
 > **ye bon mau.** = It was a good cat.
-> **mi ha un waf nun.** = I have a dog now.
+> **mi hava un waf nun.** = I have a dog now.
 
 <!-- 
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.

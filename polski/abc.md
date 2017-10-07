@@ -54,7 +54,7 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach które kończą się spółgłoską. Np. koMUN, baZAR, kaMIS.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. DUnia, meLOdi
 
-> **dúnia sí mimén ge sundár planét.**  
+> **dúnia sí mimén da sundár planét.**  
 > **mí vól lóga komún báx yáni pandúnia.**  
 
 

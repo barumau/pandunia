@@ -96,21 +96,21 @@ Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekze
 Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
 > **un tara** - unu stelo  
-> **du tara** - du steloj  
+> **dua tara** - du steloj  
 > **sam tara** - tri steloj  
 > **xau tara** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
 > **fen un** - la unua parto  
-> **fen du** - la dua parto  
+> **fen dua** - la dua parto  
 > **fen sam** - la tria parto  
 
 Jen la ĉefaj nombroj:
 
 - 0 **nul**
 - 1 **un**
-- 2 **du**
+- 2 **dua**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -123,14 +123,14 @@ Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la 
 
 - 10 **un nul** aŭ **des**
 - 11 **un un**
-- 12 **un du**
+- 12 **un dua**
 - 13 **un sam**
-- 20 **du nul**
-- 21 **du un**
-- 22 **du du**
+- 20 **dua nul**
+- 21 **dua un**
+- 22 **dua dua**
 - 100 **un nul nul** aŭ **hon**
 - 101 **un nul un** aŭ **hon un**
-- 200 **du nul nul** aŭ **du hon**
+- 200 **dua nul nul** aŭ **dua hon**
 
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.
@@ -304,76 +304,76 @@ La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la 
 Determinaj partikuloj
 ---------------------
 
-Pandunio havas du determinaj partikuloj, **ge** kaj **de**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
+Pandunio havas du determinaj partikuloj, **da** kaj **du**. Ili malsamas nur per vortordo, sed iliaj signifoj estas samaj.
 
-La determinaj partikuloj esprimas posedon inter alia. La partikulo **ge** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **ge** kaj laste la determinato.
+La determinaj partikuloj esprimas posedon inter alia. La partikulo **da** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **da** kaj laste la determinato.
 
-La partikulo **de** estas uzata en kontraŭa ordo: unue la determinato, meze la partikulo **de** kaj laste la determinanto.
+La partikulo **du** estas uzata en kontraŭa ordo: unue la determinato, meze la partikulo **du** kaj laste la determinanto.
 
-| Per _ge_                         | Per _de_                                 |
+| Per _da_                         | Per _du_                                 |
 |:---------------------------------|:-----------------------------------------|
-| **mi ge dom** - mia hejmo        | **dom de mi** - hejmo de mi              |
-| **tu ge dom** - via hejmo        | **dom de tu** - hejmo de vi              |
-| **ye ge dom** - lia/ŝia hejmo    | **dom de ye** - hejmo de li/ŝi/ĝi        |
-| **mimen ge dom** - nia hejmo     | **dom de mimen** - hejmo de ni           |
-| **tumen ge dom** - via hejmo     | **dom de tumen** - hejmo de vi           |
-| **yemen ge dom** - ilia hejmo    | **dom de yemen** - hejmo de ili          |
+| **mi da dom** - mia hejmo        | **dom du mi** - hejmo de mi              |
+| **tu da dom** - via hejmo        | **dom du tu** - hejmo de vi              |
+| **ye da dom** - lia/ŝia hejmo    | **dom du ye** - hejmo de li/ŝi/ĝi        |
+| **mimen da dom** - nia hejmo     | **dom du mimen** - hejmo de ni           |
+| **tumen da dom** - via hejmo     | **dom du tumen** - hejmo de vi           |
+| **yemen da dom** - ilia hejmo    | **dom du yemen** - hejmo de ili          |
 
-> **jovan mama ge dom** - domo de juna patrino  
-> **batu ge cung** - pezo de ŝtono
+> **jovan mama da dom** - domo de juna patrino  
+> **batu da cung** - pezo de ŝtono
 
-> **dom de jovan mama** - domo de juna patrino  
-> **cung de batu** - pezo de ŝtono
+> **dom du jovan mama** - domo de juna patrino  
+> **cung du batu** - pezo de ŝtono
 
 
 ### Posedo
 
-La determinaj partikuloj esprimas posedon inter alia. La partikulo **ge** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **ge** kaj laste la determinato.
+La determinaj partikuloj esprimas posedon inter alia. La partikulo **da** estas uzata en sekvanta ordo: unue la determinanto, meze la partikulo **da** kaj laste la determinato.
 
 
-> **maria ge mama** - Maria panjo    
-> **mi ge bet** - mia domo    
-> **mi ge papa ge bet** - mia patra domo
+> **maria da mama** - Maria panjo    
+> **mi da bet** - mia domo    
+> **mi da papa da bet** - mia patra domo
 
-**De** funkcias kiel esperanta "de".
+**Du** funkcias kiel esperanta "de".
 
-> **mama de maria** - panjo de Maria
-> **bet de mi** - domo mia  
-> **bet de papa de mi** - domo de patro mia
+> **mama du maria** - panjo de Maria
+> **bet du mi** - domo mia  
+> **bet du papa du mi** - domo de patro mia
 
 ### Adjektivaj frazoj
 
-Normalle la adjectivo estas antaŭ la substantivo en pandunio. Oni povas meti ĝin post substantive per helpo de **de**.
+Normalle la adjectivo estas antaŭ la substantivo en pandunio. Oni povas meti ĝin post substantive per helpo de **du**.
 
 > **nov bet** - nova domo  
-> **bet de nov** - domo nova
+> **bet du nov** - domo nova
 
 Oni povas krei pli kompleksajn adjektivojn per helpo de la determinaj partikuloj.
 
-> **roza rang ge lab** - rozkoloraj lipoj  
-> **sama rang ge mat** - cielkoloraj okuloj
+> **roza rang da lab** - rozkoloraj lipoj  
+> **sama rang da mat** - cielkoloraj okuloj
 
 Kaj en la kontraŭa ordo:
 
-> **lab de roza rang** - lipoj rozkoloraj  
-> **mat de sama rang** - okuloj cielkoloraj
+> **lab du roza rang** - lipoj rozkoloraj  
+> **mat du sama rang** - okuloj cielkoloraj
 
 ### Relativa frazo
 
 Oni kreas ankaŭ relativajn frazojn per la determinajn partikulojn.
 
-Jen **de** funkcias kiel esperanta "kiu".
+Jen **du** funkcias kiel esperanta "kiu".
 
-> **ye si man _de mi vida_.** - Li estas viro, _kiun mi vidis_.
+> **ye si man _du mi vida_.** - Li estas viro, _kiun mi vidis_.
 
-Ankaŭ eblas uzi partikulon **ge**. Oni ne povas esperantigi ĝin laŭvorte.
+Ankaŭ eblas uzi partikulon **da**. Oni ne povas esperantigi ĝin laŭvorte.
 
-**ye si _mi vida ge_ man.** - *Li estas _mividita_ viro.
+**ye si _mi vida da_ man.** - *Li estas _mividita_ viro.
 
 Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
 
-> **mi vida man _de yem pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
-> **mi vida _yem pingo ge_ man.** - *Mi vidas _pommanĝantan_ viron.
+> **mi vida man _du yem pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
+> **mi vida _yem pingo da_ man.** - *Mi vidas _pommanĝantan_ viron.
 
 
 Modalaj partikuloj

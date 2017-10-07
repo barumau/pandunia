@@ -17,6 +17,7 @@ aktar [n] actor (actress)
 akte [n] act (scene)  
 alah [n] Allah  
 alkol [n] alcohol  
+alkoli [a] alcoholic  
 almari [n] cabinet (cupboard)  
 almas [n] diamond  
 alter [a] other  
@@ -31,11 +32,13 @@ amor [n] love
 amper [n] ampere  
 amuk [n] rage (fury)  
 analis [n] analysis  
+analisa [v] analyse  
 anime [n] animation (cartoon)  
 anjil [n] gospel  
 anma [n] spirit (soul)  
 antena [n] antenna  
 anus [n] anus  
+anusi [a] anal  
 ara [n] saw tool  
 arabi [a] Arabic  
 aranje [n] orange (fruit)  
@@ -82,7 +85,7 @@ balu [n] sand
 bama [n] Myanmar (Burma)  
 bambu [n] bamboo  
 ban [n] child (offspring)  
-ban ge law [n] parents  
+ban da law [n] parents  
 bana [v] build (construct)  
 banana [n] banana  
 banda [v] bind  
@@ -227,6 +230,7 @@ cuta [v] leave (go out, exit)
 
 ##d  
 
+da [pr] own (particle of possession)  
 dado [n] die (dice)  
 daftar [n] register  
 daixi [n] ambassador
@@ -257,7 +261,6 @@ dau [n] way (road)
 dawa [n] drug (medicine)  
 dawa kan [n] drugstore (pharmacy)  
 day [a] big  
-de [pr] of (particle of possession)  
 debat [n] argument (debate)  
 deci [num] deci-  
 dem [n] point (spot)  
@@ -281,7 +284,6 @@ din [n] religion
 din guru [n] priest (cleric)  
 ding [n] nail (spike)  
 diske [n] disc (disk)  
-do [pr] to (till, until)  
 doic [n] German  
 doka [v] read  
 dokta [v] heal (cure)  
@@ -296,7 +298,8 @@ dou [n] bean or pea (legume)
 dox [n] fault (guilt)  
 doze [n] portion (dose)  
 drama [n] drama  
-du [num] two (2)  
+du [pr] of (particle of possession)  
+dua [num] two (2)  
 duan [a] short (not long)  
 duk [n] grief (sorrow)  
 duka [v] grieve  
@@ -438,7 +441,6 @@ gayana [n] Guyana
 gaze [n] gauze  
 gazel [n] gazelle  
 gazet [n] magazine (journal, gazette)  
-ge [pr] own (particle of possession)  
 gem [n] game  
 gema [v] play a game  
 gemar [n] player (gamer)  
@@ -481,7 +483,6 @@ gut [n] bone
 
 ##h  
 
-ha [n] have  
 habar [n] news  
 habar gazet [n] newspaper (gazette)  
 haha [int] laugh  
@@ -505,6 +506,7 @@ hat [n] hand
 hata [adv] even (intensifier)  
 hatar [n] danger (peril)  
 hatari [a] dangerous  
+hava [v] have  
 hawa [n] air  
 hay [adv] still (yet)  
 hayda [v] let's  
@@ -724,6 +726,7 @@ klar [a] clear (not obscured)
 klas [n] class (category)  
 klasa [v] classify (categorize)  
 klub [n] club  
+ko [pr] to (till, until)  
 kod [n] code (cipher)  
 koda [v] encode  
 kok [n] chicken  
@@ -962,8 +965,8 @@ metar [n] meter
 metod [n] method  
 meza [n] table  
 mi [pr] I (me)  
-mi ge [pr] my  
-mi ge law [n] my parents  
+mi da [pr] my  
+mi da law [n] my parents  
 micin [n] MSG (monosodium glutamate)  
 mien [n] noodle  
 midi [a] mean (medium, average)  

@@ -9,13 +9,13 @@ Presentación
 > ☻: **tu si ke?** = ¿Quién es usted?  
 > ☺: **mi si yusef. tu si ke?** = Yo soy Yusef. ¿Quién es usted?  
 > ☻: **mi si maria. ye si ke?** = Yo soy Maria. ¿Quién es?  
-> ☺: **ye si mi ge panyo.** = Es una amiga mia.  
+> ☺: **ye si mi da panyo.** = Es una amiga mia.  
 > ☻: **ye nam ke?** = ¿Cómo se llama?  
 > ☺: **ye nam sara.** = Su nombre es Sara.
 
 ### Gramatica
 
-Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **ye si mi ge panyo** el tema es el pronombre **ye** (él, ella, ello), que es seguido por el comentario **si mi ge panyo** (es amigo mío).
+Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **ye si mi da panyo** el tema es el pronombre **ye** (él, ella, ello), que es seguido por el comentario **si mi da panyo** (es amigo mío).
 
 <!--
 The word for "to be" is not normally used in Pandunia. An expression like **ye sara** (literally, "She Sara") is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
@@ -54,9 +54,9 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**mi** yo. **mi ge** mi.  
-**tu** tú, usted. **tu ge** tu.  
-**ye** él, ella, ello. **ye ge** su.  
+**mi** yo. **mi da** mi.  
+**tu** tú, usted. **tu da** tu.  
+**ye** él, ella, ello. **ye da** su.  
 **ke** quién? qué?  
 **si** sí. **no** no.  
 **bon** bueno. **panyo** amigo, amiga. **nam** nombre.
@@ -65,7 +65,7 @@ Intenta traducir estas frases de Español a Pandunia.
 
 1. tu si ke?
 2. mi si tomas.
-3. tu ge panyo si ke?
+3. tu da panyo si ke?
 4. ye si sara.
 5. tu nam ke?
 6. mi nam ........... 
@@ -149,7 +149,7 @@ Pidiendo
 ☺: **cing yem kafe u ca.** = Por favor tiene algo de café o té.  
 ☻: **mi yem ca. danke.** = Tengo té, gracias.  
 ...  
-☺: **cing salama tu ge mama!** = Por favor llevale saludos a tu madre.  
+☺: **cing salama tu da mama!** = Por favor llevale saludos a tu madre.  
 ☻: **mi salama ye. salam!** = Yo la saludo. ¡Adiós!  
 ☺: **salam!** = ¡Chao!
 
@@ -236,7 +236,7 @@ Preguntas de Sí o No
 ☺: **yem.** = Sí.  
 ☻: **kia ye yem sup?** = ¿Él quiere tomar sopa?  
 ☺: **no yem.** = No.  
-☻: **danke. mi dar un ca i un kafe i un sup na bada de des minut.**
+☻: **danke. mi dar un ca i un kafe i un sup na bada du des minut.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -327,7 +327,7 @@ La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adj
 > **ye no ha mau.** = Ella no tiene gato.  
 > **ye ha no mau, ama waf.** = Ella no tiene gatos sino perros.  
 > **no ye, ama mi ha mau.** = Ella no, pero yo tengo gato.  
-> **mi ha no un, ama du mau.** = Yo no tengo un gato sino dos gatos.  
+> **mi ha no un, ama dua mau.** = Yo no tengo un gato sino dos gatos.  
 
 
 ### Ejercicios
@@ -344,17 +344,17 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**kop** copa, vaso, taza. **xali** vacio. **ha** tener, poseer. **mau** gato. **waf** perro. **du** dos. **nul** cero. **ama** pero, sino.
+**kop** copa, vaso, taza. **xali** vacio. **ha** tener, poseer. **mau** gato. **waf** perro. **dua** dos. **nul** cero. **ama** pero, sino.
 
 
 ### Respuestas
 
 1. ye no safa kamar.
 2. un kop no xali.
-3. du waf no yem sup.
+3. dua waf no yem sup.
 4. ye no ha waf i mau. / ye ha no waf i no mau.
 5. xef yem ca ama no kafe.
-6. mama ha no waf ama du mau.
+6. mama ha no waf ama dua mau.
 
 --------------------------------------------------------------------------------
 

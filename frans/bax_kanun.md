@@ -144,26 +144,26 @@ Sometimes it is known from the context how many objects are spoken about. For ex
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
 > **un tara** - one star  
-> **du tara** - two stars  
+> **dua tara** - two stars  
 > **sam tara** - three stars  
 > **xau tara** - few stars  
 > **poli tara** - many stars
 
 > **un dai meza** - one big table  
-> **du dai kursi** - two big chairs  
+> **dua dai kursi** - two big chairs  
 > **sem bon kursi** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
 > **fen un** - the first part (part one)
-> **fen du** - the second part (part two)
+> **fen dua** - the second part (part two)
 > **fen sam** - the third part (part three)
 
 The basic number words are:
 
 - 0 **nul**
 - 1 **un**
-- 2 **du**
+- 2 **dua**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -176,14 +176,14 @@ Greater numbers are simply made by putting one digit after another – exactly l
 
 - 10 **un nul** or **des**
 - 11 **un un**
-- 12 **un du**
+- 12 **un dua**
 - 13 **un sam**
-- 20 **du nul**
-- 21 **du un**
-- 22 **du du**
+- 20 **dua nul**
+- 21 **dua un**
+- 22 **dua dua**
 - 100 **un nul nul** or **hon**
 - 101 **un nul un** or **hon un**
-- 200 **du nul nul** or **du hon**
+- 200 **dua nul nul** or **dua hon**
 
 
 Numbers that are greater than 999 may use the multiples from the International System of Units. So for example kilo denotes a multiple of a thousand.
@@ -458,10 +458,10 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
-The agent can be mentioned after the verb with or without the preposition **de**.
+The agent can be mentioned after the verb with or without the preposition **du**.
 
 > **tu vidu mi.** - You are seen by me.  
-> **tu vidu de mi.** - You are seen by me.
+> **tu vidu du mi.** - You are seen by me.
 
 
 #### 8.4.2. OV order
@@ -522,8 +522,8 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 #### 8.8.2. Short pivot structure (VOVO)
 
-> **mi kia tu baxa pandunia.** - I ask do you speak Pandunia.  
-> **kia tu baxa pandunia?** - Do you speak Pandunia.
+> **mi kia tu baxa pandunia.** - I ask ko you speak Pandunia.  
+> **kia tu baxa pandunia?** - ko you speak Pandunia.
 
 #### 8.8.3. Short pivot structure (VVO)
 
@@ -563,7 +563,7 @@ The word **no** is used for denying anything. It affects always the next word.
 
 The particles **si** and **no** are used also for answering questions.
 
-> **kia tu vida mi?** - Do you see me?  
+> **kia tu vida mi?** - ko you see me?  
 > **si. (mi vida tu.)** - Yes. (I see you.)  
 > **no. (mi no vida tu.)** - No. (I don't see you.)
 
@@ -571,23 +571,23 @@ The particles **si** and **no** are used also for answering questions.
 
 ### Modifier particles
 
-Particles **ge** and **de** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
+Particles **da** and **du** are used to mark possession and modification. **da** connects the modifying word or phrase to the modified word. **Du** works in the opposite direction. It connects the modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **ge** works like apostrophe-s ('s) in English.
+With regards to possession, **da** works like apostrophe-s ('s) in English.
 
-> **maria ge mama** - Maria's mother  
-> **mi ge bet** - my house  
-> **mi ge papa ge bet** - my father's house
+> **maria da mama** - Maria's mother  
+> **mi da bet** - my house  
+> **mi da papa da bet** - my father's house
 
-**De** works like "of" in English.
+**Du** works like "of" in English.
 
-> **mama de maria** - the mother of Maria
-> **bet de mi** - the house of mine  
-> **bet de papa de mi** - the house of the father of mine
+> **mama du maria** - the mother of Maria
+> **bet du mi** - the house of mine  
+> **bet du papa du mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -595,29 +595,29 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang ge lab** - rose-colored lips  
-> **saman rang ge mat** - sky-colored eyes
+> **roza rang da lab** - rose-colored lips  
+> **saman rang da mat** - sky-colored eyes
 
 Or in the opposite order:
 
-> **lab de roza rang** - lips of the color of the rose  
-> **mat de saman rang** - eyes of the color of the sky
+> **lab du roza rang** - lips of the color of the rose  
+> **mat du saman rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
+Here **du** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
 
-> **ye si man _de mi vida_.** - He is the man _that I saw_.
+> **ye si man _du mi vida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi vida man _de yem pingo_.** - I see a man _who eats apples_.  
+> **mi vida man _du yem pingo_.** - I see a man _who eats apples_.  
 
-It's possible to construct relative clauses with **ge** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **ge** immediately after the verb.
+It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
-> **mi vida _pingo yemu ge_ man.** - I see an _apple-eating_ man.
+> **mi vida _pingo yemu da_ man.** - I see an _apple-eating_ man.
 
 
 
@@ -662,7 +662,7 @@ Pandunia has three prepositions of place and time.
 
 1. **na** - location or moment (in general): at, in, on, during
 2. **ze** - origin or beginning: from, since
-3. **do** - destination or end: to, till, until
+3. **ko** - destination or end: to, till, until
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
@@ -676,25 +676,25 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 > **mi na hotel.** - I'm in the hotel.  
 > **mi son na hotel.** - I sleep in the hotel.  
-> **mi son ze cam do suba.** - I sleep since evening until morning.  
-> **mi safar ze london do paris.** - I travel from London to Paris.  
+> **mi son ze cam ko suba.** - I sleep since evening until morning.  
+> **mi safar ze london ko paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **mi deng ze tu go.** - I have waited since you left.  
-> **mi deng do tu lay dom.** - I wait until you come home.  
+> **mi deng ko tu lay dom.** - I wait until you come home.  
 > **mi deng na tu son.** - I wait while you sleep.  
 
-More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
+More precise expressions of place and time are expressed with _a preposition + a place word + **du**_.
 
-> **na dur de** - for the time/duration of  
-> **mi deng na dur de tu son.** - I wait for the time when you sleep.  
-> **na lok de** - at the place of  
-> **mi deng na lok de tu toka.** - I wait at the place where you left.  
-> **na xia de** - under, below  
-> **un waf lala na xia de meza.** - A dog lies under the table.  
-> **na par de** - on the surface of  
-> **un mau lala na par de meza.** - A cat lies on the table.
+> **na dur du** - for the time/duration of  
+> **mi deng na dur du tu son.** - I wait for the time when you sleep.  
+> **na lok du** - at the place of  
+> **mi deng na lok du tu toka.** - I wait at the place where you left.  
+> **na xia du** - under, below  
+> **un waf lala na xia du meza.** - A dog lies under the table.  
+> **na par du** - on the surface of  
+> **un mau lala na par du meza.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
 
@@ -703,7 +703,7 @@ Similar meaning can be expressed also with compound words.
 In addition, a preposition can be followed immediately by a verb.
 
 > **dur** - to last, to take time
-> **mi deng na dur de tu son.** - _I wait during you sleep._
+> **mi deng na dur du tu son.** - _I wait during you sleep._
 
 
 ### 10.2. Prepositions of manner
@@ -796,7 +796,7 @@ Pandunia has a system of word derivation with final vowels that is applied on ac
 
 #### 11.1.2. Deriving verbs
 
-1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
+1. If the root is an action, then its verbal form will mean "to ko the action". For example from **vide** = "a look" we get **vida** = "to look".
 2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
 3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
 
@@ -870,7 +870,7 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
 **filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
 
-This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
+This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that ko not end in **-ia**.
 
 **arab** Arab, Arabic; **arabia** Arabia  
 **rus** Russian; **rusia** Russia  
@@ -939,20 +939,20 @@ Adjectives and numerals point to their head word, the noun.
 The hierarchy of word types in Pandunia from the more to the less central is as follows.
 
 1. Conjunctions: i, u
-2. Connectors: ge, de
-3. Coverbs (prepositions): na, do, ze, bi
+2. Connectors: da, du
+3. Coverbs (prepositions): na, ko, ze, bi
 4. Verbs
 5. Nouns and pronouns
 6. Tense, aspect and mood particles
 7. Numerals
 8. Adjectives
 
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz du** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara vol darsa pandunia ze koz de ye si bon dunia bax.
+    yusef i sara vol darsa pandunia ze koz du ye si bon dunia bax.
 
-                      ze koz de
+                      ze koz du
                ┌──────────┴──────────┐
               vol                   si
           ┌────┴──────┐           ┌──┴──┐

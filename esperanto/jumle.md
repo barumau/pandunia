@@ -151,16 +151,16 @@
 
 
 
-### ha <small>havi</small>
+### hava <small>havi</small>
 
-**mi ha bon dom.** Mi havas bonan domon.
+**mi hava bon dom.** Mi havas bonan domon.
 
-**ye no ha pesa.** Li/ŝi ne havas mono.
+**ye no hava pesa.** Li/ŝi ne havas mono.
 
-**mi vol ha nova fon.** Mi volas havi novan telefonon.
+**mi vol hava nova fon.** Mi volas havi novan telefonon.
 
-**kia tu ha ban?** Ĉu vi havas infanojn?  
-**mi ha du ban.** Mi havas du infanojn.
+**kia tu hava ban?** Ĉu vi havas infanojn?  
+**mi hava dua ban.** Mi havas du infanojn.
 
 
 
@@ -169,10 +169,10 @@
 **kia tu bon?** Ĉu vi fartas bone?
 **si. mi bon.** Jes, mi fartas bone.
 
-**kia ha doktor?** Ĉu estas doktoro?
+**kia hava doktor?** Ĉu estas doktoro?
 **si. ye si doktor.** Jes. Ŝi/li estas doktoro.
 
-**kia ha vin?** Ĉu vi havas vinon?
+**kia hava vin?** Ĉu vi havas vinon?
 **si. bai i ros.** Jes, blankan kaj ruĝan.
 
 
@@ -199,15 +199,15 @@
 
 
 
-### ge <small>(poseda partikulo)</small>
+### da <small>(poseda partikulo)</small>
 
-**ye si mi ge mama.** Ŝi estas mia patrino.
+**ye si mi da mama.** Ŝi estas mia patrino.
 
-**ye si mi ge man.** Li estas mia spozo.
+**ye si mi da man.** Li estas mia spozo.
 
-**ye si mi ge fem.** Ŝi estas mia spozino.
+**ye si mi da fem.** Ŝi estas mia spozino.
 
-**tomas si sara ge panyo.** Tomaso estas amiko de Sara.
+**tomas si sara da panyo.** Tomaso estas amiko de Sara.
 
 
 
@@ -365,7 +365,7 @@
 
 **mi no ken englix.** Mi ne povas paroli la anglan.
 
-**maf. mi no ken tu ge baxa.** Pardonon, mi ne povas paroli vian lingvon.
+**maf. mi no ken tu da baxa.** Pardonon, mi ne povas paroli vian lingvon.
 
 
 
@@ -373,9 +373,9 @@
 
 **tu loga ke?** Kion vi diris?
 
-**mi loga do tu.** Mi parolas al vi.
+**mi loga ko tu.** Mi parolas al vi.
 
-**mimen loga do alise.** Ni parolas unu al alia.
+**mimen loga ko alise.** Ni parolas unu al alia.
 
 **se loga ke yang bi pandunia ki "kato"?** Kiel oni diras "kato" pandunie?
 
@@ -392,7 +392,7 @@
 
 **mi auda musik.** Mi aŭskultas muzikon.
 
-**tu auda ke yang ge musik?** Kian muzikon vi aŭskultas?
+**tu auda ke yang da musik?** Kian muzikon vi aŭskultas?
 
 
 ### vida <small>vidi, rigardi</small>
@@ -412,14 +412,14 @@
 
 **"mau" mana ke?** Kion "mau" signifas?
 
-**ye mana yang de hewan.** Ĝi signifas tipon de besto.
+**ye mana yang du hewan.** Ĝi signifas tipon de besto.
 
 **mi no aha ye mana ke.** Mi ne komprenas kion ĝi signifas.
 
 
 ### kitaba <small>skribi</small>
 
-**cing kitaba tu ge adres.** Bonvolu skribi vian adreson.
+**cing kitaba tu da adres.** Bonvolu skribi vian adreson.
 
 **cing kitaba ye na sa.** Bonvolu skribi ĝin tie!
 
@@ -474,7 +474,7 @@
 
 **kia tu safara bi tren?** Ĉu vi vojaĝas per vagonaro?
 
-**mimen safara ze london do paris.** Ni vojaĝas el Londono al Parizo.
+**mimen safara ze london ko paris.** Ni vojaĝas el Londono al Parizo.
 
 **safar multo long.** La vojaĝo estas tre longa.
 
@@ -510,7 +510,7 @@ Vortaro
 **englix** angla <small>(angla _English_)</small>  
 **fem** virino <small>(franca _femme_)</small>  
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**ha** havi <small>(portugala _há_)</small>  
+**hava** havi <small>(portugala _há_)</small>  
 **habar** novaĵoj <small>(malaja _khabar_)</small>  
 **i** kaj <small>(pola _i_)</small>  
 **jen** persono <small>(mandarencxina _rén_ 人)</small>  

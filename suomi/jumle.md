@@ -176,16 +176,16 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 
 
-### ha <small>olla, omistaa</small>
+### hava <small>olla, omistaa</small>
 
-**mi ha bon dom.** Minulla on hyvä talo.
+**mi hava bon dom.** Minulla on hyvä talo.
 
-**ye no ha pesa.** Hänellä ei ole rahaa.
+**ye no hava pesa.** Hänellä ei ole rahaa.
 
-**mi vol ha novi fon.** Minä haluan saada uuden puhelimen.
+**mi vol hava novi fon.** Minä haluan saada uuden puhelimen.
 
-**kia tu ha ban?** Onko sinulla lapsia?
-**mi ha du ban.** Minulla on kaksi lasta.
+**kia tu hava ban?** Onko sinulla lapsia?
+**mi hava dua ban.** Minulla on kaksi lasta.
 
 
 
@@ -194,10 +194,10 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 **kia tu bon?** Voitko hyvin?  
 **si. mi bon.** Kyllä, minä voin hyvin.
 
-**kia ha doktor?** Onko täällä lääkäriä?  
+**kia hava doktor?** Onko täällä lääkäriä?  
 **si. ye si doktor.** Kyllä. Hän on lääkäri.
 
-**kia ha vin?** Onko teillä viiniä?  
+**kia hava vin?** Onko teillä viiniä?  
 **si. bai i ros.** Kyllä, valkoista ja punaista.
 
 
@@ -224,15 +224,15 @@ Vinkki: Kysymykset, joihin vastataan kyllä tai ei, alkavat yleensä sanalla **k
 
 
 
-### ge <small>-n, oma</small>
+### da <small>-n, oma</small>
 
-**ye si mi ge mama.** Hän on minun äiti.
+**ye si mi da mama.** Hän on minun äiti.
 
-**ye si mi ge man.** Hän on minun mies.
+**ye si mi da man.** Hän on minun mies.
 
-**ye si mi ge fem.** Hän on minun vaimo/nainen.
+**ye si mi da fem.** Hän on minun vaimo/nainen.
 
-**tomas si sara ge panyo.** Tomas on Saran ystävä.
+**tomas si sara da panyo.** Tomas on Saran ystävä.
 
 
 
@@ -388,7 +388,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mi no ken englix.** Minä en osaa englantia.
 
-**maf. mi no ken tu ge baxa.** Anteeksi, en osaa sinun kieltäsi.
+**maf. mi no ken tu da baxa.** Anteeksi, en osaa sinun kieltäsi.
 
 
 
@@ -396,9 +396,9 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **tu loga ke?** Mitä sinä sanoit?
 
-**mi loga do tu.** Minä puhun sinulle.
+**mi loga ko tu.** Minä puhun sinulle.
 
-**mimen loga do alise.** Me puhumme toisillemme.
+**mimen loga ko alise.** Me puhumme toisillemme.
 
 **se loga ke yang bi pandunia ki "kissa"?** Miten sanotaan "kissa" panduniaksi?
 
@@ -415,7 +415,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mi auda musik.** Minä kuuntelen musiikkia.
 
-**tu auda ke yang ge musik?** Minkälaista musiikkia sinä kuuntelet?
+**tu auda ke yang da musik?** Minkälaista musiikkia sinä kuuntelet?
 
 
 ### vida <small>nähdä</small>
@@ -435,14 +435,14 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **"mau" mana ke?** Mitä "mau" tarkoittaa?
 
-**ye mana yang de hewan.** Se tarkoittaa eräänlaista eläintä.
+**ye mana yang du hewan.** Se tarkoittaa eräänlaista eläintä.
 
 **mi no aha ye mana ke.** Minä en ymmärrä mitä se tarkoittaa.
 
 
 ### kitaba <small>kirjoittaa</small>
 
-**cing kitaba tu ge adres.** Kirjoittaisitko osoitteesi.
+**cing kitaba tu da adres.** Kirjoittaisitko osoitteesi.
 
 **cing kitaba ye na sa.** Kirjoittaisitko sen tähän!
 
@@ -497,7 +497,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **kia tu safar bi tren?** Matkustatko junalla?
 
-**mimen safar ze london do paris.** Me matkustamme Lontoosta Pariisiin.
+**mimen safar ze london ko paris.** Me matkustamme Lontoosta Pariisiin.
 
 **safar hen long.** Matka on hyvin pitkä.
 
@@ -535,7 +535,7 @@ Kaikki pandunian sanat ovat lainasanoja muista kielistä, joita puhutaan maapall
 **englix** englanti <small>(englanti _English_)</small>  
 **fem** nainen <small>(ranska _femme_)</small>  
 **gon** ennen, entinen <small>(thai _gɔ̀ɔn_ ก่อน)</small>  
-**ha** olla, omistaa <small>(portugali _há_)</small>  
+**hava** olla, omistaa <small>(englanti _have_)</small>  
 **habar** uutinen <small>(turkki _haber_)</small>  
 **i** ja <small>(Polish _i_)</small>  
 **jen** henkilö <small>(yleiskiina _rén_ 人)</small>  

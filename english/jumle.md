@@ -168,16 +168,16 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### ha <small>have</small>
+### hava <small>have</small>
 
-**mi ha bon dom.** I have a good house.
+**mi hava bon dom.** I have a good house.
 
-**ye no ha pesa.** S/he doesn't have money.
+**ye no hava pesa.** S/he doesn't have money.
 
-**mi vol ha novi fon.** I want to have a new phone.
+**mi vol hava novi fon.** I want to have a new phone.
 
-**kia tu ha ban?** Do you have children?  
-**mi ha du ban.** I have two children.
+**kia tu hava ban?** Do you have children?  
+**mi hava dua ban.** I have two children.
 
 
 
@@ -186,10 +186,10 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **kia tu bon?** Are you well?  
 **si. mi bon.** Yes, I'm well.
 
-**kia ha doktor?** Is there a doctor?  
+**kia hava doktor?** Is there a doctor?  
 **si. ye si doktor.** Yes. He/she is a doctor.
 
-**kia ha vin?** Do you have wine?  
+**kia hava vin?** Do you have wine?  
 **si. bai i ros.** Yes, white and red.
 
 
@@ -216,15 +216,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### ge <small>'s</small>
+### da <small>'s</small>
 
-**ye si mi ge mama.** She is my mother.
+**ye si mi da mama.** She is my mother.
 
-**ye si mi ge man.** He is my man.
+**ye si mi da man.** He is my man.
 
-**ye si mi ge fem.** She is my wife.
+**ye si mi da fem.** She is my wife.
 
-**tomas si sara ge panyo.** Thomas is Sara's friend.
+**tomas si sara da panyo.** Thomas is Sara's friend.
 
 
 
@@ -283,7 +283,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi cing tu yem ca.** I ask you to drink tea.
 
-**mi cing tu lai dom.** I ask you to come home.
+**mi cing tu lay dom.** I ask you to come home.
 
 **mi cing tu meda mi.** I ask you to help me.
 
@@ -293,7 +293,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing yem kafe.** Please, have some coffee!
 
-**cing lai dom.** Please, come home!
+**cing lay dom.** Please, come home!
 
 **cing meda mi.** Please, help me.
 
@@ -380,7 +380,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**maf. mi no ken tu ge baxa.** Sorry, I don't speak your language.
+**maf. mi no ken tu da baxa.** Sorry, I don't speak your language.
 
 
 
@@ -388,9 +388,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu loga ke?** What did you say?
 
-**mi loga do tu.** I talk to you.
+**mi loga ko tu.** I talk to you.
 
-**mimen loga do alise.** We talk to each other.
+**mimen loga ko alise.** We talk to each other.
 
 **se loga "cat" bi ke yang bi pandunia?** How do you say "cat" in Pandunia?
 
@@ -407,7 +407,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi auda musik.** I listen to music.
 
-**tu auda ke yang ge musik?** What kind of music do you listen to?
+**tu auda ke yang da musik?** What kind of music do you listen to?
 
 
 ### vida <small>to see</small>
@@ -427,14 +427,14 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" mana ke?** What does "mau" mean?
 
-**ye mana yang de hewan.** It means a kind of animal.
+**ye mana yang du hewan.** It means a kind of animal.
 
 **mi no aha ye mana ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu ge adres.** Please, write your address.
+**cing kitaba tu da adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
 
@@ -474,22 +474,22 @@ Tip: To make direct requests, drop all the pronouns.
 **haida enda bi ped** Let's go by foot!
 
 
-### lai <small>to come</small>
+### lay <small>to come</small>
 
-**cing lai!** Come here!
+**cing lay!** Come here!
 
-**tu lai ze ke?** Where do you come from?
+**tu lay ze ke?** Where do you come from?
 
-**mi lai ze dubai.** I come from Dubai.
+**mi lay ze dubai.** I come from Dubai.
 
-**mi lai dom nale.** I will come home tomorrow.
+**mi lay dom nale.** I will come home tomorrow.
 
 
 ### safara <small>to travel</small>
 
 **kia tu safara bi tren?** Do you travel by train?
 
-**mimen safara ze london do paris.** We travel from London to Paris.
+**mimen safara ze london ko paris.** We travel from London to Paris.
 
 **safar multo long.** The voyage is very long.
 
@@ -541,7 +541,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **mi kap un kafe.** I will take a coffee.
 
-**cing kap un kafe do mi.** Please take one coffee for me.
+**cing kap un kafe ko mi.** Please take one coffee for me.
 
 **tu ja kap pesa ze mi.** You already got money from me.
 
@@ -550,13 +550,13 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dar pesa.** Please give some money.
 
-**cing dar ye do mi.** Please give it to me.
+**cing dar ye ko mi.** Please give it to me.
 
-**mi dar sa do tu.** I give this to you.
+**mi dar sa ko tu.** I give this to you.
 
-**mi dar buk do yemen.** I give a book to them.
+**mi dar buk ko yemen.** I give a book to them.
 
-**ye no vol dar ye do mi.** He/she doesn't want to give it to me.
+**ye no vol dar ye ko mi.** He/she doesn't want to give it to me.
 
 
 
@@ -575,7 +575,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi vol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar do biznes jen.** He/she rents rooms to business people.
+**ye kira dar kamar ko biznes jen.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -672,7 +672,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**ha** have; there is <small>(Portuguese _há_)</small>  
+**hava** have; there is <small>(English _have_)</small>  
 **habar** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
@@ -684,7 +684,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
-**lai** come <small>(Vietnamese _lai_)</small>  
+**lay** come <small>(Vietnamese _lai_)</small>  
 **mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mana** to mean; meaning <small>(Swahili _maana_)</small>  

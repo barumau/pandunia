@@ -54,7 +54,7 @@ The stress is on the syllable, which is before the last consonant.
 2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
 3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
 
-> **dúnia sí mimén ge sundár planét.**  
+> **dúnia sí mimén da sundár planét.**  
 > **mí vól lóga komún báx yáni pandúnia.**  
 
 

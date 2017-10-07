@@ -168,16 +168,16 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 
 
-### ha <small>verbe avoir</small>
+### hava <small>verbe avoir</small>
 
-**mi ha bon dom.** J’ai une bonne maison.
+**mi hava bon dom.** J’ai une bonne maison.
 
-**ye no ha pesa.** Il/elle n’a pas d’argent.
+**ye no hava pesa.** Il/elle n’a pas d’argent.
 
-**mi vol ha novi fon.** Je veux un nouveau téléphone.
+**mi vol hava novi fon.** Je veux un nouveau téléphone.
 
-**kia tu ha ban?** As-tu des enfants ?  
-**mi ha du ban.** J’ai deux enfants.
+**kia tu hava ban?** As-tu des enfants ?  
+**mi hava du ban.** J’ai deux enfants.
 
 
 
@@ -186,10 +186,10 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 **kia tu bon?** Est-ce que ça va ?  
 **si. mi bon.** Oui, je vais bien.
 
-**kia ha doktor?** Est-ce qu’il y a un médecin ?  
+**kia hava doktor?** Est-ce qu’il y a un médecin ?  
 **si. ye si doktor.** Oui. Il/elle est médecin.
 
-**kia ha vin?** Est-ce que tu as du vin?  
+**kia hava vin?** Est-ce que tu as du vin?  
 **si. bai i ros.** Oui, du blanc et du rouge.
 
 
@@ -671,7 +671,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **englix** anglais <small>(Anglais _English_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
-**ha** avoir, il y a <small>(Portugais _há_)</small>  
+**hava** avoir, il y a <small>(Anglaise _have_)</small>  
 **habar** nouvelles <small>(Malais _khabar_)</small>  
 **i** et <small>(Polonais _i_)</small>  
 **kafe** café <small>(Allemand _Kaffee_)</small>  

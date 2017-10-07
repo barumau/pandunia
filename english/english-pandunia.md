@@ -79,6 +79,7 @@ airplane   : viman
 alas! (ouch!)   : ai  
 Albania   : cip  
 alcohol   : alkol  
+alcoholic   : alkoli  
 Algeria   : dzayer  
 Allah   : alah  
 allow (permit)   : permisa  
@@ -89,6 +90,8 @@ ambassador : daixi
 America (continent)   : amerika  
 American   : amerikai  
 ampere   : amper  
+anal   : anusi  
+analyse   : analisa  
 analysis   : analis  
 Ancient Egypt (Kemet)   : kemet  
 and   : i  
@@ -1004,8 +1007,8 @@ music   : musik
 music fan   : musik nik  
 musician   : musikar  
 must   : mus  
-my   : mi ge  
-my parents   : mi ge law  
+my   : mi da  
+my parents   : mi da law  
 Myanmar (Burma)   : bama  
 myth (divine story)   : devi kat  
 ##n  
@@ -1064,7 +1067,7 @@ oasis   : waha
 object (thing, article, material, stuff)   : vat  
 occupation (career)   : karia  
 October   : mes 10 (mes des)  
-of (particle of possession)   : de  
+of (particle of possession)   : du  
 office (position)   : ofis  
 officer   : ofisar  
 often (frequently)   : cang  
@@ -1093,7 +1096,7 @@ original   : asli
 other   : alter  
 out (outside)   : na way  
 outside (exterior)   : way  
-own (particle of possession)   : ge  
+own (particle of possession)   : da  
 oxygen   : okse  
 ##p  
 pack   : paka  
@@ -1116,7 +1119,7 @@ pants (trousers)   : pantalon
 papaya   : papaya  
 paper   : paper  
 Paraguay   : paraguai  
-parents   : ban ge law  
+parents   : ban da law  
 parrot (parakeet)   : papagai  
 part (fraction)   : fen  
 participate   : memba  
@@ -1531,7 +1534,7 @@ ticket   : tiket
 time (occasion)   : mar  
 time of day (moment)   : sat  
 titanium   : titan  
-to (till, until)   : do  
+to (till, until)   : ko  
 tobacco   : tabak  
 today   : ajo  
 Togo   : togo  
@@ -1575,7 +1578,7 @@ turban   : pagri
 Turkey   : turkia  
 Turkish   : turki  
 turtle (tortoise)   : tortuga  
-two (2)   : du  
+two (2)   : dua  
 typewriter   : kitab maxin  
 tyranny   : tirania  
 tyrant   : tiran  

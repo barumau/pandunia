@@ -123,7 +123,7 @@ Lukusanat
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
 > **un tara** - yksi tähti  
-> **du tara** - kaksi tähteä  
+> **dua tara** - kaksi tähteä  
 > **sam tara** - kolme tähteä  
 > **xaw tara** - vähän tähtiä  
 > **poli tara** - useita tähtiä  
@@ -131,20 +131,20 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
 
 > **un dai meza** - yksi iso pöytä  
-> **du dai kursi** - kaksi isoa tuolia  
+> **dua dai kursi** - kaksi isoa tuolia  
 > **sam bon kursi** - kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
 
 > **fen un.** - Ensimmäinen osa.
-> **fen du.** - Toinen osa.
+> **fen dua.** - Toinen osa.
 > **fen sam.** - Kolmas osa.
 
 Perusluvut ovat:
 
 - 0 **nul**
 - 1 **un**
-- 2 **du**
+- 2 **dua**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -157,14 +157,14 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 
 - 10 **un nul** tai **des**
 - 11 **un un**
-- 12 **un du**
+- 12 **un dua**
 - 13 **un sam**
-- 20 **du nul**
-- 21 **du un**
-- 22 **du du**
+- 20 **dua nul**
+- 21 **dua un**
+- 22 **dua dua**
 - 100 **un nul nul** tai **hon**
 - 101 **un nul un** tai **hon un**
-- 200 **du nul nul** tai **du hon**
+- 200 **dua nul nul** tai **dua hon**
 
 
 999:tä suuremmat luvut käyttävät kansainvälisen SI-järjestelmän sanastoa. Siis esimerkiksi **kilo** tarkoittaa tuhatkertaisuutta.
@@ -179,17 +179,15 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 - 10<sup>24</sup> **yota**
 
 
-Pronominit
---------
+## 5. Pronominit
+### 5.1. Persoonapronominit
 
-### Persoonapronominit
-
-- **mi** minä
-- **tu** sinä
-- **ye** hän, se
-- **mimen** me
-- **tumen** te
-- **yemen** he
+**mi** minä  
+**tu** sinä  
+**ye** hän, se  
+**mimen** me  
+**tumen** te  
+**yemen** he  
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
@@ -245,21 +243,21 @@ Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 > **ye sara.** - Hän on Sara.
 > **ye batu.** - Se on kivi.
 
-Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **e** sopii tähän tarkoitukseen.
+Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **si** sopii tähän tarkoitukseen.
 
-> **ye e sara.** - Hän on Sara.
-> **ye e mi.** - Se on minä.
-> **sa e batu.** - Tuo on kivi.
-> **batu e ting.** - Kivi on esine.
-> **jovan e sundar.** - Nuori on kaunista.
+> **ye si sara.** - Hän on Sara.
+> **ye si mi.** - Se on minä.
+> **sa si batu.** - Tuo on kivi.
+> **batu si ting.** - Kivi on esine.
+> **jovan si sundar.** - Nuori on kaunista.
 
 Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu ya ting**, kivi on esine.
 
 Kieltolauseissa käytetään sanaa **no** (ei).
 
-> **mi no e tu.** - Minä en ole sinä.
-> **batu no e hewan.** - Kivi ei ole eläin.
-> **jovan no e sundar.** - Nuori ei ole kaunista.
+> **mi no si tu.** - Minä en ole sinä.
+> **batu no si hewan.** - Kivi ei ole eläin.
+> **jovan no si sundar.** - Nuori ei ole kaunista.
 
 
 
@@ -267,7 +265,7 @@ Kieltolauseissa käytetään sanaa **no** (ei).
 Tekemistä ilmaisevat lauseet
 ----------------------------
 
-In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
+In predicates of action, the main word in the predicate is a verb (i.si. an action-word).
 
 Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
@@ -346,62 +344,62 @@ Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pr
 Määrepartikkelit
 ----------------
 
-Panduniassa on kaksi määrepartikkelia, **ge** ja **de**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
+Panduniassa on kaksi määrepartikkelia, **da** ja **du**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
 
-Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **ge** käytetään siten, että ensin on määre, keskimmäisenä **ge** ja viimeisenä pääsana. Sanaa **de** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **de** ja viimeisenä määre. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
+Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **da** käytetään siten, että ensin on määre, keskimmäisenä **da** ja viimeisenä pääsana. Sanaa **du** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **du** ja viimeisenä määre. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
 
 ### Omistus
 
 Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
-**Ge** vastaa suomen genetiivimuotoa.
+**da** vastaa suomen genetiivimuotoa.
 
-> **maria ge mama** - Marian äiti  
-> **mi ge bet** - minun talo  
-> **mi ge papa ge bet** - minun isän talo
+> **maria da mama** - Marian äiti  
+> **mi da bet** - minun talo  
+> **mi da papa da bet** - minun isän talo
 
-**De** on sama mutta käänteisessä sanajärjestyksessä.
+**du** on sama mutta käänteisessä sanajärjestyksessä.
 
-> **mama de maria** - äiti Marian
-> **bet de mi** - talo minun  
-> **bet de papa de mi** - talo isän minun
+> **mama du maria** - äiti Marian
+> **bet du mi** - talo minun  
+> **bet du papa du mi** - talo isän minun
 
 
 ### Adjektiivimääreet
 
 Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat pääsanaansa. Partikkeli näyttää, kummassa päässä pääsana sijaitsee.
 
-Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **de** avulla.
+Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **du** avulla.
 
 > **nova bet** - uusi talo  
-> **bet de nova** - talo uusi
+> **bet du nova** - talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
-> **roza rang ge lab** - ruusun väriset huulet  
-> **sama rang ge mat** - taivaan väriset silmät
+> **roza rang da lab** - ruusun väriset huulet  
+> **sama rang da mat** - taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
-> **lab de roza rang** - huulet ruusun väriset  
-> **mat de sama rang** - silmät taivaan siniset
+> **lab du roza rang** - huulet ruusun väriset  
+> **mat du sama rang** - silmät taivaan siniset
 
 ### Määrelause
 
 Määrepartikkelien avulla kokonaisista lauseista voi tehdä määreitä.
 
-Siinä tapauksessa **de** vastaa suomen relatiivipronominia _joka_.
+Siinä tapauksessa **du** vastaa suomen relatiivipronominia _joka_.
 
-> **ye e man _de mi vida_.** - Hän on mies, _jonka minä näin_.
+> **ye si man _du mi vida_.** - Hän on mies, _jonka minä näin_.
 
 Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
-**ye e _mi vida ge_ man.** - Hän on minun näkemä mies.
+**ye si _mi vida da_ man.** - Hän on minun näkemä mies.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-> **mi vida man _de yem pingo_.** - Minä näen miehen, _joka syö omenoita_.  
-> **mi vida _yem pingo ge_ man.** - Minä näen _omenia syövän_ miehen.
+> **mi vida man _du yem pingo_.** - Minä näen miehen, _joka syö omenoita_.  
+> **mi vida _yem pingo da_ man.** - Minä näen _omenia syövän_ miehen.
 
 
 
@@ -414,7 +412,7 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 1. **na** - paikka tai ajanhetki yleensä: -ssa, -lla, luona
 2. **ze** - lähtöpaikka tai -aika: -sta, -lta, luota, lähtien
-3. **do** - määräpaikka tai -aika: -Vn, -lle, luokse, asti
+3. **ko** - määräpaikka tai -aika: -Vn, -lle, luokse, asti
 
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
@@ -428,29 +426,29 @@ Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini
 
 > **mi na hotel.** - Minä (olen) hotellissa.  
 > **mi son na hotel.** - Minä nukun hotellissa.  
-> **mi son ze cam do suba.** - Minä nukun illasta aamuun.  
-> **mi safar ze london do paris.** - Minä matkustan Lontoosta Pariisiin.  
+> **mi son ze cam ko suba.** - Minä nukun illasta aamuun.  
+> **mi safar ze london ko paris.** - Minä matkustan Lontoosta Pariisiin.  
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
 
 > **mi deng ze tu go.** - Minä odotan sinun lähdöstä lähtien.  
-> **mi deng do tu lai dom.** - Minä odotan siihen asti, kun tulet kotiin.  
+> **mi deng ko tu lai dom.** - Minä odotan siihen asti, kun tulet kotiin.  
 > **mi deng na tu son.** - Minä odotan kun sinä nukut.  
 
-Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _prepositio + ajan tai paikan sana + **de**_.
+Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _prepositio + ajan tai paikan sana + **du**_.
 
-> **na dur de** - aikana, kestäessä  
-> **mi deng na dur de tu son.** - Minä odotan sillä aikaa kun sinä nukut.  
-> **na lok de** - paikassa  
-> **mi deng na lok de tu toka.** - Minä odotan siinä paikassa mistä sinä lähdit.  
-> **na cia de** - alapuolella  
-> **un waf lala na cia de meza.** - Koira makaa pöydän alla.  
-> **na men de** - päällä, pinnalla  
-> **un mau lala na men de meza.** - Kissa makaa pöydällä.  
+> **na dur du** - aikana, kestäessä  
+> **mi deng na dur du tu son.** - Minä odotan sillä aikaa kun sinä nukut.  
+> **na lok du** - paikassa  
+> **mi deng na lok du tu toka.** - Minä odotan siinä paikassa mistä sinä lähdit.  
+> **na cia du** - alapuolella  
+> **un waf lala na cia du meza.** - Koira makaa pöydän alla.  
+> **na men du** - päällä, pinnalla  
+> **un mau lala na men du meza.** - Kissa makaa pöydällä.  
 
-Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **ge** avulla.
+Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **da** avulla.
 
-> **un mau lala na meza ge men.** - Yksi kissa makaa pöydän päällä.
+> **un mau lala na meza da men.** - Yksi kissa makaa pöydän päällä.
 
 Lisäksi myös verbialkuinen lauseke voi täydentää preposition.
 
@@ -522,21 +520,21 @@ Laatusanat ja lukusanat riippuvat pääsanastaan.
 Sanaluokkien arvojärjestys panduniassa:
 
 1. Konjunktiot: i, u
-2. Määrepartikkelit: ge, de
-3. Prepositiot: na, do, ze, bi
+2. Määrepartikkelit: da, du
+3. Prepositiot: na, ko, ze, bi
 4. Teonsanat
 5. Asiansanat ja pronominit
 6. Ajan ja tavan partikkelit
 7. Lukusanat
 8. Laatusanat
 
-Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **koz**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **Ze koz de** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
+Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **koz**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **Ze koz du** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara vol darsa pandunia ze koz de ye si bon dunia bax.
+    yusef i sara vol darsa pandunia ze koz du ye si bon dunia bax.
 
-                      ze koz de
+                      ze koz du
                ┌──────────┴──────────┐
               vol                   si
           ┌────┴──────┐           ┌──┴──┐
