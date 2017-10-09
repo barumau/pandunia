@@ -278,7 +278,7 @@ detal [e] detail
 dev [e] god  
 dev lojia [e] theology  
 devi [i] divine (godly)  
-devi kat [e] myth (divine story)  
+devi histor [e] myth (divine story)  
 deya [e] village  
 dian [e] attention (focus)  
 din [e] religion  

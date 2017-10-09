@@ -66,7 +66,7 @@ advice (counsel)   : konsel
 affirm (agree, concur)   : amena  
 Africa   : afrika  
 African   : afrikai  
-after (later)   : bada  
+after (later)   : bad  
 afternoon   : xam den  
 age   : umur  
 agile   : ajil  
@@ -144,7 +144,6 @@ axis   : akse
 baby (darling)   : bebe  
 back   : ruk  
 backpack (rucksack)   : ruk sak  
-bad (not good)   : bad  
 bad (ruined, spoiled)   : harab  
 bag (sack)   : sak  
 bah! (yuck!)   : fu  
@@ -356,6 +355,8 @@ coat   : kot
 coco   : koko  
 cocoa   : kakau  
 code (cipher)   : kod  
+coerce (force, compel)   : musa  
+coercion   : muse  
 coffee   : kafe  
 coffee cup   : kafe kop  
 cold   : leng  
@@ -1012,7 +1013,7 @@ must   : mus
 my   : mi da  
 my parents   : mi da law  
 Myanmar (Burma)   : bama  
-myth (divine story)   : devi kat  
+myth (divine story)   : devi histor  
 ##n  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
@@ -1190,7 +1191,7 @@ play (have fun)   : joga
 play a game   : gema  
 play music   : musika  
 player (gamer)   : gemar  
-please (make happy)   : suka  
+please (delight, make happy)   : suka  
 pliers (pincers)   : pinse  
 plug (stop with a plug)   : ziba  
 Pluto (dwarf planet)   : pluto  
@@ -1462,8 +1463,8 @@ suck   : cupa
 Sudan   : sudan  
 suffer (get hurt)   : paxu  
 suffering (passion)   : paxia  
-sugar   : sukar  
-sugary   : sukari  
+sugar   : suker  
+sugary   : sukeri  
 suggest (propose)   : teyana  
 suggestion (proposal)   : teyan  
 sum (total)   : sum  
