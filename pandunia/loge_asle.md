@@ -1380,8 +1380,8 @@ zaitun ← arabi:zaitūn espanya:aceituna indonesia:zaitun swahili:zaituni hindi
 zalim ← turki:urdu:hindi:zālim farsi:zālem swahili:dhalimu  
 zaman ← amara:zämän farsi:zamān arabi:turki:horvat:indonesia:zaman  
 zardux ←   
-zardux din ←   
 zarura ← arabi:ðarura swahili:dharura farsi:hindi:urdu:zaruri  
+zay ←  在 putonghan:zài nipon:-zai- viet:tại  
 ze ← ruski:z tceska:ze  
 ziba ← swahili:ziba kongo:ziba  
 zibula ← swahili:zibua kongo:zibula  

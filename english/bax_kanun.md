@@ -72,54 +72,46 @@ Two or more nouns can be put together to make a compound word. The last word is 
 
 A modifier is a word that adds some quality or description to the thing denoted by another word, ex. good, bad, big, fast.
 
-### 3.1. Adjectives
+### 3.1. Modifying a noun
 
-#### 3.1.1. General
-
-An adjective is a word that adds a particular quality for a noun. In Pandunia adjectives are usually before the noun that they modify.
+An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
 > **day batu** - big stone
 > **day meza** - big table  
 > **gaw meza** - high table
 > **bon kursi** - good chair
 
-Adjectives can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
+When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batu day.** - stone big _or_ The stone is big.  
-> **meza gaw.** - table high _or_ The table is high.
+> **batu day.** - The stone is big.  
+> **meza gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meza gaw** - big table high
+> **day meza gaw.** - Big table is high.
 
 
-#### 3.1.3. Adjective endings
+### 3.2 Modifying a verb
 
-Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
+An adverb is a word that modifies a verb or another modifier.
 
-The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
+In Pandunia an adverb is a modifier that is before a verb or at the end of the sentence.
 
+> **mi _bon_ sona.** - I well sleep.  
+> **mi sona _bon_.** - I sleep _well_.  
+> **tu baxa pandunia _bon_.** - You speak Pandunia _well_.
 
+### 3.4 Modifying another modifier
 
-### 3.2 Adverbs
+A modifier can modify also another modifier.
 
-An adverb is a word that modifies a verb, an adjective or another adverb.
-
-Adverbs of manner are next to the verb or at the end of the sentence.
-
-> **mi _bono_ sona.** - I well sleep.  
-> **mi sona _bono_.** - I sleep _well_.  
-> **tu baxa pandunia _bono_.** - You speak Pandunia _well_.
-
-
-#### 3.2.2. Adverb ending
-
-Adverbs of manner end in **-o**: **bono** _well_, **sundaro** _beautifully_.
+> **sundar fem** - beautiful woman  
+> **ver sundar fem** - truly beatiful woman  
 
 
-### 3.3. Comparison
+### 3.5. Comparison
 
-Both adjectives and adverbs can be compared.
+Modifiers can be compared.
 
 - **max** (more) indicates comparison of superiority
 - **maxim** (most) indicates the superlative of superiority
@@ -130,7 +122,14 @@ Both adjectives and adverbs can be compared.
 Particle **ka** relates the adverbs of comparison to the point of comparison.
 
 > **mi si max bon ka tu.** - I am better than you.  
-> **tu loga sem bono ka mi.** - You speak as well as mi.
+> **tu loga sem bon ka mi.** - You speak as well as mi.
+
+
+#### 3.6. Modifier ending
+
+Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
+
+The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
 
 
 --------------------------------------------------------------------------------
@@ -842,7 +841,7 @@ Note! Pandunia doesn't follow the rule about action-roots because we think that 
 
 ### 11.2. Derivational Suffixes
 
-#### 11.2.3. -ar
+#### 11.2.1. -ar
 
 Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
 
@@ -852,14 +851,14 @@ Creates agent nouns from action roots. It denotes a person or a tool whose job, 
 **komputa** to compute, to process data; **komputar** computer  
 **marta** to kill; **martar** killer  
 
-#### 11.2.4. -ur
+#### 11.2.2. -ur
 
 Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
 
 **kriata** to create; **kriatur** creature, the one who is created  
 **marta** to kill; **martur** the one who gets killed; by extension: a martyr  
 
-#### 11.2.6. -ia
+#### 11.2.3. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -881,9 +880,18 @@ Also abstract nouns often end in **-ia**.
 **novi** new, **novia** newness, novelty  
 
 
-#### 11.2.7. -iz-
+#### 11.2.6. -il-
+
+
+
+#### 11.2.7. -is-
 
 Causative suffix.
+
+**saba** to know  
+**sabisa** to make known, to inform  
+**nota** to note  
+**notisa** to notify  
 
 #### 11.2.8. -ul-
 

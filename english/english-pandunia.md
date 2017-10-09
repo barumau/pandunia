@@ -52,7 +52,6 @@
 a little (not much)   : lit  
 ##a  
 able (capable)   : kabil  
-about (approximately, circa)   : sirko  
 about (concerning)   : bi tem de  
 accept (to say okay)   : okeya  
 accident (mishap)   : xigo  
@@ -96,6 +95,7 @@ analysis   : analis
 Ancient Egypt (Kemet)   : kemet  
 and   : i  
 animal   : hewan  
+animate   : anima  
 animation (cartoon)   : anime  
 anniversary   : nen feste  
 answer (response)   : dap  
@@ -539,6 +539,7 @@ example   : misal
 except (minus)   : minus  
 exchange (swap)   : badal  
 excrement (shit)   : kak  
+existence (presence)   : zaye  
 exit (leaving)   : cut  
 exit door   : cut mun  
 eye   : yen  
@@ -923,7 +924,7 @@ mandarin orange   : migan
 mango   : mango  
 mangosteen   : mangus  
 mankind (humanity)   : manuxia  
-many (much)   : multi  
+many (much)   : cok  
 marathon   : maraton  
 marble   : marmar  
 March   : mes 3 (mes sam)  
@@ -1055,9 +1056,11 @@ Norway   : norge
 nose   : nos  
 notary   : notar  
 note (observation)   : not  
+note (observe, notice)   : nota  
 notebook   : not buk  
 nothing   : nul xe  
-notice (observe)   : nota  
+notice (notification)   : notis  
+notify   : notisa  
 November   : mes 11 (mes des un)  
 now   : nun  
 nudism   : nudisme  
@@ -1079,7 +1082,7 @@ olive   : zaitun
 Oman   : oman  
 on (on surface)   : na fas  
 one (1)   : un  
-only (just)   : solo  
+only (just)   : sol  
 open   : fungula  
 open   : kaya  
 open (not closed)   : kay  
@@ -1231,6 +1234,7 @@ pray   : duwa
 prayer   : duwe  
 precise (exact, accurate)   : presis  
 prepare (make ready)   : reda  
+present (existing)   : zay  
 press (imprint)   : capa  
 press (stamp)   : cap  
 priest (cleric)   : din guru  
@@ -1288,7 +1292,7 @@ remember   : memora
 renew (make new, renovate)   : nova  
 rent   : kire  
 rent (hire)   : kira  
-rent out (let, lease)   : kiriza  
+rent out (let, lease)   : kirisa  
 repair (fix)   : xula  
 report   : reporte  
 report (recount, relate)   : reporta  
@@ -1389,7 +1393,6 @@ shoe   : sapat
 short (not long)   : duan  
 should (ought)  : ingay  
 show   : xow  
-show (display)   : viza  
 show (display)   : xowa  
 shower   : dux  
 Siberia   : sibir  
@@ -1567,7 +1570,6 @@ tree   : mara
 tribe   : kabila  
 trouble (disturbance, bother)   : mafan  
 true (real)   : ver  
-truly (really)   : vero  
 try (attempt)   : proba  
 tube (pipe)   : tub  
 Tuesday   : var 2 (var du)  
@@ -1615,7 +1617,6 @@ vase (flower pot)   : hua bin
 Venezuela   : venesuela  
 Venus   : venus  
 veranda (porch)   : beranda  
-very (very much)   : multo  
 victim of killing (also: martyr)   : martur  
 video   : video  
 Vietnam   : viet  
@@ -1697,7 +1698,7 @@ yeast   : hamir
 yellow   : wang  
 Yemen   : yaman  
 yes (yeah)   : si  
-yesterday   : yero  
+yesterday   : yer  
 yoga   : yoga  
 you   : tu  
 you all   : tumen  

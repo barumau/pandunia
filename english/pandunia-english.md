@@ -33,6 +33,7 @@ amper [n] ampere
 amuk [n] rage (fury)  
 analis [n] analysis  
 analisa [v] analyse  
+anima [v] animate  
 anime [n] animation (cartoon)  
 anjil [n] gospel  
 anma [n] spirit (soul)  
@@ -215,6 +216,7 @@ cip [n] Albania
 cis [n] cheese  
 cita [v] quote  
 coda [v] fuck  
+cok [a] many (much)  
 cokolat [n] chocolate  
 corab [n] sock (stocking)  
 cuka [n] vinegar  
@@ -714,7 +716,7 @@ kini [a] kinetic
 kioske [n] kiosk  
 kira [v] rent (hire)  
 kire [n] rent  
-kiriza [v] rent out (let, lease)  
+kirisa [v] rent out (let, lease)  
 kirat [n] carat  
 kismat [n] fate (destiny)  
 kitab [n] writing (text)  
@@ -1011,8 +1013,6 @@ motor [n] engine (motor)
 mudan [n] peony  
 muhim [a] important  
 muka [n] face  
-multi [a] many (much)  
-multo [adv] very (very much)  
 mum [n] wax  
 mumia [n] mummy  
 mumu [n] cow  
@@ -1088,8 +1088,10 @@ normi [a] normal
 nos [n] nose  
 not [n] note (observation)  
 not buk [n] notebook  
-nota [v] notice (observe)  
+nota [v] note (observe, notice)  
 notar [n] notary  
+notis [n] notice (notification)  
+notisa [v] notify  
 nova [v] renew (make new, renovate)  
 novi [a] new (novel)  
 nudi [a] naked (bare)  
@@ -1381,7 +1383,6 @@ singapur [n] Singapore
 sir [a] secret  
 sirke [n] circle  
 sirki [a] round  
-sirko [adv] about (approximately, circa)  
 sis [num] six (6)  
 sisme [n] earthquake  
 sisme lojia [n] seismology  
@@ -1394,7 +1395,7 @@ slovenia [n] Slovenia
 sofa [n] sofa (couch)  
 sofi [n] wise  
 sofia [n] wisdom  
-solo [adv] only (just)  
+sol [adv] only (just)  
 son [n] sleep  
 son kamar [n] bedroom  
 sona [v] sleep (be asleep)  
@@ -1571,7 +1572,6 @@ venen [n] poison (venom)
 venesuela [n] Venezuela  
 venus [n] Venus  
 ver [a] true (real)  
-vero [adv] truly (really)  
 verme [n] worm  
 vida [v] look (see)  
 vide [n] view (vision)  
@@ -1586,7 +1586,6 @@ virus lojia [n] virology
 vis [n] substitute (vice-)  
 visa [n] visa  
 visin [n] neighbour (vicinity)  
-viza [v] show (display)  
 vizit [n] visit  
 vodu [n] voodoo  
 vokal [n] vowel  
@@ -1675,7 +1674,7 @@ yehudi [a] Jew
 yem [v] eat  
 yen [n] eye  
 yep [n] leaf  
-yero [adv] yesterday  
+yer [adv] yesterday  
 yesu [n] Jesus  
 yo [pr] some  
 yo jen [n] someone (somebody)  
@@ -1691,12 +1690,14 @@ yureka [v] find (discover)
 ##z  
 
 zafran [n] saffron  
+zaitun [n] olive  
 zalim [a] mean (cruel)  
 zaman [n] period (age, epoch)  
 zambia [n] Zambia  
 zardux [n] Zoroaster  
 zardux din [n] Zoroastrianism  
-zaitun [n] olive  
+zay [a] present (existing)  
+zaye [n] existence (presence)  
 ze [pr] from (since)  
 ziba [v] plug (stop with a plug)  
 zibula [v] unplug (uncork)  
