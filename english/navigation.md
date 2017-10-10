@@ -16,9 +16,6 @@
   * [World words](loga.md)
   * [Common words](putong_loga.md)
   * [Suffixes](suffixes.md)
-
----
-
   * [How to read word lists](howto.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
@@ -26,5 +23,8 @@
 
 [Videos](../pandunia/video.md)
 
-[FAQ](kia_i_dap.md)
+[Info]()
+
+  * [Questions & Answers](kia_i_dap.md)
+  * [Translate this site](bax_ko_bax.md)
 
