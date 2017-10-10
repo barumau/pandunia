@@ -53,13 +53,15 @@ When you begin translating for a new language, start from these files.
 2. Translate text
 3. If translation is incomplete in the end
     * Delete untranslated text
-    * or hide it between \<!-- and \--> so that it won't be visible in the web site
+    * or hide it between < ! - - and - - > (without spaces) so that it won't be visible in the web site
 
 ### Updating translations
 
 The best way to update translations and to translate parts of documents is to use a program that compares two files side by side. A good tool for this is BeyondCompare.
 
 Pandunia words and sentences should be the same in both language versions, so they function as anchor points that keep the versions in the same line.
+
+![](http://www.pandunia.info/kuvat/kompar.png "Comparing two language versions")
 
 ### Tips
 
@@ -72,3 +74,4 @@ Pandunia words and sentences should be the same in both language versions, so th
 * You can improve also the source text.
     * The source text is not perfect. There can be unclear things, improper style and even mistakes.
     * It is even OK to propose new chapters and lessons
+
