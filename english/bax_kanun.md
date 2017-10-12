@@ -943,10 +943,10 @@ It makes always sense to apply the following formulas for a root that is an acti
     - **sona sone.** - To sleep a sleep.
     - **ranga range.** - To color a color.
 3. Transition: -e -u
-    - **kitabe kitabu.** - Writing is written.
-    - **danse dansu.** - Dance is danced.
-    - **sone sonu.** - Sleep is slept.
-    - **range rangu** - Color is colored.
+    - **kitabe kitabu.** - Writing gets written.
+    - **danse dansu.** - Dance gets danced.
+    - **sone sonu.** - Sleep gets slept.
+    - **range rangu** - Color gets colored.
 
 They are not very interesting things to be said, but they are true. Normally production and transition formulas are applied to other roots that belong to the same category as the original word. For example, we write different kinds of writings, including letters, books and novels, and we dance different kinds of dances, including tango, samba and polka.
 
@@ -956,11 +956,11 @@ The same formulas can be applied to roots that describe a state.
     - **novi nove.** - New news.
     - **longi longe** - Long length.
 2. Production: -a -e
-    - **nova nove.** - To renew the news.
+    - **nova nove.** - To renew the new.
     - **longa longe.** - To lengthen the length.
 3. Transition: -e -u
-    - **nove novu.** - News is renewed.
-    - **longe longu.** - The length is lengthened.
+    - **nove novu.** - The new get renewed.
+    - **longe longu.** - The length gets lengthened.
 
 Description formula still gives meaningful (though obvious) phrases. Production and transition formulas work better for gradual descriptions (like "length") than for binary descriptions (like "new"). When something is already new, it can't be made new. But when something is already long, it can be made even longer.
 
