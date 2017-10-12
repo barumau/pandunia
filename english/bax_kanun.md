@@ -788,7 +788,6 @@ Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase 
 
 1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
 2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
-3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
 
 
 #### 11.1.3. Deriving nouns
@@ -832,7 +831,7 @@ If the root is a place word, then it's adjectival form will mean "that which is 
 
 |                  | Noun        | Adjective   | Verb        |
 |:-----------------|:------------|:------------|:------------|
-| Thing-root       | **hamer**   | hameri      | hamera      |
+| Thing-root       | **manux**   | manuxi      | -           |
 | Description-root | bone        | **bon**     | bona        |
 | Action-root      | yeme        | yemi        | **yem**     |
 
@@ -904,7 +903,7 @@ Creates verbs that reverse the meaning of the base verb.
 
 ## 12. Other Topics
 
-### Sentence Word Orders
+### 12.1. Sentence Word Orders
 
 In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
@@ -922,7 +921,52 @@ The constituent, which is further away from the verb, can be left out. So for ex
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **mi vida jen, jo tu suku.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
 
-### Hierarchy of Word Types
+### 12.2. Relations between the endings
+
+A root is an idea that has many faces: a thing, a state, an action and a transition.
+
+- E-word names a thing whose defining characteristic (in the given context) is the root.
+- I-word describes another word by the root. The thing named by the other word is in the state of the root.
+- A-word is an action that produces a thing that is characterized by the root. In other words, A-word produces the E-word.
+- U-word is a transition that leads to the state of the root.
+
+It makes always sense to apply the following formulas for a root that is an action.
+
+1. Description: -i -e
+    - **kitabi kitabe.** - Written writing.
+    - **dansi danse.** - Danced dance.
+    - **soni sone.** - Sleepy sleep.
+    - **rangi range.** - Colored color.
+2. Production: -a -e
+    - **kitaba kitabe.** - To write a writing.
+    - **dansa danse.** - To dance a dance.
+    - **sona sone.** - To sleep a sleep.
+    - **ranga range.** - To color a color.
+3. Transition: -e -u
+    - **kitabe kitabu.** - Writing is written.
+    - **danse dansu.** - Dance is danced.
+    - **sone sonu.** - Sleep is slept.
+    - **range rangu** - Color is colored.
+
+They are not very interesting things to be said, but they are true. Normally production and transition formulas are applied to other roots that belong to the same category as the original word. For example, we write different kinds of writings, including letters, books and novels, and we dance different kinds of dances, including tango, samba and polka.
+
+The same formulas can be applied to roots that describe a state.
+
+1. Description: -i -e
+    - **novi nove.** - New news.
+    - **longi longe** - Long length.
+2. Production: -a -e
+    - **nova nove.** - To renew the news.
+    - **longa longe.** - To lengthen the length.
+3. Transition: -e -u
+    - **nove novu.** - News is renewed.
+    - **longe longu.** - The length is lengthened.
+
+Description formula still gives meaningful (though obvious) phrases. Production and transition formulas work better for gradual descriptions (like "length") than for binary descriptions (like "new"). When something is already new, it can't be made new. But when something is already long, it can be made even longer.
+
+
+
+### 12.3. Hierarchy of Word Types
 
 Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
 
