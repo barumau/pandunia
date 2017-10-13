@@ -49,6 +49,7 @@
   
   
   
+  
 a little (not much)   : lit  
 ##a  
 able (capable)   : kabil  
@@ -74,7 +75,7 @@ agreement (amen)   : amen
 agression (assault)   : agres  
 ah!   : a  
 air   : hawa  
-airplane   : viman  
+airplane   : wiman  
 alas! (ouch!)   : ai  
 Albania   : cip  
 alcohol   : alkol  
@@ -186,6 +187,7 @@ believe   : xina
 Belize   : belize  
 bell pepper  : cili  
 belly (abdomen)   : fubu  
+belong   : habu  
 below (under)   : na xia  
 belt (zone)   : zon  
 bench   : benci  
@@ -195,7 +197,7 @@ Bible   : biblia
 big   : day  
 billion (giga-)   : giga  
 bind   : banda  
-biology (study of life)   : jive lojia  
+biology (study of life)   : jiwe lojia  
 bird   : paki  
 birth   : jene  
 birthday   : jene den  
@@ -219,7 +221,7 @@ bottom   : tal
 bow instrument (violin, etc.)   : ticin  
 bowl (earless cup)   : wan  
 box (chest)   : sanduk  
-boy   : jovan man  
+boy   : jowan man  
 boycott   : boikot  
 brain   : nau  
 brave (courageous)   : yungam  
@@ -338,7 +340,6 @@ cigarette   : sigaret
 circle   : sirke  
 circle (ring)   : wen  
 city (town)   : siti  
-civilian (civil)   : sivil  
 class (category)   : klas  
 classify (categorize)   : klasa  
 clean (pure)   : saf  
@@ -422,21 +423,21 @@ cumin   : zira
 cup   : kop  
 curry   : kari  
 curtain   : parde  
-curve   : kurve  
+curve (bend)   : kurve  
 curvy (curved)   : kurvi  
 cushion (pillow)   : kusen  
 cut   : kata  
 cute   : kawayi  
 Czech   : ceska  
 ##d  
-damage (wreck)   : avar  
+damage (wreck)   : awar  
 danger (peril)   : hatar  
 dangerous   : hatari  
 dark (dim)   : oskur  
 date fruit   : tamar  
 daughter   : fem ban  
 day (daytime)   : den  
-day of the week   : var  
+day of the week   : war  
 dead   : marti  
 death   : marte  
 December   : mes 12 (mes des du)  
@@ -459,12 +460,12 @@ dharma (piety)   : darme
 diamond   : almas  
 die   : martu  
 die (dice)   : dado  
-dig (excavate)   : kava  
+dig (excavate)   : fosa  
 dinner   : xam yem  
 disc (disk)   : diske  
 distant (tele-)   : tele  
 divide (to partition)   : fena  
-divine (godly)   : devi  
+divine (godly)   : dewi  
 do (make, act)   : kara  
 doctor (physician, healer)   : doktar  
 dog   : waf  
@@ -620,12 +621,12 @@ France   : frans
 free (liberate)   : libera  
 free (unchained)   : liber  
 fresh   : tazi  
-Friday   : var 5 (var lim)  
+Friday   : war 5 (war lim)  
 friend   : panyo  
 from (since)   : ze  
 frost   : hima rose  
 fruit (result, outcome)   : pal  
-frying pan   : tava  
+frying pan   : tawa  
 fuck   : coda  
 full   : ful  
 fun (amusement)   : fan  
@@ -651,14 +652,14 @@ gift   : dare
 ginger   : inji  
 ginseng   : jenxen  
 giraffe   : jiraf  
-girl   : jovan fem  
+girl   : jowan fem  
 give   : dar  
 give birth (procreate, generate)   : jena  
 glass   : glas  
 global   : panduniai  
 go   : enda  
 goal   : gol  
-god   : dev  
+god   : dew  
 gold   : gim  
 good   : bon  
 Good day   : den salam  
@@ -704,7 +705,7 @@ harmony   : harmonia
 harness   : maju  
 hat (cap)   : topi  
 hate   : hen  
-have   : hava  
+have   : haba  
 have sex   : seksa  
 hazard   : hazar  
 he or she or it   : ye  
@@ -778,11 +779,10 @@ inject   : juxa
 insect   : koncung  
 inside (interior)   : in  
 inspire (inspiration)   : inspira  
-instead of   : na vis de  
+instead of   : na lok de  
 intend (plan)   : plana  
 intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)   : tez  
 interest (interesting)   : interes  
-interview   : intervu  
 invite   : cing lay  
 iodine   : yod  
 Iran   : iran  
@@ -851,12 +851,11 @@ lamp   : lampa
 language   : bax  
 lantern   : fanus  
 Laos   : lao  
-larva (maggot, caterpillar)   : larva  
+larva (maggot, caterpillar)   : larwa  
 last (final)   : final  
 last (take time)   : dura  
 Latvia   : latvia  
 laugh   : haha  
-lava   : lava  
 law   : kanun  
 lead (direct)   : lida  
 leader (director)   : lidar  
@@ -874,7 +873,7 @@ letter (message)   : leter
 lettuce   : letis  
 library   : kitab kan  
 lie (lie down)   : lala  
-life   : jive  
+life   : jiwe  
 light (illumination)   : guang  
 like (as, as if, than)   : ka  
 like (in the style of)   : bi yang de  
@@ -891,13 +890,13 @@ list (listing)   : liste
 liter (litre)   : liter  
 Lithuania   : lietuva  
 little (small)   : liti  
-live   : jiva  
+live   : jiwa  
 live (dwell, reside)   : doma  
 load (to charge)   : lada  
 local   : loki  
 lock   : tala  
 long   : long  
-look (see)   : vida  
+look (see)   : wida  
 lose (fail to win)   : luza  
 loser   : luzar  
 love   : amor  
@@ -986,7 +985,7 @@ ministry   : ministaria
 minute   : minut  
 mirror   : aine  
 model (design)   : model  
-Monday   : var 1 (var un)  
+Monday   : war 1 (war un)  
 money   : pesa  
 Mongolia   : mongol  
 mongoose   : mungus  
@@ -1018,7 +1017,7 @@ must   : mus
 my   : mi da  
 my parents   : mi da law  
 Myanmar (Burma)   : bama  
-myth (divine story)   : devi histor  
+myth (divine story)   : dewi histor  
 ##n  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
@@ -1033,14 +1032,13 @@ near (close)   : jin
 necessary (needed)   : nidi  
 need   : nida  
 needle (pin)   : pin  
-neighbour (vicinity)   : visin  
 Nepal   : nepal  
 Neptune   : neptun  
 net   : net  
 Netherlands   : nederland  
-new (novel)   : novi  
-news   : habar  
-newspaper (gazette)   : habar gazet  
+new (novel)   : nowi  
+news   : haber  
+newspaper (gazette)   : haber gazet  
 newton (N)   : nuton  
 Nicaragua   : nikaragua  
 nice (pleasant, lovely)   : latif  
@@ -1074,7 +1072,6 @@ number   : numer
 nylon   : nilon  
 ##o  
 oasis   : waha  
-object (thing, article, material, stuff)   : vat  
 occupation (career)   : karia  
 October   : mes 10 (mes des)  
 of (particle of possession)   : du  
@@ -1179,7 +1176,7 @@ pipe   : pipa
 pirate   : pirat  
 piss (urine)   : pixa  
 pistol   : pistol  
-pit (excavation)   : kave  
+pit (excavation)   : fos  
 pizza   : pitsa  
 place (location)   : lok  
 plain (simple)   : sadi  
@@ -1206,7 +1203,6 @@ poet   : xirar
 point (full stop)   : punt  
 point (indicate)   : ponta  
 point (spot)   : dem  
-poison (venom)   : venen  
 poker   : poker  
 Poland   : polska  
 police   : polis  
@@ -1295,7 +1291,7 @@ reign (rule as an emperor)   : impera
 release (let, let go)   : laxa  
 religion   : din  
 remember   : memora  
-renew (make new, renovate)   : nova  
+renew (make new, renovate)   : nowa  
 rent   : kire  
 rent (hire)   : kira  
 rent out (let, lease)   : kirisa  
@@ -1351,7 +1347,7 @@ salad   : salada
 salt   : sal  
 same   : sem  
 sand   : balu  
-Saturday   : var 6 (var sis)  
+Saturday   : war 6 (war sis)  
 Saturn   : xani  
 sauce   : sos  
 sauna   : sauna  
@@ -1380,9 +1376,6 @@ sentence (phrase)   : jumle
 September   : mes 9 (mes noi)  
 Serbia   : serbia  
 series   : serie  
-servant (waiter)   : servar  
-serve (wait upon)   : serva  
-service   : serve  
 sesame   : sesam  
 seven (7)   : set  
 several   : poli  
@@ -1462,7 +1455,6 @@ storm (tempest)   : tufan
 strike (punch)   : darba  
 strong   : bal  
 student (pupil)   : darse ban  
-substitute (vice-)   : vis  
 subway (metro)   : tunel tren  
 suck   : cupa  
 Sudan   : sudan  
@@ -1475,7 +1467,7 @@ suggestion (proposal)   : teyan
 sum (total)   : sum  
 sum up (add together)   : suma  
 sun   : surya  
-Sunday   : var 7 (var set)  
+Sunday   : war 7 (war set)  
 superb (wonderful, super)   : super  
 surface   : fas  
 Suriname   : suriname  
@@ -1485,7 +1477,7 @@ sushi   : suxi
 sweat (perspiration)   : suede  
 sweaty   : suedi  
 Sweden   : svenska  
-Switzerland   : svis  
+Switzerland   : swis  
 syrup   : xirop  
 system   : sistem  
 systemic   : sistemi  
@@ -1525,7 +1517,7 @@ thanks (thank you)   : danke
 that (that over there)   : sa far  
 that is (in other words, i.e.)   : yani  
 theft   : cur  
-theology   : dev lojia  
+theology   : dew lojia  
 theory   : teore  
 they   : yemen  
 thick (fat)   : pang  
@@ -1539,7 +1531,7 @@ three (3)   : sam
 throat (gullet)   : gola  
 throw (launch)   : lanca  
 thunder (roaring)   : grom  
-Thursday   : var 4 (var car)  
+Thursday   : war 4 (war car)  
 ticket   : tiket  
 time (occasion)   : mar  
 time of day (moment)   : sat  
@@ -1575,10 +1567,9 @@ treasure (treasury)   : hazin
 tree   : mara  
 tribe   : kabila  
 trouble (disturbance, bother)   : mafan  
-true (real)   : ver  
 try (attempt)   : proba  
 tube (pipe)   : tub  
-Tuesday   : var 2 (var du)  
+Tuesday   : war 2 (war du)  
 tulip   : tulip  
 tundra   : tundra  
 Tunisia   : tunis  
@@ -1612,40 +1603,31 @@ use (utility, benefit)   : faide
 useful (beneficial)   : faidi  
 user   : uzar  
 ##v  
-vacation (holiday)   : vakans  
-vaccine   : vaksin  
+vaccine   : waksin  
 vagina   : yoni  
-valley   : vale  
 value   : gaci  
-vanilla   : vanila  
-vase   : vaza  
+vanilla   : wanila  
 vase (flower pot)   : hua bin  
-Venezuela   : venesuela  
-Venus   : venus  
 veranda (porch)   : beranda  
 victim of killing (also: martyr)   : martur  
-video   : video  
+video   : wideo  
 Vietnam   : viet  
-view (vision)   : vide  
+view (vision)   : wide  
 village   : deya  
 vinegar   : cuka  
-vinyl   : vinil  
-virology   : virus lojia  
-virus   : virus  
-visa   : visa  
-visit   : vizit  
-visual field (field of vision)   : vide maidan  
-voice   : vos  
+vinyl   : winil  
+virology   : wirus lojia  
+virus   : wirus  
+visit   : wizit  
+visual field (field of vision)   : wide maidan  
 volt   : volta  
 voodoo   : vodu  
-vote   : vot  
-vowel   : vokal  
 ##w  
 wait   : denga  
 wake (make awake)   : weka  
 walk (march)   : marca  
 wall   : mur  
-want (desire)   : vol  
+want (desire)   : wol  
 warm   : garam  
 warrior (fighter)   : jangar  
 wash   : waxa  
@@ -1660,8 +1642,8 @@ way (road)   : dau
 we   : mimen  
 wear clothes   : fuka  
 weather   : tenci  
-Wednesday   : var 3 (var sam)  
-week   : set var  
+Wednesday   : war 3 (war sam)  
+week   : set war  
 weird (strange)   : bizar  
 welcome   : lay salam  
 west   : weste  
@@ -1677,7 +1659,7 @@ wiki   : wiki
 win (victory)   : win  
 wind   : fong  
 window   : janela  
-wine   : vin  
+wine   : wain  
 wing   : wing  
 wisdom   : sofia  
 wise   : sofi  
@@ -1690,7 +1672,7 @@ word list   : loge liste
 workshop (place for...)   : kan  
 world   : dunia  
 world language   : dunia bax  
-worm   : verme  
+worm   : werme  
 worship (revere)   : puja  
 wow! (gee!)   : wa  
 write   : kitaba  
@@ -1708,7 +1690,7 @@ yesterday   : yer
 yoga   : yoga  
 you   : tu  
 you all   : tumen  
-young   : jovan  
+young   : jowan  
 ##z  
 Zambia   : zambia  
 zero (none)   : nul  

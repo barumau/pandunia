@@ -86,21 +86,21 @@ Pandunia has only 5 pure vowels: a, e, i, o, u. In this respect, it is close to 
 
 Pandunia's consonant inventory is smaller than that of English and Mandarin. Majority of the consonant letters are pronounced in the same way in all three languages. The table below shows how consonant sounds are mapped from Pandunia to English and Mandarin. Sounds that are in English or Mandarin but not in Pandunia are enclosed in parenthesis.
 
-|            | Pandunia    | English     | Mandarin    |
-|------------|-------------|-------------|-------------|
-| Nasals     | m n ng      | m n ng      | m n ng      |
-| Stops      | p b t d k g | p b t d k g | p b t d k g |
-| Liquids    | l r y w     | l r y w     | l r y w (yü)|
-| Sibilants  | s z x       | s z sh (zh) | s z* sh     |
-| Fricatives | f v h       | f v h (th dh) | f h       |
-| Affricates | c j         | ch j        | ch zh (q j c) |
+|            | Pandunia    | English       | Mandarin      |
+|------------|-------------|---------------|---------------|
+| Nasals     | m n ng      | m n ng        | m n ng        |
+| Stops      | p b t d k g | p b t d k g   | p b t d k g   |
+| Liquids    | l r y w     | l r y w       | l r y w (yü)  |
+| Sibilants  | s z x       | s z sh (zh)   | s z* sh       |
+| Fricatives | f h         | f h (v th dh) | f h           |
+| Affricates | c j         | ch j          | ch zh (q j c) |
 
 ### Regular spelling
 
 English spelling is notoriously irregular. Pīnyīn was created more recently, in the 1950s, but unfortunately it also has some irregularities, simply because there are more sounds in spoken Chinese than there are letters in the Roman alphabet. Still, in comparison to English, Pinyin is very regular. For example the English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn _mai, sai, lai, rai_. It is as simple as that!
 
-Pandunia can be spelled regularly because it has fewer speech sounds (25) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:
-a b c d e f g h i j k l m n o p r s t u v w x y z
+Pandunia can be spelled regularly because it has fewer speech sounds (24) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:
+a b c d e f g h i j k l m n o p r s t u w x y z
 
 Pandunia has perfect letter-to-sound correspondence. One letter stands for one sound only. One sound is represented by exactly one letter. Every word is pronounced as it is written.
 
@@ -120,7 +120,7 @@ Pandunia doesn't have word tone.
 
 Mandarin has only a few final consonants: -n, -ng and -r. Other final consonants are foreign and more or less difficult for native Mandarin speakers.
 
-Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also -s.
+Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also sibilants -s and -x.
 
 
 
