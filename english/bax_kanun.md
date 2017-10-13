@@ -901,7 +901,9 @@ Creates verbs that reverse the meaning of the base verb.
 
 
 
-## 12. Other Topics
+## 12. Advanced Topics
+
+Note: You can learn the language without reading this chapter. But if you're interested in the inner workings of the language, it can be interesting to you.
 
 ### 12.1. Sentence Word Orders
 
