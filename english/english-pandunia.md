@@ -761,7 +761,9 @@ hurt (pain)   : tung
 hybrid (mongrel)   : hibride  
 I (me)   : mi  
 ##i  
+ice   : ais  
 Iceland   : island  
+icy   : aisi  
 idea   : idea  
 ideal (optimal)   : ideal  
 idealisme   : idealisme  
@@ -884,6 +886,7 @@ line (stripe)   : linye
 linguistics   : bax lojia  
 lion   : singa  
 lip   : labia  
+liquid   : may  
 list (listing)   : liste  
 liter (litre)   : liter  
 Lithuania   : lietuva  
@@ -959,6 +962,8 @@ meet   : mita
 meeting (gathering)   : mit  
 melodious (melodic)   : melodi  
 melody   : melodia  
+melt (get molten)   : mayu  
+melt (liquidize)   : maya  
 member (participant)   : membar  
 memory   : memor  
 Mercury   : budan  

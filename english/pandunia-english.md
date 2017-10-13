@@ -8,6 +8,10 @@ afrikai [i] African
 agres [e] agression (assault)  
 ah [int] argh!  
 aha [a] understand (realize)  
+ai [int] alas! (ouch!)  
+aine [e] mirror  
+ais [e] ice  
+aisi [i] icy  
 ajil [i] agile  
 ajo [o] today  
 aka [e] brother or sister  
@@ -65,8 +69,6 @@ auda [a] hear (listen)
 australia [e] Australia  
 avar [e] damage (wreck)  
 ayiti [e] Haiti  
-ai [int] alas! (ouch!)  
-aine [e] mirror  
 
 ##b  
 
@@ -929,6 +931,9 @@ maxin [e] machine
 mau [e] cat  
 maidan [e] square (plaza)  
 mais [e] corn (maize)  
+may [e] liquid  
+maya [a] melt (liquidize)  
+mayu [u] melt (get molten)  
 medalia [e] medallion (medal)  
 mede [e] help (aid, assistance)  
 meda [a] help (assist)
