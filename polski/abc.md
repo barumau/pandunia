@@ -3,8 +3,8 @@ Pismo Pandunii
 
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński. Oto alfabet Pandunii z odpowiedznimi symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u v w x y z
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
+    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
@@ -32,7 +32,7 @@ Spółgłoski
     c  j  x        y
     k  g  h
 
-Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, f, h, k, l, m, n, p, r, s, t, v, z** jest podobna i prosta.
+Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, f, h, k, l, m, n, p, r, s, t, z** jest podobna i prosta.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
@@ -103,6 +103,6 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach formalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **mi vida tu :)** = Ja widzę cię.  
-> **mi no vida tu :(** = Ja nie widzę się.
+> **mi wida tu :)** = Ja widzę cię.  
+> **mi no wida tu :(** = Ja nie widzę się.
 

@@ -7,9 +7,9 @@ Pandunio uzas la bazan latinan alfabeton sen aldonitaj literoj.
 
 Jen la pandunia alfabeto (sekvata per esperanta prononco).
 
-    Pandunie:   a b c  d e f g h i j  k l m n o p r s t u v w x y z
-    Esperante:  a b ĉ  d e f g h i ĝ  k l m n o p r s t u v ŭ ŝ j z
-    IPA:       /a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z/
+    Pandunie:   a b c  d e f g h i j  k l m n o p r s t u w x y z
+    Esperante:  a b ĉ  d e f g h i ĝ  k l m n o p r s t u ŭ ŝ j z
+    IPA:       /a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z/
 
 
 Oni rajtas skribi pandunion per nur minusklaj literoj. Sed, se oni volas, oni povas uzi majusklajn literojn por komencigi frazojn kaj proprajn nomojn.

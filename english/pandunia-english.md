@@ -67,7 +67,7 @@ atak [e] attack
 atom [e] atom  
 auda [a] hear (listen)  
 australia [e] Australia  
-avar [e] damage (wreck)  
+awar [e] damage (wreck)  
 ayiti [e] Haiti  
 
 ##b  
@@ -277,10 +277,10 @@ denga [a] wait
 des [num] ten (10)  
 desen [e] drawing (picture)  
 detal [e] detail  
-dev [e] god  
-dev lojia [e] theology  
-devi [i] divine (godly)  
-devi histor [e] myth (divine story)  
+dew [e] god  
+dew lojia [e] theology  
+dewi [i] divine (godly)  
+dewi histor [e] myth (divine story)  
 deya [e] village  
 dian [e] attention (focus)  
 din [e] religion  
@@ -404,6 +404,8 @@ fonga [a] blow
 forke [e] fork  
 forme [e] form (shape)  
 forum [e] forum  
+fos [e] pit (excavation)  
+fosa [a] dig (excavate)  
 fosfor [e] phosphorus  
 foto [e] photograph  
 frans [e] France  
@@ -486,8 +488,10 @@ gut [e] bone
 
 ##h  
 
-habar [e] news  
-habar gazet [e] newspaper (gazette)  
+haba [a] have  
+habu [u] belong  
+haber [e] news  
+haber gazet [e] newspaper (gazette)  
 haha [int] laugh  
 hak [e] right (justification, privilege)  
 hakim [e] judgment (sentence)  
@@ -509,7 +513,6 @@ hat [e] hand
 hata [o] even (intensifier)  
 hatar [e] danger (peril)  
 hatari [i] dangerous  
-hava [a] have  
 hawa [e] air  
 hay [o] still (yet)  
 hayda [a] let's  
@@ -573,7 +576,6 @@ inji [e] ginger
 inspira [a] inspire (inspiration)  
 inter [e] between  
 interes [e] interest (interesting)  
-intervu [e] interview  
 inxala [a] hope (wish)  
 irak [e] Iraq  
 iran [e] Iran  
@@ -617,16 +619,16 @@ jeste [e] gesture
 jiju [e] spider  
 jin [i] near (close)  
 jiraf [e] giraffe  
-jiva [a] live  
-jive [e] life  
-jive lojia [e] biology (study of life)  
+jiwa [a] live  
+jiwe [e] life  
+jiwe lojia [e] biology (study of life)  
 joga [a] play (have fun)  
 jok [e] joke  
 jokar [e] joker  
 jong [e] species  
-jovan [i] young  
-jovan fem [e] girl  
-jovan man [e] boy  
+jowan [i] young  
+jowan fem [e] girl  
+jowan man [e] boy  
 judo [e] judo  
 jul [e] joule (J)  
 jumle [e] sentence (phrase)  
@@ -685,8 +687,6 @@ kasa [e] case (container)
 kastan [e] chestnut  
 kata [a] cut  
 katalunya [e] Catalonia  
-kava [a] dig (excavate)  
-kave [e] pit (excavation)  
 kawayi [i] cute  
 kaxa [e] porridge  
 kay [i] open (not closed)  
@@ -787,7 +787,7 @@ kupon [e] coupon
 kura [a] care (cure)  
 kuran [e] Quran (Koran)  
 kursi [e] chair  
-kurve [e] curve  
+kurve [e] curve (bend)  
 kurvi [i] curvy (curved)  
 kusen [e] cushion (pillow)  
 
@@ -805,14 +805,13 @@ lampa [e] lamp
 lanca [a] throw (launch)  
 lanka [e] Sri Lanka  
 lao [e] Laos  
-larva [e] larva (maggot, caterpillar)  
+larwa [e] larva (maggot, caterpillar)  
 lastik [i] elastic  
 lasun [e] garlic  
 lat [i] pungent (spicy, hot)  
 lat cili [e] chili pepper  
 latif [i] nice (pleasant, lovely)  
 latvia [e] Latvia  
-lava [e] lava  
 law [i] old (not young)  
 laxa [a] release (let, let go)  
 lenxa [a] practice (to exercise)  
@@ -1043,7 +1042,7 @@ na [pr] at (in, on)
 na dur de [pr] while (during)  
 na in [pr] in (inside)  
 na fas [pr] on (on surface)  
-na vis de [pr] instead of  
+na lok de [pr] instead of  
 na way [pr] out (outside)  
 na wen [pr] around (about)  
 na xia [pr] below (under)  
@@ -1098,8 +1097,8 @@ nota [a] note (observe, notice)
 notar [e] notary  
 notis [e] notice (notification)  
 notisa [a] notify  
-nova [a] renew (make new, renovate)  
-novi [i] new (novel)  
+nowa [a] renew (make new, renovate)  
+nowi [i] new (novel)  
 nudi [i] naked (bare)  
 nudisme [e] nudism  
 nul [num] zero (none)  
@@ -1371,12 +1370,9 @@ serbia [e] Serbia
 serca [a] search  
 seres [e] Ceres (dwarf planet)  
 serie [e] series  
-serva [a] serve (wait upon)  
-serve [e] service  
-servar [e] servant (waiter)  
 sesam [e] sesame  
 set [num] seven (7)  
-set var [e] week  
+set war [e] week  
 si [o] yes (yeah)  
 sibir [e] Siberia  
 sifa [e] quality (charasteristic)  
@@ -1396,7 +1392,6 @@ sistem [e] system
 sistemi [i] systemic  
 sita [a] quote (to cite)  
 siti [e] city (town)  
-sivil [e] civilian (civil)  
 slovenia [e] Slovenia  
 sofa [e] sofa (couch)  
 sofi [e] wise  
@@ -1447,7 +1442,7 @@ suriname [e] Suriname
 surya [e] sun  
 suxi [e] sushi  
 svenska [e] Sweden  
-svis [e] Switzerland  
+swis [e] Switzerland  
 
 ##t  
 
@@ -1456,6 +1451,8 @@ tabar [e] axe (hatchet)
 tabel [e] table (matrix)  
 tabia [e] nature (environment)  
 tabiai [i] environmental (natural)  
+tai [e] Thai (Thailand)  
+taiga [e] taiga  
 taksi [e] taxi  
 taktik [e] tactics (strategy)  
 tal [e] bottom  
@@ -1469,9 +1466,7 @@ tap [e] tap (stopper)
 tara [e] star  
 tatu [e] tattoo  
 taula [e] towel  
-tava [e] frying pan  
-tai [e] Thai (Thailand)  
-taiga [e] taiga  
+tawa [e] frying pan  
 tazi [i] fresh  
 tekne [e] technique (technology)  
 tekne lojia [e] technology (study of techniques)  
@@ -1558,47 +1553,12 @@ usamerika [e] US America
 uza [a] use  
 uzar [e] user  
 
-##v  
+## v
 
-vakans [e] vacation (holiday)  
-vaksin [e] vaccine  
-vale [e] valley  
-vanila [e] vanilla  
-var [e] day of the week  
-var 1 (var un) [e] Monday  
-var 2 (var du) [e] Tuesday  
-var 3 (var sam) [e] Wednesday  
-var 4 (var car) [e] Thursday  
-var 5 (var lim) [e] Friday  
-var 6 (var sis) [e] Saturday  
-var 7 (var set) [e] Sunday  
-vat [e] object (thing, article, material, stuff)  
-vaza [e] vase  
-venen [e] poison (venom)  
-venesuela [e] Venezuela  
-venus [e] Venus  
-ver [i] true (real)  
-verme [e] worm  
-vida [a] look (see)  
-vide [e] view (vision)  
-vide maidan [e] visual field (field of vision)  
-video [e] video  
 viet [e] Vietnam  
-viman [e] airplane  
-vin [e] wine  
-vinil [e] vinyl  
-virus [e] virus  
-virus lojia [e] virology  
-vis [e] substitute (vice-)  
-visa [e] visa  
-visin [e] neighbour (vicinity)  
-vizit [e] visit  
 vodu [e] voodoo  
-vokal [e] vowel  
-vol [a] want (desire)  
 volta [e] volt  
-vos [e] voice  
-vot [e] vote  
+
 
 ##w  
 
@@ -1606,6 +1566,17 @@ wa [int] wow! (gee!)
 wada [a] promise (commit)  
 waf [e] dog  
 waha [e] oasis  
+wain [e] wine  
+waksin [e] vaccine  
+wanila [e] vanilla  
+war [e] day of the week  
+war 1 (war un) [e] Monday  
+war 2 (war du) [e] Tuesday  
+war 3 (war sam) [e] Wednesday  
+war 4 (war car) [e] Thursday  
+war 5 (war lim) [e] Friday  
+war 6 (war sis) [e] Saturday  
+war 7 (war set) [e] Sunday  
 way [e] outside (exterior)  
 way gojia [e] foreign country  
 wakila [a] represent  
@@ -1618,11 +1589,22 @@ waxa [a] wash
 weka [a] wake (make awake)  
 weki [i] awake  
 wen [e] circle (ring)  
+werme [e] worm  
 weste [e] west  
 westi [i] western  
+wida [a] look (see)  
+wide [e] view (vision)  
+wide maidan [e] visual field (field of vision)  
+wideo [e] video  
 wiki [e] wiki  
+wiman [e] airplane  
 win [e] win (victory)  
 wing [e] wing  
+winil [e] vinyl  
+wirus [e] virus  
+wirus lojia [e] virology  
+wizit [e] visit  
+wol [a] want (desire)  
 
 ##x  
 

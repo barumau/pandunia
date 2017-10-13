@@ -3,8 +3,8 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u v w x y z
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
+    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -28,7 +28,7 @@ Konsonantit
     c  j  x        y
     k  g  h     ng
 
-Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t, v** ääntäminen on tuttua ja helppoa.
+Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t** ääntäminen on tuttua ja helppoa.
 
 Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
@@ -93,6 +93,6 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-> **mi vida tu :)** = Minä näen sinut.  
-> **mi no vida tu :(** = Minä en näe sinua.
+> **mi wida tu :)** = Minä näen sinut.  
+> **mi no wida tu :(** = Minä en näe sinua.
 

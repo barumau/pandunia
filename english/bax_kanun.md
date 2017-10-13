@@ -390,13 +390,13 @@ Observations are the simplest sentence type. They may consist of only one word, 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
 
 > **mi bon.** - I am good.  
-> **ye novi.** - It is new.  
+> **ye nowi.** - It is new.  
 > **ye sara.** - She is Sara.  
 
 The word **no** is added to form the negative.
 
 > **mi no bon.** - I'm not good.  
-> **ye no novi.** - It's not new.  
+> **ye no nowi.** - It's not new.  
 > **ye no sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
@@ -410,16 +410,16 @@ When the subject is a noun, the word **si** (yes) is added before the predicate 
 
 > **sara si bon.** - Sara is good.  
 > **batu si day.** - The stone is big.  
-> **meza si novi.** - The table is new.  
-> **meza no purani.** - The table is not old.
+> **meza si nowi.** - The table is new.  
+> **meza no law.** - The table is not old.
 
 
 #### 8.2.3. With adjective subject
 
 The same rule applies also for two adjectives.
 
-> **jovan si sundar.** - Young is beautiful.  
-> **novi no purani.** - New is not old.  
+> **jowan si sundar.** - Young is beautiful.  
+> **nowi no purani.** - New is not old.  
 
 #### 8.2.4. To be
 
@@ -544,14 +544,14 @@ Particle **si** is affirmative and **no** is negative. **si** affirms the existe
 Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
 
 > **mi si jen.** - I am a person.  
-> **ye si novi meza.** - It is a new table.
+> **ye si nowi meza.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
 > **mi no jen.** - I'm not a person.  
-> **ye no novi meza.** - It's not a new table.
+> **ye no nowi meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -765,11 +765,10 @@ The designated vowel endings enable easy derivation of one type of word from ano
 **kitabi** - written, textual (adjective)  
 **kitabe** or **kitab** - writing, text (noun)  
 
-**novi** or **nov** - new (adjective)  
-**novo** - newly (adverb)  
-**nova** - to make new (active verb)  
-**novu** - to become new (passive verb)  
-**nove** - novelty, new thing (noun)  
+**nowi** or **now** - new (adjective)  
+**nowa** - to make new (active verb)  
+**nowu** - to become new (passive verb)  
+**nowe** - novelty, new thing (noun)  
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
@@ -787,7 +786,7 @@ There is a handful of verbs, which appear without the ending. These are some of 
 Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
 
 1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
-2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
+2. If the root is a description, like **now-** (**nowi** = new), then its verbal form will mean "to turn into that quality". For example from **nowi** = "new" we get **nowa** = "to make new" or "to renew".
 
 
 #### 11.1.3. Deriving nouns
@@ -796,7 +795,7 @@ Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase 
 
 If the root word is an action, then its noun form will mean the product of the action. For example from **kitab-** = "to write" we get **kitabe** = "writing" or "text".
 
-If the root word is a description, then its noun form will mean a concrete instance of that quality. For example from **nov-** = "new" we get **nove** = "a novelty" i.e. something new.
+If the root word is a description, then its noun form will mean a concrete instance of that quality. For example from **now-** = "new" we get **nowe** = "a novelty" i.e. something new.
 
 Additional noun suffixes are presented below.
 
@@ -809,7 +808,7 @@ For example, from the verb **loga** (to speak) we get the adjective **logi** (sp
 
 Words that are adjectives _by birth_ don't need the ending. That's why for example **bon** (good) and **sundar** (beautiful) don't end in -i.
 
-If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
+If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **now-** = quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
 
 If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
 
@@ -876,7 +875,7 @@ This ending is often found in place names, especially in country names. However 
 
 Also abstract nouns often end in **-ia**.
 
-**novi** new, **novia** newness, novelty  
+**nowi** new, **nowia** newness, novelty  
 
 
 #### 11.2.6. -il-
@@ -955,13 +954,13 @@ They are not very interesting things to be said, but they are true. Normally pro
 The same formulas can be applied to roots that describe a state.
 
 1. Description: -i -e
-    - **novi nove.** - New news.
+    - **nowi nowe.** - New news.
     - **longi longe** - Long length.
 2. Production: -a -e
-    - **nova nove.** - To renew the new.
+    - **nowa nowe.** - To renew the new.
     - **longa longe.** - To lengthen the length.
 3. Transition: -e -u
-    - **nove novu.** - The new get renewed.
+    - **nowe nowu.** - The new get renewed.
     - **longe longu.** - The length gets lengthened.
 
 Description formula still gives meaningful (though obvious) phrases. Production and transition formulas work better for gradual descriptions (like "length") than for binary descriptions (like "new"). When something is already new, it can't be made new. But when something is already long, it can be made even longer.
@@ -982,13 +981,13 @@ Each sentence can be drawn as a tree diagram, where the central words are above 
 
 Adjectives and numerals point to their head word, the noun.
 
-    mi vida sam jovan jen.
+    mi vida sam jowan jen.
 
        vida
       ┌─┴──┐
      mi   jen
            |
-         jovan
+         jowan
            |
           sam
 

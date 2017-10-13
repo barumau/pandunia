@@ -3,27 +3,27 @@ baru ban da dante tung
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un suba baru mama vol enda ko bazar. ye loga ko baru ban: "no yem kandi i kek na dura du mi na bazar." baru ban loga: "si, si, mama! mi sabi ye. mi dai baru. cing enda wai!" baru mama loga "salam" i ye enda wai.
+un suba baru mama wol enda ko bazar. ye loga ko baru ban: "no yem kandi i kek na dura du mi na bazar." baru ban loga: "si, si, mama! mi sabi ye. mi dai baru. cing enda wai!" baru mama loga "salam" i ye enda wai.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-baru ban na sol. ye pensa: "nun mi ken kar eni ting du mi vol!"
+baru ban na sol. ye pensa: "nun mi ken kar eni ting du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-baru ban enda ko wax kamar. ye pensa "mi no vol wax dante nun." baru ban si bad.
+baru ban enda ko wax kamar. ye pensa "mi no wol wax dante nun." baru ban si bad.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-baru ban joga lit gar na mei kamar. ye vide kek sanduk na meza. ye pensa "mi vol yem kek!" ama ye memori: "ah! mama loga mi no yem kek." baru ban no yem kek.
+baru ban joga lit gar na mei kamar. ye wida kek sanduk na meza. ye pensa "mi wol yem kek!" ama ye memori: "ah! mama loga mi no yem kek." baru ban no yem kek.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-baru ban vide kandi botol na almari. ye pensa "mi vol yem kandi!" ama ye memori: "ah! mama loga mi no yem kandi." baru ban no yem kandi.
+baru ban wida kandi botol na almari. ye pensa "mi wol yem kandi!" ama ye memori: "ah! mama loga mi no yem kandi." baru ban no yem kandi.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-baru ban vide medu bin na alter almari. ye pensa "mama loga nul ting du tema medu. mi ken yem medu!" baru ban sit na kursi i ye yem lit medu. medu bon gusta!
+baru ban wida medu bin na alter almari. ye pensa "mama loga nul ting du tema medu. mi ken yem medu!" baru ban sit na kursi i ye yem lit medu. medu bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 
@@ -35,11 +35,11 @@ bada, baru ban senti no saba da ting na boka. ye da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye kap tele fon. ye loga: "halo! kia tu si dante doktor? cing lay ko mi! mi hava tung dante!"
+ye kap tele fon. ye loga: "halo! kia tu si dante doktor? cing lay ko mi! mi hawa tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-doktor lay ko baru famil da jia. ye loga: "kia tu neses mede?" baru ban loga: "si! mi hava tung dante!"
+doktor lay ko baru famil da jia. ye loga: "kia tu neses mede?" baru ban loga: "si! mi hawa tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 

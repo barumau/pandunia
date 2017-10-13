@@ -174,7 +174,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **ye no hava pesa.** S/he doesn't have money.
 
-**mi vol hava novi fon.** I want to have a new phone.
+**mi vol hava nowi fon.** I want to have a new phone.
 
 **kia tu hava ban?** Do you have children?  
 **mi hava dua ban.** I have two children.
@@ -586,7 +586,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **ye si ke yang?** What is it like?
 
-**kia ye novi?** Is it new?
+**kia ye nowi?** Is it new?
 
 **ke si mas bon?** Which is better?
 

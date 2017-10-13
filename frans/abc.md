@@ -3,8 +3,8 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-    pandunia : a b c  d e f g h i j  k l m n o p r s t u v w x y z
-    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u v w ʃ j z]
+    pandunia : a b c  d e f g h i j  k l m n o p r s t u w x y z
+    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -32,7 +32,7 @@ Consonnes
           c  j     y
     k  g  x  h
 
-La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, v, z** est facile et habituelle.
+La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, z** est facile et habituelle.
 
 Les consonnes suivantes se prononcent différement en pandunia et en français :
 
@@ -101,6 +101,6 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-> **mi vida tu :)** = Je te vois.  
-> **mi no vida tu :(** = Je ne te vois pas.
+> **mi wida tu :)** = Je te vois.  
+> **mi no wida tu :(** = Je ne te vois pas.
 
