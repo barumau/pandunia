@@ -371,6 +371,7 @@ fek [e] feces (poop)
 feka [a] defecate  
 fem [i] female  
 fem ban [e] daughter  
+rem raje [e] queen  
 fen [e] part (fraction)  
 fena [a] divide (to partition)  
 fer [e] iron  
@@ -617,6 +618,8 @@ jentil [i] kind (nice, gentle)
 jenxen [e] ginseng  
 jeste [e] gesture  
 jiju [e] spider  
+jik [i] straight  
+jika [a] straighten  
 jin [i] near (close)  
 jiraf [e] giraffe  
 jiwa [a] live  
@@ -849,6 +852,8 @@ lojia [e] science
 lok [e] place (location)  
 loki [i] local  
 long [i] long  
+longa [a] lengthen (prolong)  
+longe [e] length  
 losi [e] screw  
 lubnan [e] Lebanon  
 lulu [e] pearl  
@@ -888,6 +893,7 @@ mama [e] mother (mom)
 mamal [e] mammal  
 man [e] male  
 man ban [e] son  
+man raje [e] king  
 mana [a] mean (signify)  
 mane [e] meaning (signification)  
 manga [e] comic (cartoon)  
@@ -898,7 +904,6 @@ mantu [e] dumpling
 manux [e] human being  
 manuxia [e] mankind (humanity)  
 mar [e] time (occasion)  
-mara [e] tree  
 maraton [e] marathon  
 marca [a] walk (march)  
 margarin [e] margarine  
@@ -1070,7 +1075,7 @@ nenufar [e] water lily (nenuphar)
 nepal [e] Nepal  
 neptun [e] Neptune  
 net [e] net  
-niama [e] meat (flesh)  
+niam [e] meat (flesh)  
 nida [a] need  
 nidi [i] necessary (needed)  
 nijer [e] Niger  
@@ -1262,6 +1267,9 @@ puxa [a] push
 ##r  
 
 radio [e] radio  
+raje [e] king or queen  
+raji [i] royal  
+rajia [e] kingdom  
 ramazan [e] Ramadan  
 randa [e] plane (plane tool)  
 rang [e] color  
@@ -1630,8 +1638,8 @@ xatur [e] chess
 xaw [o] few (little)  
 xaxa [a] rustle  
 xe [e] thing  
-xefe [e] chief (boss)  
-xefe ministar [e] prime minister  
+xef [e] chief (boss)  
+xef ministar [e] prime minister  
 xefi [i] main  
 xia [e] under (below)  
 xifu [e] master (sensei)  
@@ -1646,6 +1654,7 @@ xirop [e] syrup
 xok [e] shock (collision)  
 xow [e] show  
 xowa [a] show (display)  
+xu [e] tree  
 xula [a] repair (fix)  
 
 ##y  

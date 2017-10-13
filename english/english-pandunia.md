@@ -319,7 +319,7 @@ chest (thorax)   : sen
 chestnut   : kastan  
 chicken   : kok  
 chickpea   : humus  
-chief (boss)   : xefe  
+chief (boss)   : xef  
 child (offspring)   : ban  
 Chile   : cile  
 chili pepper   : lat cili  
@@ -836,6 +836,9 @@ kilogram (kg)   : kilo gram
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
 kinetic   : kini  
+king   : man raje  
+king or queen   : raje  
+kingdom   : rajia  
 kiosk   : kioske  
 kiss   : bis  
 kiwi fruit   : kiwi  
@@ -865,6 +868,8 @@ least (minimally)   : minim
 leave (go out, exit)   : cuta  
 Lebanon   : lubnan  
 lemon   : limun  
+length   : longe  
+lengthen (prolong)   : longa  
 less   : min  
 lesser (mini-)   : mini  
 lesson   : darse  
@@ -953,7 +958,7 @@ mean (cruel)   : zalim
 mean (medium, average)   : midi  
 mean (signify)   : mana  
 meaning (signification)   : mane  
-meat (flesh)   : niama  
+meat (flesh)   : niam  
 medallion (medal)   : medalia  
 media   : midia  
 meditate (ponder)   : medita  
@@ -1240,7 +1245,7 @@ present (existing)   : zay
 press (imprint)   : capa  
 press (stamp)   : cap  
 priest (cleric)   : din guru  
-prime minister   : xefe ministar  
+prime minister   : xef ministar  
 prison   : bandur kan  
 prisoner (jailbird)   : bandur  
 problem   : problem  
@@ -1261,6 +1266,7 @@ pungent (spicy, hot)   : lat
 push   : puxa  
 quality (attribute, property, characteristic, -ness)   : gun  
 quality (charasteristic)   : sifa  
+queen   : rem raje  
 quote   : cita  
 quote (to cite)   : sita  
 Quran (Koran)   : kuran  
@@ -1330,6 +1336,7 @@ rose   : roza
 rotor (rotator)   : rotor  
 round   : sirki  
 routine   : rutin  
+royal   : raji  
 rubber   : gom  
 rubbish (trash)   : laji  
 rule (be in charge)   : sultana  
@@ -1408,7 +1415,8 @@ skull   : sar gut
 sky (heaven)   : saman  
 sleep   : son  
 sleep (be asleep)   : sona  
-Slovenia   : slovenia  
+Slovakia   : slowakia  
+Slovenia   : slowenia  
 smoke   : duman  
 smooth   : lis  
 snow   : hima  
@@ -1452,6 +1460,8 @@ still (yet)   : hay
 stone   : batu  
 stop   : stop  
 storm (tempest)   : tufan  
+straight   : jik  
+straighten   : jika  
 strike (punch)   : darba  
 strong   : bal  
 student (pupil)   : darse ban  
@@ -1564,7 +1574,7 @@ travel   : safara
 travel (voyage)   : safar  
 traveler   : safarar  
 treasure (treasury)   : hazin  
-tree   : mara  
+tree   : xu  
 tribe   : kabila  
 trouble (disturbance, bother)   : mafan  
 try (attempt)   : proba  
