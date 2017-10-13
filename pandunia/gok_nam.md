@@ -136,8 +136,8 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **portugal** : Portugal  
 **rosia** : Russia  
 **serbia** : Serbia  
-**slovenska** : Slovakia  
-**slovenia** : Slovenia  
+**slowakia** : Slovakia  
+**slowenia** : Slovenia  
 **suomi** : Finland  
 **svenska** : Sweden  
 **svis** : Switzerland  

@@ -1392,7 +1392,8 @@ sistem [e] system
 sistemi [i] systemic  
 sita [a] quote (to cite)  
 siti [e] city (town)  
-slovenia [e] Slovenia  
+slowakia [e] Slovakia  
+slowenia [e] Slovenia  
 sofa [e] sofa (couch)  
 sofi [e] wise  
 sofia [e] wisdom  

@@ -772,11 +772,11 @@ The designated vowel endings enable easy derivation of one type of word from ano
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**hava** or **hav** - to have (active verb)  
-**havu** - to belong (passive verb)  
-**have** - that what is had (noun)  
+**haba** - to have (active verb)  
+**habu** - to belong (passive verb)  
+**habe** - that what is had (noun)  
 
-**mus** - to must, to be compelled (passive verb)  
+**mus** or **musu** - to must, to be compelled (passive verb)  
 **musa** - to compel (active verb)  
 **musi** - compulsory, obligatory  
 
