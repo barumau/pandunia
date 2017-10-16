@@ -17,9 +17,9 @@
 
 **yem salam!** Bonan apetiton!
 
-**lai salam!** Bonvenon!
+**lay salam!** Bonvenon!
 
-**go salam!** Ĝis!
+**ende salam!** Ĝis!
 
 **safar salam!** Bonan vojaĝon!
 
@@ -151,16 +151,16 @@
 
 
 
-### hava <small>havi</small>
+### haba <small>havi</small>
 
-**mi hava bon dom.** Mi havas bonan domon.
+**mi haba bon dom.** Mi havas bonan domon.
 
-**ye no hava pesa.** Li/ŝi ne havas mono.
+**ye no haba pesa.** Li/ŝi ne havas mono.
 
-**mi vol hava nova fon.** Mi volas havi novan telefonon.
+**mi wol haba nowi fon.** Mi volas havi novan telefonon.
 
-**kia tu hava ban?** Ĉu vi havas infanojn?  
-**mi hava dua ban.** Mi havas du infanojn.
+**kia tu haba ban?** Ĉu vi havas infanojn?  
+**mi haba dua ban.** Mi havas du infanojn.
 
 
 
@@ -169,10 +169,10 @@
 **kia tu bon?** Ĉu vi fartas bone?
 **si. mi bon.** Jes, mi fartas bone.
 
-**kia hava doktor?** Ĉu estas doktoro?
+**kia haba doktor?** Ĉu estas doktoro?
 **si. ye si doktor.** Jes. Ŝi/li estas doktoro.
 
-**kia hava vin?** Ĉu vi havas vinon?
+**kia haba win?** Ĉu vi havas vinon?
 **si. bai i ros.** Jes, blankan kaj ruĝan.
 
 
@@ -211,13 +211,13 @@
 
 
 
-### mede <small>helpi</small>
+### mede <small>helpo</small>
 
-**mi neses mede.** Mi bezonas helpon.
+**mi nida mede.** Mi bezonas helpon.
 
-**kia tu ken mede mi?** Ĉu vi povas helpi min?
+**kia tu ken meda mi?** Ĉu vi povas helpi min?
 
-**kia mi ken mede tu?** Ĉu mi povas helpi vin?
+**kia mi ken meda tu?** Ĉu mi povas helpi vin?
 
 
 
@@ -227,7 +227,7 @@
 
 ### yem <small>manĝi, trinki</small>
 
-**kia tu vol yem koi?** Ĉu vi volas manĝi ion?
+**kia tu wol yem koi?** Ĉu vi volas manĝi ion?
 
 **ye yem pingo.** Li/ŝi manĝas pomon.
 
@@ -245,20 +245,20 @@
 
 
 
-### vol <small>voli</small>
+### wol <small>voli</small>
 
-**kia tu vol yem?** Ĉu vi volas manĝi?
+**kia tu wol yem?** Ĉu vi volas manĝi?
 
-**tu vol yem ke?** Kion vi volas manĝi?
+**tu wol yem ke?** Kion vi volas manĝi?
 
 > Notu! En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**mi vol yem kafe.** Mi volas trinki kafon.
+**mi wol yem kafe.** Mi volas trinki kafon.
 
-**kia tu vol yem ca?** Ĉu vi volas trinki teon?  
-**no. mi no vol ca. mi vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
+**kia tu wol yem ca?** Ĉu vi volas trinki teon?  
+**no. mi no wol ca. mi vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
 
-**tu vol ke pingo?** Kiun pomon vi volas manĝi?  
+**tu wol ke pingo?** Kiun pomon vi volas manĝi?  
 **sa ros.** Tiun ruĝan.
 
 
@@ -267,9 +267,9 @@
 
 **mi cing tu yem ca.** Mi petas ke vi trinku teon.
 
-**mi cing tu lai dom.** Mi petas ke vi venu hejmen.
+**mi cing tu lay dom.** Mi petas ke vi venu hejmen.
 
-**mi cing tu mede mi.** Mi petas ke vi helpu min.
+**mi cing tu meda mi.** Mi petas ke vi helpu min.
 
 > Notu! Faru mallongajn petojn forlasante la pronomojn.
 
@@ -277,9 +277,9 @@
 
 **cing yem kafe.** Bonvolu trinki kafon!
 
-**cing lai dom.** Bonvolu veni hejmen!
+**cing lay dom.** Bonvolu veni hejmen!
 
-**cing mede mi.** Bonvolu helpi min.
+**cing meda mi.** Bonvolu helpi min.
 
 
 
@@ -291,21 +291,21 @@
 
 **mi danka tu.** Mi dankas vin.
 
-**mi danka tu mede mi.** Mi dankan vin pro helpi min.
+**mi danka tu meda mi.** Mi dankan vin pro helpi min.
 
-**danka tu mede mi.** Dankon pro helpi min.
+**danka tu meda mi.** Dankon pro helpi min.
 
 **tu keci.** Nedankinde. (Laŭvorte: Vi ĝentila._)
 
 
 
-### haide <small>ni faru</small>
+### haida <small>ni faru</small>
 
-**haide yem!** Ni manĝu!
+**haida yem!** Ni manĝu!
 
-**haide go yem!** Ni iru manĝi!
+**haida enda yem!** Ni iru manĝi!
 
-**haide go dom.** Ni iru hejmen.
+**haida enda dom.** Ni iru hejmen.
 
 
 
@@ -395,15 +395,15 @@
 **tu auda ke yang da musik?** Kian muzikon vi aŭskultas?
 
 
-### vida <small>vidi, rigardi</small>
+### wida <small>vidi, rigardi</small>
 
-**suku vida tu.** Mi ĝojas vidi vin!
+**suku wida tu.** Mi ĝojas vidi vin!
 
-**vida tu re!** Ĝis la revido!
+**wida tu re!** Ĝis la revido!
 
-**vida tu nale!** Ĝis la revido morgaŭ!
+**wida tu nale!** Ĝis la revido morgaŭ!
 
-**mi vida ye yer.** Mi vidin lin/ŝin hieraŭ.
+**mi wida ye yer.** Mi vidin lin/ŝin hieraŭ.
 
 
 ### mana <small>signifi</small>
@@ -444,30 +444,30 @@
 
 ## 4a parto: Iro
 
-### go <small>iri</small>
+### enda <small>iri</small>
 
-**tu go ke?** Kien vi iras?
+**tu enda ke?** Kien vi iras?
 
-**mi go dom.** Mi iras hejmen.
+**mi enda dom.** Mi iras hejmen.
 
-**mi mus go ke?** Kien mi devas iri?
+**mi mus enda ke?** Kien mi devas iri?
 
-**mi mus go ke jen?** Al kiu mi devas iri?
+**mi mus enda ke jen?** Al kiu mi devas iri?
 
-**haide go!** Ni iru!
+**haida enda!** Ni iru!
 
-**haide go bi ped** Ni iru piede!
+**haida enda bi ped** Ni iru piede!
 
 
-### lai <small>veni</small>
+### lay <small>veni</small>
 
-**cing lai!** Bonvolu veni!
+**cing lay!** Bonvolu veni!
 
-**tu lai ze ke?** Vi venas el kie?
+**tu lay ze ke?** Vi venas el kie?
 
-**mi lai ze dubai.** Mi venas el Dubai.
+**mi lay ze dubai.** Mi venas el Dubai.
 
-**mi lai dom nale.** Mi venos hejmen morgaŭ.
+**mi lay dom nale.** Mi venos hejmen morgaŭ.
 
 
 ### safara <small>vojaĝi</small>
@@ -476,7 +476,7 @@
 
 **mimen safara ze london ko paris.** Ni vojaĝas el Londono al Parizo.
 
-**safar multo long.** La vojaĝo estas tre longa.
+**safar cok long.** La vojaĝo estas tre longa.
 
 
 ### doma <small>loĝi</small>
@@ -507,22 +507,22 @@ Vortaro
 **den** tago <small>(rusa _den'_ день)</small>  
 **dom** hejmo, loĝejo <small>(rusa _dom_ дом)</small>  
 **doma** loĝi  
+**enda** iri <small>(swahila _kuenda_)</small>  
 **englix** angla <small>(angla _English_)</small>  
 **fem** virino <small>(franca _femme_)</small>  
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**hava** havi <small>(portugala _há_)</small>  
-**habar** novaĵoj <small>(malaja _khabar_)</small>  
+**haba** havi <small>(portugala _há_)</small>  
+**haber** novaĵoj <small>(malaja _khabar_)</small>  
 **i** kaj <small>(pola _i_)</small>  
 **jen** persono <small>(mandarencxina _rén_ 人)</small>  
 **kafe** kafo <small>(germana _Kaffee_)</small>  
 **kal** nigra <small>(Hindi काला _kāla_)</small>  
-**kat** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
-**kata** rakonti <small>(japana _kataru_ 語る)</small>  
+**kata** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
 **ke** kio? kiu? <small>(hispana _qué_)</small>  
 **ken** scipovi <small>(angla _can_)</small>  
 **keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
 **kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>  
-**lai** veni <small>(vjetnama _lai_)</small>  
+**lay** veni <small>(vjetnama _lai_)</small>  
 **mama** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
 **man** viro <small>(angla _man_)</small>  
 **mana** signifi <small>(sŭahila _maana_)</small>  
@@ -545,8 +545,8 @@ Vortaro
 **tu** vi (singulare) <small>(tamila _nī_ நீ)</small>  
 **tumen** vi (plurale)  
 **u** aŭ <small>(franca _ou_)</small>  
-**vida** vidi, rigardi <small>(rusa _videt'_ видеть)</small>  
-**vol** voli <small>(itala _volere_)</small>  
+**wida** vidi, rigardi <small>(rusa _videt'_ видеть)</small>  
+**wol** voli <small>(itala _volere_)</small>  
 **wang** flava <small>(kantonĉina _wong_)</small>  
 **xam** vespero <small>(hindia _śām_ शाम )</small>  
 **ye** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>  

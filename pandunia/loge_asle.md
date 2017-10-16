@@ -382,8 +382,8 @@ gardin ← englix:garden + frans:espanya:jardin + ron:grădină
 gas ← englix:gas nipon:gasu frans:ruski:gaz doic: espanya: portugal:  
 gaci ← hanguk:gachi nipon:kachi yuthan:gaazik putonghan:jiàzhí viet:giá trị  
 gau ← putonghan:gāo viet:cao hanguk:go  
+gata ← hindi:kathā tamil:telugu:katha + nipon:monogatari + indonesia:kata  
 gaun ← englix:gown indonesia:gaun swahili:gauni  
-gayana ←   
 gaze ← frans:doic:portugal:gaze nipon:gāze hanguk:gajĭ ruski:polska:gaza espanya:gasa englix:gauze  
 gazel ← arabi:ğāzāl englix:frans:gazelle nipon:gazeru  
 gazet ← englix:frans:gazette turki:gazete amara:taj:ruski:portugal:gazeta tagalog:gaseta espanya:gaceta khmer:kaset  
@@ -583,8 +583,7 @@ karot ← englix:carrot frans:carotte swahili:yoruba:igbo:karoti viet:cà rốt 
 karta ← indonesia:kartu englix:card may:kad nipon:kādo hanguk:kadeu swahili:kadi putonghan:kǎ  
 kasa ← turki:kasa portugal:espanya: englix:doic:  
 kastan ← portugal:castanha turki:kestane ruski:kaštan  
-kat ← englix:cut hindi:urdu:katnā swahili:kata viet:cắt  
-kata ← hindi:kathā tamil:telugu:katha + nipon:kataru + indonesia:kata  
+kata ← englix:cut hindi:urdu:katnā swahili:kata viet:cắt  
 katalunya ←   
 kati ← tamil:telugu:kan:mal:katti  
 kava ← portugal:espanya:cavar  

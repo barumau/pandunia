@@ -32,7 +32,7 @@ Part 1: Greeting and basics
 
 **lay salam!** Welcome!
 
-**cut salam!** Goodbye!
+**ende salam!** Goodbye!
 
 **safar salam!** Have a safe journey!
 
@@ -141,15 +141,15 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 **ye ros.** It's red.
 
 
-### nam <small>be called, name</small>
+### nam <small>name</small>
 
-**tu nam ke?** What's your name?
+**tu nam si ke?** What's your name?
 
-**mi nam tomas.** My name is Thomas.
+**mi nam si tomas.** My name is Thomas.
 
-**ye nam ke?** What's his/her name?
+**ye nam si ke?** What's his/her name?
 
-**ye nam sara.** Her name is Sara.
+**ye nam si sara.** Her name is Sara.
 
 
 
@@ -168,16 +168,16 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### hava <small>have</small>
+### haba <small>have</small>
 
-**mi hava bon dom.** I have a good house.
+**mi haba bon dom.** I have a good house.
 
-**ye no hava pesa.** S/he doesn't have money.
+**ye no haba pesa.** S/he doesn't have money.
 
-**mi vol hava nowi fon.** I want to have a new phone.
+**mi wol haba nowi fon.** I want to have a new phone.
 
-**kia tu hava ban?** Do you have children?  
-**mi hava dua ban.** I have two children.
+**kia tu haba ban?** Do you have children?  
+**mi haba dua ban.** I have two children.
 
 
 
@@ -186,10 +186,10 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **kia tu bon?** Are you well?  
 **si. mi bon.** Yes, I'm well.
 
-**kia hava doktor?** Is there a doctor?  
+**kia haba doktor?** Is there a doctor?  
 **si. ye si doktor.** Yes. He/she is a doctor.
 
-**kia hava vin?** Do you have wine?  
+**kia haba win?** Do you have wine?  
 **si. bai i ros.** Yes, white and red.
 
 
@@ -243,7 +243,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### yem <small>consume, eat, drink</small>
 
-**kia tu vol yem yo?** Would you like to eat something?
+**kia tu wol yem yo?** Would you like to eat something?
 
 **ye yem pingo.** He/she eats an apple.
 
@@ -261,20 +261,20 @@ Tip: Meaning of **yem** covers both eating and drinking. It can feel odd at firs
 
 
 
-### vol <small>want</small>
+### wol <small>want</small>
 
-**kia tu vol yem?** Would you like to eat?
+**kia tu wol yem?** Would you like to eat?
 
-**tu vol yem ke?** What would you like to eat?
+**tu wol yem ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi vol yem kafe.** I want to drink coffee.
+**mi wol yem kafe.** I want to drink coffee.
 
-**kia tu vol yem ca?** Would you like to drink tea?  
-**no. mi no vol ca. mi vol kafe.** No, I don't want tea. I want coffee.
+**kia tu wol yem ca?** Would you like to drink tea?  
+**no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
-**tu vol ke pingo?** Which apple do you want?  
+**tu wol ke pingo?** Which apple do you want?  
 **sa ros.** This red one.
 
 
@@ -410,15 +410,15 @@ Tip: To make direct requests, drop all the pronouns.
 **tu auda ke yang da musik?** What kind of music do you listen to?
 
 
-### vida <small>to see</small>
+### wida <small>to see</small>
 
-**suku vida tu.** Pleased to see you!
+**suku wida tu.** Pleased to see you!
 
-**vida tu re!** See you again!
+**wida tu re!** See you again!
 
-**vida tu nale!** See you tomorrow!
+**wida tu nale!** See you tomorrow!
 
-**mi vida ye yer.** I saw him/her yesterday.
+**mi wida ye yer.** I saw him/her yesterday.
 
 
 ### mana <small>to mean</small>
@@ -491,7 +491,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mimen safara ze london ko paris.** We travel from London to Paris.
 
-**safar multo long.** The voyage is very long.
+**safar cok long.** The voyage is very long.
 
 
 ### na <small>in, on, at</small>
@@ -556,7 +556,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **mi dar buk ko yemen.** I give a book to them.
 
-**ye no vol dar ye ko mi.** He/she doesn't want to give it to me.
+**ye no wol dar ye ko mi.** He/she doesn't want to give it to me.
 
 
 
@@ -573,7 +573,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 ### kira <small>rent</small>
 
-**mi vol kira kap un gar.** I want to rent a car.
+**mi wol kira kap un gar.** I want to rent a car.
 
 **ye kira dar kamar ko biznes jen.** He/she rents rooms to business people.
 
@@ -671,15 +671,15 @@ All words of Pandunia are loan words from other languages that are spoken around
 **enda** to go <small>(Swahili _kuenda_)</small>  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
+**gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**hava** have; there is <small>(English _have_)</small>  
-**habar** news <small>(Malay _khabar_)</small>  
+**haba** have; there is <small>(English _have_)</small>  
+**haber** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
-**kat** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
-**kata** tell; tale, story <small>(Japanese _kataru_ 語る)</small>  
+**kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
@@ -708,9 +708,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **tu** you <small>(Tamil _nī_ நீ)</small>  
 **tumen** you all  
 **u** or <small>(French _ou_)</small>  
-**vida** see, look <small>(Russian _videt'_ видеть)</small>  
-**vol** want <small>(Italian _volere_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  
+**wida** see, look <small>(Russian _videt'_ видеть)</small>  
+**wol** want <small>(Italian _volere_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ye** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>  
 **yem** eat, drink <small>(Turkish _yemek_)</small>  

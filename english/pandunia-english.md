@@ -441,6 +441,7 @@ garam [i] warm
 garante [e] guarantee  
 gardin [e] garden  
 gas [e] gas  
+gata [a] tell (narrate)  
 gaun [e] dress (gown)  
 gaw [i] high  
 gayana [e] Guyana  
