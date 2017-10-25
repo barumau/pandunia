@@ -9,13 +9,13 @@ Introducing yourself
 > ☻: **tu si ke?** = Who are you?  
 > ☺: **mi si yusef. tu si ke?** = I am Yusef. Who are you?  
 > ☻: **mi si maria. ye si ke?** = I am Maria. Who is that?  
-> ☺: **ye si mi ge panyo.** = That is my friend.  
+> ☺: **ye si mi da panyo.** = That is my friend.  
 > ☻: **ye nam si ke?** = What's her name?  
 > ☺: **ye nam si sara.** = Her name is Sara.
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ye si mi ge panyo** the topic is the pronoun **ye** (he, she, it), which is followed by the comment **si mi ge panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ye si mi da panyo** the topic is the pronoun **ye** (he, she, it), which is followed by the comment **si mi da panyo** (is my friend).
 
 The word **si** means _to be_ in Pandunia. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
 
@@ -40,9 +40,9 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Word List
 
-**mi** I, me. **mi ge** my.  
-**tu** you. **tu ge** your.  
-**ye** he, she or it. **ye ge** his, her, its.  
+**mi** I, me. **mi da** my.  
+**tu** you. **tu da** your.  
+**ye** he, she or it. **ye da** his, her, its.  
 **ke** who or what.  
 **si** to be (am, is, are, etc)
 **si** yes. **no** no.  
@@ -54,7 +54,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 1. tu si ke?
 2. mi si tomas.
-3. tu ge panyo si ke?
+3. tu da panyo si ke?
 4. ye si sara.
 5. tu nam si ke?
 6. mi nam si ........... 
@@ -140,7 +140,7 @@ Making requests
 ☺: **cing yem kafe u ca.** = Please have some coffee or tea.  
 ☻: **mi yem ca. danke.** = I will have some tea, thank you.  
 ...
-☺: **cing salama tu ge mama!** = Please tell greetings to your mother.  
+☺: **cing salama tu da mama!** = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
@@ -205,7 +205,7 @@ Try translating these sentences from English to Pandunia.
 
 1. ye yem ca.
 2. xef cing ye sit.
-3. cing yem kafe o ca.
+3. cing yem kafe u ca.
 4. mama cing mi safa kamar.
 5. xefe sit i yem kafe.
 
@@ -228,7 +228,7 @@ Yes or no questions
 ☺: **yem.** = Yes. (_I eat._)  
 ☻: **kia ye yem sup?** = Would he like to have soup?  
 ☺: **no yem.** = No.  
-☻: **danke. mi dar un ca i un kafe i un sup na bada de des minut.**
+☻: **danke. mi dar un ca i un kafe i un sup na bada du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -405,7 +405,7 @@ Of course **koz** can also be used to express the cause or reason for something,
 3. ke zam ye lai?
 4. na des minut bada.
 5. ye no yem koz ke?
-6. koz (ye) no suku kafe o sup.
+6. koz (ye) no suku kafe u sup.
 
 -->
 
@@ -439,9 +439,9 @@ There are also specific time words.
 
 The adjectives for past, present and future are **gon, nun** and **futur**. They can be used for modifying nouns.
 
-> **sara si mi ge gon xef.** = Sara is my former boss.
-> **yusef si mi ge nun xef.** = Yusef is my current boss.
-> **maria si mi ge futur xef.** = Maria is my future boss.
+> **sara si mi da gon xef.** = Sara is my former boss.
+> **yusef si mi da nun xef.** = Yusef is my current boss.
+> **maria si mi da futur xef.** = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time. Simply put the word before the verb.
 
@@ -491,12 +491,12 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Answers to the Exercises
 
 <ol>
-<li>mi de xef pati na melai.
+<li>mi da xef festa na futur.
 <li>mi mala du hau na pase.
 <li>tu yem sup na jin.
 <li>ye saf kamar na din befo.
 <li>mau yem kafe na din bada.
-<li>tu de mama pati na yo befo.
+<li>tu da mama festa na yo befo.
 </ol>
 -->
 
