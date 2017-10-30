@@ -252,14 +252,12 @@ dem ← viet:điểm yuthan:dim nipon:ten putonghan:diǎn
 demo krati ←   
 demon ←   
 den ← ruski:den' + hindi:urdu:dīn + putonghan:tiān  
-den salam ←   
-den yem ←   
 deng ← putonghan:děng min:dêng  
 des ← portugal:dez ruski:děsyat' hindi:urdu:das  
 desen ← frans:dessin portugal:desenho italia:disegno ron:desen + turki:desen polska:deseń  
 detal ← portugal:detalhe espanya:detalle frans:détail englix:detail ruski:detal'  
-dev ← hindi:urdu:devtā indonesia:dewa portugal:deus  
-devi kat ← khmer:teivea' ka'tʰaa  
+dew ← hindi:urdu:devtā indonesia:dewa portugal:deus  
+dewi histor ← khmer:teivea' ka'tʰaa  
 deya ← arabi:ḍayʿa portugal:aldeia espanya:aldea + taj:deha farsi:deh + indonesia:jav:désa  
 dian ← guj:marati:hindi:bangla:dhyān urdu:dhiyān  
 din ← arabi:urdu:dīn farsi:turki:din swahili:dini hausa:addini  
@@ -521,7 +519,7 @@ jeni ← frans:génie doic:Genie portugal:gênio ruski:geniy
 jentil ← espanya:portugal:frans:gentil englix:gentle  
 jeste ← italia:espanya:portugal:gesto frans:geste englix:gesture ruski:žest turki:jest  
 jiju ← putonghan:zhizhu hanguk:jiju wuu:zizi  
-jin ← putonghan:jìn wuu:jín  
+jin ← putonghan:jìn wuu:jín viet:gần yuthan:gan  
 jiraf ← englix:giraffe arabi:zarāfa turki:zürafa hindi:urdu:jirāf indonesia:jerapah  
 jiva ← ruski:živoi polska:żywy + hindi:urdu:jīvan khmer:jīwət thai:jīwit indonesia:jiwa  
 jiva logi ← swahili:biolojia englix:biology  
@@ -562,19 +560,17 @@ kambudia ←
 kamera ←   
 kamis ← espanya:camisa urdu:qamīs indonesia:kemeja  
 kamp ← englix:camp nipon:kyanpu swahili:kambi  
-kan ← hindi:urdu:khānā farsi:xāne turki:hane + nipon:-kan putonghan:guǎn viet:quán  
-kanada ←   
+kan ← nipon:-kan putonghan:guǎn viet:quán + hindi:urdu:khānā farsi:xāne turki:hane  
+kana ← hindi:urdu:khānā  
 kanal ←   
 kandi ← englix:candy hindi:kEndi nipon:kyandi  
 kanguru ←   
 kanun ← hindi:urdu:arabi:farsi:kanūn turki:kanun + englix:canon  
 kaos ← ruski:xaos englix:frans:doic:chaos espanya:portugal:caos  
-kap ← hun:kap turki:kapmak sve:kapa englix:capture espanya:capturar  
 kapa ← telugu:kappu turki:kapak + englix:cap + englix:cape  
 kapitan ←   
 kaput ←   
 kar ←   
-kara ← hindi:-kāra bangla:åkkhår bama:akhaya lao:thai:akhara + englix:character frans:caractère espanya:carácter  
 karaoke ←   
 karate ←   
 kari ← tamil:kari hindi:karī englix:curry  
@@ -744,7 +740,7 @@ malaisia ←
 malaria ←   
 mam ← portugal:espanya:mama hausa:mama turki:meme  
 mama ←   
-man ← englix:man doic:Mann  
+man ← englix:man doic:Mann + putonghan:nán viet:nam  
 mana ← arabi:maʿnā swahili:maana hausa:ma'ana turki:mana urdu:ma'nī englix:meaning  
 manga ← nipon:manga putonghan:mànhuà hanguk:manhwa + englix:frans:doic:ruski:manga  
 mango ← englix:mango indonesia:mangga portugal:manga putonghan:mángguǒ  
@@ -1141,9 +1137,6 @@ stat ←
 stop ← englix:stop  
 suan ← putonghan:suān  
 suba ← turki:sabah arabi:sabāħ hausa:asuba swahili:asubuhi wol:subba farsi:sobh indonesia:subuh  
-suba den ←   
-suba salam ←   
-suba yem ←   
 sud ←   
 suede ← englix:sweat sanskrit:sveda telugu:svēdamu + spa:sudor  
 suha ← hindi:urdu:sūkhā bangla:sukna ruski:suxoi polska:suchy  
@@ -1358,7 +1351,6 @@ yani ← turki:yani arabi:ya'ni hindi:urdu:yānī farsi:ya'ne swahili:yaani
 yasen ← ruski:yasen horvat:jasen  
 ye ← lingala:yé swahili:yeye zulu:-ye- hindi:urdu:yeh  
 yehudi ←   
-yem ← turki:yemek + yuthan:yam  
 yen ← yuthan:yan putonghan:rén + englix:-ian frans:-ien(ne)  
 yep ← putonghan:yè yuthan:yip hak:min:yap hanguk:ip wuu:ye'  
 yer ← frans:hier espanya:ayer italia:ieri ayiti:yè  

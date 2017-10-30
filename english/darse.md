@@ -137,8 +137,8 @@ Making requests
 ☻: **salam!** = Hello!  
 ☺: **salam! cing sit.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing yem kafe u ca.** = Please have some coffee or tea.  
-☻: **mi yem ca. danke.** = I will have some tea, thank you.  
+☺: **cing kana kafe u ca.** = Please have some coffee or tea.  
+☻: **mi kana ca. danke.** = I will have some tea, thank you.  
 ...
 ☺: **cing salama tu da mama!** = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!** = I will. Bye!  
@@ -169,15 +169,15 @@ The phrase **cing salama ye** has a useful pattern that can be used for making p
 > **cing sit.** = Please be seated.  
 > **cing dar kafe.** = Please give me some coffee.  
 > **cing dar ca.** = Please give me some tea.  
-> **cing yem ca.** = Please have some tea.
+> **cing kana ca.** = Please have some tea.
 
 <!--
-> **cing saf kamar.** = Please clean the room.
+> **cing saf kamer.** = Please clean the room.
 
 Commands are introduced with **koman** = to command. They employ the same pivot structure as requests with **cing**.
 
 > **koman dar ca.** = Give (me) some tea!  
-> **koman saf kamar.** = Clean the room!
+> **koman saf kamer.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
@@ -198,16 +198,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **sit** to sit. **yem** to eat or drink.
+**ca** tea. **cing** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. <!-- **koman** to command. --> **u** or. **saf** to clean. **sit** to sit. **kana** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. ye yem ca.
+1. ye kana ca.
 2. xef cing ye sit.
-3. cing yem kafe u ca.
-4. mama cing mi safa kamar.
-5. xefe sit i yem kafe.
+3. cing kana kafe u ca.
+4. mama cing mi safa kamer.
+5. xefe sit i kana kafe.
 
 
 --------------------------------------------------------------------------------
@@ -218,16 +218,16 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia tu yem kafe u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia tu kana kafe u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
-☻: **maf! kia ye yem ca?** = Pardon! Will he have tea?  
-☺: **no. ye no yem ca. ye yem kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia tu yem sup?** = Would you like to have soup?  
-☺: **yem.** = Yes. (_I eat._)  
-☻: **kia ye yem sup?** = Would he like to have soup?  
-☺: **no yem.** = No.  
+☻: **maf! kia ye kana ca?** = Pardon! Will he have tea?  
+☺: **no. ye no kana ca. ye kana kafe.** = No, he won't. He would like to have coffee.  
+☻: **kia tu kana sup?** = Would you like to have soup?  
+☺: **kana.** = Yes. (_I eat._)  
+☻: **kia ye kana sup?** = Would he like to have soup?  
+☺: **no kana.** = No.  
 ☻: **danke. mi dar un ca i un kafe i un sup na bada du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
@@ -236,20 +236,20 @@ Yes or no questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **mi kia tu yem ca.** = I ask (do) you drink tea.  
-> **kia tu yem ca?** = Do you drink tea?  
-> **kia yem ca?** = Drink tea?
+> **mi kia tu kana ca.** = I ask (do) you drink tea.  
+> **kia tu kana ca?** = Do you drink tea?  
+> **kia kana ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ye yem ca?** = Does he or she drink tea?  
-> **kia tu yem sup?** = Do you eat soup?  
-> **kia mimen yem su?** = Do we drink water?
+> **kia ye kana ca?** = Does he or she drink tea?  
+> **kia tu kana sup?** = Do you eat soup?  
+> **kia mimen kana su?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xef si yem kafe?** = Does the chief drink coffee?  
-> **kia papa si safa kamar?** = Does the father clean the room?  
+> **kia xef si kana kafe?** = Does the chief drink coffee?  
+> **kia papa si safa kamer?** = Does the father clean the room?  
 > **kia niki si baxa pandunia?** = Does Nicky speak Pandunia?
 
 
@@ -257,22 +257,22 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-> – **kia tu yem sup?** = Do you eat soup?  
+> – **kia tu kana sup?** = Do you eat soup?  
 > – **si.** = Yes.  
-> – **kia ye yem sup?** = Does she eat soup?  
+> – **kia ye kana sup?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia tu yem kafe?** = Do you drink coffee?  
-> – **si. mi yem kafe.** = Yes, I drink coffee.  
-> – **kia ye yem kafe?** = Does he drink coffee?  
-> – **no. ye no yem kafe.** = No, he doesn't drink coffee.
+> – **kia tu kana kafe?** = Do you drink coffee?  
+> – **si. mi kana kafe.** = Yes, I drink coffee.  
+> – **kia ye kana kafe?** = Does he drink coffee?  
+> – **no. ye no kana kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia tu yem su?** = Do you drink water?  
-> – **yem.** = (Yes, I) drink.
+> – **kia tu kana su?** = Do you drink water?  
+> – **kana.** = (Yes, I) drink.
 
 
 ### Exercises
@@ -297,10 +297,10 @@ Try translating these sentences from English to Pandunia.
 
 1. kia tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama yem kafe?
-4. no. ye no yem kafe.
-5. kia ye yem sup?
-6. (ye) no yem.
+3. kia mama kana kafe?
+4. no. ye no kana kafe.
+5. kia ye kana sup?
+6. (ye) no kana.
 
 
 --------------------------------------------------------------------------------
@@ -315,9 +315,9 @@ In the previous lesson you learned to answer **si** and **no** to questions. The
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salama tu** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi cing tu saf kamar.** = I ask you to clean the room.  
-> **mi no cing tu saf kamar.** = I do NOT ask you to clean the room.  
-> **mi cing tu no saf kamar.** = I ask you NOT to clean the room.
+> **mi cing tu saf kamer.** = I ask you to clean the room.  
+> **mi no cing tu saf kamer.** = I do NOT ask you to clean the room.  
+> **mi cing tu no saf kamer.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
@@ -347,11 +347,11 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Answers to the Exercises
 
-1. ye no saf kamar.
+1. ye no saf kamer.
 2. un kop no hali.
-3. du waf no yem sup.
+3. du waf no kana sup.
 4. ye no hava waf i mau. / ye hava no waf i no mau.
-5. xef yem ca ama no kafe.
+5. xef kana ca ama no kafe.
 6. mama hava no waf ama du mau.
 
 
@@ -366,7 +366,7 @@ To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the in
 
 > **ye si ke?** = What is that? / Who is (s)he?  
 > **ke ren lai?** = Who is coming? (**ren** = person)  
-> **ke zam tu yem?** = When do you eat? (**zam** = time)  
+> **ke zam tu kana?** = When do you eat? (**zam** = time)  
 > **ke yang dansa?** = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using **koz ke**.
@@ -404,7 +404,7 @@ Of course **koz** can also be used to express the cause or reason for something,
 2. papa suku.
 3. ke zam ye lai?
 4. na des minut bada.
-5. ye no yem koz ke?
+5. ye no kana koz ke?
 6. koz (ye) no suku kafe u sup.
 
 -->
@@ -421,9 +421,9 @@ There are no verb conjugations in Pandunia. All verbs have only one form. In a w
 
 > **mi darba ye.** = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi yem pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
+In Pandunia all verbs are like that! For example, **mi kana pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-> **mi yem pan na suba yem.** = I ate bread for morning meal.
+> **mi kana pan na suba kane.** = I ate bread for morning meal.
 
 There are also specific time words.
 
@@ -466,13 +466,13 @@ It is not necessary to repeat the time expressions all the time. It would be awk
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
 
 > **mi jenu na nen 2003.** = I was born in 2003.
-> **ye saf kamar na bada den.** = He will clean the room tomorrow.
+> **ye saf kamer na bada den.** = He will clean the room tomorrow.
 -->
 
 
 ### Word List
 
-**gon** past, former. **nun** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba yem** morning meal, breakfast.
+**gon** past, former. **nun** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba kane** morning meal, breakfast.
 
 <!--
 ### Exercises
@@ -493,9 +493,9 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 <ol>
 <li>mi da xef festa na futur.
 <li>mi mala du hau na pase.
-<li>tu yem sup na jin.
-<li>ye saf kamar na din befo.
-<li>mau yem kafe na din bada.
+<li>tu kana sup na jin.
+<li>ye saf kamer na din befo.
+<li>mau kana kafe na din bada.
 <li>tu da mama festa na yo befo.
 </ol>
 -->

@@ -72,8 +72,9 @@ ayiti [e] Haiti
 
 ##b  
 
-bad [e] after (later)  
-badal [e] exchange (swap)  
+bada [a] follow (come after)  
+bade [e] consequence (follow-up)  
+badala [a] exchange (swap)  
 badam [e] almond  
 badan [e] body  
 badani [i] bodily (corporal)  
@@ -99,7 +100,7 @@ bangla [e] Bangladesh (Bengal)
 banka [a] save (deposit, bank)  
 banya [a] bathe  
 banye [e] bath  
-banya kamar [e] bathroom  
+banya kamer [e] bathroom  
 bar [e] bar (pub)  
 barat [e] India  
 barbar [i] barbarian  
@@ -111,6 +112,8 @@ bas [i] enough (sufficient)
 basen [e] pool (basin)  
 basket [e] basket  
 bat [num] eight (8)  
+bata [e] duck  
+batakrot [e] platypus  
 batata [e] yam (sweet potato)  
 bateri [e] battery  
 batu [e] stone  
@@ -174,8 +177,6 @@ budan [e] Mercury
 bujet [e] budget  
 buk [e] book  
 bula [a] forget  
-bumi [e] earth (soil)  
-bumi dou [e] peanut (groundnut)  
 bunduk [e] rifle  
 bus [e] bus  
 buton [e] key (push-button)  
@@ -199,7 +200,7 @@ capa [a] press (imprint)
 car [num] four (4)  
 carnir [e] hinge (pivot)  
 cat [e] chat (informal conversation)  
-cat kamar [e] chat room  
+cat kamer [e] chat room  
 catar [e] umbrella (parasol)  
 caye [e] shadow  
 ceka [a] check (to examine)  
@@ -272,7 +273,7 @@ demokratia [e] democracy
 demon [e] demon  
 den [e] day (daytime)  
 den salam [fr] Good day  
-den yem [e] lunch  
+den kane [e] lunch  
 denga [a] wait  
 des [num] ten (10)  
 desen [e] drawing (picture)  
@@ -599,6 +600,7 @@ jalu [a] burn (be burned)
 jama [a] collect (gather, bring together)  
 jami [i] collective  
 jamia [e] collection (congregation)  
+jamula [a] disperse  
 jameika [e] Jamaica  
 janela [e] window  
 jang [e] fight (war)  
@@ -660,14 +662,16 @@ kakau [e] cocoa
 kal [i] black  
 kalam [e] pen  
 kalsium [e] calcium (Ca)  
-kamar [e] room (chamber)  
-kamar tal [e] floor  
+kamer [e] room (chamber)  
+kamer tal [e] floor  
 kambudia [e] Cambodia  
 kamera [e] camera  
 kamis [e] shirt  
 kamp [e] camp  
 kampar [e] camper  
 kan [e] workshop (place for...)  
+kana [a] consume (eat or drink)  
+kane [e] food (meal)  
 kanada [e] Canada  
 kanal [e] channel  
 kandi [e] candy (sweets)  
@@ -776,6 +780,7 @@ kriste [e] Christ
 kristi [i] Christian  
 kristia [e] Christianity (Christendom)  
 krita [a] cry (shout)  
+krot [e] mole (burrowing animal)  
 krus [e] cross  
 kuan [i] wide  
 kuang [e] mineral (ore)  
@@ -840,8 +845,8 @@ limun [e] lemon
 linye [e] line (stripe)  
 lis [i] smooth  
 liste [e] list (listing)  
-lit [o] a little (not much)  
-liti [i] little (small)  
+lit [i] little (small)  
+lit kane [e] snack  
 liter [e] liter (litre)  
 lixu [e] squirrel  
 lobak [e] radish  
@@ -1045,10 +1050,11 @@ muxu [e] mouse
 ##n  
 
 na [pr] at (in, on)  
-na dur de [pr] while (during)  
+na bada [pr] after (following)  
+na dura [pr] while (during)  
 na in [pr] in (inside)  
 na fas [pr] on (on surface)  
-na lok de [pr] instead of  
+na loka [pr] at (at the location of)  
 na way [pr] out (outside)  
 na wen [pr] around (about)  
 na xia [pr] below (under)  
@@ -1253,8 +1259,8 @@ projet [e] project (planned endeavour)
 proses [e] process (procedure)  
 puder [e] powder  
 puding [e] pudding  
-puja [a] worship (revere)  
 puertoriko [e] Puerto Rico  
+puja [a] worship (revere)  
 pul [e] bridge  
 pulo [e] island  
 punt [e] point (full stop)  
@@ -1408,7 +1414,7 @@ sofi [e] wise
 sofia [e] wisdom  
 sol [o] only (just)  
 son [e] sleep  
-son kamar [e] bedroom  
+son kamer [e] bedroom  
 sona [a] sleep (be asleep)  
 sonda [a] sound (make a sound)  
 sonde [e] sound (audio)  
@@ -1425,7 +1431,7 @@ suan [i] sour
 suba [e] morning  
 suba den [e] forenoon  
 suba salam [fr] Good morning  
-suba yem [e] breakfast  
+suba kane [e] breakfast  
 sud [e] south  
 sudafrika [e] South Africa (republic)  
 sudan [e] Sudan  
@@ -1625,7 +1631,7 @@ xale [e] cottage (chalet)
 xam [e] evening  
 xam den [e] afternoon  
 xam salam [fr] Good evening  
-xam yem [e] dinner  
+xam kane [e] dinner  
 xaman [e] shaman  
 xamba [e] field (countryside)  
 xampu [e] shampoo  
@@ -1667,10 +1673,10 @@ yaman [e] Yemen
 yang [e] kind (type, style)  
 yani [conj] that is (in other words, i.e.)  
 yasen [e] ash tree  
+yatim [e] orphan  
 ye [pr] he or she or it  
 yemen [pr] they  
 yehudi [i] Jew  
-yem [a] eat  
 yen [e] eye  
 yep [e] leaf  
 yer [o] yesterday  
@@ -1698,6 +1704,9 @@ zardux din [e] Zoroastrianism
 zay [i] present (existing)  
 zaye [e] existence (presence)  
 ze [pr] from (since)  
+zem [e] earth (soil)  
+zem dou [e] peanut (groundnut)  
+zemia [e] Earth (Terra)  
 ziba [a] plug (stop with a plug)  
 zibula [a] unplug (uncork)  
 zigzag [e] zigzag  
