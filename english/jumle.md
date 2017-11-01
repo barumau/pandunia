@@ -204,15 +204,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### saba <small>to know</small>
+### jan <small>to know</small>
 
-**mi saba ye.** I know him/her.
+**mi jan ye.** I know him/her.
 
-**kia tu saba sa jen?** Do you know that person?
+**kia tu jan sa jen?** Do you know that person?
 
-**kia tumen saba alise?** Do you know each other?
+**kia tumen jan alise?** Do you know each other?
 
-**mimen saba alise ze long.** We know each other for long.
+**mimen jan alise ze long.** We know each other for long.
 
 
 
@@ -388,13 +388,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu loga ke?** What did you say?
 
-**mi loga ko tu.** I talk to you.
+**mi loga to tu.** I talk to you.
 
-**mimen loga ko alise.** We talk to each other.
+**mimen loga to alise.** We talk to each other.
 
-**se loga "cat" bi ke yang bi pandunia?** How do you say "cat" in Pandunia?
+**se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
-**"cat" si ke bi pandunia?** What is "cat" in Pandunia?
+**"cat" si ke na pandunia?** What is "cat" in Pandunia?
 
 **mau loga miau.** Cat says meow.
 
@@ -471,7 +471,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **haida enda!** Let's go!
 
-**haida enda bi ped** Let's go by foot!
+**haida enda na ped** Let's go by foot!
 
 
 ### lay <small>to come</small>
@@ -487,9 +487,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### safara <small>to travel</small>
 
-**kia tu safara bi tren?** Do you travel by train?
+**kia tu safara na tren?** Do you travel by train?
 
-**mimen safara ze london ko paris.** We travel from London to Paris.
+**mimen safara ze london to paris.** We travel from London to Paris.
 
 **safar cok long.** The voyage is very long.
 
@@ -541,7 +541,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **mi kap un kafe.** I will take a coffee.
 
-**cing kap un kafe ko mi.** Please take one coffee for me.
+**cing kap un kafe to mi.** Please take one coffee for me.
 
 **tu ja kap pesa ze mi.** You already got money from me.
 
@@ -550,13 +550,13 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dar pesa.** Please give some money.
 
-**cing dar ye ko mi.** Please give it to me.
+**cing dar ye to mi.** Please give it to me.
 
-**mi dar sa ko tu.** I give this to you.
+**mi dar sa to tu.** I give this to you.
 
-**mi dar buk ko yemen.** I give a book to them.
+**mi dar buk to yemen.** I give a book to them.
 
-**ye no wol dar ye ko mi.** He/she doesn't want to give it to me.
+**ye no wol dar ye to mi.** He/she doesn't want to give it to me.
 
 
 
@@ -575,7 +575,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar ko biznes jen.** He/she rents rooms to business people.
+**ye kira dar kamar to biznes jen.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -676,6 +676,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **haba** have; there is <small>(English _have_)</small>  
 **haber** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
+**jan** know <small>(Hindi _jānnā_ जानना)</small>  
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
@@ -701,7 +702,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
-**saba** know <small>(Kongo _zaba_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
 **si** yes; to be <small>(Spanish _sí_)</small>  

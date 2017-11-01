@@ -257,7 +257,7 @@ des ← portugal:dez ruski:děsyat' hindi:urdu:das
 desen ← frans:dessin portugal:desenho italia:disegno ron:desen + turki:desen polska:deseń  
 detal ← portugal:detalhe espanya:detalle frans:détail englix:detail ruski:detal'  
 dew ← hindi:urdu:devtā indonesia:dewa portugal:deus  
-dewi histor ← khmer:teivea' ka'tʰaa  
+dewi sage ← khmer:teivea' ka'tʰaa  
 deya ← arabi:ḍayʿa portugal:aldeia espanya:aldea + taj:deha farsi:deh + indonesia:jav:désa  
 dian ← guj:marati:hindi:bangla:dhyān urdu:dhiyān  
 din ← arabi:urdu:dīn farsi:turki:din swahili:dini hausa:addini  
@@ -380,7 +380,6 @@ gardin ← englix:garden + frans:espanya:jardin + ron:grădină
 gas ← englix:gas nipon:gasu frans:ruski:gaz doic: espanya: portugal:  
 gaci ← hanguk:gachi nipon:kachi yuthan:gaazik putonghan:jiàzhí viet:giá trị  
 gau ← putonghan:gāo viet:cao hanguk:go  
-gata ← hindi:kathā tamil:telugu:katha + nipon:monogatari + indonesia:kata  
 gaun ← englix:gown indonesia:gaun swahili:gauni  
 gaze ← frans:doic:portugal:gaze nipon:gāze hanguk:gajĭ ruski:polska:gaza espanya:gasa englix:gauze  
 gazel ← arabi:ğāzāl englix:frans:gazelle nipon:gazeru  
@@ -581,7 +580,6 @@ kasa ← turki:kasa portugal:espanya: englix:doic:
 kastan ← portugal:castanha turki:kestane ruski:kaštan  
 kata ← englix:cut hindi:urdu:katnā swahili:kata viet:cắt  
 katalunya ←   
-kati ← tamil:telugu:kan:mal:katti  
 kava ← portugal:espanya:cavar  
 kawai ← nipon:englix:kawaii putonghan:kǎwāyī  
 kaxa ← ruski:kaša   
@@ -1068,7 +1066,7 @@ sabur ← arabi:ṣabūr farsi:sabur indonesia:sabar + turki:sabır swahili:subi
 sade ← turki:sade farsi:sāde hindi:urdu:sādā telugu:sādhuvu  
 saf ← hindi:urdu:sāf turki:saf swahili:safi  
 safar ← arabi:farsi:hindi:urdu:safar turki:sefer swahili:englix:frans:ruski:safari  
-safar nik ←   
+saga ← doic:sagen + englix:frans:espanya:ruski:saga  
 sak ← frans:sac espanya:portugal:saco englix:doic:sack indonesia:saku kongo:saki  
 sal ← portugal:espanya:sal englix:salt + ruski:sol'  
 salada ← englix:salad arabi:turki:ruski:salat hindi:urdu:salād indonesia:selada putonghan:shālā  

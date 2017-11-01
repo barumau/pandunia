@@ -124,6 +124,7 @@ bay [i] white
 bazar [e] market (bazaar)  
 baze [e] base (foundation)  
 bazi [i] basic  
+be [pr] without  
 bebe [e] baby (darling)  
 bed [e] bed  
 bei [a] undergo (verb of the passive voice)  
@@ -281,7 +282,7 @@ detal [e] detail
 dew [e] god  
 dew lojia [e] theology  
 dewi [i] divine (godly)  
-dewi histor [e] myth (divine story)  
+dewi sage [e] myth (divine story)  
 deya [e] village  
 dian [e] attention (focus)  
 din [e] religion  
@@ -442,7 +443,6 @@ garam [i] warm
 garante [e] guarantee  
 gardin [e] garden  
 gas [e] gas  
-gata [a] tell (narrate)  
 gaun [e] dress (gown)  
 gaw [i] high  
 gayana [e] Guyana  
@@ -602,6 +602,9 @@ jami [i] collective
 jamia [e] collection (congregation)  
 jamula [a] disperse  
 jameika [e] Jamaica  
+jan [a] know
+jane [e] knowledge  
+jani [i] known  
 janela [e] window  
 jang [e] fight (war)  
 jangar [e] warrior (fighter)  
@@ -672,6 +675,7 @@ kampar [e] camper
 kan [e] workshop (place for...)  
 kana [a] consume (eat or drink)  
 kane [e] food (meal)  
+kane kamer [e] dining room  
 kanada [e] Canada  
 kanal [e] channel  
 kandi [e] candy (sweets)  
@@ -708,7 +712,8 @@ keci [i] polite
 kek [e] cake  
 kelele [e] noise  
 kemet [e] Ancient Egypt (Kemet)  
-ken [a] can (be able)  
+ken [a] can (know, be able)  
+kene [e] ability (skill)  
 kenar [e] border (edge)  
 kenya [e] Kenya  
 kerub [e] cherub  
@@ -788,6 +793,7 @@ kuang su [e] mineral water
 kuba [e] Cuba  
 kuka [a] cook (prepare food)  
 kukar [e] cook (chef)  
+kuke kamer [e] kitchen  
 kul [i] cool  
 kultur [e] culture  
 kupa [e] dome (vault)  
@@ -1333,8 +1339,6 @@ sa [pr] this or that
 sa far [pr] that (that over there)  
 sa jin [pr] this (this over here)  
 sabat [e] Sabbath  
-saba [a] know  
-sabe [e] knowledge  
 sabun [e] soap  
 sadi [i] plain (simple)  
 saf [i] clean (pure)  
@@ -1343,6 +1347,8 @@ safar [e] travel (voyage)
 safar nik [e] tourist  
 safara [a] travel  
 safarar [e] traveler  
+saga [a] tell (narrate)  
+sage [e] tale (legend, saga)  
 sak [e] bag (sack)  
 sal [e] salt  
 salada [e] salad  

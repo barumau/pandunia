@@ -656,18 +656,19 @@ Naturally time words are used only when they are necessary. Usually it is enough
 
 ### 10.1. Prepositions of place and time
 
-Pandunia has three prepositions of place and time.
+Pandunia has four prepositions of place and time.
 
-1. **na** - location or moment (in general): at, in, on, by, with, during, while
-2. **ze** - origin or beginning: from, since, because
-3. **ko** - destination or end: to, till, until, for
+1. **na** - presence, location or moment (in general): with, at, in, on, by, during, while
+2. **be** - absence or lack: without
+3. **ze** - origin, beginning or cause: from, since, because
+4. **to** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
 
 > **mi na hotel.** - I'm in the hotel.  
 > **mi son na hotel.** - I sleep in the hotel.  
-> **mi son ze xam ko suba.** - I sleep since evening until morning.  
-> **mi safara ze london ko paris.** - I travel from London to Paris.  
+> **mi son ze xam to suba.** - I sleep since evening until morning.  
+> **mi safara ze london to paris.** - I travel from London to Paris.  
 
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
@@ -725,7 +726,7 @@ Many of these expressions are very useful.
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **mi denga ze tu enda.** - I have waited since you left.  
-> **mi denga ko tu lay dom.** - I wait until you come home.  
+> **mi denga to tu lay dom.** - I wait until you come home.  
 > **mi denga na tu son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **du**_.
@@ -1030,7 +1031,7 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 
 1. Conjunctions: i, u
 2. Connectors: da, du
-3. Coverbs (prepositions): na, ko, ze, bi
+3. Prepositions: na, be, to, ze
 4. Verbs
 5. Nouns and pronouns
 6. Tense, aspect and mood particles

@@ -154,19 +154,19 @@ The normal sentence word order is subject-verb-object, following the pattern of 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bei yem.
+    Pandunia:  pingo bei kana.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no ken bei yem.
+    Pandunia:  ye no ken bei kana.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ye yem kafe.
+    Pandunia:  mi cing ye kana kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._

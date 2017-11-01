@@ -50,7 +50,6 @@
   
   
   
-a little (not much)   : lit  
 ##a  
 able (capable)   : kabil  
 about (concerning)   : bi tem de  
@@ -67,7 +66,7 @@ advice (counsel)   : konsel
 affirm (agree, concur)   : amena  
 Africa   : afrika  
 African   : afrikai  
-after (later)   : bad  
+after (following)   : na bada  
 afternoon   : xam den  
 age   : umur  
 agile   : ajil  
@@ -129,6 +128,7 @@ ask (request; please)   : cing
 asparagus   : lusun  
 aspirin   : aspirin  
 asthma   : asma  
+at (at the location of)   : na loka  
 at (in, on)   : na  
 athlete (sportsman)   : sportar  
 atom   : atom  
@@ -165,7 +165,7 @@ basic   : bazi
 basket   : basket  
 bath   : banye  
 bathe   : banya  
-bathroom   : banya kamar  
+bathroom   : banya kamer  
 battery   : bateri  
 be about (discuss as a subject)   : tema  
 be born   : jenu  
@@ -176,7 +176,7 @@ beard   : barda
 beautiful (handsome)   : sundar  
 bed   : bed  
 bedouin (nomadic)   : badawi  
-bedroom   : son kamar  
+bedroom   : son kamer  
 beef   : mumu nama  
 beer   : bir  
 begin (commence)   : kaixa  
@@ -227,7 +227,7 @@ brain   : nau
 brave (courageous)   : yungam  
 Brazil   : brazil  
 bread   : pan  
-breakfast   : suba yem  
+breakfast   : suba kane  
 breast (boob)   : mam  
 breath   : nafas  
 bridge   : pul  
@@ -306,7 +306,7 @@ channel   : kanal
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : sura  
 chat (informal conversation)   : cat  
-chat room   : cat kamar  
+chat room   : cat kamer  
 check (to examine)   : ceka  
 checkers   : dama  
 cheer (hooray)   : hura  
@@ -389,7 +389,9 @@ Congo   : kongo
 congratulate   : barka  
 connect (join, link)   : liga  
 connection (relationship)   : guanxe  
+consequence (follow-up)   : bade  
 consonant   : konson  
+consume (eat or drink)   : kana  
 continue (resume)   : kontinu  
 cook (chef)   : kukar  
 cook (prepare food)   : kuka  
@@ -461,8 +463,9 @@ diamond   : almas
 die   : martu  
 die (dice)   : dado  
 dig (excavate)   : fosa  
-dinner   : xam yem  
+dinner   : xam kane  
 disc (disk)   : diske  
+disperse   : jamula  
 distant (tele-)   : tele  
 divide (to partition)   : fena  
 divine (godly)   : dewi  
@@ -487,17 +490,18 @@ drug (medicine)   : dawa
 drugstore (pharmacy)   : dawa kan  
 drum   : tambur  
 dry   : suhi  
+duck   : bata  
 dumpling   : mantu  
 dune   : duna  
 duration   : dur  
 dust   : dul  
 ##e  
 ear   : or  
-earth (soil)   : bumi  
+earth (soil)   : zem  
+Earth (Terra)   : zemia  
 earthquake   : sisme  
 east   : dong  
 easy   : izi  
-eat   : yem  
 echo   : eho  
 Ecuador   : ekuador  
 Egypt   : misri  
@@ -539,7 +543,7 @@ everybody (everyone)   : mei jen
 everything   : mei xe  
 example   : misal  
 except (minus)   : minus  
-exchange (swap)   : badal  
+exchange (swap)   : badala  
 excrement (shit)   : kak  
 existence (presence)   : zaye  
 exit (leaving)   : cut  
@@ -598,12 +602,14 @@ five (5)   : lim
 fix (attach)   : fiksa  
 flag (banner)   : bandera  
 flat   : ping  
-floor   : kamar tal  
+floor   : kamer tal  
 flour   : ata  
 flower   : hua  
 fly   : feya  
 fly (housefly)   : zizi  
 focus (concentration)   : fokus  
+follow (come after)   : bada  
+food (meal)   : kane  
 fool (idiot)   : bobo  
 foot   : ped  
 force (strength)   : bale  
@@ -779,7 +785,6 @@ inject   : juxa
 insect   : koncung  
 inside (interior)   : in  
 inspire (inspiration)   : inspira  
-instead of   : na lok de  
 intend (plan)   : plana  
 intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)   : tez  
 interest (interesting)   : interes  
@@ -894,7 +899,7 @@ liquid   : may
 list (listing)   : liste  
 liter (litre)   : liter  
 Lithuania   : lietuva  
-little (small)   : liti  
+little (small)   : lit  
 live   : jiwa  
 live (dwell, reside)   : doma  
 load (to charge)   : lada  
@@ -907,7 +912,7 @@ loser   : luzar
 love   : amor  
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
-lunch   : den yem  
+lunch   : den kane  
 lychee (litchi)   : lici  
 lymph   : limfa  
 ##m  
@@ -990,6 +995,7 @@ ministry   : ministaria
 minute   : minut  
 mirror   : aine  
 model (design)   : model  
+mole (burrowing animal)   : krot  
 Monday   : war 1 (war un)  
 money   : pesa  
 Mongolia   : mongol  
@@ -1022,7 +1028,7 @@ must   : mus
 my   : mi da  
 my parents   : mi da law  
 Myanmar (Burma)   : bama  
-myth (divine story)   : dewi histor  
+myth (divine story)   : dewi sage  
 ##n  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
@@ -1105,6 +1111,7 @@ orgasm   : orgazme
 oriental dragon   : rong  
 origin   : asle  
 original   : asli  
+orphan   : yatim  
 other   : alter  
 out (outside)   : na way  
 outside (exterior)   : way  
@@ -1145,7 +1152,7 @@ pause (interrupt)   : pausa
 pay   : peya  
 payment   : pey  
 peace (calm)   : xanti  
-peanut (groundnut)   : bumi dou  
+peanut (groundnut)   : zem dou  
 pear   : pera  
 pearl   : lulu  
 pen   : kalam  
@@ -1194,6 +1201,7 @@ plate   : plat
 Plato   : platon  
 Platonic   : platoni  
 Platonism   : platonia  
+platypus   : batakrot  
 play (have fun)   : joga  
 play a game   : gema  
 play music   : musika  
@@ -1330,7 +1338,7 @@ Roman Empire   : roma empiria
 romantic   : romansi  
 romantic love   : romans  
 Rome   : roma  
-room (chamber)   : kamar  
+room (chamber)   : kamer  
 root   : gen  
 rose   : roza  
 rotor (rotator)   : rotor  
@@ -1419,6 +1427,7 @@ Slovakia   : slowakia
 Slovenia   : slowenia  
 smoke   : duman  
 smooth   : lis  
+snack   : lit kane  
 snow   : hima  
 so (then, therefore)   : to  
 soap   : sabun  
@@ -1498,6 +1507,7 @@ tactics (strategy)   : taktik
 taiga   : taiga  
 tail   : dum  
 tailor   : darzar  
+tale (legend, saga)   : sage  
 Tanakh (Jewish Bible)   : tanah  
 tank (container)   : tank  
 Tanzania   : tanzania  
@@ -1514,6 +1524,7 @@ teacher   : darse guru
 team   : tim  
 technique (technology)   : tekne  
 technology (study of techniques)   : tekne lojia  
+tell (narrate)   : saga  
 tempt (entice)   : tenta  
 ten (10)   : des  
 tennis   : tenis  
@@ -1660,7 +1671,7 @@ west   : weste
 western   : westi  
 what?   : ke  
 wheel   : cakra  
-while (during)   : na dur de  
+while (during)   : na dura  
 whip (lash)   : cabuk  
 white   : bay  
 whole (entire, all)   : tot  
