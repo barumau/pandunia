@@ -1,4 +1,12 @@
+## Word List with Origins of Words
+
 ##a  
+
+**apel** _n_ apple. ← English: apple. Bengali: আেপল  /apel/. Indonesian: apel.
+
+**ai** _v_ love, affection. ← Mandarin: 爱 "ài". Japanese: 愛 "ai". Vietnamese: ái.
+
+
 
 a [int] ah!  
 adres [e] address  
@@ -71,6 +79,27 @@ awar [e] damage (wreck)
 ayiti [e] Haiti  
 
 ##b  
+
+**bai** _adj_ white ← Mandarin: 白 "bái".
+
+**ban** _n_ friend, companion, comrade. ← Vietnamese: bạn. Mandarin: 伴 "bàn".
+
+**bas** _adv_ enough. ← Persian: /bas/. Hindi: /bas/. Swahili: basi. Spanish: basta.
+
+**bax** _v_ communicate; language. ← Hindi: भाषा /bhāṣā/. Indonesian: bahasa. Javanese: basa.
+
+**bazar** _n_ marketplace, bazaar. ← Farsi: بازار /bāzār/. Indonesian: pasar.
+
+**bei** _v_ "get", suffer, undergo. ← Mandarin: 被 "bèi".
+
+**ben** _n_ child, offspring.
+
+**bir** _n_ beer. ←  English: beer. Turkish: bira.
+
+**bon** _adj_ good, well. ← French: bon. Italian: buono. Spanish: bueno.
+
+**buk** _n_ book. ←  English: book. German: Buch. Indonesian: buku. Swahili: buku.
+
 
 bada [a] follow (come after)  
 bade [e] consequence (follow-up)  
@@ -185,6 +214,17 @@ buton paban [e] keyboard
 
 ##c  
 
+**ca** _n_ tea. ← Mandarin: 茶 "chá". Japanese: "cha".
+
+**cing** _v_ ask, request. ←  Mandarin: 请 "qǐng".
+
+**cis** _n_ cheese. ← English: cheese. Mandarin: 起司 "qǐsī". Swahili: chizi.
+
+**cok** _adv_ much, very. ← Turkish: çok.
+
+**cu** _v_ touch, contact. ← Hindi: छूना /chūnā/. Mandarin: 触 "chù".
+
+
 ca [e] tea  
 ca wan [e] tea bowl  
 cabi [e] key  
@@ -234,6 +274,29 @@ cut mun [e] exit door
 cuta [a] leave (go out, exit)  
 
 ##d  
+
+**da** _v_ give. ← Spanish: dar. Russian: дать /dat'/. Farsi: دادن‏‎ "dādan".
+
+**dab** _v_ answer, reply, respond. ← Cantonese: 答 "daap3". Mandarin: "dá".
+
+**dai** _adj_ big. ← Cantonese: "dai". Mandarin: "dà".
+
+**dau** _n_ road, way, path. ← Mandarin: "dao".
+
+**de** _part_ relative particle. ← Mandarin: 的 "de".
+
+**den** _n_ day. ←  Russian: день /deń/.
+
+**din** _v_ worship; religion. ← Arabic: /dīn/. Turkish: din. Swahili: dini. Hausa: addini.
+
+**do** _prep_ to, until, for. ← Mandarin: 到 "dào". Cantonese: "dou3". Russian: до /do/.
+
+**dom** _n_ house. ← Russian дом /dom/.
+
+**dua** _v_ pray, prayer. ←  Turkish: dua. Swahili: dua. Indonesian: doa. Arabic: دُعَاء‏ /duʿāʾ/.
+
+**dux** _v_ rain, shower. ← Russian: дождь /došt'/. + French: douche. German: Dusche. Turkish: duş.
+
 
 da [pr] own (particle of possession)  
 dado [e] die (dice)  
@@ -323,6 +386,9 @@ dzayer [e] Algeria
 
 ##e  
 
+**e** _v_ be. ← Portuguese: é. Italian: è. French: est /e/. Armenian: է /e/. Bulgarian: е /ye/.
+
+
 eglis [e] church  
 eho [e] echo  
 ekran [e] screen  
@@ -344,6 +410,11 @@ europai [i] European
 europai unia [e] European Union (EU)  
 
 ##f  
+
+**fin** _v_ end, finish. ← Spanish: fin. French: fin. Portuguese: fim.
+
+**fung** _n_ wind. ← Cantonese: 風 "fung". Mandarin: 风 "fēng".
+
 
 faide [e] use (utility, benefit)  
 faidi [i] useful (beneficial)  
@@ -426,6 +497,11 @@ futur [i] future
 
 ##g  
 
+**go** _v_ go, leave, depart. ← English: go.
+
+**gud** _n_ bone.
+
+
 gabar [e] grave (tomb)  
 gaci [e] value  
 gaja [e] elephant  
@@ -490,6 +566,17 @@ gustu ka [a] taste like
 gut [e] bone  
 
 ##h  
+
+**ha** _v_ have. ← Portuguese: há.
+
+**hai** _v_ live, be alive. ← Swahili: uhai. Arabic: حياة /ḥayya/. Persian: Urdu: حیات "hayāt".
+
+**hak** _v_ may; right, entitlement. ← Arabic: /haqq/. Turkish: hak. Indonesian: hak. Swahili: haki. Hausa: hakki.
+
+**has** _adj_ special. ← Indonesian: khas.
+
+**hua** _n_. flower. ← Mandarin: 花 "huā". Vietnamese: hoa. Swahili: ua.
+
 
 haba [a] have  
 habu [u] belong  
@@ -558,6 +645,9 @@ hura [a] cheer (hooray)
 
 ##i  
 
+**i** _conj_ and. ← Spanish: y. Portuguese: e. Russian: и /i/.
+
+
 i [conj] and  
 ibri [i] Hebrew  
 idea [e] idea  
@@ -591,6 +681,15 @@ itiopia [e] Ethiopia
 izi [i] easy  
 
 ##j  
+
+**jam** _v_ collect, gather, compile. ← Arabic: جمع /jamaʕa/.
+
+**jan** _v_ know, recognize. ← Hindi: जानना  /jānnā/.
+
+**jia** _n_ home. ← Mandarin: 家 "jiā".
+
+**jus** _n_ juice. ← English: juice.
+
 
 ja [o] already (done)  
 jadi [conj] if (suppose, assume)  
@@ -647,6 +746,21 @@ jus [e] juice
 juxa [a] inject  
 
 ##k  
+
+**kad** _n_ card. ← English: card. Malay: kad. Mandarin: 卡 "kǎ". Japanese: カード "kādo". Swahili: kadi.
+
+**kafe** _n_ coffee ← German:Kaffee. French: café. Spanish: café. Mandarin: 咖啡 "kāfēi".
+
+**kai** _adj_ open. ← Mandarin: 开 "kāi".
+
+**kal** _adj_ black. ← Hindi: काला /kālā/.
+
+**kat** _v_ cut. ← English: cut. Hindi: काटना /kāṭnā/.
+
+**ke** what?, who?. ← Spanish; qué.
+
+**kia** _v_ ask, question. ← Hindi: क्या /kyā/.
+
 
 ka [pr] like (as, as if, than)  
 kabau [e] water buffalo  
@@ -808,6 +922,17 @@ kusen [e] cushion (pillow)
 
 ##l  
 
+**lai** _v_ come, arrive. ← Vietnamese: lại. Mandarin: 来 "lái".
+
+**lau** _adj_ old, ancient. ← Mandarin: "lǎo".
+
+**leng** _adj_ cold. ← Mandarin: 冷 "lěng". Vietnamese: lạnh.
+
+**lig** _v_ join, link. ← Spanish: ligar. English: league. Russian: лига /liga/.
+
+**lit** _adj_ little, small. ← English: little. Filipino: maliit.
+
+
 laba [e] horn (bugle)  
 labia [e] lip  
 lada [a] load (to charge)  
@@ -876,6 +1001,29 @@ luza [a] lose (fail to win)
 luzar [e] loser  
 
 ##m  
+
+**ma** _n_ mother. ← English: ma. Mandarin: 妈 "mā".
+
+**mam** _n_ breast, boob. Farsi: ممه /mame/. Turkish: meme.
+
+**mau** _n_ cat. ← Mandarin: 猫 "māo". Cantonese 貓 "maau". Vietnamese: mèo. 
+
+**max** _adv_ more.
+
+**me** _pron_ I, me. ← English: me. Hindi:  मैं /mẽ/.
+
+**mem** _v_ remember; memory. ← English: memory.
+
+**mez** _n_ table. ← Persian: میز‏‎ /miz/. Hindi: मेज़ /mez/. Portuguese: mesa. Swahili: meza. Indonesian: meja.
+
+**min** _adv_ less.
+
+**ming** _adj_ clear. ← Mandarin: 明 "míng".
+
+**mul** _v_ begin, start, originate. ← Hindi: मूल /mūl/. Indonesian: mula. Khmer: មូល /mul/.
+
+**mus** _v_ must, have to. ← German: müssen. Polish: musieć. Ukrainian: мусити /musiti/.
+
 
 ma [e] mother  
 maca [a] compete (have a match)  
@@ -1055,6 +1203,21 @@ muxu [e] mouse
 
 ##n  
 
+**na** _prep_ with, at, in, on. ← Swahili: na. Lingala: na. Russian: на /na/.
+
+**nam** _n_ name. ← Hindi: नाम /nām/. Indonesian: nama.
+
+**net** _n_ net, web. ← English: net. German: Netz.
+
+**ni** _pron_ you (singular). ← Mandarin: 你 "nǐ". Tamil: நீ /nī/.
+
+**nid** _v_ need. ← English: need.
+
+**nini** _pron_ you all. ← Swahili: ninyi.
+
+**no** _adv_ no, not. ← English: no. Spanish: no. French: non.
+
+
 na [pr] at (in, on)  
 na bada [pr] after (following)  
 na dura [pr] while (during)  
@@ -1129,6 +1292,9 @@ nuton [e] newton (N)
 
 ##o  
 
+**o** _conj_ or, either...or. ← Spanish: o. English: or.
+
+
 o [int] oh!  
 ofis [e] office (position)  
 ofisar [e] officer  
@@ -1145,6 +1311,16 @@ oskur [i] dark (dim)
 osteraih [e] Austria  
 
 ##p  
+
+**pa** _n_ father. ← English: pa. Mandarin: 爸 "bà".
+
+**pad** _v_ fall, drop. ← Russian: падать /padat'/. Telugu: /paḍu/. Hindi: पड़ना /paṛnā/.
+
+**pak** _v_ pack, package. ← English: pack.
+
+**pal** _n_ fruit. ← Hindi: फल /phal/. Bengali: ফল  /phal/. Tamil: பழம் /palam/.
+
+**pan** _n_ bread. ← Spanish: pan. Portuguese: pão. Japanese: パン "pan". Korean: 빵 "ppang". Thai: ปัง "pang".
 
 pa [e] father  
 paban [e] board (plank)  
@@ -1279,6 +1455,10 @@ puxa [a] push
 
 ##r  
 
+
+**rup** _n_ look, appearance. ← Indonesian: rupa. Thai: รูป /rūp/.
+
+
 radio [e] radio  
 raje [e] king or queen  
 raji [i] royal  
@@ -1334,6 +1514,23 @@ ruski [i] Russian (ethnic Russian)
 rutin [e] routine  
 
 ##s  
+
+**sak** _n_ bag, sack. ← English: sack. French: sac. Spanish: saco.
+
+**si** _v_ see, look, view. ← English: see. Mandarin: 视 "shì". Cantonese: 視 "si6".
+
+**sin** _v_ sign, signal, gesture, indicate. ← French: signe. English: sign.
+
+**son** _n_ sound. ← French: son. Portuguese: som.
+
+**som** _v_ sleep. ← French: sommeil. Russian: сон /son/.
+
+**sue** _n_ age. ← Mandarin: 岁 "suì". Vietnamese: tuế, tuổi.
+
+**suk** _v_ enjoy, like, be pleased. ← Indonesian: suka. Thai: สุข /suk/.
+
+**sup** _n_ soup. ← English: soup. French: soupe. German: Suppe. Swahili: supu.
+
 
 sa [pr] this or that  
 sa far [pr] that (that over there)  
@@ -1468,6 +1665,13 @@ swis [e] Switzerland
 
 ##t  
 
+**ta** _pron_ he, she, it. ← Mandarin: 他/她/它 "tā".
+
+**tem** _n_ topic, subject, theme. ← French: thème. Spanish: tema. Russian: тема /tema/.
+
+**tul** _n_ tool. ← English: tool. Korean: 툴 "tul". Japanese: ツール "tsūru". Zulu: ithuluzi.
+
+
 tabak [e] tobacco  
 tabar [e] axe (hatchet)  
 tabel [e] table (matrix)  
@@ -1555,6 +1759,9 @@ tuzi [e] rabbit (hare)
 
 ##u  
 
+**u** _conj_ or ← French: ou.
+
+
 u [conj] or  
 udas [i] sad  
 ukrayina [e] Ukraine  
@@ -1583,6 +1790,9 @@ volta [e] volt
 
 
 ##w  
+
+**wol** _v_ want. German: wollen. Italian: volere.
+
 
 wa [int] wow! (gee!)  
 wada [a] promise (commit)  
@@ -1630,6 +1840,16 @@ wol [a] want (desire)
 
 ##x  
 
+**xak** _v_ suspect. ← Arabic: /šakk/. Farsi: /šak/. Urdu: /śakk/. Swahili: shaka.
+
+**xam** _n_ evening. ← Hindi: शाम /śām/.
+
+**xi** _n_ poem, poetry. ← Mandarin: 诗 "shī".
+
+**xim** _n_ heart. ← Korean: 심 /sim/. Mandarin: 心 "xīn".
+
+**xud** _v_ should. ← English: should.
+
 xak [e] doubt (disbelief)  
 xakal [e] jackal  
 xal [e] scarf (shawl)  
@@ -1672,6 +1892,20 @@ xula [a] repair (fix)
 
 ##y  
 
+
+**ya** _n_ region, place, area, house. ← Spanish: -ia. Arabic: -iya. Japanese: 屋 "-ya".
+
+**yan** _n_ person. ← Cantonese: 人 "yan". English: -ian.
+
+**yang** _n_ kind, sort, variety, manner, style, way, fashion. ← Mandarin: 样 "yàng". Thai: อย่าง  "yàang". Khmer: យ៉ាង "yaang".
+
+**ye** _part_ yes, yeah. ← English: yeah. Korean: 예 /ye/.
+
+**yem** _v_ consume, eat, drink, smoke. ← Turkish: yemek. Cantonese: 飲 "yam".
+
+**yen** _n_ eye. ← Mandarin: 眼 "yǎn". Arabic: عين‏‎ /ʿen/.
+
+
 yak [e] yak  
 yakin [e] certain (sure)  
 yala [a] hurry (hasten)  
@@ -1699,6 +1933,11 @@ yungam [i] brave (courageous)
 yureka [a] find (discover)  
 
 ##z  
+
+
+**zai** _v_ be present, exist. ← Mandarin: 在 "zài". Japanese: "zai".
+
+**ze** _prep_ from, since. ← Persian: ز /ze/. Ukrainian: з /z/. Czech: z, ze. Hindi: से /se/.
 
 zafran [e] saffron  
 zaitun [e] olive  

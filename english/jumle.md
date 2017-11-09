@@ -84,11 +84,11 @@ Note:  **ni** means one person only. When there is more than one, say **nini** (
 
 **ta man.** He is a man.
 
-**ta pom.** It is an apple.
+**ta apel.** It is an apple.
 
 Tip: **ta** is the general third person pronoun. It is used for people (irrespective of gender) as well as things. As you can guess, **tata** means "they".
 
-**tata pom.** They are apples.
+**tata apel.** They are apples.
 
 **meme salam tata.** We greet them.
 
@@ -96,19 +96,19 @@ Tip: **ta** is the general third person pronoun. It is used for people (irrespec
 
 
 
-### ye <small>yes, to be</small>
+### e <small>to be</small>
 
-**pom ye pal.** The apple is a fruit.
+**apel e pal.** The apple is a fruit.
 
-**mau ye hewan.** The cat is an animal.
+**mau e hewan.** The cat is an animal.
 
-Note: Like every word in Pandunia, **ye** is unchanging. So _am, is, are, was_ and _were_ are all translated **ye** in Pandunia!
+Note: Like every word in Pandunia, **e** is unchanging. So _am, is, are, was_ and _were_ are all translated **e** in Pandunia!
 
-**me ye tomas.** I am Thomas.
+**me e tomas.** I am Thomas.
 
-**ni ye sara.** You are Sara.
+**ni e sara.** You are Sara.
 
-Tip: In simple phrases it's allowed to leave out **ye** after a pronoun like **me** and **ni**.
+Tip: In simple phrases it's allowed to leave out **e** after a pronoun like **me** and **ni**.
 
 **me sara.** I'm Sara.
 
@@ -118,13 +118,20 @@ Tip: In simple phrases it's allowed to leave out **ye** after a pronoun like **m
 
 ### no <small>no, not</small>
 
-**mau no pal.** The cat is not a fruit.
+**mau no e pal.** The cat is not a fruit.
 
-**pom no hewan.** The apple is not an animal.
+**apel no e hewan.** The apple is not an animal.
 
-**me no tomas.** I'm not Thomas.
+**me no e tomas.** I'm not Thomas.
 
-**ni no sara.** You're not Sara.
+**ni no e sara.** You're not Sara.
+
+**ta no salam me.** He/she doesn't greet me.
+
+
+
+### ye <small>yes</small>
+
 
 
 
@@ -148,11 +155,11 @@ Tip: In simple phrases it's allowed to leave out **ye** after a pronoun like **m
 
 **sa ye ke? / ke ye sa?** What's this?
 
-**sa ye pom.** This is an apple.
+**sa ye apel.** This is an apple.
 
-**sa ye ros pom.** This is a red apple.
+**sa ye ros apel.** This is a red apple.
 
-**sa pom ye ros.** This apple is red.
+**sa apel ye ros.** This apple is red.
 
 **ta ros.** It's red.
 
@@ -172,9 +179,9 @@ Tip: In simple phrases it's allowed to leave out **ye** after a pronoun like **m
 
 ### kia <small>to ask a question</small>
 
-**kia ni tomas?** Are you Thomas?
+**kia ni e tomas?** Are you Thomas?
 
-**kia ni doktor?** Are you a doctor?
+**kia ni e doktor?** Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **me kia ni doktor.** (I ask, you doctor?) by dropping out the first word.
 
@@ -187,7 +194,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### ha <small>have</small>
 
-**me ha bon jia.** I have a good house.
+**me ha bon dom.** I have a good house.
 
 **ta no ha pesa.** S/he doesn't have money.
 
@@ -252,11 +259,11 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **kia ni wol yem yo?** Would you like to eat something?
 
-**ta yem pom.** He/she eats an apple.
+**ta yem apel.** He/she eats an apple.
 
-**tata yem pom.** They eat apples.
+**tata yem apel.** They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pom** can refer to one or more apples.
+Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **apel** can refer to one or more apples.
 
 **kia ni yem kafe?** Do you drink coffee?
 
@@ -281,7 +288,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **kia ni wol yem ca?** Would you like to drink tea?  
 **no. me no wol ca. me wol kafe.** No, I don't want tea. I want coffee.
 
-**ni wol ke pom?** Which apple do you want?  
+**ni wol ke apel?** Which apple do you want?  
 **sa ros.** This red one.
 
 
@@ -387,7 +394,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me no ken englix.** I don't speak English.
 
-**maf. me no ken ni da baxa.** Sorry, I don't speak your language.
+**maf. me no ken ni da bax.** Sorry, I don't speak your language.
 
 
 
@@ -446,13 +453,13 @@ Tip: To make direct requests, drop all the pronouns.
 **cing kitaba ta na sa.** Please, write it here!
 
 
-### baxa <small>speak a language, communicate</small>
+### bax <small>speak a language, communicate</small>
 
-**kia nini baxa pandunia.** Do you speak in Pandunia?
+**kia nini bax pandunia.** Do you speak in Pandunia?
 
-**meme baxa pandunia.** We speak in Pandunia.
+**meme bax pandunia.** We speak in Pandunia.
 
-**kia ni ken baxa englix?** Can you speak English?
+**kia ni ken bax englix?** Can you speak English?
 
 **frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
@@ -663,28 +670,16 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 
 **ama** but <small>(Turkish _ama_)</small>  
-**bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
-**bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
 **blu** blue <small>(English _blue_)</small>  
-**bon** good <small>(French _bon_)</small>  
-**englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**ha** have; there is <small>(English _have_)</small>  
 **haber** news <small>(Malay _khabar_)</small>  
-**i** and <small>(Polish _i_)</small>  
-**kafe** coffee <small>(German _Kaffee_)</small>  
-**ke** what? who? <small>(Spanish _qué_)</small>  
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
-**man** man <small>(English _man_)</small>  
 **mana** to mean <small>(Swahili _maana_)</small>  
 **mede** to help, to assist <small>(French _aider_)</small>  
-**mede** help, assistance  
-**me** I, me <small>(Swahili _mimi_)</small>  
-**meme** we  
 **nida** need <small>(English _need_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
 **nun** now, currently <small>(German _nun_)</small>  
@@ -696,174 +691,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **wang** yellow <small>(Cantonese _wong_)</small>  
 
 
-## Word List with Origins of Words
 
-**ai** _v_ love, affection. Mandarin: 爱 "ài". Japanese: 愛 "ai". Vietnamese: ái.
 
-**ban** _n_ friend, companion, comrade. ← Vietnamese: bạn. Mandarin: 伴 "bàn".
-
-**bas** _adv_ enough. ← Persian: /bas/. Hindi: /bas/. Swahili: basi. Spanish: basta.
-
-**bax** _v_ communicate; language. ← Hindi: भाषा /bhāṣā/. Indonesian: bahasa. Javanese: basa.
-
-**bei** _v_ "get", suffer, undergo. ← Mandarin: 被 "bèi".
-
-**ben** _n_ child, offspring.
-
-**bir** _n_ beer. ←  English: beer. Turkish: bira.
-
-**bon** _adj_ good, well. ← French: bon. Italian: buono. Spanish: bueno.
-
-**buk** _n_ book. ←  English: book. German: Buch. Indonesian: buku. Swahili: buku.
-
-**ca** _n_ tea. ← Mandarin: 茶 "chá". Japanese: "cha".
-
-**cing** _v_ ask, request. ←  Mandarin: 请 "qǐng".
-
-**cis** _n_ cheese. ← English: cheese. Mandarin: 起司 "qǐsī". Swahili: chizi.
-
-**cok** _adv_ much, very. ← Turkish: çok.
-
-**cu** _v_ touch, contact. ← Hindi: छूना /chūnā/. Mandarin: 触 "chù".
-
-**da** _v_ give. ← Spanish: dar. Russian: дать /dat'/. Farsi: دادن‏‎ "dādan".
-
-**dab** _v_ answer, reply, respond. ← Cantonese: 答 "daap3". Mandarin: "dá".
-
-**dai** _adj_ big.
-
-**dau** _n_ road, way, path.
-
-**de** _part_ a grammatical connective. ← Mandarin: 的 "de".
-
-**den** _n_ day. ←  Russian: день /deń/.
-
-**din** _v_ worship; religion. ← Arabic: /dīn/. Turkish: din. Swahili: dini. Hausa: addini.
-
-**do** _prep_ to, until, for. ← Mandarin: 到 "dào". Cantonese: "dou3". Russian: до /do/.
-
-**dom** _n_ house. ← Russian дом /dom/.
-
-**dua** _v_ pray, prayer. ←  Turkish: dua. Swahili: dua. Indonesian: doa. Arabic: دُعَاء‏ /duʿāʾ/.
-
-**fin** _v_ end, finish. ← Spanish: fin. French: fin. Portuguese: fim.
-
-**fung** _n_ wind. ← Cantonese: 風 "fung". Mandarin: 风 "fēng".
-
-**go** _v_ go, leave, depart. ← English: go.
-
-**gud** _n_ bone.
-
-**ha** _v_ have. ← Portuguese: há.
-
-**hai** _v_ live, be alive. ← Swahili: uhai. Arabic: حياة /ḥayya/. Persian: Urdu: حیات "hayāt".
-
-**hak** _v_ may; right, entitlement. ← Arabic: /haqq/. Turkish: hak. Indonesian: hak. Swahili: haki. Hausa: hakki.
-
-**has** _adj_ special. ← Indonesian: khas.
-
-**hua** _n_. flower. ← Mandarin: 花 "huā". Vietnamese: hoa. Swahili: ua.
-
-**i** _conj_ and. ← Spanish: y. Portuguese: e. Russian: и /i/.
-
-**jan** _v_ know, recognize. ← Hindi: जानना  /jānnā/.
-
-**jia** _n_ home. ← Mandarin: 家 "jiā".
-
-**jus** _n_ juice. ← English: juice.
-
-**kad** _n_ card. ← English: card. Malay: kad. Mandarin: 卡 "kǎ". Japanese: カード "kādo". Swahili: kadi.
-
-**kal** _adj_ black. ← Hindi: काला /kālā/.
-
-**kat** _v_ cut. ← English: cut. Hindi: काटना /kāṭnā/.
-
-**kia** _v_ ask, question. ← Hindi: क्या /kyā/.
-
-**lai** _v_ come, arrive. ← Vietnamese: lại. Mandarin: 来 "lái".
-
-**lau** _adj_ old, ancient. ← Mandarin: "lǎo".
-
-**lit** _adj_ little, small. ← English: little. Filipino: maliit.
-
-**ma** _n_ mother. ← English: ma. Mandarin: 妈 "mā".
-
-**mau** _n_ cat. ← Mandarin: 猫 "māo". Cantonese 貓 "maau". Vietnamese: mèo. 
-
-**max** _adv_ more.
-
-**me** _pron_ I, me. ← English: me. Hindi:  मैं /mẽ/.
-
-**min** _adv_ less.
-
-**mul** _v_ begin, start, originate. Hindi: मूल /mūl/. Indonesian: mula. Khmer: មូល /mul/.
-
-**mus** _v_ must, have to. ← German: müssen. Polish: musieć. Ukrainian: мусити /musiti/.
-
-**na** _prep_ with, at, in, on. ← Swahili: na. Lingala: na. Russian: на /na/.
-
-**nam** _n_ name. ← Hindi: नाम /nām/. Indonesian: nama.
-
-**ni** _pron_ you (singular). ← Mandarin: 你 "nǐ". Tamil: நீ /nī/.
-
-**nini** _pron_ you all. ← Swahili: ninyi.
-
-**no** _adv_ no, not. ← English: no. Spanish: no. French: non.
-
-**o** _conj_ or, either...or. ← Spanish: o. English: or.
-
-**pa** _n_ father. ← English: pa. Mandarin: 爸 "bà".
-
-**pak** _v_ pack, package. ← English: pack.
-
-**pal** _n_ fruit. ← Hindi: फल /phal/. Bengali: ফল  /phal/. Tamil: பழம் /palam/.
-
-**pan** _n_ bread. ← Spanish: pan. Portuguese: pão. Japanese: パン "pan". Korean: 빵 "ppang". Thai: ปัง "pang".
-
-**pom** _n_ apple. ←  French: pomme. Amharic: ፖም  /pom/. Rwanda: pome. Malagasy: paoma. Khmer: ប៉ុម /pom/.
-**rup** _n_ look, appearance. ← Indonesian: rupa. Thai: รูป /rūp/.
-
-**sak** _n_ bag, sack. ← English: sack. French: sac. Spanish: saco.
-
-**si** _v_ see, look, view. ← English: see. Mandarin: 视 "shì". Cantonese: 視 "si6".
-
-**sin** _v_ sign, signal, gesture, indicate. ← French: signe. English: sign.
-
-**son** _n_ sound. ← French: son. Portuguese: som.
-
-**som** _v_ sleep. ← French: sommeil. Russian: сон /son/.
-
-**sue** _n_ age. ← Mandarin: 岁 "suì". Vietnamese: tuế, tuổi.
-
-**suk** _v_ enjoy, like, be pleased. ← Indonesian: suka. Thai: สุข /suk/.
-
-**ta** _pron_ he, she, it. ← Mandarin: 他/她/它 "tā".
-
-**u** _conj_ or ← French: ou.
-
-**wol** _v_ want. German: wollen. Italian: volere.
-
-**xak** _v_ suspect. ← Arabic: /šakk/. Farsi: /šak/. Urdu: /śakk/. Swahili: shaka.
-
-**xam** _n_ evening. ← Hindi: शाम /śām/.
-
-**xi** _n_ poem, poetry. ← Mandarin: 诗 "shī".
-
-**xim** _n_ heart. ← Korean: 심 /sim/. Mandarin: 心 "xīn".
-
-**ya** _n_ region, place, area, house. ← Spanish: -ia. Arabic: -iya. Japanese: 屋 "-ya".
-
-**yan** _n_ person. ← Cantonese: 人 "yan". English: -ian.
-
-**yang** _n_ kind, sort, variety, manner, style, way, fashion. ← Mandarin: 样 "yàng". Thai: อย่าง  "yàang". Khmer: យ៉ាង "yaang".
-
-**ye** _part_ yes, yeah. ← English: yeah. Korean: 예 /ye/.
-
-**yem** _v_ consume, eat, drink, smoke. ← Turkish: yemek. Cantonese: 飲 "yɐm2".
-
-**yen** _n_ eye. Mandarin: 眼 "yǎn". Arabic: عين‏‎ /ʿen/.
-
-**zai** _v_ be present, exist. ← Mandarin: 在 "zài". Japanese: "zai".
-
-**ze** _prep_ from, since. ← Persian: ز /ze/. Ukrainian: з /z/. Czech: z, ze. Hindi: से /se/.
 

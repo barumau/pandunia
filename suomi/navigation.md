@@ -3,11 +3,11 @@
 
 [Etusivu](index.md)
 
-[Äänteet](abc.md)
+[Opiskelu]()
 
-[Sana sanalta](jumle.md)
-
-[Kielioppi](bax_kanun.md)
+  * [Pikaopas](gid.md)
+  * [Ääntäminen](abc.md)
+  * [Lauseita](jumle.md)
 
 [Sanasto]()
 
@@ -15,6 +15,7 @@
   * [Pandunia-suomi](pandunia-suomi.md)
   * [Suomi-pandunia](suomi-pandunia.md)
 
+[Kielioppi](bax_kanun.md)
 
 [UKK](kia_i_dap.md)
 
