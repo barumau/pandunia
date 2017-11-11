@@ -30,7 +30,7 @@ Consonant Sounds
     p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
-    k  g  h
+    k  g  h     q
 
 Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, v, z** is familiar and easy.
 
@@ -42,7 +42,8 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **x** is always pronounced like SH in _ship_.
 - **c** is pronounced like CH in _chip_.
 - **j** is pronounced like the English J.
-- **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
+- **n** is pronounced always with the tip of the tongue.
+- **q** is the velar nasal /ŋ/. So the word **paq** is pronounced /paŋ/ i.e. how "pang" would be pronounced in English.
 
 
 
@@ -50,12 +51,12 @@ The following consonants are pronounced differently in Pandunia than in English.
 
 The stress is on the syllable, which is before the last consonant.
 
-1. Words with only one syllable carry the stress. Ex. MAU, TONG.
-2. The stress is on the last syllable in words that end with a consonant. Ex. koMUN, baZAR, kaMIS.
-3. The stress is on the second last syllable in words that end with a vowel. Ex. DUnia, meLOdi
+1. Words with only one syllable carry the stress. Ex. máu, cíq.
+2. The stress is on the last syllable in words that end with a consonant. Ex. komún, bazár, kamís.
+3. The stress is on the second last syllable in words that end with a vowel. Ex. dúnia, melódi
 
-> **dúnia sí mimén da sundár planét.**  
-> **mí vól lóga komún báx yáni pandúnia.**  
+> **dúnia é méme de sundár planét.**  
+> **mé wól lóg komún báx yáni pandúnia.**  
 
 
 ### Schwa
@@ -103,6 +104,6 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **mi vida tu :)** = I see you.  
-> **mi no vida tu :(** = I don't see you.
+> **me si ni :)** = I see you.  
+> **me no si ni :(** = I don't see you.
 

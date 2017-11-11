@@ -26,7 +26,7 @@ Konsonantit
     p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
-    k  g  h     ng
+    k  g  h     q
 
 Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t** ääntäminen on tuttua ja helppoa.
 
@@ -38,16 +38,17 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **j** on edellisen soinnillinen muunnelma eli /dʒ/. Se äännetään kuten DŽ sanassa _džonkki_.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
-- **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
+- **n** äännetään kielen kärjellä.
+- **q** on ns. äng-äänne. Se esiintyy vain sanojen lopussa. Esimerkiksi sana **paq** sanotaan /paŋ/ eli kuten "pang" äännetään suomen kielessä.
 
 
 ### Sanojen painotus
 
 Paino on viimeistä konsonanttia edellisellä tavulla.
 
-1. Yksitavuiset sanat ovat yleensä painollisia. Esim. MAU, TONG.
-2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. koMUN, baZAR, kaMIS.
-3. Vokaaliloppuisen sanan paino on toiseksi viimeisellä tavulla. Esim. DUnia, meLOdi
+1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máu, tóq.
+2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
+3. Vokaaliloppuisen sanan paino on toiseksi viimeisellä tavulla. Esim. dúnia, melódia
 
 
 ### Švaa
@@ -93,6 +94,6 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-> **mi wida tu :)** = Minä näen sinut.  
-> **mi no wida tu :(** = Minä en näe sinua.
+> **me si ni :)** = Minä näen sinut.  
+> **me no si ni :(** = Minä en näe sinua.
 
