@@ -17,6 +17,8 @@ Pandunia on tarkoitettu aivan kaikille! Keinotekoisena kielenä pandunialla ei o
 
 Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido, interlingua, toki pona tai lidepla, siinä tapauksessa tulet melko varmasti tykkäämään panduniasta.
 
+**Huom!** Pandunia on vielä keskentekoinen! Näiden sivujen sisältö saattaa yhä muuttua.
+
 ## Opiskelumateriaalia
 
 Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.
@@ -40,6 +42,7 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ## Panduniasta muissa julkaisuissa
 
+- Kauko Kämäräinen. Keksittyjä kieliä, unohtuneita utopioita. Sivut 226-239. 2017. Kustannus Kääntöpuoli. Tampere, Suomi.
 - [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf). Interlinguistica Tartuensis, nro 10. 2017. Tartto, Viro.
 - Lyhyitä mainintoja muualla
     - D.V. Lichargin et al. [Applying Conlangs to the Natural Languages Generation Based on Generative Grammars](http://scjournal.ru/articles/issn_1997-2911_2016_12-3_35.pdf). 2016. Siperian federatiivinen yliopisto. Krasnojarsk, Venäjä.

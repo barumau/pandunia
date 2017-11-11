@@ -230,15 +230,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### da <small>'s</small>
+### de <small>'s</small>
 
-**ta ye me da ma.** She is my mother.
+**ta ye me de ma.** She is my mother.
 
-**ta ye me da man.** He is my man.
+**ta ye me de man.** He is my man.
 
-**ta ye me da fem.** She is my wife.
+**ta ye me de fem.** She is my wife.
 
-**tomas ye sara da panyo.** Thomas is Sara's friend.
+**tomas ye sara de mit.** Thomas is Sara's friend.
 
 
 
@@ -293,23 +293,23 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 
 
-### cing <small>request, please</small>
+### ciq <small>request, please</small>
 
-**me cing ni yem ca.** I ask you to drink tea.
+**me ciq ni yem ca.** I ask you to drink tea.
 
-**me cing ni lai jia.** I ask you to come home.
+**me ciq ni lai jia.** I ask you to come home.
 
-**me cing ni mede me.** I ask you to help me.
+**me ciq ni mede me.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing yem ca.** Please, have some tea!
+**ciq yem ca.** Please, have some tea!
 
-**cing yem kafe.** Please, have some coffee!
+**ciq yem kafe.** Please, have some coffee!
 
-**cing lai jia.** Please, come home!
+**ciq lai jia.** Please, come home!
 
-**cing mede me.** Please, help me.
+**ciq mede me.** Please, help me.
 
 
 
@@ -394,7 +394,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me no ken englix.** I don't speak English.
 
-**maf. me no ken ni da bax.** Sorry, I don't speak your language.
+**maf. me no ken ni de bax.** Sorry, I don't speak your language.
 
 
 
@@ -406,7 +406,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **meme loga to alise.** We talk to each other.
 
-**se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
+**se loga "cat" na ke yaq na pandunia?** How do you say "cat" in Pandunia?
 
 **"cat" ye ke na pandunia?** What is "cat" in Pandunia?
 
@@ -417,11 +417,11 @@ Tip: To make direct requests, drop all the pronouns.
 
 **me no ken auda ni.** I can't hear you.
 
-**cing loga kuat.** Please speak louder.
+**ciq loga kuat.** Please speak louder.
 
 **me auda musik.** I listen to music.
 
-**ni auda ke yang da musik?** What kind of music do you listen to?
+**ni auda ke yaq de musik?** What kind of music do you listen to?
 
 
 ### wida <small>to see</small>
@@ -441,16 +441,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" mana ke?** What does "mau" mean?
 
-**ta mana yang du hewan.** It means a kind of animal.
+**ta mana yaq du hewan.** It means a kind of animal.
 
 **me no aha ta mana ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba ni da adres.** Please, write your address.
+**ciq kitaba ni de adres.** Please, write your address.
 
-**cing kitaba ta na sa.** Please, write it here!
+**ciq kitaba ta na sa.** Please, write it here!
 
 
 ### bax <small>speak a language, communicate</small>
@@ -463,7 +463,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
 
-**putong han, nipon, indonesia** Chinese, Japanese, Indonesian
+**putoq han, nipon, indonesia** Chinese, Japanese, Indonesian
 
 **arabi, turki, farsi, urdu, hindi** Arabic, Turkish, Farsi, Urdu, Hindi
 
@@ -490,7 +490,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### lai <small>to come</small>
 
-**cing lai!** Come here!
+**ciq lai!** Come here!
 
 **ni lai ze ke?** Where do you come from?
 
@@ -524,7 +524,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 
-**me gong na...** I work at ...
+**me kar na...** I work at ...
 
 
 ### doma <small>to live, reside</small>
@@ -539,7 +539,7 @@ Tip: It is also okay to say "ni doma na ke?" instead of "ni doma ke". However **
 
 ### denga <small>to wait</small>
 
-**cing denga!** Please wait!
+**ciq denga!** Please wait!
 
 **tata denga meme.** They wait for us.
 
@@ -555,16 +555,16 @@ Tip: It is also okay to say "ni doma na ke?" instead of "ni doma ke". However **
 
 **me kap un kafe.** I will take a coffee.
 
-**cing kap un kafe to me.** Please take one coffee for me.
+**ciq kap un kafe to me.** Please take one coffee for me.
 
 **ni ja kap pesa ze me.** You already got money from me.
 
 
 ### dar <small>give</small>
 
-**cing dar pesa.** Please give some money.
+**ciq dar pesa.** Please give some money.
 
-**cing dar ta to me.** Please give it to me.
+**ciq dar ta to me.** Please give it to me.
 
 **me dar sa to ni.** I give this to you.
 
@@ -596,7 +596,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 <!--
 
-### yang <small>type, kind, sort</small>
+### yaq <small>type, kind, sort</small>
 
 **ta ye ke yang?** What is it like?
 
@@ -661,36 +661,5 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **ke habar?** What's new?
 -->
-
-
-Word List
-----------
-
-All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **ma** and **pa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
-
-
-**ama** but <small>(Turkish _ama_)</small>  
-**batu** stone <small>(Indonesian _batu_)</small>  
-**blu** blue <small>(English _blue_)</small>  
-**fem** woman <small>(French _femme_)</small>  
-**gata** to tell <small>(japana _kataru_ 語る)</small>  
-**gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**haber** news <small>(Malay _khabar_)</small>  
-**ken** can <small>(English _can_)</small>  
-**keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
-**mana** to mean <small>(Swahili _maana_)</small>  
-**mede** to help, to assist <small>(French _aider_)</small>  
-**nida** need <small>(English _need_)</small>  
-**noce** night <small>(Spanish _noche_)</small>  
-**nun** now, currently <small>(German _nun_)</small>  
-**ros** red <small>(Italian _rosso_)</small>  
-**sa** this; that <small>(Haitian Creole _sa_)</small>  
-**safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
-**salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
-**suba** morning <small>(Wolof _subba_)</small>  
-**wang** yellow <small>(Cantonese _wong_)</small>  
-
-
-
 
 

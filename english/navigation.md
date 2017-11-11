@@ -13,9 +13,9 @@
 
 [Lessons]()
 
+  * [Quick Guide](gid.md)
   * [Spelling](abc.md)
-  * [Quick guide](bazi_gide.md)
-  * [Basic phrases](jumle.md)
+  * [Basic Phrases](jumle.md)
   * [Course](darse.md)
 
 [Words]()
