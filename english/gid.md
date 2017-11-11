@@ -24,6 +24,7 @@ Consonants
 
 Most of these are pronounced as in English. The most notable exceptions are **c**, **x** and **q**. Memorize them with this sentence: **ciq xin me.** (It's pronounced roughly _cheeng shin meh_ and it means "Please believe me!")
 
+Pandunia's spelling is phonetic. One letter stands for only one sound and, conversely, one sound is represented by only one letter. Besides, it's more economical to write c instead of ch, x instead of sh, and q instead of ng.
 
 
 ## Simple Sentences
@@ -90,22 +91,23 @@ Pandunia is free from conjugation. So there is just one form (**e**) in Pandunia
 
 The person is indicated by the subject.
 
-**me e ban.** - I am a friend.  
-**ni e ban.** - You are a friend.
+**me e mit.** - I am a friend.  
+**ni e mit.** - You are a friend.
 
 The number (singular and plural) is indicated by the subject.
 
-**ta e ban.** - He/she is a friend.  
-**tata e ban.** - They are friends.
+**ta e mit.** - He/she is a friend.  
+**tata e mit.** - They are friends.
 
 The verb is denied simply by putting **no** before it.
 
-**ta no e ban.** - He/she is not a friend.  
-**tata no e ban.** - They are not friends.
+**ta no e mit.** - He/she is not a friend.  
+**tata no e mit.** - They are not friends.
 
 Note: In simple and short sentences it is acceptable to leave out **e** altogether.  
-**ta ban.** - He/she, a friend.  
-**ta no ban.** - He/she, not a friend.
+**me tarzan** - Me, Tarzan.  
+**ta mit.** - He/she, a friend.  
+**ta no mit.** - He/she, not a friend.
 
 
 
@@ -129,6 +131,21 @@ Here are some useful time words:
 
 
 
+### Describing things
+
+Adjective comes before the noun.
+
+**bon yem** - good food  
+**xin mit** - new friend  
+**lau mit** - old friend  
+**gau mez** - high table  
+
+Adjective can be modified by another description-word.
+
+**cok bon mit** - very good friend
+
+
+
 ## Prepositions
 
 Pandunia has only four prepositions. All of them have a wide meaning.
@@ -147,10 +164,11 @@ The prepositions can function as verbs by themselves.
 
 But usually you use them to add more information to a sentence that already has another verb.
 
-**me yem sup | na camca | na ma i pa | na yem kamar.**  
-I eat soup | with a spoon | with mom and dad | in the dining-room.
+**me yem sup | na camca | na ma | na yem kamar.**  
+I eat soup | with a spoon | with mom | in the dining-room.
 
 Note: Exact meaning of the preposition depends on the object of the preposition. Therefore **na** is translated with a different word in phrases like **na camca** (with a spoon) and **na kamar** (in the room).
+
 
 
 

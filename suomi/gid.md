@@ -58,13 +58,13 @@ Nämä ovat todellakin yksikkömuotoja! Lähes kaikissa maailman kielissä on er
 
 Panduniassa käytetään suomen kielen tapaan kaikki sukupuolet kattavia pronomineja. Ne ovat toimivia ja yksinkertaisempia kuin esimerkiksi arabian pronominit, joissa kaikissa persoonissa on käytössä sekä maskuliiniset että feminiiniset muodot. Kolmannessa persoonassa käytetään vain yhtä sanaa, kuten suomen murteissa käytetään sanaa "se".
 
-Monikon persoonapronominit tehdään toistamalla sana.
+Monikon persoonapronominit muodostetaan toistamalla sana.
 
 **meme** : me  
 **nini** : te  
 **tata** : he/ne
 
-Lisäksi voidaan tarpeen tullen eritellä kaksi muuta me-muotoa.  
+Lisäksi voidaan tarpeen tullen eritellä kaksi muuta me-muotoa. Sellaisia on tapana käyttää tietyissä kielissä, mutta panduniassa **meme** on yleensä paras vaihtoehto.  
 **nime** : me ja te  
 **tame** : me ilman teitä
 
@@ -91,68 +91,65 @@ Kieltomuoto muodostetaan laittamalla sana **no** verbin eteen.
 **ta no e ban.** - Hän ei ole ystävä.  
 **tata no e ban.** - He eivät ole ystäviä.
 
-Note: In simple and short sentences it is acceptable to leave out **e** altogether.  
-**ta ban.** - He/she, a friend.  
-**ta no ban.** - He/she, not a friend.
+Huom: Lyhyissä lauseissa ei välttämättä tarvita olla-verbiä lainkaan. Sillion sen saa jättää pois.  
+**me tarzan** - Minä, Tarzan.  
+**ta ban.** - Hän, ystävä.  
+**ta no ban.** - Hän, ei ystävä.
 
 
 
 ## Ajan ilmaiseminen
 
-Verbs don't change in Pandunia. The same word is used in the past, the present and the future tenses.
+Panduniassa verbit ovat taipumattomia. Samaa sanaa käytetään kaikissa aikamuodoissa.
 
 **yer den me go restoran i yem bon yem.**
 
-This sentence can be translated in two ways into English. Firstly you can use the past tense: "Yesterday I went to a restaurant and ate a good meal." Secondly you can use the _historical present_ tense: "Yesterday I go to a restaurant and eat a good meal." The latter may be bad style in English – but the meaning is clear!
+Yllä olevan lauseen voi suomentaa kahdella tavalla. Ensimmäinen tapa on käyttää imperfektiä: "Eilen minä menin ravintolaan ja söin hyvää ruokaa." Toinen tapa on käyttää _historiallista preesensiä_: "Eilen minä menen ravintolaan ja syön hyvää ruokaa." Jälkimmäinen tapa kuulostaa omituiselta – mutta lauseen merkitys on yhtä selvä!
 
-It's not necessary to mark verbs for tense and many languages don't do it. It's enough to use a time word, like yesterday, today, tomorrow, now and later, but you don't have to use these words with all the verbs all the time. You use them only when you want to indicate the time.
+Kuten näemme, aikamuotoja ei välttämättä tarvita ja monessa kielessä niitä ei ole olemassakaan. Aikamuotojen sijasta käytetään jotakin aikaa ilmaisevaa sanaa kuten eilen, tänään, huomenna, nyt ja myöhemmin. Näitä sanoja ei kuitenkaan tarvitse käyttää koko ajan. Riittää, kun ajankohta mainitaan kerran alussa ja vain tarpeen tullen.
 
-Here are some useful time words:  
-**yer** - last, previous  
-**jin** - current, present  
-**nex** - next  
-**yer den** - yesterday  
-**jin den** - today  
-**nex den** - tomorrow  
+
+<!--
+## Tavan ilmaiseminen
+-->
 
 
 
-## Prepositions
 
-Pandunia has only four prepositions. All of them have a wide meaning.
+## Prepositiot
 
-**na** : with, at, by, in, on, while  
-**be** : without, out, away  
-**ze** : from, since, because of  
-**do** : to, toward, until, for  
+Panduniassa on vain neljä prepositiota. Koska niitä on niin vähän, niillä on laaja merkitys.
 
-The prepositions can function as verbs by themselves.
+**na** : kanssa, luona, -ssa, -lla, aikana, kun  
+**be** : ilman, poissa  
+**ze** : luota, lähtien, koska, -sta, -lta  
+**do** : luokse, kohti, asti, kunnes, jotta, -lle  
 
-**me na dom.** - I'm at/in/on/by the house.  
-**me do dom.** - I go to/toward the house.  
-**me ze dom.** - I come from the house.  
+Prepositioita voi käyttää yksinään, ilman verbiä.
+
+**me na dom.** - Minä (olen) talossa/talolla.  
+**me do dom.** - Minä (menen) taloon/talolle.  
+**me ze dom.** - Minä (tulen) talosta/talolta.  
 **me be dom.** - I'm away from the house.
 
-But usually you use them to add more information to a sentence that already has another verb.
+Kuitenkin yleensä prepositioita käytetään verbin ohella.
 
-**me yem sup | na camca | na ma i pa | na yem kamar.**  
-I eat soup | with a spoon | with mom and dad | in the dining-room.
+**me yem sup | na camca | na ma | na yem kamar.**  
+Minä syön soppaa | lusikalla | mamman kanssa | ruokahuoneessa.
 
-Note: Exact meaning of the preposition depends on the object of the preposition. Therefore **na** is translated with a different word in phrases like **na camca** (with a spoon) and **na kamar** (in the room).
+Preposition tarkka merkitys riippuu sen kohteesta. Sen vuoksi **na** tarkoittaa eri asiaa lausekkeissa **na camca** (lusikalla) ja **na kamar** (huoneessa).
 
-
-
-
-You don't need prepositions if you speak in short sentences and use a suitable verb.
-
-**ta kat piza. ta yoq caku.** - He cuts the pizza. He uses a knife.
-
-You don't need to repeat the subject if you pause. 
-
-**ta kat piza, yoq caku.** - He cuts the pizza, using a knife.
+Totta puhuen, muihin kieliin verrattuna, pandunian prepositioiden merkitys ei ole poikkeuksellisen laaja. Tarkastellaan vertailun vuoksi sijapäätteen -lla käyttöä: "Hän syö jäätelöä lusikaLLA lattiaLLA illaLLA suureLLA haluLLA." Sama sijamuoto ilmaisee siis välinettä, paikkaa, aikaa ja tapaa. Se on suunnilleen sama kuin preposition **na** käyttöala panduniassa.
 
 
+### Prepositio ja verbi
 
-, but when precision is needed, you can use a number of verbs to indicate the role of the phrase in the sentence.
+Prepositioiden käyttöä voi välttää puhumalla lyhyin lausein.
+
+**ta kat piza. ta yoq caku.** - Hän leikkaa pitsaa. Hän käyttää veistä.
+
+Lauseen subjektin toistamisen sijasta voi pitää pienen tauon.
+
+**ta kat piza, yoq caku.** - Hän leikkaa pitsaa, käyttäen veistä.
 
 
