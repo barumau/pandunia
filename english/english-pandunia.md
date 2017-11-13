@@ -51,6 +51,7 @@
   
   
 ##a  
+ability (skill)   : kene  
 able (capable)   : kabil  
 about (concerning)   : bi tem de  
 accept (to say okay)   : okeya  
@@ -270,7 +271,7 @@ camel   : gamel
 camera   : kamera  
 camp   : kamp  
 camper   : kampar  
-can (be able)   : ken  
+can (know, be able)   : ken  
 can (tin can)   : tin  
 Canada   : kanada  
 candy (sweets)   : kandi  
@@ -463,6 +464,7 @@ diamond   : almas
 die   : martu  
 die (dice)   : dado  
 dig (excavate)   : fosa  
+dining room   : kane kamer  
 dinner   : xam kane  
 disc (disk)   : diske  
 disperse   : jamula  
@@ -846,12 +848,14 @@ king or queen   : raje
 kingdom   : rajia  
 kiosk   : kioske  
 kiss   : bis  
+kitchen   : kuke kamer  
 kiwi fruit   : kiwi  
 knead (give massage)   : masa  
 knee   : janu  
 knife   : caku  
-know   : saba  
-knowledge   : sabe  
+know : jan  
+knowledge   : jane  
+known   : jani  
 kung fu   : gung fu  
 ##l  
 lacquer (varnish)   : laka  
@@ -1685,6 +1689,7 @@ wing   : wing
 wisdom   : sofia  
 wise   : sofi  
 with (by)   : bi  
+without   : be  
 without   : bi no  
 wolf   : beria  
 woman (adult female)   : matur fem  
