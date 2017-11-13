@@ -17,14 +17,14 @@ This grammar deals with the types of words and word order patterns in Pandunia. 
 5. Compound words are made by combining the elements that form them. The main word stands at the end.
     - ex. **poste sanduk** = mailbox
 6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
-    - ex. **me pent meza.** = I paint tables.
+    - ex. **me pent mez.** = I paint tables.
 7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
-    - ex. **meza bei pent.** = The table gets painted.
+    - ex. **mez bei pent.** = The table gets painted.
 8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
     - ex. **me ciq ni da pesa.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
     - **me kia ni bax pandunia?** → **kia ni bax pandunia?** = Do you speak Pandunia?
-    - **me ciq ni loga klar.** →  **ciq loga klar.** = Please speak clearer.
+    - **me ciq ni tok miq.** →  **ciq tok miq.** = Please talk more clearly.
 
 
 
@@ -37,7 +37,7 @@ This grammar deals with the types of words and word order patterns in Pandunia. 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
 > **batu** - a stone, stones, the stone or the stones  
-> **meza** - a table, tables, the table or the tables  
+> **mez** - a table, tables, the table or the tables  
 > **kursi** - a chair, chairs, the chair or the chairs  
 > **su** - water
 
@@ -77,18 +77,18 @@ A modifier is a word that adds some quality or description to the thing denoted 
 An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
 > **dai batu** - big stone
-> **dai meza** - big table  
-> **gau meza** - high table
+> **dai mez** - big table  
+> **gau mez** - high table
 > **bon kursi** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
 > **batu dai.** - The stone is big.  
-> **meza gau.** - The table is high.
+> **mez gau.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **dai meza gau.** - Big table is high.
+> **dai mez gau.** - Big table is high.
 
 
 ### 3.2 Modifying a verb
@@ -97,8 +97,8 @@ An adverb is a word that modifies a verb or another modifier.
 
 In Pandunia an adverb is a modifier that is before a verb or at the end of the sentence.
 
-> **me _bon_ sona.** - I well sleep.  
-> **me sona _bon_.** - I sleep _well_.  
+> **me _bon_ som.** - I well sleep.  
+> **me som _bon_.** - I sleep _well_.  
 > **ni bax pandunia _bon_.** - You speak Pandunia _well_.
 
 ### 3.4 Modifying another modifier
@@ -147,7 +147,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **xaw tara** - few stars
 > **multi tara** - many stars
 
-> **un dai meza** - one big table  
+> **un dai mez** - one big table  
 > **du dai kursi** - two big chairs  
 > **sam bon kursi** - three good chairs
 
@@ -315,7 +315,7 @@ In passive sentence there is only object and verb but no subject (i.e. agent).
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
 > **mau!** - A cat!  
-> **pluva!** - (It) rains!  
+> **ren!** - (It) rains!  
 
 
 ### 8.2. Stative Sentences
@@ -326,13 +326,13 @@ Observations are the simplest sentence type. They may consist of only one word, 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
 
 > **me bon.** - I am good.  
-> **ta nowi.** - It is new.  
+> **ta xin.** - It is new.  
 > **ta sara.** - She is Sara.  
 
 The word **no** is added to form the negative.
 
 > **me no bon.** - I'm not good.  
-> **ta no nowi.** - It's not new.  
+> **ta no xin.** - It's not new.  
 > **ta no sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
@@ -346,8 +346,8 @@ When the subject is a noun, the word **ta** (yes) is added before the predicate 
 
 > **sara ta bon.** - Sara is good.  
 > **batu ta dai.** - The stone is big.  
-> **meza ta nowi.** - The table is new.  
-> **meza no law.** - The table is not old.
+> **mez ta xin.** - The table is new.  
+> **mez no law.** - The table is not old.
 
 
 #### 8.2.3. With adjective subject
@@ -355,7 +355,7 @@ When the subject is a noun, the word **ta** (yes) is added before the predicate 
 The same rule applies also for two adjectives.
 
 > **jowan e sundar.** - Young is beautiful.  
-> **nowi no purani.** - New is not old.  
+> **xin no purani.** - New is not old.  
 
 #### 8.2.4. To be
 
@@ -445,9 +445,9 @@ In the example above, **me wol** has **ni** as its object. At the same time, **n
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
-1. **me enda dom.** - I go home.  
-2. **me ken enda dom.** - I can go home.  
-3. **me wol ken enda dom.** - I want to be able to go home. (Lit. _I want can go home_!)
+1. **me enda jia.** - I go home.  
+2. **me ken enda jia.** - I can go home.  
+3. **me wol ken enda jia.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
 ### 8.8. Pronoun dropping
@@ -461,8 +461,8 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 #### 8.8.3. Short pivot structure (VVO)
 
-> **me ciq ni lay dom.** - I ask you to come home.  
-> **ciq lay dom!** - Please come home! (Literally: _Request come home!_)
+> **me ciq ni lai jia.** - I ask you to come home.  
+> **ciq lai jia!** - Please come home! (Literally: _Request come home!_)
 
 
 
@@ -480,14 +480,14 @@ Particle **ta** is affirmative and **no** is negative. **ta** affirms the existe
 Expressions are affirmative by default, so the word **ta** is not always necessary. However it is especially convenient in expressions of state.
 
 > **me e yan.** - I am a person.  
-> **ta e nowi meza.** - It is a new table.
+> **ta e xin mez.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
 > **me no yan.** - I'm not a person.  
-> **ta no nowi meza.** - It's not a new table.
+> **ta no xin mez.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -609,7 +609,7 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **me lay dom.** - I come home.  
+> **me lai jia.** - I come home.  
 > **ni sit kursi.** - You sit (on) the chair.  
 > **ta lala sofa.** - S/he lies (on) the sofa.  
 > **maci nata daria.** - Fish swim (in) the sea.  
@@ -654,15 +654,15 @@ Many of these expressions are very useful.
 **na pice ya** - at the back of  
 **na picu** - behind  
 
-**ta lay na picu me.** - He comes behind me.  
-**ta lay na fola me.** - He comes after me.  
+**ta lai na picu me.** - He comes behind me.  
+**ta lai na fola me.** - He comes after me.  
 
 
 
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **me deq ze ni enda.** - I have waited since you left.  
-> **me deq to ni lay dom.** - I wait until you come home.  
+> **me deq to ni lai jia.** - I wait until you come home.  
 > **me deq na ni son.** - I wait while you sleep.  
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **ya**_.
@@ -672,13 +672,13 @@ More precise expressions of place and time are expressed with _a preposition + a
 > **na lok ya** - at the place of  
 > **me deq na lok ya ni enda.** - I wait at the place where you left.  
 > **na xia ya** - under, below  
-> **un waf lala na xia ya meza.** - A dog lies under the table.  
+> **un waf lala na xia ya mez.** - A dog lies under the table.  
 > **na fas ya** - on the surface of  
-> **un mau lala na fas ya meza.** - A cat lies on the table.
+> **un mau lala na fas ya mez.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
 
-> **un mau lala na meza fas.** - A cat lies at the tabletop.
+> **un mau lala na mez fas.** - A cat lies at the tabletop.
 
 
 ### 10.2. Preposition of relation
@@ -711,80 +711,16 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 ## 11. Word Building
 
-It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of hem come from ancient Greek, Latin, Arabic and Persian.
+### 11.1. General
 
-### 11.1. Part of speech markers
+It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of them come from ancient Greek, Latin, Arabic and Persian.
 
-Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from action-roots and description-roots. Some adjectives are also derived from thing-roots. Pronouns, conjuctions, numerals and particles are outside of the word derivation system.
-
-Pandunia uses the following vowel endings to mark parts of speech.
-
-- **a** marks verbs for subject-verb-object word order (SVO)
-- **u** marks verbs for object-verb-subject word order (OVS)
-- **i** marks adjectives i.e. modifiers of nouns
-- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
-- **e** marks nouns that are derived from action roots and description roots
-
-The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending. Here are some examples.
-
-**loga** - to speak (active verb)  
-**logu** - to be spoken (passive verb)  
-**logi** - spoken, wordy (adjective)  
-**loge** or **log** - speech, word(s) (noun)  
-
-**kitaba** - to write (active verb)  
-**kitabu** - to be written (passive verb)  
-**kitabi** - written, textual (adjective)  
-**kitabe** or **kitab** - writing, text (noun)  
-
-**nowi** or **now** - new (adjective)  
-**nowa** - to make new (active verb)  
-**nowu** - to become new (passive verb)  
-**nowe** - novelty, new thing (noun)  
-
-There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
-
-**haba** - to have (active verb)  
-**habu** - to belong (passive verb)  
-**habe** - that what is had (noun)  
-
-**mus** or **musu** - to must, to be compelled (passive verb)  
-**musa** - to compel (active verb)  
-**musi** - compulsory, obligatory  
+Pandunia doesn't have _part of speech_ marking per se.
 
 
-#### 11.1.2. Deriving verbs
+#### 11.2. Adjective suffix -i
 
-Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
-
-1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **si** = "to look".
-2. If the root is a description, like **now-** (**nowi** = new), then its verbal form will mean "to turn into that quality". For example from **nowi** = "new" we get **nowa** = "to make new" or "to renew".
-
-
-#### 11.1.3. Deriving nouns
-
-**-e** is the marker of nouns. It means the result of the process. So **loge** means the _speech_ that results from the act of speaking. Quite often **-e** is left out and so **log** would mean the same thing as **loge**.
-
-If the root word is an action, then its noun form will mean the product of the action. For example from **kitab-** = "to write" we get **kitabe** = "writing" or "text".
-
-If the root word is a description, then its noun form will mean a concrete instance of that quality. For example from **now-** = "new" we get **nowe** = "a novelty" i.e. something new.
-
-Additional noun suffixes are presented below.
-
-
-#### 11.1.4. Deriving modifiers
-
-**-i** is the marker of adjective and adjectival verb (i.e. static verb). It is the all-purpose adjective suffix.
-
-For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**.
-
-Words that are adjectives _by birth_ don't need the ending. That's why for example **bon** (good) and **sundar** (beautiful) don't end in -i.
-
-If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **now-** = quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
-
-If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
-
-If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
+**-i** is the all-purpose adjective suffix. It means something that is charasteristic of the root word to which it is attached.
 
 If the root is a place word, then it's adjectival form will mean "that which is from that place".
 
@@ -794,39 +730,30 @@ If the root is a place word, then it's adjectival form will mean "that which is 
 **europa** Europe, **europai** European  
 **asia** Asia, **asiai** Asian
 
-#### 11.1.5. Words without an ending
+If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
 
-1. When a thing-root serves as a noun, it doesn't need the noun ending.
-2. When a description-root serves as an adjective, it doesn't need the adjective ending.
-3. When an action-root serves as a verb, it doesn't always need the verb ending. (*)
+**min** less, **mini** lesser, mini-  
+**minim** least, **minimi** minimal  
 
-|                  | Noun        | Adjective   | Verb        |
-|:-----------------|:------------|:------------|:------------|
-| Thing-root       | **manux**   | manuxi      | -           |
-| Description-root | bone        | **bon**     | bona        |
-| Action-root      | wole        | woli        | **wol**     |
-
-Note! Pandunia doesn't follow the rule about action-roots because we think that normally it is more useful to mark verbs than nouns. So an action-root like **kitab** (writing) gives two verbs, **kitaba** and **kitabu** – but the plain root, **kitab**, is used as a noun!
+If the root is an action, then its adjectival form will mean something related to the action. For example from **bax** = "to communicate by language" we get **baxi** = "communicative, linguistic".
 
 
-### 11.2. Derivational Suffixes
-
-#### 11.2.1. -ar
+#### 11.3. -er
 
 Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
 
-**loga** to speak; **logar** speaker, the one who speaks  
-**baka** to bake; **bakar** baker, the one who bakes  
-**lida** to lead; **lidar** leader, the one who leads  
-**komputa** to compute, to process data; **komputar** computer  
-**marta** to kill; **martar** killer  
+**tok** to speak; **toker** speaker, the one who speaks  
+**bak** to bake; **baker** baker, the one who bakes  
+**lid** to lead; **lider** leader, the one who leads  
+**komput** to compute, to process data; **komputer** computer
 
-#### 11.2.2. -ur
+
+#### 11.2.2. -at
 
 Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
 
-**kriata** to create; **kriatur** creature, the one who is created  
-**marta** to kill; **martur** the one who gets killed; by extension: a martyr  
+**tok** to speak; **tokat** spoken, speech  
+
 
 #### 11.2.3. -ia
 
@@ -834,7 +761,7 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 
 **manux** human being; **manuxia** humanity, mankind, all the human beings as a group.  
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
+**filsof** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
 
 This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
@@ -845,30 +772,14 @@ This ending is often found in place names, especially in country names. However 
 **indonesia** Indonesia  
 **italia** Italy  
 
-Also abstract nouns often end in **-ia**.
-
-**nowi** new, **nowia** newness, novelty  
-
-
-#### 11.2.6. -il-
-
-
 
 #### 11.2.7. -is-
 
-Causative suffix.
+Causative suffix for verbs.
 
-**saba** to know  
-**sabisa** to make known, to inform  
-**nota** to note  
-**notisa** to notify  
+**jan** to know; **janis** to make known, to inform  
+**not** to note; **notis** to notify  
 
-#### 11.2.8. -ul-
-
-Creates verbs that reverse the meaning of the base verb.
-
-**liga** to tie; **ligula** to untie  
-**ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
 
 
 
@@ -894,48 +805,6 @@ The constituent, which is further away from the verb, can be left out. So for ex
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **me si yan, jo ni suku.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
 
-### 12.2. Relations between the endings
-
-A root is an idea that has many faces: a thing, a state, an action and a transition.
-
-- E-word names a thing whose defining characteristic (in the given context) is the root.
-- I-word describes another word by the root. The thing named by the other word is in the state of the root.
-- A-word is an action that produces a thing that is characterized by the root. In other words, A-word produces the E-word.
-- U-word is a transition that leads to the state of the root.
-
-It makes always sense to apply the following formulas for a root that is an action.
-
-1. Description: -i -e
-    - **kitabi kitabe.** - Written writing.
-    - **dansi danse.** - Danced dance.
-    - **soni sone.** - Sleepy sleep.
-    - **rangi range.** - Colored color.
-2. Production: -a -e
-    - **kitaba kitabe.** - To write a writing.
-    - **dansa danse.** - To dance a dance.
-    - **sona sone.** - To sleep a sleep.
-    - **ranga range.** - To color a color.
-3. Transition: -e -u
-    - **kitabe kitabu.** - Writing gets written.
-    - **danse dansu.** - Dance gets danced.
-    - **sone sonu.** - Sleep gets slept.
-    - **range rangu** - Color gets colored.
-
-They are not very interesting things to be said, but they are true. Normally production and transition formulas are applied to other roots that belong to the same category as the original word. For example, we write different kinds of writings, including letters, books and novels, and we dance different kinds of dances, including tango, samba and polka.
-
-The same formulas can be applied to roots that describe a state.
-
-1. Description: -i -e
-    - **nowi nowe.** - New news.
-    - **longi longe** - Long length.
-2. Production: -a -e
-    - **nowa nowe.** - To renew the new.
-    - **longa longe.** - To lengthen the length.
-3. Transition: -e -u
-    - **nowe nowu.** - The new get renewed.
-    - **longe longu.** - The length gets lengthened.
-
-Description formula still gives meaningful (though obvious) phrases. Production and transition formulas work better for gradual descriptions (like "length") than for binary descriptions (like "new"). When something is already new, it can't be made new. But when something is already long, it can be made even longer.
 
 
 

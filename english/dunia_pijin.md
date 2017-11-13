@@ -88,10 +88,10 @@ Pandunia's consonant inventory is smaller than that of English and Mandarin. Maj
 
 |            | Pandunia    | English       | Mandarin      |
 |------------|-------------|---------------|---------------|
-| Nasals     | m n ng      | m n ng        | m n ng        |
+| Nasals     | m n q       | m n ng        | m n ng        |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g   |
 | Liquids    | l r y w     | l r y w       | l r y w (yü)  |
-| Sibilants  | s z x       | s z sh (zh)   | s z* sh       |
+| Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)   |
 | Fricatives | f h         | f h (v th dh) | f h           |
 | Affricates | c j         | ch j          | ch zh (q j c) |
 
@@ -112,15 +112,15 @@ English doesn't have word tones but it has word stress. Word stress is variable 
 
 Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi vól lóga supér dúnia báca.**
+Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **me wól lóga supér dúnia báca.**
 
-Pandunia doesn't have word tone.
+Pandunia doesn't have lexical tone.
 
 ## Simple word structure
 
 Mandarin has only a few final consonants: -n, -ng and -r. Other final consonants are foreign and more or less difficult for native Mandarin speakers.
 
-Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also sibilants -s and -x.
+Besides the nasal finals -m, -n and -q, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also sibilants -s and -x.
 
 
 
@@ -129,18 +129,18 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
 
-The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **tu** is from Spanish and other Indo-European languages. The third person pronoun **ye** is from Bantu languages of Africa and also Hindi and Urdu of India. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is from Standard Chinese.
+The basic personal pronouns of Pandunia are: **me** = I, **ni** = you, **ta** = he, she. The first person pronoun **me** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **ni** is from Mandarin and the Dravidian languages. The third person pronoun **ta** is from Mandarin. It refers to both male and female persons as well as inanimate objects. The plural forms are reduplications of the singular.
 
 The plural pronouns follow the pattern of Standard Chinese.
 
 | English | Pandunia | Chinese |
 |---------|----------|---------|
-| I       | mi       | wǒ      |
-| you     | tu       | nǐ      |
-| he/she  | ye       | tā      |
-| we      | mimen    | wǒmen   |
-| you     | tumen    | nǐmen   |
-| they    | yemen    | tāmen   |
+| I       | me       | wǒ      |
+| you     | ni       | nǐ      |
+| he/she  | ta       | tā      |
+| we      | meme     | wǒmen   |
+| you all | nini     | nǐmen   |
+| they    | tata     | tāmen   |
 
 
 ## Easy sentences
@@ -148,35 +148,35 @@ The plural pronouns follow the pattern of Standard Chinese.
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi romansa tu, tu romansa mi.
+    Pandunia:  me ai ni, ni ai me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bei kana.
+    Pandunia:  apel bei yem.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no ken bei kana.
+    Pandunia:  ta no ken bei yem.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ye kana kafe.
+    Pandunia:  me ciq ta yem kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **e**, is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ye si pingo.
+    Pandunia:  ta e apel.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemen si pingo.
+    Pandunia:  tata e apel.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 

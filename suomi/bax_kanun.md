@@ -20,7 +20,7 @@ Perussäännöt
     - esim. **me ciq ni da pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me kia ni bax pandunia?** → **kia ni bax pandunia?** = Osaatko sinä panduniaa?
-    - **me ciq ni loga miq.** →  **ciq loga miq.** = Pyydän, puhu selvästi.
+    - **me ciq ni tok miq.** →  **ciq tok miq.** = Pyydän, puhu selvästi.
 
 
 
