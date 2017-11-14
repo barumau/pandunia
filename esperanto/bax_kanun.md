@@ -261,7 +261,7 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 > ze - **el**, de (deiro), post / post kiam, ĉar  
 > na - **kun**, je, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
-> ko - **al**, por, antaŭ / antaŭ ol, ĝis  
+> to - **al**, por, antaŭ / antaŭ ol, ĝis  
 > be - **sen**  
 > du - de, da  
 
@@ -301,28 +301,28 @@ Post prepozicio, oni povas aldoni substantivon kaj _du_. Oni tiel povas rekonstr
 > en (loko) : na / na in du  
 > inter (pozicio) : na / na inter du x i x  
 > inter (elektoebloj) : un ze x i x i x   
-> kontraŭ (malfavore al) : ko (ye) no mede x  
-> malpost (tempo) : ko / na ante du  
+> kontraŭ (malfavore al) : to (ye) no mede x  
+> malpost (tempo) : to / na ante du  
 > post (tempo) : ze / na bada du   
 > sub (loko) : na xia du  
 > super (loko) : na xiaul du  
 > sur (loko) : na / na par du  
 > tra (loko) : na krus du  
-> al (destino) : ko   
+> al (destino) : to   
 > el (fonto) : ze / na asle du  
-> ĝis (limo de ago) : ko / ko limit du / na limit du  
+> ĝis (limo de ago) : to / to limit du / na limit du  
 > anstataŭ : na vis du  
 > dum (daŭro) : na / na dur du  
 > krom (aldono) : na maxe du  
 > krom (escepto) : na mine du  
 > kun (kunago) : na / na grup du  
 > laŭ (direkto/instrukcioj) : na / na cinge du / na forme du  
-> laŭ (vidpunkto) : na / na vide du  
+> laŭ (vidpunkto) : na / na wide du  
 > malgraŭ : na / na sabe du  
 > per (ilo) : na / na tul du  
 > per (maniero) : na / na tul du  
-> por (celo) : ko / ko (mi) mede x / na gol du  
-> por (profitanto) : ko  
+> por (celo) : to / to (mi) mede x / na gol du  
+> por (profitanto) : to  
 > por (bazo de taksado) : na yang du  
 > pri (temo) : na tem du   
 > pro (kialo) : ze / ze koz du / na koz du  
@@ -677,8 +677,8 @@ Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas
 
 Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
 
-> **mi musik audi.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)     
-> **mi tu vidu.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
+> **mi musik audu.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)     
+> **mi tu widu.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
 
 La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo, tiel ke nur restu objekto kaj verbo.
 
