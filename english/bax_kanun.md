@@ -154,7 +154,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 Ordinal numbers come after the word that they modify.
 
 > **fen un** - the first part (part one)
-> **fen du** - the second part (part two)
+> **fen do** - the second part (part two)
 > **fen sam** - the third part (part three)
 
 The basic number words are:
@@ -178,7 +178,7 @@ Greater numbers are simply made by putting one digit after another – exactly l
 - 13 **un sam**
 - 20 **do nul**
 - 21 **do un**
-- 22 **do du**
+- 22 **do do**
 - 100 **un nul nul** or **hon**
 - 101 **un nul un** or **hon un**
 - 200 **do nul nul** or **do hon**

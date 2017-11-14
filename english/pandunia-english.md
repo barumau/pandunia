@@ -299,6 +299,9 @@ doma [a] live (dwell, reside)
 dominika [e] Dominican Republic  
 domino [e] dominoes  
 dong [e] east  
+doste [e] friend  
+dosti [i] friendly  
+dostia [e] friendship  
 dou [e] bean or pea (legume)  
 dox [e] fault (guilt)  
 doze [e] portion (dose)  
@@ -1168,7 +1171,6 @@ panduniai [i] global
 pang [i] thick (fat)  
 panik [e] panic  
 pantalon [e] pants (trousers)  
-panyo [e] friend  
 papa [e] father (dad)  
 papagai [e] parrot (parakeet)  
 papaya [e] papaya  

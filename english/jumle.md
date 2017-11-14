@@ -30,7 +30,7 @@ Part 1: Greeting and basics
 
 **kane salam!** Bon appetit!
 
-**lay salam!** Welcome!
+**laye salam!** Welcome!
 
 **ende salam!** Goodbye!
 

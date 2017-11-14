@@ -72,19 +72,19 @@ Modifovortoj (adjektivoj/adverboj)
 
 _Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En pandunio, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
 
-> **dai batu** - granda ŝtono  
+> **day batu** - granda ŝtono  
 > **cung batu** - peza ŝtono  
-> **dai meza** - granda tablo  
-> **gau meza** - alta tablo  
+> **day meza** - granda tablo  
+> **gaw meza** - alta tablo  
 
 Kiam Modifovorto sekvas Esencovorton, ĝi rolas kvazaŭ verbo, kiu indikas staton. Tio estas, kiel adjektivaj verboj en Esperanto.
 
-> **batu dai.** - La ŝtono grandas.  
-> **meza gau.** - La tablo altas.  
+> **batu day.** - La ŝtono grandas.  
+> **meza gaw.** - La tablo altas.  
 
 Kompreneble, eblas ke Modifovortoj aperu je ambaŭ flankoj de Esencovorto.
 
-> **dai meza gau.** - La granda tablo altas.
+> **day meza gaw.** - La granda tablo altas.
 
 
 
@@ -96,21 +96,21 @@ Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekze
 Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
 > **un tara** - unu stelo  
-> **dua tara** - du steloj  
+> **do tara** - du steloj  
 > **sam tara** - tri steloj  
-> **xau tara** - kelkaj steloj  
+> **xaw tara** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
 > **fen un** - la unua parto  
-> **fen dua** - la dua parto  
+> **fen do** - la dua parto  
 > **fen sam** - la tria parto  
 
 Jen la ĉefaj nombroj:
 
 - 0 **nul**
 - 1 **un**
-- 2 **dua**
+- 2 **do**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -123,14 +123,14 @@ Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la 
 
 - 10 **un nul** aŭ **des**
 - 11 **un un**
-- 12 **un dua**
+- 12 **un do**
 - 13 **un sam**
-- 20 **dua nul**
-- 21 **dua un**
-- 22 **dua dua**
+- 20 **do nul**
+- 21 **do un**
+- 22 **do do**
 - 100 **un nul nul** aŭ **hon**
 - 101 **un nul un** aŭ **hon un**
-- 200 **dua nul nul** aŭ **dua hon**
+- 200 **do nul nul** aŭ **do hon**
 
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.
@@ -165,8 +165,8 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
 Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vida se** - Mi vidas min.  
-**ye vida se** - Ŝi vidas sin.  
+**mi wida se** - Mi vidas min.  
+**ye wida se** - Ŝi vidas sin.  
 
 
 ### Montrovorto
@@ -192,8 +192,8 @@ Montrovortoj povas roli kiel Modifovortoj.
 **Ke** estas la ĝenerala demandovorto en pandunio. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
 > **ke?** - Kiu?/Kio?  
-> **ke ting?** - Kio? (Kiu afero?)  
-> **ke jen?** - Kiu? (Kiu persono?)  
+> **ke xe?** - Kio? (Kiu afero?)  
+> **ke yan?** - Kiu? (Kiu persono?)  
 > **ke sat?** - Kiam? (Kiu tempo?)  
 > **ke yang?** - Kiel? (Kiu maniero?)  
 > **ke koz?** - Kial? (Kiu kaŭzo?)
@@ -223,14 +223,14 @@ Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per
 
 > **ye si mi.** - Ĝi estas mi.  
 > **sa si batu.** - Tio estas ŝtono.  
-> **batu si ting.** - Ŝtono estas aĵo.  
-> **jovan si sundar.** - Juna estas bela.
+> **batu si day.** - Ŝtono estas granda.  
+> **jowan si sundar.** - Juna estas bela.
 
 Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ya**.
 
 > **mi no tu.** - Mi ne estas vi.  
 > **batu no hewan.** Ŝtono ne estas animalo.  
-> **jovan no sundar.** - Juna ne estas bela.  
+> **jowan no sundar.** - Juna ne estas bela.  
 
 
 Aga predikato
@@ -240,9 +240,9 @@ En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pa
 
 Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba.
 
-> **mi yem pingo.** - Mi manĝas pomojn.  
-> **mi audi musik.** - Mi aŭdas muzikon.  
-> **mi vida tu.** - Mi vidas vin.
+> **mi kana pingo.** - Mi manĝas pomojn.  
+> **mi auda musik.** - Mi aŭdas muzikon.  
+> **mi wida tu.** - Mi vidas vin.
 
 Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
 
@@ -251,12 +251,12 @@ Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vorto
 
 La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo, tiel ke nur restu objekto kaj verbo.
 
-> **tu vidu.** - Vi vidiĝas.  
-> **musik audi.** - Muziko aŭdiĝas.  
+> **tu widu.** - Vi vidiĝas.  
+> **musik audu.** - Muziko aŭdiĝas.  
 Sed ofte oni uzas la helpantan verbon **bei** por la pasiva senco.
 
-> **tu bei vida.** - Vi estas vidata.  
-> **musik bei audi.** - Muziko estas aŭdata.
+> **tu bei wida.** - Vi estas vidata.  
+> **musik bei auda.** - Muziko estas aŭdata.
 
 
 
@@ -265,10 +265,10 @@ Verboĉenoj
 
 En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la objekto de la unua verbo.
 
-1. **mi go dom.** - Mi iras hejmen.  
-2. **mi ken go dom.** - Mi povas iri hejmen.  
-3. **mi vol ken go dom.** - Mi volas povi iri hejmen.  
-4. **mi mus go dom.** - Mi devas iri hejmen.
+1. **mi enda dom.** - Mi iras hejmen.  
+2. **mi ken enda dom.** - Mi povas iri hejmen.  
+3. **mi wol ken enda dom.** - Mi volas povi iri hejmen.  
+4. **mi mus enda dom.** - Mi devas iri hejmen.
 
 
 
@@ -279,25 +279,25 @@ La ĉarnira konstruo estas tre grava konstruo en pandunio. Ĝi estas ankaŭ la b
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
-> **ye cing _mi_ go dom.** - Ĝi petas min iri hejmen.  
-> **ye les _mi_ go dom.** - Ĝi lasas min iri hejmen.  
-> **ye mus _mi_ go dom.** - Li devigas min iri hejmen.
+> **ye cing _mi_ enda dom.** - Ĝi petas min iri hejmen.  
+> **ye les _mi_ enda dom.** - Ĝi lasas min iri hejmen.  
+> **ye mus _mi_ enda dom.** - Li devigas min iri hejmen.
 
 La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subjekto, ĉar ĝi estas memkomprenebla en la kunteksto.
 
-> **mi kia tu go dom.** - Mi demandas (ĉu) vi iris hejmen.  
-> **kia tu go dom?** - Ĉu vi iris hejmen?
+> **mi kia tu enda dom.** - Mi demandas (ĉu) vi iris hejmen.  
+> **kia tu enda dom?** - Ĉu vi iris hejmen?
 
 Ĉi tiu estas tipa formo de klaso da frazoj, kiuj montras rilaton aŭ vidpunkton de la parolanto al kion li parolas.
 
-> Demando: **kia ye go dom?** - Mi demandas ke...  
-> Kredo: **cin ye go dom.** - Mi kredas ke...  
-> Dubo: **cak ye go dom.** - Mi dubas ke...  
+> Demando: **kia ye enda dom?** - Mi demandas ke...  
+> Kredo: **xin ye enda dom.** - Mi kredas ke...  
+> Dubo: **xak ye enda dom.** - Mi dubas ke...  
 
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
-> **mi cing tu go dom.** - Mi petas vin iri hejmen.  
-> **cing go dom.** - Bonvolu iri hejmen.
+> **mi cing tu enda dom.** - Mi petas vin iri hejmen.  
+> **cing enda dom.** - Bonvolu iri hejmen.
 
 
 
@@ -322,7 +322,7 @@ La partikulo **du** estas uzata en kontraŭa ordo: unue la determinato, meze la 
 > **jovan mama da dom** - domo de juna patrino  
 > **batu da cung** - pezo de ŝtono
 
-> **dom du jovan mama** - domo de juna patrino  
+> **dom du jowan mama** - domo de juna patrino  
 > **cung du batu** - pezo de ŝtono
 
 
@@ -332,31 +332,31 @@ La determinaj partikuloj esprimas posedon inter alia. La partikulo **da** estas 
 
 
 > **maria da mama** - Maria panjo    
-> **mi da bet** - mia domo    
-> **mi da papa da bet** - mia patra domo
+> **mi da dom** - mia domo    
+> **mi da papa da dom** - mia patra domo
 
 **Du** funkcias kiel esperanta "de".
 
 > **mama du maria** - panjo de Maria
-> **bet du mi** - domo mia  
+> **dom du mi** - domo mia  
 > **bet du papa du mi** - domo de patro mia
 
 ### Adjektivaj frazoj
 
 Normalle la adjectivo estas antaŭ la substantivo en pandunio. Oni povas meti ĝin post substantive per helpo de **du**.
 
-> **nov bet** - nova domo  
-> **bet du nov** - domo nova
+> **nowi dom** - nova domo  
+> **dom du nowi** - domo nova
 
 Oni povas krei pli kompleksajn adjektivojn per helpo de la determinaj partikuloj.
 
 > **roza rang da lab** - rozkoloraj lipoj  
-> **sama rang da mat** - cielkoloraj okuloj
+> **saman rang da yen** - cielkoloraj okuloj
 
 Kaj en la kontraŭa ordo:
 
 > **lab du roza rang** - lipoj rozkoloraj  
-> **mat du sama rang** - okuloj cielkoloraj
+> **yen du saman rang** - okuloj cielkoloraj
 
 ### Relativa frazo
 
@@ -364,16 +364,16 @@ Oni kreas ankaŭ relativajn frazojn per la determinajn partikulojn.
 
 Jen **du** funkcias kiel esperanta "kiu".
 
-> **ye si man _du mi vida_.** - Li estas viro, _kiun mi vidis_.
+> **ye si man _du mi wida_.** - Li estas viro, _kiun mi vidis_.
 
 Ankaŭ eblas uzi partikulon **da**. Oni ne povas esperantigi ĝin laŭvorte.
 
-**ye si _mi vida da_ man.** - *Li estas _mividita_ viro.
+**ye si _mi wida da_ man.** - *Li estas _mividita_ viro.
 
 Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
 
-> **mi vida man _du yem pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
-> **mi vida _yem pingo da_ man.** - *Mi vidas _pommanĝantan_ viron.
+> **mi wida man _du kana pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
+> **mi wida kana pingo da_ man.** - *Mi vidas _pommanĝantan_ viron.
 
 
 Modalaj partikuloj
@@ -385,16 +385,16 @@ En pandunio, modala partikulo modifas la sekvantan vorton. Se la partikulo estas
 
 Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
 
-> **ye yem bir plus.** - Li trinkas bieron, _ankaŭ_.  
-> **ye yem plus bir.** - Li trinkas _ankaŭ bieron_.  
-> **ye plus yem bir.** - Li _ankaŭ trinkas_ bieron.  
-> **plus ye yem bir.** - _Ankaŭ li_ trinkas bieron.
+> **ye kana bir plus.** - Li trinkas bieron, _ankaŭ_.  
+> **ye kana plus bir.** - Li trinkas _ankaŭ bieron_.  
+> **ye plus kana bir.** - Li _ankaŭ trinkas_ bieron.  
+> **plus ye kana bir.** - _Ankaŭ li_ trinkas bieron.
 
 Notu! Ankaŭ adjektivoj povas modifi aŭ unu vorton aŭ la tutan frazon.
 
-> **mi bon kitab buk.** - Mi bone skribas librojn.  
-> **mi kitab bon buk.** - Mi skribas bonajn librojn.  
-> **mi kitab buk bon.** - Mi skribas librojn bone.  
+> **mi bon kitaba buk.** - Mi bone skribas librojn.  
+> **mi kitaba bon buk.** - Mi skribas bonajn librojn.  
+> **mi kitaba buk bon.** - Mi skribas librojn bone.  
 
 Sed modalaj partikuloj povas modifi ĉiu tipo de vorto. Adjektivoj ne povas modifi pronomojn kaj nombrovortojn.
 

@@ -15,9 +15,9 @@
 
 **noce salam!** Bonan nokton!
 
-**yem salam!** Bonan apetiton!
+**kane salam!** Bonan apetiton!
 
-**lay salam!** Bonvenon!
+**laye salam!** Bonvenon!
 
 **ende salam!** Ĝis!
 
@@ -225,38 +225,38 @@
 ## 2a parto: Manĝado
 
 
-### yem <small>manĝi, trinki</small>
+### kana <small>manĝi, trinki</small>
 
-**kia tu wol yem koi?** Ĉu vi volas manĝi ion?
+**kia tu wol kana yo?** Ĉu vi volas manĝi ion?
 
-**ye yem pingo.** Li/ŝi manĝas pomon.
+**ye kana pingo.** Li/ŝi manĝas pomon.
 
-**yemen yem pingo.** Ili manĝas pomojn.
+**yemen kana pingo.** Ili manĝas pomojn.
 
 > Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **pingo** indikas unu aŭ multajn pomojn.
 
-**kia tu yem kafe?** Ĉu vi trinkas kafon?
+**kia tu kana kafe?** Ĉu vi trinkas kafon?
 
-**mi yem kafe.** Mi trinkas kafon.
+**mi kana kafe.** Mi trinkas kafon.
 
 > Notu! Signifo de **yem** kovras manĝadon kaj trinkadon.
 
-**mi yem kafe i pan.** Mi manĝas kafon kaj panon.
+**mi kana kafe i pan.** Mi manĝas kafon kaj panon.
 
 
 
 ### wol <small>voli</small>
 
-**kia tu wol yem?** Ĉu vi volas manĝi?
+**kia tu wol kana?** Ĉu vi volas manĝi?
 
 **tu wol yem ke?** Kion vi volas manĝi?
 
 > Notu! En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**mi wol yem kafe.** Mi volas trinki kafon.
+**mi wol kana kafe.** Mi volas trinki kafon.
 
-**kia tu wol yem ca?** Ĉu vi volas trinki teon?  
-**no. mi no wol ca. mi vol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
+**kia tu wol kana ca?** Ĉu vi volas trinki teon?  
+**no. mi no wol ca. mi wol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu wol ke pingo?** Kiun pomon vi volas manĝi?  
 **sa ros.** Tiun ruĝan.
@@ -265,7 +265,7 @@
 
 ### cing <small>peti</small>
 
-**mi cing tu yem ca.** Mi petas ke vi trinku teon.
+**mi cing tu kana ca.** Mi petas ke vi trinku teon.
 
 **mi cing tu lay dom.** Mi petas ke vi venu hejmen.
 
@@ -273,9 +273,9 @@
 
 > Notu! Faru mallongajn petojn forlasante la pronomojn.
 
-**cing yem ca.** Bonvolu trinki teon!
+**cing kana ca.** Bonvolu trinki teon!
 
-**cing yem kafe.** Bonvolu trinki kafon!
+**cing kana kafe.** Bonvolu trinki kafon!
 
 **cing lay dom.** Bonvolu veni hejmen!
 
@@ -301,9 +301,9 @@
 
 ### haida <small>ni faru</small>
 
-**haida yem!** Ni manĝu!
+**haida kana!** Ni manĝu!
 
-**haida enda yem!** Ni iru manĝi!
+**haida enda kana!** Ni iru manĝi!
 
 **haida enda dom.** Ni iru hejmen.
 
@@ -313,9 +313,9 @@
 
 **mi nida mede.** Mi bezonas helpon.
 
-**mi nida yem.** Mi bezonas manĝi.
+**mi nida kana.** Mi bezonas manĝi.
 
-**kia tu nida yem?** Ĉu vi bezonas manĝi?
+**kia tu nida kana?** Ĉu vi bezonas manĝi?
 
 **kia tu nida su?** Ĉu vi bezonas trinki (akvon)?
 
@@ -373,13 +373,13 @@
 
 **tu loga ke?** Kion vi diris?
 
-**mi loga ko tu.** Mi parolas al vi.
+**mi loga to tu.** Mi parolas al vi.
 
-**mimen loga ko alise.** Ni parolas unu al alia.
+**mimen loga to alise.** Ni parolas unu al alia.
 
-**se loga ke yang bi pandunia ki "kato"?** Kiel oni diras "kato" pandunie?
+**se loga "kato" na ke yang na pandunia?** Kiel oni diras "kato" pandunie?
 
-**"kato" si ke bi pandunia?** Kio estas "kato" pandunie?
+**"kato" si ke na pandunia?** Kio estas "kato" pandunie?
 
 **mau loga miau.** Kato diras miaŭ.
 
@@ -472,9 +472,9 @@
 
 ### safara <small>vojaĝi</small>
 
-**kia tu safara bi tren?** Ĉu vi vojaĝas per vagonaro?
+**kia tu safara na tren?** Ĉu vi vojaĝas per vagonaro?
 
-**mimen safara ze london ko paris.** Ni vojaĝas el Londono al Parizo.
+**mimen safara ze london to paris.** Ni vojaĝas el Londono al Parizo.
 
 **safar cok long.** La vojaĝo estas tre longa.
 
