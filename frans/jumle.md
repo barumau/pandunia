@@ -177,7 +177,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 **mi wol haba nowi fon.** Je veux un nouveau téléphone.
 
 **kia tu haba ban?** As-tu des enfants ?  
-**mi haba du ban.** J’ai deux enfants.
+**mi haba do ban.** J’ai deux enfants.
 
 
 
