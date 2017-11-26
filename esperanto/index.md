@@ -14,6 +14,8 @@ La ĉefaj trajtoj de pandunio estas:
 - simpla skribo
 - facile lernebla gramatiko, kiu estas tre konciza
 
+Ĉi tiu artikolo eksplikas kiel Pandunia estas [egale monda lingvo](dunia_pijin.md).
+
 ## Vortaro
 
 [Esperanto-Pandunia](esperanto-pandunio.md)

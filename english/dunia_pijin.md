@@ -127,9 +127,13 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 ## International words
 
-Pandunia borrows words heavily from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling.
+Pandunia borrows words from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling so that everybody can pronounce them as easily.
 
-The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. The first person pronoun **mi** is borrowed from English "me" and other languages, where a similar word is used. The second person pronoun **tu** is from Spanish and other Indo-European languages. The third person pronoun **ye** is from Bantu languages of Africa and also Hindi and Urdu of India. It refers to both male and female persons as well as inanimate objects. The plural marker **men** is from Standard Chinese.
+The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. They are good examples of how international Pandunia's words can be.
+
+- **mi** is similar to English "me", Spanish "mí" and many other Indo-European languages.
+- **tu** is similar to Spanish "tu", French "tu" and Hindi-Urdu "tū" (तू).
+- **ye** is similar to Hindi-Urdu "ye" (यह) and to numerous Bantu languages, including Lingala "yé", Swahili "yeye" and Zulu "yena".
 
 The plural pronouns follow the pattern of Standard Chinese.
 
@@ -141,6 +145,8 @@ The plural pronouns follow the pattern of Standard Chinese.
 | we      | mimen    | wǒmen   |
 | you     | tumen    | nǐmen   |
 | they    | yemen    | tāmen   |
+
+Note: The third person pronoun **ye** refers to both male and female persons as well as inanimate objects – just like the source words in Hindi-Urdu and Bantu languages.
 
 
 ## Easy sentences
