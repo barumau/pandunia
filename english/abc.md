@@ -32,7 +32,7 @@ Consonant Sounds
     c  j  x        y
     k  g  h
 
-Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, v, z** is familiar and easy.
+Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 

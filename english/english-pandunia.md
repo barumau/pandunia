@@ -235,7 +235,6 @@ bridge   : pul
 bright (radiant)   : ming  
 Britain (UK)   : britan  
 broken (out of order)   : kaput  
-brother or sister   : aka  
 brown (coffee-colored)   : kafi  
 brush   : brox  
 bucket   : baldi  
@@ -630,7 +629,9 @@ free (liberate)   : libera
 free (unchained)   : liber  
 fresh   : tazi  
 Friday   : war 5 (war lim)  
-friend   : panyo  
+friend   : doste  
+friendly   : dosti  
+friendship   : dostia  
 from (since)   : ze  
 frost   : hima rose  
 fruit (result, outcome)   : pal  
@@ -1142,6 +1143,7 @@ pants (trousers)   : pantalon
 papaya   : papaya  
 paper   : paper  
 Paraguay   : paraguai  
+parent   : jenar  
 parents   : ban da law  
 parrot (parakeet)   : papagai  
 part (fraction)   : fen  
@@ -1278,7 +1280,7 @@ pungent (spicy, hot)   : lat
 push   : puxa  
 quality (attribute, property, characteristic, -ness)   : gun  
 quality (charasteristic)   : sifa  
-queen   : rem raje  
+queen   : fem raje  
 quote   : cita  
 quote (to cite)   : sita  
 Quran (Koran)   : kuran  
@@ -1414,6 +1416,7 @@ show   : xow
 show (display)   : xowa  
 shower   : dux  
 Siberia   : sibir  
+sibling (brother or sister)   : aka  
 sick (ill)   : beng  
 Sierra Leone   : salone  
 sign (signal)   : sinye  
@@ -1433,7 +1436,6 @@ smoke   : duman
 smooth   : lis  
 snack   : lit kane  
 snow   : hima  
-so (then, therefore)   : to  
 soap   : sabun  
 sock (stocking)   : corab  
 sofa (couch)   : sofa  
@@ -1561,7 +1563,7 @@ ticket   : tiket
 time (occasion)   : mar  
 time of day (moment)   : sat  
 titanium   : titan  
-to (till, until)   : ko  
+to (till, until)   : to  
 tobacco   : tabak  
 today   : ajo  
 Togo   : togo  
@@ -1603,7 +1605,7 @@ turban   : pagri
 Turkey   : turkia  
 Turkish   : turki  
 turtle (tortoise)   : tortuga  
-two (2)   : dua  
+two (2)   : do  
 typewriter   : kitab maxin  
 tyranny   : tirania  
 tyrant   : tiran  

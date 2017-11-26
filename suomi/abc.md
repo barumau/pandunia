@@ -43,11 +43,11 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
 ### Sanojen painotus
 
-Paino on viimeistä konsonanttia edellisellä tavulla.
+Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máu, cíng.
 2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
-3. Vokaaliloppuisen sanan paino on toiseksi viimeisellä tavulla. Esim. dúnia, melódia
+3. Vokaaliloppuisen sanan paino on toiseksi tai kolmanneksi viimeisellä tavulla. Esim. nówi, dúnia
 
 
 ### Švaa

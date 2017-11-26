@@ -14,7 +14,7 @@ ais [e] ice
 aisi [i] icy  
 ajil [i] agile  
 ajo [o] today  
-aka [e] brother or sister  
+aka [e] sibling (brother or sister)  
 akse [e] axis  
 akta [a] act (play a role)  
 aktar [e] actor (actress)  
@@ -289,6 +289,7 @@ din [e] religion
 din guru [e] priest (cleric)  
 ding [e] nail (spike)  
 diske [e] disc (disk)  
+do [num] two (2)  
 doic [e] German  
 doka [a] read  
 dokta [a] heal (cure)  
@@ -307,7 +308,6 @@ dox [e] fault (guilt)
 doze [e] portion (dose)  
 drama [e] drama  
 du [pr] of (particle of possession)  
-dua [num] two (2)  
 duan [i] short (not long)  
 duk [e] grief (sorrow)  
 duka [a] grieve  
@@ -376,7 +376,7 @@ fek [e] feces (poop)
 feka [a] defecate  
 fem [i] female  
 fem ban [e] daughter  
-rem raje [e] queen  
+fem raje [e] queen  
 fen [e] part (fraction)  
 fena [a] divide (to partition)  
 fer [e] iron  
@@ -619,6 +619,7 @@ jeb [e] pocket
 jele [e] gel (jelly)  
 jelos [i] jealous  
 jen [e] person (people)  
+jenar [e] parent  
 jene [e] birth  
 jene den [e] birthday  
 jena [a] give birth (procreate, generate)  
@@ -745,7 +746,6 @@ klar [i] clear (not obscured)
 klas [e] class (category)  
 klasa [a] classify (categorize)  
 klub [e] club  
-ko [pr] to (till, until)  
 kod [e] code (cipher)  
 koda [a] encode  
 kok [e] chicken  
@@ -1522,7 +1522,7 @@ tira [a] pull
 tiran [e] tyrant  
 tirania [e] tyranny  
 titan [e] titanium  
-to [conj] so (then, therefore)  
+to [pr] to (till, until)  
 toca [a] touch  
 togo [e] Togo  
 tolo [e] top (spinning top)  
