@@ -931,6 +931,8 @@ magnet   : magnet
 magnetic   : magneti  
 mail   : poste  
 main   : xefi  
+major (not minor)   : maxor  
+majority   : maxoria  
 make (produce, manufacture)   : sana  
 malaria   : malaria  
 Malaysia   : malaisia  
@@ -997,6 +999,8 @@ minimal   : minimi
 minimalism   : minimalisme  
 minister (politician)   : ministar  
 ministry   : ministaria  
+minor (not major)   : minor  
+minority   : minoria  
 minute   : minut  
 mirror   : aine  
 model (design)   : model  

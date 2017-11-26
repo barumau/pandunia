@@ -947,6 +947,8 @@ maxi [i] additional
 maxim [o] most (maximally)  
 maximi [i] maximal  
 maxin [e] machine  
+maxor [i] major (not minor)  
+maxoria [e] majority  
 mau [e] cat  
 maidan [e] square (plaza)  
 mais [e] corn (maize)  
@@ -1012,6 +1014,8 @@ minimi [i] minimal
 minimalisme [e] minimalism  
 ministar [e] minister (politician)  
 ministaria [e] ministry  
+minor [i] minor (not major)  
+minoria [e] minority  
 minus [o] except (minus)  
 minut [e] minute  
 misal [e] example  
