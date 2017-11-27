@@ -37,7 +37,7 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ## Kirjoituksia
 
-- [Maailman yhteyskieli](dunia_pidjin.md)
+- [Maailman yhteyskieli](dunia_pijin.md)
 
 
 ## Panduniasta muissa julkaisuissa
