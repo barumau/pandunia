@@ -346,7 +346,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **maf! sa ke?** Excuse me, what's this?
 
-**maf. tu nam ke?** Excuse me, what's your name?
+**maf. tu namu ke?** Excuse me, what's your name?
 
 
 

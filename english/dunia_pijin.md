@@ -99,7 +99,7 @@ Pandunia's consonant inventory is smaller than that of English and Mandarin. Maj
 
 English spelling is notoriously irregular. Pīnyīn was created more recently, in the 1950s, but unfortunately it also has some irregularities, simply because there are more sounds in spoken Chinese than there are letters in the Roman alphabet. Still, in comparison to English, Pinyin is very regular. For example the English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn _mai, sai, lai, rai_. It is as simple as that!
 
-Pandunia can be spelled regularly because it has fewer speech sounds (24) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:
+Pandunia can be spelled regularly because it has fewer speech sounds (24) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:  
 a b c d e f g h i j k l m n o p r s t u w x y z
 
 Pandunia has perfect letter-to-sound correspondence. One letter stands for one sound only. One sound is represented by exactly one letter. Every word is pronounced as it is written.
@@ -127,13 +127,13 @@ Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia a
 
 ## International words
 
-Pandunia borrows words from English and Chinese as well as from other languages. Of course, the words are adapted to Pandunia's sounds and spelling so that everybody can pronounce them as easily.
+Pandunia borrows words from English and Chinese as well as from other languages. Of course, the words are simplified to fit Pandunia's sounds and spelling so that everybody can pronounce them easily.
 
 The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. They are good examples of how international Pandunia's words can be.
 
 - **mi** is similar to English "me", Spanish "mí" and many other Indo-European languages.
 - **tu** is similar to Spanish "tu", French "tu" and Hindi-Urdu "tū" (तू).
-- **ye** is similar to Hindi-Urdu "ye" (यह) and to numerous Bantu languages, including Lingala "yé", Swahili "yeye" and Zulu "yena".
+- **ye** is similar to Hindi-Urdu "ye" (यह) and to numerous Bantu languages, including Lingala "yé", Swahili "yeye" and Zulu "ye-".
 
 The plural pronouns follow the pattern of Standard Chinese.
 
