@@ -2,7 +2,7 @@
 Pandunia - maailman yhteyskieli
 ===============================
 
-## Maailmamme
+## Näkökulmia maailmasta
 
 Monet ihmiset ovat tottuneet näkemään alla olevan näköisen maailmankartan. Kyseessä on tunnettu [Mercatorin projektio](https://fi.wikipedia.org/wiki/Mercatorin_projektio), joka valitettavasti vääristää pinta-alaa.
 

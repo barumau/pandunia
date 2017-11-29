@@ -667,15 +667,15 @@ Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni 
 Aga predikato
 ------------------
 
-En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pandunio, Agovortoj facile distingeblas, ĉar ili plejofte finiĝas per **-a** aŭ **-u**.
+En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pandunio, agovortoj facile distingeblas, ĉar ili plejofte finiĝas per **-a** aŭ **-u**.
 
-Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba.
+Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba. En la SVO vortordo la verbo finiĝas per **-a**.
 
 > **mi kana pingo.** - Mi manĝas pomojn.  
 > **mi auda musik.** - Mi aŭdas muzikon.  
 > **mi wida tu.** - Mi vidas vin.
 
-Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato.
+Ankaŭ la vortordo _subjekto-objekto-verbo_ (SOV) eblas. Tiu estas normala vortordo en kelkaj aliaj lingvoj, kiel ekzemple la japana, la korea, la turka, la persa kaj la lingvoj de Barato. En la SOV vortordo la verbo finiĝas per **-u**.
 
 > **mi musik audu.** - Mi aŭdas muzikon (Laŭvorte: _Mi muziko[n] aŭdas._)     
 > **mi tu widu.** - Mi vidas vin. (Laŭvorte: _Mi vi[n] vidas._)
@@ -684,6 +684,7 @@ La pasivan voĉon oni formas eligante la agantan subjekton el la SOV-a vortordo,
 
 > **tu widu.** - Vi vidiĝas.  
 > **musik audu.** - Muziko aŭdiĝas.  
+
 Sed ofte oni uzas la helpantan verbon **bei** por la pasiva senco.
 
 > **tu bei wida.** - Vi estas vidata.  

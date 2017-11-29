@@ -13,7 +13,6 @@
 
 [Lessons]()
 
-  * [Quick Guide](gid.md)
   * [Spelling](abc.md)
   * [Basic Phrases](jumle.md)
   * [Course](darse.md)
@@ -29,8 +28,8 @@
 
 [Grammar]()
 
-  * [Grammar key](cabi.md)
-  * [Details](bax_kanun.md)
+  * [Basics](bazi_kanun.md)
+  * [Details](detali_kanun.md)
 
 [Videos](../pandunia/video.md)
 

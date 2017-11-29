@@ -141,10 +141,10 @@ Totta puhuen, muihin kieliin verrattuna, pandunian prepositioiden merkitys ei ol
 
 Prepositioiden käyttöä voi välttää puhumalla lyhyin lausein.
 
-**ta kata piza. ta uza caku.** - Hän leikkaa pitsaa. Hän käyttää veistä.
+**ye kata piza. ye uza caku.** - Hän leikkaa pitsaa. Hän käyttää veistä.
 
 Lauseen subjektin toistamisen sijasta voi pitää pienen tauon, jota merkitään pilkulla.
 
-**ta kata piza, uza caku.** - Hän leikkaa pitsaa, käyttäen veistä.
+**ye kata piza, uza caku.** - Hän leikkaa pitsaa, käyttäen veistä.
 
 
