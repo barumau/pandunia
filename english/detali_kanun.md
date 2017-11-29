@@ -3,30 +3,13 @@ Grammar
 
 ## 1. Introduction
 
-### 1.1. Foreword
-
 This grammar deals with the types of words and word order patterns in Pandunia. However, it's possible to learn Pandunia without reading this grammar, for example with the help of a phrasebook and a dictionary.
 
-### 1.2. Basic Rules
+All language teachers know that a language becomes more difficult to learn when the student must learn to make distinctions that he is not used to making. That's why students have difficulties with things like irregular spelling, case-inflection, mandatory tenses, tones, noun/adjective agreement, honorific inflection, consonant and vowel harmony, mandatory gender distinctions and so on.
 
-1. Every word is read as it is written. No letter is silent. Only the lower-case letters are necessary.
-2. The stress accent is on the syllable before the last consonant of the word.
-3. Nouns are unaffected by number or gender. They are neither masculine nor feminine, and neither singular nor plural by default.
-4. An adjective is placed before or after a noun and it works as a modifier. Frequently adjectives end in **-i**.
-    - ex. **bon pan** = Good bread. **pan bon** = Bread good.
-5. Compound words are made by combining the elements that form them. The main word stands at the end.
-    - ex. **poste sanduk** = mailbox
-6. Sentences with active verbs have subject-verb-object word order. Most active verbs end in **-a**.
-    - ex. **mi penta meza.** = I paint tables.
-7. A sentence with passive meaning has only a subject and a verb. Most passive verbs end in **-u**.
-    - ex. **meza pentu.** = The table gets painted.
-8. The object of a transitive verb can function as the subject of the next verb in the sentence. This structure is called the _pivot structure_.
-    - ex. **mi cing tu dar pesa.** = I ask you to give money.
-9. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Do you speak Pandunia?
-    - **mi cing tu loga ming.** →  **cing loga ming.** = Please speak clearly.
+Pandunia is not a difficult language to learn. It doesn't have any of the previously mentioned complexities. Instead, it has a simple grammar, a relatively simple vocabulary, and a simple phonetic spelling.
 
-
+One thing to keep in mind as you learn Pandunia is that it is not a strict, rule-oriented language where there is a "right way" and a "wrong way" to say things. The important thing is to make yourself understood. Consequently, much of the language involves the lexical items (words that have meaning, like "book" or "eat"), and very little involves purely grammatical ideas (like singular vs. plural and tenses).
 
 --------------------------------------------------------------------------------
 
