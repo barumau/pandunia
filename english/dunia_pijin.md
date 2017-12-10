@@ -64,7 +64,34 @@ The current problems in global communication are solved by **Pandunia**. Panduni
 
 At its core, Pandunia is a mixture of English and Chinese, the two most important languages of the world today. Pandunia's grammatical structure is in many ways similar with them. However, Pandunia also adopts words from many other languages, including Spanish, Hindi, Urdu, Arabic, Portuguese, Bengali, Russian, French, Indonesian, and Swahili.
 
-Pandunia owes a lot to these great national languages. However, compared to them, Pandunia is simple, easy and global. In fact, it is one of the simplest and most international languages ever spoken. It is so simple that all of its grammar can be explained on a single short page.
+Pandunia owes a lot to these great national languages. However, compared to them, Pandunia is simple, easy and global. In fact, it is one of the simplest and most international languages ever spoken. It is so simple that all of its grammar can be explained on a single page.
+
+
+## Relatively simple
+
+Parts of a word are called _morphemes_. Languages can be categorized by two distinct parameters:
+
+- How many morphemes a single word is made of?
+- How separable those morphemes are?
+
+The above-mentioned widely spoken languages can be divided into four types according to these parameters.
+
+1. Analytic language : Morphemes are few and distinct
+    - Mandarin Chinese
+2. Analytic fusional language: Morphemes are few and fused
+    - English
+3. Agglutinative language : Morphemes are many and distinct
+    - Japanese, Malay-Indonesian, Telugu
+4. Synthetic fusional language: Morphemes are many and fused
+    - Spanish, Portuguese, French
+    - German, Russian
+    - Hindi-Urdu, Bengali, Punjabi
+    - Arabic, Hausa
+
+Usually languages are a mixture of different types. For example, in English the plural can be formed in several different ways. _Many a cat_ is an analytic phrase that consists of three separate words. _Cats_ is an agglutinative word that consists of two distincts parts (_cat_ and _-s_). _Leaves_ is a fused word that consists of two parts (_leaf_ and _-s_).
+
+Pandunia belongs to the first type. It is an analytic language. Its words consist of few parts and the parts are clearly separable. This is a good thing because it makes the language simple to learn and use.
+
 
 ## A pidgin language
 
