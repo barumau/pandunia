@@ -69,20 +69,20 @@ Pandunia owes a lot to these great national languages. However, compared to them
 
 ## Relatively simple
 
-Parts of a word are called _morphemes_. Languages can be categorized by two distinct parameters:
+Languages can be categorized by two distinct parameters:
 
-- How many morphemes a single word is made of?
-- How separable those morphemes are?
+- How many parts a single word is made of?
+- How separable those parts are?
 
 The above-mentioned widely spoken languages can be divided into four types according to these parameters.
 
-1. Analytic language : Morphemes are few and distinct
+1. Analytic language : Words are made of few, distinct parts.
     - Mandarin Chinese
-2. Analytic fusional language: Morphemes are few and fused
+2. Analytic fusional language: Words are made of few, fused parts.
     - English
-3. Agglutinative language : Morphemes are many and distinct
+3. Agglutinative language : Words are made of many, distinct parts.
     - Japanese, Malay-Indonesian, Telugu
-4. Synthetic fusional language: Morphemes are many and fused
+4. Synthetic fusional language: Words are made of many, fused parts.
     - Spanish, Portuguese, French
     - German, Russian
     - Hindi-Urdu, Bengali, Punjabi
@@ -90,7 +90,7 @@ The above-mentioned widely spoken languages can be divided into four types accor
 
 Usually languages are a mixture of different types. For example, in English the plural can be formed in several different ways. _Many a cat_ is an analytic phrase that consists of three separate words. _Cats_ is an agglutinative word that consists of two distincts parts (_cat_ and _-s_). _Leaves_ is a fused word that consists of two parts (_leaf_ and _-s_).
 
-Pandunia belongs to the first type. It is an analytic language. Its words consist of few parts and the parts are clearly separable. This is a good thing because it makes the language simple to learn and use.
+Pandunia belongs to the first type. It is an analytic language. Its words consist of few parts and the parts are clearly separable. This is a good thing because it makes the language simple to learn and use in comparison to languages where words are long and consist of many parts.
 
 
 ## A pidgin language

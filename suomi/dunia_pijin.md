@@ -55,7 +55,7 @@ Alla on luettelo maailman 15:stä puhutuimmasta kielestä. Luettelo on järjeste
 | 12      | Hausa            |      85 milj. |   65 milj.        | Länsi-Afrikka                     |
 | 13      | Ranska           |      80 milj. |  192 milj.        | Länsi-Eurooppa ja Afrikka         |
 | 14      | Telugu           |      80 milj. |   12 milj.        | Etelä-Aasia                       |
-| 15      | Malaiji/indonesia|      77 milj. |  204 milj.        | Kaakkois-Aasia                    |
+| 15      | Malaiji-indonesia|      77 milj. |  204 milj.        | Kaakkois-Aasia                    |
 
 
 Luvuista näkee, että yleiskiina (mandariinikiina) on ylivoimaisesti puhutuin äidinkieli, ja englanti on yleisin vieras kieli. Kummankin yhteenlaskettu puhujamäärä yltää miljardiin. Kuitenkin heti perässä on kieliä, joiden puhujat lasketaan sadoissa miljoonissa. Kaikille yhteistä kieltä ei ole.
@@ -65,6 +65,33 @@ Luvuista näkee, että yleiskiina (mandariinikiina) on ylivoimaisesti puhutuin �
 Pohjimmiltaan pandunia on maailman kahden tärkeimmän kielen, englannin ja yleiskiinan, sekoitus. Pandunian kieliopillinen rakenne myötäilee niitä monilta osin. Sen lisäksi pandunia lainaa sanoja monesta muusta kielestä, mukaan lukien espanja, hindi, urdu, arabia, portugali, bangla, venäjä, ranska, indonesia ja swahili.
 
 Pandunia on paljon velkää näille suurille kansallisille ja kansainvälisille kielille, mutta niihin verrattuna pandunia on yksinkertainen, helppo ja todella yleismaailmallinen. Se on eräs yksinkertaisimmista koskaan puhutuista kielistä ja kaikkia muita kansainvälisempi. Se on niin yksinkertainen, että sen koko kieliopin voi kirjoittaa yhdelle sivulle.
+
+
+## Suhteellisen helppo
+
+Kielet voidaan luokitella kahden tekijän mukaan:
+
+- Kuinka monesta osasta yksittäiset sanat koostuvat?
+- Kuinka selvästi sanan osat erottuvat toisistaan?
+
+Ylempänä luetellut kielet voidaan jakaa näiden tekijöiden perusteella neljään kielityyppiin.
+
+1. Analyyttinen kieli : Sanat koostuvat vähistä eroteltavista osista.
+    - yleiskiina
+2. Analyyttinen taivuttava kieli : Sanat koostuvat vähistä yhdistyneistä osista.
+    - englanti
+3. Agglutinoiva kieli : Sanat koostuvat monista eroteltavista osista.
+    - japani, malaiji-indonesia, telugu
+4. Synteettinen kieli : Sanat koostuvat monista yhteen sulautuneista osista.
+    - espanja, portugali, ranska
+    - saksa, venäjä
+    - hindi-urdu, bangka, pandžabi
+    - arabia, hausa
+
+Yleensä kielissä on piirteitä useammasta kielityypistä. Esimerkiksi englannissa monikko voidaan muodostaa erittelemällä (esim. _many a cat_), liittämällä (esim. _cats_ = cat + s) ja yhdistämällä (esim. _leaves_ = leaf + s).
+
+Pandunia kuuluu ensimmäiseen kielityyppiin. Se on [analyyttinen kieli](https://fi.wikipedia.org/wiki/Analyyttinen_kieli). Sen sanat koostuvat korkeintaan muutamasta osasta, jotka on helppo erottaa toisistaan. Se on hyvä piirre, koska tällainen kieli on helpompi oppia ja käyttää verrattuna kieliin, joissa on paljon pitkiä, taivutettuja sanoja.
+
 
 ## Yhteyskieli
 
