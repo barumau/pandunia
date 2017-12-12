@@ -17,5 +17,8 @@
 
 [Kielioppi](bax_kanun.md)
 
-[UKK](kia_i_dap.md)
+[Tietoa]()
+
+  * [Maailman yhteyskieli](dunia_pijin.md)
+  * [Kysymyksiä & vastauksia](kia_i_dap.md)
 
