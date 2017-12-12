@@ -40,23 +40,28 @@ Part 1: Greeting and basics
 
 **son salam!** Sleep well!
 
-Tip: As you can see from the range of expressions, **salam** is a general word for well-wishing. Use it any time!
+As you can see from the range of expressions, **salam** is a general word for well-wishing. Use it any time!
 
-Note: **Salam** is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
+**Salam** is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
+
+<small>Etymology. **salam** is known in Arabic: سَلَام‏ "salām", Hebrew: שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam, Indonesian: selamat.</small>
 
 
 
 ### mi <small>I, me</small>
 
-**mi salama mama.** I greet mother.
+**mi salama ma.** I greet mother.
 
-**mi salama papa.** I greet father.
+**mi salama pa.** I greet father.
 
-**salam mama!** Hello, mother!
+The basic word order in Pandunia is subject-verb-object.
 
-**salam papa!** Hello, father!
+**salam ma!** Greetings, mother!
 
-**mimen salama mama.** We greet mother.
+**salam pa!** Greetings, father!
+
+<small>Etymology. **mi** is known in English: me, Italian: mi, Swahili: mimi, Zulu: -mi-.</small>
+
 
 
 
@@ -66,15 +71,13 @@ Note: **Salam** is a popular greeting that is used by both religious and non-rel
 
 **tu salama mi.** You greet me.
 
-Tip: The basic word order is subject-verb-object. Words don't ever change their form in Pandunia. That's why **mi** stays the same in Pandunia, but in English 'I' changes to 'me'.
+Words don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
 
 **salam tu!** Hello you!
 
-Note:  **tu** means one single person only. The plural pronoun is **tumen**, "you all".
+**mi romansa tu.** I love you.
 
-**mi salama tumen.** I greet you all.
-
-**salam tumen!** Hello you all!
+<small>Etymology. **tu** is known Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
 
 
 
@@ -86,11 +89,16 @@ Note:  **tu** means one single person only. The plural pronoun is **tumen**, "yo
 
 **mau si hewan.** The cat is an animal.
 
-Note: Like every word in Pandunia, **si** is unchanging. So _am, is, are, was_ and _were_ are all translated **si** in Pandunia! In addition, in simple phrases it's allowed to leave out **si** after a pronoun like **mi** and **tu**.
+Note: Like every word in Pandunia, **si** is unchanging. So _am, is, are, was_ and _were_ are all translated **si** in Pandunia!
 
-**mi sara.** I'm Sara.
+In addition, in simple phrases it's allowed to leave out **si** after a pronoun like **mi** and **tu**.
 
-**tu tomas.** You're Thomas.
+**mi tomas.** Me Thomas.
+
+**tu sara.** You Sara.
+
+<small>Etymology. **si** is known in Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
+
 
 
 
@@ -102,13 +110,29 @@ Note: Like every word in Pandunia, **si** is unchanging. So _am, is, are, was_ a
 
 **ye si pingo.** It is an apple.
 
-Tip: **ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as things. As you can guess, **yemen** means "they".
+**ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
+
+<small>Etymology. **ye** is known in Lingala: yé, Swahili: yeye, Chichewa: iye, Zulu: -ye-, Hindi: यह  "ye".</small>
+
+
+
+### men <small>people</small>
+
+Add **men** to a singular pronoun to make it plural.
+
+**mimen salama tumen.** We greet you all.
+
+**tumen salama yemen.** You greet them.
+
+**yemen salama mimen!** They greet us.
+
+**mimen si fem.** We are women.
+
+**tumen si man.** You are men.
 
 **yemen si pingo.** They are apples.
 
-**mimen salama yemen.** We greet them.
-
-**mimen salama tumen.** We greet you.
+<small>Etymology. **men** is known in Mandarin: 们 "men", English: men (people in general).</small>
 
 
 
@@ -125,6 +149,8 @@ Tip: **ye** is the general third person pronoun. It is used for people (irrespec
 **tumen si ke?** Who are you people?
 
 **yemen si ke?** Who are they?
+
+<small>Etymology. **ke** is known in Spanish: qué, Portuguese: que, Italian: che, Bengali: কী "ki".</small>
 
 
 
@@ -143,15 +169,42 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 **ye ros.** It's red.
 
 
+
+### da <small>'s (possessive particle)</small>
+
+**sa ke?** What's this?
+
+**sa mi da fon.** It's my phone.
+
+**sa ke da?** Whose is this?
+
+**sa mi da.** It's mine.
+
+Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
+
+**ye ke?** Who's he/she?
+
+**ye si mi da doste.** He/she is my friend.
+
+**mi si sara da doste.** I am Sara's friend.
+
+<small>Etymology. **da** is known in Mandarin: 的 /də/.</small>
+
+
+
 ### nam <small>name</small>
 
-**tu nam si ke?** What's your name?
+**tu da nam si ke?** What's your name?
 
-**mi nam si tomas.** My name is Thomas.
+**mi da nam si tomas.** My name is Thomas.
 
-**ye nam si ke?** What's his/her name?
+**ye namu ke?** What he/she is called?
 
-**ye nam si sara.** Her name is Sara.
+**ye namu sara.** She is called Sara.
+
+**mi namu tomas.** I'm called Thomas.
+
+<small>Etymology. **nam** is known in Hindi: नाम  "nām", Farsi: نام‏‎ "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German: Name, English: name.</small>
 
 
 
@@ -167,6 +220,8 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **mi bon.** I'm good.  
 **kia tu?** And you?  
 **mi no bon.** I'm not good.
+
+<small>Etymology. **kia** is known in Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
 
 
 
@@ -220,7 +275,7 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### da <small>'s</small>
 
-**ye si mi da mama.** She is my mother.
+**ye si mi da ma.** She is my mother.
 
 **ye si mi da man.** He is my man.
 
@@ -654,7 +709,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 Word List
 ----------
 
-All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **mama** and **papa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
+All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **ma** and **pa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
 **ama** but <small>(Turkish _ama_)</small>  
@@ -675,7 +730,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**haba** have; there is <small>(English _have_)</small>  
+**haba** have; there is <small>(German _haben_)</small>  
 **haber** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
@@ -689,7 +744,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **lay** come <small>(Vietnamese _lai_)</small>  
-**mama** mother <small>(Mandarin _māma_ 妈妈)</small>  
+**ma** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mana** to mean <small>(Swahili _maana_)</small>  
 **meda** to help, to assist <small>(French _aider_)</small>  
@@ -700,7 +755,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
 **nun** now, currently <small>(German _nun_)</small>  
-**papa** father <small>(Russian _papa_ папа)</small>  
+**pa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
