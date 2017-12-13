@@ -44,75 +44,125 @@ As you can see from the range of expressions, **salam** is a general word for we
 
 **Salam** is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
 
-<small>Etymology. **salam** is known in Arabic: سَلَام‏ "salām", Hebrew: שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam, Indonesian: selamat.</small>
+<small>Etymology. **salam** is from Arabic: سَلَام‏ "salām", Hebrew: שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam, Indonesian: selamat.</small>
 
 
 
 ### mi <small>I, me</small>
 
+**mi sara.** I'm Sara.
+
+**mi tomas.** I'm Thomas.
+
+You can introduce yourself simply by saying **mi** and your name. You don't need a verb for saying it in Pandunia!
+
 **mi salama ma.** I greet mother.
 
 **mi salama pa.** I greet father.
 
-The basic word order in Pandunia is subject-verb-object.
+The word **salam** is a noun and **salama** is the corresponding verb. The basic word order in Pandunia is subject-verb-object.
+
+**sara salama tomas.** Sara greets Thomas.
 
 **salam ma!** Greetings, mother!
 
 **salam pa!** Greetings, father!
 
-<small>Etymology. **mi** is known in English: me, Italian: mi, Swahili: mimi, Zulu: -mi-.</small>
+<small>Etymology. **mi** is from English: me, Italian: mi, Swahili: mimi, Zulu: -mi-.</small>
 
 
 
 
 ### tu <small>you</small>
 
+**tu tomas.** You are Thomas.
+
 **mi salama tu.** I greet you.
 
 **tu salama mi.** You greet me.
 
-Words don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
-
-**salam tu!** Hello you!
+Pronouns don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
 
 **mi romansa tu.** I love you.
 
-<small>Etymology. **tu** is known Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
-
-
-
-### si <small>to be</small>
-
-**mi si tomas.** I am Thomas.
-
-**tu si sara.** You are Sara.
-
-**mau si hewan.** The cat is an animal.
-
-Note: Like every word in Pandunia, **si** is unchanging. So _am, is, are, was_ and _were_ are all translated **si** in Pandunia!
-
-In addition, in simple phrases it's allowed to leave out **si** after a pronoun like **mi** and **tu**.
-
-**mi tomas.** Me Thomas.
-
-**tu sara.** You Sara.
-
-<small>Etymology. **si** is known in Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
-
+<small>Etymology. **tu** is from Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
 
 
 
 ### ye <small>he, she or it</small>
 
-**ye si fem.** She is a woman.
+**ye man.** He is a man.
 
-**ye si man.** He is a man.
+**ye fem.** She is a woman.
 
-**ye si pingo.** It is an apple.
+**ye pingo.** It is an apple.
 
 **ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
 
-<small>Etymology. **ye** is known in Lingala: yé, Swahili: yeye, Chichewa: iye, Zulu: -ye-, Hindi: यह  "ye".</small>
+**mi salama ye.** I greet him/her.
+
+<small>Etymology. **ye** is from Lingala: yé, Swahili: yeye, Chichewa: iye, Zulu: -ye-, Hindi: यह  "ye".</small>
+
+
+
+### kia <small>to ask a question</small>
+
+**kia tu tomas?** Are you Thomas?
+
+**kia tu doktar?** Are you a doctor?
+
+Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu doktar.** (I ask, you doctor?) by dropping out the first word.
+
+**kia tu bon?** How are you? (Literally: _Are you good?_)  
+**mi bon.** I'm good.  
+**kia tu?** And you?  
+**mi no bon.** I'm not good.
+
+<small>Etymology. **kia** is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā", Japanese: 聞く "kiku".</small>
+
+
+
+### si <small>yes</small>
+
+**kia tu tomas?** Are you Thomas.
+
+**si, mi tomas.** Yes, I am Thomas.
+
+**kia ye doktar?** Is he/she a doctor?
+
+**si, ye si doktar.** Yes, he is a doctor.
+
+The word **si** can be used for stating something as a fact. The it is used instead of "to be". In Pandunia there's no verb for "to be".
+
+**mi si tomas.** I am Thomas.
+
+**tu si sara.** You are Sara.
+
+**pingo si pal.** The apple is a fruit.
+
+Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
+
+<small>Etymology. **si** is from Spanish: sí, Italian: sì, Portuguese: sim, Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
+
+
+
+### no <small>no, not</small>
+
+**mi no sara.** I'm not Sara.
+
+**mi no doktar.** I'm not a doctor.
+
+**kia tu bon?** Are you well?  
+**si. mi bon.** Yes, I'm well.
+
+**kia tu bon.** Are you well?  
+**no, mi no bon.** No, I'm not well.
+
+You can use **no** to deny anything. It is placed before the word that is denied.
+
+**ye no salama mi.** He/she doesn't greet me.
+
+<small>Etymology. **no** is from English: no, Spanish: no, French: non.</small>
 
 
 
@@ -132,7 +182,7 @@ Add **men** to a singular pronoun to make it plural.
 
 **yemen si pingo.** They are apples.
 
-<small>Etymology. **men** is known in Mandarin: 们 "men", English: men (people in general).</small>
+<small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in general).</small>
 
 
 
@@ -150,7 +200,7 @@ Add **men** to a singular pronoun to make it plural.
 
 **yemen si ke?** Who are they?
 
-<small>Etymology. **ke** is known in Spanish: qué, Portuguese: que, Italian: che, Bengali: কী "ki".</small>
+<small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che, Bengali: কী "ki".</small>
 
 
 
@@ -188,7 +238,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi si sara da doste.** I am Sara's friend.
 
-<small>Etymology. **da** is known in Mandarin: 的 /də/.</small>
+<small>Etymology. **da** is from Mandarin: 的 /də/.</small>
 
 
 
@@ -204,24 +254,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi namu tomas.** I'm called Thomas.
 
-<small>Etymology. **nam** is known in Hindi: नाम  "nām", Farsi: نام‏‎ "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German: Name, English: name.</small>
-
-
-
-### kia <small>to ask a question</small>
-
-**kia tu si tomas?** Are you Thomas?
-
-**kia tu si doktor?** Are you a doctor?
-
-Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu doktor.** (I ask, you doctor?) by dropping out the first word.
-
-**kia tu bon?** How are you? (Literally: _Are you good?_)  
-**mi bon.** I'm good.  
-**kia tu?** And you?  
-**mi no bon.** I'm not good.
-
-<small>Etymology. **kia** is known in Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
+<small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎ "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German: Name, English: name.</small>
 
 
 
@@ -235,29 +268,6 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **kia tu haba ban?** Do you have children?  
 **mi haba dua ban.** I have two children.
-
-
-
-### si <small>yes</small>
-
-**kia tu bon?** Are you well?  
-**si. mi bon.** Yes, I'm well.
-
-**kia haba doktor?** Is there a doctor?  
-**si. ye si doktor.** Yes. He/she is a doctor.
-
-**kia haba win?** Do you have wine?  
-**si. bai i ros.** Yes, white and red.
-
-
-
-### no <small>no, not</small>
-
-**mi no doktor.** I'm not a doctor.
-
-**sa man no doktor.** That man is not a doctor.
-
-**sa pingo no ros.** This apple is not red.
 
 
 
