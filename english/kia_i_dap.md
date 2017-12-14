@@ -120,7 +120,7 @@ Pandunia is best described as an _analytic language_. Pandunia uses a handful of
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  me ken    vid|a du  sundar    yen        nun.
+    Pandunia:  mi ken    wid|a do  sundar    yen        nun.
                I  can    see   two beautiful eyes       now.
 
 
