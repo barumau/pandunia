@@ -74,10 +74,8 @@ age   : umur
 agile   : ajil  
 agreement (amen)   : amen  
 agression (assault)   : agres  
-ah!   : a  
 air   : hawa  
 airplane   : wiman  
-alas! (ouch!)   : ai  
 Albania   : cip  
 alcohol   : alkol  
 alcoholic   : alkoli  
@@ -109,7 +107,6 @@ April   : mes 4 (mes car)
 Arabic   : arabi  
 arena (stadium)   : arena  
 Argentina   : arhentina  
-argh!   : ah  
 argue (claim)   : tesa  
 argument (debate)   : debat  
 argument (thesis)   : tese  
@@ -152,7 +149,7 @@ bake   : beka
 baker   : beker  
 bakery   : bekeria  
 balcony (porch)   : balkon  
-ball   : bola  
+ball   : bol  
 bamboo   : bambu  
 banana   : banana  
 band (bandage)   : bande  
@@ -254,7 +251,7 @@ bus   : bus
 business (commercial activity)   : biznes  
 businessperson (businessman)   : biznes ren  
 busy (occupied)   : bizi  
-but   : ama  
+but   : a  
 butter   : makan  
 buttocks (butt)   : pigu  
 button   : boton  
@@ -397,6 +394,7 @@ congratulate   : barka
 connect (join, link)   : liga  
 connection (relationship)   : guanxe  
 consequence (follow-up)   : bade  
+consider (regard)   : konsida  
 consonant   : konson  
 consume (eat or drink)   : nyama  
 continue (resume)   : kontinu  
@@ -474,7 +472,7 @@ die   : martu
 die (dice)   : dado  
 dig (excavate)   : fosa  
 dining room   : nyam kamar  
-dinner   : xam yame  
+dinner   : xam nyame  
 disc (disk)   : diske  
 disperse   : jamula  
 distant (tele-)   : tele  
@@ -794,6 +792,8 @@ ideal (optimal)   : ideal
 idealisme   : idealisme  
 if (suppose, assume)   : jadi  
 important   : muhim  
+imprison (jail)   : karsa  
+imprisonment   : karse  
 in (inside)   : na in  
 India   : bartia  
 Indian   : barti  
@@ -821,6 +821,7 @@ Italy   : italia
 ##j  
 jackal   : xakal  
 jacket   : jaket  
+jailer   : karser  
 Jamaica   : jameika  
 January   : mes 1 (mes un)  
 Japan   : nipon  
@@ -933,7 +934,7 @@ loser   : luzer
 love (affection)   : amor  
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
-lunch   : den yame  
+lunch   : den nyame  
 lychee (litchi)   : lici  
 lymph   : limfa  
 ##m  
@@ -1140,6 +1141,7 @@ origin   : asle
 original   : asli  
 orphan   : yatim  
 other   : alter  
+ouch! (alas!)   : ai  
 out (outside)   : na way  
 outside (exterior)   : way  
 own (particle of possession)   : da  
@@ -1286,6 +1288,8 @@ press (imprint)   : capa
 press (stamp)   : cap  
 priest (cleric)   : din guru  
 prime minister   : xef minister  
+prison   : karsia  
+prisoner (jailbird)   : karsat  
 problem   : problem  
 process (procedure)   : proses  
 production   : sania  
@@ -1443,7 +1447,7 @@ show   : xow
 show (display)   : xowa  
 shower   : dux  
 Siberia   : sibir  
-sibling (brother or sister)   : aka  
+sibling (brother or sister)   : saudar  
 sick (ill)   : beng  
 Sierra Leone   : salone  
 sign (signal)   : sinye  

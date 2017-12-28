@@ -353,7 +353,7 @@ Most verbs end in **-a** and **-u**. A handful of verbs are without a standard e
 
 --------------------------------------------------------------------------------
 
-## 8. Sentences
+## 7. Sentences
 
 ### 8.1. Observations
 
@@ -363,10 +363,10 @@ Observations are the simplest sentence type. They may consist of only one word, 
 > **pluva!** - (It) rains!  
 
 
-### 8.2. Stative Sentences
+### 7.2. Stative Sentences
 
 
-#### 8.2.1. With pronoun subject
+#### 7.2.1. With pronoun subject
 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
 
@@ -385,7 +385,7 @@ Also two personal pronouns can be juxtaposed.
 > **mi si ye.** - I am he/she.  
 > **mi no tu.** - I'm not you.
 
-#### 8.2.2. With noun subject
+#### 7.2.2. With noun subject
 
 When the subject is a noun, the word **si** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
 
@@ -395,20 +395,20 @@ When the subject is a noun, the word **si** (yes) is added before the predicate 
 > **meza no law.** - The table is not old.
 
 
-#### 8.2.3. With adjective subject
+#### 7.2.3. With adjective subject
 
 The same rule applies also for two adjectives.
 
 > **jowan si sundar.** - Young is beautiful.  
 > **nowi no law.** - New is not old.  
 
-#### 8.2.4. To be
+#### 7.2.4. To be
 
 Pandunia doesn't use a verb like "to be" in English.
 
 
 
-### 8.3. Active Sentences
+### 7.3. Active Sentences
 
 In predicates of action, the main word in the predicate is a verb (i.e. an action-word). In Pandunia, verbs are easy to identify because most of them end in **-a** or **-u**.
 
@@ -425,9 +425,9 @@ Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
 
-### 8.4. Passive Sentences
+### 7.4. Passive Sentences
 
-#### 8.4.1. OV order
+#### 7.4.1. OV order
 
 In the passive voice there is no agent subject in the sentence. There is only the object and the verb. Normally the passive is expressed with object–verb (VO) word order with the verb ending in **-u**.
 
@@ -443,7 +443,7 @@ The agent can be mentioned after the verb with or without the preposition **du**
 > **tu widu du mi.** - You are seen by me.
 
 
-#### 8.4.2. OV order
+#### 7.4.2. OV order
 
 In verb–object (VO) order the focus is on the verb.
 
@@ -452,7 +452,7 @@ In verb–object (VO) order the focus is on the verb.
 > **baka pan.** - Baking bread.
 
 
-#### 8.5. All Possible Word Orders
+#### 7.5. All Possible Word Orders
 
 There are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
@@ -472,9 +472,9 @@ The constituent, which is further away from the verb, can be left out. So for ex
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The other word orders can be heard in poetry and in other forms of literary language.
 
 
-### 8.6. Pivot structure
+### 7.6. Pivot structure
 
-#### 8.6.1. Basic pivot structure (SVOVO)
+#### 7.6.1. Basic pivot structure (SVOVO)
 
 In the _pivot structure_ the word order is:  
 subject – verb 1 – object 1 – verb 2 – object 2.
@@ -486,7 +486,7 @@ Object 1 functions has dual role. It is at the same time the object for verb 1 a
 In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
 
 
-### 8.7. Serial verbs
+### 7.7. Serial verbs
 
 All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
  
@@ -495,21 +495,35 @@ All action-words (verbs) that come one after another are activated by the subjec
 3. **mi wol ken enda dom.** - I want to be able to go home. (Lit. _I want can go home_!)
 
 
-### 8.8. Pronoun dropping
+### 7.8. Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
 
-#### 8.8.2. Short pivot structure (VOVO)
+#### 7.8.1. Short pivot structure (VOVO)
 
 > **mi kia tu baxa pandunia.** - I ask do you speak Pandunia.  
 > **kia tu baxa pandunia?** - Do you speak Pandunia.
 
-#### 8.8.3. Short pivot structure (VVO)
+#### 7.8.2. Short pivot structure (VVO)
 
 > **mi cing tu lay dom.** - I ask you to come home.  
 > **cing lay dom!** - Please come home! (Literally: _Request come home!_)
 
 
+
+--------------------------------------------------------------------------------
+
+## 8. Conjunctions
+
+### 8.1. Basic conjunctions
+
+1. **i** and (connects two similar words or phrases)
+2. **u** or (connects two alternative words or phrases)
+3. **a** - but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
+
+> **mi suku mau i waf.** - I like cats and dogs.  
+> **mi suku mau u waf.** - I like cats or dogs.  
+> **mi suku mau a no waf.** - I like cats but not dogs.
 
 --------------------------------------------------------------------------------
 
@@ -538,7 +552,7 @@ The word **no** is used for denying anything. It affects always the next word.
 
 > **mi wida tu.** - I see you.  
 > **mi no wida tu.** - I don't see you.  
-> **mi wida no tu ama yemen.** - I see, not you, but them.
+> **mi wida no tu a yemen.** - I see, not you, but them.
 
 The particles **si** and **no** are used also for answering questions.
 
@@ -620,11 +634,11 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
-> **mi hava mau gon.** - I had cats in the past.
-> **ama mi no hava mau nun.** - But I don't have cats now.
-> **munkin mi hava mau futur.** - Maybe I have cats in the future.
+> **mi haba mau gon.** - I had cats in the past.
+> **a mi no haba mau nun.** - But I don't have cats now.
+> **munkin mi haba mau futur.** - Maybe I have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **hava** stayed the same in all tenses in the examples above.
+Note! Verbs are not conjugated. So the verb **haba** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
@@ -1010,7 +1024,7 @@ Adjectives and numerals point to their head word, the noun.
 
 The hierarchy of word types in Pandunia from the more to the less central is as follows.
 
-1. Conjunctions: i, u
+1. Conjunctions: i, u, a
 2. Connectors: da, du
 3. Prepositions: na, be, to, ze
 4. Verbs

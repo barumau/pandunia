@@ -1,20 +1,18 @@
 ##a  
 
-a [int] ah!  
+a [conj] but  
 adres [e] address  
 adresat [e] addressee  
 adulte [e] adult  
 afrika [e] Africa  
 afrikai [i] African  
 agres [e] agression (assault)  
-ah [int] argh!  
 aha [a] understand (realize)  
-ai [int] alas! (ouch!)  
+ai [int] ouch! (alas!)  
 ais [e] ice  
 aisi [i] icy  
 ajil [i] agile  
 ajo [o] today  
-aka [e] sibling (brother or sister)  
 akse [e] axis  
 akta [a] act (play a role)  
 akte [e] act (scene)  
@@ -27,7 +25,6 @@ almas [e] diamond
 alter [i] other  
 altera [a] change (alter)  
 alu [e] potato  
-ama [conj] but  
 amen [e] agreement (amen)  
 amena [a] affirm (agree, concur)  
 amerika [e] America (continent)  
@@ -155,7 +152,7 @@ biznes ren [e] businessperson (businessman)
 bobo [e] fool (idiot)  
 boikot [e] boycott  
 boka [e] mouth  
-bola [e] ball  
+bol [e] ball  
 bolgaria [e] Bulgaria  
 bolivia [e] Bolivia  
 bombe [e] bomb  
@@ -270,8 +267,8 @@ demokrati [i] democratic
 demokratia [e] democracy  
 demon [e] demon  
 den [e] day (daytime)  
+den nyame [e] lunch  
 den salam [fr] Good day  
-den yame [e] lunch  
 denga [a] wait  
 des [num] ten (10)  
 desen [e] drawing (picture)  
@@ -701,6 +698,11 @@ karbon [e] coal (carbon)
 kari [e] curry  
 karia [e] occupation (career)  
 karot [e] carrot  
+karsa [a] imprison (jail)  
+karsat [e] prisoner (jailbird)  
+karse [e] imprisonment  
+karser [e] jailer  
+karsia [e] prison  
 karte [e] card  
 kasa [e] case (container)  
 kastan [e] chestnut  
@@ -770,6 +772,7 @@ koncung [e] insect
 kong [e] hole  
 kongo [e] Congo  
 konsel [e] advice (counsel)  
+konsida [a] consider (regard)  
 konson [e] consonant  
 kontinu [a] continue (resume)  
 konus [e] cone  
@@ -1398,6 +1401,7 @@ sapat [e] shoe
 sar [e] head  
 sar gut [e] skull  
 sat [e] time of day (moment)  
+saudar [e] sibling (brother or sister)  
 sauna [e] sauna  
 se [pr] self  
 sekreter [e] secretary  
@@ -1670,8 +1674,8 @@ xal [e] scarf (shawl)
 xalet [e] cottage (chalet)  
 xam [e] evening  
 xam den [e] afternoon  
+xam nyame [e] dinner  
 xam salam [fr] Good evening  
-xam yame [e] dinner  
 xaman [e] shaman  
 xamba [e] field (countryside)  
 xampu [e] shampoo  
