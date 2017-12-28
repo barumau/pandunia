@@ -148,3 +148,18 @@ In many languages, expressions of greeting have something to do with peace, heal
 So the meaning of **salam** is greater than the meaning of peace. It means well-being in general and you can use it as a general expression for well-wishing in all kinds of situations, not just when you meet somebody. See the first lesson in the [phrasebook](jumla.md) for a lot of examples!
 
 
+#### Why Pandunia borrows words only from widely spoken languages?
+
+Pandunia has words in common with almost all languages of the world.
+
+About 6500 languages are spoken in the world today. If one word was taken from each language, there would be 6500 words in the dictionary. It sounds like enough, doesn't it?
+
+However, it's not so simple. All words are not equal. Some words are more frequent than others. According to the Zipf's law, the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. By this rule, only 150 words will account for more than half of everything that is said and written in any given language. The rest, 6350 words, would be more or less rare. Many of them would be hardly ever used!
+
+
+
+
+The value of adding one more language gets smaller and smaller.
+
+
+

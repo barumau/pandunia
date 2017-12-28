@@ -30,7 +30,7 @@ Part 1: Greeting and basics
 
 **noce salam!** Good night!
 
-**kane salam!** Bon appetit!
+**nyam salam!** Bon appetit!
 
 **laye salam!** Welcome!
 
@@ -308,37 +308,37 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 ## Part 2: Eating
 
 
-### kana <small>consume, eat, drink</small>
+### nyama <small>consume, eat, drink</small>
 
-**kia tu wol kana yo?** Would you like to eat something?
+**kia tu wol nyama yo?** Would you like to eat something?
 
-**ye kana pingo.** He/she eats an apple.
+**ye nyama pingo.** He/she eats an apple.
 
-**yemen kana pingo.** They eat apples.
+**yemen nyama pingo.** They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
 
-**kia tu kana kafe?** Do you drink coffee?
+**kia tu nyama kafe?** Do you drink coffee?
 
-**mi kana kafe.** I drink coffee.
+**mi nyama kafe.** I drink coffee.
 
-Tip: Meaning of **kana** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
+Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi kana kafe i pan.** I'm having coffee and bread.
+**mi nyama kafe i pan.** I'm having coffee and bread.
 
 
 
 ### wol <small>want</small>
 
-**kia tu wol kana?** Would you like to eat?
+**kia tu wol nyama?** Would you like to eat?
 
-**tu wol kana ke?** What would you like to eat?
+**tu wol nyama ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol kana kafe.** I want to drink coffee.
+**mi wol nyama kafe.** I want to drink coffee.
 
-**kia tu wol kana ca?** Would you like to drink tea?  
+**kia tu wol nyama ca?** Would you like to drink tea?  
 **no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
 **tu wol ke pingo?** Which apple do you want?  
@@ -348,7 +348,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 ### cing <small>request, please</small>
 
-**mi cing tu kana ca.** I ask you to drink tea.
+**mi cing tu nyama ca.** I ask you to drink tea.
 
 **mi cing tu lay dom.** I ask you to come home.
 
@@ -356,9 +356,9 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing kana ca.** Please, have some tea!
+**cing nyama ca.** Please, have some tea!
 
-**cing kana kafe.** Please, have some coffee!
+**cing nyama kafe.** Please, have some coffee!
 
 **cing lay dom.** Please, come home!
 
@@ -384,9 +384,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### haida <small>let's</small>
 
-**haida kana!** Let's eat!
+**haida nyama!** Let's eat!
 
-**haida enda kana!** Let's go eat!
+**haida enda nyama!** Let's go eat!
 
 **haida enda dom.** Let's go home.
 
@@ -396,9 +396,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi nida mede.** I need help.
 
-**mi nida kana.** I'm hungry.
+**mi nida nyama.** I'm hungry.
 
-**kia tu nida kana?** Are you hungry?
+**kia tu nida nyama?** Are you hungry?
 
 **kia tu nida su?** Are you thirsty?
 
@@ -747,7 +747,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **jen** person <small>(Mandarin _rén_ 人)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
-**kana** eat, drink <small>(Hindi खाना _khānā_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
 **ken** can <small>(English _can_)</small>  
@@ -765,6 +764,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
 **nun** now, currently <small>(German _nun_)</small>  
+**nyama** eat, drink <small>(Spanish _ñam_)</small>  
 **pa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ros** red <small>(Italian _rosso_)</small>  

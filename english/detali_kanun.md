@@ -274,7 +274,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
      ↗ 
     S ← O
 
-For example: **mi kana pan, jo tu baka.** - I eat bread _that you baked._
+For example: **mi nyama pan, jo tu baka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -414,7 +414,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi kana pingo.** - I eat apples.  
+> **mi nyama pingo.** - I eat apples.  
 > **mi auda musik.** - I hear music.  
 > **mi wida tu.** - I see you.
 
@@ -481,9 +481,9 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 
 Object 1 functions has dual role. It is at the same time the object for verb 1 and the subject for verb 2.
 
-> **mi wol tu kana sabze.** - I want you eat vegetables.
+> **mi wol tu nyama sabze.** - I want you eat vegetables.
 
-In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **kana sabze**. So **tu** is the _pivot_ of the entire sentence.
+In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
 
 
 ### 8.7. Serial verbs
@@ -592,11 +592,11 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du kana pingo_.** - I see a man _who eats apples_.  
+> **mi wida man _du nyama pingo_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
-> **mi wida _pingo yemu da_ man.** - I see an _apple-eating_ man.
+> **mi wida _pingo nyamu da_ man.** - I see an _apple-eating_ man.
 
 
 
@@ -608,10 +608,10 @@ In Pandunia, a modal particle modifies the subsequent word, or the whole sentenc
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-> **ye kana bir plus.** - S/he drinks beer, _also_.  
-> **ye kana plus bir.** - S/he drinks _also beer_.  
-> **ye plus kana bir.** - S/he _also drinks_ beer.  
-> **plus ye kana bir.** - _Also s/he_ drinks beer.
+> **ye nyama bir plus.** - S/he drinks beer, _also_.  
+> **ye nyama plus bir.** - S/he drinks _also beer_.  
+> **ye plus nyama bir.** - S/he _also drinks_ beer.  
+> **plus ye nyama bir.** - _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 

@@ -19,7 +19,7 @@ akse [e] axis
 akta [a] act (play a role)  
 akte [e] act (scene)  
 akter [e] actor (actress)  
-alah [e] Allah  
+alah [e] God (Allah)  
 alkol [e] alcohol  
 alkoli [i] alcoholic  
 almari [e] cabinet (cupboard)  
@@ -52,8 +52,8 @@ arbuz [e] watermelon
 arena [e] arena (stadium)  
 arhentina [e] Argentina  
 armia [e] army  
-artar [e] artist  
 arte [e] art  
+arter [e] artist  
 asan [e] posture (asana)  
 asia [e] Asia  
 asiai [i] Asian  
@@ -91,21 +91,22 @@ bama [e] Myanmar (Burma)
 bambu [e] bamboo  
 bana [a] build (construct)  
 banana [e] banana  
-banda [a] bind  
+banda [a] tie (fasten, bind)  
 bande [e] band (bandage)  
 bandera [e] flag (banner)  
-bandur [e] prisoner (jailbird)  
-bandur kan [e] prison  
 bangla [e] Bangladesh (Bengal)  
 banka [a] save (deposit, bank)  
 banya [a] bathe  
 banye [e] bath  
-banya kamer [e] bathroom  
+banye kamar [e] bathroom  
 bar [e] bar (pub)  
-barat [e] India  
-barbar [i] barbarian  
+bara [a] bar (obstruct)  
+barbar [e] barbarian  
 barda [e] beard  
+barer [e] barrier  
 barka [a] congratulate  
+barti [e] Indian  
+bartia [e] India  
 baru [e] bear  
 barud [e] gunpowder  
 bas [i] enough (sufficient)  
@@ -116,6 +117,7 @@ bata [e] duck
 batakrot [e] platypus  
 batata [e] yam (sweet potato)  
 bateri [e] battery  
+baton [e] bar (rod, stick)  
 batu [e] stone  
 bax [e] language  
 bax lojia [e] linguistics  
@@ -170,6 +172,7 @@ bud din [e] Buddhism
 buda [a] realize (become aware of)  
 budan [e] Mercury  
 budi [i] aware (enlightened)  
+bufon [e] fool (buffoon)  
 bujet [e] budget  
 buk [e] book  
 bula [a] forget  
@@ -196,7 +199,7 @@ capa [a] press (imprint)
 car [num] four (4)  
 carnir [e] hinge (pivot)  
 cat [e] chat (informal conversation)  
-cat kamer [e] chat room  
+cat kamar [e] chat room  
 catar [e] umbrella (parasol)  
 caye [e] shadow  
 ceka [a] check (to examine)  
@@ -215,7 +218,8 @@ cis [e] cheese
 cita [a] quote  
 coda [a] fuck  
 cok [i] many (much)  
-cokolat [e] chocolate  
+cokolet [e] chocolate  
+cokolet baton [e] chocolate bar  
 corab [e] sock (stocking)  
 cuka [e] vinegar  
 cun [e] choice (selection)  
@@ -245,8 +249,6 @@ danmark [e] Denmark
 dante [e] tooth  
 dante brox [e] tooth brush  
 dante dokter [e] dentist  
-dar [a] give  
-dare [e] gift  
 darba [a] strike (punch)  
 daria [e] sea (ocean)  
 darme [e] dharma (piety)  
@@ -293,6 +295,8 @@ dom [e] home (residence)
 doma [a] live (dwell, reside)  
 dominika [e] Dominican Republic  
 domino [e] dominoes  
+don [e] gift  
+dona [a] give  
 dong [e] east  
 doste [e] friend  
 dosti [i] friendly  
@@ -530,7 +534,8 @@ hazin [e] treasure (treasury)
 he [int] huh? (pardon?)  
 helen [e] Greek (Hellenic)  
 helmet [e] helmet  
-hema [e] tent  
+hem [int] hmm  
+hema [a] ponder (think)  
 hen [e] hate  
 hero [e] hero  
 heroi [i] heroic  
@@ -638,6 +643,11 @@ joga [a] play (have fun)
 jok [e] joke  
 joker [e] joker  
 jong [e] species  
+jowan [i] young  
+jowan fem [e] girl  
+jowan man [e] boy  
+jowane [e] youth (young person)  
+jowania [e] youth (young age)  
 judo [e] judo  
 jul [e] joule (J)  
 jumle [e] sentence (phrase)  
@@ -740,8 +750,8 @@ klasa [a] classify (categorize)
 klub [e] club  
 kod [e] code (cipher)  
 koda [a] encode  
-kok [e] chicken  
-koko [e] coco  
+koko [e] chicken  
+kokos [e] coco  
 kolera [e] cholera  
 kolombia [e] Colombia  
 kolonia [e] colony (settlemen)  
@@ -788,7 +798,7 @@ kuang [e] mineral (ore)
 kuang su [e] mineral water  
 kuba [e] Cuba  
 kuka [a] cook (prepare food)  
-kuke kamer [e] kitchen  
+kuke kamar [e] kitchen  
 kuker [e] cook (chef)  
 kul [i] cool  
 kultur [e] culture  
@@ -822,7 +832,6 @@ lat [i] pungent (spicy, hot)
 lat cili [e] chili pepper  
 latif [i] nice (pleasant, lovely)  
 latvia [e] Latvia  
-law [i] old (not young)  
 laxa [a] release (let, let go)  
 lay [a] come  
 laye salam [fr] welcome  
@@ -849,7 +858,7 @@ linye [e] line (stripe)
 lis [i] smooth  
 liste [e] list (listing)  
 lit [i] little (small)  
-lit kane [e] snack  
+lit nyame [e] snack  
 liter [e] liter (litre)  
 lixu [e] squirrel  
 lobak [e] radish  
@@ -909,6 +918,7 @@ manga [e] comic (cartoon)
 mango [e] mango  
 mangus [e] mangosteen  
 manioka [e] cassava (manioc)  
+manse [e] meat (flesh)  
 mantu [e] dumpling  
 manux [e] human being  
 manuxia [e] mankind (humanity)  
@@ -1069,7 +1079,6 @@ na way [pr] out (outside)
 na wen [pr] around (about)  
 na xia [pr] below (under)  
 na yang du [pr] like (in the style of)  
-nabat [e] plant (vegetable)  
 nabi [e] prophet  
 nadi [e] river  
 nafas [e] breath  
@@ -1077,7 +1086,7 @@ nahun [e] nail (fingernail)
 naijiria [e] Nigeria  
 nam [e] name  
 nama [a] call (give name)  
-namu [u] be called (by a name)  
+namu [u] be called (be named)  
 nanas [e] pineapple  
 nano [num] nano-  
 narak [e] hell  
@@ -1131,7 +1140,9 @@ numer [e] number
 numer un [e] first (number one)  
 nun [o] now  
 nuton [e] newton (N)  
-nyam [e] meat (flesh)  
+nyam [e] food (meal)  
+nyam kamar [e] dining room  
+nyama [a] consume (eat or drink)  
 
 ##o  
 
@@ -1235,6 +1246,7 @@ pixa [a] piss (urine)
 plan [e] plan  
 plana [a] intend (plan)  
 planet [e] planet  
+plante [e] plant (vegetation)  
 plastik [e] plastic  
 plat [e] plate  
 platon [e] Plato  
@@ -1279,6 +1291,7 @@ pul [e] bridge
 pulo [e] island  
 punt [e] point (full stop)  
 pupe [e] doll (puppet)  
+puran [i] old (ancient)  
 puru [e] feather  
 putau [e] grape  
 putong [i] common (universal)  
@@ -1352,6 +1365,7 @@ sa far [pr] that (that over there)
 sa jin [pr] this (this over here)  
 sabat [e] Sabbath  
 sabun [e] soap  
+sabze [e] vegetable  
 sadi [i] plain (simple)  
 saf [i] clean (pure)  
 safa [a] clean (purify)  
@@ -1386,7 +1400,7 @@ sar gut [e] skull
 sat [e] time of day (moment)  
 sauna [e] sauna  
 se [pr] self  
-sekretar [e] secretary  
+sekreter [e] secretary  
 seksa [a] have sex  
 sekse [e] sex (sexual intercourse)  
 seksi [i] sexy (sexual)  
@@ -1433,7 +1447,7 @@ sofi [e] wise
 sofia [e] wisdom  
 sol [o] only (just)  
 son [e] sleep  
-son kamer [e] bedroom  
+son kamar [e] bedroom  
 sona [a] sleep (be asleep)  
 sonda [a] sound (make a sound)  
 sonde [e] sound (audio)  
@@ -1449,7 +1463,7 @@ su [e] water
 suan [i] sour  
 suba [e] morning  
 suba den [e] forenoon  
-suba yame [e] breakfast  
+suba nyame [e] breakfast  
 suba salam [fr] Good morning  
 sud [e] south  
 sudafrika [e] South Africa (republic)  
@@ -1511,6 +1525,7 @@ tem [e] topic (subject, theme)
 tema [a] be about (discuss as a subject)  
 tena [a] hold (grasp)  
 tenci [e] weather  
+tende [e] tent  
 tenis [e] tennis  
 tenta [a] tempt (entice)  
 teore [e] theory  
@@ -1655,8 +1670,8 @@ xal [e] scarf (shawl)
 xalet [e] cottage (chalet)  
 xam [e] evening  
 xam den [e] afternoon  
-xam yame [e] dinner  
 xam salam [fr] Good evening  
+xam yame [e] dinner  
 xaman [e] shaman  
 xamba [e] field (countryside)  
 xampu [e] shampoo  
@@ -1685,6 +1700,8 @@ xina [a] believe
 xir [e] poem  
 xirer [e] poet  
 xirop [e] syrup  
+xix [int] hush (shh)  
+xixi [i] silent  
 xok [e] shock (collision)  
 xow [e] show  
 xowa [a] show (display)  
@@ -1696,10 +1713,7 @@ xula [a] repair (fix)
 yak [e] yak  
 yakin [e] certain (sure)  
 yala [a] hurry (hasten)  
-yam [a] consume (eat or drink)  
 yaman [e] Yemen  
-yame [e] food (meal)  
-yame kamar [e] dining room  
 yang [e] kind (type, style)  
 yani [conj] that is (in other words, i.e.)  
 yasen [e] ash tree  
@@ -1721,11 +1735,7 @@ yoni [e] vagina
 yosai [e] fortress (stronghold)  
 yumor [e] humor  
 yumori [i] humorous (comical, funny)  
-yung [i] young  
-yung fem [e] girl  
-yung man [e] boy  
 yungam [i] brave (courageous)  
-yunge [e] youth (young person)  
 yureka [a] find (discover)  
 
 ##z  
@@ -1750,13 +1760,16 @@ zimbabwe [e] Zimbabwe
 zine [e] adultery (infidelity)  
 zink [e] zinc  
 zira [e] cumin  
-zizi [e] fly (housefly)  
+ziza [a] sizzle  
 zon [e] belt (zone)  
 zukam [e] cold (illness)  
 zulu [e] Zulu  
 zumrud [e] emerald  
 
--at [suff] object suffix  
--er [suff] agent suffix  
+-a [suff] suffix for verbs with SVO word order  
+-at [suff] suffix for passive object  
+-e [suff] suffix for derived nouns  
+-er [suff] suffix for active doer  
 -i [suff] suffix for adjectives  
 -ia [suff] suffix for areas  
+-u [suff] suffix for verbs with OVS word order  

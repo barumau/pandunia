@@ -71,7 +71,6 @@ African   : afrikai
 after (following)   : na bada  
 afternoon   : xam den  
 age   : umur  
-agent suffix   : -er  
 agile   : ajil  
 agreement (amen)   : amen  
 agression (assault)   : agres  
@@ -83,7 +82,6 @@ Albania   : cip
 alcohol   : alkol  
 alcoholic   : alkoli  
 Algeria   : dzayer  
-Allah   : alah  
 allow (permit)   : permisa  
 almond   : badam  
 already (done)   : ja  
@@ -121,7 +119,7 @@ art   : arte
 article (writing)   : makala  
 artificial   : sani  
 artificial language (conlang)   : sani bax  
-artist   : artar  
+artist   : arter  
 ascetic   : asket  
 ash tree   : yasen  
 Asia   : asia  
@@ -159,19 +157,22 @@ bamboo   : bambu
 banana   : banana  
 band (bandage)   : bande  
 Bangladesh (Bengal)   : bangla  
+bar (obstruct)   : bara  
 bar (pub)   : bar  
+bar (rod, stick)   : baton  
 barbarian   : barbar  
 barrel (can)   : tong  
+barrier   : barer  
 base (foundation)   : baze  
 basic   : bazi  
 basket   : basket  
 bath   : banye  
 bathe   : banya  
-bathroom   : banya kamer  
+bathroom   : banye kamar  
 battery   : bateri  
 be about (discuss as a subject)   : tema  
 be born   : jenu  
-be called (by a name)   : namu  
+be called (be named)   : namu  
 be fond of (like, enjoy, be pleased)   : suku  
 be seen   : widu  
 bean or pea (legume)   : dou  
@@ -180,7 +181,7 @@ beard   : barda
 beautiful (handsome)   : sundar  
 bed   : bed  
 bedouin (nomadic)   : badawi  
-bedroom   : son kamer  
+bedroom   : son kamar  
 beef   : mumu nyam  
 beer   : bir  
 begin (commence)   : mula  
@@ -201,7 +202,6 @@ between   : inter
 Bible   : biblia  
 big   : day  
 billion (giga-)   : giga  
-bind   : banda  
 biology (study of life)   : jiwe lojia  
 bird   : paki  
 birth   : jen  
@@ -226,13 +226,13 @@ bottom   : tal
 bow instrument (violin, etc.)   : ticin  
 bowl (earless cup)   : wan  
 box (chest)   : sanduk  
-boy   : yung man  
+boy   : jowan man  
 boycott   : boikot  
 brain   : nau  
 brave (courageous)   : yungam  
 Brazil   : brazil  
 bread   : pan  
-breakfast   : suba yame  
+breakfast   : suba nyame  
 breast (boob)   : mam  
 breath   : nafas  
 bridge   : pul  
@@ -310,7 +310,7 @@ channel   : kanal
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : sura  
 chat (informal conversation)   : cat  
-chat room   : cat kamer  
+chat room   : cat kamar  
 check (to examine)   : ceka  
 checkers   : dama  
 cheer (hooray)   : hura  
@@ -321,7 +321,7 @@ cherub   : kerub
 chess   : xatur  
 chest (thorax)   : sen  
 chestnut   : kastan  
-chicken   : kok  
+chicken   : koko  
 chickpea   : humus  
 chief (boss)   : xef  
 child (offspring)   : bace  
@@ -330,7 +330,8 @@ chili pepper   : lat cili
 chimpanzee   : cimpanzi  
 China   : jungo  
 chinchilla   : cincila  
-chocolate   : cokolat  
+chocolate   : cokolet  
+chocolate bar   : cokolet baton  
 choice (selection)   : cun  
 choir (chorus)   : kor  
 cholera   : kolera  
@@ -358,7 +359,7 @@ cloud   : megam
 club   : klub  
 coal (carbon) : karbon  
 coat   : kot  
-coco   : koko  
+coco   : kokos  
 cocoa   : kakau  
 code (cipher)   : kod  
 coerce (force, compel)   : musa  
@@ -397,7 +398,7 @@ connect (join, link)   : liga
 connection (relationship)   : guanxe  
 consequence (follow-up)   : bade  
 consonant   : konson  
-consume (eat or drink)   : yam  
+consume (eat or drink)   : nyama  
 continue (resume)   : kontinu  
 cook (chef)   : kuker  
 cook (prepare food)   : kuka  
@@ -472,7 +473,7 @@ diamond   : almas
 die   : martu  
 die (dice)   : dado  
 dig (excavate)   : fosa  
-dining room   : yame kamar  
+dining room   : nyam kamar  
 dinner   : xam yame  
 disc (disk)   : diske  
 disperse   : jamula  
@@ -616,10 +617,10 @@ floor   : kamar tal
 flour   : ata  
 flower   : hua  
 fly   : feya  
-fly (housefly)   : zizi  
 focus (concentration)   : fokus  
 follow (come after)   : bada  
-food (meal)   : yame  
+food (meal)   : nyam  
+fool (buffoon)   : bufon  
 fool (idiot)   : bobo  
 foot   : ped  
 force (strength)   : bale  
@@ -666,18 +667,19 @@ German   : doic
 gesture   : jeste  
 get (receive, obtain, take)   : geta  
 ghost (fantom)   : fantom  
-gift   : dare  
+gift   : don  
 ginger   : inji  
 ginseng   : jenxen  
 giraffe   : jiraf  
-girl   : yung fem  
-give   : dar  
+girl   : jowan fem  
+give   : dona  
 give birth (procreate, generate)   : jena  
 glass   : glas  
 global   : panduniai  
 go   : enda  
 goal   : gol  
 god   : dew  
+God (Allah)   : alah  
 gold   : gim  
 good   : bon  
 Good day   : den salam  
@@ -749,6 +751,7 @@ hippopotamus   : gubu
 historian   : historer  
 history (story)   : histor  
 history (study of history)   : historia  
+hmm   : hem  
 hobby   : hobe  
 hockey   : hoke  
 hold (grasp)   : tena  
@@ -779,6 +782,7 @@ Hungary   : madyar
 hurry (hasten)   : yala  
 hurt   : paxa  
 hurt (pain)   : tung  
+hush (shh)   : xix  
 hybrid (mongrel)   : hibride  
 I (me)   : mi  
 ##i  
@@ -791,7 +795,8 @@ idealisme   : idealisme
 if (suppose, assume)   : jadi  
 important   : muhim  
 in (inside)   : na in  
-India   : barat  
+India   : bartia  
+Indian   : barti  
 Indonesia   : indonesia  
 inform (communicate)   : informa  
 information   : informe  
@@ -860,7 +865,7 @@ king or queen   : raje
 kingdom   : rajia  
 kiosk   : kioske  
 kiss   : bis  
-kitchen   : kuke kamer  
+kitchen   : kuke kamar  
 kiwi fruit   : kiwi  
 knead (give massage)   : masa  
 knife   : caku  
@@ -983,7 +988,7 @@ mean (cruel)   : zalim
 mean (medium, average)   : midi  
 mean (signify)   : mana  
 meaning (signification)   : mane  
-meat (flesh)   : nyam  
+meat (flesh)   : manse  
 medallion (medal)   : medalia  
 media   : midia  
 meditate (ponder)   : medita  
@@ -1105,7 +1110,6 @@ number   : numer
 nylon   : nilon  
 ##o  
 oasis   : waha  
-object suffix   : -at  
 occupation (career)   : karia  
 October   : mes 10 (mes des)  
 of (particle of possession)   : du  
@@ -1114,7 +1118,7 @@ officer   : ofiser
 often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okey  
-old (not young)   : law  
+old (ancient)   : puran  
 olive   : zaitun  
 Oman   : oman  
 on (on surface)   : na fas  
@@ -1221,7 +1225,7 @@ plain (simple)   : sadi
 plan   : plan  
 plane (plane tool)   : randa  
 planet   : planet  
-plant (vegetable)   : nabat  
+plant (vegetation)   : plante  
 plastic   : plastik  
 plate   : plat  
 Plato   : platon  
@@ -1249,6 +1253,7 @@ police officer   : poliser
 polite   : keci  
 politician   : politiker  
 politics   : politik  
+ponder (think)   : hema  
 pool (basin)   : basen  
 poor (miserable)   : miskin  
 popular   : nasi  
@@ -1281,8 +1286,6 @@ press (imprint)   : capa
 press (stamp)   : cap  
 priest (cleric)   : din guru  
 prime minister   : xef minister  
-prison   : bandur kan  
-prisoner (jailbird)   : bandur  
 problem   : problem  
 process (procedure)   : proses  
 production   : sania  
@@ -1411,7 +1414,7 @@ search   : serca
 season   : mosim  
 second(s)   : sekun  
 secret   : sir  
-secretary   : sekretar  
+secretary   : sekreter  
 seismology   : sisme lojia  
 selenium   : selen  
 self   : se  
@@ -1444,10 +1447,12 @@ sibling (brother or sister)   : aka
 sick (ill)   : beng  
 Sierra Leone   : salone  
 sign (signal)   : sinye  
+silent   : xixi  
 silver   : candi  
 sing   : gana  
 Singapore   : singapur  
 six (6)   : sis  
+sizzle   : ziza  
 skin   : pifu  
 skirt   : jup  
 skull   : sar gut  
@@ -1458,7 +1463,7 @@ Slovakia   : slowakia
 Slovenia   : slowenia  
 smoke   : duman  
 smooth   : lis  
-snack   : lit kane  
+snack   : lit nyame  
 snow   : hima  
 soap   : sabun  
 sock (stocking)   : corab  
@@ -1511,8 +1516,13 @@ suck   : cupa
 Sudan   : sudan  
 suffer (get hurt)   : paxu  
 suffering (passion)   : paxia  
+suffix for active doer   : -er  
 suffix for adjectives   : -i  
 suffix for areas   : -ia  
+suffix for derived nouns   : -e  
+suffix for passive object   : -at  
+suffix for verbs with OVS word order   : -u  
+suffix for verbs with SVO word order   : -a  
 sugar   : sukar  
 sugary (sweet)   : sukari  
 suggest (propose)   : teyana  
@@ -1562,7 +1572,7 @@ tell (narrate)   : saga
 tempt (entice)   : tenta  
 ten (10)   : des  
 tennis   : tenis  
-tent   : hema  
+tent   : tende  
 terror   : teror  
 terrorism   : terorisme  
 test (challenge)   : teste  
@@ -1589,6 +1599,7 @@ throw (launch)   : lanca
 thunder (roaring)   : grom  
 Thursday   : war 4 (war car)  
 ticket   : tiket  
+tie (fasten, bind)   : banda  
 time (occasion)   : mar  
 time of day (moment)   : sat  
 titanium   : titan  
@@ -1663,6 +1674,7 @@ vagina   : yoni
 value   : gaci  
 vanilla   : wanila  
 vase (flower pot)   : hua bin  
+vegetable   : sabze  
 veranda (porch)   : beranda  
 victim of killing (also: martyr)   : martur  
 video   : wideo  
@@ -1749,8 +1761,9 @@ yesterday   : yer
 yoga   : yog  
 you   : tu  
 you all   : tumen  
-young   : yung  
-youth (young person)   : yunge  
+young   : jowan  
+youth (young age)   : jowania  
+youth (young person)   : jowane  
 ##z  
 Zambia   : zambia  
 zero (none)   : nul  
