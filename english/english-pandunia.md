@@ -142,6 +142,7 @@ axis   : akse
 baby (darling)   : bebe  
 back   : ruk  
 backpack (rucksack)   : ruk sak  
+bad   : mal  
 bad (ruined, spoiled)   : harab  
 bag (sack)   : sak  
 bah! (yuck!)   : fu  
@@ -150,7 +151,7 @@ baker   : beker
 bakery   : bekeria  
 balcony (porch)   : balkon  
 ball   : bol  
-bamboo   : bambu  
+bamboo   : jug  
 banana   : banana  
 band (bandage)   : bande  
 Bangladesh (Bengal)   : bangla  
@@ -197,7 +198,7 @@ bench   : benci
 beret   : beret  
 between   : inter  
 Bible   : biblia  
-big   : day  
+big   : grandi  
 billion (giga-)   : giga  
 biology (study of life)   : jiwe lojia  
 bird   : paki  
@@ -257,7 +258,6 @@ buttocks (butt)   : pigu
 button   : boton  
 ##c  
 cabin (booth)   : kabin  
-cabinet (cupboard)   : almari  
 cafe (coffee shop)   : kafe kan  
 cage   : kafas  
 cake   : kek  
@@ -305,7 +305,7 @@ champion   : campion
 change (alter)   : altera  
 channel   : kanal  
 chaos (disorder, turmoil)   : haos  
-chapter (section)   : sura  
+chapter (section)   : bab  
 chat (informal conversation)   : cat  
 chat room   : cat kamar  
 check (to examine)   : ceka  
@@ -348,8 +348,6 @@ classify (categorize)   : klasa
 clean (pure)   : saf  
 clean (purify)   : safa  
 clear (not obscured)   : klar  
-close (shut)   : funga  
-closed (shut)   : fungi  
 cloth (fabric, textile)   : tela  
 clothing   : fuk  
 cloud   : megam  
@@ -390,7 +388,7 @@ concrete (material with cement)   : beton
 condition (requirement)   : xarte  
 cone   : konus  
 Congo   : kongo  
-congratulate   : barka  
+congratulate (bless)   : barka  
 connect (join, link)   : liga  
 connection (relationship)   : guanxe  
 consequence (follow-up)   : bade  
@@ -431,6 +429,7 @@ cultivate   : nonga
 culture   : kultur  
 cumin   : zira  
 cup   : kup  
+cupboard (closet, cabinet, wardrobe)   : almari  
 curry   : kari  
 curtain   : parde  
 curve (bend)   : kurbe  
@@ -496,8 +495,8 @@ drawing (picture)   : desen
 dress (gown)   : gaun  
 drill (bore)   : bora  
 drive   : gida  
-drug (medicine)   : dawa  
-drugstore (pharmacy)   : dawa kan  
+drug (intoxicating substance)   : drog  
+drugstore (pharmacy)   : dawe kan  
 drum   : tambur  
 dry   : suhi  
 duck   : bata  
@@ -552,12 +551,12 @@ event (case, instance)   : kazu
 every (each)   : mei  
 everybody (everyone)   : mei ren  
 everything   : mei xe  
-example   : misal  
+example (instance of)   : misal  
 except (minus)   : minus  
 exchange (swap)   : badala  
 excrement (shit)   : kak  
-exit (leaving)   : cut  
-exit door   : cut mun  
+exit (leaving)   : cud  
+exit door   : cud mun  
 eye   : yen  
 ##f  
 face   : muka  
@@ -624,7 +623,7 @@ foot   : ped
 force (strength)   : bale  
 foreign country   : way gojia  
 forenoon   : suba den  
-forest (jungle)   : jangal  
+forest (jungle, woods)   : jangal  
 forget   : bula  
 fork   : forke  
 form (shape)   : forme  
@@ -701,6 +700,7 @@ grimace   : grimas
 grind (grind in mill)   : mola  
 group   : grup  
 grow   : rastu  
+grow (get bigger)   : grandu  
 growth   : raste  
 guarantee   : garante  
 Guatemala   : guatemala  
@@ -758,8 +758,8 @@ holy (sacred)   : sant
 home (residence)   : dom  
 Honduras   : honduras  
 honey   : medu  
+honorable (respectable)   : xarif  
 hope (wish)   : inxala  
-horde (wandering troop)   : ordu  
 hormone   : hormon  
 horn   : korne  
 horn (bugle)   : laba  
@@ -791,6 +791,7 @@ idea   : idea
 ideal (optimal)   : ideal  
 idealisme   : idealisme  
 if (suppose, assume)   : jadi  
+image (picture)   : sure  
 important   : muhim  
 imprison (jail)   : karsa  
 imprisonment   : karse  
@@ -801,6 +802,7 @@ Indonesia   : indonesia
 inform (communicate)   : informa  
 information   : informe  
 inject   : juxa  
+ink   : mog  
 insect   : koncung  
 inside (interior)   : in  
 inspire (inspiration)   : inspira  
@@ -891,7 +893,7 @@ leader (director)   : lider
 leaf   : yep  
 learn (study)   : darsa  
 least (minimally)   : minim  
-leave (go out, exit)   : cuta  
+leave (go out, exit)   : cuda  
 leave (make stay)   : resta  
 Lebanon   : lubnan  
 lemon   : limun  
@@ -992,6 +994,7 @@ meaning (signification)   : mane
 meat (flesh)   : manse  
 medallion (medal)   : medalia  
 media   : midia  
+medicine (drug)   : dawe  
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mit  
@@ -1008,6 +1011,7 @@ meter   : meter
 method   : metod  
 Mexico   : mehiko  
 micro-   : mikro  
+military   : jangi  
 milk   : milke  
 miller   : moler  
 milli-   : mili  
@@ -1048,13 +1052,12 @@ MSG (monosodium glutamate)   : micin
 mud (mire)   : poto  
 mummy   : mumia  
 muscle   : muskul  
-mushroom (fungus)   : mogu  
+mushroom (fungus)   : funge  
 music   : musik  
 music fan   : musik nik  
 musician   : musiker  
 must   : mus  
 my   : mi da  
-my parents   : mi da law  
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewi sage  
 ##n  
@@ -1125,7 +1128,6 @@ Oman   : oman
 on (on surface)   : na fas  
 one (1)   : un  
 only (just)   : sol  
-open   : fungula  
 open   : kaya  
 open (not closed)   : kay  
 opinion (view)   : igen  
@@ -1135,6 +1137,8 @@ orange (fruit)   : aranje
 orange (orange-colored)   : aranji  
 order (arrange)   : ratiba  
 order (arrangement)   : ratibe  
+order (command)   : orde  
+order (issue a command)   : orda  
 orgasm   : orgazme  
 oriental dragon   : rong  
 origin   : asle  
@@ -1168,7 +1172,6 @@ papaya   : papaya
 paper   : paper  
 Paraguay   : paraguai  
 parent   : jener  
-parents   : bace da law  
 parrot (parakeet)   : papagai  
 part (fraction)   : fen  
 participate   : memba  
@@ -1210,6 +1213,7 @@ physics   : fizikia
 physique   : fizik  
 piano   : piano  
 picnic   : piknik  
+picture (illustrate)   : sura  
 pidgin (contact language)   : pijin  
 pie (pastry)   : pai  
 pig   : goro  
@@ -1351,7 +1355,7 @@ represent   : wakila
 research (to study)   : loja  
 resemble (be like)   : semu  
 resin   : rezin  
-respect (esteem)   : ging  
+respect (honor, esteem)   : xarifa  
 respond (give an answer)   : daba  
 rest (remainder)   : reste  
 restaurant   : restoran  

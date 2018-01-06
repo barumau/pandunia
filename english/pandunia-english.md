@@ -20,7 +20,7 @@ akter [e] actor (actress)
 alah [e] God (Allah)  
 alkol [e] alcohol  
 alkoli [i] alcoholic  
-almari [e] cabinet (cupboard)  
+almari [e] cupboard (closet, cabinet, wardrobe)  
 almas [e] diamond  
 alter [i] other  
 altera [a] change (alter)  
@@ -69,8 +69,8 @@ ayiti [e] Haiti
 
 ##b  
 
+bab [e] chapter (section)  
 bace [e] child (offspring)  
-bace da law [e] parents  
 bada [a] follow (come after)  
 badala [a] exchange (swap)  
 badam [e] almond  
@@ -85,7 +85,6 @@ bale [e] force (strength)
 balkon [e] balcony (porch)  
 balu [e] sand  
 bama [e] Myanmar (Burma)  
-bambu [e] bamboo  
 bana [a] build (construct)  
 banana [e] banana  
 banda [a] tie (fasten, bind)  
@@ -101,7 +100,7 @@ bara [a] bar (obstruct)
 barbar [e] barbarian  
 barda [e] beard  
 barer [e] barrier  
-barka [a] congratulate  
+barka [a] congratulate (bless)  
 barti [e] Indian  
 bartia [e] India  
 baru [e] bear  
@@ -218,6 +217,9 @@ cok [i] many (much)
 cokolet [e] chocolate  
 cokolet baton [e] chocolate bar  
 corab [e] sock (stocking)  
+cud [e] exit (leaving)  
+cud mun [e] exit door  
+cuda [a] leave (go out, exit)  
 cuka [e] vinegar  
 cun [e] choice (selection)  
 cuna [a] choose (select)  
@@ -225,9 +227,6 @@ cupa [a] suck
 cur [e] theft  
 cura [a] steal  
 curer [e] thief  
-cut [e] exit (leaving)  
-cut mun [e] exit door  
-cuta [a] leave (go out, exit)  
 
 ##d  
 
@@ -257,9 +256,8 @@ darse guru [e] teacher
 darse kan [e] school (institution)  
 darzer [e] tailor  
 dau [e] way (road)  
-dawa [e] drug (medicine)  
-dawa kan [e] drugstore (pharmacy)  
-day [i] big  
+dawe [e] medicine (drug)  
+dawe kan [e] drugstore (pharmacy)  
 debat [e] argument (debate)  
 deci [num] deci-  
 dem [e] point (spot)  
@@ -303,6 +301,7 @@ dox [e] fault (guilt)
 doxi [i] guilty  
 doze [e] portion (dose)  
 drama [e] drama  
+drog [e] drug (intoxicating substance)  
 du [pr] of (particle of possession)  
 duan [i] short (not long)  
 duga [a] read  
@@ -424,9 +423,7 @@ fuka [a] wear clothes
 ful [i] full  
 fula [a] fill  
 funca [a] function (work)  
-funga [a] close (shut)  
-fungi [i] closed (shut)  
-fungula [a] open  
+funge [e] mushroom (fungus)  
 futur [i] future  
 
 ##g  
@@ -463,7 +460,6 @@ geta [a] get (receive, obtain, take)
 gida [a] drive  
 giga [num] billion (giga-)  
 gim [e] gold  
-ging [e] respect (esteem)  
 gitar [e] guitar  
 glas [e] glass  
 gojia [e] country (land)  
@@ -478,6 +474,8 @@ graf [e] depiction (graph)
 grafa [a] depict (describe, illustrate)  
 grafi [i] graphic (descriptive)  
 gram [e] gram  
+grandi [i] big  
+grandu [u] grow (get bigger)  
 gras [e] grass  
 grimas [e] grimace  
 grom [e] thunder (roaring)  
@@ -612,8 +610,9 @@ jan [a] know
 jane [e] knowledge  
 janela [e] window  
 jang [e] fight (war)  
-jangal [e] forest (jungle)  
+jangal [e] forest (jungle, woods)  
 janger [e] warrior (fighter)  
+jangi [i] military  
 jani [i] known  
 jara [e] jug (jar)  
 jaz [e] jazz  
@@ -646,6 +645,7 @@ jowan man [e] boy
 jowane [e] youth (young person)  
 jowania [e] youth (young age)  
 judo [e] judo  
+jug [e] bamboo  
 jul [e] joule (J)  
 jumle [e] sentence (phrase)  
 jungo [e] China  
@@ -907,6 +907,7 @@ makala [e] article (writing)
 makan [e] butter  
 makas [e] scissors  
 makedonia [e] Macedonia  
+mal [i] bad  
 malaisia [e] Malaysia  
 malaria [e] malaria  
 mam [e] breast (boob)  
@@ -999,7 +1000,6 @@ metod [e] method
 meza [e] table  
 mi [pr] I (me)  
 mi da [pr] my  
-mi da law [e] my parents  
 micin [e] MSG (monosodium glutamate)  
 midi [i] mean (medium, average)  
 midia [e] media  
@@ -1025,7 +1025,7 @@ minus [o] except (minus)
 minut [e] minute  
 mira [a] reflect  
 mirer [e] mirror  
-misal [e] example  
+misal [e] example (instance of)  
 miskin [i] poor (miserable)  
 misri [e] Egypt  
 mit [e] meeting (gathering)  
@@ -1033,7 +1033,7 @@ mita [a] meet
 mode [e] fashion (trend)  
 mode nik [e] fashionista  
 model [e] model (design)  
-mogu [e] mushroom (fungus)  
+mog [e] ink  
 mola [a] grind (grind in mill)  
 moler [e] miller  
 moli [e] jasmine  
@@ -1159,7 +1159,8 @@ oma [e] grandmother
 oman [e] Oman  
 opa [e] grandfather  
 or [e] ear  
-ordu [e] horde (wandering troop)  
+orda [a] order (issue a command)  
+orde [e] order (command)  
 orgazme [e] orgasm  
 oskur [i] dark (dim)  
 osteraih [e] Austria  
@@ -1490,7 +1491,8 @@ sundar [e] beautiful (handsome)
 suomi [e] Finland  
 sup [e] soup  
 super [e] superb (wonderful, super)  
-sura [e] chapter (section)  
+sura [a] picture (illustrate)  
+sure [e] image (picture)  
 suriname [e] Suriname  
 surya [e] sun  
 suxi [e] sushi  
@@ -1683,6 +1685,8 @@ xan [e] mountain (hill)
 xani [e] Saturn  
 xanti [e] peace (calm)  
 xaria [e] shari'a  
+xarif [i] honorable (respectable)  
+xarifa [a] respect (honor, esteem)  
 xarta [a] stipulate  
 xarte [e] condition (requirement)  
 xatan [e] devil (Satan)  
