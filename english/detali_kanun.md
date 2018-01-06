@@ -64,7 +64,7 @@ An adjective is a word that adds a particular quality for a noun. In Pandunia an
 > **gaw meza** - high table
 > **bon kursi** - good chair
 
-An adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
+When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
 > **batu day.** - The stone is big.  
 > **meza gaw.** - The table is high.
@@ -816,7 +816,7 @@ There is a handful of verbs, which appear without the ending. These are some of 
 
 Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
 
-1. If the root is an action, then its verbal form will mean "to do the action". For example from **wide** = "a look" we get **wida** = "to look".
+1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **wida** = "to look".
 2. If the root is a description, like **now-** (**nowi** = new), then its verbal form will mean "to turn into that quality". For example from **nowi** = "new" we get **nowa** = "to make new" or "to renew".
 
 
@@ -870,24 +870,34 @@ Note! Pandunia doesn't follow the rule about action-roots because we think that 
 
 ### 11.2. Derivational Suffixes
 
-#### 11.2.1. -er
+#### 11.2.1. -ar
 
-Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
+Creates agent nouns from action roots. It denotes a person or a tool who does the action.
 
-**loga** to speak; **loger** speaker, the one who speaks  
-**baka** to bake; **baker** baker, the one who bakes  
-**lida** to lead; **lider** leader, the one who leads  
-**komputa** to compute, to process data; **komputer** computer  
-**marta** to kill; **marter** killer  
+**loga** to speak; **logar** speaker, the one who speaks  
+**baka** to bake; **bakar** baker, the one who bakes  
+**lida** to lead; **lidar** leader, the one who leads  
+**komputa** to compute, to process data; **komputar** computer  
+**marta** to kill; **martar** killer  
 
-#### 11.2.2. -at
+#### 11.2.2. -ur
 
-Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
+Creates patient nouns from action roots. It denotes a person or a thing to whom the action is done.
 
-**adresa** to address; **adresat** addressee; person or thing to which something is addressed  
-**marta** to kill; **martat** the one who gets killed  
+**kriata** to create; **kriatur** creature, the one who is created  
+**marta** to kill; **martur** the one who gets killed; by extension: a martyr  
+**folda** to fold; **foldur** folder, something that is folded
 
-#### 11.2.3. -ia
+#### 11.2.3. -ir
+
+Creates agent nouns from noun roots. It denotes someone who is associated with the root.
+
+**sapat** shoe; **sapatir** shoemaker  
+**musket** musket; **musketir** musketeer  
+**kas** cash desk; **kasir** cashier  
+
+
+#### 11.2.4. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -909,11 +919,7 @@ Also abstract nouns often end in **-ia**.
 **nowi** new, **nowia** newness, novelty  
 
 
-#### 11.2.6. -il-
-
-
-
-#### 11.2.7. -is-
+#### 11.2.5. -is-
 
 Causative suffix.
 
@@ -922,7 +928,7 @@ Causative suffix.
 **nota** to note  
 **notisa** to notify  
 
-#### 11.2.8. -ul-
+#### 11.2.6. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 

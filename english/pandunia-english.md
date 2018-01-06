@@ -2,7 +2,7 @@
 
 a [conj] but  
 adres [e] address  
-adresat [e] addressee  
+adresur [e] addressee  
 adulte [e] adult  
 afrika [e] Africa  
 afrikai [i] African  
@@ -15,8 +15,8 @@ ajil [i] agile
 ajo [o] today  
 akse [e] axis  
 akta [a] act (play a role)  
+aktar [e] actor (actress)  
 akte [e] act (scene)  
-akter [e] actor (actress)  
 alah [e] God (Allah)  
 alkol [e] alcohol  
 alkoli [i] alcoholic  
@@ -49,8 +49,8 @@ arbuz [e] watermelon
 arena [e] arena (stadium)  
 arhentina [e] Argentina  
 armia [e] army  
+artar [e] artist  
 arte [e] art  
-arter [e] artist  
 asan [e] posture (asana)  
 asia [e] Asia  
 asiai [i] Asian  
@@ -94,12 +94,12 @@ bangla [e] Bangladesh (Bengal)
 banka [a] save (deposit, bank)  
 banya [a] bathe  
 banye [e] bath  
-banye kamar [e] bathroom  
+banye kamer [e] bathroom  
 bar [e] bar (pub)  
 bara [a] bar (obstruct)  
 barbar [e] barbarian  
 barda [e] beard  
-barer [e] barrier  
+barir [e] barrier  
 barka [a] congratulate (bless)  
 barti [e] Indian  
 bartia [e] India  
@@ -126,8 +126,8 @@ be [pr] without
 bebe [e] baby (darling)  
 bed [e] bed  
 beka [a] bake  
-beker [e] baker  
-bekeria [e] bakery  
+bekar [e] baker  
+bekaria [e] bakery  
 belarus [e] Belarus  
 belgi [e] Belgium  
 belize [e] Belize  
@@ -171,6 +171,7 @@ budi [i] aware (enlightened)
 bufon [e] fool (buffoon)  
 bujet [e] budget  
 buk [e] book  
+buking [e] booking (reservation)  
 bula [a] forget  
 bunduk [e] rifle  
 bus [e] bus  
@@ -195,7 +196,7 @@ capa [a] press (imprint)
 car [num] four (4)  
 carnir [e] hinge (pivot)  
 cat [e] chat (informal conversation)  
-cat kamar [e] chat room  
+cat kamer [e] chat room  
 catar [e] umbrella (parasol)  
 caye [e] shadow  
 ceka [a] check (to examine)  
@@ -226,7 +227,7 @@ cuna [a] choose (select)
 cupa [a] suck  
 cur [e] theft  
 cura [a] steal  
-curer [e] thief  
+curar [e] thief  
 
 ##d  
 
@@ -244,7 +245,7 @@ danke [e] thanks (thank you)
 danmark [e] Denmark  
 dante [e] tooth  
 dante brox [e] tooth brush  
-dante dokter [e] dentist  
+dante doktar [e] dentist  
 darba [a] strike (punch)  
 daria [e] sea (ocean)  
 darme [e] dharma (piety)  
@@ -254,7 +255,6 @@ darse [e] lesson
 darse bace [e] student (pupil)  
 darse guru [e] teacher  
 darse kan [e] school (institution)  
-darzer [e] tailor  
 dau [e] way (road)  
 dawe [e] medicine (drug)  
 dawe kan [e] drugstore (pharmacy)  
@@ -275,6 +275,7 @@ dew [e] god
 dew lojia [e] theology  
 dewi [i] divine (godly)  
 dewi sage [e] myth (divine story)  
+dex [e] country (land)  
 deya [e] village  
 dian [e] attention (focus)  
 din [e] religion (worship)  
@@ -284,7 +285,7 @@ diske [e] disc (disk)
 do [num] two (2)  
 doic [e] German  
 dokta [a] heal (cure)  
-dokter [e] doctor (physician, healer)  
+doktar [e] doctor (physician, healer)  
 dolar [e] dollar  
 dom [e] home (residence)  
 doma [a] live (dwell, reside)  
@@ -349,10 +350,10 @@ faide [e] use (utility, benefit)
 faidi [i] useful (beneficial)  
 fain [i] fine (delicate)  
 fakta [a] make (create)  
-faktat [e] creature (created)  
+faktar [e] maker (creator, factor)  
+faktaria [e] factory  
 fakte [e] creation (fact)  
-fakter [e] maker (creator, factor)  
-fakteria [e] factory  
+faktur [e] creature (created)  
 famil [e] family  
 famil nam [e] surname (family name)  
 fan [e] fun (amusement)  
@@ -389,10 +390,10 @@ figur [e] figure (representation)
 fiksa [a] fix (attach)  
 file [e] line (row)  
 filme [e] film  
-filsofer [e] philosopher  
+filsofar [e] philosopher  
 filsofi [i] philosophic  
 filsofia [e] philosophy  
-filter [e] filter  
+filtar [e] filter  
 fin [e] end  
 fina [a] finish (put an end to)  
 final [i] last (final)  
@@ -401,8 +402,8 @@ finger wen [e] finger ring
 fini [i] finished  
 fix [e] fish  
 fizik [e] physique  
-fiziker [e] physicist  
 fizikia [e] physics  
+fizikir [e] physicist  
 fobe [e] fear (phobia)  
 fokus [e] focus (concentration)  
 fokusa [a] concentrate  
@@ -454,7 +455,7 @@ gazel [e] gazelle
 gazet [e] magazine (journal, gazette)  
 gem [e] game  
 gema [a] play a game  
-gemer [e] player (gamer)  
+gemar [e] player (gamer)  
 gen [e] root  
 geta [a] get (receive, obtain, take)  
 gida [a] drive  
@@ -462,7 +463,6 @@ giga [num] billion (giga-)
 gim [e] gold  
 gitar [e] guitar  
 glas [e] glass  
-gojia [e] country (land)  
 gol [e] goal  
 gola [e] throat (gullet)  
 gom [e] rubber  
@@ -496,8 +496,8 @@ gut [e] bone
 ##h  
 
 haba [a] have  
-habar [e] news  
-habar gazet [e] newspaper (gazette)  
+haber [e] news  
+haber gazet [e] newspaper (gazette)  
 habu [u] belong  
 haha [int] laugh  
 hak [e] right (justification, privilege)  
@@ -543,7 +543,7 @@ hindu [e] Hindu
 hisab [e] calculation (arithmetic, computation)  
 hisaba [a] calculate  
 histor [e] history (story)  
-historer [e] historian  
+historar [e] historian  
 historia [e] history (study of history)  
 hiyar [e] cucumber  
 hobe [e] hobby  
@@ -571,14 +571,14 @@ idealisme [e] idealisme
 igen [e] opinion (view)  
 iha [e] donkey (ass)  
 impera [a] reign (rule as an emperor)  
-imperer [e] emperor  
+imperar [e] emperor  
 imperia [e] empire  
 in [e] inside (interior)  
 indonesia [e] Indonesia  
 informa [a] inform (communicate)  
 informe [e] information  
 ingay [a] should (ought) 
-injener [e] engineer  
+injenar [e] engineer  
 inji [e] ginger  
 inspira [a] inspire (inspiration)  
 inter [e] between  
@@ -611,7 +611,7 @@ jane [e] knowledge
 janela [e] window  
 jang [e] fight (war)  
 jangal [e] forest (jungle, woods)  
-janger [e] warrior (fighter)  
+jangar [e] warrior (fighter)  
 jangi [i] military  
 jani [i] known  
 jara [e] jug (jar)  
@@ -622,7 +622,7 @@ jelos [i] jealous
 jen [e] birth  
 jen den [e] birthday  
 jena [a] give birth (procreate, generate)  
-jener [e] parent  
+jenar [e] parent  
 jentil [i] kind (nice, gentle)  
 jenu [a] be born  
 jenxen [e] ginseng  
@@ -637,7 +637,7 @@ jiwe [e] life
 jiwe lojia [e] biology (study of life)  
 joga [a] play (have fun)  
 jok [e] joke  
-joker [e] joker  
+jokar [e] joker  
 jong [e] species  
 jowan [i] young  
 jowan fem [e] girl  
@@ -672,13 +672,13 @@ kakau [e] cocoa
 kal [i] black  
 kalam [e] pen  
 kalsium [e] calcium (Ca)  
-kamar [e] room (chamber)  
-kamar tal [e] floor  
 kambudia [e] Cambodia  
+kamer [e] room (chamber)  
+kamer tal [e] floor  
 kamera [e] camera  
 kamis [e] shirt  
 kamp [e] camp  
-kamper [e] camper  
+kampar [e] camper  
 kan [e] workshop (place for...)  
 kanada [e] Canada  
 kanal [e] channel  
@@ -698,11 +698,6 @@ karbon [e] coal (carbon)
 kari [e] curry  
 karia [e] occupation (career)  
 karot [e] carrot  
-karsa [a] imprison (jail)  
-karsat [e] prisoner (jailbird)  
-karse [e] imprisonment  
-karser [e] jailer  
-karsia [e] prison  
 karte [e] card  
 kasa [e] case (container)  
 kastan [e] chestnut  
@@ -763,7 +758,7 @@ komal [i] soft
 komik [i] comical (funny)  
 kompania [e] company (corporation)  
 komputa [a] compute (to process data)  
-komputer [e] computer  
+komputar [e] computer  
 komun [e] common (shared)  
 komunisme [e] communism  
 komuniste [e] communist  
@@ -801,13 +796,13 @@ kuang [e] mineral (ore)
 kuang su [e] mineral water  
 kuba [e] Cuba  
 kuka [a] cook (prepare food)  
-kuke kamar [e] kitchen  
-kuker [e] cook (chef)  
+kukar [e] cook (chef)  
+kuke kamer [e] kitchen  
 kul [i] cool  
 kultur [e] culture  
 kup [e] cup  
 kupa [e] dome (vault)  
-kupar [e] copper  
+kuper [e] copper  
 kupon [e] coupon  
 kura [a] care (cure)  
 kuran [e] Quran (Koran)  
@@ -847,7 +842,7 @@ liber [i] free (unchained)
 libera [a] free (liberate)  
 lici [e] lychee (litchi)  
 lida [a] lead (direct)  
-lider [e] leader (director)  
+lidar [e] leader (director)  
 lietuva [e] Lithuania  
 liga [a] connect (join, link)  
 lige [e] joint (league)  
@@ -882,7 +877,7 @@ luna [e] moon
 lusun [e] asparagus  
 luta [a] rob (loot)  
 luza [a] lose (fail to win)  
-luzer [e] loser  
+luzar [e] loser  
 
 ##m  
 
@@ -895,7 +890,7 @@ madyar [e] Hungary
 maf [e] sorry (pardon)  
 mafan [e] trouble (disturbance, bother)  
 mafana [a] bother  
-mager [e] magician (sorcerer)  
+magar [e] magician (sorcerer)  
 magi [i] magical  
 magia [e] magic  
 magnet [e] magnet  
@@ -935,8 +930,8 @@ marke [e] mark (trace)
 marmar [e] marble  
 marsi [e] Mars  
 marta [a] kill  
+martar [e] killer  
 marte [e] death  
-marter [e] killer  
 marti [i] dead  
 martu [a] die  
 martur [e] victim of killing (also: martyr)  
@@ -1017,14 +1012,14 @@ mini [i] lesser (mini-)
 minim [o] least (minimally)  
 minimalisme [e] minimalism  
 minimi [i] minimal  
-minister [e] minister (politician)  
-ministeria [e] ministry  
+ministar [e] minister (politician)  
+ministaria [e] ministry  
 minor [i] minor (not major)  
 minoria [e] minority  
 minus [o] except (minus)  
 minut [e] minute  
 mira [a] reflect  
-mirer [e] mirror  
+mirar [e] mirror  
 misal [e] example (instance of)  
 miskin [i] poor (miserable)  
 misri [e] Egypt  
@@ -1035,10 +1030,10 @@ mode nik [e] fashionista
 model [e] model (design)  
 mog [e] ink  
 mola [a] grind (grind in mill)  
-moler [e] miller  
+molar [e] miller  
 moli [e] jasmine  
 mongol [e] Mongolia  
-monster [e] monster  
+monstar [e] monster  
 moral [e] morality (ethics)  
 mos [e] moss  
 mosim [e] season  
@@ -1063,7 +1058,7 @@ muse [e] coercion
 musik [e] music  
 musik nik [e] music fan  
 musika [a] play music  
-musiker [e] musician  
+musikar [e] musician  
 muskul [e] muscle  
 muxing [e] Jupiter  
 muxu [e] mouse  
@@ -1129,7 +1124,6 @@ nos [e] nose
 not [e] note (observation)  
 not buk [e] notebook  
 nota [a] note (observe, notice)  
-noter [e] notary  
 notis [e] notice (notification)  
 notisa [a] notify  
 nowa [a] renew (make new, renovate)  
@@ -1144,14 +1138,14 @@ numer un [e] first (number one)
 nun [o] now  
 nuton [e] newton (N)  
 nyam [e] food (meal)  
-nyam kamar [e] dining room  
+nyam kamer [e] dining room  
 nyama [a] consume (eat or drink)  
 
 ##o  
 
 o [int] oh!  
 ofis [e] office (position)  
-ofiser [e] officer  
+ofisar [e] officer  
 okey [e] okay (acceptable)  
 okeya [a] accept (to say okay)  
 okse [e] oxygen  
@@ -1259,11 +1253,12 @@ platonia [e] Platonism
 plus [o] also (plus, too)  
 pluto [e] Pluto (dwarf planet)  
 poker [e] poker  
+polau [e] pilaf (pulao)  
 poli [num] several  
 polis [e] police  
-poliser [e] police officer  
+polisar [e] police officer  
 politik [e] politics  
-politiker [e] politician  
+politikar [e] politician  
 polska [e] Poland  
 pompa [a] pump  
 ponta [a] point (indicate)  
@@ -1280,11 +1275,16 @@ poza [a] pose (set)
 poze [e] pose (position)  
 pratik [i] practical  
 presis [i] precise (exact, accurate)  
+prizon [e] prison (imprisonment)  
+prizona [a] imprison (jail)  
+prizonar [e] jailer (imprisoner)  
+prizonia [e] prison  
+prizonur [e] prisoner  
 proba [a] try (attempt)  
 problem [e] problem  
 profesor [e] professor  
 program [e] program  
-programer [e] programmer (coder)  
+programar [e] programmer (coder)  
 projet [e] project (planned endeavour)  
 proses [e] process (procedure)  
 puder [e] powder  
@@ -1373,10 +1373,10 @@ sabze [e] vegetable
 sadi [i] plain (simple)  
 saf [i] clean (pure)  
 safa [a] clean (purify)  
-safar [e] travel (voyage)  
-safar nik [e] tourist  
-safara [a] travel  
-safarer [e] traveler  
+safer [e] travel (voyage)  
+safer nik [e] tourist  
+safera [a] travel  
+saferar [e] traveler  
 saga [a] tell (narrate)  
 sage [e] tale (legend, saga)  
 sak [e] bag (sack)  
@@ -1399,13 +1399,15 @@ sani bax [e] artificial language (conlang)
 sania [e] production  
 sant [i] holy (sacred)  
 sapat [e] shoe  
+sapatir [e] shoemaker  
 sar [e] head  
 sar gut [e] skull  
 sat [e] time of day (moment)  
 saudar [e] sibling (brother or sister)  
 sauna [e] sauna  
 se [pr] self  
-sekreter [e] secretary  
+sekretar [e] secretary  
+sekretaria [e] secretariat  
 seksa [a] have sex  
 sekse [e] sex (sexual intercourse)  
 seksi [i] sexy (sexual)  
@@ -1452,15 +1454,16 @@ sofi [e] wise
 sofia [e] wisdom  
 sol [o] only (just)  
 son [e] sleep  
-son kamar [e] bedroom  
+son kamer [e] bedroom  
 sona [a] sleep (be asleep)  
 sonda [a] sound (make a sound)  
 sonde [e] sound (audio)  
 sos [e] sauce  
 sosis [e] sausage  
+sportar [e] athlete (sportsman)  
 sporte [e] sport (athletics)  
-sporter [e] athlete (sportsman)  
 stadion [e] stadium  
+stasia [e] station  
 stat [e] state  
 stati [i] static (stationary)  
 stop [e] stop  
@@ -1483,7 +1486,7 @@ suki [i] happy (delighted)
 suku [u] be fond of (like, enjoy, be pleased)  
 sultan [e] power (authority, rule)  
 sultana [a] rule (be in charge)  
-sultaner [e] ruler  
+sultanar [e] ruler  
 sum [e] sum (total)  
 suma [a] sum up (add together)  
 sun [o] soon  
@@ -1520,7 +1523,7 @@ tanzania [e] Tanzania
 tap [e] tap (stopper)  
 tara [e] star  
 tatu [e] tattoo  
-taula [e] towel  
+taul [e] towel  
 tawa [e] frying pan  
 tazi [i] fresh  
 tekne [e] technique (technology)  
@@ -1608,7 +1611,7 @@ urdun [e] Jordan
 uruguai [e] Uruguay  
 usamerika [e] US America  
 uza [a] use  
-uzer [e] user  
+uzar [e] user  
 
 ## v
 
@@ -1642,13 +1645,14 @@ wat [e] watt
 wax maxin [e] washing machine  
 waxa [a] wash  
 way [e] outside (exterior)  
+way dexi [i] foreign  
 way gojia [e] foreign country  
 weka [a] wake (make awake)  
 weki [i] awake  
 wen [e] circle (ring)  
 werka [a] work  
+werkar [e] worker  
 werke [e] work (labour)  
-werker [e] worker  
 werme [e] worm  
 weste [e] west  
 westi [i] western  
@@ -1696,7 +1700,7 @@ xaw [o] few (little)
 xaxa [a] rustle  
 xe [e] thing  
 xef [e] chief (boss)  
-xef minister [e] prime minister  
+xef ministar [e] prime minister  
 xefi [i] main  
 xia [e] under (below)  
 xifu [e] master (sensei)  
@@ -1706,7 +1710,7 @@ xim [e] heart
 xin [e] belief (faith, creed)  
 xina [a] believe  
 xir [e] poem  
-xirer [e] poet  
+xirar [e] poet  
 xirop [e] syrup  
 xix [int] hush (shh)  
 xixi [i] silent  
@@ -1758,6 +1762,7 @@ zardux din [e] Zoroastrianism
 zay [i] present (current, existing)  
 zaye [e] presence (existence)  
 ze [pr] from (since)  
+zebra [e] zebra  
 zem [e] earth (soil)  
 zem dou [e] peanut (groundnut)  
 zemia [e] Earth (Terra)  
@@ -1775,9 +1780,10 @@ zulu [e] Zulu
 zumrud [e] emerald  
 
 -a [suff] suffix for verbs with SVO word order  
--at [suff] suffix for passive object  
+-ar [suff] suffix for active doer  
 -e [suff] suffix for derived nouns  
--er [suff] suffix for active doer  
 -i [suff] suffix for adjectives  
 -ia [suff] suffix for areas  
+-ir [suff] suffix for person who is associated with the root  
 -u [suff] suffix for verbs with OVS word order  
+-ur [suff] suffix for passive object  
