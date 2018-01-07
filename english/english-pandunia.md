@@ -50,7 +50,6 @@
   
   
   
-##a  
 ability (skill)   : kene  
 able (capable)   : kabil  
 about (concerning)   : na tem du  
@@ -58,10 +57,10 @@ accept (to say okay)   : okeya
 accident (mishap)   : xigo  
 act (play a role)   : akta  
 act (scene)   : akte  
-actor (actress)   : akter  
+actor (actress)   : aktar  
 additional   : maxi  
 address   : adres  
-addressee   : adresat  
+addressee   : adresur  
 adult   : adulte  
 adultery (infidelity)   : zine  
 advice (counsel)   : konsel  
@@ -116,7 +115,7 @@ art   : arte
 article (writing)   : makala  
 artificial   : sani  
 artificial language (conlang)   : sani bax  
-artist   : arter  
+artist   : artar  
 ascetic   : asket  
 ash tree   : yasen  
 Asia   : asia  
@@ -127,7 +126,7 @@ asparagus   : lusun
 aspirin   : aspirin  
 asthma   : asma  
 at (at the location of)   : na lok  
-athlete (sportsman)   : sporter  
+athlete (sportsman)   : sportar  
 atom   : atom  
 attack   : atak  
 attention (focus)   : dian  
@@ -147,8 +146,8 @@ bad (ruined, spoiled)   : harab
 bag (sack)   : sak  
 bah! (yuck!)   : fu  
 bake   : beka  
-baker   : beker  
-bakery   : bekeria  
+baker   : bekar  
+bakery   : bekaria  
 balcony (porch)   : balkon  
 ball   : bol  
 bamboo   : jug  
@@ -160,13 +159,13 @@ bar (pub)   : bar
 bar (rod, stick)   : baton  
 barbarian   : barbar  
 barrel (can)   : tong  
-barrier   : barer  
+barrier   : barir  
 base (foundation)   : baze  
 basic   : bazi  
 basket   : basket  
 bath   : banye  
 bathe   : banya  
-bathroom   : banye kamar  
+bathroom   : banye kamer  
 battery   : bateri  
 be about (discuss as a subject)   : tema  
 be born   : jenu  
@@ -179,7 +178,7 @@ beard   : barda
 beautiful (handsome)   : sundar  
 bed   : bed  
 bedouin (nomadic)   : badawi  
-bedroom   : son kamar  
+bedroom   : son kamer  
 beef   : mumu nyam  
 beer   : bir  
 begin (commence)   : mula  
@@ -206,6 +205,7 @@ birth   : jen
 birthday   : jen den  
 biscuit (cookie)   : biskut  
 black   : kal  
+bleed   : lowa sang  
 blood   : sang  
 blow   : fonga  
 blue   : nil  
@@ -217,6 +217,7 @@ Bolivia   : bolivia
 bomb   : bombe  
 bone   : gut  
 book   : buk  
+booking (reservation)   : buking  
 border (edge)   : kenar  
 bother   : mafana  
 bottle   : botol  
@@ -270,7 +271,7 @@ Cambodia   : kambudia
 camel   : gamel  
 camera   : kamera  
 camp   : kamp  
-camper   : kamper  
+camper   : kampar  
 can (know, be able)   : ken  
 can (tin can)   : tin  
 Canada   : kanada  
@@ -307,7 +308,7 @@ channel   : kanal
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : bab  
 chat (informal conversation)   : cat  
-chat room   : cat kamar  
+chat room   : cat kamer  
 check (to examine)   : ceka  
 checkers   : dama  
 cheer (hooray)   : hura  
@@ -380,9 +381,10 @@ common (universal)   : putong
 communism   : komunisme  
 communist   : komuniste  
 company (corporation)   : kompania  
+compatriot   : sem dexi  
 compete (have a match)   : maca  
 compute (to process data)   : komputa  
-computer   : komputer  
+computer   : komputar  
 concentrate   : fokusa  
 concrete (material with cement)   : beton  
 condition (requirement)   : xarte  
@@ -396,10 +398,10 @@ consider (regard)   : konsida
 consonant   : konson  
 consume (eat or drink)   : nyama  
 continue (resume)   : kontinu  
-cook (chef)   : kuker  
+cook (chef)   : kukar  
 cook (prepare food)   : kuka  
 cool   : kul  
-copper   : kupar  
+copper   : kuper  
 copy (replica)   : kope  
 copy (replicate)   : kopa  
 corn (maize)   : mais  
@@ -410,14 +412,14 @@ Costa Rica   : kosta rika
 cottage (chalet)   : xalet  
 cotton   : goton  
 cough   : kos  
-country (land)   : gojia  
+country (land)   : dex  
 coupon   : kupon  
 cover (conceal)   : kapa  
 cover (covering)   : kap  
 cow   : mumu  
 cream   : krem  
 creation (fact)   : fakte  
-creature (created)   : faktat  
+creature (created)   : faktur  
 criticism (critique)   : piping  
 Croatia   : horvat  
 cross   : krus  
@@ -458,9 +460,10 @@ democracy   : demokratia
 democratic   : demokrati  
 demon   : demon  
 Denmark   : danmark  
-dentist   : dante dokter  
+dentist   : dante doktar  
 depict (describe, illustrate)   : grafa  
 depiction (graph)   : graf  
+desire (lust)   : kam  
 detail   : detal  
 devil (Satan)   : xatan  
 devilish (satanic)   : xatani  
@@ -470,7 +473,7 @@ diamond   : almas
 die   : martu  
 die (dice)   : dado  
 dig (excavate)   : fosa  
-dining room   : nyam kamar  
+dining room   : nyam kamer  
 dinner   : xam nyame  
 disc (disk)   : diske  
 disperse   : jamula  
@@ -479,7 +482,7 @@ divide (to partition)   : fena
 divine (godly)   : dewi  
 do (make, act)   : kara  
 do yoga   : yoga  
-doctor (physician, healer)   : dokter  
+doctor (physician, healer)   : doktar  
 dog   : waf  
 doll (puppet)   : pupe  
 dollar   : dolar  
@@ -523,14 +526,14 @@ elegant (chic)   : xik
 elephant   : gaja  
 embassy : daixi kan  
 emerald   : zumrud  
-emperor   : imperer  
+emperor   : imperar  
 empire   : imperia  
 empty   : hali  
 encode   : koda  
 end   : fin  
 energy   : energi  
 engine (motor)   : motor  
-engineer   : injener  
+engineer   : injenar  
 English   : englix  
 enough (sufficient)   : bas  
 enthusiast (aficionado)   : nik  
@@ -560,7 +563,7 @@ exit door   : cud mun
 eye   : yen  
 ##f  
 face   : muka  
-factory   : fakteria  
+factory   : faktaria  
 factory   : san kan  
 fairy   : peri  
 fall   : padu  
@@ -595,7 +598,7 @@ fight (war)   : jang
 figure (representation)   : figur  
 fill   : fula  
 film   : filme  
-filter   : filter  
+filter   : filtar  
 find (discover)   : yureka  
 fine (delicate)   : fain  
 finger (toe)   : finger  
@@ -610,7 +613,7 @@ five (5)   : lim
 fix (attach)   : fiksa  
 flag (banner)   : bandera  
 flat   : ping  
-floor   : kamar tal  
+floor   : kamer tal  
 flour   : ata  
 flower   : hua  
 fly   : feya  
@@ -621,6 +624,7 @@ fool (buffoon)   : bufon
 fool (idiot)   : bobo  
 foot   : ped  
 force (strength)   : bale  
+foreign   : way dexi  
 foreign country   : way gojia  
 forenoon   : suba den  
 forest (jungle, woods)   : jangal  
@@ -660,6 +664,7 @@ gasoline (petrol)   : benzin
 gauze   : gaze  
 gazelle   : gazel  
 gel (jelly)   : jele  
+gender (sex)   : jins  
 German   : doic  
 gesture   : jeste  
 get (receive, obtain, take)   : geta  
@@ -746,7 +751,7 @@ Himalayas   : himalia
 Hindu   : hindu  
 hinge (pivot)   : carnir  
 hippopotamus   : gubu  
-historian   : historer  
+historian   : historar  
 history (story)   : histor  
 history (study of history)   : historia  
 hmm   : hem  
@@ -756,6 +761,7 @@ hold (grasp)   : tena
 hole   : kong  
 holy (sacred)   : sant  
 home (residence)   : dom  
+homosexual   : sem jins kami  
 Honduras   : honduras  
 honey   : medu  
 honorable (respectable)   : xarif  
@@ -793,8 +799,7 @@ idealisme   : idealisme
 if (suppose, assume)   : jadi  
 image (picture)   : sure  
 important   : muhim  
-imprison (jail)   : karsa  
-imprisonment   : karse  
+imprison (jail)   : prizona  
 in (inside)   : na in  
 India   : bartia  
 Indian   : barti  
@@ -823,7 +828,7 @@ Italy   : italia
 ##j  
 jackal   : xakal  
 jacket   : jaket  
-jailer   : karser  
+jailer (imprisoner)   : prizonar  
 Jamaica   : jameika  
 January   : mes 1 (mes un)  
 Japan   : nipon  
@@ -835,7 +840,7 @@ Jew   : yehudi
 job (occupation)   : pexa  
 joint (league)   : lige  
 joke   : jok  
-joker   : joker  
+joker   : jokar  
 Jordan   : urdun  
 joule (J)   : jul  
 judge (referee)   : hakim guru  
@@ -858,7 +863,7 @@ key   : cabi
 key (push-button)   : buton  
 keyboard     : buton paban  
 kill   : marta  
-killer   : marter  
+killer   : martar  
 kilogram (kg)   : kilo gram  
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
@@ -868,7 +873,7 @@ king or queen   : raje
 kingdom   : rajia  
 kiosk   : kioske  
 kiss   : bis  
-kitchen   : kuke kamar  
+kitchen   : kuke kamer  
 kiwi fruit   : kiwi  
 knead (give massage)   : masa  
 knife   : caku  
@@ -889,8 +894,9 @@ Latvia   : latvia
 laugh   : haha  
 law   : kanun  
 lead (direct)   : lida  
-leader (director)   : lider  
+leader (director)   : lidar  
 leaf   : yep  
+leak   : lowa  
 learn (study)   : darsa  
 least (minimally)   : minim  
 leave (go out, exit)   : cuda  
@@ -932,7 +938,7 @@ lock   : tala
 long   : long  
 look (see)   : wida  
 lose (fail to win)   : luza  
-loser   : luzer  
+loser   : luzar  
 love (affection)   : amor  
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
@@ -945,7 +951,7 @@ machine   : maxin
 magazine (journal, gazette)   : gazet  
 magic   : magia  
 magical   : magi  
-magician (sorcerer)   : mager  
+magician (sorcerer)   : magar  
 magnet   : magnet  
 magnetic   : magneti  
 mail   : poste  
@@ -954,7 +960,7 @@ major (not minor)   : maxor
 majority   : maxoria  
 make (create)   : fakta  
 make (produce, manufacture)   : sana  
-maker (creator, factor)   : fakter  
+maker (creator, factor)   : faktar  
 malaria   : malaria  
 Malaysia   : malaisia  
 male   : man  
@@ -1002,7 +1008,7 @@ melodious (melodic)   : melodi
 melody   : melodia  
 melt (get molten)   : mayu  
 melt (liquidize)   : maya  
-member (participant)   : member  
+member (participant)   : membar  
 memory   : memor  
 Mercury   : budan  
 messiah (Christ)   : mesi  
@@ -1013,26 +1019,27 @@ Mexico   : mehiko
 micro-   : mikro  
 military   : jangi  
 milk   : milke  
-miller   : moler  
+milk (draw milk)   : tira milke  
+miller   : molar  
 milli-   : mili  
 million (mega-)   : mega  
 mineral (ore)   : kuang  
 mineral water   : kuang su  
 minimal   : minimi  
 minimalism   : minimalisme  
-minister (politician)   : minister  
-ministry   : ministeria  
+minister (politician)   : ministar  
+ministry   : ministaria  
 minor (not major)   : minor  
 minority   : minoria  
 minute   : minut  
-mirror   : mirer  
+mirror   : mirar  
 model (design)   : model  
 mole (burrowing animal)   : krot  
 Monday   : war 1 (war un)  
 money   : pesa  
 Mongolia   : mongol  
 mongoose   : mungus  
-monster   : monster  
+monster   : monstar  
 month   : mes  
 moon   : luna  
 morality (ethics)   : moral  
@@ -1055,7 +1062,9 @@ muscle   : muskul
 mushroom (fungus)   : funge  
 music   : musik  
 music fan   : musik nik  
-musician   : musiker  
+musician   : musikar  
+musket   : musket  
+musketeer   : musketi  
 must   : mus  
 my   : mi da  
 Myanmar (Burma)   : bama  
@@ -1079,8 +1088,8 @@ Neptune   : neptun
 net   : net  
 Netherlands   : nederland  
 new (novel)   : nowi  
-news   : habar  
-newspaper (gazette)   : habar gazet  
+news   : haber  
+newspaper (gazette)   : haber gazet  
 newton (N)   : nuton  
 Nicaragua   : nikaragua  
 nice (pleasant, lovely)   : latif  
@@ -1100,7 +1109,6 @@ north   : norde
 northern   : nordi  
 Norway   : norge  
 nose   : nos  
-notary   : noter  
 note (observation)   : not  
 note (observe, notice)   : nota  
 notebook   : not buk  
@@ -1118,7 +1126,7 @@ occupation (career)   : karia
 October   : mes 10 (mes des)  
 of (particle of possession)   : du  
 office (position)   : ofis  
-officer   : ofiser  
+officer   : ofisar  
 often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okey  
@@ -1171,7 +1179,7 @@ pants (trousers)   : pantalon
 papaya   : papaya  
 paper   : paper  
 Paraguay   : paraguai  
-parent   : jener  
+parent   : jenar  
 parrot (parakeet)   : papagai  
 part (fraction)   : fen  
 participate   : memba  
@@ -1203,12 +1211,12 @@ Persian (Farsi)   : farsi
 person (people)   : ren  
 Peru   : peru  
 Philippines (Filipino)   : pilipin  
-philosopher   : filsofer  
+philosopher   : filsofar  
 philosophic   : filsofi  
 philosophy   : filsofia  
 phosphorus   : fosfor  
 photograph   : foto  
-physicist   : fiziker  
+physicist   : fizikir  
 physics   : fizikia  
 physique   : fizik  
 piano   : piano  
@@ -1217,6 +1225,7 @@ picture (illustrate)   : sura
 pidgin (contact language)   : pijin  
 pie (pastry)   : pai  
 pig   : goro  
+pilaf (pulao)   : polau  
 pilot   : pilot  
 pineapple   : nanas  
 pious   : darmi  
@@ -1241,23 +1250,23 @@ platypus   : batakrot
 play (have fun)   : joga  
 play a game   : gema  
 play music   : musika  
-player (gamer)   : gemer  
+player (gamer)   : gemar  
 please (delight, make happy)   : suka  
 pliers (pincers)   : pinse  
 plug (stop with a plug)   : ziba  
 Pluto (dwarf planet)   : pluto  
 pocket   : jeb  
 poem   : xir  
-poet   : xirer  
+poet   : xirar  
 point (full stop)   : punt  
 point (indicate)   : ponta  
 point (spot)   : dem  
 poker   : poker  
 Poland   : polska  
 police   : polis  
-police officer   : poliser  
+police officer   : polisar  
 polite   : keci  
-politician   : politiker  
+politician   : politikar  
 politics   : politik  
 ponder (think)   : hema  
 pool (basin)   : basen  
@@ -1291,15 +1300,16 @@ present (current, existing)   : zay
 press (imprint)   : capa  
 press (stamp)   : cap  
 priest (cleric)   : din guru  
-prime minister   : xef minister  
-prison   : karsia  
-prisoner (jailbird)   : karsat  
+prime minister   : xef ministar  
+prison   : prizonia  
+prison (imprisonment)   : prizon  
+prisoner   : prizonur  
 problem   : problem  
 process (procedure)   : proses  
 production   : sania  
 professor   : profesor  
 program   : program  
-programmer (coder)   : programer  
+programmer (coder)   : programar  
 project (planned endeavour)   : projet  
 promise (commit)   : wada  
 prophet   : nabi  
@@ -1379,7 +1389,7 @@ Roman Empire   : roma empiria
 romantic   : romansi  
 romantic love   : romans  
 Rome   : roma  
-room (chamber)   : kamar  
+room (chamber)   : kamer  
 root   : gen  
 rose   : roza  
 rotor (rotator)   : rotor  
@@ -1389,7 +1399,7 @@ royal   : raji
 rubber   : gom  
 rubbish (trash)   : laji  
 rule (be in charge)   : sultana  
-ruler   : sultaner  
+ruler   : sultanar  
 rum   : rom  
 Russia   : rosia  
 Russian (ethnic Russian)   : ruski  
@@ -1399,7 +1409,7 @@ Sabbath   : sabat
 sad   : udas  
 safe (secure)   : sekur  
 saffron   : zafran  
-salad   : salada  
+salad   : salad  
 salt   : sal  
 same   : sem  
 sand   : balu  
@@ -1422,7 +1432,8 @@ search   : serca
 season   : mosim  
 second(s)   : sekun  
 secret   : sir  
-secretary   : sekreter  
+secretariat   : sekretaria  
+secretary   : sekretar  
 seismology   : sisme lojia  
 selenium   : selen  
 self   : se  
@@ -1436,6 +1447,7 @@ sesame   : sesam
 seven (7)   : set  
 several   : poli  
 sex (sexual intercourse)   : sekse  
+sexual (relating to gender)   : jinsi  
 sexy (sexual)   : seksi  
 shadow   : caye  
 shaman   : xaman  
@@ -1445,6 +1457,7 @@ sheep   : meme
 shirt   : kamis  
 shock (collision)   : xok  
 shoe   : sapat  
+shoemaker   : sapatir  
 short (not long)   : duan  
 should (ought)  : ingay  
 show   : xow  
@@ -1508,6 +1521,7 @@ stadium   : stadion
 star   : tara  
 state   : stat  
 static (stationary)   : stati  
+station   : stasia  
 steal   : cura  
 still (yet)   : hay  
 stipulate   : xarta  
@@ -1524,11 +1538,12 @@ suck   : cupa
 Sudan   : sudan  
 suffer (get hurt)   : paxu  
 suffering (passion)   : paxia  
-suffix for active doer   : -er  
+suffix for active doer   : -ar  
 suffix for adjectives   : -i  
 suffix for areas   : -ia  
 suffix for derived nouns   : -e  
-suffix for passive object   : -at  
+suffix for passive object  ##a : -ur  
+suffix for person who is associated with the root   : -ir  
 suffix for verbs with OVS word order   : -u  
 suffix for verbs with SVO word order   : -a  
 sugar   : sukar  
@@ -1558,7 +1573,6 @@ table (matrix)   : tabel
 tactics (strategy)   : taktik  
 taiga   : taiga  
 tail   : dum  
-tailor   : darzer  
 tale (legend, saga)   : sage  
 Tanakh (Jewish Bible)   : tanah  
 tank (container)   : tank  
@@ -1595,7 +1609,7 @@ theology   : dew lojia
 theory   : teore  
 they   : yemen  
 thick (fat)   : pang  
-thief   : curer  
+thief   : curar  
 thing   : xe  
 think   : pensa  
 this (this over here)   : sa jin  
@@ -1630,14 +1644,14 @@ total (affecting all)   : total
 touch   : toca  
 tour (trip)   : tur  
 tourism   : turisme  
-tourist   : safar nik  
+tourist   : safer nik  
 tourist   : turiste  
-towel   : taula  
+towel   : taul  
 tower   : minare  
 train   : tren  
-travel   : safara  
-travel (voyage)   : safar  
-traveler   : safarer  
+travel   : safera  
+travel (voyage)   : safer  
+traveler   : saferar  
 treasure (treasury)   : hazin  
 tree   : xu  
 tribe   : kabila  
@@ -1675,7 +1689,7 @@ US America   : usamerika
 use   : uza  
 use (utility, benefit)   : faide  
 useful (beneficial)   : faidi  
-user   : uzer  
+user   : uzar  
 ##v  
 vaccine   : waksin  
 vagina   : yoni  
@@ -1704,7 +1718,7 @@ walk (march)   : marca
 wall   : mur  
 want (desire)   : wol  
 warm   : garmi  
-warrior (fighter)   : janger  
+warrior (fighter)   : jangar  
 wash   : waxa  
 washing machine   : wax maxin  
 water   : su  
@@ -1747,7 +1761,7 @@ word   : log
 word list   : log liste  
 work   : werka  
 work (labour)   : werke  
-worker   : werker  
+worker   : werkar  
 workshop (place for...)   : kan  
 world   : dunia  
 world language   : dunia bax  
@@ -1774,6 +1788,7 @@ youth (young age)   : jowania
 youth (young person)   : jowane  
 ##z  
 Zambia   : zambia  
+zebra   : zebra  
 zero (none)   : nul  
 zigzag   : zigzag  
 Zimbabwe   : zimbabwe  

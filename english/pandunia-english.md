@@ -631,6 +631,8 @@ jiju [e] spider
 jik [i] straight  
 jika [a] straighten  
 jin [i] near (close)  
+jins [e] gender (sex)  
+jinsi [i] sexual (relating to gender)  
 jiraf [e] giraffe  
 jiwa [a] live  
 jiwe [e] life  
@@ -672,6 +674,7 @@ kakau [e] cocoa
 kal [i] black  
 kalam [e] pen  
 kalsium [e] calcium (Ca)  
+kam [e] desire (lust)  
 kambudia [e] Cambodia  
 kamer [e] room (chamber)  
 kamer tal [e] floor  
@@ -871,6 +874,8 @@ long [i] long
 longa [a] lengthen (prolong)  
 longe [e] length  
 losi [e] screw  
+lowa [a] leak  
+lowa sang [fr] bleed  
 lubnan [e] Lebanon  
 lulu [e] pearl  
 luna [e] moon  
@@ -970,7 +975,7 @@ mei xe [e] everything
 melodi [i] melodious (melodic)  
 melodia [e] melody  
 memba [a] participate  
-member [e] member (participant)  
+membar [e] member (participant)  
 meme [e] sheep  
 memor [e] memory  
 memora [a] remember  
@@ -1059,6 +1064,8 @@ musik [e] music
 musik nik [e] music fan  
 musika [a] play music  
 musikar [e] musician  
+musket [e] musket  
+musketi [e] musketeer  
 muskul [e] muscle  
 muxing [e] Jupiter  
 muxu [e] mouse  
@@ -1381,7 +1388,7 @@ saga [a] tell (narrate)
 sage [e] tale (legend, saga)  
 sak [e] bag (sack)  
 sal [e] salt  
-salada [e] salad  
+salad [e] salad  
 salam [e] greeting (hello)  
 salama [a] greet  
 salima [a] surrender (to give up)  
@@ -1416,6 +1423,8 @@ sekur [i] safe (secure)
 sel [e] cell (biology)  
 selen [e] selenium  
 sem [i] same  
+sem dexi [i] compatriot  
+sem jins kami [i] homosexual  
 sement [e] cement  
 semu [u] resemble (be like)  
 sen [e] chest (thorax)  
@@ -1554,6 +1563,7 @@ tiket [e] ticket
 tim [e] team  
 tin [e] can (tin can)  
 tira [a] pull  
+tira milke [fr] milk (draw milk)  
 tiran [e] tyrant  
 tirania [e] tyranny  
 titan [e] titanium  
