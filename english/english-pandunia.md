@@ -50,6 +50,7 @@
   
   
   
+##a  
 ability (skill)   : kene  
 able (capable)   : kabil  
 about (concerning)   : na tem du  
@@ -104,11 +105,11 @@ appearance (looks)   : rup
 apple   : pingo  
 April   : mes 4 (mes car)  
 Arabic   : arabi  
+area   : stan  
 arena (stadium)   : arena  
 Argentina   : arhentina  
-argue (claim)   : tesa  
-argument (debate)   : debat  
-argument (thesis)   : tese  
+argue (claim)   : teza  
+argument (thesis)   : teze  
 army   : armia  
 around (about)   : na wen  
 art   : arte  
@@ -207,6 +208,7 @@ biscuit (cookie)   : biskut
 black   : kal  
 bleed   : lowa sang  
 blood   : sang  
+blossom (bloom)   : pula  
 blow   : fonga  
 blue   : nil  
 board (plank)   : paban  
@@ -234,7 +236,7 @@ bread   : pan
 breakfast   : suba nyame  
 breast (boob)   : mam  
 breath   : nafas  
-bridge   : pul  
+bridge   : pont  
 bright (clear)   : ming  
 Britain (UK)   : britan  
 broken (out of order)   : kaput  
@@ -307,8 +309,8 @@ change (alter)   : altera
 channel   : kanal  
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : bab  
-chat (informal conversation)   : cat  
-chat room   : cat kamer  
+chat (babble)   : blabla  
+chat room   : blable kamer  
 check (to examine)   : ceka  
 checkers   : dama  
 cheer (hooray)   : hura  
@@ -413,6 +415,7 @@ cottage (chalet)   : xalet
 cotton   : goton  
 cough   : kos  
 country (land)   : dex  
+countryside   : deya stan  
 coupon   : kupon  
 cover (conceal)   : kapa  
 cover (covering)   : kap  
@@ -420,6 +423,8 @@ cow   : mumu
 cream   : krem  
 creation (fact)   : fakte  
 creature (created)   : faktur  
+crisis   : kriz  
+critical (pertaining to crisis)   : krizi  
 criticism (critique)   : piping  
 Croatia   : horvat  
 cross   : krus  
@@ -451,6 +456,7 @@ day (daytime)   : den
 day of the week   : war  
 dead   : marti  
 death   : marte  
+debate (discuss)   : lona  
 December   : mes 12 (mes des du)  
 deci-   : deci  
 deed   : kar  
@@ -476,6 +482,7 @@ dig (excavate)   : fosa
 dining room   : nyam kamer  
 dinner   : xam nyame  
 disc (disk)   : diske  
+discussion (debate, discourse)   : lon  
 disperse   : jamula  
 distant (tele-)   : tele  
 divide (to partition)   : fena  
@@ -491,6 +498,7 @@ Dominican Republic   : dominika
 dominoes   : domino  
 donkey (ass)   : iha  
 door (gate)   : mun  
+dot (spot)   : binde  
 doubt (disbelief)   : xak  
 dragonfly   : libel  
 drama   : drama  
@@ -539,6 +547,8 @@ enough (sufficient)   : bas
 enthusiast (aficionado)   : nik  
 environmental (natural)   : tabiai  
 equal (peer)   : par  
+erect   : liba  
+erect (standing)   : libi  
 Eris (dwarf planet)   : eris  
 Erithrea   : eritra  
 Estonia   : esti  
@@ -554,6 +564,7 @@ event (case, instance)   : kazu
 every (each)   : mei  
 everybody (everyone)   : mei ren  
 everything   : mei xe  
+evidence (proof, testimony)   : praman  
 example (instance of)   : misal  
 except (minus)   : minus  
 exchange (swap)   : badala  
@@ -616,6 +627,7 @@ flat   : ping
 floor   : kamer tal  
 flour   : ata  
 flower   : hua  
+flower   : pul  
 fly   : feya  
 focus (concentration)   : fokus  
 follow (come after)   : bada  
@@ -653,6 +665,7 @@ fun (amusement)   : fan
 function (work)   : funca  
 funny (amusing)   : fani  
 future   : futur  
+future (coming)   : wilay  
 ##g  
 gallery (exhibition hall)   : galeria  
 game   : gem  
@@ -695,7 +708,8 @@ grandmother   : oma
 grape   : putau  
 graphic (descriptive)   : grafi  
 grass   : gras  
-grave (tomb)   : gabar  
+grave (tomb)   : gabre  
+graveyard   : gabre stan  
 Greek (Hellenic)   : helen  
 greet   : salama  
 greeting (hello)   : salam  
@@ -812,7 +826,6 @@ insect   : koncung
 inside (interior)   : in  
 inspire (inspiration)   : inspira  
 intend (plan)   : plana  
-intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)   : tez  
 interest (interesting)   : interes  
 invite   : cing lay  
 iodine   : yod  
@@ -1259,7 +1272,7 @@ pocket   : jeb
 poem   : xir  
 poet   : xirar  
 point (full stop)   : punt  
-point (indicate)   : ponta  
+point (indicate)   : indika  
 point (spot)   : dem  
 poker   : poker  
 Poland   : polska  
@@ -1313,6 +1326,7 @@ programmer (coder)   : programar
 project (planned endeavour)   : projet  
 promise (commit)   : wada  
 prophet   : nabi  
+prove (testify)   : pramana  
 pudding   : puding  
 Puerto Rico   : puertoriko  
 pull   : tira  
@@ -1389,6 +1403,7 @@ Roman Empire   : roma empiria
 romantic   : romansi  
 romantic love   : romans  
 Rome   : roma  
+roof   : cat  
 room (chamber)   : kamer  
 root   : gen  
 rose   : roza  
@@ -1518,6 +1533,7 @@ square (plaza)   : maidan
 squirrel   : lixu  
 Sri Lanka   : lanka  
 stadium   : stadion  
+stand   : libu  
 star   : tara  
 state   : stat  
 static (stationary)   : stati  
@@ -1542,7 +1558,7 @@ suffix for active doer   : -ar
 suffix for adjectives   : -i  
 suffix for areas   : -ia  
 suffix for derived nouns   : -e  
-suffix for passive object  ##a : -ur  
+suffix for passive object   : -ur  
 suffix for person who is associated with the root   : -ir  
 suffix for verbs with OVS word order   : -u  
 suffix for verbs with SVO word order   : -a  
@@ -1673,7 +1689,6 @@ tyranny   : tirania
 tyrant   : tiran  
 ##u  
 Ukraine   : ukrayina  
-umbrella (parasol)   : catar  
 uncover (reveal)   : kapula  
 under (below)   : xia  
 understand (realize)   : aha  

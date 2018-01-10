@@ -141,6 +141,7 @@ bet [e] house
 beton [e] concrete (material with cement)  
 biblia [e] Bible  
 bin [e] pot (bin)  
+binde [e] dot (spot)  
 bir [e] beer  
 bis [e] kiss  
 biskut [e] biscuit (cookie)  
@@ -148,6 +149,8 @@ bizar [i] weird (strange)
 bizi [i] busy (occupied)  
 biznes [e] business (commercial activity)  
 biznes ren [e] businessperson (businessman)  
+blabla [a] chat (babble)  
+blable kamer [e] chat room  
 bobo [e] fool (idiot)  
 boikot [e] boycott  
 boka [e] mouth  
@@ -195,9 +198,7 @@ cap [e] press (stamp)
 capa [a] press (imprint)  
 car [num] four (4)  
 carnir [e] hinge (pivot)  
-cat [e] chat (informal conversation)  
-cat kamer [e] chat room  
-catar [e] umbrella (parasol)  
+cat [e] roof  
 caye [e] shadow  
 ceka [a] check (to examine)  
 celo [e] cello  
@@ -258,7 +259,6 @@ darse kan [e] school (institution)
 dau [e] way (road)  
 dawe [e] medicine (drug)  
 dawe kan [e] drugstore (pharmacy)  
-debat [e] argument (debate)  
 deci [num] deci-  
 dem [e] point (spot)  
 demokrati [i] democratic  
@@ -277,6 +277,7 @@ dewi [i] divine (godly)
 dewi sage [e] myth (divine story)  
 dex [e] country (land)  
 deya [e] village  
+deya stan [e] countryside  
 dian [e] attention (focus)  
 din [e] religion (worship)  
 din guru [e] priest (cleric)  
@@ -429,7 +430,8 @@ futur [i] future
 
 ##g  
 
-gabar [e] grave (tomb)  
+gabre [e] grave (tomb)  
+gabre stan [e] graveyard  
 gaci [e] value  
 gaja [e] elephant  
 galeria [e] gallery (exhibition hall)  
@@ -574,6 +576,7 @@ impera [a] reign (rule as an emperor)
 imperar [e] emperor  
 imperia [e] empire  
 in [e] inside (interior)  
+indika [a] point (indicate)  
 indonesia [e] Indonesia  
 informa [a] inform (communicate)  
 informe [e] information  
@@ -792,6 +795,8 @@ kriste jen [e] Christmas
 kristi [i] Christian  
 kristia [e] Christianity (Christendom)  
 krita [a] cry (shout)  
+kriz [e] crisis  
+krizi [i] critical (pertaining to crisis)  
 krot [e] mole (burrowing animal)  
 krus [e] cross  
 kuan [i] wide  
@@ -840,9 +845,12 @@ leng [i] cold
 lenxa [a] practice (to exercise)  
 leter [e] letter (message)  
 letis [e] lettuce  
+liba [a] erect  
 libel [e] dragonfly  
 liber [i] free (unchained)  
 libera [a] free (liberate)  
+libi [i] erect (standing)  
+libu [u] stand  
 lici [e] lychee (litchi)  
 lida [a] lead (direct)  
 lidar [e] leader (director)  
@@ -870,6 +878,8 @@ loja [a] research (to study)
 lojia [e] science  
 lok [e] place (location)  
 loki [i] local  
+lon [e] discussion (debate, discourse)  
+lona [a] debate (discuss)  
 long [i] long  
 longa [a] lengthen (prolong)  
 longe [e] length  
@@ -1268,7 +1278,7 @@ politik [e] politics
 politikar [e] politician  
 polska [e] Poland  
 pompa [a] pump  
-ponta [a] point (indicate)  
+pont [e] bridge  
 porne [e] porn  
 porne grafia [e] pornography  
 porta [a] carry (bear)  
@@ -1280,6 +1290,8 @@ poste kan [e] post office
 poto [e] mud (mire)  
 poza [a] pose (set)  
 poze [e] pose (position)  
+praman [e] evidence (proof, testimony)  
+pramana [a] prove (testify)  
 pratik [i] practical  
 presis [i] precise (exact, accurate)  
 prizon [e] prison (imprisonment)  
@@ -1298,7 +1310,8 @@ puder [e] powder
 puding [e] pudding  
 puertoriko [e] Puerto Rico  
 puja [a] worship (revere)  
-pul [e] bridge  
+pul [e] flower  
+pula [a] blossom (bloom)  
 pulo [e] island  
 punt [e] point (full stop)  
 pupe [e] doll (puppet)  
@@ -1472,6 +1485,7 @@ sosis [e] sausage
 sportar [e] athlete (sportsman)  
 sporte [e] sport (athletics)  
 stadion [e] stadium  
+stan [e] area  
 stasia [e] station  
 stat [e] state  
 stati [i] static (stationary)  
@@ -1550,12 +1564,11 @@ teore [e] theory
 tep [e] tape  
 teror [e] terror  
 terorisme [e] terrorism  
-tesa [a] argue (claim)  
-tese [e] argument (thesis)  
 teste [e] test (challenge)  
 teyan [e] suggestion (proposal)  
 teyana [a] suggest (propose)  
-tez [i] intense (depending on context: strong, brisk, violent, swift, pungent, hot, fiery, sharp)  
+teza [a] argue (claim)  
+teze [e] argument (thesis)  
 ticin [e] bow instrument (violin, etc.)  
 tik [i] right (correct)  
 tika [a] rectify (make correct)  
@@ -1672,6 +1685,7 @@ wide maidan [e] visual field (field of vision)
 wideo [e] video  
 widu [u] be seen  
 wiki [e] wiki  
+wilay [i] future (coming)  
 wildi [i] wild (savage)  
 wiman [e] airplane  
 win [e] win (victory)  
