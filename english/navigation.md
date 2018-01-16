@@ -6,15 +6,15 @@
 [Info]()
 
   * [Introduction](dunia_pijin.md)
-  * Principles
+  * [Principles](filsofi.md)
   * [World words](loga.md)
   * [Questions & Answers](kia_i_dap.md)
-  * [Translate this site](bax_ko_bax.md)
+  * [Translate this site](baxa_do_baxa.md)
 
 [Lessons]()
 
   * [Spelling](abc.md)
-  * [Basic Phrases](jumle.md)
+  * [Basic Phrases](jumla.md)
   * [Course](darse.md)
 
 [Words]()
@@ -26,13 +26,8 @@
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)
 
-[Grammar]()
-
-  * [Basics](bazi_kanun.md)
-  * [Details](detali_kanun.md)
+[Grammar](baxa_kanun.md)
 
 [Videos](../pandunia/video.md)
-
-
 
 
