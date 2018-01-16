@@ -576,7 +576,7 @@ With regards to possession, **da** works like apostrophe-s ('s) in English.
 > **mi da bet** - my house  
 > **mi da papa da bet** - my father's house
 
-**De** works like "of" in English.
+**Du** works like "of" in English.
 
 > **mama du maria** - the mother of Maria
 > **bet du mi** - the house of mine  
