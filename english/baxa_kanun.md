@@ -1,7 +1,7 @@
 Grammar
 =======
 
-## 1. Introduction
+## 0. Introduction
 
 This grammar deals with the types of words and word order patterns in Pandunia. However, it's possible to learn Pandunia without reading this grammar, for example with the help of a phrasebook and a dictionary.
 
@@ -10,6 +10,23 @@ All language teachers know that a language becomes more difficult to learn when 
 Pandunia is not a difficult language to learn. It doesn't have any of the previously mentioned complexities. Instead, it has a simple grammar, a relatively simple vocabulary, and a simple phonetic spelling.
 
 One thing to keep in mind as you learn Pandunia is that it is not a strict, rule-oriented language where there is a "right way" and a "wrong way" to say things. The important thing is to make yourself understood. Consequently, much of the language involves the lexical items (words that have meaning, like "book" or "eat"), and very little involves purely grammatical ideas (like singular vs. plural and tenses).
+
+
+--------------------------------------------------------------------------------
+
+## 1. Basic rules
+
+These are the basic rules of Pandunia language.
+
+1. All words are unchanging.
+2. When a word or phrase is before another one, the former modifies the latter.
+3. A pause or a determiner begins a new noun phrase.
+4. The subject is joined to the predicate without using a copula i.e. without a "be".
+5. In the pivot structure, the object of the first predicate functions as the subject of the next predicate.
+6. Pronouns can be left out when they are obvious and redundant.
+7. The spelling follows the pronunciation exactly.
+8. The stress accent is placed on the syllable before the last consonant of the word.
+
 
 --------------------------------------------------------------------------------
 

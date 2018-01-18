@@ -134,7 +134,7 @@ A cat is that animal.
 
 **mau la lit i bon dom hewan.**  
 _Cat, that little and good home's animal._  
-A cat is a little and good household animal.
+The cat is that little and good household animal.
 
 =================================================
 

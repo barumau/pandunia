@@ -32,9 +32,9 @@ Part 1: Greeting and basics
 
 **nyam salam!** Bon appetit!
 
-**laye salam!** Welcome!
+**lai salam!** Welcome!
 
-**ende salam!** Goodbye!
+**go salam!** Goodbye!
 
 **safar salam!** Have a safe journey!
 
@@ -56,13 +56,13 @@ As you can see from the range of expressions, **salam** is a general word for we
 
 You can introduce yourself simply by saying **mi** and your name. You don't need a verb for saying it in Pandunia!
 
-**mi salama ma.** I greet mother.
+**mi salam ma.** I greet mother.
 
-**mi salama pa.** I greet father.
+**mi salam pa.** I greet father.
 
-The word **salam** is a noun and **salama** is the corresponding verb. The basic word order in Pandunia is subject-verb-object.
+The word **salam** is a noun and **salam** is the corresponding verb. The basic word order in Pandunia is subject-verb-object.
 
-**sara salama tomas.** Sara greets Thomas.
+**sara salam tomas.** Sara greets Thomas.
 
 **salam ma!** Greetings, mother!
 
@@ -77,13 +77,13 @@ The word **salam** is a noun and **salama** is the corresponding verb. The basic
 
 **tu tomas.** You are Thomas.
 
-**mi salama tu.** I greet you.
+**mi salam tu.** I greet you.
 
-**tu salama mi.** You greet me.
+**tu salam mi.** You greet me.
 
 Pronouns don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
 
-**mi romansa tu.** I love you.
+**mi romanse tu.** I love you.
 
 <small>Etymology. **tu** is from Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
 
@@ -99,7 +99,7 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 **ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
 
-**mi salama ye.** I greet him/her.
+**mi salam ye.** I greet him/her.
 
 <small>Etymology. **ye** is from Lingala: yé, Swahili: yeye, Chichewa: iye, Zulu: -ye-, Hindi: यह  "ye".</small>
 
@@ -109,9 +109,9 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 **kia tu tomas?** Are you Thomas?
 
-**kia tu doktar?** Are you a doctor?
+**kia tu doktor?** Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu doktar.** (I ask, you doctor?) by dropping out the first word.
+Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu doktor.** (I ask, you doctor?) by dropping out the first word.
 
 **kia tu bon?** How are you? (Literally: _Are you good?_)  
 **mi bon.** I'm good.  
@@ -128,9 +128,9 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **si, mi tomas.** Yes, I am Thomas.
 
-**kia ye doktar?** Is he/she a doctor?
+**kia ye doktor?** Is he/she a doctor?
 
-**si, ye si doktar.** Yes, he is a doctor.
+**si, ye si doktor.** Yes, he is a doctor.
 
 The word **si** can be used for stating something as a fact. The it is used instead of "to be". In Pandunia there's no verb for "to be".
 
@@ -150,7 +150,7 @@ Note: It is necessary to use **si** in the latest phrase because, without it, th
 
 **mi no sara.** I'm not Sara.
 
-**mi no doktar.** I'm not a doctor.
+**mi no doktor.** I'm not a doctor.
 
 **kia tu bon?** Are you well?  
 **si. mi bon.** Yes, I'm well.
@@ -160,7 +160,7 @@ Note: It is necessary to use **si** in the latest phrase because, without it, th
 
 You can use **no** to deny anything. It is placed before the word that is denied.
 
-**ye no salama mi.** He/she doesn't greet me.
+**ye no salam mi.** He/she doesn't greet me.
 
 <small>Etymology. **no** is from English: no, Spanish: no, French: non.</small>
 
@@ -170,11 +170,11 @@ You can use **no** to deny anything. It is placed before the word that is denied
 
 Add **men** to a singular pronoun to make it plural.
 
-**mimen salama tumen.** We greet you all.
+**mimen salam tumen.** We greet you all.
 
-**tumen salama yemen.** You greet them.
+**tumen salam yemen.** You greet them.
 
-**yemen salama mimen!** They greet us.
+**yemen salam mimen!** They greet us.
 
 **mimen si fem.** We are women.
 
@@ -220,33 +220,33 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 
 
-### da <small>'s (possessive particle)</small>
+### de <small>'s (possessive particle)</small>
 
 **sa ke?** What's this?
 
-**sa mi da fon.** It's my phone.
+**sa mi de fon.** It's my phone.
 
-**sa ke da?** Whose is this?
+**sa ke de?** Whose is this?
 
-**sa mi da.** It's mine.
+**sa mi de.** It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
+Note: Possessive particle **de** is put between the owner and the owned thing. So **mi de** means "my", **tu de** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
-**ye si mi da doste.** He/she is my friend.
+**ye si mi de doste.** He/she is my friend.
 
-**mi si sara da doste.** I am Sara's friend.
+**mi si sara de doste.** I am Sara's friend.
 
-<small>Etymology. **da** is from Mandarin: 的 /də/.</small>
+<small>Etymology. **de** is from Mandarin: 的 /də/.</small>
 
 
 
 ### nam <small>name</small>
 
-**tu da nam si ke?** What's your name?
+**tu de nam si ke?** What's your name?
 
-**mi da nam si tomas.** My name is Thomas.
+**mi de nam si tomas.** My name is Thomas.
 
 **ye namu ke?** What he/she is called?
 
@@ -258,16 +258,16 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 
 
-### haba <small>have</small>
+### ha <small>have</small>
 
-**mi haba bon dom.** I have a good house.
+**mi ha bon jia.** I have a good house.
 
-**ye no haba pesa.** S/he doesn't have money.
+**ye no ha pesa.** S/he doesn't have money.
 
-**mi wol haba nowi fon.** I want to have a new phone.
+**mi wol ha nowi fon.** I want to have a new phone.
 
-**kia tu haba ban?** Do you have children?  
-**mi haba dua ban.** I have two children.
+**kia tu ha ban?** Do you have children?  
+**mi ha dua ban.** I have two children.
 
 
 
@@ -275,7 +275,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi jan ye.** I know him/her.
 
-**kia tu jan sa jen?** Do you know that person?
+**kia tu jan sa ren?** Do you know that person?
 
 **kia tumen jan alise?** Do you know each other?
 
@@ -283,62 +283,62 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 
 
-### da <small>'s</small>
+### de <small>'s</small>
 
-**ye si mi da ma.** She is my mother.
+**ye si mi de ma.** She is my mother.
 
-**ye si mi da man.** He is my man.
+**ye si mi de man.** He is my man.
 
-**ye si mi da fem.** She is my wife.
+**ye si mi de fem.** She is my wife.
 
-**tomas si sara da panyo.** Thomas is Sara's friend.
+**tomas si sara de panyo.** Thomas is Sara's friend.
 
 
 
 ### mede <small>help</small>
 
-**mi nida mede.** I need help.
+**mi nide mede.** I need help.
 
-**kia tu ken meda mi?** Can you help me?
+**kia tu ken mede mi?** Can you help me?
 
-**kia mi ken meda tu?** Can I help you?
+**kia mi ken mede tu?** Can I help you?
 
 
 
 ## Part 2: Eating
 
 
-### nyama <small>consume, eat, drink</small>
+### nyam <small>consume, eat, drink</small>
 
-**kia tu wol nyama yo?** Would you like to eat something?
+**kia tu wol nyam yo?** Would you like to eat something?
 
-**ye nyama pingo.** He/she eats an apple.
+**ye nyam pingo.** He/she eats an apple.
 
-**yemen nyama pingo.** They eat apples.
+**yemen nyam pingo.** They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
 
-**kia tu nyama kafe?** Do you drink coffee?
+**kia tu nyam kafe?** Do you drink coffee?
 
-**mi nyama kafe.** I drink coffee.
+**mi nyam kafe.** I drink coffee.
 
-Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
+Tip: Meaning of **nyam** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i pan.** I'm having coffee and bread.
+**mi nyam kafe i pan.** I'm having coffee and bread.
 
 
 
 ### wol <small>want</small>
 
-**kia tu wol nyama?** Would you like to eat?
+**kia tu wol nyam?** Would you like to eat?
 
-**tu wol nyama ke?** What would you like to eat?
+**tu wol nyam ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol nyama kafe.** I want to drink coffee.
+**mi wol nyam kafe.** I want to drink coffee.
 
-**kia tu wol nyama ca?** Would you like to drink tea?  
+**kia tu wol nyam ca?** Would you like to drink tea?  
 **no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
 **tu wol ke pingo?** Which apple do you want?  
@@ -348,21 +348,21 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 ### cing <small>request, please</small>
 
-**mi cing tu nyama ca.** I ask you to drink tea.
+**mi cing tu nyam ca.** I ask you to drink tea.
 
-**mi cing tu lay dom.** I ask you to come home.
+**mi cing tu lai jia.** I ask you to come home.
 
-**mi cing tu meda mi.** I ask you to help me.
+**mi cing tu mede mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing nyama ca.** Please, have some tea!
+**cing nyam ca.** Please, have some tea!
 
-**cing nyama kafe.** Please, have some coffee!
+**cing nyam kafe.** Please, have some coffee!
 
-**cing lay dom.** Please, come home!
+**cing lai jia.** Please, come home!
 
-**cing meda mi.** Please, help me.
+**cing mede mi.** Please, help me.
 
 
 
@@ -370,13 +370,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 **danke!** Thanks!
 
-**danka tu.** Thank you.
+**danke tu.** Thank you.
 
-**mi danka tu.** I thank you.
+**mi danke tu.** I thank you.
 
-**mi danka tu meda mi.** I thank you for helping me.
+**mi danke tu mede mi.** I thank you for helping me.
 
-**danka tu meda mi.** Thanks for helping me.
+**danke tu mede mi.** Thanks for helping me.
 
 **tu keci.** You're welcome. (Literally: _You're polite._)
 
@@ -384,23 +384,23 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### haida <small>let's</small>
 
-**haida nyama!** Let's eat!
+**haida nyam!** Let's eat!
 
-**haida enda nyama!** Let's go eat!
+**haida go nyam!** Let's go eat!
 
-**haida enda dom.** Let's go home.
+**haida go jia.** Let's go home.
 
 
 
-### nida <small>need</small>
+### nide <small>need</small>
 
-**mi nida mede.** I need help.
+**mi nide mede.** I need help.
 
-**mi nida nyama.** I'm hungry.
+**mi nide nyam.** I'm hungry.
 
-**kia tu nida nyama?** Are you hungry?
+**kia tu nide nyam?** Are you hungry?
 
-**kia tu nida su?** Are you thirsty?
+**kia tu nide su?** Are you thirsty?
 
 
 
@@ -437,7 +437,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ye no ken gida gar.** S/he doesn't know how to drive a car.
 
-**kia tu ken xula ye?** Do you know how to fix it?
+**kia tu ken xuli ye?** Do you know how to fix it?
 
 **kia tu ken pandunia?** Do you speak Pandunia?
 
@@ -447,7 +447,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**maf. mi no ken tu da baxa.** Sorry, I don't speak your language.
+**maf. mi no ken tu de baxa.** Sorry, I don't speak your language.
 
 
 
@@ -455,9 +455,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu loga ke?** What did you say?
 
-**mi loga to tu.** I talk to you.
+**mi loga do tu.** I talk to you.
 
-**mimen loga to alise.** We talk to each other.
+**mimen loga do alise.** We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
@@ -474,7 +474,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi auda musik.** I listen to music.
 
-**tu auda ke yang da musik?** What kind of music do you listen to?
+**tu auda ke yang de musik?** What kind of music do you listen to?
 
 
 ### wida <small>to see</small>
@@ -494,14 +494,14 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" mana ke?** What does "mau" mean?
 
-**ye mana yang du hewan.** It means a kind of animal.
+**ye mana hewan de yang.** It means a kind of animal.
 
 **mi no aha ye mana ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu da adres.** Please, write your address.
+**cing kitaba tu de adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
 
@@ -526,37 +526,37 @@ Tip: To make direct requests, drop all the pronouns.
 
 ## Part 4. Going around
 
-### enda <small>to go</small>
+### go <small>to go</small>
 
-**tu enda ke?** Where are you going?
+**tu go ke?** Where are you going?
 
-**mi enda dom.** I'm going home.
+**mi go jia.** I'm going home.
 
-**mi mus enda ke?** Where should I go?
+**mi mus go ke?** Where should I go?
 
-**mi mus enda ke jen?** To whom should I go?
+**mi mus go ke ren?** To whom should I go?
 
-**haida enda!** Let's go!
+**haida go!** Let's go!
 
-**haida enda na ped** Let's go by foot!
-
-
-### lay <small>to come</small>
-
-**cing lay!** Come here!
-
-**tu lay ze ke?** Where do you come from?
-
-**mi lay ze dubai.** I come from Dubai.
-
-**mi lay dom nale.** I will come home tomorrow.
+**haida go na ped** Let's go by foot!
 
 
-### safara <small>to travel</small>
+### lai <small>to come</small>
 
-**kia tu safara na tren?** Do you travel by train?
+**cing lai!** Come here!
 
-**mimen safara ze london to paris.** We travel from London to Paris.
+**tu lai ze ke?** Where do you come from?
+
+**mi lai ze dubai.** I come from Dubai.
+
+**mi lai jia nale.** I will come home tomorrow.
+
+
+### safar <small>to travel</small>
+
+**kia tu safar na tren?** Do you travel by train?
+
+**mimen safar ze london to paris.** We travel from London to Paris.
 
 **safar cok long.** The voyage is very long.
 
@@ -569,7 +569,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu na ke?** Where are you?
 
-**mi na dom.** I'm at home.
+**mi na jia.** I'm at home.
 
 **ye na ke?** Where is he/she?
 
@@ -580,23 +580,23 @@ Tip! You can use **na** as a preposition or alone as the verb.
 **mi gong na...** I work at ...
 
 
-### doma <small>to live, reside</small>
+### jia <small>to live, reside</small>
 
-**tu doma ke?** Where do you live?
+**tu jia ke?** Where do you live?
 
-**mi doma singapur.** I live in Singapore.
+**mi jia singapur.** I live in Singapore.
 
-**kia tu doma sa hotel?** Do you live in this hotel?
+**kia tu jia sa hotel?** Do you live in this hotel?
 
-Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **doma** already covers the meaning of being at somewhere, so **na** is not necessary.
+Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **jia** already covers the meaning of being at somewhere, so **na** is not necessary.
 
-### denga <small>to wait</small>
+### deng <small>to wait</small>
 
-**cing denga!** Please wait!
+**cing deng!** Please wait!
 
-**yemen denga mimen.** They wait for us.
+**yemen deng mimen.** They wait for us.
 
-**mi denga tu na hotel.** I wait for you in the hotel.
+**mi deng tu na hotel.** I wait for you in the hotel.
 
 
 
@@ -608,7 +608,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **mi kap un kafe.** I will take a coffee.
 
-**cing kap un kafe to mi.** Please take one coffee for me.
+**cing kap un kafe do mi.** Please take one coffee for me.
 
 **tu ja kap pesa ze mi.** You already got money from me.
 
@@ -617,13 +617,13 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dar pesa.** Please give some money.
 
-**cing dar ye to mi.** Please give it to me.
+**cing dar ye do mi.** Please give it to me.
 
-**mi dar sa to tu.** I give this to you.
+**mi dar sa do tu.** I give this to you.
 
-**mi dar buk to yemen.** I give a book to them.
+**mi dar buk do yemen.** I give a book to them.
 
-**ye no wol dar ye to mi.** He/she doesn't want to give it to me.
+**ye no wol dar ye do mi.** He/she doesn't want to give it to me.
 
 
 
@@ -642,7 +642,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar to biznes jen.** He/she rents rooms to business people.
+**ye kira dar kamar to biznes ren.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -722,7 +722,7 @@ Word List
 All words of Pandunia are loan words from other languages that are spoken around the world. Probably you can recognize many Pandunia words from English and other languages that you may know. Usually one Pandunia word is shared by many languages. For example **ma** and **pa** are known in hundreds of languages. However, only one source word is included in this word list as an example.
 
 
-**ama** but <small>(Turkish _ama_)</small>  
+**a** but <small>(Russian _а_)</small>  
 **bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
@@ -733,18 +733,16 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
-**dom** home, residence <small>(Russian _dom_ дом)</small>  
-**doma** live, reside  
-**enda** to go <small>(Swahili _kuenda_)</small>  
+**go** to go <small>(Swahili _kuenda_)</small>  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**haba** have; there is <small>(German _haben_)</small>  
+**ha** have; there is <small>(German _haben_)</small>  
 **haber** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
-**jen** person <small>(Mandarin _rén_ 人)</small>  
+**jia** home, residence <small>(Mandarin _jiā_ 家)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
@@ -752,21 +750,21 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
-**lay** come <small>(Vietnamese _lai_)</small>  
+**lai** come <small>(Vietnamese _lai_)</small>  
 **ma** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mana** to mean <small>(Swahili _maana_)</small>  
-**meda** to help, to assist <small>(French _aider_)</small>  
-**mede** help, assistance  
+**mede** help, assistance <small>(English _mayday_)</small>  
 **mi** I, me <small>(Swahili _mimi_)</small>  
 **mimen** we  
-**nida** need <small>(English _need_)</small>  
+**nide** need <small>(English _need_)</small>  
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
 **nun** now, currently <small>(German _nun_)</small>  
-**nyama** eat, drink <small>(Spanish _ñam_)</small>  
+**nyam** eat, drink <small>(Spanish _ñam_)</small>  
 **pa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
+**ren** person <small>(Mandarin _rén_ 人)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
