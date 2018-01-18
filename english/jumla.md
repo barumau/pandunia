@@ -220,33 +220,33 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 
 
-### de <small>'s (possessive particle)</small>
+### di <small>'s (possessive particle)</small>
 
 **sa ke?** What's this?
 
-**sa mi de fon.** It's my phone.
+**sa mi di fon.** It's my phone.
 
-**sa ke de?** Whose is this?
+**sa ke di?** Whose is this?
 
-**sa mi de.** It's mine.
+**sa mi di.** It's mine.
 
-Note: Possessive particle **de** is put between the owner and the owned thing. So **mi de** means "my", **tu de** means "your" and so on.
+Note: Possessive particle **di** is put between the owner and the owned thing. So **mi di** means "my", **tu di** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
-**ye si mi de doste.** He/she is my friend.
+**ye si mi di doste.** He/she is my friend.
 
-**mi si sara de doste.** I am Sara's friend.
+**mi si sara di doste.** I am Sara's friend.
 
-<small>Etymology. **de** is from Mandarin: 的 /də/.</small>
+<small>Etymology. **di** is from Mandarin: 的 /də/.</small>
 
 
 
 ### nam <small>name</small>
 
-**tu de nam si ke?** What's your name?
+**tu di nam si ke?** What's your name?
 
-**mi de nam si tomas.** My name is Thomas.
+**mi di nam si tomas.** My name is Thomas.
 
 **ye namu ke?** What he/she is called?
 
@@ -283,15 +283,15 @@ Note: Possessive particle **de** is put between the owner and the owned thing. S
 
 
 
-### de <small>'s</small>
+### di <small>'s</small>
 
-**ye si mi de ma.** She is my mother.
+**ye si mi di ma.** She is my mother.
 
-**ye si mi de man.** He is my man.
+**ye si mi di man.** He is my man.
 
-**ye si mi de fem.** She is my wife.
+**ye si mi di fem.** She is my wife.
 
-**tomas si sara de panyo.** Thomas is Sara's friend.
+**tomas si sara di panyo.** Thomas is Sara's friend.
 
 
 
@@ -382,13 +382,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### haida <small>let's</small>
+### haide <small>let's</small>
 
-**haida nyam!** Let's eat!
+**haide nyam!** Let's eat!
 
-**haida go nyam!** Let's go eat!
+**haide go nyam!** Let's go eat!
 
-**haida go jia.** Let's go home.
+**haide go jia.** Let's go home.
 
 
 
@@ -413,7 +413,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **maf! sa ke?** Excuse me, what's this?
 
-**maf. tu namu ke?** Excuse me, what's your name?
+**maf. tu nam ke?** Excuse me, what's your name?
 
 
 
@@ -447,7 +447,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**maf. mi no ken tu de baxa.** Sorry, I don't speak your language.
+**maf. mi no ken tu di baxa.** Sorry, I don't speak your language.
 
 
 
@@ -466,42 +466,42 @@ Tip: To make direct requests, drop all the pronouns.
 **mau loga miau.** Cat says meow.
 
 
-### auda <small>to listen, hear</small>
+### audi <small>to listen, hear</small>
 
-**mi no ken auda tu.** I can't hear you.
+**mi no ken audi tu.** I can't hear you.
 
 **cing loga kuat.** Please speak louder.
 
-**mi auda musik.** I listen to music.
+**mi audi musika.** I listen to music.
 
-**tu auda ke yang de musik?** What kind of music do you listen to?
+**tu audi ke yang di musika?** What kind of music do you listen to?
 
 
-### wida <small>to see</small>
+### wide <small>to see</small>
 
-**suku wida tu.** Pleased to see you!
+**suka wide tu.** Pleased to see you!
 
-**wida tu re!** See you again!
+**wide tu re!** See you again!
 
-**wida tu nale!** See you tomorrow!
+**wide tu nale!** See you tomorrow!
 
-**mi wida ye yer.** I saw him/her yesterday.
+**mi wide ye yer.** I saw him/her yesterday.
 
 
 ### mana <small>to mean</small>
 
-**sa loge mana ke?** What does this word mean?
+**sa loga mana ke?** What does this word mean?
 
 **"mau" mana ke?** What does "mau" mean?
 
-**ye mana hewan de yang.** It means a kind of animal.
+**ye mana hewan di yang.** It means a kind of animal.
 
 **mi no aha ye mana ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu de adres.** Please, write your address.
+**cing kitaba tu di adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
 
@@ -536,9 +536,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi mus go ke ren?** To whom should I go?
 
-**haida go!** Let's go!
+**haide go!** Let's go!
 
-**haida go na ped** Let's go by foot!
+**haide go na ped** Let's go by foot!
 
 
 ### lai <small>to come</small>
@@ -642,7 +642,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar to biznes ren.** He/she rents rooms to business people.
+**ye kira dar kamar do biznes ren.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -775,7 +775,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **tumen** you all  
 **u** or <small>(French _ou_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  
-**wida** see, look <small>(Russian _videt'_ видеть)</small>  
+**wide** see, look <small>(Russian _videt'_ видеть)</small>  
 **wol** want <small>(Italian _volere_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
 **ye** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>  
