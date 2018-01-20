@@ -556,7 +556,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia tu safar na tren?** Do you travel by train?
 
-**mimen safar ze london to paris.** We travel from London to Paris.
+**mimen safar ze london do paris.** We travel from London to Paris.
 
 **safar cok long.** The voyage is very long.
 
@@ -733,13 +733,14 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
-**go** to go <small>(Swahili _kuenda_)</small>  
+**do** to, until <small>(Russian _do_ до)</small>  
+**go** to go <small>(English _go_)</small>  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**ha** have; there is <small>(German _haben_)</small>  
-**haber** news <small>(Malay _khabar_)</small>  
+**ha** have; there is <small>(Portuguese _ha_)</small>  
+**habar** news <small>(Malay _khabar_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
 **jia** home, residence <small>(Mandarin _jiā_ 家)</small>  
@@ -757,6 +758,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **mede** help, assistance <small>(English _mayday_)</small>  
 **mi** I, me <small>(Swahili _mimi_)</small>  
 **mimen** we  
+**na** at, in, on, with <small>(Lingala _na_)</small>  
 **nide** need <small>(English _need_)</small>  
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
@@ -769,7 +771,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
-**si** yes; to be <small>(Spanish _sí_)</small>  
+**si** yes <small>(Spanish _sí_)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tu** you <small>(Tamil _nī_ நீ)</small>  
 **tumen** you all  
@@ -778,8 +780,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **wide** see, look <small>(Russian _videt'_ видеть)</small>  
 **wol** want <small>(Italian _volere_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
-**ye** he, she, it <small>(Mandarin _tā_ 他/她/它)</small>  
+**ye** he, she, it <small>(Lingala _yé_)</small>  
 **yemen** they  
+**ze** from, since <small>(Czech _z, ze_)</small>  
 
 
 
