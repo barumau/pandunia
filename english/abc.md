@@ -70,16 +70,18 @@ There are many reasons why only capital letters should be used.
 1. Writing represents speech. Speech doesn't have large and small sounds.
 2. No extra symbols.
     - Exactly 24 symbols are needed to write the 24 speech sounds of Pandunia.
-    - Using small letters would add 14 extra symbols that would look different compared to the corresponding large letters: A-a, B-b, D-d, E-e, F-f, G-g, H-h, I-i, J-j, L-l, M-m, N-n, R-r, T-t.
-3. Capitalization rules are confusing for many people. Most writing systems in the world have only one set of symbols and they are free from capitalization rules.
+    - Using small letters would add extra symbols that would look different compared to the corresponding large letters. For example **A** and **a** look like different symbols.
+3. Capitalization rules are confusing for many people in the international context.
+    - Many writing systems don't have separate large and small symbols, for example Arabic, Devanagari of India, Ge'ez of Ethiopia, Chinese, Korean, and Japanese syllabaries.
+    - Capitalization is a late development even in Latin, Greek and Cyrillic alphabets.
 4. It is simpler to use only large letters. Complex capitalization rules are avoided. (Besides, capitalization rules vary by language.)
-5. Text in large letters is easier to read for people who have bad eyesight. [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2016788/)
-6. Research has shown that text in large letters is as easy to read as mixed letters.
-    - "We do actually read uppercase letters more slowly, but only because we don't see them as often. [...] If you practice reading text in all capital letters you’ll eventually read that text as fast as you read mixed case." [Source](http://www.graphics.com/article-old/how-people-read)
+5. Text in large letters is as easy and as fast to read as mixed letters.
+    - "This is entirely a practice effect. ... When readers are forced to read large quantities of uppercase text, their reading speed will eventually increase to the rate of lowercase text." [Source](https://www.microsoft.com/typography/ctfonts/WordRecognition.aspx)
+6. Text in large letters is easier to read for people who have bad eyesight. [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2016788/)
 
 Note! It's not a big mistake to use small letters. Sometimes people do it habitually because they are used to them in other languages. But the rule is that Pandunia should be written in large letters.
 
-Small letters are used in standard international acronyms. For example: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
+Small letters are used in standard international acronyms. For example: 10 Mb (DES MEGA BIT), 100 Gb (HON GIGA BIT), 2 mm (DU MILI METRE), 1 kJ (UN KILO JUL).
 
 
 ## Syllabification
