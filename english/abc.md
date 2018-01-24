@@ -70,7 +70,7 @@ There are many reasons why only capital letters should be used.
 1. Writing represents speech. Speech doesn't have large and small sounds.
 2. No extra symbols.
     - Exactly 24 symbols are needed to write the 24 speech sounds of Pandunia.
-    - Using small letters would add extra symbols that would look different compared to the corresponding large letters. For example **A** and **a** look like different symbols.
+    - Using also small letters would add extra symbols that would look different compared to the corresponding large letters. For example **A** and **a** look like different symbols.
 3. Capitalization rules are confusing for many people in the international context.
     - Many writing systems don't have separate large and small symbols, for example Arabic, Devanagari of India, Ge'ez of Ethiopia, Chinese, Korean, and Japanese syllabaries.
     - Capitalization is a late development even in Latin, Greek and Cyrillic alphabets.
@@ -105,6 +105,6 @@ Small letters are used in standard international acronyms. For example: 10 Mb (D
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-> MI WIDA TU :) = I see you.  
-> MI NO WIDA TU :( = I don't see you.
+> MI WIDE TU :) = I see you.  
+> MI NO WIDE TU :( = I don't see you.
 
