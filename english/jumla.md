@@ -1,4 +1,4 @@
-# Pandunia word by word
+# Basic words and phrases
 
 ### Introduction
 
@@ -132,15 +132,15 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 **si, ye si doktor.** Yes, he is a doctor.
 
-The word **si** can be used for stating something as a fact. The it is used instead of "to be". In Pandunia there's no verb for "to be".
+The word **si** can be used for stating something as a fact. Then it is put in the same place where "to be" is put in English.
 
 **mi si tomas.** I am Thomas.
 
 **tu si sara.** You are Sara.
 
-**pingo si pal.** The apple is a fruit.
+**pingo si pala.** The apple is a fruit.
 
-Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
+Note: Using **si** is particularly useful in the last phrase, because without it the phrase could sound like a compound word: **pingo pala** (an apple fruit).
 
 <small>Etymology. **si** is from Spanish: sí, Italian: sì, Portuguese: sim, Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
 
@@ -234,9 +234,9 @@ Note: Possessive particle **di** is put between the owner and the owned thing. S
 
 **ye ke?** Who's he/she?
 
-**ye si mi di doste.** He/she is my friend.
+**ye si mi di panyo.** He/she is my friend.
 
-**mi si sara di doste.** I am Sara's friend.
+**mi si sara di panyo.** I am Sara's friend.
 
 <small>Etymology. **di** is from Mandarin: 的 /də/.</small>
 
@@ -248,11 +248,11 @@ Note: Possessive particle **di** is put between the owner and the owned thing. S
 
 **mi di nam si tomas.** My name is Thomas.
 
-**ye namu ke?** What he/she is called?
+**ye nam ke?** What he/she is called?
 
-**ye namu sara.** She is called Sara.
+**ye nam - sara.** She is called Sara.
 
-**mi namu tomas.** I'm called Thomas.
+**mi nam - tomas.** I'm called Thomas.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎ "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German: Name, English: name.</small>
 
@@ -260,20 +260,20 @@ Note: Possessive particle **di** is put between the owner and the owned thing. S
 
 ### ha <small>have</small>
 
-**mi ha bon jia.** I have a good house.
+**mi ha bon dom.** I have a good house.
 
 **ye no ha pesa.** S/he doesn't have money.
 
 **mi wol ha nowi fon.** I want to have a new phone.
 
 **kia tu ha ban?** Do you have children?  
-**mi ha dua ban.** I have two children.
+**mi ha du ban.** I have two children.
 
 
 
 ### jan <small>to know</small>
 
-**mi jan ye.** I know him/her.
+**mi jan ye.** I know him/her/it.
 
 **kia tu jan sa ren?** Do you know that person?
 
@@ -407,13 +407,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 ## Part 3. Communication
 
-### maf <small>sorry, pardon</small>
+### mafu <small>sorry, pardon</small>
 
-**maf! mi no aha.** Sorry, I don't understand.
+**mafu! mi no aha.** Sorry, I don't understand.
 
-**maf! sa ke?** Excuse me, what's this?
+**mafu! sa ke?** Excuse me, what's this?
 
-**maf. tu nam ke?** Excuse me, what's your name?
+**mafu. tu nam ke?** Excuse me, what's your name?
 
 
 
@@ -423,7 +423,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi aha.** I understand.
 
-**maf. mi no aha tu.** Sorry. I don't understand you.
+**mafu. mi no aha tu.** Sorry. I don't understand you.
 
 **mi no bas aha tu.** I didn't quite understand you.
 
@@ -447,7 +447,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**maf. mi no ken tu di baxa.** Sorry, I don't speak your language.
+**mafu. mi no ken tu di baxa.** Sorry, I don't speak your language.
 
 
 
@@ -599,7 +599,7 @@ Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **ji
 **mi deng tu na hotel.** I wait for you in the hotel.
 
 
-
+<!--
 
 ## Part 5. Doing business
 
@@ -646,8 +646,6 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
-
-<!--
 
 ### yang <small>type, kind, sort</small>
 

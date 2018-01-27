@@ -1,12 +1,12 @@
-# Phrases in isolating Pandunia
+# Pandunia word by word
 
 ### Grammar
 
 All the phrases in this page follow these three rules:
 
 1. Head-last: The first word or phrase modifies the next one.
-2. Noun phrase boundary: A pause or a determiner (i.e. a numeral, a possessive pronoun or a demonstrative pronoun) begins a new noun phrase.
-3. Zero be: There is a "zero be" i.e. an equality sign (=) between two consecutive noun phrases.
+2. Noun phrase boundary: A pause, a particle or a determiner (i.e. a numeral, a possessive pronoun or a demonstrative pronoun) begins a new noun phrase.
+3. Zero be: There is a "zero be" between two consecutive noun phrases.
 
 ### Method of Presentation
 

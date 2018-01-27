@@ -15,6 +15,7 @@
 
   * [Spelling](abc.md)
   * [Basic Phrases](jumla.md)
+  * [Word by word](loga_na_loga.md)
   * [Course](darse.md)
 
 [Words]()
