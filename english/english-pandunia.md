@@ -97,6 +97,7 @@ bath   : banya
 bathroom   : banya kamar  
 battery   : bateri  
 bear   : baru  
+beautiful (handsome)   : sundar  
 bed   : bede  
 bedouin (nomadic)   : badawi  
 bedroom   : son kamar  
@@ -205,6 +206,7 @@ diamond   : almas
 dining room   : nyam kamar  
 dinner   : xam nyam  
 disc (disk)   : diske  
+distant (tele-)   : tele  
 doctor (physician, healer)   : doktor  
 dollar   : dolar  
 dot (spot)   : bindu  
@@ -218,6 +220,7 @@ duty (prescribed conduct)   : darma
 earthquake   : sismo  
 easy   : izi  
 echo   : eho  
+ecology   : eko loji  
 Egypt   : misri  
 elephant   : gaja  
 energy   : energi  
@@ -225,6 +228,7 @@ engine (motor)   : motor
 English   : englix  
 enough (sufficient)   : bas  
 enthusiast (aficionado)   : nik  
+environment   : eko  
 Erithrea   : eritra  
 Eurasia   : eurasia  
 euro   : euro  
@@ -271,6 +275,7 @@ Ganges   : ganga
 gas   : gas  
 gasoline (petrol)   : benzin  
 gender (sex)   : jinsi  
+German   : doice  
 giraffe   : jirafa  
 girl   : jowan fem  
 glass   : glas  
@@ -325,6 +330,7 @@ honey   : medu
 honorable (respectable)   : xarif  
 hope (wish)   : inxala  
 hormone   : hormon  
+horse   : uma  
 hotel   : hotel  
 hour   : hor  
 how?   : ke yang  
@@ -348,6 +354,7 @@ Jamaica   : jameika
 Japan   : nipon  
 jasmine   : moli  
 Jesus   : yesu  
+Jordan   : urdun  
 judo   : judo  
 ##k  
 karate   : karate  
@@ -370,6 +377,7 @@ let's   : haide
 lie (lie down)   : lala  
 life   : jiwa  
 life force (chi)   : ci  
+like (enjoy, be fond of)   : suka  
 linguistics   : baxa loji  
 lion   : singa  
 list (listing)   : lista  
@@ -415,7 +423,9 @@ my   : mi di
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewa kisa  
 ##n  
+nail (spike)   : ding  
 name   : nam  
+nature (environment)   : tabia  
 navel (belly button)   : naba  
 needle (pin)   : pin  
 Nepal   : nepal  
@@ -437,15 +447,18 @@ number   : numer
 nylon   : nilon  
 ##o  
 oasis   : waha  
+of (particle of possession)   : di  
 oh!   : o  
 okay (acceptable)   : oke  
 olive   : zaitun  
+one (1)   : un  
 or   : u  
-orange (fruit)   : aranje  
+orange (fruit)   : aranji  
 other   : oter  
 ouch! (alas!)   : ai  
 outside (exterior)   : wai  
 oven   : tanur  
+own (particle of possession)   : da  
 ##p  
 pack (package)   : pake  
 Panama   : panama  
@@ -487,6 +500,7 @@ prophecy   : nabi
 quote   : cita  
 ##r  
 rage (fury)   : amuk  
+railway (railroad)   : tren dau  
 read   : duga  
 ready   : redi  
 reason (rational thinking)   : akil  
@@ -523,6 +537,7 @@ show (display, exhibition)   : xou
 shower   : duxa  
 sick (ill)   : beng  
 Singapore   : singapur  
+sit   : side  
 sizzle   : zizi  
 skin   : pifu  
 sky (heaven)   : sama  
@@ -538,27 +553,38 @@ someone (somebody)   : yo ren
 something   : yo xe  
 song   : gana  
 sound (audio)   : soni  
+soup   : supa  
 South Korea   : hanguk  
 Spain   : espanya  
 special (distinct)   : has  
 star   : tara  
 still (yet)   : hai  
 stone   : batu  
+storm (tempest)   : tufan  
 story (tale)   : kisa  
 subway (metro)   : tunel tren  
 suck   : cupa  
+sugar   : sukar  
+superb (wonderful, super)   : super  
 sushi   : suxi  
 syrup   : xirop  
 ##t  
 table   : meza  
+taiga   : taiga  
 Tanzania   : tanzania  
+tape   : tepu  
 tattoo   : tatu  
 tea   : ca  
+technique (technology)   : tekni  
+technology (study of techniques)   : tekni loji  
 telephone   : tele fon  
 television   : tele wide  
+tennis   : tenis  
+test (challenge, trial)   : teste  
 that is (in other words, i.e.)   : yani  
 theft   : curi  
 theology   : dewa loji  
+theory   : teori  
 they   : yemen  
 thick (fat)   : pang  
 think   : pensa  
@@ -566,6 +592,7 @@ thousand (kilo-)   : kilo
 three (3)   : san  
 thunder (roaring)   : grom  
 to (till, until, for)   : do  
+tobacco   : tabako  
 today   : zai den  
 Togo   : togo  
 tomato   : tomate  
@@ -574,11 +601,14 @@ ton (tonne)   : ton
 tone (note, pitch, shade)   : tone  
 too little   : min ka bas  
 too much   : max ka bas  
+tool   : tul  
 top (spinning top)   : tolo  
 topic (subject, theme)   : tema  
 touch   : tocu  
 tower   : minara  
+train   : tren  
 tree   : xu  
+tube (pipe)   : tube  
 tundra   : tundra  
 Tunisia   : tunis  
 tunnel   : tunel  
@@ -587,6 +617,9 @@ two (2)   : du
 ##u  
 under (below)   : xia  
 understand (realize)   : aha  
+union   : unia  
+Uruguay   : uruguai  
+use (employ, apply)   : uze  
 use (utility, benefit, gain, advantage)   : faida  
 ##v  
 vagina   : yoni  
@@ -623,6 +656,8 @@ Yemen   : yaman
 yes (yeah)   : si  
 yesterday   : yer den  
 yoga   : yoga  
+you   : tu  
+you all   : tumen  
 young   : jowan  
 ##z  
 Zambia   : zambia  

@@ -139,7 +139,7 @@ English doesn't have word tones but it has word stress. Word stress is variable 
 
 Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi wól lóga supér dúnia báx.**
+Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi wól lóga supér dúnia báxa.**
 
 Pandunia doesn't have lexical tone.
 
@@ -147,7 +147,9 @@ Pandunia doesn't have lexical tone.
 
 Mandarin has only a few final consonants: -n, -ng and -r. Other final consonants are foreign and more or less difficult for native Mandarin speakers.
 
-Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also sibilants -s and -x.
+In Engish all consonants except -h can be in final position. Words can be extremely heavy. For example "posts" ends in three consonants.
+
+Pandunia limits the number and type of final consonants. The consonants that can be in final position in Pandunia words are the nasal finals -m, -n and -ng and the liquid finals -l and -r.
 
 
 
@@ -175,31 +177,42 @@ The plural pronouns follow the pattern of Standard Chinese.
 
 Note: The third person pronoun **ye** refers to both male and female persons as well as inanimate objects – just like the source words in Hindi-Urdu and Bantu languages.
 
+Possessive pronouns are formed by adding particle **da** after the pronoun.
+
+| English | Pandunia | Chinese |
+|---------|----------|---------|
+| my      | mi da    | wǒ de   |
+| your    | tu da    | nǐ de   |
+| his/her | ye da    | tā de   |
+| our     | mimen da | wǒmen de|
+| your    | tumen da | nǐmen de|
+| their   | yemen da | tāmen de|
+
 
 ## Easy sentences
 
 The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi romansa tu, tu romansa mi.
+    Pandunia:  mi ama tu, tu ama mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bei kana.
+    Pandunia:  pingo bei nyam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no ken bei kana.
+    Pandunia:  ye no ken bei nyam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ye kana kafe.
+    Pandunia:  mi cing ye nyam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
