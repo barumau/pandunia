@@ -220,33 +220,33 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 
 
-### di <small>'s (possessive particle)</small>
+### da <small>'s (possessive particle)</small>
 
 **sa ke?** What's this?
 
-**sa mi di fon.** It's my phone.
+**sa mi da fon.** It's my phone.
 
-**sa ke di?** Whose is this?
+**sa ke da?** Whose is this?
 
-**sa mi di.** It's mine.
+**sa mi da.** It's mine.
 
-Note: Possessive particle **di** is put between the owner and the owned thing. So **mi di** means "my", **tu di** means "your" and so on.
+Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
-**ye si mi di panyo.** He/she is my friend.
+**ye si mi da panyo.** He/she is my friend.
 
-**mi si sara di panyo.** I am Sara's friend.
+**mi si sara da panyo.** I am Sara's friend.
 
-<small>Etymology. **di** is from Mandarin: 的 /də/.</small>
+<small>Etymology. **da** is from Mandarin: 的 /də/.</small>
 
 
 
 ### nam <small>name</small>
 
-**tu di nam si ke?** What's your name?
+**tu da nam si ke?** What's your name?
 
-**mi di nam si tomas.** My name is Thomas.
+**mi da nam si tomas.** My name is Thomas.
 
 **ye nam ke?** What he/she is called?
 
@@ -280,18 +280,6 @@ Note: Possessive particle **di** is put between the owner and the owned thing. S
 **kia tumen jan alise?** Do you know each other?
 
 **mimen jan alise ze long.** We know each other for long.
-
-
-
-### di <small>'s</small>
-
-**ye si mi di ma.** She is my mother.
-
-**ye si mi di man.** He is my man.
-
-**ye si mi di fem.** She is my wife.
-
-**tomas si sara di panyo.** Thomas is Sara's friend.
 
 
 
@@ -447,7 +435,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**mafu. mi no ken tu di baxa.** Sorry, I don't speak your language.
+**mafu. mi no ken tu da baxa.** Sorry, I don't speak your language.
 
 
 
@@ -474,7 +462,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi audi musika.** I listen to music.
 
-**tu audi ke yang di musika?** What kind of music do you listen to?
+**tu audi ke yang da musika?** What kind of music do you listen to?
 
 
 ### wide <small>to see</small>
@@ -494,14 +482,14 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" mana ke?** What does "mau" mean?
 
-**ye mana hewan di yang.** It means a kind of animal.
+**ye mana hewan da yang.** It means a kind of animal.
 
 **mi no aha ye mana ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu di adres.** Please, write your address.
+**cing kitaba tu da adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
 

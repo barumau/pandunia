@@ -26,7 +26,7 @@ antena : antenna
 anus : anus  
 ara : saw tool  
 arabi : Arabic  
-aranje : orange (fruit)  
+aranji : orange (fruit)  
 arhentina : Argentina  
 arte : art  
 asan : posture (asana)  
@@ -140,6 +140,7 @@ curi : theft
 
 ##d
 
+da : own (particle of possession)  
 dai : big  
 darma : duty (prescribed conduct)  
 dau : way (road)  
@@ -155,10 +156,13 @@ den salam : Good day
 dewa : god (deity)  
 dewa kisa : myth (divine story)  
 dewa loji : theology  
+di : of (particle of possession)  
 din : religion (worship)  
 din guru : priest (cleric)  
+ding : nail (spike)  
 diske : disc (disk)  
 do : to (till, until, for)  
+doice : German  
 doktor : doctor (physician, healer)  
 dolar : dollar  
 doxa : fault (sin, blame, defect, guilt)  
@@ -176,6 +180,8 @@ duxa : shower
 ##e
 
 eho : echo  
+eko : environment  
+eko loji : ecology  
 energi : energy  
 englix : English  
 eritra : Erithrea  
@@ -498,6 +504,7 @@ seres : Ceres (dwarf planet)
 seri : series  
 serte : certain (sure)  
 si : yes (yeah)  
+side : sit  
 singa : lion  
 singapur : Singapore  
 sismo : earthquake  
@@ -510,21 +517,36 @@ son kamar : bedroom
 soni : sound (audio)  
 sosis : sausage  
 stan : area  
+suka : like (enjoy, be fond of)  
+sukar : sugar  
+sundar : beautiful (handsome)  
 suomi : Finland  
+supa : soup  
+super : superb (wonderful, super)  
 sura : image (picture)  
 suxi : sushi  
 
 ##t
 
+tabako : tobacco  
+tabia : nature (environment)  
+taiga : taiga  
 tanur : oven  
 tanzania : Tanzania  
 tara : star  
 tatu : tattoo  
 tawa : frying pan  
 taze : fresh  
+tekni : technique (technology)  
+tekni loji : technology (study of techniques)  
+tele : distant (tele-)  
 tele fon : telephone  
 tele wide : television  
 tema : topic (subject, theme)  
+tenis : tennis  
+teori : theory  
+tepu : tape  
+teste : test (challenge, trial)  
 tocu : touch  
 togo : Togo  
 tolo : top (spinning top)  
@@ -532,6 +554,13 @@ tomate : tomato
 ton : ton (tonne)  
 tone : tone (note, pitch, shade)  
 topi : hat (cap)  
+tren : train  
+tren dau : railway (railroad)  
+tu : you  
+tube : tube (pipe)  
+tufan : storm (tempest)  
+tul : tool  
+tumen : you all  
 tundra : tundra  
 tunel : tunnel  
 tunel tren : subway (metro)  
@@ -541,6 +570,12 @@ turki : Turkish
 ##u
 
 u : or  
+uma : horse  
+un : one (1)  
+unia : union  
+urdun : Jordan  
+uruguai : Uruguay  
+uze : use (employ, apply)  
 
 ##x
 

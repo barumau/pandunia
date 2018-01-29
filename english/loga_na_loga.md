@@ -112,6 +112,47 @@ My eyes are brown.
 
 =================================================
 
+### "Yes" and "no" in place of the "zero be"
+
+A particle like **si** (yes) can take the place of "zero be". It doesn't add any information when the sentence is already affirmative but it makes the structure more clear.
+
+**mi si simon.**  
+_I yes Simon._  
+I am Simon.
+
+**mi nam si simon.**  
+_My name yes Simon._  
+My name is Simon.
+
+**mi umur si 30 nen.**  
+_My age yes 30 year._  
+I'm 30 years old.
+
+**mi gojia si frans.**  
+_My country yes France._  
+I live in France.
+
+**mi yen rang si brun.**  
+_My eye's color yes brown._  
+My eyes are brown.
+
+Negation is naturally done with **no** (not).
+
+**mi no simon.**  
+_I not Simon._  
+I'm not Simon.
+
+**mi nam no simon.**  
+_My name not Simon._  
+My name is not Simon.
+
+**mi umur no 30 nen.**  
+_My age not 30 year._  
+I'm not 30 years old.
+
+
+=================================================
+
 ### Determiners
 
 A variety of _determiners_ can be used for marking the beginning of a noun phrase.
@@ -124,15 +165,11 @@ A cat is an animal.
 _Cat, some animal.**  
 A cat is an animal.
 
-**mau si hewan.**  
-_Cat, this animal._  
-A cat is this animal.
-
-**mau la hewan.**  
+**mau sa hewan.**  
 _Cat, that animal._  
 A cat is that animal.
 
-**mau la lit i bon dom hewan.**  
+**mau sa lit i bon dom hewan.**  
 _Cat, that little and good home's animal._  
 The cat is that little and good household animal.
 
@@ -140,11 +177,11 @@ The cat is that little and good household animal.
 
 ### Talking about actions
 
-**mi amor: tu.**  
+**mi ama: tu.**  
 _My loved, you._  
 I love you.
 
-**tu: mi amor**  
+**tu: mi ama**  
 _You, my loved._  
 You are my loved one.
 
