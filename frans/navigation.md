@@ -5,9 +5,9 @@
 
 [Alphabet](abc.md)
 
-[Phrases courantes](jumle.md)
+[Phrases courantes](jumla.md)
 
-[Grammaire](bax_kanun.md)
+[Grammaire](baxa_kanun.md)
 
 [Cours](darse.md)
 

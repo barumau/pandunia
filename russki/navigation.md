@@ -2,8 +2,8 @@
 [gimmick:theme](readable)
 
 [Звучание](abc.md)
-[Уроки](darse.md)
-[Грамматика](bax_kanun.md)
+[Уроки](darsa.md)
+[Грамматика](baxa_kanun.md)
 
 [Словарь]()
 

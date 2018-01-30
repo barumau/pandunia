@@ -5,9 +5,9 @@
 
 [Opiskelu]()
 
-  * [Pikaopas](gid.md)
+  * [Pikaopas](gida.md)
   * [Ääntäminen](abc.md)
-  * [Lauseita](jumle.md)
+  * [Lauseita](jumla.md)
 
 [Sanasto]()
 

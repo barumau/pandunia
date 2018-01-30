@@ -2,8 +2,8 @@
 [gimmick:theme](readable)
 
 [Prononco](abc.md)
-[Utilaj frazoj](jumle.md)
-[Gramatiko](bax_kanun.md)
+[Utilaj frazoj](jumla.md)
+[Gramatiko](baxa_kanun.md)
 
 [Vortaro]()
 
