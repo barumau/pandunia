@@ -10,6 +10,7 @@ aiti : Haiti
 ajil : agile  
 akil : reason (rational thinking)  
 akse : axis (axle)  
+aku : parrot (parakeet)  
 alkol : alcohol  
 almari : cupboard (closet, cabinet, wardrobe)  
 almas : diamond  
@@ -43,6 +44,7 @@ baca : child (offspring)
 badam : almond  
 badan : body  
 badawi : bedouin (nomadic)  
+badila : exchange (swap, replace)  
 bai : white  
 bala : force (strength)  
 baldi : bucket  
@@ -77,6 +79,7 @@ baze : base (foundation)
 be : without  
 bebe : baby (darling)  
 bede : bed  
+bedinjan : eggplant (aubergine, brinjal)  
 belarus : Belarus  
 belgi : Belgium  
 belize : Belize  
@@ -87,6 +90,7 @@ beret : beret
 beri : wolf  
 beton : concrete (material with cement)  
 bin : vase (pot, bin, jar, jug)  
+bindi : okra (gumbo)  
 bindu : dot (spot)  
 bir : beer  
 bizi : busy (occupied)  
@@ -105,6 +109,7 @@ botol : bottle
 boton : button  
 brazil : Brazil  
 britan : Britain (UK)  
+brox : brush  
 buda : Buddha  
 buda din : Buddhism  
 budi : intelligence (understanding)  
@@ -113,6 +118,7 @@ buking : booking (reservation)
 buku : book  
 buku fen : chapter (section)  
 bus : bus  
+buyu : baobab  
 
 ##c 
 
@@ -142,6 +148,8 @@ curi : theft
 
 da : own (particle of possession)  
 dai : big  
+dama : checkers  
+danke : thanks (thank you)  
 darma : duty (prescribed conduct)  
 dau : way (road)  
 dawa : medicine (drug)  
@@ -153,6 +161,7 @@ demon : demon
 den : day (daytime)  
 den nyam : lunch  
 den salam : Good day  
+des : ten (10)  
 dewa : god (deity)  
 dewa kisa : myth (divine story)  
 dewa loji : theology  
@@ -195,11 +204,17 @@ europa unia : European Union (EU)
 
 faida : use (utility, benefit, gain, advantage)  
 famili : family  
+famili nam : surname (family name)  
 fan : fan (admirer)  
+fani : funny (amusing)  
 fantazi : fantasy (imagination)  
+fantom : ghost (fantom)  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
+fobi : fear (phobia)  
+forum : forum  
 fulan : some (indefinite, indeterminate)  
+funci : function (work)  
 futa : fat (grease)  
 futur : future (coming)  
     
@@ -207,8 +222,10 @@ futur : future (coming)
     
 gabra : grave (tomb)  
 gabra stan : graveyard  
+gada : donkey (ass)  
 gaja : elephant  
 galeri : gallery (exhibition hall)  
+gali : street  
 gamel : camel  
 gami : marriage (matrimony)  
 gana : song  
@@ -218,6 +235,8 @@ garanti : guarantee
 gas : gas  
 gau : high  
 gayana : Guyana  
+gazel : gazelle  
+gida : steer  
 giga : billion (giga-)  
 gitar : guitar  
 glas : glass  
@@ -230,8 +249,13 @@ grafi : depiction (graph)
 gram : gram  
 gras : grass  
 grom : thunder (roaring)  
+gua : gourd (pumpkin, cucumber, melon)  
+guanxi : relationship (association, connection)  
+guatemala : Guatemala  
+gubu : hippopotamus  
 guha : cave  
 gui : fiend (evil spirit)  
+gung fu : kung fu  
 guru : guru (mentor)  
 
 ##h
@@ -256,6 +280,7 @@ hazar : hazard
 he : huh? (pardon?)  
 helen : Greek (Hellenic)  
 hem : hmm  
+hema : tent  
 hen : hate  
 hero : hero  
 hewan : animal  
@@ -264,7 +289,6 @@ hima duna : snow drift
 hima rose : frost  
 himalia : Himalayas  
 histori : history (annals)  
-hiyar : cucumber  
 hobi : hobby  
 hoki : hockey  
 honduras : hundred (100)  
@@ -294,11 +318,20 @@ jami : collect (gather, bring together)
 jan : know  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
+jawaba : answer (reply, response)  
+jeba : pocket  
+jele : gel (jelly)  
+jen : birth  
+jen den : birthday  
+jentil : kind (nice, gentle)  
+jenxen : ginseng  
 jia : home (residence)  
+jiju : spider  
 jinsi : gender (sex)  
 jirafa : giraffe  
 jiwa : life  
 jiwa loji : biology (study of life)  
+jo : that which  
 jowan : young  
 jowan fem : girl  
 jowan man : boy  
@@ -306,18 +339,30 @@ judo : judo
 
 ##k
 
+kabau : water buffalo  
+kadi : judgment (sentence)  
+kadi guru : judge (referee)  
 kafe : coffee  
 kafe kan : cafe (coffee shop)  
 kafe kopa : coffee cup  
+kaji : fowl (galliform)  
 kaka : excrement (shit)  
+kalam : pen  
 kama : desire (lust)  
 kamar : room (chamber)  
 kambudia : Cambodia  
+kandi : candy (sweets)  
 kanguru : cangaroo  
 kanon : gun (cannon)  
+kanun : law  
+kapa : cover (covering)  
 karate : karate  
+kari : curry  
+karite : shea  
+karota : carrot  
 karta : card  
 kata : cut  
+katalunya : Catalonia  
 kawai : cute  
 ke : what?  
 ke yang : how?  
@@ -328,11 +373,16 @@ kia : ask (question)
 kila : wedge  
 kilo : thousand (kilo-)  
 kisa : story (tale)  
+kitaba : writing (text)  
+kitaba kan : library  
 kiwi : kiwi fruit  
+klube : club  
 kode : code (cipher)  
 kolombia : Colombia  
 kompani : company (corporation)  
+komun : common (shared)  
 kona : corner (angle)  
+kongo : Congo  
 kopa : cup  
 kopi : copy (replica)  
 kosta : shore (coast, beach)  
@@ -346,6 +396,7 @@ kurba : curve (bend)
 lai : come  
 lala : lie (lie down)  
 latvia : Latvia  
+lelek : stork  
 liga : connect (join, link)  
 lista : list (listing)  
 loga : word  
@@ -366,6 +417,7 @@ max : more
 max ka bas : too much  
 maxim : most (maximally)  
 maxin : machine  
+maya : Maya  
 maza : fun (amusement)  
 mede : help (aid, assistance)  
 medi : mean (medium, average)  
@@ -400,20 +452,27 @@ miskin : poor (miserable)
 misri : Egypt  
 moda : fashion (trend)  
 moli : jasmine  
+mongol : Mongol  
+mosim : season  
 motor : engine (motor)  
 muka : face  
 mula : beginning  
 mumia : mummy  
 musika : music  
 musika fan : music fan  
+mustar : mustard  
+mutu : mutual (reciprocal, each other)  
 
 ##n
 
 naba : navel (belly button)  
 nabi : prophecy  
+nafas : breath  
 naija : Nigeria  
 nam : name  
 nama : meat (flesh)  
+nawa : Nahua people  
+nawa baxa : Nahuatl  
 nepal : Nepal  
 neptun : Neptune  
 net : net  
@@ -453,9 +512,11 @@ pandunia : Pandunia
 pang : thick (fat)  
 panik : panic  
 pantalon : pants (trousers)  
-papagai : parrot (parakeet)  
+panyo : friend  
 papaya : papaya  
 paper : paper  
+penguin : penguin  
+penis : penis  
 pensa : think  
 pifu : skin  
 pigu : buttocks (butt)  
@@ -512,8 +573,8 @@ sismo loji : seismology
 siti : city (town)  
 sofa : sofa (couch)  
 sofi : wisdom  
-son : sleep  
-son kamar : bedroom  
+sona : sleep  
+sona kamar : bedroom  
 soni : sound (audio)  
 sosis : sausage  
 stan : area  
@@ -585,6 +646,7 @@ wadi : valley
 waha : oasis  
 wai : outside (exterior)  
 wai gojia : foreign country  
+wakat : time (moment)  
 wat : watt  
 waxi : wash  
 waxi maxin : washing machine  

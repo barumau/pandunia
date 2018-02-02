@@ -277,9 +277,9 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **kia tu jan sa ren?** Do you know that person?
 
-**kia tumen jan alise?** Do you know each other?
+**kia tumen jan mutu?** Do you know each other?
 
-**mimen jan alise ze long.** We know each other for long.
+**mimen jan mutu ze long.** We know each other for long.
 
 
 
@@ -445,7 +445,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi loga do tu.** I talk to you.
 
-**mimen loga do alise.** We talk to each other.
+**mimen loga do mutu.** We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
