@@ -46,951 +46,668 @@
   
   
   
-  
-  
+    
 ##a  
-acida   : suan  
 adreso   : adres  
-adulto   : zina  
 aero   : hawa  
-afero   : masala  
-afero (aĵo)   : ting  
-afero (aĵo)   : xe  
 Afriko   : afrika  
-agrabla   : latif  
-agresi   : agres  
-ah!   : a  
-ajlo   : lasun  
+akceptebla (okej)   : oke  
+akcidento   : xigo  
 akso   : akse  
-akvo   : sui  
-akvomelono   : arbuz  
-al (ĝis)   : do  
-Alaho   : alah  
-Albanio   : cip  
-alia   : alter  
+al (ĝis, por)   : do  
+alas!   : ai  
+alia   : oter  
+aligi   : liga  
 alkoholo   : alkol  
 alta   : gau  
 Ameriko   : amerika  
-ami   : amor  
 amiko   : panyo  
+amo   : ama  
 ampero   : amper  
-analizi   : analis  
-ananaso   : nanas  
-angla   : englic  
+amuza   : fani  
+amuzo   : maza  
+analizo   : analis  
+anaso   : bata  
+angla   : englix  
 angulo   : kona  
-animacio (movbildo)   : anime  
-ankaŭ   : plus  
 ankoraŭ   : hai  
-ano   : member  
-antaŭa   : gon  
-antaŭtagmezo   : suba den  
+antaŭa (lasta, pasinta)   : yer  
+antaŭhieraŭ   : yer yer den  
 anteno   : antena  
 anuso   : anus  
 apoteko   : dawa kan  
-apuda   : jin  
 araba   : arabi  
 araneo   : jiju  
 arbaro   : jangal  
-arbo   : mara  
-Argentinio   : arhentina  
-armeo   : armi  
-aro   : men  
-artikolo   : makala  
+arbo   : xu  
+Argentino   : arhentina  
+artefarita lingvo   : sana baxa  
 arto   : arte  
-asketo   : asket  
-asparago   : lusun  
+aspekto   : rupa  
 aspirino   : aspirin  
 astmo   : asma  
-ataki   : atak  
-atendi   : deng  
-atenti   : dian  
+atako   : ataka  
 atomo   : atom  
-aventuro   : aventur  
 avino   : oma  
 avo   : opa  
-azeno   : iha  
+avokado   : awaka  
+azeno   : gada  
 Azio   : asia  
-aĉeti   : mai kap  
-aĝo   : umur  
-aĵo   : vat  
 aŭ   : u  
-aŭdi (aŭskulti)   : audi  
-aŭgusto   : mes 8 (mes bat)  
 Aŭstralio   : australia  
 ##b  
-babilejo   : cat kamar  
-babili   : cat  
-bagaĝo   : bagaj  
-baldaŭ   : sun  
-balkono   : balkon  
-bambuo   : bambu  
-banano   : banan  
-banejo   : banya kamar  
+babilejo   : blabla kamar  
+babili   : blabla  
+banano   : banana  
+bandaĝo (vindo)   : banda  
 Bangladeŝo   : bangla  
-banki   : banka  
 bano   : banya  
-Barato (Hindio)   : barat  
+banĉambro   : banya kamar  
+baobabo   : buyu  
+Barato   : barti  
 barbaro   : barbar  
-barbo   : barda  
-barelo   : tong  
-baseno (cisterno)   : basen  
-batalo   : jang  
+bari   : bara  
+baseno   : basen  
 batato   : batata  
-baterio   : bateri  
-bazaro   : bazar  
+baterio (pilo)   : bateri  
 bazo   : baze  
+beduino (nomado)   : badawi  
 bela   : sundar  
-beleta   : kawai  
 Belgio   : belgi  
-bendo (fasko)   : banda  
-benko   : banko  
+Beliceo   : belize  
+Belorusio   : belarus  
+bendo   : tepu  
 benzino   : benzin  
 bereto   : beret  
-besto (animalo)   : hewan  
+besto   : hewan  
 betono   : beton  
-bezoni   : neses  
-Biblio   : biblia  
-biblioteko   : kitab kan  
 biero   : bir  
-biologio   : jiva logi  
-birdo   : paki  
-biskvito   : biskut  
+bildo   : sura  
+biologio   : jiwa loji  
+Birmo   : bama  
+biskvito (kuketo)   : kuki  
 blanka   : bai  
-blua   : blu  
-boato (ŝipo)   : bot  
-bojkoto   : boikot  
 Bolivio   : bolivia  
 bombo   : bomba  
+bombono   : kandi  
 bona   : bon  
-bonan tagon!   : den salam  
+Bonan tagon   : den salam  
+Bonan vesperon   : xam salam  
+bonega   : super  
+bonkora   : jentil  
+bordo   : kosta  
 botelo   : botol  
-bovo   : mumu  
-Brazilio   : brazil  
-brila   : ming  
-Britanio   : britan  
+Brazilo   : brazil  
+Britio   : britan  
 broso   : brox  
-bruna   : brun  
 budhismo   : buda din  
-Budho   : buda  
-Bulgario   : bolgaria  
+budho   : buda  
+Bulgario   : bolgar  
 buso   : bus  
-butero   : makan  
 butono   : boton  
-buĝeto   : bujet  
 buŝo   : boka  
 ##c  
 celo (golo)   : gol  
-cemento   : sement  
-centi-   : centi  
-cerebro   : nau  
+cent   : honduras  
 Cereso   : seres  
-certa   : yakin  
-cigaredo   : sigaret  
-cirklo   : wen  
-curry   : kari  
-cxampiono   : campion  
-cxasi   : kaca  
-cxokolado   : cokolat  
+certa   : serte  
+cikonio   : lelek  
+citaĵo   : cita  
 ##d  
-danci   : dans  
 danko   : danke  
 danĝero   : hatar  
-datreveno   : nen festa  
-daŭri   : dur  
-de   : de  
-de (el)   : ze  
-debati   : debat  
-deci-   : deci  
+daŭro   : dura  
+de (el, pro)   : ze  
+de (partiklo de posedo)   : di  
 dek (10)   : des  
-demandi (ĉu)   : kia  
+demando   : kia  
+demografio   : demo grafi  
 demokratio   : demo krati  
 demono   : demon  
-dentbroso   : dante brox  
-dentisto   : dante doktor  
-dento   : dante  
-desegni   : desen  
-detalo   : detal  
-devi   : mus  
-devus   : ingai  
+demono   : gui  
+devo   : darma  
+dezerto   : sande stan  
+deziro   : kama  
+diablo (Satano)   : xatan  
 diamanto   : almas  
-difekto   : avar  
 dika   : pang  
-dimanĉo   : var 7 (var set)  
-dio   : deva  
-direkti   : lid  
-diri (vorti)   : loga  
+dio   : dewa  
 disko   : diske  
-do   : to  
 dolaro   : dolar  
-domeno   : domino  
-domo   : bet  
-doni   : dar  
-dormo   : son  
-dorso   : ruk  
-dramo   : drama  
+dormo   : sona  
+dormoĉambro   : sona kamar  
 drinkejo   : bar  
+drogo (medicino)   : dawa  
 du (2)   : du  
-dubi   : xak  
-dum   : na dur de  
 duno   : duna  
-duŝo   : dux  
 ##e  
-ebla   : munkin  
-eco   : gun  
-edzeco   : gami  
-Egiptio   : misri  
-ejo   : kan  
-ekkompreni   : aha  
-ekrano   : ekran  
-ekster   : na wai  
-eksterlando   : wai gok  
+Egipto   : misri  
+ekologio   : eko loji  
 ekstero   : wai  
-Ekvadorio   : ekuador  
-ekzemplo   : misal  
-elasta   : lastik  
 elefanto   : gaja  
-elektro   : eletre  
-elektrono   : eletron  
-en   : na in  
-en (ĉe)   : na  
 energio   : energi  
-Eniru!   : bite lai in!  
-Eriso   : eris  
+entuziasmulo   : nik  
 Eritreo   : eritra  
-esperi   : incala  
-esti   : e  
-esti -ata   : bei  
-Estonio   : esti  
+escepte   : minus  
+esperi   : inxala  
 estonta   : futur  
-Etiopio   : itiopia  
+estro (ĉefulo)   : xefe  
+eta   : mini  
+eta   : wi  
 evangelio   : anjil  
 eĉ   : hata  
+eĥo   : eho  
 Eŭrazio   : eurasia  
 eŭro   : euro  
-Eŭropa Unio   : europa uni  
+Eŭropa Unio (EU)   : europa unia  
 Eŭropo   : europa  
 ##f  
-fabo aŭ pizo   : dou  
-fabriko   : san kan  
+fabriko   : sana kan  
 facila   : izi  
-fajna   : fain  
-fajro   : fai  
-familio   : famil  
-fanatiko   : fanat  
+familinomo   : famili nam  
+familio   : famili  
+fantazio   : fantazi  
 fantomo   : fantom  
-fari (agi)   : kar  
-fari (produkti)   : san  
-farmi   : nong  
-faruno   : ata  
-febro   : feber  
-fekaĵo   : kaka  
-fenestro   : janela  
-feo   : peri  
-ferio   : cuti  
-fermilo   : tala  
-fero   : fer  
-festo   : festa  
-fi!   : fu  
+fasono   : moda  
+feko   : kaka  
+fervojo   : tren dau  
+fervorulo   : fan  
+feĉo   : hamir  
 fiki   : coda  
-fiksi   : fiksa  
-filmo   : filme  
-filozofio   : filsofi  
-fingro   : finger  
+Filipinoj   : pilipin  
 Finnlando   : suomi  
-fino   : fin  
-firmao   : kompani  
-fiziko   : fizik logi  
-fiŝo   : maci  
 flago   : bandera  
-flava   : wang  
 floro   : hua  
-flugi   : fei  
-flugilo   : wing  
-fojo   : mar  
-folio   : yep  
-forgesi   : bul  
-forko   : forka  
-formo   : forma  
-forto   : bal  
-fortreso (fortiko)   : yosai  
-fosi   : kava  
-foto   : foto  
-Francio   : frans  
-frapo (bato)   : darba  
-frato aŭ fratino   : aka  
-frazo   : jumla  
-freŝa   : taza  
-fromagxo   : cis  
-frukto (rezulto)   : pal  
-fumo   : duman  
-funkcii   : funsi  
+forno   : tanur  
+forto   : bala  
+forumo   : forum  
+fremda lando   : wai gojia  
+freŝa   : taze  
+fromaĝo   : cis  
+frosto   : hima rose  
+frukto (rezulto)   : pala  
+funkcii   : funci  
 furiozo   : amuk  
 ##g  
-galerio   : galeri  
+galerio (ekspozicio)   : galeri  
+Gangoj   : ganga  
+garantio   : garanti  
 gaso   : gas  
-genio   : jeni  
-genuo   : janu  
-gepatroj   : ban ge lau  
-Germanio   : doic  
-gesto (mieno)   : jeste  
+gazelo   : gazel  
+geedzeco   : gami  
+genro   : jinsi  
+Germana   : doice  
+gitaro   : gitar  
+gramo   : gram  
 granda   : dai  
-graso   : gras  
+graso   : futa  
 gratuli   : barka  
-grava   : muhim  
-greko   : helen  
-grimaco   : grimas  
-grupo   : grup  
-guruo (instruisto)   : guru  
-gusto   : gusta  
-gvidi   : gida  
+greka   : helen  
+Gujano   : gayana  
+guruo   : guru  
+Gvatemalo   : guatemala  
 ##h  
-halto   : stop  
-hastigi   : yala  
+Haitio   : aiti  
+hamako   : hamak  
+harmonio   : harmoni  
 havi   : ha  
+hazardo   : hazar  
 haŭto   : pifu  
-hejmo   : dom  
+hejmo (loĝejo)   : jia  
 helpo   : mede  
+herbo   : gras  
 heroo   : hero  
-hieraŭ   : yer  
+hieraū   : yer den  
+Himalajo   : himalia  
 hipopotamo   : gubu  
 Hispanio   : espanya  
 historio   : histori  
-ho (oh)   : o  
+hm   : hem  
+ho!   : o  
+hobio   : hobi  
+hodiaŭ   : zai den  
 hokeo   : hoki  
-homo   : manux  
+Honduro   : honduras  
+hormono   : hormon  
 horo   : hor  
 hotelo   : hotel  
-humuro   : yumor  
-hundo   : waf  
-Hungario   : madyar  
 ##i  
-ideo   : idea  
-ido (filo aū filino)   : ban  
+ido (infano)   : baca  
 ili   : yemen  
 ilo   : tul  
-imperiestro   : imper xan  
-imperio   : imper  
-indiki   : pont  
-ino (virino)   : fem  
-insekto   : koncung  
-instruisto   : darsa guru  
-insulo   : pulo  
-inteligenta   : budi  
-inter   : inter  
-interesa   : interes  
-interno   : in  
-intervjuo   : intervu  
-interŝanĝi   : badal  
-inviti   : bite lai  
-io   : yo ting  
+Indonezio   : indonesia  
+intelekto   : budi  
+interkonsento (amen)   : amen  
+interŝanĝi   : badila  
+inviti   : cing lai  
+io   : yo xe  
 Irakio   : irak  
 Iranio   : iran  
 iri   : go  
 islamo   : islam  
-Italio   : italia  
+Israelo   : israel  
+iu   : fulan  
 iu   : yo  
-iu homo   : yo jen  
+iu persono   : yo ren  
 ##j  
-jam (esti -ita)   : ja  
+Jamajko   : jameika  
 Japanio   : nipon  
-jaro   : nen  
-je (per, kun, de)   : bi  
-jes   : ye  
-jodo   : yod  
+jasmeno   : moli  
+Jemeno   : yaman  
+jes   : si  
+Jesuo   : yesu  
 jogo   : yoga  
-judo   : yehudi  
-juna   : jovan  
-Jupitero   : mucing  
-jupo   : jup  
-juĝi (verdikto)   : hakim  
-jxeleo   : jele  
-jxetkubo   : dado  
-jxudo   : judo  
+Jordanio   : urdun  
+juna   : jowan  
+juĝisto   : kadi guru  
+juĝo   : kadi  
 ##k  
 kafejo   : kafe kan  
 kafo   : kafe  
+kaftaso   : kafe kopa  
 kaj   : i  
-kajero   : not buk  
-kaldrono   : ketel  
-kalkulo   : hisab  
-Kanadio   : kanada  
-kanalo   : kanal  
-kanti   : gana  
-kapabla, ebla   : kabil  
-kapo   : sar  
-karato   : kirat  
-karo   : bebe  
-karoto   : karot  
+kajero   : nota buku  
+Kamboĝo   : kambudia  
+kamelo   : gamel  
+kanabo   : ganja  
+kangaro   : kanguru  
+kanono   : kanon  
+kanto   : gana  
+kapsiko   : cili  
+karateo   : karate  
+karoto   : karota  
 karto   : karta  
-kastano   : kastan  
+kartuno   : anime  
+karulo   : bebe  
+Katalunio   : katalunya  
 kato   : mau  
-kazo   : kazu  
-kaĝo   : kafas  
-kaŭzo   : koz  
-kiel   : bi yang de  
-kiel (ol)   : ka  
-kilogramo   : kilo gram  
+kaverno   : guha  
+kiel?   : ke yang  
 kio?   : ke  
-kisi   : bis  
-klara   : klar  
-klaso (kategorio)   : klas  
-klubo   : klub  
-knabo   : boi  
+kivo   : kiwi  
+klubo   : klube  
+knabino   : jowan fem  
+knabo   : jowan man  
+kodo   : kode  
+kojno   : kila  
+kolbaso   : sosis  
+kolekti (kunigi)   : jami  
+Kolombio   : kolombia  
 koloro   : rang  
-komenci   : kaici  
-komercisto   : biznes jen  
-komerco   : biznes  
-komerco   : mai  
-komika   : komik  
-komikso   : manga  
-komputilo   : komputer  
+koltuko   : xal  
+komenco   : mula  
+komercisto   : biznes ren  
+kompanio (firmao)   : kompani  
+kompreni   : aha  
 komuna   : komun  
-koncentri (fokuso)   : fokus  
+kondiĉo (postulo)   : xarti  
+Kongo   : kongo  
 konstrui   : bana  
-kontraŭa (mala)   : fan  
-konuso   : konus  
 kopio   : kopi  
 korbo   : basket  
 koro   : xim  
 korpo   : badan  
+koto   : poto  
 kotono   : goton  
-kranio   : sar gut  
-kredi   : xin  
-kreski   : rasti  
-krii   : kri  
-kritiki   : piping  
-krom   : minus  
-kruela   : zalim  
-kruĉo   : jara  
-kuko   : kek  
-kukumo   : hiyar  
-kulturo   : kultur  
+kovrilo   : kapa  
+krimo   : krime  
+kukaĵo   : pai  
+kuko   : keki  
+kukurbo (kukumo, melono)   : gua  
+kulpo   : doxa  
 kumino   : zira  
-kuniklo (leporo)   : tuzi  
-kupola   : kupa  
-kuraci   : kura  
 kuracisto   : doktor  
-kuraĝa   : yungam  
-kurteno   : parda  
+kurbo   : kurba  
 kuŝi   : lala  
-kvadrato (karoo)   : karo  
-kvar (4)   : car  
-kvin   : lim  
 ##l  
-laborejo   : gong kan  
-laboristo   : gong jen  
-laboro   : gong  
 lakto   : milke  
-laktuko   : letis  
-lampo   : lampa  
-lando   : gok  
-larmo   : mat sui  
-larvo (raŭpo)   : larva  
-larĝa   : kuan  
-lavi   : wac  
-legi   : dok  
-lernanto   : darsa ban  
-lernejo   : darsa kan  
-lerni (studi, leciono)   : darsa  
-letero   : leter  
-leĝo   : kanun  
-li aŭ ŝi   : ye  
-libera   : liber  
-libro   : buk  
-ligi   : lig  
-lilio   : lili  
-limo   : limit  
+Latvio   : latvia  
+lavi   : waxi  
+lavmaŝino   : waxi maxin  
+legi   : duga  
+lego   : kanun  
+leono   : singa  
+lerta   : ajil  
+li aŭ ŝi aŭ ĝi   : ye  
+librejo   : kitaba kan  
+libro   : buku  
+lingvistiko   : baxa loji  
 lingvo   : baxa  
-lingvoscienco   : baxa logi  
-linio   : lin  
-lipo   : lab  
 listo   : lista  
-litero   : kara  
-lito   : bed  
-litro   : liter  
-loko   : lok  
-longa   : long  
-loĝi   : abit  
-ludi (sin amuzi)   : joga  
-lui   : kira kap  
-luigi   : kira dar  
-lumo   : guang  
-luncxo   : den yem  
-lundo   : var 1 (var un)  
-luno   : luna  
-luo   : kira  
-lupo   : beria  
+lito   : bede  
+lupo   : beri  
 ##m  
-magneto   : magnet  
-maizo   : mais  
+majao   : maya  
+majstro   : xifu  
 malamo   : hen  
-malbona   : bad  
-malferma   : kai  
-malgaja   : udas  
-malgranda   : lit  
-maljuna   : lau  
-malliberejo   : bandi kan  
-malliberulo   : bandi  
+maldekstra   : isker  
+malfideleco   : zina  
 malmulte   : xau  
 malplej   : minim  
-malplena   : hali  
 malpli   : min  
-malproksima   : far  
+malproksima   : tele  
 malsana   : beng  
-malvarma   : leng  
-malvarmumo   : zukam  
-malĝojo   : duka  
-mango   : mango  
-mano   : hat  
-mantelo   : kot  
+maltro   : min ka bas  
+malĝojo   : duku  
+mandarino   : migan  
+mandarinĉina   : putong han  
+manĝoĉambro   : nyam kamar  
 maratono   : maraton  
-mardo   : var 2 (var du)  
-marko   : marka  
-maro   : daria  
-Marso   : marsi  
-martelo   : hamar  
-masaĝo   : masaje  
+margarino   : margarin  
+martelo   : hamer  
+marŝi   : marca  
+masko   : maska  
 maso   : masa  
-matenmanĝo   : suba yem  
-mateno   : suba  
-materio   : mater  
-matraco   : matras  
-matĉo   : mace  
 maŝino   : maxin  
-medicino (medikamento)   : dawa  
-memoro   : yad  
-merkredo   : var 3 (var sam)  
-Merkurio   : budan  
+medio   : eko  
+Meksiko   : mehiko  
+melodio   : melodi  
+melongeno   : bedinjan  
+merkato (bazaro)   : bazar  
+mesio   : mesi  
 metalo   : metal  
-metodo   : metod  
 metroo   : tunel tren  
-meza   : medi  
+mezo   : medi  
 mi   : mi  
+mia   : mi di  
+mielo   : medu  
 migdalo   : badam  
-mil (kilo-)   : kilo  
-miliardo   : giga  
+mikro-   : mikro  
+mil   : kilo  
+mili-   : mili  
+miliardo (giga-)   : giga  
 miliono   : mega  
-ministerio   : wazir kan  
+milito (batalo)   : jang  
 ministro   : wazir  
 minuto   : minut  
-modeli   : model  
-mojosa   : kul  
-mola   : mol  
-monato   : mes  
-monda lingvo   : dunia baca  
+mito   : dewa kisa  
+mizera   : miskin  
+momento   : wakat  
+mondlingvo   : dunia baxa  
 mondo   : dunia  
-mono   : pesa  
+Mongola   : mongol  
 monto   : xan  
-montri   : viza  
-moralo   : moral  
-morgaŭ   : nale  
-morto   : mot  
-moskito   : moskit  
+montri (ekspozicii)   : xou  
+morgaŭ   : ming den  
 motoro   : motor  
-multe (plure)   : poli  
-multe (tre)   : cok  
-muro   : mur  
-muskolo   : muskul  
-muso   : mucu  
-muziko   : musik  
-muŝo   : zizi  
+mumio   : mumia  
+muzikfano   : musika fan  
+muziko   : musika  
 ##n  
-najbaro   : visin  
+nadlo (pinglo)   : pin  
 najlo   : ding  
+naskiĝtago   : jen den  
 nasko   : jen  
 naturo   : tabia  
-nazo   : nos  
-naŭ   : noi  
+naūatla lingvo   : nawa baxa  
+naūatloj   : nawa  
 ne   : no  
-necesa   : zarura  
-necesejo   : tualet  
-Nederlando   : nederland  
-nenio   : nul ce  
-neniu   : nul jen  
+negoco   : biznes  
+Nepalo   : nepal  
 Neptuno   : neptun  
+newtono (N)   : nuton  
+neĝamaso   : hima duna  
 neĝo   : hima  
-nigra   : kal  
-niŝo   : nic  
+ni   : mimen  
+ni faru...   : haide  
+Nikaragvo   : nikaragua  
+nilono   : nilon  
+Niĝerio   : naija  
+Niĝero   : nijer  
+nodo   : node  
 nokto   : noce  
+nombro   : numer  
 nomo   : nam  
-norda   : nor  
-normalo   : normal  
-nova   : nov  
-novaĵo   : habar  
-nubo   : megam  
-nuda (senvesta)   : nud  
-nul   : nul  
-nun   : nun  
-nur   : sol  
+Norvegio   : norge  
+novaĵoj   : habar  
 ##o  
-ok   : bat  
-okcidento   : weste  
-okulo   : mat  
-okupita   : bizi  
+oazo   : waha  
+okulo   : yen  
+okupata   : bizi  
 olivo   : zaitun  
-ombrelo   : catar  
 ombro   : caya  
-ondo   : nami  
-opinii   : igen  
 oranĝo   : aranji  
-ordo   : ratib  
-orelo   : or  
-oriento   : dong  
-origino   : asal  
-oro   : gim  
+ornitorinko   : batakrot  
 ##p  
-pacienta   : sabur  
-paco   : xanti  
-pafilo   : bunduk  
-pagi   : pei  
-paki   : pak  
+pajaco   : bufon  
+pako   : pake  
+Panamo   : panama  
 pando   : panda  
+pandunia   : pandunia  
 paniko   : panik  
 pano   : pan  
-pantalono   : pantalon  
-papago   : papagai  
+pantalonoj   : pantalon  
+papago   : aku  
 papajo   : papaya  
 papero   : paper  
-papriko   : cili  
-pardonpeto   : maf  
+pasintjare   : yer nen  
 pastro   : din guru  
+pato   : tawa  
 patrino   : ma  
-patrino   : mama  
-patro   : papa  
-paŭzi   : paus  
-pendi   : pende  
+patro   : pa  
 peniso   : penis  
-pensi   : pensa  
-pentri   : penta  
-perfekta   : perfet  
-periodo   : zaman  
-perlo   : lulu  
-permesi   : permis  
-persono (ulo)   : jen  
+pensa   : pensa  
+periodo (epoko)   : zaman  
+persa   : farsi  
+persono   : ren  
 peti (bonvolu)   : cing  
-pico   : pitsa  
-piedo   : ped  
-pikniko   : piknik  
-piliero (kolono)   : kolun  
 pilko   : bola  
 pingveno   : penguin  
 pipro   : piper  
-pistolo   : pistol  
-placo   : maidan  
-planedo   : planet  
-planko   : kamar tal  
-plano   : plan  
-planto   : nabat  
-plasto   : plastik  
+piso (urino)   : pixa  
+piĝino   : pijin  
 plej   : maxim  
-plena   : ful  
-plenkreskulo   : adulte  
 pli   : max  
-plori   : ron  
-plumo   : puru  
-Plutono   : pluto  
+plumo   : kalam  
+pluvo   : duxa  
 poemo   : xir  
-polico   : polis  
-politiko   : politik  
-pollando   : polska  
-pomo   : pingo  
-popolo   : nas  
-por   : por  
+popolo   : demo  
+porcelano   : ciki  
 porcio (dozo)   : doze  
-pordo   : mun  
+porkaĵo   : goro nyam  
 porko   : goro  
-porti   : porta  
-post   : bada  
-potenco   : sultan  
+posteno   : asan  
+postmorgaŭ   : ming ming den  
+posttagmeze   : xam den  
 poto   : bin  
 povi   : ken  
-pozo   : asan  
-poŝo   : jeb  
-poŝto   : posta  
-praktika   : pratik  
-prava   : tik  
-preciza (ekzakta, akurata)   : presis  
-preni   : kap  
-presi (premi)   : cap  
+poŝo   : jeba  
+presi   : capa  
 preta   : redi  
 preĝi   : dua  
-pri   : bi tema de  
-problemo   : problem  
-profesio (metiero)   : peca  
-profesoro   : profesor  
-programo   : program  
-projekto   : projet  
-promeni (marŝi)   : marce  
-promesi   : wad  
-proponi   : teyan  
-protekti   : bauhu  
-provi   : proba  
+priskribo   : grafi  
+produkti (fabriki)   : sana  
+profetaĵo   : nabi  
+promesi   : wada  
+propra (partiklo de posedo)   : da  
 pulvo   : barud  
-punkto   : punt  
-punkto (preciza loko)   : dem  
-pupo   : pupe  
-pura   : saf  
+punkto   : bindu  
 ##r  
-rabi   : lut  
-radiko   : gen  
-radio   : radio  
-rado   : caka  
-rafano   : lobak  
+racio   : akil  
 rajto   : hak  
-rakonto   : kata  
-rapida   : rapid  
-raporti   : repor  
-ree   : re  
-registro   : daftar  
+rakonto   : kisa  
+rando (orlo)   : kenar  
+rapidigi   : yala  
+reciproke (unu la alian)   : mutu  
+regi   : krati  
+regiono   : stan  
 religio   : din  
-renkonti   : mil  
-reprezenti   : wakil  
-respekto   : ging  
-respondi   : dap  
-restoracio   : restoran  
+respektinda   : xarif  
+respondo   : jawaba  
 reto   : net  
-revuo   : gazet  
-rezino   : rezin  
+rezervo   : buking  
+reĝo aŭ reĝino   : raja  
 ridi   : haha  
 rilato   : guanxi  
-rimarki   : not  
-ringo   : finger wen  
+rimarki   : nota  
+rinocero   : faru  
 ripari   : xuli  
-ripeti   : re kar  
-rivero   : nadi  
-rizo   : ris  
-riĉa   : rik  
-roboto   : robot  
-rolo   : rol  
-rolo   : rola  
-rozo   : roza  
-rusa   : ruski  
-Rusio   : rosia  
-ruĝa   : ros  
+risko   : risko  
+roso   : rose  
+rutino (kutimo)   : rutin  
 ##s  
-sabato   : sabat  
-sabato   : var 6 (var sis)  
-sablo   : balu  
+sablo   : sande  
 safrano   : zafran  
-sako   : sak  
-salo   : sal  
-saluto   : halo  
-saluto   : salam  
-sama   : sem  
+saga   : sofi  
+saluton!   : halo  
+sama   : sam  
 sango   : sang  
 sankta   : sant  
 sapo   : sabun  
-Saturno   : xani  
-saĝa   : sofi  
-saŭco   : sos  
-scienco   : logi  
-scii (koni)   : sap  
-se   : jadi  
-sed   : ama  
+saŭno   : sauna  
+scienco   : loji  
+scii (koni)   : jan  
+sed   : a  
 segilo   : ara  
-seka   : suha  
-sekreta   : sir  
-seksumo   : seksi  
-sekundo   : sekun  
-semajno   : set var  
-semo   : dane  
-sen   : bi no  
-senso   : sens  
-senti (emocii)   : senti  
-sep   : set  
-servi   : serva  
-serĉi   : sok  
-ses   : sis  
+sekso   : sekse  
+sekvanta   : ming  
+sen   : be  
+senti   : senti  
+Serbio   : serbia  
+serio   : seri  
 sezono   : mosim  
-seĝo   : kursi  
-si (mem)   : se  
-signifi   : mana  
-signo   : sin  
-simpla   : sade  
-sistemo   : sistem  
+si   : se  
+sidi   : side  
+sinapo   : mustar  
+Singapuro   : singapur  
+siropo   : xirop  
+sismologio   : sismo loji  
 sitelo   : baldi  
-skribi   : kitab  
-sledo   : sani  
-smeraldo   : zumrud  
+skatolo (kesto)   : sanduk  
+skribo   : kitaba  
 sofo   : sofa  
 sono   : soni  
-sorto (destino)   : kismat  
-sorĉo (magio)   : magi  
-spaco (universo)   : kosmos  
 speciala   : has  
-sporto   : sporte  
-stadiono   : arena  
-stadiono   : stadion  
+speco (tipo, stilo)   : yang  
+spiro   : nafas  
+stango   : baton  
 stelo   : tara  
-stilo (maniero)   : yang  
-stranga   : bizar  
-stultulo   : bobo  
-sub   : na xia  
+stiri   : gida  
+strato   : gali  
 sub   : xia  
-Sudafriko   : sudafrika  
-sudo   : sud  
+Sudkoreio   : hanguk  
 sufiĉa   : bas  
-sugi   : cup  
 sukero   : sukar  
-suko   : jus  
-suno   : surya  
-supo   : sup  
-sur   : na par  
-suro   : par  
-suŝio   : suci  
-sxteli   : curi  
+supo   : supa  
+suĉi   : cupa  
+suŝio   : suxi  
 ##t  
-tabako   : tabak  
-tabelo   : tabul  
+tabako   : tabako  
 tablo   : meza  
-tabulo   : paban  
+tagmanĝo   : den nyam  
 tago   : den  
-tago de semajno   : var  
-tajpilo   : kitab macin  
-Tanaĥo   : tanax  
-taso (glaso)   : kop  
-teamo   : tim  
+tajgo   : taiga  
+Tanzanio   : tanzania  
+taso   : kopa  
 tekniko   : tekni  
-teknologio   : tekni logi  
+teknologio   : tekni loji  
+telefono   : tele fon  
+televidilo   : tele wide  
 temo   : tema  
-teni   : ten  
-tenti   : tenta  
+tendo   : hema  
+teniso   : tenis  
 teo   : ca  
-teologio   : deva logi  
+teologio   : dewa loji  
 teorio   : teori  
-tero   : bumi  
 terpomo   : alu  
+tertremo   : sismo  
 testo   : teste  
-testudo   : tortuga  
-tetaso   : ca wan  
-timi   : fobi  
-tio estas (t.e.)   : yani  
-tiri   : tira  
-tiu   : sa far  
-tiu (la)   : sa  
-Togolando   : togo  
-tondi (tranĉi)   : kat  
-tondilo   : makas  
-torto   : pai  
-trajno   : tren  
-tranĉilo   : kati  
-trezoro   : hazin  
-tri (3)   : sam  
-tribo   : kabila  
+timo (fobio)   : fobi  
+tio estas (alivorte)   : yani  
+tio kio   : jo  
+Togo   : togo  
+tomato   : tomate  
+tombejo   : gabra stan  
+tombo   : gabra  
+tondro   : grom  
+tono   : tone  
+trajno (vagonaro)   : tren  
+trankvila   : xanti  
+tranĉi   : kata  
+tranĉilo   : caku  
+tri (3)   : san  
 tro   : max ka bas  
-tro malmulte   : min ka bas  
 trovi   : yureka  
-truo   : kong  
-tuko   : tela  
-tulipo   : tulip  
-turisto   : safar nik  
+tubo   : tube  
+tundro   : tundra  
+tunelo   : tunel  
+Tunizio   : tunis  
+tuno   : ton  
+Turkio   : turki  
 turo   : minara  
-tuso   : kos  
-tuta   : tot  
+tuŝi   : tocu  
 ##u  
-unu (1)   : un  
-unua   : numer un  
-unuigi   : uni  
-Unuiĝintaj Ŝtatoj de Ameriko   : uni stat de amerika  
-Urano   : uran  
+umbiliko   : naba  
+uniono   : unia  
+universala   : putong  
+unu   : un  
 urbo   : siti  
 urso   : baru  
-Usono   : usa  
+Urugvajo   : uruguai  
 utileco   : faida  
-uzi   : yung  
+uzi   : uze  
 ##v  
 vagino   : yoni  
-vakso   : mum  
-valo   : vale  
-valoro   : gaci  
-varma   : garam  
-ve!   : ai  
-vendi   : mai dar  
-vendredo   : var 5 (var lim)  
+valo   : wadi  
+vato   : wat  
+vazo (florpoto)   : hua bin  
 veni   : lai  
-venko   : win  
-vento   : fung  
-Venuso   : venus  
-vera   : ver  
-verando   : beranda  
-vermo   : verme  
+venonta jaro   : ming nen  
+veranda   : beranda  
+vespermanĝo   : xam nyam  
 vespero   : xam  
-vesti   : fuk  
-vetero   : tenci  
-vi   : ti  
+vi (ci)   : tu  
+vi ĉiu   : tumen  
 viando   : nama  
-vidi (rigardi)   : vide  
-vikio   : wiki  
-vilaĝo   : deya  
+vidi (rigardi)   : wide  
 vinagro   : cuka  
-vinilo   : vinil  
-vino   : vin  
-violoncxelo   : celo  
-vipo   : cabuk  
-viro   : man  
-viruso   : virus  
+vinbero   : putau  
+violonĉelo   : celo  
 vitro   : glas  
-vivi   : jiva  
+vivforto   : ci  
+vivo   : jiwa  
 vizaĝo   : muka  
-vizito   : vizit  
-voduo   : vodu  
-vojaĝo   : safar  
 vojo   : dau  
-vokalo   : vokal  
-voli   : vol  
-volto   : volta  
-vosto   : dum  
-voĉo   : vos  
+vortaro   : loga lista  
+vorto   : loga  
 ##w  
 ##x  
 ##y  
 ##z  
 Zambio   : zambia  
-zigzago   : zigzag  
+zebro   : zebra  
 Zimbabvo   : zimbabwe  
-zinko   : zink  
 zono   : zon  
+zoroastrismo   : zardux din  
+Zoroastro   : zardux  
 zuluo   : zulu  
 Ĉilio   : cile  
-Ĉinio   : jungok  
 ĉambro   : kamar  
-ĉaro (aŭto)   : gar  
-ĉefo   : xef  
-ĉemizo   : kamis  
+ĉapelo   : topi  
+ĉapitro   : buku fen  
+ĉarma   : kawai  
+ĉarniro (pivoto)   : xarnir  
+ĉeestanta (nuna, ekzistanta)   : zai  
+ĉefministro   : xefe wazir  
 ĉevalo   : uma  
-ĉi tiu   : sa jin  
 ĉielo   : sama  
-ĉio   : mei xe  
-ĉirkaŭ   : na wen  
-ĉirkaŭ   : sirka  
-ĉiu   : mei  
-ĉiu homo   : mei jen  
-ĝardeno   : gardin  
-ĝenerala (universala)   : putong  
-ĝeno   : mafan  
-ĝentila   : jentil  
-ĝirafo   : jiraf  
-ĥemiaĵo   : kimi  
-ĥemio   : kimi logi  
-ĥolero   : kolera  
-ĥoro   : kor  
-ĵaluza   : jelos  
-ĵaŭdo   : var 4 (var car)  
-ĵurnalo   : habar gazet  
-ĵus   : gang  
+ĉimpanzo   : cimpanzi  
+ĉinĉilo   : cincila  
+ĉokolado   : cokola  
+ĉokolado   : cokola baton  
+ĉu?   : he  
+ĝelo   : jele  
+ĝirafo   : jirafa  
+ĵudo   : judo  
 ŝafo   : meme  
-ŝakalo   : xakal  
+ŝako   : xatur  
+ŝamano   : xaman  
 ŝampuo   : xampu  
-ŝanco   : cans  
-ŝanco (hazardo)   : hazar  
-ŝati (feliĉa)   : suka  
-ŝerco   : jok  
-ŝlosilo   : cabi  
-ŝoko   : xok  
+ŝati   : suka  
+ŝipo   : bote  
 ŝranko   : almari  
-ŝtato (nacio)   : nasia  
+ŝtelo   : curi  
 ŝtono   : batu  
 ŝtormo   : tufan  
-ŝtrumpo   : corab  
-ŝuo   : sapat  
-ŭato   : wat  
+ŝuo   : sapato  
+ŭaŭ!   : wa  
