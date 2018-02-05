@@ -26,5 +26,6 @@ Kelkaj homoj jam interesigas sin pri pandunio. Vi povas renkonti ilin tie:
 
 - [Pandunia Fejsbuk grupo](http://www.facebook.com/groups/pandunia)
 - [pandunia esperanto grup](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) en Telegram
+- [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
 - [Retpoŝtlisto](https://groups.yahoo.com/neo/groups/pandunia/info) en Yahoo. Aliĝu per sendi mesaĝon al pandunia-subscribe@yahoogroups.com
 
