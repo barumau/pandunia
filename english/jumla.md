@@ -60,7 +60,7 @@ You can introduce yourself simply by saying **mi** and your name. You don't need
 
 **mi salam pa.** I greet father.
 
-The word **salam** is a noun and **salam** is the corresponding verb. The basic word order in Pandunia is subject-verb-object.
+The word **salam** functions both as a noun and as a verb. The basic word order in Pandunia is subject-verb-object.
 
 **sara salam tomas.** Sara greets Thomas.
 
@@ -83,7 +83,7 @@ The word **salam** is a noun and **salam** is the corresponding verb. The basic 
 
 Pronouns don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
 
-**mi romanse tu.** I love you.
+**mi ama tu.** I love you.
 
 <small>Etymology. **tu** is from Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
 
@@ -140,7 +140,7 @@ The word **si** can be used for stating something as a fact. Then it is put in t
 
 **pingo si pala.** The apple is a fruit.
 
-Note: Using **si** is particularly useful in the last phrase, because without it the phrase could sound like a compound word: **pingo pala** (an apple fruit).
+Note: Using **si** is particularly useful in the last phrase, because without it the phrase could sound like a compound word: **pingo-pala** (an apple fruit).
 
 <small>Etymology. **si** is from Spanish: sí, Italian: sì, Portuguese: sim, Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
 
@@ -471,20 +471,20 @@ Tip: To make direct requests, drop all the pronouns.
 
 **wide tu re!** See you again!
 
-**wide tu nale!** See you tomorrow!
+**wide tu ming den!** See you tomorrow!
 
-**mi wide ye yer.** I saw him/her yesterday.
+**mi wide ye yer den.** I saw him/her yesterday.
 
 
 ### mana <small>to mean</small>
 
-**sa loga mana ke?** What does this word mean?
+**sa loga mani ke?** What does this word mean?
 
-**"mau" mana ke?** What does "mau" mean?
+**"mau" mani ke?** What does "mau" mean?
 
-**ye mana hewan da yang.** It means a kind of animal.
+**ye mani hewan da yang.** It means a kind of animal.
 
-**mi no aha ye mana ke.** I don't understand what it means.
+**mi no aha ye mani ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
@@ -526,7 +526,8 @@ Tip: To make direct requests, drop all the pronouns.
 
 **haide go!** Let's go!
 
-**haide go na ped** Let's go by foot!
+**haide go na pede** Let's go by foot!
+
 
 
 ### lai <small>to come</small>
@@ -537,7 +538,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi lai ze dubai.** I come from Dubai.
 
-**mi lai jia nale.** I will come home tomorrow.
+**mi lai jia ming den.** I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
