@@ -21,7 +21,6 @@
 [Words]()
 
   * [Common words](putong_loga.md)
-  * [How to read word lists](howto.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)

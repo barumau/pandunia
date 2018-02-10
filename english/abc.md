@@ -55,7 +55,7 @@ The stress is on the syllable, which is before the last consonant.
 3. The stress is on the second last syllable in words that end with a vowel. Ex. dúnia, melódi
 
 > **dúnia sí mimén da sundár planét.**  
-> **mí wól lóga komún báx yáni pandúnia.**  
+> **mí wól lóga komún báxa yáni pandúnia.**  
 
 
 ### Schwa

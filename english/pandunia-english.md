@@ -28,6 +28,7 @@ anus : anus
 ara : saw tool  
 arabi : Arabic  
 aranji : orange (fruit)  
+aranji rang : orange color  
 arhentina : Argentina  
 arte : art  
 asan : posture (asana)  
@@ -37,6 +38,7 @@ aspirin : aspirin
 ataka : attack  
 atom : atom  
 australia : Australia  
+awaka : avocado  
 
 ##b
 
@@ -89,6 +91,7 @@ beranda : veranda (porch)
 beret : beret  
 beri : wolf  
 beton : concrete (material with cement)  
+biblia : Bible  
 bin : vase (pot, bin, jar, jug)  
 bindi : okra (gumbo)  
 bindu : dot (spot)  
@@ -117,17 +120,20 @@ bufon : fool (buffoon)
 buking : booking (reservation)  
 buku : book  
 buku fen : chapter (section)  
+bunduki : gun (handheld firearm)  
 bus : bus  
 buyu : baobab  
 
 ##c 
 
 ca : tea  
+cabi : key  
 caku : knife  
 capa : press (imprint)  
+car : four (4)  
+cata : roof  
 caya : shadow  
 celo : cello  
-ci : life force (chi)  
 ciki : porcelain (china)  
 cile : Chile  
 cili : bell pepper  
@@ -150,6 +156,7 @@ da : own (particle of possession)
 dai : big  
 dama : checkers  
 danke : thanks (thank you)  
+dante : tooth  
 darma : duty (prescribed conduct)  
 dau : way (road)  
 dawa : medicine (drug)  
@@ -165,21 +172,30 @@ des : ten (10)
 dewa : god (deity)  
 dewa kisa : myth (divine story)  
 dewa loji : theology  
+deya : village  
+deya stan : countryside  
 di : of (particle of possession)  
 din : religion (worship)  
 din guru : priest (cleric)  
 ding : nail (spike)  
 diske : disc (disk)  
+dixa : direction  
 do : to (till, until, for)  
 doice : German  
 doktor : doctor (physician, healer)  
 dolar : dollar  
+domino : dominoes  
+dong : east  
+dou : bean or pea (legume)  
+doufu : tofu  
 doxa : fault (sin, blame, defect, guilt)  
 doze : portion (dose)  
 du : two (2)  
 dua : pray  
+duan : short (not long)  
 duga : read  
 duku : grief (sorrow)  
+duman : smoke  
 duna : dune  
 dunia : world  
 dunia baxa : world language  
@@ -193,8 +209,10 @@ eko : environment
 eko loji : ecology  
 energi : energy  
 englix : English  
+eris : Eris (dwarf planet)  
 eritra : Erithrea  
 espanya : Spain  
+esti : Estonia  
 eurasia : Eurasia  
 euro : euro  
 europa : Europe  
@@ -215,6 +233,7 @@ fobi : fear (phobia)
 forum : forum  
 fulan : some (indefinite, indeterminate)  
 funci : function (work)  
+furet : polecat (ferret)  
 futa : fat (grease)  
 futur : future (coming)  
     
@@ -236,11 +255,13 @@ gas : gas
 gau : high  
 gayana : Guyana  
 gazel : gazelle  
+geliza : church  
 gida : steer  
 giga : billion (giga-)  
 gitar : guitar  
 glas : glass  
 go : go  
+gojia : country (land)  
 gol : goal  
 goro : pig  
 goro nyam : pork  
@@ -298,27 +319,37 @@ hormon : hormone
 hotel : hotel  
 hua : flower  
 hua bin : vase (flower pot)  
+hura : cheer (hooray)  
 
 ##i
 
 i : and  
+ici : will (volition, desire)  
+idea : idea  
+igen : opinion (view)  
 indonesia : Indonesia  
+ingai : should (ought)  
+inji : ginger  
 inxala : hope (wish)  
 irak : Iraq  
 iran : Iran  
 isker : left (left hand side)  
 islam : Islam  
 israel : Israel  
+italia : Italy  
 izi : easy  
 
 ##j
 
+jadi : if (suppose, assume)  
 jameika : Jamaica  
 jami : collect (gather, bring together)  
 jan : know  
+janela : window  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
 jawaba : answer (reply, response)  
+jaz : jazz  
 jeba : pocket  
 jele : gel (jelly)  
 jen : birth  
@@ -336,6 +367,7 @@ jowan : young
 jowan fem : girl  
 jowan man : boy  
 judo : judo  
+jus : juice  
 
 ##k
 
@@ -345,12 +377,18 @@ kadi guru : judge (referee)
 kafe : coffee  
 kafe kan : cafe (coffee shop)  
 kafe kopa : coffee cup  
+kafe rang : brown (coffee-colored)  
 kaji : fowl (galliform)  
 kaka : excrement (shit)  
+kaki : persimmon (kaki)  
 kalam : pen  
 kama : desire (lust)  
 kamar : room (chamber)  
 kambudia : Cambodia  
+kamera : camera  
+kamiza : shirt  
+kanada : Canada  
+kanal : channel  
 kandi : candy (sweets)  
 kanguru : cangaroo  
 kanon : gun (cannon)  
@@ -358,23 +396,31 @@ kanun : law
 kapa : cover (covering)  
 karate : karate  
 kari : curry  
+karibu : reindeer (caribou)  
 karite : shea  
 karota : carrot  
 karta : card  
 kata : cut  
 katalunya : Catalonia  
 kawai : cute  
+kaxa : porridge  
+kaza : house  
 ke : what?  
 ke yang : how?  
 keki : cake (cookie)  
+kelele : noise  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
+ki : life force (chi)  
 kia : ask (question)  
+kiguai : odd (strange, weird)  
 kila : wedge  
 kilo : thousand (kilo-)  
+kira : rent (hire, lease)  
 kisa : story (tale)  
 kitaba : writing (text)  
 kitaba kan : library  
+kitaba maxin : typewriter  
 kiwi : kiwi fruit  
 klube : club  
 kode : code (cipher)  
@@ -385,31 +431,62 @@ kona : corner (angle)
 kongo : Congo  
 kopa : cup  
 kopi : copy (replica)  
+korno : horn  
 kosta : shore (coast, beach)  
 krati : rule (reign)  
 krime : crime  
+kube : cube  
 kuki : biscuit (cookie)  
+kupon : coupon  
+kuran : Quran (Koran)  
 kurba : curve (bend)  
+kutu : louse  
 
 ##l
 
+laba : bugle (horn instrument)  
 lai : come  
+lai salam : welcome!  
+laka : lacquer (varnish)  
 lala : lie (lie down)  
+lampa : lamp  
+lanka : Sri Lanka  
+lao : Laos  
+larwa : larva (maggot, caterpillar)  
 latvia : Latvia  
 lelek : stork  
+leng : cold  
+leter : letter (message)  
+lici : lychee (litchi)  
 liga : connect (join, link)  
+lim : five (5)  
+lima : lime  
+lima rang : lime color  
+limun : lemon  
 lista : list (listing)  
 loga : word  
 loga lista : word list  
 loji : science (study, research)  
+loka : place (location)  
+long : long (lengthy)  
+luna : moon  
 
 ##m
 
 ma : mother  
+madyar : Hungary  
+mafan : trouble (disturbance, bother)  
+maidan : square (plaza)  
+mali : Mali  
+mam : breast (boob, tits)  
+mango : mango  
+mangus : mangosteen  
+mani : meaning (signification)  
 mantu : dumpling  
 maraton : marathon  
 marca : walk (march)  
 margarin : margarine  
+marmar : marble  
 masa : mass (dough, lump)  
 maska : mask (camouflage)  
 mau : cat  
@@ -424,6 +501,9 @@ medi : mean (medium, average)
 medu : honey  
 mega : million (mega-)  
 mehiko : Mexico  
+mei : every (each)  
+mei ren : everybody (everyone)  
+mei xe : everything  
 melodi : melody  
 meme : sheep  
 mesi : messiah (Christ)  
@@ -448,6 +528,7 @@ mini : lesser (mini-)
 minim : least (minimally)  
 minus : except (minus)  
 minut : minute  
+misal : example (instance of)  
 miskin : poor (miserable)  
 misri : Egypt  
 moda : fashion (trend)  
@@ -458,35 +539,45 @@ motor : engine (motor)
 muka : face  
 mula : beginning  
 mumia : mummy  
+mungus : mongoose  
 musika : music  
 musika fan : music fan  
+muskul : muscle  
 mustar : mustard  
 mutu : mutual (reciprocal, each other)  
 
 ##n
 
+na : with (by, at, in, on)  
 naba : navel (belly button)  
 nabi : prophecy  
 nafas : breath  
 naija : Nigeria  
 nam : name  
 nama : meat (flesh)  
+nano : nano-  
 nawa : Nahua people  
 nawa baxa : Nahuatl  
+nen : year  
+nen parti : anniversary  
 nepal : Nepal  
 neptun : Neptune  
 net : net  
+nide : need  
 nijer : Niger  
 nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  
 nilon : nylon  
 nipon : Japan  
+nitro : nitrogen  
 no : no (not)  
 noce : night  
 node : knot (node; tie)  
 norge : Norway  
+norma : norm (standard)  
 nota : note (observe, notice)  
 nota buku : notebook  
+nude : naked (bare)  
 numer : number  
 nuton : newton (N)  
 nyam kamar : dining room  
@@ -495,9 +586,12 @@ nyam kamar : dining room
 
 o : oh!  
 oke : okay (acceptable)  
+oksi : oxygen  
 oma : grandmother  
+oman : Oman  
 opa : grandfather  
 oter : other  
+owo : egg  
 
 ##p
 
@@ -515,6 +609,7 @@ pantalon : pants (trousers)
 panyo : friend  
 papaya : papaya  
 paper : paper  
+parti : party (celebration, festival)  
 penguin : penguin  
 penis : penis  
 pensa : think  
@@ -525,20 +620,45 @@ pilipin : Philippines (Filipino)
 pin : needle (pin)  
 piper : pepper  
 pixa : piss (urine)  
+planeta : planet  
+plus : also (plus, too)  
+pluto : Pluto (dwarf planet)  
+poker : poker  
+polau : pilaf (pulao)  
+poli : several  
+pompa : pump  
+porno : porn  
+porno grafi : pornography  
+portugal : Portugal  
+posta : mail  
 poto : mud (mire)  
+pupe : doll (puppet)  
 putau : grape  
 putong : common (universal)  
 putong han : Mandarin Chinese (Putonghua)  
 
 ##r
 
-raja : king or queen  
+rabi : lord (master)  
+ramazan : Ramadan  
 rang : color  
+rase : race (ethnicity)  
+rasma : custom (tradition, practice, ceremony, formality)  
+razon : reason (rational thinking)  
 redi : ready  
+reji : govern (administer)  
 ren : person (people)  
+restoran : restaurant  
 risko : risk  
+ritme : rhythm (beat)  
+roketa : rocket  
+roma : Rome  
+rong : oriental dragon  
 rose : dew  
+roza : rose  
+ruhu : spirit (soul, mind)  
 rupa : appearance (looks)  
+rus : Russian  
 rutin : routine (habit)  
 
 ##s
@@ -563,6 +683,7 @@ senti : feel (emote)
 serbia : Serbia  
 seres : Ceres (dwarf planet)  
 seri : series  
+serpe : snake (serpent)  
 serte : certain (sure)  
 si : yes (yeah)  
 side : sit  
@@ -591,6 +712,7 @@ suxi : sushi
 
 tabako : tobacco  
 tabia : nature (environment)  
+tabu : taboo (sacred)  
 taiga : taiga  
 tanur : oven  
 tanzania : Tanzania  
@@ -651,9 +773,12 @@ wat : watt
 waxi : wash  
 waxi maxin : washing machine  
 wazir : minister (vizier)  
+weba : tail  
 wi : small (little, wee)  
 wide : look (see)  
 wide maidan : visual field (field of vision)  
+wizel : weasel  
+
 
 ##x
 

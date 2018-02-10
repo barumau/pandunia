@@ -36,7 +36,7 @@ The determiners are independent words. Basically it's an open class of words, so
 
 Basic category nouns are:
 
-> **jen** - person  
+> **ren** - person  
 > **xe** - thing  
 > **yang** - kind, type  
 > **lok** - place  
@@ -46,7 +46,7 @@ These determiners and category nouns can be combined into this table of correlat
 
 |             | Question                      | Pointer                       | Indefinite                    | Universal                      | Negative                     |
 |-------------|:-----------------------------:|:-----------------------------:|:----------------------------:|:-------------------------------:|:----------------------------:|
-| Person      | **ke jen**<br>(who)           | **sa jen**<br>(that person)   | **yo jen**<br>(someone)       | **mei jen**<br>(everyone)      | **nul jen**<br>(no-one)      |
+| Person      | **ke ren**<br>(who)           | **sa ren**<br>(that person)   | **yo ren**<br>(someone)       | **mei ren**<br>(everyone)      | **nul ren**<br>(no-one)      |
 | Thing       | **ke xe**<br>(what)           | **sa xe**<br>(that thing)     | **yo xe**<br>(something)      | **mei xe**<br>(everything)     | **nul xe**<br>(nothing)      |
 | Kind        | **ke yang**<br>(what kind of) | **sa yang**<br>(that kind of) | **yo yang**<br>(some kind of) | **mei yang**<br>(all kinds of) | **nul yang**<br>(no kind of) |
 | Place       | **ke lok**<br>(where)         | **sa lok**<br>(there)         | **yo lok**<br>(somewhere)     | **mei lok**<br>(everywhere)    | **nul lok**<br>(nowhere)     |
@@ -77,11 +77,11 @@ The country name can be different than the names of the peoples or ethnic groups
     - **tatar** - Tatar
     - **backor** - Bashkir
 
-The word for inhabitants of the country is country name + **jen** (person).
+The word for inhabitants of the country is country name + **ren** (person).
 
-> **britan jen** - a Brit  
-> **espanya jen** - a Spaniard  
-> **barat jen** - an Indian  
+> **britan ren** - a Brit  
+> **espanya ren** - a Spaniard  
+> **barat ren** - an Indian  
 
 The name of a language is the name of the ethnic group + **bax** (language).
 
@@ -96,7 +96,7 @@ The name of a language is the name of the ethnic group + **bax** (language).
 
 > **darse guru** - teacher (master of learning)  
 > **din guru** - priest (master of religion)  
-> **hakim guru** - judge (master of justice)  
+> **kadi guru** - judge (master of justice)  
 
 **Nik** denotes a person is associated with the thing or quality specified by the base word. Usually the person does the thing for pleasure rather than for business.
 
@@ -113,17 +113,17 @@ The name of a language is the name of the ethnic group + **bax** (language).
 > **kitab kan** - library (scripture place)  
 > **kafe kan** - café (coffee place)  
 
-Also **bet** (house) and **kaban** (booth) can be used
+Also **kaban** (booth) can be used
 
 
 ## Fields of science
 
-Fields of science usually end in **lojia** (study).
+Fields of science usually end in **loji** (study).
 
-> **tekne lojia** - technology (study of techniques)  
-> **fizik lojia** - physics (study of the physical)  
-> **jive lojia** - biology (study of life)  
-> **bumi lojia** - geology (study of the ground)  
-> **dev lojia** - theology (study of the god(s))  
+> **tekne loji** - technology (study of techniques)  
+> **fizik loji** - physics (study of the physical)  
+> **jiwa loji** - biology (study of life)  
+> **bumi loji** - geology (study of the ground)  
+> **dewa loji** - theology (study of the god(s))  
 
 
