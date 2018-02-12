@@ -259,30 +259,6 @@ The demonstrative pronouns work like modifiers.
 > **ke yang?** - How? (What manner?)  
 > **ke koz?** - Why? (What cause?)  
 
---------------------------------------------------------------------------------
-
-## 6. Verbs
-
-#### 6.1. General
-
-A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
-
-Pandunia has two types of verb: verbs that end in **-a** and verbs that end in **-u**. The endings decide the order of the other constituents (subject and object) in the sentence. So the sentence structure depends on the type of the verb.
-
-
-### 6.3. Passive sentences
-
-In passive sentence there is only object and verb but no subject (i.e. agent).
-
-> **mi wide.** - I am seen.  
-> **pan bake.** - Bread is baked.  
-> **kop kaput.** - Cup breaks. (Cup gets broken.)
-
-### 6.4. Verb endings
-
-Most verbs end in **-a** and **-u**. A handful of verbs are without a standard ending.
-
-
 
 
 --------------------------------------------------------------------------------
@@ -305,13 +281,13 @@ Observations are the simplest sentence type. They may consist of only one word, 
 Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
 
 > **mi bon.** - I am good.  
-> **ye nowi.** - It is new.  
+> **ye nowa.** - It is new.  
 > **ye sara.** - She is Sara.  
 
 The word **no** is added to form the negative.
 
 > **mi no bon.** - I'm not good.  
-> **ye no nowi.** - It's not new.  
+> **ye no nowa.** - It's not new.  
 > **ye no sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
@@ -325,7 +301,7 @@ When the subject is a noun, the word **si** (yes) is added before the predicate 
 
 > **sara si bon.** - Sara is good.  
 > **batu si dai.** - The stone is big.  
-> **meza si nowi.** - The table is new.  
+> **meza si nowa.** - The table is new.  
 > **meza no lau.** - The table is not old.
 
 
@@ -334,7 +310,7 @@ When the subject is a noun, the word **si** (yes) is added before the predicate 
 The same rule applies also for two adjectives.
 
 > **jowan si sundar.** - Young is beautiful.  
-> **nowi no lau.** - New is not old.  
+> **nowa no lau.** - New is not old.  
 
 #### 7.2.4. To be
 
@@ -364,17 +340,17 @@ The order can be changed easily to the object–subject–verb word order (OSV).
 
 #### 7.4.1. OV order
 
-In the passive voice there is no agent subject in the sentence. There is only the object and the verb. Normally the passive is expressed with object–verb (VO) word order with the verb ending in **-u**.
+In the passive voice there is no agent subject in the sentence. There is only the object and the verb.
 
 > **tu wide.** - You are seen.  
 > **musika audi.** - Music is heard.  
-> **pan baka.** - Bread is baked.  
+> **pan beka.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
-The agent can be mentioned after the verb with the preposition **da**.
+The agent can be mentioned after the verb with the preposition **di**.
 
-> **tu wide da mi.** - You are seen by me.
+> **tu wide di mi.** - You are seen by me.
 
 
 #### 7.4.2. OV order
@@ -383,7 +359,7 @@ In verb–object (VO) order the focus is on the verb.
 
 > **wide tu.** - Seeing you.  
 > **audi musik.** - Listening music.  
-> **baka pan.** - Baking bread.
+> **beka pan.** - Baking bread.
 
 
 
@@ -454,14 +430,14 @@ Particle **si** is affirmative and **no** is negative. **si** affirms the existe
 Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
 
 > **mi si ren.** - I am a person.  
-> **ye si nowi meza.** - It is a new table.
+> **ye si nowa meza.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
 > **mi no ren.** - I'm not a person.  
-> **ye no nowi meza.** - It's not a new table.
+> **ye no nowa meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -503,12 +479,12 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang di lab** - rose-colored lips  
+> **roza rang di labi** - rose-colored lips  
 > **sama rang di yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **lab da roza rang** - lips of the color of the rose  
+> **labi da roza rang** - lips of the color of the rose  
 > **yen da sama rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses

@@ -760,7 +760,7 @@ urdun : Jordan
 uruguai : Uruguay  
 uze : use (employ, apply)  
 
-##x
+##w
 
 wa : wow! (gee!)  
 wada : promise (commit)  
