@@ -59,6 +59,7 @@ agreement (amen)   : amen
 air   : hawa  
 alcohol   : alkol  
 almond   : badam  
+alone (single, sole)   : mono  
 also (plus, too)   : plus  
 America (continent)   : amerika  
 ampere   : amper  
@@ -71,9 +72,11 @@ answer (reply, response)   : jawaba
 antenna   : antena  
 anus   : anus  
 appearance (looks)   : rupa  
+apple   : pingo  
 Arabic   : arabi  
 area   : stan  
 Argentina   : arhentina  
+argument (thesis)   : tezi  
 art   : arte  
 artificial language (conlang)   : sana baxa  
 Asia   : asia  
@@ -97,6 +100,7 @@ bar (obstruct)   : bara
 bar (pub)   : bar  
 bar (rod, stick)   : baton  
 barbarian   : barbar  
+barrel (can)   : tong  
 base (foundation)   : baze  
 basket   : basket  
 bath   : banya  
@@ -114,6 +118,7 @@ Belarus   : belarus
 Belgium   : belgi  
 Belize   : belize  
 bell pepper   : cili  
+belly (abdomen)   : fubu  
 belt (zone)   : zon  
 beret   : beret  
 Bible   : biblia  
@@ -136,8 +141,10 @@ box (chest)   : sanduk
 boy   : jowan man  
 Brazil   : brazil  
 bread   : pan  
+breakfast   : suba nyam  
 breast (boob, tits)   : mam  
 breath   : nafas  
+bridge   : ponte  
 Britain (UK)   : britan  
 brown (coffee-colored)   : kafe rang  
 brush   : brox  
@@ -189,6 +196,8 @@ chocolate   : cokola
 chocolate bar   : cokola baton  
 church   : geliza  
 city (town)   : siti  
+clean (pure)   : safi  
+clothing   : ifu  
 club   : klube  
 code (cipher)   : kode  
 coffee   : kafe  
@@ -201,8 +210,10 @@ come   : lai
 common (shared)   : komun  
 common (universal)   : putong  
 company (corporation)   : kompani  
+compatriot   : sam gojia ren  
 concrete (material with cement)   : beton  
 condition (requirement)   : xarti  
+cone (fruit of conifer)   : koni  
 Congo   : kongo  
 congratulate (bless)   : barka  
 connect (join, link)   : liga  
@@ -214,6 +225,7 @@ countryside   : deya stan
 coupon   : kupon  
 cover (covering)   : kapa  
 crime   : krime  
+crown   : koron  
 cube   : kube  
 cumin   : zira  
 cup   : kopa  
@@ -282,6 +294,7 @@ evening   : xam
 every (each)   : mei  
 everybody (everyone)   : mei ren  
 everything   : mei xe  
+evidence (proof, testimony)   : praman  
 example (instance of)   : misal  
 except (minus)   : minus  
 exchange (swap, replace)   : badila  
@@ -302,6 +315,7 @@ feel (emote)   : senti
 few (little)   : xau  
 fiend (evil spirit)   : gui  
 fight (war)   : jang  
+filter   : filter  
 find (discover)   : yureka  
 Finland   : suomi  
 five (5)   : lim  
@@ -314,6 +328,7 @@ forest (jungle, woods)   : jangal
 forum   : forum  
 four (4)   : car  
 fowl (galliform)   : kaji  
+France   : franse  
 fresh   : taze  
 friend   : panyo  
 from (since)   : ze  
@@ -346,6 +361,7 @@ god (deity)   : dewa
 good   : bon  
 Good day   : den salam  
 Good evening   : xam salam  
+Good morning   : suba salam  
 gospel   : anjil  
 gourd (pumpkin, cucumber, melon)   : gua  
 govern (administer)   : reji  
@@ -357,6 +373,7 @@ grass   : gras
 grave (tomb)   : gabra  
 graveyard   : gabra stan  
 Greek (Hellenic)   : helen  
+greeting (hello)   : salam  
 grief (sorrow)   : duku  
 guarantee   : garanti  
 Guatemala   : guatemala  
@@ -437,6 +454,7 @@ karate   : karate
 key   : cabi  
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
+king or queen   : koron xefe  
 kiwi fruit   : kiwi  
 knife   : caku  
 knot (node; tie)   : node  
@@ -508,10 +526,12 @@ milli-   : mili
 million (mega-)   : mega  
 minister (vizier)   : wazir  
 minute   : minut  
+monarchy   : mono krati  
 Mongol   : mongol  
 mongoose   : mungus  
 moon   : luna  
 more   : max  
+morning   : suba  
 most (maximally)   : maxim  
 mother   : ma  
 mountain (hill)   : xan  
@@ -568,6 +588,7 @@ okra (gumbo)   : bindi
 olive   : zaitun  
 Oman   : oman  
 one (1)   : un  
+only (just)   : solo  
 opinion (view)   : igen  
 or   : u  
 orange (fruit)   : aranji  
@@ -600,13 +621,20 @@ period (age, epoch)   : zaman
 Persian (Farsi)   : farsi  
 persimmon (kaki)   : kaki  
 person (people)   : ren  
+Peru   : peru  
 Philippines (Filipino)   : pilipin  
+philosophy   : filsofi  
+physics   : fizika  
+piano   : piano  
 pidgin (contact language)   : pijin  
 pie (pastry)   : pai  
 pig   : goro  
 pilaf (pulao)   : polau  
+pine tree   : song  
 piss (urine)   : pixa  
+pizza   : piza  
 place (location)   : loka  
+plain (simple)   : sada  
 planet   : planeta  
 platypus   : batakrot  
 Pluto (dwarf planet)   : pluto  
@@ -623,14 +651,18 @@ pornography   : porno grafi
 porridge   : kaxa  
 portion (dose)   : doze  
 Portugal   : portugal  
+post office   : posta kan  
 posture (asana)   : asan  
 potato   : alu  
+practice (practical)   : prati  
 pray   : dua  
 present (current, existing)   : zai  
 press (imprint)   : capa  
 previous (last)   : yer  
 priest (cleric)   : din guru  
 prime minister   : xefe wazir  
+problem   : problem  
+project (planned endeavour)   : proje  
 promise (commit)   : wada  
 prophecy   : nabi  
 pump   : pompa  
@@ -638,6 +670,7 @@ quote   : cita
 Quran (Koran)   : kuran  
 ##r  
 race (ethnicity)   : rase  
+radio   : radio  
 rage (fury)   : amuk  
 railway (railroad)   : tren dau  
 Ramadan   : ramazan  
@@ -666,8 +699,10 @@ Russian   : rus
 rustle   : xaxa  
 ##s  
 saffron   : zafran  
+salad   : salada  
 same   : sam  
 sand   : sande  
+sauce   : sose  
 sauna   : sauna  
 sausage   : sosis  
 saw tool   : ara  
@@ -693,6 +728,7 @@ should (ought)   : ingai
 show (display, exhibition)   : xou  
 shower   : duxa  
 sick (ill)   : beng  
+Sierra Leone   : salone  
 Singapore   : singapur  
 sit   : side  
 sizzle   : zizi  
@@ -713,6 +749,7 @@ something   : yo xe
 song   : gana  
 sound (audio)   : soni  
 soup   : supa  
+sour   : suan  
 South Korea   : hanguk  
 Spain   : espanya  
 special (distinct)   : has  
@@ -730,16 +767,22 @@ story (tale)   : kisa
 street   : gali  
 subway (metro)   : tunel tren  
 suck   : cupa  
+Sudan   : sudan  
 sugar   : sukar  
+sum (total)   : suma  
+sun   : surya  
 superb (wonderful, super)   : super  
+Suriname   : suriname  
 surname (family name)   : famili nam  
 sushi   : suxi  
 syrup   : xirop  
+system   : sistem  
 ##t  
 table   : meza  
 taboo (sacred)   : tabu  
 taiga   : taiga  
 tail   : weba  
+tale (legend, saga)   : saga  
 Tanzania   : tanzania  
 tape   : tepu  
 tattoo   : tatu  
@@ -781,8 +824,10 @@ tooth   : dante
 top (spinning top)   : tolo  
 topic (subject, theme)   : tema  
 touch   : tocu  
+towel   : taula  
 tower   : minara  
 train   : tren  
+travel (voyage)   : safar  
 tree   : xu  
 trouble (disturbance, bother)   : mafan  
 tube (pipe)   : tube  
@@ -808,6 +853,7 @@ veranda (porch)   : beranda
 village   : deya  
 vinegar   : cuka  
 visual field (field of vision)   : wide maidan  
+voodoo   : wodu  
 ##w  
 walk (march)   : marca  
 wash   : waxi  
@@ -819,7 +865,7 @@ we   : mimen
 weasel   : wizel  
 wedge   : kila  
 welcome!   : lai salam  
-what?   : ke  
+what? (which?)   : ke  
 white   : bai  
 will (volition, desire)   : ici  
 window   : janela  
@@ -831,6 +877,7 @@ word   : loga
 word list   : loga lista  
 world   : dunia  
 world language   : dunia baxa  
+worship (revere)   : puja  
 wow! (gee!)   : wa  
 writing (text)   : kitaba  
 ##x  

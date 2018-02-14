@@ -229,8 +229,13 @@ fantazi : fantasy (imagination)
 fantom : ghost (fantom)  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
+filsofi : philosophy  
+filter : filter  
+fizika : physics  
 fobi : fear (phobia)  
 forum : forum  
+franse : France  
+fubu : belly (abdomen)  
 fulan : some (indefinite, indeterminate)  
 funci : function (work)  
 furet : polecat (ferret)  
@@ -326,6 +331,7 @@ hura : cheer (hooray)
 i : and  
 ici : will (volition, desire)  
 idea : idea  
+ifu : clothing  
 igen : opinion (view)  
 indonesia : Indonesia  
 ingai : should (ought)  
@@ -405,7 +411,7 @@ katalunya : Catalonia
 kawai : cute  
 kaxa : porridge  
 kaza : house  
-ke : what?  
+ke : what? (which?)  
 ke yang : how?  
 keki : cake (cookie)  
 kelele : noise  
@@ -429,9 +435,12 @@ kompani : company (corporation)
 komun : common (shared)  
 kona : corner (angle)  
 kongo : Congo  
+koni : cone (fruit of conifer)  
 kopa : cup  
 kopi : copy (replica)  
 korno : horn  
+koron : crown  
+koron xefe : king or queen  
 kosta : shore (coast, beach)  
 krati : rule (reign)  
 krime : crime  
@@ -534,6 +543,8 @@ misri : Egypt
 moda : fashion (trend)  
 moli : jasmine  
 mongol : Mongol  
+mono : alone (single, sole)  
+mono krati : monarchy  
 mosim : season  
 motor : engine (motor)  
 muka : face  
@@ -613,13 +624,17 @@ parti : party (celebration, festival)
 penguin : penguin  
 penis : penis  
 pensa : think  
+peru : Peru  
+piano : piano  
 pifu : skin  
 pigu : buttocks (butt)  
 pijin : pidgin (contact language)  
 pilipin : Philippines (Filipino)  
 pin : needle (pin)  
+pingo : apple  
 piper : pepper  
 pixa : piss (urine)  
+piza : pizza  
 planeta : planet  
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
@@ -627,11 +642,18 @@ poker : poker
 polau : pilaf (pulao)  
 poli : several  
 pompa : pump  
+ponte : bridge  
 porno : porn  
 porno grafi : pornography  
 portugal : Portugal  
 posta : mail  
+posta kan : post office  
 poto : mud (mire)  
+praman : evidence (proof, testimony)  
+prati : practice (practical)  
+problem : problem  
+proje : project (planned endeavour)  
+puja : worship (revere)  
 pupe : doll (puppet)  
 putau : grape  
 putong : common (universal)  
@@ -640,6 +662,7 @@ putong han : Mandarin Chinese (Putonghua)
 ##r
 
 rabi : lord (master)  
+radio : radio  
 ramazan : Ramadan  
 rang : color  
 rase : race (ethnicity)  
@@ -664,7 +687,15 @@ rutin : routine (habit)
 ##s
 
 sabun : soap  
+sada : plain (simple)  
+safar : travel (voyage)  
+safi : clean (pure)  
+saga : tale (legend, saga)  
+salada : salad  
+salam : greeting (hello)  
+salone : Sierra Leone  
 sam : same  
+sam gojia ren : compatriot  
 sama : sky (heaven)  
 san : three (3)  
 sana : make (produce, manufacture)  
@@ -691,21 +722,33 @@ singa : lion
 singapur : Singapore  
 sismo : earthquake  
 sismo loji : seismology  
+sistem : system  
 siti : city (town)  
 sofa : sofa (couch)  
 sofi : wisdom  
+solo : only (just)  
 sona : sleep  
 sona kamar : bedroom  
+song : pine tree  
 soni : sound (audio)  
+sose : sauce  
 sosis : sausage  
 stan : area  
+suan : sour  
+suba : morning  
+suba nyam : breakfast  
+suba salam : Good morning  
+sudan : Sudan  
 suka : like (enjoy, be fond of)  
 sukar : sugar  
+suma : sum (total)  
 sundar : beautiful (handsome)  
 suomi : Finland  
 supa : soup  
 super : superb (wonderful, super)  
 sura : image (picture)  
+suriname : Suriname  
+surya : sun  
 suxi : sushi  
 
 ##t
@@ -718,6 +761,7 @@ tanur : oven
 tanzania : Tanzania  
 tara : star  
 tatu : tattoo  
+taula : towel  
 tawa : frying pan  
 taze : fresh  
 tekni : technique (technology)  
@@ -730,12 +774,14 @@ tenis : tennis
 teori : theory  
 tepu : tape  
 teste : test (challenge, trial)  
+tezi : argument (thesis)  
 tocu : touch  
 togo : Togo  
 tolo : top (spinning top)  
 tomate : tomato  
 ton : ton (tonne)  
 tone : tone (note, pitch, shade)  
+tong : barrel (can)  
 topi : hat (cap)  
 tren : train  
 tren dau : railway (railroad)  
@@ -778,6 +824,7 @@ wi : small (little, wee)
 wide : look (see)  
 wide maidan : visual field (field of vision)  
 wizel : weasel  
+wodu : voodoo  
 
 
 ##x
