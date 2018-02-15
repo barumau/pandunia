@@ -84,6 +84,8 @@ ask (question)   : kia
 ask (request; please)   : cing  
 aspirin   : aspirin  
 asthma   : asma  
+astronomer   : tara guru  
+astronomy   : tara loji  
 atom   : atom  
 attack   : ataka  
 Australia   : australia  
@@ -186,11 +188,15 @@ chat room   : blabla kamar
 checkers   : dama  
 cheer (hooray)   : hura  
 cheese   : cis  
+chemical   : kimi  
+chemist   : kimi guru  
+chemistry   : kimi loji  
 chess   : xatur  
 chief (boss)   : xefe  
 child (offspring)   : baca  
 Chile   : cile  
 chimpanzee   : cimpanzi  
+China   : jungo  
 chinchilla   : cincila  
 chocolate   : cokola  
 chocolate bar   : cokola baton  
@@ -261,12 +267,14 @@ dominoes   : domino
 donkey (ass)   : gada  
 dot (spot)   : bindu  
 drugstore (pharmacy)   : dawa kan  
+drum   : guma  
 duck   : bata  
 dumpling   : mantu  
 dune   : duna  
 duration   : dura  
 duty (prescribed conduct)   : darma  
 ##e  
+earth (ground, soil)   : bumi  
 earthquake   : sismo  
 east   : dong  
 easy   : izi  
@@ -348,7 +356,9 @@ gasoline (petrol)   : benzin
 gazelle   : gazel  
 gel (jelly)   : jele  
 gender (sex)   : jinsi  
+geography   : bumi grafi  
 German   : doice  
+gesture   : jeste  
 ghost (fantom)   : fantom  
 ginger   : inji  
 ginseng   : jenxen  
@@ -430,6 +440,7 @@ if (suppose, assume)   : jadi
 image (picture)   : sura  
 India   : barti  
 Indonesia   : indonesia  
+injection   : juxa  
 intelligence (understanding)   : budi  
 invite   : cing lai  
 Iran   : iran  
@@ -439,12 +450,14 @@ Israel   : israel
 Italy   : italia  
 ##j  
 jackal   : xakal  
+jacket   : jake  
 Jamaica   : jameika  
 Japan   : nipon  
 jasmine   : moli  
 jazz   : jaz  
 Jesus   : yesu  
 Jordan   : urdun  
+joule (J)   : jul  
 judge (referee)   : kadi guru  
 judgment (sentence)   : kadi  
 judo   : judo  
@@ -467,6 +480,7 @@ language (communication)   : baxa
 Laos   : lao  
 larva (maggot, caterpillar)   : larwa  
 last year   : yer nen  
+latex (india rubber)   : kaucu  
 Latvia   : latvia  
 laugh   : haha  
 law   : kanun  
@@ -511,6 +525,8 @@ marriage (matrimony)   : gami
 mask (camouflage)   : maska  
 mass (dough, lump)   : masa  
 master (sensei)   : xifu  
+mathematician   : mate guru  
+mathematics (math)   : mate  
 Maya   : maya  
 mean (medium, average)   : medi  
 meaning (signification)   : mani  
@@ -624,7 +640,8 @@ person (people)   : ren
 Peru   : peru  
 Philippines (Filipino)   : pilipin  
 philosophy   : filsofi  
-physics   : fizika  
+physicist   : fizi guru  
+physics   : fizi  
 piano   : piano  
 pidgin (contact language)   : pijin  
 pie (pastry)   : pai  
@@ -694,6 +711,7 @@ roof   : cata
 room (chamber)   : kamar  
 rose   : roza  
 routine (habit)   : rutin  
+rubber   : gomi  
 rule (reign)   : krati  
 Russian   : rus  
 rustle   : xaxa  
@@ -711,6 +729,7 @@ science (study, research)   : loji
 season   : mosim  
 seismology   : sismo loji  
 self   : se  
+sentence (phrase)   : jumla  
 Serbia   : serbia  
 series   : seri  
 several   : poli  
@@ -722,6 +741,7 @@ shea   : karite
 sheep   : meme  
 shirt   : kamiza  
 shoe   : sapato  
+Shona   : xona  
 shore (coast, beach)   : kosta  
 short (not long)   : duan  
 should (ought)   : ingai  

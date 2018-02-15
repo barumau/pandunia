@@ -120,6 +120,8 @@ bufon : fool (buffoon)
 buking : booking (reservation)  
 buku : book  
 buku fen : chapter (section)  
+bumi : earth (ground, soil)  
+bumi grafi : geography  
 bunduki : gun (handheld firearm)  
 bus : bus  
 buyu : baobab  
@@ -231,7 +233,8 @@ farsi : Persian (Farsi)
 faru : rhinoceros  
 filsofi : philosophy  
 filter : filter  
-fizika : physics  
+fizi : physics  
+fizi guru : physicist  
 fobi : fear (phobia)  
 forum : forum  
 franse : France  
@@ -268,6 +271,7 @@ glas : glass
 go : go  
 gojia : country (land)  
 gol : goal  
+gomi : rubber  
 goro : pig  
 goro nyam : pork  
 goton : cotton  
@@ -281,6 +285,7 @@ guatemala : Guatemala
 gubu : hippopotamus  
 guha : cave  
 gui : fiend (evil spirit)  
+guma : drum  
 gung fu : kung fu  
 guru : guru (mentor)  
 
@@ -348,6 +353,7 @@ izi : easy
 ##j
 
 jadi : if (suppose, assume)  
+jake : jacket  
 jameika : Jamaica  
 jami : collect (gather, bring together)  
 jan : know  
@@ -362,6 +368,7 @@ jen : birth
 jen den : birthday  
 jentil : kind (nice, gentle)  
 jenxen : ginseng  
+jeste : gesture  
 jia : home (residence)  
 jiju : spider  
 jinsi : gender (sex)  
@@ -373,7 +380,11 @@ jowan : young
 jowan fem : girl  
 jowan man : boy  
 judo : judo  
+jul : joule (J)  
+jumla : sentence (phrase)  
+jungo : China  
 jus : juice  
+juxa : injection  
 
 ##k
 
@@ -408,6 +419,7 @@ karota : carrot
 karta : card  
 kata : cut  
 katalunya : Catalonia  
+kaucu : latex (india rubber)  
 kawai : cute  
 kaxa : porridge  
 kaza : house  
@@ -422,6 +434,9 @@ kia : ask (question)
 kiguai : odd (strange, weird)  
 kila : wedge  
 kilo : thousand (kilo-)  
+kimi : chemical  
+kimi guru : chemist  
+kimi loji : chemistry  
 kira : rent (hire, lease)  
 kisa : story (tale)  
 kitaba : writing (text)  
@@ -498,6 +513,8 @@ margarin : margarine
 marmar : marble  
 masa : mass (dough, lump)  
 maska : mask (camouflage)  
+mate : mathematics (math)  
+mate guru : mathematician  
 mau : cat  
 max : more  
 max ka bas : too much  
@@ -760,6 +777,8 @@ taiga : taiga
 tanur : oven  
 tanzania : Tanzania  
 tara : star  
+tara guru : astronomer  
+tara loji : astronomy  
 tatu : tattoo  
 taula : towel  
 tawa : frying pan  
@@ -854,6 +873,7 @@ xigo : accident (mishap)
 xim : heart  
 xir : poem  
 xirop : syrup  
+xona : Shona  
 xou : show (display, exhibition)  
 xu : tree  
 xuli : repair (fix)  
