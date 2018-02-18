@@ -94,6 +94,7 @@ axis (axle)   : akse
 ##b  
 baby (darling)   : bebe  
 ball   : bola  
+bamboo   : bambu  
 banana   : banana  
 band (bandage)   : banda  
 Bangladesh (Bengal)   : bangla  
@@ -114,6 +115,7 @@ beautiful (handsome)   : sundar
 bed   : bede  
 bedouin (nomadic)   : badawi  
 bedroom   : sona kamar  
+beef   : mumu nyam  
 beer   : bir  
 beginning   : mula  
 Belarus   : belarus  
@@ -127,6 +129,7 @@ Bible   : biblia
 big   : dai  
 billion (giga-)   : giga  
 biology (study of life)   : jiwa loji  
+bird   : ciri  
 birth   : jen  
 birthday   : jen den  
 biscuit (cookie)   : kuki  
@@ -146,6 +149,7 @@ bread   : pan
 breakfast   : suba nyam  
 breast (boob, tits)   : mam  
 breath   : nafas  
+brick   : tuba  
 bridge   : ponte  
 Britain (UK)   : britan  
 brown (coffee-colored)   : kafe rang  
@@ -181,6 +185,7 @@ cave   : guha
 cello   : celo  
 Ceres (dwarf planet)   : seres  
 certain (sure)   : serte  
+chair   : kursi  
 channel   : kanal  
 chapter (section)   : buku fen  
 chat (babble)   : blabla  
@@ -200,14 +205,19 @@ China   : jungo
 chinchilla   : cincila  
 chocolate   : cokola  
 chocolate bar   : cokola baton  
+Christ   : kriste  
+Christmas   : kriste jen  
 church   : geliza  
 city (town)   : siti  
 clean (pure)   : safi  
 clothing   : ifu  
+cloud   : megam  
 club   : klube  
+coat   : kote  
 code (cipher)   : kode  
 coffee   : kafe  
 coffee cup   : kafe kopa  
+cola   : kola  
 cold   : leng  
 collect (gather, bring together)   : jami  
 Colombia   : kolombia  
@@ -230,13 +240,19 @@ country (land)   : gojia
 countryside   : deya stan  
 coupon   : kupon  
 cover (covering)   : kapa  
+cow   : mumu  
+cream   : krema  
 crime   : krime  
+crisis   : krizi  
+cross   : krus  
 crown   : koron  
+Cuba   : kuba  
 cube   : kube  
 cumin   : zira  
 cup   : kopa  
 cupboard (closet, cabinet, wardrobe)   : almari  
 curry   : kari  
+curtain   : parda  
 curve (bend)   : kurba  
 custom (tradition, practice, ceremony, formality)   : rasma  
 cut   : kata  
@@ -260,11 +276,14 @@ dinner   : xam nyam
 direction   : dixa  
 disc (disk)   : diske  
 distant (tele-)   : tele  
+do (make, act)   : kar  
 doctor (physician, healer)   : doktor  
 doll (puppet)   : pupe  
 dollar   : dolar  
+dome (vault)   : kupa  
 dominoes   : domino  
 donkey (ass)   : gada  
+door (gate)   : mun  
 dot (spot)   : bindu  
 drugstore (pharmacy)   : dawa kan  
 drum   : guma  
@@ -408,6 +427,7 @@ hello (hi)   : halo
 help (aid, assistance)   : mede  
 hemp (cannabis)   : ganja  
 hero   : hero  
+hi!   : sal  
 high   : gau  
 Himalayas   : himalia  
 hinge (pivot)   : xarnir  
@@ -440,6 +460,7 @@ if (suppose, assume)   : jadi
 image (picture)   : sura  
 India   : barti  
 Indonesia   : indonesia  
+information   : info  
 injection   : juxa  
 intelligence (understanding)   : budi  
 invite   : cing lai  
@@ -472,6 +493,7 @@ kiwi fruit   : kiwi
 knife   : caku  
 knot (node; tie)   : node  
 know   : jan  
+kola tree   : gora  
 kung fu   : gung fu  
 ##l  
 lacquer (varnish)   : laka  
@@ -495,12 +517,16 @@ library   : kitaba kan
 lie (lie down)   : lala  
 life   : jiwa  
 life force (chi)   : ki  
+like (as, as if, than)   : ka  
 like (enjoy, be fond of)   : suka  
 lime   : lima  
 lime color   : lima rang  
+line (stripe)   : linya  
 linguistics   : baxa loji  
 lion   : singa  
+lip   : labi  
 list (listing)   : lista  
+load (to charge)   : lada  
 long (lengthy)   : long  
 look (see)   : wide  
 lord (master)   : rabi  
@@ -509,9 +535,13 @@ love (affection)   : ama
 lunch   : den nyam  
 lychee (litchi)   : lici  
 ##m  
+Macedonia   : makedonia  
 machine   : maxin  
 mail   : posta  
 make (produce, manufacture)   : sana  
+malaria   : malaria  
+Malaysia   : malaisia  
+male   : man  
 Mali   : mali  
 Mandarin Chinese (Putonghua)   : putong han  
 mandarin orange   : migan  
@@ -527,14 +557,17 @@ mass (dough, lump)   : masa
 master (sensei)   : xifu  
 mathematician   : mate guru  
 mathematics (math)   : mate  
+mattress   : matras  
 Maya   : maya  
 mean (medium, average)   : medi  
 meaning (signification)   : mani  
 meat (flesh)   : nama  
+media   : media  
 medicine (drug)   : dawa  
 melody   : melodi  
 messiah (Christ)   : mesi  
 metal   : metal  
+method (way, manner)   : metode  
 Mexico   : mehiko  
 micro-   : mikro  
 milk   : milke  
@@ -542,12 +575,14 @@ milli-   : mili
 million (mega-)   : mega  
 minister (vizier)   : wazir  
 minute   : minut  
+mole (burrowing animal)   : krot  
 monarchy   : mono krati  
 Mongol   : mongol  
 mongoose   : mungus  
 moon   : luna  
 more   : max  
 morning   : suba  
+mosquito   : moskito  
 most (maximally)   : maxim  
 mother   : ma  
 mountain (hill)   : xan  
@@ -588,6 +623,7 @@ night   : noce
 nitrogen   : nitro  
 no (not)   : no  
 noise   : kelele  
+noodle   : mien  
 norm (standard)   : norma  
 Norway   : norge  
 note (observe, notice)   : nota  
@@ -618,6 +654,8 @@ own (particle of possession)   : da
 oxygen   : oksi  
 ##p  
 pack (package)   : pake  
+Pakistan   : pakistan  
+palm tree   : palma  
 Panama   : panama  
 panda   : panda  
 Pandunia   : pandunia  
@@ -625,8 +663,13 @@ panic   : panik
 pants (trousers)   : pantalon  
 papaya   : papaya  
 paper   : paper  
+Paraguay   : paraguai  
 parrot (parakeet)   : aku  
 party (celebration, festival)   : parti  
+pascal (Pa)   : paskal  
+pass (go by, go past)   : pasa  
+paste   : pasta  
+path (track, trail)   : pata  
 peace (calm)   : xanti  
 pen   : kalam  
 penguin   : penguin  
@@ -672,6 +715,7 @@ post office   : posta kan
 posture (asana)   : asan  
 potato   : alu  
 practice (practical)   : prati  
+practice (to exercise)   : lenxi  
 pray   : dua  
 present (current, existing)   : zai  
 press (imprint)   : capa  
@@ -688,6 +732,7 @@ Quran (Koran)   : kuran
 ##r  
 race (ethnicity)   : rase  
 radio   : radio  
+radish   : lobo  
 rage (fury)   : amuk  
 railway (railroad)   : tren dau  
 Ramadan   : ramazan  
@@ -712,6 +757,7 @@ room (chamber)   : kamar
 rose   : roza  
 routine (habit)   : rutin  
 rubber   : gomi  
+rubbish (trash)   : laji  
 rule (reign)   : krati  
 Russian   : rus  
 rustle   : xaxa  
@@ -795,6 +841,7 @@ superb (wonderful, super)   : super
 Suriname   : suriname  
 surname (family name)   : famili nam  
 sushi   : suxi  
+Swahili   : swahili  
 syrup   : xirop  
 system   : sistem  
 ##t  
@@ -818,7 +865,7 @@ test (challenge, trial)   : teste
 thanks (thank you)   : danke  
 that is (in other words, i.e.)   : yani  
 that which   : jo  
-theft   : curi  
+theft (steal)   : curi  
 theology   : dewa loji  
 theory   : teori  
 they   : yemen  
@@ -830,6 +877,7 @@ thunder (roaring)   : grom
 time (moment)   : wakat  
 to (till, until, for)   : do  
 tobacco   : tabako  
+tobacco pipe   : pipa  
 today   : zai den  
 tofu   : doufu  
 Togo   : togo  
@@ -850,7 +898,7 @@ train   : tren
 travel (voyage)   : safar  
 tree   : xu  
 trouble (disturbance, bother)   : mafan  
-tube (pipe)   : tube  
+tube (pipe)   : tubu  
 tundra   : tundra  
 Tunisia   : tunis  
 tunnel   : tunel  
@@ -867,6 +915,7 @@ use (utility, benefit, gain, advantage)   : faida
 ##v  
 vagina   : yoni  
 valley   : wadi  
+valve (tap, faucet)   : balbu  
 vase (flower pot)   : hua bin  
 vase (pot, bin, jar, jug)   : bin  
 veranda (porch)   : beranda  
@@ -876,6 +925,7 @@ visual field (field of vision)   : wide maidan
 voodoo   : wodu  
 ##w  
 walk (march)   : marca  
+waltz   : walse  
 wash   : waxi  
 washing machine   : waxi maxin  
 water buffalo   : kabau  
@@ -887,6 +937,7 @@ wedge   : kila
 welcome!   : lai salam  
 what? (which?)   : ke  
 white   : bai  
+wide   : kuan  
 will (volition, desire)   : ici  
 window   : janela  
 wisdom   : sofi  

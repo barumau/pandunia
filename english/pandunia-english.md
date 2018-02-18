@@ -49,8 +49,10 @@ badawi : bedouin (nomadic)
 badila : exchange (swap, replace)  
 bai : white  
 bala : force (strength)  
+balbu : valve (tap, faucet)  
 baldi : bucket  
 bama : Myanmar (Burma)  
+bambu : bamboo  
 bana : build (construct)  
 banana : banana  
 banda : band (bandage)  
@@ -143,6 +145,7 @@ cimpanzi : chimpanzee
 cincila : chinchilla  
 cing : ask (request; please)  
 cing lai : invite  
+ciri : bird  
 cis : cheese  
 cita : quote  
 coda : fuck (copulate)  
@@ -150,7 +153,7 @@ cokola : chocolate
 cokola baton : chocolate bar  
 cuka : vinegar  
 cupa : suck  
-curi : theft  
+curi : theft (steal)  
 
 ##d
 
@@ -272,6 +275,7 @@ go : go
 gojia : country (land)  
 gol : goal  
 gomi : rubber  
+gora : kola tree  
 goro : pig  
 goro nyam : pork  
 goton : cotton  
@@ -339,6 +343,7 @@ idea : idea
 ifu : clothing  
 igen : opinion (view)  
 indonesia : Indonesia  
+info : information  
 ingai : should (ought)  
 inji : ginger  
 inxala : hope (wish)  
@@ -388,6 +393,7 @@ juxa : injection
 
 ##k
 
+ka : like (as, as if, than)  
 kabau : water buffalo  
 kadi : judgment (sentence)  
 kadi guru : judge (referee)  
@@ -411,6 +417,7 @@ kanguru : cangaroo
 kanon : gun (cannon)  
 kanun : law  
 kapa : cover (covering)  
+kar : do (make, act)  
 karate : karate  
 kari : curry  
 karibu : reindeer (caribou)  
@@ -445,6 +452,7 @@ kitaba maxin : typewriter
 kiwi : kiwi fruit  
 klube : club  
 kode : code (cipher)  
+kola : cola  
 kolombia : Colombia  
 kompani : company (corporation)  
 komun : common (shared)  
@@ -457,20 +465,34 @@ korno : horn
 koron : crown  
 koron xefe : king or queen  
 kosta : shore (coast, beach)  
+kote : coat  
 krati : rule (reign)  
+krema : cream  
 krime : crime  
+kriste : Christ  
+kriste jen : Christmas  
+krizi : crisis  
+krot : mole (burrowing animal)  
+krus : cross  
+kuan : wide  
+kuba : Cuba  
 kube : cube  
 kuki : biscuit (cookie)  
+kupa : dome (vault)  
 kupon : coupon  
 kuran : Quran (Koran)  
 kurba : curve (bend)  
+kursi : chair  
 kutu : louse  
 
 ##l
 
 laba : bugle (horn instrument)  
+labi : lip  
+lada : load (to charge)  
 lai : come  
 lai salam : welcome!  
+laji : rubbish (trash)  
 laka : lacquer (varnish)  
 lala : lie (lie down)  
 lampa : lamp  
@@ -480,6 +502,7 @@ larwa : larva (maggot, caterpillar)
 latvia : Latvia  
 lelek : stork  
 leng : cold  
+lenxi : practice (to exercise)  
 leter : letter (message)  
 lici : lychee (litchi)  
 liga : connect (join, link)  
@@ -487,7 +510,9 @@ lim : five (5)
 lima : lime  
 lima rang : lime color  
 limun : lemon  
+linya : line (stripe)  
 lista : list (listing)  
+lobo : radish  
 loga : word  
 loga lista : word list  
 loji : science (study, research)  
@@ -501,8 +526,12 @@ ma : mother
 madyar : Hungary  
 mafan : trouble (disturbance, bother)  
 maidan : square (plaza)  
+makedonia : Macedonia  
+malaisia : Malaysia  
+malaria : malaria  
 mali : Mali  
 mam : breast (boob, tits)  
+man : male  
 mango : mango  
 mangus : mangosteen  
 mani : meaning (signification)  
@@ -515,6 +544,7 @@ masa : mass (dough, lump)
 maska : mask (camouflage)  
 mate : mathematics (math)  
 mate guru : mathematician  
+matras : mattress  
 mau : cat  
 max : more  
 max ka bas : too much  
@@ -524,8 +554,10 @@ maya : Maya
 maza : fun (amusement)  
 mede : help (aid, assistance)  
 medi : mean (medium, average)  
+media : media  
 medu : honey  
 mega : million (mega-)  
+megam : cloud  
 mehiko : Mexico  
 mei : every (each)  
 mei ren : everybody (everyone)  
@@ -534,10 +566,12 @@ melodi : melody
 meme : sheep  
 mesi : messiah (Christ)  
 metal : metal  
+metode : method (way, manner)  
 meza : table  
 mi : I (me)  
 mi di : my  
 micin : MSG (monosodium glutamate)  
+mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
 mili : milli-  
@@ -563,10 +597,14 @@ mongol : Mongol
 mono : alone (single, sole)  
 mono krati : monarchy  
 mosim : season  
+moskito : mosquito  
 motor : engine (motor)  
 muka : face  
 mula : beginning  
 mumia : mummy  
+mumu : cow  
+mumu nyam : beef  
+mun : door (gate)  
 mungus : mongoose  
 musika : music  
 musika fan : music fan  
@@ -626,7 +664,9 @@ owo : egg
 pa : father  
 pai : pie (pastry)  
 pake : pack (package)  
+pakistan : Pakistan  
 pal : fruit (result, outcome)  
+palma : palm tree  
 pan : bread  
 panama : Panama  
 panda : panda  
@@ -637,7 +677,13 @@ pantalon : pants (trousers)
 panyo : friend  
 papaya : papaya  
 paper : paper  
+paraguai : Paraguay  
+parda : curtain  
 parti : party (celebration, festival)  
+pasa : pass (go by, go past)  
+paskal : pascal (Pa)  
+pasta : paste  
+pata : path (track, trail)  
 penguin : penguin  
 penis : penis  
 pensa : think  
@@ -649,6 +695,7 @@ pijin : pidgin (contact language)
 pilipin : Philippines (Filipino)  
 pin : needle (pin)  
 pingo : apple  
+pipa : tobacco pipe  
 piper : pepper  
 pixa : piss (urine)  
 piza : pizza  
@@ -708,6 +755,7 @@ sada : plain (simple)
 safar : travel (voyage)  
 safi : clean (pure)  
 saga : tale (legend, saga)  
+sal : hi!  
 salada : salad  
 salam : greeting (hello)  
 salone : Sierra Leone  
@@ -767,6 +815,7 @@ sura : image (picture)
 suriname : Suriname  
 surya : sun  
 suxi : sushi  
+swahili : Swahili  
 
 ##t
 
@@ -805,7 +854,8 @@ topi : hat (cap)
 tren : train  
 tren dau : railway (railroad)  
 tu : you  
-tube : tube (pipe)  
+tuba : brick  
+tubu : tube (pipe)  
 tufan : storm (tempest)  
 tul : tool  
 tumen : you all  
@@ -834,6 +884,7 @@ waha : oasis
 wai : outside (exterior)  
 wai gojia : foreign country  
 wakat : time (moment)  
+walse : waltz  
 wat : watt  
 waxi : wash  
 waxi maxin : washing machine  
