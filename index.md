@@ -6,7 +6,7 @@
 
 ![](http://pandunia.info/kuvat/gb.png) ![](http://pandunia.info/kuvat/us.png) [Learn about Pandunia in English](english/index.md)
 
-![](http://pandunia.info/kuvat/cn.png) [学 磅杜尼亚（世界语）](zhongwen/index.md)
+![](http://pandunia.info/kuvat/cn.png) [学 泛世界语](zhongwen/index.md)
 
 ![](http://pandunia.info/kuvat/es.png) [Aprende Pandunia en Español](espanya/index.md)
 
