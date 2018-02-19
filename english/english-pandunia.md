@@ -60,6 +60,7 @@ air   : hawa
 alcohol   : alkol  
 almond   : badam  
 alone (single, sole)   : mono  
+already (-ed)   : le  
 also (plus, too)   : plus  
 America (continent)   : amerika  
 ampere   : amper  
@@ -109,6 +110,7 @@ basket   : basket
 bath   : banya  
 bathroom   : banya kamar  
 battery   : bateri  
+be   : e  
 bean or pea (legume)   : dou  
 bear   : baru  
 beautiful (handsome)   : sundar  
@@ -333,6 +335,7 @@ factory   : sana kan
 family   : famili  
 fan (admirer)   : fan  
 fantasy (imagination)   : fantazi  
+farewell   : go salam  
 fashion (trend)   : moda  
 fat (grease)   : futa  
 father   : pa  

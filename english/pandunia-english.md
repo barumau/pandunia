@@ -209,6 +209,7 @@ duxa : shower
 
 ##e
 
+e : be  
 eho : echo  
 eko : environment  
 eko loji : ecology  
@@ -272,6 +273,7 @@ giga : billion (giga-)
 gitar : guitar  
 glas : glass  
 go : go  
+go salam : farewell  
 gojia : country (land)  
 gol : goal  
 gomi : rubber  
@@ -500,6 +502,7 @@ lanka : Sri Lanka
 lao : Laos  
 larwa : larva (maggot, caterpillar)  
 latvia : Latvia  
+le : already (-ed)  
 lelek : stork  
 leng : cold  
 lenxi : practice (to exercise)  
