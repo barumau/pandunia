@@ -157,7 +157,7 @@ curi : theft (steal)
 
 ##d
 
-da : own (particle of possession)  
+da : give  
 dai : big  
 dama : checkers  
 danke : thanks (thank you)  
@@ -166,6 +166,7 @@ darma : duty (prescribed conduct)
 dau : way (road)  
 dawa : medicine (drug)  
 dawa kan : drugstore (pharmacy)  
+de : of (particle of possession)  
 demo : people (society)  
 demo grafi : demography  
 demo krati : democracy  
@@ -179,7 +180,6 @@ dewa kisa : myth (divine story)
 dewa loji : theology  
 deya : village  
 deya stan : countryside  
-di : of (particle of possession)  
 din : religion (worship)  
 din guru : priest (cleric)  
 ding : nail (spike)  
@@ -802,6 +802,7 @@ soni : sound (audio)
 sose : sauce  
 sosis : sausage  
 stan : area  
+su : own (particle of possession)  
 suan : sour  
 suba : morning  
 suba nyam : breakfast  

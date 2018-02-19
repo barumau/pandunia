@@ -348,9 +348,9 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
-The agent can be mentioned after the verb with the preposition **di**.
+The agent can be mentioned after the verb with the preposition **de**.
 
-> **tu wide di mi.** - You are seen by me.
+> **tu wide de mi.** - You are seen by me.
 
 
 #### 7.4.2. OV order
@@ -455,23 +455,23 @@ The particles **si** and **no** are used also for answering questions.
 
 ### Modifier particles
 
-Particles **di** and **da** are used to mark possession and modification. **di** connects the modifying word or phrase to the modified word. **da** works in the opposite direction. It connects the modified word to the modifier.
+Particles **su** and **de** are used to mark possession and modification. **su** connects the modifying word or phrase to the modified word. **de** works in the opposite direction. It connects the modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **di** works like apostrophe-s ('s) in English.
+With regards to possession, **su** works like apostrophe-s ('s) in English.
 
-> **maria di mama** - Maria's mother  
-> **mi di dom** - my house  
-> **mi di papa di dom** - my father's house
+> **maria su mama** - Maria's mother  
+> **mi su kaza** - my house  
+> **mi su papa su kaza** - my father's house
 
-**da** works like "of" in English.
+**de** works like "of" in English.
 
-> **mama da maria** - the mother of Maria
-> **dom da mi** - the house of mine  
-> **dom da papa da mi** - the house of the father of mine
+> **mama de maria** - the mother of Maria
+> **kaza de mi** - the house of mine  
+> **kaza de papa de mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -479,29 +479,29 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang di labi** - rose-colored lips  
-> **sama rang di yen** - sky-colored eyes
+> **roza rang su labi** - rose-colored lips  
+> **sama rang su yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **labi da roza rang** - lips of the color of the rose  
-> **yen da sama rang** - eyes of the color of the sky
+> **labi de roza rang** - lips of the color of the rose  
+> **yen de sama rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **da** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
+Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
 
-> **ye si man _da mi wide_.** - He is the man _that I saw_.
+> **ye si man _de mi wide_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wide man _da nyam pingo_.** - I see a man _who eats apples_.  
+> **mi wide man _de nyam pingo_.** - I see a man _who eats apples_.  
 
-It's possible to construct relative clauses with **di** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **di** immediately after the verb.
+It's possible to construct relative clauses with **su** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **su** immediately after the verb.
 
-> **mi wide _pingo nyam di_ man.** - I see an _apple-eating_ man.
+> **mi wide _pingo nyam su_ man.** - I see an _apple-eating_ man.
 
 
 
@@ -601,7 +601,7 @@ Many of these expressions are very useful.
 **na dura** - during  
 **na tema** - about (a topic)  
 
-**na pice da** - at the back of  
+**na pice de** - at the back of  
 **na pice** - behind  
 
 **ye lai na pice mi.** - He comes behind me.  
@@ -617,14 +617,14 @@ Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 More precise expressions of place and time are expressed with _a preposition + a place word + **du**_.
 
-> **na dur da** - for the time/duration of  
-> **mi deng na dur da tu son.** - I wait for the time when you sleep.  
-> **na lok da** - at the place of  
-> **mi deng na loka da tu go.** - I wait at the place where you left.  
-> **na xia da** - under, below  
-> **un waf lala na xia da meza.** - A dog lies under the table.  
-> **na fas da** - on the surface of  
-> **un mau lala na fas da meza.** - A cat lies on the table.
+> **na dura de** - for the time/duration of  
+> **mi deng na dura de tu son.** - I wait for the time when you sleep.  
+> **na loka de** - at the place of  
+> **mi deng na loka de tu go.** - I wait at the place where you left.  
+> **na xia de** - under, below  
+> **un waf lala na xia de meza.** - A dog lies under the table.  
+> **na fas de** - on the surface of  
+> **un mau lala na fas de meza.** - A cat lies on the table.
 
 Similar meaning can be expressed also with compound words.
 
@@ -689,7 +689,7 @@ Adjectives and numerals point to their head word, the noun.
 The hierarchy of word types in Pandunia from the more to the less central is as follows.
 
 1. Conjunctions: i, u, a
-2. Connectors: di, da
+2. Connectors: su, de
 3. Prepositions: na, be, do, ze
 4. Verbs
 5. Nouns and pronouns

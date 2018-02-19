@@ -386,6 +386,7 @@ ginger   : inji
 ginseng   : jenxen  
 giraffe   : jirafa  
 girl   : jowan fem  
+give   : da  
 glass   : glas  
 go   : go  
 goal   : gol  
@@ -636,7 +637,7 @@ nylon   : nilon
 ##o  
 oasis   : waha  
 odd (strange, weird)   : kiguai  
-of (particle of possession)   : di  
+of (particle of possession)   : de  
 oh!   : o  
 okay (acceptable)   : oke  
 okra (gumbo)   : bindi  
@@ -653,7 +654,7 @@ other   : oter
 ouch! (alas!)   : ai  
 outside (exterior)   : wai  
 oven   : tanur  
-own (particle of possession)   : da  
+own (particle of possession)   : su  
 oxygen   : oksi  
 ##p  
 pack (package)   : pake  

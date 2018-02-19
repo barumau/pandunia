@@ -122,27 +122,27 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### si <small>yes</small>
+### ya <small>yes</small>
 
 **kia tu tomas?** Are you Thomas.
 
-**si, mi tomas.** Yes, I am Thomas.
+**ya, mi tomas.** Yes, I am Thomas.
 
 **kia ye doktor?** Is he/she a doctor?
 
-**si, ye si doktor.** Yes, he is a doctor.
+**ya, ye doktor.** Yes, he is a doctor.
 
-The word **si** can be used for stating something as a fact. Then it is put in the same place where "to be" is put in English.
+The word **ya** can be used for stating something as a fact. Then it is put in the same place where "to be" is put in English.
 
-**mi si tomas.** I am Thomas.
+**mi ya tomas.** I am Thomas.
 
-**tu si sara.** You are Sara.
+**tu ya sara.** You are Sara.
 
-**pingo si pala.** The apple is a fruit.
+**pingo ya pala.** The apple is a fruit.
 
-Note: Using **si** is particularly useful in the last phrase, because without it the phrase could sound like a compound word: **pingo-pala** (an apple fruit).
+Note: Using **ya** is particularly useful in the last phrase, because without it the phrase could sound like a compound word: **pingo-pala** (an apple fruit).
 
-<small>Etymology. **si** is from Spanish: sí, Italian: sì, Portuguese: sim, Mandarin: 是 "shì", Wu Chinese: 是 "sí".</small>
+<small>Etymology. **ya** is from Indonesian: ya, German: ja, English: yeah.</small>
 
 
 
@@ -153,7 +153,7 @@ Note: Using **si** is particularly useful in the last phrase, because without it
 **mi no doktor.** I'm not a doctor.
 
 **kia tu bon?** Are you well?  
-**si. mi bon.** Yes, I'm well.
+**ya. mi bon.** Yes, I'm well.
 
 **kia tu bon.** Are you well?  
 **no, mi no bon.** No, I'm not well.
@@ -176,11 +176,11 @@ Add **men** to a singular pronoun to make it plural.
 
 **yemen salam mimen!** They greet us.
 
-**mimen si fem.** We are women.
+**mimen ya fem.** We are women.
 
-**tumen si man.** You are men.
+**tumen ya man.** You are men.
 
-**yemen si pingo.** They are apples.
+**yemen ya pingo.** They are apples.
 
 <small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in general).</small>
 
@@ -190,15 +190,15 @@ Add **men** to a singular pronoun to make it plural.
 
 **ke?** What?
 
-**tu si ke?** Who are you?  
-**mi si tomas.** I'm Thomas.
+**tu e ke?** Who are you?  
+**mi e tomas.** I'm Thomas.
 
-**ye si ke?** Who is he/she?  
-**ye si sara.** She is Sara.
+**ye e ke?** Who is he/she?  
+**ye e sara.** She is Sara.
 
-**tumen si ke?** Who are you people?
+**tumen e ke?** Who are you people?
 
-**yemen si ke?** Who are they?
+**yemen e ke?** Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che, Bengali: কী "ki".</small>
 
@@ -206,11 +206,11 @@ Add **men** to a singular pronoun to make it plural.
 
 ### sa <small>this, that</small>
 
-**sa si ke? / ke si sa?** What's this?
+**sa e ke? / ke e sa?** What's this?
 
-**sa si pingo.** This is an apple.
+**sa e pingo.** This is an apple.
 
-**sa si ros pingo.** This is a red apple.
+**sa e ros pingo.** This is a red apple.
 
 **sa pingo ros.** This apple is red.
 
@@ -220,33 +220,33 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 
 
-### da <small>'s (possessive particle)</small>
+### su <small>'s (possessive particle)</small>
 
 **sa ke?** What's this?
 
-**sa mi da fon.** It's my phone.
+**sa mi su fon.** It's my phone.
 
-**sa ke da?** Whose is this?
+**sa ke su?** Whose is this?
 
-**sa mi da.** It's mine.
+**sa mi su.** It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
+Note: Possessive particle **su** is put between the owner and the owned thing. So **mi su** means "my", **tu su** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
-**ye si mi da panyo.** He/she is my friend.
+**ye e mi su panyo.** He/she is my friend.
 
-**mi si sara da panyo.** I am Sara's friend.
+**mi e sara su panyo.** I am Sara's friend.
 
-<small>Etymology. **da** is from Mandarin: 的 /də/.</small>
+<small>Etymology. **su** is from English: 's, Afrikaans: se, Spanish: su, Portuguese su.</small>
 
 
 
 ### nam <small>name</small>
 
-**tu da nam si ke?** What's your name?
+**tu su nam e ke?** What's your name?
 
-**mi da nam si tomas.** My name is Thomas.
+**mi su nam e tomas.** My name is Thomas.
 
 **ye nam ke?** What he/she is called?
 
@@ -435,7 +435,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken englix.** I don't speak English.
 
-**mafu. mi no ken tu da baxa.** Sorry, I don't speak your language.
+**mafu. mi no ken tu su baxa.** Sorry, I don't speak your language.
 
 
 
@@ -449,7 +449,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
-**"cat" si ke na pandunia?** What is "cat" in Pandunia?
+**"cat" e ke na pandunia?** What is "cat" in Pandunia?
 
 **mau loga miau.** Cat says meow.
 
@@ -462,7 +462,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi audi musika.** I listen to music.
 
-**tu audi ke yang da musika?** What kind of music do you listen to?
+**tu audi ke yang su musika?** What kind of music do you listen to?
 
 
 ### wide <small>to see</small>
@@ -482,14 +482,14 @@ Tip: To make direct requests, drop all the pronouns.
 
 **"mau" mani ke?** What does "mau" mean?
 
-**ye mani hewan da yang.** It means a kind of animal.
+**ye mani hewan su yang.** It means a kind of animal.
 
 **mi no aha ye mani ke.** I don't understand what it means.
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu da adres.** Please, write your address.
+**cing kitaba tu su adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
 
@@ -588,10 +588,24 @@ Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **ji
 **mi deng tu na hotel.** I wait for you in the hotel.
 
 
-<!--
 
 ## Part 5. Doing business
 
+
+### da <small>give</small>
+
+**cing da pesa.** Please give some money.
+
+**cing da ye do mi.** Please give it to me.
+
+**mi da sa do tu.** I give this to you.
+
+**mi da buku do yemen.** I give a book to them.
+
+**ye no wol da ye do mi.** He/she doesn't want to give it to me.
+
+
+<!--
 
 ### kap <small>take, get</small>
 
@@ -602,25 +616,11 @@ Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **ji
 **tu ja kap pesa ze mi.** You already got money from me.
 
 
-### dar <small>give</small>
-
-**cing dar pesa.** Please give some money.
-
-**cing dar ye do mi.** Please give it to me.
-
-**mi dar sa do tu.** I give this to you.
-
-**mi dar buk do yemen.** I give a book to them.
-
-**ye no wol dar ye do mi.** He/she doesn't want to give it to me.
-
-
-
 ### mai <small>commerce</small>
 
-Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai kap** means _to buy_.
+Tip: Buying and selling a compound words: **mai da** means _to sell_ and **mai kap** means _to buy_.
 
-**yemen mai dar tot.** They sell everything.
+**yemen mai da tot.** They sell everything.
 
 **mi kap un bir.** I will take a beer.
 
@@ -631,20 +631,20 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar do biznes ren.** He/she rents rooms to business people.
+**ye kira da kamar do biznes ren.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 
 ### yang <small>type, kind, sort</small>
 
-**ye si ke yang?** What is it like?
+**ye e ke yang?** What is it like?
 
 **kia ye nowi?** Is it new?
 
-**ke si mas bon?** Which is better?
+**ke e mas bon?** Which is better?
 
-**sa si maxim bon (ze tot).** This is the best (of all).
+**sa e maxim bon (ze tot).** This is the best (of all).
 
 
 
@@ -673,7 +673,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **** Don't worry! (Hakuna matata!)
 
-**tot si okei.** Everything is alright.
+**tot e okei.** Everything is alright.
 
 **** Cheers!
 
@@ -692,7 +692,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **** With pleasure!
 
-**festa si kaici na ke sat?** When does the party begin?
+**parti kaixi na ke sat?** When does the party begin?
 
 
 **** You are right.
@@ -713,8 +713,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **bai** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
-**bax** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
-**baxa** speak, communicate  
+**baxa** language; communicate <small>(Hindi _bhāśā_ भाषा)</small>  
 **blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
@@ -722,6 +721,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **den** day <small>(Russian _den'_ день)</small>  
 **do** to, until <small>(Russian _do_ до)</small>  
 **go** to go <small>(English _go_)</small>  
+**e** to be <small>(Portuguese _é_)</small>  
 **englix** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
@@ -758,7 +758,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **sa** this; that <small>(Haitian Creole _sa_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
-**si** yes <small>(Spanish _sí_)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tu** you <small>(Tamil _nī_ நீ)</small>  
 **tumen** you all  
@@ -767,6 +766,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **wide** see, look <small>(Russian _videt'_ видеть)</small>  
 **wol** want <small>(Italian _volere_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
+**ya** yes <small>(Indonesian _ya_)</small>  
 **ye** he, she, it <small>(Lingala _yé_)</small>  
 **yemen** they  
 **ze** from, since <small>(Czech _z, ze_)</small>  

@@ -177,16 +177,16 @@ The plural pronouns follow the pattern of Standard Chinese.
 
 Note: The third person pronoun **ye** refers to both male and female persons as well as inanimate objects – just like the source words in Hindi-Urdu and Bantu languages.
 
-Possessive pronouns are formed by adding particle **da** after the pronoun.
+Possessive pronouns are formed by adding particle **su** after the pronoun.
 
 | English | Pandunia | Chinese |
 |---------|----------|---------|
-| my      | mi da    | wǒ de   |
-| your    | tu da    | nǐ de   |
-| his/her | ye da    | tā de   |
-| our     | mimen da | wǒmen de|
-| your    | tumen da | nǐmen de|
-| their   | yemen da | tāmen de|
+| my      | mi su    | wǒ de   |
+| your    | tu su    | nǐ de   |
+| his/her | ye su    | tā de   |
+| our     | mimen su | wǒmen de|
+| your    | tumen su | nǐmen de|
+| their   | yemen su | tāmen de|
 
 
 ## Easy sentences
@@ -215,14 +215,14 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
     Pandunia:  mi cing ye nyam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **e**, is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ye si pingo.
+    Pandunia:  ye e pingo.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemen si pingo.
+    Pandunia:  yemen e pingo.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 
