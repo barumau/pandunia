@@ -74,6 +74,7 @@ antenna   : antena
 anus   : anus  
 appearance (looks)   : rupa  
 apple   : pingo  
+April   : mes 4 (mes car)  
 Arabic   : arabi  
 area   : stan  
 Argentina   : arhentina  
@@ -89,6 +90,7 @@ astronomer   : tara guru
 astronomy   : tara loji  
 atom   : atom  
 attack   : ataka  
+August   : mes 8 (mes ba)  
 Australia   : australia  
 avocado   : awaka  
 axis (axle)   : akse  
@@ -264,6 +266,7 @@ danger (peril)   : hatar
 day (daytime)   : den  
 day after tomorrow   : ming ming den  
 day before yesterday   : yer yer den  
+December   : mes 12 (mes des du)  
 democracy   : demo krati  
 demography   : demo grafi  
 demon   : demon  
@@ -304,6 +307,7 @@ ecology   : eko loji
 egg   : owo  
 eggplant (aubergine, brinjal)   : bedinjan  
 Egypt   : misri  
+eight (8)   : ba  
 elephant   : gaja  
 energy   : energi  
 engine (motor)   : motor  
@@ -341,6 +345,7 @@ fat (grease)   : futa
 father   : pa  
 fault (sin, blame, defect, guilt)   : doxa  
 fear (phobia)   : fobi  
+February   : mes 2 (mes du)  
 feel (emote)   : senti  
 few (little)   : xau  
 fiend (evil spirit)   : gui  
@@ -477,6 +482,7 @@ Italy   : italia
 jackal   : xakal  
 jacket   : jake  
 Jamaica   : jameika  
+January   : mes 1 (mes un)  
 Japan   : nipon  
 jasmine   : moli  
 jazz   : jaz  
@@ -487,6 +493,8 @@ judge (referee)   : kadi guru
 judgment (sentence)   : kadi  
 judo   : judo  
 juice   : jus  
+July   : mes 7 (mes ci)  
+June   : mes 6 (mes sis)  
 ##k  
 karate   : karate  
 key   : cabi  
@@ -553,6 +561,7 @@ mango   : mango
 mangosteen   : mangus  
 marathon   : maraton  
 marble   : marmar  
+March   : mes 3 (mes sam)  
 margarine   : margarin  
 market (bazaar)   : bazar  
 marriage (matrimony)   : gami  
@@ -562,6 +571,7 @@ master (sensei)   : xifu
 mathematician   : mate guru  
 mathematics (math)   : mate  
 mattress   : matras  
+May   : mes 5 (mes lim)  
 Maya   : maya  
 mean (medium, average)   : medi  
 meaning (signification)   : mani  
@@ -579,10 +589,12 @@ milli-   : mili
 million (mega-)   : mega  
 minister (vizier)   : wazir  
 minute   : minut  
+mirror   : mira  
 mole (burrowing animal)   : krot  
 monarchy   : mono krati  
 Mongol   : mongol  
 mongoose   : mungus  
+month   : mes  
 moon   : luna  
 more   : max  
 morning   : suba  
@@ -632,10 +644,12 @@ norm (standard)   : norma
 Norway   : norge  
 note (observe, notice)   : nota  
 notebook   : nota buku  
+November   : mes 11 (mes des un)  
 number   : numer  
 nylon   : nilon  
 ##o  
 oasis   : waha  
+October   : mes 10 (mes des)  
 odd (strange, weird)   : kiguai  
 of (particle of possession)   : de  
 oh!   : o  
@@ -780,8 +794,10 @@ season   : mosim
 seismology   : sismo loji  
 self   : se  
 sentence (phrase)   : jumla  
+September   : mes 9 (mes noi)  
 Serbia   : serbia  
 series   : seri  
+seven (7)   : ci  
 several   : poli  
 sex (sexual intercourse)   : sekse  
 shadow   : caya  

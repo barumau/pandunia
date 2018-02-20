@@ -42,6 +42,7 @@ awaka : avocado
 
 ##b
 
+ba : eight (8)  
 baca : child (offspring)  
 badam : almond  
 badan : body  
@@ -138,6 +139,7 @@ car : four (4)
 cata : roof  
 caya : shadow  
 celo : cello  
+ci : seven (7)  
 ciki : porcelain (china)  
 cile : Chile  
 cili : bell pepper  
@@ -567,6 +569,19 @@ mei ren : everybody (everyone)
 mei xe : everything  
 melodi : melody  
 meme : sheep  
+mes : month  
+mes 1 (mes un) : January  
+mes 2 (mes du) : February  
+mes 3 (mes sam) : March  
+mes 4 (mes car) : April  
+mes 5 (mes lim) : May  
+mes 6 (mes sis) : June  
+mes 7 (mes ci) : July  
+mes 8 (mes ba) : August  
+mes 9 (mes noi) : September  
+mes 10 (mes des) : October  
+mes 11 (mes des un) : November  
+mes 12 (mes des du) : December  
 mesi : messiah (Christ)  
 metal : metal  
 metode : method (way, manner)  
@@ -591,6 +606,7 @@ mini : lesser (mini-)
 minim : least (minimally)  
 minus : except (minus)  
 minut : minute  
+mira : mirror  
 misal : example (instance of)  
 miskin : poor (miserable)  
 misri : Egypt  

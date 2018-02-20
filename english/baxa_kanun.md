@@ -174,12 +174,12 @@ The basic number words are:
 - 0 **nul**
 - 1 **un**
 - 2 **du**
-- 3 **sam**
+- 3 **san**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
-- 7 **set**
-- 8 **bat**
+- 7 **ci**
+- 8 **ba**
 - 9 **noi**
 
 Greater numbers are simply made by putting one digit after another – exactly like they are written in the universal numerical language of mathematics.
@@ -187,7 +187,7 @@ Greater numbers are simply made by putting one digit after another – exactly l
 - 10 **un nul** or **des**
 - 11 **un un**
 - 12 **un du**
-- 13 **un sam**
+- 13 **un san**
 - 20 **du nul**
 - 21 **du un**
 - 22 **du du**
