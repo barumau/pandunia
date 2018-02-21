@@ -48,6 +48,7 @@
       
       
       
+24 hours ("day")   : dia  
 ##a  
 accident (mishap)   : xigo  
 address   : adres  
@@ -266,6 +267,7 @@ danger (peril)   : hatar
 day (daytime)   : den  
 day after tomorrow   : ming ming den  
 day before yesterday   : yer yer den  
+day of the week   : war  
 December   : mes 12 (mes des du)  
 democracy   : demo krati  
 demography   : demo grafi  
@@ -365,6 +367,7 @@ four (4)   : car
 fowl (galliform)   : kaji  
 France   : franse  
 fresh   : taze  
+Friday   : war 5 (war lim)  
 friend   : panyo  
 from (since)   : ze  
 frost   : hima rose  
@@ -592,6 +595,7 @@ minute   : minut
 mirror   : mira  
 mole (burrowing animal)   : krot  
 monarchy   : mono krati  
+Monday   : war 1 (war un)  
 Mongol   : mongol  
 mongoose   : mungus  
 month   : mes  
@@ -753,7 +757,7 @@ radio   : radio
 radish   : lobo  
 rage (fury)   : amuk  
 railway (railroad)   : tren dau  
-Ramadan   : ramazan  
+Ramadan   : islam mes 9  
 read   : duga  
 ready   : redi  
 reason (rational thinking)   : akil  
@@ -784,6 +788,7 @@ saffron   : zafran
 salad   : salada  
 same   : sam  
 sand   : sande  
+Saturday   : war 6 (war sis)  
 sauce   : sose  
 sauna   : sauna  
 sausage   : sosis  
@@ -857,6 +862,7 @@ Sudan   : sudan
 sugar   : sukar  
 sum (total)   : suma  
 sun   : surya  
+Sunday   : war 7 (war ci)  
 superb (wonderful, super)   : super  
 Suriname   : suriname  
 surname (family name)   : famili nam  
@@ -894,6 +900,7 @@ think   : pensa
 thousand (kilo-)   : kilo  
 three (3)   : san  
 thunder (roaring)   : grom  
+Thursday   : war 4 (war car)  
 time (moment)   : wakat  
 to (till, until, for)   : do  
 tobacco   : tabako  
@@ -919,6 +926,7 @@ travel (voyage)   : safar
 tree   : xu  
 trouble (disturbance, bother)   : mafan  
 tube (pipe)   : tubu  
+Tuesday   : war 2 (war du)  
 tundra   : tundra  
 Tunisia   : tunis  
 tunnel   : tunel  
@@ -954,6 +962,8 @@ way (road)   : dau
 we   : mimen  
 weasel   : wizel  
 wedge   : kila  
+Wednesday   : war 3 (war sam)  
+week   : ci war  
 welcome!   : lai salam  
 what? (which?)   : ke  
 white   : bai  

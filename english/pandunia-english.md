@@ -140,6 +140,7 @@ cata : roof
 caya : shadow  
 celo : cello  
 ci : seven (7)  
+ci war : week  
 ciki : porcelain (china)  
 cile : Chile  
 cili : bell pepper  
@@ -182,6 +183,7 @@ dewa kisa : myth (divine story)
 dewa loji : theology  
 deya : village  
 deya stan : countryside  
+dia : 24 hours ("day")  
 din : religion (worship)  
 din guru : priest (cleric)  
 ding : nail (spike)  
@@ -355,6 +357,7 @@ irak : Iraq
 iran : Iran  
 isker : left (left hand side)  
 islam : Islam  
+islam mes 9 : Ramadan  
 israel : Israel  
 italia : Italy  
 izi : easy  
@@ -746,7 +749,6 @@ putong han : Mandarin Chinese (Putonghua)
 
 rabi : lord (master)  
 radio : radio  
-ramazan : Ramadan  
 rang : color  
 rase : race (ethnicity)  
 rasma : custom (tradition, practice, ceremony, formality)  
@@ -905,6 +907,14 @@ wai : outside (exterior)
 wai gojia : foreign country  
 wakat : time (moment)  
 walse : waltz  
+war : day of the week  
+war 1 (war un) : Monday  
+war 2 (war du) : Tuesday  
+war 3 (war sam) : Wednesday  
+war 4 (war car) : Thursday  
+war 5 (war lim) : Friday  
+war 6 (war sis) : Saturday  
+war 7 (war ci) : Sunday  
 wat : watt  
 waxi : wash  
 waxi maxin : washing machine  
