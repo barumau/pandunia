@@ -587,6 +587,8 @@ Tip! You can use **na** as a preposition or alone as the verb.
 
 Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **jia** already covers the meaning of being at somewhere, so **na** is not necessary.
 
+
+
 ### deng <small>to wait</small>
 
 **cing deng!** Please wait!

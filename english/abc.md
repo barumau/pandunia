@@ -46,7 +46,7 @@ The following consonants are pronounced differently in Pandunia than in English.
 
 
 
-### Stress Accent
+## Stress Accent
 
 The stress is on the syllable, which is before the last consonant.
 
@@ -105,4 +105,35 @@ In informal texts smileys, emoticons and emojis may be used to indicate mood. Fo
 
 > **mi wide tu :)** = I see you.  
 > **mi no wide tu :(** = I don't see you.
+
+
+## Word structure
+
+The most common word structure in Pandunia is CVCV, where C is a consonant and V is a vowel.
+
+The heaviest possible word is CLVCCVC, where L is a liquid consonant (l or r). For example **kristal** is such a word.
+
+Initial consonants are restricted to:
+
+1. Any single consonant except /ŋ/
+2. Stop + liquid
+    - pl, bl, kl, gl
+    - pr, br, tr, dr, kr, gr
+
+Middle consonant clusters are restricted to:
+
+1. Resonant (m, n, ŋ, l, r) + stop or affricate
+    - mp, mb, nt, nd, nk, ng, nc, nj
+    - lp, lb, lt, ld, lk, lg
+    - rp, rb, rt, rd, rk, rg
+2. Resonant + silibant
+    - ns, ls, rs
+    - nz, lz, rz
+    - nx, lx, rx
+3. Silibant + stop
+    - st, sp, sk
+4. Stop + liquid (see above)
+
+Allowed final consonants are:  
+m, n, ng, l, r, s, x
 
