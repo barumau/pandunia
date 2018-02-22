@@ -48,6 +48,7 @@
   
     
 ##a  
+acida   : suan  
 adreso   : adres  
 aero   : hawa  
 Afriko   : afrika  
@@ -56,7 +57,6 @@ akcidento   : xigo
 akso   : akse  
 al (ĝis, por)   : do  
 alas!   : ai  
-alia   : oter  
 aligi   : liga  
 alkoholo   : alkol  
 alta   : gau  
@@ -70,6 +70,8 @@ analizo   : analis
 anaso   : bata  
 angla   : englix  
 angulo   : kona  
+animo   : ruhu  
+ankaŭ   : plus  
 ankoraŭ   : hai  
 antaŭa (lasta, pasinta)   : yer  
 antaŭhieraŭ   : yer yer den  
@@ -86,6 +88,7 @@ arto   : arte
 aspekto   : rupa  
 aspirino   : aspirin  
 astmo   : asma  
+astronomio   : tara loji  
 atako   : ataka  
 atomo   : atom  
 avino   : oma  
@@ -98,6 +101,7 @@ Aŭstralio   : australia
 ##b  
 babilejo   : blabla kamar  
 babili   : blabla  
+bambuo   : bambu  
 banano   : banana  
 bandaĝo (vindo)   : banda  
 Bangladeŝo   : bangla  
@@ -121,25 +125,36 @@ benzino   : benzin
 bereto   : beret  
 besto   : hewan  
 betono   : beton  
+bezono   : nide  
+Biblio   : biblia  
 biero   : bir  
 bildo   : sura  
 biologio   : jiwa loji  
+birdo   : ciri  
 Birmo   : bama  
 biskvito (kuketo)   : kuki  
 blanka   : bai  
+boaco   : karibu  
 Bolivio   : bolivia  
 bombo   : bomba  
 bombono   : kandi  
 bona   : bon  
+Bonan matenon!   : suba salam  
 Bonan tagon   : den salam  
 Bonan vesperon   : xam salam  
+bonan vojaĝon   : go salam  
 bonega   : super  
 bonkora   : jentil  
+bonvenon!   : lai salam  
 bordo   : kosta  
 botelo   : botol  
+bovaĵo   : mumu nyam  
+bovo   : mumu  
 Brazilo   : brazil  
+briko   : tuba  
 Britio   : britan  
 broso   : brox  
+bruna   : kafe rang  
 budhismo   : buda din  
 budho   : buda  
 Bulgario   : bolgar  
@@ -153,27 +168,32 @@ Cereso   : seres
 certa   : serte  
 cikonio   : lelek  
 citaĵo   : cita  
+citrono   : limun  
 ##d  
 danko   : danke  
 danĝero   : hatar  
 daŭro   : dura  
 de (el, pro)   : ze  
-de (partiklo de posedo)   : di  
+de (partiklo de posedo)   : de  
 dek (10)   : des  
 demando   : kia  
 demografio   : demo grafi  
 demokratio   : demo krati  
 demono   : demon  
 demono   : gui  
+dento   : dante  
 devo   : darma  
 dezerto   : sande stan  
+deziri   : ici  
 deziro   : kama  
 diablo (Satano)   : xatan  
 diamanto   : almas  
 dika   : pang  
 dio   : dewa  
+direkcio   : dixa  
 disko   : diske  
 dolaro   : dolar  
+doni   : da  
 dormo   : sona  
 dormoĉambro   : sona kamar  
 drinkejo   : bar  
@@ -184,12 +204,16 @@ duno   : duna
 Egipto   : misri  
 ekologio   : eko loji  
 ekstero   : wai  
+ekzemplo   : misal  
 elefanto   : gaja  
 energio   : energi  
 entuziasmulo   : nik  
+Eris (planedeto)   : eris  
 Eritreo   : eritra  
 escepte   : minus  
 esperi   : inxala  
+esti   : e  
+Estonio   : esti  
 estonta   : futur  
 estro (ĉefulo)   : xefe  
 eta   : mini  
@@ -202,32 +226,45 @@ eŭro   : euro
 Eŭropa Unio (EU)   : europa unia  
 Eŭropo   : europa  
 ##f  
+fabo aŭ pizo   : dou  
 fabriko   : sana kan  
 facila   : izi  
 familinomo   : famili nam  
 familio   : famili  
 fantazio   : fantazi  
 fantomo   : fantom  
+fari   : kar  
 fasono   : moda  
 feko   : kaka  
+fenestro   : janela  
 fervojo   : tren dau  
 fervorulo   : fan  
+festo   : parti  
 feĉo   : hamir  
 fiki   : coda  
 Filipinoj   : pilipin  
+filozofio   : filsofi  
+filtri   : filter  
 Finnlando   : suomi  
+fizikisto   : fizi guru  
+fiziko   : fizi  
 flago   : bandera  
 floro   : hua  
 forno   : tanur  
 forto   : bala  
 forumo   : forum  
+fotilo   : kamera  
+Francio   : franse  
 fremda lando   : wai gojia  
 freŝa   : taze  
 fromaĝo   : cis  
 frosto   : hima rose  
 frukto (rezulto)   : pala  
+fumo   : duman  
 funkcii   : funci  
 furiozo   : amuk  
+furo   : furet  
+fusilo   : bunduki  
 ##g  
 galerio (ekspozicio)   : galeri  
 Gangoj   : ganga  
@@ -236,6 +273,7 @@ gaso   : gas
 gazelo   : gazel  
 geedzeco   : gami  
 genro   : jinsi  
+geografio   : bumi grafi  
 Germana   : doice  
 gitaro   : gitar  
 gramo   : gram  
@@ -272,10 +310,12 @@ hormono   : hormon
 horo   : hor  
 hotelo   : hotel  
 ##i  
+ideo   : idea  
 ido (infano)   : baca  
 ili   : yemen  
 ilo   : tul  
 Indonezio   : indonesia  
+informacio   : info  
 intelekto   : budi  
 interkonsento (amen)   : amen  
 interŝanĝi   : badila  
@@ -286,12 +326,15 @@ Iranio   : iran
 iri   : go  
 islamo   : islam  
 Israelo   : israel  
+Italio   : italia  
 iu   : fulan  
 iu   : yo  
 iu persono   : yo ren  
 ##j  
+jako   : jake  
 Jamajko   : jameika  
 Japanio   : nipon  
+jaro   : nen  
 jasmeno   : moli  
 Jemeno   : yaman  
 jes   : si  
@@ -310,6 +353,7 @@ kajero   : nota buku
 Kamboĝo   : kambudia  
 kamelo   : gamel  
 kanabo   : ganja  
+kanalo   : kanal  
 kangaro   : kanguru  
 kanono   : kanon  
 kanto   : gana  
@@ -322,6 +366,8 @@ karulo   : bebe
 Katalunio   : katalunya  
 kato   : mau  
 kaverno   : guha  
+kaŭĉuko   : gomi  
+kiel (ol)   : ka  
 kiel?   : ke yang  
 kio?   : ke  
 kivo   : kiwi  
@@ -345,12 +391,19 @@ Kongo   : kongo
 konstrui   : bana  
 kopio   : kopi  
 korbo   : basket  
+korno   : korno  
 koro   : xim  
 korpo   : badan  
 koto   : poto  
 kotono   : goton  
 kovrilo   : kapa  
+kremo   : krema  
 krimo   : krime  
+kristnasko   : kriste jen  
+kristo   : kriste  
+krizo   : krizi  
+krono   : koron  
+kubo   : kube  
 kukaĵo   : pai  
 kuko   : keki  
 kukurbo (kukumo, melono)   : gua  
@@ -358,9 +411,15 @@ kulpo   : doxa
 kumino   : zira  
 kuracisto   : doktor  
 kurbo   : kurba  
+kurteno   : parda  
 kuŝi   : lala  
+kvar (4)   : car  
+kvin (5)   : lim  
 ##l  
+laboro   : kar  
 lakto   : milke  
+laktosuko   : kaucu  
+lando   : gojia  
 Latvio   : latvia  
 lavi   : waxi  
 lavmaŝino   : waxi maxin  
@@ -368,13 +427,19 @@ legi   : duga
 lego   : kanun  
 leono   : singa  
 lerta   : ajil  
+letero   : leter  
 li aŭ ŝi aŭ ĝi   : ye  
 librejo   : kitaba kan  
 libro   : buku  
+lineo   : linya  
 lingvistiko   : baxa loji  
 lingvo   : baxa  
+lipo   : labi  
 listo   : lista  
 lito   : bede  
+loko   : loka  
+longa   : long  
+luno   : luna  
 lupo   : beri  
 ##m  
 majao   : maya  
@@ -382,12 +447,15 @@ majstro   : xifu
 malamo   : hen  
 maldekstra   : isker  
 malfideleco   : zina  
+Malio   : mali  
+mallonga   : duan  
 malmulte   : xau  
 malplej   : minim  
 malpli   : min  
 malproksima   : tele  
 malsana   : beng  
 maltro   : min ka bas  
+malvarma   : leng  
 malĝojo   : duku  
 mandarino   : migan  
 mandarinĉina   : putong han  
@@ -398,6 +466,8 @@ martelo   : hamer
 marŝi   : marca  
 masko   : maska  
 maso   : masa  
+matematiko   : mate  
+mateno   : suba  
 maŝino   : maxin  
 medio   : eko  
 Meksiko   : mehiko  
@@ -406,6 +476,7 @@ melongeno   : bedinjan
 merkato (bazaro)   : bazar  
 mesio   : mesi  
 metalo   : metal  
+metodo   : metode  
 metroo   : tunel tren  
 mezo   : medi  
 mi   : mi  
@@ -423,6 +494,8 @@ minuto   : minut
 mito   : dewa kisa  
 mizera   : miskin  
 momento   : wakat  
+monarkio   : mono krati  
+monato   : mes  
 mondlingvo   : dunia baxa  
 mondo   : dunia  
 Mongola   : mongol  
@@ -431,6 +504,8 @@ montri (ekspozicii)   : xou
 morgaŭ   : ming den  
 motoro   : motor  
 mumio   : mumia  
+muskolo   : muskul  
+mustelo (vizelo)   : wizel  
 muzikfano   : musika fan  
 muziko   : musika  
 ##n  
@@ -460,17 +535,26 @@ nombro   : numer
 nomo   : nam  
 Norvegio   : norge  
 novaĵoj   : habar  
+nudelo   : mien  
+nur   : solo  
 ##o  
 oazo   : waha  
+ok (8)   : ba  
 okulo   : yen  
 okupata   : bizi  
 olivo   : zaitun  
 ombro   : caya  
+opinio   : igen  
+oranĝkolora   : aranji rang  
 oranĝo   : aranji  
+oriento   : dong  
 ornitorinko   : batakrot  
+ovo   : owo  
 ##p  
+pado   : pata  
 pajaco   : bufon  
 pako   : pake  
+palmo   : palma  
 Panamo   : panama  
 pando   : panda  
 pandunia   : pandunia  
@@ -485,14 +569,18 @@ pastro   : din guru
 pato   : tawa  
 patrino   : ma  
 patro   : pa  
+pediko   : kutu  
 peniso   : penis  
 pensa   : pensa  
 periodo (epoko)   : zaman  
 persa   : farsi  
+persimono   : kaki  
 persono   : ren  
 peti (bonvolu)   : cing  
+piano   : piano  
 pilko   : bola  
 pingveno   : penguin  
+pino   : song  
 pipro   : piper  
 piso (urino)   : pixa  
 piĝino   : pijin  
@@ -501,9 +589,12 @@ pli   : max
 plumo   : kalam  
 pluvo   : duxa  
 poemo   : xir  
+pomo   : pingo  
+ponto   : ponte  
 popolo   : demo  
 porcelano   : ciki  
 porcio (dozo)   : doze  
+pordo   : mun  
 porkaĵo   : goro nyam  
 porko   : goro  
 posteno   : asan  
@@ -512,20 +603,26 @@ posttagmeze   : xam den
 poto   : bin  
 povi   : ken  
 poŝo   : jeba  
+poŝtejo   : posta kan  
 presi   : capa  
 preta   : redi  
+preĝejo   : geliza  
 preĝi   : dua  
 priskribo   : grafi  
+problemo   : problem  
 produkti (fabriki)   : sana  
 profetaĵo   : nabi  
 promesi   : wada  
-propra (partiklo de posedo)   : da  
+propra (partiklo de posedo)   : su  
 pulvo   : barud  
 punkto   : bindu  
+pura   : safi  
 ##r  
 racio   : akil  
+radio   : radio  
 rajto   : hak  
 rakonto   : kisa  
+rakonto   : saga  
 rando (orlo)   : kenar  
 rapidigi   : yala  
 reciproke (unu la alian)   : mutu  
@@ -534,9 +631,9 @@ regiono   : stan
 religio   : din  
 respektinda   : xarif  
 respondo   : jawaba  
+restaŭracio   : restoran  
 reto   : net  
 rezervo   : buking  
-reĝo aŭ reĝino   : raja  
 ridi   : haha  
 rilato   : guanxi  
 rimarki   : nota  
@@ -544,34 +641,48 @@ rinocero   : faru
 ripari   : xuli  
 risko   : risko  
 roso   : rose  
+rozo   : roza  
+rubo   : laji  
+rusa   : rus  
 rutino (kutimo)   : rutin  
 ##s  
 sablo   : sande  
 safrano   : zafran  
 saga   : sofi  
+sal!   : sal  
+saluto   : salam  
 saluton!   : halo  
 sama   : sam  
+samlandano   : sam gojia ren  
 sango   : sang  
 sankta   : sant  
 sapo   : sabun  
+saŭco   : sose  
 saŭno   : sauna  
 scienco   : loji  
 scii (koni)   : jan  
+se   : jadi  
 sed   : a  
 segilo   : ara  
 sekso   : sekse  
 sekvanta   : ming  
+semajno   : ci war  
 sen   : be  
 senti   : senti  
+sep (7)   : ci  
 Serbio   : serbia  
 serio   : seri  
+serpento   : serpe  
 sezono   : mosim  
+seĝo   : kursi  
 si   : se  
 sidi   : side  
+signifo   : mani  
 sinapo   : mustar  
 Singapuro   : singapur  
 siropo   : xirop  
 sismologio   : sismo loji  
+sistemo   : sistem  
 sitelo   : baldi  
 skatolo (kesto)   : sanduk  
 skribo   : kitaba  
@@ -579,28 +690,38 @@ sofo   : sofa
 sono   : soni  
 speciala   : has  
 speco (tipo, stilo)   : yang  
+spegulo   : mira  
 spiro   : nafas  
 stango   : baton  
 stelo   : tara  
 stiri   : gida  
+stranga   : kiguai  
 strato   : gali  
+strobilo   : koni  
 sub   : xia  
 Sudkoreio   : hanguk  
 sufiĉa   : bas  
 sukero   : sukar  
+suko   : jus  
+sumo   : suma  
+suno   : surya  
 supo   : supa  
 suĉi   : cupa  
 suŝio   : suxi  
+sŭahili   : swahili  
 ##t  
 tabako   : tabako  
 tablo   : meza  
 tagmanĝo   : den nyam  
 tago   : den  
 tajgo   : taiga  
+tajpilo   : kitaba maxin  
+tamburo   : guma  
 Tanzanio   : tanzania  
 taso   : kopa  
 tekniko   : tekni  
 teknologio   : tekni loji  
+tekto   : cata  
 telefono   : tele fon  
 televidilo   : tele wide  
 temo   : tema  
@@ -628,12 +749,12 @@ tranĉilo   : caku
 tri (3)   : san  
 tro   : max ka bas  
 trovi   : yureka  
-tubo   : tube  
+tubo   : tubu  
 tundro   : tundra  
 tunelo   : tunel  
 Tunizio   : tunis  
 tuno   : ton  
-Turkio   : turki  
+turka   : turki  
 turo   : minara  
 tuŝi   : tocu  
 ##u  
@@ -641,6 +762,7 @@ umbiliko   : naba
 uniono   : unia  
 universala   : putong  
 unu   : un  
+ununura   : mono  
 urbo   : siti  
 urso   : baru  
 Urugvajo   : uruguai  
@@ -648,28 +770,37 @@ utileco   : faida
 uzi   : uze  
 ##v  
 vagino   : yoni  
+valco   : walse  
 valo   : wadi  
+valvo (krano)   : balbu  
 vato   : wat  
 vazo (florpoto)   : hua bin  
 veni   : lai  
 venonta jaro   : ming nen  
+ventro   : fubu  
 veranda   : beranda  
 vespermanĝo   : xam nyam  
 vespero   : xam  
+vesto   : ifu  
 vi (ci)   : tu  
 vi ĉiu   : tumen  
 viando   : nama  
 vidi (rigardi)   : wide  
+vilaĝo   : deya  
 vinagro   : cuka  
 vinbero   : putau  
 violonĉelo   : celo  
+viro   : man  
 vitro   : glas  
-vivforto   : ci  
+vivforto   : ki  
 vivo   : jiwa  
 vizaĝo   : muka  
+viŝilo   : taula  
+vojaĝo   : safar  
 vojo   : dau  
 vortaro   : loga lista  
 vorto   : loga  
+vosto   : weba  
 ##w  
 ##x  
 ##y  
@@ -682,6 +813,7 @@ zoroastrismo   : zardux din
 Zoroastro   : zardux  
 zuluo   : zulu  
 Ĉilio   : cile  
+Ĉinio   : jungo  
 ĉambro   : kamar  
 ĉapelo   : topi  
 ĉapitro   : buku fen  
@@ -689,6 +821,7 @@ zuluo   : zulu
 ĉarniro (pivoto)   : xarnir  
 ĉeestanta (nuna, ekzistanta)   : zai  
 ĉefministro   : xefe wazir  
+ĉemizo   : kamiza  
 ĉevalo   : uma  
 ĉielo   : sama  
 ĉimpanzo   : cimpanzi  
@@ -705,6 +838,7 @@ zuluo   : zulu
 ŝampuo   : xampu  
 ŝati   : suka  
 ŝipo   : bote  
+ŝlosilo   : cabi  
 ŝranko   : almari  
 ŝtelo   : curi  
 ŝtono   : batu  
