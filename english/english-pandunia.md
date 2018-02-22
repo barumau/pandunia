@@ -55,6 +55,7 @@ address   : adres
 adultery (infidelity)   : zina  
 Africa   : afrika  
 afternoon   : xam den  
+again   : re  
 agile   : ajil  
 agreement (amen)   : amen  
 air   : hawa  
@@ -128,6 +129,7 @@ Belgium   : belgi
 Belize   : belize  
 bell pepper   : cili  
 belly (abdomen)   : fubu  
+below (under)   : na xia  
 belt (zone)   : zon  
 beret   : beret  
 Bible   : biblia  
@@ -147,6 +149,7 @@ book   : buku
 booking (reservation)   : buking  
 border (edge, rim, fringe)   : kenar  
 bottle   : botol  
+bow instrument (violin, etc.)   : ticin  
 box (chest)   : sanduk  
 boy   : jowan man  
 Brazil   : brazil  
@@ -174,6 +177,7 @@ buttocks (butt)   : pigu
 button   : boton  
 ##c  
 cafe (coffee shop)   : kafe kan  
+cage   : kafas  
 cake (cookie)   : keki  
 Cambodia   : kambudia  
 camel   : gamel  
@@ -240,6 +244,7 @@ congratulate (bless)   : barka
 connect (join, link)   : liga  
 copy (replica)   : kopi  
 corner (angle)   : kona  
+cottage (chalet)   : xale  
 cotton   : goton  
 country (land)   : gojia  
 countryside   : deya stan  
@@ -264,6 +269,7 @@ cut   : kata
 cute   : kawai  
 ##d  
 danger (peril)   : hatar  
+date fruit   : tamar  
 day (daytime)   : den  
 day after tomorrow   : ming ming den  
 day before yesterday   : yer yer den  
@@ -275,6 +281,7 @@ demon   : demon
 depiction (graph)   : grafi  
 desert (sandy desert)   : sande stan  
 desire (lust)   : kama  
+detail   : detal  
 devil (Satan)   : xatan  
 dew   : rose  
 diamond   : almas  
@@ -288,16 +295,19 @@ doctor (physician, healer)   : doktor
 doll (puppet)   : pupe  
 dollar   : dolar  
 dome (vault)   : kupa  
+Dominican Republic   : dominika  
 dominoes   : domino  
 donkey (ass)   : gada  
 door (gate)   : mun  
 dot (spot)   : bindu  
+drawing (picture)   : desen  
 drugstore (pharmacy)   : dawa kan  
 drum   : guma  
 duck   : bata  
 dumpling   : mantu  
 dune   : duna  
 duration   : dura  
+dust   : duli  
 duty (prescribed conduct)   : darma  
 ##e  
 earth (ground, soil)   : bumi  
@@ -315,11 +325,11 @@ energy   : energi
 engine (motor)   : motor  
 English   : englix  
 enough (sufficient)   : bas  
-enthusiast (aficionado)   : nik  
 environment   : eko  
 Eris (dwarf planet)   : eris  
 Erithrea   : eritra  
 Estonia   : esti  
+Ethiopia   : itiopia  
 Eurasia   : eurasia  
 euro   : euro  
 Europe   : europa  
@@ -338,7 +348,7 @@ eye   : yen
 ##f  
 face   : muka  
 factory   : sana kan  
-family   : famili  
+family   : famil  
 fan (admirer)   : fan  
 fantasy (imagination)   : fantazi  
 farewell   : go salam  
@@ -352,6 +362,7 @@ feel (emote)   : senti
 few (little)   : xau  
 fiend (evil spirit)   : gui  
 fight (war)   : jang  
+film   : filme  
 filter   : filter  
 find (discover)   : yureka  
 Finland   : suomi  
@@ -371,7 +382,7 @@ Friday   : war 5 (war lim)
 friend   : panyo  
 from (since)   : ze  
 frost   : hima rose  
-fruit (result, outcome)   : pal  
+fruit (result, outcome)   : pala  
 frying pan   : tawa  
 fuck (copulate)   : coda  
 fun (amusement)   : maza  
@@ -406,6 +417,7 @@ Good morning   : suba salam
 gospel   : anjil  
 gourd (pumpkin, cucumber, melon)   : gua  
 govern (administer)   : reji  
+grain (seed)   : dane  
 gram   : gram  
 grandfather   : opa  
 grandmother   : oma  
@@ -459,9 +471,11 @@ horn   : korno
 horse   : uma  
 hotel   : hotel  
 hour   : hor  
+house   : dom  
 house   : kaza  
 how?   : ke yang  
 huh? (pardon?)   : he  
+human being   : insan  
 hundred (##)   : honduras  
 Hungary   : madyar  
 hurry (hasten)   : yala  
@@ -525,7 +539,7 @@ least (minimally)   : minim
 left (left hand side)   : isker  
 lemon   : limun  
 less   : min  
-lesser (mini-)   : mini  
+lesson   : darsa  
 let's   : haide  
 letter (message)   : leter  
 library   : kitaba kan  
@@ -615,7 +629,7 @@ music   : musika
 music fan   : musika fan  
 mustard   : mustar  
 mutual (reciprocal, each other)   : mutu  
-my   : mi di  
+my   : mi su  
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewa kisa  
 ##n  
@@ -627,11 +641,13 @@ name   : nam
 nano-   : nano  
 nature (environment)   : tabia  
 navel (belly button)   : naba  
+neat (pure, net)   : neto  
 need   : nide  
 needle (pin)   : pin  
 Nepal   : nepal  
 Neptune   : neptun  
-net   : net  
+net   : nete  
+new (novel)   : xin  
 news   : habar  
 newton (N)   : nuton  
 next   : ming  
@@ -668,7 +684,7 @@ or   : u
 orange (fruit)   : aranji  
 orange color   : aranji rang  
 oriental dragon   : rong  
-other   : oter  
+other   : alter  
 ouch! (alas!)   : ai  
 outside (exterior)   : wai  
 oven   : tanur  
@@ -681,7 +697,7 @@ palm tree   : palma
 Panama   : panama  
 panda   : panda  
 Pandunia   : pandunia  
-panic   : panik  
+panic   : panike  
 pants (trousers)   : pantalon  
 papaya   : papaya  
 paper   : paper  
@@ -705,6 +721,7 @@ person (people)   : ren
 Peru   : peru  
 Philippines (Filipino)   : pilipin  
 philosophy   : filsofi  
+photograph   : foto grafi  
 physicist   : fizi guru  
 physics   : fizi  
 piano   : piano  
@@ -736,6 +753,7 @@ Portugal   : portugal
 post office   : posta kan  
 posture (asana)   : asan  
 potato   : alu  
+powder   : puder  
 practice (practical)   : prati  
 practice (to exercise)   : lenxi  
 pray   : dua  
@@ -745,13 +763,19 @@ previous (last)   : yer
 priest (cleric)   : din guru  
 prime minister   : xefe wazir  
 problem   : problem  
+profession (occupation)   : pexa  
+professor   : profesor  
+program   : program  
 project (planned endeavour)   : proje  
 promise (commit)   : wada  
 prophecy   : nabi  
+pudding   : puding  
+Puerto Rico   : puertoriko  
 pump   : pompa  
 quote   : cita  
 Quran (Koran)   : kuran  
 ##r  
+rabbit (hare)   : tuzi  
 race (ethnicity)   : rase  
 radio   : radio  
 radish   : lobo  
@@ -762,6 +786,7 @@ read   : duga
 ready   : redi  
 reason (rational thinking)   : akil  
 reason (rational thinking)   : razon  
+rebellion   : rebel  
 reindeer (caribou)   : karibu  
 relationship (association, connection)   : guanxi  
 religion (worship)   : din  
@@ -770,8 +795,9 @@ repair (fix)   : xuli
 restaurant   : restoran  
 rhinoceros   : faru  
 rhythm (beat)   : ritme  
-right (justification, privilege)   : hak  
+right (justification, privilege)   : haki  
 risk   : risko  
+robot   : robo  
 rocket   : roketa  
 Rome   : roma  
 roof   : cata  
@@ -804,7 +830,7 @@ Serbia   : serbia
 series   : seri  
 seven (7)   : ci  
 several   : poli  
-sex (sexual intercourse)   : sekse  
+sex (sexual intercourse)   : seksi  
 shadow   : caya  
 shaman   : xaman  
 shampoo   : xampu  
@@ -824,7 +850,9 @@ Singapore   : singapur
 sit   : side  
 sizzle   : zizi  
 skin   : pifu  
+skirt   : jupe  
 sky (heaven)   : sama  
+sled (sleigh)   : sani  
 sleep   : sona  
 small (little, wee)   : wi  
 smoke   : duman  
@@ -846,6 +874,8 @@ Spain   : espanya
 special (distinct)   : has  
 spider   : jiju  
 spirit (soul, mind)   : ruhu  
+spit   : tuku  
+spoon   : canca  
 square (plaza)   : maidan  
 Sri Lanka   : lanka  
 star   : tara  
@@ -856,16 +886,20 @@ stork   : lelek
 storm (tempest)   : tufan  
 story (tale)   : kisa  
 street   : gali  
+student (pupil)   : darsa baca  
 subway (metro)   : tunel tren  
 suck   : cupa  
 Sudan   : sudan  
+suffer (passivizing verb)   : bei  
 sugar   : sukar  
+suggestion (proposal)   : teyan  
 sum (total)   : suma  
 sun   : surya  
 Sunday   : war 7 (war ci)  
 superb (wonderful, super)   : super  
+surface   : fas  
 Suriname   : suriname  
-surname (family name)   : famili nam  
+surname (family name)   : famil nam  
 sushi   : suxi  
 Swahili   : swahili  
 syrup   : xirop  
@@ -876,10 +910,14 @@ taboo (sacred)   : tabu
 taiga   : taiga  
 tail   : weba  
 tale (legend, saga)   : saga  
+tank (container)   : tanke  
 Tanzania   : tanzania  
+tap (stopper)   : tapa  
 tape   : tepu  
 tattoo   : tatu  
+taxi   : taksi  
 tea   : ca  
+teacher   : darsa guru  
 technique (technology)   : tekni  
 technology (study of techniques)   : tekni loji  
 telephone   : tele fon  
@@ -901,7 +939,9 @@ thousand (kilo-)   : kilo
 three (3)   : san  
 thunder (roaring)   : grom  
 Thursday   : war 4 (war car)  
+ticket   : tike  
 time (moment)   : wakat  
+tiny (mini-)   : mini  
 to (till, until, for)   : do  
 tobacco   : tabako  
 tobacco pipe   : pipa  
@@ -927,6 +967,7 @@ tree   : xu
 trouble (disturbance, bother)   : mafan  
 tube (pipe)   : tubu  
 Tuesday   : war 2 (war du)  
+tulip   : tulipa  
 tundra   : tundra  
 Tunisia   : tunis  
 tunnel   : tunel  
@@ -934,6 +975,7 @@ Turkish   : turki
 two (2)   : du  
 typewriter   : kitaba maxin  
 ##u  
+Ukraine   : ukrayina  
 under (below)   : xia  
 understand (realize)   : aha  
 union   : unia  
@@ -952,6 +994,7 @@ vinegar   : cuka
 visual field (field of vision)   : wide maidan  
 voodoo   : wodu  
 ##w  
+wait   : deng  
 walk (march)   : marca  
 waltz   : walse  
 wash   : waxi  
@@ -988,7 +1031,7 @@ yam (sweet potato)   : batata
 year   : nen  
 yeast   : hamir  
 Yemen   : yaman  
-yes (yeah)   : si  
+yes (yeah)   : ya  
 yesterday   : yer den  
 yoga   : yoga  
 you   : tu  

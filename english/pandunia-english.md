@@ -14,6 +14,7 @@ aku : parrot (parakeet)
 alkol : alcohol  
 almari : cupboard (closet, cabinet, wardrobe)  
 almas : diamond  
+alter : other  
 alu : potato  
 ama : love (affection)  
 amen : agreement (amen)  
@@ -85,6 +86,7 @@ be : without
 bebe : baby (darling)  
 bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
+bei : suffer (passivizing verb)  
 belarus : Belarus  
 belgi : Belgium  
 belize : Belize  
@@ -134,6 +136,7 @@ buyu : baobab
 ca : tea  
 cabi : key  
 caku : knife  
+canca : spoon  
 capa : press (imprint)  
 car : four (4)  
 cata : roof  
@@ -163,9 +166,13 @@ curi : theft (steal)
 da : give  
 dai : big  
 dama : checkers  
+dane : grain (seed)  
 danke : thanks (thank you)  
 dante : tooth  
 darma : duty (prescribed conduct)  
+darsa : lesson  
+darsa baca : student (pupil)  
+darsa guru : teacher  
 dau : way (road)  
 dawa : medicine (drug)  
 dawa kan : drugstore (pharmacy)  
@@ -177,7 +184,10 @@ demon : demon
 den : day (daytime)  
 den nyam : lunch  
 den salam : Good day  
+deng : wait  
 des : ten (10)  
+desen : drawing (picture)  
+detal : detail  
 dewa : god (deity)  
 dewa kisa : myth (divine story)  
 dewa loji : theology  
@@ -193,6 +203,8 @@ do : to (till, until, for)
 doice : German  
 doktor : doctor (physician, healer)  
 dolar : dollar  
+dom : house  
+dominika : Dominican Republic  
 domino : dominoes  
 dong : east  
 dou : bean or pea (legume)  
@@ -204,6 +216,7 @@ dua : pray
 duan : short (not long)  
 duga : read  
 duku : grief (sorrow)  
+duli : dust  
 duman : smoke  
 duna : dune  
 dunia : world  
@@ -231,20 +244,23 @@ europa unia : European Union (EU)
 ##f
 
 faida : use (utility, benefit, gain, advantage)  
-famili : family  
-famili nam : surname (family name)  
+famil : family  
+famil nam : surname (family name)  
 fan : fan (admirer)  
 fani : funny (amusing)  
 fantazi : fantasy (imagination)  
 fantom : ghost (fantom)  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
+fas : surface  
+filme : film  
 filsofi : philosophy  
 filter : filter  
 fizi : physics  
 fizi guru : physicist  
 fobi : fear (phobia)  
 forum : forum  
+foto grafi : photograph  
 franse : France  
 fubu : belly (abdomen)  
 fulan : some (indefinite, indeterminate)  
@@ -306,7 +322,7 @@ habar : news
 haha : laugh  
 hai : still (yet)  
 haide : let's  
-hak : right (justification, privilege)  
+haki : right (justification, privilege)  
 halo : hello (hi)  
 hamak : hammock  
 hamer : hammer  
@@ -352,6 +368,7 @@ indonesia : Indonesia
 info : information  
 ingai : should (ought)  
 inji : ginger  
+insan : human being  
 inxala : hope (wish)  
 irak : Iraq  
 iran : Iran  
@@ -360,6 +377,7 @@ islam : Islam
 islam mes 9 : Ramadan  
 israel : Israel  
 italia : Italy  
+itiopia : Ethiopia  
 izi : easy  
 
 ##j
@@ -395,6 +413,7 @@ judo : judo
 jul : joule (J)  
 jumla : sentence (phrase)  
 jungo : China  
+jupe : skirt  
 jus : juice  
 juxa : injection  
 
@@ -404,6 +423,7 @@ ka : like (as, as if, than)
 kabau : water buffalo  
 kadi : judgment (sentence)  
 kadi guru : judge (referee)  
+kafas : cage  
 kafe : coffee  
 kafe kan : cafe (coffee shop)  
 kafe kopa : coffee cup  
@@ -590,7 +610,7 @@ metal : metal
 metode : method (way, manner)  
 meza : table  
 mi : I (me)  
-mi di : my  
+mi su : my  
 micin : MSG (monosodium glutamate)  
 mien : noodle  
 migan : mandarin orange  
@@ -605,7 +625,7 @@ ming : next
 ming den : tomorrow  
 ming ming den : day after tomorrow  
 ming nen : next year  
-mini : lesser (mini-)  
+mini : tiny (mini-)  
 minim : least (minimally)  
 minus : except (minus)  
 minut : minute  
@@ -637,6 +657,7 @@ mutu : mutual (reciprocal, each other)
 ##n
 
 na : with (by, at, in, on)  
+na xia : below (under)  
 naba : navel (belly button)  
 nabi : prophecy  
 nafas : breath  
@@ -650,10 +671,10 @@ nen : year
 nen parti : anniversary  
 nepal : Nepal  
 neptun : Neptune  
-net : net  
+nete : net  
+neto : neat (pure, net)  
 nide : need  
 nijer : Niger  
-nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  
 nilon : nylon  
 nipon : Japan  
@@ -678,7 +699,6 @@ oksi : oxygen
 oma : grandmother  
 oman : Oman  
 opa : grandfather  
-oter : other  
 owo : egg  
 
 ##p
@@ -687,14 +707,14 @@ pa : father
 pai : pie (pastry)  
 pake : pack (package)  
 pakistan : Pakistan  
-pal : fruit (result, outcome)  
+pala : fruit (result, outcome)  
 palma : palm tree  
 pan : bread  
 panama : Panama  
 panda : panda  
 pandunia : Pandunia  
 pang : thick (fat)  
-panik : panic  
+panike : panic  
 pantalon : pants (trousers)  
 panyo : friend  
 papaya : papaya  
@@ -710,6 +730,7 @@ penguin : penguin
 penis : penis  
 pensa : think  
 peru : Peru  
+pexa : profession (occupation)  
 piano : piano  
 pifu : skin  
 pigu : buttocks (butt)  
@@ -738,7 +759,12 @@ poto : mud (mire)
 praman : evidence (proof, testimony)  
 prati : practice (practical)  
 problem : problem  
+profesor : professor  
+program : program  
 proje : project (planned endeavour)  
+puder : powder  
+puding : pudding  
+puertoriko : Puerto Rico  
 puja : worship (revere)  
 pupe : doll (puppet)  
 putau : grape  
@@ -753,12 +779,15 @@ rang : color
 rase : race (ethnicity)  
 rasma : custom (tradition, practice, ceremony, formality)  
 razon : reason (rational thinking)  
+re : again  
+rebel : rebellion  
 redi : ready  
 reji : govern (administer)  
 ren : person (people)  
 restoran : restaurant  
 risko : risk  
 ritme : rhythm (beat)  
+robo : robot  
 roketa : rocket  
 roma : Rome  
 rong : oriental dragon  
@@ -791,18 +820,18 @@ sande : sand
 sande stan : desert (sandy desert)  
 sanduk : box (chest)  
 sang : blood  
+sani : sled (sleigh)  
 sant : holy (sacred)  
 sapato : shoe  
 sauna : sauna  
 se : self  
-sekse : sex (sexual intercourse)  
+seksi : sex (sexual intercourse)  
 senti : feel (emote)  
 serbia : Serbia  
 seres : Ceres (dwarf planet)  
 seri : series  
 serpe : snake (serpent)  
 serte : certain (sure)  
-si : yes (yeah)  
 side : sit  
 singa : lion  
 singapur : Singapore  
@@ -845,8 +874,12 @@ tabako : tobacco
 tabia : nature (environment)  
 tabu : taboo (sacred)  
 taiga : taiga  
+taksi : taxi  
+tamar : date fruit  
+tanke : tank (container)  
 tanur : oven  
 tanzania : Tanzania  
+tapa : tap (stopper)  
 tara : star  
 tara guru : astronomer  
 tara loji : astronomy  
@@ -864,7 +897,10 @@ tenis : tennis
 teori : theory  
 tepu : tape  
 teste : test (challenge, trial)  
+teyan : suggestion (proposal)  
 tezi : argument (thesis)  
+ticin : bow instrument (violin, etc.)  
+tike : ticket  
 tocu : touch  
 togo : Togo  
 tolo : top (spinning top)  
@@ -879,17 +915,21 @@ tu : you
 tuba : brick  
 tubu : tube (pipe)  
 tufan : storm (tempest)  
+tuku : spit  
 tul : tool  
+tulipa : tulip  
 tumen : you all  
 tundra : tundra  
 tunel : tunnel  
 tunel tren : subway (metro)  
 tunis : Tunisia  
 turki : Turkish  
+tuzi : rabbit (hare)  
 
 ##u
 
 u : or  
+ukrayina : Ukraine  
 uma : horse  
 un : one (1)  
 unia : union  
@@ -931,6 +971,7 @@ wodu : voodoo
 
 xakal : jackal  
 xal : scarf (shawl)  
+xale : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
 xam nyam : dinner  
@@ -952,6 +993,7 @@ xia : under (below)
 xifu : master (sensei)  
 xigo : accident (mishap)  
 xim : heart  
+xin : new (novel)  
 xir : poem  
 xirop : syrup  
 xona : Shona  
@@ -961,6 +1003,7 @@ xuli : repair (fix)
 
 ##y
 
+ya : yes (yeah)  
 yak : yak  
 yala : hurry (hasten)  
 yaman : Yemen  

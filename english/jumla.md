@@ -118,13 +118,13 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 **kia tu?** And you?  
 **mi no bon.** I'm not good.
 
-<small>Etymology. **kia** is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā", Japanese: 聞く "kiku".</small>
+<small>Etymology. **kia** is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
 
 
 
 ### ya <small>yes</small>
 
-**kia tu tomas?** Are you Thomas.
+**kia tu tomas?** Are you Thomas?
 
 **ya, mi tomas.** Yes, I am Thomas.
 
@@ -238,7 +238,7 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 **mi e sara su panyo.** I am Sara's friend.
 
-<small>Etymology. **su** is from English: 's, Afrikaans: se, Spanish: su, Portuguese su.</small>
+<small>Etymology. **su** is from English: 's, Afrikaans: se, Spanish: su, Portuguese: su.</small>
 
 
 
@@ -264,7 +264,7 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 **ye no ha pesa.** S/he doesn't have money.
 
-**mi wol ha nowi fon.** I want to have a new phone.
+**mi wol ha xin fon.** I want to have a new phone.
 
 **kia tu ha ban?** Do you have children?  
 **mi ha du ban.** I have two children.
@@ -388,7 +388,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia tu nide nyam?** Are you hungry?
 
-**kia tu nide su?** Are you thirsty?
+**kia tu nide sui?** Are you thirsty?
 
 
 
@@ -458,11 +458,12 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi no ken audi tu.** I can't hear you.
 
-**cing loga kuat.** Please speak louder.
+**cing loga bala.** Please speak louder.
 
 **mi audi musika.** I listen to music.
 
 **tu audi ke yang su musika?** What kind of music do you listen to?
+
 
 
 ### wide <small>to see</small>
@@ -476,7 +477,8 @@ Tip: To make direct requests, drop all the pronouns.
 **mi wide ye yer den.** I saw him/her yesterday.
 
 
-### mana <small>to mean</small>
+
+### mani <small>to mean</small>
 
 **sa loga mani ke?** What does this word mean?
 
@@ -487,11 +489,13 @@ Tip: To make direct requests, drop all the pronouns.
 **mi no aha ye mani ke.** I don't understand what it means.
 
 
+
 ### kitaba <small>write</small>
 
 **cing kitaba tu su adres.** Please, write your address.
 
 **cing kitaba ye na sa.** Please, write it here!
+
 
 
 ### baxa <small>speak a language, communicate</small>
@@ -526,7 +530,8 @@ Tip: To make direct requests, drop all the pronouns.
 
 **haide go!** Let's go!
 
-**haide go na pede** Let's go by foot!
+**haide go na pede!** Let's go by foot!
+
 
 
 
@@ -541,6 +546,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mi lai jia ming den.** I will come home tomorrow.
 
 
+
 ### safar <small>to travel</small>
 
 **kia tu safar na tren?** Do you travel by train?
@@ -548,6 +554,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mimen safar ze london do paris.** We travel from London to Paris.
 
 **safar cok long.** The voyage is very long.
+
 
 
 ### na <small>in, on, at</small>
@@ -562,11 +569,12 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ye na ke?** Where is he/she?
 
-**ye sit na kamar.** He/she sits in the room.
+**ye side na kamar.** He/she sits in the room.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 
 **mi gong na...** I work at ...
+
 
 
 ### jia <small>to live, reside</small>
