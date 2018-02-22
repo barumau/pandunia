@@ -11,9 +11,10 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
 
 # ze suomi do pandunia
+cat temp/alfahead.txt suomi/logaloga.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> suomi/pandunia-suomi.md 
 cat suomi/pandunia-suomi.md | sed '/^#/ d' > temp/temp2.txt
 cat temp/temp2.txt temp/alfahead.txt > temp/temp.txt
-awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > suomi/suomi-pandunia.md
+awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > suomi/suomi-pandunia.md
 sed 's/_//g' -i suomi/suomi-pandunia.md
 sed 's/$/  /' -i suomi/suomi-pandunia.md
 
