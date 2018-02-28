@@ -21,7 +21,7 @@ Creators of Pandunia began to create a language together first in 2005. Since th
 
 ![](http://www.pandunia.info/kuvat/bandera.png "The flag of Pandunia")
 
-The flag of Pandunia represents the planet Earth. There is green ground, clear blue atmosphere and yellow sun against the background of dark blue space.
+The flag of Pandunia represents global equality. There is a symbol of _the blue planet_ against the background of the dark blue space. The equals sign is laid over the Earth.
 
 #### Why the mascot of Pandunia is a duck-billed platypus?
 
@@ -108,19 +108,19 @@ You are free to speak Pandunia, English and any other language that your heart d
 
 ## Grammar and vocabulary
 
-#### Why analytic structure was chosen for Pandunia?
+#### Why isolating structure was chosen for Pandunia?
 
 Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
 
 1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
 2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
 
-Pandunia is best described as an _analytic language_. Pandunia uses a handful of suffixes for marking parts of speech and for word derivation. On the other hand, Pandunia uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating languages.
+Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating and inflecting languages.
 
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    wid|a do  sundar    yen        nun.
+    Pandunia:  mi ken    wide  du  sundar    yen        nun.
                I  can    see   two beautiful eyes       now.
 
 
@@ -155,9 +155,6 @@ Pandunia has words in common with almost all languages of the world.
 About 6500 languages are spoken in the world today. If one word was taken from each language, there would be 6500 words in the dictionary. It sounds like enough, doesn't it?
 
 However, it's not so simple. All words are not equal. Some words are more frequent than others. According to the Zipf's law, the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. By this rule, only 150 words will account for more than half of everything that is said and written in any given language. The rest, 6350 words, would be more or less rare. Many of them would be hardly ever used!
-
-
-
 
 The value of adding one more language gets smaller and smaller.
 
