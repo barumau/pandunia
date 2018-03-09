@@ -1,7 +1,7 @@
 pandunia
 ========
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunia bendera")
+![](http://www.pandunia.info/bandera/bandera.png "Pandunia bendera")
 
 
 Bahasa Pandunia adalah [bahasa buatan antarabangsa](https://id.wikipedia.org/wiki/Bahasa_buatan). Pandunia adalah bahasa minimal. Mirip dengan sebuah pidgin, bahasa ini memusatkan pikiran pada konsep dan elemen sederhana yang relatif universal di antara kebudayaan.

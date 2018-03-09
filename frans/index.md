@@ -1,7 +1,7 @@
 Pandunia - une langue simple pour le monde
 =====================================
 
-![](http://www.pandunia.info/kuvat/bandera.png "Le drapeau du pandunia")
+![](http://www.pandunia.info/bandera/bandera.png "Le drapeau du pandunia")
 
 ## Qu’est-ce que le pandunia ?
 
