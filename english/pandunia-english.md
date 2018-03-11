@@ -87,6 +87,7 @@ bebe : baby (darling)
 bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
 bei : suffer (passivizing verb)  
+beijing : Beijing (Peking)  
 belarus : Belarus  
 belgi : Belgium  
 belize : Belize  
@@ -137,6 +138,7 @@ ca : tea
 cabi : key  
 caku : knife  
 canca : spoon  
+canga : participate (attend, take part)  
 capa : press (imprint)  
 car : four (4)  
 cata : roof  
@@ -163,12 +165,12 @@ curi : theft (steal)
 
 ##d
 
-da : give  
 dai : big  
 dama : checkers  
 dane : grain (seed)  
 danke : thanks (thank you)  
 dante : tooth  
+dar : give  
 darma : duty (prescribed conduct)  
 darsa : lesson  
 darsa baca : student (pupil)  
@@ -227,6 +229,7 @@ duxa : shower
 ##e
 
 e : be  
+egal : equal (fair)  
 eho : echo  
 eko : environment  
 eko loji : ecology  
@@ -237,6 +240,7 @@ eritra : Erithrea
 espanya : Spain  
 esti : Estonia  
 eurasia : Eurasia  
+eureka : find (discover)  
 euro : euro  
 europa : Europe  
 europa unia : European Union (EU)  
@@ -244,6 +248,7 @@ europa unia : European Union (EU)
 ##f
 
 faida : use (utility, benefit, gain, advantage)  
+fajan : development  
 famil : family  
 famil nam : surname (family name)  
 fan : fan (admirer)  
@@ -253,6 +258,8 @@ fantom : ghost (fantom)
 farsi : Persian (Farsi)  
 faru : rhinoceros  
 fas : surface  
+fen : part (fraction)  
+figur : figure (representation)  
 filme : film  
 filsofi : philosophy  
 filter : filter  
@@ -288,6 +295,7 @@ gau : high
 gayana : Guyana  
 gazel : gazelle  
 geliza : church  
+genca : examine (inspect, check)  
 gida : steer  
 giga : billion (giga-)  
 gitar : guitar  
@@ -369,6 +377,7 @@ info : information
 ingai : should (ought)  
 inji : ginger  
 insan : human being  
+interes : interest (interesting)  
 inxala : hope (wish)  
 irak : Iraq  
 iran : Iran  
@@ -382,6 +391,7 @@ izi : easy
 
 ##j
 
+ja : already (-ed)  
 jadi : if (suppose, assume)  
 jake : jacket  
 jameika : Jamaica  
@@ -412,6 +422,7 @@ jowan man : boy
 judo : judo  
 jul : joule (J)  
 jumla : sentence (phrase)  
+jung : middle (center)  
 jungo : China  
 jupe : skirt  
 jus : juice  
@@ -456,9 +467,11 @@ katalunya : Catalonia
 kaucu : latex (india rubber)  
 kawai : cute  
 kaxa : porridge  
-kaza : house  
 ke : what? (which?)  
+ke ren : who?  
+ke xe : what thing?  
 ke yang : how?  
+ke zaman : when?  
 keki : cake (cookie)  
 kelele : noise  
 ken : can (know, be able)  
@@ -505,6 +518,7 @@ kuan : wide
 kuba : Cuba  
 kube : cube  
 kuki : biscuit (cookie)  
+kuli : labor (coolie)  
 kupa : dome (vault)  
 kupon : coupon  
 kuran : Quran (Koran)  
@@ -524,14 +538,15 @@ laka : lacquer (varnish)
 lala : lie (lie down)  
 lampa : lamp  
 lanka : Sri Lanka  
+lanten : lantern  
 lao : Laos  
 larwa : larva (maggot, caterpillar)  
 latvia : Latvia  
-le : already (-ed)  
-lelek : stork  
+leleka : stork  
 leng : cold  
 lenxi : practice (to exercise)  
 leter : letter (message)  
+libanan : Lebanon  
 lici : lychee (litchi)  
 liga : connect (join, link)  
 lim : five (5)  
@@ -553,6 +568,8 @@ luna : moon
 ma : mother  
 madyar : Hungary  
 mafan : trouble (disturbance, bother)  
+magi : magic  
+mai : liquid (fluid)  
 maidan : square (plaza)  
 makedonia : Macedonia  
 malaisia : Malaysia  
@@ -565,7 +582,7 @@ mangus : mangosteen
 mani : meaning (signification)  
 mantu : dumpling  
 maraton : marathon  
-marca : walk (march)  
+marce : walk (march)  
 margarin : margarine  
 marmar : marble  
 masa : mass (dough, lump)  
@@ -590,6 +607,7 @@ mehiko : Mexico
 mei : every (each)  
 mei ren : everybody (everyone)  
 mei xe : everything  
+mei zaman : always  
 melodi : melody  
 meme : sheep  
 mes : month  
@@ -653,10 +671,13 @@ musika fan : music fan
 muskul : muscle  
 mustar : mustard  
 mutu : mutual (reciprocal, each other)  
+muxu : mouse  
 
 ##n
 
 na : with (by, at, in, on)  
+na dura : while (during)  
+na jung : in the middle  
 na xia : below (under)  
 naba : navel (belly button)  
 nabi : prophecy  
@@ -683,7 +704,7 @@ no : no (not)
 noce : night  
 node : knot (node; tie)  
 norge : Norway  
-norma : norm (standard)  
+normal : norm (standard)  
 nota : note (observe, notice)  
 nota buku : notebook  
 nude : naked (bare)  
@@ -726,6 +747,7 @@ pasa : pass (go by, go past)
 paskal : pascal (Pa)  
 pasta : paste  
 pata : path (track, trail)  
+paxi : suffer (hurt)  
 penguin : penguin  
 penis : penis  
 pensa : think  
@@ -740,6 +762,7 @@ pin : needle (pin)
 pingo : apple  
 pipa : tobacco pipe  
 piper : pepper  
+piping : evaluate (review, comment, criticise)  
 pixa : piss (urine)  
 piza : pizza  
 planeta : planet  
@@ -800,6 +823,7 @@ rutin : routine (habit)
 
 ##s
 
+saba : reason (cause)  
 sabun : soap  
 sada : plain (simple)  
 safar : travel (voyage)  
@@ -846,6 +870,7 @@ sona : sleep
 sona kamar : bedroom  
 song : pine tree  
 soni : sound (audio)  
+sori : sorry (regret)  
 sose : sauce  
 sosis : sausage  
 stan : area  
@@ -855,8 +880,10 @@ suba : morning
 suba nyam : breakfast  
 suba salam : Good morning  
 sudan : Sudan  
-suka : like (enjoy, be fond of)  
+sui : water  
+suka : dry  
 sukar : sugar  
+suki : like (enjoy, be fond of)  
 suma : sum (total)  
 sundar : beautiful (handsome)  
 suomi : Finland  
@@ -873,7 +900,9 @@ swahili : Swahili
 tabako : tobacco  
 tabia : nature (environment)  
 tabu : taboo (sacred)  
+taibei : Taipei  
 taiga : taiga  
+taiwan : Taiwan  
 taksi : taxi  
 tamar : date fruit  
 tanke : tank (container)  
@@ -894,6 +923,7 @@ tele fon : telephone
 tele wide : television  
 tema : topic (subject, theme)  
 tenis : tennis  
+tenki : weather  
 teori : theory  
 tepu : tape  
 teste : test (challenge, trial)  
@@ -903,7 +933,9 @@ ticin : bow instrument (violin, etc.)
 tike : ticket  
 tocu : touch  
 togo : Togo  
+tokyo : Tokyo  
 tolo : top (spinning top)  
+tolun : debate (discuss)  
 tomate : tomato  
 ton : ton (tonne)  
 tone : tone (note, pitch, shade)  
@@ -1000,6 +1032,7 @@ xona : Shona
 xou : show (display, exhibition)  
 xu : tree  
 xuli : repair (fix)  
+xuxi : rest (relief)  
 
 ##y
 
@@ -1022,7 +1055,6 @@ yo ren : someone (somebody)
 yo xe : something  
 yoga : yoga  
 yoni : vagina  
-yureka : find (discover)  
 
 ##z
 
@@ -1030,7 +1062,7 @@ zafran : saffron
 zai : present (current, existing)  
 zai den : today  
 zaitun : olive  
-zaman : period (age, epoch)  
+zaman : time (moment)  
 zambia : Zambia  
 zardux : Zoroaster  
 zardux din : Zoroastrianism  

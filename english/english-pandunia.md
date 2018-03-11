@@ -62,8 +62,9 @@ air   : hawa
 alcohol   : alkol  
 almond   : badam  
 alone (single, sole)   : mono  
-already (-ed)   : le  
+already (-ed)   : ja  
 also (plus, too)   : plus  
+always   : mei zaman  
 America (continent)   : amerika  
 ampere   : amper  
 analysis   : analis  
@@ -124,6 +125,7 @@ bedroom   : sona kamar
 beef   : mumu nyam  
 beer   : bir  
 beginning   : mula  
+Beijing (Peking)   : beijing  
 Belarus   : belarus  
 Belgium   : belgi  
 Belize   : belize  
@@ -274,6 +276,7 @@ day (daytime)   : den
 day after tomorrow   : ming ming den  
 day before yesterday   : yer yer den  
 day of the week   : war  
+debate (discuss)   : tolun  
 December   : mes 12 (mes des du)  
 democracy   : demo krati  
 demography   : demo grafi  
@@ -282,6 +285,7 @@ depiction (graph)   : grafi
 desert (sandy desert)   : sande stan  
 desire (lust)   : kama  
 detail   : detal  
+development   : fajan  
 devil (Satan)   : xatan  
 dew   : rose  
 diamond   : almas  
@@ -303,6 +307,7 @@ dot (spot)   : bindu
 drawing (picture)   : desen  
 drugstore (pharmacy)   : dawa kan  
 drum   : guma  
+dry   : suka  
 duck   : bata  
 dumpling   : mantu  
 dune   : duna  
@@ -326,6 +331,7 @@ engine (motor)   : motor
 English   : englix  
 enough (sufficient)   : bas  
 environment   : eko  
+equal (fair)   : egal  
 Eris (dwarf planet)   : eris  
 Erithrea   : eritra  
 Estonia   : esti  
@@ -334,12 +340,14 @@ Eurasia   : eurasia
 euro   : euro  
 Europe   : europa  
 European Union (EU)   : europa unia  
+evaluate (review, comment, criticise)   : piping  
 even (intensifier)   : hata  
 evening   : xam  
 every (each)   : mei  
 everybody (everyone)   : mei ren  
 everything   : mei xe  
 evidence (proof, testimony)   : praman  
+examine (inspect, check)   : genca  
 example (instance of)   : misal  
 except (minus)   : minus  
 exchange (swap, replace)   : badila  
@@ -362,9 +370,10 @@ feel (emote)   : senti
 few (little)   : xau  
 fiend (evil spirit)   : gui  
 fight (war)   : jang  
+figure (representation)   : figur  
 film   : filme  
 filter   : filter  
-find (discover)   : yureka  
+find (discover)   : eureka  
 Finland   : suomi  
 five (5)   : lim  
 flag (banner)   : bandera  
@@ -405,7 +414,7 @@ ginger   : inji
 ginseng   : jenxen  
 giraffe   : jirafa  
 girl   : jowan fem  
-give   : da  
+give   : dar  
 glass   : glas  
 go   : go  
 goal   : gol  
@@ -472,7 +481,6 @@ horse   : uma
 hotel   : hotel  
 hour   : hor  
 house   : dom  
-house   : kaza  
 how?   : ke yang  
 huh? (pardon?)   : he  
 human being   : insan  
@@ -484,11 +492,13 @@ I (me)   : mi
 idea   : idea  
 if (suppose, assume)   : jadi  
 image (picture)   : sura  
+in the middle   : na jung  
 India   : barti  
 Indonesia   : indonesia  
 information   : info  
 injection   : juxa  
 intelligence (understanding)   : budi  
+interest (interesting)   : interes  
 invite   : cing lai  
 Iran   : iran  
 Iraq   : irak  
@@ -525,9 +535,11 @@ know   : jan
 kola tree   : gora  
 kung fu   : gung fu  
 ##l  
+labor (coolie)   : kuli  
 lacquer (varnish)   : laka  
 lamp   : lampa  
 language (communication)   : baxa  
+lantern   : lanten  
 Laos   : lao  
 larva (maggot, caterpillar)   : larwa  
 last year   : yer nen  
@@ -536,6 +548,7 @@ Latvia   : latvia
 laugh   : haha  
 law   : kanun  
 least (minimally)   : minim  
+Lebanon   : libanan  
 left (left hand side)   : isker  
 lemon   : limun  
 less   : min  
@@ -547,13 +560,14 @@ lie (lie down)   : lala
 life   : jiwa  
 life force (chi)   : ki  
 like (as, as if, than)   : ka  
-like (enjoy, be fond of)   : suka  
+like (enjoy, be fond of)   : suki  
 lime   : lima  
 lime color   : lima rang  
 line (stripe)   : linya  
 linguistics   : baxa loji  
 lion   : singa  
 lip   : labi  
+liquid (fluid)   : mai  
 list (listing)   : lista  
 load (to charge)   : lada  
 long (lengthy)   : long  
@@ -566,6 +580,7 @@ lychee (litchi)   : lici
 ##m  
 Macedonia   : makedonia  
 machine   : maxin  
+magic   : magi  
 mail   : posta  
 make (produce, manufacture)   : sana  
 malaria   : malaria  
@@ -601,6 +616,7 @@ metal   : metal
 method (way, manner)   : metode  
 Mexico   : mehiko  
 micro-   : mikro  
+middle (center)   : jung  
 milk   : milke  
 milli-   : mili  
 million (mega-)   : mega  
@@ -620,6 +636,7 @@ mosquito   : moskito
 most (maximally)   : maxim  
 mother   : ma  
 mountain (hill)   : xan  
+mouse   : muxu  
 mouth   : boka  
 MSG (monosodium glutamate)   : micin  
 mud (mire)   : poto  
@@ -660,7 +677,7 @@ nitrogen   : nitro
 no (not)   : no  
 noise   : kelele  
 noodle   : mien  
-norm (standard)   : norma  
+norm (standard)   : normal  
 Norway   : norge  
 note (observe, notice)   : nota  
 notebook   : nota buku  
@@ -703,6 +720,8 @@ papaya   : papaya
 paper   : paper  
 Paraguay   : paraguai  
 parrot (parakeet)   : aku  
+part (fraction)   : fen  
+participate (attend, take part)   : canga  
 party (celebration, festival)   : parti  
 pascal (Pa)   : paskal  
 pass (go by, go past)   : pasa  
@@ -714,7 +733,6 @@ penguin   : penguin
 penis   : penis  
 people (society)   : demo  
 pepper   : piper  
-period (age, epoch)   : zaman  
 Persian (Farsi)   : farsi  
 persimmon (kaki)   : kaki  
 person (people)   : ren  
@@ -784,6 +802,7 @@ railway (railroad)   : tren dau
 Ramadan   : islam mes 9  
 read   : duga  
 ready   : redi  
+reason (cause)   : saba  
 reason (rational thinking)   : akil  
 reason (rational thinking)   : razon  
 rebellion   : rebel  
@@ -792,6 +811,7 @@ relationship (association, connection)   : guanxi
 religion (worship)   : din  
 rent (hire, lease)   : kira  
 repair (fix)   : xuli  
+rest (relief)   : xuxi  
 restaurant   : restoran  
 rhinoceros   : faru  
 rhythm (beat)   : ritme  
@@ -866,6 +886,7 @@ some (indefinite, indeterminate)   : fulan
 someone (somebody)   : yo ren  
 something   : yo xe  
 song   : gana  
+sorry (regret)   : sori  
 sound (audio)   : soni  
 soup   : supa  
 sour   : suan  
@@ -882,7 +903,7 @@ star   : tara
 steer   : gida  
 still (yet)   : hai  
 stone   : batu  
-stork   : lelek  
+stork   : leleka  
 storm (tempest)   : tufan  
 story (tale)   : kisa  
 street   : gali  
@@ -890,6 +911,7 @@ student (pupil)   : darsa baca
 subway (metro)   : tunel tren  
 suck   : cupa  
 Sudan   : sudan  
+suffer (hurt)   : paxi  
 suffer (passivizing verb)   : bei  
 sugar   : sukar  
 suggestion (proposal)   : teyan  
@@ -909,6 +931,8 @@ table   : meza
 taboo (sacred)   : tabu  
 taiga   : taiga  
 tail   : weba  
+Taipei   : taibei  
+Taiwan   : taiwan  
 tale (legend, saga)   : saga  
 tank (container)   : tanke  
 Tanzania   : tanzania  
@@ -941,6 +965,7 @@ thunder (roaring)   : grom
 Thursday   : war 4 (war car)  
 ticket   : tike  
 time (moment)   : wakat  
+time (moment)   : zaman  
 tiny (mini-)   : mini  
 to (till, until, for)   : do  
 tobacco   : tabako  
@@ -948,6 +973,7 @@ tobacco pipe   : pipa
 today   : zai den  
 tofu   : doufu  
 Togo   : togo  
+Tokyo   : tokyo  
 tomato   : tomate  
 tomorrow   : ming den  
 ton (tonne)   : ton  
@@ -995,21 +1021,27 @@ visual field (field of vision)   : wide maidan
 voodoo   : wodu  
 ##w  
 wait   : deng  
-walk (march)   : marca  
+walk (march)   : marce  
 waltz   : walse  
 wash   : waxi  
 washing machine   : waxi maxin  
+water   : sui  
 water buffalo   : kabau  
 watt   : wat  
 way (road)   : dau  
 we   : mimen  
 weasel   : wizel  
+weather   : tenki  
 wedge   : kila  
 Wednesday   : war 3 (war sam)  
 week   : ci war  
 welcome!   : lai salam  
+what thing?   : ke xe  
 what? (which?)   : ke  
+when?   : ke zaman  
+while (during)   : na dura  
 white   : bai  
+who?   : ke ren  
 wide   : kuan  
 will (volition, desire)   : ici  
 window   : janela  
