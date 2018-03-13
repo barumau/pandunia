@@ -21,7 +21,7 @@ Pandunian tekijät alkoivat työskennellä yhdessä vuonna 2005. Alusta lähtien
 
 ![](http://www.pandunia.info/kuvat/bandera.png "Pandunian lippu")
 
-Pandunian lippu esittää maapalloa. Vihreä tarkoittaa maata, kirkkaansininen ilmakehää, keltainen aurinkoa ja taustan tummansini avaruutta, jossa maapallo kelluu.
+Pandunian lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
 
 #### Miksi pandunian maskotti on vesinokkaeläin?
 
@@ -84,7 +84,7 @@ Yllä mainittuja pandunian ominaispiirteitä saattaa esiintyä muissakin kieliss
 Alussa Esperanto oli tärkeä innoituksen lähde. Ilman esperantoa panduniaa ei olisi koskaan alettu tekemään. Mutta esperanto ei näy varsinaisessa lopputuloksessa, vaan pandunia on aivan erilainen kieli niin rakenteeltaan kuin sanastoltaankin.
 
 
-#### Ovatko pandunia tekijät tietoisia apukielten historiasta?
+#### Tuntevatko pandunian tekijät apukielten historiaa?
 
 Kyllä. Tässä on tärkeimpiä asioita, mitä apukielten historiasta voi oppia.
 
@@ -122,21 +122,22 @@ Pandunia on taipumaton kieli. Mm. persoonamuodot, aikamuodot, yksikkö ja monikk
 Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen osat on erotettu toisistaan pystyviivalla.
 
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
-    Pandunia:  mi   vol    vida  tu ge   du    sundar    yen.
+    Pandunia:  mi   wol    wide  tu su   du    sundar    yen.
                Minä haluan nähdä sinun   kaksi kaunista  silmää.
 
-#### Miksi kirjain C äännetään suhu-ässänä?
+#### Miksi X-kirjain äännetään suhu-ässänä?
 
 Pandunian kirjoitus on äänteenmukaista. Perussääntö on: Yksi kirjain vastaa yhtä äännettä, ja yksi äänne vastaa yhtä kirjainta.
 
 Perinteisesti suhu-ässälle ei ole omaa kirjainta latinalaisissa aakkosissa. Kyseinen äänne eli /ʃ/ kirjoitetaan eri tavoilla eri kielissä: englannissa yleensä SH, ranskassa CH, saksassa SCH, ruotsissa SJ, puolassa SZ, suomessa ja tšekissä Š ja turkissa Ş, vain joitakin mainitaksemme.
 
-Toisaalta C-kirjain ei esitä vain yhtä äännettä vaan monia. Englannissa se on /k/ kuten sanassa _cat_, /s/ kuten sanassa _city_, /ʃ/ kuten sanassa _musician_ ja /tʃ/ kuten sanassa _cello_. Itä-Euroopan kielissä ja esperantossa C äännetään säännönmukaisesti /ts/. Turkissa C on /dʒ/. Kansainvälisessä kielessä on parasta kirjoittaa /k/ K:lla, /s/ S:llä, /ts/ TS:llä jne. Siis C-kirjain jää vapaaksi uusiokäyttöä varten!
+Kuitenkin on joukko kieliä, jotka käyttävät X-kirjainta suhu-ässän merkkinä. Se on ainoa vaihtoehto baskissa ja maltassa sekä yksi vaihtoehdoista portugalissa ja katalaanissa. Esimerkiksi sana **xampu** kirjoitetaan täsmälleen samalla tavalla portugalissa ja panduniassa. Se tarkoittaa _šampoota_.
 
-C-kirjain on vapaa ja /ʃ/ on ainoa äänne, jolle ei ole omaa, luontevaa kirjainta. Sen vuoksi panduniassa C on /ʃ/ eli suhu-ässä.
+Kiinan kielen siirtokirjoituksessa, pinyinissä, X-kirjain on /ɕ/ joka kuulostaa lähes samalta kuin /ʃ/. Panduniassa on paljon kiinasta peräisin olevia sanoja, joissa X esiintyy, mm. **xia, xim, xin** ja **xuxi**.
 
-Äänneyhdistelmä /tʃ/ (kuten englannin sanassa _match_) kirjoitetaan johdonmukaisesti kirjainyhdistelmällä TC. Myös tälle äänneyhdistelmälle ei ole vakiintunutta kansainvälistä kirjoitustapaa. Useat kirjoitustavat ovat kuitenkin periaatteessa samanlaisia yhdistelmiä kuin pandunian TC, esimerkiksi ranskan TCH, saksan TSCH, ruotsin TJ, vietnamin TR, filippiinin TS ja tietysti suomen TŠ.
+#### Miksi C-kirjain äännettään kuin CH?
 
+Maailmalla on useita kieliä, joissa C äännetään kuten TŠ eli kuten englannin CH, muiden muassa indonesia, hausa, oromo ja ruanda. Italian kielessä, kun C on ennen E:tä tai I:tä, se äännettän /tʃ/. Tämä ääntämys on tuttu sellaisista italian sanoista kuin _cello_ ja _cappuccino_.
 
 #### Eikö sanan "salam" pitäisi tarkoittaa rauhaa?
 

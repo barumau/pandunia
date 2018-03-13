@@ -143,6 +143,8 @@ birth   : jen
 birthday   : jen den  
 biscuit (cookie)   : kuki  
 blood   : sang  
+board (plank)   : ban  
+board game   : ban gem  
 boat (ship)   : bote  
 body   : badan  
 Bolivia   : bolivia  
@@ -164,6 +166,7 @@ bridge   : ponte
 Britain (UK)   : britan  
 brown (coffee-colored)   : kafe rang  
 brush   : brox  
+bubble   : bula  
 bucket   : baldi  
 Buddha   : buda  
 Buddhism   : buda din  
@@ -187,6 +190,7 @@ camera   : kamera
 can (know, be able)   : ken  
 Canada   : kanada  
 candy (sweets)   : kandi  
+cane (reed)   : kana  
 cangaroo   : kanguru  
 card   : karta  
 carrot   : karota  
@@ -365,6 +369,7 @@ fat (grease)   : futa
 father   : pa  
 fault (sin, blame, defect, guilt)   : doxa  
 fear (phobia)   : fobi  
+feather   : rixa  
 February   : mes 2 (mes du)  
 feel (emote)   : senti  
 few (little)   : xau  
@@ -378,6 +383,7 @@ Finland   : suomi
 five (5)   : lim  
 flag (banner)   : bandera  
 flower   : hua  
+foam (scum, froth)   : pena  
 fool (buffoon)   : bufon  
 force (strength)   : bala  
 foreign country   : wai gojia  
@@ -400,6 +406,7 @@ funny (amusing)   : fani
 future (coming)   : futur  
 ##g  
 gallery (exhibition hall)   : galeri  
+game   : gem  
 Ganges   : ganga  
 gas   : gas  
 gasoline (petrol)   : benzin  
@@ -437,6 +444,7 @@ graveyard   : gabra stan
 Greek (Hellenic)   : helen  
 greeting (hello)   : salam  
 grief (sorrow)   : duku  
+grow   : krese  
 guarantee   : garanti  
 Guatemala   : guatemala  
 guitar   : gitar  
@@ -456,6 +464,7 @@ have   : ha
 hazard   : hazar  
 he or she or it   : ye  
 heart   : xim  
+Hebrew   : ibri  
 hello (hi)   : halo  
 help (aid, assistance)   : mede  
 hemp (cannabis)   : ganja  
@@ -525,6 +534,8 @@ June   : mes 6 (mes sis)
 ##k  
 karate   : karate  
 key   : cabi  
+key (push-button, switch)   : botan  
+keyboard   : botan ban  
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
 king or queen   : koron xefe  
@@ -725,12 +736,14 @@ participate (attend, take part)   : canga
 party (celebration, festival)   : parti  
 pascal (Pa)   : paskal  
 pass (go by, go past)   : pasa  
+past (former)   : pase  
 paste   : pasta  
 path (track, trail)   : pata  
 peace (calm)   : xanti  
 pen   : kalam  
 penguin   : penguin  
 penis   : penis  
+peony   : mudan  
 people (society)   : demo  
 pepper   : piper  
 Persian (Farsi)   : farsi  
@@ -897,6 +910,7 @@ spider   : jiju
 spirit (soul, mind)   : ruhu  
 spit   : tuku  
 spoon   : canca  
+sport (athletics)   : kela  
 square (plaza)   : maidan  
 Sri Lanka   : lanka  
 star   : tara  
@@ -964,7 +978,6 @@ three (3)   : san
 thunder (roaring)   : grom  
 Thursday   : war 4 (war car)  
 ticket   : tike  
-time (moment)   : wakat  
 time (moment)   : zaman  
 tiny (mini-)   : mini  
 to (till, until, for)   : do  

@@ -1,7 +1,7 @@
 pandunio - simpla mondlingvo
 ============================
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flago")
+![](http://www.pandunia.info/bandera/bandera.png "Pandunia flago")
 
 ## Kio estas pandunio?
 

@@ -64,7 +64,7 @@ Pandunia uses the names that the people use to refer to themselves or their coun
 > **nipon** - Japan (Nippon)  
 > **jungo** - China (Zhōngguǒ)  
 > **misri** - Egypt (Misr)  
-> **naidjiria** - Nigeria (Naijiria)  
+> **naija** - Nigeria (Naijiria, Naija)  
 
 The country name can be different than the names of the peoples or ethnic groups that inhabit it.
 
@@ -73,9 +73,9 @@ The country name can be different than the names of the peoples or ethnic groups
     - **skot** - Scot
     - **kemri** - Welsh (Cymru)
 - **rusia** - Russia
-    - **ruski** - Russian
+    - **rus** - Russian
     - **tatar** - Tatar
-    - **backor** - Bashkir
+    - **baxkor** - Bashkir
 
 The word for inhabitants of the country is country name + **ren** (person).
 
@@ -85,16 +85,16 @@ The word for inhabitants of the country is country name + **ren** (person).
 
 The name of a language is the name of the ethnic group + **bax** (language).
 
-> **englix bax** - English (language)  
-> **kemri bax** - Welsh (language)  
-> **ruski bax** - Russian (language)
+> **englix baxa** - English (language)  
+> **kemri baxa** - Welsh (language)  
+> **rus baxa** - Russian (language)
 
 
 ## Types of people
 
 **Guru** denotes a master or an expert in a field.
 
-> **darse guru** - teacher (master of learning)  
+> **darsa guru** - teacher (master of learning)  
 > **din guru** - priest (master of religion)  
 > **kadi guru** - judge (master of justice)  
 
@@ -110,7 +110,7 @@ The name of a language is the name of the ethnic group + **bax** (language).
 **Kan** denotes a place for public activities.
 
 > **darsa kan** - school (learning place)  
-> **kitab kan** - library (scripture place)  
+> **kitaba kan** - library (scripture place)  
 > **kafe kan** - café (coffee place)  
 
 Also **kaban** (booth) can be used
@@ -121,9 +121,24 @@ Also **kaban** (booth) can be used
 Fields of science usually end in **loji** (study).
 
 > **tekne loji** - technology (study of techniques)  
-> **fizik loji** - physics (study of the physical)  
+> **fizi loji** - physics (study of the physical)  
 > **jiwa loji** - biology (study of life)  
 > **bumi loji** - geology (study of the ground)  
 > **dewa loji** - theology (study of the god(s))  
+
+
+## Years, months and days
+
+Pandunia uses the international standard (ISO 8601) as the default system of expressing the date.
+
+The date format is YYYY-MM-DD. For example the date of writing this is 2018-02-21. It is said in Pandunia **nen 2018 mes 2 dia 21.
+
+"iso mes un" (ISO month 1)?
+"gregor mes un" (Gregorian month one)
+islam mes noi = Ramadan
+
+We can say like this: iso nen 2018. Or "putong nen 2018" because that's the universal way to mark years.
+bahai u baha nen 175?
+
 
 

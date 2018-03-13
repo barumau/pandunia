@@ -55,6 +55,8 @@ balbu : valve (tap, faucet)
 baldi : bucket  
 bama : Myanmar (Burma)  
 bambu : bamboo  
+ban : board (plank)  
+ban gem : board game  
 bana : build (construct)  
 banana : banana  
 banda : band (bandage)  
@@ -113,6 +115,8 @@ bolgar : Bulgaria
 bolivia : Bolivia  
 bomba : bomb  
 bon : good  
+botan : key (push-button, switch)  
+botan ban : keyboard  
 bote : boat (ship)  
 botol : bottle  
 boton : button  
@@ -126,6 +130,7 @@ bufon : fool (buffoon)
 buking : booking (reservation)  
 buku : book  
 buku fen : chapter (section)  
+bula : bubble  
 bumi : earth (ground, soil)  
 bumi grafi : geography  
 bunduki : gun (handheld firearm)  
@@ -295,6 +300,7 @@ gau : high
 gayana : Guyana  
 gazel : gazelle  
 geliza : church  
+gem : game  
 genca : examine (inspect, check)  
 gida : steer  
 giga : billion (giga-)  
@@ -368,6 +374,7 @@ hura : cheer (hooray)
 ##i
 
 i : and  
+ibri : Hebrew  
 ici : will (volition, desire)  
 idea : idea  
 ifu : clothing  
@@ -448,6 +455,7 @@ kamar : room (chamber)
 kambudia : Cambodia  
 kamera : camera  
 kamiza : shirt  
+kana : cane (reed)  
 kanada : Canada  
 kanal : channel  
 kandi : candy (sweets)  
@@ -473,6 +481,7 @@ ke xe : what thing?
 ke yang : how?  
 ke zaman : when?  
 keki : cake (cookie)  
+kela : sport (athletics)  
 kelele : noise  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
@@ -508,6 +517,7 @@ kosta : shore (coast, beach)
 kote : coat  
 krati : rule (reign)  
 krema : cream  
+krese : grow  
 krime : crime  
 kriste : Christ  
 kriste jen : Christmas  
@@ -659,6 +669,7 @@ mono krati : monarchy
 mosim : season  
 moskito : mosquito  
 motor : engine (motor)  
+mudan : peony  
 muka : face  
 mula : beginning  
 mumia : mummy  
@@ -744,10 +755,12 @@ paraguai : Paraguay
 parda : curtain  
 parti : party (celebration, festival)  
 pasa : pass (go by, go past)  
+pase : past (former)  
 paskal : pascal (Pa)  
 pasta : paste  
 pata : path (track, trail)  
 paxi : suffer (hurt)  
+pena : foam (scum, froth)  
 penguin : penguin  
 penis : penis  
 pensa : think  
@@ -810,6 +823,7 @@ ren : person (people)
 restoran : restaurant  
 risko : risk  
 ritme : rhythm (beat)  
+rixa : feather  
 robo : robot  
 roketa : rocket  
 roma : Rome  
@@ -977,7 +991,6 @@ wadi : valley
 waha : oasis  
 wai : outside (exterior)  
 wai gojia : foreign country  
-wakat : time (moment)  
 walse : waltz  
 war : day of the week  
 war 1 (war un) : Monday  

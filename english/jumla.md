@@ -602,17 +602,17 @@ Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **ji
 ## Part 5. Doing business
 
 
-### da <small>give</small>
+### dar <small>give</small>
 
-**cing da pesa.** Please give some money.
+**cing dar pesa.** Please give some money.
 
-**cing da ye do mi.** Please give it to me.
+**cing dar ye do mi.** Please give it to me.
 
-**mi da sa do tu.** I give this to you.
+**mi dar sa do tu.** I give this to you.
 
-**mi da buku do yemen.** I give a book to them.
+**mi dar buku do yemen.** I give a book to them.
 
-**ye no wol da ye do mi.** He/she doesn't want to give it to me.
+**ye no wol dar ye do mi.** He/she doesn't want to give it to me.
 
 
 <!--
@@ -628,9 +628,9 @@ Tip: It is also okay to say "tu jia na ke?" instead of "tu jia ke". However **ji
 
 ### mai <small>commerce</small>
 
-Tip: Buying and selling a compound words: **mai da** means _to sell_ and **mai kap** means _to buy_.
+Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai kap** means _to buy_.
 
-**yemen mai da tot.** They sell everything.
+**yemen mai dar tot.** They sell everything.
 
 **mi kap un bir.** I will take a beer.
 
@@ -641,7 +641,7 @@ Tip: Buying and selling a compound words: **mai da** means _to sell_ and **mai k
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira da kamar do biznes ren.** He/she rents rooms to business people.
+**ye kira dar kamar do biznes ren.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -769,7 +769,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
-**tu** you <small>(Tamil _nī_ நீ)</small>  
+**tu** you <small>(Spanish _tu_)</small>  
 **tumen** you all  
 **u** or <small>(French _ou_)</small>  
 **wang** yellow <small>(Cantonese _wong_)</small>  

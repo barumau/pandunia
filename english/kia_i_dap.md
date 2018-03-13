@@ -71,17 +71,11 @@ A worldlang is a constructed interlanguage that borrows its words, speech sounds
 - The vocabulary of Pandunia is evenly global. It consists of Western (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian words. Many other auxiliary languages use only or mostly Western words, which is not ideal for the world language in our opinion.
 - Internationality is the main criterion for selecting words to Pandunia. All the words of Pandunia are known by many nations in some part of the world.
 - The grammar of Pandunia is concise but very flexible. Pandunia has only a few grammatical structures, which are re-used over and over again.
-- Pandunia is a truly neutral language. It's not meant to imitate any languages, whereas for example Esperanto, Ido and Interlingua are intentionally close to the European languages.
+- Pandunia is a truly neutral language. It's not meant to imitate any languages, whereas for example Esperanto, Ido and Interlingua are intentionally similar to the European languages.
 
+#### Did Esperanto contribute to the birth of Pandunia?
 
-#### Did Esperanto and its kind influence Pandunia?
-
-Yes, with a limited effect.
-
-Esperanto has an ingenious system for marking parts of speech (PoS) with vowel endings. In Esperanto nouns end in -o, adjectives end in -a, verbs in -i and adverbs in -e. (These are the dictionary forms. Some of them are inflected in actual use.) Similar PoS marking systems are used in the offshoots of Esperanto. Most notable offshoots are Ido and Novial. In Novial the endings are different: nouns end in -e or -um, adjectives in -i, verbs in -a and adverbs in -men. Almost all words were marked with the part of speech markers in Esperanto and its kind.
-
-Pandunia is different. It has part of speech markers for the noun, the verb and the adjective, but they are not always required. For example, when the root word is an adjective, it doesn't need the adjectival ending. Moreover, the endings are never inflected in Pandunia. So Pandunia is, in its core, a completely different type of language.
-
+At first Esperanto was an important source of inspiration. However the influence of Esperanto to the final language is insignificant. Pandunia has very different structure and vocabulary compared to Esperanto.
 
 #### Are the makers of Pandunia aware of the history of the IAL movement?
 
@@ -119,9 +113,9 @@ Pandunia is an isolating language. It uses separate words to express things like
 
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
-    Esperanto: Mi pov|as vid|i du  bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi ken    wide  du  sundar    yen        nun.
-               I  can    see   two beautiful eyes       now.
+    Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
+    Pandunia:  mi wol     wide   tu su     du  sundar     yen         nun.
+               I  want to see    your      two beautiful  eyes        now.
 
 
 #### Why is the letter X pronounced like SH?
@@ -132,7 +126,7 @@ Traditionally there isn't any dedicated letter for /ʃ/ in the Latin alphabet. T
 
 However, there is a handful of languages that use the letter X for /ʃ/. Basque and Maltese do it without exception. Portuguese and Catalan are less consistent, but X stands for /ʃ/ frequently. Pandunia word **xampu** is written exactly the same as in Portuguese. It means _shampoo_.
 
-In the Chinese romanization systen, Pīnyīn, the letter X stands for /ɕ/ which is close to /ʃ/. Pandunia has many words with X from Chinese, for example **xia, xim** and **xin**.
+In the Chinese romanization systen, Pīnyīn, the letter X stands for /ɕ/ which is close to /ʃ/. Pandunia has many words with X from Chinese, for example **xia, xim, xin** and **xuxi**.
 
 
 #### Why is the letter C pronounced like CH?

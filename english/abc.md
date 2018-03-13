@@ -119,6 +119,7 @@ Initial consonants are restricted to:
 2. Stop + liquid
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
+3. ny
 
 Middle consonant clusters are restricted to:
 

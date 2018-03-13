@@ -148,7 +148,7 @@
 **lai** 来 <small>(越南语 _lai_)</small>  
 **mama** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
 **man** 男人 <small>(英语 _man_)</small>  
-**mana** 意义 <small>(斯瓦希里语 _maana_)</small>  
+**mani** 意义 <small>(斯瓦希里语 _maana_)</small>  
 **mi** 我 <small>(英语 _mi_)</small>  
 **mede** 帮助 <small>(法语 _aider_)</small>  
 **mimen** 我们  
