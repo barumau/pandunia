@@ -238,7 +238,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi si sara da doste.** I am Sara's friend.
 
-<small>Etymology. **da** is from Mandarin: 的 /də/.</small>
+<small>Etymology. **da** is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
 
 
 

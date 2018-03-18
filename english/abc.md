@@ -103,8 +103,8 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **mi wide tu :)** = I see you.  
-> **mi no wide tu :(** = I don't see you.
+> **mi wida tu :)** = I see you.  
+> **mi no wida tu :(** = I don't see you.
 
 
 ## Word structure
