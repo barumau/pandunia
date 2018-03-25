@@ -443,9 +443,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu loga ke?** What did you say?
 
-**mi loga to tu.** I talk to you.
+**mi loga ko tu.** I talk to you.
 
-**mimen loga to bici.** We talk to each other.
+**mimen loga ko bici.** We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
@@ -526,7 +526,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi mus enda ke?** Where should I go?
 
-**mi mus enda to ke ren?** To whom should I go?
+**mi mus enda ko ke ren?** To whom should I go?
 
 **haida enda!** Let's go!
 
@@ -551,7 +551,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **kia tu safara na tren?** Do you travel by train?
 
-**mimen safara ze london to paris.** We travel from London to Paris.
+**mimen safara ze london ko paris.** We travel from London to Paris.
 
 **safar multi long.** The voyage is very long.
 
@@ -606,13 +606,13 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dona pesa.** Please give some money.
 
-**cing dona ye to mi.** Please give it to me.
+**cing dona ye ko mi.** Please give it to me.
 
-**me dona si to tu.** I give this to you.
+**me dona si ko tu.** I give this to you.
 
-**mi dona buke to yemen.** I give a book to them.
+**mi dona buke ko yemen.** I give a book to them.
 
-**ye no wol dona ye to mi.** He/she doesn't want to give it to me.
+**ye no wol dona ye ko mi.** He/she doesn't want to give it to me.
 
 
 
@@ -620,7 +620,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **mi toma un kafe.** I will take a coffee.
 
-**cing toma un kafe to mi.** Please take one coffee for me.
+**cing toma un kafe ko mi.** Please take one coffee for me.
 
 **tu ja toma pesa ze mi.** You already got money from me.
 
@@ -642,7 +642,7 @@ Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai 
 
 **mi wol kira kap un gar.** I want to rent a car.
 
-**ye kira dar kamar to biznes jen.** He/she rents rooms to business people.
+**ye kira dar kamar ko biznes ren.** He/she rents rooms to business people.
 
 Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
@@ -749,6 +749,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
+**ko** to, until <small>(Hindi _-को_ ko)</small>  
 **lay** come <small>(Vietnamese _lai_)</small>  
 **ma** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
@@ -769,7 +770,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **si** this; that</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
-**to** to, until <small>(Russian _do_ до)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tu** you <small>(Spanish _tu_)</small>  
 **tumen** you all  
