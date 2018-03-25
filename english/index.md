@@ -21,7 +21,7 @@ Note: Pandunia is a constructed language that is under construction. The structu
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Spelling](abc.md)
-- [Phrasebook](jumla.md)
+- [Phrasebook](fraze.md)
 - [Grammar](baxa_kanun.md)
 - [Lessons with Dialogs](darse.md)
 
@@ -31,7 +31,7 @@ Note: Pandunia is a constructed language that is under construction. The structu
 
 ## Articles
 
-- [Pandunia - a new world pidgin](dunia_pijin.md)
+- [Pandunia - a new world language](dunia_baxe.md)
 - [Presentation in PDF format](Pandunia-presentation.pdf)
 - [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (an article in Interlinguistica Tartuensis 10)
 - [Why do I like Pandunia?](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinions from learners

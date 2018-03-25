@@ -5,7 +5,7 @@
 
 [Info]()
 
-  * [Introduction](dunia_pijin.md)
+  * [Introduction](dunia_baxe.md)
   * [Principles](filsofi.md)
   * [World words](loga.md)
   * [Questions & Answers](kia_i_dap.md)
@@ -14,7 +14,7 @@
 [Lessons]()
 
   * [Spelling](abc.md)
-  * [Basic Phrases](jumla.md)
+  * [Basic Phrases](fraze.md)
   * [Word by word](loga_na_loga.md)
   * [Course](darse.md)
 
