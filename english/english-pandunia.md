@@ -147,6 +147,7 @@ boat (ship)   : bote
 body   : badan  
 Bolivia   : bolivia  
 bomb   : bomba  
+bone (skeleton)   : hadi  
 book   : buku  
 booking (reservation)   : buking  
 border (edge, rim, fringe)   : kenar  

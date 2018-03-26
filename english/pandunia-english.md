@@ -327,6 +327,7 @@ guru : guru (mentor)
 
 ha : have  
 habar : news  
+hadi : bone (skeleton)
 haha : laugh  
 hai : still (yet)  
 haide : let's  
