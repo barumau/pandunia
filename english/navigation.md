@@ -15,12 +15,10 @@
 
   * [Spelling](abc.md)
   * [Basic Phrases](fraze.md)
-  * [Word by word](loga_na_loga.md)
   * [Course](darse.md)
 
 [Words]()
 
-  * [Common words](putong_loga.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)

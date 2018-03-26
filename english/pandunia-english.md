@@ -1,396 +1,615 @@
-
 ##a
 
 a : but  
+ada : have  
 adres : address  
+adresur : addressee  
+adu : belong  
+adulte : adult  
 afrika : Africa  
+afrikan : African  
+agres : agression (assault)  
 aha : understand (realize)  
 ai : ouch! (alas!)  
-aiti : Haiti  
+ais : ice  
+aisi : icy  
 ajil : agile  
-akil : reason (rational thinking)  
 akse : axis (axle)  
+akta : act (play a role)  
+aktar : actor (actress)  
+akte : act (scene)  
 aku : parrot (parakeet)  
+alah : God (Allah)  
 alkol : alcohol  
+alkoli : alcoholic  
 almari : cupboard (closet, cabinet, wardrobe)  
 almas : diamond  
 alter : other  
+altera : change (alter)  
 alu : potato  
-ama : love (affection)  
 amen : agreement (amen)  
+amena : affirm (agree, concur)  
 amerika : America (continent)  
+amerikan : American  
+amor : love (affection)  
 amper : ampere  
 amuk : rage (fury)  
 analis : analysis  
+analisa : analyse  
+anima : animate  
 anime : animation (cartoon)  
 anjil : gospel  
+anma : spirit (soul)  
 antena : antenna  
 anus : anus  
+anusi : anal  
 ara : saw tool  
 arabi : Arabic  
-aranji : orange (fruit)  
-aranji rang : orange color  
+aranje : orange (fruit)  
+aranji : orange (orange-colored)  
+arbuz : watermelon  
+arena : arena (stadium)  
 arhentina : Argentina  
+armia : army  
+artar : artist  
 arte : art  
 asan : posture (asana)  
 asia : Asia  
+asian : Asian  
+asket : ascetic  
+asle : origin  
+asli : original  
 asma : asthma  
 aspirin : aspirin  
-ataka : attack  
+ata : flour  
+atake : attack  
 atom : atom  
+auda : hear (listen)  
 australia : Australia  
 awaka : avocado  
+awar : damage (wreck)  
+ayiti : Haiti  
 
 ##b
 
-ba : eight (8)  
-baca : child (offspring)  
+babe : chapter (section)  
+bace : child (offspring)  
+bada : follow (come after)  
+badala : exchange (swap, replace)  
 badam : almond  
 badan : body  
+badani : bodily (corporal)  
 badawi : bedouin (nomadic)  
-badila : exchange (swap, replace)  
-bai : white  
-bala : force (strength)  
-balbu : valve (tap, faucet)  
-baldi : bucket  
+bade : consequence (follow-up)  
+bagaje : luggage (baggage)  
+bal : strong  
+balde : bucket  
+bale : force (strength)  
+balkon : balcony (porch)  
 bama : Myanmar (Burma)  
-bambu : bamboo  
-ban : board (plank)  
-ban gem : board game  
 bana : build (construct)  
 banana : banana  
-banda : band (bandage)  
-bandera : flag (banner)  
+banda : tie (fasten, bind)  
+bande : band (bandage)  
+bander : flag (banner)  
 bangla : Bangladesh (Bengal)  
-banya : bath  
-banya kamar : bathroom  
+banka : save (deposit, bank)  
+banya : bathe  
+banye : bath  
+banye kamer : bathroom  
 bar : bar (pub)  
 bara : bar (obstruct)  
 barbar : barbarian  
+barda : beard  
+bari : big  
+barir : barrier  
 barka : congratulate (bless)  
-barti : India  
+barti : Indian  
+bartia : India  
 baru : bear  
-barud : gunpowder  
+barude : gunpowder  
 bas : enough (sufficient)  
 basen : pool (basin)  
 basket : basket  
+bat : eight (8)  
 bata : duck  
 batakrot : platypus  
 batata : yam (sweet potato)  
 bateri : battery  
 baton : bar (rod, stick)  
 batu : stone  
-baxa : language (communication)  
-baxa loji : linguistics  
+bax : language (communication)  
+bax lojia : linguistics  
+baxa : speak (communicate)  
+bay : white  
 bazar : market (bazaar)  
 baze : base (foundation)  
+bazi : basic  
 be : without  
 bebe : baby (darling)  
-bede : bed  
+bed : bed  
 bedinjan : eggplant (aubergine, brinjal)  
-bei : suffer (passivizing verb)  
 beijing : Beijing (Peking)  
+beka : bake  
+bekar : baker  
+bekaria : bakery  
 belarus : Belarus  
 belgi : Belgium  
 belize : Belize  
+benci : bench  
 beng : sick (ill)  
 benzin : gasoline (petrol)  
 beranda : veranda (porch)  
 beret : beret  
-beri : wolf  
+beria : wolf  
+bet : house  
 beton : concrete (material with cement)  
+bey : suffer (passivizing verb)  
 biblia : Bible  
 bin : vase (pot, bin, jar, jug)  
-bindi : okra (gumbo)  
-bindu : dot (spot)  
+binde : dot (spot)  
 bir : beer  
+bis : kiss  
+biskut : biscuit (cookie)  
+bizar : odd (strange, weird)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
 biznes ren : businessperson (businessman)  
 blabla : chat (babble)  
-blabla kamar : chat room  
+blable kamer : chat room  
+bobo : fool (idiot)  
+boikot : boycott  
 boka : mouth  
-bola : ball  
-bolgar : Bulgaria  
+bol : ball  
+bolgaria : Bulgaria  
 bolivia : Bolivia  
-bomba : bomb  
+bombe : bomb  
 bon : good  
-botan : key (push-button, switch)  
-botan ban : keyboard  
-bote : boat (ship)  
+bora : drill (bore)  
+bot : boat (ship)  
 botol : bottle  
 boton : button  
 brazil : Brazil  
 britan : Britain (UK)  
 brox : brush  
-buda : Buddha  
-buda din : Buddhism  
-budi : intelligence (understanding)  
+bud : realization (awareness, enlightenment, bodhi)  
+bud din : Buddhism  
+buda : intelligence (understanding)  
+budan : Mercury  
+budi : aware (enlightened)  
 bufon : fool (buffoon)  
+bujet : budget  
+buk : book  
 buking : booking (reservation)  
-buku : book  
-buku fen : chapter (section)  
-bula : bubble  
-bumi : earth (ground, soil)  
-bumi grafi : geography  
-bunduki : gun (handheld firearm)  
+bula : forget  
+bunduk : gun (handheld firearm)  
 bus : bus  
+buton : key (push-button, switch)  
+buton paban : keyboard  
 buyu : baobab  
 
-##c 
+##c
 
 ca : tea  
+ca wan : tea bowl  
 cabi : key  
+cabuk : whip (lash)  
+cakra : wheel  
 caku : knife  
-canca : spoon  
-canga : participate (attend, take part)  
+camca : spoon  
+campion : champion  
+candi : silver  
+cang : often (frequently)  
+cans : opportunity (chance)  
+cap : press (stamp)  
 capa : press (imprint)  
 car : four (4)  
-cata : roof  
-caya : shadow  
+cat : roof  
+caye : shadow  
+ce : what? (which?)  
+ce yang? : how?  
+ceka : check (to examine)  
 celo : cello  
-ci : seven (7)  
-ci war : week  
-ciki : porcelain (china)  
+centi : centi- (per cent)  
+ceski : Czech  
 cile : Chile  
 cili : bell pepper  
 cimpanzi : chimpanzee  
 cincila : chinchilla  
 cing : ask (request; please)  
-cing lai : invite  
-ciri : bird  
+cing lay : invite  
+cing lay in! : Come in!  
+cip : Albania  
 cis : cheese  
 cita : quote  
 coda : fuck (copulate)  
-cokola : chocolate  
-cokola baton : chocolate bar  
+cok : many (much)  
+cokolet : chocolate  
+cokolet baton : chocolate bar  
+corab : sock (stocking)  
+cud : exit (leaving)  
+cud mun : exit door  
+cuda : leave (go out, exit)  
 cuka : vinegar  
+cun : choice (selection)  
+cuna : choose (select)  
 cupa : suck  
-curi : theft (steal)  
+cur : theft (steal)  
+cura : steal  
+curar : thief  
 
 ##d
 
-dai : big  
+da : s (particle of possession)  
+dab : answer (reply, response)  
+daba : respond (give an answer)  
+dado : die (dice)  
+daftar : register  
+daixi : ambassador  
+daixi kan : embassy  
 dama : checkers  
 dane : grain (seed)  
+danka : thank  
 danke : thanks (thank you)  
+danmark : Denmark  
 dante : tooth  
-dar : give  
-darma : duty (prescribed conduct)  
-darsa : lesson  
-darsa baca : student (pupil)  
-darsa guru : teacher  
-dau : way (road)  
-dawa : medicine (drug)  
-dawa kan : drugstore (pharmacy)  
-de : of (particle of possession)  
-demo : people (society)  
-demo grafi : demography  
-demo krati : democracy  
+dante brox : tooth brush  
+dante doktar : dentist  
+darba : strike (punch)  
+daria : sea (ocean)  
+darme : dharma (piety)  
+darmi : pious  
+darsa : learn (study)  
+darse : lesson  
+darse bace : student (pupil)  
+darse guru : teacher  
+darse kan : school (institution)  
+daw : way (road)  
+dawe : medicine (drug)  
+dawe kan : drugstore (pharmacy)  
+deci : deci-  
+dem : point (spot)  
+demokrati : okra (gumbo)  
+demokratia : democracy  
 demon : demon  
 den : day (daytime)  
-den nyam : lunch  
-den salam : Good day  
-deng : wait  
+den nyame : lunch  
+denga : wait  
 des : ten (10)  
 desen : drawing (picture)  
 detal : detail  
-dewa : god (deity)  
-dewa kisa : myth (divine story)  
-dewa loji : theology  
+dew : god (deity)  
+dew lojia : theology  
+dewi : divine (godly)  
+dewi sage : myth (divine story)  
+dex : country (land)  
 deya : village  
 deya stan : countryside  
-dia : 24 hours ("day")  
+dian : attention (focus)  
 din : religion (worship)  
 din guru : priest (cleric)  
 ding : nail (spike)  
 diske : disc (disk)  
-dixa : direction  
-do : to (till, until, for)  
+do : two (2)  
 doice : German  
-doktor : doctor (physician, healer)  
+dokta : heal (cure)  
+doktar : doctor (physician, healer)  
 dolar : dollar  
-dom : house  
+dom : home (residence)  
+doma : live (dwell, reside)  
 dominika : Dominican Republic  
 domino : dominoes  
+don : gift  
+dona : give  
 dong : east  
+doste : friend  
+dosti : friendly  
+dostia : friendship  
 dou : bean or pea (legume)  
-doufu : tofu  
-doxa : fault (sin, blame, defect, guilt)  
+dox : fault (sin, blame, defect, guilt)  
+doxi : guilty  
 doze : portion (dose)  
-du : two (2)  
-dua : pray  
+drama : drama  
+drog : drug (intoxicating substance)  
+du : of (particle of possession)  
 duan : short (not long)  
 duga : read  
-duku : grief (sorrow)  
-duli : dust  
+duk : grief (sorrow)  
+duka : grieve  
+dul : dust  
+dum : tail  
 duman : smoke  
 duna : dune  
 dunia : world  
-dunia baxa : world language  
-dura : duration  
-duxa : shower  
+dunia bax : world language  
+dunial : global  
+dur : duration  
+dura : last (take time)  
+duwa : pray  
+duwe : prayer  
+dux : shower  
+dzayer : Algeria  
 
 ##e
 
-e : be  
 egal : equal (fair)  
+eglis : church  
 eho : echo  
-eko : environment  
-eko loji : ecology  
+ekran : screen  
+ekuador : Ecuador  
+el : the  
+elektre : electricity  
+elektron : electron  
+enda : go  
 energi : energy  
 englix : English  
+eni : any (no matter which)  
 eris : Eris (dwarf planet)  
 eritra : Erithrea  
+es : be (exist as)  
+ese : being (existence)  
 espanya : Spain  
 esti : Estonia  
+esu : exist  
 eurasia : Eurasia  
 eureka : find (discover)  
 euro : euro  
 europa : Europe  
-europa unia : European Union (EU)  
+europan : European  
+europan unia : European Union (EU)  
 
 ##f
 
-faida : use (utility, benefit, gain, advantage)  
+faide : use (utility, benefit, gain, advantage)  
+faidi : useful (beneficial)  
+fain : fine (delicate)  
 fajan : development  
+fakta : make (create)  
+faktar : maker (creator, factor)  
+faktaria : factory  
+fakte : creation (fact)  
+faktur : creature (created)  
 famil : family  
 famil nam : surname (family name)  
-fan : fan (admirer)  
+fan : fun (amusement)  
 fani : funny (amusing)  
-fantazi : fantasy (imagination)  
+fantas : fantasy (imagination)  
+fantasa : fantasize  
+fantasi : fantastic (imaginary)  
 fantom : ghost (fantom)  
+fanus : lantern  
+far : far  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
 fas : surface  
+fasin : fascination  
+faxe : bundle  
+faxisme : fascism  
+faxiste : fascist  
+fay : fire  
+feber : fiever  
+fek : feces (poop)  
+feka : defecate  
+fem : female  
+fem ban : daughter  
+fem raje : queen  
 fen : part (fraction)  
+fena : divide (to partition)  
+fer : iron  
+festa : celebrate (party)  
+feste : party (celebration, festival)  
+fet : fat (grease)  
+feti : fatty (greasy)  
+feya : fly  
 figur : figure (representation)  
+fiksa : fix (attach)  
+file : line (row)  
 filme : film  
-filsofi : philosophy  
-filter : filter  
-fizi : physics  
-fizi guru : physicist  
-fobi : fear (phobia)  
+filsofar : philosopher  
+filsofi : philosophic  
+filsofia : philosophy  
+filtar : filter  
+fin : end  
+fina : finish (put an end to)  
+final : last (final)  
+finger : finger (toe)  
+finger wen : finger ring  
+fini : finished  
+fix : fish  
+fizik : physics  
+fizikia : physics  
+fizikir : physicist  
+fobe : fear (phobia)  
+fokus : focus (concentration)  
+fokusa : concentrate  
+fone : phone (speech sound)  
+foneme : phoneme  
+fong : wind  
+fonga : blow  
+forke : fork  
+forme : form (shape)  
 forum : forum  
-foto grafi : photograph  
-franse : France  
+fos : pit (excavation)  
+fosa : dig (excavate)  
+fosfor : phosphorus  
+foto : photograph  
+frans : France  
+fu : bah! (yuck!)  
 fubu : belly (abdomen)  
+fuk : clothing  
+fuka : wear clothes  
+ful : full  
+fula : fill  
 fulan : some (indefinite, indeterminate)  
-funci : function (work)  
+funca : function (work)  
+funge : mushroom (fungus)  
 furet : polecat (ferret)  
-futa : fat (grease)  
-futur : future (coming)  
-    
+
 ##g
-    
-gabra : grave (tomb)  
-gabra stan : graveyard  
-gada : donkey (ass)  
+
+gabre : grave (tomb)  
+gabre stan : graveyard  
 gaja : elephant  
-galeri : gallery (exhibition hall)  
-gali : street  
+galeria : gallery (exhibition hall)  
+gama : marry  
 gamel : camel  
-gami : marriage (matrimony)  
-gana : song  
+gami : married  
+gamia : marriage (matrimony)  
+gan : song  
+gana : sing  
+gang : just (recently)  
 ganga : Ganges  
 ganja : hemp (cannabis)  
-garanti : guarantee  
+ganya : earn (gain)  
+gar : car (cart)  
+garante : guarantee  
+gardin : garden  
+garmi : warm  
 gas : gas  
-gau : high  
+gaun : dress (gown)  
+gaw : high  
 gayana : Guyana  
+gaze : gauze  
 gazel : gazelle  
-geliza : church  
+gazet : magazine (journal, gazette)  
 gem : game  
+gema : play a game  
+gemar : player (gamer)  
+gen : root  
 genca : examine (inspect, check)  
+geta : get (receive, obtain, take)  
 gida : steer  
 giga : billion (giga-)  
+gim : gold  
 gitar : guitar  
 glas : glass  
-go : go  
-go salam : farewell  
-gojia : country (land)  
+glute : glue  
+gluten : gluten  
 gol : goal  
-gomi : rubber  
-gora : kola tree  
+gola : throat (gullet)  
+gom : rubber  
+gon : past (former)  
 goro : pig  
 goro nyam : pork  
 goton : cotton  
-grafi : depiction (graph)  
+graf : depiction (graph)  
+grafa : depict (describe, illustrate)  
+grafem : grapheme  
+grafi : graphic (descriptive)  
 gram : gram  
+grandi : big  
+grandu : grow (get bigger)  
 gras : grass  
+grimas : grimace  
 grom : thunder (roaring)  
-gua : gourd (pumpkin, cucumber, melon)  
-guanxi : relationship (association, connection)  
+grup : group  
+gua : cave  
+guang : light (illumination)  
+guanxe : relationship (association, connection)  
 guatemala : Guatemala  
 gubu : hippopotamus  
-guha : cave  
-gui : fiend (evil spirit)  
-guma : drum  
+gun : quality (attribute, property, characteristic, -ness)  
 gung fu : kung fu  
 guru : guru (mentor)  
+gusta : taste (sense flavor)  
+guste : taste (flavor)  
+gustu ka : taste like  
+gut : bone  
 
 ##h
 
-ha : have  
-habar : news  
+haber : news  
+haber gazet : newspaper (gazette)  
 haha : laugh  
-hai : still (yet)  
-haide : let's  
-haki : right (justification, privilege)  
+hak : right (justification, privilege)  
+hakim : judgment (sentence)  
+hakim guru : judge (referee)  
+hali : empty  
+halif : caliph  
 halo : hello (hi)  
+halos : halo  
 hamak : hammock  
-hamer : hammer  
+hamar : hammer  
 hamir : yeast  
 hanguk : South Korea  
-harmoni : harmony  
+haos : chaos (disorder, turmoil)  
+harab : bad (ruined, spoiled)  
+harmoni : harmonius  
+harmonia : harmony  
 has : special (distinct)  
 hata : even (intensifier)  
 hatar : danger (peril)  
+hatari : dangerous  
 hawa : air  
+hay : still (yet)  
+hayda : let's  
 hazar : hazard  
+hazari : random  
+hazin : treasure (treasury)  
 he : huh? (pardon?)  
 helen : Greek (Hellenic)  
+helmet : helmet  
 hem : hmm  
-hema : tent  
+hema : ponder (think)  
 hen : hate  
 hero : hero  
+heroi : heroic  
 hewan : animal  
+hibride : hybrid (mongrel)  
 hima : snow  
-hima duna : snow drift  
 hima rose : frost  
 himalia : Himalayas  
-histori : history (annals)  
-hobi : hobby  
-hoki : hockey  
-honduras : hundred (100)  
+hindu : Hindu  
+hisab : calculation (arithmetic, computation)  
+hisaba : calculate  
+histor : history (annals)  
+historar : historian  
+historia : history (study of history)  
+hobe : hobby  
+hoke : hockey  
+hon : hundred (100)  
 honduras : Honduras  
 hor : hour  
 hormon : hormone  
+horvat : Croatia  
 hotel : hotel  
 hua : flower  
 hua bin : vase (flower pot)  
+huli : fox  
+humus : chickpea  
+humus sos : hummus  
 hura : cheer (hooray)  
 
 ##i
 
 i : and  
 ibri : Hebrew  
-ici : will (volition, desire)  
+ice : will (volition, desire)  
 idea : idea  
-ifu : clothing  
+ideal : ideal (optimal)  
+idealisme : idealisme  
 igen : opinion (view)  
+iha : donkey (ass)  
+impera : reign (rule as an emperor)  
+imperar : emperor  
+imperia : empire  
+in : inside (interior)  
+indika : point (indicate)  
 indonesia : Indonesia  
-info : information  
-ingai : should (ought)  
+informa : inform (communicate)  
+informe : information  
+ingay : should (ought)  
+injenar : engineer  
 inji : ginger  
-insan : human being  
+inspira : inspire (inspiration)  
+inter : between  
 interes : interest (interesting)  
 inxala : hope (wish)  
 irak : Iraq  
 iran : Iran  
-isker : left (left hand side)  
 islam : Islam  
-islam mes 9 : Ramadan  
+islami : Islamic  
+islandia : Iceland  
 israel : Israel  
 italia : Italy  
 itiopia : Ethiopia  
@@ -400,38 +619,61 @@ izi : easy
 
 ja : already (-ed)  
 jadi : if (suppose, assume)  
-jake : jacket  
+jaket : jacket  
+jala : burn (cause to burn)  
+jalu : burn (be burned)  
+jama : collect (gather, bring together)  
 jameika : Jamaica  
-jami : collect (gather, bring together)  
+jami : collective  
+jamia : collection (congregation)  
+jamula : disperse  
 jan : know  
+jane : knowledge  
 janela : window  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
-jawaba : answer (reply, response)  
+jangar : warrior (fighter)  
+jangi : military  
+jani : known  
+jara : jug (jar)  
 jaz : jazz  
-jeba : pocket  
+jeb : pocket  
 jele : gel (jelly)  
+jelos : jealous  
 jen : birth  
 jen den : birthday  
+jena : give birth (procreate, generate)  
+jenar : parent  
 jentil : kind (nice, gentle)  
+jenu : be born  
 jenxen : ginseng  
 jeste : gesture  
-jia : home (residence)  
 jiju : spider  
-jinsi : gender (sex)  
-jirafa : giraffe  
-jiwa : life  
-jiwa loji : biology (study of life)  
+jik : straight  
+jika : straighten  
+jin : near (close)  
+jins : gender (sex)  
+jinsi : sexual (relating to gender)  
+jiraf : giraffe  
+jiwa : live  
+jiwe : life  
+jiwe lojia : biology (study of life)  
 jo : that which  
+jokar : joker  
+joke : joke  
+jong : species  
 jowan : young  
 jowan fem : girl  
 jowan man : boy  
+jowane : youth (young person)  
+jowania : youth (young age)  
 judo : judo  
+jug : bamboo  
 jul : joule (J)  
-jumla : sentence (phrase)  
+jumle : sentence (phrase)  
 jung : middle (center)  
 jungo : China  
-jupe : skirt  
+jup : skirt  
 jus : juice  
 juxa : injection  
 
@@ -439,207 +681,371 @@ juxa : injection
 
 ka : like (as, as if, than)  
 kabau : water buffalo  
-kadi : judgment (sentence)  
-kadi guru : judge (referee)  
+kabil : able (capable)  
+kabila : tribe  
+kabin : cabin (booth)  
+kaca : catch (to hunt)  
 kafas : cage  
 kafe : coffee  
 kafe kan : cafe (coffee shop)  
-kafe kopa : coffee cup  
-kafe rang : brown (coffee-colored)  
-kaji : fowl (galliform)  
-kaka : excrement (shit)  
-kaki : persimmon (kaki)  
+kafe kop : coffee cup  
+kafi : brown (coffee-colored)  
+kak : excrement (shit)  
+kaka : defecate (shit)  
+kakau : cocoa  
+kal : black  
 kalam : pen  
-kama : desire (lust)  
-kamar : room (chamber)  
+kalsium : calcium (Ca)  
+kam : desire (lust)  
 kambudia : Cambodia  
+kamer : room (chamber)  
+kamer tal : floor  
 kamera : camera  
-kamiza : shirt  
-kana : cane (reed)  
+kamis : shirt  
+kamp : camp  
+kampar : camper  
+kan : workshop (place for...)  
+kana : consume (eat or drink)  
 kanada : Canada  
 kanal : channel  
 kandi : candy (sweets)  
+kane : food (meal)  
+kane kamer : dining room  
 kanguru : cangaroo  
 kanon : gun (cannon)  
+kanonir : cannoneer  
 kanun : law  
-kapa : cover (covering)  
-kar : do (make, act)  
+kap : cover (covering)  
+kapa : cover (conceal)  
+kapitan : captain  
+kapula : uncover (reveal)  
+kaput : broken (out of order)  
+kar : deed  
+kara : do (make, act)  
+kara? : shell (crust)  
+karaoke : karaoke  
 karate : karate  
+karbon : coal (carbon)  
 kari : curry  
+karia : occupation (career)  
 karibu : reindeer (caribou)  
 karite : shea  
-karota : carrot  
-karta : card  
+karot : carrot  
+karte : card  
+kasa : case (container)  
+kastan : chestnut  
 kata : cut  
 katalunya : Catalonia  
-kaucu : latex (india rubber)  
-kawai : cute  
+kawayi : cute  
 kaxa : porridge  
-ke : what? (which?)  
-ke ren : who?  
-ke xe : what thing?  
-ke yang : how?  
-ke zaman : when?  
-keki : cake (cookie)  
-kela : sport (athletics)  
+kay : open (not closed)  
+kaya : open  
+kazu : event (case, instance)  
+ke : that (conj.)  
+kecap : ketchup  
+keci : polite  
+kek : cake (cookie)  
 kelele : noise  
+kemet : Ancient Egypt (Kemet)  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
+kene : ability (skill)  
+kenya : Kenya  
+kerub : cherub  
+ketel : kettle  
+kexo : tomorrow  
 ki : life force (chi)  
 kia : ask (question)  
-kiguai : odd (strange, weird)  
-kila : wedge  
+kil : wedge  
 kilo : thousand (kilo-)  
+kilo gram : kilogram (kg)  
 kimi : chemical  
-kimi guru : chemist  
-kimi loji : chemistry  
+kimia : chemistry  
+kina : move (transfer, change place)  
+kine : movement  
+kini : kinetic  
+kioske : kiosk  
 kira : rent (hire, lease)  
-kisa : story (tale)  
-kitaba : writing (text)  
-kitaba kan : library  
-kitaba maxin : typewriter  
+kirat : carat  
+kire : rent  
+kirisa : rent out (let, lease)  
+kismat : fate (destiny)  
+kitab : writing (text)  
+kitab kan : library  
+kitab maxin : typewriter  
+kitaba : write  
 kiwi : kiwi fruit  
-klube : club  
+klar : clear (not obscured)  
+klas : class (category)  
+klasa : classify (categorize)  
+klub : club  
+koda : encode  
 kode : code (cipher)  
+koko : chicken  
+kokos : coco  
 kola : cola  
+kolera : cholera  
 kolombia : Colombia  
-kompani : company (corporation)  
+kolonia : colony (settlemen)  
+kolun : column (pillar)  
+koma : comma  
+komal : soft  
+komik : comical (funny)  
+kompania : company (corporation)  
+komputa : compute (to process data)  
+komputar : computer  
 komun : common (shared)  
+komunisme : communism  
+komuniste : communist  
 kona : corner (angle)  
+koncung : insect  
+kong : hole  
 kongo : Congo  
-koni : cone (fruit of conifer)  
-kopa : cup  
-kopi : copy (replica)  
-korno : horn  
+konsel : advice (counsel)  
+konsida : consider (regard)  
+konson : consonant  
+kontinu : continue (resume)  
+konus : cone  
+kopa : copy (replicate)  
+kope : copy (replica)  
+kor : choir (chorus)  
+korne : horn  
 koron : crown  
 koron xefe : king or queen  
-kosta : shore (coast, beach)  
-kote : coat  
-krati : rule (reign)  
-krema : cream  
-krese : grow  
-krime : crime  
+kos : cough  
+kosmos : space (cosmos, universe)  
+kosta : cost  
+kosta rika : Costa Rica  
+koste : cost (price)  
+kot : coat  
+koz : reason (cause)  
+koza : cause  
+kratia : rule (reign)  
+krem : cream  
 kriste : Christ  
 kriste jen : Christmas  
-krizi : crisis  
+kristi : Christian  
+kristia : Christianity (Christendom)  
+krita : cry (shout)  
+kriz : crisis  
+krizi : critical (pertaining to crisis)  
 krot : mole (burrowing animal)  
 krus : cross  
 kuan : wide  
+kuang : mineral (ore)  
+kuang su : mineral water  
 kuba : Cuba  
 kube : cube  
-kuki : biscuit (cookie)  
-kuli : labor (coolie)  
+kuka : cook (prepare food)  
+kukar : cook (chef)  
+kuke kamer : kitchen  
+kul : cool  
+kultur : culture  
+kup : cup  
 kupa : dome (vault)  
+kuper : copper  
 kupon : coupon  
+kura : care (cure)  
 kuran : Quran (Koran)  
-kurba : curve (bend)  
+kurbe : curve (bend)  
+kurbi : curvy (curved)  
 kursi : chair  
-kutu : louse  
-
-##l
-
+kusen : cushion (pillow)  
 laba : bugle (horn instrument)  
-labi : lip  
+labia : lip  
 lada : load (to charge)  
-lai : come  
-lai salam : welcome!  
 laji : rubbish (trash)  
 laka : lacquer (varnish)  
 lala : lie (lie down)  
 lampa : lamp  
+lanca : throw (launch)  
 lanka : Sri Lanka  
-lanten : lantern  
 lao : Laos  
 larwa : larva (maggot, caterpillar)  
+lastik : elastic  
+lasun : garlic  
+lat : pungent (spicy, hot)  
+lat cili : chili pepper  
+latif : nice (pleasant, lovely)  
 latvia : Latvia  
-leleka : stork  
+
+##l
+
+laxa : release (let, let go)  
+lay : come  
+lekse : word  
+leksem : lexeme  
 leng : cold  
-lenxi : practice (to exercise)  
+lenxa : practice (to exercise)  
 leter : letter (message)  
-libanan : Lebanon  
+letis : lettuce  
+liba : erect  
+libel : dragonfly  
+liber : free (unchained)  
+libera : free (liberate)  
+libi : erect (standing)  
+libu : stand  
 lici : lychee (litchi)  
+lida : lead (direct)  
+lidar : leader (director)  
+lietuva : Lithuania  
 liga : connect (join, link)  
+lige : joint (league)  
+lilak : lilac  
+lili : lily  
 lim : five (5)  
-lima : lime  
-lima rang : lime color  
+limfa : lymph  
+limit : limit (boundary)  
 limun : lemon  
-linya : line (stripe)  
-lista : list (listing)  
-lobo : radish  
-loga : word  
-loga lista : word list  
-loji : science (study, research)  
-loka : place (location)  
+linye : line (stripe)  
+lis : smooth  
+liste : list (listing)  
+lit : little (small)  
+lit nyame : snack  
+liter : liter (litre)  
+lixu : squirrel  
+lobak : radish  
+log : word  
+log liste : word list  
+loga : say  
+loja : research (to study)  
+lojia : science (study, research)  
+lok : place (location)  
+loki : local  
+lon : discussion (debate, discourse)  
+lona : debate (discuss)  
 long : long (lengthy)  
+longa : lengthen (prolong)  
+longe : length  
+losi : screw  
+lowa : leak  
+lowa sang : bleed  
+lubnan : Lebanon  
+lulu : pearl  
 luna : moon  
+lusun : asparagus  
+luta : rob (loot)  
+luza : lose (fail to win)  
+luzar : loser  
+ma : mother  
+maca : compete (have a match)  
+mace : match (contest)  
+made : matter (substance)  
+madi : material  
+madyar : Hungary  
+maf : sorry (regret)  
+mafan : trouble (disturbance, bother)  
+mafana : bother  
+magar : magician (sorcerer)  
+magi : magical  
+magia : magic  
+magnet : magnet  
+magneti : magnetic  
+maidan : square (plaza)  
+mais : corn (maize)  
+maju : harness  
+makala : article (writing)  
+makan : butter  
+makas : scissors  
+makedonia : Macedonia  
+mal : bad  
+malaisia : Malaysia  
+malaria : malaria  
 
 ##m
 
-ma : mother  
-madyar : Hungary  
-mafan : trouble (disturbance, bother)  
-magi : magic  
-mai : liquid (fluid)  
-maidan : square (plaza)  
-makedonia : Macedonia  
-malaisia : Malaysia  
-malaria : malaria  
-mali : Mali  
-mam : breast (boob, tits)  
+mama : mother (mom)  
+mamal : mammal  
+mame : breast (boob, tits)  
 man : male  
+man ban : son  
+man raje : king  
+mana : mean (signify)  
+mane : meaning (signification)  
+manga : comic (cartoon)  
 mango : mango  
 mangus : mangosteen  
-mani : meaning (signification)  
+manioka : cassava (manioc)  
+manse : meat (flesh)  
 mantu : dumpling  
+manux : human being  
+manuxia : mankind (humanity)  
+mar : time (occasion)  
 maraton : marathon  
-marce : walk (march)  
+marca : walk (march)  
 margarin : margarine  
+marka : mark (leave a mark)  
+marke : mark (trace)  
 marmar : marble  
-masa : mass (dough, lump)  
-maska : mask (camouflage)  
-mate : mathematics (math)  
-mate guru : mathematician  
+marsi : Mars  
+marta : kill  
+martar : killer  
+marte : death  
+marti : dead  
+martu : die  
+martur : victim of killing (also: martyr)  
+mas : mass (dough, lump)  
+masa : knead (give massage)  
+masaje : massage  
+masala : issue  
+maske : mask (camouflage)  
 matras : mattress  
+matur : mature (ripe, adult)  
+matur fem : woman (adult female)  
+matur man : man (adult male)  
 mau : cat  
 max : more  
 max ka bas : too much  
+maxi : additional  
 maxim : most (maximally)  
+maximi : maximal  
 maxin : machine  
-maya : Maya  
-maza : fun (amusement)  
+maxor : major (not minor)  
+maxoria : majority  
+maya : melt (liquidize)  
+mayu : melt (get molten)  
+meda : help (assist)  
+medalia : medallion (medal)  
 mede : help (aid, assistance)  
-medi : mean (medium, average)  
-media : media  
+medita : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
 megam : cloud  
 mehiko : Mexico  
-mei : every (each)  
 mei ren : everybody (everyone)  
 mei xe : everything  
-mei zaman : always  
-melodi : melody  
+melodi : melodious (melodic)  
+melodia : melody  
+memba : participate (attend, take part)  
+membar : member (participant)  
 meme : sheep  
+memor : memory  
+memora : remember  
+men : bunch (collection)  
 mes : month  
 mes 1 (mes un) : January  
+mes 10 (mes des) : October  
+mes 11 (mes des un) : November  
+mes 12 (mes des du) : December  
 mes 2 (mes du) : February  
 mes 3 (mes sam) : March  
 mes 4 (mes car) : April  
 mes 5 (mes lim) : May  
 mes 6 (mes sis) : June  
-mes 7 (mes ci) : July  
-mes 8 (mes ba) : August  
+mes 7 (mes set) : July  
+mes 8 (mes bat) : August  
 mes 9 (mes noi) : September  
-mes 10 (mes des) : October  
-mes 11 (mes des un) : November  
-mes 12 (mes des du) : December  
 mesi : messiah (Christ)  
 metal : metal  
-metode : method (way, manner)  
+meter : meter  
+metod : method (way, manner)  
+mey : every (each)  
 meza : table  
 mi : I (me)  
-mi su : my  
+mi da : my  
 micin : MSG (monosodium glutamate)  
+midi : mean (medium, average)  
+midia : media  
 mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
@@ -648,350 +1054,642 @@ milke : milk
 mimen : we  
 min : less  
 min ka bas : too little  
-minara : tower  
-ming : next  
-ming den : tomorrow  
-ming ming den : day after tomorrow  
-ming nen : next year  
+minare : tower  
+ming : bright (clear)  
 mini : tiny (mini-)  
 minim : least (minimally)  
+minimalisme : minimalism  
+minimi : minimal  
+ministar : minister (vizier)  
+ministaria : ministry  
+minor : minor (not major)  
+minoria : minority  
 minus : except (minus)  
 minut : minute  
-mira : mirror  
+mira : reflect  
+mirar : mirror  
 misal : example (instance of)  
 miskin : poor (miserable)  
 misri : Egypt  
-moda : fashion (trend)  
+mit : meeting (gathering)  
+mita : meet  
+mode : fashion (trend)  
+mode nik : fashionista  
+model : model (design)  
+mog : ink  
+mola : grind (grind in mill)  
+molar : miller  
 moli : jasmine  
 mongol : Mongol  
-mono : alone (single, sole)  
-mono krati : monarchy  
+monstir : monster  
+moral : morality (ethics)  
+morfe : morph  
+morfem : morpheme  
+mos : moss  
 mosim : season  
-moskito : mosquito  
+moskit : mosquito  
 motor : engine (motor)  
 mudan : peony  
+muhim : important  
 muka : face  
-mula : beginning  
+mul : beginning  
+mula : begin (commence)  
+mum : wax  
 mumia : mummy  
 mumu : cow  
 mumu nyam : beef  
 mun : door (gate)  
 mungus : mongoose  
-musika : music  
-musika fan : music fan  
+munkin : possibly (maybe)  
+mur : wall  
+mus : must  
+musa : coerce (force, compel)  
+muse : coercion  
+musik : music  
+musik nik : music fan  
+musika : play music  
+musikar : musician  
+musket : musket  
+musketir : musketeer  
 muskul : muscle  
-mustar : mustard  
-mutu : mutual (reciprocal, each other)  
+muxing : Jupiter  
 muxu : mouse  
 
 ##n
 
 na : with (by, at, in, on)  
+na bada : after (following)  
 na dura : while (during)  
-na jung : in the middle  
+na fas : on (on surface)  
+na in : in (inside)  
+na lok : at (at the location of)  
+na tem du : about (concerning)  
+na way : out (outside)  
+na wen : around (about)  
 na xia : below (under)  
-naba : navel (belly button)  
+na yang du : like (in the style of)  
 nabi : prophecy  
+nadi : river  
 nafas : breath  
-naija : Nigeria  
+nahun : nail (fingernail)  
+naijiria : Nigeria  
 nam : name  
-nama : meat (flesh)  
+nama : call (give name)  
+namu : be called (be named)  
+nanas : pineapple  
 nano : nano-  
-nawa : Nahua people  
-nawa baxa : Nahuatl  
+narak : hell  
+nas : people (folk)  
+nasi : popular  
+nasia : nation  
+nasial : national  
+nasialisme : nationalism  
+nederland : Netherlands  
 nen : year  
-nen parti : anniversary  
+nen feste : anniversary  
+nenufar : water lily (nenuphar)  
 nepal : Nepal  
 neptun : Neptune  
-nete : net  
-neto : neat (pure, net)  
-nide : need  
+net : net  
+ni : you  
+nida : need  
+nidi : necessary (needed)  
 nijer : Niger  
+nik : enthusiast (aficionado)  
 nikaragua : Nicaragua  
+nil : blue  
 nilon : nylon  
+nimen : you all  
 nipon : Japan  
 nitro : nitrogen  
+nixe : niche (alcove)  
 no : no (not)  
 noce : night  
-node : knot (node; tie)  
+noi : nine (9)  
+nonga : cultivate  
+norde : north  
+nordi : northern  
 norge : Norway  
-normal : norm (standard)  
+norme : norm (standard)  
+normi : normal  
+nos : nose  
+not : note (observation)  
+not buk : notebook  
 nota : note (observe, notice)  
-nota buku : notebook  
-nude : naked (bare)  
+notis : notice (notification)  
+notisa : notify  
+nowa : renew (make new, renovate)  
+nowi : new (novel)  
+nudi : naked (bare)  
+nudisme : nudism  
+nul : zero (none)  
+nul ren : nobody (no-one)  
+nul xe : nothing  
 numer : number  
+numer un : first (number one)  
+nun : now  
 nuton : newton (N)  
-nyam kamar : dining room  
 
 ##o
 
 o : oh!  
-oke : okay (acceptable)  
-oksi : oxygen  
+ofis : office (position)  
+ofisar : officer  
+okey : okay (acceptable)  
+okeya : accept (to say okay)  
+okse : oxygen  
 oma : grandmother  
 oman : Oman  
 opa : grandfather  
-owo : egg  
+orda : order (issue a command)  
+orde : order (command)  
+orgazme : orgasm  
+oskur : dark (dim)  
 
 ##p
 
 pa : father  
+paban : board (plank)  
+padu : fall  
+pagri : turban  
 pai : pie (pastry)  
-pake : pack (package)  
+pak : pack (package)  
+paka : pack  
+paket : packet  
+paki : bird  
 pakistan : Pakistan  
-pala : fruit (result, outcome)  
+pal : fruit (result, outcome)  
 palma : palm tree  
 pan : bread  
+panafrikan : pan-African  
 panama : Panama  
+panamerikan : pan-American  
+panasian : pan-Asian  
 panda : panda  
 pandunia : Pandunia  
+paneuropan : pan-European  
 pang : thick (fat)  
-panike : panic  
+panik : panic  
 pantalon : pants (trousers)  
-panyo : friend  
+papa : father (dad)  
 papaya : papaya  
 paper : paper  
+par : equal (peer)  
 paraguai : Paraguay  
-parda : curtain  
-parti : party (celebration, festival)  
+parde : curtain  
+pas : past (bygone)  
 pasa : pass (go by, go past)  
-pase : past (former)  
+pase : past times  
 paskal : pascal (Pa)  
-pasta : paste  
-pata : path (track, trail)  
-paxi : suffer (hurt)  
-pena : foam (scum, froth)  
-penguin : penguin  
+pat : path (track, trail)  
+paunde : pound (£)  
+paus : pause (break, interruption)  
+pausa : pause (interrupt)  
+paxa : hurt  
+paxi : painful  
+paxia : suffer (hurt)  
+paxu : suffer (get hurt)  
+ped : foot  
+penda : hang (dangle)  
 penis : penis  
 pensa : think  
+penta : paint  
+penter : painter  
+pera : pear  
+perda : fart  
+perfet : perfect  
+peri : fairy  
+permis : permission  
+permisa : allow (permit)  
 peru : Peru  
-pexa : profession (occupation)  
+pesa : money  
+pexa : job (occupation)  
+pey : payment  
+peya : pay  
 piano : piano  
 pifu : skin  
 pigu : buttocks (butt)  
 pijin : pidgin (contact language)  
+piknik : picnic  
 pilipin : Philippines (Filipino)  
+pilot : pilot  
 pin : needle (pin)  
+ping : flat  
 pingo : apple  
-pipa : tobacco pipe  
+pinguin : penguin  
+pinse : pliers (pincers)  
+pipa : pipe  
 piper : pepper  
 piping : evaluate (review, comment, criticise)  
+pirat : pirate  
+pistol : pistol  
+pistol nik : gunslinger  
+pitsa : pizza  
 pixa : piss (urine)  
-piza : pizza  
-planeta : planet  
+plan : plan  
+plana : intend (plan)  
+planet : planet  
+plante : plant (vegetation)  
+plastik : plastic  
+plat : plate  
+platon : Plato  
+platoni : Platonic  
+platonia : Platonism  
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
 poker : poker  
 polau : pilaf (pulao)  
 poli : several  
+polis : police  
+polisar : police officer  
+politik : politics  
+politikar : politician  
+polska : Poland  
 pompa : pump  
-ponte : bridge  
-porno : porn  
-porno grafi : pornography  
+pont : bridge  
+porne : porn  
+porne grafia : pornography  
+porta : carry (bear)  
 portugal : Portugal  
-posta : mail  
-posta kan : post office  
+posta : send by mail  
+poste : mail  
+poste cap : postal stamp  
+poste kan : post office  
 poto : mud (mire)  
+poza : pose (set)  
+poze : pose (position)  
 praman : evidence (proof, testimony)  
-prati : practice (practical)  
+pramana : prove (testify)  
+pratik : practice (practical)  
+presis : precise (exact, accurate)  
+prizon : prison (imprisonment)  
+prizona : imprison (jail)  
+prizonar : jailer (imprisoner)  
+prizonia : prison  
+prizonur : prisoner  
+proba : try (attempt)  
 problem : problem  
 profesor : professor  
 program : program  
-proje : project (planned endeavour)  
+programar : programmer (coder)  
+projet : project (planned endeavour)  
+proses : process (procedure)  
 puder : powder  
 puding : pudding  
 puertoriko : Puerto Rico  
 puja : worship (revere)  
+pul : flower  
+pula : blossom (bloom)  
+pulo : island  
+punt : point (full stop)  
 pupe : doll (puppet)  
-putau : grape  
+puran : old (ancient)  
+puru : feather  
+putaw : grape  
 putong : common (universal)  
 putong han : Mandarin Chinese (Putonghua)  
+puxa : push  
 
 ##r
 
-rabi : lord (master)  
 radio : radio  
+rajar : king or queen  
+raji : royal  
+rajia : kingdom  
+ramazan : Ramadan  
+randa : plane (plane tool)  
 rang : color  
+rapid : fast (quick)  
 rase : race (ethnicity)  
-rasma : custom (tradition, practice, ceremony, formality)  
+rasisme : racism  
+raste : growth  
+rastu : grow  
+ratiba : order (arrange)  
+ratibe : order (arrangement)  
 razon : reason (rational thinking)  
-re : again  
+razoni : radional (reasonable)  
 rebel : rebellion  
+reda : prepare (make ready)  
 redi : ready  
-reji : govern (administer)  
 ren : person (people)  
+reporta : report (recount, relate)  
+reporte : report  
+reset : recipe  
+resid : receit  
+resta : rest (relief)  
+reste : rest (remainder)  
 restoran : restaurant  
-risko : risk  
+restu : remain (stay)  
+retra : go back (retreat)  
+rezin : resin  
+rik : rich  
+ris : rice  
+riske : risk  
+riski : risky  
+rit : ritual (ceremony)  
 ritme : rhythm (beat)  
-rixa : feather  
-robo : robot  
-roketa : rocket  
+robote : robot  
+rokete : rocket  
+rol : role  
+rom : rum  
 roma : Rome  
+roma empiria : Roman Empire  
+romans : romantic love  
+romansa : love romantically  
+romansi : romantic  
+rona : cry (weep)  
 rong : oriental dragon  
 rose : dew  
-roza : rose  
-ruhu : spirit (soul, mind)  
-rupa : appearance (looks)  
-rus : Russian  
+rosia : Russia  
+rotor : rotor (rotator)  
+roze : rose  
+rozi : pink (rosy)  
+ruk : back  
+ruk sak : backpack (rucksack)  
+rula : roll  
+rupe : appearance (looks)  
+rusi : Russian  
 rutin : routine (habit)  
 
 ##s
 
-saba : reason (cause)  
+sabat : Sabbath  
 sabun : soap  
-sada : plain (simple)  
-safar : travel (voyage)  
+sabze : vegetable  
+sadi : plain (simple)  
+safa : clean (purify)  
+safer : travel (voyage)  
+safer nik : tourist  
+safera : travel  
+saferar : traveler  
 safi : clean (pure)  
-saga : tale (legend, saga)  
-sal : hi!  
-salada : salad  
-salam : greeting (hello)  
+saga : tell (narrate)  
+sage : tale (legend, saga)  
+sak : bag (sack)  
+sal : salt  
+salade : salad  
+salam : good (in greetings)  
+salam cude : farewell  
+salam den : Good day  
+salam kane : bon appetit!  
+salam laye : welcome!  
+salam suba : Good morning  
+salam xam : Good evening  
+salama : greet  
+salame : greeting (hello)  
+salima : surrender (to give up)  
 salone : Sierra Leone  
-sam : same  
-sam gojia ren : compatriot  
-sama : sky (heaven)  
-san : three (3)  
+salta : jump  
+sam : three (3)  
+saman : sky (heaven)  
+samani : celestial (heavenly)  
 sana : make (produce, manufacture)  
-sana baxa : artificial language (conlang)  
-sana kan : factory  
 sande : sand  
-sande stan : desert (sandy desert)  
-sanduk : box (chest)  
+sanduke : box (chest)  
 sang : blood  
-sani : sled (sleigh)  
-sant : holy (sacred)  
-sapato : shoe  
+sani : artificial  
+sani bax : artificial language (conlang)  
+sania : production  
+santi : holy (sacred)  
+sapate : shoe  
+sapatir : shoemaker  
+sar : head  
+sar gut : skull  
+sat : time of day (moment)  
+saudar : sibling (brother or sister)  
 sauna : sauna  
 se : self  
-seksi : sex (sexual intercourse)  
-senti : feel (emote)  
+sekretar : secretary  
+sekretaria : secretariat  
+seksa : have sex  
+sekse : sex (sexual intercourse)  
+seksi : sexy (sexual)  
+sekun : second(s)  
+sekur : safe (secure)  
+sel : cell (biology)  
+selen : selenium  
+sem : same  
+sem dexi : compatriot  
+sem jins kami : homosexual  
+sement : cement  
+semu : resemble (be like)  
+sen : chest (thorax)  
+sens : sense  
+senta : feel (emote)  
 serbia : Serbia  
+serca : search  
+serebre : brain  
 seres : Ceres (dwarf planet)  
-seri : series  
+serie : series  
 serpe : snake (serpent)  
-serte : certain (sure)  
-side : sit  
-singa : lion  
+sesam : sesame  
+set : seven (7)  
+set war : week  
+si : yes (is)  
+sibir : Siberia  
+sife : quality (charasteristic)  
+sigar : cigar  
+sigaret : cigarette  
+silsil : chain  
+sing : lion  
 singapur : Singapore  
-sismo : earthquake  
-sismo loji : seismology  
+sinye : sign (signal)  
+sir : secret  
+sirke : circle  
+sirki : round  
+sis : six (6)  
+sisme : earthquake  
+sisme-lojia : seismology  
 sistem : system  
-siti : city (town)  
+sistemi : systemic  
+sita : quote (to cite)  
+slowakia : Slovakia  
+slowenia : Slovenia  
+so : so (like this, like that)  
 sofa : sofa (couch)  
-sofi : wisdom  
-solo : only (just)  
-sona : sleep  
-sona kamar : bedroom  
+sofi : wise  
+sofia : wisdom  
+sol : only (just)  
+son : sleep  
+son kamer : bedroom  
+sona : sleep (be asleep)  
+sonda : sound (make a sound)  
+sonde : sound (audio)  
 song : pine tree  
-soni : sound (audio)  
-sori : sorry (regret)  
-sose : sauce  
+sos : sauce  
 sosis : sausage  
+sportar : athlete (sportsman)  
+sporte : sport (athletics)  
+stadion : stadium  
 stan : area  
-su : own (particle of possession)  
+stasia : station  
+state : state  
+stati : static (stationary)  
+stop : stop  
 suan : sour  
 suba : morning  
-suba nyam : breakfast  
-suba salam : Good morning  
+suba den : forenoon  
+suba nyame : breakfast  
+sud : south  
+sudafrika : South Africa (republic)  
 sudan : Sudan  
-sui : water  
-suka : dry  
-sukar : sugar  
-suki : like (enjoy, be fond of)  
-suma : sum (total)  
+suede : sweat (perspiration)  
+suedi : sweaty  
+suhi : dry  
+suka : please (delight, make happy)  
+sukari : sugary (sweet)  
+suker : sugar  
+suki : happy (delighted)  
+suku : like (enjoy, be fond of)  
+sultan : power (authority, rule)  
+sultana : rule (be in charge)  
+sultanar : ruler  
+sum : sum (total)  
+suma : sum up (add together)  
+sun : soon  
 sundar : beautiful (handsome)  
-suomi : Finland  
-supa : soup  
+suomia : Finland  
+supe : soup  
 super : superb (wonderful, super)  
-sura : image (picture)  
+supra : surpass (go over)  
+sura : picture (illustrate)  
+sure : image (picture)  
 suriname : Suriname  
 surya : sun  
 suxi : sushi  
-swahili : Swahili  
+suy : water  
+swenski : Sweden  
+swis : Switzerland  
 
 ##t
 
-tabako : tobacco  
+tabake : tobacco  
+tabar : axe (hatchet)  
+tabel : table (matrix)  
 tabia : nature (environment)  
-tabu : taboo (sacred)  
-taibei : Taipei  
-taiga : taiga  
-taiwan : Taiwan  
+tabiai : environmental (natural)  
+tai : Thai (Thailand)  
+taiba : taiga  
 taksi : taxi  
+taktik : tactics (strategy)  
+tal : bottom  
+tala : lock  
 tamar : date fruit  
-tanke : tank (container)  
-tanur : oven  
+tambur : drum  
+tanah : Tanakh (Jewish Bible)  
+tank : tank (container)  
 tanzania : Tanzania  
-tapa : tap (stopper)  
+tap : tap (stopper)  
 tara : star  
-tara guru : astronomer  
-tara loji : astronomy  
 tatu : tattoo  
-taula : towel  
+taul : towel  
 tawa : frying pan  
-taze : fresh  
-tekni : technique (technology)  
-tekni loji : technology (study of techniques)  
+tazi : fresh  
+tekne : technique (technology)  
+tekne-lojia : technology (study of techniques)  
+tela : cloth (fabric, textile)  
 tele : distant (tele-)  
-tele fon : telephone  
-tele wide : television  
-tema : topic (subject, theme)  
+tele-fon : telephone  
+tele-wide : television  
+tem : topic (subject, theme)  
+tema : be about (discuss as a subject)  
+tena : hold (grasp)  
+tende : tent  
 tenis : tennis  
 tenki : weather  
-teori : theory  
-tepu : tape  
+tenta : tempt (entice)  
+teore : theory  
+tepe : tape  
+teror : terror  
+terorisme : terrorism  
 teste : test (challenge, trial)  
 teyan : suggestion (proposal)  
-tezi : argument (thesis)  
+teyana : suggest (propose)  
+teza : argue (claim)  
+teze : argument (thesis)  
 ticin : bow instrument (violin, etc.)  
-tike : ticket  
-tocu : touch  
+tik : right (correct)  
+tika : rectify (make correct)  
+tiket : ticket  
+tim : team  
+tin : can (tin can)  
+tira : pull  
+tira milke : milk (draw milk)  
+tiran : tyrant  
+tirania : tyranny  
+titan : titanium  
+to : to (till, until, for)  
+toca : touch  
 togo : Togo  
-tokyo : Tokyo  
 tolo : top (spinning top)  
-tolun : debate (discuss)  
 tomate : tomato  
-ton : ton (tonne)  
-tone : tone (note, pitch, shade)  
+ton : tone (note, pitch, shade)  
 tong : barrel (can)  
-topi : hat (cap)  
+tope : hat (cap)  
+tortuga : turtle (tortoise)  
+tot : whole (entire, all)  
+total : total (affecting all)  
 tren : train  
-tren dau : railway (railroad)  
+tren-daw : railway (railroad)  
 tu : you  
-tuba : brick  
-tubu : tube (pipe)  
+tualet : toilet (WC)  
+tube : tube (pipe)  
 tufan : storm (tempest)  
-tuku : spit  
+tuk : spit  
 tul : tool  
-tulipa : tulip  
+tulip : tulip  
 tumen : you all  
 tundra : tundra  
 tunel : tunnel  
-tunel tren : subway (metro)  
-tunis : Tunisia  
+tunel-tren : subway (metro)  
+tung : hurt (pain)  
+tunisia : Tunisia  
+tur : tour (trip)  
+turisme : tourism  
+turiste : tourist  
 turki : Turkish  
+turkia : Turkey  
 tuzi : rabbit (hare)  
 
 ##u
 
 u : or  
+udas : sad  
 ukrayina : Ukraine  
+ulul : howling  
+ulula : howl  
 uma : horse  
+umur : age  
 un : one (1)  
+una : unite  
+uni : united  
+uni stat de amerika : United States of America  
 unia : union  
+uran : Uranus  
+uranium : uranium  
 urdun : Jordan  
-uruguai : Uruguay  
-uze : use (employ, apply)  
+uruguay : Uruguay  
+usamerika : US America  
+uza : use (employ, apply)  
+uzar : user  
+
+##v
+
+viet : Vietnam  
+vodu : voodoo  
+volta : volt  
 
 ##w
 
 wa : wow! (gee!)  
 wada : promise (commit)  
-wadi : valley  
-waha : oasis  
-wai : outside (exterior)  
-wai gojia : foreign country  
-walse : waltz  
+waf : dog  
+wain : wine  
+wakila : represent  
+waksin : vaccine  
+wan : bowl (earless cup)  
+wang : yellow  
+wanila : vanilla  
 war : day of the week  
 war 1 (war un) : Monday  
 war 2 (war du) : Tuesday  
@@ -999,92 +1697,149 @@ war 3 (war sam) : Wednesday
 war 4 (war car) : Thursday  
 war 5 (war lim) : Friday  
 war 6 (war sis) : Saturday  
-war 7 (war ci) : Sunday  
-wat : watt  
-waxi : wash  
-waxi maxin : washing machine  
-wazir : minister (vizier)  
-weba : tail  
-wi : small (little, wee)  
-wide : look (see)  
-wide maidan : visual field (field of vision)  
-wizel : weasel  
-wodu : voodoo  
-
+war 7 (war set) : Sunday  
+waris : heritage (bequest)  
+wase : oasis  
+wate : watt  
+wax-maxin : washing machine  
+waxa : wash  
+way : outside (exterior)  
+way-dexi : foreign  
+way-dexia : foreign country  
+weka : wake (make awake)  
+weki : awake  
+wen : ask (question)  
+wen : circle (ring)  
+wene : question  
+werka : work  
+werkar : worker  
+werke : work (job, task)  
+werme : worm  
+weste : west  
+westi : western  
+wida : look (see)  
+wide : view (vision)  
+wide maydan : visual field (field of vision)  
+widu : be seen  
+wiki : wiki  
+wildi : wild (savage)  
+wiman : airplane  
+win : win (victory)  
+wing : wing  
+winil : vinyl  
+wirus : virus  
+wirus lojia : virology  
+wizit : visit  
+wol : want (desire)  
 
 ##x
 
+xak : doubt (disbelief)  
 xakal : jackal  
 xal : scarf (shawl)  
-xale : cottage (chalet)  
+xalet : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
-xam nyam : dinner  
-xam salam : Good evening  
+xam kane : dinner  
 xaman : shaman  
+xamba : field (countryside)  
 xampu : shampoo  
 xan : mountain (hill)  
-xanti : peace (calm)  
-xarif : honorable (respectable)  
+xani : Saturn  
+xanti : calm (peaceful)  
+xaria : shari'a  
+xarifa : respect (honor, esteem)  
+xarifi : honorable (respectable)  
 xarnir : hinge (pivot)  
-xarti : condition (requirement)  
+xarta : stipulate  
+xarte : condition (requirement)  
 xatan : devil (Satan)  
-xatur : chess  
-xau : few (little)  
-xaxa : rustle  
+xatani : devilish (satanic)  
+xaxu : rustle  
+xe : thing  
 xefe : chief (boss)  
-xefe wazir : prime minister  
-xia : under (below)  
-xifu : master (sensei)  
-xigo : accident (mishap)  
+xefi : main (principal)  
+xefi ministar : prime minister  
+xiki : elegant (chic)  
 xim : heart  
-xin : new (novel)  
+xin : belief (faith, creed)  
+xina : believe  
 xir : poem  
-xirop : syrup  
-xona : Shona  
-xou : show (display, exhibition)  
+xirar : poet  
+xirope : syrup  
+xix : hush (shh)  
+xixi : silent  
+xok : shock (collision)  
+xow : show (display, exhibition)  
+xowa : show (display)  
 xu : tree  
-xuli : repair (fix)  
-xuxi : rest (relief)  
+xula : repair (fix)  
 
 ##y
 
-ya : yes (yeah)  
 yak : yak  
+yakin : certain (sure)  
 yala : hurry (hasten)  
 yaman : Yemen  
 yang : kind (type, style)  
 yani : that is (in other words, i.e.)  
+yasen : ash tree  
+yatim : orphan  
 ye : he or she or it  
+yehudi : Jewish  
 yemen : they  
 yen : eye  
-yer : previous (last)  
-yer den : yesterday  
-yer nen : last year  
-yer yer den : day before yesterday  
+yer : yesterday  
 yesu : Jesus  
 yo : some  
 yo ren : someone (somebody)  
 yo xe : something  
-yoga : yoga  
+yode : iodine  
+yoga : do yoga  
+yoge : yoga  
 yoni : vagina  
+yosay : fortress (stronghold)  
+yumor : humor  
+yumori : humorous (comical, funny)  
+yungam : brave (courageous)  
 
 ##z
 
 zafran : saffron  
-zai : present (current, existing)  
-zai den : today  
-zaitun : olive  
+zalim : mean (cruel)  
 zaman : time (moment)  
 zambia : Zambia  
 zardux : Zoroaster  
-zardux din : Zoroastrianism  
+zay : present (current, existing)  
+zaye : presence (existence)  
+zaytun : olive  
 ze : from (since)  
 zebra : zebra  
+zem : earth (ground, soil)  
+zem dou : peanut (groundnut)  
+zemia : Earth (Terra)  
+ziba : plug (stop with a plug)  
+zibula : unplug (uncork)  
+zigzage : zigzag  
 zimbabwe : Zimbabwe  
-zina : adultery (infidelity)  
+zine : adultery (infidelity)  
+zink : zinc  
 zira : cumin  
-zizi : sizzle  
+ziza : sizzle  
 zon : belt (zone)  
+zukam : cold (illness)  
 zulu : Zulu  
-    
+zumrude : emerald  
+  
+## -
+  
+-a : suffix for verbs with SVO word order  
+-ar : suffix for active doer  
+-e : suffix for derived nouns  
+-em : a unit consisting of a set of similar items  
+-i : suffix for adjectives  
+-ia : suffix for areas  
+-ir : suffix for person who is associated with the root  
+-u : suffix for verbs with OVS word order  
+-ur : suffix for passive object  
+  

@@ -225,33 +225,32 @@ Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreen
 
 
 
-### su <small>-n (genetiivipartikkeli)</small>
+### da <small>-n (genetiivipartikkeli)</small>
 
 **sa ke?** Mikä tämä on?
 
-**sa mi su fon.** Se on minun puhelin.
+**sa mi da fon.** Se on minun puhelin.
 
-**sa ke su?** Kenen tämä on?
+**sa ke da?** Kenen tämä on?
 
-**sa mi su.** Se on minun.
+**sa mi da.** Se on minun.
 
-Genetiivipartikkeli **su** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **mi su** tarkoittaa "minun", **tu su** tarkoittaa "sinun" jne.
+Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **mi da** tarkoittaa "minun", **tu da** tarkoittaa "sinun" jne.
 
 **ye ke?** Kuka hän on?
 
-**ye si mi su panyo.** Hän on minun ystävä.
+**ye si mi da panyo.** Hän on minun ystävä.
 
-**mi si sara su panyo.** Minä olen Saran ystävä.
+**mi si sara da panyo.** Minä olen Saran ystävä.
 
-<small>Sanan **su** lähteitä: englanti: 's, afrikaans: se, epanish: su, portugali: su.</small>
-
+<small>Sanan **da** lähteitä: pandžabi: ਦਾ "dā", yleiskiina: 的 "de".</small>
 
 
 ### nam <small>nimi</small>
 
-**tu su nam si ke?** Mikä sinun nimesi on?
+**tu da nam si ke?** Mikä sinun nimesi on?
 
-**mi su nam si tomas.** Minun nimeni on Tomas.
+**mi da nam si tomas.** Minun nimeni on Tomas.
 
 **ye nam ke?** Mikä hänen nimensä on?
 
@@ -461,15 +460,15 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 **mau loga miau.** Kissa sanoo miau.
 
 
-### audi <small>kuulla, kuunnella</small>
+### auda <small>kuulla, kuunnella</small>
 
-**mi no ken audi tu.** En voi kuulla sinua.
+**mi no ken auda tu.** En voi kuulla sinua.
 
 **cing loga bala.** Puhuisitko kovempaa.
 
-**mi audi musika.** Minä kuuntelen musiikkia.
+**mi auda musike.** Minä kuuntelen musiikkia.
 
-**tu audi ke yang su musik?** Minkälaista musiikkia sinä kuuntelet?
+**tu auda ke yang da musike?** Minkälaista musiikkia sinä kuuntelet?
 
 
 
@@ -491,7 +490,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **"mau" mani ke?** Mitä "mau" tarkoittaa?
 
-**ye mani hewan su yang.** Se tarkoittaa eräänlaista eläintä.
+**ye mani hewan da yang.** Se tarkoittaa eräänlaista eläintä.
 
 **mi no aha ye mani ke.** Minä en ymmärrä mitä se tarkoittaa.
 
@@ -499,7 +498,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 ### kitaba <small>kirjoittaa</small>
 
-**cing kitaba tu su adres.** Kirjoittaisitko osoitteesi.
+**cing kitaba tu da adres.** Kirjoittaisitko osoitteesi.
 
 **cing kitaba ye na sa.** Kirjoittaisitko sen tähän!
 
