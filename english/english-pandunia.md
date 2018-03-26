@@ -1773,9 +1773,7 @@ Yemen   : yaman
 yes (is)   : si  
 yesterday   : yer  
 yoga   : yoge  
-you   : ni  
 you   : tu  
-you all   : nimen  
 you all   : tumen  
 young   : jowan  
 youth (young age)   : jowania  

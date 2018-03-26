@@ -1151,7 +1151,6 @@ nenufar : water lily (nenuphar)
 nepal : Nepal  
 neptun : Neptune  
 net : net  
-ni : you  
 nida : need  
 nidi : necessary (needed)  
 nijer : Niger  
@@ -1159,7 +1158,6 @@ nik : enthusiast (aficionado)
 nikaragua : Nicaragua  
 nil : blue  
 nilon : nylon  
-nimen : you all  
 nipon : Japan  
 nitro : nitrogen  
 nixe : niche (alcove)  

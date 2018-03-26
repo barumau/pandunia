@@ -666,15 +666,13 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 > **mi safara ze london to paris.** - I travel from London to Paris.  
 
 
-Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
+Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
-> **mi lay dom.** - I come home.  
-> **tu sit kursi.** - You sit (on) the chair.  
-> **ye lala sofa.** - S/he lies (on) the sofa.  
-> **maci nata daria.** - Fish swim (in) the sea.  
-> **janger marca dau.** - Warriors march (on) the road.  
+> **mi denga ze tu enda.** - I have waited since you left.  
+> **mi denga to tu lay dom.** - I wait until you come home.  
+> **mi denga na tu sona.** - I wait while you sleep.  
 
-#### 10.1.2.
+#### 10.1.2. na
 
 **na** is an all-purpose preposition. Its basic meaning is "with".
  
@@ -690,54 +688,31 @@ I speak in Pandunia.
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia in telephone.
 
+#### 10.1.3. Verbs as prepositions
 
-#### 10.1.3. Preposition with a verb
-
-Pandunia prepositions have very broad meaning. More precise meanings can be obtained by attaching a verb phrase immediately after the preposition.
+In Pandunia some verbs function like prepositions do in English.
 
 > **mi kata pan.** - I cut bread.  
-> **mi kata pan bi caku.** - I cut bread with a knife.  
-> **mi kata pan bi uza caku.** - I cut bread _by using_ a knife.
+> **mi kata pan uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
-> **mi denga.** - I wait  
-> **mi denga na do hor.** - I wait for two hours.  
-> **mi denga na dura do hor.** - I wait _during_ two hours.
+> **mi denga dura dua hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
-Many of these expressions are very useful.
+Here are some verbs that are usable as prepositions:
 
-- before  
-**na bada** - after, following  
-**na dura** - during  
-**na tema** - about (a topic)  
+> **dura** - to last; during, for the time/duration of  
+> **loka** - to be located; at  
+> **sirka** - to circulate; around  
+> **supra** - to surpass; over, above
 
-**na pice du** - at the back of  
-**na picu** - behind  
+#### 10.1.4. Verbs without prepositions
 
-**ye lay na picu mi.** - He comes behind me.  
-**ye lay na fola mi.** - He comes after me.  
+Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-
-
-Prepositions can be complemented also by a verb phrase. Then they refer to time.
-
-> **mi denga ze tu enda.** - I have waited since you left.  
-> **mi denga to tu lay dom.** - I wait until you come home.  
-> **mi denga na tu son.** - I wait while you sleep.  
-
-More precise expressions of place and time are expressed with _a preposition + a place word + **du**_.
-
-> **na dur du** - for the time/duration of  
-> **mi denga na dur du tu son.** - I wait for the time when you sleep.  
-> **na lok du** - at the place of  
-> **mi denga na lok du tu enda.** - I wait at the place where you left.  
-> **na xia du** - under, below  
-> **un waf lala na xia du meza.** - A dog lies under the table.  
-> **na fas du** - on the surface of  
-> **un mau lala na fas du meza.** - A cat lies on the table.
-
-Similar meaning can be expressed also with compound words.
-
-> **un mau lala na meza fas.** - A cat lies at the tabletop.
+> **mi lay dom.** - I come home.  
+> **tu sidu kurse.** - You sit (on) the chair.  
+> **ye lala sofa.** - S/he lies (on) the sofa.  
+> **fixe nata daria.** - Fish swim (in) the sea.  
+> **jangar marca daw.** - Warriors march (on) the road.  
 
 
 ### 10.2. Preposition of relation
