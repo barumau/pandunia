@@ -25,7 +25,7 @@
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)
 
-[Grammar](baxa_kanun.md)
+[Grammar](kanun.md)
 
 [Videos](../pandunia/video.md)
 

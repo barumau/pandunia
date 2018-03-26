@@ -22,7 +22,7 @@ Note: Pandunia is a constructed language that is under construction. The structu
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Spelling](abc.md)
 - [Phrasebook](fraze.md)
-- [Grammar](baxa_kanun.md)
+- [Grammar](kanun.md)
 - [Lessons with Dialogs](darse.md)
 
 - [Searchable dictionary](tiddly.html)

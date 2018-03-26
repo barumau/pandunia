@@ -5,9 +5,8 @@
 
 [Opiskelu]()
 
-  * [Pikaopas](gida.md)
   * [Ääntäminen](abc.md)
-  * [Lauseita](jumla.md)
+  * [Lauseita](fraze.md)
 
 [Sanasto]()
 
@@ -15,7 +14,7 @@
   * [Pandunia-suomi](pandunia-suomi.md)
   * [Suomi-pandunia](suomi-pandunia.md)
 
-[Kielioppi](bax_kanun.md)
+[Kielioppi](kanun.md)
 
 [Tietoa]()
 
