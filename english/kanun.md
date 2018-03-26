@@ -415,7 +415,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
 > **mi nyama pingo.** - I eat apples.  
-> **mi auda musik.** - I hear music.  
+> **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
@@ -432,7 +432,7 @@ SOV and SVO are the two most common word orders by far in the languages of the w
 In the passive voice there is no agent subject in the sentence. There is only the object and the verb. Normally the passive is expressed with object–verb (VO) word order with the verb ending in **-u**.
 
 > **tu widu.** - You are seen.  
-> **musik audu.** - Music is heard.  
+> **musike audu.** - Music is heard.  
 > **pan baku.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
@@ -448,7 +448,7 @@ The agent can be mentioned after the verb with or without the preposition **du**
 In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
-> **auda musik.** - Listening music.  
+> **auda musike.** - Listening music.  
 > **baka pan.** - Baking bread.
 
 
@@ -459,15 +459,15 @@ There are six possible word orders for the transitive sentence. In practice, all
 Different orders put the focus on different constituents: the subject, the object or the verb. The focus or emphasis is on the first part of a sentence.
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik mi auda.
-        - subject–verb–object (SVO) :       mi auda musik.
-        - verb–object–subject (VOS) :          auda musik mi.
+        - object–subject–verb (OSV) : musike mi auda.
+        - subject–verb–object (SVO) :        mi auda musike.
+        - verb–object–subject (VOS) :           auda musike mi.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musik audu.
-        - object-verb-subject (OVS) :    musik audu mi.
-        - verb-subject-object (VSO) :          audu mi musik.
+        - subject-object-verb (SOV) : mi musike audu.
+        - object-verb-subject (OVS) :    musike audu mi.
+        - verb-subject-object (VSO) :           audu mi musike.
 
-The constituent, which is further away from the verb, can be left out. So for example **musik mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musik audu** (SOV) can be truncated to **musik audu** (OV).
+The constituent, which is further away from the verb, can be left out. So for example **musike mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musike audu** (SOV) can be truncated to **musike audu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The other word orders can be heard in poetry and in other forms of literary language.
 
@@ -564,7 +564,7 @@ The particles **si** and **no** are used also for answering questions.
 
 ### Modifier particles
 
-Particles **da** and **du** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
+Particles **da** and **du** are used to mark possession and modification. **da** connects the modifying word or phrase to the modified word. **du** works in the opposite direction. It connects the modified word to the modifier.
 
 #### 9.2.1. Possession
 
@@ -576,11 +576,11 @@ With regards to possession, **da** works like apostrophe-s ('s) in English.
 > **mi da bet** - my house  
 > **mi da papa da bet** - my father's house
 
-**De** works like "of" in English.
+**du** works like "of" in English.
 
 > **mama du maria** - the mother of Maria
-> **bet du mi** - the house of mine  
-> **bet du papa du mi** - the house of the father of mine
+> **dom du mi** - the house of mine  
+> **dom du papa du mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -588,13 +588,13 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang da lab** - rose-colored lips  
-> **saman rang da mat** - sky-colored eyes
+> **roza rang da labe** - rose-colored lips  
+> **saman rang da yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **lab du roza rang** - lips of the color of the rose  
-> **mat du saman rang** - eyes of the color of the sky
+> **labe du roza rang** - lips of the color of the rose  
+> **yen du saman rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses
 
@@ -632,13 +632,13 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 ### 9.4. Tense and Aspect Particles
 
-In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
-> **mi haba mau gon.** - I had cats in the past.
-> **a mi no haba mau nun.** - But I don't have cats now.
-> **munkin mi haba mau futur.** - Maybe I have cats in the future.
+> **mi ada mau pas.** - I had cats in the past.
+> **a mi no ada mau nun.** - But I don't have cats now.
+> **munkin mi ada mau futur.** - Maybe I have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **haba** stayed the same in all tenses in the examples above.
+Note! Verbs are not conjugated. So the verb **ada** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
@@ -732,17 +732,6 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 
 
-
-### 10.3. List of compound prepositions
-
-**na ante** before. **na bada** after.  
-**na cen** in front. **na pice** behind.  
-**na xia** under, below. **na gau** over, above.  
-**na jin** near. **na far** far away. **na visin** beside, next to.
-
-
-
-
 ## 11. Word Building
 
 It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of hem come from ancient Greek, Latin, Arabic and Persian.
@@ -756,7 +745,6 @@ Pandunia uses the following vowel endings to mark parts of speech.
 - **a** marks verbs for subject-verb-object word order (SVO)
 - **u** marks verbs for object-verb-subject word order (OVS)
 - **i** marks adjectives i.e. modifiers of nouns
-- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
 - **e** marks nouns that are derived from action roots and description roots
 
 The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending. Here are some examples.
@@ -778,9 +766,9 @@ The designated vowel endings enable easy derivation of one type of word from ano
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**haba** - to have (active verb)  
-**habu** - to belong (passive verb)  
-**habe** - that what is had (noun)  
+**ada** - to have (active verb)  
+**adu** - to belong (passive verb)  
+**ade** - that what is had (noun)  
 
 **mus** or **musu** - to must, to be compelled (passive verb)  
 **musa** - to compel (active verb)  
@@ -921,15 +909,15 @@ Note: You can learn the language without reading this chapter. But if you're int
 In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik mi auda.
-        - subject–verb–object (SVO) :       mi auda musik.
-        - verb–object–subject (VOS) :          auda musik mi.
+        - object–subject–verb (OSV) : musike mi auda.
+        - subject–verb–object (SVO) :        mi auda musike.
+        - verb–object–subject (VOS) :           auda musike mi.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musik audu.
-        - object-verb-subject (OVS) :    musik audu mi.
-        - verb-subject-object (VSO) :          audu mi musik.
+        - subject-object-verb (SOV) : mi musike audu.
+        - object-verb-subject (OVS) :    musike audu mi.
+        - verb-subject-object (VSO) :           audu mi musike.
 
-The constituent, which is further away from the verb, can be left out. So for example **musik mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musik audu** (SOV) can be truncated to **musik audu** (OV).
+The constituent, which is further away from the verb, can be left out. So for example **musike mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musike audu** (SOV) can be truncated to **musike audu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **mi wida jen, jo tu suku.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
 
@@ -1007,19 +995,19 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 
 1. Conjunctions: i, u, a
 2. Connectors: da, du
-3. Prepositions: na, be, to, ze
+3. Prepositions: na, ko, ze
 4. Verbs
 5. Nouns and pronouns
 6. Tense, aspect and mood particles
 7. Numerals
 8. Adjectives
 
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz du** is at the top, because it connects the two sub-phrases.
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **sababu**, here its scope is only to connect **yusef** and **sara**. **sababu** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia ze koz du ye si bon dunia bax.
+    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
 
-                      ze koz du
+                       sababu
                ┌──────────┴──────────┐
               wol                   si
           ┌────┴──────┐           ┌──┴──┐

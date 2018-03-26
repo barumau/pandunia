@@ -267,7 +267,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 **mi wol ada nowi fon.** I want to have a new phone.
 
 **kia tu ada bace?** Do you have children?  
-**mi ada dua bace.** I have two children.
+**mi ada do bace.** I have two children.
 
 
 

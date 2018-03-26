@@ -9,7 +9,7 @@
 
 ![](http://pandunia.info/bandera/es.png) [Aprende Pandunia en Español](espanya/index.md)
 
-![](http://pandunia.info/bandera/br.png)![](http://pandunia.info/bandera/pt.png) [Aprenda pandunia em português](portugal/index.md)
+![](http://pandunia.info/bandera/br.png) ![](http://pandunia.info/bandera/pt.png) [Aprenda pandunia em português](portugal/index.md)
 
 ![](http://pandunia.info/bandera/fr.png) [Apprenez le pandunia à partir du français](frans/index.md)
 
