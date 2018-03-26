@@ -21,8 +21,8 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns are invar
 
 > **batu** - a stone, stones, the stone or the stones  
 > **meza** - a table, tables, the table or the tables  
-> **kursi** - a chair, chairs, the chair or the chairs  
-> **su** - water
+> **kurse** - a chair, chairs, the chair or the chairs  
+> **suy** - water
 
 Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
 
@@ -62,7 +62,7 @@ An adjective is a word that adds a particular quality for a noun. In Pandunia an
 > **day batu** - big stone
 > **day meza** - big table  
 > **gaw meza** - high table
-> **bon kursi** - good chair
+> **bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
@@ -131,8 +131,8 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **multi tara** - many stars
 
 > **un day meza** - one big table  
-> **do day kursi** - two big chairs  
-> **sam bon kursi** - three good chairs
+> **do day kurse** - two big chairs  
+> **sam bon kurse** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
@@ -221,11 +221,11 @@ The demonstrative pronouns work like modifiers.
 
 ### 5.3. Interrogative pronoun
 
-**Ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
+**ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
 
 > **ke?** - Who or what?  
 > **ke xe?** - What? (Which thing?)  
-> **ke yan?** - Who? (Which person?)  
+> **ke ren?** - Who? (Which person?)  
 > **ke sat?** - When? (What time?)  
 > **ke yang?** - How? (What manner?)  
 > **ke koz?** - Why? (What cause?)  
@@ -274,7 +274,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
      ↗ 
     S ← O
 
-For example: **mi nyama pan, jo tu baka.** - I eat bread _that you baked._
+For example: **mi kana pan, jo tu baka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -414,7 +414,7 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi nyama pingo.** - I eat apples.  
+> **mi kana pingo.** - I eat apples.  
 > **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
@@ -481,9 +481,9 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 
 Object 1 functions has dual role. It is at the same time the object for verb 1 and the subject for verb 2.
 
-> **mi wol tu nyama sabze.** - I want you eat vegetables.
+> **mi wol tu kana sabze.** - I want you eat vegetables.
 
-In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
+In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **kana sabze**. So **tu** is the _pivot_ of the entire sentence.
 
 
 ### 7.7. Serial verbs
@@ -538,14 +538,14 @@ Particle **si** is affirmative and **no** is negative. **si** affirms the existe
 
 Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
 
-> **mi si yan.** - I am a person.  
+> **mi si ren.** - I am a person.  
 > **ye si nowi meza.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
-> **mi no yan.** - I'm not a person.  
+> **mi no ren.** - I'm not a person.  
 > **ye no nowi meza.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
@@ -573,8 +573,8 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **da** works like apostrophe-s ('s) in English.
 
 > **maria da mama** - Maria's mother  
-> **mi da bet** - my house  
-> **mi da papa da bet** - my father's house
+> **mi da dom** - my house  
+> **mi da papa da dom** - my father's house
 
 **du** works like "of" in English.
 
@@ -606,7 +606,7 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du nyama pingo_.** - I see a man _who eats apples_.  
+> **mi wida man _du kana pingo_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
@@ -622,10 +622,10 @@ In Pandunia, a modal particle modifies the subsequent word, or the whole sentenc
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-> **ye nyama bir plus.** - S/he drinks beer, _also_.  
-> **ye nyama plus bir.** - S/he drinks _also beer_.  
-> **ye plus nyama bir.** - S/he _also drinks_ beer.  
-> **plus ye nyama bir.** - _Also s/he_ drinks beer.
+> **ye kana bir plus.** - S/he drinks beer, _also_.  
+> **ye kana plus bir.** - S/he drinks _also beer_.  
+> **ye plus kana bir.** - S/he _also drinks_ beer.  
+> **plus ye kana bir.** - _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
@@ -676,7 +676,7 @@ Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 **na** is an all-purpose preposition. Its basic meaning is "with".
  
-**mi stasa na bet.**  
+**mi stasa na dom.**  
 _I stand with house._  
 I stand by the house.
  
@@ -695,7 +695,7 @@ In Pandunia some verbs function like prepositions do in English.
 > **mi kata pan.** - I cut bread.  
 > **mi kata pan uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
-> **mi denga dura dua hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
+> **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
 Here are some verbs that are usable as prepositions:
 
@@ -721,14 +721,14 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 > **mi saba pandunia ka guru.** - I know Pandunia like a master.
 
-**Ka** relates the verb or the adjective to a point of comparison. In the above example **sabi** (know) is the verb and **guru** (master) is the point of comparison.
+**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
 
-**Ka** is also used when adjectives are compared.
+**ka** is also used when adjectives are compared.
 
-> **ban si min dai ka papa.** - The child is smaller than the father.  
-> **opa si sem dai ka papa.** - Grandfather is as big as father.
+> **bace si min day ka papa.** - The child is smaller than the father.  
+> **opa si sem day ka papa.** - Grandfather is as big as father.
 
-**Ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
 
 
@@ -779,7 +779,7 @@ There is a handful of verbs, which appear without the ending. These are some of 
 
 Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
 
-1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **wida** = "to look".
+1. If the root is an action, then its verbal form will mean "to do the action". For example from **wide** = "a look" we get **wida** = "to look".
 2. If the root is a description, like **now-** (**nowi** = new), then its verbal form will mean "to turn into that quality". For example from **nowi** = "new" we get **nowa** = "to make new" or "to renew".
 
 
@@ -981,11 +981,11 @@ Each sentence can be drawn as a tree diagram, where the central words are above 
 
 Adjectives and numerals point to their head word, the noun.
 
-    mi wida sam jowan yan.
+    mi wida sam jowan ren.
 
        wida
       ┌─┴──┐
-     mi   yan
+     mi   ren
            |
          jowan
            |
