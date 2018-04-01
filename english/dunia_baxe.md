@@ -205,10 +205,11 @@ Allowed final consonants
 | Hindustani | m n ~  | r l       | p t k c         | b d g j      | s sh       | simple   |
 | Arabic     | m n    | r l       | p t k           | b d g        | s z sh     | none     |
 | Russian    | m n ñ  | r l       | p t k ch        | -            | s sh x     | complex  |
+
+
+<!--
  
 ## Morphology
- 
- 
  
 Many languages treat proper nouns in a special way. Names don't have to conform to the morphology of the language.
  
@@ -216,19 +217,11 @@ We must assume that the interlanguage has to deal with names in all shapes and s
  
 It is reasonable to let proper nouns be as they were. Pandunia accepts all names without any changes. (However in practice it is wise to convert them to the Pandunia alphabet.) So there is a large group of nouns that do not conform to any morphological constraints.
  
- 
- 
-ti = this
-to = so
-si = this, that
-so = so
- 
 This situation is a problem in Esperanto, where all nouns should end in -o. So should all names, such as Tim, Joanne, Lee and Maria, be "localized" to Esperanto?
  
-Overlap of word forms can't be avoided.
- 
 ## Transitivity
- 
+
+-->
  
 ## Loan words
  
@@ -283,10 +276,11 @@ Middle Chinese had unreleased stop consonants, which are usually written -p, -t 
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new – Sinitic words are already inflected in Korean!
 
-
+<!--
 
 https://docs.google.com/spreadsheets/d/1ArxEFo46PTrDyDDhWyu3wB0epxqTyd8WBaprnwTEPm4/edit#gid=1428902047
 
+-->
 
 ### Perso-Arabic words
  
@@ -294,16 +288,12 @@ https://docs.google.com/spreadsheets/d/1ArxEFo46PTrDyDDhWyu3wB0epxqTyd8WBaprnwTE
  
 ### African words
  
- 
- 
 Words in Bantu languages normally have this structure: prefix + root + affixes. Normally the root ends in a consonant. Only the root is borrowed to Pandunia.
- 
- 
-http://inf.ufrgs.br/~vbuaraujo/misc/kontrauranto/
 
 
 ### Word building
 
+<!--
 
 way-dexi
 Mandarin: 外国的 wàiguóde (out-country-'s)  
@@ -407,19 +397,20 @@ The plural pronouns follow the pattern of Standard Chinese.
 
 Note: The third person pronoun **ye** refers to both male and female persons as well as inanimate objects – just like the source words in Hindi-Urdu and Bantu languages.
 
+-->
 
 ## Easy sentences
 
-The normal sentence word order is subject-verb-object, following the pattern of both English and Chinese.
+The normal sentence word order is subject-verb-object, following the pattern of English and Chinese among others.
 
     English:   I love you, and you love me.
-    Pandunia:  mi romansa tu, tu romansa mi.
+    Pandunia:  mi ama tu, tu ama mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
+The verb **bey** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bei kana.
+    Pandunia:  pingo bey kana.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
@@ -434,14 +425,14 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
     Pandunia:  mi cing ye kana kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **es**, is used instead of _am, is, are, was, were..._
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ye es pingo.
+    Pandunia:  ye si pingo.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemen es pingo.
+    Pandunia:  yemen si pingo.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 

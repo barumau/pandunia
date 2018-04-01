@@ -632,10 +632,10 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 ### 9.4. Tense and Aspect Particles
 
-In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **zay** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
 > **mi ada mau pas.** - I had cats in the past.
-> **a mi no ada mau nun.** - But I don't have cats now.
+> **a mi no ada mau zay.** - But I don't have cats now.
 > **munkin mi ada mau futur.** - Maybe I have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **ada** stayed the same in all tenses in the examples above.
@@ -699,10 +699,13 @@ In Pandunia some verbs function like prepositions do in English.
 
 Here are some verbs that are usable as prepositions:
 
+> **badu** - to follow; after, behind  
 > **dura** - to last; during, for the time/duration of  
-> **loka** - to be located; at  
-> **sirka** - to circulate; around  
-> **supra** - to surpass; over, above
+> **jungu** - to be centered; amid, amidst, in the middle, in the center  
+> **loku** - to occupy, to be located; at  
+> **sirku** - to surround; around  
+> **supru** - to surpass; over, above  
+> **karena** - be caused by; because  
 
 #### 10.1.4. Verbs without prepositions
 
@@ -1002,12 +1005,12 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 7. Numerals
 8. Adjectives
 
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **sababu**, here its scope is only to connect **yusef** and **sara**. **sababu** is at the top, because it connects the two sub-phrases.
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **karena**, here its scope is only to connect **yusef** and **sara**. **karena** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
+    yusef i sara wol darsa pandunia karena ye si bon dunia bax.
 
-                       sababu
+                       karena
                ┌──────────┴──────────┐
               wol                   si
           ┌────┴──────┐           ┌──┴──┐

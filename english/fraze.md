@@ -762,7 +762,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **nida** need <small>(English _need_)</small>  
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
-**nun** now, currently <small>(German _nun_)</small>  
 **pa** father <small>(Russian _papa_ папа)</small>  
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ren** person <small>(Mandarin _rén_ 人)</small>  
@@ -781,6 +780,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ya** yes <small>(Indonesian _ya_)</small>  
 **ye** he, she, it <small>(Lingala _yé_)</small>  
 **yemen** they  
+**zay** currently, at present <small>(Mandarin _zài_ 在)</small>  
 **ze** from, since <small>(Czech _z, ze_)</small>  
 
 
