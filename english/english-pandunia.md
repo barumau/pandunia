@@ -1,7 +1,59 @@
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+a unit consisting of a set of similar items   : -em  
 ##a  
 ability (skill)   : kene  
 able (capable)   : kabil  
-about (concerning)   : na tem du  
 accept (to say okay)   : okeya  
 act (play a role)   : akta  
 act (scene)   : akte  
@@ -15,7 +67,6 @@ advice (counsel)   : konsel
 affirm (agree, concur)   : amena  
 Africa   : afrika  
 African   : afrikan  
-after (following)   : na bada  
 afternoon   : xam den  
 age   : umur  
 agile   : ajil  
@@ -58,7 +109,6 @@ Argentina   : arhentina
 argue (claim)   : teza  
 argument (thesis)   : teze  
 army   : armia  
-around (about)   : na wen  
 art   : arte  
 article (writing)   : makala  
 artificial   : sani  
@@ -74,7 +124,6 @@ ask (request; please)   : cing
 asparagus   : lusun  
 aspirin   : aspirin  
 asthma   : asma  
-at (at the location of)   : na lok  
 athlete (sportsman)   : sportar  
 atom   : atom  
 attack   : atake  
@@ -102,6 +151,7 @@ ball   : bol
 bamboo   : jug  
 banana   : banana  
 band (bandage)   : bande  
+band (group)   : bande  
 Bangladesh (Bengal)   : bangla  
 baobab   : buyu  
 bar (obstruct)   : bara  
@@ -131,6 +181,7 @@ bedouin (nomadic)   : badawi
 bedroom   : son kamer  
 beef   : mumu nyam  
 beer   : bir  
+bega  escape (flee, run away)    
 begin (commence)   : mula  
 beginning   : mul  
 Beijing (Peking)   : beijing  
@@ -143,7 +194,6 @@ Belize   : belize
 bell pepper   : cili  
 belly (abdomen)   : fubu  
 belong   : adu  
-below (under)   : na xia  
 belt (zone)   : zon  
 bench   : benci  
 beret   : beret  
@@ -187,7 +237,7 @@ brave (courageous)   : yungam
 Brazil   : brazil  
 bread   : pan  
 breakfast   : suba nyame  
-breast (boob, tits)   : mame  
+breast (boob, tits)   : mam  
 breath   : nafas  
 bridge   : pont  
 bright (clear)   : ming  
@@ -247,13 +297,13 @@ cassava (manioc)   : manioka
 cat   : mau  
 Catalonia   : katalunya  
 catch (to hunt)   : kaca  
-cause   : koza  
 cave   : gua  
 celebrate (party)   : festa  
 celestial (heavenly)   : samani  
 cell (biology)   : sel  
 cello   : celo  
 cement   : sement  
+center (concentrate)   : junga  
 centi- (per cent)   : centi  
 Ceres (dwarf planet)   : seres  
 certain (sure)   : yakin  
@@ -282,14 +332,14 @@ child (offspring)   : bace
 Chile   : cile  
 chili pepper   : lat cili  
 chimpanzee   : cimpanzi  
-China   : jungo  
+China   : jungogia  
 chinchilla   : cincila  
-chocolate   : cokolet  
-chocolate bar   : cokolet baton  
-choice (selection)   : cun  
+chocolate   : cokolat  
+chocolate bar   : cokolat baton  
+choice (election, selection)   : cun  
 choir (chorus)   : kor  
 cholera   : kolera  
-choose (select)   : cuna  
+choose (elect, select)   : cuna  
 Christ   : kriste  
 Christian   : kristi  
 Christianity (Christendom)   : kristia  
@@ -297,13 +347,15 @@ Christmas   : kriste jen
 church   : eglis  
 cigar   : sigar  
 cigarette   : sigaret  
-circle   : sirke  
 circle (ring)   : wen  
+circle (round)   : sirke  
 class (category)   : klas  
 classify (categorize)   : klasa  
 clean (pure)   : safi  
 clean (purify)   : safa  
 clear (not obscured)   : klar  
+clone (replica)   : klon  
+clone (replicate)   : klona  
 cloth (fabric, textile)   : tela  
 clothing   : fuk  
 cloud   : megam  
@@ -396,13 +448,14 @@ curve (bend)   : kurbe
 curvy (curved)   : kurbi  
 cushion (pillow)   : kusen  
 cut   : kata  
-cute   : kawayi  
+cute   : kaway  
 Czech   : ceski  
 ##d  
 damage (wreck)   : awar  
 danger (peril)   : hatar  
 dangerous   : hatari  
 dark (dim)   : oskur  
+Darwinism   : darwinisme  
 date fruit   : tamar  
 daughter   : fem ban  
 day (daytime)   : den  
@@ -459,7 +512,6 @@ drawing (picture)   : desen
 dress (gown)   : gaun  
 drill (bore)   : bora  
 drug (intoxicating substance)   : drog  
-drugstore (pharmacy)   : dawe kan  
 drum   : tambur  
 dry   : suhi  
 duck   : bata  
@@ -525,8 +577,8 @@ except (minus)   : minus
 exchange (swap, replace)   : badala  
 excrement (shit)   : kak  
 exist   : esu  
-exit (leaving)   : cud  
-exit door   : cud mun  
+exit (leaving)   : cute  
+exit door   : cute mun  
 eye   : yen  
 ##f  
 face   : muka  
@@ -585,7 +637,7 @@ flower   : hua
 flower   : pul  
 fly   : feya  
 focus (concentration)   : fokus  
-follow (come after)   : bada  
+follow (come after)   : badu  
 food (meal)   : kane  
 fool (buffoon)   : bufon  
 fool (idiot)   : bobo  
@@ -772,13 +824,13 @@ if (suppose, assume)   : jadi
 image (picture)   : sure  
 important   : muhim  
 imprison (jail)   : prizona  
-in (inside)   : na in  
 India   : bartia  
 Indian   : barti  
 Indonesia   : indonesia  
 inform (communicate)   : informa  
 information   : informe  
-injection   : juxa  
+inject   : juxa  
+injection   : juxe  
 ink   : mog  
 insect   : koncung  
 inside (interior)   : in  
@@ -862,7 +914,7 @@ lantern   : fanus
 Laos   : lao  
 larva (maggot, caterpillar)   : larwa  
 last (final)   : final  
-last (take time)   : dura  
+last (take time, during)   : dura  
 Latvia   : latvia  
 laugh   : haha  
 law   : kanun  
@@ -871,7 +923,7 @@ leader (director)   : lidar
 leak   : lowa  
 learn (study)   : darsa  
 least (minimally)   : minim  
-leave (go out, exit)   : cuda  
+leave (go out, exit)   : cuta  
 Lebanon   : lubnan  
 lemon   : limun  
 length   : longe  
@@ -889,7 +941,6 @@ life force (chi)   : ki
 light (illumination)   : guang  
 like (as, as if, than)   : ka  
 like (enjoy, be fond of)   : suku  
-like (in the style of)   : na yang du  
 lilac   : lilak  
 lily   : lili  
 limit (boundary)   : limit  
@@ -915,6 +966,7 @@ love (affection)   : amor
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
 lunch   : den nyame  
+lung   : pulmon  
 lychee (litchi)   : lici  
 lymph   : limfa  
 ##m  
@@ -972,7 +1024,6 @@ meaning (signification)   : mane
 meat (flesh)   : manse  
 medallion (medal)   : medalia  
 media   : midia  
-medicine (drug)   : dawe  
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mit  
@@ -1035,8 +1086,7 @@ mud (mire)   : poto
 mummy   : mumia  
 muscle   : muskul  
 mushroom (fungus)   : funge  
-music   : musik  
-music fan   : musik nik  
+music   : musike  
 musician   : musikar  
 musket   : musket  
 musketeer   : musketir  
@@ -1110,7 +1160,6 @@ okra (gumbo)   : demokrati
 old (ancient)   : puran  
 olive   : zaytun  
 Oman   : oman  
-on (on surface)   : na fas  
 one (1)   : un  
 only (just)   : sol  
 open   : kaya  
@@ -1131,7 +1180,6 @@ original   : asli
 orphan   : yatim  
 other   : alter  
 ouch! (alas!)   : ai  
-out (outside)   : na way  
 outside (exterior)   : way  
 oxygen   : okse  
 ##p  
@@ -1162,6 +1210,7 @@ participate (attend, take part)   : memba
 party (celebration, festival)   : feste  
 pascal (Pa)   : paskal  
 pass (go by, go past)   : pasa  
+pass (of time)   : duru  
 past (bygone)   : pas  
 past (former)   : gon  
 past times   : pase  
@@ -1289,7 +1338,7 @@ program   : program
 programmer (coder)   : programar  
 project (planned endeavour)   : projet  
 promise (commit)   : wada  
-prophecy   : nabi  
+prophecy   : nabe  
 prove (testify)   : pramana  
 pudding   : puding  
 Puerto Rico   : puertoriko  
@@ -1318,7 +1367,6 @@ random   : hazari
 read   : duga  
 ready   : redi  
 realization (awareness, enlightenment, bodhi)   : bud  
-reason (cause)   : koz  
 reason (rational thinking)   : razon  
 rebellion   : rebel  
 receit   : resid  
@@ -1349,6 +1397,7 @@ respond (give an answer)   : daba
 rest (relief)   : resta  
 rest (remainder)   : reste  
 restaurant   : restoran  
+resume (recover, restore)   : fuga  
 rhinoceros   : faru  
 rhythm (beat)   : ritme  
 rice   : ris  
@@ -1373,7 +1422,7 @@ room (chamber)   : kamer
 root   : gen  
 rose   : roze  
 rotor (rotator)   : rotor  
-round   : sirki  
+round (circular)   : sirki  
 routine (habit)   : rutin  
 royal   : raji  
 rubber   : gom  
@@ -1434,6 +1483,7 @@ sexy (sexual)   : seksi
 shadow   : caye  
 shaman   : xaman  
 shampoo   : xampu  
+shape (sculpt)   : forma  
 shari'a   : xaria  
 shea   : karite  
 sheep   : meme  
@@ -1442,7 +1492,8 @@ shirt   : kamis
 shock (collision)   : xok  
 shoe   : sapate  
 shoemaker   : sapatir  
-short (not long)   : duan  
+short (brief)   : korti  
+shorten   : korta  
 should (ought)   : ingay  
 show (display)   : xowa  
 show (display, exhibition)   : xow  
@@ -1459,7 +1510,7 @@ Singapore   : singapur
 six (6)   : sis  
 sizzle   : ziza  
 skin   : pifu  
-skirt   : jup  
+skirt   : jupe  
 skull   : sar gut  
 sky (heaven)   : saman  
 sleep   : son  
@@ -1514,7 +1565,6 @@ steal   : cura
 steer   : gida  
 still (yet)   : hay  
 stipulate   : xarta  
-stone   : batu  
 stop   : stop  
 storm (tempest)   : tufan  
 straight   : jik  
@@ -1545,11 +1595,13 @@ sum up (add together)   : suma
 sun   : surya  
 Sunday   : war 7 (war set)  
 superb (wonderful, super)   : super  
+supply (dispense, issue, put out)   : fada  
 surface   : fas  
 Suriname   : suriname  
 surname (family name)   : famil nam  
-surpass (go over)   : supra  
+surpass (go over)   : supru  
 surrender (to give up)   : salima  
+surround (be around)   : sirku  
 sushi   : suxi  
 sweat (perspiration)   : suede  
 sweaty   : suedi  
@@ -1568,6 +1620,7 @@ tale (legend, saga)   : sage
 Tanakh (Jewish Bible)   : tanah  
 tank (container)   : tank  
 Tanzania   : tanzania  
+Taoism   : dawisme  
 tap (stopper)   : tap  
 tape   : tepe  
 taste (flavor)   : guste  
@@ -1620,6 +1673,7 @@ time of day (moment)   : sat
 tiny (mini-)   : mini  
 titanium   : titan  
 to (till, until, for)   : to  
+to be centered (amid, in the middle)   : jungu  
 tobacco   : tabake  
 Togo   : togo  
 toilet (WC)   : tualet  
@@ -1729,7 +1783,6 @@ west   : weste
 western   : westi  
 what? (which?)   : ce  
 wheel   : cakra  
-while (during)   : na dura  
 whip (lash)   : cabuk  
 white   : bay  
 whole (entire, all)   : tot  

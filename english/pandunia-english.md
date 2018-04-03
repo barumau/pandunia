@@ -74,13 +74,13 @@ ayiti : Haiti
 
 babe : chapter (section)  
 bace : child (offspring)  
-bada : follow (come after)  
 badala : exchange (swap, replace)  
 badam : almond  
 badan : body  
 badani : bodily (corporal)  
 badawi : bedouin (nomadic)  
 bade : consequence (follow-up)  
+badu : follow (come after)  
 bagaje : luggage (baggage)  
 bal : strong  
 balde : bucket  
@@ -91,6 +91,7 @@ bana : build (construct)
 banana : banana  
 banda : tie (fasten, bind)  
 bande : band (bandage)  
+bande : band (group)  
 bander : flag (banner)  
 bangla : Bangladesh (Bengal)  
 banka : save (deposit, bank)  
@@ -117,7 +118,6 @@ batakrot : platypus
 batata : yam (sweet potato)  
 bateri : battery  
 baton : bar (rod, stick)  
-batu : stone  
 bax : language (communication)  
 bax lojia : linguistics  
 baxa : speak (communicate)  
@@ -129,6 +129,7 @@ be : without
 bebe : baby (darling)  
 bed : bed  
 bedinjan : eggplant (aubergine, brinjal)  
+bega  escape (flee, run away)  
 beijing : Beijing (Peking)  
 beka : bake  
 bekar : baker  
@@ -224,19 +225,19 @@ cis : cheese
 cita : quote  
 coda : fuck (copulate)  
 cok : many (much)  
-cokolet : chocolate  
-cokolet baton : chocolate bar  
+cokolat : chocolate  
+cokolat baton : chocolate bar  
 corab : sock (stocking)  
-cud : exit (leaving)  
-cud mun : exit door  
-cuda : leave (go out, exit)  
 cuka : vinegar  
-cun : choice (selection)  
-cuna : choose (select)  
+cun : choice (election, selection)  
+cuna : choose (elect, select)  
 cupa : suck  
 cur : theft (steal)  
 cura : steal  
 curar : thief  
+cuta : leave (go out, exit)  
+cute : exit (leaving)  
+cute mun : exit door  
 
 ##d
 
@@ -264,9 +265,9 @@ darse : lesson
 darse bace : student (pupil)  
 darse guru : teacher  
 darse kan : school (institution)  
+darwinisme : Darwinism  
 daw : way (road)  
-dawe : medicine (drug)  
-dawe kan : drugstore (pharmacy)  
+dawisme : Taoism  
 deci : deci-  
 dem : point (spot)  
 demokrati : okra (gumbo)  
@@ -312,7 +313,6 @@ doze : portion (dose)
 drama : drama  
 drog : drug (intoxicating substance)  
 du : of (particle of possession)  
-duan : short (not long)  
 duga : read  
 duk : grief (sorrow)  
 duka : grieve  
@@ -324,7 +324,8 @@ dunia : world
 dunia bax : world language  
 dunial : global  
 dur : duration  
-dura : last (take time)  
+dura : last (take time, during)  
+duru : pass (of time)  
 duwa : pray  
 duwe : prayer  
 dux : shower  
@@ -360,6 +361,7 @@ europan unia : European Union (EU)
 
 ##f
 
+fada : supply (dispense, issue, put out)  
 faide : use (utility, benefit, gain, advantage)  
 faidi : useful (beneficial)  
 fain : fine (delicate)  
@@ -427,6 +429,7 @@ foneme : phoneme
 fong : wind  
 fonga : blow  
 forke : fork  
+forma : shape (sculpt)  
 forme : form (shape)  
 forum : forum  
 fos : pit (excavation)  
@@ -436,6 +439,7 @@ foto : photograph
 frans : France  
 fu : bah! (yuck!)  
 fubu : belly (abdomen)  
+fuga : resume (recover, restore)  
 fuk : clothing  
 fuka : wear clothes  
 ful : full  
@@ -672,10 +676,13 @@ jug : bamboo
 jul : joule (J)  
 jumle : sentence (phrase)  
 jung : middle (center)  
-jungo : China  
-jup : skirt  
+junga : center (concentrate)  
+jungogia : China  
+jungu : to be centered (amid, in the middle)  
+jupe : skirt  
 jus : juice  
-juxa : injection  
+juxa : inject  
+juxe : injection  
 
 ##k
 
@@ -736,7 +743,7 @@ kasa : case (container)
 kastan : chestnut  
 kata : cut  
 katalunya : Catalonia  
-kawayi : cute  
+kaway : cute  
 kaxa : porridge  
 kay : open (not closed)  
 kaya : open  
@@ -778,6 +785,8 @@ kiwi : kiwi fruit
 klar : clear (not obscured)  
 klas : class (category)  
 klasa : classify (categorize)  
+klon : clone (replica)  
+klona : clone (replicate)  
 klub : club  
 koda : encode  
 kode : code (cipher)  
@@ -812,14 +821,14 @@ kor : choir (chorus)
 korne : horn  
 koron : crown  
 koron xefe : king or queen  
+korta : shorten  
+korti : short (brief)  
 kos : cough  
 kosmos : space (cosmos, universe)  
 kosta : cost  
 kosta rika : Costa Rica  
 koste : cost (price)  
 kot : coat  
-koz : reason (cause)  
-koza : cause  
 kratia : rule (reign)  
 krem : cream  
 kriste : Christ  
@@ -954,9 +963,9 @@ malaria : malaria
 
 ##m
 
+mam : breast (boob, tits)  
 mama : mother (mom)  
 mamal : mammal  
-mame : breast (boob, tits)  
 man : male  
 man ban : son  
 man raje : king  
@@ -1105,10 +1114,9 @@ mur : wall
 mus : must  
 musa : coerce (force, compel)  
 muse : coercion  
-musik : music  
-musik nik : music fan  
 musika : play music  
 musikar : musician  
+musike : music  
 musket : musket  
 musketir : musketeer  
 muskul : muscle  
@@ -1118,17 +1126,7 @@ muxu : mouse
 ##n
 
 na : with (by, at, in, on)  
-na bada : after (following)  
-na dura : while (during)  
-na fas : on (on surface)  
-na in : in (inside)  
-na lok : at (at the location of)  
-na tem du : about (concerning)  
-na way : out (outside)  
-na wen : around (about)  
-na xia : below (under)  
-na yang du : like (in the style of)  
-nabi : prophecy  
+nabe : prophecy  
 nadi : river  
 nafas : breath  
 nahun : nail (fingernail)  
@@ -1338,6 +1336,7 @@ puertoriko : Puerto Rico
 puja : worship (revere)  
 pul : flower  
 pula : blossom (bloom)  
+pulmon : lung  
 pulo : island  
 punt : point (full stop)  
 pupe : doll (puppet)  
@@ -1493,8 +1492,9 @@ sing : lion
 singapur : Singapore  
 sinye : sign (signal)  
 sir : secret  
-sirke : circle  
-sirki : round  
+sirke : circle (round)  
+sirki : round (circular)  
+sirku : surround (be around)  
 sis : six (6)  
 sisme : earthquake  
 sisme-lojia : seismology  
@@ -1549,7 +1549,7 @@ sundar : beautiful (handsome)
 suomia : Finland  
 supe : soup  
 super : superb (wonderful, super)  
-supra : surpass (go over)  
+supru : surpass (go over)  
 sura : picture (illustrate)  
 sure : image (picture)  
 suriname : Suriname  
