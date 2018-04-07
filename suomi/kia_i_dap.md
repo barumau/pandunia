@@ -19,7 +19,7 @@ Pandunian tekijät alkoivat työskennellä yhdessä vuonna 2005. Alusta lähtien
 
 #### Mitä pandunian lippu esittää?
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunian lippu")
+![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
 
 Pandunian lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
 
@@ -122,7 +122,7 @@ Pandunia on taipumaton kieli. Mm. persoonamuodot, aikamuodot, yksikkö ja monikk
 Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen osat on erotettu toisistaan pystyviivalla.
 
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
-    Pandunia:  mi   wol    wide  tu su   du    sundar    yen.
+    Pandunia:  mi   wol    wid|a  tu da  do    sundar    yen.
                Minä haluan nähdä sinun   kaksi kaunista  silmää.
 
 #### Miksi X-kirjain äännetään suhu-ässänä?

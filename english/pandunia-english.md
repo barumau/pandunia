@@ -207,8 +207,6 @@ cape : print (stamp)
 car : four (4)  
 cat : roof  
 caye : shadow  
-ce : what? (which?)  
-ce yang? : how?  
 ceka : check (to examine)  
 celo : cello  
 centi : centi- (per cent)  
@@ -706,8 +704,8 @@ kamer : room (chamber)
 kamer tal : floor  
 kamera : camera  
 kamis : shirt  
-kampe : camp  
 kampar : camper  
+kampe : camp  
 kan : workshop (place for...)  
 kana : consume (eat or drink)  
 kanada : Canada  
@@ -745,7 +743,10 @@ kaxa : porridge
 kay : open (not closed)  
 kaya : open  
 kazu : event (case, instance)  
-ke : that (conj.)  
+ke : what? (which?)  
+ke ren : who?  
+ke yang? : how?  
+ke zaman : when?  
 kecap : ketchup  
 keci : polite  
 kek : cake (cookie)  

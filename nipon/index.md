@@ -1,6 +1,6 @@
 # パンズニヤ語へよこそう
 
-![](http://www.pandunia.info/bandera/bandera.png "pandunia bandera")
+![](http://www.pandunia.info/bander/bander.png "pandunia da bander")
 
 パンズニヤ語 (pandunia) は、新しい[国際補助語](https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%A3%9C%E5%8A%A9%E8%AA%9E)の提案です。 パンズニヤ語は世界中の人々が共有する「ピジン言語」になるように設計されている新しい国際言語の思案である。
 

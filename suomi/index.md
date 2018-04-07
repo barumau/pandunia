@@ -1,7 +1,7 @@
 pandunia - koko maailman kieli
 ==============================
 
-![](http://www.pandunia.info/bandera/bandera.png "The flag of Pandunia")
+![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
 
 ## Mikä pandunia on?
 

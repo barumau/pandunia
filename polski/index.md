@@ -1,7 +1,7 @@
 pandunia - prosty światowy język
 ==================================
 
-![](http://www.pandunia.info/bandera/bandera.png "Flaga Pandunii")
+![](http://www.pandunia.info/bander/bander.png "Flaga Pandunii")
 
 ## Czym jest Pandunia?
 

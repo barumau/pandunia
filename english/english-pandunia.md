@@ -796,7 +796,7 @@ horse   : uma
 hotel   : hotel  
 hour   : hor  
 house   : bet  
-how?   : ce yang?  
+how?   : ke yang?  
 howl   : ulula  
 howling   : ulul  
 huh? (pardon?)   : he  
@@ -1657,7 +1657,6 @@ test (challenge, trial)   : teste
 Thai (Thailand)   : tai  
 thank   : danka  
 thanks (thank you)   : danke  
-that (conj.)   : ke  
 that is (in other words, i.e.)   : yani  
 that which   : jo  
 the   : el  
@@ -1792,10 +1791,12 @@ week   : set war
 welcome!   : salam laye  
 west   : weste  
 western   : westi  
-what? (which?)   : ce  
+what? (which?)   : ke  
 wheel   : cakra  
+when?   : ke zaman  
 whip (lash)   : cabuk  
 white   : bay  
+who?   : ke ren  
 whole (entire, all)   : tot  
 wide   : kuan  
 wiki   : wiki  

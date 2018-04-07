@@ -1,7 +1,7 @@
 Pandunia - una lengua construída simple
 ==================================
 
-![](http://www.pandunia.info/bandera/bandera.png "Bandera de Pandunia")
+![](http://www.pandunia.info/bander/bander.png "Bandera de Pandunia")
 
 ## ¿Qué es Pandunia?
 
