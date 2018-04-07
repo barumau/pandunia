@@ -167,23 +167,23 @@ bolivia : Bolivia
 bombe : bomb  
 bon : good  
 bora : drill (bore)  
-bot : boat (ship)  
+bote : boat (ship)  
 botol : bottle  
 boton : button  
 brazil : Brazil  
 britan : Britain (UK)  
 brox : brush  
-bud : realization (awareness, enlightenment, bodhi)  
-bud din : Buddhism  
-buda : intelligence (understanding)  
+buda : realize  
 budan : Mercury  
+bude : realization (awareness, enlightenment, bodhi)  
 budi : aware (enlightened)  
+budisme : Buddhism  
 bufon : fool (buffoon)  
-bujet : budget  
-buk : book  
+bujete : budget  
+buke : book  
 buking : booking (reservation)  
 bula : forget  
-bunduk : gun (handheld firearm)  
+bunduke : gun (handheld firearm)  
 bus : bus  
 buton : key (push-button, switch)  
 buton paban : keyboard  
@@ -202,8 +202,8 @@ campion : champion
 candi : silver  
 cang : often (frequently)  
 cans : opportunity (chance)  
-cap : press (stamp)  
 capa : press (imprint)  
+cape : print (stamp)  
 car : four (4)  
 cat : roof  
 caye : shadow  
@@ -283,6 +283,7 @@ dew : god (deity)
 dew lojia : theology  
 dewi : divine (godly)  
 dewi sage : myth (divine story)  
+dewisme : theism  
 dex : country (land)  
 deya : village  
 deya stan : countryside  
@@ -342,16 +343,13 @@ el : the
 elektre : electricity  
 elektron : electron  
 enda : go  
-energi : energy  
-englix : English  
+energe : energy  
+engli : English  
 eni : any (no matter which)  
 eris : Eris (dwarf planet)  
 eritra : Erithrea  
-es : be (exist as)  
-ese : being (existence)  
 espanya : Spain  
 esti : Estonia  
-esu : exist  
 eurasia : Eurasia  
 eureka : find (discover)  
 euro : euro  
@@ -375,11 +373,10 @@ famil : family
 famil nam : surname (family name)  
 fan : fun (amusement)  
 fani : funny (amusing)  
-fantas : fantasy (imagination)  
-fantasa : fantasize  
-fantasi : fantastic (imaginary)  
+fantaza : imagine (fantasize)  
+fantaze : fantasy (imagination)  
+fantazi : fantastic (imaginary)  
 fantom : ghost (fantom)  
-fanus : lantern  
 far : far  
 farsi : Persian (Farsi)  
 faru : rhinoceros  
@@ -390,17 +387,15 @@ faxisme : fascism
 faxiste : fascist  
 fay : fire  
 feber : fiever  
-fek : feces (poop)  
-feka : defecate  
 fem : female  
-fem ban : daughter  
-fem raje : queen  
+fem bace : daughter  
+fem rajar : queen  
 fen : part (fraction)  
 fena : divide (to partition)  
 fer : iron  
 festa : celebrate (party)  
 feste : party (celebration, festival)  
-fet : fat (grease)  
+fete : fat (grease)  
 feti : fatty (greasy)  
 feya : fly  
 figur : figure (representation)  
@@ -418,9 +413,9 @@ finger : finger (toe)
 finger wen : finger ring  
 fini : finished  
 fix : fish  
-fizik : physics  
+fizike : physics  
 fizikia : physics  
-fizikir : physicist  
+fizikar : physicist  
 fobe : fear (phobia)  
 fokus : focus (concentration)  
 fokusa : concentrate  
@@ -440,8 +435,8 @@ frans : France
 fu : bah! (yuck!)  
 fubu : belly (abdomen)  
 fuga : resume (recover, restore)  
-fuk : clothing  
 fuka : wear clothes  
+fuke : clothing  
 ful : full  
 fula : fill  
 fulan : some (indefinite, indeterminate)  
@@ -475,7 +470,7 @@ gaw : high
 gayana : Guyana  
 gaze : gauze  
 gazel : gazelle  
-gazet : magazine (journal, gazette)  
+gazete : magazine (journal, gazette)  
 gem : game  
 gema : play a game  
 gemar : player (gamer)  
@@ -527,7 +522,7 @@ haber gazet : newspaper (gazette)
 haha : laugh  
 hak : right (justification, privilege)  
 hakim : judgment (sentence)  
-hakim guru : judge (referee)  
+hakimar : judge (referee)  
 hali : empty  
 halif : caliph  
 halo : hello (hi)  
@@ -605,6 +600,8 @@ informe : information
 ingay : should (ought)  
 injenar : engineer  
 inji : ginger  
+insan : human being  
+insania : mankind (humanity)  
 inspira : inspire (inspiration)  
 inter : between  
 interes : interest (interesting)  
@@ -709,7 +706,7 @@ kamer : room (chamber)
 kamer tal : floor  
 kamera : camera  
 kamis : shirt  
-kamp : camp  
+kampe : camp  
 kampar : camper  
 kan : workshop (place for...)  
 kana : consume (eat or drink)  
@@ -752,7 +749,9 @@ ke : that (conj.)
 kecap : ketchup  
 keci : polite  
 kek : cake (cookie)  
+kel : sport (athletics)  
 kelele : noise  
+kelar : athlete (sportsman)  
 kemet : Ancient Egypt (Kemet)  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
@@ -834,7 +833,8 @@ krem : cream
 kriste : Christ  
 kriste jen : Christmas  
 kristi : Christian  
-kristia : Christianity (Christendom)  
+kristia : Christendom  
+kristisme : Christianity  
 krita : cry (shout)  
 kriz : crisis  
 krizi : critical (pertaining to crisis)  
@@ -869,6 +869,7 @@ lala : lie (lie down)
 lampa : lamp  
 lanca : throw (launch)  
 lanka : Sri Lanka  
+lanten : lantern  
 lao : Laos  
 larwa : larva (maggot, caterpillar)  
 lastik : elastic  
@@ -960,6 +961,7 @@ makedonia : Macedonia
 mal : bad  
 malaisia : Malaysia  
 malaria : malaria  
+mali : Mali  
 
 ##m
 
@@ -976,9 +978,7 @@ mango : mango
 mangus : mangosteen  
 manioka : cassava (manioc)  
 manse : meat (flesh)  
-mantu : dumpling  
-manux : human being  
-manuxia : mankind (humanity)  
+mante : steamed bun (mantou, manti)  
 mar : time (occasion)  
 maraton : marathon  
 marca : walk (march)  
@@ -992,12 +992,13 @@ martar : killer
 marte : death  
 marti : dead  
 martu : die  
-martur : victim of killing (also: martyr)  
 mas : mass (dough, lump)  
 masa : knead (give massage)  
 masaje : massage  
 masala : issue  
 maske : mask (camouflage)  
+matikar : mathematician  
+matike : mathematics (math)  
 matras : mattress  
 matur : mature (ripe, adult)  
 matur fem : woman (adult female)  
@@ -1033,22 +1034,22 @@ memora : remember
 men : bunch (collection)  
 mes : month  
 mes 1 (mes un) : January  
-mes 10 (mes des) : October  
-mes 11 (mes des un) : November  
-mes 12 (mes des du) : December  
-mes 2 (mes du) : February  
+mes 2 (mes do) : February  
 mes 3 (mes sam) : March  
 mes 4 (mes car) : April  
 mes 5 (mes lim) : May  
 mes 6 (mes sis) : June  
 mes 7 (mes set) : July  
 mes 8 (mes bat) : August  
-mes 9 (mes noi) : September  
-mesi : messiah (Christ)  
+mes 9 (mes noy) : September  
+mes 10 (mes des) : October  
+mes 11 (mes des un) : November  
+mes 12 (mes des do) : December  
 metal : metal  
 meter : meter  
 metod : method (way, manner)  
 mey : every (each)  
+mey zaman : always  
 meza : table  
 mi : I (me)  
 mi da : my  
@@ -1069,7 +1070,7 @@ mini : tiny (mini-)
 minim : least (minimally)  
 minimalisme : minimalism  
 minimi : minimal  
-ministar : minister (vizier)  
+ministar : minister  
 ministaria : ministry  
 minor : minor (not major)  
 minoria : minority  
@@ -1083,7 +1084,6 @@ misri : Egypt
 mit : meeting (gathering)  
 mita : meet  
 mode : fashion (trend)  
-mode nik : fashionista  
 model : model (design)  
 mog : ink  
 mola : grind (grind in mill)  
@@ -1097,7 +1097,7 @@ morfem : morpheme
 mos : moss  
 mosim : season  
 moskit : mosquito  
-motor : engine (motor)  
+motar : engine (motor)  
 mudan : peony  
 muhim : important  
 muka : face  
@@ -1114,12 +1114,14 @@ mur : wall
 mus : must  
 musa : coerce (force, compel)  
 muse : coercion  
-musika : play music  
 musikar : musician  
+musika : play music  
 musike : music  
+musikar : musician  
 musket : musket  
 musketir : musketeer  
 muskul : muscle  
+mustar : mustard  
 muxing : Jupiter  
 muxu : mouse  
 
@@ -1142,6 +1144,7 @@ nasi : popular
 nasia : nation  
 nasial : national  
 nasialisme : nationalism  
+nawa : Nahua people  
 nederland : Netherlands  
 nen : year  
 nen feste : anniversary  
@@ -1161,7 +1164,7 @@ nitro : nitrogen
 nixe : niche (alcove)  
 no : no (not)  
 noce : night  
-noi : nine (9)  
+node : knot (node; tie)  
 nonga : cultivate  
 norde : north  
 nordi : northern  
@@ -1176,6 +1179,7 @@ notis : notice (notification)
 notisa : notify  
 nowa : renew (make new, renovate)  
 nowi : new (novel)  
+noy : nine (9)  
 nudi : naked (bare)  
 nudisme : nudism  
 nul : zero (none)  
@@ -1206,17 +1210,16 @@ oskur : dark (dim)
 
 pa : father  
 paban : board (plank)  
+pada : drop (let fall)  
 padu : fall  
-pagri : turban  
-pai : pie (pastry)  
-pak : pack (package)  
+pagre : turban  
 paka : pack  
-paket : packet  
+pake : pack (package)  
 paki : bird  
 pakistan : Pakistan  
-pal : fruit (result, outcome)  
+pal : fruit  
 palma : palm tree  
-pan : bread  
+pan : all  
 panafrikan : pan-African  
 panama : Panama  
 panamerikan : pan-American  
@@ -1224,7 +1227,7 @@ panasian : pan-Asian
 panda : panda  
 pandunia : Pandunia  
 paneuropan : pan-European  
-pang : thick (fat)  
+pang : bread  
 panik : panic  
 pantalon : pants (trousers)  
 papa : father (dad)  
@@ -1237,6 +1240,7 @@ pas : past (bygone)
 pasa : pass (go by, go past)  
 pase : past times  
 paskal : pascal (Pa)  
+paste : paste  
 pat : path (track, trail)  
 paunde : pound (£)  
 paus : pause (break, interruption)  
@@ -1245,7 +1249,9 @@ paxa : hurt
 paxi : painful  
 paxia : suffer (hurt)  
 paxu : suffer (get hurt)  
+pay : pie (pastry)  
 ped : foot  
+pelmen : dumpling (ravioli, pelmeni)  
 penda : hang (dangle)  
 penis : penis  
 pensa : think  
@@ -1298,9 +1304,9 @@ polau : pilaf (pulao)
 poli : several  
 polis : police  
 polisar : police officer  
-politik : politics  
+politike : politics  
 politikar : politician  
-polska : Poland  
+polski : Polish  
 pompa : pump  
 pont : bridge  
 porne : porn  
@@ -1334,6 +1340,7 @@ puder : powder
 puding : pudding  
 puertoriko : Puerto Rico  
 puja : worship (revere)  
+puje : worship (reveration)  
 pul : flower  
 pula : blossom (bloom)  
 pulmon : lung  
@@ -1379,6 +1386,7 @@ restoran : restaurant
 restu : remain (stay)  
 retra : go back (retreat)  
 rezin : resin  
+rezulte : result  
 rik : rich  
 ris : rice  
 riske : risk  
@@ -1416,7 +1424,6 @@ sabze : vegetable
 sadi : plain (simple)  
 safa : clean (purify)  
 safer : travel (voyage)  
-safer nik : tourist  
 safera : travel  
 saferar : traveler  
 safi : clean (pure)  
@@ -1426,7 +1433,7 @@ sak : bag (sack)
 sal : salt  
 salade : salad  
 salam : good (in greetings)  
-salam cude : farewell  
+salam cute : farewell  
 salam den : Good day  
 salam kane : bon appetit!  
 salam laye : welcome!  
@@ -1516,8 +1523,6 @@ sonde : sound (audio)
 song : pine tree  
 sos : sauce  
 sosis : sausage  
-sportar : athlete (sportsman)  
-sporte : sport (athletics)  
 stadion : stadium  
 stan : area  
 stasia : station  
@@ -1540,8 +1545,6 @@ suker : sugar
 suki : happy (delighted)  
 suku : like (enjoy, be fond of)  
 sultan : power (authority, rule)  
-sultana : rule (be in charge)  
-sultanar : ruler  
 sum : sum (total)  
 suma : sum up (add together)  
 sun : soon  
@@ -1549,6 +1552,7 @@ sundar : beautiful (handsome)
 suomia : Finland  
 supe : soup  
 super : superb (wonderful, super)  
+supre : upper side  
 supru : surpass (go over)  
 sura : picture (illustrate)  
 sure : image (picture)  
@@ -1556,6 +1560,7 @@ suriname : Suriname
 surya : sun  
 suxi : sushi  
 suy : water  
+swahili : Swahili  
 swenski : Sweden  
 swis : Switzerland  
 
@@ -1568,6 +1573,8 @@ tabia : nature (environment)
 tabiai : environmental (natural)  
 tai : Thai (Thailand)  
 taiba : taiga  
+taibei : Taipei  
+taiwan : Taiwan  
 taksi : taxi  
 taktik : tactics (strategy)  
 tal : bottom  
@@ -1579,6 +1586,9 @@ tank : tank (container)
 tanzania : Tanzania  
 tap : tap (stopper)  
 tara : star  
+tarjum : translation (interpretation)  
+tarjuma : translate (interpret)  
+tarjumar : interpreter (translator)  
 tatu : tattoo  
 taul : towel  
 tawa : frying pan  
@@ -1775,7 +1785,8 @@ xula : repair (fix)
 
 ##y
 
-yak : yak  
+yaka : estimate (approximate)  
+yaki : about (approximately)  
 yakin : certain (sure)  
 yala : hurry (hasten)  
 yaman : Yemen  
@@ -1808,6 +1819,7 @@ zalim : mean (cruel)
 zaman : time (moment)  
 zambia : Zambia  
 zardux : Zoroaster  
+zarduxisme : Zoroastrianism  
 zay : present (current, existing)  
 zaye : presence (existence)  
 zaytun : olive  
@@ -1833,11 +1845,11 @@ zumrude : emerald
   
 -a : suffix for verbs with SVO word order  
 -ar : suffix for active doer  
--e : suffix for derived nouns  
+-e : suffix for (result of) action  
 -em : a unit consisting of a set of similar items  
 -i : suffix for adjectives  
 -ia : suffix for areas  
 -ir : suffix for person who is associated with the root  
 -u : suffix for verbs with OVS word order  
 -ur : suffix for passive object  
-  
+
