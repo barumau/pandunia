@@ -1,9 +1,9 @@
 
-![](http://www.pandunia.info/bandera/bandera.png "The flag of Pandunia")
+![](http://www.pandunia.info/bander/bander.png "The flag of Pandunia")
 
 #pandunia - egal dunia baxa
 
-![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bandera/us.png) [Learn about Pandunia in English](english/index.md)
+![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bander/us.png) [Learn about Pandunia in English](english/index.md)
 
 ![](http://pandunia.info/bander/cn.png) [学 泛世界语](zhongwen/index.md)
 
