@@ -10,8 +10,8 @@ Introducing yourself
 > ☺: **mi si yusef. tu si ke?** = I am Yusef. Who are you?  
 > ☻: **mi si maria. ye si ke?** = I am Maria. Who is that?  
 > ☺: **ye si mi da panyo.** = That is my friend.  
-> ☻: **ye nam si ke?** = What's her name?  
-> ☺: **ye nam si sara.** = Her name is Sara.
+> ☻: **ye da nam si ke?** = What's her name?  
+> ☺: **ye da nam si sara.** = Her name is Sara.
 
 ### Grammar
 
@@ -56,8 +56,8 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 2. mi si tomas.
 3. tu da panyo si ke?
 4. ye si sara.
-5. tu nam si ke?
-6. mi nam si ........... 
+5. tu da nam si ke?
+6. mi da nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -149,7 +149,7 @@ Making requests
 
 Pandunia's personal pronouns are: **mi** = I, **tu** = you, and **ye** = he, she, it. Pandunia is a gender-neutral language. It doesn't distinguish between sexes in the third person pronoun or any of the pronouns. All the personal pronouns are present in the following example sentence.
 
-> **mi cing tu salam ye.** = I ask you to say hello to him/her.
+> **mi cing tu salama ye.** = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_. The first verb, **cing** = to request, addresses **tu** as its object. At the same time **tu** serves also as the subject of the second verb, **salama** = to greet, whose object is **ye**. So **tu** has a double role: (1) object of the first verb and (2) subject of the second verb. Hence, it is the _pivot_ or hinge between the two verbs.
 
@@ -169,8 +169,7 @@ The phrase **cing salama ye** has a useful pattern that can be used for making p
 > **cing sidu.** = Please be seated.  
 > **cing dar kafe.** = Please give me some coffee.  
 > **cing dar ca.** = Please give me some tea.  
-> **cing kana ca.** = Please have some tea.
-
+> **cing kana ca.** = Please have some tea.  
 > **cing safa kamer.** = Please clean the room.
 
 Commands are introduced with **manda** = to command. They employ the same pivot structure as requests with **cing**.
@@ -196,7 +195,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dar** to give. **danke** thanks. **i** and. **kafe** coffee. **kamar** room. <!-- **koman** to command. --> **u** or. **safi** to clean. **side** to sit. **nyam** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **kana** to eat or drink.
 
 
 ### Answers to the Exercises
@@ -205,7 +204,7 @@ Try translating these sentences from English to Pandunia.
 2. xefe cing ye sidu.
 3. cing kana kafe u ca.
 4. mama cing mi safa kamer.
-5. xefe sit i kana kafe.
+5. xefe sidu i kana kafe.
 
 
 --------------------------------------------------------------------------------
@@ -226,7 +225,7 @@ Yes or no questions
 ☺: **kana.** = Yes. (_I eat._)  
 ☻: **kia ye kana sup?** = Would he like to have soup?  
 ☺: **no kana.** = No.  
-☻: **danke. mi dar un ca i un kafe i un sup na bada du des minut.**
+☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -269,7 +268,7 @@ Also more complete answers can be given.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia tu kana su?** = Do you drink water?  
+> – **kia tu kana suy?** = Do you drink water?  
 > – **kana.** = (Yes, I) drink.
 
 
@@ -297,7 +296,7 @@ Try translating these sentences from English to Pandunia.
 2. si. mi baxa pandunia.
 3. kia mama kana kafe?
 4. no. ye no kana kafe.
-5. kia ye kana sup?
+5. kia ye kana supe?
 6. (ye) no kana.
 
 
@@ -323,7 +322,7 @@ The negated word can be of any type: verb, pronoun, noun, adjective and even num
 > **ye no ada mau.** = She doesn't have a cat.  
 > **ye ada no mau, ama waf.** = She has no cats but dogs.  
 > **no ye, a mi ada mau.** = Not she but I have cats.  
-> **mi ada no un, a dua mau.** = I have not one but two cats.
+> **mi ada no un, a do mau.** = I have not one but two cats.
 
 
 ### Exercises
@@ -340,17 +339,17 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kupe** cup, glass, mug. **hali** empty. **ada** to have. **mau** cat. **waf** dog. **dua** two. **nul** zero. **ama** but.
+**kupe** cup, glass, mug. **hali** empty. **ada** to have. **mau** cat. **waf** dog. **do** two. **nul** zero. **a** but.
 
 
 ### Answers to the Exercises
 
 1. ye no safa kamer.
 2. un kupe no hali.
-3. dua waf no kana sup.
+3. dua waf no kana supe.
 4. ye no ada waf i mau. / ye ada no waf i no mau.
 5. xefe kana ca a no kafe.
-6. mama ada no waf a dua mau.
+6. mama ada no waf a do mau.
 
 
 <!--
@@ -483,7 +482,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 ### Answers to the Exercises
 
 1. mi da xefe festa na futur.
-2. mi mala dua waf na pase.
+2. mi ada do waf na pase.
 3. tu kana supe nun.
 4. ye safa kamer na befo den.
 5. mau kana kafe na badi den.
