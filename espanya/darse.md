@@ -226,15 +226,15 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! kia tu yem kafe o ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
+☻: **salam! kia tu kana kafe u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **ca.** = Té.  
 ☻: **i tu?** = ¿ y Usted? 
 ○: **mi no baxa pandunia...** = Yo no hablo Pandunia...  
-☻: **sori! kia ye yem ca?** = ¡Perdón! ¿Él toma té?  
-☺: **no. ye no yem ca. ye yem kafe.** = No, él desea tomar café.  
-☻: **kia tu kana sup?** = ¿Quieren tomar sopa?  
+☻: **sori! kia ye kana ca?** = ¡Perdón! ¿Él toma té?  
+☺: **no. ye no kana ca. ye kana kafe.** = No, él desea tomar café.  
+☻: **kia tu kana supe?** = ¿Quieren tomar sopa?  
 ☺: **kana.** = Sí.  
-☻: **kia ye kana sup?** = ¿Él quiere tomar sopa?  
+☻: **kia ye kana supe?** = ¿Él quiere tomar sopa?  
 ☺: **no kana.** = No.  
 ☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
@@ -351,7 +351,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 1. ye no safa kamer.
 2. un kupe no hali.
-3. dua waf no kana supe.
+3. do waf no kana supe.
 4. ye no ada waf i mau. / ye ada no waf i no mau.
 5. xefe kana ca a no kafe.
 6. mama ada no waf a do mau.

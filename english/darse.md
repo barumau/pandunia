@@ -221,9 +221,9 @@ Yes or no questions
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
 ☻: **sori! kia ye kana ca?** = Pardon! Will he have tea?  
 ☺: **no. ye no kana ca. ye kana kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia tu kana sup?** = Would you like to have soup?  
+☻: **kia tu kana supe?** = Would you like to have soup?  
 ☺: **kana.** = Yes. (_I eat._)  
-☻: **kia ye kana sup?** = Would he like to have soup?  
+☻: **kia ye kana supe?** = Would he like to have soup?  
 ☺: **no kana.** = No.  
 ☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
