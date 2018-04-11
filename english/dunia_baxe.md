@@ -19,11 +19,11 @@ Why is that? The world is a 3-dimensional globe and drawing it into a flat, 2-di
 
 That is the natural world. We live also in a human world, which is divided by borders between nations. In a normal map of world countries, sizes of the countries are defined by their geographic area.
 
-![](http://www.worldmapper.org/images/largepng/1.png "Map by area")
+![](http://archive.worldmapper.org/images/largepng/1.png "Map by area")
 
 However the map projection below is based on the population of countries, not their geographic area.
 
-![](http://www.worldmapper.org/images/largepng/2.png "Map by Population 2002")
+![](http://archive.worldmapper.org/images/largepng/2.png "Map by Population 2002")
 
 In our opinion the world language should represent the human world. Every part of the world, every culture, should be treated fairly and democratically. The grammar should be easy for all. Areal language characteristics such as [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European) are not suitable guidelines for the world language. Rather the grammar should be built from things that are universally known and/or universally considered easy.
 

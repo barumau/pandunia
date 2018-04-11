@@ -14,11 +14,11 @@ Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta kuvat
 
 Se luonnollisesta maailmasta. Me elämme myös ihmisten maailmassa, jossa maapallo on jaettu valtioihin ja kansakuntiin. Tavallisissa kartoissa valtioiden koko riippuu niiden pinta-alasta.
 
-![](http://www.worldmapper.org/images/largepng/1.png "Valtiokartta")
+![](http://archive.worldmapper.org/images/largepng/1.png "Valtiokartta")
 
 Alla olevassa kartassa valtiot on piirretty väkiluvun eikä pinta-alan mukaan. Näin piirrettynä esim. Suomi näyttää entistä pienemmältä ja Kiina ja Intia entistä suuremmilta – ja vielä enemmän kun vertailukohtana on Mercatorin projektio!
 
-![](http://www.worldmapper.org/images/largepng/2.png "Väestökartta")
+![](http://archive.worldmapper.org/images/largepng/2.png "Väestökartta")
 
 Meidän mielestä maailmankielen pitäisi edustaa kaikkia ihmisiä. Kaikkien maanosien ja kulttuurien täytyy olla reilusti ja demokraattisesti edustettuina. Maailmankielen kieliopin täytyy olla kaikille helppo. Mikään maantieteellinen tai kulttuurinen alue ei saa jyrätä muita alleen, vaan kielen täytyy olla tasapuolisesti kaikkien omaksuttavissa.
 
