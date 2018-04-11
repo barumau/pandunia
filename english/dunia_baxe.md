@@ -98,26 +98,15 @@ Pandunia belongs to the first type. It is an analytic language. Its words consis
 
 The word is made of a root and optional affixes, which are attached to the root. Prefixing languages put affixes before the root and suffixing languages put affixes after the root. Some languages put affixes on both sides or even inside the root. Usually languages use several different ways. For example English uses both prefixes (ex. un-kind) and suffixes (kind-ly)
 
-Suffixing languages are the most common type. Indo-European languages, Telugu, Chinese and Japanese are mainly suffixing.
+Suffixing languages are the most common type. Indo-European languages, Telugu, Chinese and Japanese are mostly suffixing.
 
-Arabic, Hausa
-
-
-Chinese has no inflection. Words are only combined to larger words. Some words have a special meaning when they appear as a part of a larger word. (These are called [bound morphemes](https://en.wikipedia.org/wiki/Bound_and_unbound_morphemes)).
+Chinese has no inflection. Words are only combined into larger words. Some words have a special meaning when they appear as a part of a larger word. These so called bound morphemes are much like suffixes.
 
 English, Spanish and Hindustani use mainly _root and affix system_. The meaning is changed by adding dependent parts before and after the root. For example "booklets" consists of root _book_ and affixes _-let_ (which adds meaning of smallness) and _-s_ (which adds plural meaning). Most affixes can't appear alone, but they need a root.
 
-Arabic uses [root and pattern system](https://www.britannica.com/topic/root-and-pattern-system). The root consists of (usually three) consonants and the root is inflected by inserting a pattern of vowels between them. Arabic also has affixes for creating additional words from root and pattern.
+Arabic uses transfixes (also known as the [root and pattern system](https://www.britannica.com/topic/root-and-pattern-system)). The root consists of (usually three) consonants and the root is changed by inserting a pattern of vowels between them. Arabic also has many prefixes and suffixes for creating additional words.
 
 Pandunia uses _root and affix system_. The principles of this system are known to most people. New words can be created easily.
-
-
-### Parts of speech
-
-There is no systematic marking for parts of speech in any of the control languages.
-
-
-supra = surpass, go over
 
 
 ### Word orders
@@ -207,21 +196,6 @@ Allowed final consonants
 | Russian    | m n ñ  | r l       | p t k ch        | -            | s sh x     | complex  |
 
 
-<!--
- 
-## Morphology
- 
-Many languages treat proper nouns in a special way. Names don't have to conform to the morphology of the language.
- 
-We must assume that the interlanguage has to deal with names in all shapes and sizes, such as Tim, Mei, Maria, Muhamad, Idris and Yuri. Some of them might not conform to the morphology of the interlanguage. For example in Esperanto all nouns end in -o. So what to do with all possible proper nouns? Should names be adapted for the language, or should the language be adapted to accept different kinds of names?
- 
-It is reasonable to let proper nouns be as they were. Pandunia accepts all names without any changes. (However in practice it is wise to convert them to the Pandunia alphabet.) So there is a large group of nouns that do not conform to any morphological constraints.
- 
-This situation is a problem in Esperanto, where all nouns should end in -o. So should all names, such as Tim, Joanne, Lee and Maria, be "localized" to Esperanto?
- 
-## Transitivity
-
--->
  
 ## Loan words
  
@@ -252,7 +226,6 @@ Pandunia borrows the roots of Western words. The goal is to select a form that s
 
 The suffixes of Pandunia are applied on the roots. Here are some resulting Pandunia words: korti (short), korte (shorty), korta (shorten), nowi (new), nowe (news), nowa (renovate).
 
-### Indian words
 
 ### Sinitic words
 
@@ -276,132 +249,13 @@ Middle Chinese had unreleased stop consonants, which are usually written -p, -t 
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new – Sinitic words are already inflected in Korean!
 
-<!--
 
-https://docs.google.com/spreadsheets/d/1ArxEFo46PTrDyDDhWyu3wB0epxqTyd8WBaprnwTEPm4/edit#gid=1428902047
-
--->
-
-### Perso-Arabic words
- 
- 
- 
-### African words
- 
-Words in Bantu languages normally have this structure: prefix + root + affixes. Normally the root ends in a consonant. Only the root is borrowed to Pandunia.
-
-
-### Word building
-
-<!--
-
-way-dexi
-Mandarin: 外国的 wàiguóde (out-country-'s)  
-Hindi: विदेशी videśī
-
-
-Isolating grammar does not exclude word derivation.
-
-**rus** Russia, Russian, etc.  
-**rus yan** Russian person  
-**rus dex** Russia, Russian country  
-
-**ital** Italian  
-**ya** area, country, etc.  
-**italya** Italy  
-**rusya** Russia  
-**turkiya** Turkey  
-**turki dex** Turkey  
-
-
-
-## A pidgin language
-
-Pandunia is so simple because it is modeled after pidgins. A pidgin is a simplified version of a language that develops when people need to communicate but they do not speak a common language. So they create a new common language on the spot. They pick up words from the dominant language and use them in a new way to communicate with each other. The only goal is to communicate, so pidgins typically leave behind unnecessary grammatical features from the source language, including inflection, gender marking, number marking, verb conjugation, definite and indefinite articles and so on.
-
-All pidgins resemble each other in their simplicity. That's why it can be said that they have a universal minimal grammar. That kind of grammar is ideal for the world language – the world pidgin!
-
-## The best-known alphabet
-
-English is written in the Roman alphabet, which is also used by many languages on every continent of the world. Standard Chinese is written in Chinese characters, which form a system so complex that school children learn the Roman alphabet first. This system of romanization is known as Pīnyīn. Therefore it is logical that Pandunia be also written in the Roman alphabet.
-
-### Only five vowels
-
-Both English and Chinese have rich vowel inventories. English has 14-20 vowels, depending on the dialect, and Standard Chinese has 9 vowels (and many more vowel qualities). These are comparatively high numbers considering that globally the average vowel inventory size is only 5-6 vowels.
-
-Pandunia has only 5 pure vowels: a, e, i, o, u. In this respect, it is close to languages such as Spanish, Swahili, Japanese and Indonesian, which have simple vowel inventories.
-
-### Common consonants
-
-Pandunia's consonant inventory is smaller than that of English and Mandarin. Majority of the consonant letters are pronounced in the same way in all three languages. The table below shows how consonant sounds are mapped from Pandunia to English and Mandarin. Sounds that are in English or Mandarin but not in Pandunia are enclosed in parenthesis.
-
-|            | Pandunia    | English       | Mandarin      |
-|------------|-------------|---------------|---------------|
-| Nasals     | m n ng      | m n ng        | m n ng        |
-| Stops      | p b t d k g | p b t d k g   | p b t d k g   |
-| Liquids    | l r y w     | l r y w       | l r y w (yü)  |
-| Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)   |
-| Fricatives | f h         | f h (v th dh) | f h           |
-| Affricates | c j         | ch j          | ch zh (q j c) |
-
-### Regular spelling
-
-English spelling is notoriously irregular. Pīnyīn was created more recently, in the 1950s, but unfortunately it also has some irregularities, simply because there are more sounds in spoken Chinese than there are letters in the Roman alphabet. Still, in comparison to English, Pinyin is very regular. For example the English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn _mai, sai, lai, rai_. It is as simple as that!
-
-Pandunia can be spelled regularly because it has fewer speech sounds (24) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:  
-a b c d e f g h i j k l m n o p r s t u w x y z
-
-Pandunia has perfect letter-to-sound correspondence. One letter stands for one sound only. One sound is represented by exactly one letter. Every word is pronounced as it is written.
-
-## Easy accent
-
-Texts in Pīnyīn are loaded with accent marks, as in "Wǒmen yě huì shuō zhōngguòhuá." They mark tones. In Standard Chinese each syllable is pronounced in one of the four tones or in the unmarked neutral tone.
-
-English doesn't have word tones but it has word stress. Word stress is variable in English, so the position of stress is unpredictable. In a written expression like "totally fantastic personnel", nothing shows that each word has the stress on a different syllable. If the stress was marked with an accent, it might look something like this: "tótally fantástic personnél".
-
-Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
-
-Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi wól lóga supér dúnia báxe.**
-
-Pandunia doesn't have lexical tone.
-
-## Simple word structure
-
-Mandarin has only a few final consonants: -n, -ng and -r. Other final consonants are foreign and more or less difficult for native Mandarin speakers.
-
-Besides the nasal finals -m, -n and -ng, the liquid finals -l and -r, Pandunia allows voiceless stop finals -p, -t and -k and also sibilants -s and -x.
-
-
-
-
-## International words
-
-Pandunia borrows words from English and Chinese as well as from other languages. Of course, the words are simplified to fit Pandunia's sounds and spelling so that everybody can pronounce them easily.
-
-The basic personal pronouns of Pandunia are: **mi** = I, **tu** = you, **ye** = he, she. They are good examples of how international Pandunia's words can be.
-
-- **mi** is similar to English "me", Spanish "mí" and many other Indo-European languages.
-- **tu** is similar to Spanish "tu", French "tu" and Hindi-Urdu "tū" (तू).
-- **ye** is similar to Hindi-Urdu "ye" (यह) and to numerous Bantu languages, including Lingala "yé", Swahili "yeye" and Zulu "ye-".
-
-The plural pronouns follow the pattern of Standard Chinese.
-
-| English | Pandunia | Chinese |
-|---------|----------|---------|
-| I       | mi       | wǒ      |
-| you     | tu       | nǐ      |
-| he/she  | ye       | tā      |
-| we      | mimen    | wǒmen   |
-| you     | tumen    | nǐmen   |
-| they    | yemen    | tāmen   |
-
-Note: The third person pronoun **ye** refers to both male and female persons as well as inanimate objects – just like the source words in Hindi-Urdu and Bantu languages.
-
--->
 
 ## Easy sentences
 
-The normal sentence word order is subject-verb-object, following the pattern of English and Chinese among others.
+In this section we will compare the sentence structures of Pandunia with English and Chinese, the two most widely spoken languages of the world.
+
+The normal sentence word order is subject-verb-object – just like in English and Chinese.
 
     English:   I love you, and you love me.
     Pandunia:  mi ama tu, tu ama mi.

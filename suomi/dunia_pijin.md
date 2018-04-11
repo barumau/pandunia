@@ -33,9 +33,7 @@ Sanaston täytyy olla tasapuolisesti koko maailman kattava. Sanaston viisi suuri
 
 
 
-## Yleismaailmallinen kieli
-
-Tämän hetken tärkein kansainvälinen kieli on epäilemättä englanti. Toisaalta maailmassa on muitakin alueellisesti tärkeitä kansainvälisiä kieliä. Lisäksi Kiinan valtava väestö ja nopeasti kasvava talous on nostanut kiinan kielen asemaa erityisesti Aasiassa.
+## Maailman kielet ja maailmankielet
 
 Alla on luettelo maailman 15:stä puhutuimmasta kielestä. Luettelo on järjestetty äidinkielisten puhujien mukaan suurimmasta alkaen.
 
@@ -57,6 +55,8 @@ Alla on luettelo maailman 15:stä puhutuimmasta kielestä. Luettelo on järjeste
 | 14      | Telugu           |      80 milj. |   12 milj.        | Etelä-Aasia                       |
 | 15      | Malaiji-indonesia|      77 milj. |  204 milj.        | Kaakkois-Aasia                    |
 
+
+Tämän hetken tärkein kansainvälinen kieli on epäilemättä englanti. Toisaalta maailmassa on muitakin alueellisesti tärkeitä kansainvälisiä kieliä. Lisäksi Kiinan valtava väestö ja nopeasti kasvava talous on nostanut kiinan kielen asemaa erityisesti Aasiassa.
 
 Luvuista näkee, että yleiskiina (mandariinikiina) on ylivoimaisesti puhutuin äidinkieli, ja englanti on yleisin vieras kieli. Kummankin yhteenlaskettu puhujamäärä yltää miljardiin. Kuitenkin heti perässä on kieliä, joiden puhujat lasketaan sadoissa miljoonissa. Kaikille yhteistä kieltä ei ole.
 
@@ -120,8 +120,8 @@ Pandunian konsonantisto on pienempi kuin englannissa ja yleiskiinassa. Suurin os
 | Nasaalit       | m n ng      | m n ng        | m n ng        |
 | Sulkuäänteet   | p b t d k g | p b t d k g   | p b t d k g   |
 | Likvidat       | l r y w     | l r y w       | l r y w (yü)  |
-| Hankausäänteet | f h         | f h (v th dh) | f h           |
 | Suhuäänteet    | s z x       | s z sh zh     | s z* sh (x)   |
+| Hankausäänteet | f h         | f h (v th dh) | f h           |
 | Sulku+suhu     | c j         | ch j          | ch zh (c j q) |
 
 ### Äänteenmukainen oikeinkirjoitus
@@ -182,19 +182,19 @@ Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kui
 Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
 
     Englanti:  I love you, and you love me.
-    Pandunia:  mi romansa tu, tu romansa mi.
+    Pandunia:  mi ama tu, tu ama mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Objektin voi siirtää lauseen alkun verbin **bei** avulla.
 
     Englanti:  The apples were eaten.
-    Pandunia:  pingo bei kana.
+    Pandunia:  pingo bey kana.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
-**Bei** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
+**Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  ye no ken bei kana.
+    Pandunia:  ye no ken bey kana.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
