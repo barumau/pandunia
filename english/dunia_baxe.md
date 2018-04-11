@@ -56,15 +56,68 @@ It is estimated that over 6000 different languages are spoken in the world.
 
 However, native and non-native speakers of the 5 most widely spoken languages together add up to more than half of the total population of the world. Also these five languages represent different language typologies well and they also represent the five main divisions of international vocabularies.
 
-### World word heritage
 
-English and Spanish carry the heritage of Latin and Greek, which have greatly influenced all languages of Europe, America and beyond, including French, Portuguese, Italian, German, Polish and Russian.
 
-Mandarin Chinese carries the Sinitic heritage of Old Chinese, which has greatly influenced all other East Asian languages, including Japanese, Korean, Vietnamese and other varieties of Chinese.
+## Spelling and pronunciation
 
-Hindi-Urdu carries the heritage of Sanskrit, which has influenced also all other languages of South and South-East Asia, including Bengali, Punjabi, Telugu, Tamil, Burmese, Khmer, Thai, Malay and Indonesian.
+### The most widely used alphabet
 
-Arabic and Hindi-Urdu (Urdu more than Hindi) carry the Perso-Arabic heritage, which has greatly influenced languages in Central, South-West, South and South-East Asia and North, West and East Africa, including Turkish, Persian, Bengali, Punjabi, Telugu, Indonesian, Hausa, Wolof, Amharic, Oromo, Somali and Swahili.
+There are many writing systems in the world and a handful of them have become international. Chinese "hanzi" symbols are used in Japanese, where they are known as "kanji". The Arabic script is used for writing Urdu in Pakistan and India. However only the Roman alphabet has become truly global. It is used by numerous European and American languages but also by African language of Africa (including Hausa and Swahili) and by several notable languages in Asia, namely Turkish, Malay-Indonesian and Vietnamese.
+
+Standard Chinese is written in Chinese characters, which form a system so complex that school children are taught to read the Roman alphabet first. This system of romanization is known as Pīnyīn.
+
+Therefore it is clear why also Pandunia is written in the Roman alphabet.
+
+### Only five vowels
+
+English and Chinese have rich vowel inventories. English has 14-20 vowels, depending on the dialect. Standard Chinese has 9 vowels (and many more vowel qualities). These are comparatively high numbers considering that globally the average vowel inventory size is only 5-6 vowels.
+
+Pandunia has only 5 pure vowels: a, e, i, o, u. In this respect, it is close to languages such as Spanish, Swahili, Japanese and Indonesian, which have simple vowel inventories.
+
+### Common consonants
+
+Pandunia's consonant inventory is smaller than that of English and Mandarin. Majority of the consonant letters are pronounced in the same way in all three languages. The table below shows how consonant sounds are mapped from Pandunia to English and Mandarin. Sounds that are in English or Mandarin but not in Pandunia are enclosed in parenthesis.
+
+|            | Pandunia    | English       | Mandarin Pinyin |
+|------------|-------------|---------------|-----------------|
+| Nasals     | m n ng      | m n ng        | m n ng          |
+| Stops      | p b t d k g | p b t d k g   | p b t d k g     |
+| Liquids    | l r y w     | l r y w       | l r y w (yü)    |
+| Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)     |
+| Fricatives | f h         | f h (v th dh) | f h             |
+| Affricates | c j         | ch j          | ch zh (q j c)   |
+
+
+### Simple syllable patterns
+
+Syllable patterns vary across languages. For example in Japanese the heaviest syllable type is CVN, where C is a consonant, V is a vowel and N is a nasal consonant. This gives Japanese a very vocalic sound. English, on the other hand, can have very heavy syllables, for example "sprints" (CCCVNCC).
+
+Pandunia is somewhere in the middle. Most of the words consist of simple CV syllables but also more complex syllables are allowed, especially for internationally known technical terms. For example **kristal** (crystal) is considered a complex word in Pandunia. More complex loan words can be dealt with in two ways.
+
+1. Select a simpler variant from another language. For example the word for "project" is taken from the French version: **proje**.
+2. Break the consonant clusters by adding vowels. For example "sport" would become **esporte**. Many languages do something similar. See Portuguese "esporte" and Japanese "supōtsu" for comparison.
+
+
+### Regular spelling
+
+English spelling is notoriously irregular. Pīnyīn was created more recently, in the 1950s, but unfortunately it also has some irregularities, simply because there are more sounds in spoken Chinese than there are letters in the Roman alphabet. Still, in comparison to English, Pinyin is very regular. For example the English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn _mai, sai, lai, rai_. It is as simple as that!
+
+Pandunia can be spelled regularly because it has fewer speech sounds (24) than there are letters in the basic Roman alphabet (26). The alphabet of Pandunia is:  
+a b c d e f g h i j k l m n o p r s t u w x y z
+
+Pandunia has perfect letter-to-sound correspondence. One letter stands for one sound only. One sound is represented by exactly one letter. Every word is pronounced as it is written.
+
+### Easy accent
+
+Texts in Pīnyīn are loaded with accent marks, as in "Wǒmen yě huì shuō zhōngguòhuá." They mark tones. In Standard Chinese each syllable is pronounced in one of the four tones or in the unmarked neutral tone.
+
+English doesn't have word tones but it has word stress. Word stress is variable in English, so the position of stress is unpredictable. In a written expression like "totally fantastic personnel", nothing shows that each word has the stress on a different syllable. If the stress was marked with an accent, it might look something like this: "tótally fantástic personnél".
+
+Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
+
+Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi wól lóga supér dúnia báxe.**
+
+Pandunia doesn't have lexical tone.
 
 
 
@@ -159,46 +212,19 @@ I love you.
 I jump over the high table.
 
 
-### Syllable patterns
-
-Often it is said that Spanish has simple syllable patterns. However there are also more complex ones, like these: us|ted, vo|sot|ros, cris|tal, abs|trac|to, pers|pec|ti|va, trans|for|mar.
-
-Pandunia allows the syllable patterns that are shown in the table below.
-V = vowel  
-C = consonant  
-L = liquid consonant (l, r or y)  
-N = nasal  
-
-| Pattern | Examples           |
-|---------|--------------------|
-| V       | i, u, a, ata       |
-| CV      | de, ma, pa, batata |
-| CVV     | dia, hua           |
-| VC      | el, as             |
-| CVC     | man, raq, kup, ted |
-| CLVC    | grup, klas, nyam   |
-| CVNC    | dant               |
-| CLVNC   | kramp              |
-
-Simple patterns are more frequent than complex patterns.
  
-## Phonotactics
- 
-Allowed final consonants
- 
-| Language   | Nasals | Resonants | Voiceless stops | Voiced stops | Fricatives | Clusters |
-|------------|--------|-----------|-----------------|--------------|------------|----------|
-| Mandarin   | n ng   | r         | -               | -            | -          | none     |
-| English    | m n ng | r l       | p t k ch        | b d g j      | s z sh zh  | complex  |
-| Spanish    | n      | r l       | -               | d            | s          | none     |
-| Hindustani | m n ~  | r l       | p t k c         | b d g j      | s sh       | simple   |
-| Arabic     | m n    | r l       | p t k           | b d g        | s z sh     | none     |
-| Russian    | m n ñ  | r l       | p t k ch        | -            | s sh x     | complex  |
+## World words
 
+### World's word heritage
 
- 
-## Loan words
- 
+English and Spanish carry the heritage of Latin and Greek, which have greatly influenced all languages of Europe, America and beyond, including French, Portuguese, Italian, German, Polish and Russian.
+
+Mandarin Chinese carries the Sinitic heritage of Old Chinese, which has greatly influenced all other East Asian languages, including Japanese, Korean, Vietnamese and other varieties of Chinese.
+
+Hindi-Urdu carries the heritage of Sanskrit, which has influenced also all other languages of South and South-East Asia, including Bengali, Punjabi, Telugu, Tamil, Burmese, Khmer, Thai, Malay and Indonesian.
+
+Arabic and Hindi-Urdu (Urdu more than Hindi) carry the Perso-Arabic heritage, which has greatly influenced languages in Central, South-West, South and South-East Asia and North, West and East Africa, including Turkish, Persian, Bengali, Punjabi, Telugu, Indonesian, Hausa, Wolof, Amharic, Oromo, Somali and Swahili.
+
 ### Western words
  
 Typically Western words have this structure: prefix + root + suffixes. Usually the root ends in a consonant.
@@ -243,7 +269,7 @@ Middle Chinese had unreleased stop consonants, which are usually written -p, -t 
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
 | 問 | **wen**       | man        | wèn        | mon        | mun        | vấn        |
 | 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
-| 出 | **cud**       | cœt        | chū        | shutsu     | chul       | xuất       |
+| 出 | **cut**       | cœt        | chū        | shutsu     | chul       | xuất       |
 | 索 | **sog**       | sok        | suǒ        | saku       | sæg        |            |
 | 惡 | **ag**        | ok         | è          | aku        | ag         | ác         |
 
@@ -294,10 +320,5 @@ In Pandunia and Chinese, nouns can be singular or plural depending on surroundin
 ## Pandunia - a global language
 
 ![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flag")
-
-
-### References
-
-http://wals.info/chapter
 
 

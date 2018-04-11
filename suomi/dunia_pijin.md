@@ -166,14 +166,14 @@ Pandunian persoonapronominit ovat hyvä esimerkki sanojen kansainvälisyydestä.
 - **ye** kuulostaa samalta kuin hindi-urdun "ye" (यह) ja useiden bantukielten pronominit, mukaan lukien lingalan "yé", swahilin "yeye" ja zulun "ye-".
 - Monikkomuodot muodostetaan samalla tavalla kuin yleiskiinassa eli lisäämällä loppuun **-men**: **mimen** (me), **tumen** (te) ja **yemen** (he).
 
-| Englanti| Pandunia | Kiina  |
-|---------|----------|---------|
-| I       | mi       | wǒ      |
-| you     | tu       | nǐ      |
-| he/she  | ye       | tā      |
-| we      | mimen    | wǒmen   |
-| you     | tumen    | nǐmen   |
-| they    | yemen    | tāmen   |
+|Suomi | Englanti| Pandunia | Kiina   |
+|------|---------|----------|---------|
+| minä | I       | mi       | wǒ      |
+| sinä | you     | tu       | nǐ      |
+| hän  | he/she  | ye       | tā      |
+| me   | we      | mimen    | wǒmen   |
+| te   | you     | tumen    | nǐmen   |
+| he   | they    | yemen    | tāmen   |
 
 Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kuin lähteenä olevissa hindi-urdussa ja bantukielissä – sekä suomessa!
 
@@ -217,6 +217,6 @@ Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että moni
 
 ## Pandunia - koko maailman kieli
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunian lippu")
+![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
 
 
