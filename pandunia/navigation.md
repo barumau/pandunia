@@ -2,6 +2,8 @@
 
 [gimmick:theme](readable)
 
+[abc](abc.md)
+
 [histor]()
 
   * [baru ban da dante tung](baru_ge_dant.md)
