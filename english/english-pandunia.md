@@ -89,6 +89,7 @@ ambassador   : daixi
 America (continent)   : amerika  
 American   : amerikan  
 ampere   : amper  
+amuse (entertain)   : maza  
 anal   : anusi  
 analyse   : analisa  
 analysis   : analis  
@@ -200,14 +201,14 @@ bench   : benci
 beret   : beret  
 between   : inter  
 Bible   : biblia  
-big   : bari  
+big   : day  
 big   : grandi  
 billion (giga-)   : giga  
 biology (study of life)   : jiwe lojia  
 bird   : paki  
 birth   : jen  
 birthday   : jen den  
-biscuit (cookie)   : biskut  
+biscuit (cookie)   : biskute  
 black   : kal  
 bleed   : lowa sang  
 blood   : sang  
@@ -234,6 +235,7 @@ box (chest)   : sanduke
 boy   : jowan man  
 boycott   : boikot  
 brain   : serebre  
+branch (bough)   : xake  
 brave (courageous)   : yungam  
 Brazil   : brazil  
 bread   : pang  
@@ -246,6 +248,7 @@ Britain (UK)   : britan
 broken (out of order)   : kaput  
 brown (coffee-colored)   : kafi  
 brush   : brox  
+bubble   : bulbul  
 bucket   : balde  
 Buddhism   : budisme  
 budget   : bujete  
@@ -341,7 +344,7 @@ choice (election, selection)   : cun
 choir (chorus)   : kor  
 cholera   : kolera  
 choose (elect, select)   : cuna  
-Christ   : kriste  
+Christ (messiah)   : kriste  
 Christendom   : kristia  
 Christian   : kristi  
 Christianity   : kristisme  
@@ -430,6 +433,7 @@ cow   : mumu
 cream   : krem  
 creation (fact)   : fakte  
 creature (created)   : faktur  
+crime   : krime  
 crisis   : kriz  
 critical (pertaining to crisis)   : krizi  
 Croatia   : horvat  
@@ -506,7 +510,7 @@ dominoes   : domino
 donkey (ass)   : iha  
 door (gate)   : mun  
 dot (spot)   : binde  
-doubt (disbelief)   : xak  
+doubt (disbelief)   : dute  
 dragonfly   : libel  
 drama   : drama  
 drawing (picture)   : desen  
@@ -587,6 +591,7 @@ face   : muka
 factory   : faktaria  
 fairy   : peri  
 fall   : padu  
+false (fake)   : falsi  
 family   : famil  
 fantastic (imaginary)   : fantazi  
 fantasy (imagination)   : fantaze  
@@ -599,7 +604,7 @@ fascist   : faxiste
 fashion (trend)   : mode  
 fast (quick)   : rapid  
 fat (grease)   : fete  
-fate (destiny)   : kismat  
+fate (destiny)   : kisme  
 father   : pa  
 father (dad)   : papa  
 fatty (greasy)   : feti  
@@ -667,9 +672,9 @@ fruit   : pal
 frying pan   : tawa  
 fuck (copulate)   : coda  
 full   : ful  
-fun (amusement)   : fan  
+fun (amusement)   : maze  
 function (work)   : funca  
-funny (amusing)   : fani  
+funny (amusing)   : mazi  
 ##g  
 gallery (exhibition hall)   : galeria  
 game   : gem  
@@ -935,7 +940,7 @@ let's   : hayda
 letter (message)   : leter  
 lettuce   : letis  
 lexeme   : leksem  
-library   : kitab kan  
+library   : kitabe kan  
 lie (lie down)   : lala  
 life   : jiwe  
 life force (chi)   : ki  
@@ -966,7 +971,7 @@ loser   : luzar
 love (affection)   : amor  
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
-lunch   : den nyame  
+lunch   : den kane  
 lung   : pulmon  
 lychee (litchi)   : lici  
 lymph   : limfa  
@@ -1091,7 +1096,6 @@ muscle   : muskul
 mushroom (fungus)   : funge  
 music   : musike  
 musician   : musikar  
-musician   : musikar  
 musket   : musket  
 musketeer   : musketir  
 must   : mus  
@@ -1162,7 +1166,6 @@ officer   : ofisar
 often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okey  
-okra (gumbo)   : demokrati  
 old (ancient)   : puran  
 olive   : zaytun  
 Oman   : oman  
@@ -1317,7 +1320,7 @@ possibly (maybe)   : munkin
 post office   : poste kan  
 postal stamp   : poste cap  
 posture (asana)   : asan  
-potato   : alu  
+potato   : patate  
 pound (£)   : paunde  
 powder   : puder  
 power (authority, rule)   : sultan  
@@ -1367,7 +1370,7 @@ radio   : radio
 radional (reasonable)   : razoni  
 radish   : lobak  
 rage (fury)   : amuk  
-railway (railroad)   : tren-daw  
+railway (railroad)   : tren daw  
 Ramadan   : ramazan  
 random   : hazari  
 read   : duga  
@@ -1555,7 +1558,7 @@ special (distinct)   : has
 species   : jong  
 spider   : jiju  
 spirit (soul)   : anma  
-spit   : tuk  
+spit   : tuka  
 spoon   : camca  
 sport (athletics)   : kel  
 square (plaza)   : maidan  
@@ -1573,7 +1576,7 @@ steer   : gida
 still (yet)   : hay  
 stipulate   : xarta  
 stop   : stop  
-storm (tempest)   : tufan  
+storm (tempest)   : tufon  
 straight   : jik  
 straighten   : jika  
 strike (punch)   : darba  
@@ -1614,6 +1617,7 @@ Swahili   : swahili
 sweat (perspiration)   : suede  
 sweaty   : suedi  
 Sweden   : swenski  
+sweet potato   : kamote  
 Switzerland   : swis  
 syrup   : xirope  
 system   : sistem  
@@ -1725,7 +1729,7 @@ Turkey   : turkia
 Turkish   : turki  
 turtle (tortoise)   : tortuga  
 two (2)   : do  
-typewriter   : kitab maxin  
+typewriter   : kitabe maxin  
 tyranny   : tirania  
 tyrant   : tiran  
 ##u  
@@ -1749,6 +1753,7 @@ user   : uzar
 ##v  
 vaccine   : waksin  
 vagina   : yoni  
+valve (tap, faucet)   : balbe  
 vanilla   : wanila  
 vase (flower pot)   : hua bin  
 vase (pot, bin, jar, jug)   : bin  
@@ -1763,7 +1768,7 @@ virology   : wirus lojia
 virus   : wirus  
 visit   : wizit  
 visual field (field of vision)   : wide maydan  
-volt   : volta  
+volt (V)   : volta  
 voodoo   : vodu  
 ##w  
 wait   : denga  
@@ -1827,10 +1832,9 @@ worship (reveration)   : puje
 worship (revere)   : puja  
 wow! (gee!)   : wa  
 write   : kitaba  
-writing (text)   : kitab  
+writing (text)   : kitabe  
 ##x  
 ##y  
-yam (sweet potato)   : batata  
 year   : nen  
 yeast   : hamir  
 yellow   : wang  

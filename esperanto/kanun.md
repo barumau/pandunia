@@ -229,7 +229,7 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Ver
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
 > mi **vola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
-> mi **pensa** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
+> mi **fikra** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
 > ye **doka** buk **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
 > tu **loga** jumle **karu** mi - Vi **diras** frazon, kiun **faris** mi  
 > mi suku kena yema = mi suku mi kena mi yema - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)

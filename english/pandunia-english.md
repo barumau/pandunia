@@ -26,7 +26,6 @@ almari : cupboard (closet, cabinet, wardrobe)
 almas : diamond  
 alter : other  
 altera : change (alter)  
-alu : potato  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
 amerika : America (continent)  
@@ -83,6 +82,7 @@ bade : consequence (follow-up)
 badu : follow (come after)  
 bagaje : luggage (baggage)  
 bal : strong  
+balbe : valve (tap, faucet)  
 balde : bucket  
 bale : force (strength)  
 balkon : balcony (porch)  
@@ -102,7 +102,6 @@ bar : bar (pub)
 bara : bar (obstruct)  
 barbar : barbarian  
 barda : beard  
-bari : big  
 barir : barrier  
 barka : congratulate (bless)  
 barti : Indian  
@@ -115,7 +114,6 @@ basket : basket
 bat : eight (8)  
 bata : duck  
 batakrot : platypus  
-batata : yam (sweet potato)  
 bateri : battery  
 baton : bar (rod, stick)  
 bax : language (communication)  
@@ -151,7 +149,7 @@ bin : vase (pot, bin, jar, jug)
 binde : dot (spot)  
 bir : beer  
 bis : kiss  
-biskut : biscuit (cookie)  
+biskute : biscuit (cookie)  
 bizar : odd (strange, weird)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
@@ -183,6 +181,7 @@ bujete : budget
 buke : book  
 buking : booking (reservation)  
 bula : forget  
+bulbul : bubble  
 bunduke : gun (handheld firearm)  
 bus : bus  
 buton : key (push-button, switch)  
@@ -266,13 +265,13 @@ darse kan : school (institution)
 darwinisme : Darwinism  
 daw : way (road)  
 dawisme : Taoism  
+day : big  
 deci : deci-  
 dem : point (spot)  
-demokrati : okra (gumbo)  
 demokratia : democracy  
 demon : demon  
 den : day (daytime)  
-den nyame : lunch  
+den kane : lunch  
 denga : wait  
 des : ten (10)  
 desen : drawing (picture)  
@@ -325,6 +324,7 @@ dunial : global
 dur : duration  
 dura : last (take time, during)  
 duru : pass (of time)  
+dute : doubt (disbelief)  
 duwa : pray  
 duwe : prayer  
 dux : shower  
@@ -367,10 +367,9 @@ faktar : maker (creator, factor)
 faktaria : factory  
 fakte : creation (fact)  
 faktur : creature (created)  
+falsi : false (fake)  
 famil : family  
 famil nam : surname (family name)  
-fan : fun (amusement)  
-fani : funny (amusing)  
 fantaza : imagine (fantasize)  
 fantaze : fantasy (imagination)  
 fantazi : fantastic (imaginary)  
@@ -704,6 +703,7 @@ kamer : room (chamber)
 kamer tal : floor  
 kamera : camera  
 kamis : shirt  
+kamote : sweet potato  
 kampar : camper  
 kampe : camp  
 kan : workshop (place for...)  
@@ -751,8 +751,8 @@ kecap : ketchup
 keci : polite  
 kek : cake (cookie)  
 kel : sport (athletics)  
-kelele : noise  
 kelar : athlete (sportsman)  
+kelele : noise  
 kemet : Ancient Egypt (Kemet)  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
@@ -776,11 +776,11 @@ kira : rent (hire, lease)
 kirat : carat  
 kire : rent  
 kirisa : rent out (let, lease)  
-kismat : fate (destiny)  
-kitab : writing (text)  
-kitab kan : library  
-kitab maxin : typewriter  
+kisme : fate (destiny)  
 kitaba : write  
+kitabe : writing (text)  
+kitabe kan : library  
+kitabe maxin : typewriter  
 kiwi : kiwi fruit  
 klar : clear (not obscured)  
 klas : class (category)  
@@ -831,7 +831,8 @@ koste : cost (price)
 kot : coat  
 kratia : rule (reign)  
 krem : cream  
-kriste : Christ  
+krime : crime  
+kriste : Christ (messiah)  
 kriste jen : Christmas  
 kristi : Christian  
 kristia : Christendom  
@@ -1015,6 +1016,9 @@ maxor : major (not minor)
 maxoria : majority  
 maya : melt (liquidize)  
 mayu : melt (get molten)  
+maza : amuse (entertain)  
+maze : fun (amusement)  
+mazi : funny (amusing)  
 meda : help (assist)  
 medalia : medallion (medal)  
 mede : help (aid, assistance)  
@@ -1115,10 +1119,9 @@ mur : wall
 mus : must  
 musa : coerce (force, compel)  
 muse : coercion  
-musikar : musician  
 musika : play music  
-musike : music  
 musikar : musician  
+musike : music  
 musket : musket  
 musketir : musketeer  
 muskul : muscle  
@@ -1243,6 +1246,7 @@ pase : past times
 paskal : pascal (Pa)  
 paste : paste  
 pat : path (track, trail)  
+patate : potato  
 paunde : pound (£)  
 paus : pause (break, interruption)  
 pausa : pause (interrupt)  
@@ -1305,8 +1309,8 @@ polau : pilaf (pulao)
 poli : several  
 polis : police  
 polisar : police officer  
-politike : politics  
 politikar : politician  
+politike : politics  
 polski : Polish  
 pompa : pump  
 pont : bridge  
@@ -1639,12 +1643,12 @@ tortuga : turtle (tortoise)
 tot : whole (entire, all)  
 total : total (affecting all)  
 tren : train  
-tren-daw : railway (railroad)  
+tren daw : railway (railroad)  
 tu : you  
 tualet : toilet (WC)  
 tube : tube (pipe)  
-tufan : storm (tempest)  
-tuk : spit  
+tufon : storm (tempest)  
+tuka : spit  
 tul : tool  
 tulip : tulip  
 tumen : you all  
@@ -1686,7 +1690,7 @@ uzar : user
 
 viet : Vietnam  
 vodu : voodoo  
-volta : volt  
+volta : volt (V)  
 
 ##w
 
@@ -1743,8 +1747,8 @@ wol : want (desire)
 
 ##x
 
-xak : doubt (disbelief)  
 xakal : jackal  
+xake : branch (bough)  
 xal : scarf (shawl)  
 xalet : cottage (chalet)  
 xam : evening  
