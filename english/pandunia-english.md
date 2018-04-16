@@ -1,6 +1,7 @@
 ##a
 
 a : but  
+abace : alphabet  
 ada : have  
 adres : address  
 adresur : addressee  
@@ -125,7 +126,7 @@ baze : base (foundation)
 bazi : basic  
 be : without  
 bebe : baby (darling)  
-bed : bed  
+bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
 bega  escape (flee, run away)  
 beijing : Beijing (Peking)  
@@ -141,7 +142,6 @@ benzin : gasoline (petrol)
 beranda : veranda (porch)  
 beret : beret  
 beria : wolf  
-bet : house  
 beton : concrete (material with cement)  
 bey : suffer (passivizing verb)  
 biblia : Bible  
@@ -238,9 +238,9 @@ cute mun : exit door
 
 ##d
 
-da : s (particle of possession)  
-dab : answer (reply, response)  
+da : 's (particle of possession)  
 daba : respond (give an answer)  
+dabe : answer (reply, response)  
 dado : die (dice)  
 daftar : register  
 daixi : ambassador  
@@ -396,7 +396,8 @@ fete : fat (grease)
 feti : fatty (greasy)  
 feya : fly  
 figur : figure (representation)  
-fikra : think  
+fikra : think (ponder, reflect)  
+fikre : thought (idea)  
 fiksa : fix (attach)  
 file : line (row)  
 filme : film  
@@ -595,7 +596,6 @@ indika : point (indicate)
 indonesia : Indonesia  
 informa : inform (communicate)  
 informe : information  
-ingay : should (ought)  
 injenar : engineer  
 inji : ginger  
 insan : human being  
@@ -776,8 +776,9 @@ kioske : kiosk
 kira : rent (hire, lease)  
 kirat : carat  
 kire : rent  
+kirili abace : Cyrillic alphabet  
 kirisa : rent out (let, lease)  
-kisme : fate (destiny)  
+kisme : fate (destiny, kismet)  
 kitaba : write  
 kitabe : writing (text)  
 kitabe kan : library  
@@ -880,6 +881,7 @@ lasun : garlic
 lat : pungent (spicy, hot)  
 lat cili : chili pepper  
 latif : nice (pleasant, lovely)  
+latini abace : Latin alphabet  
 latvia : Latvia  
 
 ##l
@@ -1117,7 +1119,6 @@ mun : door (gate)
 mungus : mongoose  
 munkin : possibly (maybe)  
 mur : wall  
-mus : must  
 musa : coerce (force, compel)  
 muse : coercion  
 musika : play music  
@@ -1126,7 +1127,7 @@ musike : music
 musket : musket  
 musketir : musketeer  
 muskul : muscle  
-mustar : mustard  
+musu : must  
 muxing : Jupiter  
 muxu : mouse  
 
@@ -1149,7 +1150,7 @@ nasi : popular
 nasia : nation  
 nasial : national  
 nasialisme : nationalism  
-nawa : Nahua people  
+nawati : Nahuatl (Nahua)  
 nederland : Netherlands  
 nen : year  
 nen feste : anniversary  
@@ -1177,9 +1178,9 @@ norge : Norway
 norme : norm (standard)  
 normi : normal  
 nos : nose  
-not : note (observation)  
-not buk : notebook  
 nota : note (observe, notice)  
+note : note (observation)  
+note buke : notebook  
 notis : notice (notification)  
 notisa : notify  
 nowa : renew (make new, renovate)  
@@ -1786,6 +1787,7 @@ xok : shock (collision)
 xow : show (display, exhibition)  
 xowa : show (display)  
 xu : tree  
+xudu : should (ought)  
 xula : repair (fix)  
 
 ##y

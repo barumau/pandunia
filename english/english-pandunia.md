@@ -50,6 +50,7 @@
   
     
     
+'s (particle of possession)   : da  
 a unit consisting of a set of similar items   : -em  
 ##a  
 ability (skill)   : kene  
@@ -82,6 +83,7 @@ Algeria   : dzayer
 all   : pan  
 allow (permit)   : permisa  
 almond   : badam  
+alphabet   : abace  
 already (-ed)   : ja  
 also (plus, too)   : plus  
 always   : mey zaman  
@@ -99,7 +101,7 @@ animal   : hewan
 animate   : anima  
 animation (cartoon)   : anime  
 anniversary   : nen feste  
-answer (reply, response)   : dab  
+answer (reply, response)   : dabe  
 antenna   : antena  
 anus   : anus  
 any (no matter which)   : eni  
@@ -179,7 +181,7 @@ bean or pea (legume)   : dou
 bear   : baru  
 beard   : barda  
 beautiful (handsome)   : sundar  
-bed   : bed  
+bed   : bede  
 bedouin (nomadic)   : badawi  
 bedroom   : son kamer  
 beef   : mumu nyam  
@@ -455,6 +457,7 @@ curvy (curved)   : kurbi
 cushion (pillow)   : kusen  
 cut   : kata  
 cute   : kaway  
+Cyrillic alphabet   : kirili abace  
 Czech   : ceski  
 ##d  
 damage (wreck)   : awar  
@@ -604,7 +607,7 @@ fascist   : faxiste
 fashion (trend)   : mode  
 fast (quick)   : rapid  
 fat (grease)   : fete  
-fate (destiny)   : kisme  
+fate (destiny, kismet)   : kisme  
 father   : pa  
 father (dad)   : papa  
 fatty (greasy)   : feti  
@@ -800,7 +803,6 @@ horn   : korne
 horse   : uma  
 hotel   : hotel  
 hour   : hor  
-house   : bet  
 how?   : ke yang?  
 howl   : ulula  
 howling   : ulul  
@@ -921,6 +923,7 @@ Laos   : lao
 larva (maggot, caterpillar)   : larwa  
 last (final)   : final  
 last (take time, during)   : dura  
+Latin alphabet   : latini abace  
 Latvia   : latvia  
 laugh   : haha  
 law   : kanun  
@@ -1098,13 +1101,12 @@ music   : musike
 musician   : musikar  
 musket   : musket  
 musketeer   : musketir  
-must   : mus  
-mustard   : mustar  
+must   : musu  
 my   : mi da  
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewi sage  
 ##n  
-Nahua people   : nawa  
+Nahuatl (Nahua)   : nawati  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
 naked (bare)   : nudi  
@@ -1144,9 +1146,9 @@ north   : norde
 northern   : nordi  
 Norway   : norge  
 nose   : nos  
-note (observation)   : not  
+note (observation)   : note  
 note (observe, notice)   : nota  
-notebook   : not buk  
+notebook   : note buke  
 nothing   : nul xe  
 notice (notification)   : notis  
 notify   : notisa  
@@ -1443,7 +1445,6 @@ rum   : rom
 Russia   : rosia  
 Russian   : rusi  
 rustle   : xaxu  
-s (particle of possession)   : da  
 ##s  
 Sabbath   : sabat  
 sad   : udas  
@@ -1503,7 +1504,7 @@ shoe   : sapate
 shoemaker   : sapatir  
 short (brief)   : korti  
 shorten   : korta  
-should (ought)   : ingay  
+should (ought)   : xudu  
 show (display)   : xowa  
 show (display, exhibition)   : xow  
 shower   : dux  
@@ -1671,7 +1672,8 @@ theory   : teore
 they   : yemen  
 thief   : curar  
 thing   : xe  
-think   : pensa  
+think (ponder, reflect)   : fikra  
+thought (idea)   : fikre  
 thousand (kilo-)   : kilo  
 three (3)   : sam  
 throat (gullet)   : gola  
