@@ -1,7 +1,7 @@
 Grammar
 =======
 
-## 1. Introduction
+## 0. Introduction
 
 This grammar deals with the types of words and word order patterns in Pandunia. However, it's possible to learn Pandunia without reading this grammar, for example with the help of a phrasebook and a dictionary.
 
@@ -10,6 +10,26 @@ All language teachers know that a language becomes more difficult to learn when 
 Pandunia is not a difficult language to learn. It doesn't have any of the previously mentioned complexities. Instead, it has a simple grammar, a relatively simple vocabulary, and a simple phonetic spelling.
 
 One thing to keep in mind as you learn Pandunia is that it is not a strict, rule-oriented language where there is a "right way" and a "wrong way" to say things. The important thing is to make yourself understood. Consequently, much of the language involves the lexical items (words that have meaning, like "book" or "eat"), and very little involves purely grammatical ideas (like singular vs. plural and tenses).
+
+--------------------------------------------------------------------------------
+
+
+## 1. The basic rules
+
+These are the 11 basic rules of Pandunia language.
+
+1. The spelling follows the pronunciation exactly.
+2. The stress is placed on the syllable before the last consonant of the word.
+3. Nouns have a single, unchanging form.
+4. The adjectives and the adverb have the same form. They come before the word that they modify.
+5. Compound words are formed by putting words side by side.
+6. Verbs that end in -a indicate subject-verb-object word order.
+7. Verbs that end in -u indicate object-verb-subject word order.
+8. The verbs do not change for person or number.
+9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
+10. Pronouns can be left out when they are obvious and redundant.
+11. Derived words carry an optional ending. Adjectives end in -i, nouns end in -e, and verbs end in -a or -u.
+
 
 --------------------------------------------------------------------------------
 

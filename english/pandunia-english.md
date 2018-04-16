@@ -396,6 +396,7 @@ fete : fat (grease)
 feti : fatty (greasy)  
 feya : fly  
 figur : figure (representation)  
+fikra : think  
 fiksa : fix (attach)  
 file : line (row)  
 filme : film  
@@ -1259,7 +1260,6 @@ ped : foot
 pelmen : dumpling (ravioli, pelmeni)  
 penda : hang (dangle)  
 penis : penis  
-pensa : think  
 penta : paint  
 penter : painter  
 pera : pear  

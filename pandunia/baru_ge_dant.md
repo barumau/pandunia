@@ -7,23 +7,23 @@ un suba baru mama wol enda to bazar. ye loga to baru ban: "no kana kandi i kek n
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-baru ban na sol. ye pensa: "nun mi ken kar eni ting du mi wol!"
+baru ban na sol. ye fikra: "nun mi ken kar eni ting du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-baru ban enda to wax kamer. ye pensa "mi no wol wax dante nun." baru ban si bad.
+baru ban enda to wax kamer. ye fikra "mi no wol wax dante nun." baru ban si bad.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-baru ban joga lit gar na mei kamer. ye wida kek sanduk na meza. ye pensa "mi wol kana kek!" ama ye memori: "ah! mama loga mi no kana kek." baru ban no kana kek.
+baru ban joga lit gar na mei kamer. ye wida kek sanduk na meza. ye fikra "mi wol kana kek!" ama ye memori: "ah! mama loga mi no kana kek." baru ban no kana kek.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-baru ban wida kandi botol na almari. ye pensa "mi wol kana kandi!" ama ye memori: "ah! mama loga mi no kana kandi." baru ban no kana kandi.
+baru ban wida kandi botol na almari. ye fikra "mi wol kana kandi!" ama ye memori: "ah! mama loga mi no kana kandi." baru ban no kana kandi.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-baru ban wida medu bin na alter almari. ye pensa "mama loga nul ting du tema medu. mi ken kana medu!" baru ban sit na kursi i ye kana lit medu. medu bon gusta!
+baru ban wida medu bin na alter almari. ye fikra "mama loga nul ting du tema medu. mi ken kana medu!" baru ban sit na kursi i ye kana lit medu. medu bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 

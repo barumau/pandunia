@@ -40,9 +40,9 @@ When you begin translating for a new language, start from these files.
     * Include here links only to pages that are existing and/or ready.
 * abc.md
     * This page explains how to pronounce Pandunia
-* jumle.md
+* fraze.md
     * This page introduces basic words, sentences and grammatical structures
-* bax_kanun.md
+* kanun.md
     * This is the grammar page
     * Translate at least the chapter called _Basic Rules_
 
