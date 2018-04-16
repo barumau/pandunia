@@ -21,13 +21,21 @@ These are the 11 basic rules of Pandunia language.
 1. The spelling follows the pronunciation exactly.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Nouns have a single, unchanging form.
-4. The adjectives and the adverb have the same form. They come before the word that they modify.
+4. The adjectives and the adverb have the same form. They come before the word that they modify. Frequently adjectives end in **-i**.
+    - ex. 1. **bon pan** = Good bread.
+    - ex. 2. **tu bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side.
+    - ex. **poste sanduke** = mailbox
 6. Verbs that end in -a indicate subject-verb-object word order.
+    - ex. **mi penta meza.** = I paint tables.
 7. Verbs that end in -u indicate object-verb-subject word order.
+    - ex. **meza pentu.** = The table gets painted.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
+    - ex. **mi cing tu dona mone.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
+    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Do you speak Pandunia?
+    - **mi cing tu loga ming.** →  **cing loga ming.** = Please speak clearly.
 11. Derived words carry an optional ending. Adjectives end in -i, nouns end in -e, and verbs end in -a or -u.
 
 
