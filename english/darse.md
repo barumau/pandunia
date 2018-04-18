@@ -167,8 +167,8 @@ See how the translation of **cing** changed between the two sentences? The meani
 The phrase **cing salama ye** has a useful pattern that can be used for making polite requests.
 
 > **cing sidu.** = Please be seated.  
-> **cing dar kafe.** = Please give me some coffee.  
-> **cing dar ca.** = Please give me some tea.  
+> **cing dona kafe.** = Please give me some coffee.  
+> **cing dona ca.** = Please give me some tea.  
 > **cing kana ca.** = Please have some tea.  
 > **cing safa kamer.** = Please clean the room.
 
@@ -225,7 +225,7 @@ Yes or no questions
 ☺: **kana.** = Yes. (_I eat._)  
 ☻: **kia ye kana supe?** = Would he like to have soup?  
 ☺: **no kana.** = No.  
-☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
