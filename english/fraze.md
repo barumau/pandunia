@@ -122,27 +122,27 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 
 
-### ya <small>yes</small>
+### si <small>yes</small>
 
 **kia tu tomas?** Are you Thomas.
 
-**ya, mi tomas.** Yes, I am Thomas.
+**si, mi tomas.** Yes, I am Thomas.
 
 **kia ye doktar?** Is he/she a doctor?
 
-**ya, ye doktar.** Yes, he is a doctor.
+**si, ye doktar.** Yes, he is a doctor.
 
-The word **ya** can be used also for stating something as a fact. Then it is used in place of "to be".
+The word **si** can be used also for stating something as a fact. Then it is used in place of "to be".
 
-**mi ya tomas.** I am Thomas.
+**mi si tomas.** I am Thomas.
 
-**tu ya sara.** You are Sara.
+**tu si sara.** You are Sara.
 
-**pingo ya pal.** The apple is a fruit.
+**pingo si pal.** The apple is a fruit.
 
-Note: It is necessary to use **ya** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
+Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
 
-<small>Etymology. **ya** is from Indonesian: ya, German: ja, Afrikaans: ja, English: yeah.</small>
+<small>Etymology. **si** is from Indonesian: si, German: ja, Afrikaans: ja, English: yeah.</small>
 
 
 
@@ -153,7 +153,7 @@ Note: It is necessary to use **ya** in the latest phrase because, without it, th
 **mi no doktar.** I'm not a doctor.
 
 **kia tu bon?** Are you well?  
-**ya. mi bon.** Yes, I'm well.
+**si. mi bon.** Yes, I'm well.
 
 **kia tu bon.** Are you well?  
 **no, mi no bon.** No, I'm not well.
@@ -204,15 +204,15 @@ Add **men** to a singular pronoun to make it plural.
 
 
 
-### si <small>this, that</small>
+### sa <small>this, that</small>
 
-**si ya ke? / ke si sa?** What's this?
+**sa si ke? / ke si sa?** What's this?
 
-**si ya pingo.** This is an apple.
+**sa si pingo.** This is an apple.
 
-**si ya ros pingo.** This is a red apple.
+**sa si ros pingo.** This is a red apple.
 
-**si pingo ros.** This apple is red.
+**sa pingo ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -222,21 +222,21 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 ### da <small>'s (possessive particle)</small>
 
-**si ke?** What's this?
+**sa ke?** What's this?
 
-**si es mi da fon.** It's my phone.
+**sa si mi da fon.** It's my phone.
 
-**si es ke da?** Whose is this?
+**sa si ke da?** Whose is this?
 
-**si es mi da.** It's mine.
+**sa si mi da.** It's mine.
 
 Note: Possessive particle **da** is put between the owner and the owned thing. So **me da** means "my", **ni da** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
-**ye es mi da doste.** He/she is my friend.
+**ye si mi da doste.** He/she is my friend.
 
-**mi es sara da doste.** I am Sara's friend.
+**mi si sara da doste.** I am Sara's friend.
 
 <small>Etymology. **da** is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
 
@@ -244,9 +244,9 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 ### nam <small>name</small>
 
-**tu da nam es ke?** What's your name?
+**tu da nam si ke?** What's your name?
 
-**mi da nam es tomas.** My name is Thomas.
+**mi da nam si tomas.** My name is Thomas.
 
 **ye namu ke?** What he/she is called?
 
@@ -275,7 +275,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi jan ye.** I know him/her.
 
-**kia tu jan si ren?** Do you know that person?
+**kia tu jan sa ren?** Do you know that person?
 
 **kia tumen jan bici?** Do you know each other?
 
@@ -330,7 +330,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
 **tu wol ke pingo?** Which apple do you want?  
-**si ros.** This red one.
+**sa ros.** This red one.
 
 
 
@@ -399,7 +399,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **sori! mi no aha.** Sorry, I don't understand.
 
-**sori! si ke?** Excuse me, what's this?
+**sori! sa ke?** Excuse me, what's this?
 
 **sori. tu namu ke?** Excuse me, what's your name?
 
@@ -449,7 +449,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
-**"cat" es ke na pandunia?** What is "cat" in Pandunia?
+**"cat" si ke na pandunia?** What is "cat" in Pandunia?
 
 **mau loga miau.** Cat says meow.
 
@@ -480,7 +480,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### mana <small>to mean</small>
 
-**si loge mana ke?** What does this word mean?
+**sa loge mana ke?** What does this word mean?
 
 **"mau" mana ke?** What does "mau" mean?
 
@@ -494,7 +494,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing kitaba tu da adres.** Please, write your address.
 
-**cing kitaba ye na si.** Please, write it here!
+**cing kitaba ye na sa.** Please, write it here!
 
 
 
@@ -561,7 +561,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **hotel na ke?** Where is the hotel?
 
-**hotel na si daw.** The hotel is on that road.
+**hotel na sa daw.** The hotel is on that road.
 
 **tu na ke?** Where are you?
 
@@ -583,7 +583,7 @@ Tip! You can use **na** as a preposition or alone as the verb.
 
 **mi doma singapur.** I live in Singapore.
 
-**kia tu doma si hotel?** Do you live in this hotel?
+**kia tu doma sa hotel?** Do you live in this hotel?
 
 Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **doma** already covers the meaning of being at somewhere, so **na** is not necessary.
 
@@ -608,7 +608,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dona ye ko mi.** Please give it to me.
 
-**me dona si ko tu.** I give this to you.
+**me dona sa ko tu.** I give this to you.
 
 **mi dona buke ko yemen.** I give a book to them.
 
@@ -684,7 +684,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **** Don't worry! (Hakuna matata!)
 
-**tot es okei.** Everything is alright.
+**tot si okey.** Everything is alright.
 
 **** Cheers!
 
@@ -769,6 +769,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **si** this; that</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
+**si** yes <small>(Spanish _sí_)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
 **tu** you <small>(Spanish _tu_)</small>  
 **tumen** you all  
@@ -777,7 +778,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **wida** see, look <small>(Russian _videt'_ видеть)</small>  
 **wol** want <small>(Italian _volere_)</small>  
 **xam** evening <small>(Hindi _śām_ शाम )</small>  
-**ya** yes <small>(Indonesian _ya_)</small>  
 **ye** he, she, it <small>(Lingala _yé_)</small>  
 **yemen** they  
 **zay** currently, at present <small>(Mandarin _zài_ 在)</small>  

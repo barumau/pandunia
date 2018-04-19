@@ -712,7 +712,7 @@ I stand by the house.
 _I speak with Pandunia._  
 I speak in Pandunia.
  
-**mi loga na panyo na pandunia na fon.**  
+**mi loga na doste na pandunia na fon.**  
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia in telephone.
 
