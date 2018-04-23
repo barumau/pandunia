@@ -34,7 +34,7 @@ Parte 1: Saludos y conceptos básicos
 
 **salam laye!** ¡Bienvenido/s!
 
-**salam cude!** ¡Adiós!
+**salam cute!** ¡Adiós!
 
 **salam safar!** ¡Ten un viaje seguro!
 
@@ -122,27 +122,27 @@ Tip: Las preguntas que tienen como respuesta un sí o un no, frecuentemente inic
 
 
 
-### ya <small>sí</small>
+### si <small>sí</small>
 
 **kia tu tomas?** ¿Eres Tomás?.
 
-**ya, mi tomas.** Sí, soy Tomás.
+**si, mi tomas.** Sí, soy Tomás.
 
 **kia ye doktar?** ¿Él/ella es doctor/a?
 
-**ya, ye doktar.** Sí, él/ella es doctor/a.
+**si, ye doktar.** Sí, él/ella es doctor/a.
 
-La palabra **ya** puede ser usada también para manifestar algo como un hecho. Entonces sería usada en el lugar de "ser".
+La palabra **si** puede ser usada también para manifestar algo como un hecho. Entonces sería usada en el lugar de "ser".
 
-**mi ya tomas.** Yo soy Tomás.
+**mi si tomas.** Yo soy Tomás.
 
-**tu ya sara.** Tú eres Sara.
+**tu si sara.** Tú eres Sara.
 
-**pingo ya pal.** La manzana es una fruta.
+**pingo si pal.** La manzana es una fruta.
 
 Nota: Es necesario usar **ya** en la frase anterior porque, sin él, la frase se vería como una palabra compuesta: **pingo pal** (una manzana fruta).
 
-<small>Etimología. **ya** viene del indonesio: ya, alemán: ja, afrikaans: ja, inglés: yeah.</small>
+<small>Etimología. **si** viene del español: sí, portugués: sim.</small>
 
 
 
@@ -153,7 +153,7 @@ Nota: Es necesario usar **ya** en la frase anterior porque, sin él, la frase se
 **mi no doktar.** No soy doctor/a.
 
 **kia tu bon?** ¿Estás bien?  
-**ya. mi bon.** Sí, estoy bien.
+**si. mi bon.** Sí, estoy bien.
 
 **kia tu bon.** ¿Estás bien?  
 **no, mi no bon.** No, no estoy bien.
@@ -206,13 +206,13 @@ Añade **men** a un pronombre singular para hacerlo plural.
 
 ### si <small>esto, eso, aquello</small>
 
-**si ya ke? / ke si sa?** ¿Qué es esto?
+**sa si ke? / ke si sa?** ¿Qué es esto?
 
-**si ya pingo.** Esta es una manzana.
+**sa si pingo.** Esta es una manzana.
 
-**si ya ros pingo.** Esa es una manzana roja.
+**sa si ros pingo.** Esa es una manzana roja.
 
-**si pingo ros.** Esta manzana es roja.
+**sa pingo ros.** Esta manzana es roja.
 
 Nota: Cuando un adjetivo, como **ros**, se pone antes de un sustantivo, trabaja como modificador. Cuando se pone después de un sustantivo, trabaja como un verbo adjetival.
 
@@ -222,21 +222,21 @@ Nota: Cuando un adjetivo, como **ros**, se pone antes de un sustantivo, trabaja 
 
 ### da <small>de, mi, mío, tu, tuya, de él/ella/eso, de ellos/as, de nosotros/as (partícula posesiva)</small>
 
-**si ke?** ¿Qué es esto?
+**sa ke?** ¿Qué es esto?
 
-**si es mi da fon.** Es mi teléfono.
+**sa si mi da fon.** Es mi teléfono.
 
-**si es ke da?** ¿De quién es esto?
+**sa si ke da?** ¿De quién es esto?
 
-**si es mi da.** Es mío.
+**sa si mi da.** Es mío.
 
 Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída. Así **mi da** significa "mi", **ni da** significa "tuyo/tuya" y así.
 
 **ye ke?** ¿Quién es él/ella?
 
-**ye es mi da doste.** Él/ella es mi amigo/a.
+**ye si mi da doste.** Él/ella es mi amigo/a.
 
-**mi es sara da doste.** Yo soy la amiga de Sara.
+**mi si sara da doste.** Yo soy la amiga de Sara.
 
 <small>Etimología. **da** viene del panyabí: ਦਾ "dā", mandarín: 的 "de".</small>
 
@@ -244,9 +244,9 @@ Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída
 
 ### nam <small>nombre</small>
 
-**tu da nam es ke?** ¿Cuál es tu nombre?
+**tu da nam si ke?** ¿Cuál es tu nombre?
 
-**mi da nam es tomas.** Mi nombre es Tomás.
+**mi da nam si tomas.** Mi nombre es Tomás.
 
 **ye namu ke?** ¿Cómo se llama (el/ella/eso)?
 
@@ -275,7 +275,7 @@ Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída
 
 **mi jan ye.** Yo lo/a conozco a él/ella.
 
-**kia tu jan si ren?** ¿Conoces esa persona?
+**kia tu jan sa ren?** ¿Conoces esa persona?
 
 **kia tumen jan bici?** ¿Ustedes se conocen (entre ustedes)?
 
@@ -330,7 +330,7 @@ Tip: Mientras que en el español por lo general se pone el "qué" al inicio de l
 **no. mi no wol ca. mi wol kafe.** No, no quiero té. Quiero café.
 
 **tu wol ke pingo?** ¿Qué manzana quieres?  
-**si ros.** Esa roja.
+**sa ros.** Esa roja.
 
 
 
@@ -370,17 +370,17 @@ Tip: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 
 
-### haida <small>vamos</small>
+### hayda <small>vamos</small>
 
-**haida kana!** ¡Comámos! (Literalmente: _¡Vamos, comámos!_)
+**hayda kana!** ¡Comámos! (Literalmente: _¡Vamos, comámos!_)
 
-**haida enda kana!** ¡Vamos a comer!
+**hayda enda kana!** ¡Vamos a comer!
 
-**haida enda dom.** Vamos a casa.
+**hayda enda dom.** Vamos a casa.
 
 
 
-### nida <small>necesitar, necesidad</small>
+### nida <small>necesitar</small>
 
 **mi nida mede.** Necesito ayuda.
 
@@ -399,7 +399,7 @@ Tip: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 **sori! mi no aha.** Lo siento, no entiendo.
 
-**sori! si ke?** Perdóname, ¿qué es esto/eso?
+**sori! sa ke?** Perdóname, ¿qué es esto/eso?
 
 **sori. tu namu ke?** Perdóname, ¿cómo te llamas?
 
@@ -480,7 +480,7 @@ Tip: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 ### mana <small>significar</small>
 
-**si loge mana ke?** ¿Qué significa esta palabra?
+**sa loge mana ke?** ¿Qué significa esta palabra?
 
 **"mau" mana ke?** ¿Que significa "mau"?
 
@@ -561,7 +561,7 @@ Tip: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 **hotel na ke?** ¿Dónde está el hotel?
 
-**hotel na si daw.** El hotel es por ese camino.
+**hotel na sa daw.** El hotel es por ese camino.
 
 **tu na ke?** ¿Dónde estás?
 
@@ -608,7 +608,7 @@ Tip: También está bien decir "tu doma na ke?"" en vez de "tu doma ke". Sin emb
 
 **cing dona ye ko mi.** Por favor dame eso.
 
-**me dona si ko tu.** Te doy esto.
+**me dona sa ko tu.** Te doy esto.
 
 **mi dona buke ko yemen.** Le doy un libro a ellos/as.
 
@@ -766,9 +766,10 @@ Todas las palabras de Pandunia son palabras prestadas de otros idiomas hablados 
 **pingo** manzana <small>(Mandarín _píngguǒ_ 苹果)</small>  
 **ren** persona <small>(Mandarín _rén_ 人)</small>  
 **ros** rojo <small>(Italiano _rosso_)</small>  
-**si** esto, eso, aquello</small>  
+**sa** esto, eso, aquello</small>  
 **safar** viaje <small>(Árabe _safar_ سفر)</small>  
 **salam** saludo; hola <small>(Árabe _salām_ سلام)</small>  
+**si** sí <small>(Español _sí_)</small>  
 **suba** mañana <small>(Wólof _subba_)</small>  
 **tu** tú <small>(Español _tu_)</small>  
 **tumen** ustedes  
@@ -777,7 +778,6 @@ Todas las palabras de Pandunia son palabras prestadas de otros idiomas hablados 
 **wida** ver, mirar <small>(Ruso _videt'_ видеть)</small>  
 **wol** querer <small>(Italiano _volere_)</small>  
 **xam** tarde <small>(Hindi _śām_ शाम )</small>  
-**ya** sí <small>(Indonesio _ya_)</small>  
 **ye** él, ella, eso <small>(Lingala _yé_)</small>  
 **yemen** ellos/as  
 **zay** actualmente <small>(Mandarín _zài_ 在)</small>  

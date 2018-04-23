@@ -34,7 +34,7 @@ Part 1: Greeting and basics
 
 **salam laye!** Welcome!
 
-**salam cude!** Goodbye!
+**salam cute!** Goodbye!
 
 **salam safar!** Have a safe journey!
 
@@ -142,7 +142,7 @@ The word **si** can be used also for stating something as a fact. Then it is use
 
 Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
 
-<small>Etymology. **si** is from Indonesian: si, German: ja, Afrikaans: ja, English: yeah.</small>
+<small>Etymology. **si** is from Spanish: si, Portuguese: sim.</small>
 
 
 
@@ -370,13 +370,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### haida <small>let's</small>
+### hayda <small>let's</small>
 
-**haida kana!** Let's eat!
+**hayda kana!** Let's eat!
 
-**haida enda kana!** Let's go eat!
+**hayda enda kana!** Let's go eat!
 
-**haida enda dom.** Let's go home.
+**hayda enda dom.** Let's go home.
 
 
 
