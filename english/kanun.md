@@ -179,7 +179,7 @@ The basic number words are:
 - 6 **sis**
 - 7 **set**
 - 8 **bat**
-- 9 **noi**
+- 9 **noy**
 
 Greater numbers are simply made by putting one digit after another – exactly like they are written in the universal numerical language of mathematics.
 
@@ -721,25 +721,25 @@ I speak with friends in Pandunia in telephone.
 In Pandunia some verbs function like prepositions do in English.
 
 > **mi kata pan.** - I cut bread.  
-> **mi kata pan uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+> **mi kata pan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 > **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
 Here are some verbs that are usable as prepositions:
 
-> **badu** - to follow; after, behind  
+> **bada** - to follow; after, behind  
 > **dura** - to last; during, for the time/duration of  
 > **jungu** - to be centered; amid, amidst, in the middle, in the center  
-> **loku** - to occupy, to be located; at  
-> **sirku** - to surround; around  
-> **supru** - to surpass; over, above  
+> **loka** - to occupy, to be located; at  
+> **sirka** - to surround; around  
+> **supra** - to surpass; over, above  
 > **karena** - be caused by; because  
 
 #### 10.1.4. Verbs without prepositions
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
-> **mi lay dom.** - I come home.  
+> **mi laya dom.** - I come home.  
 > **tu sidu kurse.** - You sit (on) the chair.  
 > **ye lala sofa.** - S/he lies (on) the sofa.  
 > **fixe nata daria.** - Fish swim (in) the sea.  
