@@ -640,6 +640,8 @@ It's possible to construct relative clauses with **da** too. Then the relative c
 
 > **mi wida _pingo nyamu da_ man.** - I see an _apple-eating_ man.
 
+> **buke dugu da ren na kamer.** = The book-reading person is in the room.
+> **ye duga da buke na meza.** = The book, that he/she reads, is on the table.  
 
 
 ### 9.3. Modal Particles
