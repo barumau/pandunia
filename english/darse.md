@@ -137,8 +137,8 @@ Making requests
 ☻: **salam!** = Hello!  
 ☺: **salam! cing sidu.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing kana kafe u ca.** = Please have some coffee or tea.  
-☻: **mi kana ca. danke.** = I will have some tea, thank you.  
+☺: **cing nyama kafe u ca.** = Please have some coffee or tea.  
+☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
 ...
 ☺: **cing salama tu da mama!** = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!** = I will. Bye!  
@@ -169,7 +169,7 @@ The phrase **cing salama ye** has a useful pattern that can be used for making p
 > **cing sidu.** = Please be seated.  
 > **cing dona kafe.** = Please give me some coffee.  
 > **cing dona ca.** = Please give me some tea.  
-> **cing kana ca.** = Please have some tea.  
+> **cing nyama ca.** = Please have some tea.  
 > **cing safa kamer.** = Please clean the room.
 
 Commands are introduced with **manda** = to command. They employ the same pivot structure as requests with **cing**.
@@ -195,16 +195,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **kana** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **nyama** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. ye kana ca.
+1. ye nyama ca.
 2. xefe cing ye sidu.
-3. cing kana kafe u ca.
+3. cing nyama kafe u ca.
 4. mama cing mi safa kamer.
-5. xefe sidu i kana kafe.
+5. xefe sidu i nyama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -215,16 +215,16 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia tu kana kafe u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia tu nyama kafe u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
-☻: **sori! kia ye kana ca?** = Pardon! Will he have tea?  
-☺: **no. ye no kana ca. ye kana kafe.** = No, he won't. He would like to have coffee.  
-☻: **kia tu kana supe?** = Would you like to have soup?  
-☺: **kana.** = Yes. (_I eat._)  
-☻: **kia ye kana supe?** = Would he like to have soup?  
-☺: **no kana.** = No.  
+☻: **sori! kia ye nyama ca?** = Pardon! Will he have tea?  
+☺: **no. ye no nyama ca. ye nyama kafe.** = No, he won't. He would like to have coffee.  
+☻: **kia tu nyama supe?** = Would you like to have soup?  
+☺: **nyama.** = Yes. (_I eat._)  
+☻: **kia ye nyama supe?** = Would he like to have soup?  
+☺: **no nyama.** = No.  
 ☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
@@ -233,19 +233,19 @@ Yes or no questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
 
-> **mi kia tu kana ca.** = I ask (do) you drink tea.  
-> **kia tu kana ca?** = Do you drink tea?  
-> **kia kana ca?** = Drink tea?
+> **mi kia tu nyama ca.** = I ask (do) you drink tea.  
+> **kia tu nyama ca?** = Do you drink tea?  
+> **kia nyama ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ye kana ca?** = Does he or she drink tea?  
-> **kia tu kana sup?** = Do you eat soup?  
-> **kia mimen kana su?** = Do we drink water?
+> **kia ye nyama ca?** = Does he or she drink tea?  
+> **kia tu nyama sup?** = Do you eat soup?  
+> **kia mimen nyama su?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xefe kana kafe?** = Does the chief drink coffee?  
+> **kia xefe nyama kafe?** = Does the chief drink coffee?  
 > **kia papa safa kamer?** = Does the father clean the room?  
 > **kia niki baxa pandunia?** = Does Nicky speak Pandunia?
 
@@ -254,22 +254,22 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-> – **kia tu kana supe?** = Do you eat soup?  
+> – **kia tu nyama supe?** = Do you eat soup?  
 > – **si.** = Yes.  
-> – **kia ye kana supe?** = Does she eat soup?  
+> – **kia ye nyama supe?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia tu kana kafe?** = Do you drink coffee?  
-> – **si. mi kana kafe.** = Yes, I drink coffee.  
-> – **kia ye kana kafe?** = Does he drink coffee?  
-> – **no. ye no kana kafe.** = No, he doesn't drink coffee.
+> – **kia tu nyama kafe?** = Do you drink coffee?  
+> – **si. mi nyama kafe.** = Yes, I drink coffee.  
+> – **kia ye nyama kafe?** = Does he drink coffee?  
+> – **no. ye no nyama kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia tu kana suy?** = Do you drink water?  
-> – **kana.** = (Yes, I) drink.
+> – **kia tu nyama suy?** = Do you drink water?  
+> – **nyama.** = (Yes, I) drink.
 
 
 ### Exercises
@@ -294,10 +294,10 @@ Try translating these sentences from English to Pandunia.
 
 1. kia tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama kana kafe?
-4. no. ye no kana kafe.
-5. kia ye kana supe?
-6. (ye) no kana.
+3. kia mama nyama kafe?
+4. no. ye no nyama kafe.
+5. kia ye nyama supe?
+6. (ye) no nyama.
 
 
 --------------------------------------------------------------------------------
@@ -346,9 +346,9 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 1. ye no safa kamer.
 2. un kupe no hali.
-3. dua waf no kana supe.
+3. dua waf no nyama supe.
 4. ye no ada waf i mau. / ye ada no waf i no mau.
-5. xefe kana ca a no kafe.
+5. xefe nyama ca a no kafe.
 6. mama ada no waf a do mau.
 
 
@@ -363,7 +363,7 @@ To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the in
 
 > **ye si ke?** = What is that? / Who is (s)he?  
 > **ke ren lai?** = Who is coming? (**ren** = person)  
-> **ke zaman tu kana?** = When do you eat? (**zam** = time)  
+> **ke zaman tu nyama?** = When do you eat? (**zam** = time)  
 > **ke yang dansa?** = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using **koz ke**.
@@ -401,7 +401,7 @@ Of course **koz** can also be used to express the cause or reason for something,
 2. papa suku.
 3. ke zam ye lai?
 4. na des minut bada.
-5. ye no kana koz ke?
+5. ye no nyama koz ke?
 6. koz (ye) no suku kafe u supe.
 
 -->
@@ -418,9 +418,9 @@ There are no verb conjugations in Pandunia. All verbs have only one form. In a w
 
 > **mi darba ye.** = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi kana pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
+In Pandunia all verbs are like that! For example, **mi nyama pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-> **mi kana pan na suba kane.** = I ate bread for morning meal.
+> **mi nyama pan na suba nyam.** = I ate bread for morning meal.
 
 There are also specific time words.
 
@@ -466,7 +466,7 @@ Any expression of time is good for expressing the tense. When one time expressio
 
 ### Word List
 
-**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba kane** morning meal, breakfast.
+**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba nyam** morning meal, breakfast.
 
 ### Exercises
 
@@ -483,9 +483,9 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 1. mi da xefe festa na futur.
 2. mi ada do waf na pase.
-3. tu kana supe nun.
+3. tu nyama supe nun.
 4. ye safa kamer na befo den.
-5. mau kana kafe na badi den.
+5. mau nyama kafe na badi den.
 6. tu da mama festa na befo noce.
 
 

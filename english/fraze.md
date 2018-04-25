@@ -30,7 +30,7 @@ Part 1: Greeting and basics
 
 **salam noce!** Good night!
 
-**salam kane!** Bon appetit!
+**salam nyam!** Bon appetit!
 
 **salam laye!** Welcome!
 
@@ -204,15 +204,15 @@ Add **men** to a singular pronoun to make it plural.
 
 
 
-### sa <small>this, that</small>
+### li <small>this, that</small>
 
-**sa si ke? / ke si sa?** What's this?
+**li si ke? / ke si li?** What's this?
 
-**sa si pingo.** This is an apple.
+**li si pingo.** This is an apple.
 
-**sa si ros pingo.** This is a red apple.
+**li si ros pingo.** This is a red apple.
 
-**sa pingo ros.** This apple is red.
+**li pingo ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -222,13 +222,13 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 ### da <small>'s (possessive particle)</small>
 
-**sa ke?** What's this?
+**li ke?** What's this?
 
-**sa si mi da fon.** It's my phone.
+**li si mi da fon.** It's my phone.
 
-**sa si ke da?** Whose is this?
+**li si ke da?** Whose is this?
 
-**sa si mi da.** It's mine.
+**li si mi da.** It's mine.
 
 Note: Possessive particle **da** is put between the owner and the owned thing. So **me da** means "my", **ni da** means "your" and so on.
 
@@ -275,7 +275,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi jan ye.** I know him/her.
 
-**kia tu jan sa ren?** Do you know that person?
+**kia tu jan li ren?** Do you know that person?
 
 **kia tumen jan bici?** Do you know each other?
 
@@ -296,47 +296,47 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 ## Part 2: Eating
 
 
-### kana <small>consume, eat, drink</small>
+### nyama <small>consume, eat, drink</small>
 
-**kia tu wol kana yo?** Would you like to eat something?
+**kia tu wol nyama yo?** Would you like to eat something?
 
-**ye kana pingo.** He/she eats an apple.
+**ye nyama pingo.** He/she eats an apple.
 
-**yemen kana pingo.** They eat apples.
+**yemen nyama pingo.** They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
 
-**kia tu kana kafe?** Do you drink coffee?
+**kia tu nyama kafe?** Do you drink coffee?
 
-**mi kana kafe.** I drink coffee.
+**mi nyama kafe.** I drink coffee.
 
-Tip: Meaning of **kana** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
+Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi kana kafe i pan.** I'm having coffee and bread.
+**mi nyama kafe i pan.** I'm having coffee and bread.
 
 
 
 ### wol <small>want</small>
 
-**kia tu wol kana?** Would you like to eat?
+**kia tu wol nyama?** Would you like to eat?
 
-**tu wol kana ke?** What would you like to eat?
+**tu wol nyama ke?** What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol kana kafe.** I want to drink coffee.
+**mi wol nyama kafe.** I want to drink coffee.
 
-**kia tu wol kana ca?** Would you like to drink tea?  
+**kia tu wol nyama ca?** Would you like to drink tea?  
 **no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
 **tu wol ke pingo?** Which apple do you want?  
-**sa ros.** This red one.
+**li ros.** This red one.
 
 
 
 ### cing <small>request, please</small>
 
-**mi cing tu kana ca.** I ask you to drink tea.
+**mi cing tu nyama ca.** I ask you to drink tea.
 
 **mi cing tu lay dom.** I ask you to come home.
 
@@ -344,9 +344,9 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing kana ca.** Please, have some tea!
+**cing nyama ca.** Please, have some tea!
 
-**cing kana kafe.** Please, have some coffee!
+**cing nyama kafe.** Please, have some coffee!
 
 **cing lay dom.** Please, come home!
 
@@ -372,9 +372,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### hayda <small>let's</small>
 
-**hayda kana!** Let's eat!
+**hayda nyama!** Let's eat!
 
-**hayda enda kana!** Let's go eat!
+**hayda enda nyama!** Let's go eat!
 
 **hayda enda dom.** Let's go home.
 
@@ -384,9 +384,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi nida mede.** I need help.
 
-**mi nida kana.** I'm hungry.
+**mi nida nyama.** I'm hungry.
 
-**kia tu nida kana?** Are you hungry?
+**kia tu nida nyama?** Are you hungry?
 
 **kia tu nida suy?** Are you thirsty?
 
@@ -399,7 +399,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **sori! mi no aha.** Sorry, I don't understand.
 
-**sori! sa ke?** Excuse me, what's this?
+**sori! li ke?** Excuse me, what's this?
 
 **sori. tu namu ke?** Excuse me, what's your name?
 
@@ -480,7 +480,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### mana <small>to mean</small>
 
-**sa loge mana ke?** What does this word mean?
+**li loge mana ke?** What does this word mean?
 
 **"mau" mana ke?** What does "mau" mean?
 
@@ -494,7 +494,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing kitaba tu da adres.** Please, write your address.
 
-**cing kitaba ye na sa.** Please, write it here!
+**cing kitaba ye na li.** Please, write it here!
 
 
 
@@ -561,7 +561,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **hotel na ke?** Where is the hotel?
 
-**hotel na sa daw.** The hotel is on that road.
+**hotel na li daw.** The hotel is on that road.
 
 **tu na ke?** Where are you?
 
@@ -583,7 +583,7 @@ Tip! You can use **na** as a preposition or alone as the verb.
 
 **mi doma singapur.** I live in Singapore.
 
-**kia tu doma sa hotel?** Do you live in this hotel?
+**kia tu doma li hotel?** Do you live in this hotel?
 
 Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **doma** already covers the meaning of being at somewhere, so **na** is not necessary.
 
@@ -608,7 +608,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dona ye ko mi.** Please give it to me.
 
-**me dona sa ko tu.** I give this to you.
+**me dona li ko tu.** I give this to you.
 
 **mi dona buke ko yemen.** I give a book to them.
 
@@ -655,7 +655,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **ke si mas bon?** Which is better?
 
-**sa si maxim bon (ze tot).** This is the best (of all).
+**li si maxim bon (ze tot).** This is the best (of all).
 
 
 

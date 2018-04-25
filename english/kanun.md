@@ -22,14 +22,14 @@ These are the 11 basic rules of Pandunia language.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Nouns have a single, unchanging form.
 4. The adjectives and the adverb have the same form. They come before the word that they modify. Frequently adjectives end in **-i**.
-    - ex. 1. **bon pan** = Good bread.
+    - ex. 1. **bon pang** = Good bread.
     - ex. 2. **tu bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side.
     - ex. **poste sanduke** = mailbox
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **mi penta meza.** = I paint tables.
+    - ex. **mi nyama pang.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **meza pentu.** = The table gets painted.
+    - ex. **pang nyamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
     - ex. **mi cing tu dona mone.** = I ask you to give money.
@@ -232,19 +232,19 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 ### 5.2. Demonstrative pronouns
 
-**Sa** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
+**li** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
 
-The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
+The distance to the speaker can be specified by adding words **jin** (near) and **tel** (far), if needed.
 
-**sa** - this or that  
-**sa jin** - this over here  
-**sa far** - that over there  
+**li** - this or that  
+**li jin** - this over here  
+**li tel** - that over there  
 
 The demonstrative pronouns work like modifiers.
 
-> **sa batu.** - That stone  
-> **sa si batu.** - That is a stone.  
-> **sa batu cung.** - That stone is heavy.  
+> **li batu.** - That stone  
+> **li si batu.** - That is a stone.  
+> **li batu cung.** - That stone is heavy.  
 
 
 ### 5.3. Interrogative pronoun
@@ -254,7 +254,7 @@ The demonstrative pronouns work like modifiers.
 > **ke?** - Who or what?  
 > **ke xe?** - What? (Which thing?)  
 > **ke ren?** - Who? (Which person?)  
-> **ke sat?** - When? (What time?)  
+> **ke zaman?** - When? (What time?)  
 > **ke yang?** - How? (What manner?)  
 > **ke koz?** - Why? (What cause?)  
 
@@ -302,7 +302,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
      ↗ 
     S ← O
 
-For example: **mi kana pan, jo tu baka.** - I eat bread _that you baked._
+For example: **mi nyama pan, jo tu baka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -442,13 +442,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi kana pingo.** - I eat apples.  
+> **mi nyama pingo.** - I eat apples.  
 > **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
-**mi pingo kanu.** - _I apples eat._
+**mi pingo nyamu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
@@ -509,9 +509,9 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 
 Object 1 functions has dual role. It is at the same time the object for verb 1 and the subject for verb 2.
 
-> **mi wol tu kana sabze.** - I want you eat vegetables.
+> **mi wol tu nyama sabze.** - I want you eat vegetables.
 
-In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **kana sabze**. So **tu** is the _pivot_ of the entire sentence.
+In the example above, **mi wol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
 
 
 ### 7.7. Serial verbs
@@ -634,7 +634,7 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du kana pingo_.** - I see a man _who eats apples_.  
+> **mi wida man _du nyama pingo_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
@@ -652,10 +652,10 @@ In Pandunia, a modal particle modifies the subsequent word, or the whole sentenc
 
 The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-> **ye kana bir plus.** - S/he drinks beer, _also_.  
-> **ye kana plus bir.** - S/he drinks _also beer_.  
-> **ye plus kana bir.** - S/he _also drinks_ beer.  
-> **plus ye kana bir.** - _Also s/he_ drinks beer.
+> **ye nyama bir plus.** - S/he drinks beer, _also_.  
+> **ye nyama plus bir.** - S/he drinks _also beer_.  
+> **ye plus nyama bir.** - S/he _also drinks_ beer.  
+> **plus ye nyama bir.** - _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
