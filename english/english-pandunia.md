@@ -49,6 +49,7 @@
   
   
   
+  
     
     
 's (particle of possession)   : da  
@@ -225,7 +226,7 @@ bodily (corporal)   : badani
 body   : badan  
 Bolivia   : bolivia  
 bomb   : bombe  
-bon appetit!   : salam kane  
+bon appetit!   : salam nyam  
 bone   : oste  
 book   : buke  
 booking (reservation)   : buking  
@@ -243,7 +244,7 @@ branch (bough)   : xake
 brave (courageous)   : yungam  
 Brazil   : brazil  
 bread   : pang  
-breakfast   : suba kane  
+breakfast   : suba nyam  
 breast (boob, tits)   : mam  
 breath   : nafas  
 bridge   : pont  
@@ -412,6 +413,7 @@ consequence (follow-up)   : bade
 consider (regard)   : konsida  
 consonant   : konson  
 consume (eat or drink)   : kana  
+consume (eat or drink)   : nyama  
 continue (resume)   : kontinu  
 cook (chef)   : kukar  
 cook (prepare food)   : kuka  
@@ -419,7 +421,7 @@ cool   : kul
 copper   : kuper  
 copy (replica)   : kope  
 copy (replicate)   : kopa  
-corn (maize)   : mais  
+corn (maize)   : mays  
 corner (angle)   : kona  
 cost   : kosta  
 cost (price)   : koste  
@@ -478,6 +480,7 @@ December   : mes 12 (mes des do)
 deci-   : deci  
 deed   : kar  
 defecate (shit)   : kaka  
+delicious (yummy)   : nyami  
 democracy   : demokratia  
 demon   : demon  
 Denmark   : danmark  
@@ -496,7 +499,8 @@ die   : martu
 die (dice)   : dado  
 dig (excavate)   : fosa  
 dining room   : kane kamer  
-dinner   : xam kane  
+dining room   : nyam kamer  
+dinner   : xam nyam  
 disc (disk)   : diske  
 discussion (debate, discourse)   : lon  
 disperse   : jamula  
@@ -649,6 +653,7 @@ fly   : feya
 focus (concentration)   : fokus  
 follow (come after)   : bada  
 food (meal)   : kane  
+food (meal)   : nyam  
 fool (buffoon)   : bufon  
 fool (idiot)   : bobo  
 foot   : ped  
@@ -953,7 +958,7 @@ like (as, as if, than)   : ka
 like (enjoy, be fond of)   : suku  
 lilac   : lilak  
 lily   : lilya  
-limit (boundary)   : limit  
+limit (boundary)   : limite  
 line (row)   : file  
 line (stripe)   : linye  
 linguistics   : bax lojia  
@@ -975,7 +980,7 @@ loser   : luzar
 love (affection)   : amor  
 love romantically   : romansa  
 luggage (baggage)   : bagaje  
-lunch   : den kane  
+lunch   : den nyam  
 lung   : pulmon  
 lychee (litchi)   : lici  
 lymph   : limfa  
@@ -996,7 +1001,7 @@ make (create)   : fakta
 make (produce, manufacture)   : sana  
 maker (creator, factor)   : faktar  
 malaria   : malaria  
-Malaysia   : malaisia  
+Malaysia   : malaysia  
 male   : man  
 Mali   : malia  
 mammal   : mamal  
@@ -1535,7 +1540,7 @@ Slovakia   : slowakia
 Slovenia   : slowenia  
 smoke   : duman  
 smooth   : lis  
-snack   : lil kane  
+snack   : lil nyame  
 snake (serpent)   : serpe  
 snow   : hima  
 so (like this, like that)   : so  
@@ -1568,7 +1573,7 @@ spirit (soul)   : anma
 spit   : tuka  
 spoon   : camca  
 sport (athletics)   : kel  
-square (plaza)   : maidan  
+square (plaza)   : maydan  
 squirrel   : lixu  
 Sri Lanka   : lanka  
 stadium   : stadion  

@@ -139,7 +139,7 @@ On the other hand, the letter C doesn't stand for any dedicated sound in English
 
 In many languages, expressions of greeting have something to do with peace, health or well-being. The origins of Pandunia's word **salam** can be traced back to Semitic triliteral root SLM, which covers a variety of meanings including safety, security, peace and health. Likewise the English word _salutation_ (and French greeting _salut_) can be traced back to Latin "salus", which means safety, security, health and well-being.
 
-So the meaning of **salam** is greater than the meaning of peace. It means well-being in general and you can use it as a general expression for well-wishing in all kinds of situations, not just when you meet somebody. See the first lesson in the [phrasebook](jumla.md) for a lot of examples!
+So the meaning of **salam** is greater than the meaning of peace. It means well-being in general and you can use it as a general expression for well-wishing in all kinds of situations, not just when you meet somebody. See the first lesson in the [phrasebook](fraze.md) for a lot of examples!
 
 
 #### Why Pandunia borrows words only from widely spoken languages?

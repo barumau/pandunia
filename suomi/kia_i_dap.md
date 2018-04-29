@@ -143,6 +143,6 @@ Maailmalla on useita kieliä, joissa C äännetään kuten TŠ eli kuten englann
 
 Monessa kielessä tervehdyssana liittyy rauhaan, terveyteen tai hyvinvointiin. Suomessa sanotaan "terve" ja kiinassa "nǐ hǎo" (sinä hyvä). Pandunian sana **salam** on peräisin seemiläisten kielten sanajuuresta SLM, jonka merkitys kattaa mm. turvallisuuden, rauhan ja terveyden. Samoin länsimaisten kielten "salut" tarkoittaa alunperin latinassa turvallisuutta, terveyttä ja hyvinvointia.
 
-Näin ollen sanan **salam** merkitys on laajempi kuin vain rauha ja tervehdyksenä se tarkoittaa muutakin kuin tulemista rauhan aikein. **Salam** tarkoittaa hyvinvointia yleensä ja sitä käytetään toivottamaan toisille hyvää kaikissa tilanteissa kuten tavatessa, onnitellessa ja toivottaessa hyvää matkaa. Esimerkkejä löydät [tulkkisanakirjan](jumla.md) ensimmäisestä luvusta!
+Näin ollen sanan **salam** merkitys on laajempi kuin vain rauha ja tervehdyksenä se tarkoittaa muutakin kuin tulemista rauhan aikein. **Salam** tarkoittaa hyvinvointia yleensä ja sitä käytetään toivottamaan toisille hyvää kaikissa tilanteissa kuten tavatessa, onnitellessa ja toivottaessa hyvää matkaa. Esimerkkejä löydät [tulkkisanakirjan](fraze.md) ensimmäisestä luvusta!
 
 

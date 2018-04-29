@@ -274,7 +274,7 @@ dem : point (spot)
 demokratia : democracy  
 demon : demon  
 den : day (daytime)  
-den kane : lunch  
+den nyam : lunch  
 denga : wait  
 des : ten (10)  
 desen : drawing (picture)  
@@ -907,12 +907,12 @@ lietuva : Lithuania
 liga : connect (join, link)  
 lige : joint (league)  
 lil : little (small)  
-lil kane : snack  
+lil nyame : snack  
 lilak : lilac  
 lilya : lily  
 lim : five (5)  
 limfa : lymph  
-limit : limit (boundary)  
+limite : limit (boundary)  
 limun : lemon  
 linye : line (stripe)  
 lis : smooth  
@@ -956,17 +956,17 @@ magi : magical
 magia : magic  
 magnet : magnet  
 magneti : magnetic  
-maidan : square (plaza)  
-mais : corn (maize)  
 maju : harness  
 makala : article (writing)  
 makan : butter  
 makas : scissors  
 makedonia : Macedonia  
 mal : bad  
-malaisia : Malaysia  
+malaysia : Malaysia  
 malaria : malaria  
 malia : Mali  
+maydan : square (plaza)  
+mays : corn (maize)  
 
 ##m
 
@@ -1195,6 +1195,11 @@ numer : number
 numer un : first (number one)  
 nun : now  
 nuton : newton (N)  
+nyam : food (meal)  
+nyam kamer : dining room  
+nyama : consume (eat or drink)  
+nyami : delicious (yummy)  
+
 
 ##o
 
@@ -1444,8 +1449,8 @@ salade : salad
 salam : good (in greetings)  
 salam cute : farewell  
 salam den : Good day  
-salam kane : bon appetit!  
 salam laye : welcome!  
+salam nyam : bon appetit!  
 salam suba : Good morning  
 salam xam : Good evening  
 salama : greet  
@@ -1542,7 +1547,7 @@ stop : stop
 suan : sour  
 suba : morning  
 suba den : forenoon  
-suba kane : breakfast  
+suba nyam : breakfast  
 sudafrika : South Africa (republic)  
 sudan : Sudan  
 sude : south  
@@ -1759,7 +1764,7 @@ xal : scarf (shawl)
 xalet : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
-xam kane : dinner  
+xam nyam : dinner  
 xaman : shaman  
 xamba : field (countryside)  
 xampu : shampoo  
