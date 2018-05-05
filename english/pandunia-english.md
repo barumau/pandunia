@@ -24,13 +24,14 @@ almari : cupboard (closet, cabinet, wardrobe)
 almas : diamond  
 alter : other  
 altera : change (alter)  
+am : love (affection)  
+ama : love (to be in love with)  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
 amerika : America (continent)  
 amerikan : American  
-amor : love (affection)  
 amper : ampere  
-amuk : rage (fury)  
+amuke : rage (fury)  
 analis : analysis  
 analisa : analyse  
 anima : animate  
@@ -61,10 +62,10 @@ aspirin : aspirin
 ata : flour  
 atake : attack  
 atom : atom  
-auda : hear (listen)  
-australia : Australia  
 awaka : avocado  
 awar : damage (wreck)  
+awda : hear (listen)  
+awstralia : Australia  
 ay : ouch! (alas!)  
 ayiti : Haiti  
 ays : ice  
@@ -158,7 +159,6 @@ biznes ren : businessperson (businessman)
 blabla : chat (babble)  
 blable kamer : chat room  
 bobo : fool (idiot)  
-boikot : boycott  
 boka : mouth  
 bol : ball  
 bolgaria : Bulgaria  
@@ -169,6 +169,7 @@ bora : drill (bore)
 bote : boat (ship)  
 botol : bottle  
 boton : button  
+boykote : boycott  
 brazil : Brazil  
 britan : Britain (UK)  
 brox : brush  
@@ -246,8 +247,6 @@ daba : respond (give an answer)
 dabe : answer (reply, response)  
 dado : die (dice)  
 daftar : register  
-daixi : ambassador  
-daixi kan : embassy  
 dama : checkers  
 dane : grain (seed)  
 danka : thank  
@@ -269,6 +268,9 @@ darwinisme : Darwinism
 daw : way (road)  
 dawisme : Taoism  
 day : big  
+dayu : grow (get bigger)  
+dayxi : ambassador  
+dayxi kan : embassy  
 deci : deci-  
 dem : point (spot)  
 demokratia : democracy  
@@ -293,7 +295,6 @@ din guru : priest (cleric)
 ding : nail (spike)  
 diske : disc (disk)  
 do : two (2)  
-doice : Germany  
 dokta : heal (cure)  
 doktar : doctor (physician, healer)  
 dolar : dollar  
@@ -310,6 +311,7 @@ dostia : friendship
 dow : bean or pea (legume)  
 dox : fault (sin, blame, defect, guilt)  
 doxi : guilty  
+doyce : Germany  
 doze : portion (dose)  
 drame : drama  
 droge : drug (intoxicating substance)  
@@ -351,19 +353,16 @@ eritra : Erithrea
 espanya : Spain  
 esperante : Esperanto  
 esti : Estonia  
-eurasia : Eurasia  
-eureka : find (discover)  
-euro : euro  
-europa : Europe  
-europan : European  
-europan unia : European Union (EU)  
+ewrasia : Eurasia  
+ewreka : find (discover)  
+ewro : euro  
+ewropa : Europe  
+ewropan : European  
+ewropan unia : European Union (EU)  
 
 ##f
 
 fada : supply (dispense, issue, put out)  
-faide : use (utility, benefit, gain, advantage)  
-faidi : useful (beneficial)  
-fain : fine (delicate)  
 fajan : development  
 fakta : make (create)  
 faktar : maker (creator, factor)  
@@ -385,6 +384,9 @@ faxe : bundle
 faxisme : fascism  
 faxiste : fascist  
 fay : fire  
+fayde : use (utility, benefit, gain, advantage)  
+faydi : useful (beneficial)  
+fayn : fine (delicate)  
 feber : fiever  
 fem : female  
 fem bace : daughter  
@@ -466,8 +468,8 @@ garante : guarantee
 gardin : garden  
 garmi : warm  
 gas : gas  
-gaun : dress (gown)  
 gaw : high  
+gawn : dress (gown)  
 gayana : Guyana  
 gaze : gauze  
 gazel : gazelle  
@@ -497,8 +499,6 @@ grafa : depict (describe, illustrate)
 grafem : grapheme  
 grafi : graphic (descriptive)  
 gram : gram  
-grandi : big  
-grandu : grow (get bigger)  
 gras : grass  
 grimas : grimace  
 grom : thunder (roaring)  
@@ -623,7 +623,7 @@ jaket : jacket
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
 jama : collect (gather, bring together)  
-jameika : Jamaica  
+jameyka : Jamaica  
 jami : collective  
 jamia : collection (congregation)  
 jamula : disperse  
@@ -637,7 +637,7 @@ jangi : military
 jani : known  
 jara : jug (jar)  
 jaz : jazz  
-jeb : pocket  
+jebe : pocket  
 jele : gel (jelly)  
 jelos : jealous  
 jen : birth  
@@ -695,7 +695,7 @@ kafe kupe : coffee cup
 kafi : brown (coffee-colored)  
 kak : excrement (shit)  
 kaka : defecate (shit)  
-kakau : cocoa  
+kakaw : cocoa  
 kal : black  
 kalam : pen  
 kalsium : calcium (Ca)  
@@ -709,12 +709,9 @@ kamote : sweet potato
 kampar : camper  
 kampe : camp  
 kan : workshop (place for...)  
-kana : consume (eat or drink)  
 kanada : Canada  
 kanal : channel  
 kandi : candy (sweets)  
-kane : food (meal)  
-kane kamer : dining room  
 kanguru : cangaroo  
 kanon : gun (cannon)  
 kanonir : cannoneer  
@@ -740,18 +737,18 @@ kasa : case (container)
 kastan : chestnut  
 kata : cut  
 katalunya : Catalonia  
-kaway : cute  
+kaway : cute (sweet)  
 kaxa : porridge  
 kay : open (not closed)  
 kaya : open  
-kazu : event (case, instance)  
+kaze : event (case, instance)  
 ke : what? (which?)  
 ke ren : who?  
 ke yang? : how?  
 ke zaman : when?  
 kecap : ketchup  
 keci : polite  
-kek : cake (cookie)  
+keke : cake (cookie)  
 kel : sport (athletics)  
 kelar : athlete (sportsman)  
 kelele : noise  
@@ -760,10 +757,11 @@ ken : can (know, be able)
 kenar : border (edge, rim, fringe)  
 kene : ability (skill)  
 kenya : Kenya  
-kerub : cherub  
+kerube : cherub  
 ketel : kettle  
-ki : life force (chi)  
-kia : ask (question)  
+kia : ask (inquire)  
+kie : question  
+kii : interrogative  
 kil : wedge  
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  
@@ -789,7 +787,7 @@ klas : class (category)
 klasa : classify (categorize)  
 klon : clone (replica)  
 klona : clone (replicate)  
-klub : club  
+klube : club  
 koda : encode  
 kode : code (cipher)  
 koko : chicken  
@@ -801,14 +799,13 @@ kolonia : colony (settlemen)
 kolun : column (pillar)  
 koma : comma  
 komal : soft  
-komik : comical (funny)  
 kompania : company (corporation)  
 komputa : compute (to process data)  
 komputar : computer  
 komun : common (shared)  
 komunisme : communism  
 komuniste : communist  
-kona : corner (angle)  
+kon : corner (angle)  
 koncung : insect  
 kong : hole  
 kongo : Congo  
@@ -832,6 +829,10 @@ kosta : cost
 kosta rika : Costa Rica  
 koste : cost (price)  
 kote : coat  
+koy : some  
+koy ren : someone (somebody)  
+koy xey : something  
+koy zaman : sometime  
 kratia : rule (reign)  
 krem : cream  
 krime : crime  
@@ -942,6 +943,9 @@ lusun : asparagus
 luta : rob (loot)  
 luza : lose (fail to win)  
 luzar : loser  
+
+##m
+
 ma : mother  
 maca : compete (have a match)  
 mace : match (contest)  
@@ -962,14 +966,9 @@ makan : butter
 makas : scissors  
 makedonia : Macedonia  
 mal : bad  
-malaysia : Malaysia  
 malaria : malaria  
+malaysia : Malaysia  
 malia : Mali  
-maydan : square (plaza)  
-mays : corn (maize)  
-
-##m
-
 mam : breast (boob, tits)  
 mama : mother (mom)  
 mamal : mammal  
@@ -1008,7 +1007,7 @@ matras : mattress
 matur : mature (ripe, adult)  
 matur fem : woman (adult female)  
 matur man : man (adult male)  
-mau : cat  
+maw : cat  
 max : more  
 max ka bas : too much  
 maxi : additional  
@@ -1018,6 +1017,8 @@ maxin : machine
 maxor : major (not minor)  
 maxoria : majority  
 maya : melt (liquidize)  
+maydan : square (plaza)  
+mays : corn (maize)  
 mayu : melt (get molten)  
 maza : amuse (entertain)  
 maze : fun (amusement)  
@@ -1030,8 +1031,6 @@ medu : honey
 mega : million (mega-)  
 megam : cloud  
 mehiko : Mexico  
-mei ren : everybody (everyone)  
-mei xe : everything  
 melodi : melodious (melodic)  
 melodia : melody  
 memba : participate (attend, take part)  
@@ -1057,6 +1056,8 @@ metal : metal
 meter : meter  
 metod : method (way, manner)  
 mey : every (each)  
+mey ren : everybody (everyone)  
+mey xey : everything  
 mey zaman : always  
 meza : table  
 mi : I (me)  
@@ -1138,7 +1139,7 @@ nabe : prophecy
 nadi : river  
 nafas : breath  
 nahun : nail (fingernail)  
-naijiria : Nigeria  
+nayjiria : Nigeria  
 nam : name  
 nama : call (give name)  
 namu : be called (be named)  
@@ -1190,7 +1191,7 @@ nudi : naked (bare)
 nudisme : nudism  
 nul : zero (none)  
 nul ren : nobody (no-one)  
-nul xe : nothing  
+nul xey : nothing  
 numer : number  
 numer un : first (number one)  
 nun : now  
@@ -1238,7 +1239,7 @@ panamerikan : pan-American
 panasian : pan-Asian  
 panda : panda  
 pandunia : Pandunia  
-paneuropan : pan-European  
+panewropan : pan-European  
 pang : bread  
 panik : panic  
 pantalon : pants (trousers)  
@@ -1246,7 +1247,7 @@ papa : father (dad)
 papaya : papaya  
 paper : paper  
 par : equal (peer)  
-paraguai : Paraguay  
+paraguay : Paraguay  
 parde : curtain  
 pas : past (bygone)  
 pasa : pass (go by, go past)  
@@ -1255,9 +1256,9 @@ paskal : pascal (Pa)
 paste : paste  
 pat : path (track, trail)  
 patate : potato  
-paunde : pound (£)  
-paus : pause (break, interruption)  
-pausa : pause (interrupt)  
+pawnde : pound (£)  
+paws : pause (break, interruption)  
+pawsa : pause (interrupt)  
 paxa : hurt  
 paxi : painful  
 paxia : suffer (hurt)  
@@ -1311,7 +1312,7 @@ platonia : Platonism
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
 poker : poker  
-polau : pilaf (pulao)  
+polaw : pilaf (pulao)  
 poli : several  
 polis : police  
 polisar : police officer  
@@ -1474,8 +1475,8 @@ sapatir : shoemaker
 sar : head  
 sar gut : skull  
 sat : time of day (moment)  
-saudar : sibling (brother or sister)  
-sauna : sauna  
+sawdar : sibling (brother or sister)  
+sawna : sauna  
 se : self  
 sekretar : secretary  
 sekretaria : secretariat  
@@ -1586,7 +1587,6 @@ tabar : axe (hatchet)
 tabel : table (matrix)  
 tabia : nature (environment)  
 tabiai : environmental (natural)  
-tai : Thai (Thailand)  
 taibei : Taipei  
 taiwan : Taiwan  
 takse : tax (fee, fare)  
@@ -1605,8 +1605,8 @@ tarjum : translation (interpretation)
 tarjuma : translate (interpret)  
 tarjumar : interpreter (translator)  
 tatu : tattoo  
-taul : towel  
 tawa : frying pan  
+tay : Thai (Thailand)  
 tayga : taiga  
 tazi : fresh  
 tekne : technique (technology)  
@@ -1653,6 +1653,7 @@ tope : hat (cap)
 tortuga : turtle (tortoise)  
 tot : whole (entire, all)  
 total : total (affecting all)  
+towal : towel  
 tren : train  
 tren daw : railway (railroad)  
 tu : you  
@@ -1708,7 +1709,7 @@ volta : volt (V)
 wa : wow! (gee!)  
 wada : promise (commit)  
 waf : dog  
-wain : wine  
+wayn : wine  
 wakila : represent  
 waksin : vaccine  
 wan : bowl (earless cup)  
@@ -1732,9 +1733,7 @@ way-dexi : foreign
 way-dexia : foreign country  
 weka : wake (make awake)  
 weki : awake  
-wen : ask (question)  
 wen : circle (ring)  
-wene : question  
 werka : work  
 werkar : worker  
 werke : work (job, task)  
@@ -1780,10 +1779,10 @@ xarte : condition (requirement)
 xatan : devil (Satan)  
 xatani : devilish (satanic)  
 xaxu : rustle  
-xe : thing  
 xefe : chief (boss)  
 xefi : main (principal)  
 xefi ministar : prime minister  
+xey : thing  
 xiki : elegant (chic)  
 xim : heart  
 xin : belief (faith, creed)  
@@ -1816,9 +1815,6 @@ yehudi : Jewish
 yemen : they  
 yen : eye  
 yesu : Jesus  
-yo : some  
-yo ren : someone (somebody)  
-yo xe : something  
 yode : iodine  
 yoga : do yoga  
 yoge : yoga  
