@@ -17,13 +17,13 @@ Quelques traits remarquables du pandunia :
 
 - [petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
 - [dictionnaire dynamique](tiddly.html)
-- dictionnaire [français → pandunia](français-pandunia.md)
-- dictionnaire [pandunia → français](pandunia-français.md)
+- dictionnaire [français → pandunia](frans-pandunia.md)
+- dictionnaire [pandunia → français](pandunia-frans.md)
 
 ## Articles
 
-- [le pandunia, un nouveau pidgin mondial](dunia_pidjin.md)
-- [le pandunia, une langue de contact mondiale](http://www.pandunia.info/makala/pandunia_in_Interlinguistica_Tartuensis_10.pdf) (article de l’Interlinguistica Tartuensis 10)
+- [le pandunia, un nouveau langue mondial](dunia_baxe.md)
+- [le pandunia, une langue de contact mondiale](http://www.pandunia.info/makala/pandunia_in_Interlinguistica_Tartuensis_10.pdf) (article de l’Interlinguistica Tartuensis 10 en anglais)
 
 ## Rejoignez-nous
 

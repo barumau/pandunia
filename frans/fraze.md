@@ -20,93 +20,168 @@ Remarque ! Beaucoup de leçons contiennent également des astuces et des remarqu
 
 **salam** Salut !
 
-**suba salam!** Bonjour ! (le matin)
+**salam suba!** Bonjour ! (le matin)
 
-**den salam!** Bonjour !
+**salam den!** Bonne journée !
 
-**xam salam!** Bonsoir !
+**salam xam!** Bonsoir !
 
-**noce salam!** Bonne nuit !
+**salam noce!** Bonne nuit !
 
-**kane salam!** Bon appétit !
+**salam nyam!** Bon appetit !
 
-**lay salam!** Bienvenue !
+**salam laye!** Bienvenue !
 
-**ende salam!** Salut ! (au revoir)
+**salam cute!** Au revoir !
 
-**safar salam!** Bon voyage !
+**salam safar!** Bon voyage !
 
-**son salam!** Dors/dormez bien !
+**salam son!** Dors/dormez bien !
 
 Astuce : Comme vous le voyez à travers cette gamme d’expressions, **salam** est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
 
 Remarque : **Salam** est une salutation populaire qui est utilisée à la fois par des personnes religieuses et non-regilieuses dans de nombreux pays à travers le monde.
 
+<small>Étymologie : **salam** vient de l'arabe سَلَام‏ "salām", en Hébreu il se dit : שָׁלוֹם‏ "šalom", en Turque "selam", en Hindi सलाम "salām", en Swahili "salaam" et en Indonésien "selamat".</small>
 
 
 ### mi <small>je, me, moi</small>
 
-**mi salama mama.** Je salue maman.
+**mi sara.** Je suis Sara.
 
-**mi salama papa.** Je salue papa.
+**mi tomas.** Je suis Thomas.
 
-**salam mama!** Salut, maman !
+Vous pouvez vous présenter simplement en utilisant **mi** et votre prénom ; le verbe "être" est optionel.
 
-**salam papa!** Salut, papa !
+**mi salama ma.** Je salue la mère.
 
-**mimen salama mama.** Nous saluons maman.
+**mi salama pa.** Je salue le père.
+
+Le mot **salam** est un nom et **salama** le verbe correspondant.
+L'ordre des mots en Pandunia est sujet-verbe-objet.
+
+**sara salama tomas.** Sara salue Thomas.
+
+**salam ma!** Salutations, mère ! | Salut maman !
+
+**salam pa!** Salutations, père ! | Salut papa !
+
+<small>Étymologie : **mi** vient de l'anglais "me", en Italien il se dit "mi", en Swahili "mimi" et en Zulu: -mi-.</small>
+
 
 
 
 ### tu <small>tu, te, toi</small>
 
+**tu tomas.** Tu es Thomas.
+
 **mi salama tu.** Je te salue.
 
-**tu salama mi.** tu me salues.
+**tu salama mi.** Tu me salues.
 
-Astuce : L’ordre de base des mots est sujet-verbe-objet. Les mots de changent pas de forme en pandunia. C’est pour cela que **mi** reste pareil en pandunia, mais qu’en français, « Je » deviens « me ».
+Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit sujet ou complément.
 
-**salam tu!** Salut, toi !
+**mi ama tu.** Je t'aime.
 
-Remarque :  **tu** ne fait référence qu’à une seule personne. Le pronom pluriel est **tumen**, « vous tous ».
-
-**mi salama tumen.** Je vous salue tous.
-
-**salam tumen!** Salut à tous !
+<small>Étymologie : **tu** vient de l'espagnol "tú", en Italien il se dit "tu", en Français "tu", en Hindi: तू  "tū", en Farsi تو‏‎ "to" et en Tadjik ту "tu".</small>
 
 
 
-### si <small>verbe être</small>
+### ye <small>Il, elle, ou il neutre</small>
 
-**mi si tomas.** Je suis Thomas.
+**ye man.** C'est un homme.
 
-**tu si sara.** tu es Sara.
+**ye fem.** C'est une femme.
 
-**mau si hewan.** Le chat est un animal.
+**ye pingo.** C'est une pomme.
 
-Remarque : Comme tous les mots en pandunia, **si** est invariable. Ainsi, toutes les formes suivantes sont traduites par **si** en pandunia : _suis_, _es_, _est_, _sommes_, _êtes_, _sont_, _étais_, _était_, _étions_, _étiez_, _étaient_ ! De plus, dans les phares simples, il est possible de retirer **si** après un pronom comme **mi** et **tu**.
+**ye** est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
-**mi sara.** Je (suis) Sara.
+**mi salama ye.** Je le/la salue.
 
-**tu tomas.** tu (es) Thomas.
+<small>Étymologie : **ye** vient du Lingala "yé", en Swahili il se dit "yeye", en Chichewa "iye", en Zulu: "-ye-" et en Hindi यह  "ye".</small>
 
 
 
-### si <small>il, elle</small>
+### kia <small>Pour poser une question (est-ce que)</small>
 
-**ye si fem.** C’est une femme.
+**kia tu tomas?** Es-tu Thomas ?
 
-**ye si man.** C’est un homme.
+**kia tu doktar?** Êtes-vous doctor ?
 
-**ye si pingo.** C’est une pomme.
+**Astuce : ** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **kia**. C'est un simple verbe régulier et non un marqueur interrogatif particulier. En fait, la dernière question est une simple abréviation de **mi kia tu doktar.** (je vous demande si vous êtes doctor) ou le premier mot - le pronom personnel **mi** -, est supprimé.
 
-Astuce : **ye** est le pronom générique de la troisième personne. On l’utilise pour des personnes (peu importe leur sexe) et aussi pour les choses. Vous l’avez deviné, **yemen** signifie « ils/elles ».
+**kia tu bon?** Comment vas-tu ? (litérallement : _Est-ce que tu vas bien_)  
+**mi bon.** Ça va. | Je vais bien.  
+**kia tu?** Et toi ?  
+**mi no bon.** Ça ne vas pas | Je ne vais pas bien.
 
-**yemen si pingo.** Ce sont des pommes.
+<small>Étymologie : **kia** vient de l'Hindi: क्या  "kyā", en Urdu il se dit : كيا‏‎ "kyā".</small>
 
-**mimen salama yemen.** Nous les saluons.
 
-**mimen salama tumen.** Nous vous saluons tous.
+
+### si <small>oui, "être"</small>
+
+**kia tu tomas?** Es-tu Thomas.
+
+**si, mi tomas.** Oui, je suis Thomas.
+
+**kia ye doktar?** Est-il/elle doctor ?
+
+**si, ye doktar.** Oui, il/elle est doctor.
+
+Le mot **si** peut également être utilisé pour souligner/confirmer un fait.
+Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
+
+**mi si tomas.** En effet, je suis Thomas.
+
+**tu si sara.** En effet, tu es Sara.
+
+**pingo si pal.** La pomme est en effet un fruit.
+
+**Note : **Il est nécessaire d'ajouter **si** dans la dernière phrase, parce sans sa présence la phrase constituerait un mot composé : **pingo pal** (un fruit [de type] pomme).
+
+<small>Étymologie : **si** vient de l'Espagnol "si", en Portugais il se dit "sim".</small> 
+
+
+
+### no <small>Non, ne pas</small>
+
+**mi no sara.** Je ne suis pas Sara.
+
+**mi no doktar.** Je ne suis pas doctor.
+
+**kia tu bon?** Est-ce que tu vas bien ?  
+**si. mi bon.** Oui, je vais bien.
+
+**kia tu bon.** Est-ce que tu vas bien ?  
+**no, mi no bon.** Non, je ne vais pas bien.
+
+Vous pouvez utiliser **no** pour mettre une phrase à la forme negative.
+
+**ye no salama mi.** Il/elle ne me salue pas.
+
+<small>Étymologie : **no** vient de l'Anglais "no", en Espagnol il se dit "no" et en Français "non".</small>
+
+
+
+### men <small>Plusieurs personnes</small>
+
+Ajoutez **men** à un pronom personnel pour le mettre au pluriel. 
+
+**mimen salama tumen.** Nous vous saluons [tous].
+
+**tumen salama yemen.** Vous les saluez.
+
+**yemen salama mimen!** Ils nous saluent.
+
+**mimen fem.** Nous sommes des femmes.
+
+**tumen man.** Vous êtes des hommes.
+
+**yemen pingo.** Ce sont des pommes.
+
+<small>Étymologie : **men** vient du Mandarin (chinois) 们 "men", en Anglais il se dit "men" (sous-entendu les personnes en général).</small>
 
 
 
@@ -117,12 +192,14 @@ Astuce : **ye** est le pronom générique de la troisième personne. On l’util
 **tu si ke?** Qui es-tu ?
 **mi si tomas.** Je suis Thomas.
 
-**ye si ke?** Qui c’est ?
-**ye si sara.** C’est Sara.
+**ye ke?** Qui est-il/elle ?  
+**ye sara.** C'est Sara.
 
 **tumen si ke?** Qui êtes-vous ?
 
 **yemen si ke?** Qui sont-ils ?
+
+<small>Étymologie : **ke** vient de l'espagnol "qué", en Portugais il se dit "que", en Italien "che" et en Bengali: কী "ki".</small>
 
 
 
@@ -138,14 +215,15 @@ Astuce : **ye** est le pronom générique de la troisième personne. On l’util
 
 Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
 
-**ye ros.** C’est rouge.
+**ye ros.** C'est rouge.
+
 
 
 ### nam <small>nom</small>
 
-**tu namu ke?** Quel est ton nom?
+**tu da nam si ke?** Quel est ton nom?
 
-**mi namu tomas.** Mon nom est Thomas.
+**mi da nam si tomas.** Mon nom est Thomas.
 
 **ye namu ke?** Quel est son nom ?
 

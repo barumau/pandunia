@@ -1,24 +1,28 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Page d’accueil](index.md)
+[Accueil](index.md)
 
-[Alphabet](abc.md)
+[Info]()
 
-[Phrases courantes](fraze.md)
+  * [Présentation](dunia_baxe.md)
+  * [Principes de fonctionnement](filsofi.md)
+  * [Mots du monde](loga.md)
+  * [Questions et réponses](kia_i_dap.md)
+  * [Traduire ce site](baxa_do_baxa.md)
 
-[Grammaire](kanun.md)
+[Leçons]()
 
-[Cours](darse.md)
+  * [Écriture et prononciation](abc.md)
+  * [Phrases courantes](fraze.md)
+  * [Leçons](darse.md)
 
 [Vocabulaire]()
 
-  * [Mots du monde](loga.md)
-  * [Mots usuels](putong_loga.md)
-  * [Pandunia → français](pandunia-français.md)
-  * [Français → pandunia](français-pandunia.md)
-  * [Rechercher](tiddly.html)
+  * [Pandunia → français](pandunia-frans.md)
+  * [Français → pandunia](frans-pandunia.md)
+
+[Grammaire](kanun.md)
 
 [Vidéos](../pandunia/video.md)
 
-[FAQ](kia_i_dap.md)

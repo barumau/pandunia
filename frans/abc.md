@@ -13,7 +13,7 @@ Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n
 Voyelles
 --------
 
-Le pandunia a cinq voyelles.
+Le Pandunia a 5 voyelles.
 
     i   u
     e   o
@@ -27,23 +27,24 @@ Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
 Consonnes
 ---------
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
-          c  j     y
-    k  g  x  h
+    c  j  x        y
+    k  g  h
 
 La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, z** est facile et habituelle.
 
 Les consonnes suivantes se prononcent différement en pandunia et en français :
 
 - **x** se prononce toujours comme le « ch » de _chat_ ;
-- **c** se prononce comme le « tch » de _tchâo !_
+- **c** se prononce comme le « tch » de _tchâo !_.
 - **j** est prononcé comme le « dj » dans _Djibouti_.
-- **h** est aspiré ou il est un son guttural, comme le « ch » allemand de _Ach!_ ou le la « jota » espagnole ;
-- **g** se prononce toujours comme dans _gâteau_ ou _gouter_ ;
+- **h** est aspiré ou il est un son guttural, comme le « ch » allemand de _Ach!_ ou le la « jota » espagnole.
+- **g** se prononce toujours comme dans _gâteau_.
 - **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
-- **s** est toujours prononcé comme dans _souris_. 
+- **s** est toujours léger comme dans _souris_. 
 - **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
+- **h** est aspiré comme dans _**h**ello_
 
 
 
@@ -73,7 +74,7 @@ Il y a trois raisons pour lesquelles les majuscules ne sont pas nécessaires :
 
 1. L’écriture représente un discours et il n’y a pas de « sons majuscules » dans un discours au début des noms propres et autres noms en majuscules ;
 2. La plupart des systèmes d’écriture et alphabets du monde n’ont pas de majuscules ;
-3. Il est plus aisé d’utiliser seulement des minuscules.
+3. Il est plus simple d'utiliser seulement des minuscules.
 
 Remarque ! Ce n’est pas une erreur d’utiliser des majuscules. Certaines personnes le font machinalement parce qu’elles y ont été habituées dans d’autres langues. Mais les majuscules ne sont quand même pas nécessaires et pas recommandées.
 
@@ -103,4 +104,12 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 > **mi wida tu :)** = Je te vois.  
 > **mi no wida tu :(** = Je ne te vois pas.
+
+
+## Structure des mots
+
+La structure la plus commune en Pandunia est CVCV (C = consonne, V = voyelle).
+
+La combinaison de syllabes la plus lourde est CLVCCVC, où L est une consonne liquide (l ou r).
+Le mot **kristal** en est un exemple.
 
