@@ -112,12 +112,21 @@ In Pandunia an adverb is a modifier that is before a verb or at the end of the s
 > **mi sona _bon_.** - I sleep _well_.  
 > **tu baxa pandunia _bon_.** - You speak Pandunia _well_.
 
+
 ### 3.4 Modifying another modifier
 
-A modifier can modify also another modifier.
+A modifier can modify also another modifier. For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-> **sundar fem** - beautiful woman  
-> **cok sundar fem** - truly beatiful woman  
+> **day ren** - big person  
+> **lil ren** - little person  
+> **sundar ren** - beautiful person
+
+> **day sundar ren** - very beautiful person  
+> **lil sundar ren** - somewhat beautiful person
+
+The modifiers can be separated by using **i** (and).
+
+> **lil i sundar ren** - a little and beautiful person
 
 
 ### 3.5. Comparison

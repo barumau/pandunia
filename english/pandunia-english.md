@@ -224,7 +224,6 @@ cip : Albania
 cis : cheese  
 cita : quote  
 coda : fuck (copulate)  
-cok : many (much)  
 cokolat : chocolate  
 cokolat baton : chocolate bar  
 corab : sock (stocking)  
@@ -267,7 +266,7 @@ darse kan : school (institution)
 darwinisme : Darwinism  
 daw : way (road)  
 dawisme : Taoism  
-day : big  
+day : big (very, greatly)  
 dayu : grow (get bigger)  
 dayxi : ambassador  
 dayxi kan : embassy  
@@ -907,7 +906,7 @@ lidar : leader (director)
 lietuva : Lithuania  
 liga : connect (join, link)  
 lige : joint (league)  
-lil : little (small)  
+lil : little (small; a little, somewhat)  
 lil nyame : snack  
 lilak : lilac  
 lilya : lily  

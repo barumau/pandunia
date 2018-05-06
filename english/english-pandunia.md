@@ -205,7 +205,7 @@ bench   : benci
 beret   : beret  
 between   : inter  
 Bible   : biblia  
-big   : day  
+big (very, greatly)   : day  
 billion (giga-)   : giga  
 biology (study of life)   : jiwe lojia  
 bird   : paki  
@@ -961,7 +961,7 @@ lip   : labia
 list (listing)   : liste  
 liter (litre)   : liter  
 Lithuania   : lietuva  
-little (small)   : lil  
+little (small; a little, somewhat)   : lil  
 live   : jiwa  
 live (dwell, reside)   : doma  
 load (to charge)   : lada  
@@ -1006,7 +1006,6 @@ mandarin orange   : migan
 mango   : mango  
 mangosteen   : mangus  
 mankind (humanity)   : insania  
-many (much)   : cok  
 marathon   : maraton  
 marble   : marmar  
 March   : mes 3 (mes sam)  
