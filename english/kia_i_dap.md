@@ -109,12 +109,12 @@ Different structures were considered and tested during the development of Pandun
 1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
 2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
 
-Pandunia is an analytic language with a little agglutination. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating and inflecting languages.
+Pandunia is an isolating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating and inflecting languages.
 
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi wol     wid|a  tu da     do  sundar     yen         nun.
+    Pandunia:  mi wol     wide   tu su     du  sundar     yen         nun.
                I  want to see    your      two beautiful  eyes        now.
 
 
