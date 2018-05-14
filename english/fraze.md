@@ -142,7 +142,7 @@ The word **ye** can be used also for stating something as a fact. Then it is use
 
 Note: It is necessary to use **ye** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
 
-<small>Etymology. **ye** is from Spanish: ye, Portuguese: sim.</small>
+<small>Etymology. **ye** is from English: yeah, Korean: 예 (ye), Luganda: yee.</small>
 
 
 

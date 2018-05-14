@@ -26,15 +26,23 @@ Hello!
 _Morning's greeting._  
 Good morning.
 
-**nyam salam.**  
+**salam suba.**  
+_Greeted morning._
+Good morning.
+
+**yem salam.**  
 _Food's greeting._  
 Bon appetit!
 
-**mi salam tu.**  
+**salam yem.**  
+_Greeted food._  
+Bon appetit!
+
+**me salam ni.**  
 _My greeted, you._  
 I greet you.
 
-**salam tu!**  
+**salam ni!**  
 _Greeted you!_  
 Hello, you!
 
@@ -66,23 +74,23 @@ The color of the eyes is brown.
 
 ### Pause as the "zero be"
 
-**mi: simon.**  
+**me: simon.**  
 _I, Simon._  
 I am Simon.
 
-**mi nam: simon.**  
+**me nam: simon.**  
 _My name, Simon._  
 My name is Simon.
 
-**mi umur: 30 nen.**  
+**me umur: 30 nen.**  
 _My age:, 30 year._  
 I'm 30 years old.
 
-**mi gojia: frans.**  
+**me gojia: frans.**  
 _My country, France._  
 I live in France.
 
-**mi yen rang: brun.**  
+**me yen rang: brun.**  
 _My eye's color, brown._  
 My eyes are brown.
 
@@ -90,23 +98,23 @@ My eyes are brown.
 
 ### "Uh" as the "zero be"
 
-**mi e simon.**  
+**me e simon.**  
 _I, uh, Simon._  
 I am Simon.
 
-**mi nam e simon.**  
+**me nam e simon.**  
 _My name, uh, Simon._  
 My name is Simon.
 
-**mi umur e 30 nen.**  
+**me umur e 30 nen.**  
 _My age, uh, 30 year._  
 I'm 30 years old.
 
-**mi gojia e frans.**  
+**me gojia e frans.**  
 _My country, uh, France._  
 I live in France.
 
-**mi yen rang e brun.**  
+**me yen rang e brun.**  
 _My eye's color, uh, brown._  
 My eyes are brown.
 
@@ -114,39 +122,39 @@ My eyes are brown.
 
 ### "Yes" and "no" in place of the "zero be"
 
-A particle like **si** (yes) can take the place of "zero be". It doesn't add any information when the sentence is already affirmative but it makes the structure more clear.
+A particle like **ye** (yes) can take the place of "zero be". It doesn't add any information when the sentence is already affirmative but it makes the structure more clear.
 
-**mi si simon.**  
+**me ye simon.**  
 _I yes Simon._  
 I am Simon.
 
-**mi nam si simon.**  
+**me nam ye simon.**  
 _My name yes Simon._  
 My name is Simon.
 
-**mi umur si 30 nen.**  
+**me umur ye 30 nen.**  
 _My age yes 30 year._  
 I'm 30 years old.
 
-**mi gojia si frans.**  
+**me gojia ye frans.**  
 _My country yes France._  
 I live in France.
 
-**mi yen rang si brun.**  
+**me yen rang ye brun.**  
 _My eye's color yes brown._  
 My eyes are brown.
 
 Negation is naturally done with **no** (not).
 
-**mi no simon.**  
+**me no simon.**  
 _I not Simon._  
 I'm not Simon.
 
-**mi nam no simon.**  
+**me nam no simon.**  
 _My name not Simon._  
 My name is not Simon.
 
-**mi umur no 30 nen.**  
+**me umur no 30 nen.**  
 _My age not 30 year._  
 I'm not 30 years old.
 
@@ -169,7 +177,7 @@ A cat is an animal.
 _Cat, that animal._  
 A cat is that animal.
 
-**mau sa lit i bon dom hewan.**  
+**mau sa lil i bon dom hewan.**  
 _Cat, that little and good home's animal._  
 The cat is that little and good household animal.
 
@@ -177,22 +185,22 @@ The cat is that little and good household animal.
 
 ### Talking about actions
 
-**mi ama: tu.**  
+**me ama: ni.**  
 _My loved, you._  
 I love you.
 
-**tu: mi ama**  
+**ni: me ama**  
 _You, my loved._  
 You are my loved one.
 
 
 More:
 
-**mi lai: dom.**  
+**me lai: dom.**  
 _My arrival, home._  
 I come home.
 
-**mi no lai: dom.**  
+**me no lai: dom.**  
 _My not arrival, home._  
 I don't come home.
 
@@ -200,7 +208,7 @@ I don't come home.
 _Cat's prey, some mouse._  
 The cat preys on a mouse. (The cat catches a mouse.)
 
-**mau ja kaca la lit mux.**  
+**mau ja kaca la lil mux.**  
 _Cat's past prey, that little mouse._  
 The cat caught that little mouse.
 
@@ -216,15 +224,15 @@ The cat wants to catch that big mouse.
 
 ### Making requests
 
-**mi cing tu lai mimen dom.**  
+**me cing ni lai meme dom.**  
 _My request, your arrival, our home._  
 I request you to come to our house.
 
-**cing tu lai mimen dom.**  
+**cing ni lai meme dom.**  
 _Request, your arrival, our home._  
 Please, you, come to our house.
 
-**cing: lai mimen dom.**  
+**cing: lai meme dom.**  
 _Request, arrival, our home._  
 Please, come to our house.
 
@@ -232,21 +240,34 @@ Please, come to our house.
 
 ### Making questions
 
-**mi kia tu lai mimen dom.**  
+**me kia ni lai meme dom.**  
 _My question, your arrival, our home._  
 I ask, did you come to our house.
 
-**kia tu lai mimen dom.**  
+**kia ni lai meme dom.**  
 _Question, your arrival, our home._  
 Did you come to our house?
 
-**kia tu: maria?**  
+**kia ni: maria?**  
 _Question, you, Maria?_  
 Are you Maria?
 
-**kia tu e maria?**  
+**kia ni e maria?**  
 _Question, you, uh, Maria?_  
 Are you Maria?
+
+
+=================================================
+
+### Other modals
+
+**ges ni suka ta.**  
+_Guess, your enjoyed, it._  
+Guess you enjoy it.
+
+**wang ni suka ta.**  
+Hope you enjoy it.
+
 
 =================================================
 
@@ -254,11 +275,11 @@ Are you Maria?
 
 Basic prepositions are useful as special _grammar words_ also in this isolating language.
 
-**mi na dom.**  
+**me na dom.**  
 _I with home._  
 I'm at home.
 
-**mi safar na bus ze london do paris.**  
+**me safar na bus ze london do paris.**  
 _My travel with bus from London to Paris._  
 I travel by bus from London to Paris.
 
@@ -278,28 +299,76 @@ Simon and Maria are from Paris.
 
 Constrast is expressed with **a**.
 
-**mi no ze paris a london.**  
+**me no ze paris a london.**  
 _I not from Paris but London._  
 I'm not from Paris but London.
 
 Alternative is expressed with **u**.
 
-**ye ze nairobi u zanzibar.**  
+**ta ze nairobi u zanzibar.**  
 _He/she from Nairobi or Zanzibar._  
 He/she is from Nairobi or Zanzibar.
 
 
-<!--
+=================================================
+
+**me safi la dom.**  
+_My cleaned, the house._  
+I clean the house.
+
+**me safi dom.**  
+_My cleaned house._  
+My clean house.
+
+**la safi dom.**  
+_the clean house._  
+The clean house.
+
+**me no safi la safi dom.**  
+_My not cleaned, the clean house._  
+I didn't/don't clean the clean house.
+
+**me, safi.**  
+_I, clean._  
+I am clean.
+
+**me es safi.**  
+_My being, clean._  
+I am clean.
+
+
+=================================================
 
 ### Adverbs and adjectives
 
-**dai buk.**  
+**lil buke.**  
+_Little book._  
+Little books.
+
+**dai buke.**  
 _Big book._  
 Big books.
 
-**dai dai buk.**  
-_Big big book._  
-"Bigly" big books.
+**bon buke.**  
+_Good book._  
+Good books.
 
--->
+Two adjectives that independently modify the same word are separated by **i**.
+
+**lil i bon buke.**  
+_Little and good book._  
+Little and good books.
+
+When there are two consecutive adjectives, the first of modifies the second one.
+
+**lil bon buke.**  
+_Little good book._  
+Rather ("littly") good books.
+
+**dai bon buke.**  
+_Big little book._  
+Very ("bigly") good books.
+
+
+=================================================
 
