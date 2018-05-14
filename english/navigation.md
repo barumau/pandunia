@@ -5,7 +5,7 @@
 
 [Info]()
 
-  * [Introduction](dunia_baxe.md)
+  * [Introduction](dunia_baxa.md)
   * [Principles](filsofi.md)
   * [World words](loga.md)
   * [Questions & Answers](kia_i_dap.md)
@@ -15,7 +15,7 @@
 
   * [Spelling](abc.md)
   * [Basic Phrases](fraze.md)
-  * [Course](darse.md)
+  * [Course](darsa.md)
 
 [Words]()
 
