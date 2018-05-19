@@ -1,157 +1,238 @@
-gok nam lista
-=============
-
-sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge se ge baca](http://www.omniglot.com/countries/).
-
-## afrika
-
-**angola** : Angola  
-**benin** : Benin  
-**burkina** : Burkina Faso  
-**jibuti** : jibouti  
-**dzayer** : Algeria  
-**eritra** : Erithrea  
-**gabon** : Gabon  
-**gambia** : Gambia  
-**gana** : Ghana  
-**ganda** : Uganda  
-**itiopia** : Ethiopia  
-**kamerun** : Cameroon  
-**kenya** : Kenya  
-**kongo** : Congo  
-**kot divowa** : Ivory Coast (Côte d'Ivoire)  
-**liberia** : Liberia  
-**libia** : Libya  
-**magrib** : Marocco  
-**malagas** : Madagascar  
-**mali** : Mali  
-**malawi** : Malawi  
-**misri** : Egypt  
-**mosambik** : Mozambique  
-**muritania** : Mauritania  
-**naijiria (naija)** : Nigeria  
-**namibia** : Namibia  
-**nijer** : Niger  
-**rundi** : Burundi  
-**rwanda** : Rwanda  
-**salone** : Sierra Leone  
-**sexel** : Seychelles  
-**senegal** : Senegal  
-**somali** : Somalia  
-**soto** : Lesotho  
-**sudafrika** : South Africa  
-**sudan** : Sudan  
-**swazi** : Swaziland  
-**tanzania** : Tanzania  
-**cad** : Chad  
-**tswana** : Botswana  
-**togo** : Togo  
-**tunis** : Tunisia  
-**zambia** : Zambia  
-**zimbabwe** : Zimbabwe  
-
-## amerika
-
-**argentina** : Argentina  
-**ayiti** : Haiti  
-**belize** : Belize  
-**bolivia** : Bolivia  
-**brazil** : Brazil  
-**dominika** : Dominica  
-**dominikan republik** : Dominican Republic  
-**ekuador** : Ecuador  
-**gayana** : Guyana  
-**guatemala** : Guatemala  
-**honduras** : Honduras  
-**jameika** : Jamaica  
-**kanada** : Canada  
-**kolombia** : Colombia  
-**kostarika** : Costa Rica  
-**kuba** : Cuba  
-**mexiko** : Mexico  
-**nikaragua** : Nicaragua  
-**panama** : Panama  
-**paraguai** : Paraguay  
-**peru** : Peru  
-**puertoriko** : Puerto Rico  
-**suriname** : Suriname  
-**cile** : Chile  
-**usa (uni stat de amerika)** : United States of America  
-**uruguai** : Uruguay  
-**venesuela** : Venezuela  
-
-## asia
-
-**bama** : Myanmar (Burma)  
-**bangla** : Bangladesh (Bengal)  
-**barat** : India  
-**jungok** : China  
-**hanguk** : South Korea  
-**indonesia** : Indonesia  
-**irak** : Iraq  
-**iran** : Iran  
-**israel** : Israel  
-**kambudia** : Cambodia  
-**lanka** : Sri Lanka  
-**lao** : Laos  
-**lubnan** : Lebanon  
-**malaisia** : Malaysia  
-**mongol** : Mongolia  
-**nepal** : Nepal  
-**nipon** : Japan  
-**oman** : Oman  
-**pakistan** : Pakistan  
-**pilipin** : Philippines  
-**singapur** : Singapore  
-**tai** : Thailand  
-**turki** : Turkey  
-**urdun** : Jordan  
-**viet** : Vietnam  
-**yaman** : Yemen  
-
-
-## europa
-
-**belarus** : Belarus  
-**belgi** : Belgium  
-**bolgaria** : Bulgaria  
-**britan** : Britain (UK)  
-**danmark** : Denmark  
-**doic** : Germany  
-**espanya** : Spain  
-**esti** : Estonia  
-**frans** : France  
-**helen** : Greek  
-**horvat** : Croatia  
-**island** : Iceland  
-**italia** : Italy  
-**latvia** : Latvia  
-**lietuva** : Lithuania  
-**madyar** : Hungary  
-**makedonia** : Macedonia  
-**nederland** : Netherlands  
-**norge** : Norway  
-**osteraih** : Austria  
-**polska** : Poland  
-**portugal** : Portugal  
-**rosia** : Russia  
-**serbia** : Serbia  
-**slowakia** : Slovakia  
-**slowenia** : Slovenia  
-**suomi** : Finland  
-**svenska** : Sweden  
-**svis** : Switzerland  
-**ceska** : Czech  
-**cip** : Albania  
-**ukrayina** : Ukraine  
-
-## oseania
-
-**australia** : Australia  
-**fiji** : Fiji  
-**papua niugini** : Papua New Guinea  
-**samoa** : Samoa  
-**solomon** : Solomon Islands  
-**vanuatu** : Vanuatu  
-**ziland** : New Zealand  
+AF = afgan  
+AX = olande  
+AL = cipe  
+DZ = jayer  
+AS = usamerika samoa  
+AD = andora  
+AO = angola  
+AI = anguila  
+AQ = antartika  
+AG = antigua i barbuda  
+AR = arhentina  
+AM = haya  
+AW = aruba  
+AU = australia  
+AT = oster  
+AZ = azer  
+BS = bahama  
+BH = bahrain  
+BD = bangla  
+BB = barbados  
+BY = belarus  
+BE = belgi  
+BZ = belize  
+BJ = benin  
+BM = bermuda  
+BT = butan  
+BO = bosna i hercegovina  
+BW = tswana  
+BV = bouvet  
+BR = brazil  
+VG = britan virjin nesi  
+BN = brunei  
+BG = bolgar  
+BF = burkina  
+BI = rundi  
+KH = kambudia  
+CM = kamerun  
+CA = kanada  
+CV = kabu verdi  
+KY = keiman nesi  
+CF = beafrika  
+TD = cadi  
+CL = cile  
+CN = jungo  
+HK = hong gong  
+MO = oumun  
+CX = krismas nesi  
+CC = kokos nesi  
+CO = kolombia  
+KM = komoro  
+CG = brazavil kongo  
+CD = kinsasa kongo  
+CK = kuki nesi  
+CR = kosta rika  
+CI = ivori kosta  
+HR = horvati  
+CU = kuba  
+CY = kipris  
+CZ = ceski  
+DK = danmarke  
+DJ = jibuti  
+DM = dominika  
+DO = dominikana  
+EC = ekuador  
+EG = misri  
+SV = salvador  
+GQ = ekuator gine  
+ER = eritra  
+EE = esti  
+ET = itiopia  
+FK = malvina nesi  
+FO = far  
+FJ = fiji  
+FI = suomi  
+FR = frans  
+GF = giyan  
+PF = frans polinesi  
+GA = gabon  
+GM = gambia  
+GE = kartvel  
+DE = doice  
+GH = gana  
+GI = jibraltar  
+GR = helen  
+GL = kalal  
+GD = grenada  
+GP = guadelupe  
+GU = guam  
+GT = guatemala  
+GG = genzi  
+GN = gine  
+GW = gine bisau  
+GY = gayana  
+HT = aiti  
+VA = vatikan  
+HN = honduras  
+HU = madyar  
+IS = islande  
+IN = barti  
+ID = indonesi  
+IR = iran  
+IQ = irak  
+IE = aire  
+IM = Manin  
+IL = israel  
+IT = italia  
+JM = jameika  
+JP = nipon  
+JE = jersi  
+JO = urdun  
+KZ = kazahi  
+KE = kenya  
+KI = kiribati  
+KP = josen  
+KR = hangug  
+KW = kuwait  
+KG = kirgizi  
+LA = lao  
+LV = latvia  
+LB = labnun  
+LS = soto  
+LR = liberia  
+LY = libia  
+LI = lixtenxtain  
+LT = lietuva  
+LU = luksemburge  
+MK = makedoni  
+MG = madagasi  
+MW = malawi  
+MY = malaisia  
+MV = divehi  
+ML = mali  
+MT = malta  
+MH = marxal nesi  
+MQ = martinike  
+MR = muritan  
+MU = moris  
+YT = mayote  
+MX = mehiko  
+FM = mikronesi  
+MD = moldova  
+MC = monako  
+MN = mongol  
+ME = cerna gora  
+MS = montserat  
+MA = magribe  
+MZ = mozambike  
+MM = myanma  
+NA = namibi  
+NR = nauru  
+NP = nepal  
+NL = nederlande  
+AN = nederlande antil  
+NC = neu kaledonia  
+NZ = neu zilande  
+NI = nikaragua  
+NE = nijer  
+NG = naija  
+NU = niue  
+NF = norfolke  
+MP = mariana  
+NO = norge  
+OM = oman  
+PK = paki  
+PW = palau  
+PS = filistin  
+PA = panama  
+PG = papua neu gini  
+PY = paraguai  
+PE = peru  
+PH = pilipin  
+PN = pitkerne  
+PL = polski  
+PT = portugal  
+PR = puerto riko  
+QA = katar  
+RE = reunion  
+RO = romani  
+RU = rus  
+RW = rwanda  
+SH = sante helena  
+VC = vinsi i grenadin  
+WS = samoa  
+SM = san marino  
+ST = sau tome i prinsipe  
+SA = saudi arabia  
+SN = senegal  
+RS = serbi  
+SC = sexel  
+SL = salone  
+SG = singapur  
+SK = slowaki  
+SI = slowin  
+SB = solomon nesi  
+SO = somali  
+ZA = sudafrika  
+GS = sude jorjia i sude sanwice nesi  
+SS = sude sudan  
+ES = espanya  
+LK = lanka  
+SD = sudan  
+SR = suriname  
+SJ = svalbarde i yanmayen nesi  
+SZ = swati  
+SE = swen  
+CH = swis  
+SY = suria  
+TW = taiwan  
+TJ = tajiki  
+TZ = tanzania  
+TH = tai  
+TL = timor leste  
+TG = togo  
+TK = tokelau  
+TO = tonga  
+TT = trinida i tobago  
+TN = tunis  
+TR = turki  
+TM = turkmen  
+TC = turkes i kaikos nesi  
+TV = tuvalu  
+UG = uganda  
+UA = ukraina  
+AE = arabi emir dex  
+GB = britan  
+US = usamerika  
+UY = uruguai  
+UZ = uzbeki  
+VU = vanuatu  
+VE = venesuela  
+VN = viet nam  
+VI = usamerika virjin nesi  
+WF = walis i futuna  
+EH = sahara arabi dex  
+YE = yemen  
+ZM = zambia  
+ZW = zimbabwe  
 

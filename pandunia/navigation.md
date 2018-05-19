@@ -15,8 +15,8 @@
 
 [loga lista]()
 
-  * [gojia nam](gok_nam.md)
   * [loga asle](loge_asle.md)
+  * [dex nam](dex_nam.md)
 
-[link](link.md)
+[linke](link.md)
 
