@@ -148,7 +148,7 @@ Modifiers can be compared.
 
 Particle **ka** relates the adverbs of comparison to the point of comparison.
 
-> **me si max bon ka ni.** - I am better than you.  
+> **me ye max bon ka ni.** - I am better than you.  
 > **ni loga sam bon ka me.** - You speak as well as me.
 
 
@@ -270,19 +270,15 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 ### 5.2. Demonstrative pronouns
 
-**li** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
-
-The distance to the speaker can be specified by adding words **jin** (near) and **tel** (far), if needed.
-
-**li** - this or that  
-**li jin** - this over here  
-**li tel** - that over there  
+**ci** and **la** are the demonstrative pronouns. **ci** points to things that are near. **la** points to things that are far.
 
 The demonstrative pronouns work like modifiers.
 
-> **li batu.** - That stone  
-> **li si batu.** - That is a stone.  
-> **li batu cung.** - That stone is heavy.  
+> **ci batu.** - This stone  
+> **la batu.** - That stone
+> **ci ye batu.** - This is a stone.  
+> **la ye batu.** - That is a stone.  
+> **la batu cung.** - That stone is heavy.  
 
 
 ### 5.3. Interrogative pronoun
@@ -307,7 +303,7 @@ The demonstrative pronouns work like modifiers.
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
 > **mau!** - A cat!  
-> **pluva!** - (It) rains!  
+> **xawa!** - (It) rains!  
 
 
 ### 7.2. Stative Sentences
@@ -329,16 +325,16 @@ The word **no** is added to form the negative.
 
 Also two personal pronouns can be juxtaposed.
 
-> **me si ta.** - I am he/she.  
+> **me ye ta.** - I am he/she.  
 > **me no ni.** - I'm not you.
 
 #### 7.2.2. With noun subject
 
-When the subject is a noun, the word **si** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
+When the subject is a noun, the word **ye** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
 
-> **sara si bon.** - Sara is good.  
-> **batu si dai.** - The stone is big.  
-> **meza si neu.** - The table is new.  
+> **sara ye bon.** - Sara is good.  
+> **batu ye dai.** - The stone is big.  
+> **meza ye neu.** - The table is new.  
 > **meza no lau.** - The table is not old.
 
 
@@ -346,7 +342,7 @@ When the subject is a noun, the word **si** (yes) is added before the predicate 
 
 The same rule applies also for two adjectives.
 
-> **jowan si sundar.** - Young is beautiful.  
+> **jowan ye sundar.** - Young is beautiful.  
 > **neu no lau.** - New is not old.  
 
 #### 7.2.4. To be
@@ -361,13 +357,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences usually have the subject–verb–object word order (SVO).
 
-> **me yem apel.** - I eat apples.  
+> **me yem pingo.** - I eat apples.  
 > **me audi musika.** - I hear music.  
 > **me wide ni.** - I see you.
 
 The order can be changed easily to the object–subject–verb word order (OSV).
 
-> **apel me yem.** - Apples, I eat.  
+> **pingo me yem.** - Apples, I eat.  
 > **musika me audi.** - Music, I hear.  
 > **ni me wide.** - You, I see.
 
@@ -462,12 +458,12 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 ### 9.1.1. Affirmative
 
-Particle **si** is affirmative and **no** is negative. **si** affirms the existence of something, whereas **no** denies it. In other words **si** means "to be" or "there is" and **no** means "not to be" or "there is not".
+Particle **ye** is affirmative and **no** is negative. **ye** affirms the existence of something, whereas **no** denies it. In other words **ye** means "to be" or "there is" and **no** means "not to be" or "there is not".
 
-Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
+Expressions are affirmative by default, so the word **ye** is not always necessary. However it is especially convenient in expressions of state.
 
-> **me si ren.** - I am a person.  
-> **ta si neu meza.** - It is a new table.
+> **me ye ren.** - I am a person.  
+> **ta ye neu meza.** - It is a new table.
 
 ### 9.1.2. Negative
 
@@ -482,10 +478,10 @@ The word **no** is used for denying anything. It affects always the next word.
 > **me no wide ni.** - I don't see you.  
 > **me wide no ni a tata.** - I see, not you, but them.
 
-The particles **si** and **no** are used also for answering questions.
+The particles **ye** and **no** are used also for answering questions.
 
 > **kia ni wide me?** - Do you see me?  
-> **si. (me wide ni.)** - Yes. (I see you.)  
+> **ye. (me wide ni.)** - Yes. (I see you.)  
 > **no. (me no wide ni.)** - No. (I don't see you.)
 
 
@@ -530,15 +526,15 @@ Also relative clauses are created with help of the modifier particles.
 
 Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
 
-> **ta si man _de me wide_.** - He is the man _that I saw_.
+> **ta ye man _de me wide_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **me wide man _de yem apel_.** - I see a man _who eats apples_.  
+> **me wide man _de yem pingo_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **su** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **su** immediately after the verb.
 
-> **me wide _apel yem su_ man.** - I see an _apple-eating_ man.
+> **me wide _pingo yem su_ man.** - I see an _apple-eating_ man.
 
 
 
@@ -676,8 +672,8 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 **ka** is also used when adjectives are compared.
 
-> **ban si min dai ka papa.** - The child is smaller than the father.  
-> **opa si sam dai ka papa.** - Grandfather is as big as father.
+> **ban ye min dai ka papa.** - The child is smaller than the father.  
+> **opa ye sam dai ka papa.** - Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
@@ -735,11 +731,11 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz du** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia ze koz da ta si bon dunia baxa.
+    yusef i sara wol darsa pandunia ze koz da ta ye bon dunia baxa.
 
                       ze koz da
                ┌──────────┴──────────┐
-              wol                   si
+              wol                   ye
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ta    baxa
       ┌───┴───┐    ┌──┴────┐            |
