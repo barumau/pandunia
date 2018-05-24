@@ -262,7 +262,7 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 **ta no ha pesa.** S/he doesn't have money.
 
-**me wol ha xin fon.** I want to have a new phone.
+**me wol ha neu fon.** I want to have a new phone.
 
 **kia ni ha ban?** Do you have children?  
 **me ha du ban.** I have two children.
@@ -273,7 +273,7 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 **me jan ta.** I know him/her/it.
 
-**kia ni jan sa ren?** Do you know that person?
+**kia ni jan la ren?** Do you know that person?
 
 **kia nini jan bici?** Do you know each other?
 
@@ -328,7 +328,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **no. me no wol ca. me wol kafe.** No, I don't want tea. I want coffee.
 
 **ni wol ke pingo?** Which apple do you want?  
-**sa ros.** This red one.
+**la ros.** This red one.
 
 
 
@@ -397,7 +397,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **sori! me no aha.** Sorry, I don't understand.
 
-**sori! sa ke?** Excuse me, what's this?
+**sori! la ye ke?** Excuse me, what's this?
 
 **sori. ni nam ke?** Excuse me, what's your name?
 
@@ -492,7 +492,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing kitaba ni su adres.** Please, write your address.
 
-**cing kitaba ta na sa.** Please, write it here!
+**cing kitaba ta na la.** Please, write it here!
 
 
 
@@ -559,7 +559,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **hotel na ke?** Where is the hotel?
 
-**hotel na sa dau.** The hotel is on that road.
+**hotel na la dau.** The hotel is on that road.
 
 **ni na ke?** Where are you?
 
@@ -581,7 +581,7 @@ Tip! You can use **na** as a preposition or alone as the verb.
 
 **me jia singapur.** I live in Singapore.
 
-**kia ni jia sa hotel?** Do you live in this hotel?
+**kia ni jia ci hotel?** Do you live in this hotel?
 
 Tip: It is also okay to say "ni jia na ke?" instead of "ni jia ke". However **jia** already covers the meaning of being at somewhere, so **na** is not necessary.
 
@@ -606,7 +606,7 @@ Tip: It is also okay to say "ni jia na ke?" instead of "ni jia ke". However **ji
 
 **cing da ta do me.** Please give it to me.
 
-**me da sa do ni.** I give this to you.
+**me da ci do ni.** I give this to you.
 
 **me da buku do tata.** I give a book to them.
 
@@ -652,7 +652,7 @@ Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
 
 **ke e mas bon?** Which is better?
 
-**sa e maxim bon (ze tot).** This is the best (of all).
+**ci ye maxim bon (ze tot).** This is the best (of all).
 
 
 
@@ -725,6 +725,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
+**ci** this, these <small>(Mandarin _cǐ_ 此)</small>  
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
 **do** to, until <small>(Russian _do_ до)</small>  
@@ -763,7 +764,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ren** person <small>(Mandarin _rén_ 人)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
-**sa** this; that <small>(Haitian Creole _sa_)</small>  
+**la** that, those <small>(French _la_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
 **salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
 **suba** morning <small>(Wolof _subba_)</small>  
