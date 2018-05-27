@@ -21,7 +21,13 @@ Pandunia has five vowels.
 
 They are pronounced as follows: **a** like in _palm_, **e** like in _hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in _rude_. They are pure vowels, so their quality doesn't change over the duration of the vowel.
 
-Semivowels **y** and **w** are pronounced like in English.
+
+Gliding Vowels
+--------------
+
+A gliding vowel (a diphthong) is a combination of two vowel sounds in the same syllable. It starts at one vowel position and moves to another. For example **ai** starts at the position of **a** and glides smoothly to the position of **i**.
+
+In Pandunia gliding vowels are combinations of another vowel and **i** or **u**. The combinations are: ai, au, ei, eu, oi, ou, ui, ia.
 
 
 Consonant Sounds
@@ -32,7 +38,7 @@ Consonant Sounds
     c  j  x        y
     k  g  h
 
-Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
+Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, w, y, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
