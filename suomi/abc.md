@@ -93,6 +93,6 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-> **mi wida tu :)** = Minä näen sinut.  
-> **mi no wida tu :(** = Minä en näe sinua.
+> **me wide ni :)** = Minä näen sinut.  
+> **me no wide ni :(** = Minä en näe sinua.
 
