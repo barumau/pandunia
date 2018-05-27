@@ -750,7 +750,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **lai** come <small>(Vietnamese _lai_)</small>  
 **ma** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
-**mana** to mean <small>(Swahili _maana_)</small>  
+**mani** to mean <small>(Swahili _maana_)</small>  
 **mede** help, assistance <small>(English _mayday_)</small>  
 **me** I, me <small>(Swahili _mimi_)</small>  
 **meme** we  
