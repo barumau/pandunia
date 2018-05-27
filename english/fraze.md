@@ -56,9 +56,9 @@ As you can see from the range of expressions, **salam** is a general word for we
 
 You can introduce yourself simply by saying **me** and your name. You don't need a verb for saying it in Pandunia!
 
-**me salama ma.** I greet mother.
+**me salam ma.** I greet mother.
 
-**me salama pa.** I greet father.
+**me salam pa.** I greet father.
 
 The word **salam** functions both as a noun and as a verb. The basic word order in Pandunia is subject-verb-object.
 

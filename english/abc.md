@@ -60,8 +60,8 @@ The stress is on the syllable, which is before the last consonant.
 2. The stress is on the last syllable in words that end with a consonant. Ex. komún, bazár, kamís.
 3. The stress is on the second last syllable in words that end with a vowel. Ex. dúnia, melódi
 
-> **dúnia sí mimén da sundár planéta.**  
-> **mí wól lóga komún báxa yáni pandúnia.**  
+> **dúnia sí méme da sundár planéta.**  
+> **mé wól lóga komún báxa yáni pandúnia.**  
 
 
 ### Schwa
@@ -109,8 +109,8 @@ Capital letters are used in standard international acronyms. For example: 10 Mb 
 
 In informal texts smileys, emoticons and emojis may be used to indicate mood. For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **mi wide tu :)** = I see you.  
-> **mi no wide tu :(** = I don't see you.
+> **me wide ni :)** = I see you.  
+> **me no wide ni :(** = I don't see you.
 
 
 ## Word structure
