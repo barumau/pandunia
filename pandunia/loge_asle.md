@@ -1,26 +1,26 @@
-# loge da asle
+# loga su asle
   
 pandunia da loge lay ze multi bax du dunia.
   
-- afrika bax
+- afrika baxa
     - arabi (ara)
     - swahili (swa)
     - amari (amh)
     - hausa (hau)
-- europa i amerika bax
-    - engli (eng)
-    - espani (spa)
+- europa i amerika baxa
+    - englix (eng)
+    - espanya (spa)
     - portugal (por)
     - frans (fra)
     - rus (rus)
-    - doici (deu)
-- dong asia bax
-    - putong han bax (zho)
+    - doice (deu)
+- dong asia baxa
+    - putong han baxa (zho)
     - nipon (jpn)
     - hanguk (kor)
-- sudi asia bax
+- sur asia baxa
     - hindi (hin)
-    - bangli (ben)
+    - bangla (ben)
     - urdu (urd)
     - indonesia (ind)
     - farsi (per)
