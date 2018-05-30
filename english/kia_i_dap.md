@@ -17,19 +17,20 @@ You can also help with this website by translating content and correcting mistak
 
 Creators of Pandunia began to create a language together first in 2005. Since the beginning the basic idea was to create an evenly global auxiliary language. Many different structures and ideas were tried over the years. The name _Pandunia_ was invented already in 2007 but the language got its "final" form in 2016 – though of course languages evolve all the time!
 
+#### What's the connection between Pandunia and Dunian?
+
+Originally Pandunia and Dunian were developed together. They have still many things in common but they are separate languages.
+
+Dunian is an agglutinating language, a little like European languages in general but extremely simplified. Dunian words consist of a root and suffixes and word order is flexible.
+
+The grammar of Pandunia resembles contact languages (i.e. pidgins and creoles). It is an isolating language. Pandunia words are unbreakable and word order is more or less fixed.
+
+
 #### What does the flag of Pandunia represent?
 
 ![](http://www.pandunia.info/bander/bander.png "The flag of Pandunia")
 
 The flag of Pandunia represents global equality. There is a symbol of _the blue planet_ against the background of the dark blue space. The equals sign is laid over the Earth.
-
-#### Why the mascot of Pandunia is a duck-billed platypus?
-
-Platypus is an egg-laying, duck-billed, beaver-tailed, otter-footed mammal that lives in eastern Australia. It is an unusual creature. That's why the platypus is a fitting mascot for Pandunia, which is also an unusual mix, a mix of words and grammar from East and West, from North and South.
-
-Pandunia doesn't fit into any of the traditional types of languages. Also in that regard it is similar to the platypus, which is of its own type.
-
-![](http://www.pandunia.info/kuvat/platypusbandera.png "Our platypus")
 
 
 ## Past, present and future
