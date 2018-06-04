@@ -1,6 +1,6 @@
 # loga su asle
   
-pandunia da loge lay ze multi bax du dunia.
+pandunia su loga lai ze multi baxa de dunia.
   
 - afrika baxa
     - arabi (ara)
