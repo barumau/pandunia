@@ -115,7 +115,7 @@ English doesn't have word tones but it has word stress. Word stress is variable 
 
 Tones are hard to learn for people who are not used to them. Variable stress is hard to learn for people who are used to fixed stress. Neither word tone nor variable word stress are necessary in the world language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **me wól lóga supér dúnia báxa.**
+Pandunia has fixed stress. The stress falls on the syllable that is before the last consonant. Like this: **mi wól lóga supér dúnia báxe.**
 
 Pandunia doesn't have lexical tone.
 
@@ -203,12 +203,12 @@ The third type is the most attractive for the world auxiliary language, which ha
 
 Pandunia allows different word orders. This is achieved mainly by the verb endings -a and -u, which signal reverse word orders. In Pandunia verbs can function also as adpositions (so called _coverbs_).
 
-**me ama ni.** (SVO)  
-**ni me ama.** (OSV)  
+**mi ama tu.** (SVO)  
+**mi tu amu.** (SOV)  
 I love you.
 
-**me salta supra meza gawi.** (I jump, surpass the table high.)  
-**me salta gawi meza supru.** (I jump, the high table is-surpassed.)  
+**mi salta supra meza gawi.** (I jump, surpass the table high.)  
+**mi salta gawi meza supru.** (I jump, the high table is-surpassed.)  
 I jump over the high table.
 
 
@@ -245,10 +245,12 @@ Pandunia borrows the roots of Western words. The goal is to select a form that s
 
 | Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
-| **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **neu**       | new, neo-  | novo, neo- | nuevo, neo-|nouveau, néo-| neu, neo- | novıy, neo-|
-| **marca**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
-| **posta**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+| **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
+| **now**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+
+The suffixes of Pandunia are applied on the roots. Here are some resulting Pandunia words: korti (short), korte (shorty), korta (shorten), nowi (new), nowe (news), nowa (renovate).
 
 
 ### Sinitic words
@@ -282,41 +284,41 @@ In this section we will compare the sentence structures of Pandunia with English
 The normal sentence word order is subject-verb-object – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama ni, ni ama me.
+    Pandunia:  mi ama tu, tu ama mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The verb **bei** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
+The verb **bey** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bei yem.
+    Pandunia:  pingo bey kana.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**bei** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
+**Bey** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ta no ken bei yem.
+    Pandunia:  ye no ken bey kana.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me cing ta yem kafe.
+    Pandunia:  mi cing ye kana kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **ye**, is used instead of _am, is, are, was, were..._
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ta ye pingo.
+    Pandunia:  ye si pingo.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  tata ye pingo.
+    Pandunia:  yemen si pingo.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 
 
 ## Pandunia - a global language
 
-![](http://www.pandunia.info/bander/bander.png "Pandunia flag")
+![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flag")
 
 
