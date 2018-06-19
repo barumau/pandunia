@@ -143,7 +143,7 @@ Englannin kielessä sanoilla ei ole sävelkorkoa, mutta niillä on sanapaino. Se
 
 Sävelkoron oppiminen on vaikeaa niihin tottumattomille. Epäsäännöllisen sanapainon oppiminen on vaikeaa niille, jotka ovat tottuneet säännölliseen painotukseen. Kumpikaan piirre ei ole sen paremmin hyödyllinen kuin välttämätönkään maailmankielessä.
 
-Panduniassa sanapaino on säännöllinen. Paino lankeaa viimeistä konsonanttia ennen olevalle tavulle. Näin: **me wól lóga supér dúnia báx.** Tällä tavalla sanojen painottaminen on sekä helppoa että monipuolista.
+Panduniassa sanapaino on säännöllinen. Paino lankeaa viimeistä konsonanttia ennen olevalle tavulle. Näin: **mi wól lóga supér dúnia báx.** Tällä tavalla sanojen painottaminen on sekä helppoa että monipuolista.
 
 Panduniassa ei ole sävelkorkoa tavuissa eikä edes kysymyslauseissa tarvitse käyttää _nousevaa intonaatiota_.
 
@@ -161,56 +161,56 @@ Pandunia lainaa sanoja englannista, kiinasta ja muista maailman kielistä. Luonn
 
 Pandunian persoonapronominit ovat hyvä esimerkki sanojen kansainvälisyydestä.
 
-- **me** (minä) kuulostaa samalta kuin englannin "me", espanjan "me" ja monen muun indoeurooppalaisen kielen sana.
-- **ni** (sinä) kuulostaa samalta kuin yleiskiinan "nǐ".
-- **ta** kuulostaa samalta kuin yleiskiinan "tā".
-- Monikkomuodot muodostetaan tuplaamalla yksikkömuoto: **meme** (me), **nini** (te) ja **tata** (he).
+- **mi** (minä) kuulostaa samalta kuin englannin "me", espanjan "mí" ja monen muun indoeurooppalaisen kielen sana.
+- **tu** (sinä) kuulostaa samalta kuin espanjan ja portugalin "tu" sekä hindin ja urdun "tū" (तू).
+- **ye** kuulostaa samalta kuin hindi-urdun "ye" (यह) ja useiden bantukielten pronominit, mukaan lukien lingalan "yé", swahilin "yeye" ja zulun "ye-".
+- Monikkomuodot muodostetaan samalla tavalla kuin yleiskiinassa eli lisäämällä loppuun **-men**: **mimen** (me), **tumen** (te) ja **yemen** (he).
 
 |Suomi | Englanti| Pandunia | Kiina   |
 |------|---------|----------|---------|
-| minä | I       | me       | wǒ      |
-| sinä | you     | ni       | nǐ      |
-| hän  | he/she  | ta       | tā      |
-| me   | we      | meme     | wǒmen   |
-| te   | you     | nini     | nǐmen   |
-| he   | they    | tata     | tāmen   |
+| minä | I       | mi       | wǒ      |
+| sinä | you     | tu       | nǐ      |
+| hän  | he/she  | ye       | tā      |
+| me   | we      | mimen    | wǒmen   |
+| te   | you     | tumen    | nǐmen   |
+| he   | they    | yemen    | tāmen   |
 
-Huom. Kolmannen persoonan pronomini **ta** on sukupuolineutraali, mikä on yleistä maailman kielten joukossa.
+Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kuin lähteenä olevissa hindi-urdussa ja bantukielissä – sekä suomessa!
 
 ## Helppo lauserakenne
 
 Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
 
     Englanti:  I love you, and you love me.
-    Pandunia:  me ama ni, ni ama me.
+    Pandunia:  mi ama tu, tu ama mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Objektin voi siirtää lauseen alkun verbin **bei** avulla.
 
     Englanti:  The apples were eaten.
-    Pandunia:  pingo bei yem.
+    Pandunia:  pingo bey kana.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
-**bei** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
+**Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  ta no ken bei yem.
+    Pandunia:  ye no ken bey kana.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Pandunia:  me cing ta yem kafe.
+    Pandunia:  mi cing ye kana kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
 
     Englanti:  It is an apple.
-    Pandunia:  ta ye pingo.
+    Pandunia:  ye si pingo.
     Kiina:     Tā shì píngguǒ. (他是苹果。)
 
     Englanti:  They are apples.
-    Pandunia:  tata ye pingo.
+    Pandunia:  yemen si pingo.
     Kiina:     Tāmen shì píngguǒ. (他们是苹果。)
 
 

@@ -66,7 +66,7 @@ Voit esitellä itsesi helposti sanomalla vain **me** ja nimesi. Panduniassa siih
 
 **me salam pa.** Minä tervehdin isää.
 
-Sana **salam** toimii sekä substantiivina että verbinä. Pandunian normaali sanajärjestys on subjekti-verbi-objekti.
+Kun sanaan **salam** (tervehdys) lisätään verbin pääte -a, saadaan **salam** (tervehtiä). Pandunian normaali sanajärjestys on subjekti-verbi-objekti.
 
 **sara salam tomas.** Sara tervehtii Tomasta.
 
@@ -93,7 +93,7 @@ Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **me** pysyy koko a
 
 Huom! Pronominien monikkomuodot ovat **meme** (me) ja **nini** (te).
 
-<small>Sanan **ni** lähteitä: yleiskiina: 你 (nǐ), kantoninkiina: 你 (nei), tamili: நீ  (nī).</small>
+<small>Sanan **ni** lähteitä: espanja: "tú", italian: "ni", ranska: "ni", hindi: तू  "tū", persia: تو‏‎ "to", tadžikki: ту "ni".</small>
 
 
 ### ta <small>hän, se</small>
