@@ -1,20 +1,20 @@
-Pandunia - una lengua auxiliar simple
+Pandunia - una idioma construído simple
 ==================================
 
 ![](http://www.pandunia.info/bander/bander.png "Bandera de Pandunia")
 
 ## ¿Qué es Pandunia?
 
-Pandunia es una lengua auxiliar diseñada para servir en la comunicación internacional como suplemento a otros idiomas.
+Pandunia es una idioma construído diseñada para servir en la comunicación internacional como suplemento a otros idiomas.
 
 Algunas características de Pandunia:
 
 - Pandunia es más simple y fácil que otros idiomas que se usan en la comunicación internacional, tales como el Inglés, el Chino, el Francés y el Árabe.
 - Como idioma construído, Pandunia es completamente regular - sin excepciones.
-- ¡Pandunia es verdaderamente internacional! El vocabulario de Pandunia está compuesto por palabras que son tomadas de muchos idiomas alrededor del mundo, incluyendo los 10 más hablados.
+- ¡Pandunia es verdaderamente internacional! El vocabulario de Pandunia está compuesto por palabras que son tomadas de muchos idiomas alrededor del mundo, incluyendo a los 10 más hablados.
 
 
-Nota: Pandunia es una lengua auxiliar que aún está en evolución. La estructura y el vocabulario del idioma podrían cambiar posteriormente.
+Nota: Pandunia es un idioma construído que aún está en evolución. La estructura y el vocabulario del idioma podrían cambiar posteriormente.
 
 
 ## Material de aprendizaje
@@ -22,7 +22,6 @@ Nota: Pandunia es una lengua auxiliar que aún está en evolución. La estructur
 - [Mini lecciones con imágenes](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Ortografía](abc.md)
 - [Repertorio de expresiones](fraze.md)
-- [Expresiones, palabra por palabra](loga_na_loga.md)
 - [Gramática](kanun.md)
 - [Lecciones con diálogos](darse.md)
 
@@ -35,7 +34,7 @@ Nota: Pandunia es una lengua auxiliar que aún está en evolución. La estructur
 - [Pandunia - un idioma nuevo](dunia_pijin.md)
 - [Presentación en PDF](Pandunia-presentation.pdf) | en inglés
 - [Pandunia, un idioma de contacto global](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (un artículo en Interlinguistica Tartuensis 10) | en inglés
-- [¿Por qué me gusta Pandunia?](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opiniones de aprendices | en inglés
+- [¿Por qué me gusta Pandunia? ](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opiniones de aprendices | en inglés
 
 ## ¡Aprende con otros!
 
@@ -52,5 +51,5 @@ Ya hay personas que están interesadas en Pandunia y lo están practicando. Pued
 Listas de correo electrónico. Puedes entrar a el [grupo oficial de Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) enviando un mensaje en blanco [aquí](mailto:pandunia-subscribe@yahoogroups.com).
 
 
-Puedes contactar con un creador de Pandunia, Risto Kupsala, vía correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los foros anteriormente citados.
+Puedes contactar con el creador de Pandunia, Risto Kupsala, vía correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los foros anteriormente citados.
 
