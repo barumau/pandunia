@@ -1,87 +1,87 @@
-baru ban da dante tung
+baru' bace da dante tung
 =======================
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un suba baru mama wol enda to bazar. ye loga to baru ban: "no kana kandi i kek na dura du mi na bazar." baru ban loga: "si, si, mama! mi sabi ye. mi dai baru. cing enda wai!" baru mama loga "salam" i ye enda wai.
+un suba baru' mama wol enda to bazar. ye loga to baru' bace: "no nyama kande i keke na dura du mi na bazar." baru' bace loga: "si, si, mama! mi jan ye. mi day baru'. cing enda way!" baru' mama loga "salam" i ye enda way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-baru ban na sol. ye fikra: "nun mi ken kar eni ting du mi wol!"
+baru' bace na sol. ye fikra: "zay mi ken kar eni xey du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-baru ban enda to wax kamer. ye fikra "mi no wol wax dante nun." baru ban si bad.
+baru' bace enda to wax kamer. ye fikra "mi no wol waxa dante zay." baru' bace si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-baru ban joga lit gar na mei kamer. ye wida kek sanduk na meza. ye fikra "mi wol kana kek!" ama ye memori: "ah! mama loga mi no kana kek." baru ban no kana kek.
+baru' bace joga lil gar na mey kamer. ye wida keke sanduke na meza. ye fikra "mi wol nyama keke!" a ye memora: "ah! mama loga mi no nyama keke." baru' bace no nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-baru ban wida kandi botol na almari. ye fikra "mi wol kana kandi!" ama ye memori: "ah! mama loga mi no kana kandi." baru ban no kana kandi.
+baru' bace wida kande botol na almari. ye fikra "mi wol nyama kande!" a ye memora: "ah! mama loga mi no nyama kande." baru' bace no nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-baru ban wida medu bin na alter almari. ye fikra "mama loga nul ting du tema medu. mi ken kana medu!" baru ban sit na kursi i ye kana lit medu. medu bon gusta!
+baru' bace wida medu pote na alter almari. ye fikra "mama loga nul xey du tema medu. mi ken nyama medu!" baru' bace sidu na kursi i ye nyama lil medu. medu bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 
-baru ban kana tot medu.
+baru' bace nyama pan medu.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, baru ban senti no jan da ting na boka. ye da dante tung!
+bada, baru' bace senta no jan da sente na boka. ye da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye kap tele fon. ye loga: "halo! kia tu si dante doktor? cing lay to mi! mi hawa tung dante!"
+ye kapa tele fon. ye loga: "halo! kia tu si dante doktar? cing lay to mi! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-doktor lay to baru famil da jia. ye loga: "kia tu neses mede?" baru ban loga: "si! mi hawa tung dante!"
+doktar lay to baru' famil da dom. ye loga: "kia tu nida mede?" baru' bace loga: "si! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-doktor cing baru ban sit na kursi i kai boka. "aha! un dante cok bad! mi mus kap ye to wai."
+doktar cing baru' bace sidu na kursi i kaya boka. "aha! un dante day mal! mi mus kapa ye to way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
-doktor juxa dawa to dante niama na jin du bad dante. baru ban no senti tung ze nun.
+doktar juxa dawa to dante manse na jin du mal dante. baru' bace no senta tung ze zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 
-doktor tira dante na pinse. ama dante no lay!
+doktar tira dante na pinse. a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_14.png)
 
-waf lay meda doktor. doktor i waf tira dante, ama dante no lay!
+waf lay meda doktar. doktar i waf tira dante, a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_15.png)
 
-mau lay meda doktor i waf. doktor i waf i mau tira dante, ama dante no lay!
+maw lay meda doktar i waf. doktar i waf i maw tira dante, a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_16.png)
 
-lixu lay meda doktor i waf i mau. doktor i waf i mau i lixu tira dante...
+lixu lay meda doktar i waf i maw. doktar i waf i maw i lixu tira dante...
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_17.png)
 
-dante lay to wai!
+dante lay to way!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-doktor loga to baru ban: "bad dante na wai nun. cing memori yung dante brox na mei suba i na mei xam!" baru ban wada memori.
+doktar loga to baru' bace: "mal dante na way zay. cing memora uza dante brox na mey suba i na mey xam!" baru' bace wada memora.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
 
-baru ban loga: "danke doktor i waf i mau i lixu!"
+baru' bace loga: "danke doktar i waf i maw i lixu!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 
-baru ban wax dante na dante brox mei suba i mei xam.
+baru' bace waxa dante na dante brox mey suba i mey xam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
-baru mama nota baru ban kura se da dante max bon. mama loga: "tu si bon lit baru!"
+baru' mama nota baru' bace kura se da dante max bon. mama loga: "tu si bon lil baru'!"
 
