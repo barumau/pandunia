@@ -59,9 +59,9 @@ Hello, mother!
 _Name: Simon._  
 The name is Simon.
 
-**umur: 20 nen.**  
-_Age: 20 years._  
-The age is 20 years.
+**umur: 30 nen.**  
+_Age: 30 years._  
+The age is 30 years.
 
 **gojia: frans.**  
 _Country: France._  
@@ -220,19 +220,6 @@ Are you Maria?
 _Question, you, uh, Maria?_  
 Are you Maria?
 
-
-=================================================
-
-### Other modals
-
-**ges tu suka ye.**  
-_Guess, your enjoyed, it._  
-Guess you enjoy it.
-
-**wang tu suka ye.**  
-Hope you enjoy it.
-
-
 =================================================
 
 ### Prepositions
@@ -332,9 +319,6 @@ Rather ("littly") good books.
 **dai bon buke.**  
 _Big little book._  
 Very ("bigly") good books.
-
-
-=================================================
 
 
 
