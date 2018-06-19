@@ -20,7 +20,6 @@ Note: Pandunia is a constructed language that is under construction. The structu
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Introduction to the isolating grammar of Pandunia](isolating_pandunia.html)
 - [Spelling](abc.md)
 - [Phrasebook](fraze.md)
 - [Phrases, word by word](loga_na_loga.md)
