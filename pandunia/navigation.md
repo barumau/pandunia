@@ -6,8 +6,8 @@
 
 [histor]()
 
-  * [baru ban da dante tung](baru_ge_dant.md)
-  * [sam liti goro](3_liti_goro.md)
+  * [baru bace da dante tung](baru_dante.md)
+  * [sam lil goro](3_lil_goro.md)
 
 [piper i karot](piper_i_karot.md)
 
@@ -15,8 +15,8 @@
 
 [loge liste]()
 
-  * [gojia nam](gok_nam.md)
-  * [log asle](loge_asle.md)
+  * [dex nam](dex_nam.md)
+  * [loge asle](loge_asle.md)
 
-[link](link.md)
+[linke](link.md)
 
