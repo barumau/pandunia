@@ -1,5 +1,13 @@
 # Pandunia word by word
 
+### Method of Presentation
+
+Each phrase and it's translation takes three lines as follows:
+
+1. The phrase in Pandunia **in bold letters**.
+2. Word-by-word translation _in cursive letters_.
+3. Translation to English in normal letters.
+
 ### Grammar
 
 All the phrases in this page follow these three rules:
@@ -8,13 +16,6 @@ All the phrases in this page follow these three rules:
 2. Noun phrase boundary: A pause, a particle or a determiner (i.e. a numeral, a possessive pronoun or a demonstrative pronoun) begins a new noun phrase.
 3. Zero be: There is a "zero be" between two consecutive noun phrases.
 
-### Method of Presentation
-
-Each phrase and it's translation takes three lines as follows:
-
-1. The phrase in Pandunia **in bold letters**.
-2. Word-by-word translation _in cursive letters_.
-3. Translation to English in normal letters.
 
 =================================================
 
@@ -26,8 +27,16 @@ Hello!
 _Morning's greeting._  
 Good morning.
 
+**salam suba.**  
+_Greeted morning._
+Good morning.
+
 **nyam salam.**  
 _Food's greeting._  
+Bon appetit!
+
+**salam nyam.**  
+_Greeted food._  
 Bon appetit!
 
 **mi salam tu.**  
@@ -50,9 +59,9 @@ Hello, mother!
 _Name: Simon._  
 The name is Simon.
 
-**umur: 30 nen.**  
-_Age: 30 years._  
-The age is 30 years.
+**umur: 20 nen.**  
+_Age: 20 years._  
+The age is 20 years.
 
 **gojia: frans.**  
 _Country: France._  
@@ -112,47 +121,6 @@ My eyes are brown.
 
 =================================================
 
-### "Yes" and "no" in place of the "zero be"
-
-A particle like **si** (yes) can take the place of "zero be". It doesn't add any information when the sentence is already affirmative but it makes the structure more clear.
-
-**mi si simon.**  
-_I yes Simon._  
-I am Simon.
-
-**mi nam si simon.**  
-_My name yes Simon._  
-My name is Simon.
-
-**mi umur si 30 nen.**  
-_My age yes 30 year._  
-I'm 30 years old.
-
-**mi gojia si frans.**  
-_My country yes France._  
-I live in France.
-
-**mi yen rang si brun.**  
-_My eye's color yes brown._  
-My eyes are brown.
-
-Negation is naturally done with **no** (not).
-
-**mi no simon.**  
-_I not Simon._  
-I'm not Simon.
-
-**mi nam no simon.**  
-_My name not Simon._  
-My name is not Simon.
-
-**mi umur no 30 nen.**  
-_My age not 30 year._  
-I'm not 30 years old.
-
-
-=================================================
-
 ### Determiners
 
 A variety of _determiners_ can be used for marking the beginning of a noun phrase.
@@ -162,14 +130,18 @@ _Cat, animal.
 A cat is an animal.
 
 **mau yo hewan.**  
-_Cat, some animal.**  
+_Cat, some animal._  
 A cat is an animal.
 
-**mau sa hewan.**  
+**mau si hewan.**  
+_Cat, this animal._  
+A cat is this animal.
+
+**mau la hewan.**  
 _Cat, that animal._  
 A cat is that animal.
 
-**mau sa lit i bon dom hewan.**  
+**mau la lil i bon dom hewan.**  
 _Cat, that little and good home's animal._  
 The cat is that little and good household animal.
 
@@ -177,11 +149,11 @@ The cat is that little and good household animal.
 
 ### Talking about actions
 
-**mi ama: tu.**  
+**mi amor: tu.**  
 _My loved, you._  
 I love you.
 
-**tu: mi ama**  
+**tu: mi amor**  
 _You, my loved._  
 You are my loved one.
 
@@ -200,7 +172,7 @@ I don't come home.
 _Cat's prey, some mouse._  
 The cat preys on a mouse. (The cat catches a mouse.)
 
-**mau ja kaca la lit mux.**  
+**mau ja kaca la lil mux.**  
 _Cat's past prey, that little mouse._  
 The cat caught that little mouse.
 
@@ -248,6 +220,19 @@ Are you Maria?
 _Question, you, uh, Maria?_  
 Are you Maria?
 
+
+=================================================
+
+### Other modals
+
+**ges tu suka ye.**  
+_Guess, your enjoyed, it._  
+Guess you enjoy it.
+
+**wang tu suka ye.**  
+Hope you enjoy it.
+
+
 =================================================
 
 ### Prepositions
@@ -289,17 +274,67 @@ _He/she from Nairobi or Zanzibar._
 He/she is from Nairobi or Zanzibar.
 
 
-<!--
+=================================================
+
+**mi safi la dom.**  
+_My cleaned, the house._  
+I clean the house.
+
+**mi safi dom.**  
+_My cleaned house._  
+My clean house.
+
+**la safi dom.**  
+_the clean house._  
+The clean house.
+
+**mi no safi la safi dom.**  
+_My not cleaned, the clean house._  
+I didn't/don't clean the clean house.
+
+**mi, safi.**  
+_I, clean._  
+I am clean.
+
+**mi es safi.**  
+_My being, clean._  
+I am clean.
+
+
+=================================================
 
 ### Adverbs and adjectives
 
-**dai buk.**  
+**lil buke.**  
+_Little book._  
+Little books.
+
+**dai buke.**  
 _Big book._  
 Big books.
 
-**dai dai buk.**  
-_Big big book._  
-"Bigly" big books.
+**bon buke.**  
+_Good book._  
+Good books.
 
--->
+Two adjectives that independently modify the same word are separated by **i**.
+
+**lil i bon buke.**  
+_Little and good book._  
+Little and good books.
+
+When there are two consecutive adjectives, the first of modifies the second one.
+
+**lil bon buke.**  
+_Little good book._  
+Rather ("littly") good books.
+
+**dai bon buke.**  
+_Big little book._  
+Very ("bigly") good books.
+
+
+=================================================
+
+
 
