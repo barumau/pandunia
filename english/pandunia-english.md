@@ -108,14 +108,15 @@ beijing : Beijing (Peking)
 bel  beautiful (handsome)  
 belarus : Belarus  
 belgi : Belgium  
+belgi : Belgium  
 belize : Belize  
-benci : bench  
+belize : Belize  
 beng : sick (ill)  
 benin : Benin  
 benzin : gasoline (petrol)  
 beranda : veranda (porch)  
 beret : beret  
-beria : wolf  
+beri : wolf  
 bermuda : Bermuda  
 beton : concrete (material with cement)  
 biblia : Bible  
@@ -150,7 +151,7 @@ britan virjin nesi : British Virgin Islands
 brox : brush  
 brunei : Brunei Darussalam  
 buda : Buddha  
-buda dau : Buddhism  
+buda din : Buddhism  
 budi : realize  
 bufon : fool (buffoon)  
 buking : booking (reservation)  
@@ -169,8 +170,6 @@ buyu : baobab
 ##c
 
 ca : tea  
-ca kopa : tea cup  
-ca wan : tea bowl  
 cabi : key  
 cadi : Chad  
 caku : knife  
@@ -221,7 +220,6 @@ dau : way (road)
 dawa : medicine (drug)  
 dawa kan : drugstore (pharmacy)  
 de : of (particle of possession)  
-deke : cover (lid, cap, deck)  
 demo : people (society)  
 demo grafi : demography  
 demo krati : democracy  
@@ -368,7 +366,7 @@ gol : goal
 gomi : rubber  
 gora : kola tree  
 goro : pig  
-goro nama : pork  
+goro nyam : pork  
 goton : cotton  
 grafi : depiction (graph)  
 gram : gram  
@@ -379,6 +377,7 @@ gua : gourd (pumpkin, cucumber, melon)
 guadelupe : Guadeloupe  
 guam : Guam  
 guanxi : relationship (association, connection)  
+guatemala : Guatemala  
 guatemala : Guatemala  
 gubu : hippopotamus  
 guha : cave  
@@ -399,7 +398,8 @@ halo : hello (hi)
 hamak : hammock  
 hamer : hammer  
 hamir : yeast  
-hanguk : Korea (South)  
+hangug : Korea (South)  
+hanguk : South Korea  
 harmoni : harmony  
 has : special (distinct)  
 hata : even (intensifier)  
@@ -408,6 +408,7 @@ hawa : air
 haya : Armenia  
 hazar : hazard  
 he : huh? (pardon?)  
+helen : Greek (Hellenic)  
 helen : Greece  
 hem : hmm  
 hema : tent  
@@ -467,7 +468,6 @@ izi : easy
 ja : agent (doer)  
 jadi : if (suppose, assume)  
 jake : jacket  
-jam : station (stop)  
 jameika : Jamaica  
 jami : collect (gather, bring together)  
 jan : know  
@@ -482,7 +482,6 @@ jeki : jack
 jele : gel (jelly)  
 jen : birth  
 jen den : birthday  
-jenju : pearl  
 jentil : kind (nice, gentle)  
 jenxen : ginseng  
 jersi : Jersey  
@@ -508,7 +507,7 @@ jungo : China
 jungo : China  
 jupe : skirt  
 jus : juice  
-juxa : injection  
+juxa : inject  
 
 ##k
 
@@ -522,29 +521,28 @@ kafe : coffee
 kafe kan : cafe (coffee shop)  
 kafe kopa : coffee cup  
 kafe rang : brown (coffee-colored)  
+kaji : fowl (galliform)  
 kaka : excrement (shit)  
-kakau : cocoa  
 kaki : persimmon (kaki)  
 kalal : Greenland  
 kalam : pen  
 kama : desire (lust)  
 kamar : room (chamber)  
 kambudia : Cambodia  
+kambudia : Cambodia  
 kamera : camera  
 kamerun : Cameroon  
 kamiza : shirt  
 kamote : sweet potato  
-kampe : camp  
 kana : cane (reed)  
+kanada : Canada  
 kanada : Canada  
 kanal : channel  
 kandi : candy (sweets)  
 kanguru : cangaroo  
 kanon : gun (cannon)  
-kanu : canoe  
 kanun : law  
-kapa : catch (capture, seize)  
-kapitan : captain  
+kapa : cover (covering)  
 kar : do (make, act)  
 karate : karate  
 kari : curry  
@@ -553,7 +551,6 @@ karite : shea
 karota : carrot  
 karta : card  
 kartvel : Georgia  
-kastan : chestnut  
 kata : cut  
 katalunya : Catalonia  
 katar : Qatar  
@@ -566,7 +563,6 @@ ke ren : who?
 ke xe : what thing?  
 ke yang : how?  
 ke zaman : when?  
-kecap : ketchup  
 keiman nesi : Cayman Islands  
 keki : cake (cookie)  
 kela : sport (athletics)  
@@ -584,7 +580,6 @@ kimi : chemical
 kimi guru : chemist  
 kimi logi : chemistry  
 kinsasa kongo : Congo, (Kinshasa)  
-kioske : kiosk  
 kipris : Cyprus  
 kira : rent (hire, lease)  
 kirgizi : Kyrgyzstan  
@@ -596,17 +591,11 @@ kitaba maxin : typewriter
 kiwi : kiwi fruit  
 klube : club  
 kode : code (cipher)  
-koka : coca  
-koko : chicken  
-kokos : coco  
 kokos nesi : Cocos (Keeling) Islands  
 kola : cola  
 kolombia : Colombia  
-koloni : colony (settlement)  
-kolum : column (pillar)  
 komoro : Comoros  
 kompani : company (corporation)  
-kompute : compute (to process data)  
 komun : common (shared)  
 kona : corner (angle)  
 koni : cone (fruit of conifer)  
@@ -623,20 +612,17 @@ krati : rule (reign)
 krema : cream  
 krese : grow  
 krime : crime  
+krismas nesi : Christmas Island  
 kriste : Christ (messiah)  
 kriste jen : Christmas  
-kriste jen nesi : Christmas Island  
 krizi : crisis  
 krot : mole (burrowing animal)  
 krus : cross  
 kuan : wide  
 kuba : Cuba  
 kube : cube  
-kuke : cook (prepare food)  
-kuke kamar : kitchen  
-kuke nesi : Cook Islands  
+kuki nesi : Cook Islands  
 kuli : labor (coolie)  
-kultur : culture  
 kupa : dome (vault)  
 kupon : coupon  
 kuran : Quran (Koran)  
@@ -650,24 +636,28 @@ kuwait : Kuwait
 la : that (those)  
 laba : bugle (horn instrument)  
 labi : lip  
+labnun : Lebanon  
 lada : load (to charge)  
 lai : come  
-laji : garbage (rubbish, trash)  
+laji : rubbish (trash)  
 laka : lacquer (varnish)  
 lala : lie (lie down)  
 lampa : lamp  
-lanka : Sri Lanka (Ceylon)  
+lanka : Sri Lanka  
+lanka : Sri Lanka  
 lanten : lantern  
+lao : Laos  
 lao : Lao PDR  
 larwa : larva (maggot, caterpillar)  
+latvia : Latvia  
 latvia : Latvia  
 leleka : stork  
 leng : cold  
 lenxi : practice (to exercise)  
 leter : letter (message)  
+libanan : Lebanon  
 liberia : Liberia  
 libia : Libya  
-libnun : Lebanon  
 lici : lychee (litchi)  
 lietuva : Lithuania  
 liga : connect (join, link)  
@@ -682,19 +672,16 @@ lobo : radish
 loga : talk (say, speak)  
 loga lista : word list  
 logi : science (study, research)  
-logika : logic (deduction)  
 loka : place (location)  
 long : long (lengthy)  
 lote : batch (lot)  
 luksemburge : Luxembourg  
 luna : moon  
-lusun : asparagus  
 
 ##m
 
 ma : mother  
 madagasi : Madagascar  
-made : matter (substance)  
 madyar : Hungary  
 madyar : Hungary  
 mafan : trouble (disturbance, bother)  
@@ -702,7 +689,6 @@ magi : magic
 magribe : Morocco  
 mai : liquid (fluid)  
 maidan : square (plaza)  
-makas : scissors  
 makedoni : Macedonia, Republic of  
 makedonia : Macedonia  
 malaisia : Malaysia  
@@ -714,21 +700,15 @@ mali : Mali
 malta : Malta  
 malvina nesi : Falkland Islands (Malvinas)  
 mam : breast (boob, tits)  
-mama : mother (mom)  
-mamal : mammal  
 man : male  
-manga : comic (cartoon)  
 mango : mango  
 mangus : mangosteen  
 mani : meaning (signification)  
 Manin : Isle of Man  
-manto : cloak (cape, mantle)   
-mantu : steamed bun (mantou, manti)  
 maraton : marathon  
 marce : walk (march)  
 margarin : margarine  
-mariana nesi : Northern Mariana Islands  
-marka : mark (trace)  
+mariana : Northern Mariana Islands  
 marmar : marble  
 martinike : Martinique  
 marxal nesi : Marshall Islands  
@@ -737,9 +717,6 @@ maska : mask (camouflage)
 matika : mathematics (math)  
 matika guru : mathematician  
 matras : mattress  
-matur : mature (ripe, adult)  
-matur fem : woman (adult female)  
-matur man : man (adult male)  
 mau : cat  
 max : more  
 max ka bas : too much  
@@ -814,7 +791,6 @@ mono : alone (single, sole)
 mono krati : monarchy  
 montserat : Montserrat  
 moris : Mauritius  
-morta : dead (death)  
 mosim : season  
 moskito : mosquito  
 motor : engine (motor)  
@@ -824,7 +800,7 @@ muka : face
 mula : beginning  
 mumia : mummy  
 mumu : cow  
-mumu nama : beef  
+mumu nyam : beef  
 mun : door (gate)  
 mungus : mongoose  
 muritan : Mauritania  
@@ -903,7 +879,6 @@ oma : grandmother
 oman : Oman  
 oman : Oman  
 opa : grandfather  
-oseania : Oceania  
 oster : Austria  
 oumun : Macao, SAR China  
 owo : egg  
@@ -988,8 +963,7 @@ puder : powder
 puding : pudding  
 puerto riko : Puerto Rico  
 puertoriko : Puerto Rico  
-puja : worship (reveration)  
-puja guru : priest (cleric)  
+puja : worship (revere)  
 pupe : doll (puppet)  
 putau : grape  
 putong : common (universal)  
@@ -1025,7 +999,8 @@ roza : rose
 ruhu : spirit (soul, mind)  
 rundi : Burundi  
 rupa : appearance (looks)  
-rus : Russia  
+rus : Russian  
+rus : Russian Federation  
 rutin : routine (habit)  
 rwanda : Rwanda  
 
@@ -1033,8 +1008,6 @@ rwanda : Rwanda
 
 saba : reason (cause)  
 sabun : soap  
-sabzi : vegetable  
-sabzi yem ren : vegetarian  
 sada : plain (mere)  
 safar : travel (voyage)  
 safi : clean (pure)  
@@ -1043,12 +1016,14 @@ sahara arabi dex : Western Sahara
 sal : hi!  
 salada : salad  
 salam : greeting (hello)  
+salam : good (in greetings)  
 salam den : Good day  
 salam go : farewell  
 salam lai : welcome!  
+salam nyam : bon appetit!  
 salam suba : Good morning  
 salam xam : Good evening  
-salam yem : bon appetit!  
+salone : Sierra Leone  
 salone : Sierra Leone  
 salvador : El Salvador  
 sam : same  
@@ -1056,16 +1031,16 @@ sam dex ren : compatriot
 sama : sky (heaven)  
 samoa : Samoa  
 san : three (3)  
+san marino : San Marino  
 sana : make (produce, manufacture)  
 sana baxa : artificial language (conlang)  
 sana kan : factory  
 sande : sand  
 sande stan : desert (sandy desert)  
-sanduku : box (chest)  
+sanduk : box (chest)  
 sang : blood  
 sani : sled (sleigh)  
-sanmarino : San Marino  
-sante : holy (sacred)  
+sant : holy (sacred)  
 sante helena : Saint Helena  
 sapato : shoe  
 sau tome i prinsipe : Sao Tome and Principe  
@@ -1081,7 +1056,7 @@ seres : Ceres (dwarf planet)
 seri : series  
 serpe : snake (serpent)  
 serte : certain (sure)  
-sexel nesi : Seychelles  
+sexel : Seychelles  
 side : sit  
 silo : silo  
 singa : lion  
@@ -1111,7 +1086,7 @@ stan : area
 su : own (particle of possession)  
 suan : sour  
 suba : morning  
-suba yem : breakfast  
+suba nyam : breakfast  
 suda : done (finished, completed)  
 sudafrika : South Africa  
 sudan : Sudan  
@@ -1128,8 +1103,8 @@ super : superb (wonderful, super)
 sur : south  
 sura : image (picture)  
 suria : Syria  
-surinam : Suriname  
-surinam baxa : Sranan Tongo  
+suriname : Suriname  
+suriname : Suriname  
 suxi : sushi  
 svalbarde i yanmayen nesi : Svalbard and Jan Mayen Islands  
 swahili : Swahili  
@@ -1146,13 +1121,15 @@ tabu : taboo (sacred)
 tai : Thailand  
 taibei : Taipei  
 taiga : taiga  
-taiwan : Taiwan (Republic of China)  
+taiwan : Taiwan  
+taiwan : Taiwan, Republic of China  
 tajiki : Tajikistan  
 taksi : taxi  
 tamar : date fruit  
 tanke : tank (container)  
 tanur : oven  
 tanzania : Tanzania  
+tanzania : Tanzania, United Republic of  
 tapa : tap (stopper)  
 tara : star  
 tara guru : astronomer  
@@ -1180,6 +1157,7 @@ tike : ticket
 timor leste : Timor-Leste  
 tocu : touch  
 togo : Togo  
+togo : Togo  
 tokelau : Tokelau  
 tokyo : Tokyo  
 tolo : top (spinning top)  
@@ -1192,11 +1170,10 @@ tonga : Tonga
 topi : hat (cap)  
 tren : train  
 tren dau : railway (railroad)  
-tribu : tribe  
 trinida i tobago : Trinidad and Tobago  
 tswana : Botswana  
 tu : you  
-tuba : brick (adobe)  
+tuba : brick  
 tubu : tube (pipe)  
 tufan : storm (tempest)  
 tuku : spit  
@@ -1209,6 +1186,7 @@ tunel tren : subway (metro)
 tunika : tunic (gown)  
 tunis : Tunisia  
 turkes i kaikos nesi : Turks and Caicos Islands  
+turki : Turkey  
 turki : Turkey  
 turkmen : Turkmenistan  
 tuvalu : Tuvalu  
@@ -1233,7 +1211,7 @@ uzbeki : Uzbekistan
 
 vanuatu : Vanuatu  
 vatikan : Holy See (Vatican City State)  
-venesuela : Venezuela  
+venesuela : Venezuela (Bolivarian Republic)  
 viet nam : Viet Nam  
 vinsi i grenadin : Saint Vincent and Grenadines  
 vodu : voodoo  
@@ -1275,7 +1253,7 @@ xal : scarf (shawl)
 xale : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
-xam yem : dinner  
+xam nyam : dinner  
 xaman : shaman  
 xampu : shampoo  
 xan : mountain (hill)  
@@ -1296,12 +1274,11 @@ xigo : accident (mishap)
 xim : heart  
 xin : belief (faith, creed)  
 xir : poem  
-xirope : syrup  
+xirop : syrup  
 xona : Shona  
 xou : show (display, exhibition)  
 xu : tree  
 xuli : repair (fix)  
-xux : hush (shh)  
 xuxi : rest (relief)  
 
 ##y
@@ -1335,11 +1312,11 @@ zafran : saffron
 zai : present (current, existing)  
 zai den : today  
 zaitun : olive  
-zalim : mean (cruel)  
 zaman : time (moment)  
 zambia : Zambia  
+zambia : Zambia  
 zardux : Zoroaster  
-zardux dau : Zoroastrianism  
+zardux din : Zoroastrianism  
 ze : from (since)  
 ze ki : because (since)  
 zebra : zebra  
