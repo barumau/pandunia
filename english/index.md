@@ -23,14 +23,16 @@ Note: Pandunia is a constructed language that is under construction. The structu
 - [Spelling](abc.md)
 - [Phrasebook](fraze.md)
 - [Lessons with Dialogs](darse.md)
-
 - [Grammar](kanun.md)
-- [Uninflected Pandunia](simpli_pandunia.html)
-- [Phrases in Uninflected Pandunia](simpli_pandunia_da_fraze.md)
 
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](english-pandunia.md) dictionary
 - [Pandunia-English](pandunia-english.md) dictionary
+
+## Uninflected dialect
+
+- [Uninflected Pandunia](simpli_pandunia.html)
+- [Phrases in Uninflected Pandunia](simpli_pandunia_da_fraze.md)
 
 ## Articles
 
