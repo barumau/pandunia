@@ -155,7 +155,7 @@ Note: It is necessary to use **ye** in the latest phrase because, without it, th
 **kia ni bon?** Are you well?  
 **ye. me bon.** Yes, I'm well.
 
-**kia ni bon?** Are you well?  
+**kia ni bon.** Are you well?  
 **no, me no bon.** No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is denied.
