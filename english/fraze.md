@@ -155,7 +155,7 @@ Note: It is necessary to use **si** in the latest phrase because, without it, th
 **kia tu bon?** Are you well?  
 **si. mi bon.** Yes, I'm well.
 
-**kia tu bon.** Are you well?  
+**kia tu bon?** Are you well?  
 **no, mi no bon.** No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is denied.
@@ -230,7 +230,7 @@ Note: When an adjective, like **ros**, is placed before a noun, it works as a mo
 
 **li si mi da.** It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing. So **me da** means "my", **ni da** means "your" and so on.
+Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
 
 **ye ke?** Who's he/she?
 
@@ -608,7 +608,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing dona ye ko mi.** Please give it to me.
 
-**me dona li ko tu.** I give this to you.
+**mi dona li ko tu.** I give this to you.
 
 **mi dona buke ko yemen.** I give a book to them.
 
@@ -622,7 +622,7 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 **cing toma un kafe ko mi.** Please take one coffee for me.
 
-**tu ja toma pesa ze mi.** You already got money from me.
+**tu pas toma pesa ze mi.** You already got money from me.
 
 <!--
 

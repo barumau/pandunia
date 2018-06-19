@@ -6,8 +6,8 @@
 [Info]()
 
   * [Introduction](dunia_baxe.md)
-  * [Principles](filsofi.md)
-  * [World words](loga.md)
+  * [Principles](filsof.md)
+  * [World words](dunia_loge.md)
   * [Questions & Answers](kia_i_dap.md)
   * [Translate this site](baxa_do_baxa.md)
 
@@ -19,6 +19,7 @@
 
 [Words]()
 
+  * [Word building](loge_ban.md)
   * [Pandunia-English](pandunia-english.md)
   * [English-Pandunia](english-pandunia.md)
   * [Search](tiddly.html)

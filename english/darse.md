@@ -240,8 +240,8 @@ Questions that can be answered by saying _yes_ or _no_ have the same pivot struc
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
 > **kia ye nyama ca?** = Does he or she drink tea?  
-> **kia tu nyama sup?** = Do you eat soup?  
-> **kia mimen nyama su?** = Do we drink water?
+> **kia tu nyama supe?** = Do you eat soup?  
+> **kia mimen nyama suy?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
@@ -433,11 +433,11 @@ There are also specific time words.
 
 
 
-The adjectives for past, present and future are **pas, nun** and **futur**. They can be used for modifying nouns.
+The adjectives for past, present and future are **pas, zay** and **futur**. They can be used for modifying nouns.
 
-> **sara es mi da pas xefe.** = Sara is my former boss.
-> **yusef es mi da nun xefe.** = Yusef is my current boss.
-> **maria es mi da futur xefe.** = Maria is my future boss.
+> **sara si mi da pas xefe.** = Sara is my former boss.  
+> **yusef si mi da zay xefe.** = Yusef is my current boss.  
+> **maria si mi da futur xefe.** = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time. Simply put the word before the verb.
 
@@ -454,9 +454,9 @@ Alternatively the time word can be placed last in the sentence.
 
 It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
 
-> **mi pas ada un mau.** = I had a cat in the past.
-> **ye bon mau.** = It was a good cat.
-> **mi ada un waf nun.** = I have a dog now.
+> **mi pas ada un mau.** = I had a cat in the past.  
+> **ye bon mau.** = It was a good cat.  
+> **mi ada un waf zay.** = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
 
@@ -483,7 +483,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 1. mi da xefe festa na futur.
 2. mi ada do waf na pase.
-3. tu nyama supe nun.
+3. tu nyama supe zay.
 4. ye safa kamer na befo den.
 5. mau nyama kafe na badi den.
 6. tu da mama festa na befo noce.

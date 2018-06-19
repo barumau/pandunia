@@ -60,11 +60,9 @@ The "family tree" of Pandunia is presented in the figure below.
 
 ## Auxiliary language
 
-<!--
 #### What is a worldlang?
 
 A worldlang is a constructed interlanguage that borrows its words, speech sounds and possibly grammar from different language families of the world. There are many worldlangs. Some of them are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
--->
 
 #### How does Pandunia differ from other auxiliary languages?
 
@@ -102,19 +100,19 @@ You are free to speak Pandunia, English and any other language that your heart d
 
 ## Grammar and vocabulary
 
-#### Why isolating structure was chosen for Pandunia?
+#### Why agglutinating structure was chosen for Pandunia?
 
 Different structures were considered and tested during the development of Pandunia. The main choice was between an agglutinating and an isolating structure.
 
 1. In an agglutinating language every word can be clearly divided into component parts. For example Esperanto word "niaj" (our) consists of three parts: ni- (we), -a- (adjective marker) and -j (plural marker).
 2. In an isolating language every word consists of just one part. For example in Mandarin Chinese the word for "our" consists of three separate words: wǒ (first person pronoun), men (plural marker) and de (possessive marker). Then they are simply put together: wǒmende, 我们的.
 
-Pandunia is an analytic language with a little agglutination. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating and inflecting languages.
+Pandunia is a lightly agglutinating language. It uses separate words to express things like person, number, mood, tense and aspect, which are typically expressed with inflection in agglutinating and inflecting languages.
 
-To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
+To demonstrate the difference, let's compare the same sentence in Esperanto (a heavily agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi wol     wid|a  tu da     do  sundar     yen         nun.
+    Pandunia:  mi wol     wid|a  tu da     do  sundar     yen         zay.
                I  want to see    your      two beautiful  eyes        now.
 
 
@@ -148,9 +146,8 @@ Pandunia has words in common with almost all languages of the world.
 
 About 6500 languages are spoken in the world today. If one word was taken from each language, there would be 6500 words in the dictionary. It sounds like enough, doesn't it?
 
-However, it's not so simple. All words are not equal. Some words are more frequent than others. According to the Zipf's law, the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. By this rule, only 150 words will account for more than half of everything that is said and written in any given language. The rest, 6350 words, would be more or less rare. Many of them would be hardly ever used!
+However, it's not so simple. All words are not equal. Some words are more frequent than others. According to the Zipf's law, the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. By this rule, only 150 words will account for more than half of everything that is said and written in any given language. The rest, 6350 words, would be more or less rare. Many of them would be hardly ever used! So the value of adding one more source language gets smaller and smaller.
 
-The value of adding one more language gets smaller and smaller.
 
 
 
