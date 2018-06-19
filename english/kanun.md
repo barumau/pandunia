@@ -300,7 +300,7 @@ The demonstrative pronouns work like modifiers.
 
 ## 7. Sentences
 
-### 7.1. Observations
+### 8.1. Observations
 
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
@@ -377,14 +377,14 @@ The order can be changed easily to the object–subject–verb word order (OSV).
 
 In the passive voice there is no agent subject in the sentence. There is only the object and the verb.
 
-> Active: **me krese patata.** - I grow potatoes.  
-> Passive: **patata krese.** - Potatoes grow.
+> **ni wide.** - You are seen.  
+> **musika audi.** - Music is heard.  
+> **pang beka.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
 The agent can be mentioned after the verb with the preposition **de**.
 
-> **ni wide.** - You are seen.  
 > **ni wide de me.** - You are seen by me.
 
 
