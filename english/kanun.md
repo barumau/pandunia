@@ -270,17 +270,15 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 ### 5.2. Demonstrative pronouns
 
-
-- **ci** : points to something that is near to the speaker; this, these
-- **to** : points to something that is further away from the speaker; that, those
+**ci** and **la** are the demonstrative pronouns. **ci** points to things that are near. **la** points to things that are far.
 
 The demonstrative pronouns work like modifiers.
 
-> **ci batu.** - This stone / these stones  
-> **to batu.** - That stone / those stones  
-> **ci ye un batu.** - This is a stone.  
-> **to ye un batu.** - That is a stone.  
-> **to batu cung.** - That stone is heavy.  
+> **ci batu.** - This stone  
+> **la batu.** - That stone
+> **ci ye batu.** - This is a stone.  
+> **la ye batu.** - That is a stone.  
+> **la batu cung.** - That stone is heavy.  
 
 
 ### 5.3. Interrogative pronoun
@@ -292,7 +290,7 @@ The demonstrative pronouns work like modifiers.
 > **ke ren?** - Who? (Which person?)  
 > **ke zaman?** - When? (What time?)  
 > **ke yang?** - How? (What manner?)  
-> **ke saba?** - Why? (What cause?)  
+> **ke koz?** - Why? (What cause?)  
 
 
 
@@ -558,18 +556,7 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 ### 9.4. Tense and Aspect Particles
 
-Pandunia verb's don't change their form for tense, instead tenses are indicated by context or with the use of words like **le** (already) and **wil** (will).
-
-
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **zai** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
-
-
-The particle **le** 
-
-> **ni le loga ta.** - You said it. / You have said it.  
-> **mau le yem du fix.** - The cat ate two fish. / The cat has eaten two fish.
-
-
 
 > **me ha mau pas.** - I had cats in the past.
 > **a me no ha mau zai.** - But I don't have cats now.
@@ -741,12 +728,12 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 7. Numerals
 8. Adjectives
 
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **saba**, here its scope is only to connect **yusef** and **sara**. **ze saba dd** is at the top, because it connects the two sub-phrases.
+The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz du** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia ze saba da ta ye bon dunia baxa.
+    yusef i sara wol darsa pandunia ze koz da ta ye bon dunia baxa.
 
-                      ze saba dd
+                      ze koz da
                ┌──────────┴──────────┐
               wol                   ye
           ┌────┴──────┐           ┌──┴──┐
