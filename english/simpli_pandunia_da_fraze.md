@@ -1,4 +1,4 @@
-# Pandunia word by word
+# Uninflected Pandunia word by word
 
 ### Method of Presentation
 
@@ -63,7 +63,7 @@ The name is Simon.
 _Age: 30 years._  
 The age is 30 years.
 
-**gojia: frans.**  
+**dex: frans.**  
 _Country: France._  
 The country is France.
 
@@ -87,7 +87,7 @@ My name is Simon.
 _My age:, 30 year._  
 I'm 30 years old.
 
-**mi gojia: frans.**  
+**mi dex: frans.**  
 _My country, France._  
 I live in France.
 
@@ -111,7 +111,7 @@ My name is Simon.
 _My age, uh, 30 year._  
 I'm 30 years old.
 
-**mi gojia e frans.**  
+**mi dex e frans.**  
 _My country, uh, France._  
 I live in France.
 
@@ -125,23 +125,23 @@ My eyes are brown.
 
 A variety of _determiners_ can be used for marking the beginning of a noun phrase.
 
-**mau, hewan.**  
+**maw, hewan.**  
 _Cat, animal.  
 A cat is an animal.
 
-**mau yo hewan.**  
+**maw koy hewan.**  
 _Cat, some animal._  
 A cat is an animal.
 
-**mau si hewan.**  
+**maw ci hewan.**  
 _Cat, this animal._  
 A cat is this animal.
 
-**mau la hewan.**  
+**maw la hewan.**  
 _Cat, that animal._  
 A cat is that animal.
 
-**mau la lil i bon dom hewan.**  
+**maw la lil i bon dom hewan.**  
 _Cat, that little and good home's animal._  
 The cat is that little and good household animal.
 
@@ -149,38 +149,38 @@ The cat is that little and good household animal.
 
 ### Talking about actions
 
-**mi amor: tu.**  
+**mi am: tu.**  
 _My loved, you._  
 I love you.
 
-**tu: mi amor**  
+**tu: mi am**  
 _You, my loved._  
 You are my loved one.
 
 
 More:
 
-**mi lai: dom.**  
+**mi lay: dom.**  
 _My arrival, home._  
 I come home.
 
-**mi no lai: dom.**  
+**mi no lay: dom.**  
 _My not arrival, home._  
 I don't come home.
 
-**mau kaca yo mux.**  
+**maw kaca koy mux.**  
 _Cat's prey, some mouse._  
 The cat preys on a mouse. (The cat catches a mouse.)
 
-**mau ja kaca la lil mux.**  
+**maw pas kaca la lil mux.**  
 _Cat's past prey, that little mouse._  
 The cat caught that little mouse.
 
-**mau no ja kaca la dai mux.**  
+**maw no pas kaca la day mux.**  
 _Cat's not past prey, that big mouse._  
 The cat didn't catch that big mouse.
 
-**mau wol kaca la dai mux.**  
+**maw wol kaca la day mux.**  
 _Cat's wanted prey, that big mouse._  
 The cat wants to catch that big mouse.
 
@@ -188,15 +188,15 @@ The cat wants to catch that big mouse.
 
 ### Making requests
 
-**mi cing tu lai mimen dom.**  
+**mi cing tu lay mimen dom.**  
 _My request, your arrival, our home._  
 I request you to come to our house.
 
-**cing tu lai mimen dom.**  
+**cing tu lay mimen dom.**  
 _Request, your arrival, our home._  
 Please, you, come to our house.
 
-**cing: lai mimen dom.**  
+**cing: lay mimen dom.**  
 _Request, arrival, our home._  
 Please, come to our house.
 
@@ -204,11 +204,11 @@ Please, come to our house.
 
 ### Making questions
 
-**mi kia tu lai mimen dom.**  
+**mi kia tu lay mimen dom.**  
 _My question, your arrival, our home._  
 I ask, did you come to our house.
 
-**kia tu lai mimen dom.**  
+**kia tu lay mimen dom.**  
 _Question, your arrival, our home._  
 Did you come to our house?
 
@@ -224,7 +224,7 @@ Are you Maria?
 
 ### Prepositions
 
-Basic prepositions are useful as special _grammar words_ also in this isolating language.
+Basic prepositions are useful as special _grammar words_ also in this uninflected language.
 
 **mi na dom.**  
 _I with home._  
@@ -263,27 +263,27 @@ He/she is from Nairobi or Zanzibar.
 
 =================================================
 
-**mi safi la dom.**  
+**mi safe la dom.**  
 _My cleaned, the house._  
 I clean the house.
 
-**mi safi dom.**  
+**mi safe dom.**  
 _My cleaned house._  
 My clean house.
 
-**la safi dom.**  
+**la safe dom.**  
 _the clean house._  
 The clean house.
 
-**mi no safi la safi dom.**  
+**mi no safe la safe dom.**  
 _My not cleaned, the clean house._  
 I didn't/don't clean the clean house.
 
-**mi, safi.**  
+**mi, safe.**  
 _I, clean._  
 I am clean.
 
-**mi es safi.**  
+**mi es safe.**  
 _My being, clean._  
 I am clean.
 
@@ -296,7 +296,7 @@ I am clean.
 _Little book._  
 Little books.
 
-**dai buke.**  
+**day buke.**  
 _Big book._  
 Big books.
 
@@ -316,7 +316,7 @@ When there are two consecutive adjectives, the first of modifies the second one.
 _Little good book._  
 Rather ("littly") good books.
 
-**dai bon buke.**  
+**day bon buke.**  
 _Big little book._  
 Very ("bigly") good books.
 
