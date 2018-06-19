@@ -114,7 +114,7 @@ Pandunia is an isolating language. It uses separate words to express things like
 To demonstrate the difference, let's compare the same sentence in Esperanto (an agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wol     wide   ni su     du  sundar     yen         nun.
+    Pandunia:  mi wol     wide   tu su     du  sundar     yen         nun.
                I  want to see    your      two beautiful  eyes        now.
 
 

@@ -202,15 +202,15 @@ Repeat the singular pronoun to make it plural.
 
 
 
-### ci <small>this, these</small>
+### sa <small>this, that</small>
 
-**ci ye ke? / ke ye ci?** What's this?
+**sa e ke? / ke e sa?** What's this?
 
-**ci ye pingo.** This is an apple.
+**sa e pingo.** This is an apple.
 
-**ci ye ros pingo.** This is a red apple.
+**sa e ros pingo.** This is a red apple.
 
-**ci pingo ros.** This apple is red.
+**sa pingo ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -232,9 +232,9 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 **ta ke?** Who's he/she?
 
-**ta ye me su panyo.** He/she is my friend.
+**ta e me su panyo.** He/she is my friend.
 
-**me ye sara su panyo.** I am Sara's friend.
+**me e sara su panyo.** I am Sara's friend.
 
 <small>Etymology. **su** is from English: 's, Afrikaans: se, Spanish: su, Portuguese: su.</small>
 
@@ -242,9 +242,9 @@ Note: Possessive particle **su** is put between the owner and the owned thing. S
 
 ### nam <small>name</small>
 
-**ni su nam ye ke?** What's your name?
+**ni su nam e ke?** What's your name?
 
-**me su nam ye tomas.** My name is Thomas.
+**me su nam e tomas.** My name is Thomas.
 
 **ta nam ke?** What he/she is called?
 
@@ -476,15 +476,15 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
-### mani <small>to mean</small>
+### mana <small>to mean</small>
 
-**la loga mani ke?** What does this word mean?
+**li loge mana ke?** What does this word mean?
 
-**"mau" mani ke?** What does "mau" mean?
+**"mau" mana ke?** What does "mau" mean?
 
-**ta mani yang de hewan.** It means a kind of animal.
+**ta mana yang du hewan.** It means a kind of animal.
 
-**me no aha ta mani ke.** I don't understand what it means.
+**me no aha ta mana ke.** I don't understand what it means.
 
 
 
@@ -551,7 +551,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **meme safar ze london do paris.** We travel from London to Paris.
 
-**safar ye dai long.** The voyage is very long.
+**safar dai long.** The voyage is very long.
 
 
 
