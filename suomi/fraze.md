@@ -30,23 +30,23 @@ Osa 1: Tervehdykset ja perussanoja
 
 **salam** Terve!
 
-**suba salam!** Huomenta!
+**salam suba!** Huomenta!
 
-**den salam!** Päivää!
+**salam den!** Päivää!
 
-**xam salam!** Iltaa!
+**salam xam!** Iltaa!
 
-**noce salam!** Hyvää yötä!
+**salam noce!** Hyvää yötä!
 
-**kane salam!** Hyvää ruokahalua!
+**salam nyam!** Hyvää ruokahalua!
 
-**lay salam!** Tervetuloa!
+**salam laye!** Tervetuloa!
 
-**cude salam!** Hyvästi!
+**salam cute!** Hyvästi!
 
-**safar salam!** Hyvää matkaa!
+**salam safar!** Hyvää matkaa!
 
-**son salam!** Nuku hyvin!
+**salam son!** Nuku hyvin!
 
 Vinkki! Kuten huomaat, **salam** on yleiskäyttöinen sana hyvän toivottamiseen. Käytä sitä aina kun mahdollista!
 
@@ -116,7 +116,7 @@ Huom! Pronominien monikkomuodot ovat **mimen** (me) ja **tumen** (te).
 
 **kia tu tomas?** Oletko sinä Tomas?
 
-**kia tu doktor?** Oletko lääkäri?
+**kia tu doktar?** Oletko lääkäri?
 
 Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **kia**. Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö. Itse asiassa äskeinen kysymys on lyhennetty lauseesta **mi kia tu doktor.** (Minä kysyn: sinä lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
@@ -135,9 +135,9 @@ Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **kia**. Se on ihan taval
 
 **si, mi tomas.** Kyllä, olen Tomas.
 
-**kia ye doktor?** Onko hän lääkäri?
+**kia ye doktar?** Onko hän lääkäri?
 
-**si, ye doktor.** Kyllä, hän on lääkäri.
+**si, ye doktar.** Kyllä, hän on lääkäri.
 
 Sanalla **si** vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla-verbin paikalle.
 
@@ -145,9 +145,9 @@ Sanalla **si** vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla
 
 **tu si sara.** Sinä kyllä olet Sara.
 
-**pingo si pala.** Omena kyllä on hedelmä.
+**pingo si pal.** Omena kyllä on hedelmä.
 
-<small>Sanan **si** lähteitä: indonesia: si, saksa: ja, englanti: yeah.</small>
+<small>Sanan **si** lähteitä: espanja: si, portugali: sim, yleiskiina: 是 "shì", shanghainkiina: 是 "sí".</small>
 
 
 
@@ -155,7 +155,7 @@ Sanalla **si** vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla
 
 **mi no sara.** Minä en ole Sara.
 
-**mi no doktor.** Minä en ole lääkäri.
+**mi no doktar.** Minä en ole lääkäri.
 
 **kia tu bon?** Voitko hyvin?  
 **si. mi bon.** Kyllä, minä voin hyvin.
@@ -209,15 +209,15 @@ Yksikön persoonapronomineista saadaan monikkomuodot lisäämällä **men** per�
 <small>Sanan **ke** lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### sa <small>tämä, tuo</small>
+### li <small>tämä, tuo</small>
 
-**sa si ke? / ke si sa?** Mikä tämä on?
+**li si ke? / ke si sa?** Mikä tämä on?
 
-**sa si pingo.** Tämä on omena.
+**li si pingo.** Tämä on omena.
 
-**sa si ros pingo.** Tämä on punainen omena.
+**li si ros pingo.** Tämä on punainen omena.
 
-**sa pingo ros.** Tämä omena on punainen.
+**li pingo ros.** Tämä omena on punainen.
 
 Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
@@ -227,13 +227,13 @@ Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreen
 
 ### da <small>-n (genetiivipartikkeli)</small>
 
-**sa ke?** Mikä tämä on?
+**li ke?** Mikä tämä on?
 
-**sa mi da fon.** Se on minun puhelin.
+**li si mi da fon.** Se on minun puhelin.
 
-**sa ke da?** Kenen tämä on?
+**li si ke da?** Kenen tämä on?
 
-**sa mi da.** Se on minun.
+**li si mi da.** Se on minun.
 
 Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **mi da** tarkoittaa "minun", **tu da** tarkoittaa "sinun" jne.
 
@@ -252,11 +252,11 @@ Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sana
 
 **mi da nam si tomas.** Minun nimeni on Tomas.
 
-**ye nam ke?** Mikä hänen nimensä on?
+**ye namu ke?** Mikä hänen nimensä on?
 
-**ye nam - sara.** Hänen nimensä on Sara.
+**ye namu sara.** Hänen nimensä on Sara.
 
-**mi nam - tomas.** Minun nimi on Tomas.
+**mi namu tomas.** Minun nimi on Tomas.
 
 <small>Sanan **nam** lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām", thai: นาม "naam", indonesia: nama, japanese: 名前 "namae", saksa: Name, englanti: name.</small>
 
@@ -264,16 +264,16 @@ Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sana
 
 
 
-### ha <small>olla, omistaa</small>
+### ada <small>olla, omistaa</small>
 
-**mi ha bon dom.** Minulla on hyvä talo.
+**mi ada bon dom.** Minulla on hyvä talo.
 
-**ye no ha pesa.** Hänellä ei ole rahaa.
+**ye no ada pesa.** Hänellä ei ole rahaa.
 
-**mi wol ha xin fon.** Minä haluan saada uuden puhelimen.
+**mi wol ada nowi fon.** Minä haluan saada uuden puhelimen.
 
-**kia tu ha ban?** Onko sinulla lapsia?
-**mi ha du ban.** Minulla on kaksi lasta.
+**kia tu ada bace?** Onko sinulla lapsia?
+**mi ada do bace.** Minulla on kaksi lasta.
 
 
 
@@ -281,11 +281,11 @@ Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sana
 
 **mi jan ye.** Minä tunnen hänet.
 
-**kia tu jan sa ren?** Tunnetko tuon henkilön?
+**kia tu jan li ren?** Tunnetko tuon henkilön?
 
-**kia tumen jan mutu?** Tunnetteko toisenne?
+**kia tumen jan bici?** Tunnetteko toisenne?
 
-**mimen jan mutu ze long.** Tunnemme toisemme jo vanhastaan.
+**mimen jan bici ze long.** Tunnemme toisemme jo vanhastaan.
 
 
 
@@ -293,70 +293,70 @@ Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sana
 
 **mi nida mede.** Minä tarvitsen apua.
 
-**kia tu ken mede mi?** Voitko auttaa minua?
+**kia tu ken meda mi?** Voitko auttaa minua?
 
-**kia mi ken mede tu?** Voinko auttaa sinua?
+**kia mi ken meda tu?** Voinko auttaa sinua?
 
 
 
 ## Osa 2: Ruokailu
 
 
-### kana <small>syödä, juoda</small>
+### nyama <small>syödä, juoda</small>
 
-**kia tu wol kana yo?** Haluaisitko syödä jotakin?
+**kia tu wol nyama yo?** Haluaisitko syödä jotakin?
 
-**ye kana pingo.** Hän syö omenaa.
+**ye nyama pingo.** Hän syö omenaa.
 
-**yemen kana pingo.** He syövät omenoita.
+**yemen nyama pingo.** He syövät omenoita.
 
 Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **pingo** voi tarkoittaa yhtä tai useampaa omenaa.
 
-**kia tu kana kafe?** Juotko kahvia?
+**kia tu nyama kafe?** Juotko kahvia?
 
-**mi kana kafe.** Minä juon kahvia.
+**mi nyama kafe.** Minä juon kahvia.
 
 Vinkki: Sana **kana** sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi kana kafe i pan.** Minä nautin kahvia ja leipää.
+**mi nyama kafe i pan.** Minä nautin kahvia ja leipää.
 
 
 
 ### wol <small>haluta</small>
 
-**kia tu wol kana?** Haluaisitko syödä?
+**kia tu wol nyama?** Haluaisitko syödä?
 
-**tu wol kana ke?** Mitä haluaisit syödä?
+**tu wol nyama ke?** Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke** on samalla paikalla kuin normaalissakin lauseessa.
 
-**mi wol kana kafe.** Minä haluan juoda kahvia.
+**mi wol nyama kafe.** Minä haluan juoda kahvia.
 
-**kia tu wol kana ca?** Haluaisitko juoda teetä.
+**kia tu wol nyama ca?** Haluaisitko juoda teetä.
 **no. mi no wol ca. mi wol kafe.** Ei, minä en halua teetä. Minä haluan kahvia.
 
 **tu wol ke pingo?** Minkä omenan haluat?
-**sa ros.** Tuon punaisen.
+**li ros.** Tuon punaisen.
 
 
 
 ### cing <small>pyytää</small>
 
-**mi cing tu kana ca.** Minä pyydän sinua juomaan teetä.
+**mi cing tu nyama ca.** Minä pyydän sinua juomaan teetä.
 
 **mi cing tu lay dom.** Minä pyydän sinua tulemaan kotiin.
 
-**mi cing tu mede mi.** Minä pyydän sinua auttamaan minua.
+**mi cing tu meda mi.** Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**cing kana ca.** Juopa teetä.
+**cing nyama ca.** Juopa teetä.
 
-**cing kana kafe.** Juopa kahvia.
+**cing nyama kafe.** Juopa kahvia.
 
 **cing lay dom.** Tulepa kotiin.
 
-**cing mede mi.** Autapa minua.
+**cing meda mi.** Autapa minua.
 
 
 
@@ -364,25 +364,25 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **danke!** Kiitos!
 
-**danke tu.** Kiitos sinulle.
+**danka tu.** Kiitos sinulle.
 
-**mi danke tu.** Minä kiitän sinua.
+**mi danka tu.** Minä kiitän sinua.
 
-**mi danke tu mede mi.** Minä kiitän sinua minun auttamisesta.
+**mi danka tu meda mi.** Minä kiitän sinua minun auttamisesta.
 
-**danke tu mede mi.** Kiitos kun autoit minua.
+**danka tu meda mi.** Kiitos kun autoit minua.
 
 **tu keci.** Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
 
 
 
-### haide <small>tehkäämme</small>
+### hayda <small>tehkäämme</small>
 
-**haide kana!** Syökäämme!
+**hayda nyama!** Syökäämme!
 
-**haide enda kana!** Menkäämme syömään!
+**hayda enda nyama!** Menkäämme syömään!
 
-**haide enda dom.** Menkäämme kotiin.
+**hayda enda dom.** Menkäämme kotiin.
 
 
 
@@ -390,9 +390,9 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mi nida mede.** Tarvitsen apua.
 
-**mi nida kana.** Minulla on nälkä. (Tarvitsen ruokaa.)
+**mi nida nyama.** Minulla on nälkä. (Tarvitsen ruokaa.)
 
-**kia tu nida kana?** Onko sinulla nälkä?
+**kia tu nida nyama?** Onko sinulla nälkä?
 
 **kia tu nida suy?** Onko sinulla jano?
 
@@ -405,7 +405,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **sori! mi no aha.** Anteeksi, minä en ymmärrä.
 
-**sori! sa ke?** Anteeksi, mikä tämä on?
+**sori! li ke?** Anteeksi, mikä tämä on?
 
 **sori. tu nam ke?** Anteeksi, mikä sinun nimi on?
 
@@ -431,17 +431,17 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **ye no ken gida gar.** Hän ei osaa ajaa autolla.
 
-**kia tu ken xuli ye?** Osaatko korjata sen?
+**kia tu ken xula ye?** Osaatko korjata sen?
 
 **kia tu ken pandunia?** Osaatko panduniaa?
 
 **mi ken pandunia.** Minä osaan panduniaa.
 
-**mi ken xau pandunia.** Minä osaan vähän panduniaa.
+**mi ken lil pandunia.** Minä osaan vähän panduniaa.
 
 **mi no ken englix.** Minä en osaa englantia.
 
-**maf. mi no ken tu da bax.** Anteeksi, en osaa sinun kieltäsi.
+**sori. mi no ken tu da bax.** Anteeksi, en osaa sinun kieltäsi.
 
 
 
@@ -449,22 +449,22 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **tu loga ke?** Mitä sinä sanoit?
 
-**mi loga do tu.** Minä puhun sinulle.
+**mi loga to tu.** Minä puhun sinulle.
 
-**mimen loga do mutu.** Me puhumme toisillemme.
+**mimen loga to bici.** Me puhumme toisillemme.
 
 **se loga "kissa" na ke yang na pandunia?** Miten sanotaan "kissa" panduniaksi?
 
 **"kissa" si ke na pandunia?** Mikä "kissa" on panduniaksi?
 
-**mau loga miau.** Kissa sanoo miau.
+**maa loga myaw.** Kissa sanoo miau.
 
 
 ### auda <small>kuulla, kuunnella</small>
 
 **mi no ken auda tu.** En voi kuulla sinua.
 
-**cing loga bala.** Puhuisitko kovempaa.
+**cing loga forti.** Puhuisitko kovempaa.
 
 **mi auda musike.** Minä kuuntelen musiikkia.
 
@@ -472,27 +472,27 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 
 
-### wide <small>nähdä</small>
+### wida <small>nähdä</small>
 
-**suka wide tu.** Hauska nähdä sinua!
+**suku wida tu.** Hauska nähdä sinua!
 
-**wide tu re!** Nähdään myöhemmin!
+**wida tu re!** Nähdään myöhemmin!
 
-**wide tu ming den!** Nähdään huomenna!
+**wida tu ming den!** Nähdään huomenna!
 
-**mi wide ye yer den.** Minä näin hänet eilen.
+**mi wida ye yer den.** Minä näin hänet eilen.
 
 
 
-### mani <small>tarkoittaa</small>
+### mana <small>tarkoittaa</small>
 
-**sa loga mani ke?** Mitä tämä sana tarkoittaa?
+**li loga mana ke?** Mitä tämä sana tarkoittaa?
 
-**"mau" mani ke?** Mitä "mau" tarkoittaa?
+**"maw" mana ke?** Mitä "maw" tarkoittaa?
 
-**ye mani hewan da yang.** Se tarkoittaa eräänlaista eläintä.
+**ye mana yang du hewan.** Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha ye mani ke.** Minä en ymmärrä mitä se tarkoittaa.
+**mi no aha ye mana ke.** Minä en ymmärrä mitä se tarkoittaa.
 
 
 
@@ -506,11 +506,11 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 ### baxa <small>puhua kieltä, kommunikoida</small>
 
-**kia tumen bax pandunia.** Puhutteko te panduniaa?
+**kia tumen baxa pandunia.** Puhutteko te panduniaa?
 
 **mimen baxa pandunia.** Me puhumme panduniaa.
 
-**kia tu ken baxa englix?** Osaatko puhua englantia?
+**kia tu ken baxa engli?** Osaatko puhua englantia?
 
 **frans, espanya, portugal, ruski** Ranskaa, espanjaa, portugalia, venäjää
 
@@ -534,9 +534,9 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mi mus enda ke ren?** Kenen luoksen minun pitää mennä?
 
-**haide enda!** Menkäämme!
+**hayda enda!** Menkäämme!
 
-**haide enda na pede!** Menkäämme jalan!
+**hayda enda na pede!** Menkäämme jalan!
 
 
 
@@ -558,14 +558,14 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **mimen safar ze london do paris.** Me matkustamme Lontoosta Pariisiin.
 
-**safar cok long.** Matka on hyvin pitkä.
+**safar day long.** Matka on hyvin pitkä.
 
 
 ### na <small>luona, kanssa, -lla, -ssa</small>
 
 **hotel na ke?** Missä hotelli on?
 
-**hotel na sa dau.** Hotelli on tuolla tiellä.
+**hotel na li daw.** Hotelli on tuolla tiellä.
 
 **tu na ke?** Missä sinä olet?
 
@@ -587,7 +587,7 @@ Panduniassa sanaa **na** voi käyttää yksinään ilman verbiä.
 
 **mi doma singapur.** Asun Singaporessa.
 
-**kia tu doma sa hotel?** Astuko tässä hotellissa?
+**kia tu doma li hotel?** Astuko tässä hotellissa?
 
 On oikein sanoa "tu doma na ke?" lyhyemmän muodon "tu doma ke" sijasta. Kuitenkin **doma** kattaa yksinäänkin jossakin olemisen, joten sanaa **na** ei välttämättä tarvita.
 
