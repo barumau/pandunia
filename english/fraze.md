@@ -142,7 +142,7 @@ The word **si** can be used also for stating something as a fact. Then it is use
 
 Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
 
-<small>Etymology. **si** is from Spanish: si, Portuguese: sim.</small>
+<small>Etymology. **si** is from Spanish: si, Portuguese: sim, Mandarin: 是 "shì", Shanghaiese: 是 "sí".</small>
 
 
 
@@ -312,7 +312,7 @@ Note: Unlike English, Pandunia doesn't have separate singular and plural forms. 
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i pan.** I'm having coffee and bread.
+**mi nyama kafe i pang.** I'm having coffee and bread.
 
 
 
@@ -443,15 +443,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 **tu loga ke?** What did you say?
 
-**mi loga ko tu.** I talk to you.
+**mi loga to tu.** I talk to you.
 
-**mimen loga ko bici.** We talk to each other.
+**mimen loga to bici.** We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
 
 **"cat" si ke na pandunia?** What is "cat" in Pandunia?
 
-**mau loga miau.** Cat says meow.
+**maw loga myaw.** Cat says meow.
+
 
 
 ### auda <small>to listen, hear</small>
@@ -478,11 +479,12 @@ Tip: To make direct requests, drop all the pronouns.
 
 
 
+
 ### mana <small>to mean</small>
 
 **li loge mana ke?** What does this word mean?
 
-**"mau" mana ke?** What does "mau" mean?
+**"maw" mana ke?** What does "mau" mean?
 
 **ye mana yang du hewan.** It means a kind of animal.
 
@@ -526,11 +528,11 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi mus enda ke?** Where should I go?
 
-**mi mus enda ko ke ren?** To whom should I go?
+**mi mus enda to ke ren?** To whom should I go?
 
-**haida enda!** Let's go!
+**hayda enda!** Let's go!
 
-**haida enda na ped** Let's go by foot!
+**hayda enda na pede** Let's go by foot!
 
 
 
@@ -553,7 +555,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mimen safara ze london ko paris.** We travel from London to Paris.
 
-**safar multi long.** The voyage is very long.
+**safar day long.** The voyage is very long.
 
 
 
@@ -722,7 +724,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 **a** but <small>(Russian _а_)</small>  
 **ada** have; there is <small>(Indonesian _ada_)</small>  
-**bai** white <small>(Mandarin _bái_ 白)</small>  
+**bay** white <small>(Mandarin _bái_ 白)</small>  
 **batu** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
 **bax** language; communication <small>(Hindi _bhāśā_ भाषा)</small>  
