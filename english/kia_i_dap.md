@@ -57,6 +57,11 @@ The "family tree" of Pandunia is presented in the figure below.
 ![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
 
 
+#### Who made Pandunia?
+
+The main creator of Pandunia is _Risto Kupsala_, a Finn who wants to help the world communicate better. People from many countries have helped over the years.
+
+
 
 ## Auxiliary language
 
