@@ -9,9 +9,9 @@ Perussäännöt
 2. Sanan painollinen tavu on ennen viimeistä konsonanttia.
 3. Substantiivit (asiansanat) ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
 4. Adjektiivin (laatusanan) paikka on asiansanan edessä tai jäljessä. Adjektiivien yleinen pääte on **-i**.
-    - esim. **bon pan** = Hyvää leipää. **pan bon** = Leipää hyvää.
+    - esim. **bon pang** = Hyvää leipää. **pang bon** = Leipää hyvää.
 5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia substantiiveja peräkkäin. Tärkein sana on viimeisenä.
-    - esim. **poste sanduk** = postilaatikko
+    - esim. **poste sanduke** = postilaatikko
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Tällöin verbin pääte on **-a**.
     - esim. **mi penta meza.** = Minä maalaan pöytiä.
 7. Passiivisen lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
@@ -19,7 +19,7 @@ Perussäännöt
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
     - esim. **mi cing tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Osaatko sinä panduniaa?
+    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Puhutko sinä panduniaa?
     - **mi cing tu loga ming.** →  **cing loga ming.** = Pyydän, puhu selvästi.
 
 
@@ -31,12 +31,22 @@ Perussäännöt
 
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
-> **batu** - kivi tai kiviä  
-> **meza** - pöytä tai pöytiä  
-> **kursi** - tuoli tai tuoleja  
+> **batu''** - kivi tai kiviä  
+> **meza'** - pöytä tai pöytiä  
+> **kurse** - tuoli tai tuoleja  
 > **suy** - vesi, vettä  
 
 Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **surya** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **luna** maapallon ainoaa kuuta.
+
+### 2.2. Luku
+
+Substantiiveilla on sama muoto yksikössä ja monikossa.
+
+Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
+
+> **batu'' batu''** - kiviä, paljon kiviä  
+> **tara' tara'** - tähtiä, paljon tähtiä  
+
 
 ### 2.3. Suku
 
@@ -50,7 +60,7 @@ Kaksi tai useampia substantiiveja voidaan liittää yhdyssanaksi. Yhdyssanan vii
 
 > **surya guang** - auringon valo  
 > **luna guang** - kuun valo  
-> **luna batu** - kuukivi  
+> **luna batu''** - kuukivi  
 
 --------------------------------------------------------------------------------
 
@@ -64,19 +74,19 @@ Määre on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyv�
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-> **day batu** - iso kivi  
-> **day meza** - iso pöytä  
-> **gaw meza** - korkea pöytä  
-> **bon kursi.** - hyvä tuoli
+> **day batu''** - iso kivi  
+> **day meza'** - iso pöytä  
+> **gaw meza'** - korkea pöytä  
+> **bon kurse.** - hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-> **batu day** - kivi iso _tai_ Kivi on iso.  
-> **meza gaw** - pöytä korkea _tai_ Pöytä on korkea.
+> **batu'' day** - kivi iso _tai_ Kivi on iso.  
+> **meza' gaw** - pöytä korkea _tai_ Pöytä on korkea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-> **day meza gaw.** - Iso pöytä on korkea.
+> **day meza' gaw.** - Iso pöytä on korkea.
 
 #### 3.1.3. Adjektiivin päätteet
 
@@ -122,15 +132,15 @@ Lukusanat
 
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
-> **un tara** - yksi tähti  
-> **do tara** - kaksi tähteä  
-> **sam tara** - kolme tähteä  
-> **xaw tara** - vähän tähtiä  
-> **poli tara** - useita tähtiä  
-> **multi tara** - paljon tähtiä  
+> **un tara'** - yksi tähti  
+> **do tara'** - kaksi tähteä  
+> **sam tara'** - kolme tähteä  
+> **xaw tara'** - vähän tähtiä  
+> **poli tara'** - useita tähtiä  
+> **multi tara'** - paljon tähtiä  
 
 
-> **un day meza** - yksi iso pöytä  
+> **un day meza'** - yksi iso pöytä  
 > **do day kursi** - kaksi isoa tuolia  
 > **sam bon kursi** - kolme hyvää tuolia
 
@@ -151,7 +161,7 @@ Perusluvut ovat:
 - 6 **sis**
 - 7 **set**
 - 8 **bat**
-- 9 **noi**
+- 9 **noy**
 
 Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään – ihan samalla tavalla kuin ne kirjoitetaan matematiikan universaalilla kielellä.
 
@@ -203,28 +213,155 @@ Refleksiivipronominia **se** käytetään sellaisenaan kaikissa persoonissa.
 **mimen wida se.** - Me näemme itsemme.
 
 
-### Osoittava pronomini
+### 5.2. Osoittavat pronominit
 
-Panduniassa on yksi yleiskäyttöinen osoittava pronomini eli demonstratiivipronomini. Se on **sa**. Se vastaa suomen tätä, tuota ja sitä.
+Osoittavat pronominit ovat:
+
+**ce** - tämä  
+**le** - tuo  
+
+> **mi wola ce.** - Minä haluan tämän.
+
+I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.
+
+> **ci maw** - tämä kissa  
+> **li maw.** - tuo kissa
 
 
-Osoittavat pronomonit ovat laatusanan kaltaisia
+### 5.3. Kysymyspronominit
 
-> **sa batu.** - Tämä kivi.
-> **sa si batu.** - Tämä on kivi.
-> **sa batu cung.** - Tämä kivi painaa.
-
-
-### Kysymyspronomini
-
-**Ke** on yleiskäyttöinen kysymyspronomini. Se vastaa suomen sanoja _mikä, kuka_ ja _kumpi_.
+**Ke** on yleiskäyttöinen kysymyspronomini. Se vastaa suomen sanoja _mikä_ ja _kuka_.
 
 > **ke?** - Mikä?
-> **ke ting?** - Mikä esine?
-> **ke jen?** - Kuka? (Mikä henkilö?)  
-> **ke sat?** - Milloin? (Mikä hetki?)
-> **ke yang?** - Miten? (Mikä tapa?)
-> **ke koz?** - Miksi? (Mikä syy?)  
+
+Adjektiivimuotoa **ki** käytetään kysymään _mikä_ tai _kumpi_.
+> **ki xey?** - Mikä esine?
+> **ki ren?** - Kuka? (Mikä henkilö?)  
+> **ki zaman?** - Milloin? (Mikä hetki?)
+> **ki yang?** - Miten? (Mikä tapa?)
+
+
+
+--------------------------------------------------------------------------------
+
+## 6. Verbit
+
+#### 6.1. Yleistä
+
+Verbi tarkoittaa tekemistä tai tapahtumista, esim. syödä, puhua, katsoa, ajatella.
+
+Panduniassa verbejä on kahta lajia: a-päätteisiä verbejä ja u-päätteisiä verbejä. Pääte ratkaisee sanajärjestyksen lauseenosien eli subjektin ja objektin suhteen.
+
+#### 6.2. A-päätteiset verbit
+
+A-päätteiset verbit seuraavat tätä kolmiomaista kaavaa.
+
+      V
+     ↗ ↘
+    S ← O
+
+#### 6.2.1. SVO-järjestys
+
+Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sanajärjestyksessä siis subjekti tulee ensin, sitten verbi ja viimeisenä objekti.
+
+    subjekti-verbi-objekti
+    
+      V
+     ↗ ↘
+    S   O
+
+Esimerkkejä:  
+**mi wida yemen.** - Minä näen heidät.  
+**tu baka pang.** - Sinä leivot leipää.  
+
+#### 6.2.2. OSV-järjestys
+
+Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulauseissa.
+
+    objekti-subjekti-verbi
+    
+      V
+     ↗ 
+    S ← O
+
+Esimerkkejä:  
+**ke tu wida?** - Mitä sinä näet?  
+**mi nyama pang, jo tu baka.** - Minä syön leipää _jonka sinä leivoit._
+
+#### 6.2.3. VOS-järjestys
+
+Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
+
+    verbi-objekti-subjekti
+    
+      V
+       ↘
+    S ← O
+
+Esimerkkejä:  
+**nyama pang mi.** - Syön leipää minä.  
+**wida mi tu.** - Näet minut sinä.
+
+
+#### 6.3. U-päätteiset verbit
+
+U-päätteiset verbit seuraavat tätä kolmiomaista kaavaa.
+
+      V
+     ↗ ↘
+    O ← S
+
+#### 6.3.1. SOV-järjestys
+
+SOV on usein käytetty vaihtoehto SVO-järjestykselle.
+
+    subjekti-objekti-verbi
+    
+      V
+     ↗ 
+    O ← S
+
+Esimerkkejä:  
+**mi yemen widu.** - _Minä heidät näen._  
+**tu pang baku.** - _Sinä leipää leivot._
+
+#### 6.3.2. OVS-järjestys
+
+OVS on yleinen "passiivissa" lauseissa.
+
+    objekti-verbi-subjekti
+    
+      V
+     ↗ ↘
+    O   S
+
+Esimerkkejä:  
+**pang baku tu.** - Leipää leivot sinä.  
+**pang baku.** - Leipää leivotaan.  
+**tu widu mi.** - Sinut näen minä.  
+**tu widu.** - Sinut nähdään.
+
+#### 6.3.3. VSO-järjestys
+
+VSO-järjestys on harvinainen mutta mahdollinen.
+
+    verbi-subjekti-objekti
+    
+      V
+       ↘
+    O ← S
+
+### 6.3. Passiivilauseet
+
+Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
+
+> **mi widu.** - Minut nähdään.  
+> **pang baku.** - Leipää leivotaan.  
+> **kupe kaputu.** - Kuppi särkyy. (Kuppi särjetään.)
+
+### 6.4. Verbin päätteet
+
+Useimpien verbien päätteenä on **-a** tai **-u**. Muutama verbi päättyy konsonanttiin.
 
 
 
@@ -236,27 +373,27 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 
 > **mi bon.** - Minä olen hyvä.
 > **sara bon.** - Sara on hyvä.
-> **batu cung.** - Kivi on painava. (Kivi painaa.)
+> **batu' cung.** - Kivi on painava. (Kivi painaa.)
 
 Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 
 > **ye sara.** - Hän on Sara.
-> **ye batu.** - Se on kivi.
+> **ye batu'.** - Se on kivi.
 
 Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **si** sopii tähän tarkoitukseen.
 
 > **ye si sara.** - Hän on Sara.
 > **ye si mi.** - Se on minä.
-> **sa si batu.** - Tuo on kivi.
-> **batu si ting.** - Kivi on esine.
+> **le si batu'.** - Tuo on kivi.
+> **batu' si ting.** - Kivi on esine.
 > **jowan si sundar.** - Nuori on kaunista.
 
-Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu ya ting**, kivi on esine.
+Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu' ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu' ya ting**, kivi on esine.
 
 Kieltolauseissa käytetään sanaa **no** (ei).
 
 > **mi no tu.** - Minä en ole sinä.
-> **batu no hewan.** - Kivi ei ole eläin.
+> **batu' no hewan.** - Kivi ei ole eläin.
 > **jowan no sundar.** - Nuori ei ole kaunista.
 
 

@@ -3,8 +3,8 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
+    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z '
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -27,6 +27,7 @@ Konsonantit
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h     ng
+    '
 
 Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t** ääntäminen on tuttua ja helppoa.
 
@@ -39,6 +40,7 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
+- **'** on ns. glottaaliklusiili eli sama äänne, joka esiintyy virkkeen "Anna olla!" sanojen välissä.
 
 
 ### Sanojen painotus
@@ -48,6 +50,10 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
 1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máu, cíng.
 2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
 3. Vokaaliloppuisen sanan paino on toiseksi tai kolmanneksi viimeisellä tavulla. Esim. nówi, dúnia
+
+> **dúnia sí mimén da sundár planéte.**  
+> **mí wól lóga komún báxa, yé sí pandúnia.**  
+> **yé nó báta batá'.**
 
 
 ### Švaa
