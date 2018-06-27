@@ -47,8 +47,8 @@ These are the 11 basic rules of Pandunia language.
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu** - a stone, stones, the stone or the stones  
-> **meza** - a table, tables, the table or the tables  
+> **batu''** - a stone, stones, the stone or the stones  
+> **meza'** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
 
@@ -60,8 +60,8 @@ Nouns are unaffected by number, i.e. nouns have the same form in singular and pl
 
 An easy way to emphasize plurality is to repeat the noun.
 
-> **batu batu** - stones, lots of stones  
-> **tara tara** - stars, lots of stars  
+> **batu' batu'** - stones, lots of stones  
+> **tara' tara'** - stars, lots of stars  
 
 ### 2.3. Gender
 
@@ -75,7 +75,7 @@ Two or more nouns can be put together to make a compound word. The last word is 
 
 > **surya guang** - sunlight  
 > **luna guang** - moonlight  
-> **luna batu** - moonstone
+> **luna batu'** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -87,19 +87,19 @@ A modifier is a word that adds some quality or description to the thing denoted 
 
 An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
-> **day batu** - big stone
-> **day meza** - big table  
-> **gaw meza** - high table
+> **day batu'** - big stone
+> **day meza'** - big table  
+> **gaw meza'** - high table
 > **bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batu day.** - The stone is big.  
-> **meza gaw.** - The table is high.
+> **batu' day.** - The stone is big.  
+> **meza' gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meza gaw.** - Big table is high.
+> **day meza' gaw.** - Big table is high.
 
 
 ### 3.2 Modifying a verb
@@ -160,14 +160,14 @@ Sometimes it is known from the context how many objects are spoken about. For ex
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
-> **un tara** - one star  
-> **do tara** - two stars  
-> **sam tara** - three stars  
-> **poli tara** - several stars (two or more)  
-> **xaw tara** - few stars
-> **multi tara** - many stars
+> **un tara'** - one star  
+> **do tara'** - two stars  
+> **sam tara'** - three stars  
+> **xaw tara'** - few stars
+> **poli tara'** - several stars (two or more)  
+> **multi tara'** - many stars
 
-> **un day meza** - one big table  
+> **un day meza'** - one big table  
 > **do day kurse** - two big chairs  
 > **sam bon kurse** - three good chairs
 
@@ -241,31 +241,31 @@ Note! The reflexive pronoun **se** is used for all persons, so it corresponds to
 
 ### 5.2. Demonstrative pronouns
 
-**li** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
+The demonstrative pronouns are:
 
-The distance to the speaker can be specified by adding words **jin** (near) and **tel** (far), if needed.
+**ce** - this one  
+**le** - that one  
 
-**li** - this or that  
-**li jin** - this over here  
-**li tel** - that over there  
+> **mi wola ce.** - I want this one.
 
-The demonstrative pronouns work like modifiers.
+They end in **-i** when they function as adjectives i.e. when they come before a noun.
 
-> **li batu.** - That stone  
-> **li si batu.** - That is a stone.  
-> **li batu cung.** - That stone is heavy.  
+> **ci maw** - This cat  
+> **li maw.** - That cat  
 
 
-### 5.3. Interrogative pronoun
+### 5.3. Interrogative pronouns
 
-**ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
+**ke** is a general-purpose interrogative pronoun. It does the job of English words _who_ and _what_.
 
 > **ke?** - Who or what?  
-> **ke xe?** - What? (Which thing?)  
-> **ke ren?** - Who? (Which person?)  
-> **ke zaman?** - When? (What time?)  
-> **ke yang?** - How? (What manner?)  
-> **ke koz?** - Why? (What cause?)  
+
+The adjectival interrogative pronoun is **ki** and it meanst the same as English _which_.
+
+> **ki xey?** - What? (Which thing?)  
+> **ki ren?** - Who? (Which person?)  
+> **ki zaman?** - When? (What time?)  
+> **ki yang?** - How? (What manner?)  
 
 --------------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ The most common word order in Pandunia is subject-verb-object (SVO). In this sen
 
 Examples:  
 **mi wida yemen.** - I see them.  
-**tu baka pan.** - You bake bread.  
+**tu baka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -311,7 +311,9 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
      ↗ 
     S ← O
 
-For example: **mi nyama pan, jo tu baka.** - I eat bread _that you baked._
+Examples:  
+**ke tu wida?** - What do you see?  
+**mi nyama pang, jo tu baka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -347,7 +349,7 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **mi yemen widu.** - _I them see._  
-**tu pan baku.** - _You bread bake._
+**tu pang baku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -360,8 +362,8 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**pan baku tu.** - Bread is baked by you.  
-**tu suku mi.** - You are delighted by mi.
+**pang baku tu.** - Bread is baked by you.  
+**tu suku mi.** - You are pleased by me.
 
 #### 6.3.3. VSO order
 
@@ -378,8 +380,8 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e. agent).
 
 > **mi widu.** - I am seen.  
-> **pan baku.** - Bread is baked.  
-> **kop kaputu.** - Cup breaks. (Cup gets broken.)
+> **pang baku.** - Bread is baked.  
+> **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
 
@@ -396,7 +398,7 @@ Most verbs end in **-a** and **-u**. A handful of verbs are without a standard e
 
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
-> **mau!** - A cat!  
+> **maw!** - A cat!  
 > **pluva!** - (It) rains!  
 
 
@@ -470,7 +472,7 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **pan baku.** - Bread is baked.  
+> **pang baku.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
@@ -486,7 +488,7 @@ In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
 > **auda musike.** - Listening music.  
-> **baka pan.** - Baking bread.
+> **baka pang.** - Baking bread.
 
 
 #### 7.5. All Possible Word Orders
@@ -558,9 +560,9 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 2. **u** or (connects two alternative words or phrases)
 3. **a** - but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-> **mi suku mau i waf.** - I like cats and dogs.  
-> **mi suku mau u waf.** - I like cats or dogs.  
-> **mi suku mau a no waf.** - I like cats but not dogs.
+> **mi suku maw i waf.** - I like cats and dogs.  
+> **mi suku maw u waf.** - I like cats or dogs.  
+> **mi suku maw a no waf.** - I like cats but not dogs.
 
 --------------------------------------------------------------------------------
 
@@ -673,9 +675,9 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **zay** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
 
-> **mi ada mau pas.** - I had cats in the past.
-> **a mi no ada mau zay.** - But I don't have cats now.
-> **munkin mi ada mau futur.** - Maybe I have cats in the future.
+> **mi ada maw pas.** - I had cats in the past.
+> **a mi no ada maw zay.** - But I don't have cats now.
+> **munkin mi ada maw futur.** - Maybe I have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **ada** stayed the same in all tenses in the examples above.
 
@@ -731,8 +733,8 @@ I speak with friends in Pandunia in telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-> **mi kata pan.** - I cut bread.  
-> **mi kata pan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+> **mi kata pang.** - I cut bread.  
+> **mi kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 > **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
