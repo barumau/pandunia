@@ -47,20 +47,13 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
 Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
-1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máu, cíng.
-2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
-3. Vokaaliloppuisen sanan paino on toiseksi tai kolmanneksi viimeisellä tavulla. Esim. nówi, dúnia
+1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máw, cíng.
+2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís, barú'.
+3. Vokaaliloppuisen sanan paino on toiseksiviimeisellä tavulla. Esim. nówi, dúnia, musíke.
 
 > **dúnia sí mimén da sundár planéte.**  
 > **mí wól lóga komún báxa, yé sí pandúnia.**  
 > **yé nó báta batá'.**
-
-
-### Švaa
-
-Švaa on lyhyt, painoton ja neutraali vokaali. Jotkut puhujat käyttävät sitä helpottamaan konsonanttiloppuisten sanojen ääntämistä. Se on täysin sallittua. Švaata ei merkitä panduniassa millään tavalla, koska se on vain puhutun kielen ilmiö, mutta käytämme tässä äänteen merkkinä ə-kirjainta.
-
-Esimerkiksi jotkut voisivat ääntää sanat **sam** ja **kop** tällä tavalla: /samə/, /kopə/. Švaan lisääminen on parempi tapa kuin viimeisen konsonantin nielaiseminen, mihin joissakin kielissä on taipumusta. Silloin esim. **kop** ääntyisi kuin /ko/, mikä olisi epäselvää.
 
 
 ## Aakkoslajit

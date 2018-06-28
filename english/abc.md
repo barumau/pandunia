@@ -52,22 +52,13 @@ The following consonants are pronounced differently in Pandunia than in English.
 
 The stress is on the syllable, which is before the last consonant.
 
-1. Words with only one syllable carry the stress. Ex. máu, cíng.
+1. Words with only one syllable carry the stress. Ex. máw, cíng.
 2. The stress is on the last syllable in words that end with a consonant. Ex. komún, bazár, kamís, barú'.
-3. The stress is on the second last syllable in words that end with a vowel. Ex. dúnia, melódi
+3. The stress is on the second last syllable in words that end with a vowel. Ex. nówi, dúnia, musíke.
 
 > **dúnia sí mimén da sundár planéte.**  
 > **mí wól lóga komún báxa, yé sí pandúnia.**  
 > **yé nó báta batá'.**
-
-
-### Schwa
-
-Schwa is a short, unstressed and neutral vowel, which can be added after a consonant to make pronunciation easier in spoken language. It is never written in Pandunia. However, the symbol /ə/ is used for the schwa in the International Phonetic Alphabet.
-
-For example, some people can ease the pronunciation of words like **sam** and **kop**, which end in consonants, by adding a schwa sound in the end like this /samə/, /kopə/. If words like that are difficult to you, it's better to add a schwa than to "swallow" the last consonant.
-
-The schwa is always unstressed and it doesn't ever change the place of the stress.
 
 
 ## Letter Case
