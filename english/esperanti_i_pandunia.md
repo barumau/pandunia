@@ -64,7 +64,7 @@ Pandunia acknowledges that there are many stocks of international words: Western
 
 ## Word class marking
 
-Simple word class marking with final vowels is an ingenious idea and it fits well with the Indo-European root-and-suffix word pattern. Unfortunately it becomes troublesome and irritating when it has to be applied to _all_ words, especially proper names and non-Western words.
+Simple word class marking with final vowels is an ingenious idea and it fits well with the Indo-European root-and-suffix word pattern. But what about words that don't use this pattern?
 
 ### Importing nouns to Esperanto
 
@@ -78,7 +78,7 @@ For most people method 1 sounds fine, and methods 2 and 3 sound less pleasing.
 
 This issue becomes a real problem when names are imported to Esperanto. Is it possible to transfer similar names like Mary, Maria and Mario to Esperanto so that they remain distinct? It seems like no. Normally Mary and Maria are written "Maria" in Esperanto – though -a is officially an adjective ending!
 
-### Nouns in Pandunia
+### Importing nouns to Pandunia
 
 In Pandunia nouns end in -e or they don't have any ending at all. In general -e is used after roots that are difficult to pronounce without it.
 
@@ -91,9 +91,7 @@ The apostrophe moves the stress accent to the last vowel, so the difference is p
 With this solution all kinds of words can be imported to Pandunia without making any dramatic changes to them.
 
 
-## Roots and word classes
-
-### Inherent root classes in Esperanto
+### Esperanto roots have inherent word class
 
 One of the most confusing things in Esperanto is that, while it has separate word class markers, the roots belong to word classes already! What's confusing is that roots, which belong to the same category, can belong to different word classes. 
 
@@ -109,7 +107,7 @@ For example blua (blue) and malferma (open) are adjectives, but the root blu- is
 |                    | malfermita = open(ed) | naskita = born        |
 
 
-### Classless roots in Pandunia
+### Pandunia roots are classless
 
 The roots are classless in Pandunia, so there's no need to memorize whether for example kay- (open) is basically a verb or an adjective. Word class is added by adding the appropriate ending: -i for adjectives or stative verbs, -a for active verbs and -u for passive verbs.
 
