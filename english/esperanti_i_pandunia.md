@@ -6,6 +6,7 @@ Esperanto has been the leading constructed auxiliary language for over a century
 Esperanto has been criticized over the years. Many of the recurring points of critique are included in Justin B. Rye's article [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). It has been replied in detail by [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) and more broadly by [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm) among many others.
 
 Despite all the critique, Esperanto has its merits and its relative success among auxiliary languages is undeniable.
+But does it really deserve its success? Is Esperanto really an ideal world language?
 
 
 
@@ -65,7 +66,7 @@ Pandunia acknowledges that there are many stocks of international words: Western
 
 Simple word class marking with final vowels is an ingenious idea and it fits well with the Indo-European root-and-suffix word pattern. Unfortunately it becomes troublesome and irritating when it has to be applied to _all_ words, especially proper names and non-Western words.
 
-### Mess in Esperanto
+### Importing nouns to Esperanto
 
 In Esperanto nouns end in -o. There are three methods how the ending is added:
 
@@ -77,7 +78,7 @@ For most people method 1 sounds fine, and methods 2 and 3 sound less pleasing.
 
 This issue becomes a real problem when names are imported to Esperanto. Is it possible to transfer similar names like Mary, Maria and Mario to Esperanto so that they remain distinct? It seems like no. Normally Mary and Maria are written "Maria" in Esperanto – though -a is officially an adjective ending!
 
-### Solution in Pandunia
+### Nouns in Pandunia
 
 In Pandunia nouns end in -e or they don't have any ending at all. In general -e is used after roots that are difficult to pronounce without it.
 
@@ -88,6 +89,33 @@ In Pandunia nouns end in -e or they don't have any ending at all. In general -e 
 The apostrophe moves the stress accent to the last vowel, so the difference is present both in written and in spoken language.
 
 With this solution all kinds of words can be imported to Pandunia without making any dramatic changes to them.
+
+
+## Roots and word classes
+
+### Inherent root classes in Esperanto
+
+One of the most confusing things in Esperanto is that, while it has separate word class markers, the roots belong to word classes already! What's confusing is that roots, which belong to the same category, can belong to different word classes. 
+
+For example blua (blue) and malferma (open) are adjectives, but the root blu- is an adjective while the root malferm- is a verb. This results into weird asymmetries in word derivation.
+
+| blu-               | malferm-              |
+|:-------------------|:----------------------|
+| blua = blue        | malferma = open       |
+| blui = be blue     | malfermi = make open  |
+| bluigi = make blue | malfermigi = make sb. open smth. |
+| bluiĝi = get blue  | malfermiĝi = get open |
+
+
+### Classless roots in Pandunia
+
+The roots are classless in Pandunia, so there's no need to memorize whether for example kay- (open) is basically a verb or an adjective. Word class is added by adding the appropriate ending: -i for adjectives, -a for active verbs and -u for passive verbs.
+
+| nil-               | kay-              |
+|:-------------------|:------------------|
+| nili = (be) blue   | kayi = (be) open  |
+| nila = make blue   | kaya = make open  |
+| nilu = get blue    | kayu = get open   |
 
 
 
