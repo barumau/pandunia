@@ -97,25 +97,27 @@ With this solution all kinds of words can be imported to Pandunia without making
 
 One of the most confusing things in Esperanto is that, while it has separate word class markers, the roots belong to word classes already! What's confusing is that roots, which belong to the same category, can belong to different word classes. 
 
-For example blua (blue) and malferma (open) are adjectives, but the root blu- is an adjective while the root malferm- is a verb. This results into weird asymmetries in word derivation.
+For example blua (blue) and malferma (open) are adjectives, but the root blu- is an adjective while the root malferm- is a verb. This results into weird asymmetries in word derivation. Additional asymmetry is caused by unsystematic handling of the thematic roles, which is illustrated by the root nask- (birth).
 
-| blu-               | malferm-              |
-|:-------------------|:----------------------|
-| blua = blue        | malferma = open       |
-| blui = be blue     | malfermi = make open  |
-| bluigi = make blue | malfermigi = make sb. open smth. |
-| bluiĝi = get blue  | malfermiĝi = get open |
+| blu-               | malferm-              | nask-                 |
+|:-------------------|:----------------------|:----------------------|
+| blua = blue        | malferma = open(ed)   | naska = birth-        |
+| blui = be blue     | -                     | -                     |
+| -                  | malfermi = make open  | naski = give birth    |
+| bluigi = make blue | -                     | -                     |
+| bluiĝi = get blue  | malfermiĝi = get open | naskiĝi = be/get born |
+|                    | malfermita = open(ed) | naskita = born        |
 
 
 ### Classless roots in Pandunia
 
-The roots are classless in Pandunia, so there's no need to memorize whether for example kay- (open) is basically a verb or an adjective. Word class is added by adding the appropriate ending: -i for adjectives, -a for active verbs and -u for passive verbs.
+The roots are classless in Pandunia, so there's no need to memorize whether for example kay- (open) is basically a verb or an adjective. Word class is added by adding the appropriate ending: -i for adjectives or stative verbs, -a for active verbs and -u for passive verbs.
 
-| nil-               | kay-              |
-|:-------------------|:------------------|
-| nili = (be) blue   | kayi = (be) open  |
-| nila = make blue   | kaya = make open  |
-| nilu = get blue    | kayu = get open   |
+| nil-               | kay-              | jen-               |
+|:-------------------|:------------------|:-------------------|
+| nili = (be) blue   | kayi = (be) open  | jeni = born        |
+| nila = make blue   | kaya = make open  | jena = give birth  |
+| nilu = get blue    | kayu = get open   | jenu = be/get born |
 
 
 
