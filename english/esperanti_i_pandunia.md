@@ -1,0 +1,68 @@
+# Esperanto vs. Pandunia
+
+Esperanto has been the leading constructed auxiliary language for over a century since the 1890s. That's why all new auxiliary languages are rightfully compared to it.
+
+
+Esperanto has been criticized over the years. Many of the recurring points of critique are included in Justin B. Rye's article [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). It has been replied in detail by [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) and more broadly by [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm) among many others.
+
+Despite all the critique, Esperanto has its merits and its relative success among auxiliary languages is undeniable.
+
+
+## Is Pandunia like Esperanto?
+
+Many languages have been created in attempt to improve over Esperanto but they have failed to surpass it in popularity. Why?
+
+First of all, Esperanto is not too bad. Many people find it easy and it satisfies their need for international friendship and communication. So, in fact, many defects of Esperanto are subjective opinions of the critics and consequently the "improvements" don't please everybody.
+
+There are objective defects in Esperanto. However the improvements are usually so small that they don't make any real difference. Actually Esperanto and most other Western auxiliary languages are pretty much the same. They have largely the same vocabulary (with minor differences) and they have in common many of the so called _Standard Average European_ features of grammar.
+
+1. Word class is defined by suffixes. Verbs, nouns, adjectives and adverbs have their specific endings.
+2. Nouns (or at least pronouns) are inflected for cases such as nominative, dative and accusative.
+3. Verbs are inflected for tense, person and/or number.
+4. There are definite and/or indefinite articles.
+5. Singular and plural forms are separate. The plural form is used redundantly also after numerals. For example in English "one cat, two cats" and in Esperanto "unu kato, du katoj".
+6. Prepositions are used instead of postpositions.
+7. There is a specific polite form for 2nd person singular pronoun.
+8. There are separate gender-specific 3rd person singular pronouns.
+9. The perfect tense is made up of _to have_ or _to be_ and a participle. For example in English "I have talked." and in Esperanto "Mi estas parolinta."
+10. The passive is made up of _to be_ and a participle. For example in English "I am seen." and in Esperanto "Mi estas vidita."
+11. The word order is inverted in questions.
+
+Both English and Esperanto have all of the above except number 7. Ido, Novial and Interlingua have all of them. In contrast for example Chinese doesn't have any of them except number 8, which is apparent only in the written language – because of Western influence! (In Chinese there are three characters for the 3rd person singular 他 (he), 她 (she) and 它 (it) but all of them are pronounced the same, "tā".)
+
+Standard Average European features are not bad just because they imply Western bias. Some (not all) of them are bad because they are illogical or simply difficult. Many learners stumble with articles and "difficult" personal pronouns because they are not used to such things in their native language. The world language should be free of such unnecessary features.
+
+Pandunia has only feature number 1: _Word class is defined by suffixes._ It is also a main feature of Esperanto. But otherwise Pandunia diverges greatly from Esperanto in particular and from Standard Average European grammar in general. So grammar-wise Pandunia is nothing like Esperanto.
+
+
+
+## Word class marking
+
+Simple word class marking with final vowels is an ingenious idea and it fits well with the Indo-European root-and-suffix word pattern. Unfortunately it becomes troublesome and irritating when it has to be applied to _all_ words, especially proper names and non-Western words.
+
+### Solution in Esperanto
+
+In Esperanto nouns end in -o. There are three methods how the ending is added:
+
+1. Add the ending to root that already ends in a consonant. Ex. birdo (bird), boato (boat), koro (core, heart), supo (soup), problemo (problem).
+2. Add the ending and keep the final vowel as part of the root. Ex. sufleo (soufflé), kopio (copy), heroo (hero), ŝampuo (shampoo).
+3. Replace the original final vowel with -o. Ex. sofo (sofa), ĉimpanzo (chimpanzee), zebro (zebra).
+
+For most people method 1 sounds fine, and methods 2 and 3 sound less pleasing.
+
+This issue becomes a real problem when names are imported to Esperanto. Is it possible to transfer similar names like Mary, Maria and Mario to Esperanto so that they remain distinct? It seems like no. Normally Mary and Maria are written "Maria" in Esperanto – though -a is officially an adjective ending!
+
+### Solution in Pandunia
+
+In Pandunia nouns end in -e or they don't have any ending at all. In general -e is used after roots that are difficult to pronounce without it.
+
+1. Add no ending to roots that are universally easy to pronounce. Ex. problem (problem).
+2. Add ending -e to roots that end in more difficult consonants. Ex. bote (boat), supe (soup), sufle (soufflé).
+3. Add apostrophe (i.e. glottal stop) to roots that end in an inseparable vowel. Ex. hero' (hero), xampu' (shampoo), sofa', zebra'.
+
+The apostrophe moves the stress accent to the last vowel, so the difference is present both in written and in spoken language.
+
+With this solution all kinds of words can be imported to Pandunia without making any dramatic changes to them.
+
+
+
