@@ -8,13 +8,29 @@ Esperanto has been criticized over the years. Many of the recurring points of cr
 Despite all the critique, Esperanto has its merits and its relative success among auxiliary languages is undeniable.
 
 
-## Is Pandunia like Esperanto?
 
-Many languages have been created in attempt to improve over Esperanto but they have failed to surpass it in popularity. Why?
+## Alphabet
 
-First of all, Esperanto is not too bad. Many people find it easy and it satisfies their need for international friendship and communication. So, in fact, many defects of Esperanto are subjective opinions of the critics and consequently the "improvements" don't please everybody.
+The alphabet of Esperanto is as follows:
 
-There are objective defects in Esperanto. However the improvements are usually so small that they don't make any real difference. Actually Esperanto and most other Western auxiliary languages are pretty much the same. They have largely the same vocabulary (with minor differences) and they have in common many of the so called _Standard Average European_ features of grammar.
+    A B C Ĉ D E F G Ĝ H Ĥ I J Ĵ K L M N O P R S Ŝ T U Ŭ V Z
+    a b c ĉ d e f g ĝ h ĥ i j ĵ k l m n o p r s ŝ t u ŭ v z
+
+People often criticize the letters with "hats" because they are not included in the standard keyboards of typewriters, computers and smart devices. It is an obvious shortcoming.
+
+What is often overlooked is that there are two sets of letters: big letters and small letters. It's like using two hammers to hit one nail. European alphabets (Latin, Greek and Cyrillic) have developed this kind of double symbols. Most of the other writing systems get by with only one set of letter-forms.
+
+The alphabet of Pandunia uses only the small Basic Latin letters.
+
+    a b c d e f g h i j k l m n o p r s t u w x y z '
+
+
+
+## Eurocentrism
+
+### Eurocentric grammar
+
+Esperanto and most other Western auxiliary languages are pretty much the same. They have largely the same Western European vocabulary (with minor differences) and they have in common many of the so called _Standard Average European_ features of grammar, that are shared by French, English, German, Spanish and other languages from West and Central Europe.
 
 1. Word class is defined by suffixes. Verbs, nouns, adjectives and adverbs have their specific endings.
 2. Nouns (or at least pronouns) are inflected for cases such as nominative, dative and accusative.
@@ -32,7 +48,16 @@ Both English and Esperanto have all of the above except number 7. Ido, Novial an
 
 Standard Average European features are not bad just because they imply Western bias. Some (not all) of them are bad because they are illogical or simply difficult. Many learners stumble with articles and "difficult" personal pronouns because they are not used to such things in their native language. The world language should be free of such unnecessary features.
 
-Pandunia has only feature number 1: _Word class is defined by suffixes._ It is also a main feature of Esperanto. But otherwise Pandunia diverges greatly from Esperanto in particular and from Standard Average European grammar in general. So grammar-wise Pandunia is nothing like Esperanto.
+Pandunia has only feature number 1: _Word class is defined by suffixes._ It is also a main feature of Esperanto. But otherwise Pandunia diverges greatly from Esperanto in particular and from Standard Average European grammar in general. So grammar-wise Pandunia is not Eurocentric like Esperanto.
+
+
+### International Vocabulary?
+
+Esperanto boasts with its international vocabulary. At a closer look it's not so international. Most Esperanto words come from Western languages. Esperanto chooses a European word even when no international Western word can be found. Such words are birdo (bird, only in English), vosto (tail, from Russian хвост) and knabo (boy, from German Knabe).
+
+Isn't it arrogant to create a language for the world without looking beyond your own neighbourhood? It was in the spirit of the time, the time of colonialism, when Esperanto was created.
+
+Pandunia acknowledges that there are many stocks of international words: Western, Indian, Sinitic and Perso-Arabic being the major ones. Hundreds of words are borrowed from each of them. Pandunia's vocabulary is evenly global.
 
 
 
@@ -40,7 +65,7 @@ Pandunia has only feature number 1: _Word class is defined by suffixes._ It is a
 
 Simple word class marking with final vowels is an ingenious idea and it fits well with the Indo-European root-and-suffix word pattern. Unfortunately it becomes troublesome and irritating when it has to be applied to _all_ words, especially proper names and non-Western words.
 
-### Solution in Esperanto
+### Mess in Esperanto
 
 In Esperanto nouns end in -o. There are three methods how the ending is added:
 
@@ -58,7 +83,7 @@ In Pandunia nouns end in -e or they don't have any ending at all. In general -e 
 
 1. Add no ending to roots that are universally easy to pronounce. Ex. problem (problem).
 2. Add ending -e to roots that end in more difficult consonants. Ex. bote (boat), supe (soup), sufle (soufflé).
-3. Add apostrophe (i.e. glottal stop) to roots that end in an inseparable vowel. Ex. hero' (hero), xampu' (shampoo), sofa', zebra'.
+3. Add apostrophe (i.e. glottal stop) to roots that end in an inseparable vowel. Ex. hero' (hero), xampu' (shampoo), sofa' (sofa), zebra' (zebra).
 
 The apostrophe moves the stress accent to the last vowel, so the difference is present both in written and in spoken language.
 
