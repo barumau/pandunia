@@ -38,6 +38,7 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 ## Kirjoituksia
 
 - [Maailman yhteyskieli](dunia_pijin.md)
+- [Esperanto vs. pandunia](esperanti_i_pandunia.md)
 - [Esitys panduniasta PDF-muodossa](Diaesitys.pdf)
 
 
