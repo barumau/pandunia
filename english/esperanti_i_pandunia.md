@@ -95,11 +95,11 @@ With this solution all kinds of words can be imported to Pandunia without changi
 
 One of the most confusing things in Esperanto is that, while it has separate word class markers, the roots belong to word classes already! What's even more confusing is that roots, which belong to the same category, can belong to different word classes. 
 
-For example blua (blue) and malferma (open) are adjectives, but the root blu- is an adjective while the root malferm- is a verb. This results into weird asymmetries in word derivation. Additional asymmetry is caused by unsystematic distribution of transitivity in verbs, which is illustrated by the root nask- (birth).
+For example blua (blue) and malferma (opening) are adjectives, but the root blu- is an adjective while the root malferm- is a verb. This results into weird asymmetries in word derivation. Additional asymmetry is caused by unsystematic distribution of transitivity in verbs, which is illustrated by the root nask- (birth).
 
 | blu-               | malferm-              | nask-                 |
 |:-------------------|:----------------------|:----------------------|
-| blua = blue        | malferma = open(ed)   | naska = birth-        |
+| blua = blue        | -                     | naska = birth-        |
 | blui = be blue     | -                     | -                     |
 | -                  | malfermi = make open  | naski = give birth    |
 | bluigi = make blue | -                     | -                     |
