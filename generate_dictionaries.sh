@@ -17,6 +17,7 @@ cat temp/temp2.txt temp/abace.txt > temp/temp.txt
 awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > suomi/suomi-pandunia.md
 sed 's/_//g' -i suomi/suomi-pandunia.md
 sed 's/$/  /' -i suomi/suomi-pandunia.md
+sed 's/$/  /' -i suomi/pandunia-suomi.md
 
 # ze pandunia do ruski
 cat russki/slovar.txt temp/abace.txt > temp/temp.txt
