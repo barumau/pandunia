@@ -2,9 +2,9 @@
 
 Esperanto on ollut suosituin keinotekoinen apukieli jo 1890-luvulta alkaen. Sen johdosta kaikkia uusia apukieliä verrataan itseoikeutetusti siihen.
 
-Esperantoa on myös arvosteltu vuosien varrella runsaastikin. Useimmiten toistuvat kritiikin kohteet luetellaan Justin B. Ryen englanninkielisessä kirjoituksessa [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). Sille ovat kirjoittaneet vastineet mm. [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) ja [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm).
+Esperantoa on myös arvosteltu vuosien varrella runsaastikin. Useimmiten toistuvat ongelmakohdat luetellaan Justin B. Ryen englanninkielisessä kirjoituksessa [Learn Not to Speak Esperanto](http://jbr.me.uk/ranto/index.html). Sille ovat kirjoittaneet vastineet mm. [Vítor De Araújo](https://elmord.org/misc/kontrauranto/) ja [Claude Piron](http://claudepiron.free.fr/articlesenanglais/why.htm).
 
-Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa tärkeimmät arvostelukohdat läpi ja vertaamme esperantoa panduniaan.
+Arvostelusta huolimatta on tunnustettava, että esperantolla on kiistämättömiä ansioita ja se on apukielistä ylivoimaisesti menestynein. Mutta onko se todella ansainnut menestyksensä? Onko esperanto todella ihanteellinen maailmankieli? Käymme tässä kirjoituksessa esperanton merkittävimmät ongelmakohdat läpi ja vertaamme niitä panduniaan.
 
 
 
@@ -98,12 +98,12 @@ Esimerkiksi _blua_ (sininen) ja _malferma_ (avoin) ovat adjektiiveja, mutta vain
 
 | blu-               | malferm-              | nask-                 |
 |:-------------------|:----------------------|:----------------------|
-| blua = sininen     | malferma = auki       | naska = synty-        |
+| blua = sininen     | -                     | naska = synty-        |
 | blui = olla sininen| -                     | -                     |
-| -                  | malfermi = aukaista   | naski = synnyttää     |
+| -                  | malfermi = avata      | naski = synnyttää     |
 | bluigi = sinistää  | -                     | -                     |
 | bluiĝi = sinistyä  | malfermiĝi = aueta    | naskiĝi = syntyä      |
-|                    | malfermita = aukaistu | naskita = syntynyt    |
+|                    | malfermita = avoin    | naskita = syntynyt    |
 
 
 ### Sanavartaloita ilman luokkia
@@ -112,8 +112,8 @@ Panduniassa sanavartalot ovat sanaluokattomia, joten kenenkään ei tarvitse pai
 
 | nil-               | kay-              | jen-               |
 |:-------------------|:------------------|:-------------------|
-| nili = sininen     | kayi = auki       | jeni = syntynyt    |
-| nila = sinistää    | kaya = aukaista   | jena = synnyttää   |
+| nili = sininen     | kayi = avoin      | jeni = syntynyt    |
+| nila = sinistää    | kaya = avata      | jena = synnyttää   |
 | nilu = sinistyä    | kayu = aueta      | jenu = syntyä      |
 
 
