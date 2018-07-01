@@ -3,13 +3,19 @@
 
 [Strona główna](index.md)
 
-[Pismo](abc.md)
+<!---[Info]()
 
-[Rozmówki](jumle.md)
+  * [Wprowadzenie](dunia_baxe.md)
+  * [Zasady projektu](filosof.md)
+  * [Międzynarodowe słowa](dunia_loge.md)
+  * [Pytania i odpowiedzi](kia_i_dap.md)
+  * [Przetłumacz tę stronę](baxa_do_baxa.md)
 
-[Gramatyka](bax_kanun.md)
-
-[Lekcje](darse.md)
+[Lekcje]()
+--->
+  * [Pismo](abc.md)
+  * [Rozmówki](fraze.md)
+<!---  * [Kurs](darse.md)
 
 [Słownik]()
 
@@ -19,7 +25,6 @@
   * [Polski-Pandunia](english-pandunia.md)
   * [Szukaj](tiddly.html)
 
+[Gramatyka](bax_kanun.md)
+--->
 [Filmy](../pandunia/video.md)
-
-[FAQ](kia_i_dap.md)
-
