@@ -262,7 +262,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **mi ada bon dom.** I have a good house.
 
-**ye no ada pesa.** S/he doesn't have money.
+**ye no ada pesa.** He/she doesn't have money.
 
 **mi wol ada nowi fon.** I want to have a new phone.
 
@@ -423,7 +423,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi ken gida gar.** I can drive a car.
 
-**ye no ken gida gar.** S/he doesn't know how to drive a car.
+**ye no ken gida gar.** He/she doesn't know how to drive a car.
 
 **kia tu ken xula ye?** Do you know how to fix it?
 
