@@ -1,9 +1,9 @@
-Uwaga: Polskojęzyczna wersja jest w trakcie tworzenia. Cała i aktualna zawartość witryny jest dostępna w wersji anglojęzycznej
-
 pandunia - prosty międzynarodowy język
 ==================================
 
 ![](http://www.pandunia.info/bander/bander.png "Flaga Panduni")
+
+Uwaga: Polskojęzyczna wersja jest w trakcie tworzenia. Cała i aktualna zawartość witryny jest dostępna w wersji anglojęzycznej
 
 ## Czym jest Pandunia?
 
