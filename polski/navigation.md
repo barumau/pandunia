@@ -7,4 +7,6 @@
 
 [Rozmówki](fraze.md)
 
+[Gramatyka](kanun.md)
+
 [Filmy](../pandunia/video.md)

@@ -1,6 +1,6 @@
 # Pandunia słowo po słowie
 
-### Wprowadzenie
+### Wstęp
 
 Pandunia jest językiem sztucznym zaprojektowanym, by być relatywnie prostym dla każdego. Możesz się jej uczyć szybko tym kursem praktycznym.
 
@@ -140,7 +140,7 @@ Słowo **si** może być używane też do oświadczania, że coś jest faktem. W
 
 **pingo si pal.** Jabłko jest owocem.
 
-Zauważ: Należy użyć **si** w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **pingo pal** (jabłkowy owoc).
+Uwaga: Należy użyć **si** w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **pingo pal** (jabłkowy owoc).
 
 <small>Etymologia. **si** pochodzi z języków: hiszpańskiego: si, portugalskiego: sim, mandaryńskiego: 是 "shì", szanghaiskiego: 是 "sí".</small>
 
@@ -214,7 +214,7 @@ Dodaj **men** do zaimka w liczbie pojedynczej, by zamienić ją na mnogą.
 
 **li pingo ros.** Te jabłko jest czerwone.
 
-Zauważ: Kiedy przymiotnik, jak **ros**, jest  umieszczony przed rzeczownikiem, działa jako przydawka. Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
+Uwaga: Kiedy przymiotnik, jak **ros**, jest  umieszczony przed rzeczownikiem, działa jako przydawka. Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
 
 **ye ros.** Jest czerwone.
 
@@ -230,7 +230,7 @@ Zauważ: Kiedy przymiotnik, jak **ros**, jest  umieszczony przed rzeczownikiem, 
 
 **li si mi da.** To jest moje.
 
-Zauważ: Partykuła dzierżawcza **da** jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi da** znaczy "mój", **tu da** znaczy "twój" i tak dalej.
+Uwaga: Partykuła dzierżawcza **da** jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi da** znaczy "mój", **tu da** znaczy "twój" i tak dalej.
 
 **ye ke?** Kim on/ona jest?
 
@@ -304,7 +304,7 @@ Zauważ: Partykuła dzierżawcza **da** jest umiejscawiana między właściciela
 
 **yemen nyama pingo.** Jedzą jabłka.
 
-Zauważ: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **pingo** mogą się odnosić do jednego lub większej liczby jabłek.
+Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **pingo** mogą się odnosić do jednego lub większej liczby jabłek.
 
 **kia tu nyama kafe?** Czy pijesz kawę?
 
