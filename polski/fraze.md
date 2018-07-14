@@ -724,67 +724,67 @@ Lista słów
 Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na całym świecie. Prawdopodobnie możesz rozpoznać wiele słów Pandunia z języka polskiego i innych znanych ci języków. Zazwyczaj jedno słowo Panduni jest dzielone przez wiele języków. Na przykład, **ma** i **pa** są znane w setkach języków. Jakkolwiek, tylko jedno słowo źródłowe jest umieszczone w tej liście słów jako przykład.
 
 
-**a** ale <small>(rosyjskie _а_)</small>
-**ada** mieć; istnieje <small>(indonezyskie _ada_)</small>
-**bay** biały <small>(mandaryńskie _bái_ 白)</small>
-**batu** kamień <small>(indonezyskie _batu_)</small>
-**bazar** rynek, bazar <small>(perskie _bāzār_ بازار)</small>
-**bax** język; komunikacja <small>(hindi _bhāśā_ भाषा)</small>
-**baxa** mówić, komunikować
-**blu** niebieski <small>(angielskie _blue_)</small>
-**bon** dobry <small>(francuskie _bon_)</small>
-**ca** herbato <small>(mandaryńskie _chá_ 茶)</small>
-**cing** prosić <small>(mandaryńskie _qǐng_ 请)</small>
-**den** dzień <small>(rosyjskie _den'_ день)</small>
-**dom** dom, rezydencja <small>(rosyjskie _dom_ дом)</small>
-**doma** mieszkać, rezydować
-**enda** iść <small>(suahili _kuenda_)</small>
-**englix** angielski
-**fem** kobieta <small>(francuskie _femme_)</small>
-**gata** mówić <small>(japońskie _kataru_ 語る)</small>
-**gon** przedtem, wcześniej <small>(tajskie _gɔ̀ɔn_ ก่อน)</small>
-**haber** wieści <small>(malajskie _khabar_)</small>
-**i** i <small>(polskie _i_)</small>
-**jan** wiedzieć, znać <small>(Hindi _jānnā_ जानना)</small>
-**kafe** kawa <small>(niemieckie _Kaffee_)</small>
-**kal** czarny <small>(hindi काला _kāla_)</small>
-**kata** ciąć <small>(hindi ‎_kāṭnā_ काटना)</small>
-**ke** co? kto? <small>(hiszpańskie _qué_)</small>
-**ken** móc, umieć <small>(angielskie _can_)</small>
-**keci** uprzejmy, miły <small>(mandaryńskie _kèqi_ 客气)</small>
-**kia** pytać <small>(hindi _kyā_ क्या)</small>
-**ko** do <small>(hindi _-को_ ko)</small>
-**lay** przybywać, przychodzić <small>(wietnamskie _lai_)</small>
-**ma** matka <small>(mandaryńskie _māma_ 妈妈)</small>
-**man** mężczyzna <small>(angielskie _man_)</small>
-**mana** znaczyć <small>(suahili _maana_)</small>
-**meda** pomóc <small>(francuskie _aider_)</small>
-**mede** pomoc
-**mi** ja, mnie <small>(suahili _mimi_)</small>
-**mimen** my
-**na** przy, w, na, razem z <small>(lingalskie _na_)</small>
-**nida** potrzebować <small>(angielkie _need_)</small>
-**no** nie <small>(hiszpańskie _no_)</small>
-**noce** noc <small>(hiszpańskie _noche_)</small>
-**pa** ojciec <small>(rosyjskie _papa_ папа)</small>
-**pingo** jabłko <small>(mandaryńskie _píngguǒ_ 苹果)</small>
-**ren** osoba <small>(mandaryńskien _rén_ 人)</small>
-**ros** czerwony <small>(włoskie _rosso_)</small>
-**si** to; tamto</small>
-**safar** podróż, wyprawa <small>(arabskie _safar_ سفر)</small>
-**salam** pozdrowienie; cześć <small>(arabskie _salām_ سلام)</small>
-**si** tak <small>(hiszpańskie _sí_)</small>
-**suba** ranek <small>(wolofskie _subba_)</small>
-**tu** ty <small>(hiszpańskie _tu_)</small>
-**tumen** wy
-**u** lub <small>(francuskie _ou_)</small>
-**wang** żółty <small>(kantońskie _wong_)</small>
-**wida** widzieć, patrzyć <small>(rosyjskie _videt'_ видеть)</small>
-**wol** chcieć <small>(włoskie _volere_)</small>
-**xam** wieczór <small>(hindi _śām_ शाम )</small>
-**ye** on, ona, ono <small>(lingalskie _yé_)</small>
-**yemen** oni, one
-**zay** teraz <small>(mandaryńskie _zài_ 在)</small>
+**a** ale <small>(rosyjskie _а_)</small>  
+**ada** mieć; istnieje <small>(indonezyskie _ada_)</small>  
+**bay** biały <small>(mandaryńskie _bái_ 白)</small>  
+**batu** kamień <small>(indonezyskie _batu_)</small>  
+**bazar** rynek, bazar <small>(perskie _bāzār_ بازار)</small>  
+**bax** język; komunikacja <small>(hindi _bhāśā_ भाषा)</small>  
+**baxa** mówić, komunikować  
+**blu** niebieski <small>(angielskie _blue_)</small>  
+**bon** dobry <small>(francuskie _bon_)</small>  
+**ca** herbato <small>(mandaryńskie _chá_ 茶)</small>  
+**cing** prosić <small>(mandaryńskie _qǐng_ 请)</small>  
+**den** dzień <small>(rosyjskie _den'_ день)</small>  
+**dom** dom, rezydencja <small>(rosyjskie _dom_ дом)</small>  
+**doma** mieszkać, rezydować  
+**enda** iść <small>(suahili _kuenda_)</small>  
+**englix** angielski  
+**fem** kobieta <small>(francuskie _femme_)</small>  
+**gata** mówić <small>(japońskie _kataru_ 語る)</small>  
+**gon** przedtem, wcześniej <small>(tajskie _gɔ̀ɔn_ ก่อน)</small>  
+**haber** wieści <small>(malajskie _khabar_)</small>  
+**i** i <small>(polskie _i_)</small>  
+**jan** wiedzieć, znać <small>(Hindi _jānnā_ जानना)</small>  
+**kafe** kawa <small>(niemieckie _Kaffee_)</small>  
+**kal** czarny <small>(hindi काला _kāla_)</small>  
+**kata** ciąć <small>(hindi ‎_kāṭnā_ काटना)</small>  
+**ke** co? kto? <small>(hiszpańskie _qué_)</small>  
+**ken** móc, umieć <small>(angielskie _can_)</small>  
+**keci** uprzejmy, miły <small>(mandaryńskie _kèqi_ 客气)</small>  
+**kia** pytać <small>(hindi _kyā_ क्या)</small>  
+**ko** do <small>(hindi _-को_ ko)</small>  
+**lay** przybywać, przychodzić <small>(wietnamskie _lai_)</small>  
+**ma** matka <small>(mandaryńskie _māma_ 妈妈)</small>  
+**man** mężczyzna <small>(angielskie _man_)</small>  
+**mana** znaczyć <small>(suahili _maana_)</small>  
+**meda** pomóc <small>(francuskie _aider_)</small>  
+**mede** pomoc  
+**mi** ja, mnie <small>(suahili _mimi_)</small>  
+**mimen** my  
+**na** przy, w, na, razem z <small>(lingalskie _na_)</small>  
+**nida** potrzebować <small>(angielkie _need_)</small>  
+**no** nie <small>(hiszpańskie _no_)</small>  
+**noce** noc <small>(hiszpańskie _noche_)</small>  
+**pa** ojciec <small>(rosyjskie _papa_ папа)</small>  
+**pingo** jabłko <small>(mandaryńskie _píngguǒ_ 苹果)</small>  
+**ren** osoba <small>(mandaryńskien _rén_ 人)</small>  
+**ros** czerwony <small>(włoskie _rosso_)</small>  
+**si** to; tamto</small>  
+**safar** podróż, wyprawa <small>(arabskie _safar_ سفر)</small>  
+**salam** pozdrowienie; cześć <small>(arabskie _salām_ سلام)</small>  
+**si** tak <small>(hiszpańskie _sí_)</small>  
+**suba** ranek <small>(wolofskie _subba_)</small>  
+**tu** ty <small>(hiszpańskie _tu_)</small>  
+**tumen** wy  
+**u** lub <small>(francuskie _ou_)</small>  
+**wang** żółty <small>(kantońskie _wong_)</small>  
+**wida** widzieć, patrzyć <small>(rosyjskie _videt'_ видеть)</small>  
+**wol** chcieć <small>(włoskie _volere_)</small>  
+**xam** wieczór <small>(hindi _śām_ शाम )</small>  
+**ye** on, ona, ono <small>(lingalskie _yé_)</small>  
+**yemen** oni, one  
+**zay** teraz <small>(mandaryńskie _zài_ 在)</small>  
 **ze** od, z <small>(czeskie _z, ze_)</small>
 
 
