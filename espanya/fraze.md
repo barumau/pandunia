@@ -95,7 +95,7 @@ Los pronombres no cambian su forma en Pandunia. Es por eso que **mi** es el mism
 
 **ye fem.** Ella es una mujer.
 
-**ye pingo.** Eso es una manzana.
+**ye apel.** Eso es una manzana.
 
 **ye** es un pronombre personal de tercera persona general. Es usado en personas (sin importar su género) y en cosas.
 
@@ -138,9 +138,9 @@ La palabra **si** puede ser usada también para manifestar algo como un hecho. E
 
 **tu si sara.** Tú eres Sara.
 
-**pingo si pal.** La manzana es una fruta.
+**apel si pal.** La manzana es una fruta.
 
-Nota: Es necesario usar **ya** en la frase anterior porque, sin él, la frase se vería como una palabra compuesta: **pingo pal** (una manzana fruta).
+Nota: Es necesario usar **ya** en la frase anterior porque, sin él, la frase se vería como una palabra compuesta: **apel pal** (una manzana fruta).
 
 <small>Etimología. **si** viene del español: sí, portugués: sim.</small>
 
@@ -180,7 +180,7 @@ Añade **men** a un pronombre singular para hacerlo plural.
 
 **tumen man.** Ustedes son hombres.
 
-**yemen pingo.** Esas son manzanas.
+**yemen apel.** Esas son manzanas.
 
 <small>Etimología. **men** viene del mandarín: 们 "men", inglés: men (personas en general).</small>
 
@@ -208,11 +208,11 @@ Añade **men** a un pronombre singular para hacerlo plural.
 
 **sa si ke? / ke si sa?** ¿Qué es esto?
 
-**sa si pingo.** Esta es una manzana.
+**sa si apel.** Esta es una manzana.
 
-**sa si ros pingo.** Esa es una manzana roja.
+**sa si ros apel.** Esa es una manzana roja.
 
-**sa pingo ros.** Esta manzana es roja.
+**sa apel ros.** Esta manzana es roja.
 
 Nota: Cuando un adjetivo, como **ros**, se pone antes de un sustantivo, trabaja como modificador. Cuando se pone después de un sustantivo, trabaja como un verbo adjetival.
 
@@ -300,11 +300,11 @@ Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída
 
 **kia tu wol kana yo?** ¿Te gustaría comer algo?
 
-**ye kana pingo.** Él/ella come una manzana.
+**ye kana apel.** Él/ella come una manzana.
 
-**yemen kana pingo.** Ellos/as comen manzanas.
+**yemen kana apel.** Ellos/as comen manzanas.
 
-Nota: A diferencia del español, Pandunia no tiene formas separadas de singular y plural. Por lo tanto una palabra como **pingo** puede referirse a una o más manzanas.
+Nota: A diferencia del español, Pandunia no tiene formas separadas de singular y plural. Por lo tanto una palabra como **apel** puede referirse a una o más manzanas.
 
 **kia tu kana kafe?** ¿Bebes café?
 
@@ -329,7 +329,7 @@ Tip: Mientras que en el español por lo general se pone el "qué" al inicio de l
 **kia tu wol kana ca?** ¿Te gustaría beber té? 
 **no. mi no wol ca. mi wol kafe.** No, no quiero té. Quiero café.
 
-**tu wol ke pingo?** ¿Qué manzana quieres?  
+**tu wol ke apel?** ¿Qué manzana quieres?  
 **sa ros.** Esa roja.
 
 
@@ -763,7 +763,7 @@ Todas las palabras de Pandunia son palabras prestadas de otros idiomas hablados 
 **no** no <small>(Español _no_)</small>  
 **noce** noche <small>(Español _noche_)</small>  
 **pa** padre, papá <small>(Ruso _papa_ папа)</small>  
-**pingo** manzana <small>(Mandarín _píngguǒ_ 苹果)</small>  
+**apel** manzana <small>(Mandarín _píngguǒ_ 苹果)</small>  
 **ren** persona <small>(Mandarín _rén_ 人)</small>  
 **ros** rojo <small>(Italiano _rosso_)</small>  
 **sa** esto, eso, aquello</small>  

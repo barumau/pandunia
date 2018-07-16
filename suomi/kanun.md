@@ -272,7 +272,7 @@ Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sa
 
 Esimerkkejä:  
 **mi wida yemen.** - Minä näen heidät.  
-**tu baka pang.** - Sinä leivot leipää.  
+**tu beka pang.** - Sinä leivot leipää.  
 
 #### 6.2.2. OSV-järjestys
 
@@ -286,7 +286,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
 
 Esimerkkejä:  
 **ke tu wida?** - Mitä sinä näet?  
-**mi nyama pang, jo tu baka.** - Minä syön leipää _jonka sinä leivoit._
+**mi nyama pang, jo tu beka.** - Minä syön leipää _jonka sinä leivoit._
 
 #### 6.2.3. VOS-järjestys
 
@@ -323,7 +323,7 @@ SOV on usein käytetty vaihtoehto SVO-järjestykselle.
 
 Esimerkkejä:  
 **mi yemen widu.** - _Minä heidät näen._  
-**tu pang baku.** - _Sinä leipää leivot._
+**tu pang beku.** - _Sinä leipää leivot._
 
 #### 6.3.2. OVS-järjestys
 
@@ -336,8 +336,8 @@ OVS on yleinen "passiivissa" lauseissa.
     O   S
 
 Esimerkkejä:  
-**pang baku tu.** - Leipää leivot sinä.  
-**pang baku.** - Leipää leivotaan.  
+**pang beku tu.** - Leipää leivot sinä.  
+**pang beku.** - Leipää leivotaan.  
 **tu widu mi.** - Sinut näen minä.  
 **tu widu.** - Sinut nähdään.
 
@@ -356,7 +356,7 @@ VSO-järjestys on harvinainen mutta mahdollinen.
 Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
 
 > **mi widu.** - Minut nähdään.  
-> **pang baku.** - Leipää leivotaan.  
+> **pang beku.** - Leipää leivotaan.  
 > **kupe kaputu.** - Kuppi särkyy. (Kuppi särjetään.)
 
 ### 6.4. Verbin päätteet
@@ -406,13 +406,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-> **mi kana pingo.** - Minä syön omenoita.  
+> **mi nyama apel.** - Minä syön omenoita.  
 > **mi auda musike.** - Minä kuuntelen musiikkia.  
 > **mi wida tu.** - Minä näen sinut.
 
 Toinen mahdollinen sanajärjestys on subjekti–objekti–verbi. Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
 
-**mi pingo kanu.** - _Minä omenoita syön._
+**mi apel nyamu.** - _Minä omenoita syön._
 
 SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestystä käytetään mm. hindissä, urdussa, tamilissa, turkissa, japanissa ja koreassa. SVO on yleisin mm. englannissa, espanjassa, yleiskiinassa, indonesiassa ja modernissa arabian kielessä.
 
@@ -535,8 +535,8 @@ Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-> **mi wida man _du kana pingo_.** - Minä näen miehen, _joka syö omenoita_.  
-> **mi wida _pingo kanu da_ man.** - Minä näen _omenia syövän_ miehen.
+> **mi wida man _du nyama apel_.** - Minä näen miehen, _joka syö omenoita_.  
+> **mi wida _apel nyamu da_ man.** - Minä näen _omenia syövän_ miehen.
 
 
 
@@ -608,10 +608,10 @@ Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lausee
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-> **ye kana bir plus.** - Hän juo olutta, myös.  
-> **ye kana plus bir.** - Hän juo _myös olutta_.  
-> **ye plus kana bir.** - Hän _myös juo_ olutta.  
-> **plus ye kana bir.** - _Myös hän_ juo olutta.
+> **ye nyama bir plus.** - Hän juo olutta, myös.  
+> **ye nyama plus bir.** - Hän juo _myös olutta_.  
+> **ye plus nyama bir.** - Hän _myös juo_ olutta.  
+> **plus ye nyama bir.** - _Myös hän_ juo olutta.
 
 Huom! Myös laatusanat voivat määrittää sekä seuraavaa sanaa että viimeisenä ollessaan koko lausetta.
 

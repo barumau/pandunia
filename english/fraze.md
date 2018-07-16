@@ -95,7 +95,7 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 **ye fem.** She is a woman.
 
-**ye pingo.** It is an apple.
+**ye apel.** It is an apple.
 
 **ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
 
@@ -138,9 +138,9 @@ The word **si** can be used also for stating something as a fact. Then it is use
 
 **tu si sara.** You are Sara.
 
-**pingo si pal.** The apple is a fruit.
+**apel si pal.** The apple is a fruit.
 
-Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **pingo pal** (an apple fruit).
+Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **apel pal** (an apple fruit).
 
 <small>Etymology. **si** is from Spanish: si, Portuguese: sim, Mandarin: 是 "shì", Shanghaiese: 是 "sí".</small>
 
@@ -180,7 +180,7 @@ Add **men** to a singular pronoun to make it plural.
 
 **tumen man.** You are men.
 
-**yemen pingo.** They are apples.
+**yemen apel.** They are apples.
 
 <small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in general).</small>
 
@@ -208,11 +208,11 @@ Add **men** to a singular pronoun to make it plural.
 
 **li si ke? / ke si li?** What's this?
 
-**li si pingo.** This is an apple.
+**li si apel.** This is an apple.
 
-**li si ros pingo.** This is a red apple.
+**li si ros apel.** This is a red apple.
 
-**li pingo ros.** This apple is red.
+**li apel ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -300,11 +300,11 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **kia tu wol nyama yo?** Would you like to eat something?
 
-**ye nyama pingo.** He/she eats an apple.
+**ye nyama apel.** He/she eats an apple.
 
-**yemen nyama pingo.** They eat apples.
+**yemen nyama apel.** They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **pingo** can refer to one or more apples.
+Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **apel** can refer to one or more apples.
 
 **kia tu nyama kafe?** Do you drink coffee?
 
@@ -329,7 +329,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **kia tu wol nyama ca?** Would you like to drink tea?  
 **no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
 
-**tu wol ke pingo?** Which apple do you want?  
+**tu wol ke apel?** Which apple do you want?  
 **li ros.** This red one.
 
 
@@ -724,8 +724,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 **a** but <small>(Russian _а_)</small>  
 **ada** have; there is <small>(Indonesian _ada_)</small>  
+**apel** apple <small>(Indonesian _apel_)</small>  
 **bay** white <small>(Mandarin _bái_ 白)</small>  
-**batu** stone <small>(Indonesian _batu_)</small>  
+**batu'** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
 **bax** language; communication <small>(Hindi _bhāśā_ भाषा)</small>  
 **baxa** speak, communicate  
@@ -765,7 +766,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
 **pa** father <small>(Russian _papa_ папа)</small>  
-**pingo** apple <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ren** person <small>(Mandarin _rén_ 人)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **si** this; that</small>  

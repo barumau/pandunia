@@ -93,7 +93,7 @@ Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit suj
 
 **ye fem.** C'est une femme.
 
-**ye pingo.** C'est une pomme.
+**ye apel.** C'est une pomme.
 
 **ye** est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
@@ -137,9 +137,9 @@ Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
 **tu si sara.** En effet, tu es Sara.
 
-**pingo si pal.** La pomme est en effet un fruit.
+**apel si pal.** La pomme est en effet un fruit.
 
-**Note : **Il est nécessaire d'ajouter **si** dans la dernière phrase, parce sans li présence la phrase constituerait un mot composé : **pingo pal** (un fruit [de type] pomme).
+**Note : **Il est nécessaire d'ajouter **si** dans la dernière phrase, parce sans li présence la phrase constituerait un mot composé : **apel pal** (un fruit [de type] pomme).
 
 <small>Étymologie : **si** vient de l'Espagnol "si", en Portugais il se dit "sim".</small> 
 
@@ -179,7 +179,7 @@ Ajoutez **men** à un pronom personnel pour le mettre au pluriel.
 
 **tumen man.** Vous êtes des hommes.
 
-**yemen pingo.** Ce sont des pommes.
+**yemen apel.** Ce sont des pommes.
 
 <small>Étymologie : **men** vient du Mandarin (chinois) 们 "men", en Anglais il se dit "men" (sous-entendu les personnes en général).</small>
 
@@ -207,11 +207,11 @@ Ajoutez **men** à un pronom personnel pour le mettre au pluriel.
 
 **li si ke? / ke si li?** Qu’est-ce que c’est que ça ?
 
-**li si pingo.** Ceci est une pomme.
+**li si apel.** Ceci est une pomme.
 
-**li si ros pingo.** Ceci est une pomme rouge.
+**li si ros apel.** Ceci est une pomme rouge.
 
-**li pingo ros.** Cette pomme est rouge.
+**li apel ros.** Cette pomme est rouge.
 
 Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
 
@@ -278,7 +278,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **li man no doktar.** Cet homme n’est pas un médecin.
 
-**li pingo no ros.** Cette pomme n’est pas rouge.
+**li apel no ros.** Cette pomme n’est pas rouge.
 
 
 
@@ -323,11 +323,11 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **kia tu wol nyama koi?** Est-ce que tu veux manger quelque chose ?
 
-**ye nyama pingo.** Il/elle mange une pomme.
+**ye nyama apel.** Il/elle mange une pomme.
 
-**yemen nyama pingo.** Ils/elles mangent des pommes.
+**yemen nyama apel.** Ils/elles mangent des pommes.
 
-Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **pingo** peut signifier une ou plusieurs pommes.
+Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **apel** peut signifier une ou plusieurs pommes.
 
 **kia tu nyama kafe?** Est-ce que tu bois du café ?
 
@@ -352,7 +352,7 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 **kia tu wol nyama ca?** Est-ce que tu veux (boire) du thé ?  
 **no. mi no wol ca. mi wol kafe.** Non, Je ne veux pas de thé. Je veux du café.
 
-**tu wol ke pingo?** Quelle pomme veux-tu ?  
+**tu wol ke apel?** Quelle pomme veux-tu ?  
 **li ros.** La rouge. (mot à mot _cette rouge_)
 
 
@@ -771,7 +771,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **noce** nuit <small>(Espagnol _noche_)</small>  
 **nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
 **papa** papa <small>(Russe _papa_ папа)</small>  
-**pingo** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
+**apel** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **ren** personne <small>(Mandarin _rén_ 人)</small>  
 **ros** rouge <small>(Italien _rosso_)</small>  
 **li** ceci, cela <small>(créole haïtien _li_)</small>  

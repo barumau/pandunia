@@ -102,7 +102,7 @@ Huom! Pronominien monikkomuodot ovat **mimen** (me) ja **tumen** (te).
 
 **ye fem.** Hän on nainen.
 
-**ye pingo.** Se on omena.
+**ye apel.** Se on omena.
 
 **ye** on kaiken kattava kolmannen persoonan pronomini, jota käytetään ihmisistä, esineistä ja asioista.
 
@@ -145,7 +145,7 @@ Sanalla **si** vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla
 
 **tu si sara.** Sinä kyllä olet Sara.
 
-**pingo si pal.** Omena kyllä on hedelmä.
+**apel si pal.** Omena kyllä on hedelmä.
 
 <small>Sanan **si** lähteitä: espanja: si, portugali: sim, yleiskiina: 是 "shì", shanghainkiina: 是 "sí".</small>
 
@@ -185,7 +185,7 @@ Yksikön persoonapronomineista saadaan monikkomuodot lisäämällä **men** per�
 
 **tumen si man.** Te olette miehiä.
 
-**yemen si pingo.** Ne ovat omenoita.
+**yemen si apel.** Ne ovat omenoita.
 
 <small>Sanan **men** lähteitä: mandariinikiina: 们 "men", englanti: men (ihmiset).</small>
 
@@ -213,11 +213,11 @@ Yksikön persoonapronomineista saadaan monikkomuodot lisäämällä **men** per�
 
 **li si ke? / ke si sa?** Mikä tämä on?
 
-**li si pingo.** Tämä on omena.
+**li si apel.** Tämä on omena.
 
-**li si ros pingo.** Tämä on punainen omena.
+**li si ros apel.** Tämä on punainen omena.
 
-**li pingo ros.** Tämä omena on punainen.
+**li apel ros.** Tämä omena on punainen.
 
 Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
@@ -306,11 +306,11 @@ Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sana
 
 **kia tu wol nyama yo?** Haluaisitko syödä jotakin?
 
-**ye nyama pingo.** Hän syö omenaa.
+**ye nyama apel.** Hän syö omenaa.
 
-**yemen nyama pingo.** He syövät omenoita.
+**yemen nyama apel.** He syövät omenoita.
 
-Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **pingo** voi tarkoittaa yhtä tai useampaa omenaa.
+Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **apel** voi tarkoittaa yhtä tai useampaa omenaa.
 
 **kia tu nyama kafe?** Juotko kahvia?
 
@@ -335,7 +335,7 @@ Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke*
 **kia tu wol nyama ca?** Haluaisitko juoda teetä.
 **no. mi no wol ca. mi wol kafe.** Ei, minä en halua teetä. Minä haluan kahvia.
 
-**tu wol ke pingo?** Minkä omenan haluat?
+**tu wol ke apel?** Minkä omenan haluat?
 **li ros.** Tuon punaisen.
 
 

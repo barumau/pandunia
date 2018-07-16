@@ -95,7 +95,7 @@ Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi** jest takie samo jako
 
 **ye fem.** Ona jest kobietą.
 
-**ye pingo.** To jest jabłko.
+**ye apel.** To jest jabłko.
 
 **ye** jest ogólnym zaimkiem trzecioosobowym. Jest używany wobec ludzi (niezależnie od płci) tak jak i wobec rzeczy.
 
@@ -138,9 +138,9 @@ Słowo **si** może być używane też do oświadczania, że coś jest faktem. W
 
 **tu si sara.** Ty jesteś Sara.
 
-**pingo si pal.** Jabłko jest owocem.
+**apel si pal.** Jabłko jest owocem.
 
-Uwaga: Należy użyć **si** w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **pingo pal** (jabłkowy owoc).
+Uwaga: Należy użyć **si** w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **apel pal** (jabłkowy owoc).
 
 <small>Etymologia. **si** pochodzi z języków: hiszpańskiego: si, portugalskiego: sim, mandaryńskiego: 是 "shì", szanghaiskiego: 是 "sí".</small>
 
@@ -180,7 +180,7 @@ Dodaj **men** do zaimka w liczbie pojedynczej, by zamienić ją na mnogą.
 
 **tumen man.** Jesteście mężczyznami.
 
-**yemen pingo.** Są jabłkami.
+**yemen apel.** Są jabłkami.
 
 <small>Etymologia. **men** pochodzi z języków: mandaryńskiego: 们 "men", angielkiego: men (w znaczeniu: ludzie w ogóle).</small>
 
@@ -208,11 +208,11 @@ Dodaj **men** do zaimka w liczbie pojedynczej, by zamienić ją na mnogą.
 
 **li si ke? / ke si li?** Co to?
 
-**li si pingo.** To jest jabłko.
+**li si apel.** To jest jabłko.
 
-**li si ros pingo.** To jest czerwone jabłko.
+**li si ros apel.** To jest czerwone jabłko.
 
-**li pingo ros.** Te jabłko jest czerwone.
+**li apel ros.** Te jabłko jest czerwone.
 
 Uwaga: Kiedy przymiotnik, jak **ros**, jest  umieszczony przed rzeczownikiem, działa jako przydawka. Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
 
@@ -300,11 +300,11 @@ Uwaga: Partykuła dzierżawcza **da** jest umiejscawiana między właściciela i
 
 **kia tu wol nyama yo?** Czy chcesz zjeść coś?
 
-**ye nyama pingo.** Je jabłko.
+**ye nyama apel.** Je jabłko.
 
-**yemen nyama pingo.** Jedzą jabłka.
+**yemen nyama apel.** Jedzą jabłka.
 
-Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **pingo** mogą się odnosić do jednego lub większej liczby jabłek.
+Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **apel** mogą się odnosić do jednego lub większej liczby jabłek.
 
 **kia tu nyama kafe?** Czy pijesz kawę?
 
@@ -330,7 +330,7 @@ Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke** 
 
 **no. mi no wol ca. mi wol kafe.** Nie, nie chcę herbaty. Chcę kawę.
 
-**tu wol ke pingo?** Które jabłko chcesz?
+**tu wol ke apel?** Które jabłko chcesz?
 
 **li ros.** Te czerwone.
 
@@ -726,8 +726,9 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 
 **a** ale <small>(rosyjskie _а_)</small>  
 **ada** mieć; istnieje <small>(indonezyskie _ada_)</small>  
+**apel** jabłko <small>(indonezyskie _apel_)</small>  
 **bay** biały <small>(mandaryńskie _bái_ 白)</small>  
-**batu** kamień <small>(indonezyskie _batu_)</small>  
+**batu'** kamień <small>(indonezyskie _batu_)</small>  
 **bazar** rynek, bazar <small>(perskie _bāzār_ بازار)</small>  
 **bax** język; komunikacja <small>(hindi _bhāśā_ भाषा)</small>  
 **baxa** mówić, komunikować  
@@ -767,7 +768,6 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **no** nie <small>(hiszpańskie _no_)</small>  
 **noce** noc <small>(hiszpańskie _noche_)</small>  
 **pa** ojciec <small>(rosyjskie _papa_ папа)</small>  
-**pingo** jabłko <small>(mandaryńskie _píngguǒ_ 苹果)</small>  
 **ren** osoba <small>(mandaryńskien _rén_ 人)</small>  
 **ros** czerwony <small>(włoskie _rosso_)</small>  
 **si** to; tamto</small>  

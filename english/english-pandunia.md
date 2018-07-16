@@ -63,7 +63,6 @@ act (scene)   : akte
 actor (actress)   : aktar  
 additional   : maxi  
 address   : adres  
-addressee   : adresur  
 adult   : adulte  
 adultery (infidelity)   : zine  
 advice (counsel)   : konsel  
@@ -111,7 +110,7 @@ antenna (aerial)   : anten
 anus   : anus  
 any (no matter which)   : eni  
 appearance (looks)   : rupe  
-apple   : pingo  
+apple   : apel  
 April   : mes 4 (mes car)  
 Arabic   : arabi  
 archipelago   : nesia  
@@ -136,7 +135,7 @@ ask (request; please)   : cing
 asparagus   : lusun  
 aspirin   : aspirin  
 asthma   : asma  
-athlete (sportsman)   : kelar  
+athlete (sportsman)   : keler  
 atom   : atom  
 attack   : atake  
 attention (focus)   : dian  
@@ -160,8 +159,8 @@ bah! (yuck!)   : fu
 Bahamas   : bahama  
 Bahrain   : bahrain  
 bake   : beka  
-baker   : bekar  
-bakery   : bekaria  
+baker   : beker  
+bakery   : bekeria  
 balcony (porch)   : balkon  
 ball   : bol  
 bamboo   : jug  
@@ -241,6 +240,8 @@ board game   : paban gem
 boat (ship)   : bote  
 bodily (corporal)   : badani  
 body   : badan  
+boil (be boiled)   : bulu  
+boil (cook)   : bula  
 Bolivia   : bolivia  
 bomb   : bombe  
 bon appetit!   : salam nyam  
@@ -325,7 +326,8 @@ card   : karte
 care (cure)   : kura  
 carrot   : karot  
 carry (bear)   : porta  
-case (container)   : kasa  
+cash box   : kase  
+cashier   : kaser  
 cassava (manioc)   : manioka  
 cat   : maw  
 Catalonia   : katalunya  
@@ -393,6 +395,7 @@ class (category)   : klas
 classify (categorize)   : klasa  
 clean (pure)   : safi  
 clean (purify)   : safa  
+cleaner   : safer  
 clear (not obscured)   : klar  
 clone (replica)   : klon  
 clone (replicate)   : klona  
@@ -417,7 +420,7 @@ collect (gather, bring together)   : jama
 collection (congregation)   : jamia  
 collective   : jami  
 Colombia   : kolombia  
-colony (settlemen)   : kolonia  
+colony (settlement)   : kolonia  
 color   : rang  
 column (pillar)   : kolum  
 come   : laya  
@@ -460,7 +463,7 @@ corner (angle)   : kon
 cost   : kosta  
 cost (price)   : koste  
 Costa Rica   : kosta rika  
-cottage (chalet)   : xalet  
+cottage (chalet)   : xale'  
 cotton   : goton  
 cough   : kos  
 country (land)   : dex  
@@ -470,8 +473,6 @@ cover (conceal)   : kapa
 cover (lid, cap, deck)   : deke  
 cow   : mumu  
 cream   : krem  
-creation (fact)   : fakte  
-creature (created)   : faktur  
 crime   : krim  
 crisis   : kriz  
 critical (pertaining to crisis)   : krizi  
@@ -611,7 +612,7 @@ Esperanto   : esperanti
 essay   : esey  
 estimate (approximate)   : yaka  
 Estonia   : estia  
-Ethiopia   : itiopia  
+Ethiopia   : etiopia  
 Eurasia   : ewrasia  
 euro   : ewro  
 Europe   : ewropa  
@@ -636,7 +637,7 @@ exit door   : cute mun
 eye   : yen  
 ##f  
 face   : muka  
-factory   : faktaria  
+factory   : fakteria  
 fairy   : peri  
 Falkland Islands (Malvinas)   : malvina nesia  
 fall   : padu  
@@ -700,7 +701,6 @@ foreign   : way dexi
 foreign country   : way dexia  
 forenoon   : suba' den  
 forest (jungle, woods)   : jangal  
-forget   : bula  
 fork   : forke  
 form (shape)   : forme  
 fortress (stronghold)   : yosay  
@@ -766,7 +766,7 @@ good (in greetings)   : salam
 Good day   : salam den  
 Good evening   : salam xam  
 good luck   : bon zar  
-Good morning   : salam suba  
+Good morning   : salam suba'  
 gospel   : anjil  
 grain (seed)   : dane  
 gram   : gram  
@@ -856,7 +856,6 @@ horn   : korne
 horse   : uma  
 hotel   : hotel  
 hour   : hor  
-how?   : ke yang?  
 how?   : ki yang  
 howl   : ulula  
 howling   : ulul  
@@ -896,7 +895,7 @@ injection   : juxe
 ink   : mog  
 insect   : koncung  
 inside (interior)   : in  
-inspire (inspiration)   : inspira  
+inspire   : inspira  
 intend (plan)   : plana  
 interest (interesting)   : interes  
 interpreter (translator)   : tarjumar  
@@ -953,7 +952,7 @@ key   : cabi
 key (push-button, switch)   : buton  
 keyboard   : buton paban  
 kill   : marta  
-killer   : martar  
+killer   : marter  
 kilogram (kg)   : kilo gram  
 kind (nice, gentle)   : jentil  
 kind (type, style)   : yang  
@@ -1065,9 +1064,9 @@ mail   : poste
 main (principal)   : xefi  
 major (not minor)   : maxor  
 majority   : maxoria  
-make (create)   : fakta  
+make (manufacture)   : fakta  
 make (produce, manufacture)   : sana  
-maker (creator, factor)   : faktar  
+maker (manufacturer, factor)   : fakter  
 Malagasy   : madagasi  
 malaria   : malaria  
 Malawi   : malawia  
@@ -1131,7 +1130,7 @@ Mercury   : budan
 metal   : metal  
 meter   : meter  
 method (way, manner)   : metod  
-Mexico   : mehiko  
+Mexico   : mexiko  
 micro-   : mikro  
 Micronesia   : mikronesia  
 middle (center)   : jung  
@@ -1189,8 +1188,8 @@ muscle   : muskul
 mushroom (fungus)   : funge  
 music   : musike  
 musician   : musikar  
-musket   : musket  
-musketeer   : musketir  
+musket   : muskete  
+musketeer   : musketer  
 must   : musu  
 my   : mi da  
 Myanmar (Burma)   : bama  
@@ -1362,7 +1361,7 @@ phoneme   : foneme
 phosphorus   : fosfor  
 phosphorus   : pospor  
 photograph   : foto  
-physicist   : fizikar  
+physicist   : fiziker  
 physics   : fizike  
 physics   : fizikia  
 piano   : piano  
@@ -1460,6 +1459,7 @@ prison (imprisonment)   : prizon
 prisoner   : prizonur  
 problem   : problem  
 process (procedure)   : proses  
+product   : fakte  
 production   : sania  
 professor   : profesor  
 program   : program  
@@ -1571,6 +1571,7 @@ sad   : duki
 safe (secure)   : sekur  
 saffron   : zafran  
 Saint Helena   : santi helena  
+Saint John's Day   : yohan feste  
 Saint Vincent and Grenadines   : vinsi i grenadin  
 salad   : salade  
 salt   : sal  
@@ -1627,7 +1628,8 @@ shell (crust)   : kara?
 shirt   : kamis  
 shock (collision)   : xoke  
 shoe   : sapate  
-shoemaker   : sapatir  
+shoemaker   : sapater  
+shoemaker's shop   : sapateria  
 short (brief)   : korti  
 shorten   : korta  
 should (ought)   : xudu  
@@ -1732,11 +1734,9 @@ suffer (get hurt)   : paxu
 suffer (hurt)   : paxia  
 suffer (passivizing verb)   : bey  
 suffix for (result of) action   : -e  
-suffix for active doer   : -ar  
 suffix for adjectives   : -i  
 suffix for areas   : -ia  
-suffix for passive object   : -ur  
-suffix for person who is associated with the root   : -ir  
+suffix for doer   : -er  
 suffix for verbs with OVS word order   : -u  
 suffix for verbs with SVO word order   : -a  
 sugar   : suker  
@@ -1773,7 +1773,7 @@ tactics (strategy)   : taktike
 taiga   : tayga  
 tail   : dum  
 Taipei   : taibei  
-Taiwan   : taiwan  
+Taiwan (Republic of China)   : taiwan  
 tale (legend, saga)   : sage  
 talk (say, speak)   : loga  
 Tanakh (Jewish Bible)   : tanah  
@@ -1860,9 +1860,9 @@ tower   : minare
 train   : tren  
 translate (interpret)   : tarjuma  
 translation (interpretation)   : tarjum  
-travel   : safera  
-travel (voyage)   : safer  
-traveler   : saferar  
+travel   : safara  
+travel (voyage)   : safar  
+traveler   : safarer  
 treasure (treasury)   : hazin  
 tree   : xu  
 tribe   : tribe  
@@ -1961,6 +1961,7 @@ welcome!   : salam laye
 west   : weste  
 western   : westi  
 what thing?   : ki xey  
+what?   : ke  
 wheel   : cakre  
 when?   : ki zaman  
 which?   : ki  
@@ -1972,9 +1973,9 @@ wide   : kuan
 wiki   : wiki  
 wild (savage)   : wildi  
 will (volition, desire)   : ice  
-win (victory)   : win  
 wind   : fong  
 window   : janela  
+wine   : win  
 wing   : wing  
 wisdom   : sofia  
 wise   : sofi  

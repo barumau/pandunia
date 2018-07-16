@@ -297,7 +297,7 @@ L'ordre normal des mots est sujet-verbe-objet - tout comme l'Anglais ou le Chino
 Le verbe **bey** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     English:   The apples were eaten.
-    Pandunia:  pingo bey kana.
+    Pandunia:  apel bey kana.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** est un mot emprunté au Chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
@@ -316,11 +316,11 @@ En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon l
 Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés.
 
     English:   It is an apple.
-    Pandunia:  ye si pingo.
+    Pandunia:  ye si apel.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
     
     English:   They are apples.
-    Pandunia:  yemen si pingo.
+    Pandunia:  yemen si apel.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 ## Le Pandunia - Une langue mondiale

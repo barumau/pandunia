@@ -299,7 +299,7 @@ The most common word order in Pandunia is subject-verb-object (SVO). In this sen
 
 Examples:  
 **mi wida yemen.** - I see them.  
-**tu baka pang.** - You bake bread.  
+**tu beka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -313,7 +313,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
 
 Examples:  
 **ke tu wida?** - What do you see?  
-**mi nyama pang, jo tu baka.** - I eat bread _that you baked._
+**mi nyama pang, jo tu beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -349,7 +349,7 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **mi yemen widu.** - _I them see._  
-**tu pang baku.** - _You bread bake._
+**tu pang beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -362,7 +362,7 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**pang baku tu.** - Bread is baked by you.  
+**pang beku tu.** - Bread is baked by you.  
 **tu suku mi.** - You are pleased by me.
 
 #### 6.3.3. VSO order
@@ -380,7 +380,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e. agent).
 
 > **mi widu.** - I am seen.  
-> **pang baku.** - Bread is baked.  
+> **pang beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
@@ -453,13 +453,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi nyama pingo.** - I eat apples.  
+> **mi nyama apel.** - I eat apples.  
 > **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
-**mi pingo nyamu.** - _I apples eat._
+**mi apel nyamu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
@@ -472,7 +472,7 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **pang baku.** - Bread is baked.  
+> **pang beku.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
@@ -488,7 +488,7 @@ In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
 > **auda musike.** - Listening music.  
-> **baka pang.** - Baking bread.
+> **beka pang.** - Baking bread.
 
 
 #### 7.5. All Possible Word Orders
@@ -645,11 +645,11 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du nyama pingo_.** - I see a man _who eats apples_.  
+> **mi wida man _du nyama apel_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
-> **mi wida _pingo nyamu da_ man.** - I see an _apple-eating_ man.
+> **mi wida _apel nyamu da_ man.** - I see an _apple-eating_ man.
 
 > **buke dugu da ren na kamer.** = The book-reading person is in the room.
 > **ye duga da buke na meza.** = The book, that he/she reads, is on the table.  
@@ -877,15 +877,25 @@ Note! Pandunia doesn't follow the rule about action-roots because we think that 
 
 ### 11.2. Derivational Suffixes
 
-#### 11.2.1. -ar
+#### 11.2.1. -er
 
-Creates agent nouns from action roots. It denotes a person or a tool who does the action.
+Creates agent nouns. It denotes a person or a tool who does the action.
 
-**loga** to speak; **logar** speaker, the one who speaks  
-**baka** to bake; **bakar** baker, the one who bakes  
-**lida** to lead; **lidar** leader, the one who leads  
-**komputa** to compute, to process data; **komputar** computer  
-**marta** to kill; **martar** killer  
+**loga** to speak; **loger** speaker, the one who speaks  
+**beka** to bake; **beker** baker, the one who bakes  
+**lida** to lead; **lider** leader, the one who leads  
+**filsofa** to think deeply; **filsofer** philosopher  
+**komputa** to compute, to process data; **komputer** computer  
+**marta** to kill; **marter** killer  
+
+The derivative can be also more loosely associated with the root.
+
+**sapate** shoe; **sapater** shoemaker  
+**muskete** musket; **musketer** musketeer  
+**kase** cash desk; **kaser** cashier  
+
+
+<!--
 
 #### 11.2.2. -ur
 
@@ -895,26 +905,19 @@ Creates patient nouns from action roots. It denotes a person or a thing to whom 
 **marta** to kill; **martur** the one who gets killed; by extension: a martyr  
 **folda** to fold; **foldur** folder, something that is folded
 
-#### 11.2.3. -ir
-
-Creates agent nouns from noun roots. It denotes someone who is associated with the root.
-
-**sapat** shoe; **sapatir** shoemaker  
-**musket** musket; **musketir** musketeer  
-**kas** cash desk; **kasir** cashier  
-
+-->
 
 #### 11.2.4. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
-**manux** human being; **manuxia** humanity, mankind, all the human beings as a group.  
+**insan** human being; **insania** humanity, mankind, all the human beings as a group.  
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
+**filsof** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
 
 This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
-**arab** Arab, Arabic; **arabia** Arabia  
+**arabi** Arab, Arabic; **arabia** Arabia  
 **rus** Russian; **rusia** Russia  
 **turki** Turk, Turkish; **turkia** Turkey  
 **asia** Asia  
@@ -924,6 +927,12 @@ This ending is often found in place names, especially in country names. However 
 Also abstract nouns often end in **-ia**.
 
 **nowi** new, **nowia** newness, novelty  
+
+When it is added after -er, it means a place of work.
+
+**bekeria** bakery  
+**fakteria** factory  
+**sapateria** shoemaker's shop  
 
 
 #### 11.2.5. -is-

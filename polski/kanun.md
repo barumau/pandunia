@@ -455,13 +455,13 @@ W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słow
 
 Zdania czynne używające czasownika kończącego się na **-a** mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 
-> **mi nyama pingo.** - Ja jem jabłka.
+> **mi nyama apel.** - Ja jem jabłka.
 > **mi auda musike.** - Ja słucham muzyki.
 > **mi wida tu.** - Ja widzę cię.
 
 Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
 
-**mi pingo nyamu.** - _Ja jabłka jem._
+**mi apel nyamu.** - _Ja jabłka jem._
 
 SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim. SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
 
@@ -647,11 +647,11 @@ Tutaj **du** ma podobną rolę co polskojęzyczny zaimek _który_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-> **mi wida man _du nyama pingo_.** - Widzę człowieka_, który je jabłka_.
+> **mi wida man _du nyama apel_.** - Widzę człowieka_, który je jabłka_.
 
 Można też tworzyć zdania podrzędne używają **da**. Wtedy zdanie podrzędne poprzedza rzeczownik opisywany. Czasownik jest zamieniane w imiesłów przez umieszczanie **da** od razu po nim.
 
-> **mi wida _pingo nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
+> **mi wida _apel nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
 
 > **buke dugu da ren na kamer.** = Czytająca książki osoba jest w pokoju.
 > **ye duga da buke na meza.** = Przez niego/nią czytana książka jest na stole.

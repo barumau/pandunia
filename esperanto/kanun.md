@@ -147,7 +147,7 @@ Notu ke eblas krei ajnan korelativon tiel:
 La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "demandi") indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
 > tumen kar **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
-> tu kana **ke pingo**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
+> tu kana **ke apel**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
 
 > (**kia**) waf kana mau? - (**Ĉu**) hundoj manĝas katojn?  
 
@@ -155,7 +155,7 @@ La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "dem
 
 > wang - flava
 > sa si wang - tio estas (la) flava  
-> sa pingo si wang pingo - tiu pomo estas (la) flava pomo  
+> sa apel si wang apel - tiu pomo estas (la) flava pomo  
 
 > **si** - jes  
 > **no** - ne  
@@ -251,7 +251,7 @@ En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam on
 En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _sa_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
 
 > mi vola **sa** kanu tu - Mi volas **(tion), kion** vi manĝas  
-> mi vola **sa pingo** kanu tu - Mi volas **(tiun pomon), kiun pomon** vi manĝas  
+> mi vola **sa apel** kanu tu - Mi volas **(tiun pomon), kiun pomon** vi manĝas  
 
 --------------------------------------------------------------------------------
 
@@ -671,7 +671,7 @@ En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pa
 
 Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba. En la SVO vortordo la verbo finiĝas per **-a**.
 
-> **mi kana pingo.** - Mi manĝas pomojn.  
+> **mi kana apel.** - Mi manĝas pomojn.  
 > **mi auda musik.** - Mi aŭdas muzikon.  
 > **mi wida tu.** - Mi vidas vin.
 
@@ -804,8 +804,8 @@ Ankaŭ eblas uzi partikulon **da**. Oni ne povas esperantigi ĝin laŭvorte.
 
 Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
 
-> **mi wida man _du kana pingo_.** - Mi vidas viron, _kiu manĝas pomojn_.  
-> **mi wida kana pingo da_ man.** - *Mi vidas _pommanĝantan_ viron.
+> **mi wida man _du kana apel_.** - Mi vidas viron, _kiu manĝas pomojn_.  
+> **mi wida kana apel da_ man.** - *Mi vidas _pommanĝantan_ viron.
 
 
 Modalaj partikuloj

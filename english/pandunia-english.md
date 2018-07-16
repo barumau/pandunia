@@ -5,7 +5,6 @@ abace : alphabet
 acente : accent (stress)  
 ada : have  
 adres : address  
-adresur : addressee  
 adu : belong  
 adulte : adult  
 afrika : Africa  
@@ -42,6 +41,7 @@ anma : spirit (soul)
 anten : antenna (aerial)  
 anus : anus  
 anusi : anal  
+apel : apple  
 ara : saw tool  
 arabi : Arabic  
 aranje : orange (fruit)  
@@ -138,8 +138,8 @@ bedinjan : eggplant (aubergine, brinjal)
 bega  escape (flee, run away)  
 beijing : Beijing (Peking)  
 beka : bake  
-bekar : baker  
-bekaria : bakery  
+beker : baker  
+bekeria : bakery  
 bel  beautiful (handsome)  
 belarus : Belarus  
 belgia : Belgium  
@@ -195,8 +195,9 @@ bufon : fool (buffoon)
 bujete : budget  
 buke : book  
 buking : booking (reservation)  
-bula : forget  
+bula : boil (cook)  
 bulbul : bubble  
+bulu : boil (be boiled)  
 bunduke : gun (handheld firearm)  
 burkina : Burkina Faso  
 bus : bus  
@@ -374,6 +375,7 @@ esey : essay
 espanya : Spain  
 esperanti : Esperanto  
 estia : Estonia  
+etiopia : Ethiopia  
 ewrasia : Eurasia  
 ewreka : find (discover)  
 ewro : euro  
@@ -385,11 +387,10 @@ ewropan unia : European Union (EU)
 
 fada : supply (dispense, issue, put out)  
 fajan : development  
-fakta : make (create)  
-faktar : maker (creator, factor)  
-faktaria : factory  
-fakte : creation (fact)  
-faktur : creature (created)  
+fakta : make (manufacture)  
+fakte : product  
+fakter : maker (manufacturer, factor)  
+fakteria : factory  
 falsi : false (fake)  
 famil : family  
 famil nam : surname (family name)  
@@ -441,8 +442,8 @@ finger wen : finger ring
 fini : finished  
 fix : fish  
 fizike : physics  
+fiziker : physicist  
 fizikia : physics  
-fizikar : physicist  
 fobe : fear (phobia)  
 fokus : focus (concentration)  
 fokusa : concentrate  
@@ -635,7 +636,7 @@ injenar : engineer
 inji : ginger  
 insan : human being  
 insania : mankind (humanity)  
-inspira : inspire (inspiration)  
+inspira : inspire  
 inter : between  
 interes : interest (interesting)  
 inxala : hope (wish)  
@@ -647,7 +648,6 @@ islami : Islamic
 islandia : Iceland  
 israel : Israel  
 italia : Italy  
-itiopia : Ethiopia  
 izi : easy  
 
 ##j
@@ -688,8 +688,8 @@ jeste : gesture
 jibraltar : Gibraltar  
 jibutia : Djibouti  
 jiju' : spider  
-jiki : straight  
 jika : straighten  
+jiki : straight  
 jin : near (close)  
 jins : gender (sex)  
 jinsi : sexual (relating to gender)  
@@ -775,7 +775,8 @@ karibu : reindeer (caribou)
 karite : shea  
 karot : carrot  
 karte : card  
-kasa : case (container)  
+kase : cash box  
+kaser : cashier  
 kastan : chestnut  
 kata : cut  
 katalunya : Catalonia  
@@ -785,13 +786,13 @@ kay : open (not closed)
 kaya : open  
 kayu : become open  
 kaze : event (case, instance)  
-ke yang? : how?  
+ke : what?  
 kecape : ketchup  
 keci : polite  
 keke : cake (cookie)  
 kel : sport (athletics)  
-kelar : athlete (sportsman)  
 kelele : noise  
+keler : athlete (sportsman)  
 kemet : Ancient Egypt (Kemet)  
 ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
@@ -847,7 +848,7 @@ kokos nesia : Cocos (Keeling) Islands
 kola : cola  
 kolera : cholera  
 kolombia : Colombia  
-kolonia : colony (settlemen)  
+kolonia : colony (settlement)  
 kolum : column (pillar)  
 koma : comma  
 komal : soft  
@@ -1072,8 +1073,8 @@ marke : mark (trace)
 marmar : marble  
 marsi : Mars  
 marta : kill  
-martar : killer  
 marte : death  
+marter : killer  
 marti : dead (deceased)  
 martu : die  
 mas : mass (dough, lump)  
@@ -1112,7 +1113,6 @@ medita : meditate (ponder)
 medu : honey  
 mega : million (mega-)  
 megam : cloud  
-mehiko : Mexico  
 melodi : melodious (melodic)  
 melodia : melody  
 memba : participate (attend, take part)  
@@ -1138,6 +1138,7 @@ metal : metal
 meter : meter  
 metod : method (way, manner)  
 metre : measure  
+mexiko : Mexico  
 mey : every (each)  
 mey ren : everybody (everyone)  
 mey xey : everything  
@@ -1216,8 +1217,8 @@ muse : coercion
 musika : play music  
 musikar : musician  
 musike : music  
-musket : musket  
-musketir : musketeer  
+muskete : musket  
+musketer : musketeer  
 muskul : muscle  
 musu : must  
 muxing : Jupiter  
@@ -1404,7 +1405,6 @@ pilipinia : Philippines
 pilote : pilot  
 pin : needle (pin)  
 ping : flat  
-pingo : apple  
 pinguin : penguin  
 pinse : pliers (pincers)  
 pipa : pipe  
@@ -1562,9 +1562,10 @@ sabun : soap
 sabze : vegetable  
 sadi : plain (mere)  
 safa : clean (purify)  
-safer : travel (voyage)  
-safera : travel  
-saferar : traveler  
+safar : travel (voyage)  
+safara : travel  
+safarer : traveler  
+safer : cleaner  
 safi : clean (pure)  
 saga : tell (narrate)  
 sage : tale (legend, saga)  
@@ -1576,7 +1577,7 @@ salam cute : farewell
 salam den : Good day  
 salam laye : welcome!  
 salam nyam : bon appetit!  
-salam suba : Good morning  
+salam suba' : Good morning  
 salam xam : Good evening  
 salama : greet  
 salame : greeting (hello)  
@@ -1598,7 +1599,8 @@ santi : holy (sacred)
 santi helena : Saint Helena  
 santi tome i prinsipe : Sao Tome and Principe  
 sapate : shoe  
-sapatir : shoemaker  
+sapater : shoemaker  
+sapateria : shoemaker's shop  
 sar : head  
 sar oste : skull  
 sawdar : sibling (brother or sister)  
@@ -1731,7 +1733,7 @@ tabel : table (matrix)
 tabia : nature (environment)  
 tabial : environmental (natural)  
 taibei : Taipei  
-taiwan : Taiwan  
+taiwan : Taiwan (Republic of China)  
 takse : tax (fee, fare)  
 taksi : taxi  
 taktike : tactics (strategy)  
@@ -1900,7 +1902,7 @@ widu : be seen
 wiki : wiki  
 wildi : wild (savage)  
 wiman : airplane  
-win : win (victory)  
+win : wine  
 wing : wing  
 winil : vinyl  
 wirus : virus  
@@ -1913,7 +1915,7 @@ wol : want (desire)
 xakal : jackal  
 xake : branch (bough)  
 xal : scarf (shawl)  
-xalet : cottage (chalet)  
+xale' : cottage (chalet)  
 xam : evening  
 xam den : afternoon  
 xam nyam : dinner  
@@ -1972,6 +1974,7 @@ yesu : Jesus
 yode : iodine  
 yoga : do yoga  
 yoge : yoga  
+yohan feste : Saint John's Day  
 yoni : vagina  
 yosay : fortress (stronghold)  
 yumor : humor  
@@ -2013,12 +2016,10 @@ zumrude : emerald
 ## -
   
 -a : suffix for verbs with SVO word order  
--ar : suffix for active doer  
 -e : suffix for (result of) action  
+-er : suffix for doer  
 -em : a unit consisting of a set of similar items  
 -i : suffix for adjectives  
 -ia : suffix for areas  
--ir : suffix for person who is associated with the root  
 -u : suffix for verbs with OVS word order  
--ur : suffix for passive object  
 
