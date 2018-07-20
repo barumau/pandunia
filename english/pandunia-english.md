@@ -14,12 +14,12 @@ aha : understand (realize)
 ajil : agile  
 akse : axis (axle)  
 akta : act (play a role)  
-aktar : actor (actress)  
 akte : act (scene)  
+akter : actor (actress)  
 aku' : parrot (parakeet)  
 alkol : alcohol  
 alkoli : alcoholic  
-almar : cupboard (closet, cabinet, wardrobe)  
+almaria : cupboard (closet, cabinet, wardrobe)  
 almas : diamond  
 alter : other  
 altera : change (alter)  
@@ -51,8 +51,8 @@ arena : arena (stadium)
 argon : argon  
 arhentin : Argentina  
 armia : army  
-artar : artist  
 arte : art  
+arter : artist  
 asan : posture (asana)  
 asia : Asia  
 asian : Asian  
@@ -253,7 +253,7 @@ cuna : choose (elect, select)
 cupa : suck  
 cur : theft (steal)  
 cura : steal  
-curar : thief  
+curer : thief  
 cuta : leave (go out, exit)  
 cute : exit (leaving)  
 cute mun : exit door  
@@ -272,7 +272,7 @@ danka : thank
 danke : thanks (thank you)  
 dante : tooth  
 dante brox : tooth brush  
-dante doktar : dentist  
+dante dokter : dentist  
 darba : strike (punch)  
 daria : sea (ocean)  
 darme : dharma (piety)  
@@ -293,8 +293,8 @@ deci : deci-
 deke : cover (lid, cap, deck)  
 dem : point (spot)  
 demo' : people (society)  
-demo'grafia : demography  
-demo'kratia : democracy  
+demo' grafia : demography  
+demo' kratia : democracy  
 demon : demon  
 den : day (daytime)  
 den nyam : lunch  
@@ -317,7 +317,7 @@ ding : nail (spike)
 diske : disc (disk)  
 do : two (2)  
 dokta : heal (cure)  
-doktar : doctor (physician, healer)  
+dokter : doctor (physician, healer)  
 dolar : dollar  
 dom : home (residence)  
 doma : live (dwell, reside)  
@@ -414,7 +414,7 @@ fayn : fine (delicate)
 feber : fiever  
 fem : female  
 fem bace : daughter  
-fem rajar : queen  
+fem rajer : queen  
 fen : part (fraction)  
 fena : divide (to partition)  
 fer : iron  
@@ -430,10 +430,10 @@ fiksa : fix (attach)
 file : line (row)  
 filistinia : Palestinian Territory  
 filme : film  
-filsofar : philosopher  
+filsofer : philosopher  
 filsofi : philosophic  
 filsofia : philosophy  
-filtar : filter  
+filter : filter  
 fin : end  
 fina : finish (put an end to)  
 final : last (final)  
@@ -505,7 +505,7 @@ gazel : gazelle
 gazete : magazine (journal, gazette)  
 gem : game  
 gema : play a game  
-gemar : player (gamer)  
+gemer : player (gamer)  
 gen : root  
 genca : examine (inspect, check)  
 geta : get (receive, obtain, take)  
@@ -555,7 +555,7 @@ haber gazet : newspaper (gazette)
 haha : laugh  
 hak : right (justification, privilege)  
 hakim : judgment (sentence)  
-hakimar : judge (referee)  
+hakimer : judge (referee)  
 hali : empty  
 halif : caliph  
 halo' : hello (hi)  
@@ -577,7 +577,7 @@ hay : still (yet)
 hayda : let's  
 hazin : treasure (treasury)  
 he : huh? (pardon?)  
-helen    Greek (Hellenic)  
+helen : Greek (Hellenic)  
 helenia : Greece  
 helium : helium  
 helmet : helmet  
@@ -596,7 +596,7 @@ hindu : Hindu
 hisab : calculation (arithmetic, computation)  
 hisaba : calculate  
 histor : history (annals)  
-historar : historian  
+historer : historian  
 historia : history (study of history)  
 hobe : hobby  
 hoke : hockey  
@@ -625,15 +625,15 @@ idealisme : idealisme
 igen : opinion (view)  
 iha : donkey (ass)  
 impera : reign (rule as an emperor)  
-imperar : emperor  
+imperer : emperor  
 imperia : empire  
 in : inside (interior)  
 indika : point (indicate)  
 indonesia : Indonesia  
 informa : inform (communicate)  
 informe : information  
-injenar : engineer  
-inji : ginger  
+inje : ginger  
+injener : engineer  
 insan : human being  
 insania : mankind (humanity)  
 inspira : inspire  
@@ -667,7 +667,7 @@ jane : knowledge
 janela : window  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
-jangar : warrior (fighter)  
+janger : warrior (fighter)  
 jangi : military  
 jani : known  
 jara : jug (jar)  
@@ -679,7 +679,7 @@ jelos : jealous
 jen : birth  
 jen den : birthday  
 jena : give birth (procreate, generate)  
-jenar : parent  
+jener : parent  
 jentil : kind (nice, gentle)  
 jenu : be born  
 jenxen : ginseng  
@@ -699,8 +699,8 @@ jiwe : life
 jiwe lojia : biology (study of life)  
 jiwi : alive (living)  
 jo : that which  
-jokar : joker  
 joke : joke  
+joker : joker  
 jong : species  
 jowan : young  
 jowan fem : girl  
@@ -748,10 +748,10 @@ kamera : camera
 kamerun : Cameroon  
 kamis : shirt  
 kamote : sweet potato  
-kampar : camper  
 kampe : camp  
+kamper : camper  
 kan : workshop (place for...)  
-kanada : Canada  
+kanadia : Canada  
 kanal : channel  
 kande : candy (sweets)  
 kanguru : cangaroo  
@@ -855,14 +855,13 @@ komal : soft
 komoro nesia : Comoros  
 kompania : company (corporation)  
 komputa : compute (to process data)  
-komputar : computer  
+komputer : computer  
 komun : common (shared)  
 komunisme : communism  
 komuniste : communist  
 kon : corner (angle)  
 koncung : insect  
 kong : hole  
-kongo : Congo  
 konsel : advice (counsel)  
 konsida : consider (regard)  
 konson : consonant  
@@ -907,9 +906,9 @@ kuang su : mineral water
 kuba : Cuba  
 kube : cube  
 kuka : cook (prepare food)  
-kukar : cook (chef)  
 kuke kamer : kitchen  
 kuke nesia : Cook Islands  
+kuker : cook (chef)  
 kul : cool  
 kultur : culture  
 kupe : cup  
@@ -967,7 +966,7 @@ libnun : Lebanon
 libu : stand  
 lici : lychee (litchi)  
 lida : lead (direct)  
-lidar : leader (director)  
+lider : leader (director)  
 lietuva : Lithuania  
 liga : connect (join, link)  
 lige : joint (league)  
@@ -1010,7 +1009,7 @@ luna : moon
 lusun : asparagus  
 luta : rob (loot)  
 luza : lose (fail to win)  
-luzar : loser  
+luzer : loser  
 
 ##m
 
@@ -1025,7 +1024,7 @@ madyar : Hungary
 maf : sorry (regret)  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
-magar : magician (sorcerer)  
+mager : magician (sorcerer)  
 magi : magical  
 magia : magic  
 magnes : magnesium  
@@ -1082,8 +1081,8 @@ masa : knead (massage)
 masaje : massage  
 masala : issue  
 maske : mask (camouflage)  
-matikar : mathematician  
 matike : mathematics (math)  
+matiker : mathematician  
 matras : mattress  
 matur : mature (ripe, adult)  
 matur fem : woman (adult female)  
@@ -1116,7 +1115,7 @@ megam : cloud
 melodi : melodious (melodic)  
 melodia : melody  
 memba : participate (attend, take part)  
-membar : member (participant)  
+member : member (participant)  
 meme : sheep  
 memor : memory  
 memora : remember  
@@ -1164,8 +1163,8 @@ mini : tiny (mini-)
 minim : least (minimally)  
 minimalisme : minimalism  
 minimi : minimal  
-ministar : minister  
-ministaria : ministry  
+minister : minister  
+ministeria : ministry  
 minor : minor (not major)  
 minoria : minority  
 minus : except (minus)  
@@ -1182,8 +1181,8 @@ mode : fashion (trend)
 model : model (design)  
 mog : ink  
 mola : grind (grind in mill)  
-molar : miller  
 moldovia : Moldova  
+moler : miller  
 moli : jasmine  
 monako : Monaco  
 mongol : Mongol  
@@ -1196,7 +1195,7 @@ moris : Mauritius
 mos : moss  
 mosim : season  
 moskit : mosquito  
-motar : engine (motor)  
+moter : engine (motor)  
 mozambike : Mozambique  
 mudan : peony  
 muhim : important  
@@ -1215,8 +1214,8 @@ muritania : Mauritania
 musa : coerce (force, compel)  
 muse : coercion  
 musika : play music  
-musikar : musician  
 musike : music  
+musiker : musician  
 muskete : musket  
 musketer : musketeer  
 muskul : muscle  
@@ -1431,9 +1430,9 @@ poker : poker
 polaw : pilaf (pulao)  
 poli : several  
 polis : police  
-polisar : police officer  
-politikar : politician  
+poliser : police officer  
 politike : politics  
+politiker : politician  
 polon : polonium  
 polski : Polish  
 polskia : Poland  
@@ -1460,19 +1459,19 @@ preda : precede (come before)
 presis : precise (exact, accurate)  
 prizon : prison (imprisonment)  
 prizona : imprison (jail)  
-prizonar : jailer (imprisoner)  
+prizoner : jailer (imprisoner)  
 prizonia : prison  
 prizonur : prisoner  
 proba : try (attempt)  
 problem : problem  
 profesor : professor  
 program : program  
-programar : programmer (coder)  
+programer : programmer (coder)  
 proje : project (planned endeavour)  
 proses : process (procedure)  
 puder : powder  
 puding : pudding  
-puertoriko : Puerto Rico  
+puerto riko : Puerto Rico  
 puja : worship (revere)  
 puje : worship (reveration)  
 pul : flower  
@@ -1491,7 +1490,7 @@ puxa : push
 
 radio : radio  
 radium : radium  
-rajar : king or queen  
+rajer : king or queen  
 raji : royal  
 rajia : kingdom  
 ramazan : Ramadan  
@@ -1607,8 +1606,8 @@ sawdar : sibling (brother or sister)
 sawdi arabia : Saudi Arabia  
 sawna : sauna  
 se : self  
-sekretar : secretary  
-sekretaria : secretariat  
+sekreter : secretary  
+sekreteria : secretariat  
 seksa : have sex  
 sekse : sex (sexual intercourse)  
 seksi : sexy (sexual)  
@@ -1689,7 +1688,7 @@ suan : sour
 suba' : morning  
 suba' den : forenoon  
 suba' nyam : breakfast  
-sudafrika : South Africa (republic)  
+sudafrika : South Africa  
 sudan : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
@@ -1747,7 +1746,7 @@ tape : tap (stopper)
 tara : star  
 tarjum : translation (interpretation)  
 tarjuma : translate (interpret)  
-tarjumar : interpreter (translator)  
+tarjumer : interpreter (translator)  
 tatu : tattoo  
 tawa : frying pan  
 tay : Thai (Thailand)  
@@ -1846,8 +1845,8 @@ usamerika : United States of America
 usamerikan samoa : American Samoa  
 usamerikan virjin nesia : Virgin Islands, US  
 uza : use (employ, apply)  
-uzar : user  
 uzbekia : Uzbekistan  
+uzer : user  
 
 ##v
 
@@ -1935,7 +1934,7 @@ xatani : devilish (satanic)
 xaxu : rustle  
 xefe : chief (boss)  
 xefi : main (principal)  
-xefi ministar : prime minister  
+xefi minister : prime minister  
 xenon : xenon  
 xey : thing  
 xiki : elegant (chic)  
@@ -1943,7 +1942,7 @@ xim : heart
 xin : belief (faith, creed)  
 xina : believe  
 xir : poem  
-xirar : poet  
+xirer : poet  
 xirope : syrup  
 xix : hush (shh)  
 xixi : silent  
@@ -1953,7 +1952,8 @@ xowa : show (display)
 xu : tree  
 xudu : should (ought)  
 xula : repair (fix)  
-xular : repairer  
+xule : repair (fix)  
+xuler : repairer  
 
 ##y
 
