@@ -47,7 +47,7 @@ These are the 11 basic rules of Pandunia language.
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu''** - a stone, stones, the stone or the stones  
+> **batu'** - a stone, stones, the stone or the stones  
 > **meza'** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
