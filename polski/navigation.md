@@ -7,6 +7,10 @@
 
 [Rozmówki](fraze.md)
 
+[Kurs](darse.md)
+
+[Pandunia-polski](pandunia-polski.md)
+
 [Gramatyka](kanun.md)
 
 [Filmy](../pandunia/video.md)

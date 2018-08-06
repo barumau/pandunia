@@ -1,0 +1,485 @@
+Lekcje
+=======
+
+Przedstawianie się
+--------------------
+
+### Dialog
+
+> ☻: **tu si ke?** = Kim jesteś?  
+> ☺: **mi si yusef. tu si ke?** = Jestem Yusef. Kim jesteś?  
+> ☻: **mi si maria. ye si ke?** = Jestem Maria. Kto to?  
+> ☺: **ye si mi da panyo.** = To mój przyjaciel.  
+> ☻: **ye da nam si ke?** = Jak się nazywa?  
+> ☺: **ye da nam si sara.** = Nazywa się Sara.
+
+### Gramatyka
+
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi da panyo** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi da panyo** (jest moim przyjacielem).
+
+Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
+
+> **ye si sara.** - Ona jest Sarą.  
+> **ye no sara.** - Ona nie jest Sarą.
+
+> **mau si hewan** - Kot jest zwierzęciem.  
+> **mau no hewan** - Kot nie jest zwierzęciem.  
+
+
+### Ćwiczenia
+
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są pod listą słów.
+
+1. Kim jesteś?
+2. Jestem Tomasz.
+3. Kim jest twój przyjaciel?
+4. Ona to Sara.
+5. Jak się nazywasz?
+6. Nazywam się ...........
+
+
+### Lista słów
+
+**mi** Ja, mnie. **mi da** mój.  
+**tu** ty, cię. **tu da** twój.  
+**ye** on, ona lub ono. **ye da** jego lub jej.  
+**ke** co lub kto.  
+**si** być (jestem, jesteś, jest, itd)
+**si** tak. **no** nie.  
+**bon** dobry, dobrze. **panyo** przyjaciel. **nam** imię, nazwa.
+**fem** kobieta. **man** mężczyzna.
+**mau** kot. **hewan** zwierzę.
+
+### Odpowiedzi do Ćwiczeń
+
+1. tu si ke?
+2. mi si tomas.
+3. tu da panyo si ke?
+4. ye si sara.
+5. tu da nam si ke?
+6. mi da nam si ........... 
+
+
+--------------------------------------------------------------------------------
+
+
+Mówienie cześć
+------------
+
+> **salam** = Cześć!
+
+Oto jak ludzie pozdrawiają się w Panduni. Mówią **salam**. To słowo jest używane i na powitanie, jak i na pożegnanie
+
+> **salam** = Żegnaj!
+
+Słowo **salam** znaczy "pozdrowienie". Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji. Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
+
+Forma czasownikowa **salam** to **salama**, znaczące "pozdrawiać".
+
+> **mi salama tu.** = Pozdrawiam cię.  
+> **tu salama mi.** = Pozdrawiasz mnie.
+
+To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W **mi salama tu** pierwsze słowo, **mi**, jest podmiotem, **salama** jest orzeczeniem (słowem-czynnością), a **tu** jest dopełnieniem. Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
+
+> Kolejność słów w zdaniu czynnym: Podmiot + Orzeczenie + Dopełnienie
+
+W Panduni zaimki osobowe to: **mi** = ja, **tu** = ty, i **ye** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
+
+W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
+
+> **mi salama tu!** = Pozdrawiam cię!  
+> **salama tu!** = Pozdrowienia dla ciebie! (To oczywiste, że mówiący to pozdrawiający.)  
+> **salama!** = Pozdrowienia! (To oczywiste, że słuchacze są pozdrawiania.)
+
+Wzór w **salam tu** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
+
+> **salam toni!** = Cześć, Tony!  
+> **salam mama!** = Cześć, mamo!  
+> **salam papa!** = Cześć, tato!  
+> **salam xefe!** = Cześć, szefie!
+
+Innym słowem w Panduni do pozdrawiania jest **halo**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
+
+**halo!** - Cześć!
+
+
+### Ćwiczenia
+
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są pod listą słów.
+
+1. Pozdrawiasz go/ją.
+2. Mama pozdrawia tatę.
+3. Cześć, mamo!
+4. Żegnaj!
+
+### Lista słów
+
+**salam, halo** pozdrowienie, cześć, witaj, dzień dobry, itd.  
+**mama** matka, mama. **papa** ojciec, tata. **xefe** szef, dyrektor.
+
+
+### Odpowiedzi do Ćwiczeń
+
+1. tu salama ye.
+2. mama salama papa.
+3. salam mama!
+4. salam!
+
+
+--------------------------------------------------------------------------------
+
+
+Proszenie
+---------------
+
+### Dialog
+
+☻: **salam!** = Cześć!  
+☺: **salam! cing sidu.** = Cześć! Proszę, usiądź!  
+☻: **danke.** = Dziękuję.  
+☺: **cing nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
+☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
+...  
+☺: **cing salama tu da mama!** = Proszę pozdrów twoją matkę.  
+☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
+☺: **salam!** = Cześć!
+
+
+### Gramatyka
+
+Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **ye** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
+
+> **mi cing tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
+
+Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **cing** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+
+> Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
+
+Struktura osiowa jest powszechną strukturą w Panduni.
+
+Pamiętaj, żee można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
+
+> **mi cing tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
+> **cing salama ye.** = Proszę, pozdrów go/ją.
+
+Zdanie **cing salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+
+> **cing sidu.** = Proszę, usiąść.  
+> **cing dona kafe.** = Proszę, podaj kawę.  
+> **cing dona ca.** = Proszę, podaj herbatę.  
+> **cing nyama ca.** = Proszę, pij herbatę.  
+> **cing safa kamer.** = Proszę, sprzątaj pokój.
+
+Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **cing**.
+
+> **manda dona ca.** = Daj (mi) herbatę!  
+> **manda safa kamer.** = Sprzątaj pokój!
+
+W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
+
+> **safa ye!** = Sprzątaj to!
+
+
+### Ćwiczenia
+
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+
+1. Pije herbatę.
+2. Szef poprosił ją, by usiadła.
+3. Proszę, napij się kawy lub herbaty.
+4. Matka poprosiła mnie, żebym sprzątał pokój.
+5. Szef siada i pije kawę.
+
+
+### Lista słów
+
+**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamer** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sidu** siedzieć. **nyama** jeść lub pić.
+
+
+### Odpowiedzi do Ćwiczeń
+
+1. ye nyama ca.
+2. xefe cing ye sidu.
+3. cing nyama kafe u ca.
+4. mama cing mi safa kamer.
+5. xefe sidu i nyama kafe.
+
+
+--------------------------------------------------------------------------------
+
+
+Pytania "tak lub nie"
+-------------------
+
+### Dialog
+
+☻: **salam! kia tu nyama kafe u ca?** = Witam! Czy chce pan kawę albo herbatę?  
+☺: **ca.** = Herbatę.  
+☻: **i tu?** = A pan?  
+○: **mi no baxa pandunia...** = Nie mówię w Panduni...  
+☻: **sori! kia ye nyama ca?** = Przepraszam! Czy napije się herbaty?  
+☺: **no. ye no nyama ca. ye nyama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
+☻: **kia tu nyama supe?** = Czy zje pan zupę?  
+☺: **nyama.** = Tak. (_Jem._)  
+☻: **kia ye nyama supe?** = Czy on zje zupę?  
+☺: **no nyama.** = Nie.  
+☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
+ = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
+
+
+### Zadawanie pytań
+
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **cing**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **kia** = pytać.
+
+> **mi kia tu nyama ca.** = Ja pytam cię, czy napijesz się herbaty.  
+> **kia tu nyama ca?** = Czy pijesz herbatę?  
+> **kia nyama ca?** = Czy pić herbatę?
+
+Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi. Dlatego drugi ziamek jest zazwyczaj potrzebny. Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
+
+> **kia ye nyama ca?** = Czy on/ona pije herbatę?  
+> **kia tu nyama supe?** = Czy jesz zupę?  
+> **kia mimen nyama suy?** = Czy pijemy wodę?
+
+Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
+
+> **kia xefe nyama kafe?** = Czy szef pije kawę?  
+> **kia papa safa kamer?** = Czy ojciec sprząta pokój?  
+> **kia niki baxa pandunia?** = Czy Nicky mówi Pandunia?
+
+
+### Dawanie odpowiedzi
+
+Na pytania tak/nie można odpowiadać słowami **si** = tak, i **no** = nie.
+
+> – **kia tu nyama supe?** = Czy jesz zupę?  
+> – **si.** = Tak.  
+> – **kia ye nyama supe?** = Czy ona je zupę?  
+> – **no.** = Nie.
+
+Można odpowiadać też bardziej złożenie.
+
+> – **kia tu nyama kafe?** = Czy pijesz kawę?  
+> – **si. mi nyama kafe.** = Tak, piję kawę.  
+> – **kia ye nyama kafe?** = Czy on pije kawę?  
+> – **no. ye no nyama kafe.** = Nie, on nie pije kawy.
+
+Można też odpowiadadać twierdząco powtarzając główny czasownik z pytania.
+
+> – **kia tu nyama suy?** = Czy pijesz wodę?  
+> – **nyama.** = (Tak,) piję.
+
+
+### Ćwiczenia
+
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+
+1. Czy mówisz w Panduni?
+2. Tak, mówię w Panduni.
+3. Czy matka pije kawę?
+4. Nie, ona nie pije kawę.
+5. Czy ona je zupę?
+6. Ona nie je.
+
+
+
+### Word List
+
+**bada** po. **sori** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **kia** zapytać, pytać. **si** tak.
+
+
+### Odpowiedzi do Ćwiczeń
+
+1. kia tu baxa pandunia?
+2. si. mi baxa pandunia.
+3. kia mama nyama kafe?
+4. no. ye no nyama kafe.
+5. kia ye nyama supe?
+6. (ye) no nyama.
+
+
+--------------------------------------------------------------------------------
+
+Mówienie nie
+---------
+
+W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. Słowo **no** jest używane do przeczenia. Dodawanie **no** przed czasownikiem zamienia zdanie twierdzące w przeczące.
+
+> **mi salama tu.** = Pozdrawiam cię.  
+> **mi no salama tu.** = Nie pozdrawiam cię.
+
+Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no salama tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
+
+> **mi cing tu safa kamer.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **mi no cing tu safa kamer.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **mi cing tu no safa kamer.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+
+
+Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
+
+> **ye no ada mau.** = Ona nie ma koty.  
+> **ye ada no mau, ama waf.** = Ona ma nie koty, ale psy.  
+> **no ye, a mi ada mau.** = Nie ona, ale ja mam koty.  
+> **mi ada no un, a do mau.** = Ja nie mam jednego, ale dwa koty.
+
+
+### Ćwiczenia
+
+Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej niż jedna poprawna odpowiedź
+
+1. Nie sprzątał pokoju.
+2. Jeden kubek nie jest pusty.
+3. Dwa psy nie jedzą zupy.
+4. Nie ma psa ani kota.
+5. Szef pije herbatę ale nie kawę.
+6. Matka nie ma psa, ale (ma) dwa koty. 
+
+
+### Word List
+
+**kupe** kubek, szklanka. **hali** pusty. **ada** mieć. **mau** kot. **waf** pies. **do** dwa. **nul** zero. **a** ale.
+
+
+### Odpowiedzi do Ćwiczeń
+
+1. ye no safa kamer.
+2. un kupe no hali.
+3. dua waf no nyama supe.
+4. ye no ada waf i mau. / ye ada no waf i no mau.
+5. xefe nyama ca a no kafe.
+6. mama ada no waf a do mau.
+
+
+<!--
+
+--------------------------------------------------------------------------------
+
+Więcej pytań
+--------------
+
+Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek **ke**. Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
+
+> **ye si ke?** = Cot to jest? / Kim on/ona jest?
+> **ke ren lai?** = Kto przychodzi? (**ren** = osoba)  
+> **ke zaman tu nyama?** = Kiedy jesz? (**zaman** = czas)  
+> **ke yang dansa?** = Jak tańczyć? (**yang** = sposób, styl)
+
+W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
+
+> **tu suku mau koz ke?** = Dlaczego lubisz koty?
+
+Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **koz** przed przyczyną lub powodem. **koz** jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
+
+> **tu suku mau koz ke?** = Dlaczego lubisz koty?  
+> **koz yemen kaway.** = Ponieważ są słodkie.
+
+Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
+
+> **mi suku mau koz yemen kaway.** = Lubię koty, bo są słodkie.
+
+### Ćwiczenia
+
+1. Kto lubi zupę?
+2. Ojciec lubi.
+3. Kiedy przyjdzie?
+4. Za dziesięć minut.
+5. Dlaczego nie je?
+6. Ponieważ nie lubi kawy ani zupy.
+
+
+### Lista słów
+
+**dansa** tańczyć. **lai** przychodzić **ren** osoba. **suku** lubić. **yang** sposób, styl. **zaman** czas.
+
+
+### Odpowiedzi do Ćwiczeń
+
+
+1. ke ren suku supe?
+2. papa suku.
+3. ke zam ye lai?
+4. na des minut bada.
+5. ye no nyama koz ke?
+6. koz (ye) no suku kafe u supe.
+
+-->
+
+
+--------------------------------------------------------------------------------
+
+Przeszłość, teraźniejszość i przyszłość
+------------------------
+
+### Wyrażanie czasu
+
+Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **mi nyama pan** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
+
+> **mi nyama pan na suba nyam.** = Zjadłem chleb na poranny posiłek.
+
+Istnieją też konkretne słowa opisujące czas.
+
+> **ja** - już, przed określonym czasem  
+> **gang** - przed chwilą, niedawno  
+> **zay** - teraz, w tym momencie  
+> **hai** - nadal  
+> **sun** - niedługo  
+> **futur** - w przyszłości
+
+
+
+Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zay** i **futur**. Mogą być używane do modyfikowania rzeczowników.
+
+> **sara si mi da pas xefe.** = Sara jest moim byłym szefem.  
+> **yusef si mi da zay xefe.** = Yusef jest moim obecnym szefem.  
+> **maria si mi da futur xefe.** = Maria jest moim przyszłym szefem.
+
+Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
+
+> **mi pas darba ye.** = Uderzyłem to (w przeszłości).  
+> **mi zay darba ye.** = Uderzam to (teraz).  
+> **mi futur darba ye.** = Uderzę to (w przeszłości).
+
+Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu.
+
+> **mi darba ye pas.**  
+> **mi darba ye zay.**  
+> **mi darba ye futur.**
+
+
+Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
+
+> **mi pas ada un mau.** = Miałem jednego kota w przeszłości.  
+> **ye bon mau.** = To był dobry kot.  
+> **mi ada un waf zay.** = Mam teraz jedneg psa.
+
+Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
+
+> **mi jenu na nen 2003.** = Urodziłem się w 2003. roku.  
+> **ye safa kamer na badi den.** = Posprząta pokój jutro.
+
+
+### Lista słów
+
+**pas** przeszły, były. **zay** teraźniejszy, obecny. **futur** przyszły. **darba** uderzyć, bić. **pan** chleb. **suba nyam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
+
+### Ćwiczenia
+
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są na dole strony.
+
+1. Mój szef będzie świętował w przyszłości.
+2. Miałem dwa psy.
+3. Jesz teraz zupę.
+4. Sprzątała pokój dzień wcześniej.
+5. Kot będzie jutro pił kawę.
+6. Twoja matka świętowała zeszłej nocy.
+
+### Odpowiedzi do Ćwiczeń
+
+1. mi da xefe festa futur.
+2. mi ada do waf pas.
+3. tu nyama supe zay.
+4. ye safa kamer na befo den.
+5. mau nyama kafe na badi den.
+6. tu da mama festa na befo noce.
+
+
