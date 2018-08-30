@@ -1,4 +1,4 @@
-pandunia - prosty międzynarodowy język
+pandunia - prosty światowy język
 ==================================
 
 ![](http://www.pandunia.info/bander/bander.png "Flaga Panduni")
@@ -24,14 +24,14 @@ Uwaga: Pandunia jest językiem w procesie tworzenia. Struktura i słownictwo mog
 - [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Pisownia](abc.md)
 - [Rozmówki](fraze.md)
-<!---- [Lekcje z Dialogami](darse.md)
+- [Lekcje z Dialogami](darse.md)
 - [Gramatyka](kanun.md)
 
-- [Słownik z możliwością wyszukiwania](tiddly.html)
-- słownik [polski-Pandunia](polski-pandunia.md)
+<!--- [Słownik z możliwością wyszukiwania](tiddly.html)
+- słownik [polski-Pandunia](polski-pandunia.md)-->
 - słownik [Pandunia-polski](pandunia-polski.md)
 
-## Niefleksyjny dialekt
+<!--## Niefleksyjny dialekt
 
 - [Niefleksyjna Pandunia](simpli_pandunia.html)
 - [Zdania w Niefleksyjnej Panduni](simpli_pandunia_da_fraze.md)--->

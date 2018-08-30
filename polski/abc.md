@@ -1,4 +1,4 @@
-Pismo Pandunii
+Pisownia Pandunii
 ====================
 
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński. Oto alfabet Pandunii z odpowiedznimi symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
@@ -18,7 +18,7 @@ Pandunia ma pięć samogłosek.
     e   o
       a
 
-Wymawia się je następująco: **a** jak w _banan_, **e** jak w _gen_, **i** jak w _idea_, **o** jak w _koń_ i **u** jak w _bunt_. To czyste samogłoski, więc ich jakość nie zmienia się podczas długiej wymowy.
+Wymawia się je praktycznie jak w języku polskim. To czyste samogłoski, więc ich cechy nie zmieniają się podczas długiej wymowy.
 
 Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w polskim.
 
@@ -36,12 +36,12 @@ Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, 
 
 Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polskim.
 
-- **r**, najlepiej, by była drżąca jak w hiszpańskim carro. Inne wymowy są akceptowane.
+- **r**, najlepiej, by była drżąca jak w hiszpańskim _carro_. Inne wymowy są akceptowane.
 - **v** jest zawsze wymawiane jak W w _wóz_.
 - **x** jest zawsze wymawiane jak SZ w _szpital_.
 - **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
-- **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_. Na końcu słowa, **g** w **ng** może być niema. Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
+- **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko. Na końcu słowa, **g** w **ng** może być nieme. Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
 - **'** jest znane jako zwarcie krtaniowe i jest wymawiana jak "puza" w _o-o_.
 
 
