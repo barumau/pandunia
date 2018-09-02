@@ -435,7 +435,7 @@ Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
 **mi ken lil pandunia.** Umiem trochę mówić w Panduni.
 
-**mi no ken englix.** Nie znam języka angielskiego.
+**mi no ken engli.** Nie znam języka angielskiego.
 
 **sori. mi no ken tu da baxa.** Przepraszam. Nie mówię w twoim języku.
 
@@ -740,7 +740,7 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **dom** dom, rezydencja <small>(rosyjskie _dom_ дом)</small>  
 **doma** mieszkać, rezydować  
 **enda** iść <small>(suahili _kuenda_)</small>  
-**englix** angielski  
+**engli** angielski  
 **fem** kobieta <small>(francuskie _femme_)</small>  
 **gata** mówić <small>(japońskie _kataru_ 語る)</small>  
 **gon** przedtem, wcześniej <small>(tajskie _gɔ̀ɔn_ ก่อน)</small>  

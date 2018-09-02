@@ -4,7 +4,7 @@ Pisownia Pandunii
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński. Oto alfabet Pandunii z odpowiedznimi symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
     Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
@@ -42,7 +42,7 @@ Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polsk
 - **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
 - **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko. Na końcu słowa, **g** w **ng** może być nieme. Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
-- **'** jest znane jako zwarcie krtaniowe i jest wymawiana jak "puza" w _o-o_.
+- **'** jest wyciszona spółgłoska.
 
 
 ### Akcent
