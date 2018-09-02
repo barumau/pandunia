@@ -283,13 +283,13 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 
 
-### mede <small>help</small>
+### helpe <small>help</small>
 
-**mi nida mede.** I need help.
+**mi nida helpe.** I need help.
 
-**kia tu ken meda mi?** Can you help me?
+**kia tu ken helpa mi?** Can you help me?
 
-**kia mi ken meda tu?** Can I help you?
+**kia mi ken helpa tu?** Can I help you?
 
 
 
@@ -298,7 +298,7 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 ### nyama <small>consume, eat, drink</small>
 
-**kia tu wol nyama yo?** Would you like to eat something?
+**kia tu wol nyama koy?** Would you like to eat something?
 
 **ye nyama apel.** He/she eats an apple.
 
@@ -340,7 +340,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 
 **mi cing tu lay dom.** I ask you to come home.
 
-**mi cing tu meda mi.** I ask you to help me.
+**mi cing tu helpa mi.** I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
@@ -350,7 +350,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing lay dom.** Please, come home!
 
-**cing meda mi.** Please, help me.
+**cing helpa mi.** Please, help me.
 
 
 
@@ -362,9 +362,9 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi danka tu.** I thank you.
 
-**mi danka tu meda mi.** I thank you for helping me.
+**mi danka tu helpa mi.** I thank you for helping me.
 
-**danka tu meda mi.** Thanks for helping me.
+**danka tu helpa mi.** Thanks for helping me.
 
 **tu keci.** You're welcome. (Literally: _You're polite._)
 
@@ -382,7 +382,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### nida <small>need</small>
 
-**mi nida mede.** I need help.
+**mi nida helpe.** I need help.
 
 **mi nida nyama.** I'm hungry.
 
@@ -742,7 +742,9 @@ All words of Pandunia are loan words from other languages that are spoken around
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**haber** news <small>(Malay _khabar_)</small>  
+**habar** news <small>(Malay _khabar_)</small>  
+**helpa** to help, to assist  
+**helpe** help, assistance <small>(English _help_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
 **kafe** coffee <small>(German _Kaffee_)</small>  
@@ -757,8 +759,6 @@ All words of Pandunia are loan words from other languages that are spoken around
 **ma** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mana** to mean <small>(Swahili _maana_)</small>  
-**meda** to help, to assist <small>(French _aider_)</small>  
-**mede** help, assistance  
 **mi** I, me <small>(Swahili _mimi_)</small>  
 **mimen** we  
 **na** at, in, on, with <small>(Lingala _na_)</small>  

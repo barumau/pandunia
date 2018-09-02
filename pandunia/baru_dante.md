@@ -35,35 +35,35 @@ bada, baru' bace senta no jan da sente na boka. ye da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye kapa tele fon. ye loga: "halo! kia tu si dante doktar? cing lay to mi! mi ada tung dante!"
+ye kapa tele fon. ye loga: "halo! kia tu si dante dokter? cing lay to mi! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-doktar lay to baru' famil da dom. ye loga: "kia tu nida mede?" baru' bace loga: "si! mi ada tung dante!"
+dokter lay to baru' famil da dom. ye loga: "kia tu nida helpe?" baru' bace loga: "si! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-doktar cing baru' bace sidu na kursi i kaya boka. "aha! un dante day mal! mi mus kapa ye to way."
+dokter cing baru' bace sidu na kursi i kaya boka. "aha! un dante day mal! mi mus kapa ye to way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
-doktar juxa dawa to dante manse na jin du mal dante. baru' bace no senta tung ze zay.
+dokter juxa dawa to dante manse na jin du mal dante. baru' bace no senta tung ze zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 
-doktar tira dante na pinse. a dante no lay!
+dokter tira dante na pinse. a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_14.png)
 
-waf lay meda doktar. doktar i waf tira dante, a dante no lay!
+waf lay helpa dokter. dokter i waf tira dante, a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_15.png)
 
-maw lay meda doktar i waf. doktar i waf i maw tira dante, a dante no lay!
+maw lay helpa dokter i waf. dokter i waf i maw tira dante, a dante no lay!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_16.png)
 
-lixu lay meda doktar i waf i maw. doktar i waf i maw i lixu tira dante...
+lixu lay helpa dokter i waf i maw. dokter i waf i maw i lixu tira dante...
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_17.png)
 
@@ -71,11 +71,11 @@ dante lay to way!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-doktar loga to baru' bace: "mal dante na way zay. cing memora uza dante brox na mey suba i na mey xam!" baru' bace wada memora.
+dokter loga to baru' bace: "mal dante na way zay. cing memora uza dante brox na mey suba i na mey xam!" baru' bace wada memora.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
 
-baru' bace loga: "danke doktar i waf i maw i lixu!"
+baru' bace loga: "danke dokter i waf i maw i lixu!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 

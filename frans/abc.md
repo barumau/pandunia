@@ -3,8 +3,8 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-    pandunia : a b c  d e f g h i j  k l m n o p r s t u w x y z
-    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
+    pandunia : a b c  d e f g h i j  k l m n o p r s t u w x y z '
+    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -36,25 +36,28 @@ La plupart des consonnes se prononcent comme en français. Ainsi, la prononciati
 
 Les consonnes suivantes se prononcent différement en pandunia et en français :
 
-- **x** se prononce toujours comme le « ch » de _chat_ ;
-- **c** se prononce comme le « tch » de _tchâo !_.
-- **j** est prononcé comme le « dj » dans _Djibouti_.
-- **h** est aspiré ou il est un son guttural, comme le « ch » allemand de _Ach!_ ou le la « jota » espagnole.
 - **g** se prononce toujours comme dans _gâteau_.
 - **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
 - **s** est toujours léger comme dans _souris_. 
+- **x** se prononce toujours comme le « ch » de _chat_.
+- **c** se prononce comme le « tch » de _tchâo !_.
+- **j** est prononcé comme le « dj » dans _Djibouti_.
 - **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
-- **h** est aspiré comme dans _**h**ello_
-
+- **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
+- **'** est nommé en linguistique le coup de glotte, et il se prononce comme le h aspiré dans _les hérissons_.
 
 
 ### Accent tonique
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
-1. Les mots d’une seule syllabe sont accentuées. Par exemple : MAU, TONG;
-2. L’accent est sur la dernière syllabe des mots qui se finissent par une consonne. Par exemple : koMUN, baZAR, kaMIS;
-3. L’accent est sur l’avant-dernière syllabe des mots qui finissent par une voyelle. Par exemple : DUnia, meLOdi.
+1. Les mots d’une seule syllabe sont accentuées. Ex. : máw, cíng.
+2. L’accent est sur la dernière syllabe des mots qui se finissent par une consonne. Ex. : komún, bazár, kamís, barú'.
+3. L’accent est sur l’avant-dernière syllabe des mots qui finissent par une voyelle. Ex. : nówi, dúnia, musíke.
+
+> **dúnia sí mimén da sundár planéte.**  
+> **mí wól lóga komún báxa, yé sí pandúnia.**  
+> **yé nó báta batá'.**
 
 
 ### Schwa
@@ -110,6 +113,31 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 La structure la plus commune en Pandunia est CVCV (C = consonne, V = voyelle).
 
-La combinaison de syllabes la plus lourde est CLVCCVC, où L est une consonne liquide (l ou r).
-Le mot **kristal** en est un exemple.
+La combinaison de syllabes la plus lourde est CLVCCVC, où L est une consonne liquide (l ou r). Le mot **kristal** en est un exemple.
+
+Les consonnes initiales sont limitées à :
+
+1. N'importe quelle consonne simple excepté /ŋ/
+2. Occlusive + liquide
+    - pl, bl, kl, gl
+    - pr, br, tr, dr, kr, gr
+3. ny
+
+Les groupes de consonnes centrales sont limitées à :
+
+1. Sonante (m, n, ŋ, l, r) + occlusive or affriquée
+    - mp, mb, nt, nd, nk, ng, nc, nj
+    - lp, lb, lt, ld, lk, lg
+    - rp, rb, rt, rd, rk, rg
+2. Sonante + silibante
+    - ns, ls, rs
+    - nz, lz, rz
+    - nx, lx, rx
+3. Silibante + occlusive
+    - st, sp, sk
+4. Occlusive + liquide (voir ci-dessus)
+
+Les consonnes finales autorisées sont:  
+m, n, ng, l, r, s, x
+
 

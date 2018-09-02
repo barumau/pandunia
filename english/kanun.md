@@ -47,7 +47,7 @@ These are the 11 basic rules of Pandunia language.
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu''** - a stone, stones, the stone or the stones  
+> **batu'** - a stone, stones, the stone or the stones  
 > **meza'** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
@@ -139,10 +139,10 @@ Modifiers can be compared.
 - **minim** (least) indicates the superlative of inferiority
 - **sem** (as) indicates the comparison of equality
 
-Particle **ka** relates the adverbs of comparison to the point of comparison.
+Particle **kom** relates the adverbs of comparison to the point of comparison.
 
-> **mi si max bon ka tu.** - I am better than you.  
-> **tu loga sem bon ka mi.** - You speak as well as mi.
+> **mi si max bon kom tu.** - I am better than you.  
+> **tu loga sem bon kom mi.** - You speak as well as mi.
 
 
 #### 3.6. Modifier ending
@@ -761,18 +761,18 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 
 ### 10.2. Preposition of relation
 
-Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
+Prepositions **kom** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi saba pandunia ka guru.** - I know Pandunia like a master.
+> **mi saba pandunia kom guru.** - I know Pandunia like a master.
 
-**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
+**kom** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
 
-**ka** is also used when adjectives are compared.
+**kom** is also used when adjectives are compared.
 
-> **bace si min day ka papa.** - The child is smaller than the father.  
-> **opa si sem day ka papa.** - Grandfather is as big as father.
+> **bace si min day kom papa.** - The child is smaller than the father.  
+> **opa si sem day kom papa.** - Grandfather is as big as father.
 
-**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**kom** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
 
 
