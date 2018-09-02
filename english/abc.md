@@ -4,7 +4,7 @@ Spelling of Pandunia
 The Basic Latin alphabet is used for writing Pandunia. Here is the alphabet of Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
     Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
+    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is silent. Every letter has one sound, always the same.
 
@@ -44,7 +44,7 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **c** is pronounced like CH in _chip_.
 - **j** is pronounced like the English J.
 - **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
-- **'** is known as the glottal stop and it is pronounced like the "pause" in _uh-oh_.
+- **'** is a mute consonant. It doesn't have a sound but it can affect the location of the accented syllable.
 
 
 
