@@ -550,8 +550,8 @@ gustu ka : taste like
 
 ##h
 
-haber : news  
-haber gazet : newspaper (gazette)  
+habar : news  
+habar gazet : newspaper (gazette)  
 haha : laugh  
 hak : right (justification, privilege)  
 hakim : judgment (sentence)  
@@ -581,6 +581,8 @@ helen : Greek (Hellenic)
 helenia : Greece  
 helium : helium  
 helmet : helmet  
+helpa : help (assist)  
+helpe : help (aid, assistance)  
 hem : hmm  
 hema : ponder (think)  
 hen : hate  
@@ -1105,9 +1107,9 @@ mayu : melt (get molten)
 maza : amuse (entertain)  
 maze : fun (amusement)  
 mazi : funny (amusing)  
-meda : help (assist)  
 medalia : medallion (medal)  
-mede : help (aid, assistance)  
+medi : mean (medium, average)  
+media : media  
 medita : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
@@ -1146,8 +1148,6 @@ meza : table
 mi : I (me)  
 mi da : my  
 micin : MSG (monosodium glutamate)  
-midi : mean (medium, average)  
-midia : media  
 mien : noodle  
 migan : mandarin orange  
 mikro : micro-  
@@ -1170,7 +1170,7 @@ minoria : minority
 minus : except (minus)  
 minut : minute  
 mira : reflect  
-mirar : mirror  
+mirer : mirror  
 misal : example (instance of)  
 miskin : poor (miserable)  
 misri : Egyptian  
@@ -1313,7 +1313,7 @@ nyami : delicious (yummy)
 
 o : oh!  
 ofis : office (position)  
-ofisar : officer  
+ofiser : officer  
 okey : okay (acceptable)  
 okeya : accept (to say okay)  
 okse : oxygen  
@@ -1602,9 +1602,9 @@ sapater : shoemaker
 sapateria : shoemaker's shop  
 sar : head  
 sar oste : skull  
-sawdar : sibling (brother or sister)  
-sawdi arabia : Saudi Arabia  
-sawna : sauna  
+saudar : sibling (brother or sister)  
+saudi arabia : Saudi Arabia  
+sauna : sauna  
 se : self  
 sekreter : secretary  
 sekreteria : secretariat  
@@ -1889,7 +1889,7 @@ weka : wake (make awake)
 weki : awake  
 wen : circle (ring)  
 werka : work  
-werkar : worker  
+werker : worker  
 werke : work (job, task)  
 werme : worm  
 weste : west  

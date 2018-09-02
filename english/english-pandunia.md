@@ -822,8 +822,8 @@ helium   : helium
 hell   : narak  
 hello (hi)   : halo'  
 helmet   : helmet  
-help (aid, assistance)   : mede  
-help (assist)   : meda  
+help (aid, assistance)   : helpe  
+help (assist)   : helpa  
 hemp (cannabis)   : ganja'  
 heritage (legacy, bequest)   : waris  
 hero   : hero'  
@@ -1109,13 +1109,13 @@ May   : mes 5 (mes lim)
 Maya   : maya  
 Mayotte   : mayote  
 mean (cruel)   : zalim  
-mean (medium, average)   : midi  
+mean (medium, average)   : medi  
 mean (signify)   : mana  
 meaning (signification)   : mane  
 measure   : metre  
 meat (flesh)   : manse  
 medallion (medal)   : medalia  
-media   : midia  
+media   : media  
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mit  
@@ -1148,7 +1148,7 @@ ministry   : ministeria
 minor (not major)   : minor  
 minority   : minoria  
 minute   : minut  
-mirror   : mirar  
+mirror   : mirer  
 misfortune (bad luck)   : mal zar  
 model (design)   : model  
 Moldova   : moldovia  
@@ -1218,8 +1218,8 @@ Netherlands Antilles   : nederlandi antilia
 new (novel)   : nowi  
 New Caledonia   : nowi kaledonia  
 New Zealand   : nowi zilandia  
-news   : haber  
-newspaper (gazette)   : haber gazet  
+news   : habar  
+newspaper (gazette)   : habar gazet  
 newton (N)   : nuton  
 Nicaragua   : nikaragua  
 nice (pleasant, lovely)   : latif  
@@ -1264,7 +1264,7 @@ October   : mes 10 (mes des)
 odd (strange, weird)   : bizar  
 of (particle of possession)   : du  
 office (position)   : ofis  
-officer   : ofisar  
+officer   : ofiser  
 often (frequently)   : cang  
 oh!   : o  
 okay (acceptable)   : okey  
@@ -1582,8 +1582,8 @@ Sao Tome and Principe   : santi tome i prinsipe
 Saturday   : war 6 (war sis)  
 Saturn   : xani  
 sauce   : sos  
-Saudi Arabia   : sawdi arabia  
-sauna   : sawna  
+Saudi Arabia   : saudi arabia  
+sauna   : sauna  
 sausage   : sosis  
 save (deposit, bank)   : banka  
 saw tool   : ara  
@@ -1637,7 +1637,7 @@ show (display)   : xowa
 show (display, exhibition)   : xow  
 shower   : dux  
 Siberia   : sibir  
-sibling (brother or sister)   : sawdar  
+sibling (brother or sister)   : saudar  
 sick (ill)   : beng  
 Sierra Leone   : salone  
 sign (signal)   : sinye  
@@ -1987,7 +1987,7 @@ word   : lekse
 word list   : loge liste  
 work   : werka  
 work (job, task)   : werke  
-worker   : werkar  
+worker   : werker  
 workshop (place for...)   : kan  
 world   : dunia  
 world language   : dunia bax  
