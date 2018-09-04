@@ -433,7 +433,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi ken lil pandunia.** I speak a little Pandunia.
 
-**mi no ken englix.** I don't speak English.
+**mi no ken engli.** I don't speak English.
 
 **sori. mi no ken tu da baxa.** Sorry, I don't speak your language.
 
@@ -738,7 +738,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **dom** home, residence <small>(Russian _dom_ дом)</small>  
 **doma** live, reside  
 **enda** to go <small>(Swahili _kuenda_)</small>  
-**englix** English  
+**engli** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  

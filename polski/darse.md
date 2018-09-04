@@ -22,8 +22,8 @@ Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystk
 > **ye si sara.** - Ona jest Sarą.  
 > **ye no sara.** - Ona nie jest Sarą.
 
-> **mau si hewan** - Kot jest zwierzęciem.  
-> **mau no hewan** - Kot nie jest zwierzęciem.  
+> **maw si hewan** - Kot jest zwierzęciem.  
+> **maw no hewan** - Kot nie jest zwierzęciem.  
 
 
 ### Ćwiczenia
@@ -48,7 +48,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **si** tak. **no** nie.  
 **bon** dobry, dobrze. **panyo** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
-**mau** kot. **hewan** zwierzę.
+**maw** kot. **hewan** zwierzę.
 
 ### Odpowiedzi do Ćwiczeń
 
@@ -317,10 +317,10 @@ Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słow
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **ye no ada mau.** = Ona nie ma koty.  
-> **ye ada no mau, ama waf.** = Ona ma nie koty, ale psy.  
-> **no ye, a mi ada mau.** = Nie ona, ale ja mam koty.  
-> **mi ada no un, a do mau.** = Ja nie mam jednego, ale dwa koty.
+> **ye no ada maw.** = Ona nie ma koty.  
+> **ye ada no maw, ama waf.** = Ona ma nie koty, ale psy.  
+> **no ye, a mi ada maw.** = Nie ona, ale ja mam koty.  
+> **mi ada no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -337,7 +337,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Word List
 
-**kupe** kubek, szklanka. **hali** pusty. **ada** mieć. **mau** kot. **waf** pies. **do** dwa. **nul** zero. **a** ale.
+**kupe** kubek, szklanka. **hali** pusty. **ada** mieć. **maw** kot. **waf** pies. **do** dwa. **nul** zero. **a** ale.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -345,9 +345,9 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 1. ye no safa kamer.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no ada waf i mau. / ye ada no waf i no mau.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafe.
-6. mama ada no waf a do mau.
+6. mama ada no waf a do maw.
 
 
 <!--
@@ -366,16 +366,16 @@ Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi
 
 W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
 
-> **tu suku mau koz ke?** = Dlaczego lubisz koty?
+> **tu suku maw koz ke?** = Dlaczego lubisz koty?
 
 Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **koz** przed przyczyną lub powodem. **koz** jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
-> **tu suku mau koz ke?** = Dlaczego lubisz koty?  
+> **tu suku maw koz ke?** = Dlaczego lubisz koty?  
 > **koz yemen kaway.** = Ponieważ są słodkie.
 
 Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-> **mi suku mau koz yemen kaway.** = Lubię koty, bo są słodkie.
+> **mi suku maw koz yemen kaway.** = Lubię koty, bo są słodkie.
 
 ### Ćwiczenia
 
@@ -448,8 +448,8 @@ Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu
 
 Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-> **mi pas ada un mau.** = Miałem jednego kota w przeszłości.  
-> **ye bon mau.** = To był dobry kot.  
+> **mi pas ada un maw.** = Miałem jednego kota w przeszłości.  
+> **ye bon maw.** = To był dobry kot.  
 > **mi ada un waf zay.** = Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
@@ -479,7 +479,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 2. mi ada do waf pas.
 3. tu nyama supe zay.
 4. ye safa kamer na befo den.
-5. mau nyama kafe na badi den.
+5. maw nyama kafe na badi den.
 6. tu da mama festa na befo noce.
 
 

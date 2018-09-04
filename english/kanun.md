@@ -139,10 +139,10 @@ Modifiers can be compared.
 - **minim** (least) indicates the superlative of inferiority
 - **sem** (as) indicates the comparison of equality
 
-Particle **kom** relates the adverbs of comparison to the point of comparison.
+Particle **ka** relates the adverbs of comparison to the point of comparison.
 
-> **mi si max bon kom tu.** - I am better than you.  
-> **tu loga sem bon kom mi.** - You speak as well as mi.
+> **mi si max bon ka tu.** - I am better than you.  
+> **tu loga sem bon ka mi.** - You speak as well as mi.
 
 
 #### 3.6. Modifier ending
@@ -761,18 +761,18 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 
 ### 10.2. Preposition of relation
 
-Prepositions **kom** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
+Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi saba pandunia kom guru.** - I know Pandunia like a master.
+> **mi saba pandunia ka guru.** - I know Pandunia like a master.
 
-**kom** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
+**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
 
-**kom** is also used when adjectives are compared.
+**ka** is also used when adjectives are compared.
 
-> **bace si min day kom papa.** - The child is smaller than the father.  
-> **opa si sem day kom papa.** - Grandfather is as big as father.
+> **bace si min day ka papa.** - The child is smaller than the father.  
+> **opa si sem day ka papa.** - Grandfather is as big as father.
 
-**kom** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
 
 
 

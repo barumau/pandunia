@@ -22,8 +22,8 @@ The word **si** means _to be_ in Pandunia. The same word is used for all persons
 > **ye si sara.** - She is Sara.  
 > **ye no sara.** - She is not Sara.  
 
-> **mau si hewan** - The cat is an animal.  
-> **mau no hewan** - The cat is not an animal.  
+> **maw si hewan** - The cat is an animal.  
+> **maw no hewan** - The cat is not an animal.  
 
 
 ### Exercises
@@ -48,7 +48,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 **si** yes. **no** no.  
 **bon** good. **panyo** friend. **nam** name.
 **fem** woman. **man** man.
-**mau** cat. **hewan** animal.
+**maw** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
@@ -319,10 +319,10 @@ Conceptually negation means the absence or non-existence of the negated word. In
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
-> **ye no ada mau.** = She doesn't have a cat.  
-> **ye ada no mau, ama waf.** = She has no cats but dogs.  
-> **no ye, a mi ada mau.** = Not she but I have cats.  
-> **mi ada no un, a do mau.** = I have not one but two cats.
+> **ye no ada maw.** = She doesn't have a cat.  
+> **ye ada no maw, ama waf.** = She has no cats but dogs.  
+> **no ye, a mi ada maw.** = Not she but I have cats.  
+> **mi ada no un, a do maw.** = I have not one but two cats.
 
 
 ### Exercises
@@ -339,7 +339,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kupe** cup, glass, mug. **hali** empty. **ada** to have. **mau** cat. **waf** dog. **do** two. **nul** zero. **a** but.
+**kupe** cup, glass, mug. **hali** empty. **ada** to have. **maw** cat. **waf** dog. **do** two. **nul** zero. **a** but.
 
 
 ### Answers to the Exercises
@@ -347,9 +347,9 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 1. ye no safa kamer.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no ada waf i mau. / ye ada no waf i no mau.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafe.
-6. mama ada no waf a do mau.
+6. mama ada no waf a do maw.
 
 
 <!--
@@ -368,16 +368,16 @@ To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the in
 
 In Pandunia, questions beginning with _why_ are asked using **koz ke**.
 
-> **tu suku mau koz ke?** = Why do you like cats?
+> **tu suku maw koz ke?** = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding **koz** before the cause or reason. **koz** is actually a passive verb meaning _to be caused by_.
 
-> **tu suku mau koz ke?** = Why do you like cats?  
+> **tu suku maw koz ke?** = Why do you like cats?  
 > **koz yemen kaway.** = Because they are cute.
 
 Of course **koz** can also be used to express the cause or reason for something, even when not answering to a question.
 
-> **mi suku mau koz yemen kaway** = I like cats because they are cute.
+> **mi suku maw koz yemen kaway** = I like cats because they are cute.
 
 ### Exercises
 
@@ -454,8 +454,8 @@ Alternatively the time word can be placed last in the sentence.
 
 It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
 
-> **mi pas ada un mau.** = I had a cat in the past.  
-> **ye bon mau.** = It was a good cat.  
+> **mi pas ada un maw.** = I had a cat in the past.  
+> **ye bon maw.** = It was a good cat.  
 > **mi ada un waf zay.** = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
@@ -485,7 +485,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 2. mi ada do waf na pase.
 3. tu nyama supe zay.
 4. ye safa kamer na befo den.
-5. mau nyama kafe na badi den.
+5. maw nyama kafe na badi den.
 6. tu da mama festa na befo noce.
 
 

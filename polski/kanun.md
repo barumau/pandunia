@@ -137,10 +137,10 @@ Modyfikatory mogą być porównane.
 - **minim** (najmniej) oznacza stopień najniższy
 - **sem** (jak) oznacza porównanie równości
 
-Partykuła **kom** łączy przysłówki porównania z obiektem porównania.
+Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-> **mi si max bon kom tu.** - Jestem lepszy od ciebie.
-> **tu loga sem bon kom mi.** - Mówisz tak dobrze, jak ja.
+> **mi si max bon ka tu.** - Jestem lepszy od ciebie.
+> **tu loga sem bon ka mi.** - Mówisz tak dobrze, jak ja.
 
 
 #### 3.6. Końcówki modyfikatorów
@@ -762,18 +762,18 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 ### 10.2. Przyimek relacji
 
-Przyimek **kom** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
+Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **mi saba pandunia kom guru.** - Znam Pandunię jak mistrz.
+> **mi saba pandunia ka guru.** - Znam Pandunię jak mistrz.
 
-**kom** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **saba** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
+**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **saba** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
-**kom** jest też używany, gdy porównywane są przymiotniki.
+**ka** jest też używany, gdy porównywane są przymiotniki.
 
-> **bace si min day kom papa.** - Dziecko jest mniejsze niż ojciec.
-> **opa si sem day kom papa.** - Dziadek jest tak duży jak ojciec.
+> **bace si min day ka papa.** - Dziecko jest mniejsze niż ojciec.
+> **opa si sem day ka papa.** - Dziadek jest tak duży jak ojciec.
 
-**kom** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
+**ka** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
 
 
 
