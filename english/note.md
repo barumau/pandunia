@@ -6,7 +6,7 @@ This page contains mixed notes that I have written down. They deal with all kind
  
 ### Word building
 
-2018-08-29
+<small>2018-08-29</small>
  
 Esperanto's mal- prefix means something that is at the opposite end of a continuum. For example, there is a continuum of temperature from cold to hot (malvarma, varma) and there is a continuum of beaty from ugly to beatiful (malbona, bona). A bad side of this idea is that one extreme has to be selected as the unprefixed norm.
  
@@ -30,7 +30,7 @@ However, it's possible to say:
  
 ### Word changes
 
-2018-08-31
+<small>2018-08-31</small>
 
 I noticed the conflict between help and medium. That's why help was **mede** and medium was **midi** so they have different vowels. However, it's better to use **helpe** as the word for help and **medi** as the word for medium.
  
@@ -40,7 +40,7 @@ The call for help should be internationally recognized and English "help" is mos
  
 ### Speech sounds
 
-2018-08-30
+<small>2018-08-30</small>
  
 Voiced sibilants, stops and affricates are not allowed in end of word position. Therefore "dez" is impossible word for Pandunia.
 
