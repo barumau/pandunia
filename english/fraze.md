@@ -306,13 +306,13 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **apel** can refer to one or more apples.
 
-**kia tu nyama kafe?** Do you drink coffee?
+**kia tu nyama kafé?** Do you drink coffee?
 
-**mi nyama kafe.** I drink coffee.
+**mi nyama kafé.** I drink coffee.
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i pang.** I'm having coffee and bread.
+**mi nyama kafé i pang.** I'm having coffee and bread.
 
 
 
@@ -324,10 +324,10 @@ Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at fi
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol nyama kafe.** I want to drink coffee.
+**mi wol nyama kafé.** I want to drink coffee.
 
 **kia tu wol nyama ca?** Would you like to drink tea?  
-**no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
+**no. mi no wol ca. mi wol kafé.** No, I don't want tea. I want coffee.
 
 **tu wol ke apel?** Which apple do you want?  
 **li ros.** This red one.
@@ -346,7 +346,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing nyama ca.** Please, have some tea!
 
-**cing nyama kafe.** Please, have some coffee!
+**cing nyama kafé.** Please, have some coffee!
 
 **cing lay dom.** Please, come home!
 
@@ -620,9 +620,9 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 ### toma <small>take, get</small>
 
-**mi toma un kafe.** I will take a coffee.
+**mi toma un kafé.** I will take a coffee.
 
-**cing toma un kafe ko mi.** Please take one coffee for me.
+**cing toma un kafé ko mi.** Please take one coffee for me.
 
 **tu pas toma pesa ze mi.** You already got money from me.
 
@@ -747,7 +747,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **helpe** help, assistance <small>(English _help_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
-**kafe** coffee <small>(German _Kaffee_)</small>  
+**kafé** coffee <small>(French _café_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  

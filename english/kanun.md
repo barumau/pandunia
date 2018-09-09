@@ -47,8 +47,8 @@ These are the 11 basic rules of Pandunia language.
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu'** - a stone, stones, the stone or the stones  
-> **meza'** - a table, tables, the table or the tables  
+> **batú** - a stone, stones, the stone or the stones  
+> **mezá** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
 
@@ -60,8 +60,8 @@ Nouns are unaffected by number, i.e. nouns have the same form in singular and pl
 
 An easy way to emphasize plurality is to repeat the noun.
 
-> **batu' batu'** - stones, lots of stones  
-> **tara' tara'** - stars, lots of stars  
+> **batú batú** - stones, lots of stones  
+> **tará tará** - stars, lots of stars  
 
 ### 2.3. Gender
 
@@ -75,7 +75,7 @@ Two or more nouns can be put together to make a compound word. The last word is 
 
 > **surya guang** - sunlight  
 > **luna guang** - moonlight  
-> **luna batu'** - moonstone
+> **luna batú** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -87,19 +87,19 @@ A modifier is a word that adds some quality or description to the thing denoted 
 
 An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
-> **day batu'** - big stone
-> **day meza'** - big table  
-> **gaw meza'** - high table
+> **day batú** - big stone
+> **day mezá** - big table  
+> **gaw mezá** - high table
 > **bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batu' day.** - The stone is big.  
-> **meza' gaw.** - The table is high.
+> **batú day.** - The stone is big.  
+> **mezá gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meza' gaw.** - Big table is high.
+> **day mezá gaw.** - Big table is high.
 
 
 ### 3.2 Modifying a verb
@@ -160,14 +160,14 @@ Sometimes it is known from the context how many objects are spoken about. For ex
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
-> **un tara'** - one star  
-> **do tara'** - two stars  
-> **sam tara'** - three stars  
-> **xaw tara'** - few stars
-> **poli tara'** - several stars (two or more)  
-> **multi tara'** - many stars
+> **un tará** - one star  
+> **do tará** - two stars  
+> **sam tará** - three stars  
+> **xaw tará** - few stars
+> **poli tará** - several stars (two or more)  
+> **multi tará** - many stars
 
-> **un day meza'** - one big table  
+> **un day mezá** - one big table  
 > **do day kurse** - two big chairs  
 > **sam bon kurse** - three good chairs
 
@@ -611,15 +611,15 @@ The modifier particle can be used for any possessive noun or pronoun.
 
 With regards to possession, **da** works like apostrophe-s ('s) in English.
 
-> **maria da mama** - Maria's mother  
+> **maria da mamá** - Maria's mother  
 > **mi da dom** - my house  
-> **mi da papa da dom** - my father's house
+> **mi da papá da dom** - my father's house
 
 **du** works like "of" in English.
 
-> **mama du maria** - the mother of Maria
+> **mamá du maria** - the mother of Maria
 > **dom du mi** - the house of mine  
-> **dom du papa du mi** - the house of the father of mine
+> **dom du papá du mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -627,12 +627,12 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang da labe** - rose-colored lips  
+> **roze rang da labe** - rose-colored lips  
 > **saman rang da yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **labe du roza rang** - lips of the color of the rose  
+> **labe du roze rang** - lips of the color of the rose  
 > **yen du saman rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses
@@ -651,7 +651,7 @@ It's possible to construct relative clauses with **da** too. Then the relative c
 
 > **mi wida _apel nyamu da_ man.** - I see an _apple-eating_ man.
 
-> **buke dugu da ren na kamer.** = The book-reading person is in the room.
+> **buke dugu da ren na kamar.** = The book-reading person is in the room.
 > **ye duga da buke na meza.** = The book, that he/she reads, is on the table.  
 
 
@@ -769,10 +769,10 @@ Prepositions **ka** indicates manner or style. It corresponds to English preposi
 
 **ka** is also used when adjectives are compared.
 
-> **bace si min day ka papa.** - The child is smaller than the father.  
-> **opa si sem day ka papa.** - Grandfather is as big as father.
+> **bace si min day ka papá.** - The child is smaller than the father.  
+> **opa si sem day ka papá.** - Grandfather is as big as father.
 
-**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papá** (father) in the examples above.
 
 
 
@@ -918,7 +918,7 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
 **arabi** Arab, Arabic; **arabia** Arabia  
-**rus** Russian; **rusia** Russia  
+**rusi** Russian; **rusia** Russia  
 **turki** Turk, Turkish; **turkia** Turkey  
 **asia** Asia  
 **indonesia** Indonesia  
@@ -927,6 +927,7 @@ This ending is often found in place names, especially in country names. However 
 Also abstract nouns often end in **-ia**.
 
 **nowi** new, **nowia** newness, novelty  
+**huri** free, **huria** freedom
 
 When it is added after -er, it means a place of work.
 

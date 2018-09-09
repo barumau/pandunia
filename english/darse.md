@@ -137,7 +137,7 @@ Making requests
 ☻: **salam!** = Hello!  
 ☺: **salam! cing sidu.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing nyama kafe u ca.** = Please have some coffee or tea.  
+☺: **cing nyama kafé u ca.** = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
 ...
 ☺: **cing salama tu da mama!** = Please tell greetings to your mother.  
@@ -167,7 +167,7 @@ See how the translation of **cing** changed between the two sentences? The meani
 The phrase **cing salama ye** has a useful pattern that can be used for making polite requests.
 
 > **cing sidu.** = Please be seated.  
-> **cing dona kafe.** = Please give me some coffee.  
+> **cing dona kafé.** = Please give me some coffee.  
 > **cing dona ca.** = Please give me some tea.  
 > **cing nyama ca.** = Please have some tea.  
 > **cing safa kamer.** = Please clean the room.
@@ -195,16 +195,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **nyama** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafé** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **nyama** to eat or drink.
 
 
 ### Answers to the Exercises
 
 1. ye nyama ca.
 2. xefe cing ye sidu.
-3. cing nyama kafe u ca.
+3. cing nyama kafé u ca.
 4. mama cing mi safa kamer.
-5. xefe sidu i nyama kafe.
+5. xefe sidu i nyama kafé.
 
 
 --------------------------------------------------------------------------------
@@ -215,17 +215,17 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia tu nyama kafe u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia tu nyama kafé u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
 ☻: **sori! kia ye nyama ca?** = Pardon! Will he have tea?  
-☺: **no. ye no nyama ca. ye nyama kafe.** = No, he won't. He would like to have coffee.  
+☺: **no. ye no nyama ca. ye nyama kafé.** = No, he won't. He would like to have coffee.  
 ☻: **kia tu nyama supe?** = Would you like to have soup?  
 ☺: **nyama.** = Yes. (_I eat._)  
 ☻: **kia ye nyama supe?** = Would he like to have soup?  
 ☺: **no nyama.** = No.  
-☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dona un ca i un kafé i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -245,7 +245,7 @@ Requests usually concern the one or the ones spoken to, but questions are often 
 
 Of course common and proper nouns can also be used.
 
-> **kia xefe nyama kafe?** = Does the chief drink coffee?  
+> **kia xefe nyama kafé?** = Does the chief drink coffee?  
 > **kia papa safa kamer?** = Does the father clean the room?  
 > **kia niki baxa pandunia?** = Does Nicky speak Pandunia?
 
@@ -261,10 +261,10 @@ Yes/no questions can be answered with **si** = yes, and **no** = no.
 
 Also more complete answers can be given.
 
-> – **kia tu nyama kafe?** = Do you drink coffee?  
-> – **si. mi nyama kafe.** = Yes, I drink coffee.  
-> – **kia ye nyama kafe?** = Does he drink coffee?  
-> – **no. ye no nyama kafe.** = No, he doesn't drink coffee.
+> – **kia tu nyama kafé?** = Do you drink coffee?  
+> – **si. mi nyama kafé.** = Yes, I drink coffee.  
+> – **kia ye nyama kafé?** = Does he drink coffee?  
+> – **no. ye no nyama kafé.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
@@ -294,8 +294,8 @@ Try translating these sentences from English to Pandunia.
 
 1. kia tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama nyama kafe?
-4. no. ye no nyama kafe.
+3. kia mama nyama kafé?
+4. no. ye no nyama kafé.
 5. kia ye nyama supe?
 6. (ye) no nyama.
 
@@ -348,7 +348,7 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 2. un kupe no hali.
 3. dua waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafe.
+5. xefe nyama ca a no kafé.
 6. mama ada no waf a do maw.
 
 
@@ -402,7 +402,7 @@ Of course **koz** can also be used to express the cause or reason for something,
 3. ke zam ye lai?
 4. na des minut bada.
 5. ye no nyama koz ke?
-6. koz (ye) no suku kafe u supe.
+6. koz (ye) no suku kafé u supe.
 
 -->
 
@@ -485,7 +485,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 2. mi ada do waf na pase.
 3. tu nyama supe zay.
 4. ye safa kamer na befo den.
-5. maw nyama kafe na badi den.
+5. maw nyama kafé na badi den.
 6. tu da mama festa na befo noce.
 
 
