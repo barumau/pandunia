@@ -1,7 +1,7 @@
 
 # Notes about Pandunia
  
-This page contains mixed notes that I have written down. They deal with all kinds of questions about Pandunia. Some of the notes can be moved to more appropriate documents later.
+This page contains mixed notes that I have written down. They deal with all kinds of questions about Pandunia. Some of the notes can be moved to more appropriate documents later, such as the grammar or questions and answers page.
  
  
 ### Word building
@@ -71,5 +71,19 @@ These sentences are short and complete. That's why they work.
 If you add there a verb ending in -u, then it's not a zero be structure anymore but rather a sentence with SOV word order.
 
 **mi maria widu.** = I see Maria.
+
+
+### Why there are two forms of ce, le and ke
+
+<small>2018-09-09</small>
+
+There is a similar reason behind the two forms of demonstrative pronouns (**ce/ci** and **le/li**) and the interrogative pronoun (**ke/ki**).
+
+**ci apel nyamu.** = This apple is eaten.  
+**ce apel nyamu.** = This eats the apple.
+
+So here the first sentence uses object–verb word order, where **ci apel** (this apple) is the object. But in the second sentence the word order is subject–object–verb and **ce** is the subject and only **apel** is the object.
+
+You can even say **ce ci apel nyamu.** = This eats this apple. The same sentence in the more common SVO word order would be **ce nyama ci apel.**
 
 
