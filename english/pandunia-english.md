@@ -53,7 +53,6 @@ arabi : Arabic
 aranje : orange (fruit)  
 aranji : orange (orange-colored)  
 arbuze : watermelon  
-arena : arena (stadium)  
 argentin : Argentina  
 argon : argon  
 armia : army  
@@ -168,12 +167,13 @@ bir : beer
 bis : kiss  
 biskute : biscuit (cookie)  
 bismute : bismuth  
+bixu : must  
 bizar : odd (strange, weird)  
 bizi : busy (occupied)  
 biznes : business (commercial activity)  
 biznes ren : businessperson (businessman)  
 blabla : chat (babble)  
-blable kamer : chat room  
+blable kamar : chat room  
 boke : mouth  
 bol : ball  
 bolgaria : Bulgaria  
@@ -355,7 +355,6 @@ duki : sad
 dul : dust  
 dum : tail  
 duman : smoke  
-duna : dune  
 dunia : world  
 dunia bax : world language  
 dunial : global  
@@ -544,8 +543,8 @@ gluten : gluten
 gol : goal  
 gola : throat (gullet)  
 gom : rubber  
-goro' : pig  
-goro' nyam : pork  
+goró : pig  
+goró manse : pork  
 goton : cotton  
 graf : depiction (graph)  
 grafa : depict (describe, illustrate)  
@@ -788,7 +787,7 @@ kande : candy (sweets)
 kanguru : cangaroo  
 kannadi : Kannada  
 kanon : gun (cannon)  
-kanonir : cannoneer  
+kanoner : cannoneer  
 kanun : law  
 kapa : cover (conceal)  
 kapitan : captain  
@@ -941,7 +940,7 @@ kuang su : mineral water
 kubá : Cuba  
 kube : cube  
 kuka : cook (prepare food)  
-kuke kamer : kitchen  
+kuke kamar : kitchen  
 kuke nesia : Cook Islands  
 kuker : cook (chef)  
 kul : cool  
@@ -1179,7 +1178,7 @@ mey : every (each)
 mey ren : everybody (everyone)  
 mey xey : everything  
 mey zaman : always  
-meza : table  
+mezá : table  
 mi : I (me)  
 mi da : my  
 micin : MSG (monosodium glutamate)  
@@ -1255,7 +1254,6 @@ musiker : musician
 muskete : musket  
 musketer : musketeer  
 muskul : muscle  
-musu : must  
 mux : mouse  
 muxing : Jupiter  
   
@@ -1344,7 +1342,7 @@ numer un : first (number one)
 nun : now  
 nuton : newton (N)  
 nyam : food (meal)  
-nyam kamer : dining room  
+nyam kamar : dining room  
 nyama : consume (eat or drink)  
 nyami : delicious (yummy)  
   
@@ -1537,7 +1535,7 @@ puxa : push
   
 ##r  
   
-radió : radio  
+radio : radio  
 radium : radium  
 radon : radon  
 rajer : king or queen  
@@ -1731,7 +1729,7 @@ sol : only (just)
 solomon nesia : Solomon Islands  
 somalia : Somalia  
 son : sleep  
-son kamer : bedroom  
+son kamar : bedroom  
 sona : sleep (be asleep)  
 sonda : sound (make a sound)  
 sonde : sound (audio)  
@@ -1739,9 +1737,9 @@ song : pine tree
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
-stadion : stadium  
-stan : area  
+stadia : stadium (arena)  
 stan : state (polity)  
+star : star  
 stasi : static (stationary)  
 stasia : station  
 state : status (condition, state)  
@@ -1784,8 +1782,8 @@ suy : water
 swahili : Swahili  
 swede : sweat (perspiration)  
 swedi : sweaty  
-sweria : Sweden  
-swis : Switzerland  
+swenia : Sweden  
+swisia : Switzerland  
   
 ##t  
   
@@ -1810,7 +1808,6 @@ tanke : tank (container)
 tantalum : tantalum  
 tanzania : Tanzania  
 tape : tap (stopper)  
-tara : star  
 tarif : fee (fare, tariff, rate)  
 tarjum : translation (interpretation)  
 tarjuma : translate (interpret)  
@@ -2054,7 +2051,7 @@ yode : iodine
 yoga : do yoga  
 yoge : yoga  
 yohan feste : Saint John's Day  
-yoni : vagina  
+yone : vagina  
 yosay : fortress (stronghold)  
 yumor : humor  
 yumori : humorous (comical, funny)  

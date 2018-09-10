@@ -119,8 +119,6 @@ apple   : apel
 April   : mes 4 (mes car)  
 Arabic   : arabi  
 archipelago   : nesia  
-area   : stan  
-arena (stadium)   : arena  
 Argentina   : argentin  
 argon   : argon  
 argue (claim)   : teza  
@@ -204,7 +202,7 @@ beautiful (handsome)   : sundar
 become open   : kayu  
 bed   : bede  
 bedouin (nomadic)   : badawi  
-bedroom   : son kamer  
+bedroom   : son kamar  
 beef   : mumu nyam  
 beer   : bir  
 begin (commence)   : mula  
@@ -324,7 +322,7 @@ can (tin can)   : tin
 Canada   : kanadia  
 candy (sweets)   : kande  
 cangaroo   : kanguru  
-cannoneer   : kanonir  
+cannoneer   : kanoner  
 captain   : kapitan  
 car (cart, carriage, wagon, automobile)   : kar  
 carat   : kirate  
@@ -361,7 +359,7 @@ channel   : kanal
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : babe  
 chat (babble)   : blabla  
-chat room   : blable kamer  
+chat room   : blable kamar  
 check (to examine)   : ceka  
 checkers   : dama  
 cheer (hooray)   : hura  
@@ -547,7 +545,7 @@ diamond   : almas
 die   : martu  
 die (dice)   : dadó  
 dig (excavate)   : fosa  
-dining room   : nyam kamer  
+dining room   : nyam kamar  
 dinner   : xam nyam  
 disc (disk)   : diske  
 discussion (debate, discourse)   : lon  
@@ -578,7 +576,6 @@ dry   : suhi
 dubnium   : dubnium  
 duck   : batá  
 dumpling (ravioli, pelmeni)   : pelmen  
-dune   : duna  
 duration   : dur  
 dust   : dul  
 dysprosium   : disprosium  
@@ -1005,7 +1002,7 @@ kingdom   : rajia
 kiosk   : kioske  
 Kiribati   : kiribatia  
 kiss   : bis  
-kitchen   : kuke kamer  
+kitchen   : kuke kamar  
 kiwi fruit   : kiwi  
 knead (massage)   : masa  
 knife   : cakú  
@@ -1234,7 +1231,7 @@ music   : musike
 musician   : musiker  
 musket   : muskete  
 musketeer   : musketer  
-must   : musu  
+must   : bixu  
 my   : mi da  
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewi sage  
@@ -1419,7 +1416,7 @@ picnic   : piknike
 picture (illustrate)   : sura  
 pidgin (contact language)   : pijin  
 pie (pastry)   : pay  
-pig   : goro'  
+pig   : goró  
 pilaf (pulao)   : polaw  
 pilot   : piloter  
 pine tree   : song  
@@ -1472,7 +1469,7 @@ pool (basin)   : basen
 poor (miserable)   : miskin  
 popular   : nasi  
 popular (trendy)   : faxoni  
-pork   : goro' nyam  
+pork   : goró manse  
 porn   : porne  
 pornography   : porne grafia  
 porridge   : kaxa  
@@ -1536,7 +1533,7 @@ Quran (Koran)   : kuran
 rabbit (hare)   : tuze  
 race (ethnicity)   : rase  
 racism   : rasisme  
-radio   : radió  
+radio   : radio  
 radional (reasonable)   : razoni  
 radish   : lobak  
 radium   : radium  
@@ -1770,9 +1767,9 @@ square (plaza)   : maydan
 squirrel   : lixú  
 Sranan Tongo   : surinam bax  
 Sri Lanka (Ceylon)   : lanká  
-stadium   : stadion  
+stadium (arena)   : stadia  
 stand   : libu  
-star   : tara  
+star   : star  
 state (polity)   : stan  
 static (stationary)   : stasi  
 station   : stasia  
@@ -1824,14 +1821,14 @@ sushi   : suxi
 Swahili   : swahili  
 sweat (perspiration)   : swede  
 sweaty   : swedi  
-Sweden   : sweria  
+Sweden   : swenia  
 sweet potato   : kamote  
-Switzerland   : swis  
+Switzerland   : swisia  
 syrup   : xirope  
 system   : sistem  
 systemic   : sistemi  
 ##t  
-table   : meza  
+table   : mezá  
 table (matrix)   : tabel  
 tactics (strategy)   : taktike  
 taiga   : tayga  
@@ -1991,7 +1988,7 @@ user   : uzer
 Uzbekistan   : uzbekia  
 ##v  
 vaccine   : waksin  
-vagina   : yoni  
+vagina   : yone  
 valve (tap, faucet)   : balbe  
 vanilla   : wanila  
 Vanuatu   : vanuatu  

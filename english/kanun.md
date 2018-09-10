@@ -810,13 +810,8 @@ The designated vowel endings enable easy derivation of one type of word from ano
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**ada** - to have (active verb)  
-**adu** - to belong (passive verb)  
-**ade** - that what is had (noun)  
-
-**mus** or **musu** - to must, to be compelled (passive verb)  
-**musa** - to compel (active verb)  
-**musi** - compulsory, obligatory  
+**wol** - to want (active verb)  
+**ken** - can, to be able to (active verb)  
 
 
 #### 11.1.2. Deriving verbs
