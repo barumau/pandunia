@@ -50,6 +50,7 @@ Many people are already interested about Pandunia and they are speaking it. You 
 - Links and discussion in [Reddit](https://www.reddit.com/r/pandunia/)
 - [Friends of Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
 - channels in Telegram instant messenger: [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [in Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) and [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- Find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 - [channels in Discord](https://discord.gg/uk36mn8)
 - QQ channel: 717549404
 - You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_). Spread the word!
