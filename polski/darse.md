@@ -9,13 +9,13 @@ Przedstawianie się
 > ☻: **tu si ke?** = Kim jesteś?  
 > ☺: **mi si yusef. tu si ke?** = Jestem Yusef. Kim jesteś?  
 > ☻: **mi si maria. ye si ke?** = Jestem Maria. Kto to?  
-> ☺: **ye si mi da panyo.** = To mój przyjaciel.  
+> ☺: **ye si mi da doste.** = To mój przyjaciel.  
 > ☻: **ye da nam si ke?** = Jak się nazywa?  
 > ☺: **ye da nam si sara.** = Nazywa się Sara.
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi da panyo** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi da panyo** (jest moim przyjacielem).
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi da doste** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi da doste** (jest moim przyjacielem).
 
 Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
@@ -46,7 +46,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **ke** co lub kto.  
 **si** być (jestem, jesteś, jest, itd)
 **si** tak. **no** nie.  
-**bon** dobry, dobrze. **panyo** przyjaciel. **nam** imię, nazwa.
+**bon** dobry, dobrze. **doste** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
 **maw** kot. **hewan** zwierzę.
 
@@ -54,7 +54,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 1. tu si ke?
 2. mi si tomas.
-3. tu da panyo si ke?
+3. tu da doste si ke?
 4. ye si sara.
 5. tu da nam si ke?
 6. mi da nam si ........... 
@@ -94,13 +94,13 @@ W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w da
 Wzór w **salam tu** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
 
 > **salam toni!** = Cześć, Tony!  
-> **salam mama!** = Cześć, mamo!  
-> **salam papa!** = Cześć, tato!  
+> **salam mamá!** = Cześć, mamo!  
+> **salam papá!** = Cześć, tato!  
 > **salam xefe!** = Cześć, szefie!
 
-Innym słowem w Panduni do pozdrawiania jest **halo**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
+Innym słowem w Panduni do pozdrawiania jest **haló**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
 
-**halo!** - Cześć!
+**haló!** - Cześć!
 
 
 ### Ćwiczenia
@@ -114,15 +114,15 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Lista słów
 
-**salam, halo** pozdrowienie, cześć, witaj, dzień dobry, itd.  
-**mama** matka, mama. **papa** ojciec, tata. **xefe** szef, dyrektor.
+**salam, haló** pozdrowienie, cześć, witaj, dzień dobry, itd.  
+**mamá** matka, mama. **papá** ojciec, tata. **xefe** szef, dyrektor.
 
 
 ### Odpowiedzi do Ćwiczeń
 
 1. tu salama ye.
-2. mama salama papa.
-3. salam mama!
+2. mamá salama papá.
+3. salam mamá!
 4. salam!
 
 
@@ -140,7 +140,7 @@ Proszenie
 ☺: **cing nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
 ...  
-☺: **cing salama tu da mama!** = Proszę pozdrów twoją matkę.  
+☺: **cing salama tu da mamá!** = Proszę pozdrów twoją matkę.  
 ☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
 ☺: **salam!** = Cześć!
 
@@ -168,12 +168,12 @@ Zdanie **cing salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośb
 > **cing dona kafe.** = Proszę, podaj kawę.  
 > **cing dona ca.** = Proszę, podaj herbatę.  
 > **cing nyama ca.** = Proszę, pij herbatę.  
-> **cing safa kamer.** = Proszę, sprzątaj pokój.
+> **cing safa kamar.** = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **cing**.
 
 > **manda dona ca.** = Daj (mi) herbatę!  
-> **manda safa kamer.** = Sprzątaj pokój!
+> **manda safa kamar.** = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
 
@@ -193,7 +193,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamer** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sidu** siedzieć. **nyama** jeść lub pić.
+**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sidu** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -201,7 +201,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 1. ye nyama ca.
 2. xefe cing ye sidu.
 3. cing nyama kafe u ca.
-4. mama cing mi safa kamer.
+4. mamá cing mi safa kamar.
 5. xefe sidu i nyama kafe.
 
 
@@ -244,7 +244,7 @@ Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często do
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
 > **kia xefe nyama kafe?** = Czy szef pije kawę?  
-> **kia papa safa kamer?** = Czy ojciec sprząta pokój?  
+> **kia papá safa kamar?** = Czy ojciec sprząta pokój?  
 > **kia niki baxa pandunia?** = Czy Nicky mówi Pandunia?
 
 
@@ -292,7 +292,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 1. kia tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama nyama kafe?
+3. kia mamá nyama kafe?
 4. no. ye no nyama kafe.
 5. kia ye nyama supe?
 6. (ye) no nyama.
@@ -310,9 +310,9 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no salama tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **mi cing tu safa kamer.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **mi no cing tu safa kamer.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **mi cing tu no safa kamer.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **mi cing tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **mi no cing tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **mi cing tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
@@ -342,12 +342,12 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Odpowiedzi do Ćwiczeń
 
-1. ye no safa kamer.
+1. ye no safa kamar.
 2. un kupe no hali.
 3. dua waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafe.
-6. mama ada no waf a do maw.
+6. mamá ada no waf a do maw.
 
 
 <!--
@@ -396,7 +396,7 @@ Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu 
 
 
 1. ke ren suku supe?
-2. papa suku.
+2. papá suku.
 3. ke zam ye lai?
 4. na des minut bada.
 5. ye no nyama koz ke?
@@ -455,7 +455,7 @@ Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy o
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
 > **mi jenu na nen 2003.** = Urodziłem się w 2003. roku.  
-> **ye safa kamer na badi den.** = Posprząta pokój jutro.
+> **ye safa kamar na badi den.** = Posprząta pokój jutro.
 
 
 ### Lista słów
@@ -478,8 +478,8 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 1. mi da xefe festa futur.
 2. mi ada do waf pas.
 3. tu nyama supe zay.
-4. ye safa kamer na befo den.
+4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.
-6. tu da mama festa na befo noce.
+6. tu da mamá festa na befo noce.
 
 
