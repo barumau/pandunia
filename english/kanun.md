@@ -267,6 +267,12 @@ The adjectival interrogative pronoun is **ki** and it meanst the same as English
 > **ki zaman?** - When? (What time?)  
 > **ki yang?** - How? (What manner?)  
 
+Adjectives are questioned with **ki**.
+
+> **ki day?** - How big?  
+> **ki lil?** - How small?  
+> **ki day da maw tu ada?** - How big cat do you have?
+
 --------------------------------------------------------------------------------
 
 ## 6. Verbs
