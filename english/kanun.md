@@ -596,7 +596,13 @@ The word **no** is used for denying anything. It affects always the next word.
 The particles **si** and **no** are used also for answering questions.
 
 > **kia tu wida mi?** - Do you see me?  
-> **si. (mi wida tu.)** - Yes. (I see you.)  
+> **si. (mi si wida tu.)** - Yes. (I do see you.)  
+> **no. (mi no wida tu.)** - No. (I don't see you.)
+
+Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
+
+> **kia tu no wida mi?** - Don't you see me?  
+> **si. (mi si wida tu.)** - Yes. (I do see you.)  
 > **no. (mi no wida tu.)** - No. (I don't see you.)
 
 
