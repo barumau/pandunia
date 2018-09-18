@@ -17,13 +17,13 @@ Introducing yourself
 
 Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ye si mi da doste** the topic is the pronoun **ye** (he, she, it), which is followed by the comment **si mi da doste** (is my friend).
 
-The word **si** means _to be_ in Pandunia. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
+In Pandunia, the word **si** functions like _to be_ in English. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
 
 > **ye si sara.** - She is Sara.  
 > **ye no sara.** - She is not Sara.  
 
 > **maw si hewan** - The cat is an animal.  
-> **maw no hewan** - The cat is not an animal.  
+> **dom no hewan** - The house is not an animal.  
 
 
 ### Exercises
@@ -79,7 +79,7 @@ The verb form of **salam** is **salama**, which means "to greet".
 > **mi salama tu.** = I greet you.  
 > **tu salama mi.** = You greet me.
 
-These are active sentences. In active sentences the subject does the action to the object. In **mi salama tu** the first word, **mi**, is the subject, **salama** is the verb (action word), and **tu** is the object. The order of subject, verb and object is important and it never changes.
+These are active sentences. In active sentences the subject does the action to the object. In **mi salama tu** the first word, **mi**, is the subject, **salama** is the verb (action word), and **tu** is the object. The order of subject, verb and object is the normal word order in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 

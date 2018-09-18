@@ -52,7 +52,7 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns are invar
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sor** refers to _the sun_ and **lun** refers to _the moon_, our only sun and our only moon.
 
 ### 2.2. Number
 
@@ -61,7 +61,7 @@ Nouns are unaffected by number, i.e. nouns have the same form in singular and pl
 An easy way to emphasize plurality is to repeat the noun.
 
 > **batú batú** - stones, lots of stones  
-> **tará tará** - stars, lots of stars  
+> **xing xing** - stars, lots of stars  
 
 ### 2.3. Gender
 
@@ -73,9 +73,9 @@ Some words carry _natural gender_. For example **fem** (woman) is feminine and *
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **surya guang** - sunlight  
-> **luna guang** - moonlight  
-> **luna batú** - moonstone
+> **sor nur** - sunlight  
+> **lun nur** - moonlight  
+> **lun batú** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -156,16 +156,16 @@ The ending is not applied to description roots that end in a single consonant th
 
 ## 4. Numerals
 
-Sometimes it is known from the context how many objects are spoken about. For example, the word **surya** (sun) normally refers to just one sun because there is only one.
+Sometimes it is known from the context how many objects are spoken about. For example, the word **sor** (sun) normally refers to just one sun because there is only one.
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
-> **un tará** - one star  
-> **do tará** - two stars  
-> **sam tará** - three stars  
-> **xaw tará** - few stars
-> **poli tará** - several stars (two or more)  
-> **multi tará** - many stars
+> **un xing** - one star  
+> **do xing** - two stars  
+> **sam xing** - three stars  
+> **xaw xing** - few stars
+> **poli xing** - several stars (two or more)  
+> **multi xing** - many stars
 
 > **un day mezá** - one big table  
 > **do day kurse** - two big chairs  

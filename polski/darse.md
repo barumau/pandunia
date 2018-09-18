@@ -23,7 +23,7 @@ Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystk
 > **ye no sara.** - Ona nie jest Sarą.
 
 > **maw si hewan** - Kot jest zwierzęciem.  
-> **maw no hewan** - Kot nie jest zwierzęciem.  
+> **dom no hewan** - Dom nie jest zwierzęciem.  
 
 
 ### Ćwiczenia

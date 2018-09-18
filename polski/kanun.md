@@ -47,8 +47,8 @@ Oto 11 podstawowych zasad języka Pandunia.
 
 Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
-> **batu''** - kamień, kamienie
-> **meza'** - stół, stoły
+> **batú** - kamień, kamienie
+> **mezá** - stół, stoły
 > **kurse** - krzesło, krzesła
 > **suy** - woda
 
@@ -60,8 +60,8 @@ Liczba nie wpływa na rzeczowniki, tj. rzeczowniki mają te same formy w liczbie
 
 Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
-> **batu' batu'** - kamienie, wiele kamieni
-> **tara' tara'** - gwiazdy, wiele kamieni
+> **batú batú** - kamienie, wiele kamieni
+> **xing xing** - gwiazdy, wiele kamieni
 
 ### 2.3. Rodzaj
 
@@ -73,7 +73,7 @@ Kilka słów niesie _naturalny rodzaj_. Na przykład **fem** (kobieta) jest że�
 
 Dwa lub więcej rzeczowników może być połączone, by utworzyć wyraz złożony. Ostatnie słowo ma największe znaczenie w wyrazie złożonym, a słowa, które są przed nim tylko zmieniają znaczenie.
 
-> **tara grupe** - gwiazdozbiór
+> **xing grupe** - gwiazdozbiór
 
 --------------------------------------------------------------------------------
 
@@ -85,19 +85,19 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-> **day batu'** - duży kamień
-> **day meza'** - duży stół
-> **gaw meza'** - wysoki stół
+> **day batú** - duży kamień
+> **day mezá** - duży stół
+> **gaw mezá** - wysoki stół
 > **bon kurse** - dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-> **batu' day.** - Kamień jest duży.
-> **meza' gaw.** - Stół jest wysoki.
+> **batú day.** - Kamień jest duży.
+> **mezá gaw.** - Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-> **day meza' gaw.** - Duży stół jest wysoki.
+> **day mezá gaw.** - Duży stół jest wysoki.
 
 
 ### 3.2 Opisywanie czasownika
@@ -154,18 +154,18 @@ Zakończenie nie jest stosowane przy rdzeniach-opisach, kończących się pojedy
 
 ## 4. Liczby
 
-Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **surya** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
+Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **sor** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
 
 Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej. Są umieszczane przed słowem lub wyrażeniem, które opisują.
 
-> **un tara'** - jedna gwiazda
-> **do tara'** - dwie gwiazdy
-> **sam tara'** - trzy gwiazdy
-> **xaw tara'** - trochę gwiazd
-> **poli tara'** - kilka gwiazd (dwie lub więcej)
-> **multi tara'** - wiele gwiazd
+> **un xing** - jedna gwiazda
+> **do xing** - dwie gwiazdy
+> **sam xing** - trzy gwiazdy
+> **xaw xing** - trochę gwiazd
+> **poli xing** - kilka gwiazd (dwie lub więcej)
+> **multi xing** - wiele gwiazd
 
-> **un day meza'** - jeden duży stół
+> **un day mezá** - jeden duży stół
 > **do day kurse** - dwa duże krzesła
 > **sam bon kurse** - trzy dobre krzesła
 
