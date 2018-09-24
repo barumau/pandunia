@@ -30,6 +30,7 @@ altera : change (alter)
 alum : aluminium  
 am : love (affection)  
 ama : love (to be in love with)  
+amari : Amhara (an Ethiopian ethnic group and language)  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
 ameriki : American  
@@ -98,7 +99,7 @@ balde : bucket
 bale : force (strength)  
 balkon : balcony (porch)  
 bama : Myanmar (Burma)  
-bana : build (construct)  
+ban : arrow  
 banan : banana  
 banda : tie (fasten, bind)  
 bande : band (bandage)  
@@ -161,7 +162,7 @@ bermudia : Bermuda
 beton : concrete (material with cement)  
 bey : suffer (passivizing verb)  
 biblia : Bible  
-bin : vase (pot, bin, jar, jug)  
+bina : build (construct)  
 binde : dot (spot)  
 bir : beer  
 bis : kiss  
@@ -209,6 +210,7 @@ bulu : boil (be boiled)
 bunduke : gun (handheld firearm)  
 burkiná : Burkina Faso  
 bus : bus  
+buste : bust (bosom)  
 butan : Bhutan  
 buton : key (push-button, switch)  
 buton paban : keyboard  
@@ -221,13 +223,11 @@ ca : tea
 ca kupe : tea cup  
 ca wan : tea bowl  
 cabi : key  
-cabuk : whip (lash)  
 cadia : Chad  
 cakre : wheel  
 cakú : knife  
 camce : spoon  
 campion : champion  
-candi : silver  
 cang : often (frequently)  
 cans : opportunity (chance)  
 capa : press (imprint)  
@@ -424,6 +424,7 @@ faxiste : fascist
 faxon : fashion (trend)  
 faxoni : popular (trendy)  
 fay : fire  
+faze : stage (phase)  
 fe : deed  
 feber : fiever  
 fem : female  
@@ -559,7 +560,6 @@ grupe : group
 gua : cave  
 guadelupe : Guadeloupe  
 guam : Guam  
-guang : light (illumination)  
 guanxe : relationship (association, connection)  
 guatemala : Guatemala  
 gubú : hippopotamus  
@@ -637,14 +637,16 @@ hormon : hormone
 horvatia : Croatia  
 hotel : hotel  
 hua : flower  
-hua pote : vase (flower pot)  
-huli : fox  
+hule : fox  
 humus : chickpea  
 humus sos : hummus  
 hura : cheer (hooray)  
-  
+hura : free (liberate)  
+huri : free (unchained)  
+huria : freedom (liberty)  
+
 ##i  
-  
+
 i : and  
 ibri : Hebrew  
 ice : will (volition, desire)  
@@ -657,7 +659,6 @@ impera : reign (rule as an emperor)
 imperer : emperor  
 imperia : empire  
 in : inside (interior)  
-indika : point (indicate)  
 indium : indium  
 indonesia : Indonesia  
 informa : inform (communicate)  
@@ -710,7 +711,6 @@ jelos : jealous
 jen : birth  
 jen den : birthday  
 jena : give birth (procreate, generate)  
-jener : parent  
 jenjú : pearl  
 jentil : kind (nice, gentle)  
 jenu : be born  
@@ -969,7 +969,7 @@ lanká : Sri Lanka (Ceylon)
 lanten : lantern  
 lao : Laos  
 larwa : larva (maggot, caterpillar)  
-lastik : elastic  
+lasti : elastic  
 lasun : garlic  
 lat : pungent (spicy, hot)  
 lat cili : chili pepper  
@@ -991,8 +991,6 @@ letis : lettuce
 li : that (those)  
 liba : erect  
 libel : dragonfly  
-liber : free (unchained)  
-libera : free (liberate)  
 liberia : Liberia  
 libi : erect (standing)  
 libia : Libya  
@@ -1047,7 +1045,6 @@ luzer : loser
   
 ##m  
   
-ma : mother  
 maca : compete (have a match)  
 mace : match (contest)  
 madagasi : Malagasy  
@@ -1082,7 +1079,7 @@ malia : Mali
 malte : Malta  
 malvina nesia : Falkland Islands (Malvinas)  
 mam : breast (boob, tits)  
-mama : mother (mom)  
+mamá : mother (mom)  
 mamal : mammal  
 man : male  
 man ban : son  
@@ -1240,7 +1237,7 @@ mula : begin (commence)
 mum : wax  
 mumia : mummy  
 mumu : cow  
-mumu nyam : beef  
+mumu manse : beef  
 mun : door (gate, portal)  
 mungus : mongoose  
 munkin : possibly (maybe)  
@@ -1328,7 +1325,7 @@ note buke : notebook
 notis : notice (notification)  
 notisa : notify  
 nowa : renew (make new, renovate)  
-nowi : new (novel)  
+nowi : new (recent)  
 nowi kaledonia : New Caledonia  
 nowi zilandia : New Zealand  
 noy : nine (9)  
@@ -1340,6 +1337,8 @@ nul xey : nothing
 numer : number  
 numer un : first (number one)  
 nun : now  
+nur : light (illumination)  
+nuri : light (bright)  
 nuton : newton (N)  
 nyam : food (meal)  
 nyam kamar : dining room  
@@ -1359,12 +1358,14 @@ okey : okay (acceptable)
 okeya : accept (to say okay)  
 okse : oxygen  
 olandia : Aland Islands  
-oma : grandmother  
+omá : grandmother  
 oman : Oman  
-opa : grandfather  
+opá : grandfather  
 orda : order (issue a command)  
 orde : order (command)  
 orgazme : orgasm  
+oromi : Oromo (an Ethiopian ethnic group and language)  
+oromia : Oromia  
 oseania : Oceania  
 oskur : dark (dim)  
 osmium : osmium  
@@ -1373,7 +1374,6 @@ osteria : Austria
   
 ##p  
   
-pa : father  
 paban : board (plank)  
 paban gem : board game  
 pada : drop (let fall)  
@@ -1387,6 +1387,7 @@ pal : fruit
 paladium : palladium  
 palaw : Palau  
 palma : palm tree  
+pamá : parent  
 pan : all  
 panafriki : pan-African  
 panama : Panama  
@@ -1400,6 +1401,7 @@ panike : panic
 panjabi : Punjabi  
 pantalon : pants (trousers)  
 papa : father (dad)  
+papá : father  
 papaya : papaya  
 paper : paper  
 papua nowi ginia : Papua New Guinea  
@@ -1483,7 +1485,8 @@ polon : polonium
 polski : Polish  
 polskia : Poland  
 pompa : pump  
-pont : bridge  
+ponta : point at (indicate)  
+ponter : pointer (indicator)  
 porne : porn  
 porne grafia : pornography  
 porta : carry (bear)  
@@ -1522,9 +1525,10 @@ puerto riko : Puerto Rico
 puja : worship (revere)  
 puje : worship (reveration)  
 pul : flower  
+pul waze : vase (flower pot)  
 pula : blossom (bloom)  
 pulmon : lung  
-punt : point (full stop)  
+punte : point (full stop)  
 pupe : doll (puppet)  
 puran : old (ancient)  
 puru : feather  
@@ -1678,7 +1682,7 @@ sem dexi : compatriot
 sem jins kami : homosexual  
 semente : cement  
 semu : resemble (be like)  
-sen : chest (thorax)  
+sen : stage (scene)  
 senegal : Senegal  
 sens : sense  
 senta : feel (emote)  
@@ -1696,11 +1700,12 @@ si : yes (is)
 sibir : Siberia  
 sida : sit  
 sife : quality (charasteristic)  
-sigar : cigar  
-sigaret : cigarette  
+sigar : cigarette (cigar)  
 silike : silicon  
 silsil : chain  
 simpli : simple (not complicated)  
+sine : chest (breast)  
+sine kase : rib cage  
 sing : lion  
 singapur : Singapore  
 sinye : sign (signal)  
@@ -1734,16 +1739,17 @@ sona : sleep (be asleep)
 sonda : sound (make a sound)  
 sonde : sound (audio)  
 song : pine tree  
+sor : sun  
+sor sistem : solar system  
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
 stadia : stadium (arena)  
 stan : state (polity)  
-star : star  
 stasi : static (stationary)  
 stasia : station  
 state : status (condition, state)  
-stop : stop  
+stope : stop  
 strontium : strontium  
 suan : sour  
 subá : morning  
@@ -1774,12 +1780,13 @@ supre : overpass
 supri : upper  
 sura : picture (illustrate)  
 sure : image (picture)  
+suria : Syria  
 surinam : Suriname  
 surinam bax : Sranan Tongo  
-surya : sun  
 suxi : sushi  
 suy : water  
 swahili : Swahili  
+swazia : Swaziland  
 swede : sweat (perspiration)  
 swedi : sweaty  
 swenia : Sweden  
@@ -1803,7 +1810,9 @@ talium : thallium
 tamar : date fruit  
 tambur : drum  
 tamili : Tamil  
+tan : self  
 tanah : Tanakh (Jewish Bible)  
+tani : personal (intimate, private)  
 tanke : tank (container)  
 tantalum : tantalum  
 tanzania : Tanzania  
@@ -1863,7 +1872,9 @@ tomate : tomato
 ton : tone (note, pitch, shade)  
 tong : barrel (can)  
 tope : hat (cap)  
+torace : thorax  
 torium : thorium  
+torse : trunk (torso)  
 tortuge : turtle (tortoise)  
 total : total (affecting all)  
 toti : whole (entire, all)  
@@ -1961,6 +1972,7 @@ waxa : wash
 way : outside (exterior)  
 way dexi : foreign  
 way dexia : foreign country  
+waze : vase (pot, bin, jar, jug)  
 weka : wake (make awake)  
 weki : awake  
 wen : circle (ring)  
@@ -2017,6 +2029,7 @@ xiki : elegant (chic)
 xim : heart  
 xin : belief (faith, creed)  
 xina : believe  
+xing : star  
 xir : poem  
 xirer : poet  
 xirope : syrup  
@@ -2082,7 +2095,9 @@ zigzage : zigzag
 zimbabwe : Zimbabwe  
 zine : adultery (infidelity)  
 zinke : zinc  
-zira : cumin  
+zipa : zip up  
+ziper : zipper  
+zirá : cumin  
 zirkonium : zirconium  
 ziza : sizzle  
 zon : belt (zone)  
