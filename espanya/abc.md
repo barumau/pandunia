@@ -3,8 +3,8 @@ Ortografía de Pandunia
 
 El alfabeto latino básico es usado para escribir en Pandunia. A continuación: el alfabeto de Pandunia seguido de los símbolos del Alfabeto Fonético Internacional (AFI).
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z
-    AFI:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
+    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    AFI:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
 En Pandunia, como en el español, las palabras se pronuncian exactamente como se deletrean. Ninguna letra es muda. Cada letra tiene un sonido que siempre es el mismo.
 
@@ -53,8 +53,14 @@ El acento en Pandunia va en la sílabra que está antes de la última consonante
 2. El acento va en la última sílaba si la palabra termina con una consonante. Ejemplos: komún, bazár, kamís.
 3. El acento va en la penúltima sílaba si la palabra termina con una vocal. Ejemplos: dúnia, melódi.
 
-> **dúnia sí mimén da sundár planét.**  
-> **mí wól lóga komún báxa yáni pandúnia.**  
+     dunia si mimen da sundar planete.
+    /dúnia sí mimén da sundár planéte./
+
+     mi wol loga komun baxa, ye si pandunia.
+    /mí wól lóga komún báxa, yé sí pandúnia./
+
+     darse gurú suku kafé.
+    /dárse gurú súku kafé./
 
 
 ### Schwa

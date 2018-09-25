@@ -3,8 +3,8 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
+    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -27,12 +27,12 @@ Konsonantit
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h     ng
-    '
 
 Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t** ääntäminen on tuttua ja helppoa.
 
 Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
+- **p t k** äännetään ponnekkaasti siten että niitä seuraa kuuluva puhallus: pʰa, tʰa, kʰa.
 - **z** on soinnillinen S. Se siis äännetään kuten englannin sanssa _zoo_.
 - **x** on niin sanottu _suhu-ässä_ eli /ʃ/. Se äännetään kuten Š sanassa _šakki_.
 - **c** on /tʃ/ eli se äännetään kuin TŠ sanassa _tšekki_.
@@ -40,7 +40,6 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
-- **'** on ns. glottaaliklusiili eli sama äänne, joka esiintyy virkkeen "Anna olla!" sanojen välissä.
 
 
 ### Sanojen painotus
@@ -48,12 +47,19 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máw, cíng.
-2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís, barú'.
+2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
 3. Vokaaliloppuisen sanan paino on toiseksiviimeisellä tavulla. Esim. nówi, dúnia, musíke.
 
-> **dúnia sí mimén da sundár planéte.**  
-> **mí wól lóga komún báxa, yé sí pandúnia.**  
-> **yé nó báta batá'.**
+     dunia si mimen da sundar planete.
+    /dúnia sí mimén da sundár planéte./
+
+     mi wol loga komun baxa, ye si pandunia.
+    /mí wól lóga komún báxa, yé sí pandúnia./
+
+Jos painollinen tavu poikkeaa edellä mainituista säännöistä, se merkitään etukenoisella painomerkillä (´).
+
+     darse gurú suku kafé.
+    /dárse gurú súku kafé./
 
 
 ## Aakkoslajit

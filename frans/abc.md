@@ -3,8 +3,8 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-    pandunia : a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    API :     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
+    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    API:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -44,7 +44,6 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 - **j** est prononcé comme le « dj » dans _Djibouti_.
 - **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
 - **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
-- **'** est nommé en linguistique le coup de glotte, et il se prononce comme le h aspiré dans _les hérissons_.
 
 
 ### Accent tonique
@@ -55,18 +54,14 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 2. L’accent est sur la dernière syllabe des mots qui se finissent par une consonne. Ex. : komún, bazár, kamís, barú'.
 3. L’accent est sur l’avant-dernière syllabe des mots qui finissent par une voyelle. Ex. : nówi, dúnia, musíke.
 
-> **dúnia sí mimén da sundár planéte.**  
-> **mí wól lóga komún báxa, yé sí pandúnia.**  
-> **yé nó báta batá'.**
+     dunia si mimen da sundar planete.
+    /dúnia sí mimén da sundár planéte./
 
+     mi wol loga komun baxa, ye si pandunia.
+    /mí wól lóga komún báxa, yé sí pandúnia./
 
-### Schwa
-
-Le schwa est une voyelle neutre, courte et sans accent, qui peut être ajoutée après une consonne pour rendre plus facile la prononciation à l’oral. Elle n’est jamais écrite en pandunia. Cependant, le symbole /ə/ est utilisé pour le schwa dans l’alphabet phonétique international.
-
-Par exemple, quelques personnes peuvent prononcer plus facilement des mots comme  **sam** et **kop**, qui se finissent par une consone, en ajoutant un schwa à la fin, comme ceci : /samə/, /kopə/. Si des mots tels que ceux-ci sont difficiles à prononcer pour vous, il vaut mieux ajouter un schwa plutôt que d’« avaler » la dernière consonne.
-
-Le schwa n’est jamais accentué et il ne change jamais la position de l’accent tonique.
+     darse gurú suku kafé.
+    /dárse gurú súku kafé./
 
 
 ## Majuscules

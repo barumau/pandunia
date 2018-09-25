@@ -7,9 +7,9 @@ Pandunio uzas la bazan latinan alfabeton sen aldonitaj literoj.
 
 Jen la pandunia alfabeto (sekvata per esperanta prononco).
 
-    Pandunie:   a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    Esperante:  a b ĉ  d e f g h i ĝ  k l m n o p r s t u ŭ ŝ j z
-    IPA:       [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z ʔ]
+    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    Esperanto:  a b ĉ  d e f g h i ĝ  k  l m n o p  r s t  u ŭ ŝ j z
+    IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
 
 Oni rajtas skribi pandunion per nur minusklaj literoj. Sed, se oni volas, oni povas uzi majusklajn literojn por komencigi frazojn kaj proprajn nomojn.
@@ -38,7 +38,7 @@ Konsonantoj
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
-    '
+
 Nur la sekvantaj konsonantoj estas prononcataj malsame kiel en esperanto:
 
 - **c** estas prononcata kiel esperanta "ĉ".
@@ -57,7 +57,16 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
 2. En konsonantfinaj vortoj la lasta silabo portas akcenton. Ekz. komún, bazár, kamís, barú'.
 3. En vokalfinaj vortoj la antaŭlasta silabo portas akcenton. Ex. nówi, dúnia, musíke.
 
-> **dúnia sí mimén da sundár planét.**  
-> **mí wól lóga komún báxa yé sí pandúnia.**  
-> **yé nó báta batá'.**
+
+     dunia si mimen da sundar planete.
+    /dúnia sí mimén da sundár planéte./
+
+     mi wol loga komun baxa, ye si pandunia.
+    /mí wól lóga komún báxa, yé sí pandúnia./
+
+Se la akcentata silabo estas alia ol laŭ supraj reguloj, do ĝi estas markita per akcentmarko (´).
+
+     darse gurú suku kafé.
+    /dárse gurú súku kafé./
+
 
