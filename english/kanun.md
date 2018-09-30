@@ -22,14 +22,14 @@ These are the 11 basic rules of Pandunia language.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Nouns have a single, unchanging form.
 4. The adjectives and the adverb have the same form. They come before the word that they modify. Frequently adjectives end in **-i**.
-    - ex. 1. **bon pang** = Good bread.
+    - ex. 1. **bon nan** = Good bread.
     - ex. 2. **tu bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side.
     - ex. **poste sanduke** = mailbox
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **mi nyama pang.** = I eat bread.
+    - ex. **mi nyama nan.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **pang nyamu.** = The bread is eaten.
+    - ex. **nan nyamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
     - ex. **mi cing tu dona mone.** = I ask you to give money.
@@ -305,7 +305,7 @@ The most common word order in Pandunia is subject-verb-object (SVO). In this sen
 
 Examples:  
 **mi wida yemen.** - I see them.  
-**tu beka pang.** - You bake bread.  
+**tu beka nan.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -319,7 +319,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
 
 Examples:  
 **ke tu wida?** - What do you see?  
-**mi nyama pang, jo tu beka.** - I eat bread _that you baked._
+**mi nyama nan, jo tu beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -355,7 +355,7 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **mi yemen widu.** - _I them see._  
-**tu pang beku.** - _You bread bake._
+**tu nan beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -368,7 +368,7 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**pang beku tu.** - Bread is baked by you.  
+**nan beku tu.** - Bread is baked by you.  
 **tu suku mi.** - You are pleased by me.
 
 #### 6.3.3. VSO order
@@ -386,7 +386,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e. agent).
 
 > **mi widu.** - I am seen.  
-> **pang beku.** - Bread is baked.  
+> **nan beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
@@ -478,7 +478,7 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **pang beku.** - Bread is baked.  
+> **nan beku.** - Bread is baked.  
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
@@ -494,7 +494,7 @@ In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
 > **auda musike.** - Listening music.  
-> **beka pang.** - Baking bread.
+> **beka nan.** - Baking bread.
 
 
 #### 7.5. All Possible Word Orders
@@ -745,8 +745,8 @@ I speak with friends in Pandunia in telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-> **mi kata pang.** - I cut bread.  
-> **mi kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+> **mi kata nan.** - I cut bread.  
+> **mi kata nan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 > **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 

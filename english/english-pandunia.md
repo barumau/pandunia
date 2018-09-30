@@ -2,8 +2,8 @@
   
   
   
-    
-    
+  
+  
     
     
     
@@ -97,6 +97,7 @@ ambassador   : dayxi
 America (continent)   : amerikia  
 American   : ameriki  
 American Samoa   : usameriki samoa  
+Amhara (an Ethiopian ethnic group and language)   : amari  
 ampere   : amper  
 amuse (entertain)   : maza  
 anal   : anusi  
@@ -115,7 +116,7 @@ antenna (aerial)   : anten
 anus   : anus  
 any (no matter which)   : eni  
 appearance (looks)   : rupe  
-apple   : apel  
+apple   : aple  
 April   : mes 4 (mes car)  
 Arabic   : arabi  
 archipelago   : nesia  
@@ -124,6 +125,7 @@ argon   : argon
 argue (claim)   : teza  
 argument (thesis)   : teze  
 army   : armia  
+arrow   : ban  
 arsenic   : arsen  
 art   : arte  
 article (writing)   : makale  
@@ -203,7 +205,7 @@ become open   : kayu
 bed   : bede  
 bedouin (nomadic)   : badawi  
 bedroom   : son kamar  
-beef   : mumu nyam  
+beef   : mumu manse  
 beer   : bir  
 begin (commence)   : mula  
 beginning   : mul  
@@ -268,11 +270,10 @@ brain   : serebre
 branch (bough)   : xake  
 brave (courageous)   : yungam  
 Brazil   : brazilia  
-bread   : pang  
+bread   : nan  
 breakfast   : subá nyam  
 breast (boob, tits)   : mam  
 breath   : nafas  
-bridge   : pont  
 bright (clear)   : ming  
 broken (out of order)   : kaput  
 bromine   : brom  
@@ -284,7 +285,7 @@ bucket   : balde
 Buddhism   : budisme  
 budget   : bujete  
 bugle (horn instrument)   : laba  
-build (construct)   : bana  
+build (construct)   : bina  
 Bulgaria   : bolgaria  
 bunch (collection)   : men  
 Burkina Faso   : burkiná  
@@ -294,6 +295,7 @@ Burundi   : rundi
 bus   : bus  
 business (commercial activity)   : biznes  
 businessperson (businessman)   : biznes ren  
+bust (bosom)   : buste  
 busy (occupied)   : bizi  
 but (whereas)   : a  
 butter   : makan  
@@ -367,7 +369,7 @@ cheese   : cis
 chemical   : kimi  
 chemistry   : kimia  
 cherub   : kerube  
-chest (thorax)   : sen  
+chest (breast)   : sine  
 chestnut   : kastan  
 chicken   : koko  
 chickpea   : humus  
@@ -392,8 +394,7 @@ Christianity   : kristisme
 Christmas   : kriste jen  
 chromium   : krom  
 church   : eglis  
-cigar   : sigar  
-cigarette   : sigaret  
+cigarette (cigar)   : sigar  
 circle (ring)   : wen  
 circle (round)   : sirke  
 city (town)   : site  
@@ -495,7 +496,7 @@ Cuba   : kubá
 cube   : kube  
 cultivate   : nonga  
 culture   : kultur  
-cumin   : zira  
+cumin   : zirá  
 cup   : kupe  
 cupboard (closet, cabinet, wardrobe)   : almar  
 curium   : kurium  
@@ -531,7 +532,7 @@ democracy   : demó kratia
 demography   : demó grafia  
 demon   : demon  
 Denmark   : dania  
-dentist   : dante dokter  
+dentist   : dante mediker  
 depict (describe, illustrate)   : grafa  
 depiction (graph)   : graf  
 desire (lust)   : kam  
@@ -557,6 +558,9 @@ Djibouti   : jibutia
 do (make, act)   : fa  
 do yoga   : yoga  
 doctor (physician, healer)   : dokter  
+doctor (physician, healer)   : mediker  
+doctor (scholar who has attained doctorate)   : dotor  
+doctorate   : dotoria  
 dog   : waf  
 doll (puppet)   : pupe  
 dollar   : dolar  
@@ -594,7 +598,7 @@ Egyptian   : misri
 eight (8)   : bat  
 einsteinium   : einsteinium  
 El Salvador   : salvador  
-elastic   : lastik  
+elastic   : lasti  
 electricity   : elektre  
 electron   : elektron  
 elegant (chic)   : xiki  
@@ -671,7 +675,7 @@ fashion (trend)   : mode
 fast (quick)   : rapid  
 fat (grease)   : fete  
 fate (destiny, kismet)   : kisme  
-father   : pa  
+father   : papá  
 father (dad)   : papa  
 fatty (greasy)   : feti  
 fault (sin, blame, defect, guilt)   : dox  
@@ -703,6 +707,7 @@ five (5)   : lim
 fix (attach)   : fiksa  
 flag (banner)   : bander  
 flat   : ping  
+flatbread (chapati, roti)   : rote  
 floor   : kamar tal  
 flower   : hua  
 flower   : pul  
@@ -723,11 +728,12 @@ form (shape)   : forme
 fortress (stronghold)   : yosay  
 forum   : forum  
 four (4)   : car  
-fox   : huli  
+fox   : hule  
 France   : fransia  
 francium   : fransium  
-free (liberate)   : libera  
-free (unchained)   : liber  
+free (liberate)   : hura  
+free (unchained)   : huri  
+freedom (liberty)   : huria  
 French Guiana   : giyan  
 French Polynesia   : fransi polinesia  
 fresh   : tazi  
@@ -793,8 +799,8 @@ good-looking   : bon rupi
 gospel   : anjil  
 grain (seed)   : dane  
 gram   : gram  
-grandfather   : opa  
-grandmother   : oma  
+grandfather   : opá  
+grandmother   : omá  
 grape   : putaw  
 grapheme   : grafem  
 graphic (descriptive)   : grafi  
@@ -849,6 +855,7 @@ hazard (chance)   : zar
 he or she or it   : ye  
 head   : sar  
 heal (cure)   : dokta  
+heal (cure)   : medika  
 hear (listen)   : auda  
 heart   : xim  
 Hebrew   : ibri  
@@ -1053,7 +1060,8 @@ Libya   : libia
 lie (lie down)   : lala  
 Liechtenstein   : lixtenxtayn  
 life   : jiwe  
-light (illumination)   : guang  
+light (bright)   : nuri  
+light (illumination)   : nur  
 like (enjoy, be fond of)   : suku  
 lilac   : lilak  
 lily   : lilya  
@@ -1158,6 +1166,7 @@ measure   : metre
 meat (flesh)   : manse  
 medallion (medal)   : medalia  
 media   : media  
+medicine (field of study)   : medikia  
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mit  
@@ -1215,8 +1224,7 @@ moscovium   : moskovium
 mosquito   : moskit  
 moss   : mos  
 most (maximally)   : maxim  
-mother   : ma  
-mother (mom)   : mama  
+mother (mom)   : mamá  
 mountain (hill)   : xan  
 mouse   : mux  
 mouth   : boke  
@@ -1259,7 +1267,7 @@ neptunium   : neptunium
 net   : nete  
 Netherlands   : nederlandia  
 Netherlands Antilles   : nederlandi antilia  
-new (novel)   : nowi  
+new (recent)   : nowi  
 New Caledonia   : nowi kaledonia  
 New Zealand   : nowi zilandia  
 news   : habar  
@@ -1336,6 +1344,8 @@ orgasm   : orgazme
 oriental dragon   : rong  
 origin   : asle  
 original   : asli  
+Oromia   : oromia  
+Oromo (an Ethiopian ethnic group and language)   : oromi  
 orphan   : yatim  
 osmium   : osmium  
 other   : alter  
@@ -1368,7 +1378,7 @@ papaya   : papaya
 paper   : paper  
 Papua New Guinea   : papua nowi ginia  
 Paraguay   : paraguay  
-parent   : jener  
+parent   : pamá  
 parrot (parakeet)   : akú  
 part (fraction)   : fen  
 participate (attend, take part)   : memba  
@@ -1398,6 +1408,7 @@ perfect   : perfet
 permission   : permis  
 Persian (Farsi)   : farsi  
 person (people)   : ren  
+personal (intimate, private)   : tani  
 Peru   : peru  
 Philippines   : pilipinia  
 philosopher   : filsofer  
@@ -1452,8 +1463,9 @@ plutonium   : plutonium
 pocket   : jebe  
 poem   : xir  
 poet   : xirer  
-point (full stop)   : punt  
-point (indicate)   : indika  
+point (full stop)   : punte  
+point at (indicate)   : ponta  
+pointer (indicator)   : ponter  
 poker   : poker  
 Poland   : polskia  
 polecat (ferret)   : furet  
@@ -1584,6 +1596,7 @@ rhenium   : renium
 rhinoceros   : faru  
 rhodium   : rodium  
 rhythm (beat)   : ritme  
+rib cage   : sine kase  
 rice   : ris  
 rich   : rici  
 right (correct)   : tiki  
@@ -1664,6 +1677,7 @@ seismology   : sisme lojia
 selenium   : selen  
 selenium   : selen  
 self   : se  
+self   : tan  
 send by mail   : posta  
 Senegal   : senegal  
 sense   : sens  
@@ -1703,7 +1717,6 @@ Sierra Leone   : salone
 sign (signal)   : sinye  
 silent   : xixi  
 silicon   : silike  
-silver   : candi  
 simple (not complicated)   : simpli  
 sing   : gana  
 Singapore   : singapur  
@@ -1732,6 +1745,7 @@ sock (stocking)   : soke
 sodium   : natre  
 sofa (couch)   : sofa  
 soft   : komal  
+solar system   : sor sistem  
 Solomon Islands   : solomon nesia  
 Somalia   : somalia  
 some   : koy  
@@ -1768,8 +1782,10 @@ squirrel   : lixú
 Sranan Tongo   : surinam bax  
 Sri Lanka (Ceylon)   : lanká  
 stadium (arena)   : stadia  
+stage (phase)   : faze  
+stage (scene)   : sen  
 stand   : libu  
-star   : star  
+star   : xing  
 state (polity)   : stan  
 static (stationary)   : stasi  
 station   : stasia  
@@ -1780,7 +1796,7 @@ steer   : gida
 still (yet)   : hay  
 stipulate   : xarta  
 stone   : batú  
-stop   : stop  
+stop   : stope  
 storm (tempest)   : tufon  
 straight   : jiki  
 straighten   : jika  
@@ -1807,7 +1823,7 @@ suggestion (proposal)   : teyan
 sulfur   : sulfe  
 sum (total)   : sum  
 sum up (add together)   : suma  
-sun   : surya  
+sun   : sor  
 Sunday   : war 7 (war set)  
 superb (wonderful, super)   : super  
 supply (dispense, issue, put out)   : fada  
@@ -1819,11 +1835,13 @@ surrender (to give up)   : salima
 surround (be around)   : sirka  
 sushi   : suxi  
 Swahili   : swahili  
+Swaziland   : swazia  
 sweat (perspiration)   : swede  
 sweaty   : swedi  
 Sweden   : swenia  
 sweet potato   : kamote  
 Switzerland   : swisia  
+Syria   : suria  
 syrup   : xirope  
 system   : sistem  
 systemic   : sistemi  
@@ -1886,11 +1904,13 @@ theism   : dewisme
 theology   : dew lojia  
 theory   : teoria  
 they   : yemen  
+thick (fat)   : pang  
 thief   : curer  
 thing   : xey  
 think (ponder, reflect)   : fikra  
 this (these)   : ci  
 this one   : ce  
+thorax   : torace  
 thorium   : torium  
 thought (idea)   : fikre  
 thousand (kilo-)   : kilo  
@@ -1942,6 +1962,7 @@ tree   : xu
 tribe   : tribe  
 Trinidad and Tobago   : trinida i tobago  
 trouble (disturbance, bother)   : mafan  
+trunk (torso)   : torse  
 try (attempt)   : proba  
 tube (pipe)   : tube  
 Tuesday   : war 2 (war du)  
@@ -1992,9 +2013,9 @@ vagina   : yone
 valve (tap, faucet)   : balbe  
 vanilla   : wanila  
 Vanuatu   : vanuatu  
-vase (flower pot)   : hua pote  
-vase (pot, bin, jar, jug)   : bin  
+vase (flower pot)   : pul waze  
 vase (pot, bin, jar, jug)   : pote  
+vase (pot, bin, jar, jug)   : waze  
 vegetable   : sabze  
 Venezuela   : venesuela  
 veranda (balcony, terrace, porch)   : berande  
@@ -2042,7 +2063,6 @@ what?   : ke
 wheel   : cakre  
 when?   : ki zaman  
 which?   : ki  
-whip (lash)   : cabuk  
 white   : bay  
 who?   : ki ren  
 whole (entire, all)   : toti  
@@ -2095,6 +2115,8 @@ zero (none)   : nul
 zigzag   : zigzage  
 Zimbabwe   : zimbabwe  
 zinc   : zinke  
+zip up   : zipa  
+zipper   : ziper  
 zirconium   : zirkonium  
 Zoroaster   : zardux  
 Zoroastrianism   : zarduxisme  

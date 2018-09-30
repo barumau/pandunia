@@ -290,7 +290,7 @@ The normal sentence word order is subject-verb-object – just like in English a
 The verb **bey** is used when the object of an action comes first in the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  apel bey nyama.
+    Pandunia:  aple bey nyama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** is a loan word from Standard Chinese, but it is also close to some uses of English "to be".
@@ -308,11 +308,11 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words. There's no plural ending like -s in English. Also verbs are not conjugated. One word, **si**, is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ye si apel.
+    Pandunia:  ye si aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemen si apel.
+    Pandunia:  yemen si aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 

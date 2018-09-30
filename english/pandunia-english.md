@@ -48,7 +48,7 @@ antarktia : Antarctica
 anten : antenna (aerial)  
 anus : anus  
 anusi : anal  
-apel : apple  
+aple : apple  
 ara : saw tool  
 arabi : Arabic  
 aranje : orange (fruit)  
@@ -283,7 +283,7 @@ danka : thank
 danke : thanks (thank you)  
 dante : tooth  
 dante brox : tooth brush  
-dante dokter : dentist  
+dante mediker : dentist  
 darba : strike (punch)  
 daria : sea (ocean)  
 darme : dharma (piety)  
@@ -340,6 +340,8 @@ dong : east
 doste : friend  
 dosti : friendly  
 dostia : friendship  
+dotor : doctor (scholar who has attained doctorate)  
+dotoria : doctorate  
 dow : bean or pea (legume)  
 dox : fault (sin, blame, defect, guilt)  
 doxi : guilty  
@@ -1141,6 +1143,9 @@ mazi : funny (amusing)
 medalia : medallion (medal)  
 medi : mean (medium, average)  
 media : media  
+medika : heal (cure)  
+mediker : doctor (physician, healer)  
+medikia : medicine (field of study)  
 medita : meditate (ponder)  
 medu : honey  
 mega : million (mega-)  
@@ -1265,6 +1270,7 @@ nam : name
 nama : call (give name)  
 namibia : Namibia  
 namu : be called (be named)  
+nan : bread  
 nanas : pineapple  
 nano : nano-  
 narak : hell  
@@ -1396,7 +1402,7 @@ panasi : pan-Asian
 panda : panda  
 pandunia : Pandunia  
 paneuropi : pan-European  
-pang : bread  
+pang : thick (fat)  
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
@@ -1595,6 +1601,7 @@ romansi : romantic
 rona : cry (weep)  
 rong : oriental dragon  
 rose : dew  
+rote : flatbread (chapati, roti)  
 rotor : rotor (rotator)  
 roze : rose  
 rozi : pink (rosy)  

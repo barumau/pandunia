@@ -55,7 +55,7 @@ Vous pouvez vous présenter simplement en utilisant **mi** et votre prénom ; le
 
 **mi salama ma.** Je salue la mère.
 
-**mi salama pa.** Je salue le père.
+**mi salama papá.** Je salue le père.
 
 Le mot **salam** est un nom et **salama** le verbe correspondant.
 L'ordre des mots en Pandunia est sujet-verbe-objet.
@@ -64,7 +64,7 @@ L'ordre des mots en Pandunia est sujet-verbe-objet.
 
 **salam ma!** Salutations, mère ! | Salut maman !
 
-**salam pa!** Salutations, père ! | Salut papa !
+**salam papá!** Salutations, père ! | Salut papa !
 
 <small>Étymologie : **mi** vient de l'anglais "me", en Italien il se dit "mi", en Swahili "mimi" et en Zulu: -mi-.</small>
 
@@ -81,7 +81,7 @@ L'ordre des mots en Pandunia est sujet-verbe-objet.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit sujet ou complément.
 
-**mi ama tu.** Je t'aime.
+**mi a tu.** Je t'aime.
 
 <small>Étymologie : **tu** vient de l'espagnol "tú", en Italien il se dit "tu", en Français "tu", en Hindi: तू  "tū", en Farsi تو‏‎ "to" et en Tadjik ту "tu".</small>
 
@@ -93,7 +93,7 @@ Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit suj
 
 **ye fem.** C'est une femme.
 
-**ye apel.** C'est une pomme.
+**ye aple.** C'est une pomme.
 
 **ye** est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
@@ -137,9 +137,9 @@ Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
 **tu si sara.** En effet, tu es Sara.
 
-**apel si pal.** La pomme est en effet un fruit.
+**aple si pal.** La pomme est en effet un fruit.
 
-**Note : **Il est nécessaire d'ajouter **si** dans la dernière phrase, parce sans li présence la phrase constituerait un mot composé : **apel pal** (un fruit [de type] pomme).
+**Note : **Il est nécessaire d'ajouter **si** dans la dernière phrase, parce sans li présence la phrase constituerait un mot composé : **aple pal** (un fruit [de type] pomme).
 
 <small>Étymologie : **si** vient de l'Espagnol "si", en Portugais il se dit "sim".</small> 
 
@@ -179,7 +179,7 @@ Ajoutez **men** à un pronom personnel pour le mettre au pluriel.
 
 **tumen man.** Vous êtes des hommes.
 
-**yemen apel.** Ce sont des pommes.
+**yemen aple.** Ce sont des pommes.
 
 <small>Étymologie : **men** vient du Mandarin (chinois) 们 "men", en Anglais il se dit "men" (sous-entendu les personnes en général).</small>
 
@@ -207,11 +207,11 @@ Ajoutez **men** à un pronom personnel pour le mettre au pluriel.
 
 **li si ke? / ke si li?** Qu’est-ce que c’est que ça ?
 
-**li si apel.** Ceci est une pomme.
+**li si aple.** Ceci est une pomme.
 
-**li si ros apel.** Ceci est une pomme rouge.
+**li si ros aple.** Ceci est une pomme rouge.
 
-**li apel ros.** Cette pomme est rouge.
+**li aple ros.** Cette pomme est rouge.
 
 Remarque : Quand un adjectif tel que **ros** est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
 
@@ -278,7 +278,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **li man no doktar.** Cet homme n’est pas un médecin.
 
-**li apel no ros.** Cette pomme n’est pas rouge.
+**li aple no ros.** Cette pomme n’est pas rouge.
 
 
 
@@ -296,7 +296,7 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 ### da <small>possessif</small>
 
-**ye si mi da mama.** C’est ma mère.
+**ye si mi da mamá.** C’est ma mère.
 
 **ye si mi da man.** C’est mon mari (mon homme).
 
@@ -323,11 +323,11 @@ Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d�
 
 **kia tu wol nyama koi?** Est-ce que tu veux manger quelque chose ?
 
-**ye nyama apel.** Il/elle mange une pomme.
+**ye nyama aple.** Il/elle mange une pomme.
 
-**yemen nyama apel.** Ils/elles mangent des pommes.
+**yemen nyama aple.** Ils/elles mangent des pommes.
 
-Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **apel** peut signifier une ou plusieurs pommes.
+Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
 
 **kia tu nyama kafe?** Est-ce que tu bois du café ?
 
@@ -335,7 +335,7 @@ Remarque : Contrairement au français, le pandunia n’a pas de formes singulier
 
 Astuce : Le sens de **nyama** regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi nyama kafe i pan.** Je prends mon café avec du pain.
+**mi nyama kafe i nan.** Je prends mon café avec du pain.
 
 
 
@@ -352,7 +352,7 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 **kia tu wol nyama ca?** Est-ce que tu veux (boire) du thé ?  
 **no. mi no wol ca. mi wol kafe.** Non, Je ne veux pas de thé. Je veux du café.
 
-**tu wol ke apel?** Quelle pomme veux-tu ?  
+**tu wol ke aple?** Quelle pomme veux-tu ?  
 **li ros.** La rouge. (mot à mot _cette rouge_)
 
 
@@ -729,10 +729,11 @@ Astuce : **Kira** est associé à _donner_ et _prendre_ tout comme **mai**.
 Liste de mots
 -------------
 
-Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde. Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez. Habituellement, un mot en pandunia est partagé par plusieurs langues. Par exemple, **mama** et **papa** sont connus dans des centaines de langues. Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
+Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde. Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez. Habituellement, un mot en pandunia est partagé par plusieurs langues. Par exemple, **mamá** et **papá** sont connus dans des centaines de langues. Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 
 
-**ama** mais <small>(Turc _ama_)</small>  
+**a** mais <small>(Russe _a_ а)</small>  
+**aple** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
 **bai** blanc <small>(Mandarin _bái_ 白)</small>  
 **batu** pierre <small>(Indonésien _batu_)</small>  
 **bazar** marché <small>(Persan _bāzār_ بازار)</small>  
@@ -742,9 +743,9 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **bon** bon
 **ca** thé <small>(Mandarin _chá_ 茶)</small>  
 **cing** demander quelque chose <small>(Allemand _bitten_)</small>  
-**den** jour <small>(Russie _den'_ день)</small>  
+**den** jour <small>(Russe _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
-**doma** vivre, habiter, résider<small>Russe _dom_ дом</small>  
+**doma** vivre, habiter, résider  
 **englix** anglais <small>(Anglais _English_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
@@ -760,7 +761,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **keci** poli <small>(Mandarin _kèqi_ 客气)</small>  
 **kia** poser une question <small>(Hindi _kyā_ क्या)</small>  
 **lay** venir <small>(Vietnamien _lay_)</small>  
-**mama** maman <small>(Mandarin _māma_ 妈妈)</small>  
+**mamá** maman <small>(Mandarin _māma_ 妈妈)</small>  
 **man** homme <small>(Anglais _man_)</small>  
 **mana** signifier, vouloir dire <small>(Swahili _maana_)</small>  
 **meda** aider <small>(Français _aider_)</small>  
@@ -770,8 +771,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **no** non, ne… pas <small>(Espagnol _no_)</small>  
 **noce** nuit <small>(Espagnol _noche_)</small>  
 **nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
-**papa** papa <small>(Russe _papa_ папа)</small>  
-**apel** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
+**papá** papa <small>(Russe _papa_ папа)</small>  
 **ren** personne <small>(Mandarin _rén_ 人)</small>  
 **ros** rouge <small>(Italien _rosso_)</small>  
 **li** ceci, cela <small>(créole haïtien _li_)</small>  
