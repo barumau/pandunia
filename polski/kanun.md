@@ -754,7 +754,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
 > **mi laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
-> **tu sidu kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
+> **tu sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
 > **ye lala sofa.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)
 > **jangar marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)

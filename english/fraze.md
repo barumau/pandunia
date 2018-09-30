@@ -571,7 +571,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ye na ke?** Where is he/she?
 
-**ye sidu na kamar.** He/she sits in the room.
+**ye sida na kamar.** He/she sits in the room.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 

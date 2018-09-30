@@ -135,7 +135,7 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! cing sidu.** = Hello! Please sit!  
+☺: **salam! cing sida.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
 ☺: **cing nyama kafé u ca.** = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
@@ -166,7 +166,7 @@ See how the translation of **cing** changed between the two sentences? The meani
 
 The phrase **cing salama ye** has a useful pattern that can be used for making polite requests.
 
-> **cing sidu.** = Please be seated.  
+> **cing sida.** = Please be seated.  
 > **cing dona kafé.** = Please give me some coffee.  
 > **cing dona ca.** = Please give me some tea.  
 > **cing nyama ca.** = Please have some tea.  
@@ -195,16 +195,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafé** coffee. **kamar** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **nyama** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafé** coffee. **kamar** room. **manda** to command. **u** or. **safa** to clean. **sida** to sit. **nyama** to eat or drink.
 
 
 ### Answers to the Exercises
 
 1. ye nyama ca.
-2. xefe cing ye sidu.
+2. xefe cing ye sida.
 3. cing nyama kafé u ca.
 4. mamá cing mi safa kamar.
-5. xefe sidu i nyama kafé.
+5. xefe sida i nyama kafé.
 
 
 --------------------------------------------------------------------------------

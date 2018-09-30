@@ -573,7 +573,7 @@ Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
 **ye na ke?** Gdzie jest?
 
-**ye sidu na kamar.** Siedzi w pokoju.
+**ye sida na kamar.** Siedzi w pokoju.
 
 Porada! Możesz używać **na** jako przyimka lub samodzielnie jako czasownika.
 

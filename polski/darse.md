@@ -135,7 +135,7 @@ Proszenie
 ### Dialog
 
 ☻: **salam!** = Cześć!  
-☺: **salam! cing sidu.** = Cześć! Proszę, usiądź!  
+☺: **salam! cing sida.** = Cześć! Proszę, usiądź!  
 ☻: **danke.** = Dziękuję.  
 ☺: **cing nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
@@ -164,7 +164,7 @@ Pamiętaj, żee można opóścić zaimki znane z kontekstu. Innymi słowy, mówi
 
 Zdanie **cing salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-> **cing sidu.** = Proszę, usiąść.  
+> **cing sida.** = Proszę, usiąść.  
 > **cing dona kafe.** = Proszę, podaj kawę.  
 > **cing dona ca.** = Proszę, podaj herbatę.  
 > **cing nyama ca.** = Proszę, pij herbatę.  
@@ -193,16 +193,16 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sidu** siedzieć. **nyama** jeść lub pić.
+**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
 
 1. ye nyama ca.
-2. xefe cing ye sidu.
+2. xefe cing ye sida.
 3. cing nyama kafe u ca.
 4. mamá cing mi safa kamar.
-5. xefe sidu i nyama kafe.
+5. xefe sida i nyama kafe.
 
 
 --------------------------------------------------------------------------------

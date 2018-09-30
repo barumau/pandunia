@@ -554,7 +554,7 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
 > **mi lay dom.** - Minä tulen kotiin.  
-> **tu sidu kursi.** - Sinä istut sohvaa (sohvalla).  
+> **tu sida kursi.** - Sinä istut sohvaa (sohvalla).  
 > **ye lala sofa.** - Hän makaa sohvaa (sohvalla).  
 > **maci nata daria.** - Kalat uivat vettä (vedessä).  
 > **jangar marca dau.** - Soturit kävelevät tietä (tiellä).  

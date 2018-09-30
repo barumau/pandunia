@@ -583,7 +583,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **ye na ke?** Où il/elle est ?
 
-**ye sidu na kamar.** Il/elle est assis(e) dans la pièce.
+**ye sida na kamar.** Il/elle est assis(e) dans la pièce.
 
 Astuce ! Vous pouvez utiliser **na** comme préposition ou tout seul comme un verbe.
 

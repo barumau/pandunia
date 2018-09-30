@@ -765,7 +765,7 @@ Here are some verbs that are usable as prepositions:
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
 > **mi laya dom.** - I come home.  
-> **tu sidu kurse.** - You sit (on) the chair.  
+> **tu sida kurse.** - You sit (on) the chair.  
 > **ye lala sofa.** - S/he lies (on) the sofa.  
 > **fixe nata daria.** - Fish swim (in) the sea.  
 > **jangar marca daw.** - Warriors march (on) the road.  

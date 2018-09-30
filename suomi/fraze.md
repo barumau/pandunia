@@ -573,7 +573,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
 **ye na ke?** Missä hän on?
 
-**ye sidu na kamar.** Hän istuu huoneessa.
+**ye sida na kamar.** Hän istuu huoneessa.
 
 Panduniassa sanaa **na** voi käyttää yksinään ilman verbiä.
 
