@@ -507,7 +507,7 @@ kupa : купол (свод)
 kuper : медь  
 kupon : купон (талон)  
 kuran : Коран  
-kursi : стул  
+kurse : стул  
 kusen : подушка  
 ##l  
 lab : губа  

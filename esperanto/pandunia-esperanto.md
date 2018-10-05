@@ -449,7 +449,7 @@ krizi : krizo
 kube : kubo  
 kuki : biskvito (kuketo)  
 kurba : kurbo  
-kursi : seĝo  
+kurse : seĝo  
 kutu : pediko  
 
 ##l

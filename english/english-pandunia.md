@@ -354,7 +354,7 @@ cerium   : cerium
 certain (sure)   : yakin  
 Chad   : cadia  
 chain   : silsil  
-chair   : kursi  
+chair   : kurse  
 champion   : campion  
 change (alter)   : altera  
 channel   : kanal  

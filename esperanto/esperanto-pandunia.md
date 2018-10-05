@@ -674,7 +674,7 @@ Serbio   : serbia
 serio   : seri  
 serpento   : serpe  
 sezono   : mosim  
-seĝo   : kursi  
+seĝo   : kurse  
 si   : se  
 sidi   : side  
 signifo   : mani  

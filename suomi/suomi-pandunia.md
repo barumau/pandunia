@@ -1349,7 +1349,7 @@ tuntea (tunne) : senta
 tunti : hor  
 tuo (nuo) : li  
 tuo : le  
-tuoli : kursi  
+tuoli : kurse  
 tuomari : hakimar  
 tuomio : hakim  
 tuore (raikas) : tazi  

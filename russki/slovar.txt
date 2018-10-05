@@ -843,7 +843,7 @@ libel	стрекоза
 bana	строить
 fila	строка
 darsa ban	Студент (ученик)
-kursi	стул
+kurse	стул
 sabat	суббота
 var 6 (var sis)	суббота
 sudan	Судан

@@ -141,8 +141,8 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
 
 > **un day meza'** - yksi iso pöytä  
-> **do day kursi** - kaksi isoa tuolia  
-> **sam bon kursi** - kolme hyvää tuolia
+> **do day kurse** - kaksi isoa tuolia  
+> **sam bon kurse** - kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
 
@@ -554,10 +554,10 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
 > **mi lay dom.** - Minä tulen kotiin.  
-> **tu sida kursi.** - Sinä istut sohvaa (sohvalla).  
-> **ye lala sofa.** - Hän makaa sohvaa (sohvalla).  
-> **maci nata daria.** - Kalat uivat vettä (vedessä).  
-> **jangar marca dau.** - Soturit kävelevät tietä (tiellä).  
+> **tu sida kurse.** - Sinä istut tuolia (tuolilla).  
+> **ye lala sofá.** - Hän makaa sohvaa (sohvalla).  
+> **fix nata daria.** - Kalat uivat vettä (vedessä).  
+> **janger marca daw.** - Soturit kävelevät tietä (tiellä).  
 
 Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini tai substantiivi täydentää preposition.
 

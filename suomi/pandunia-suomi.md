@@ -743,7 +743,7 @@ kuper : kuperi
 kupon : kuponki  
 kuran : koraani  
 kurbe : mutka (kurvi)  
-kursi : tuoli  
+kurse : tuoli  
 kuwaytia : Kuwait  
 ##l  
 laba : torvi (torvisoitin)  

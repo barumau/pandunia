@@ -917,7 +917,7 @@ kuran : Koran
 kurbe : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
 kurbi : zakrzywiony  
 kurium : kiur  
-kursi : kszesło, fotel  
+kurse : kszesło, fotel  
 kusen : poduszka  
 kuwaytia : Kuwejt  
 

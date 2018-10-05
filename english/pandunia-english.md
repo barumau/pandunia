@@ -956,7 +956,7 @@ kuran : Quran (Koran)
 kurbe : curve (bend)  
 kurbi : curvy (curved)  
 kurium : curium  
-kursi : chair  
+kurse : chair  
 kusen : cushion (pillow)  
 kuwaytia : Kuwait  
 laba : bugle (horn instrument)  
