@@ -804,11 +804,11 @@ ron : плакать
 rong : Восточный дракон  
 ros : красный  
 rose : роса  
-rosia : Россия  
 rotor : ротор  
 roza : Роза  
 ruk sak : рюкзак  
-ruski : русский  
+rusi : русский  
+rusia : Россия  
 rutin : рутин  
 ##s  
 sa : это или то  

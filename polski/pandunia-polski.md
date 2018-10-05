@@ -1533,7 +1533,6 @@ romansi : romantyczny
 rona : płakać, łkać  
 rong : orientalny smok  
 rose : rosa  
-rosia : Rosja  
 rotor : rotor, wirnik  
 roze : róża  
 rozi : różowy, różany  
