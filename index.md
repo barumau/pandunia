@@ -13,7 +13,7 @@
 
 ![](http://pandunia.info/bander/fr.png) [Apprenez le pandunia à partir du français](frans/index.md)
 
-![](http://pandunia.info/bander/ru.png) [Изучаем язык Пандуния на русском](russki/index.md)
+![](http://pandunia.info/bander/ru.png) [Изучаем язык Пандуния на русском](rusi/index.md)
 
 ![](http://pandunia.info/bander/jp.png)[パンズニヤ語を日本語で学ぶ](nipon/index.md)
 
