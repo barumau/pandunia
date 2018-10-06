@@ -48,7 +48,7 @@ Oto 11 podstawowych zasad języka Pandunia.
 Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
 > **batú** - kamień, kamienie
-> **mezá** - stół, stoły
+> **meze** - stół, stoły
 > **kurse** - krzesło, krzesła
 > **suy** - woda
 
@@ -86,18 +86,18 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
 > **day batú** - duży kamień
-> **day mezá** - duży stół
-> **gaw mezá** - wysoki stół
+> **day meze** - duży stół
+> **gaw meze** - wysoki stół
 > **bon kurse** - dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
 > **batú day.** - Kamień jest duży.
-> **mezá gaw.** - Stół jest wysoki.
+> **meze gaw.** - Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-> **day mezá gaw.** - Duży stół jest wysoki.
+> **day meze gaw.** - Duży stół jest wysoki.
 
 
 ### 3.2 Opisywanie czasownika
@@ -154,7 +154,7 @@ Zakończenie nie jest stosowane przy rdzeniach-opisach, kończących się pojedy
 
 ## 4. Liczby
 
-Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **sor** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
+Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **sol** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
 
 Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej. Są umieszczane przed słowem lub wyrażeniem, które opisują.
 
@@ -165,7 +165,7 @@ Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do nie
 > **poli xing** - kilka gwiazd (dwie lub więcej)
 > **multi xing** - wiele gwiazd
 
-> **un day mezá** - jeden duży stół
+> **un day meze** - jeden duży stół
 > **do day kurse** - dwa duże krzesła
 > **sam bon kurse** - trzy dobre krzesła
 

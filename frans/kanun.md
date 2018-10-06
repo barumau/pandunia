@@ -15,9 +15,9 @@ Cette grammaire traite du types des mots et des différentes façons d'ordonner 
 5. On peut créer de nouveaux mots, des mots composés, en combinant plusieurs mots simple. Le mot principal, le signifiant demeure toujours à la fin. Ces nouveaux mots ne s'agglutinent pas (il y a un espace entre chaque partie).
     - ex. **poste sanduk** = boîte aux lettre
 6. Les phrases avec un verbe actif ont un ordre sujet-verbe-objet. La plupart des verbes actifs se terminent par un **-a**.
-    - ex. **mi penta meza.** = Je peints des tables.
+    - ex. **mi penta meze.** = Je peints des tables.
 7. Une phrase avec un sens passif a seulement un sujet et un verbe. La plupart des verbes passif se terminent par un **-u**.
-    - ex. **meza pentu.** = Les tables sont en train d'être peintes.
+    - ex. **meze pentu.** = Les tables sont en train d'être peintes.
 8. L'object d'un verbe transitif peut fonctionner comme le sujet du verbe suivant dans la phrase. Cette structure est appelé la _structure pivot_.
     - ex. **mi cing tu dar pesa.** = Je te demande de me donner de l'argent.
 9. Les pronoms peuvent être omis quand ils sont évidents et redondants.

@@ -48,11 +48,11 @@ These are the 11 basic rules of Pandunia language.
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
 > **batú** - a stone, stones, the stone or the stones  
-> **mezá** - a table, tables, the table or the tables  
+> **meze** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sor** refers to _the sun_ and **lun** refers to _the moon_, our only sun and our only moon.
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and our only moon.
 
 ### 2.2. Number
 
@@ -73,7 +73,7 @@ Some words carry _natural gender_. For example **fem** (woman) is feminine and *
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **sor nur** - sunlight  
+> **sol nur** - sunlight  
 > **lun nur** - moonlight  
 > **lun batú** - moonstone
 
@@ -88,18 +88,18 @@ A modifier is a word that adds some quality or description to the thing denoted 
 An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
 > **day batú** - big stone
-> **day mezá** - big table  
-> **gaw mezá** - high table
+> **day meze** - big table  
+> **gaw meze** - high table
 > **bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
 > **batú day.** - The stone is big.  
-> **mezá gaw.** - The table is high.
+> **meze gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day mezá gaw.** - Big table is high.
+> **day meze gaw.** - Big table is high.
 
 
 ### 3.2 Modifying a verb
@@ -147,7 +147,7 @@ Particle **ka** relates the adverbs of comparison to the point of comparison.
 
 #### 3.6. Modifier ending
 
-Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
+Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _oral, spoken_, **suki** _happy_, **kitabi** _written, textual_.
 
 The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
 
@@ -156,7 +156,7 @@ The ending is not applied to description roots that end in a single consonant th
 
 ## 4. Numerals
 
-Sometimes it is known from the context how many objects are spoken about. For example, the word **sor** (sun) normally refers to just one sun because there is only one.
+Sometimes it is known from the context how many objects are spoken about. For example, the word **sol** (sun) normally refers to just one sun because there is only one.
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
@@ -167,7 +167,7 @@ Quantity can be expressed with numerals and other quantity-words. They are put b
 > **poli xing** - several stars (two or more)  
 > **multi xing** - many stars
 
-> **un day mezá** - one big table  
+> **un day meze** - one big table  
 > **do day kurse** - two big chairs  
 > **sam bon kurse** - three good chairs
 
@@ -405,7 +405,7 @@ Most verbs end in **-a** and **-u**. A handful of verbs are without a standard e
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
 > **maw!** - A cat!  
-> **pluva!** - (It) rains!  
+> **barxa!** - (It) rains!  
 
 
 ### 7.2. Stative Sentences
@@ -998,7 +998,7 @@ It makes always sense to apply the following formulas for a root that is an acti
     - **kitabi kitabe.** - Written writing.
     - **dansi danse.** - Danced dance.
     - **soni sone.** - Sleepy sleep.
-    - **rangi range.** - Colored color.
+    - **rangi range.** - Colorful color.
 2. Production: -a -e
     - **kitaba kitabe.** - To write a writing.
     - **dansa danse.** - To dance a dance.
@@ -1066,9 +1066,9 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **karena**, here its scope is only to connect **yusef** and **sara**. **karena** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia karena ye si bon dunia bax.
+    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
 
-                       karena
+                       sababu
                ┌──────────┴──────────┐
               wol                   si
           ┌────┴──────┐           ┌──┴──┐

@@ -32,11 +32,11 @@ Perussäännöt
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
 > **batú** - kivi tai kiviä  
-> **mezá** - pöytä tai pöytiä  
+> **meze** - pöytä tai pöytiä  
 > **kurse** - tuoli tai tuoleja  
 > **suy** - vesi, vettä  
 
-Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **sor** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **lun** maapallon ainoaa kuuta.
+Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **sol** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **lun** maapallon ainoaa kuuta.
 
 ### 2.2. Luku
 
@@ -58,7 +58,7 @@ Tietyillä sanoilla on _luonnollinen suku_. Esimerkiksi **fem** (nainen) on femi
 
 Kaksi tai useampia substantiiveja voidaan liittää yhdyssanaksi. Yhdyssanan viimeinen sana on tärkein ja se määrää koko yhdyssanan sanaluokan. Sitä ennen tulevat sana ainoastaan muokkaavat pääsanan merkitystä.
 
-> **sor nur** - auringon valo  
+> **sol nur** - auringon valo  
 > **lun nur** - kuun valo  
 > **lun batú** - kuukivi  
 
@@ -73,18 +73,18 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
 > **day batú** - iso kivi  
-> **day mezá** - iso pöytä  
-> **gaw mezá** - korkea pöytä  
+> **day meze** - iso pöytä  
+> **gaw meze** - korkea pöytä  
 > **bon kurse** - hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
 > **batú day** - kivi iso _tai_ Kivi on iso.  
-> **mezá gaw** - pöytä korkea _tai_ Pöytä on korkea.
+> **meze gaw** - pöytä korkea _tai_ Pöytä on korkea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-> **day mezá gaw.** - Iso pöytä on korkea.
+> **day meze gaw.** - Iso pöytä on korkea.
 
 ### 3.3 Verbin määrite
 
@@ -150,7 +150,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 > **multi xing** - paljon tähtiä  
 
 
-> **un day mezá** - yksi iso pöytä  
+> **un day meze** - yksi iso pöytä  
 > **do day kurse** - kaksi isoa tuolia  
 > **sam bon kurse** - kolme hyvää tuolia
 
