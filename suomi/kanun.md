@@ -9,7 +9,7 @@ Perussäännöt
 2. Sanan painollinen tavu on ennen viimeistä konsonanttia.
 3. Substantiivit (asiansanat) ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
 4. Adjektiivin (laatusanan) paikka on asiansanan edessä tai jäljessä. Adjektiivien yleinen pääte on **-i**.
-    - esim. **bon pang** = Hyvää leipää. **pang bon** = Leipää hyvää.
+    - esim. **bon nan** = Hyvää leipää. **nan bon** = Leipää hyvää.
 5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia substantiiveja peräkkäin. Tärkein sana on viimeisenä.
     - esim. **poste sanduke** = postilaatikko
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Tällöin verbin pääte on **-a**.
@@ -31,12 +31,12 @@ Perussäännöt
 
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
-> **batu''** - kivi tai kiviä  
-> **meza'** - pöytä tai pöytiä  
+> **batú** - kivi tai kiviä  
+> **mezá** - pöytä tai pöytiä  
 > **kurse** - tuoli tai tuoleja  
 > **suy** - vesi, vettä  
 
-Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **surya** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **luna** maapallon ainoaa kuuta.
+Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa. Esimerkiksi sanalla **sor** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **lun** maapallon ainoaa kuuta.
 
 ### 2.2. Luku
 
@@ -44,8 +44,8 @@ Substantiiveilla on sama muoto yksikössä ja monikossa.
 
 Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
-> **batu'' batu''** - kiviä, paljon kiviä  
-> **tara' tara'** - tähtiä, paljon tähtiä  
+> **batú batú** - kiviä, paljon kiviä  
+> **xing xing** - tähtiä, paljon tähtiä  
 
 
 ### 2.3. Suku
@@ -58,45 +58,35 @@ Tietyillä sanoilla on _luonnollinen suku_. Esimerkiksi **fem** (nainen) on femi
 
 Kaksi tai useampia substantiiveja voidaan liittää yhdyssanaksi. Yhdyssanan viimeinen sana on tärkein ja se määrää koko yhdyssanan sanaluokan. Sitä ennen tulevat sana ainoastaan muokkaavat pääsanan merkitystä.
 
-> **surya guang** - auringon valo  
-> **luna guang** - kuun valo  
-> **luna batu''** - kuukivi  
+> **sor nur** - auringon valo  
+> **lun nur** - kuun valo  
+> **lun batú** - kuukivi  
 
 --------------------------------------------------------------------------------
 
-## 3. Määreet
+## 3. Määritteet
 
-Määre on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
+Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
 
-### 3.1. Adjektiivit
-
-#### 3.1.1. Yleistä
+### 3.1. Substantiivin määrite
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-> **day batu''** - iso kivi  
-> **day meza'** - iso pöytä  
-> **gaw meza'** - korkea pöytä  
-> **bon kurse.** - hyvä tuoli
+> **day batú** - iso kivi  
+> **day mezá** - iso pöytä  
+> **gaw mezá** - korkea pöytä  
+> **bon kurse** - hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-> **batu'' day** - kivi iso _tai_ Kivi on iso.  
-> **meza' gaw** - pöytä korkea _tai_ Pöytä on korkea.
+> **batú day** - kivi iso _tai_ Kivi on iso.  
+> **mezá gaw** - pöytä korkea _tai_ Pöytä on korkea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-> **day meza' gaw.** - Iso pöytä on korkea.
+> **day mezá gaw.** - Iso pöytä on korkea.
 
-#### 3.1.3. Adjektiivin päätteet
-
-Adjektiivin tunnus on **-i**. Tätä päätettä käytetään aina, kun adjektiivi on johdettu teonsanaa tai asiansanaa tarkoittavasta sanavartalosta. Eism. **logi** _puhuttu_, **suki** _pidetty, mukava_, **kitabi** _kirjoitettu_.
-
-Päätettä ei käytetä sellaisten sanavartaloiden kanssa, jotka ilmaisevat laatua ja jotka päättyvät helposti äännettävään konsonanttiin. Esim. **bon** _hyvä_, **sundar** _kaunis_.
-
-
-
-### 3.2 Adverbit
+### 3.3 Verbin määrite
 
 Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
@@ -107,12 +97,23 @@ Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
 > **tu baxa pandunia _bon_.** - Sinä puhut panduniaa _hyvin_.
 
 
-#### 3.2.2. Adverbin tunnus
+### 3.4 Määritteen määrite
 
-Tavan adverbien tunnus on sama kuin adjektiiveilla eli **-i**.
+Määrite voi määritellä myös toista määritettä. Esimerkiksi **day** (suuri) ja **lil** (pieni) voivat toimia adverbeina.
+
+> **day ren** - iso henkilö  
+> **lil ren** - pieni henkilö  
+> **sundar ren** - kaunis henkilö
+
+> **day sundar ren** - suuresti (eli hyvin) kaunis henkilö  
+> **lil sundar ren** - pienesti (eli vähän) kaunis henkilö
+
+Kun halutaan käyttää kahta määritettä erikseen, pannaan niiden väliin **i** (ja).
+
+> **lil i sundar ren** - pieni ja kaunis henkilö
 
 
-### 3.3. Vertailu
+### 3.5. Vertailu
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
@@ -127,20 +128,29 @@ Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 > **mi si max bon ka tu.** - Minä olen parempi kuin sinä.  
 > **tu loga sem bono ka mi.** - Sinä puhut yhtä hyvin kuin minä.
 
-Lukusanat
----------
+
+## 3.6. Määritteen pääte
+
+Määritteen tunnus on **-i**. Tätä päätettä käytetään aina, kun adjektiivi on johdettu teonsanaa tai asiansanaa tarkoittavasta sanavartalosta. Eism. **logi** _puhuttu_, **suki** _tyytyväinen_, **kitabi** _kirjallinen_.
+
+Päätettä ei käytetä sellaisten sanavartaloiden kanssa, jotka ilmaisevat laatua ja jotka päättyvät helposti äännettävään konsonanttiin. Esim. **bon** _hyvä_, **sundar** _kaunis_.
+
+
+--------------------------------------------------------------------------------
+
+## 4. Lukusanat
 
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
-> **un tara'** - yksi tähti  
-> **do tara'** - kaksi tähteä  
-> **sam tara'** - kolme tähteä  
-> **xaw tara'** - vähän tähtiä  
-> **poli tara'** - useita tähtiä  
-> **multi tara'** - paljon tähtiä  
+> **un xing** - yksi tähti  
+> **do xing** - kaksi tähteä  
+> **sam xing** - kolme tähteä  
+> **xaw xing** - vähän tähtiä  
+> **poli xing** - useita tähtiä  
+> **multi xing** - paljon tähtiä  
 
 
-> **un day meza'** - yksi iso pöytä  
+> **un day mezá** - yksi iso pöytä  
 > **do day kurse** - kaksi isoa tuolia  
 > **sam bon kurse** - kolme hyvää tuolia
 
@@ -272,7 +282,7 @@ Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sa
 
 Esimerkkejä:  
 **mi wida yemen.** - Minä näen heidät.  
-**tu beka pang.** - Sinä leivot leipää.  
+**tu beka nan.** - Sinä leivot leipää.  
 
 #### 6.2.2. OSV-järjestys
 
@@ -286,7 +296,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
 
 Esimerkkejä:  
 **ke tu wida?** - Mitä sinä näet?  
-**mi nyama pang, jo tu beka.** - Minä syön leipää _jonka sinä leivoit._
+**mi nyama nan, jo tu beka.** - Minä syön leipää _jonka sinä leivoit._
 
 #### 6.2.3. VOS-järjestys
 
@@ -299,7 +309,7 @@ Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
     S ← O
 
 Esimerkkejä:  
-**nyama pang mi.** - Syön leipää minä.  
+**nyama nan mi.** - Syön leipää minä.  
 **wida mi tu.** - Näet minut sinä.
 
 
@@ -323,7 +333,7 @@ SOV on usein käytetty vaihtoehto SVO-järjestykselle.
 
 Esimerkkejä:  
 **mi yemen widu.** - _Minä heidät näen._  
-**tu pang beku.** - _Sinä leipää leivot._
+**tu nan beku.** - _Sinä leipää leivot._
 
 #### 6.3.2. OVS-järjestys
 
@@ -336,8 +346,8 @@ OVS on yleinen "passiivissa" lauseissa.
     O   S
 
 Esimerkkejä:  
-**pang beku tu.** - Leipää leivot sinä.  
-**pang beku.** - Leipää leivotaan.  
+**nan beku tu.** - Leipää leivot sinä.  
+**nan beku.** - Leipää leivotaan.  
 **tu widu mi.** - Sinut näen minä.  
 **tu widu.** - Sinut nähdään.
 
@@ -356,7 +366,7 @@ VSO-järjestys on harvinainen mutta mahdollinen.
 Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
 
 > **mi widu.** - Minut nähdään.  
-> **pang beku.** - Leipää leivotaan.  
+> **nan beku.** - Leipää leivotaan.  
 > **kupe kaputu.** - Kuppi särkyy. (Kuppi särjetään.)
 
 ### 6.4. Verbin päätteet
@@ -366,34 +376,35 @@ Useimpien verbien päätteenä on **-a** tai **-u**. Muutama verbi päättyy kon
 
 
 
-Olemista ilmaisevat lauseet
----------------------------
+--------------------------------------------------------------------------------
+
+## 7. Lausetyyppejä
 
 Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa subjekti on asiansana tai pronomini ja predikaatti on adjektiivi.
 
 > **mi bon.** - Minä olen hyvä.
 > **sara bon.** - Sara on hyvä.
-> **batu' cung.** - Kivi on painava. (Kivi painaa.)
+> **batú cung.** - Kivi on painava. (Kivi painaa.)
 
 Samaten persoonapronomini voi olla subjekti ja asiansana voi olla predikaatti.
 
 > **ye sara.** - Hän on Sara.
-> **ye batu'.** - Se on kivi.
+> **ye batú.** - Se on kivi.
 
 Mutta kun kaksi saman sanaluokan sanaa pannaan yhteen, niiden väliin täytyy panna jokin sana, jotta ne eivät näyttäisi yhdyssanalta. Olla-verbi **si** sopii tähän tarkoitukseen.
 
 > **ye si sara.** - Hän on Sara.
 > **ye si mi.** - Se on minä.
-> **le si batu'.** - Tuo on kivi.
-> **batu' si ting.** - Kivi on esine.
+> **le si batú.** - Tuo on kivi.
+> **batú si xey.** - Kivi on esine.
 > **jowan si sundar.** - Nuori on kaunista.
 
-Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batu' ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batu' ya ting**, kivi on esine.
+Pikkusanan **ya** tarkoitus on erottaa sanat toisistaan, jotta lause erottuisi (mahdollisesta) yhdyssanasta. Esimerkiksi, jos pikkusanaa ei olisi välissä, **batú ting** tarkoittaisi _kivi-esinettä_. Siksi sanotaan **batú ya ting**, kivi on esine.
 
 Kieltolauseissa käytetään sanaa **no** (ei).
 
 > **mi no tu.** - Minä en ole sinä.
-> **batu' no hewan.** - Kivi ei ole eläin.
+> **batú no hewan.** - Kivi ei ole eläin.
 > **jowan no sundar.** - Nuori ei ole kaunista.
 
 
@@ -406,13 +417,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Tavallinen aktiivisen lauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-> **mi nyama apel.** - Minä syön omenoita.  
+> **mi nyama aple.** - Minä syön omenoita.  
 > **mi auda musike.** - Minä kuuntelen musiikkia.  
 > **mi wida tu.** - Minä näen sinut.
 
 Toinen mahdollinen sanajärjestys on subjekti–objekti–verbi. Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
 
-**mi apel nyamu.** - _Minä omenoita syön._
+**mi aple nyamu.** - _Minä omenoita syön._
 
 SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestystä käytetään mm. hindissä, urdussa, tamilissa, turkissa, japanissa ja koreassa. SVO on yleisin mm. englannissa, espanjassa, yleiskiinassa, indonesiassa ja modernissa arabian kielessä.
 
@@ -483,7 +494,7 @@ Määrepartikkelit
 
 Panduniassa on kaksi määrepartikkelia, **da** ja **du**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
 
-Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **da** käytetään siten, että ensin on määre, keskimmäisenä **da** ja viimeisenä pääsana. Sanaa **du** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **du** ja viimeisenä määre. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
+Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **da** käytetään siten, että ensin on määrite, keskimmäisenä **da** ja viimeisenä pääsana. Sanaa **du** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **du** ja viimeisenä määrite. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
 
 ### Omistus
 
@@ -491,15 +502,15 @@ Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
 **da** vastaa suomen genetiivimuotoa.
 
-> **maria da mama** - Marian äiti  
-> **mi da bet** - minun talo  
-> **mi da papa da bet** - minun isän talo
+> **maria da mamá** - Marian äiti  
+> **mi da dom** - minun talo  
+> **mi da papá da dom** - minun isän talo
 
 **du** on sama mutta käänteisessä sanajärjestyksessä.
 
-> **mama du maria** - äiti Marian
-> **bet du mi** - talo minun  
-> **bet du papa du mi** - talo isän minun
+> **mamá du maria** - äiti Marian
+> **dom du mi** - talo minun  
+> **dom du papá du mi** - talo isän minun
 
 
 ### Adjektiivimääreet
@@ -508,8 +519,8 @@ Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat
 
 Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **du** avulla.
 
-> **nova bet** - uusi talo  
-> **bet du nova** - talo uusi
+> **nova dom** - uusi talo  
+> **dom du nova** - talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
@@ -535,8 +546,8 @@ Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-> **mi wida man _du nyama apel_.** - Minä näen miehen, _joka syö omenoita_.  
-> **mi wida _apel nyamu da_ man.** - Minä näen _omenia syövän_ miehen.
+> **mi wida man _du nyama aple_.** - Minä näen miehen, _joka syö omenoita_.  
+> **mi wida _aple nyamu da_ man.** - Minä näen _omenia syövän_ miehen.
 
 
 
@@ -563,7 +574,7 @@ Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini
 
 > **mi na hotel.** - Minä (olen) hotellissa.  
 > **mi sona na hotel.** - Minä nukun hotellissa.  
-> **mi sona ze cam ko suba.** - Minä nukun illasta aamuun.  
+> **mi sona ze cam ko subá.** - Minä nukun illasta aamuun.  
 > **mi safara ze london ko paris.** - Minä matkustan Lontoosta Pariisiin.  
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
@@ -581,15 +592,15 @@ Täsmällisempiä ajan ja paikan ilmauksia voi muodostaa liittämällä yhteen _
 > **na xia du** - alapuolella  
 > **un waf lala na cia du meza.** - Koira makaa pöydän alla.  
 > **na men du** - päällä, pinnalla  
-> **un mau lala na fas du meza.** - Kissa makaa pöydällä.  
+> **un maw lala na fas du meza.** - Kissa makaa pöydällä.  
 
 Samankaltaisia asioita voi ilmaista toisessa järjestyksessa sanan **da** avulla.
 
-> **un mau lala na meza da men.** - Yksi kissa makaa pöydän päällä.
+> **un maw lala na meza da men.** - Yksi kissa makaa pöydän päällä.
 
 Lisäksi myös verbialkuinen lauseke voi täydentää preposition.
 
-> **dur** - kestää (aikaa)  
+> **dura** - kestää (aikaa)  
 > **mi deng na dura tu son.** - Minä odotan sinun nukkumisen aikana.  
 
 
@@ -615,9 +626,9 @@ Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se to
 
 Huom! Myös laatusanat voivat määrittää sekä seuraavaa sanaa että viimeisenä ollessaan koko lausetta.
 
-> **mi bon kitab buke.** - Minä hyvin kirjoitan kirjoja.
-> **mi kitab bon buke.** - Minä kirjoitan hyviä kirjoja.
-> **mi kitab buke bon.** - Minä kirjoitan kirjoja hyvin.
+> **mi bon kitaba buke.** - Minä hyvin kirjoitan kirjoja.
+> **mi kitaba bon buke.** - Minä kirjoitan hyviä kirjoja.
+> **mi kitaba buke bon.** - Minä kirjoitan kirjoja hyvin.
 
 Ero on siinä, että tavan partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.
 
@@ -658,7 +669,7 @@ Sanaluokkien arvojärjestys panduniassa:
 
 1. Konjunktiot: i, u
 2. Määrepartikkelit: da, du
-3. Prepositiot: na, ko, ze, bi
+3. Prepositiot: na, ko, ze
 4. Teonsanat
 5. Asiansanat ja pronominit
 6. Ajan ja tavan partikkelit
