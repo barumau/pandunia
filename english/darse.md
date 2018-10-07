@@ -418,17 +418,16 @@ There are no verb conjugations in Pandunia. All verbs have only one form. In a w
 
 > **mi darba ye.** = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi nyama pang** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
+In Pandunia all verbs are like that! For example, **mi nyama nan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-> **mi nyama pang na subá nyam.** = I ate bread for morning meal.
+> **mi nyama nan na subá nyam.** = I ate bread for morning meal.
 
 There are also specific time words.
 
-> **ja** - already, prior to some time
-> **gang** - just, recently
-> **zay** - currently, at the moment
-> **hai** - still
-> **sun** - soon
+> **gang** - just, recently  
+> **zay** - currently, at the moment  
+> **hay** - still  
+> **sun** - soon  
 > **futur** - in the future
 
 
@@ -466,7 +465,7 @@ Any expression of time is good for expressing the tense. When one time expressio
 
 ### Word List
 
-**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **pang** bread. **subá nyam** morning meal, breakfast.
+**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **nan** bread. **subá nyam** morning meal, breakfast.
 
 ### Exercises
 
