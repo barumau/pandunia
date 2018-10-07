@@ -2,13 +2,15 @@
 -n (oma) : da  
 ##a  
 aakkoset (ABC) : abace  
-aamiainen : suba' nyam  
-aamu : suba'  
+aamiainen : subá nyam  
+aamu : subá  
 aasi : iha  
 Aasia : asia  
-aasialainen : asian  
-Afrikka : afrika  
-afrikkalainen : afrikan  
+aasialainen : asi  
+adjektiivin pääte : -i  
+Afganistan : afgania  
+Afrikka : afrikia  
+afrikkalainen : afriki  
 aggressio : agres  
 Ahvenanmaa (Oolanti) : olandia  
 ai! (au!) : ay  
@@ -20,10 +22,11 @@ aika (hetki, kotva) : zaman
 aikuinen : adulte  
 aina : mey zaman  
 aine (materia) : made  
+aineellinen (materiaalinen) : madi  
 aivot : serebre  
 ajatella (miettiä) : fikra  
 ajatus : fikre  
-akku (paristo) : bateri  
+akku (paristo) : bateria  
 akseli : akse  
 ala- : nici  
 Alankomaat (Hollanti) : nederlandia  
@@ -39,32 +42,40 @@ alku : mul
 alkuperä : asle  
 alkuperäinen : asli  
 allas : basen  
-alue (seutu) : stan  
+alueen tai alan pääte : -ia  
 alumiini : alum  
-Amerikan Yhdysvallat : uni stat de amerika  
-Amerikka : amerika  
-amerikkalainen : amerikan  
+Amerikan Yhdysvallat : uni stan du amerikia  
+Amerikka : amerikia  
+amerikkalainen : ameriki  
+amhara (etiopialainen kansa ja kieli) : amari  
 ampeeri : amper  
 anaalinen : anusi  
 analysoida : analisa  
 analyysi : analis  
+ananas : nanas  
+Angola : angolá  
 animaatio (piirretty) : anime  
 animoida : anima  
 annos : doze  
 antaa : dona  
+Antarktis : antarktia  
 anteeksi (katua) : maf  
 antenni : anten  
-apinanleipäpuu (baobab) : buyu  
+apinanleipäpuu (baobab) : buyú  
 appelsiini : aranje  
 apteekki : lekia  
-apu : mede  
+apu : helpe  
 arabialainen : arabi  
-areena (stadioni) : arena  
-Argentiina : arhentin  
+Argentiina : argentin  
 argon : argon  
 armeija : armia  
-arvioida (arvostella, kritisoida) : piping  
+arseeni : arsen  
+artikkeli (kirjoitus) : makale  
+Aruba : arubá  
+arvio (arvostelu, kritiikki) : piping  
+arvioida (arvostella, kritisoida) : pipinga  
 arvioida : yaka  
+arvostelija (kriitikko) : pipinger  
 arvostettu : xarifi  
 asema : stasia  
 asento : asan  
@@ -77,30 +88,31 @@ atomi : atom
 aueta (avautua) : kayu  
 aukaista (avata) : kaya  
 auki (avoin) : kay  
-aurinko : surya  
+aurinko : sol  
+aurinkokunta : sol sistem  
 Australia : australia  
 avain : cabi  
 avaruus (kosmos) : kosmos  
 avioliitto : gamia  
-avokado : awaka  
+avokado : awakate  
 Azerbaidžan : azeria  
 ##b  
 baari (kapakka) : bar  
 Bahama-saaret : bahama  
 Bahrain : bahrain  
 bambu : jug  
-banaani : banana  
+banaani : banan  
 Bangladesh : banglia  
 barbaari (raakalainen) : barbar  
 Barbados : barbados  
-baskeri (baretti) : beret  
+baskeri (baretti) : beré  
 bataatti : kamote  
 beduiini : badawi  
 Belgia : belgia  
-Belize : belize  
+Belize : belizia  
 Benin : benin  
 bensiini (bensa) : benzin  
-Bermuda : bermuda  
+Bermuda : bermudia  
 berylli : beril  
 betoni : beton  
 Bhutan : butan  
@@ -110,10 +122,11 @@ Bolivia : bolivia
 boori : boron  
 Botswana : tswana  
 Brasilia : brazilia  
+Brazzavillen Kongo : brazavil kongó  
 Brunei : bruney  
 buddhalaisuus (buddhismi) : budisme  
 Bulgaria : bolgaria  
-Burkina Faso : burkina  
+Burkina Faso : burkiná  
 Burundi : rundi  
 ##c  
 Cayman-saaret : keyman nesia  
@@ -123,16 +136,16 @@ chinchilla : cincila
 cola : kola  
 Cookin saaret : kuke nesia  
 Costa Rica : kosta rika  
+curium : kurium  
 ##d  
 darwinismi : darwinisme  
-demokratia : dem kratia  
+demokratia : demó kratia  
 demoni (piru) : demon  
 desi : deci  
 Djiboutia : jibutia  
 dollari : dolar  
-dominopeli : domino  
+dominopeli : domin gem  
 draama : drame  
-dyyni : duna  
 ##e  
 edeltää (tulla ennen) : preda  
 edustaa : wakila  
@@ -141,17 +154,20 @@ egyptiläinen : misri
 ehdottaa : teyana  
 ehdotus : teyan  
 ei : no  
+ei kukaan : nul ren  
+ei mitään : nul xey  
 eilen : gon den  
+El Salvador : salvador  
 ele : jeste  
 elegantti : xiki  
 elektroni : elektron  
 eli (toisin sanoen) : yani  
-elinvoima (ki, chi) : ki  
 elokuu : mes 8 (mes bat)  
 eläin : hewan  
 elämä : jiwe  
 elävä : jiwi  
 elää : jiwa  
+enemmistö : maxoria  
 enemmän : max  
 energia : energe  
 englanti : engli  
@@ -167,41 +183,45 @@ Eritrea : eritria
 erä (satsi) : lote  
 eräs (muuan, joku, jokin) : fulan  
 esimerkki : misal  
+Espanja : espania  
 esperanto : esperanti  
 essee : esey  
-este : barir  
+este : barer  
 estää kulku : bara  
 etelä : sude  
 Etelä-Afrikka : sudafrika  
+Etelä-Korea : hangogia  
 Etelä-Sudan : sudi sudan  
-etikka : cuka'  
+etikka : cuká  
 Etiopia : etiopia  
 etäisyys (kaukaisuus) : tele  
-Euraasia : ewrasia  
-euro : ewro  
-Euroopan unioni : ewropan unia  
-Eurooppa : ewropa  
+Euraasia : eurasia  
+euro : euró  
+Euroopan unioni : europi unia  
+Eurooppa : europia  
 evankeliumi : anjil  
 ##f  
 Falklandin saaret : malvina nesia  
-farmaseutti (lääkitsijä) : lekar  
+farmaseutti (lääkitsijä) : leker  
 fasismi : faxisme  
+Fidži : fijia  
 Filippiinit : pilipinia  
 filmi : filme  
-filosofi : filsofar  
+filosofi : filsofer  
 filosofia : filsofia  
 foorumi : forum  
 fosfor : pospor  
 fosfori : fosfor  
 fysiikka : fizike  
 fysiikka : fizikia  
-fyysikko : fizikir  
+fyysikko : fiziker  
 ##g  
 Gabon : gabun  
 galleria : galeria  
 Gambia : gambia  
 Ganges : ganga  
 gaselli : gazel  
+Ghana : gana  
 Gibraltar : jibraltar  
 ginseng : jenxen  
 globaali : dunial  
@@ -209,21 +229,32 @@ gluteeni : gluten
 graafinen : grafi  
 grafeemi : grafem  
 gramma : gram  
-guru (opettaja) : guru  
+Grenada : grenada  
+Guadeloupe : guadelupe  
+Guam : guam  
+Guatemala : guatemala  
+Guernsey : genzi  
+Guinea : gine  
+Guinea-Bissau : gine bisau  
+gujarati (eräs intialainen kieli) : gujarati  
+guru (opettaja) : gurú  
+Guyana : gayana  
 ##h  
 haarukka : forke  
 hahmo (figuuri) : figur  
+Haiti : haitia  
+hajauttaa : jamula  
+hallita yksinvaltaisesti : impera  
 halu (tahto) : ice  
 haluta : wol  
 hame : jupe  
 hammas : dante  
 hammasharja : dante brox  
-hammaslääkäri : dante doktar  
-hamppu (kannabis) : ganja'  
+hammaslääkäri : dante mediker  
+hamppu (kannabis) : ganjá  
 hana : balbe  
 hankkia (ansaita) : ganya  
 hapan : suan  
-happi : okse  
 happi : okse  
 harja : brox  
 harjoitella (treenata) : lenxa  
@@ -240,14 +271,16 @@ hei (haloo) : halo'
 heijastaa (peilata) : mira  
 heimo : tribe  
 heinäkuu : mes 7 (mes set)  
+heittää (paiskata) : lanca  
 helium : helium  
-helmi : lulu  
+helmi : jenjú  
 helmikuu : mes 2 (mes do)  
 helppo : izi  
 hengitys (henkäys) : nafas  
 henki (sielu) : anma  
 henki (sielu, mieli) : ruhe  
 henkilö : ren  
+henkilökohtainen (privaatti) : tani  
 heprea : ibri  
 herkullinen (nami) : nyami  
 herättää : weka  
@@ -255,7 +288,7 @@ hevonen : uma
 hiekka : sande  
 hiili : karbon  
 hiili : karbon  
-hiiri : muxu  
+hiiri : mux  
 hiiva : hamir  
 hiki : swede  
 hikinen : swedi  
@@ -264,9 +297,11 @@ hiljainen : xixi
 Himalaja : himalia  
 himo (halu) : kam  
 hinta (maksu) : koste  
+hirviö : monster  
 historia (aikakirjat) : histor  
 hmm : hem  
 hockey (jääkiekko) : hoke  
+hoitaa (pitää huolta) : kura  
 homoseksuaali : sem jins kami  
 Honduras : honduras  
 Hong Kong : hong gong  
@@ -276,11 +311,12 @@ houkutella : tenta
 housut : pantalon  
 huhtikuu : mes 4 (mes car)  
 huivi (šaali) : xal  
+hummus : humus sos  
 hunaja : medu  
 huomata (hoksata) : nota  
-Huomenta! : salam suba'  
+Huomenta! : salam subá  
 huominen (huomenna) : lay den  
-huone : kamer  
+huone : kamar  
 huono : mal  
 hurma (lumo, tenho) : fasin  
 hurraa (hurrata) : hura  
@@ -289,27 +325,36 @@ huume : droge
 huumori : yumor  
 huutaa : krita  
 huvi (hauskuus) : maze  
+hyi! (pyh!) : fuy  
 hyrrä : tolo  
 hyttynen (sääski) : moskit  
 hyvä (tervehdyksissä) : salam  
 hyvä : bon  
 hyvä onni (tuuri, säkä, lykky) : bon zar  
+hyväksyä : okeya  
+hyvännäköinen : bon rupi  
 Hyvää iltaa : salam xam  
 hyvää matkaa : salam cute  
 hyvää ruokahalua! : salam nyam  
 hyytelö : jele  
 hyökkäys : atake  
-hyöty (etu) : fayde  
+hyönteinen (ötökkä) : koncung  
+hyöty (etu) : faide  
 häh? : he  
 häkki : kafas  
-hämähäkki : jiju'  
+hämähäkki : jijú  
 hän (se) : ye  
 häntä : dum  
 hätä (paniikki) : panike  
+hävitä (kärsiä tappio) : luza  
+häviäjä : luzer  
 hölmö (narri) : bufon  
 ##i  
-idea (aate) : idea  
+idea (aate) : idey  
+idealismi : ideyalisme  
+ihanteellinen (ideaali) : ideyal  
 ihminen : insan  
+ihmiskunta : insania  
 ikkuna : janela  
 ikä : umur  
 ilkeä (julma) : zalim  
@@ -320,9 +365,13 @@ ilmiasu (ulkonäkö) : rupe
 ilta : xam  
 iltapäivä : xam den  
 imeä : cupa  
+indium : indium  
 Indonesia : indonesia  
-inkivääri : inji  
+inkivääri : inje  
+innoittaa (inspiroida) : inspira  
+insinööri : injener  
 Intia : bartia  
+intialainen : barti  
 Irak : irakia  
 Iran : iran  
 irvistys : grimas  
@@ -332,13 +381,14 @@ islamilainen : islami
 Islanti : islandia  
 iso (suuri; isosti, paljon) : day  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) : britania  
-isoisä (pappa, vaari) : opa  
-isoäiti : oma  
+isoisä (pappa, vaari) : opá  
+isoäiti : omá  
 Israel : israel  
 istua : sida  
-isä : pa  
+isä : papá  
 Italia : italia  
 itse : se  
+itse : tan  
 itä : dong  
 itämainen lohikäärme : rong  
 Itävalta : osteria  
@@ -346,10 +396,11 @@ Itävalta : osteria
 ja : i  
 jakaa (jaella) : fada  
 jakki : yak  
+jalkapallo : fute bol  
 Jamaika : jameyka  
 Japani : nipon  
-jasmiini : moli  
-jauho : ata  
+jasmiini : malike  
+jatkua : kontinu  
 jazz (jatsi) : jaz  
 Jeesus : yesu  
 Jemen : yaman  
@@ -357,6 +408,9 @@ Jersey : jersia
 jo (ennen) : ja  
 jodi : iode  
 jodi : yode  
+johdetun substantiivin pääte : -e  
+johtaa : lida  
+johtaja (pomo) : lider  
 joka (jokainen) : mey  
 joka (relatiivinen) : jo  
 jokainen asia : mey xey  
@@ -376,6 +430,7 @@ joule (J) : jul
 joulu : kriste jen  
 joulukuu : mes 12 (mes des do)  
 jousisoitin : ticin  
+joustava (elastinen) : lasti  
 judo : judo  
 juhannus : yohan feste  
 juhla : feste  
@@ -389,22 +444,23 @@ juuri : gen
 juusto : cis  
 juutalainen : yehudi  
 jyrinä (ukkonen) : grom  
-jäinen : aysi  
-jänis : tuzi  
+jäinen : aisi  
+jänis : tuze  
 järjestelmä (systeemi) : sistem  
 järki (järkeily, päättely) : razon  
-jää : ays  
+jää : ais  
 ##k  
 kaakao : kakaw  
 kaappi : almar  
 kaasu : gas  
+kade (kateellinen) : jelos  
 kahdeksan (8) : bat  
 kahista : xaxu  
-kahvi : kafe  
-kahvikuppi : kafe kupe  
-kahvila : kafe kan  
+kahvi : kafé  
+kahvikuppi : kafé kupe  
+kahvila : kafé kan  
 kaikki : pan  
-kaikki : tot  
+kaikki : toti  
 kaiku : eho  
 kakku (keksi) : keke  
 kaksi (2) : do  
@@ -417,15 +473,22 @@ kamera : kamera
 Kamerun : kamerun  
 kammo (fobia) : fobe  
 kana : koko  
+Kanada : kanadia  
 kanava (kanaali) : kanal  
-kansa : dem  
+kannada (eräs intialainen kieli) : kannadi  
+kannu (karahvi) : jar  
+kansa : demó  
 kanssa (luona, -lla, -ssa) : na  
 kapina : rebel  
 kapteeni : kapitan  
+karaatti : kirate  
 karate : karate  
-karhu : baru'  
+karhu : barú  
 karhu : urse  
-karri (curry) : kari  
+karri (curry) : karí  
+kartio (keila) : konus  
+kassa : kase  
+kassanhoitaja : kaser  
 kastanja : kastan  
 kaste : rose  
 kastike (soosi) : sos  
@@ -440,15 +503,17 @@ katkaista (leikata) : kata
 katto (katos) : cate  
 kauhu (terrori) : teror  
 kaukainen : tel  
-kaunis (komea) : bel  
 kaunis (komea) : sundar  
 kaupunki : site  
+Kazakstan : kazahia  
 kehitys : fajan  
 keho (ruumis) : badan  
 keidas : wase  
 keino (menetelmä, metodi) : metod  
 keinotekoinen kieli (tekokieli, keinokieli) : sani bax  
-keittiö : kuke kamer  
+keisari : imperer  
+keisarikunta : imperia  
+keittiö : kuke kamar  
 keitto (soppa) : supe  
 keittää (kiehuttaa) : bula  
 keksi (pikkuleipä) : biskute  
@@ -467,18 +532,18 @@ Keski-Afrikan Tasavalta : beafrika
 keskittyminen (keskittymä) : fokus  
 keskittyä (olla keskellä) : jungu  
 keskittää : junga  
-keskiverto (keski-) : midi  
+keskiverto (keski-) : medi  
 keskiviikko : war 3 (war sam)  
 keskus (keskikohta) : jung  
 keskustelu (debatti) : lona  
-keskusteluhuone : blable kamer  
+keskusteluhuone : blable kamar  
 kesto (kestoaika) : dur  
 kestää (viedä aikaa) : dura  
 kesäkuu : mes 6 (mes sis)  
 ketju : silsil  
 ketsuppi : kecape  
 ketterä : ajil  
-kettu : huli  
+kettu : hule  
 keuhko : pulmon  
 kiehua : bulu  
 kiekko (levy) : diske  
@@ -492,8 +557,11 @@ kiireinen : bizi
 kiitos : danke  
 kiittää : danka  
 kiivi : kiwi  
+kikherne : humus  
+kilogramma : kilo gram  
 kilpikonna : tortuge  
 kiltti : jentil  
+kineettinen (liike-) : kini  
 Kinshasan Kongo : kinsasa kongo  
 kioski : kioske  
 kipu (tuska) : paxia  
@@ -504,6 +572,7 @@ Kiribati : kiribatia
 kirja : buke  
 kirjasto : kitabe kan  
 kirje : leter  
+kirjoittaa : kitaba  
 kirjoitus : kitabe  
 kirjoituskone : kitabe maxin  
 kirkas (selkeä) : ming  
@@ -513,7 +582,7 @@ kissa : maw
 kitara : gitar  
 kivennäinen (mineraali) : kuang  
 kivennäisvesi : kuang su  
-kivi (murikka) : batu'  
+kivi (murikka) : batú  
 kloonata (monistaa) : klona  
 klooni (identtinen kopio) : klon  
 kloori : klor  
@@ -522,28 +591,36 @@ koe (testi, koettelemus) : teste
 kohtalo : kisme  
 koira : waf  
 kokata (laittaa ruokaa) : kuka  
-kokki : kukar  
+kokki : kuker  
 kolera : kolera  
+kollektiivinen : jami  
 kolme (3) : sam  
 kolonia (siirtomaa) : kolonia  
 Kolumbia : kolombia  
+kommunismi : komunisme  
+kommunisti : komuniste  
 Komorit : komoro nesia  
 kone : maxin  
+konkani (eräs intialainen kieli) : konkani  
 konsonantti : konson  
 kontaktikieli (pidgin) : pijin  
 kontiainen (maamyyrä) : krot  
+koodata : koda  
 koodi : kode  
+kooka : koká  
 kookos : kokos  
 Kookossaaret : kokos nesia  
 koominen (hauska) : yumori  
 koota (kerätä) : jama  
 kopio : kope  
 kopioida : kopa  
+koppi (maja) : kabin  
 koraani : kuran  
 kori : basket  
-korjaaja : xular  
+korjaaja : xuler  
 korjata : tika  
 korjata : xula  
+korjaus : xule  
 korkata : zibula  
 korkea : gaw  
 korkittaa (tukkia) : ziba  
@@ -563,28 +640,34 @@ kristus : kriste
 Kroatia : horvatia  
 kromi : krom  
 kruunu : koron  
+kryptoni : kripton  
 ksenon : xenon  
 kuin : ka  
 kuisti (terassi, veranta) : berande  
 kuka? : ki ren  
 kukka : hua  
 kukka : pul  
-kukkaruukku : hua pote  
+kukkaruukku : pul waze  
 kukkia : pula  
 kulho : wan  
+kulkea poikki, läpi tai yli : transa  
 kulma (nurkka) : kon  
 kulta : gim  
 kulttuuri : kultur  
 kulua (ajasta) : duru  
 kuluva (tämänhetkinen) : zay  
 kumi : gom  
-kumina : zira  
+kumina : zirá  
 kummitus (aave) : fantom  
 kungfu : gung fu  
+kuningas : man rajer  
 kuningas tai kuningatar : koron xefe  
+kuningaskunta : rajia  
+kuningatar : fem rajer  
+kuninkaallinen : raji  
 kunnioittaa (arvostaa) : xarifa  
+kuolema (kuolo) : marte  
 kuollut (vainaa) : marti  
-kuori : kara?  
 kuoro : kor  
 kupari : kuper  
 kuperi : kuper  
@@ -592,11 +675,12 @@ kupla : bulbul
 kuponki : kupon  
 kuppi (muki) : kupe  
 kurja (raukka) : miskin  
-kuu : luna  
+kuu : lun  
+Kuuba : kubá  
 kuukausi : mes  
-kuulla (kuunnella) : awda  
+kuulla (kuunnella) : auda  
 kuulua (olla oma) : adu  
-kuura : hima rose  
+kuura : him rose  
 kuusi (6) : sis  
 kuutio : kube  
 kuva : sure  
@@ -607,8 +691,9 @@ kuvitella : fantaza
 Kuwait : kuwaytia  
 kyllä : si  
 kylmä : leng  
+kylpeä : banya  
 kylpy : banye  
-kylpyhuone : banye kamer  
+kylpyhuone : banye kamar  
 kylä : deya  
 kymmenen (10) : des  
 kynä : kalam  
@@ -619,11 +704,12 @@ kysymys : kie
 kysyvä : kii  
 kysyä : kia  
 kärppä (fretti) : furet  
+kärry (vaunu, auto, jne) : kar  
 käsitellä dataa : komputa  
 käskeä (komentaa) : orda  
 käsky (komento) : orde  
 kävely (marssi) : marca  
-käyttäjä : uzar  
+käyttäjä : uzer  
 käyttää : uza  
 käytännöllinen (pragmaattinen) : prati  
 käytäntö (pragmatia) : prate  
@@ -635,8 +721,9 @@ ladata : lada
 lahja : don  
 lainata (siteerata) : cita  
 laji (tyyppi, tyyli) : yang  
+laji : jong  
 laki : kanun  
-lakka : laka  
+lakka : lake  
 lakki (hattu) : tope  
 lammas : meme  
 lamppu : lampa  
@@ -650,9 +737,14 @@ lause : jumle
 lauta (lankku) : paban  
 lautanen : plate  
 lautapeli : paban gem  
-lehmän liha : mumu nyam  
+lava (näyttämö) : sen  
+lehmän liha : mumu manse  
+lehtisalaatti : letis  
 leijona : sing  
-leipä : pang  
+leipoa : beka  
+leipomo : bekeria  
+leipuri : beker  
+leipä : nan  
 leiri : kampe  
 lekseemi : leksem  
 lentokone : wiman  
@@ -667,19 +759,23 @@ liha : manse
 lihas : muskul  
 liian vähän : min ka bas  
 liikaa : max ka bas  
+liike : kine  
 liikemies : biznes ren  
 liiketoiminta (bisnes) : biznes  
+liikuttaa : kina  
 liima : glute  
 liitto (unioni) : unia  
+lilja : lilya  
 linja-auto (bussi) : bus  
 linnake : yosay  
 lintu : paki  
-lippu (piletti) : tiket  
+lippu (piletti) : tikete  
 lippu : bander  
 lista (luettelo) : liste  
 litium : litium  
+litra : litre  
 litteä : ping  
-litši : lici  
+litši : lice  
 logiikka : logike  
 lokakuu : mes 10 (mes des)  
 loppu : fin  
@@ -687,19 +783,21 @@ lounas : den nyam
 lukea : duga  
 luku (kirjan osa) : babe  
 lukumäärä (luku, numero) : numer  
-lumi : hima  
+lumi : him  
 luokitella (kategorisoida) : klasa  
 luokka (kategoria) : klas  
 luokse (tykö, asti) : to  
 luola : gua  
 luonto : tabia  
-lusikka : camca  
+lusikka : camce  
+luu : oste  
 luvata : wada  
 Luxemburg : luksemburgia  
 lyhentää : korta  
 lyhty : lanten  
 lyhyt : korti  
 lyijy : plumbe  
+lymfa : limfe  
 lypsää maitoa : tira milke  
 lyödä (iskeä) : darba  
 lähellä : jin  
@@ -708,12 +806,14 @@ lähetystö : dayxi kan
 lähtien (-sta, -lta) : ze  
 länsi : weste  
 läntinen : westi  
+läpikulku : trans  
 läpikäydä (passiivin muodostava verbi) : bey  
 läsnäolo : zaye  
 lääke : leke  
+lääketiede : medikia  
 lääkitä : leka  
-lääkäri (tohtori) : doktar  
-löytää (keksiä) : ewreka  
+lääkäri (tohtori) : mediker  
+löytää (keksiä) : eureka  
 ##m  
 maa (maaperä) : zem  
 maa (valtio) : dex  
@@ -729,17 +829,21 @@ maaseutu : deya stan
 maata (makoilla) : lala  
 Macao : makaw  
 Madagaskar : madagasia  
+magneetti : magnete  
+magneettinen : magneti  
 magnesium : magnes  
-maha : fubu'  
+maha : fubú  
 maissi : mays  
 maito : milke  
-Makedonia : makedonia  
 Makedonia : makedonia  
 makeinen (karkki) : kande  
 makkara : sosis  
 maksaa (olla hintana) : kosta  
-makuuhuone : son kamer  
+maksaa : peya  
+maksu : pey  
+makuuhuone : son kamar  
 malagassi : madagasi  
+malajalam (eräs intialainen kieli) : malayali  
 malaria : malaria  
 Malawi : malawia  
 Malesia : malaysia  
@@ -752,6 +856,7 @@ mangostani : mangus
 mangusti : mungus  
 Manin saari : manin  
 manteli : badam  
+marathi (eräs intialainen kieli) : marati  
 maratoni : maraton  
 margariini : margarin  
 marmori : marmar  
@@ -759,32 +864,32 @@ Marokko : magribia
 marraskuu : mes 11 (mes des un)  
 Mars : marsi  
 massa : mas  
-matemaatikko : matikar  
+matemaatikko : matiker  
 matematiikka (matikka) : matike  
-matka (reissu) : safer  
+matka (reissu) : safar  
 matkatavarat : bagaje  
 mato : werme  
 Mauritania : muritania  
 Mauritius : moris  
-maya (mayaintiaani) : maya  
+maya (mayaintiaani) : mayá  
 Mayotte : mayote  
 me : mimen  
-media : midia  
+media : media  
 mehu : jus  
 mekko (tunika) : gawn  
 Meksiko : mexiko  
 melodia (sävelmä) : melodia  
-mennä : gona  
 meri : daria  
-merirosvo (piraatti) : pirate  
+merirosvo (piraatti) : pirater  
 merkitys : mane  
+merkitä (tarkoittaa) : mana  
 merkki (jälki) : marke  
 merkki (signaali) : sinye  
 Merkurius : budan  
 mestari (voittaja) : campion  
 metalli : metal  
 meteli : kelele  
-metrojuna (maanalainen) : tunel-tren  
+metrojuna (maanalainen) : tunel tren  
 metsä (viidakko) : jangal  
 mielikuvituksekas (fantastinen) : fantazi  
 mielikuvitus (fantasia) : fantaze  
@@ -801,7 +906,8 @@ miljardi (giga-) : giga
 miljoona (mega-) : mega  
 milli- : mili  
 milloin? (koska?) : ki zaman  
-ministeri : ministar  
+ministeri : minister  
+ministeriö : ministeria  
 minun : mi da  
 minuutti : minut  
 minä : mi  
@@ -809,42 +915,46 @@ miten? : ki yang
 mitta (koko, määrä) : metre  
 Moldova : moldovia  
 Monaco : monako  
-monarkki (kuningas, kuningatar) : rajar  
+monarkki (kuningas, kuningatar) : rajer  
 mongoli : mongol  
 Mongolia : mongolia  
+monismi : monisme  
 Montenegro : cerna gora  
-moottori : motar  
+moottori : moter  
 morfeemi : morfem  
 morfi : morfe  
 Mosambik : mozambike  
 muistikirja : note buke  
+mukava (kiva) : latif  
 munakoiso : bedinjan  
 muoti : mode  
 muoto : forme  
 muotoilla (muovata) : forma  
 muovi : plastike  
 musiikki : musike  
-musketti : musket  
-musketööri : musketir  
+musketti : muskete  
+musketööri : musketer  
 muste : mog  
 muta (lieju) : poto  
 mutka (kurvi) : kurbe  
+mutkikas : kurbi  
 mutta : a  
 muu (toinen) : alter  
 muumio : mumia  
-muusikko : musikar  
+muusikko : musiker  
 muuttaa : altera  
 Myanmar (Burma) : bama  
 myky (pelmeni, ravioli) : pelmen  
 myrsky : tufon  
 myös (lisäksi, plus) : plus  
 mänty : song  
-mökki : xale'  
+mökki : xalé  
 ##n  
 naamio (maski) : maske  
 naaras : fem  
-nahka (iho) : pifu'  
+nahka (iho) : pifú  
 nahuatli : nawati  
+nahuatli : nawatli  
 naida (mennä naimisiin) : gama  
 nailon : nilon  
 naimisissa : gami  
@@ -861,9 +971,11 @@ Nauru : nauru
 nauta (lehmä) : mumu  
 nauttia (syödä, juoda) : nyama  
 neljä (4) : car  
+neon : neon  
 Nepal : nepal  
 Neptunus : neptun  
 neula : pin  
+neuvo : konsel  
 newton (N) : nuton  
 Niger : nijer  
 Nigeria : nayjiria  
@@ -873,16 +985,18 @@ nimi : nam
 nisäkäs : mamal  
 Niue : niwe  
 noin (arviolta, suunnilleen) : yaki  
-noppa (arpakuutio) : dado'  
+nolla (ei yhtään) : nul  
+noppa (arpakuutio) : dadó  
 Norfolkin saaret : norfolke  
 Norja : norgia  
 norjalainen : norgi  
 normi : norme  
-norsu (elefantti) : gaja'  
+norsu (elefantti) : gajá  
 nostaa pystyyn : liba  
 nukke : pupe  
 nukkua : sona  
 nukkuminen (uni) : son  
+nuoli : ban  
 nuori : jowan  
 nuorukainen : jowane  
 nuoruus : jowania  
@@ -894,48 +1008,54 @@ näkyä : widu
 näkökenttä : wide maydan  
 näppäimistö : buton paban  
 näytellä : akta  
-näyttelijä : aktar  
+näyttelijä : akter  
 näyttää : xowa  
 näytös (esitys, show) : xow  
 näytös : akte  
 ##o  
 odottaa : denga  
 ohittaa : pasa  
-ohjaaja (pilotti, luotsi) : pilote  
+ohjaaja (pilotti, luotsi) : piloter  
 ohjata : gida  
 ohjelma : program  
-oho (vau) : wa  
+oho (vau) : waw  
 oi! : o  
 oikea (oikein) : tiki  
 oikeus (oikeutus) : hak  
 oivaltaa (tajuta) : aha  
 okei (kelvata) : okey  
 oksa (haara) : xake  
-oliivi : zaytun  
+oliivi : zaitun  
 olla hereillä : weki  
-olla jkn : es  
-olla olemassa : esu  
 olla samaa mieltä : amena  
-olo (olemassaolo) : ese  
 olut (kalja) : bir  
 Oman : oman  
-omena : pingo  
+omena : aple  
 omistaa (omata) : ada  
 omistetun omistajaan liittävä partikkeli : du  
 ongelma : problem  
 onnitella (siunata) : barka  
-opettaja : darse guru'  
+opettaja : darse gurú  
 oppi (opetus) : darse  
 oppia (opiskella) : darsa  
 oppilas : darse bace  
 oranssi : aranji  
+orava : lixú  
+orgasmi : orgazme  
+orija (eräs intialainen kieli) : odisi  
+Oromia : oromia  
+oromo (etiopialainen kansa ja kieli) : oromi  
 orpo : yatim  
 osa (pala) : fen  
 osallistua : memba  
 Oseania : oseania  
+osmium : osmium  
 osoite : adres  
-osoittaa (näyttää) : indika  
+osoitin (viisari) : ponter  
+osoittaa (näyttää) : ponta  
+otella : maca  
 ottaa kiinni (napata, kaapata) : kaca  
+ottelu (matsi) : mace  
 outo (kummallinen) : bizar  
 ovi (portti, veräjä) : mun  
 ##p  
@@ -948,42 +1068,50 @@ painotus (aksentti) : acente
 paita : kamis  
 paitsi (miinus) : minus  
 paitsi (poislukien) : cula  
+pakata : paka  
 Pakistan : pakistan  
 pakkaus (paketti) : pake  
 pakko : muse  
 pakottaa : musa  
 paksu (lihava) : pang  
+palaa : jalu  
 palata : retra  
 Palau : palaw  
 palauttaa : fuga  
 Palestiina : filistinia  
+palladium : paladium  
 pallo : bol  
 palmu : palma  
 palvoa : puja  
 palvonta : puje  
-panaasialainen : panasian  
-panafrikkalainen : panafrikan  
+panaasialainen : panasi  
+panafrikkalainen : panafriki  
 Panama : panama  
-panamerikkalainen : panamerikan  
+panamerikkalainen : panameriki  
 panda : panda  
 pandunia : pandunia  
-paneurooppalainen : panewropan  
+pandžabi (eräs intialainen kieli) : panjabi  
+paneurooppalainen : paneuropi  
 pannu (paistinpannu) : tawa  
 papaija : papaya  
 paperi : paper  
-pappi : din guru'  
+pappi : din gurú  
 paprika : cili  
 papu tai herne : dow  
 Papua Uusi-Guinea : papua nowi ginia  
-papukaija : aku'  
+papukaija : akú  
 Paraguai : paraguay  
 parsa : lusun  
+parta : barde  
 parveke (kuisti) : balkon  
 pascal (Pa) : paskal  
 patja : matras  
-peili : mirar  
+pehmeä : komal  
+peili : mirer  
 peite (kansi) : deke  
 Peking (Beijing) : beijing  
+pelaaja : gemer  
+pelata : gema  
 peli : gem  
 penkki : bence  
 perhe : famil  
@@ -994,12 +1122,14 @@ Peru : peru
 peruna (potaatti) : patate  
 perus- : bazi  
 perusta (perustus) : baze  
+perusyksikköä ilmaiseva liite : -em  
 peräaukko (anus) : anus  
 pestä : waxa  
 pesukone : wax-maxin  
-peura (poro, karibu) : karibu  
+peura (poro, karibu) : karibú  
 pian : sun  
 piano : piano  
+pidentää : longa  
 pieni (pienesti, vähän) : lil  
 pii : silike  
 piirakka (piiras) : pay  
@@ -1009,17 +1139,20 @@ pikkuruinen (mini-) : mini
 pikkutakki (jakku) : jaket  
 piknik (retki) : piknike  
 pilahvi : polaw  
+pilkku : komá  
 pilvi : megam  
+pimeä (hämärä) : oskur  
 pingviini : pinguin  
 pinta : fas  
 pioni : mudan  
-pippuri : piper  
+pippuri : pimente  
 pirullinen : xatani  
-piste (täplä) : punt  
+piste (täplä) : punte  
 pistooli : pistol  
 Pitcairn : pitkerne  
 pitkä : long  
 pitsa (pizza) : piza  
+pituus : longe  
 pitäisi : xudu  
 pitää (tykätä) : suku  
 pitää : tena  
@@ -1029,12 +1162,18 @@ Platon : platon
 platoninen : platoni  
 platonismi : platonisme  
 Pluto (kääpiöplaneetta) : pluto  
+plutonium : plutonium  
 pohja : tal  
 poika (nuori mies) : jowan man  
+poika : man ban  
 poistua : cuta  
 poistuminen : cute  
 pokeri : poker  
+poliiisi (poliisimies) : poliser  
+poliitikko : politiker  
+politiikka : politike  
 polku : pat  
+polttaa : jala  
 pommi : bombe  
 porkkana : karot  
 porno : porne  
@@ -1043,19 +1182,21 @@ Portugali : portugal
 posti (lähetys) : poste  
 postileima : poste cap  
 postitoimisto : poste kan  
+povi : buste  
 professori : profesor  
 profetia : nabe  
 projekti : proje  
 pudota (tipahtaa) : padu  
 pudottaa : pada  
 Puerto Rico : puerto riko  
-puhdas (siisti) : safi  
+puhdas (siivo, siisti) : safi  
 puhe (sanat) : loge  
 puhelin : tele fon  
+puhua (kommunikoida) : baxa  
 puhua (sanoa) : loga  
 pullo : botol  
 pumppu : pompa  
-punta : pawnde  
+punta : paunde  
 puola : polskia  
 puolalainen : polski  
 putki (tuubi) : tube  
@@ -1063,9 +1204,8 @@ puu : xu
 puuro : kaxa  
 puuteri : puder  
 puuvilla : goton  
-pyh! : fu  
 pyhä : santi  
-pylly (takapuoli, pakarat) : pigu'  
+pylly (takapuoli, pakarat) : pigú  
 pylväs (pilari) : kolum  
 pyssy : bunduke  
 pysty (seisova) : libi  
@@ -1079,16 +1219,21 @@ pää : sar
 pää- : xefi  
 pääkallo : sar oste  
 päällikkö (pomo) : xefe  
-pääministeri (suurvisiiri) : xefi ministar  
+pääministeri (suurvisiiri) : xefi minister  
+päästää (sallia) : laxa  
 pöly (tomu) : dul  
-pöytä : meza  
+pöytä : meze  
+Qatar : kataria  
 ##r  
 Raamattu : biblia  
 radio : radio  
 radium : radium  
+radon : radon  
+raha : pese  
 raivo : amuke  
+raja : limite  
 rakastaa : ama  
-rakentaa : bana  
+rakentaa : bina  
 raketti : rokete  
 rakkaus : am  
 ramadan : ramazan  
@@ -1100,13 +1245,18 @@ ratas : cakre
 rauhallinen (tyyni) : xanti  
 rauta : fer  
 ravintola : restoran  
+reikä : kong  
 rekisteri : daftar  
 retikka (retiisi) : lobak  
+retkeilijä : kamper  
 retki (matka) : tur  
 reuna (ääri) : kenar  
+Reunion : reunion  
 riippumatto : hamake  
 rikki : sulfe  
 rikos : krim  
+rinta : sine  
+rintakehä : sine kase  
 riski : riske  
 risti : krus  
 robotti : robote  
@@ -1121,27 +1271,34 @@ Ruanda : rwanda
 ruiske (injektio) : juxe  
 ruiskuttaa : juxa  
 rukous : duwa  
+ruma (pahannäköinen) : mal rupi  
 rumpu : tambur  
 runo : xir  
-runoilija : xirar  
+runoilija : xirer  
 ruoho : gras  
-ruokasali : nyam kamer  
+ruokasali : nyam kamar  
+Ruotsi : swenia  
+rusi  venäläinen  
 ruskea : kafi  
-ruukku (vaasi) : bin  
+ruukku (maljakko, vaasi) : waze  
 ruukku (vaasi) : pote  
 ruumiillinen : badani  
 ruusu : roze  
 ruuti : barude  
+ruuvi : lose  
 ryhmä : grupe  
 rytmi : ritme  
+ryöstää (ryövätä) : luta  
 ##s  
 saari : nes  
 saaristo : nesia  
 saha : ara  
 sahrami : zafran  
 Saint Helena : santi helena  
+Saint Lucia : santi lusia  
 saippua : sabun  
 sairas : beng  
+Saksa : doicia  
 sakset : makas  
 salaatti : salade  
 salainen : sir  
@@ -1164,75 +1321,88 @@ sata (##) : hon
 sattuma (onni) : zar  
 sattumanvarainen : zari  
 Saturnus : xani  
-Saudi Arabia : sawdi arabia  
-sauna : sawna  
+Saudi Arabia : saudi arabia  
+sauna : sauna  
 savu : duman  
-seepra : zebra  
+savuke tai sikari : sigar  
+seepra : zebre  
 seesami : sesam  
 seismologia : sisme lojia  
 seistä (seisoa) : libu  
 seitsemän (7) : set  
 seksi (sukupuolinen kanssakäyminen) : sekse  
 seleeni : selen  
-sello : celo  
+sello : celó  
 selvä (selkeä) : klar  
-sementti : sement  
+sementti : semente  
 Senegal : senegal  
 sentti : centi  
 Serbia : serbia  
 seurata (tulla perässä, tulla jäljessä) : bada  
 seuraus : bade  
-sianliha : goro' nyam  
+Seychellit : sexel nesia  
+sianliha : goró manse  
 side (kääre) : bande  
 side (remmi) : faxe  
 siemen : dane  
+Sierra Leone : salone  
 sihistä : ziza  
-sihteeri : sekretar  
-sihteeristö : sekretaria  
+sihteeri : sekreter  
+sihteeristö : sekreteria  
 siipi : wing  
 siirappi : xirope  
 siitin (penis) : penis  
-sika (possu) : goro'  
+siivooja : safer  
+sika (possu) : goró  
 siksakki : zigzage  
+sileä : lis  
 silmä : yen  
-silta : pont  
-simpanssi : cimpanzi  
+simpanssi : cimpanze  
+Singapore : singapur  
 sinkki : zinke  
 sinä : tu  
 Siperia : sibir  
-sisarus (veli tai sisko) : sawdar  
+sisarus (veli tai sisko) : saudar  
 siten (täten) : so  
 sitoa : banda  
 sitruuna : limun  
 skandium : skandium  
+Slovakia : slowakia  
+Slovenia : slowenia  
 smaragdi : zumrude  
 sohva : sofa  
 soittaa (musisoida) : musika  
-sokeri : suker  
+sokeri : sukar  
 solmu : node  
 Somalia : somalia  
-sorsa (ankka) : bata'  
+sorsa (ankka) : batá  
 sosialismi : socialisme  
 sotilaallinen : jangi  
-soturi (taistelija) : jangar  
+soturi (taistelija) : janger  
 sranan tongo : surinam bax  
-stadioni : stadion  
+Sri Lanka : lanká  
+stadioni (areena) : stadia  
 suahili : swahili  
 Sudan : sudan  
 sudenkorento : libel  
 suhde (yhteys) : guanxe  
 suihku : dux  
 sukka : soke  
-suklaa : cokola'  
-suklaapatukka : cokola' baton  
+suklaa : cokolate  
+suklaapatukka : cokolate baton  
 sukunimi : famil nam  
 sukupuoli : jins  
 sukupuoli- : jinsi  
+sulaa : mayu  
+sulattaa : maya  
 sulka : puru  
+sulkea vetoketjulla : zipa  
 summa : sum  
 sunnuntai : war 7 (war set)  
-suodattaa : filtar  
+suodattaa : filter  
 Suomi : suomia  
+suora : jiki  
+suoristaa : jika  
 suosittu (trendikäs) : faxoni  
 Surinam : surinam  
 surra (murehtia) : duka  
@@ -1240,19 +1410,24 @@ suru (murhe) : duke
 surullinen : duki  
 sushi : suxi  
 susi (hukka) : beria  
-suu : boka  
+suu : boke  
+suukko (pusu) : bis  
 suunnitella : plana  
 suunnitelma : plan  
-suutari : sapatir  
+suutari : sapater  
+suutarin paja : sapateria  
+Sveitsi : swisia  
+Swazimaa : swazia  
 sydän : xim  
 sylkeä : tuka  
-synnyttäjä (vanhempi) : jenar  
 synnyttää : jena  
 synty (syntymä) : jen  
 syntymäpäivä : jen den  
 syntyä : jenu  
+syreeni : lilak  
 syy : karen  
 syyllinen : doxi  
+Syyria : suria  
 syyskuu : mes 9 (mes noy)  
 sähkö : elektre  
 sävel (sävy) : ton  
@@ -1260,21 +1435,27 @@ sää : tenki
 söpö (suloinen) : kaway  
 ##t  
 taateli : tamar  
+Tadžikistan : tajikia  
 tahna (tahdas) : paste  
 tai (vai) : u  
+taianomainen (maaginen) : magi  
 taide : arte  
 taiga : tayga  
 taika (taikuus, magia) : magia  
+taikuri : mager  
 Taipei : taibei  
 taistelu (sota) : jang  
-taiteilija : artar  
+taiteilija : arter  
 taivas : saman  
 Taiwan : taiwan  
 takki : kote  
+taksa (tariffi) : tarif  
 taksa (vero) : takse  
 taksi : taksi  
 taktiikka : taktike  
 takuu : garante  
+tallettaa : banka  
+tamil (eräs intialainen kieli) : tamili  
 tammikuu : mes 1 (mes un)  
 tammipeli : dama  
 tankki (säiliö) : tanke  
@@ -1284,45 +1465,64 @@ Tanska : dania
 taolaisuus : dawisme  
 tapa (rutiini) : rutin  
 tapaus : kaze  
+tappaa : marta  
+tappaja : marter  
 tarkistaa (tsekata) : ceka  
 tarpeeksi (riittävästi) : bas  
 tarve : nida  
 tasapuolinen (reilu) : egal  
 tasku : jebe  
 tatuointi : tatu  
-tauko (paussi) : paws  
+tauko (paussi) : paus  
 taulukko : tabel  
 tavata : mita  
 te : tumen  
 tee : ca  
 teekulho : ca wan  
+teekuppi : ca kupe  
+tehdas : fakteria  
+tehdä (valmistaa) : fakta  
 tehdä (valmistaa) : sana  
-tehdä : kara  
+tehdä : fa  
 tehkäämme : hayda  
 teippi (nauha) : tepe  
 teismi (jumalusko) : dewisme  
+tekijä (valmistaja) : fakter  
+tekijän pääte : -er  
 tekniikka (keino, menetelmä) : tekne  
 tekniikka (teknologia) : tekne lojia  
+teko : fe  
 televisio : tele wide  
 teltta : tende  
+telugu (eräs intialainen kieli) : telugú  
 tennis : tenis  
 teologia : dew lojia  
-teoria : teore  
+teoria : teoria  
+teos (tuote) : fakte  
 terrorismi : terorisme  
 tervehdys (terve!) : salame  
 tervetuloa! : salam laye  
 tie : daw  
 tiede (tutkimus) : lojia  
+tiedottaa (informoida) : informa  
 tieto (info) : informe  
+tieto (tietämys) : jane  
+tietokone : komputer  
 tietty (tunnettu) : jani  
 tietää : jan  
 tiistai : war 2 (war du)  
+tila : state  
 timantti : almas  
 tissi (rinta) : mam  
 titaani : titan  
 todistaa : pramana  
 todiste (todistus) : praman  
+tofu : tofú  
+Togo : togó  
+tohtori : dotor  
+tohtorin tutkinto : dotoria  
 toiminta (funktio) : funca  
+toimisto (konttori) : ofisia  
 toivoa : inxala  
 tomaatti : tomate  
 tori (basaari) : bazar  
@@ -1337,12 +1537,12 @@ Trinidad ja Tobago : trinida i tobago
 tuhat (kilo-) : kilo  
 tule sisään! : cing lay in!  
 tulkata (kääntää) : tarjuma  
-tulkki (kääntäjä) : tarjumar  
+tulkki (kääntäjä) : tarjumer  
 tulla : laya  
 tulos : rezulte  
 tulppa (tappi, korkki) : tape  
 tulppaani : tulpan  
-tundra : tundra  
+tundra : tundar  
 Tunisia : tunisia  
 tunneli : tunel  
 tuntea (tunne) : senta  
@@ -1350,43 +1550,47 @@ tunti : hor
 tuo (nuo) : li  
 tuo : le  
 tuoli : kurse  
-tuomari : hakimar  
+tuomari : hakimer  
 tuomio : hakim  
 tuore (raikas) : tazi  
 tupakka : tabake  
+turbaani : pagre  
 turismi : turisme  
 turisti : turiste  
 Turkki : turkia  
+turkkilainen : turki  
 Turkmenistan : turkmenia  
+tutkia (opiskella) : loja  
 tutkia : genca  
 tuuli (puhallus) : fong  
 tuulla (puhaltaa) : fonga  
 Tuvalu : tuvalu  
 tykki (pyssy) : kanon  
-tykkimies : kanonir  
+tykkimies : kanoner  
 tynnyri (tölkki) : tong  
-typpi : nitre  
 typpi : nitre  
 tyranni : tiran  
 tyrannia : tirania  
 tyttö (nuori neito) : jowan fem  
+tyyny : kusen  
 työ (tehtävä) : werke  
 työkalu : tul  
-työntekijä (työläinen) : werkar  
+työntekijä (työläinen) : werker  
 työskennellä : werka  
-tähti : tara  
+tähti : xing  
 tämä (nämä) : ci  
 tämä : ce  
 tänään : zay den  
 täplä (läiskä) : binde  
 täysi : ful  
-täytyä (olla pakko) : musu  
+täytyä (olla pakko) : bixu  
 tölkki (purkki) : tin  
 Tšad : cadia  
 Tšekki : cehia  
+tšilipaprika : lat cili  
 ##u  
 Uganda : ganda  
-Ukraina : ukrayna  
+Ukraina : ukraina  
 ulkomaa : way dexia  
 ulkomaalainen : way dexi  
 ulkopuoli : way  
@@ -1400,6 +1604,7 @@ upea (hieno) : kul
 upea (mahtava) : super  
 uraani : uranium  
 Uranus : uran  
+urdu : urdú  
 urheilu : kel  
 uros (mies) : man  
 Uruguai : uruguay  
@@ -1411,7 +1616,7 @@ uskonto : din
 uusi : nowi  
 Uusi-Kaledonia : nowi kaledonia  
 Uusi-Seelanti : nowi zilandia  
-uutinen : haber  
+uutinen : habar  
 Uzbekistan : uzbekia  
 ##v  
 vaaleanpunainen : rozi  
@@ -1419,54 +1624,68 @@ vaara : hatar
 vaate : fuke  
 vaatia (edellyttää) : xarta  
 vaatimus (edellytys) : xarte  
-vagina : yoni  
+vagina : yone  
+vaihe (etappi) : faze  
 vaihtaa : badala  
-vain (pelkästään) : sol  
+vain (ainoastaan) : mon  
 vaiva (haitta) : mafan  
 vaivata (hieroa) : masa  
+vaivata : mafana  
 valaistunut : budi  
 valinta (vaali) : cun  
 valita : cuna  
+valjaat : majú  
 valkoinen (valkea) : bay  
+valkosipuli : lasun  
 Valkovenäjä : belarus  
 valmis : redi  
+valo : nur  
+valoisa : nuri  
 valokuva (foto) : foto  
 valta : kratia  
-vanginvartija : prizonar  
+valtio (osavaltio) : stan  
+vanginvartija : prizoner  
 vangita : prizona  
 vanha (muinainen) : puran  
+vanhempi (isä tai äiti) : pamá  
 vanilja : wanila  
 vankeus : prizon  
 vanki : prizonur  
 vankila : prizonia  
 Vanuatu : vanuatu  
 vanukas : puding  
-varas : curar  
+vapaa : huri  
+vapaus : huria  
+vapauttaa : hura  
+varas : curer  
 varastaa : cura  
 varaus (ennakkovaraus) : buking  
 varjo : caye  
 varkaus : cur  
 varma : yakin  
+vartalo (varsi, torso) : torse  
 vasara : hamar  
 vastaan (vasten) : kontra  
-vastaanottaja : adresur  
 vastata : daba  
 vastaus : dabe  
 Vatikaanivaltio : vatikan  
 vaurio : awar  
 vauva : bebe  
-veitsi (puukko) : caku  
+veitsi (puukko) : cakú  
 vene (laiva) : bote  
 Venezuela : venesuela  
+Venäjä : rusia  
+verbin pääte : -a  
+verbin pääte : -u  
 verhot : parde  
 veri : sang  
 verkko : nete  
 vertainen : par  
 vesi : suy  
-vesimeloni : arbuz  
-vesinokkaeläin : bata'krote  
+vesimeloni : arbuze  
 vesipuhveli : kabaw  
 vessa : tuale  
+vetoketju : ziper  
 vety : hidre  
 vetää : tira  
 vielä (yhä) : hay  
@@ -1489,17 +1708,17 @@ vilustuminen : zukam
 vinyyli : winil  
 Viro (Eesti) : estia  
 virologia : wirus lojia  
-virtahepo : gubu  
+virtahepo : gubú  
 virtsa (pissa, kusi) : pixa  
 virus : wirus  
 vismutti : bismute  
 vitsi : joke  
-vitsiniekka : jokar  
+vitsiniekka : joker  
+voi : makan  
 voida (osata, pystyä) : ken  
 voima : bale  
 voimakas (vahva) : bal  
 voipuu : karite  
-voitto : win  
 voltti (V) : volta  
 voodoo : vodu  
 vuode (sänky, peti) : bede  
@@ -1511,12 +1730,15 @@ vuosijuhla : nen feste
 vuotaa : lowa  
 vuotaa verta : lowa sang  
 vyö : zon  
-väestötiede (demografia) : dem grafia  
+väestötiede (demografia) : demó grafia  
+vähemmistö : minoria  
 vähemmän : min  
 vähiten : minim  
+vähäinen : minor  
 väite (teesi) : teze  
 väittely (debatti) : lon  
 väittää : teza  
+väli : inter  
 välipala (naposteltava) : lil nyame  
 väri : rang  
 väärä (epätosi, vale-) : falsi  
@@ -1528,11 +1750,12 @@ wiki : wiki
 yhdistys (sidos, liiga) : lige  
 yhdistää : liga  
 yhdistää : una  
-Yhdysvallat : usamerika  
+Yhdysvallat : usamerikia  
 yhteinen : komun  
 yhteiskunnallinen (sosiaalinen) : social  
 yhteiskunta : socia  
 yhteisymmärrys (olla samaa mieltä) : amen  
+yhteisö (kollektiivi) : jamia  
 yhtenäinen : uni  
 yksi : un  
 yksinkertainen (mutkaton) : simpli  
@@ -1558,13 +1781,12 @@ Zarathustra : zardux
 zarathustralaisuus : zarduxisme  
 Zimbabwe : zimbabwe  
 zulu : zulu  
-äiti (emä) : mama  
-äiti : ma  
+äiti (emä) : mamá  
 ääni : sonde  
 äänne (foneemi) : foneme  
 äänne (fooni) : fone  
 ääntää : sonda  
 šakaali : xakal  
 šamaani : xaman  
-šampoo : xampu'  
+šampoo : xampú  
 šaria : xaria  
