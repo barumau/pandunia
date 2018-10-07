@@ -400,7 +400,7 @@ Most verbs end in **-a** and **-u**. A handful of verbs are without a standard e
 
 ## 7. Sentences
 
-### 8.1. Observations
+### 7.1. Observations
 
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
@@ -435,9 +435,9 @@ Also two personal pronouns can be juxtaposed.
 When the subject is a noun, the word **si** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
 
 > **sara si bon.** - Sara is good.  
-> **batu si day.** - The stone is big.  
-> **meza si nowi.** - The table is new.  
-> **meza no law.** - The table is not old.
+> **batú si day.** - The stone is big.  
+> **meze si nowi.** - The table is new.  
+> **meze no law.** - The table is not old.
 
 
 #### 7.2.3. With adjective subject
@@ -459,13 +459,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi nyama apel.** - I eat apples.  
+> **mi nyama aple.** - I eat apples.  
 > **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
-**mi apel nyamu.** - _I apples eat._
+**mi aple nyamu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
@@ -478,7 +478,7 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **nan beku.** - Bread is baked.  
+> **nan beku.** - Bread is baked.
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
@@ -497,7 +497,7 @@ In verb–object (VO) order the focus is on the verb.
 > **beka nan.** - Baking bread.
 
 
-#### 7.5. All Possible Word Orders
+### 7.5. All Possible Word Orders
 
 There are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
@@ -551,8 +551,8 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 #### 7.8.2. Short pivot structure (VVO)
 
-> **mi cing tu lay dom.** - I ask you to come home.  
-> **cing lay dom!** - Please come home! (Literally: _Request come home!_)
+> **mi cing tu laya dom.** - I ask you to come home.  
+> **cing laya dom!** - Please come home! (Literally: _Request come home!_)
 
 
 
@@ -584,14 +584,14 @@ Particle **si** is affirmative and **no** is negative. **si** affirms the existe
 Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
 
 > **mi si ren.** - I am a person.  
-> **ye si nowi meza.** - It is a new table.
+> **ye si nowi meze.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
 > **mi no ren.** - I'm not a person.  
-> **ye no nowi meza.** - It's not a new table.
+> **ye no nowi meze.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -613,7 +613,7 @@ Negative questions are answered so that **si** and **no** apply to the verb, not
 
 
 
-### Modifier particles
+### 9.2. Modifier particles
 
 Particles **da** and **du** are used to mark possession and modification. **da** connects the modifying word or phrase to the modified word. **du** works in the opposite direction. It connects the modified word to the modifier.
 
@@ -657,14 +657,14 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du nyama apel_.** - I see a man _who eats apples_.  
+> **mi wida man _du nyama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
-> **mi wida _apel nyamu da_ man.** - I see an _apple-eating_ man.
+> **mi wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
 
 > **buke dugu da ren na kamar.** = The book-reading person is in the room.
-> **ye duga da buke na meza.** = The book, that he/she reads, is on the table.  
+> **ye duga da buke na meze.** = The book, that he/she reads, is on the table.  
 
 
 ### 9.3. Modal Particles
@@ -718,7 +718,6 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 > **mi sona ze xam to suba.** - I sleep since evening until morning.  
 > **mi safara ze london to paris.** - I travel from London to Paris.  
 
-
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **mi denga ze tu enda.** - I have waited since you left.  
@@ -758,7 +757,6 @@ Here are some verbs that are usable as prepositions:
 > **loka** - to occupy, to be located; at  
 > **sirka** - to surround; around  
 > **supra** - to surpass; over, above  
-> **karena** - be caused by; because  
 
 #### 10.1.4. Verbs without prepositions
 
@@ -766,23 +764,23 @@ Prepositions are not used as frequently in Pandunia as in English. In many phras
 
 > **mi laya dom.** - I come home.  
 > **tu sida kurse.** - You sit (on) the chair.  
-> **ye lala sofa.** - S/he lies (on) the sofa.  
-> **fixe nata daria.** - Fish swim (in) the sea.  
-> **jangar marca daw.** - Warriors march (on) the road.  
+> **ye lala sofá.** - S/he lies (on) the sofa.  
+> **fix nata daria.** - Fish swim (in) the sea.  
+> **janger marca daw.** - Warriors march (on) the road.  
 
 
 ### 10.2. Preposition of relation
 
-Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
+Preposition **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi saba pandunia ka guru.** - I know Pandunia like a master.
+> **mi saba pandunia ka gurú.** - I know Pandunia like a master.
 
-**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
+**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **gurú** (master) is the point of comparison.
 
 **ka** is also used when adjectives are compared.
 
 > **bace si min day ka papá.** - The child is smaller than the father.  
-> **opa si sem day ka papá.** - Grandfather is as big as father.
+> **opá si sem day ka papá.** - Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papá** (father) in the examples above.
 
@@ -875,7 +873,7 @@ If the root is a place word, then it's adjectival form will mean "that which is 
 
 |                  | Noun        | Adjective   | Verb        |
 |:-----------------|:------------|:------------|:------------|
-| Thing-root       | **manux**   | manuxi      | -           |
+| Thing-root       | **insan**   | insani      | -           |
 | Description-root | bone        | **bon**     | bona        |
 | Action-root      | wole        | woli        | **wol**     |
 
