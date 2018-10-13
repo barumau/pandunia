@@ -59,10 +59,9 @@ ability (skill)   : kene
 about (approximately)   : yaki  
 accent (stress)   : acente  
 accept (to say okay)   : okeya  
-act (play a role)   : akta  
-act (scene)   : akte  
-actinium   : aktinium  
-actor (actress)   : akter  
+act (play a role)   : rola  
+actinium   : acinium  
+actor (actress)   : roler  
 additional   : maxi  
 address   : adres  
 adult   : adulte  
@@ -111,7 +110,7 @@ animate   : anima
 animation (cartoon)   : anime  
 anniversary   : nen feste  
 answer (reply, response)   : dabe  
-Antarctica   : antarktia  
+Antarctica   : antartia  
 antenna (aerial)   : anten  
 anus   : anus  
 any (no matter which)   : eni  
@@ -141,6 +140,7 @@ ask (inquire)   : kia
 ask (request; please)   : cing  
 asparagus   : lusun  
 aspirin   : aspirin  
+Assur   : axur  
 Assyria   : axuria  
 asthma   : asma  
 athlete (sportsman)   : keler  
@@ -557,7 +557,6 @@ distance   : tele
 divide (to partition)   : fena  
 divine (godly)   : dewi  
 Djibouti   : jibutia  
-do (make, act)   : fa  
 do yoga   : yoga  
 doctor (physician, healer)   : mediker  
 doctor (scholar who has attained doctorate)   : dotor  
@@ -600,8 +599,9 @@ eight (8)   : bat
 einsteinium   : einsteinium  
 El Salvador   : salvador  
 elastic   : lasti  
-electricity   : elektre  
-electron   : elektron  
+electric   : eletri  
+electricity   : eletre  
+electron   : eletron  
 elegant (chic)   : xiki  
 elephant   : gajá  
 embassy   : dayxi kan  
@@ -657,7 +657,7 @@ exit door   : cute mun
 eye   : yen  
 ##f  
 face   : muka  
-factory   : fakteria  
+factory   : fateria  
 fairy   : peri  
 Falkland Islands (Malvinas)   : malvina nesia  
 fall   : padu  
@@ -1111,9 +1111,9 @@ mail   : poste
 main (principal)   : xefi  
 major (not minor)   : maxor  
 majority   : maxoria  
-make (manufacture)   : fakta  
+make (manufacture)   : fata  
 make (produce, manufacture)   : sana  
-maker (manufacturer, factor)   : fakter  
+maker (manufacturer, factor)   : fater  
 Malagasy   : madagasi  
 malaria   : malaria  
 Malawi   : malawia  
@@ -1519,7 +1519,7 @@ prison   : prizonia
 prison (imprisonment)   : prizon  
 problem   : problem  
 process (procedure)   : proses  
-product   : fakte  
+product   : fate  
 production   : sania  
 profession (occupation)   : pexe  
 professor   : profesor  
@@ -1529,7 +1529,7 @@ project (planned endeavour)   : proje
 promethium   : prometium  
 promise (commit)   : wada  
 prophecy   : nabe  
-protactinium   : protaktinium  
+protactinium   : protacinium  
 prove (testify)   : pramana  
 pudding   : puding  
 Puerto Rico   : puerto riko  
@@ -1854,7 +1854,7 @@ systemic   : sistemi
 ##t  
 table   : meze  
 table (matrix)   : tabel  
-tactics (strategy)   : taktike  
+tactics (strategy)   : tatike  
 taiga   : tayga  
 tail   : dum  
 Taipei   : taibei  

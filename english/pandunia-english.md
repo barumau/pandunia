@@ -3,6 +3,7 @@
 a : but (whereas)  
 abace : alphabet  
 acente : accent (stress)  
+acinium : actinium  
 ada : have  
 adres : address  
 adu : belong  
@@ -16,10 +17,6 @@ ais : ice
 aisi : icy  
 ajil : agile  
 akse : axis (axle)  
-akta : act (play a role)  
-akte : act (scene)  
-akter : actor (actress)  
-aktinium : actinium  
 akú : parrot (parakeet)  
 alkol : alcohol  
 alkoli : alcoholic  
@@ -44,7 +41,7 @@ anima : animate
 anime : animation (cartoon)  
 anjil : gospel  
 anma : spirit (soul)  
-antarktia : Antarctica  
+antartia : Antarctica  
 anten : antenna (aerial)  
 anus : anus  
 anusi : anal  
@@ -376,8 +373,9 @@ eho : echo
 einsteinium : einsteinium  
 ekran : screen  
 ekuador : Ecuador  
-elektre : electricity  
-elektron : electron  
+eletre : electricity  
+eletri : electric  
+eletron : electron  
 energe : energy  
 engli : English  
 eni : any (no matter which)  
@@ -399,16 +397,11 @@ europium : europium
 
 ##f  
 
-fa : do (make, act)  
 fada : supply (dispense, issue, put out)  
 faide : use (utility, benefit, gain, advantage)  
 faidi : useful (beneficial)  
 fain : fine (delicate)  
 fajan : development  
-fakta : make (manufacture)  
-fakte : product  
-fakter : maker (manufacturer, factor)  
-fakteria : factory  
 falsi : false (fake)  
 famil : family  
 famil nam : surname (family name)  
@@ -420,6 +413,10 @@ farsi : Persian (Farsi)
 faru : rhinoceros  
 fas : surface  
 fasin : fascination  
+fata : make (manufacture)  
+fate : product  
+fater : maker (manufacturer, factor)  
+fateria : factory  
 faxe : bandage (strip, ribbon)  
 faxisme : fascism  
 faxiste : fascist  
@@ -1529,7 +1526,7 @@ programer : programmer (coder)
 proje : project (planned endeavour)  
 prometium : promethium  
 proses : process (procedure)  
-protaktinium : protactinium  
+protacinium : protactinium  
 puder : powder  
 puding : pudding  
 puerto riko : Puerto Rico  
@@ -1598,6 +1595,8 @@ robote : robot
 rodium : rhodium  
 rokete : rocket  
 rol : role  
+rola : act (play a role)  
+roler : actor (actress)  
 rom : rum  
 roma : Rome  
 roma empiria : Roman Empire  
@@ -1818,7 +1817,6 @@ taiwan : Taiwan (Republic of China)
 tajikia : Tajikistan  
 takse : tax (fee, fare)  
 taksi : taxi  
-taktike : tactics (strategy)  
 tal : bottom  
 talium : thallium  
 tamar : date fruit  
@@ -1835,6 +1833,7 @@ tarif : fee (fare, tariff, rate)
 tarjum : translation (interpretation)  
 tarjuma : translate (interpret)  
 tarjumer : interpreter (translator)  
+tatike : tactics (strategy)  
 tatu : tattoo  
 tawa : frying pan  
 tay : Thai (Thailand)  
