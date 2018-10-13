@@ -141,6 +141,7 @@ ask (inquire)   : kia
 ask (request; please)   : cing  
 asparagus   : lusun  
 aspirin   : aspirin  
+Assyria   : axuria  
 asthma   : asma  
 athlete (sportsman)   : keler  
 atom   : atom  
@@ -459,6 +460,7 @@ consider (regard)   : konsida
 consonant   : konson  
 consume (eat or drink)   : nyama  
 continue (resume)   : kontinu  
+conventional (customary, traditional)   : rasmi  
 cook (chef)   : kuker  
 cook (prepare food)   : kuka  
 Cook Islands   : kuke nesia  
@@ -505,6 +507,7 @@ curtain   : parde
 curve (bend)   : kurbe  
 curvy (curved)   : kurbi  
 cushion (pillow)   : kusen  
+custom (tradition, practice, convention)   : rasme  
 cut   : kata  
 cute (sweet)   : kaway  
 Cyprus   : kipris  
@@ -534,7 +537,6 @@ demon   : demon
 Denmark   : dania  
 dentist   : dante mediker  
 depict (describe, illustrate)   : grafa  
-depiction (graph)   : graf  
 desire (lust)   : kam  
 detail   : detal  
 development   : fajan  
@@ -557,7 +559,6 @@ divine (godly)   : dewi
 Djibouti   : jibutia  
 do (make, act)   : fa  
 do yoga   : yoga  
-doctor (physician, healer)   : dokter  
 doctor (physician, healer)   : mediker  
 doctor (scholar who has attained doctorate)   : dotor  
 doctorate   : dotoria  
@@ -676,7 +677,6 @@ fast (quick)   : rapid
 fat (grease)   : fete  
 fate (destiny, kismet)   : kisme  
 father   : papá  
-father (dad)   : papa  
 fatty (greasy)   : feti  
 fault (sin, blame, defect, guilt)   : dox  
 fear (phobia)   : fobe  
@@ -700,6 +700,7 @@ finger ring   : finger wen
 finish (put an end to)   : fina  
 finished   : fini  
 Finland   : suomia  
+Finnish   : suomi  
 fire   : fay  
 first (number one)   : numer un  
 fish   : fix  
@@ -803,7 +804,7 @@ grandfather   : opá
 grandmother   : omá  
 grape   : putaw  
 grapheme   : grafem  
-graphic (descriptive)   : grafi  
+graphic (pictorial)   : grafi  
 grass   : gras  
 grave (tomb)   : gabre  
 graveyard   : gabre stan  
@@ -854,7 +855,6 @@ have sex   : seksa
 hazard (chance)   : zar  
 he or she or it   : ye  
 head   : sar  
-heal (cure)   : dokta  
 heal (cure)   : medika  
 hear (listen)   : auda  
 heart   : xim  
@@ -922,7 +922,7 @@ idea   : idey
 ideal (optimal)   : ideyal  
 idealisme   : ideyalisme  
 if (suppose, assume)   : jadi  
-image (picture)   : sure  
+illustrator (graphic artist)   : grafer  
 imagine (fantasize)   : fantaza  
 important   : muhim  
 imprison (jail)   : prizona  
@@ -963,13 +963,12 @@ jailer (imprisoner)   : prizoner
 Jamaica   : jameyka  
 January   : mes 1 (mes un)  
 Japan   : nipon  
-jasmine   : moli  
+jasmine   : malike  
 jazz   : jaz  
 jealous   : jelos  
 Jersey   : jersia  
 Jesus   : yesu  
 Jewish   : yehudi  
-job (occupation)   : pexa  
 joint (league)   : lige  
 joke   : joke  
 joker   : joker  
@@ -1051,7 +1050,8 @@ Lesotho   : soto
 less   : min  
 lesson   : darse  
 let's   : hayda  
-letter (message)   : leter  
+letter (character, written symbol)   : harfe  
+letter (message)   : letre  
 lettuce   : letis  
 lexeme   : leksem  
 Liberia   : liberia  
@@ -1210,6 +1210,7 @@ money   : pese
 Mongol   : mongol  
 Mongolia   : mongolia  
 mongoose   : mungus  
+monism   : monisme  
 monster   : monster  
 Montenegro   : cerna gora  
 month   : mes  
@@ -1244,6 +1245,7 @@ my   : mi da
 Myanmar (Burma)   : bama  
 myth (divine story)   : dewi sage  
 ##n  
+Nahuatl   : nawatli  
 Nahuatl (Nahua)   : nawati  
 nail (fingernail)   : nahun  
 nail (spike)   : ding  
@@ -1328,7 +1330,7 @@ old (ancient)   : puran
 olive   : zaitun  
 Oman   : oman  
 one (1)   : un  
-only (just)   : sol  
+only (alone, solely, just)   : mon  
 open   : kaya  
 open (not closed)   : kay  
 opinion (view)   : igen  
@@ -1424,7 +1426,8 @@ physics   : fizike
 physics   : fizikia  
 piano   : piano  
 picnic   : piknike  
-picture (illustrate)   : sura  
+picture (graph, image)   : graf  
+picture book   : graf buke  
 pidgin (contact language)   : pijin  
 pie (pastry)   : pay  
 pig   : goró  
@@ -1518,6 +1521,7 @@ problem   : problem
 process (procedure)   : proses  
 product   : fakte  
 production   : sania  
+profession (occupation)   : pexe  
 professor   : profesor  
 program   : program  
 programmer (coder)   : programer  
@@ -1628,8 +1632,8 @@ rubber   : gom
 rubidium   : rubidium  
 rule (reign)   : kratia  
 rum   : rom  
-rusi  Russian    
 Russia   : rusia  
+Russian   : rusi  
 rustle   : xaxu  
 ruthenium   : rutenium  
 Rwanda   : rwanda  
@@ -1745,6 +1749,7 @@ sock (stocking)   : soke
 sodium   : natre  
 sofa (couch)   : sofa  
 soft   : komal  
+solar system   : sol sistem  
 solar system   : sor sistem  
 Solomon Islands   : solomon nesia  
 Somalia   : somalia  
@@ -1823,6 +1828,7 @@ suggestion (proposal)   : teyan
 sulfur   : sulfe  
 sum (total)   : sum  
 sum up (add together)   : suma  
+sun   : sol  
 sun   : sor  
 Sunday   : war 7 (war set)  
 superb (wonderful, super)   : super  
@@ -1833,7 +1839,7 @@ surname (family name)   : famil nam
 surpass (go over)   : supra  
 surrender (to give up)   : salima  
 surround (be around)   : sirka  
-sushi   : suxi  
+sushi   : suxí  
 Swahili   : swahili  
 Swaziland   : swazia  
 sweat (perspiration)   : swede  
@@ -1846,7 +1852,7 @@ syrup   : xirope
 system   : sistem  
 systemic   : sistemi  
 ##t  
-table   : mezá  
+table   : meze  
 table (matrix)   : tabel  
 tactics (strategy)   : taktike  
 taiga   : tayga  
@@ -1997,7 +2003,6 @@ United States of America   : uni stan du amerikia
 United States of America   : usamerikia  
 unplug (uncork)   : zibula  
 upper   : supri  
-uranium   : uranium  
 uranium   : uranium  
 Uranus   : uran  
 Urdu   : urdú  

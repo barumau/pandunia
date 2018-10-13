@@ -75,6 +75,8 @@ auda : hear (listen)
 australia : Australia  
 awakate : avocado  
 awar : damage (wreck)  
+axur : Assur  
+axuria : Assyria  
 ay : ouch! (alas!)  
 azeria : Azerbaijan  
   
@@ -328,8 +330,6 @@ diske : disc (disk)
 disprosium : dysprosium  
 do : two (2)  
 doicia : Germany  
-dokta : heal (cure)  
-dokter : doctor (physician, healer)  
 dolar : dollar  
 dom : home (residence)  
 doma : live (dwell, reside)  
@@ -549,10 +549,12 @@ gom : rubber
 goró : pig  
 goró manse : pork  
 goton : cotton  
-graf : depiction (graph)  
+graf : picture (graph, image)  
+graf buke : picture book  
 grafa : depict (describe, illustrate)  
 grafem : grapheme  
-grafi : graphic (descriptive)  
+grafer : illustrator (graphic artist)  
+grafi : graphic (pictorial)  
 gram : gram  
 gras : grass  
 grenada : Grenada  
@@ -593,6 +595,7 @@ hamir : yeast
 hangogia : Korea (South)  
 haos : chaos (disorder, turmoil)  
 harabi : bad (ruined, spoiled)  
+harfe : letter (character, written symbol)  
 harmoni : harmonius  
 harmonia : harmony  
 has : special (distinct)  
@@ -959,6 +962,9 @@ kurium : curium
 kurse : chair  
 kusen : cushion (pillow)  
 kuwaytia : Kuwait  
+  
+##l  
+  
 laba : bugle (horn instrument)  
 labia : lip  
 lada : load (to charge)  
@@ -978,9 +984,6 @@ lat cili : chili pepper
 latif : nice (pleasant, lovely)  
 latini abace : Latin alphabet  
 latvia : Latvia  
-  
-##l  
-  
 laxa : release (let, let go)  
 laya : come  
 le : that one  
@@ -988,8 +991,8 @@ lekse : word
 leksem : lexeme  
 leng : cold  
 lenxa : practice (to exercise)  
-leter : letter (message)  
 letis : lettuce  
+letre : letter (message)  
 li : that (those)  
 liba : erect  
 libel : dragonfly  
@@ -1078,6 +1081,7 @@ malawia : Malawi
 malayali : Malayali (Malayalam)  
 malaysia : Malaysia  
 malia : Mali  
+malike : jasmine  
 malte : Malta  
 malvina nesia : Falkland Islands (Malvinas)  
 mam : breast (boob, tits)  
@@ -1180,7 +1184,7 @@ mey : every (each)
 mey ren : everybody (everyone)  
 mey xey : everything  
 mey zaman : always  
-mezá : table  
+meze : table  
 mi : I (me)  
 mi da : my  
 micin : MSG (monosodium glutamate)  
@@ -1219,10 +1223,11 @@ mog : ink
 mola : grind (grind in mill)  
 moldovia : Moldova  
 moler : miller  
-moli : jasmine  
+mon : only (alone, solely, just)  
 monako : Monaco  
 mongol : Mongol  
 mongolia : Mongolia  
+monisme : monism  
 monster : monster  
 moral : morality (ethics)  
 morfe : morph  
@@ -1282,6 +1287,7 @@ nasialisme : nationalism
 natre : sodium  
 nauru : Nauru  
 nawati : Nahuatl (Nahua)  
+nawatli : Nahuatl  
 nayjiria : Nigeria  
 nederlandi antilia : Netherlands Antilles  
 nederlandia : Netherlands  
@@ -1406,7 +1412,6 @@ pang : thick (fat)
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
-papa : father (dad)  
 papá : father  
 papaya : papaya  
 paper : paper  
@@ -1443,7 +1448,7 @@ permis : permission
 permisa : allow (permit)  
 peru : Peru  
 pese : money  
-pexa : job (occupation)  
+pexe : profession (occupation)  
 pey : payment  
 peya : pay  
 piano : piano  
@@ -1557,6 +1562,8 @@ rang : color
 rapid : fast (quick)  
 rase : race (ethnicity)  
 rasisme : racism  
+rasme : custom (tradition, practice, convention)  
+rasmi : conventional (customary, traditional)  
 raste : growth  
 rastu : grow  
 ratiba : order (arrange)  
@@ -1612,7 +1619,7 @@ ruk sak : backpack (rucksack)
 rula : roll  
 rundi : Burundi  
 rupe : appearance (looks)  
-rusi  Russian  
+rusi : Russian  
 rusia : Russia  
 rutenium : ruthenium  
 rutin : routine (habit)  
@@ -1737,7 +1744,8 @@ sofa : sofa (couch)
 sofi : wise  
 sofia : wisdom  
 soke : sock (stocking)  
-sol : only (just)  
+sol : sun  
+sol sistem : solar system  
 solomon nesia : Solomon Islands  
 somalia : Somalia  
 son : sleep  
@@ -1779,18 +1787,17 @@ sum : sum (total)
 suma : sum up (add together)  
 sun : soon  
 sundar : beautiful (handsome)  
+suomi : Finnish  
 suomia : Finland  
 supe : soup  
 super : superb (wonderful, super)  
 supra : surpass (go over)  
 supre : overpass  
 supri : upper  
-sura : picture (illustrate)  
-sure : image (picture)  
 suria : Syria  
 surinam : Suriname  
 surinam bax : Sranan Tongo  
-suxi : sushi  
+suxí : sushi  
 suy : water  
 swahili : Swahili  
 swazia : Swaziland  
@@ -1930,7 +1937,6 @@ uni : united
 uni stan du amerikia : United States of America  
 unia : union  
 uran : Uranus  
-uranium : uranium  
 uranium : uranium  
 urdú : Urdu  
 urdun : Jordan  
