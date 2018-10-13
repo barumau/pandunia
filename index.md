@@ -7,7 +7,7 @@
 
 ![](http://pandunia.info/bander/cn.png) [学 泛世界语](zhongwen/index.md)
 
-![](http://pandunia.info/bander/es.png) [Aprende Pandunia en Español](espanya/index.md)
+![](http://pandunia.info/bander/es.png) [Aprende Pandunia en Español](espani/index.md)
 
 ![](http://pandunia.info/bander/br.png) ![](http://pandunia.info/bander/pt.png) [Aprenda pandunia em português](portugal/index.md)
 
