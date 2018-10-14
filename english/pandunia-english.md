@@ -22,9 +22,10 @@ alkol : alcohol
 alkoli : alcoholic  
 almar : cupboard (closet, cabinet, wardrobe)  
 almas : diamond  
+altar : altar  
 alter : other  
 altera : change (alter)  
-alum : aluminium  
+alumin : aluminium  
 am : love (affection)  
 ama : love (to be in love with)  
 amari : Amhara (an Ethiopian ethnic group and language)  
@@ -46,13 +47,14 @@ anten : antenna (aerial)
 anus : anus  
 anusi : anal  
 aple : apple  
-ara : saw tool  
 arabi : Arabic  
 aranje : orange (fruit)  
 aranji : orange (orange-colored)  
 arbuze : watermelon  
+are : area (extent of surface)  
 argentin : Argentina  
 argon : argon  
+aria : area (region)  
 armia : army  
 arsen : arsenic  
 arte : art  
@@ -149,7 +151,6 @@ belarus : Belarus
 belgia : Belgium  
 belizia : Belize  
 bence : bench  
-beng : sick (ill)  
 benin : Benin  
 benzin : gasoline (petrol)  
 berande : veranda (balcony, terrace, porch)  
@@ -163,6 +164,7 @@ bey : suffer (passivizing verb)
 biblia : Bible  
 bina : build (construct)  
 binde : dot (spot)  
+bing : ill (sick)  
 bir : beer  
 bis : kiss  
 biskute : biscuit (cookie)  
@@ -229,6 +231,8 @@ camce : spoon
 campion : champion  
 cang : often (frequently)  
 cans : opportunity (chance)  
+canta : sing  
+cante : song  
 capa : press (imprint)  
 cape : print (stamp)  
 car : four (4)  
@@ -240,7 +244,7 @@ ceka : check (to examine)
 celó : cello  
 centi : centi- (per cent)  
 cerium : cerium  
-cerna gora : Montenegro  
+cerni goria : Montenegro  
 cesium : caesium  
 ci : this (these)  
 cile : Chile  
@@ -432,6 +436,8 @@ fem rajer : queen
 fen : part (fraction)  
 fena : divide (to partition)  
 fer : iron  
+fera : go on vacation  
+feria : vacation (holiday)  
 fermium : fermium  
 festa : celebrate (party)  
 feste : party (celebration, festival)  
@@ -479,7 +485,7 @@ fransi polinesia : French Polynesia
 fransia : France  
 fransium : francium  
 fubú : belly (abdomen)  
-fuga : resume (recover, restore)  
+fuga : return (restore, recover, resume)  
 fuka : wear clothes  
 fuke : clothing  
 ful : full  
@@ -499,15 +505,14 @@ gadolinium : gadolinium
 gajá : elephant  
 galeria : gallery (exhibition hall)  
 galium : gallium  
-gama : marry  
+gam : emotion (feeling)  
+gama : feel  
 gambia : Gambia  
 gamel : camel  
-gami : married  
-gamia : marriage (matrimony)  
-gan : song  
-gana : sing  
-gana : Ghana  
-ganda : Uganda  
+gan : dry  
+gan putaw : raisin  
+ganá : Ghana  
+gandá : Uganda  
 gang : just (recently)  
 ganga : Ganges  
 ganjá : hemp (cannabis)  
@@ -515,6 +520,7 @@ ganya : earn (gain)
 garante : guarantee  
 gardin : garden  
 garmi : warm  
+garmi masal : garam masala  
 gas : gas  
 gaw : high  
 gawn : tunic (gown)  
@@ -530,6 +536,7 @@ genca : examine (inspect, check)
 genzi : Guernsey  
 germanium : germanium  
 geta : get (receive, obtain, take)  
+gey : gay (homosexual)  
 gida : steer  
 giga : billion (giga-)  
 gim : gold  
@@ -571,7 +578,8 @@ gurú : guru (mentor)
 gusta : taste (sense flavor)  
 guste : taste (flavor)  
 gustu ka : taste like  
-  
+guy : fiend (evil spirit)  
+
 ##h  
   
 habar : news  
@@ -584,7 +592,7 @@ hakim : judgment (sentence)
 hakimer : judge (referee)  
 hali : empty  
 halif : caliph  
-halo' : hello (hi)  
+haló : hello (hi)  
 halos : halo  
 hamake : hammock  
 hamar : hammer  
@@ -614,8 +622,8 @@ helpe : help (aid, assistance)
 hem : hmm  
 hema : ponder (think)  
 hen : hate  
-hero' : hero  
-hero'i : heroic  
+heró : hero  
+herói : heroic  
 hewan : animal  
 hibride : hybrid (mongrel)  
 hidre : hydrogen  
@@ -692,7 +700,7 @@ jaket : jacket
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
 jama : collect (gather, bring together)  
-jameyka : Jamaica  
+jamaike : Jamaica  
 jami : collective  
 jamia : collection (congregation)  
 jamula : disperse  
@@ -706,7 +714,7 @@ jangi : military
 jani : known  
 jar : jug (jar)  
 jayer : Algeria  
-jaz : jazz  
+jaze : jazz
 jebe : pocket  
 jele : gel (jelly)  
 jelos : jealous  
@@ -725,7 +733,7 @@ jijú : spider
 jika : straighten  
 jiki : straight  
 jin : near (close)  
-jins : gender (sex)  
+jins : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
 jiwa : live  
@@ -924,13 +932,14 @@ koy zaman : sometime
 kratia : rule (reign)  
 krem : cream  
 krim : crime  
-kripton : krypton  
+krimi : criminal
 kriste : Christ (messiah)  
 kriste jen : Christmas  
 kristi : Christian  
 kristia : Christendom  
 kristisme : Christianity  
 krita : cry (shout)  
+kriton : krypton  
 kriz : crisis  
 krizi : critical (pertaining to crisis)  
 krom : chromium  
@@ -938,7 +947,7 @@ krot : mole (burrowing animal)
 krus : cross  
 kuan : wide  
 kuang : mineral (ore)  
-kuang su : mineral water  
+kuang suy : mineral water  
 kubá : Cuba  
 kube : cube  
 kuka : cook (prepare food)  
@@ -1102,21 +1111,19 @@ marati : Marathi
 maraton : marathon  
 marca : walk (march)  
 margarin : margarine  
-mariana nesia : Northern Mariana Islands  
+mari : married  
+maria : marriage (matrimony)  
+marian nesia : Northern Mariana Islands  
 marka : mark (leave a mark)  
 marke : mark (trace)  
 marmar : marble  
-marsi : Mars  
-marta : kill  
-marte : death  
-marter : killer  
-marti : dead (deceased)  
-martu : die  
+marse : Mars  
 mas : mass (dough, lump)  
 masa : knead (massage)  
 masaje : massage  
-masala : issue  
+masal : spice (seasoning)  
 maske : mask (camouflage)  
+masle : issue (affair, concern)  
 matike : mathematics (math)  
 matiker : mathematician  
 matras : mattress  
@@ -1230,6 +1237,11 @@ moral : morality (ethics)
 morfe : morph  
 morfem : morpheme  
 moris : Mauritius  
+morta : kill  
+morte : death  
+morter : killer  
+morti : dead (deceased)  
+mortu : die  
 mos : moss  
 mosim : season  
 moskit : mosquito  
@@ -1309,6 +1321,8 @@ nikaragua : Nicaragua
 nikel : nickel  
 nil : blue  
 nilon : nylon  
+ninde : insult (offence)  
+nindi : rude (offensive)  
 niobium : niobium  
 nipon : Japan  
 niponium : nihonium  
@@ -1434,7 +1448,7 @@ pay : pie (pastry)
 ped : foot  
 pelmen : dumpling (ravioli, pelmeni)  
 penda : hang (dangle)  
-penis : penis  
+penis : penis (phallus)  
 penta : paint  
 penter : painter  
 pera : pear  
@@ -1638,6 +1652,8 @@ safer : cleaner
 safi : clean (pure)  
 saga : tell (narrate)  
 sage : tale (legend, saga)  
+saha : correct (make right)  
+sahi : right (correct, accurate)  
 sak : bag (sack)  
 sal : salt  
 salade : salad  
@@ -1698,7 +1714,7 @@ semu : resemble (be like)
 sen : stage (scene)  
 senegal : Senegal  
 sens : sense  
-senta : feel (emote)  
+senta : feel (sense by touch)  
 serbia : Serbia  
 serca : search  
 serebre : brain  
@@ -1753,8 +1769,6 @@ sona : sleep (be asleep)
 sonda : sound (make a sound)  
 sonde : sound (audio)  
 song : pine tree  
-sor : sun  
-sor sistem : solar system  
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
@@ -1785,7 +1799,7 @@ sultan : power (authority, rule)
 sum : sum (total)  
 suma : sum up (add together)  
 sun : soon  
-sundar : beautiful (handsome)  
+sundar : beautiful (handsome, pretty)  
 suomi : Finnish  
 suomia : Finland  
 supe : soup  
@@ -1867,8 +1881,9 @@ teza : argue (claim)
 teze : argument (thesis)  
 ticin : bow instrument (violin, etc.)  
 tika : rectify (make correct)  
+tike : tikka (piece)  
+tike masal : tikka masala  
 tikete : ticket  
-tiki : right (correct)  
 tim : team  
 tin : can (tin can)  
 tira : pull  
@@ -1880,6 +1895,7 @@ to : to (till, until, for)
 toca : touch  
 tofú : tofu  
 togó : Togo  
+tolera : tolerate  
 tolo : top (spinning top)  
 tomate : tomato  
 ton : tone (note, pitch, shade)  
@@ -2058,8 +2074,9 @@ xuler : repairer
   
 ##y  
   
-yaka : estimate (approximate)  
-yaki : about (approximately)  
+yaga : estimate (approximate)  
+yagi : about (approximately)  
+yake : yak  
 yakin : certain (sure)  
 yala : hurry (hasten)  
 yaman : Yemen  
@@ -2067,6 +2084,7 @@ yang : kind (type, style)
 yani : that is (in other words, i.e.)  
 yasen : ash tree  
 yatim : orphan  
+yatim kan : orphanage  
 ye : he or she or it  
 yehudi : Jewish  
 yemen : they  
