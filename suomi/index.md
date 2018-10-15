@@ -25,7 +25,16 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 
 - [Kuvallinen oppikurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Tässä pieni aivopähkinä! Opi panduniaa pelkkien kuvien avulla!
 - [Tulkkisanakirja](fraze.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
+- [Kielioppi](kanun.md)
+- [Ääntäminen](abc.md)
+- [Lauseita](fraze.md)
+- Sanastoja
+    - [Pandunia-suomi](pandunia-suomi.md)
+    - [Suomi-pandunia](suomi-pandunia.md)
+    - [Luettelo sanojen alkuperästä](../pandunia/loge_asle.md) (vain panduniaksi)
 - [Tarinoita ja sarjakuvia panduniaksi](http://www.pandunia.info/pandunia/index.html)
+
+
 
 ## Jutellaan!
 
