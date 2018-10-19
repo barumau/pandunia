@@ -3,8 +3,8 @@ Spelling of Pandunia
 
 The Basic Latin alphabet is used for writing Pandunia. Here is the alphabet of Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
-    Pandunia: a b c  d e f g h i j  k l m n o p r s t u w x y z '
-    IPA:     [a b tʃ d e f g h i dʒ k l m n o p r s t u w ʃ j z]
+    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is silent. Every letter has one sound, always the same.
 
@@ -31,7 +31,6 @@ Consonant Sounds
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
-    '
 
 Most consonants are pronounced same as in English. So the pronunciation of **b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
 
@@ -44,21 +43,28 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **c** is pronounced like CH in _chip_.
 - **j** is pronounced like the English J.
 - **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end of a word, the **g** in **ng** can be silent. So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
-- **'** is a mute consonant. It doesn't have a sound but it can affect the location of the accented syllable.
 
 
 
 ## Stress Accent
 
-The stress is on the syllable, which is before the last consonant.
+The stressed syllable is before the last consonant.
 
 1. Words with only one syllable carry the stress. Ex. máw, cíng.
-2. The stress is on the last syllable in words that end with a consonant. Ex. komún, bazár, kamís, barú'.
+2. The stress is on the last syllable in words that end with a consonant. Ex. komún, bazár, kamís.
 3. The stress is on the second last syllable in words that end with a vowel. Ex. nówi, dúnia, musíke.
 
-> **dúnia sí mimén da sundár planéte.**  
-> **mí wól lóga komún báxa, yé sí pandúnia.**  
-> **yé nó báta batá'.**
+
+     dunia si mimen da sundar planete.
+    /dúnia sí mimén da sundár planéte./
+
+     mi wol loga komun baxa, ye si pandunia.
+    /mí wól lóga komún báxa, yé sí pandúnia./
+
+If the stressed syllable is other than stated in the rules above, it is marked with the acute accent mark (´).
+
+     darse gurú suku kafé.
+    /dárse gurú súku kafé./
 
 
 ## Letter Case

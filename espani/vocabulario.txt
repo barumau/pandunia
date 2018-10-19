@@ -239,7 +239,7 @@ kot	chaqueta, saco, abrigo
 krus	cruz
 kupa	cúpula, bóveda, sótano
 kupon	cupón
-kursi	silla, sillón
+kurse	silla, sillón
 kusen	almohada, cojín
 lusun	espárragos
 makala	artículo, escrito

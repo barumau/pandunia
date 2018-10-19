@@ -748,13 +748,13 @@ roza	Роза
 rol	роль
 rom	ром
 rose	роса
-rosia	Россия
 boka	рот
 rotor	ротор
 kuang	руда
 hat	рука
 rola	рулон
-ruski	русский
+rusi	русский
+rusia	Россия
 rutin	рутин
 kalam	ручка
 matci	рыба
@@ -843,7 +843,7 @@ libel	стрекоза
 bana	строить
 fila	строка
 darsa ban	Студент (ученик)
-kursi	стул
+kurse	стул
 sabat	суббота
 var 6 (var sis)	суббота
 sudan	Судан

@@ -117,7 +117,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **bolgaria** : Bulgaria  
 **britan** : Britain (UK)  
 **danmark** : Denmark  
-**doic** : Germany  
+**doicia** : Germany  
 **espanya** : Spain  
 **esti** : Estonia  
 **frans** : France  
@@ -134,7 +134,7 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **osteraih** : Austria  
 **polska** : Poland  
 **portugal** : Portugal  
-**rosia** : Russia  
+**rusia** : Russia  
 **serbia** : Serbia  
 **slowakia** : Slovakia  
 **slowenia** : Slovenia  

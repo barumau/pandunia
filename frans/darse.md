@@ -140,7 +140,7 @@ Formuler des demandes
 ### Dialogue
 
 ☻: **salam!** = Bonjour !  
-☺: **salam! cing sidu.** = Bonjour ! Asseyez-vous je vous prie !  
+☺: **salam! cing sida.** = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.** = Merci.  
 ☺: **cing nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
 ☻: **mi nyama ca. danke.** = Je prends du thé, merci.  
@@ -171,7 +171,7 @@ Avez-vous noté comment la traduction de **cing** a changé entre les deux phras
 
 La phrase **cing salama ye** est un modèle très utile pour les formules de politesses.
 
-> **cing sidu.** = Asseyez-vous s'il vous plaît..  
+> **cing sida.** = Asseyez-vous s'il vous plaît..  
 > **cing dona kafe.** = S'il vous plaît, donnez-moi du café.  
 > **cing dona ca.** = S'il vous plaît, donnez-moi du thé. 
 > **cing nyama ca.** = S'il vous plaît, prenez un peu de thé.  
@@ -200,16 +200,16 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**ca** thé. **cing** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sidu** s'asseoir (être assis). **nyama** manger ou boire, consommer.
+**ca** thé. **cing** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sida** s'asseoir (être assis). **nyama** manger ou boire, consommer.
 
 
 ### Réponses aux exercices
 
 1. ye nyama ca.
-2. xefe cing ye sidu.
+2. xefe cing ye sida.
 3. cing nyama kafe u ca.
 4. mama cing mi safa kamer.
-5. xefe sidu i nyama kafe.
+5. xefe sida i nyama kafe.
 
 
 --------------------------------------------------------------------------------

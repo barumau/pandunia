@@ -22,14 +22,14 @@ These are the 11 basic rules of Pandunia language.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Nouns have a single, unchanging form.
 4. The adjectives and the adverb have the same form. They come before the word that they modify. Frequently adjectives end in **-i**.
-    - ex. 1. **bon pang** = Good bread.
+    - ex. 1. **bon nan** = Good bread.
     - ex. 2. **tu bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side.
     - ex. **poste sanduke** = mailbox
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **mi nyama pang.** = I eat bread.
+    - ex. **mi nyama nan.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **pang nyamu.** = The bread is eaten.
+    - ex. **nan nyamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
     - ex. **mi cing tu dona mone.** = I ask you to give money.
@@ -47,12 +47,12 @@ These are the 11 basic rules of Pandunia language.
 
 A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu'** - a stone, stones, the stone or the stones  
-> **meza'** - a table, tables, the table or the tables  
+> **batú** - a stone, stones, the stone or the stones  
+> **meze** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and our only moon.
 
 ### 2.2. Number
 
@@ -60,8 +60,8 @@ Nouns are unaffected by number, i.e. nouns have the same form in singular and pl
 
 An easy way to emphasize plurality is to repeat the noun.
 
-> **batu' batu'** - stones, lots of stones  
-> **tara' tara'** - stars, lots of stars  
+> **batú batú** - stones, lots of stones  
+> **xing xing** - stars, lots of stars  
 
 ### 2.3. Gender
 
@@ -73,9 +73,9 @@ Some words carry _natural gender_. For example **fem** (woman) is feminine and *
 
 Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
 
-> **surya guang** - sunlight  
-> **luna guang** - moonlight  
-> **luna batu'** - moonstone
+> **sol nur** - sunlight  
+> **lun nur** - moonlight  
+> **lun batú** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -87,19 +87,19 @@ A modifier is a word that adds some quality or description to the thing denoted 
 
 An adjective is a word that adds a particular quality for a noun. In Pandunia an adjective is a modifier that is before a noun.
 
-> **day batu'** - big stone
-> **day meza'** - big table  
-> **gaw meza'** - high table
+> **day batú** - big stone
+> **day meze** - big table  
+> **gaw meze** - high table
 > **bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batu' day.** - The stone is big.  
-> **meza' gaw.** - The table is high.
+> **batú day.** - The stone is big.  
+> **meze gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meza' gaw.** - Big table is high.
+> **day meze gaw.** - Big table is high.
 
 
 ### 3.2 Modifying a verb
@@ -139,15 +139,15 @@ Modifiers can be compared.
 - **minim** (least) indicates the superlative of inferiority
 - **sem** (as) indicates the comparison of equality
 
-Particle **kom** relates the adverbs of comparison to the point of comparison.
+Particle **ka** relates the adverbs of comparison to the point of comparison.
 
-> **mi si max bon kom tu.** - I am better than you.  
-> **tu loga sem bon kom mi.** - You speak as well as mi.
+> **mi si max bon ka tu.** - I am better than you.  
+> **tu loga sem bon ka mi.** - You speak as well as mi.
 
 
 #### 3.6. Modifier ending
 
-Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
+Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _oral, spoken_, **suki** _happy_, **kitabi** _written, textual_.
 
 The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
 
@@ -156,18 +156,18 @@ The ending is not applied to description roots that end in a single consonant th
 
 ## 4. Numerals
 
-Sometimes it is known from the context how many objects are spoken about. For example, the word **surya** (sun) normally refers to just one sun because there is only one.
+Sometimes it is known from the context how many objects are spoken about. For example, the word **sol** (sun) normally refers to just one sun because there is only one.
 
 Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
 
-> **un tara'** - one star  
-> **do tara'** - two stars  
-> **sam tara'** - three stars  
-> **xaw tara'** - few stars
-> **poli tara'** - several stars (two or more)  
-> **multi tara'** - many stars
+> **un xing** - one star  
+> **do xing** - two stars  
+> **sam xing** - three stars  
+> **xaw xing** - few stars
+> **poli xing** - several stars (two or more)  
+> **multi xing** - many stars
 
-> **un day meza'** - one big table  
+> **un day meze** - one big table  
 > **do day kurse** - two big chairs  
 > **sam bon kurse** - three good chairs
 
@@ -267,6 +267,12 @@ The adjectival interrogative pronoun is **ki** and it meanst the same as English
 > **ki zaman?** - When? (What time?)  
 > **ki yang?** - How? (What manner?)  
 
+Adjectives are questioned with **ki**.
+
+> **ki day?** - How big?  
+> **ki lil?** - How small?  
+> **ki day da maw tu ada?** - How big cat do you have?
+
 --------------------------------------------------------------------------------
 
 ## 6. Verbs
@@ -299,7 +305,7 @@ The most common word order in Pandunia is subject-verb-object (SVO). In this sen
 
 Examples:  
 **mi wida yemen.** - I see them.  
-**tu beka pang.** - You bake bread.  
+**tu beka nan.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -313,7 +319,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
 
 Examples:  
 **ke tu wida?** - What do you see?  
-**mi nyama pang, jo tu beka.** - I eat bread _that you baked._
+**mi nyama nan, jo tu beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -349,7 +355,7 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **mi yemen widu.** - _I them see._  
-**tu pang beku.** - _You bread bake._
+**tu nan beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -362,7 +368,7 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**pang beku tu.** - Bread is baked by you.  
+**nan beku tu.** - Bread is baked by you.  
 **tu suku mi.** - You are pleased by me.
 
 #### 6.3.3. VSO order
@@ -380,7 +386,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e. agent).
 
 > **mi widu.** - I am seen.  
-> **pang beku.** - Bread is baked.  
+> **nan beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
@@ -394,12 +400,12 @@ Most verbs end in **-a** and **-u**. A handful of verbs are without a standard e
 
 ## 7. Sentences
 
-### 8.1. Observations
+### 7.1. Observations
 
 Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
 
 > **maw!** - A cat!  
-> **pluva!** - (It) rains!  
+> **barxa!** - (It) rains!  
 
 
 ### 7.2. Stative Sentences
@@ -429,9 +435,9 @@ Also two personal pronouns can be juxtaposed.
 When the subject is a noun, the word **si** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
 
 > **sara si bon.** - Sara is good.  
-> **batu si day.** - The stone is big.  
-> **meza si nowi.** - The table is new.  
-> **meza no law.** - The table is not old.
+> **batú si day.** - The stone is big.  
+> **meze si nowi.** - The table is new.  
+> **meze no law.** - The table is not old.
 
 
 #### 7.2.3. With adjective subject
@@ -453,13 +459,13 @@ In predicates of action, the main word in the predicate is a verb (i.e. an actio
 
 Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
 
-> **mi nyama apel.** - I eat apples.  
+> **mi nyama aple.** - I eat apples.  
 > **mi auda musike.** - I hear music.  
 > **mi wida tu.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
 
-**mi apel nyamu.** - _I apples eat._
+**mi aple nyamu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
 
@@ -472,7 +478,7 @@ In the passive voice there is no agent subject in the sentence. There is only th
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **pang beku.** - Bread is baked.  
+> **nan beku.** - Bread is baked.
 
 Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
 
@@ -488,10 +494,10 @@ In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
 > **auda musike.** - Listening music.  
-> **beka pang.** - Baking bread.
+> **beka nan.** - Baking bread.
 
 
-#### 7.5. All Possible Word Orders
+### 7.5. All Possible Word Orders
 
 There are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
 
@@ -545,8 +551,8 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 #### 7.8.2. Short pivot structure (VVO)
 
-> **mi cing tu lay dom.** - I ask you to come home.  
-> **cing lay dom!** - Please come home! (Literally: _Request come home!_)
+> **mi cing tu laya dom.** - I ask you to come home.  
+> **cing laya dom!** - Please come home! (Literally: _Request come home!_)
 
 
 
@@ -578,14 +584,14 @@ Particle **si** is affirmative and **no** is negative. **si** affirms the existe
 Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
 
 > **mi si ren.** - I am a person.  
-> **ye si nowi meza.** - It is a new table.
+> **ye si nowi meze.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **no**.
 
 > **mi no ren.** - I'm not a person.  
-> **ye no nowi meza.** - It's not a new table.
+> **ye no nowi meze.** - It's not a new table.
 
 The word **no** is used for denying anything. It affects always the next word.
 
@@ -596,12 +602,18 @@ The word **no** is used for denying anything. It affects always the next word.
 The particles **si** and **no** are used also for answering questions.
 
 > **kia tu wida mi?** - Do you see me?  
-> **si. (mi wida tu.)** - Yes. (I see you.)  
+> **si. (mi si wida tu.)** - Yes. (I do see you.)  
+> **no. (mi no wida tu.)** - No. (I don't see you.)
+
+Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
+
+> **kia tu no wida mi?** - Don't you see me?  
+> **si. (mi si wida tu.)** - Yes. (I do see you.)  
 > **no. (mi no wida tu.)** - No. (I don't see you.)
 
 
 
-### Modifier particles
+### 9.2. Modifier particles
 
 Particles **da** and **du** are used to mark possession and modification. **da** connects the modifying word or phrase to the modified word. **du** works in the opposite direction. It connects the modified word to the modifier.
 
@@ -611,15 +623,15 @@ The modifier particle can be used for any possessive noun or pronoun.
 
 With regards to possession, **da** works like apostrophe-s ('s) in English.
 
-> **maria da mama** - Maria's mother  
+> **maria da mamá** - Maria's mother  
 > **mi da dom** - my house  
-> **mi da papa da dom** - my father's house
+> **mi da papá da dom** - my father's house
 
 **du** works like "of" in English.
 
-> **mama du maria** - the mother of Maria
+> **mamá du maria** - the mother of Maria
 > **dom du mi** - the house of mine  
-> **dom du papa du mi** - the house of the father of mine
+> **dom du papá du mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -627,12 +639,12 @@ Another way to use these particles is to connect an adjective or other words wit
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-> **roza rang da labe** - rose-colored lips  
+> **roze rang da labe** - rose-colored lips  
 > **saman rang da yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **labe du roza rang** - lips of the color of the rose  
+> **labe du roze rang** - lips of the color of the rose  
 > **yen du saman rang** - eyes of the color of the sky
 
 #### 9.2.3. Relative clauses
@@ -645,14 +657,14 @@ Here **du** has a similar role as English relative pronouns _which_, _that_, _wh
 
 If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
 
-> **mi wida man _du nyama apel_.** - I see a man _who eats apples_.  
+> **mi wida man _du nyama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **da** immediately after the verb.
 
-> **mi wida _apel nyamu da_ man.** - I see an _apple-eating_ man.
+> **mi wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
 
-> **buke dugu da ren na kamer.** = The book-reading person is in the room.
-> **ye duga da buke na meza.** = The book, that he/she reads, is on the table.  
+> **buke dugu da ren na kamar.** = The book-reading person is in the room.
+> **ye duga da buke na meze.** = The book, that he/she reads, is on the table.  
 
 
 ### 9.3. Modal Particles
@@ -706,7 +718,6 @@ A preposition begins a prepositional phrase. In a simple prepositional phrase th
 > **mi sona ze xam to suba.** - I sleep since evening until morning.  
 > **mi safara ze london to paris.** - I travel from London to Paris.  
 
-
 Prepositions can be complemented also by a verb phrase. Then they refer to time.
 
 > **mi denga ze tu enda.** - I have waited since you left.  
@@ -733,8 +744,8 @@ I speak with friends in Pandunia in telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-> **mi kata pang.** - I cut bread.  
-> **mi kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+> **mi kata nan.** - I cut bread.  
+> **mi kata nan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 > **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
@@ -746,33 +757,32 @@ Here are some verbs that are usable as prepositions:
 > **loka** - to occupy, to be located; at  
 > **sirka** - to surround; around  
 > **supra** - to surpass; over, above  
-> **karena** - be caused by; because  
 
 #### 10.1.4. Verbs without prepositions
 
 Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
 
 > **mi laya dom.** - I come home.  
-> **tu sidu kurse.** - You sit (on) the chair.  
-> **ye lala sofa.** - S/he lies (on) the sofa.  
-> **fixe nata daria.** - Fish swim (in) the sea.  
-> **jangar marca daw.** - Warriors march (on) the road.  
+> **tu sida kurse.** - You sit (on) the chair.  
+> **ye lala sofá.** - S/he lies (on) the sofa.  
+> **fix nata daria.** - Fish swim (in) the sea.  
+> **janger marca daw.** - Warriors march (on) the road.  
 
 
 ### 10.2. Preposition of relation
 
-Prepositions **kom** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
+Preposition **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi saba pandunia kom guru.** - I know Pandunia like a master.
+> **mi saba pandunia ka gurú.** - I know Pandunia like a master.
 
-**kom** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **guru** (master) is the point of comparison.
+**ka** relates the verb or the adjective to a point of comparison. In the above example **saba** (know) is the verb and **gurú** (master) is the point of comparison.
 
-**kom** is also used when adjectives are compared.
+**ka** is also used when adjectives are compared.
 
-> **bace si min day kom papa.** - The child is smaller than the father.  
-> **opa si sem day kom papa.** - Grandfather is as big as father.
+> **bace si min day ka papá.** - The child is smaller than the father.  
+> **opá si sem day ka papá.** - Grandfather is as big as father.
 
-**kom** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
+**ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papá** (father) in the examples above.
 
 
 
@@ -810,13 +820,8 @@ The designated vowel endings enable easy derivation of one type of word from ano
 
 There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
 
-**ada** - to have (active verb)  
-**adu** - to belong (passive verb)  
-**ade** - that what is had (noun)  
-
-**mus** or **musu** - to must, to be compelled (passive verb)  
-**musa** - to compel (active verb)  
-**musi** - compulsory, obligatory  
+**wol** - to want (active verb)  
+**ken** - can, to be able to (active verb)  
 
 
 #### 11.1.2. Deriving verbs
@@ -868,7 +873,7 @@ If the root is a place word, then it's adjectival form will mean "that which is 
 
 |                  | Noun        | Adjective   | Verb        |
 |:-----------------|:------------|:------------|:------------|
-| Thing-root       | **manux**   | manuxi      | -           |
+| Thing-root       | **insan**   | insani      | -           |
 | Description-root | bone        | **bon**     | bona        |
 | Action-root      | wole        | woli        | **wol**     |
 
@@ -918,7 +923,7 @@ Creates aggregate nouns. It denotes a group of elements named by the root as a w
 This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
 
 **arabi** Arab, Arabic; **arabia** Arabia  
-**rus** Russian; **rusia** Russia  
+**rusi** Russian; **rusia** Russia  
 **turki** Turk, Turkish; **turkia** Turkey  
 **asia** Asia  
 **indonesia** Indonesia  
@@ -927,6 +932,7 @@ This ending is often found in place names, especially in country names. However 
 Also abstract nouns often end in **-ia**.
 
 **nowi** new, **nowia** newness, novelty  
+**huri** free, **huria** freedom
 
 When it is added after -er, it means a place of work.
 
@@ -990,7 +996,7 @@ It makes always sense to apply the following formulas for a root that is an acti
     - **kitabi kitabe.** - Written writing.
     - **dansi danse.** - Danced dance.
     - **soni sone.** - Sleepy sleep.
-    - **rangi range.** - Colored color.
+    - **rangi range.** - Colorful color.
 2. Production: -a -e
     - **kitaba kitabe.** - To write a writing.
     - **dansa danse.** - To dance a dance.
@@ -1058,9 +1064,9 @@ The hierarchy of word types in Pandunia from the more to the less central is as 
 The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **karena**, here its scope is only to connect **yusef** and **sara**. **karena** is at the top, because it connects the two sub-phrases.
 
 
-    yusef i sara wol darsa pandunia karena ye si bon dunia bax.
+    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
 
-                       karena
+                       sababu
                ┌──────────┴──────────┐
               wol                   si
           ┌────┴──────┐           ┌──┴──┐

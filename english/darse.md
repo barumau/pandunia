@@ -9,21 +9,21 @@ Introducing yourself
 > ☻: **tu si ke?** = Who are you?  
 > ☺: **mi si yusef. tu si ke?** = I am Yusef. Who are you?  
 > ☻: **mi si maria. ye si ke?** = I am Maria. Who is that?  
-> ☺: **ye si mi da panyo.** = That is my friend.  
+> ☺: **ye si mi da doste.** = That is my friend.  
 > ☻: **ye da nam si ke?** = What's her name?  
 > ☺: **ye da nam si sara.** = Her name is Sara.
 
 ### Grammar
 
-Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ye si mi da panyo** the topic is the pronoun **ye** (he, she, it), which is followed by the comment **si mi da panyo** (is my friend).
+Pandunia's sentences normally follow the topic-comment structure. The topic indicates who or what is being talked about. The comment tells something about the topic. For instance in **ye si mi da doste** the topic is the pronoun **ye** (he, she, it), which is followed by the comment **si mi da doste** (is my friend).
 
-The word **si** means _to be_ in Pandunia. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
+In Pandunia, the word **si** functions like _to be_ in English. The same word is used for all persons. And to say the opposite, simply replace it with **no** (which is the word for _no_).
 
 > **ye si sara.** - She is Sara.  
 > **ye no sara.** - She is not Sara.  
 
-> **mau si hewan** - The cat is an animal.  
-> **mau no hewan** - The cat is not an animal.  
+> **maw si hewan** - The cat is an animal.  
+> **dom no hewan** - The house is not an animal.  
 
 
 ### Exercises
@@ -44,17 +44,17 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 **tu** you. **tu da** your.  
 **ye** he, she or it. **ye da** his, her, its.  
 **ke** who or what.  
-**si** to be (am, is, are, etc)
+**si** to be (am, is, are, etc)  
 **si** yes. **no** no.  
-**bon** good. **panyo** friend. **nam** name.
-**fem** woman. **man** man.
-**mau** cat. **hewan** animal.
+**bon** good. **doste** friend. **nam** name.  
+**fem** woman. **man** man.  
+**maw** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
 1. tu si ke?
 2. mi si tomas.
-3. tu da panyo si ke?
+3. tu da doste si ke?
 4. ye si sara.
 5. tu da nam si ke?
 6. mi da nam si ........... 
@@ -79,7 +79,7 @@ The verb form of **salam** is **salama**, which means "to greet".
 > **mi salama tu.** = I greet you.  
 > **tu salama mi.** = You greet me.
 
-These are active sentences. In active sentences the subject does the action to the object. In **mi salama tu** the first word, **mi**, is the subject, **salama** is the verb (action word), and **tu** is the object. The order of subject, verb and object is important and it never changes.
+These are active sentences. In active sentences the subject does the action to the object. In **mi salama tu** the first word, **mi**, is the subject, **salama** is the verb (action word), and **tu** is the object. The order of subject, verb and object is the normal word order in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
@@ -94,13 +94,13 @@ In Pandunia sentences can be made shorter by leaving out pronouns that are obvio
 The pattern in **salam tu** is convenient for addressing people by name, kinship term or profession.
 
 > **salam toni!** = Hello, Tony!  
-> **salam mama!** = Hello, mother!  
-> **salam papa!** = Hello, father!  
+> **salam mamá!** = Hello, mother!  
+> **salam papá!** = Hello, father!  
 > **salam xefe!** = Hello, chief!
 
-Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
+Another Pandunia word for greeting is **haló**. It is also a very international greeting. You can choose freely, which word to use when you greet people.
 
-**halo!** - Hello!
+**haló!** - Hello!
 
 
 ### Exercises
@@ -114,15 +114,15 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Word List
 
-**salam, halo** greeting, hello, hi, salaam, ciao, etc.  
-**mama** mother, mom. **papa** father, dad. **xefe** chief, boss.
+**salam, haló** greeting, hello, hi, salaam, ciao, etc.  
+**mamá** mother, mom. **papá** father, dad. **xefe** chief, boss.
 
 
 ### Answers to the Exercises
 
 1. tu salama ye.
-2. mama salama papa.
-3. salam mama!
+2. mamá salama papá.
+3. salam mamá!
 4. salam!
 
 
@@ -135,12 +135,12 @@ Making requests
 ### Dialog
 
 ☻: **salam!** = Hello!  
-☺: **salam! cing sidu.** = Hello! Please sit!  
+☺: **salam! cing sida.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing nyama kafe u ca.** = Please have some coffee or tea.  
+☺: **cing nyama kafé u ca.** = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
 ...
-☺: **cing salama tu da mama!** = Please tell greetings to your mother.  
+☺: **cing salama tu da mamá!** = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!** = I will. Bye!  
 ☺: **salam!** = Bye!
 
@@ -166,16 +166,16 @@ See how the translation of **cing** changed between the two sentences? The meani
 
 The phrase **cing salama ye** has a useful pattern that can be used for making polite requests.
 
-> **cing sidu.** = Please be seated.  
-> **cing dona kafe.** = Please give me some coffee.  
+> **cing sida.** = Please be seated.  
+> **cing dona kafé.** = Please give me some coffee.  
 > **cing dona ca.** = Please give me some tea.  
 > **cing nyama ca.** = Please have some tea.  
-> **cing safa kamer.** = Please clean the room.
+> **cing safa kamar.** = Please clean the room.
 
 Commands are introduced with **manda** = to command. They employ the same pivot structure as requests with **cing**.
 
 > **manda dona ca.** = Give (me) some tea!  
-> **manda safa kamer.** = Clean the room!
+> **manda safa kamar.** = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
@@ -195,16 +195,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafe** coffee. **kamer** room. **manda** to command. **u** or. **safa** to clean. **sidu** to sit. **nyama** to eat or drink.
+**ca** tea. **cing** to ask; please. **dona** to give. **danke** thanks. **i** and. **kafé** coffee. **kamar** room. **manda** to command. **u** or. **safa** to clean. **sida** to sit. **nyama** to eat or drink.
 
 
 ### Answers to the Exercises
 
 1. ye nyama ca.
-2. xefe cing ye sidu.
-3. cing nyama kafe u ca.
-4. mama cing mi safa kamer.
-5. xefe sidu i nyama kafe.
+2. xefe cing ye sida.
+3. cing nyama kafé u ca.
+4. mamá cing mi safa kamar.
+5. xefe sida i nyama kafé.
 
 
 --------------------------------------------------------------------------------
@@ -215,17 +215,17 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia tu nyama kafe u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! kia tu nyama kafé u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
 ☻: **sori! kia ye nyama ca?** = Pardon! Will he have tea?  
-☺: **no. ye no nyama ca. ye nyama kafe.** = No, he won't. He would like to have coffee.  
+☺: **no. ye no nyama ca. ye nyama kafé.** = No, he won't. He would like to have coffee.  
 ☻: **kia tu nyama supe?** = Would you like to have soup?  
 ☺: **nyama.** = Yes. (_I eat._)  
 ☻: **kia ye nyama supe?** = Would he like to have soup?  
 ☺: **no nyama.** = No.  
-☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dona un ca i un kafé i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -245,8 +245,8 @@ Requests usually concern the one or the ones spoken to, but questions are often 
 
 Of course common and proper nouns can also be used.
 
-> **kia xefe nyama kafe?** = Does the chief drink coffee?  
-> **kia papa safa kamer?** = Does the father clean the room?  
+> **kia xefe nyama kafé?** = Does the chief drink coffee?  
+> **kia papá safa kamar?** = Does the father clean the room?  
 > **kia niki baxa pandunia?** = Does Nicky speak Pandunia?
 
 
@@ -261,10 +261,10 @@ Yes/no questions can be answered with **si** = yes, and **no** = no.
 
 Also more complete answers can be given.
 
-> – **kia tu nyama kafe?** = Do you drink coffee?  
-> – **si. mi nyama kafe.** = Yes, I drink coffee.  
-> – **kia ye nyama kafe?** = Does he drink coffee?  
-> – **no. ye no nyama kafe.** = No, he doesn't drink coffee.
+> – **kia tu nyama kafé?** = Do you drink coffee?  
+> – **si. mi nyama kafé.** = Yes, I drink coffee.  
+> – **kia ye nyama kafé?** = Does he drink coffee?  
+> – **no. ye no nyama kafé.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
@@ -294,8 +294,8 @@ Try translating these sentences from English to Pandunia.
 
 1. kia tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama nyama kafe?
-4. no. ye no nyama kafe.
+3. kia mamá nyama kafé?
+4. no. ye no nyama kafé.
 5. kia ye nyama supe?
 6. (ye) no nyama.
 
@@ -312,17 +312,17 @@ In the previous lesson you learned to answer **si** and **no** to questions. The
 
 Conceptually negation means the absence or non-existence of the negated word. In the phrase **mi no salama tu** the negative word **no** denies the existence of greeting. In Pandunia the negative word affects the word that follows it. Different scopes of negation may result depending on the location of the negative word.
 
-> **mi cing tu safa kamer.** = I ask you to clean the room.  
-> **mi no cing tu safa kamer.** = I do NOT ask you to clean the room.  
-> **mi cing tu no safa kamer.** = I ask you NOT to clean the room.
+> **mi cing tu safa kamar.** = I ask you to clean the room.  
+> **mi no cing tu safa kamar.** = I do NOT ask you to clean the room.  
+> **mi cing tu no safa kamar.** = I ask you NOT to clean the room.
 
 
 The negated word can be of any type: verb, pronoun, noun, adjective and even numeral.
 
-> **ye no ada mau.** = She doesn't have a cat.  
-> **ye ada no mau, ama waf.** = She has no cats but dogs.  
-> **no ye, a mi ada mau.** = Not she but I have cats.  
-> **mi ada no un, a do mau.** = I have not one but two cats.
+> **ye no ada maw.** = She doesn't have a cat.  
+> **ye ada no maw, ama waf.** = She has no cats but dogs.  
+> **no ye, a mi ada maw.** = Not she but I have cats.  
+> **mi ada no un, a do maw.** = I have not one but two cats.
 
 
 ### Exercises
@@ -339,17 +339,17 @@ Translate these sentences from English to Pandunia. Sometimes there is more than
 
 ### Word List
 
-**kupe** cup, glass, mug. **hali** empty. **ada** to have. **mau** cat. **waf** dog. **do** two. **nul** zero. **a** but.
+**kupe** cup, glass, mug. **hali** empty. **ada** to have. **maw** cat. **waf** dog. **do** two. **nul** zero. **a** but.
 
 
 ### Answers to the Exercises
 
-1. ye no safa kamer.
+1. ye no safa kamar.
 2. un kupe no hali.
-3. dua waf no nyama supe.
-4. ye no ada waf i mau. / ye ada no waf i no mau.
-5. xefe nyama ca a no kafe.
-6. mama ada no waf a do mau.
+3. do waf no nyama supe.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
+5. xefe nyama ca a no kafé.
+6. mamá ada no waf a do maw.
 
 
 <!--
@@ -368,16 +368,16 @@ To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the in
 
 In Pandunia, questions beginning with _why_ are asked using **koz ke**.
 
-> **tu suku mau koz ke?** = Why do you like cats?
+> **tu suku maw koz ke?** = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding **koz** before the cause or reason. **koz** is actually a passive verb meaning _to be caused by_.
 
-> **tu suku mau koz ke?** = Why do you like cats?  
+> **tu suku maw koz ke?** = Why do you like cats?  
 > **koz yemen kaway.** = Because they are cute.
 
 Of course **koz** can also be used to express the cause or reason for something, even when not answering to a question.
 
-> **mi suku mau koz yemen kaway** = I like cats because they are cute.
+> **mi suku maw koz yemen kaway** = I like cats because they are cute.
 
 ### Exercises
 
@@ -398,11 +398,11 @@ Of course **koz** can also be used to express the cause or reason for something,
 
 
 1. ke ren suku supe?
-2. papa suku.
+2. papá suku.
 3. ke zam ye lai?
 4. na des minut bada.
 5. ye no nyama koz ke?
-6. koz (ye) no suku kafe u supe.
+6. koz (ye) no suku kafé u supe.
 
 -->
 
@@ -418,17 +418,16 @@ There are no verb conjugations in Pandunia. All verbs have only one form. In a w
 
 > **mi darba ye.** = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi nyama pan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
+In Pandunia all verbs are like that! For example, **mi nyama nan** can mean both "I eat bread" and "I ate bread", but usually only one or the other meaning makes sense in the context of the discussion. For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-> **mi nyama pan na suba nyam.** = I ate bread for morning meal.
+> **mi nyama nan na subá nyam.** = I ate bread for morning meal.
 
 There are also specific time words.
 
-> **ja** - already, prior to some time
-> **gang** - just, recently
-> **zay** - currently, at the moment
-> **hai** - still
-> **sun** - soon
+> **gang** - just, recently  
+> **zay** - currently, at the moment  
+> **hay** - still  
+> **sun** - soon  
 > **futur** - in the future
 
 
@@ -454,19 +453,19 @@ Alternatively the time word can be placed last in the sentence.
 
 It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
 
-> **mi pas ada un mau.** = I had a cat in the past.  
-> **ye bon mau.** = It was a good cat.  
+> **mi pas ada un maw.** = I had a cat in the past.  
+> **ye bon maw.** = It was a good cat.  
 > **mi ada un waf zay.** = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one time expression is present, other markers are not needed.
 
 > **mi jenu na nen 2003.** = I was born in 2003.
-> **ye safa kamer na badi den.** = He will clean the room tomorrow.
+> **ye safa kamar na badi den.** = He will clean the room tomorrow.
 
 
 ### Word List
 
-**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **pan** bread. **suba nyam** morning meal, breakfast.
+**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **nan** bread. **subá nyam** morning meal, breakfast.
 
 ### Exercises
 
@@ -484,8 +483,8 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 1. mi da xefe festa na futur.
 2. mi ada do waf na pase.
 3. tu nyama supe zay.
-4. ye safa kamer na befo den.
-5. mau nyama kafe na badi den.
-6. tu da mama festa na befo noce.
+4. ye safa kamar na befo den.
+5. maw nyama kafé na badi den.
+6. tu da mamá festa na befo noce.
 
 

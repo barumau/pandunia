@@ -507,7 +507,7 @@ kupa : купол (свод)
 kuper : медь  
 kupon : купон (талон)  
 kuran : Коран  
-kursi : стул  
+kurse : стул  
 kusen : подушка  
 ##l  
 lab : губа  
@@ -804,11 +804,11 @@ ron : плакать
 rong : Восточный дракон  
 ros : красный  
 rose : роса  
-rosia : Россия  
 rotor : ротор  
 roza : Роза  
 ruk sak : рюкзак  
-ruski : русский  
+rusi : русский  
+rusia : Россия  
 rutin : рутин  
 ##s  
 sa : это или то  

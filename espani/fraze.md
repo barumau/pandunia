@@ -569,7 +569,7 @@ Tip: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 **ye na ke?** ¿Dónde está él/ella?
 
-**ye sidu na kamar.** Él/ella se sienta en la habitación.
+**ye sida na kamar.** Él/ella se sienta en la habitación.
 
 ¡Tip! Puedes usar **na** como una preposición o como un verbo por aparte.
 

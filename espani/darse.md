@@ -144,7 +144,7 @@ Pidiendo
 ### Diálogo
 
 ☻: **salam!** = ¡Hola!  
-☺: **salam! cing sidu.** = ¡ Hola!¡ Por favor sientese!  
+☺: **salam! cing sida.** = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.** = ¡Gracias!  
 ☺: **cing kana kafe u ca.** = Por favor tiene algo de café o té.  
 ☻: **mi kana ca. danke.** = Tengo té, gracias.  
@@ -175,7 +175,7 @@ Recordemos que se permite dejar por fuera pronombres que se conocen en el contex
 
 La frase **cing salama ye** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
 
-> **cing sidu.** = Por favor sientese.  
+> **cing sida.** = Por favor sientese.  
 > **cing dar kafe.** = Por favor me da un poco de café.  
 > **cing dar ca.** = Por favor me da un poco de té.  
 > **cing kana ca.** = Por favor tiene algo de té.  
@@ -205,16 +205,16 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**ca** té. **cing** pedir, solicitar; por favor. **dona** dar. **danke** gracias. **i** y. **kafe** café. **kamer** room. **manda** to command. **u** o. **safa** limpiar. **sidu** estar sentado. **kana** beber, comer.
+**ca** té. **cing** pedir, solicitar; por favor. **dona** dar. **danke** gracias. **i** y. **kafe** café. **kamer** room. **manda** to command. **u** o. **safa** limpiar. **sida** estar sentado. **kana** beber, comer.
 
 
 ### Respuestas
 
 1. ye kana ca.
-2. xefe cing ye sidu.
+2. xefe cing ye sida.
 3. cing kana kafe u ca.
 4. mama cing mi safa kamer.
-5. xefe sidu i kana kafe.
+5. xefe sida i kana kafe.
 
 
 --------------------------------------------------------------------------------

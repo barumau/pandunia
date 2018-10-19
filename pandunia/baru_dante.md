@@ -43,7 +43,7 @@ dokter lay to baru' famil da dom. ye loga: "kia tu nida helpe?" baru' bace loga:
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-dokter cing baru' bace sidu na kursi i kaya boka. "aha! un dante day mal! mi mus kapa ye to way."
+dokter cing baru' bace sidu na kursi i kaya boka. "aha! un dante day mal! mi bixu kapa ye to way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 

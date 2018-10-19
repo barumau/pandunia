@@ -95,7 +95,7 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 **ye fem.** She is a woman.
 
-**ye apel.** It is an apple.
+**ye aple.** It is an apple.
 
 **ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
 
@@ -138,9 +138,9 @@ The word **si** can be used also for stating something as a fact. Then it is use
 
 **tu si sara.** You are Sara.
 
-**apel si pal.** The apple is a fruit.
+**aple si pal.** The apple is a fruit.
 
-Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **apel pal** (an apple fruit).
+Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **aple pal** (an apple fruit).
 
 <small>Etymology. **si** is from Spanish: si, Portuguese: sim, Mandarin: 是 "shì", Shanghaiese: 是 "sí".</small>
 
@@ -180,7 +180,7 @@ Add **men** to a singular pronoun to make it plural.
 
 **tumen man.** You are men.
 
-**yemen apel.** They are apples.
+**yemen aple.** They are apples.
 
 <small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in general).</small>
 
@@ -208,11 +208,11 @@ Add **men** to a singular pronoun to make it plural.
 
 **li si ke? / ke si li?** What's this?
 
-**li si apel.** This is an apple.
+**li si aple.** This is an apple.
 
-**li si ros apel.** This is a red apple.
+**li si ros aple.** This is a red apple.
 
-**li apel ros.** This apple is red.
+**li aple ros.** This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
@@ -300,19 +300,19 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **kia tu wol nyama koy?** Would you like to eat something?
 
-**ye nyama apel.** He/she eats an apple.
+**ye nyama aple.** He/she eats an apple.
 
-**yemen nyama apel.** They eat apples.
+**yemen nyama aple.** They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **apel** can refer to one or more apples.
+Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **aple** can refer to one or more apples.
 
-**kia tu nyama kafe?** Do you drink coffee?
+**kia tu nyama kafé?** Do you drink coffee?
 
-**mi nyama kafe.** I drink coffee.
+**mi nyama kafé.** I drink coffee.
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i pang.** I'm having coffee and bread.
+**mi nyama kafé i nan.** I'm having coffee and bread.
 
 
 
@@ -324,12 +324,12 @@ Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at fi
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol nyama kafe.** I want to drink coffee.
+**mi wol nyama kafé.** I want to drink coffee.
 
 **kia tu wol nyama ca?** Would you like to drink tea?  
-**no. mi no wol ca. mi wol kafe.** No, I don't want tea. I want coffee.
+**no. mi no wol ca. mi wol kafé.** No, I don't want tea. I want coffee.
 
-**tu wol ke apel?** Which apple do you want?  
+**tu wol ke aple?** Which apple do you want?  
 **li ros.** This red one.
 
 
@@ -346,7 +346,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **cing nyama ca.** Please, have some tea!
 
-**cing nyama kafe.** Please, have some coffee!
+**cing nyama kafé.** Please, have some coffee!
 
 **cing lay dom.** Please, come home!
 
@@ -433,7 +433,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **mi ken lil pandunia.** I speak a little Pandunia.
 
-**mi no ken englix.** I don't speak English.
+**mi no ken engli.** I don't speak English.
 
 **sori. mi no ken tu da baxa.** Sorry, I don't speak your language.
 
@@ -571,7 +571,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 **ye na ke?** Where is he/she?
 
-**ye sidu na kamar.** He/she sits in the room.
+**ye sida na kamar.** He/she sits in the room.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 
@@ -620,9 +620,9 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 ### toma <small>take, get</small>
 
-**mi toma un kafe.** I will take a coffee.
+**mi toma un kafé.** I will take a coffee.
 
-**cing toma un kafe ko mi.** Please take one coffee for me.
+**cing toma un kafé ko mi.** Please take one coffee for me.
 
 **tu pas toma pesa ze mi.** You already got money from me.
 
@@ -724,7 +724,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 
 **a** but <small>(Russian _а_)</small>  
 **ada** have; there is <small>(Indonesian _ada_)</small>  
-**apel** apple <small>(Indonesian _apel_)</small>  
+**aple** apple <small>(Indonesian _apel_)</small>  
 **bay** white <small>(Mandarin _bái_ 白)</small>  
 **batu'** stone <small>(Indonesian _batu_)</small>  
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
@@ -738,7 +738,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **dom** home, residence <small>(Russian _dom_ дом)</small>  
 **doma** live, reside  
 **enda** to go <small>(Swahili _kuenda_)</small>  
-**englix** English  
+**engli** English  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
@@ -747,7 +747,7 @@ All words of Pandunia are loan words from other languages that are spoken around
 **helpe** help, assistance <small>(English _help_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jan** know <small>(Hindi _jānnā_ जानना)</small>  
-**kafe** coffee <small>(German _Kaffee_)</small>  
+**kafé** coffee <small>(French _café_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  

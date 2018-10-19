@@ -80,7 +80,7 @@ Notu!  Vortoj neniam ŝanĝiĝas en pandunio. Do **mi** havas la saman formon ka
 
 **ye fem.** Li estas virino.
 
-**ye apel.** Ĝi estas pomo.
+**ye aple.** Ĝi estas pomo.
 
 Notu! **ye** estas ĝenerala pronomo de tria persono.
 
@@ -122,9 +122,9 @@ Notu! Ankaŭ **si** ŝanĝiĝas neniam. Do **si** kovras ĉiuj formoj de esti: _
 
 **tu si sara.** Vi estas Sara.
 
-**apel si pal.** Pomo estas frukto.
+**aple si pal.** Pomo estas frukto.
 
-Notu: Estas speciale utila uzi *si** en la lasta frazo, ĉar sen ĝi la frazo povus aspekti kiel kunmetita vorto: **apel-pala** (pomfrukto).
+Notu: Estas speciale utila uzi *si** en la lasta frazo, ĉar sen ĝi la frazo povus aspekti kiel kunmetita vorto: **aple-pala** (pomfrukto).
 
 <small>Etimologio. **si** venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是 "shì", ŝanghajĉina: 是 "sí".</small>
 
@@ -164,7 +164,7 @@ Aldoni **men** al singulara pronomo por krei pluralan pronomon.
 
 **tumen si man.** Vi estas viroj.
 
-**yemen si apel.** Ili estas pomoj.
+**yemen si aple.** Ili estas pomoj.
 
 <small>Etimologio. **men** venas el mandarenĉina: 们 "men", angla: men (homoj ĝenerale).</small>
 
@@ -190,11 +190,11 @@ Aldoni **men** al singulara pronomo por krei pluralan pronomon.
 
 **li si ke? / ke si sa?** Kio estas tio?
 
-**li si apel.** Tio estas pomo.
+**li si aple.** Tio estas pomo.
 
-**li si ros apel.** Tio estas ruĝa pomo.
+**li si ros aple.** Tio estas ruĝa pomo.
 
-**li apel ros.** Tiu pomo ruĝas.
+**li aple ros.** Tiu pomo ruĝas.
 
 
 
@@ -280,11 +280,11 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 **kia tu wol nyama yo?** Ĉu vi volas manĝi ion?
 
-**ye nyama apel.** Li/ŝi manĝas pomon.
+**ye nyama aple.** Li/ŝi manĝas pomon.
 
-**yemen nyam apel.** Ili manĝas pomojn.
+**yemen nyam aple.** Ili manĝas pomojn.
 
-Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **apel** indikas unu aŭ multajn pomojn.
+Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **aple** indikas unu aŭ multajn pomojn.
 
 **kia tu nyama kafe?** Ĉu vi trinkas kafon?
 
@@ -292,7 +292,7 @@ Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kie
 
 Notu! Signifo de **nyam** kovras manĝadon kaj trinkadon.
 
-**mi nyama kafe i pang.** Mi manĝas kafon kaj panon.
+**mi nyama kafe i nan.** Mi manĝas kafon kaj panon.
 
 
 
@@ -309,7 +309,7 @@ Notu! Signifo de **nyam** kovras manĝadon kaj trinkadon.
 **kia tu wol nyama ca?** Ĉu vi volas trinki teon?  
 **no. mi no wol ca. mi wol kafe.** Ne. Mi ne volas teon. Mi volas kafon.
 
-**tu wol ke apel?** Kiun pomon vi volas manĝi?  
+**tu wol ke aple?** Kiun pomon vi volas manĝi?  
 **li ros.** Tiun ruĝan.
 
 
@@ -554,6 +554,7 @@ Vortaro
 
 **a** sed <small>(turka _a_)</small>  
 **ada** havi <small>(portugala _há_)</small>  
+**aple** pomo <small>(angla _apple_)</small>  
 **bay** blanka <small>(mandarenĉina _bái_ 白)</small>  
 **batu** ŝtono <small>(indonezia _batu_)</small>  
 **bazar** bazaro, vendoplaco <small>(persa _bāzār_ بازار)</small>  
@@ -592,7 +593,6 @@ Vortaro
 **noce** nokto <small>(hispana _noche_)</small>  
 **nyama** manĝi, trinki <small>(hispana _ñam_)</small>  
 **papa** patro <small>(rusa _papa_ папа)</small>  
-**apel** pomo <small>(mandarenĉina _píngguǒ_ 苹果)</small>  
 **ren** persono <small>(mandarenĉina _rén_ 人)</small>  
 **ros** ruĝa <small>(bangla _ros_)</small>  
 **safara** vojaĝi <small>(araba _safar_ سفر)</small>  

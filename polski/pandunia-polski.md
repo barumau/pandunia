@@ -917,7 +917,7 @@ kuran : Koran
 kurbe : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
 kurbi : zakrzywiony  
 kurium : kiur  
-kursi : kszesło, fotel  
+kurse : kszesło, fotel  
 kusen : poduszka  
 kuwaytia : Kuwejt  
 
@@ -1533,7 +1533,6 @@ romansi : romantyczny
 rona : płakać, łkać  
 rong : orientalny smok  
 rose : rosa  
-rosia : Rosja  
 rotor : rotor, wirnik  
 roze : róża  
 rozi : różowy, różany  

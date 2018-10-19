@@ -47,8 +47,8 @@ Oto 11 podstawowych zasad języka Pandunia.
 
 Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
-> **batu''** - kamień, kamienie
-> **meza'** - stół, stoły
+> **batú** - kamień, kamienie
+> **meze** - stół, stoły
 > **kurse** - krzesło, krzesła
 > **suy** - woda
 
@@ -60,8 +60,8 @@ Liczba nie wpływa na rzeczowniki, tj. rzeczowniki mają te same formy w liczbie
 
 Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
-> **batu' batu'** - kamienie, wiele kamieni
-> **tara' tara'** - gwiazdy, wiele kamieni
+> **batú batú** - kamienie, wiele kamieni
+> **xing xing** - gwiazdy, wiele kamieni
 
 ### 2.3. Rodzaj
 
@@ -73,7 +73,7 @@ Kilka słów niesie _naturalny rodzaj_. Na przykład **fem** (kobieta) jest że�
 
 Dwa lub więcej rzeczowników może być połączone, by utworzyć wyraz złożony. Ostatnie słowo ma największe znaczenie w wyrazie złożonym, a słowa, które są przed nim tylko zmieniają znaczenie.
 
-> **tara grupe** - gwiazdozbiór
+> **xing grupe** - gwiazdozbiór
 
 --------------------------------------------------------------------------------
 
@@ -85,19 +85,19 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-> **day batu'** - duży kamień
-> **day meza'** - duży stół
-> **gaw meza'** - wysoki stół
+> **day batú** - duży kamień
+> **day meze** - duży stół
+> **gaw meze** - wysoki stół
 > **bon kurse** - dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-> **batu' day.** - Kamień jest duży.
-> **meza' gaw.** - Stół jest wysoki.
+> **batú day.** - Kamień jest duży.
+> **meze gaw.** - Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-> **day meza' gaw.** - Duży stół jest wysoki.
+> **day meze gaw.** - Duży stół jest wysoki.
 
 
 ### 3.2 Opisywanie czasownika
@@ -137,10 +137,10 @@ Modyfikatory mogą być porównane.
 - **minim** (najmniej) oznacza stopień najniższy
 - **sem** (jak) oznacza porównanie równości
 
-Partykuła **kom** łączy przysłówki porównania z obiektem porównania.
+Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-> **mi si max bon kom tu.** - Jestem lepszy od ciebie.
-> **tu loga sem bon kom mi.** - Mówisz tak dobrze, jak ja.
+> **mi si max bon ka tu.** - Jestem lepszy od ciebie.
+> **tu loga sem bon ka mi.** - Mówisz tak dobrze, jak ja.
 
 
 #### 3.6. Końcówki modyfikatorów
@@ -154,18 +154,18 @@ Zakończenie nie jest stosowane przy rdzeniach-opisach, kończących się pojedy
 
 ## 4. Liczby
 
-Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **surya** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
+Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **sol** (Słońce) normalnie odnosi się do jednego Słońca, bo istnieje tylko jedno.
 
 Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej. Są umieszczane przed słowem lub wyrażeniem, które opisują.
 
-> **un tara'** - jedna gwiazda
-> **do tara'** - dwie gwiazdy
-> **sam tara'** - trzy gwiazdy
-> **xaw tara'** - trochę gwiazd
-> **poli tara'** - kilka gwiazd (dwie lub więcej)
-> **multi tara'** - wiele gwiazd
+> **un xing** - jedna gwiazda
+> **do xing** - dwie gwiazdy
+> **sam xing** - trzy gwiazdy
+> **xaw xing** - trochę gwiazd
+> **poli xing** - kilka gwiazd (dwie lub więcej)
+> **multi xing** - wiele gwiazd
 
-> **un day meza'** - jeden duży stół
+> **un day meze** - jeden duży stół
 > **do day kurse** - dwa duże krzesła
 > **sam bon kurse** - trzy dobre krzesła
 
@@ -754,7 +754,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
 > **mi laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
-> **tu sidu kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
+> **tu sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
 > **ye lala sofa.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)
 > **jangar marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)
@@ -762,18 +762,18 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 ### 10.2. Przyimek relacji
 
-Przyimek **kom** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
+Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **mi saba pandunia kom guru.** - Znam Pandunię jak mistrz.
+> **mi saba pandunia ka guru.** - Znam Pandunię jak mistrz.
 
-**kom** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **saba** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
+**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **saba** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
-**kom** jest też używany, gdy porównywane są przymiotniki.
+**ka** jest też używany, gdy porównywane są przymiotniki.
 
-> **bace si min day kom papa.** - Dziecko jest mniejsze niż ojciec.
-> **opa si sem day kom papa.** - Dziadek jest tak duży jak ojciec.
+> **bace si min day ka papa.** - Dziecko jest mniejsze niż ojciec.
+> **opa si sem day ka papa.** - Dziadek jest tak duży jak ojciec.
 
-**kom** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
+**ka** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
 
 
 
