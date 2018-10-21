@@ -5,115 +5,159 @@
 
 ### salam <small>打招呼</small>
 
-**salam!** 你好！
+**salam!**
+你好！
 
-**salam suba!** 早上好！
+**salam suba!**
+早上好！
 
-**salam den!** 美好的一天！
+**salam den!**
+美好的一天！
 
-**salam xam!** 晚上好！
+**salam xam!**
+晚上好！
 
-**salam noce!** 晚安！
+**salam noce!**
+晚安！
 
-**salam kane!** 好胃口！
+**salam kane!**
+好胃口！
 
-**salam laye!** 欢迎！
+**salam laye!**
+欢迎！
 
-**salam cute!** 再见！
+**salam cute!**
+再见！
 
-**salam safar!** 一路平安！
+**salam safar!**
+一路平安！
 
 
 
 
 ### mi <small>我</small>
 
-**mi lili.** 我叫丽丽。
+**mi lili.**
+我叫丽丽。
 
-**mi tomas.** 我叫托马。
+**mi tomas.**
+我叫托马。
 
-**mi salama ma.** 我迎接妈妈。
+**mi salama ma.**
+我迎接妈妈。
 
-**mi salama pa.** 我迎接爸爸。
+**mi salama pa.**
+我迎接爸爸。
 
-**salam ma!** 妈妈，你好！
+**salam ma!**
+妈妈，你好！
 
-**salam pa!** 爸爸，你好！
+**salam pa!**
+爸爸，你好！
 
-**mimen salama ma.** 我们迎接妈妈。
+**mimen salama ma.**
+我们迎接妈妈。
 
 
 
 ### tu <small>你</small>
 
-**tu tomas.** 你叫托马。
+**tu tomas.**
+你叫托马。
 
-**mi salama tu.** 我给你打招呼。
+**mi salama tu.**
+我给你打招呼。
 
-**tu salama mi.** 你给我打招呼。
+**tu salama mi.**
+你给我打招呼。
 
-**salam tu!** 你好！
+**salam tu!**
+你好！
 
-**mi salama tumen.** 我给你们打招呼。
+**mi salama tumen.**
+我给你们打招呼。
 
-**salam tumen!** 你们好！
+**salam tumen!**
+你们好！
 
 
 
 
 ### ye <small>他，她，它</small>
 
-**ye si fem.** 她是一个女人。
+**ye si fem.**
+她是一个女人。
 
-**ye si man.** 他是一个男人。
+**ye si man.**
+他是一个男人。
 
-**ye si pingo.** 它是一个苹果。
+**ye si pingo.**
+它是一个苹果。
 
 ### kia <small>问</small>
 
-**kia tu tomas?** 请问你是托马吗？
+**kia tu tomas?**
+请问你是托马吗？
 
-**kia tu doktor?** 请问你是医生吗？
+**kia tu doktor?**
+请问你是医生吗？
 
-**kia tu bon?** 你好吗？  
-**mi bon.** 我很好。  
-**kia tu?**  你呢？  
-**mi no bon.** 我不好。
+**kia tu bon?**
+你好吗？  
+**mi bon.**
+我很好。  
+**kia tu?**
+ 你呢？  
+**mi no bon.**
+我不好。
 
 
 
 
 ### si <small>是</small>
 
-**mi si tomas.** 我是托马斯。
+**mi si tomas.**
+我是托马斯。
 
-**tu si sara.** 你是莎拉。
+**tu si sara.**
+你是莎拉。
 
-**mau si hewan.** 猫是动物。
+**mau si hewan.**
+猫是动物。
 
-**mi sara.** 我是莎拉。
+**mi sara.**
+我是莎拉。
 
-**tu tomas.** 你是托马斯。
+**tu tomas.**
+你是托马斯。
 
 
 
-**mimen salama tumen.** We greet you.
+**mimen salama tumen.**
+We greet you.
 
 
 
 ### ke? <small>什么，谁</small>
 
-**ke?** 什么？
+**ke?**
+什么？
 
-**tu si ke?** 你是谁？
-**mi si tomas.** 我是托马斯。
+**tu si ke?**
+你是谁？
+**mi si tomas.**
+我是托马斯。
 
-**ye si ke?** 她是谁？
-**ye si sara.** 她是莎拉。
+**ye si ke?**
+她是谁？
+**ye si sara.**
+她是莎拉。
 
-**tumen si ke?** 你们是谁？
+**tumen si ke?**
+你们是谁？
 
-**yemen si ke?** 他们是谁？
+**yemen si ke?**
+他们是谁？
 
 
 

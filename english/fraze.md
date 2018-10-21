@@ -20,27 +20,38 @@ Part 1: Greeting and basics
 
 ### salam <small>greet, greeting</small>
 
-**salam** Hello!
+**salam**
+Hello!
 
-**salam suba!** Good morning!
+**salam suba!**
+Good morning!
 
-**salam den!** Good day!
+**salam den!**
+Good day!
 
-**salam xam!** Good evening!
+**salam xam!**
+Good evening!
 
-**salam noce!** Good night!
+**salam noce!**
+Good night!
 
-**salam nyam!** Bon appetit!
+**salam nyam!**
+Bon appetit!
 
-**salam laye!** Welcome!
+**salam laye!**
+Welcome!
 
-**salam cute!** Goodbye!
+**salam cute!**
+Goodbye!
 
-**salam safar!** Have a safe journey!
+**salam safar!**
+Have a safe journey!
 
-**salam son!** Sleep well!
+**salam son!**
+Sleep well!
 
-As you can see from the range of expressions, **salam** is a general word for well-wishing. Use it any time!
+As you can see from the range of expressions, **salam**
+is a general word for well-wishing. Use it any time!
 
 **Salam** is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
 
@@ -50,23 +61,30 @@ As you can see from the range of expressions, **salam** is a general word for we
 
 ### mi <small>I, me</small>
 
-**mi sara.** I'm Sara.
+**mi sara.**
+I'm Sara.
 
-**mi tomas.** I'm Thomas.
+**mi tomas.**
+I'm Thomas.
 
 You can introduce yourself simply by saying **mi** and your name. You don't need a verb for saying it in Pandunia!
 
-**mi salama ma.** I greet mother.
+**mi salama ma.**
+I greet mother.
 
-**mi salama pa.** I greet father.
+**mi salama pa.**
+I greet father.
 
 The word **salam** is a noun and **salama** is the corresponding verb. The basic word order in Pandunia is subject-verb-object.
 
-**sara salama tomas.** Sara greets Thomas.
+**sara salama tomas.**
+Sara greets Thomas.
 
-**salam ma!** Greetings, mother!
+**salam ma!**
+Greetings, mother!
 
-**salam pa!** Greetings, father!
+**salam pa!**
+Greetings, father!
 
 <small>Etymology. **mi** is from English: me, Italian: mi, Swahili: mimi, Zulu: -mi-.</small>
 
@@ -75,15 +93,20 @@ The word **salam** is a noun and **salama** is the corresponding verb. The basic
 
 ### tu <small>you</small>
 
-**tu tomas.** You are Thomas.
+**tu tomas.**
+You are Thomas.
 
-**mi salama tu.** I greet you.
+**mi salama tu.**
+I greet you.
 
-**tu salama mi.** You greet me.
+**tu salama mi.**
+You greet me.
 
-Pronouns don't ever change their form in Pandunia. That's why **mi** is the same in subject and object positions while English has two different forms, 'I' and 'me'.
+Pronouns don't ever change their form in Pandunia. That's why **mi**
+is the same in subject and object positions while English has two different forms, 'I' and 'me'.
 
-**mi ama tu.** I love you.
+**mi ama tu.**
+I love you.
 
 <small>Etymology. **tu** is from Spanish: "tú", Italian: "tu", French: "tu", Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
 
@@ -91,15 +114,20 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 ### ye <small>he, she or it</small>
 
-**ye man.** He is a man.
+**ye man.**
+He is a man.
 
-**ye fem.** She is a woman.
+**ye fem.**
+She is a woman.
 
-**ye aple.** It is an apple.
+**ye aple.**
+It is an apple.
 
-**ye** is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
+**ye**
+is the general third person pronoun. It is used for people (irrespective of gender) as well as for things.
 
-**mi salama ye.** I greet him/her.
+**mi salama ye.**
+I greet him/her.
 
 <small>Etymology. **ye** is from Lingala: yé, Swahili: yeye, Chichewa: iye, Zulu: -ye-, Hindi: यह  "ye".</small>
 
@@ -107,16 +135,22 @@ Pronouns don't ever change their form in Pandunia. That's why **mi** is the same
 
 ### kia <small>to ask a question</small>
 
-**kia tu tomas?** Are you Thomas?
+**kia tu tomas?**
+Are you Thomas?
 
-**kia tu doktar?** Are you a doctor?
+**kia tu doktar?**
+Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu doktar.** (I ask, you doctor?) by dropping out the first word.
 
-**kia tu bon?** How are you? (Literally: _Are you good?_)  
-**mi bon.** I'm good.  
-**kia tu?** And you?  
-**mi no bon.** I'm not good.
+**kia tu bon?**
+How are you? (Literally: _Are you good?_)  
+**mi bon.**
+I'm good.  
+**kia tu?**
+And you?  
+**mi no bon.**
+I'm not good.
 
 <small>Etymology. **kia** is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
 
@@ -124,21 +158,28 @@ Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, 
 
 ### si <small>yes</small>
 
-**kia tu tomas?** Are you Thomas.
+**kia tu tomas?**
+Are you Thomas.
 
-**si, mi tomas.** Yes, I am Thomas.
+**si, mi tomas.**
+Yes, I am Thomas.
 
-**kia ye doktar?** Is he/she a doctor?
+**kia ye doktar?**
+Is he/she a doctor?
 
-**si, ye doktar.** Yes, he is a doctor.
+**si, ye doktar.**
+Yes, he is a doctor.
 
 The word **si** can be used also for stating something as a fact. Then it is used in place of "to be".
 
-**mi si tomas.** I am Thomas.
+**mi si tomas.**
+I am Thomas.
 
-**tu si sara.** You are Sara.
+**tu si sara.**
+You are Sara.
 
-**aple si pal.** The apple is a fruit.
+**aple si pal.**
+The apple is a fruit.
 
 Note: It is necessary to use **si** in the latest phrase because, without it, the phrase would look like a compound word: **aple pal** (an apple fruit).
 
@@ -148,19 +189,26 @@ Note: It is necessary to use **si** in the latest phrase because, without it, th
 
 ### no <small>no, not</small>
 
-**mi no sara.** I'm not Sara.
+**mi no sara.**
+I'm not Sara.
 
-**mi no doktar.** I'm not a doctor.
+**mi no doktar.**
+I'm not a doctor.
 
-**kia tu bon?** Are you well?  
-**si. mi bon.** Yes, I'm well.
+**kia tu bon?**
+Are you well?  
+**si. mi bon.**
+Yes, I'm well.
 
-**kia tu bon?** Are you well?  
-**no, mi no bon.** No, I'm not well.
+**kia tu bon?**
+Are you well?  
+**no, mi no bon.**
+No, I'm not well.
 
 You can use **no** to deny anything. It is placed before the word that is denied.
 
-**ye no salama mi.** He/she doesn't greet me.
+**ye no salama mi.**
+He/she doesn't greet me.
 
 <small>Etymology. **no** is from English: no, Spanish: no, French: non.</small>
 
@@ -168,19 +216,26 @@ You can use **no** to deny anything. It is placed before the word that is denied
 
 ### men <small>people</small>
 
-Add **men** to a singular pronoun to make it plural.
+Add **men**
+to a singular pronoun to make it plural.
 
-**mimen salama tumen.** We greet you all.
+**mimen salama tumen.**
+We greet you all.
 
-**tumen salama yemen.** You greet them.
+**tumen salama yemen.**
+You greet them.
 
-**yemen salama mimen!** They greet us.
+**yemen salama mimen!**
+They greet us.
 
-**mimen fem.** We are women.
+**mimen fem.**
+We are women.
 
-**tumen man.** You are men.
+**tumen man.**
+You are men.
 
-**yemen aple.** They are apples.
+**yemen aple.**
+They are apples.
 
 <small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in general).</small>
 
@@ -188,17 +243,24 @@ Add **men** to a singular pronoun to make it plural.
 
 ### ke? <small>what? who?</small>
 
-**ke?** What?
+**ke?**
+What?
 
-**tu ke?** Who are you?  
-**mi tomas.** I'm Thomas.
+**tu ke?**
+Who are you?  
+**mi tomas.**
+I'm Thomas.
 
-**ye ke?** Who is he/she?  
-**ye sara.** She is Sara.
+**ye ke?**
+Who is he/she?  
+**ye sara.**
+She is Sara.
 
-**tumen ke?** Who are you people?
+**tumen ke?**
+Who are you people?
 
-**yemen ke?** Who are they?
+**yemen ke?**
+Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che, Bengali: কী "ki".</small>
 
@@ -206,37 +268,50 @@ Add **men** to a singular pronoun to make it plural.
 
 ### li <small>this, that</small>
 
-**li si ke? / ke si li?** What's this?
+**li si ke? / ke si li?**
+What's this?
 
-**li si aple.** This is an apple.
+**li si aple.**
+This is an apple.
 
-**li si ros aple.** This is a red apple.
+**li si ros aple.**
+This is a red apple.
 
-**li aple ros.** This apple is red.
+**li aple ros.**
+This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a modifier. When it follows the noun, it works as an adjectival verb.
 
-**ye ros.** It's red.
+**ye ros.**
+It's red.
 
 
 
 ### da <small>'s (possessive particle)</small>
 
-**li ke?** What's this?
+**li ke?**
+What's this?
 
-**li si mi da fon.** It's my phone.
+**li si mi da fon.**
+It's my phone.
 
-**li si ke da?** Whose is this?
+**li si ke da?**
+Whose is this?
 
-**li si mi da.** It's mine.
+**li si mi da.**
+It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da** means "my", **tu da** means "your" and so on.
+Note: Possessive particle **da** is put between the owner and the owned thing. So **mi da**
+means "my", **tu da** means "your" and so on.
 
-**ye ke?** Who's he/she?
+**ye ke?**
+Who's he/she?
 
-**ye si mi da doste.** He/she is my friend.
+**ye si mi da doste.**
+He/she is my friend.
 
-**mi si sara da doste.** I am Sara's friend.
+**mi si sara da doste.**
+I am Sara's friend.
 
 <small>Etymology. **da** is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
 
@@ -244,15 +319,20 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 ### nam <small>name</small>
 
-**tu da nam si ke?** What's your name?
+**tu da nam si ke?**
+What's your name?
 
-**mi da nam si tomas.** My name is Thomas.
+**mi da nam si tomas.**
+My name is Thomas.
 
-**ye namu ke?** What he/she is called?
+**ye namu ke?**
+What he/she is called?
 
-**ye namu sara.** She is called Sara.
+**ye namu sara.**
+She is called Sara.
 
-**mi namu tomas.** I'm called Thomas.
+**mi namu tomas.**
+I'm called Thomas.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎ "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German: Name, English: name.</small>
 
@@ -260,36 +340,48 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 ### ada <small>have</small>
 
-**mi ada bon dom.** I have a good house.
+**mi ada bon dom.**
+I have a good house.
 
-**ye no ada pesa.** He/she doesn't have money.
+**ye no ada pesa.**
+He/she doesn't have money.
 
-**mi wol ada nowi fon.** I want to have a new phone.
+**mi wol ada nowi fon.**
+I want to have a new phone.
 
-**kia tu ada bace?** Do you have children?  
-**mi ada do bace.** I have two children.
+**kia tu ada bace?**
+Do you have children?  
+**mi ada do bace.**
+I have two children.
 
 
 
 ### jan <small>to know</small>
 
-**mi jan ye.** I know him/her.
+**mi jan ye.**
+I know him/her.
 
-**kia tu jan li ren?** Do you know that person?
+**kia tu jan li ren?**
+Do you know that person?
 
-**kia tumen jan bici?** Do you know each other?
+**kia tumen jan bici?**
+Do you know each other?
 
-**mimen jan bici ze long.** We know each other for long.
+**mimen jan bici ze long.**
+We know each other for long.
 
 
 
 ### helpe <small>help</small>
 
-**mi nida helpe.** I need help.
+**mi nida helpe.**
+I need help.
 
-**kia tu ken helpa mi?** Can you help me?
+**kia tu ken helpa mi?**
+Can you help me?
 
-**kia mi ken helpa tu?** Can I help you?
+**kia mi ken helpa tu?**
+Can I help you?
 
 
 
@@ -298,97 +390,130 @@ Note: Possessive particle **da** is put between the owner and the owned thing. S
 
 ### nyama <small>consume, eat, drink</small>
 
-**kia tu wol nyama koy?** Would you like to eat something?
+**kia tu wol nyama koy?**
+Would you like to eat something?
 
-**ye nyama aple.** He/she eats an apple.
+**ye nyama aple.**
+He/she eats an apple.
 
-**yemen nyama aple.** They eat apples.
+**yemen nyama aple.**
+They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **aple** can refer to one or more apples.
 
-**kia tu nyama kafé?** Do you drink coffee?
+**kia tu nyama kafé?**
+Do you drink coffee?
 
-**mi nyama kafé.** I drink coffee.
+**mi nyama kafé.**
+I drink coffee.
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at first but soon you will see that it is quite handy! Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi nyama kafé i nan.** I'm having coffee and bread.
+**mi nyama kafé i nan.**
+I'm having coffee and bread.
 
 
 
 ### wol <small>want</small>
 
-**kia tu wol nyama?** Would you like to eat?
+**kia tu wol nyama?**
+Would you like to eat?
 
-**tu wol nyama ke?** What would you like to eat?
+**tu wol nyama ke?**
+What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia the word order is not affected by the **ke**.
 
-**mi wol nyama kafé.** I want to drink coffee.
+**mi wol nyama kafé.**
+I want to drink coffee.
 
-**kia tu wol nyama ca?** Would you like to drink tea?  
-**no. mi no wol ca. mi wol kafé.** No, I don't want tea. I want coffee.
+**kia tu wol nyama ca?**
+Would you like to drink tea?  
+**no. mi no wol ca. mi wol kafé.**
+No, I don't want tea. I want coffee.
 
-**tu wol ke aple?** Which apple do you want?  
-**li ros.** This red one.
+**tu wol ke aple?**
+Which apple do you want?  
+**li ros.**
+This red one.
 
 
 
 ### cing <small>request, please</small>
 
-**mi cing tu nyama ca.** I ask you to drink tea.
+**mi cing tu nyama ca.**
+I ask you to drink tea.
 
-**mi cing tu lay dom.** I ask you to come home.
+**mi cing tu lay dom.**
+I ask you to come home.
 
-**mi cing tu helpa mi.** I ask you to help me.
+**mi cing tu helpa mi.**
+I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing nyama ca.** Please, have some tea!
+**cing nyama ca.**
+Please, have some tea!
 
-**cing nyama kafé.** Please, have some coffee!
+**cing nyama kafé.**
+Please, have some coffee!
 
-**cing lay dom.** Please, come home!
+**cing lay dom.**
+Please, come home!
 
-**cing helpa mi.** Please, help me.
+**cing helpa mi.**
+Please, help me.
 
 
 
 ### danke <small>thanks</small>
 
-**danke!** Thanks!
+**danke!**
+Thanks!
 
-**danka tu.** Thank you.
+**danka tu.**
+Thank you.
 
-**mi danka tu.** I thank you.
+**mi danka tu.**
+I thank you.
 
-**mi danka tu helpa mi.** I thank you for helping me.
+**mi danka tu helpa mi.**
+I thank you for helping me.
 
-**danka tu helpa mi.** Thanks for helping me.
+**danka tu helpa mi.**
+Thanks for helping me.
 
-**tu keci.** You're welcome. (Literally: _You're polite._)
+**tu keci.**
+You're welcome. (Literally: _You're polite._)
 
 
 
 ### hayda <small>let's</small>
 
-**hayda nyama!** Let's eat!
+**hayda nyama!**
+Let's eat!
 
-**hayda enda nyama!** Let's go eat!
+**hayda enda nyama!**
+Let's go eat!
 
-**hayda enda dom.** Let's go home.
+**hayda enda dom.**
+Let's go home.
 
 
 
 ### nida <small>need</small>
 
-**mi nida helpe.** I need help.
+**mi nida helpe.**
+I need help.
 
-**mi nida nyama.** I'm hungry.
+**mi nida nyama.**
+I'm hungry.
 
-**kia tu nida nyama?** Are you hungry?
+**kia tu nida nyama?**
+Are you hungry?
 
-**kia tu nida suy?** Are you thirsty?
+**kia tu nida suy?**
+Are you thirsty?
 
 
 
@@ -397,124 +522,167 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### sori <small>sorry, pardon</small>
 
-**sori! mi no aha.** Sorry, I don't understand.
+**sori! mi no aha.**
+Sorry, I don't understand.
 
-**sori! li ke?** Excuse me, what's this?
+**sori! li ke?**
+Excuse me, what's this?
 
-**sori. tu namu ke?** Excuse me, what's your name?
+**sori. tu namu ke?**
+Excuse me, what's your name?
 
 
 
 ### aha <small>understand</small>
 
-**kia tu aha mi?** Do you understand me?
+**kia tu aha mi?**
+Do you understand me?
 
-**mi aha.** I understand.
+**mi aha.**
+I understand.
 
-**sori. mi no aha tu.** Sorry. I don't understand you.
+**sori. mi no aha tu.**
+Sorry. I don't understand you.
 
-**mi no bas aha tu.** I didn't quite understand you.
+**mi no bas aha tu.**
+I didn't quite understand you.
 
-**mi aha nul.** I don't understand at all.
+**mi aha nul.**
+I don't understand at all.
 
 
 
 ### ken <small>can</small>
 
-**mi ken gida gar.** I can drive a car.
+**mi ken gida gar.**
+I can drive a car.
 
-**ye no ken gida gar.** He/she doesn't know how to drive a car.
+**ye no ken gida gar.**
+He/she doesn't know how to drive a car.
 
-**kia tu ken xula ye?** Do you know how to fix it?
+**kia tu ken xula ye?**
+Do you know how to fix it?
 
-**kia tu ken pandunia?** Do you speak Pandunia?
+**kia tu ken pandunia?**
+Do you speak Pandunia?
 
-**mi ken pandunia.** I speak Pandunia.
+**mi ken pandunia.**
+I speak Pandunia.
 
-**mi ken lil pandunia.** I speak a little Pandunia.
+**mi ken lil pandunia.**
+I speak a little Pandunia.
 
-**mi no ken engli.** I don't speak English.
+**mi no ken engli.**
+I don't speak English.
 
-**sori. mi no ken tu da baxa.** Sorry, I don't speak your language.
+**sori. mi no ken tu da baxa.**
+Sorry, I don't speak your language.
 
 
 
 ### loga <small>to say, speak, talk</small>
 
-**tu loga ke?** What did you say?
+**tu loga ke?**
+What did you say?
 
-**mi loga to tu.** I talk to you.
+**mi loga to tu.**
+I talk to you.
 
-**mimen loga to bici.** We talk to each other.
+**mimen loga to bici.**
+We talk to each other.
 
-**se loga "cat" na ke yang na pandunia?** How do you say "cat" in Pandunia?
+**se loga "cat" na ke yang na pandunia?**
+How do you say "cat" in Pandunia?
 
-**"cat" si ke na pandunia?** What is "cat" in Pandunia?
+**"cat" si ke na pandunia?**
+What is "cat" in Pandunia?
 
-**maw loga myaw.** Cat says meow.
+**maw loga myaw.**
+Cat says meow.
 
 
 
 ### auda <small>to listen, hear</small>
 
-**mi no ken auda tu.** I can't hear you.
+**mi no ken auda tu.**
+I can't hear you.
 
-**cing loga forti.** Please speak louder.
+**cing loga forti.**
+Please speak louder.
 
-**mi auda musike.** I listen to music.
+**mi auda musike.**
+I listen to music.
 
-**tu auda ke yang da musike?** What kind of music do you listen to?
+**tu auda ke yang da musike?**
+What kind of music do you listen to?
 
 
 
 ### wida <small>to see</small>
 
-**suku wida tu.** Pleased to see you!
+**suku wida tu.**
+Pleased to see you!
 
-**wida tu re!** See you again!
+**wida tu re!**
+See you again!
 
-**wida tu nale!** See you tomorrow!
+**wida tu nale!**
+See you tomorrow!
 
-**mi wida ye yer.** I saw him/her yesterday.
+**mi wida ye yer.**
+I saw him/her yesterday.
 
 
 
 
 ### mana <small>to mean</small>
 
-**li loge mana ke?** What does this word mean?
+**li loge mana ke?**
+What does this word mean?
 
-**"maw" mana ke?** What does "mau" mean?
+**"maw" mana ke?**
+What does "mau" mean?
 
-**ye mana yang du hewan.** It means a kind of animal.
+**ye mana yang du hewan.**
+It means a kind of animal.
 
-**mi no aha ye mana ke.** I don't understand what it means.
+**mi no aha ye mana ke.**
+I don't understand what it means.
 
 
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu da adres.** Please, write your address.
+**cing kitaba tu da adres.**
+Please, write your address.
 
-**cing kitaba ye na li.** Please, write it here!
+**cing kitaba ye na li.**
+Please, write it here!
 
 
 
 ### baxa <small>speak a language, communicate</small>
 
-**kia tumen baxa pandunia.** Do you speak in Pandunia?
+**kia tumen baxa pandunia.**
+Do you speak in Pandunia?
 
-**mimen baxa pandunia.** We speak in Pandunia.
+**mimen baxa pandunia.**
+We speak in Pandunia.
 
-**kia tu ken baxa engli?** Can you speak English?
+**kia tu ken baxa engli?**
+Can you speak English?
 
-**frans, espanya, portugal, ruski** French, Spanish, Portuguese, Russian
+**frans, espanya, portugal, ruski**
+French, Spanish, Portuguese, Russian
 
-**putong han, nipon, indonesia** Chinese, Japanese, Indonesian
+**putong han, nipon, indonesia**
+Chinese, Japanese, Indonesian
 
-**arabi, turki, farsi, urdu, hindi** Arabic, Turkish, Farsi, Urdu, Hindi
+**arabi, turki, farsi, urdu, hindi**
+Arabic, Turkish, Farsi, Urdu, Hindi
 
-**swahili, hausa, yoruba, amara** Swahili, Hausa, Yoruba, Amharic
+**swahili, hausa, yoruba, amara**
+Swahili, Hausa, Yoruba, Amharic
 
 
 
@@ -522,70 +690,93 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### enda <small>to go</small>
 
-**tu enda ke?** Where are you going?
+**tu enda ke?**
+Where are you going?
 
-**mi enda dom.** I'm going home.
+**mi enda dom.**
+I'm going home.
 
-**mi mus enda ke?** Where should I go?
+**mi mus enda ke?**
+Where should I go?
 
-**mi mus enda to ke ren?** To whom should I go?
+**mi mus enda to ke ren?**
+To whom should I go?
 
-**hayda enda!** Let's go!
+**hayda enda!**
+Let's go!
 
-**hayda enda na pede** Let's go by foot!
+**hayda enda na pede**
+Let's go by foot!
 
 
 
 
 ### lay <small>to come</small>
 
-**cing lay!** Come here!
+**cing lay!**
+Come here!
 
-**tu lay ze ke?** Where do you come from?
+**tu lay ze ke?**
+Where do you come from?
 
-**mi lay ze dubai.** I come from Dubai.
+**mi lay ze dubai.**
+I come from Dubai.
 
-**mi lay dom nale.** I will come home tomorrow.
+**mi lay dom nale.**
+I will come home tomorrow.
 
 
 
 ### safara <small>to travel</small>
 
-**kia tu safara na tren?** Do you travel by train?
+**kia tu safara na tren?**
+Do you travel by train?
 
-**mimen safara ze london ko paris.** We travel from London to Paris.
+**mimen safara ze london ko paris.**
+We travel from London to Paris.
 
-**safar day long.** The voyage is very long.
+**safar day long.**
+The voyage is very long.
 
 
 
 ### na <small>in, on, at</small>
 
-**hotel na ke?** Where is the hotel?
+**hotel na ke?**
+Where is the hotel?
 
-**hotel na li daw.** The hotel is on that road.
+**hotel na li daw.**
+The hotel is on that road.
 
-**tu na ke?** Where are you?
+**tu na ke?**
+Where are you?
 
-**mi na dom.** I'm at home.
+**mi na dom.**
+I'm at home.
 
-**ye na ke?** Where is he/she?
+**ye na ke?**
+Where is he/she?
 
-**ye sida na kamar.** He/she sits in the room.
+**ye sida na kamar.**
+He/she sits in the room.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 
-**mi gong na...** I work at ...
+**mi gong na...**
+I work at ...
 
 
 
 ### doma <small>to live, reside</small>
 
-**tu doma ke?** Where do you live?
+**tu doma ke?**
+Where do you live?
 
-**mi doma singapur.** I live in Singapore.
+**mi doma singapur.**
+I live in Singapore.
 
-**kia tu doma li hotel?** Do you live in this hotel?
+**kia tu doma li hotel?**
+Do you live in this hotel?
 
 Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **doma** already covers the meaning of being at somewhere, so **na** is not necessary.
 
@@ -593,11 +784,14 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 ### denga <small>to wait</small>
 
-**cing denga!** Please wait!
+**cing denga!**
+Please wait!
 
-**yemen denga mimen.** They wait for us.
+**yemen denga mimen.**
+They wait for us.
 
-**mi denga tu na hotel.** I wait for you in the hotel.
+**mi denga tu na hotel.**
+I wait for you in the hotel.
 
 
 
@@ -606,113 +800,158 @@ Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke". However **
 
 ### dona <small>give</small>
 
-**cing dona pesa.** Please give some money.
+**cing dona pesa.**
+Please give some money.
 
-**cing dona ye ko mi.** Please give it to me.
+**cing dona ye ko mi.**
+Please give it to me.
 
-**mi dona li ko tu.** I give this to you.
+**mi dona li ko tu.**
+I give this to you.
 
-**mi dona buke ko yemen.** I give a book to them.
+**mi dona buke ko yemen.**
+I give a book to them.
 
-**ye no wol dona ye ko mi.** He/she doesn't want to give it to me.
+**ye no wol dona ye ko mi.**
+He/she doesn't want to give it to me.
 
 
 
 ### toma <small>take, get</small>
 
-**mi toma un kafé.** I will take a coffee.
+**mi toma un kafé.**
+I will take a coffee.
 
-**cing toma un kafé ko mi.** Please take one coffee for me.
+**cing toma un kafé ko mi.**
+Please take one coffee for me.
 
-**tu pas toma pesa ze mi.** You already got money from me.
+**tu pas toma pesa ze mi.**
+You already got money from me.
 
 <!--
 
 
 ### mai <small>commerce</small>
 
-Tip: Buying and selling a compound words: **mai dar** means _to sell_ and **mai kap** means _to buy_.
+Tip: Buying and selling a compound words: **mai dar**
+means _to sell_ and **mai kap**
+means _to buy_.
 
-**yemen mai dar tot.** They sell everything.
+**yemen mai dar tot.**
+They sell everything.
 
-**mi kap un bir.** I will take a beer.
+**mi kap un bir.**
+I will take a beer.
 
-**mi mai kap un bir.** I will buy a beer.
+**mi mai kap un bir.**
+I will buy a beer.
 
 
 ### kira <small>rent</small>
 
-**mi wol kira kap un gar.** I want to rent a car.
+**mi wol kira kap un gar.**
+I want to rent a car.
 
-**ye kira dar kamar ko biznes ren.** He/she rents rooms to business people.
+**ye kira dar kamar ko biznes ren.**
+He/she rents rooms to business people.
 
-Tip: **Kira** is paired with _give_ and _take_ just like **mai**.
+Tip: **Kira**
+is paired with _give_ and _take_ just like **mai**.
 
 
 ### yang <small>type, kind, sort</small>
 
-**ye si ke yang?** What is it like?
+**ye si ke yang?**
+What is it like?
 
-**kia ye nowi?** Is it new?
+**kia ye nowi?**
+Is it new?
 
-**ke si mas bon?** Which is better?
+**ke si mas bon?**
+Which is better?
 
-**li si maxim bon (ze tot).** This is the best (of all).
-
-
-
-**** How much does it cost?  
-**** Nothing.  
-**** It is cheap / expensive.  
-
-
-**** We are being called.
-
-**** I'm looking for the toilet.
-
-**** Go there / forward / back / left / right.
-**** Come here / back / to us.
+**li si maxim bon (ze tot).**
+This is the best (of all).
 
 
 
-**mi darsa pandunia.** I study Pandunia.
-
-**** Show me in the dictionary!
-**** I don't remember.
-
-**** (I wish you) all the best!
-
-**** I will never forget you.
-
-**** Don't worry! (Hakuna matata!)
-
-**tot si okey.** Everything is alright.
-
-**** Cheers!
-
-**** Of course!
+****
+How much does it cost?  
+****
+Nothing.  
+****
+It is cheap / expensive.  
 
 
-**** Do you like ...?
+****
+We are being called.
 
-**** I feel alright.
+****
+I'm looking for the toilet.
 
-**** Please, sit here!
-
-**** I rather stand.
+****
+Go there / forward / back / left / right.
+****
+Come here / back / to us.
 
 
 
-**** With pleasure!
+**mi darsa pandunia.**
+I study Pandunia.
 
-**parte kaixu na ke sat?** When does the party begin?
+****
+Show me in the dictionary!
+****
+I don't remember.
+
+****
+(I wish you) all the best!
+
+****
+I will never forget you.
+
+****
+Don't worry! (Hakuna matata!)
+
+**tot si okey.**
+Everything is alright.
+
+****
+Cheers!
+
+****
+Of course!
 
 
-**** You are right.
+****
+Do you like ...?
 
-**** Leave me alone!
+****
+I feel alright.
 
-**ke habar?** What's new?
+****
+Please, sit here!
+
+****
+I rather stand.
+
+
+
+****
+With pleasure!
+
+**parte kaixu na ke sat?**
+When does the party begin?
+
+
+****
+You are right.
+
+****
+Leave me alone!
+
+**ke habar?**
+What's new?
 -->
 
 
@@ -784,6 +1023,5 @@ All words of Pandunia are loan words from other languages that are spoken around
 **yemen** they  
 **zay** currently, at present <small>(Mandarin _zài_ 在)</small>  
 **ze** from, since <small>(Czech _z, ze_)</small>  
-
 
 
