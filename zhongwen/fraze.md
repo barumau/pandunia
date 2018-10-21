@@ -8,7 +8,7 @@
 **salam!**
 你好！
 
-**salam suba!**
+**salam subá!**
 早上好！
 
 **salam den!**
@@ -20,10 +20,10 @@
 **salam noce!**
 晚安！
 
-**salam kane!**
+**salam nyam!**
 好胃口！
 
-**salam laye!**
+**salam lay!**
 欢迎！
 
 **salam cute!**
@@ -43,19 +43,19 @@
 **mi tomas.**
 我叫托马。
 
-**mi salama ma.**
+**mi salama mamá.**
 我迎接妈妈。
 
-**mi salama pa.**
+**mi salama papá.**
 我迎接爸爸。
 
-**salam ma!**
+**salam mamá!**
 妈妈，你好！
 
-**salam pa!**
+**salam papá!**
 爸爸，你好！
 
-**mimen salama ma.**
+**mimen salama mamá.**
 我们迎接妈妈。
 
 
@@ -85,13 +85,13 @@
 
 ### ye <small>他，她，它</small>
 
-**ye si fem.**
-她是一个女人。
-
-**ye si man.**
+**ye man.**
 他是一个男人。
 
-**ye si pingo.**
+**ye fem.**
+她是一个女人。
+
+**ye aple.**
 它是一个苹果。
 
 ### kia <small>问</small>
@@ -99,7 +99,7 @@
 **kia tu tomas?**
 请问你是托马吗？
 
-**kia tu doktor?**
+**kia tu dotor?**
 请问你是医生吗？
 
 **kia tu bon?**
@@ -122,7 +122,7 @@
 **tu si sara.**
 你是莎拉。
 
-**mau si hewan.**
+**maw si hewan.**
 猫是动物。
 
 **mi sara.**
@@ -143,14 +143,14 @@ We greet you.
 **ke?**
 什么？
 
-**tu si ke?**
+**tu ke?**
 你是谁？
-**mi si tomas.**
+**mi tomas.**
 我是托马斯。
 
-**ye si ke?**
+**ye ke?**
 她是谁？
-**ye si sara.**
+**ye sara.**
 她是莎拉。
 
 **tumen si ke?**
@@ -165,7 +165,7 @@ We greet you.
 -----
 
 **a** 但是 <small>(俄语 _a_)</small>  
-**batu** 石头 <small>(印尼语 _batu_)</small>  
+**batú** 石头 <small>(印尼语 _batu_)</small>  
 **bazar** 市场 <small>(波斯语 _bāzār_ بازار)</small>  
 **bax** 语言 <small>(印地语 _bhāśā_ भाषा)</small>  
 **bay** 白色 <small>(普通话 _bái_ 白)</small>  

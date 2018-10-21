@@ -21,7 +21,7 @@ Remarque ! Beaucoup de leçons contiennent également des astuces et des remarqu
 **salam**
 Salut !
 
-**salam suba!**
+**salam subá!**
 Bonjour ! (le matin)
 
 **salam den!**
@@ -36,7 +36,7 @@ Bonne nuit !
 **salam nyam!**
 Bon appetit !
 
-**salam laye!**
+**salam lay!**
 Bienvenue !
 
 **salam cute!**
@@ -83,7 +83,7 @@ L'ordre des mots en Pandunia est sujet-verbe-objet.
 **sara salama tomas.**
 Sara salue Thomas.
 
-**salam ma!**
+**salam mamá!**
 Salutations, mère ! | Salut maman !
 
 **salam papá!**
@@ -143,7 +143,7 @@ vient du Lingala "yé", en Swahili il se dit "yeye", en Chichewa "iye", en Zulu:
 **kia tu tomas?**
 Es-tu Thomas ?
 
-**kia tu doktar?**
+**kia tu dotor?**
 Êtes-vous doctor ?
 
 **Astuce : **
@@ -173,16 +173,14 @@ Es-tu Thomas.
 **si, mi tomas.**
 Oui, je suis Thomas.
 
-**kia ye doktar?**
+**kia ye dotor?**
 Est-il/elle doctor ?
 
-**si, ye doktar.**
+**si, ye dotor.**
 Oui, il/elle est doctor.
 
-Le mot **si**
-peut également être utilisé pour souligner/confirmer un fait.
-Dans ce cas, **si**
-ne sera plus traduit comme "être", mais comme "en effet".
+Le mot **si** peut également être utilisé pour souligner/confirmer un fait.
+Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
 **mi si tomas.**
 En effet, je suis Thomas.
@@ -207,7 +205,7 @@ vient de l'Espagnol "si", en Portugais il se dit "sim".</small>
 **mi no sara.**
 Je ne suis pas Sara.
 
-**mi no doktar.**
+**mi no dotor.**
 Je ne suis pas doctor.
 
 **kia tu bon?**
@@ -274,10 +272,10 @@ Qui est-il/elle ?
 **ye sara.**
 C'est Sara.
 
-**tumen si ke?**
+**tumen ke?**
 Qui êtes-vous ?
 
-**yemen si ke?**
+**yemen ke?**
 Qui sont-ils ?
 
 <small>Étymologie : **ke**
@@ -285,18 +283,18 @@ vient de l'espagnol "qué", en Portugais il se dit "que", en Italien "che" et en
 
 
 
-### li <small>ce, cet(te), ces, ceci, cela</small>
+### ce <small>ce, cet(te), ces, ceci, cela</small>
 
-**li si ke? / ke si li?**
+**ce ke? / ke ce?**
 Qu’est-ce que c’est que ça ?
 
-**li si aple.**
+**ce aple.**
 Ceci est une pomme.
 
-**li si ros aple.**
+**ce ros aple.**
 Ceci est une pomme rouge.
 
-**li aple ros.**
+**ci aple ros.**
 Cette pomme est rouge.
 
 Remarque : Quand un adjectif tel que **ros**
@@ -304,6 +302,22 @@ est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est ap
 
 **ye ros.**
 C'est rouge.
+
+
+
+### da <small>possessif</small>
+
+**ye si mi da mamá.**
+C’est ma mère.
+
+**ye si mi da man.**
+C’est mon mari (mon homme).
+
+**ye si mi da fem.**
+C’est ma femme.
+
+**mi si sara da doste.**
+Je suis l’ami de Sara.
 
 
 
@@ -328,7 +342,7 @@ Son nom est Sara.
 **kia tu si tomas?**
 Est-ce que tu es Thomas ?
 
-**kia tu si doktar?**
+**kia tu si dotor?**
 Est-ce que tu es médecin ?
 
 Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi kia tu doktar.**
@@ -370,13 +384,13 @@ Est-ce que ça va ?
 **si. mi bon.**
 Oui, je vais bien.
 
-**kia ada doktar?**
+**kia ada dotor?**
 Est-ce qu’il y a un médecin ?  
-**si. ye si doktar.**
+**si. ye dotor.**
 Oui. Il/elle est médecin.
 
 **kia ada win?**
-Est-ce que tu as du win?  
+Est-ce que tu as du vin?  
 **si. bay i ros.**
 Oui, du blanc et du rouge.
 
@@ -384,13 +398,13 @@ Oui, du blanc et du rouge.
 
 ### no <small>non, ne… pas</small>
 
-**mi no doktar.**
+**mi no dotor.**
 Je ne suis pas médecin.
 
-**li man no doktar.**
+**li man no dotor.**
 Cet homme n’est pas un médecin.
 
-**li aple no ros.**
+**ci aple no ros.**
 Cette pomme n’est pas rouge.
 
 
@@ -400,7 +414,7 @@ Cette pomme n’est pas rouge.
 **mi jan ye.**
 Je le/la connais.
 
-**kia tu jan li jen?**
+**kia tu jan li ren?**
 Est-ce que tu connais cette personne ?
 
 **kia tumen jan bici?**
@@ -411,31 +425,15 @@ Nous nous connaissons l’un l’autre depuis longtemps.
 
 
 
-### da <small>possessif</small>
+### helpe <small>aide, aider</small>
 
-**ye si mi da mamá.**
-C’est ma mère.
-
-**ye si mi da man.**
-C’est mon mari (mon homme).
-
-**ye si mi da fem.**
-C’est ma femme.
-
-**tomas si sara da panyo.**
-Thomas est l’ami de Sara.
-
-
-
-### mede <small>aide, aider</small>
-
-**mi nida mede.**
+**mi nida helpe.**
 J’ai besoin d’aide.
 
-**kia tu ken meda mi?**
+**kia tu ken helpa mi?**
 Est-ce que tu peux m’aider ?
 
-**kia mi ken meda tu?**
+**kia mi ken helpa tu?**
 Est-ce que je peux t’aider ?
 
 
@@ -445,7 +443,7 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**kia tu wol nyama koi?**
+**kia tu wol nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
 **ye nyama aple.**
@@ -457,16 +455,16 @@ Ils/elles mangent des pommes.
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple**
 peut signifier une ou plusieurs pommes.
 
-**kia tu nyama kafe?**
+**kia tu nyama kafé?**
 Est-ce que tu bois du café ?
 
-**mi nyama kafe.**
+**mi nyama kafé.**
 Je bois du café.
 
 Astuce : Le sens de **nyama**
 regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi nyama kafe i nan.**
+**mi nyama kafé i nan.**
 Je prends mon café avec du pain.
 
 
@@ -481,15 +479,15 @@ _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**mi wol nyama kafe.**
+**mi wol nyama kafé.**
 Je veux boire un café.
 
 **kia tu wol nyama ca?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol ca. mi wol kafé.**
 Non, Je ne veux pas de thé. Je veux du café.
 
-**tu wol ke aple?**
+**tu wol ki aple?**
 Quelle pomme veux-tu ?  
 **li ros.**
 La rouge. (mot à mot _cette rouge_)
@@ -501,10 +499,10 @@ La rouge. (mot à mot _cette rouge_)
 **mi cing tu nyama ca.**
 Je te demande si tu veux du thé.
 
-**mi cing tu lay dom.**
+**mi cing tu laya dom.**
 Je te demande de venir à la maison.
 
-**mi cing tu mede mi.**
+**mi cing tu helpa mi.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
@@ -512,13 +510,13 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **cing nyama ca.**
 Un thé, s’il vous plait !
 
-**cing nyama kafe.**
+**cing nyama kafé.**
 Un café, s’il vous plait!
 
-**cing lay dom.**
+**cing laya dom.**
 Viens à la maison, s’il te plait !
 
-**cing meda mi.**
+**cing helpa mi.**
 Aide moi, s’il te plait.
 
 
@@ -534,10 +532,10 @@ Merci à toi.
 **mi danka tu.**
 Je te remercie.
 
-**mi danka tu meda mi.**
+**mi danka tu helpa mi.**
 Je te remercie de m’aider.
 
-**danka tu meda mi.**
+**danka tu helpa mi.**
 Merci de m’aider.
 
 **tu keci.**
@@ -545,22 +543,22 @@ De rien. (mot à mot : _tu es poli._)
 
 
 
-### hayda <small>hortatif (impératif avec « nous »)</small>
+### haida <small>hortatif (impératif avec « nous »)</small>
 
-**hayda nyama!**
+**haida nyama!**
 Mangeons !
 
-**hayda enda nyama!**
+**haida enda nyama!**
 Allons manger !
 
-**hayda enda dom.**
+**haida enda dom.**
 Allons à la maison.
 
 
 
 ### nida <small>besoin</small>
 
-**mi nida mede.**
+**mi nida helpe.**
 J’ai besoin d’aide.
 
 **mi nida nyama.**
@@ -569,7 +567,7 @@ J’ai faim.
 **kia tu nida nyama?**
 Est-ce que tu as faim ?
 
-**kia tu nida sui?**
+**kia tu nida suy?**
 Est-ce que tu as soif ?
 
 
@@ -577,15 +575,15 @@ Est-ce que tu as soif ?
 
 ## 3e partie : Communication
 
-### sori <small>désolé, pardon, excuse</small>
+### pardon <small>désolé, pardon, excuse</small>
 
-**sori! mi no aha.**
+**pardon! mi no aha.**
 Désolé, je ne comprends pas.
 
-**sori! li ke?**
+**pardon! ce ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
-**sori. tu nam ke?**
+**pardon. tu namu ke?**
 Pardon, quel est ton nom ?
 
 
@@ -598,7 +596,7 @@ Est-ce que tu me comprends ?
 **mi aha.**
 Je comprends.
 
-**sori. mi no aha tu.**
+**pardon. mi no aha tu.**
 Désolé, je ne t’ai pas compris.
 
 **mi no bas aha tu.**
@@ -611,10 +609,10 @@ Je n’ai rien compris du tout.
 
 ### ken <small>pouvoir, savoir</small>
 
-**mi ken gida gar.**
+**mi ken gida kar.**
 Je sais conduire une voiture.
 
-**ye no ken gida gar.**
+**ye no ken gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
 **kia tu ken xula ye?**
@@ -629,10 +627,10 @@ Je parle pandunia.
 **mi ken lil pandunia.**
 Je parle un peu pandunia.
 
-**mi no ken englix.**
+**mi no ken engli.**
 Je ne parle pas anglais.
 
-**sori. mi no ken tu da baxa.**
+**pardon. mi no ken tu da baxa.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -648,13 +646,13 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mimen loga to bici.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loga ke yang bi pandunia ki "chat"?**
+**se loga "chat" na ke yang na pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" si ke bi pandunia?**
+**"chat" si ke na pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
-**maw loga myaw.**
+**maw loga miaw.**
 Un chat dit miaou.
 
 
@@ -675,31 +673,31 @@ Quel genre de musique est-ce que tu écoutes ?
 
 ### wida <small>voir</small>
 
-**suk wida tu.**
+**suku wida tu.**
 Heureux de te voir !
 
 **wida tu re!**
 On se voit plus tard !
 
-**wida tu nale!**
+**wida tu ming den!**
 On se voit demain !
 
 **mi wida ye yer.**
 Je l’ai vu(e) hier.
 
 
-### mana <small>signifier, vouloir dire</small>
+### mena <small>signifier, vouloir dire</small>
 
-**li loge mana ke?**
+**ci loge mena ke?**
 Que veut dire ce mot ?
 
-**"maw" mana ke?**
+**"maw" mena ke?**
 Que signifie « mau » ?
 
-**ye mana yang du hewan.**
+**ye mena yang du hewan.**
 Ça signifie un genre d’animal.
 
-**mi no aha ye mana ke.**
+**mi no aha ye mena ke.**
 Je ne comprend pas ce que cela signifie.
 
 
@@ -722,16 +720,16 @@ Nous parlons pandunia.
 **kia tu ken baxa engli?**
 Est-ce que tu parles anglais ?
 
-**frans, espanya, portugal, ruski**
+**fransi, espani, portugal, rusi**
 français, espagnol, portugais, russe
 
-**putong han, nipon, indonesia**
+**putong han, nipon, indonesi**
 chinois, japonas, indonésien
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, farsi, urdi, hindi**
 arabe, turc, persan, ourdou, hindi
 
-**swahili, hausa, yoruba, amara**
+**swahili, hausi, yorubi, amari**
 swahili, haoussa, yorouba, amharique
 
 
@@ -746,40 +744,40 @@ Où vas-tu ?
 **mi enda dom.**
 Je vais à la maison.
 
-**mi mus enda ke?**
+**mi bixu enda ke?**
 Où est-ce que je dois aller ?
 
-**mi mus enda ke jen?**
+**mi bixu enda to ki ren?**
 Je dois aller (voir) qui ?
 
-**hayda enda!**
+**haida enda!**
 Allons-y !
 
-**hayda enda bi ped**
+**haida enda na pede**
 On y va à pied !
 
 
-### lay <small>venir</small>
+### laya <small>venir</small>
 
-**cing lay!**
+**cing laya!**
 Viens ici !
 
-**tu lay ze ke?**
+**tu laya ze ke?**
 D’où viens-tu ?
 
-**mi lay ze dubai.**
+**mi laya ze dubai.**
 Je viens de Dubaï.
 
-**mi lay dom nale.**
+**mi laya dom ming den.**
 Je vais à la maison demain.
 
 
-### safar <small>voyager</small>
+### safara <small>voyager</small>
 
-**kia tu safar bi tren?**
+**kia tu safara na tren?**
 Est-ce que tu voyages en train ?
 
-**mimen safar ze london to paris.**
+**mimen safara ze london to paris.**
 Nous voyageons de Londres à Paris.
 
 **safar day long.**
@@ -809,7 +807,7 @@ Il/elle est assis(e) dans la pièce.
 Astuce ! Vous pouvez utiliser **na**
 comme préposition ou tout seul comme un verbe.
 
-**mi gong na...**
+**mi werka na...**
 Je travaille à ...
 
 
@@ -824,19 +822,19 @@ recouvre déjà l’idée d’être à un endroit.
 **mi doma singapur.**
 Je vis à Singapore.
 
-**kia tu doma li hotel?**
+**kia tu doma ci hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
 
-### deng <small>attendre</small>
+### denga <small>attendre</small>
 
-**cing deng!**
+**cing denga!**
 Veuillez attendre !
 
-**yemen deng mimen.**
+**yemen denga mimen.**
 Ils nous attendent.
 
-**mi deng tu na hotel.**
+**mi denga tu na hotel.**
 Je t’attends à l’hôtel.
 
 
@@ -845,27 +843,15 @@ Je t’attends à l’hôtel.
 ## 5e partie : Faire des affaires
 
 
-### kapa <small>prendre, avoir/recevoir</small>
-
-**mi kapa un kafe.**
-Je vais prendre un café.
-
-**cing kapa un kafe to mi.**
-Prends-moi un café, s’il te plait.
-
-**tu ja kapa pesa ze mi.**
-tu as déjà eu de l’argent de ma part.
-
-
 ### dona <small>donner</small>
 
-**cing dona pesa.**
+**cing dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
 **cing dona ye to mi.**
 Donne-le moi, s’il te plait.
 
-**mi dona li to tu.**
+**mi dona ce to tu.**
 Je te donne ceci.
 
 **mi dona buke to yemen.**
@@ -873,6 +859,18 @@ Je leur donne un livre.
 
 **ye no wol dona ye to mi.**
 Il/elle ne veut pas me le donner.
+
+
+### toma <small>prendre, avoir/recevoir</small>
+
+**mi toma un kafé.**
+Je vais prendre un café.
+
+**cing toma un kafé to mi.**
+Prends-moi un café, s’il te plait.
+
+**tu pas toma pese ze mi.**
+tu as déjà eu de l’argent de ma part.
 
 
 <!--
@@ -1004,28 +1002,34 @@ Quoi de neuf ?
 Liste de mots
 -------------
 
-Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde. Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez. Habituellement, un mot en pandunia est partagé par plusieurs langues. Par exemple, **mamá** et **papá** sont connus dans des centaines de langues. Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
+Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde.
+Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez.
+Habituellement, un mot en pandunia est partagé par plusieurs langues.
+Par exemple, **mamá** et **papá** sont connus dans des centaines de langues.
+Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 
 
 **a** mais <small>(Russe _a_ а)</small>  
+**ada** avoir, il y a <small>(Indonesien _ada_)</small>  
 **aple** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
-**bai** blanc <small>(Mandarin _bái_ 白)</small>  
-**batu** pierre <small>(Indonésien _batu_)</small>  
+**bay** blanc <small>(Mandarin _bái_ 白)</small>  
+**batú** pierre <small>(Indonésien _batu_)</small>  
 **bazar** marché <small>(Persan _bāzār_ بازار)</small>  
 **bax** langue <small>(Hindi _bhāśā_ भाषा)</small>  
 **baxa** communiquer  
 **blu** bleu <small>(Anglais _blue_)</small>  
-**bon** bon
+**bon** bon  
 **ca** thé <small>(Mandarin _chá_ 茶)</small>  
 **cing** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russe _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
 **doma** vivre, habiter, résider  
-**englix** anglais <small>(Anglais _English_)</small>  
+**dotor** docteur <small>(Portuguese _doutor_)</small>  
+**engli** anglais <small>(Anglais _English_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
-**ada** avoir, il y a <small>(Anglaise _have_)</small>  
-**adar** nouvelles <small>(Malais _kadar_)</small>  
+**helpa** aider <small>(Français _aider_)</small>  
+**habar** nouvelles <small>(Malais _kabar_)</small>  
 **i** et <small>(Polonais _i_)</small>  
 **jan** savoir <small>(Thaï _saap_ ทราบ)</small>  
 **kafe** café <small>(Allemand _Kaffee_)</small>  
@@ -1038,14 +1042,14 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **lay** venir <small>(Vietnamien _lay_)</small>  
 **mamá** maman <small>(Mandarin _māma_ 妈妈)</small>  
 **man** homme <small>(Anglais _man_)</small>  
-**mana** signifier, vouloir dire <small>(Swahili _maana_)</small>  
-**meda** aider <small>(Français _aider_)</small>  
+**mena** signifier, vouloir dire <small>(Swahili _maana_)</small>  
 **mi** je, me <small>(Swahili _mimi_)</small>  
 **mimen** nous  
 **nida** avoir besoin, nécessaire <small>(Anglais _need_)</small>  
 **no** non, ne… pas <small>(Espagnol _no_)</small>  
 **noce** nuit <small>(Espagnol _noche_)</small>  
 **nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
+**nyama** manger, boire <small>(Turc _yemek_)</small>  
 **papá** papa <small>(Russe _papa_ папа)</small>  
 **ren** personne <small>(Mandarin _rén_ 人)</small>  
 **ros** rouge <small>(Italien _rosso_)</small>  
@@ -1053,7 +1057,7 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **safar** voyager <small>(Arabe _safar_ سفر)</small>  
 **salam** saluer, salut <small>(Arabe _salām_ سلام)</small>  
 **si** oui; être <small>(Espagnol _sí_)</small>  
-**suba** matin <small>(Wolof _subba_)</small>  
+**subá** matin <small>(Wolof _subba_)</small>  
 **tu** tu/toi <small>(Hindi _tū_)</small>  
 **tumen** vous tous  
 **u** ou <small>(Français _ou_)</small>  
@@ -1062,7 +1066,6 @@ Tous les mots du pandunia sont des emprunts à des mots d’autres langues parl�
 **wang** yellow <small>(Cantonese _wong_)</small>  
 **xam** soir <small>(Hindi _śām_ शाम )</small>  
 **ye** il, elle <small>(Lingala _yé_)</small>  
-**nyama** manger, boire <small>(Turc _yemek_)</small>  
 **yemen** ils, elles  
 
 
