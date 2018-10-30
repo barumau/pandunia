@@ -981,7 +981,6 @@ However, only one source word is included in this word list as an example.
 **bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
 **bax** language; communication <small>(Hindi _bhāśā_ भाषा)</small>  
 **baxa** speak, communicate  
-**blu** blue <small>(English _blue_)</small>  
 **bon** good <small>(French _bon_)</small>  
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
 **ci** this; these</small>  

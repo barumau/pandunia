@@ -36,7 +36,7 @@ These are the 11 basic rules of Pandunia language.
 10. Pronouns can be left out when they are obvious and redundant.
     - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Do you speak Pandunia?
     - **mi cing tu loga ming.** →  **cing loga ming.** = Please speak clearly.
-11. Derived words carry an optional ending. Adjectives end in -i, nouns end in -e, and verbs end in -a or -u.
+11. Derived words carry an ending. Adjectives end in -i, nouns end in -e, and verbs end in -a or -u.
 
 
 --------------------------------------------------------------------------------
@@ -853,7 +853,7 @@ Words that are adjectives _by birth_ don't need the ending. That's why for examp
 
 If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **now-** = quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
 
-If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
+If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken".
 
 If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
 
