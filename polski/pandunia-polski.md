@@ -1939,7 +1939,7 @@ xirer : poeta
 xirope : syrop  
 xix : ćsi  
 xixi : cichy  
-xoke : szokwstrząs; kolizja  
+xoke : szok, wstrząs; kolizja  
 xow : pokaz, ekspozycja, wystawa  
 xowa : pokazać, pokazywać, wystawić, wystawiać  
 xu : drzewo  
