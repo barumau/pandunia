@@ -5,7 +5,7 @@
   
   
   
-    
+  
     
     
     
@@ -103,9 +103,9 @@ amuse (entertain)   : maza
 anal   : anusi  
 analyse   : analisa  
 analysis   : analis  
-Ancient Egypt (Kemet)   : kemet  
+Ancient Egypt (Kemet)   : kemia  
 and   : i  
-Angola   : angolá  
+Angola   : angolia  
 animal   : hewan  
 animate   : anima  
 animation (cartoon)   : anime  
@@ -149,13 +149,13 @@ asthma   : asma
 athlete (sportsman)   : keler  
 atom   : atom  
 attack   : atake  
-attention (focus)   : dian  
 August   : mes 8 (mes bat)  
 Australia   : australia  
 Austria   : osteria  
+autumn (fall)   : oton  
 avocado   : awakate  
 awake   : weki  
-aware (enlightened)   : budi  
+aware (enlightened)   : bodi  
 axe (hatchet)   : tabar  
 axis (axle)   : akse  
 Azerbaijan   : azeria  
@@ -219,7 +219,6 @@ Belgium   : belgia
 belief (faith, creed)   : xin  
 believe   : xina  
 Belize   : belizia  
-bell pepper   : cili  
 belly (abdomen)   : fubú  
 belong   : adu  
 belt (zone)   : zon  
@@ -279,19 +278,19 @@ breakfast   : subá nyam
 breast (boob, tits)   : mam  
 breath   : nafas  
 bright (clear)   : ming  
-broken (out of order)   : kaput  
+broken (out of order)   : kaputi  
 bromine   : brom  
 brown (coffee-colored)   : kafi  
 Brunei Darussalam   : bruney  
 brush   : brox  
 bubble   : bulbul  
 bucket   : balde  
+Buddha   : bude  
 Buddhism   : budisme  
 budget   : bujete  
 bugle (horn instrument)   : laba  
 build (construct)   : bina  
 Bulgaria   : bolgaria  
-bunch (collection)   : men  
 Burkina Faso   : burkiná  
 burn (be burned)   : jalu  
 burn (cause to burn)   : jala  
@@ -313,7 +312,7 @@ cage   : kafas
 cake (cookie)   : keke  
 calcium (Ca)   : kalsium  
 calculate   : hisaba  
-calculation (arithmetic, computation)   : hisab  
+calculation (arithmetic, computation)   : hisabe  
 caliph   : halif  
 call (give name)   : nama  
 calm (peaceful)   : xanti  
@@ -360,7 +359,7 @@ Chad   : cadia
 chain   : silsil  
 chair   : kurse  
 champion   : campion  
-change (alter)   : altera  
+change (alter, convert)   : muta  
 channel   : kanal  
 chaos (disorder, turmoil)   : haos  
 chapter (section)   : babe  
@@ -380,17 +379,16 @@ chickpea   : humus
 chief (boss)   : xefe  
 child (offspring)   : bace  
 Chile   : cile  
-chili pepper   : lat cili  
 chimpanzee   : cimpanze  
 China   : jungogia  
 chinchilla   : cincila  
 chlorine   : klor  
 chocolate   : cokolate  
 chocolate bar   : cokolate baton  
-choice (election, selection)   : cun  
+choice (election, selection)   : cunze  
 choir (chorus)   : kor  
 cholera   : kolera  
-choose (elect, select)   : cuna  
+choose (elect, select)   : cunza  
 Christ (messiah)   : kriste  
 Christendom   : kristia  
 Christian   : kristi  
@@ -436,7 +434,6 @@ colony (settlement)   : kolonia
 color   : rang  
 column (pillar)   : kolum  
 come   : laya  
-Come in!   : cing lay in!  
 comic (cartoon)   : manga  
 comma   : komá  
 common (shared)   : komun  
@@ -589,6 +586,7 @@ dumpling (ravioli, pelmeni)   : pelmen
 duration   : dur  
 dust   : dul  
 dysprosium   : disprosium  
+e-mail   : eletri poste (e-poste)  
 ##e  
 earn (gain)   : ganya  
 earth (ground, soil)   : zem  
@@ -646,7 +644,7 @@ European Union (EU)   : europi unia
 europium   : europium  
 evaluate (review, comment, criticise)   : pipinga  
 evaluation (criticism)   : piping  
-even (intensifier)   : hata  
+even (intensifier)   : hati  
 evening   : xam  
 event (case, instance)   : kaze  
 every (each)   : mey  
@@ -663,7 +661,7 @@ exit (leaving)   : cute
 exit door   : cute mun  
 eye   : yen  
 ##f  
-face   : muka  
+face   : muke  
 factory   : fateria  
 fairy   : peri  
 Falkland Islands (Malvinas)   : malvina nesia  
@@ -674,7 +672,9 @@ fantastic (imaginary)   : fantazi
 fantasy (imagination)   : fantaze  
 far (distant)   : tel  
 farewell   : salam cute  
-fart   : perda  
+farmer   : nonger  
+fart (flatulate)   : perda  
+fart (flatulence)   : perde  
 fascination   : fasin  
 fascism   : faxisme  
 fascist   : faxiste  
@@ -707,10 +707,10 @@ fine (delicate)   : fain
 finger (toe)   : finger  
 finger ring   : finger wen  
 finish (put an end to)   : fina  
-finished   : fini  
 Finland   : suomia  
 Finnish   : suomi  
 fire   : fay  
+first (beginning)   : muli  
 first (number one)   : numer un  
 fish   : fix  
 five (5)   : lim  
@@ -726,7 +726,7 @@ focus (concentration)   : fokus
 follow (come after)   : bada  
 food (meal)   : nyam  
 fool (buffoon)   : bufon  
-foot   : ped  
+foot   : pede  
 football   : fute bol  
 force (strength)   : bale  
 foreign   : way dexi  
@@ -778,12 +778,12 @@ gauze   : gaze
 gay (homosexual)   : gey  
 gazelle   : gazel  
 gel (jelly)   : jele  
-gender (biological sex)   : jins  
+gender (biological sex)   : jinse  
 germanium   : germanium  
 Germany   : doicia  
 gesture   : jeste  
 get (receive, obtain, take)   : geta  
-Ghana   : ganá  
+Ghana   : gania  
 ghost (fantom)   : fantom  
 Gibraltar   : jibraltar  
 gift   : don  
@@ -872,7 +872,7 @@ hear (listen)   : auda
 heart   : xim  
 Hebrew   : ibri  
 helium   : helium  
-hell   : narak  
+hell   : narake  
 hello (hi)   : haló  
 helmet   : helme  
 help (aid, assistance)   : helpe  
@@ -881,9 +881,11 @@ hemp (cannabis)   : ganjá
 heritage (legacy, bequest)   : waris  
 hero   : heró  
 heroic   : herói  
+heterosexual   : ali jinse kami  
 high   : gaw  
 Himalayas   : himalia  
-Hindu   : hindu  
+Hindu   : hindú  
+Hinduism   : hindúisme  
 hinge (pivot)   : xarnir  
 hippopotamus   : gubú  
 historian   : historer  
@@ -898,11 +900,11 @@ holmium   : holmium
 holy (sacred)   : santi  
 Holy See (Vatican City State)   : vatikan  
 home (residence)   : dom  
-homosexual   : sem jins kami  
+homosexual   : sem jinse kami  
 Honduras   : honduras  
 honey   : medu  
 Hong Kong, SAR China   : hong gong  
-honorable (respectable)   : xarifi  
+honorable (respectable)   : onori  
 hope (wish)   : inxala  
 hormone   : hormon  
 horn   : korne  
@@ -947,16 +949,15 @@ inform (communicate)   : informa
 information   : informe  
 inject   : juxa  
 injection   : juxe  
-ink   : mog  
+ink   : moge  
 insect   : koncung  
-inside (interior)   : in  
 inspire   : inspira  
 insult (offence)   : ninde  
 intend (plan)   : plana  
 interest (interesting)   : interes  
 interpreter (translator)   : tarjumer  
 interrogative   : kii  
-invite   : cing lay  
+invite   : cing laya  
 iodine   : iode  
 iodine   : yode  
 Iran   : iran  
@@ -964,6 +965,7 @@ Iraq   : irakia
 iridium   : iridium  
 iron   : fer  
 Islam   : islam  
+islami xaria  shari'a    
 Islamic   : islami  
 island   : nes  
 Isle of Man   : manin  
@@ -997,13 +999,15 @@ July   : mes 7 (mes set)
 jump   : salta  
 June   : mes 6 (mes sis)  
 Jupiter   : muxing  
+just (fair)   : xari  
 just (recently)   : gang  
+justice   : xaria  
 ##k  
 Kannada   : kannadi  
 karaoke   : karaoke  
 karate   : karate  
 Kazakhstan   : kazahia  
-Kenya   : kenya  
+Kenya   : kenia  
 ketchup   : kecape  
 kettle   : ketel  
 key   : cabi  
@@ -1024,7 +1028,7 @@ Kiribati   : kiribatia
 kiss   : bis  
 kitchen   : kuke kamar  
 kiwi fruit   : kiwi  
-knead (massage)   : masa  
+knead (massage)   : masaja  
 knife   : cakú  
 knot (node; tie)   : node  
 know   : jan  
@@ -1043,7 +1047,7 @@ language (communication)   : bax
 lantern   : lanten  
 Laos   : lao  
 larva (maggot, caterpillar)   : larwa  
-last (final)   : final  
+last (final)   : fini  
 last (take time, during)   : dura  
 Latin alphabet   : latini abace  
 Latvia   : latvia  
@@ -1063,7 +1067,7 @@ lengthen (prolong)   : longa
 Lesotho   : soto  
 less   : min  
 lesson   : darse  
-let's   : hayda  
+let's   : haida  
 letter (character, written symbol)   : harfe  
 letter (message)   : letre  
 lettuce   : letis  
@@ -1080,7 +1084,6 @@ like (enjoy, be fond of)   : suku
 lilac   : lilak  
 lily   : lilya  
 limit (boundary)   : limite  
-line (row)   : file  
 line (stripe)   : linye  
 linguistics   : bax lojia  
 lion   : sing  
@@ -1173,16 +1176,16 @@ Maya   : mayá
 Mayotte   : mayote  
 mean (cruel)   : zalim  
 mean (medium, average)   : medi  
-mean (signify)   : mana  
-meaning (signification)   : mane  
+mean (signify)   : mena  
+meaning (signification)   : mene  
 measure   : metre  
 meat (flesh)   : manse  
-medallion (medal)   : medalia  
+medallion (medal)   : medal  
 media   : media  
 medicine (field of study)   : medikia  
 meditate (ponder)   : medita  
 meet   : mita  
-meeting (gathering)   : mit  
+meeting (gathering)   : mite  
 melodious (melodic)   : melodi  
 melody   : melodia  
 melt (get molten)   : mayu  
@@ -1191,8 +1194,9 @@ member (participant)   : member
 memory   : memor  
 Mercury   : budan  
 metal   : metal  
-meter   : meter  
-method (way, manner)   : metod  
+meter   : metre  
+method (way, manner)   : metode  
+method (way, manner)   : metode  
 Mexico   : mexiko  
 micro-   : mikro  
 Micronesia   : mikronesia  
@@ -1216,7 +1220,7 @@ mirror   : mirer
 misfortune (bad luck)   : mal zar  
 model (design)   : model  
 Moldova   : moldovia  
-mole (burrowing animal)   : krot  
+mole (burrowing animal)   : krote  
 Monaco   : monako  
 Monday   : war 1 (war un)  
 money   : pese  
@@ -1246,7 +1250,7 @@ move (transfer, change place)   : kina
 movement   : kine  
 Mozambique   : mozambike  
 MSG (monosodium glutamate)   : micin  
-mud (mire)   : poto  
+mud (mire)   : potó  
 mummy   : mumia  
 muscle   : muskul  
 music   : musike  
@@ -1347,7 +1351,7 @@ only (alone, solely, just)   : mon
 open   : kaya  
 open (not closed)   : kay  
 opinion (view)   : igen  
-opportunity (chance)   : cans  
+opportunity (chance)   : canse  
 or   : u  
 orange (fruit)   : aranje  
 orange (orange-colored)   : aranji  
@@ -1364,7 +1368,7 @@ Oromo (an Ethiopian ethnic group and language)   : oromi
 orphan   : yatim  
 orphanage   : yatim kan  
 osmium   : osmium  
-other   : alter  
+other   : ali  
 ouch! (alas!)   : ay  
 outside (exterior)   : way  
 overpass   : supre  
@@ -1411,7 +1415,7 @@ pause (interrupt)   : pausa
 pay   : peya  
 payment   : pey  
 peanut (groundnut)   : zem dow  
-pear   : pera  
+pear   : per  
 pearl   : jenjú  
 pen   : kalam  
 penguin   : pinguin  
@@ -1420,12 +1424,12 @@ peony   : mudan
 people (folk)   : nas  
 people (society)   : demó  
 pepper (Piper nigrum)   : pimente  
-perfect   : perfet  
 permission   : permis  
 Persian (Farsi)   : farsi  
 person (people)   : ren  
 personal (intimate, private)   : tani  
-Peru   : peru  
+Peru   : perú  
+Philippines   : filipinia  
 Philippines   : pilipinia  
 philosopher   : filsofer  
 philosophic   : filsofi  
@@ -1549,7 +1553,6 @@ pudding   : puding
 Puerto Rico   : puerto riko  
 pull   : tira  
 pump   : pompa  
-pungent (spicy, hot)   : lat  
 Punjabi   : panjabi  
 push   : puxa  
 Qatar   : kataria  
@@ -1575,8 +1578,8 @@ Ramadan   : ramazan
 random   : zari  
 read   : duga  
 ready   : redi  
-realization (awareness, enlightenment, bodhi)   : bude  
-realize   : buda  
+realization (awareness, enlightenment, bodhi)   : bode  
+realize   : boda  
 reason (rational thinking)   : razon  
 rebellion   : rebel  
 receit   : resid  
@@ -1597,6 +1600,8 @@ rent out (let, lease)   : kirisa
 repair (fix)   : xula  
 repair (fix)   : xule  
 repairer   : xuler  
+repeat   : repa  
+repetition (rep)   : repe  
 report   : reporte  
 report (recount, relate)   : reporta  
 represent   : wakila  
@@ -1604,7 +1609,7 @@ Republic of Macedonia   : makedonia
 research (to study)   : loja  
 resemble (be like)   : semu  
 resin   : rezin  
-respect (honor, esteem)   : xarifa  
+respect (honor, esteem)   : onor  
 respond (give an answer)   : daba  
 rest (relief)   : resta  
 rest (remainder)   : reste  
@@ -1623,17 +1628,17 @@ right (justification, privilege)   : hak
 risk   : riske  
 risky   : riski  
 ritual (ceremony)   : rite  
-river   : nadi  
+river   : nade  
 rob (loot)   : luta  
 robot   : robote  
 rocket   : rokete  
-roentgenium   : rentgenium  
+roentgenium   : rengenium  
 role   : rol  
 roll   : rula  
 Roman Empire   : roma empiria  
 Romania   : romania  
 romantic   : romansi  
-romantic love   : romans  
+romantic love   : romanse  
 Rome   : roma  
 roof   : cate  
 room (chamber)   : kamar  
@@ -1642,6 +1647,7 @@ rose   : roze
 rotor (rotator)   : rotor  
 round (circular)   : sirki  
 routine (habit)   : rutin  
+row (line, queue)   : rade  
 royal   : raji  
 rubber   : gom  
 rubidium   : rubidium  
@@ -1671,7 +1677,6 @@ Samoa   : samoa
 sand   : sande  
 Sao Tome and Principe   : santi tome i prinsipe  
 Saturday   : war 6 (war sis)  
-Saturn   : xani  
 sauce   : sos  
 Saudi Arabia   : saudi arabia  
 sauna   : sauna  
@@ -1699,7 +1704,7 @@ self   : se
 self   : tan  
 send by mail   : posta  
 Senegal   : senegal  
-sense   : sens  
+sense   : sense  
 sentence (phrase)   : jumle  
 September   : mes 9 (mes noy)  
 Serbia   : serbia  
@@ -1715,7 +1720,6 @@ shadow   : caye
 shaman   : xaman  
 shampoo   : xampú  
 shape (sculpt)   : forma  
-shari'a   : xaria  
 shea   : karite  
 sheep   : meme  
 shirt   : kamis  
@@ -1774,6 +1778,7 @@ sometime   : koy zaman
 son   : man ban  
 song   : cante  
 soon   : sun  
+sorry (pardon)   : pardon  
 sorry (regret)   : maf  
 sound (audio)   : sonde  
 sound (make a sound)   : sonda  
@@ -1796,6 +1801,7 @@ spirit (soul, mind)   : ruhe
 spit   : tuka  
 spoon   : camce  
 sport (athletics)   : kel  
+spring (springtime)   : cune  
 square (plaza)   : maydan  
 squirrel   : lixú  
 Sranan Tongo   : surinam bax  
@@ -1812,6 +1818,7 @@ status (condition, state)   : state
 steal   : cura  
 steamed bun (mantou, manti)   : mante  
 steer   : gida  
+step (degree, rank, grade, level, class)   : darje  
 still (yet)   : hay  
 stipulate   : xarta  
 stone   : batú  
@@ -1827,8 +1834,8 @@ subway (metro)   : tunel tren
 suck   : cupa  
 Sudan   : sudan  
 suffer (get hurt)   : paxu  
-suffer (hurt)   : paxia  
 suffer (passivizing verb)   : bey  
+suffering   : paxia  
 suffix for (result of) action   : -e  
 suffix for adjectives   : -i  
 suffix for areas   : -ia  
@@ -1842,6 +1849,7 @@ suggestion (proposal)   : teyan
 sulfur   : sulfe  
 sum (total)   : sum  
 sum up (add together)   : suma  
+summer   : lete  
 sun   : sol  
 Sunday   : war 7 (war set)  
 superb (wonderful, super)   : super  
@@ -1934,13 +1942,13 @@ thorium   : torium
 thought (idea)   : fikre  
 thousand (kilo-)   : kilo  
 three (3)   : sam  
-throat (gullet)   : gola  
 throw (launch)   : lanca  
 thulium   : tulium  
 thunder (roaring)   : grom  
 Thursday   : war 4 (war car)  
 ticket   : tikete  
 tie (fasten, bind)   : banda  
+tiger   : bagre  
 tikka (piece)   : tike  
 tikka masala   : tike masal  
 time (moment)   : zaman  
@@ -2004,7 +2012,7 @@ typewriter   : kitabe maxin
 tyranny   : tirania  
 tyrant   : tiran  
 ##u  
-Uganda   : gandá  
+Uganda   : gandia  
 ugly   : mal rupi  
 Ukraine   : ukraina  
 uncover (reveal)   : kapula  
@@ -2096,6 +2104,7 @@ wind   : fong
 window   : janela  
 wine   : win  
 wing   : wing  
+winter   : xite  
 wisdom   : sofia  
 wise   : sofi  
 with (by, at, in, on)   : na  
