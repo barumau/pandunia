@@ -1,7 +1,8 @@
 Spelling of Pandunia
 ====================
 
-The Basic Latin alphabet is used for writing Pandunia. Here is the alphabet of Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
+The Basic Latin alphabet is used for writing Pandunia.
+Here is the alphabet of Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
     Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
     IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]

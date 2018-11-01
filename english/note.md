@@ -87,3 +87,39 @@ So here the first sentence uses object–verb word order, where **ci apel** (thi
 You can even say **ce ci apel nyamu.** = This eats this apple. The same sentence in the more common SVO word order would be **ce nyama ci apel.**
 
 
+### Titles
+
+<small>2018-10-30</small>
+
+It's polite to use titles when talking about people. Western languages often use gender-specific words like *mister* and *señor* (for men) and *miss* and *señora* (for women). East Asian languages use so called honorifics, like Japanese *san* and *sama*.
+
+In Pandunia you can use the word **onori** (meaning *honorable, respected*) for all genders.
+
+**onori maria ernandes** - Ms. Maria Hernandez  
+**onori yusef malik** - Mr. Yusef Malik
+
+
+### Calculating in Pandunia
+
+<small>2018-10-30</small>
+
+How to multiply in Pandunia? Interestingly, you can use numbers as verb modifiers.
+
+**mi do mara car.**  
+_I two-ly multiply four._  
+I multiply two and four.
+
+**mi do fena car.**  
+_I two-ly divide four._  
+I divide four by two.
+
+2 × 4 = 8  
+**do mara car egala ba.**  
+Two times four equals eight.
+
+6 / 2 = 3  
+**sis fenu do egala sam.**  
+Six divided by two equals three.
+
+
+
