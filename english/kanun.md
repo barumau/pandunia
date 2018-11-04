@@ -861,9 +861,9 @@ If the root is a place word, then it's adjectival form will mean "that which is 
 
 **iran** Iran, **irani** Iranian  
 **pakistan** Pakistan, **pakistani** Pakistani  
-**amerika** America, **amerikai** American  
-**europa** Europe, **europai** European  
-**asia** Asia, **asiai** Asian
+**amerike** America, **ameriki** American  
+**europe** Europe, **europi** European  
+**asia** Asia, **asi** Asian
 
 #### 11.1.5. Words without an ending
 
@@ -882,7 +882,15 @@ Note! Pandunia doesn't follow the rule about action-roots because we think that 
 
 ### 11.2. Derivational Suffixes
 
-#### 11.2.1. -er
+
+#### 11.2.1. -bli
+
+Indicates possibility. It is attached after the verb root.
+
+**widabli** which can be seen, visible  
+**widubli** who/which can see
+
+#### 11.2.2. -er
 
 Creates agent nouns. It denotes a person or a tool who does the action.
 
@@ -891,14 +899,13 @@ Creates agent nouns. It denotes a person or a tool who does the action.
 **lida** to lead; **lider** leader, the one who leads  
 **filsofa** to think deeply; **filsofer** philosopher  
 **komputa** to compute, to process data; **komputer** computer  
-**marta** to kill; **marter** killer  
+**morta** to kill; **morter** killer  
 
 The derivative can be also more loosely associated with the root.
 
 **sapate** shoe; **sapater** shoemaker  
 **muskete** musket; **musketer** musketeer  
 **kase** cash desk; **kaser** cashier  
-
 
 <!--
 
@@ -907,12 +914,12 @@ The derivative can be also more loosely associated with the root.
 Creates patient nouns from action roots. It denotes a person or a thing to whom the action is done.
 
 **kriata** to create; **kriatur** creature, the one who is created  
-**marta** to kill; **martur** the one who gets killed; by extension: a martyr  
+**morta** to kill; **mortur** the one who gets killed; by extension: a martyr  
 **folda** to fold; **foldur** folder, something that is folded
 
 -->
 
-#### 11.2.4. -ia
+#### 11.2.3. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -940,17 +947,16 @@ When it is added after -er, it means a place of work.
 **fakteria** factory  
 **sapateria** shoemaker's shop  
 
-
-#### 11.2.5. -is-
+#### 11.2.4. -is-
 
 Causative suffix.
 
-**saba** to know  
-**sabisa** to make known, to inform  
+**jana** to know  
+**janisa** to make known, to inform  
 **nota** to note  
 **notisa** to notify  
 
-#### 11.2.6. -ul-
+#### 11.2.5. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 
