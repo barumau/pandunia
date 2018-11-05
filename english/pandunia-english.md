@@ -9,8 +9,8 @@ adres : address
 adu : belong  
 adulte : adult  
 afgania : Afghanistan  
+afrike : Africa  
 afriki : African  
-afrikia : Africa  
 agres : agression (assault)  
 aha : understand (realize)  
 ais : ice  
@@ -31,8 +31,8 @@ ama : love (to be in love with)
 amari : Amhara (an Ethiopian ethnic group and language)  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
+amerike : America (continent)  
 ameriki : American  
-amerikia : America (continent)  
 amper : ampere  
 amuke : rage (fury)  
 analis : analysis  
@@ -47,6 +47,8 @@ anten : antenna (aerial)
 anus : anus  
 anusi : anal  
 aple : apple  
+aplika : apply (put to use for a purpose)  
+aplike : application  
 arabi : Arabic  
 aranje : orange (fruit)  
 aranji : orange (orange-colored)  
@@ -139,7 +141,7 @@ bazar : market (bazaar)
 baze : base (foundation)  
 bazi : basic  
 be : without  
-beafrika : Central African Republic  
+beafrike : Central African Republic  
 bebe : baby (infant)  
 bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
@@ -167,7 +169,7 @@ bina : build (construct)
 binde : dot (spot)  
 bing : ill (sick)  
 bir : beer  
-bis : kiss  
+bis : genderqueer (non-binary)  
 biskute : biscuit (cookie)  
 bismute : bismuth  
 bixu : must  
@@ -251,7 +253,7 @@ cesium : caesium
 ci : this (these)  
 cile : Chile  
 cimpanze : chimpanzee  
-cincila : chinchilla  
+cincil : chinchilla  
 cing : ask (request; please)  
 cing laya : invite  
 cipia : Albania  
@@ -262,6 +264,7 @@ cokolate : chocolate
 cokolate baton : chocolate bar  
 cuká : vinegar  
 cula : exclude (except, save)  
+cum : kiss  
 cune : spring (springtime)  
 cunza : choose (elect, select)  
 cunze : choice (election, selection)  
@@ -395,10 +398,10 @@ estia : Estonia
 etiopia : Ethiopia  
 eurasia : Eurasia  
 eureka : find (discover)  
-euró : euro  
+euró : euro (€)  
+europe : Europe  
 europi : European  
 europi unia : European Union (EU)  
-europia : Europe  
 europium : europium  
 
 ##f  
@@ -502,6 +505,7 @@ fuy : bah! (yuck!)
 gabre : grave (tomb)  
 gabre stan : graveyard  
 gabun : Gabon  
+gade : donkey (ass)  
 gadolinium : gadolinium  
 gajá : elephant  
 galeria : gallery (exhibition hall)  
@@ -524,8 +528,7 @@ garmi : warm
 garmi masal : garam masala  
 gas : gas  
 gaw : high  
-gawn : tunic (gown)  
-gayana : Guyana  
+gayan : Guyana  
 gaze : gauze  
 gazel : gazelle  
 gazete : magazine (journal, gazette)  
@@ -651,7 +654,6 @@ hua : flower
 hule : fox  
 humus : chickpea  
 humus sos : hummus  
-hura : cheer (hooray)  
 hura : free (liberate)  
 huri : free (unchained)  
 huria : freedom (liberty)  
@@ -665,7 +667,6 @@ idey : idea
 ideyal : ideal (optimal)  
 ideyalisme : idealisme  
 igen : opinion (view)  
-iha : donkey (ass)  
 impera : reign (rule as an emperor)  
 imperer : emperor  
 imperia : empire  
@@ -968,7 +969,7 @@ kurbi : curvy (curved)
 kurium : curium  
 kurse : chair  
 kusen : cushion (pillow)  
-kuwaytia : Kuwait  
+kuwaitia : Kuwait  
   
 ##l  
   
@@ -978,7 +979,7 @@ lada : load (to charge)
 laje : garbage (rubbish, trash)  
 lake : lacquer (varnish)  
 lala : lie (lie down)  
-lampa : lamp  
+lampe : lamp  
 lanca : throw (launch)  
 lanká : Sri Lanka (Ceylon)  
 lanten : lantern  
@@ -1063,7 +1064,6 @@ madagasia : Madagascar
 made : matter (substance)  
 madi : material  
 madyar : Hungary  
-maf : sorry (regret)  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
 mager : magician (sorcerer)  
@@ -1073,6 +1073,8 @@ magnes : magnesium
 magnete : magnet  
 magneti : magnetic  
 magribia : Morocco  
+maidan : square (plaza)  
+mais : corn (maize)  
 majú : harness  
 makale : article (writing)  
 makan : butter  
@@ -1082,10 +1084,10 @@ makedonia : Republic of Macedonia
 mal : bad  
 mal rupi : ugly  
 mal zar : misfortune (bad luck)  
+malaisia : Malaysia  
 malaria : malaria  
 malawia : Malawi  
 malayali : Malayali (Malayalam)  
-malaysia : Malaysia  
 malia : Mali  
 malike : jasmine  
 malte : Malta  
@@ -1139,9 +1141,7 @@ maxor : major (not minor)
 maxoria : majority  
 maya : melt (liquidize)  
 mayá : Maya  
-maydan : square (plaza)  
 mayote : Mayotte  
-mays : corn (maize)  
 mayu : melt (get molten)  
 maza : amuse (entertain)  
 maze : fun (amusement)  
@@ -1181,7 +1181,6 @@ mes 12 (mes des do) : December
 metal : metal  
 metode : method (way, manner)  
 metre : meter  
-metode : method (way, manner)  
 metre : measure  
 mexiko : Mexico  
 mey : every (each)  
@@ -1244,7 +1243,7 @@ morti : dead (deceased)
 mortu : die  
 mos : moss  
 mosim : season  
-moskit : mosquito  
+moskite : mosquito  
 moskovium : moscovium  
 moter : engine (motor)  
 mozambike : Mozambique  
@@ -1335,7 +1334,7 @@ no : no (not)
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
-nonga : cultivate  
+nonga : cultivate (farm)  
 nonger : farmer  
 norde : north  
 nordi : northern  
@@ -1410,8 +1409,8 @@ padu : fall
 pagre : turban  
 paka : pack  
 pake : pack (package)  
-paki : bird  
 pakistan : Pakistan  
+pakse : bird  
 pal : fruit  
 paladium : palladium  
 palaw : Palau  
@@ -1419,13 +1418,12 @@ palma : palm tree
 pamá : parent  
 pan : all  
 panafriki : pan-African  
-panama : Panama  
 panameriki : pan-American  
+panamia : Panama  
 panasi : pan-Asian  
 panda : panda  
 pandunia : Pandunia  
 paneuropi : pan-European  
-pang : thick (fat)  
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
@@ -1474,7 +1472,6 @@ pifú : skin
 pigú : buttocks (butt)  
 pijin : pidgin (contact language)  
 piknike : picnic  
-pilipinia : Philippines  
 piloter : pilot  
 pimente : pepper (Piper nigrum)  
 pin : needle (pin)  
@@ -1485,6 +1482,7 @@ pipe : pipe
 piping : evaluation (criticism)  
 pipinga : evaluate (review, comment, criticise)  
 pipinger : critic  
+piram : pyramid  
 pirater : pirate  
 pistol : pistol  
 pitkerne : Pitcairn  
@@ -1793,7 +1791,7 @@ suan : sour
 subá : morning  
 subá den : forenoon  
 subá nyam : breakfast  
-sudafrika : South Africa  
+sudafrike : South Africa  
 sudan : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
@@ -1938,6 +1936,7 @@ tundar : tundra
 tunel : tunnel  
 tunel tren : subway (metro)  
 tung : hurt (pain)  
+tunike : tunic (gown)  
 tunisia : Tunisia  
 tur : tour (trip)  
 turisme : tourism  
@@ -1945,7 +1944,7 @@ turiste : tourist
 turki : Turkish  
 turkia : Turkey  
 turkmenia : Turkmenistan  
-tuvalu : Tuvalu  
+tuvalú : Tuvalu  
 tuze : rabbit (hare)  
   
 ##u  
@@ -1959,16 +1958,17 @@ umur : age
 un : one (1)  
 una : unite  
 uni : united  
-uni stan du amerikia : United States of America  
+uni stan du amerike : United States of America  
 unia : union  
+ura : cheer (hooray)  
 uran : Uranus  
 uranium : uranium  
 urdú : Urdu  
 urdun : Jordan  
 uruguay : Uruguay  
+usamerike : United States of America  
 usameriki samoa : American Samoa  
 usameriki virjin nesia : Virgin Islands, US  
-usamerikia : United States of America  
 uza : use (employ, apply)  
 uzbekia : Uzbekistan  
 uzer : user  

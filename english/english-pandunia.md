@@ -69,7 +69,7 @@ adultery (infidelity)   : zine
 advice (counsel)   : konsel  
 affirm (agree, concur)   : amena  
 Afghanistan   : afgania  
-Africa   : afrikia  
+Africa   : afrike  
 African   : afriki  
 afternoon   : xam den  
 age   : umur  
@@ -94,7 +94,7 @@ altar   : altar
 aluminium   : alumin  
 always   : mey zaman  
 ambassador   : dayxi  
-America (continent)   : amerikia  
+America (continent)   : amerike  
 American   : ameriki  
 American Samoa   : usameriki samoa  
 Amhara (an Ethiopian ethnic group and language)   : amari  
@@ -117,6 +117,8 @@ anus   : anus
 any (no matter which)   : eni  
 appearance (looks)   : rupe  
 apple   : aple  
+application   : aplike  
+apply (put to use for a purpose)   : aplika  
 April   : mes 4 (mes car)  
 Arabic   : arabi  
 archipelago   : nesia  
@@ -234,7 +236,7 @@ Bible   : biblia
 big (very, greatly)   : day  
 billion (giga-)   : giga  
 biology (study of life)   : jiwe lojia  
-bird   : paki  
+bird   : pakse  
 birth   : jen  
 birthday   : jen den  
 biscuit (cookie)   : biskute  
@@ -351,7 +353,7 @@ cello   : celó
 cement   : semente  
 center (concentrate)   : junga  
 centi- (per cent)   : centi  
-Central African Republic   : beafrika  
+Central African Republic   : beafrike  
 Ceres (dwarf planet)   : seres  
 cerium   : cerium  
 certain (sure)   : yakin  
@@ -367,7 +369,7 @@ chat (babble)   : blabla
 chat room   : blable kamar  
 check (to examine)   : ceka  
 checkers   : dama  
-cheer (hooray)   : hura  
+cheer (hooray)   : ura  
 cheese   : cis  
 chemical   : kimi  
 chemistry   : kimia  
@@ -381,7 +383,7 @@ child (offspring)   : bace
 Chile   : cile  
 chimpanzee   : cimpanze  
 China   : jungogia  
-chinchilla   : cincila  
+chinchilla   : cincil  
 chlorine   : klor  
 chocolate   : cokolate  
 chocolate bar   : cokolate baton  
@@ -470,7 +472,7 @@ copper   : kuper
 copper   : kuper  
 copy (replica)   : kope  
 copy (replicate)   : kopa  
-corn (maize)   : mays  
+corn (maize)   : mais  
 corner (angle)   : kon  
 correct (make right)   : saha  
 cost   : kosta  
@@ -498,7 +500,7 @@ cry (shout)   : krita
 cry (weep)   : rona  
 Cuba   : kubá  
 cube   : kube  
-cultivate   : nonga  
+cultivate (farm)   : nonga  
 culture   : kultur  
 cumin   : zirá  
 cup   : kupe  
@@ -567,7 +569,7 @@ dog   : waf
 doll (puppet)   : pupe  
 dollar   : dolar  
 dominoes   : domin gem  
-donkey (ass)   : iha  
+donkey (ass)   : gade  
 door (gate, portal)   : mun  
 dot (spot)   : binde  
 doubt (disbelief)   : dute  
@@ -637,8 +639,8 @@ estimate (approximate)   : yaga
 Estonia   : estia  
 Ethiopia   : etiopia  
 Eurasia   : eurasia  
-euro   : euró  
-Europe   : europia  
+euro (€)   : euró  
+Europe   : europe  
 European   : europi  
 European Union (EU)   : europi unia  
 europium   : europium  
@@ -779,6 +781,7 @@ gay (homosexual)   : gey
 gazelle   : gazel  
 gel (jelly)   : jele  
 gender (biological sex)   : jinse  
+genderqueer (non-binary)   : bis  
 germanium   : germanium  
 Germany   : doicia  
 gesture   : jeste  
@@ -847,7 +850,7 @@ gun (cannon)   : kanon
 gun (handheld firearm)   : bunduke  
 gunpowder   : barude  
 guru (mentor)   : gurú  
-Guyana   : gayana  
+Guyana   : gayan  
 ##h  
 hafnium   : hafnium  
 Haiti   : haitia  
@@ -1025,7 +1028,7 @@ king or queen   : rajer
 kingdom   : rajia  
 kiosk   : kioske  
 Kiribati   : kiribatia  
-kiss   : bis  
+kiss   : cum  
 kitchen   : kuke kamar  
 kiwi fruit   : kiwi  
 knead (massage)   : masaja  
@@ -1038,11 +1041,11 @@ Konkani   : konkani
 Korea (South)   : hangogia  
 krypton   : kriton  
 kung fu   : gung fu  
-Kuwait   : kuwaytia  
+Kuwait   : kuwaitia  
 Kyrgyzstan   : kirgizia  
 ##l  
 lacquer (varnish)   : lake  
-lamp   : lampa  
+lamp   : lampe  
 language (communication)   : bax  
 lantern   : lanten  
 Laos   : lao  
@@ -1135,7 +1138,7 @@ Malagasy   : madagasi
 malaria   : malaria  
 Malawi   : malawia  
 Malayali (Malayalam)   : malayali  
-Malaysia   : malaysia  
+Malaysia   : malaisia  
 male   : man  
 Mali   : malia  
 Malta   : malte  
@@ -1196,7 +1199,6 @@ Mercury   : budan
 metal   : metal  
 meter   : metre  
 method (way, manner)   : metode  
-method (way, manner)   : metode  
 Mexico   : mexiko  
 micro-   : mikro  
 Micronesia   : mikronesia  
@@ -1239,7 +1241,7 @@ Morocco   : magribia
 morph   : morfe  
 morpheme   : morfem  
 moscovium   : moskovium  
-mosquito   : moskit  
+mosquito   : moskite  
 moss   : mos  
 most (maximally)   : maxim  
 mother (mom)   : mamá  
@@ -1389,7 +1391,7 @@ pan-African   : panafriki
 pan-American   : panameriki  
 pan-Asian   : panasi  
 pan-European   : paneuropi  
-Panama   : panama  
+Panama   : panamia  
 panda   : panda  
 Pandunia   : pandunia  
 panic   : panike  
@@ -1430,7 +1432,6 @@ person (people)   : ren
 personal (intimate, private)   : tani  
 Peru   : perú  
 Philippines   : filipinia  
-Philippines   : pilipinia  
 philosopher   : filsofer  
 philosophic   : filsofi  
 philosophy   : filsofia  
@@ -1555,6 +1556,7 @@ pull   : tira
 pump   : pompa  
 Punjabi   : panjabi  
 push   : puxa  
+pyramid   : piram  
 Qatar   : kataria  
 quality (attribute, property, characteristic, -ness)   : gun  
 quality (charasteristic)   : sife  
@@ -1779,13 +1781,12 @@ son   : man ban
 song   : cante  
 soon   : sun  
 sorry (pardon)   : pardon  
-sorry (regret)   : maf  
 sound (audio)   : sonde  
 sound (make a sound)   : sonda  
 soup   : supe  
 sour   : suan  
 south   : sude  
-South Africa   : sudafrika  
+South Africa   : sudafrike  
 South Georgia and the South Sandwich Islands   : sudi jorjia i sudi sanwice nesia  
 South Sudan   : sudi sudan  
 space (cosmos, universe)   : kosmos  
@@ -1802,7 +1803,7 @@ spit   : tuka
 spoon   : camce  
 sport (athletics)   : kel  
 spring (springtime)   : cune  
-square (plaza)   : maydan  
+square (plaza)   : maidan  
 squirrel   : lixú  
 Sranan Tongo   : surinam bax  
 Sri Lanka (Ceylon)   : lanká  
@@ -1931,7 +1932,6 @@ theism   : dewisme
 theology   : dew lojia  
 theory   : teoria  
 they   : yemen  
-thick (fat)   : pang  
 thief   : curer  
 thing   : xey  
 think (ponder, reflect)   : fikra  
@@ -1998,7 +1998,7 @@ tube (pipe)   : tube
 Tuesday   : war 2 (war du)  
 tulip   : tulpan  
 tundra   : tundar  
-tunic (gown)   : gawn  
+tunic (gown)   : tunike  
 Tunisia   : tunisia  
 tunnel   : tunel  
 turban   : pagre  
@@ -2006,7 +2006,7 @@ Turkey   : turkia
 Turkish   : turki  
 Turkmenistan   : turkmenia  
 turtle (tortoise)   : tortuge  
-Tuvalu   : tuvalu  
+Tuvalu   : tuvalú  
 two (2)   : do  
 typewriter   : kitabe maxin  
 tyranny   : tirania  
@@ -2023,8 +2023,8 @@ union   : unia
 unite   : una  
 united   : uni  
 United Kingdom   : britania  
-United States of America   : uni stan du amerikia  
-United States of America   : usamerikia  
+United States of America   : uni stan du amerike  
+United States of America   : usamerike  
 unplug (uncork)   : zibula  
 upper   : supri  
 uranium   : uranium  
