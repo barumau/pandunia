@@ -18,7 +18,9 @@ kia tu jan pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html).
   * [insan da putong hake](putong_hake.md)
 * [video](video.md)
 * loge liste
-  * [dunia loge](dunia_loge.html)
+  * [dunia loge](lekse/dunia_loge.html)
+  * [hewan nam](lekse/hewan.html)
+  * [pal nam](lekse/pal.html)
   * [dex nam](dex_nam.md)
   * [loge asle](loge_asle.md)
 
