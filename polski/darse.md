@@ -157,7 +157,7 @@ Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **cing** = prosić, odnos
 
 Struktura osiowa jest powszechną strukturą w Panduni.
 
-Pamiętaj, żee można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
+Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
 > **mi cing tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
 > **cing salama ye.** = Proszę, pozdrów go/ją.
@@ -283,7 +283,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 
 
-### Word List
+### Lista Słów
 
 **bada** po. **sori** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **kia** zapytać, pytać. **si** tak.
 

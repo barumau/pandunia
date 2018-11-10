@@ -1,7 +1,8 @@
 Pisownia Pandunii
 ====================
 
-Do zapisywania Pandunii używany jest podstawowy alfabet łaciński. Oto alfabet Pandunii z odpowiedznimi symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
+Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
+Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
     Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
     IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
@@ -48,7 +49,7 @@ Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polsk
 Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 
 1. Słowa z tylko jedną sylabą są akcentowane. Np. máw, cíng.
-2. Akcentuje się ostatnią sylabę w słowach które kończą się spółgłoską. Np. komún, bazár, kamís, barú'.
+2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. komún, bazár, kamís.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nówi, dúnia, musíke.
 
      dunia si mimen da sundar planete.
@@ -56,6 +57,8 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 
      mi wol loga komun baxa, ye si pandunia.
     /mí wól lóga komún báxa, yé sí pandúnia./
+
+Jeżeli akcentowana sylaba nie jest zgodna z powyższymi zasadami, jest zaznaczona akcentem ostrym (´).
 
      darse gurú suku kafé.
     /dárse gurú súku kafé./

@@ -3,11 +3,15 @@
 
 [Strona główna](index.md)
 
-[Pismo](abc.md)
+[Wprowadzenie](dunia_baxe.md)
 
-[Rozmówki](fraze.md)
+[Założenia](filosof.md)
 
-[Kurs](darse.md)
+[Nauka]()
+
+  * [Pismo](abc.md)
+  * [Rozmówki](fraze.md)
+  * [Kurs](darse.md)
 
 [Pandunia-polski](pandunia-polski.md)
 
