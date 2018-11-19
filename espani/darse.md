@@ -146,8 +146,8 @@ Pidiendo
 ☻: **salam!** = ¡Hola!  
 ☺: **salam! cing sida.** = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.** = ¡Gracias!  
-☺: **cing kana kafe u ca.** = Por favor tiene algo de café o té.  
-☻: **mi kana ca. danke.** = Tengo té, gracias.  
+☺: **cing nyama kafé u ca.** = Por favor tiene algo de café o té.  
+☻: **mi nyama ca. danke.** = Tengo té, gracias.  
 ...  
 ☺: **cing salama tu da mama!** = Por favor llevale saludos a tu madre.  
 ☻: **mi salama ye. salam!** = Yo la saludo. ¡Adiós!  
@@ -176,9 +176,9 @@ Recordemos que se permite dejar por fuera pronombres que se conocen en el contex
 La frase **cing salama ye** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
 
 > **cing sida.** = Por favor sientese.  
-> **cing dar kafe.** = Por favor me da un poco de café.  
+> **cing dar kafé.** = Por favor me da un poco de café.  
 > **cing dar ca.** = Por favor me da un poco de té.  
-> **cing kana ca.** = Por favor tiene algo de té.  
+> **cing nyama ca.** = Por favor tiene algo de té.  
 > **cing safa kamer.** = Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **manda** = ordenar. Se utiliza la misma estructura eje como para pedir con **cing**.
@@ -205,16 +205,16 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**ca** té. **cing** pedir, solicitar; por favor. **dona** dar. **danke** gracias. **i** y. **kafe** café. **kamer** room. **manda** to command. **u** o. **safa** limpiar. **sida** estar sentado. **kana** beber, comer.
+**ca** té. **cing** pedir, solicitar; por favor. **dona** dar. **danke** gracias. **i** y. **kafé** café. **kamer** room. **manda** to command. **u** o. **safa** limpiar. **sida** estar sentado. **nyama** beber, comer.
 
 
 ### Respuestas
 
-1. ye kana ca.
+1. ye nyama ca.
 2. xefe cing ye sida.
-3. cing kana kafe u ca.
+3. cing nyama kafé u ca.
 4. mama cing mi safa kamer.
-5. xefe sida i kana kafe.
+5. xefe sida i nyama kafé.
 
 
 --------------------------------------------------------------------------------
@@ -226,17 +226,17 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska tu kana kafe u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
+☻: **salam! eska tu nyama kafé u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **ca.** = Té.  
 ☻: **i tu?** = ¿ y Usted? 
 ○: **mi no baxa pandunia...** = Yo no hablo Pandunia...  
-☻: **sori! eska ye kana ca?** = ¡Perdón! ¿Él toma té?  
-☺: **no. ye no kana ca. ye kana kafe.** = No, él desea tomar café.  
-☻: **eska tu kana supe?** = ¿Quieren tomar sopa?  
-☺: **kana.** = Sí.  
-☻: **eska ye kana supe?** = ¿Él quiere tomar sopa?  
-☺: **no kana.** = No.  
-☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
+☻: **pardon! eska ye nyama ca?** = ¡Perdón! ¿Él toma té?  
+☺: **no. ye no nyama ca. ye nyama kafé.** = No, él desea tomar café.  
+☻: **eska tu nyama supe?** = ¿Quieren tomar sopa?  
+☺: **nyama.** = Sí.  
+☻: **eska ye nyama supe?** = ¿Él quiere tomar sopa?  
+☺: **no nyama.** = No.  
+☻: **danke. mi dar un ca i un kafé i un supe na bade du des minut.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -244,14 +244,14 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
-> **mi eska tu kana ca.** = Yo preguntarte, tomas té.  
-> **eska tu kana ca?** = ¿Bebes tú té?  
-> **eska kana ca?** = ¿Bebes té?   
+> **mi eska tu nyama ca.** = Yo preguntarte, tomas té.  
+> **eska tu nyama ca?** = ¿Bebes tú té?  
+> **eska nyama ca?** = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-> **eska ye kana ca?** = ¿Bebe él/ella té?  
-> **eska tu kana supe?** = ¿Come usted sopa?  
+> **eska ye nyama ca?** = ¿Bebe él/ella té?  
+> **eska tu nyama supe?** = ¿Come usted sopa?  
 > **eska kamilo baxa pandunia?** = ¿Habla Camilo Pandunia?
 
 
@@ -259,22 +259,22 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
-> – **eska tu kana sup?** = ¿Comes tú sopa?  
+> – **eska tu nyama supe?** = ¿Comes tú sopa?  
 > – **si.** = Sí.  
-> – **eska ye kana sup?** = ¿Comes ella sopa?  
+> – **eska ye nyama supe?** = ¿Comes ella sopa?  
 > – **no.** = No.  
 
 También se puede dar una respuesta mas larga.
 
-> – **eska tu kana kafe?** = ¿Bebes tú café?  
-> – **si. mi kana kafe.** = Sí, yo bebo café.  
-> – **eska ye kana kafe?** = ¿Bebe él café?  
-> – **no. ye no kana kafe.** = No, él no bebe café.  
+> – **eska tu nyama kafé?** = ¿Bebes tú café?  
+> – **si. mi nyama kafé.** = Sí, yo bebo café.  
+> – **eska ye nyama kafé?** = ¿Bebe él café?  
+> – **no. ye no nyama kafé.** = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-> – **eska tu kana suy?** = ¿Bebe usted agua?  
-> – **kana.** = (Sí, yo) bebo.
+> – **eska tu nyama suy?** = ¿Bebe usted agua?  
+> – **nyama.** = (Sí, yo) bebo.
 
 
 ### Ejercicios
@@ -292,17 +292,17 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**bad** despues. **maf** perdón. **minut** minuto. **no** no. **sabi** saber. **sui** agua. **sup** sopa. **un** un (1). **des** diez. **eska** preguntar. **si** sí.
+**bad** despues. **maf** perdón. **minut** minuto. **no** no. **sabi** saber. **sui** agua. **supe** sopa. **un** un (1). **des** diez. **eska** preguntar. **si** sí.
 
 
 ### Respuestas
 
 1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. eska mama kana kafe?
-4. no. ye no kana kafe.
-5. eska ye kana supe?
-6. (ye) no kana.
+3. eska mama nyama kafé?
+4. no. ye no nyama kafé.
+5. eska ye nyama supe?
+6. (ye) no nyama.
 
 
 --------------------------------------------------------------------------------
@@ -351,9 +351,9 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 1. ye no safa kamer.
 2. un kupe no hali.
-3. do waf no kana supe.
+3. do waf no nyama supe.
 4. ye no ada waf i mau. / ye ada no waf i no mau.
-5. xefe kana ca a no kafe.
+5. xefe nyama ca a no kafé.
 6. mama ada no waf a do mau.
 
 --------------------------------------------------------------------------------

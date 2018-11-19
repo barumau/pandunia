@@ -219,7 +219,7 @@ Yes or no questions
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
-☻: **sori! eska ye nyama ca?** = Pardon! Will he have tea?  
+☻: **pardon! eska ye nyama ca?** = Pardon! Will he have tea?  
 ☺: **no. ye no nyama ca. ye nyama kafé.** = No, he won't. He would like to have coffee.  
 ☻: **eska tu nyama supe?** = Would you like to have soup?  
 ☺: **nyama.** = Yes. (_I eat._)  
@@ -287,7 +287,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **sori** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **su** water. **supe** soup. **un** one (1). **des** ten. **eska** to ask a question. **si** yes.
+**bada** after. **pardon** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **su** water. **supe** soup. **un** one (1). **des** ten. **eska** to ask a question. **si** yes.
 
 
 ### Answers to the Exercises

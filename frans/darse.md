@@ -224,7 +224,7 @@ Questions par oui ou par non
 ☺: **ca.** = Du thé.  
 ☻: **i tu?** = Et vous ?  
 ○: **mi no baxa pandunia...** = Je ne parle pas le Pandunia...  
-☻: **sori! eska ye nyama ca?** = Pardon ! prend-il du thé ?  
+☻: **pardon! eska ye nyama ca?** = Pardon ! prend-il du thé ?  
 ☺: **no. ye no nyama ca. ye nyama kafe.** = Non. Il ne prend pas de thé. Il prend du café.  
 ☻: **eska tu nyama supe?** = Prenez-vous de la soupe ?  
 ☺: **nyama.** = Oui. (_J'en prends._)  
@@ -294,7 +294,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**bada** après. **sori** pardon, désolé. **minut** minute. **no** non, pas. **baxa** parler, langue. **suy** eau. **supe** soupe. **un** un (1). **des** dix. **eska** poser une question. **si** oui.
+**bada** après. **pardon** pardon, désolé. **minut** minute. **no** non, pas. **baxa** parler, langue. **suy** eau. **supe** soupe. **un** un (1). **des** dix. **eska** poser une question. **si** oui.
 
 
 ### Réponses aux exercices
