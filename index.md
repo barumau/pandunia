@@ -3,7 +3,7 @@
 
 #pandunia - egal dunia baxa
 
-![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bander/us.png) [Learn about Pandunia in English](english/index.md)
+![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bander/us.png) [Learn about Pandunia in English](engli/index.md)
 
 ![](http://pandunia.info/bander/cn.png) [学 泛世界语](zhongwen/index.md)
 
