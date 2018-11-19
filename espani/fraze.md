@@ -135,39 +135,39 @@ viene del lingala: yé, suajili: yeye, chichewa: iye, zulú: -ye-, hindi: यह
 
 
 
-### kia <small>se utiliza para preguntar</small>
+### eska <small>se utiliza para preguntar</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 ¿Eres Tomás?
 
-**kia tu dotor?**
+**eska tu dotor?**
 ¿Eres doctor?
 
-Tip: Las preguntas que tienen como respuesta un sí o un no, frecuentemente inician con **kia**. Solo es un verbo regular, no una _etiqueta de pregunta_. De hecho, la pregunta anterior está simplemente abreviada de **mi kia tu doktar** (Yo pregunto, ¿eres doctor?
+Tip: Las preguntas que tienen como respuesta un sí o un no, frecuentemente inician con **eska**. Solo es un verbo regular, no una _etiqueta de pregunta_. De hecho, la pregunta anterior está simplemente abreviada de **mi eska tu doktar** (Yo pregunto, ¿eres doctor?
 
-**kia tu bon?**
+**eska tu bon?**
 ¿Cómo estás? (Literalmente: _¿Estás bien?_)  
 **mi bon.**
 Estoy bien.  
-**kia tu?**
+**eska tu?**
 ¿Y tú?  
 **mi no bon.**
 No estoy bien.
 
-<small>Etimología. **kia**
+<small>Etimología. **eska**
 viene del hindi: क्या  "kyā", urdu: كيا‏‎ "kyā".</small>
 
 
 
 ### si <small>sí</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 ¿Eres Tomás?.
 
 **si, mi tomas.**
 Sí, soy Tomás.
 
-**kia ye dotor?**
+**eska ye dotor?**
 ¿Él/ella es doctor/a?
 
 **si, ye dotor.**
@@ -199,12 +199,12 @@ No soy Sara.
 **mi no dotor.**
 No soy doctor/a.
 
-**kia tu bon?**
+**eska tu bon?**
 ¿Estás bien?  
 **si. mi bon.**
 Sí, estoy bien.
 
-**kia tu bon.**
+**eska tu bon.**
 ¿Estás bien?  
 **no, mi no bon.**
 No, no estoy bien.
@@ -356,7 +356,7 @@ Tengo una buena casa.
 **mi wol ada nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
-**kia tu ada bace?**
+**eska tu ada bace?**
 ¿Tienes niños?  
 **mi ada do bace.**
 Tengo dos niños.
@@ -368,10 +368,10 @@ Tengo dos niños.
 **mi jan ye.**
 Yo lo/a conozco a él/ella.
 
-**kia tu jan li ren?**
+**eska tu jan li ren?**
 ¿Conoces esa persona?
 
-**kia tumen jan bici?**
+**eska tumen jan bici?**
 ¿Ustedes se conocen (entre ustedes)?
 
 **mimen jan bici ze long.**
@@ -384,10 +384,10 @@ Nosotros nos conocemos (entre nosotros) hace tiempo.
 **mi nida helpe.**
 Necesito ayuda.
 
-**kia tu ken helpa mi?**
+**eska tu ken helpa mi?**
 ¿Puedes ayudarme?
 
-**kia mi ken helpa tu?**
+**eska mi ken helpa tu?**
 ¿Puedo ayudarte?
 
 
@@ -397,7 +397,7 @@ Necesito ayuda.
 
 ### nyama <small>consumir, comer, beber</small>
 
-**kia tu wol nyama koy?**
+**eska tu wol nyama koy?**
 ¿Te gustaría comer algo?
 
 **ye nyama aple.**
@@ -408,7 +408,7 @@ Ellos/as comen manzanas.
 
 Nota: A diferencia del español, Pandunia no tiene formas separadas de singular y plural. Por lo tanto una palabra como **apel** puede referirse a una o más manzanas.
 
-**kia tu nyama kafé?**
+**eska tu nyama kafé?**
 ¿Bebes café?
 
 **mi nyama kafé.**
@@ -424,7 +424,7 @@ Estoy tomando café y pan.
 
 ### wol <small>querer, gustar (deseo)</small>
 
-**kia tu wol nyama?**
+**eska tu wol nyama?**
 ¿Te gustaría comer?
 
 **tu wol nyama ke?**
@@ -435,7 +435,7 @@ Tip: Mientras que en el español por lo general se pone el "qué" al inicio de l
 **mi wol nyama kafé.**
 Quiero beber café.
 
-**kia tu wol nyama ca?**
+**eska tu wol nyama ca?**
 ¿Te gustaría beber té? 
 **no. mi no wol ca. mi wol kafé.**
 No, no quiero té. Quiero café.
@@ -517,10 +517,10 @@ Necesito ayuda.
 **mi nida nyama.**
 Estoy hambriento. (Literalmente: _Necesito comer._)
 
-**kia tu nida nyama?**
+**eska tu nida nyama?**
 ¿Estás hambriento? ¿Tienes hambre? (Literalmente: _¿Necesitas comida?_)
 
-**kia tu nida suy?**
+**eska tu nida suy?**
 ¿Tienes sed?
 
 
@@ -543,7 +543,7 @@ Perdóname, ¿cómo te llamas?
 
 ### aha <small>entender, comprender</small>
 
-**kia tu aha mi?**
+**eska tu aha mi?**
 ¿Me entiendes?
 
 **mi aha.**
@@ -568,10 +568,10 @@ Puedo conducir un auto.
 **ye no ken gida kar.**
 Él/ella no saber conducir un auto. (Literalmente: _Él/ella no puede conducir un auto._)
 
-**kia tu ken xula ye?**
+**eska tu ken xula ye?**
 ¿Puedes arreglarlo?
 
-**kia tu ken pandunia?**
+**eska tu ken pandunia?**
 ¿Puedes hablar Pandunia?
 
 **mi ken pandunia.**
@@ -669,13 +669,13 @@ Por favor, ¡escríbelo aquí!
 
 ### baxa <small>hablar un idioma, comunicar</small>
 
-**kia tumen baxa pandunia.**
+**eska tumen baxa pandunia.**
 ¿Hablas Pandunia?
 
 **mimen baxa pandunia.**
 Nosotros hablamos Pandunia.
 
-**kia tu ken baxa engli?**
+**eska tu ken baxa engli?**
 ¿Puedes hablar inglés?
 
 **fransi, espani, portugal, rusi**
@@ -735,7 +735,7 @@ Vendré a casa mañana.
 
 ### safara <small>viajar</small>
 
-**kia tu safara na tren?**
+**eska tu safara na tren?**
 ¿Viajas por tren?
 
 **mimen safara ze london to paris.**
@@ -782,7 +782,7 @@ Trabajo en...
 **mi doma singapur.**
 Vivo en Singapur.
 
-**kia tu doma ci hotel?**
+**eska tu doma ci hotel?**
 ¿Vives en este hotel?
 
 Tip: También está bien decir "tu doma na ke?"" en vez de "tu doma ke".
@@ -872,7 +872,7 @@ es equivalente con _dar_ y _tomar_ como **mai**.
 **ye si ke yang?**
 ¿Cómo es?
 
-**kia ye nowi?**
+**eska ye nowi?**
 ¿Es nuevo?
 
 **ke si mas bon?**
@@ -999,7 +999,7 @@ Todas las palabras de Pandunia son palabras prestadas de otros idiomas hablados 
 **ke** ¿qué? ¿quién? <small>(Español _qué_)</small>  
 **ken** poder <small>(Inglés _can_)</small>  
 **keci** el ser cortés <small>(Mandarín _kèqi_ 客气)</small>  
-**kia** para preguntar <small>(Hindi _kyā_ क्या)</small>  
+**eska** preguntar <small>(Haitian _èske_)</small>  
 **laya** venir <small>(Vietnamita _lai_)</small>  
 **mamá** madre <small>(Mandarín _māma_ 妈妈)</small>  
 **man** hombre <small>(Inglés _man_)</small>  

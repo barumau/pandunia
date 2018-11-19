@@ -508,7 +508,7 @@ gang : äsken (vasta, juuri)
 ganga : Ganges  
 gania : Ghana  
 ganjá : hamppu (kannabis)  
-ganya : hankkia (ansaita)  
+ganya : hankkela (ansaita)  
 garante : takuu  
 gardin : tarha  
 garmi masal : garam masala  
@@ -527,7 +527,7 @@ gen : juuri
 genca : tutkia  
 genzi : Guernsey  
 germanium : germanium  
-geta : hankkia (saada)  
+geta : hankkela (saada)  
 gey : homo (homoseksuaali)  
 gida : ohjata  
 giga : miljardi (giga-)  
@@ -1024,7 +1024,7 @@ loga : puhua (sanoa)
 loge liste : sanaluettelo  
 loge : puhe (sanat)  
 logike : logiikka  
-loja : tutkia (opiskella)  
+loja : tutkela (opiskella)  
 lojia : tiede (tutkimus)  
 loke : paikka  
 loki : paikallinen  
@@ -1792,7 +1792,7 @@ tong : tynnyri (tölkki)
 tope : lakki (hattu)  
 torse : vartalo (varsi, torso)  
 tortuge : kilpikonna  
-total : totaalinen (kaikkia koskeva)  
+total : totaalinen (kaikkela koskeva)  
 toti : kaikki  
 towal : pyyhe  
 trans : läpikulku  

@@ -142,7 +142,7 @@ umur	возраст
 bite lai in!	Войдите!
 nami	волна
 volta	вольт
-kia	вопрос
+eske	вопрос
 bat	Восемь (8)
 mum	воск
 var 7 (var set)	Воскресенье

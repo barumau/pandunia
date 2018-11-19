@@ -94,19 +94,19 @@
 **ye aple.**
 它是一个苹果。
 
-### kia <small>问</small>
+### eska <small>问</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 请问你是托马吗？
 
-**kia tu dotor?**
+**eska tu dotor?**
 请问你是医生吗？
 
-**kia tu bon?**
+**eska tu bon?**
 你好吗？  
 **mi bon.**
 我很好。  
-**kia tu?**
+**eska tu?**
  你呢？  
 **mi no bon.**
 我不好。
@@ -174,6 +174,7 @@ We greet you.
 **cing** 请 <small>(普通话 _qǐng_ 请)</small>  
 **den** 天 <small>(俄语 _den'_ день)</small>  
 **dom** 房子 <small>(俄语 _dom_ дом)</small>  
+**eska** 问，问题 <small>(法语 _est-ce que_)</small>  
 **fem** 女人 <small>(法语 _femme_)</small>  
 **ha** 有 <small>(葡萄牙语 _há_)</small>  
 **habar** 消息 <small>(马来语 _khabar_)</small>  
@@ -186,7 +187,6 @@ We greet you.
 **ke** 什么，谁 <small>(西班牙语 _qué_)</small>  
 **ken** 会 <small>(英语 _can_)</small>  
 **keci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
-**kia** 问，问题 <small>(印地语 _kyā_ क्या)</small>  
 **kisa** 叙说 <small>(印尼语 _kisah_)</small>  
 **lay** 来 <small>(越南语 _lai_)</small>  
 **ma** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  

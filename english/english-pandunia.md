@@ -141,7 +141,7 @@ ascetic   : askete
 ash tree   : yasen  
 Asia   : asia  
 Asian   : asi  
-ask (inquire)   : kia  
+ask (inquire)   : eska  
 ask (request; please)   : cing  
 asparagus   : lusun  
 aspirin   : aspirin  
@@ -959,7 +959,7 @@ insult (offence)   : ninde
 intend (plan)   : plana  
 interest (interesting)   : interes  
 interpreter (translator)   : tarjumer  
-interrogative   : kii  
+interrogative   : eski  
 invite   : cing laya  
 iodine   : iode  
 iodine   : yode  
@@ -1561,7 +1561,7 @@ Qatar   : kataria
 quality (attribute, property, characteristic, -ness)   : gun  
 quality (charasteristic)   : sife  
 queen   : fem rajer  
-question   : kie  
+question   : eske  
 quote (cite)   : cita  
 Quran (Koran)   : kuran  
 ##r  

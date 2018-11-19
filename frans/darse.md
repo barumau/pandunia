@@ -220,15 +220,15 @@ Questions par oui ou par non
 
 ### Dialogue
 
-☻: **salam! kia tu nyama kafe u ca?** = Bonjour ! Prenez-vous du café ou du thé ?  
+☻: **salam! eska tu nyama kafe u ca?** = Bonjour ! Prenez-vous du café ou du thé ?  
 ☺: **ca.** = Du thé.  
 ☻: **i tu?** = Et vous ?  
 ○: **mi no baxa pandunia...** = Je ne parle pas le Pandunia...  
-☻: **sori! kia ye nyama ca?** = Pardon ! prend-il du thé ?  
+☻: **sori! eska ye nyama ca?** = Pardon ! prend-il du thé ?  
 ☺: **no. ye no nyama ca. ye nyama kafe.** = Non. Il ne prend pas de thé. Il prend du café.  
-☻: **kia tu nyama supe?** = Prenez-vous de la soupe ?  
+☻: **eska tu nyama supe?** = Prenez-vous de la soupe ?  
 ☺: **nyama.** = Oui. (_J'en prends._)  
-☻: **kia ye nyama supe?** = Prend-il de la soupe ?  
+☻: **eska ye nyama supe?** = Prend-il de la soupe ?  
 ☺: **no nyama.** = Non.  
 ☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
@@ -238,44 +238,44 @@ Questions par oui ou par non
 
 ### Poser des questions
 
-Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **cing **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **kia** = demander, questionner.
+Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **cing **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-> **mi kia tu nyama ca.** = Je vous demande si vous buvez du thé.  
-> **kia tu nyama ca?** = Buvez-vous du thé ?  
-> **kia nyama ca?** = Du thé ?
+> **mi eska tu nyama ca.** = Je vous demande si vous buvez du thé.  
+> **eska tu nyama ca?** = Buvez-vous du thé ?  
+> **eska nyama ca?** = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs, mais les questions, elles, se portent souvent sur d'autres personnes. Par conséquent, le deuxième pronom est habituellement nécessaire. Il peut être omis seulement quand on a identifié qui est le sujet de la discussion.
 
-> **kia ye nyama ca?** = Est-ce qu'il ou elle prend du thé ?  
-> **kia tu nyama sup?** = Prenez-vous de la soupe ?  
-> **kia mimen nyama su?** = Buvons-nous de l'eau minérale ?
+> **eska ye nyama ca?** = Est-ce qu'il ou elle prend du thé ?  
+> **eska tu nyama sup?** = Prenez-vous de la soupe ?  
+> **eska mimen nyama su?** = Buvons-nous de l'eau minérale ?
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
-> **kia xefe nyama kafe?** = Est-ce que le chef prend du café ?  
-> **kia papa safa kamer?** = Le père nettoie-t-il la chambre ?  
-> **kia niki baxa pandunia?** = Est-ce que Nicky parle le Pandunia ?
+> **eska xefe nyama kafe?** = Est-ce que le chef prend du café ?  
+> **eska papa safa kamer?** = Le père nettoie-t-il la chambre ?  
+> **eska niki baxa pandunia?** = Est-ce que Nicky parle le Pandunia ?
 
 
 ### Apporter des réponses
 
 On peut répondre aux questions fermées (deux réponses possibles oui ou non) par **si** = oui et **no** = non.
 
-> – **kia tu nyama supe?** = Manges-tu de la soupe ?  
+> – **eska tu nyama supe?** = Manges-tu de la soupe ?  
 > – **si.** = Oui.  
-> – **kia ye nyama supe?** = Mange-t-elle de la soupe ?  
+> – **eska ye nyama supe?** = Mange-t-elle de la soupe ?  
 > – **no.** = Non.
 
 Des réponses plus complètes peuvent également être apportées.
 
-> – **kia tu nyama kafe?** = Bois-tu du café ?  
+> – **eska tu nyama kafe?** = Bois-tu du café ?  
 > – **si. mi nyama kafe.** = Oui, je bois du café .  
-> – **kia ye nyama kafe?** = Boit-il du café ?  
+> – **eska ye nyama kafe?** = Boit-il du café ?  
 > – **no. ye no nyama kafe.** = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant le verbe principal de la question.
 
-> – **kia tu nyama suy?** = Bois-tu de l'eau ?  
+> – **eska tu nyama suy?** = Bois-tu de l'eau ?  
 > – **nyama.** = (Oui) j'en bois.
 
 
@@ -294,16 +294,16 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**bada** après. **sori** pardon, désolé. **minut** minute. **no** non, pas. **baxa** parler, langue. **suy** eau. **supe** soupe. **un** un (1). **des** dix. **kia** poser une question. **si** oui.
+**bada** après. **sori** pardon, désolé. **minut** minute. **no** non, pas. **baxa** parler, langue. **suy** eau. **supe** soupe. **un** un (1). **des** dix. **eska** poser une question. **si** oui.
 
 
 ### Réponses aux exercices
 
-1. kia tu baxa pandunia?
+1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama nyama kafe?
+3. eska mama nyama kafe?
 4. no. ye no nyama kafe.
-5. kia ye nyama supe?
+5. eska ye nyama supe?
 6. (ye) no nyama.
 
 

@@ -213,15 +213,15 @@ Pytania "tak lub nie"
 
 ### Dialog
 
-☻: **salam! kia tu nyama kafe u ca?** = Witam! Czy chce pan kawę albo herbatę?  
+☻: **salam! eska tu nyama kafe u ca?** = Witam! Czy chce pan kawę albo herbatę?  
 ☺: **ca.** = Herbatę.  
 ☻: **i tu?** = A pan?  
 ○: **mi no baxa pandunia...** = Nie mówię w Panduni...  
-☻: **sori! kia ye nyama ca?** = Przepraszam! Czy napije się herbaty?  
+☻: **sori! eska ye nyama ca?** = Przepraszam! Czy napije się herbaty?  
 ☺: **no. ye no nyama ca. ye nyama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
-☻: **kia tu nyama supe?** = Czy zje pan zupę?  
+☻: **eska tu nyama supe?** = Czy zje pan zupę?  
 ☺: **nyama.** = Tak. (_Jem._)  
-☻: **kia ye nyama supe?** = Czy on zje zupę?  
+☻: **eska ye nyama supe?** = Czy on zje zupę?  
 ☺: **no nyama.** = Nie.  
 ☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
@@ -229,44 +229,44 @@ Pytania "tak lub nie"
 
 ### Zadawanie pytań
 
-Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **cing**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **kia** = pytać.
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **cing**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
-> **mi kia tu nyama ca.** = Ja pytam cię, czy napijesz się herbaty.  
-> **kia tu nyama ca?** = Czy pijesz herbatę?  
-> **kia nyama ca?** = Czy pić herbatę?
+> **mi eska tu nyama ca.** = Ja pytam cię, czy napijesz się herbaty.  
+> **eska tu nyama ca?** = Czy pijesz herbatę?  
+> **eska nyama ca?** = Czy pić herbatę?
 
 Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi. Dlatego drugi ziamek jest zazwyczaj potrzebny. Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
 
-> **kia ye nyama ca?** = Czy on/ona pije herbatę?  
-> **kia tu nyama supe?** = Czy jesz zupę?  
-> **kia mimen nyama suy?** = Czy pijemy wodę?
+> **eska ye nyama ca?** = Czy on/ona pije herbatę?  
+> **eska tu nyama supe?** = Czy jesz zupę?  
+> **eska mimen nyama suy?** = Czy pijemy wodę?
 
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
-> **kia xefe nyama kafe?** = Czy szef pije kawę?  
-> **kia papá safa kamar?** = Czy ojciec sprząta pokój?  
-> **kia niki baxa pandunia?** = Czy Nicky mówi Pandunia?
+> **eska xefe nyama kafe?** = Czy szef pije kawę?  
+> **eska papá safa kamar?** = Czy ojciec sprząta pokój?  
+> **eska niki baxa pandunia?** = Czy Nicky mówi Pandunia?
 
 
 ### Dawanie odpowiedzi
 
 Na pytania tak/nie można odpowiadać słowami **si** = tak, i **no** = nie.
 
-> – **kia tu nyama supe?** = Czy jesz zupę?  
+> – **eska tu nyama supe?** = Czy jesz zupę?  
 > – **si.** = Tak.  
-> – **kia ye nyama supe?** = Czy ona je zupę?  
+> – **eska ye nyama supe?** = Czy ona je zupę?  
 > – **no.** = Nie.
 
 Można odpowiadać też bardziej złożenie.
 
-> – **kia tu nyama kafe?** = Czy pijesz kawę?  
+> – **eska tu nyama kafe?** = Czy pijesz kawę?  
 > – **si. mi nyama kafe.** = Tak, piję kawę.  
-> – **kia ye nyama kafe?** = Czy on pije kawę?  
+> – **eska ye nyama kafe?** = Czy on pije kawę?  
 > – **no. ye no nyama kafe.** = Nie, on nie pije kawy.
 
 Można też odpowiadadać twierdząco powtarzając główny czasownik z pytania.
 
-> – **kia tu nyama suy?** = Czy pijesz wodę?  
+> – **eska tu nyama suy?** = Czy pijesz wodę?  
 > – **nyama.** = (Tak,) piję.
 
 
@@ -285,16 +285,16 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Word List
 
-**bada** po. **sori** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **kia** zapytać, pytać. **si** tak.
+**bada** po. **sori** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **eska** zapytać, pytać. **si** tak.
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. kia tu baxa pandunia?
+1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mamá nyama kafe?
+3. eska mamá nyama kafe?
 4. no. ye no nyama kafe.
-5. kia ye nyama supe?
+5. eska ye nyama supe?
 6. (ye) no nyama.
 
 

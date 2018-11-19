@@ -226,15 +226,15 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! kia tu kana kafe u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
+☻: **salam! eska tu kana kafe u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **ca.** = Té.  
 ☻: **i tu?** = ¿ y Usted? 
 ○: **mi no baxa pandunia...** = Yo no hablo Pandunia...  
-☻: **sori! kia ye kana ca?** = ¡Perdón! ¿Él toma té?  
+☻: **sori! eska ye kana ca?** = ¡Perdón! ¿Él toma té?  
 ☺: **no. ye no kana ca. ye kana kafe.** = No, él desea tomar café.  
-☻: **kia tu kana supe?** = ¿Quieren tomar sopa?  
+☻: **eska tu kana supe?** = ¿Quieren tomar sopa?  
 ☺: **kana.** = Sí.  
-☻: **kia ye kana supe?** = ¿Él quiere tomar sopa?  
+☻: **eska ye kana supe?** = ¿Él quiere tomar sopa?  
 ☺: **no kana.** = No.  
 ☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
@@ -242,38 +242,38 @@ Preguntas de Sí o No
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **kia** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
-> **mi kia tu kana ca.** = Yo preguntarte, tomas té.  
-> **kia tu kana ca?** = ¿Bebes tú té?  
-> **kia kana ca?** = ¿Bebes té?   
+> **mi eska tu kana ca.** = Yo preguntarte, tomas té.  
+> **eska tu kana ca?** = ¿Bebes tú té?  
+> **eska kana ca?** = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-> **kia ye kana ca?** = ¿Bebe él/ella té?  
-> **kia tu kana supe?** = ¿Come usted sopa?  
-> **kia kamilo baxa pandunia?** = ¿Habla Camilo Pandunia?
+> **eska ye kana ca?** = ¿Bebe él/ella té?  
+> **eska tu kana supe?** = ¿Come usted sopa?  
+> **eska kamilo baxa pandunia?** = ¿Habla Camilo Pandunia?
 
 
 ### Respondiendo
 
 Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
-> – **kia tu kana sup?** = ¿Comes tú sopa?  
+> – **eska tu kana sup?** = ¿Comes tú sopa?  
 > – **si.** = Sí.  
-> – **kia ye kana sup?** = ¿Comes ella sopa?  
+> – **eska ye kana sup?** = ¿Comes ella sopa?  
 > – **no.** = No.  
 
 También se puede dar una respuesta mas larga.
 
-> – **kia tu kana kafe?** = ¿Bebes tú café?  
+> – **eska tu kana kafe?** = ¿Bebes tú café?  
 > – **si. mi kana kafe.** = Sí, yo bebo café.  
-> – **kia ye kana kafe?** = ¿Bebe él café?  
+> – **eska ye kana kafe?** = ¿Bebe él café?  
 > – **no. ye no kana kafe.** = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-> – **kia tu kana suy?** = ¿Bebe usted agua?  
+> – **eska tu kana suy?** = ¿Bebe usted agua?  
 > – **kana.** = (Sí, yo) bebo.
 
 
@@ -292,16 +292,16 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**bad** despues. **maf** perdón. **minut** minuto. **no** no. **sabi** saber. **sui** agua. **sup** sopa. **un** un (1). **des** diez. **kia** preguntar. **si** sí.
+**bad** despues. **maf** perdón. **minut** minuto. **no** no. **sabi** saber. **sui** agua. **sup** sopa. **un** un (1). **des** diez. **eska** preguntar. **si** sí.
 
 
 ### Respuestas
 
-1. kia tu baxa pandunia?
+1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mama kana kafe?
+3. eska mama kana kafe?
 4. no. ye no kana kafe.
-5. kia ye kana supe?
+5. eska ye kana supe?
 6. (ye) no kana.
 
 

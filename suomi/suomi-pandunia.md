@@ -293,8 +293,8 @@ hammasharja : dante brox
 hammaslääkäri : dante mediker  
 hamppu (kannabis) : ganjá  
 hana : balbe  
-hankkia (ansaita) : ganya  
-hankkia (saada) : geta  
+hankkela (ansaita) : ganya  
+hankkela (saada) : geta  
 hapan (kirpeä) : suan  
 happi : okse  
 harja : brox  
@@ -1721,7 +1721,7 @@ tori (basaari) : bazar
 torni : minare  
 torstai : war 4 (war car)  
 torvi (torvisoitin) : laba  
-totaalinen (kaikkia koskeva) : total  
+totaalinen (kaikkela koskeva) : total  
 toukka : larwa  
 toukokuu : mes 5 (mes lim)  
 trendi : faxon  
@@ -1755,7 +1755,7 @@ turisti : turiste
 Turkki : turkia  
 turkkilainen : turki  
 Turkmenistan : turkmenia  
-tutkia (opiskella) : loja  
+tutkela (opiskella) : loja  
 tutkia : genca  
 tuuli (puhallus) : fong  
 tuulla (puhaltaa) : fonga  

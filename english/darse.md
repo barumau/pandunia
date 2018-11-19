@@ -215,15 +215,15 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! kia tu nyama kafé u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! eska tu nyama kafé u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
-☻: **sori! kia ye nyama ca?** = Pardon! Will he have tea?  
+☻: **sori! eska ye nyama ca?** = Pardon! Will he have tea?  
 ☺: **no. ye no nyama ca. ye nyama kafé.** = No, he won't. He would like to have coffee.  
-☻: **kia tu nyama supe?** = Would you like to have soup?  
+☻: **eska tu nyama supe?** = Would you like to have soup?  
 ☺: **nyama.** = Yes. (_I eat._)  
-☻: **kia ye nyama supe?** = Would he like to have soup?  
+☻: **eska ye nyama supe?** = Would he like to have soup?  
 ☺: **no nyama.** = No.  
 ☻: **danke. mi dona un ca i un kafé i un supe na bade du des minut.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
@@ -231,44 +231,44 @@ Yes or no questions
 
 ### Asking questions
 
-Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **kia** = to ask.
+Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with **cing**, which you learned in the previous lesson. Question sentences are introduced with **eska** = to ask.
 
-> **mi kia tu nyama ca.** = I ask (do) you drink tea.  
-> **kia tu nyama ca?** = Do you drink tea?  
-> **kia nyama ca?** = Drink tea?
+> **mi eska tu nyama ca.** = I ask (do) you drink tea.  
+> **eska tu nyama ca?** = Do you drink tea?  
+> **eska nyama ca?** = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions are often about other people. Therefore the second pronoun is usually needed. It can be left out only when it is clear who is the topic of discussion.
 
-> **kia ye nyama ca?** = Does he or she drink tea?  
-> **kia tu nyama supe?** = Do you eat soup?  
-> **kia mimen nyama suy?** = Do we drink water?
+> **eska ye nyama ca?** = Does he or she drink tea?  
+> **eska tu nyama supe?** = Do you eat soup?  
+> **eska mimen nyama suy?** = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-> **kia xefe nyama kafé?** = Does the chief drink coffee?  
-> **kia papá safa kamar?** = Does the father clean the room?  
-> **kia niki baxa pandunia?** = Does Nicky speak Pandunia?
+> **eska xefe nyama kafé?** = Does the chief drink coffee?  
+> **eska papá safa kamar?** = Does the father clean the room?  
+> **eska niki baxa pandunia?** = Does Nicky speak Pandunia?
 
 
 ### Giving answers
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-> – **kia tu nyama supe?** = Do you eat soup?  
+> – **eska tu nyama supe?** = Do you eat soup?  
 > – **si.** = Yes.  
-> – **kia ye nyama supe?** = Does she eat soup?  
+> – **eska ye nyama supe?** = Does she eat soup?  
 > – **no.** = No.
 
 Also more complete answers can be given.
 
-> – **kia tu nyama kafé?** = Do you drink coffee?  
+> – **eska tu nyama kafé?** = Do you drink coffee?  
 > – **si. mi nyama kafé.** = Yes, I drink coffee.  
-> – **kia ye nyama kafé?** = Does he drink coffee?  
+> – **eska ye nyama kafé?** = Does he drink coffee?  
 > – **no. ye no nyama kafé.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **kia tu nyama suy?** = Do you drink water?  
+> – **eska tu nyama suy?** = Do you drink water?  
 > – **nyama.** = (Yes, I) drink.
 
 
@@ -287,16 +287,16 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after. **sori** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **su** water. **supe** soup. **un** one (1). **des** ten. **kia** to ask a question. **si** yes.
+**bada** after. **sori** pardon, sorry. **minut** minute. **no** not. **baxa** speak; language. **su** water. **supe** soup. **un** one (1). **des** ten. **eska** to ask a question. **si** yes.
 
 
 ### Answers to the Exercises
 
-1. kia tu baxa pandunia?
+1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. kia mamá nyama kafé?
+3. eska mamá nyama kafé?
 4. no. ye no nyama kafé.
-5. kia ye nyama supe?
+5. eska ye nyama supe?
 6. (ye) no nyama.
 
 

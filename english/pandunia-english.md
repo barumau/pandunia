@@ -848,9 +848,9 @@ ki ren : who?
 ki xey : what thing?  
 ki yang : how?  
 ki zaman : when?  
-kia : ask (inquire)  
-kie : question  
-kii : interrogative  
+eska : ask (inquire)  
+eske : question  
+eski : interrogative  
 kil : wedge  
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  

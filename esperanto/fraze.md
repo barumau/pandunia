@@ -123,38 +123,38 @@ venas el lingala: yé, sŭahila: yeye, zulua: -ye-, hindia: यह  "ye", urdua:
 
 
 
-### kia <small>demandi, ĉu</small>
+### eska <small>demandi, ĉu</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Ĉu vi estas Tomaso?
 
-**kia tu dotor?**
+**eska tu dotor?**
 Ĉu vi estas doktoro?
 
-Notu! Demandoj ofte komencas per **kia**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi kia: tu doktor.**
+Notu! Demandoj ofte komencas per **eska**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi eska: tu doktor.**
 (Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
 
-**kia tu bon?**
+**eska tu bon?**
 Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
 **mi bon.**
 Mi fartas bone.  
-**kia tu?**
+**eska tu?**
 Kaj vi?  
 **mi no bon.**
 Mi ne fartas bone.
 
-<small>Etimologio. **kia**
-venas el hindia: क्या  "kyā", urdua: كيا‏‎ "kyā", japana: 聞く "kiku".</small>
+<small>Etimologio. **eska**
+venas el angla: ask, franca: est-ce que, haitia: èske.</small>
 
 ### si <small>jes</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Ĉu vi estas Tomaso.
 
 **si, mi tomas.**
 Jes, mi estas Tomaso.
 
-**kia ye dotor?**
+**eska ye dotor?**
 Ĉu li/ŝi estas doktoro?
 
 
@@ -192,12 +192,12 @@ Mi ne estas Sara.
 **mi no doktar.**
 Mi ne estas doktoro.
 
-**kia tu bon?**
+**eska tu bon?**
 Ĉu vi fartas bone?  
 **si. mi bon.**
 Jes, mi estas bone.
 
-**kia tu bon?**
+**eska tu bon?**
 Ĉu vi fartas bone?  
 **no, mi no bon.**
 Ne, mi ne estas bone.
@@ -346,7 +346,7 @@ Li/ŝi ne havas mono.
 **mi wol ada nowi fon.**
 Mi volas havi novan telefonon.
 
-**kia tu ada bace?**
+**eska tu ada bace?**
 Ĉu vi havas infanojn?  
 **mi ada do bace.**
 Mi havas du infanojn.
@@ -358,10 +358,10 @@ Mi havas du infanojn.
 **mi jan ye.**
 Mi konas lin/ŝin.
 
-**kia tu jan li ren?**
+**eska tu jan li ren?**
 Ĉu vi konas tiun personon?
 
-**kia tumen jan bici?**
+**eska tumen jan bici?**
 Ĉu vi konas unu la alian?
 
 **mimen jan bici ze long.**
@@ -374,10 +374,10 @@ Ni konas unu la alian longe.
 **mi nida helpe.**
 Mi bezonas helpon.
 
-**kia tu ken helpa mi?**
+**eska tu ken helpa mi?**
 Ĉu vi povas helpi min?
 
-**kia mi ken helpa tu?**
+**eska mi ken helpa tu?**
 Ĉu mi povas helpi vin?
 
 
@@ -388,7 +388,7 @@ Mi bezonas helpon.
 
 ### nyama <small>manĝi, trinki</small>
 
-**kia tu wol nyama koy?**
+**eska tu wol nyama koy?**
 Ĉu vi volas manĝi ion?
 
 **ye nyama aple.**
@@ -400,7 +400,7 @@ Ili manĝas pomojn.
 Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **aple**
 indikas unu aŭ multajn pomojn.
 
-**kia tu nyama kafé?**
+**eska tu nyama kafé?**
 Ĉu vi trinkas kafon?
 
 **mi nyama kafé.**
@@ -416,7 +416,7 @@ Mi manĝas kafon kaj panon.
 
 ### wol <small>voli</small>
 
-**kia tu wol nyama?**
+**eska tu wol nyama?**
 Ĉu vi volas manĝi?
 
 **tu wol nyama ke?**
@@ -428,7 +428,7 @@ ne ŝanĝas la vortordon.
 **mi wol nyama kafé.**
 Mi volas trinki kafon.
 
-**kia tu wol nyama ca?**
+**eska tu wol nyama ca?**
 Ĉu vi volas trinki teon?  
 **no. mi no wol ca. mi wol kafé.**
 Ne. Mi ne volas teon. Mi volas kafon.
@@ -510,10 +510,10 @@ Mi bezonas helpon.
 **mi nida nyama.**
 Mi bezonas manĝi.
 
-**kia tu nida nyama?**
+**eska tu nida nyama?**
 Ĉu vi bezonas manĝi?
 
-**kia tu nida suy?**
+**eska tu nida suy?**
 Ĉu vi bezonas trinki (akvon)?
 
 
@@ -537,7 +537,7 @@ Pardonon, kio estas via nomo?
 
 ### aha <small>kompreni</small>
 
-**kia tu aha mi?**
+**eska tu aha mi?**
 Ĉu vi komprenas min?
 
 **mi aha.**
@@ -562,10 +562,10 @@ Mi povas konduki aŭton.
 **ye no ken gida kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**kia tu ken xula ye?**
+**eska tu ken xula ye?**
 Ĉu vi povas ripari ĝin?
 
-**kia tu ken pandunia?**
+**eska tu ken pandunia?**
 Ĉu vi povas paroli pandunion?
 
 **mi ken pandunia.**
@@ -664,13 +664,13 @@ Bonvolu skribi ĝin tie!
 
 ### baxa <small>paroli, lingvumi</small>
 
-**kia tumen baxa pandunia.**
+**eska tumen baxa pandunia.**
 Ĉu vi parolas pandunion?
 
 **mimen baxa pandunia.**
 Ni parolas pandunion.
 
-**kia tu ken baxa engli?**
+**eska tu ken baxa engli?**
 Ĉu vi povas paroli la anglan?
 
 **frans, espanya, portugal, ruski**
@@ -729,7 +729,7 @@ Mi venos hejmen morgaŭ.
 
 ### safara <small>vojaĝi</small>
 
-**kia tu safara na tren?**
+**eska tu safara na tren?**
 Ĉu vi vojaĝas per vagonaro?
 
 **mimen safara ze london to paris.**
@@ -747,7 +747,7 @@ Kie vi loĝas?
 **mi doma singapur.**
 Mi loĝas en Singapuro.
 
-**kia tu doma ci hotel?**
+**eska tu doma ci hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
 
@@ -774,7 +774,8 @@ Vortaro
 **doma** loĝi  
 **dotor** doktoro <small>(portugala _doutor_)</small>  
 **enda** iri <small>(swahila _kuenda_)</small>  
-**englix** angla <small>(angla _English_)</small>  
+**engli** angla <small>(angla _English_)</small>  
+**eska** demandi; ĉu <small>(haitia _èske_)</small>  
 **fem** virino <small>(franca _femme_)</small>  
 **gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
 **habar** novaĵoj <small>(malaja _khabar_)</small>  
@@ -787,7 +788,6 @@ Vortaro
 **ke** kio? kiu? <small>(hispana _qué_)</small>  
 **ken** scipovi <small>(angla _can_)</small>  
 **keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
-**kia** demandi; ĉu <small>(hindia _kyā_ क्या)</small>  
 **lay** veni <small>(vjetnama _lai_)</small>  
 **mamá** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
 **man** viro <small>(angla _man_)</small>  

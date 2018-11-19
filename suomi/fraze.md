@@ -149,40 +149,40 @@ lähteitä: lingala: yé, swahili: yeye, chichewa: iye, zulu: -ye-, hindi: य�
 
 
 
-### kia <small>kysyä</small>
+### eska <small>kysyä</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Oletko sinä Tomas?
 
-**kia tu dotor?**
+**eska tu dotor?**
 Oletko lääkäri?
 
-Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **kia**. Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö. Itse asiassa äskeinen kysymys on lyhennetty lauseesta **mi kia tu doktor.**
+Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **eska**. Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö. Itse asiassa äskeinen kysymys on lyhennetty lauseesta **mi eska tu doktor.**
 (Minä kysyn: sinä lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
-**kia tu bon?**
+**eska tu bon?**
 Miten voit? (Sananmukaisesti: _Voitko hyvin?_)  
 **mi bon.**
 Minä voin hyvin.  
-**kia tu?**
+**eska tu?**
 Entä sinä?  
 **mi no bon.**
 Minä en voi hyvin.
 
-<small>Sanan **kia**
+<small>Sanan **eska**
 lähteitä: hindi: क्या  "kyā", urdu: كيا‏‎ "kyā".</small>
 
 
 
 ### si <small>kyllä</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Oletko Tomas?
 
 **si, mi tomas.**
 Kyllä, olen Tomas.
 
-**kia ye dotor?**
+**eska ye dotor?**
 Onko hän lääkäri?
 
 **si, ye dotor.**
@@ -213,12 +213,12 @@ Minä en ole Sara.
 **mi no dotor.**
 Minä en ole lääkäri.
 
-**kia tu bon?**
+**eska tu bon?**
 Voitko hyvin?  
 **si. mi bon.**
 Kyllä, minä voin hyvin.
 
-**kia tu bon.**
+**eska tu bon.**
 Voitko hyvin?  
 **no, mi no bon.**
 Ei, minä en voi hyvin.
@@ -374,7 +374,7 @@ Hänellä ei ole rahaa.
 **mi wol ada nowi fon.**
 Minä haluan saada uuden puhelimen.
 
-**kia tu ada bace?**
+**eska tu ada bace?**
 Onko sinulla lapsia?
 **mi ada do bace.**
 Minulla on kaksi lasta.
@@ -386,10 +386,10 @@ Minulla on kaksi lasta.
 **mi jan ye.**
 Minä tunnen hänet.
 
-**kia tu jan li ren?**
+**eska tu jan li ren?**
 Tunnetko tuon henkilön?
 
-**kia tumen jan bici?**
+**eska tumen jan bici?**
 Tunnetteko toisenne?
 
 **mimen jan bici ze long.**
@@ -402,10 +402,10 @@ Tunnemme toisemme jo vanhastaan.
 **mi nida helpe.**
 Minä tarvitsen apua.
 
-**kia tu ken helpa mi?**
+**eska tu ken helpa mi?**
 Voitko auttaa minua?
 
-**kia mi ken helpa tu?**
+**eska mi ken helpa tu?**
 Voinko auttaa sinua?
 
 
@@ -415,7 +415,7 @@ Voinko auttaa sinua?
 
 ### nyama <small>syödä, juoda</small>
 
-**kia tu wol nyama koy?**
+**eska tu wol nyama koy?**
 Haluaisitko syödä jotakin?
 
 **ye nyama aple.**
@@ -427,7 +427,7 @@ He syövät omenoita.
 Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **aple**
 voi tarkoittaa yhtä tai useampaa omenaa.
 
-**kia tu nyama kafé?**
+**eska tu nyama kafé?**
 Juotko kahvia?
 
 **mi nyama kafé.**
@@ -443,7 +443,7 @@ Minä nautin kahvia ja leipää.
 
 ### wol <small>haluta</small>
 
-**kia tu wol nyama?**
+**eska tu wol nyama?**
 Haluaisitko syödä?
 
 **tu wol nyama ke?**
@@ -455,7 +455,7 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **mi wol nyama kafé.**
 Minä haluan juoda kahvia.
 
-**kia tu wol nyama ca?**
+**eska tu wol nyama ca?**
 Haluaisitko juoda teetä.
 **no. mi no wol ca. mi wol kafé.**
 Ei, minä en halua teetä. Minä haluan kahvia.
@@ -537,10 +537,10 @@ Tarvitsen apua.
 **mi nida nyama.**
 Minulla on nälkä. (Tarvitsen ruokaa.)
 
-**kia tu nida nyama?**
+**eska tu nida nyama?**
 Onko sinulla nälkä?
 
-**kia tu nida suy?**
+**eska tu nida suy?**
 Onko sinulla jano?
 
 
@@ -563,7 +563,7 @@ Anteeksi, mikä sinun nimi on?
 
 ### aha <small>ymmärtää</small>
 
-**kia tu aha mi?**
+**eska tu aha mi?**
 Ymmärrätkö minua?
 
 **mi aha.**
@@ -588,10 +588,10 @@ Osaan ajaa autolla.
 **ye no ken gida kar.**
 Hän ei osaa ajaa autolla.
 
-**kia tu ken xula ye?**
+**eska tu ken xula ye?**
 Osaatko korjata sen?
 
-**kia tu ken pandunia?**
+**eska tu ken pandunia?**
 Osaatko panduniaa?
 
 **mi ken pandunia.**
@@ -689,13 +689,13 @@ Kirjoittaisitko sen tähän!
 
 ### baxa <small>puhua kieltä, kommunikoida</small>
 
-**kia tumen baxa pandunia.**
+**eska tumen baxa pandunia.**
 Puhutteko te panduniaa?
 
 **mimen baxa pandunia.**
 Me puhumme panduniaa.
 
-**kia tu ken baxa engli?**
+**eska tu ken baxa engli?**
 Osaatko puhua englantia?
 
 **fransi, espani, portugal, rusi**
@@ -754,7 +754,7 @@ Minä tulen kotiin huomenna.
 
 ### safara <small>matkustaa</small>
 
-**kia tu safara na tren?**
+**eska tu safara na tren?**
 Matkustatko junalla?
 
 **mimen safara ze london to paris.**
@@ -800,7 +800,7 @@ Missä sinä asut?
 **mi doma singapur.**
 Asun Singaporessa.
 
-**kia tu doma ci hotel?**
+**eska tu doma ci hotel?**
 Astuko tässä hotellissa?
 
 On oikein sanoa "tu doma na ke?" lyhyemmän muodon "tu doma ke" sijasta. Kuitenkin **doma**

@@ -135,39 +135,39 @@ I greet him/her.
 
 
 
-### kia <small>to ask a question</small>
+### eska <small>to ask a question</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Are you Thomas?
 
-**kia tu dotor?**
+**eska tu dotor?**
 Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **kia**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi kia tu dotor.** (I ask, you doctor?) by dropping out the first word.
+Tip: Yes/no questions frequently begin with **eska**. It is just a regular verb, not a special _question tag_. In fact, the previous question is simply abbreviated from **mi eska tu dotor.** (I ask, you doctor?) by dropping out the first word.
 
-**kia tu bon?**
+**eska tu bon?**
 How are you? (Literally: _Are you good?_)  
 **mi bon.**
 I'm good.  
-**kia tu?**
+**eska tu?**
 And you?  
 **mi no bon.**
 I'm not good.
 
-<small>Etymology. **kia**
+<small>Etymology. **eska**
 is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
 
 
 
 ### si <small>yes</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Are you Thomas.
 
 **si, mi tomas.**
 Yes, I am Thomas.
 
-**kia ye dotor?**
+**eska ye dotor?**
 Is he/she a doctor?
 
 **si, ye dotor.**
@@ -199,12 +199,12 @@ I'm not Sara.
 **mi no dotor.**
 I'm not a doctor.
 
-**kia tu bon?**
+**eska tu bon?**
 Are you well?  
 **si. mi bon.**
 Yes, I'm well.
 
-**kia tu bon?**
+**eska tu bon?**
 Are you well?  
 **no, mi no bon.**
 No, I'm not well.
@@ -356,7 +356,7 @@ He/she doesn't have money.
 **mi wol ada nowi fon.**
 I want to have a new phone.
 
-**kia tu ada bace?**
+**eska tu ada bace?**
 Do you have children?  
 **mi ada do bace.**
 I have two children.
@@ -368,10 +368,10 @@ I have two children.
 **mi jan ye.**
 I know him/her.
 
-**kia tu jan li ren?**
+**eska tu jan li ren?**
 Do you know that person?
 
-**kia tumen jan bici?**
+**eska tumen jan bici?**
 Do you know each other?
 
 **mimen jan bici ze long.**
@@ -384,10 +384,10 @@ We know each other for long.
 **mi nida helpe.**
 I need help.
 
-**kia tu ken helpa mi?**
+**eska tu ken helpa mi?**
 Can you help me?
 
-**kia mi ken helpa tu?**
+**eska mi ken helpa tu?**
 Can I help you?
 
 
@@ -397,7 +397,7 @@ Can I help you?
 
 ### nyama <small>consume, eat, drink</small>
 
-**kia tu wol nyama koy?**
+**eska tu wol nyama koy?**
 Would you like to eat something?
 
 **ye nyama aple.**
@@ -408,7 +408,7 @@ They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms. Therefore a word like **aple** can refer to one or more apples.
 
-**kia tu nyama kafé?**
+**eska tu nyama kafé?**
 Do you drink coffee?
 
 **mi nyama kafé.**
@@ -423,7 +423,7 @@ I'm having coffee and bread.
 
 ### wol <small>want</small>
 
-**kia tu wol nyama?**
+**eska tu wol nyama?**
 Would you like to eat?
 
 **tu wol nyama ke?**
@@ -434,7 +434,7 @@ Tip: While English puts the "what" at the beginning of a question, in Pandunia t
 **mi wol nyama kafé.**
 I want to drink coffee.
 
-**kia tu wol nyama ca?**
+**eska tu wol nyama ca?**
 Would you like to drink tea?  
 **no. mi no wol ca. mi wol kafé.**
 No, I don't want tea. I want coffee.
@@ -516,10 +516,10 @@ I need help.
 **mi nida nyama.**
 I'm hungry.
 
-**kia tu nida nyama?**
+**eska tu nida nyama?**
 Are you hungry?
 
-**kia tu nida suy?**
+**eska tu nida suy?**
 Are you thirsty?
 
 
@@ -542,7 +542,7 @@ Excuse me, what's your name?
 
 ### aha <small>understand</small>
 
-**kia tu aha mi?**
+**eska tu aha mi?**
 Do you understand me?
 
 **mi aha.**
@@ -567,10 +567,10 @@ I can drive a car.
 **ye no ken gida kar.**
 He/she doesn't know how to drive a car.
 
-**kia tu ken xula ye?**
+**eska tu ken xula ye?**
 Do you know how to fix it?
 
-**kia tu ken pandunia?**
+**eska tu ken pandunia?**
 Do you speak Pandunia?
 
 **mi ken pandunia.**
@@ -670,13 +670,13 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**kia tumen baxa pandunia.**
+**eska tumen baxa pandunia.**
 Do you speak in Pandunia?
 
 **mimen baxa pandunia.**
 We speak in Pandunia.
 
-**kia tu ken baxa engli?**
+**eska tu ken baxa engli?**
 Can you speak English?
 
 **fransi, espani, portugal, rusi**
@@ -736,7 +736,7 @@ I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**kia tu safara na tren?**
+**eska tu safara na tren?**
 Do you travel by train?
 
 **mimen safara ze london to paris.**
@@ -782,7 +782,7 @@ Where do you live?
 **mi doma singapur.**
 I live in Singapore.
 
-**kia tu doma ci hotel?**
+**eska tu doma ci hotel?**
 Do you live in this hotel?
 
 Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke".
@@ -872,7 +872,7 @@ is paired with _give_ and _take_ just like **mai**.
 **ye si ke yang?**
 What is it like?
 
-**kia ye nowi?**
+**eska ye nowi?**
 Is it new?
 
 **ke si mas bon?**
@@ -991,6 +991,7 @@ However, only one source word is included in this word list as an example.
 **dotor** doctor <small>(Portuguese _doutor_)</small>  
 **enda** to go <small>(Swahili _kuenda_)</small>  
 **engli** English  
+**eska** ask <small>(Haitian _èske_)</small>  
 **fem** woman <small>(French _femme_)</small>  
 **gata** to tell <small>(japana _kataru_ 語る)</small>  
 **gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
@@ -1005,7 +1006,6 @@ However, only one source word is included in this word list as an example.
 **ke** what? who? <small>(Spanish _qué_)</small>  
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
-**kia** ask, question <small>(Hindi _kyā_ क्या)</small>  
 **laya** come <small>(Vietnamese _lai_)</small>  
 **li** that; those</small>  
 **mamá** mother <small>(Mandarin _māma_ 妈妈)</small>  

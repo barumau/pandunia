@@ -138,42 +138,42 @@ vient du Lingala "yé", en Swahili il se dit "yeye", en Chichewa "iye", en Zulu:
 
 
 
-### kia <small>Pour poser une question (est-ce que)</small>
+### eska <small>Pour poser une question (est-ce que)</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Es-tu Thomas ?
 
-**kia tu dotor?**
+**eska tu dotor?**
 Êtes-vous doctor ?
 
 **Astuce : **
-Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **kia**. C'est un simple verbe régulier et non un marqueur interrogatif particulier. En fait, la dernière question est une simple abréviation de **mi kia tu doktar.**
+Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **eska**. C'est un simple verbe régulier et non un marqueur interrogatif particulier. En fait, la dernière question est une simple abréviation de **mi eska tu doktar.**
 (je vous demande si vous êtes doctor) ou le premier mot - le pronom personnel **mi**
 -, est supprimé.
 
-**kia tu bon?**
+**eska tu bon?**
 Comment vas-tu ? (litérallement : _Est-ce que tu vas bien_)  
 **mi bon.**
 Ça va. | Je vais bien.  
-**kia tu?**
+**eska tu?**
 Et toi ?  
 **mi no bon.**
 Ça ne vas pas | Je ne vais pas bien.
 
-<small>Étymologie : **kia**
-vient de l'Hindi: क्या  "kyā", en Urdu il se dit : كيا‏‎ "kyā".</small>
+<small>Étymologie : **eska**
+vient de l'anglais: ask.</small>
 
 
 
 ### si <small>oui, "être"</small>
 
-**kia tu tomas?**
+**eska tu tomas?**
 Es-tu Thomas.
 
 **si, mi tomas.**
 Oui, je suis Thomas.
 
-**kia ye dotor?**
+**eska ye dotor?**
 Est-il/elle doctor ?
 
 **si, ye dotor.**
@@ -208,12 +208,12 @@ Je ne suis pas Sara.
 **mi no dotor.**
 Je ne suis pas doctor.
 
-**kia tu bon?**
+**eska tu bon?**
 Est-ce que tu vas bien ?  
 **si. mi bon.**
 Oui, je vais bien.
 
-**kia tu bon.**
+**eska tu bon.**
 Est-ce que tu vas bien ?  
 **no, mi no bon.**
 Non, je ne vais pas bien.
@@ -337,22 +337,22 @@ Son nom est Sara.
 
 
 
-### kia <small>Est-ce que, poser une question</small>
+### eska <small>Est-ce que, poser une question</small>
 
-**kia tu si tomas?**
+**eska tu si tomas?**
 Est-ce que tu es Thomas ?
 
-**kia tu si dotor?**
+**eska tu si dotor?**
 Est-ce que tu es médecin ?
 
-Astuce : Une question fermée commence fréquemment par **kia**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi kia tu doktar.**
+Astuce : Une question fermée commence fréquemment par **eska**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi eska tu doktar.**
 (Je pose la question : es-tu médecin ?) où l’on a retiré le premier mot.
 
-**kia tu bon?**
+**eska tu bon?**
 Comment ça va ? (Mot à mot : _Est-ce que tu bien ?_)  
 **mi bon.**
 Je vais bien.  
-**kia tu?**
+**eska tu?**
 Et toi ?  
 **mi no bon.**
 Je ne vais pas bien.
@@ -370,7 +370,7 @@ Il/elle n’a pas d’argent.
 **mi wol ada nowi fon.**
 Je veux un nouveau téléphone.
 
-**kia tu ada ban?**
+**eska tu ada ban?**
 As-tu des enfants ?  
 **mi ada do ban.**
 J’ai deux enfants.
@@ -379,17 +379,17 @@ J’ai deux enfants.
 
 ### si <small>oui</small>
 
-**kia tu bon?**
+**eska tu bon?**
 Est-ce que ça va ?  
 **si. mi bon.**
 Oui, je vais bien.
 
-**kia ada dotor?**
+**eska ada dotor?**
 Est-ce qu’il y a un médecin ?  
 **si. ye dotor.**
 Oui. Il/elle est médecin.
 
-**kia ada win?**
+**eska ada win?**
 Est-ce que tu as du vin?  
 **si. bay i ros.**
 Oui, du blanc et du rouge.
@@ -414,10 +414,10 @@ Cette pomme n’est pas rouge.
 **mi jan ye.**
 Je le/la connais.
 
-**kia tu jan li ren?**
+**eska tu jan li ren?**
 Est-ce que tu connais cette personne ?
 
-**kia tumen jan bici?**
+**eska tumen jan bici?**
 Est-ce que vous vous connaissez l’un l’autre?
 
 **mimen jan bici ze long.**
@@ -430,10 +430,10 @@ Nous nous connaissons l’un l’autre depuis longtemps.
 **mi nida helpe.**
 J’ai besoin d’aide.
 
-**kia tu ken helpa mi?**
+**eska tu ken helpa mi?**
 Est-ce que tu peux m’aider ?
 
-**kia mi ken helpa tu?**
+**eska mi ken helpa tu?**
 Est-ce que je peux t’aider ?
 
 
@@ -443,7 +443,7 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**kia tu wol nyama koy?**
+**eska tu wol nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
 **ye nyama aple.**
@@ -455,7 +455,7 @@ Ils/elles mangent des pommes.
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple**
 peut signifier une ou plusieurs pommes.
 
-**kia tu nyama kafé?**
+**eska tu nyama kafé?**
 Est-ce que tu bois du café ?
 
 **mi nyama kafé.**
@@ -471,7 +471,7 @@ Je prends mon café avec du pain.
 
 ### wol <small>vouloir</small>
 
-**kia tu wol nyama?**
+**eska tu wol nyama?**
 Est-ce que tu veux manger ?
 
 **tu wol nyama ke?**
@@ -482,7 +482,7 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 **mi wol nyama kafé.**
 Je veux boire un café.
 
-**kia tu wol nyama ca?**
+**eska tu wol nyama ca?**
 Est-ce que tu veux (boire) du thé ?  
 **no. mi no wol ca. mi wol kafé.**
 Non, Je ne veux pas de thé. Je veux du café.
@@ -564,10 +564,10 @@ J’ai besoin d’aide.
 **mi nida nyama.**
 J’ai faim.
 
-**kia tu nida nyama?**
+**eska tu nida nyama?**
 Est-ce que tu as faim ?
 
-**kia tu nida suy?**
+**eska tu nida suy?**
 Est-ce que tu as soif ?
 
 
@@ -590,7 +590,7 @@ Pardon, quel est ton nom ?
 
 ### aha <small>comprendre</small>
 
-**kia tu aha mi?**
+**eska tu aha mi?**
 Est-ce que tu me comprends ?
 
 **mi aha.**
@@ -615,10 +615,10 @@ Je sais conduire une voiture.
 **ye no ken gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**kia tu ken xula ye?**
+**eska tu ken xula ye?**
 Est-ce que tu sais réparer ça ?
 
-**kia tu ken pandunia?**
+**eska tu ken pandunia?**
 Est-ce que tu parles pandunia ?
 
 **mi ken pandunia.**
@@ -712,12 +712,12 @@ S’il te plait, écris-le là !
 
 ### baxa <small>communiquer</small>
 
-**kia tumen baxa pandunia.**
+**eska tumen baxa pandunia.**
 Est-ce que vous parlez tous pandunia ?  
 **mimen baxa pandunia.**
 Nous parlons pandunia.
 
-**kia tu ken baxa engli?**
+**eska tu ken baxa engli?**
 Est-ce que tu parles anglais ?
 
 **fransi, espani, portugal, rusi**
@@ -774,7 +774,7 @@ Je vais à la maison demain.
 
 ### safara <small>voyager</small>
 
-**kia tu safara na tren?**
+**eska tu safara na tren?**
 Est-ce que tu voyages en train ?
 
 **mimen safara ze london to paris.**
@@ -822,7 +822,7 @@ recouvre déjà l’idée d’être à un endroit.
 **mi doma singapur.**
 Je vis à Singapore.
 
-**kia tu doma ci hotel?**
+**eska tu doma ci hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
 
@@ -908,7 +908,7 @@ est associé à _donner_ et _prendre_ tout comme **mai**.
 **ye si ke yang?**
 Ça ressemble à quoi ?
 
-**kia ye nowi?**
+**eska ye nowi?**
 C’est nouveau ?
 
 **ke si mas bon?**
@@ -1026,6 +1026,7 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **doma** vivre, habiter, résider  
 **dotor** docteur <small>(Portuguese _doutor_)</small>  
 **engli** anglais <small>(Anglais _English_)</small>  
+**eska** poser une question <small>(Haitien _èske_)</small>  
 **fem** femme  
 **gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
 **helpa** aider <small>(Français _aider_)</small>  
@@ -1038,7 +1039,6 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **ke** quoi ? qui ? <small>(Espagnol _qué_)</small>  
 **ken** pouvoir <small>(Anglais _can_)</small>  
 **keci** poli <small>(Mandarin _kèqi_ 客气)</small>  
-**kia** poser une question <small>(Hindi _kyā_ क्या)</small>  
 **lay** venir <small>(Vietnamien _lay_)</small>  
 **mamá** maman <small>(Mandarin _māma_ 妈妈)</small>  
 **man** homme <small>(Anglais _man_)</small>  
