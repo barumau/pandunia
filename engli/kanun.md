@@ -685,11 +685,17 @@ Modal particles can modify all kinds of words, including pronouns and numerals, 
 
 ### 9.4. Tense and Aspect Particles
 
-In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **zay** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
+In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **pas** (past), **zay** (present) and **wil** (future). They function like adjectives and adverbs, so typically their place is before the verb.
 
-> **mi ada maw pas.** - I had cats in the past.
-> **a mi no ada maw zay.** - But I don't have cats now.
-> **munkin mi ada maw futur.** - Maybe I have cats in the future.
+> **mi pas ada maw.** - I had cats.
+> **a mi no zay ada maw.** - But I now don't have cats.
+> **munkin mi wil ada maw.** - Maybe I will have cats.
+
+It's also possible to say it in a longer way like **na pase** (in the past) etc.
+
+> **mi ada maw na pase.** - I had cats in the past.
+> **a mi no ada maw na zaye.** - But I don't have cats at present.
+> **munkin mi ada maw na wile.** - Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **ada** stayed the same in all tenses in the examples above.
 

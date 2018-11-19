@@ -428,27 +428,33 @@ There are also specific time words.
 > **zay** - currently, at the moment  
 > **hay** - still  
 > **sun** - soon  
-> **futur** - in the future
+> **wil** - later, in the future
 
 
 
-The adjectives for past, present and future are **pas, zay** and **futur**. They can be used for modifying nouns.
+The adjectives for past, present and future are **pas, zay** and **wil**. They can be used for modifying nouns.
 
 > **sara si mi da pas xefe.** = Sara is my former boss.  
 > **yusef si mi da zay xefe.** = Yusef is my current boss.  
-> **maria si mi da futur xefe.** = Maria is my future boss.
+> **maria si mi da wil xefe.** = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time. Simply put the word before the verb.
 
-> **mi pas darba ye.** = I hit it (in the past).
-> **mi zay darba ye.** = I am hitting it (currently).
-> **mi futur darba ye.** = I will hit it (in the future).
+> **mi pas darba ye.** = I hit it (in the past).  
+> **mi zay darba ye.** = I am hitting it (currently).  
+> **mi will darba ye.** = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
-> **mi darba ye pas.**
-> **mi darba ye zay.**
-> **mi darba ye futur.**
+> **mi darba ye pas.**  
+> **mi darba ye zay.**  
+> **mi darba ye wil.**
+
+It's also possible to use longer phrases like **na pase** (in the past) etc.
+
+> **mi darba ye na pase.** = I hit it in the past.  
+> **mi darba ye na zaye.** = I hit it at present.  
+> **mi darba ye na wile.** = I hit it in the future.
 
 
 It is not necessary to repeat the time expressions all the time. It would be awkward. It is enough to set the stage once in the beginning with a time expression. Another time word will not be needed until the tense changes or until it becomes useful to stress that you are still talking in the same tense.
@@ -465,7 +471,7 @@ Any expression of time is good for expressing the tense. When one time expressio
 
 ### Word List
 
-**pas** past, former. **zay** present, current. **futur** future. **darba** to hit, to beat. **nan** bread. **subá nyam** morning meal, breakfast.
+**pas** past, former. **zay** present, current. **wil** future. **darba** to hit, to beat. **nan** bread. **subá nyam** morning meal, breakfast.
 
 ### Exercises
 
@@ -480,7 +486,7 @@ Try translating these sentences from English to Pandunia. The correct answers ar
 
 ### Answers to the Exercises
 
-1. mi da xefe festa na futur.
+1. mi da xefe festa na wile.
 2. mi ada do waf na pase.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
