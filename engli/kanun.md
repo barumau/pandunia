@@ -34,7 +34,7 @@ These are the 11 basic rules of Pandunia language.
 9. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
     - ex. **mi cing tu dona mone.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Do you speak Pandunia?
+    - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Do you speak Pandunia?
     - **mi cing tu loga ming.** →  **cing loga ming.** = Please speak clearly.
 11. Derived words carry an ending. Adjectives end in -i, nouns end in -e, and verbs end in -a or -u.
 
@@ -546,8 +546,8 @@ In certain types of expressions the pronouns get dropped for brevity. This is do
 
 #### 7.8.1. Short pivot structure (VOVO)
 
-> **mi kia tu baxa pandunia.** - I ask do you speak Pandunia.  
-> **kia tu baxa pandunia?** - Do you speak Pandunia.
+> **mi eska tu baxa pandunia.** - I ask do you speak Pandunia.  
+> **eska tu baxa pandunia?** - Do you speak Pandunia.
 
 #### 7.8.2. Short pivot structure (VVO)
 
@@ -601,13 +601,13 @@ The word **no** is used for denying anything. It affects always the next word.
 
 The particles **si** and **no** are used also for answering questions.
 
-> **kia tu wida mi?** - Do you see me?  
+> **eska tu wida mi?** - Do you see me?  
 > **si. (mi si wida tu.)** - Yes. (I do see you.)  
 > **no. (mi no wida tu.)** - No. (I don't see you.)
 
 Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
 
-> **kia tu no wida mi?** - Don't you see me?  
+> **eska tu no wida mi?** - Don't you see me?  
 > **si. (mi si wida tu.)** - Yes. (I do see you.)  
 > **no. (mi no wida tu.)** - No. (I don't see you.)
 
@@ -646,6 +646,17 @@ Or in the opposite order:
 
 > **labe du roze rang** - lips of the color of the rose  
 > **yen du saman rang** - eyes of the color of the sky
+
+The particles help in creating measure words too.
+ 
+**un sake da patate** - one sack of potatos  
+**do sake da patate** - two sacks of potatos  
+**max sake da patate** - more sacks of potatos
+ 
+Note that **da** and **du** connect phrases together. So a modifier phrase with and without **da** can mean a different thing.
+
+**max sundar pul** - more beautiful flowers  
+**max da sundar pul** - more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
