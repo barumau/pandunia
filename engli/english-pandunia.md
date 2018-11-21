@@ -6,7 +6,7 @@
   
   
   
-    
+  
     
     
     
@@ -97,6 +97,7 @@ ambassador   : dayxi
 America (continent)   : amerike  
 American   : ameriki  
 American Samoa   : usameriki samoa  
+americium   : amerikium  
 Amhara (an Ethiopian ethnic group and language)   : amari  
 ampere   : amper  
 amuse (entertain)   : maza  
@@ -129,7 +130,6 @@ argon   : argon
 argue (claim)   : teza  
 argument (thesis)   : teze  
 army   : armia  
-arrow   : ban  
 arsenic   : arsen  
 art   : arte  
 article (writing)   : makale  
@@ -140,7 +140,7 @@ Aruba   : arubá
 ascetic   : askete  
 ash tree   : yasen  
 Asia   : asia  
-Asian   : asi  
+Asian   : asian  
 ask (inquire)   : eska  
 ask (request; please)   : cing  
 asparagus   : lusun  
@@ -247,11 +247,12 @@ blood   : sang
 blossom (bloom)   : pula  
 blow   : fonga  
 blue   : nil  
-board (plank)   : paban  
-board game   : paban gem  
+board (plank)   : ban  
+board game   : ban gem  
 boat (ship)   : bote  
 bodily (corporal)   : badani  
 body   : badan  
+bohrium   : borium  
 boil (be boiled)   : bulu  
 boil (cook)   : bula  
 Bolivia   : bolivia  
@@ -262,6 +263,7 @@ book   : buke
 booking (reservation)   : buking  
 border (edge, rim, fringe)   : kenar  
 boron   : boron  
+Bosnia and Herzegovina   : bosnia  
 bother   : mafana  
 Botswana   : tswana  
 bottle   : botol  
@@ -270,7 +272,7 @@ bow instrument (violin, etc.)   : ticin
 bowl (earless cup)   : wan  
 box (chest)   : sanduke  
 boy   : jowan man  
-boycott   : boykote  
+boycott   : boikote  
 brain   : serebre  
 branch (bough)   : xake  
 brave (courageous)   : yungam  
@@ -308,6 +310,7 @@ buttocks (butt)   : pigú
 button   : boton  
 ##c  
 cabin (booth)   : kabin  
+cadmium   : kadomium  
 caesium   : cesium  
 cafe (coffee shop)   : kafé kan  
 cage   : kafas  
@@ -315,6 +318,7 @@ cake (cookie)   : keke
 calcium (Ca)   : kalsium  
 calculate   : hisaba  
 calculation (arithmetic, computation)   : hisabe  
+californium   : kalifornium  
 caliph   : halif  
 call (give name)   : nama  
 calm (peaceful)   : xanti  
@@ -330,6 +334,7 @@ Canada   : kanadia
 candy (sweets)   : kande  
 cangaroo   : kanguru  
 cannoneer   : kanoner  
+canoe   : kanú  
 captain   : kapitan  
 car (cart, carriage, wagon, automobile)   : kar  
 carat   : kirate  
@@ -376,7 +381,7 @@ chemistry   : kimia
 cherub   : kerube  
 chest (breast)   : sine  
 chestnut   : kastan  
-chicken   : koko  
+chicken   : koke  
 chickpea   : humus  
 chief (boss)   : xefe  
 child (offspring)   : bace  
@@ -500,6 +505,7 @@ cry (shout)   : krita
 cry (weep)   : rona  
 Cuba   : kubá  
 cube   : kube  
+cucumber   : pepin  
 cultivate (farm)   : nonga  
 culture   : kultur  
 cumin   : zirá  
@@ -577,6 +583,7 @@ dragonfly   : libel
 drama   : drame  
 drawing (picture)   : desen  
 drill (bore)   : bora  
+drop (droplet)   : yote  
 drop (let fall)   : pada  
 drug (intoxicating substance)   : droge  
 drum   : tambur  
@@ -723,6 +730,7 @@ flatbread (chapati, roti)   : rote
 floor   : kamar tal  
 flower   : hua  
 flower   : pul  
+fluorine   : flur  
 fly   : feya  
 focus (concentration)   : fokus  
 follow (come after)   : bada  
@@ -762,6 +770,7 @@ full   : ful
 fun (amusement)   : maze  
 function (work)   : funca  
 funny (amusing)   : mazi  
+future time   : wile  
 ##g  
 Gabon   : gabun  
 gadolinium   : gadolinium  
@@ -813,6 +822,7 @@ good luck   : bon zar
 Good morning   : salam subá  
 good-looking   : bon rupi  
 gospel   : anjil  
+gourd (calabash)   : hulú  
 grain (seed)   : dane  
 gram   : gram  
 grandfather   : opá  
@@ -918,7 +928,7 @@ how?   : ki yang
 howl   : ulula  
 howling   : ulul  
 huh? (pardon?)   : he  
-human being   : insan  
+human being   : manus  
 hummus   : humus sos  
 humor   : yumor  
 humorous (comical, funny)   : yumori  
@@ -932,13 +942,13 @@ hybrid (mongrel)   : hibride
 hydrogen   : hidre  
 I (me)   : mi  
 ##i  
-ice   : ais  
+ice   : is  
 Iceland   : islandia  
-icy   : aisi  
+icy   : isi  
 idea   : idey  
 ideal (optimal)   : ideyal  
 idealisme   : ideyalisme  
-if (suppose, assume)   : jadi  
+if (suppose, assume)   : gar  
 ill (sick)   : bing  
 illustrator (graphic artist)   : grafer  
 imagine (fantasize)   : fantaza  
@@ -1015,7 +1025,7 @@ ketchup   : kecape
 kettle   : ketel  
 key   : cabi  
 key (push-button, switch)   : buton  
-keyboard   : buton paban  
+keyboard   : buton ban  
 kill   : morta  
 killer   : morter  
 kilogram (kg)   : kilo gram  
@@ -1056,6 +1066,7 @@ Latin alphabet   : latini abace
 Latvia   : latvia  
 laugh   : haha  
 law   : kanun  
+lawrencium   : laurensium  
 lead   : plumbe  
 lead (direct)   : lida  
 leader (director)   : lider  
@@ -1149,7 +1160,7 @@ mandarin orange   : migan
 manganese   : mangan  
 mango   : mango  
 mangosteen   : mangus  
-mankind (humanity)   : insania  
+mankind (humanity)   : manusia  
 Marathi   : marati  
 marathon   : maraton  
 marble   : marmar  
@@ -1189,6 +1200,7 @@ medicine (field of study)   : medikia
 meditate (ponder)   : medita  
 meet   : mita  
 meeting (gathering)   : mite  
+meitnerium   : maitnerium  
 melodious (melodic)   : melodi  
 melody   : melodia  
 melt (get molten)   : mayu  
@@ -1220,9 +1232,12 @@ minority   : minoria
 minute   : minut  
 mirror   : mirer  
 misfortune (bad luck)   : mal zar  
+mix (blend)   : mixa  
+mixer (blender)   : mixer  
 model (design)   : model  
 Moldova   : moldovia  
 mole (burrowing animal)   : krote  
+molybdenum   : molidenum  
 Monaco   : monako  
 Monday   : war 1 (war un)  
 money   : pese  
@@ -1411,7 +1426,6 @@ pass (of time)   : duru
 past (bygone)   : pas  
 past times   : pase  
 paste   : paste  
-path (track, trail)   : pat  
 pause (break, interruption)   : paus  
 pause (interrupt)   : pausa  
 pay   : peya  
@@ -1462,7 +1476,8 @@ piss (urine)   : pixa
 pistol   : pistol  
 pit (excavation)   : fos  
 Pitcairn   : pitkerne  
-pizza   : piza  
+pizza   : pize  
+pizzeria   : pizeria  
 place (location)   : loke  
 plain (mere)   : sadi  
 plan   : plan  
@@ -1471,6 +1486,7 @@ planet   : planete
 plant (vegetation)   : plante  
 plastic   : plastike  
 plate   : plate  
+platinum   : platin  
 Plato   : platon  
 Platonic   : platoni  
 Platonism   : platonisme  
@@ -1626,7 +1642,7 @@ rib cage   : sine kase
 rice   : ris  
 rich   : rici  
 right (correct, accurate)   : sahi  
-right (justification, privilege)   : hak  
+right (justification, privilege)   : hake  
 risk   : riske  
 risky   : riski  
 ritual (ceremony)   : rite  
@@ -1660,6 +1676,7 @@ Russia   : rusia
 Russian   : rusi  
 rustle   : xaxu  
 ruthenium   : rutenium  
+rutherfordium   : ruterfordium  
 Rwanda   : rwanda  
 Réunion   : reunion  
 ##s  
@@ -1903,6 +1920,7 @@ tea bowl   : ca wan
 tea cup   : ca kupe  
 teacher   : darse gurú  
 team   : tim  
+tear drop   : yen suy  
 technetium   : teknetium  
 technique (technology)   : tekne  
 technology (study of techniques)   : tekne lojia  
@@ -1913,6 +1931,7 @@ tellurium   : telurium
 Telugu   : telugú  
 tempt (entice)   : tenta  
 ten (10)   : des  
+tennessine   : tenesin  
 tennis   : tenis  
 tent   : tende  
 terbium   : terbium  
@@ -2075,6 +2094,7 @@ washing machine   : wax-maxin
 water   : suy  
 water buffalo   : kabaw  
 water lily (nenuphar)   : nenufar  
+watercolor   : suy rang  
 watermelon   : arbuze  
 watt   : wate  
 wax   : mum  
@@ -2099,9 +2119,10 @@ whole (entire, all)   : toti
 wide   : kuan  
 wiki   : wiki  
 wild (savage)   : wildi  
+will (in future)   : wil  
 will (volition, desire)   : ice  
 wind   : fong  
-window   : janela  
+window   : janel  
 wine   : win  
 wing   : wing  
 winter   : xite  
@@ -2140,6 +2161,7 @@ you all   : tumen
 young   : jowan  
 youth (young age)   : jowania  
 youth (young person)   : jowane  
+yttrium   : yutrium  
 ##z  
 Zambia   : zambia  
 zebra   : zebre  
@@ -2150,6 +2172,7 @@ zinc   : zinke
 zip up   : zipa  
 zipper   : ziper  
 zirconium   : zirkonium  
+zombie   : zombe  
 Zoroaster   : zardux  
 Zoroastrianism   : zarduxisme  
 Zulu   : zulu  

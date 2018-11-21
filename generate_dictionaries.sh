@@ -1,14 +1,14 @@
 # ze engli to pandunia
-cat english/pandunia-english.md | sed '/^#/ d' > temp/temp2.txt
+cat engli/pandunia-english.md | sed '/^#/ d' > temp/temp2.txt
 cat temp/temp2.txt temp/abace.txt > temp/temp.txt
-awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > english/english-pandunia.md
-sed 's/_//g' -i english/english-pandunia.md
-sed 's/$/  /' -i english/english-pandunia.md
+awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > engli/english-pandunia.md
+sed 's/_//g' -i engli/english-pandunia.md
+sed 's/$/  /' -i engli/english-pandunia.md
 
 #Tiddly dictionary
-cp english/pandunia-english.md temp/temp.txt
+cp engli/pandunia-english.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
-cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > english/tiddly.html
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # ze suomi to pandunia
 cat temp/abace.txt suomi/logaloga.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> suomi/pandunia-suomi.md 

@@ -13,8 +13,6 @@ afrike : Africa
 afriki : African  
 agres : agression (assault)  
 aha : understand (realize)  
-ais : ice  
-aisi : icy  
 ajil : agile  
 akse : axis (axle)  
 akú : parrot (parakeet)  
@@ -33,6 +31,7 @@ amen : agreement (amen)
 amena : affirm (agree, concur)  
 amerike : America (continent)  
 ameriki : American  
+amerikium : americium  
 amper : ampere  
 amuke : rage (fury)  
 analis : analysis  
@@ -63,8 +62,8 @@ arte : art
 arter : artist  
 arubá : Aruba  
 asan : posture (asana)  
-asi : Asian  
 asia : Asia  
+asian : Asian  
 askete : ascetic  
 asle : origin  
 asli : original  
@@ -103,7 +102,8 @@ balde : bucket
 bale : force (strength)  
 balkon : balcony (porch)  
 bama : Myanmar (Burma)  
-ban : arrow  
+ban : board (plank)  
+ban gem : board game  
 banan : banana  
 banda : tie (fasten, bind)  
 bande : band (bandage)  
@@ -182,6 +182,7 @@ blable kamar : chat room
 boda : realize  
 bode : realization (awareness, enlightenment, bodhi)  
 bodi : aware (enlightened)  
+boikote : boycott  
 boke : mouth  
 bol : ball  
 bolgaria : Bulgaria  
@@ -191,11 +192,12 @@ bon : good
 bon rupi : good-looking  
 bon zar : good luck  
 bora : drill (bore)  
+borium : bohrium  
 boron : boron  
+bosnia : Bosnia and Herzegovina  
 bote : boat (ship)  
 botol : bottle  
 boton : button  
-boykote : boycott  
 brazavil kongó : Congo (Brazzaville)  
 brazilia : Brazil  
 britania : United Kingdom  
@@ -218,7 +220,7 @@ bus : bus
 buste : bust (bosom)  
 butan : Bhutan  
 buton : key (push-button, switch)  
-buton paban : keyboard  
+buton ban : keyboard  
 buyú : baobab  
   
   
@@ -392,6 +394,9 @@ erbium : erbium
 eris : Eris (dwarf planet)  
 eritria : Eritrea  
 esey : essay  
+eska : ask (inquire)  
+eske : question  
+eski : interrogative  
 espania : Spain  
 esperanti : Esperanto  
 estia : Estonia  
@@ -470,6 +475,7 @@ fix : fish
 fizike : physics  
 fiziker : physicist  
 fizikia : physics  
+flur : fluorine  
 fobe : fear (phobia)  
 fokus : focus (concentration)  
 fokusa : concentrate  
@@ -522,6 +528,7 @@ ganga : Ganges
 gania : Ghana  
 ganjá : hemp (cannabis)  
 ganya : earn (gain)  
+gar : if (suppose, assume)  
 garante : guarantee  
 gardin : garden  
 garmi : warm  
@@ -591,7 +598,7 @@ hafnium : hafnium
 haha : laugh  
 haida : let's  
 haitia : Haiti  
-hak : right (justification, privilege)  
+hake : right (justification, privilege)  
 hakim : judgment (sentence)  
 hakimer : judge (referee)  
 hali : empty  
@@ -652,6 +659,7 @@ horvatia : Croatia
 hotel : hotel  
 hua : flower  
 hule : fox  
+hulú : gourd (calabash)  
 humus : chickpea  
 humus sos : hummus  
 hura : free (liberate)  
@@ -676,8 +684,6 @@ informa : inform (communicate)
 informe : information  
 inje : ginger  
 injener : engineer  
-insan : human being  
-insania : mankind (humanity)  
 inspira : inspire  
 inter : between  
 interes : interest (interesting)  
@@ -686,6 +692,8 @@ iode : iodine
 irakia : Iraq  
 iran : Iran  
 iridium : iridium  
+is : ice  
+isi : icy  
 islam : Islam  
 islami : Islamic  
 islami xaria  shari'a  
@@ -697,7 +705,6 @@ izi : easy
 ##j  
   
 ja : already (-ed)  
-jadi : if (suppose, assume)  
 jaket : jacket  
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
@@ -708,7 +715,7 @@ jamia : collection (congregation)
 jamula : disperse  
 jan : know  
 jane : knowledge  
-janela : window  
+janel : window  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
 janger : warrior (fighter)  
@@ -770,6 +777,7 @@ ka : compared to (as, than)
 kabaw : water buffalo  
 kabin : cabin (booth)  
 kaca : catch (capture, seize)  
+kadomium : cadmium  
 kafas : cage  
 kafé : coffee  
 kafé kan : cafe (coffee shop)  
@@ -780,6 +788,7 @@ kakaw : cocoa
 kake : excrement (shit)  
 kal : black  
 kalam : pen  
+kalifornium : californium  
 kalium : potassium  
 kalsium : calcium (Ca)  
 kam : desire (lust)  
@@ -800,6 +809,7 @@ kanguru : cangaroo
 kannadi : Kannada  
 kanon : gun (cannon)  
 kanoner : cannoneer  
+kanú : canoe  
 kanun : law  
 kapa : cover (conceal)  
 kapitan : captain  
@@ -848,9 +858,6 @@ ki ren : who?
 ki xey : what thing?  
 ki yang : how?  
 ki zaman : when?  
-eska : ask (inquire)  
-eske : question  
-eski : interrogative  
 kil : wedge  
 kilo : thousand (kilo-)  
 kilo gram : kilogram (kg)  
@@ -885,7 +892,7 @@ kobalte : cobalt
 koda : encode  
 kode : code (cipher)  
 koká : coca  
-koko : chicken  
+koke : chicken  
 kokos : coco  
 kokos nesia : Cocos (Keeling) Islands  
 kola : cola  
@@ -990,6 +997,7 @@ lasun : garlic
 latif : nice (pleasant, lovely)  
 latini abace : Latin alphabet  
 latvia : Latvia  
+laurensium : lawrencium  
 laxa : release (let, let go)  
 laya : come  
 le : that one  
@@ -1075,6 +1083,7 @@ magneti : magnetic
 magribia : Morocco  
 maidan : square (plaza)  
 mais : corn (maize)  
+maitnerium : meitnerium  
 majú : harness  
 makale : article (writing)  
 makan : butter  
@@ -1106,6 +1115,8 @@ manin : Isle of Man
 manioka : cassava (manioc)  
 manse : meat (flesh)  
 mante : steamed bun (mantou, manti)  
+manus : human being  
+manusia : mankind (humanity)  
 mar : time (occasion)  
 marati : Marathi  
 maraton : marathon  
@@ -1220,12 +1231,15 @@ misri : Egyptian
 misria : Egypt  
 mita : meet  
 mite : meeting (gathering)  
+mixa : mix (blend)  
+mixer : mixer (blender)  
 mode : fashion (trend)  
 model : model (design)  
 moge : ink  
 mola : grind (grind in mill)  
 moldovia : Moldova  
 moler : miller  
+molidenum : molybdenum  
 mon : only (alone, solely, just)  
 monako : Monaco  
 mongol : Mongol  
@@ -1402,8 +1416,6 @@ oton : autumn (fall)
 
 ##p  
   
-paban : board (plank)  
-paban gem : board game  
 pada : drop (let fall)  
 padu : fall  
 pagre : turban  
@@ -1440,7 +1452,6 @@ pasa : pass (go by, go past)
 pase : past times  
 paskal : pascal (Pa)  
 paste : paste  
-pat : path (track, trail)  
 patate : potato  
 paunde : pound (£)  
 paus : pause (break, interruption)  
@@ -1456,6 +1467,7 @@ penda : hang (dangle)
 penis : penis (phallus)  
 penta : paint  
 penter : painter  
+pepin : cucumber  
 per : pear  
 perda : fart (flatulate)  
 perde : fart (flatulence)  
@@ -1487,13 +1499,15 @@ pirater : pirate
 pistol : pistol  
 pitkerne : Pitcairn  
 pixa : piss (urine)  
-piza : pizza  
+pize : pizza  
+pizeria : pizzeria  
 plan : plan  
 plana : intend (plan)  
 planete : planet  
 plante : plant (vegetation)  
 plastike : plastic  
 plate : plate  
+platin : platinum  
 platon : Plato  
 platoni : Platonic  
 platonisme : Platonism  
@@ -1643,6 +1657,7 @@ rupe : appearance (looks)
 rusi : Russian  
 rusia : Russia  
 rutenium : ruthenium  
+ruterfordium : rutherfordium  
 rutin : routine (habit)  
 rwanda : Rwanda  
   
@@ -1820,6 +1835,7 @@ surinam : Suriname
 surinam bax : Sranan Tongo  
 suxí : sushi  
 suy : water  
+suy rang : watercolor  
 swahili : Swahili  
 swazia : Swaziland  
 swede : sweat (perspiration)  
@@ -1874,6 +1890,7 @@ tem : topic (subject, theme)
 tema : be about (discuss as a subject)  
 tena : hold (keep)  
 tende : tent  
+tenesin : tennessine  
 tenis : tennis  
 tenki : weather  
 tenta : tempt (entice)  
@@ -2025,7 +2042,9 @@ wide : view (vision)
 wide maydan : visual field (field of vision)  
 widu : be seen  
 wiki : wiki  
+wil : will (in future)  
 wildi : wild (savage)  
+wile : future time  
 wiman : airplane  
 win : wine  
 wing : wing  
@@ -2098,6 +2117,7 @@ ye : he or she or it
 yehudi : Jewish  
 yemen : they  
 yen : eye  
+yen suy : tear drop  
 yesu : Jesus  
 yode : iodine  
 yoga : do yoga  
@@ -2105,10 +2125,12 @@ yoge : yoga
 yohan feste : Saint John's Day  
 yone : vagina  
 yosay : fortress (stronghold)  
+yote : drop (droplet)  
 yumor : humor  
 yumori : humorous (comical, funny)  
 yungam : brave (courageous)  
-  
+yutrium : yttrium  
+
 ##z  
   
 zafran : saffron  
@@ -2139,6 +2161,7 @@ ziper : zipper
 zirá : cumin  
 zirkonium : zirconium  
 ziza : sizzle  
+zombe : zombie  
 zon : belt (zone)  
 zukam : cold (illness)  
 zulu : Zulu  
