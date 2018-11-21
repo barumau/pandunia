@@ -84,11 +84,9 @@ In Pandunia nouns end in -e or they don't have any ending at all. In general -e 
 
 1. Add no ending to roots that are universally easy to pronounce. Ex. problem (problem).
 2. Add ending -e to roots that end in more difficult consonants. Ex. bote (boat), supe (soup), sufle (soufflé).
-3. Add apostrophe (i.e. glottal stop) to roots that end in an inseparable vowel. Ex. hero' (hero), xampu' (shampoo), sofa' (sofa), zebra' (zebra).
+3. Put the stress accent on the last vowel of the roots that end in an inseparable vowel. Ex. heró (hero), xampú (shampoo), sofá (sofa). The accent difference is present both in written and in spoken language.
 
-The apostrophe moves the stress accent to the last vowel, so the difference is present both in written and in spoken language.
-
-With this solution all kinds of words can be imported to Pandunia without changing or destroying any important letters.
+With this solution all kinds of words can be imported to Pandunia without changing or deleting any important letters.
 
 
 ### Esperanto roots have inherent word class
