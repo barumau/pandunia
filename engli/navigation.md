@@ -20,8 +20,8 @@
 [Words]()
 
   * [Word building](loge_ban.md)
-  * [Pandunia-English](pandunia-english.md)
-  * [English-Pandunia](english-pandunia.md)
+  * [Pandunia-English](pandunia-engli.md)
+  * [English-Pandunia](engli-pandunia.md)
   * [Search](tiddly.html)
 
 [Grammar](kanun.md)

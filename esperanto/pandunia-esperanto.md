@@ -1,846 +1,2129 @@
-    
-##a
-  
+-a : -i (-igi)  
+-e : -o (-aĵo)  
+-em : -er  
+-er : -isto  
+-i : -a (-e)  
+-ia : -ejo (-ujo, -io)  
+-u : -i (-iĝi)  
+##a  
 a : sed  
+abace : alfabeto  
+acente : akcento  
+acinium : aktinio  
+ada : havi  
 adres : adreso  
-afrika : Afriko  
+adu : aparteni  
+adulte : plenaĝa  
+afgania :   
+afrike : Afriko  
+afriki : afrika  
+agres : agreso  
 aha : kompreni  
-ai : alas!  
-aiti : Haitio  
 ajil : lerta  
-akil : racio  
 akse : akso  
-aku : papago  
+akú : papago  
+ali jinse kami : samseksema  
+ali : alia  
 alkol : alkoholo  
-almari : ŝranko  
+alkoli : alkohola  
+almar : ŝranko  
 almas : diamanto  
-alu : terpomo  
-ama : amo  
+altar : altaro  
+alumin : aluminio  
+am : amo  
+ama : ami  
+amari :   
 amen : interkonsento (amen)  
-amerika : Ameriko  
+amena : aserti (konsenti)  
+amerike : Ameriko  
+ameriki : amerika  
+amerikium : americio  
 amper : ampero  
-amuk : furiozo  
+amuke : furiozo  
 analis : analizo  
+analisa : analizi  
+angolia :   
+anima :   
 anime : kartuno  
 anjil : evangelio  
-antena : anteno  
+antartia :   
+anten : anteno  
 anus : anuso  
-ara : segilo  
+anusi : anusa  
+aple : pomo  
+aplika :   
+aplike :   
 arabi : araba  
-aranji : oranĝo  
-aranji rang : oranĝkolora  
-arhentina : Argentino  
+aranje : oranĝo  
+aranji : oranĝa  
+arbuze : akvomelono  
+are : areo  
+argentin : Argentino  
+argon : argono  
+aria : ejo  
+armia : armeo  
+arsen : arseno  
 arte : arto  
+arter : artisto  
+arubá :   
 asan : posteno  
 asia : Azio  
+asian : azia  
+askete : ascetiko  
+asle : origino  
+asli : origina  
 asma : astmo  
 aspirin : aspirino  
-ataka : atako  
+atake : atako  
 atom : atomo  
+auda : aŭdi (aŭskulti)  
 australia : Aŭstralio  
-awaka : avokado  
-
-##b
-
-ba : ok (8)  
-baca : ido (infano)  
+awakate : avokado  
+awar : damaĝo  
+axur :   
+axuria :   
+ay : alas!  
+azeria :   
+##b  
+babe : ĉapitro  
+bace : ido (infano)  
+bada : sekvi  
+badala : interŝanĝi  
 badam : migdalo  
 badan : korpo  
+badani : korpa  
 badawi : beduino (nomado)  
-badila : interŝanĝi  
-bai : blanka  
-bala : forto  
-balbu : valvo (krano)  
-baldi : sitelo  
+bade : sekvo  
+bagaje : pakaĵo  
+bagre : tigro  
+bahama :   
+bahrain :   
+bal : forta  
+balbe : valvo (krano)  
+balde : sitelo  
+bale : forto  
+balkon : balkono  
 bama : Birmo  
-bambu : bambuo  
-bana : konstrui  
-banana : banano  
-banda : bandaĝo (vindo)  
-bandera : flago  
-bangla : Bangladeŝo  
-banya : bano  
-banya kamar : banĉambro  
+ban gem :   
+ban :   
+banan : banano  
+banda : ligi  
+bande : bandaĝo (vindo)  
+bander : flago  
+banglia : Bangladeŝo  
+banka : savi  
+banya : bana  
+banye kamar : banĉambro  
+banye : bano  
 bar : drinkejo  
 bara : bari  
+barbados :   
 barbar : barbaro  
+barde : barbo  
+barer : barilo  
+barium : bario  
 barka : gratuli  
-barti : Barato  
-baru : urso  
-barud : pulvo  
+barti : Barata  
+bartia : Baratio  
+barude : pulvo  
+barú : urso  
 bas : sufiĉa  
 basen : baseno  
 basket : korbo  
-bata : anaso  
-batakrot : ornitorinko  
-batata : batato  
-bateri : baterio (pilo)  
+bat : ok (8)  
+bateria : baterio (pilo)  
 baton : stango  
-batu : ŝtono  
-baxa : lingvo  
-baxa loji : lingvistiko  
+batá : anaso  
+batú : ŝtono  
+bax lojia : lingvistiko  
+bax : lingvo  
+baxa : paroli (komuniki)  
+bay : blanka  
 bazar : merkato (bazaro)  
 baze : bazo  
+bazi : baza  
 be : sen  
-bebe : karulo  
+beafrike :   
+bebe : bebo  
 bede : lito  
 bedinjan : melongeno  
-belarus : Belorusio  
-belgi : Belgio  
-belize : Beliceo  
-beng : malsana  
+bega : fuĝi  
+beijing :   
+beka : baki  
+beker : bakisto  
+bekeria : bakejo  
+belarus :   
+belgia : Belgio  
+belizia : Beliceo  
+bence : benko  
+benin :   
 benzin : benzino  
-beranda : veranda  
-beret : bereto  
-beri : lupo  
+berande : verando  
+beria : lupo  
+beril : berilio  
+berkelium : berkelio  
+bermudia :   
+beré : bereto  
 beton : betono  
+bey :   
 biblia : Biblio  
-bin : poto  
-bindu : punkto  
+bina : konstrui  
+binde : punkto  
+bing : malsana  
 bir : biero  
+bis :   
+biskute : biskvito (kuketo)  
+bismute : bismuto  
+bixu : devi  
+bizar : stranga  
 bizi : okupata  
-biznes : negoco  
 biznes ren : komercisto  
+biznes : negoco  
 blabla : babili  
-blabla kamar : babilejo  
-boka : buŝo  
-bola : pilko  
-bolgar : Bulgario  
+blable kamar : babilejo  
+boda : kompreni  
+bode : kompreno  
+bodi : konscia  
+boikote : bojkoto  
+boke : buŝo  
+bol : pilko  
+bolgaria : Bulgario  
 bolivia : Bolivio  
-bomba : bombo  
+bombe : bombo  
+bon rupi : bonaspekta  
+bon zar :   
 bon : bona  
+bora : taladro  
+borium : borio  
+boron : boro  
+bosnia :   
 bote : ŝipo  
 botol : botelo  
 boton : butono  
-brazil : Brazilo  
-britan : Britio  
+brazavil kongó :   
+brazilia : Brazilo  
+britania :   
+brom : bromo  
 brox : broso  
-buda : budho  
-buda din : budhismo  
-budi : intelekto  
+bruney :   
+budan : Merkuro  
+bude :   
+budisme : budhismo  
 bufon : pajaco  
+bujete : buĝeto  
+buke : libro  
 buking : rezervo  
-buku : libro  
-buku fen : ĉapitro  
-bumi grafi : geografio  
-bunduki : fusilo  
+bula : boligi  
+bulbul : bobelo  
+bulu : boli  
+bunduke : fusilo  
+burkiná :   
 bus : buso  
-buyu : baobabo  
-
-##c
-
+buste :   
+butan :   
+buton ban : klavaro  
+buton : klavo  
+buyú : baobabo  
+##c  
+ca kupe :   
+ca wan :   
 ca : teo  
-cabi : ŝlosilo  
-caku : tranĉilo  
+cabe : ŝlosilo  
+cadia :   
+cakre : rado  
+cakú : tranĉilo  
+camce : kulero  
+campion : ĉampiono  
+cang : ofte  
+canse : ŝanco  
+canta : kanti  
+cante : kanto  
 capa : presi  
+cape : presaĵo  
 car : kvar (4)  
-cata : tekto  
-caya : ombro  
-celo : violonĉelo  
-ci : sep (7)  
-ci war : semajno  
-ciki : porcelano  
+cate : tekto  
+caye : ombro  
+ce : ĉi tio  
+cehia :   
+ceka : kontroli  
+celó : violonĉelo  
+centi : centono  
+cerium : cerio  
+cerni goria :   
+cesium : cezio  
+ci : ĉi tiu  
 cile : Ĉilio  
-cili : kapsiko  
-cimpanzi : ĉimpanzo  
-cincila : ĉinĉilo  
+cimpanze : ĉimpanzo  
+cincil : ĉinĉilo  
+cing laya : inviti  
 cing : peti (bonvolu)  
-cing lai : inviti  
-ciri : birdo  
+cipia :   
 cis : fromaĝo  
-cita : citaĵo  
+cita : citi  
 coda : fiki  
-cokola : ĉokolado  
-cokola baton : ĉokolado  
-cuka : vinagro  
+cokolate baton : ĉokolado  
+cokolate : ĉokolado  
+cuká : vinagro  
+cula : krom (escepti)  
+cum : kiso  
+cune : printempo  
+cunza : elekti  
+cunze : elekto  
 cupa : suĉi  
-curi : ŝtelo  
-
-##d
-
-da : doni  
-dai : granda  
+cur : ŝtelo  
+cura : ŝteli  
+curer : ŝtelisto  
+cuta : eliri  
+cute mun : elirejo  
+cute : eliro  
+##d  
+da : propra (partiklo de posedo)  
+daba : respondi  
+dabe : respondo  
+dadó : ĵetkubo  
+daftar : registro  
+dama :   
+dan : semo  
+dania : Danio  
+danka : danki  
 danke : danko  
+dante brox : dentbroso  
+dante mediker : dentisto  
 dante : dento  
-darma : devo  
-dau : vojo  
-dawa : drogo (medicino)  
-dawa kan : apoteko  
-de : de (partiklo de posedo)  
-demo : popolo  
-demo grafi : demografio  
-demo krati : demokratio  
+darba : bati  
+daria : maro (oceano)  
+darje :   
+darme : pieco  
+darmi : pia  
+darsa : lerni (studi)  
+darse bace : studento (lernanto)  
+darse gurú : instruisto  
+darse kan : lernejo  
+darse : leciono  
+darwinisme :   
+daw : vojo  
+dawisme :   
+day : granda  
+dayu :   
+dayxi kan : ambasado  
+dayxi : ambasadoro  
+deci : dekono  
+deke : kovrilo  
 demon : demono  
-den : tago  
+demó grafia : demografio  
+demó kratia : demokratio  
+demó : popolo  
 den nyam : tagmanĝo  
-den salam : Bonan tagon  
+den : tago  
+denga : atendi  
 des : dek (10)  
-dewa : dio  
-dewa kisa : mito  
-dewa loji : teologio  
+desen : desegno  
+detal : detalo  
+dew lojia : teologio  
+dew : dio  
+dewi sage : mito  
+dewi : dia  
+dewisme :   
+dex : lando  
+deya stan :   
 deya : vilaĝo  
+din gurú : pastro  
 din : religio  
-din guru : pastro  
 ding : najlo  
 diske : disko  
-dixa : direkcio  
-do : al (ĝis, por)  
-doice : Germana  
-doktor : kuracisto  
+disprosium : disprozio  
+do : du (2)  
+doicia :   
 dolar : dolaro  
+dom : hejmo (loĝejo)  
+doma : loĝi  
+domin gem :   
+don : donaco  
+dona : doni  
 dong : oriento  
-dou : fabo aŭ pizo  
-doxa : kulpo  
+doste : amiko  
+dosti : amika  
+dostia : amikeco  
+dotor : doktoro  
+dotoria :   
+dow : fabo aŭ pizo  
+dox : kulpo  
+doxi : kulpa  
 doze : porcio (dozo)  
-du : du (2)  
-dua : preĝi  
-duan : mallonga  
+drame : dramo  
+droge :   
+du : de (partiklo de posedo)  
+dubnium : dubnio  
 duga : legi  
-duku : malĝojo  
+duka : lamenti  
+duke : malĝojo  
+duki : malĝoja  
+dul : polvo  
+dum : vosto  
 duman : fumo  
-duna : duno  
+dunia bax : mondlingvo  
 dunia : mondo  
-dunia baxa : mondlingvo  
-dura : daŭro  
-duxa : pluvo  
-
-##e
-
-e : esti  
+dunial : tuttera  
+dur : daŭro  
+dura : daŭri  
+duru :   
+dute : dubo  
+duwa : preĝi  
+duwe : preĝo  
+dux : duŝo  
+##e  
+egal : egala  
+eglis : preĝejo  
 eho : eĥo  
-eko : medio  
-eko loji : ekologio  
-energi : energio  
-englix : angla  
+einsteinium : ejnŝtejnio  
+ekran : ekrano  
+ekuador : Ekvadoro  
+eletre : elektro  
+eletri poste (e-poste) :   
+eletri : elektra  
+eletron : elektrono  
+energe : energio  
+engli : angla  
+eni : iu ajn  
+erbium : erbio  
 eris : Eris (planedeto)  
-eritra : Eritreo  
-espanya : Hispanio  
-esti : Estonio  
+eritria : Eritreo  
+esey :   
+eska : demandi (ĉu)  
+eske : demando  
+eski : demanda  
+espania : Hispanio  
+esperanti : Esperanto  
+estia : Estonio  
+etiopia : Etiopio  
 eurasia : Eŭrazio  
-euro : eŭro  
-europa : Eŭropo  
-europa unia : Eŭropa Unio (EU)  
-
-##f
-
-faida : utileco  
-famili : familio  
-famili nam : familinomo  
-fan : fervorulo  
-fani : amuza  
-fantazi : fantazio  
+eureka : trovi  
+europe : Eŭropo  
+europi unia : Eŭropa Unio (EU)  
+europi : Eŭropa  
+europium : eŭropio  
+euró : eŭro  
+##f  
+fada :   
+faide : utileco  
+faidi : utila  
+fain : fajna  
+fajan : disvolvi  
+falsi :   
+famil nam : familinomo  
+famil : familio  
+fantaza : fantaci  
+fantaze : fantazio  
+fantazi : fantazia  
 fantom : fantomo  
 farsi : persa  
 faru : rinocero  
-filsofi : filozofio  
+fas : surfaco  
+fasin : fascinado  
+fata : fari (fabriki)  
+fate : fabrikaĵo  
+fater : fabrikisto  
+fateria : fabriko  
+faxe :   
+faxisme : faŝismo  
+faxiste : faŝisto  
+faxon :   
+faxoni :   
+fay : fajro  
+faze :   
+fe :   
+feber : febro  
+fem bace : filino  
+fem rajer :   
+fem : ino  
+fen : parto (frakcio)  
+fena : dividi  
+fer : fero  
+fera :   
+feria :   
+fermium : fermio  
+festa : festi  
+feste : festo  
+fete : graso  
+feti : grasa  
+feya : flugi  
+figur : figuro  
+fijia :   
+fikra : pensi  
+fikre : penso  
+fiksa : fiksi  
+filipinia : Filipinoj  
+filistinia :   
+filme : filmo  
+filsofer : filozofo  
+filsofi : filozofia  
+filsofia : filozofio  
 filter : filtri  
-fizi : fiziko  
-fizi guru : fizikisto  
-fobi : timo (fobio)  
+fin : fino  
+fina : fini  
+finger wen : ringo  
+finger : fingro  
+fini : lasta  
+fix : fiŝo  
+fizike : fiziko  
+fiziker : fizikisto  
+fizikia : fiziko  
+flur : fluoro  
+fobe : timo (fobio)  
+fokus : koncentriĝo  
+fokusa : koncentri  
+fone :   
+foneme :   
+fong : vento  
+fonga : venti  
+forke : forko  
+forma : formigi  
+forme : formo  
 forum : forumo  
-franse : Francio  
-fubu : ventro  
+fos : foso  
+fosa : fosi  
+fosfor : fosforo  
+foto : foto  
+fransi polinesia :   
+fransia : Francio  
+fransium : franciumo  
+fubú : ventro  
+fuga :   
+fuka : vesti  
+fuke : vesto  
+ful : plena  
+fula : plenigi  
 fulan : iu  
-funci : funkcii  
+funca : funkcii  
 furet : furo  
-futa : graso  
-futur : estonta  
-
-##g
-
-gabra : tombo  
-gabra stan : tombejo  
-gada : azeno  
-gaja : elefanto  
-galeri : galerio (ekspozicio)  
-gali : strato  
+fute bol : piedpilko  
+fuy : bah!  
+##g  
+gabre stan : tombejo  
+gabre : tombo  
+gabun :   
+gade : azeno  
+gadolinium : gadolinio  
+gajá : elefanto  
+galeria : galerio (ekspozicio)  
+galium : galiumo  
+gam : emocio  
+gama : emocii  
+gambia :   
 gamel : kamelo  
-gami : geedzeco  
-gana : kanto  
+gan putaw : sekvinbero  
+gan : seka  
+gandia :   
+gang : ĵus  
 ganga : Gangoj  
-ganja : kanabo  
-garanti : garantio  
+gania :   
+ganjá : kanabo  
+ganya : akiri (gajni)  
+gar : se  
+garante : garantio  
+gardin : ĝardeno  
+garmi masal :   
+garmi : varma  
 gas : gaso  
-gau : alta  
-gayana : Gujano  
+gaw : alta  
+gayan : Gujano  
+gaze :   
 gazel : gazelo  
-geliza : preĝejo  
+gazete : gazeto (revuo)  
+gem : ludo  
+gema : ludi  
+gemer : ludanto  
+gen : radiko  
+genca :   
+genzi :   
+germanium : germaniumo  
+geta : akiri (ricevi, preni)  
+gey : samseksema  
 gida : stiri  
 giga : miliardo (giga-)  
+gim : oro  
+gine bisau :   
+gine :   
 gitar : gitaro  
+giyan :   
 glas : vitro  
-go : iri  
-go salam : bonan vojaĝon  
-gojia : lando  
+glota : gluti  
+glute : gluo  
+gluten : gluteno  
 gol : celo (golo)  
-gomi : kaŭĉuko  
-goro : porko  
-goro nyam : porkaĵo  
+gom : kaŭĉuko  
+goró manse : porkaĵo  
+goró : porko  
 goton : kotono  
-grafi : priskribo  
+graf buke :   
+graf : bildo  
+grafa : priskribi  
+grafem :   
+grafer :   
+grafi : grafika  
 gram : gramo  
 gras : herbo  
+grenada :   
+grimas : grimaco  
 grom : tondro  
-gua : kukurbo (kukumo, melono)  
-guanxi : rilato  
+grupe : grupo  
+gua : kaverno  
+guadelupe :   
+guam :   
+guanxe : rilato  
 guatemala : Gvatemalo  
-gubu : hipopotamo  
-guha : kaverno  
-gui : demono  
-guma : tamburo  
-guru : guruo  
-
-##h
-
-ha : havi  
+gubú : hipopotamo  
+gujarati :   
+gun : eco  
+gung fu :   
+gurú : guruo  
+gusta : gustumi  
+guste : gusto  
+gustu ka : gusti kiel  
+guy : demono  
+##h  
+habar gazete : gazeto  
 habar : novaĵoj  
+hafnium : hafnio  
 haha : ridi  
-hai : ankoraŭ  
-haide : ni faru...  
-hak : rajto  
-halo : saluton!  
-hamak : hamako  
-hamer : martelo  
+haida : ni faru...  
+haitia : Haitio  
+hake : rajto  
+hakim : juĝo  
+hakimer : juĝisto  
+hali : malplena  
+halif : kalifo  
+halos : halo  
+haló : saluton!  
+hamake : hamako  
+hamar : martelo  
 hamir : feĉo  
-hanguk : Sudkoreio  
-harmoni : harmonio  
+hangogia : Sudkoreio  
+haos : kaoso (malordo)  
+harabi : ruinigita  
+harfe : litero  
+harmoni : harmonia  
+harmonia : harmonio  
 has : speciala  
-hata : eĉ  
+hasium : hasio  
 hatar : danĝero  
+hatari : danĝera  
+hati : eĉ  
 hawa : aero  
-hazar : hazardo  
+hay : ankoraŭ  
+hazin : trezoro  
 he : ĉu?  
 helen : greka  
+helenia : Grekio  
+helium : helio  
+helme : kasko  
+helpa :   
+helpe : helpo  
 hem : hm  
-hema : tendo  
+hema : pripensi  
 hen : malamo  
-hero : heroo  
+heró : heroo  
+herói : heroa  
 hewan : besto  
-hima : neĝo  
-hima duna : neĝamaso  
-hima rose : frosto  
+hibride : miksulo  
+hidre : hidrogeno  
+him rose : frosto  
+him : neĝo  
 himalia : Himalajo  
-histori : historio  
-hobi : hobio  
-hoki : hokeo  
-honduras : cent  
+hindú : hinduo  
+hindúisme : hinduismo  
+hisaba : kalkuli  
+hisabe : kalkulo  
+histor : historio  
+historer : historiisto  
+historia : historio (studo de historio)  
+hobe : hobio  
+hoke : hokeo  
+holmium : holmio  
+hon : cent  
 honduras : Honduro  
+hong gong :   
 hor : horo  
 hormon : hormono  
+horvatia : Kroatio  
 hotel : hotelo  
 hua : floro  
-hua bin : vazo (florpoto)  
-
-##i
-
+hule : vulpo  
+hulú :   
+humus sos :   
+humus :   
+hura : liberigi  
+huri : libera  
+huria : libereco  
+##i  
 i : kaj  
-ici : deziri  
-idea : ideo  
-ifu : vesto  
+ibri : Hebrea  
+ice : voli  
+idey : ideo  
+ideyal : ideala  
+ideyalisme : idealismo  
 igen : opinio  
+impera :   
+imperer :   
+imperia :   
+indium : indio  
 indonesia : Indonezio  
-info : informacio  
+informa :   
+informe : informacio  
+inje :   
+injener :   
+inspira :   
+inter :   
+interes : interesa  
 inxala : esperi  
-irak : Irakio  
+iode : jodo  
+irakia : Irakio  
 iran : Iranio  
-isker : maldekstra  
+iridium : iridio  
+is : glacio  
+isi : glacia  
 islam : islamo  
+islami xaria  ŝario  
+islami : islama  
+islandia : Islando  
 israel : Israelo  
 italia : Italio  
 izi : facila  
-
-##j
-
-jadi : se  
-jake : jako  
-jameika : Jamajko  
-jami : kolekti (kunigi)  
+##j  
+ja : jam (-is)  
+jaket : jako  
+jala :   
+jalu :   
+jama : kolekti (kunigi)  
+jamaike : Jamajko  
+jami : kolekta  
+jamia :   
+jamula : disigi  
 jan : scii (koni)  
-janela : fenestro  
+jane :   
+janel : fenestro  
 jang : milito (batalo)  
 jangal : arbaro  
-jawaba : respondo  
-jeba : poŝo  
+janger :   
+jangi : milita  
+jani :   
+jar :   
+jayer :   
+jaze :   
+jebe : poŝo  
 jele : ĝelo  
-jen : nasko  
+jelos :   
 jen den : naskiĝtago  
+jen : nasko  
+jena : naskigi  
+jenjú : perlo  
 jentil : bonkora  
-jia : hejmo (loĝejo)  
-jiju : araneo  
-jinsi : genro  
-jirafa : ĝirafo  
-jiwa : vivo  
-jiwa loji : biologio  
+jenu : naski  
+jenxen :   
+jersia :   
+jeste :   
+jibraltar :   
+jibutia :   
+jijú : araneo  
+jika :   
+jiki :   
+jin : proksime  
+jinse : genro  
+jinsi :   
+jiraf : ĝirafo  
+jiwa : vivi  
+jiwe lojia : biologio  
+jiwe : vivo  
+jiwi : viva  
 jo : tio kio  
-jowan : juna  
+joke :   
+joker :   
+jong :   
 jowan fem : knabino  
 jowan man : knabo  
+jowan : juna  
+jowane : junulo  
+jowania : juneco  
 judo : ĵudo  
-jungo : Ĉinio  
+jug : bambuo  
+jul :   
+jumle :   
+jung : centro  
+junga :   
+jungogia : Ĉinio  
+jungu :   
+jupe : jupo  
 jus : suko  
-
-##k
-
+juxa :   
+juxe :   
+##k  
 ka : kiel (ol)  
-kadi : juĝo  
-kadi guru : juĝisto  
-kafe : kafo  
-kafe kan : kafejo  
-kafe kopa : kaftaso  
-kafe rang : bruna  
-kaka : feko  
-kaki : persimono  
+kabaw :   
+kabin :   
+kaca : kapti  
+kadomium : kadmio  
+kafas :   
+kafi : bruna  
+kafé kan : kafejo  
+kafé kupe : kaftaso  
+kafé : kafo  
+kaka :   
+kakaw : kakao  
+kake : feko  
+kal :   
 kalam : plumo  
-kama : deziro  
+kalifornium : kaliforniumo  
+kalium : kalio  
+kalsium : kalcio  
+kam : deziro  
+kamar tal :   
 kamar : ĉambro  
 kambudia : Kamboĝo  
 kamera : fotilo  
-kamiza : ĉemizo  
+kamerun :   
+kamis : ĉemizo  
+kamote : batato  
+kampe :   
+kamper :   
+kan :   
+kanadia :   
 kanal : kanalo  
-kandi : bombono  
+kande : bombono  
 kanguru : kangaro  
+kannadi :   
 kanon : kanono  
+kanoner : kanonisto  
 kanun : lego  
-kapa : kovrilo  
-kar : fari  
-kar : laboro  
+kanú : kanuo (kanoto)  
+kapa :   
+kapitan :   
+kapula :   
+kaputi : nefunkcia  
+kar : aŭto (ĉaro)  
+karaoke :   
 karate : karateo  
-karibu : boaco  
-karota : karoto  
-karta : karto  
+karbon :   
+karbon : karbono  
+karen : kialo  
+karena : ĉar (pro ke)  
+karenu :   
+karibú : boaco  
+karite :   
+karot : karoto  
+karte : karto  
+karí :   
+kastan : kaŝtano  
 kata : tranĉi  
 katalunya : Katalunio  
-kaucu : laktosuko  
-kawai : ĉarma  
+kataria :   
+kaway : ĉarma  
+kax :   
+kaxer :   
+kay : malferma  
+kaya : malfermi  
+kayu : malfermiĝi  
+kazahia :   
+kaze :   
 ke : kio?  
-ke yang : kiel?  
-keki : kuko  
+kecape : keĉupo  
+keci :   
+keke : kuko  
+kel : sporto  
+kelele :   
+keler :   
+kemia :   
 ken : povi  
 kenar : rando (orlo)  
-ki : vivforto  
-kia : demando  
-kiguai : stranga  
-kila : kojno  
+kene :   
+kenia :   
+kerube :   
+ketel :   
+keyman nesia :   
+ki ren : kiu?  
+ki xey : kio?  
+ki yang : kiel?  
+ki zaman : kiam?  
+ki :   
+kil : kojno  
+kilo gram :   
 kilo : mil  
-kisa : rakonto  
-kitaba : skribo  
-kitaba kan : librejo  
-kitaba maxin : tajpilo  
+kimi :   
+kimia :   
+kina :   
+kine :   
+kini :   
+kinsasa kongo :   
+kioske :   
+kipris :   
+kirate :   
+kire :   
+kirgizia :   
+kiribatia :   
+kirili abace :   
+kirisa :   
+kisme :   
+kitaba :   
+kitabe kan : librejo  
+kitabe maxin : tajpilo  
+kitabe : skribo  
 kiwi : kivo  
+klar :   
+klas :   
+klasa :   
+klon : klono  
+klona : kloni  
+klor : kloro  
 klube : klubo  
+kobalte : kobalto  
+koda :   
 kode : kodo  
-kolombia : Kolombio  
-kompani : kompanio (firmao)  
+koke : koko  
+kokos nesia :   
+kokos : kokoso  
+koká :   
+kola :   
+kolera :   
+kolombia :   
+kolonia :   
+kolum : kolono  
+komal : mola  
+komoro nesia :   
+kompania : kompanio (firmao)  
+komputa :   
+komputer : komputero  
 komun : komuna  
-kona : angulo  
-kongo : Kongo  
-koni : strobilo  
-kopa : taso  
-kopi : kopio  
-korno : korno  
+komunisme : komunismo  
+komuniste : komunisto  
+komá :   
+kon : angulo  
+koncung :   
+kong :   
+konkani :   
+konsel :   
+konsida : rigardi ia  
+konson :   
+kontinu :   
+kontra : kontraŭ  
+konus :   
+kopa :   
+kope : kopio  
+kopernikium : kopernicio  
+kor :   
+korne : korno  
+koron xefe :   
 koron : krono  
-kosta : bordo  
-krati : regi  
-krema : kremo  
-krime : krimo  
-kriste : kristo  
+korta : mallongigi  
+korti : mallonga  
+kos :   
+kosmos :   
+kosta rika :   
+kosta :   
+koste :   
+kote : palto  
+koy ren : iu persono  
+koy xey : io  
+koy zaman : iam  
+koy : iu  
+kratia : regi  
+krem : kremo  
+krim : krimo  
+krimi : krima  
 kriste jen : kristnasko  
-krizi : krizo  
+kriste : kristo  
+kristi :   
+kristia :   
+kristisme :   
+krita :   
+kriton : kriptono  
+kriz : krizo  
+krizi :   
+krom : kromo  
+krote :   
+krus :   
+kuan :   
+kuang suy :   
+kuang :   
 kube : kubo  
-kuki : biskvito (kuketo)  
-kurba : kurbo  
+kubá :   
+kuka :   
+kuke kamar :   
+kuke nesia :   
+kuker :   
+kul : bonega (mojosa)  
+kultur : kulturo  
+kupe : taso  
+kuper :   
+kuper : kupro  
+kupon :   
+kura :   
+kuran :   
+kurbe : kurbo  
+kurbi :   
+kurium : kuriumo  
 kurse : seĝo  
-kutu : pediko  
-
-##l
-
-labi : lipo  
-lai : veni  
-lai salam : bonvenon!  
-laji : rubo  
+kusen :   
+kuwaitia :   
+##l  
+laba :   
+labia : lipo  
+lada :   
+laje : rubo  
+lake :   
 lala : kuŝi  
+lampe : lampo  
+lanca :   
+lanká :   
+lanten : lanterno  
+larwa :   
+lasti :   
+lasun :   
+latif :   
+latini abace :   
 latvia : Latvio  
-lelek : cikonio  
+laurensium : laŭrencio  
+laxa :   
+laya : veni  
+le : tio  
+lekse : vorto  
+leksem :   
 leng : malvarma  
-leter : letero  
+lenxa :   
+lete : somero  
+letis :   
+letre : letero  
+li : tiu  
+liba :   
+libel :   
+liberia :   
+libi :   
+libia :   
+libnun :   
+libu :   
+lice :   
+lida :   
+lider :   
 liga : aligi  
+lige :   
+lil nyame :   
+lil : malgranda  
+lilak :   
+lilya :   
 lim : kvin (5)  
+limfe :   
+limite :   
 limun : citrono  
-linya : lineo  
-lista : listo  
-loga : vorto  
-loga lista : vortaro  
-loji : scienco  
-loka : loko  
+linye : lineo  
+lis :   
+liste : listo  
+litium : litio  
+litre :   
+lixtenxtayn :   
+lixú :   
+lobak :   
+loga : paroli  
+loge liste : vortaro  
+loge : parolo (vortoj)  
+logike : logiko  
+loja :   
+lojia : scienco  
+loke : loko  
+loki : loka  
+lon :   
+lona :   
 long : longa  
-luna : luno  
-
-##m
-
-ma : patrino  
-mali : Malio  
+longa :   
+longe :   
+lose :   
+lote :   
+lowa sang : sangi  
+lowa : liki  
+luksemburgia :   
+lun : luno  
+lusun :   
+luta :   
+lutetium : lutecio  
+luza :   
+luzer :   
+##m  
+maca :   
+mace :   
+madagasi :   
+madagasia :   
+made :   
+madi :   
+madyar :   
+mafan :   
+mafana :   
+mager :   
+magi :   
+magia : magio  
+magnes : magnezio  
+magnete :   
+magneti :   
+magribia :   
+maidan :   
+mais :   
+maitnerium : mejtnerio  
+majú :   
+makale :   
+makan :   
+makas : tondilo  
+makaw :   
+makedonia :   
+mal rupi : malbonaspekta  
+mal zar :   
+mal : malbona  
+malaisia :   
+malaria :   
+malawia :   
+malayali :   
+malia : Malio  
+malike : jasmeno  
+malte :   
+malvina nesia :   
+mam :   
+mamal :   
+mamá : patrino  
+man ban :   
+man rajer :   
 man : viro  
-mani : signifo  
+manga :   
+mangan : mangano  
+mango :   
+mangus :   
+manin :   
+manioka :   
+manse : viando  
+mante :   
+manus : homo  
+manusia : homaro  
+mar : fojo  
+mara : edzigi  
+marati :   
 maraton : maratono  
-marca : marŝi  
+marca : promeni (marŝi)  
 margarin : margarino  
-masa : maso  
-maska : masko  
-mate : matematiko  
-mau : kato  
-max : pli  
+mari :   
+maria : geedzeco  
+marian nesia :   
+marka :   
+marke :   
+marmar :   
+marse :   
+mas : maso  
+masaja :   
+masaje :   
+masal : spico  
+maske : masko  
+masle :   
+matike : matematiko  
+matiker : matematikisto  
+matras :   
+matur fem : virino  
+matur man : viro  
+matur : matura (plenkreska)  
+maw : kato  
 max ka bas : tro  
+max : pli  
+maxi :   
 maxim : plej  
+maximi :   
 maxin : maŝino  
-maya : majao  
-maza : amuzo  
-mede : helpo  
+maxor :   
+maxoria :   
+maya :   
+mayote :   
+mayu :   
+mayá : majao  
+maza : amuzi  
+maze : amuzo  
+mazi : amuza  
+medal :   
 medi : mezo  
+media :   
+medika : sanigi (kuraci)  
+mediker : kuracisto  
+medikia :   
+medita :   
 medu : mielo  
 mega : miliono  
-mehiko : Meksiko  
-melodi : melodio  
+megam :   
+melodi :   
+melodia : melodio  
+memba : partopreni  
+member :   
 meme : ŝafo  
+memor :   
+memora :   
+mena :   
+mene : signifo  
+mes 1 (mes un) :   
+mes 10 (mes des) :   
+mes 11 (mes des un) :   
+mes 12 (mes des do) :   
+mes 2 (mes do) :   
+mes 3 (mes sam) :   
+mes 4 (mes car) :   
+mes 5 (mes lim) :   
+mes 6 (mes sis) :   
+mes 7 (mes set) :   
+mes 8 (mes bat) :   
+mes 9 (mes noy) :   
 mes : monato  
-mesi : mesio  
 metal : metalo  
 metode : metodo  
-meza : tablo  
+metre :   
+metre : mezuro  
+mexiko : Meksikio  
+mey ren :   
+mey xey :   
+mey zaman : ĉiam  
+mey : ĉiu(j)  
+meze : tablo  
+mi da : mia  
 mi : mi  
-mi di : mia  
+micin :   
 mien : nudelo  
 migan : mandarino  
 mikro : mikro-  
+mikronesia :   
 mili : mili-  
 milke : lakto  
 mimen : ni  
-min : malpli  
 min ka bas : maltro  
-minara : turo  
-ming : sekvanta  
-ming den : morgaŭ  
-ming ming den : postmorgaŭ  
-ming nen : venonta jaro  
+min : malpli  
+minare : turo  
+ming :   
 mini : eta  
 minim : malplej  
+minimalisme :   
+minimi :   
+minister : ministro  
+ministeria :   
+minor :   
+minoria :   
 minus : escepte  
 minut : minuto  
-mira : spegulo  
+mira : speguli  
+mirer : spegulo  
 misal : ekzemplo  
 miskin : mizera  
-misri : Egipto  
-moda : fasono  
-moli : jasmeno  
-mongol : Mongola  
-mono : ununura  
-mono krati : monarkio  
+misri : egipta  
+misria : Egipto  
+mita :   
+mite :   
+mixa : miksi  
+mixer : miksilo  
+mode : fasono  
+model :   
+moge : inko  
+mola :   
+moldovia :   
+moler :   
+molidenum : molibdeno  
+mon : nur  
+monako :   
+mongol : mongola  
+mongolia : Mongolio  
+monisme : monismo  
+monster : monstro  
+moral :   
+morfe :   
+morfem :   
+moris :   
+morta : mortigi  
+morte : morto  
+morter : mortigisto  
+morti : morta  
+mortu :   
+mos :   
 mosim : sezono  
-motor : motoro  
-muka : vizaĝo  
-mula : komenco  
+moskite :   
+moskovium : moskovio  
+moter : motoro  
+mozambike :   
+mudan :   
+muhim :   
+muke : vizaĝo  
+mul : komenco  
+mula :   
+muli :   
+mum :   
 mumia : mumio  
+mumu manse : bovaĵo  
 mumu : bovo  
-mumu nyam : bovaĵo  
 mun : pordo  
-musika : muziko  
-musika fan : muzikfano  
+mungus :   
+munkin :   
+mur :   
+muritania :   
+musa : devigi  
+muse : devo  
+musika :   
+musike : muziko  
+musiker : muzikisto  
+muskete : muskedo  
+musketer :   
 muskul : muskolo  
-mustar : sinapo  
-mutu : reciproke (unu la alian)  
-
-##n
-
-naba : umbiliko  
-nabi : profetaĵo  
+muta : aliigi  
+mux : muso  
+muxing :   
+##n  
+na :   
+nabe : profetaĵo  
+nade : rivero  
 nafas : spiro  
-naija : Niĝerio  
+nahun :   
 nam : nomo  
-nama : viando  
-nawa : naūatloj  
-nawa baxa : naūatla lingvo  
+nama :   
+namibia : Namibio  
+namu :   
+nan : pano  
+nanas : ananaso  
+nano :   
+narake :   
+nas :   
+nasi :   
+nasia :   
+nasial :   
+nasialisme :   
+natre : natrio  
+nauru :   
+nawati : naūatla  
+nawatli :   
+nayjiria : Niĝerio  
+nederlandi antilia :   
+nederlandia :   
+nen feste :   
 nen : jaro  
+nenufar :   
+neon : neono  
 nepal : Nepalo  
 neptun : Neptuno  
-net : reto  
-nide : bezono  
+neptunium : neptunio  
+nes :   
+nesia :   
+nete : reto  
+nica :   
+nice :   
+nici :   
+nida : bezoni  
+nidi :   
 nijer : Niĝero  
 nik : entuziasmulo  
 nikaragua : Nikaragvo  
+nikel : nikelo  
+nil : blua  
 nilon : nilono  
+ninde : insulto  
+nindi :   
+niobium : niobo  
 nipon : Japanio  
+niponium : nihonio  
+nitre : nitrogeno  
+niwe :   
+nixe :   
 no : ne  
+nobelium : nobelio  
 noce : nokto  
 node : nodo  
-norge : Norvegio  
+nonga :   
+nonger :   
+norde :   
+nordi :   
+norfolke :   
+norgi : norvega  
+norgia : Norvegio  
+norme :   
+normi :   
+nos :   
 nota : rimarki  
-nota buku : kajero  
+note buke : kajero  
+note :   
+notis :   
+notisa :   
+nowa :   
+nowi kaledonia :   
+nowi zilandia :   
+nowi : nova  
+noy :   
+nudi :   
+nudisme :   
+nul ren :   
+nul xey :   
+nul :   
+numer un :   
 numer : nombro  
+nun :   
+nur : lumo  
+nuri : luma  
 nuton : newtono (N)  
 nyam kamar : manĝoĉambro  
-
-##o
-
+nyam :   
+nyama : manĝi (trinki)  
+nyami :   
+##o  
 o : ho!  
-oke : akceptebla (okej)  
-oma : avino  
-opa : avo  
-owo : ovo  
-
-##p
-
-pa : patro  
-pai : kukaĵo  
+odisi :   
+ofis :   
+ofiser :   
+ofisia :   
+oganeson : oganesono  
+okey : akceptebla (okej)  
+okeya :   
+okse : oksigeno  
+olandia :   
+oman :   
+omá : avino  
+onor : honoro (respekto)  
+onori : respektinda  
+opá : avo  
+orda : ordoni  
+orde : ordono  
+orgazme :   
+oromi :   
+oromia :   
+oseania : Oceanio  
+oskur :   
+osmium : osmio  
+oste : osto  
+osteria :   
+oton : aŭtuno  
+##p  
+pada :   
+padu :   
+pagre :   
+paka :   
 pake : pako  
-pala : frukto (rezulto)  
+pakistan :   
+pakse : birdo  
+pal : frukto (rezulto)  
+paladium : paladio  
+palaw :   
 palma : palmo  
-pan : pano  
-panama : Panamo  
+pamá : gepatro(j)  
+pan : ĉiu  
+panafriki :   
+panameriki :   
+panamia : Panamo  
+panasi :   
 panda : pando  
 pandunia : pandunia  
-pang : dika  
-panik : paniko  
+pandunia  esperanti  
+paneuropi :   
+panike : paniko  
+panjabi :   
 pantalon : pantalonoj  
-panyo : amiko  
 papaya : papajo  
 paper : papero  
-parda : kurteno  
-parti : festo  
-pata : pado  
-penguin : pingveno  
+papua nowi ginia :   
+papá : patro  
+par :   
+paraguay :   
+parde : kurteno  
+pardon :   
+pas :   
+pasa :   
+pase :   
+paskal :   
+paste :   
+patate : terpomo  
+paunde :   
+paus :   
+pausa :   
+paxa :   
+paxi :   
+paxia :   
+paxu :   
+pay : kukaĵo  
+pede : piedo  
+pelmen :   
+penda :   
 penis : peniso  
-pensa : pensa  
+penta : pentri  
+penter :   
+pepin : kukumo  
+per :   
+perda :   
+perde :   
+peri :   
+permis :   
+permisa :   
+perú :   
+pese : mono  
+pexe : metiero  
+pey :   
+peya :   
 piano : piano  
-pifu : haŭto  
+pifú : haŭto  
+pigú :   
 pijin : piĝino  
-pilipin : Filipinoj  
+piknike :   
+piloter :   
+pimente : pipro  
 pin : nadlo (pinglo)  
-pingo : pomo  
-piper : pipro  
+ping :   
+pinguin : pingveno  
+pinse :   
+pipe :   
+piping :   
+pipinga :   
+pipinger :   
+piram : piramido  
+pirater :   
+pistol :   
+pitkerne :   
 pixa : piso (urino)  
+pize : pico  
+pizeria : picejo  
+plan :   
+plana :   
+planete :   
+plante : planto  
+plastike :   
+plate :   
+platin : plateno  
+platon :   
+platoni :   
+platonisme :   
+plumbe : plumbo  
 plus : ankaŭ  
-ponte : ponto  
-posta kan : poŝtejo  
-poto : koto  
+pluto :   
+plutonium : plutonio  
+poker :   
+polaw :   
+poli :   
+polis :   
+poliser :   
+politike : politiko  
+politiker : politikisto  
+polon : polonio  
+polski :   
+polskia :   
+pompa :   
+ponta : montri  
+ponter :   
+porne grafia :   
+porne :   
+porta :   
+portugal :   
+pospor : fosforo  
+posta :   
+poste cap :   
+poste kan : poŝtejo  
+poste :   
+pote : poto  
+potó : koto  
+poza :   
+poze :   
+praman :   
+pramana :   
+prate :   
+prati :   
+preda : antaŭiri  
+presis :   
+prizon :   
+prizona : malliberigi  
+prizoner :   
+prizonia : malliberejo  
+proba :   
 problem : problemo  
-putau : vinbero  
-putong : universala  
+profesor : profesoro  
+program : programo  
+programer :   
+proje :   
+prometium : prometio  
+proses :   
+protacinium : protaktinio  
+puder :   
+puding :   
+puerto riko :   
+puja :   
+puje :   
+pul waze : vazo (florpoto)  
+pul : floro  
+pula :   
+pulmon : pulmo  
+punte : punkto  
+pupe :   
+puran : malnova  
+puru : plumo  
+putaw : vinbero  
 putong han : mandarinĉina  
+putong : universala  
+puxa :   
+##r  
+rade : vico  
 radio : radio  
-
-##r
-
+radium : radiumo  
+radon : radono  
+rajer : reĝo aŭ reĝino  
+raji :   
+rajia :   
+ramazan :   
+randa :   
 rang : koloro  
+rapid :   
+rase :   
+rasisme :   
+rasme :   
+rasmi :   
+raste :   
+rastu : kreski  
+ratiba :   
+ratibe :   
+razon :   
+razoni :   
+rebel :   
+reda :   
 redi : preta  
 ren : persono  
+rengenium : rentgenio  
+renium : renio  
+repa : ripeti (refari)  
+repe :   
+reporta :   
+reporte :   
+reset :   
+resid :   
+resta :   
+reste :   
 restoran : restaŭracio  
-risko : risko  
+restu :   
+retra :   
+reunion :   
+rezin :   
+rezulte :   
+rici :   
+ris :   
+riske : risko  
+riski :   
+rite :   
+ritme :   
+robote : roboto  
+rodium : rodio  
+rokete :   
+rol :   
+rola : ludi rolon  
+roler : aktoro (aktorino)  
+rom :   
+roma empiria :   
+roma :   
+romania :   
+romansa :   
+romanse :   
+romansi :   
+rona :   
+rong :   
 rose : roso  
-roza : rozo  
-ruhu : animo  
-rupa : aspekto  
-rus : rusa  
+rote :   
+rotor :   
+roze : rozo  
+rozi :   
+rubidium : rubidio  
+ruhe : animo  
+ruk sak :   
+ruk :   
+rula :   
+rundi :   
+rupe : aspekto  
+rusi :   
+rusia :   
+rutenium : rutenio  
+ruterfordium : ruterfordio  
 rutin : rutino (kutimo)  
-
-##s
-
+rwanda :   
+##s  
+sabate :   
 sabun : sapo  
+sabze : legomo  
+sadi :   
+safa : purigi  
 safar : vojaĝo  
+safara : vojaĝi  
+safarer : vojaĝanto  
+safer : purigisto  
 safi : pura  
-saga : rakonto  
-sal : sal!  
-salam : saluto  
-sam : sama  
-sam gojia ren : samlandano  
-sama : ĉielo  
-san : tri (3)  
+saga : rakonti  
+sage : rakonto  
+saha : pravigi  
+sahi : ĝusta (prava)  
+sak :   
+sal : salo  
+salade :   
+salam cute : bonan vojaĝon  
+salam den : Bonan tagon  
+salam laye : bonvenon!  
+salam nyam : bonan apetiton!  
+salam subá : Bonan matenon!  
+salam xam : Bonan vesperon  
+salam : bona (en salutoj)  
+salama :   
+salame : saluto  
+salima :   
+salone :   
+salta :   
+salvador :   
+sam : tri (3)  
+saman : ĉielo  
+samani :   
+samarium : samario  
+samoa :   
 sana : produkti (fabriki)  
-sana baxa : artefarita lingvo  
-sana kan : fabriko  
 sande : sablo  
-sande stan : dezerto  
-sanduk : skatolo (kesto)  
+sanduke : skatolo (kesto)  
 sang : sango  
-sant : sankta  
-sapato : ŝuo  
+sani bax : artefarita lingvo  
+sani :   
+sania :   
+santi helena :   
+santi lusia :   
+santi tome i prinsipe :   
+santi : sankta  
+sapate : ŝuo  
+sapater : ŝuisto  
+sapateria : ŝuistejo  
+sar oste :   
+sar :   
+saudar : frato aŭ fratino  
+saudi arabia :   
 sauna : saŭno  
 se : si  
+seaborgium : seborgio  
+sekreter :   
+sekreteria :   
+seksa :   
 sekse : sekso  
-senti : senti  
+seksi :   
+sekun :   
+sekur :   
+sel :   
+selen :   
+selen : seleno  
+sem dexi : samlandano  
+sem jinse kami : samseksema  
+sem : sama  
+semente :   
+semu :   
+sen :   
+senegal :   
+sense :   
+senta : senti  
 serbia : Serbio  
+serca :   
+serebre : cerbo  
 seres : Cereso  
-seri : serio  
 serpe : serpento  
-serte : certa  
-si : jes  
-side : sidi  
-singa : leono  
+serye : serio  
+sesam :   
+set war : semajno  
+set : sep (7)  
+sexel nesia :   
+si : jes (esti)  
+sibir :   
+sida : sidi  
+sife :   
+sigar :   
+silike : silicio  
+silsil :   
+simpli : simpla  
+sine kase : torako  
+sine : brusto  
+sing : leono  
 singapur : Singapuro  
-sismo : tertremo  
-sismo loji : sismologio  
+sinye :   
+sir :   
+sirka : ĉirkaŭ  
+sirke :   
+sirki :   
+sis :   
+sisme lojia : sismologio  
+sisme : tertremo  
 sistem : sistemo  
-siti : urbo  
+sistemi :   
+site : urbo  
+skandium : skandio  
+slowakia :   
+slowenia :   
+so : tiel  
+socia :   
+social :   
+socialisme :   
 sofa : sofo  
-sofi : saga  
-solo : nur  
-sona : dormo  
-sona kamar : dormoĉambro  
+sofi :   
+sofia : saga  
+soke : ŝtrumpo  
+sol sistem : sunsistemo  
+sol : suno  
+solomon nesia :   
+somalia :   
+son kamar : dormoĉambro  
+son : dormo  
+sona :   
+sonda :   
+sonde : sono  
 song : pino  
-soni : sono  
-sose : saŭco  
+sos : saŭco  
 sosis : kolbaso  
-stan : regiono  
-su : propra (partiklo de posedo)  
+soto :   
+stadia : stadiono (areno)  
+stan : ŝtato  
+stasi :   
+stasia : stacio  
+state : stato  
+stope :   
+strontium : stroncio  
 suan : acida  
-suba : mateno  
-suba salam : Bonan matenon!  
-suka : ŝati  
+subá den :   
+subá nyam :   
+subá : mateno  
+sudafrike :   
+sudan :   
+sude : sudo  
+sudi jorjia i sudi sanwice nesia :   
+sudi sudan :   
+suhi :   
+suka :   
 sukar : sukero  
-suma : sumo  
+sukari :   
+suki :   
+suku : ŝati  
+sulfe : sulfuro  
+sultan :   
+sultana :   
+sultaner :   
+sum : sumo  
+suma :   
+sun :   
 sundar : bela  
-suomi : Finnlando  
-supa : supo  
+suomi : finna  
+suomia : Finnlando  
+supe : supo  
 super : bonega  
-sura : bildo  
-surya : suno  
-suxi : suŝio  
+supra : superiri  
+supre :   
+supri :   
+supris : surprizo  
+suria :   
+surinam bax :   
+surinam :   
+suxí : suŝio  
+suy rang :   
+suy : akvo  
 swahili : sŭahili  
-
-##t
-
-tabako : tabako  
+swazia :   
+swede :   
+swedi :   
+swenia :   
+swisia :   
+##t  
+tabake : tabako  
+tabar :   
+tabel :   
 tabia : naturo  
-taiga : tajgo  
-tanur : forno  
+tabial :   
+taibei :   
+taiwan :   
+tajikia :   
+takse :   
+taksi :   
+tal :   
+talium : talio  
+tamar :   
+tambur : tamburo  
+tamili :   
+tan :   
+tanah :   
+tani :   
+tanke :   
+tantalum : tantalo  
 tanzania : Tanzanio  
-tara : stelo  
-tara loji : astronomio  
-taula : viŝilo  
+tape :   
+tarif :   
+tarjum : traduko  
+tarjuma : traduki  
+tarjumer : tradukisto  
+tatike :   
+tatu :   
 tawa : pato  
-taze : freŝa  
-tekni : tekniko  
-tekni loji : teknologio  
-tele : malproksima  
+tayga : tajgo  
+tazi : freŝa  
+tekne lojia : teknologio  
+tekne : tekniko  
+teknetium : teknecio  
+tel : malproksima  
 tele fon : telefono  
 tele wide : televidilo  
-tema : temo  
+tele : malproksimeco  
+telugú :   
+telurium : teluro  
+tem : temo  
+tema :   
+tena : teni  
+tende : tendo  
+tenesin : teneso  
 tenis : teniso  
-teori : teorio  
-tepu : bendo  
+tenki : vetero  
+tenta :   
+teoria : teorio  
+tepe : bendo  
+terbium : terbio  
+teror :   
+terorisme :   
 teste : testo  
-tocu : tuŝi  
-togo : Togo  
+teyan :   
+teyana :   
+teza :   
+teze :   
+ticin :   
+tika :   
+tike masal :   
+tike :   
+tikete :   
+tim :   
+tin :   
+tira milke : melki  
+tira : tiri  
+tiran :   
+tirania :   
+titan : titanio  
+to : al (ĝis, por)  
+toca : tuŝi  
+tofú :   
+togó : Toglando  
+tolera :   
+tolo :   
 tomate : tomato  
-ton : tuno  
-tone : tono  
-topi : ĉapelo  
+ton : tono  
+tong :   
+tope : ĉapelo  
+torace :   
+torium : torio  
+torse : torso  
+tortuge :   
+total :   
+toti :   
+towal : viŝilo  
+trans :   
+transa :   
+tren daw : fervojo  
 tren : trajno (vagonaro)  
-tren dau : fervojo  
+tribe : tribo  
+trinida i tobago :   
+tswana :   
 tu : vi (ci)  
-tuba : briko  
-tubu : tubo  
-tufan : ŝtormo  
+tuale :   
+tube : tubo  
+tufon : ŝtormo  
+tuka : sputi  
 tul : ilo  
+tulium : tulio  
+tulpan :   
 tumen : vi ĉiu  
-tundra : tundro  
-tunel : tunelo  
+tundar : tundro  
 tunel tren : metroo  
-tunis : Tunizio  
-turki : turka  
-
-##u
-
+tunel : tunelo  
+tung :   
+tunike : robo  
+tunisia :   
+tur :   
+turisme :   
+turiste :   
+turki :   
+turkia : Turkio  
+turkmenia :   
+tuvalú :   
+tuze :   
+##u  
 u : aŭ  
+ukraina :   
+ulul :   
+ulula :   
 uma : ĉevalo  
+umur :   
 un : unu  
+una :   
+uni stan du amerike :   
+uni :   
 unia : uniono  
-urdun : Jordanio  
-uruguai : Urugvajo  
-uze : uzi  
-
-##w
-
-wa : ŭaŭ!  
+ura :   
+uran :   
+uranium : uranio  
+urdun :   
+urdú :   
+urse : urso  
+uruguay :   
+usamerike :   
+usameriki samoa :   
+usameriki virjin nesia :   
+uza : uzi  
+uzbekia :   
+uzer :   
+##v  
+vanuatu :   
+vatikan :   
+venesuela :   
+vietnam :   
+vinsi i grenadin :   
+vodu :   
+volta :   
+##w  
 wada : promesi  
-wadi : valo  
-waha : oazo  
-wai : ekstero  
-wai gojia : fremda lando  
-wakat : momento  
-walse : valco  
-wat : vato  
-waxi : lavi  
-waxi maxin : lavmaŝino  
-wazir : ministro  
-weba : vosto  
-wi : eta  
-wide : vidi (rigardi)  
-wizel : mustelo (vizelo)  
-
-##x
-
+waf :   
+wakila :   
+waksin :   
+walis i futuna nesia :   
+wan :   
+wang :   
+wanila :   
+war 1 (war un) :   
+war 2 (war du) :   
+war 3 (war sam) :   
+war 4 (war car) :   
+war 5 (war lim) :   
+war 6 (war sis) :   
+war 7 (war set) :   
+war :   
+waris :   
+wase : oazo  
+wate : vato  
+waw : ŭaŭ!  
+wax-maxin : lavmaŝino  
+waxa : lavi  
+way dexi :   
+way dexia : fremda lando  
+way : ekstero  
+waze : vazo  
+weka :   
+weki :   
+wen :   
+werka :   
+werke : laboro  
+werker :   
+werme :   
+weste :   
+westi :   
+wida : vidi (rigardi)  
+wide maidan :   
+wide :   
+widu :   
+wiki :   
+wil : estonte  
+wildi :   
+wile : estonoteco  
+wiman :   
+win : vino  
+wing :   
+winil :   
+wirus lojia :   
+wirus :   
+wizit :   
+wol :   
+##x  
+xakal :   
+xake : branĉo  
 xal : koltuko  
-xam : vespero  
+xalé :   
 xam den : posttagmeze  
 xam nyam : vespermanĝo  
-xam salam : Bonan vesperon  
+xam : vespero  
 xaman : ŝamano  
-xampu : ŝampuo  
+xampú : ŝampuo  
 xan : monto  
 xanti : trankvila  
-xarif : respektinda  
+xari : justa  
+xaria : justeco  
 xarnir : ĉarniro (pivoto)  
-xarti : kondiĉo (postulo)  
+xarta :   
+xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  
-xatur : ŝako  
-xau : malmulte  
+xatani :   
+xaxu :   
 xefe : estro (ĉefulo)  
-xefe wazir : ĉefministro  
-xia : sub  
-xifu : majstro  
-xigo : akcidento  
+xefi minister : ĉefministro  
+xefi :   
+xenon : ksenono  
+xey :   
+xiki :   
 xim : koro  
+xin : kredo  
+xina : kreda  
+xing : stelo  
 xir : poemo  
-xirop : siropo  
-xou : montri (ekspozicii)  
+xirer :   
+xirope : siropo  
+xite : vintro  
+xix :   
+xixi : silenta  
+xoke :   
+xow : montri (ekspozicii)  
+xowa :   
 xu : arbo  
-xuli : ripari  
-
-##y
-
+xudu : devus  
+xula : ripari  
+xule :   
+xuler : riparisto  
+##y  
+yaga :   
+yagi :   
+yake :   
+yakin : certa  
 yala : rapidigi  
 yaman : Jemeno  
 yang : speco (tipo, stilo)  
 yani : tio estas (alivorte)  
+yasen :   
+yatim kan :   
+yatim :   
 ye : li aŭ ŝi aŭ ĝi  
+yehudi :   
 yemen : ili  
+yen suy :   
 yen : okulo  
-yer : antaŭa (lasta, pasinta)  
-yer den : hieraū  
-yer nen : pasintjare  
-yer yer den : antaŭhieraŭ  
 yesu : Jesuo  
-yo : iu  
-yo ren : iu persono  
-yo xe : io  
-yoga : jogo  
-yoni : vagino  
-yureka : trovi  
-
-##z
-
+yode :   
+yoga :   
+yoge : jogo  
+yohan feste :   
+yone : vagino  
+yosay :   
+yote :   
+yumor :   
+yumori :   
+yungam :   
+yuterbium : iterbio  
+yutrium : itrio  
+##z  
 zafran : safrano  
-zai : ĉeestanta (nuna, ekzistanta)  
-zai den : hodiaŭ  
 zaitun : olivo  
-zaman : periodo (epoko)  
+zalim :   
+zaman :   
 zambia : Zambio  
+zar : hazardo  
 zardux : Zoroastro  
-zardux din : zoroastrismo  
+zarduxisme : zoroastrismo  
+zari : hazarda  
+zay den : hodiaŭ  
+zay : ĉeestanta (nuna, ekzistanta)  
+zaye :   
 ze : de (el, pro)  
-zebra : zebro  
-zimbabwe : Zimbabvo  
-zina : malfideleco  
-zira : kumino  
+zebre : zebro  
+zem dow :   
+zem :   
+zemia :   
+ziba :   
+zibula :   
+zigzage :   
+zimbabwe :   
+zine : malfideleco  
+zinke : zinko  
+zipa :   
+ziper :   
+zirkonium : zirkonio  
+zirá : kumino  
+ziza :   
+zombe :   
 zon : zono  
+zukam :   
 zulu : zuluo  
-
+zumrude :   

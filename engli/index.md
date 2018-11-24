@@ -26,8 +26,8 @@ Note: Pandunia is a constructed language that is under construction. The structu
 - [Grammar](kanun.md)
 
 - [Searchable dictionary](tiddly.html)
-- [English-Pandunia](english-pandunia.md) dictionary
-- [Pandunia-English](pandunia-english.md) dictionary
+- [English-Pandunia](engli-pandunia.md) dictionary
+- [Pandunia-English](pandunia-engli.md) dictionary
 - [Etymology list](../pandunia/loge_asle.md) (only in Pandunia)
 
 ## Uninflected dialect
