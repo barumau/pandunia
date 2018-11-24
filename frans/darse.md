@@ -431,25 +431,25 @@ Il y a également des expressions de temps spécifiques.
 > **zay** - actuellement, en ce moment
 > **hai** - toujours, en cours
 > **sun** - bientôt
-> **futur** - dans le futur
+> **wil** - dans le futur
 
-Les adjectifs pour le passé, le présent et le futur sont **pas, nun** and **futur**. Ils peuvent être utilisés pour modifier des noms.
+Les adjectifs pour le passé, le présent et le futur sont **pas, nun** and **wil**. Ils peuvent être utilisés pour modifier des noms.
 
 > **sara es mi da pas xefe.** = Sara est mon ex-patron.
 > **yusef es mi da nun xefe.** = Yusef est mon chef actuel.
-> **maria es mi da futur xefe.** = Maria est ma future patronne.
+> **maria es mi da wil xefe.** = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
 
 > **mi pas darba ye.** = Je l'ai frappé (dans le passé).
 > **mi zay darba ye.** = Je le frappe (actuellement).
-> **mi futur darba ye.** = Je le frapperai (dans le futur).
+> **mi wil darba ye.** = Je le frapperai (dans le futur).
 
 On peut également placé l'expression du temps en fin de phrase.
 
 > **mi darba ye pas.**
 > **mi darba ye zay.**
-> **mi darba ye futur.**
+> **mi darba ye wil.**
 
 Il n'est pas nécessaire d'utiliser les expressions de temps à chaque phrase, sauf si on parle à un autre temps au cours du récit.
 
@@ -465,7 +465,7 @@ Toute expression de temps convient pour exprimer un moment dans le temps. Lorsqu
 
 ### Liste de mots
 
-**pas** passé, ancien. **zay** present, en cours. **futur** futur. **darba** frapper, battre. **pan** pain. **suba kane** repas du matin, petit-déjeuner.
+**pas** passé, ancien. **zay** present, en cours. **wil** futur. **darba** frapper, battre. **pan** pain. **suba kane** repas du matin, petit-déjeuner.
 
 ### Exercices
 
@@ -480,7 +480,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 
 ### Réponses aux exercices
 
-1. mi da xefe festa na futur.
+1. mi da xefe festa na wile.
 2. mi ada do waf na pase.
 3. tu nyama supe nun.
 4. ye safa kamer na befo den.

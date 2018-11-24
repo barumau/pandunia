@@ -19,7 +19,7 @@ Perussäännöt
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
     - esim. **mi cing tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Puhutko sinä panduniaa?
+    - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Puhutko sinä panduniaa?
     - **mi cing tu loga ming.** →  **cing loga ming.** = Pyydän, puhu selvästi.
 
 
@@ -514,9 +514,9 @@ Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että v
 Edellisessä esimerkissä, lausekkeen **mi wol** objektina on **tu**. Samaan aikaan **tu** toimii subjektina lausekkeelle **nyama sabze**. Näin ollen **tu** on lauseen _sarana_.
 
 
-### 7.7. Verbisarja
+### 7.7. Verbiketju
  
-Verbisarjassa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja aina jälkimmäinen verbi on edellisen verbin kohteena.
+Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
 1. **mi enda dom.** - Minä menen kotiin.
 2. **mi ken enda dom.** - Minä voin mennä kotiin.
@@ -534,8 +534,8 @@ Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arva
 
 #### 7.8.1. Lyhyt saranarakenne (VOVO)
 
-**mi kia tu baxa pandunia.** - Minä kysyn, sinä puhutko panduniaa.  
-**kia tu baxa pandunia?** - Puhutko sinä panduniaa?
+**mi eska tu baxa pandunia.** - Minä kysyn, sinä puhutko panduniaa.  
+**eska tu baxa pandunia?** - Puhutko sinä panduniaa?
 
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
@@ -598,13 +598,13 @@ Sanaa **no** käytetään myös toisten sanojen kieltämiseen. Se vaikuttaa vain
 
 Partikkelit **si** ja **no** vastaavat myös kysymyksiin.
 
-**kia tu wida mi?** - Näetkö sinä minut?  
+**eska tu wida mi?** - Näetkö sinä minut?  
 **si. (mi si wida tu.)** - Kyllä. (Minä näen sinut.)  
 **no. (mi no wida tu.)** - En. (Minä en näe sinua.)
 
 Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **no** koskevat verbiä eivätkö koko kysymyslausetta.
 
-**kia tu no wida mi?** - Etkö sinä näe minua  
+**eska tu no wida mi?** - Etkö sinä näe minua  
 **si. (mi si wida tu.)** - Kyllä. (Minä kyllä näen sinut.)  
 **no. (mi no wida tu.)** - Ei. (Minä en näe sinua.)
 

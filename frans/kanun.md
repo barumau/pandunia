@@ -21,7 +21,7 @@ Cette grammaire traite du types des mots et des différentes façons d'ordonner 
 8. L'object d'un verbe transitif peut fonctionner comme le sujet du verbe suivant dans la phrase. Cette structure est appelé la _structure pivot_.
     - ex. **mi cing tu dar pesa.** = Je te demande de me donner de l'argent.
 9. Les pronoms peuvent être omis quand ils sont évidents et redondants.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Parles-tu Pandunia?
+    - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Parles-tu Pandunia?
     - **mi cing tu loga klar.** →  **cing loga klar.** = S'il te plait, parles plus clairement.
 
 

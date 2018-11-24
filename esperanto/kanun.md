@@ -11,7 +11,7 @@ Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca
 
 Substantivoj ne ŝanĝiĝas. Ili ne estas devigaj se evidentaj, sed forigi ilin ne estas rekomendate por komencantoj.
 
-> **mau** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
+> **maw** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
 
 #### 1.1 Precizigi gramatikan nombron
 
@@ -24,10 +24,10 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 #### 1.2 Precizigi definitecon
 
-La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
+La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _ci_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
 
 > liste - listo, la listo  
-> **sa** liste - la listo (= tiu listo)  
+> **ci** liste - la listo (= tiu listo)  
 
 #### 1.3 Kombinado
 
@@ -81,7 +81,7 @@ Ili funkcias kiel substantivoj.
 #### 2.2 Precizigi refleksivecon
 
 > ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
-> ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
+> ye toca **ci** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
 > ye toca **se** ye - Ĝi tuŝas **s**in (= Ĝi tuŝas propran ĝin) (Vidu _se_ kiel "own" aŭ "self" (angle), "propre" (france))  
 
 --------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ Ili funkcias kiel substantivoj.
 
 Ili ne ŝanĝiĝas. Antaŭ verbo aŭ je la fino de frazo, modifilo estas adverbo.
 
-> waf haba **fani** nam. - Hundoj havas **amuzan** nomon.  
+> waf ada **fani** nam. - Hundoj havas **amuzan** nomon.  
 > tu **sundar** sona. - Vi **bele** dormas.  
 > **bon** waf. - **Bona** hundo.  
 > tu baxa pandunia **bon**. - Vi parolas Pandunia **bone**.  
@@ -100,8 +100,8 @@ Ili ne ŝanĝiĝas. Antaŭ verbo aŭ je la fino de frazo, modifilo estas adverbo
 > fem si **sem** bon **ka** man - Ino estas _same_ bona _kiel_ iĉo.  
 > pandunia si **max** bon **ka** englix - Pandunia estas _pli_ bona _ol_ la Angla.  
 > munkin pandunia si **maxim** izi - Eble Pandunia estas _(la) plej_ facila.  
-> mi kar **min** multo **ka** mi loga - Mi faras _malpli_ multe _ol_ mi diras.  
-> mi kana alkol **minim** multo - Mi konsumas alkoholon _malplej_ multe.  
+> mi fata **min** multo **ka** mi loga - Mi faras _malpli_ multe _ol_ mi diras.  
+> mi nyama alkol **minim** multo - Mi konsumas alkoholon _malplej_ multe.  
 
 --------------------------------------------------------------------------------
 
@@ -109,13 +109,13 @@ Ili ne ŝanĝiĝas. Antaŭ verbo aŭ je la fino de frazo, modifilo estas adverbo
 
 Pandunia ne havas tabelvortojn, sed oni povas facile rekrei ilin (kaj pliajn) per libera kombinado de substantivo kun substantivo, aŭ per adjektivo kun substantivo.
 
-> **sa** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …  
+> **ci** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …  
 > **ke** - kio(n), kiu(j)(n), kiam, kia(j)(n), kiel, kiom, kial …  
 
 #### 4.1 Precizigi proksimecon lokan, tempan aŭ teman
-> sa - tio, ĉi tio  
-> **jin** sa - ĉi tio (= proksima tio)  
-> **far** sa - tio (= fora tio)  
+> ci - tio, ĉi tio  
+> **jin** ci - ĉi tio (= proksima tio)  
+> **far** ci - tio (= fora tio)  
 
 #### 4.2 Precizigi tipon
 > ke - kio, kiu, kia, kie, kiam, kial, kiel, kiom  
@@ -128,7 +128,7 @@ Pandunia ne havas tabelvortojn, sed oni povas facile rekrei ilin (kaj pliajn) pe
 > ke **metod** - kiu metodo (= kiel (ofte))  
 > ke **numer** - kiu nombro (= kiom)  
 
-> jin sa lok - ĉi tie
+> jin ci lok - ĉi tie
 
 Notu ke eblas krei ajnan korelativon tiel:
 
@@ -144,23 +144,23 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 #### 5.1 Demandoj
 
-La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "demandi") indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
+La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _eska_ (la verbo "demandi") indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
-> tumen kar **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
-> tu kana **ke apel**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
+> tumen fata **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
+> tu nyama **ke aple**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
 
-> (**kia**) waf kana mau? - (**Ĉu**) hundoj manĝas katojn?  
+> (**eska**) waf nyama maw? - (**Ĉu**) hundoj manĝas katojn?  
 
 #### 5.2 Respondoj
 
 > wang - flava
-> sa si wang - tio estas (la) flava  
-> sa apel si wang apel - tiu pomo estas (la) flava pomo  
+> ci si wang - tio estas (la) flava  
+> ci aple si wang aple - tiu pomo estas (la) flava pomo  
 
 > **si** - jes  
 > **no** - ne  
-> waf **si** kana mau - hundoj **ja** manĝas katojn  
-> waf **no** kana mau - hundoj **ne** manĝas katojn  
+> waf **si** nyama maw - hundoj **ja** manĝas katojn  
+> waf **no** nyama maw - hundoj **ne** manĝas katojn  
 
 _si_ estas aparta vorto. Ĝi funkcias kiel pozitiva adverbo antaŭ verbo, sed ankaŭ kiel la verbo "esti/ekzisti".
 
@@ -174,16 +174,16 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > mi **darsa** loge - Mi lernas vorton  
 > pando **suku** pandunia - Pandoj ŝatas Pandunia  
 
-> mi kana pan - Mi manĝas panon (= Mi konsumas panon)  
-> tu kana su - Vi trinkas akvon (= Vi konsumas akvon)  
-> ye kana alkol - Li drinkas akoholon (= Li konsumas alkoholon)   
+> mi nyama nan - Mi manĝas panon (= Mi konsumas panon)  
+> tu nyama suy - Vi trinkas akvon (= Vi konsumas akvon)  
+> ye nyama alkol - Li drinkas akoholon (= Li konsumas alkoholon)   
 
 #### 6.1 Precizigi tempon
 
 > loga - diris, diras, diros, ĵus diris, baldaŭ diros, …  
-> **gon** loga - diris (= **antaŭe** diris)  
-> **nun** loga - diras (= **nun** diras)  
-> **futur** loga - diros (= **poste** diros)  
+> **pas** loga - diris (= **antaŭe** diris)  
+> **zay** loga - diras (= **nun** diras)  
+> **wil** loga - diros (= **poste** diros)  
 > gang loga - ĵus diris  
 > sun loga - baldaŭ diros  
 
@@ -191,10 +191,10 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 > loga - diras, dirus, diru, …  
 > **munkin** loga - dirus (= **eble** diras)  
-> **mus** loga - diru (= **devas** diras)  
+> **bixu** loga - diru (= **devas** diras)  
 
-> mus - devas, devus, devu, …  
-> munkin gon mus -  eble devis, devintus (= estus devinta)  
+> bixu - devas, devus, devu, …  
+> munkin pas bixu -  eble devis, devintus (= estus devinta)  
 
 #### 6.3 "Aktiva kaj pasiva voĉo"
 
@@ -202,25 +202,25 @@ Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto esta
 
 > suka - plaĉi al  
 > suku - ŝatas  
-> doka - legi  
-> doku - esti legata de / legiĝi  
-> kana - konsumi  
-> kanu - esti konsumata de / konsumiĝi  
+> duga - legi  
+> dugu - esti legata de / legiĝi  
+> nyama - konsumi  
+> nyamu - esti konsumata de / konsumiĝi  
 
-> mi doka - mi legas  
-> mi doka buk - mi legas libron  
-> buk doku - libro estas legata (= libro legiĝas)  
-> buk doku mi - libro estas legata de mi  
+> mi duga - mi legas  
+> mi duga buke - mi legas libron  
+> buke dugu - libro estas legata (= libro legiĝas)  
+> buke dugu mi - libro estas legata de mi  
 
 Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Verbo-Objekto kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
-#### 6.4 Utila ekzemplo: haba kaj habu
+#### 6.4 Utila ekzemplo: ada kaj adu
 
-> haba - havi  
-> habu - esti havata de, de  
+> ada - havi  
+> adu - esti havata de, de  
 
-> mi haba mau - mi-a kato = mi havas katon  
-> mau habu mi - kato de mi = kato havata de mi  
+> mi ada maw - mi-a kato = mi havas katon  
+> maw adu mi - kato de mi = kato havata de mi  
 
 --------------------------------------------------------------------------------
 
@@ -228,30 +228,30 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Ver
 
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
-> mi **vola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
+> mi **wola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
 > mi **fikra** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
-> ye **doka** buk **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
-> tu **loga** jumle **karu** mi - Vi **diras** frazon, kiun **faris** mi  
+> ye **duga** buke **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
+> tu **loga** fraze **karu** mi - Vi **diras** frazon, kiun **faris** mi  
 > mi suku kena yema = mi suku mi kena mi yema - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
 
-Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** kana kek) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi kana kem**). Niaj provadoj en Telegram ne montris veran problemon.
+Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** nyama kek) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi nyama kem**). Niaj provadoj en Telegram ne montris veran problemon.
 
-Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per laŭteco, aŭ skribe per signoj " aŭ ,. Ni ĉiuokaze rekomendas fari mallongajn frazojn, kun malmultaj verboj. Eblas mencii substantivon de lasta frazo per "sa".
+Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per laŭteco, aŭ skribe per signoj " aŭ ,. Ni ĉiuokaze rekomendas fari mallongajn frazojn, kun malmultaj verboj. Eblas mencii substantivon de lasta frazo per "ci".
 
-> tu loga jumle. mi kar sa jumle. - Vi diras frazon. Mi faris tiun frazon.
+> tu loga fraze. mi fata ci fraze. - Vi diras frazon. Mi faris tiun frazon.
 
 #### 7.1 "ke-subfrazoj"
 
 En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam oni rapide povas traduki forigante _, ke_.
 
-> mi vola tu yema - Mi volas **, ke** vi manĝu  
+> mi wola tu yema - Mi volas **, ke** vi manĝu  
 
 #### 7.2 "ki--subfrazoj"
 
-En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _sa_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
+En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _ci_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
 
-> mi vola **sa** kanu tu - Mi volas **(tion), kion** vi manĝas  
-> mi vola **sa apel** kanu tu - Mi volas **(tiun pomon), kiun pomon** vi manĝas  
+> mi wola **ce** nyamu tu - Mi volas **(tion), kion** vi manĝas  
+> mi wola **ci aple** nyamu tu - Mi volas **(tiun pomon), kiun pomon** vi manĝas  
 
 --------------------------------------------------------------------------------
 
@@ -271,14 +271,14 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 > mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)  
 > mi yema **ze** do hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
 > mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)  
-> sup si **na** meza - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)  
+> supe si **na** meze - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)  
 > tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)  
 > mi enda **do** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)  
 > mi kara **do** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")  
 > tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)  
 > mi kitaba **na** karbon - Mi skribas **per** karbo.  
 > mi vizita dunia **na** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)  
-> sa si darse grup **du** pandunia - Tio estas kurso **de** Pandunia.  
+> ci si darse grup **du** pandunia - Tio estas kurso **de** Pandunia.  
 > no si multe **du** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
 
 La lasta prepozicio estas **da**, ĝi funkcias kiel _du_, sed la dekstro kaj maldekstro estas inversigita. _da_ ne estas tiel ofte uzata kiel _du_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: mi **da** panyo = mi **-a** amiko.
@@ -334,21 +334,21 @@ En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la
 
 Oni povas imiti rilatan subfrazon per la pivota strukturo, tamen ankaŭ eblas fari tion malpli koncize aldonante **du**. Tio utilas por komencantoj, kiuj ankoraŭ ne povas rapide alterni tipon de verbo.
 
-> mi vola **sa** vol**u** tu - Mi volas (tion), kion vi volas  
-> mi vola **sa du** tu vol**a** - Mi volas (tion), kion vi manĝas (= Mi volas tion de via manĝado.)  
+> mi wola **ci** vol**u** tu - Mi volas (tion), kion vi volas  
+> mi wola **ci du** tu vol**a** - Mi volas (tion), kion vi manĝas (= Mi volas tion de via manĝado.)  
 
 Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "du".
 
-> mi denga sa den **du** pandunia si day bax - Mi atendas la tagon, **kiam** pandunia estos granda lingvo  
+> mi denga ci den **du** pandunia si day bax - Mi atendas la tagon, **kiam** pandunia estos granda lingvo  
 
 --------------------------------------------------------------------------------
 
 ### 9. Konjunkcioj
 
-> manux **i** hewan - homo **kaj** besto  
+> manus **i** hewan - homo **kaj** besto  
 > hero **u** goro - heroo **aŭ** porko  
-> **ama** no jen loga sa - **sed**/**tamen** neniu diras tion  
-> mi si suka **jadi** mi si mau - Mi estus feliĉa, **se** mi estus kato  
+> **ama** no jen loga ci - **sed**/**tamen** neniu diras tion  
+> mi si suka **jadi** mi si maw - Mi estus feliĉa, **se** mi estus kato  
 > mi no saba **jadi** mi si ver - Mi ne scias, **ĉu** mi veras  
 > mi no aha **to** mi haha - Mi ne komprenas, **do** mi ridas  
 
@@ -365,49 +365,44 @@ En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu i
 > log**i** - dir**a** / dir**e**  
 > log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
 
-> nova - novigi  
-> novu - esti novigita (de) / noviĝi  
-> novi aŭ nov - nova / nove (nov estas baze modifilo)  
-> nove - novo / novaĵo  
+> nowa - novigi  
+> nowu - esti novigita (de) / noviĝi  
+> nowi aŭ nov - nova / nove (nov estas baze modifilo)  
+> nowe - novo / novaĵo  
 
 #### 10.2 Ŝanĝi la vortotipon
 
 Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al Esperanto, kun kelkaj diferencoj:
 
 - Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
-> nov(i) - nova / nove  
-> nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
-> si nov(i) - novi = esti nova / esti nove  
+> now(i) - nova / nove  
+> nowa - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+> si now(i) - novi = esti nova / esti nove  
 
 - Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.
-> kitab(a) - skribi  
+> kitaba - skribi  
 > kitabe - skrib**aĵo**   
-> kitabe kar - skribo / skribado  
+> kitabe fata - skribo / skribado  
 
 - Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago.
-> kitab(a) - skribi  
+> kitaba - skribi  
 > kitabi - skrib**ita** / skribata  
 > na kitabe - per skribaĵo = skriba  
 
 #### 10.3 Sufiksoj
 
-Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
+Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: nete **loke** = ret**ejo**.
 
 ##### 10.3.1 -ar
 
-kaix**a** - komenci ; kaix**ar** - komenc**anto**  
-bak**a** - baki ; bak**ar** - bak**isto**  
-komput**a** - komputi ; komput**ar** - komput**ilo**  
-marta - mortigi ; martar - mortiganto  
-
-##### 10.3.2 -ur
-
-kriat**a** - krei ; kriat**ur** - kre**aĵo**  
-mart**a** - mortigi ; mart**ur** - mortig**ato**  
+kaix**a** - komenci ; kaix**er** - komenc**anto**  
+bak**a** - baki ; bak**er** - bak**isto**  
+komput**a** - komputi ; komput**er** - komput**ilo**  
+marta - mortigi ; marter - mortiganto  
 
 ##### 10.3.3 -ia
 
-manux(e) - homo ; manux**ia** - homeco, hom**aro**  
+manus(e) - homo ; manus**ia** - homeco, hom**aro**  
 kristi - kristano ; krist**ia** - kristan**ismo**  
 jive - vivo ; jiv**ia** - vivo**scienco**  
 rus - rusa ; rus**ia** - rus**io**  
@@ -415,7 +410,7 @@ nov - nova ; nov**ia** - nov**eco**
 
 ##### 10.3.4 -is-
 
-kana - manĝi ; kan**is**a - manĝ**ig**i
+nyama - manĝi ; kan**is**a - manĝ**ig**i
 saba - koni/scii ; sab**is**a - kon**ig**i/sciigi  
 
 ##### 10.3.5 -ul-
@@ -444,17 +439,17 @@ Bazaj reguloj
 2. La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
 3. Substantivoj ("_Esencovortoj_") ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
 4. Kiam adjektivo antaŭas substantivon, ĝi funkcias kiel modifovorto. Kiam ĝi sekvas substantivon, ĝi rolas kvazaŭ adjektiva verbo.
-    - ekz. **bon pan** = Bona pano. **pan bon** = (La) pano bonas.
+    - ekz. **bon nan** = Bona pano. **nan bon** = (La) pano bonas.
 5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa vorto ĉiam staras je la fino. Malkiel en Esperanto, en pandunio oni ne algluas vortojn.
     - ekz. **poste sanduk** = leterkesto
 6. En frazoj faritaj per transitiva verbo, oni uzas la vortordon subjekto-verbo-objekto.
-    - ekz.  **mi penta meza.** = Mi kolorigas tablojn.
+    - ekz.  **mi penta meze.** = Mi kolorigas tablojn.
 7. En frazoj kiuj havas pasivan sencon, rolas nur subjekto kaj verbo.
     - ekz.  **ye pentu.** = Ĝi koloriĝas.
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
     - ekz. **mi cing tu dar pesa.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Ĉu vi parolas pandunion?
+    - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Ĉu vi parolas pandunion?
     - **mi cing tu loga klar.** →  **cing loga klar.** = Bonvolu paroli klare.
 
 
@@ -478,22 +473,22 @@ Esencovortoj (substantivoj)
 
 _Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-> **batu** - ŝtono, ŝtonoj, la ŝtono, la stonoj  
-> **meza** - tablo, tabloj, la tablo, la tabloj  
-> **su** - akvo  
+> **batú** - ŝtono, ŝtonoj, la ŝtono, la stonoj  
+> **meze** - tablo, tabloj, la tablo, la tabloj  
+> **suy** - akvo  
 
-Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **surya** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
+Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **lun** temas pri _la luno_; nia nura suno kaj luno.
 
 Kunmetante du aŭ pli da vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
-> **surya guang** - suna lumo  
-> **luna guang** - luna lumo  
-> **luna batu** - luna ŝtono  
+> **sol guang** - suna lumo  
+> **lun guang** - lun lumo  
+> **lun batú** - lun ŝtono  
 
 Facila maniero por emfazi multecon estas repeti la vorton.
 
-> **batu batu** - ŝtonoj, multe da ŝtonoj  
-> **tara tara** - steloj, multe da steloj  
+> **batú batú** - ŝtonoj, multe da ŝtonoj  
+> **xing xing** - steloj, multe da steloj  
 
 
 
@@ -503,33 +498,33 @@ Modifovortoj (adjektivoj/adverboj)
 
 _Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En pandunio, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
 
-> **day batu** - granda ŝtono  
-> **cung batu** - peza ŝtono  
-> **day meza** - granda tablo  
-> **gaw meza** - alta tablo  
+> **day batú** - granda ŝtono  
+> **cung batú** - peza ŝtono  
+> **day meze** - granda tablo  
+> **gaw meze** - alta tablo  
 
 Kiam Modifovorto sekvas Esencovorton, ĝi rolas kvazaŭ verbo, kiu indikas staton. Tio estas, kiel adjektivaj verboj en Esperanto.
 
-> **batu day.** - La ŝtono grandas.  
-> **meza gaw.** - La tablo altas.  
+> **batú day.** - La ŝtono grandas.  
+> **meze gaw.** - La tablo altas.  
 
 Kompreneble, eblas ke Modifovortoj aperu je ambaŭ flankoj de Esencovorto.
 
-> **day meza gaw.** - La granda tablo altas.
+> **day meze gaw.** - La granda tablo altas.
 
 
 
 Kvantovortoj (numeraloj)
 -----------------
 
-Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **surya** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
+Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **sol** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
 
 Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
-> **un tara** - unu stelo  
-> **do tara** - du steloj  
-> **sam tara** - tri steloj  
-> **xaw tara** - kelkaj steloj  
+> **un xing** - unu stelo  
+> **do xing** - du steloj  
+> **sam xing** - tri steloj  
+> **xaw xing** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
@@ -570,10 +565,10 @@ Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo 
 - 1 000 000 **mega**
 - 1 000 000 000 **giga**
 - 1 000 000 000 000 **tera**
-- 10<sup>15</sup> **peta**
-- 10<sup>18</sup> **eksa**
-- 10<sup>21</sup> **zeta**
-- 10<sup>24</sup> **yota**
+- 10<supe>15</supe> **peta**
+- 10<supe>18</supe> **eksa**
+- 10<supe>21</supe> **zeta**
+- 10<supe>24</supe> **yota**
 
 
 
@@ -602,20 +597,20 @@ Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj. Do ĝi ri
 
 ### Montrovorto
 
-**Sa** estas la ĉefa Montrovorto en pandunio. Ĝi enhavas la signifon de _tio_, _ĉi tio_, _tiu_ kaj _ĉi tiu_.
+**ci** estas la ĉefa Montrovorto en pandunio. Ĝi enhavas la signifon de _tio_, _ĉi tio_, _tiu_ kaj _ĉi tiu_.
 
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **far** (fora), kiam tio estas bezonata.
 
-**sa** - (ĉi) tio, (ĉi) tiu  
-**sa jin** - ĉi tio, ĉi tiu _(proksima)_  
-**sa far** - tio, tiu _(fora)_  
+**ci** - (ĉi) tio, (ĉi) tiu  
+**ci jin** - ĉi tio, ĉi tiu _(proksima)_  
+**ci far** - tio, tiu _(fora)_  
 
 
 Montrovortoj povas roli kiel Modifovortoj.
 
-> **sa batu.** - Tiu ŝtono.  
-> **sa si batu.** - Tio estas ŝtono.  
-> **sa batu cung.** - Tiu ŝtono pezas.  
+> **ci batú.** - Tiu ŝtono.  
+> **ci si batú.** - Tio estas ŝtono.  
+> **ci batú cung.** - Tiu ŝtono pezas.  
 
 
 ### Demandaovorto
@@ -643,24 +638,24 @@ Frazoj normale konsistas el subjekto kaj predikato. En la plej simplaj frazoj la
 
 **mi bon.** - Mi bonas.  
 **sara bon.** - Sara bonas.  
-**batu cung.** - La ŝtono pezas.  
+**batú cung.** - La ŝtono pezas.  
 
 Eblas ankaŭ, ke la subjekto estas pronomo, kaj la predikato estas substantivo.
 
 > **ye sara.** - Ŝi estas Sara. (Laŭvorte: _ŝi Sara_)  
-> **ye batu.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
+> **ye batú.** - Ĝi estas ŝtono. (Laŭvorte: _ĝi ŝtono_)
 
 Kiam vortoj de la sama speco aperas kune en tia strukturo, endas disigi ilin per la vorteto **ya** (jes). yemen eblas uzi **ya** tiurole ankaŭ en normalaj situacioj.
 
 > **ye si mi.** - Ĝi estas mi.  
-> **sa si batu.** - Tio estas ŝtono.  
-> **batu si day.** - Ŝtono estas granda.  
+> **ci si batú.** - Tio estas ŝtono.  
+> **batú si day.** - Ŝtono estas granda.  
 > **jowan si sundar.** - Juna estas bela.
 
 Kiam temas pri nei ion (ekzemple kiam io _ne okazas_ aŭ io _ne estas_ ia), oni uzu **no** (ne) anstataŭ **ya**.
 
 > **mi no tu.** - Mi ne estas vi.  
-> **batu no hewan.** Ŝtono ne estas animalo.  
+> **batú no hewan.** Ŝtono ne estas animalo.  
 > **jowan no sundar.** - Juna ne estas bela.  
 
 
@@ -671,7 +666,7 @@ En predikatoj, kiuj indikas agon, la ĉefa vorto estas _Agovorto_ (verbo). En pa
 
 Aktivaj frazoj ofte havas la vortordon _subjekto-verbo-objekto_ (SVO), kiu estas la normala vortordo en la angla kaj multaj aliaj lingvoj, kiel ekzemple la franca, la hispana, la ĉina kaj la araba. En la SVO vortordo la verbo finiĝas per **-a**.
 
-> **mi kana apel.** - Mi manĝas pomojn.  
+> **mi nyama aple.** - Mi manĝas pomojn.  
 > **mi auda musik.** - Mi aŭdas muzikon.  
 > **mi wida tu.** - Mi vidas vin.
 
@@ -700,7 +695,7 @@ En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la o
 1. **mi enda dom.** - Mi iras hejmen.  
 2. **mi ken enda dom.** - Mi povas iri hejmen.  
 3. **mi wol ken enda dom.** - Mi volas povi iri hejmen.  
-4. **mi mus enda dom.** - Mi devas iri hejmen.
+4. **mi bixu enda dom.** - Mi devas iri hejmen.
 
 
 
@@ -713,16 +708,16 @@ La ĉarnira konstruo estas tre grava konstruo en pandunio. Ĝi estas ankaŭ la b
 
 > **ye cing _mi_ enda dom.** - Ĝi petas min iri hejmen.  
 > **ye les _mi_ enda dom.** - Ĝi lasas min iri hejmen.  
-> **ye mus _mi_ enda dom.** - Li devigas min iri hejmen.
+> **ye bixu _mi_ enda dom.** - Li devigas min iri hejmen.
 
 La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subjekto, ĉar ĝi estas memkomprenebla en la kunteksto.
 
-> **mi kia tu enda dom.** - Mi demandas (ĉu) vi iris hejmen.  
-> **kia tu enda dom?** - Ĉu vi iris hejmen?
+> **mi eska tu enda dom.** - Mi demandas (ĉu) vi iris hejmen.  
+> **eska tu enda dom?** - Ĉu vi iris hejmen?
 
 Ĉi tiu estas tipa formo de klaso da frazoj, kiuj montras rilaton aŭ vidpunkton de la parolanto al kion li parolas.
 
-> Demando: **kia ye enda dom?** - Mi demandas ke...  
+> Demando: **eska ye enda dom?** - Mi demandas ke...  
 > Kredo: **xin ye enda dom.** - Mi kredas ke...  
 > Dubo: **xak ye enda dom.** - Mi dubas ke...  
 
@@ -752,10 +747,10 @@ La partikulo **du** estas uzata en kontraŭa ordo: unue la determinato, meze la 
 | **yemen da dom** - ilia hejmo    | **dom du yemen** - hejmo de ili          |
 
 > **jovan mama da dom** - domo de juna patrino  
-> **batu da cung** - pezo de ŝtono
+> **batú da cung** - pezo de ŝtono
 
 > **dom du jowan mama** - domo de juna patrino  
-> **cung du batu** - pezo de ŝtono
+> **cung du batú** - pezo de ŝtono
 
 
 ### Posedo
@@ -804,8 +799,8 @@ Ankaŭ eblas uzi partikulon **da**. Oni ne povas esperantigi ĝin laŭvorte.
 
 Se la relativa frazo havas objekton sed ne subjekton, do la subjekto de la ĉefa frazo rolas kiel subjekto de la relativa frazo.
 
-> **mi wida man _du kana apel_.** - Mi vidas viron, _kiu manĝas pomojn_.  
-> **mi wida kana apel da_ man.** - *Mi vidas _pommanĝantan_ viron.
+> **mi wida man _du nyama aple_.** - Mi vidas viron, _kiu manĝas pomojn_.  
+> **mi wida nyama aple da_ man.** - *Mi vidas _pommanĝantan_ viron.
 
 
 Modalaj partikuloj
@@ -817,16 +812,16 @@ En pandunio, modala partikulo modifas la sekvantan vorton. Se la partikulo estas
 
 Partikulo **plus** _(ankaŭ)_ estas bona ekzemplo ĉar ĝi funkcias same kiel en esperanto.
 
-> **ye kana bir plus.** - Li trinkas bieron, _ankaŭ_.  
-> **ye kana plus bir.** - Li trinkas _ankaŭ bieron_.  
-> **ye plus kana bir.** - Li _ankaŭ trinkas_ bieron.  
-> **plus ye kana bir.** - _Ankaŭ li_ trinkas bieron.
+> **ye nyama bir plus.** - Li trinkas bieron, _ankaŭ_.  
+> **ye nyama plus bir.** - Li trinkas _ankaŭ bieron_.  
+> **ye plus nyama bir.** - Li _ankaŭ trinkas_ bieron.  
+> **plus ye nyama bir.** - _Ankaŭ li_ trinkas bieron.
 
 Notu! Ankaŭ adjektivoj povas modifi aŭ unu vorton aŭ la tutan frazon.
 
-> **mi bon kitaba buk.** - Mi bone skribas librojn.  
-> **mi kitaba bon buk.** - Mi skribas bonajn librojn.  
-> **mi kitaba buk bon.** - Mi skribas librojn bone.  
+> **mi bon kitaba buke.** - Mi bone skribas librojn.  
+> **mi kitaba bon buke.** - Mi skribas bonajn librojn.  
+> **mi kitaba buke bon.** - Mi skribas librojn bone.  
 
 Sed modalaj partikuloj povas modifi ĉiu tipo de vorto. Adjektivoj ne povas modifi pronomojn kaj nombrovortojn.
 
