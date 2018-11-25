@@ -683,7 +683,7 @@ iridium : iryd
 is : lód  
 isi : lodowy  
 islam : Islam  
-islami xaria  szariat  
+islami xaria : szariat  
 islami : islamski  
 islandia : Islandia  
 israel : Izrael  

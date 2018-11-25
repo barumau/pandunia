@@ -676,7 +676,7 @@ sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.			is	:	ice	glacio	jää	l�
 			isi	:	icy	glacia	jäinen	lodowy		
 			islam	:	Islam	islamo	islam	Islam		
 			islami	:	Islamic	islama	islamilainen	islamski		
-			islami xaria		shari'a	ŝario	šaria	szariat		
+			islami xaria	:	shari'a	ŝario	šaria	szariat		
 	dex	IS	islandia	:	Iceland	Islando	Islanti	Islandia		
 	dex	IL	israel	:	Israel	Israelo	Israel	Izrael		
 	dex	IT	italia	:	Italy	Italio	Italia	Italia, Włochy		
@@ -762,7 +762,7 @@ por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao)
 spa:por:fra:caca. deu:Kacke.			kake	:	excrement (shit)	feko	uloste (kakka)	ekskrement, gówno		
 hin: काला /kālā/.			kal	:	black		musta	czarny		
 hau:alƙalami.			kalam	:	pen	plumo	kynä	pióro, długopis		
-	made	Cf	kalifornium	:	californium	kaliforniumo		kaliforn		
+	made	Cf	kalifornium	:	californium	kaliforniumo	kalifornium	kaliforn		
 	made	K	kalium	:	potassium	kalio	kalium	potas		
 	made	Ca	kalsium	:	calcium (Ca)	kalcio	kalsium	wapń		
 hin:काम "kām". tha:กาม "gaam". eng:kama.			kam	:	desire (lust)	deziro	himo (halu)	pożądanie, żadza		
@@ -969,7 +969,7 @@ eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "rantan". kor:
 			latif	:	nice (pleasant, lovely)		mukava (kiva)	miły, przyjemny, uroczy		
 			latini abace	:	Latin alphabet		latinalaiset aakkoset	alfabet łaciński, łacinka, alfabet rzymski		
 	dex	LV	latvia	:	Latvia	Latvio	Latvia	Łotwa		
-	made	Lr	laurensium	:	lawrencium	laŭrencio		lorens		
+	made	Lr	laurensium	:	lawrencium	laŭrencio	lawrensium	lorens		
 			laxa	:	release (let, let go)		päästää (sallia)	puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać		
 vie: lại. zho: 来 "lái".			laya	:	come	veni	tulla	przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać		
 			le	:	that one	tio	tuo	tamten		
@@ -1051,7 +1051,7 @@ ara:(mādda). urd:(māda). tur:madde. per:(mādde). eng:matter. spa:materia. rus
 	dex	MA	magribia	:	Morocco		Marokko	Maroko		
 			maidan	:	square (plaza)		kenttä (aukio)	skwer, plac		
 			mais	:	corn (maize)		maissi	kukurydza		
-	made	Mt	maitnerium	:	meitnerium	mejtnerio		meitner		
+	made	Mt	maitnerium	:	meitnerium	mejtnerio	meitnerium	meitner		
 			majú	:	harness		valjaat	zaprzęc, zaprzęgać		
 			makale	:	article (writing)		artikkeli (kirjoitus)	artykuł, tekst		
 			makan	:	butter		voi	masło		
@@ -2095,7 +2095,7 @@ swa:-ziba.			ziba	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać
 			zipa	:	zip up		sulkea vetoketjulla	zamknąć zamkiem błyskawicznym		
 			ziper	:	zipper		vetoketju	zamek błyskawiczny		
 ben:জিরা "zīra". hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. per:(zire). zho:孜然 (zīrán).			zirá	:	cumin	kumino	kumina	kumin, kmin		
-	made	Zr	zirkonium	:	zirconium	zirkonio		cyrkon		
+	made	Zr	zirkonium	:	zirconium	zirkonio	zirkonium	cyrkon		
 zho:zizi eng:sizzle			ziza	:	sizzle		sihistä	skwierczeć		
 			zombe	:	zombie		zombi	zombie, zombi		
 			zon	:	belt (zone)	zono	vyö	pas, strefa		

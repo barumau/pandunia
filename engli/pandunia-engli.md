@@ -683,7 +683,7 @@ iridium : iridium
 is : ice  
 isi : icy  
 islam : Islam  
-islami xaria  shari'a  
+islami xaria : shari'a  
 islami : Islamic  
 islandia : Iceland  
 israel : Israel  

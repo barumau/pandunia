@@ -926,7 +926,6 @@ Iraq : irakia
 iridium : iridium  
 iron : fer  
 Islam : islam  
-islami xaria  shari'a  
 Islamic : islami  
 island : nes  
 Isle of Man : manin  
@@ -1689,6 +1688,7 @@ shadow : caye
 shaman : xaman  
 shampoo : xampú  
 shape (sculpt) : forma  
+shari'a : islami xaria  
 shea : karite  
 sheep : meme  
 shirt : kamis  

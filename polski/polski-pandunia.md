@@ -1156,6 +1156,7 @@ Panama : panamia
 panamerykański : panameriki  
 panazjatycki : panasi  
 panda : panda  
+pandunia  polski  
 Pandunia : fute bol  
 Pandunia : pandunia  
 paneuropejski : paneuropi  
@@ -1665,6 +1666,7 @@ szal, szalik : xal
 szaman : xaman  
 szampon : xampú  
 szansa : canse  
+szariat : islami xaria  
 szczepionka : waksin  
 szczoteczka do zębów : dante brox  
 szczotka : brox  

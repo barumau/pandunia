@@ -1,5 +1,6 @@
 fata_lekse_liste() {
     cat pandunia-lekse.tsv | cut -f 4,5,$1 > temp/lekse.txt
+    sed -i '/\t$/d' temp/lekse.txt
     cat temp/abace.txt temp/lekse.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> $2/pandunia-$2.md 
     cat $2/pandunia-$2.md | sed '/^#/ d' > temp/temp2.txt
     cat temp/temp2.txt temp/abace.txt > temp/temp.txt
@@ -9,15 +10,17 @@ fata_lekse_liste() {
     sed 's/$/  /' -i $2/pandunia-$2.md
 }
 
+dos2unix pandunia-lekse.tsv
+
 # engli i pandunia
 fata_lekse_liste 6 engli
 
 #Tiddly dictionary
-cp engli/pandunia-english.md temp/temp.txt
+cp engli/pandunia-engli.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
-# engli i pandunia
+# esperanti i pandunia
 fata_lekse_liste 7 esperanto
 
 # suomi i pandunia
@@ -39,9 +42,4 @@ awk ' { FS="\t"; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | 
 sed 's/_//g' -i rusi/rusi-pandunia.md
 sed 's/$/  /' -i rusi/rusi-pandunia.md
 
-# ze esperanti to pandunia
-cat esperanto/pandunia-esperanto.md | sed '/^#/ d' > temp/temp2.txt
-cat temp/temp2.txt temp/abace.txt > temp/temp.txt
-awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > esperanto/esperanto-pandunia.md
-sed 's/_//g' -i esperanto/esperanto-pandunia.md
-sed 's/$/  /' -i esperanto/esperanto-pandunia.md
+
