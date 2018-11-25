@@ -92,6 +92,7 @@ askeett : askete
 aspiriini : aspirin  
 Assur : axur  
 Assyria : axuria  
+astia (kulho) : tas  
 astma : asma  
 asua : doma  
 asunto (koti) : dom  
@@ -788,7 +789,7 @@ kuvitella : fantaza
 Kuwait : kuwaitia  
 kyllä : si  
 kylmä : leng  
-kylpeä : banya  
+kylpeä : banyu  
 kylpy : banye  
 kylpyhuone : banye kamar  
 kylä : deya  
@@ -1247,7 +1248,6 @@ panafrikkalainen : panafriki
 Panama : panamia  
 panamerikkalainen : panameriki  
 panda : panda  
-pandunia  suomi  
 pandunia : pandunia  
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
@@ -1642,7 +1642,7 @@ tahna (tahdas) : paste
 tai (vai) : u  
 taianomainen (maaginen) : magi  
 taide : arte  
-taiga : tayga  
+taiga : taiga  
 taika (taikuus, magia) : magia  
 taikuri : mager  
 Taipei : taibei  

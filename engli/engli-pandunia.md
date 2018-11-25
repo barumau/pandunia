@@ -140,7 +140,7 @@ basic : bazi
 basket : basket  
 batch (lot) : lote  
 bath : banye  
-bathe : banya  
+bathe : banyu  
 bathroom : banye kamar  
 battery : bateria  
 be about (discuss as a subject) : tema  
@@ -510,6 +510,7 @@ dining room : nyam kamar
 dinner : xam nyam  
 disc (disk) : diske  
 discussion (debate, discourse) : lon  
+dish : tas  
 disperse : jamula  
 distance : tele  
 divide (to partition) : fena  
@@ -1354,7 +1355,6 @@ pan-Asian : panasi
 pan-European : paneuropi  
 Panama : panamia  
 panda : panda  
-pandunia  engli  
 Pandunia : pandunia  
 panic : panike  
 pants (trousers) : pantalon  
@@ -1845,7 +1845,7 @@ systemic : sistemi
 table (matrix) : tabel  
 table : meze  
 tactics (strategy) : tatike  
-taiga : tayga  
+taiga : taiga  
 tail : dum  
 Taipei : taibei  
 Taiwan (Republic of China) : taiwan  

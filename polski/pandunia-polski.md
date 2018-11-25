@@ -112,9 +112,9 @@ bande : taśma; bandaż
 bander : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
-banya : kąpać się  
 banye kamar : łazienka  
 banye : kąpiel  
+banyu : kąpać się  
 bar : bar, knajpa  
 bara : blokować, hamować  
 barbados : Barbados  
@@ -1409,7 +1409,6 @@ panamia : Panama
 panasi : panazjatycki  
 panda : panda  
 pandunia : Pandunia  
-pandunia  polski  
 paneuropi : paneuropejski  
 panike : panika  
 panjabi : pendżabski  
@@ -1823,6 +1822,7 @@ tabel : tablioca, macierz
 tabia : natura, środowisko  
 tabial : środowiskowy, naturalny  
 taibei : Tajpej  
+taiga : tajga  
 taiwan : Tajwan, Republika Chińska  
 tajikia : Tadżykistan  
 takse : podatek, opłata  
@@ -1846,7 +1846,6 @@ tarjumer : tłumacz
 tatike : taktyka, strategia  
 tatu : tatuaż  
 tawa : patelnia  
-tayga : tajga  
 tazi : świeży  
 tekne lojia : technologia, nauka o technikach  
 tekne : technika, technologia  

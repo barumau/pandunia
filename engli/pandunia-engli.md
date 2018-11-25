@@ -112,9 +112,9 @@ bande : band (bandage)
 bander : flag (banner)  
 banglia : Bangladesh  
 banka : save (deposit, bank)  
-banya : bathe  
 banye kamar : bathroom  
 banye : bath  
+banyu : bathe  
 bar : bar (pub)  
 bara : bar (obstruct)  
 barbados : Barbados  
@@ -1409,7 +1409,6 @@ panamia : Panama
 panasi : pan-Asian  
 panda : panda  
 pandunia : Pandunia  
-pandunia  engli  
 paneuropi : pan-European  
 panike : panic  
 panjabi : Punjabi  
@@ -1823,6 +1822,7 @@ tabel : table (matrix)
 tabia : nature (environment)  
 tabial : environmental (natural)  
 taibei : Taipei  
+taiga : taiga  
 taiwan : Taiwan (Republic of China)  
 tajikia : Tajikistan  
 takse : tax (fee, fare)  
@@ -1843,10 +1843,10 @@ tarif : fee (fare, tariff, rate)
 tarjum : translation (interpretation)  
 tarjuma : translate (interpret)  
 tarjumer : interpreter (translator)  
+tas : dish  
 tatike : tactics (strategy)  
 tatu : tattoo  
 tawa : frying pan  
-tayga : taiga  
 tazi : fresh  
 tekne lojia : technology (study of techniques)  
 tekne : technique (technology)  

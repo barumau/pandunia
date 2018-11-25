@@ -97,9 +97,9 @@ bande : bandaĝo (vindo)
 bander : flago  
 banglia : Bangladeŝo  
 banka : savi  
-banya : bana  
 banye kamar : banĉambro  
 banye : bano  
+banyu : bana  
 bar : drinkejo  
 bara : bari  
 barbar : barbaro  
@@ -946,7 +946,6 @@ pan : ĉiu
 panamia : Panamo  
 panda : pando  
 pandunia : pandunia  
-pandunia  esperanti  
 panike : paniko  
 pantalon : pantalonoj  
 papaya : papajo  
@@ -1130,6 +1129,7 @@ swahili : sŭahili
 ##t  
 tabake : tabako  
 tabia : naturo  
+taiga : tajgo  
 talium : talio  
 tambur : tamburo  
 tantalum : tantalo  
@@ -1138,7 +1138,6 @@ tarjum : traduko
 tarjuma : traduki  
 tarjumer : tradukisto  
 tawa : pato  
-tayga : tajgo  
 tazi : freŝa  
 tekne lojia : teknologio  
 tekne : tekniko  

@@ -763,7 +763,7 @@ kwiat : hua
 kwiat : pul  
 kwiecień : mes 12 (mes des do)  
 kwitnąć, rozkwitnąć, rozkwitać : pula  
-kąpać się : banya  
+kąpać się : banyu  
 kąpiel : banye  
 kąt : kon  
 ##l  
@@ -1156,7 +1156,6 @@ Panama : panamia
 panamerykański : panameriki  
 panazjatycki : panasi  
 panda : panda  
-pandunia  polski  
 Pandunia : fute bol  
 Pandunia : pandunia  
 paneuropejski : paneuropi  
@@ -1704,7 +1703,7 @@ słońce : sol
 ##t  
 tablioca, macierz : tabel  
 Tadżykistan : tajikia  
-tajga : tayga  
+tajga : taiga  
 Tajpej : taibei  
 Tajwan, Republika Chińska : taiwan  
 tak, w ten sposób : so  

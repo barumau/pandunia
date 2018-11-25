@@ -1,5 +1,6 @@
 fata_lekse_liste() {
     cat pandunia-lekse.tsv | cut -f 4,5,$1 > temp/lekse.txt
+    sed -i '1d' temp/lekse.txt
     sed -i '/\t$/d' temp/lekse.txt
     cat temp/abace.txt temp/lekse.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> $2/pandunia-$2.md 
     cat $2/pandunia-$2.md | sed '/^#/ d' > temp/temp2.txt
@@ -28,6 +29,10 @@ fata_lekse_liste 8 suomi
 
 # polski i pandunia
 fata_lekse_liste 9 polski
+
+# fransi i pandunia
+fata_lekse_liste 13 frans
+
 
 # ze pandunia to rusi
 cat rusi/slovar.txt temp/abace.txt > temp/temp.txt

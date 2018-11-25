@@ -100,7 +100,7 @@ baki : beka
 bakisto : beker  
 balkono : balkon  
 bambuo : jug  
-bana : banya  
+bana : banyu  
 banano : banan  
 bandaĝo (vindo) : bande  
 Bangladeŝo : banglia  
@@ -848,7 +848,6 @@ palmo : palma
 palto : kote  
 Panamo : panamia  
 pando : panda  
-pandunia  esperanti  
 pandunia : pandunia  
 paniko : panike  
 pano : nan  
@@ -1085,7 +1084,7 @@ tabako : tabake
 tablo : meze  
 tagmanĝo : den nyam  
 tago : den  
-tajgo : tayga  
+tajgo : taiga  
 tajpilo : kitabe maxin  
 taladro : bora  
 talio : talium  

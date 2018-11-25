@@ -111,9 +111,9 @@ bande : side (kääre)
 bander : lippu  
 banglia : Bangladesh  
 banka : tallettaa  
-banya : kylpeä  
 banye kamar : kylpyhuone  
 banye : kylpy  
+banyu : kylpeä  
 bar : baari (kapakka)  
 bara : estää kulku  
 barbados : Barbados  
@@ -1404,7 +1404,6 @@ panamia : Panama
 panasi : panaasialainen  
 panda : panda  
 pandunia : pandunia  
-pandunia  suomi  
 paneuropi : paneurooppalainen  
 panike : hätä (paniikki)  
 panjabi : pandžabi (eräs intialainen kieli)  
@@ -1738,6 +1737,7 @@ tabel : taulukko
 tabia : luonto  
 tabial : ympäristö- (luonto-)  
 taibei : Taipei  
+taiga : taiga  
 taiwan : Taiwan  
 tajikia : Tadžikistan  
 takse : taksa (vero)  
@@ -1755,10 +1755,10 @@ tarif : taksa (tariffi)
 tarjum : käännös (tulkinta)  
 tarjuma : tulkata (kääntää)  
 tarjumer : tulkki (kääntäjä)  
+tas : astia (kulho)  
 tatike : taktiikka  
 tatu : tatuointi  
 tawa : pannu (paistinpannu)  
-tayga : taiga  
 tazi : tuore (raikas)  
 tekne lojia : tekniikka (teknologia)  
 tekne : tekniikka (keino, menetelmä)  
