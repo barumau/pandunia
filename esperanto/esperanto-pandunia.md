@@ -441,8 +441,8 @@ hobio : hobe
 hodiaŭ : zay den  
 hokeo : hoke  
 holmio : holmium  
-homaro : manusia  
-homo : manus  
+homaro : insania  
+homo : insan  
 Honduro : honduras  
 honoro (respekto) : onor  
 hormono : hormon  

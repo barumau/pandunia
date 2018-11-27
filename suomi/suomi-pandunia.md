@@ -369,6 +369,9 @@ houkutella : tenta
 housut : pantalon  
 huhtikuu : mes 4 (mes car)  
 huivi (šaali) : xal  
+humanismi : insanistia  
+humanisti : insaniste  
+humanistinen : insanisti  
 hummus : humus sos  
 hunaja : medu  
 huomata (hoksata) : nota  
@@ -417,8 +420,8 @@ idea (aate) : idey
 idealismi : ideyalistia  
 idealisti : ideyaliste  
 ihanteellinen (ideaali) : ideyal  
-ihminen : manus  
-ihmiskunta : manusia  
+ihminen : insan  
+ihmiskunta : insania  
 ikkuna : janel  
 ikä : umur  
 ilkeä (julma) : zalim  
@@ -866,6 +869,9 @@ lepo : resta
 Lesoto : soto  
 leveä : kuan  
 Libanon : libnun  
+liberaali (vapaamielinen) : huristi  
+liberalismi : huristia  
+liberalisti : huriste  
 Liberia : liberia  
 Libya : libia  
 Liechtenstein : lixtenxtayn  
@@ -989,6 +995,7 @@ manteli : badam
 marathi (eräs intialainen kieli) : marati  
 maratoni : maraton  
 margariini : margarin  
+markkinaliberalismi : bazar huristia  
 marmori : marmar  
 Marokko : magribia  
 marraskuu : mes 11 (mes des un)  

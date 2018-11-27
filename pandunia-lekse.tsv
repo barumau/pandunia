@@ -142,6 +142,7 @@ hin:भाषा (bhāṣā). ind:bahasa. jav: basa.			bax	:	language (communica
 			baxa	:	speak (communicate)	paroli (komuniki)	puhua (kommunikoida)	mówić; komunikować				
 zho: 白 "bái".			bay	:	white	blanka	valkoinen (valkea)	biały				
 fas: بازار /bāzār/. ind: pasar.			bazar	:	market (bazaar)	merkato (bazaro)	tori (basaari)	rynek, bazar				
+			bazar huristia	:	market liberalism		markkinaliberalismi					
 eng:fra:por:base. rus:"baza".			baze	:	base (foundation)	bazo	perusta (perustus)	podstawa, baza, fundament				
 			bazi	:	basic	baza	perus-	bazowy, podstawowy				
 			be	:	without	sen	ilman	bez				
@@ -655,6 +656,9 @@ zho:葫芦 (húlu). mon:хулуу (huluu).			hulú	:	gourd (calabash)		pullokur
 			hura	:	free (liberate)	liberigi	vapauttaa	uwolnić, uwalniać				
 			huri	:	free (unchained)	libera	vapaa	wolny, niepodległy, niezależny				
 ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.			huria	:	freedom (liberty)	libereco	vapaus	wolność, niepodległość, niezależność				
+			huriste	:	liberalist		liberalisti					
+			huristi	:	liberal		liberaali (vapaamielinen)					
+			huristia	:	liberalism		liberalismi					
 spa:y. por:e. rus:и /i/. pol:i.			i	:	and	kaj	ja	i, oraz				
 			ibri	:	Hebrew	Hebrea	heprea	hebrajski				
 vie:ý chí. zho:意志 "yìzhì". kor:"uiji". jpn:"ishi". + hin:इच्छा "icchā". tel:"icchā".			ice	:	will (volition, desire)	voli	halu (tahto)	wola, chęć				
@@ -672,6 +676,11 @@ zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie
 			informe	:	information	informacio	tieto (info)	informacja				
 			inje	:	ginger		inkivääri	imbir				
 			injener	:	engineer		insinööri	inżynier				
+ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". per:"ensān".			insan	:	human being	homo	ihminen	człowiek, istota ludzka				
+			insania	:	mankind (humanity)	homaro	ihmiskunta	ludzkość, rodzaj ludzki				
+			insaniste	:	humanist		humanisti					
+			insanisti	:	humanistic		humanistinen					
+			insanistia	:	humanism		humanismi					
 			inspira	:	inspire		innoittaa (inspiroida)	inspirować; inspiracja				
 			inter	:	between		väli	między				
 			interes	:	interest (interesting)	interesa	kiinnostus (mielenkiinto)	zainteresowanie, zaciekawienie; interesujący				
@@ -682,7 +691,7 @@ zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd				
 sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.			is	:	ice	glacio	jää	lód				
 			isi	:	icy	glacia	jäinen	lodowy				
-ara:(ʾislām).			islam	:	submission (surrender)		alistuminen (antautuminen)					
+ara:(ʾislām). per:(taslim). tur:teslim.			islam	:	submission (surrender)		alistuminen (antautuminen)					
 			islamiste	:	muslim (moslem)		muslimi (islaminuskoinen)					
 			islamisti	:	Islamic	islama	islamilainen	islamski				
 			islamisti xaria	:	shari'a	ŝario	šaria	szariat				
@@ -1094,8 +1103,6 @@ eng: ma. zho: 妈 "mā". ben:মা "ma". hin:मां  "mã".			mamá	:	mother
 			manioka	:	cassava (manioc)		kassava (maniokki)	maniok				
 hau:nama. swa:nyama.			manse	:	meat (flesh)	viando	liha	mięso				
 tur:mantı. rus:манты "manty". kor:만두 "mandu". zho:馒头 "mántóu". per:urd:"mantu".			mante	:	steamed bun (mantou, manti)			bułka gotowana na parze				
-mar:माणूस (māṇūs). ben:মানুষ (manuṣ). hin:मनुष्य (manuṣya). ind:manusia. mya:မနုဿ (manussa). khm:មនុស្ស (mɔnuh). tha:มนุษย์ (mánút). tel:(maniṣi).			manus	:	human being	homo	ihminen	człowiek, istota ludzka				
-			manusia	:	mankind (humanity)	homaro	ihmiskunta	ludzkość, rodzaj ludzki				
 hin:बार (bār). urd:per:(bār). + kor:번 (beon). vie:bận. + ara:(marra). swa:mara. ktu:mbala.			mar	:	time (occasion)	fojo	kerta	czas; okazja				
 			mara	:	marry	edzigi	naida (mennä naimisiin)	ożenić się, poślubić, wyjść za mąż				
 	nas		marati	:	Marathi		marathi (eräs intialainen kieli)	marathi				
@@ -1724,7 +1731,7 @@ rus:сидеть "sidet'". eng:sit. deu:sitzen. ita:sedere.			sida	:	sit	sidi	is
 			sikiste	:	Sikh		sikhi					
 			sikistia	:	Sikhism		sikhiläisyys					
 	made	Si	silike	:	silicon	silicio	pii	krzem				
-hin:सिलसिला (silsilā). ara:(silsila). tur:silsile.			silsil	:	chain		ketju	łańcuch				
+hin:सिलसिला (silsilā). ara:(silsila). tur:silsile. swa:silisili.			silsil	:	chain		ketju	łańcuch				
 			simpli	:	simple (not complicated)	simpla	yksinkertainen (mutkaton)	prosty, nieskomplikowany				
 per:(sine). tur:sine. hin:सीना (sīnā). spa:seno. fra:sein. ltn:sinus.			sine	:	chest (breast)	brusto	rinta	pierś				
 			sine kase	:	rib cage	torako	rintakehä	klatka piersiowa				

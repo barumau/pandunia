@@ -576,6 +576,8 @@ igen : opinio
 indium : indio  
 indonesia : Indonezio  
 informe : informacio  
+insan : homo  
+insania : homaro  
 interes : interesa  
 inxala : esperi  
 iode : jodo  
@@ -783,8 +785,6 @@ mamá : patrino
 man : viro  
 mangan : mangano  
 manse : viando  
-manus : homo  
-manusia : homaro  
 mar : fojo  
 mara : edzigi  
 maraton : maratono  

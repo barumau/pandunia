@@ -142,6 +142,7 @@ bax lojia : linguistics
 bax : language (communication)  
 baxa : speak (communicate)  
 bay : white  
+bazar huristia : market liberalism  
 bazar : market (bazaar)  
 baze : base (foundation)  
 bazi : basic  
@@ -662,6 +663,9 @@ humus : chickpea
 hura : free (liberate)  
 huri : free (unchained)  
 huria : freedom (liberty)  
+huriste : liberalist  
+huristi : liberal  
+huristia : liberalism  
 ##i  
 i : and  
 ibri : Hebrew  
@@ -680,6 +684,11 @@ informa : inform (communicate)
 informe : information  
 inje : ginger  
 injener : engineer  
+insan : human being  
+insania : mankind (humanity)  
+insaniste : humanist  
+insanisti : humanistic  
+insanistia : humanism  
 inspira : inspire  
 inter : between  
 interes : interest (interesting)  
@@ -1106,8 +1115,6 @@ manin : Isle of Man
 manioka : cassava (manioc)  
 manse : meat (flesh)  
 mante : steamed bun (mantou, manti)  
-manus : human being  
-manusia : mankind (humanity)  
 mar : time (occasion)  
 mara : marry  
 marati : Marathi  

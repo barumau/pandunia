@@ -880,7 +880,10 @@ how? : ki yang
 howl : ulula  
 howling : ulul  
 huh? (pardon?) : he  
-human being : manus  
+human being : insan  
+humanism : insanistia  
+humanist : insaniste  
+humanistic : insanisti  
 hummus : humus sos  
 humor : yumor  
 humorous (comical, funny) : yumori  
@@ -1037,6 +1040,9 @@ letter (character, written symbol) : harfe
 letter (message) : letre  
 lettuce : letis  
 lexeme : leksem  
+liberal : huristi  
+liberalism : huristia  
+liberalist : huriste  
 Liberia : liberia  
 library : kitabe kan  
 Libya : libia  
@@ -1110,7 +1116,7 @@ mandarin orange : migan
 manganese : mangan  
 mango : mango  
 mangosteen : mangus  
-mankind (humanity) : manusia  
+mankind (humanity) : insania  
 Marathi : marati  
 marathon : maraton  
 marble : marmar  
@@ -1119,6 +1125,7 @@ margarine : margarin
 mark (leave a mark) : marka  
 mark (trace) : marke  
 market (bazaar) : bazar  
+market liberalism : bazar huristia  
 marriage (matrimony) : maria  
 married : mari  
 marry : mara  

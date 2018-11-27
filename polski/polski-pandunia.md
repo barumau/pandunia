@@ -247,7 +247,7 @@ czytać : duga
 często : cang  
 część, ułamek : fen  
 członek, uczestnik : member  
-człowiek, istota ludzka : manus  
+człowiek, istota ludzka : insan  
 córka : fem bace  
 ##d  
 dach : cate  
@@ -810,7 +810,7 @@ lubić, cieszyć się : suku
 lud, społeczeństwo : demó  
 ludowy : nasi  
 ludzie, lud, ludność : nas  
-ludzkość, rodzaj ludzki : manusia  
+ludzkość, rodzaj ludzki : insania  
 Luksemburg : luksemburgia  
 lustro : mirer  
 lutet : lutetium  

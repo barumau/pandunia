@@ -672,6 +672,8 @@ informa : poinformować, informować, zakomunikować, komunikować
 informe : informacja  
 inje : imbir  
 injener : inżynier  
+insan : człowiek, istota ludzka  
+insania : ludzkość, rodzaj ludzki  
 inspira : inspirować; inspiracja  
 inter : między  
 interes : zainteresowanie, zaciekawienie; interesujący  
@@ -1093,8 +1095,6 @@ manin : Wyspa Man
 manioka : maniok  
 manse : mięso  
 mante : bułka gotowana na parze  
-manus : człowiek, istota ludzka  
-manusia : ludzkość, rodzaj ludzki  
 mar : czas; okazja  
 mara : ożenić się, poślubić, wyjść za mąż  
 marati : marathi  

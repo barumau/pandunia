@@ -140,6 +140,7 @@ bax lojia : kielitiede (lingvistiikka)
 bax : kieli (kommunikaatio)  
 baxa : puhua (kommunikoida)  
 bay : valkoinen (valkea)  
+bazar huristia : markkinaliberalismi  
 bazar : tori (basaari)  
 baze : perusta (perustus)  
 bazi : perus-  
@@ -659,6 +660,9 @@ humus : kikherne
 hura : vapauttaa  
 huri : vapaa  
 huria : vapaus  
+huriste : liberalisti  
+huristi : liberaali (vapaamielinen)  
+huristia : liberalismi  
 ##i  
 i : ja  
 ibri : heprea  
@@ -677,6 +681,11 @@ informa : tiedottaa (informoida)
 informe : tieto (info)  
 inje : inkivääri  
 injener : insinööri  
+insan : ihminen  
+insania : ihmiskunta  
+insaniste : humanisti  
+insanisti : humanistinen  
+insanistia : humanismi  
 inspira : innoittaa (inspiroida)  
 inter : väli  
 interes : kiinnostus (mielenkiinto)  
@@ -1102,8 +1111,6 @@ mangus : mangostani
 manin : Manin saari  
 manioka : kassava (maniokki)  
 manse : liha  
-manus : ihminen  
-manusia : ihmiskunta  
 mar : kerta  
 mara : naida (mennä naimisiin)  
 marati : marathi (eräs intialainen kieli)  
