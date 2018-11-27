@@ -5,6 +5,7 @@ loge asle	klase		pandunia		engli	esperanti	suomi	polski	espani	putonghan	rusi	fr
 eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.			-er	:	suffix for doer	-isto	tekijän pääte	przyrostek dla wykonawcy				
 ara:(-i). fas:(-i). hin:(-ī). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	adjektiivin pääte	przyrostek dla przymiotnika				
 spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			-ia	:	suffix for areas	-ejo (-ujo, -io)	alueen tai alan pääte	przyrostek dla miejsca				
+			-iste	:	one who supports a certain ideology or a way of life							
 			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	verbin pääte	przyrostek dla czasowników z szykiem zdania OVS				
 rus:а "a". ukr:а "a". pol:a. + zho:啊 "ā". + eng:ah.			a	:	but (whereas)	sed	mutta	ale, lecz				
 gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.			abace	:	alphabet	alfabeto	aakkoset (ABC)	alfabet, abecadło		字母表	алфавит	alphabet
@@ -95,6 +96,8 @@ hin:बदला "badlā". hau:badali. swa:badili.			badala	:	exchange (swap, re
 			bade	:	consequence (follow-up)	sekvo	seuraus	konsekwencja, skutek				
 			bagaje	:	luggage (baggage)	pakaĵo	matkatavarat	bagaż				
 hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:tigre. rus:(tigr).			bagre	:	tiger	tigro	tiikeri	tygrys	tigre	虎	тигр	tigre
+			bahaiste	:	Baha'ist		bahailainen					
+			bahaistia	:	Baha'ism		bahailaisuus					
 	dex	BS	bahama	:	Bahamas		Bahama-saaret	Bahamy				
 	dex	BH	bahrain	:	Bahrain		Bahrain	Bahrajn				
 			bal	:	strong	forta	voimakas (vahva)	silny				
@@ -111,9 +114,9 @@ hin:बाँधना "bāndhnā". eng: bind.			banda	:	tie (fasten, bind)	ligi
 eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila.			bander	:	flag (banner)	flago	lippu	flaga, sztandar		旗	флаг	drapeau
 	dex	BD	banglia	:	Bangladesh	Bangladeŝo	Bangladesh	Bangladesz				
 			banka	:	save (deposit, bank)	savi	tallettaa	oszczędzać, deponować				
-			banyu	:	bathe	bana	kylpeä	kąpać się		游泳	купаться	se baigner
 			banye	:	bath	bano	kylpy	kąpiel		洗澡	купание	bain
 			banye kamar	:	bathroom	banĉambro	kylpyhuone	łazienka		浴室	ванная	salle de bains
+			banyu	:	bathe	bana	kylpeä	kąpać się		游泳	купаться	se baigner
 eng:bar. hin:बार "bār". spa:bar. zho:酒吧 "jiǔbā". rus:бар (bar).			bar	:	bar (pub)	drinkejo	baari (kapakka)	bar, knajpa				
 eng:bar. spa:por:barrar.			bara	:	bar (obstruct)	bari	estää kulku	blokować, hamować				
 	dex	BB	barbados	:	Barbados		Barbados	Barbados				
@@ -207,7 +210,8 @@ eng:brush.			brox	:	brush	broso	harja	szczotka
 	dex	BN	bruney	:	Brunei Darussalam		Brunei	Brunei Darussalam				
 			budan	:	Mercury	Merkuro	Merkurius	Merkury				
 hin:बुद्ध (buddh).			bude	:	Buddha		Buddha	Budda				
-			budisme	:	Buddhism	budhismo	buddhalaisuus (buddhismi)	Buddyzm				
+			budiste	:	Buddhist	budhisto	buddhalainen					
+			budistia	:	Buddhism	budhismo	buddhalaisuus (buddhismi)	Buddyzm				
 spa:bufón. eng:buffoon. fra:bouffon.			bufon	:	fool (buffoon)	pajaco	hölmö (narri)	głupiec, bufon				
 			bujete	:	budget	buĝeto	budjetti	budżet				
 eng: book. deu: Buch. ind: buku. swa: buku.			buke	:	book	libro	kirja	książka				
@@ -297,9 +301,11 @@ ara:per:urd:"dars". tur:ders.			darse	:	lesson	leciono	oppi (opetus)	lekcja
 			darse bace	:	student (pupil)	studento (lernanto)	oppilas	uczeń, student				
 			darse gurú	:	teacher	instruisto	opettaja	nauczyciel				
 			darse kan	:	school (institution)	lernejo	koulu (opisto)	szkoła (instytucja)				
-			darwinisme	:	Darwinism		darwinismi	darwinizm				
+			darwiniste	:	Darwinist		darwinisti					
+			darwinistia	:	Darwinism		darwinismi	darwinizm				
 zho: "dao".			daw	:	way (road)	vojo	tie	droga, szosa, ulica				
-			dawisme	:	Taoism		taolaisuus	taoizm				
+			dawiste	:	Taoist		taolainen					
+			dawistia	:	Taoism		taolaisuus	taoizm				
 yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".			day	:	big (very, greatly)	granda	iso (suuri; isosti, paljon)	duży; bardzo				
 			dayu	:	grow (get bigger)		kasvaa (suurentua)	urosnąć, rosnąć, wzrosnąć, wzrastać				
 			dayxi	:	ambassador	ambasadoro	lähettiläs	ambasador				
@@ -320,7 +326,8 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dew lojia	:	theology	teologio	teologia	teologia				
 			dewi	:	divine (godly)	dia	jumalallinen	boski				
 			dewi sage	:	myth (divine story)	mito	jumaltaru (myytti)	mit, boska opowieść				
-			dewisme	:	theism		teismi (jumalusko)	teizm				
+			dewiste	:	theist		teisti					
+			dewistia	:	theism		teismi (jumalusko)	teizm				
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia				
 por"aldeia". spa:"aldea". ara:"ḍayʿa". + ind:jav:"desa".  per:"deh". kur"de".			deya	:	village	vilaĝo	kylä	wieś, wioska				
 per:"dehestān".			deya stan	:	countryside		maaseutu	wieś, tereny wiejskie				
@@ -420,8 +427,8 @@ ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.			fata	:	make (m
 por: fator. ita: fattore. eng: factor. rus: фактор /faktor/.			fater	:	maker (manufacturer, factor)	fabrikisto	tekijä (valmistaja)	twórca, kreator, czynnik				
 			fateria	:	factory	fabriko	tehdas	fabryka, manufaktura				
 ita:fascia. por:faixa. spa:faja.			faxe	:	bandage (strip, ribbon)		side (remmi)	bandaż, taśma, wstążka				
-			faxisme	:	fascism	faŝismo	fasismi	faszyzm				
 			faxiste	:	fascist	faŝisto	fasisti	faszysta				
+			faxistia	:	fascism	faŝismo	fasismi	faszyzm				
 eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon). kor:패션 (pæsyeon). tha:แฟชั่น (feechan). ben:ফ্যাশন (phaśôn).			faxon	:	fashion (trend)		trendi	moda, trend				
 			faxoni	:	popular (trendy)		suosittu (trendikäs)	popularny, modny				
 			fay	:	fire	fajro	tuli	ogień				
@@ -623,8 +630,8 @@ ind:kewan. ara:"haywān". hin:"hEvān".			hewan	:	animal	besto	eläin	animal
 hin:हिमपात "himpāt". tha:หิมะ "hima". tel:"himamu".			him	:	snow	neĝo	lumi	śnieg				
 			him rose	:	frost	frosto	kuura	szron				
 			himalia	:	Himalayas	Himalajo	Himalaja	Himalaje				
-			hindú	:	Hindu	hinduo	hindu	hinduistyczny				
-			hindúisme	:	Hinduism	hinduismo	hindulaisuus (hinduismi)	hinduizm				
+			hindiste	:	Hindu	hinduo	hindu	hinduistyczny				
+			hindistia	:	Hinduism	hinduismo	hindulaisuus (hinduismi)	hinduizm				
 			hisaba	:	calculate	kalkuli	laskea (tehdä laskutoimitus)	kalkulować				
 			hisabe	:	calculation (arithmetic, computation)	kalkulo	laskutoimitus	kalkulacja, obliczenia; arytmetyka, kalkulacje				
 			histor	:	history (annals)	historio	historia (aikakirjat)	historia; annały, roczniki				
@@ -653,7 +660,8 @@ spa:y. por:e. rus:и /i/. pol:i.			i	:	and	kaj	ja	i, oraz
 vie:ý chí. zho:意志 "yìzhì". kor:"uiji". jpn:"ishi". + hin:इच्छा "icchā". tel:"icchā".			ice	:	will (volition, desire)	voli	halu (tahto)	wola, chęć				
 por:ideia. rus:идея (ideya). fra:idée. deu:Idee. vie:ý định.			idey	:	idea	ideo	idea (aate)	idea, pomysł				
 			ideyal	:	ideal (optimal)	ideala	ihanteellinen (ideaali)	idealny, optymalny				
-			ideyalisme	:	idealisme	idealismo	idealismi	idealizm				
+			ideyaliste	:	idealist	idealisto	idealisti					
+			ideyalistia	:	idealisme	idealismo	idealismi	idealizm				
 zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie:ý kiến.			igen	:	opinion (view)	opinio	mielipide (näkemys)	opinia, pogląd				
 			impera	:	reign (rule as an emperor)		hallita yksinvaltaisesti	władać, panować, rządzić jako imperator				
 			imperer	:	emperor		keisari	imperator				
@@ -674,9 +682,12 @@ zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd				
 sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.			is	:	ice	glacio	jää	lód				
 			isi	:	icy	glacia	jäinen	lodowy				
-			islam	:	Islam	islamo	islam	Islam				
-			islami	:	Islamic	islama	islamilainen	islamski				
-			islami xaria	:	shari'a	ŝario	šaria	szariat				
+ara:(ʾislām).			islam	:	submission (surrender)		alistuminen (antautuminen)					
+			islamiste	:	muslim (moslem)		muslimi (islaminuskoinen)					
+			islamisti	:	Islamic	islama	islamilainen	islamski				
+			islamisti xaria	:	shari'a	ŝario	šaria	szariat				
+			islamistia	:	Islam	islamo	islam	Islam				
+			islamu	:	surrender (submit)		alistua (antautua)					
 	dex	IS	islandia	:	Iceland	Islando	Islanti	Islandia				
 	dex	IL	israel	:	Israel	Israelo	Israel	Izrael				
 	dex	IT	italia	:	Italy	Italio	Italia	Italia, Włochy				
@@ -883,8 +894,8 @@ eng:company. hin:कंपनी "kampanī". rus:компания "kompaniya". t
 eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć, liczyć, przetwarzać dane				
 			komputer	:	computer	komputero	tietokone	komputer				
 			komun	:	common (shared)	komuna	yhteinen	wspólny				
-			komunisme	:	communism	komunismo	kommunismi	komunizm				
 			komuniste	:	communist	komunisto	kommunisti	komunista				
+			komunistia	:	communism	komunismo	kommunismi	komunizm				
 hin:कोण "koṇ". tel:"kōnamu". swa:kona. eng:corner. hau:kwana.			kon	:	corner (angle)	angulo	kulma (nurkka)	kąt				
 			koncung	:	insect		hyönteinen (ötökkä)	owad				
 			kong	:	hole		reikä	dziura				
@@ -918,14 +929,14 @@ hin:कोई (koī). urd:(koī).			koy	:	some	iu	jokin (joku)	jakiś
 fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).			krem	:	cream	kremo	kerma	krem				
 eng:fra:por:crime. spa:crimen. tgl:krimen.			krim	:	crime	krimo	rikos	przestępstwo				
 			krimi	:	criminal	krima	rikos- (rikollinen)	kryminalny, przestępczy				
-			kriste	:	Christ (messiah)	kristo	kristus	Chrystus, mesjasz				
+			kriste	:	Christ (messiah)	kristo	kristus (messias)	Chrystus, mesjasz				
 			kriste jen	:	Christmas	kristnasko	joulu	Boże Narodzenie				
-			kristi	:	Christian		kristitty	chrześcijański				
-			kristia	:	Christendom		kristikunta	chrześcijaństwo				
-			kristisme	:	Christianity		kristinusko	chrześcijaństwo				
+			kristi	:	messianic		messiaaninen					
+			krististe	:	Christian		kristitty					
+			krististia	:	Christianity		kristinusko	chrześcijaństwo				
 			krita	:	cry (shout)		huutaa	krzyknąć, krzyczeć				
 	made	Kr	kriton	:	krypton	kriptono	kryptoni	krypton				
-eng:crisis. fra:por:crise. deu:Krise. rus:кризис "krizis". spa:crisis.			kriz	:	crisis	krizo	kriisi (käännekohta)	kryzys				
+eng:crisis. fra:por:crise. deu:Krise. rus:кризис "krizis". spa:crisis.			krize	:	crisis	krizo	kriisi (käännekohta)	kryzys				
 			krizi	:	critical (pertaining to crisis)		kriittinen (kriisi-)	kryzysowy				
 	made	Cr	krom	:	chromium	kromo	kromi	chrom				
 rus:крот (krot). cze:slk:krt.			krote	:	mole (burrowing animal)		kontiainen (maamyyrä)	kret				
@@ -1184,7 +1195,7 @@ swa: mnara. tur: minare. + eng:minaret.			minare	:	tower	turo	torni	wieża
 zho: 明 (míng). vie:minh. kor:명 (myeong).			ming	:	bright (clear)		kirkas (selkeä)	jasny, czysty				
 			mini	:	tiny (mini-)	eta	pikkuruinen (mini-)	mały, mini-				
 			minim	:	least (minimally)	malplej	vähiten	najmniej, minimalnie				
-			minimalisme	:	minimalism		minimalismi	minimalizm				
+			minimalistia	:	minimalism		minimalismi	minimalizm				
 			minimi	:	minimal		vähimmäis-	minimal				
 swa:hau:waziri. ara:"wazir". hin:वज़ीर "vazir". tur:vezir. eng:vizier. spa:visir.			minister	:	minister	ministro	ministeri	minister				
 			ministeria	:	ministry		ministeriö	ministry				
@@ -1213,7 +1224,7 @@ ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, 
 	dex	MC	monako	:	Monaco		Monaco	Monako				
 			mongol	:	Mongol	mongola	mongoli	Mongolski				
 	dex	MN	mongolia	:	Mongolia	Mongolio	Mongolia	Mongolia				
-			monisme	:	monism	monismo	monismi	monizm	monismo			
+			monistia	:	monism	monismo	monismi	monizm	monismo			
 			monster	:	monster	monstro	hirviö	potwór, monstrum				
 			moral	:	morality (ethics)		moraali (etiikka)	moralność, etyka				
 			morfe	:	morph		morfi	morf				
@@ -1273,7 +1284,8 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 			nasi	:	popular		kansan-	ludowy				
 			nasia	:	nation		kansakunta	naród, narodowość				
 			nasial	:	national		kansallinen	narodowy				
-			nasialisme	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm				
+			nasialiste	:	nationalist		nationalisti					
+			nasialistia	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm				
 	made	Na	natre	:	sodium	natrio	natrium	sód				
 	dex	NR	nauru	:	Nauru		Nauru	Nauru				
 			nawati	:	Nahuatl (Nahua)	naūatla	nahuatli	nahuatl				
@@ -1335,7 +1347,8 @@ per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.			nowi	:	new (
 	dex	NZ	nowi zilandia	:	New Zealand		Uusi-Seelanti	Nowa Zelandia				
 			noy	:	nine (9)		yhdeksän	dziewięć (9)				
 			nudi	:	naked (bare)		alaston (paljas, naku)	nagi, goły, obnażony				
-			nudisme	:	nudism		nudismi	nudyzm				
+			nudiste	:	nudist		nudisti					
+			nudistia	:	nudism		nudismi	nudyzm				
 			nul	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden				
 			nul ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba				
 			nul xey	:	nothing		ei mitään	nic, żadna rzecz				
@@ -1469,7 +1482,8 @@ eng:plant. por:spa:planta. fra:plante.			plante	:	plant (vegetation)	planto	kasv
 	made	Pt	platin	:	platinum	plateno	platina	platyna				
 			platon	:	Plato		Platon	Platon				
 			platoni	:	Platonic		platoninen	platoniczne				
-			platonisme	:	Platonism		platonismi	platonizm				
+			platoniste	:	Platonist		platonisti					
+			platonistia	:	Platonism		platonismi	platonizm				
 	made	Pb	plumbe	:	lead	plumbo	lyijy	ołów				
 			plus	:	also (plus, too)	ankaŭ	myös (lisäksi, plus)	też, również				
 			pluto	:	Pluto (dwarf planet)		Pluto (kääpiöplaneetta)	Pluton (planeta karłowata)				
@@ -1547,8 +1561,9 @@ hin:राज्य (rājya). ben:রাজ্য (rajyô).			rajia	:	kingdom		k
 			randa	:	plane (plane tool)			hebel, strug				
 			rang	:	color	koloro	väri	kolor				
 			rapid	:	fast (quick)			szybki, prędki				
-			rase	:	race (ethnicity)		rotu	rasa, narodowość				
-			rasisme	:	racism		rasismi (rotuoppi)	rasizm				
+			ras	:	race (ethnicity)	raco	rotu	rasa, narodowość				
+			rasiste	:	racist	racisto	rasisti					
+			rasistia	:	racism	racismo	rasismi (rotuoppi)	rasizm				
 ara:(rasm). hin:रस्म (rasma). ind:resmi.			rasme	:	custom (tradition, practice, convention)		tapa (perinne)	obyczaj, zwyczaj, tradycja, praktyka, konwencja				
 			rasmi	:	conventional (customary, traditional)		tavanomainen (perinteinen)	konwencjonalny, zwyczajowy, tradycyjny				
 			raste	:	growth		kasvu	wzrost				
@@ -1706,6 +1721,8 @@ tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).			sesa
 rus:сидеть "sidet'". eng:sit. deu:sitzen. ita:sedere.			sida	:	sit	sidi	istua	siedzieć				
 			sife	:	quality (charasteristic)			cecha, właściwość, parametr				
 			sigar	:	cigarette (cigar)		savuke tai sikari	papieros (cygar)				
+			sikiste	:	Sikh		sikhi					
+			sikistia	:	Sikhism		sikhiläisyys					
 	made	Si	silike	:	silicon	silicio	pii	krzem				
 hin:सिलसिला (silsilā). ara:(silsila). tur:silsile.			silsil	:	chain		ketju	łańcuch				
 			simpli	:	simple (not complicated)	simpla	yksinkertainen (mutkaton)	prosty, nieskomplikowany				
@@ -1730,7 +1747,8 @@ eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).			site	
 eng:so. deu:so. jpn:そう "sō".			so	:	so (like this, like that)	tiel	siten (täten)	tak, w ten sposób				
 rus:социум (socium). eng:society. spa:sociedad.			socia	:	society (social system)		yhteiskunta	społeczeństwo, system społeczny				
 			social	:	social		yhteiskunnallinen (sosiaalinen)	społeczny				
-			socialisme	:	socialism		sosialismi	socjalizm				
+			socialiste	:	socialist		sosialisti					
+			socialistia	:	socialism		sosialismi	socjalizm				
 			sofa	:	sofa (couch)	sofo	sohva	sofa, kanapa				
 			sofi	:	wise		viisas	mądry				
 			sofia	:	wisdom	saga	viisaus	mądrość				
@@ -1804,6 +1822,7 @@ zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda
 			tabia	:	nature (environment)	naturo	luonto	natura, środowisko				
 			tabial	:	environmental (natural)		ympäristö- (luonto-)	środowiskowy, naturalny				
 			taibei	:	Taipei		Taipei	Tajpej				
+			taiga	:	taiga	tajgo	taiga	tajga				
 	dex	TW	taiwan	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska				
 	dex	TJ	tajikia	:	Tajikistan		Tadžikistan	Tadżykistan				
 eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".			takse	:	tax (fee, fare)		taksa (vero)	podatek, opłata				
@@ -1820,15 +1839,14 @@ hin:mar:तन (tan). per:urd:(tan). taj:тан (tan). tha:ตน (ton). vie:th�
 	made	Ta	tantalum	:	tantalum	tantalo		tantal				
 	dex	TZ	tanzania	:	Tanzania	Tanzanio	Tansania	Tanzania				
 			tape	:	tap (stopper)		tulppa (tappi, korkki)	kran; korek, zatyczka, szpunt				
-			tas	:	dish		astia (kulho)				блюдо (таз)	
-eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).			tarif	:	fee (fare, tariff, rate)		taksa (tariffi)	taryfa				
+eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).			tarif	:	fee (fare, tariff, rate)		taksa (tariffi)	opłata, taryfa				
 ara:"tarjama". hin:तर्जुमा "tarjuma". urd:"tarjuma". ind:terjemah. tur:tercüme.			tarjum	:	translation (interpretation)	traduko	käännös (tulkinta)	tłumaczenie, interpretacja		翻译	перевод	traduction
 			tarjuma	:	translate (interpret)	traduki	tulkata (kääntää)	przetłumaczyć, tłumaczyć, interpretować				
 			tarjumer	:	interpreter (translator)	tradukisto	tulkki (kääntäjä)	tłumacz				
+			tas	:	dish	plado	astia (kulho)	danie			блюдо (таз)	
 por:tática. ita:tattica. eng:tactic. rus:тактика (taktika). deu:Taktik.			tatike	:	tactics (strategy)		taktiikka	taktyka, strategia				
-			tatu	:	tattoo		tatuointi	tatuaż				
+			tatu	:	tattoo	tatuo	tatuointi	tatuaż				
 hin:तवा "tavā". tur:tava. per:"tābe".			tawa	:	frying pan	pato	pannu (paistinpannu)	patelnia				
-			taiga	:	taiga	tajgo	taiga	tajga				
 tur:taze.			tazi	:	fresh	freŝa	tuore (raikas)	świeży		新鲜的	свежий	frais
 			tekne	:	technique (technology)	tekniko	tekniikka (keino, menetelmä)	technika, technologia		技术		technique
 			tekne lojia	:	technology (study of techniques)	teknologio	tekniikka (teknologia)	technologia, nauka o technikach		工艺学	технология	technologie
@@ -1840,7 +1858,7 @@ tur:taze.			tazi	:	fresh	freŝa	tuore (raikas)	świeży		新鲜的	свежий	
 	nas		telugú	:	Telugu		telugu (eräs intialainen kieli)	telugu				
 	made	Te	telurium	:	tellurium	teluro		tellur				
 fra: thème. spa: tema. rus: тема /tema/.			tem	:	topic (subject, theme)	temo	aihe (teema)	temat, motyw		主题目	тема	sujet (thème)
-			tema	:	be about (discuss as a subject)		aiheesta (-sta)	być o; dyskutować o				
+			tema	:	be about (discuss as a subject)	esti pri; pridiskuti	aiheesta (-sta)	być o; dyskutować o				
 			tena	:	hold (keep)	teni	pitää	trzymać				
 ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.			tende	:	tent	tendo	teltta	namiot		帐篷	палатка (шатёр)	tente
 	made	Ts	tenesin	:	tennessine	teneso		tenesyn, tennessine				
@@ -1850,8 +1868,9 @@ zho:天气 "tiănqì". jpn:天気 "tenki". 			tenki	:	weather	vetero	sää	pogod
 			teoria	:	theory	teorio	teoria	teoria				
 eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	taśma			лента	ruban (bande)
 	made	Tb	terbium	:	terbium	terbio		terb				
-			teror	:	terror		kauhu (terrori)	terror				
-			terorisme	:	terrorism		terrorismi	terroryzm		恐怖行为	терроризм	terrorisme
+			teror	:	terror	teroro	kauhu (terrori)	terror				
+			teroriste	:	terrorist	teroristo	terroristi					
+			teroristia	:	terrorism	terorismo	terrorismi	terroryzm		恐怖行为	терроризм	terrorisme
 eng:test. rus: тест "test".			teste	:	test (challenge, trial)	testo	koe (testi, koettelemus)	test, wyzwanie, próba		化验	анализ (тест)	épreuve (test)
 			teyan	:	suggestion (proposal)		ehdotus	sugestia, propozycja				
 			teyana	:	suggest (propose)		ehdottaa	sugerować, proponować				
@@ -1909,8 +1928,8 @@ eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.			tul	:	tool
 spa:túnica. eng:tunic. rus:туника (tunika).			tunike	:	tunic (gown)	robo	mekko (tunika)	tunika, toga				
 	dex	TN	tunisia	:	Tunisia		Tunisia	Tunezja				
 			tur	:	tour (trip)		retki (matka)	podróż, wycieczka				
-			turisme	:	tourism		turismi	turystyka				
 			turiste	:	tourist		turisti	turysta				
+			turistia	:	tourism		turismi	turystyka				
 			turki	:	Turkish		turkkilainen	turecki				
 	dex	TR	turkia	:	Turkey	Turkio	Turkki	Turcja				
 	dex	TM	turkmenia	:	Turkmenistan		Turkmenistan	Turkmenistan				
@@ -2077,7 +2096,8 @@ tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:			zaman	:	time (moment)		aika (h
 	dex	ZM	zambia	:	Zambia	Zambio	Sambia	Zambia				
 ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).			zar	:	hazard (chance)	hazardo	sattuma (onni)	niebezpieczeństwo, ryzyko, szansa				
 			zardux	:	Zoroaster	Zoroastro	Zarathustra	Zaratusztra				
-			zarduxisme	:	Zoroastrianism	zoroastrismo	zarathustralaisuus	zaratusztrianizm				
+			zarduxiste	:	Zoroastrian	zoroastristo	zarathustralainen					
+			zarduxistia	:	Zoroastrianism	zoroastrismo	zarathustralaisuus	zaratusztrianizm				
 			zari	:	random	hazarda	sattumanvarainen	losowy				
 zho: 在 "zài". jpn: "zai".			zay	:	present (current, existing)	ĉeestanta (nuna, ekzistanta)	kuluva (tämänhetkinen)	obecny, teraźniejszy, aktualny, bieżący, współczesny				
 			zay den	:	today	hodiaŭ	tänään	dziś, dzisiaj				

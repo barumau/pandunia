@@ -179,7 +179,8 @@ brazilia : Brazilo
 brom : bromo  
 brox : broso  
 budan : Merkuro  
-budisme : budhismo  
+budiste : budhisto  
+budistia : budhismo  
 bufon : pajaco  
 bujete : buĝeto  
 buke : libro  
@@ -370,8 +371,8 @@ fata : fari (fabriki)
 fate : fabrikaĵo  
 fater : fabrikisto  
 fateria : fabriko  
-faxisme : faŝismo  
 faxiste : faŝisto  
+faxistia : faŝismo  
 fay : fajro  
 feber : febro  
 fem bace : filino  
@@ -542,8 +543,8 @@ hidre : hidrogeno
 him rose : frosto  
 him : neĝo  
 himalia : Himalajo  
-hindú : hinduo  
-hindúisme : hinduismo  
+hindiste : hinduo  
+hindistia : hinduismo  
 hisaba : kalkuli  
 hisabe : kalkulo  
 histor : historio  
@@ -569,7 +570,8 @@ ibri : Hebrea
 ice : voli  
 idey : ideo  
 ideyal : ideala  
-ideyalisme : idealismo  
+ideyaliste : idealisto  
+ideyalistia : idealismo  
 igen : opinio  
 indium : indio  
 indonesia : Indonezio  
@@ -582,9 +584,9 @@ iran : Iranio
 iridium : iridio  
 is : glacio  
 isi : glacia  
-islam : islamo  
-islami xaria : ŝario  
-islami : islama  
+islamisti xaria : ŝario  
+islamisti : islama  
+islamistia : islamo  
 islandia : Islando  
 israel : Israelo  
 italia : Italio  
@@ -701,8 +703,8 @@ komal : mola
 kompania : kompanio (firmao)  
 komputer : komputero  
 komun : komuna  
-komunisme : komunismo  
 komuniste : komunisto  
+komunistia : komunismo  
 kon : angulo  
 konsida : rigardi ia  
 kontra : kontraŭ  
@@ -724,7 +726,7 @@ krimi : krima
 kriste jen : kristnasko  
 kriste : kristo  
 kriton : kriptono  
-kriz : krizo  
+krize : krizo  
 krom : kromo  
 kube : kubo  
 kul : bonega (mojosa)  
@@ -853,7 +855,7 @@ molidenum : molibdeno
 mon : nur  
 mongol : mongola  
 mongolia : Mongolio  
-monisme : monismo  
+monistia : monismo  
 monster : monstro  
 morta : mortigi  
 morte : morto  
@@ -1007,6 +1009,9 @@ radium : radiumo
 radon : radono  
 rajer : reĝo aŭ reĝino  
 rang : koloro  
+ras : raco  
+rasiste : racisto  
+rasistia : racismo  
 rastu : kreski  
 redi : preta  
 ren : persono  
@@ -1137,6 +1142,8 @@ tanzania : Tanzanio
 tarjum : traduko  
 tarjuma : traduki  
 tarjumer : tradukisto  
+tas : plado  
+tatu : tatuo  
 tawa : pato  
 tazi : freŝa  
 tekne lojia : teknologio  
@@ -1148,6 +1155,7 @@ tele wide : televidilo
 tele : malproksimeco  
 telurium : teluro  
 tem : temo  
+tema : esti pri; pridiskuti  
 tena : teni  
 tende : tendo  
 tenesin : teneso  
@@ -1156,6 +1164,9 @@ tenki : vetero
 teoria : teorio  
 tepe : bendo  
 terbium : terbio  
+teror : teroro  
+teroriste : teroristo  
+teroristia : terorismo  
 teste : testo  
 tira milke : melki  
 tira : tiri  
@@ -1259,7 +1270,8 @@ zaitun : olivo
 zambia : Zambio  
 zar : hazardo  
 zardux : Zoroastro  
-zarduxisme : zoroastrismo  
+zarduxiste : zoroastristo  
+zarduxistia : zoroastrismo  
 zari : hazarda  
 zay den : hodiaŭ  
 zay : ĉeestanta (nuna, ekzistanta)  

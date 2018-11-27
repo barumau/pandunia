@@ -4,6 +4,7 @@
 -er : suffix for doer  
 -i : suffix for adjectives  
 -ia : suffix for areas  
+-iste : one who supports a certain ideology or a way of life  
 -u : suffix for verbs with OVS word order  
 ##a  
 a : but (whereas)  
@@ -96,6 +97,8 @@ badawi : bedouin (nomadic)
 bade : consequence (follow-up)  
 bagaje : luggage (baggage)  
 bagre : tiger  
+bahaiste : Baha'ist  
+bahaistia : Baha'ism  
 bahama : Bahamas  
 bahrain : Bahrain  
 bal : strong  
@@ -208,7 +211,8 @@ brox : brush
 bruney : Brunei Darussalam  
 budan : Mercury  
 bude : Buddha  
-budisme : Buddhism  
+budiste : Buddhist  
+budistia : Buddhism  
 bufon : fool (buffoon)  
 bujete : budget  
 buke : book  
@@ -300,9 +304,11 @@ darse bace : student (pupil)
 darse gurú : teacher  
 darse kan : school (institution)  
 darse : lesson  
-darwinisme : Darwinism  
+darwiniste : Darwinist  
+darwinistia : Darwinism  
 daw : way (road)  
-dawisme : Taoism  
+dawiste : Taoist  
+dawistia : Taoism  
 day : big (very, greatly)  
 dayu : grow (get bigger)  
 dayxi kan : embassy  
@@ -323,7 +329,8 @@ dew lojia : theology
 dew : god (deity)  
 dewi sage : myth (divine story)  
 dewi : divine (godly)  
-dewisme : theism  
+dewiste : theist  
+dewistia : theism  
 dex : country (land)  
 deya stan : countryside  
 deya : village  
@@ -425,8 +432,8 @@ fate : product
 fater : maker (manufacturer, factor)  
 fateria : factory  
 faxe : bandage (strip, ribbon)  
-faxisme : fascism  
 faxiste : fascist  
+faxistia : fascism  
 faxon : fashion (trend)  
 faxoni : popular (trendy)  
 fay : fire  
@@ -630,8 +637,8 @@ hidre : hydrogen
 him rose : frost  
 him : snow  
 himalia : Himalayas  
-hindú : Hindu  
-hindúisme : Hinduism  
+hindiste : Hindu  
+hindistia : Hinduism  
 hisaba : calculate  
 hisabe : calculation (arithmetic, computation)  
 histor : history (annals)  
@@ -661,7 +668,8 @@ ibri : Hebrew
 ice : will (volition, desire)  
 idey : idea  
 ideyal : ideal (optimal)  
-ideyalisme : idealisme  
+ideyaliste : idealist  
+ideyalistia : idealisme  
 igen : opinion (view)  
 impera : reign (rule as an emperor)  
 imperer : emperor  
@@ -682,9 +690,12 @@ iran : Iran
 iridium : iridium  
 is : ice  
 isi : icy  
-islam : Islam  
-islami xaria : shari'a  
-islami : Islamic  
+islam : submission (surrender)  
+islamiste : muslim (moslem)  
+islamisti xaria : shari'a  
+islamisti : Islamic  
+islamistia : Islam  
+islamu : surrender (submit)  
 islandia : Iceland  
 israel : Israel  
 italia : Italy  
@@ -892,8 +903,8 @@ kompania : company (corporation)
 komputa : compute (to process data)  
 komputer : computer  
 komun : common (shared)  
-komunisme : communism  
 komuniste : communist  
+komunistia : communism  
 komá : comma  
 kon : corner (angle)  
 koncung : insect  
@@ -930,12 +941,12 @@ krim : crime
 krimi : criminal  
 kriste jen : Christmas  
 kriste : Christ (messiah)  
-kristi : Christian  
-kristia : Christendom  
-kristisme : Christianity  
+kristi : messianic  
+krististe : Christian  
+krististia : Christianity  
 krita : cry (shout)  
 kriton : krypton  
-kriz : crisis  
+krize : crisis  
 krizi : critical (pertaining to crisis)  
 krom : chromium  
 krote : mole (burrowing animal)  
@@ -1196,7 +1207,7 @@ minare : tower
 ming : bright (clear)  
 mini : tiny (mini-)  
 minim : least (minimally)  
-minimalisme : minimalism  
+minimalistia : minimalism  
 minimi : minimal  
 minister : minister  
 ministeria : ministry  
@@ -1225,7 +1236,7 @@ mon : only (alone, solely, just)
 monako : Monaco  
 mongol : Mongol  
 mongolia : Mongolia  
-monisme : monism  
+monistia : monism  
 monster : monster  
 moral : morality (ethics)  
 morfe : morph  
@@ -1286,7 +1297,8 @@ nas : people (folk)
 nasi : popular  
 nasia : nation  
 nasial : national  
-nasialisme : nationalism  
+nasialiste : nationalist  
+nasialistia : nationalism  
 natre : sodium  
 nauru : Nauru  
 nawati : Nahuatl (Nahua)  
@@ -1348,7 +1360,8 @@ nowi zilandia : New Zealand
 nowi : new (recent)  
 noy : nine (9)  
 nudi : naked (bare)  
-nudisme : nudism  
+nudiste : nudist  
+nudistia : nudism  
 nul ren : nobody (no-one)  
 nul xey : nothing  
 nul : zero (none)  
@@ -1484,7 +1497,8 @@ plate : plate
 platin : platinum  
 platon : Plato  
 platoni : Platonic  
-platonisme : Platonism  
+platoniste : Platonist  
+platonistia : Platonism  
 plumbe : lead  
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
@@ -1563,8 +1577,9 @@ ramazan : Ramadan
 randa : plane (plane tool)  
 rang : color  
 rapid : fast (quick)  
-rase : race (ethnicity)  
-rasisme : racism  
+ras : race (ethnicity)  
+rasiste : racist  
+rasistia : racism  
 rasme : custom (tradition, practice, convention)  
 rasmi : conventional (customary, traditional)  
 raste : growth  
@@ -1723,6 +1738,8 @@ sibir : Siberia
 sida : sit  
 sife : quality (charasteristic)  
 sigar : cigarette (cigar)  
+sikiste : Sikh  
+sikistia : Sikhism  
 silike : silicon  
 silsil : chain  
 simpli : simple (not complicated)  
@@ -1747,7 +1764,8 @@ slowenia : Slovenia
 so : so (like this, like that)  
 socia : society (social system)  
 social : social  
-socialisme : socialism  
+socialiste : socialist  
+socialistia : socialism  
 sofa : sofa (couch)  
 sofi : wise  
 sofia : wisdom  
@@ -1869,7 +1887,8 @@ teoria : theory
 tepe : tape  
 terbium : terbium  
 teror : terror  
-terorisme : terrorism  
+teroriste : terrorist  
+teroristia : terrorism  
 teste : test (challenge, trial)  
 teyan : suggestion (proposal)  
 teyana : suggest (propose)  
@@ -1927,8 +1946,8 @@ tung : hurt (pain)
 tunike : tunic (gown)  
 tunisia : Tunisia  
 tur : tour (trip)  
-turisme : tourism  
 turiste : tourist  
+turistia : tourism  
 turki : Turkish  
 turkia : Turkey  
 turkmenia : Turkmenistan  
@@ -2101,7 +2120,8 @@ zaman : time (moment)
 zambia : Zambia  
 zar : hazard (chance)  
 zardux : Zoroaster  
-zarduxisme : Zoroastrianism  
+zarduxiste : Zoroastrian  
+zarduxistia : Zoroastrianism  
 zari : random  
 zay den : today  
 zay : present (current, existing)  

@@ -55,7 +55,7 @@ sujet (thème) : tem
 technique : tekne  
 technologie : tekne lojia  
 tente : tende  
-terrorisme : terorisme  
+terrorisme : teroristia  
 tigre : bagre  
 tirer : tira milke  
 tomate : tomate  

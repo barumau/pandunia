@@ -95,6 +95,8 @@ badawi : beduiini
 bade : seuraus  
 bagaje : matkatavarat  
 bagre : tiikeri  
+bahaiste : bahailainen  
+bahaistia : bahailaisuus  
 bahama : Bahama-saaret  
 bahrain : Bahrain  
 bal : voimakas (vahva)  
@@ -206,7 +208,8 @@ brox : harja
 bruney : Brunei  
 budan : Merkurius  
 bude : Buddha  
-budisme : buddhalaisuus (buddhismi)  
+budiste : buddhalainen  
+budistia : buddhalaisuus (buddhismi)  
 bufon : hölmö (narri)  
 bujete : budjetti  
 buke : kirja  
@@ -298,9 +301,11 @@ darse bace : oppilas
 darse gurú : opettaja  
 darse kan : koulu (opisto)  
 darse : oppi (opetus)  
-darwinisme : darwinismi  
+darwiniste : darwinisti  
+darwinistia : darwinismi  
 daw : tie  
-dawisme : taolaisuus  
+dawiste : taolainen  
+dawistia : taolaisuus  
 day : iso (suuri; isosti, paljon)  
 dayu : kasvaa (suurentua)  
 dayxi kan : lähetystö  
@@ -321,7 +326,8 @@ dew lojia : teologia
 dew : jumala  
 dewi sage : jumaltaru (myytti)  
 dewi : jumalallinen  
-dewisme : teismi (jumalusko)  
+dewiste : teisti  
+dewistia : teismi (jumalusko)  
 dex : maa (valtio)  
 deya stan : maaseutu  
 deya : kylä  
@@ -423,8 +429,8 @@ fate : teos (tuote)
 fater : tekijä (valmistaja)  
 fateria : tehdas  
 faxe : side (remmi)  
-faxisme : fasismi  
 faxiste : fasisti  
+faxistia : fasismi  
 faxon : trendi  
 faxoni : suosittu (trendikäs)  
 fay : tuli  
@@ -628,8 +634,8 @@ hidre : vety
 him rose : kuura  
 him : lumi  
 himalia : Himalaja  
-hindú : hindu  
-hindúisme : hindulaisuus (hinduismi)  
+hindiste : hindu  
+hindistia : hindulaisuus (hinduismi)  
 hisaba : laskea (tehdä laskutoimitus)  
 hisabe : laskutoimitus  
 histor : historia (aikakirjat)  
@@ -659,7 +665,8 @@ ibri : heprea
 ice : halu (tahto)  
 idey : idea (aate)  
 ideyal : ihanteellinen (ideaali)  
-ideyalisme : idealismi  
+ideyaliste : idealisti  
+ideyalistia : idealismi  
 igen : mielipide (näkemys)  
 impera : hallita yksinvaltaisesti  
 imperer : keisari  
@@ -680,9 +687,12 @@ iran : Iran
 iridium : iridium  
 is : jää  
 isi : jäinen  
-islam : islam  
-islami xaria : šaria  
-islami : islamilainen  
+islam : alistuminen (antautuminen)  
+islamiste : muslimi (islaminuskoinen)  
+islamisti xaria : šaria  
+islamisti : islamilainen  
+islamistia : islam  
+islamu : alistua (antautua)  
 islandia : Islanti  
 israel : Israel  
 italia : Italia  
@@ -890,8 +900,8 @@ kompania : yritys (yhtiö)
 komputa : käsitellä dataa  
 komputer : tietokone  
 komun : yhteinen  
-komunisme : kommunismi  
 komuniste : kommunisti  
+komunistia : kommunismi  
 komá : pilkku  
 kon : kulma (nurkka)  
 koncung : hyönteinen (ötökkä)  
@@ -927,13 +937,13 @@ krem : kerma
 krim : rikos  
 krimi : rikos- (rikollinen)  
 kriste jen : joulu  
-kriste : kristus  
-kristi : kristitty  
-kristia : kristikunta  
-kristisme : kristinusko  
+kriste : kristus (messias)  
+kristi : messiaaninen  
+krististe : kristitty  
+krististia : kristinusko  
 krita : huutaa  
 kriton : kryptoni  
-kriz : kriisi (käännekohta)  
+krize : kriisi (käännekohta)  
 krizi : kriittinen (kriisi-)  
 krom : kromi  
 krote : kontiainen (maamyyrä)  
@@ -1191,7 +1201,7 @@ minare : torni
 ming : kirkas (selkeä)  
 mini : pikkuruinen (mini-)  
 minim : vähiten  
-minimalisme : minimalismi  
+minimalistia : minimalismi  
 minimi : vähimmäis-  
 minister : ministeri  
 ministeria : ministeriö  
@@ -1220,7 +1230,7 @@ mon : vain (ainoastaan)
 monako : Monaco  
 mongol : mongoli  
 mongolia : Mongolia  
-monisme : monismi  
+monistia : monismi  
 monster : hirviö  
 moral : moraali (etiikka)  
 morfe : morfi  
@@ -1281,7 +1291,8 @@ nas : kansa
 nasi : kansan-  
 nasia : kansakunta  
 nasial : kansallinen  
-nasialisme : kansallisuusaate (nationalismi)  
+nasialiste : nationalisti  
+nasialistia : kansallisuusaate (nationalismi)  
 natre : natrium  
 nauru : Nauru  
 nawati : nahuatli  
@@ -1343,7 +1354,8 @@ nowi zilandia : Uusi-Seelanti
 nowi : uusi  
 noy : yhdeksän  
 nudi : alaston (paljas, naku)  
-nudisme : nudismi  
+nudiste : nudisti  
+nudistia : nudismi  
 nul ren : ei kukaan  
 nul xey : ei mitään  
 nul : nolla (ei yhtään)  
@@ -1478,7 +1490,8 @@ plate : lautanen
 platin : platina  
 platon : Platon  
 platoni : platoninen  
-platonisme : platonismi  
+platoniste : platonisti  
+platonistia : platonismi  
 plumbe : lyijy  
 plus : myös (lisäksi, plus)  
 pluto : Pluto (kääpiöplaneetta)  
@@ -1543,8 +1556,9 @@ raji : kuninkaallinen
 rajia : kuningaskunta  
 ramazan : ramadan  
 rang : väri  
-rase : rotu  
-rasisme : rasismi (rotuoppi)  
+ras : rotu  
+rasiste : rasisti  
+rasistia : rasismi (rotuoppi)  
 rasme : tapa (perinne)  
 rasmi : tavanomainen (perinteinen)  
 raste : kasvu  
@@ -1651,6 +1665,8 @@ si : kyllä
 sibir : Siperia  
 sida : istua  
 sigar : savuke tai sikari  
+sikiste : sikhi  
+sikistia : sikhiläisyys  
 silike : pii  
 silsil : ketju  
 simpli : yksinkertainen (mutkaton)  
@@ -1674,7 +1690,8 @@ slowenia : Slovenia
 so : siten (täten)  
 socia : yhteiskunta  
 social : yhteiskunnallinen (sosiaalinen)  
-socialisme : sosialismi  
+socialiste : sosialisti  
+socialistia : sosialismi  
 sofa : sohva  
 sofi : viisas  
 sofia : viisaus  
@@ -1777,7 +1794,8 @@ tenta : houkutella
 teoria : teoria  
 tepe : teippi (nauha)  
 teror : kauhu (terrori)  
-terorisme : terrorismi  
+teroriste : terroristi  
+teroristia : terrorismi  
 teste : koe (testi, koettelemus)  
 teyan : ehdotus  
 teyana : ehdottaa  
@@ -1832,8 +1850,8 @@ tung : kipu
 tunike : mekko (tunika)  
 tunisia : Tunisia  
 tur : retki (matka)  
-turisme : turismi  
 turiste : turisti  
+turistia : turismi  
 turki : turkkilainen  
 turkia : Turkki  
 turkmenia : Turkmenistan  
@@ -2001,7 +2019,8 @@ zaman : aika (hetki, kotva)
 zambia : Sambia  
 zar : sattuma (onni)  
 zardux : Zarathustra  
-zarduxisme : zarathustralaisuus  
+zarduxiste : zarathustralainen  
+zarduxistia : zarathustralaisuus  
 zari : sattumanvarainen  
 zay den : tänään  
 zay : kuluva (tämänhetkinen)  

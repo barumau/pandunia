@@ -38,6 +38,8 @@ alapuoli : nice
 alaston (paljas, naku) : nudi  
 Albania : cipia  
 Algeria : jayer  
+alistua (antautua) : islamu  
+alistuminen (antautuminen) : islam  
 alittaa (alla) : nica  
 alkoholi : alkol  
 alkoholinen : alkoli  
@@ -111,6 +113,8 @@ avokado : awakate
 Azerbaidžan : azeria  
 ##b  
 baari (kapakka) : bar  
+bahailainen : bahaiste  
+bahailaisuus : bahaistia  
 Bahama-saaret : bahama  
 Bahrain : bahrain  
 bambu : jug  
@@ -143,7 +147,8 @@ Brazzavillen Kongo : brazavil kongó
 bromi : brom  
 Brunei : bruney  
 Buddha : bude  
-buddhalaisuus (buddhismi) : budisme  
+buddhalainen : budiste  
+buddhalaisuus (buddhismi) : budistia  
 budjetti : bujete  
 Bulgaria : bolgaria  
 Burkina Faso : burkiná  
@@ -160,7 +165,8 @@ Cookin saaret : kuke nesia
 Costa Rica : kosta rika  
 curium : kurium  
 ##d  
-darwinismi : darwinisme  
+darwinismi : darwinistia  
+darwinisti : darwiniste  
 demokratia : demó kratia  
 demoni (piru) : demon  
 desi : deci  
@@ -230,7 +236,7 @@ europium : europium
 evankeliumi : anjil  
 ##f  
 Falklandin saaret : malvina nesia  
-fasismi : faxisme  
+fasismi : faxistia  
 fasisti : faxiste  
 fermium : fermium  
 Fidži : fijia  
@@ -341,8 +347,8 @@ hiljainen (hys, shhh) : xix
 hiljainen : xixi  
 Himalaja : himalia  
 himo (halu) : kam  
-hindu : hindú  
-hindulaisuus (hinduismi) : hindúisme  
+hindu : hindiste  
+hindulaisuus (hinduismi) : hindistia  
 hinta (maksu) : koste  
 hirviö : monster  
 historia (aikakirjat) : histor  
@@ -408,7 +414,8 @@ häviäjä : luzer
 hölmö (narri) : bufon  
 ##i  
 idea (aate) : idey  
-idealismi : ideyalisme  
+idealismi : ideyalistia  
+idealisti : ideyaliste  
 ihanteellinen (ideaali) : ideyal  
 ihminen : manus  
 ihmiskunta : manusia  
@@ -434,8 +441,8 @@ Iran : iran
 iridium : iridium  
 irvistys : grimas  
 isku (šokki) : xoke  
-islam : islam  
-islamilainen : islami  
+islam : islamistia  
+islamilainen : islamisti  
 Islanti : islandia  
 iso (suuri; isosti, paljon) : day  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) : britania  
@@ -551,7 +558,7 @@ kansa : demó
 kansa : nas  
 kansakunta : nasia  
 kansallinen : nasial  
-kansallisuusaate (nationalismi) : nasialisme  
+kansallisuusaate (nationalismi) : nasialistia  
 kansan- : nasi  
 kanssa (luona, -lla, -ssa) : na  
 kapina : rebel  
@@ -687,7 +694,7 @@ kollektiivinen : jami
 kolme (3) : sam  
 kolonia (siirtomaa) : kolonia  
 Kolumbia : kolombia  
-kommunismi : komunisme  
+kommunismi : komunistia  
 kommunisti : komuniste  
 Komorit : komoro nesia  
 kone : maxin  
@@ -722,12 +729,11 @@ koskea (koskettaa) : toca
 koulu (opisto) : darse kan  
 Kreikka : helenia  
 kreikkalainen : helen  
-kriisi (käännekohta) : kriz  
+kriisi (käännekohta) : krize  
 kriittinen (kriisi-) : krizi  
-kristikunta : kristia  
-kristinusko : kristisme  
-kristitty : kristi  
-kristus : kriste  
+kristinusko : krististia  
+kristitty : krististe  
+kristus (messias) : kriste  
 Kroatia : horvatia  
 kromi : krom  
 kruunu : koron  
@@ -1018,6 +1024,7 @@ merkitä (tarkoittaa) : mena
 merkki (jälki) : marke  
 merkki (signaali) : sinye  
 Merkurius : budan  
+messiaaninen : kristi  
 mestari (voittaja) : campion  
 metalli : metal  
 meteli : kelele  
@@ -1039,7 +1046,7 @@ miljardi (giga-) : giga
 miljoona (mega-) : mega  
 milli- : mili  
 milloin? (koska?) : ki zaman  
-minimalismi : minimalisme  
+minimalismi : minimalistia  
 ministeri : minister  
 ministeriö : ministeria  
 minun : mi da  
@@ -1054,7 +1061,7 @@ Monaco : monako
 monarkki (kuningas, kuningatar) : rajer  
 mongoli : mongol  
 Mongolia : mongolia  
-monismi : monisme  
+monismi : monistia  
 Montenegro : cerni goria  
 moottori : moter  
 moraali (etiikka) : moral  
@@ -1075,6 +1082,7 @@ muovi : plastike
 musiikki : musike  
 musketti : muskete  
 musketööri : musketer  
+muslimi (islaminuskoinen) : islamiste  
 musta : kal  
 muste : moge  
 muta (lieju) : potó  
@@ -1106,6 +1114,7 @@ Namibia : namibia
 nano- : nano  
 nappi (näppäin, kytkin) : buton  
 nappi : boton  
+nationalisti : nasialiste  
 natrium : natre  
 natriumglutamaatti : micin  
 naula (piikki) : ding  
@@ -1144,7 +1153,8 @@ normaali : normi
 normi : norme  
 norsu (elefantti) : gajá  
 nostaa pystyyn : liba  
-nudismi : nudisme  
+nudismi : nudistia  
+nudisti : nudiste  
 nukke : pupe  
 nukkua : sona  
 nukkuminen (uni) : son  
@@ -1326,7 +1336,8 @@ planeetta : planete
 platina : platin  
 Platon : platon  
 platoninen : platoni  
-platonismi : platonisme  
+platonismi : platonistia  
+platonisti : platoniste  
 Pluto (kääpiöplaneetta) : pluto  
 plutonium : plutonium  
 pohja : tal  
@@ -1415,7 +1426,8 @@ ramadan : ramazan
 Ranska : fransia  
 Ranskan Guiana : giyan  
 Ranskan Polynesia : fransi polinesia  
-rasismi (rotuoppi) : rasisme  
+rasismi (rotuoppi) : rasistia  
+rasisti : rasiste  
 rasva (öljy) : fete  
 rasvainen : feti  
 ratas : cakre  
@@ -1448,7 +1460,7 @@ Romania : romania
 Rooma : roma  
 Rooman valtakunta : roma empiria  
 roska : laje  
-rotu : rase  
+rotu : ras  
 Ruanda : rwanda  
 ruiske (injektio) : juxe  
 ruiskuttaa : juxa  
@@ -1546,6 +1558,8 @@ siirappi : xirope
 siitin (penis) : penis  
 siivooja : safer  
 sika (possu) : goró  
+sikhi : sikiste  
+sikhiläisyys : sikistia  
 siksakki : zigzage  
 sileä : lis  
 silmä : yen  
@@ -1571,7 +1585,8 @@ Somalia : somalia
 sormi tai varvas : finger  
 sormus : finger wen  
 sorsa (ankka) : batá  
-sosialismi : socialisme  
+sosialismi : socialistia  
+sosialisti : socialiste  
 sotilaallinen : jangi  
 soturi (taistelija) : janger  
 sovellus : aplike  
@@ -1666,7 +1681,8 @@ tankki (säiliö) : tanke
 tanko (sauva, patukka) : baton  
 Tansania : tanzania  
 Tanska : dania  
-taolaisuus : dawisme  
+taolainen : dawiste  
+taolaisuus : dawistia  
 tapa (perinne) : rasme  
 tapa (rutiini) : rutin  
 tapaaminen (kokous) : mite  
@@ -1694,7 +1710,8 @@ tehdä (valmistaa) : fata
 tehdä (valmistaa) : sana  
 tehkäämme : haida  
 teippi (nauha) : tepe  
-teismi (jumalusko) : dewisme  
+teismi (jumalusko) : dewistia  
+teisti : dewiste  
 tekijä (valmistaja) : fater  
 tekijän pääte : -er  
 tekniikka (keino, menetelmä) : tekne  
@@ -1707,7 +1724,8 @@ tennis : tenis
 teologia : dew lojia  
 teoria : teoria  
 teos (tuote) : fate  
-terrorismi : terorisme  
+terrorismi : teroristia  
+terroristi : teroriste  
 tervehdys (terve!) : salame  
 tervetuloa! : salam laye  
 tie : daw  
@@ -1770,7 +1788,7 @@ tuomio : hakim
 tuore (raikas) : tazi  
 tupakka : tabake  
 turbaani : pagre  
-turismi : turisme  
+turismi : turistia  
 turisti : turiste  
 Turkki : turkia  
 turkkilainen : turki  
@@ -2012,7 +2030,8 @@ yttrium : yutrium
 yö : noce  
 ##z  
 Zarathustra : zardux  
-zarathustralaisuus : zarduxisme  
+zarathustralainen : zarduxiste  
+zarathustralaisuus : zarduxistia  
 Zimbabwe : zimbabwe  
 zirkonium : zirkonium  
 zombi : zombe  
@@ -2026,4 +2045,4 @@ zulu : zulu
 šakaali : xakal  
 šamaani : xaman  
 šampoo : xampú  
-šaria : islami xaria  
+šaria : islamisti xaria  

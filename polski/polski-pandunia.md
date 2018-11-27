@@ -146,7 +146,7 @@ brzuch : fubú
 brzydki : mal rupi  
 brązowy, koloru kawy : kafi  
 Budda : bude  
-Buddyzm : budisme  
+Buddyzm : budistia  
 budżet : bujete  
 Burkina Faso : burkiná  
 Burundi : rundi  
@@ -196,9 +196,7 @@ Chorwacja : horvatia
 chory : bing  
 chrom : krom  
 Chrystus, mesjasz : kriste  
-chrześcijański : kristi  
-chrześcijaństwo : kristia  
-chrześcijaństwo : kristisme  
+chrześcijaństwo : krististia  
 chór : kor  
 chłopak : jowan man  
 ciasto, ciastko : keke  
@@ -256,7 +254,8 @@ dach : cate
 daktyl : tamar  
 daleki, odległy : tel  
 Dania : dania  
-darwinizm : darwinisme  
+danie : tas  
+darwinizm : darwinistia  
 dać, dawać : dona  
 debatować, prowadzić dyskurs : lona  
 decy-, dziesiąta część : deci  
@@ -379,7 +378,7 @@ fantazja, wyobrażenie; fantasy; wyobraźnia : fantaze
 fascynacja : fasin  
 fasola lub groch, roślina strączkowa : dow  
 faszysta : faxiste  
-faszyzm : faxisme  
+faszyzm : faxistia  
 fałszywy, nieprawdziwy : falsi  
 ferm : fermium  
 Fidżi : fijia  
@@ -495,8 +494,8 @@ herbata : ca
 heteroseksualny : ali jinse kami  
 hełm : helme  
 Himalaje : himalia  
-hinduistyczny : hindú  
-hinduizm : hindúisme  
+hinduistyczny : hindiste  
+hinduizm : hindistia  
 hipopotam : gubú  
 historia, badanie historii : historia  
 historia; annały, roczniki : histor  
@@ -521,7 +520,7 @@ hę?, co?, pardon? : he
 i, oraz : i  
 ##i  
 idea, pomysł : idey  
-idealizm : ideyalisme  
+idealizm : ideyalistia  
 idealny, optymalny : ideyal  
 igła, szpilka : pin  
 ilustrator, grafik : grafer  
@@ -542,8 +541,8 @@ inżynier : injener
 Irak : irakia  
 Iran : iran  
 iryd : iridium  
-Islam : islam  
-islamski : islami  
+Islam : islamistia  
+islamski : islamisti  
 Islandia : islandia  
 Italia, Włochy : italia  
 iterb : yuterbium  
@@ -677,7 +676,7 @@ komiks; kreskówka : manga
 Komory : komoro nesia  
 komputer : komputer  
 komunista : komuniste  
-komunizm : komunisme  
+komunizm : komunistia  
 komórka (biologia) : sel  
 koniec : fin  
 konkani : konkani  
@@ -720,7 +719,7 @@ krwawić : lowa sang
 kryminalny, przestępczy : krimi  
 krypton : kriton  
 krytyk : pipinger  
-kryzys : kriz  
+kryzys : krize  
 kryzysowy : krizi  
 krzem : silike  
 krzyknąć, krzyczeć : krita  
@@ -912,7 +911,7 @@ milion, mega- : mega
 militarny, wojskowy, wojenny : jangi  
 minerał, ruda : kuang  
 minimal : minimi  
-minimalizm : minimalisme  
+minimalizm : minimalistia  
 minister : minister  
 ministry : ministeria  
 minuta : minut  
@@ -941,7 +940,7 @@ molibden : molidenum
 Monako : monako  
 Mongolia : mongolia  
 Mongolski : mongol  
-monizm : monisme  
+monizm : monistia  
 moralność, etyka : moral  
 morf : morfe  
 morfem : morfem  
@@ -981,7 +980,7 @@ młynarz : moler
 ##n  
 nabardziej, maksymalnie : maxim  
 naciskać, zostawiać ślad : capa  
-nacjonalizm : nasialisme  
+nacjonalizm : nasialistia  
 nadać, wysłać pocztą : posta  
 nadzieja, życzenie : inxala  
 nagi, goły, obnażony : nudi  
@@ -1056,7 +1055,7 @@ Nowa Kaledonia : nowi kaledonia
 Nowa Zelandia : nowi zilandia  
 nowy : nowi  
 nożyce, nożyczki : makas  
-nudyzm : nudisme  
+nudyzm : nudistia  
 numer : numer  
 nylon : nilon  
 nóż : cakú  
@@ -1112,6 +1111,7 @@ opisywać, ilustorawć; przedstawiać : grafa
 opowiadanie, opowieść, legenda, saga : sage  
 opowiedzieć, opowiadać : saga  
 oprócz, minus : minus  
+opłata, taryfa : tarif  
 orgazm : orgazme  
 orientalny smok : rong  
 orija : odisi  
@@ -1233,7 +1233,7 @@ planować : plana
 plastik : plastike  
 Platon : platon  
 platoniczne : platoni  
-platonizm : platonisme  
+platonizm : platonistia  
 platyna : platin  
 plecak : ruk sak  
 plemię : tribe  
@@ -1442,8 +1442,8 @@ Ramadan : ramazan
 ranek, rano, poranek : subá  
 raport : reporte  
 raportować, relacjonować, opowiadać : reporta  
-rasa, narodowość : rase  
-rasizm : rasisme  
+rasa, narodowość : ras  
+rasizm : rasistia  
 rebelia, powstanie : rebel  
 recepta, receptura, przepis : reset  
 rejestr : daftar  
@@ -1585,7 +1585,7 @@ smakować jak : gustu ka
 smakować, próbować smaku : gusta  
 smutny : duki  
 sobota : war 6 (war sis)  
-socjalizm : socialisme  
+socjalizm : socialistia  
 sofa, kanapa : sofa  
 sok : jus  
 Somalia : somalia  
@@ -1665,7 +1665,7 @@ szal, szalik : xal
 szaman : xaman  
 szampon : xampú  
 szansa : canse  
-szariat : islami xaria  
+szariat : islamisti xaria  
 szczepionka : waksin  
 szczoteczka do zębów : dante brox  
 szczotka : brox  
@@ -1718,8 +1718,7 @@ tamten : le
 Tanach, Biblia hebrajska : tanah  
 tantal : tantalum  
 Tanzania : tanzania  
-taoizm : dawisme  
-taryfa : tarif  
+taoizm : dawistia  
 tatuaż : tatu  
 taxi, taksówka : taksi  
 taśma : tepe  
@@ -1728,7 +1727,7 @@ tchórz, fretka : furet
 technet : teknetium  
 technika, technologia : tekne  
 technologia, nauka o technikach : tekne lojia  
-teizm : dewisme  
+teizm : dewistia  
 telefon : tele fon  
 telewizja : tele wide  
 tellur : telurium  
@@ -1745,7 +1744,7 @@ teraz : nun
 teraźniejszość, współczesność : zaye  
 terb : terbium  
 terror : teror  
-terroryzm : terorisme  
+terroryzm : teroristia  
 Terytorium Palestyńskie : filistinia  
 test, wyzwanie, próba : teste  
 też, również : plus  
@@ -1780,7 +1779,7 @@ Turcja : turkia
 turecki : turki  
 Turkmenistan : turkmenia  
 turysta : turiste  
-turystyka : turisme  
+turystyka : turistia  
 tusz : moge  
 Tuwalu : tuvalú  
 tułów : torse  
@@ -2011,7 +2010,7 @@ zapytać, spytać, pytać : eska
 zapłacić, opłacić, płacić : peya  
 zapłata, opłata : pey  
 Zaratusztra : zardux  
-zaratusztrianizm : zarduxisme  
+zaratusztrianizm : zarduxistia  
 zaskoczenie : supris  
 zastosowanie, aplikacja : aplike  
 zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta : faide  

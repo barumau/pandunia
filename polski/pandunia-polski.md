@@ -208,7 +208,7 @@ brox : szczotka
 bruney : Brunei Darussalam  
 budan : Merkury  
 bude : Budda  
-budisme : Buddyzm  
+budistia : Buddyzm  
 bufon : głupiec, bufon  
 bujete : budżet  
 buke : książka  
@@ -300,9 +300,9 @@ darse bace : uczeń, student
 darse gurú : nauczyciel  
 darse kan : szkoła (instytucja)  
 darse : lekcja  
-darwinisme : darwinizm  
+darwinistia : darwinizm  
 daw : droga, szosa, ulica  
-dawisme : taoizm  
+dawistia : taoizm  
 day : duży; bardzo  
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
 dayxi kan : ambasada  
@@ -323,7 +323,7 @@ dew lojia : teologia
 dew : bóg, bóstwo  
 dewi sage : mit, boska opowieść  
 dewi : boski  
-dewisme : teizm  
+dewistia : teizm  
 dex : kraj, ziemia  
 deya stan : wieś, tereny wiejskie  
 deya : wieś, wioska  
@@ -425,8 +425,8 @@ fate : twór; fakt
 fater : twórca, kreator, czynnik  
 fateria : fabryka, manufaktura  
 faxe : bandaż, taśma, wstążka  
-faxisme : faszyzm  
 faxiste : faszysta  
+faxistia : faszyzm  
 faxon : moda, trend  
 faxoni : popularny, modny  
 fay : ogień  
@@ -630,8 +630,8 @@ hidre : wodór
 him rose : szron  
 him : śnieg  
 himalia : Himalaje  
-hindú : hinduistyczny  
-hindúisme : hinduizm  
+hindiste : hinduistyczny  
+hindistia : hinduizm  
 hisaba : kalkulować  
 hisabe : kalkulacja, obliczenia; arytmetyka, kalkulacje  
 histor : historia; annały, roczniki  
@@ -661,7 +661,7 @@ ibri : hebrajski
 ice : wola, chęć  
 idey : idea, pomysł  
 ideyal : idealny, optymalny  
-ideyalisme : idealizm  
+ideyalistia : idealizm  
 igen : opinia, pogląd  
 impera : władać, panować, rządzić jako imperator  
 imperer : imperator  
@@ -682,9 +682,9 @@ iran : Iran
 iridium : iryd  
 is : lód  
 isi : lodowy  
-islam : Islam  
-islami xaria : szariat  
-islami : islamski  
+islamisti xaria : szariat  
+islamisti : islamski  
+islamistia : Islam  
 islandia : Islandia  
 israel : Izrael  
 italia : Italia, Włochy  
@@ -892,8 +892,8 @@ kompania : firma, kompania, korporacja
 komputa : policzyć, liczyć, przetwarzać dane  
 komputer : komputer  
 komun : wspólny  
-komunisme : komunizm  
 komuniste : komunista  
+komunistia : komunizm  
 komá : przecinek  
 kon : kąt  
 koncung : owad  
@@ -930,12 +930,10 @@ krim : przestępstwo
 krimi : kryminalny, przestępczy  
 kriste jen : Boże Narodzenie  
 kriste : Chrystus, mesjasz  
-kristi : chrześcijański  
-kristia : chrześcijaństwo  
-kristisme : chrześcijaństwo  
+krististia : chrześcijaństwo  
 krita : krzyknąć, krzyczeć  
 kriton : krypton  
-kriz : kryzys  
+krize : kryzys  
 krizi : kryzysowy  
 krom : chrom  
 krote : kret  
@@ -1196,7 +1194,7 @@ minare : wieża
 ming : jasny, czysty  
 mini : mały, mini-  
 minim : najmniej, minimalnie  
-minimalisme : minimalizm  
+minimalistia : minimalizm  
 minimi : minimal  
 minister : minister  
 ministeria : ministry  
@@ -1225,7 +1223,7 @@ mon : tylko
 monako : Monako  
 mongol : Mongolski  
 mongolia : Mongolia  
-monisme : monizm  
+monistia : monizm  
 monster : potwór, monstrum  
 moral : moralność, etyka  
 morfe : morf  
@@ -1286,7 +1284,7 @@ nas : ludzie, lud, ludność
 nasi : ludowy  
 nasia : naród, narodowość  
 nasial : narodowy  
-nasialisme : nacjonalizm  
+nasialistia : nacjonalizm  
 natre : sód  
 nauru : Nauru  
 nawati : nahuatl  
@@ -1348,7 +1346,7 @@ nowi zilandia : Nowa Zelandia
 nowi : nowy  
 noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
-nudisme : nudyzm  
+nudistia : nudyzm  
 nul ren : nikt, żadna osoba  
 nul xey : nic, żadna rzecz  
 nul : zero, nic, żaden  
@@ -1484,7 +1482,7 @@ plate : talerz
 platin : platyna  
 platon : Platon  
 platoni : platoniczne  
-platonisme : platonizm  
+platonistia : platonizm  
 plumbe : ołów  
 plus : też, również  
 pluto : Pluton (planeta karłowata)  
@@ -1563,8 +1561,8 @@ ramazan : Ramadan
 randa : hebel, strug  
 rang : kolor  
 rapid : szybki, prędki  
-rase : rasa, narodowość  
-rasisme : rasizm  
+ras : rasa, narodowość  
+rasistia : rasizm  
 rasme : obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 rasmi : konwencjonalny, zwyczajowy, tradycyjny  
 raste : wzrost  
@@ -1747,7 +1745,7 @@ slowenia : Słowenia
 so : tak, w ten sposób  
 socia : społeczeństwo, system społeczny  
 social : społeczny  
-socialisme : socjalizm  
+socialistia : socjalizm  
 sofa : sofa, kanapa  
 sofi : mądry  
 sofia : mądrość  
@@ -1839,10 +1837,11 @@ tanke : zbiornik, cysterna
 tantalum : tantal  
 tanzania : Tanzania  
 tape : kran; korek, zatyczka, szpunt  
-tarif : taryfa  
+tarif : opłata, taryfa  
 tarjum : tłumaczenie, interpretacja  
 tarjuma : przetłumaczyć, tłumaczyć, interpretować  
 tarjumer : tłumacz  
+tas : danie  
 tatike : taktyka, strategia  
 tatu : tatuaż  
 tawa : patelnia  
@@ -1868,7 +1867,7 @@ teoria : teoria
 tepe : taśma  
 terbium : terb  
 teror : terror  
-terorisme : terroryzm  
+teroristia : terroryzm  
 teste : test, wyzwanie, próba  
 teyan : sugestia, propozycja  
 teyana : sugerować, proponować  
@@ -1926,8 +1925,8 @@ tung : ból
 tunike : tunika, toga  
 tunisia : Tunezja  
 tur : podróż, wycieczka  
-turisme : turystyka  
 turiste : turysta  
+turistia : turystyka  
 turki : turecki  
 turkia : Turcja  
 turkmenia : Turkmenistan  
@@ -2100,7 +2099,7 @@ zaman : czas, moment
 zambia : Zambia  
 zar : niebezpieczeństwo, ryzyko, szansa  
 zardux : Zaratusztra  
-zarduxisme : zaratusztrianizm  
+zarduxistia : zaratusztrianizm  
 zari : losowy  
 zay den : dziś, dzisiaj  
 zay : obecny, teraźniejszy, aktualny, bieżący, współczesny  

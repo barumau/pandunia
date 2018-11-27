@@ -114,6 +114,8 @@ bad (ruined, spoiled) : harabi
 bad : mal  
 bag (sack) : sak  
 bah! (yuck!) : fuy  
+Baha'ism : bahaistia  
+Baha'ist : bahaiste  
 Bahamas : bahama  
 Bahrain : bahrain  
 bake : beka  
@@ -237,7 +239,8 @@ brush : brox
 bubble : bulbul  
 bucket : balde  
 Buddha : bude  
-Buddhism : budisme  
+Buddhism : budistia  
+Buddhist : budiste  
 budget : bujete  
 bugle (horn instrument) : laba  
 build (construct) : bina  
@@ -345,9 +348,8 @@ choir (chorus) : kor
 cholera : kolera  
 choose (elect, select) : cunza  
 Christ (messiah) : kriste  
-Christendom : kristia  
-Christian : kristi  
-Christianity : kristisme  
+Christian : krististe  
+Christianity : krististia  
 Christmas : kriste jen  
 chromium : krom  
 church : eglis  
@@ -393,7 +395,7 @@ comic (cartoon) : manga
 comma : komá  
 common (shared) : komun  
 common (universal) : putong  
-communism : komunisme  
+communism : komunistia  
 communist : komuniste  
 Comoros : komoro nesia  
 company (corporation) : kompania  
@@ -443,7 +445,7 @@ cow : mumu
 cream : krem  
 crime : krim  
 criminal : krimi  
-crisis : kriz  
+crisis : krize  
 critic : pipinger  
 critical (pertaining to crisis) : krizi  
 Croatia : horvatia  
@@ -476,7 +478,8 @@ damage (wreck) : awar
 danger (peril) : hatar  
 dangerous : hatari  
 dark (dim) : oskur  
-Darwinism : darwinisme  
+Darwinism : darwinistia  
+Darwinist : darwiniste  
 date fruit : tamar  
 daughter : fem bace  
 day (daytime) : den  
@@ -634,7 +637,7 @@ farmer : nonger
 fart (flatulate) : perda  
 fart (flatulence) : perde  
 fascination : fasin  
-fascism : faxisme  
+fascism : faxistia  
 fascist : faxiste  
 fashion (trend) : faxon  
 fashion (trend) : mode  
@@ -846,8 +849,8 @@ heroic : herói
 heterosexual : ali jinse kami  
 high : gaw  
 Himalayas : himalia  
-Hindu : hindú  
-Hinduism : hindúisme  
+Hindu : hindiste  
+Hinduism : hindistia  
 hinge (pivot) : xarnir  
 hippopotamus : gubú  
 historian : historer  
@@ -896,7 +899,8 @@ Iceland : islandia
 icy : isi  
 idea : idey  
 ideal (optimal) : ideyal  
-idealisme : ideyalisme  
+idealisme : ideyalistia  
+idealist : ideyaliste  
 if (suppose, assume) : gar  
 ill (sick) : bing  
 illustrator (graphic artist) : grafer  
@@ -926,8 +930,8 @@ Iran : iran
 Iraq : irakia  
 iridium : iridium  
 iron : fer  
-Islam : islam  
-Islamic : islami  
+Islam : islamistia  
+Islamic : islamisti  
 island : nes  
 Isle of Man : manin  
 Israel : israel  
@@ -1155,6 +1159,7 @@ melt (liquidize) : maya
 member (participant) : member  
 memory : memor  
 Mercury : budan  
+messianic : kristi  
 metal : metal  
 meter : metre  
 method (way, manner) : metode  
@@ -1171,7 +1176,7 @@ million (mega-) : mega
 mineral (ore) : kuang  
 mineral water : kuang suy  
 minimal : minimi  
-minimalism : minimalisme  
+minimalism : minimalistia  
 minister : minister  
 ministry : ministeria  
 minor (not major) : minor  
@@ -1191,7 +1196,7 @@ money : pese
 Mongol : mongol  
 Mongolia : mongolia  
 mongoose : mungus  
-monism : monisme  
+monism : monistia  
 monster : monster  
 Montenegro : cerni goria  
 month : mes  
@@ -1221,6 +1226,7 @@ music : musike
 musician : musiker  
 musket : muskete  
 musketeer : musketer  
+muslim (moslem) : islamiste  
 must : bixu  
 my : mi da  
 Myanmar (Burma) : bama  
@@ -1236,7 +1242,8 @@ Namibia : namibia
 nano- : nano  
 nation : nasia  
 national : nasial  
-nationalism : nasialisme  
+nationalism : nasialistia  
+nationalist : nasialiste  
 nature (environment) : tabia  
 Nauru : nauru  
 near (close) : jin  
@@ -1290,7 +1297,8 @@ notice (notification) : notis
 notify : notisa  
 November : mes 11 (mes des un)  
 now : nun  
-nudism : nudisme  
+nudism : nudistia  
+nudist : nudiste  
 number : numer  
 nylon : nilon  
 ##o  
@@ -1311,6 +1319,7 @@ old (ancient) : puran
 olive : zaitun  
 Oman : oman  
 one (1) : un  
+one who supports a certain ideology or a way of life : -iste  
 only (alone, solely, just) : mon  
 open (not closed) : kay  
 open : kaya  
@@ -1436,7 +1445,8 @@ plate : plate
 platinum : platin  
 Plato : platon  
 Platonic : platoni  
-Platonism : platonisme  
+Platonism : platonistia  
+Platonist : platoniste  
 play a game : gema  
 play music : musika  
 player (gamer) : gemer  
@@ -1528,8 +1538,9 @@ quote (cite) : cita
 Quran (Koran) : kuran  
 ##r  
 rabbit (hare) : tuze  
-race (ethnicity) : rase  
-racism : rasisme  
+race (ethnicity) : ras  
+racism : rasistia  
+racist : rasiste  
 radio : radio  
 radional (reasonable) : razoni  
 radish : lobak  
@@ -1688,7 +1699,7 @@ shadow : caye
 shaman : xaman  
 shampoo : xampú  
 shape (sculpt) : forma  
-shari'a : islami xaria  
+shari'a : islamisti xaria  
 shea : karite  
 sheep : meme  
 shirt : kamis  
@@ -1706,6 +1717,8 @@ Siberia : sibir
 sibling (brother or sister) : saudar  
 Sierra Leone : salone  
 sign (signal) : sinye  
+Sikh : sikiste  
+Sikhism : sikistia  
 silent : xixi  
 silicon : silike  
 simple (not complicated) : simpli  
@@ -1730,7 +1743,8 @@ snow : him
 so (like this, like that) : so  
 soap : sabun  
 social : social  
-socialism : socialisme  
+socialism : socialistia  
+socialist : socialiste  
 society (social system) : socia  
 sock (stocking) : soke  
 sodium : natre  
@@ -1797,6 +1811,7 @@ strike (punch) : darba
 strong : bal  
 strontium : strontium  
 student (pupil) : darse bace  
+submission (surrender) : islam  
 subway (metro) : tunel tren  
 suck : cupa  
 Sudan : sudan  
@@ -1826,6 +1841,7 @@ Suriname : surinam
 surname (family name) : famil nam  
 surpass (go over) : supra  
 surprise : supris  
+surrender (submit) : islamu  
 surrender (to give up) : salima  
 surround (be around) : sirka  
 sushi : suxí  
@@ -1857,7 +1873,8 @@ Tanakh (Jewish Bible) : tanah
 tank (container) : tanke  
 tantalum : tantalum  
 Tanzania : tanzania  
-Taoism : dawisme  
+Taoism : dawistia  
+Taoist : dawiste  
 tap (stopper) : tape  
 tape : tepe  
 taste (flavor) : guste  
@@ -1887,7 +1904,8 @@ tennis : tenis
 tent : tende  
 terbium : terbium  
 terror : teror  
-terrorism : terorisme  
+terrorism : teroristia  
+terrorist : teroriste  
 test (challenge, trial) : teste  
 thallium : talium  
 thank : danka  
@@ -1897,7 +1915,8 @@ that is (in other words, i.e.) : yani
 that one : le  
 that which : jo  
 theft (steal) : cur  
-theism : dewisme  
+theism : dewistia  
+theist : dewiste  
 theology : dew lojia  
 theory : teoria  
 they : yemen  
@@ -1944,7 +1963,7 @@ topic (subject, theme) : tem
 total (affecting all) : total  
 touch : toca  
 tour (trip) : tur  
-tourism : turisme  
+tourism : turistia  
 tourist : turiste  
 towel : towal  
 tower : minare  
@@ -2125,5 +2144,6 @@ zipper : ziper
 zirconium : zirkonium  
 zombie : zombe  
 Zoroaster : zardux  
-Zoroastrianism : zarduxisme  
+Zoroastrian : zarduxiste  
+Zoroastrianism : zarduxistia  
 Zulu : zulu  

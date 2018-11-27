@@ -57,7 +57,7 @@ tele wide : téléviseur
 tem : sujet (thème)  
 tende : tente  
 tepe : ruban (bande)  
-terorisme : terrorisme  
+teroristia : terrorisme  
 teste : épreuve (test)  
 teze : argument  
 tikete : billet  

@@ -8,13 +8,14 @@ Sometimes regularly derived Pandunia words differ in form and/or meaning from th
 
 **nas** : people, folk (from Arabic ناس /nās/ )  
 **nasi** : popular  
-**nasia** : nation (similar to Afrikaans "nasie" and Russian "нация" /natsiya/ )  
+**nasia** : nation (it resembles Afrikaans "nasie" and Russian "нация" /natsiya/ )  
 **nasial** : national  
-**nasialisme** : nationalism  
+**nasialiste** : nationalist  
+**nasialistia** : nationalism
 
 Sometimes back-derivation leads to new words.
 
-**injenar** : an engineer  
+**injener** : an engineer  
 **injena** : to engineer  
 
 Any words and affixes can be combined together. In other words, you don't have to mimic existing languages.
@@ -22,7 +23,8 @@ Any words and affixes can be combined together. In other words, you don't have t
 **bude** : realization, awareness, enlightenment  
 **buda** : to realize, to become aware of  
 **budi** : aware  
-**budisme** : Buddhism  
+**budiste** : Buddhist  
+**budistia** : Buddhism  
 
 
 ## Origins of Suffixes
@@ -31,19 +33,19 @@ Any words and affixes can be combined together. In other words, you don't have t
 
 **-a** is the marker of verbs in VO word order. It is a common verb ending in many natural languages, including Bengali, Swahili, Romanian and Swedish. So, there are pre-existing models for -a, but also other vowels serve as verb endings in different languages.
 
-### -ar
-
-**-ar** forms nouns that denote an agent. It comes originally from Latin suffix _-arius_, which is present in a handful of English words including _secretary_ (Latin: _secretarius_), _notary_ (Latin: _notarius_) and _vicar_ (Latin: _vicarius_).
-
-This suffix is more productive in Slavic languages. It is used for example in many Serbo-Croatian words, including _ribar_ (fisher), _pekar_ (baker), _ljekar_ (doctor) and _novinar_ (journalist).
-
-Among Romance languages, Romanian uses the suffix -ar. For example _văcar_ (herdsman) and _fierar_ (blacksmith). In Spanish the equivalent suffix is -ero (as in _vaquero_ and _herrero_), -eiro in Portuguese (_vaqueiro_ and _ferreiro_) and -eur in French.
-
-In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Pandunia's **bekar**.
-
 ### -e
 
 **-e** is a usual noun ending in French, English and German.
+
+### -er
+
+**-er** forms nouns that denote an agent. It comes originally from Latin suffix _-arius_, which is present in a handful of English words including _secretary_ (Latin: _secretarius_), _notary_ (Latin: _notarius_) and _vicar_ (Latin: _vicarius_).
+
+This suffix is more productive in Slavic languages. It is used for example in many Serbo-Croatian words, including _ribar_ (fisher), _pekar_ (baker), _ljekar_ (doctor) and _novinar_ (journalist).
+
+Among Romance languages, Romanian uses the suffix -er. For example _văcar_ (herdsman) and _fierar_ (blacksmith). In Spanish the equivalent suffix is -ero (as in _vaquero_ and _herrero_), -eiro in Portuguese (_vaqueiro_ and _ferreiro_) and -eur in French.
+
+In Germanic languages this suffix is most often written -er but the vowel is actually a schwa sound. For example, English _baker_ and German _Bäcker_ sound almost like Pandunia's **beker**.
 
 ### -i
 
@@ -70,12 +72,12 @@ Also in Hungarian -i is a productive adjectival suffix, ex. _kéz_ = hand → _k
 | Turkish  | Asya            | İtalya              | Rusya               | Suriye            | Türkiye             |
 | Arabic   | آسِيَا <br>(āsiyā) | إِيطَالِيَا <br>(ītāliyā) | رُوسِيَا <br>(rūsiyā)  | سُورِيَا <br>(sūriyā) | تُرْكِيَّا <br>(turkiyā)  |
 
-In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English _baker → bakery_, in German _Bäcker → Bäckerei_, in Spanish _panadero → panadería_, and in French _boulanger → boulangerie_. Pandunia adopts also this practice: **bekar** (baker) → **bekaria** (bakery).
+In Romance and Germanic languages this suffix is also productive in deriving place names from names of professions. For example in English _baker → bakery_, in German _Bäcker → Bäckerei_, in Spanish _panadero → panadería_, and in French _boulanger → boulangerie_. Pandunia adopts also this practice: **beker** (baker) → **bekeria** (bakery).
 
 By coincidence, Japanese has a similar sounding suffix for place names:
 パン (pan = bread) → パン屋 (panya = bakery).
 
-The suffix **-ia** is also used with names of governments and other organizations. This is also a common practice across languages. For example **imperia** (empire) has parallels in Spanish _imperio_ and Russian _империя_ /imperiya/. **Rajia** (kingdom) is preceded by Hindi राज्य /rājya/. **Dem kratia** (democracy) of course has many precedents, among others German _Demokratie_.
+The suffix **-ia** is also used with names of governments and other organizations. This is also a common practice across languages. For example **imperia** (empire) has parallels in Spanish _imperio_ and Russian _империя_ /imperiya/. **rajia** (kingdom) is preceded by Hindi राज्य /rājya/. **dem kratia** (democracy) of course has many precedents, among others German _Demokratie_.
 
 In addition **-ia** is used in words for abstract systems of thinking, such as science and religion. There are lots of examples in natural languages for this pattern too.
 
@@ -88,16 +90,16 @@ In addition **-ia** is used in words for abstract systems of thinking, such as s
 | Swahili  | falsafa     | kemia     | fizikia  |
 
 
-### -isme
-
-**-isme** denotes an ideology or a doctrine.
-
 ### -iste
 
 **-iste** is a suffix that denotes a person who tends to behave or think in a certain way. It is a common suffix in Western languages.
 
+### -istia
+
+**-istia** is combination of **-iste** and **-ia**. It means an ideology or a doctrine.
+
 ### -u
 
-"Passive" OV verb ending -u comes from two important West African languages, Hausa (f.ex. _soya_ = to fry; _soyu_ = to be fried) and Wolof (f.ex. _tëj_ = to close; _tëju_ = to be closed).
+"Passive" OV verb ending -u comes from two important West African languages, Hausa (f.ex. _soya_ = to fry; _soyu_ = to be fried) and Wolof (f.ex. _tëj_ = to close; _tëju_ = to get closed).
 
 

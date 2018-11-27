@@ -973,7 +973,16 @@ Causative suffix.
 **nota** to note  
 **notisa** to notify  
 
-#### 11.2.5. -ul-
+#### 11.2.4. -ist-
+
+This suffix that denotes a person who tends to behave or think in a certain way or to follow a certain ideology or religion.
+
+**dew** god  
+**dewiste** theist (one who believes in existence of a god or gods)  
+**dewisti** theistic  
+**dewistia** theism (system of belief in a god or gods)  
+
+#### 11.2.6. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 

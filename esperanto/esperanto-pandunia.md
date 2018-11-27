@@ -175,7 +175,8 @@ bromo : brom
 broso : brox  
 bruna : kafi  
 brusto : sine  
-budhismo : budisme  
+budhismo : budistia  
+budhisto : budiste  
 Bulgario : bolgaria  
 buso : bus  
 butono : boton  
@@ -275,6 +276,7 @@ Eritreo : eritria
 escepte : minus  
 Esperanto : esperanti  
 esperi : inxala  
+esti pri; pridiskuti : tema  
 Estonio : estia  
 estonoteco : wile  
 estonte : wil  
@@ -307,7 +309,7 @@ fantomo : fantom
 fari (fabriki) : fata  
 fascinado : fasin  
 fasono : mode  
-faŝismo : faxisme  
+faŝismo : faxistia  
 faŝisto : faxiste  
 febro : feber  
 feko : kake  
@@ -426,8 +428,8 @@ heroa : herói
 heroo : heró  
 hidrogeno : hidre  
 Himalajo : himalia  
-hinduismo : hindúisme  
-hinduo : hindú  
+hinduismo : hindistia  
+hinduo : hindiste  
 hipopotamo : gubú  
 Hispanio : espania  
 historiisto : historer  
@@ -449,7 +451,8 @@ hotelo : hotel
 ##i  
 iam : koy zaman  
 ideala : ideyal  
-idealismo : ideyalisme  
+idealismo : ideyalistia  
+idealisto : ideyaliste  
 ideo : idey  
 ido (infano) : bace  
 ili : yemen  
@@ -469,8 +472,8 @@ io : koy xey
 Irakio : irakia  
 Iranio : iran  
 iridio : iridium  
-islama : islami  
-islamo : islam  
+islama : islamisti  
+islamo : islamistia  
 Islando : islandia  
 Israelo : israel  
 Italio : italia  
@@ -574,7 +577,7 @@ kompreni : boda
 kompreno : bode  
 komputero : komputer  
 komuna : komun  
-komunismo : komunisme  
+komunismo : komunistia  
 komunisto : komuniste  
 koncentri : fokusa  
 koncentriĝo : fokus  
@@ -602,7 +605,7 @@ krimo : krim
 kriptono : kriton  
 kristnasko : kriste jen  
 kristo : kriste  
-krizo : kriz  
+krizo : krize  
 Kroatio : horvatia  
 krom (escepti) : cula  
 kromo : krom  
@@ -758,7 +761,7 @@ mondlingvo : dunia bax
 mondo : dunia  
 mongola : mongol  
 Mongolio : mongolia  
-monismo : monisme  
+monismo : monistia  
 mono : pese  
 monstro : monster  
 monto : xan  
@@ -886,6 +889,7 @@ pipro : pimente
 piramido : piram  
 piso (urino) : pixa  
 piĝino : pijin  
+plado : tas  
 planto : plante  
 plateno : platin  
 plej : maxim  
@@ -943,6 +947,9 @@ pura : safi
 purigi : safa  
 purigisto : safer  
 ##r  
+racismo : rasistia  
+racisto : rasiste  
+raco : ras  
 radiko : gen  
 radio : radio  
 radiumo : radium  
@@ -1092,6 +1099,7 @@ tamburo : tambur
 tantalo : tantalum  
 Tanzanio : tanzania  
 taso : kupe  
+tatuo : tatu  
 teknecio : teknetium  
 tekniko : tekne  
 teknologio : tekne lojia  
@@ -1108,6 +1116,9 @@ teo : ca
 teologio : dew lojia  
 teorio : teoria  
 terbio : terbium  
+terorismo : teroristia  
+teroristo : teroriste  
+teroro : teror  
 terpomo : patate  
 tertremo : sisme  
 testo : teste  
@@ -1216,7 +1227,8 @@ zebro : zebre
 zinko : zinke  
 zirkonio : zirkonium  
 zono : zon  
-zoroastrismo : zarduxisme  
+zoroastrismo : zarduxistia  
+zoroastristo : zarduxiste  
 Zoroastro : zardux  
 zuluo : zulu  
 Ĉilio : cile  
@@ -1255,7 +1267,7 @@ zuluo : zulu
 ŝamano : xaman  
 ŝampuo : xampú  
 ŝanco : canse  
-ŝario : islami xaria  
+ŝario : islamisti xaria  
 ŝati : suku  
 ŝipo : bote  
 ŝlosilo : cabe  
