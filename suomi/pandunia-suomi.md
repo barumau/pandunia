@@ -1,10 +1,13 @@
--a : verbin pääte  
--e : johdetun substantiivin pääte  
--em : perusyksikköä ilmaiseva liite  
--er : tekijän pääte  
--i : adjektiivin pääte  
--ia : alueen tai alan pääte  
--u : verbin pääte  
+-a : pääte: SVO-sanajärjestyksen verbi  
+-e : pääte: substantiivi  
+-em : pääte: pienin erottuva yksikkö kielitieteessä  
+-er : pääte: tekijä, aikaansaaja  
+-eria : pääte: tekimö  
+-i : pääte: adjektiivi tai adverbi  
+-ia : pääte: ala tai alue  
+-iste : pääte: aatteen kannattaja  
+-istia : pääte: aate tai uskonto  
+-u : pääte: OVS-sanajärjestyksen verbi  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -675,6 +678,8 @@ igen : mielipide (näkemys)
 impera : hallita yksinvaltaisesti  
 imperer : keisari  
 imperia : keisarikunta  
+imperiste : imperialisti  
+imperistia : imperialismi  
 indium : indium  
 indonesia : Indonesia  
 informa : tiedottaa (informoida)  
@@ -901,7 +906,10 @@ koká : kooka
 kola : cola  
 kolera : kolera  
 kolombia : Kolumbia  
+kolona : kolonisoida  
 kolonia : kolonia (siirtomaa)  
+koloniste : kolonialisti  
+kolonistia : kolonialismi  
 kolum : pylväs (pilari)  
 komal : pehmeä  
 komoro nesia : Komorit  
@@ -1295,11 +1303,10 @@ nanas : ananas
 nano : nano-  
 narake : helvetti  
 nas : kansa  
-nasi : kansan-  
+nasi : kansallinen  
 nasia : kansakunta  
-nasial : kansallinen  
-nasialiste : nationalisti  
-nasialistia : kansallisuusaate (nationalismi)  
+nasiste : nationalisti  
+nasistia : kansallisuusaate (nationalismi)  
 natre : natrium  
 nauru : Nauru  
 nawati : nahuatli  
@@ -1581,7 +1588,10 @@ restoran : ravintola
 retra : palata  
 reunion : Reunion  
 rezulte : tulos  
+rici : rikas  
+ris : riisi  
 riske : riski  
+rite : riitti (rituaali, seremonia)  
 ritme : rytmi  
 robote : robotti  
 rokete : raketti  
@@ -1695,10 +1705,10 @@ skandium : skandium
 slowakia : Slovakia  
 slowenia : Slovenia  
 so : siten (täten)  
+soci : yhteiskunnallinen (sosiaalinen)  
 socia : yhteiskunta  
-social : yhteiskunnallinen (sosiaalinen)  
-socialiste : sosialisti  
-socialistia : sosialismi  
+sociste : sosialisti  
+socistia : sosialismi  
 sofa : sohva  
 sofi : viisas  
 sofia : viisaus  
@@ -1758,6 +1768,7 @@ swisia : Sveitsi
 tabake : tupakka  
 tabar : kirves  
 tabel : taulukko  
+tabia lojia : ekologia (ympäristötiede)  
 tabia : luonto  
 tabial : ympäristö- (luonto-)  
 taibei : Taipei  

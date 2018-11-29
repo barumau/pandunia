@@ -808,7 +808,7 @@ losowy : zari
 lub, albo : u  
 lubić, cieszyć się : suku  
 lud, społeczeństwo : demó  
-ludowy : nasi  
+ludowy, narodowy : nasi  
 ludzie, lud, ludność : nas  
 ludzkość, rodzaj ludzki : insania  
 Luksemburg : luksemburgia  
@@ -980,7 +980,7 @@ młynarz : moler
 ##n  
 nabardziej, maksymalnie : maxim  
 naciskać, zostawiać ślad : capa  
-nacjonalizm : nasialistia  
+nacjonalizm : nasistia  
 nadać, wysłać pocztą : posta  
 nadzieja, życzenie : inxala  
 nagi, goły, obnażony : nudi  
@@ -997,7 +997,6 @@ naprawa : xule
 naprawiacz : xuler  
 naprawić, naprawiać : xula  
 narkotyk : droge  
-narodowy : nasial  
 narodziny : jen  
 narzędzie : tul  
 naród, narodowość : nasia  
@@ -1585,7 +1584,7 @@ smakować jak : gustu ka
 smakować, próbować smaku : gusta  
 smutny : duki  
 sobota : war 6 (war sis)  
-socjalizm : socialistia  
+socjalizm : socistia  
 sofa, kanapa : sofa  
 sok : jus  
 Somalia : somalia  
@@ -1604,7 +1603,7 @@ spotkanie, zebranie : mite
 spotkać : mita  
 spowodować, powodować : karenu  
 społeczeństwo, system społeczny : socia  
-społeczny : social  
+społeczny : soci  
 sprawdzić, sprawdzać : ceka  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać : genca  
 sprawiedliwość : xaria  
@@ -1686,7 +1685,7 @@ sztuka  : arte
 szukać : serca  
 Szwajcaria : swisia  
 Szwecja : swenia  
-szybki, prędki : rapid  
+szybki, prędki : rapidi  
 szympans : cimpanze  
 szynszyla : cincil  
 szyszka : konus  

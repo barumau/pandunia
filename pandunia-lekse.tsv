@@ -1,12 +1,14 @@
 loge asle	klase		pandunia		engli	esperanti	suomi	polski	espani	putonghan	rusi	fransi
-			-a	:	suffix for verbs with SVO word order	-i (-igi)	verbin pääte	przyrostek dla czasowników z szykiem zdania SVO				
-			-e	:	suffix for derived nouns	-o (-aĵo)	johdetun substantiivin pääte	przyrostek dla (wyniku) działania				
-			-em	:	suffix for a fundamental unit	-er	perusyksikköä ilmaiseva liite	przyrostek dla jednostki podstawowej				
-eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.			-er	:	suffix for doer	-isto	tekijän pääte	przyrostek dla wykonawcy				
-ara:(-i). fas:(-i). hin:(-ī). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	adjektiivin pääte	przyrostek dla przymiotnika				
-spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			-ia	:	suffix for areas	-ejo (-ujo, -io)	alueen tai alan pääte	przyrostek dla miejsca				
-			-iste	:	one who supports a certain ideology or a way of life							
-			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	verbin pääte	przyrostek dla czasowników z szykiem zdania OVS				
+			-a	:	suffix for verbs with SVO word order	-i (-igi)	pääte: SVO-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania SVO				
+			-e	:	suffix for derived nouns	-o (-aĵo)	pääte: substantiivi	przyrostek dla (wyniku) działania				
+			-em	:	suffix for a fundamental unit in linguistics	-er	pääte: pienin erottuva yksikkö kielitieteessä	przyrostek dla jednostki podstawowej				
+eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.			-er	:	suffix for doer	-isto	pääte: tekijä, aikaansaaja	przyrostek dla wykonawcy				
+			-eria	:	suffix for place of doing		pääte: tekimö					
+ara:(-i). fas:(-i). hin:(-ī). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	pääte: adjektiivi tai adverbi	przyrostek dla przymiotnika				
+spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			-ia	:	suffix for areas	-ejo (-ujo, -io)	pääte: ala tai alue	przyrostek dla miejsca				
+			-iste	:	suffix for the supporter of an idea		pääte: aatteen kannattaja					
+			-istia	:	suffix for ideologies and religions		pääte: aate tai uskonto					
+			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	pääte: OVS-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania OVS				
 rus:а "a". ukr:а "a". pol:a. + zho:啊 "ā". + eng:ah.			a	:	but (whereas)	sed	mutta	ale, lecz				
 gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.			abace	:	alphabet	alfabeto	aakkoset (ABC)	alfabet, abecadło		字母表	алфавит	alphabet
 ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.			acente	:	accent (stress)	akcento	painotus (aksentti)	akcent, nacisk	acento			
@@ -670,6 +672,8 @@ zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie
 			impera	:	reign (rule as an emperor)		hallita yksinvaltaisesti	władać, panować, rządzić jako imperator				
 			imperer	:	emperor		keisari	imperator				
 			imperia	:	empire		keisarikunta	imperium				
+			imperiste	:	imperialist		imperialisti					
+			imperistia	:	imperialism		imperialismi					
 	made	In	indium	:	indium	indio	indium	ind				
 	dex	ID	indonesia	:	Indonesia	Indonezio	Indonesia	Indonezja				
 			informa	:	inform (communicate)		tiedottaa (informoida)	poinformować, informować, zakomunikować, komunikować				
@@ -894,7 +898,11 @@ deu: Kokos. rus: кокос /kokos/. eng:fra:spa:por: coco.			kokos	:	coco	kokos
 			kola	:	cola		cola	kola, napój gazowany				
 			kolera	:	cholera		kolera	cholera				
 	dex	CO	kolombia	:	Colombia		Kolumbia	Kolumbia				
+			kolona	:	colonize		kolonisoida					
+			koloner	:	colonist							
 			kolonia	:	colony (settlement)		kolonia (siirtomaa)	kolonia, osada				
+			koloniste	:	colonialist		kolonialisti					
+			kolonistia	:	colonialism		kolonialismi					
 eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna).			kolum	:	column (pillar)	kolono	pylväs (pilari)	kolumna, filar				
 			komá	:	comma		pilkku	przecinek				
 			komal	:	soft	mola	pehmeä	miękki				
@@ -1288,11 +1296,10 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 			nano	:	nano-		nano-	nano-				
 			narake	:	hell		helvetti	piekło				
 			nas	:	people (folk)		kansa	ludzie, lud, ludność				
-			nasi	:	popular		kansan-	ludowy				
+			nasi	:	national		kansallinen	ludowy, narodowy				
 			nasia	:	nation		kansakunta	naród, narodowość				
-			nasial	:	national		kansallinen	narodowy				
-			nasialiste	:	nationalist		nationalisti					
-			nasialistia	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm				
+			nasiste	:	nationalist		nationalisti					
+			nasistia	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm				
 	made	Na	natre	:	sodium	natrio	natrium	sód				
 	dex	NR	nauru	:	Nauru		Nauru	Nauru				
 			nawati	:	Nahuatl (Nahua)	naūatla	nahuatli	nahuatl				
@@ -1567,7 +1574,7 @@ hin:राज्य (rājya). ben:রাজ্য (rajyô).			rajia	:	kingdom		k
 			ramazan	:	Ramadan		ramadan	Ramadan				
 			randa	:	plane (plane tool)			hebel, strug				
 			rang	:	color	koloro	väri	kolor				
-			rapid	:	fast (quick)			szybki, prędki				
+			rapidi	:	fast (quick)			szybki, prędki				
 			ras	:	race (ethnicity)	raco	rotu	rasa, narodowość				
 			rasiste	:	racist	racisto	rasisti					
 			rasistia	:	racism	racismo	rasismi (rotuoppi)	rasizm				
@@ -1599,11 +1606,11 @@ fra:reste. eng:deu: Rest. pol: reszta. spa:por: resto.			reste	:	rest (remainder
 	dex	RE	reunion	:	Réunion		Reunion	Reunion				
 			rezin	:	resin			żywica				
 			rezulte	:	result		tulos	rezult, wynik				
-			rici	:	rich			bogaty				
-			ris	:	rice			ryż				
+eng:rich. fra:riche. por:spa:rico.			rici	:	rich		rikas	bogaty				
+			ris	:	rice		riisi	ryż				
 			riske	:	risk	risko	riski	ryzyko				
 			riski	:	risky			ryzykowny				
-			rite	:	ritual (ceremony)			rytuał, ceremonia, ryt				
+eng:fra:rite. spa:por:rito. ben:রীতি (rīti). hin:urd:(rīti).			rite	:	ritual (ceremony)		riitti (rituaali, seremonia)	rytuał, ceremonia, ryt				
 			ritme	:	rhythm (beat)		rytmi	rytm, bit				
 eng:robot;robo-. por:robô. fra:robot. tam:ரோபோ (rōpō). rus:робот (robot).			robote	:	robot	roboto	robotti	robot				
 	made	Rh	rodium	:	rhodium	rodio		rod				
@@ -1752,10 +1759,10 @@ eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).			site	
 	dex	SK	slowakia	:	Slovakia		Slovakia	Słowacja				
 	dex	SI	slowenia	:	Slovenia		Slovenia	Słowenia				
 eng:so. deu:so. jpn:そう "sō".			so	:	so (like this, like that)	tiel	siten (täten)	tak, w ten sposób				
+			soci	:	social		yhteiskunnallinen (sosiaalinen)	społeczny				
 rus:социум (socium). eng:society. spa:sociedad.			socia	:	society (social system)		yhteiskunta	społeczeństwo, system społeczny				
-			social	:	social		yhteiskunnallinen (sosiaalinen)	społeczny				
-			socialiste	:	socialist		sosialisti					
-			socialistia	:	socialism		sosialismi	socjalizm				
+			sociste	:	socialist		sosialisti					
+			socistia	:	socialism		sosialismi	socjalizm				
 			sofa	:	sofa (couch)	sofo	sohva	sofa, kanapa				
 			sofi	:	wise		viisas	mądry				
 			sofia	:	wisdom	saga	viisaus	mądrość				
@@ -1827,6 +1834,7 @@ zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda
 			tabar	:	axe (hatchet)		kirves	siekera, topór				
 			tabel	:	table (matrix)		taulukko	tablioca, macierz				
 			tabia	:	nature (environment)	naturo	luonto	natura, środowisko				
+			tabia lojia	:	ecology (study of environment)		ekologia (ympäristötiede)					
 			tabial	:	environmental (natural)		ympäristö- (luonto-)	środowiskowy, naturalny				
 			taibei	:	Taipei		Taipei	Tajpej				
 			taiga	:	taiga	tajgo	taiga	tajga				

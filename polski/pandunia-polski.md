@@ -1281,10 +1281,9 @@ nanas : ananans
 nano : nano-  
 narake : piekło  
 nas : ludzie, lud, ludność  
-nasi : ludowy  
+nasi : ludowy, narodowy  
 nasia : naród, narodowość  
-nasial : narodowy  
-nasialistia : nacjonalizm  
+nasistia : nacjonalizm  
 natre : sód  
 nauru : Nauru  
 nawati : nahuatl  
@@ -1560,7 +1559,7 @@ rajia : królestwo
 ramazan : Ramadan  
 randa : hebel, strug  
 rang : kolor  
-rapid : szybki, prędki  
+rapidi : szybki, prędki  
 ras : rasa, narodowość  
 rasistia : rasizm  
 rasme : obyczaj, zwyczaj, tradycja, praktyka, konwencja  
@@ -1743,9 +1742,9 @@ skandium : skand
 slowakia : Słowacja  
 slowenia : Słowenia  
 so : tak, w ten sposób  
+soci : społeczny  
 socia : społeczeństwo, system społeczny  
-social : społeczny  
-socialistia : socjalizm  
+socistia : socjalizm  
 sofa : sofa, kanapa  
 sofi : mądry  
 sofia : mądrość  

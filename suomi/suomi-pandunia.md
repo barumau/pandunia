@@ -1,5 +1,5 @@
 -n (oma) : da  
-: : -a : verbin : pääte  
+: : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
 aakkoset (ABC) : abace  
 aamiainen : subá nyam  
@@ -8,7 +8,6 @@ aarre : hazin
 aasi : gade  
 Aasia : asia  
 aasialainen : asian  
-adjektiivin pääte : -i  
 Afganistan : afgania  
 Afrikka : afrike  
 afrikkalainen : afriki  
@@ -51,7 +50,6 @@ allas : basen
 aloittaa : mula  
 alttari : altar  
 alue (seutu) : aria  
-alueen tai alan pääte : -ia  
 alumiini : alumin  
 Amerikan Yhdysvallat : uni stan du amerike  
 Amerikka : amerike  
@@ -188,6 +186,7 @@ ei : no
 ei kukaan : nul ren  
 ei mitään : nul xey  
 einsteinium : einsteinium  
+ekologia (ympäristötiede) : tabia lojia  
 El Salvador : salvador  
 ele : jeste  
 elegantti : xiki  
@@ -432,6 +431,8 @@ ilmiasu (ulkonäkö) : rupe
 ilta : xam  
 iltapäivä : xam den  
 imeä : cupa  
+imperialismi : imperistia  
+imperialisti : imperiste  
 indium : indium  
 Indonesia : indonesia  
 inkivääri : inje  
@@ -479,7 +480,6 @@ Jersey : jersia
 jo (ennen) : ja  
 jodi : iode  
 jodi : yode  
-johdetun substantiivin pääte : -e  
 johtaa : lida  
 johtaja (pomo) : lider  
 joka (jokainen) : mey  
@@ -560,9 +560,8 @@ kanootti : kanú
 kansa : demó  
 kansa : nas  
 kansakunta : nasia  
-kansallinen : nasial  
-kansallisuusaate (nationalismi) : nasialistia  
-kansan- : nasi  
+kansallinen : nasi  
+kansallisuusaate (nationalismi) : nasistia  
 kanssa (luona, -lla, -ssa) : na  
 kapina : rebel  
 kapteeni : kapitan  
@@ -696,6 +695,9 @@ kolera : kolera
 kollektiivinen : jami  
 kolme (3) : sam  
 kolonia (siirtomaa) : kolonia  
+kolonialismi : kolonistia  
+kolonialisti : koloniste  
+kolonisoida : kolona  
 Kolumbia : kolombia  
 kommunismi : komunistia  
 kommunisti : komuniste  
@@ -1121,7 +1123,7 @@ Namibia : namibia
 nano- : nano  
 nappi (näppäin, kytkin) : buton  
 nappi : boton  
-nationalisti : nasialiste  
+nationalisti : nasiste  
 natrium : natre  
 natriumglutamaatti : micin  
 naula (piikki) : ding  
@@ -1298,7 +1300,6 @@ Peru : perú
 peruna (potaatti) : patate  
 perus- : bazi  
 perusta (perustus) : baze  
-perusyksikköä ilmaiseva liite : -em  
 peräaukko (anus) : anus  
 pestä : waxa  
 pesukone : wax-maxin  
@@ -1414,6 +1415,15 @@ päällikkö (pomo) : xefe
 pääministeri (suurvisiiri) : xefi minister  
 päärynä : per  
 päästää (sallia) : laxa  
+pääte: aate tai uskonto : -istia  
+pääte: aatteen kannattaja : -iste  
+pääte: adjektiivi tai adverbi : -i  
+pääte: ala tai alue : -ia  
+pääte: OVS-sanajärjestyksen verbi : -u  
+pääte: pienin erottuva yksikkö kielitieteessä : -em  
+pääte: substantiivi : -e  
+pääte: tekijä, aikaansaaja : -er  
+pääte: tekimö : -eria  
 pöly (tomu) : dul  
 pöytä : meze  
 Qatar : kataria  
@@ -1449,6 +1459,9 @@ retki (matka) : tur
 reuna (ääri) : kenar  
 Reunion : reunion  
 riippumatto : hamake  
+riisi : ris  
+riitti (rituaali, seremonia) : rite  
+rikas : rici  
 rikki : kaputi  
 rikki : sulfe  
 rikos : krim  
@@ -1592,8 +1605,8 @@ Somalia : somalia
 sormi tai varvas : finger  
 sormus : finger wen  
 sorsa (ankka) : batá  
-sosialismi : socialistia  
-sosialisti : socialiste  
+sosialismi : socistia  
+sosialisti : sociste  
 sotilaallinen : jangi  
 soturi (taistelija) : janger  
 sovellus : aplike  
@@ -1720,7 +1733,6 @@ teippi (nauha) : tepe
 teismi (jumalusko) : dewistia  
 teisti : dewiste  
 tekijä (valmistaja) : fater  
-tekijän pääte : -er  
 tekniikka (keino, menetelmä) : tekne  
 tekniikka (teknologia) : tekne lojia  
 teko : fe  
@@ -1923,7 +1935,6 @@ vene (laiva) : bote
 Venezuela : venesuela  
 Venäjä : rusia  
 venäläinen : rusi  
-verbin pääte : -u  
 verhot : parde  
 veri : sang  
 verkko : nete  
@@ -2007,7 +2018,7 @@ yhdistää : liga
 yhdistää : una  
 Yhdysvallat : usamerike  
 yhteinen : komun  
-yhteiskunnallinen (sosiaalinen) : social  
+yhteiskunnallinen (sosiaalinen) : soci  
 yhteiskunta : socia  
 yhteisymmärrys (olla samaa mieltä)  : amen  
 yhteisö (kollektiivi) : jamia  

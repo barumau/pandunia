@@ -7,11 +7,10 @@ Word derivation is productive in Pandunia. Everybody can freely build new words!
 Sometimes regularly derived Pandunia words differ in form and/or meaning from their English counterparts.
 
 **nas** : people, folk (from Arabic ناس /nās/ )  
-**nasi** : popular  
+**nasi** : popular, national  
 **nasia** : nation (it resembles Afrikaans "nasie" and Russian "нация" /natsiya/ )  
-**nasial** : national  
-**nasialiste** : nationalist  
-**nasialistia** : nationalism
+**nasiste** : nationalist (one who puts their own people first)  
+**nasistia** : nationalism
 
 Sometimes back-derivation leads to new words.
 

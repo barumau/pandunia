@@ -387,6 +387,10 @@ collect (gather, bring together) : jama
 collection (congregation) : jamia  
 collective : jami  
 Colombia : kolombia  
+colonialism : kolonistia  
+colonialist : koloniste  
+colonist : koloner  
+colonize : kolona  
 colony (settlement) : kolonia  
 color : rang  
 column (pillar) : kolum  
@@ -556,6 +560,7 @@ earthquake : sisme
 east : dong  
 easy : izi  
 echo : eho  
+ecology (study of environment) : tabia lojia  
 Ecuador : ekuador  
 eggplant (aubergine, brinjal) : bedinjan  
 Egypt : misria  
@@ -641,7 +646,7 @@ fascism : faxistia
 fascist : faxiste  
 fashion (trend) : faxon  
 fashion (trend) : mode  
-fast (quick) : rapid  
+fast (quick) : rapidi  
 fat (grease) : fete  
 fate (destiny, kismet) : kisme  
 father : papá  
@@ -908,6 +913,8 @@ if (suppose, assume) : gar
 ill (sick) : bing  
 illustrator (graphic artist) : grafer  
 imagine (fantasize) : fantaza  
+imperialism : imperistia  
+imperialist : imperiste  
 important : muhim  
 imprison (jail) : prizona  
 India : bartia  
@@ -1248,9 +1255,9 @@ name : nam
 Namibia : namibia  
 nano- : nano  
 nation : nasia  
-national : nasial  
-nationalism : nasialistia  
-nationalist : nasialiste  
+national : nasi  
+nationalism : nasistia  
+nationalist : nasiste  
 nature (environment) : tabia  
 Nauru : nauru  
 near (close) : jin  
@@ -1326,7 +1333,6 @@ old (ancient) : puran
 olive : zaitun  
 Oman : oman  
 one (1) : un  
-one who supports a certain ideology or a way of life : -iste  
 only (alone, solely, just) : mon  
 open (not closed) : kay  
 open : kaya  
@@ -1482,7 +1488,6 @@ ponder (think) : hema
 pool (basin) : basen  
 poor (miserable) : miskin  
 popular (trendy) : faxoni  
-popular : nasi  
 pork : goró manse  
 porn : porne  
 pornography : porne grafia  
@@ -1749,9 +1754,9 @@ snake (serpent) : serpe
 snow : him  
 so (like this, like that) : so  
 soap : sabun  
-social : social  
-socialism : socialistia  
-socialist : socialiste  
+social : soci  
+socialism : socistia  
+socialist : sociste  
 society (social system) : socia  
 sock (stocking) : soke  
 sodium : natre  
@@ -1825,11 +1830,14 @@ Sudan : sudan
 suffer (get hurt) : paxu  
 suffer (passivizing verb) : bey  
 suffering : paxia  
-suffix for a fundamental unit : -em  
+suffix for a fundamental unit in linguistics : -em  
 suffix for adjectives : -i  
 suffix for areas : -ia  
 suffix for derived nouns : -e  
 suffix for doer : -er  
+suffix for ideologies and religions : -istia  
+suffix for place of doing : -eria  
+suffix for the supporter of an idea : -iste  
 suffix for verbs with OVS word order : -u  
 sugar : sukar  
 sugary (sweet) : sukari  

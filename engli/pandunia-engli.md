@@ -1,10 +1,12 @@
 -a : suffix for verbs with SVO word order  
 -e : suffix for derived nouns  
--em : suffix for a fundamental unit  
+-em : suffix for a fundamental unit in linguistics  
 -er : suffix for doer  
+-eria : suffix for place of doing  
 -i : suffix for adjectives  
 -ia : suffix for areas  
--iste : one who supports a certain ideology or a way of life  
+-iste : suffix for the supporter of an idea  
+-istia : suffix for ideologies and religions  
 -u : suffix for verbs with OVS word order  
 ##a  
 a : but (whereas)  
@@ -678,6 +680,8 @@ igen : opinion (view)
 impera : reign (rule as an emperor)  
 imperer : emperor  
 imperia : empire  
+imperiste : imperialist  
+imperistia : imperialism  
 indium : indium  
 indonesia : Indonesia  
 informa : inform (communicate)  
@@ -904,7 +908,11 @@ koká : coca
 kola : cola  
 kolera : cholera  
 kolombia : Colombia  
+kolona : colonize  
+koloner : colonist  
 kolonia : colony (settlement)  
+koloniste : colonialist  
+kolonistia : colonialism  
 kolum : column (pillar)  
 komal : soft  
 komoro nesia : Comoros  
@@ -1301,11 +1309,10 @@ nanas : pineapple
 nano : nano-  
 narake : hell  
 nas : people (folk)  
-nasi : popular  
+nasi : national  
 nasia : nation  
-nasial : national  
-nasialiste : nationalist  
-nasialistia : nationalism  
+nasiste : nationalist  
+nasistia : nationalism  
 natre : sodium  
 nauru : Nauru  
 nawati : Nahuatl (Nahua)  
@@ -1583,7 +1590,7 @@ rajia : kingdom
 ramazan : Ramadan  
 randa : plane (plane tool)  
 rang : color  
-rapid : fast (quick)  
+rapidi : fast (quick)  
 ras : race (ethnicity)  
 rasiste : racist  
 rasistia : racism  
@@ -1769,10 +1776,10 @@ skandium : scandium
 slowakia : Slovakia  
 slowenia : Slovenia  
 so : so (like this, like that)  
+soci : social  
 socia : society (social system)  
-social : social  
-socialiste : socialist  
-socialistia : socialism  
+sociste : socialist  
+socistia : socialism  
 sofa : sofa (couch)  
 sofi : wise  
 sofia : wisdom  
@@ -1844,6 +1851,7 @@ swisia : Switzerland
 tabake : tobacco  
 tabar : axe (hatchet)  
 tabel : table (matrix)  
+tabia lojia : ecology (study of environment)  
 tabia : nature (environment)  
 tabial : environmental (natural)  
 taibei : Taipei  
