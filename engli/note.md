@@ -123,3 +123,24 @@ Six divided by two equals three.
 
 
 
+### Suffixes for word building
+
+<small>2018-11-29</small>
+
+- **-ia** means an area or space and it can be used for both physical and abstract things.
+- **-er** means an agent of the action
+- **-iste** means one who supports to a particular idea, such as a religious doctrine or a political movement.
+
+Note that both **-er** and **-iste** are used in a more narrow sense than similar English suffixes _-er_ and _-ist_. For example, _a guitarist_ is an agent and not a supporter, so it translates to **gitarer** in Pandunia, not **gitariste**.
+
+We can combine the above-mentioned suffixes together.
+
+- **-eria** is the trade or the place where the action takes place
+- **-istia** is the ideology or religion that is supported
+
+For example, we can derive **budistia** _(Buddhism)_ from **budiste** _(Buddhist)_. So we don't need or use the suffix _-ism_ at all.
+
+In general, it is preferred in Pandunia that we follow the internal logic of the language instead of external models such as the Western languages.
+
+Another example of this are the words **nasiste** _(nationalist)_ and **sociste** _(socialist)_. The word stems are **nas-** _(nation, folk)_ and **soc-** _(society)_. There's no need to add anything between them and the suffix **-iste** because the meaning is already complete. So, while these words look a little different than in the Western languages, their meaning is clear and complete.
+
