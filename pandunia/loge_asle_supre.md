@@ -1,0 +1,34 @@
+# lekse da asle
+  
+pandunia da loge laya ze multi bax du dunia.
+  
+- afriki bax
+    - arabi (ara)
+    - swahili (swa)
+    - amari (amh)
+    - hausi (hau)
+- europi i ameriki bax
+    - engli (eng)
+    - espani (spa)
+    - portugal (por)
+    - fransi (fra)
+    - rusi (rus)
+    - doici (deu)
+- dong asi bax
+    - putong han (zho)
+    - hong gong han (yue)
+    - xanghai han (wuu)
+    - nipon (jpn)
+    - hanguk (kor)
+    - vieti (vie)
+- sudi asi bax
+    - hindi (hin)
+    - bangli (ben)
+    - urdi (urd)
+    - indonesi (ind)
+    - filipini (fil)
+    - farsi (per)
+    - turki (tur)
+
+## -
+
