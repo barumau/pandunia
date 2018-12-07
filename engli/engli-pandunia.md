@@ -102,7 +102,7 @@ Austria : osteria
 autumn (fall) : oton  
 avocado : awakate  
 awake : weki  
-aware (enlightened) : bodi  
+aware (enlightened) : budi  
 axe (hatchet) : tabar  
 axis (axle) : akse  
 Azerbaijan : azeria  
@@ -110,7 +110,7 @@ Azerbaijan : azeria
 baby (infant) : bebe  
 back : ruk  
 backpack (rucksack) : ruk sak  
-bad (ruined, spoiled) : harabi  
+bad (ruined, destroyed) : harabi  
 bad : mal  
 bag (sack) : sak  
 bah! (yuck!) : fuy  
@@ -372,7 +372,7 @@ coal (carbon) : karbon
 coat : kote  
 cobalt : kobalte  
 coca : koká  
-coco : kokos  
+coco : yeze  
 cocoa : kakaw  
 Cocos (Keeling) Islands : kokos nesia  
 code (cipher) : kode  
@@ -951,6 +951,7 @@ Italy : italia
 jackal : xakal  
 jacket : jaket  
 jailer (imprisoner) : prizoner  
+Jainism : jayistia  
 Jamaica : jamaike  
 January : mes 1 (mes un)  
 Japan : nipon  
@@ -965,6 +966,7 @@ joke : joke
 joker : joker  
 Jordan : urdun  
 joule (J) : jul  
+Judaism : yehudistia  
 judge (referee) : hakimer  
 judgment (sentence) : hakim  
 judo : judo  
@@ -1256,10 +1258,13 @@ Namibia : namibia
 nano- : nano  
 nation : nasia  
 national : nasi  
+national socialism : nasi socistia  
 nationalism : nasistia  
 nationalist : nasiste  
 nature (environment) : tabia  
 Nauru : nauru  
+Nazi : naciste  
+Nazism : nacistia  
 near (close) : jin  
 necessary (needed) : nidi  
 need : nida  
@@ -1370,18 +1375,18 @@ Pakistan : pakistan
 Palau : palaw  
 Palestinian Territory : filistinia  
 palladium : paladium  
-palm tree : palma  
+palm tree : palme  
 pan-African : panafriki  
 pan-American : panameriki  
 pan-Asian : panasi  
 pan-European : paneuropi  
 Panama : panamia  
-panda : panda  
+panda : pande  
 Pandunia : pandunia  
 panic : panike  
 pants (trousers) : pantalon  
-papaya : papaya  
-paper : paper  
+papaya : papay  
+paper : papir  
 Papua New Guinea : papua nowi ginia  
 Paraguay : paraguay  
 parent : pamá  
@@ -1532,6 +1537,7 @@ project (planned endeavour) : proje
 promethium : prometium  
 promise (commit) : wada  
 prophecy : nabe  
+prophet : naber  
 protactinium : protacinium  
 prove (testify) : pramana  
 pudding : puding  
@@ -1565,8 +1571,8 @@ Ramadan : ramazan
 random : zari  
 read : duga  
 ready : redi  
-realization (awareness, enlightenment, bodhi) : bode  
-realize : boda  
+realization (awareness, enlightenment, bodhi) : bude  
+realize : buda  
 reason (cause) : karen  
 reason (rational thinking) : razon  
 rebellion : rebel  
@@ -1640,6 +1646,7 @@ royal : raji
 rubber : gom  
 rubidium : rubidium  
 rude (offensive) : nindi  
+ruin (destroy, devastate, demolish) : haraba  
 rule (be in charge) : sultana  
 rule (reign) : kratia  
 ruler : sultaner  
@@ -1714,6 +1721,7 @@ shape (sculpt) : forma
 shari'a : islamisti xaria  
 shea : karite  
 sheep : meme  
+Shintoism : xindawistia  
 shirt : kamis  
 shock (collision) : xoke  
 shoe : sapate  
@@ -1752,7 +1760,6 @@ smooth : lis
 snack : lil nyame  
 snake (serpent) : serpe  
 snow : him  
-so (like this, like that) : so  
 soap : sabun  
 social : soci  
 socialism : socistia  
@@ -1760,7 +1767,7 @@ socialist : sociste
 society (social system) : socia  
 sock (stocking) : soke  
 sodium : natre  
-sofa (couch) : sofa  
+sofa (couch) : sofá  
 soft : komal  
 solar system : sol sistem  
 Solomon Islands : solomon nesia  
@@ -1816,7 +1823,7 @@ still (yet) : hay
 stipulate : xarta  
 stone : batú  
 stop : stope  
-storm (tempest) : tufon  
+storm (tempest, typhoon, hurricane, cyclone) : tafun  
 straight : jiki  
 straighten : jika  
 strike (punch) : darba  
@@ -1840,6 +1847,7 @@ suffix for place of doing : -eria
 suffix for the supporter of an idea : -iste  
 suffix for verbs with OVS word order : -u  
 sugar : sukar  
+sugar-apple (sweetsop) : ate  
 sugary (sweet) : sukari  
 suggest (propose) : teyana  
 suggestion (proposal) : teyan  
@@ -1888,7 +1896,7 @@ Tanakh (Jewish Bible) : tanah
 tank (container) : tanke  
 tantalum : tantalum  
 Tanzania : tanzania  
-Taoism : dawistia  
+Taoism (Daoism) : dawistia  
 Taoist : dawiste  
 tap (stopper) : tape  
 tape : tepe  
@@ -2052,6 +2060,7 @@ vase (pot, bin, jar, jug) : waze
 vegetable : sabze  
 Venezuela : venesuela  
 veranda (balcony, terrace, porch) : berande  
+victory (win) : jay  
 Viet Nam : vietnam  
 view (vision) : wide  
 village : deya  
@@ -2070,6 +2079,7 @@ wake (make awake) : weka
 walk (march) : marca  
 wall : mur  
 Wallis and Futuna Islands : walis i futuna nesia  
+wallpaper : mur papir  
 want (desire) : wol  
 warm : garmi  
 warrior (fighter) : janger  
@@ -2105,6 +2115,7 @@ wiki : wiki
 wild (savage) : wildi  
 will (in future) : wil  
 will (volition, desire) : ice  
+win (defeat) : jaya  
 wind : fong  
 window : janel  
 wine : win  

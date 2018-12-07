@@ -185,9 +185,6 @@ biznes ren : liikemies
 biznes : liiketoiminta (bisnes)  
 blabla : jutella (höpistä)  
 blable kamar : keskusteluhuone  
-boda : ymmärtää (oivaltaa)  
-bode : ymmärrys (taju, oivallus)  
-bodi : valaistunut  
 boikote : boikotti  
 boke : suu  
 bol : pallo  
@@ -210,8 +207,11 @@ britania : Iso-Britannia (Yhdistyneet Kuningaskunnat)
 brom : bromi  
 brox : harja  
 bruney : Brunei  
+buda : ymmärtää (oivaltaa)  
 budan : Merkurius  
 bude : Buddha  
+bude : ymmärrys (taju, oivallus)  
+budi : valaistunut  
 budiste : buddhalainen  
 budistia : buddhalaisuus (buddhismi)  
 bufon : hölmö (narri)  
@@ -608,6 +608,7 @@ hamar : vasara
 hamir : hiiva  
 hangogia : Etelä-Korea  
 haos : kaaos  
+haraba : pilata (tuhota)  
 harabi : pilalla (raunioina)  
 harfe : kirjain  
 harmoni : harmoninen  
@@ -730,7 +731,10 @@ janger : soturi (taistelija)
 jangi : sotilaallinen  
 jani : tietty (tunnettu)  
 jar : kannu (karahvi)  
+jay : voitto  
+jaya : voittaa (kukistaa)  
 jayer : Algeria  
+jayistia : jainalaisuus  
 jaze : jazz (jatsi)  
 jebe : tasku  
 jele : hyytelö  
@@ -901,7 +905,6 @@ koda : koodata
 kode : koodi  
 koke : kana  
 kokos nesia : Kookossaaret  
-kokos : kookos  
 koká : kooka  
 kola : cola  
 kolera : kolera  
@@ -1275,6 +1278,7 @@ mumu : nauta (lehmä)
 mun : ovi (portti, veräjä)  
 mungus : mangusti  
 munkin : mahdollinen (mahdollisesti, ehkä)  
+mur papir : tapetti  
 mur : seinä (muuri)  
 muritania : Mauritania  
 musa : pakottaa  
@@ -1291,6 +1295,9 @@ muxing : Jupiter
 ##n  
 na : kanssa (luona, -lla, -ssa)  
 nabe : profetia  
+naber : profeetta  
+naciste : natsi  
+nacistia : natsismi  
 nade : joki  
 nafas : hengitys (henkäys)  
 nahun : kynsi  
@@ -1303,6 +1310,7 @@ nanas : ananas
 nano : nano-  
 narake : helvetti  
 nas : kansa  
+nasi socistia : kansallissosialismi  
 nasi : kansallinen  
 nasia : kansakunta  
 nasiste : nationalisti  
@@ -1421,21 +1429,21 @@ pakse : lintu
 pal : hedelmä  
 paladium : palladium  
 palaw : Palau  
-palma : palmu  
+palme : palmu  
 pamá : vanhempi (isä tai äiti)  
 pan : kaikki  
 panafriki : panafrikkalainen  
 panameriki : panamerikkalainen  
 panamia : Panama  
 panasi : panaasialainen  
-panda : panda  
+pande : panda  
 pandunia : pandunia  
 paneuropi : paneurooppalainen  
 panike : hätä (paniikki)  
 panjabi : pandžabi (eräs intialainen kieli)  
 pantalon : housut  
-papaya : papaija  
-paper : paperi  
+papay : papaija  
+papir : paperi  
 papua nowi ginia : Papua Uusi-Guinea  
 papá : isä  
 par : vertainen  
@@ -1704,14 +1712,13 @@ site : kaupunki
 skandium : skandium  
 slowakia : Slovakia  
 slowenia : Slovenia  
-so : siten (täten)  
 soci : yhteiskunnallinen (sosiaalinen)  
 socia : yhteiskunta  
 sociste : sosialisti  
 socistia : sosialismi  
-sofa : sohva  
 sofi : viisas  
 sofia : viisaus  
+sofá : sohva  
 soke : sukka  
 sol sistem : aurinkokunta  
 sol : aurinko  
@@ -1771,6 +1778,7 @@ tabel : taulukko
 tabia lojia : ekologia (ympäristötiede)  
 tabia : luonto  
 tabial : ympäristö- (luonto-)  
+tafun : myrsky  
 taibei : Taipei  
 taiga : taiga  
 taiwan : Taiwan  
@@ -1856,7 +1864,6 @@ tswana : Botswana
 tu : sinä  
 tuale : vessa  
 tube : putki (tuubi)  
-tufon : myrsky  
 tuka : sylkeä  
 tul : työkalu  
 tulpan : tulppaani  
@@ -1985,6 +1992,7 @@ xiki : elegantti
 xim : sydän  
 xin : usko (luottamus)  
 xina : uskoa (luottaa)  
+xindawistia : sintolaisuus  
 xing : tähti  
 xir : runo  
 xirer : runoilija  
@@ -2013,10 +2021,12 @@ yatim kan : orpokoti
 yatim : orpo  
 ye : hän (se)  
 yehudi : juutalainen  
+yehudistia : juutalaisuus  
 yemen : he  
 yen suy : kyynel  
 yen : silmä  
 yesu : Jeesus  
+yeze : kookos  
 yode : jodi  
 yoga : joogata  
 yoge : jooga  

@@ -2,7 +2,9 @@
 -ejo (-ujo, -io) : -ia  
 -er : -em  
 -i (-iĝi) : -u  
+-ismo : -istia  
 -isto : -er  
+-isto de -ismo : -iste  
 -o (-aĵo) : -e  
 : : -a : -i : (-igi)  
 ##a  
@@ -562,7 +564,7 @@ kobalto : kobalte
 kodo : kode  
 kojno : kil  
 koko : koke  
-kokoso : kokos  
+kokoso : yeze  
 kolbaso : sosis  
 kolekta : jami  
 kolekti (kunigi) : jama  
@@ -573,8 +575,8 @@ komenco : mul
 komercisto : biznes ren  
 kompanio (firmao) : kompania  
 kompreni : aha  
-kompreni : boda  
-kompreno : bode  
+kompreni : buda  
+kompreno : bude  
 komputero : komputer  
 komuna : komun  
 komunismo : komunistia  
@@ -582,7 +584,7 @@ komunisto : komuniste
 koncentri : fokusa  
 koncentriĝo : fokus  
 kondiĉo (postulo) : xarte  
-konscia : bodi  
+konscia : budi  
 konstrui : bina  
 kontraŭ : kontra  
 kontroli : ceka  
@@ -847,17 +849,17 @@ pajaco : bufon
 pakaĵo : bagaje  
 pako : pake  
 paladio : paladium  
-palmo : palma  
+palmo : palme  
 palto : kote  
 Panamo : panamia  
-pando : panda  
+pando : pande  
 pandunia : pandunia  
 paniko : panike  
 pano : nan  
 pantalonoj : pantalon  
 papago : akú  
-papajo : papaya  
-papero : paper  
+papajo : papay  
+papero : papir  
 paroli (komuniki) : baxa  
 paroli : loga  
 parolo (vortoj) : loge  
@@ -1050,7 +1052,7 @@ sitelo : balde
 skandio : skandium  
 skatolo (kesto) : sanduke  
 skribo : kitabe  
-sofo : sofa  
+sofo : sofá  
 somero : lete  
 sono : sonde  
 speciala : has  
@@ -1122,7 +1124,6 @@ teroro : teror
 terpomo : patate  
 tertremo : sisme  
 testo : teste  
-tiel : so  
 tigro : bagre  
 timo (fobio) : fobe  
 tio : le  
@@ -1180,6 +1181,8 @@ vato : wate
 vazo (florpoto) : pul waze  
 vazo : waze  
 veni : laya  
+venki : jaya  
+venko : jay  
 venti : fonga  
 vento : fong  
 ventro : fubú  
@@ -1277,7 +1280,7 @@ zuluo : zulu
 ŝtelisto : curer  
 ŝtelo : cur  
 ŝtono : batú  
-ŝtormo : tufon  
+ŝtormo : tafun  
 ŝtrumpo : soke  
 ŝuistejo : sapateria  
 ŝuisto : sapater  

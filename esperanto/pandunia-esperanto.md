@@ -4,6 +4,8 @@
 -er : -isto  
 -i : -a (-e)  
 -ia : -ejo (-ujo, -io)  
+-iste : -isto de -ismo  
+-istia : -ismo  
 -u : -i (-iĝi)  
 ##a  
 a : sed  
@@ -158,9 +160,6 @@ biznes ren : komercisto
 biznes : negoco  
 blabla : babili  
 blable kamar : babilejo  
-boda : kompreni  
-bode : kompreno  
-bodi : konscia  
 boikote : bojkoto  
 boke : buŝo  
 bol : pilko  
@@ -178,7 +177,10 @@ boton : butono
 brazilia : Brazilo  
 brom : bromo  
 brox : broso  
+buda : kompreni  
 budan : Merkuro  
+bude : kompreno  
+budi : konscia  
 budiste : budhisto  
 budistia : budhismo  
 bufon : pajaco  
@@ -605,6 +607,8 @@ janel : fenestro
 jang : milito (batalo)  
 jangal : arbaro  
 jangi : milita  
+jay : venko  
+jaya : venki  
 jebe : poŝo  
 jele : ĝelo  
 jen den : naskiĝtago  
@@ -699,7 +703,6 @@ klube : klubo
 kobalte : kobalto  
 kode : kodo  
 koke : koko  
-kokos : kokoso  
 kolum : kolono  
 komal : mola  
 kompania : kompanio (firmao)  
@@ -942,16 +945,16 @@ pake : pako
 pakse : birdo  
 pal : frukto (rezulto)  
 paladium : paladio  
-palma : palmo  
+palme : palmo  
 pamá : gepatro(j)  
 pan : ĉiu  
 panamia : Panamo  
-panda : pando  
+pande : pando  
 pandunia : pandunia  
 panike : paniko  
 pantalon : pantalonoj  
-papaya : papajo  
-paper : papero  
+papay : papajo  
+papir : papero  
 papá : patro  
 parde : kurteno  
 patate : terpomo  
@@ -1097,9 +1100,8 @@ sisme : tertremo
 sistem : sistemo  
 site : urbo  
 skandium : skandio  
-so : tiel  
-sofa : sofo  
 sofia : saga  
+sofá : sofo  
 soke : ŝtrumpo  
 sol sistem : sunsistemo  
 sol : suno  
@@ -1134,6 +1136,7 @@ swahili : sŭahili
 ##t  
 tabake : tabako  
 tabia : naturo  
+tafun : ŝtormo  
 taiga : tajgo  
 talium : talio  
 tambur : tamburo  
@@ -1185,7 +1188,6 @@ tren : trajno (vagonaro)
 tribe : tribo  
 tu : vi (ci)  
 tube : tubo  
-tufon : ŝtormo  
 tuka : sputi  
 tul : ilo  
 tulium : tulio  
@@ -1260,6 +1262,7 @@ ye : li aŭ ŝi aŭ ĝi
 yemen : ili  
 yen : okulo  
 yesu : Jesuo  
+yeze : kokoso  
 yoge : jogo  
 yone : vagino  
 yuterbium : iterbio  

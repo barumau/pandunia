@@ -3,11 +3,11 @@ loge asle	klase		pandunia		engli	esperanti	suomi	polski	espani	putonghan	rusi	fr
 			-e	:	suffix for derived nouns	-o (-aĵo)	pääte: substantiivi	przyrostek dla (wyniku) działania				
 			-em	:	suffix for a fundamental unit in linguistics	-er	pääte: pienin erottuva yksikkö kielitieteessä	przyrostek dla jednostki podstawowej				
 eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.			-er	:	suffix for doer	-isto	pääte: tekijä, aikaansaaja	przyrostek dla wykonawcy				
-			-eria	:	suffix for place of doing		pääte: tekimö					
+			-eria	:	suffix for place of doing		pääte: tekimö	przyrostek dla miejsca wykonywania				
 ara:(-i). fas:(-i). hin:(-ī). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	pääte: adjektiivi tai adverbi	przyrostek dla przymiotnika				
 spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			-ia	:	suffix for areas	-ejo (-ujo, -io)	pääte: ala tai alue	przyrostek dla miejsca				
-			-iste	:	suffix for the supporter of an idea		pääte: aatteen kannattaja					
-			-istia	:	suffix for ideologies and religions		pääte: aate tai uskonto					
+			-iste	:	suffix for the supporter of an idea	-isto de -ismo	pääte: aatteen kannattaja	przyrostek dla wsperającego ideę				
+			-istia	:	suffix for ideologies and religions	-ismo	pääte: aate tai uskonto	przyrostek dla ideologii				
 			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	pääte: OVS-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania OVS				
 rus:а "a". ukr:а "a". pol:a. + zho:啊 "ā". + eng:ah.			a	:	but (whereas)	sed	mutta	ale, lecz				
 gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.			abace	:	alphabet	alfabeto	aakkoset (ABC)	alfabet, abecadło		字母表	алфавит	alphabet
@@ -78,6 +78,7 @@ spa:por:arte. eng:fra:art.			arte	:	art	arto	taide	sztuka 		美术	искусс�
 			asma	:	asthma	astmo	astma	astma				
 			aspirin	:	aspirin	aspirino	aspiriini	aspiryna				
 			atake	:	attack	atako	hyökkäys	atak				
+fra:atte. por:ata. ben:আতা (ata). tgl:atis. som:aat.			ate	:	sugar-apple (sweetsop)							
 			atom	:	atom	atomo	atomi	atom				
 			auda	:	hear (listen)	aŭdi (aŭskulti)	kuulla (kuunnella)	usłyszeć, słyszeć; słuchać				
 	dex	AU	australia	:	Australia	Aŭstralio	Australia	Australia				
@@ -98,8 +99,8 @@ hin:बदला "badlā". hau:badali. swa:badili.			badala	:	exchange (swap, re
 			bade	:	consequence (follow-up)	sekvo	seuraus	konsekwencja, skutek				
 			bagaje	:	luggage (baggage)	pakaĵo	matkatavarat	bagaż				
 hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:tigre. rus:(tigr).			bagre	:	tiger	tigro	tiikeri	tygrys	tigre	虎	тигр	tigre
-			bahaiste	:	Baha'ist		bahailainen					
-			bahaistia	:	Baha'ism		bahailaisuus					
+			bahaiste	:	Baha'ist		bahailainen	bahaista				
+			bahaistia	:	Baha'ism		bahailaisuus	bahaizm				
 	dex	BS	bahama	:	Bahamas		Bahama-saaret	Bahamy				
 	dex	BH	bahrain	:	Bahrain		Bahrain	Bahrajn				
 			bal	:	strong	forta	voimakas (vahva)	silny				
@@ -144,7 +145,7 @@ hin:भाषा (bhāṣā). ind:bahasa. jav: basa.			bax	:	language (communica
 			baxa	:	speak (communicate)	paroli (komuniki)	puhua (kommunikoida)	mówić; komunikować				
 zho: 白 "bái".			bay	:	white	blanka	valkoinen (valkea)	biały				
 fas: بازار /bāzār/. ind: pasar.			bazar	:	market (bazaar)	merkato (bazaro)	tori (basaari)	rynek, bazar				
-			bazar huristia	:	market liberalism		markkinaliberalismi					
+			bazar huristia	:	market liberalism		markkinaliberalismi	liberalizm rynkowy				
 eng:fra:por:base. rus:"baza".			baze	:	base (foundation)	bazo	perusta (perustus)	podstawa, baza, fundament				
 			bazi	:	basic	baza	perus-	bazowy, podstawowy				
 			be	:	without	sen	ilman	bez				
@@ -186,9 +187,6 @@ eng:business. rus:бизнес "biznes".			biznes	:	business (commercial activit
 			biznes ren	:	businessperson (businessman)	komercisto	liikemies	osoba biznesu, biznesman				
 fra:blablater. eng:babble. spa:blablablá.			blabla	:	chat (babble)	babili	jutella (höpistä)	luźna rozmowa, gadanina				
 			blable kamar	:	chat room	babilejo	keskusteluhuone	pokój rozmów, chat				
-hin:बुद्धि "buddhi".			boda	:	realize	kompreni	ymmärtää (oivaltaa)	uświadomić sobie, zdać sobie sprawę, pojąć, pojmować				
-scr:बोधि (bodhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).			bode	:	realization (awareness, enlightenment, bodhi)	kompreno	ymmärrys (taju, oivallus)	uświadomienie, świadomość; oświecenie, bodhi				
-			bodi	:	aware (enlightened)	konscia	valaistunut	świadomy; oświecony				
 			boikote	:	boycott	bojkoto	boikotti	bojkot				
 spa:por:boca.			boke	:	mouth	buŝo	suu	usta				
 eng:ball. spa:bola. jpn:"bōru".			bol	:	ball	pilko	pallo	piłka				
@@ -211,9 +209,12 @@ eng:button. spa:botón.			boton	:	button	butono	nappi	guzik
 	made	Br	brom	:	bromine	bromo	bromi	brom				
 eng:brush.			brox	:	brush	broso	harja	szczotka				
 	dex	BN	bruney	:	Brunei Darussalam		Brunei	Brunei Darussalam				
+hin:बुद्धि "buddhi".			buda	:	realize	kompreni	ymmärtää (oivaltaa)	uświadomić sobie, zdać sobie sprawę, pojąć, pojmować				
 			budan	:	Mercury	Merkuro	Merkurius	Merkury				
+scr:बोधि (bodhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).			bude	:	realization (awareness, enlightenment, bodhi)	kompreno	ymmärrys (taju, oivallus)	uświadomienie, świadomość; oświecenie, bodhi				
 hin:बुद्ध (buddh).			bude	:	Buddha		Buddha	Budda				
-			budiste	:	Buddhist	budhisto	buddhalainen					
+			budi	:	aware (enlightened)	konscia	valaistunut	świadomy; oświecony				
+			budiste	:	Buddhist	budhisto	buddhalainen	buddysta				
 			budistia	:	Buddhism	budhismo	buddhalaisuus (buddhismi)	Buddyzm				
 spa:bufón. eng:buffoon. fra:bouffon.			bufon	:	fool (buffoon)	pajaco	hölmö (narri)	głupiec, bufon				
 			bujete	:	budget	buĝeto	budjetti	budżet				
@@ -304,11 +305,11 @@ ara:per:urd:"dars". tur:ders.			darse	:	lesson	leciono	oppi (opetus)	lekcja
 			darse bace	:	student (pupil)	studento (lernanto)	oppilas	uczeń, student				
 			darse gurú	:	teacher	instruisto	opettaja	nauczyciel				
 			darse kan	:	school (institution)	lernejo	koulu (opisto)	szkoła (instytucja)				
-			darwiniste	:	Darwinist		darwinisti					
+			darwiniste	:	Darwinist		darwinisti	darwinista				
 			darwinistia	:	Darwinism		darwinismi	darwinizm				
 zho: "dao".			daw	:	way (road)	vojo	tie	droga, szosa, ulica				
-			dawiste	:	Taoist		taolainen					
-			dawistia	:	Taoism		taolaisuus	taoizm				
+			dawiste	:	Taoist		taolainen	taoista				
+			dawistia	:	Taoism (Daoism)		taolaisuus	taoizm				
 yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".			day	:	big (very, greatly)	granda	iso (suuri; isosti, paljon)	duży; bardzo				
 			dayu	:	grow (get bigger)		kasvaa (suurentua)	urosnąć, rosnąć, wzrosnąć, wzrastać				
 			dayxi	:	ambassador	ambasadoro	lähettiläs	ambasador				
@@ -329,7 +330,7 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dew lojia	:	theology	teologio	teologia	teologia				
 			dewi	:	divine (godly)	dia	jumalallinen	boski				
 			dewi sage	:	myth (divine story)	mito	jumaltaru (myytti)	mit, boska opowieść				
-			dewiste	:	theist		teisti					
+			dewiste	:	theist		teisti	teistyczny				
 			dewistia	:	theism		teismi (jumalusko)	teizm				
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia				
 por"aldeia". spa:"aldea". ara:"ḍayʿa". + ind:jav:"desa".  per:"deh". kur"de".			deya	:	village	vilaĝo	kylä	wieś, wioska				
@@ -435,7 +436,7 @@ ita:fascia. por:faixa. spa:faja.			faxe	:	bandage (strip, ribbon)		side (remmi)	
 eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon). kor:패션 (pæsyeon). tha:แฟชั่น (feechan). ben:ফ্যাশন (phaśôn).			faxon	:	fashion (trend)		trendi	moda, trend				
 			faxoni	:	popular (trendy)		suosittu (trendikäs)	popularny, modny				
 			fay	:	fire	fajro	tuli	ogień				
-spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. per:(fāz).			faze	:	stage (phase)		vaihe (etappi)	etap. faza	etapa (fase)			
+spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. per:(fāz).			faze	:	stage (phase)		vaihe (etappi)	etap, faza	etapa (fase)			
 			fe	:	deed		teko	czyn, uczynek				
 			feber	:	fiever	febro	kuume	gorączka				
 			fem	:	female	ino	naaras	kobieta; kobiecy				
@@ -477,7 +478,7 @@ eng:fish. deu:Fisch.			fix	:	fish	fiŝo	kala	ryba
 			fobe	:	fear (phobia)	timo (fobio)	kammo (fobia)	strach, fobia				
 			fokus	:	focus (concentration)	koncentriĝo	keskittyminen (keskittymä)	skupienie, koncentracja				
 			fokusa	:	concentrate	koncentri	keskittää	skupić, się, skoncentrować się				
-			fone	:	phone (speech sound)		äänne (fooni)	allofon, głoska				
+			fone	:	phone (speech sound)		äänne (fooni)	głoska				
 			foneme	:	phoneme		äänne (foneemi)	fonem				
 zho: 风 "fēng". yue: 風 "fung".			fong	:	wind	vento	tuuli (puhallus)	wiatr				
 			fonga	:	blow	venti	tuulla (puhaltaa)	dmuchać				
@@ -585,7 +586,7 @@ eng:guru. tgl:guro.			gurú	:	guru (mentor)	guruo	guru (opettaja)	guru, mentor, 
 			guste	:	taste (flavor)	gusto	maku	smak				
 			gustu ka	:	taste like	gusti kiel	maistua	smakować jak				
 zho:鬼 "guǐ". vie:quỷ.			guy	:	fiend (evil spirit)	demono	paha henki	demon, diabeł, czart 				
-ara:"xabar". tur:haber. ind:khabar.			habar	:	news	novaĵoj	uutinen	wiadomość, nius				
+ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr).			habar	:	news	novaĵoj	uutinen	wiadomość, nius				
 			habar gazete	:	newspaper (gazette)	gazeto	sanomalehti	gazeta				
 	made	Hf	hafnium	:	hafnium	hafnio	hafnium	hafn				
 			haha	:	laugh	ridi	nauraa	śmiać się				
@@ -603,7 +604,8 @@ eng:hammer. deu:Hammer. jpn:"hanmā".			hamar	:	hammer	martelo	vasara	młot, mł
 			hamir	:	yeast	feĉo	hiiva	drożdże				
 	dex	KR	hangogia	:	Korea (South)	Sudkoreio	Etelä-Korea	Korea Południowa				
 			haos	:	chaos (disorder, turmoil)	kaoso (malordo)	kaaos	chaos, nieporządek; wrzawa, zgiełk				
-			harabi	:	bad (ruined, spoiled)	ruinigita	pilalla (raunioina)	zły, zrujnowany, zepsuty				
+			haraba	:	ruin (destroy, devastate, demolish)		pilata (tuhota)	rujnować, dewastwować, burzyć				
+ara:per:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).			harabi	:	bad (ruined, destroyed)	ruinigita	pilalla (raunioina)	zły, zrujnowany, zepsuty				
 ara:(ḥarf). tur:harf. per:urd:(harf). hau:harafi. swa:herufi. ind:huruf.			harfe	:	letter (character, written symbol)	litero	kirjain	litera, znak				
 			harmoni	:	harmonius	harmonia	harmoninen	harmoniczny				
 			harmonia	:	harmony	harmonio	harmonia	harmonia				
@@ -658,22 +660,22 @@ zho:葫芦 (húlu). mon:хулуу (huluu).			hulú	:	gourd (calabash)		pullokur
 			hura	:	free (liberate)	liberigi	vapauttaa	uwolnić, uwalniać				
 			huri	:	free (unchained)	libera	vapaa	wolny, niepodległy, niezależny				
 ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.			huria	:	freedom (liberty)	libereco	vapaus	wolność, niepodległość, niezależność				
-			huriste	:	liberalist		liberalisti					
-			huristi	:	liberal		liberaali (vapaamielinen)					
-			huristia	:	liberalism		liberalismi					
+			huriste	:	liberalist		liberalisti	liberalista, wolnościowiec				
+			huristi	:	liberal		liberaali (vapaamielinen)	liberalny, wolnościowy				
+			huristia	:	liberalism		liberalismi	liberalizm				
 spa:y. por:e. rus:и /i/. pol:i.			i	:	and	kaj	ja	i, oraz				
 			ibri	:	Hebrew	Hebrea	heprea	hebrajski				
 vie:ý chí. zho:意志 "yìzhì". kor:"uiji". jpn:"ishi". + hin:इच्छा "icchā". tel:"icchā".			ice	:	will (volition, desire)	voli	halu (tahto)	wola, chęć				
 por:ideia. rus:идея (ideya). fra:idée. deu:Idee. vie:ý định.			idey	:	idea	ideo	idea (aate)	idea, pomysł				
 			ideyal	:	ideal (optimal)	ideala	ihanteellinen (ideaali)	idealny, optymalny				
-			ideyaliste	:	idealist	idealisto	idealisti					
+			ideyaliste	:	idealist	idealisto	idealisti	idealista				
 			ideyalistia	:	idealisme	idealismo	idealismi	idealizm				
 zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie:ý kiến.			igen	:	opinion (view)	opinio	mielipide (näkemys)	opinia, pogląd				
 			impera	:	reign (rule as an emperor)		hallita yksinvaltaisesti	władać, panować, rządzić jako imperator				
 			imperer	:	emperor		keisari	imperator				
 			imperia	:	empire		keisarikunta	imperium				
-			imperiste	:	imperialist		imperialisti					
-			imperistia	:	imperialism		imperialismi					
+			imperiste	:	imperialist		imperialisti	imperialista				
+			imperistia	:	imperialism		imperialismi	imperializm				
 	made	In	indium	:	indium	indio	indium	ind				
 	dex	ID	indonesia	:	Indonesia	Indonezio	Indonesia	Indonezja				
 			informa	:	inform (communicate)		tiedottaa (informoida)	poinformować, informować, zakomunikować, komunikować				
@@ -682,9 +684,9 @@ zho:意见 "yìjiàn". yue:"yigin". jpn:意見 "iken". kor:의견 "uigyeon". vie
 			injener	:	engineer		insinööri	inżynier				
 ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". per:"ensān".			insan	:	human being	homo	ihminen	człowiek, istota ludzka				
 			insania	:	mankind (humanity)	homaro	ihmiskunta	ludzkość, rodzaj ludzki				
-			insaniste	:	humanist		humanisti					
-			insanisti	:	humanistic		humanistinen					
-			insanistia	:	humanism		humanismi					
+			insaniste	:	humanist		humanisti	humanista				
+			insanisti	:	humanistic		humanistinen	humanistyczny				
+			insanistia	:	humanism		humanismi	humanizm				
 			inspira	:	inspire		innoittaa (inspiroida)	inspirować; inspiracja				
 			inter	:	between		väli	między				
 			interes	:	interest (interesting)	interesa	kiinnostus (mielenkiinto)	zainteresowanie, zaciekawienie; interesujący				
@@ -695,12 +697,12 @@ ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". per:"ensā
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd				
 sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.			is	:	ice	glacio	jää	lód				
 			isi	:	icy	glacia	jäinen	lodowy				
-ara:(ʾislām). per:(taslim). tur:teslim.			islam	:	submission (surrender)		alistuminen (antautuminen)					
-			islamiste	:	muslim (moslem)		muslimi (islaminuskoinen)					
+ara:(ʾislām). per:(taslim). tur:teslim.			islam	:	submission (surrender)		alistuminen (antautuminen)	poddanie się, uległość, pokora, posłuszeństwo				
+			islamiste	:	muslim (moslem)		muslimi (islaminuskoinen)	muzułman, muzułmanin				
 			islamisti	:	Islamic	islama	islamilainen	islamski				
 			islamisti xaria	:	shari'a	ŝario	šaria	szariat				
 			islamistia	:	Islam	islamo	islam	Islam				
-			islamu	:	surrender (submit)		alistua (antautua)					
+			islamu	:	surrender (submit)		alistua (antautua)	poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym				
 	dex	IS	islandia	:	Iceland	Islando	Islanti	Islandia				
 	dex	IL	israel	:	Israel	Israelo	Israel	Izrael				
 	dex	IT	italia	:	Italy	Italio	Italia	Italia, Włochy				
@@ -723,7 +725,10 @@ hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:j�
 			jangi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny				
 			jani	:	known		tietty (tunnettu)	wiadomy, znany				
 			jar	:	jug (jar)		kannu (karahvi)	dzban, dzbanek; słój, słoik				
+mya:ဇေယျ (jeyya.). tha:ชัย (chai). khm:ជ័យ (cɨy). ind:jav:may:jaya. hin:जय (jay), विजय (vijay).			jay	:	victory (win)	venko	voitto					
+			jaya	:	win (defeat)	venki	voittaa (kukistaa)					
 	dex	DZ	jayer	:	Algeria		Algeria	Algieria				
+			jayistia	:	Jainism		jainalaisuus					
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez				
 hin:जेब (jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń				
 			jele	:	gel (jelly)	ĝelo	hyytelö	żel, galareta				
@@ -838,7 +843,7 @@ zho: 开 "kāi".			kay	:	open (not closed)	malferma	auki (avoin)	otwarty, niezam
 			kayu	:	become open	malfermiĝi	aueta (avautua)	otworzyć się, otwierać się				
 	dex	KZ	kazahia	:	Kazakhstan		Kazakstan	Kazachstan				
 			kaze	:	event (case, instance)		tapaus	wydarzenie, przypadek, sytuacja				
-spa:qué. fra:que. + ben:কে  "ke".			ke	:	what?	kio?	mikä? (mitä?)	jak?				
+spa:qué. fra:que. + ben:কে  "ke".			ke	:	what?	kio?	mikä? (mitä?)	co?				
 yue:茄汁 (kezap). eng:ketchup. hin:केचप (kecap). rus:кетчуп (ketčup). jpn:ケチャップ (kechappu). tgl:ketsap.			kecape	:	ketchup	keĉupo	ketsuppi	keczup	kétchup			
 			keci	:	polite		kohtelias (kiltti)	uprzejmy				
 swa:keki. jpn:ケーキ "kēki". eng:cake. ara:"kaʿka". tur:kek. hin:केक "kek". deu:Keks. rus:кекс "keks".			keke	:	cake (cookie)	kuko	kakku (keksi)	ciasto, ciastko				
@@ -893,16 +898,15 @@ ara:"qismat". hin:क़िस्मत "qismat".			kisme	:	fate (destiny, kisme
 			kode	:	code (cipher)	kodo	koodi	kod, szyfr				
 spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).			koká	:	coca		kooka	koka				
 fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.			koke	:	chicken	koko	kana	kura, kogut, kurczak				
-deu: Kokos. rus: кокос /kokos/. eng:fra:spa:por: coco.			kokos	:	coco	kokoso	kookos	kokos				
 	dex	CC	kokos nesia	:	Cocos (Keeling) Islands		Kookossaaret	Wyspy Kokosowe				
 			kola	:	cola		cola	kola, napój gazowany				
 			kolera	:	cholera		kolera	cholera				
 	dex	CO	kolombia	:	Colombia		Kolumbia	Kolumbia				
-			kolona	:	colonize		kolonisoida					
-			koloner	:	colonist							
+			kolona	:	colonize		kolonisoida	kolonizować				
+			koloner	:	colonist			kolonizator				
 			kolonia	:	colony (settlement)		kolonia (siirtomaa)	kolonia, osada				
-			koloniste	:	colonialist		kolonialisti					
-			kolonistia	:	colonialism		kolonialismi					
+			koloniste	:	colonialist		kolonialisti	kolonialista				
+			kolonistia	:	colonialism		kolonialismi	kolonializm				
 eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna).			kolum	:	column (pillar)	kolono	pylväs (pilari)	kolumna, filar				
 			komá	:	comma		pilkku	przecinek				
 			komal	:	soft	mola	pehmeä	miękki				
@@ -948,8 +952,8 @@ eng:fra:por:crime. spa:crimen. tgl:krimen.			krim	:	crime	krimo	rikos	przestęps
 			krimi	:	criminal	krima	rikos- (rikollinen)	kryminalny, przestępczy				
 			kriste	:	Christ (messiah)	kristo	kristus (messias)	Chrystus, mesjasz				
 			kriste jen	:	Christmas	kristnasko	joulu	Boże Narodzenie				
-			kristi	:	messianic		messiaaninen					
-			krististe	:	Christian		kristitty					
+			kristi	:	messianic		messiaaninen	mesjański				
+			krististe	:	Christian		kristitty	chrześcijanin				
 			krististia	:	Christianity		kristinusko	chrześcijaństwo				
 			krita	:	cry (shout)		huutaa	krzyknąć, krzyczeć				
 	made	Kr	kriton	:	krypton	kriptono	kryptoni	krypton				
@@ -1270,6 +1274,7 @@ kor:문 (mun). yue:門 (mun). jpn:門 (mon). zho:门 (mén).			mun	:	door (gate,
 			mungus	:	mongoose		mangusti	mangusta				
 			munkin	:	possibly (maybe)		mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie				
 			mur	:	wall		seinä (muuri)	mur, ściana				
+			mur papir	:	wallpaper		tapetti	tapeta				
 	dex	MR	muritania	:	Mauritania		Mauritania	Mauretania				
 			musa	:	coerce (force, compel)	devigi	pakottaa	zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać				
 			muse	:	coercion	devo	pakko	przymus				
@@ -1283,7 +1288,10 @@ spa:mudar. eng:mutate. fra:muter.			muta	:	change (alter, convert)	aliigi	muutta
 pol:mysz.			mux	:	mouse	muso	hiiri	mysz				
 			muxing	:	Jupiter		Jupiter	Jupiter				
 swa: na. lin: na. rus: на /na/.			na	:	with (by, at, in, on)		kanssa (luona, -lla, -ssa)	przy, z, na, w, u				
-ara:"nabiy". hin:नबी "nabī". ind:nabi. swa:nabii. hau:annabi. tur:nebi.			nabe	:	prophecy	profetaĵo	profetia	proroctwo				
+			nabe	:	prophecy	profetaĵo	profetia	proroctwo				
+ara:"nabiy". hin:नबी "nabī". ind:nabi. swa:nabii. hau:annabi. tur:nebi.			naber	:	prophet		profeetta					
+rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.			naciste	:	Nazi		natsi					
+			nacistia	:	Nazism		natsismi					
 			nade	:	river	rivero	joki	rzeka				
 ara:"nafas". hau:numfashi.			nafas	:	breath	spiro	hengitys (henkäys)	oddech				
 			nahun	:	nail (fingernail)		kynsi	paznokieć				
@@ -1297,8 +1305,9 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 			narake	:	hell		helvetti	piekło				
 			nas	:	people (folk)		kansa	ludzie, lud, ludność				
 			nasi	:	national		kansallinen	ludowy, narodowy				
+			nasi socistia	:	national socialism		kansallissosialismi					
 			nasia	:	nation		kansakunta	naród, narodowość				
-			nasiste	:	nationalist		nationalisti					
+			nasiste	:	nationalist		nationalisti	nacjonalista				
 			nasistia	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm				
 	made	Na	natre	:	sodium	natrio	natrium	sód				
 	dex	NR	nauru	:	Nauru		Nauru	Nauru				
@@ -1361,7 +1370,7 @@ per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.			nowi	:	new (
 	dex	NZ	nowi zilandia	:	New Zealand		Uusi-Seelanti	Nowa Zelandia				
 			noy	:	nine (9)		yhdeksän	dziewięć (9)				
 			nudi	:	naked (bare)		alaston (paljas, naku)	nagi, goły, obnażony				
-			nudiste	:	nudist		nudisti					
+			nudiste	:	nudist		nudisti	nudysta				
 			nudistia	:	nudism		nudismi	nudyzm				
 			nul	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden				
 			nul ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba				
@@ -1409,29 +1418,29 @@ hin:mar:पगड़ी (pagṛī). urd:(pagṛī). ben:পাগড়ি (pagr
 eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.			pake	:	pack (package)	pako	pakkaus (paketti)	paczka, paka				
 			pakistan	:	Pakistan		Pakistan	Pakistan				
 hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pan:ਪੰਖੀ (paṅkhī).			pakse	:	bird	birdo	lintu	ptak				
-hin: फल /phal/. ben: ফল /phal/. tam: பழம் /palam/.			pal	:	fruit	frukto (rezulto)	hedelmä	owoc				
+hin:फल (phal). pan:ਫਲ (phal). ben:ফল (phal). tam: பழம் (palam). tel:(phalamu). tha:ผน-ละ- (phon-la).			pal	:	fruit	frukto (rezulto)	hedelmä	owoc				
 	made	Pd	paladium	:	palladium	paladio	palladium	pallad				
 	dex	PW	palaw	:	Palau		Palau	Palau				
-			palma	:	palm tree	palmo	palmu	palma, drzewo palmowe				
+deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).			palme	:	palm tree	palmo	palmu	palma, drzewo palmowe				
 			pamá	:	parent	gepatro(j)	vanhempi (isä tai äiti)	rodzic				
 			pan	:	all	ĉiu	kaikki	wszyscy, wszystkie, wszystko; każdy				
 			panafriki	:	pan-African		panafrikkalainen	panafrykański				
 			panameriki	:	pan-American		panamerikkalainen	panamerykański				
 	dex	PA	panamia	:	Panama	Panamo	Panama	Panama				
 			panasi	:	pan-Asian		panaasialainen	panazjatycki				
-			panda	:	panda	pando	panda	panda				
+			pande	:	panda	pando	panda	panda				
 			pandunia	:	Pandunia	pandunia	pandunia	Pandunia				
 			paneuropi	:	pan-European		paneurooppalainen	paneuropejski				
 			panike	:	panic	paniko	hätä (paniikki)	panika				
 	nas		panjabi	:	Punjabi		pandžabi (eräs intialainen kieli)	pendżabski				
 			pantalon	:	pants (trousers)	pantalonoj	housut	spodnie, pantalony, portki				
-eng: pa. rus:папа "papa". zho: 爸 "bà".			papá	:	father	patro	isä	ojciec				
-			papaya	:	papaya	papajo	papaija	papaja				
-			paper	:	paper	papero	paperi	papier				
+eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).			papá	:	father	patro	isä	ojciec				
+			papay	:	papaya	papajo	papaija	papaja				
+deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.			papir	:	paper	papero	paperi	papier				
 	dex	PG	papua nowi ginia	:	Papua New Guinea		Papua Uusi-Guinea	Papua Nowa Gwinea				
 			par	:	equal (peer)		vertainen	równy				
 	dex	PY	paraguay	:	Paraguay		Paraguai	Paragwaj				
-ben:পরদা "pôrda". hin:पर्दा "pardā". tur:perde. kaz:перде "perde".			parde	:	curtain	kurteno	verhot	zasłona, kurtyna				
+ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).			parde	:	curtain	kurteno	verhot	zasłona, kurtyna				
 fra:eng:tur:ron:hun:pardon. spa:perdón. por:perdão. bul:rus:пардон (pardon).			pardon	:	sorry (pardon)		anteeksi	przepraszam!				
 eng: past. spa: pasado. fra: passé.			pas	:	past (bygone)		mennyt	przeszły, miniony				
 			pasa	:	pass (go by, go past)		kuluttaa aikaa	minąć, mijać, przeminąć, przemijać				
@@ -1496,7 +1505,7 @@ eng:plant. por:spa:planta. fra:plante.			plante	:	plant (vegetation)	planto	kasv
 	made	Pt	platin	:	platinum	plateno	platina	platyna				
 			platon	:	Plato		Platon	Platon				
 			platoni	:	Platonic		platoninen	platoniczne				
-			platoniste	:	Platonist		platonisti					
+			platoniste	:	Platonist		platonisti	platończyk				
 			platonistia	:	Platonism		platonismi	platonizm				
 	made	Pb	plumbe	:	lead	plumbo	lyijy	ołów				
 			plus	:	also (plus, too)	ankaŭ	myös (lisäksi, plus)	też, również				
@@ -1576,7 +1585,7 @@ hin:राज्य (rājya). ben:রাজ্য (rajyô).			rajia	:	kingdom		k
 			rang	:	color	koloro	väri	kolor				
 			rapidi	:	fast (quick)			szybki, prędki				
 			ras	:	race (ethnicity)	raco	rotu	rasa, narodowość				
-			rasiste	:	racist	racisto	rasisti					
+			rasiste	:	racist	racisto	rasisti	rasista				
 			rasistia	:	racism	racismo	rasismi (rotuoppi)	rasizm				
 ara:(rasm). hin:रस्म (rasma). ind:resmi.			rasme	:	custom (tradition, practice, convention)		tapa (perinne)	obyczaj, zwyczaj, tradycja, praktyka, konwencja				
 			rasmi	:	conventional (customary, traditional)		tavanomainen (perinteinen)	konwencjonalny, zwyczajowy, tradycyjny				
@@ -1735,8 +1744,8 @@ tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).			sesa
 rus:сидеть "sidet'". eng:sit. deu:sitzen. ita:sedere.			sida	:	sit	sidi	istua	siedzieć				
 			sife	:	quality (charasteristic)			cecha, właściwość, parametr				
 			sigar	:	cigarette (cigar)		savuke tai sikari	papieros (cygar)				
-			sikiste	:	Sikh		sikhi					
-			sikistia	:	Sikhism		sikhiläisyys					
+			sikiste	:	Sikh		sikhi	sikh				
+			sikistia	:	Sikhism		sikhiläisyys	sikhizm				
 	made	Si	silike	:	silicon	silicio	pii	krzem				
 hin:सिलसिला (silsilā). ara:(silsila). tur:silsile. swa:silisili.			silsil	:	chain		ketju	łańcuch				
 			simpli	:	simple (not complicated)	simpla	yksinkertainen (mutkaton)	prosty, nieskomplikowany				
@@ -1758,12 +1767,11 @@ eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).			site	
 	made	Sc	skandium	:	scandium	skandio	skandium	skand				
 	dex	SK	slowakia	:	Slovakia		Slovakia	Słowacja				
 	dex	SI	slowenia	:	Slovenia		Slovenia	Słowenia				
-eng:so. deu:so. jpn:そう "sō".			so	:	so (like this, like that)	tiel	siten (täten)	tak, w ten sposób				
 			soci	:	social		yhteiskunnallinen (sosiaalinen)	społeczny				
 rus:социум (socium). eng:society. spa:sociedad.			socia	:	society (social system)		yhteiskunta	społeczeństwo, system społeczny				
-			sociste	:	socialist		sosialisti					
+			sociste	:	socialist		sosialisti	socjalista				
 			socistia	:	socialism		sosialismi	socjalizm				
-			sofa	:	sofa (couch)	sofo	sohva	sofa, kanapa				
+			sofá	:	sofa (couch)	sofo	sohva	sofa, kanapa				
 			sofi	:	wise		viisas	mądry				
 			sofia	:	wisdom	saga	viisaus	mądrość				
 deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). rus:носок (nosok). 			soke	:	sock (stocking)	ŝtrumpo	sukka	skarpeta, skarpetka, pończocha				
@@ -1836,6 +1844,7 @@ zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda
 			tabia	:	nature (environment)	naturo	luonto	natura, środowisko				
 			tabia lojia	:	ecology (study of environment)		ekologia (ympäristötiede)					
 			tabial	:	environmental (natural)		ympäristö- (luonto-)	środowiskowy, naturalny				
+zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). per:urd:(tufān). hin:तूफ़ान (tūfān). pan:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).			tafun	:	storm (tempest, typhoon, hurricane, cyclone)	ŝtormo	myrsky	burza, sztorm, tajfun				
 			taibei	:	Taipei		Taipei	Tajpej				
 			taiga	:	taiga	tajgo	taiga	tajga				
 	dex	TW	taiwan	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska				
@@ -1884,7 +1893,7 @@ zho:天气 "tiănqì". jpn:天気 "tenki". 			tenki	:	weather	vetero	sää	pogod
 eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	taśma			лента	ruban (bande)
 	made	Tb	terbium	:	terbium	terbio		terb				
 			teror	:	terror	teroro	kauhu (terrori)	terror				
-			teroriste	:	terrorist	teroristo	terroristi					
+			teroriste	:	terrorist	teroristo	terroristi	terrorysta				
 			teroristia	:	terrorism	terorismo	terrorismi	terroryzm		恐怖行为	терроризм	terrorisme
 eng:test. rus: тест "test".			teste	:	test (challenge, trial)	testo	koe (testi, koettelemus)	test, wyzwanie, próba		化验	анализ (тест)	épreuve (test)
 			teyan	:	suggestion (proposal)		ehdotus	sugestia, propozycja				
@@ -1919,7 +1928,7 @@ fra:torse. rus:торс (tors). deu:eng:spa:ind:torso.			torse	:	trunk (torso)	t
 			tortuge	:	turtle (tortoise)		kilpikonna	żółw				
 			total	:	total (affecting all)		totaalinen (kaikkia koskeva)	totalny, ogólny				
 			toti	:	whole (entire, all)		kaikki	cały, kompletny, całkowity				
-eng:towel. spa:toalla. por:toalha. hin:तौलिया "tauliyā". ben:তোয়ালে "toyale". tgl:tuwalya. jpn:タオル "taoru".			towal	:	towel	viŝilo	pyyhe	ręcznik				
+eng:towel. spa:toalla. por:toalha. hin:तौलिया (tauliyā). ben:তোয়ালে (toyale). tgl:tuwalya. jpn:タオル (taoru).			towal	:	towel	viŝilo	pyyhe	ręcznik				
 eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).			trans	:	transit (passage)		läpikulku	przejazd, przewóz, tranzyt				
 			transa	:	transit (pass through or across)		kulkea poikki, läpi tai yli	przejść, przechodzić, przejechać, przejeżdżać				
 eng:fra:train. spa:tur:tren. hin:ट्रेन "ṭren".			tren	:	train	trajno (vagonaro)	juna	pociąg				
@@ -1930,8 +1939,7 @@ fra:spa:tribu. por:tgl:tribo. eng:tribe.			tribe	:	tribe	tribo	heimo	plemię
 			tu	:	you	vi (ci)	sinä	ty, ciebie				
 			tuale	:	toilet (WC)		vessa	taleta, WC				
 spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.			tube	:	tube (pipe)	tubo	putki (tuubi)	tuba, rura				
-			tufon	:	storm (tempest)	ŝtormo	myrsky	burza, sztorm, tajfun				
-hin: थूकना /thūknā/. zho: 吐 "tǔ". tur:tükürmek.			tuka	:	spit	sputi	sylkeä	pluć				
+hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.			tuka	:	spit	sputi	sylkeä	pluć				
 eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.			tul	:	tool	ilo	työkalu	narzędzie				
 	made	Tm	tulium	:	thulium	tulio		tul				
 			tulpan	:	tulip		tulppaani	tulipan				
@@ -2060,6 +2068,7 @@ ara:"šayʾ" egy:"šeʾ" tur:şey. zho:事 "shì".			xey	:	thing		asia	rzecz
 kor: 심 /sim/. zho: 心 "xīn".			xim	:	heart	koro	sydän	serce				
 zho: 信 (xìn). yue: 信 (seon3). jpn: 信 (shin). vie:tin.			xin	:	belief (faith, creed)	kredo	usko (luottamus)	wiara, wierzenie, kredo				
 			xina	:	believe	kreda	uskoa (luottaa)	wierzyć				
+jpn:神道 (shintō). kor:신도 (sindo). zho:神道 (shéndào).			xindawistia	:	Shintoism		sintolaisuus					
 zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).			xing	:	star	stelo	tähti	gwiazda				
 ara:"šiʿr". tur:şiir. per:"še'r". swa:shairi. zho:诗 "shī". jpn:詩 "shi". kor:시 "ši". 			xir	:	poem	poemo	runo	poemat				
 			xirer	:	poet		runoilija	poeta				
@@ -2088,10 +2097,12 @@ ara:per:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).			yatim	:	orp
 			yatim kan	:	orphanage		orpokoti	sierociniec, dom dziecka				
 			ye	:	he or she or it	li aŭ ŝi aŭ ĝi	hän (se)	on, ona, ono				
 			yehudi	:	Jewish		juutalainen	żydowski				
+			yehudistia	:	Judaism		juutalaisuus					
 			yemen	:	they	ili	he	oni				
 zho: 眼 "yǎn". ara: عين‏‎ /ʿen/.			yen	:	eye	okulo	silmä	oko				
 kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.			yen suy	:	tear drop		kyynel	łza				
 			yesu	:	Jesus	Jesuo	Jeesus	Jezus				
+zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).			yeze	:	coco	kokoso	kookos	kokos				
 			yode	:	iodine		jodi	jod; jodyna				
 			yoga	:	do yoga		joogata	uprawiać jogę				
 			yoge	:	yoga	jogo	jooga	joga				
@@ -2111,7 +2122,7 @@ tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:			zaman	:	time (moment)		aika (h
 	dex	ZM	zambia	:	Zambia	Zambio	Sambia	Zambia				
 ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).			zar	:	hazard (chance)	hazardo	sattuma (onni)	niebezpieczeństwo, ryzyko, szansa				
 			zardux	:	Zoroaster	Zoroastro	Zarathustra	Zaratusztra				
-			zarduxiste	:	Zoroastrian	zoroastristo	zarathustralainen					
+			zarduxiste	:	Zoroastrian	zoroastristo	zarathustralainen	zaratrustianin				
 			zarduxistia	:	Zoroastrianism	zoroastrismo	zarathustralaisuus	zaratusztrianizm				
 			zari	:	random	hazarda	sattumanvarainen	losowy				
 zho: 在 "zài". jpn: "zai".			zay	:	present (current, existing)	ĉeestanta (nuna, ekzistanta)	kuluva (tämänhetkinen)	obecny, teraźniejszy, aktualny, bieżący, współczesny				

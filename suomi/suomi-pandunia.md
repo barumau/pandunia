@@ -463,6 +463,7 @@ itämainen lohikäärme : rong
 Itävalta : osteria  
 ##j  
 ja : i  
+jainalaisuus : jayistia  
 jakaa (jaella) : fada  
 jakaa (paloitella) : fena  
 jakki : yake  
@@ -516,6 +517,7 @@ jutella (höpistä) : blabla
 juuri : gen  
 juusto : cis  
 juutalainen : yehudi  
+juutalaisuus : yehudistia  
 jyrinä (ukkonen) : grom  
 jäinen : isi  
 jänis : tuze  
@@ -561,6 +563,7 @@ kansa : demó
 kansa : nas  
 kansakunta : nasia  
 kansallinen : nasi  
+kansallissosialismi : nasi socistia  
 kansallisuusaate (nationalismi) : nasistia  
 kanssa (luona, -lla, -ssa) : na  
 kapina : rebel  
@@ -710,7 +713,7 @@ kontiainen (maamyyrä) : krote
 koodata : koda  
 koodi : kode  
 kooka : koká  
-kookos : kokos  
+kookos : yeze  
 Kookossaaret : kokos nesia  
 koominen (hauska) : yumori  
 koota (kerätä) : jama  
@@ -1105,7 +1108,7 @@ muuttaa (muuntaa) : muta
 Myanmar (Burma) : bama  
 myky (pelmeni, ravioli) : pelmen  
 mylläri : moler  
-myrsky : tufon  
+myrsky : tafun  
 myös (lisäksi, plus) : plus  
 mänty : song  
 mökki : xalé  
@@ -1126,6 +1129,8 @@ nappi : boton
 nationalisti : nasiste  
 natrium : natre  
 natriumglutamaatti : micin  
+natsi : naciste  
+natsismi : nacistia  
 naula (piikki) : ding  
 nauraa : haha  
 Nauru : nauru  
@@ -1259,20 +1264,20 @@ Palestiina : filistinia
 paljastaa : kapula  
 palladium : paladium  
 pallo : bol  
-palmu : palma  
+palmu : palme  
 palvoa : puja  
 palvonta : puje  
 panaasialainen : panasi  
 panafrikkalainen : panafriki  
 Panama : panamia  
 panamerikkalainen : panameriki  
-panda : panda  
+panda : pande  
 pandunia : pandunia  
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
 pannu (paistinpannu) : tawa  
-papaija : papaya  
-paperi : paper  
+papaija : papay  
+paperi : papir  
 pappi : din gurú  
 papu tai herne : dow  
 Papua Uusi-Guinea : papua nowi ginia  
@@ -1320,6 +1325,7 @@ pikkutakki (jakku) : jaket
 piknik (retki) : piknike  
 pilahvi : polaw  
 pilalla (raunioina) : harabi  
+pilata (tuhota) : haraba  
 pilkku : komá  
 pilvi : megam  
 pimeä (hämärä) : oskur  
@@ -1373,6 +1379,7 @@ posti (lähetys) : poste
 postileima : poste cap  
 postitoimisto : poste kan  
 povi : buste  
+profeetta : naber  
 professori : profesor  
 profetia : nabe  
 projekti : proje  
@@ -1587,17 +1594,17 @@ simpanssi : cimpanze
 Singapore : singapur  
 sininen : nil  
 sinkki : zinke  
+sintolaisuus : xindawistia  
 sinä : tu  
 Siperia : sibir  
 sisarus (veli tai sisko) : saudar  
-siten (täten) : so  
 sitoa : banda  
 sitruuna : limun  
 skandium : skandium  
 Slovakia : slowakia  
 Slovenia : slowenia  
 smaragdi : zumrude  
-sohva : sofa  
+sohva : sofá  
 soittaa (musisoida) : musika  
 sokeri : sukar  
 solmu : node  
@@ -1707,6 +1714,7 @@ tapa (perinne) : rasme
 tapa (rutiini) : rutin  
 tapaaminen (kokous) : mite  
 tapaus : kaze  
+tapetti : mur papir  
 tappaa : morta  
 tappaja : morter  
 tarha : gardin  
@@ -1891,7 +1899,7 @@ vain (ainoastaan) : mon
 vaiva (haitta) : mafan  
 vaivata (hieroa) : masaja  
 vaivata : mafana  
-valaistunut : bodi  
+valaistunut : budi  
 valinta (vaali) : cunze  
 valita : cunza  
 valjaat : majú  
@@ -1982,6 +1990,8 @@ voida (osata, pystyä) : ken
 voima : bale  
 voimakas (vahva) : bal  
 voipuu : karite  
+voittaa (kukistaa) : jaya  
+voitto : jay  
 voltti (V) : volta  
 voodoo : vodu  
 vuode (sänky, peti) : bede  
@@ -2032,8 +2042,8 @@ ylittää (yllä, päällä) : supra
 ylitys : supre  
 yllätys : supris  
 ylä- (yli-) : supri  
-ymmärrys (taju, oivallus) : bode  
-ymmärtää (oivaltaa) : boda  
+ymmärrys (taju, oivallus) : bude  
+ymmärtää (oivaltaa) : buda  
 ympyrä : wen  
 ympäristö- (luonto-) : tabial  
 ympäröidä (piirittää, olla ympärillä) : sirka  
