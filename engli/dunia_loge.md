@@ -150,9 +150,6 @@ As you can see, the same word is written and pronounced differently in different
 | Arabic     | ʃai          | شاي |
 | Portuguese | ʃa           | chá             |
 
-<!-- 
-#### kafe (coffee)
--->
 
 #### motor (motor)
 
@@ -169,11 +166,10 @@ As you can see, the same word is written and pronounced differently in different
 | Japanese   | mo:ta:       | モーター         |
 | Mandarin   | muotuo       | 摩托              |
 
-<!-- salad guitar -->
 
 ### Examples of semiglobal words
 
-#### bandera (flag)
+#### bander (flag)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -203,7 +199,7 @@ As you can see, the same word is written and pronounced differently in different
 | Filipino   | kamisa       | kamisa          |
 
 
-#### kat (to cut)
+#### kata (to cut)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -217,24 +213,20 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of South Asian words
 
-#### manux (human being)
+#### pal (fruit)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
-| Hindi      | manuʂia      | मनुष्य          |
-| Bangla     | manuʃ        | মানুষ           |
-| Telugu     | manisi       | మనిషి      |
-| Tamil      | manitan      | மனிதன்         |
-| Khmer      | mɔnuh        | មនុស្ស     |
-| Thai       | manut        | มนุษย์          |
-| Indonesian | manusia      | manusia         |
-| Javanese   | manuŋsa      | manungsa        |
-
+| Hindi      | phal         | फल          |
+| Bangla     | phal         | ফল           |
+| Telugu     | phalamu      |        |
+| Tamil      | palam        | பழம்         |
+| Thai       | phon(la)     | ผน(ละ)         |
 
 
 ### Examples of East Asian words
 
-#### jen (person)
+#### ren (person)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -258,7 +250,7 @@ As you can see, the same word is written and pronounced differently in different
 | Japanese   | ka           | 花           |
 
 
-#### lai (come)
+#### laya (come)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -274,19 +266,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of words from Arabic
 
-#### ama (but)
-
-| Language   | Spoken  form | Written word    |
-|------------|--------------|-----------------|
-| Arabic     | ʾammā        | اما             |
-| Persian    | æmma         | اما             |
-| Urdu       | əmma         | اما             |
-| Tajik      | ammo         | аммо            |
-| Turkish    | ama          | ama             |
-| Hausa      | amma         | amma            |
-| Yoruba     | amɔ          | amọ             |
-
-#### dua (prayer)
+#### duwe (prayer)
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
@@ -298,7 +278,7 @@ As you can see, the same word is written and pronounced differently in different
 | Hausa      | adduʕa       | addu'a          |
 | Yoruba     | adura        | àdúrà           |
 
-#### kitab (writing)
+#### kitabe (writing)
 
 This word means _book_ in many languages. The original Arabic word means all kinds of writing.
 
@@ -327,19 +307,5 @@ This word means _book_ in many languages. The original Arabic word means all kin
 | Hindi      | kəmra        | कमरा             |
 | Urdu       | kəmra        | کمرا      |
 | Indonesian | kamar        | kamar           |
-
-<!--
-
-#### janela (window)
-
-
-projet (planned endeavour)
-
-ris
-typical phenomen that there is a common word in regions where the word traveled late.
-
-pal (palamu)
-
--->
 
 
