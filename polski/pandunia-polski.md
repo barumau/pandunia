@@ -2,8 +2,11 @@
 -e : przyrostek dla (wyniku) działania  
 -em : przyrostek dla jednostki podstawowej  
 -er : przyrostek dla wykonawcy  
+-eria : przyrostek dla miejsca wykonywania  
 -i : przyrostek dla przymiotnika  
 -ia : przyrostek dla miejsca  
+-iste : przyrostek dla wsperającego ideę  
+-istia : przyrostek dla ideologii  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
 ##a  
 a : ale, lecz  
@@ -96,6 +99,8 @@ badawi : beduiński; nomadyczny
 bade : konsekwencja, skutek  
 bagaje : bagaż  
 bagre : tygrys  
+bahaiste : bahaista  
+bahaistia : bahaizm  
 bahama : Bahamy  
 bahrain : Bahrajn  
 bal : silny  
@@ -139,6 +144,7 @@ bax lojia : językoznastwo
 bax : język; komunikacja  
 baxa : mówić; komunikować  
 bay : biały  
+bazar huristia : liberalizm rynkowy  
 bazar : rynek, bazar  
 baze : podstawa, baza, fundament  
 bazi : bazowy, podstawowy  
@@ -181,9 +187,6 @@ biznes ren : osoba biznesu, biznesman
 biznes : biznes, interes (aktywność komercyjna)  
 blabla : luźna rozmowa, gadanina  
 blable kamar : pokój rozmów, chat  
-boda : uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
-bode : uświadomienie, świadomość; oświecenie, bodhi  
-bodi : świadomy; oświecony  
 boikote : bojkot  
 boke : usta  
 bol : piłka  
@@ -206,8 +209,12 @@ britania : Zjednoczone Królestwo
 brom : brom  
 brox : szczotka  
 bruney : Brunei Darussalam  
+buda : uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 budan : Merkury  
 bude : Budda  
+bude : uświadomienie, świadomość; oświecenie, bodhi  
+budi : świadomy; oświecony  
+budiste : buddysta  
 budistia : Buddyzm  
 bufon : głupiec, bufon  
 bujete : budżet  
@@ -300,8 +307,10 @@ darse bace : uczeń, student
 darse gurú : nauczyciel  
 darse kan : szkoła (instytucja)  
 darse : lekcja  
+darwiniste : darwinista  
 darwinistia : darwinizm  
 daw : droga, szosa, ulica  
+dawiste : taoista  
 dawistia : taoizm  
 day : duży; bardzo  
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
@@ -323,6 +332,7 @@ dew lojia : teologia
 dew : bóg, bóstwo  
 dewi sage : mit, boska opowieść  
 dewi : boski  
+dewiste : teistyczny  
 dewistia : teizm  
 dex : kraj, ziemia  
 deya stan : wieś, tereny wiejskie  
@@ -430,7 +440,7 @@ faxistia : faszyzm
 faxon : moda, trend  
 faxoni : popularny, modny  
 fay : ogień  
-faze : etap. faza  
+faze : etap, faza  
 fe : czyn, uczynek  
 feber : gorączka  
 fem bace : córka  
@@ -472,7 +482,7 @@ flur : fluor
 fobe : strach, fobia  
 fokus : skupienie, koncentracja  
 fokusa : skupić, się, skoncentrować się  
-fone : allofon, głoska  
+fone : głoska  
 foneme : fonem  
 fong : wiatr  
 fonga : dmuchać  
@@ -600,6 +610,7 @@ hamar : młot, młotek
 hamir : drożdże  
 hangogia : Korea Południowa  
 haos : chaos, nieporządek; wrzawa, zgiełk  
+haraba : rujnować, dewastwować, burzyć  
 harabi : zły, zrujnowany, zepsuty  
 harfe : litera, znak  
 harmoni : harmoniczny  
@@ -655,17 +666,23 @@ humus : ciecierzyca
 hura : uwolnić, uwalniać  
 huri : wolny, niepodległy, niezależny  
 huria : wolność, niepodległość, niezależność  
+huriste : liberalista, wolnościowiec  
+huristi : liberalny, wolnościowy  
+huristia : liberalizm  
 ##i  
 i : i, oraz  
 ibri : hebrajski  
 ice : wola, chęć  
 idey : idea, pomysł  
 ideyal : idealny, optymalny  
+ideyaliste : idealista  
 ideyalistia : idealizm  
 igen : opinia, pogląd  
 impera : władać, panować, rządzić jako imperator  
 imperer : imperator  
 imperia : imperium  
+imperiste : imperialista  
+imperistia : imperializm  
 indium : ind  
 indonesia : Indonezja  
 informa : poinformować, informować, zakomunikować, komunikować  
@@ -674,6 +691,9 @@ inje : imbir
 injener : inżynier  
 insan : człowiek, istota ludzka  
 insania : ludzkość, rodzaj ludzki  
+insaniste : humanista  
+insanisti : humanistyczny  
+insanistia : humanizm  
 inspira : inspirować; inspiracja  
 inter : między  
 interes : zainteresowanie, zaciekawienie; interesujący  
@@ -684,9 +704,12 @@ iran : Iran
 iridium : iryd  
 is : lód  
 isi : lodowy  
+islam : poddanie się, uległość, pokora, posłuszeństwo  
+islamiste : muzułman, muzułmanin  
 islamisti xaria : szariat  
 islamisti : islamski  
 islamistia : Islam  
+islamu : poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 islandia : Islandia  
 israel : Izrael  
 italia : Italia, Włochy  
@@ -826,7 +849,7 @@ kaya : otworzyć, otwierać
 kayu : otworzyć się, otwierać się  
 kazahia : Kazachstan  
 kaze : wydarzenie, przypadek, sytuacja  
-ke : jak?  
+ke : co?  
 kecape : keczup  
 keci : uprzejmy  
 keke : ciasto, ciastko  
@@ -881,12 +904,15 @@ koda : kodować
 kode : kod, szyfr  
 koke : kura, kogut, kurczak  
 kokos nesia : Wyspy Kokosowe  
-kokos : kokos  
 koká : koka  
 kola : kola, napój gazowany  
 kolera : cholera  
 kolombia : Kolumbia  
+kolona : kolonizować  
+koloner : kolonizator  
 kolonia : kolonia, osada  
+koloniste : kolonialista  
+kolonistia : kolonializm  
 kolum : kolumna, filar  
 komal : miękki  
 komoro nesia : Komory  
@@ -932,6 +958,8 @@ krim : przestępstwo
 krimi : kryminalny, przestępczy  
 kriste jen : Boże Narodzenie  
 kriste : Chrystus, mesjasz  
+kristi : mesjański  
+krististe : chrześcijanin  
 krististia : chrześcijaństwo  
 krita : krzyknąć, krzyczeć  
 kriton : krypton  
@@ -1253,6 +1281,7 @@ mumu : krowa
 mun : drzwi, brama, portal  
 mungus : mangusta  
 munkin : prawdopodobnie, możliwie  
+mur papir : tapeta  
 mur : mur, ściana  
 muritania : Mauretania  
 musa : zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
@@ -1283,6 +1312,7 @@ narake : piekło
 nas : ludzie, lud, ludność  
 nasi : ludowy, narodowy  
 nasia : naród, narodowość  
+nasiste : nacjonalista  
 nasistia : nacjonalizm  
 natre : sód  
 nauru : Nauru  
@@ -1345,6 +1375,7 @@ nowi zilandia : Nowa Zelandia
 nowi : nowy  
 noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
+nudiste : nudysta  
 nudistia : nudyzm  
 nul ren : nikt, żadna osoba  
 nul xey : nic, żadna rzecz  
@@ -1397,21 +1428,21 @@ pakse : ptak
 pal : owoc  
 paladium : pallad  
 palaw : Palau  
-palma : palma, drzewo palmowe  
+palme : palma, drzewo palmowe  
 pamá : rodzic  
 pan : wszyscy, wszystkie, wszystko; każdy  
 panafriki : panafrykański  
 panameriki : panamerykański  
 panamia : Panama  
 panasi : panazjatycki  
-panda : panda  
+pande : panda  
 pandunia : Pandunia  
 paneuropi : paneuropejski  
 panike : panika  
 panjabi : pendżabski  
 pantalon : spodnie, pantalony, portki  
-papaya : papaja  
-paper : papier  
+papay : papaja  
+papir : papier  
 papua nowi ginia : Papua Nowa Gwinea  
 papá : ojciec  
 par : równy  
@@ -1481,6 +1512,7 @@ plate : talerz
 platin : platyna  
 platon : Platon  
 platoni : platoniczne  
+platoniste : platończyk  
 platonistia : platonizm  
 plumbe : ołów  
 plus : też, również  
@@ -1561,6 +1593,7 @@ randa : hebel, strug
 rang : kolor  
 rapidi : szybki, prędki  
 ras : rasa, narodowość  
+rasiste : rasista  
 rasistia : rasizm  
 rasme : obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 rasmi : konwencjonalny, zwyczajowy, tradycyjny  
@@ -1720,6 +1753,8 @@ sibir : Syberia
 sida : siedzieć  
 sife : cecha, właściwość, parametr  
 sigar : papieros (cygar)  
+sikiste : sikh  
+sikistia : sikhizm  
 silike : krzem  
 silsil : łańcuch  
 simpli : prosty, nieskomplikowany  
@@ -1741,13 +1776,13 @@ site : miast, miasteczko
 skandium : skand  
 slowakia : Słowacja  
 slowenia : Słowenia  
-so : tak, w ten sposób  
 soci : społeczny  
 socia : społeczeństwo, system społeczny  
+sociste : socjalista  
 socistia : socjalizm  
-sofa : sofa, kanapa  
 sofi : mądry  
 sofia : mądrość  
+sofá : sofa, kanapa  
 soke : skarpeta, skarpetka, pończocha  
 sol sistem : układ słoneczny  
 sol : słońce  
@@ -1818,6 +1853,7 @@ tabar : siekera, topór
 tabel : tablioca, macierz  
 tabia : natura, środowisko  
 tabial : środowiskowy, naturalny  
+tafun : burza, sztorm, tajfun  
 taibei : Tajpej  
 taiga : tajga  
 taiwan : Tajwan, Republika Chińska  
@@ -1866,6 +1902,7 @@ teoria : teoria
 tepe : taśma  
 terbium : terb  
 teror : terror  
+teroriste : terrorysta  
 teroristia : terroryzm  
 teste : test, wyzwanie, próba  
 teyan : sugestia, propozycja  
@@ -1911,7 +1948,6 @@ tswana : Botswana
 tu : ty, ciebie  
 tuale : taleta, WC  
 tube : tuba, rura  
-tufon : burza, sztorm, tajfun  
 tuka : pluć  
 tul : narzędzie  
 tulium : tul  
@@ -2078,6 +2114,7 @@ yemen : oni
 yen suy : łza  
 yen : oko  
 yesu : Jezus  
+yeze : kokos  
 yode : jod; jodyna  
 yoga : uprawiać jogę  
 yoge : joga  
@@ -2098,6 +2135,7 @@ zaman : czas, moment
 zambia : Zambia  
 zar : niebezpieczeństwo, ryzyko, szansa  
 zardux : Zaratusztra  
+zarduxiste : zaratrustianin  
 zarduxistia : zaratusztrianizm  
 zari : losowy  
 zay den : dziś, dzisiaj  

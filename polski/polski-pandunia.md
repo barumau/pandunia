@@ -17,7 +17,6 @@ alfabet, abecadło : abace
 Algieria : jayer  
 alkohol : alkol  
 alkoholowy : alkoli  
-allofon, głoska : fone  
 aluminium; glin : alumin  
 ambasada : dayxi kan  
 ambasador : dayxi  
@@ -71,6 +70,8 @@ azot : nitre
 babka, babcia : omá  
 badać, studiować : loja  
 bagaż : bagaje  
+bahaista : bahaiste  
+bahaizm : bahaistia  
 Bahamy : bahama  
 Bahrajn : bahrain  
 bakłażan, oberżyna : bedinjan  
@@ -146,11 +147,12 @@ brzuch : fubú
 brzydki : mal rupi  
 brązowy, koloru kawy : kafi  
 Budda : bude  
+buddysta : budiste  
 Buddyzm : budistia  
 budżet : bujete  
 Burkina Faso : burkiná  
 Burundi : rundi  
-burza, sztorm, tajfun : tufon  
+burza, sztorm, tajfun : tafun  
 but : sapate  
 butelka : botol  
 Bułgaria : bolgaria  
@@ -196,6 +198,7 @@ Chorwacja : horvatia
 chory : bing  
 chrom : krom  
 Chrystus, mesjasz : kriste  
+chrześcijanin : krististe  
 chrześcijaństwo : krististia  
 chór : kor  
 chłopak : jowan man  
@@ -213,6 +216,7 @@ cień : caye
 ciągnąć : tira  
 ciąć : kata  
 cmentarz : gabre stan  
+co? : ke  
 co? : ki ren  
 coś : koy xey  
 cukier : sukar  
@@ -255,6 +259,7 @@ daktyl : tamar
 daleki, odległy : tel  
 Dania : dania  
 danie : tas  
+darwinista : darwiniste  
 darwinizm : darwinistia  
 dać, dawać : dona  
 debatować, prowadzić dyskurs : lona  
@@ -361,7 +366,7 @@ Erytrea : eritria
 esej : esey  
 Esperanto : esperanti  
 Estonia : estia  
-etap. faza : faze  
+etap, faza : faze  
 Etiopia : etiopia  
 Eurazja : eurasia  
 euro (€) : euró  
@@ -475,6 +480,7 @@ Gwinea : gine
 góra, wzgórze : xan  
 górny : supri  
 gładki : lis  
+głoska : fone  
 głowa : sar  
 głupiec, bufon : bufon  
 główny : xefi  
@@ -512,6 +518,9 @@ Hong Kong : hong gong
 honorowy : onori  
 hormon : hormon  
 hotel : hotel  
+humanista : insaniste  
+humanistyczny : insanisti  
+humanizm : insanistia  
 hummus : humus sos  
 humor : yumor  
 humorystyczny, śmieszny, zabawny, komiczny : yumori  
@@ -520,6 +529,7 @@ hę?, co?, pardon? : he
 i, oraz : i  
 ##i  
 idea, pomysł : idey  
+idealista : ideyaliste  
 idealizm : ideyalistia  
 idealny, optymalny : ideyal  
 igła, szpilka : pin  
@@ -527,6 +537,8 @@ ilustrator, grafik : grafer
 imbir : inje  
 imię, nazwa : nam  
 imperator : imperer  
+imperialista : imperiste  
+imperializm : imperistia  
 imperium : imperia  
 Imperium Rzymskie : roma empiria  
 ind : indium  
@@ -555,7 +567,6 @@ jabłko : aple
 jadalnia : nyam kamar  
 jak (zwierzę) : yake  
 jak, niż, od : ka  
-jak? : ke  
 jak? : ki xey  
 jakikolwiek, którykolwiek : eni  
 jakiś : koy  
@@ -660,7 +671,7 @@ kochać się, uprawiać seks : seksa
 kod, szyfr : kode  
 kodować : koda  
 koka : koká  
-kokos : kokos  
+kokos : yeze  
 kola, napój gazowany : kola  
 kolacja : xam nyam  
 kolec : ding  
@@ -668,6 +679,10 @@ kolej : tren daw
 kolekcja, zbiór; zgromadzenie, zebranie : jamia  
 kolekcjonować, zebrać, zbierać : jama  
 kolonia, osada : kolonia  
+kolonialista : koloniste  
+kolonializm : kolonistia  
+kolonizator : koloner  
+kolonizować : kolona  
 kolor : rang  
 Kolumbia : kolombia  
 kolumna, filar : kolum  
@@ -781,6 +796,10 @@ Lesotho : soto
 lew : sing  
 leżeć : lala  
 Liban : libnun  
+liberalista, wolnościowiec : huriste  
+liberalizm : huristia  
+liberalizm rynkowy : bazar huristia  
+liberalny, wolnościowy : huristi  
 Liberia : liberia  
 Libia : libia  
 liczi : lice  
@@ -887,6 +906,7 @@ Meksyk : mexiko
 melodia : melodia  
 melodyczny : melodi  
 Merkury : budan  
+mesjański : kristi  
 metal : metal  
 metoda, sposób : metode  
 metr : metre  
@@ -956,6 +976,7 @@ musieć : bixu
 muskuł, mięsień : muskul  
 muszkiet : muskete  
 muszkieter : musketer  
+muzułman, muzułmanin : islamiste  
 muzyk : musiker  
 muzyka : musike  
 my : mimen  
@@ -980,6 +1001,7 @@ młynarz : moler
 ##n  
 nabardziej, maksymalnie : maxim  
 naciskać, zostawiać ślad : capa  
+nacjonalista : nasiste  
 nacjonalizm : nasistia  
 nadać, wysłać pocztą : posta  
 nadzieja, życzenie : inxala  
@@ -1054,6 +1076,7 @@ Nowa Kaledonia : nowi kaledonia
 Nowa Zelandia : nowi zilandia  
 nowy : nowi  
 nożyce, nożyczki : makas  
+nudysta : nudiste  
 nudyzm : nudistia  
 numer : numer  
 nylon : nilon  
@@ -1147,20 +1170,20 @@ Pakistan : pakistan
 Palau : palaw  
 palec : finger  
 pallad : paladium  
-palma, drzewo palmowe : palma  
+palma, drzewo palmowe : palme  
 pamiętać : memora  
 pamięć : memor  
 panafrykański : panafriki  
 Panama : panamia  
 panamerykański : panameriki  
 panazjatycki : panasi  
-panda : panda  
+panda : pande  
 Pandunia : fute bol  
 Pandunia : pandunia  
 paneuropejski : paneuropi  
 panika : panike  
-papaja : papaya  
-papier : paper  
+papaja : papay  
+papier : papir  
 papieros (cygar) : sigar  
 Papua Nowa Gwinea : papua nowi ginia  
 papuga : akú  
@@ -1233,6 +1256,7 @@ plastik : plastike
 Platon : platon  
 platoniczne : platoni  
 platonizm : platonistia  
+platończyk : platoniste  
 platyna : platin  
 plecak : ruk sak  
 plemię : tribe  
@@ -1248,7 +1272,9 @@ początek : mul
 pod, poniżej; iść w dół, iść pod spód, iść na dno : nica  
 podarunek, dar, prezent : don  
 podatek, opłata : takse  
+poddanie się, uległość, pokora, posłuszeństwo : islam  
 poddać się, poddawać się : salima  
+poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym : islamu  
 podniesiony, stojący : libi  
 podróż : safar  
 podróż, wycieczka : tur  
@@ -1400,9 +1426,12 @@ przymus : muse
 przyprawa : masal  
 przyrostek dla (wyniku) działania : -e  
 przyrostek dla czasowników z szykiem zdania OVS : -u  
+przyrostek dla ideologii : -istia  
 przyrostek dla jednostki podstawowej : -em  
 przyrostek dla miejsca : -ia  
+przyrostek dla miejsca wykonywania : -eria  
 przyrostek dla przymiotnika : -i  
+przyrostek dla wsperającego ideę : -iste  
 przyrostek dla wykonawcy : -er  
 przystojny, atrakcyjny, ładny : bon rupi  
 przyszłość : wile  
@@ -1442,6 +1471,7 @@ ranek, rano, poranek : subá
 raport : reporte  
 raportować, relacjonować, opowiadać : reporta  
 rasa, narodowość : ras  
+rasista : rasiste  
 rasizm : rasistia  
 rebelia, powstanie : rebel  
 recepta, receptura, przepis : reset  
@@ -1490,6 +1520,7 @@ roślina, sadzonka : plante
 rubid : rubidium  
 ruch : kine  
 ruchowy, kinetyczny : kini  
+rujnować, dewastwować, burzyć : haraba  
 rum : rom  
 Rumunia : romania  
 ruszać, przenościć, zmieniać miejsce : kina  
@@ -1560,6 +1591,8 @@ sierpień : mes 5 (mes lim)
 Sierra Leone : salone  
 sieć : nete  
 sikać, szczać, oddawać mocz : pixa  
+sikh : sikiste  
+sikhizm : sikistia  
 silnik : moter  
 silny : bal  
 Singapur : singapur  
@@ -1584,8 +1617,9 @@ smakować jak : gustu ka
 smakować, próbować smaku : gusta  
 smutny : duki  
 sobota : war 6 (war sis)  
+socjalista : sociste  
 socjalizm : socistia  
-sofa, kanapa : sofa  
+sofa, kanapa : sofá  
 sok : jus  
 Somalia : somalia  
 sometime : koy zaman  
@@ -1705,7 +1739,6 @@ Tadżykistan : tajikia
 tajga : taiga  
 Tajpej : taibei  
 Tajwan, Republika Chińska : taiwan  
-tak, w ten sposób : so  
 tak; być : si  
 taki sam : sem  
 taktyka, strategia : tatike  
@@ -1717,7 +1750,9 @@ tamten : le
 Tanach, Biblia hebrajska : tanah  
 tantal : tantalum  
 Tanzania : tanzania  
+taoista : dawiste  
 taoizm : dawistia  
+tapeta : mur papir  
 tatuaż : tatu  
 taxi, taksówka : taksi  
 taśma : tepe  
@@ -1726,6 +1761,7 @@ tchórz, fretka : furet
 technet : teknetium  
 technika, technologia : tekne  
 technologia, nauka o technikach : tekne lojia  
+teistyczny : dewiste  
 teizm : dewistia  
 telefon : tele fon  
 telewizja : tele wide  
@@ -1743,6 +1779,7 @@ teraz : nun
 teraźniejszość, współczesność : zaye  
 terb : terbium  
 terror : teror  
+terrorysta : teroriste  
 terroryzm : teroristia  
 Terytorium Palestyńskie : filistinia  
 test, wyzwanie, próba : teste  
@@ -1836,8 +1873,8 @@ uwaga, obserwacja : note
 uwięzić, więzić, pozbawić wolności : prizona  
 uwolnić, uwalniać : hura  
 Uzbekistan : uzbekia  
-uświadomienie, świadomość; oświecenie, bodhi : bode  
-uświadomić sobie, zdać sobie sprawę, pojąć, pojmować : boda  
+uświadomienie, świadomość; oświecenie, bodhi : bude  
+uświadomić sobie, zdać sobie sprawę, pojąć, pojmować : buda  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny : faidi  
 użytkownik : uzer  
 użyć, używać, zatrudnić, stosować : uza  
@@ -2008,6 +2045,7 @@ zapytać, pytać : ki zaman
 zapytać, spytać, pytać : eska  
 zapłacić, opłacić, płacić : peya  
 zapłata, opłata : pey  
+zaratrustianin : zarduxiste  
 Zaratusztra : zardux  
 zaratusztrianizm : zarduxistia  
 zaskoczenie : supris  
@@ -2099,7 +2137,7 @@ zły, zrujnowany, zepsuty : harabi
 środkowy, centralny : jung  
 środowiskowy, naturalny : tabial  
 śruba, wkręt : lose  
-świadomy; oświecony : bodi  
+świadomy; oświecony : budi  
 świat : dunia  
 światło, oświetlenie : nur  
 świetny : kul  

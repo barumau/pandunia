@@ -78,6 +78,7 @@ asli : original
 asma : asthma  
 aspirin : aspirin  
 atake : attack  
+ate : sugar-apple (sweetsop)  
 atom : atom  
 auda : hear (listen)  
 australia : Australia  
@@ -187,9 +188,6 @@ biznes ren : businessperson (businessman)
 biznes : business (commercial activity)  
 blabla : chat (babble)  
 blable kamar : chat room  
-boda : realize  
-bode : realization (awareness, enlightenment, bodhi)  
-bodi : aware (enlightened)  
 boikote : boycott  
 boke : mouth  
 bol : ball  
@@ -212,8 +210,11 @@ britania : United Kingdom
 brom : bromine  
 brox : brush  
 bruney : Brunei Darussalam  
+buda : realize  
 budan : Mercury  
 bude : Buddha  
+bude : realization (awareness, enlightenment, bodhi)  
+budi : aware (enlightened)  
 budiste : Buddhist  
 budistia : Buddhism  
 bufon : fool (buffoon)  
@@ -311,7 +312,7 @@ darwiniste : Darwinist
 darwinistia : Darwinism  
 daw : way (road)  
 dawiste : Taoist  
-dawistia : Taoism  
+dawistia : Taoism (Daoism)  
 day : big (very, greatly)  
 dayu : grow (get bigger)  
 dayxi kan : embassy  
@@ -610,7 +611,8 @@ hamar : hammer
 hamir : yeast  
 hangogia : Korea (South)  
 haos : chaos (disorder, turmoil)  
-harabi : bad (ruined, spoiled)  
+haraba : ruin (destroy, devastate, demolish)  
+harabi : bad (ruined, destroyed)  
 harfe : letter (character, written symbol)  
 harmoni : harmonius  
 harmonia : harmony  
@@ -732,7 +734,10 @@ janger : warrior (fighter)
 jangi : military  
 jani : known  
 jar : jug (jar)  
+jay : victory (win)  
+jaya : win (defeat)  
 jayer : Algeria  
+jayistia : Jainism  
 jaze : jazz  
 jebe : pocket  
 jele : gel (jelly)  
@@ -903,7 +908,6 @@ koda : encode
 kode : code (cipher)  
 koke : chicken  
 kokos nesia : Cocos (Keeling) Islands  
-kokos : coco  
 koká : coca  
 kola : cola  
 kolera : cholera  
@@ -1281,6 +1285,7 @@ mumu : cow
 mun : door (gate, portal)  
 mungus : mongoose  
 munkin : possibly (maybe)  
+mur papir : wallpaper  
 mur : wall  
 muritania : Mauritania  
 musa : coerce (force, compel)  
@@ -1297,6 +1302,9 @@ muxing : Jupiter
 ##n  
 na : with (by, at, in, on)  
 nabe : prophecy  
+naber : prophet  
+naciste : Nazi  
+nacistia : Nazism  
 nade : river  
 nafas : breath  
 nahun : nail (fingernail)  
@@ -1309,6 +1317,7 @@ nanas : pineapple
 nano : nano-  
 narake : hell  
 nas : people (folk)  
+nasi socistia : national socialism  
 nasi : national  
 nasia : nation  
 nasiste : nationalist  
@@ -1427,21 +1436,21 @@ pakse : bird
 pal : fruit  
 paladium : palladium  
 palaw : Palau  
-palma : palm tree  
+palme : palm tree  
 pamá : parent  
 pan : all  
 panafriki : pan-African  
 panameriki : pan-American  
 panamia : Panama  
 panasi : pan-Asian  
-panda : panda  
+pande : panda  
 pandunia : Pandunia  
 paneuropi : pan-European  
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
-papaya : papaya  
-paper : paper  
+papay : papaya  
+papir : paper  
 papua nowi ginia : Papua New Guinea  
 papá : father  
 par : equal (peer)  
@@ -1775,14 +1784,13 @@ site : city (town)
 skandium : scandium  
 slowakia : Slovakia  
 slowenia : Slovenia  
-so : so (like this, like that)  
 soci : social  
 socia : society (social system)  
 sociste : socialist  
 socistia : socialism  
-sofa : sofa (couch)  
 sofi : wise  
 sofia : wisdom  
+sofá : sofa (couch)  
 soke : sock (stocking)  
 sol sistem : solar system  
 sol : sun  
@@ -1854,6 +1862,7 @@ tabel : table (matrix)
 tabia lojia : ecology (study of environment)  
 tabia : nature (environment)  
 tabial : environmental (natural)  
+tafun : storm (tempest, typhoon, hurricane, cyclone)  
 taibei : Taipei  
 taiga : taiga  
 taiwan : Taiwan (Republic of China)  
@@ -1948,7 +1957,6 @@ tswana : Botswana
 tu : you  
 tuale : toilet (WC)  
 tube : tube (pipe)  
-tufon : storm (tempest)  
 tuka : spit  
 tul : tool  
 tulium : thulium  
@@ -2082,6 +2090,7 @@ xiki : elegant (chic)
 xim : heart  
 xin : belief (faith, creed)  
 xina : believe  
+xindawistia : Shintoism  
 xing : star  
 xir : poem  
 xirer : poet  
@@ -2111,10 +2120,12 @@ yatim kan : orphanage
 yatim : orphan  
 ye : he or she or it  
 yehudi : Jewish  
+yehudistia : Judaism  
 yemen : they  
 yen suy : tear drop  
 yen : eye  
 yesu : Jesus  
+yeze : coco  
 yode : iodine  
 yoga : do yoga  
 yoge : yoga  
