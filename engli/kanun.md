@@ -874,7 +874,7 @@ If the root is an action, then its adjectival form will mean the state that is p
 
 If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
 
-If the root is a place word, then it's adjectival form will mean "that which is from that place".
+If the root is a place word, then its adjectival form will mean "that which is from that place".
 
 **iran** Iran, **irani** Iranian  
 **pakistan** Pakistan, **pakistani** Pakistani  
