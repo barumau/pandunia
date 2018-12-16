@@ -10,7 +10,7 @@ All the phrases in this page follow these three rules:
 
 ### Method of Presentation
 
-Each phrase and it's translation takes three lines as follows:
+Each phrase and its translation takes three lines as follows:
 
 1. The phrase in Pandunia **in bold letters**.
 2. Word-by-word translation _in cursive letters_.

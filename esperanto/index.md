@@ -1,31 +1,66 @@
-pandunio - simpla mondlingvo
+Pandunio - simpla mondlingvo
 ============================
 
 ![](http://www.pandunia.info/bander/bander.png "Pandunia flago")
 
 ## Kio estas pandunio?
 
-Pandunia estas multakultura konstruita helpa lingvo kiu celas por lingva neŭtraleco. Ĝi estas la produkto de pluraj jaroj da esplorado, verko kaj eksperimentado. Ĝi estas ankoraŭ laboro progresanta.
+Pandunio estas konstruita helpa mondlingvo kiu celas lingvan neŭtralecon. Ĝi
+estas la produkto de pluraj jaroj da esplorado, verko kaj eksperimentado.
 
-La ĉefaj trajtoj de pandunio estas:
+Rimarkindaj trajtoj de pandunio estas:
 
-- multakultura vortprovizo, kiu enhavas vortojn de multaj lingvoj, ekzemple la angla, la araba, la ĉina, la hispana, la franca, la hinda, la japana, la persa, la rusa, la sŭahila kaj multaj aliaj lingvoj.
-- relative simpla fonemaro
-- simpla skribo
-- facile lernebla gramatiko, kiu estas tre konciza
+- Pli simpla kaj facila ol la naciaj lingvoj kiuj uziĝas internacie, kiel la
+  angla, la ĉina, la franca kaj la araba.
+- Konzica kaj sen senescepta gramatiko
+- Simplaj fonemaro kaj skribo.
+- Vere internacia. La panduniaj radik-vortoj estas pruntitaj el multaj lingvoj
+  el la tuta mondo, inkluzive de la 10 plej parolataj lingvoj.
 
-Ĉi tiu artikolo eksplikas kiel Pandunia estas [egale monda lingvo](dunia_pijin.md).
+Atentu: Pandunio estas ankoraŭ evoluanta. Eble la strukturo kaj vortaro de la
+lingvo iom ŝanĝiĝis dis la enhavo de ĉi tiuj retpaĝoj, malgraŭ ke oni penas
+teni ilin aktualigitaj.
 
-## Vortaro
+## Lerniloj 
 
-[Esperanto-Pandunia](esperanto-pandunio.md)
+- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Prononco](abc.md)
+- [Frazaro](fraze.md)
+- [Gramatiko](kanun.md)
+
+- [Vortaro Esperanto-Pandunio](esperanto-pandunio.md)
+- [Vortaro Pandunio-Esperanto](pandunio-esperanto.md)
+- [Etimologia vorto-listo](../pandunia/loge_asle.md) (nur pandunie)
+
+## Artikoloj
+
+[Pandunio - egale monda lingvo](dunia_pijin.md).
 
 ## Komunumo
 
-Kelkaj homoj jam interesigas sin pri pandunio. Vi povas renkonti ilin tie:
+Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
 
-- [Pandunia Fejsbuk grupo](http://www.facebook.com/groups/pandunia)
-- [pandunia esperanto grup](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) en Telegram
+- Debatejo en [Reddit](https://www.reddit.com/r/pandunia/)
+- [Pandunia Fejsbuk-grupo](http://www.facebook.com/groups/pandunia)
+- [Telegram-kanalo en
+  Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg)
+- [Telegram-kanalo en pandunio](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- [Plur-lingva Telegram-kanalo](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
+- [Kanaloj en *Discord*](https://discord.gg/uk36mn8)
+- [Telefon-programo Amikumu](https://amikumu.com/) por trovi parolantojn
+- Kanalo QQ: 717549404
+- [Twitter](https://twitter.com/pandunia_).
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
-- [Retpoŝtlisto](https://groups.yahoo.com/neo/groups/pandunia/info) en Yahoo. Aliĝu per sendi mesaĝon al pandunia-subscribe@yahoogroups.com
+- [Oficiala pandunia retpoŝto-listo (en la angla aŭ en
+  pandunio)](https://groups.yahoo.com/neo/groups/pandunia/info).  Aliĝo eblas
+  per Yahoo-konto aŭ simple [sendante malplenan
+  ret-mesaĝon](mailto:pandunia-subscribe@yahoogroups.com).
+- Aliaj rilataj ret-poŝtaj listoj (en la angla):
+    * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
+      ([kopio](https://groups.yahoo.com/neo/groups/Auxlang/info))
+    * [Worldlang 
+      list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).
 
+Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta
+adreso [risto@pandunia.info](mailto:risto@pandunia.info), kaj ankaŭ en la supre
+menciitaj ret-lokoj.
