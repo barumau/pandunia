@@ -1,55 +1,77 @@
-Pandunia - una idioma construído simple
-==================================
+Pandunia - una lengua mundial sencilla
+======================================
 
 ![](http://www.pandunia.info/bander/bander.png "Bandera de Pandunia")
 
 ## ¿Qué es Pandunia?
 
-Pandunia es una idioma construído diseñada para servir en la comunicación internacional como suplemento a otros idiomas.
+Pandunia es una lengua auxiliar internacional, es decir, es una lengua diseñada
+para ser utilizada en la comunicación internacional, en cualquier lugar del
+mundo, como complemento a otros idiomas.
 
-Algunas características de Pandunia:
+Algunas características notables de Pandunia:
 
-- Pandunia es más simple y fácil que otros idiomas que se usan en la comunicación internacional, tales como el Inglés, el Chino, el Francés y el Árabe.
-- Como idioma construído, Pandunia es completamente regular - sin excepciones.
-- ¡Pandunia es verdaderamente internacional! El vocabulario de Pandunia está compuesto por palabras que son tomadas de muchos idiomas alrededor del mundo, incluyendo a los 10 más hablados.
+- Es más fácil y sencilla que las lenguas nacionales que se usan en la
+  comunicación internacional, tales como el inglés, el chino, el francés y el
+  árabe.
+- Como idioma construido, pandunia es completamente regular, no tiene
+  excepciones.
+- Es verdaderamente internacional. Su vocabulario está compuesto por palabras
+  tomadas de muchos idiomas de todo el mundo, incluyendo los 10 más hablados.
 
-
-Nota: Pandunia es un idioma construído que aún está en evolución. La estructura y el vocabulario del idioma podrían cambiar posteriormente.
-
+Nota: Pandunia aún está en evolución. Podría ser que la estructura y el
+vocabulario hayan cambiado algo respecto a lo que se muestra actualmente en
+estas páginas, a pesar de que se intenta manterlas actualizadas.
 
 ## Material de aprendizaje
 
 - [Mini lecciones con imágenes](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Ortografía](abc.md)
-- [Repertorio de expresiones](fraze.md)
-- [Gramática](kanun.md)
+- [Pronunciación y ortografía](abc.md)
+- [Palabras y frases básicas](fraze.md)
 - [Lecciones con diálogos](darse.md)
 
-- [Diccionario con buscador](tiddly.html) | en inglés
+<!-- - [Gramática](kanun.md) -->
+
+- [Diccionario con buscador](tiddly.html) (en inglés)
+<!--
 - Diccionario [Español-Pandunia](español-pandunia.md)
 - Diccionario [Pandunia-Español](pandunia-español.md)
+-->
 
 ## Artículos
 
-- [Pandunia - un idioma nuevo](dunia_pijin.md)
-- [Presentación en PDF](Pandunia-presentation.pdf) | en inglés
-- [Pandunia, un idioma de contacto global](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (un artículo en Interlinguistica Tartuensis 10) | en inglés
-- [¿Por qué me gusta Pandunia? ](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opiniones de aprendices | en inglés
+<!-- - [Pandunia - un idioma nuevo](dunia_pijin.md) -->
+- [Presentación (PDF en inglés)](Pandunia-presentation.pdf)
+- [Pandunia, un idioma de contacto
+  global (PDF en inglés)](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
+  un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
+- [¿Por qué me gusta pandunia (PDF en inglés)?
+  ](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opiniones de
+  estudiantes
 
-## ¡Aprende con otros!
+## Aprende con otros
 
-Ya hay personas que están interesadas en Pandunia y lo están practicando. Puedes encontrarlos en varios foros de internet: 
+Ya hay personas que están interesadas en pandunia y lo están practicando.
+Puedes encontrarlos en varios lugares de internet: 
 
-- Enlaces y discusiones en [Reddit](https://www.reddit.com/r/pandunia/)
-- [Amigos de Pandunia](http://www.facebook.com/groups/pandunia) en Facebook
-- Salas de chat en Telegram: [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [en Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) y [en Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- Debates en [Reddit](https://www.reddit.com/r/pandunia/)
+- [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
+- Salas de chat en Telegram:
+    * [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), 
+    * [en esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) y 
+    * [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - [Chat de voz en Discord](https://discord.gg/uk36mn8)
-- QQ channel: 717549404
-- Sigue a Pandunia en [Twitter](https://twitter.com/pandunia_). ¡Pasa la voz!
+- Canal QQ: 717549404
+- Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
+- Puedes apuntarte a la [lista de correo de pandunia (en inglés o en
+  pandunia)](https://groups.yahoo.com/neo/groups/pandunia/info) con una cuenta
+  de Yahoo o simplemente [enviando un mensaje en
+  blanco](mailto:pandunia-subscribe@yahoogroups.com).
+- Otras listas de correo relacionadas (en inglés):
+    * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
+      ([copia](https://groups.yahoo.com/neo/groups/Auxlang/info))
+    * [Worldlang list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).
 
-
-Listas de correo electrónico. Puedes entrar a el [grupo oficial de Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) enviando un mensaje en blanco [aquí](mailto:pandunia-subscribe@yahoogroups.com).
-
-
-Puedes contactar con el creador de Pandunia, Risto Kupsala, vía correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los foros anteriormente citados.
-
+Puedes contactar por correo con el creador de Pandunia, Risto Kupsala, en el
+correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los
+lugares anteriormente citados.
