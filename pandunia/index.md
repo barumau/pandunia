@@ -5,18 +5,18 @@ pandunia - dunia bax
 
 salam dunia!
 
-pandunia si nowi dunia bax! pandunia da lekse lay ze dunia da mey fen: afrika, amerika, asia, europa – ze dunia bax bixu wakila mimen da pan dunia!
+pandunia si nowi dunia bax! pandunia da lekse laya ze dunia da mey fen: afrike, amerike, asia, europe – ze dunia bax bixu wakila mimen da pan dunia!
 
-kela tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html).
+eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html).
 
 
 * [abace](abc.md)
 * histor
   * [barú bace da dante tung](baru_dante.md)
-  * [sam lil goro](3_lil_goro.md)
+  * [sam lil goró](3_lil_goro.md)
   * [piper i karote](piper_i_karot.md)
   * [insan da putong hake](putong_hake.md)
-* [video](video.md)
+* [filme](filme.md)
 * loge liste
   * [dunia loge](lekse/dunia_loge.html)
   * [hewan nam](lekse/hewan.html)

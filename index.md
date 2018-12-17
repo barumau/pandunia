@@ -1,7 +1,7 @@
 
 ![](http://www.pandunia.info/bander/bander.png "The flag of Pandunia")
 
-#pandunia - egal dunia baxa
+#pandunia - egal dunia bax
 
 ![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bander/us.png) [Learn about Pandunia in English](engli/index.md)
 
@@ -25,5 +25,5 @@
 
 ![](http://pandunia.info/bander/fi.png) [Tutustu panduniaan suomeksi](suomi/index.md)
 
-![](http://pandunia.info/bander/qpn.png) [kitaba du tema pandunia na pandunia](pandunia/index.md)
+![](http://pandunia.info/bander/qpn.png) [kitabe du tema pandunia na pandunia](pandunia/index.md)
 
