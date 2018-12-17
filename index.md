@@ -25,5 +25,5 @@
 
 ![](http://pandunia.info/bander/fi.png) [Tutustu panduniaan suomeksi](suomi/index.md)
 
-![](http://pandunia.info/bander/qpn.png) [kitaba de tema pandunia na pandunia](pandunia/index.md)
+![](http://pandunia.info/bander/qpn.png) [kitaba du tema pandunia na pandunia](pandunia/index.md)
 
