@@ -875,7 +875,7 @@ Hän on ollut kotona.
 **mi wil salama tu da doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**man will wida fem.**  
+**man wil wida fem.**  
 Mies tulee näkemään naisen.
 
 **ye wil xefe.**  

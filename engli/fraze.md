@@ -855,7 +855,7 @@ He or she has been at home.
 **mi wil salama tu da doste.**  
 I will greet your friend.
 
-**man will wida fem.**  
+**man wil wida fem.**  
 The man will see the woman.
 
 **ye wil xefe.**  
