@@ -803,7 +803,71 @@ I wait for you in the hotel.
 
 
 
-## Part 5. Doing business
+## Part 5. Time expressions
+
+### zay <small>currently</small>
+
+**mi zay salama tu da doste.**  
+I am greeting your friend.
+
+**man zay wida fem.**  
+The man is looking at the woman.
+
+**ye zay xefe.**  
+He or she is currently the chief.
+
+**ye zay na dom.**  
+He or she is currently at home.
+
+
+### pas <small>in the past</small>
+
+**mi pas salama tu da doste.**  
+I greeted your friend.
+
+**man pas wida fem.**  
+The man looked at the woman.
+
+**ye pas xefe.**  
+He or she was the chief.
+
+**ye pas na dom.**  
+He or she was at home.
+
+
+### lew <small>already, completed</small>
+
+**mi lew salama tu da doste.**  
+I have greeted your friend.
+
+**man lew wida fem.**  
+The man has looked at the woman.
+
+**ye lew xefe.**  
+He or she has been the chief.
+
+**ye lew na dom.**  
+He or she has been at home.
+
+
+### wil <small>(future action)</small>
+
+**mi wil salama tu da doste.**  
+I will greet your friend.
+
+**man will wida fem.**  
+The man will see the woman.
+
+**ye wil xefe.**  
+He or she will be the chief.
+
+**ye wil na dom.**  
+He or she will be at home.
+
+
+
+
+## Part 6. Doing business
 
 
 ### dona <small>give</small>

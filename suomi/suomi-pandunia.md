@@ -275,7 +275,7 @@ Grenada : grenada
 Guadeloupe : guadelupe  
 Guam : guam  
 Guatemala : guatemala  
-Guernsey : genzi  
+Guernsey : genze  
 Guinea : gine  
 Guinea-Bissau : gine bisau  
 gujarati (eräs intialainen kieli) : gujarati  
@@ -368,6 +368,8 @@ houkutella : tenta
 housut : pantalon  
 huhtikuu : mes 4 (mes car)  
 huivi (šaali) : xal  
+hullu (mieletön) : foli  
+hulluus (mielettömyys) : folia  
 humanismi : insanistia  
 humanisti : insaniste  
 humanistinen : insanisti  
@@ -425,8 +427,9 @@ ikkuna : janel
 ikä : umur  
 ilkeä (julma) : zalim  
 illallinen : xam nyam  
-ilma : hawa  
+ilma : hawe  
 ilman : be  
+ilmapallo : balon  
 ilmiasu (ulkonäkö) : rupe  
 ilta : xam  
 iltapäivä : xam den  
@@ -479,6 +482,7 @@ Jeesus : yesu
 Jemen : yaman  
 Jersey : jersia  
 jo (ennen) : ja  
+jo (tehty teko) : lew  
 jodi : iode  
 jodi : yode  
 johtaa : lida  
@@ -806,7 +810,7 @@ kylmä : leng
 kylpeä : banyu  
 kylpy : banye  
 kylpyhuone : banye kamar  
-kylä : deya  
+kylä : ruste  
 kymmenen (10) : des  
 kynsi : nahun  
 kynä : kalam  
@@ -818,8 +822,10 @@ kysymys : eske
 kysyvä : eski  
 kysyä : eska  
 kyynel : yen suy  
-kärppä (fretti) : furet  
+kärppä (fretti) : furete  
 kärry (vaunu, auto, jne) : kar  
+käsi : han  
+käsi- : hani  
 käsitellä dataa : komputa  
 käskeä (komentaa) : orda  
 käsky (komento) : orde  
@@ -951,6 +957,7 @@ maa (maaperä) : zem
 maa (valtio) : dex  
 maailma : dunia  
 maailmankieli : dunia bax  
+maalais- : rusti  
 maalari : penter  
 maalata : penta  
 maali (päämäärä) : gol  
@@ -960,7 +967,7 @@ maanjäristys : sisme
 maanviljelijä : nonger  
 Maapallo : zemia  
 maapähkinä : zem dow  
-maaseutu : deya stan  
+maaseutu : rustia  
 maata (makoilla) : lala  
 Macao : makaw  
 Madagaskar : madagasia  
@@ -1082,8 +1089,8 @@ morfi : morfe
 Mosambik : mozambike  
 moskovium : moskovium  
 muinainen Egypti : kemia  
-muistaa : memora  
-muisti : memor  
+muistaa : yada  
+muisti : yade  
 muistikirja : note buke  
 mukava (kiva) : latif  
 munakoiso : bedinjan  
@@ -1191,7 +1198,7 @@ näytös (esitys, show) : xow
 odottaa : denga  
 oganesson : oganeson  
 ohjaaja (pilotti, luotsi) : piloter  
-ohjata : gida  
+ohjata (ohjastaa) : gida  
 ohjelma : program  
 oho (vau) : waw  
 oi! : o  
@@ -1674,8 +1681,10 @@ syyskuu : mes 9 (mes noy)
 sähkö : eletre  
 sähköinen : eletri  
 sähköposti : eletri poste (e-poste)  
+säilyttäjä : hafizer  
+säilyttää (varjella) : hafiza  
 sävel (sävy) : ton  
-sää : tenki  
+sää : tenke  
 söpö (suloinen) : kaway  
 ##t  
 taateli : tamar  
@@ -1931,6 +1940,8 @@ varjo : caye
 varkaus : cur  
 varma (tosi) : yakin  
 vartalo (varsi, torso) : torse  
+vartija (vahti) : garder  
+vartioida (vahtia) : garda  
 vasara : hamar  
 vastaan (vasten) : kontra  
 vastata : daba  

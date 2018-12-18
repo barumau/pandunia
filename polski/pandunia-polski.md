@@ -78,6 +78,7 @@ asli : źródłowy, początkowy, oryginalny
 asma : astma  
 aspirin : aspiryna  
 atake : atak  
+ate : jabłko cukrowe  
 atom : atom  
 auda : usłyszeć, słyszeć; słuchać  
 australia : Australia  
@@ -108,6 +109,7 @@ balbe : zawór; kran
 balde : wiadro  
 bale : siła  
 balkon : balkon; ganek  
+balon : balon  
 bama : Mjanma, Birma  
 ban gem : gra planszowa  
 ban : deska  
@@ -335,8 +337,6 @@ dewi : boski
 dewiste : teistyczny  
 dewistia : teizm  
 dex : kraj, ziemia  
-deya stan : wieś, tereny wiejskie  
-deya : wieś, wioska  
 din gurú : ksiądz, kleryk, kaznodzieja  
 din : religia, wyznanie  
 ding : kolec  
@@ -482,6 +482,8 @@ flur : fluor
 fobe : strach, fobia  
 fokus : skupienie, koncentracja  
 fokusa : skupić, się, skoncentrować się  
+foli : szalony  
+folia : szaleństwo  
 fone : głoska  
 foneme : fonem  
 fong : wiatr  
@@ -505,7 +507,7 @@ ful : pełny
 fula : wypełnić, wypełniać  
 fulan : trochę; nieokreślony, nieograniczony, nieokreślony  
 funca : funkcja, stanowisko  
-furet : tchórz, fretka  
+furete : tchórz, fretka  
 fute bol : Pandunia  
 fuy : fu, fuj  
 ##g  
@@ -531,6 +533,8 @@ ganjá : konopie
 ganya : zyskać, zyskiwać, zarobić, zarabiać  
 gar : jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante : gwarancja  
+garda : chronić, strzec,  osłaniać, bronić  
+garder : strażnik, ochroniarz  
 gardin : ogród  
 garmi masal : garam masala  
 garmi : ciepły  
@@ -545,7 +549,7 @@ gema : grać w grę
 gemer : gracz  
 gen : korzeń  
 genca : sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
-genzi : Guernsey  
+genze : Guernsey  
 germanium : german  
 geta : dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 gey : gejowski, homoseksualny  
@@ -594,6 +598,8 @@ guy : demon, diabeł, czart
 ##h  
 habar gazete : gazeta  
 habar : wiadomość, nius  
+hafiza : zachować, zakonserwować, zachować, utrzymać  
+hafizer : przechowawca, kustosz, opiekun  
 hafnium : hafn  
 haha : śmiać się  
 haida : niech my, hajda  
@@ -608,7 +614,9 @@ haló : halo, cześć
 hamake : hamak  
 hamar : młot, młotek  
 hamir : drożdże  
+han : ręka, dłoń  
 hangogia : Korea Południowa  
+hani : ręczny  
 haos : chaos, nieporządek; wrzawa, zgiełk  
 haraba : rujnować, dewastwować, burzyć  
 harabi : zły, zrujnowany, zepsuty  
@@ -620,7 +628,7 @@ hasium : has
 hatar : zagrożenie, niebezpieczeństwo  
 hatari : niebezpieczny  
 hati : nawet  
-hawa : powietrze  
+hawe : powietrze  
 hay : wciąż, nadal  
 hazin : skarb; skrabiec  
 he : hę?, co?, pardon?  
@@ -733,7 +741,10 @@ janger : wojownik, bojownik
 jangi : militarny, wojskowy, wojenny  
 jani : wiadomy, znany  
 jar : dzban, dzbanek; słój, słoik  
+jay : zwycięstwo, wygrana  
+jaya : zwyciężyć, wygrać  
 jayer : Algieria  
+jayistia : dźinizm, dżinizm  
 jaze : jazz, dżez  
 jebe : kieszeń  
 jele : żel, galareta  
@@ -1179,8 +1190,6 @@ melodia : melodia
 memba : uczestniczyć, wziąć udział, brać udział  
 member : członek, uczestnik  
 meme : owca  
-memor : pamięć  
-memora : pamiętać  
 mena : znaczyć  
 mene : znaczenie  
 mes 1 (mes un) : styczeń  
@@ -1298,6 +1307,9 @@ muxing : Jupiter
 ##n  
 na : przy, z, na, w, u  
 nabe : proroctwo  
+naber : prorok  
+naciste : nazista  
+nacistia : nazizm  
 nade : rzeka  
 nafas : oddech  
 nahun : paznokieć  
@@ -1310,6 +1322,7 @@ nanas : ananans
 nano : nano-  
 narake : piekło  
 nas : ludzie, lud, ludność  
+nasi socistia : narodowy socjalizm  
 nasi : ludowy, narodowy  
 nasia : naród, narodowość  
 nasiste : nacjonalista  
@@ -1658,6 +1671,9 @@ rundi : Burundi
 rupe : wygląd  
 rusi : rosyjski  
 rusia : Rosja  
+ruste : wieś, wioska  
+rusti : wiejski, rustykalny  
+rustia : wieś, tereny wiejskie  
 rutenium : rut  
 ruterfordium : rutherford  
 rutin : rutyna, nawyk, zwyczaj  
@@ -1896,7 +1912,7 @@ tena : trzymać
 tende : namiot  
 tenesin : tenesyn, tennessine  
 tenis : tenis  
-tenki : pogoda  
+tenke : pogoda  
 tenta : kusić, nakłonić, nakłaniać  
 teoria : teoria  
 tepe : taśma  
@@ -2081,6 +2097,7 @@ xiki : elegancki, szykowny
 xim : serce  
 xin : wiara, wierzenie, kredo  
 xina : wierzyć  
+xindawistia : shintoizm, sintoizm  
 xing : gwiazda  
 xir : poemat  
 xirer : poeta  
@@ -2097,6 +2114,8 @@ xula : naprawić, naprawiać
 xule : naprawa  
 xuler : naprawiacz  
 ##y  
+yada : pamiętać  
+yade : pamięć  
 yaga : oszacować, szacować, przybliżyć, przybliżać  
 yagi : około; przybliżony  
 yake : jak (zwierzę)  
@@ -2110,6 +2129,7 @@ yatim kan : sierociniec, dom dziecka
 yatim : sierota  
 ye : on, ona, ono  
 yehudi : żydowski  
+yehudistia : judaizm  
 yemen : oni  
 yen suy : łza  
 yen : oko  
