@@ -173,6 +173,50 @@ We greet you.
 对不起，你叫什么名字？
 
 
+### aha <small>明白</small>
+
+**eska tu aha mi?**
+你明白我吗？
+
+**mi aha.**
+我明白。
+
+**pardon. mi no aha tu.**
+对不起，我不明白你。
+
+**mi no bas aha tu.**
+我不太明白你。
+
+**mi aha nul.**
+我什么都不懂。
+
+
+
+### ken <small>会</small>
+
+**mi ken gida kar.**
+我会开车。
+
+**ye no ken gida kar.**
+他不知道怎么开车。
+
+**eska tu ken xula ye?**
+你知道怎么修吗？
+
+**eska tu ken pandunia?**
+你会泛世界语吗？
+
+**mi ken pandunia.**
+我会泛世界语。
+
+**mi ken lil pandunia.**
+我会一点泛世界语。
+
+**mi no ken engli.**
+我不会英语。
+
+**pardon. mi no ken tu da bax.**
+对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
 

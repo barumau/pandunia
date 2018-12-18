@@ -582,7 +582,7 @@ I speak a little Pandunia.
 **mi no ken engli.**
 I don't speak English.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no ken tu da bax.**
 Sorry, I don't speak your language.
 
 
@@ -595,7 +595,7 @@ What did you say?
 **mi loga to tu.**
 I talk to you.
 
-**mimen loga to bici.**
+**mimen loga to bice.**
 We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?**
