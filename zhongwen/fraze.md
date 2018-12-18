@@ -161,6 +161,44 @@ We greet you.
 
 
 
+### pardon <small>对不起</small>
+
+**pardon! mi no aha.**
+对不起，我不明白。
+
+**pardon! ce ke?**
+对不起，这是什么？
+
+**pardon. tu namu ke?**
+对不起，你叫什么名字？
+
+
+
+### baxa <small>说语</small>
+
+**eska tumen baxa pandunia.**
+你们说泛世界语吗？
+
+**mimen baxa pandunia.**
+我们会说泛世界语。
+
+**eska tu ken baxa engli?**
+你能说英语吗？
+
+**fransi, espani, portugal, rusi**
+法语，西班牙语，葡萄牙语，俄语
+
+**putong han, nipon, indonesi**
+中文，日文，印尼文
+
+**arabi, turki, farsi, urdi, hindi**
+阿拉伯语，土耳其语，波斯语，乌尔都语，印地语
+
+**swahili, hausi, yorubi, amari**
+斯瓦希里语，豪萨语，约鲁巴语，阿姆哈拉语
+
+
+
 词典
 -----
 

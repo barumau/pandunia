@@ -1071,6 +1071,7 @@ However, only one source word is included in this word list as an example.
 **ken** can <small>(English _can_)</small>  
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **laya** come <small>(Vietnamese _lai_)</small>  
+**lew** already, done, completed <small>(Thai _læw_ แล้ว)</small>  
 **li** that; those</small>  
 **mamá** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
