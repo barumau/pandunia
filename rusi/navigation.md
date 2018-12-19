@@ -10,5 +10,5 @@
   * [пандуния-русский](pandunia-rusi.md)
   * [русский-пандуния](rusi-pandunia.md)
 
-[видеоклипи](../pandunia/video.md)
+[видеоклипи](../pandunia/filme.md)
 

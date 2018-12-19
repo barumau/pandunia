@@ -821,3 +821,66 @@ He odottavat meitä.
 Minä odotan sinua hotellissa.
 
 
+
+
+## Osa 5. Ajan ilmaiseminen
+
+### zay <small>parhaillaan</small>
+
+**mi zay salama tu da doste.**  
+Minä olen tervehtimässä sinun ystävääsi.
+
+**man zay wida fem.**  
+Mies on katsomassa naista.
+
+**ye zay xefe.**  
+Hän on päällikkö (parhaillaan).
+
+**ye zay na dom.**  
+Hän on parhaillaan kotona.
+
+
+### pas <small>ennen</small>
+
+**mi pas salama tu da doste.**  
+Minä tervehdin sinun ystävääsi.
+
+**man pas wida fem.**  
+Mies katsoi naista.
+
+**ye pas xefe.**  
+Hän oli ennen päällikkö.
+
+**ye pas na dom.**  
+Hän oli kotona.
+
+
+### lew <small>jo, valmiiksi</small>
+
+**mi lew salama tu da doste.**  
+Minä olen tervehtinyt ystävääsi.
+
+**man lew wida fem.**  
+Mies on katsonut naista.
+
+**ye lew xefe.**  
+Hän on ollut päällikkö.
+
+**ye lew na dom.**  
+Hän on ollut kotona.
+
+
+### wil <small>myöhemmin, jatkossa</small>
+
+**mi wil salama tu da doste.**  
+Minä tervehdin ystävääsi (jatkossa).
+
+**man wil wida fem.**  
+Mies tulee näkemään naisen.
+
+**ye wil xefe.**  
+Hän tulee olemaan päällikkö.
+
+**ye wil na dom.**  
+Hän tulee olemaan kotona.
+

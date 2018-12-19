@@ -32,9 +32,8 @@ pandunia da loge laya ze multi bax du dunia.
 
 ## -
 
--a ← ←  
 -er ← eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.  
--i ← ara:(-i). fas:(-i). hin:(-ī). eng:-y. jpn:-i. hun:-i.  
+-i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
 -ia ← spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).  
 a ← rus:а "a". ukr:а "a". pol:a. + zho:啊 "ā". + eng:ah.  
 ##a  
@@ -70,6 +69,7 @@ bagre ← hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:t
 balbe ← jpn:バルブ "barubu". kor:밸브 "baelbeu". tgl:balbula. spa:por:válvula. eng:valve.  
 balde ← spa:por:balde. hin:बाल्टी "bālṭī". ben:"balti".  
 bale ← hin:बल "bal". ben:বল "bôl". tel:"balamu".  
+balon ← fra:ballon. tur:ind:balon. eng:balloon. tgl:balun. hau:balân.  
 ban ← zho:板 (bǎn). jpn:板 (ban). vie:bảng. kor:판 (pan). + swa:bao.  
 banda ← hin:बाँधना "bāndhnā". eng: bind.  
 bander ← eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila.  
@@ -168,8 +168,6 @@ demó ← eng:spa:demo-. fra:démo-. rus:демо-.
 den ← hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).  
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
-deya stan ← per:"dehestān".  
-deya ← por"aldeia". spa:"aldea". ara:"ḍayʿa". + ind:jav:"desa".  per:"deh". kur"de".  
 din ← ara: /dīn/. tur: din. swa: dini. hau: addini.  
 dom ← zho:家 "jiă".  
 dona ← spa:por:dar. rus: дать /dat'/. fas: دادن‏‎ "dādan".  
@@ -214,13 +212,14 @@ fete ← swa:mafuta. rwa:mavuta. kon:mafuta.
 fikre ← ara:"fikr". per:"fekr". tur:ind:pikir. may:fikir. hin:"fikr".  
 fin ← spa: fin. fra: fin. por: fim.  
 fix ← eng:fish. deu:Fisch.  
+folia ← eng:folly. fra:folie. ita:follia.  
 fong ← zho: 风 "fēng". yue: 風 "fung".  
 fubú ← zho:腹 (fù). yue:(fuk1). jpn:(fukubu). mao:puku.  
 fuga ← zho:复 "fù". yue:"fuk". vie:phục.  
 fuke ← zho:衣服 "yīfu". yue:"yifuk". jpn:衣服 "ifuku". kor:의복 "uibog".  
 ful ← eng:full. deu:voll.  
 fulan ← swa:fulani. ara:"fulan".  
-furet ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
+furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 ##g  
 gabre ← ara:"qabr". hin:क़ब्र "qabra". ind:kubur. deu:Grab. pol:grób. rus:гроб "grob".  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
@@ -230,18 +229,21 @@ gan putaw ← kor:건포도 (geonpodo). zho:葡萄干 (pútáogān).
 gan ← zho:干 (gān). yue:乾 (gon1). kor:건 (geon).  
 ganya ← fra:gagner. por:ganhar. spa:ganar. eng:gain.  
 gar ← per:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. kaz:егер (eger). + yue:假 (gaa1). wuu:假 (ga).   
+garder ← eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).  
 gardin ← eng:garden. deu:Garten. spa:jardín. fra:jardin.  
 garmi ← hin:गरम (garm). urd:per:گرم‎‎ (garm). kur:germ. deu:eng:warm.  
 gaw ← zho:高 (gāo). vie:cao.  
-gem ← eng:game. tha:"geem". jpn:ゲーム "gēmu". kor:게임 "geim".  
+gaze ← deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.  
+gazel ← ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼル (gazeru).  
+gem ← eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).  
 gen ← zho:根 (gēn). wuu:(gen). yue:(gan). vie:căn.  
 genca ← zho:检查 "jiǎnchá". yue:檢查 "gimcaa". vie:kiểm tra.  
 gey ← eng:fra:spa:gay. por:guei.  
 gim ← zho:金 (jīn). yue:(gam). zhu:gim. jpn:金 (kin). kor:금 (geum). vie:kim. tgl:ginto. tha:คำ (kam).  
 glota ← rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir. por:engolir.  
 glute ← eng:glue. swa:gluu. + fra:glutineux.  
-gom ← spa:tgl:goma. fra:gomme. jpn:ゴム "gomu". kor:고무 "gomu". deu:Gummi.  
-goró ← kat:ღორი (ğori). swa:guruwe kon:ngulu spa:guarro,gorrino. + (onom.) jpn:"gorogoro" ron:groh. scr:grok. eng:grunt.  
+gom ← spa:tgl:goma. fra:gomme. jpn:ゴム (gomu). kor:고무 (gomu). deu:Gummi.  
+goró ← kat:ღორი (ğori). swa:guruwe kon:ngulu spa:guarro,gorrino. + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.  
 goton ← ara:(quṭun). spa:algodón. fra:coton. eng:cotton.  
 graf ← eng:graphic. fra:graphique.  
 gras ← eng:grass. hin:घास "ghās".  
@@ -253,23 +255,26 @@ gurú ← eng:guru. tgl:guro.
 guy ← zho:鬼 "guǐ". vie:quỷ.  
 ##h  
 habar ← ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr).  
+hafiza ← ara:(ḥafiẓa). per:urd:(hāfiz).  
 hake ← ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.  
 hakim ← ara:"qāḍin". hau:alƙali. per:"qāzi". eng:qadi. swa:kadhi.  
 haló ← deu:hallo. eng:hello. zho:哈啰 "hāluō".  
 hamar ← eng:hammer. deu:Hammer. jpn:"hanmā".  
+han ← hau:hannū. eng:hand. deu:Hand. hin:हाथ (hāth).  
 harabi ← ara:per:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).  
 harfe ← ara:(ḥarf). tur:harf. per:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
 has ← ind: khas.  
 hatar ← ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.  
 hati ← por:até. ara:"ḥatta". spa:hasta. swa:hata.  
+hawe ← tur:hava. swa:hewa. hin:urd:(havā).  
 hay ← zho:还 "hai".  
 he ← fra:por:hein. jpn:e.  
 helpe ← eng:help. deu:Hilfe.  
 hem ← eng:hmm. rus:хм (hm), эм (em). kor:음 "eum".  
 hen ← zho:"hen". fra:"haine".  
 heró ← eng:hero. spa:héroe. por:herói. fra:héros. rus:герой (geroy).  
-hewan ← ind:kewan. ara:"haywān". hin:"hEvān".  
-him ← hin:हिमपात "himpāt". tha:หิมะ "hima". tel:"himamu".  
+hewan ← ind:kewan. ara:(haywān). hin:(hEvān).  
+him ← hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).  
 hor ← fra:heure. eng:hour. spa:hora.  
 hua ← zho:花 "huā". vie:hoa. swa:wa.  
 hule ← zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).  
@@ -338,6 +343,7 @@ kel ← hin:खेल "khel". ben:খেলা "khela". tha:กีฬา "kīlā
 kelele ← swa:kon:makelele.  
 ken ← eng:can. deu:können.  
 kenar ← tur:kenar. hin:किनारा "kinārā". urd:"kanārā".  
+kene ← ←  
 kil ← hin:किल्ला "killā". ben:কীল "kil". deu:Keil.  
 kire ← ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāyā". per:"kerāya". spa:alquiler.  
 kisme ← ara:"qismat". hin:क़िस्मत "qismat".  
@@ -374,6 +380,7 @@ lanten ← eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "ra
 laya ← vie: lại. zho: 来 "lái".  
 leng ← zho: 冷 "lěng". vie: lạnh.  
 lete ← fra:l'été. rus:лето (leto). cze:léto. scr:leto.  
+lew ← tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). yue:了 (liu).  
 libu ← zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".  
 lice ← zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.  
 liga ← spa: ligar. eng: league. rus: лига /liga/.  
@@ -415,7 +422,6 @@ maze ← hin:मज़ा "mazā". urd:"mazā". per:"maze". ben:মজা "môja
 medu ← ind:madu. hin:"madu".  
 memba ← zho:参加 "cānjiā". kor:참가 "chamga". jpn:參加 "sanka".  
 meme ← lin:kon:meme.  
-memor ← eng: memory.  
 mene ← ara:"maʿnā". per:urd:"ma'ni". hin:मअनी "maani". swa:maana.  
 mes ← spa:mez. ben:মাস Mash  
 metre ← eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.  
@@ -521,6 +527,7 @@ rose ← fra:rosée. spa:rocío. rus:роса "rosa".
 rote ← hin:रोटी (roṭī). ben:রুটি (ruṭi). ind:roti.  
 ruhe ← ara:"rūħ". ind:ruh. tur:ruh. hin:रूह "rūh". swa:roho. hau:ruhu. som:ruux. + rus:дух "duh".  
 rupe ← hin:रूप (rūp). ind: rupa. tha: รูป /rūp/. khm:រូប (rūp).  
+ruste ← per:روستا‎ (rustâ). + eng:rustic. por:spa:rustico. fra:rustique.  
 ##s  
 sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.  
 sabze ← hin:सब्ज़ी "sabzī". ben:সবজি "sobji". tur:sebze.  
@@ -582,7 +589,7 @@ tawa ← hin:तवा "tavā". tur:tava. per:"tābe".
 tazi ← tur:taze.  
 tem ← fra: thème. spa: tema. rus: тема /tema/.  
 tende ← ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.  
-tenki ← zho:天气 "tiănqì". jpn:天気 "tenki".   
+tenke ← zho:天气 "tiănqì". jpn:天気 "tenki".   
 tepe ← eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.  
 teste ← eng:test. rus: тест "test".  
 teze ← eng:thesis. fra:thèse. spa:tesis.  
@@ -654,6 +661,7 @@ xu ← zho:树 "shù".
 xudu ← eng:should.  
 xule ← zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).  
 ##y  
+yade ← hin:याद (yād). guj:યાદ (yād). per:urd:(yād). aze:yad. tkm: ýaad.  
 yagi ← kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē".   
 yake ← eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).  
 yakin ← hau:yaƙini.swa:yakini.  

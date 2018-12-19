@@ -13,4 +13,4 @@
 
 [Gramatyka](kanun.md)
 
-[Filmy](../pandunia/video.md)
+[Filmy](../pandunia/filme.md)

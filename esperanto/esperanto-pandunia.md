@@ -7,9 +7,10 @@
 -isto de -ismo : -iste  
 -o (-aĵo) : -e  
 : : -a : -i : (-igi)  
+##a  
 acida : suan  
 adreso : adres  
-aero : hawa  
+aero : hawe  
 afrika : afriki  
 Afriko : afrike  
 agreso : agres  
@@ -92,6 +93,7 @@ aŭdi (aŭskulti) : auda
 Aŭstralio : australia  
 aŭto (ĉaro) : kar  
 aŭtuno : oton  
+##b  
 babilejo : blable kamar  
 babili : blabla  
 bah! : fuy  
@@ -99,6 +101,7 @@ bakejo : bekeria
 baki : beka  
 bakisto : beker  
 balkono : balkon  
+balono : balon  
 bambuo : jug  
 bana : banyu  
 banano : banan  
@@ -182,6 +185,7 @@ buso : bus
 butono : boton  
 buĝeto : bujete  
 buŝo : boke  
+##c  
 celo (golo) : gol  
 cent : hon  
 centono : centi  
@@ -193,6 +197,7 @@ certa : yakin
 cezio : cesium  
 citi : cita  
 citrono : limun  
+##d  
 damaĝo : awar  
 Danio : dania  
 danki : danka  
@@ -243,6 +248,7 @@ du (2) : do
 dubnio : dubnium  
 dubo : dute  
 duŝo : dux  
+##e  
 eco : gun  
 edzigi : mara  
 egala : egal  
@@ -289,6 +295,7 @@ Eŭropa : europi
 Eŭropa Unio (EU) : europi unia  
 eŭropio : europium  
 Eŭropo : europe  
+##f  
 fabo aŭ pizo : dow  
 fabrikaĵo : fate  
 fabrikisto : fater  
@@ -357,6 +364,7 @@ Francio : fransia
 franciumo : fransium  
 frato aŭ fratino : saudar  
 fremda lando : way dexia  
+freneza : foli  
 freŝa : tazi  
 fromaĝo : cis  
 frosto : him rose  
@@ -364,18 +372,22 @@ frukto (rezulto) : pal
 fumo : duman  
 funkcii : funca  
 furiozo : amuke  
-furo : furet  
+furo : furete  
 fusilo : bunduke  
 fuĝi : bega  
+##g  
 gadolinio : gadolinium  
 galerio (ekspozicio) : galeria  
 galiumo : galium  
 Gangoj : ganga  
 garantio : garante  
+gardi : garda  
+gardisto : garder  
 gaso : gas  
 gazelo : gazel  
 gazeto (revuo) : gazete  
 gazeto : habar gazete  
+gazo : gaze  
 geedzeco : maria  
 genro : jinse  
 gepatro(j) : pamá  
@@ -402,6 +414,7 @@ gusti kiel : gustu ka
 gusto : guste  
 gustumi : gusta  
 Gvatemalo : guatemala  
+##h  
 hafnio : hafnium  
 Haitio : haitia  
 halo : halos  
@@ -442,6 +455,7 @@ honoro (respekto) : onor
 hormono : hormon  
 horo : hor  
 hotelo : hotel  
+##i  
 iam : koy zaman  
 ideala : ideyal  
 idealismo : ideyalistia  
@@ -476,8 +490,10 @@ iu : fulan
 iu : koy  
 iu ajn : eni  
 iu persono : koy ren  
+##j  
 jako : jaket  
 jam (-is) : ja  
+jam (esti farita) : lew  
 Jamajko : jamaike  
 Japanio : nipon  
 jaro : nen  
@@ -495,6 +511,7 @@ justa : xari
 justeco : xaria  
 juĝisto : hakimer  
 juĝo : hakim  
+##k  
 kadmio : kadomium  
 kafejo : kafé kan  
 kafo : kafé  
@@ -619,6 +636,7 @@ kurteno : parde
 kuŝi : lala  
 kvar (4) : car  
 kvin (5) : lim  
+##l  
 laboro : werke  
 lakto : milke  
 lamenti : duka  
@@ -669,6 +687,7 @@ lumo : nur
 luno : lun  
 lupo : beria  
 lutecio : lutetium  
+##m  
 magio : magia  
 magnezio : magnes  
 majao : mayá  
@@ -696,9 +715,11 @@ maltro : min ka bas
 malvarma : leng  
 malĝoja : duki  
 malĝojo : duke  
+mana : hani  
 mandarino : migan  
 mandarinĉina : putong han  
 mangano : mangan  
+mano : han  
 manĝi (trinki) : nyama  
 manĝoĉambro : nyam kamar  
 maratono : maraton  
@@ -768,6 +789,7 @@ muskolo : muskul
 muso : mux  
 muzikisto : musiker  
 muziko : musike  
+##n  
 nadlo (pinglo) : pin  
 najlo : ding  
 Namibio : namibia  
@@ -808,6 +830,7 @@ nova : nowi
 novaĵoj : habar  
 nudelo : mien  
 nur : mon  
+##o  
 oazo : wase  
 Oceanio : oseania  
 ofte : cang  
@@ -829,6 +852,7 @@ origino : asle
 oro : gim  
 osmio : osmium  
 osto : oste  
+##p  
 pajaco : bufon  
 pakaĵo : bagaje  
 pako : pake  
@@ -932,6 +956,7 @@ punkto : punte
 pura : safi  
 purigi : safa  
 purigisto : safer  
+##r  
 racismo : rasistia  
 racisto : rasiste  
 raco : ras  
@@ -979,6 +1004,7 @@ ruinigita : harabi
 rutenio : rutenium  
 ruterfordio : ruterfordium  
 rutino (kutimo) : rutin  
+##s  
 sablo : sande  
 safrano : zafran  
 saga : sofia  
@@ -1070,6 +1096,7 @@ surprizo : supris
 suĉi : cupa  
 suŝio : suxí  
 sŭahili : swahili  
+##t  
 tabako : tabake  
 tablo : meze  
 tagmanĝo : den nyam  
@@ -1143,6 +1170,7 @@ Turkio : turkia
 turo : minare  
 tuttera : dunial  
 tuŝi : toca  
+##u  
 uniono : unia  
 universala : putong  
 unu : un  
@@ -1153,6 +1181,7 @@ urso : urse
 utila : faidi  
 utileco : faide  
 uzi : uza  
+##v  
 vagino : yone  
 valvo (krano) : balbe  
 varma : garmi  
@@ -1170,13 +1199,13 @@ vespermanĝo : xam nyam
 vespero : xam  
 vesti : fuka  
 vesto : fuke  
-vetero : tenki  
+vetero : tenke  
 vi (ci) : tu  
 vi ĉiu : tumen  
 viando : manse  
 vico : rade  
 vidi (rigardi) : wida  
-vilaĝo : deya  
+vilaĝo : ruste  
 vinagro : cuká  
 vinbero : putaw  
 vino : win  
@@ -1200,6 +1229,10 @@ vortaro : loge liste
 vorto : lekse  
 vosto : dum  
 vulpo : hule  
+##w  
+##x  
+##y  
+##z  
 Zambio : zambia  
 zebro : zebre  
 zinko : zinke  

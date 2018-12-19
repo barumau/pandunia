@@ -21,7 +21,7 @@ age : umur
 agile : ajil  
 agreement (amen) : amen  
 agression (assault) : agres  
-air : hawa  
+air : hawe  
 airplane : wiman  
 Aland Islands : olandia  
 Albania : cipia  
@@ -34,6 +34,7 @@ allow (permit) : permisa
 almond : badam  
 alphabet : abace  
 already (-ed) : ja  
+already (completed action) : lew  
 also (plus, too) : plus  
 altar : altar  
 aluminium : alumin  
@@ -123,6 +124,7 @@ baker : beker
 bakery : bekeria  
 balcony (porch) : balkon  
 ball : bol  
+balloon : balon  
 bamboo : jug  
 banana : banan  
 band (bandage) : bande  
@@ -441,7 +443,7 @@ cottage (chalet) : xalé
 cotton : goton  
 cough : kos  
 country (land) : dex  
-countryside : deya stan  
+countryside : rustia  
 coupon : kupon  
 cover (conceal) : kapa  
 cover (lid, cap, deck) : deke  
@@ -806,8 +808,10 @@ growth : raste
 Guadeloupe : guadelupe  
 Guam : guam  
 guarantee : garante  
+guard (watch) : garda  
+guardian (watchman) : garder  
 Guatemala : guatemala  
-Guernsey : genzi  
+Guernsey : genze  
 guilty : doxi  
 Guinea : gine  
 Guinea-Bissau : gine bisau  
@@ -824,6 +828,7 @@ Haiti : haitia
 halo : halos  
 hammer : hamar  
 hammock : hamake  
+hand : han  
 hang (dangle) : penda  
 happy (delighted) : suki  
 harmonius : harmoni  
@@ -984,6 +989,7 @@ Kannada : kannadi
 karaoke : karaoke  
 karate : karate  
 Kazakhstan : kazahia  
+keeper (preserver) : hafizer  
 Kenya : kenia  
 ketchup : kecape  
 kettle : ketel  
@@ -1095,7 +1101,9 @@ lymph : limfe
 ##m  
 Macao : makaw  
 machine : maxin  
+mad (insane, crazy) : foli  
 Madagascar : madagasia  
+madness (insanity) : folia  
 magazine (journal, gazette) : gazete  
 magic : magia  
 magical : magi  
@@ -1126,6 +1134,7 @@ manganese : mangan
 mango : mango  
 mangosteen : mangus  
 mankind (humanity) : insania  
+manual : hani  
 Marathi : marati  
 marathon : maraton  
 marble : marmar  
@@ -1173,7 +1182,7 @@ melody : melodia
 melt (get molten) : mayu  
 melt (liquidize) : maya  
 member (participant) : member  
-memory : memor  
+memory (recollection) : yade  
 Mercury : budan  
 messianic : kristi  
 metal : metal  
@@ -1481,7 +1490,7 @@ point at (indicate) : ponta
 pointer (indicator) : ponter  
 poker : poker  
 Poland : polskia  
-polecat (ferret) : furet  
+polecat (ferret) : furete  
 police : polis  
 police officer : poliser  
 Polish : polski  
@@ -1519,6 +1528,7 @@ precise (exact, accurate) : presis
 prepare (make ready) : reda  
 presence (existence) : zaye  
 present (current, existing) : zay  
+preserve (conserve, retain) : hafiza  
 press (imprint) : capa  
 priest (cleric) : din gurú  
 prime minister : xefi minister  
@@ -1587,7 +1597,7 @@ relationship (association, connection) : guanxe
 release (let, let go) : laxa  
 religion (worship) : din  
 remain (stay) : restu  
-remember : memora  
+remember (recall) : yada  
 renew (make new, renovate) : nowa  
 rent (hire, lease) : kire  
 rent out (let, lease) : kirisa  
@@ -1651,6 +1661,7 @@ rule (be in charge) : sultana
 rule (reign) : kratia  
 ruler : sultaner  
 rum : rom  
+rural (rustic) : rusti  
 Russia : rusia  
 Russian : rusi  
 rustle : xaxu  
@@ -2063,7 +2074,7 @@ veranda (balcony, terrace, porch) : berande
 victory (win) : jay  
 Viet Nam : vietnam  
 view (vision) : wide  
-village : deya  
+village : ruste  
 vinegar : cuká  
 vinyl : winil  
 Virgin Islands, US : usameriki virjin nesia  
@@ -2095,7 +2106,7 @@ wax : mum
 way (road) : daw  
 we : mimen  
 wear clothes : fuka  
-weather : tenki  
+weather : tenke  
 wedge : kil  
 Wednesday : war 3 (war sam)  
 week : set war  

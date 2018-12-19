@@ -109,6 +109,7 @@ balbe : valve (tap, faucet)
 balde : bucket  
 bale : force (strength)  
 balkon : balcony (porch)  
+balon : balloon  
 bama : Myanmar (Burma)  
 ban gem : board game  
 ban : board (plank)  
@@ -336,8 +337,6 @@ dewi : divine (godly)
 dewiste : theist  
 dewistia : theism  
 dex : country (land)  
-deya stan : countryside  
-deya : village  
 din gurú : priest (cleric)  
 din : religion (worship)  
 ding : nail (spike)  
@@ -483,6 +482,8 @@ flur : fluorine
 fobe : fear (phobia)  
 fokus : focus (concentration)  
 fokusa : concentrate  
+foli : mad (insane, crazy)  
+folia : madness (insanity)  
 fone : phone (speech sound)  
 foneme : phoneme  
 fong : wind  
@@ -506,7 +507,7 @@ ful : full
 fula : fill  
 fulan : some (indefinite, indeterminate)  
 funca : function (work)  
-furet : polecat (ferret)  
+furete : polecat (ferret)  
 fute bol : football  
 fuy : bah! (yuck!)  
 ##g  
@@ -532,6 +533,8 @@ ganjá : hemp (cannabis)
 ganya : earn (gain)  
 gar : if (suppose, assume)  
 garante : guarantee  
+garda : guard (watch)  
+garder : guardian (watchman)  
 gardin : garden  
 garmi masal : garam masala  
 garmi : warm  
@@ -546,7 +549,7 @@ gema : play a game
 gemer : player (gamer)  
 gen : root  
 genca : examine (inspect, check)  
-genzi : Guernsey  
+genze : Guernsey  
 germanium : germanium  
 geta : get (receive, obtain, take)  
 gey : gay (homosexual)  
@@ -595,6 +598,8 @@ guy : fiend (evil spirit)
 ##h  
 habar gazete : newspaper (gazette)  
 habar : news  
+hafiza : preserve (conserve, retain)  
+hafizer : keeper (preserver)  
 hafnium : hafnium  
 haha : laugh  
 haida : let's  
@@ -609,7 +614,9 @@ haló : hello (hi)
 hamake : hammock  
 hamar : hammer  
 hamir : yeast  
+han : hand  
 hangogia : Korea (South)  
+hani : manual  
 haos : chaos (disorder, turmoil)  
 haraba : ruin (destroy, devastate, demolish)  
 harabi : bad (ruined, destroyed)  
@@ -621,7 +628,7 @@ hasium : hassium
 hatar : danger (peril)  
 hatari : dangerous  
 hati : even (intensifier)  
-hawa : air  
+hawe : air  
 hay : still (yet)  
 hazin : treasure (treasury)  
 he : huh? (pardon?)  
@@ -1023,6 +1030,7 @@ lenxa : practice (to exercise)
 lete : summer  
 letis : lettuce  
 letre : letter (message)  
+lew : already (completed action)  
 li : that (those)  
 liba : erect  
 libel : dragonfly  
@@ -1183,8 +1191,6 @@ melodia : melody
 memba : participate (attend, take part)  
 member : member (participant)  
 meme : sheep  
-memor : memory  
-memora : remember  
 mena : mean (signify)  
 mene : meaning (signification)  
 mes 1 (mes un) : January  
@@ -1666,6 +1672,9 @@ rundi : Burundi
 rupe : appearance (looks)  
 rusi : Russian  
 rusia : Russia  
+ruste : village  
+rusti : rural (rustic)  
+rustia : countryside  
 rutenium : ruthenium  
 ruterfordium : rutherfordium  
 rutin : routine (habit)  
@@ -1905,7 +1914,7 @@ tena : hold (keep)
 tende : tent  
 tenesin : tennessine  
 tenis : tennis  
-tenki : weather  
+tenke : weather  
 tenta : tempt (entice)  
 teoria : theory  
 tepe : tape  
@@ -2107,6 +2116,8 @@ xula : repair (fix)
 xule : repair (fix)  
 xuler : repairer  
 ##y  
+yada : remember (recall)  
+yade : memory (recollection)  
 yaga : estimate (approximate)  
 yagi : about (approximately)  
 yake : yak  

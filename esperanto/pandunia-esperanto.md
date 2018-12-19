@@ -92,6 +92,7 @@ balbe : valvo (krano)
 balde : sitelo  
 bale : forto  
 balkon : balkono  
+balon : balono  
 bama : Birmo  
 banan : banano  
 banda : ligi  
@@ -284,7 +285,6 @@ dew : dio
 dewi sage : mito  
 dewi : dia  
 dex : lando  
-deya : vilaĝo  
 din gurú : pastro  
 din : religio  
 ding : najlo  
@@ -411,6 +411,7 @@ flur : fluoro
 fobe : timo (fobio)  
 fokus : koncentriĝo  
 fokusa : koncentri  
+foli : freneza  
 fong : vento  
 fonga : venti  
 forke : forko  
@@ -430,7 +431,7 @@ ful : plena
 fula : plenigi  
 fulan : iu  
 funca : funkcii  
-furet : furo  
+furete : furo  
 fute bol : piedpilko  
 fuy : bah!  
 ##g  
@@ -452,11 +453,14 @@ ganjá : kanabo
 ganya : akiri (gajni)  
 gar : se  
 garante : garantio  
+garda : gardi  
+garder : gardisto  
 gardin : ĝardeno  
 garmi : varma  
 gas : gaso  
 gaw : alta  
 gayan : Gujano  
+gaze : gazo  
 gazel : gazelo  
 gazete : gazeto (revuo)  
 gem : ludo  
@@ -514,7 +518,9 @@ haló : saluton!
 hamake : hamako  
 hamar : martelo  
 hamir : feĉo  
+han : mano  
 hangogia : Sudkoreio  
+hani : mana  
 haos : kaoso (malordo)  
 harabi : ruinigita  
 harfe : litero  
@@ -525,7 +531,7 @@ hasium : hasio
 hatar : danĝero  
 hatari : danĝera  
 hati : eĉ  
-hawa : aero  
+hawe : aero  
 hay : ankoraŭ  
 hazin : trezoro  
 he : ĉu?  
@@ -755,6 +761,7 @@ lekse : vorto
 leng : malvarma  
 lete : somero  
 letre : letero  
+lew : jam (esti farita)  
 li : tiu  
 liga : aligi  
 lil : malgranda  
@@ -1032,6 +1039,7 @@ roze : rozo
 rubidium : rubidio  
 ruhe : animo  
 rupe : aspekto  
+ruste : vilaĝo  
 rutenium : rutenio  
 ruterfordium : ruterfordio  
 rutin : rutino (kutimo)  
@@ -1163,7 +1171,7 @@ tena : teni
 tende : tendo  
 tenesin : teneso  
 tenis : teniso  
-tenki : vetero  
+tenke : vetero  
 teoria : teorio  
 tepe : bendo  
 terbium : terbio  

@@ -76,6 +76,7 @@ Bahamy : bahama
 Bahrajn : bahrain  
 bakłażan, oberżyna : bedinjan  
 balkon; ganek : balkon  
+balon : balon  
 bambus : jug  
 banan : banan  
 bandaż, taśma, wstążka : faxe  
@@ -197,6 +198,7 @@ chordofon, instrument strunowy : ticin
 Chorwacja : horvatia  
 chory : bing  
 chrom : krom  
+chronić, strzec,  osłaniać, bronić : garda  
 Chrystus, mesjasz : kriste  
 chrześcijanin : krististe  
 chrześcijaństwo : krististia  
@@ -340,6 +342,7 @@ dół, jama, wydobycie, wykop, wykopalisko : fos
 dół, spód : tal  
 długi : long  
 długość : longe  
+dźinizm, dżinizm : jayistia  
 dźwięk, brzmienie : sonde  
 Dżibuti : jibutia  
 dżul (J) : jul  
@@ -465,7 +468,7 @@ grymas : grimas
 grób, mogiła, grobowiec : gabre  
 Guam : guam  
 Gudżarat : gujarati  
-Guernsey : genzi  
+Guernsey : genze  
 Guinea Bissau : gine bisau  
 Gujana : gayan  
 Gujana Francuska : giyan  
@@ -564,6 +567,7 @@ iść, maszerować : marca
 ##j  
 ja, mnie : mi  
 jabłko : aple  
+jabłko cukrowe : ate  
 jadalnia : nyam kamar  
 jak (zwierzę) : yake  
 jak, niż, od : ka  
@@ -592,6 +596,7 @@ jod; jodyna : iode
 jod; jodyna : yode  
 joga : yoge  
 Jordan : urdun  
+judaizm : yehudistia  
 judo : judo  
 Jupiter : muxing  
 już : ja  
@@ -1019,6 +1024,7 @@ naprawa : xule
 naprawiacz : xuler  
 naprawić, naprawiać : xula  
 narkotyk : droge  
+narodowy socjalizm : nasi socistia  
 narodziny : jen  
 narzędzie : tul  
 naród, narodowość : nasia  
@@ -1028,6 +1034,8 @@ nauczyć się, uczyć się, studiować : darsa
 nauka, badanie, studiowanie : lojia  
 Nauru : nauru  
 nawet : hati  
+nazista : naciste  
+nazizm : nacistia  
 nazwać, nazywać, wezwać, wzywać : nama  
 nazwisko, imię rodziny : famil nam  
 naładować, załadować, obładować, ładować : lada  
@@ -1171,8 +1179,8 @@ Palau : palaw
 palec : finger  
 pallad : paladium  
 palma, drzewo palmowe : palme  
-pamiętać : memora  
-pamięć : memor  
+pamiętać : yada  
+pamięć : yade  
 panafrykański : panafriki  
 Panama : panamia  
 panamerykański : panameriki  
@@ -1286,7 +1294,7 @@ podążać : bada
 podłoga : kamar tal  
 poemat : xir  
 poeta : xirer  
-pogoda : tenki  
+pogoda : tenke  
 poinformować, informować, zakomunikować, komunikować : informa  
 pokaz, ekspozycja, wystawa : xow  
 pokazać, pokazywać, wystawić, wystawiać : xowa  
@@ -1340,7 +1348,7 @@ powiadomić, powiadamiać : notisa
 powierzchnia : fas  
 powierzchnia, region, teren : aria  
 powiesić, wieszać : penda  
-powietrze : hawa  
+powietrze : hawe  
 powinien : xudu  
 powszechny, uniwersalny : putong  
 powtarzanie, powtórka : repe  
@@ -1384,6 +1392,7 @@ programista, koder : programer
 projekt, planowane przedsięwzięcie : proje  
 promet : prometium  
 proroctwo : nabe  
+prorok : naber  
 prosić : cing  
 prostować, korygować : tika  
 prosty : jika  
@@ -1392,6 +1401,7 @@ protaktyn : protacinium
 prowadzić, dowodzić, kierować : lida  
 prysznic : dux  
 przebudzony, przytomny : weki  
+przechowawca, kustosz, opiekun : hafizer  
 przeciekać, ciec : lowa  
 przecinek : komá  
 przedpołudnie : subá den  
@@ -1549,6 +1559,8 @@ równy : par
 róża : roze  
 różowy, różany : rozi  
 ręcznik : towal  
+ręczny : hani  
+ręka, dłoń : han  
 ##s  
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : vinsi i grenadin  
@@ -1581,6 +1593,7 @@ serce : xim
 seria, szereg : serye  
 Seszele : sexel nesia  
 sezam : sesam  
+shintoizm, sintoizm : xindawistia  
 siarka : sulfe  
 siedem (7) : set  
 siedzieć : sida  
@@ -1670,6 +1683,7 @@ stopić się, topić się, stawać się płynnym : mayu
 stopić, topić, czynić płynnym : maya  
 strach, fobia : fobe  
 strażnik więzienny : prizoner  
+strażnik, ochroniarz : garder  
 stront : strontium  
 styczeń : mes 1 (mes un)  
 stół : meze  
@@ -1695,6 +1709,8 @@ szabat, szabas : sabate
 szafran : zafran  
 szakal : xakal  
 szal, szalik : xal  
+szaleństwo : folia  
+szalony : foli  
 szaman : xaman  
 szampon : xampú  
 szansa : canse  
@@ -1757,7 +1773,7 @@ tatuaż : tatu
 taxi, taksówka : taksi  
 taśma : tepe  
 taśma; bandaż : bande  
-tchórz, fretka : furet  
+tchórz, fretka : furete  
 technet : teknetium  
 technika, technologia : tekne  
 technologia, nauka o technikach : tekne lojia  
@@ -1917,6 +1933,7 @@ widok, wzrok : wide
 wieczór : xam  
 wiedza : jane  
 wiedzieć : jan  
+wiejski, rustykalny : rusti  
 wiek : umur  
 wielbłąd, wielbłądzica : gamel  
 wieprzowina : goró manse  
@@ -1924,8 +1941,8 @@ wiercić, borować : bora
 wierzyć : xina  
 Wietnam : vietnam  
 wiewiórka : lixú  
-wieś, tereny wiejskie : deya stan  
-wieś, wioska : deya  
+wieś, tereny wiejskie : rustia  
+wieś, wioska : ruste  
 wieża : minare  
 wiki : wiki  
 wilk : beria  
@@ -2026,6 +2043,7 @@ zabawny : mazi
 zabić, zabijać : morta  
 zabójca : morter  
 zachodni : westi  
+zachować, zakonserwować, zachować, utrzymać : hafiza  
 zachód : weste  
 zacząć, zaczynać : mula  
 zagranica : way dexia  
@@ -2101,6 +2119,8 @@ zupa : supe
 zwinny, sprawny : ajil  
 związać, wiązać; zapiąć, zapinać : banda  
 związek, powiązanie, połączenie : guanxe  
+zwycięstwo, wygrana : jay  
+zwyciężyć, wygrać : jaya  
 zwykły, zwyczajny, prosty : sadi  
 zygzag : zigzage  
 zyskać, zyskiwać, zarobić, zarabiać : ganya  

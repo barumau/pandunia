@@ -107,6 +107,7 @@ balbe : hana
 balde : sanko (ämpäri)  
 bale : voima  
 balkon : parveke (kuisti)  
+balon : ilmapallo  
 bama : Myanmar (Burma)  
 ban gem : lautapeli  
 ban : lauta (lankku)  
@@ -333,8 +334,6 @@ dewi : jumalallinen
 dewiste : teisti  
 dewistia : teismi (jumalusko)  
 dex : maa (valtio)  
-deya stan : maaseutu  
-deya : kylä  
 din gurú : pappi  
 din : uskonto  
 ding : naula (piikki)  
@@ -480,6 +479,8 @@ flur : fluori
 fobe : kammo (fobia)  
 fokus : keskittyminen (keskittymä)  
 fokusa : keskittää  
+foli : hullu (mieletön)  
+folia : hulluus (mielettömyys)  
 fone : äänne (fooni)  
 foneme : äänne (foneemi)  
 fong : tuuli (puhallus)  
@@ -503,7 +504,7 @@ ful : täysi
 fula : täyttää  
 fulan : eräs (muuan, joku, jokin)  
 funca : toiminta (funktio)  
-furet : kärppä (fretti)  
+furete : kärppä (fretti)  
 fute bol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
@@ -529,6 +530,8 @@ ganjá : hamppu (kannabis)
 ganya : hankkia (ansaita)  
 gar : jos (olettaa)  
 garante : takuu  
+garda : vartioida (vahtia)  
+garder : vartija (vahti)  
 gardin : tarha  
 garmi masal : garam masala  
 garmi : lämmin  
@@ -543,11 +546,11 @@ gema : pelata
 gemer : pelaaja  
 gen : juuri  
 genca : tutkia  
-genzi : Guernsey  
+genze : Guernsey  
 germanium : germanium  
 geta : hankkia (saada)  
 gey : homo (homoseksuaali)  
-gida : ohjata  
+gida : ohjata (ohjastaa)  
 giga : miljardi (giga-)  
 gim : kulta  
 gine bisau : Guinea-Bissau  
@@ -592,6 +595,8 @@ guy : paha henki
 ##h  
 habar gazete : sanomalehti  
 habar : uutinen  
+hafiza : säilyttää (varjella)  
+hafizer : säilyttäjä  
 hafnium : hafnium  
 haha : nauraa  
 haida : tehkäämme  
@@ -606,7 +611,9 @@ haló : hei (haloo)
 hamake : riippumatto  
 hamar : vasara  
 hamir : hiiva  
+han : käsi  
 hangogia : Etelä-Korea  
+hani : käsi-  
 haos : kaaos  
 haraba : pilata (tuhota)  
 harabi : pilalla (raunioina)  
@@ -618,7 +625,7 @@ hasium : hasium
 hatar : vaara  
 hatari : vaarallinen  
 hati : jopa  
-hawa : ilma  
+hawe : ilma  
 hay : vielä (yhä)  
 hazin : aarre  
 he : häh?  
@@ -1019,6 +1026,7 @@ lenxa : harjoitella (treenata)
 lete : kesä (suvi)  
 letis : lehtisalaatti  
 letre : kirje  
+lew : jo (tehty teko)  
 li : tuo (nuo)  
 liba : nostaa pystyyn  
 libel : sudenkorento  
@@ -1176,8 +1184,6 @@ melodia : melodia (sävelmä)
 memba : osallistua (olla jäsen)  
 member : jäsen  
 meme : lammas  
-memor : muisti  
-memora : muistaa  
 mena : merkitä (tarkoittaa)  
 mene : merkitys  
 mes 1 (mes un) : tammikuu  
@@ -1617,6 +1623,9 @@ rundi : Burundi
 rupe : ilmiasu (ulkonäkö)  
 rusi : venäläinen  
 rusia : Venäjä  
+ruste : kylä  
+rusti : maalais-  
+rustia : maaseutu  
 rutin : tapa (rutiini)  
 rwanda : Ruanda  
 ##s  
@@ -1815,7 +1824,7 @@ tema : aiheesta (-sta)
 tena : pitää  
 tende : teltta  
 tenis : tennis  
-tenki : sää  
+tenke : sää  
 tenta : houkutella  
 teoria : teoria  
 tepe : teippi (nauha)  
@@ -2009,6 +2018,8 @@ xula : korjata
 xule : korjaus  
 xuler : korjaaja  
 ##y  
+yada : muistaa  
+yade : muisti  
 yaga : arvioida  
 yagi : noin (arviolta, suunnilleen)  
 yake : jakki  
