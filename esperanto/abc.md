@@ -1,62 +1,52 @@
-Prononco
-========
+# Prononco de pandunio
 
-La ortografio de pandunio estas unu fonemo por unu litero, kaj inverse unu litero por unu fonemo.
+Pandunio uzas la bazan latinan alfabeton.  Jen la pandunia alfabeto, sekvata
+per la Esperanta prononco kaj la ekvivalenta simbolo de Internacia Fonetika
+Alfabeto (IFA):
 
-Pandunio uzas la bazan latinan alfabeton sen aldonitaj literoj.
-
-Jen la pandunia alfabeto (sekvata per esperanta prononco).
-
-    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
+    Pandunio:   a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
     Esperanto:  a b ĉ  d e f g h i ĝ  k  l m n o p  r s t  u ŭ ŝ j z
-    IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
+    IFA:       [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
+En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
+literoj.
 
-Oni rajtas skribi pandunion per nur minusklaj literoj. Sed, se oni volas, oni povas uzi majusklajn literojn por komencigi frazojn kaj proprajn nomojn.
+## Vokaloj
 
-
-Vokaloj
-------------
-
-Pandunia havas kvin vokalojn. Ili estas prononcitaj kiel en esperanto.
+Pandunio havas kvin vokalojn. Ili estas prononcitaj kiel en Esperanto.
 
     i   u
     e   o
       a
 
+La sono de la panduniaj duonvokaloj **y** and **w** estas respektive kiel la
+Esperantaj "j" kaj "ŭ".
 
-Diftongoj
----------
-
-Diftongo (ĝemelvokalo) estas kunmeto de du vokaloj, kie prononco glitas el la unua vokalo al la dua en sama silabo. La plej oftaj diftongoj estas **ai, ei, au** (aj, ej, aŭ).
-
-
-Konsonantoj
------------
+## Konsonantoj
 
     p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
 
-Nur la sekvantaj konsonantoj estas prononcataj malsame kiel en esperanto:
+Nur jenaj konsonantoj ne ekzistas en Esperanto aŭ estas prononcataj
+alimaniere:
 
-- **c** estas prononcata kiel esperanta "ĉ".
-- **j** estas prononcata kiel esperanta "ĝ".
-- **x** estas prononcata kiel esperanta "ŝ".
-- **w** estas prononcata kiel esperanta "ŭ".
-- **y** estas prononcata kiel esperanta "j".
-- **'** estas la _glota halto_ produktata per fermo/malfermo de la gloto.
-
+- **c** estas prononcata kiel Esperanta "ĉ".
+- **j** estas prononcata kiel Esperanta "ĝ".
+- **x** estas prononcata kiel Esperanta "ŝ".
+- **w** estas prononcata kiel Esperanta "ŭ".
+- **y** estas prononcata kiel Esperanta "j".
 
 ## Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
 1. Unusilabaj vortoj portas akcenton normale. Ekz. máw, cíng.
-2. En konsonantfinaj vortoj la lasta silabo portas akcenton. Ekz. komún, bazár, kamís, barú'.
-3. En vokalfinaj vortoj la antaŭlasta silabo portas akcenton. Ex. nówi, dúnia, musíke.
-
+2. En konsonantfinaj vortoj la lasta silabo portas akcenton. Ekz.
+   komún, bazár, kamís, barú.
+3. En vokalfinaj vortoj la antaŭlasta silabo portas akcenton. Ex.
+   nówi, dúnia, musíke.
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
@@ -64,9 +54,91 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
      mi wol loga komun baxa, ye si pandunia.
     /mí wól lóga komún báxa, yé sí pandúnia./
 
-Se la akcentata silabo estas alia ol laŭ supraj reguloj, do ĝi estas markita per akcentmarko (´).
+Se la akcentata silabo estas alia ol laŭ supraj reguloj, ĝi estas
+markita per dekstra korno (´).
 
      darse gurú suku kafé.
     /dárse gurú súku kafé./
 
+## Uskleco
+
+Pandunion oni normale skribas per minusklaj literoj.  Majusklajn literojn eblas
+uzi komence de frazoj kaj nomoj, ekzemlpe de personoj aŭ lokoj, sed tio ne esta
+deviga.
+
+Minuskloj ne estas necesaj, pro tri kialoj:
+
+1. La skribo reprezentas la parolsonojn, kaj ne estas "majusklaj sonoj" en
+   parolado, ekzemple komence de personaj nomoj kaj ceteraj kazoj.
+2. La plej multaj skrib-sistemoj kaj alfabetoj el la mondo ne havas kaj
+   minusklojn kaj majusklojn, sed ĉiu signo havas unu solan formon.
+3. Estas pli simple, uzi nur minusklojn.
+
+Noto: Ne estas erare, uzi majusklojn. Foje oni faras tion por kutimo en aliaj
+lingvoj. Sed majuskloj estas ne-necesaj kaj ne-rekomendataj.
+
+En pandunio majusklojn oni uzas en la internaciaj normaj akronimoj kaj
+simboloj, ekzemple: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili
+metre), 1 kJ (un kilo jul).
+
+## Silaboj
+
+[-] Eblas dividi vortoj per streketo inter la elparolataj silaboj. Ekzemple:
+bin, ka-fé, yu-mor, pos-ta.
+
+## Interpunkcio
+
+[.] Ĉiaj frazoj povas finiĝi per punkto.
+
+[?] Demandoj povas finiĝi per demando-signo anstataŭ punkto.
+
+[!] Kri-signo montras laŭton aŭ emfazon.
+
+[...] Tripunkto montras nefinitan frazon aŭ necertecon.
+
+[:] Dupunkto montras komencon de klarigo aŭ listo.
+
+[,] Komo indikas etan paŭzon aŭ apartigo inter listeroj.
+
+En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
+Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
+
+> **mi wida tu :)** = Mi vidas vin.  
+> **mi no wida tu :(** = Mi ne vidas vin.
+
+## Vorto-strukturo
+
+La plej ofta vorto-strukturo estas KVKV, kie K estas konsonanto kaj V estas vokalo.
+
+La plej malfacila vorto estas KLVKKVK, kie L estas likva konsonanto (l aŭ r).
+Ekzemple **kristal** estas tia vorto.
+
+Komencaj konsonantoj povas esti nur jenaj:
+
+1. Iu ajn sola konsonanto, escepte de /ŋ/
+2. Oklusiva konsonanto kaj likva konsonanto
+    - pl, bl, kl, gl
+    - pr, br, tr, dr, kr, gr
+3. ny
+
+<!-- XXX TODO 2018-12-19: Fini tradukon. Marcos Cruz
+
+Envortaj konsonantaj kombinoj povas esti nur jenaj:
+
+1. Resonante (m, n, ŋ, l, r) + oclusiva o africada
+    - mp, mb, nt, nd, nk, ng, nc, nj
+    - lp, lb, lt, ld, lk, lg
+    - rp, rb, rt, rd, rk, rg
+2. Resonante + sibilante
+    - ns, ls, rs
+    - nz, lz, rz
+    - nx, lx, rx
+3. Sibilante + oclusiva
+    - st, sp, sk
+4. Oclusiva + consonante líquida (ver arriba)
+
+-->
+
+La permesitaj vorto-finaj konsonantoj estas:
+m, n, ng, l, r, s, x
 

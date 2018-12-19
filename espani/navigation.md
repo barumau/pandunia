@@ -12,6 +12,6 @@
 [Curso](darse.md)
 
 
-[Videos](../pandunia/video.md)
+[Vídeos](../pandunia/video.md)
 
 
