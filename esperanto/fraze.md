@@ -1,7 +1,31 @@
 # Frazaro
 
-1a parto: Salutado
-----------------
+## Enkonduko
+
+Pandunio estas artefarita lingvo, elpensita por esti relativa facila al ĉiuj.
+Eblas lerni ĝin rapide per ĉi tiu praktika kurso.
+
+Estas facile fari simplajn frazojn en pandunio. Estas nek artikoloj nek verbo
+"esti".  Ordinaraj vortoj ne ŝanĝiĝas por montri pluralon, kaj verboj ne
+ŝanĝiĝas por montri tempon.
+
+La kurso konsistas el mallongaj lecionoj. Ĉiu leciono prezentas novan vorton,
+kiu estas uzata en pluraj frazoj de la teksto. La celo estas montri, kiel la
+vortoj funkcias en frazo. Eble estos pliaj novaj vortoj en la leciono, sed ne
+zorgu pri ili. Ne necesas lerni ĉiujn samtempe. Nur enmemorigu la frazojn kiujn
+vi trovas utilaj. Eble ankaŭ la ceteraj enmemoriĝos, nerimarkate.
+
+Eblas studi ĉi kurson kun unu aŬ pliaj amikoj. Vi kune legu la frazojn kaj
+klopodu krei simplaj konversaciojn. Eblas studi ankaŭ sola. Eĉ tiel, estas
+utile laŭt-legi konversaciojn. Ripetu la samajn frazojn plurfoje ĉiutage.
+Onidire, _ripetado estas la fundamento de lernado_.
+
+Noto: Multaj lecionoj enhavas ankaŭ helpaj kaj klarigajn notojn kiel ĉi tiu.
+Ili klarigas gramatikajn detalojn por interesatoj. Se ili ne estas utilaj al
+vi, vi povas ignori ilin. Ne necesas koni la lingvo-teorion por paroli
+pandunie.
+
+## 1a parto: Salutado
 
 ### salam <small>saluti</small>
 
@@ -35,12 +59,12 @@ Bonan vojaĝon!
 **salam son!**
 Bonan nokton!
 
-Notu! **Salam** estas ĝenerala vorto por salutado en ĉiuj situacioj.
+Noto: **Salam** estas ĝenerala vorto por salutado en ĉiuj situacioj.
 
 <small>Etimologio. **salam**
-venas el araba: سَلَام‏ "salām", hebrea: שָׁלוֹם‏ "šalom", turka: selam, hindia: सलाम "salām", sŭahila: salaam, indonezia: selamat.</small>
-
-
+venas el araba: سَلَام‏ "salām", hebrea: שָׁלוֹם‏ "šalom", turka:
+selam, hindia: सलाम "salām", sŭahila: salaam, indonezia:
+selamat.</small>
 
 ### mi <small>mi</small>
 
@@ -59,7 +83,8 @@ Mi salutas patrinon.
 **mi salama papá.**
 Mi salutas patron.
 
-La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La normala vortordo en pandunia estas subjekto-verbo-objekto.
+La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
+normala vortordo en pandunio estas subjekto-verbo-objekto.
 
 **sara salama tomas.**
 Sara salutas Tomason.
@@ -73,9 +98,6 @@ Saluton, patro!
 <small>Etimologio. **mi**
 venas el angla: me, itala: mi, sŭahila: mimi, zulua: -mi-.</small>
 
-
-
-
 ### tu <small>vi (singulare)</small>
 
 **tu tomas.**
@@ -87,7 +109,7 @@ Mi salutas vin.
 **tu salama mi.**
 Vi salutas min.
 
-Notu!  Vortoj neniam ŝanĝiĝas en pandunio. Do **mi**
+Noto:  Vortoj neniam ŝanĝiĝas en pandunio. Do **mi**
 havas la saman formon kaj kiel subjekto kaj kiel objekto.
 
 **salam tu!**
@@ -97,9 +119,8 @@ Saluton al vi!
 Mi amas vin.
 
 <small>Etimologio. **tu**
-venas el hispana: "tú", itala: "tu", franca: "tu", hindia: तू  "tū", persa: تو‏‎ "to", taĝika: ту "tu".</small>
-
-
+venas el hispana: "tú", itala: "tu", franca: "tu", hindia: तू  "tū",
+persa: تو‏‎ "to", taĝika: ту "tu".</small>
 
 ### ye <small>li, ŝi, ĝi</small>
 
@@ -112,16 +133,15 @@ Li estas virino.
 **ye aple.**
 Ĝi estas pomo.
 
-Notu! **ye**
+Noto: **ye**
 estas ĝenerala pronomo de tria persono.
 
 **mi salama ye.**
 Mi salutas lin/vin.
 
 <small>Etimologio. **ye**
-venas el lingala: yé, sŭahila: yeye, zulua: -ye-, hindia: यह  "ye", urdua: "ye".</small>
-
-
+venas el lingala: yé, sŭahila: yeye, zulua: -ye-, hindia: यह  "ye",
+urdua: "ye".</small>
 
 ### eska <small>demandi, ĉu</small>
 
@@ -131,8 +151,10 @@ venas el lingala: yé, sŭahila: yeye, zulua: -ye-, hindia: यह  "ye", urdua:
 **eska tu dotor?**
 Ĉu vi estas doktoro?
 
-Notu! Demandoj ofte komencas per **eska**. Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando estas simple mallonga manero por diri **mi eska: tu doktor.**
-(Mi demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
+Noto: Demandoj ofte komencas per **eska**. Sed ĝi estas tute normala
+verbo, ne demandvorteto kiel esperanta _ĉu_. Fakte, la lasta demando
+estas simple mallonga manero por diri **mi eska: tu doktor.** (Mi
+demandas: Vi estas doktoro?). Oni nur forlasis la unuan pronomon.
 
 **eska tu bon?**
 Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
@@ -157,14 +179,12 @@ Jes, mi estas Tomaso.
 **eska ye dotor?**
 Ĉu li/ŝi estas doktoro?
 
-
 **si, ye dotor.**
 Jes, li estas doktoro.
 
-Notu! Ankaŭ **si**
-ŝanĝiĝas neniam. Do **si**
-kovras ĉiuj formoj de esti: _estas, estos, estis, estus_! Adicie oni povas forlasi ĝin en simplaj, mallongaj frazoj post pronomoj kiel **mi**
-kaj **tu**.
+Noto: Ankaŭ **si** ŝanĝiĝas neniam. Do **si** kovras ĉiuj formoj de esti:
+_estas, estos, estis, estus_! Adicie oni povas forlasi ĝin en simplaj,
+mallongaj frazoj post pronomoj kiel **mi** kaj **tu**.
 
 **mi si tomas.**
 Mi estas Tomaso.
@@ -175,14 +195,12 @@ Vi estas Sara.
 **aple si pal.**
 Pomo estas frukto.
 
-Notu: Estas speciale utila uzi *si**
-en la lasta frazo, ĉar sen ĝi la frazo povus aspekti kiel kunmetita vorto: **aple-pala**
-(pomfrukto).
+Noto: Estas speciale utila uzi **si** en la lasta frazo, ĉar sen ĝi la
+frazo povus aspekti kiel kunmetita vorto: **aple-pala** (pomfrukto).
 
 <small>Etimologio. **si**
-venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是 "shì", ŝanghajĉina: 是 "sí".</small>
-
-
+venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是
+"shì", ŝanghajĉina: 是 "sí".</small>
 
 ### no <small>ne</small>
 
@@ -211,8 +229,6 @@ Li/ŝi no salutas min.
 <small>Etimologio. **no**
 venas el angla: no, hispana: no, franca: non.</small>
 
-
-
 ### men <small>homoj</small>
 
 Aldoni **men** al singulara pronomo por krei pluralan pronomon.
@@ -238,8 +254,6 @@ Ili estas pomoj.
 <small>Etimologio. **men**
 venas el mandarenĉina: 们 "men", angla: men (homoj ĝenerale).</small>
 
-
-
 ### ke? <small>kio? kiu?</small>
 
 **ke?**
@@ -261,8 +275,6 @@ Kiuj vi estas?
 **yemen ke?**
 Kiuj ili estas?
 
-
-
 ### ce <small>cxi tiu</small>
 
 **li si ke? / ke si sa?**
@@ -276,9 +288,6 @@ Tio estas ruĝa pomo.
 
 **ci aple ros.**
 Tiu pomo ruĝas.
-
-
-
 
 ### da <small>(poseda vorteto)</small>
 
@@ -294,10 +303,9 @@ Tio estas kies?
 **ce mi da.**
 Tio estas mia.
 
-Note: Possessive particle **da**
-is put between the owner and the owned thing. So **mi da**
-means "my", **tu da**
-means "your" and so on.
+Noto: La posedan vorteton **da** oni metas inter la posedanto kaj la
+posedataĵo. Do **mi da** signifas "mia", **tu da** signifas "via", kaj
+tiel plu.
 
 **ye ke?**
 Who's he/she?
@@ -309,9 +317,7 @@ Li/ŝi estas mia amiko.
 Mi estas amiko de Sara.
 
 <small>Etimologio. **da**
-venas el pungxaba: ਦਾ "dā", mandarenĉina: 的 "de".</small>
-
-
+venas el la panĝaba: ਦਾ "dā", mandarenĉina: 的 "de".</small>
 
 ### nam <small>nomo</small>
 
@@ -331,9 +337,9 @@ Kio estas ŝia nomo?
 Mia nomo estas Tomaso.
 
 <small>Etimologio. **nam**
-venas el hindia: नाम  "nām", persa: نام‏‎ "nām", thaja: นาม "naam", indonezia: nama, japana: 名前 "namae", ĝermana: Name, angla: name.</small>
-
-
+venas el hindia: नाम  "nām", persa: نام‏‎ "nām", thaja: นาม
+"naam", indonezia: nama, japana: 名前 "namae", ĝermana: Name, angla:
+name.</small>
 
 ### ada <small>havi</small>
 
@@ -351,8 +357,6 @@ Mi volas havi novan telefonon.
 **mi ada do bace.**
 Mi havas du infanojn.
 
-
-
 ### jan <small>scii, koni</small>
 
 **mi jan ye.**
@@ -367,8 +371,6 @@ Mi konas lin/ŝin.
 **mimen jan bici ze long.**
 Ni konas unu la alian longe.
 
-
-
 ### helpe <small>helpo</small>
 
 **mi nida helpe.**
@@ -380,11 +382,7 @@ Mi bezonas helpon.
 **eska mi ken helpa tu?**
 Ĉu mi povas helpi vin?
 
-
-
-
 ## 2a parto: Manĝado
-
 
 ### nyama <small>manĝi, trinki</small>
 
@@ -397,8 +395,8 @@ Li/ŝi manĝas pomon.
 **yemen nyama aple.**
 Ili manĝas pomojn.
 
-Notu! Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto kiel **aple**
-indikas unu aŭ multajn pomojn.
+Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto
+kiel **aple** indikas unu aŭ multajn pomojn.
 
 **eska tu nyama kafé?**
 Ĉu vi trinkas kafon?
@@ -406,13 +404,10 @@ indikas unu aŭ multajn pomojn.
 **mi nyama kafé.**
 Mi trinkas kafon.
 
-Notu! Signifo de **nyam**
-kovras manĝadon kaj trinkadon.
+Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
 
 **mi nyama kafé i nan.**
 Mi manĝas kafon kaj panon.
-
-
 
 ### wol <small>voli</small>
 
@@ -422,8 +417,8 @@ Mi manĝas kafon kaj panon.
 **tu wol nyama ke?**
 Kion vi volas manĝi?
 
-> Notu! En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj. **Ke**
-ne ŝanĝas la vortordon.
+Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
+frazoj. **Ke** ne ŝanĝas la vortordon.
 
 **mi wol nyama kafé.**
 Mi volas trinki kafon.
@@ -438,8 +433,6 @@ Kiun pomon vi volas manĝi?
 **li ros.**
 Tiun ruĝan.
 
-
-
 ### cing <small>peti</small>
 
 **mi cing tu nyama ca.**
@@ -451,7 +444,7 @@ Mi petas ke vi venu hejmen.
 **mi cing tu helpa mi.**
 Mi petas ke vi helpu min.
 
-> Notu! Faru mallongajn petojn forlasante la pronomojn.
+Noto: Faru mallongajn petojn forlasante la pronomojn.
 
 **cing nyama ca.**
 Bonvolu trinki teon!
@@ -464,8 +457,6 @@ Bonvolu veni hejmen!
 
 **cing helpa mi.**
 Bonvolu helpi min.
-
-
 
 ### danke <small>danko</small>
 
@@ -487,8 +478,6 @@ Dankon pro helpi min.
 **tu keci.**
 Nedankinde. (Laŭvorte: Vi ĝentila._)
 
-
-
 ### haida <small>ni faru</small>
 
 **haida nyama!**
@@ -499,8 +488,6 @@ Ni iru manĝi!
 
 **haida enda dom.**
 Ni iru hejmen.
-
-
 
 ### nida <small>bezoni</small>
 
@@ -516,11 +503,7 @@ Mi bezonas manĝi.
 **eska tu nida suy?**
 Ĉu vi bezonas trinki (akvon)?
 
-
-
-
-3a parto: Komunikado
----------------------
+## 3a parto: Komunikado
 
 ### pardon <small>pardono</small>
 
@@ -532,8 +515,6 @@ Pardonon, kio estas tio?
 
 **pardon. tu namu ke?**
 Pardonon, kio estas via nomo?
-
-
 
 ### aha <small>kompreni</small>
 
@@ -551,8 +532,6 @@ Mi ne sufiĉe komprenis vin.
 
 **mi aha nul.**
 Mi komprenas nenion.
-
-
 
 ### ken <small>povi</small>
 
@@ -580,8 +559,6 @@ Mi ne povas paroli la anglan.
 **pardon. mi no ken tu da baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
-
-
 ### loga <small>diri, paroli</small>
 
 **tu loga ke?**
@@ -602,8 +579,6 @@ Kio estas "kato" pandunie?
 **maw loga miaw.**
 Kato diras mjaŭ.
 
-
-
 ### auda <small>aŭdi, aŭskulti</small>
 
 **mi no ken auda tu.**
@@ -617,8 +592,6 @@ Mi aŭskultas muzikon.
 
 **tu auda ke yang da musike?**
 Kian muzikon vi aŭskultas?
-
-
 
 ### wida <small>vidi, rigardi</small>
 
@@ -634,8 +607,6 @@ Mi ĝojas vidi vin!
 **mi wida ye yer den.**
 Mi vidin lin/ŝin hieraŭ.
 
-
-
 ### mana <small>signifi</small>
 
 **ci loge mana ke?**
@@ -650,8 +621,6 @@ Kion "mau" signifas?
 **mi no aha ye mana ke.**
 Mi ne komprenas kion ĝi signifas.
 
-
-
 ### kitaba <small>skribi</small>
 
 **cing kitaba tu da adres.**
@@ -659,8 +628,6 @@ Bonvolu skribi vian adreson.
 
 **cing kitaba ye na ce.**
 Bonvolu skribi ĝin tie!
-
-
 
 ### baxa <small>paroli, lingvumi</small>
 
@@ -685,8 +652,6 @@ la araba, la turka, la persa, la urdua, la hindia
 **swahili, hausi, yorubi, amari**
 la sŭahilia, la haŭsa, la joruba, la amhara
 
-
-
 ## 4a parto: Iro
 
 ### enda <small>iri</small>
@@ -709,8 +674,6 @@ Ni iru!
 **hayda enda na pede**
 Ni iru piede!
 
-
-
 ### laya <small>veni</small>
 
 **cing laya!**
@@ -725,8 +688,6 @@ Mi venas el Dubai.
 **mi laya dom ming den.**
 Mi venos hejmen morgaŭ.
 
-
-
 ### safara <small>vojaĝi</small>
 
 **eska tu safara na tren?**
@@ -737,7 +698,6 @@ Ni vojaĝas el Londono al Parizo.
 
 **safar day long.**
 La vojaĝo estas tre longa.
-
 
 ### doma <small>loĝi</small>
 
@@ -750,12 +710,7 @@ Mi loĝas en Singapuro.
 **eska tu doma ci hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
-
-
-
-Vortaro
--------
-
+## Vortaro
 
 **a** sed <small>(turka _a_)</small>  
 **ada** havi <small>(portugala _há_)</small>  
@@ -816,4 +771,3 @@ Vortaro
 **yemen** ili  
 **zay** nune <small>(Mandarin _zài_ 在)</small>  
 **ze** el, de <small>(Czech _z, ze_)</small>  
-
