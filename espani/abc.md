@@ -1,57 +1,73 @@
-Ortografía de Pandunia
-====================
+# Pronunciación y ortografía de pandunia
 
-El alfabeto latino básico es usado para escribir en Pandunia. A continuación: el alfabeto de Pandunia seguido de los símbolos del Alfabeto Fonético Internacional (AFI).
+Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
+con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
     Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
     AFI:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
 
-En Pandunia, como en el español, las palabras se pronuncian exactamente como se deletrean. Ninguna letra es muda. Cada letra tiene un sonido que siempre es el mismo.
+En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
+muda.
 
+## Sonido de las vocales
 
-
-Sonido de las vocales
-------------
-
-Pandunia tiene cinco vocales.
+Pandunia tiene cinco vocales, que se pronuncian igual que en español.
 
     i   u
     e   o
       a
 
-Se pronuncian igual que en el español.
-
-
-
-Sonidos de las consonantes
-----------------
+## Sonidos de las consonantes
 
     p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
 
-Algunas consonantes se pronuncian como en el español. Así que la pronunciación de **b, d, f, k, l, m, n, p, t, w** resulta familiar y fácil.
-Las demás consonantes se pronuncian así:
+La pronunciación de **b, d, f, k, l, m, n, p, s, t** es como en español.
 
-- **g** se pronuncia como en _gato, guitarra, guante_.
-- **r** se pronuncia preferiblemente como en _carro_. Aunque otras pronunciaciones también son aceptables. ¡Hay que tener en cuenta que la **r** nunca es muda!
-- **s** se pronuncia como en _serpiente, soldar_. 
-- **z** es pronunciada como en palabra inglesa _zoo_, es decir, como una consonante sibilante.
-- **x** siempre se pronuncia como el dígrafo inglés SH _/ʃ/_, como en la palabra _ship_. O como el sonido para pedir silencio _shhhh_.
-- **c** se pronuncia como el dígrafo español CH. Ejemplos: _muchacho, chihuahua_.
-- **j** se pronuncia similar a la Y española.
-- **h** se pronuncia como en el inglés. Es como el sonido de la J española pero suave.
-- **y** se pronuncia como en el español pero suave, como en el inglés.
+Las consonantes siguientes representan fonemas que existen en español bajo otra
+grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
 
+- **c** se pronuncia siempre (ante cualquier vocal) como el dígrafo español CH
+  en "muchacho".
+- **g** se pronuncia siempre (ante cualquier vocal) como la G suave de "gato".
+- **r** se pronuncia preferiblemente como en "carro", aunque otras
+  pronunciaciones también son aceptables.
+- **w** representa el sonido breve diptongado de U, y equivale por tanto a la U
+  breve diptongada en "aurora", "Europa".
+- **y** representa el sonido breve diptongado de I, y equivale por tanto
+  siempre (también ante vocal) a la Y en "ley", a la I en "aire".
+- **h** es como el sonido de la J española.
+
+Las consonantes siguientes representan fonemas que no existen en español:
+
+- **j** equivale al grupo catalán TG/TJ en _viatge_, _platja_, al grupo inglés
+  DG en _Cambridge_, al grupo francés DJ en _adjoint_, a la G italiana en
+  Genova, al grupo portugués DJ en _adjectivo_. Es el sonido que damos en
+  español a la Y tras L o N: "el yunque", "un yermo". Se pronuncia disponiendo
+  los órganos de articulación (lengua, labios, dientes, paladar) en la boca
+  exactamente igual que para el dígrafo CH en español, pero haciendo vibrar las
+  cuerdas vocales en la garganta.
+- **x** equivale a X catalana en _caixa_, gallega y portuguesa en _peixe_, al
+  dígrafo inglés SH en _ship_, al grupo francés CH en _chaud_, al grupo
+  italiano SC en _pesce_, al grupo alemán SCH en _schön_. Su sonido es el del
+  dígrafo CH español en boca de algunos andaluces ("mushasho").  También es el
+  sonido que se usa para pedir silencio: "Shhhh!".
+- **z** se pronuncia como en la palabra inglesa _zoo_, es decir, como una
+  consonante sibilante.
 
 ## Acento
 
-El acento en Pandunia va en la sílabra que está antes de la última consonante.
+El acento tónico en pandunia va en la sílabra que está antes de la última
+consonante.
 
-1. Las palabras con solo una sílaba llevan el acento en la primera vocal que tengan. Ejemplos: máu, cíng.
-2. El acento va en la última sílaba si la palabra termina con una consonante. Ejemplos: komún, bazár, kamís.
-3. El acento va en la penúltima sílaba si la palabra termina con una vocal. Ejemplos: dúnia, melódi.
+1. Las palabras con solo una sílaba llevan el acento en la primera vocal que
+   tengan. Ejemplos: máu, cíng.
+2. El acento va en la última sílaba si la palabra termina con una consonante.
+   Ejemplos: komún, bazár, kamís.
+3. El acento va en la penúltima sílaba si la palabra termina con una vocal.
+   Ejemplos: dúnia, melódi.
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
@@ -62,66 +78,68 @@ El acento en Pandunia va en la sílabra que está antes de la última consonante
      darse gurú suku kafé.
     /dárse gurú súku kafé./
 
-
-### Schwa
-
-Schwa es una vocal corta, sin acento y neutral, que puede ser añadida después de una consonante para hacer la pronunciación más fácil en el lenguaje hablado. Nunca se escribe en Pandunia. El símbolo /ə/ es usado para schwa en el Alfabeto Fonético Internacional.
-
-Por ejemplo, a algunas personas puede facilitarle la pronunciación de palabras como **sam** y **kop**, las cuales terminan en consonante, añadiendo el sonido schwa al final, así: /samə/, /kopə/. Si palabras como las anteriores te son difíciles de pronunciar, es mejor que añadas schwa en vez de que te "comas" las última consonante.
-
-La schwa no lleva acento y no cambia el lugar del acento en la palabra en la que se use.
-
-
 ## Uso de las letras mayúsculas y minúsculas
 
-Pandunia se escribe normalmente en solo letras minúsculas. Las letras mayúsculas pueden ir al inicio de las frases y de los nombres propios, como los nombres de las personas y lugares, pero no son necesarias.
+En pandunia se escribe normalmente solo con letras minúsculas.  Las letras
+mayúsculas pueden usarse al inicio de las frases y de los nombres propios, como
+los nombres de personas y lugares, pero no son obligatorias.
 
 Hay tres razones por las cuales las letras mayúsculas no son necesarias.
 
-1. Escribir representa el habla y no hay "sonidos mayúsculos" en el habla al inicio de nombres propios, etc.
-2. La mayoría de los sistemas de escritura y alfabetos del mundo tienen un solo tamaño de letra.
-3. Es más simple usar solamente letras minúsculas.
+1. La escritura representa el habla y no hay "sonidos mayúsculos" en el habla,
+   por ejemplo al inicio de nombres propios.
+2. La mayoría de los sistemas de escritura y alfabetos del mundo no distinguen
+   entre minúsculas y minúsculas, sino que cada letra solo tiene una única
+   forma.
+3. Es más sencillo usar solamente letras minúsculas.
 
-¡Nota! Usar letras mayúsculas no es un error. A veces las personas las usan habitualmente porque están acostumbradas a usarlas en otros idiomas. Aún así, las letras mayúsculas son innecesarias y no se recomiendan..
+Nota: Usar letras mayúsculas no es un error. A veces las personas las usan
+porque están acostumbradas a ello en otros idiomas. Aun así, las mayúsculas son
+innecesarias y no se recomiendan..
 
-En Pandunia, se usan las letras mayúsculas en los  acrónimos internacionales estándar. Por ejemplo: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2mm (du mili metre), 1 kJ (un kilo jul).
+En pandunia, se usan las letras mayúsculas en los acrónimos y símbolos
+internacionales estándar. Por ejemplo: 10 Mb (des mega bit), 100 Gb (hon giga
+bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
 
+## Sílabas
 
-## Silabeo
-
-[-] Las palabras se pueden dividir en sílabas con un guión. El guión se pone entre las sílabas que se dicen. Por ejemplo: bin, ka-fe, yu-mor, pos-ta.
-
+[-] Las palabras se pueden dividir en sílabas, tal cual se pronuncian, usando
+un guion. Por ejemplo: bin, ka-fé, yu-mor, pos-ta.
 
 ## Puntuación
 
-[.] Todos los tipos de frases pueden terminar con un punto al final.
+[.] Todos los tipos de frases pueden terminar con un punto.
 
-[?] Las preguntas pueden terminar con un signo de interrogación.
+[?] Las preguntas pueden terminar con un signo de interrogación en lugar del punto.
 
-[!] El signo de exclamación indica volúmen o énfasis.
+[!] El signo de exclamación indica volumen o énfasis.
 
-[...] Los puntos consecutivos -solo tres- pueden ser usados para indicar una frase incompleta o en suspenso.
+[...] Los puntos suspensivos -solo tres- pueden usarse para indicar una frase
+incompleta o falta de certeza.
 
-[:] Los dos puntos -uno arriba del otro- indica el inicio de una explicación o una lista.
+[:] El signo de dos puntos indica el inicio de una explicación o una lista.
 
 [,] La coma indica una pequeña pausa o una separación entre objetos listados.
 
-Informalmente, las caritas felices, los emoticones y emojis pueden ser usados para indicar un estado de ánimo. Por ejemplo **:)** indica felicidad y **:(** indica tristeza.
+Informalmente, las caritas felices, los emoticones y emojis pueden ser usados
+para indicar un estado de ánimo. Por ejemplo **:)** indica felicidad y **:(**
+indica tristeza.
 
 > **mi wida tu :)** = Te veo.  
 > **mi no wida tu :(** = No te veo.
 
-
 ## Estructura de las palabras
 
-Las estructura de palabras más común en Pandunia es CVCV, en donde C es una consonante y V es una vocal.
+La estructura de palabras más común en pandunia es CVCV, en donde C es una
+consonante y V es una vocal.
 
-La palabra más difícil posible es CLVCCVC, en donde L es una consonante líquida (l o r). Por ejemplo **kristal**.
+La palabra más difícil posible es CLVCCVC, en donde L es una consonante líquida
+(l o r). Por ejemplo **kristal** es una palabra así.
 
 Las consonantes iniciales están restringidas a:
 
-1. Cualquier otra consonante a excepción de /ŋ/
-2. Oclusiva + consonante líquida
+1. Cualquier consonante sola, excepto /ŋ/
+2. Una consonante oclusiva seguida de una líquida
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
 3. ny
