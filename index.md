@@ -3,27 +3,27 @@
 
 #pandunia - egal dunia bax
 
-![](http://pandunia.info/bander/gb.png) ![](http://pandunia.info/bander/us.png) [Learn about Pandunia in English](engli/index.md)
+[Learn about Pandunia in English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺
 
-![](http://pandunia.info/bander/cn.png) [学 泛世界语](zhongwen/index.md)
+[学 泛世界语](zhongwen/index.md) 🇨🇳 🇹🇼
 
-![](http://pandunia.info/bander/es.png) [Aprende pandunia en español](espani/index.md)
+[Aprende pandunia en español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
 
-![](http://pandunia.info/bander/br.png) ![](http://pandunia.info/bander/pt.png) [Aprenda pandunia em português](portugal/index.md)
+[Aprenda pandunia em português](portugal/index.md) 🇵🇹 🇧🇷 🇦🇴 🇲🇿
 
-![](http://pandunia.info/bander/fr.png) [Apprenez le pandunia à partir du français](frans/index.md)
+[Apprenez le pandunia à partir du français](frans/index.md) 🇫🇷 🇨🇦 🇨🇮 🇨🇩 🇩🇿
 
-![](http://pandunia.info/bander/ru.png) [Изучаем язык Пандуния на русском](rusi/index.md)
+[Изучаем язык Пандуния на русском](rusi/index.md) 🇷🇺 🇧🇾 🇺🇦
 
-![](http://pandunia.info/bander/jp.png)[パンズニヤ語を日本語で学ぶ](nipon/index.md)
+[パンズニヤ語を日本語で学ぶ](nipon/index.md) 🇯🇵
 
-![](http://pandunia.info/bander/id.png) ![](http://pandunia.info/bander/my.png) [Belajar bahasa Pandunia dalam bahasa Melayu/Indonesia](malayu/index.md)
+[Belajar bahasa Pandunia dalam bahasa Melayu/Indonesia](malayu/index.md) 🇮🇩 🇲🇾
 
-![](http://pandunia.info/bander/pl.png) [Poznaj Pandunię w języku polskim](polski/index.md)
+[Poznaj Pandunię w języku polskim](polski/index.md) 🇵🇱
 
-![](http://pandunia.info/bander/eo.png) [Lernu pandunion Esperante](esperanto/index.md)
+[Lernu pandunion Esperante](esperanto/index.md) ![](http://pandunia.info/bander/eo.png)
 
-![](http://pandunia.info/bander/fi.png) [Tutustu panduniaan suomeksi](suomi/index.md)
+[Tutustu panduniaan suomeksi](suomi/index.md) 🇫🇮
 
-![](http://pandunia.info/bander/qpn.png) [kitabe du tema pandunia na pandunia](pandunia/index.md)
+[kitabe du tema pandunia na pandunia](pandunia/index.md) ![](http://pandunia.info/bander/qpn.png)
 
