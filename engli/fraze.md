@@ -759,6 +759,7 @@ They wait for us.
 **mi denga tu na hotel.**
 I wait for you in the hotel.
 
+
 ## Part 5. Time expressions
 
 ### zay <small>currently</small>
@@ -1040,3 +1041,4 @@ example.
 **yemen** they  
 **zay** currently, at present <small>(Mandarin _zài_ 在)</small>  
 **ze** from, since <small>(Czech _z, ze_)</small>  
+

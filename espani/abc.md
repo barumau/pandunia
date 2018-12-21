@@ -38,12 +38,10 @@ grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
   breve diptongada en "aurora", "Europa".
 - **y** representa el sonido breve diptongado de I, y equivale por tanto
   siempre (también ante vocal) a la Y en "ley", a la I en "aire".
+- **h** es como el sonido de la J española.
 
 Las consonantes siguientes representan fonemas que no existen en español:
 
-- **h** equivale a la H inglesa en _house_, a la H alemana en _Hund_.  Se
-  pronuncia aspirada, como en la región andaluza de España la J de "bajar" o
-  "tejer".  Es como el sonido de la J española pero suave.
 - **j** equivale al grupo catalán TG/TJ en _viatge_, _platja_, al grupo inglés
   DG en _Cambridge_, al grupo francés DJ en _adjoint_, a la G italiana en
   Genova, al grupo portugués DJ en _adjectivo_. Es el sonido que damos en
@@ -51,12 +49,6 @@ Las consonantes siguientes representan fonemas que no existen en español:
   los órganos de articulación (lengua, labios, dientes, paladar) en la boca
   exactamente igual que para el dígrafo CH en español, pero haciendo vibrar las
   cuerdas vocales en la garganta.
-- **v** equivale a la V inglesa en _vanity_, francesa en _vie_, italiana en
-  _vita_, portuguesa en _vida_; a la W alemana en _Wein_. Es siempre
-  labiodental y no debe confundirse con la B.  Se pronuncia disponiendo los
-  órganos de articulación (lengua, labios, dientes, paladar) en la boca
-  exactamente igual que para la F, pero haciendo vibrar las cuerdas vocales en
-  la garganta.
 - **x** equivale a X catalana en _caixa_, gallega y portuguesa en _peixe_, al
   dígrafo inglés SH en _ship_, al grupo francés CH en _chaud_, al grupo
   italiano SC en _pesce_, al grupo alemán SCH en _schön_. Su sonido es el del
@@ -64,11 +56,6 @@ Las consonantes siguientes representan fonemas que no existen en español:
   sonido que se usa para pedir silencio: "Shhhh!".
 - **z** se pronuncia como en la palabra inglesa _zoo_, es decir, como una
   consonante sibilante.
-
-Créditos: Parte de las descripciones de los sonidos han sido adaptadas del
-anexo escrito por Antonio Valén para la el libro _El esperanto, fenómeno de la
-comunicación_ (William Auld, 1988), traducido del esperanto al español por
-Marcos Cruz, 1992.
 
 ## Acento
 
