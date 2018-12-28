@@ -14,9 +14,9 @@
 [💬]()
 
   * [English](../engli/index.md)
-  * [français](../frans/index.md)
   * [español](../espani/index.md)
-  * [esperanto](../esperanto/index.md)
+  * [Esperanto](../esperanto/index.md)
+  * [français](../frans/index.md)
   * [indonesia](../malayu/index.md)
   * [日本語](../nipon/index.md)
   * [pandunia](../pandunia/index.md)

@@ -23,7 +23,7 @@
 
 #### [suomeksi](suomi/index.md) 🇫🇮
 
-#### [en esperanto](esperanto/index.md) ![](http://pandunia.info/bander/eo.png)
+#### [en Esperanto](esperanto/index.md) ![](http://pandunia.info/bander/eo.png)
 
 #### [na pandunia](pandunia/index.md) ![](http://pandunia.info/bander/qpn.png)
 
