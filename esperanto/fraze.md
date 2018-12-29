@@ -125,10 +125,10 @@ persa: تو‏‎ "to", taĝika: ту "tu".</small>
 ### ye <small>li, ŝi, ĝi</small>
 
 **ye man.**
-Ŝi estas viro.
+Li estas viro.
 
 **ye fem.**
-Li estas virino.
+Ŝi estas virino.
 
 **ye aple.**
 Ĝi estas pomo.
