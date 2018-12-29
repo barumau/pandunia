@@ -826,7 +826,6 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-
 ### dona <small>give</small>
 
 **cing dona pese.**
