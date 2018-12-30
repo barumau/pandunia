@@ -17,19 +17,19 @@ alfabet, abecadło : abace
 Algieria : jayer  
 alkohol : alkol  
 alkoholowy : alkoli  
-aluminium; glin : alumin  
 ambasada : dayxi kan  
 ambasador : dayxi  
 ameryk : amerikium  
 Ameryka (kontynent) : amerike  
-Amerykanin : ameriki  
 Amerykańska Samoa : usameriki samoa  
+amerykański : ameriki  
 Amhara, amharski : amari  
 amper : amper  
 analiza : analis  
 analizować : analisa  
 analny, odbytni : anusi  
 ananans : nanas  
+Andy : andes  
 Anglik; angielski : engli  
 Angola : angolia  
 animacja : anime  
@@ -124,7 +124,7 @@ biust : buste
 bizmut : bismute  
 biznes, interes (aktywność komercyjna) : biznes  
 bić, uderzyć, uderzać : darba  
-bliski : jin  
+bliski : karbi  
 blokować, hamować : bara  
 bogaty : rici  
 bohater, heros : heró  
@@ -152,7 +152,7 @@ buddysta : budiste
 Buddyzm : budistia  
 budżet : bujete  
 Burkina Faso : burkiná  
-Burundi : rundi  
+Burundi : rundia  
 burza, sztorm, tajfun : tafun  
 but : sapate  
 butelka : botol  
@@ -252,7 +252,7 @@ czysty : safi
 czytać : duga  
 często : cang  
 część, ułamek : fen  
-członek, uczestnik : member  
+członek : member  
 człowiek, istota ludzka : insan  
 córka : fem bace  
 ##d  
@@ -352,6 +352,7 @@ efekt halo : halos
 egipski : misri  
 Egipt : misria  
 einstein : einsteinium  
+ekologia (nauka o środowisku) : tabia lojia  
 ekran : ekran  
 ekskrement, gówno : kake  
 Ekwador : ekuador  
@@ -407,6 +408,7 @@ fiński : suomi
 flaga, sztandar : bander  
 fluor : flur  
 fonem : foneme  
+fontanna (studnia, źródło) : fonte  
 forma, kształt : forme  
 forteca, twierdza : yosay  
 forum : forum  
@@ -439,6 +441,7 @@ gest : jeste
 Ghana : gania  
 Gibraltar : jibraltar  
 gitara : gitar  
+glin (aluminium) : alumin  
 globalny : dunial  
 glutaminian sodu : micin  
 gluten : gluten  
@@ -548,6 +551,7 @@ ind : indium
 Indie : bartia  
 Indonezja : indonesia  
 Indyjski : barti  
+infekcja (zakażenie) : infece  
 informacja : informe  
 inny : ali  
 innymi słowy : yani  
@@ -569,6 +573,7 @@ ja, mnie : mi
 jabłko : aple  
 jabłko cukrowe : ate  
 jadalnia : nyam kamar  
+jajko (jajo) : ande  
 jak (zwierzę) : yake  
 jak, niż, od : ka  
 jak? : ki xey  
@@ -599,6 +604,7 @@ Jordan : urdun
 judaizm : yehudistia  
 judo : judo  
 Jupiter : muxing  
+już (gotowy) : lew  
 już : ja  
 język surinamski : surinam bax  
 język sztuczny : sani bax  
@@ -631,6 +637,7 @@ karaoke : karaoke
 karat : kirate  
 karate : karate  
 karta : karte  
+kartka (dokument) : warke  
 kasjer : kaxer  
 kaszel; kaszlnięcie : kos  
 kasztan : kastan  
@@ -728,7 +735,7 @@ kość do gry : dadó
 kradzież : cur  
 kraj, ziemia : dex  
 kran; korek, zatyczka, szpunt : tape  
-kredens, szafa ścienna, szafks, szafa : almar  
+kredens (szafa, szafka) : almar  
 krem : krem  
 kret : krote  
 krew : sang  
@@ -745,7 +752,6 @@ krzem : silike
 krzyknąć, krzyczeć : krita  
 krzyż : krus  
 król : man rajer  
-król lub królowa : koron xefe  
 król lub królowa : rajer  
 królestwo : rajia  
 królewski : raji  
@@ -773,7 +779,7 @@ kumin, kmin : zirá
 kung fu : gung fu  
 kupon : kupon  
 kura, kogut, kurczak : koke  
-kurtka : jaket  
+kurtka : jake  
 kusić, nakłonić, nakłaniać : tenta  
 Kuwejt : kuwaitia  
 kwaśny : suan  
@@ -949,8 +955,8 @@ miód : medu
 między : inter  
 miękki : komal  
 mięso : manse  
+miłość (afekt) : am  
 miłość romantyczna : romanse  
-miłość, afekt : am  
 miły, przyjemny, uroczy : latif  
 Mjanma, Birma : bama  
 mleko : milke  
@@ -1045,6 +1051,7 @@ Neptun : neptun
 neptun : neptunium  
 nic, żadna rzecz : nul xey  
 nie : no  
+nie ruszać się : stasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
 niebezpieczny : hatari  
 niebieski : nil  
@@ -1113,6 +1120,7 @@ odbyt : anus
 odcisk, ślad; stempel, pieczęć : cape  
 oddech : nafas  
 odetkać, odtykać : zibula  
+odmówić : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
 odpowiedzieć, odpowiadać : daba  
 odpowiedź, odzew : dabe  
@@ -1256,7 +1264,7 @@ piękny, przystojny : sundar
 pięć (5) : lim  
 piłka : bol  
 placek, ciasto : pay  
-placy : ruk  
+placy : ruke  
 plan : plan  
 planeta : planete  
 planować : plana  
@@ -1266,7 +1274,7 @@ platoniczne : platoni
 platonizm : platonistia  
 platończyk : platoniste  
 platyna : platin  
-plecak : ruk sak  
+plecak : ruke sake  
 plemię : tribe  
 Pluton (planeta karłowata) : pluto  
 pluton : plutonium  
@@ -1324,7 +1332,7 @@ poniedziałek : war 1 (war un)
 ponieważ, bo : karena  
 poniższy : nici  
 popołudnie : xam den  
-poprawić, poprawiać : saha  
+poprawić, poprawiać, prostować, korygować : saha  
 poprzedzić, poprzedzać : preda  
 popularny, modny : faxoni  
 popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać : yala  
@@ -1332,7 +1340,7 @@ pora roku : mosim
 porcja, dawka : doze  
 porno, film erotyczny : porne  
 pornografia : porne grafia  
-porozumienie; amen : amen  
+porozumienie (amen) : amen  
 Portugalia : portugal  
 porządek : ratibe  
 porządkować, organizować : ratiba  
@@ -1394,7 +1402,6 @@ promet : prometium
 proroctwo : nabe  
 prorok : naber  
 prosić : cing  
-prostować, korygować : tika  
 prosty : jika  
 prosty, nieskomplikowany : simpli  
 protaktyn : protacinium  
@@ -1414,6 +1421,7 @@ przekroczyć, przekraczać, przejść nad, iść nad : supra
 przekąska : lil nyame  
 przepraszam! : pardon  
 przerwać, przerywać : pausa  
+przesilenie : sol stas  
 przestępstwo : krim  
 przeszkodzić, przeszkadzać, robić kłopot : mafana  
 przeszłość : pase  
@@ -1651,7 +1659,7 @@ spotkać : mita
 spowodować, powodować : karenu  
 społeczeństwo, system społeczny : socia  
 społeczny : soci  
-sprawdzić, sprawdzać : ceka  
+sprawdzić, sprawdzać, skontrolować : ceka  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać : genca  
 sprawiedliwość : xaria  
 sprawiedliwy : xari  
@@ -1809,7 +1817,7 @@ Togo : togó
 tolerować : tolera  
 ton, dźwięk, nuta, tonacja : ton  
 tor : torium  
-torba, wór, worek, torba, sakwa : sak  
+torba, wór, worek, torba, sakwa : sake  
 totalny, ogólny : total  
 trawa : gras  
 trochę; nieokreślony, nieograniczony, nieokreślony : fulan  
@@ -1855,7 +1863,8 @@ tłuszcz : fete
 ##u  
 ubranie, ubiór, strój : fuke  
 uciec, uciekać : bega  
-uczestniczyć, wziąć udział, brać udział : memba  
+uczestniczyć, wziąć udział, brać udział : parta  
+uczestnik : parter  
 uczeń, student : darse bace  
 Uganda : gandia  
 ugotować się, gotować się : bulu  
@@ -1909,7 +1918,7 @@ warga : labia
 warsztat szewski : sapateria  
 warsztat, pracownia; miejsce na ... : kan  
 warunek : xarte  
-warzywo : sabze  
+warzywo : cay  
 wat : wate  
 Watykan, Państwo Watykańskie : vatikan  
 waza, garnek, gar, doniczka, słoik, słój : pote  
@@ -1918,6 +1927,7 @@ wazon; donica, doniczka : pul waze
 ważka : libel  
 ważny : muhim  
 wciąż, nadal : hay  
+wczoraj : predi den  
 Wenezuela : venesuela  
 weranda, balkon, taras, ganek : berande  
 wesoły, ucieszony : suki  
@@ -1931,8 +1941,8 @@ wiatr : fong
 widelec : forke  
 widok, wzrok : wide  
 wieczór : xam  
-wiedza : jane  
-wiedzieć : jan  
+wiedza : jan  
+wiedzieć : jana  
 wiejski, rustykalny : rusti  
 wiek : umur  
 wielbłąd, wielbłądzica : gamel  
@@ -2114,7 +2124,7 @@ zostać, zostawać : restu
 zrobić, robić, stworzyć, tworzyć, wykreować, kreować : fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać : sana  
 zsumować, sumować, dodać, dodawać : suma  
-zulu : zulu  
+zulu : zulú  
 zupa : supe  
 zwinny, sprawny : ajil  
 związać, wiązać; zapiąć, zapinać : banda  
@@ -2171,7 +2181,7 @@ zły, zrujnowany, zepsuty : harabi
 żart : joke  
 żartowniś, dowcipniś : joker  
 żegnaj, dobre odejście : salam cute  
-żel, galareta : jele  
+żel, galareta : jel  
 żelazo : fer  
 żeń-szeń : jenxen  
 życie : jiwe  

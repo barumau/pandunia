@@ -29,22 +29,24 @@ ali jinse kami : heteroseksualny
 ali : inny  
 alkol : alkohol  
 alkoli : alkoholowy  
-almar : kredens, szafa ścienna, szafks, szafa  
+almar : kredens (szafa, szafka)  
 almas : diament  
 altar : ołtarz  
-alumin : aluminium; glin  
-am : miłość, afekt  
+alumin : glin (aluminium)  
+am : miłość (afekt)  
 ama : kochać  
 amari : Amhara, amharski  
-amen : porozumienie; amen  
+amen : porozumienie (amen)  
 amena : potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 amerike : Ameryka (kontynent)  
-ameriki : Amerykanin  
+ameriki : amerykański  
 amerikium : ameryk  
 amper : amper  
 amuke : gniew, furia  
 analis : analiza  
 analisa : analizować  
+ande : jajko (jajo)  
+andes : Andy  
 angolia : Angola  
 anima : animować  
 anime : animacja  
@@ -251,10 +253,11 @@ capa : naciskać, zostawiać ślad
 cape : odcisk, ślad; stempel, pieczęć  
 car : cztery (4)  
 cate : dach  
+cay : warzywo  
 caye : cień  
 ce : ten konkretny  
 cehia : Republika Czeska, Czechy  
-ceka : sprawdzić, sprawdzać  
+ceka : sprawdzić, sprawdzać, skontrolować  
 celó : wiolonczela  
 centi : centy-, procent, na sto, setna część  
 cerium : cer  
@@ -488,6 +491,7 @@ fone : głoska
 foneme : fonem  
 fong : wiatr  
 fonga : dmuchać  
+fonte : fontanna (studnia, źródło)  
 forke : widelec  
 forma : ukształtować, kształtować, urzeźbić, rzeźbić  
 forme : forma, kształt  
@@ -693,6 +697,7 @@ imperiste : imperialista
 imperistia : imperializm  
 indium : ind  
 indonesia : Indonezja  
+infece : infekcja (zakażenie)  
 informa : poinformować, informować, zakomunikować, komunikować  
 informe : informacja  
 inje : imbir  
@@ -724,7 +729,7 @@ italia : Italia, Włochy
 izi : łatwy, prosty  
 ##j  
 ja : już  
-jaket : kurtka  
+jake : kurtka  
 jala : spalić, palić  
 jalu : spłonąć, płonąć  
 jama : kolekcjonować, zebrać, zbierać  
@@ -732,8 +737,8 @@ jamaike : Jamajka
 jami : zbiorowy, zbiorczy  
 jamia : kolekcja, zbiór; zgromadzenie, zebranie  
 jamula : rozproszyć, rozpraszać  
-jan : wiedzieć  
-jane : wiedza  
+jan : wiedza  
+jana : wiedzieć  
 janel : okno  
 jang : walka, wojna  
 jangal : las, dżungla, zagajnik  
@@ -747,7 +752,7 @@ jayer : Algieria
 jayistia : dźinizm, dżinizm  
 jaze : jazz, dżez  
 jebe : kieszeń  
-jele : żel, galareta  
+jel : żel, galareta  
 jelos : zazdrosny  
 jen den : urodziny  
 jen : narodziny  
@@ -763,7 +768,6 @@ jibutia : Dżibuti
 jijú : pająk  
 jika : prosty  
 jiki : wyprostować, prostować  
-jin : bliski  
 jinse : płeć  
 jinsi : płciowy  
 jiraf : żyrafa  
@@ -838,6 +842,7 @@ kaputi : zepsuty
 kar : wóz, wózek  
 karaoke : karaoke  
 karate : karate  
+karbi : bliski  
 karbon : węgiel  
 karbon : węgiel  
 karen : powód, przyczyna  
@@ -949,7 +954,6 @@ kope : kopia, replika
 kopernikium : kopernik  
 kor : chór  
 korne : róg  
-koron xefe : król lub królowa  
 koron : korona  
 korta : skrócić, skracać  
 korti : krótki  
@@ -1030,6 +1034,7 @@ lenxa : ćwiczyć
 lete : lato  
 letis : sałata  
 letre : list, wiadomość  
+lew : już (gotowy)  
 li : ten  
 liba : postawić, stawiać, ustawić pionowo, ustawiać pionowo  
 libel : ważka  
@@ -1187,8 +1192,7 @@ mega : milion, mega-
 megam : chmura  
 melodi : melodyczny  
 melodia : melodia  
-memba : uczestniczyć, wziąć udział, brać udział  
-member : członek, uczestnik  
+member : członek  
 meme : owca  
 mena : znaczyć  
 mene : znaczenie  
@@ -1334,6 +1338,7 @@ nawatli : nahuatl
 nayjiria : Nigeria  
 nederlandi antilia : Antyle Holenderskie  
 nederlandia : Holandia, Królestwo Niderlandów  
+nega : odmówić  
 nen feste : rocznica  
 nen : rok  
 nenufar : lilia wodna, nenufar  
@@ -1462,6 +1467,8 @@ par : równy
 paraguay : Paragwaj  
 parde : zasłona, kurtyna  
 pardon : przepraszam!  
+parta : uczestniczyć, wziąć udział, brać udział  
+parter : uczestnik  
 pas : przeszły, miniony  
 pasa : minąć, mijać, przeminąć, przemijać  
 pase : przeszłość  
@@ -1562,6 +1569,7 @@ pramana : dowieść, dowodzić; zeznać, zeznawać
 prate : praktyka, aktualność  
 prati : practyczny, pragmatyczny  
 preda : poprzedzić, poprzedzać  
+predi den : wczoraj  
 presis : precyzyjny, dokładny  
 prizon : więzienie, kara więzienia, kara pozbawienia wolności  
 prizona : uwięzić, więzić, pozbawić wolności  
@@ -1664,10 +1672,10 @@ roze : róża
 rozi : różowy, różany  
 rubidium : rubid  
 ruhe : dusza, duch, umysł  
-ruk sak : plecak  
-ruk : placy  
+ruke sake : plecak  
+ruke : placy  
 rula : toczyć, turlać  
-rundi : Burundi  
+rundia : Burundi  
 rupe : wygląd  
 rusi : rosyjski  
 rusia : Rosja  
@@ -1681,7 +1689,6 @@ rwanda : Rwanda
 ##s  
 sabate : szabat, szabas  
 sabun : mydło  
-sabze : warzywo  
 sadi : zwykły, zwyczajny, prosty  
 safa : wyczyścić, czyścić  
 safar : podróż  
@@ -1691,9 +1698,9 @@ safer : sprzątacz, sprzątacz
 safi : czysty  
 saga : opowiedzieć, opowiadać  
 sage : opowiadanie, opowieść, legenda, saga  
-saha : poprawić, poprawiać  
+saha : poprawić, poprawiać, prostować, korygować  
 sahi : właściwy, poprawny  
-sak : torba, wór, worek, torba, sakwa  
+sake : torba, wór, worek, torba, sakwa  
 sal : sól  
 salade : sałatka  
 salam cute : żegnaj, dobre odejście  
@@ -1801,6 +1808,7 @@ sofia : mądrość
 sofá : sofa, kanapa  
 soke : skarpeta, skarpetka, pończocha  
 sol sistem : układ słoneczny  
+sol stas : przesilenie  
 sol : słońce  
 solomon nesia : Wyspy Salomona  
 somalia : Somalia  
@@ -1815,6 +1823,7 @@ sosis : kiełbasa
 soto : Lesotho  
 stadia : stadion, arena  
 stan : państwo; stan  
+stasa : nie ruszać się  
 stasi : statyczny, stacjonarny, nieruchomy  
 stasia : stacja  
 state : status, kondycja, stan  
@@ -1867,6 +1876,7 @@ swisia : Szwajcaria
 tabake : tytoń  
 tabar : siekera, topór  
 tabel : tablioca, macierz  
+tabia lojia : ekologia (nauka o środowisku)  
 tabia : natura, środowisko  
 tabial : środowiskowy, naturalny  
 tafun : burza, sztorm, tajfun  
@@ -1926,7 +1936,6 @@ teyana : sugerować, proponować
 teza : dyskutoać, twierdzić  
 teze : argument, teza  
 ticin : chordofon, instrument strunowy  
-tika : prostować, korygować  
 tike masal : tikka masala  
 tike : tikka  
 tikete : bilet  
@@ -2034,6 +2043,7 @@ war 6 (war sis) : sobota
 war 7 (war set) : niedziela  
 war : dzień tygodnia  
 waris : spadek, dziedzictwo, spuścizna, zapis  
+warke : kartka (dokument)  
 wase : oaza  
 wate : wat  
 waw : wow!, łoł!, jej!  
@@ -2180,5 +2190,5 @@ ziza : skwierczeć
 zombe : zombie, zombi  
 zon : pas, strefa  
 zukam : przeziębienie, katar  
-zulu : zulu  
+zulú : zulu  
 zumrude : szmaragd  

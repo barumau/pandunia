@@ -52,6 +52,7 @@ analizi : analisa
 analizo : analis  
 ananaso : nanas  
 anaso : batá  
+Andoj : andes  
 angla : engli  
 angulo : kon  
 animo : ruhe  
@@ -276,6 +277,7 @@ entuziasmulo : nik
 erbio : erbium  
 Eris (planedeto) : eris  
 Eritreo : eritria  
+ero : parce  
 escepte : minus  
 Esperanto : esperanti  
 esperi : inxala  
@@ -466,6 +468,7 @@ ili : yemen
 ilo : tul  
 indio : indium  
 Indonezio : indonesia  
+infekto : infece  
 informacio : informe  
 inko : moge  
 ino : fem  
@@ -491,7 +494,7 @@ iu : koy
 iu ajn : eni  
 iu persono : koy ren  
 ##j  
-jako : jaket  
+jako : jake  
 jam (-is) : ja  
 jam (esti farita) : lew  
 Jamajko : jamaike  
@@ -539,6 +542,7 @@ kaoso (malordo) : haos
 kapti : kaca  
 karateo : karate  
 karbono : karbon  
+Karibio : karibia  
 karoto : karot  
 karto : karte  
 kartuno : anime  
@@ -636,6 +640,8 @@ kurteno : parde
 kuŝi : lala  
 kvar (4) : car  
 kvin (5) : lim  
+kääriä : rula  
+käärö : rul  
 ##l  
 laboro : werke  
 lakto : milke  
@@ -651,7 +657,7 @@ laŭrencio : laurensium
 leciono : darse  
 legi : duga  
 lego : kanun  
-legomo : sabze  
+legomo : cay  
 leono : sing  
 lernejo : darse kan  
 lerni (studi) : darsa  
@@ -738,6 +744,7 @@ Meksikio : mexiko
 melki : tira milke  
 melodio : melodia  
 melongeno : bedinjan  
+membro : member  
 merkato (bazaro) : bazar  
 Merkuro : budan  
 metalo : metal  
@@ -852,6 +859,7 @@ origino : asle
 oro : gim  
 osmio : osmium  
 osto : oste  
+ovo : ande  
 ##p  
 pajaco : bufon  
 pakaĵo : bagaje  
@@ -872,7 +880,7 @@ paroli (komuniki) : baxa
 paroli : loga  
 parolo (vortoj) : loge  
 parto (frakcio) : fen  
-partopreni : memba  
+partopreni : parta  
 pastro : din gurú  
 pato : tawa  
 patrino : mamá  
@@ -943,7 +951,7 @@ produkti (fabriki) : sana
 profesoro : profesor  
 profetaĵo : nabe  
 programo : program  
-proksime : jin  
+proksima : karbi  
 promeni (marŝi) : marca  
 promesi : wada  
 prometio : prometium  
@@ -1026,7 +1034,8 @@ savi : banka
 saŭco : sos  
 saŭno : sauna  
 scienco : lojia  
-scii (koni) : jan  
+scii (koni) : jana  
+scio : jan  
 se : gar  
 seborgio : seaborgium  
 sed : a  
@@ -1195,6 +1204,7 @@ venti : fonga
 vento : fong  
 ventro : fubú  
 verando : berande  
+verda : berdi  
 vespermanĝo : xam nyam  
 vespero : xam  
 vesti : fuka  
@@ -1241,7 +1251,7 @@ zono : zon
 zoroastrismo : zarduxistia  
 zoroastristo : zarduxiste  
 Zoroastro : zardux  
-zuluo : zulu  
+zuluo : zulú  
 Ĉilio : cile  
 Ĉinio : jungogia  
 ĉambro : kamar  
@@ -1268,7 +1278,7 @@ zuluo : zulu
 ĉokolado : cokolate baton  
 ĉu? : he  
 ĝardeno : gardin  
-ĝelo : jele  
+ĝelo : jel  
 ĝirafo : jiraf  
 ĝusta (prava) : sahi  
 ĵetkubo : dadó  

@@ -52,6 +52,7 @@ analyse : analisa
 analysis : analis  
 Ancient Egypt (Kemet) : kemia  
 and : i  
+Andes : andes  
 Angola : angolia  
 animal : hewan  
 animate : anima  
@@ -109,11 +110,11 @@ axis (axle) : akse
 Azerbaijan : azeria  
 ##b  
 baby (infant) : bebe  
-back : ruk  
-backpack (rucksack) : ruk sak  
+back : ruke  
+backpack (rucksack) : ruke sake  
 bad (ruined, destroyed) : harabi  
 bad : mal  
-bag (sack) : sak  
+bag (sack) : sake  
 bah! (yuck!) : fuy  
 Baha'ism : bahaistia  
 Baha'ist : bahaiste  
@@ -173,6 +174,7 @@ belief (faith, creed) : xin
 believe : xina  
 Belize : belizia  
 belly (abdomen) : fubú  
+belong (be a member) : memba  
 belong : adu  
 belt (zone) : zon  
 bench : bence  
@@ -234,6 +236,7 @@ breast (boob, tits) : mam
 breath : nafas  
 bright (clear) : ming  
 broken (out of order) : kaputi  
+broken (shattered) : parci  
 bromine : brom  
 brown (coffee-colored) : kafi  
 Brunei Darussalam : bruney  
@@ -250,7 +253,7 @@ Bulgaria : bolgaria
 Burkina Faso : burkiná  
 burn (be burned) : jalu  
 burn (cause to burn) : jala  
-Burundi : rundi  
+Burundi : rundia  
 bus : bus  
 business (commercial activity) : biznes  
 businessperson (businessman) : biznes ren  
@@ -293,6 +296,7 @@ carat : kirate
 carbon : karbon  
 card : karte  
 care (cure) : kura  
+Caribbean : karibia  
 carrot : karot  
 carry (bear) : porta  
 cash box : kax  
@@ -386,7 +390,7 @@ cola : kola
 cold (illness) : zukam  
 cold : leng  
 collect (gather, bring together) : jama  
-collection (congregation) : jamia  
+collection (congregation, assembly, association) : jamia  
 collective : jami  
 Colombia : kolombia  
 colonialism : kolonistia  
@@ -486,6 +490,7 @@ dangerous : hatari
 dark (dim) : oskur  
 Darwinism : darwinistia  
 Darwinist : darwiniste  
+date : nen mes den  
 date fruit : tamar  
 daughter : fem bace  
 day (daytime) : den  
@@ -564,6 +569,7 @@ easy : izi
 echo : eho  
 ecology (study of environment) : tabia lojia  
 Ecuador : ekuador  
+egg : ande  
 eggplant (aubergine, brinjal) : bedinjan  
 Egypt : misria  
 Egyptian : misri  
@@ -706,6 +712,7 @@ fork : forke
 form (shape) : forme  
 fortress (stronghold) : yosay  
 forum : forum  
+fountain (spring, well) : fonte  
 four (4) : car  
 fox : hule  
 France : fransia  
@@ -747,7 +754,7 @@ gasoline (petrol) : benzin
 gauze : gaze  
 gay (homosexual) : gey  
 gazelle : gazel  
-gel (jelly) : jele  
+gel (jelly) : jel  
 gender (biological sex) : jinse  
 genderqueer (non-binary) : bis  
 germanium : germanium  
@@ -794,6 +801,7 @@ grave (tomb) : gabre
 graveyard : gabre stan  
 Greece : helenia  
 Greek (Hellenic) : helen  
+green : berdi  
 greet : salama  
 greeting (hello) : salame  
 Grenada : grenada  
@@ -926,6 +934,7 @@ India : bartia
 Indian : barti  
 indium : indium  
 Indonesia : indonesia  
+infection : infece  
 inform (communicate) : informa  
 information : informe  
 inject : juxa  
@@ -954,7 +963,7 @@ issue (affair, concern) : masle
 Italy : italia  
 ##j  
 jackal : xakal  
-jacket : jaket  
+jacket : jake  
 jailer (imprisoner) : prizoner  
 Jainism : jayistia  
 Jamaica : jamaike  
@@ -1003,7 +1012,6 @@ kind (nice, gentle) : jentil
 kind (type, style) : yang  
 kinetic : kini  
 king : man rajer  
-king or queen : koron xefe  
 king or queen : rajer  
 kingdom : rajia  
 kiosk : kioske  
@@ -1014,8 +1022,8 @@ kiwi fruit : kiwi
 knead (massage) : masaja  
 knife : cakú  
 knot (node; tie) : node  
-know : jan  
-knowledge : jane  
+know : jana  
+knowledge : jan  
 known : jani  
 Konkani : konkani  
 Korea (South) : hangogia  
@@ -1181,7 +1189,7 @@ melodious (melodic) : melodi
 melody : melodia  
 melt (get molten) : mayu  
 melt (liquidize) : maya  
-member (participant) : member  
+member (component) : member  
 memory (recollection) : yade  
 Mercury : budan  
 messianic : kristi  
@@ -1274,7 +1282,7 @@ nature (environment) : tabia
 Nauru : nauru  
 Nazi : naciste  
 Nazism : nacistia  
-near (close) : jin  
+near (close) : karbi  
 necessary (needed) : nidi  
 need : nida  
 needle (pin) : pin  
@@ -1291,6 +1299,7 @@ New Zealand : nowi zilandia
 news : habar  
 newspaper (gazette) : habar gazete  
 newton (N) : nuton  
+next (following) : badi  
 Nicaragua : nikaragua  
 nice (pleasant, lovely) : latif  
 niche (alcove) : nixe  
@@ -1361,8 +1370,8 @@ order (command) : orde
 order (issue a command) : orda  
 orgasm : orgazme  
 oriental dragon : rong  
-origin : asle  
-original : asli  
+origin (source) : asle  
+original (authentic) : asli  
 Oromia : oromia  
 Oromo (an Ethiopian ethnic group and language) : oromi  
 orphan : yatim  
@@ -1401,8 +1410,10 @@ Paraguay : paraguay
 parent : pamá  
 parrot (parakeet) : akú  
 part (fraction) : fen  
-participate (attend, take part) : memba  
+participant : parter  
+participate (attend, partake, take part) : parta  
 party (celebration, festival) : feste  
+party : partia  
 pascal (Pa) : paskal  
 pass (go by, go past) : pasa  
 pass (of time) : duru  
@@ -1446,6 +1457,7 @@ picture (graph, image) : graf
 picture book : graf buke  
 pidgin (contact language) : pijin  
 pie (pastry) : pay  
+piece (fragment, shred, morsel, crumb) : parce  
 pig : goró  
 pilaf (pulao) : polaw  
 pilot : piloter  
@@ -1530,6 +1542,7 @@ presence (existence) : zaye
 present (current, existing) : zay  
 preserve (conserve, retain) : hafiza  
 press (imprint) : capa  
+previous : predi  
 priest (cleric) : din gurú  
 prime minister : xefi minister  
 print (stamp) : cape  
@@ -1588,8 +1601,8 @@ reason (rational thinking) : razon
 rebellion : rebel  
 receit : resid  
 recipe : reset  
-rectify (make correct) : tika  
 reflect : mira  
+refuse (deny, decline) : nega  
 register : daftar  
 reign (rule as an emperor) : impera  
 reindeer (caribou) : karibú  
@@ -1638,7 +1651,8 @@ robot : robote
 rocket : rokete  
 roentgenium : rengenium  
 role : rol  
-roll : rula  
+roll (scroll, coil) : rul  
+roll (wrap in) : rula  
 Roman Empire : roma empiria  
 Romania : romania  
 romantic : romansi  
@@ -1730,8 +1744,10 @@ shaman : xaman
 shampoo : xampú  
 shape (sculpt) : forma  
 shari'a : islamisti xaria  
+shatter (break into pieces) : parca  
 shea : karite  
 sheep : meme  
+sheet (leaf) : warke  
 Shintoism : xindawistia  
 shirt : kamis  
 shock (collision) : xoke  
@@ -1782,6 +1798,7 @@ sofa (couch) : sofá
 soft : komal  
 solar system : sol sistem  
 Solomon Islands : solomon nesia  
+solstice : sol stas  
 Somalia : somalia  
 some (indefinite, indeterminate) : fulan  
 some : koy  
@@ -1810,6 +1827,7 @@ spice (seasoning) : masal
 spider : jijú  
 spirit (soul, mind) : ruhe  
 spit : tuka  
+split (fall apart) : fenu  
 spoon : camce  
 sport (athletics) : kel  
 spring (springtime) : cune  
@@ -1821,6 +1839,7 @@ stadium (arena) : stadia
 stage (phase) : faze  
 stage (scene) : sen  
 stand : libu  
+stand still : stasa  
 star : xing  
 state (polity) : stan  
 static (stationary) : stasi  
@@ -2014,6 +2033,7 @@ tree : xu
 tribe : tribe  
 Trinidad and Tobago : trinida i tobago  
 trouble (disturbance, bother) : mafan  
+true (real, genuine) : jin  
 trunk (torso) : torse  
 try (attempt) : proba  
 tube (pipe) : tube  
@@ -2068,7 +2088,7 @@ Vanuatu : vanuatu
 vase (flower pot) : pul waze  
 vase (pot, bin, jar, jug) : pote  
 vase (pot, bin, jar, jug) : waze  
-vegetable : sabze  
+vegetable : cay  
 Venezuela : venesuela  
 veranda (balcony, terrace, porch) : berande  
 victory (win) : jay  
@@ -2161,6 +2181,7 @@ yeast : hamir
 yellow : wang  
 Yemen : yaman  
 yes (is) : si  
+yesterday : predi den  
 yoga : yoge  
 you : tu  
 you all : tumen  
@@ -2183,4 +2204,4 @@ zombie : zombe
 Zoroaster : zardux  
 Zoroastrian : zarduxiste  
 Zoroastrianism : zarduxistia  
-Zulu : zulu  
+Zulu : zulú  

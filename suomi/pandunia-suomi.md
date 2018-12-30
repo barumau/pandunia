@@ -44,6 +44,8 @@ amper : ampeeri
 amuke : raivo  
 analis : analyysi  
 analisa : analysoida  
+ande : muna  
+andes : Andit  
 angolia : Angola  
 anima : animoida  
 anime : animaatio (piirretty)  
@@ -96,6 +98,7 @@ badan : keho (ruumis)
 badani : ruumiillinen  
 badawi : beduiini  
 bade : seuraus  
+badi : seuraava  
 bagaje : matkatavarat  
 bagre : tiikeri  
 bahaiste : bahailainen  
@@ -165,6 +168,7 @@ bence : penkki
 benin : Benin  
 benzin : bensiini (bensa)  
 berande : kuisti (terassi, veranta)  
+berdi : vihreä  
 beria : susi (hukka)  
 beril : berylli  
 berkelium : berkelium  
@@ -248,6 +252,7 @@ capa : painaa (leimata)
 cape : painos (leima)  
 car : neljä (4)  
 cate : katto (katos)  
+cay : kasvis  
 caye : varjo  
 ce : tämä  
 cehia : Tšekki  
@@ -445,6 +450,7 @@ fem rajer : kuningatar
 fem : naaras  
 fen : osa (pala)  
 fena : jakaa (paloitella)  
+fenu : jakautua (hajota)  
 fer : rauta  
 fera : lomailla  
 feria : loma  
@@ -485,6 +491,7 @@ fone : äänne (fooni)
 foneme : äänne (foneemi)  
 fong : tuuli (puhallus)  
 fonga : tuulla (puhaltaa)  
+fonte : lähde (kaivo)  
 forke : haarukka  
 forma : muotoilla (muovata)  
 forme : muoto  
@@ -690,6 +697,7 @@ imperiste : imperialisti
 imperistia : imperialismi  
 indium : indium  
 indonesia : Indonesia  
+infece : infektio (tartunta)  
 informa : tiedottaa (informoida)  
 informe : tieto (info)  
 inje : inkivääri  
@@ -721,16 +729,16 @@ italia : Italia
 izi : helppo  
 ##j  
 ja : jo (ennen)  
-jaket : pikkutakki (jakku)  
+jake : pikkutakki (jakku)  
 jala : polttaa  
 jalu : palaa  
 jama : koota (kerätä)  
 jamaike : Jamaika  
 jami : kollektiivinen  
-jamia : yhteisö (kollektiivi)  
+jamia : yhteisö (kokoontuminen, kollektiivi)  
 jamula : hajauttaa  
-jan : tietää  
-jane : tieto (tietämys)  
+jan : tieto (tietämys)  
+jana : tietää  
 janel : ikkuna  
 jang : taistelu (sota)  
 jangal : metsä (viidakko)  
@@ -744,7 +752,7 @@ jayer : Algeria
 jayistia : jainalaisuus  
 jaze : jazz (jatsi)  
 jebe : tasku  
-jele : hyytelö  
+jel : hyytelö  
 jelos : kade (kateellinen)  
 jen den : syntymäpäivä  
 jen : synty (syntymä)  
@@ -760,7 +768,7 @@ jibutia : Djiboutia
 jijú : hämähäkki  
 jika : suoristaa  
 jiki : suora  
-jin : lähellä  
+jin : tosi (aito)  
 jinse : sukupuoli  
 jinsi : sukupuoli-  
 jiraf : kirahvi  
@@ -835,11 +843,13 @@ kaputi : rikki
 kar : kärry (vaunu, auto, jne)  
 karaoke : karaoke  
 karate : karate  
+karbi : läheinen  
 karbon : hiili  
 karbon : hiili  
 karen : syy  
 karena : aiheutua (koska, syystä, takia)  
 karenu : aiheuttaa  
+karibia : Karibia  
 karibú : peura (poro, karibu)  
 karite : voipuu  
 karot : porkkana  
@@ -945,7 +955,6 @@ kope : kopio
 kopernikium : kopernikium  
 kor : kuoro  
 korne : sarvi  
-koron xefe : kuningas tai kuningatar  
 koron : kruunu  
 korta : lyhentää  
 korti : lyhyt  
@@ -1181,8 +1190,8 @@ mega : miljoona (mega-)
 megam : pilvi  
 melodi : melodinen (sointuisa)  
 melodia : melodia (sävelmä)  
-memba : osallistua (olla jäsen)  
-member : jäsen  
+memba : kuulua (olla jäsenenä)  
+member : jäsen (osatekijä, komponentti)  
 meme : lammas  
 mena : merkitä (tarkoittaa)  
 mene : merkitys  
@@ -1328,7 +1337,9 @@ nawatli : nahuatli
 nayjiria : Nigeria  
 nederlandi antilia : Alankomaiden Antillit  
 nederlandia : Alankomaat (Hollanti)  
+nega : kieltää  
 nen feste : vuosijuhla  
+nen mes den : päivämäärä  
 nen : vuosi  
 nenufar : lumme  
 neon : neon  
@@ -1454,8 +1465,14 @@ papua nowi ginia : Papua Uusi-Guinea
 papá : isä  
 par : vertainen  
 paraguay : Paraguai  
+parca : hajottaa (särkeä, repiä, sirpaloida)  
+parce : palanen (murunen, riekale, sirpale)  
+parci : hajonnut (sirpaleina)  
 parde : verhot  
 pardon : anteeksi  
+parta : osallistua  
+parter : osallistuja  
+partia : osapuoli  
 pas : mennyt  
 pasa : kuluttaa aikaa  
 pase : menneisyys  
@@ -1550,6 +1567,8 @@ pramana : todistaa
 prate : käytäntö (pragmatia)  
 prati : käytännöllinen (pragmaattinen)  
 preda : edeltää (tulla ennen)  
+predi den : eilinen  
+predi : edellinen  
 prizon : vankeus  
 prizona : vangita  
 prizoner : vanginvartija  
@@ -1609,6 +1628,7 @@ rite : riitti (rituaali, seremonia)
 ritme : rytmi  
 robote : robotti  
 rokete : raketti  
+rol : rooli (osa)  
 rola : näytellä  
 roler : näyttelijä  
 roma empiria : Rooman valtakunta  
@@ -1619,7 +1639,9 @@ rose : kaste
 roze : ruusu  
 rozi : vaaleanpunainen  
 ruhe : henki (sielu, mieli)  
-rundi : Burundi  
+ruke sake : reppu (rinkka)  
+ruke : selkä  
+rundia : Burundi  
 rupe : ilmiasu (ulkonäkö)  
 rusi : venäläinen  
 rusia : Venäjä  
@@ -1630,7 +1652,6 @@ rutin : tapa (rutiini)
 rwanda : Ruanda  
 ##s  
 sabun : saippua  
-sabze : kasvis  
 sadi : koruton (pelkkä)  
 safa : puhdistaa (siivota)  
 safar : matka (reissu)  
@@ -1642,6 +1663,7 @@ saga : kertoa
 sage : kertomus (tarina, saaga)  
 saha : korjata (tehdä oikeaksi)  
 sahi : oikea (paikkansapitävä)  
+sake : pussi (säkki, kassi, laukku)  
 sal : suola  
 salade : salaatti  
 salam cute : hyvää matkaa  
@@ -1730,6 +1752,7 @@ sofia : viisaus
 sofá : sohva  
 soke : sukka  
 sol sistem : aurinkokunta  
+sol stas : päivänseisaus  
 sol : aurinko  
 solomon nesia : Salomon-saaret  
 somalia : Somalia  
@@ -1744,6 +1767,7 @@ sosis : makkara
 soto : Lesoto  
 stadia : stadioni (areena)  
 stan : valtio (osavaltio)  
+stasa : seisahtaa  
 stasia : asema  
 state : tila  
 suan : hapan (kirpeä)  
@@ -1837,7 +1861,6 @@ teyana : ehdottaa
 teza : väittää  
 teze : väite (teesi)  
 ticin : jousisoitin  
-tika : korjata  
 tike masal : tikka masala  
 tike : pala  
 tikete : lippu (piletti)  
@@ -1938,6 +1961,7 @@ war 6 (war sis) : lauantai
 war 7 (war set) : sunnuntai  
 war : viikonpäivä  
 waris : perintö  
+warke : levy (arkki)  
 wase : keidas  
 wate : watti  
 waw : oho (vau)  
@@ -2083,5 +2107,5 @@ ziza : sihistä
 zombe : zombi  
 zon : vyö  
 zukam : vilustuminen  
-zulu : zulu  
+zulú : zulu  
 zumrude : smaragdi  

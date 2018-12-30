@@ -45,6 +45,8 @@ amper : ampere
 amuke : rage (fury)  
 analis : analysis  
 analisa : analyse  
+ande : egg  
+andes : Andes  
 angolia : Angola  
 anima : animate  
 anime : animation (cartoon)  
@@ -73,8 +75,8 @@ asan : posture (asana)
 asia : Asia  
 asian : Asian  
 askete : ascetic  
-asle : origin  
-asli : original  
+asle : origin (source)  
+asli : original (authentic)  
 asma : asthma  
 aspirin : aspirin  
 atake : attack  
@@ -98,6 +100,7 @@ badan : body
 badani : bodily (corporal)  
 badawi : bedouin (nomadic)  
 bade : consequence (follow-up)  
+badi : next (following)  
 bagaje : luggage (baggage)  
 bagre : tiger  
 bahaiste : Baha'ist  
@@ -167,6 +170,7 @@ bence : bench
 benin : Benin  
 benzin : gasoline (petrol)  
 berande : veranda (balcony, terrace, porch)  
+berdi : green  
 beria : wolf  
 beril : beryllium  
 berkelium : berkelium  
@@ -251,6 +255,7 @@ capa : press (imprint)
 cape : print (stamp)  
 car : four (4)  
 cate : roof  
+cay : vegetable  
 caye : shadow  
 ce : this one  
 cehia : Czech Republic  
@@ -448,6 +453,7 @@ fem rajer : queen
 fem : female  
 fen : part (fraction)  
 fena : divide (to partition)  
+fenu : split (fall apart)  
 fer : iron  
 fera : go on vacation  
 feria : vacation (holiday)  
@@ -488,6 +494,7 @@ fone : phone (speech sound)
 foneme : phoneme  
 fong : wind  
 fonga : blow  
+fonte : fountain (spring, well)  
 forke : fork  
 forma : shape (sculpt)  
 forme : form (shape)  
@@ -693,6 +700,7 @@ imperiste : imperialist
 imperistia : imperialism  
 indium : indium  
 indonesia : Indonesia  
+infece : infection  
 informa : inform (communicate)  
 informe : information  
 inje : ginger  
@@ -724,16 +732,16 @@ italia : Italy
 izi : easy  
 ##j  
 ja : already (-ed)  
-jaket : jacket  
+jake : jacket  
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
 jama : collect (gather, bring together)  
 jamaike : Jamaica  
 jami : collective  
-jamia : collection (congregation)  
+jamia : collection (congregation, assembly, association)  
 jamula : disperse  
-jan : know  
-jane : knowledge  
+jan : knowledge  
+jana : know  
 janel : window  
 jang : fight (war)  
 jangal : forest (jungle, woods)  
@@ -747,7 +755,7 @@ jayer : Algeria
 jayistia : Jainism  
 jaze : jazz  
 jebe : pocket  
-jele : gel (jelly)  
+jel : gel (jelly)  
 jelos : jealous  
 jen den : birthday  
 jen : birth  
@@ -763,7 +771,7 @@ jibutia : Djibouti
 jijú : spider  
 jika : straighten  
 jiki : straight  
-jin : near (close)  
+jin : true (real, genuine)  
 jinse : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
@@ -838,11 +846,13 @@ kaputi : broken (out of order)
 kar : car (cart, carriage, wagon, automobile)  
 karaoke : karaoke  
 karate : karate  
+karbi : near (close)  
 karbon : carbon  
 karbon : coal (carbon)  
 karen : reason (cause)  
 karena : because  
 karenu : cause  
+karibia : Caribbean  
 karibú : reindeer (caribou)  
 karite : shea  
 karot : carrot  
@@ -949,7 +959,6 @@ kope : copy (replica)
 kopernikium : copernicium  
 kor : choir (chorus)  
 korne : horn  
-koron xefe : king or queen  
 koron : crown  
 korta : shorten  
 korti : short (brief)  
@@ -1188,8 +1197,8 @@ mega : million (mega-)
 megam : cloud  
 melodi : melodious (melodic)  
 melodia : melody  
-memba : participate (attend, take part)  
-member : member (participant)  
+memba : belong (be a member)  
+member : member (component)  
 meme : sheep  
 mena : mean (signify)  
 mene : meaning (signification)  
@@ -1335,7 +1344,9 @@ nawatli : Nahuatl
 nayjiria : Nigeria  
 nederlandi antilia : Netherlands Antilles  
 nederlandia : Netherlands  
+nega : refuse (deny, decline)  
 nen feste : anniversary  
+nen mes den : date  
 nen : year  
 nenufar : water lily (nenuphar)  
 neon : neon  
@@ -1461,8 +1472,14 @@ papua nowi ginia : Papua New Guinea
 papá : father  
 par : equal (peer)  
 paraguay : Paraguay  
+parca : shatter (break into pieces)  
+parce : piece (fragment, shred, morsel, crumb)  
+parci : broken (shattered)  
 parde : curtain  
 pardon : sorry (pardon)  
+parta : participate (attend, partake, take part)  
+parter : participant  
+partia : party  
 pas : past (bygone)  
 pasa : pass (go by, go past)  
 pase : past times  
@@ -1563,6 +1580,8 @@ pramana : prove (testify)
 prate : practice (actuality)  
 prati : practical (pragmatic)  
 preda : precede (come before)  
+predi den : yesterday  
+predi : previous  
 presis : precise (exact, accurate)  
 prizon : prison (imprisonment)  
 prizona : imprison (jail)  
@@ -1665,10 +1684,11 @@ roze : rose
 rozi : pink (rosy)  
 rubidium : rubidium  
 ruhe : spirit (soul, mind)  
-ruk sak : backpack (rucksack)  
-ruk : back  
-rula : roll  
-rundi : Burundi  
+ruke sake : backpack (rucksack)  
+ruke : back  
+rul : roll (scroll, coil)  
+rula : roll (wrap in)  
+rundia : Burundi  
 rupe : appearance (looks)  
 rusi : Russian  
 rusia : Russia  
@@ -1682,7 +1702,6 @@ rwanda : Rwanda
 ##s  
 sabate : Sabbath  
 sabun : soap  
-sabze : vegetable  
 sadi : plain (mere)  
 safa : clean (purify)  
 safar : travel (voyage)  
@@ -1694,7 +1713,7 @@ saga : tell (narrate)
 sage : tale (legend, saga)  
 saha : correct (make right)  
 sahi : right (correct, accurate)  
-sak : bag (sack)  
+sake : bag (sack)  
 sal : salt  
 salade : salad  
 salam cute : farewell  
@@ -1802,6 +1821,7 @@ sofia : wisdom
 sofá : sofa (couch)  
 soke : sock (stocking)  
 sol sistem : solar system  
+sol stas : solstice  
 sol : sun  
 solomon nesia : Solomon Islands  
 somalia : Somalia  
@@ -1816,6 +1836,7 @@ sosis : sausage
 soto : Lesotho  
 stadia : stadium (arena)  
 stan : state (polity)  
+stasa : stand still  
 stasi : static (stationary)  
 stasia : station  
 state : status (condition, state)  
@@ -1928,7 +1949,6 @@ teyana : suggest (propose)
 teza : argue (claim)  
 teze : argument (thesis)  
 ticin : bow instrument (violin, etc.)  
-tika : rectify (make correct)  
 tike masal : tikka masala  
 tike : tikka (piece)  
 tikete : ticket  
@@ -2036,6 +2056,7 @@ war 6 (war sis) : Saturday
 war 7 (war set) : Sunday  
 war : day of the week  
 waris : heritage (legacy, bequest)  
+warke : sheet (leaf)  
 wase : oasis  
 wate : watt  
 waw : wow! (gee!)  
@@ -2182,5 +2203,5 @@ ziza : sizzle
 zombe : zombie  
 zon : belt (zone)  
 zukam : cold (illness)  
-zulu : Zulu  
+zulú : Zulu  
 zumrude : emerald  

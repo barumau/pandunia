@@ -42,6 +42,8 @@ amper : ampero
 amuke : furiozo  
 analis : analizo  
 analisa : analizi  
+ande : ovo  
+andes : Andoj  
 anime : kartuno  
 anjil : evangelio  
 anten : anteno  
@@ -142,6 +144,7 @@ belizia : Beliceo
 bence : benko  
 benzin : benzino  
 berande : verando  
+berdi : verda  
 beria : lupo  
 beril : berilio  
 berkelium : berkelio  
@@ -211,6 +214,7 @@ capa : presi
 cape : presaĵo  
 car : kvar (4)  
 cate : tekto  
+cay : legomo  
 caye : ombro  
 ce : ĉi tio  
 ceka : kontroli  
@@ -583,6 +587,7 @@ ideyalistia : idealismo
 igen : opinio  
 indium : indio  
 indonesia : Indonezio  
+infece : infekto  
 informe : informacio  
 insan : homo  
 insania : homaro  
@@ -603,12 +608,13 @@ italia : Italio
 izi : facila  
 ##j  
 ja : jam (-is)  
-jaket : jako  
+jake : jako  
 jama : kolekti (kunigi)  
 jamaike : Jamajko  
 jami : kolekta  
 jamula : disigi  
-jan : scii (koni)  
+jan : scio  
+jana : scii (koni)  
 janel : fenestro  
 jang : milito (batalo)  
 jangal : arbaro  
@@ -616,7 +622,7 @@ jangi : milita
 jay : venko  
 jaya : venki  
 jebe : poŝo  
-jele : ĝelo  
+jel : ĝelo  
 jen den : naskiĝtago  
 jen : nasko  
 jena : naskigi  
@@ -624,7 +630,6 @@ jenjú : perlo
 jentil : bonkora  
 jenu : naski  
 jijú : araneo  
-jin : proksime  
 jinse : genro  
 jiraf : ĝirafo  
 jiwa : vivi  
@@ -673,9 +678,11 @@ kanú : kanuo (kanoto)
 kaputi : nefunkcia  
 kar : aŭto (ĉaro)  
 karate : karateo  
+karbi : proksima  
 karbon : karbono  
 karen : kialo  
 karena : ĉar (pro ke)  
+karibia : Karibio  
 karibú : boaco  
 karot : karoto  
 karte : karto  
@@ -824,7 +831,7 @@ mediker : kuracisto
 medu : mielo  
 mega : miliono  
 melodia : melodio  
-memba : partopreni  
+member : membro  
 meme : ŝafo  
 mene : signifo  
 mes : monato  
@@ -963,7 +970,9 @@ pantalon : pantalonoj
 papay : papajo  
 papir : papero  
 papá : patro  
+parce : ero  
 parde : kurteno  
+parta : partopreni  
 patate : terpomo  
 pay : kukaĵo  
 pede : piedo  
@@ -1038,6 +1047,8 @@ rose : roso
 roze : rozo  
 rubidium : rubidio  
 ruhe : animo  
+rul : käärö  
+rula : kääriä  
 rupe : aspekto  
 ruste : vilaĝo  
 rutenium : rutenio  
@@ -1045,7 +1056,6 @@ ruterfordium : ruterfordio
 rutin : rutino (kutimo)  
 ##s  
 sabun : sapo  
-sabze : legomo  
 safa : purigi  
 safar : vojaĝo  
 safara : vojaĝi  
@@ -1293,4 +1303,4 @@ zinke : zinko
 zirkonium : zirkonio  
 zirá : kumino  
 zon : zono  
-zulu : zuluo  
+zulú : zuluo  
