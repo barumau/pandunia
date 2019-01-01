@@ -70,6 +70,7 @@ azot : nitre
 babka, babcia : omá  
 badać, studiować : loja  
 bagaż : bagaje  
+bagno : bloti stan  
 bahaista : bahaiste  
 bahaizm : bahaistia  
 Bahamy : bahama  
@@ -89,7 +90,7 @@ barbarzyńca : barbar
 bardziej : max  
 bariera : barer  
 basen : basen  
-bateria : bateria  
+bateria : batre  
 baton czekoladowy : cokolate baton  
 bawełna : goton  
 bawić, zabawiać : maza  
@@ -102,7 +103,7 @@ Belgia : belgia
 Belize : belizia  
 Benin : benin  
 benzyna : benzin  
-beret : beré  
+beret : berete  
 berkel : berkelium  
 Bermudy : bermudia  
 beryl : beril  
@@ -169,7 +170,8 @@ bóg, bóstwo : dew
 ból : tung  
 bąk, bączek : tolo  
 bęben : tambur  
-błoto; bagno : potó  
+błotnisty : bloti  
+błoto : blote  
 ##c  
 całus : cum  
 cały, kompletny, całkowity : toti  
@@ -251,6 +253,7 @@ czyn, uczynek : fe
 czysty : safi  
 czytać : duga  
 często : cang  
+część (fragment, strzęp, kawałek, okruch) : parce  
 część, ułamek : fen  
 członek : member  
 człowiek, istota ludzka : insan  
@@ -263,6 +266,7 @@ Dania : dania
 danie : tas  
 darwinista : darwiniste  
 darwinizm : darwinistia  
+data : nen mes den  
 dać, dawać : dona  
 debatować, prowadzić dyskurs : lona  
 decy-, dziesiąta część : deci  
@@ -295,11 +299,11 @@ dolar : dolar
 dom, mieszkanie : dom  
 domino : domin gem  
 dorosły, dojrzały : matur  
-dostarczyć, dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować, publikować : fada  
+dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) : fada  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać : geta  
 dotyczyć : toca  
-dowieść, dowodzić; zeznać, zeznawać : pramana  
-dowód; zeznanie : praman  
+dowieść, dowodzić; zeznać, zeznawać : dalila  
+dowód; zeznanie : dalil  
 dowódca, kierownik : lider  
 dramat : drame  
 droga, szosa, ulica : daw  
@@ -383,7 +387,7 @@ fabryka, manufaktura : fateria
 fajka : pipe  
 Falklandy, Malwiny : malvina nesia  
 fantastyczny, fantazyjny : fantazi  
-fantazja, wyobrażenie; fantasy; wyobraźnia : fantaze  
+fantazja (wyobrażenie, wyobraźnia) : fantaze  
 fascynacja : fasin  
 fasola lub groch, roślina strączkowa : dow  
 faszysta : faxiste  
@@ -405,7 +409,7 @@ fizyk : fizikia
 fizyka : fizike  
 fizyka : fiziker  
 fiński : suomi  
-flaga, sztandar : bander  
+flaga, sztandar : bandir  
 fluor : flur  
 fonem : foneme  
 fontanna (studnia, źródło) : fonte  
@@ -604,6 +608,7 @@ Jordan : urdun
 judaizm : yehudistia  
 judo : judo  
 Jupiter : muxing  
+jutro : badi den  
 już (gotowy) : lew  
 już : ja  
 język surinamski : surinam bax  
@@ -633,6 +638,7 @@ kanoe : kanú
 kanonier : kanoner  
 kapelusz, czapka : tope  
 kapitan : kapitan  
+Karaiby : karibia  
 karaoke : karaoke  
 karat : kirate  
 karate : karate  
@@ -699,7 +705,7 @@ kolor : rang
 Kolumbia : kolombia  
 kolumna, filar : kolum  
 komar, moskit : moskite  
-komiks; kreskówka : manga  
+komiks; kreskówka : kartun  
 Komory : komoro nesia  
 komputer : komputer  
 komunista : komuniste  
@@ -824,7 +830,6 @@ linia, pas, pręga, smuga : linye
 linia, rząd : rade  
 lipiec : mes 4 (mes car)  
 lis : hule  
-list, wiadomość : letre  
 lista słów : loge liste  
 lista, spis, wykaz : liste  
 listopad : mes 8 (mes bat)  
@@ -872,10 +877,10 @@ Malta : malte
 mandarynka : migan  
 mandaryński chiński, Putonghua : putong han  
 mangan : mangan  
-mango : mango  
+mango : mange  
 mangostan : mangus  
 mangusta : mungus  
-maniok : manioka  
+maniok : manioke  
 marathi : marati  
 maraton : maraton  
 marchew : karot  
@@ -1020,6 +1025,7 @@ nagi, goły, obnażony : nudi
 nahuatl : nawati  
 nahuatl : nawatli  
 najmniej, minimalnie : minim  
+należeć (być członkiem) : memba  
 należeć : adu  
 namalować, malować : penta  
 Namibia : namibia  
@@ -1034,6 +1040,7 @@ narodowy socjalizm : nasi socistia
 narodziny : jen  
 narzędzie : tul  
 naród, narodowość : nasia  
+następny (następujący) : badi  
 natura, środowisko : tabia  
 nauczyciel : darse gurú  
 nauczyć się, uczyć się, studiować : darsa  
@@ -1093,13 +1100,13 @@ nowy : nowi
 nożyce, nożyczki : makas  
 nudysta : nudiste  
 nudyzm : nudistia  
-numer : numer  
+numer : num  
 nylon : nilon  
 nóż : cakú  
 o! : o  
 ##o  
 oaza : wase  
-obcęgi, kleszcze, szczypce : pinse  
+obcęgi, kleszcze, szczypce : pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny : zay  
 obiad, lunch : den nyam  
 obiecać, angażować się : wada  
@@ -1120,6 +1127,7 @@ odbyt : anus
 odcisk, ślad; stempel, pieczęć : cape  
 oddech : nafas  
 odetkać, odtykać : zibula  
+odkurzacz : fun cuper  
 odmówić : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
 odpowiedzieć, odpowiadać : daba  
@@ -1199,12 +1207,13 @@ Pandunia : pandunia
 paneuropejski : paneuropi  
 panika : panike  
 papaja : papay  
-papier : papir  
+papier : pape  
 papieros (cygar) : sigar  
 Papua Nowa Gwinea : papua nowi ginia  
 papuga : akú  
 paragon, pokwitowanie : resid  
 Paragwaj : paraguay  
+partia : partia  
 pas, strefa : zon  
 paskal (Pa) : paskal  
 pasta : paste  
@@ -1212,7 +1221,6 @@ patelnia : tawa
 patrzeć, widzieć : wida  
 pauza, przerwa : paus  
 paznokieć : nahun  
-państwo; stan : stan  
 paść, padać, upaść, upadać : padu  
 październik : mes 7 (mes set)  
 pchnąć, pchać : puxa  
@@ -1225,7 +1233,7 @@ perła : jenjú
 pewny : yakin  
 pełny : ful  
 pianino : piano  
-piasek, piach : sande  
+piasek, piach : rege  
 pidżin, język pomocniczy : pijin  
 piec : beka  
 piekarnia : bekeria  
@@ -1236,7 +1244,7 @@ pieniądze : pese
 pieprz : pimente  
 pierdnięcie : perde  
 pierdzieć : perda  
-pierwszy, numer jeden : numer un  
+pierwszy, numer jeden : num un  
 pierwszy, początkowy : muli  
 pierś : sine  
 pierś, biust, cycek : mam  
@@ -1306,7 +1314,7 @@ pogoda : tenke
 poinformować, informować, zakomunikować, komunikować : informa  
 pokaz, ekspozycja, wystawa : xow  
 pokazać, pokazywać, wystawić, wystawiać : xowa  
-poker : poker  
+poker : poke  
 pokrycie; pokrywa, wieko, dekiel; pokład : deke  
 pokój rozmów, chat : blable kamar  
 pokój, sala : kamar  
@@ -1333,6 +1341,7 @@ ponieważ, bo : karena
 poniższy : nici  
 popołudnie : xam den  
 poprawić, poprawiać, prostować, korygować : saha  
+poprzedni : predi  
 poprzedzić, poprzedzać : preda  
 popularny, modny : faxoni  
 popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać : yala  
@@ -1382,6 +1391,7 @@ practyczny, pragmatyczny : prati
 praktyka, aktualność : prate  
 pralka : wax-maxin  
 prawdopodobnie, możliwie : munkin  
+prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
 prawo, przywilej : hake  
 prawy, sprawiedliwy, słuszny, uczciwy, fair : egal  
@@ -1455,21 +1465,23 @@ przystojny, atrakcyjny, ładny : bon rupi
 przyszłość : wile  
 pręt, kij : baton  
 ptak : pakse  
-puder : puder  
+puder : muke fun  
 pudełko, skrzynia : kax  
 puding : puding  
 pudło, skrzynia : sanduke  
 Puerto Rico : puerto riko  
 punkt : binde  
 pusty : hali  
+pustynia : regi stan  
 puszka : tin  
 puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać : laxa  
 pyszny : nyami  
 pytajny, związany z pytaniem : eski  
 pytanie : eske  
-pył : dul  
+pył : fun  
 północ : norde  
 północny : nordi  
+pęknąć (rozpaść się) : fenu  
 płakać, łkać : rona  
 płaski : ping  
 płaski chleb, ćapati : rote  
@@ -1480,7 +1492,7 @@ płuco : pulmon
 ##r  
 racjonalny, rozsądny : razoni  
 rad : radium  
-rada, porada : konsel  
+rada, porada : menta  
 radio : radio  
 radon : radon  
 rakieta : rokete  
@@ -1493,7 +1505,8 @@ rasista : rasiste
 rasizm : rasistia  
 rebelia, powstanie : rebel  
 recepta, receptura, przepis : reset  
-rejestr : daftar  
+region : stan  
+rejestr : luge  
 religia, wyznanie : din  
 ren : renium  
 renifer, karibu : karibú  
@@ -1539,6 +1552,7 @@ rubid : rubidium
 ruch : kine  
 ruchowy, kinetyczny : kini  
 rujnować, dewastwować, burzyć : haraba  
+rulon (rolka, zwój) : rul  
 rum : rom  
 Rumunia : romania  
 ruszać, przenościć, zmieniać miejsce : kina  
@@ -1561,8 +1575,8 @@ rzucić, rzucać, miotać, cisnąć, ciskać : lanca
 Rzym : roma  
 rządzić, władać : kratia  
 rządzić, władać : sultana  
+róg : buge  
 róg : korne  
-róg : laba  
 równy : par  
 róża : roze  
 różowy, różany : rozi  
@@ -1695,6 +1709,8 @@ strażnik, ochroniarz : garder
 stront : strontium  
 styczeń : mes 1 (mes un)  
 stół : meze  
+stłuc się (rozpaść się na kawałki) : parca  
+stłuczony (pęknięty) : parci  
 suahili : swahili  
 Suazi : swazia  
 suchy : gan  
@@ -1776,7 +1792,7 @@ tantal : tantalum
 Tanzania : tanzania  
 taoista : dawiste  
 taoizm : dawistia  
-tapeta : mur papir  
+tapeta : mur pape  
 tatuaż : tatu  
 taxi, taksówka : taksi  
 taśma : tepe  
@@ -1913,8 +1929,8 @@ wakacje, ferie : feria
 walka, wojna : jang  
 wanilia : wanila  
 wapń : kalsium  
-warcaby : dama  
-warga : labia  
+warcaby : dam gem  
+warga : labe  
 warsztat szewski : sapateria  
 warsztat, pracownia; miejsce na ... : kan  
 warunek : xarte  
@@ -1931,6 +1947,7 @@ wczoraj : predi den
 Wenezuela : venesuela  
 weranda, balkon, taras, ganek : berande  
 wesoły, ucieszony : suki  
+wiadomość : mesaje  
 wiadomość, nius : habar  
 wiadomość, zawiadomienie, powiadomienie : notis  
 wiadomy, znany : jani  
@@ -1955,7 +1972,7 @@ wieś, tereny wiejskie : rustia
 wieś, wioska : ruste  
 wieża : minare  
 wiki : wiki  
-wilk : beria  
+wilk : wolfe  
 wina, grzech; defekt, wada : dox  
 winny : doxi  
 wino : win  
@@ -2035,7 +2052,6 @@ wóz, wózek : kar
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność : dute  
 wąż : serpe  
 węgiel : karbon  
-węgiel : karbon  
 Węgry : madyar  
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
@@ -2077,8 +2093,8 @@ zaratrustianin : zarduxiste
 Zaratusztra : zardux  
 zaratusztrianizm : zarduxistia  
 zaskoczenie : supris  
+zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) : faide  
 zastosowanie, aplikacja : aplike  
-zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta : faide  
 zastosować, stosować : aplika  
 zastrzyk : juxe  
 zasłona, kurtyna : parde  
@@ -2101,6 +2117,7 @@ zemleć, mleć, mielić : mola
 zepsuty : kaputi  
 zero, nic, żaden : nul  
 ziarno, nasienie : dan  
+zielony : berdi  
 Ziemia : zemia  
 ziemia, grunt, gleba : zem  
 ziemniak : patate  
@@ -2112,7 +2129,7 @@ zjednoczony : uni
 zmienić, zmieniać : muta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać : musa  
 zmysł : sense  
-znaczek pocztowy : poste cap  
+znaczek pocztowy : poste cape  
 znaczenie : mene  
 znaczyć : mena  
 znak, sygnał : sinye  
@@ -2121,7 +2138,7 @@ znaleźć, znajdywać, odkryć, odkrywać : eureka
 zombie, zombi : zombe  
 zostawić, zostawiać : resta  
 zostać, zostawać : restu  
-zrobić, robić, stworzyć, tworzyć, wykreować, kreować : fata  
+zrobić (stworzyć, wykreować) : fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać : sana  
 zsumować, sumować, dodać, dodawać : suma  
 zulu : zulú  

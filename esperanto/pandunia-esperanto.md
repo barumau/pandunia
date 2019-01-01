@@ -87,6 +87,8 @@ badan : korpo
 badani : korpa  
 badawi : beduino (nomado)  
 bade : sekvo  
+badi den : morgaŭ  
+badi : sekva  
 bagaje : pakaĵo  
 bagre : tigro  
 bal : forta  
@@ -99,7 +101,7 @@ bama : Birmo
 banan : banano  
 banda : ligi  
 bande : bandaĝo (vindo)  
-bander : flago  
+bandir : flago  
 banglia : Bangladeŝo  
 banka : savi  
 banye kamar : banĉambro  
@@ -120,8 +122,8 @@ bas : sufiĉa
 basen : baseno  
 basket : korbo  
 bat : ok (8)  
-bateria : baterio (pilo)  
 baton : stango  
+batre : baterio (pilo)  
 batá : anaso  
 batú : ŝtono  
 bax lojia : lingvistiko  
@@ -145,10 +147,9 @@ bence : benko
 benzin : benzino  
 berande : verando  
 berdi : verda  
-beria : lupo  
+berete : bereto  
 beril : berilio  
 berkelium : berkelio  
-beré : bereto  
 beton : betono  
 biblia : Biblio  
 bina : konstrui  
@@ -164,6 +165,7 @@ biznes ren : komercisto
 biznes : negoco  
 blabla : babili  
 blable kamar : babilejo  
+blote : koto  
 boikote : bojkoto  
 boke : buŝo  
 bol : pilko  
@@ -251,7 +253,6 @@ da : propra (partiklo de posedo)
 daba : respondi  
 dabe : respondo  
 dadó : ĵetkubo  
-daftar : registro  
 dan : semo  
 dania : Danio  
 danka : danki  
@@ -316,7 +317,6 @@ duga : legi
 duka : lamenti  
 duke : malĝojo  
 duki : malĝoja  
-dul : polvo  
 dum : vosto  
 duman : fumo  
 dunia bax : mondlingvo  
@@ -377,6 +377,7 @@ fata : fari (fabriki)
 fate : fabrikaĵo  
 fater : fabrikisto  
 fateria : fabriko  
+fati lekse : verbo  
 faxiste : faŝisto  
 faxistia : faŝismo  
 fay : fajro  
@@ -434,6 +435,7 @@ fuke : vesto
 ful : plena  
 fula : plenigi  
 fulan : iu  
+fun : polvo  
 funca : funkcii  
 furete : furo  
 fute bol : piedpilko  
@@ -630,6 +632,7 @@ jenjú : perlo
 jentil : bonkora  
 jenu : naski  
 jijú : araneo  
+jin : vera  
 jinse : genro  
 jiraf : ĝirafo  
 jiwa : vivi  
@@ -755,7 +758,7 @@ kurbe : kurbo
 kurium : kuriumo  
 kurse : seĝo  
 ##l  
-labia : lipo  
+labe : lipo  
 laje : rubo  
 lala : kuŝi  
 lampe : lampo  
@@ -767,7 +770,6 @@ le : tio
 lekse : vorto  
 leng : malvarma  
 lete : somero  
-letre : letero  
 lew : jam (esti farita)  
 li : tiu  
 liga : aligi  
@@ -787,6 +789,8 @@ loki : loka
 long : longa  
 lowa sang : sangi  
 lowa : liki  
+luga : registri  
+luge : registro  
 lun : luno  
 lutetium : lutecio  
 ##m  
@@ -835,6 +839,7 @@ member : membro
 meme : ŝafo  
 mene : signifo  
 mes : monato  
+mesaje : mesaĝo  
 metal : metalo  
 metode : metodo  
 metre : mezuro  
@@ -906,6 +911,7 @@ nanas : ananaso
 natre : natrio  
 nawati : naūatla  
 nayjiria : Niĝerio  
+nen mes den : dato  
 nen : jaro  
 neon : neono  
 nepal : Nepalo  
@@ -933,7 +939,7 @@ norgia : Norvegio
 nota : rimarki  
 note buke : kajero  
 nowi : nova  
-numer : nombro  
+num : nombro  
 nur : lumo  
 nuri : luma  
 nuton : newtono (N)  
@@ -968,11 +974,12 @@ pandunia : pandunia
 panike : paniko  
 pantalon : pantalonoj  
 papay : papajo  
-papir : papero  
+pape : papero  
 papá : patro  
 parce : ero  
 parde : kurteno  
 parta : partopreni  
+partia : partio  
 patate : terpomo  
 pay : kukaĵo  
 pede : piedo  
@@ -987,6 +994,7 @@ pijin : piĝino
 pimente : pipro  
 pin : nadlo (pinglo)  
 pinguin : pingveno  
+pinser : pinĉilo  
 piram : piramido  
 pixa : piso (urino)  
 pize : pico  
@@ -1003,7 +1011,6 @@ ponta : montri
 pospor : fosforo  
 poste kan : poŝtejo  
 pote : poto  
-potó : koto  
 preda : antaŭiri  
 prizona : malliberigi  
 prizonia : malliberejo  
@@ -1033,6 +1040,8 @@ rasiste : racisto
 rasistia : racismo  
 rastu : kreski  
 redi : preta  
+rege : sablo  
+regi stan : dezerto  
 ren : persono  
 rengenium : rentgenio  
 renium : renio  
@@ -1047,7 +1056,6 @@ rose : roso
 roze : rozo  
 rubidium : rubidio  
 ruhe : animo  
-rul : käärö  
 rula : kääriä  
 rupe : aspekto  
 ruste : vilaĝo  
@@ -1079,7 +1087,6 @@ sam : tri (3)
 saman : ĉielo  
 samarium : samario  
 sana : produkti (fabriki)  
-sande : sablo  
 sanduke : skatolo (kesto)  
 sang : sango  
 sani bax : artefarita lingvo  
@@ -1106,6 +1113,7 @@ set war : semajno
 set : sep (7)  
 si : jes (esti)  
 sida : sidi  
+sifi lekse : adjektivo  
 silike : silicio  
 simpli : simpla  
 sine kase : torako  
@@ -1130,7 +1138,7 @@ song : pino
 sos : saŭco  
 sosis : kolbaso  
 stadia : stadiono (areno)  
-stan : ŝtato  
+stan : regiono  
 stasia : stacio  
 state : stato  
 strontium : stroncio  
@@ -1239,6 +1247,7 @@ wida : vidi (rigardi)
 wil : estonte  
 wile : estonoteco  
 win : vino  
+wolfe : lupo  
 ##x  
 xake : branĉo  
 xal : koltuko  

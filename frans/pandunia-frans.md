@@ -27,7 +27,7 @@ asle : origine
 ##b  
 babe : chapitre  
 bagre : tigre  
-bander : drapeau  
+bandir : drapeau  
 banye kamar : salle de bains  
 banye : bain  
 banyu : se baigner  

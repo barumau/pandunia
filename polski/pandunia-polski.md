@@ -100,6 +100,8 @@ badan : ciało
 badani : cielesny  
 badawi : beduiński; nomadyczny  
 bade : konsekwencja, skutek  
+badi den : jutro  
+badi : następny (następujący)  
 bagaje : bagaż  
 bagre : tygrys  
 bahaiste : bahaista  
@@ -118,7 +120,7 @@ ban : deska
 banan : banan  
 banda : związać, wiązać; zapiąć, zapinać  
 bande : taśma; bandaż  
-bander : flaga, sztandar  
+bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
 banye kamar : łazienka  
@@ -140,8 +142,8 @@ bas : wystarczający
 basen : basen  
 basket : kosz  
 bat : osiem (8)  
-bateria : bateria  
 baton : pręt, kij  
+batre : bateria  
 batá : kaczka  
 batú : kamień  
 bax lojia : językoznastwo  
@@ -169,11 +171,11 @@ bence : ławka
 benin : Benin  
 benzin : benzyna  
 berande : weranda, balkon, taras, ganek  
-beria : wilk  
+berdi : zielony  
+berete : beret  
 beril : beryl  
 berkelium : berkel  
 bermudia : Bermudy  
-beré : beret  
 beton : beton  
 bey : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 biblia : Biblia  
@@ -191,6 +193,9 @@ biznes ren : osoba biznesu, biznesman
 biznes : biznes, interes (aktywność komercyjna)  
 blabla : luźna rozmowa, gadanina  
 blable kamar : pokój rozmów, chat  
+blote : błoto  
+bloti stan : bagno  
+bloti : błotnisty  
 boikote : bojkot  
 boke : usta  
 bol : piłka  
@@ -221,6 +226,7 @@ budi : świadomy; oświecony
 budiste : buddysta  
 budistia : Buddyzm  
 bufon : głupiec, bufon  
+buge : róg  
 bujete : budżet  
 buke : książka  
 buking : rezerwacja  
@@ -293,8 +299,9 @@ da : mieć (partykuła posiadania)
 daba : odpowiedzieć, odpowiadać  
 dabe : odpowiedź, odzew  
 dadó : kość do gry  
-daftar : rejestr  
-dama : warcaby  
+dalil : dowód; zeznanie  
+dalila : dowieść, dowodzić; zeznać, zeznawać  
+dam gem : warcaby  
 dan : ziarno, nasienie  
 dania : Dania  
 danka : dziękować  
@@ -371,7 +378,6 @@ duga : czytać
 duka : martwić  
 duke : żal, smutek  
 duki : smutny  
-dul : pył  
 dum : ogon  
 duman : dym  
 dunia bax : język świata, język ogólnoświatowy  
@@ -417,8 +423,8 @@ europi : europejski
 europium : europ  
 euró : euro (€)  
 ##f  
-fada : dostarczyć, dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować, publikować  
-faide : zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta  
+fada : dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
+faide : zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faidi : użyteczny, pomocny, przydatny, pożyteczny, korzystny  
 fain : delikatny, cienki, lekki  
 fajan : rozwój  
@@ -426,14 +432,14 @@ falsi : fałszywy, nieprawdziwy
 famil nam : nazwisko, imię rodziny  
 famil : rodzina  
 fantaza : wyobrazić, wyobrażać, fantazjować  
-fantaze : fantazja, wyobrażenie; fantasy; wyobraźnia  
+fantaze : fantazja (wyobrażenie, wyobraźnia)  
 fantazi : fantastyczny, fantazyjny  
 fantom : duch, fantom  
 farsi : Pers; perski, farsi  
 faru : nosorożec  
 fas : powierzchnia  
 fasin : fascynacja  
-fata : zrobić, robić, stworzyć, tworzyć, wykreować, kreować  
+fata : zrobić (stworzyć, wykreować)  
 fate : twór; fakt  
 fater : twórca, kreator, czynnik  
 fateria : fabryka, manufaktura  
@@ -451,6 +457,7 @@ fem rajer : królowa
 fem : kobieta; kobiecy  
 fen : część, ułamek  
 fena : dzielić  
+fenu : pęknąć (rozpaść się)  
 fer : żelazo  
 fera : jechać na wakacje  
 feria : wakacje, ferie  
@@ -510,6 +517,8 @@ fuke : ubranie, ubiór, strój
 ful : pełny  
 fula : wypełnić, wypełniać  
 fulan : trochę; nieokreślony, nieograniczony, nieokreślony  
+fun cuper : odkurzacz  
+fun : pył  
 funca : funkcja, stanowisko  
 furete : tchórz, fretka  
 fute bol : Pandunia  
@@ -768,6 +777,7 @@ jibutia : Dżibuti
 jijú : pająk  
 jika : prosty  
 jiki : wyprostować, prostować  
+jin : prawdziwy (rzeczywisty, szczery)  
 jinse : płeć  
 jinsi : płciowy  
 jiraf : żyrafa  
@@ -844,14 +854,15 @@ karaoke : karaoke
 karate : karate  
 karbi : bliski  
 karbon : węgiel  
-karbon : węgiel  
 karen : powód, przyczyna  
 karena : ponieważ, bo  
 karenu : spowodować, powodować  
+karibia : Karaiby  
 karibú : renifer, karibu  
 karite : masłosz Parka  
 karot : marchew  
 karte : karta  
+kartun : komiks; kreskówka  
 karí : curry  
 kastan : kasztan  
 kata : ciąć  
@@ -943,7 +954,6 @@ kon : kąt
 koncung : owad  
 kong : dziura  
 konkani : konkani  
-konsel : rada, porada  
 konsida : rozważać, brać pod uwagę  
 konson : spółgłoska  
 kontinu : kontynuować; wznawiać, ponawiać  
@@ -1007,8 +1017,7 @@ kurse : kszesło, fotel
 kusen : poduszka  
 kuwaitia : Kuwejt  
 ##l  
-laba : róg  
-labia : warga  
+labe : warga  
 lada : naładować, załadować, obładować, ładować  
 laje : śmieć, odpadek  
 lake : lakier  
@@ -1033,7 +1042,6 @@ leng : zimny, chłodny
 lenxa : ćwiczyć  
 lete : lato  
 letis : sałata  
-letre : list, wiadomość  
 lew : już (gotowy)  
 li : ten  
 liba : postawić, stawiać, ustawić pionowo, ustawiać pionowo  
@@ -1081,6 +1089,7 @@ lose : śruba, wkręt
 lote : wsad, partia, porcja, seria  
 lowa sang : krwawić  
 lowa : przeciekać, ciec  
+luge : rejestr  
 luksemburgia : Luksemburg  
 lun : księżyc  
 lusun : szparag; szparagia  
@@ -1131,12 +1140,11 @@ mamá : matka, mama
 man ban : syn  
 man rajer : król  
 man : męski  
-manga : komiks; kreskówka  
 mangan : mangan  
-mango : mango  
+mange : mango  
 mangus : mangostan  
 manin : Wyspa Man  
-manioka : maniok  
+manioke : maniok  
 manse : mięso  
 mante : bułka gotowana na parze  
 mar : czas; okazja  
@@ -1192,10 +1200,12 @@ mega : milion, mega-
 megam : chmura  
 melodi : melodyczny  
 melodia : melodia  
+memba : należeć (być członkiem)  
 member : członek  
 meme : owca  
 mena : znaczyć  
 mene : znaczenie  
+menta : rada, porada  
 mes 1 (mes un) : styczeń  
 mes 10 (mes des) : luty  
 mes 11 (mes des un) : marzec  
@@ -1209,6 +1219,7 @@ mes 7 (mes set) : październik
 mes 8 (mes bat) : listopad  
 mes 9 (mes noy) : grudzień  
 mes : miesiąc  
+mesaje : wiadomość  
 metal : metal  
 metode : metoda, sposób  
 metre : metr  
@@ -1283,6 +1294,7 @@ moter : silnik
 mozambike : Mozambik  
 mudan : piwonia  
 muhim : ważny  
+muke fun : puder  
 muke : twarz  
 mul : początek  
 mula : zacząć, zaczynać  
@@ -1294,7 +1306,7 @@ mumu : krowa
 mun : drzwi, brama, portal  
 mungus : mangusta  
 munkin : prawdopodobnie, możliwie  
-mur papir : tapeta  
+mur pape : tapeta  
 mur : mur, ściana  
 muritania : Mauretania  
 musa : zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
@@ -1340,6 +1352,7 @@ nederlandi antilia : Antyle Holenderskie
 nederlandia : Holandia, Królestwo Niderlandów  
 nega : odmówić  
 nen feste : rocznica  
+nen mes den : data  
 nen : rok  
 nenufar : lilia wodna, nenufar  
 neon : neon  
@@ -1398,8 +1411,8 @@ nudistia : nudyzm
 nul ren : nikt, żadna osoba  
 nul xey : nic, żadna rzecz  
 nul : zero, nic, żaden  
-numer un : pierwszy, numer jeden  
-numer : numer  
+num un : pierwszy, numer jeden  
+num : numer  
 nun : teraz  
 nur : światło, oświetlenie  
 nuri : jasny, świetlny  
@@ -1460,15 +1473,19 @@ panike : panika
 panjabi : pendżabski  
 pantalon : spodnie, pantalony, portki  
 papay : papaja  
-papir : papier  
+pape : papier  
 papua nowi ginia : Papua Nowa Gwinea  
 papá : ojciec  
 par : równy  
 paraguay : Paragwaj  
+parca : stłuc się (rozpaść się na kawałki)  
+parce : część (fragment, strzęp, kawałek, okruch)  
+parci : stłuczony (pęknięty)  
 parde : zasłona, kurtyna  
 pardon : przepraszam!  
 parta : uczestniczyć, wziąć udział, brać udział  
 parter : uczestnik  
+partia : partia  
 pas : przeszły, miniony  
 pasa : minąć, mijać, przeminąć, przemijać  
 pase : przeszłość  
@@ -1511,7 +1528,7 @@ pimente : pieprz
 pin : igła, szpilka  
 ping : płaski  
 pinguin : pingwin  
-pinse : obcęgi, kleszcze, szczypce  
+pinser : obcęgi, kleszcze, szczypce  
 pipe : fajka  
 piping : ocena, krytyka  
 pipinga : ocenić, oceniać, recenzować, komentować, krytykować  
@@ -1538,7 +1555,7 @@ plumbe : ołów
 plus : też, również  
 pluto : Pluton (planeta karłowata)  
 plutonium : pluton  
-poker : poker  
+poke : poker  
 polaw : pilaw  
 poli : kilka, kilku  
 polis : policja  
@@ -1557,19 +1574,17 @@ porta : nosić, nieść
 portugal : Portugalia  
 pospor : fosfor  
 posta : nadać, wysłać pocztą  
-poste cap : znaczek pocztowy  
+poste cape : znaczek pocztowy  
 poste kan : poczta, budynek poczty  
 poste : poczta  
 pote : waza, garnek, gar, doniczka, słoik, słój  
-potó : błoto; bagno  
 poza : pozować, ustawiać się  
 poze : poza, pozycja  
-praman : dowód; zeznanie  
-pramana : dowieść, dowodzić; zeznać, zeznawać  
 prate : praktyka, aktualność  
 prati : practyczny, pragmatyczny  
 preda : poprzedzić, poprzedzać  
 predi den : wczoraj  
+predi : poprzedni  
 presis : precyzyjny, dokładny  
 prizon : więzienie, kara więzienia, kara pozbawienia wolności  
 prizona : uwięzić, więzić, pozbawić wolności  
@@ -1584,7 +1599,6 @@ proje : projekt, planowane przedsięwzięcie
 prometium : promet  
 proses : proces, procedura  
 protacinium : protaktyn  
-puder : puder  
 puding : puding  
 puerto riko : Puerto Rico  
 puja : czcić, szanować  
@@ -1627,6 +1641,8 @@ razoni : racjonalny, rozsądny
 rebel : rebelia, powstanie  
 reda : przygotować, przygotowywać  
 redi : gotowy  
+rege : piasek, piach  
+regi stan : pustynia  
 ren : osoba; ludzie  
 rengenium : roentgen  
 renium : ren  
@@ -1674,6 +1690,7 @@ rubidium : rubid
 ruhe : dusza, duch, umysł  
 ruke sake : plecak  
 ruke : placy  
+rul : rulon (rolka, zwój)  
 rula : toczyć, turlać  
 rundia : Burundi  
 rupe : wygląd  
@@ -1722,7 +1739,6 @@ samani : niebieski, niebiański, podniebny
 samarium : samar  
 samoa : Samoa  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
-sande : piasek, piach  
 sanduke : pudło, skrzynia  
 sang : krew  
 sani bax : język sztuczny  
@@ -1822,7 +1838,7 @@ sos : sos
 sosis : kiełbasa  
 soto : Lesotho  
 stadia : stadion, arena  
-stan : państwo; stan  
+stan : region  
 stasa : nie ruszać się  
 stasi : statyczny, stacjonarny, nieruchomy  
 stasia : stacja  
@@ -2078,6 +2094,7 @@ wirus lojia : wirusologia
 wirus : wirus  
 wizit : odwiedzić, odwiedzać  
 wol : chcieć, pragnąć  
+wolfe : wilk  
 ##x  
 xakal : szakal  
 xake : gałąź, konar  

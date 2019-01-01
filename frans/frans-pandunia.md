@@ -26,7 +26,7 @@ billet : tikete
 chapitre : babe  
 ##d  
 diamant : almas  
-drapeau : bander  
+drapeau : bandir  
 ##e  
 ##f  
 frais : tazi  

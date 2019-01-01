@@ -9,6 +9,7 @@
 : : -a : -i : (-igi)  
 ##a  
 acida : suan  
+adjektivo : sifi lekse  
 adreso : adres  
 aero : hawe  
 afrika : afriki  
@@ -120,7 +121,7 @@ barilo : barer
 bario : barium  
 baseno : basen  
 batato : kamote  
-baterio (pilo) : bateria  
+baterio (pilo) : batre  
 bati : darba  
 baza : bazi  
 bazo : baze  
@@ -132,7 +133,7 @@ Beliceo : belizia
 bendo : tepe  
 benko : bence  
 benzino : benzin  
-bereto : beré  
+bereto : berete  
 berilio : beril  
 berkelio : berkelium  
 besto : hewan  
@@ -205,6 +206,7 @@ danki : danka
 danko : danke  
 danĝera : hatari  
 danĝero : hatar  
+dato : nen mes den  
 daŭri : dura  
 daŭro : dur  
 de (el, pro) : ze  
@@ -227,6 +229,7 @@ devi : bixu
 devigi : musa  
 devo : muse  
 devus : xudu  
+dezerto : regi stan  
 deziro : kam  
 dia : dewi  
 diablo (Satano) : xatan  
@@ -344,7 +347,7 @@ fizikisto : fiziker
 fiziko : fizike  
 fiziko : fizikia  
 fiŝo : fix  
-flago : bander  
+flago : bandir  
 floro : hua  
 floro : pul  
 flugi : feya  
@@ -605,7 +608,7 @@ korno : korne
 koro : xim  
 korpa : badani  
 korpo : badan  
-koto : potó  
+koto : blote  
 kotono : goton  
 kovrilo : deke  
 kreda : xina  
@@ -641,7 +644,6 @@ kuŝi : lala
 kvar (4) : car  
 kvin (5) : lim  
 kääriä : rula  
-käärö : rul  
 ##l  
 laboro : werke  
 lakto : milke  
@@ -662,7 +664,6 @@ leono : sing
 lernejo : darse kan  
 lerni (studi) : darsa  
 lerta : ajil  
-letero : letre  
 li aŭ ŝi aŭ ĝi : ye  
 libera : huri  
 libereco : huria  
@@ -674,7 +675,7 @@ liki : lowa
 lineo : linye  
 lingvistiko : bax lojia  
 lingvo : bax  
-lipo : labia  
+lipo : labe  
 listo : liste  
 litero : harfe  
 litio : litium  
@@ -691,7 +692,7 @@ ludo : gem
 luma : nuri  
 lumo : nur  
 luno : lun  
-lupo : beria  
+lupo : wolfe  
 lutecio : lutetium  
 ##m  
 magio : magia  
@@ -747,6 +748,7 @@ melongeno : bedinjan
 membro : member  
 merkato (bazaro) : bazar  
 Merkuro : budan  
+mesaĝo : mesaje  
 metalo : metal  
 metiero : pexe  
 metodo : metode  
@@ -784,6 +786,7 @@ monstro : monster
 monto : xan  
 montri (ekspozicii) : xow  
 montri : ponta  
+morgaŭ : badi den  
 morta : morti  
 mortigi : morta  
 mortigisto : morter  
@@ -829,7 +832,7 @@ Niĝero : nijer
 nobelio : nobelium  
 nodo : node  
 nokto : noce  
-nombro : numer  
+nombro : num  
 nomo : nam  
 norvega : norgi  
 Norvegio : norgia  
@@ -875,10 +878,11 @@ pano : nan
 pantalonoj : pantalon  
 papago : akú  
 papajo : papay  
-papero : papir  
+papero : pape  
 paroli (komuniki) : baxa  
 paroli : loga  
 parolo (vortoj) : loge  
+partio : partia  
 parto (frakcio) : fen  
 partopreni : parta  
 pastro : din gurú  
@@ -903,6 +907,7 @@ piedpilko : fute bol
 pilko : bol  
 pingveno : pinguin  
 pino : song  
+pinĉilo : pinser  
 pipro : pimente  
 piramido : piram  
 piso (urino) : pixa  
@@ -923,7 +928,7 @@ poemo : xir
 politikisto : politiker  
 politiko : politike  
 polonio : polon  
-polvo : dul  
+polvo : fun  
 pomo : aple  
 popolo : demó  
 porcio (dozo) : doze  
@@ -979,7 +984,9 @@ rakonto : sage
 rando (orlo) : kenar  
 rapidigi : yala  
 regi : kratia  
-registro : daftar  
+regiono : stan  
+registri : luga  
+registro : luge  
 religio : din  
 renio : renium  
 rentgenio : rengenium  
@@ -1013,7 +1020,7 @@ rutenio : rutenium
 ruterfordio : ruterfordium  
 rutino (kutimo) : rutin  
 ##s  
-sablo : sande  
+sablo : rege  
 safrano : zafran  
 saga : sofia  
 salo : sal  
@@ -1041,6 +1048,7 @@ seborgio : seaborgium
 sed : a  
 seka : gan  
 sekso : sekse  
+sekva : badi  
 sekvi : bada  
 sekvinbero : gan putaw  
 sekvo : bade  
@@ -1203,7 +1211,9 @@ venko : jay
 venti : fonga  
 vento : fong  
 ventro : fubú  
+vera : jin  
 verando : berande  
+verbo : fati lekse  
 verda : berdi  
 vespermanĝo : xam nyam  
 vespero : xam  
@@ -1293,7 +1303,6 @@ zuluo : zulú
 ŝipo : bote  
 ŝlosilo : cabe  
 ŝranko : almar  
-ŝtato : stan  
 ŝteli : cura  
 ŝtelisto : curer  
 ŝtelo : cur  
