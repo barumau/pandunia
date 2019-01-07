@@ -3,8 +3,9 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
-    AFI:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.

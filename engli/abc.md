@@ -3,8 +3,10 @@
 The Basic Latin alphabet is used for writing Pandunia.  Here is the alphabet of
 Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
-    Pandunia: a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
-    IPA:     [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is
 silent. Every letter has one sound, always the same.
@@ -34,8 +36,9 @@ d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
 The following consonants are pronounced differently in Pandunia than in English.
 
 - **g** is always hard like in _girl, get_.
-- **r** is preferably trilled like in Scottish English or Spanish _carro_. Also
-  other pronunciations are acceptable. Note that **r** is never silent!
+- **r** is preferably trilled like in Scottish English or the rr in Spanish
+  _carro_. Also other pronunciations are acceptable, including the standard
+  English /ɹ/. Note that **r** is never silent!
 - **s** is always voiceless like in _sissy_. **z** is voiced like in _zoo_.
 - **x** is always pronounced like SH in _ship_.
 - **c** is pronounced like CH in _chip_.

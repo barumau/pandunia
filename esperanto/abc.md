@@ -4,9 +4,10 @@ Pandunio uzas la bazan latinan alfabeton.  Jen la pandunia alfabeto, sekvata
 per la Esperanta prononco kaj la ekvivalenta simbolo de Internacia Fonetika
 Alfabeto (IFA):
 
-    Pandunio:   a b c  d e f g h i j  k  l m n o p  r s t  u w x y z
-    Esperanto:  a b ĉ  d e f g h i ĝ  k  l m n o p  r s t  u ŭ ŝ j z
-    IFA:       [a b tʃ d e f g h i dʒ kʰ l m n o pʰ r s tʰ u w ʃ j z]
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | ŭ | ŝ | j | z |
+| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
 literoj.
