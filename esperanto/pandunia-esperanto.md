@@ -904,6 +904,9 @@ muskul : muskolo
 muta : aliigi  
 mux : muso  
 ##n  
+na ce : ĉi tie  
+na de : tie  
+na ke : kie  
 nabe : profetaĵo  
 nade : rivero  
 nafas : spiro  

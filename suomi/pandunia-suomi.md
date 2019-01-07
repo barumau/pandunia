@@ -1334,6 +1334,9 @@ muta : muuttaa (muuntaa)
 mux : hiiri  
 muxing : Jupiter  
 ##n  
+na ce : täällä  
+na de : tuolla  
+na ke : missä?  
 na : kanssa (luona, -lla, -ssa)  
 nabe : profetia  
 naber : profeetta  

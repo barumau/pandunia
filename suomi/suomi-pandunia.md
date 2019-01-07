@@ -1098,6 +1098,7 @@ ministeriö : ministeria
 minun : mi da  
 minuutti : minut  
 minä : mi  
+missä? : na ke  
 mitali : medal  
 miten? : ki yang  
 mitta (koko, määrä) : metre  
@@ -1874,6 +1875,7 @@ tunti : hor
 tuo (nuo) : di  
 tuo : de  
 tuoli : kurse  
+tuolla : na de  
 tuomari : hakimer  
 tuomio : hakim  
 tuore (raikas) : tazi  
@@ -1913,6 +1915,7 @@ täysi : ful
 täytetty pulla : mante  
 täyttää : fula  
 täytyä (olla pakko) : bixu  
+täällä : na ce  
 tölkki (purkki) : tin  
 törkeä : nindi  
 Tšad : cadia  

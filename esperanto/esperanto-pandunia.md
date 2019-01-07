@@ -560,6 +560,7 @@ kaŭĉuko : gom
 keĉupo : kecape  
 kialo : karen  
 kiam? : ki zaman  
+kie : na ke  
 kiel (ol) : ka  
 kiel? : ki yang  
 kio? : ke  
@@ -1153,6 +1154,7 @@ teroro : teror
 terpomo : patate  
 tertremo : sisme  
 testo : teste  
+tie : na de  
 tigro : bagre  
 timo (fobio) : fobe  
 tio : de  
@@ -1279,6 +1281,7 @@ zuluo : zulú
 ĉefministro : xefi minister  
 ĉemizo : kamis  
 ĉevalo : uma  
+ĉi tie : na ce  
 ĉi tio : ce  
 ĉi tiu : ci  
 ĉiam : mey zaman  

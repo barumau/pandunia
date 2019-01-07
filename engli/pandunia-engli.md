@@ -1336,6 +1336,9 @@ muta : change (alter, convert)
 mux : mouse  
 muxing : Jupiter  
 ##n  
+na ce : here  
+na de : there  
+na ke : where  
 na : with (by, at, in, on)  
 nabe : prophecy  
 naber : prophet  

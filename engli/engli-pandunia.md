@@ -874,6 +874,7 @@ helmet : helme
 help (aid, assistance) : helpe  
 help (assist) : helpa  
 hemp (cannabis) : ganjá  
+here : na ce  
 heritage (legacy, bequest) : waris  
 hero : heró  
 heroic : herói  
@@ -1995,6 +1996,7 @@ theism : dewistia
 theist : dewiste  
 theology : dew lojia  
 theory : teoria  
+there : na de  
 they : yemen  
 thief : curer  
 thing : xey  
@@ -2163,6 +2165,7 @@ what thing? : ki xey
 what? : ke  
 wheel : cakre  
 when? : ki zaman  
+where : na ke  
 which? : ki  
 white : bay  
 who? : ki ren  
