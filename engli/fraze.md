@@ -168,7 +168,7 @@ And you?
 I'm not good.
 
 <small>Etymology. **eska**
-is from Hindi: क्या  "kyā", Urdu: كيا‏‎ "kyā".</small>
+is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small>
 
 ### si <small>yes</small>
 
