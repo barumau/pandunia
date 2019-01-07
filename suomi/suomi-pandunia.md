@@ -1005,6 +1005,7 @@ maissi : mais
 maistaa : gusta  
 maistua : gustu ka  
 maito : milke  
+majava : kastor  
 Makedonia : makedonia  
 makeinen (karkki) : kande  
 makkara : sosis  
@@ -1075,6 +1076,7 @@ meteli : kelele
 metri : metre  
 metrojuna (maanalainen) : tunel tren  
 metsä (viidakko) : jangal  
+miekka : katan  
 mielikuvituksekas (fantastinen) : fantazi  
 mielikuvitus (fantasia) : fantaze  
 mielipide (näkemys) : igen  
@@ -1785,7 +1787,8 @@ tasapuolinen (reilu) : egal
 tasku : jebe  
 tatuointi : tatu  
 tauko (paussi) : paus  
-taulukko : tabel  
+taulukko : table  
+taulukoida : tabla  
 tavanomainen (perinteinen) : rasmi  
 tavata : mita  
 te : tumen  
@@ -1824,6 +1827,7 @@ tietty (tunnettu) : jani
 tietää : jana  
 tiikeri : bagre  
 tiistai : war 2 (war du)  
+tikari : kanjar  
 tikka masala : tike masal  
 tila : state  
 timantti : almas  
@@ -1867,8 +1871,8 @@ tunneli : tunel
 tuntea (kokea tunteita) : gama  
 tuntea : senta  
 tunti : hor  
-tuo (nuo) : li  
-tuo : le  
+tuo (nuo) : di  
+tuo : de  
 tuoli : kurse  
 tuomari : hakimer  
 tuomio : hakim  

@@ -400,6 +400,7 @@ germaniumo : germanium
 gitaro : gitar  
 glacia : isi  
 glacio : is  
+glavo : katan  
 gluo : glute  
 gluteno : gluten  
 gluti : glota  
@@ -550,6 +551,7 @@ karoto : karot
 karto : karte  
 kartuno : anime  
 kasko : helme  
+kastoro : kastor  
 Katalunio : katalunya  
 kato : maw  
 kaverno : gua  
@@ -930,6 +932,7 @@ politiko : politike
 polonio : polon  
 polvo : fun  
 pomo : aple  
+ponardo : kanjar  
 popolo : demó  
 porcio (dozo) : doze  
 pordo : mun  
@@ -1115,6 +1118,7 @@ suŝio : suxí
 sŭahili : swahili  
 ##t  
 tabako : tabake  
+tabelo : table  
 tablo : meze  
 tagmanĝo : den nyam  
 tago : den  
@@ -1151,12 +1155,12 @@ tertremo : sisme
 testo : teste  
 tigro : bagre  
 timo (fobio) : fobe  
-tio : le  
+tio : de  
 tio estas (alivorte) : yani  
 tio kio : jo  
 tiri : tira  
 titanio : titan  
-tiu : li  
+tiu : di  
 Toglando : togó  
 tomato : tomate  
 tombejo : gabre stan  

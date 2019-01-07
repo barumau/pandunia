@@ -285,7 +285,7 @@ ourselves.
 The demonstrative pronouns are:
 
 **ce** - this one  
-**le** - that one  
+**de** - that one  
 
 > **mi wola ce.** - I want this one.
 
@@ -293,7 +293,7 @@ They end in **-i** when they function as adjectives i.e. when they
 come before a noun.
 
 > **ci maw** - This cat  
-> **li maw.** - That cat  
+> **di maw.** - That cat  
 
 ### 5.3. Interrogative pronouns
 

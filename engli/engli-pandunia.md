@@ -161,6 +161,7 @@ bear : barú
 bear : urse  
 beard : barde  
 beautiful (handsome, pretty) : sundar  
+beaver : kastor  
 because : karena  
 become open : kayu  
 bed : bede  
@@ -491,6 +492,7 @@ Cyprus : kipris
 Cyrillic alphabet : kirili abace  
 Czech Republic : cehia  
 ##d  
+dagger : kanjar  
 damage (wreck) : awar  
 danger (peril) : hatar  
 dangerous : hatari  
@@ -1094,7 +1096,7 @@ line (stripe) : linye
 linguistics : bax lojia  
 lion : sing  
 lip : labe  
-list (listing) : liste  
+list (listing, catalogue) : liste  
 liter (litre) : litre  
 lithium : litium  
 little (small; a little, somewhat) : lil  
@@ -1924,14 +1926,16 @@ sweaty : swedi
 Sweden : swenia  
 sweet potato : kamote  
 Switzerland : swisia  
+sword : katan  
 Syria : suria  
 syrup : xirope  
 system : sistem  
 systemic : sistemi  
 ##t  
-table (matrix) : tabel  
+table (matrix) : table  
 table : meze  
 table of contents : ten liste  
+tabulate : tabla  
 tactics (strategy) : tatike  
 taiga : taiga  
 tail : dum  
@@ -1982,9 +1986,9 @@ test (challenge, trial) : teste
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
-that (those) : li  
+that (those) : di  
 that is (in other words, i.e.) : yani  
-that one : le  
+that one : de  
 that which : jo  
 theft (steal) : cur  
 theism : dewistia  

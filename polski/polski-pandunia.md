@@ -166,6 +166,7 @@ być przeciw : kontra
 być wezwanym, być wzywanym, być nazwanym, być nazywanym : namu  
 być widzianym : widu  
 być wycentrowanym, być w środku : jungu  
+bóbr : kastor  
 bóg, bóstwo : dew  
 ból : tung  
 bąk, bączek : tolo  
@@ -238,6 +239,7 @@ Czarnogóra : cerni goria
 czarny : kal  
 czas, moment : zaman  
 czas; okazja : mar  
+czasownik : fati lekse  
 czaszka : sar oste  
 czcić, szanować : puja  
 czekać : denga  
@@ -295,9 +297,11 @@ dodatkowy : maxi
 doktor (uczony, który osiągnął doktorat) : dotor  
 doktor, lekarz, uzdrowiciel : mediker  
 doktorat : dotoria  
+dokument : dokum  
 dolar : dolar  
 dom, mieszkanie : dom  
 domino : domin gem  
+doradca (mentor) : menter  
 dorosły, dojrzały : matur  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) : fada  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać : geta  
@@ -329,6 +333,7 @@ dziadek : opá
 działo : kanon  
 dziecko, potomek : bace  
 dzielić : fena  
+dziennik pokładowy (notatnik) : luge buke  
 dziesięć (10) : des  
 dziewczyna : jowan fem  
 dziewięć (9) : noy  
@@ -577,6 +582,7 @@ ja, mnie : mi
 jabłko : aple  
 jabłko cukrowe : ate  
 jadalnia : nyam kamar  
+jagoda : bere  
 jajko (jajo) : ande  
 jak (zwierzę) : yake  
 jak, niż, od : ka  
@@ -929,6 +935,7 @@ metr : metre
 metro : tunel tren  
 miara : metre  
 miast, miasteczko : site  
+miecz : katan  
 miedź : kuper  
 miedź : kuper  
 miejsce, lokacja : loke  
@@ -1069,6 +1076,7 @@ niedziela : war 7 (war set)
 niedźwiedź : barú  
 niedźwiedź : urse  
 Niemcy : doicia  
+niemiecki : doici  
 niemowlę : bebe  
 nienawidzić : hen  
 Niger : nijer  
@@ -1153,6 +1161,8 @@ on, ona, ono : ye
 oni : yemen  
 opinia, pogląd : igen  
 opis, przedstawienie; wykres : graf  
+opisać (zakwalifikować) : sifa  
+opisowy : sifi  
 opisywać, ilustorawć; przedstawiać : grafa  
 opowiadanie, opowieść, legenda, saga : sage  
 opowiedzieć, opowiadać : saga  
@@ -1421,6 +1431,7 @@ przebudzony, przytomny : weki
 przechowawca, kustosz, opiekun : hafizer  
 przeciekać, ciec : lowa  
 przecinek : komá  
+przedmiot : moke  
 przedpołudnie : subá den  
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
@@ -1450,6 +1461,7 @@ przyjęcie, święto, festiwal : feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać : laya  
 przykryć, przykrywać, ukryć, ukrywać : kapa  
 przykład : misal  
+przymiotnik : sifi lekse  
 przymus : muse  
 przyprawa : masal  
 przyrostek dla (wyniku) działania : -e  
@@ -1664,6 +1676,7 @@ spadek, dziedzictwo, spuścizna, zapis : waris
 spalić, palić : jala  
 spać : sona  
 specjalny, wyraźny, wyrazisty : has  
+spis treści (tabela zawartości) : ten liste  
 spocony : swedi  
 spodnie, pantalony, portki : pantalon  
 spokojny : xanti  
@@ -1756,6 +1769,7 @@ szparag; szparagia : lusun
 szron : him rose  
 sztuczny : sani  
 sztuka  : arte  
+sztylet (puginał) : kanjar  
 szukać : serca  
 Szwajcaria : swisia  
 Szwecja : swenia  
@@ -1774,7 +1788,7 @@ słowo : lekse
 słoń : gajá  
 słońce : sol  
 ##t  
-tablioca, macierz : tabel  
+tablioca, macierz : table  
 Tadżykistan : tajikia  
 tajga : taiga  
 Tajpej : taibei  
@@ -1786,7 +1800,7 @@ tal : talium
 talerz : plate  
 taleta, WC : tuale  
 tamilski : tamili  
-tamten : le  
+tamten : de  
 Tanach, Biblia hebrajska : tanah  
 tantal : tantalum  
 Tanzania : tanzania  
@@ -1808,7 +1822,7 @@ telewizja : tele wide
 tellur : telurium  
 telugu : telugú  
 temat, motyw : tem  
-ten : li  
+ten : di  
 ten konkretny : ce  
 ten, te : ci  
 tenesyn, tennessine : tenesin  
@@ -1836,6 +1850,7 @@ tor : torium
 torba, wór, worek, torba, sakwa : sake  
 totalny, ogólny : total  
 trawa : gras  
+treść (zawartość) : ten  
 trochę; nieokreślony, nieograniczony, nieokreślony : fulan  
 trwanie : dur  
 trwać, zająć czas; przez : dura  
@@ -1878,6 +1893,7 @@ tłusty : feti
 tłuszcz : fete  
 ##u  
 ubranie, ubiór, strój : fuke  
+uchwyt (pojemnik) : tener  
 uciec, uciekać : bega  
 uczestniczyć, wziąć udział, brać udział : parta  
 uczestnik : parter  
@@ -1889,6 +1905,7 @@ ukraść, kraść : cura
 ukształtować, kształtować, urzeźbić, rzeźbić : forma  
 układ słoneczny : sol sistem  
 uleczyć, leczyć, uzdrowić, uzdrawiać : medika  
+umieścić (postawić) : loka  
 umrzeć, umierać : mortu  
 unia : unia  
 Unia Europejska (EU) : europi unia  
@@ -1914,6 +1931,7 @@ uwaga, obserwacja : note
 uwięzić, więzić, pozbawić wolności : prizona  
 uwolnić, uwalniać : hura  
 Uzbekistan : uzbekia  
+ułożyć w trabelę : tabla  
 uświadomienie, świadomość; oświecenie, bodhi : bude  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować : buda  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny : faidi  
@@ -2069,7 +2087,9 @@ zabawny : mazi
 zabić, zabijać : morta  
 zabójca : morter  
 zachodni : westi  
+zachowanie (maniery, kultura) : manir  
 zachować, zakonserwować, zachować, utrzymać : hafiza  
+zachowywać się (działać) : manira  
 zachód : weste  
 zacząć, zaczynać : mula  
 zagranica : way dexia  
@@ -2077,11 +2097,13 @@ zagraniczny : way dexi
 zagrożenie, niebezpieczeństwo : hatar  
 zainteresowanie, zaciekawienie; interesujący : interes  
 zajęty : bizi  
+zakomunikować (zanieść wieści, poinformować) : mesaja  
 zakrzywiony : kurbi  
 Zambia : zambia  
 zamek błyskawiczny : ziper  
 zamknąć zamkiem błyskawicznym : zipa  
 zapakować, pakować : paka  
+zapisać (zarejestrować) : luga  
 zapomnieć, zapominać : bula  
 zaprosić, zapraszać : cing laya  
 zaprzęc, zaprzęgać : majú  

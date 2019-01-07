@@ -328,6 +328,7 @@ day : iso (suuri; isosti, paljon)
 dayu : kasvaa (suurentua)  
 dayxi kan : lähetystö  
 dayxi : lähettiläs  
+de : tuo  
 deci : desi  
 deke : peite (kansi)  
 demon : demoni (piru)  
@@ -347,6 +348,7 @@ dewi : jumalallinen
 dewiste : teisti  
 dewistia : teismi (jumalusko)  
 dex : maa (valtio)  
+di : tuo (nuo)  
 din gurú : pappi  
 din : uskonto  
 ding : naula (piikki)  
@@ -843,6 +845,7 @@ kanadia : Kanada
 kanal : kanava (kanaali)  
 kande : makeinen (karkki)  
 kanguru : kenguru  
+kanjar : tikari  
 kannadi : kannada (eräs intialainen kieli)  
 kanon : tykki (pyssy)  
 kanoner : tykkimies  
@@ -868,8 +871,10 @@ karte : kortti
 kartun : sarjakuva  
 karí : karri (curry)  
 kastan : kastanja  
+kastor : majava  
 kata : katkaista (leikata)  
 katalunya : Katalonia  
+katan : miekka  
 kataria : Qatar  
 kaway : söpö (suloinen)  
 kax : kassa  
@@ -1038,7 +1043,6 @@ latvia : Latvia
 laurensium : lawrensium  
 laxa : päästää (sallia)  
 laya : tulla  
-le : tuo  
 lekse : sana  
 leksem : lekseemi  
 leng : kylmä  
@@ -1046,7 +1050,6 @@ lenxa : harjoitella (treenata)
 lete : kesä (suvi)  
 letis : lehtisalaatti  
 lew : jo (tehty teko)  
-li : tuo (nuo)  
 liba : nostaa pystyyn  
 libel : sudenkorento  
 liberia : Liberia  
@@ -1834,10 +1837,11 @@ swisia : Sveitsi
 ##t  
 tabake : tupakka  
 tabar : kirves  
-tabel : taulukko  
 tabia lojia : ekologia (ympäristötiede)  
 tabia : luonto  
 tabial : ympäristö- (luonto-)  
+tabla : taulukoida  
+table : taulukko  
 tafun : myrsky  
 taibei : Taipei  
 taiga : taiga  

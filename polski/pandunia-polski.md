@@ -172,6 +172,7 @@ benin : Benin
 benzin : benzyna  
 berande : weranda, balkon, taras, ganek  
 berdi : zielony  
+bere : jagoda  
 berete : beret  
 beril : beryl  
 berkelium : berkel  
@@ -328,6 +329,7 @@ day : duży; bardzo
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
 dayxi kan : ambasada  
 dayxi : ambasador  
+de : tamten  
 deci : decy-, dziesiąta część  
 deke : pokrycie; pokrywa, wieko, dekiel; pokład  
 demon : demon  
@@ -347,13 +349,16 @@ dewi : boski
 dewiste : teistyczny  
 dewistia : teizm  
 dex : kraj, ziemia  
+di : ten  
 din gurú : ksiądz, kleryk, kaznodzieja  
 din : religia, wyznanie  
 ding : kolec  
 diske : dysk  
 disprosium : dysproz  
 do : dwa (2)  
+doici : niemiecki  
 doicia : Niemcy  
+dokum : dokument  
 dolar : dolar  
 dom : dom, mieszkanie  
 doma : mieszkać  
@@ -443,6 +448,7 @@ fata : zrobić (stworzyć, wykreować)
 fate : twór; fakt  
 fater : twórca, kreator, czynnik  
 fateria : fabryka, manufaktura  
+fati lekse : czasownik  
 faxe : bandaż, taśma, wstążka  
 faxiste : faszysta  
 faxistia : faszyzm  
@@ -840,6 +846,7 @@ kanadia : Kanada
 kanal : kanał  
 kande : cukierek, słodycze  
 kanguru : kangur  
+kanjar : sztylet (puginał)  
 kannadi : kannada  
 kanon : działo  
 kanoner : kanonier  
@@ -865,8 +872,10 @@ karte : karta
 kartun : komiks; kreskówka  
 karí : curry  
 kastan : kasztan  
+kastor : bóbr  
 kata : ciąć  
 katalunya : Katalonia  
+katan : miecz  
 kataria : Katar  
 kaway : uroczy, słodki  
 kax : pudełko, skrzynia  
@@ -1035,7 +1044,6 @@ latvia : Łotwa
 laurensium : lorens  
 laxa : puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya : przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
-le : tamten  
 lekse : słowo  
 leksem : leksem  
 leng : zimny, chłodny  
@@ -1043,7 +1051,6 @@ lenxa : ćwiczyć
 lete : lato  
 letis : sałata  
 lew : już (gotowy)  
-li : ten  
 liba : postawić, stawiać, ustawić pionowo, ustawiać pionowo  
 libel : ważka  
 liberia : Liberia  
@@ -1078,6 +1085,7 @@ loge : mowa; słowo
 logike : logika, dedukcja  
 loja : badać, studiować  
 lojia : nauka, badanie, studiowanie  
+loka : umieścić (postawić)  
 loke : miejsce, lokacja  
 loki : miejscowy, lokalny  
 lon : dyskusja, debata, dyskurs  
@@ -1089,6 +1097,8 @@ lose : śruba, wkręt
 lote : wsad, partia, porcja, seria  
 lowa sang : krwawić  
 lowa : przeciekać, ciec  
+luga : zapisać (zarejestrować)  
+luge buke : dziennik pokładowy (notatnik)  
 luge : rejestr  
 luksemburgia : Luksemburg  
 lun : księżyc  
@@ -1145,6 +1155,8 @@ mange : mango
 mangus : mangostan  
 manin : Wyspa Man  
 manioke : maniok  
+manir : zachowanie (maniery, kultura)  
+manira : zachowywać się (działać)  
 manse : mięso  
 mante : bułka gotowana na parze  
 mar : czas; okazja  
@@ -1206,6 +1218,7 @@ meme : owca
 mena : znaczyć  
 mene : znaczenie  
 menta : rada, porada  
+menter : doradca (mentor)  
 mes 1 (mes un) : styczeń  
 mes 10 (mes des) : luty  
 mes 11 (mes des un) : marzec  
@@ -1219,6 +1232,7 @@ mes 7 (mes set) : październik
 mes 8 (mes bat) : listopad  
 mes 9 (mes noy) : grudzień  
 mes : miesiąc  
+mesaja : zakomunikować (zanieść wieści, poinformować)  
 mesaje : wiadomość  
 metal : metal  
 metode : metoda, sposób  
@@ -1267,6 +1281,7 @@ mixer : mikser, blender, robot kuchenny
 mode : moda, trend  
 model : model, wzór, wzorzec, projekt  
 moge : tusz  
+moke : przedmiot  
 mola : zemleć, mleć, mielić  
 moldovia : Mołdawia  
 moler : młynarz  
@@ -1790,7 +1805,10 @@ sexel nesia : Seszele
 si : tak; być  
 sibir : Syberia  
 sida : siedzieć  
+sifa : opisać (zakwalifikować)  
 sife : cecha, właściwość, parametr  
+sifi lekse : przymiotnik  
+sifi : opisowy  
 sigar : papieros (cygar)  
 sikiste : sikh  
 sikistia : sikhizm  
@@ -1891,10 +1909,11 @@ swisia : Szwajcaria
 ##t  
 tabake : tytoń  
 tabar : siekera, topór  
-tabel : tablioca, macierz  
 tabia lojia : ekologia (nauka o środowisku)  
 tabia : natura, środowisko  
 tabial : środowiskowy, naturalny  
+tabla : ułożyć w trabelę  
+table : tablioca, macierz  
 tafun : burza, sztorm, tajfun  
 taibei : Tajpej  
 taiga : tajga  
@@ -1934,8 +1953,11 @@ telugú : telugu
 telurium : tellur  
 tem : temat, motyw  
 tema : być o; dyskutować o  
+ten liste : spis treści (tabela zawartości)  
+ten : treść (zawartość)  
 tena : trzymać  
 tende : namiot  
+tener : uchwyt (pojemnik)  
 tenesin : tenesyn, tennessine  
 tenis : tenis  
 tenke : pogoda  

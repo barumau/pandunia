@@ -179,6 +179,7 @@ demó ← eng:spa:demo-. fra:démo-. rus:демо-.
 den ← hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).  
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
+di ← deu:der,die,das. end:the. dan:swe:nor:de.  
 din ← ara: /dīn/. tur: din. swa: dini. hau: addini.  
 dokum ← eng:fra:document. rus:документ (dokument).  
 dom ← zho:家 "jiă".  
@@ -342,6 +343,7 @@ kamar ← ind:kamer. por:câmara. hin:कमरा. "kamrā". deu:Kammer.
 kamis ← spa:por:camisa. ara:"qamīṣ". hin:क़मीज़ "kāmīz". ind:kemeja.  
 kamote ← spa:camote. tgl:kamote.  
 kan ← jpn:"kan". vie:quán. zho:馆 "guǎn". + hindi:ख़ाना "khānā". per:"xāne". tur:hane.  
+kanjar ← per:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).  
 kanon ← eng:cannon. spa:cañón. zho:加农 "jiānóng". jpn:"kyanon". kor:캐넌 "kaeneon".  
 kanun ← swa:kanuni.  
 kanú ← eng:canoe. deu:Kanu. tur:kano. spa:canoa. rus:каноэ (kanoe). jpn:カヌー (kanū).  
@@ -354,7 +356,9 @@ karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:
 karte ← deu:Karte. ind:kartu. eng: card. may: kad. zho: 卡 "kǎ". jpn: カード "kādo". swa: kadi.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 kastan ← spa:castaňa. ara:(kastanāʾ). tur:kestane. rus:каштан (kaštan).  
+kastor ← fra:por:spa:castor. tgl:tur:kastor.  
 kata ← eng: cut. hin: काटना /kāṭnā/. swa: -kata.  
+katan ← jpn:刀 (katana).  
 kaway ← jpn:可愛い (kawaii). kor:카와이 (kawai). eng:kawaii.  
 kax ← deu:Kasse. rus:(kassa). eng:case,cash. swa:kasha. por:caixa. spa:caja.  
 kay ← zho: 开 "kāi".  
@@ -613,6 +617,7 @@ supe ← spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup
 supris ← eng:surprise. tur:sürpriz. per:(surpris). rus::сюрприз (siurpriz). por:surpresa. spa:sorpresa.   
 suy ← zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.  
 ##t  
+table ← eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.  
 tafun ← zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). per:urd:(tufān). hin:तूफ़ान (tūfān). pan:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).  
 takse ← eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".  
 tamar ← por:tamara. ara:(tamar).  
@@ -720,3 +725,4 @@ zem ← hin:भूमि "bhūmi". ind:bumi. tel:"bhūmi". tha:ภูมิ "pū
 ziba ← swa:-ziba.  
 zirá ← ben:জিরা "zīra". hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. per:(zire). zho:孜然 (zīrán).  
 ziza ← zho:zizi eng:sizzle  
+zumrude ← ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.  

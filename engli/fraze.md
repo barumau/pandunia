@@ -364,18 +364,18 @@ Do you have children?
 **mi ada do bace.**
 I have two children.
 
-### jan <small>to know</small>
+### jana <small>to know</small>
 
-**mi jan ye.**
+**mi jana ye.**
 I know him/her.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 Do you know that person?
 
-**eska tumen jan bici?**
+**eska tumen jana bici?**
 Do you know each other?
 
-**mimen jan bici ze long.**
+**mimen jana bici ze long.**
 We know each other for long.
 
 ### helpe <small>help</small>
@@ -439,7 +439,7 @@ No, I don't want tea. I want coffee.
 
 **tu wol ki aple?**
 Which apple do you want?  
-**li ros.**
+**di ros.**
 This red one.
 
 ### cing <small>request, please</small>
@@ -713,7 +713,7 @@ The voyage is very long.
 **hotel na ke?**
 Where is the hotel?
 
-**hotel na li daw.**
+**hotel na di daw.**
 The hotel is on that road.
 
 **tu na ke?**
@@ -893,7 +893,7 @@ Is it new?
 **ke si mas bon?**
 Which is better?
 
-**li si maxim bon (ze tot).**
+**ce si maxim bon (ze pan).**
 This is the best (of all).
 
 ****
@@ -987,9 +987,12 @@ example.
 **baxa** speak, communicate  
 **bon** good <small>(French _bon_)</small>  
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
+**ce** this one</small>  
 **ci** this; these</small>  
 **cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
+**de** that one</small>  
+**di** that; those</small>  
 **dom** home, residence <small>(Russian _dom_ дом)</small>  
 **doma** live, reside  
 **dotor** doctor <small>(Portuguese _doutor_)</small>  
@@ -1003,7 +1006,7 @@ example.
 **helpa** to help, to assist  
 **helpe** help, assistance <small>(English _help_)</small>  
 **i** and <small>(Polish _i_)</small>  
-**jan** know <small>(Hindi _jānnā_ जानना)</small>  
+**jana** know <small>(Hindi _jānnā_ जानना)</small>  
 **kafé** coffee <small>(French _café_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
@@ -1012,7 +1015,6 @@ example.
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **laya** come <small>(Vietnamese _lai_)</small>  
 **lew** already, done, completed <small>(Thai _læw_ แล้ว)</small>  
-**li** that; those</small>  
 **mamá** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mena** to mean <small>(Swahili _maana_)</small>  

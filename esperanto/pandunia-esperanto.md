@@ -273,6 +273,7 @@ daw : vojo
 day : granda  
 dayxi kan : ambasado  
 dayxi : ambasadoro  
+de : tio  
 deci : dekono  
 deke : kovrilo  
 demon : demono  
@@ -290,6 +291,7 @@ dew : dio
 dewi sage : mito  
 dewi : dia  
 dex : lando  
+di : tiu  
 din gurú : pastro  
 din : religio  
 ding : najlo  
@@ -674,6 +676,7 @@ kamote : batato
 kanal : kanalo  
 kande : bombono  
 kanguru : kangaro  
+kanjar : ponardo  
 kanon : kanono  
 kanoner : kanonisto  
 kanun : lego  
@@ -690,8 +693,10 @@ karibú : boaco
 karot : karoto  
 karte : karto  
 kastan : kaŝtano  
+kastor : kastoro  
 kata : tranĉi  
 katalunya : Katalunio  
+katan : glavo  
 kaway : ĉarma  
 kay : malferma  
 kaya : malfermi  
@@ -766,12 +771,10 @@ lanten : lanterno
 latvia : Latvio  
 laurensium : laŭrencio  
 laya : veni  
-le : tio  
 lekse : vorto  
 leng : malvarma  
 lete : somero  
 lew : jam (esti farita)  
-li : tiu  
 liga : aligi  
 lil : malgranda  
 lim : kvin (5)  
@@ -1162,6 +1165,7 @@ swahili : sŭahili
 ##t  
 tabake : tabako  
 tabia : naturo  
+table : tabelo  
 tafun : ŝtormo  
 taiga : tajgo  
 talium : talio  

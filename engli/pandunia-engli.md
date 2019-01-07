@@ -329,6 +329,7 @@ day : big (very, greatly)
 dayu : grow (get bigger)  
 dayxi kan : embassy  
 dayxi : ambassador  
+de : that one  
 deci : deci-  
 deke : cover (lid, cap, deck)  
 demon : demon  
@@ -348,6 +349,7 @@ dewi : divine (godly)
 dewiste : theist  
 dewistia : theism  
 dex : country (land)  
+di : that (those)  
 din gurú : priest (cleric)  
 din : religion (worship)  
 ding : nail (spike)  
@@ -844,6 +846,7 @@ kanadia : Canada
 kanal : channel  
 kande : candy (sweets)  
 kanguru : cangaroo  
+kanjar : dagger  
 kannadi : Kannada  
 kanon : gun (cannon)  
 kanoner : cannoneer  
@@ -869,8 +872,10 @@ karte : card
 kartun : comic (cartoon)  
 karí : curry  
 kastan : chestnut  
+kastor : beaver  
 kata : cut  
 katalunya : Catalonia  
+katan : sword  
 kataria : Qatar  
 kaway : cute (sweet)  
 kax : cash box  
@@ -1039,7 +1044,6 @@ latvia : Latvia
 laurensium : lawrencium  
 laxa : release (let, let go)  
 laya : come  
-le : that one  
 lekse : word  
 leksem : lexeme  
 leng : cold  
@@ -1047,7 +1051,6 @@ lenxa : practice (to exercise)
 lete : summer  
 letis : lettuce  
 lew : already (completed action)  
-li : that (those)  
 liba : erect  
 libel : dragonfly  
 liberia : Liberia  
@@ -1070,7 +1073,7 @@ limite : limit (boundary)
 limun : lemon  
 linye : line (stripe)  
 lis : smooth  
-liste : list (listing)  
+liste : list (listing, catalogue)  
 litium : lithium  
 litre : liter (litre)  
 lixtenxtayn : Liechtenstein  
@@ -1906,10 +1909,11 @@ swisia : Switzerland
 ##t  
 tabake : tobacco  
 tabar : axe (hatchet)  
-tabel : table (matrix)  
 tabia lojia : ecology (study of environment)  
 tabia : nature (environment)  
 tabial : environmental (natural)  
+tabla : tabulate  
+table : table (matrix)  
 tafun : storm (tempest, typhoon, hurricane, cyclone)  
 taibei : Taipei  
 taiga : taiga  
