@@ -19,7 +19,7 @@
 
 #### [日本語で](nipon/index.md) 🇯🇵
 
-#### [bahasa Melayu/Indonesia](malayu/index.md) 🇮🇩 🇲🇾
+#### [bahasa Melayu/Indonesia](malay/index.md) 🇮🇩 🇲🇾
 
 #### [suomeksi](suomi/index.md) 🇫🇮
 
