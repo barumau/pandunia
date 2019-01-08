@@ -1,7 +1,7 @@
 pandunia - una lingua mundial
 =============================
 
-![](http://www.pandunia.info/bander/bander.png "Bandeira de Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Pandunia")
 
 
 A pandunia é uma língua artificial multicultural.

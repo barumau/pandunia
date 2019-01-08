@@ -1,7 +1,7 @@
 pandunia - prosty światowy język
 ==================================
 
-![](http://www.pandunia.info/bander/bander.png "Flaga Panduni")
+![](http://www.pandunia.info/bandir/bandir.png "Flaga Panduni")
 
 Uwaga: Polskojęzyczna wersja jest w trakcie tworzenia. Cała i aktualna zawartość witryny jest dostępna w wersji anglojęzycznej
 

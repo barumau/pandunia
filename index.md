@@ -1,29 +1,29 @@
 
-![](http://www.pandunia.info/bander/bander.png "The flag of Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
 
 #pandunia - egal dunia bax
 
-#### [in English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺
-
-#### [中文](zhongwen/index.md) 🇨🇳 🇹🇼
-
-#### [en español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
-
-#### [en français](frans/index.md) 🇫🇷 🇨🇦 🇨🇮 🇨🇩 🇩🇿
-
-#### [em português](portugal/index.md) 🇵🇹 🇧🇷 🇦🇴 🇲🇿
-
-#### [po polsku](polski/index.md) 🇵🇱
-
-#### [по-русски](rusi/index.md) 🇷🇺 🇧🇾 🇺🇦
-
-#### [日本語で](nipon/index.md) 🇯🇵
+#### [pandunia](pandunia/index.md) ![](http://pandunia.info/bandir/qpn.png)
 
 #### [bahasa Melayu/Indonesia](malay/index.md) 🇮🇩 🇲🇾
 
-#### [suomeksi](suomi/index.md) 🇫🇮
+#### [English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺
 
-#### [en Esperanto](esperanto/index.md) ![](http://pandunia.info/bander/eo.png)
+#### [español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
 
-#### [na pandunia](pandunia/index.md) ![](http://pandunia.info/bander/qpn.png)
+#### [Esperanto](esperanto/index.md) ![](http://pandunia.info/bandir/eo.png)
+
+#### [français](frans/index.md) 🇫🇷 🇨🇦 🇨🇮 🇨🇩 🇩🇿
+
+#### [日本語](nipon/index.md) 🇯🇵
+
+#### [polski](polski/index.md) 🇵🇱
+
+#### [português](portugal/index.md) 🇵🇹 🇧🇷 🇦🇴 🇲🇿
+
+#### [русский](rusi/index.md) 🇷🇺 🇧🇾 🇺🇦
+
+#### [suomi](suomi/index.md) 🇫🇮
+
+#### [中文](zhongwen/index.md) 🇨🇳 🇹🇼
 

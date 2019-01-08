@@ -1,7 +1,7 @@
 Pandunia - una lengua mundial sencilla
 ======================================
 
-![](http://www.pandunia.info/bander/bander.png "Bandera de Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "Bandera de Pandunia")
 
 ## ¿Qué es Pandunia?
 

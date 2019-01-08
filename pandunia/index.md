@@ -1,11 +1,13 @@
 pandunia - dunia bax
 =====================
 
-![](http://www.pandunia.info/bander/bander.png "pandunia da bander")
+![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
 
 salam dunia!
 
-pandunia si nowi dunia bax! pandunia da lekse laya ze dunia da mey fen: afrike, amerike, asia, europe – ze dunia bax bixu wakila mimen da pan dunia!
+pandunia si nowi dunia bax! pandunia da lekse laya ze dunia da mey
+fen: afrike, amerike, asia, europe – ze dunia bax bixu wakila mimen
+da pan dunia!
 
 eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html).
 
