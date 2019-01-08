@@ -124,7 +124,7 @@ Huom! Pronominien monikkomuodot ovat **mimen**
 (te).
 
 <small>Sanan **tu**
-lähteitä: espanja: "tú", italian: "tu", ranska: "tu", hindi: तू  "tū", persia: تو‏‎ "to", tadžikki: ту "tu".</small>
+lähteitä: espanja: tú, italian: tu, ranska: tu, hindi: तू  (tū), persia: تو‏‎ (to), tadžikki: ту (tu).</small>
 
 
 ### ye <small>hän, se</small>
@@ -170,7 +170,7 @@ Entä sinä?
 Minä en voi hyvin.
 
 <small>Sanan **eska**
-lähteitä: hindi: क्या  "kyā", urdu: كيا‏‎ "kyā".</small>
+lähteitä ovat ranska: est-ce que /ɛskə/, Haitin kreoli: èske, englanti: ask.</small>
 
 
 

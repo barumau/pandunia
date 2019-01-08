@@ -122,8 +122,8 @@ and 'me'.
 **mi ama tu.**
 I love you.
 
-<small>Etymology. **tu** is from Spanish: "tú", Italian: "tu", French: "tu",
-Hindi: तू  "tū", Farsi: تو‏‎ "to", Tajik: ту "tu".</small>
+<small>Etymology. **tu** is from Spanish: tú, Italian: tu, French: tu,
+Hindi: तू  (tū), Farsi: تو‏‎ (to), Tajik: ту (tu)".</small>
 
 ### ye <small>he, she or it</small>
 

@@ -169,7 +169,7 @@ Estoy bien.
 No estoy bien.
 
 <small>Etimología. **eska**
-viene del hindi: क्या  "kyā", urdu: كيا‏‎ "kyā".</small>
+viene del francés: : est-ce que /ɛskə/, inglés: ask.</small>
 
 ### si <small>sí</small>
 
