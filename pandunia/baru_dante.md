@@ -1,57 +1,67 @@
-barú bace da dante tung
-=======================
+# lil urse da dante tung
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un subá barú mama wol cuta to bazar. ye loga to barú bace: "no nyama kande i keke na dura du mi na bazar." barú bace loga: "si, si, mama! mi jan ye. mi day barú. cing cuta way!" barú mama loga "salam" i ye cuta way.
+un subá urse mamá wol cuta to bazar.
+ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
+lil urse loga: "si, si, mamá! mi jana ye. mi day urse. cing cuta way!"
+urse mamá loga "salam" i ye cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-barú bace na mon. ye fikra: "zay mi ken kar eni xey du mi wol!"
+lil urse na mon. ye fikra: "zay mi ken kar eni xey du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-barú bace cuta to wax kamer. ye fikra "mi no wol waxa dante zay." barú bace si mal.
+lil urse cuta to wax kamar. ye fikra "mi no wol waxa dante zay."
+lil urse si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-barú bace joga lil gar na mey kamer. ye wida keke sanduke na meza. ye fikra "mi wol nyama keke!" a ye memora: "ah! mama loga mi no nyama keke." barú bace no nyama keke.
+lil urse joga lil gar na mey kamar. ye wida keke sanduke na meza.
+ye fikra "mi wol nyama keke!" a ye yada: "a! mamá loga mi no nyama keke."
+lil urse no nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-barú bace wida kande botol na almari. ye fikra "mi wol nyama kande!" a ye memora: "ah! mama loga mi no nyama kande." barú bace no nyama kande.
+lil urse wida kande botol na almari. ye fikra "mi wol nyama kande!"
+a ye yada: "a! mamá loga mi no nyama kande." lil urse no nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-barú bace wida medu pote na alter almari. ye fikra "mama loga nul xey du tema medu. mi ken nyama medu!" barú bace sidu na kursi i ye nyama lil medu. medu bon gusta!
+lil urse wida mel pote na alter almari. ye fikra
+"mamá loga nul xey du tema mel. mi ken nyama mel!"
+lil urse sida na kurse i ye nyama lil mel. mel bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 
-barú bace nyama pan medu.
+lil urse nyama pan mel.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, barú bace senta no jan da sente na boka. ye da dante tung!
+bada, lil urse senta no jana da sente na boke. ye da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye kapa tele fon. ye loga: "halo! eska tu si dante dotor? cing laya to mi! mi ada tung dante!"
+ye geta tele fon. ye loga: "haló! eska tu si dante dotor? cing laya to mi! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-dotor laya to barú famil da dom. ye loga: "eska tu nida helpe?" barú bace loga: "si! mi ada tung dante!"
+dotor laya to urse famil da dom. ye loga: "eska tu nida helpe?"
+lil urse loga: "si! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-dotor cing barú bace sidu na kursi i kaya boka. "aha! un dante day mal! mi bixu kapa ye to way."
+dotor cing lil urse sidu na kurse i kaya boke.
+"aha! un dante day mal! mi bixu geta ye to way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
-dotor juxa medike to dante manse na jin du mal dante. barú bace no senta tung ze zay.
+dotor juxa medike to dante manse na jin du mal dante. lil urse no senta tung ze zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 
-dotor tira dante na pinse. a dante no laya!
+dotor tira dante na pinser. a dante no laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_14.png)
 
@@ -71,17 +81,21 @@ dante laya to way!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-dotor loga to barú bace: "mal dante na way zay. cing memora uza dante brox na mey subá i na mey xam!" barú bace wada memora.
+dotor loga to lil urse: "mal dante na way na zay.
+cing yada uza dante brox na mey subá i na mey xam!"
+lil urse wada yada.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
 
-barú bace loga: "danke dotor i waf i maw i lixu!"
+lil urse loga: "danke dotor i waf i maw i lixu!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 
-barú bace waxa dante na dante brox mey subá i mey xam.
+lil urse waxa dante na dante brox mey subá i mey xam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
-barú mama nota barú bace kura se da dante max bon. mama loga: "tu si bon lil barú!"
+urse mamá nota lil urse kura se da dante max bon.
+mamá loga: "tu si bon lil urse!"
+
 

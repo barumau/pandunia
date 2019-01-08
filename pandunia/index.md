@@ -14,7 +14,7 @@ eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html
 
 * [abace](abc.md)
 * histor
-  * [barú bace da dante tung](baru_dante.md)
+  * [lil urse da dante tung](baru_dante.md)
   * [sam lil goró](3_lil_goro.md)
   * [piper i karote](piper_i_karot.md)
   * [insan da putong hake](putong_hake.md)
