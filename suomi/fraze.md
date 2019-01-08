@@ -288,7 +288,7 @@ Keitä he ovat?
 lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### ce <small>tämä, nämä</small>
+### ce <small>tämä</small>
 
 **ce ke? / ke ce?**
 Mikä tämä on?
@@ -307,6 +307,27 @@ Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreen
 **ye ros.**
 Se on punainen.
 
+
+### de <small>tuo</small>
+
+**mi suku ce i de.**
+Minä tykkään tästä ja tuosta.
+
+**mi suku ci kamis i di pantalon.**
+Minä tykkään tästä paidasta ja näistä housuista.
+
+Huom! Osoittavilla pronomineilla on kaksi muotoa: Muotoja **ce** ja
+**de** käytetään yksinään, kun taas muotoja **ci** ja **di** käytetään
+määrittämään perässä olevaa substantiivia.
+
+**yemen na ke?**
+Missä he ovat?
+
+**yemen na de.**
+He ovat tuolla.
+
+**mimen na ce.**
+Me olemme täällä.
 
 
 ### da <small>-n (genetiivipartikkeli)</small>

@@ -278,7 +278,8 @@ Who are they?
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
 Bengali: কী "ki".</small>
 
-### ce <small>this, that</small>
+
+### ce <small>this</small>
 
 **ce ke? / ke ce?**
 What's this?
@@ -295,8 +296,31 @@ This apple is red.
 Note: When an adjective, like **ros**, is placed before a noun, it works as a
 modifier. When it follows the noun, it works as an adjectival verb.
 
-**ye ros.**
-It's red.
+**ce ros.**
+This is red.
+
+
+### de <small>that</small>
+
+**mi suku ce i de.**
+I like this and that.
+
+**mi suku ci kamis i di pantalon.**
+I like this shirt and those pants.
+
+Note: The demonstrative pronouns appear in two forms: **ce** and 
+**de** are used as standalone words, while **ci** and **di** are used
+before the noun that they point to.
+
+**yemen na ke?**
+Where are they?
+
+**yemen na de.**
+They are there.
+
+**mimen na ce.**
+We are here.
+
 
 ### da <small>'s (possessive particle)</small>
 
