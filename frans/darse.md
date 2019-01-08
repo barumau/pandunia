@@ -13,13 +13,13 @@ Vous présenter
 > ☻: **tu si ke?** = Qui es-tu ?  
 > ☺: **mi si yusef. tu si ke?** = Je suis Yusef. Qui est-tu ?  
 > ☻: **mi si maria. ye si ke?** = Je suis Maria. Qui est-ce ?  
-> ☺: **ye si mi da panyo.** = C'est mon amie.  
+> ☺: **ye si mi da doste.** = C'est mon amie.  
 > ☻: **ye da nam si ke?** = Quel est son nom ?  
 > ☺: **ye da nam si sara.** = Son nom est Sara.
 
 ### Grammaire
 
-Les phrases en Pandunia suivent normalement la structure sujet-commentaire. Le sujet indique de qui ou de quoi on parle. Le commentaire dit quelque chose sur le sujet. Par exemple, dans **ye si mi da panyo**, le sujet est le pronom **ye** (il, elle, il neutre), suivi du commentaire **si mi da panyo** (est mon amie).
+Les phrases en Pandunia suivent normalement la structure sujet-commentaire. Le sujet indique de qui ou de quoi on parle. Le commentaire dit quelque chose sur le sujet. Par exemple, dans **ye si mi da doste**, le sujet est le pronom **ye** (il, elle, il neutre), suivi du commentaire **si mi da doste** (est mon amie).
 
 Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement avec un **no** (qui signifie à la fois _ne pas_ et _non_)
@@ -27,8 +27,8 @@ Et pour dire le contraire, remplacez le simplement avec un **no** (qui signifie 
 > **ye si sara.** - C'est Sara.  
 > **ye no sara.** - Ce n'est pas Sara.  s
 
-> **mau si hewan** - Le chat est un animal.  
-> **mau no hewan** - Le chat n'est pas un animal.  
+> **maw si hewan** - Le chat est un animal.  
+> **maw no hewan** - Le chat n'est pas un animal.  
 
 
 ### Exercises
@@ -51,15 +51,15 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 **ke** qui ou quoi.  
 **si** être (je suis, tu es, nous sommes, etc.)
 **si** oui. **no** non.  
-**bon** bon. **panyo** ami. **nam** nom.
+**bon** bon. **doste** ami. **nam** nom.
 **fem** femme. **man** homme.
-**mau** chat. **hewan** animal.
+**maw** chat. **hewan** animal.
 
 ### Réponses aux exercices
 
 1. tu si ke?
 2. mi si tomas.
-3. tu da panyo si ke?
+3. tu da doste si ke?
 4. ye si sara.
 5. tu da nam si ke?
 6. mi da nam si ........... 
@@ -99,13 +99,13 @@ En Pandunia, les phrases peuvent être raccourcies en omettant les pronoms lorsq
 Le modèle **salam tu** est pratique pour s'adresser aux gens par leur nom, leur terme de parenté ou leur profession.
 
 > **salam toni!** = Bonjour | Salut, Tony !  
-> **salam mama!** = Bonjour | Salut, maman !  
-> **salam papa!** = Bonjour | Salut, papa !  
+> **salam mamá!** = Bonjour | Salut, maman !  
+> **salam papá!** = Bonjour | Salut, papa !  
 > **salam xefe!** = Bonjour | Salut, chef !
 
-Il existe un autre mot pour saluer : **halo**.  C'est également un mode de salutation largement utilisé à l'échelle internationale. Vous pouvez librement choisir lequel utiliser pour saluer les gens.
+Il existe un autre mot pour saluer : **haló**.  C'est également un mode de salutation largement utilisé à l'échelle internationale. Vous pouvez librement choisir lequel utiliser pour saluer les gens.
 
-**halo!** - Bonjour ! | Salut !
+**haló!** - Bonjour ! | Salut !
 
 
 ### Exercices
@@ -119,15 +119,15 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 
 ### Liste de mots
 
-**salam, halo** salutation, bonjour, salut, salaam, ciao, etc.  
-**mama** mère, maman. **papa** père, papa. **xefe** chef, patron.
+**salam, haló** salutation, bonjour, salut, salaam, ciao, etc.  
+**mamá** mère, maman. **papá** père, papa. **xefe** chef, patron.
 
 
 ### Réponses aux exercices
 
 1. tu salama ye.
-2. mama salama papa.
-3. salam mama!
+2. mamá salama papá.
+3. salam mamá!
 4. salam!
 
 
@@ -145,7 +145,7 @@ Formuler des demandes
 ☺: **cing nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
 ☻: **mi nyama ca. danke.** = Je prends du thé, merci.  
 ...
-☺: **cing salama tu da mama!** = S'il te plaît, salut ta mère.  
+☺: **cing salama tu da mamá!** = S'il te plaît, salut ta mère.  
 ☻: **mi salama ye. salam!** = Je la saluerai. Au revoir !  
 ☺: **salam!** = Au revoir !
 
@@ -208,7 +208,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 1. ye nyama ca.
 2. xefe cing ye sida.
 3. cing nyama kafe u ca.
-4. mama cing mi safa kamer.
+4. mamá cing mi safa kamer.
 5. xefe sida i nyama kafe.
 
 
@@ -253,7 +253,7 @@ Les demandes s'adressent généralement à des interlocuteurs directs, mais les 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 > **eska xefe nyama kafe?** = Est-ce que le chef prend du café ?  
-> **eska papa safa kamer?** = Le père nettoie-t-il la chambre ?  
+> **eska papá safa kamer?** = Le père nettoie-t-il la chambre ?  
 > **eska niki baxa pandunia?** = Est-ce que Nicky parle le Pandunia ?
 
 
@@ -301,7 +301,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. eska mama nyama kafe?
+3. eska mamá nyama kafe?
 4. no. ye no nyama kafe.
 5. eska ye nyama supe?
 6. (ye) no nyama.
@@ -326,10 +326,10 @@ Conceptuellement, la négation signifie l'absence ou la non-existence du mot ni�
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-> **ye no ada mau.** = Elle n'a pas de chat.  
-> **ye ada no mau, ama waf.** = Elle n'a pas de chats, mais des chiens.  
-> **no ye, a mi ada mau.** = Pas elle, mais j'ai des chats.  
-> **mi ada no un, a do mau.** = Je n'ai pas un, mais deux chats.
+> **ye no ada maw.** = Elle n'a pas de chat.  
+> **ye ada no maw, ama waf.** = Elle n'a pas de chats, mais des chiens.  
+> **no ye, a mi ada maw.** = Pas elle, mais j'ai des chats.  
+> **mi ada no un, a do maw.** = Je n'ai pas un, mais deux chats.
 
 
 ### Exercices
@@ -346,7 +346,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Parfois, il y a plus d
 
 ### Liste de mots
 
-**kupe** coupe, verre, tasse. **hali** vide. **ada** avoir. **mau** chat. **waf** chien. **do** deux. **nul** zero. **a** mais.
+**kupe** coupe, verre, tasse. **hali** vide. **ada** avoir. **maw** chat. **waf** chien. **do** deux. **nul** zero. **a** mais.
 
 
 ### Réponses aux exercices
@@ -354,9 +354,9 @@ Essayez de traduire ces phrases du Français au Pandunia. Parfois, il y a plus d
 1. ye no safa kamer.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no ada waf i mau. / ye ada no waf i no mau.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafe.
-6. mama ada no waf a do mau.
+6. mamá ada no waf a do maw.
 
 
 --------------------------------------------------------------------------------
@@ -373,16 +373,16 @@ Pour poser des questions commençant par _quoi_, _quel_, _comment_, _qui_ and _q
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de **koz ke**.
 
-> **tu suku mau koz ke?** = Pourquoi aimes-tu les chats ?
+> **tu suku maw koz ke?** = Pourquoi aimes-tu les chats ?
 
 On répond aux questions sur les causes ou les raisons de quelque chose en ajoutant **koz** avant la cause ou la raison. **koz** est en fait un verbe passif qui signifie _être causé par_.
 
-> **tu suku mau koz ke?** = Pourquoi aimes-tu les chats ?  
+> **tu suku maw koz ke?** = Pourquoi aimes-tu les chats ?  
 > **koz yemen kaway.** = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser **koz** pour exprimer la cause ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-> **mi suku mau koz yemen kaway** = J'aime les chats parce qu'ils sont mignons.
+> **mi suku maw koz yemen kaway** = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
 
@@ -403,7 +403,7 @@ Bien entendu, vous pouvez également utiliser **koz** pour exprimer la cause ou 
 
 
 1. ke ren suku supe?
-2. papa suku.
+2. papá suku.
 3. ke zam ye lai?
 4. na des minut bada.
 5. ye no nyama koz ke?
@@ -420,9 +420,9 @@ Il n'y a pas de conjugaison en Pandunia. Les verbes n'ont qu'une seule forme. Il
 
 > **mi darba ye.** = Je le frappe / je l'ai frappé.
 
-En Pandunia tous les verbes fonctionnent ainsi ! Par exemple, **mi nyama pan** peut signifier à la fois "Je mange du pain" et "J'ai mangé du pain", mais en général un seul temps est retenu selon le contexte de la discussion. Par exemple lorsque les gens parlent à propos d'un petit déjeuner qui a déjà été consommé.
+En Pandunia tous les verbes fonctionnent ainsi ! Par exemple, **mi nyama nan** peut signifier à la fois "Je mange du pain" et "J'ai mangé du pain", mais en général un seul temps est retenu selon le contexte de la discussion. Par exemple lorsque les gens parlent à propos d'un petit déjeuner qui a déjà été consommé.
 
-> **mi nyama pan na suba kane.** = J'ai mangé du pain pour le petit déjeuner.
+> **mi nyama nan na suba nyam.** = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
 
@@ -453,8 +453,8 @@ On peut également placé l'expression du temps en fin de phrase.
 
 Il n'est pas nécessaire d'utiliser les expressions de temps à chaque phrase, sauf si on parle à un autre temps au cours du récit.
 
-> **mi pas ada un mau.** = J'ai eu un chat dans le passé.
-> **ye bon mau.** = C'était un bon chat.
+> **mi pas ada un maw.** = J'ai eu un chat dans le passé.
+> **ye bon maw.** = C'était un bon chat.
 > **mi ada un waf nun.** = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le temps. Lorsqu'une expression temporelle est présente, les autres marqueurs de temps ne sont pas nécessaires.
@@ -465,7 +465,7 @@ Toute expression de temps convient pour exprimer un moment dans le temps. Lorsqu
 
 ### Liste de mots
 
-**pas** passé, ancien. **zay** present, en cours. **wil** futur. **darba** frapper, battre. **pan** pain. **suba kane** repas du matin, petit-déjeuner.
+**pas** passé, ancien. **zay** present, en cours. **wil** futur. **darba** frapper, battre. **nan** pain. **suba nyam** repas du matin, petit-déjeuner.
 
 ### Exercices
 
@@ -484,7 +484,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 2. mi ada do waf na pase.
 3. tu nyama supe nun.
 4. ye safa kamer na befo den.
-5. mau nyama kafe na badi den.
-6. tu da mama festa na befo noce.
+5. maw nyama kafe na badi den.
+6. tu da mamá festa na befo noce.
 
 

@@ -9,13 +9,13 @@ Presentación
 > ☻: **tu si ke?** = ¿Quién es usted?  
 > ☺: **mi si yusef. tu si ke?** = Yo soy Yusef. ¿Quién es usted?  
 > ☻: **mi si maria. ye si ke?** = Yo soy Maria. ¿Quién es?  
-> ☺: **ye si mi da panyo.** = Es una amiga mia.  
+> ☺: **ye si mi da doste.** = Es una amiga mia.  
 > ☻: **ye da nam si ke?** = ¿Cómo se llama?  
 > ☺: **ye da nam si sara.** = Su nombre es Sara.
 
 ### Gramatica
 
-Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **ye si mi da panyo** el tema es el pronombre **ye** (él, ella, ello), que es seguido por el comentario **si mi da panyo** (es amigo mío).
+Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **ye si mi da doste** el tema es el pronombre **ye** (él, ella, ello), que es seguido por el comentario **si mi da doste** (es amigo mío).
 
 <!--
 The word for "to be" is not normally used in Pandunia. An expression like **ye sara** (literally, "She Sara") is perfectly understandable without it. And to say the opposite, simply add **no** (which is the word for _no_) in the middle.
@@ -59,13 +59,13 @@ Intenta traducir estas frases de Español a Pandunia.
 **ye** él, ella, ello. **ye da** su.  
 **ke** quién? qué?  
 **si** sí. **no** no.  
-**bon** bueno. **panyo** amigo, amiga. **nam** nombre.
+**bon** bueno. **doste** amigo, amiga. **nam** nombre.
 
 ### Respuestas
 
 1. tu si ke?
 2. mi si tomas.
-3. tu da panyo si ke?
+3. tu da doste si ke?
 4. ye si sara.
 5. tu da nam si ke?
 6. mi da nam si ........... 

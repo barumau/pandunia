@@ -350,10 +350,10 @@ tarkoittaa "minun", **tu da** tarkoittaa "sinun" jne.
 **ye ke?**
 Kuka hän on?
 
-**ye si mi da panyo.**
+**ye si mi da doste.**
 Hän on minun ystävä.
 
-**mi si sara da panyo.**
+**mi si sara da doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **da**
