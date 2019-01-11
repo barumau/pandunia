@@ -38,7 +38,7 @@ Uwaga: Pandunia jest językiem w procesie tworzenia. Struktura i słownictwo mog
 
 ## Artykuły
 
-- [Pandunia - nowy międzynarodowy pidżyn](dunia_pijin.md)
+- [Pandunia - nowy międzynarodowy język](dunia_baxe.md)
 - [Prezentacja w formacie PDF (ang.)](Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 - [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinie uczących się
@@ -51,10 +51,12 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - Linki i dyskusja na [Reddicie](https://www.reddit.com/r/pandunia/)
 - [Przyjaciele Panduni](http://www.facebook.com/groups/pandunia) na Facebooku
 - kanały Telegram: [wielojęzyczny](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [w Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- Znajdź innych użytkowników Panduni w aplikacji [Amikumu](https://amikumu.com/)!
 - [kanały Discord](https://discord.gg/uk36mn8)
+- Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!
 
 
-Pandunia jest również obecna na listach mailingowych. Do oficjalnej [grupy Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) można dołączyć wysyłając tutaj [here](mailto:pandunia-subscribe@yahoogroups.com) pustą wiadomość e-mail. Inne powiązane listy mailingowe obejmują [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) i [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
+Pandunia jest również obecna na listach mailingowych. Do oficjalnej [grupy Pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) można dołączyć wysyłając [tutaj](mailto:pandunia-subscribe@yahoogroups.com) pustą wiadomość e-mail. Inne powiązane listy mailingowe obejmują [Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) i [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.
