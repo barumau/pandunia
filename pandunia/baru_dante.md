@@ -2,14 +2,14 @@
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un subá urse mamá wol cuta to bazar.
+un subá urse mame wol cuta to bazar.
 ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
-lil urse loga: "si, si, mamá! mi jana ye. mi day urse. cing cuta way!"
-urse mamá loga "salam" i ye cuta way.
+lil urse loga: "si, si, mame! mi jana ye. mi day urse. cing cuta way!"
+urse mame loga "salam" i ye cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse na mon. ye fikra: "zay mi ken kar eni xey du mi wol!"
+lil urse na mon. ye fikra: "zay mi ken fata eni xey du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
@@ -19,18 +19,18 @@ lil urse si mal.
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
 lil urse joga lil gar na mey kamar. ye wida keke sanduke na meza.
-ye fikra "mi wol nyama keke!" a ye yada: "a! mamá loga mi no nyama keke."
+ye fikra "mi wol nyama keke!" a ye yada: "a! mame loga mi no nyama keke."
 lil urse no nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
 lil urse wida kande botol na almari. ye fikra "mi wol nyama kande!"
-a ye yada: "a! mamá loga mi no nyama kande." lil urse no nyama kande.
+a ye yada: "a! mame loga mi no nyama kande." lil urse no nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
 lil urse wida mel pote na alter almari. ye fikra
-"mamá loga nul xey du tema mel. mi ken nyama mel!"
+"mame loga nul xey du tema mel. mi ken nyama mel!"
 lil urse sida na kurse i ye nyama lil mel. mel bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
@@ -95,7 +95,7 @@ lil urse waxa dante na dante brox mey subá i mey xam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
-urse mamá nota lil urse kura se da dante max bon.
-mamá loga: "tu si bon lil urse!"
+urse mame nota lil urse kura se da dante max bon.
+mame loga: "tu si bon lil urse!"
 
 
