@@ -1,10 +1,14 @@
 : : abace : alphabet  
 ##a  
 adulte : adulte  
+africain : afriki  
+Afrique : afrike  
 agile : ajil  
 aimer : ama  
 aire (superficie) : are  
 alcool : alkol  
+américain : ameriki  
+Amérique : amerike  
 analyse : analis  
 analyser : analisa  
 animation : anime  
@@ -14,6 +18,8 @@ appartenir à : adu
 argument : teze  
 art : arte  
 artiste : arter  
+asiatique : asian  
+Asie : asia  
 autel : altar  
 autre : ali  
 avoir : adres  
@@ -28,14 +34,19 @@ chapitre : babe
 diamant : almas  
 drapeau : bandir  
 ##e  
+Europe : europe  
+européen : europi  
 ##f  
 frais : tazi  
 ##g  
 ##h  
 ##i  
 ##j  
+Jésus : yesu  
 ##k  
 ##l  
+lapin, lièvre : tuze  
+loup : wolfe  
 ##m  
 melon d'eau : arbuze  
 ##n  
@@ -60,15 +71,28 @@ tigre : bagre
 tirer : tira milke  
 tomate : tomate  
 toucher : toca  
+touriste : turiste  
 traduction : tarjum  
+Tunisie : tunisia  
 téléphone : tele fon  
 téléviseur : tele wide  
 ##u  
+uranium : uranium  
 ##v  
+Venezuela : venesuela  
+virus : wirus  
 ##w  
 ##x  
 ##y  
 ##z  
+zombi : zombe  
+Zoroastre : zardux  
+zoroastrien : zarduxiste  
+zoroastrisme : zarduxistia  
+zoulou : zulú  
+émeraude : zumrude  
 épreuve (test) : teste  
 équipe : tim  
+étoile : xing  
 évangile : anjil  
+éveillé : weki  

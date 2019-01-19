@@ -10,6 +10,7 @@ akcent, nacisk : acente
 akt, scena : roler  
 aktyn : acinium  
 akwarela, farba wodna : suy rang  
+akwarium : fix tanke  
 Albania : cipia  
 ale, lecz : a  
 alfabet łaciński, łacinka, alfabet rzymski : latini abace  
@@ -49,7 +50,7 @@ armia : armia
 arsen : arsen  
 artykuł, tekst : makale  
 artysta  : arter  
-Aruba : arubá  
+Aruba : arubia  
 asceta : askete  
 aspiryna : aspirin  
 astma : asma  
@@ -67,7 +68,6 @@ Azja : asia
 azjatycki : asian  
 azot : nitre  
 ##b  
-babka, babcia : omá  
 badać, studiować : loja  
 bagaż : bagaje  
 bagno : bloti stan  
@@ -152,7 +152,7 @@ Budda : bude
 buddysta : budiste  
 Buddyzm : budistia  
 budżet : bujete  
-Burkina Faso : burkiná  
+Burkina Faso : burkinia  
 Burundi : rundia  
 burza, sztorm, tajfun : tafun  
 but : sapate  
@@ -186,7 +186,6 @@ cer : cerium
 Ceres (planeta karłowata) : seres  
 cez : cesium  
 chaos, nieporządek; wrzawa, zgiełk : haos  
-chata, szałas : xalé  
 chcieć, pragnąć : wol  
 chemia : kimia  
 chemiczny : kimi  
@@ -196,7 +195,7 @@ Chiny : jungogia
 chleb : nan  
 chlor : klor  
 chmura : megam  
-cholera : kolera  
+cholera : koler  
 chordofon, instrument strunowy : ticin  
 Chorwacja : horvatia  
 chory : bing  
@@ -226,7 +225,6 @@ co? : ki ren
 coś : koy xey  
 cukier : sukar  
 cukierek, słodycze : kande  
-curry : karí  
 cynk : zinke  
 Cypr : kipris  
 cyrkon : zirkonium  
@@ -276,7 +274,7 @@ defekować, srać : kaka
 delikatny, cienki, lekki : fain  
 demografia : demó grafia  
 demokracja : demó kratia  
-Demokratyczna Republika Konga : kinsasa kongo  
+Demokratyczna Republika Konga : kinsasa kongolia  
 demon : demon  
 demon, diabeł, czart  : guy  
 dentysta : dante mediker  
@@ -291,7 +289,7 @@ do, dopóki, dla : to
 dobry ... : salam  
 dobry : bon  
 dobry los, szczęście : bon zar  
-dobry ranek : salam subá  
+dobry ranek : salam sube  
 dobry wieczór : salam xam  
 dodatkowy : maxi  
 doktor (uczony, który osiągnął doktorat) : dotor  
@@ -329,7 +327,6 @@ dyskutoać, twierdzić : teza
 dysproz : disprosium  
 dystans : tele  
 dzban, dzbanek; słój, słoik : jar  
-dziadek : opá  
 działo : kanon  
 dziecko, potomek : bace  
 dzielić : fena  
@@ -402,7 +399,7 @@ ferm : fermium
 Fidżi : fijia  
 figura, reprezentacja : figur  
 Filipiny : filipinia  
-filiżanka do kawy : kafé kupe  
+filiżanka do kawy : kafe kupe  
 film : filme  
 filozof : filsofer  
 filozofia : filsofia  
@@ -443,6 +440,7 @@ gaza : gaze
 gazela : gazel  
 gazeta : habar gazete  
 gałąź, konar : xake  
+gdzie : na ke  
 gejowski, homoseksualny : gey  
 genderqueer, niebinarny : bis  
 german : germanium  
@@ -525,7 +523,7 @@ Hiszpania : espania
 hmm : hem  
 hobby : hobe  
 hokej : hoke  
-Holandia, Królestwo Niderlandów : nederlandia  
+Holandia (Królestwo Niderlandów) : nederlandia  
 holm : holmium  
 homoseksualny : sem jinse kami  
 Honduras : honduras  
@@ -555,7 +553,7 @@ imperator : imperer
 imperialista : imperiste  
 imperializm : imperistia  
 imperium : imperia  
-Imperium Rzymskie : roma empiria  
+Imperium Rzymskie : romi empiria  
 ind : indium  
 Indie : bartia  
 Indonezja : indonesia  
@@ -615,7 +613,7 @@ judaizm : yehudistia
 judo : judo  
 Jupiter : muxing  
 jutro : badi den  
-już (gotowy) : lew  
+już (skończona czynność) : lew  
 już : ja  
 język surinamski : surinam bax  
 język sztuczny : sani bax  
@@ -624,7 +622,7 @@ język; komunikacja : bax
 językoznastwo : bax lojia  
 ##k  
 kabina, budka : kabin  
-kaczka : batá  
+kaczka : bate  
 kadm : kadomium  
 Kajmany : keyman nesia  
 kakao : kakaw  
@@ -635,7 +633,7 @@ kalkulować : hisaba
 Kambodża : kambudia  
 kamera, aparat fotograficzny : kamera  
 Kamerun : kamerun  
-kamień : batú  
+kamień : petre  
 Kanada : kanadia  
 kanał : kanal  
 kangur : kanguru  
@@ -655,8 +653,8 @@ kaszel; kaszlnięcie : kos
 kasztan : kastan  
 Katalonia : katalunya  
 Katar : kataria  
-kawa : kafé  
-kawiarnia : kafé kan  
+kawa : kafe  
+kawiarnia : kafe kan  
 Kazachstan : kazahia  
 każdy człowiek, wszyscy : mey ren  
 każdy, wszyscy : mey  
@@ -719,8 +717,8 @@ komunizm : komunistia
 komórka (biologia) : sel  
 koniec : fin  
 konkani : konkani  
-konkurować, rywalizować; odbyć mecz, odbywać mecz : maca  
-konopie : ganjá  
+konkurować, rywalizować; odbyć mecz, odbywać mecz : mece  
+konopie : ganje  
 konsekwencja, skutek : bade  
 kontynuować; wznawiać, ponawiać : kontinu  
 konwencjonalny, zwyczajowy, tradycyjny : rasmi  
@@ -733,13 +731,13 @@ korona : koron
 korzeń : gen  
 kosmos, wszechświat : kosmos  
 Kostaryka : kosta rika  
-kosz : basket  
+kosz : baske  
 koszt, cena : koste  
 kosztować : kosta  
 koszula : kamis  
 kot : maw  
 koło : cakre  
-koło, okrąg : sirke  
+koło, okrąg : cirke  
 koń : uma  
 kościół : eglis  
 kość : oste  
@@ -770,7 +768,6 @@ królewski : raji
 królik, zając : tuze  
 królowa : fem rajer  
 krótki : korti  
-krąg, okrąg, pierścień : wen  
 ksenon : xenon  
 ksiądz, kleryk, kaznodzieja : din gurú  
 książka : buke  
@@ -780,7 +777,7 @@ kszesło, fotel : kurse
 ktoś : koy ren  
 który, co : jo  
 który? : ki  
-Kuba : kubá  
+Kuba : kuba  
 kubek : kupe  
 kubek do herbaty : ca kupe  
 kucharz : kuker  
@@ -849,8 +846,7 @@ losowy : zari
 lub, albo : u  
 lubić, cieszyć się : suku  
 lud, społeczeństwo : demó  
-ludowy, narodowy : nasi  
-ludzie, lud, ludność : nas  
+ludzie (lud, ludność) : nas  
 ludzkość, rodzaj ludzki : insania  
 Luksemburg : luksemburgia  
 lustro : mirer  
@@ -889,7 +885,7 @@ mangusta : mungus
 maniok : manioke  
 marathi : marati  
 maraton : maraton  
-marchew : karot  
+marchew : karote  
 margaryna : margarin  
 Mariany Północne : marian nesia  
 marmur : marmar  
@@ -910,7 +906,7 @@ matematyka : matike
 materac : matras  
 materia, substancja : made  
 materialny : madi  
-matka, mama : mamá  
+matka, mama : mame  
 Mauretania : muritania  
 Mauritius : moris  
 Maya : mayá  
@@ -918,7 +914,7 @@ mały, mini- : mini
 mały; mało, trochę, nieco : lil  
 małżeństwo, związek małżeński : maria  
 mech : mos  
-mecz, rywalizacja : mace  
+mecz, rywalizacja : mece  
 medalion, medal : medal  
 media : media  
 medycyna : medikia  
@@ -963,7 +959,7 @@ minąć, mijać, przeminąć, przemijać : pasa
 misa na herbatę : ca wan  
 misa, kubek bez ucha : wan  
 mit, boska opowieść : dewi sage  
-miód : medu  
+miód : mel  
 między : inter  
 miękki : komal  
 mięso : manse  
@@ -1007,7 +1003,7 @@ mydło : sabun
 mysz : mux  
 myśl, pomysł : fikre  
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać : fikra  
-móc, umieć : ken  
+móc, umieć : posa  
 mój : mi da  
 mówić, rozmawiać : loga  
 mówić; komunikować : baxa  
@@ -1043,6 +1039,7 @@ naprawa : xule
 naprawiacz : xuler  
 naprawić, naprawiać : xula  
 narkotyk : droge  
+narodowy (ludowy) : nasi  
 narodowy socjalizm : nasi socistia  
 narodziny : jen  
 narzędzie : tul  
@@ -1073,7 +1070,7 @@ niebieski, niebiański, podniebny : samani
 niebo : saman  
 niech my, hajda : haida  
 niedziela : war 7 (war set)  
-niedźwiedź : barú  
+niedźwiedź : urse  
 niedźwiedź : urse  
 Niemcy : doicia  
 niemiecki : doici  
@@ -1129,14 +1126,14 @@ obóz : kamper
 Oceania : oseania  
 ocena, krytyka : piping  
 ocenić, oceniać, recenzować, komentować, krytykować : pipinga  
-ocet : cuká  
+ocet : sirke  
 odbić, odbijać : mira  
 odbyt : anus  
 odcisk, ślad; stempel, pieczęć : cape  
 oddech : nafas  
 odetkać, odtykać : zibula  
 odkurzacz : fun cuper  
-odmówić : nega  
+odmówić (odrzucić) : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
 odpowiedzieć, odpowiadać : daba  
 odpowiedź, odzew : dabe  
@@ -1149,12 +1146,12 @@ ogień : fay
 ogon : dum  
 ogród : gardin  
 ogórek : pepin  
-ojciec : papá  
+ojciec : pape  
 okej, spoko, akceptowalny : okey  
 okno : janel  
 oko : yen  
 około; przybliżony : yagi  
-okrągły : sirki  
+okrągły : cirki  
 oliwka : zaitun  
 Oman : oman  
 on, ona, ono : ye  
@@ -1184,14 +1181,14 @@ osobisty, intymny, prywatny : tani
 ostatni, końcowy : fini  
 oszacować, szacować, przybliżyć, przybliżać : yaga  
 oszczędzać, deponować : banka  
-otoczyć, otaczać : sirka  
+otoczyć, otaczać : cirka  
 otwarty, niezamknięty : kay  
 otworzyć się, otwierać się : kayu  
 otworzyć, otwierać : kaya  
 owad : koncung  
 owca : meme  
 owoc : pal  
-owoc kiwi : kiwi  
+owoc kiwi : kiwe  
 ołtarz : altar  
 ołów : plumbe  
 oś : akse  
@@ -1212,20 +1209,20 @@ Panama : panamia
 panamerykański : panameriki  
 panazjatycki : panasi  
 panda : pande  
-Pandunia : fute bol  
 Pandunia : pandunia  
 paneuropejski : paneuropi  
 panika : panike  
 papaja : papay  
-papier : pape  
+papier : papir  
 papieros (cygar) : sigar  
 Papua Nowa Gwinea : papua nowi ginia  
 papuga : akú  
-paragon, pokwitowanie : resid  
+paragon, pokwitowanie : reside  
 Paragwaj : paraguay  
 partia : partia  
 pas, strefa : zon  
 paskal (Pa) : paskal  
+pasować : maca  
 pasta : paste  
 patelnia : tawa  
 patrzeć, widzieć : wida  
@@ -1257,7 +1254,7 @@ pierdzieć : perda
 pierwszy, numer jeden : num un  
 pierwszy, początkowy : muli  
 pierś : sine  
-pierś, biust, cycek : mam  
+pierś, biust, cycek : mem  
 pierścień, pierścionek; obrączka : finger wen  
 pies : waf  
 piknik : piknike  
@@ -1309,7 +1306,6 @@ podatek, opłata : takse
 poddanie się, uległość, pokora, posłuszeństwo : islam  
 poddać się, poddawać się : salima  
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym : islamu  
-podniesiony, stojący : libi  
 podróż : safar  
 podróż, wycieczka : tur  
 podróżnik : safarer  
@@ -1364,7 +1360,8 @@ Portugalia : portugal
 porządek : ratibe  
 porządkować, organizować : ratiba  
 postawa ciała; asana : asan  
-postawić, stawiać, ustawić pionowo, ustawiać pionowo : liba  
+postawiony (stojący) : libi  
+postawić (stawiać) : liba  
 pot : swede  
 potas : kalium  
 potrzebny : nidi  
@@ -1400,7 +1397,7 @@ pracownik : werker
 practyczny, pragmatyczny : prati  
 praktyka, aktualność : prate  
 pralka : wax-maxin  
-prawdopodobnie, możliwie : munkin  
+prawdopodobnie, możliwie : posabli  
 prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
 prawo, przywilej : hake  
@@ -1421,7 +1418,7 @@ projekt, planowane przedsięwzięcie : proje
 promet : prometium  
 proroctwo : nabe  
 prorok : naber  
-prosić : cing  
+prosić : bita  
 prosty : jika  
 prosty, nieskomplikowany : simpli  
 protaktyn : protacinium  
@@ -1432,7 +1429,7 @@ przechowawca, kustosz, opiekun : hafizer
 przeciekać, ciec : lowa  
 przecinek : komá  
 przedmiot : moke  
-przedpołudnie : subá den  
+przedpołudnie : sube den  
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
 przegrać, przegrywać : luza  
@@ -1509,22 +1506,21 @@ radio : radio
 radon : radon  
 rakieta : rokete  
 Ramadan : ramazan  
-ranek, rano, poranek : subá  
+ranek, rano, poranek : sube  
 raport : reporte  
 raportować, relacjonować, opowiadać : reporta  
 rasa, narodowość : ras  
 rasista : rasiste  
 rasizm : rasistia  
 rebelia, powstanie : rebel  
-recepta, receptura, przepis : reset  
+recepta, receptura, przepis : recete  
 region : stan  
 rejestr : luge  
 religia, wyznanie : din  
 ren : renium  
-renifer, karibu : karibú  
 reprezentować : wakila  
 Republika Czeska, Czechy : cehia  
-Republika Konga : brazavil kongó  
+Republika Konga : brazavil kongolia  
 Republika Macedonii, Macedonia : makedonia  
 Republika Środkowoafrykańska : beafrike  
 respekt, honor, szacunek, poważanie : onor  
@@ -1539,7 +1535,6 @@ rod : rodium
 rodak, ziomek, krajan : sem dexi  
 rodzaj, typ, styl : yang  
 rodzeństwo, brat lub siostra : saudar  
-rodzic : pamá  
 rodzina : famil  
 rodzynka : gan putaw  
 roentgen : rengenium  
@@ -1565,7 +1560,7 @@ ruch : kine
 ruchowy, kinetyczny : kini  
 rujnować, dewastwować, burzyć : haraba  
 rulon (rolka, zwój) : rul  
-rum : rom  
+rum : rum  
 Rumunia : romania  
 ruszać, przenościć, zmieniać miejsce : kina  
 rut : rutenium  
@@ -1584,7 +1579,7 @@ rzecz : xey
 rzeka : nade  
 rzodkiewka : lobak  
 rzucić, rzucać, miotać, cisnąć, ciskać : lanca  
-Rzym : roma  
+Rzym : rome  
 rządzić, władać : kratia  
 rządzić, władać : sultana  
 róg : buge  
@@ -1640,6 +1635,7 @@ sieć : nete
 sikać, szczać, oddawać mocz : pixa  
 sikh : sikiste  
 sikhizm : sikistia  
+siki : pix  
 silnik : moter  
 silny : bal  
 Singapur : singapur  
@@ -1697,21 +1693,21 @@ spód : nice
 spódnica : jupe  
 spółgłoska : konson  
 spłonąć, płonąć : jalu  
-Sri Lanka : lanká  
+Sri Lanka : lankia  
 ssak : mamal  
 ssać : cupa  
 stacja : stasia  
-stadion, arena : stadia  
+stadion, arena : estadia  
 Stany Zjednoczone Ameryki : uni stan du amerike  
 Stany Zjednoczone Ameryki : usamerike  
 Starożytny Egipt (Kemet) : kemia  
 stary, starożytny : puran  
-status, kondycja, stan : state  
+status, kondycja, stan :   
 statyczny, stacjonarny, nieruchomy : stasi  
 stać : libu  
 sterować : gida  
 sto (##) : hon  
-stop; przerwa, zatrzymanie : stope  
+stop; przerwa, zatrzymanie : ting  
 stopa : pede  
 stopień, poziom, ranga, klasa : darje  
 stopić się, topić się, stawać się płynnym : mayu  
@@ -1730,11 +1726,11 @@ suchy : gan
 suchy : suhi  
 Sudan : sudan  
 Sudan Południowy : sudi sudan  
-sugerować, proponować : teyana  
-sugestia, propozycja : teyan  
+sugerować, proponować : suja  
+sugestia, propozycja : suje  
 suma : sum  
 Surinam : surinam  
-sushi : suxí  
+sushi : suxe  
 Syberia : sibir  
 syn : man ban  
 sypialnia : son kamar  
@@ -1785,7 +1781,7 @@ słodki ziemniak : kamote
 Słowacja : slowakia  
 Słowenia : slowenia  
 słowo : lekse  
-słoń : gajá  
+słoń : gaje  
 słońce : sol  
 ##t  
 tablioca, macierz : table  
@@ -1799,6 +1795,7 @@ taktyka, strategia : tatike
 tal : talium  
 talerz : plate  
 taleta, WC : tuale  
+tam : na de  
 tamilski : tamili  
 tamten : de  
 Tanach, Biblia hebrajska : tanah  
@@ -1843,7 +1840,7 @@ tikka masala : tike masal
 tlen : okse  
 toczyć, turlać : rula  
 tofu : tofú  
-Togo : togó  
+Togo : togolia  
 tolerować : tolera  
 ton, dźwięk, nuta, tonacja : ton  
 tor : torium  
@@ -1858,6 +1855,7 @@ Trynidad i Tobago : trinida i tobago
 trzy (3) : sam  
 trzymać : tena  
 trzęsienie Ziemi : sisme  
+tu (tutaj) : na ce  
 tuba, rura : tube  
 tul : tulium  
 tulipan : tulpan  
@@ -1981,7 +1979,7 @@ wiedzieć : jana
 wiejski, rustykalny : rusti  
 wiek : umur  
 wielbłąd, wielbłądzica : gamel  
-wieprzowina : goró manse  
+wieprzowina : gurube manse  
 wiercić, borować : bora  
 wierzyć : xina  
 Wietnam : vietnam  
@@ -1993,7 +1991,7 @@ wiki : wiki
 wilk : wolfe  
 wina, grzech; defekt, wada : dox  
 winny : doxi  
-wino : win  
+wino : wain  
 winogrono : putaw  
 winyl : winil  
 wiolonczela : celó  
@@ -2105,7 +2103,7 @@ zamknąć zamkiem błyskawicznym : zipa
 zapakować, pakować : paka  
 zapisać (zarejestrować) : luga  
 zapomnieć, zapominać : bula  
-zaprosić, zapraszać : cing laya  
+zaprosić, zapraszać : bita laya  
 zaprzęc, zaprzęgać : majú  
 zapytać, pytać : ki zaman  
 zapytać, spytać, pytać : eska  
@@ -2121,11 +2119,14 @@ zastosować, stosować : aplika
 zastrzyk : juxe  
 zasłona, kurtyna : parde  
 zatkać, ztykać : ziba  
+zatrzymać : tinga  
+zatrzymać się : tingu  
 zawias, oś : xarnir  
 zawsze : mey zaman  
 zawór; kran : balbe  
 zazdrosny : jelos  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad : marka  
+zbiornik (pojemnik, rezerwuar) : tanke  
 zbiornik, cysterna : tanke  
 zbiorowy, zbiorczy : jami  
 zbudować, budować, konstruować : bina  
@@ -2158,7 +2159,7 @@ znak, sygnał : sinye
 znak, trop : marke  
 znaleźć, znajdywać, odkryć, odkrywać : eureka  
 zombie, zombi : zombe  
-zostawić, zostawiać : resta  
+zostawić, zostawiać : xuxe  
 zostać, zostawać : restu  
 zrobić (stworzyć, wykreować) : fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać : sana  
@@ -2168,8 +2169,8 @@ zupa : supe
 zwinny, sprawny : ajil  
 związać, wiązać; zapiąć, zapinać : banda  
 związek, powiązanie, połączenie : guanxe  
-zwycięstwo, wygrana : jay  
-zwyciężyć, wygrać : jaya  
+zwycięstwo, wygrana : win  
+zwyciężyć, wygrać : wina  
 zwykły, zwyczajny, prosty : sadi  
 zygzag : zigzage  
 zyskać, zyskiwać, zarobić, zarabiać : ganya  
@@ -2198,7 +2199,7 @@ zły, zrujnowany, zepsuty : harabi
 śmiać się : haha  
 śmierć : morte  
 śmieć, odpadek : laje  
-śniadanie : subá nyam  
+śniadanie : sube nyam  
 śnieg : him  
 śpiewać : canta  
 średni : medi  
@@ -2211,7 +2212,7 @@ zły, zrujnowany, zepsuty : harabi
 światło, oświetlenie : nur  
 świetny : kul  
 świeży : tazi  
-świnia : goró  
+świnia : gurube  
 świętować, imprezować : festa  
 święty : santi  
 źródło, początek, pochodzenie : asle  

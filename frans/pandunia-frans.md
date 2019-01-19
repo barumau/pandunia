@@ -3,6 +3,8 @@ abace : alphabet
 adres : avoir  
 adu : appartenir à  
 adulte : adulte  
+afrike : Afrique  
+afriki : africain  
 ajil : agile  
 akse : axe  
 akú : perroquet  
@@ -11,6 +13,8 @@ alkol : alcool
 almas : diamant  
 altar : autel  
 ama : aimer  
+amerike : Amérique  
+ameriki : américain  
 analis : analyse  
 analisa : analyser  
 anime : animation  
@@ -23,6 +27,8 @@ arbuze : melon d'eau
 are : aire (superficie)  
 arte : art  
 arter : artiste  
+asia : Asie  
+asian : asiatique  
 asle : origine  
 ##b  
 babe : chapitre  
@@ -34,6 +40,8 @@ banyu : se baigner
 ##c  
 ##d  
 ##e  
+europe : Europe  
+europi : européen  
 ##f  
 ##g  
 ##h  
@@ -66,9 +74,25 @@ tin : bidon (boîte)
 tira milke : tirer  
 toca : toucher  
 tomate : tomate  
+tunisia : Tunisie  
+turiste : touriste  
+tuze : lapin, lièvre  
 ##u  
+uranium : uranium  
 ##v  
+venesuela : Venezuela  
 ##w  
+weki : éveillé  
+wirus : virus  
+wolfe : loup  
 ##x  
+xing : étoile  
 ##y  
+yesu : Jésus  
 ##z  
+zardux : Zoroastre  
+zarduxiste : zoroastrien  
+zarduxistia : zoroastrisme  
+zombe : zombi  
+zulú : zoulou  
+zumrude : émeraude  

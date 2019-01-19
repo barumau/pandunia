@@ -7,6 +7,7 @@
 -iste : -isto de -ismo  
 -istia : -ismo  
 -u : -i (-iĝi)  
+ : stato  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -117,15 +118,13 @@ barka : gratuli
 barti : Barata  
 bartia : Baratio  
 barude : pulvo  
-barú : urso  
 bas : sufiĉa  
 basen : baseno  
-basket : korbo  
+baske : korbo  
 bat : ok (8)  
+bate : anaso  
 baton : stango  
 batre : baterio (pilo)  
-batá : anaso  
-batú : ŝtono  
 bax lojia : lingvistiko  
 bax : lingvo  
 baxa : paroli (komuniki)  
@@ -158,6 +157,8 @@ bing : malsana
 bir : biero  
 biskute : biskvito (kuketo)  
 bismute : bismuto  
+bita laya : inviti  
+bita : peti (bonvolu)  
 bixu : devi  
 bizar : stranga  
 bizi : okupata  
@@ -228,14 +229,12 @@ ci : ĉi tiu
 cile : Ĉilio  
 cimpanze : ĉimpanzo  
 cincil : ĉinĉilo  
-cing laya : inviti  
-cing : peti (bonvolu)  
+cirka : ĉirkaŭ  
 cis : fromaĝo  
 cita : citi  
 coda : fiki  
 cokolate baton : ĉokolado  
 cokolate : ĉokolado  
-cuká : vinagro  
 cula : krom (escepti)  
 cum : kiso  
 cune : printempo  
@@ -351,6 +350,7 @@ eske : demando
 eski : demanda  
 espania : Hispanio  
 esperanti : Esperanto  
+estadia : stadiono (areno)  
 estia : Estonio  
 etiopia : Etiopio  
 eurasia : Eŭrazio  
@@ -375,8 +375,8 @@ farsi : persa
 faru : rinocero  
 fas : surfaco  
 fasin : fascinado  
-fata : fari (fabriki)  
-fate : fabrikaĵo  
+fata : fari  
+fate : faro  
 fater : fabrikisto  
 fateria : fabriko  
 fati lekse : verbo  
@@ -447,7 +447,7 @@ gabre stan : tombejo
 gabre : tombo  
 gade : azeno  
 gadolinium : gadolinio  
-gajá : elefanto  
+gaje : elefanto  
 galeria : galerio (ekspozicio)  
 galium : galiumo  
 gam : emocio  
@@ -457,7 +457,7 @@ gan putaw : sekvinbero
 gan : seka  
 gang : ĵus  
 ganga : Gangoj  
-ganjá : kanabo  
+ganje : kanabo  
 ganya : akiri (gajni)  
 gar : se  
 garante : garantio  
@@ -488,8 +488,6 @@ glute : gluo
 gluten : gluteno  
 gol : celo (golo)  
 gom : kaŭĉuko  
-goró manse : porkaĵo  
-goró : porko  
 goton : kotono  
 graf : bildo  
 grafa : priskribi  
@@ -504,6 +502,8 @@ guanxe : rilato
 guatemala : Gvatemalo  
 gubú : hipopotamo  
 gun : eco  
+gurube manse : porkaĵo  
+gurube : porko  
 gurú : guruo  
 gusta : gustumi  
 guste : gusto  
@@ -623,8 +623,6 @@ janel : fenestro
 jang : milito (batalo)  
 jangal : arbaro  
 jangi : milita  
-jay : venko  
-jaya : venki  
 jebe : poŝo  
 jel : ĝelo  
 jen den : naskiĝtago  
@@ -657,12 +655,13 @@ jus : suko
 ka : kiel (ol)  
 kaca : kapti  
 kadomium : kadmio  
+kafe kan : kafejo  
+kafe kupe : kaftaso  
+kafe : kafo  
 kafi : bruna  
-kafé kan : kafejo  
-kafé kupe : kaftaso  
-kafé : kafo  
 kakaw : kakao  
 kake : feko  
+kal : nigra  
 kalam : plumo  
 kalifornium : kaliforniumo  
 kalium : kalio  
@@ -689,8 +688,7 @@ karbon : karbono
 karen : kialo  
 karena : ĉar (pro ke)  
 karibia : Karibio  
-karibú : boaco  
-karot : karoto  
+karote : karoto  
 karte : karto  
 kastan : kaŝtano  
 kastor : kastoro  
@@ -705,7 +703,6 @@ ke : kio?
 kecape : keĉupo  
 keke : kuko  
 kel : sporto  
-ken : povi  
 kenar : rando (orlo)  
 ki ren : kiu?  
 ki xey : kio?  
@@ -716,7 +713,7 @@ kilo : mil
 kitabe kan : librejo  
 kitabe maxin : tajpilo  
 kitabe : skribo  
-kiwi : kivo  
+kiwe : kivo  
 klon : klono  
 klona : kloni  
 klor : kloro  
@@ -732,6 +729,7 @@ komun : komuna
 komuniste : komunisto  
 komunistia : komunismo  
 kon : angulo  
+kong fuze : Konfuceo  
 konsida : rigardi ia  
 kontra : kontraŭ  
 kope : kopio  
@@ -797,6 +795,7 @@ luge : registro
 lun : luno  
 lutetium : lutecio  
 ##m  
+maca : kongrui  
 magia : magio  
 magnes : magnezio  
 maitnerium : mejtnerio  
@@ -805,7 +804,7 @@ mal rupi : malbonaspekta
 mal : malbona  
 malia : Malio  
 malike : jasmeno  
-mamá : patrino  
+mame : patrino  
 man : viro  
 mangan : mangano  
 manse : viando  
@@ -835,8 +834,8 @@ mazi : amuza
 medi : mezo  
 medika : sanigi (kuraci)  
 mediker : kuracisto  
-medu : mielo  
 mega : miliono  
+mel : mielo  
 melodia : melodio  
 member : membro  
 meme : ŝafo  
@@ -956,10 +955,8 @@ o : ho!
 oganeson : oganesono  
 okey : akceptebla (okej)  
 okse : oksigeno  
-omá : avino  
 onor : honoro (respekto)  
 onori : respektinda  
-opá : avo  
 orda : ordoni  
 orde : ordono  
 oseania : Oceanio  
@@ -972,7 +969,6 @@ pakse : birdo
 pal : frukto (rezulto)  
 paladium : paladio  
 palme : palmo  
-pamá : gepatro(j)  
 pan : ĉiu  
 panamia : Panamo  
 pande : pando  
@@ -980,8 +976,8 @@ pandunia : pandunia
 panike : paniko  
 pantalon : pantalonoj  
 papay : papajo  
-pape : papero  
-papá : patro  
+pape : patro  
+papir : papero  
 parce : ero  
 parde : kurteno  
 parta : partopreni  
@@ -993,6 +989,7 @@ penis : peniso
 penta : pentri  
 pepin : kukumo  
 pese : mono  
+petre : ŝtono  
 pexe : metiero  
 piano : piano  
 pifú : haŭto  
@@ -1002,7 +999,8 @@ pin : nadlo (pinglo)
 pinguin : pingveno  
 pinser : pinĉilo  
 piram : piramido  
-pixa : piso (urino)  
+pix : piso (urino)  
+pixa : pisi (urini)  
 pize : pico  
 pizeria : picejo  
 plante : planto  
@@ -1014,6 +1012,8 @@ politike : politiko
 politiker : politikisto  
 polon : polonio  
 ponta : montri  
+posa : povi  
+posabli : ebla (eble)  
 pospor : fosforo  
 poste kan : poŝtejo  
 pote : poto  
@@ -1052,6 +1052,8 @@ ren : persono
 rengenium : rentgenio  
 renium : renio  
 repa : ripeti (refari)  
+repe : ripetado  
+repi : denove (ripete)  
 restoran : restaŭracio  
 riske : risko  
 robote : roboto  
@@ -1085,7 +1087,7 @@ salam cute : bonan vojaĝon
 salam den : Bonan tagon  
 salam laye : bonvenon!  
 salam nyam : bonan apetiton!  
-salam subá : Bonan matenon!  
+salam sube : Bonan matenon!  
 salam xam : Bonan vesperon  
 salam : bona (en salutoj)  
 salame : saluto  
@@ -1126,7 +1128,7 @@ sine kase : torako
 sine : brusto  
 sing : leono  
 singapur : Singapuro  
-sirka : ĉirkaŭ  
+sirke : vinagro  
 sisme lojia : sismologio  
 sisme : tertremo  
 sistem : sistemo  
@@ -1143,13 +1145,11 @@ sonde : sono
 song : pino  
 sos : saŭco  
 sosis : kolbaso  
-stadia : stadiono (areno)  
 stan : regiono  
 stasia : stacio  
-state : stato  
 strontium : stroncio  
 suan : acida  
-subá : mateno  
+sube : mateno  
 sude : sudo  
 sukar : sukero  
 suku : ŝati  
@@ -1162,7 +1162,7 @@ supe : supo
 super : bonega  
 supra : superiri  
 supris : surprizo  
-suxí : suŝio  
+suxe : suŝio  
 suy : akvo  
 swahili : sŭahili  
 ##t  
@@ -1204,12 +1204,15 @@ teror : teroro
 teroriste : teroristo  
 teroristia : terorismo  
 teste : testo  
+ting : halto  
+tinga : haltigi  
+tingu : halti  
 tira milke : melki  
 tira : tiri  
 titan : titanio  
 to : al (ĝis, por)  
 toca : tuŝi  
-togó : Toglando  
+togolia : Toglando  
 tomate : tomato  
 ton : tono  
 tope : ĉapelo  
@@ -1237,10 +1240,12 @@ un : unu
 unia : uniono  
 uranium : uranio  
 urse : urso  
+urse : urso  
 uza : uzi  
 ##v  
 ##w  
 wada : promesi  
+wain : vino  
 wase : oazo  
 wate : vato  
 waw : ŭaŭ!  
@@ -1253,7 +1258,8 @@ werke : laboro
 wida : vidi (rigardi)  
 wil : estonte  
 wile : estonoteco  
-win : vino  
+win : venko  
+wina : venki  
 wolfe : lupo  
 ##x  
 xake : branĉo  
@@ -1285,6 +1291,7 @@ xow : montri (ekspozicii)
 xu : arbo  
 xudu : devus  
 xula : ripari  
+xule : riparo  
 xuler : riparisto  
 ##y  
 yakin : certa  

@@ -8,6 +8,7 @@
 -iste : suffix for the supporter of an idea  
 -istia : suffix for ideologies and religions  
 -u : suffix for verbs with OVS word order  
+ : status (condition, state, situation, circumstance)  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -70,7 +71,7 @@ armia : army
 arsen : arsenic  
 arte : art  
 arter : artist  
-arubá : Aruba  
+arubia : Aruba  
 asan : posture (asana)  
 asia : Asia  
 asian : Asian  
@@ -137,15 +138,14 @@ barka : congratulate (bless)
 barti : Indian  
 bartia : India  
 barude : gunpowder  
-barú : bear  
 bas : enough (sufficient)  
 basen : pool (basin)  
-basket : basket  
+baske bol : basket ball  
+baske : basket  
 bat : eight (8)  
+bate : duck  
 baton : bar (rod, stick)  
 batre : battery  
-batá : duck  
-batú : stone  
 bax lojia : linguistics  
 bax : language (communication)  
 baxa : speak (communicate)  
@@ -187,6 +187,8 @@ bir : beer
 bis : genderqueer (non-binary)  
 biskute : biscuit (cookie)  
 bismute : bismuth  
+bita laya : invite  
+bita : ask (request; please)  
 bixu : must  
 bizar : odd (strange, weird)  
 bizi : busy (occupied)  
@@ -213,7 +215,7 @@ bosnia : Bosnia and Herzegovina
 bote : boat (ship)  
 botol : bottle  
 boton : button  
-brazavil kongó : Congo (Brazzaville)  
+brazavil kongolia : Congo (Brazzaville)  
 brazilia : Brazil  
 britania : United Kingdom  
 brom : bromine  
@@ -235,7 +237,7 @@ bula : boil (cook)
 bulbul : bubble  
 bulu : boil (be boiled)  
 bunduke : gun (handheld firearm)  
-burkiná : Burkina Faso  
+burkinia : Burkina Faso  
 bus : bus  
 buste : bust (bosom)  
 butan : Bhutan  
@@ -274,15 +276,15 @@ ci : this (these)
 cile : Chile  
 cimpanze : chimpanzee  
 cincil : chinchilla  
-cing laya : invite  
-cing : ask (request; please)  
 cipia : Albania  
+cirka : surround (be around)  
+cirke : circle (round)  
+cirki : round (circular)  
 cis : cheese  
 cita : quote (cite)  
 coda : fuck (copulate)  
 cokolate baton : chocolate bar  
 cokolate : chocolate  
-cuká : vinegar  
 cula : exclude (except, save)  
 cum : kiss  
 cune : spring (springtime)  
@@ -320,6 +322,7 @@ darse bace : student (pupil)
 darse gurú : teacher  
 darse kan : school (institution)  
 darse : lesson  
+darte : soil (dirt)  
 darwiniste : Darwinist  
 darwinistia : Darwinism  
 daw : way (road)  
@@ -418,6 +421,7 @@ eske : question
 eski : interrogative  
 espania : Spain  
 esperanti : Esperanto  
+estadia : stadium (arena)  
 estia : Estonia  
 etiopia : Ethiopia  
 eurasia : Eurasia  
@@ -444,8 +448,8 @@ farsi : Persian (Farsi)
 faru : rhinoceros  
 fas : surface  
 fasin : fascination  
-fata : make (manufacture)  
-fate : product  
+fata : do (act, make, manufacture)  
+fate : deed  
 fater : maker (manufacturer, factor)  
 fateria : factory  
 fati lekse : verb  
@@ -490,6 +494,7 @@ fina : finish (put an end to)
 finger wen : finger ring  
 finger : finger (toe)  
 fini : last (final)  
+fix tanke : fish tank  
 fix : fish  
 fizike : physics  
 fiziker : physicist  
@@ -535,7 +540,7 @@ gabre : grave (tomb)
 gabun : Gabon  
 gade : donkey (ass)  
 gadolinium : gadolinium  
-gajá : elephant  
+gaje : elephant  
 galeria : gallery (exhibition hall)  
 galium : gallium  
 gam : emotion (feeling)  
@@ -548,7 +553,7 @@ gandia : Uganda
 gang : just (recently)  
 ganga : Ganges  
 gania : Ghana  
-ganjá : hemp (cannabis)  
+ganje : hemp (cannabis)  
 ganya : earn (gain)  
 gar : if (suppose, assume)  
 garante : guarantee  
@@ -585,8 +590,6 @@ glute : glue
 gluten : gluten  
 gol : goal  
 gom : rubber  
-goró manse : pork  
-goró : pig  
 goton : cotton  
 graf buke : picture book  
 graf : picture (graph, image)  
@@ -609,6 +612,8 @@ gubú : hippopotamus
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
 gung fu : kung fu  
+gurube manse : pork  
+gurube : pig  
 gurú : guru (mentor)  
 gusta : taste (sense flavor)  
 guste : taste (flavor)  
@@ -628,6 +633,7 @@ hakim : judgment (sentence)
 hakimer : judge (referee)  
 hali : empty  
 halif : caliph  
+halifia : caliphate  
 halos : halo  
 haló : hello (hi)  
 hamake : hammock  
@@ -761,8 +767,6 @@ janger : warrior (fighter)
 jangi : military  
 jani : known  
 jar : jug (jar)  
-jay : victory (win)  
-jaya : win (defeat)  
 jayer : Algeria  
 jayistia : Jainism  
 jaze : jazz  
@@ -819,10 +823,10 @@ kabin : cabin (booth)
 kaca : catch (capture, seize)  
 kadomium : cadmium  
 kafas : cage  
+kafe kan : cafe (coffee shop)  
+kafe kupe : coffee cup  
+kafe : coffee  
 kafi : brown (coffee-colored)  
-kafé kan : cafe (coffee shop)  
-kafé kupe : coffee cup  
-kafé : coffee  
 kaka : defecate (shit)  
 kakaw : cocoa  
 kake : excrement (shit)  
@@ -865,12 +869,10 @@ karen : reason (cause)
 karena : because  
 karenu : cause  
 karibia : Caribbean  
-karibú : reindeer (caribou)  
 karite : shea  
-karot : carrot  
+karote : carrot  
 karte : card  
 kartun : comic (cartoon)  
-karí : curry  
 kastan : chestnut  
 kastor : beaver  
 kata : cut  
@@ -893,7 +895,6 @@ kel : sport (athletics)
 kelele : noise  
 keler : athlete (sportsman)  
 kemia : Ancient Egypt (Kemet)  
-ken : can (know, be able)  
 kenar : border (edge, rim, fringe)  
 kene : ability (skill)  
 kenia : Kenya  
@@ -913,7 +914,7 @@ kimia : chemistry
 kina : move (transfer, change place)  
 kine : movement  
 kini : kinetic  
-kinsasa kongo : Congo Kinshasa  
+kinsasa kongolia : Congo Kinshasa  
 kioske : kiosk  
 kipris : Cyprus  
 kirate : carat  
@@ -927,7 +928,7 @@ kitaba : write
 kitabe kan : library  
 kitabe maxin : typewriter  
 kitabe : writing (text)  
-kiwi : kiwi fruit  
+kiwe : kiwi fruit  
 klar : clear (not obscured)  
 klas : class (category)  
 klasa : classify (categorize)  
@@ -942,7 +943,7 @@ koke : chicken
 kokos nesia : Cocos (Keeling) Islands  
 koká : coca  
 kola : cola  
-kolera : cholera  
+koler : cholera  
 kolombia : Colombia  
 kolona : colonize  
 koloner : colonist  
@@ -961,7 +962,10 @@ komunistia : communism
 komá : comma  
 kon : corner (angle)  
 koncung : insect  
+kong fuze : Confucious  
+kong fuzistia : Confucianism  
 kong : hole  
+kongoli : Congolese  
 konkani : Konkani  
 konsida : consider (regard)  
 konson : consonant  
@@ -1005,8 +1009,8 @@ krus : cross
 kuan : wide  
 kuang suy : mineral water  
 kuang : mineral (ore)  
+kuba : Cuba  
 kube : cube  
-kubá : Cuba  
 kuka : cook (prepare food)  
 kuke kamar : kitchen  
 kuke nesia : Cook Islands  
@@ -1033,7 +1037,7 @@ lake : lacquer (varnish)
 lala : lie (lie down)  
 lampe : lamp  
 lanca : throw (launch)  
-lanká : Sri Lanka (Ceylon)  
+lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
 larwa : larva (maggot, caterpillar)  
 lasti : elastic  
@@ -1108,8 +1112,7 @@ lutetium : lutetium
 luza : lose (fail to win)  
 luzer : loser  
 ##m  
-maca : compete (have a match)  
-mace : match (contest)  
+maca : match (fit, suit, conform)  
 madagasi : Malagasy  
 madagasia : Madagascar  
 made : matter (substance)  
@@ -1144,9 +1147,8 @@ malia : Mali
 malike : jasmine  
 malte : Malta  
 malvina nesia : Falkland Islands (Malvinas)  
-mam : breast (boob, tits)  
 mamal : mammal  
-mamá : mother (mom)  
+mame : mother (mom)  
 man ban : son  
 man rajer : king  
 man : male  
@@ -1200,6 +1202,8 @@ mayá : Maya
 maza : amuse (entertain)  
 maze : fun (amusement)  
 mazi : funny (amusing)  
+mece : compete (have a match)  
+mece : match (contest)  
 medal : medallion (medal)  
 medi : mean (medium, average)  
 media : media  
@@ -1207,11 +1211,12 @@ medika : heal (cure)
 mediker : doctor (physician, healer)  
 medikia : medicine (field of study)  
 medita : meditate (ponder)  
-medu : honey  
 mega : million (mega-)  
 megam : cloud  
+mel : honey  
 melodi : melodious (melodic)  
 melodia : melody  
+mem : breast (boob, tits)  
 memba : belong (be a member)  
 member : member (component)  
 meme : sheep  
@@ -1305,6 +1310,7 @@ mos : moss
 mosim : season  
 moskite : mosquito  
 moskovium : moscovium  
+moter sikle : motorcycle  
 moter : engine (motor)  
 mozambike : Mozambique  
 mudan : peony  
@@ -1320,7 +1326,6 @@ mumu manse : beef
 mumu : cow  
 mun : door (gate, portal)  
 mungus : mongoose  
-munkin : possibly (maybe)  
 mur pape : wallpaper  
 mur : wall  
 muritania : Mauritania  
@@ -1451,10 +1456,8 @@ okeya : accept (to say okay)
 okse : oxygen  
 olandia : Aland Islands  
 oman : Oman  
-omá : grandmother  
 onor : respect (honor, esteem)  
 onori : honorable (respectable)  
-opá : grandfather  
 orda : order (issue a command)  
 orde : order (command)  
 orgazme : orgasm  
@@ -1478,7 +1481,6 @@ pal : fruit
 paladium : palladium  
 palaw : Palau  
 palme : palm tree  
-pamá : parent  
 pan : all  
 panafriki : pan-African  
 panameriki : pan-American  
@@ -1491,9 +1493,9 @@ panike : panic
 panjabi : Punjabi  
 pantalon : pants (trousers)  
 papay : papaya  
-pape : paper  
+pape : father  
+papir : paper  
 papua nowi ginia : Papua New Guinea  
-papá : father  
 par : equal (peer)  
 paraguay : Paraguay  
 parca : shatter (break into pieces)  
@@ -1533,6 +1535,7 @@ permis : permission
 permisa : allow (permit)  
 perú : Peru  
 pese : money  
+petre : stone  
 pexe : profession (occupation)  
 pey : payment  
 peya : pay  
@@ -1555,7 +1558,8 @@ piram : pyramid
 pirater : pirate  
 pistol : pistol  
 pitkerne : Pitcairn  
-pixa : piss (urine)  
+pix : piss (urine)  
+pixa : piss (urinate)  
 pize : pizza  
 pizeria : pizzeria  
 plan : plan  
@@ -1590,6 +1594,8 @@ porne grafia : pornography
 porne : porn  
 porta : carry (bear)  
 portugal : Portugal  
+posa : can (know, be able)  
+posabli : possible (possibly, maybe, perhaphs)  
 pospor : phosphorus  
 posta : send by mail  
 poste cape : postal stamp  
@@ -1657,6 +1663,7 @@ ratibe : order (arrangement)
 razon : reason (rational thinking)  
 razoni : radional (reasonable)  
 rebel : rebellion  
+recete : instructions (recipe)  
 reda : prepare (make ready)  
 redi : ready  
 rege : sand  
@@ -1666,11 +1673,11 @@ rengenium : roentgenium
 renium : rhenium  
 repa : repeat  
 repe : repetition (rep)  
+repi : again (repeatedly)  
 reporta : report (recount, relate)  
 reporte : report  
-reset : recipe  
-resid : receit  
-resta : rest (relief)  
+resida : acknowledge  
+reside : receipt (acknowledgement)  
 reste : rest (remainder)  
 restoran : restaurant  
 restu : remain (stay)  
@@ -1690,13 +1697,12 @@ rokete : rocket
 rol : role  
 rola : act (play a role)  
 roler : actor (actress)  
-rom : rum  
-roma empiria : Roman Empire  
-roma : Rome  
 romania : Romania  
 romansa : love romantically  
 romanse : romantic love  
 romansi : romantic  
+rome : Rome  
+romi empiria : Roman Empire  
 rona : cry (weep)  
 rong : oriental dragon  
 rose : dew  
@@ -1710,6 +1716,7 @@ ruke sake : backpack (rucksack)
 ruke : back  
 rul : roll (scroll, coil)  
 rula : roll (wrap in)  
+rum : rum  
 rundia : Burundi  
 rupe : appearance (looks)  
 rusi : Russian  
@@ -1742,7 +1749,7 @@ salam cute : farewell
 salam den : Good day  
 salam laye : welcome!  
 salam nyam : bon appetit!  
-salam subá : Good morning  
+salam sube : Good morning  
 salam xam : Good evening  
 salam : good (in greetings)  
 salama : greet  
@@ -1756,7 +1763,7 @@ saman : sky (heaven)
 samani : celestial (heavenly)  
 samarium : samarium  
 samoa : Samoa  
-sana : make (produce, manufacture)  
+sana : produce (create, make)  
 sanduke : box (chest)  
 sang : blood  
 sani bax : artificial language (conlang)  
@@ -1815,6 +1822,7 @@ sifi : descriptive
 sigar : cigarette (cigar)  
 sikiste : Sikh  
 sikistia : Sikhism  
+sikle : bike  
 silike : silicon  
 silsil : chain  
 simpli : simple (not complicated)  
@@ -1824,9 +1832,7 @@ sing : lion
 singapur : Singapore  
 sinye : sign (signal)  
 sir : secret  
-sirka : surround (be around)  
-sirke : circle (round)  
-sirki : round (circular)  
+sirke : vinegar  
 sis : six (6)  
 sisme lojia : seismology  
 sisme : earthquake  
@@ -1858,24 +1864,23 @@ song : pine tree
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
-stadia : stadium (arena)  
 stan : region  
 stasa : stand still  
 stasi : static (stationary)  
 stasia : station  
-state : status (condition, state)  
-stope : stop  
 strontium : strontium  
 suan : sour  
-subá den : forenoon  
-subá nyam : breakfast  
-subá : morning  
+sube den : forenoon  
+sube nyam : breakfast  
+sube : morning (dawn)  
 sudafrike : South Africa  
 sudan : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
 sudi sudan : South Sudan  
 suhi : dry  
+suja : suggest (propose)  
+suje : suggestion (proposal)  
 suka : please (delight, make happy)  
 sukar : sugar  
 sukari : sugary (sweet)  
@@ -1900,7 +1905,7 @@ supris : surprise
 suria : Syria  
 surinam bax : Sranan Tongo  
 surinam : Suriname  
-suxí : sushi  
+suxe : sushi  
 suy rang : watercolor  
 suy : water  
 swahili : Swahili  
@@ -1933,6 +1938,7 @@ tan : self
 tanah : Tanakh (Jewish Bible)  
 tani : personal (intimate, private)  
 tanke : tank (container)  
+tanke : tank (reservoir)  
 tantalum : tantalum  
 tanzania : Tanzania  
 tape : tap (stopper)  
@@ -1972,8 +1978,6 @@ teror : terror
 teroriste : terrorist  
 teroristia : terrorism  
 teste : test (challenge, trial)  
-teyan : suggestion (proposal)  
-teyana : suggest (propose)  
 teza : argue (claim)  
 teze : argument (thesis)  
 ticin : bow instrument (violin, etc.)  
@@ -1982,6 +1986,9 @@ tike : tikka (piece)
 tikete : ticket  
 tim : team  
 tin : can (tin can)  
+ting : stop  
+tinga : stop (halt)  
+tingu : stop (halt)  
 tira milke : milk (draw milk)  
 tira : pull  
 tiran : tyrant  
@@ -1990,7 +1997,8 @@ titan : titanium
 to : to (till, until, for)  
 toca : touch  
 tofú : tofu  
-togó : Togo  
+togoli : Togolese  
+togolia : Togo  
 tolera : tolerate  
 tolo : top (spinning top)  
 tomate : tomato  
@@ -2051,6 +2059,7 @@ uranium : uranium
 urdun : Jordan  
 urdú : Urdu  
 urse : bear  
+urse : bear  
 uruguay : Uruguay  
 usamerike : United States of America  
 usameriki samoa : American Samoa  
@@ -2069,6 +2078,7 @@ volta : volt (V)
 ##w  
 wada : promise (commit)  
 waf : dog  
+wain : wine  
 wakila : represent  
 waksin : vaccine  
 walis i futuna nesia : Wallis and Futuna Islands  
@@ -2096,7 +2106,6 @@ way : outside (exterior)
 waze : vase (pot, bin, jar, jug)  
 weka : wake (make awake)  
 weki : awake  
-wen : circle (ring)  
 werka : work  
 werke : work (job, task)  
 werker : worker  
@@ -2112,7 +2121,8 @@ wil : will (in future)
 wildi : wild (savage)  
 wile : future time  
 wiman : airplane  
-win : wine  
+win : victory (win)  
+wina : win (defeat)  
 wing : wing  
 winil : vinyl  
 wirus lojia : virology  
@@ -2124,7 +2134,6 @@ wolfe : wolf
 xakal : jackal  
 xake : branch (bough)  
 xal : scarf (shawl)  
-xalé : cottage (chalet)  
 xam den : afternoon  
 xam nyam : dinner  
 xam : evening  
@@ -2165,6 +2174,7 @@ xudu : should (ought)
 xula : repair (fix)  
 xule : repair (fix)  
 xuler : repairer  
+xuxe : rest (relief)  
 ##y  
 yada : remember (recall)  
 yade : memory (recollection)  
@@ -2216,7 +2226,7 @@ zaye : presence (existence)
 ze : from (since)  
 zebre : zebra  
 zem dow : peanut (groundnut)  
-zem : earth (ground, soil)  
+zem : earth (ground)  
 zemia : Earth (Terra)  
 ziba : plug (stop with a plug)  
 zibula : unplug (uncork)  

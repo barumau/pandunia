@@ -52,7 +52,7 @@ amuzo : maze
 analizi : analisa  
 analizo : analis  
 ananaso : nanas  
-anaso : batá  
+anaso : bate  
 Andoj : andes  
 angla : engli  
 angulo : kon  
@@ -84,8 +84,6 @@ astmo : asma
 atako : atake  
 atendi : denga  
 atomo : atom  
-avino : omá  
-avo : opá  
 avokado : awakate  
 azeno : gade  
 azia : asian  
@@ -149,7 +147,6 @@ biskvito (kuketo) : biskute
 bismuto : bismute  
 blanka : bay  
 blua : nil  
-boaco : karibú  
 bobelo : bulbul  
 bojkoto : boikote  
 boli : bulu  
@@ -160,7 +157,7 @@ bombono : kande
 bona (en salutoj) : salam  
 bona : bon  
 bonan apetiton! : salam nyam  
-Bonan matenon! : salam subá  
+Bonan matenon! : salam sube  
 Bonan tagon : salam den  
 Bonan vesperon : salam xam  
 bonan vojaĝon : salam cute  
@@ -220,6 +217,7 @@ demografio : demó grafia
 demokratio : demó kratia  
 demono : demon  
 demono : guy  
+denove (ripete) : repi  
 dentbroso : dante brox  
 dentisto : dante mediker  
 dento : dante  
@@ -253,6 +251,7 @@ dubnio : dubnium
 dubo : dute  
 duŝo : dux  
 ##e  
+ebla (eble) : posabli  
 eco : gun  
 edzigi : mara  
 egala : egal  
@@ -264,7 +263,7 @@ ekrano : ekran
 ekstero : way  
 Ekvadoro : ekuador  
 ekzemplo : misal  
-elefanto : gajá  
+elefanto : gaje  
 elekti : cunza  
 elekto : cunze  
 elektra : eletri  
@@ -302,7 +301,6 @@ eŭropio : europium
 Eŭropo : europe  
 ##f  
 fabo aŭ pizo : dow  
-fabrikaĵo : fate  
 fabrikisto : fater  
 fabriko : fateria  
 facila : izi  
@@ -314,7 +312,8 @@ fantaci : fantaza
 fantazia : fantazi  
 fantazio : fantaze  
 fantomo : fantom  
-fari (fabriki) : fata  
+fari : fata  
+faro : fate  
 fascinado : fasin  
 fasono : mode  
 faŝismo : faxistia  
@@ -395,7 +394,6 @@ gazeto : habar gazete
 gazo : gaze  
 geedzeco : maria  
 genro : jinse  
-gepatro(j) : pamá  
 germaniumo : germanium  
 gitaro : gitar  
 glacia : isi  
@@ -424,6 +422,9 @@ Gvatemalo : guatemala
 hafnio : hafnium  
 Haitio : haitia  
 halo : halos  
+halti : tingu  
+haltigi : tinga  
+halto : ting  
 hamako : hamake  
 harmonia : harmoni  
 harmonio : harmonia  
@@ -481,7 +482,7 @@ insulto : ninde
 interesa : interes  
 interkonsento (amen) : amen  
 interŝanĝi : badala  
-inviti : cing laya  
+inviti : bita laya  
 io : koy xey  
 Irakio : irakia  
 Iranio : iran  
@@ -520,9 +521,9 @@ juĝisto : hakimer
 juĝo : hakim  
 ##k  
 kadmio : kadomium  
-kafejo : kafé kan  
-kafo : kafé  
-kaftaso : kafé kupe  
+kafejo : kafe kan  
+kafo : kafe  
+kaftaso : kafe kupe  
 kaj : i  
 kajero : note buke  
 kakao : kakaw  
@@ -534,7 +535,7 @@ kalkuli : hisaba
 kalkulo : hisabe  
 Kamboĝo : kambudia  
 kamelo : gamel  
-kanabo : ganjá  
+kanabo : ganje  
 kanalo : kanal  
 kangaro : kanguru  
 kanonisto : kanoner  
@@ -547,7 +548,7 @@ kapti : kaca
 karateo : karate  
 karbono : karbon  
 Karibio : karibia  
-karoto : karot  
+karoto : karote  
 karto : karte  
 kartuno : anime  
 kasko : helme  
@@ -567,7 +568,7 @@ kio? : ke
 kio? : ki xey  
 kiso : cum  
 kiu? : ki ren  
-kivo : kiwi  
+kivo : kiwe  
 klavaro : buton ban  
 klavo : buton  
 kloni : klona  
@@ -600,13 +601,15 @@ komunisto : komuniste
 koncentri : fokusa  
 koncentriĝo : fokus  
 kondiĉo (postulo) : xarte  
+Konfuceo : kong fuze  
+kongrui : maca  
 konscia : budi  
 konstrui : bina  
 kontraŭ : kontra  
 kontroli : ceka  
 kopernicio : kopernikium  
 kopio : kope  
-korbo : basket  
+korbo : baske  
 korno : korne  
 koro : xim  
 korpa : badani  
@@ -740,7 +743,7 @@ masko : maske
 maso : mas  
 matematikisto : matiker  
 matematiko : matike  
-mateno : subá  
+mateno : sube  
 matura (plenkreska) : matur  
 maŝino : maxin  
 mejtnerio : maitnerium  
@@ -760,7 +763,7 @@ mezo : medi
 mezuro : metre  
 mi : mi  
 mia : mi da  
-mielo : medu  
+mielo : mel  
 migdalo : badam  
 mikro- : mikro  
 miksi : mixa  
@@ -824,6 +827,7 @@ newtono (N) : nuton
 neĝo : him  
 ni : mimen  
 ni faru... : haida  
+nigra : kal  
 nihonio : niponium  
 Nikaragvo : nikaragua  
 nikelo : nikel  
@@ -881,7 +885,7 @@ pano : nan
 pantalonoj : pantalon  
 papago : akú  
 papajo : papay  
-papero : pape  
+papero : papir  
 paroli (komuniki) : baxa  
 paroli : loga  
 parolo (vortoj) : loge  
@@ -890,8 +894,8 @@ parto (frakcio) : fen
 partopreni : parta  
 pastro : din gurú  
 pato : tawa  
-patrino : mamá  
-patro : papá  
+patrino : mame  
+patro : pape  
 peniso : penis  
 pensi : fikra  
 penso : fikre  
@@ -899,7 +903,7 @@ pentri : penta
 perlo : jenjú  
 persa : farsi  
 persono : ren  
-peti (bonvolu) : cing  
+peti (bonvolu) : bita  
 pia : darmi  
 piano : piano  
 picejo : pizeria  
@@ -913,7 +917,8 @@ pino : song
 pinĉilo : pinser  
 pipro : pimente  
 piramido : piram  
-piso (urino) : pixa  
+pisi (urini) : pixa  
+piso (urino) : pix  
 piĝino : pijin  
 plado : tas  
 planto : plante  
@@ -937,12 +942,12 @@ ponardo : kanjar
 popolo : demó  
 porcio (dozo) : doze  
 pordo : mun  
-porkaĵo : goró manse  
-porko : goró  
+porkaĵo : gurube manse  
+porko : gurube  
 posteno : asan  
 posttagmeze : xam den  
 poto : pote  
-povi : ken  
+povi : posa  
 poŝo : jebe  
 poŝtejo : poste kan  
 pravigi : saha  
@@ -1009,6 +1014,8 @@ ringo : finger wen
 rinocero : faru  
 ripari : xula  
 riparisto : xuler  
+riparo : xule  
+ripetado : repe  
 ripeti (refari) : repa  
 risko : riske  
 rivero : nade  
@@ -1093,9 +1100,9 @@ spiro : nafas
 sporto : kel  
 sputi : tuka  
 stacio : stasia  
-stadiono (areno) : stadia  
+stadiono (areno) : estadia  
 stango : baton  
-stato : state  
+stato :   
 stelo : xing  
 stiri : gida  
 stranga : bizar  
@@ -1115,7 +1122,7 @@ supo : supe
 surfaco : fas  
 surprizo : supris  
 suĉi : cupa  
-suŝio : suxí  
+suŝio : suxe  
 sŭahili : swahili  
 ##t  
 tabako : tabake  
@@ -1163,7 +1170,7 @@ tio kio : jo
 tiri : tira  
 titanio : titan  
 tiu : di  
-Toglando : togó  
+Toglando : togolia  
 tomato : tomate  
 tombejo : gabre stan  
 tombo : gabre  
@@ -1199,7 +1206,7 @@ universala : putong
 unu : un  
 uranio : uranium  
 urbo : site  
-urso : barú  
+urso : urse  
 urso : urse  
 utila : faidi  
 utileco : faide  
@@ -1212,8 +1219,8 @@ vato : wate
 vazo (florpoto) : pul waze  
 vazo : waze  
 veni : laya  
-venki : jaya  
-venko : jay  
+venki : wina  
+venko : win  
 venti : fonga  
 vento : fong  
 ventro : fubú  
@@ -1232,9 +1239,9 @@ viando : manse
 vico : rade  
 vidi (rigardi) : wida  
 vilaĝo : ruste  
-vinagro : cuká  
+vinagro : sirke  
 vinbero : putaw  
-vino : win  
+vino : wain  
 vintro : xite  
 violonĉelo : celó  
 virino : matur fem  
@@ -1288,7 +1295,7 @@ zuluo : zulú
 ĉielo : saman  
 ĉimpanzo : cimpanze  
 ĉinĉilo : cincil  
-ĉirkaŭ : sirka  
+ĉirkaŭ : cirka  
 ĉiu : pan  
 ĉiu(j) : mey  
 ĉokolado : cokolate  
@@ -1313,7 +1320,7 @@ zuluo : zulú
 ŝteli : cura  
 ŝtelisto : curer  
 ŝtelo : cur  
-ŝtono : batú  
+ŝtono : petre  
 ŝtormo : tafun  
 ŝtrumpo : soke  
 ŝuistejo : sapateria  
