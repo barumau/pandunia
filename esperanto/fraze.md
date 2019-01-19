@@ -77,10 +77,10 @@ Mi estas Tomaso.
 Vi povas konigi vin dirante **mi**
 kaj vian nomon. Oni ne bezonas verbon por diri tion pandunie!
 
-**mi salama mamá.**
+**mi salama mame.**
 Mi salutas patrinon.
 
-**mi salama papá.**
+**mi salama pape.**
 Mi salutas patron.
 
 La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
@@ -89,10 +89,10 @@ normala vortordo en pandunio estas subjekto-verbo-objekto.
 **sara salama tomas.**
 Sara salutas Tomason.
 
-**salam mamá!**
+**salam mame!**
 Saluton, patrino!
 
-**salam papá!**
+**salam pape!**
 Saluton, patro!
 
 <small>Etimologio. **mi**
@@ -398,15 +398,15 @@ Ili manĝas pomojn.
 Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto
 kiel **aple** indikas unu aŭ multajn pomojn.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 Ĉu vi trinkas kafon?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 Mi trinkas kafon.
 
 Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 Mi manĝas kafon kaj panon.
 
 ### wol <small>voli</small>
@@ -420,12 +420,12 @@ Kion vi volas manĝi?
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 Mi volas trinki kafon.
 
 **eska tu wol nyama ca?**
 Ĉu vi volas trinki teon?  
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu wol ki aple?**
@@ -449,7 +449,7 @@ Noto: Faru mallongajn petojn forlasante la pronomojn.
 **cing nyama ca.**
 Bonvolu trinki teon!
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Bonvolu trinki kafon!
 
 **cing laya dom.**
@@ -744,7 +744,7 @@ Mi loĝas en Singapuro.
 **ken** scipovi <small>(angla _can_)</small>  
 **keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
 **lay** veni <small>(vjetnama _lai_)</small>  
-**mamá** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
+**mame** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
 **man** viro <small>(angla _man_)</small>  
 **mana** signifi <small>(sŭahila _maana_)</small>  
 **mi** mi <small>(kartvela _mi_ მე)</small>  
@@ -753,7 +753,7 @@ Mi loĝas en Singapuro.
 **no** ne <small>(hispana _no_)</small>  
 **noce** nokto <small>(hispana _noche_)</small>  
 **nyama** manĝi, trinki <small>(hispana _ñam_)</small>  
-**papá** patro <small>(rusa _papa_ папа)</small>  
+**pape** patro <small>(rusa _papa_ папа)</small>  
 **ren** persono <small>(mandarenĉina _rén_ 人)</small>  
 **ros** ruĝa <small>(bangla _ros_)</small>  
 **safara** vojaĝi <small>(araba _safar_ سفر)</small>  

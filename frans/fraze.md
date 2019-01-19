@@ -72,7 +72,7 @@ et votre prénom ; le verbe "être" est optionel.
 **mi salama ma.**
 Je salue la mère.
 
-**mi salama papá.**
+**mi salama pape.**
 Je salue le père.
 
 Le mot **salam**
@@ -83,10 +83,10 @@ L'ordre des mots en Pandunia est sujet-verbe-objet.
 **sara salama tomas.**
 Sara salue Thomas.
 
-**salam mamá!**
+**salam mame!**
 Salutations, mère ! | Salut maman !
 
-**salam papá!**
+**salam pape!**
 Salutations, père ! | Salut papa !
 
 <small>Étymologie : **mi**
@@ -307,7 +307,7 @@ C'est rouge.
 
 ### da <small>possessif</small>
 
-**ye si mi da mamá.**
+**ye si mi da mame.**
 C’est ma mère.
 
 **ye si mi da man.**
@@ -455,16 +455,16 @@ Ils/elles mangent des pommes.
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple**
 peut signifier une ou plusieurs pommes.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 Est-ce que tu bois du café ?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 Je bois du café.
 
 Astuce : Le sens de **nyama**
 regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 Je prends mon café avec du pain.
 
 
@@ -479,12 +479,12 @@ _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 Je veux boire un café.
 
 **eska tu wol nyama ca?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **tu wol ki aple?**
@@ -510,7 +510,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **cing nyama ca.**
 Un thé, s’il vous plait !
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Un café, s’il vous plait!
 
 **cing laya dom.**
@@ -863,10 +863,10 @@ Il/elle ne veut pas me le donner.
 
 ### toma <small>prendre, avoir/recevoir</small>
 
-**mi toma un kafé.**
+**mi toma un kafe.**
 Je vais prendre un café.
 
-**cing toma un kafé to mi.**
+**cing toma un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
 **tu pas toma pese ze mi.**
@@ -1005,7 +1005,7 @@ Liste de mots
 Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde.
 Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez.
 Habituellement, un mot en pandunia est partagé par plusieurs langues.
-Par exemple, **mamá** et **papá** sont connus dans des centaines de langues.
+Par exemple, **mame** et **pape** sont connus dans des centaines de langues.
 Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 
 
@@ -1040,7 +1040,7 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **ken** pouvoir <small>(Anglais _can_)</small>  
 **keci** poli <small>(Mandarin _kèqi_ 客气)</small>  
 **lay** venir <small>(Vietnamien _lay_)</small>  
-**mamá** maman <small>(Mandarin _māma_ 妈妈)</small>  
+**mame** maman <small>(Mandarin _māma_ 妈妈)</small>  
 **man** homme <small>(Anglais _man_)</small>  
 **mena** signifier, vouloir dire <small>(Swahili _maana_)</small>  
 **mi** je, me <small>(Swahili _mimi_)</small>  
@@ -1050,7 +1050,7 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **noce** nuit <small>(Espagnol _noche_)</small>  
 **nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
 **nyama** manger, boire <small>(Turc _yemek_)</small>  
-**papá** papa <small>(Russe _papa_ папа)</small>  
+**pape** papa <small>(Russe _papa_ папа)</small>  
 **ren** personne <small>(Mandarin _rén_ 人)</small>  
 **ros** rouge <small>(Italien _rosso_)</small>  
 **li** ceci, cela <small>(créole haïtien _li_)</small>  

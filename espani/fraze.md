@@ -84,10 +84,10 @@ Yo soy Tomás.
 En pandunia puedes presentarte a ti mismo simplemente diciendo **mi** y tu
 nombre, no necesitas un verbo para eso.
 
-**mi salama mamá.**
+**mi salama mame.**
 Yo saludo a mamá.
 
-**mi salama papá.**
+**mi salama pape.**
 Yo saludo a papá.
 
 La palabra **salam** es un sustantivo y **salama** es el verbo correspondiente.
@@ -96,10 +96,10 @@ El orden básico de las palabras en pandunia es sujeto-verbo-objeto.
 **sara salama tomas.**
 Sara saluda a Tomás.
 
-**salam mamá!**
+**salam mame!**
 ¡Saludos, mamá!
 
-**salam papá!**
+**salam pape!**
 ¡Saludos, papá!
 
 <small>Etimología. **mi** viene del inglés: me, español: mí/mi, italiano: mi,
@@ -421,17 +421,17 @@ Nota: A diferencia del español, pandunia no tiene formas separadas de singular
 y plural. Por lo tanto una palabra como **apel** puede referirse a una o más
 manzanas.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 ¿Bebes café?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 Yo bebo café.
 
 Ayuda: El significado de **nyama** cubre tanto comer y beber. Puede parecer
 raro al inicio, pero pronto verás que es bastante útil. Normalmente el
 objeto del verbo dice si se trata de comer, beber o ambos.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 Estoy tomando café y pan.
 
 ### wol <small>querer, gustar (deseo)</small>
@@ -445,12 +445,12 @@ Estoy tomando café y pan.
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 Quiero beber café.
 
 **eska tu wol nyama ca?**
 ¿Te gustaría beber té? 
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 No, no quiero té. Quiero café.
 
 **tu wol ki aple?**
@@ -474,7 +474,7 @@ Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 **cing nyama ca.**
 Por favor, bebe/beban té.
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Por favor, bebe/beban café.
 
 **cing laya dom.**
@@ -797,10 +797,10 @@ Le doy un libro a ellos/as.
 
 ### toma <small>tomar (de agarrar, sujetar)</small>
 
-**mi toma un kafé.**
+**mi toma un kafe.**
 Voy a tomar un café.
 
-**cing toma un kafé to mi.**
+**cing toma un kafe to mi.**
 Por favor toma un café para mí.
 
 **tu pas toma pese ze mi.**
@@ -922,7 +922,7 @@ What's new?
 
 ## Lista de palabras
 
-<!-- XXX FIXME 2018-12-19: ma/mamá y pa/papá: ambas formas están permitidas
+<!-- XXX FIXME 2018-12-19: ma/mame y pa/pape: ambas formas están permitidas
 pero no está explicado. Marcos Cruz -->
 
 <!-- XXX TODO 2018-12-19: Proponer quitar esta sección, para centralizar los
@@ -959,7 +959,7 @@ lista de palabras como ejemplo.
 **helpa** ayudar, asistir <small>(Inglés _help_)</small>  
 **i** y <small>(Polaco _i_)</small>  
 **jan** saber <small>(Hindi _jānnā_ जानना)</small>  
-**kafé** café <small>(Alemán _Kaffee_)</small>  
+**kafe** café <small>(Alemán _Kaffee_)</small>  
 **kal** negro <small>(Hindi काला _kāla_)</small>  
 **kata** cortar <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** ¿qué? ¿quién? <small>(Español _qué_)</small>  
@@ -967,7 +967,7 @@ lista de palabras como ejemplo.
 **keci** el ser cortés <small>(Mandarín _kèqi_ 客气)</small>  
 **eska** preguntar <small>(Haitian _èske_)</small>  
 **laya** venir <small>(Vietnamita _lai_)</small>  
-**mamá** madre <small>(Mandarín _māma_ 妈妈)</small>  
+**mame** madre, mamá <small>(Mandarín _māma_ 妈妈)</small>  
 **man** hombre <small>(Inglés _man_)</small>  
 **mena** significar <small>(Suajili _maana_)</small>  
 **mi** Yo, me, le <small>(Suajili _mimi_)</small>  
@@ -976,7 +976,7 @@ lista de palabras como ejemplo.
 **nida** necesitar <small>(Inglés _need_)</small>  
 **no** no <small>(Español _no_)</small>  
 **noce** noche <small>(Español _noche_)</small>  
-**papá** padre, papá <small>(Ruso _papa_ папа)</small>  
+**pape** padre, papá <small>(Ruso _papa_ папа)</small>  
 **ren** persona <small>(Mandarín _rén_ 人)</small>  
 **ros** rojo <small>(Italiano _rosso_)</small>  
 **safar** viaje <small>(Árabe _safar_ سفر)</small>  

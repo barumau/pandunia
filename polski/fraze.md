@@ -72,10 +72,10 @@ Ja jestem Tomasza.
 Możesz się przedstwiać po prostu mówiąc **mi**
 a następnie twoje imię. W Panduni nie potrzebujesz do tego czasownika!
 
-**mi salama mamá.**
+**mi salama mame.**
 Ja pozdrawiam matkę.
 
-**mi salama papá.**
+**mi salama pape.**
 Ja pozdrawiam ojca.
 
 Słowo **salam**
@@ -85,10 +85,10 @@ odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Pandunia to po
 **sara salama tomas.**
 Sara pozdrawia Tomasza.
 
-**salam mamá!**
+**salam mame!**
 Cześć, mamo!
 
-**salam papá!**
+**salam pape!**
 Cześć, tato!
 
 <small>Etymologia. **mi**
@@ -424,16 +424,16 @@ Jedzą jabłka.
 Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **aple**
 mogą się odnosić do jednego lub większej liczby jabłek.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 Czy pijesz kawę?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 Piję kawę.
 
 Porada: Znaczenie **nyama**
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 Spożywam kawę i chleb.
 
 
@@ -449,13 +449,13 @@ Co chcesz zjeść?
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
 nie zmienia szyku zdania.
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 Chcę pić kawę.
 
 **eska tu wol nyama ca?**
 Czy chcesz napić się herbaty?
 
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
 **tu wol ki aple?**
@@ -482,7 +482,7 @@ Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 **cing nyama ca.**
 Proszę, napij się herbaty!
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Proszę, napij się kawy!
 
 **cing laya dom.**
@@ -849,10 +849,10 @@ Nie chce dać mi tego.
 
 ### toma <small>brać, dostawać</small>
 
-**mi toma un kafé.**
+**mi toma un kafe.**
 Wezmę kawę.
 
-**cing toma un kafé to mi.**
+**cing toma un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
 **tu pas toma pese ze mi.**
@@ -1018,14 +1018,14 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **helpe** pomoc  
 **i** i <small>(polskie _i_)</small>  
 **jan** wiedzieć, znać <small>(Hindi _jānnā_ जानना)</small>  
-**kafé** kawa <small>(niemieckie _Kaffee_)</small>  
+**kafe** kawa <small>(niemieckie _Kaffee_)</small>  
 **kal** czarny <small>(hindi काला _kāla_)</small>  
 **kata** ciąć <small>(hindi ‎_kāṭnā_ काटना)</small>  
 **ke** co? kto? <small>(hiszpańskie _qué_)</small>  
 **ken** móc, umieć <small>(angielskie _can_)</small>  
 **keci** uprzejmy, miły <small>(mandaryńskie _kèqi_ 客气)</small>  
 **lay** przybywać, przychodzić <small>(wietnamskie _lai_)</small>  
-**mamá** matka <small>(mandaryńskie _māma_ 妈妈)</small>  
+**mame** matka <small>(mandaryńskie _māma_ 妈妈)</small>  
 **man** mężczyzna <small>(angielskie _man_)</small>  
 **mena** znaczyć <small>(suahili _maana_)</small>  
 **mi** ja, mnie <small>(suahili _mimi_)</small>  
@@ -1034,7 +1034,7 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **nida** potrzebować <small>(angielkie _need_)</small>  
 **no** nie <small>(hiszpańskie _no_)</small>  
 **noce** noc <small>(hiszpańskie _noche_)</small>  
-**papá** ojciec <small>(rosyjskie _papa_ папа)</small>  
+**pape** ojciec <small>(rosyjskie _papa_ папа)</small>  
 **ren** osoba <small>(mandaryńskien _rén_ 人)</small>  
 **ros** czerwony <small>(włoskie _rosso_)</small>  
 **safar** podróż, wyprawa <small>(arabskie _safar_ سفر)</small>  

@@ -77,10 +77,10 @@ Minä olen Tomas.
 Voit esitellä itsesi helposti sanomalla vain **mi**
 ja nimesi. Panduniassa siihen ei tarvita verbiä!
 
-**mi salama mamá.**
+**mi salama mame.**
 Minä tervehdin äitiä.
 
-**mi salama papá.**
+**mi salama pape.**
 Minä tervehdin isää.
 
 Kun sanaan **salam**
@@ -90,10 +90,10 @@ Kun sanaan **salam**
 **sara salama tomas.**
 Sara tervehtii Tomasta.
 
-**salam mamá!**
+**salam mame!**
 Terve, äiti!
 
-**salam papá!**
+**salam pape!**
 Terve, isä!
 
 <small>Sanan **mi**
@@ -448,16 +448,16 @@ He syövät omenoita.
 Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **aple**
 voi tarkoittaa yhtä tai useampaa omenaa.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 Juotko kahvia?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 Minä juon kahvia.
 
 Vinkki: Sana **kana**
 sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 Minä nautin kahvia ja leipää.
 
 
@@ -473,12 +473,12 @@ Mitä haluaisit syödä?
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 Minä haluan juoda kahvia.
 
 **eska tu wol nyama ca?**
 Haluaisitko juoda teetä.
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
 **tu wol ki aple?**
@@ -504,7 +504,7 @@ Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 **cing nyama ca.**
 Juopa teetä.
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Juopa kahvia.
 
 **cing laya dom.**

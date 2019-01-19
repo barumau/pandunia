@@ -83,10 +83,10 @@ I'm Thomas.
 You can introduce yourself simply by saying **mi** and your name. You don't
 need a verb for saying it in Pandunia!
 
-**mi salama mamá.**
+**mi salama mame.**
 I greet mother.
 
-**mi salama papá.**
+**mi salama pape.**
 I greet father.
 
 The word **salam** is a noun and **salama** is the corresponding verb. The
@@ -95,10 +95,10 @@ basic word order in Pandunia is subject-verb-object.
 **sara salama tomas.**
 Sara greets Thomas.
 
-**salam mamá!**
+**salam mame!**
 Greetings, mother!
 
-**salam papá!**
+**salam pape!**
 Greetings, father!
 
 <small>Etymology. **mi**
@@ -429,17 +429,17 @@ They eat apples.
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska tu nyama kafé?**
+**eska tu nyama kafe?**
 Do you drink coffee?
 
-**mi nyama kafé.**
+**mi nyama kafe.**
 I drink coffee.
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**mi nyama kafé i nan.**
+**mi nyama kafe i nan.**
 I'm having coffee and bread.
 
 ### wol <small>want</small>
@@ -453,12 +453,12 @@ What would you like to eat?
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**mi wol nyama kafé.**
+**mi wol nyama kafe.**
 I want to drink coffee.
 
 **eska tu wol nyama ca?**
 Would you like to drink tea?  
-**no. mi no wol ca. mi wol kafé.**
+**no. mi no wol ca. mi wol kafe.**
 No, I don't want tea. I want coffee.
 
 **tu wol ki aple?**
@@ -482,7 +482,7 @@ Tip: To make direct requests, drop all the pronouns.
 **cing nyama ca.**
 Please, have some tea!
 
-**cing nyama kafé.**
+**cing nyama kafe.**
 Please, have some coffee!
 
 **cing laya dom.**
@@ -869,10 +869,10 @@ He/she doesn't want to give it to me.
 
 ### toma <small>take, get</small>
 
-**mi toma un kafé.**
+**mi toma un kafe.**
 I will take a coffee.
 
-**cing toma un kafé to mi.**
+**cing toma un kafe to mi.**
 Please take one coffee for me.
 
 **tu pas toma pese ze mi.**
@@ -997,7 +997,7 @@ What's new?
 All words of Pandunia are loan words from other languages that are spoken
 around the world.  Probably you can recognize many Pandunia words from English
 and other languages that you may know.  Usually one Pandunia word is shared by
-many languages.  For example **mamá** and **papá** are known in hundreds of
+many languages.  For example **mame** and **pape** are known in hundreds of
 languages.  However, only one source word is included in this word list as an
 example.
 
@@ -1031,7 +1031,7 @@ example.
 **helpe** help, assistance <small>(English _help_)</small>  
 **i** and <small>(Polish _i_)</small>  
 **jana** know <small>(Hindi _jānnā_ जानना)</small>  
-**kafé** coffee <small>(French _café_)</small>  
+**kafe** coffee <small>(French _café_)</small>  
 **kal** black <small>(Hindi काला _kāla_)</small>  
 **kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
 **ke** what? who? <small>(Spanish _qué_)</small>  
@@ -1039,7 +1039,7 @@ example.
 **keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
 **laya** come <small>(Vietnamese _lai_)</small>  
 **lew** already, done, completed <small>(Thai _læw_ แล้ว)</small>  
-**mamá** mother <small>(Mandarin _māma_ 妈妈)</small>  
+**mame** mother <small>(Mandarin _māma_ 妈妈)</small>  
 **man** man <small>(English _man_)</small>  
 **mena** to mean <small>(Swahili _maana_)</small>  
 **mi** I, me <small>(Swahili _mimi_)</small>  
@@ -1048,7 +1048,7 @@ example.
 **nida** need <small>(English _need_)</small>  
 **no** no, not <small>(Spanish _no_)</small>  
 **noce** night <small>(Spanish _noche_)</small>  
-**papá** father <small>(Russian _papa_ папа)</small>  
+**pape** father <small>(Russian _papa_ папа)</small>  
 **ren** person <small>(Mandarin _rén_ 人)</small>  
 **ros** red <small>(Italian _rosso_)</small>  
 **safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
