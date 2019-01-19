@@ -1,35 +1,71 @@
-# sam lil goró
+# sam lil gurube
 
 <small>"Three Little Pigs" na pandunia bax. kitabu **thethedorn**.</small>
 
-na pase law ma goró ada sam lil goró. a ye no ada bas nyam to dona to yemen. na den du yemen bas law, ye senda yemen to dunia to yemen serca se da kisme.
+na pase law mam gurube ada sam lil gurube. a ye no ada bas nyam to
+dona to yemen. na den du yemen bas law, ye senda yemen to dunia to
+yemen serca se da kisme.
 
-goró numer un multi no suku kare. ye mey no wol kara i ye bana se da dom ze suhi gras. goró numer do kara lil max, a ye plus lil no suku kare, i ye bana se da dom na xake. badu sa, yemen gana i dansa i mazu na mey den.
+gurube numer un multi no suku werke. ye mey no wol kara i ye bina se
+da dom ze suhi gras. gurube numer do kara lil max, a ye plus lil no
+suku werke, i ye bina se da dom na xake. badu de, yemen gana i dansa
+i mazu na mey den.
 
-goró numer sam tez kara na tot den, i ye bana se da dom na it. ye bal dom. ye ha fay kan i duman tubu. ye rupa kom ye ken jiwa na bal du maxim tez fung.
+gurube numer sam tez kara na tot den, i ye bina se da dom na petre. ye
+bal dom. ye ha fay kan i duman tube. ye rupa ka ye posa jiwa na bal
+du maxim bal fung.
 
-na nale, beria enda na jin du daw, jo sam goró doma. ye wida suhi gras da dom, i ye na nos nota goró, jo na in. ye fikra goró si bon nyam, i ye da boka kayxa sana su.
+na nale, wolfe enda na jin du daw, jo sam gurube doma. ye wida suhi
+gras da dom, i ye na nos nota gurube, jo na jung. ye fikra gurube si
+bon nyam, i ye da boka mulu sana suy.
 
-do ye darba mun, i loga: "lil goró! lil goró! cing mi lay in! cing mi lay in!" a lil goró wida beria da day hat na cabi kong. do ye dapa: "no! no! no!" na bada, beria wiza se da dante i loga: "do mi nafasa i mi nafasa i mi awara tu da dom!"
+wolfe darba mun, i loga: "lil gurube! lil gurube! cing mi laya jung!
+cing mi laya jung!" a lil gurube wida wolfe da day han na cabi kong.
+to ye dapa: "no! no! no!" na bada, wolfe wiza se da dante i loga:
+"to mi nafasa i mi nafasa i mi parca tu da dom!"
 
-do ye nafasa i ye nafasa i ye awara dom! beria kaya boka maxim kom ken, a goró numer un enda far, do dom du lil goró numer dua.
+to ye nafasa i ye nafasa i ye parca dom! wolfe kaya boka maxim ka ye
+posa, a gurube numer un enda far, to dom du lil gurube numer do.
 
-beria kontinu na lil daw. ye pasa dom numer dua, jo banu na mara finger. ye wida dom. ye na nos nota goró, jo na in. ye da boka kaixa bana su na dur du ye fikra yemen si bon nyam.
+wolfe kontinu na lil daw. ye pasa dom numer do, jo fatu na xake. ye
+wida dom. ye na nos nota gurube, jo na jung. ye da boka mulu bina suy
+na dur du ye fikra yemen si bon nyam.
 
-do ye darba mun, i loga: _lil goró! lil goró! cing mi lay in! cing mi lay in!_ a lil goró wida beria da konai or na cabi kong. do yemen dapa: "no! no! no!" do beria wiza se da dante i loga: "do mi nafasa i mi nafasa i mi awara tu da dom!"
+to ye darba mun, i loga: "lil gurube! lil gurube! cing mi laya jung!
+cing mi laya jung!" a lil gurube wida wolfe da konai or na cabi kong.
+to yemen dapa: "no! no! no!" to wolfe wiza se da dante i loga: "to
+mi nafasa i mi nafasa i mi parca tu da dom!"
 
-do ye nafasa i ye nafasa i ye awara dom! beria wol max kom bas, i ye proba kaca dua goró na sem sat, a ye wol max kom bas, i ye kap nul goró! ye da day boka kayulu na nul xe minus hawa. dua lil goró enda far na maximi rapide kom yemen da ped ken porta yemen.
+to ye nafasa i ye nafasa i ye parca dom! wolfe wol max ka bas, i ye
+proba kaca do gurube na sem sat, a ye wol max ka bas, i ye geta nul
+gurube! ye da day boka kayulu na nul xe minus hawa. do lil gurube
+enda far na maximi rapide ka yemen da ped posa porta yemen.
 
-beria proba kaca yemen na lil daw. ye jino kaca yemen. a yemen lay do it dom i kelelo kayula mun na pice du se na ante du beria ken kaca yemen.
+wolfe proba kaca yemen na lil daw. ye jino kaca yemen. a yemen laya
+to petre dom i kelelo kayula mun na pice du se na ante du wolfe posa
+kaca yemen.
 
-sam lil goró fobu. yemen jana beria wol nyama yemen. sa si day day wer. beria no gon nyama na tot den i max max wol nyama na dur du proba kaca goró. na sa mar ye ken nos nota tot sam yemen na in. ye jana sam lil goró si bon nyam.
+sam lil gurube fobu. yemen jana wolfe wol nyama yemen. de si day day
+fobi. wolfe no gon nyama na tot den i max max wol nyama na dur du
+proba kaca gurube. na ci mar ye posa nos nota tot sam yemen na jung.
+ye jana sam lil gurube si bon nyam.
 
-do beria darba mun, i loga: "lil goró! lil goró! cing mi lay in! cing mi lay in!" a lil goró wida beria da lil wang yen na cabi kong. do yemen dapa: "no! no! no!" do beria wiza se da dante i loga: "do mi nafasa i mi nafasa i mi awara tumen da dom!"
+to wolfe darba mun, i loga: "lil gurube! lil gurube! cing mi laya
+jung! cing mi laya jung!" a lil gurube wida wolfe da lil wang yen na
+cabi kong. to yemen dapa: "no! no! no!" to wolfe wiza se da dante i
+loga: "to mi nafasa i mi nafasa i mi parca tumen da dom!"
 
-ye nafasa i ye nafasa. ye nafasa i ye nafasa. i ye nafasa, i ye nafasa, i ye nafasa, a ye no ken awara dom. na fin, ye day fatigi nafasa. sun ye no max ken nafasa. do ye stopa por sona i ye lil fikra.
+ye nafasa i ye nafasa. ye nafasa i ye nafasa. i ye nafasa, i ye
+nafasa, i ye nafasa, a ye no posa parca dom. na fin, ye day fatigi
+nafasa. sun ye no max posa nafasa. to ye tingu to sona i ye lil
+fikra.
 
-sa si max kom bas. beria kina na wen na amuk i loga ye lay ze duman tubu i ye nyama lil goró na xam nyam. a na dur du ye enda do par du dom, lil goró kara garam garam fay i pon day ketel du su do fay. bada, na sem sat du beria enda do tal du fay kan, lil goró kaya kap... a! beria enda in du garam garam su!
+de si max ka bas. wolfe kina na wen na amuk i loga ye laya ze duman
+tube i ye nyama lil gurube na xam nyam. a na dur du ye enda to par du
+dom, lil gurube kara garmi garmi fay i pon day pote du suy to fay.
+bada, na sem sat du wolfe enda to tal du fay kan, lil gurube kaya
+pote... a! wolfe enda jung du garmi garmi suy!
 
-do lil goró pon kap to ketel. beria jalu na ketel! i sam lil goró nyama ye na xam nyam.
-
+to lil gurube pon deke to pote. wolfe jalu na pote! i sam lil gurube
+nyama ye na xam nyam.
 
