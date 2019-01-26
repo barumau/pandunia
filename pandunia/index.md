@@ -26,9 +26,9 @@ eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html
   * [dex nam](dex_nam.md)
   * [loge asle](loge_asle.md)
 * wikí
-  * [pandunia wikí](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
-  * [sani bax temu da wikí](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
-  * [max i max wikí](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
+  * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
+  * [sani bax temu da wikia](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
+  * [max i max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 
 
 
