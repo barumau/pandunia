@@ -1,98 +1,77 @@
 ##a  
-abace : alphabet  
-adres : avoir  
-adu : appartenir à  
-adulte : adulte  
-afrike : Afrique  
-afriki : africain  
-ajil : agile  
-akse : axe  
-akú : perroquet  
-ali : autre  
-alkol : alcool  
-almas : diamant  
-altar : autel  
-ama : aimer  
-amerike : Amérique  
-ameriki : américain  
-analis : analyse  
-analisa : analyser  
-anime : animation  
-anjil : évangile  
-anten : antenne  
-anus : anus  
-aple : pomme  
-aranje : oreange  
-arbuze : melon d'eau  
-are : aire (superficie)  
-arte : art  
-arter : artiste  
-asia : Asie  
-asian : asiatique  
-asle : origine  
+abace : алфавит  
+adres : иметь  
+adu : принадлежать  
+adulte : взрослый  
+ajil : подвижный  
+akse : ось  
+ali : другой (второй)  
+alkol : алкоголь  
+almar : шкаф  
+almas : алмаз (бриллиант)  
+altar : алтарь  
+ama : любить  
+analis : анализ  
+analisa : анализировать  
+anime : оживление  
+anjil : евангелие  
+anten : антенна  
+anus : анус  
+aple : яблоко  
+aranje : апельсин  
+arbuze : арбуз  
+are : площадь  
+arte : искусство  
+asle : начало (причина)  
 ##b  
-babe : chapitre  
-bagre : tigre  
-bandir : drapeau  
-banye kamar : salle de bains  
-banye : bain  
-banyu : se baigner  
+babe : глава  
+bagre : тигр  
+bandir : флаг  
+banye kamar : ванная  
+banye : купание  
+banyu : купаться  
 ##c  
 ##d  
 ##e  
-europe : Europe  
-europi : européen  
 ##f  
 ##g  
 ##h  
 ##i  
 ##j  
 ##k  
+kanjar : кинжал  
+katan : меч  
 ##l  
 ##m  
 ##n  
 ##o  
 ##p  
+papagay : попугай  
+pike : вершина  
 ##r  
 ##s  
 ##t  
-tarjum : traduction  
-tazi : frais  
-tekne lojia : technologie  
-tekne : technique  
-tele fon : téléphone  
-tele wide : téléviseur  
-tem : sujet (thème)  
-tende : tente  
-tepe : ruban (bande)  
-teroristia : terrorisme  
-teste : épreuve (test)  
-teze : argument  
-tikete : billet  
-tim : équipe  
-tin : bidon (boîte)  
-tira milke : tirer  
-toca : toucher  
-tomate : tomate  
-tunisia : Tunisie  
-turiste : touriste  
-tuze : lapin, lièvre  
+tarje : перевод  
+tas : блюдо (таз)  
+tazi : свежий  
+tekne lojia : технология  
+tele fon : телефон  
+tele wide : телевизор  
+tem : тема  
+tende : палатка (шатёр)  
+tepe : лента  
+teroristia : терроризм  
+teste : анализ (тест)  
+teze : довод  
+tikete : билет  
+tim : команда  
+tin : бляшанка  
+tira milke : тянуть  
+toca : касаться  
+tomate : помидор (томат)  
 ##u  
-uranium : uranium  
 ##v  
-venesuela : Venezuela  
 ##w  
-weki : éveillé  
-wirus : virus  
-wolfe : loup  
 ##x  
-xing : étoile  
 ##y  
-yesu : Jésus  
 ##z  
-zardux : Zoroastre  
-zarduxiste : zoroastrien  
-zarduxistia : zoroastrisme  
-zombe : zombi  
-zulú : zoulou  
-zumrude : émeraude  

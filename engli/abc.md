@@ -64,14 +64,14 @@ The stress is on the syllable, which is before the last consonant.
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     mi wol loga komun bax, ye si pandunia.
+    /mí wól lóga komún báx, yé sí pandúnia./
 
 If the stressed syllable is other than stated in the rules above, it is marked
 with the acute accent mark (´).
 
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     darse guru' suku kafe.
+    /dárse gurú  súku káfe./
 
 ## Letter Case
 

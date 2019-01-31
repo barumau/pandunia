@@ -24,10 +24,10 @@ Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
 Konsonantit
 -----------
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
-    k  g  h     ng
+    k  g  h
 
 Useimmat konsonantit äännetään kuten suomessa. Kirjainten **b, d, f, g, h, k, l, m, n, p, r, s, t** ääntäminen on tuttua ja helppoa.
 
@@ -41,7 +41,9 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
-
+- **'** on äänetön mutta se käyttäytyy konsonantin tavoin, koska sillä on
+  vaikutusta sanan painoon. Esimerkiksi sanassa **sofa'** paino on siis
+  viimeisellä tavulla.
 
 ### Sanojen painotus
 
@@ -54,13 +56,13 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     mi wol loga komun bax, ye si pandunia.
+    /mí wól lóga komún báx, yé sí pandúnia./
 
 Jos painollinen tavu poikkeaa edellä mainituista säännöistä, se merkitään etukenoisella painomerkillä (´).
 
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     darse guru' suku kafe.
+    /dárse gurú  súku káfe./
 
 
 ## Aakkoslajit

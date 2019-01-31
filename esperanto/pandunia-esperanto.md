@@ -23,7 +23,6 @@ agres : agreso
 aha : kompreni  
 ajil : lerta  
 akse : akso  
-akú : papago  
 ali jinse kami : samseksema  
 ali : alia  
 alkol : alkoholo  
@@ -40,7 +39,6 @@ amerike : Ameriko
 ameriki : amerika  
 amerikium : americio  
 amper : ampero  
-amuke : furiozo  
 analis : analizo  
 analisa : analizi  
 ande : ovo  
@@ -64,12 +62,12 @@ arsen : arseno
 arte : arto  
 arter : artisto  
 asan : posteno  
+asi : azia  
 asia : Azio  
-asian : azia  
 askete : ascetiko  
 asle : origino  
 asli : origina  
-asma : astmo  
+asme : astmo  
 aspirin : aspirino  
 atake : atako  
 atom : atomo  
@@ -92,6 +90,8 @@ badi den : morgaŭ
 badi : sekva  
 bagaje : pakaĵo  
 bagre : tigro  
+baha'iste : bahaisto  
+baha'istia : bahaismo  
 bal : forta  
 balbe : valvo (krano)  
 balde : sitelo  
@@ -123,6 +123,7 @@ basen : baseno
 baske : korbo  
 bat : ok (8)  
 bate : anaso  
+baton nur : torĉo  
 baton : stango  
 batre : baterio (pilo)  
 bax lojia : lingvistiko  
@@ -184,6 +185,7 @@ boton : butono
 brazilia : Brazilo  
 brom : bromo  
 brox : broso  
+bubul : bobelo  
 buda : kompreni  
 budan : Merkuro  
 bude : kompreno  
@@ -195,18 +197,19 @@ bujete : buĝeto
 buke : libro  
 buking : rezervo  
 bula : boligi  
-bulbul : bobelo  
+bulbul : najtingalo  
 bulu : boli  
 bunduke : fusilo  
 bus : buso  
 buton ban : klavaro  
 buton : klavo  
-buyú : baobabo  
+buyu' : baobabo  
+buze : kapro  
 ##c  
 ca : teo  
 cabe : ŝlosilo  
 cakre : rado  
-cakú : tranĉilo  
+caku' : tranĉilo  
 camce : kulero  
 campion : ĉampiono  
 cang : ofte  
@@ -221,7 +224,7 @@ cay : legomo
 caye : ombro  
 ce : ĉi tio  
 ceka : kontroli  
-celó : violonĉelo  
+celo' : violonĉelo  
 centi : centono  
 cerium : cerio  
 cesium : cezio  
@@ -251,7 +254,7 @@ cute : eliro
 da : propra (partiklo de posedo)  
 daba : respondi  
 dabe : respondo  
-dadó : ĵetkubo  
+dado' : ĵetkubo  
 dan : semo  
 dania : Danio  
 danka : danki  
@@ -265,7 +268,7 @@ darme : pieco
 darmi : pia  
 darsa : lerni (studi)  
 darse bace : studento (lernanto)  
-darse gurú : instruisto  
+darse guru' : instruisto  
 darse kan : lernejo  
 darse : leciono  
 daw : vojo  
@@ -274,11 +277,14 @@ dayxi kan : ambasado
 dayxi : ambasadoro  
 de : tio  
 deci : dekono  
+defta : registri  
+defte : registro  
+deka : kovri  
 deke : kovrilo  
+demo' grafia : demografio  
+demo' kratia : demokratio  
+demo' : popolo  
 demon : demono  
-demó grafia : demografio  
-demó kratia : demokratio  
-demó : popolo  
 den nyam : tagmanĝo  
 den : tago  
 denga : atendi  
@@ -291,7 +297,7 @@ dewi sage : mito
 dewi : dia  
 dex : lando  
 di : tiu  
-din gurú : pastro  
+din guru' : pastro  
 din : religio  
 ding : najlo  
 diske : disko  
@@ -355,11 +361,11 @@ estia : Estonio
 etiopia : Etiopio  
 eurasia : Eŭrazio  
 eureka : trovi  
+euro' : eŭro  
 europe : Eŭropo  
 europi unia : Eŭropa Unio (EU)  
 europi : Eŭropa  
 europium : eŭropio  
-euró : eŭro  
 ##f  
 faide : utileco  
 faidi : utila  
@@ -431,7 +437,7 @@ fosfor : fosforo
 foto : foto  
 fransia : Francio  
 fransium : franciumo  
-fubú : ventro  
+fubu' : ventro  
 fuka : vesti  
 fuke : vesto  
 ful : plena  
@@ -440,6 +446,7 @@ fulan : iu
 fun : polvo  
 funca : funkcii  
 furete : furo  
+furia : kolero (furiozo)  
 fute bol : piedpilko  
 fuy : bah!  
 ##g  
@@ -482,7 +489,6 @@ gida : stiri
 giga : miliardo (giga-)  
 gim : oro  
 gitar : gitaro  
-glas : vitro  
 glota : gluti  
 glute : gluo  
 gluten : gluteno  
@@ -500,15 +506,15 @@ grupe : grupo
 gua : kaverno  
 guanxe : rilato  
 guatemala : Gvatemalo  
-gubú : hipopotamo  
+gubu' : hipopotamo  
 gun : eco  
+guru' : guruo  
 gurube manse : porkaĵo  
 gurube : porko  
-gurú : guruo  
 gusta : gustumi  
 guste : gusto  
 gustu ka : gusti kiel  
-guy : demono  
+guy : ogro (trolo)  
 ##h  
 habar gazete : gazeto  
 habar : novaĵoj  
@@ -521,12 +527,12 @@ hakim : juĝo
 hakimer : juĝisto  
 hali : malplena  
 halif : kalifo  
+halo' : saluton!  
 halos : halo  
-haló : saluton!  
 hamake : hamako  
 hamar : martelo  
 hamir : feĉo  
-han : mano  
+hande : mano  
 hangogia : Sudkoreio  
 hani : mana  
 haos : kaoso (malordo)  
@@ -551,8 +557,8 @@ helpe : helpo
 hem : hm  
 hema : pripensi  
 hen : malamo  
-heró : heroo  
-herói : heroa  
+hero' : heroo  
+hero'i : heroa  
 hewan : besto  
 hibride : miksulo  
 hidre : hidrogeno  
@@ -561,8 +567,6 @@ him : neĝo
 himalia : Himalajo  
 hindiste : hinduo  
 hindistia : hinduismo  
-hisaba : kalkuli  
-hisabe : kalkulo  
 histor : historio  
 historer : historiisto  
 historia : historio (studo de historio)  
@@ -584,11 +588,11 @@ huria : libereco
 i : kaj  
 ibri : Hebrea  
 ice : voli  
-idey : ideo  
-ideyal : ideala  
-ideyaliste : idealisto  
-ideyalistia : idealismo  
-igen : opinio  
+ide : ideo  
+importi : grava  
+importu : gravi  
+inde : eno  
+indi : ena  
 indium : indio  
 indonesia : Indonezio  
 infece : infekto  
@@ -628,10 +632,10 @@ jel : ĝelo
 jen den : naskiĝtago  
 jen : nasko  
 jena : naskigi  
-jenjú : perlo  
+jenju' : perlo  
 jentil : bonkora  
 jenu : naski  
-jijú : araneo  
+jiju' : araneo  
 jin : vera  
 jinse : genro  
 jiraf : ĝirafo  
@@ -653,7 +657,7 @@ jupe : jupo
 jus : suko  
 ##k  
 ka : kiel (ol)  
-kaca : kapti  
+kace : vitro  
 kadomium : kadmio  
 kafe kan : kafejo  
 kafe kupe : kaftaso  
@@ -674,13 +678,13 @@ kamis : ĉemizo
 kamote : batato  
 kanal : kanalo  
 kande : bombono  
-kanguru : kangaro  
+kangur : kangaro  
 kanjar : ponardo  
 kanon : kanono  
 kanoner : kanonisto  
+kanu' : kanuo (kanoto)  
 kanun : lego  
-kanú : kanuo (kanoto)  
-kaputi : nefunkcia  
+kapa : kapti  
 kar : aŭto (ĉaro)  
 karate : karateo  
 karbi : proksima  
@@ -790,8 +794,6 @@ loki : loka
 long : longa  
 lowa sang : sangi  
 lowa : liki  
-luga : registri  
-luge : registro  
 lun : luno  
 lutetium : lutecio  
 ##m  
@@ -827,7 +829,7 @@ max ka bas : tro
 max : pli  
 maxim : plej  
 maxin : maŝino  
-mayá : majao  
+maya' : majao  
 maza : amuzi  
 maze : amuzo  
 mazi : amuza  
@@ -890,6 +892,7 @@ moskovium : moskovio
 moter : motoro  
 muke : vizaĝo  
 mul : komenco  
+mum nur : kandelo  
 mumia : mumio  
 mumu manse : bovaĵo  
 mumu : bovo  
@@ -909,13 +912,13 @@ na ke : kie
 nabe : profetaĵo  
 nade : rivero  
 nafas : spiro  
+naijiria : Niĝerio  
 nam : nomo  
 namibia : Namibio  
 nan : pano  
 nanas : ananaso  
 natre : natrio  
 nawati : naūatla  
-nayjiria : Niĝerio  
 nen mes den : dato  
 nen : jaro  
 neon : neono  
@@ -975,6 +978,7 @@ pande : pando
 pandunia : pandunia  
 panike : paniko  
 pantalon : pantalonoj  
+papagay : papago  
 papay : papajo  
 pape : patro  
 papir : papero  
@@ -992,7 +996,7 @@ pese : mono
 petre : ŝtono  
 pexe : metiero  
 piano : piano  
-pifú : haŭto  
+pifu' : haŭto  
 pijin : piĝino  
 pimente : pipro  
 pin : nadlo (pinglo)  
@@ -1028,6 +1032,7 @@ protacinium : protaktinio
 pul waze : vazo (florpoto)  
 pul : floro  
 pulmon : pulmo  
+pulte : ponto  
 punte : punkto  
 puran : malnova  
 puru : plumo  
@@ -1045,6 +1050,8 @@ ras : raco
 rasiste : racisto  
 rasistia : racismo  
 rastu : kreski  
+ray : opinio  
+raya : opinii  
 redi : preta  
 rege : sablo  
 regi stan : dezerto  
@@ -1071,6 +1078,7 @@ rutenium : rutenio
 ruterfordium : ruterfordio  
 rutin : rutino (kutimo)  
 ##s  
+sa : de (el, pro)  
 sabun : sapo  
 safa : purigi  
 safar : vojaĝo  
@@ -1134,8 +1142,8 @@ sisme : tertremo
 sistem : sistemo  
 site : urbo  
 skandium : skandio  
+sofa' : sofo  
 sofia : saga  
-sofá : sofo  
 soke : ŝtrumpo  
 sol sistem : sunsistemo  
 sol : suno  
@@ -1175,9 +1183,9 @@ talium : talio
 tambur : tamburo  
 tantalum : tantalo  
 tanzania : Tanzanio  
-tarjum : traduko  
-tarjuma : traduki  
-tarjumer : tradukisto  
+tarja : traduki  
+tarje : traduko  
+tarjer : tradukisto  
 tas : plado  
 tatu : tatuo  
 tawa : pato  
@@ -1252,7 +1260,8 @@ waw : ŭaŭ!
 wax-maxin : lavmaŝino  
 waxa : lavi  
 way dexia : fremda lando  
-way : ekstero  
+way : ekstera  
+waye : ekstero  
 waze : vazo  
 werke : laboro  
 wida : vidi (rigardi)  
@@ -1268,7 +1277,7 @@ xam den : posttagmeze
 xam nyam : vespermanĝo  
 xam : vespero  
 xaman : ŝamano  
-xampú : ŝampuo  
+xampu' : ŝampuo  
 xan : monto  
 xanti : trankvila  
 xari : justa  
@@ -1319,11 +1328,10 @@ zarduxistia : zoroastrismo
 zari : hazarda  
 zay den : hodiaŭ  
 zay : ĉeestanta (nuna, ekzistanta)  
-ze : de (el, pro)  
 zebre : zebro  
 zine : malfideleco  
 zinke : zinko  
+ziran : kumino  
 zirkonium : zirkonio  
-zirá : kumino  
 zon : zono  
-zulú : zuluo  
+zulu' : zuluo  
