@@ -50,6 +50,7 @@ American Samoa : usameriki samoa
 americium : amerikium  
 Amhara (an Ethiopian ethnic group and language) : amari  
 ampere : amper  
+ampoule (vial) : ampul  
 amuse (entertain) : maza  
 anal : anusi  
 analyse : analisa  
@@ -106,6 +107,7 @@ attribute (charasteristic, quality, feature, description) : sife
 August : mes 8 (mes bat)  
 Australia : australia  
 Austria : osteria  
+automobile (motorcar) : moter kar  
 autumn (fall) : oton  
 avocado : awakate  
 awake : weki  
@@ -245,14 +247,14 @@ bread : nan
 breakfast : sube nyam  
 breast (boob, tits) : mem  
 breath : nafas  
+bridge : pulte  
 bright (clear) : ming  
-broken (out of order) : kaputi  
 broken (shattered) : parci  
 bromine : brom  
 brown (coffee-colored) : kafi  
 Brunei Darussalam : bruney  
 brush : brox  
-bubble : bulbul  
+bubble : bubul  
 bucket : balde  
 Buddha : bude  
 Buddhism : budistia  
@@ -298,10 +300,11 @@ camper : kamper
 can (know, be able) : posa  
 can (tin can) : tin  
 Canada : kanadia  
+candle : mum nur  
 candy (sweets) : kande  
-cangaroo : kanguru  
+cangaroo : kangur  
 cannoneer : kanoner  
-canoe : kanú  
+canoe : kanu'  
 captain : kapitan  
 car (cart, carriage, wagon, automobile) : kar  
 carat : kirate  
@@ -316,7 +319,7 @@ cashier : kaxer
 cassava (manioc) : manioke  
 cat : maw  
 Catalonia : katalunya  
-catch (capture, seize) : kaca  
+catch (capture, seize, snatch, intercept) : kapa  
 cause : karenu  
 cave : gua  
 Cayman Islands : keyman nesia  
@@ -463,7 +466,7 @@ cough : kos
 country (land) : dex  
 countryside : rustia  
 coupon : kupon  
-cover (conceal) : kapa  
+cover (conceal) : deka  
 cover (lid, cap, deck) : deke  
 cow : mumu  
 cream : krem  
@@ -482,7 +485,7 @@ cube : kube
 cucumber : pepin  
 cultivate (farm) : nonga  
 culture : kultur  
-cumin : zirá  
+cumin : zira'  
 cup : kupe  
 cupboard (closet, cabinet, wardrobe) : almar  
 curium : kurium  
@@ -687,7 +690,6 @@ feel (sense by touch) : senta
 feel : gama  
 female : fem  
 fermium : fermium  
-fiend (evil spirit) : guy  
 fiever : feber  
 fight (war) : jang  
 figure (representation) : figur  
@@ -792,13 +794,14 @@ giraffe : jiraf
 girl : jowan fem  
 give : dona  
 give birth (procreate, generate) : jena  
-glass : glas  
+glass : kace  
 global : dunial  
 glue : glute  
 gluten : gluten  
 go back (retreat) : retra  
 go on vacation : fera  
 goal : gol  
+goat : buze  
 god (deity) : dew  
 gold : gim  
 good (in greetings) : salam  
@@ -855,7 +858,7 @@ Haiti : haitia
 halo : halos  
 hammer : hamar  
 hammock : hamake  
-hand : han  
+hand : hande  
 hang (dangle) : penda  
 happy (delighted) : suki  
 harmonius : harmoni  
@@ -949,7 +952,7 @@ illustrator (graphic artist) : grafer
 imagine (fantasize) : fantaza  
 imperialism : imperistia  
 imperialist : imperiste  
-important : muhim  
+important : importi  
 imprison (jail) : prizona  
 India : bartia  
 Indian : barti  
@@ -1189,6 +1192,7 @@ match (fit, suit, conform) : maca
 material : madi  
 mathematician : matiker  
 mathematics (math) : matike  
+matter (be important) : importu  
 matter (substance) : made  
 mattress : matras  
 mature (ripe, adult) : matur  
@@ -1336,6 +1340,7 @@ nickel : nikel
 Niger : nijer  
 Nigeria : nayjiria  
 night : noce  
+nightingale : bulbul  
 nihonium : niponium  
 nine (9) : noy  
 niobium : niobium  
@@ -1377,8 +1382,10 @@ of (particle of possession) : du
 office (bureau) : ofisia  
 office (position) : ofis  
 officer : ofiser  
+official : ofisi  
 often (frequently) : cang  
 oganesson : oganeson  
+ogre (troll, goblin) : guy  
 oh! : o  
 okay (acceptable) : okey  
 old (ancient) : puran  
@@ -1436,7 +1443,7 @@ papaya : papay
 paper : papir  
 Papua New Guinea : papua nowi ginia  
 Paraguay : paraguay  
-parrot (parakeet) : akú  
+parrot (parakeet) : papagay  
 part (fraction) : fen  
 participant : parter  
 participate (attend, partake, take part) : parta  
@@ -2049,6 +2056,7 @@ tooth : dante
 tooth brush : dante brox  
 top (spinning top) : tolo  
 topic (subject, theme) : tem  
+torch : baton nur  
 total (affecting all) : total  
 touch : toca  
 tour (trip) : tur  
@@ -2093,7 +2101,7 @@ tyrant : tiran
 Uganda : gandia  
 ugly : mal rupi  
 Ukraine : ukraina  
-uncover (reveal) : kapula  
+uncover (reveal) : dekula  
 under (go under) : nica  
 underside (underneath) : nice  
 understand (realize) : aha  
@@ -2148,7 +2156,7 @@ wake (make awake) : weka
 walk (march) : marca  
 wall : mur  
 Wallis and Futuna Islands : walis i futuna nesia  
-wallpaper : mur pape  
+wallpaper : mur papir  
 want (desire) : wol  
 warm : garmi  
 warrior (fighter) : janger  
@@ -2243,4 +2251,4 @@ zombie : zombe
 Zoroaster : zardux  
 Zoroastrian : zarduxiste  
 Zoroastrianism : zarduxistia  
-Zulu : zulú  
+Zulu : zulu'  

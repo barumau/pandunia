@@ -47,14 +47,17 @@ The following consonants are pronounced differently in Pandunia than in English.
   and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end
   of a word, the **g** in **ng** can be silent. So the word **pang** can be
   pronounced /paŋ/ as well as /paŋg/.
+- **'** is a silent consonant. It doesn't have a sound but it can affect the
+  placement of the stress accent, for example the stress is on the last 
+  syllable in **sofa'**.
 
 ## Stress Accent
 
-The stressed syllable is before the last consonant.
+The stress is on the syllable, which is before the last consonant.
 
 1. Words with only one syllable carry the stress. Ex. máw, cíng.
 2. The stress is on the last syllable in words that end with a consonant. Ex.
-   komún, bazár, kamís.
+   komún, bazár, kamís, sofá'.
 3. The stress is on the second last syllable in words that end with a vowel.
    Ex. nówi, dúnia, musíke.
 

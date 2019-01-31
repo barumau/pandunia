@@ -25,7 +25,6 @@ agres : agression (assault)
 aha : understand (realize)  
 ajil : agile  
 akse : axis (axle)  
-akú : parrot (parakeet)  
 ali jinse kami : heterosexual  
 ali : other  
 alkol : alcohol  
@@ -43,6 +42,7 @@ amerike : America (continent)
 ameriki : American  
 amerikium : americium  
 amper : ampere  
+ampul : ampoule (vial)  
 amuke : rage (fury)  
 analis : analysis  
 analisa : analyse  
@@ -144,6 +144,7 @@ baske bol : basket ball
 baske : basket  
 bat : eight (8)  
 bate : duck  
+baton nur : torch  
 baton : bar (rod, stick)  
 batre : battery  
 bax lojia : linguistics  
@@ -221,6 +222,7 @@ britania : United Kingdom
 brom : bromine  
 brox : brush  
 bruney : Brunei Darussalam  
+bubul : bubble  
 buda : realize  
 budan : Mercury  
 bude : Buddha  
@@ -234,7 +236,7 @@ bujete : budget
 buke : book  
 buking : booking (reservation)  
 bula : boil (cook)  
-bulbul : bubble  
+bulbul : nightingale  
 bulu : boil (be boiled)  
 bunduke : gun (handheld firearm)  
 burkinia : Burkina Faso  
@@ -244,6 +246,7 @@ butan : Bhutan
 buton ban : keyboard  
 buton : key (push-button, switch)  
 buyú : baobab  
+buze : goat  
 ##c  
 ca kupe : tea cup  
 ca wan : tea bowl  
@@ -334,7 +337,9 @@ dayxi kan : embassy
 dayxi : ambassador  
 de : that one  
 deci : deci-  
+deka : cover (conceal)  
 deke : cover (lid, cap, deck)  
+dekula : uncover (reveal)  
 demon : demon  
 demó grafia : demography  
 demó kratia : democracy  
@@ -584,7 +589,6 @@ gine bisau : Guinea-Bissau
 gine : Guinea  
 gitar : guitar  
 giyan : French Guiana  
-glas : glass  
 glota : swallow  
 glute : glue  
 gluten : gluten  
@@ -618,7 +622,7 @@ gurú : guru (mentor)
 gusta : taste (sense flavor)  
 guste : taste (flavor)  
 gustu ka : taste like  
-guy : fiend (evil spirit)  
+guy : ogre (troll, goblin)  
 ##h  
 habar gazete : newspaper (gazette)  
 habar : news  
@@ -639,7 +643,7 @@ haló : hello (hi)
 hamake : hammock  
 hamar : hammer  
 hamir : yeast  
-han : hand  
+hande : hand  
 hangogia : Korea (South)  
 hani : manual  
 haos : chaos (disorder, turmoil)  
@@ -716,6 +720,8 @@ imperer : emperor
 imperia : empire  
 imperiste : imperialist  
 imperistia : imperialism  
+importi : important  
+importu : matter (be important)  
 indium : indium  
 indonesia : Indonesia  
 infece : infection  
@@ -820,7 +826,7 @@ juxe : injection
 ka : compared to (as, than)  
 kabaw : water buffalo  
 kabin : cabin (booth)  
-kaca : catch (capture, seize)  
+kace : glass  
 kadomium : cadmium  
 kafas : cage  
 kafe kan : cafe (coffee shop)  
@@ -849,17 +855,15 @@ kan : workshop (place for...)
 kanadia : Canada  
 kanal : channel  
 kande : candy (sweets)  
-kanguru : cangaroo  
+kangur : cangaroo  
 kanjar : dagger  
 kannadi : Kannada  
 kanon : gun (cannon)  
 kanoner : cannoneer  
+kanu' : canoe  
 kanun : law  
-kanú : canoe  
-kapa : cover (conceal)  
+kapa : catch (capture, seize, snatch, intercept)  
 kapitan : captain  
-kapula : uncover (reveal)  
-kaputi : broken (out of order)  
 kar : car (cart, carriage, wagon, automobile)  
 karaoke : karaoke  
 karate : karate  
@@ -1310,23 +1314,24 @@ mos : moss
 mosim : season  
 moskite : mosquito  
 moskovium : moscovium  
+moter kar : automobile (motorcar)  
 moter sikle : motorcycle  
 moter : engine (motor)  
 mozambike : Mozambique  
 mudan : peony  
-muhim : important  
 muke fun : face powder  
 muke : face  
 mul : beginning  
 mula : begin (commence)  
 muli : first (beginning)  
+mum nur : candle  
 mum : wax  
 mumia : mummy  
 mumu manse : beef  
 mumu : cow  
 mun : door (gate, portal)  
 mungus : mongoose  
-mur pape : wallpaper  
+mur papir : wallpaper  
 mur : wall  
 muritania : Mauritania  
 musa : coerce (force, compel)  
@@ -1449,6 +1454,7 @@ o : oh!
 odisi : Odia (Oriya)  
 ofis : office (position)  
 ofiser : officer  
+ofisi : official  
 ofisia : office (bureau)  
 oganeson : oganesson  
 okey : okay (acceptable)  
@@ -1492,6 +1498,7 @@ paneuropi : pan-European
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
+papagay : parrot (parakeet)  
 papay : papaya  
 pape : father  
 papir : paper  
@@ -1631,6 +1638,7 @@ pul waze : vase (flower pot)
 pul : flower  
 pula : blossom (bloom)  
 pulmon : lung  
+pulte : bridge  
 punte : point (full stop)  
 pupe : doll (puppet)  
 puran : old (ancient)  
@@ -2236,11 +2244,11 @@ zine : adultery (infidelity)
 zinke : zinc  
 zipa : zip up  
 ziper : zipper  
+zira' : cumin  
 zirkonium : zirconium  
-zirá : cumin  
 ziza : sizzle  
 zombe : zombie  
 zon : belt (zone)  
 zukam : cold (illness)  
-zulú : Zulu  
+zulu' : Zulu  
 zumrude : emerald  
