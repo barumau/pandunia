@@ -6,12 +6,18 @@ Presentación
 
 ### Diálogo
 
-> ☻: **tu si ke?** = ¿Quién es usted?  
-> ☺: **mi si yusef. tu si ke?** = Yo soy Yusef. ¿Quién es usted?  
-> ☻: **mi si maria. ye si ke?** = Yo soy Maria. ¿Quién es?  
-> ☺: **ye si mi da doste.** = Es una amiga mia.  
-> ☻: **ye da nam si ke?** = ¿Cómo se llama?  
-> ☺: **ye da nam si sara.** = Su nombre es Sara.
+☻: **tu si ke?**
+= ¿Quién es usted?  
+☺: **mi si yusef. tu si ke?**
+= Yo soy Yusef. ¿Quién es usted?  
+☻: **mi si maria. ye si ke?**
+Yo soy Maria. ¿Quién es?  
+☺: **ye si mi da doste.**
+= Es una amiga mia.  
+☻: **ye da nam si ke?**
+= ¿Cómo se llama?  
+☺: **ye da nam si sara.**
+= Su nombre es Sara.
 
 ### Gramatica
 
@@ -26,7 +32,7 @@ The word for "to be" is not normally used in Pandunia. An expression like **ye s
 But something is needed between two nouns. If you say, for example, **maw hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **si** in the middle. It's not a verb but a particle, **si** means "yes" in English. Naturally, **no** is used for negation.
 
 > **maw si hewan** - The cat is an animal.
-> **maw no hewan** - The cat is not an animal.
+> **dom no hewan** - The house is not an animal.
 
 Of course personal pronouns like **mi**, **tu** and **ye** don't need **si** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
 
@@ -35,9 +41,12 @@ Of course personal pronouns like **mi**, **tu** and **ye** don't need **si** aft
 
 Del mismo modo puede describirse diciendo **mi** seguida por una palabra que lo describa.
 
-> **mi bon.** - Yo soy bueno.  
-> **mi man.** - Soy un hombre.  
-> **mi fem.** - Soy una mujer.  
+**mi bon.**
+- Yo soy bueno.  
+**mi man.**
+- Soy un hombre.  
+**mi fem.**
+- Soy una mujer.  
 
 
 ### Ejercicios
@@ -60,6 +69,8 @@ Intenta traducir estas frases de Español a Pandunia.
 **ke** quién? qué?  
 **si** sí. **no** no.  
 **bon** bueno. **doste** amigo, amiga. **nam** nombre.
+**fem** mujer. **man** hombre.  
+**maw** gato. **hewan** animal.
 
 ### Respuestas
 
@@ -97,16 +108,23 @@ En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú, usted, y *
 
 En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
-> **mi salama tu!** = ¡Yo te saludo!  
-> **salama tu!** = ¡Saludos para usted! (Es obvio que el hablante es quien saluda.)  
-> **salama!** = ¡Saludos! (Es obvio que el oyente es saludado.)
+**mi salama tu!**
+= ¡Yo te saludo!  
+**salama tu!**
+= ¡Saludos para usted! (Es obvio que el hablante es quien saluda.)  
+**salama!**
+= ¡Saludos! (Es obvio que el oyente es saludado.)
 
 La forma de **salama tu** es útil para decir el nombre de la persona, parentesco o profesión.
 
-> **salam karolina!** = ¡Hola, Carolina!  
-> **salam mama!** = ¡Hola, mamá!  
-> **salam papa!** = ¡Hola, papá!  
-> **salam xefe!** = ¡Hola, jefe!  
+**salam karolina!**
+= ¡Hola, Carolina!  
+**salam mame!**
+= ¡Hola, mamá!  
+**salam pape!**
+= ¡Hola, papá!  
+**salam xefe!**
+= ¡Hola, jefe!  
 
 <!-- Another Pandunia word for greeting is **halo**. It is also a very international greeting. You can choose freely, which word to use when you greet people. -->
 
@@ -123,15 +141,15 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**salam, halo** saludo; hola, adiós. **salama** saludar.  
-**mama** mamá, madre, ma. **papa** padre, papá, pa. **xefe** jefe, patrón.
+**salam, halo'** saludo; hola, adiós. **salama** saludar.  
+**mame** mamá, madre, ma. **pape** padre, papá, pa. **xefe** jefe, patrón.
 
 
 ### Respuestas
 
 1. tu salama ye.
-2. mama salama papa.
-3. salam mama!
+2. mame salama pape.
+3. salam mame!
 4. salam!
 
 
@@ -143,15 +161,23 @@ Pidiendo
 
 ### Diálogo
 
-☻: **salam!** = ¡Hola!  
-☺: **salam! cing sida.** = ¡ Hola!¡ Por favor sientese!  
-☻: **danke.** = ¡Gracias!  
-☺: **cing nyama kafé u ca.** = Por favor tiene algo de café o té.  
-☻: **mi nyama ca. danke.** = Tengo té, gracias.  
+☻: **salam!**
+= ¡Hola!  
+☺: **salam! cing sida.**
+= ¡ Hola!¡ Por favor sientese!  
+☻: **danke.**
+= ¡Gracias!  
+☺: **cing nyama kafe u ca.**
+= Por favor tiene algo de café o té.  
+☻: **mi nyama ca. danke.**
+= Tengo té, gracias.  
 ...  
-☺: **cing salama tu da mama!** = Por favor llevale saludos a tu madre.  
-☻: **mi salama ye. salam!** = Yo la saludo. ¡Adiós!  
-☺: **salam!** = ¡Chao!
+☺: **cing salama tu da mame!**
+= Por favor llevale saludos a tu madre.  
+☻: **mi salama ye. salam!**
+= Yo la saludo. ¡Adiós!  
+☺: **salam!**
+= ¡Chao!
 
 
 ### Gramatica
@@ -175,21 +201,30 @@ Recordemos que se permite dejar por fuera pronombres que se conocen en el contex
 
 La frase **cing salama ye** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
 
-> **cing sida.** = Por favor sientese.  
-> **cing dar kafé.** = Por favor me da un poco de café.  
-> **cing dar ca.** = Por favor me da un poco de té.  
-> **cing nyama ca.** = Por favor tiene algo de té.  
-> **cing safa kamer.** = Por favor limpie la habitación.  
+**cing sida.**
+= Por favor sientese.  
+**cing dona kafe.**
+= Por favor me da un poco de café.  
+**cing dona ca.**
+= Por favor me da un poco de té.  
+**cing nyama ca.**
+= Por favor tiene algo de té.  
+**cing safa kamar.**
+= Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **manda** = ordenar. Se utiliza la misma estructura eje como para pedir con **cing**.
+Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **cing**.
 
-**manda dona ca.** = ¡Deme un poco de té!
-**manda safa kamer.** = ¡Limpie la habitación!
+> **orda dona ca.**
+= ¡Deme un poco de té!
+> **orda safa kamar.**
+= ¡Limpie la habitación!
 
 <!--
-In practice, direct commands can be also made with just one verb and a commanding voice.
+In practice, direct commands can be also made with just one verb and
+a commanding voice.
 
-> **safa!** = Clean it!
+> **safa ye!**
+= Clean it!
 -->
 
 ### Ejercicios
@@ -205,16 +240,27 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**ca** té. **cing** pedir, solicitar; por favor. **dona** dar. **danke** gracias. **i** y. **kafé** café. **kamer** room. **manda** to command. **u** o. **safa** limpiar. **sida** estar sentado. **nyama** beber, comer.
+**ca** té.
+**cing** pedir, solicitar; por favor.
+**dona** dar.
+**danke** gracias.
+**i** y.
+**kafe** café.
+**kamar** habitación.
+**orda** to command.
+**u** o.
+**safa** limpiar.
+**sida** estar sentado.
+**nyama** beber, comer.
 
 
 ### Respuestas
 
 1. ye nyama ca.
 2. xefe cing ye sida.
-3. cing nyama kafé u ca.
-4. mama cing mi safa kamer.
-5. xefe sida i nyama kafé.
+3. cing nyama kafe u ca.
+4. mame cing mi safa kamar.
+5. xefe sida i nyama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -226,17 +272,27 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska tu nyama kafé u ca?** = ¡Hola! ¿ Qué desean tomar café o té?  
-☺: **ca.** = Té.  
-☻: **i tu?** = ¿ y Usted? 
-○: **mi no baxa pandunia...** = Yo no hablo Pandunia...  
-☻: **pardon! eska ye nyama ca?** = ¡Perdón! ¿Él toma té?  
-☺: **no. ye no nyama ca. ye nyama kafé.** = No, él desea tomar café.  
-☻: **eska tu nyama supe?** = ¿Quieren tomar sopa?  
-☺: **nyama.** = Sí.  
-☻: **eska ye nyama supe?** = ¿Él quiere tomar sopa?  
-☺: **no nyama.** = No.  
-☻: **danke. mi dar un ca i un kafé i un supe na bade du des minut.**
+☻: **salam! eska tu nyama kafe u ca?**
+= ¡Hola! ¿ Qué desean tomar café o té?  
+☺: **ca.**
+= Té.  
+☻: **i tu?**
+= ¿ y Usted? 
+○: **mi no baxa pandunia...**
+= Yo no hablo Pandunia...  
+☻: **pardon! eska ye nyama ca?**
+= ¡Perdón! ¿Él toma té?  
+☺: **no. ye no nyama ca. ye nyama kafé.**
+= No, él desea tomar café.  
+☻: **eska tu nyama supe?**
+= ¿Quieren tomar sopa?  
+☺: **nyama.**
+= Sí.  
+☻: **eska ye nyama supe?**
+= ¿Él quiere tomar sopa?  
+☺: **no nyama.**
+= No.  
+☻: **danke. mi dona un ca i un kafe i un supe na bade du des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -244,37 +300,52 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
-> **mi eska tu nyama ca.** = Yo preguntarte, tomas té.  
-> **eska tu nyama ca?** = ¿Bebes tú té?  
-> **eska nyama ca?** = ¿Bebes té?   
+**mi eska tu nyama ca.**
+= Yo preguntarte, tomas té.  
+**eska tu nyama ca?**
+= ¿Bebes tú té?  
+**eska nyama ca?**
+= ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-> **eska ye nyama ca?** = ¿Bebe él/ella té?  
-> **eska tu nyama supe?** = ¿Come usted sopa?  
-> **eska kamilo baxa pandunia?** = ¿Habla Camilo Pandunia?
+**eska ye nyama ca?**
+= ¿Bebe él/ella té?  
+**eska tu nyama supe?**
+= ¿Come usted sopa?  
+**eska kamilo baxa pandunia?**
+= ¿Habla Camilo Pandunia?
 
 
 ### Respondiendo
 
 Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
-> – **eska tu nyama supe?** = ¿Comes tú sopa?  
-> – **si.** = Sí.  
-> – **eska ye nyama supe?** = ¿Comes ella sopa?  
-> – **no.** = No.  
+– **eska tu nyama supe?**
+= ¿Comes tú sopa?  
+– **si.**
+= Sí.  
+– **eska ye nyama supe?**
+= ¿Comes ella sopa?  
+– **no.** = No.  
 
 También se puede dar una respuesta mas larga.
 
-> – **eska tu nyama kafé?** = ¿Bebes tú café?  
-> – **si. mi nyama kafé.** = Sí, yo bebo café.  
-> – **eska ye nyama kafé?** = ¿Bebe él café?  
-> – **no. ye no nyama kafé.** = No, él no bebe café.  
+– **eska tu nyama kafe?**
+= ¿Bebes tú café?  
+– **si. mi nyama kafe.**
+= Sí, yo bebo café.  
+– **eska ye nyama kafe?**
+= ¿Bebe él café?  
+– **no. ye no nyama kafe.**
+= No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-> – **eska tu nyama suy?** = ¿Bebe usted agua?  
-> – **nyama.** = (Sí, yo) bebo.
+– **eska tu nyama suy?**
+= ¿Bebe usted agua?  
+– **nyama.**
+= (Sí, yo) bebo.
 
 
 ### Ejercicios
@@ -292,15 +363,25 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**bad** despues. **maf** perdón. **minut** minuto. **no** no. **sabi** saber. **sui** agua. **supe** sopa. **un** un (1). **des** diez. **eska** preguntar. **si** sí.
+**bade** despues.
+**pardon** perdón.
+**minute** minuto.
+**no** no.
+**baxa** hablar una língua.
+**suy** agua.
+**supe** sopa.
+**un** un (1).
+**des** diez.
+**eska** preguntar.
+**si** sí.
 
 
 ### Respuestas
 
 1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. eska mama nyama kafé?
-4. no. ye no nyama kafé.
+3. eska mame nyama kafe?
+4. no. ye no nyama kafe.
 5. eska ye nyama supe?
 6. (ye) no nyama.
 
@@ -313,21 +394,30 @@ Negación
 
 En la lección anterios apredimos a responder con **si** y **no**. La palabra **no** es usada para negar algo. Si se pone **no** antes del verbo convertimos una oración afirmativa en negativa. 
 
-> **mi salama tu.** = Yo saludarte.  
-> **mi no salama tu.** = Yo no saludar a usted. (No te salude.)
+**mi salama tu.**
+= Yo saludarte.  
+**mi no salama tu.**
+= Yo no saludar a usted. (No te salude.)
 
  Conceptualmente negación significa a ausencia de la palabra negada. En la frase **mi no salama tu** la palabra **no** niega la existencia de **salam** (saludo). En Pandunia la palabra negativa ne se aplica a la palabra que la sigue. si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-> **mi cing tu safa kamer.** = Yo te pedi limpiar la habitación.  
-> **mi no cing tu safa kamer.** = Yo no te pedi limpiar la habitación.  
-> **mi cing tu no safa kamer.** = Yo te pedi no limpiar la habitación.  
+**mi cing tu safa kamar.**
+= Yo te pedi limpiar la habitación.  
+**mi no cing tu safa kamar.**
+= Yo no te pedi limpiar la habitación.  
+**mi cing tu no safa kamar.**
+= Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-> **ye no ada maw.** = Ella no tiene gato.  
-> **ye ada no maw, ama waf.** = Ella no tiene gatos sino perros.  
-> **no ye, a mi ada maw.** = Ella no, pero yo tengo gato.  
-> **mi ada no un, a dul maw.** = Yo no tengo un gato sino dos gatos.  
+**ye no ada maw.**
+= Ella no tiene gato.  
+**ye ada no maw, a waf.**
+= Ella no tiene gatos sino perros.  
+**no ye, a mi ada maw.**
+= Ella no, pero yo tengo gato.  
+**mi ada no un, a dul maw.**
+= Yo no tengo un gato sino dos gatos.  
 
 
 ### Ejercicios
@@ -344,17 +434,24 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**kupe** copa, vaso, taza. **hali** vacio. **ada** tener, poseer. **maw** gato. **waf** perro. **dul** dos. **nol** cero. **a** pero, sino.
+**kupe** copa, vaso, taza.
+**hali** vacio.
+**ada** tener, poseer.
+**maw** gato.
+**waf** perro.
+**dul** dos.
+**nol** cero.
+**a** pero, sino.
 
 
 ### Respuestas
 
-1. ye no safa kamer.
+1. ye no safa kamar.
 2. un kupe no hali.
 3. dul waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafé.
-6. mama ada no waf a dul maw.
+5. xefe nyama ca a no kafe.
+6. mame ada no waf a dul maw.
 
 --------------------------------------------------------------------------------
 

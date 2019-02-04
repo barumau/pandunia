@@ -6,12 +6,18 @@ Introducing yourself
 
 ### Dialog
 
-> ☻: **tu si ke?** = Who are you?  
-> ☺: **mi si yusef. tu si ke?** = I am Yusef. Who are you?  
-> ☻: **mi si maria. ye si ke?** = I am Maria. Who is that?  
-> ☺: **ye si mi da doste.** = That is my friend.  
-> ☻: **ye da nam si ke?** = What's her name?  
-> ☺: **ye da nam si sara.** = Her name is Sara.
+☻: **tu si ke?**
+= Who are you?  
+☺: **mi si yusef. tu si ke?**
+= I am Yusef. Who are you?  
+☻: **mi si maria. ye si ke?**
+= I am Maria. Who is that?  
+☺: **ye si mi da doste.**
+= That is my friend.  
+☻: **ye da nam si ke?**
+= What's her name?  
+☺: **ye da nam si sara.**
+= Her name is Sara.
 
 ### Grammar
 
@@ -30,6 +36,16 @@ simply replace it with **no** (which is the word for _no_).
 
 > **maw si hewan** - The cat is an animal.  
 > **dom no hewan** - The house is not an animal.  
+
+In the same way you can describe yourself by saying **mi** and a word
+that describes you.
+
+**mi bon.**
+- I'm good.  
+**mi man.**
+- I'm a man.  
+**mi fem.**
+- I'm a woman.  
 
 
 ### Exercises
@@ -73,7 +89,8 @@ answers are after the word list.
 Saying hello
 ------------
 
-> **salam** = Hello!
+**salam**
+= Hello!
 
 This is how people greet each other in Pandunia. They say **salam**.
 It is used for saying both hello and goodbye.
@@ -87,8 +104,10 @@ language, which borrows words from all parts of the world.
 
 The verb form of **salam** is **salama**, which means "to greet".
 
-> **mi salama tu.** = I greet you.  
-> **tu salama mi.** = You greet me.
+**mi salama tu.**
+= I greet you.  
+**tu salama mi.**
+= You greet me.
 
 These are active sentences. In active sentences the subject does the
 action to the object. In **mi salama tu** the first word, **mi**, is
@@ -106,23 +125,30 @@ always stay the same regardless of their position in sentence.
 In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
-> **mi salama tu!** = I greet you.  
-> **salama tu!** = Greetings to you! (It is obvious that the speaker is the one who greets.)  
-> **salama!** = Greetings! (It is obvious that the listeners are greeted.)
+**mi salama tu!**
+= I greet you.  
+**salama tu!**
+= Greetings to you! (It is obvious that the speaker is the one who greets.)  
+**salama!**
+= Greetings! (It is obvious that the listeners are greeted.)
 
 The pattern in **salam tu** is convenient for addressing people by
 name, kinship term or profession.
 
-> **salam toni!** = Hello, Tony!  
-> **salam mamá!** = Hello, mother!  
-> **salam papá!** = Hello, father!  
-> **salam xefe!** = Hello, chief!
+**salam toni!**
+= Hello, Tony!  
+**salam mame!**
+= Hello, mother!  
+**salam pape!**
+= Hello, father!  
+**salam xefe!**
+= Hello, chief!
 
 Another Pandunia word for greeting is **haló**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
-**haló!** - Hello!
+**halo'!** - Hello!
 
 
 ### Exercises
@@ -137,15 +163,15 @@ answers are after the word list.
 
 ### Word List
 
-**salam, haló** greeting, hello, hi, salaam, ciao, etc.  
-**mamá** mother, mom. **papá** father, dad. **xefe** chief, boss.
+**salam, halo'** greeting, hello, hi, salaam, ciao, etc.  
+**mame** mother, mom. **pape** father, dad. **xefe** chief, boss.
 
 
 ### Answers to the Exercises
 
 1. tu salama ye.
-2. mamá salama papá.
-3. salam mamá!
+2. mame salama pape.
+3. salam mame!
 4. salam!
 
 
@@ -157,15 +183,23 @@ Making requests
 
 ### Dialog
 
-☻: **salam!** = Hello!  
-☺: **salam! cing sida.** = Hello! Please sit!  
-☻: **danke.** = Thank you.  
-☺: **cing nyama kafe u ca.** = Please have some coffee or tea.  
-☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
+☻: **salam!**
+= Hello!  
+☺: **salam! cing sida.**
+= Hello! Please sit!  
+☻: **danke.**
+= Thank you.  
+☺: **cing nyama kafe u ca.**
+= Please have some coffee or tea.  
+☻: **mi nyama ca. danke.**
+= I will have some tea, thank you.  
 ...
-☺: **cing salama tu da mamá!** = Please tell greetings to your mother.  
-☻: **mi salama ye. salam!** = I will. Bye!  
-☺: **salam!** = Bye!
+☺: **cing salama tu da mame!**
+= Please tell greetings to your mother.  
+☻: **mi salama ye. salam!**
+= I will. Bye!  
+☺: **salam!**
+= Bye!
 
 
 ### Grammar
@@ -208,22 +242,30 @@ grammatical role of a concept changes.
 The phrase **cing salama ye** has a useful pattern that can be used
 for making polite requests.
 
-> **cing sida.** = Please be seated.  
-> **cing dona kafe.** = Please give me some coffee.  
-> **cing dona ca.** = Please give me some tea.  
-> **cing nyama ca.** = Please have some tea.  
-> **cing safa kamar.** = Please clean the room.
+**cing sida.**
+= Please be seated.  
+**cing dona kafe.**
+= Please give me some coffee.  
+**cing dona ca.**
+= Please give me some tea.  
+**cing nyama ca.**
+= Please have some tea.  
+**cing safa kamar.**
+= Please clean the room.
 
-Commands are introduced with **manda** = to command. They employ the
+Commands are introduced with **orda** = to command. They employ the
 same pivot structure as requests with **cing**.
 
-> **manda dona ca.** = Give (me) some tea!  
-> **manda safa kamar.** = Clean the room!
+> **orda dona ca.**
+= Give (me) some tea!  
+> **orda safa kamar.**
+= Clean the room!
 
 In practice, direct commands can be also made with just one verb and
 a commanding voice.
 
-> **safa ye!** = Clean it!
+> **safa ye!**
+= Clean it!
 
 
 ### Exercises
@@ -246,7 +288,7 @@ Try translating these sentences from English to Pandunia.
 **i** and.
 **kafe** coffee.
 **kamar** room.
-**manda** to command.
+**orda** to command.
 **u** or.
 **safa** to clean.
 **sida** to sit.
@@ -258,7 +300,7 @@ Try translating these sentences from English to Pandunia.
 1. ye nyama ca.
 2. xefe cing ye sida.
 3. cing nyama kafe u ca.
-4. mamá cing mi safa kamar.
+4. mame cing mi safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -270,18 +312,28 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafe u ca?** = Hello! Would you like to have coffee or tea?  
-☺: **ca.** = Tea.  
-☻: **i tu?** = And you?  
-○: **mi no baxa pandunia...** = I don't speak Pandunia...  
-☻: **pardon! eska ye nyama ca?** = Pardon! Will he have tea?  
-☺: **no. ye no nyama ca. ye nyama kafe.** = No, he won't. He would like to have coffee.  
-☻: **eska tu nyama supe?** = Would you like to have soup?  
-☺: **nyama.** = Yes. (_I eat._)  
-☻: **eska ye nyama supe?** = Would he like to have soup?  
-☺: **no nyama.** = No.  
+☻: **salam! eska tu nyama kafe u ca?**
+= Hello! Would you like to have coffee or tea?  
+☺: **ca.**
+= Tea.  
+☻: **i tu?**
+= And you?  
+○: **mi no baxa pandunia...**
+= I don't speak Pandunia...  
+☻: **pardon! eska ye nyama ca?**
+= Pardon! Will he have tea?  
+☺: **no. ye no nyama ca. ye nyama kafe.**
+= No, he won't. He would like to have coffee.  
+☻: **eska tu nyama supe?**
+= Would you like to have soup?  
+☺: **nyama.**
+= Yes. (_I eat._)  
+☻: **eska ye nyama supe?**
+= Would he like to have soup?  
+☺: **no nyama.**
+= No.  
 ☻: **danke. mi dona un ca i un kafe i un supe na bade du des minute.**
- = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
+= Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
@@ -290,18 +342,24 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **cing**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
-> **mi eska tu nyama ca.** = I ask (do) you drink tea.  
-> **eska tu nyama ca?** = Do you drink tea?  
-> **eska nyama ca?** = Drink tea?
+**mi eska tu nyama ca.**
+= I ask (do) you drink tea.  
+**eska tu nyama ca?**
+= Do you drink tea?  
+**eska nyama ca?**
+= Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
 are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-> **eska ye nyama ca?** = Does he or she drink tea?  
-> **eska tu nyama supe?** = Do you eat soup?  
-> **eska mimen nyama suy?** = Do we drink water?
+**eska ye nyama ca?**
+= Does he or she drink tea?  
+**eska tu nyama supe?**
+= Do you eat soup?  
+**eska mimen nyama suy?**
+= Do we drink water?
 
 Of course common and proper nouns can also be used.
 
@@ -314,22 +372,32 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **no** = no.
 
-> – **eska tu nyama supe?** = Do you eat soup?  
-> – **si.** = Yes.  
-> – **eska ye nyama supe?** = Does she eat soup?  
-> – **no.** = No.
+– **eska tu nyama supe?**
+= Do you eat soup?  
+– **si.**
+= Yes.  
+– **eska ye nyama supe?**
+= Does she eat soup?  
+– **no.**
+= No.
 
 Also more complete answers can be given.
 
-> – **eska tu nyama kafe?** = Do you drink coffee?  
-> – **si. mi nyama kafe.** = Yes, I drink coffee.  
-> – **eska ye nyama kafe?** = Does he drink coffee?  
-> – **no. ye no nyama kafe.** = No, he doesn't drink coffee.
+– **eska tu nyama kafe?**
+= Do you drink coffee?  
+– **si. mi nyama kafe.**
+= Yes, I drink coffee.  
+– **eska ye nyama kafe?**
+= Does he drink coffee?  
+– **no. ye no nyama kafe.**
+= No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-> – **eska tu nyama suy?** = Do you drink water?  
-> – **nyama.** = (Yes, I) drink.
+– **eska tu nyama suy?**
+= Do you drink water?  
+– **nyama.**
+= (Yes, I) drink.
 
 
 ### Exercises
@@ -347,11 +415,11 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bada** after.
+**bade** after.
 **pardon** pardon, sorry.
 **minute** minute.
 **no** not.
-**baxa** speak; language.
+**baxa** speak a language.
 **suy** water.
 **supe** soup.
 **un** one (1).
@@ -364,7 +432,7 @@ Try translating these sentences from English to Pandunia.
 
 1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. eska mamá nyama kafe?
+3. eska mame nyama kafe?
 4. no. ye no nyama kafe.
 5. eska ye nyama supe?
 6. (ye) no nyama.
@@ -379,8 +447,10 @@ In the previous lesson you learned to answer **si** and **no** to
 questions. The word **no** is used for denying something. Adding
 **no** in front of the verb turns an affirmative sentence to negative.
 
-> **mi salama tu.** = I greet you.  
-> **mi no salama tu.** = I do not greet you.
+**mi salama tu.**
+= I greet you.  
+**mi no salama tu.**
+= I do not greet you.
 
 Conceptually negation means the absence or non-existence of the
 negated word. In the phrase **mi no salama tu** the negative word
@@ -388,18 +458,24 @@ negated word. In the phrase **mi no salama tu** the negative word
 word affects the word that follows it. Different scopes of negation
 may result depending on the location of the negative word.
 
-> **mi cing tu safa kamar.** = I ask you to clean the room.  
-> **mi no cing tu safa kamar.** = I do NOT ask you to clean the room.  
-> **mi cing tu no safa kamar.** = I ask you NOT to clean the room.
-
+**mi cing tu safa kamar.**
+= I ask you to clean the room.  
+**mi no cing tu safa kamar.**
+= I do NOT ask you to clean the room.  
+**mi cing tu no safa kamar.**
+= I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-> **ye no ada maw.** = She doesn't have a cat.  
-> **ye ada no maw, ama waf.** = She has no cats but dogs.  
-> **no ye, a mi ada maw.** = Not she but I have cats.  
-> **mi ada no un, a dul maw.** = I have not one but two cats.
+**ye no ada maw.**
+= She doesn't have a cat.  
+**ye ada no maw, a waf.**
+= She has no cats but dogs.  
+**no ye, a mi ada maw.**
+= Not she but I have cats.  
+**mi ada no un, a dul maw.**
+= I have not one but two cats.
 
 
 ### Exercises
@@ -434,7 +510,7 @@ is more than one correct answer.
 3. dul waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafe.
-6. mamá ada no waf a dul maw.
+6. mame ada no waf a dul maw.
 
 
 <!--
@@ -522,7 +598,7 @@ or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-> **mi nyama nan na subá nyam.** = I ate bread for morning meal.
+> **mi nyama nan na sube nyam.** = I ate bread for morning meal.
 
 There are also specific time words.
 
@@ -585,7 +661,7 @@ time expression is present, other markers are not needed.
 **wil** future.
 **darba** to hit, to beat.
 **nan** bread.
-**subá nyam** morning meal, breakfast.
+**sube nyam** morning meal, breakfast.
 
 ### Exercises
 
@@ -606,6 +682,6 @@ answers are at the bottom of this page.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.
-6. tu da mamá festa na befo noce.
+6. tu da mame festa na befo noce.
 
 
