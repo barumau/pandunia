@@ -143,28 +143,27 @@ Päätettä ei käytetä sellaisten sanavartaloiden kanssa, jotka ilmaisevat laa
 Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 
 **un xing** - yksi tähti  
-**do xing** - kaksi tähteä  
+**dul xing** - kaksi tähteä  
 **sam xing** - kolme tähteä  
 **xaw xing** - vähän tähtiä  
-**poli xing** - useita tähtiä  
-**multi xing** - paljon tähtiä  
+**pol xing** - paljon tähtiä
 
 
 **un day meze** - yksi iso pöytä  
-**do day kurse** - kaksi isoa tuolia  
+**dul day kurse** - kaksi isoa tuolia  
 **sam bon kurse** - kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
 
 **fen un.** - Ensimmäinen osa.
-**fen do.** - Toinen osa.
+**fen dul.** - Toinen osa.
 **fen sam.** - Kolmas osa.
 
 Perusluvut ovat:
 
-- 0 **nul**
+- 0 **nol**
 - 1 **un**
-- 2 **do**
+- 2 **dul**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -175,16 +174,16 @@ Perusluvut ovat:
 
 Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään – ihan samalla tavalla kuin ne kirjoitetaan matematiikan universaalilla kielellä.
 
-- 10 **un nul** tai **des**
+- 10 **un nol** tai **des**
 - 11 **un un**
-- 12 **un do**
+- 12 **un dul**
 - 13 **un sam**
-- 20 **do nul**
-- 21 **do un**
-- 22 **do do**
-- 100 **un nul nul** tai **hon**
-- 101 **un nul un** tai **hon un**
-- 200 **do nul nul** tai **do hon**
+- 20 **dul nol**
+- 21 **dul un**
+- 22 **dul dul**
+- 100 **un nol nol** tai **hon**
+- 101 **un nol un** tai **hon un**
+- 200 **dul nol nol** tai **dul hon**
 
 
 999:tä suuremmat luvut käyttävät kansainvälisen SI-järjestelmän sanastoa. Siis esimerkiksi **kilo** tarkoittaa tuhatkertaisuutta.
@@ -746,7 +745,7 @@ Monesti verbit täyttävät saman aseman kuin sijamuodot, prepositiot ja postpos
 **mi kata nan.** - Minä leikkaan leipää.  
 **mi kata nan, uza caku.** - Minä leikkaan leipää, veistä käyttäen. (Minä leikkaan leipää veitsellä.)  
 
-**mi denga dura do hor.** - Minä odotan, kaksi tuntia kestäen. (Minä odotan kahden tunnin ajan.)
+**mi denga dura dul hor.** - Minä odotan, kaksi tuntia kestäen. (Minä odotan kahden tunnin ajan.)
 
 Tässä on joitakin verbejä, joita voi käyttää prepositioiden asemasta:
 

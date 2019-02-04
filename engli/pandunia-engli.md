@@ -60,6 +60,8 @@ aple : apple
 aplika : apply (put to use for a purpose)  
 aplike : application  
 arabi : Arabic  
+arane : spider  
+arani fobia : arachnophobia  
 aranje : orange (fruit)  
 aranji : orange (orange-colored)  
 arbuze : watermelon  
@@ -368,7 +370,6 @@ din : religion (worship)
 ding : nail (spike)  
 diske : disc (disk)  
 disprosium : dysprosium  
-do : two (2)  
 doici : German  
 doicia : Germany  
 dokum : document (record)  
@@ -396,6 +397,9 @@ duga : read
 duka : grieve  
 duke : grief (sorrow)  
 duki : sad  
+dul : two (2)  
+duli : dual (double)  
+dulistia : dualism  
 dum : tail  
 duman : smoke  
 dunia bax : world language  
@@ -768,7 +772,6 @@ israel : Israel
 italia : Italy  
 izi : easy  
 ##j  
-ja : already (-ed)  
 jake : jacket  
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
@@ -804,7 +807,6 @@ jersia : Jersey
 jeste : gesture  
 jibraltar : Gibraltar  
 jibutia : Djibouti  
-jiju' : spider  
 jika : straighten  
 jiki : straight  
 jin : true (real, genuine)  
@@ -815,7 +817,6 @@ jiwa : live
 jiwe lojia : biology (study of life)  
 jiwe : life  
 jiwi : alive (living)  
-jo : that which  
 joke : joke  
 joker : joker  
 jong : species  
@@ -1428,6 +1429,9 @@ no : no (not)
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
+nol ren : nobody (no-one)  
+nol xey : nothing  
+nol : zero (none)  
 nonga : cultivate (farm)  
 nonger : farmer  
 norde : north  
@@ -1451,9 +1455,6 @@ noy : nine (9)
 nudi : naked (bare)  
 nudiste : nudist  
 nudistia : nudism  
-nul ren : nobody (no-one)  
-nul xey : nothing  
-nul : zero (none)  
 num un : first (number one)  
 num : number  
 nun : now  

@@ -397,7 +397,7 @@ Minä haluan saada uuden puhelimen.
 
 **eska tu ada bace?**
 Onko sinulla lapsia?
-**mi ada do bace.**
+**mi ada dul bace.**
 Minulla on kaksi lasta.
 
 
@@ -596,7 +596,7 @@ Anteeksi, minä en ymmärrä sinua.
 **mi no bas aha tu.**
 En aivan ymmärtänyt sinua.
 
-**mi aha nul.**
+**mi aha nol.**
 En ymmärrä yhtään.
 
 

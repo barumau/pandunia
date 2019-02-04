@@ -1,6 +1,6 @@
 # lekse da asle
   
-pandunia da loge laya ze multi bax du dunia.
+pandunia da loge laya ze pol bax du dunia.
   
 - afriki bax
     - arabi (ara)

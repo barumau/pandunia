@@ -38,7 +38,6 @@ all : pan
 allow (permit) : permisa  
 almond : badam  
 alphabet : abace  
-already (-ed) : ja  
 already (completed action) : lew  
 also (plus, too) : plus  
 altar : altar  
@@ -77,6 +76,7 @@ application : aplike
 apply (put to use for a purpose) : aplika  
 April : mes 4 (mes car)  
 Arabic : arabi  
+arachnophobia : arani fobia  
 archipelago : nesia  
 area (extent of surface) : are  
 area (region) : aria  
@@ -582,6 +582,8 @@ drug (intoxicating substance) : droge
 drum : tambur  
 dry : gan  
 dry : suhi  
+dual (double) : duli  
+dualism : dulistia  
 dubnium : dubnium  
 duck : bate  
 dumpling (ravioli, pelmeni) : pelmen  
@@ -1360,7 +1362,7 @@ nitrogen : nitre
 Niue : niwe  
 no (not) : no  
 nobelium : nobelium  
-nobody (no-one) : nul ren  
+nobody (no-one) : nol ren  
 noise : kelele  
 noodle : mien  
 Norfolk Island : norfolke  
@@ -1375,7 +1377,7 @@ nose : nos
 note (observation) : note  
 note (observe, notice) : nota  
 notebook : note buke  
-nothing : nul xey  
+nothing : nol xey  
 notice (notification) : notis  
 notify : notisa  
 November : mes 11 (mes des un)  
@@ -1884,7 +1886,7 @@ special (distinct) : has
 species : jong  
 speech (word) : loge  
 spice (seasoning) : masal  
-spider : jiju'  
+spider : arane  
 spirit (soul, mind) : ruhe  
 spit : tuka  
 split (fall apart) : fenu  
@@ -2031,7 +2033,6 @@ thanks (thank you) : danke
 that (those) : di  
 that is (in other words, i.e.) : yani  
 that one : de  
-that which : jo  
 theft : cur  
 theism : dewistia  
 theist : dewiste  
@@ -2120,7 +2121,7 @@ Turkish : turki
 Turkmenistan : turkmenia  
 turtle (tortoise) : tortuge  
 Tuvalu : tuvalu'  
-two (2) : do  
+two (2) : dul  
 typewriter : kitabe maxin  
 tyranny : tirania  
 tyrant : tiran  
@@ -2267,7 +2268,7 @@ yttrium : yutrium
 ##z  
 Zambia : zambia  
 zebra : zebre  
-zero (none) : nul  
+zero (none) : nol  
 zigzag : zigzage  
 Zimbabwe : zimbabwe  
 zinc : zinke  

@@ -385,7 +385,7 @@ I want to have a new phone.
 
 **eska tu ada bace?**
 Do you have children?  
-**mi ada do bace.**
+**mi ada dul bace.**
 I have two children.
 
 ### jana <small>to know</small>

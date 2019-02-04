@@ -80,6 +80,7 @@ apinanleipäpuu (baobab) : buyu'
 appelsiini : aranje  
 apu : helpe  
 arabialainen : arabi  
+araknofobia (hämähäkkikammo) : arani fobia  
 Argentiina : argentin  
 argon : argon  
 armeija : armia  
@@ -182,6 +183,7 @@ Djiboutia : jibutia
 dollari : dolar  
 dominopeli : domin gem  
 draama : drame  
+dualismi : dulistia  
 dubnium : dubnium  
 dysprosium : disprosium  
 ##e  
@@ -194,8 +196,8 @@ egyptiläinen : misri
 ehdottaa : suja  
 ehdotus : suje  
 ei : no  
-ei kukaan : nul ren  
-ei mitään : nul xey  
+ei kukaan : nol ren  
+ei mitään : nol xey  
 eilinen : predi den  
 einsteinium : einsteinium  
 ekologia (ympäristötiede) : tabia lojia  
@@ -425,7 +427,7 @@ hyönteinen (ötökkä) : koncung
 hyöty (etu) : faide  
 häh? : he  
 häkki : kafas  
-hämähäkki : jiju'  
+hämähäkki : arane  
 hän (se) : ye  
 häntä : dum  
 hätä (paniikki) : panike  
@@ -494,14 +496,12 @@ jazz (jatsi) : jaze
 Jeesus : yesu  
 Jemen : yaman  
 Jersey : jersia  
-jo (ennen) : ja  
 jo (tehty teko) : lew  
 jodi : iode  
 jodi : yode  
 johtaa : lida  
 johtaja (pomo) : lider  
 joka (jokainen) : mey  
-joka (relatiivinen) : jo  
 jokainen asia : mey xey  
 jokainen ihminen : mey ren  
 joki : nade  
@@ -559,7 +559,8 @@ kaikki : toti
 kaiku : eho  
 kaivaa : fosa  
 kakku (keksi) : keke  
-kaksi (2) : do  
+kaksi (2) : dul  
+kaksois- (duaalinen) : duli  
 kala : fix  
 kalifaatti : halifia  
 kalifi : halif  
@@ -1216,7 +1217,7 @@ nisäkäs : mamal
 Niue : niwe  
 nobelium : nobelium  
 noin (arviolta, suunnilleen) : yagi  
-nolla (ei yhtään) : nul  
+nolla (ei yhtään) : nol  
 noppa (arpakuutio) : dado'  
 Norfolkin saaret : norfolke  
 Norja : norgia  

@@ -363,7 +363,6 @@ ara: /dīn/. tur: din. swa: dini. hau: addini.			din	:	religion (worship)	religi
 			ding	:	nail (spike)	najlo	naula (piikki)	kolec					
 			diske	:	disc (disk)	disko	kiekko (levy)	dysk					
 	made	Dy	disprosium	:	dysprosium	disprozio	dysprosium	dysproz					
-			do	:	two (2)	du (2)	kaksi (2)	dwa (2)					
 			doici	:	German		saksalainen	niemiecki					
 	dex	DE	doicia	:	Germany		Saksa	Niemcy					
 eng:fra:document. rus:документ (dokument).			dokum	:	document (record)		asiakirja (dokumentti, tiedosto)	dokument					
@@ -391,6 +390,9 @@ zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".			duga	:	read	l
 			duka	:	grieve	lamenti	surra (murehtia)	martwić					
 hin:दुःख "duḥkh". ben:দুঃখ "dukhô". tha:ทุกข์ "tuk". may:duka. eng:dukkha. + zho:苦 "kǔ".			duke	:	grief (sorrow)	malĝojo	suru (murhe)	żal, smutek					
 			duki	:	sad	malĝoja	surullinen	smutny					
+kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.			dul	:	two (2)	du (2)	kaksi (2)	dwa (2)					
+			duli	:	dual (double)		kaksois- (duaalinen)						
+			dulistia	:	dualism		dualismi						
 			dum	:	tail	vosto	häntä	ogon					
 hin:धूआँ "dhuã". tur:duman. rus:дым "dym". kan:"dhūma". ben:ধোঁয়া "dhõẇa".			duman	:	smoke	fumo	savu	dym					
 ind:swa:dunia. ara:"dunyā". hindi:दुनिया "duniyā". hau:duniya.			dunia	:	world	mondo	maailma	świat					
@@ -757,7 +759,7 @@ ara:(ʾislām). per:(taslim). tur:teslim.			islam	:	submission (surrender)		alis
 	dex	IL	israel	:	Israel	Israelo	Israel	Izrael					
 	dex	IT	italia	:	Italy	Italio	Italia	Italia, Włochy					
 eng:easy. fra:aisée.			izi	:	easy	facila	helppo	łatwy, prosty					
-ita:già. por:já. fra:déjà. spa:ya. + swa:-ja-.			ja	:	already (-ed)	jam (-is)	jo (ennen)	już					
+													
 eng:jacket. zho:夹克 (jiākè). rus:жакет (žaket). deu:Jacke. por:jaqueta.			jake	:	jacket	jako	pikkutakki (jakku)	kurtka					
 hin:जलना (jalnā). urd:(jalnā). mar:जळणे (j̈aḷṇe).			jala	:	burn (cause to burn)		polttaa	spalić, palić					
 			jalu	:	burn (be burned)		palaa	spłonąć, płonąć					
@@ -793,7 +795,8 @@ zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:i
 			jeste	:	gesture		ele	gest					
 	dex	GI	jibraltar	:	Gibraltar		Gibraltar	Gibraltar					
 	dex	DJ	jibutia	:	Djibouti		Djiboutia	Dżibuti					
-			jiju'	:	spider	araneo	hämähäkki	pająk					
+fra:araignee. por:aranha. spa:araña. eng:arachnid.			arane	:	spider	araneo	hämähäkki	pająk					
+			arani fobia	:	arachnophobia	araneofobio	araknofobia (hämähäkkikammo)						
 			jika	:	straighten		suoristaa	prosty					
 			jiki	:	straight		suora	wyprostować, prostować					
 zho:真 (zhēn). kor:진 (jin). jpn:真 (shin). tha:จริง (jing).			jin	:	true (real, genuine)	vera	tosi (aito)	prawdziwy (rzeczywisty, szczery)					
@@ -804,7 +807,7 @@ ind:jerapah. tur:zürafa. eng:fra:giraffe.			jiraf	:	giraffe	ĝirafo	kirahvi	ży
 hin:जीवन "jīvan". tha:ชีวิต "chiwit". khm:"jiweut". + ind:jiwa. + rus:живой "živoy".			jiwe	:	life	vivo	elämä	życie					
 			jiwe lojia	:	biology (study of life)	biologio	biologia	biologia, nauka o życiu					
 			jiwi	:	alive (living)	viva	elävä	żywy, żyjący					
-hin:जो "jo".			jo	:	that which	tio kio	joka (relatiivinen)	który, co					
+													
 			joke	:	joke		vitsi	żart					
 			joker	:	joker		vitsiniekka	żartowniś, dowcipniś					
 			jong	:	species		laji	gatunek					
@@ -1436,9 +1439,9 @@ per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.			nowi	:	new (
 			nudi	:	naked (bare)		alaston (paljas, naku)	nagi, goły, obnażony					
 			nudiste	:	nudist		nudisti	nudysta					
 			nudistia	:	nudism		nudismi	nudyzm					
-			nul	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden					
-			nul ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba					
-			nul xey	:	nothing		ei mitään	nic, żadna rzecz					
+ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden					
+			nol ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba					
+			nol xey	:	nothing		ei mitään	nic, żadna rzecz					
 deu:Nummer. eng:number. tur:numara. fra:numéro.			num	:	number	nombro	lukumäärä (luku, numero)	numer					
 			num un	:	first (number one)		ensimmäinen (numero yksi)	pierwszy, numer jeden					
 			nun	:	now		nyt	teraz					

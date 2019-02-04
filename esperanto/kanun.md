@@ -19,8 +19,8 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 > loge - vorto, vortoj  
 > **un** loge - (unu) vorto  
-> **poli** loge - (pluraj) vorto**j**  
-> **do** loge - du vortoj  
+> **pol** loge - (pluraj) vorto**j**  
+> **dul** loge - du vortoj  
 
 #### 1.2 Precizigi definitecon
 
@@ -37,9 +37,9 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 
 #### 1.4 Nombroj
 
-> **nul** - 0  
+> **nol** - 0  
 > **un** - 1  
-> **do** - 2  
+> **dul** - 2  
 > **sam** - 3  
 > **car** - 4  
 > **lim** - 5  
@@ -47,16 +47,16 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 > **set** - 7  
 > **bat** - 8  
 > **noi** - 9  
-> **un nul** aŭ **des** - 10  
-> **do do** aŭ **do des do** - 22  
-> **un nul nul** aŭ **hon** - 100  
-> **do nul un** aŭ **do hon un** - 201  
-> **un nul nul nul** aŭ **kilo** - 1 000  
+> **un nol** aŭ **des** - 10  
+> **dul dul** aŭ **dul des dul** - 22  
+> **un nol nol** aŭ **hon** - 100  
+> **dul nol un** aŭ **dul hon un** - 201  
+> **un nol nol nol** aŭ **kilo** - 1 000  
 > **mega** … - 1 000 000  
 > **giga** … - 1 000 000 000  
 
-> **do mes** - du monatoj (= du-monato)  
-> **mes do** - februaro  
+> **dul mes** - du monatoj (= du-monato)  
+> **mes dul** - februaro  
 
 --------------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ Pandunia ne havas tabelvortojn, sed oni povas facile rekrei ilin (kaj pliajn) pe
 Notu ke eblas krei ajnan korelativon tiel:
 
 > un lok - ie  
-> nul lok - nenie  
+> nol lok - nenie  
 > multi lok - multloke  
 > mei lok - ĉie (= ĉiuloke)  
 > pitsa lok - pic-loke  
@@ -228,13 +228,13 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Ver
 
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
-> mi **wola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
+> mi **wola** mi **nyama** keke - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
 > mi **fikra** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
 > ye **duga** buke **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
 > tu **loga** fraze **karu** mi - Vi **diras** frazon, kiun **faris** mi  
-> mi suku kena yema = mi suku mi kena mi yema - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
+> mi suku kena nyama = mi suku mi kena mi nyama - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
 
-Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** nyama kek) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi nyama kem**). Niaj provadoj en Telegram ne montris veran problemon.
+Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** nyama keke) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi nyama kem**). Niaj provadoj en Telegram ne montris veran problemon.
 
 Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per laŭteco, aŭ skribe per signoj " aŭ ,. Ni ĉiuokaze rekomendas fari mallongajn frazojn, kun malmultaj verboj. Eblas mencii substantivon de lasta frazo per "ci".
 
@@ -244,7 +244,7 @@ Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per l
 
 En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam oni rapide povas traduki forigante _, ke_.
 
-> mi wola tu yema - Mi volas **, ke** vi manĝu  
+> mi wola tu nyama - Mi volas **, ke** vi manĝu  
 
 #### 7.2 "ki--subfrazoj"
 
@@ -269,13 +269,13 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 
 > mi enda **ze** kamar (= mi cuta kamar) - Mi iras **el** la ĉambro. (Loko indikas ke temas pri movo)  
 > mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)  
-> mi yema **ze** do hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
+> mi nyama **ze** dul hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
 > mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)  
 > supe si **na** meze - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)  
-> tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)  
-> mi enda **do** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)  
-> mi kara **do** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")  
-> tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)  
+> tu sona **na** mi fata - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)  
+> mi enda **to** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)  
+> mi fata **to** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")  
+> tu bixu cinga **to** tu nyama - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)  
 > mi kitaba **na** karbon - Mi skribas **per** karbo.  
 > mi vizita dunia **na** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)  
 > ci si darse grup **du** pandunia - Tio estas kurso **de** Pandunia.  
@@ -345,7 +345,7 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "du".
 
 ### 9. Konjunkcioj
 
-> manus **i** hewan - homo **kaj** besto  
+> insan **i** hewan - homo **kaj** besto  
 > hero **u** goro - heroo **aŭ** porko  
 > **ama** no jen loga ci - **sed**/**tamen** neniu diras tion  
 > mi si suka **jadi** mi si maw - Mi estus feliĉa, **se** mi estus kato  
@@ -402,7 +402,7 @@ marta - mortigi ; marter - mortiganto
 
 ##### 10.3.3 -ia
 
-manus(e) - homo ; manus**ia** - homeco, hom**aro**  
+insan(e) - homo ; insan**ia** - homeco, hom**aro**  
 kristi - kristano ; krist**ia** - kristan**ismo**  
 jive - vivo ; jiv**ia** - vivo**scienco**  
 rus - rusa ; rus**ia** - rus**io**  
@@ -447,7 +447,7 @@ Bazaj reguloj
 7. En frazoj kiuj havas pasivan sencon, rolas nur subjekto kaj verbo.
     - ekz.  **ye pentu.** = Ĝi koloriĝas.
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **mi cing tu dar pesa.** = Mi petas vin (por) doni monon.
+    - ekz. **mi cing tu dona pese.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Ĉu vi parolas pandunion?
     - **mi cing tu loga klar.** →  **cing loga klar.** = Bonvolu paroli klare.
@@ -522,21 +522,21 @@ Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekze
 Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
 > **un xing** - unu stelo  
-> **do xing** - du steloj  
+> **dul xing** - du steloj  
 > **sam xing** - tri steloj  
 > **xaw xing** - kelkaj steloj  
 
 Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
 > **fen un** - la unua parto  
-> **fen do** - la dua parto  
+> **fen dul** - la dua parto  
 > **fen sam** - la tria parto  
 
 Jen la ĉefaj nombroj:
 
-- 0 **nul**
+- 0 **nol**
 - 1 **un**
-- 2 **do**
+- 2 **dul**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -547,16 +547,16 @@ Jen la ĉefaj nombroj:
 
 Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la matematiko. 
 
-- 10 **un nul** aŭ **des**
+- 10 **un nol** aŭ **des**
 - 11 **un un**
-- 12 **un do**
+- 12 **un dul**
 - 13 **un sam**
-- 20 **do nul**
-- 21 **do un**
-- 22 **do do**
-- 100 **un nul nul** aŭ **hon**
-- 101 **un nul un** aŭ **hon un**
-- 200 **do nul nul** aŭ **do hon**
+- 20 **dul nol**
+- 21 **dul un**
+- 22 **dul dul**
+- 100 **un nol nol** aŭ **hon**
+- 101 **un nol un** aŭ **hon un**
+- 200 **dul nol nol** aŭ **dul hon**
 
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.

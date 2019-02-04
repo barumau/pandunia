@@ -60,6 +60,7 @@ aple : jabłko
 aplika : zastosować, stosować  
 aplike : zastosowanie, aplikacja  
 arabi : arabski  
+arane : pająk  
 aranje : pomarańcza  
 aranji : pomarańczowy  
 arbuze : arbuz  
@@ -367,7 +368,6 @@ din : religia, wyznanie
 ding : kolec  
 diske : dysk  
 disprosium : dysproz  
-do : dwa (2)  
 doici : niemiecki  
 doicia : Niemcy  
 dokum : dokument  
@@ -395,6 +395,7 @@ duga : czytać
 duka : martwić  
 duke : żal, smutek  
 duki : smutny  
+dul : dwa (2)  
 dum : ogon  
 duman : dym  
 dunia bax : język świata, język ogólnoświatowy  
@@ -757,7 +758,6 @@ israel : Izrael
 italia : Italia, Włochy  
 izi : łatwy, prosty  
 ##j  
-ja : już  
 jake : kurtka  
 jala : spalić, palić  
 jalu : spłonąć, płonąć  
@@ -792,7 +792,6 @@ jersia : Jersey
 jeste : gest  
 jibraltar : Gibraltar  
 jibutia : Dżibuti  
-jiju' : pająk  
 jika : prosty  
 jiki : wyprostować, prostować  
 jin : prawdziwy (rzeczywisty, szczery)  
@@ -803,7 +802,6 @@ jiwa : żyć
 jiwe lojia : biologia, nauka o życiu  
 jiwe : życie  
 jiwi : żywy, żyjący  
-jo : który, co  
 joke : żart  
 joker : żartowniś, dowcipniś  
 jong : gatunek  
@@ -1412,6 +1410,9 @@ no : nie
 nobelium : nobel  
 noce : noc  
 node : węzeł, zupeł  
+nol ren : nikt, żadna osoba  
+nol xey : nic, żadna rzecz  
+nol : zero, nic, żaden  
 nonga : uprawić, uprawiać  
 nonger : rolnik, farmer  
 norde : północ  
@@ -1435,9 +1436,6 @@ noy : dziewięć (9)
 nudi : nagi, goły, obnażony  
 nudiste : nudysta  
 nudistia : nudyzm  
-nul ren : nikt, żadna osoba  
-nul xey : nic, żadna rzecz  
-nul : zero, nic, żaden  
 num un : pierwszy, numer jeden  
 num : numer  
 nun : teraz  

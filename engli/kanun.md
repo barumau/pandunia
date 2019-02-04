@@ -199,26 +199,26 @@ Quantity can be expressed with numerals and other quantity-words. They
 are put before the word or phrase that they qualify.
 
 > **un xing** - one star  
-> **do xing** - two stars  
+> **dul xing** - two stars  
 > **sam xing** - three stars  
 > **xaw xing** - few stara  
 > **pol xing** - many stars
 
 > **un day meze** - one big table  
-> **do day kurse** - two big chairs  
+> **dul day kurse** - two big chairs  
 > **sam bon kurse** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
 > **fen un** - the first part (part one)
-> **fen do** - the second part (part two)
+> **fen dul** - the second part (part two)
 > **fen sam** - the third part (part three)
 
 The basic number words are:
 
-- 0 **nul**
+- 0 **nol**
 - 1 **un**
-- 2 **do**
+- 2 **dul**
 - 3 **sam**
 - 4 **car**
 - 5 **lim**
@@ -231,16 +231,16 @@ Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of
 mathematics.
 
-- 10 **un nul** or **des**
+- 10 **un nol** or **des**
 - 11 **un un**
-- 12 **un do**
+- 12 **un dul**
 - 13 **un sam**
-- 20 **do nul**
-- 21 **do un**
-- 22 **do do**
-- 100 **un nul nul** or **hon**
-- 101 **un nul un** or **hon un**
-- 200 **do nul nul** or **do hon**
+- 20 **dul nol**
+- 21 **dul un**
+- 22 **dul dul**
+- 100 **un nol nol** or **hon**
+- 101 **un nol un** or **hon un**
+- 200 **dul nol nol** or **dul hon**
 
 Numbers that are greater than 999 may use the multiples from the
 International System of Units. So for example kilo denotes a multiple
@@ -727,7 +727,7 @@ Or in the opposite order:
 The particles help in creating measure words too.
  
 **un sake da patate** - one sack of potatos  
-**do sake da patate** - two sacks of potatos  
+**dul sake da patate** - two sacks of potatos  
 **max sake da patate** - more sacks of potatos
  
 Note that **da** and **du** connect phrases together. So a modifier
@@ -858,7 +858,7 @@ In Pandunia some verbs function like prepositions do in English.
 > **mi kata nan.** - I cut bread.  
 > **mi kata nan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
-> **mi denga dura do hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
+> **mi denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
 Here are some verbs that are usable as prepositions:
 

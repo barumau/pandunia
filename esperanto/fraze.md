@@ -354,7 +354,7 @@ Mi volas havi novan telefonon.
 
 **eska tu ada bace?**
 Ĉu vi havas infanojn?  
-**mi ada do bace.**
+**mi ada dul bace.**
 Mi havas du infanojn.
 
 ### jan <small>scii, koni</small>
@@ -530,7 +530,7 @@ Pardonon, mi ne komprenas vin.
 **mi no bas aha tu.**
 Mi ne sufiĉe komprenis vin.
 
-**mi aha nul.**
+**mi aha nol.**
 Mi komprenas nenion.
 
 ### ken <small>povi</small>

@@ -23,10 +23,10 @@ The word for "to be" is not normally used in Pandunia. An expression like **ye s
 > **ye si sara.** - She is Sara.
 > **ye no sara.** - She is not Sara.  
 
-But something is needed between two nouns. If you say, for example, **mau hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **si** in the middle. It's not a verb but a particle, **si** means "yes" in English. Naturally, **no** is used for negation.
+But something is needed between two nouns. If you say, for example, **maw hewan** (word for word: _cat animal_), people probably can guess what you mean. But they also could get confused and think of it as a compound word. So it's better to add the word **si** in the middle. It's not a verb but a particle, **si** means "yes" in English. Naturally, **no** is used for negation.
 
-> **mau si hewan** - The cat is an animal.
-> **mau no hewan** - The cat is not an animal.
+> **maw si hewan** - The cat is an animal.
+> **maw no hewan** - The cat is not an animal.
 
 Of course personal pronouns like **mi**, **tu** and **ye** don't need **si** after them. So you can introduce yourself simply by saying **mi** followed by your name. Try it!
 
@@ -324,10 +324,10 @@ En la lección anterios apredimos a responder con **si** y **no**. La palabra **
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-> **ye no ada mau.** = Ella no tiene gato.  
-> **ye ada no mau, ama waf.** = Ella no tiene gatos sino perros.  
-> **no ye, a mi ada mau.** = Ella no, pero yo tengo gato.  
-> **mi ada no un, a do mau.** = Yo no tengo un gato sino dos gatos.  
+> **ye no ada maw.** = Ella no tiene gato.  
+> **ye ada no maw, ama waf.** = Ella no tiene gatos sino perros.  
+> **no ye, a mi ada maw.** = Ella no, pero yo tengo gato.  
+> **mi ada no un, a dul maw.** = Yo no tengo un gato sino dos gatos.  
 
 
 ### Ejercicios
@@ -344,17 +344,17 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**kupe** copa, vaso, taza. **hali** vacio. **ada** tener, poseer. **mau** gato. **waf** perro. **do** dos. **nul** cero. **a** pero, sino.
+**kupe** copa, vaso, taza. **hali** vacio. **ada** tener, poseer. **maw** gato. **waf** perro. **dul** dos. **nol** cero. **a** pero, sino.
 
 
 ### Respuestas
 
 1. ye no safa kamer.
 2. un kupe no hali.
-3. do waf no nyama supe.
-4. ye no ada waf i mau. / ye ada no waf i no mau.
+3. dul waf no nyama supe.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama ca a no kafé.
-6. mama ada no waf a do mau.
+6. mama ada no waf a dul maw.
 
 --------------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
 # lekse da asle
   
-pandunia da loge laya ze multi bax du dunia.
+pandunia da loge laya ze pol bax du dunia.
   
 - afriki bax
     - arabi (ara)
@@ -56,6 +56,7 @@ ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇ
 aple ← eng:apple. deu:Apfel. ind:apel.  
 aplika ← spa:por:aplicar. fra:appliquer. eng:apply.  
 aplike ← eng:application. spa:aplicación. por:aplicação. pol:aplikacja.  
+arane ← fra:araignee. por:aranha. spa:araña. eng:arachnid.  
 aranje ← eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".  
 arbuze ← rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
 are ← eng:area. por:spa:área.  
@@ -200,6 +201,7 @@ droge ← eng:drug. spa:droga. fra:drogue. deu:Droge.
 du ← por:do. fra:du. pus:"də".  
 duga ← zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".  
 duke ← hin:दुःख "duḥkh". ben:দুঃখ "dukhô". tha:ทุกข์ "tuk". may:duka. eng:dukkha. + zho:苦 "kǔ".  
+dul ← kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.  
 duman ← hin:धूआँ "dhuã". tur:duman. rus:дым "dym". kan:"dhūma". ben:ধোঁয়া "dhõẇa".  
 dunia ← ind:swa:dunia. ara:"dunyā". hindi:दुनिया "duniyā". hau:duniya.  
 dur ← eng:duration. fra:durée. spa:por:durar. deu:dauer.  
@@ -322,7 +324,6 @@ is ← sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.
 islam ← ara:(ʾislām). per:(taslim). tur:teslim.  
 izi ← eng:easy. fra:aisée.  
 ##j  
-ja ← ita:già. por:já. fra:déjà. spa:ya. + swa:-ja-.  
 jake ← eng:jacket. zho:夹克 (jiākè). rus:жакет (žaket). deu:Jacke. por:jaqueta.  
 jala ← hin:जलना (jalnā). urd:(jalnā). mar:जळणे (j̈aḷṇe).  
 jama ← ara: جمع /jamaʕa/.  
@@ -340,7 +341,6 @@ jin ← zho:真 (zhēn). kor:진 (jin). jpn:真 (shin). tha:จริง (jing).
 jinse ← ara:urd:(jins). per:(jens). swa:jinsia. tur:cins(iyet). por:gênero. eng:gender.  
 jiraf ← ind:jerapah. tur:zürafa. eng:fra:giraffe.  
 jiwe ← hin:जीवन "jīvan". tha:ชีวิต "chiwit". khm:"jiweut". + ind:jiwa. + rus:живой "živoy".  
-jo ← hin:जो "jo".  
 jowan ← hin: "javān". por:jovem. spa:joven.  
 jung ← zho:中 "zhōng". yue:"zung". kor:중 "jung".  
 jupe ← fra:jupe. ara:"jūb". rus:юбка "yubka".  
@@ -519,6 +519,7 @@ nida ← eng: need.
 ninde ← hin:mar:निन्द् (nind).  
 no ← eng: no. spa: no. fra: non.  
 node ← eng:node. spa:nudo. por:nó. fra:nœud.  
+nol ← ind:nol.  
 nowi ← per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.  
 num ← deu:Nummer. eng:number. tur:numara. fra:numéro.  
 nur ← ara:per:(nūr). swa:nuru. taj:uzb:нур (nur).  

@@ -160,7 +160,7 @@ Making requests
 ☻: **salam!** = Hello!  
 ☺: **salam! cing sida.** = Hello! Please sit!  
 ☻: **danke.** = Thank you.  
-☺: **cing nyama kafé u ca.** = Please have some coffee or tea.  
+☺: **cing nyama kafe u ca.** = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.** = I will have some tea, thank you.  
 ...
 ☺: **cing salama tu da mamá!** = Please tell greetings to your mother.  
@@ -209,7 +209,7 @@ The phrase **cing salama ye** has a useful pattern that can be used
 for making polite requests.
 
 > **cing sida.** = Please be seated.  
-> **cing dona kafé.** = Please give me some coffee.  
+> **cing dona kafe.** = Please give me some coffee.  
 > **cing dona ca.** = Please give me some tea.  
 > **cing nyama ca.** = Please have some tea.  
 > **cing safa kamar.** = Please clean the room.
@@ -244,7 +244,7 @@ Try translating these sentences from English to Pandunia.
 **dona** to give.
 **danke** thanks.
 **i** and.
-**kafé** coffee.
+**kafe** coffee.
 **kamar** room.
 **manda** to command.
 **u** or.
@@ -257,9 +257,9 @@ Try translating these sentences from English to Pandunia.
 
 1. ye nyama ca.
 2. xefe cing ye sida.
-3. cing nyama kafé u ca.
+3. cing nyama kafe u ca.
 4. mamá cing mi safa kamar.
-5. xefe sida i nyama kafé.
+5. xefe sida i nyama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -270,17 +270,17 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafé u ca?** = Hello! Would you like to have coffee or tea?  
+☻: **salam! eska tu nyama kafe u ca?** = Hello! Would you like to have coffee or tea?  
 ☺: **ca.** = Tea.  
 ☻: **i tu?** = And you?  
 ○: **mi no baxa pandunia...** = I don't speak Pandunia...  
 ☻: **pardon! eska ye nyama ca?** = Pardon! Will he have tea?  
-☺: **no. ye no nyama ca. ye nyama kafé.** = No, he won't. He would like to have coffee.  
+☺: **no. ye no nyama ca. ye nyama kafe.** = No, he won't. He would like to have coffee.  
 ☻: **eska tu nyama supe?** = Would you like to have soup?  
 ☺: **nyama.** = Yes. (_I eat._)  
 ☻: **eska ye nyama supe?** = Would he like to have soup?  
 ☺: **no nyama.** = No.  
-☻: **danke. mi dona un ca i un kafé i un supe na bade du des minute.**
+☻: **danke. mi dona un ca i un kafe i un supe na bade du des minute.**
  = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -305,7 +305,7 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-> **eska xefe nyama kafé?** = Does the chief drink coffee?  
+> **eska xefe nyama kafe?** = Does the chief drink coffee?  
 > **eska papá safa kamar?** = Does the father clean the room?  
 > **eska niki baxa pandunia?** = Does Nicky speak Pandunia?
 
@@ -321,10 +321,10 @@ Yes/no questions can be answered with **si** = yes, and **no** = no.
 
 Also more complete answers can be given.
 
-> – **eska tu nyama kafé?** = Do you drink coffee?  
-> – **si. mi nyama kafé.** = Yes, I drink coffee.  
-> – **eska ye nyama kafé?** = Does he drink coffee?  
-> – **no. ye no nyama kafé.** = No, he doesn't drink coffee.
+> – **eska tu nyama kafe?** = Do you drink coffee?  
+> – **si. mi nyama kafe.** = Yes, I drink coffee.  
+> – **eska ye nyama kafe?** = Does he drink coffee?  
+> – **no. ye no nyama kafe.** = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
@@ -364,8 +364,8 @@ Try translating these sentences from English to Pandunia.
 
 1. eska tu baxa pandunia?
 2. si. mi baxa pandunia.
-3. eska mamá nyama kafé?
-4. no. ye no nyama kafé.
+3. eska mamá nyama kafe?
+4. no. ye no nyama kafe.
 5. eska ye nyama supe?
 6. (ye) no nyama.
 
@@ -399,7 +399,7 @@ and even numeral.
 > **ye no ada maw.** = She doesn't have a cat.  
 > **ye ada no maw, ama waf.** = She has no cats but dogs.  
 > **no ye, a mi ada maw.** = Not she but I have cats.  
-> **mi ada no un, a do maw.** = I have not one but two cats.
+> **mi ada no un, a dul maw.** = I have not one but two cats.
 
 
 ### Exercises
@@ -422,8 +422,8 @@ is more than one correct answer.
 **ada** to have.
 **maw** cat.
 **waf** dog.
-**do** two.
-**nul** zero.
+**dul** two.
+**nol** zero.
 **a** but.
 
 
@@ -431,10 +431,10 @@ is more than one correct answer.
 
 1. ye no safa kamar.
 2. un kupe no hali.
-3. do waf no nyama supe.
+3. dul waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafé.
-6. mamá ada no waf a do maw.
+5. xefe nyama ca a no kafe.
+6. mamá ada no waf a dul maw.
 
 
 <!--
@@ -450,7 +450,7 @@ question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
 > **ye si ke?** = What is that? / Who is (s)he?  
-> **ke ren lai?** = Who is coming? (**ren** = person)  
+> **ke ren laya?** = Who is coming? (**ren** = person)  
 > **ke zaman tu nyama?** = When do you eat? (**zaman** = time)  
 > **ke yang dansa?** = How to dance? (**yang** = manner, style)
 
@@ -483,7 +483,7 @@ something, even when not answering to a question.
 ### Word List
 
 **dansa** to dance.
-**lai** to come.
+**laya** to come.
 **ren** person.
 **suku** to like.
 **yang** manner, style.
@@ -495,10 +495,10 @@ something, even when not answering to a question.
 
 1. ke ren suku supe?
 2. papá suku.
-3. ke zaman ye lai?
+3. ke zaman ye laya?
 4. na des minute bada.
 5. ye no nyama koz ke?
-6. koz (ye) no suku kafé u supe.
+6. koz (ye) no suku kafe u supe.
 
 -->
 
@@ -602,10 +602,10 @@ answers are at the bottom of this page.
 ### Answers to the Exercises
 
 1. mi da xefe festa na wile.
-2. mi ada do waf na pase.
+2. mi ada dul waf na pase.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
-5. maw nyama kafé na badi den.
+5. maw nyama kafe na badi den.
 6. tu da mamá festa na befo noce.
 
 

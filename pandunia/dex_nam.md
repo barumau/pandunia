@@ -1,7 +1,7 @@
-gok nam lista
+dex nam liste
 =============
 
-sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge se ge baca](http://www.omniglot.com/countries/).
+ce si liste du dex nam ze pandunia to engli. pandunia kapa dex nam ze [dex ren ren da se da bax](http://www.omniglot.com/countries/).
 
 ## afrika
 
@@ -24,9 +24,9 @@ sa e lista de gok nam ze pandunia do englic. pandunia kap gok nam ze [tamen ge s
 **libia** : Libya  
 **magrib** : Marocco  
 **malagas** : Madagascar  
-**mali** : Mali  
-**malawi** : Malawi  
-**misri** : Egypt  
+**malia** : Mali  
+**malawia** : Malawi  
+**misria** : Egypt  
 **mosambik** : Mozambique  
 **muritania** : Mauritania  
 **naijiria (naija)** : Nigeria  

@@ -376,7 +376,7 @@ Yo quiero tener un teléfono nuevo.
 
 **eska tu ada bace?**
 ¿Tienes niños?  
-**mi ada do bace.**
+**mi ada dul bace.**
 Tengo dos niños.
 
 ### jan <small>saber, conocer</small>
@@ -555,7 +555,7 @@ Lo siento. No te entiendo.
 **mi no bas aha tu.**
 No te entiendo muy bien.
 
-**mi aha nul.**
+**mi aha nol.**
 No entiendo nada.
 
 ### ken <small>poder</small>

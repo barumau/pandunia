@@ -22,7 +22,7 @@
     le  ro
     yay waw
 
-## abace na poli bax
+## abace na pol bax
 
 |   | pandunia | engli | espan | fransi | indonesi | rusi | helen | arabi |
 |---|-----|-----|-----|-----|-----|-----|-----|-----|

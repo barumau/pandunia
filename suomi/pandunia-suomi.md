@@ -60,6 +60,8 @@ aple : omena
 aplika : soveltaa  
 aplike : sovellus  
 arabi : arabialainen  
+arane : hämähäkki  
+arani fobia : araknofobia (hämähäkkikammo)  
 aranje : appelsiini  
 aranji : oranssi  
 arbuze : vesimeloni  
@@ -366,7 +368,6 @@ din : uskonto
 ding : naula (piikki)  
 diske : kiekko (levy)  
 disprosium : dysprosium  
-do : kaksi (2)  
 doici : saksalainen  
 doicia : Saksa  
 dokum : asiakirja (dokumentti, tiedosto)  
@@ -394,6 +395,9 @@ duga : lukea
 duka : surra (murehtia)  
 duke : suru (murhe)  
 duki : surullinen  
+dul : kaksi (2)  
+duli : kaksois- (duaalinen)  
+dulistia : dualismi  
 dum : häntä  
 duman : savu  
 dunia bax : maailmankieli  
@@ -766,7 +770,6 @@ israel : Israel
 italia : Italia  
 izi : helppo  
 ##j  
-ja : jo (ennen)  
 jake : pikkutakki (jakku)  
 jala : polttaa  
 jalu : palaa  
@@ -802,7 +805,6 @@ jersia : Jersey
 jeste : ele  
 jibraltar : Gibraltar  
 jibutia : Djiboutia  
-jiju' : hämähäkki  
 jika : suoristaa  
 jiki : suora  
 jin : tosi (aito)  
@@ -813,7 +815,6 @@ jiwa : elää
 jiwe lojia : biologia  
 jiwe : elämä  
 jiwi : elävä  
-jo : joka (relatiivinen)  
 joke : vitsi  
 joker : vitsiniekka  
 jong : laji  
@@ -1425,6 +1426,9 @@ no : ei
 nobelium : nobelium  
 noce : yö  
 node : solmu  
+nol ren : ei kukaan  
+nol xey : ei mitään  
+nol : nolla (ei yhtään)  
 nonga : viljellä  
 nonger : maanviljelijä  
 norde : pohjoinen  
@@ -1448,9 +1452,6 @@ noy : yhdeksän
 nudi : alaston (paljas, naku)  
 nudiste : nudisti  
 nudistia : nudismi  
-nul ren : ei kukaan  
-nul xey : ei mitään  
-nul : nolla (ei yhtään)  
 num un : ensimmäinen (numero yksi)  
 num : lukumäärä (luku, numero)  
 nun : nyt  

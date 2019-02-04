@@ -65,7 +65,8 @@ anusa : anusi
 anuso : anus  
 aparteni : adu  
 araba : arabi  
-araneo : jiju'  
+araneo : arane  
+araneofobio : arani fobia  
 arbaro : jangal  
 arbo : xu  
 areo : are  
@@ -247,7 +248,7 @@ dormo : son
 dormoĉambro : son kamar  
 dramo : drame  
 drinkejo : bar  
-du (2) : do  
+du (2) : dul  
 dubnio : dubnium  
 dubo : dute  
 duŝo : dux  
@@ -503,7 +504,6 @@ iu ajn : eni
 iu persono : koy ren  
 ##j  
 jako : jake  
-jam (-is) : ja  
 jam (esti farita) : lew  
 Jamajko : jamaike  
 Japanio : nipon  
@@ -1176,7 +1176,6 @@ tigro : bagre
 timo (fobio) : fobe  
 tio : de  
 tio estas (alivorte) : yani  
-tio kio : jo  
 tiri : tira  
 titanio : titan  
 tiu : di  

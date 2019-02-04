@@ -321,7 +321,7 @@ duch, fantom : fantom
 dumać, rozmyślać, zastanawiać się : hema  
 dusza, duch, umysł : ruhe  
 duży; bardzo : day  
-dwa (2) : do  
+dwa (2) : dul  
 dym : duman  
 dysk : diske  
 dyskusja, debata, dyskurs : lon  
@@ -615,7 +615,6 @@ judo : judo
 Jupiter : muxing  
 jutro : badi den  
 już (skończona czynność) : lew  
-już : ja  
 język surinamski : surinam bax  
 język sztuczny : sani bax  
 język świata, język ogólnoświatowy : dunia bax  
@@ -779,7 +778,6 @@ książka z obrazkami : graf buke
 księżyc : lun  
 kszesło, fotel : kurse  
 ktoś : koy ren  
-który, co : jo  
 który? : ki  
 Kuba : kuba  
 kubek : kupe  
@@ -1067,7 +1065,7 @@ neon : neon
 Nepal : nepal  
 Neptun : neptun  
 neptun : neptunium  
-nic, żadna rzecz : nul xey  
+nic, żadna rzecz : nol xey  
 nie : no  
 nie ruszać się : stasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
@@ -1088,7 +1086,7 @@ Nigeria : naijiria
 nihonium : niponium  
 Nikaragua : nikaragua  
 nikiel : nikel  
-nikt, żadna osoba : nul ren  
+nikt, żadna osoba : nol ren  
 niob : niobium  
 nisza, alkowa : nixe  
 Niue : niwe  
@@ -1205,7 +1203,7 @@ ożeniony, zamężny, w związku małżeńskim : mari
 ożenić się, poślubić, wyjść za mąż : mara  
 ##p  
 paczka, paka : pake  
-pająk : jiju'  
+pająk : arane  
 Pakistan : pakistan  
 Palau : palaw  
 palec : finger  
@@ -2157,7 +2155,7 @@ zdjęcie, fotografia : foto
 zdrada małżeńska, cudzołóstwo : zine  
 zebra : zebre  
 zemleć, mleć, mielić : mola  
-zero, nic, żaden : nul  
+zero, nic, żaden : nol  
 zewnętrzny : way  
 ziarno, nasienie : dan  
 zielony : berdi  

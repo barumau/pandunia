@@ -51,6 +51,8 @@ anus : anuso
 anusi : anusa  
 aple : pomo  
 arabi : araba  
+arane : araneo  
+arani fobia : araneofobio  
 aranje : oranĝo  
 aranji : oranĝa  
 arbuze : akvomelono  
@@ -303,7 +305,6 @@ din : religio
 ding : najlo  
 diske : disko  
 disprosium : disprozio  
-do : du (2)  
 dolar : dolaro  
 dom : hejmo (loĝejo)  
 doma : loĝi  
@@ -325,6 +326,7 @@ duga : legi
 duka : lamenti  
 duke : malĝojo  
 duki : malĝoja  
+dul : du (2)  
 dum : vosto  
 duman : fumo  
 dunia bax : mondlingvo  
@@ -617,7 +619,6 @@ israel : Israelo
 italia : Italio  
 izi : facila  
 ##j  
-ja : jam (-is)  
 jake : jako  
 jama : kolekti (kunigi)  
 jamaike : Jamajko  
@@ -637,7 +638,6 @@ jena : naskigi
 jenju' : perlo  
 jentil : bonkora  
 jenu : naski  
-jiju' : araneo  
 jin : vera  
 jinse : genro  
 jiraf : ĝirafo  
@@ -645,7 +645,6 @@ jiwa : vivi
 jiwe lojia : biologio  
 jiwe : vivo  
 jiwi : viva  
-jo : tio kio  
 jowan fem : knabino  
 jowan man : knabo  
 jowan : juna  
