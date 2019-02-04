@@ -1,6 +1,8 @@
 # Пандуния
 [gimmick:theme](readable)
 
+[🏠](index.md)
+
 [Звучание](abc.md)
 [Уроки](darse.md)
 [Грамматика](kanun.md)

@@ -1,7 +1,7 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Etusivu](index.md)
+[🏠](index.md)
 
 [Opiskelu]()
 

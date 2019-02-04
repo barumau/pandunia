@@ -1,6 +1,8 @@
 # pandunia
 [gimmick:theme](readable)
 
+[🏠](index.md)
+
 [Prononco](abc.md)
 [Utilaj frazoj](fraze.md)
 [Gramatiko](kanun.md)

@@ -1,7 +1,7 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Strona główna](index.md)
+[🏠](index.md)
 
 [Wprowadzenie](dunia_baxe.md)
 

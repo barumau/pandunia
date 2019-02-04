@@ -1,7 +1,7 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Home](index.md)
+[🏠](index.md)
 
 [ABC](abc.md)
 

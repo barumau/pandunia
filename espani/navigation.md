@@ -1,7 +1,7 @@
 # pandunia
 [gimmick:theme](readable)
 
-[Inicio](index.md)
+[🏠](index.md)
 
 [Principios](filsofe.md)
 

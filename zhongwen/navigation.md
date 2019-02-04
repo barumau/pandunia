@@ -1,6 +1,8 @@
 # pandunia
 [gimmick:theme](readable)
 
+[🏠](index.md)
+
 [字母表](abc.md)
 [短语集](fraze.md)
 [视频](../pandunia/filme.md)

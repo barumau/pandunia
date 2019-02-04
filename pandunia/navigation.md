@@ -2,6 +2,8 @@
 
 [gimmick:theme](readable)
 
+[🏠](index.md)
+
 [abc](abc.md)
 
 [histor]()
