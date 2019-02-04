@@ -33,6 +33,7 @@ pandunia da loge laya ze multi bax du dunia.
 ## -
 
  ← ara:(ḥāl). per:(hāl). ind:hal. swa:hali.   
+ ← rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).  
 -a ← ←  
 -er ← eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.  
 -i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
@@ -316,6 +317,7 @@ importi ← eng:fra:important. spa:importante.
 inde ← eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.  
 infece ← cze:infekce. ita:infezione. eng:infection. por:infecção. tur:enfeksiyon. rus:инфекция (infektsiya).  
 insan ← ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". per:"ensān".  
+ion ← eng:fra:spa:ion. rus:ион (ion). tur:iyon.  
 is ← sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.  
 islam ← ara:(ʾislām). per:(taslim). tur:teslim.  
 izi ← eng:easy. fra:aisée.  
@@ -485,7 +487,7 @@ minister ← swa:hau:waziri. ara:"wazir". hin:वज़ीर "vazir". tur:vezir
 minor ← eng: minor.  
 minoria ← spa: minoría.  
 mirer ← eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.  
-misal ← hin:मिसाल "misāl". ara:"mithāl".  
+misal ← hin:मिसाल (misāl). ara:(mithāl).  
 mita ← zho:会 (huì). vie:hội. jpn:会 (kai). kor:회의 (hoehi).   
 mixa ← deu:mischen. rus:мешать (měšat'). pol:mieszać. eng:mix. ita:miscelare. + hin:मिश्रण (miśrān).  
 moge ← zho:墨 "mò". vie:mực. thai:หมึก "muk".  
@@ -563,6 +565,7 @@ pix ← eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipi
 pize ← ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).  
 plante ← eng:plant. por:spa:planta. fra:plante.  
 poke ← eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).  
+pol ← ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:поли- (poli-).  
 polaw ← per:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).  
 politike ← ell:πολιτική (politikē). ind:politik. tur:politika. eng:politics. por:spa:política. fra:politique. rus:политика (politika).  
 ponta ← eng:point. por:apontar. spa:apuntar. fra:pointer.  
@@ -581,7 +584,6 @@ punte ← spa:punto. rus:пункт "punkt". eng:point.
 puran ← hin:पुराना "purānā". ben:পুৰণা "puron".  
 puru ← ara:"riša". mlt:rix.  
 ##r  
-rade ← rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).  
 rajia ← hin:राज्य (rājya). ben:রাজ্য (rajyô).  
 rasme ← ara:(rasm). hin:रस्म (rasma). ind:resmi.  
 rastu ← spa:crecer. por:crescer. ita:crescere.  
@@ -759,7 +761,7 @@ yakin ← hau:yaƙini.swa:yakini.
 yang ← zho: 样 "yàng". tha: อย่าง "yàang". khm: យ៉ាង "yaang".  
 yatim ← ara:per:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).  
 yen suy ← kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.  
-yen ← zho: 眼 "yǎn". ara: عين‏‎ /ʿen/.  
+yen ← zho: 眼 (yǎn). ara: عين‏‎ (ʿen).  
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
 ##z  

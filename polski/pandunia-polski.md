@@ -8,6 +8,7 @@
 -iste : przyrostek dla wsperającego ideę  
 -istia : przyrostek dla ideologii  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : linia, rząd  
  : status, kondycja, stan  
 ##a  
 a : ale, lecz  
@@ -1585,7 +1586,6 @@ pluto : Pluton (planeta karłowata)
 plutonium : pluton  
 poke : poker  
 polaw : pilaw  
-poli : kilka, kilku  
 polis : policja  
 poliser : oficer policji, policjant  
 politike : polityka  
@@ -1604,9 +1604,9 @@ posa : móc, umieć
 posabli : prawdopodobnie, możliwie  
 pospor : fosfor  
 posta : nadać, wysłać pocztą  
-poste cape : znaczek pocztowy  
 poste kan : poczta, budynek poczty  
 poste : poczta  
+posti cape : znaczek pocztowy  
 pote : waza, garnek, gar, doniczka, słoik, słój  
 poza : pozować, ustawiać się  
 poze : poza, pozycja  
@@ -1647,8 +1647,7 @@ putong han : mandaryński chiński, Putonghua
 putong : powszechny, uniwersalny  
 puxa : pchnąć, pchać  
 ##r  
-rade : linia, rząd  
-radio : radio  
+radi geter : radio  
 radium : rad  
 radon : radon  
 rajer : król lub królowa  

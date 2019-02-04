@@ -793,6 +793,7 @@ germanium : germanium
 Germany : doicia  
 gesture : jeste  
 get (receive, obtain, take) : geta  
+getter (receiver, recipient) : geter  
 Ghana : gania  
 ghost (fantom) : fantom  
 Gibraltar : jibraltar  
@@ -984,6 +985,7 @@ interrogative : eski
 invite : bita laya  
 iodine : iode  
 iodine : yode  
+ion : ion  
 Iran : iran  
 Iraq : irakia  
 iridium : iridium  
@@ -1155,6 +1157,7 @@ magician (sorcerer) : mager
 magnesium : magnes  
 magnet : magnete  
 magnetic : magneti  
+mail (send by mail) : posta  
 mail : poste  
 main (principal) : xefi  
 major (not minor) : maxor  
@@ -1177,6 +1180,7 @@ mango : mange
 mangosteen : mangus  
 mankind (humanity) : insania  
 manual : hani  
+many (much) : pol  
 Marathi : marati  
 marathon : maraton  
 marble : marmar  
@@ -1255,6 +1259,7 @@ minority : minoria
 minute : minut  
 mirror : mirer  
 misfortune (bad luck) : mal zar  
+mission (transmission, emission) : misia  
 mix (blend) : mixa  
 mixer (blender) : mixer  
 model (design) : model  
@@ -1554,6 +1559,7 @@ polite : keci
 politician : politiker  
 politics : politike  
 polonium : polon  
+poly- (multi-) : poli  
 ponder (think) : hema  
 pool (basin) : basen  
 poor (miserable) : miskin  
@@ -1567,7 +1573,7 @@ pose (position) : poze
 pose (set) : poza  
 possible (possibly, maybe, perhaphs) : posabli  
 post office : poste kan  
-postal stamp : poste cape  
+postal stamp : posti cape  
 posture (asana) : asan  
 potassium : kalium  
 potato : patate  
@@ -1626,8 +1632,13 @@ rabbit (hare) : tuze
 race (ethnicity) : ras  
 racism : rasistia  
 racist : rasiste  
-radio : radio  
+radiate : rada  
+radiation : radia  
+radio receiver : radi geter  
+radioactive : ioni radi  
+radioactivity (ionizing radiation) : ioni radia  
 radional (reasonable) : razoni  
+radiotransmitter : radi miser  
 radish : lobak  
 radium : radium  
 radon : radon  
@@ -1635,6 +1646,8 @@ railway (railroad) : tren daw
 raisin : gan putaw  
 Ramadan : ramazan  
 random : zari  
+ray : rade  
+ray of light : nuri rade  
 read : duga  
 ready : redi  
 realization (awareness, enlightenment, bodhi) : bude  
@@ -1709,7 +1722,7 @@ rose : roze
 rotor (rotator) : rotor  
 round (circular) : cirki  
 routine (habit) : rutin  
-row (line, queue) : rade  
+row (line, queue) :   
 royal : raji  
 rubber : gom  
 rubidium : rubidium  
@@ -1769,7 +1782,8 @@ selenium : selen
 selenium : selen  
 self : se  
 self : tan  
-send by mail : posta  
+send (emit, transmit) : misa  
+sender (transmitter) : miser  
 Senegal : senegal  
 sense : sense  
 sentence (phrase) : jumle  
@@ -1778,7 +1792,6 @@ Serbia : serbia
 series : serye  
 sesame : sesam  
 seven (7) : set  
-several : poli  
 sex (sexual intercourse) : sekse  
 sexual (relating to gender) : jinsi  
 sexy (sexual) : seksi  

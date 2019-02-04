@@ -456,6 +456,7 @@ innoittaa (inspiroida) : inspira
 insinööri : injener  
 Intia : bartia  
 intialainen : barti  
+ioni : ion  
 Irak : irakia  
 Iran : iran  
 iridium : iridium  
@@ -977,6 +978,9 @@ lyödä (iskeä) : darba
 lähde (kaivo) : fonte  
 läheinen : karbi  
 lähettiläs : dayxi  
+lähettäjä (lähetin) : miser  
+lähettää : misa  
+lähetys : misia  
 lähetystö : dayxi kan  
 lähtien (-sta, -lta) : sa  
 lämmin : garmi  
@@ -1121,6 +1125,7 @@ Monaco : monako
 monarkki (kuningas, kuningatar) : rajer  
 mongoli : mongol  
 Mongolia : mongolia  
+moni- (poly-, multi-) : poli  
 monismi : monistia  
 Montenegro : cerni goria  
 moottori : moter  
@@ -1320,6 +1325,7 @@ Palau : palaw
 palauttaa : fuga  
 Palestiina : filistinia  
 paljastaa : dekula  
+paljon (monta) : pol  
 palladium : paladium  
 pallo : bol  
 palmu : palme  
@@ -1434,9 +1440,10 @@ porno : porne
 pornografia : porne grafia  
 porras (aste, taso) : darje  
 Portugali : portugal  
-posti (lähetys) : poste  
-postileima : poste cape  
+posti (postilähetys) : poste  
+postileima : posti cape  
 postitoimisto : poste kan  
+postittaa : posta  
 povi : buste  
 profeetta : naber  
 professori : profesor  
@@ -1503,7 +1510,10 @@ pöytä : meze
 Qatar : kataria  
 ##r  
 Raamattu : biblia  
-radio : radio  
+radioaktiivinen : ioni radi  
+radioaktiivisuus : ioni radia  
+radiolähetin : radi miser  
+radiovastaanotin : radi geter  
 radium : radium  
 radon : radon  
 raha : pese  
@@ -1546,7 +1556,7 @@ rintakehä : sine kase
 riski : riske  
 risteytys (hybridi) : hibride  
 risti : krus  
-rivi : rade  
+rivi :   
 robotti : robote  
 rohkea (urhea) : yungam  
 roikuttaa : penda  
@@ -1582,6 +1592,7 @@ ryhmä : grupe
 rytmi : ritme  
 ryöstää (ryövätä) : luta  
 ##s  
+saaja (vastaanottaja) : geter  
 saari : nes  
 saaristo : nesia  
 sahrami : zafran  
@@ -1758,12 +1769,15 @@ syy : karen
 syyllinen : doxi  
 Syyria : suria  
 syyskuu : mes 9 (mes noy)  
+säde : rade  
 sähkö : eletre  
 sähköinen : eletri  
 sähköposti : eletri poste (e-poste)  
 säiliö : tener  
 säilyttäjä : hafizer  
 säilyttää (varjella) : hafiza  
+säteillä : rada  
+säteily : radia  
 sävel (sävy) : ton  
 sää : tenke  
 söpö (suloinen) : kaway  
@@ -1976,7 +1990,6 @@ urheilija : keler
 urheilu : kel  
 uros (mies) : man  
 Uruguai : uruguay  
-usea : poli  
 usein : cang  
 usko (luottamus) : xin  
 uskoa (luottaa) : xina  
@@ -2013,6 +2026,7 @@ valmis : redi
 valo : nur  
 valoisa : nuri  
 valokuva (foto) : foto  
+valonsäde : nuri rade  
 valta : kratia  
 vanginvartija : prizoner  
 vangita : prizona  

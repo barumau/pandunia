@@ -8,6 +8,7 @@
 -iste : pääte: aatteen kannattaja  
 -istia : pääte: aate tai uskonto  
 -u : pääte: OVS-sanajärjestyksen verbi  
+ : rivi  
  : tila  
 ##a  
 a : mutta  
@@ -585,6 +586,7 @@ genca : tutkia
 genze : Guernsey  
 germanium : germanium  
 geta : hankkia (saada)  
+geter : saaja (vastaanottaja)  
 gey : homo (homoseksuaali)  
 gida : ohjata (ohjastaa)  
 giga : miljardi (giga-)  
@@ -745,6 +747,9 @@ inter : väli
 interes : kiinnostus (mielenkiinto)  
 inxala : toivoa  
 iode : jodi  
+ion : ioni  
+ioni radi : radioaktiivinen  
+ioni radia : radioaktiivisuus  
 irakia : Irak  
 iran : Iran  
 iridium : iridium  
@@ -1283,7 +1288,10 @@ minus : paitsi (miinus)
 minut : minuutti  
 mira : heijastaa (peilata)  
 mirer : peili  
+misa : lähettää  
 misal : esimerkki  
+miser : lähettäjä (lähetin)  
+misia : lähetys  
 miskin : kurja (raukka)  
 misri : egyptiläinen  
 misria : Egypti  
@@ -1447,6 +1455,7 @@ num un : ensimmäinen (numero yksi)
 num : lukumäärä (luku, numero)  
 nun : nyt  
 nur : valo  
+nuri rade : valonsäde  
 nuri : valoisa  
 nuton : newton (N)  
 nyam kamar : ruokasali  
@@ -1590,8 +1599,9 @@ plus : myös (lisäksi, plus)
 pluto : Pluto (kääpiöplaneetta)  
 plutonium : plutonium  
 poke : pokeri  
+pol : paljon (monta)  
 polaw : pilahvi  
-poli : usea  
+poli : moni- (poly-, multi-)  
 polis : poliisi  
 poliser : poliiisi (poliisimies)  
 politike : politiikka  
@@ -1607,9 +1617,10 @@ portugal : Portugali
 posa : voida (osata, pystyä)  
 posabli : mahdollinen (mahdollisesti, ehkä)  
 pospor : fosfor  
-poste cape : postileima  
+posta : postittaa  
 poste kan : postitoimisto  
-poste : posti (lähetys)  
+poste : posti (postilähetys)  
+posti cape : postileima  
 pote : ruukku (vaasi, pata)  
 prate : käytäntö (pragmatia)  
 prati : käytännöllinen (pragmaattinen)  
@@ -1641,8 +1652,11 @@ putaw : viinirypäle
 putong han : yleiskiina (mandariinikiina)  
 putong : yleinen (universaali)  
 ##r  
-rade : rivi  
-radio : radio  
+rada : säteillä  
+rade : säde  
+radi geter : radiovastaanotin  
+radi miser : radiolähetin  
+radia : säteily  
 radium : radium  
 radon : radon  
 rajer : monarkki (kuningas, kuningatar)  

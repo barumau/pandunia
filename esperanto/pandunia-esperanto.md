@@ -8,6 +8,7 @@
 -istia : -ismo  
 -u : -i (-iĝi)  
  : stato  
+ : vico  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -602,6 +603,7 @@ insania : homaro
 interes : interesa  
 inxala : esperi  
 iode : jodo  
+ion : iono  
 irakia : Irakio  
 iran : Iranio  
 iridium : iridio  
@@ -1012,6 +1014,8 @@ platin : plateno
 plumbe : plumbo  
 plus : ankaŭ  
 plutonium : plutonio  
+poke : pokero  
+pol : multe  
 politike : politiko  
 politiker : politikisto  
 polon : polonio  
@@ -1040,8 +1044,7 @@ putaw : vinbero
 putong han : mandarinĉina  
 putong : universala  
 ##r  
-rade : vico  
-radio : radio  
+radi geter : radio  
 radium : radiumo  
 radon : radono  
 rajer : reĝo aŭ reĝino  

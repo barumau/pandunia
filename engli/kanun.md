@@ -202,8 +202,7 @@ are put before the word or phrase that they qualify.
 > **do xing** - two stars  
 > **sam xing** - three stars  
 > **xaw xing** - few stara  
-> **poli xing** - several stars (two or more)  
-> **multi xing** - many stars
+> **pol xing** - many stars
 
 > **un day meze** - one big table  
 > **do day kurse** - two big chairs  

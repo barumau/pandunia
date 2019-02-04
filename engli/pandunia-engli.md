@@ -8,6 +8,7 @@
 -iste : suffix for the supporter of an idea  
 -istia : suffix for ideologies and religions  
 -u : suffix for verbs with OVS word order  
+ : row (line, queue)  
  : status (condition, state, situation, circumstance)  
 ##a  
 a : but (whereas)  
@@ -587,6 +588,7 @@ genca : examine (inspect, check)
 genze : Guernsey  
 germanium : germanium  
 geta : get (receive, obtain, take)  
+geter : getter (receiver, recipient)  
 gey : gay (homosexual)  
 gida : steer  
 giga : billion (giga-)  
@@ -747,6 +749,9 @@ inter : between
 interes : interest (interesting)  
 inxala : hope (wish)  
 iode : iodine  
+ion : ion  
+ioni radi : radioactive  
+ioni radia : radioactivity (ionizing radiation)  
 irakia : Iraq  
 iran : Iran  
 iridium : iridium  
@@ -1286,7 +1291,10 @@ minus : except (minus)
 minut : minute  
 mira : reflect  
 mirer : mirror  
+misa : send (emit, transmit)  
 misal : example (instance of)  
+miser : sender (transmitter)  
+misia : mission (transmission, emission)  
 miskin : poor (miserable)  
 misri : Egyptian  
 misria : Egypt  
@@ -1450,6 +1458,7 @@ num un : first (number one)
 num : number  
 nun : now  
 nur : light (illumination)  
+nuri rade : ray of light  
 nuri : light (bright)  
 nuton : newton (N)  
 nyam kamar : dining room  
@@ -1593,8 +1602,9 @@ plus : also (plus, too)
 pluto : Pluto (dwarf planet)  
 plutonium : plutonium  
 poke : poker  
+pol : many (much)  
 polaw : pilaf (pulao)  
-poli : several  
+poli : poly- (multi-)  
 polis : police  
 poliser : police officer  
 politike : politics  
@@ -1612,10 +1622,10 @@ portugal : Portugal
 posa : can (know, be able)  
 posabli : possible (possibly, maybe, perhaphs)  
 pospor : phosphorus  
-posta : send by mail  
-poste cape : postal stamp  
+posta : mail (send by mail)  
 poste kan : post office  
 poste : mail  
+posti cape : postal stamp  
 pote : vase (pot, bin, jar, jug)  
 poza : pose (set)  
 poze : pose (position)  
@@ -1656,8 +1666,11 @@ putong han : Mandarin Chinese (Putonghua)
 putong : common (universal)  
 puxa : push  
 ##r  
-rade : row (line, queue)  
-radio : radio  
+rada : radiate  
+rade : ray  
+radi geter : radio receiver  
+radi miser : radiotransmitter  
+radia : radiation  
 radium : radium  
 radon : radon  
 rajer : king or queen  

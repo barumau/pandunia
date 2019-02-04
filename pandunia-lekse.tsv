@@ -580,6 +580,7 @@ zho:检查 "jiǎnchá". yue:檢查 "gimcaa". vie:kiểm tra.			genca	:	examine (
 	dex	GG	genze	:	Guernsey		Guernsey	Guernsey					
 	made	Ge	germanium	:	germanium	germaniumo	germanium	german					
 			geta	:	get (receive, obtain, take)	akiri (ricevi, preni)	hankkia (saada)	dostać, dostawać, otrzymać, otrzymywać, wziąć, brać					
+			geter	:	getter (receiver, recipient)		saaja (vastaanottaja)						
 eng:fra:spa:gay. por:guei.			gey	:	gay (homosexual)	samseksema	homo (homoseksuaali)	gejowski, homoseksualny					
 			gida	:	steer	stiri	ohjata (ohjastaa)	sterować					
 			giga	:	billion (giga-)	miliardo (giga-)	miljardi (giga-)	bilion, giga-					
@@ -738,6 +739,9 @@ ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". per:"ensā
 			interes	:	interest (interesting)	interesa	kiinnostus (mielenkiinto)	zainteresowanie, zaciekawienie; interesujący					
 			inxala	:	hope (wish)	esperi	toivoa	nadzieja, życzenie					
 	made	I	iode	:	iodine	jodo	jodi	jod; jodyna					
+eng:fra:spa:ion. rus:ион (ion). tur:iyon.			ion	:	ion	iono	ioni						
+			ioni radi	:	radioactive		radioaktiivinen						
+			ioni radia	:	radioactivity (ionizing radiation)		radioaktiivisuus						
 	dex	IQ	irakia	:	Iraq	Irakio	Irak	Irak					
 	dex	IR	iran	:	Iran	Iranio	Iran	Iran					
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd					
@@ -1273,7 +1277,10 @@ spa: minoría.			minoria	:	minority		vähemmistö	mniejszość
 			minut	:	minute	minuto	minuutti	minuta					
 			mira	:	reflect	speguli	heijastaa (peilata)	odbić, odbijać					
 eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.			mirer	:	mirror	spegulo	peili	lustro					
-hin:मिसाल "misāl". ara:"mithāl".			misal	:	example (instance of)	ekzemplo	esimerkki	przykład					
+			misa	:	send (emit, transmit)		lähettää						
+hin:मिसाल (misāl). ara:(mithāl).			misal	:	example (instance of)	ekzemplo	esimerkki	przykład					
+			miser	:	sender (transmitter)		lähettäjä (lähetin)						
+			misia	:	mission (transmission, emission)		lähetys						
 			miskin	:	poor (miserable)	mizera	kurja (raukka)	biedny, mizerny					
 			misri	:	Egyptian	egipta	egyptiläinen	egipski					
 	dex	EG	misria	:	Egypt	Egipto	Egypti	Egipt					
@@ -1437,6 +1444,7 @@ deu:Nummer. eng:number. tur:numara. fra:numéro.			num	:	number	nombro	lukumää
 			nun	:	now		nyt	teraz					
 ara:per:(nūr). swa:nuru. taj:uzb:нур (nur).			nur	:	light (illumination)	lumo	valo	światło, oświetlenie					
 			nuri	:	light (bright)	luma	valoisa	jasny, świetlny					
+			nuri rade	:	ray of light		valonsäde						
 			nuton	:	newton (N)	newtono (N)	newton (N)	niuton (N)					
 			nyam	:	food (meal)		ruoka	jedzenie, posiłek					
 			nyam kamar	:	dining room	manĝoĉambro	ruokasali	jadalnia					
@@ -1576,9 +1584,10 @@ eng:plant. por:spa:planta. fra:plante.			plante	:	plant (vegetation)	planto	kasv
 			plus	:	also (plus, too)	ankaŭ	myös (lisäksi, plus)	też, również					
 			pluto	:	Pluto (dwarf planet)		Pluto (kääpiöplaneetta)	Pluton (planeta karłowata)					
 	made	Pu	plutonium	:	plutonium	plutonio	plutonium	pluton					
-eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).			poke	:	poker		pokeri	poker					
+eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).			poke	:	poker	pokero	pokeri	poker					
+ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:поли- (poli-).			pol	:	many (much)	multe	paljon (monta)						
 per:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).			polaw	:	pilaf (pulao)		pilahvi	pilaw					
-			poli	:	several		usea	kilka, kilku					
+			poli	:	poly- (multi-)		moni- (poly-, multi-)						
 			polis	:	police		poliisi	policja					
 			poliser	:	police officer		poliiisi (poliisimies)	oficer policji, policjant					
 ell:πολιτική (politikē). ind:politik. tur:politika. eng:politics. por:spa:política. fra:politique. rus:политика (politika).			politike	:	politics	politiko	politiikka	polityka					
@@ -1596,10 +1605,10 @@ eng:point. por:apontar. spa:apuntar. fra:pointer.			ponta	:	point at (indicate)	
 spa:por:poder. ita:potere.			posa	:	can (know, be able)	povi	voida (osata, pystyä)	móc, umieć					
 spa:posible. eng:fra:possible. por:possível.			posabli	:	possible (possibly, maybe, perhaphs)	ebla (eble)	mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie					
 	made	P	pospor	:	phosphorus	fosforo	fosfor	fosfor					
-			posta	:	send by mail			nadać, wysłać pocztą					
-			poste	:	mail		posti (lähetys)	poczta					
-			poste cape	:	postal stamp		postileima	znaczek pocztowy					
+			posta	:	mail (send by mail)		postittaa	nadać, wysłać pocztą					
+			poste	:	mail		posti (postilähetys)	poczta					
 			poste kan	:	post office	poŝtejo	postitoimisto	poczta, budynek poczty					
+			posti cape	:	postal stamp		postileima	znaczek pocztowy					
 			pote	:	vase (pot, bin, jar, jug)	poto	ruukku (vaasi, pata)	waza, garnek, gar, doniczka, słoik, słój					
 			poza	:	pose (set)			pozować, ustawiać się					
 			poze	:	pose (position)			poza, pozycja					
@@ -1639,8 +1648,11 @@ ara:"riša". mlt:rix.			puru	:	feather	plumo	sulka	pióro
 			putong	:	common (universal)	universala	yleinen (universaali)	powszechny, uniwersalny					
 			putong han	:	Mandarin Chinese (Putonghua)	mandarinĉina	yleiskiina (mandariinikiina)	mandaryński chiński, Putonghua					
 			puxa	:	push			pchnąć, pchać					
-rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).			rade	:	row (line, queue)	vico	rivi	linia, rząd					
-			radio	:	radio	radio	radio	radio					
+			rada	:	radiate		säteillä						
+			rade	:	ray		säde						
+			radi geter	:	radio receiver	radio	radiovastaanotin	radio					
+			radi miser	:	radiotransmitter		radiolähetin						
+			radia	:	radiation		säteily						
 	made	Ra	radium	:	radium	radiumo	radium	rad					
 	made	Rn	radon	:	radon	radono	radon	radon					
 			rajer	:	king or queen	reĝo aŭ reĝino	monarkki (kuningas, kuningatar)	król lub królowa					
@@ -2191,7 +2203,7 @@ ara:per:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).			yatim	:	orp
 			yehudi	:	Jewish		juutalainen	żydowski					
 			yehudistia	:	Judaism		juutalaisuus	judaizm					
 			yemen	:	they	ili	he	oni					
-zho: 眼 "yǎn". ara: عين‏‎ /ʿen/.			yen	:	eye	okulo	silmä	oko					
+zho: 眼 (yǎn). ara: عين‏‎ (ʿen).			yen	:	eye	okulo	silmä	oko					
 kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.			yen suy	:	tear drop		kyynel	łza					
 			yesu	:	Jesus	Jesuo	Jeesus	Jezus					Jésus
 zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).			yeze	:	coco	kokoso	kookos	kokos					
@@ -2241,6 +2253,7 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar					
 			zulu'	:	Zulu	zuluo	zulu	zulu					zoulou
 ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd					émeraude
+rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).				:	row (line, queue)	vico	rivi	linia, rząd					
 													
 													
 													

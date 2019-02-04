@@ -486,6 +486,7 @@ interkonsento (amen) : amen
 interŝanĝi : badala  
 inviti : bita laya  
 io : koy xey  
+iono : ion  
 Irakio : irakia  
 Iranio : iran  
 iridio : iridium  
@@ -803,6 +804,7 @@ mortigisto : morter
 morto : morte  
 moskovio : moskovium  
 motoro : moter  
+multe : pol  
 mumio : mumia  
 muskedo : muskete  
 muskolo : muskul  
@@ -939,6 +941,7 @@ plumo : kalam
 plumo : puru  
 plutonio : plutonium  
 poemo : xir  
+pokero : poke  
 politikisto : politiker  
 politiko : politike  
 polonio : polon  
@@ -990,7 +993,7 @@ racismo : rasistia
 racisto : rasiste  
 raco : ras  
 radiko : gen  
-radio : radio  
+radio : radi geter  
 radiumo : radium  
 rado : cakre  
 radono : radon  
@@ -1244,7 +1247,7 @@ vetero : tenke
 vi (ci) : tu  
 vi ĉiu : tumen  
 viando : manse  
-vico : rade  
+vico :   
 vidi (rigardi) : wida  
 vilaĝo : ruste  
 vinagro : sirke  

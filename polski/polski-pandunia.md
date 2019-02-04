@@ -664,7 +664,6 @@ Kenia : kenia
 kiedy? : ki yang  
 kieszeń : jebe  
 kiełbasa : sosis  
-kilka, kilku : poli  
 kilogram (kg) : kilo gram  
 kiosk : kioske  
 Kirgistan : kirgizia  
@@ -835,7 +834,7 @@ lilia wodna, nenufar : nenufar
 limfa : limfe  
 limit, granica : limite  
 linia, pas, pręga, smuga : linye  
-linia, rząd : rade  
+linia, rząd :   
 lipiec : mes 4 (mes car)  
 lis : hule  
 lista słów : loge liste  
@@ -1515,7 +1514,7 @@ płuco : pulmon
 racjonalny, rozsądny : razoni  
 rad : radium  
 rada, porada : mente  
-radio : radio  
+radio : radi geter  
 radon : radon  
 rakieta : rokete  
 Ramadan : ramazan  
@@ -2173,7 +2172,7 @@ zjednoczony : uni
 zmienić, zmieniać : muta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać : musa  
 zmysł : sense  
-znaczek pocztowy : poste cape  
+znaczek pocztowy : posti cape  
 znaczenie : mene  
 znaczyć (liczyć się, być ważnym) : importu  
 znaczyć : mena  
