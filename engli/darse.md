@@ -31,11 +31,15 @@ In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **no** (which is the word for _no_).
 
-> **ye si sara.** - She is Sara.  
-> **ye no sara.** - She is not Sara.  
+**ye si sara.**
+- She is Sara.  
+**ye no sara.**
+- She is not Sara.  
 
-> **maw si hewan** - The cat is an animal.  
-> **dom no hewan** - The house is not an animal.  
+**maw si hewan**
+- The cat is an animal.  
+**dom no hewan**
+- The house is not an animal.  
 
 In the same way you can describe yourself by saying **mi** and a word
 that describes you.
@@ -95,7 +99,8 @@ Saying hello
 This is how people greet each other in Pandunia. They say **salam**.
 It is used for saying both hello and goodbye.
 
-> **salam** = Bye!
+**salam**
+= Bye!
 
 The word **salam** means "greeting". It is originally an Arabic word,
 which means _peace_, and it is a common greeting in many parts of the
@@ -193,7 +198,7 @@ Making requests
 = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.**
 = I will have some tea, thank you.  
-...
+...  
 ☺: **cing salama tu da mame!**
 = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!**
@@ -210,7 +215,8 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-> **mi cing tu salama ye.** = I ask you to say hello to him/her.
+**mi cing tu salama ye.**
+= I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_. The first verb, **cing** = to
 request, addresses **tu** as its object. At the same time **tu**
@@ -228,8 +234,10 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-> **mi cing tu salama ye.** = I ask you to say hello to him/her.  
-> **cing salama ye.** = Please say hello to him/her.
+**mi cing tu salama ye.**
+= I ask you to say hello to him/her.  
+**cing salama ye.**
+= Please say hello to him/her.
 
 See how the translation of **cing** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
@@ -256,15 +264,15 @@ for making polite requests.
 Commands are introduced with **orda** = to command. They employ the
 same pivot structure as requests with **cing**.
 
-> **orda dona ca.**
+**orda dona ca.**
 = Give (me) some tea!  
-> **orda safa kamar.**
+**orda safa kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and
 a commanding voice.
 
-> **safa ye!**
+**safa ye!**
 = Clean it!
 
 
@@ -363,9 +371,12 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-> **eska xefe nyama kafe?** = Does the chief drink coffee?  
-> **eska papá safa kamar?** = Does the father clean the room?  
-> **eska niki baxa pandunia?** = Does Nicky speak Pandunia?
+**eska xefe nyama kafe?**
+= Does the chief drink coffee?  
+**eska pape safa kamar?**
+= Does the father clean the room?  
+**eska niki baxa pandunia?**
+= Does Nicky speak Pandunia?
 
 
 ### Giving answers
@@ -570,7 +581,7 @@ something, even when not answering to a question.
 
 
 1. ke ren suku supe?
-2. papá suku.
+2. pape suku.
 3. ke zaman ye laya?
 4. na des minute bada.
 5. ye no nyama koz ke?
@@ -590,7 +601,8 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-> **mi darba ye.** = I hit it.
+**mi darba ye.**
+= I hit it.
 
 In Pandunia all verbs are like that! For example, **mi nyama nan**
 can mean both "I eat bread" and "I ate bread", but usually only one
@@ -598,43 +610,58 @@ or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-> **mi nyama nan na sube nyam.** = I ate bread for morning meal.
+**mi nyama nan na sube nyam.**
+= I ate bread for morning meal.
 
 There are also specific time words.
 
-> **gang** - just, recently  
-> **zay** - currently, at the moment  
-> **hay** - still  
-> **sun** - soon  
-> **wil** - later, in the future
+**gang**
+= just, recently  
+**zay**
+= currently, at the moment  
+**hay**
+= still  
+**sun**
+= soon  
+**wil**
+= later, in the future
 
 
 
 The adjectives for past, present and future are **pas, zay** and
 **wil**. They can be used for modifying nouns.
 
-> **sara si mi da pas xefe.** = Sara is my former boss.  
-> **yusef si mi da zay xefe.** = Yusef is my current boss.  
-> **maria si mi da wil xefe.** = Maria is my future boss.
+**sara si mi da pas xefe.**
+= Sara is my former boss.  
+**yusef si mi da zay xefe.**
+= Yusef is my current boss.  
+**maria si mi da wil xefe.**
+= Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-> **mi pas darba ye.** = I hit it (in the past).  
-> **mi zay darba ye.** = I am hitting it (currently).  
-> **mi will darba ye.** = I will hit it (in the future).
+**mi pas darba ye.**
+= I hit it (in the past).  
+**mi zay darba ye.**
+= I am hitting it (currently).  
+**mi will darba ye.**
+= I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
-> **mi darba ye pas.**  
-> **mi darba ye zay.**  
-> **mi darba ye wil.**
+**mi darba ye pas.**  
+**mi darba ye zay.**  
+**mi darba ye wil.**
 
 It's also possible to use longer phrases like **na pase** (in the past) etc.
 
-> **mi darba ye na pase.** = I hit it in the past.  
-> **mi darba ye na zaye.** = I hit it at present.  
-> **mi darba ye na wile.** = I hit it in the future.
+**mi darba ye na pase.**
+= I hit it in the past.  
+**mi darba ye na zaye.**
+= I hit it at present.  
+**mi darba ye na wile.**
+= I hit it in the future.
 
 
 It is not necessary to repeat the time expressions all the time. It
@@ -643,15 +670,20 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-> **mi pas ada un maw.** = I had a cat in the past.  
-> **ye bon maw.** = It was a good cat.  
-> **mi ada un waf zay.** = I have a dog now.
+**mi pas ada un maw.**
+= I had a cat in the past.  
+**ye bon maw.**
+= It was a good cat.  
+**mi ada un waf zay.**
+= I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-> **mi jenu na nen 2003.** = I was born in 2003.
-> **ye safa kamar na badi den.** = He will clean the room tomorrow.
+**mi jenu na nen 2003.**
+= I was born in 2003.
+**ye safa kamar na badi den.**
+= He will clean the room tomorrow.
 
 
 ### Word List
