@@ -19,7 +19,7 @@ du maxim bal fung.
 
 na nale, wolfe enda na jin du daw, du sam gurube doma. ye wida suhi
 gras da dom, i ye na nos nota gurube, du na jung. ye fikra gurube si
-bon nyam, i ye da boka mulu sana suy.
+bon nyam, i ye da boke mulu sana suy.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
@@ -28,11 +28,11 @@ cing mi laya jung!" a lil gurube wida wolfe da day han na cabi kong.
 to ye dapa: "no! no! no!" na bada, wolfe wiza se da dante i loga:
 "to mi nafasa i mi nafasa i mi parca tu da dom!"
 
-to ye nafasa i ye nafasa i ye parca dom! wolfe kaya boka maxim ka ye
+to ye nafasa i ye nafasa i ye parca dom! wolfe kaya boke maxim ka ye
 ken, a gurube num un enda far, to dom du lil gurube num dul.
 
 wolfe kontinu na lil daw. ye pasa dom num dul, du fatu na xake. ye
-wida dom. ye na nos nota gurube, du na jung. ye da boka mulu bina suy
+wida dom. ye na nos nota gurube, du na jung. ye da boke mulu bina suy
 na dur du ye fikra yemen si bon nyam.
 
 to ye darba mun, i loga: "lil gurube! lil gurube! cing mi laya jung!
@@ -44,7 +44,7 @@ mi nafasa i mi nafasa i mi parca tu da dom!"
 
 to ye nafasa i ye nafasa i ye parca dom! wolfe wol max ka bas, i ye
 proba kaca dul gurube na sem sat, a ye wol max ka bas, i ye geta nol
-gurube! ye da day boka kayulu na nol xe minus hawa. dul lil gurube
+gurube! ye da day boke kayulu na nol xe minus hawa. dul lil gurube
 enda far na maximi rapide ka yemen da ped ken porta yemen.
 
 wolfe proba kaca yemen na lil daw. ye jino kaca yemen. a yemen laya

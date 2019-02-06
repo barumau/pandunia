@@ -2,7 +2,7 @@
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un subá urse mame wol cuta to bazar.
+un sube urse mame wol cuta to bazar.
 ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
 lil urse loga: "si, si, mame! mi jana ye. mi day urse. cing cuta way!"
 urse mame loga "salam" i ye cuta way.
@@ -73,7 +73,7 @@ maw laya helpa dotor i waf. dotor i waf i maw tira dante, a dante no laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_16.png)
 
-lixu laya helpa dotor i waf i maw. dotor i waf i maw i lixu tira dante...
+tupay laya helpa dotor i waf i maw. dotor i waf i maw i tupay tira dante...
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_17.png)
 
@@ -81,17 +81,17 @@ dante laya to way!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-dotor loga to lil urse: "mal dante na way na zay.
-cing yada uza dante brox na mey subá i na mey xam!"
+dotor loga to lil urse: "mal dante zay na way.
+cing yada uza dante brox na mey sube i na mey xam!"
 lil urse wada yada.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
 
-lil urse loga: "danke dotor i waf i maw i lixu!"
+lil urse loga: "danke dotor i waf i maw i tupay!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 
-lil urse waxa dante na dante brox mey subá i mey xam.
+lil urse waxa dante na dante brox mey sube i mey xam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
