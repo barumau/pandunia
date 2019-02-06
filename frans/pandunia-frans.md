@@ -61,8 +61,8 @@ tem : тема
 tende : палатка (шатёр)  
 tepe : лента  
 teroristia : терроризм  
+tese : довод  
 teste : анализ (тест)  
-teze : довод  
 tikete : билет  
 tim : команда  
 tin : бляшанка  

@@ -27,6 +27,7 @@ akvomelono : arbuze
 al (ĝis, por) : to  
 alas! : ay  
 alfabeto : abace  
+algo : alge  
 alia : ali  
 aligi : liga  
 aliigi : muta  
@@ -435,6 +436,7 @@ hamako : hamake
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
+havanto : ader  
 havi : ada  
 hazarda : zari  
 hazardo : zar  
@@ -518,8 +520,8 @@ juna : jowan
 juneco : jowania  
 junulo : jowane  
 jupo : jupe  
-justa : xari  
-justeco : xaria  
+justa : adali  
+justeco : adalia  
 juĝisto : hakimer  
 juĝo : hakim  
 ##k  
@@ -1001,6 +1003,8 @@ rajto : hake
 rakonti : saga  
 rakonto : sage  
 rando (orlo) : kenar  
+rapideco : rape  
+rapidi : rapi  
 rapidigi : yala  
 regi : kratia  
 regiono : stan  
@@ -1064,6 +1068,7 @@ saŭno : sauna
 scienco : lojia  
 scii (koni) : jana  
 scio : jan  
+sciuro : tupay  
 se : gar  
 seborgio : seaborgium  
 sed : a  
@@ -1268,6 +1273,7 @@ vojaĝi : safara
 vojaĝo : safar  
 vojo : daw  
 voli : ice  
+vortaro : leksia  
 vortaro : loge liste  
 vorto : lekse  
 vosto : dum  

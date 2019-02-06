@@ -16,6 +16,9 @@ abace : aakkoset (ABC)
 acente : painotus (aksentti)  
 acinium : aktinium  
 ada : omistaa (omata)  
+adali : oikeudenmukainen  
+adalia : oikeus  
+ader : omistaja  
 adres : osoite  
 adu : kuulua (olla oma)  
 adulte : aikuinen  
@@ -26,6 +29,7 @@ agres : aggressio
 aha : oivaltaa (tajuta)  
 ajil : ketterä  
 akse : akseli  
+alge : levä  
 ali jinse kami : heteroseksuaali  
 ali : muu (toinen)  
 alkol : alkoholi  
@@ -52,8 +56,11 @@ angolia : Angola
 anima : animoida  
 anime : animaatio (piirretty)  
 anjil : evankeliumi  
+anta : vastustaa  
 antartia : Antarktis  
 anten : antenni  
+anter : vastustaja  
+anti : vasta- (anti-)  
 anus : peräaukko (anus)  
 anusi : anaalinen  
 aple : omena  
@@ -215,6 +222,7 @@ bora : porata
 borium : bohrium  
 boron : boori  
 bosnia : Bosnia ja Hertsegovina  
+bote kaper : laivakaappari  
 bote : vene (laiva)  
 botol : pullo  
 boton : nappi  
@@ -424,6 +432,7 @@ eletron : elektroni
 energe : energia  
 engli : englanti  
 eni : mikä tahansa  
+enzim : entsyymi  
 erbium : erbium  
 eris : Eris (kääpiöplaneetta)  
 eritria : Eritrea  
@@ -837,6 +846,7 @@ juxa : ruiskuttaa
 juxe : ruiske (injektio)  
 ##k  
 ka : kuin  
+kababe : kebab  
 kabaw : vesipuhveli  
 kabin : koppi (maja)  
 kace : lasi  
@@ -993,6 +1003,7 @@ konus : kartio (keila)
 kopa : kopioida  
 kope : kopio  
 kopernikium : kopernikium  
+kopi hake : kopiointioikeus (tekijänoikeus)  
 kor : kuoro  
 korne : sarvi  
 koron : kruunu  
@@ -1068,6 +1079,7 @@ laxa : päästää (sallia)
 laya : tulla  
 lekse : sana  
 leksem : lekseemi  
+leksia : sanasto  
 leng : kylmä  
 lenxa : harjoitella (treenata)  
 lete : kesä (suvi)  
@@ -1099,7 +1111,6 @@ liste : lista (luettelo)
 litium : litium  
 litre : litra  
 lixtenxtayn : Liechtenstein  
-lixu' : orava  
 lobak : retikka (retiisi)  
 loga : puhua (sanoa)  
 loge liste : sanaluettelo  
@@ -1375,6 +1386,7 @@ nam : nimi
 nama : nimittää (kutsua)  
 namibia : Namibia  
 namu : olla nimeltään  
+nan baton : patonki (ranskanleipä)  
 nan : leipä  
 nanas : ananas  
 nano : nano-  
@@ -1485,6 +1497,8 @@ oromi : oromo (etiopialainen kansa ja kieli)
 oromia : Oromia  
 oseania : Oseania  
 oskur : pimeä (hämärä)  
+osman : osmani (ottomaani)  
+osmania : Osmanien valtakunta  
 osmium : osmium  
 oste : luu  
 osteria : Itävalta  
@@ -1519,6 +1533,8 @@ papir : paperi
 papua nowi ginia : Papua Uusi-Guinea  
 par : vertainen  
 paraguay : Paraguai  
+paraya : halveksia (hyljeksiä)  
+paraye : hylkiö (paaria)  
 parca : hajottaa (särkeä, repiä, sirpaloida)  
 parce : palanen (murunen, riekale, sirpale)  
 parci : hajonnut (sirpaleina)  
@@ -1578,6 +1594,9 @@ pipinga : arvioida (arvostella, kritisoida)
 pipinger : arvostelija (kriitikko)  
 piram : pyramidi  
 pirater : merirosvo (piraatti)  
+piratia : merirosvous  
+piratiste : piraatti (joka ei kunnioita tekijänoikeuksia)  
+piratisti partia : piraattipuolue  
 pistol : pistooli  
 pitkerne : Pitcairn  
 pix : virtsa (pissa, kusi)  
@@ -1664,7 +1683,11 @@ rajer : monarkki (kuningas, kuningatar)
 raji : kuninkaallinen  
 rajia : kuningaskunta  
 ramazan : ramadan  
+randa : höylätä  
+rander : höylä  
 rang : väri  
+rape : nopeus (vauhti)  
+rapi : nopea (pikainen, vauhdikas)  
 ras : rotu  
 rasiste : rasisti  
 rasistia : rasismi (rotuoppi)  
@@ -1707,6 +1730,8 @@ rome : Rooma
 romi empiria : Rooman valtakunta  
 rong : itämainen lohikäärme  
 rose : kaste  
+rosta : paahtaa (paistaa)  
+rosti nan : paahtoleipä  
 roze : ruusu  
 rozi : vaaleanpunainen  
 ruhe : henki (sielu, mieli)  
@@ -1940,9 +1965,10 @@ tepe : teippi (nauha)
 teror : kauhu (terrori)  
 teroriste : terroristi  
 teroristia : terrorismi  
+tesa : väittää  
+tese : väite (teesi)  
 teste : koe (testi, koettelemus)  
-teza : väittää  
-teze : väite (teesi)  
+tezi : kiihkeä (väkevä, voimakas, vahva, kova)  
 ticin : jousisoitin  
 tike masal : tikka masala  
 tike : pala  
@@ -1975,6 +2001,7 @@ towal : pyyhe
 trans : läpikulku  
 transa : kulkea poikki, läpi tai yli  
 tren daw : junarata (rautatie)  
+tren kaper : junakaappari  
 tren : juna  
 tribe : heimo  
 trinida i tobago : Trinidad ja Tobago  
@@ -1992,6 +2019,7 @@ tunel : tunneli
 tung : kipu  
 tunike : mekko (tunika)  
 tunisia : Tunisia  
+tupay : orava  
 tur : retki (matka)  
 turiste : turisti  
 turistia : turismi  
@@ -2049,7 +2077,7 @@ war 6 (war sis) : lauantai
 war 7 (war set) : sunnuntai  
 war : viikonpäivä  
 waris : perintö  
-warke : levy (arkki)  
+warke : lehti (arkki, levy)  
 wase : keidas  
 wate : watti  
 waw : oho (vau)  
@@ -2076,6 +2104,7 @@ wiki : wiki
 wil : tuleva  
 wildi : villi (kesytön)  
 wile : tulevaisuus  
+wiman kaper : lentokonekaappari  
 wiman : lentokone  
 win : voitto  
 wina : voittaa (kukistaa)  
@@ -2097,8 +2126,6 @@ xaman : šamaani
 xampu' : šampoo  
 xan : vuori (mäki)  
 xanti : rauhallinen (tyyni)  
-xari : oikeudenmukainen  
-xaria : oikeus  
 xarnir : sarana  
 xarta : vaatia (edellyttää)  
 xarte : vaatimus (edellytys)  
@@ -2186,6 +2213,7 @@ zemia : Maapallo
 ziba : korkittaa (tukkia)  
 zibula : korkata  
 zigzage : siksakki  
+zikur : zikkurat  
 zimbabwe : Zimbabwe  
 zine : haureus  
 zinke : sinkki  

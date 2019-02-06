@@ -16,6 +16,9 @@ abace : alfabet, abecadło
 acente : akcent, nacisk  
 acinium : aktyn  
 ada : mieć  
+adali : sprawiedliwy  
+adalia : sprawiedliwość  
+ader : właściciel (posiadacz)  
 adres : adres  
 adu : należeć  
 adulte : osoba dorosła  
@@ -26,6 +29,7 @@ agres : agresja, napaść
 aha : rozumieć, pojmować  
 ajil : zwinny, sprawny  
 akse : oś  
+alge : alga (wodorost)  
 ali jinse kami : heteroseksualny  
 ali : inny  
 alkol : alkohol  
@@ -61,6 +65,7 @@ aplika : zastosować, stosować
 aplike : zastosowanie, aplikacja  
 arabi : arabski  
 arane : pająk  
+arani fobia : arachnofobia  
 aranje : pomarańcza  
 aranji : pomarańczowy  
 arbuze : arbuz  
@@ -215,6 +220,7 @@ bora : wiercić, borować
 borium : bohr  
 boron : bor  
 bosnia : Bośnia i Harcegowina  
+bote kaper : kaper (korsarz)  
 bote : łódź, statek  
 botol : butelka  
 boton : guzik  
@@ -342,6 +348,7 @@ deci : decy-, dziesiąta część
 defta : zapisać (zarejestrować)  
 defte buke : dziennik pokładowy (notatnik)  
 defte : rejestr  
+deftia : register  
 deka : przykryć, przykrywać, ukryć, ukrywać  
 deke : pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula : odsłonić, odsłaniać  
@@ -396,6 +403,8 @@ duka : martwić
 duke : żal, smutek  
 duki : smutny  
 dul : dwa (2)  
+duli : podwójny (dwójkowy)  
+dulistia : dualizm  
 dum : ogon  
 duman : dym  
 dunia bax : język świata, język ogólnoświatowy  
@@ -422,6 +431,7 @@ eletron : elektron
 energe : energia  
 engli : Anglik; angielski  
 eni : jakikolwiek, którykolwiek  
+enzim : enzym  
 erbium : erb  
 eris : Eris (planeta karłowata)  
 eritria : Erytrea  
@@ -588,7 +598,8 @@ genca : sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać
 genze : Guernsey  
 germanium : german  
 geta : dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
-gey : gejowski, homoseksualny  
+geter : odbiorca  
+gey : gejowski (homoseksualny)  
 gida : sterować  
 giga : bilion, giga-  
 gim : złoto  
@@ -596,7 +607,7 @@ gine bisau : Guinea Bissau
 gine : Gwinea  
 gitar : gitara  
 giyan : Gujana Francuska  
-glota : połknąć, połykać  
+glota : połknąć (połykać)  
 glute : klej  
 gluten : gluten  
 gol : cel  
@@ -613,6 +624,8 @@ gras : trawa
 grenada : Grenada  
 grimas : grymas  
 grom : grom, huk  
+gros harfe : pogrubiona litera  
+gros : gruby  
 grupe : grupa  
 gua : jaskinia  
 guadelupe : Gwadelupa  
@@ -718,6 +731,7 @@ i : i, oraz
 ibri : hebrajski  
 ice : wola, chęć  
 ide : idea, pomysł  
+idi : pojęciowy  
 impera : władać, panować, rządzić jako imperator  
 imperer : imperator  
 imperia : imperium  
@@ -725,6 +739,9 @@ imperiste : imperialista
 imperistia : imperializm  
 importi : ważny  
 importu : znaczyć (liczyć się, być ważnym)  
+inde : wnętrze (środek)  
+indi jeni : wewnętrzny  
+indi : wewnętrzny  
 indium : ind  
 indonesia : Indonezja  
 infece : infekcja (zakażenie)  
@@ -742,6 +759,9 @@ inter : między
 interes : zainteresowanie, zaciekawienie; interesujący  
 inxala : nadzieja, życzenie  
 iode : jod; jodyna  
+ion : jon  
+ioni radi : radioaktywny  
+ioni radia : radioaktywność  
 irakia : Irak  
 iran : Iran  
 iridium : iryd  
@@ -779,6 +799,7 @@ jayer : Algieria
 jayistia : dźinizm, dżinizm  
 jaze : jazz, dżez  
 jebe : kieszeń  
+jebria : algebra  
 jel : żel, galareta  
 jelos : zazdrosny  
 jen den : urodziny  
@@ -824,6 +845,7 @@ juxa : wstrzyknąć, wstrzykiwać
 juxe : zastrzyk  
 ##k  
 ka : jak, niż, od  
+kababe : kebab  
 kabaw : bawół domowy  
 kabin : kabina, budka  
 kace : szkło  
@@ -840,6 +862,7 @@ kal : czarny
 kalam : pióro, długopis  
 kalifornium : kaliforn  
 kalium : potas  
+kalkulia : rachunek (formalny system obliczeń)  
 kalsium : wapń  
 kam : pożądanie, żadza  
 kamar tal : podłoga  
@@ -979,6 +1002,7 @@ konus : szyszka
 kopa : kopiować, replikować  
 kope : kopia, replika  
 kopernikium : kopernik  
+kopi hake : prawa autorskie  
 kor : chór  
 korne : róg  
 koron : korona  
@@ -1085,7 +1109,6 @@ liste : lista, spis, wykaz
 litium : lit  
 litre : litr  
 lixtenxtayn : Liechtenstein  
-lixu' : wiewiórka  
 lobak : rzodkiewka  
 loga : mówić, rozmawiać  
 loge liste : lista słów  
@@ -1276,7 +1299,10 @@ minus : oprócz, minus
 minut : minuta  
 mira : odbić, odbijać  
 mirer : lustro  
+misa : wysłać (wyemitować)  
 misal : przykład  
+miser : nadawca  
+misia : misja  
 miskin : biedny, mizerny  
 misri : egipski  
 misria : Egipt  
@@ -1359,6 +1385,7 @@ nam : imię, nazwa
 nama : nazwać, nazywać, wezwać, wzywać  
 namibia : Namibia  
 namu : być wezwanym, być wzywanym, być nazwanym, być nazywanym  
+nan baton : bagietka  
 nan : chleb  
 nanas : ananans  
 nano : nano-  
@@ -1440,6 +1467,7 @@ num un : pierwszy, numer jeden
 num : numer  
 nun : teraz  
 nur : światło, oświetlenie  
+nuri rade : promień światła  
 nuri : jasny, świetlny  
 nuton : niuton (N)  
 nyam kamar : jadalnia  
@@ -1468,6 +1496,8 @@ oromi : oromo
 oromia : Oromia  
 oseania : Oceania  
 oskur : ciemny, słabo oświetlony  
+osman : Turek osmański  
+osmania : Imperium Osmańskie  
 osmium : osm  
 oste : kość  
 osteria : Austria  
@@ -1502,6 +1532,8 @@ papir : papier
 papua nowi ginia : Papua Nowa Gwinea  
 par : równy  
 paraguay : Paragwaj  
+paraya : gardzić (pogardzać)  
+paraye : wyrzutek  
 parca : stłuc się (rozpaść się na kawałki)  
 parce : część (fragment, strzęp, kawałek, okruch)  
 parci : stłuczony (pęknięty)  
@@ -1561,6 +1593,9 @@ pipinga : ocenić, oceniać, recenzować, komentować, krytykować
 pipinger : krytyk  
 piram : piramida  
 pirater : pirat  
+piratia : piractwo  
+piratiste : pirat (osoba naruszająca prawa własności intelektualnej)  
+piratisti partia : Partia Piratów  
 pistol : pistolet  
 pitkerne : Pitcairn  
 pix : siki  
@@ -1583,7 +1618,9 @@ plus : też, również
 pluto : Pluton (planeta karłowata)  
 plutonium : pluton  
 poke : poker  
+pol : wiele  
 polaw : pilaw  
+poli : wielo- (poli-, multi-)  
 polis : policja  
 poliser : oficer policji, policjant  
 politike : polityka  
@@ -1645,7 +1682,11 @@ putong han : mandaryński chiński, Putonghua
 putong : powszechny, uniwersalny  
 puxa : pchnąć, pchać  
 ##r  
+rada : promieniować  
+rade : promień  
 radi geter : radio  
+radi miser : nadajnik radiowy  
+radia : promieniowanie  
 radium : rad  
 radon : radon  
 rajer : król lub królowa  
@@ -1653,8 +1694,11 @@ raji : królewski
 rajia : królestwo  
 ramazan : Ramadan  
 randa : hebel, strug  
+randa : heblować  
+rander : hebel, strug  
 rang : kolor  
-rapidi : szybki, prędki  
+rape : prędkość (szybkość)  
+rapi : szybki, prędki  
 ras : rasa, narodowość  
 rasiste : rasista  
 rasistia : rasizm  
@@ -1712,6 +1756,8 @@ romi empiria : Imperium Rzymskie
 rona : płakać, łkać  
 rong : orientalny smok  
 rose : rosa  
+rosta : piec  
+rosti nan : tost  
 rote : płaski chleb, ćapati  
 rotor : rotor, wirnik  
 roze : róża  
@@ -1986,9 +2032,10 @@ terbium : terb
 teror : terror  
 teroriste : terrorysta  
 teroristia : terroryzm  
+tesa : dyskutoać, twierdzić  
+tese : argument, teza  
 teste : test, wyzwanie, próba  
-teza : dyskutoać, twierdzić  
-teze : argument, teza  
+tezi : intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 ticin : chordofon, instrument strunowy  
 tike masal : tikka masala  
 tike : tikka  
@@ -2024,6 +2071,7 @@ towal : ręcznik
 trans : przejazd, przewóz, tranzyt  
 transa : przejść, przechodzić, przejechać, przejeżdżać  
 tren daw : kolej  
+tren kaper : porywacz pociągu  
 tren : pociąg  
 tribe : plemię  
 trinida i tobago : Trynidad i Tobago  
@@ -2042,6 +2090,7 @@ tunel : tunel
 tung : ból  
 tunike : tunika, toga  
 tunisia : Tunezja  
+tupay : wiewiórka  
 tur : podróż, wycieczka  
 turiste : turysta  
 turistia : turystyka  
@@ -2130,6 +2179,7 @@ wiki : wiki
 wil : w przyszłości  
 wildi : dziki  
 wile : przyszłość  
+wiman kaper : porywacz samolotu  
 wiman : samolot  
 win : zwycięstwo, wygrana  
 wina : zwyciężyć, wygrać  
@@ -2151,8 +2201,6 @@ xaman : szaman
 xampu' : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
-xari : sprawiedliwy  
-xaria : sprawiedliwość  
 xarnir : zawias, oś  
 xarta : wymagać, przewidywać  
 xarte : warunek  
@@ -2241,6 +2289,7 @@ zemia : Ziemia
 ziba : zatkać, ztykać  
 zibula : odetkać, odtykać  
 zigzage : zygzag  
+zikur : ziggurat  
 zimbabwe : Zimbabwe  
 zine : zdrada małżeńska, cudzołóstwo  
 zinke : cynk  

@@ -16,6 +16,9 @@ abace : alphabet
 acente : accent (stress)  
 acinium : actinium  
 ada : have  
+adali : just (fair)  
+adalia : justice  
+ader : owner  
 adres : address  
 adu : belong  
 adulte : adult  
@@ -26,6 +29,7 @@ agres : agression (assault)
 aha : understand (realize)  
 ajil : agile  
 akse : axis (axle)  
+alge : alga  
 ali jinse kami : heterosexual  
 ali : other  
 alkol : alcohol  
@@ -52,8 +56,11 @@ angolia : Angola
 anima : animate  
 anime : animation (cartoon)  
 anjil : gospel  
+anta : oppose (resist)  
 antartia : Antarctica  
 anten : antenna (aerial)  
+anter : opponent (antagonist)  
+anti : opposite (anti-)  
 anus : anus  
 anusi : anal  
 aple : apple  
@@ -216,6 +223,7 @@ bora : drill (bore)
 borium : bohrium  
 boron : boron  
 bosnia : Bosnia and Herzegovina  
+bote kaper : privateer (buccaneer)  
 bote : boat (ship)  
 botol : bottle  
 boton : button  
@@ -426,6 +434,7 @@ eletron : electron
 energe : energy  
 engli : English  
 eni : any (no matter which)  
+enzim : enzyme  
 erbium : erbium  
 eris : Eris (dwarf planet)  
 eritria : Eritrea  
@@ -839,6 +848,7 @@ juxa : inject
 juxe : injection  
 ##k  
 ka : compared to (as, than)  
+kababe : kebab  
 kabaw : water buffalo  
 kabin : cabin (booth)  
 kace : glass  
@@ -995,6 +1005,7 @@ konus : cone
 kopa : copy (replicate)  
 kope : copy (replica)  
 kopernikium : copernicium  
+kopi hake : copyright  
 kor : choir (chorus)  
 korne : horn  
 koron : crown  
@@ -1070,6 +1081,7 @@ laxa : release (let, let go)
 laya : come  
 lekse : word  
 leksem : lexeme  
+leksia : vocabulary (lexicon)  
 leng : cold  
 lenxa : practice (to exercise)  
 lete : summer  
@@ -1101,7 +1113,6 @@ liste : list (listing, catalogue)
 litium : lithium  
 litre : liter (litre)  
 lixtenxtayn : Liechtenstein  
-lixu' : squirrel  
 lobak : radish  
 loga : talk (say, speak)  
 loge liste : word list  
@@ -1378,6 +1389,7 @@ nam : name
 nama : call (give name)  
 namibia : Namibia  
 namu : be called (be named)  
+nan baton : baguette  
 nan : bread  
 nanas : pineapple  
 nano : nano-  
@@ -1488,6 +1500,8 @@ oromi : Oromo (an Ethiopian ethnic group and language)
 oromia : Oromia  
 oseania : Oceania  
 oskur : dark (dim)  
+osman : Ottoman  
+osmania : Ottoman Empire  
 osmium : osmium  
 oste : bone  
 osteria : Austria  
@@ -1522,6 +1536,8 @@ papir : paper
 papua nowi ginia : Papua New Guinea  
 par : equal (peer)  
 paraguay : Paraguay  
+paraya : despise (scorn)  
+paraye : outcast (pariah)  
 parca : shatter (break into pieces)  
 parce : piece (fragment, shred, morsel, crumb)  
 parci : broken (shattered)  
@@ -1580,7 +1596,10 @@ piping : evaluation (criticism)
 pipinga : evaluate (review, comment, criticise)  
 pipinger : critic  
 piram : pyramid  
-pirater : pirate  
+pirater : pirate (sea robber)  
+piratia : piracy  
+piratiste : pirate (one who disobeys intellectual property laws)  
+piratisti partia : Pirate Party  
 pistol : pistol  
 pitkerne : Pitcairn  
 pix : piss (urine)  
@@ -1679,8 +1698,11 @@ raji : royal
 rajia : kingdom  
 ramazan : Ramadan  
 randa : plane (plane tool)  
+randa : smoothen with a plane  
+rander : plane (tool for making a smooth surface)  
 rang : color  
-rapidi : fast (quick)  
+rape : speed (velocity)  
+rapi : fast (quick, rapid, speedy)  
 ras : race (ethnicity)  
 rasiste : racist  
 rasistia : racism  
@@ -1738,6 +1760,8 @@ romi empiria : Roman Empire
 rona : cry (weep)  
 rong : oriental dragon  
 rose : dew  
+rosta : roast  
+rosti nan : toast (toasted bread)  
 rote : flatbread (chapati, roti)  
 rotor : rotor (rotator)  
 roze : rose  
@@ -2012,9 +2036,10 @@ terbium : terbium
 teror : terror  
 teroriste : terrorist  
 teroristia : terrorism  
+tesa : argue (claim)  
+tese : argument (thesis)  
 teste : test (challenge, trial)  
-teza : argue (claim)  
-teze : argument (thesis)  
+tezi : intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
 ticin : bow instrument (violin, etc.)  
 tike masal : tikka masala  
 tike : tikka (piece)  
@@ -2050,6 +2075,7 @@ towal : towel
 trans : transit (passage)  
 transa : transit (pass through or across)  
 tren daw : railway (railroad)  
+tren kaper : train hijacker  
 tren : train  
 tribe : tribe  
 trinida i tobago : Trinidad and Tobago  
@@ -2068,6 +2094,7 @@ tunel : tunnel
 tung : hurt (pain)  
 tunike : tunic (gown)  
 tunisia : Tunisia  
+tupay : squirrel  
 tur : tour (trip)  
 turiste : tourist  
 turistia : tourism  
@@ -2129,7 +2156,7 @@ war 6 (war sis) : Saturday
 war 7 (war set) : Sunday  
 war : day of the week  
 waris : heritage (legacy, bequest)  
-warke : sheet (leaf)  
+warke : leaf (sheet)  
 wase : oasis  
 wate : watt  
 waw : wow! (gee!)  
@@ -2156,6 +2183,7 @@ wiki : wiki
 wil : will (in future)  
 wildi : wild (savage)  
 wile : future time  
+wiman kaper : plane hijacker  
 wiman : airplane  
 win : victory (win)  
 wina : win (defeat)  
@@ -2177,8 +2205,6 @@ xaman : shaman
 xampu' : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
-xari : just (fair)  
-xaria : justice  
 xarnir : hinge (pivot)  
 xarta : stipulate  
 xarte : condition (requirement)  
@@ -2267,6 +2293,7 @@ zemia : Earth (Terra)
 ziba : plug (stop with a plug)  
 zibula : unplug (uncork)  
 zigzage : zigzag  
+zikur : ziggurat  
 zimbabwe : Zimbabwe  
 zine : adultery (infidelity)  
 zinke : zinc  

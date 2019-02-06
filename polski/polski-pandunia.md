@@ -15,6 +15,8 @@ Albania : cipia
 ale, lecz : a  
 alfabet łaciński, łacinka, alfabet rzymski : latini abace  
 alfabet, abecadło : abace  
+alga (wodorost) : alge  
+algebra : jebria  
 Algieria : jayer  
 alkohol : alkol  
 alkoholowy : alkoli  
@@ -42,11 +44,12 @@ antena : anten
 Antyle Holenderskie : nederlandi antilia  
 Arabia Saudyjska : saudi arabia  
 arabski : arabi  
+arachnofobia : arani fobia  
 arbuz : arbuze  
 archipelag : nesia  
 Argentyna : argentin  
 argon : argon  
-argument, teza : teze  
+argument, teza : tese  
 armia : armia  
 arsen : arsen  
 artykuł, tekst : makale  
@@ -72,6 +75,7 @@ azot : nitre
 ##b  
 badać, studiować : loja  
 bagaż : bagaje  
+bagietka : nan baton  
 bagno : bloti stan  
 bahaista : baha'iste  
 bahaizm : baha'istia  
@@ -316,6 +320,7 @@ drużyna : tim
 drzewo : xu  
 drzwi wyjściowe : cute mun  
 drzwi, brama, portal : mun  
+dualizm : dulistia  
 dubn : dubnium  
 duch, fantom : fantom  
 dumać, rozmyślać, zastanawiać się : hema  
@@ -325,7 +330,7 @@ dwa (2) : dul
 dym : duman  
 dysk : diske  
 dyskusja, debata, dyskurs : lon  
-dyskutoać, twierdzić : teza  
+dyskutoać, twierdzić : tesa  
 dysproz : disprosium  
 dystans : tele  
 dzban, dzbanek; słój, słoik : jar  
@@ -372,6 +377,7 @@ elektryczny : eletri
 emocja, uczucie : gam  
 energia : energe  
 entuzjasta, miłośnik, fan, amator, wielbiciel : nik  
+enzym : enzim  
 erb : erbium  
 Eris (planeta karłowata) : eris  
 Erytrea : eritria  
@@ -436,6 +442,7 @@ galeria, sala wystawowa : galeria
 Gambia : gambia  
 Ganges : ganga  
 garam masala : garmi masal  
+gardzić (pogardzać) : paraya  
 gatunek : jong  
 gaz : gas  
 gaza : gaze  
@@ -443,7 +450,7 @@ gazela : gazel
 gazeta : habar gazete  
 gałąź, konar : xake  
 gdzie : na ke  
-gejowski, homoseksualny : gey  
+gejowski (homoseksualny) : gey  
 genderqueer, niebinarny : bis  
 german : germanium  
 gest : jeste  
@@ -473,6 +480,7 @@ grać, odgrywać rolę : rola
 Grecja : helenia  
 Grenada : grenada  
 grom, huk : grom  
+gruby : gros  
 grudzień : mes 9 (mes noy)  
 grunt (ziemia, próchnica) : darte  
 grupa : grupe  
@@ -510,6 +518,8 @@ harmoniczny : harmoni
 has : hasium  
 hałas : keler  
 hebel, strug : randa  
+hebel, strug : rander  
+heblować : randa  
 hebrajski : ibri  
 hel : helium  
 herbata : ca  
@@ -553,6 +563,7 @@ imperator : imperer
 imperialista : imperiste  
 imperializm : imperistia  
 imperium : imperia  
+Imperium Osmańskie : osmania  
 Imperium Rzymskie : romi empiria  
 ind : indium  
 Indie : bartia  
@@ -563,6 +574,7 @@ informacja : informe
 inny : ali  
 innymi słowy : yani  
 inspirować; inspiracja : inspira  
+intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) : tezi  
 inżynier : injener  
 Irak : irakia  
 Iran : iran  
@@ -609,6 +621,7 @@ jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, 
 jod; jodyna : iode  
 jod; jodyna : yode  
 joga : yoge  
+jon : ion  
 Jordan : urdun  
 judaizm : yehudistia  
 judo : judo  
@@ -641,6 +654,7 @@ kannada : kannadi
 kanoe : kanu'  
 kanonier : kanoner  
 kapelusz, czapka : tope  
+kaper (korsarz) : bote kaper  
 kapitan : kapitan  
 Karaiby : karibia  
 karaoke : karaoke  
@@ -658,6 +672,7 @@ kawiarnia : kafe kan
 Kazachstan : kazahia  
 każdy człowiek, wszyscy : mey ren  
 każdy, wszyscy : mey  
+kebab : kababe  
 keczup : kecape  
 Kenia : kenia  
 kiedy? : ki yang  
@@ -961,6 +976,7 @@ minąć, mijać (czas) : duru
 minąć, mijać, przeminąć, przemijać : pasa  
 misa na herbatę : ca wan  
 misa, kubek bez ucha : wan  
+misja : misia  
 mit, boska opowieść : dewi sage  
 miód : mel  
 między : inter  
@@ -1027,6 +1043,8 @@ nabardziej, maksymalnie : maxim
 naciskać, zostawiać ślad : capa  
 nacjonalista : nasiste  
 nacjonalizm : nasistia  
+nadajnik radiowy : radi miser  
+nadawca : miser  
 nadać, wysłać pocztą : posta  
 nadzieja, życzenie : inxala  
 nagi, goły, obnażony : nudi  
@@ -1132,6 +1150,7 @@ Oceania : oseania
 ocena, krytyka : piping  
 ocenić, oceniać, recenzować, komentować, krytykować : pipinga  
 ocet : sirke  
+odbiorca : geter  
 odbić, odbijać : mira  
 odbyt : anus  
 odcisk, ślad; stempel, pieczęć : cape  
@@ -1227,6 +1246,7 @@ papuga : papagay
 paragon, pokwitowanie : reside  
 Paragwaj : paraguay  
 partia : partia  
+Partia Piratów : piratisti partia  
 pas, strefa : zon  
 paskal (Pa) : paskal  
 pasować : maca  
@@ -1250,6 +1270,7 @@ pianino : piano
 piasek, piach : rege  
 pidżin, język pomocniczy : pijin  
 piec : beka  
+piec : rosta  
 piekarnia : bekeria  
 piekarz : beker  
 piekło : narake  
@@ -1269,7 +1290,9 @@ pilaw : polaw
 pilot : piloter  
 pingwin : pinguin  
 piosenka, pieśń : cante  
+piractwo : piratia  
 piramida : piram  
+pirat (osoba naruszająca prawa własności intelektualnej) : piratiste  
 pirat : pirater  
 pismo, tekst : kitabe  
 pistolet : pistol  
@@ -1322,12 +1345,15 @@ podróżnik : safarer
 podróżować : safara  
 podstawa, baza, fundament : baze  
 poduszka : kusen  
+podwójny (dwójkowy) : duli  
 podążać : bada  
 podłoga : kamar tal  
 poemat : xir  
 poeta : xirer  
 pogoda : tenke  
+pogrubiona litera : gros harfe  
 poinformować, informować, zakomunikować, komunikować : informa  
+pojęciowy : idi  
 pokaz, ekspozycja, wystawa : xow  
 pokazać, pokazywać, wystawić, wystawiać : xowa  
 poker : poke  
@@ -1367,6 +1393,8 @@ porno, film erotyczny : porne
 pornografia : porne grafia  
 porozumienie (amen) : amen  
 Portugalia : portugal  
+porywacz pociągu : tren kaper  
+porywacz samolotu : wiman kaper  
 porządek : ratibe  
 porządkować, organizować : ratiba  
 postawa ciała; asana : asan  
@@ -1395,7 +1423,7 @@ pozostałość, reszta : reste
 pozować, ustawiać się : poza  
 pozwolenie, zezwolenie : permis  
 pozwolić, pozwalać, zezwolić, zezwalać : permisa  
-połknąć, połykać : glota  
+połknąć (połykać) : glota  
 południe : sude  
 Południowa Afryka : sudafrike  
 połączenie, złącze, styk : lige  
@@ -1407,6 +1435,7 @@ pracownik : werker
 practyczny, pragmatyczny : prati  
 praktyka, aktualność : prate  
 pralka : wax-maxin  
+prawa autorskie : kopi hake  
 prawdopodobnie, możliwie : posabli  
 prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
@@ -1426,6 +1455,10 @@ program : program
 programista, koder : programer  
 projekt, planowane przedsięwzięcie : proje  
 promet : prometium  
+promieniowanie : radia  
+promieniować : rada  
+promień : rade  
+promień światła : nuri rade  
 proroctwo : nabe  
 prorok : naber  
 prosić : bita  
@@ -1482,6 +1515,7 @@ przyrostek dla wsperającego ideę : -iste
 przyrostek dla wykonawcy : -er  
 przystojny, atrakcyjny, ładny : bon rupi  
 przyszłość : wile  
+prędkość (szybkość) : rape  
 pręt, kij : baton  
 ptak : pakse  
 puder : muke fun  
@@ -1509,10 +1543,13 @@ płciowy : jinsi
 płeć : jinse  
 płuco : pulmon  
 ##r  
+rachunek (formalny system obliczeń) : kalkulia  
 racjonalny, rozsądny : razoni  
 rad : radium  
 rada, porada : mente  
 radio : radi geter  
+radioaktywność : ioni radia  
+radioaktywny : ioni radi  
 radon : radon  
 rakieta : rokete  
 Ramadan : ramazan  
@@ -1525,6 +1562,7 @@ rasizm : rasistia
 rebelia, powstanie : rebel  
 recepta, receptura, przepis : recete  
 region : stan  
+register : deftia  
 rejestr : defte  
 religia, wyznanie : din  
 ren : renium  
@@ -1697,8 +1735,8 @@ społeczeństwo, system społeczny : socia
 społeczny : soci  
 sprawdzić, sprawdzać, skontrolować : ceka  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać : genca  
-sprawiedliwość : xaria  
-sprawiedliwy : xari  
+sprawiedliwość : adalia  
+sprawiedliwy : adali  
 sprawić ból, sprawiać ból : paxa  
 sprzątacz, sprzątacz : safer  
 spróbować, próbować : proba  
@@ -1783,7 +1821,7 @@ sztylet (puginał) : kanjar
 szukać : serca  
 Szwajcaria : swisia  
 Szwecja : swenia  
-szybki, prędki : rapidi  
+szybki, prędki : rapi  
 szympans : cimpanze  
 szynszyla : cincil  
 szyszka : konus  
@@ -1861,6 +1899,7 @@ tolerować : tolera
 ton, dźwięk, nuta, tonacja : ton  
 tor : torium  
 torba, wór, worek, torba, sakwa : sake  
+tost : rosti nan  
 totalny, ogólny : total  
 trawa : gras  
 treść (zawartość) : ten  
@@ -1882,6 +1921,7 @@ tunika, toga : tunike
 turban : pagre  
 Turcja : turkia  
 turecki : turki  
+Turek osmański : osman  
 Turkmenistan : turkmenia  
 turysta : turiste  
 turystyka : turistia  
@@ -1981,6 +2021,8 @@ wczoraj : predi den
 Wenezuela : venesuela  
 weranda, balkon, taras, ganek : berande  
 wesoły, ucieszony : suki  
+wewnętrzny : indi  
+wewnętrzny : indi jeni  
 wiadomość : mesaje  
 wiadomość, nius : habar  
 wiadomość, zawiadomienie, powiadomienie : notis  
@@ -1997,11 +2039,13 @@ wiedzieć : jana
 wiejski, rustykalny : rusti  
 wiek : umur  
 wielbłąd, wielbłądzica : gamel  
+wiele : pol  
+wielo- (poli-, multi-) : poli  
 wieprzowina : gurube manse  
 wiercić, borować : bora  
 wierzyć : xina  
 Wietnam : vietnam  
-wiewiórka : lixu'  
+wiewiórka : tupay  
 wieś, tereny wiejskie : rustia  
 wieś, wioska : ruste  
 wieża : minare  
@@ -2023,6 +2067,7 @@ większość : maxoria
 więzienie, kara więzienia, kara pozbawienia wolności : prizon  
 więzienie, zakład karny : prizonia  
 wkrótce : sun  
+wnętrze (środek) : inde  
 woda : suy  
 woda mineralna : kuang suy  
 wodór : hidre  
@@ -2067,6 +2112,7 @@ wyobrazić, wyobrażać, fantazjować : fantaza
 wypełnić, wypełniać : fula  
 wyprostować, prostować : jiki  
 wyrok : hakim  
+wyrzutek : paraye  
 wysoki : gaw  
 wyspa : nes  
 Wyspa Man : manin  
@@ -2078,6 +2124,7 @@ Wyspy Kokosowe : kokos nesia
 Wyspy Salomona : solomon nesia  
 Wyspy Świętego Tomasza i Książęca : santi tome i prinsipe  
 wystarczający : bas  
+wysłać (wyemitować) : misa  
 wyć : ulula  
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać : fuga  
 wzrastać : rastu  
@@ -2090,6 +2137,7 @@ Węgry : madyar
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
+właściciel (posiadacz) : ader  
 właściwy, poprawny : sahi  
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  
@@ -2162,6 +2210,7 @@ zielony : berdi
 Ziemia : zemia  
 ziemia, grunt, gleba : zem  
 ziemniak : patate  
+ziggurat : zikur  
 zima : xite  
 Zimbabwe : zimbabwe  
 zimny, chłodny : leng  

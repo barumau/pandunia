@@ -31,6 +31,7 @@ Aland Islands : olandia
 Albania : cipia  
 alcohol : alkol  
 alcoholic : alkoli  
+alga : alge  
 algebra : jebria  
 Algeria : jayer  
 alive (living) : jiwi  
@@ -82,8 +83,8 @@ area (extent of surface) : are
 area (region) : aria  
 Argentina : argentin  
 argon : argon  
-argue (claim) : teza  
-argument (thesis) : teze  
+argue (claim) : tesa  
+argument (thesis) : tese  
 arithmetic : hisabia  
 army : armia  
 arsenic : arsen  
@@ -126,6 +127,7 @@ backpack (rucksack) : ruke sake
 bad (ruined, destroyed) : harabi  
 bad : mal  
 bag (sack) : sake  
+baguette : nan baton  
 bah! (yuck!) : fuy  
 Baha'ism : baha'istia  
 Baha'ist : baha'iste  
@@ -462,6 +464,7 @@ copper : kuper
 copper : kuper  
 copy (replica) : kope  
 copy (replicate) : kopa  
+copyright : kopi hake  
 corn (maize) : mais  
 corner (angle) : kon  
 correct (make right) : saha  
@@ -538,6 +541,7 @@ depict (describe, illustrate) : grafa
 descriptive : sifi  
 desert : regi stan  
 desire (lust) : kam  
+despise (scorn) : paraya  
 detail : detal  
 development : fajan  
 devil (Satan) : xatan  
@@ -629,6 +633,7 @@ English : engli
 enough (sufficient) : bas  
 enthusiast (aficionado) : nik  
 environmental (natural) : tabial  
+enzyme : enzim  
 equal (fair) : egal  
 equal (peer) : par  
 erbium : erbium  
@@ -687,7 +692,7 @@ fascism : faxistia
 fascist : faxiste  
 fashion (trend) : faxon  
 fashion (trend) : mode  
-fast (quick) : rapidi  
+fast (quick, rapid, speedy) : rapi  
 fat (grease) : fete  
 fate (destiny, kismet) : kisme  
 father : pape  
@@ -981,6 +986,7 @@ inspire : inspira
 instructions (recipe) : recete  
 insult (offence) : ninde  
 intend (plan) : plana  
+intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) : tezi  
 interest (interesting) : interes  
 interpreter (translator) : tarjer  
 interrogative : eski  
@@ -1029,14 +1035,15 @@ July : mes 7 (mes set)
 jump : salta  
 June : mes 6 (mes sis)  
 Jupiter : muxing  
-just (fair) : xari  
+just (fair) : adali  
 just (recently) : gang  
-justice : xaria  
+justice : adalia  
 ##k  
 Kannada : kannadi  
 karaoke : karaoke  
 karate : karate  
 Kazakhstan : kazahia  
+kebab : kababe  
 keeper (preserver) : hafizer  
 Kenya : kenia  
 ketchup : kecape  
@@ -1086,6 +1093,7 @@ lawrencium : laurensium
 lead (direct) : lida  
 lead : plumbe  
 leader (director) : lider  
+leaf (sheet) : warke  
 leak : lowa  
 learn (study) : darsa  
 least (minimally) : minim  
@@ -1410,7 +1418,10 @@ only (alone, solely, just) : mon
 open (not closed) : kay  
 open : kaya  
 opinion (view) : ray  
+opponent (antagonist) : anter  
 opportunity (chance) : canse  
+oppose (resist) : anta  
+opposite (anti-) : anti  
 or : u  
 orange (fruit) : aranje  
 orange (orange-colored) : aranji  
@@ -1428,11 +1439,15 @@ orphan : yatim
 orphanage : yatim kan  
 osmium : osmium  
 other : ali  
+Ottoman : osman  
+Ottoman Empire : osmania  
 ouch! (alas!) : ay  
+outcast (pariah) : paraye  
 outer (external) : way  
 outside (exterior) : waye  
 overpass : supre  
 own (particle of possession) : da  
+owner : ader  
 oxygen : okse  
 ##p  
 pack (package) : pake  
@@ -1516,7 +1531,10 @@ pineapple : nanas
 pink (rosy) : rozi  
 pious : darmi  
 pipe : pipe  
-pirate : pirater  
+piracy : piratia  
+pirate (one who disobeys intellectual property laws) : piratiste  
+pirate (sea robber) : pirater  
+Pirate Party : piratisti partia  
 piss (urinate) : pixa  
 piss (urine) : pix  
 pistol : pistol  
@@ -1528,6 +1546,8 @@ place (location) : loke
 plain (ordinary, unadorned, simple, mere) : sadi  
 plan : plan  
 plane (plane tool) : randa  
+plane (tool for making a smooth surface) : rander  
+plane hijacker : wiman kaper  
 planet : planete  
 plant (vegetation) : plante  
 plastic : plastike  
@@ -1599,6 +1619,7 @@ prime minister : xefi minister
 print (stamp) : cape  
 prison (imprisonment) : prizon  
 prison : prizonia  
+privateer (buccaneer) : bote kaper  
 problem : problem  
 process (procedure) : proses  
 produce (create, make) : sana  
@@ -1705,6 +1726,7 @@ risk : riske
 risky : riski  
 ritual (ceremony) : rite  
 river : nade  
+roast : rosta  
 rob (loot) : luta  
 robot : robote  
 rocket : rokete  
@@ -1806,7 +1828,6 @@ shari'a : islamisti xaria
 shatter (break into pieces) : parca  
 shea : karite  
 sheep : meme  
-sheet (leaf) : warke  
 Shintoism : xindawistia  
 shirt : kamis  
 shock (collision) : xoke  
@@ -1843,6 +1864,7 @@ Slovakia : slowakia
 Slovenia : slowenia  
 smoke : duman  
 smooth : lis  
+smoothen with a plane : randa  
 snack : lil nyame  
 snake (serpent) : serpe  
 snow : him  
@@ -1885,6 +1907,7 @@ speak (communicate) : baxa
 special (distinct) : has  
 species : jong  
 speech (word) : loge  
+speed (velocity) : rape  
 spice (seasoning) : masal  
 spider : arane  
 spirit (soul, mind) : ruhe  
@@ -1894,7 +1917,7 @@ spoon : camce
 sport (athletics) : kel  
 spring (springtime) : cune  
 square (plaza) : maidan  
-squirrel : lixu'  
+squirrel : tupay  
 Sranan Tongo : surinam bax  
 Sri Lanka (Ceylon) : lankia  
 stadium (arena) : estadia  
@@ -2066,6 +2089,7 @@ tiny (mini-) : mini
 titanium : titan  
 to (till, until, for) : to  
 to be centered (amid, in the middle) : jungu  
+toast (toasted bread) : rosti nan  
 tobacco : tabake  
 today : zay den  
 tofu : tofu'  
@@ -2093,6 +2117,7 @@ tourist : turiste
 towel : towal  
 tower : minare  
 train : tren  
+train hijacker : tren kaper  
 transit (pass through or across) : transa  
 transit (passage) : trans  
 translate (interpret) : tarja  
@@ -2176,6 +2201,7 @@ virology : wirus lojia
 virus : wirus  
 visit : wizit  
 visual field (field of vision) : wide maidan  
+vocabulary (lexicon) : leksia  
 volt (V) : volta  
 voodoo : vodu  
 ##w  
@@ -2269,6 +2295,7 @@ yttrium : yutrium
 Zambia : zambia  
 zebra : zebre  
 zero (none) : nol  
+ziggurat : zikur  
 zigzag : zigzage  
 Zimbabwe : zimbabwe  
 zinc : zinke  

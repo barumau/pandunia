@@ -15,6 +15,9 @@ abace : alfabeto
 acente : akcento  
 acinium : aktinio  
 ada : havi  
+adali : justa  
+adalia : justeco  
+ader : havanto  
 adres : adreso  
 adu : aparteni  
 adulte : plenaĝa  
@@ -24,6 +27,7 @@ agres : agreso
 aha : kompreni  
 ajil : lerta  
 akse : akso  
+alge : algo  
 ali jinse kami : samseksema  
 ali : alia  
 alkol : alkoholo  
@@ -775,6 +779,7 @@ latvia : Latvio
 laurensium : laŭrencio  
 laya : veni  
 lekse : vorto  
+leksia : vortaro  
 leng : malvarma  
 lete : somero  
 lew : jam (esti farita)  
@@ -1048,6 +1053,8 @@ radium : radiumo
 radon : radono  
 rajer : reĝo aŭ reĝino  
 rang : koloro  
+rape : rapideco  
+rapi : rapidi  
 ras : raco  
 rasiste : racisto  
 rasistia : racismo  
@@ -1242,6 +1249,7 @@ tundar : tundro
 tunel tren : metroo  
 tunel : tunelo  
 tunike : robo  
+tupay : sciuro  
 turkia : Turkio  
 ##u  
 u : aŭ  
@@ -1282,8 +1290,6 @@ xaman : ŝamano
 xampu' : ŝampuo  
 xan : monto  
 xanti : trankvila  
-xari : justa  
-xaria : justeco  
 xarnir : ĉarniro (pivoto)  
 xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  

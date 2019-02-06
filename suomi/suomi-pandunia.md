@@ -220,6 +220,7 @@ enimmäis- : maximi
 eniten : maxim  
 ensimmäinen (alku-) : muli  
 ensimmäinen (numero yksi) : num un  
+entsyymi : enzim  
 epäilys : dute  
 epäonni : mal zar  
 erbium : erbium  
@@ -308,6 +309,7 @@ hajottaa (särkeä, repiä, sirpaloida) : parca
 hallita yksinvaltaisesti : impera  
 halo : halos  
 haluta : wol  
+halveksia (hyljeksiä) : paraya  
 hame : jupe  
 hammas : dante  
 hammasharja : dante brox  
@@ -410,6 +412,7 @@ huumori : yumor
 huutaa : krita  
 huvi (hauskuus) : maze  
 hyi! (pyh!) : fuy  
+hylkiö (paaria) : paraye  
 hyrrä : tolo  
 hyttynen (sääski) : moskite  
 hyvä (tervehdyksissä) : salam  
@@ -434,6 +437,8 @@ hätä (paniikki) : panike
 hävitä (kärsiä tappio) : luza  
 häviäjä : luzer  
 hölmö (narri) : bufon  
+höylä : rander  
+höylätä : randa  
 ##i  
 ihminen : insan  
 ihmiskunta : insania  
@@ -528,6 +533,7 @@ jumala : dew
 jumalallinen : dewi  
 jumaltaru (myytti) : dewi sage  
 juna : tren  
+junakaappari : tren kaper  
 junarata (rautatie) : tren daw  
 Jupiter : muxing  
 jutella (höpistä) : blabla  
@@ -616,6 +622,7 @@ kaukainen : tel
 kaunis (komea, sievä) : sundar  
 kaupunki : site  
 Kazakstan : kazahia  
+kebab : kababe  
 kehitys : fajan  
 keho (ruumis) : badan  
 keidas : wase  
@@ -669,6 +676,7 @@ kiekko (levy) : diske
 kieli (kommunikaatio) : bax  
 kielitiede (lingvistiikka) : bax lojia  
 kieltää : nega  
+kiihkeä (väkevä, voimakas, vahva, kova) : tezi  
 kiila : kil  
 Kiina : jungogia  
 kiinnittää : fiksa  
@@ -743,6 +751,7 @@ koota (kerätä) : jama
 kopernikium : kopernikium  
 kopio : kope  
 kopioida : kopa  
+kopiointioikeus (tekijänoikeus) : kopi hake  
 koppi (maja) : kabin  
 koraani : kuran  
 kori : baske  
@@ -875,6 +884,7 @@ laatu (ominaisuus, ominaispiirre, määrite) : sife
 ladata : lada  
 lahja : don  
 lainata (siteerata) : cita  
+laivakaappari : bote kaper  
 laji (tyyppi, tyyli) : yang  
 laji : jong  
 laki : kanun  
@@ -899,6 +909,7 @@ lautapeli : ban gem
 lava (näyttämö) : sen  
 lawrensium : laurensium  
 lehmän liha : mumu manse  
+lehti (arkki, levy) : warke  
 lehti (sanomalehti) : gazete  
 lehtisalaatti : letis  
 leijona : sing  
@@ -909,11 +920,12 @@ leipä : nan
 leiri : kampe  
 lekseemi : leksem  
 lentokone : wiman  
+lentokonekaappari : wiman kaper  
 lentää : feya  
 lepo : xuxe  
 Lesoto : soto  
 leveä : kuan  
-levy (arkki) : warke  
+levä : alge  
 Libanon : libnun  
 liberaali (vapaamielinen) : huristi  
 liberalismi : huristia  
@@ -1081,6 +1093,7 @@ menneisyys : pase
 mennyt : pas  
 meri : daria  
 merirosvo (piraatti) : pirater  
+merirosvous : piratia  
 merkitys : mene  
 merkitä (jättää jälki) : marka  
 merkitä (tarkoittaa) : mena  
@@ -1218,6 +1231,8 @@ Niue : niwe
 nobelium : nobelium  
 noin (arviolta, suunnilleen) : yagi  
 nolla (ei yhtään) : nol  
+nopea (pikainen, vauhdikas) : rapi  
+nopeus (vauhti) : rape  
 noppa (arpakuutio) : dado'  
 Norfolkin saaret : norfolke  
 Norja : norgia  
@@ -1255,9 +1270,9 @@ ohjelma : program
 oho (vau) : waw  
 oi! : o  
 oikea (paikkansapitävä) : sahi  
-oikeudenmukainen : xari  
+oikeudenmukainen : adali  
 oikeus (oikeutus) : hake  
-oikeus : xaria  
+oikeus : adalia  
 oivaltaa (tajuta) : aha  
 oksa (haara) : xake  
 oliivi : zaitun  
@@ -1270,6 +1285,7 @@ olut (kalja) : bir
 Oman : oman  
 omena : aple  
 omistaa (omata) : ada  
+omistaja : ader  
 omistetun omistajaan liittävä partikkeli : du  
 ongelma : problem  
 onnitella (siunata) : barka  
@@ -1278,7 +1294,7 @@ oppi (opetus) : darse
 oppia (opiskella) : darsa  
 oppilas : darse bace  
 oranssi : aranji  
-orava : lixu'  
+orava : tupay  
 orgasmi : orgazme  
 orija (eräs intialainen kieli) : odisi  
 Oromia : oromia  
@@ -1290,6 +1306,8 @@ osallistua : parta
 osallistuja : parter  
 osapuoli : partia  
 Oseania : oseania  
+osmani (ottomaani) : osman  
+Osmanien valtakunta : osmania  
 osmium : osmium  
 osoite : adres  
 osoitin (viisari) : ponter  
@@ -1301,6 +1319,8 @@ ottelu (matsi) : mece
 outo (kummallinen) : bizar  
 ovi (portti, veräjä) : mun  
 ##p  
+paahtaa (paistaa) : rosta  
+paahtoleipä : rosti nan  
 paeta (karata) : bega  
 paholainen (saatana, piru) : xatan  
 paikallinen : loki  
@@ -1353,6 +1373,7 @@ parta : barde
 parveke (kuisti) : balkon  
 pascal (Pa) : paskal  
 patja : matras  
+patonki (ranskanleipä) : nan baton  
 pehmeä : komal  
 peikko : guy  
 peili : mirer  
@@ -1399,6 +1420,8 @@ pingviini : pinguin
 pinta : fas  
 pioni : mudan  
 pippuri : pimente  
+piraatti (joka ei kunnioita tekijänoikeuksia) : piratiste  
+piraattipuolue : piratisti partia  
 pirullinen : xatani  
 pisara (tippa) : yote  
 piste (täplä) : punte  
@@ -1616,6 +1639,7 @@ sammal : mos
 Samoa : samoa  
 sana : lekse  
 sanaluettelo : loge liste  
+sanasto : leksia  
 sankari (urho) : hero'  
 sankarillinen (urhoollinen) : hero'i  
 sanko (ämpäri) : balde  
@@ -2050,9 +2074,12 @@ vartalo (varsi, torso) : torse
 vartija (vahti) : garder  
 vartioida (vahtia) : garda  
 vasara : hamar  
+vasta- (anti-) : anti  
 vastaan (vasten) : kontra  
 vastata : daba  
 vastaus : dabe  
+vastustaa : anta  
+vastustaja : anter  
 Vatikaanivaltio : vatikan  
 vaurio : awar  
 vauva : bebe  
@@ -2137,9 +2164,9 @@ vähemmän : min
 vähimmäis- : minimi  
 vähiten : minim  
 vähäinen : minor  
-väite (teesi) : teze  
+väite (teesi) : tese  
 väittely (debatti) : lon  
-väittää : teza  
+väittää : tesa  
 väli : inter  
 välipala (naposteltava) : lil nyame  
 väri : rang  
@@ -2185,6 +2212,7 @@ yö : noce
 Zarathustra : zardux  
 zarathustralainen : zarduxiste  
 zarathustralaisuus : zarduxistia  
+zikkurat : zikur  
 Zimbabwe : zimbabwe  
 zirkonium : zirkonium  
 zombi : zombe  
