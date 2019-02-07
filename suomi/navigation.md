@@ -10,7 +10,7 @@
 
 [Sanasto]()
 
-  * [Maailman sanastot](loga.md)
+  * [Maailman sanastot](dunia_loge.md)
   * [Pandunia-suomi](pandunia-suomi.md)
   * [Suomi-pandunia](suomi-pandunia.md)
 
@@ -18,7 +18,7 @@
 
 [Tietoa]()
 
-  * [Maailman yhteyskieli](dunia_pijin.md)
+  * [Maailman yhteyskieli](dunia_bax.md)
   * [Kysymyksiä & vastauksia](kia_i_dap.md)
 
 [💬]()

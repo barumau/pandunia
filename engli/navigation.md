@@ -5,7 +5,7 @@
 
 [Info]()
 
-  * [Introduction](dunia_baxe.md)
+  * [Introduction](dunia_bax.md)
   * [Principles](filsof.md)
   * [World words](dunia_loge.md)
   * [Questions & Answers](kia_i_dap.md)

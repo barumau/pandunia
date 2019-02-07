@@ -49,7 +49,7 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ## Kirjoituksia
 
-- [Maailman yhteyskieli](dunia_pijin.md)
+- [Maailman yhteyskieli](dunia_bax.md)
 - [Esperanto vs. pandunia](esperanti_i_pandunia.md)
 - [Esitys panduniasta PDF-muodossa](Diaesitys.pdf)
 
