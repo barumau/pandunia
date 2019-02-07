@@ -185,10 +185,10 @@ Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös 
     Pandunia:  mi ama tu, tu ama mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-Objektin voi siirtää lauseen alkun verbin **bei** avulla.
+Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 
     Englanti:  The apples were eaten.
-    Pandunia:  apel bey nyama.
+    Pandunia:  aple bey nyama.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
@@ -206,11 +206,11 @@ Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mi
 Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
 
     Englanti:  It is an apple.
-    Pandunia:  ye si apel.
+    Pandunia:  ye si aple.
     Kiina:     Tā shì píngguǒ. (他是苹果。)
 
     Englanti:  They are apples.
-    Pandunia:  yemen si apel.
+    Pandunia:  yemen si aple.
     Kiina:     Tāmen shì píngguǒ. (他们是苹果。)
 
 
