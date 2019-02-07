@@ -8,8 +8,6 @@
 -iste : przyrostek dla wsperającego ideę  
 -istia : przyrostek dla ideologii  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
- : linia, rząd  
- : status, kondycja, stan  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -68,6 +66,7 @@ arane : pająk
 arani fobia : arachnofobia  
 aranje : pomarańcza  
 aranji : pomarańczowy  
+arbe : drzewo  
 arbuze : arbuz  
 are : pole, powierzchnia  
 argentin : Argentyna  
@@ -310,8 +309,6 @@ cute mun : drzwi wyjściowe
 cute : wyjśćie, opuszczenie  
 ##d  
 da : mieć (partykuła posiadania)  
-daba : odpowiedzieć, odpowiadać  
-dabe : odpowiedź, odzew  
 dado' : kość do gry  
 dalil : dowód; zeznanie  
 dalila : dowieść, dowodzić; zeznać, zeznawać  
@@ -581,7 +578,6 @@ gar : jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyj
 garante : gwarancja  
 garda : chronić, strzec,  osłaniać, bronić  
 garder : strażnik, ochroniarz  
-gardin : ogród  
 garmi masal : garam masala  
 garmi : ciepły  
 gas : gaz  
@@ -715,7 +711,6 @@ hor : godzina
 hormon : hormon  
 horvatia : Chorwacja  
 hotel : hotel  
-hua : kwiat  
 hule : lis  
 hulu' : tykwa  
 humus sos : hummus  
@@ -789,12 +784,11 @@ jamula : rozproszyć, rozpraszać
 jan : wiedza  
 jana : wiedzieć  
 janel : okno  
-jang : walka, wojna  
 jangal : las, dżungla, zagajnik  
-janger : wojownik, bojownik  
-jangi : militarny, wojskowy, wojenny  
 jani : wiadomy, znany  
 jar : dzban, dzbanek; słój, słoik  
+jawaba : odpowiedzieć, odpowiadać  
+jawabe : odpowiedź, odzew  
 jayer : Algieria  
 jayistia : dźinizm, dżinizm  
 jaze : jazz, dżez  
@@ -805,6 +799,9 @@ jelos : zazdrosny
 jen den : urodziny  
 jen : narodziny  
 jena : urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
+jeng : walka, wojna  
+jenger : wojownik, bojownik  
+jengi : militarny, wojskowy, wojenny  
 jenju' : perła  
 jentil : uprzejmy, miły  
 jenu : urodzić się, rodzić się  
@@ -1313,7 +1310,6 @@ mixer : mikser, blender, robot kuchenny
 mode : moda, trend  
 model : model, wzór, wzorzec, projekt  
 moge : tusz  
-moke : przedmiot  
 mola : zemleć, mleć, mielić  
 moldovia : Mołdawia  
 moler : młynarz  
@@ -2132,7 +2128,7 @@ venesuela : Wenezuela
 vietnam : Wietnam  
 vinsi i grenadin : Saint Vincent and Grenadines  
 vodu : voodoo  
-volta : wolt (V)  
+volte : wolt (V)  
 ##w  
 wada : obiecać, angażować się  
 waf : pies  
@@ -2227,7 +2223,6 @@ xixi : cichy
 xoke : szokwstrząs; kolizja  
 xow : pokaz, ekspozycja, wystawa  
 xowa : pokazać, pokazywać, wystawić, wystawiać  
-xu : drzewo  
 xudu : powinien  
 xula : naprawić, naprawiać  
 xule : naprawa  

@@ -8,8 +8,6 @@
 -iste : suffix for the supporter of an idea  
 -istia : suffix for ideologies and religions  
 -u : suffix for verbs with OVS word order  
- : row (line, queue)  
- : status (condition, state, situation, circumstance)  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -71,6 +69,8 @@ arane : spider
 arani fobia : arachnophobia  
 aranje : orange (fruit)  
 aranji : orange (orange-colored)  
+arbe gardin : arboretum  
+arbe : tree  
 arbuze : watermelon  
 are : area (extent of surface)  
 argentin : Argentina  
@@ -313,8 +313,6 @@ cute mun : exit door
 cute : exit (leaving)  
 ##d  
 da : own (particle of possession)  
-daba : respond (give an answer)  
-dabe : answer (reply, response)  
 dado' : die (dice)  
 dalil : proof (evidence, proof, demonstration, testimony)  
 dalila : prove (demonstrate, testify)  
@@ -584,7 +582,6 @@ gar : if (suppose, assume)
 garante : guarantee  
 garda : guard (watch)  
 garder : guardian (watchman)  
-gardin : garden  
 garmi masal : garam masala  
 garmi : warm  
 gas : gas  
@@ -718,7 +715,6 @@ hor : hour
 hormon : hormone  
 horvatia : Croatia  
 hotel : hotel  
-hua : flower  
 hule : fox  
 hulu' : gourd (calabash)  
 humus sos : hummus  
@@ -792,12 +788,13 @@ jamula : disperse
 jan : knowledge  
 jana : know  
 janel : window  
-jang : fight (war)  
 jangal : forest (jungle, woods)  
-janger : warrior (fighter)  
-jangi : military  
+janger : artisan (craftsman)  
+jangi : crafty (dexterous)  
 jani : known  
 jar : jug (jar)  
+jawaba : respond (give an answer)  
+jawabe : answer (reply, response)  
 jayer : Algeria  
 jayistia : Jainism  
 jaze : jazz  
@@ -808,6 +805,9 @@ jelos : jealous
 jen den : birthday  
 jen : birth  
 jena : give birth (procreate, generate)  
+jeng : fight (war)  
+jenger : warrior (fighter)  
+jengi : military  
 jenju' : pearl  
 jentil : kind (nice, gentle)  
 jenu : be born  
@@ -890,6 +890,7 @@ kanu' : canoe
 kanun : law  
 kapa : catch (capture, seize, snatch, intercept)  
 kapitan : captain  
+kar parke : car park (parking lot)  
 kar : car (cart, carriage, wagon, automobile)  
 karaoke : karaoke  
 karate : karate  
@@ -1130,6 +1131,7 @@ longa : lengthen (prolong)
 longe : length  
 lose : screw  
 lote : batch (lot)  
+lote : lot (plot of land)  
 lowa sang : bleed  
 lowa : leak  
 luksemburgia : Luxembourg  
@@ -1267,6 +1269,7 @@ mes 9 (mes noy) : September
 mes : month  
 mesaja : communicate (message)  
 mesaje : message  
+metal janger : blacksmith (iron forger)  
 metal : metal  
 metode : method (way, manner)  
 metre : measure  
@@ -1317,7 +1320,8 @@ mixer : mixer (blender)
 mode : fashion (trend)  
 model : model (design)  
 moge : ink  
-moke : item  
+moke janger : carpenter  
+moke : wood (timber)  
 mola : grind (grind in mill)  
 moldovia : Moldova  
 moler : miller  
@@ -1543,6 +1547,7 @@ parce : piece (fragment, shred, morsel, crumb)
 parci : broken (shattered)  
 parde : curtain  
 pardon : sorry (pardon)  
+parke : park (garden)  
 parta : participate (attend, partake, take part)  
 parter : participant  
 partia : party  
@@ -2059,6 +2064,8 @@ toca : touch
 tofu' : tofu  
 togoli : Togolese  
 togolia : Togo  
+tokse : poison (venom)  
+toksi : toxic (poisonous, venomous)  
 tolera : tolerate  
 tolo : top (spinning top)  
 tomate : tomato  
@@ -2136,7 +2143,7 @@ venesuela : Venezuela
 vietnam : Viet Nam  
 vinsi i grenadin : Saint Vincent and Grenadines  
 vodu : voodoo  
-volta : volt (V)  
+volte : volt (V)  
 ##w  
 wada : promise (commit)  
 waf : dog  
@@ -2231,7 +2238,6 @@ xixi : silent
 xoke : shock (collision)  
 xow : show (display, exhibition)  
 xowa : show (display)  
-xu : tree  
 xudu : should (ought)  
 xula : repair (fix)  
 xule : repair (fix)  

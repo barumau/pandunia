@@ -47,7 +47,7 @@ Oto 11 podstawowych zasad języka Pandunia.
 
 Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
-> **batú** - kamień, kamienie
+> **petre** - kamień, kamienie
 > **meze** - stół, stoły
 > **kurse** - krzesło, krzesła
 > **suy** - woda
@@ -60,7 +60,7 @@ Liczba nie wpływa na rzeczowniki, tj. rzeczowniki mają te same formy w liczbie
 
 Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
-> **batú batú** - kamienie, wiele kamieni
+> **petre petre** - kamienie, wiele kamieni
 > **xing xing** - gwiazdy, wiele kamieni
 
 ### 2.3. Rodzaj
@@ -85,14 +85,14 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-> **day batú** - duży kamień
+> **day petre** - duży kamień
 > **day meze** - duży stół
 > **gaw meze** - wysoki stół
 > **bon kurse** - dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-> **batú day.** - Kamień jest duży.
+> **petre day.** - Kamień jest duży.
 > **meze gaw.** - Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
@@ -615,13 +615,13 @@ Przed **da** pojawia się posiadacz, a po nim posiadany obiekt.
 
 > **maria da mama** - Marii matka
 > **mi da dom** - mój dom
-> **mi da papa da dom** - mojego ojca dom
+> **mi da pape da dom** - mojego ojca dom
 
 Przed **da** pojawia się posiadany obiekt, a po nim posiadacz.
 
 > **mama du maria** - matka Marii
 > **dom du mi** - dom mój
-> **dom du papa du mi** - dom ojca mojego
+> **dom du pape du mi** - dom ojca mojego
 
 #### 9.2.2. Nadawanie cech przymiotnikami
 
@@ -755,7 +755,7 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 > **mi laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
 > **tu sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
-> **ye lala sofa.** - Leży na sofie. (Dosłownie: Leży sofę.)
+> **ye lala sofa'.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)
 > **jangar marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)
 
@@ -764,16 +764,16 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **mi saba pandunia ka guru.** - Znam Pandunię jak mistrz.
+> **mi jana pandunia ka guru.** - Znam Pandunię jak mistrz.
 
-**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **saba** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
+**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
 **ka** jest też używany, gdy porównywane są przymiotniki.
 
-> **bace si min day ka papa.** - Dziecko jest mniejsze niż ojciec.
-> **opa si sem day ka papa.** - Dziadek jest tak duży jak ojciec.
+> **bace si min day ka pape.** - Dziecko jest mniejsze niż ojciec.
+> **law pape si sem day ka pape.** - Dziadek jest tak duży jak ojciec.
 
-**ka** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
+**ka** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **pape** (ojciec) w powyższych przykładach.
 
 
 
@@ -815,9 +815,9 @@ Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z na
 **adu** - należeć (czasownik bierny)
 **ade** - to, co jest posiadane (rzeczownik)
 
-**mus** lub **musu** - musieć (czasowni bierny)
-**musa** - zmuszać (czasownik czynny)
-**musi** - obowiązkowy (rzeczownik)
+**bixu** - musieć (czasowni bierny)
+**bixa** - zmuszać (czasownik czynny)
+**bixi** - obowiązkowy (rzeczownik)
 
 
 #### 11.1.2. Tworzenie czasowników
@@ -931,8 +931,8 @@ Również abstrakcyjne rzeczowniki często kończą się na **-ia**.
 
 Przyrostek przyczynowy.
 
-**saba** wiedzieć
-**sabisa** czynić znanym, informować
+**jana** wiedzieć
+**janisa** czynić znanym, informować
 **nota** notować
 **notisa** powiadamiać
 

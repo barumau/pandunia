@@ -8,7 +8,7 @@
   * [Introduction](dunia_bax.md)
   * [Principles](filsof.md)
   * [World words](dunia_loge.md)
-  * [Questions & Answers](kia_i_dap.md)
+  * [Questions & Answers](eske_i_jawabe.md)
   * [Translate this site](tarjum.md)
 
 [Lessons]()

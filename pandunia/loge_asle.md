@@ -32,8 +32,6 @@ pandunia da loge laya ze pol bax du dunia.
 
 ## -
 
- ← ara:(ḥāl). per:(hāl). ind:hal. swa:hali.   
- ← rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).  
 -a ← ←  
 -er ← eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.  
 -i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
@@ -61,6 +59,7 @@ aplika ← spa:por:aplicar. fra:appliquer. eng:apply.
 aplike ← eng:application. spa:aplicación. por:aplicação. pol:aplikacja.  
 arane ← fra:araignee. por:aranha. spa:araña. eng:arachnid.  
 aranje ← eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".  
+arbe ← fra:arbre. spa:árbol. por:árvore.  
 arbuze ← rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
 are ← eng:area. por:spa:área.  
 arte ← spa:por:arte. eng:fra:art.  
@@ -173,7 +172,6 @@ cur ← hin:चुराना (curānā). ind:curi.
 cute ← zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).  
 ##d  
 da ← pan:ਦਾ "dā". zho:的 "de".  
-dabe ← yue:答 (dap3). zho:答 (dá). kor:답 (dab). + ara:(jawāb). hin:जवाब (javāb). ind:jawab. swa:jibu,jawabu.  
 dado' ← spa:por:tgl:dado. ind:swa:dadu.  
 dalil ← ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.  
 dam gem ← fra:jeu de dames. ara:(dāmā). ind:dam. spa:por:damas. deu:Damespiel.  
@@ -251,7 +249,7 @@ fun ← zho:粉 (fěn). hak:粉 (fun). tha:ฝุ่น (fùn).
 furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 furia ← eng:fury. spa:pol:furia. por:fúria.  
 ##g  
-gabre ← ara:"qabr". hin:क़ब्र "qabra". ind:kubur. deu:Grab. pol:grób. rus:гроб "grob".  
+gabre ← ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
 gaje ← hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.  
 gam ← yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).  
@@ -260,7 +258,6 @@ gan ← zho:干 (gān). yue:乾 (gon1). kor:건 (geon).
 ganya ← fra:gagner. por:ganhar. spa:ganar. eng:gain.  
 gar ← per:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. kaz:егер (eger). + yue:假 (gaa1). wuu:假 (ga).   
 garder ← eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).  
-gardin ← eng:garden. deu:Garten. spa:jardín. fra:jardin.  
 garmi ← hin:गरम (garm). urd:per:گرم‎‎ (garm). kur:germ. deu:eng:warm.  
 gaw ← zho:高 (gāo). vie:cao.  
 gaze ← deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.  
@@ -310,7 +307,6 @@ hewan ← ind:kewan. ara:(haywān). hin:(hEvān).
 him ← hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).  
 hisabia ← orm:hisaaba. swa:hisabu.  
 hor ← fra:heure. eng:hour. spa:hora.  
-hua ← zho:花 "huā". vie:hoa. swa:wa.  
 hule ← zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).  
 hulu' ← zho:葫芦 (húlu). mon:хулуу (huluu).  
 huria ← ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.  
@@ -333,12 +329,14 @@ jama ← ara: جمع /jamaʕa/.
 jamia ← ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.  
 jan ← hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). pan:ਜਾਣ (jāṇ). tha:ญาณ (yaan).  
 janel ← por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.  
-jang ← per:(jang). hin:जंग (jang). zho:戰爭 (zhànzhēng). vie:tranh.  
 jangal ← hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:jângal. eng:jungle. rus: джу́нгли (džúngli). deu:Dschungel.  
+janger ← zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng).   
+jawabe ← ara:(jawāb). swa:jibu,jawabu. tur:cevap. per:(javāb). hin:जवाब (javāb). ind:jawab.  
 jebe ← hin:जेब (jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.  
 jebria ← ara:per:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.  
 jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).  
 jen ← hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.   
+jeng ← zho:爭 (zhēng). tur:ceng. per:(jang). hin:जंग (jang). vie:tranh.  
 jenju' ← zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:inju. rus:жемчуг (žemčug).  
 jin ← zho:真 (zhēn). kor:진 (jin). jpn:真 (shin). tha:จริง (jing).  
 jinse ← ara:urd:(jins). per:(jens). swa:jinsia. tur:cins(iyet). por:gênero. eng:gender.  
@@ -443,6 +441,7 @@ lojia ← eng:-ology. spa:-ología. fra:-ologie. rus:"-logiya". tur:"-loji".
 loke ← eng:location. spa:lugar.  
 lon ← zho:论 "lùn". jpn:論 "ron". vie:luận. kor:논 "non".  
 lona ← zho:讨论 "tǎolùn". kor:토론 "toron". jpn:討論 "tōron". vie:thảo luận.  
+lote ← por:lote. eng:fra:lot. spa:loteo.  
 lote ← por:spa:lote. eng:fra:lot.  
 lowa ← zho:漏 "lòu".  
 lun ← fra:lune. spa:luna. eng:lunar. rus:луна (luná).  
@@ -547,6 +546,7 @@ paraye ← hin:पराया (parāyā). eng:pariah. rus:пария (pariya). 
 parce ← per:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.  
 parde ← ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).  
 pardon ← fra:eng:tur:ron:hun:pardon. spa:perdón. por:perdão. bul:rus:пардон (pardon).  
+parke ← eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).  
 partia ← eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).  
 pas ← eng: past. spa: pasado. fra: passé.  
 paste ← eng:deu:paste. rus:"pasta". spa:por:pasta.  
@@ -697,6 +697,7 @@ tin ← eng:tin. may:tin.
 ting ← zho:停 (tíng). yue:停 (ting4).  
 to ← eng:to. rus:до "do". pol:do. zho:到 (dào). wuu:(då).  
 toca ← eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".  
+toksi ← eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.  
 tomate ← eng:tomato. spa:tomate. rus: "tomat".  
 ton ← eng:tone. swa:kitone. rus:тон "ton". deu:Ton. spa:tono.  
 tope ← ind:topi. hin: टोपी "ṭopī". ben:টুপি "ṭupi". tam:"toppi".  
@@ -760,7 +761,6 @@ xirope ← ara:"šarāb". por:xarope. eng:syrup. tur:şurup. jpn:シロップ "s
 xite ← ara:(šitāʾ). egy:(šeta). hin:शीत (śīt). ben:শীত (śīt).  
 xix ← eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.  
 xow ← eng: show.  
-xu ← zho:树 "shù".   
 xudu ← eng:should.  
 xule ← zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).  
 xuxe ← zho:休息 (xiūxí). kor:휴식 (hyusig).  

@@ -69,7 +69,7 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns
 are invariant. So the same form is used in singular and plural, in
 definite and indefinite, etc.
 
-> **batú** - a stone, stones, the stone or the stones  
+> **petre** - a stone, stones, the stone or the stones  
 > **meze** - a table, tables, the table or the tables  
 > **kurse** - a chair, chairs, the chair or the chairs  
 > **suy** - water
@@ -86,7 +86,7 @@ singular and plural.
 
 An easy way to emphasize plurality is to repeat the noun.
 
-> **batú batú** - stones, lots of stones  
+> **petre petre** - stones, lots of stones  
 > **xing xing** - stars, lots of stars  
 
 ### 2.3. Gender
@@ -105,7 +105,7 @@ that come before it only modify the meaning.
 
 > **sol nur** - sunlight  
 > **lun nur** - moonlight  
-> **lun batú** - moonstone
+> **lun petre** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ thing denoted by another word, ex. good, bad, big, fast.
 An adjective is a word that adds a particular quality for a noun. In
 Pandunia an adjective is a modifier that is before a noun.
 
-> **day batú** - big stone
+> **day petre** - big stone
 > **day meze** - big table  
 > **gaw meze** - high table
 > **bon kurse** - good chair
@@ -127,7 +127,7 @@ Pandunia an adjective is a modifier that is before a noun.
 When adjective can be also after the noun. Often this type of phrases
 can be read as complete sentences, where the verb _to be_ is implied.
 
-> **batú day.** - The stone is big.  
+> **petre day.** - The stone is big.  
 > **meze gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
@@ -484,7 +484,7 @@ predicate in positive sentences. The negative sentences use **no**
 like above.
 
 > **sara si bon.** - Sara is good.  
-> **batú si day.** - The stone is big.  
+> **petre si day.** - The stone is big.  
 > **meze si nowi.** - The table is new.  
 > **meze no law.** - The table is not old.
 
@@ -699,13 +699,13 @@ English.
 
 > **maria da mamá** - Maria's mother  
 > **mi da dom** - my house  
-> **mi da papá da dom** - my father's house
+> **mi da pape da dom** - my father's house
 
 **du** works like "of" in English.
 
 > **mamá du maria** - the mother of Maria  
 > **dom du mi** - the house of mine  
-> **dom du papá du mi** - the house of the father of mine
+> **dom du pape du mi** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -876,29 +876,29 @@ many phrases, the verb says enough alone.
 
 > **mi laya dom.** - I come home.  
 > **tu sida kurse.** - You sit (on) the chair.  
-> **ye lala sofá.** - S/he lies (on) the sofa.  
+> **ye lala sofa'.** - S/he lies (on) the sofa.  
 > **fix nata daria.** - Fish swim (in) the sea.  
-> **janger marca daw.** - Warriors march (on) the road.  
+> **jenger marca daw.** - Warriors march (on) the road.  
 
 ### 10.2. Preposition of relation
 
 Preposition **ka** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi saba pandunia ka gurú.** - I know Pandunia like a master.
+> **mi jana pandunia ka guru'.** - I know Pandunia like a master.
 
 **ka** relates the verb or the adjective to a point of comparison. In
-the above example **saba** (know) is the verb and **gurú** (master) is
+the above example **jana** (know) is the verb and **guru'** (master) is
 the point of comparison.
 
 **ka** is also used when adjectives are compared.
 
-> **bace si min day ka papá.** - The child is smaller than the father.  
-> **opá si sem day ka papá.** - Grandfather is as big as father.
+> **bace si min day ka pape.** - The child is smaller than the father.  
+> **law pape si sem day ka pape.** - Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison – **max** (more), **min**
 (less) and **sem** (same) – to the point of comparison, which is
-**papá** (father) in the examples above.
+**pape** (father) in the examples above.
 
 ## 11. Word Building
 

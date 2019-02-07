@@ -69,7 +69,7 @@ araba : arabi
 araneo : arane  
 araneofobio : arani fobia  
 arbaro : jangal  
-arbo : xu  
+arbo : arbe  
 areo : are  
 Argentino : argentin  
 argono : argon  
@@ -353,7 +353,6 @@ fiziko : fizike
 fiziko : fizikia  
 fiŝo : fix  
 flago : bandir  
-floro : hua  
 floro : pul  
 flugi : feya  
 fluoro : flur  
@@ -684,6 +683,7 @@ liberigi : hura
 librejo : kitabe kan  
 libro : buke  
 ligi : banda  
+ligno : moke  
 liki : lowa  
 lineo : linye  
 lingvistiko : bax lojia  
@@ -764,6 +764,7 @@ Merkuro : budan
 mesaĝo : mesaje  
 metalo : metal  
 metiero : pexe  
+metiisto : janger  
 metodo : metode  
 metroo : tunel tren  
 mezo : medi  
@@ -780,8 +781,8 @@ mil : kilo
 mili- : mili  
 miliardo (giga-) : giga  
 miliono : mega  
-milita : jangi  
-milito (batalo) : jang  
+milita : jengi  
+milito (batalo) : jeng  
 ministro : minister  
 minuto : minut  
 mito : dewi sage  
@@ -896,6 +897,7 @@ pantalonoj : pantalon
 papago : papagay  
 papajo : papay  
 papero : papir  
+parko (ĝardeno) : parke  
 paroli (komuniki) : baxa  
 paroli : loga  
 parolo (vortoj) : loge  
@@ -1014,8 +1016,8 @@ religio : din
 renio : renium  
 rentgenio : rengenium  
 respektinda : onori  
-respondi : daba  
-respondo : dabe  
+respondi : jawaba  
+respondo : jawabe  
 restaŭracio : restoran  
 reto : nete  
 rezervo : buking  
@@ -1117,7 +1119,6 @@ sputi : tuka
 stacio : stasia  
 stadiono (areno) : estadia  
 stango : baton  
-stato :   
 stelo : xing  
 stiri : gida  
 stranga : bizar  
@@ -1251,7 +1252,6 @@ vetero : tenke
 vi (ci) : tu  
 vi ĉiu : tumen  
 viando : manse  
-vico :   
 vidi (rigardi) : wida  
 vilaĝo : ruste  
 vinagro : sirke  
@@ -1317,7 +1317,6 @@ zuluo : zulu'
 ĉokolado : cokolate  
 ĉokolado : cokolate baton  
 ĉu? : he  
-ĝardeno : gardin  
 ĝelo : jel  
 ĝirafo : jiraf  
 ĝusta (prava) : sahi  

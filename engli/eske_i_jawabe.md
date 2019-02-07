@@ -117,7 +117,7 @@ Pandunia is a lightly agglutinating language. It uses separate words to express 
 To demonstrate the difference, let's compare the same sentence in Esperanto (a heavily agglutinating language) and Pandunia. Parts of word are separated with the bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi wol     wid|a  tu da     do  sundar     yen         zay.
+    Pandunia:  mi wol|a   wid|a  tu da     dul sundar     yen         zay.
                I  want to see    your      two beautiful  eyes        now.
 
 

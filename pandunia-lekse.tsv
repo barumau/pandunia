@@ -69,6 +69,8 @@ fra:araignee. por:aranha. spa:araña. eng:arachnid.			arane	:	spider	araneo	häm
 			arani fobia	:	arachnophobia	araneofobio	araknofobia (hämähäkkikammo)	arachnofobia					
 eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".			aranje	:	orange (fruit)	oranĝo	appelsiini	pomarańcza			橙子	апельсин	oreange
 			aranji	:	orange (orange-colored)	oranĝa	oranssi	pomarańczowy					
+fra:arbre. spa:árbol. por:árvore.			arbe	:	tree	arbo	puu	drzewo					
+			arbe gardin	:	arboretum		arboretum (puulajipuisto)		arboreto				
 rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).			arbuze	:	watermelon	akvomelono	vesimeloni	arbuz			西瓜	арбуз	melon d'eau
 eng:area. por:spa:área.			are	:	area (extent of surface)	areo	ala (pinta-ala)	pole, powierzchnia			面积	площадь	aire (superficie)
 	dex	AR	argentin	:	Argentina	Argentino	Argentiina	Argentyna					
@@ -308,8 +310,6 @@ hin:चुराना (curānā). ind:curi.			cur	:	theft	ŝtelo	varkaus	kradzi
 zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).			cute	:	exit (leaving)	eliro	poistuminen	wyjśćie, opuszczenie					
 			cute mun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe					
 pan:ਦਾ "dā". zho:的 "de".			da	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)					
-			daba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać					
-yue:答 (dap3). zho:答 (dá). kor:답 (dab). + ara:(jawāb). hin:जवाब (javāb). ind:jawab. swa:jibu,jawabu.			dabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew					
 spa:por:tgl:dado. ind:swa:dadu.			dado'	:	die (dice)	ĵetkubo	noppa (arpakuutio)	kość do gry					
 ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.			dalil	:	proof (evidence, proof, demonstration, testimony)		todiste (todistus, osoitus, demonstraatio)	dowód; zeznanie					
 			dalila	:	prove (demonstrate, testify)		todistaa	dowieść, dowodzić; zeznać, zeznawać					
@@ -552,7 +552,7 @@ fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:
 eng:fury. spa:pol:furia. por:fúria.			furia	:	anger (fury, rage, wrath)	kolero (furiozo)	viha (suuttumus, raivo)	gniew, furia					
 			fute bol	:	football	piedpilko	jalkapallo	piłka nożna					
 			fuy	:	bah! (yuck!)	bah!	hyi! (pyh!)	fu, fuj					
-ara:"qabr". hin:क़ब्र "qabra". ind:kubur. deu:Grab. pol:grób. rus:гроб "grob".			gabre	:	grave (tomb)	tombo	hauta	grób, mogiła, grobowiec					
+ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).			gabre	:	grave (tomb)	tombo	hauta	grób, mogiła, grobowiec					
 			gabre stan	:	graveyard	tombejo	hautausmaa	cmentarz					
 	dex	GA	gabun	:	Gabon		Gabon	Gabon					
 hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.			gade	:	donkey (ass)	azeno	aasi	osioł					
@@ -576,7 +576,6 @@ per:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. kaz:ег
 			garante	:	guarantee	garantio	takuu	gwarancja					
 			garda	:	guard (watch)	gardi	vartioida (vahtia)	chronić, strzec,  osłaniać, bronić					
 eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).			garder	:	guardian (watchman)	gardisto	vartija (vahti)	strażnik, ochroniarz					
-eng:garden. deu:Garten. spa:jardín. fra:jardin.			gardin	:	garden	ĝardeno	tarha	ogród					
 hin:गरम (garm). urd:per:گرم‎‎ (garm). kur:germ. deu:eng:warm.			garmi	:	warm	varma	lämmin	ciepły					
 			garmi masal	:	garam masala		garam masala	garam masala					
 			gas	:	gas	gaso	kaasu	gaz					
@@ -709,7 +708,6 @@ fra:heure. eng:hour. spa:hora.			hor	:	hour	horo	tunti	godzina
 			hormon	:	hormone	hormono	hormoni	hormon					
 	dex	HR	horvatia	:	Croatia	Kroatio	Kroatia	Chorwacja					
 			hotel	:	hotel	hotelo	hotelli	hotel					
-zho:花 "huā". vie:hoa. swa:wa.			hua	:	flower	floro	kukka	kwiat					
 zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).			hule	:	fox	vulpo	kettu	lis					
 zho:葫芦 (húlu). mon:хулуу (huluu).			hulu'	:	gourd (calabash)		pullokurpitsa (kalebassi)	tykwa					
 			humus	:	chickpea		kikherne	ciecierzyca					
@@ -781,12 +779,13 @@ ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.			jamia	:	collection (congr
 hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). pan:ਜਾਣ (jāṇ). tha:ญาณ (yaan).			jan	:	knowledge	scio	tieto (tietämys)	wiedza					
 			jana	:	know	scii (koni)	tietää	wiedzieć					
 por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.			janel	:	window	fenestro	ikkuna	okno					
-per:(jang). hin:जंग (jang). zho:戰爭 (zhànzhēng). vie:tranh.			jang	:	fight (war)	milito (batalo)	taistelu (sota)	walka, wojna					
 hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:jângal. eng:jungle. rus: джу́нгли (džúngli). deu:Dschungel.			jangal	:	forest (jungle, woods)	arbaro	metsä (viidakko)	las, dżungla, zagajnik					
-			janger	:	warrior (fighter)		soturi (taistelija)	wojownik, bojownik					
-			jangi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny					
+zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng). 			janger	:	artisan (craftsman)	metiisto	artesaani (käsityöläinen)				工匠 (匠人)		
+			jangi	:	crafty (dexterous)		kätevä						
 			jani	:	known		tietty (tunnettu)	wiadomy, znany					
 			jar	:	jug (jar)		kannu (karahvi)	dzban, dzbanek; słój, słoik					
+			jawaba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać					
+ara:(jawāb). swa:jibu,jawabu. tur:cevap. per:(javāb). hin:जवाब (javāb). ind:jawab.			jawabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew					
 	dex	DZ	jayer	:	Algeria		Algeria	Algieria					
 			jayistia	:	Jainism		jainalaisuus	dźinizm, dżinizm					
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez					
@@ -797,6 +796,9 @@ eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤
 hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse. 			jen	:	birth	nasko	synty (syntymä)	narodziny					
 			jen den	:	birthday	naskiĝtago	syntymäpäivä	urodziny					
 			jena	:	give birth (procreate, generate)	naskigi	synnyttää	urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić					
+zho:爭 (zhēng). tur:ceng. per:(jang). hin:जंग (jang). vie:tranh.			jeng	:	fight (war)	milito (batalo)	taistelu (sota)	walka, wojna					
+			jenger	:	warrior (fighter)		soturi (taistelija)	wojownik, bojownik					
+			jengi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny					
 zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:inju. rus:жемчуг (žemčug).			jenju'	:	pearl	perlo	helmi	perła					
 			jentil	:	kind (nice, gentle)	bonkora	kiltti	uprzejmy, miły					
 			jenu	:	be born	naski	syntyä	urodzić się, rodzić się					
@@ -879,6 +881,7 @@ ara:(qānūn). tur:kanun. swa:kanuni. hin:क़ानून (qānūn). + eng:fr
 tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).			kapa	:	catch (capture, seize, snatch, intercept)	kapti	ottaa kiinni (napata, kaapata)	złapać, łapać, schwytać, chwytać					
 			kapitan	:	captain		kapteeni	kapitan					
 eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī). swa:gari.			kar	:	car (cart, carriage, wagon, automobile)	aŭto (ĉaro)	kärry (vaunu, auto, jne)	wóz, wózek					
+			kar parke	:	car park (parking lot)		parkkipaikka						
 			karaoke	:	karaoke		karaoke	karaoke					
 			karate	:	karate	karateo	karate	karate					
 ara:per:urd:(qarīb). swa:karibu. 			karbi	:	near (close)	proksima	läheinen	bliski					
@@ -1117,6 +1120,7 @@ zho:讨论 "tǎolùn". kor:토론 "toron". jpn:討論 "tōron". vie:thảo luậ
 			longe	:	length		pituus	długość					
 			lose	:	screw		ruuvi	śruba, wkręt					
 por:spa:lote. eng:fra:lot.			lote	:	batch (lot)		erä (satsi)	wsad, partia, porcja, seria					
+por:lote. eng:fra:lot. spa:loteo.			lote	:	lot (plot of land)		tontti (maakaistale)						
 zho:漏 "lòu".			lowa	:	leak	liki	vuotaa	przeciekać, ciec					
 			lowa sang	:	bleed	sangi	vuotaa verta	krwawić					
 	dex	LU	luksemburgia	:	Luxembourg		Luxemburg	Luksemburg					
@@ -1254,6 +1258,7 @@ spa:mez. ben:মাস Mash			mes	:	month	monato	kuukausi	miesiąc
 			mesaja	:	communicate (message)		viestiä (kommunikoida)	zakomunikować (zanieść wieści, poinformować)					
 eng:fra:message. por:mensagem. spa:mensaje. tur:mesaj. rus:месседж (messedž). jpn:メッセージ (messēji). kor:메시지 (mesiji). ara:(misaj).			mesaje	:	message	mesaĝo	viesti	wiadomość					
 			metal	:	metal	metalo	metalli	metal					
+			metal janger	:	blacksmith (iron forger)		seppä				铁匠		
 			metode	:	method (way, manner)	metodo	keino (menetelmä, metodi)	metoda, sposób					
 eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.			metre	:	measure	mezuro	mitta (koko, määrä)	miara					
 			metre	:	meter		metri	metr					
@@ -1303,7 +1308,8 @@ deu:mischen. rus:мешать (měšat'). pol:mieszać. eng:mix. ita:miscelare. 
 			mode	:	fashion (trend)	fasono	muoti	moda, trend					
 			model	:	model (design)		malli (esikuva)	model, wzór, wzorzec, projekt					
 zho:墨 "mò". vie:mực. thai:หมึก "muk".			moge	:	ink	inko	muste	tusz					
-zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).			moke	:	item		esine (kappale)	przedmiot					
+zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).			moke	:	wood (timber)	ligno	puu (puutavara)				木材		
+			moke janger	:	carpenter		puuseppä				木匠		
 			mola	:	grind (grind in mill)		jauhaa myllyssä	zemleć, mleć, mielić					
 	dex	MD	moldovia	:	Moldova		Moldova	Mołdawia					
 			moler	:	miller		mylläri	młynarz					
@@ -1526,6 +1532,7 @@ per:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte
 			parci	:	broken (shattered)		hajonnut (sirpaleina)	stłuczony (pęknięty)					
 ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).			parde	:	curtain	kurteno	verhot	zasłona, kurtyna					
 fra:eng:tur:ron:hun:pardon. spa:perdón. por:perdão. bul:rus:пардон (pardon).			pardon	:	sorry (pardon)		anteeksi	przepraszam!					
+eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).			parke	:	park (garden)	parko (ĝardeno)	tarha (puisto)				园		
 			parta	:	participate (attend, partake, take part)	partopreni	osallistua	uczestniczyć, wziąć udział, brać udział					
 			parter	:	participant		osallistuja	uczestnik	participante				
 eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).			partia	:	party	partio	osapuoli	partia					
@@ -2039,6 +2046,8 @@ eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".			toca	:	
 			tofu'	:	tofu		tofu	tofu					
 			togoli	:	Togolese			togijski					
 	dex	TG	togolia	:	Togo	Toglando	Togo	Togo					
+			tokse	:	poison (venom)		myrkky						
+eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.			toksi	:	toxic (poisonous, venomous)		myrkyllinen						
 			tolera	:	tolerate		sallia	tolerować					
 			tolo	:	top (spinning top)		hyrrä	bąk, bączek					
 eng:tomato. spa:tomate. rus: "tomat".			tomate	:	tomato	tomato	tomaatti	pomidor			西红柿	помидор (томат)	tomate
@@ -2114,7 +2123,7 @@ eng:use. spa:usar. pol:używać.	coverb		uza	:	use (employ, apply)	uzi	käyttä�
 	dex	VN	vietnam	:	Viet Nam		Vietnam	Wietnam					
 	dex	VC	vinsi i grenadin	:	Saint Vincent and Grenadines			Saint Vincent and Grenadines					
 			vodu	:	voodoo		voodoo	voodoo					
-			volta	:	volt (V)		voltti (V)	wolt (V)					
+			volte	:	volt (V)		voltti (V)	wolt (V)					
 			wada	:	promise (commit)	promesi	luvata	obiecać, angażować się					
 			waf	:	dog		koira	pies					
 eng:wine. deu:Wein. hin:वाइन (vāin). jpn:ワイン (wain). tha:ไวน์ (waai). zul:iwayini.			wain	:	wine	vino	viini	wino					
@@ -2207,7 +2216,6 @@ eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.			xix	:	hush (shh)		hiljainen (hys, 
 			xoke	:	shock (collision)		isku (šokki)	szokwstrząs; kolizja					
 eng: show.			xow	:	show (display, exhibition)	montri (ekspozicii)	näytös (esitys, show)	pokaz, ekspozycja, wystawa					
 			xowa	:	show (display)		näyttää	pokazać, pokazywać, wystawić, wystawiać					
-zho:树 "shù". 			xu	:	tree	arbo	puu	drzewo					
 eng:should.			xudu	:	should (ought)	devus	pitäisi	powinien					
 			xula	:	repair (fix)	ripari	korjata	naprawić, naprawiać					
 zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).			xule	:	repair (fix)	riparo	korjaus	naprawa					
@@ -2281,5 +2289,3 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar					
 			zulu'	:	Zulu	zuluo	zulu	zulu					zoulou
 ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd					émeraude
-rus:ukr:ряд (ryad). per:(radif). + jpn:列 (retsu).				:	row (line, queue)	vico	rivi	linia, rząd					
-ara:(ḥāl). per:(hāl). ind:hal. swa:hali. 				:	status (condition, state, situation, circumstance)	stato	tila	status, kondycja, stan					

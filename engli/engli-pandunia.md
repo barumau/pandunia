@@ -66,7 +66,7 @@ animal : hewan
 animate : anima  
 animation (cartoon) : anime  
 anniversary : nen feste  
-answer (reply, response) : dabe  
+answer (reply, response) : jawabe  
 Antarctica : antartia  
 antenna (aerial) : anten  
 anus : anus  
@@ -78,6 +78,7 @@ apply (put to use for a purpose) : aplika
 April : mes 4 (mes car)  
 Arabic : arabi  
 arachnophobia : arani fobia  
+arboretum : arbe gardin  
 archipelago : nesia  
 area (extent of surface) : are  
 area (region) : aria  
@@ -92,6 +93,7 @@ art : arte
 article (writing) : makale  
 artificial : sani  
 artificial language (conlang) : sani bax  
+artisan (craftsman) : janger  
 artist : arter  
 Aruba : arubia  
 ascetic : askete  
@@ -214,6 +216,7 @@ birthday : jen den
 biscuit (cookie) : biskute  
 bismuth : bismute  
 black : kal  
+blacksmith (iron forger) : metal janger  
 bleed : lowa sang  
 blog (web log) : bloge  
 blood : sang  
@@ -315,11 +318,13 @@ cannoneer : kanoner
 canoe : kanu'  
 captain : kapitan  
 car (cart, carriage, wagon, automobile) : kar  
+car park (parking lot) : kar parke  
 carat : kirate  
 carbon (coal) : karbon  
 card : karte  
 care (cure) : kura  
 Caribbean : karibia  
+carpenter : moke janger  
 carrot : karote  
 carry (bear) : porta  
 cash box : kax  
@@ -479,6 +484,7 @@ coupon : kupon
 cover (conceal) : deka  
 cover (lid, cap, deck) : deke  
 cow : mumu  
+crafty (dexterous) : jangi  
 cream : krem  
 crime : krim  
 criminal : krimi  
@@ -707,7 +713,7 @@ feel : gama
 female : fem  
 fermium : fermium  
 fiever : feber  
-fight (war) : jang  
+fight (war) : jeng  
 figure (representation) : figur  
 Fiji : fijia  
 fill : fula  
@@ -731,7 +737,6 @@ flag (banner) : bandir
 flat : ping  
 flatbread (chapati, roti) : rote  
 floor : kamar tal  
-flower : hua  
 flower : pul  
 fluorine : flur  
 fly : feya  
@@ -785,7 +790,6 @@ game : gem
 Ganges : ganga  
 garam masala : garmi masal  
 garbage (rubbish, trash) : laje  
-garden : gardin  
 garlic : lasun  
 gas : gas  
 gasoline (petrol) : benzin  
@@ -1005,7 +1009,6 @@ Isle of Man : manin
 Israel : israel  
 issue (affair, concern) : masle  
 Italy : italia  
-item : moke  
 ##j  
 jackal : xakal  
 jacket : jake  
@@ -1143,6 +1146,7 @@ long (lengthy) : long
 look (see) : wida  
 lose (fail to win) : luza  
 loser : luzer  
+lot (plot of land) : lote  
 love (affection) : am  
 love (to be in love with) : ama  
 love romantically : romansa  
@@ -1252,7 +1256,7 @@ Mexico : mexiko
 micro- : mikro  
 Micronesia : mikronesia  
 middle (center) : jung  
-military : jangi  
+military : jengi  
 milk (draw milk) : tira milke  
 milk : milke  
 miller : moler  
@@ -1473,6 +1477,7 @@ papaya : papay
 paper : papir  
 Papua New Guinea : papua nowi ginia  
 Paraguay : paraguay  
+park (garden) : parke  
 parrot (parakeet) : papagay  
 part (fraction) : fen  
 participant : parter  
@@ -1571,6 +1576,7 @@ poet : xirer
 point (full stop) : punte  
 point at (indicate) : ponta  
 pointer (indicator) : ponter  
+poison (venom) : tokse  
 poker : poke  
 Poland : polskia  
 polecat (ferret) : furete  
@@ -1707,7 +1713,7 @@ research (to study) : loja
 resemble (be like) : semu  
 resin : rezin  
 respect (honor, esteem) : onor  
-respond (give an answer) : daba  
+respond (give an answer) : jawaba  
 rest (relief) : xuxe  
 rest (remainder) : reste  
 restaurant : restoran  
@@ -1746,7 +1752,6 @@ rose : roze
 rotor (rotator) : rotor  
 round (circular) : cirki  
 routine (habit) : rutin  
-row (line, queue) :   
 royal : raji  
 rubber : gom  
 rubidium : rubidium  
@@ -1928,7 +1933,6 @@ stand still : stasa
 star : xing  
 static (stationary) : stasi  
 station : stasia  
-status (condition, state, situation, circumstance) :   
 steal : cura  
 steamed bun (mantou, manti) : mante  
 steer : gida  
@@ -2116,6 +2120,7 @@ tourism : turistia
 tourist : turiste  
 towel : towal  
 tower : minare  
+toxic (poisonous, venomous) : toksi  
 train : tren  
 train hijacker : tren kaper  
 transit (pass through or across) : transa  
@@ -2126,7 +2131,7 @@ travel (voyage) : safar
 travel : safara  
 traveler : safarer  
 treasure (treasury) : hazin  
-tree : xu  
+tree : arbe  
 tribe : tribe  
 Trinidad and Tobago : trinida i tobago  
 trouble (disturbance, bother) : mafan  
@@ -2202,7 +2207,7 @@ virus : wirus
 visit : wizit  
 visual field (field of vision) : wide maidan  
 vocabulary (lexicon) : leksia  
-volt (V) : volta  
+volt (V) : volte  
 voodoo : vodu  
 ##w  
 wait : denga  
@@ -2213,7 +2218,7 @@ Wallis and Futuna Islands : walis i futuna nesia
 wallpaper : mur papir  
 want (desire) : wol  
 warm : garmi  
-warrior (fighter) : janger  
+warrior (fighter) : jenger  
 wash : waxa  
 washing machine : wax-maxin  
 water : suy  
@@ -2259,6 +2264,7 @@ with (by, at, in, on) : na
 without : be  
 wolf : wolfe  
 woman (adult female) : matur fem  
+wood (timber) : moke  
 word : lekse  
 word list : loge liste  
 work (job, task) : werke  

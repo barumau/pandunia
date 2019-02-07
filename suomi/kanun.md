@@ -31,7 +31,7 @@ Perussäännöt
 
 Asiansanat nimeävät esineitä ja asioita. Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
-**batú** - kivi tai kiviä  
+**petre** - kivi tai kiviä  
 **meze** - pöytä tai pöytiä  
 **kurse** - tuoli tai tuoleja  
 **suy** - vesi, vettä  
@@ -44,7 +44,7 @@ Substantiiveilla on sama muoto yksikössä ja monikossa.
 
 Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
-**batú batú** - kiviä, paljon kiviä  
+**petre petre** - kiviä, paljon kiviä  
 **xing xing** - tähtiä, paljon tähtiä  
 
 
@@ -60,7 +60,7 @@ Kaksi tai useampia substantiiveja voidaan liittää yhdyssanaksi. Yhdyssanan vii
 
 **sol nur** - auringon valo  
 **lun nur** - kuun valo  
-**lun batú** - kuukivi  
+**lun petre** - kuukivi  
 
 --------------------------------------------------------------------------------
 
@@ -72,14 +72,14 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**day batú** - iso kivi  
+**day petre** - iso kivi  
 **day meze** - iso pöytä  
 **gaw meze** - korkea pöytä  
 **bon kurse** - hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**batú day** - kivi iso _tai_ Kivi on iso.  
+**petre day** - kivi iso _tai_ Kivi on iso.  
 **meze gaw** - pöytä korkea _tai_ Pöytä on korkea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
@@ -413,7 +413,7 @@ Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Kun subjektina on substantiivi, sana **si** (kyllä) tulee ennen predikaattia myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
 **sara si bon.** - Sara on hyvä.  
-**batú si day.** - Kivi on suuri.  
+**petre si day.** - Kivi on suuri.  
 **meze si nowi.** - Pöytä on uusi.  
 **meze no law.** - Pöytä ei ole vanha.
 
@@ -629,13 +629,13 @@ Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
 **maria da mamá** - Marian äiti  
 **mi da dom** - minun talo  
-**mi da papá da dom** - minun isän talo
+**mi da pape da dom** - minun isän talo
 
 **du** on sama mutta käänteisessä sanajärjestyksessä.
 
 **mamá du maria** - äiti Marian  
 **dom du mi** - talo minun  
-**dom du papá du mi** - talo isän minun
+**dom du pape du mi** - talo isän minun
 
 
 #### 9.2.2. Adjektiivimääreet
@@ -708,9 +708,9 @@ Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
 **mi lay dom.** - Minä tulen kotiin.  
 **tu sida kurse.** - Sinä istut tuolia (tuolilla).  
-**ye lala sofá.** - Hän makaa sohvaa (sohvalla).  
+**ye lala sofa'.** - Hän makaa sohvaa (sohvalla).  
 **fix nata daria.** - Kalat uivat vettä (vedessä).  
-**janger marca daw.** - Soturit kävelevät tietä (tiellä).  
+**jenger marca daw.** - Soturit kävelevät tietä (tiellä).  
 
 Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini tai substantiivi täydentää preposition.
 
@@ -762,9 +762,9 @@ Panduniassa prepositioita käytetään vähemmän kuin suomessa ja englannissa. 
 
 **mi laya dom.** - Minä tulen kotiin.  
 **tu sida kurse.** - Sinä istut tuolia (tuolilla).  
-**ye lala sofá.** - Hän makaa sohvaa (sohvalla).  
+**ye lala sofa'.** - Hän makaa sohvaa (sohvalla).  
 **fix nata daria.** - Kalat uivat merta (meressä).  
-**janger marca daw.** - Sotilaat marssivat tietä (tiellä).  
+**jenger marca daw.** - Sotilaat marssivat tietä (tiellä).  
 
 
 ### 10.2. Vertailun prepositio
@@ -777,10 +777,10 @@ Prepositio **ka** ilmaisee tapaa. Se vastaa suomen sanoja _kuin_ ja _kuten_.
 
 Sanaa **ka** käytetään myös adjektiivien vertailemisessa.
 
-**bace si min day ka papá.** - Lapsi on pienempi kuin isä.  
-**opá si sem day ka papá.** - Isoisä on yhtä iso kuin isä.
+**bace si min day ka pape.** - Lapsi on pienempi kuin isä.  
+**law pape si sem day ka pape.** - Isoisä on yhtä iso kuin isä.
 
-**ka** suhteuttaa vertailevia adverbeja – **max** (enemmän), **min** (vähemmän) ja **sem** (yhtä) – vertailtavaan asiaan, joka oli ylläolevissa esimerkeissä **papá** (isä).
+**ka** suhteuttaa vertailevia adverbeja – **max** (enemmän), **min** (vähemmän) ja **sem** (yhtä) – vertailtavaan asiaan, joka oli ylläolevissa esimerkeissä **pape** (isä).
 
 -----
 

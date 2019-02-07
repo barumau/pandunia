@@ -7,8 +7,6 @@
 -iste : -isto de -ismo  
 -istia : -ismo  
 -u : -i (-iĝi)  
- : stato  
- : vico  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -59,6 +57,7 @@ arane : araneo
 arani fobia : araneofobio  
 aranje : oranĝo  
 aranji : oranĝa  
+arbe : arbo  
 arbuze : akvomelono  
 are : areo  
 argentin : Argentino  
@@ -259,8 +258,6 @@ cute mun : elirejo
 cute : eliro  
 ##d  
 da : propra (partiklo de posedo)  
-daba : respondi  
-dabe : respondo  
 dado' : ĵetkubo  
 dan : semo  
 dania : Danio  
@@ -477,7 +474,6 @@ gar : se
 garante : garantio  
 garda : gardi  
 garder : gardisto  
-gardin : ĝardeno  
 garmi : varma  
 gas : gaso  
 gaw : alta  
@@ -586,7 +582,6 @@ hor : horo
 hormon : hormono  
 horvatia : Kroatio  
 hotel : hotelo  
-hua : floro  
 hule : vulpo  
 hura : liberigi  
 huri : libera  
@@ -631,14 +626,17 @@ jamula : disigi
 jan : scio  
 jana : scii (koni)  
 janel : fenestro  
-jang : milito (batalo)  
 jangal : arbaro  
-jangi : milita  
+janger : metiisto  
+jawaba : respondi  
+jawabe : respondo  
 jebe : poŝo  
 jel : ĝelo  
 jen den : naskiĝtago  
 jen : nasko  
 jena : naskigi  
+jeng : milito (batalo)  
+jengi : milita  
 jenju' : perlo  
 jentil : bonkora  
 jenu : naski  
@@ -883,6 +881,7 @@ mixa : miksi
 mixer : miksilo  
 mode : fasono  
 moge : inko  
+moke : ligno  
 molidenum : molibdeno  
 mon : nur  
 mongol : mongola  
@@ -990,6 +989,7 @@ pape : patro
 papir : papero  
 parce : ero  
 parde : kurteno  
+parke : parko (ĝardeno)  
 parta : partopreni  
 partia : partio  
 patate : terpomo  
@@ -1305,7 +1305,6 @@ xirope : siropo
 xite : vintro  
 xixi : silenta  
 xow : montri (ekspozicii)  
-xu : arbo  
 xudu : devus  
 xula : ripari  
 xule : riparo  

@@ -19,7 +19,7 @@
 [Tietoa]()
 
   * [Maailman yhteyskieli](dunia_bax.md)
-  * [Kysymyksiä & vastauksia](kia_i_dap.md)
+  * [Kysymyksiä & vastauksia](eske_i_jawabe.md)
 
 [💬]()
 

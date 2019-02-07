@@ -81,10 +81,12 @@ appelsiini : aranje
 apu : helpe  
 arabialainen : arabi  
 araknofobia (hämähäkkikammo) : arani fobia  
+arboretum (puulajipuisto) : arbe gardin  
 Argentiina : argentin  
 argon : argon  
 armeija : armia  
 arseeni : arsen  
+artesaani (käsityöläinen) : janger  
 artikkeli (kirjoitus) : makale  
 Aruba : arubia  
 arvio (arvostelu, kritiikki) : piping  
@@ -230,7 +232,6 @@ Eritrea : eritria
 erä (satsi) : lote  
 eräs (muuan, joku, jokin) : fulan  
 esimerkki : misal  
-esine (kappale) : moke  
 Espanja : espania  
 esperanto : esperanti  
 essee : esey  
@@ -786,7 +787,6 @@ kuitti (kuittaus) : reside
 kuiva : gan  
 kuiva : suhi  
 kuka? : ki ren  
-kukka : hua  
 kukka : pul  
 kukkaruukku : pul waze  
 kukkia : pula  
@@ -867,6 +867,7 @@ käsitellä dataa : komputa
 käsitteellinen : idi  
 käskeä (komentaa) : orda  
 käsky (komento) : orde  
+kätevä : jangi  
 kävely (marssi) : marca  
 käyttäjä : uzer  
 käyttäytyä : manira  
@@ -1178,6 +1179,8 @@ muuttaa (muuntaa) : muta
 Myanmar (Burma) : bama  
 myky (pelmeni, ravioli) : pelmen  
 mylläri : moler  
+myrkky : tokse  
+myrkyllinen : toksi  
 myrsky : tafun  
 myös (lisäksi, plus) : plus  
 mänty : song  
@@ -1368,6 +1371,7 @@ papu tai herne : dow
 Papua Uusi-Guinea : papua nowi ginia  
 papukaija : papagay  
 Paraguai : paraguay  
+parkkipaikka : kar parke  
 parsa : lusun  
 parta : barde  
 parveke (kuisti) : balkon  
@@ -1491,7 +1495,9 @@ puola : polskia
 puolalainen : polski  
 pussi (säkki, kassi, laukku) : sake  
 putki (tuubi) : tube  
-puu : xu  
+puu (puutavara) : moke  
+puu : arbe  
+puuseppä : moke janger  
 puuteri : muke fun  
 puuvilla : goton  
 pyhä : santi  
@@ -1580,7 +1586,6 @@ rintakehä : sine kase
 riski : riske  
 risteytys (hybridi) : hibride  
 risti : krus  
-rivi :   
 robotti : robote  
 rohkea (urhea) : yungam  
 roikuttaa : penda  
@@ -1677,6 +1682,7 @@ selvä (selkeä) : klar
 sementti : semente  
 Senegal : senegal  
 sentti : centi  
+seppä : metal janger  
 Serbia : serbia  
 seura : socia  
 seuraava : badi  
@@ -1736,8 +1742,8 @@ sorsa (ankka) : bate
 sosiaalinen media : soci media  
 sosialismi : socistia  
 sosialisti : sociste  
-sotilaallinen : jangi  
-soturi (taistelija) : janger  
+sotilaallinen : jengi  
+soturi (taistelija) : jenger  
 sovellus : aplike  
 soveltaa : aplika  
 sranan tongo : surinam bax  
@@ -1819,7 +1825,7 @@ taiga : taiga
 taika (taikuus, magia) : magia  
 taikuri : mager  
 Taipei : taibei  
-taistelu (sota) : jang  
+taistelu (sota) : jeng  
 taiteilija : arter  
 taito (kyky) : kene  
 taivas : saman  
@@ -1851,7 +1857,7 @@ tapaus : kaze
 tapetti : mur papir  
 tappaa : morta  
 tappaja : morter  
-tarha : gardin  
+tarha (puisto) : parke  
 tarkistaa (tsekata) : ceka  
 tarpeeksi (riittävästi) : bas  
 tarpeellinen : nidi  
@@ -1902,7 +1908,6 @@ tiikeri : bagre
 tiistai : war 2 (war du)  
 tikari : kanjar  
 tikka masala : tike masal  
-tila :   
 timantti : almas  
 tissi (rinta) : mem  
 titaani : titan  
@@ -1917,6 +1922,7 @@ toistaa : repa
 toisto : repe  
 toivoa : inxala  
 tomaatti : tomate  
+tontti (maakaistale) : lote  
 tori (basaari) : bazar  
 torni : minare  
 torstai : war 4 (war car)  
@@ -2076,8 +2082,8 @@ vartioida (vahtia) : garda
 vasara : hamar  
 vasta- (anti-) : anti  
 vastaan (vasten) : kontra  
-vastata : daba  
-vastaus : dabe  
+vastata : jawaba  
+vastaus : jawabe  
 vastustaa : anta  
 vastustaja : anter  
 Vatikaanivaltio : vatikan  
@@ -2145,7 +2151,7 @@ voimakas (vahva) : bal
 voipuu : karite  
 voittaa (kukistaa) : wina  
 voitto : win  
-voltti (V) : volta  
+voltti (V) : volte  
 voodoo : vodu  
 vuode (sänky, peti) : bede  
 vuodenaika : mosim  

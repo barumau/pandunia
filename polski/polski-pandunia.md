@@ -317,7 +317,7 @@ dramat : drame
 droga, szosa, ulica : daw  
 drożdże : hamir  
 drużyna : tim  
-drzewo : xu  
+drzewo : arbe  
 drzwi wyjściowe : cute mun  
 drzwi, brama, portal : mun  
 dualizm : dulistia  
@@ -810,7 +810,6 @@ kusić, nakłonić, nakłaniać : tenta
 Kuwejt : kuwaitia  
 kwaśny : suan  
 kwestia, problem : masle  
-kwiat : hua  
 kwiat : pul  
 kwiecień : mes 12 (mes des do)  
 kwitnąć, rozkwitnąć, rozkwitać : pula  
@@ -847,7 +846,6 @@ lilia wodna, nenufar : nenufar
 limfa : limfe  
 limit, granica : limite  
 linia, pas, pręga, smuga : linye  
-linia, rząd :   
 lipiec : mes 4 (mes car)  
 lis : hule  
 lista słów : loge liste  
@@ -965,7 +963,7 @@ mikser, blender, robot kuchenny : mixer
 miksować, mieszać : mixa  
 mili- : mili  
 milion, mega- : mega  
-militarny, wojskowy, wojenny : jangi  
+militarny, wojskowy, wojenny : jengi  
 minerał, ruda : kuang  
 minimal : minimi  
 minimalizm : minimalistia  
@@ -1159,8 +1157,8 @@ odetkać, odtykać : zibula
 odkurzacz : fun cuper  
 odmówić (odrzucić) : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
-odpowiedzieć, odpowiadać : daba  
-odpowiedź, odzew : dabe  
+odpowiedzieć, odpowiadać : jawaba  
+odpowiedź, odzew : jawabe  
 odsłonić, odsłaniać : dekula  
 odważny, brawurowy : yungam  
 odwiedzić, odwiedzać : wizit  
@@ -1170,7 +1168,6 @@ oganesson : oganeson
 ogień : fay  
 ogon : dum  
 ogr (trol, goblin) : guy  
-ogród : gardin  
 ogórek : pepin  
 ojciec : pape  
 okej, spoko, akceptowalny : okey  
@@ -1471,7 +1468,6 @@ przebudzony, przytomny : weki
 przechowawca, kustosz, opiekun : hafizer  
 przeciekać, ciec : lowa  
 przecinek : koma'  
-przedmiot : moke  
 przedpołudnie : sube den  
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
@@ -1753,7 +1749,6 @@ Stany Zjednoczone Ameryki : uni stan du amerike
 Stany Zjednoczone Ameryki : usamerike  
 Starożytny Egipt (Kemet) : kemia  
 stary, starożytny : puran  
-status, kondycja, stan :   
 statyczny, stacjonarny, nieruchomy : stasi  
 stać : libu  
 sterować : gida  
@@ -2000,7 +1995,7 @@ w przyszłości : wil
 ##w  
 wagina : yone  
 wakacje, ferie : feria  
-walka, wojna : jang  
+walka, wojna : jeng  
 wanilia : wanila  
 wapń : kalsium  
 warcaby : dam gem  
@@ -2071,11 +2066,11 @@ wnętrze (środek) : inde
 woda : suy  
 woda mineralna : kuang suy  
 wodór : hidre  
-wojownik, bojownik : janger  
+wojownik, bojownik : jenger  
 wola, chęć : ice  
 wolność, niepodległość, niezależność : huria  
 wolny, niepodległy, niezależny : huri  
-wolt (V) : volta  
+wolt (V) : volte  
 wosk : mum  
 wow!, łoł!, jej! : waw  
 wołowina : mumu manse  

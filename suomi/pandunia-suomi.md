@@ -8,8 +8,6 @@
 -iste : pääte: aatteen kannattaja  
 -istia : pääte: aate tai uskonto  
 -u : pääte: OVS-sanajärjestyksen verbi  
- : rivi  
- : tila  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -71,6 +69,8 @@ arane : hämähäkki
 arani fobia : araknofobia (hämähäkkikammo)  
 aranje : appelsiini  
 aranji : oranssi  
+arbe gardin : arboretum (puulajipuisto)  
+arbe : puu  
 arbuze : vesimeloni  
 are : ala (pinta-ala)  
 argentin : Argentiina  
@@ -312,8 +312,6 @@ cute mun : uloskäynti
 cute : poistuminen  
 ##d  
 da : -n (oma)  
-daba : vastata  
-dabe : vastaus  
 dado' : noppa (arpakuutio)  
 dalil : todiste (todistus, osoitus, demonstraatio)  
 dalila : todistaa  
@@ -582,7 +580,6 @@ gar : jos (olettaa)
 garante : takuu  
 garda : vartioida (vahtia)  
 garder : vartija (vahti)  
-gardin : tarha  
 garmi masal : garam masala  
 garmi : lämmin  
 gas : kaasu  
@@ -716,7 +713,6 @@ hor : tunti
 hormon : hormoni  
 horvatia : Kroatia  
 hotel : hotelli  
-hua : kukka  
 hule : kettu  
 hulu' : pullokurpitsa (kalebassi)  
 humus sos : hummus  
@@ -790,12 +786,13 @@ jamula : hajauttaa
 jan : tieto (tietämys)  
 jana : tietää  
 janel : ikkuna  
-jang : taistelu (sota)  
 jangal : metsä (viidakko)  
-janger : soturi (taistelija)  
-jangi : sotilaallinen  
+janger : artesaani (käsityöläinen)  
+jangi : kätevä  
 jani : tietty (tunnettu)  
 jar : kannu (karahvi)  
+jawaba : vastata  
+jawabe : vastaus  
 jayer : Algeria  
 jayistia : jainalaisuus  
 jaze : jazz (jatsi)  
@@ -806,6 +803,9 @@ jelos : kade (kateellinen)
 jen den : syntymäpäivä  
 jen : synty (syntymä)  
 jena : synnyttää  
+jeng : taistelu (sota)  
+jenger : soturi (taistelija)  
+jengi : sotilaallinen  
 jenju' : helmi  
 jentil : kiltti  
 jenu : syntyä  
@@ -888,6 +888,7 @@ kanu' : kanootti
 kanun : laki  
 kapa : ottaa kiinni (napata, kaapata)  
 kapitan : kapteeni  
+kar parke : parkkipaikka  
 kar : kärry (vaunu, auto, jne)  
 karaoke : karaoke  
 karate : karate  
@@ -1128,6 +1129,7 @@ longa : pidentää
 longe : pituus  
 lose : ruuvi  
 lote : erä (satsi)  
+lote : tontti (maakaistale)  
 lowa sang : vuotaa verta  
 lowa : vuotaa  
 luksemburgia : Luxemburg  
@@ -1264,6 +1266,7 @@ mes 9 (mes noy) : syyskuu
 mes : kuukausi  
 mesaja : viestiä (kommunikoida)  
 mesaje : viesti  
+metal janger : seppä  
 metal : metalli  
 metode : keino (menetelmä, metodi)  
 metre : metri  
@@ -1314,7 +1317,8 @@ mixer : sekoitin
 mode : muoti  
 model : malli (esikuva)  
 moge : muste  
-moke : esine (kappale)  
+moke janger : puuseppä  
+moke : puu (puutavara)  
 mola : jauhaa myllyssä  
 moldovia : Moldova  
 moler : mylläri  
@@ -1540,6 +1544,7 @@ parce : palanen (murunen, riekale, sirpale)
 parci : hajonnut (sirpaleina)  
 parde : verhot  
 pardon : anteeksi  
+parke : tarha (puisto)  
 parta : osallistua  
 parter : osallistuja  
 partia : osapuoli  
@@ -1987,6 +1992,8 @@ to : luokse (tykö, asti)
 toca : koskea (koskettaa)  
 tofu' : tofu  
 togolia : Togo  
+tokse : myrkky  
+toksi : myrkyllinen  
 tolera : sallia  
 tolo : hyrrä  
 tomate : tomaatti  
@@ -2058,7 +2065,7 @@ vatikan : Vatikaanivaltio
 venesuela : Venezuela  
 vietnam : Vietnam  
 vodu : voodoo  
-volta : voltti (V)  
+volte : voltti (V)  
 ##w  
 wada : luvata  
 waf : koira  
@@ -2152,7 +2159,6 @@ xixi : hiljainen
 xoke : isku (šokki)  
 xow : näytös (esitys, show)  
 xowa : näyttää  
-xu : puu  
 xudu : pitäisi  
 xula : korjata  
 xule : korjaus  
