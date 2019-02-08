@@ -34,7 +34,7 @@ these pages.
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary
 - [Pandunia-English](pandunia-engli.md) dictionary
-- [Etymology list](../pandunia/loge_asle.md) (only in Pandunia)
+- [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
 
 ## Uninflected dialect
 

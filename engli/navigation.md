@@ -19,7 +19,7 @@
 
 [Words]()
 
-  * [Word building](loge_ban.md)
+  * [Word building](lekse_lojia.md)
   * [Pandunia-English](pandunia-engli.md)
   * [English-Pandunia](engli-pandunia.md)
   * [Search](tiddly.html)
