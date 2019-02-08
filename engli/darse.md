@@ -296,7 +296,7 @@ Try translating these sentences from English to Pandunia.
 **i** and.
 **kafe** coffee.
 **kamar** room.
-**orda** to command.
+**orda** to order, to command.
 **u** or.
 **safa** to clean.
 **sida** to sit.
