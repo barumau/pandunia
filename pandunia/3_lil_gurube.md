@@ -23,7 +23,7 @@ bon nyam, i ye da boke mulu sana suy.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
-wolfe darba mun, i loga: "lil gurube! lil gurube! cing mi laya jung!
+wolfe darba mun, i loga: "lil gurube! lil gurube! bita mi laya jung!
 cing mi laya jung!" a lil gurube wida wolfe da day han na cabi kong.
 to ye dapa: "no! no! no!" na bada, wolfe wiza se da dante i loga:
 "to mi nafasa i mi nafasa i mi parca tu da dom!"
@@ -35,7 +35,7 @@ wolfe kontinu na lil daw. ye pasa dom num dul, du fatu na xake. ye
 wida dom. ye na nos nota gurube, du na jung. ye da boke mulu bina suy
 na dur du ye fikra yemen si bon nyam.
 
-to ye darba mun, i loga: "lil gurube! lil gurube! cing mi laya jung!
+to ye darba mun, i loga: "lil gurube! lil gurube! bita mi laya jung!
 cing mi laya jung!" a lil gurube wida wolfe da konai or na cabi kong.
 to yemen dapa: "no! no! no!" to wolfe wiza se da dante i loga: "to
 mi nafasa i mi nafasa i mi parca tu da dom!"
@@ -56,8 +56,8 @@ fobi. wolfe no gon nyama na tot den i max max wol nyama na dur du
 proba kaca gurube. na ci mar ye ken nos nota tot sam yemen na jung.
 ye jana sam lil gurube si bon nyam.
 
-to wolfe darba mun, i loga: "lil gurube! lil gurube! cing mi laya
-jung! cing mi laya jung!" a lil gurube wida wolfe da lil wang yen na
+to wolfe darba mun, i loga: "lil gurube! lil gurube! bita mi laya
+jung! bita mi laya jung!" a lil gurube wida wolfe da lil wang yen na
 cabi kong. to yemen dapa: "no! no! no!" to wolfe wiza se da dante i
 loga: "to mi nafasa i mi nafasa i mi parca tumen da dom!"
 

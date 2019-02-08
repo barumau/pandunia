@@ -4,7 +4,7 @@
 
 un sube urse mame wol cuta to bazar.
 ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
-lil urse loga: "si, si, mame! mi jana ye. mi day urse. cing cuta way!"
+lil urse loga: "si, si, mame! mi jana ye. mi day urse. bita cuta way!"
 urse mame loga "salam" i ye cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
@@ -43,7 +43,7 @@ bada, lil urse senta no jana da sente na boke. ye da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye geta tele fon. ye loga: "haló! eska tu si dante dotor? cing laya to mi! mi ada tung dante!"
+ye geta tele fon. ye loga: "haló! eska tu si dante dotor? bita laya to mi! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
@@ -52,7 +52,7 @@ lil urse loga: "si! mi ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-dotor cing lil urse sidu na kurse i kaya boke.
+dotor bita lil urse sidu na kurse i kaya boke.
 "aha! un dante day mal! mi bixu geta ye to way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)

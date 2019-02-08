@@ -135,7 +135,7 @@ Proszenie
 ### Dialog
 
 ☻: **salam!** = Cześć!  
-☺: **salam! cing sida.** = Cześć! Proszę, usiądź!  
+☺: **salam! bita sida.** = Cześć! Proszę, usiądź!  
 ☻: **danke.** = Dziękuję.  
 ☺: **cing nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
@@ -149,7 +149,7 @@ Proszenie
 
 Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **ye** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
-> **mi cing tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
+> **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
 
 Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **cing** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
@@ -159,7 +159,7 @@ Struktura osiowa jest powszechną strukturą w Panduni.
 
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
-> **mi cing tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
+> **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
 > **cing salama ye.** = Proszę, pozdrów go/ją.
 
 Zdanie **cing salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
@@ -199,9 +199,9 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 ### Odpowiedzi do Ćwiczeń
 
 1. ye nyama ca.
-2. xefe cing ye sida.
-3. cing nyama kafe u ca.
-4. mamá cing mi safa kamar.
+2. xefe bita ye sida.
+3. bita nyama kafe u ca.
+4. mamá bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -310,9 +310,9 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no salama tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **mi cing tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **mi no cing tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **mi cing tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **mi bita tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **mi no bita tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **mi bita tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.

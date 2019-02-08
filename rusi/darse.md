@@ -150,7 +150,7 @@
 
 ☻: **salam!**
 = Привет!  
-☺: **salam! cing sida.**
+☺: **salam! bita sida.**
 = Привет! Пожалуйста, садись!  
 ☻: **danke.**
 = Спасибо.  
@@ -174,7 +174,7 @@
 или любых других местоимениях.  Все возможные личные местоимения
 использованы в следующем примере. 
 
-**mi cing tu salama ye.**
+**mi bita tu salama ye.**
 = я прошу, чтобы ты поприветствовал его. (Я прошу тебя поприветствовать его.) 
 
 Это - так называемое осевое предложение. Первый глагол, **cing** =
@@ -187,7 +187,7 @@
 
 > Субъект + Глагол 1 + Объект/Субъект + Глагол 2 + Объект
 
-**mi cing tu salama ye.**
+**mi bita tu salama ye.**
 = Я прошу тебя поприветствовать его.  
 **cing salama ye.**
 = Пожалуйста, скажите ему привет.
@@ -253,9 +253,9 @@
 ### Ответы на упражнения
 
 1. ye nyama ca.
-2. xefe cing ye sida.
-3. cing nyama kafe u ca.
-4. mame cing mi safa kamar.
+2. xefe bita ye sida.
+3. bita nyama kafe u ca.
+4. mame bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
 

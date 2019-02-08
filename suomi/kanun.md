@@ -17,10 +17,10 @@ Perussäännöt
 7. Passiivisen lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
     - esim. **meze pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
-    - esim. **mi cing tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **mi bita tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Puhutko sinä panduniaa?
-    - **mi cing tu loga ming.** →  **cing loga ming.** = Pyydän, puhu selvästi.
+    - **mi bita tu loga ming.** →  **cing loga ming.** = Pyydän, puhu selvästi.
 
 
 
@@ -547,7 +547,7 @@ Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lausei
 
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
-**mi cing tu laya dom.** - Minä pyydän sinua tulemaan kotiin.  
+**mi bita tu laya dom.** - Minä pyydän sinua tulemaan kotiin.  
 **cing laya dom!** - Pyydän, tule kotiin!
 
  

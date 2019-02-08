@@ -190,7 +190,7 @@ Making requests
 
 ☻: **salam!**
 = Hello!  
-☺: **salam! cing sida.**
+☺: **salam! bita sida.**
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
@@ -215,7 +215,7 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi cing tu salama ye.**
+**mi bita tu salama ye.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_. The first verb, **cing** = to
@@ -234,7 +234,7 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi cing tu salama ye.**
+**mi bita tu salama ye.**
 = I ask you to say hello to him/her.  
 **cing salama ye.**
 = Please say hello to him/her.
@@ -306,9 +306,9 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. ye nyama ca.
-2. xefe cing ye sida.
-3. cing nyama kafe u ca.
-4. mame cing mi safa kamar.
+2. xefe bita ye sida.
+3. bita nyama kafe u ca.
+4. mame bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -469,11 +469,11 @@ negated word. In the phrase **mi no salama tu** the negative word
 word affects the word that follows it. Different scopes of negation
 may result depending on the location of the negative word.
 
-**mi cing tu safa kamar.**
+**mi bita tu safa kamar.**
 = I ask you to clean the room.  
-**mi no cing tu safa kamar.**
+**mi no bita tu safa kamar.**
 = I do NOT ask you to clean the room.  
-**mi cing tu no safa kamar.**
+**mi bita tu no safa kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective

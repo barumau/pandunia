@@ -200,7 +200,7 @@ Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Pandunia:  mi cing ye nyama kafe.
+    Pandunia:  mi bita ye nyama kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.

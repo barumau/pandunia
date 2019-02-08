@@ -494,15 +494,15 @@ La rouge. (mot à mot _cette rouge_)
 
 
 
-### cing <small>demander, s’il vous plait</small>
+### bita <small>demander, s’il vous plait</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 Je te demande si tu veux du thé.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 Je te demande de venir à la maison.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.

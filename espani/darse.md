@@ -163,7 +163,7 @@ Pidiendo
 
 ☻: **salam!**
 = ¡Hola!  
-☺: **salam! cing sida.**
+☺: **salam! bita sida.**
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
@@ -184,7 +184,7 @@ Pidiendo
 
  En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú, usted, y **ye** = él, ella, ello. Pandunia es una lengua de género neutral. No distingue sexos en los pronombres de las terceras personas o en otros pronombres. Todos los pronombres personales son usados en la siguiente oración.
 
-> **mi cing tu salama ye.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
+> **mi bita tu salama ye.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo, **cing** = pedir, se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve también como el sujeto del segundo verbo, **salama** = saludar, del cual su objeto es **ye**. Así **tu** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
 
@@ -194,7 +194,7 @@ La oración eje es una estructura común en Pandunia.
 
 Recordemos que se permite dejar por fuera pronombres que se conocen en el contexto. En otras palabras, el hablante puede asumir con seguridad que los oyentes saben de lo que él o ella está hablando. Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se pueden hacer frases más cortas. 
 
-> **mi cing tu salama ye.** = Yo te pido digas hola a él.
+> **mi bita tu salama ye.** = Yo te pido digas hola a él.
 > **cing salama ye.** = Por favor dile hola.
 
 ¿Vea cómo la traducción de **cing** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
@@ -257,9 +257,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Respuestas
 
 1. ye nyama ca.
-2. xefe cing ye sida.
-3. cing nyama kafe u ca.
-4. mame cing mi safa kamar.
+2. xefe bita ye sida.
+3. bita nyama kafe u ca.
+4. mame bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -401,11 +401,11 @@ En la lección anterios apredimos a responder con **si** y **no**. La palabra **
 
  Conceptualmente negación significa a ausencia de la palabra negada. En la frase **mi no salama tu** la palabra **no** niega la existencia de **salam** (saludo). En Pandunia la palabra negativa ne se aplica a la palabra que la sigue. si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi cing tu safa kamar.**
+**mi bita tu safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**mi no cing tu safa kamar.**
+**mi no bita tu safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**mi cing tu no safa kamar.**
+**mi bita tu no safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 

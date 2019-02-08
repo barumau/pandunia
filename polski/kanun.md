@@ -32,10 +32,10 @@ Oto 11 podstawowych zasad języka Pandunia.
     - przykład: **pang nyamu.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi cing tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
+    - przykład: **mi bita tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
     - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Mówisz w Panduni?
-    - **mi cing tu loga ming.** →  **cing loga ming.** = Proszę, mów wyraźnie.
+    - **mi bita tu loga ming.** →  **cing loga ming.** = Proszę, mów wyraźnie.
 11. Słowa pochodne mają opcjonalne zakończenie. Przymiotniki kończą się na -i, rzeczowniki na -e, a czasowniki na -a lub -u.
 
 
@@ -547,7 +547,7 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
-> **mi cing tu lay dom.** - Proszę cię, żebyś wrócił do domu.
+> **mi bita tu lay dom.** - Proszę cię, żebyś wrócił do domu.
 > **cing lay dom!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 

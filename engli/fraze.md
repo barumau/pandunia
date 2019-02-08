@@ -466,15 +466,15 @@ Which apple do you want?
 **di ros.**
 This red one.
 
-### cing <small>request, please</small>
+### bita <small>request, please</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 I ask you to drink tea.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 I ask you to come home.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.

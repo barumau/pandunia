@@ -488,15 +488,15 @@ Tuon punaisen.
 
 
 
-### cing <small>pyytää</small>
+### bita <small>pyytää</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 Minä pyydän sinua juomaan teetä.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.

@@ -188,7 +188,7 @@ The cat wants to catch that big mouse.
 
 ### Making requests
 
-**mi cing tu lay mimen dom.**  
+**mi bita tu lay mimen dom.**  
 _My request, your arrival, our home._  
 I request you to come to our house.
 

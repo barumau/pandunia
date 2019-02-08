@@ -466,15 +466,15 @@ Te czerwone.
 
 
 
-### cing <small>prosić</small>
+### bita <small>prosić</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 Proszę, żebyś napił się herbaty.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 Proszę, żebyś przyszedł do domu.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.

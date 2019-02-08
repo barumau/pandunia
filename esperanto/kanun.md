@@ -316,7 +316,7 @@ Post prepozicio, oni povas aldoni substantivon kaj _du_. Oni tiel povas rekonstr
 > krom (aldono) : na maxe du  
 > krom (escepto) : na mine du  
 > kun (kunago) : na / na grup du  
-> laŭ (direkto/instrukcioj) : na / na cinge du / na forme du  
+> laŭ (direkto/instrukcioj) : na / na bite du / na forme du  
 > laŭ (vidpunkto) : na / na wide du  
 > malgraŭ : na / na sabe du  
 > per (ilo) : na / na tul du  
@@ -447,10 +447,10 @@ Bazaj reguloj
 7. En frazoj kiuj havas pasivan sencon, rolas nur subjekto kaj verbo.
     - ekz.  **ye pentu.** = Ĝi koloriĝas.
 8. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **mi cing tu dona pese.** = Mi petas vin (por) doni monon.
+    - ekz. **mi bita tu dona pese.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Ĉu vi parolas pandunion?
-    - **mi cing tu loga klar.** →  **cing loga klar.** = Bonvolu paroli klare.
+    - **mi bita tu loga klar.** →  **cing loga klar.** = Bonvolu paroli klare.
 
 
 Vortospecoj
@@ -706,7 +706,7 @@ La ĉarnira konstruo estas tre grava konstruo en pandunio. Ĝi estas ankaŭ la b
 
 Ĉarnira konstruo konsistas el subjekto, verbo kaj objekto, kiu ankaŭ estas subjekto por la sekvanta verbo.
 
-> **ye cing _mi_ enda dom.** - Ĝi petas min iri hejmen.  
+> **ye bita _mi_ enda dom.** - Ĝi petas min iri hejmen.  
 > **ye les _mi_ enda dom.** - Ĝi lasas min iri hejmen.  
 > **ye bixu _mi_ enda dom.** - Li devigas min iri hejmen.
 
@@ -723,7 +723,7 @@ La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subj
 
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
-> **mi cing tu enda dom.** - Mi petas vin iri hejmen.  
+> **mi bita tu enda dom.** - Mi petas vin iri hejmen.  
 > **cing enda dom.** - Bonvolu iri hejmen.
 
 

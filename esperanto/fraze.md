@@ -433,15 +433,15 @@ Kiun pomon vi volas manĝi?
 **li ros.**
 Tiun ruĝan.
 
-### cing <small>peti</small>
+### bita <small>peti</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 Mi petas ke vi trinku teon.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 Mi petas ke vi venu hejmen.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.

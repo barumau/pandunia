@@ -458,15 +458,15 @@ No, no quiero té. Quiero café.
 **li ros.**
 Esa roja.
 
-### cing <small>pedir, solicitud, por favor</small>
+### bita <small>pedir, solicitud, por favor</small>
 
-**mi cing tu nyama ca.**
+**mi bita tu nyama ca.**
 Te pido que bebas té.
 
-**mi cing tu laya dom.**
+**mi bita tu laya dom.**
 Te pido que vengas a casa.
 
-**mi cing tu helpa mi.**
+**mi bita tu helpa mi.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.

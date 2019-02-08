@@ -140,7 +140,7 @@ Formuler des demandes
 ### Dialogue
 
 ☻: **salam!** = Bonjour !  
-☺: **salam! cing sida.** = Bonjour ! Asseyez-vous je vous prie !  
+☺: **salam! bita sida.** = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.** = Merci.  
 ☺: **cing nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
 ☻: **mi nyama ca. danke.** = Je prends du thé, merci.  
@@ -154,7 +154,7 @@ Formuler des demandes
 
 Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu, et **ye** = il, elle, il neutre.  Le pandunia est une langue neutre du point de vue du genre. Il ne fait pas de distinction entre les sexes des pronoms à la troisième personne ou de n'importe quels autres pronoms. Tous les pronoms personnels sont présents dans la phrase suivante.
 
-> **mi cing tu salama ye.** = Je te demande de le/la saluer.
+> **mi bita tu salama ye.** = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_. Le premier verbe **cing** (demander) s'adresse à **tu** comme objet. Dans le même temps **tu** sert également de sujet au deuxième verbe **salama** (saluer) dont l'objet est **ye**. Ainsi **tu** a un double rôle : (1) objet du premier verbe et (2) sujet du second verbe. C'est donc le pivot ou la charnière entre les deux verbes.
 
@@ -164,7 +164,7 @@ La structure pivot est une structure commune en Pandunia.
 
 Rappelez-vous qu'il est permis d'omettre les pronoms connus dans le contexte. En d'autres termes, le locuteur peut supposer que les auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les répéter sans cesse. De cette manière, les phrases peuvent être raccourcies.
 
-> **mi cing tu salama ye.** = Je te demande de le/la saluer.  
+> **mi bita tu salama ye.** = Je te demande de le/la saluer.  
 > **cing salama ye.** = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de **cing** a changé entre les deux phrases ? Le sens du mot - le concept -, n'a pas changé, c'est son utilisation qui a changé. Le français reflète ce changement en utilisant des mots différents : "demander" et "s'il vous plaît". Le Pandunia peut faire face à de tels changements sans avoir recours à des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactement un mot pour un concept. On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
@@ -206,9 +206,9 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ### Réponses aux exercices
 
 1. ye nyama ca.
-2. xefe cing ye sida.
-3. cing nyama kafe u ca.
-4. mamá cing mi safa kamer.
+2. xefe bita ye sida.
+3. bita nyama kafe u ca.
+4. mamá bita mi safa kamer.
 5. xefe sida i nyama kafe.
 
 
@@ -319,9 +319,9 @@ Dans la leçon précédente, vous avez appris à répondre **si** et **no** aux 
 
 Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié (ne pas y avoir). Dans la phrase **mi no salama tu** le mot **no** nie l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ; le sens de la phrase change donc selon l'emplacement du **no**.
 
-> **mi cing tu safa kamer.** = Je te demande de nettoyer la chambre.  
-> **mi no cing tu safa kamer.** = Je ne te demande pas de nettoyer la chambre.  
-> **mi cing tu no safa kamer.** = Je te demande de ne pas nettoyer la chambre.
+> **mi bita tu safa kamer.** = Je te demande de nettoyer la chambre.  
+> **mi no bita tu safa kamer.** = Je ne te demande pas de nettoyer la chambre.  
+> **mi bita tu no safa kamer.** = Je te demande de ne pas nettoyer la chambre.
 
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
