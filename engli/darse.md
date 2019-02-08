@@ -686,6 +686,17 @@ time expression is present, other markers are not needed.
 = He will clean the room tomorrow.
 
 
+### Exercises
+
+Try translating these sentences from English to Pandunia.
+
+1. My boss will celebrate in the future	
+2. I used to have two dogs.	
+3. You are eating soup right now.
+4. She cleaned the room the day before.
+5. The cat will drink coffee tomorrow.
+6. Your mother partied last night.
+
 ### Word List
 
 **pas** past, former.
@@ -695,25 +706,13 @@ time expression is present, other markers are not needed.
 **nan** bread.
 **sube nyam** morning meal, breakfast.
 
-### Exercises
-
-Try translating these sentences from English to Pandunia. The correct
-answers are at the bottom of this page.
-
-1. My boss will celebrate in the future	
-2. I used to have two dogs.	
-3. You are eating soup right now.
-4. She cleaned the room the day before.
-5. The cat will drink coffee tomorrow.
-6. Your mother partied last night.
-
 ### Answers to the Exercises
 
 1. mi da xefe festa na wile.
 2. mi ada dul waf na pase.
 3. tu nyama supe zay.
-4. ye safa kamar na befo den.
+4. ye safa kamar na predi den.
 5. maw nyama kafe na badi den.
-6. tu da mame festa na befo noce.
+6. tu da mame festa na predi noce.
 
 
