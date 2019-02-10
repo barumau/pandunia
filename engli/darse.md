@@ -194,9 +194,9 @@ Making requests
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
-☺: **bita nyama kafe u ca.**
+☺: **bita nyama kafe u cay.**
 = Please have some coffee or tea.  
-☻: **mi nyama ca. danke.**
+☻: **mi nyama cay. danke.**
 = I will have some tea, thank you.  
 ...  
 ☺: **bita salama tu da mame!**
@@ -254,9 +254,9 @@ for making polite requests.
 = Please be seated.  
 **bita dona kafe.**
 = Please give me some coffee.  
-**bita dona ca.**
+**bita dona cay.**
 = Please give me some tea.  
-**bita nyama ca.**
+**bita nyama cay.**
 = Please have some tea.  
 **bita safa kamar.**
 = Please clean the room.
@@ -264,7 +264,7 @@ for making polite requests.
 Commands are introduced with **orda** = to command. They employ the
 same pivot structure as requests with **bita**.
 
-**orda dona ca.**
+**orda dona cay.**
 = Give (me) some tea!  
 **orda safa kamar.**
 = Clean the room!
@@ -289,7 +289,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca** tea.
+**cay** tea.
 **bita** to ask; please.
 **dona** to give.
 **danke** thanks.
@@ -305,9 +305,9 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. ye nyama ca.
+1. ye nyama cay.
 2. xefe bita ye sida.
-3. bita nyama kafe u ca.
+3. bita nyama kafe u cay.
 4. mame bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
@@ -320,17 +320,17 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafe u ca?**
+☻: **salam! eska tu nyama kafe u cay?**
 = Hello! Would you like to have coffee or tea?  
-☺: **ca.**
+☺: **cay.**
 = Tea.  
 ☻: **i tu?**
 = And you?  
 ○: **mi no baxa pandunia...**
 = I don't speak Pandunia...  
-☻: **pardon! eska ye nyama ca?**
+☻: **pardon! eska ye nyama cay?**
 = Pardon! Will he have tea?  
-☺: **no. ye no nyama ca. ye nyama kafe.**
+☺: **no. ye no nyama cay. ye nyama kafe.**
 = No, he won't. He would like to have coffee.  
 ☻: **eska tu nyama supe?**
 = Would you like to have soup?  
@@ -340,7 +340,7 @@ Yes or no questions
 = Would he like to have soup?  
 ☺: **no nyama.**
 = No.  
-☻: **danke. mi dona un ca i un kafe i un supe na bade du des minute.**
+☻: **danke. mi dona un cay i un kafe i un supe na bade du des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -350,11 +350,11 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **bita**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
-**mi eska tu nyama ca.**
+**mi eska tu nyama cay.**
 = I ask (do) you drink tea.  
-**eska tu nyama ca?**
+**eska tu nyama cay?**
 = Do you drink tea?  
-**eska nyama ca?**
+**eska nyama cay?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -362,7 +362,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska ye nyama ca?**
+**eska ye nyama cay?**
 = Does he or she drink tea?  
 **eska tu nyama supe?**
 = Do you eat soup?  
@@ -520,7 +520,7 @@ is more than one correct answer.
 2. un kupe no hali.
 3. dul waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafe.
+5. xefe nyama cay a no kafe.
 6. mame ada no waf a dul maw.
 
 

@@ -423,9 +423,9 @@ frazoj. **Ke** ne ŝanĝas la vortordon.
 **mi wol nyama kafe.**
 Mi volas trinki kafon.
 
-**eska tu wol nyama ca?**
+**eska tu wol nyama cay?**
 Ĉu vi volas trinki teon?  
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol cay. mi wol kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu wol ki aple?**
@@ -435,7 +435,7 @@ Tiun ruĝan.
 
 ### bita <small>peti</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 Mi petas ke vi trinku teon.
 
 **mi bita tu laya dom.**
@@ -446,7 +446,7 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Bonvolu trinki teon!
 
 **bita nyama kafe.**
@@ -722,7 +722,7 @@ Mi loĝas en Singapuro.
 **baxa** paroli, komuniki  
 **blu** blua <small>(angla _blue_)</small>  
 **bon** bona <small>(franca _bon_)</small>  
-**ca** teo <small>(mandarenĉina _chá_ 茶)</small>  
+**cay** teo <small>(mandarenĉina _chá_ 茶)</small>  
 **bita** peti <small>(mandarenĉina _qǐng_ 请)</small>  
 **den** tago <small>(rusa _den'_ день)</small>  
 **dom** hejmo, loĝejo <small>(rusa _dom_ дом)</small>  

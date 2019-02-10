@@ -198,7 +198,7 @@ bis : genderqueer (non-binary)
 biskute : biscuit (cookie)  
 bismute : bismuth  
 bita laya : invite  
-bita : ask (request; please)  
+bita : ask (request, beg; please)  
 bixu : must  
 bizar : odd (strange, weird)  
 bizi : busy (occupied)  
@@ -259,13 +259,10 @@ buton : key (push-button, switch)
 buyu' : baobab  
 buze : goat  
 ##c  
-ca kupe : tea cup  
-ca wan : tea bowl  
-ca : tea  
 cabe : key  
 cadia : Chad  
+cake : knife  
 cakre : wheel  
-caku' : knife  
 camce : spoon  
 campion : champion  
 cang : often (frequently)  
@@ -276,8 +273,9 @@ capa : press (imprint)
 cape : print (stamp)  
 car : four (4)  
 cate : roof  
-cay : vegetable  
-caye : shadow  
+cay kupe : tea cup  
+cay wan : tea bowl  
+cay : tea  
 ce : this one  
 cehia : Czech Republic  
 ceka : check (to examine)  
@@ -299,18 +297,18 @@ cita : quote (cite)
 coda : fuck (copulate)  
 cokolate baton : chocolate bar  
 cokolate : chocolate  
+cor : theft  
+cora : steal  
+corer : thief  
 cula : exclude (except, save)  
 cum : kiss  
 cune : spring (springtime)  
-cunza : choose (elect, select)  
-cunze : choice (election, selection)  
 cupa : suck  
-cur : theft  
-cura : steal  
-curer : thief  
 cuta : leave (go out, exit)  
 cute mun : exit door  
 cute : exit (leaving)  
+cuza : choose (elect, select)  
+cuze : choice (election, selection)  
 ##d  
 da : own (particle of possession)  
 dado' : die (dice)  
@@ -635,7 +633,6 @@ guatemala : Guatemala
 gubu' : hippopotamus  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
-gung fu : kung fu  
 guru' : guru (mentor)  
 gurube manse : pork  
 gurube : pig  
@@ -663,6 +660,7 @@ halos : halo
 hamake : hammock  
 hamar : hammer  
 hamir : yeast  
+han : Han Chinese  
 hande : hand  
 hangogia : Korea (South)  
 hani : manual  
@@ -807,6 +805,7 @@ jen : birth
 jena : give birth (procreate, generate)  
 jeng : fight (war)  
 jenger : warrior (fighter)  
+jengi xute : martial art  
 jengi : military  
 jenju' : pearl  
 jentil : kind (nice, gentle)  
@@ -907,7 +906,7 @@ kartun : comic (cartoon)
 kastan : chestnut  
 kastor : beaver  
 kata : cut  
-katalunya : Catalonia  
+katalunia : Catalonia  
 katan : sword  
 kataria : Qatar  
 kaway : cute (sweet)  
@@ -993,8 +992,8 @@ komuniste : communist
 komunistia : communism  
 kon : corner (angle)  
 koncung : insect  
-kong fuze : Confucious  
-kong fuzistia : Confucianism  
+konfuze : Confucious  
+konfuzistia : Confucianism  
 kong : hole  
 kongoli : Congolese  
 konkani : Konkani  
@@ -1014,8 +1013,8 @@ korta : shorten
 korti : short (brief)  
 kos : cough  
 kosmos : space (cosmos, universe)  
-kosta rika : Costa Rica  
 kosta : cost  
+kostarikia : Costa Rica  
 koste : cost (price)  
 kote : coat  
 koy ren : someone (somebody)  
@@ -1793,6 +1792,7 @@ rwanda : Rwanda
 sa : from (since, because)  
 sabate : Sabbath  
 sabun : soap  
+sabze : vegetable  
 sadi : plain (ordinary, unadorned, simple, mere)  
 safa : clean (purify)  
 safar : travel (voyage)  
@@ -1843,6 +1843,7 @@ sar : head
 saudar : sibling (brother or sister)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
+saye : shadow  
 se : self  
 seaborgium : seaborgium  
 sekreter : secretary  
@@ -2242,6 +2243,8 @@ xudu : should (ought)
 xula : repair (fix)  
 xule : repair (fix)  
 xuler : repairer  
+xute : skill (art, competence)  
+xuti : skillful  
 xuxe : rest (relief)  
 ##y  
 yada : remember (recall)  

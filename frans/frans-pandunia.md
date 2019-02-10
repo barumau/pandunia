@@ -73,5 +73,6 @@
 тигр : bagre  
 тянуть : tira milke  
 флаг : bandir  
+хань : han  
 шкаф : almar  
 яблоко : aple  

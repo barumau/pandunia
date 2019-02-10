@@ -482,9 +482,9 @@ Astuce : en français, à l’écrit, le « quoi » est plutôt en début de que
 **mi wol nyama kafe.**
 Je veux boire un café.
 
-**eska tu wol nyama ca?**
+**eska tu wol nyama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol cay. mi wol kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **tu wol ki aple?**
@@ -496,7 +496,7 @@ La rouge. (mot à mot _cette rouge_)
 
 ### bita <small>demander, s’il vous plait</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 Je te demande si tu veux du thé.
 
 **mi bita tu laya dom.**
@@ -507,7 +507,7 @@ Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Un thé, s’il vous plait !
 
 **bita nyama kafe.**
@@ -1019,7 +1019,7 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **baxa** communiquer  
 **blu** bleu <small>(Anglais _blue_)</small>  
 **bon** bon  
-**ca** thé <small>(Mandarin _chá_ 茶)</small>  
+**cay** thé <small>(Mandarin _chá_ 茶)</small>  
 **bita** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russe _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  

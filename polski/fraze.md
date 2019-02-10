@@ -452,10 +452,10 @@ nie zmienia szyku zdania.
 **mi wol nyama kafe.**
 Chcę pić kawę.
 
-**eska tu wol nyama ca?**
+**eska tu wol nyama cay?**
 Czy chcesz napić się herbaty?
 
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol cay. mi wol kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
 **tu wol ki aple?**
@@ -468,7 +468,7 @@ Te czerwone.
 
 ### bita <small>prosić</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 Proszę, żebyś napił się herbaty.
 
 **mi bita tu laya dom.**
@@ -479,7 +479,7 @@ Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Proszę, napij się herbaty!
 
 **bita nyama kafe.**
@@ -1001,7 +1001,7 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **baxa** mówić, komunikować  
 **blu** niebieski <small>(angielskie _blue_)</small>  
 **bon** dobry <small>(francuskie _bon_)</small>  
-**ca** herbata <small>(mandaryńskie _chá_ 茶)</small>  
+**cay** herbata <small>(mandaryńskie _chá_ 茶)</small>  
 **ci** to; tamto</small>  
 **bita** prosić <small>(mandaryńskie _qǐng_ 请)</small>  
 **den** dzień <small>(rosyjskie _den'_ день)</small>  

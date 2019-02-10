@@ -62,7 +62,7 @@ aranje ← eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".
 arbe ← fra:arbre. spa:árbol. por:árvore.  
 arbuze ← rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
 are ← eng:area. por:spa:área.  
-arte ← spa:por:arte. eng:fra:art.  
+arte ← spa:por:arte. eng:fra:art. jpn:アート (āto).  
 asan ← hin:आसन (āsan). eng:asana. rus:асана (asana).  
 asle ← ara:(ʾaṣl). tur:asl. ind:asal. hin:असल (asl).  
 asme ← fra:asthme. eng:asthma. spa:por:ind:asma.  
@@ -149,27 +149,27 @@ buton ← eng:button. hin:बटन "baṭan". ben:বোতাম "botam". jpn:
 buyu' ← swa:mbuyu. wol:buy. sna:muuyu. zul:isimuhu.  
 buze ← swa:mbuzi. sna:mbudzi. zul:imbuzi. tsw:bodi. por:bode. taj:буз (buz). per:(boz).  
 ##c  
-ca ← zho: 茶 "chá". jpn: "cha".  
 cabe ← por:chave. hin:"cābi". kon:nsapi.  
+cake ← hin:चाक़ू (cāqū). per:(čâqu). nep:चक्कु (cakku). kan:ಚಾಕು (cāku).  
 cakre ← ben:চাকা (caka). hin:चक्र (cakra).  
-caku' ← hin:चाक़ू "cāqū".  
+camce ← per:(čamče). pan:ਚਮਚਾ (camcā). ben:চামচ (camôc). hin:चम्मच (cammac). tha:ช้อน (chon).  
 canse ← fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (šans). tur:şans.  
 cante ← fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).  
 cate ← hin: छत (chat). ben: ছাদ (chad). tur:çatı. kyr:чатыр (čatyr).  
-cay ← zho:菜 (cài). jpn:菜 (sai). kor:-채- (chae).  
-caye ← ben:ছায়া (chaya). hin:छाया (chāyā). tha:ฉายา (chāyā). per:(sāye).  
+cay wan ← ind:cawan.  
+cay ← zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).  
 ci ← zho:此 (cǐ). ita:ci. fra:ci. epo:ĉi.  
 cirke ← ita:cerchio. fra:cercle. eng:circle. spa:círculo.  
 cis ← eng: cheese. zho: 起司 "qǐsī". swa: chizi.  
 coda ← ben:চোদা "coda". hin:चोदना "codnā".  
 cokolate ← eng:chocolate. hin:चाकलेट "cāklet". zho:巧克力 "qiǎokèlì". spa:chocolate. ind:cokelat.  
+cor ← hin:mar:चोरी (corī). urd:(corī). tha:โจร (chon). ind:curi. ben:চুরি (curi).  
 cula ← zho:除了 (chúle). vie:trừ.  
 cum ← hin:चूमना (cūmnā). urd:(cūmnā). mal:ചുംബനം (cumbanaṃ). ind:cium. jpn:チュー (chū). tha:จูบ (cup).  
 cune ← zho:春 (chūn). yue:(ceon1). jpn:春季 (shunki). kor:춘계 (chun-gye). vie:xuân.   
-cunza ← vie:chọn. hin:चुनना "cunnā". + zho:选 (xuǎn). kor:선택 (seontaek). + eng:choose.  
-cupa ← spa:por:chupar. khm:ជប់ "cup".  
-cur ← hin:चुराना (curānā). ind:curi.  
+cupa ← spa:por:chupar. khm:ជប់ (cup).  
 cute ← zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).  
+cuza ← eng:choose. + hin:चुनना "cunnā". + vie:chọn.  
 ##d  
 da ← pan:ਦਾ "dā". zho:的 "de".  
 dado' ← spa:por:tgl:dado. ind:swa:dadu.  
@@ -290,6 +290,7 @@ hakim ← ara:"qāḍin". hau:alƙali. per:"qāzi". eng:qadi. swa:kadhi.
 hali ← ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). per:(xāli). jpn:空 (kara).  
 halo' ← deu:hallo. eng:hello. zho:哈啰 "hāluō".  
 hamar ← eng:hammer. deu:Hammer. jpn:"hanmā".  
+han ← zho:汉族 (hànzú). vie:người Hán. eng:Han. hin:हान चीनी (hān cīnī).  
 hande ← hau:hannū. eng:hand. deu:Hand. hin:हाथ (hāth).  
 harabi ← ara:per:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).  
 harfe ← ara:(ḥarf). tur:harf. per:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
@@ -337,6 +338,7 @@ jebria ← ara:per:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.
 jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).  
 jen ← hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.   
 jeng ← zho:爭 (zhēng). tur:ceng. per:(jang). hin:जंग (jang). vie:tranh.  
+jengi xute ← zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.  
 jenju' ← zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:inju. rus:жемчуг (žemčug).  
 jin ← zho:真 (zhēn). kor:진 (jin). jpn:真 (shin). tha:จริง (jing).  
 jinse ← ara:urd:(jins). per:(jens). swa:jinsia. tur:cins(iyet). por:gênero. eng:gender.  
@@ -397,8 +399,9 @@ kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (
 kompania ← eng:company. hin:कंपनी "kampanī". rus:компания "kompaniya". tgl:kompanya.  
 komputa ← eng:compute.  
 kon ← hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.  
-kong fuze ← zho:孔夫子 (Kǒng Fūzǐ).  
+konfuze ← zho:孔夫子 (Kǒng Fūzǐ).  
 konsida ← eng:consider. spa:considerar.  
+konson ← fra:consonne. eng:consonant.  
 kontra ← spa:por:contra. fra:contre. eng:counter-. gre:κόντρα (kontra).  
 kope ← eng:copy. zho:拷貝 (kǎobèi).  
 kor ← spa:coro. tur:koro. eng:chorus. hin:कोरस (koras). ara:(korāl).  
@@ -618,6 +621,7 @@ ruste ← per:روستا‎ (rustâ). + eng:rustic. por:spa:rustico. fra:rustiq
 ##s  
 sa ← rus:с (s). hin: से (~se).  
 sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.  
+sabze ← per:urd:(sabzi). tur:sebze. hin:सब्ज़ी (sabzī). ben:সবজি (sôbji).  
 sadi ← tur:sade. per:(sāde). hin:सादा (sādā).  
 safar ← ara:(safar). tur:sefer. swa:safari.  
 safi ← swa:safi. hin:साफ़ (sāf). urd:(sāf). ben:চাফা (sapha).  
@@ -633,6 +637,7 @@ sang ← fra:sang. spa:sangre. por:sangue.
 santi ← por:spa:santo. eng:fra:saint. kon:santu. zho:圣 (shèng).  
 sapate ← spa:zapato. por:sapato. ind:sepatu.  
 saudar ← ind:saudara. hin:सहोदर "sahodar". ben:সহোদর "sôhodôr".  
+saye ← per:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).  
 se ← spa: se. fra: se. Czech: se. zho: 私 "sī".  
 sem ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
 semente ← eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).  
@@ -763,6 +768,7 @@ xix ← eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.
 xow ← eng: show.  
 xudu ← eng:should.  
 xule ← zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).  
+xute ← zho:术 (shù). yue:術 (seot6). jpn:術 (jutsu). kor:술 (sul).  
 xuxe ← zho:休息 (xiūxí). kor:휴식 (hyusig).  
 ##y  
 yade ← hin:याद (yād). guj:યાદ (yād). per:urd:(yād). aze:yad. tkm: ýaad.  

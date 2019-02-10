@@ -448,9 +448,9 @@ la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 **mi wol nyama kafe.**
 Quiero beber café.
 
-**eska tu wol nyama ca?**
+**eska tu wol nyama cay?**
 ¿Te gustaría beber té? 
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol cay. mi wol kafe.**
 No, no quiero té. Quiero café.
 
 **tu wol ki aple?**
@@ -460,7 +460,7 @@ Esa roja.
 
 ### bita <small>pedir, solicitud, por favor</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 Te pido que bebas té.
 
 **mi bita tu laya dom.**
@@ -471,7 +471,7 @@ Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Por favor, bebe/beban té.
 
 **bita nyama kafe.**
@@ -945,7 +945,7 @@ lista de palabras como ejemplo.
 **baxa** hablar, comunicar  
 **blu** azul <small>(Inglés _blue_)</small>  
 **bon** bien, bueno <small>(Francés _bon_)</small>  
-**ca** té <small>(Mandarín _chá_ 茶)</small>  
+**cay** té <small>(Mandarín _chá_ 茶)</small>  
 **bita** pregunta, solicitud <small>(Mandarín _qǐng_ 请)</small>  
 **den** día <small>(Ruso _den'_ день)</small>  
 **dom** hogar, residencia, casa <small>(Ruso _dom_ дом)</small>  

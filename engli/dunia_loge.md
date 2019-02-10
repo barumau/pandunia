@@ -135,7 +135,7 @@ As you can see, the same word is written and pronounced differently in different
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### ca (tea)
+#### cay (tea)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -146,6 +146,7 @@ As you can see, the same word is written and pronounced differently in different
 | Bangla     | tʃa          | চা  |
 | Hindi      | tʃai         | चाय |
 | Russian    | tʃai         | чай             |
+| Turkish    | tʃai         | çay             |
 | Swahili    | tʃai         | chai            |
 | Arabic     | ʃai          | شاي |
 | Portuguese | ʃa           | chá             |

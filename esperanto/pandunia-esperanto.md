@@ -49,6 +49,7 @@ andes : Andoj
 anime : kartuno  
 anjil : evangelio  
 anten : anteno  
+anti : kotraŭa  
 anus : anuso  
 anusi : anusa  
 aple : pomo  
@@ -57,6 +58,7 @@ arane : araneo
 arani fobia : araneofobio  
 aranje : oranĝo  
 aranji : oranĝa  
+arbe gardin : arboĝardeno  
 arbe : arbo  
 arbuze : akvomelono  
 are : areo  
@@ -212,10 +214,9 @@ buton : klavo
 buyu' : baobabo  
 buze : kapro  
 ##c  
-ca : teo  
 cabe : ŝlosilo  
+cake : tranĉilo  
 cakre : rado  
-caku' : tranĉilo  
 camce : kulero  
 campion : ĉampiono  
 cang : ofte  
@@ -226,8 +227,7 @@ capa : presi
 cape : presaĵo  
 car : kvar (4)  
 cate : tekto  
-cay : legomo  
-caye : ombro  
+cay : teo  
 ce : ĉi tio  
 ceka : kontroli  
 celo' : violonĉelo  
@@ -244,18 +244,18 @@ cita : citi
 coda : fiki  
 cokolate baton : ĉokolado  
 cokolate : ĉokolado  
+cor : ŝtelo  
+cora : ŝteli  
+corer : ŝtelisto  
 cula : krom (escepti)  
 cum : kiso  
 cune : printempo  
-cunza : elekti  
-cunze : elekto  
 cupa : suĉi  
-cur : ŝtelo  
-cura : ŝteli  
-curer : ŝtelisto  
 cuta : eliri  
 cute mun : elirejo  
 cute : eliro  
+cuza : elekti  
+cuze : elekto  
 ##d  
 da : propra (partiklo de posedo)  
 dado' : ĵetkubo  
@@ -535,6 +535,7 @@ halos : halo
 hamake : hamako  
 hamar : martelo  
 hamir : feĉo  
+han : hana  
 hande : mano  
 hangogia : Sudkoreio  
 hani : mana  
@@ -700,7 +701,7 @@ karte : karto
 kastan : kaŝtano  
 kastor : kastoro  
 kata : tranĉi  
-katalunya : Katalunio  
+katalunia : Katalunio  
 katan : glavo  
 kaway : ĉarma  
 kay : malferma  
@@ -736,7 +737,7 @@ komun : komuna
 komuniste : komunisto  
 komunistia : komunismo  
 kon : angulo  
-kong fuze : Konfuceo  
+konfuze : Konfuceo  
 konsida : rigardi ia  
 kontra : kontraŭ  
 kope : kopio  
@@ -1089,6 +1090,7 @@ rutin : rutino (kutimo)
 ##s  
 sa : de (el, pro)  
 sabun : sapo  
+sabze : legomo  
 safa : purigi  
 safar : vojaĝo  
 safara : vojaĝi  
@@ -1121,6 +1123,7 @@ sapater : ŝuisto
 sapateria : ŝuistejo  
 saudar : frato aŭ fratino  
 sauna : saŭno  
+saye : ombro  
 se : si  
 seaborgium : seborgio  
 sekse : sekso  

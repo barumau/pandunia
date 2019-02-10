@@ -70,6 +70,7 @@ araneo : arane
 araneofobio : arani fobia  
 arbaro : jangal  
 arbo : arbe  
+arboĝardeno : arbe gardin  
 areo : are  
 Argentino : argentin  
 argono : argon  
@@ -268,8 +269,8 @@ ekstero : waye
 Ekvadoro : ekuador  
 ekzemplo : misal  
 elefanto : gaje  
-elekti : cunza  
-elekto : cunze  
+elekti : cuza  
+elekto : cuze  
 elektra : eletri  
 elektro : eletre  
 elektrono : eletron  
@@ -432,6 +433,7 @@ halti : tingu
 haltigi : tinga  
 halto : ting  
 hamako : hamake  
+hana : han  
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
@@ -557,7 +559,7 @@ karto : karte
 kartuno : anime  
 kasko : helme  
 kastoro : kastor  
-Katalunio : katalunya  
+Katalunio : katalunia  
 kato : maw  
 kaverno : gua  
 kaŝtano : kastan  
@@ -606,7 +608,7 @@ komunisto : komuniste
 koncentri : fokusa  
 koncentriĝo : fokus  
 kondiĉo (postulo) : xarte  
-Konfuceo : kong fuze  
+Konfuceo : konfuze  
 kongrui : maca  
 konscia : budi  
 konstrui : bina  
@@ -621,6 +623,7 @@ korpa : badani
 korpo : badan  
 koto : blote  
 kotono : goton  
+kotraŭa : anti  
 kovri : deka  
 kovrilo : deke  
 kreda : xina  
@@ -671,7 +674,7 @@ laŭrencio : laurensium
 leciono : darse  
 legi : duga  
 lego : kanun  
-legomo : cay  
+legomo : sabze  
 leono : sing  
 lernejo : darse kan  
 lerni (studi) : darsa  
@@ -867,7 +870,7 @@ oksigeno : okse
 okulo : yen  
 okupata : bizi  
 olivo : zaitun  
-ombro : caye  
+ombro : saye  
 opinii : raya  
 opinio : ray  
 oranĝa : aranji  
@@ -1167,7 +1170,7 @@ tendo : tende
 teneso : tenesin  
 teni : tena  
 teniso : tenis  
-teo : ca  
+teo : cay  
 teologio : dew lojia  
 teorio : teoria  
 terbio : terbium  
@@ -1202,7 +1205,7 @@ traduko : tarje
 trajno (vagonaro) : tren  
 trankvila : xanti  
 tranĉi : kata  
-tranĉilo : caku'  
+tranĉilo : cake  
 trezoro : hazin  
 tri (3) : sam  
 tribo : tribe  
@@ -1332,9 +1335,9 @@ zuluo : zulu'
 ŝipo : bote  
 ŝlosilo : cabe  
 ŝranko : almar  
-ŝteli : cura  
-ŝtelisto : curer  
-ŝtelo : cur  
+ŝteli : cora  
+ŝtelisto : corer  
+ŝtelo : cor  
 ŝtono : petre  
 ŝtormo : tafun  
 ŝtrumpo : soke  

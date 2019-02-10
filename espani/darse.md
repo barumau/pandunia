@@ -167,9 +167,9 @@ Pidiendo
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **bita nyama kafe u ca.**
+☺: **bita nyama kafe u cay.**
 = Por favor tiene algo de café o té.  
-☻: **mi nyama ca. danke.**
+☻: **mi nyama cay. danke.**
 = Tengo té, gracias.  
 ...  
 ☺: **bita salama tu da mame!**
@@ -205,16 +205,16 @@ La frase **bita salama ye** tiene un patrón útil que puede ser utilizado para 
 = Por favor sientese.  
 **bita dona kafe.**
 = Por favor me da un poco de café.  
-**bita dona ca.**
+**bita dona cay.**
 = Por favor me da un poco de té.  
-**bita nyama ca.**
+**bita nyama cay.**
 = Por favor tiene algo de té.  
 **bita safa kamar.**
 = Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **bita**.
 
-> **orda dona ca.**
+> **orda dona cay.**
 = ¡Deme un poco de té!
 > **orda safa kamar.**
 = ¡Limpie la habitación!
@@ -240,7 +240,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**ca** té.
+**cay** té.
 **bita** pedir, solicitar; por favor.
 **dona** dar.
 **danke** gracias.
@@ -256,9 +256,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. ye nyama ca.
+1. ye nyama cay.
 2. xefe bita ye sida.
-3. bita nyama kafe u ca.
+3. bita nyama kafe u cay.
 4. mame bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
@@ -272,17 +272,17 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska tu nyama kafe u ca?**
+☻: **salam! eska tu nyama kafe u cay?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
-☺: **ca.**
+☺: **cay.**
 = Té.  
 ☻: **i tu?**
 = ¿ y Usted? 
 ○: **mi no baxa pandunia...**
 = Yo no hablo Pandunia...  
-☻: **pardon! eska ye nyama ca?**
+☻: **pardon! eska ye nyama cay?**
 = ¡Perdón! ¿Él toma té?  
-☺: **no. ye no nyama ca. ye nyama kafé.**
+☺: **no. ye no nyama cay. ye nyama kafé.**
 = No, él desea tomar café.  
 ☻: **eska tu nyama supe?**
 = ¿Quieren tomar sopa?  
@@ -292,7 +292,7 @@ Preguntas de Sí o No
 = ¿Él quiere tomar sopa?  
 ☺: **no nyama.**
 = No.  
-☻: **danke. mi dona un ca i un kafe i un supe na bade du des minute.**
+☻: **danke. mi dona un cay i un kafe i un supe na bade du des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -300,16 +300,16 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **bita**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
-**mi eska tu nyama ca.**
+**mi eska tu nyama cay.**
 = Yo preguntarte, tomas té.  
-**eska tu nyama ca?**
+**eska tu nyama cay?**
 = ¿Bebes tú té?  
-**eska nyama ca?**
+**eska nyama cay?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**eska ye nyama ca?**
+**eska ye nyama cay?**
 = ¿Bebe él/ella té?  
 **eska tu nyama supe?**
 = ¿Come usted sopa?  
@@ -450,7 +450,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 2. un kupe no hali.
 3. dul waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafe.
+5. xefe nyama cay a no kafe.
 6. mame ada no waf a dul maw.
 
 --------------------------------------------------------------------------------

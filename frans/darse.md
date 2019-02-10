@@ -142,8 +142,8 @@ Formuler des demandes
 ☻: **salam!** = Bonjour !  
 ☺: **salam! bita sida.** = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.** = Merci.  
-☺: **bita nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
-☻: **mi nyama ca. danke.** = Je prends du thé, merci.  
+☺: **bita nyama kafe u cay.** = Prenez du thé ou du café, je vous prie
+☻: **mi nyama cay. danke.** = Je prends du thé, merci.  
 ...
 ☺: **bita salama tu da mamá!** = S'il te plaît, salut ta mère.  
 ☻: **mi salama ye. salam!** = Je la saluerai. Au revoir !  
@@ -173,13 +173,13 @@ La phrase **bita salama ye** est un modèle très utile pour les formules de pol
 
 > **bita sida.** = Asseyez-vous s'il vous plaît..  
 > **bita dona kafe.** = S'il vous plaît, donnez-moi du café.  
-> **bita dona ca.** = S'il vous plaît, donnez-moi du thé. 
-> **bita nyama ca.** = S'il vous plaît, prenez un peu de thé.  
+> **bita dona cay.** = S'il vous plaît, donnez-moi du thé. 
+> **bita nyama cay.** = S'il vous plaît, prenez un peu de thé.  
 > **bita safa kamer.** = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec **manda** = ordonner. Ils utilisent la même structure de pivot que les requêtes avec **bita**.
 
-> **manda dona ca.** = Donnez-moi du thé !  
+> **manda dona cay.** = Donnez-moi du thé !  
 > **manda safa kamer.** = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen d'un seul verbe et d'un ton autoritaire.
@@ -200,14 +200,14 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**ca** thé. **bita** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sida** s'asseoir (être assis). **nyama** manger ou boire, consommer.
+**cay** thé. **bita** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sida** s'asseoir (être assis). **nyama** manger ou boire, consommer.
 
 
 ### Réponses aux exercices
 
-1. ye nyama ca.
+1. ye nyama cay.
 2. xefe bita ye sida.
-3. bita nyama kafe u ca.
+3. bita nyama kafe u cay.
 4. mamá bita mi safa kamer.
 5. xefe sida i nyama kafe.
 
@@ -220,17 +220,17 @@ Questions par oui ou par non
 
 ### Dialogue
 
-☻: **salam! eska tu nyama kafe u ca?** = Bonjour ! Prenez-vous du café ou du thé ?  
-☺: **ca.** = Du thé.  
+☻: **salam! eska tu nyama kafe u cay?** = Bonjour ! Prenez-vous du café ou du thé ?  
+☺: **cay.** = Du thé.  
 ☻: **i tu?** = Et vous ?  
 ○: **mi no baxa pandunia...** = Je ne parle pas le Pandunia...  
-☻: **pardon! eska ye nyama ca?** = Pardon ! prend-il du thé ?  
-☺: **no. ye no nyama ca. ye nyama kafe.** = Non. Il ne prend pas de thé. Il prend du café.  
+☻: **pardon! eska ye nyama cay?** = Pardon ! prend-il du thé ?  
+☺: **no. ye no nyama cay. ye nyama kafe.** = Non. Il ne prend pas de thé. Il prend du café.  
 ☻: **eska tu nyama supe?** = Prenez-vous de la soupe ?  
 ☺: **nyama.** = Oui. (_J'en prends._)  
 ☻: **eska ye nyama supe?** = Prend-il de la soupe ?  
 ☺: **no nyama.** = Non.  
-☻: **danke. mi dar un ca i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dar un cay i un kafe i un supe na bade du des minut.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 \* **na bade du** est une expression qui signifie "dans (tant de temps)"
@@ -240,13 +240,13 @@ Questions par oui ou par non
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **bita **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-> **mi eska tu nyama ca.** = Je vous demande si vous buvez du thé.  
-> **eska tu nyama ca?** = Buvez-vous du thé ?  
-> **eska nyama ca?** = Du thé ?
+> **mi eska tu nyama cay.** = Je vous demande si vous buvez du thé.  
+> **eska tu nyama cay?** = Buvez-vous du thé ?  
+> **eska nyama cay?** = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs, mais les questions, elles, se portent souvent sur d'autres personnes. Par conséquent, le deuxième pronom est habituellement nécessaire. Il peut être omis seulement quand on a identifié qui est le sujet de la discussion.
 
-> **eska ye nyama ca?** = Est-ce qu'il ou elle prend du thé ?  
+> **eska ye nyama cay?** = Est-ce qu'il ou elle prend du thé ?  
 > **eska tu nyama sup?** = Prenez-vous de la soupe ?  
 > **eska mimen nyama su?** = Buvons-nous de l'eau minérale ?
 
@@ -355,7 +355,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Parfois, il y a plus d
 2. un kupe no hali.
 3. dua waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafe.
+5. xefe nyama cay a no kafe.
 6. mamá ada no waf a do maw.
 
 

@@ -137,8 +137,8 @@ Proszenie
 ☻: **salam!** = Cześć!  
 ☺: **salam! bita sida.** = Cześć! Proszę, usiądź!  
 ☻: **danke.** = Dziękuję.  
-☺: **bita nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
-☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
+☺: **bita nyama kafe u cay.** = Proszę, napij się kawy lub herbaty.  
+☻: **mi nyama cay. danke.** = Napiję się herbaty, dziękuję.  
 ...  
 ☺: **bita salama tu da mamá!** = Proszę pozdrów twoją matkę.  
 ☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
@@ -166,13 +166,13 @@ Zdanie **bita salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośb
 
 > **bita sida.** = Proszę, usiąść.  
 > **bita dona kafe.** = Proszę, podaj kawę.  
-> **bita dona ca.** = Proszę, podaj herbatę.  
-> **bita nyama ca.** = Proszę, pij herbatę.  
+> **bita dona cay.** = Proszę, podaj herbatę.  
+> **bita nyama cay.** = Proszę, pij herbatę.  
 > **bita safa kamar.** = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **bita**.
 
-> **manda dona ca.** = Daj (mi) herbatę!  
+> **manda dona cay.** = Daj (mi) herbatę!  
 > **manda safa kamar.** = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
@@ -193,14 +193,14 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**ca** herbata. **bita** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**cay** herbata. **bita** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. ye nyama ca.
+1. ye nyama cay.
 2. xefe bita ye sida.
-3. bita nyama kafe u ca.
+3. bita nyama kafe u cay.
 4. mamá bita mi safa kamar.
 5. xefe sida i nyama kafe.
 
@@ -213,17 +213,17 @@ Pytania "tak lub nie"
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafe u ca?** = Witam! Czy chce pan kawę albo herbatę?  
-☺: **ca.** = Herbatę.  
+☻: **salam! eska tu nyama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
+☺: **cay.** = Herbatę.  
 ☻: **i tu?** = A pan?  
 ○: **mi no baxa pandunia...** = Nie mówię w Panduni...  
-☻: **sori! eska ye nyama ca?** = Przepraszam! Czy napije się herbaty?  
-☺: **no. ye no nyama ca. ye nyama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
+☻: **sori! eska ye nyama cay?** = Przepraszam! Czy napije się herbaty?  
+☺: **no. ye no nyama cay. ye nyama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
 ☻: **eska tu nyama supe?** = Czy zje pan zupę?  
 ☺: **nyama.** = Tak. (_Jem._)  
 ☻: **eska ye nyama supe?** = Czy on zje zupę?  
 ☺: **no nyama.** = Nie.  
-☻: **danke. mi dona un ca i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dona un cay i un kafe i un supe na bade du des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -231,13 +231,13 @@ Pytania "tak lub nie"
 
 Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **bita**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
-> **mi eska tu nyama ca.** = Ja pytam cię, czy napijesz się herbaty.  
-> **eska tu nyama ca?** = Czy pijesz herbatę?  
-> **eska nyama ca?** = Czy pić herbatę?
+> **mi eska tu nyama cay.** = Ja pytam cię, czy napijesz się herbaty.  
+> **eska tu nyama cay?** = Czy pijesz herbatę?  
+> **eska nyama cay?** = Czy pić herbatę?
 
 Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi. Dlatego drugi ziamek jest zazwyczaj potrzebny. Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
 
-> **eska ye nyama ca?** = Czy on/ona pije herbatę?  
+> **eska ye nyama cay?** = Czy on/ona pije herbatę?  
 > **eska tu nyama supe?** = Czy jesz zupę?  
 > **eska mimen nyama suy?** = Czy pijemy wodę?
 
@@ -346,7 +346,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 2. un kupe no hali.
 3. dua waf no nyama supe.
 4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama ca a no kafe.
+5. xefe nyama cay a no kafe.
 6. mamá ada no waf a do maw.
 
 

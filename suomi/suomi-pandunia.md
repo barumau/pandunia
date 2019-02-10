@@ -173,7 +173,7 @@ Chile : cile
 chinchilla : cincil  
 cola : kola  
 Cookin saaret : kuke nesia  
-Costa Rica : kosta rika  
+Costa Rica : kostarikia  
 curium : kurium  
 ##d  
 darwinismi : darwinistia  
@@ -316,6 +316,7 @@ hammas : dante
 hammasharja : dante brox  
 hammaslääkäri : dante mediker  
 hamppu (kannabis) : ganje  
+han-kiinalainen : han  
 hana : balbe  
 hankkia (ansaita) : ganya  
 hankkia (saada) : geta  
@@ -580,6 +581,7 @@ kameli : gamel
 kamera : kamera  
 Kamerun : kamerun  
 kammo (fobia) : fobe  
+kamppailulaji : jengi xute  
 kana : koke  
 Kanada : kanadia  
 kanava (kanaali) : kanal  
@@ -611,10 +613,10 @@ kastike (soosi) : sos
 kasvaa (suurentua) : dayu  
 kasvaa : rastu  
 kasvi : plante  
-kasvis : cay  
+kasvis : sabze  
 kasvot (naama) : muke  
 kasvu : raste  
-Katalonia : katalunya  
+Katalonia : katalunia  
 katkaista (leikata) : kata  
 kattila : ketel  
 katto (katos) : cate  
@@ -801,9 +803,8 @@ kuluva (tämänhetkinen) : zay
 kumi : gom  
 kumina : ziran  
 kummitus (aave) : fantom  
-kungfu : gung fu  
-Kungfutse : kong fuze  
-Kungfutselaisuus : kong fuzistia  
+Kungfutse : konfuze  
+Kungfutselaisuus : konfuzistia  
 kuningas : man rajer  
 kuningaskunta : rajia  
 kuningatar : fem rajer  
@@ -1826,8 +1827,10 @@ taika (taikuus, magia) : magia
 taikuri : mager  
 Taipei : taibei  
 taistelu (sota) : jeng  
+taitava : xuti  
 taiteilija : arter  
 taito (kyky) : kene  
+taito : xute  
 taivas : saman  
 Taiwan : taiwan  
 takki : kote  
@@ -1871,9 +1874,9 @@ taulukoida : tabla
 tavanomainen (perinteinen) : rasmi  
 tavata : mita  
 te : tumen  
-tee : ca  
-teekulho : ca wan  
-teekuppi : ca kupe  
+tee : cay  
+teekulho : cay wan  
+teekuppi : cay kupe  
 tehdas : fateria  
 tehdä (valmistaa) : sana  
 tehdä : fata  
@@ -2047,8 +2050,8 @@ vaiva (haitta) : mafan
 vaivata (hieroa) : masaja  
 vaivata : mafana  
 valaistunut : budi  
-valinta (vaali) : cunze  
-valita : cunza  
+valinta (vaali) : cuze  
+valita : cuza  
 valjaat : maju'  
 valkoinen (valkea) : bay  
 valkosipuli : lasun  
@@ -2070,11 +2073,11 @@ vanukas : puding
 vapaa : huri  
 vapaus : huria  
 vapauttaa : hura  
-varas : curer  
-varastaa : cura  
+varas : corer  
+varastaa : cora  
 varaus (ennakkovaraus) : buking  
-varjo : caye  
-varkaus : cur  
+varjo : saye  
+varkaus : cor  
 varma (tosi) : yakin  
 vartalo (varsi, torso) : torse  
 vartija (vahti) : garder  
@@ -2089,7 +2092,7 @@ vastustaja : anter
 Vatikaanivaltio : vatikan  
 vaurio : awar  
 vauva : bebe  
-veitsi (puukko) : caku'  
+veitsi (puukko) : cake  
 vene (laiva) : bote  
 Venezuela : venesuela  
 Venäjä : rusia  

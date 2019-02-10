@@ -258,13 +258,10 @@ buton : nappi (näppäin, kytkin)
 buyu' : apinanleipäpuu (baobab)  
 buze : vuohi  
 ##c  
-ca kupe : teekuppi  
-ca wan : teekulho  
-ca : tee  
 cabe : avain  
 cadia : Tšad  
+cake : veitsi (puukko)  
 cakre : ratas  
-caku' : veitsi (puukko)  
 camce : lusikka  
 campion : mestari (voittaja)  
 cang : usein  
@@ -275,8 +272,9 @@ capa : painaa (leimata)
 cape : painos (leima)  
 car : neljä (4)  
 cate : katto (katos)  
-cay : kasvis  
-caye : varjo  
+cay kupe : teekuppi  
+cay wan : teekulho  
+cay : tee  
 ce : tämä  
 cehia : Tšekki  
 ceka : tarkistaa (tsekata)  
@@ -298,18 +296,18 @@ cita : lainata (siteerata)
 coda : nussia (panna)  
 cokolate baton : suklaapatukka  
 cokolate : suklaa  
+cor : varkaus  
+cora : varastaa  
+corer : varas  
 cula : paitsi (poislukien)  
 cum : suukko (pusu)  
 cune : kevät  
-cunza : valita  
-cunze : valinta (vaali)  
 cupa : imeä  
-cur : varkaus  
-cura : varastaa  
-curer : varas  
 cuta : poistua  
 cute mun : uloskäynti  
 cute : poistuminen  
+cuza : valita  
+cuze : valinta (vaali)  
 ##d  
 da : -n (oma)  
 dado' : noppa (arpakuutio)  
@@ -633,7 +631,6 @@ guatemala : Guatemala
 gubu' : virtahepo  
 gujarati : gujarati (eräs intialainen kieli)  
 gun : laatu (laadukkuus, erinomaisuus, hyvyys)  
-gung fu : kungfu  
 guru' : guru (opettaja)  
 gurube manse : sianliha  
 gurube : sika (possu)  
@@ -661,6 +658,7 @@ halos : halo
 hamake : riippumatto  
 hamar : vasara  
 hamir : hiiva  
+han : han-kiinalainen  
 hande : käsi  
 hangogia : Etelä-Korea  
 hani : käsi-  
@@ -805,6 +803,7 @@ jen : synty (syntymä)
 jena : synnyttää  
 jeng : taistelu (sota)  
 jenger : soturi (taistelija)  
+jengi xute : kamppailulaji  
 jengi : sotilaallinen  
 jenju' : helmi  
 jentil : kiltti  
@@ -905,7 +904,7 @@ kartun : sarjakuva
 kastan : kastanja  
 kastor : majava  
 kata : katkaista (leikata)  
-katalunya : Katalonia  
+katalunia : Katalonia  
 katan : miekka  
 kataria : Qatar  
 kaway : söpö (suloinen)  
@@ -991,8 +990,8 @@ komuniste : kommunisti
 komunistia : kommunismi  
 kon : kulma (nurkka)  
 koncung : hyönteinen (ötökkä)  
-kong fuze : Kungfutse  
-kong fuzistia : Kungfutselaisuus  
+konfuze : Kungfutse  
+konfuzistia : Kungfutselaisuus  
 kong : reikä  
 kongoli : kongolainen  
 konkani : konkani (eräs intialainen kieli)  
@@ -1012,8 +1011,8 @@ korta : lyhentää
 korti : lyhyt  
 kos : yskä  
 kosmos : avaruus (kosmos)  
-kosta rika : Costa Rica  
 kosta : maksaa (olla hintana)  
+kostarikia : Costa Rica  
 koste : hinta (maksu)  
 kote : takki  
 koy ren : joku  
@@ -1755,6 +1754,7 @@ rwanda : Ruanda
 ##s  
 sa : lähtien (-sta, -lta)  
 sabun : saippua  
+sabze : kasvis  
 sadi : koruton (tavanomainen, pelkkä)  
 safa : puhdistaa (siivota)  
 safar : matka (reissu)  
@@ -1800,6 +1800,7 @@ sar : pää
 saudar : sisarus (veli tai sisko)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
+saye : varjo  
 se : itse  
 sekreter : sihteeri  
 sekreteria : sihteeristö  
@@ -2163,6 +2164,8 @@ xudu : pitäisi
 xula : korjata  
 xule : korjaus  
 xuler : korjaaja  
+xute : taito  
+xuti : taitava  
 xuxe : lepo  
 ##y  
 yada : muistaa  

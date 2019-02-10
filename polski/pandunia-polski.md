@@ -54,8 +54,11 @@ angolia : Angola
 anima : animować  
 anime : animacja  
 anjil : ewangelia  
+anta : sprzeciwiać się (opierać się)  
 antartia : Antarktyka  
 anten : antena  
+anter : przeciwnik (antagonista)  
+anti : przeciwstawny (naprzeciw, naprzeciwko, anty-)  
 anus : odbyt  
 anusi : analny, odbytni  
 aple : jabłko  
@@ -66,6 +69,7 @@ arane : pająk
 arani fobia : arachnofobia  
 aranje : pomarańcza  
 aranji : pomarańczowy  
+arbe gardin : arboretum  
 arbe : drzewo  
 arbuze : arbuz  
 are : pole, powierzchnia  
@@ -255,13 +259,10 @@ buton : klawisz, przycisk, przełącznik
 buyu' : baobab  
 buze : koza  
 ##c  
-ca kupe : kubek do herbaty  
-ca wan : misa na herbatę  
-ca : herbata  
 cabe : klucz  
 cadia : Czad  
+cake : nóż  
 cakre : koło  
-caku' : nóż  
 camce : łyżka  
 campion : czempion  
 cang : często  
@@ -272,8 +273,9 @@ capa : naciskać, zostawiać ślad
 cape : odcisk, ślad; stempel, pieczęć  
 car : cztery (4)  
 cate : dach  
-cay : warzywo  
-caye : cień  
+cay kupe : kubek do herbaty  
+cay wan : misa na herbatę  
+cay : herbata  
 ce : ten konkretny  
 cehia : Republika Czeska, Czechy  
 ceka : sprawdzić, sprawdzać, skontrolować  
@@ -295,18 +297,18 @@ cita : cytować
 coda : jebać, kopulować  
 cokolate baton : baton czekoladowy  
 cokolate : czekolada  
+cor : kradzież  
+cora : ukraść, kraść  
+corer : złodziej  
 cula : pominąć, wyłączyć; poza, oprócz  
 cum : całus  
 cune : wiosna  
-cunza : wybrać, wybierać, selekcjonować  
-cunze : wybór, elekcja, selekcja  
 cupa : ssać  
-cur : kradzież  
-cura : ukraść, kraść  
-curer : złodziej  
 cuta : wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 cute mun : drzwi wyjściowe  
 cute : wyjśćie, opuszczenie  
+cuza : wybrać, wybierać, selekcjonować  
+cuze : wybór, elekcja, selekcja  
 ##d  
 da : mieć (partykuła posiadania)  
 dado' : kość do gry  
@@ -631,7 +633,6 @@ guatemala : Gwatemala
 gubu' : hipopotam  
 gujarati : Gudżarat  
 gun : cecha, atrybut, własność; -ość  
-gung fu : kung fu  
 guru' : guru, mentor, mistrz  
 gurube manse : wieprzowina  
 gurube : świnia  
@@ -785,6 +786,8 @@ jan : wiedza
 jana : wiedzieć  
 janel : okno  
 jangal : las, dżungla, zagajnik  
+janger : rzemieślnik  
+jangi : umiejętny (sprawny, zręczny)  
 jani : wiadomy, znany  
 jar : dzban, dzbanek; słój, słoik  
 jawaba : odpowiedzieć, odpowiadać  
@@ -884,6 +887,7 @@ kanu' : kanoe
 kanun : prawo  
 kapa : złapać, łapać, schwytać, chwytać  
 kapitan : kapitan  
+kar parke : parking  
 kar : wóz, wózek  
 karaoke : karaoke  
 karate : karate  
@@ -900,7 +904,7 @@ kartun : komiks; kreskówka
 kastan : kasztan  
 kastor : bóbr  
 kata : ciąć  
-katalunya : Katalonia  
+katalunia : Katalonia  
 katan : miecz  
 kataria : Katar  
 kaway : uroczy, słodki  
@@ -986,8 +990,8 @@ komuniste : komunista
 komunistia : komunizm  
 kon : kąt  
 koncung : owad  
-kong fuze : Konfucjusz  
-kong fuzistia : konfucjanizm  
+konfuze : Konfucjusz  
+konfuzistia : konfucjanizm  
 kong : dziura  
 kongoli : kongijski  
 konkani : konkani  
@@ -1007,8 +1011,8 @@ korta : skrócić, skracać
 korti : krótki  
 kos : kaszel; kaszlnięcie  
 kosmos : kosmos, wszechświat  
-kosta rika : Kostaryka  
 kosta : kosztować  
+kostarikia : Kostaryka  
 koste : koszt, cena  
 kote : płaszcz  
 koy ren : ktoś  
@@ -1075,6 +1079,7 @@ laxa : puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać
 laya : przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 lekse : słowo  
 leksem : leksem  
+leksia : słownictwo  
 leng : zimny, chłodny  
 lenxa : ćwiczyć  
 lete : lato  
@@ -1122,6 +1127,7 @@ long : długi
 longa : przedłużyć, przedłużać  
 longe : długość  
 lose : śruba, wkręt  
+lote : działka (teren)  
 lote : wsad, partia, porcja, seria  
 lowa sang : krwawić  
 lowa : przeciekać, ciec  
@@ -1260,6 +1266,7 @@ mes 9 (mes noy) : grudzień
 mes : miesiąc  
 mesaja : zakomunikować (zanieść wieści, poinformować)  
 mesaje : wiadomość  
+metal janger : kowal  
 metal : metal  
 metode : metoda, sposób  
 metre : metr  
@@ -1310,6 +1317,8 @@ mixer : mikser, blender, robot kuchenny
 mode : moda, trend  
 model : model, wzór, wzorzec, projekt  
 moge : tusz  
+moke janger : stolarz  
+moke : drewno  
 mola : zemleć, mleć, mielić  
 moldovia : Mołdawia  
 moler : młynarz  
@@ -1535,6 +1544,7 @@ parce : część (fragment, strzęp, kawałek, okruch)
 parci : stłuczony (pęknięty)  
 parde : zasłona, kurtyna  
 pardon : przepraszam!  
+parke : park (ogród)  
 parta : uczestniczyć, wziąć udział, brać udział  
 parter : uczestnik  
 partia : partia  
@@ -1780,6 +1790,7 @@ rwanda : Rwanda
 sa : z, od  
 sabate : szabat, szabas  
 sabun : mydło  
+sabze : warzywo  
 sadi : zwykły, zwyczajny, prosty  
 safa : wyczyścić, czyścić  
 safar : podróż  
@@ -1830,6 +1841,7 @@ sar : głowa
 saudar : rodzeństwo, brat lub siostra  
 saudi arabia : Arabia Saudyjska  
 sauna : sauna  
+saye : cień  
 se : sam, siebie  
 seaborgium : seaborg  
 sekreter : sekretarz  
@@ -2051,6 +2063,8 @@ toca : dotyczyć
 tofu' : tofu  
 togoli : togijski  
 togolia : Togo  
+tokse : trucizna (toksyna)  
+toksi : toksyczny (trujący)  
 tolera : tolerować  
 tolo : bąk, bączek  
 tomate : pomidor  

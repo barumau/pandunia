@@ -456,9 +456,9 @@ the word order is not affected by the **ke**.
 **mi wol nyama kafe.**
 I want to drink coffee.
 
-**eska tu wol nyama ca?**
+**eska tu wol nyama cay?**
 Would you like to drink tea?  
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wol cay. mi wol kafe.**
 No, I don't want tea. I want coffee.
 
 **tu wol ki aple?**
@@ -468,7 +468,7 @@ This red one.
 
 ### bita <small>request, please</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 I ask you to drink tea.
 
 **mi bita tu laya dom.**
@@ -479,7 +479,7 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Please, have some tea!
 
 **bita nyama kafe.**
@@ -1010,7 +1010,7 @@ example.
 **bax** language; communication <small>(Hindi _bhāśā_ भाषा)</small>  
 **baxa** speak, communicate  
 **bon** good <small>(French _bon_)</small>  
-**ca** tea <small>(Mandarin _chá_ 茶)</small>  
+**cay** tea <small>(Mandarin _chá_ 茶)</small>  
 **ce** this one</small>  
 **ci** this; these</small>  
 **bita** ask, request <small>(Mandarin _qǐng_ 请)</small>  

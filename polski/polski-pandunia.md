@@ -45,6 +45,7 @@ Antyle Holenderskie : nederlandi antilia
 Arabia Saudyjska : saudi arabia  
 arabski : arabi  
 arachnofobia : arani fobia  
+arboretum : arbe gardin  
 arbuz : arbuze  
 archipelag : nesia  
 Argentyna : argentin  
@@ -223,7 +224,7 @@ ciepły : garmi
 cierpienie, ból : paxia  
 cierpieć : paxu  
 cieszyć, podobać się : suka  
-cień : caye  
+cień : saye  
 ciągnąć : tira  
 ciąć : kata  
 cmentarz : gabre stan  
@@ -314,6 +315,7 @@ dowieść, dowodzić; zeznać, zeznawać : dalila
 dowód; zeznanie : dalil  
 dowódca, kierownik : lider  
 dramat : drame  
+drewno : moke  
 droga, szosa, ulica : daw  
 drożdże : hamir  
 drużyna : tim  
@@ -334,6 +336,7 @@ dyskutoać, twierdzić : tesa
 dysproz : disprosium  
 dystans : tele  
 dzban, dzbanek; słój, słoik : jar  
+działka (teren) : lote  
 działo : kanon  
 dziecko, potomek : bace  
 dzielić : fena  
@@ -522,7 +525,7 @@ hebel, strug : rander
 heblować : randa  
 hebrajski : ibri  
 hel : helium  
-herbata : ca  
+herbata : cay  
 heteroseksualny : ali jinse kami  
 hełm : helme  
 Himalaje : himalia  
@@ -665,7 +668,7 @@ kartka (dokument) : warke
 kasjer : kaxer  
 kaszel; kaszlnięcie : kos  
 kasztan : kastan  
-Katalonia : katalunya  
+Katalonia : katalunia  
 Katar : kataria  
 kawa : kafe  
 kawiarnia : kafe kan  
@@ -729,8 +732,8 @@ komputer : komputer
 komunista : komuniste  
 komunizm : komunistia  
 komórka (biologia) : sel  
-konfucjanizm : kong fuzistia  
-Konfucjusz : kong fuze  
+konfucjanizm : konfuzistia  
+Konfucjusz : konfuze  
 kongijski : kongoli  
 koniec : fin  
 konkani : konkani  
@@ -747,12 +750,13 @@ Korea Południowa : hangogia
 korona : koron  
 korzeń : gen  
 kosmos, wszechświat : kosmos  
-Kostaryka : kosta rika  
+Kostaryka : kostarikia  
 kosz : baske  
 koszt, cena : koste  
 kosztować : kosta  
 koszula : kamis  
 kot : maw  
+kowal : metal janger  
 koza : buze  
 koło : cakre  
 koło, okrąg : cirke  
@@ -760,7 +764,7 @@ koń : uma
 kościół : eglis  
 kość : oste  
 kość do gry : dado'  
-kradzież : cur  
+kradzież : cor  
 kraj, ziemia : dex  
 kran; korek, zatyczka, szpunt : tape  
 kredens (szafa, szafka) : almar  
@@ -796,13 +800,12 @@ ktoś : koy ren
 który? : ki  
 Kuba : kuba  
 kubek : kupe  
-kubek do herbaty : ca kupe  
+kubek do herbaty : cay kupe  
 kucharz : kuker  
 kuchnia : kuke kamar  
 kukurydza : mais  
 kultura : kultur  
 kumin, kmin : ziran  
-kung fu : gung fu  
 kupon : kupon  
 kura, kogut, kurczak : koke  
 kurtka : jake  
@@ -972,7 +975,7 @@ ministry : ministeria
 minuta : minut  
 minąć, mijać (czas) : duru  
 minąć, mijać, przeminąć, przemijać : pasa  
-misa na herbatę : ca wan  
+misa na herbatę : cay wan  
 misa, kubek bez ucha : wan  
 misja : misia  
 mit, boska opowieść : dewi sage  
@@ -1128,7 +1131,7 @@ nudysta : nudiste
 nudyzm : nudistia  
 numer : num  
 nylon : nilon  
-nóż : caku'  
+nóż : cake  
 o! : o  
 ##o  
 oaza : wase  
@@ -1242,6 +1245,8 @@ Papua Nowa Gwinea : papua nowi ginia
 papuga : papagay  
 paragon, pokwitowanie : reside  
 Paragwaj : paraguay  
+park (ogród) : parke  
+parking : kar parke  
 partia : partia  
 Partia Piratów : piratisti partia  
 pas, strefa : zon  
@@ -1468,6 +1473,8 @@ przebudzony, przytomny : weki
 przechowawca, kustosz, opiekun : hafizer  
 przeciekać, ciec : lowa  
 przecinek : koma'  
+przeciwnik (antagonista) : anter  
+przeciwstawny (naprzeciw, naprzeciwko, anty-) : anti  
 przedpołudnie : sube den  
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
@@ -1622,6 +1629,7 @@ ryzykowny : riski
 ryż : ris  
 rzecz : xey  
 rzeka : nade  
+rzemieślnik : janger  
 rzodkiewka : lobak  
 rzucić, rzucać, miotać, cisnąć, ciskać : lanca  
 Rzym : rome  
@@ -1734,6 +1742,7 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać : genca
 sprawiedliwość : adalia  
 sprawiedliwy : adali  
 sprawić ból, sprawiać ból : paxa  
+sprzeciwiać się (opierać się) : anta  
 sprzątacz, sprzątacz : safer  
 spróbować, próbować : proba  
 spód : nice  
@@ -1753,6 +1762,7 @@ statyczny, stacjonarny, nieruchomy : stasi
 stać : libu  
 sterować : gida  
 sto (##) : hon  
+stolarz : moke janger  
 stop; przerwa, zatrzymanie : ting  
 stopa : pede  
 stopień, poziom, ranga, klasa : darje  
@@ -1828,6 +1838,7 @@ słodki ziemniak : kamote
 Słowacja : slowakia  
 Słowenia : slowenia  
 słowik : bulbul  
+słownictwo : leksia  
 słowo : lekse  
 słoń : gaje  
 słońce : sol  
@@ -1890,6 +1901,7 @@ toczyć, turlać : rula
 tofu : tofu'  
 togijski : togoli  
 Togo : togolia  
+toksyczny (trujący) : toksi  
 tolerować : tolera  
 ton, dźwięk, nuta, tonacja : ton  
 tor : torium  
@@ -1899,6 +1911,7 @@ totalny, ogólny : total
 trawa : gras  
 treść (zawartość) : ten  
 trochę; nieokreślony, nieograniczony, nieokreślony : fulan  
+trucizna (toksyna) : tokse  
 trwanie : dur  
 trwać, zająć czas; przez : dura  
 Trynidad i Tobago : trinida i tobago  
@@ -1950,10 +1963,11 @@ uczeń, student : darse bace
 Uganda : gandia  
 ugotować się, gotować się : bulu  
 Ukraina : ukraina  
-ukraść, kraść : cura  
+ukraść, kraść : cora  
 ukształtować, kształtować, urzeźbić, rzeźbić : forma  
 układ słoneczny : sol sistem  
 uleczyć, leczyć, uzdrowić, uzdrawiać : medika  
+umiejętny (sprawny, zręczny) : jangi  
 umieścić (postawić) : loka  
 umrzeć, umierać : mortu  
 unia : unia  
@@ -2003,7 +2017,7 @@ warga : labe
 warsztat szewski : sapateria  
 warsztat, pracownia; miejsce na ... : kan  
 warunek : xarte  
-warzywo : cay  
+warzywo : sabze  
 wat : wate  
 Watykan, Państwo Watykańskie : vatikan  
 waza, garnek, gar, doniczka, słoik, słój : pote  
@@ -2088,8 +2102,8 @@ wszyscy, wszystkie, wszystko; każdy : pan
 wszystko : mey xey  
 wtorek : war 2 (war du)  
 wy, was : tumen  
-wybrać, wybierać, selekcjonować : cunza  
-wybór, elekcja, selekcja : cunze  
+wybrać, wybierać, selekcjonować : cuza  
+wybór, elekcja, selekcja : cuze  
 wycie, skowyt : ulul  
 wyczyścić, czyścić : safa  
 wydarzenie, przypadek, sytuacja : kaze  
@@ -2241,7 +2255,7 @@ zyskać, zyskiwać, zarobić, zarabiać : ganya
 ząb : dante  
 zęwnętrzny : waye  
 złapać, łapać, schwytać, chwytać : kapa  
-złodziej : curer  
+złodziej : corer  
 złoto : gim  
 złośliwy, okrutny : zalim  
 zły (wsciekły, gniewny) : furi  

@@ -101,7 +101,7 @@ ash tree : yasen
 Asia : asia  
 Asian : asi  
 ask (inquire) : eska  
-ask (request; please) : bita  
+ask (request, beg; please) : bita  
 asparagus : lusun  
 aspirin : aspirin  
 Assur : axur  
@@ -331,7 +331,7 @@ cash box : kax
 cashier : kaxer  
 cassava (manioc) : manioke  
 cat : maw  
-Catalonia : katalunya  
+Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
 cause : karenu  
 cave : gua  
@@ -377,10 +377,10 @@ chinchilla : cincil
 chlorine : klor  
 chocolate : cokolate  
 chocolate bar : cokolate baton  
-choice (election, selection) : cunze  
+choice (election, selection) : cuze  
 choir (chorus) : kor  
 cholera : koler  
-choose (elect, select) : cunza  
+choose (elect, select) : cuza  
 Christ (messiah) : kriste  
 Christian : krististe  
 Christianity : krististia  
@@ -446,8 +446,8 @@ conceptual : idi
 concrete (material with cement) : beton  
 condition (requirement) : xarte  
 cone : konus  
-Confucianism : kong fuzistia  
-Confucious : kong fuze  
+Confucianism : konfuzistia  
+Confucious : konfuze  
 Congo (Brazzaville) : brazavil kongolia  
 Congo Kinshasa : kinsasa kongolia  
 Congolese : kongoli  
@@ -475,7 +475,7 @@ corner (angle) : kon
 correct (make right) : saha  
 cost (price) : koste  
 cost : kosta  
-Costa Rica : kosta rika  
+Costa Rica : kostarikia  
 cotton : goton  
 cough : kos  
 country (land) : dex  
@@ -879,6 +879,7 @@ Haiti : haitia
 halo : halos  
 hammer : hamar  
 hammock : hamake  
+Han Chinese : han  
 hand : hande  
 hang (dangle) : penda  
 happy (delighted) : suki  
@@ -1069,7 +1070,7 @@ kiss : cum
 kitchen : kuke kamar  
 kiwi fruit : kiwe  
 knead (massage) : masaja  
-knife : caku'  
+knife : cake  
 knot (node; tie) : node  
 know : jana  
 knowledge : jan  
@@ -1077,7 +1078,6 @@ known : jani
 Konkani : konkani  
 Korea (South) : hangogia  
 krypton : kriton  
-kung fu : gung fu  
 Kuwait : kuwaitia  
 Kyrgyzstan : kirgizia  
 ##l  
@@ -1209,6 +1209,7 @@ married : mari
 marry : mara  
 Mars : marse  
 marsh (bog, swamp, morass) : bloti stan  
+martial art : jengi xute  
 mask (camouflage) : maske  
 mass (dough, lump) : mas  
 massage : masaje  
@@ -1825,7 +1826,7 @@ sex (sexual intercourse) : sekse
 sexual (relating to gender) : jinsi  
 sexy (sexual) : seksi  
 Seychelles : sexel nesia  
-shadow : caye  
+shadow : saye  
 shaman : xaman  
 shampoo : xampu'  
 shape (sculpt) : forma  
@@ -1859,6 +1860,8 @@ Singapore : singapur
 sit : sida  
 six (6) : sis  
 sizzle : ziza  
+skill (art, competence) : xute  
+skillful : xuti  
 skin : pifu'  
 skirt : jupe  
 skull : sar oste  
@@ -1933,7 +1936,7 @@ stand still : stasa
 star : xing  
 static (stationary) : stasi  
 station : stasia  
-steal : cura  
+steal : cora  
 steamed bun (mantou, manti) : mante  
 steer : gida  
 step (degree, rank, grade, level, class) : darje  
@@ -2030,9 +2033,9 @@ taste like : gustu ka
 tattoo : tatu  
 tax (fee, fare) : takse  
 taxi : taksi  
-tea : ca  
-tea bowl : ca wan  
-tea cup : ca kupe  
+tea : cay  
+tea bowl : cay wan  
+tea cup : cay kupe  
 teacher : darse guru'  
 team : tim  
 tear drop : yen suy  
@@ -2060,7 +2063,7 @@ thanks (thank you) : danke
 that (those) : di  
 that is (in other words, i.e.) : yani  
 that one : de  
-theft : cur  
+theft : cor  
 theism : dewistia  
 theist : dewiste  
 theology : dew lojia  
@@ -2068,7 +2071,7 @@ theory : teoria
 there : na de  
 they : yemen  
 thick : gros  
-thief : curer  
+thief : corer  
 thing : xey  
 think (ponder, reflect) : fikra  
 this (these) : ci  
@@ -2191,7 +2194,7 @@ Vanuatu : vanuatu
 vase (flower pot) : pul waze  
 vase (pot, bin, jar, jug) : pote  
 vase (pot, bin, jar, jug) : waze  
-vegetable : cay  
+vegetable : sabze  
 Venezuela : venesuela  
 veranda (balcony, terrace, porch) : berande  
 verb : fati lekse  
