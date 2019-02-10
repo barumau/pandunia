@@ -13,12 +13,13 @@ eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html
 
 
 * [abace](abc.md)
-* histor
+* kitabe
   * [lil urse da dante tung](baru_dante.md)
   * [sam lil gurube](3_lil_gurube.md)
   * [sam buze i guy](3_buze_i_guy.md)
   * [piper i karote](piper_i_karot.md)
   * [insan da putong hake](putong_hake.md)
+  * [dini kitabe](dini_kitabe.md)
 * [filme](filme.md)
 * loge liste
   * [dunia loge](lekse/dunia_loge.html)
