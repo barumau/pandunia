@@ -450,7 +450,7 @@ Bazaj reguloj
     - ekz. **mi bita tu dona pese.** = Mi petas vin (por) doni monon.
 9. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Ĉu vi parolas pandunion?
-    - **mi bita tu loga klar.** →  **cing loga klar.** = Bonvolu paroli klare.
+    - **mi bita tu loga klar.** →  **bita loga klar.** = Bonvolu paroli klare.
 
 
 Vortospecoj
@@ -724,7 +724,7 @@ La unua variaĵo de la ĉarnira konstruo estas kreata per forigo de la unua subj
 La dua variaĵo forigas ankaŭ la duan subjekton, kiu montras memkompreneble la aŭskultanton.
 
 > **mi bita tu enda dom.** - Mi petas vin iri hejmen.  
-> **cing enda dom.** - Bonvolu iri hejmen.
+> **bita enda dom.** - Bonvolu iri hejmen.
 
 
 

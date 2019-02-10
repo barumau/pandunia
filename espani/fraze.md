@@ -471,16 +471,16 @@ Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Por favor, bebe/beban té.
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Por favor, bebe/beban café.
 
-**cing laya dom.**
+**bita laya dom.**
 Por favor, ven/vengan a casa.
 
-**cing helpa mi.**
+**bita helpa mi.**
 Por favor, ayúdame/ayúdenme.
 
 ### danke <small>gracias</small>
@@ -609,7 +609,7 @@ El gato dice miau.
 **mi no ken auda tu.**
 No puedo oírte.
 
-**cing loga forti.**
+**bita loga forti.**
 Por favor, hablar más fuerte.
 
 **mi auda musike.**
@@ -648,10 +648,10 @@ No entiendo qué significa.
 
 ### kitaba <small>escribir</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 Por favor, escribe tu dirección.
 
-**cing kitaba ye na ce.**
+**bita kitaba ye na ce.**
 Por favor, escríbelo aquí.
 
 ### baxa <small>hablar un idioma, comunicar</small>
@@ -701,7 +701,7 @@ Vamos caminando.
 
 ### laya <small>venir</small>
 
-**cing laya!**
+**bita laya!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **tu lay ze ke?**
@@ -767,7 +767,7 @@ es necesario.
 
 ### denga <small>esperar</small>
 
-**cing denga!**
+**bita denga!**
 ¡Por favor, espera!
 
 **yemen denga mimen.**
@@ -780,10 +780,10 @@ Te espero en el hotel.
 
 ### dona <small>dar</small>
 
-**cing dona pese.**
+**bita dona pese.**
 Por favor da dinero.
 
-**cing dona ye to mi.**
+**bita dona ye to mi.**
 Por favor dame eso.
 
 **mi dona ce to tu.**
@@ -800,7 +800,7 @@ Le doy un libro a ellos/as.
 **mi toma un kafe.**
 Voy a tomar un café.
 
-**cing toma un kafe to mi.**
+**bita toma un kafe to mi.**
 Por favor toma un café para mí.
 
 **tu pas toma pese ze mi.**
@@ -946,7 +946,7 @@ lista de palabras como ejemplo.
 **blu** azul <small>(Inglés _blue_)</small>  
 **bon** bien, bueno <small>(Francés _bon_)</small>  
 **ca** té <small>(Mandarín _chá_ 茶)</small>  
-**cing** pregunta, solicitud <small>(Mandarín _qǐng_ 请)</small>  
+**bita** pregunta, solicitud <small>(Mandarín _qǐng_ 请)</small>  
 **den** día <small>(Ruso _den'_ день)</small>  
 **dom** hogar, residencia, casa <small>(Ruso _dom_ дом)</small>  
 **doma** vivir, residir 

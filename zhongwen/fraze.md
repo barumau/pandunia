@@ -253,7 +253,7 @@ We greet you.
 **bay** 白色 <small>(普通话 _bái_ 白)</small>  
 **bon** 好 <small>(法语 _bon_)</small>  
 **ca** 茶 <small>(普通话 _chá_ 茶)</small>  
-**cing** 请 <small>(普通话 _qǐng_ 请)</small>  
+**bita** 请 <small>(普通话 _qǐng_ 请)</small>  
 **den** 天 <small>(俄语 _den'_ день)</small>  
 **dom** 房子 <small>(俄语 _dom_ дом)</small>  
 **eska** 问，问题 <small>(法语 _est-ce que_)</small>  

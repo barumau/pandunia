@@ -137,10 +137,10 @@ Proszenie
 ☻: **salam!** = Cześć!  
 ☺: **salam! bita sida.** = Cześć! Proszę, usiądź!  
 ☻: **danke.** = Dziękuję.  
-☺: **cing nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
+☺: **bita nyama kafe u ca.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama ca. danke.** = Napiję się herbaty, dziękuję.  
 ...  
-☺: **cing salama tu da mamá!** = Proszę pozdrów twoją matkę.  
+☺: **bita salama tu da mamá!** = Proszę pozdrów twoją matkę.  
 ☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
 ☺: **salam!** = Cześć!
 
@@ -151,7 +151,7 @@ Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **ye** = on, ona, ono. 
 
 > **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
 
-Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **cing** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **bita** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
@@ -160,17 +160,17 @@ Struktura osiowa jest powszechną strukturą w Panduni.
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
 > **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
-> **cing salama ye.** = Proszę, pozdrów go/ją.
+> **bita salama ye.** = Proszę, pozdrów go/ją.
 
-Zdanie **cing salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+Zdanie **bita salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-> **cing sida.** = Proszę, usiąść.  
-> **cing dona kafe.** = Proszę, podaj kawę.  
-> **cing dona ca.** = Proszę, podaj herbatę.  
-> **cing nyama ca.** = Proszę, pij herbatę.  
-> **cing safa kamar.** = Proszę, sprzątaj pokój.
+> **bita sida.** = Proszę, usiąść.  
+> **bita dona kafe.** = Proszę, podaj kawę.  
+> **bita dona ca.** = Proszę, podaj herbatę.  
+> **bita nyama ca.** = Proszę, pij herbatę.  
+> **bita safa kamar.** = Proszę, sprzątaj pokój.
 
-Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **cing**.
+Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **bita**.
 
 > **manda dona ca.** = Daj (mi) herbatę!  
 > **manda safa kamar.** = Sprzątaj pokój!
@@ -193,7 +193,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**ca** herbata. **cing** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**ca** herbata. **bita** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -229,7 +229,7 @@ Pytania "tak lub nie"
 
 ### Zadawanie pytań
 
-Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **cing**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **bita**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
 > **mi eska tu nyama ca.** = Ja pytam cię, czy napijesz się herbaty.  
 > **eska tu nyama ca?** = Czy pijesz herbatę?  

@@ -22,7 +22,7 @@ Cette grammaire traite du types des mots et des différentes façons d'ordonner 
     - ex. **mi bita tu dar pesa.** = Je te demande de me donner de l'argent.
 9. Les pronoms peuvent être omis quand ils sont évidents et redondants.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Parles-tu Pandunia?
-    - **mi bita tu loga klar.** →  **cing loga klar.** = S'il te plait, parles plus clairement.
+    - **mi bita tu loga klar.** →  **bita loga klar.** = S'il te plait, parles plus clairement.
 
 
 

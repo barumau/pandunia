@@ -507,16 +507,16 @@ Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Un thé, s’il vous plait !
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Un café, s’il vous plait!
 
-**cing laya dom.**
+**bita laya dom.**
 Viens à la maison, s’il te plait !
 
-**cing helpa mi.**
+**bita helpa mi.**
 Aide moi, s’il te plait.
 
 
@@ -661,7 +661,7 @@ Un chat dit miaou.
 **mi no ken auda tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**cing loga forti.**
+**bita loga forti.**
 Parlez plus fort, s’il vous plait.
 
 **mi auda musike.**
@@ -703,10 +703,10 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitaba <small>écrire</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 S’il te plait, écris ton adresse.
 
-**cing kitaba ye na li.**
+**bita kitaba ye na li.**
 S’il te plait, écris-le là !
 
 
@@ -759,7 +759,7 @@ On y va à pied !
 
 ### laya <small>venir</small>
 
-**cing laya!**
+**bita laya!**
 Viens ici !
 
 **tu laya ze ke?**
@@ -828,7 +828,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### denga <small>attendre</small>
 
-**cing denga!**
+**bita denga!**
 Veuillez attendre !
 
 **yemen denga mimen.**
@@ -845,10 +845,10 @@ Je t’attends à l’hôtel.
 
 ### dona <small>donner</small>
 
-**cing dona pese.**
+**bita dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**cing dona ye to mi.**
+**bita dona ye to mi.**
 Donne-le moi, s’il te plait.
 
 **mi dona ce to tu.**
@@ -866,7 +866,7 @@ Il/elle ne veut pas me le donner.
 **mi toma un kafe.**
 Je vais prendre un café.
 
-**cing toma un kafe to mi.**
+**bita toma un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
 **tu pas toma pese ze mi.**
@@ -1020,7 +1020,7 @@ Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
 **blu** bleu <small>(Anglais _blue_)</small>  
 **bon** bon  
 **ca** thé <small>(Mandarin _chá_ 茶)</small>  
-**cing** demander quelque chose <small>(Allemand _bitten_)</small>  
+**bita** demander quelque chose <small>(Allemand _bitten_)</small>  
 **den** jour <small>(Russe _den'_ день)</small>  
 **dom** maison <small>(Russe _dom_ дом)</small>  
 **doma** vivre, habiter, résider  

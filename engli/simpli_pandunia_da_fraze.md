@@ -192,11 +192,11 @@ The cat wants to catch that big mouse.
 _My request, your arrival, our home._  
 I request you to come to our house.
 
-**cing tu lay mimen dom.**  
+**bite tu lay mimen dom.**  
 _Request, your arrival, our home._  
 Please, you, come to our house.
 
-**cing: lay mimen dom.**  
+**bite: lay mimen dom.**  
 _Request, arrival, our home._  
 Please, come to our house.
 

@@ -54,7 +54,7 @@ These are the 11 basic rules of Pandunia language.
 10. Pronouns can be left out when they are obvious and redundant.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Do
       you speak Pandunia?
-    - **mi bita tu loga ming.** →  **cing loga ming.** = Please speak
+    - **mi bita tu loga ming.** →  **bita loga ming.** = Please speak
       clearly.
 11. Derived words carry an ending. Adjectives end in -i, nouns end in
     -e, and verbs end in -a or -u.
@@ -620,7 +620,7 @@ This is done especially in commands and requests.
 #### 7.8.2. Short pivot structure (VVO)
 
 > **mi bita tu laya dom.** - I ask you to come home.  
-> **cing laya dom!** - Please come home! (Literally: _Request come home!_)
+> **bita laya dom!** - Please come home! (Literally: _Request come home!_)
 
 --------------------------------------------------------------------------------
 

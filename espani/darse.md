@@ -167,12 +167,12 @@ Pidiendo
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **cing nyama kafe u ca.**
+☺: **bita nyama kafe u ca.**
 = Por favor tiene algo de café o té.  
 ☻: **mi nyama ca. danke.**
 = Tengo té, gracias.  
 ...  
-☺: **cing salama tu da mame!**
+☺: **bita salama tu da mame!**
 = Por favor llevale saludos a tu madre.  
 ☻: **mi salama ye. salam!**
 = Yo la saludo. ¡Adiós!  
@@ -186,7 +186,7 @@ Pidiendo
 
 > **mi bita tu salama ye.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
-Esta oración es una _oración eje_. El primer verbo, **cing** = pedir, se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve también como el sujeto del segundo verbo, **salama** = saludar, del cual su objeto es **ye**. Así **tu** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
+Esta oración es una _oración eje_. El primer verbo, **bita** = pedir, se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve también como el sujeto del segundo verbo, **salama** = saludar, del cual su objeto es **ye**. Así **tu** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
 
 > Oración eje: Sujeto + Verbo¹ + Objeto/Sujeto + Verbo² + Objeto
 
@@ -195,24 +195,24 @@ La oración eje es una estructura común en Pandunia.
 Recordemos que se permite dejar por fuera pronombres que se conocen en el contexto. En otras palabras, el hablante puede asumir con seguridad que los oyentes saben de lo que él o ella está hablando. Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se pueden hacer frases más cortas. 
 
 > **mi bita tu salama ye.** = Yo te pido digas hola a él.
-> **cing salama ye.** = Por favor dile hola.
+> **bita salama ye.** = Por favor dile hola.
 
-¿Vea cómo la traducción de **cing** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
+¿Vea cómo la traducción de **bita** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
-La frase **cing salama ye** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
+La frase **bita salama ye** tiene un patrón útil que puede ser utilizado para hacer peticiones corteses.
 
-**cing sida.**
+**bita sida.**
 = Por favor sientese.  
-**cing dona kafe.**
+**bita dona kafe.**
 = Por favor me da un poco de café.  
-**cing dona ca.**
+**bita dona ca.**
 = Por favor me da un poco de té.  
-**cing nyama ca.**
+**bita nyama ca.**
 = Por favor tiene algo de té.  
-**cing safa kamar.**
+**bita safa kamar.**
 = Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **cing**.
+Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **bita**.
 
 > **orda dona ca.**
 = ¡Deme un poco de té!
@@ -241,7 +241,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Vocabulario
 
 **ca** té.
-**cing** pedir, solicitar; por favor.
+**bita** pedir, solicitar; por favor.
 **dona** dar.
 **danke** gracias.
 **i** y.
@@ -298,7 +298,7 @@ Preguntas de Sí o No
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **bita**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
 **mi eska tu nyama ca.**
 = Yo preguntarte, tomas té.  

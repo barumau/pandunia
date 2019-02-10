@@ -142,10 +142,10 @@ Formuler des demandes
 ☻: **salam!** = Bonjour !  
 ☺: **salam! bita sida.** = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.** = Merci.  
-☺: **cing nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
+☺: **bita nyama kafe u ca.** = Prenez du thé ou du café, je vous prie
 ☻: **mi nyama ca. danke.** = Je prends du thé, merci.  
 ...
-☺: **cing salama tu da mamá!** = S'il te plaît, salut ta mère.  
+☺: **bita salama tu da mamá!** = S'il te plaît, salut ta mère.  
 ☻: **mi salama ye. salam!** = Je la saluerai. Au revoir !  
 ☺: **salam!** = Au revoir !
 
@@ -156,7 +156,7 @@ Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu, et **ye** = 
 
 > **mi bita tu salama ye.** = Je te demande de le/la saluer.
 
-Cette phrase a une _structure pivot_. Le premier verbe **cing** (demander) s'adresse à **tu** comme objet. Dans le même temps **tu** sert également de sujet au deuxième verbe **salama** (saluer) dont l'objet est **ye**. Ainsi **tu** a un double rôle : (1) objet du premier verbe et (2) sujet du second verbe. C'est donc le pivot ou la charnière entre les deux verbes.
+Cette phrase a une _structure pivot_. Le premier verbe **bita** (demander) s'adresse à **tu** comme objet. Dans le même temps **tu** sert également de sujet au deuxième verbe **salama** (saluer) dont l'objet est **ye**. Ainsi **tu** a un double rôle : (1) objet du premier verbe et (2) sujet du second verbe. C'est donc le pivot ou la charnière entre les deux verbes.
 
 > Stucture Pivot : Sujet+ Verbe¹ + Objet/Sujet + Verbe² + Objet
 
@@ -165,19 +165,19 @@ La structure pivot est une structure commune en Pandunia.
 Rappelez-vous qu'il est permis d'omettre les pronoms connus dans le contexte. En d'autres termes, le locuteur peut supposer que les auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les répéter sans cesse. De cette manière, les phrases peuvent être raccourcies.
 
 > **mi bita tu salama ye.** = Je te demande de le/la saluer.  
-> **cing salama ye.** = S'il te plaît salue le/la.
+> **bita salama ye.** = S'il te plaît salue le/la.
 
-Avez-vous noté comment la traduction de **cing** a changé entre les deux phrases ? Le sens du mot - le concept -, n'a pas changé, c'est son utilisation qui a changé. Le français reflète ce changement en utilisant des mots différents : "demander" et "s'il vous plaît". Le Pandunia peut faire face à de tels changements sans avoir recours à des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactement un mot pour un concept. On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
+Avez-vous noté comment la traduction de **bita** a changé entre les deux phrases ? Le sens du mot - le concept -, n'a pas changé, c'est son utilisation qui a changé. Le français reflète ce changement en utilisant des mots différents : "demander" et "s'il vous plaît". Le Pandunia peut faire face à de tels changements sans avoir recours à des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactement un mot pour un concept. On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
-La phrase **cing salama ye** est un modèle très utile pour les formules de politesses.
+La phrase **bita salama ye** est un modèle très utile pour les formules de politesses.
 
-> **cing sida.** = Asseyez-vous s'il vous plaît..  
-> **cing dona kafe.** = S'il vous plaît, donnez-moi du café.  
-> **cing dona ca.** = S'il vous plaît, donnez-moi du thé. 
-> **cing nyama ca.** = S'il vous plaît, prenez un peu de thé.  
-> **cing safa kamer.** = Nettoyez la chambre s'il vous plaît
+> **bita sida.** = Asseyez-vous s'il vous plaît..  
+> **bita dona kafe.** = S'il vous plaît, donnez-moi du café.  
+> **bita dona ca.** = S'il vous plaît, donnez-moi du thé. 
+> **bita nyama ca.** = S'il vous plaît, prenez un peu de thé.  
+> **bita safa kamer.** = Nettoyez la chambre s'il vous plaît
 
-Les ordres sont données avec **manda** = ordonner. Ils utilisent la même structure de pivot que les requêtes avec **cing**.
+Les ordres sont données avec **manda** = ordonner. Ils utilisent la même structure de pivot que les requêtes avec **bita**.
 
 > **manda dona ca.** = Donnez-moi du thé !  
 > **manda safa kamer.** = Nettoiez la chambre !
@@ -200,7 +200,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**ca** thé. **cing** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sida** s'asseoir (être assis). **nyama** manger ou boire, consommer.
+**ca** thé. **bita** demander (poliment), s'il-vous-plaît. **dona** donner. **danke** merci. **i** et. **kafe** café. **kamer** chambre, pièce. **manda** ordonner. **u** ou. **safa** nettoyer. **sida** s'asseoir (être assis). **nyama** manger ou boire, consommer.
 
 
 ### Réponses aux exercices
@@ -238,7 +238,7 @@ Questions par oui ou par non
 
 ### Poser des questions
 
-Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **cing **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
+Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **bita **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
 > **mi eska tu nyama ca.** = Je vous demande si vous buvez du thé.  
 > **eska tu nyama ca?** = Buvez-vous du thé ?  

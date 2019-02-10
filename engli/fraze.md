@@ -479,16 +479,16 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Please, have some tea!
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Please, have some coffee!
 
-**cing laya dom.**
+**bita laya dom.**
 Please, come home!
 
-**cing helpa mi.**
+**bita helpa mi.**
 Please, help me.
 
 ### danke <small>thanks</small>
@@ -617,7 +617,7 @@ Cat says meow.
 **mi no ken auda tu.**
 I can't hear you.
 
-**cing loga forti.**
+**bita loga forti.**
 Please speak louder.
 
 **mi auda musike.**
@@ -656,10 +656,10 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 Please, write your address.
 
-**cing kitaba ye na ce.**
+**bita kitaba ye na ce.**
 Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
@@ -709,7 +709,7 @@ Let's go by foot!
 
 ### laya <small>to come</small>
 
-**cing laya!**
+**bita laya!**
 Come here!
 
 **tu laya ze ke?**
@@ -774,7 +774,7 @@ necessary.
 
 ### denga <small>to wait</small>
 
-**cing denga!**
+**bita denga!**
 Please wait!
 
 **yemen denga mimen.**
@@ -852,10 +852,10 @@ He or she will be at home.
 
 ### dona <small>give</small>
 
-**cing dona pese.**
+**bita dona pese.**
 Please give some money.
 
-**cing dona ye to mi.**
+**bita dona ye to mi.**
 Please give it to me.
 
 **mi dona ce to tu.**
@@ -872,7 +872,7 @@ He/she doesn't want to give it to me.
 **mi toma un kafe.**
 I will take a coffee.
 
-**cing toma un kafe to mi.**
+**bita toma un kafe to mi.**
 Please take one coffee for me.
 
 **tu pas toma pese ze mi.**
@@ -1013,7 +1013,7 @@ example.
 **ca** tea <small>(Mandarin _chá_ 茶)</small>  
 **ce** this one</small>  
 **ci** this; these</small>  
-**cing** ask, request <small>(Mandarin _qǐng_ 请)</small>  
+**bita** ask, request <small>(Mandarin _qǐng_ 请)</small>  
 **den** day <small>(Russian _den'_ день)</small>  
 **de** that one</small>  
 **di** that; those</small>  

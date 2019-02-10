@@ -446,16 +446,16 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Bonvolu trinki teon!
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Bonvolu trinki kafon!
 
-**cing laya dom.**
+**bita laya dom.**
 Bonvolu veni hejmen!
 
-**cing helpa mi.**
+**bita helpa mi.**
 Bonvolu helpi min.
 
 ### danke <small>danko</small>
@@ -584,7 +584,7 @@ Kato diras mjaŭ.
 **mi no ken auda tu.**
 Mi ne povas aŭdi vin.
 
-**cing loga forti.**
+**bita loga forti.**
 Bonvolu paroli pli forte.
 
 **mi auda musike.**
@@ -623,10 +623,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 Bonvolu skribi vian adreson.
 
-**cing kitaba ye na ce.**
+**bita kitaba ye na ce.**
 Bonvolu skribi ĝin tie!
 
 ### baxa <small>paroli, lingvumi</small>
@@ -676,7 +676,7 @@ Ni iru piede!
 
 ### laya <small>veni</small>
 
-**cing laya!**
+**bita laya!**
 Bonvolu veni!
 
 **tu laya ze ke?**
@@ -723,7 +723,7 @@ Mi loĝas en Singapuro.
 **blu** blua <small>(angla _blue_)</small>  
 **bon** bona <small>(franca _bon_)</small>  
 **ca** teo <small>(mandarenĉina _chá_ 茶)</small>  
-**cing** peti <small>(mandarenĉina _qǐng_ 请)</small>  
+**bita** peti <small>(mandarenĉina _qǐng_ 请)</small>  
 **den** tago <small>(rusa _den'_ день)</small>  
 **dom** hejmo, loĝejo <small>(rusa _dom_ дом)</small>  
 **doma** loĝi  

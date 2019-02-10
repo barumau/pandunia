@@ -19,6 +19,6 @@
   - p. ex. **mi bita tu dona pese.** = Peço-lhe para dar dinheiro.
 11. Pronomes pode ser deixado quando eles são conhecidos.
   - **mi eska tu loga pandunia?** -> **eska tu loga pandunia?** = Você fala a pandunia?
-  - **mi bita tu loga ming.** -> **cing loga ming.** = Por favor, fale mais claro. 
+  - **mi bita tu loga ming.** -> **bita loga ming.** = Por favor, fale mais claro. 
 
 

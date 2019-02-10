@@ -479,16 +479,16 @@ Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Proszę, napij się herbaty!
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Proszę, napij się kawy!
 
-**cing laya dom.**
+**bita laya dom.**
 Proszę, przyjdź do domu!
 
-**cing helpa mi.**
+**bita helpa mi.**
 Proszę, pomóż mi.
 
 
@@ -634,7 +634,7 @@ Kot mówi miau.
 **mi no ken auda tu.**
 Nie mogę cię usłyszeć.
 
-**cing loga forti.**
+**bita loga forti.**
 Proszę, mów głośniej.
 
 **mi auda musike.**
@@ -680,10 +680,10 @@ Nie rozumiem, co to znaczy.
 
 ### kitaba <small>pisać</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 Proszę, napisz swój adres.
 
-**cing kitaba ye na li.**
+**bita kitaba ye na li.**
 Proszę, napisz to tutaj!
 
 
@@ -740,7 +740,7 @@ Pójdźmy pieszo!
 
 ### laya <small>przybywać, przychodzić</small>
 
-**cing laya!**
+**bita laya!**
 Przyjdź tu!
 
 **tu laya ze ke?**
@@ -814,7 +814,7 @@ nie jest potrzebne.
 
 ### denga <small>czekać</small>
 
-**cing denga!**
+**bita denga!**
 Proszę, czekaj!
 
 **yemen denga mimen.**
@@ -830,10 +830,10 @@ Czekam na ciebie w hotelu.
 
 ### dona <small>dać</small>
 
-**cing dona pese.**
+**bita dona pese.**
 Proszę, daj trochę pieniędzy.
 
-**cing dona ye to mi.**
+**bita dona ye to mi.**
 Proszę, daj mi to.
 
 **mi dona ce to tu.**
@@ -852,7 +852,7 @@ Nie chce dać mi tego.
 **mi toma un kafe.**
 Wezmę kawę.
 
-**cing toma un kafe to mi.**
+**bita toma un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
 **tu pas toma pese ze mi.**
@@ -1003,7 +1003,7 @@ Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na cały
 **bon** dobry <small>(francuskie _bon_)</small>  
 **ca** herbata <small>(mandaryńskie _chá_ 茶)</small>  
 **ci** to; tamto</small>  
-**cing** prosić <small>(mandaryńskie _qǐng_ 请)</small>  
+**bita** prosić <small>(mandaryńskie _qǐng_ 请)</small>  
 **den** dzień <small>(rosyjskie _den'_ день)</small>  
 **dom** dom, rezydencja <small>(rosyjskie _dom_ дом)</small>  
 **doma** mieszkać, rezydować  

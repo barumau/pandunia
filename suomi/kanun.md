@@ -20,7 +20,7 @@ Perussäännöt
     - esim. **mi bita tu dar pesa.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Puhutko sinä panduniaa?
-    - **mi bita tu loga ming.** →  **cing loga ming.** = Pyydän, puhu selvästi.
+    - **mi bita tu loga ming.** →  **bita loga ming.** = Pyydän, puhu selvästi.
 
 
 
@@ -548,7 +548,7 @@ Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lausei
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
 **mi bita tu laya dom.** - Minä pyydän sinua tulemaan kotiin.  
-**cing laya dom!** - Pyydän, tule kotiin!
+**bita laya dom!** - Pyydän, tule kotiin!
 
  
 

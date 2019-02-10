@@ -501,16 +501,16 @@ Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**cing nyama ca.**
+**bita nyama ca.**
 Juopa teetä.
 
-**cing nyama kafe.**
+**bita nyama kafe.**
 Juopa kahvia.
 
-**cing laya dom.**
+**bita laya dom.**
 Tulepa kotiin.
 
-**cing helpa mi.**
+**bita helpa mi.**
 Autapa minua.
 
 
@@ -655,7 +655,7 @@ Kissa sanoo miau.
 **mi no ken auda tu.**
 En voi kuulla sinua.
 
-**cing loga forti.**
+**bita loga forti.**
 Puhuisitko kovempaa.
 
 **mi auda musike.**
@@ -700,10 +700,10 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**cing kitaba tu da adres.**
+**bita kitaba tu da adres.**
 Kirjoittaisitko osoitteesi.
 
-**cing kitaba ye na ce.**
+**bita kitaba ye na ce.**
 Kirjoittaisitko sen tähän!
 
 
@@ -759,7 +759,7 @@ Menkäämme jalan!
 
 ### laya <small>tulla</small>
 
-**cing laya!**
+**bita laya!**
 Tule tänne!
 
 **tu laya ze ke?**
@@ -832,7 +832,7 @@ ei välttämättä tarvita.
 
 ### denga <small>odottaa</small>
 
-**cing denga!**
+**bita denga!**
 Odota!
 
 **yemen denga mimen.**

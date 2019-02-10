@@ -194,12 +194,12 @@ Making requests
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
-☺: **cing nyama kafe u ca.**
+☺: **bita nyama kafe u ca.**
 = Please have some coffee or tea.  
 ☻: **mi nyama ca. danke.**
 = I will have some tea, thank you.  
 ...  
-☺: **cing salama tu da mame!**
+☺: **bita salama tu da mame!**
 = Please tell greetings to your mother.  
 ☻: **mi salama ye. salam!**
 = I will. Bye!  
@@ -218,7 +218,7 @@ following example sentence.
 **mi bita tu salama ye.**
 = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **cing** = to
+This sentence has a _pivot structure_. The first verb, **bita** = to
 request, addresses **tu** as its object. At the same time **tu**
 serves also as the subject of the second verb, **salama** = to greet,
 whose object is **ye**. So **tu** has a double role: (1) object of
@@ -236,10 +236,10 @@ to keep on repeating them. In this manner phrases can be made shorter.
 
 **mi bita tu salama ye.**
 = I ask you to say hello to him/her.  
-**cing salama ye.**
+**bita salama ye.**
 = Please say hello to him/her.
 
-See how the translation of **cing** changed between the two sentences?
+See how the translation of **bita** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
 Pandunia can cope with changes like this without resorting to different
@@ -247,22 +247,22 @@ words. It is a principle in Pandunia that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
-The phrase **cing salama ye** has a useful pattern that can be used
+The phrase **bita salama ye** has a useful pattern that can be used
 for making polite requests.
 
-**cing sida.**
+**bita sida.**
 = Please be seated.  
-**cing dona kafe.**
+**bita dona kafe.**
 = Please give me some coffee.  
-**cing dona ca.**
+**bita dona ca.**
 = Please give me some tea.  
-**cing nyama ca.**
+**bita nyama ca.**
 = Please have some tea.  
-**cing safa kamar.**
+**bita safa kamar.**
 = Please clean the room.
 
 Commands are introduced with **orda** = to command. They employ the
-same pivot structure as requests with **cing**.
+same pivot structure as requests with **bita**.
 
 **orda dona ca.**
 = Give (me) some tea!  
@@ -290,7 +290,7 @@ Try translating these sentences from English to Pandunia.
 ### Word List
 
 **ca** tea.
-**cing** to ask; please.
+**bita** to ask; please.
 **dona** to give.
 **danke** thanks.
 **i** and.
@@ -347,7 +347,7 @@ Yes or no questions
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **cing**, which you learned in the
+pivot structure as requests with **bita**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
 **mi eska tu nyama ca.**
