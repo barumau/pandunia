@@ -430,10 +430,10 @@ Nous nous connaissons l’un l’autre depuis longtemps.
 **mi nida helpe.**
 J’ai besoin d’aide.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 Est-ce que tu peux m’aider ?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 Est-ce que je peux t’aider ?
 
 
@@ -607,30 +607,30 @@ Je n’ai rien compris du tout.
 
 
 
-### ken <small>pouvoir, savoir</small>
+### bila <small>pouvoir, savoir</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 Je sais conduire une voiture.
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 Est-ce que tu sais réparer ça ?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 Est-ce que tu parles pandunia ?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 Je parle pandunia.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 Je parle un peu pandunia.
 
-**mi no ken engli.**
+**mi no bila engli.**
 Je ne parle pas anglais.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no bila tu da baxa.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -658,7 +658,7 @@ Un chat dit miaou.
 
 ### auda <small>écouter, entendre</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
 **bita loga forti.**
@@ -717,7 +717,7 @@ Est-ce que vous parlez tous pandunia ?
 **mimen baxa pandunia.**
 Nous parlons pandunia.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 Est-ce que tu parles anglais ?
 
 **fransi, espani, portugal, rusi**

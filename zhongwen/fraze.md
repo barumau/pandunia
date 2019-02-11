@@ -192,30 +192,30 @@ We greet you.
 
 
 
-### ken <small>会</small>
+### bila <small>会</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 我会开车。
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 他不知道怎么开车。
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 你知道怎么修吗？
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 你会泛世界语吗？
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 我会泛世界语。
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 我会一点泛世界语。
 
-**mi no ken engli.**
+**mi no bila engli.**
 我不会英语。
 
-**pardon. mi no ken tu da bax.**
+**pardon. mi no bila tu da bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
@@ -226,7 +226,7 @@ We greet you.
 **mimen baxa pandunia.**
 我们会说泛世界语。
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 你能说英语吗？
 
 **fransi, espani, portugal, rusi**

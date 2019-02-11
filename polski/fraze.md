@@ -399,10 +399,10 @@ Znamy się od długiego (czasu).
 **mi nida helpe.**
 Potrzebuję pomocy.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 Czy możesz pomóc mi?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 Czy mogę ci pomóc?
 
 
@@ -579,30 +579,30 @@ Nic nie rozumiem.
 
 
 
-### ken <small>móc, umieć</small>
+### bila <small>móc, umieć</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 Umiem kierować samochodem.
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 Nie umie kierować samochodem.
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 Czy umiesz to naprawić?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 Czy umiesz mówić w Panduni?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 Umiem mówić w Panduni.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 Umiem trochę mówić w Panduni.
 
-**mi no ken engli.**
+**mi no bila engli.**
 Nie znam języka angielskiego.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no bila tu da baxa.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -631,7 +631,7 @@ Kot mówi miau.
 
 ### auda <small>słuchać, słyszeć</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 Nie mogę cię usłyszeć.
 
 **bita loga forti.**
@@ -696,7 +696,7 @@ Czy mówicie w Panduni?
 **mimen baxa pandunia.**
 Mówimy w Panduni.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 Czy umiesz mówić w języku angielskim?
 
 **fransi, espani, portugal, rusi**

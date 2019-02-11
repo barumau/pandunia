@@ -189,6 +189,9 @@ bermudia : Bermuda
 beton : betoni  
 bey : läpikäydä (passiivin muodostava verbi)  
 biblia : Raamattu  
+bila : voida (osata, pystyä)  
+bile : taito (kyky)  
+bili : mahdollinen (mahdollisesti, ehkä)  
 bina : rakentaa  
 binde : täplä (läiskä)  
 bing : sairas  
@@ -924,7 +927,6 @@ kelele : meteli
 keler : urheilija  
 kemia : muinainen Egypti  
 kenar : reuna (ääri)  
-kene : taito (kyky)  
 kenia : Kenia  
 kerube : kerubi  
 ketel : kattila  
@@ -1638,8 +1640,6 @@ ponter : osoitin (viisari)
 porne grafia : pornografia  
 porne : porno  
 portugal : Portugali  
-posa : voida (osata, pystyä)  
-posabli : mahdollinen (mahdollisesti, ehkä)  
 pospor : fosfor  
 posta : postittaa  
 poste kan : postitoimisto  

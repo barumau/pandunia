@@ -398,10 +398,10 @@ Nosotros nos conocemos (entre nosotros) hace tiempo.
 **mi nida helpe.**
 Necesito ayuda.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 ¿Puedes ayudarme?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 ¿Puedo ayudarte?
 
 ## Parte 2: Comer
@@ -558,30 +558,30 @@ No te entiendo muy bien.
 **mi aha nol.**
 No entiendo nada.
 
-### ken <small>poder</small>
+### bila <small>poder</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 Puedo conducir un auto.
 
-**ye no ken gida kar.** Él/ella no saber conducir un auto. (Literalmente:
+**ye no bila gida kar.** Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 ¿Puedes arreglarlo?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 ¿Puedes hablar pandunia?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 Puedo hablar pandunia.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 Puedo hablar un poco de pandunia.
 
-**mi no ken engli.**
+**mi no bila engli.**
 No puedo hablar inglés.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no bila tu da baxa.**
 Lo siento. No puedo hablar tu idioma.
 
 ### loga <small>decir, hablar</small>
@@ -606,7 +606,7 @@ El gato dice miau.
 
 ### auda <small>escuchar, oír</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 No puedo oírte.
 
 **bita loga forti.**
@@ -662,7 +662,7 @@ Por favor, escríbelo aquí.
 **mimen baxa pandunia.**
 Nosotros hablamos pandunia.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 ¿Puedes hablar inglés?
 
 **fransi, espani, portugal, rusi**

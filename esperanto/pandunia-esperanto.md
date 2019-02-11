@@ -160,6 +160,9 @@ beril : berilio
 berkelium : berkelio  
 beton : betono  
 biblia : Biblio  
+bila : povi  
+bile : povo  
+bili : ebla (eble)  
 bina : konstrui  
 binde : punkto  
 bing : malsana  
@@ -1025,8 +1028,6 @@ politike : politiko
 politiker : politikisto  
 polon : polonio  
 ponta : montri  
-posa : povi  
-posabli : ebla (eble)  
 pospor : fosforo  
 poste kan : poŝtejo  
 pote : poto  

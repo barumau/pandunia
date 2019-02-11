@@ -111,6 +111,7 @@ berdi ← spa:por:verde. fra:vert. eus:ceb:tgl:berde.
 bere ← deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).  
 berete ← fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).  
 bey ← zho:被 "bèi".  
+bila ← tur:ebilmek. + ind:bisa,boleh. + eng:able. spa:hábil. fra:habile. ron:abil.  
 bina ← ara: "banā". hin: बनाना "banānā". urd: "banānā". fas: "banā". tur: bina. jpn:ビル (biru).  
 binde ← hin:बिंदु "bindu". tha:พินทุ "pintu". eng:bindi (holy dot). rus:бинди (bindi).   
 bing ← zho:病 (bìng). vie:bệnh. kor:병 (byeong).  
@@ -578,8 +579,6 @@ pol ← ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:по�
 polaw ← per:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).  
 politike ← ell:πολιτική (politikē). ind:politik. tur:politika. eng:politics. por:spa:política. fra:politique. rus:политика (politika).  
 ponta ← eng:point. por:apontar. spa:apuntar. fra:pointer.  
-posa ← spa:por:poder. ita:potere.  
-posabli ← spa:posible. eng:fra:possible. por:possível.  
 prate ← eng:practice. fra:pratique. por:prática. tur:pratik. pol:praktyka. hin:प्रथा (prathā).  
 preda ← rus:п(е)ред (p(e)red). pol:przed. eng:spa:por:pre-. fra:pré-.  
 prizon ← eng:fra:prison. spa:prisión. por:prisão.  

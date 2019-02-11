@@ -590,9 +590,9 @@ In the _pivot structure_ the word order is:  subject – verb 1 – object
 Object 1 functions has dual role. It is at the same time the object
 for verb 1 and the subject for verb 2.
 
-> **mi wol tu nyama sabze.** - I want you eat vegetables.
+> **mi wola tu nyama sabze.** - I want you eat vegetables.
 
-In the example above, **mi wol** has **tu** as its object. At the same
+In the example above, **mi wola** has **tu** as its object. At the same
 time, **tu** functions as the subject of the following predicate,
 **nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
 
@@ -603,8 +603,8 @@ the subject. There can be two, three or even more action-words in
 series.
  
 1. **mi enda dom.** - I go home.  
-2. **mi ken enda dom.** - I can go home.  
-3. **mi wol ken enda dom.** - I want to be able to go home. (Lit. _I
+2. **mi bila enda dom.** - I can go home.  
+3. **mi wola bila enda dom.** - I want to be able to go home. (Lit. _I
    want can go home_!)
 
 ### 7.8. Pronoun dropping
@@ -945,8 +945,8 @@ are some examples.
 There is a handful of verbs, which appear without the ending. These
 are some of the most common verbs in Pandunia.
 
-**wol** - to want (active verb)  
-**ken** - can, to be able to (active verb)  
+**wola** - to want (active verb)  
+**abla** - can, to be able to (active verb)  
 
 #### 11.1.2. Deriving verbs
 
@@ -1026,7 +1026,7 @@ which is from that place".
 |:-----------------|:------------|:------------|:------------|
 | Thing-root       | **insan**   | insani      | -           |
 | Description-root | bone        | **bon**     | bona        |
-| Action-root      | wole        | woli        | **wol**     |
+| Action-root      | wole        | woli        | **wola**    |
 
 Note! Pandunia doesn't follow the rule about action-roots because we
 think that normally it is more useful to mark verbs than nouns. So an
@@ -1269,11 +1269,11 @@ general higher than **karena**, here its scope is only to connect
 **yusef** and **sara**.  **karena** is at the top, because it connects
 the two sub-phrases.
 
-    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
+    yusef i sara wola darsa pandunia sababu ye si bon dunia bax.
 
                        sababu
                ┌──────────┴──────────┐
-              wol                   si
+              wola                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |

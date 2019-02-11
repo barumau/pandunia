@@ -407,10 +407,10 @@ We know each other for long.
 **mi nida helpe.**
 I need help.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 Can you help me?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 Can I help you?
 
 ## Part 2: Eating
@@ -566,30 +566,30 @@ I didn't quite understand you.
 **mi aha nul.**
 I don't understand at all.
 
-### ken <small>can</small>
+### bila <small>can</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 I can drive a car.
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 He/she doesn't know how to drive a car.
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 Do you know how to fix it?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 Do you speak Pandunia?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 I speak Pandunia.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 I speak a little Pandunia.
 
-**mi no ken engli.**
+**mi no bila engli.**
 I don't speak English.
 
-**pardon. mi no ken tu da bax.**
+**pardon. mi no bila tu da bax.**
 Sorry, I don't speak your language.
 
 ### loga <small>to say, speak, talk</small>
@@ -614,7 +614,7 @@ Cat says meow.
 
 ### auda <small>to listen, hear</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 I can't hear you.
 
 **bita loga forti.**
@@ -670,7 +670,7 @@ Do you speak in Pandunia?
 **mimen baxa pandunia.**
 We speak in Pandunia.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 Can you speak English?
 
 **fransi, espani, portugal, rusi**

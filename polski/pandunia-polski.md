@@ -190,6 +190,9 @@ bermudia : Bermudy
 beton : beton  
 bey : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 biblia : Biblia  
+bila : móc, umieć  
+bile : możliwość, umiejętność  
+bili : prawdopodobnie, możliwie  
 bina : zbudować, budować, konstruować  
 binde : punkt  
 bing : chory  
@@ -924,7 +927,6 @@ kelele : atleta, sportowiec
 keler : hałas  
 kemia : Starożytny Egipt (Kemet)  
 kenar : granica, skraj, brzeg  
-kene : możliwość, umiejętność  
 kenia : Kenia  
 kerube : cherubin  
 ketel : czajnik  
@@ -1641,8 +1643,6 @@ porne grafia : pornografia
 porne : porno, film erotyczny  
 porta : nosić, nieść  
 portugal : Portugalia  
-posa : móc, umieć  
-posabli : prawdopodobnie, możliwie  
 pospor : fosfor  
 posta : nadać, wysłać pocztą  
 poste kan : poczta, budynek poczty  

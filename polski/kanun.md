@@ -532,8 +532,8 @@ W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocz
 Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot. Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
 1. **mi enda dom.** - Idę do domu.
-2. **mi ken enda dom.** - Mogę iśc do domu.
-3. **mi wol ken enda dom.** - Chcę móc iść do domu.
+2. **mi bila enda dom.** - Mogę iśc do domu.
+3. **mi wol bila enda dom.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka

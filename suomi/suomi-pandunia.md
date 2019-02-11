@@ -1031,7 +1031,7 @@ magneetti : magnete
 magneettinen : magneti  
 magnesium : magnes  
 maha : fubu'  
-mahdollinen (mahdollisesti, ehkä) : posabli  
+mahdollinen (mahdollisesti, ehkä) : bili  
 mahdollisuus (tilaisuus) : canse  
 maissi : mais  
 maistaa : gusta  
@@ -1829,7 +1829,7 @@ Taipei : taibei
 taistelu (sota) : jeng  
 taitava : xuti  
 taiteilija : arter  
-taito (kyky) : kene  
+taito (kyky) : bile  
 taito : xute  
 taivas : saman  
 Taiwan : taiwan  
@@ -2148,7 +2148,7 @@ vismutti : bismute
 vitsi : joke  
 vitsiniekka : joker  
 voi : makan  
-voida (osata, pystyä) : posa  
+voida (osata, pystyä) : bila  
 voima : bale  
 voimakas (vahva) : bal  
 voipuu : karite  

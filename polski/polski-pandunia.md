@@ -1010,7 +1010,7 @@ mowa; słowo : loge
 Mozambik : mozambike  
 Mołdawia : moldovia  
 może, ocean : daria  
-możliwość, umiejętność : kene  
+możliwość, umiejętność : bile  
 mumia : mumia  
 mur, ściana : mur  
 musieć : bixu  
@@ -1025,7 +1025,7 @@ mydło : sabun
 mysz : mux  
 myśl, pomysł : fikre  
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać : fikra  
-móc, umieć : posa  
+móc, umieć : bila  
 mój : mi da  
 mówić, rozmawiać : loga  
 mówić; komunikować : baxa  
@@ -1438,7 +1438,7 @@ practyczny, pragmatyczny : prati
 praktyka, aktualność : prate  
 pralka : wax-maxin  
 prawa autorskie : kopi hake  
-prawdopodobnie, możliwie : posabli  
+prawdopodobnie, możliwie : bili  
 prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
 prawo, przywilej : hake  

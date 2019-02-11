@@ -1,6 +1,6 @@
 : : -a : suffix : for : verbs : with : SVO : word : order  
 ##a  
-ability (skill) : kene  
+ability (skill) : bile  
 about (approximately) : yagi  
 accent (stress) : acente  
 accept (to say okay) : okeya  
@@ -308,7 +308,7 @@ camera : kamera
 Cameroon : kamerun  
 camp : kampe  
 camper : kamper  
-can (know, be able) : posa  
+can (know, be able) : bila  
 can (tin can) : tin  
 Canada : kanadia  
 candle : mum nur  
@@ -1600,7 +1600,7 @@ portion (dose) : doze
 Portugal : portugal  
 pose (position) : poze  
 pose (set) : poza  
-possible (possibly, maybe, perhaphs) : posabli  
+possible (possibly, maybe, perhaphs) : bili  
 post office : poste kan  
 postal stamp : posti cape  
 posture (asana) : asan  

@@ -9,7 +9,7 @@ pandunia si nowi dunia bax! pandunia da lekse laya ze dunia da mey
 fen: afrike, amerike, asia, europe – ze dunia bax bixu wakila mimen
 da pan dunia!
 
-eska tu jana pandunia? se ken darsa pandunia na uza [mini darse](mini_darse.html).
+eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.html).
 
 
 * [abace](abc.md)

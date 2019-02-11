@@ -299,7 +299,7 @@ Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w zdaniu. (To
 
     Polski:     To nie może być zjedzone.
     Angielski:  It can not be eaten.
-    Pandunia:   ye no ken bey nyama.
+    Pandunia:   ye no bila bey nyama.
     Chiński:    Tā bù néng bèi chī. (它不能被吃。)
 
 Jak chiński, Pandunia nie oznacza czasowników końcówkami jak "-ić" lub słowami jak "to".

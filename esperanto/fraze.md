@@ -376,10 +376,10 @@ Ni konas unu la alian longe.
 **mi nida helpe.**
 Mi bezonas helpon.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 Ĉu vi povas helpi min?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 Ĉu mi povas helpi vin?
 
 ## 2a parto: Manĝado
@@ -533,30 +533,30 @@ Mi ne sufiĉe komprenis vin.
 **mi aha nol.**
 Mi komprenas nenion.
 
-### ken <small>povi</small>
+### bila <small>povi</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 Mi povas konduki aŭton.
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 Ĉu vi povas ripari ĝin?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 Ĉu vi povas paroli pandunion?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 Mi povas pandunion.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 Mi povas ete pandunion.
 
-**mi no ken engli.**
+**mi no bila engli.**
 Mi ne povas paroli la anglan.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no bila tu da baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 ### loga <small>diri, paroli</small>
@@ -581,7 +581,7 @@ Kato diras mjaŭ.
 
 ### auda <small>aŭdi, aŭskulti</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 Mi ne povas aŭdi vin.
 
 **bita loga forti.**
@@ -637,7 +637,7 @@ Bonvolu skribi ĝin tie!
 **mimen baxa pandunia.**
 Ni parolas pandunion.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 Ĉu vi povas paroli la anglan?
 
 **frans, espanya, portugal, ruski**

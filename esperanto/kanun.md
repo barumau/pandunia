@@ -232,7 +232,7 @@ Objekto de unua verbo povas esti subjekto de dua verbo.
 > mi **fikra** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
 > ye **duga** buke **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
 > tu **loga** fraze **karu** mi - Vi **diras** frazon, kiun **faris** mi  
-> mi suku kena nyama = mi suku mi kena mi nyama - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
+> mi suku bila nyama = mi suku mi bila mi nyama - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
 
 Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** nyama keke) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi nyama kem**). Niaj provadoj en Telegram ne montris veran problemon.
 
@@ -693,8 +693,8 @@ Verboĉenoj
 En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la objekto de la unua verbo.
 
 1. **mi enda dom.** - Mi iras hejmen.  
-2. **mi ken enda dom.** - Mi povas iri hejmen.  
-3. **mi wol ken enda dom.** - Mi volas povi iri hejmen.  
+2. **mi bila enda dom.** - Mi povas iri hejmen.  
+3. **mi wol bila enda dom.** - Mi volas povi iri hejmen.  
 4. **mi bixu enda dom.** - Mi devas iri hejmen.
 
 

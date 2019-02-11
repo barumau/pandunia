@@ -303,7 +303,7 @@ Le verbe **bey** est utilisé lorsque l'objet d'une action vient en premier dans
 **Bey** est un mot emprunté au Chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no ken bey kana.
+    Pandunia:  ye no bila bey kana.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to".

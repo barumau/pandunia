@@ -9,7 +9,7 @@ urse mame loga "salam" i ye cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse na mon. ye fikra: "zay mi ken fata eni xey du mi wol!"
+lil urse na mon. ye fikra: "zay mi bila fata eni xey du mi wol!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
@@ -30,7 +30,7 @@ a ye yada: "a! mame loga mi no nyama kande." lil urse no nyama kande.
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
 lil urse wida mel pote na alter almari. ye fikra
-"mame loga nul xey du tema mel. mi ken nyama mel!"
+"mame loga nul xey du tema mel. mi bila nyama mel!"
 lil urse sida na kurse i ye nyama lil mel. mel bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)

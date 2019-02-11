@@ -423,10 +423,10 @@ Tunnemme toisemme jo vanhastaan.
 **mi nida helpe.**
 Minä tarvitsen apua.
 
-**eska tu ken helpa mi?**
+**eska tu bila helpa mi?**
 Voitko auttaa minua?
 
-**eska mi ken helpa tu?**
+**eska mi bila helpa tu?**
 Voinko auttaa sinua?
 
 
@@ -601,30 +601,30 @@ En ymmärrä yhtään.
 
 
 
-### ken <small>osata</small>
+### bila <small>osata</small>
 
-**mi ken gida kar.**
+**mi bila gida kar.**
 Osaan ajaa autolla.
 
-**ye no ken gida kar.**
+**ye no bila gida kar.**
 Hän ei osaa ajaa autolla.
 
-**eska tu ken xula ye?**
+**eska tu bila xula ye?**
 Osaatko korjata sen?
 
-**eska tu ken pandunia?**
+**eska tu bila pandunia?**
 Osaatko panduniaa?
 
-**mi ken pandunia.**
+**mi bila pandunia.**
 Minä osaan panduniaa.
 
-**mi ken lil pandunia.**
+**mi bila lil pandunia.**
 Minä osaan vähän panduniaa.
 
-**mi no ken engli.**
+**mi no bila engli.**
 Minä en osaa englantia.
 
-**pardon. mi no ken tu da baxa.**
+**pardon. mi no bila tu da baxa.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -652,7 +652,7 @@ Kissa sanoo miau.
 
 ### auda <small>kuulla, kuunnella</small>
 
-**mi no ken auda tu.**
+**mi no bila auda tu.**
 En voi kuulla sinua.
 
 **bita loga forti.**
@@ -716,7 +716,7 @@ Puhutteko te panduniaa?
 **mimen baxa pandunia.**
 Me puhumme panduniaa.
 
-**eska tu ken baxa engli?**
+**eska tu bila baxa engli?**
 Osaatko puhua englantia?
 
 **fransi, espani, portugal, rusi**

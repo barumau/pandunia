@@ -190,6 +190,9 @@ bermudia : Bermuda
 beton : concrete (material with cement)  
 bey : suffer (passivizing verb)  
 biblia : Bible  
+bila : can (know, be able)  
+bile : ability (skill)  
+bili : possible (possibly, maybe, perhaphs)  
 bina : build (construct)  
 binde : dot (spot)  
 bing : ill (sick)  
@@ -926,7 +929,6 @@ kelele : noise
 keler : athlete (sportsman)  
 kemia : Ancient Egypt (Kemet)  
 kenar : border (edge, rim, fringe)  
-kene : ability (skill)  
 kenia : Kenya  
 kerube : cherub  
 ketel : kettle  
@@ -1643,8 +1645,6 @@ porne grafia : pornography
 porne : porn  
 porta : carry (bear)  
 portugal : Portugal  
-posa : can (know, be able)  
-posabli : possible (possibly, maybe, perhaphs)  
 pospor : phosphorus  
 posta : mail (send by mail)  
 poste kan : post office  

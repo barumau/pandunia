@@ -518,8 +518,8 @@ Edellisessä esimerkissä, lausekkeen **mi wol** objektina on **tu**. Samaan aik
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
 1. **mi enda dom.** - Minä menen kotiin.
-2. **mi ken enda dom.** - Minä voin mennä kotiin.
-3. **mi wol ken enda dom.** - Me haluan voida mennä kotiin.
+2. **mi bila enda dom.** - Minä voin mennä kotiin.
+3. **mi wol bila enda dom.** - Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  

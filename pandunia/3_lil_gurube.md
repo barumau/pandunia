@@ -14,7 +14,7 @@ suku werke, i ye bina se da dom na xake. badu de, yemen gana i dansa
 i mazu na mey den.
 
 gurube num sam tez werka na tot den, i ye bina se da dom na petre. ye
-bal dom. ye ha fay kan i duman tube. ye rupa ka ye ken jiwa na bal
+bal dom. ye ha fay kan i duman tube. ye rupa ka ye bila jiwa na bal
 du maxim bal fung.
 
 na nale, wolfe enda na jin du daw, du sam gurube doma. ye wida suhi
@@ -45,7 +45,7 @@ mi nafasa i mi nafasa i mi parca tu da dom!"
 to ye nafasa i ye nafasa i ye parca dom! wolfe wol max ka bas, i ye
 proba kaca dul gurube na sem sat, a ye wol max ka bas, i ye geta nol
 gurube! ye da day boke kayulu na nol xe minus hawa. dul lil gurube
-enda far na maximi rapide ka yemen da ped ken porta yemen.
+enda far na maximi rapide ka yemen da ped bila porta yemen.
 
 wolfe proba kaca yemen na lil daw. ye jino kaca yemen. a yemen laya
 to petre dom i keleli kayula mun na pice du se na ante du wolfe ken
@@ -53,7 +53,7 @@ kaca yemen.
 
 sam lil gurube fobu. yemen jana wolfe wol nyama yemen. de si day day
 fobi. wolfe no gon nyama na tot den i max max wol nyama na dur du
-proba kaca gurube. na ci mar ye ken nos nota tot sam yemen na jung.
+proba kaca gurube. na ci mar ye bila nos nota tot sam yemen na jung.
 ye jana sam lil gurube si bon nyam.
 
 to wolfe darba mun, i loga: "lil gurube! lil gurube! bita mi laya
@@ -62,8 +62,8 @@ cabi kong. to yemen dapa: "no! no! no!" to wolfe wiza se da dante i
 loga: "to mi nafasa i mi nafasa i mi parca tumen da dom!"
 
 ye nafasa i ye nafasa. ye nafasa i ye nafasa. i ye nafasa, i ye
-nafasa, i ye nafasa, a ye no ken parca dom. na fin, ye day fatigi
-nafasa. sun ye no max ken nafasa. to ye tingu to sona i ye lil
+nafasa, i ye nafasa, a ye no bila parca dom. na fin, ye day fatigi
+nafasa. sun ye no max bila nafasa. to ye tingu to sona i ye lil
 fikra.
 
 de si max ka bas. wolfe kina na wen na furia i loga ye laya ze duman

@@ -189,6 +189,9 @@ fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (z
 			beton	:	concrete (material with cement)	betono	betoni	beton					
 zho:被 "bèi".			bey	:	suffer (passivizing verb)		läpikäydä (passiivin muodostava verbi)	być poddanym, doświadczyć, doświadczać (ubierniający czasownik)					
 			biblia	:	Bible	Biblio	Raamattu	Biblia					
+tur:ebilmek. + ind:bisa,boleh. + eng:able. spa:hábil. fra:habile. ron:abil.			bila	:	can (know, be able)	povi	voida (osata, pystyä)	móc, umieć					
+			bile	:	ability (skill)	povo	taito (kyky)	możliwość, umiejętność					
+			bili	:	possible (possibly, maybe, perhaphs)	ebla (eble)	mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie					
 ara: "banā". hin: बनाना "banānā". urd: "banānā". fas: "banā". tur: bina. jpn:ビル (biru).			bina	:	build (construct)	konstrui	rakentaa	zbudować, budować, konstruować					
 hin:बिंदु "bindu". tha:พินทุ "pintu". eng:bindi (holy dot). rus:бинди (bindi). 			binde	:	dot (spot)	punkto	täplä (läiskä)	punkt					
 zho:病 (bìng). vie:bệnh. kor:병 (byeong).			bing	:	ill (sick)	malsana	sairas	chory					
@@ -916,7 +919,6 @@ swa:kon:makelele.			kelele	:	noise		meteli	atleta, sportowiec
 			keler	:	athlete (sportsman)		urheilija	hałas					
 			kemia	:	Ancient Egypt (Kemet)		muinainen Egypti	Starożytny Egipt (Kemet)					
 tur:kenar. hin:किनारा "kinārā". urd:"kanārā".			kenar	:	border (edge, rim, fringe)	rando (orlo)	reuna (ääri)	granica, skraj, brzeg					
-			kene	:	ability (skill)		taito (kyky)	możliwość, umiejętność					
 	dex	KE	kenia	:	Kenya		Kenia	Kenia					
 			kerube	:	cherub		kerubi	cherubin					
 			ketel	:	kettle		kattila	czajnik					
@@ -982,9 +984,9 @@ eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć,
 			komunistia	:	communism	komunismo	kommunismi	komunizm					
 hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.			kon	:	corner (angle)	angulo	kulma (nurkka)	kąt					
 			koncung	:	insect		hyönteinen (ötökkä)	owad					
-			kong	:	hole		reikä	dziura					
 zho:孔夫子 (Kǒng Fūzǐ).			konfuze	:	Confucious	Konfuceo	Kungfutse	Konfucjusz					
 			konfuzistia	:	Confucianism		Kungfutselaisuus	konfucjanizm					
+			kong	:	hole		reikä	dziura					
 			kongoli	:	Congolese		kongolainen	kongijski					
 	nas		konkani	:	Konkani		konkani (eräs intialainen kieli)	konkani					
 eng:consider. spa:considerar.			konsida	:	consider (regard)	rigardi ia	pitää jonakin	rozważać, brać pod uwagę					
@@ -1628,8 +1630,6 @@ eng:point. por:apontar. spa:apuntar. fra:pointer.			ponta	:	point at (indicate)	
 			porne grafia	:	pornography		pornografia	pornografia					
 			porta	:	carry (bear)			nosić, nieść					
 	dex	PT	portugal	:	Portugal		Portugali	Portugalia					
-spa:por:poder. ita:potere.			posa	:	can (know, be able)	povi	voida (osata, pystyä)	móc, umieć					
-spa:posible. eng:fra:possible. por:possível.			posabli	:	possible (possibly, maybe, perhaphs)	ebla (eble)	mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie					
 	made	P	pospor	:	phosphorus	fosforo	fosfor	fosfor					
 			posta	:	mail (send by mail)		postittaa	nadać, wysłać pocztą					
 			poste	:	mail		posti (postilähetys)	poczta					

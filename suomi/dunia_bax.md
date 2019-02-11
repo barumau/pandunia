@@ -194,7 +194,7 @@ Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 **Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  ye no ken bey nyama.
+    Pandunia:  ye no bila bey nyama.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".

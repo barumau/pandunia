@@ -255,7 +255,7 @@ dubnio : dubnium
 dubo : dute  
 duŝo : dux  
 ##e  
-ebla (eble) : posabli  
+ebla (eble) : bili  
 eco : gun  
 edzigi : mara  
 egala : egal  
@@ -964,7 +964,8 @@ porko : gurube
 posteno : asan  
 posttagmeze : xam den  
 poto : pote  
-povi : posa  
+povi : bila  
+povo : bile  
 poŝo : jebe  
 poŝtejo : poste kan  
 pravigi : saha  
