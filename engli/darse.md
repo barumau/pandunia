@@ -32,24 +32,24 @@ The same word is used for all persons. And to say the opposite,
 simply replace it with **no** (which is the word for _no_).
 
 **ye si sara.**
-- She is Sara.  
+= She is Sara.  
 **ye no sara.**
-- She is not Sara.  
+= She is not Sara.
 
 **maw si hewan**
-- The cat is an animal.  
+= The cat is an animal.  
 **dom no hewan**
-- The house is not an animal.  
+= The house is not an animal.  
 
 In the same way you can describe yourself by saying **mi** and a word
 that describes you.
 
 **mi bon.**
-- I'm good.  
+= I'm good.  
 **mi man.**
-- I'm a man.  
+= I'm a man.  
 **mi fem.**
-- I'm a woman.  
+= I'm a woman.  
 
 
 ### Exercises
@@ -72,7 +72,7 @@ answers are after the word list.
 **ye** he, she or it. **ye da** his, her, its.  
 **ke** who or what.  
 **si** to be (am, is, are, etc)  
-**si** yes. **no** no.  
+**si** yes. **no** no, not.  
 **bon** good. **doste** friend. **nam** name.  
 **fem** woman. **man** man.  
 **maw** cat. **hewan** animal.
@@ -90,8 +90,7 @@ answers are after the word list.
 --------------------------------------------------------------------------------
 
 
-Saying hello
-------------
+## Saying hello
 
 **salam**
 = Hello!
@@ -153,7 +152,8 @@ Another Pandunia word for greeting is **haló**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
-**halo'!** - Hello!
+**halo'!**
+= Hello!
 
 
 ### Exercises
@@ -183,8 +183,7 @@ answers are after the word list.
 --------------------------------------------------------------------------------
 
 
-Making requests
----------------
+## Making requests
 
 ### Dialog
 
@@ -524,38 +523,44 @@ is more than one correct answer.
 6. mame ada no waf a dul maw.
 
 
-<!--
-
 --------------------------------------------------------------------------------
 
-More Questions
---------------
+## More Questions
 
 To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun **ke** is normally used. The
+_when_, the interrogative pronoun **ki** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-> **ye si ke?** = What is that? / Who is (s)he?  
-> **ke ren laya?** = Who is coming? (**ren** = person)  
-> **ke zaman tu nyama?** = When do you eat? (**zaman** = time)  
-> **ke yang dansa?** = How to dance? (**yang** = manner, style)
+**ye si ke?**
+= What is that? / Who is (s)he?  
+**ki ren laya?**
+= Who is coming? (**ren** = person)  
+**ki zaman tu nyama?**
+= When do you eat? (**zaman** = time)  
+**ki yang dansa?**
+= How to dance? (**yang** = manner, style)
 
-In Pandunia, questions beginning with _why_ are asked using **koz ke**.
+In Pandunia, questions beginning with _why_ are asked using
+**ke koza**.
 
-> **tu suku maw koz ke?** = Why do you like cats?
+**ke koza tu suku maw?**
+= Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **koz** before the cause or reason. **koz** is actually a
 passive verb meaning _to be caused by_.
 
-> **tu suku maw koz ke?** = Why do you like cats?  
-> **koz yemen kaway.** = Because they are cute.
+**ke koza tu suku maw?**
+= Why do you like cats?  
+**kozu yemen kaway.**
+= Because they are cute.
 
 Of course **koz** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-> **mi suku maw koz yemen kaway** = I like cats because they are cute.
+**mi suku maw kozu yemen kaway**
+= I like cats because they are cute.
 
 ### Exercises
 
@@ -583,17 +588,14 @@ something, even when not answering to a question.
 1. ke ren suku supe?
 2. pape suku.
 3. ke zaman ye laya?
-4. na des minute bada.
+4. na bade du des minute.
 5. ye no nyama koz ke?
-6. koz (ye) no suku kafe u supe.
-
--->
+6. kozu ye no suku kafe u supe.
 
 
 --------------------------------------------------------------------------------
 
-Past, present and future
-------------------------
+## Past, present and future
 
 ### Expressing time
 
@@ -645,7 +647,7 @@ Simply put the word before the verb.
 = I hit it (in the past).  
 **mi zay darba ye.**
 = I am hitting it (currently).  
-**mi will darba ye.**
+**mi wil darba ye.**
 = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
@@ -681,7 +683,7 @@ Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
 **mi jenu na nen 2003.**
-= I was born in 2003.
+= I was born in 2003.  
 **ye safa kamar na badi den.**
 = He will clean the room tomorrow.
 
