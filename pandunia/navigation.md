@@ -9,10 +9,13 @@
 [histor]()
 
   * [baru bace da dante tung](baru_dante.md)
-  * [sam lil goro](3_lil_goro.md)
   * [insan da putong hake](putong_hake.md)
+  * [sam buze i guy](3_buze_i_guy.md)
+  * [sam lil gurube](3_lil_gurube.md)
 
 [piper i karot](piper_i_karot.md)
+
+[dini kitabe](dini_kitabe.md)
 
 [filme](filme.md)
 
