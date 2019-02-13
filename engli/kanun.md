@@ -41,8 +41,9 @@ These are the 11 basic rules of Pandunia language.
    the word that they modify. Frequently adjectives end in **-i**.
     - ex. 1. **bon nan** = Good bread.
     - ex. 2. **tu bon loga.** = You speak well.
-5. Compound words are formed by putting words side by side.
-    - ex. **poste sanduke** = mailbox
+5. Compound words are formed by putting words side by side. Linking
+   vowel **-o-** is inserted between the elements.
+    - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
 6. Verbs that end in -a indicate subject-verb-object word order.
     - ex. **mi nyama nan.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
@@ -96,16 +97,6 @@ and/or neuter categories).
 
 Some words carry _natural gender_. For example **fem** (woman) is
 feminine and **man** (man) is masculine.
-
-### 2.4. Compounds
-
-Two or more nouns can be put together to make a compound word. The
-last word is the most meaningful word in the compound and the words
-that come before it only modify the meaning.
-
-> **sol nur** - sunlight  
-> **lun nur** - moonlight  
-> **lun petre** - moonstone
 
 --------------------------------------------------------------------------------
 
@@ -900,6 +891,8 @@ the point of comparison.
 (less) and **sem** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
 
+
+
 ## 11. Word Building
 
 It's possible to build new words in Pandunia. Pandunia has a
@@ -946,7 +939,7 @@ There is a handful of verbs, which appear without the ending. These
 are some of the most common verbs in Pandunia.
 
 **wola** - to want (active verb)  
-**abla** - can, to be able to (active verb)  
+**bila** - can, to be able to (active verb)  
 
 #### 11.1.2. Deriving verbs
 
@@ -1015,34 +1008,49 @@ which is from that place".
 
 #### 11.1.5. Words without an ending
 
-1. When a thing-root serves as a noun, it doesn't need the noun
-   ending.
-2. When a description-root serves as an adjective, it doesn't need the
-   adjective ending.
-3. When an action-root serves as a verb, it doesn't always need the
-   verb ending. (*)
+Nouns and modifiers don't always have the corresponding ending. For
+example we normally use short word **insan** (human being) instead of
+**insane**. Likewise we normally say **bon** (good) instead of
+**boni**.
 
-|                  | Noun        | Adjective   | Verb        |
-|:-----------------|:------------|:------------|:------------|
-| Thing-root       | **insan**   | insani      | -           |
-| Description-root | bone        | **bon**     | bona        |
-| Action-root      | wole        | woli        | **wola**    |
+Also the complete word forms are accepted but they are not required.
 
-Note! Pandunia doesn't follow the rule about action-roots because we
-think that normally it is more useful to mark verbs than nouns. So an
-action-root like **kitab** (writing) gives two verbs, **kitaba** and
-**kitabu** – but the plain root, **kitab**, is used as a noun!
+Verbs however always have their proper endings. So we always say for
+example **baxa** and **baxu** and never **bax** (as a verb). Instead,
+**bax** is a noun i.e. short form of **baxe**.
 
-### 11.2. Derivational Suffixes
+### 11.2. Compound words
 
-#### 11.2.1. -bli
+Two or more nouns can be put together to make a _compound word_. The
+last word is the most meaningful word in the compound and the words
+that come before it only modify its meaning.
+
+Compound words are created by putting two words together and by
+inserting the linking vowel **-o-** between them (in place of the
+original word class marker).
+
+Example: Creating **termometer** from **terme** and **meter**.  
+First the word class marker **-e** is removed from **terme**,
+leaving **term**. Then the linking vowel **-o-** is added and
+then the second word **meter**, resulting into **term-o-meter** i.e.
+**termometer**.
+
+         terme      (temperature)  
+       + meter      (measuring device)
+    ____________
+    = termometer    (thermometer)
+
+
+### 11.3. Common Suffixes
+
+#### 11.3.1. -bli
 
 Indicates possibility. It is attached after the verb root.
 
 **widabli** which can be seen, visible  
 **widubli** who/which can see
 
-#### 11.2.2. -er
+#### 11.3.2. -er
 
 Creates agent nouns. It denotes a person or a tool who does the
 action.
@@ -1073,7 +1081,7 @@ thing to whom the action is done.
 
 -->
 
-#### 11.2.3. -ia
+#### 11.3.3. -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the
 root as a whole.
@@ -1104,7 +1112,7 @@ When it is added after -er, it means a place of work.
 **fakteria** factory  
 **sapateria** shoemaker's shop  
 
-#### 11.2.4. -is-
+#### 11.3.4. -is-
 
 Causative suffix.
 
@@ -1113,7 +1121,7 @@ Causative suffix.
 **nota** to note  
 **notisa** to notify  
 
-#### 11.2.4. -ist-
+#### 11.3.5. -ist-
 
 This suffix that denotes a person who tends to behave or think in a
 certain way or to follow a certain ideology or religion.
@@ -1123,12 +1131,14 @@ certain way or to follow a certain ideology or religion.
 **dewisti** theistic  
 **dewistia** theism (system of belief in a god or gods)  
 
-#### 11.2.6. -ul-
+#### 11.3.6. -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 
 **liga** to tie; **ligula** to untie  
 **ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
+
+
 
 ## 12. Advanced Topics
 
