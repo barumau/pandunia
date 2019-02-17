@@ -52,14 +52,5 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 - [Maailman yhteyskieli](dunia_bax.md)
 - [Esperanto vs. pandunia](esperanti_i_pandunia.md)
 - [Esitys panduniasta PDF-muodossa](Diaesitys.pdf)
-
-
-## Panduniasta muissa julkaisuissa
-
-- Kauko Kämäräinen. Keksittyjä kieliä, unohtuneita utopioita. Sivut 226-239. 2017. Kustannus Kääntöpuoli. Tampere, Suomi.
-- [Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf). Interlinguistica Tartuensis, nro 10. 2017. Tartto, Viro.
-- Lyhyitä mainintoja muualla
-    - D.V. Lichargin et al. [Applying Conlangs to the Natural Languages Generation Based on Generative Grammars](http://scjournal.ru/articles/issn_1997-2911_2016_12-3_35.pdf). 2016. Siperian federatiivinen yliopisto. Krasnojarsk, Venäjä.
-    - D.D. Mištšenko. [Применимость плановых языков к анализу естественных языков](http://elib.sfu-kras.ru/handle/2311/11853). 2013. Siperian federatiivinen yliopisto. Krasnojarsk, Venäjä.
-    - A.R. Libert & C. Moskovsky. [Terms for Bodies of Water in A Posteriori and Mixed Artificial Languages](http://s3.amazonaws.com/academia.edu.documents/39789548/JUL2015fall_Libert___Moskovsky.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1498078623&Signature=uGDbvzaTsiPSh1hAozL5h53G%2B24%3D&response-content-disposition=inline%3B%20filename%3DTerms_for_Bodies_of_Water_in_A_Posterior.pdf). 2015. University of Newcastle, Australia.
+- [Panduniasta muissa julkaisuissa](makal_tema_pandunia.md)
 

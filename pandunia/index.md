@@ -20,6 +20,7 @@ eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.htm
   * [piper i karote](piper_i_karot.md)
   * [insan da putong hake](putong_hake.md)
   * [dini kitabe](dini_kitabe.md)
+  * [makal_tema_pandunia.md](makal tema pandunia na ali bax)
 * [filme](filme.md)
 * loge liste
   * [dunia loge](lekse/dunia_loge.html)
@@ -31,7 +32,6 @@ eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.htm
   * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
   * [sani bax temu da wikia](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
   * [max i max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
-
 
 
 ![](http://www.pandunia.info/kuvat/pandunia_ge_waterman.png)
