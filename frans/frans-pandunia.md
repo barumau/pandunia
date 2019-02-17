@@ -37,7 +37,7 @@
 билет : tikete  
 блюдо (таз) : tas  
 бляшанка : tin  
-ванная : banye kamar  
+ванная : banyokamar  
 вершина : pike  
 взрослый : adulte  
 глава : babe  
@@ -65,11 +65,11 @@
 попугай : papagay  
 принадлежать : adu  
 свежий : tazi  
-телевизор : tele wide  
-телефон : tele fon  
+телевизор : telowide  
+телефон : telofon  
 тема : tem  
 терроризм : teroristia  
-технология : tekne lojia  
+технология : teknolojia  
 тигр : bagre  
 тянуть : tira milke  
 флаг : bandir  

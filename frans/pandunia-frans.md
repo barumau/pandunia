@@ -27,8 +27,8 @@ asle : начало (причина)
 babe : глава  
 bagre : тигр  
 bandir : флаг  
-banye kamar : ванная  
 banye : купание  
+banyokamar : ванная  
 banyu : купаться  
 ##c  
 ##d  
@@ -55,9 +55,9 @@ pike : вершина
 tarje : перевод  
 tas : блюдо (таз)  
 tazi : свежий  
-tekne lojia : технология  
-tele fon : телефон  
-tele wide : телевизор  
+teknolojia : технология  
+telofon : телефон  
+telowide : телевизор  
 tem : тема  
 tende : палатка (шатёр)  
 tepe : лента  

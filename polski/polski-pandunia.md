@@ -10,7 +10,7 @@ akcent, nacisk : acente
 akt, scena : roler  
 aktyn : acinium  
 akwarela, farba wodna : suy rang  
-akwarium : fix tanke  
+akwarium : fixotanke  
 Albania : cipia  
 ale, lecz : a  
 alfabet łaciński, łacinka, alfabet rzymski : latini abace  
@@ -20,8 +20,9 @@ algebra : jebria
 Algieria : jayer  
 alkohol : alkol  
 alkoholowy : alkoli  
-ambasada : dayxi kan  
-ambasador : dayxi  
+alofon : alofone  
+ambasada : daixeria  
+ambasador : daixer  
 ameryk : amerikium  
 Ameryka (kontynent) : amerike  
 Amerykańska Samoa : usameriki samoa  
@@ -44,8 +45,8 @@ antena : anten
 Antyle Holenderskie : nederlandi antilia  
 Arabia Saudyjska : saudi arabia  
 arabski : arabi  
-arachnofobia : arani fobia  
-arboretum : arbe gardin  
+arachnofobia : aranofobia  
+arboretum : arboparke  
 arbuz : arbuze  
 archipelag : nesia  
 Argentyna : argentin  
@@ -77,7 +78,7 @@ azot : nitre
 badać, studiować : loja  
 bagaż : bagaje  
 bagietka : nan baton  
-bagno : bloti stan  
+bagno : blotostan  
 bahaista : baha'iste  
 bahaizm : baha'istia  
 Bahamy : bahamia  
@@ -98,7 +99,7 @@ bardziej : max
 bariera : barer  
 basen : basen  
 bateria : batre  
-baton czekoladowy : cokolate baton  
+baton czekoladowy : cokobaton  
 bawełna : goton  
 bawić, zabawiać : maza  
 bawół domowy : kabaw  
@@ -125,7 +126,7 @@ biblioteka : kitabe kan
 biedny, mizerny : miskin  
 bilet : tikete  
 bilion, giga- : giga  
-biologia, nauka o życiu : jiwe lojia  
+biologia, nauka o życiu : biyolojia  
 biszkopt, ciastko : biskute  
 biuro, urząd : ofisia  
 biust : buste  
@@ -145,7 +146,7 @@ Boliwia : bolivia
 bomba : bombe  
 bor : boron  
 boski : dewi  
-Botswana : tswana  
+Botswana : tswania  
 Bośnia i Harcegowina : bosnia  
 Boże Narodzenie : kriste jen  
 Brazyla : brazilia  
@@ -241,7 +242,7 @@ cytować : cita
 cytryna : limun  
 Czad : cadia  
 czajnik : ketel  
-Czarnogóra : cerni goria  
+Czarnogóra : cernagoria  
 czarny : kal  
 czas, moment : zaman  
 czas; okazja : mar  
@@ -249,7 +250,7 @@ czasownik : fati lekse
 czaszka : sar oste  
 czcić, szanować : puja  
 czekać : denga  
-czekolada : cokolate  
+czekolada : coke  
 czempion : campion  
 czerwiec : mes 3 (mes sam)  
 cześć, szacunek : puje  
@@ -280,11 +281,13 @@ debatować, prowadzić dyskurs : lona
 decy-, dziesiąta część : deci  
 defekować, srać : kaka  
 delikatny, cienki, lekki : fain  
-demografia : demo' grafia  
-demokracja : demo' kratia  
+demografia : demografia  
+demokracja : demokratia  
+demokrata : demokratiste  
 Demokratyczna Republika Konga : kinsasa kongolia  
+demokratyczny : demokrati  
 demon : demon  
-dentysta : dante mediker  
+dentysta : dantomediker  
 deska : ban  
 detal, szczegół : detal  
 dharma, pobożność : darme  
@@ -305,7 +308,7 @@ doktorat : dotoria
 dokument : dokum  
 dolar : dolar  
 dom, mieszkanie : dom  
-domino : domin gem  
+domino : dominogem  
 doradca (mentor) : menter  
 dorosły, dojrzały : matur  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) : fada  
@@ -340,7 +343,7 @@ działka (teren) : lote
 działo : kanon  
 dziecko, potomek : bace  
 dzielić : fena  
-dziennik pokładowy (notatnik) : defte buke  
+dziennik pokładowy (notatnik) : deftobuke  
 dziesięć (10) : des  
 dziewczyna : jowan fem  
 dziewięć (9) : noy  
@@ -367,8 +370,8 @@ echo : eho
 efekt halo : halos  
 egipski : misri  
 Egipt : misria  
-einstein : einsteinium  
-ekologia (nauka o środowisku) : tabia lojia  
+einstein : ainstainium  
+ekologia (nauka o środowisku) : tabiolojia  
 ekran : ekran  
 ekskrement, gówno : kake  
 Ekwador : ekuador  
@@ -425,12 +428,14 @@ fiński : suomi
 flaga, sztandar : bandir  
 fluor : flur  
 fonem : foneme  
+fonologia : fonolojia  
 fontanna (studnia, źródło) : fonte  
 forma, kształt : forme  
 forteca, twierdza : yosay  
 forum : forum  
 fosfor : fosfor  
 fosfor : pospor  
+fotografia : fotografia  
 Francja : fransia  
 frans : fransium  
 fu, fuj : fuy  
@@ -450,7 +455,7 @@ gatunek : jong
 gaz : gas  
 gaza : gaze  
 gazela : gazel  
-gazeta : habar gazete  
+gazeta : habarogazete  
 gałąź, konar : xake  
 gdzie : na ke  
 gejowski (homoseksualny) : gey  
@@ -461,11 +466,12 @@ Ghana : gania
 Gibraltar : jibraltar  
 gitara : gitar  
 glin (aluminium) : alumin  
-globalny : dunial  
+globalny : duni  
 glutaminian sodu : micin  
 gluten : gluten  
 gniew, furia : furia  
 godzina : hor  
+goniometr (kątomierz) : konometer  
 gorączka : feber  
 gotować, szykować jedzenie : kuka  
 gotowy : redi  
@@ -516,6 +522,7 @@ hafn : hafnium
 Haiti : haitia  
 halo, cześć : halo'  
 hamak : hamake  
+han chiński : han  
 harmonia : harmonia  
 harmoniczny : harmoni  
 has : hasium  
@@ -526,7 +533,7 @@ heblować : randa
 hebrajski : ibri  
 hel : helium  
 herbata : cay  
-heteroseksualny : ali jinse kami  
+heteroseksualny : alojinsokami  
 hełm : helme  
 Himalaje : himalia  
 hinduistyczny : hindiste  
@@ -543,7 +550,7 @@ Holandia (Królestwo Niderlandów) : nederlandia
 holm : holmium  
 homoseksualny : sem jinse kami  
 Honduras : honduras  
-Hong Kong : hong gong  
+Hong Kong : hongong  
 honorowy : onori  
 hormon : hormon  
 hotel : hotel  
@@ -583,6 +590,7 @@ Irak : irakia
 Iran : iran  
 iryd : iridium  
 Islam : islamistia  
+islamofobia : islamofobia  
 islamski : islamisti  
 Islandia : islandia  
 istnieć (być obecnym) : zayu  
@@ -633,9 +641,9 @@ jutro : badi den
 już (skończona czynność) : lew  
 język surinamski : surinam bax  
 język sztuczny : sani bax  
-język świata, język ogólnoświatowy : dunia bax  
+język świata, język ogólnoświatowy : duniobax  
 język; komunikacja : bax  
-językoznastwo : bax lojia  
+językoznastwo : baxolojia  
 ##k  
 kabina, budka : kabin  
 kaczka : bate  
@@ -681,7 +689,8 @@ Kenia : kenia
 kiedy? : ki yang  
 kieszeń : jebe  
 kiełbasa : sosis  
-kilogram (kg) : kilo gram  
+kilogram (kg) : kilogram  
+kilometr : kilometre  
 kiosk : kioske  
 Kirgistan : kirgizia  
 Kiribati : kiribatia  
@@ -694,7 +703,7 @@ klatka piersiowa, tors; tułów : torace
 klawiatura : buton ban  
 klawisz, przycisk, przełącznik : buton  
 klej : glute  
-klin : kil  
+klin :   
 klon, replika : klon  
 klonować, repilikować : klona  
 klub : klube  
@@ -714,7 +723,7 @@ kokos : yeze
 kola, napój gazowany : kola  
 kolacja : xam nyam  
 kolec : ding  
-kolej : tren daw  
+kolej : trenodaw  
 kolekcja, zbiór; zgromadzenie, zebranie : jamia  
 kolekcjonować, zebrać, zbierać : jama  
 kolonia, osada : kolonia  
@@ -756,7 +765,7 @@ koszt, cena : koste
 kosztować : kosta  
 koszula : kamis  
 kot : maw  
-kowal : metal janger  
+kowal : metalojanger  
 koza : buze  
 koło : cakre  
 koło, okrąg : cirke  
@@ -793,14 +802,14 @@ krótki : korti
 ksenon : xenon  
 ksiądz, kleryk, kaznodzieja : din guru'  
 książka : buke  
-książka z obrazkami : graf buke  
+książka z obrazkami : grafobuke  
 księżyc : lun  
 kszesło, fotel : kurse  
 ktoś : koy ren  
 który? : ki  
 Kuba : kuba  
 kubek : kupe  
-kubek do herbaty : cay kupe  
+kubek do herbaty : cayokupe  
 kucharz : kuker  
 kuchnia : kuke kamar  
 kukurydza : mais  
@@ -863,7 +872,7 @@ lorens : laurensium
 losowy : zari  
 lub, albo : u  
 lubić, cieszyć się : suku  
-lud, społeczeństwo : demo'  
+lud, społeczeństwo : deme  
 ludzie (lud, ludność) : nas  
 ludzkość, rodzaj ludzki : insania  
 Luksemburg : luksemburgia  
@@ -948,7 +957,7 @@ metal : metal
 metoda, sposób : metode  
 metr : metre  
 metro : tunel tren  
-miara : metre  
+miara : mete  
 miast, miasteczko : site  
 miecz : katan  
 miedź : kuper  
@@ -960,7 +969,7 @@ mieszkać : doma
 mieć (partykuła posiadania) : da  
 mieć : ada  
 migdał : badam  
-mikro- : mikro  
+mikro- : mikro-  
 Mikronezja : mikronesia  
 mikser, blender, robot kuchenny : mixer  
 miksować, mieszać : mixa  
@@ -975,7 +984,7 @@ ministry : ministeria
 minuta : minut  
 minąć, mijać (czas) : duru  
 minąć, mijać, przeminąć, przemijać : pasa  
-misa na herbatę : cay wan  
+misa na herbatę : cayowan  
 misa, kubek bez ucha : wan  
 misja : misia  
 mit, boska opowieść : dewi sage  
@@ -997,9 +1006,11 @@ model, wzór, wzorzec, projekt : model
 modlitwa : duwe  
 molibden : molidenum  
 Monako : monako  
+monarchia : monokratia  
 Mongolia : mongolia  
 Mongolski : mongol  
 monizm : monistia  
+monolog : monologe  
 moralność, etyka : moral  
 morf : morfe  
 morfem : morfem  
@@ -1058,6 +1069,7 @@ namalować, malować : penta
 Namibia : namibia  
 namiot : tende  
 nano- : nano  
+nanometr : nanometre  
 napisać, pisać : kitaba  
 naprawa : xule  
 naprawiacz : xuler  
@@ -1157,7 +1169,7 @@ odbyt : anus
 odcisk, ślad; stempel, pieczęć : cape  
 oddech : nafas  
 odetkać, odtykać : zibula  
-odkurzacz : fun cuper  
+odkurzacz : funocuper  
 odmówić (odrzucić) : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
 odpowiedzieć, odpowiadać : jawaba  
@@ -1196,7 +1208,7 @@ orientalny smok : rong
 orija : odisi  
 Oromia : oromia  
 oromo : oromi  
-orzech ziemny : zem dow  
+orzech ziemny : zemodow  
 osiem (8) : bat  
 osioł : gade  
 osm : osmium  
@@ -1268,7 +1280,7 @@ Peru : peru'
 perła : jenju'  
 pewny : yakin  
 pełny : ful  
-pianino : piano  
+pianino : pian  
 piasek, piach : rege  
 pidżin, język pomocniczy : pijin  
 piec : beka  
@@ -1310,8 +1322,8 @@ piątek : war 5 (war lim)
 piękny, przystojny : sundar  
 pięć (5) : lim  
 piłka : bol  
-piłka do koszykówki (koszykówka) : baske bol  
-piłka nożna : fute bol  
+piłka do koszykówki (koszykówka) : baskobol  
+piłka nożna : futobol  
 placek, ciasto : pay  
 placy : ruke  
 plan : plan  
@@ -1323,7 +1335,7 @@ platoniczne : platoni
 platonizm : platonistia  
 platończyk : platoniste  
 platyna : platin  
-plecak : ruke sake  
+plecak : rukosake  
 plemię : tribe  
 Pluton (planeta karłowata) : pluto  
 pluton : plutonium  
@@ -1332,8 +1344,8 @@ pobożny : darmi
 pochochodnia (latarka) : baton nur  
 pociąg : tren  
 poczta : poste  
-poczta elektroniczna : eletri poste (e-poste)  
-poczta, budynek poczty : poste kan  
+poczta elektroniczna : eletroposte (e-poste)  
+poczta, budynek poczty : postokan  
 początek : mul  
 pod, poniżej; iść w dół, iść pod spód, iść na dno : nica  
 podarunek, dar, prezent : don  
@@ -1362,11 +1374,12 @@ poker : poke
 pokrycie; pokrywa, wieko, dekiel; pokład : deke  
 pokój rozmów, chat : blable kamar  
 pokój, sala : kamar  
-pole widzenia : wide maidan  
+pole widzenia : widomaidan  
 pole, powierzchnia : are  
 policja : polis  
 policzyć, liczyć, przetwarzać dane : komputa  
 Polinezja Francuska : fransi polinesia  
+politologia : politikolojia  
 polityk : politiker  
 polityka : politike  
 polon : polon  
@@ -1383,7 +1396,7 @@ pomóc, pomagać, asystować : helpa
 poniedziałek : war 1 (war un)  
 ponieważ, bo : karena  
 poniższy : nici  
-popołudnie : xam den  
+popołudnie : xamoden  
 poprawić, poprawiać, prostować, korygować : saha  
 poprzedni : predi  
 poprzedzić, poprzedzać : preda  
@@ -1392,11 +1405,11 @@ popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać : yala
 pora roku : mosim  
 porcja, dawka : doze  
 porno, film erotyczny : porne  
-pornografia : porne grafia  
+pornografia : pornografia  
 porozumienie (amen) : amen  
 Portugalia : portugal  
-porywacz pociągu : tren kaper  
-porywacz samolotu : wiman kaper  
+porywacz pociągu : trenokaper  
+porywacz samolotu : wimanokaper  
 porządek : ratibe  
 porządkować, organizować : ratiba  
 postawa ciała; asana : asan  
@@ -1485,7 +1498,7 @@ przekroczyć, przekraczać, przejść nad, iść nad : supra
 przekąska : lil nyame  
 przepraszam! : pardon  
 przerwać, przerywać : pausa  
-przesilenie : sol stas  
+przesilenie : solostas  
 przestępstwo : krim  
 przeszkodzić, przeszkadzać, robić kłopot : mafana  
 przeszłość : pase  
@@ -1509,23 +1522,24 @@ przymus : muse
 przyprawa : masal  
 przyrostek dla (wyniku) działania : -e  
 przyrostek dla czasowników z szykiem zdania OVS : -u  
-przyrostek dla ideologii : -istia  
-przyrostek dla jednostki podstawowej : -em  
-przyrostek dla miejsca : -ia  
+przyrostek dla ideologii : istia  
+przyrostek dla jednostki podstawowej w językoznastwie : -em  
+przyrostek dla miejsca : ia  
 przyrostek dla miejsca wykonywania : -eria  
 przyrostek dla przymiotnika : -i  
-przyrostek dla wsperającego ideę : -iste  
-przyrostek dla wykonawcy : -er  
+przyrostek dla wsperającego ideę : iste  
+przyrostek dla wykonawcy : er  
 przystojny, atrakcyjny, ładny : bon rupi  
 przyszłość : wile  
+prędkościomierz : rapometer  
 prędkość (szybkość) : rape  
 pręt, kij : baton  
 ptak : pakse  
-puder : muke fun  
+puder : mukofun  
 pudełko, skrzynia : kax  
 puding : puding  
 pudło, skrzynia : sanduke  
-Puerto Rico : puerto riko  
+Puerto Rico : portorikia  
 punkt : binde  
 pusty : hali  
 pustynia : regi stan  
@@ -1553,13 +1567,14 @@ rada, porada : mente
 radio : radi geter  
 radioaktywność : ioni radia  
 radioaktywny : ioni radi  
+radoiometr : radiometer  
 radon : radon  
 rakieta : rokete  
 Ramadan : ramazan  
 ranek, rano, poranek : sube  
 raport : reporte  
 raportować, relacjonować, opowiadać : reporta  
-rasa, narodowość : ras  
+rasa : ras  
 rasista : rasiste  
 rasizm : rasistia  
 rebelia, powstanie : rebel  
@@ -1659,13 +1674,13 @@ sałata : letis
 sałatka : salade  
 scena : sen  
 seaborg : seaborgium  
-sejsmologia : sisme lojia  
+sejsmologia : sismolojia  
 sekret : sir  
 sekretariat : sekreteria  
 sekretarz : sekreter  
 seks, stosunek płciowy : sekse  
 seksowny, ponętny : seksi  
-sekunda : sekun  
+sekunda : sekunde  
 selen : selen  
 selen : selen  
 sen : son  
@@ -1762,13 +1777,14 @@ statyczny, stacjonarny, nieruchomy : stasi
 stać : libu  
 sterować : gida  
 sto (##) : hon  
-stolarz : moke janger  
+stolarz : mokojanger  
 stop; przerwa, zatrzymanie : ting  
 stopa : pede  
+stoper : sekundometer  
 stopień, poziom, ranga, klasa : darje  
 stopić się, topić się, stawać się płynnym : mayu  
 stopić, topić, czynić płynnym : maya  
-strach, fobia : fobe  
+strach, fobia : fobia  
 strażnik więzienny : prizoner  
 strażnik, ochroniarz : garder  
 stront : strontium  
@@ -1805,7 +1821,7 @@ szampon : xampu'
 szansa : canse  
 szariat : islamisti xaria  
 szczepionka : waksin  
-szczoteczka do zębów : dante brox  
+szczoteczka do zębów : dantobrox  
 szczotka : brox  
 szczyt (wierzchołek) : pike  
 szef, kierownik : xefe  
@@ -1819,9 +1835,10 @@ szkło : kace
 szmaragd : zumrude  
 szokwstrząs; kolizja : xoke  
 szparag; szparagia : lusun  
-szron : him rose  
+szron : himorose  
 sztuczny : sani  
 sztuka  : arte  
+sztuka walki : jengoxute  
 sztylet (puginał) : kanjar  
 szukać : serca  
 Szwajcaria : swisia  
@@ -1870,24 +1887,28 @@ taśma; bandaż : bande
 tchórz, fretka : furete  
 technet : teknetium  
 technika, technologia : tekne  
-technologia, nauka o technikach : tekne lojia  
+technokracja : teknokratia  
+technologia, nauka o technikach : teknolojia  
 teistyczny : dewiste  
 teizm : dewistia  
-telefon : tele fon  
-telewizja : tele wide  
+telefon : telofon  
+telewizja : telowide  
 tellur : telurium  
 telugu : telugu'  
 temat, motyw : tem  
+temperatura : terme  
 ten : di  
 ten konkretny : ce  
 ten, te : ci  
 tenesyn, tennessine : tenesin  
 tenis : tenis  
-teologia : dew lojia  
+teokracja : dewokratia  
+teologia : dewolojia  
 teoria : teoria  
 teraz : nun  
 teraźniejszość, współczesność : zaye  
 terb : terbium  
+termometr : termometer  
 terror : teror  
 terrorysta : teroriste  
 terroryzm : teroristia  
@@ -1946,7 +1967,7 @@ tykwa : hulu'
 tylko : mon  
 tyran : tiran  
 tyrania : tirania  
-tysiąc, kilo- : kilo  
+tysiąc : kil  
 tytan : titan  
 tytoń : tabake  
 tłumacz : tarjer  
@@ -1965,9 +1986,11 @@ ugotować się, gotować się : bulu
 Ukraina : ukraina  
 ukraść, kraść : cora  
 ukształtować, kształtować, urzeźbić, rzeźbić : forma  
-układ słoneczny : sol sistem  
+układ słoneczny : solosistem  
 uleczyć, leczyć, uzdrowić, uzdrawiać : medika  
+umiejętność (kompetencja) : xute  
 umiejętny (sprawny, zręczny) : jangi  
+umiejętny (wprawny) : xuti  
 umieścić (postawić) : loka  
 umrzeć, umierać : mortu  
 unia : unia  
@@ -2010,9 +2033,9 @@ w przyszłości : wil
 wagina : yone  
 wakacje, ferie : feria  
 walka, wojna : jeng  
-wanilia : wanila  
+wanilia : wanil  
 wapń : kalsium  
-warcaby : dam gem  
+warcaby : damogem  
 warga : labe  
 warsztat szewski : sapateria  
 warsztat, pracownia; miejsce na ... : kan  
@@ -2068,7 +2091,7 @@ winyl : winil
 wiolonczela : celo'  
 wiosna : cune  
 wirus : wirus  
-wirusologia : wirus lojia  
+wirusologia : wirusolojia  
 witaj, dobre przybycie : salam laye  
 wiwatować; hura : ura  
 większościowy, wiodący, główny : maxor  
@@ -2208,7 +2231,7 @@ zbudować, budować, konstruować : bina
 zbyt : max ka bas  
 zbyt mało : min ka bas  
 zdanie, zwrot, wyrażenie : jumle  
-zdjęcie, fotografia : foto  
+zdjęcie, fotografia : fotograf  
 zdrada małżeńska, cudzołóstwo : zine  
 zebra : zebre  
 zemleć, mleć, mielić : mola  
@@ -2226,9 +2249,10 @@ zimny, chłodny : leng
 Zjednoczone Królestwo : britania  
 zjednoczony : uni  
 zmienić, zmieniać : muta  
+zmierzyć : meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać : musa  
 zmysł : sense  
-znaczek pocztowy : posti cape  
+znaczek pocztowy : postocape  
 znaczenie : mene  
 znaczyć (liczyć się, być ważnym) : importu  
 znaczyć : mena  
@@ -2267,7 +2291,7 @@ zły, zrujnowany, zepsuty : harabi
 Łotwa : latvia  
 łatwy, prosty : izi  
 ławka : bence  
-łazienka : banye kamar  
+łazienka : banyokamar  
 łańcuch : silsil  
 łyżka : camce  
 łza : yen suy  
@@ -2284,7 +2308,7 @@ zły, zrujnowany, zepsuty : harabi
 średni : medi  
 środa : war 3 (war sam)  
 środkowy, centralny : jung  
-środowiskowy, naturalny : tabial  
+środowiskowy, naturalny : tabi  
 śruba, wkręt : lose  
 świadomy; oświecony : budi  
 świat : dunia  

@@ -1,10 +1,6 @@
 -a (-e) : -i  
--ejo (-ujo, -io) : -ia  
 -er : -em  
 -i (-iĝi) : -u  
--ismo : -istia  
--isto : -er  
--isto de -ismo : -iste  
 -o (-aĵo) : -e  
 : : -a : -i : (-igi)  
 ##a  
@@ -36,8 +32,8 @@ alkoholo : alkol
 alta : gaw  
 altaro : altar  
 aluminio : alumin  
-ambasado : dayxi kan  
-ambasadoro : dayxi  
+ambasado : daixeria  
+ambasadoro : daixer  
 americio : amerikium  
 amerika : ameriki  
 Ameriko : amerike  
@@ -67,10 +63,10 @@ anuso : anus
 aparteni : adu  
 araba : arabi  
 araneo : arane  
-araneofobio : arani fobia  
+araneofobio : aranofobia  
 arbaro : jangal  
 arbo : arbe  
-arboĝardeno : arbe gardin  
+arboĝardeno : arboparke  
 areo : are  
 Argentino : argentin  
 argono : argon  
@@ -113,7 +109,7 @@ banano : banan
 bandaĝo (vindo) : bande  
 Bangladeŝo : banglia  
 bano : banye  
-banĉambro : banye kamar  
+banĉambro : banyokamar  
 baobabo : buyu'  
 Barata : barti  
 Baratio : bartia  
@@ -145,7 +141,7 @@ bezoni : nida
 Biblio : biblia  
 biero : bir  
 bildo : graf  
-biologio : jiwe lojia  
+biologio : biyolojia  
 birdo : pakse  
 Birmo : bama  
 biskvito (kuketo) : biskute  
@@ -218,12 +214,13 @@ dekono : deci
 demanda : eski  
 demandi (ĉu) : eska  
 demando : eske  
-demografio : demo' grafia  
-demokratio : demo' kratia  
+demografio : demografia  
+demokratia : demokrati  
+demokratio : demokratia  
 demono : demon  
 denove (ripete) : repi  
-dentbroso : dante brox  
-dentisto : dante mediker  
+dentbroso : dantobrox  
+dentisto : dantomediker  
 dento : dante  
 desegno : desen  
 detalo : detal  
@@ -261,7 +258,8 @@ edzigi : mara
 egala : egal  
 egipta : misri  
 Egipto : misria  
-ejnŝtejnio : einsteinium  
+ejnŝtejnio : ainstainium  
+ejo (ujo, io) : ia  
 ejo : aria  
 ekrano : ekran  
 ekstera : way  
@@ -330,7 +328,7 @@ feko : kake
 fenestro : janel  
 fermio : fermium  
 fero : fer  
-fervojo : tren daw  
+fervojo : trenodaw  
 festi : festa  
 festo : feste  
 feĉo : hamir  
@@ -369,7 +367,7 @@ fosforo : pospor
 fosi : fosa  
 foso : fos  
 fotilo : kamera  
-foto : foto  
+foto : fotograf  
 Francio : fransia  
 franciumo : fransium  
 frato aŭ fratino : saudar  
@@ -377,7 +375,7 @@ fremda lando : way dexia
 freneza : foli  
 freŝa : tazi  
 fromaĝo : cis  
-frosto : him rose  
+frosto : himorose  
 frukto (rezulto) : pal  
 fumo : duman  
 funkcii : funca  
@@ -395,7 +393,7 @@ gardisto : garder
 gaso : gas  
 gazelo : gazel  
 gazeto (revuo) : gazete  
-gazeto : habar gazete  
+gazeto : habarogazete  
 gazo : gaze  
 geedzeco : maria  
 genro : jinse  
@@ -497,7 +495,10 @@ iridio : iridium
 islama : islamisti  
 islamo : islamistia  
 Islando : islandia  
+ismo : istia  
 Israelo : israel  
+isto (anto) : er  
+isto de ismo : iste  
 Italio : italia  
 iterbio : yuterbium  
 itrio : yutrium  
@@ -570,6 +571,7 @@ kiam? : ki zaman
 kie : na ke  
 kiel (ol) : ka  
 kiel? : ki yang  
+kilometro : kilometre  
 kio? : ke  
 kio? : ki xey  
 kiso : cum  
@@ -585,7 +587,7 @@ knabino : jowan fem
 knabo : jowan man  
 kobalto : kobalte  
 kodo : kode  
-kojno : kil  
+kojno :   
 koko : koke  
 kokoso : yeze  
 kolbaso : sosis  
@@ -689,7 +691,7 @@ ligi : banda
 ligno : moke  
 liki : lowa  
 lineo : linye  
-lingvistiko : bax lojia  
+lingvistiko : baxolojia  
 lingvo : bax  
 lipo : labe  
 listo : liste  
@@ -771,16 +773,17 @@ metiisto : janger
 metodo : metode  
 metroo : tunel tren  
 mezo : medi  
-mezuro : metre  
+mezuri : meta  
+mezuro : mete  
 mi : mi  
 mia : mi da  
 mielo : mel  
 migdalo : badam  
-mikro- : mikro  
+mikro- : mikro-  
 miksi : mixa  
 miksilo : mixer  
 miksulo : hibride  
-mil : kilo  
+mil : kil  
 mili- : mili  
 miliardo (giga-) : giga  
 miliono : mega  
@@ -793,7 +796,7 @@ mizera : miskin
 mola : komal  
 molibdeno : molidenum  
 monato : mes  
-mondlingvo : dunia bax  
+mondlingvo : duniobax  
 mondo : dunia  
 mongola : mongol  
 Mongolio : mongolia  
@@ -920,12 +923,12 @@ persa : farsi
 persono : ren  
 peti (bonvolu) : bita  
 pia : darmi  
-piano : piano  
+piano : pian  
 picejo : pizeria  
 pico : pize  
 pieco : darme  
 piedo : pede  
-piedpilko : fute bol  
+piedpilko : futobol  
 pilko : bol  
 pingveno : pinguin  
 pino : song  
@@ -956,18 +959,18 @@ polvo : fun
 pomo : aple  
 ponardo : kanjar  
 ponto : pulte  
-popolo : demo'  
+popolo : deme  
 porcio (dozo) : doze  
 pordo : mun  
 porkaĵo : gurube manse  
 porko : gurube  
 posteno : asan  
-posttagmeze : xam den  
+posttagmeze : xamoden  
 poto : pote  
 povi : bila  
 povo : bile  
 poŝo : jebe  
-poŝtejo : poste kan  
+poŝtejo : postokan  
 pravigi : saha  
 presaĵo : cape  
 presi : capa  
@@ -1060,7 +1063,7 @@ saluton! : halo'
 sama : sem  
 samario : samarium  
 samlandano : sem dexi  
-samseksema : ali jinse kami  
+samseksema : alojinsokami  
 samseksema : gey  
 samseksema : sem jinse kami  
 sangi : lowa sang  
@@ -1103,7 +1106,7 @@ silicio : silike
 simpla : simpli  
 Singapuro : singapur  
 siropo : xirope  
-sismologio : sisme lojia  
+sismologio : sismolojia  
 sistemo : sistem  
 sitelo : balde  
 skandio : skandium  
@@ -1136,7 +1139,7 @@ suko : jus
 sulfuro : sulfe  
 sumo : sum  
 suno : sol  
-sunsistemo : sol sistem  
+sunsistemo : solosistem  
 superiri : supra  
 supo : supe  
 surfaco : fas  
@@ -1161,10 +1164,10 @@ taso : kupe
 tatuo : tatu  
 teknecio : teknetium  
 tekniko : tekne  
-teknologio : tekne lojia  
+teknologio : teknolojia  
 tekto : cate  
-telefono : tele fon  
-televidilo : tele wide  
+telefono : telofon  
+televidilo : telowide  
 teluro : telurium  
 temo : tem  
 tendo : tende  
@@ -1172,7 +1175,8 @@ teneso : tenesin
 teni : tena  
 teniso : tenis  
 teo : cay  
-teologio : dew lojia  
+teokratio : dewokratia  
+teologio : dewolojia  
 teorio : teoria  
 terbio : terbium  
 terorismo : teroristia  
@@ -1183,7 +1187,7 @@ tertremo : sisme
 testo : teste  
 tie : na de  
 tigro : bagre  
-timo (fobio) : fobe  
+timo (fobio) : fobia  
 tio : de  
 tio estas (alivorte) : yani  
 tiri : tira  
@@ -1218,7 +1222,7 @@ tundro : tundar
 tunelo : tunel  
 Turkio : turkia  
 turo : minare  
-tuttera : dunial  
+tuttera : duni  
 tuŝi : toca  
 ##u  
 uniono : unia  
@@ -1318,8 +1322,8 @@ zuluo : zulu'
 ĉirkaŭ : cirka  
 ĉiu : pan  
 ĉiu(j) : mey  
-ĉokolado : cokolate  
-ĉokolado : cokolate baton  
+ĉokolado : coke  
+ĉokolado : cokobaton  
 ĉu? : he  
 ĝelo : jel  
 ĝirafo : jiraf  

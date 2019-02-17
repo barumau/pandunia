@@ -1,13 +1,10 @@
 -a : przyrostek dla czasowników z szykiem zdania SVO  
 -e : przyrostek dla (wyniku) działania  
--em : przyrostek dla jednostki podstawowej  
--er : przyrostek dla wykonawcy  
+-em : przyrostek dla jednostki podstawowej w językoznastwie  
 -eria : przyrostek dla miejsca wykonywania  
 -i : przyrostek dla przymiotnika  
--ia : przyrostek dla miejsca  
--iste : przyrostek dla wsperającego ideę  
--istia : przyrostek dla ideologii  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : klin  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -25,15 +22,17 @@ afrike : Afryka
 afriki : afrykański, Afrykanin  
 agres : agresja, napaść  
 aha : rozumieć, pojmować  
+ainstainium : einstein  
 ajil : zwinny, sprawny  
 akse : oś  
 alge : alga (wodorost)  
-ali jinse kami : heteroseksualny  
 ali : inny  
 alkol : alkohol  
 alkoli : alkoholowy  
 almar : kredens (szafa, szafka)  
 almas : diament  
+alofone : alofon  
+alojinsokami : heteroseksualny  
 altar : ołtarz  
 alumin : glin (aluminium)  
 am : miłość (afekt)  
@@ -66,11 +65,11 @@ aplika : zastosować, stosować
 aplike : zastosowanie, aplikacja  
 arabi : arabski  
 arane : pająk  
-arani fobia : arachnofobia  
 aranje : pomarańcza  
 aranji : pomarańczowy  
-arbe gardin : arboretum  
+aranofobia : arachnofobia  
 arbe : drzewo  
+arboparke : arboretum  
 arbuze : arbuz  
 are : pole, powierzchnia  
 argentin : Argentyna  
@@ -133,8 +132,8 @@ bande : taśma; bandaż
 bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
-banye kamar : łazienka  
 banye : kąpiel  
+banyokamar : łazienka  
 banyu : kąpać się  
 bar : bar, knajpa  
 bara : blokować, hamować  
@@ -149,16 +148,16 @@ bartia : Indie
 barude : proch strzelniczy  
 bas : wystarczający  
 basen : basen  
-baske bol : piłka do koszykówki (koszykówka)  
 baske : kosz  
+baskobol : piłka do koszykówki (koszykówka)  
 bat : osiem (8)  
 bate : kaczka  
 baton nur : pochochodnia (latarka)  
 baton : pręt, kij  
 batre : bateria  
-bax lojia : językoznastwo  
 bax : język; komunikacja  
 baxa : mówić; komunikować  
+baxolojia : językoznastwo  
 bay : biały  
 bazar huristia : liberalizm rynkowy  
 bazar : rynek, bazar  
@@ -203,6 +202,7 @@ bismute : bizmut
 bita laya : zaprosić, zapraszać  
 bita : prosić  
 bixu : musieć  
+biyolojia : biologia, nauka o życiu  
 bizar : dziwny  
 bizi : zajęty  
 biznes ren : osoba biznesu, biznesman  
@@ -211,8 +211,8 @@ blabla : luźna rozmowa, gadanina
 blable kamar : pokój rozmów, chat  
 bloge : blog  
 blote : błoto  
-bloti stan : bagno  
 bloti : błotnisty  
+blotostan : bagno  
 boikote : bojkot  
 boke : usta  
 bol : piłka  
@@ -276,16 +276,16 @@ capa : naciskać, zostawiać ślad
 cape : odcisk, ślad; stempel, pieczęć  
 car : cztery (4)  
 cate : dach  
-cay kupe : kubek do herbaty  
-cay wan : misa na herbatę  
 cay : herbata  
+cayokupe : kubek do herbaty  
+cayowan : misa na herbatę  
 ce : ten konkretny  
 cehia : Republika Czeska, Czechy  
 ceka : sprawdzić, sprawdzać, skontrolować  
 celo' : wiolonczela  
 centi : centy-, procent, na sto, setna część  
 cerium : cer  
-cerni goria : Czarnogóra  
+cernagoria : Czarnogóra  
 cesium : cez  
 ci : ten, te  
 cile : Chile  
@@ -298,8 +298,8 @@ cirki : okrągły
 cis : ser  
 cita : cytować  
 coda : jebać, kopulować  
-cokolate baton : baton czekoladowy  
-cokolate : czekolada  
+coke : czekolada  
+cokobaton : baton czekoladowy  
 cor : kradzież  
 cora : ukraść, kraść  
 corer : złodziej  
@@ -315,16 +315,18 @@ cuze : wybór, elekcja, selekcja
 ##d  
 da : mieć (partykuła posiadania)  
 dado' : kość do gry  
+daixer : ambasador  
+daixeria : ambasada  
 dalil : dowód; zeznanie  
 dalila : dowieść, dowodzić; zeznać, zeznawać  
-dam gem : warcaby  
+damogem : warcaby  
 dan : ziarno, nasienie  
 dania : Dania  
 danka : dziękować  
 danke : dzięki, dzięki ci  
-dante brox : szczoteczka do zębów  
-dante mediker : dentysta  
 dante : ząb  
+dantobrox : szczoteczka do zębów  
+dantomediker : dentysta  
 darba : bić, uderzyć, uderzać  
 daria : może, ocean  
 darje : stopień, poziom, ranga, klasa  
@@ -343,20 +345,20 @@ dawiste : taoista
 dawistia : taoizm  
 day : duży; bardzo  
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
-dayxi kan : ambasada  
-dayxi : ambasador  
 de : tamten  
 deci : decy-, dziesiąta część  
 defta : zapisać (zarejestrować)  
-defte buke : dziennik pokładowy (notatnik)  
 defte : rejestr  
 deftia : register  
+deftobuke : dziennik pokładowy (notatnik)  
 deka : przykryć, przykrywać, ukryć, ukrywać  
 deke : pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula : odsłonić, odsłaniać  
-demo' grafia : demografia  
-demo' kratia : demokracja  
-demo' : lud, społeczeństwo  
+deme : lud, społeczeństwo  
+demografia : demografia  
+demokrati : demokratyczny  
+demokratia : demokracja  
+demokratiste : demokrata  
 demon : demon  
 den nyam : obiad, lunch  
 den : dzień  
@@ -364,12 +366,13 @@ denga : czekać
 des : dziesięć (10)  
 desen : rysunek, obraz  
 detal : detal, szczegół  
-dew lojia : teologia  
 dew : bóg, bóstwo  
 dewi sage : mit, boska opowieść  
 dewi : boski  
 dewiste : teistyczny  
 dewistia : teizm  
+dewokratia : teokracja  
+dewolojia : teologia  
 dex : kraj, ziemia  
 di : ten  
 din guru' : ksiądz, kleryk, kaznodzieja  
@@ -383,7 +386,7 @@ dokum : dokument
 dolar : dolar  
 dom : dom, mieszkanie  
 doma : mieszkać  
-domin gem : domino  
+dominogem : domino  
 don : podarunek, dar, prezent  
 dona : dać, dawać  
 dong : wschód  
@@ -409,9 +412,9 @@ duli : podwójny (dwójkowy)
 dulistia : dualizm  
 dum : ogon  
 duman : dym  
-dunia bax : język świata, język ogólnoświatowy  
+duni : globalny  
 dunia : świat  
-dunial : globalny  
+duniobax : język świata, język ogólnoświatowy  
 dur : trwanie  
 dura : trwać, zająć czas; przez  
 duru : minąć, mijać (czas)  
@@ -423,17 +426,17 @@ dux : prysznic
 egal : prawy, sprawiedliwy, słuszny, uczciwy, fair  
 eglis : kościół  
 eho : echo  
-einsteinium : einstein  
 ekran : ekran  
 ekuador : Ekwador  
 eletre : elektryczność  
-eletri poste (e-poste) : poczta elektroniczna  
 eletri : elektryczny  
 eletron : elektron  
+eletroposte (e-poste) : poczta elektroniczna  
 energe : energia  
 engli : Anglik; angielski  
 eni : jakikolwiek, którykolwiek  
 enzim : enzym  
+er : przyrostek dla wykonawcy  
 erbium : erb  
 eris : Eris (planeta karłowata)  
 eritria : Erytrea  
@@ -516,13 +519,13 @@ fina : skończyć, kończyć
 finger wen : pierścień, pierścionek; obrączka  
 finger : palec  
 fini : ostatni, końcowy  
-fix tanke : akwarium  
 fix : ryba  
+fixotanke : akwarium  
 fizike : fizyka  
 fiziker : fizyka  
 fizikia : fizyk  
 flur : fluor  
-fobe : strach, fobia  
+fobia : strach, fobia  
 fokus : skupienie, koncentracja  
 fokusa : skupić, się, skoncentrować się  
 foli : szalony  
@@ -531,6 +534,7 @@ fone : głoska
 foneme : fonem  
 fong : wiatr  
 fonga : dmuchać  
+fonolojia : fonologia  
 fonte : fontanna (studnia, źródło)  
 forke : widelec  
 forma : ukształtować, kształtować, urzeźbić, rzeźbić  
@@ -539,7 +543,8 @@ forum : forum
 fos : dół, jama, wydobycie, wykop, wykopalisko  
 fosa : wykopać, kopać, wydobyć, wydobywać, wykopywać  
 fosfor : fosfor  
-foto : zdjęcie, fotografia  
+fotograf : zdjęcie, fotografia  
+fotografia : fotografia  
 fransi polinesia : Polinezja Francuska  
 fransia : Francja  
 fransium : frans  
@@ -550,13 +555,13 @@ fuke : ubranie, ubiór, strój
 ful : pełny  
 fula : wypełnić, wypełniać  
 fulan : trochę; nieokreślony, nieograniczony, nieokreślony  
-fun cuper : odkurzacz  
 fun : pył  
 funca : funkcja, stanowisko  
+funocuper : odkurzacz  
 furete : tchórz, fretka  
 furi : zły (wsciekły, gniewny)  
 furia : gniew, furia  
-fute bol : piłka nożna  
+futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
 gabre stan : cmentarz  
@@ -614,12 +619,12 @@ gluten : gluten
 gol : cel  
 gom : guma  
 goton : bawełna  
-graf buke : książka z obrazkami  
 graf : opis, przedstawienie; wykres  
 grafa : opisywać, ilustorawć; przedstawiać  
 grafem : grafem  
 grafer : ilustrator, grafik  
 grafi : obrazowy, graficzny; opisowy  
+grafobuke : książka z obrazkami  
 gram : gram  
 gras : trawa  
 grenada : Grenada  
@@ -644,8 +649,8 @@ guste : smak
 gustu ka : smakować jak  
 guy : ogr (trol, goblin)  
 ##h  
-habar gazete : gazeta  
 habar : wiadomość, nius  
+habarogazete : gazeta  
 hafiza : zachować, zakonserwować, zachować, utrzymać  
 hafizer : przechowawca, kustosz, opiekun  
 hafnium : hafn  
@@ -663,6 +668,7 @@ halos : efekt halo
 hamake : hamak  
 hamar : młot, młotek  
 hamir : drożdże  
+han : han chiński  
 hande : ręka, dłoń  
 hangogia : Korea Południowa  
 hani : ręczny  
@@ -695,9 +701,9 @@ hero'i : bohaterski, heroiczny
 hewan : animal  
 hibride : hybryda; kundel  
 hidre : wodór  
-him rose : szron  
 him : śnieg  
 himalia : Himalaje  
+himorose : szron  
 hindiste : hinduistyczny  
 hindistia : hinduizm  
 hisaba : kalkulować  
@@ -710,7 +716,7 @@ hoke : hokej
 holmium : holm  
 hon : sto (##)  
 honduras : Honduras  
-hong gong : Hong Kong  
+hongong : Hong Kong  
 hor : godzina  
 hormon : hormon  
 horvatia : Chorwacja  
@@ -727,6 +733,7 @@ huristi : liberalny, wolnościowy
 huristia : liberalizm  
 ##i  
 i : i, oraz  
+ia : przyrostek dla miejsca  
 ibri : hebrajski  
 ice : wola, chęć  
 ide : idea, pomysł  
@@ -771,9 +778,12 @@ islamiste : muzułman, muzułmanin
 islamisti xaria : szariat  
 islamisti : islamski  
 islamistia : Islam  
+islamofobia : islamofobia  
 islamu : poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 islandia : Islandia  
 israel : Izrael  
+iste : przyrostek dla wsperającego ideę  
+istia : przyrostek dla ideologii  
 italia : Italia, Włochy  
 izi : łatwy, prosty  
 ##j  
@@ -808,6 +818,7 @@ jena : urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodz
 jeng : walka, wojna  
 jenger : wojownik, bojownik  
 jengi : militarny, wojskowy, wojenny  
+jengoxute : sztuka walki  
 jenju' : perła  
 jentil : uprzejmy, miły  
 jenu : urodzić się, rodzić się  
@@ -823,7 +834,6 @@ jinse : płeć
 jinsi : płciowy  
 jiraf : żyrafa  
 jiwa : żyć  
-jiwe lojia : biologia, nauka o życiu  
 jiwe : życie  
 jiwi : żywy, żyjący  
 joke : żart  
@@ -936,9 +946,9 @@ ki xey : jak?
 ki yang : kiedy?  
 ki zaman : zapytać, pytać  
 ki : który?  
-kil : klin  
-kilo gram : kilogram (kg)  
-kilo : tysiąc, kilo-  
+kil : tysiąc  
+kilogram : kilogram (kg)  
+kilometre : kilometr  
 kimi : chemiczny  
 kimia : chemia  
 kina : ruszać, przenościć, zmieniać miejsce  
@@ -997,6 +1007,7 @@ konfuzistia : konfucjanizm
 kong : dziura  
 kongoli : kongijski  
 konkani : konkani  
+konometer : goniometr (kątomierz)  
 konsida : rozważać, brać pod uwagę  
 konson : spółgłoska  
 kontinu : kontynuować; wznawiać, ponawiać  
@@ -1268,11 +1279,12 @@ mes 9 (mes noy) : grudzień
 mes : miesiąc  
 mesaja : zakomunikować (zanieść wieści, poinformować)  
 mesaje : wiadomość  
-metal janger : kowal  
+meta : zmierzyć  
 metal : metal  
+metalojanger : kowal  
+mete : miara  
 metode : metoda, sposób  
 metre : metr  
-metre : miara  
 mexiko : Meksyk  
 mey ren : każdy człowiek, wszyscy  
 mey xey : wszystko  
@@ -1284,7 +1296,7 @@ mi : ja, mnie
 micin : glutaminian sodu  
 mien : makaron  
 migan : mandarynka  
-mikro : mikro-  
+mikro- : mikro-  
 mikronesia : Mikronezja  
 mili : mili-  
 milke : mleko  
@@ -1319,8 +1331,8 @@ mixer : mikser, blender, robot kuchenny
 mode : moda, trend  
 model : model, wzór, wzorzec, projekt  
 moge : tusz  
-moke janger : stolarz  
 moke : drewno  
+mokojanger : stolarz  
 mola : zemleć, mleć, mielić  
 moldovia : Mołdawia  
 moler : młynarz  
@@ -1330,6 +1342,8 @@ monako : Monako
 mongol : Mongolski  
 mongolia : Mongolia  
 monistia : monizm  
+monokratia : monarchia  
+monologe : monolog  
 monster : potwór, monstrum  
 moral : moralność, etyka  
 morfe : morf  
@@ -1349,8 +1363,8 @@ moter sikle : motocykl (motor)
 moter : silnik  
 mozambike : Mozambik  
 mudan : piwonia  
-muke fun : puder  
 muke : twarz  
+mukofun : puder  
 mul : początek  
 mula : zacząć, zaczynać  
 muli : pierwszy, początkowy  
@@ -1396,6 +1410,7 @@ nan baton : bagietka
 nan : chleb  
 nanas : ananans  
 nano : nano-  
+nanometre : nanometr  
 narake : piekło  
 nas : ludzie (lud, ludność)  
 nasi socistia : narodowy socjalizm  
@@ -1583,7 +1598,7 @@ petre : kamień
 pexe : profesja, zajęcie, zawód  
 pey : zapłata, opłata  
 peya : zapłacić, opłacić, płacić  
-piano : pianino  
+pian : pianino  
 pifu' : skóra  
 pigu' : pośladki, pupa, tyłek, zadek  
 pijin : pidżin, język pomocniczy  
@@ -1633,21 +1648,23 @@ polis : policja
 poliser : oficer policji, policjant  
 politike : polityka  
 politiker : polityk  
+politikolojia : politologia  
 polon : polon  
 polski : polski  
 polskia : Polska  
 pompa : pompować  
 ponta : wskazać, wskazywać  
 ponter : wskaźnik  
-porne grafia : pornografia  
 porne : porno, film erotyczny  
+pornografia : pornografia  
 porta : nosić, nieść  
+portorikia : Puerto Rico  
 portugal : Portugalia  
 pospor : fosfor  
 posta : nadać, wysłać pocztą  
-poste kan : poczta, budynek poczty  
 poste : poczta  
-posti cape : znaczek pocztowy  
+postocape : znaczek pocztowy  
+postokan : poczta, budynek poczty  
 pote : waza, garnek, gar, doniczka, słoik, słój  
 poza : pozować, ustawiać się  
 poze : poza, pozycja  
@@ -1671,7 +1688,6 @@ prometium : promet
 proses : proces, procedura  
 protacinium : protaktyn  
 puding : puding  
-puerto riko : Puerto Rico  
 puja : czcić, szanować  
 puje : cześć, szacunek  
 pul waze : wazon; donica, doniczka  
@@ -1693,6 +1709,7 @@ rade : promień
 radi geter : radio  
 radi miser : nadajnik radiowy  
 radia : promieniowanie  
+radiometer : radoiometr  
 radium : rad  
 radon : radon  
 rajer : król lub królowa  
@@ -1705,7 +1722,8 @@ rander : hebel, strug
 rang : kolor  
 rape : prędkość (szybkość)  
 rapi : szybki, prędki  
-ras : rasa, narodowość  
+rapometer : prędkościomierz  
+ras : rasa  
 rasiste : rasista  
 rasistia : rasizm  
 rasme : obyczaj, zwyczaj, tradycja, praktyka, konwencja  
@@ -1770,8 +1788,8 @@ roze : róża
 rozi : różowy, różany  
 rubidium : rubid  
 ruhe : dusza, duch, umysł  
-ruke sake : plecak  
 ruke : placy  
+rukosake : plecak  
 rul : rulon (rolka, zwój)  
 rula : toczyć, turlać  
 rum : rum  
@@ -1849,7 +1867,8 @@ sekreteria : sekretariat
 seksa : kochać się, uprawiać seks  
 sekse : seks, stosunek płciowy  
 seksi : seksowny, ponętny  
-sekun : sekunda  
+sekunde : sekunda  
+sekundometer : stoper  
 sekur : bezpieczny  
 sel : komórka (biologia)  
 selen : selen  
@@ -1895,8 +1914,8 @@ sinye : znak, sygnał
 sir : sekret  
 sirke : ocet  
 sis : sześć (6)  
-sisme lojia : sejsmologia  
 sisme : trzęsienie Ziemi  
+sismolojia : sejsmologia  
 sistem : system  
 sistemi : systemowy  
 site : miast, miasteczko  
@@ -1913,10 +1932,10 @@ sofa' : sofa, kanapa
 sofi : mądry  
 sofia : mądrość  
 soke : skarpeta, skarpetka, pończocha  
-sol sistem : układ słoneczny  
-sol stas : przesilenie  
 sol : słońce  
 solomon nesia : Wyspy Salomona  
+solosistem : układ słoneczny  
+solostas : przesilenie  
 somalia : Somalia  
 son kamar : sypialnia  
 son : sen  
@@ -1980,9 +1999,9 @@ swisia : Szwajcaria
 ##t  
 tabake : tytoń  
 tabar : siekera, topór  
-tabia lojia : ekologia (nauka o środowisku)  
+tabi : środowiskowy, naturalny  
 tabia : natura, środowisko  
-tabial : środowiskowy, naturalny  
+tabiolojia : ekologia (nauka o środowisku)  
 tabla : ułożyć w trabelę  
 table : tablioca, macierz  
 tafun : burza, sztorm, tajfun  
@@ -2014,13 +2033,14 @@ tatike : taktyka, strategia
 tatu : tatuaż  
 tawa : patelnia  
 tazi : świeży  
-tekne lojia : technologia, nauka o technikach  
 tekne : technika, technologia  
 teknetium : technet  
+teknokratia : technokracja  
+teknolojia : technologia, nauka o technikach  
 tel : daleki, odległy  
-tele fon : telefon  
-tele wide : telewizja  
 tele : dystans  
+telofon : telefon  
+telowide : telewizja  
 telugu' : telugu  
 telurium : tellur  
 tem : temat, motyw  
@@ -2037,6 +2057,8 @@ tenta : kusić, nakłonić, nakłaniać
 teoria : teoria  
 tepe : taśma  
 terbium : terb  
+terme : temperatura  
+termometer : termometr  
 teror : terror  
 teroriste : terrorysta  
 teroristia : terroryzm  
@@ -2080,12 +2102,12 @@ toti : cały, kompletny, całkowity
 towal : ręcznik  
 trans : przejazd, przewóz, tranzyt  
 transa : przejść, przechodzić, przejechać, przejeżdżać  
-tren daw : kolej  
-tren kaper : porywacz pociągu  
 tren : pociąg  
+trenodaw : kolej  
+trenokaper : porywacz pociągu  
 tribe : plemię  
 trinida i tobago : Trynidad i Tobago  
-tswana : Botswana  
+tswania : Botswana  
 tu : ty, ciebie  
 tuale : taleta, WC  
 tube : tuba, rura  
@@ -2152,7 +2174,7 @@ waksin : szczepionka
 walis i futuna nesia : Saint Vincent i Grenadyny  
 wan : misa, kubek bez ucha  
 wang : żółty  
-wanila : wanilia  
+wanil : wanilia  
 war 1 (war un) : poniedziałek  
 war 2 (war du) : wtorek  
 war 3 (war sam) : środa  
@@ -2182,21 +2204,21 @@ werme : robak
 weste : zachód  
 westi : zachodni  
 wida : patrzeć, widzieć  
-wide maidan : pole widzenia  
 wide : widok, wzrok  
+widomaidan : pole widzenia  
 widu : być widzianym  
 wiki : wiki  
 wil : w przyszłości  
 wildi : dziki  
 wile : przyszłość  
-wiman kaper : porywacz samolotu  
 wiman : samolot  
+wimanokaper : porywacz samolotu  
 win : zwycięstwo, wygrana  
 wina : zwyciężyć, wygrać  
 wing : skrzydło  
 winil : winyl  
-wirus lojia : wirusologia  
 wirus : wirus  
+wirusolojia : wirusologia  
 wizit : odwiedzić, odwiedzać  
 wol : chcieć, pragnąć  
 wolfe : wilk  
@@ -2204,10 +2226,10 @@ wolfe : wilk
 xakal : szakal  
 xake : gałąź, konar  
 xal : szal, szalik  
-xam den : popołudnie  
 xam nyam : kolacja  
 xam : wieczór  
 xaman : szaman  
+xamoden : popołudnie  
 xampu' : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
@@ -2241,6 +2263,8 @@ xudu : powinien
 xula : naprawić, naprawiać  
 xule : naprawa  
 xuler : naprawiacz  
+xute : umiejętność (kompetencja)  
+xuti : umiejętny (wprawny)  
 xuxe : zostawić, zostawiać  
 ##y  
 yada : pamiętać  
@@ -2292,9 +2316,9 @@ zay : obecny, teraźniejszy, aktualny, bieżący, współczesny
 zaye : teraźniejszość, współczesność  
 zayu : istnieć (być obecnym)  
 zebre : zebra  
-zem dow : orzech ziemny  
 zem : ziemia, grunt, gleba  
 zemia : Ziemia  
+zemodow : orzech ziemny  
 ziba : zatkać, ztykać  
 zibula : odetkać, odtykać  
 zigzage : zygzag  
