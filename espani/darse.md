@@ -82,7 +82,7 @@ Intenta traducir estas frases de Español a Pandunia.
 6. mi da nam si ........... 
 
 
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 ## Saludando
@@ -159,7 +159,7 @@ Intenta traducir estas frases de Español a Pandunia.
 4. salam!
 
 
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 Pidiendo
@@ -272,7 +272,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 5. xefe sida i nyama kafe.
 
 
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 
@@ -395,7 +395,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 6. (ye) no nyama.
 
 
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 Negación
@@ -462,7 +462,8 @@ Intenta traducir las oraciones de Español a Pandunia.
 5. xefe nyama cay a no kafe.
 6. mame ada no waf a dul maw.
 
---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------
 
 ## Pasado, presente y futuro
 
@@ -575,3 +576,128 @@ Intenta traducir de Español a Pandunia.
 4. ye safa kamar na predi den.
 5. maw nyama kafe na badi den.
 6. tu da mame festa na predi noce.
+
+
+---------------------------------------------------------------------
+
+## Palabras conectoras «da» y «du»
+
+**da** es una palabra especial en la gramática de Pandunia. Es una
+palabra que ayuda a organizar expresiones. **du** conecta la palabra
+modificadora a la palabra modificada.
+
+**mi da kaf**
+= mi carro  
+**un waf da dom**
+= Una casa de perro
+
+La palabra conectora en sí no significa nada, por lo que no se
+específica la relación entre la modificadora y la modificada. La
+relación se puede especificar mediante la adición de una palabra con
+mayor sentido.
+
+**mi dada da kar**
+= mi carro (el carro que yo tengo)  
+**mi yang da kar**
+= automóvil de mi tipo  
+**mi gida da kar**
+= el carro que yo manejo
+
+La otra palabra conectora, **du** funciona de la misma manera que
+**da** pero el modificador y el modificado están en orden opuesto.
+
+**kar du mi ada**
+= el carro mío (el carro que yo tengo)  
+**kar du mi da yang**
+= el carro de mi tipo  
+**kar du mi gida**
+= el carro que yo manejo
+
+Las palabras conectoras son útiles para dividir frases complejas en
+otras más pequeñas y más manejables.
+
+**mi na tele du tu.**
+= Yo estoy lejos de ti.  
+**mi na tu da tele.**
+= Yo estoy a tu distancia.  
+
+Las palabras conectoras también ayudan a enlazar dos frases entre
+ellas.
+
+**mame nyama keke na bade du ye fata ye.**
+= Mamá come una galleta después de hacerla.  
+**tu fikra ke na tem du keke da guste?**
+= ¿Qué tu piensas del sabor de estas galletas?
+
+Las palabras conectoras, en Español también las usamos pero las
+conocemos como adverbios, preposiciones y conjuciones.
+
+### Vocabulario
+
+**yang**
+= tipo, clase.
+**gida**
+= guiar, conducir.
+**fikra**
+= pensar.
+**tem**
+= tema.
+**guste**
+= sabor.
+
+
+---------------------------------------------------------------------
+
+## Serialización verbal
+
+La construcción de un verbo serie expresa de dos o más acciones
+sucesivas efectuadas por el mismo agente. El orden de la frase es:
+
+> sujeto + verbo 1 + verbo 2 + objeto
+
+Recordemos que Pandunia es una lengua que la serialización verbal
+sea común.
+
+**mi wola wida tu.**
+= Quiero verte. (palabras por palabras: Yo querer ver usted)  
+**mi foka wida tu.**
+= Te miro. (palabras por palabra: Yo concentrar ver ti)  
+
+Pueden haber mas de dos verbos en serie.
+
+**mi darsa pandunia.**
+= Yo aprendo pandunia.  
+**mi mula darsa pandunia.**
+= Yo empiezo a aprender pandunia.  
+**mi wola mula darsa pandunia.**
+= Yo quiero empezar a aprender Pandunia.  
+**mi wola mula darsa loga pandunia.**
+= Yo quiero empezar a aprender a hablar Pandunia.
+
+
+### Ejercicios
+Intenta traducir estas oraciones de Español a Pandunia.
+
+1. Yo necesito darle café al jefe.
+2. ¿Quieres beber agua?
+3. Él no quiere limpiar su habitación.
+
+### Vocabulario
+
+**foka**
+= enfocar, concentrarse.
+**loga**
+= hablar, charlar
+**mula**
+= empezar, comenzar.
+**wida**
+= ver, mirar.
+**wola**
+= querer, necesitar.
+
+### Respuestas
+
+1. mi wola dona kafe to xefe.
+2. eska tu wola nyama suy?
+3. ye no wola safa ye da kamar.
+
