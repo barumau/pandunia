@@ -43,10 +43,10 @@ estas páginas, a pesar de que se intenta manterlas actualizadas.
 <!-- - [Pandunia - un idioma nuevo](dunia_pijin.md) -->
 - [Presentación (PDF en inglés)](Pandunia-presentation.pdf)
 - [Pandunia, un idioma de contacto
-  global (PDF en inglés)](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
+  global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
   un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
 - [¿Por qué me gusta pandunia (PDF en inglés)?
-  ](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opiniones de
+  ](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opiniones de
   estudiantes
 
 ## Aprende con otros

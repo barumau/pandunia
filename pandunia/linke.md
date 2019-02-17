@@ -1,15 +1,10 @@
-# makal du tema pandunia
+# linke to ali nete loke
 
 ## na pandunia
  
 [max ka bas](https://maxkabas.wordpress.com/) - blog
- 
 
-## na englix
-
-[Pandunia, a global contact language](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (an article in Interlinguistica Tartuensis 10)
-
-## na esperanto
+## na esperanti
 
 [Pandunia - Multkultura Lingvo](https://www.youtube.com/watch?v=oKZrX-KxXho) video na YouTube  
 [Kial Pandunia povas iĝi la nova facila planlingvo kun aktiva komunumo](https://medium.com/@Vanege/kial-pandunia-povas-i%C4%9Di-la-nova-facila-planlingvo-kun-aktiva-komunumo-7f967f3dc1ef)  

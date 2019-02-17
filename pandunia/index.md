@@ -20,7 +20,7 @@ eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.htm
   * [piper i karote](piper_i_karot.md)
   * [insan da putong hake](putong_hake.md)
   * [dini kitabe](dini_kitabe.md)
-  * [makal_tema_pandunia.md](makal tema pandunia na ali bax)
+  * [makal tema pandunia na ali bax](makal_tema_pandunia.md)
 * [filme](filme.md)
 * loge liste
   * [dunia loge](lekse/dunia_loge.html)

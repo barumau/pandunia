@@ -40,8 +40,8 @@ Uwaga: Pandunia jest językiem w procesie tworzenia. Struktura i słownictwo mog
 
 - [Pandunia - nowy międzynarodowy język](dunia_baxe.md)
 - [Prezentacja w formacie PDF (ang.)](Pandunia-presentation.pdf)
-- [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makala/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
-- [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makala/Why_do_I_like_Pandunia.pdf) - opinie uczących się
+- [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
+- [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinie uczących się
 <!---- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)--->
 
 ## Dołącz do innych
