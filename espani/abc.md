@@ -63,21 +63,21 @@ Las consonantes siguientes representan fonemas que no existen en español:
 El acento tónico en pandunia va en la sílabra que está antes de la última
 consonante.
 
-1. Las palabras con solo una sílaba llevan el acento en la primera vocal que
-   tengan. Ejemplos: máu, cíng.
-2. El acento va en la última sílaba si la palabra termina con una consonante.
-   Ejemplos: komún, bazár, kamís.
-3. El acento va en la penúltima sílaba si la palabra termina con una vocal.
-   Ejemplos: dúnia, melódi.
+Ejemplos:
+
+- **maw** /máw/, beng /béng/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     mi wol loga komun bax, ye si pandunia.  
+    /mí wól lóga komún báx, yé sí pandúnia./
 
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     darse guru' suku kafe.
+    /dárse gurú  súku káfe./
 
 ## Uso de las letras mayúsculas y minúsculas
 

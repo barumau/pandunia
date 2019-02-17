@@ -51,18 +51,20 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
-1. Les mots d’une seule syllabe sont accentuées. Ex. : máw, cíng.
-2. L’accent est sur la dernière syllabe des mots qui se finissent par une consonne. Ex. : komún, bazár, kamís, barú'.
-3. L’accent est sur l’avant-dernière syllabe des mots qui finissent par une voyelle. Ex. : nówi, dúnia, musíke.
+- **maw** /máw/, beng /béng/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **dunia** /dúnia/, **arabia** /arábia/
+
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     mi wol loga komun bax, ye si pandunia.  
+    /mí wól lóga komún báx, yé sí pandúnia./
 
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     darse guru' suku kafe.
+    /dárse gurú  súku káfe./
 
 
 ## Majuscules

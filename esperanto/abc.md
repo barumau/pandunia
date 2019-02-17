@@ -38,22 +38,23 @@ alimaniere:
 - **x** estas prononcata kiel Esperanta "ŝ".
 - **w** estas prononcata kiel Esperanta "ŭ".
 - **y** estas prononcata kiel Esperanta "j".
+- **'** estas sensona konsonanto, kiu povas nur movigi la akcenton
+  de vorto. Ekzemple je **sofa'** la lasta silabo estas akcentita.
 
 ## Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
-1. Unusilabaj vortoj portas akcenton normale. Ekz. máw, cíng.
-2. En konsonantfinaj vortoj la lasta silabo portas akcenton. Ekz.
-   komún, bazár, kamís, barú.
-3. En vokalfinaj vortoj la antaŭlasta silabo portas akcenton. Ex.
-   nówi, dúnia, musíke.
+- **maw** /máw/, beng /béng/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     mi wol loga komun bax, ye si pandunia.  
+    /mí wól lóga komún báx, yé sí pandúnia./
 
 Se la akcentata silabo estas alia ol laŭ supraj reguloj, ĝi estas
 markita per dekstra korno (´).

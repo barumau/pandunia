@@ -41,7 +41,7 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
-- **'** on äänetön mutta se käyttäytyy konsonantin tavoin, koska sillä on
+- **'** on äänetön kirjain. Se käyttäytyy konsonantin tavoin, koska sillä on
   vaikutusta sanan painoon. Esimerkiksi sanassa **sofa'** paino on siis
   viimeisellä tavulla.
 
@@ -49,9 +49,12 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 
 Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
-1. Yksitavuiset sanat ovat yleensä painollisia. Esim. máw, cíng.
-2. Konsonanttiin loppuvan sanan paino on viimeisellä tavulla. Esim. komún, bazár, kamís.
-3. Vokaaliloppuisen sanan paino on toiseksiviimeisellä tavulla. Esim. nówi, dúnia, musíke.
+Esimerkkejä:
+
+- **maw** /máw/, beng /béng/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
@@ -59,7 +62,6 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
      mi wol loga komun bax, ye si pandunia.
     /mí wól lóga komún báx, yé sí pandúnia./
 
-Jos painollinen tavu poikkeaa edellä mainituista säännöistä, se merkitään etukenoisella painomerkillä (´).
 
      darse guru' suku kafe.
     /dárse gurú  súku káfe./

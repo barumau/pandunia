@@ -55,20 +55,18 @@ The following consonants are pronounced differently in Pandunia than in English.
 
 The stress is on the syllable, which is before the last consonant.
 
-1. Words with only one syllable carry the stress. Ex. máw, cíng.
-2. The stress is on the last syllable in words that end with a consonant. Ex.
-   komún, bazár, kamís, sofá'.
-3. The stress is on the second last syllable in words that end with a vowel.
-   Ex. nówi, dúnia, musíke.
+Consider the following examples:
 
-     dunia si mimen da sundar planete.
+- **maw** /máw/, beng /béng/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **dunia** /dúnia/, **arabia** /arábia/
+
+     dunia si mimen da sundar planete.  
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun bax, ye si pandunia.
+     mi wol loga komun bax, ye si pandunia.  
     /mí wól lóga komún báx, yé sí pandúnia./
-
-If the stressed syllable is other than stated in the rules above, it is marked
-with the acute accent mark (´).
 
      darse guru' suku kafe.
     /dárse gurú  súku káfe./
