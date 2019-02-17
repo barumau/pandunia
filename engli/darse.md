@@ -168,8 +168,11 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halo'** greeting, hello, hi, salaam, ciao, etc.  
-**mame** mother, mom. **pape** father, dad. **xefe** chief, boss.
+**salam, halo'** greeting, hello, hi, salaam, ciao, etc.
+**salama** to greet.  
+**mame** mother, mom.
+**pape** father, dad.
+**xefe** chief, boss.
 
 
 ### Answers to the Exercises

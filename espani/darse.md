@@ -85,20 +85,23 @@ Intenta traducir estas frases de Español a Pandunia.
 --------------------------------------------------------------------------------
 
 
-Saludando
----------
+## Saludando
 
-> **salam** = ¡Hola!
+**salam**
+= ¡Hola!
 
 Esta es la manera como se saludan las personas en Pandunia. Dicen **salam**. Es usado para decir tanto hola como adiós o chao.
 
-> **salam** = ¡Adiós!
+**salam**
+= ¡Adiós!
 
 La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Pandunia es una lengua planificada multicultural. Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
 
 
-> **mi salama tu.** = Yo te saludo.  
-> **tu salama mi.** = Tú me saludas. Usted me saluda.
+**mi salama tu.**
+= Yo te saludo.  
+**tu salama mi.**
+= Tú me saludas. Usted me saluda.
 
 **Mi salama tu** es una oración activa. En las oraciones activas el sujeto realiza la acción del verbo y el objeto o complemento es el que la recibe. En este caso **mi** es el sujeto, **salama** es el verbo (la acción), y **tu** es el objeto. Su orden es importante, y nunca cambia.
 
@@ -141,8 +144,11 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**salam, halo'** saludo; hola, adiós. **salama** saludar.  
-**mame** mamá, madre, ma. **pape** padre, papá, pa. **xefe** jefe, patrón.
+**salam, halo'** saludo; hola, adiós.
+**salama** saludar.  
+**mame** mamá, madre, ma.
+**pape** padre, papá, pa.
+**xefe** jefe, patrón.
 
 
 ### Respuestas
@@ -184,7 +190,8 @@ Pidiendo
 
  En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú, usted, y **ye** = él, ella, ello. Pandunia es una lengua de género neutral. No distingue sexos en los pronombres de las terceras personas o en otros pronombres. Todos los pronombres personales son usados en la siguiente oración.
 
-> **mi bita tu salama ye.** = Yo pedirte saludar a él/ella. (Te pido que saludes)
+**mi bita tu salama ye.**
+= Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo, **bita** = pedir, se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve también como el sujeto del segundo verbo, **salama** = saludar, del cual su objeto es **ye**. Así **tu** tiene un doble papel: (1) objeto del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el eje entre los dos verbos.
 
@@ -194,8 +201,10 @@ La oración eje es una estructura común en Pandunia.
 
 Recordemos que se permite dejar por fuera pronombres que se conocen en el contexto. En otras palabras, el hablante puede asumir con seguridad que los oyentes saben de lo que él o ella está hablando. Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se pueden hacer frases más cortas. 
 
-> **mi bita tu salama ye.** = Yo te pido digas hola a él.
-> **bita salama ye.** = Por favor dile hola.
+**mi bita tu salama ye.**
+= Yo te pido digas hola a él.
+**bita salama ye.**
+= Por favor dile hola.
 
 ¿Vea cómo la traducción de **bita** ha cambiado entre las dos frases? El significado de la palabra, el concepto, no ha cambiado, pero sí su uso. En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras. Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto. Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
@@ -455,3 +464,114 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 --------------------------------------------------------------------------------
 
+## Pasado, presente y futuro
+
+Las palabras para pasado, el presente y el futuro son **pas**, **zay** y **wil**.
+Pueden ser usadas para modificar sustantivos.
+
+**sara si mi da pas xefe.**
+= Sara es mi ex-jefa.  
+**yusef si mi da zay xefe.**
+= Yusef es mi actual jefe.  
+**maria si mi da wil xefe.**
+Maria es mi futura jefa.
+
+Las mismas palabras son usadas cuando se habla sobre acciones y
+eventos en el tiempo.
+Cuando se desea expresar algo que sucedió en el pasado, se pone
+**na pase** (en el pasado) en la oración. Si se habla sobre el
+presente, se adiciona **na zaye** (en el momento, ahora). Y cuando se
+habla del futuro, se añade **na wile** (en el futuro).
+
+**ye si mi da xefe na pase.**
+= Ella fue mi jefa en el pasado.  
+**ye si mida xefe na zaye.**
+= Ella es mi jefa actualmente.  
+**ye si mi da xefe na wile.**
+= Ella será mi jefa en el futuro.
+
+Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
+en los ejemplos anteriores el verbo **si** (estar,ser) se mantuvo
+igual en todos los tiempos.
+
+No es necesario repetir las expresiones de tiempo todas las veces.
+Sería algo tedioso. Es suficiente con poner una vez la expresión de
+tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
+que todavía se está hablando en el mismo tiempo.
+
+**mi pas ada un maw.**
+= I had a cat in the past.  
+**ye bon maw.**
+= It was a good cat.  
+**mi ada un waf zay.**
+= I have a dog now.
+
+
+**mi pas ada un maw.**
+= Yo tuve un gato en el pasado.  
+**ye bon maw.**
+= Ella fue una buena gata.  
+**mi ada un waf zay.**
+= Yo tengo un perro en el momento.
+
+En algunas expresiones es pertinente expresar el tiempo. Otras marcas
+de tiempo no son necesarias.
+
+**mi nyama cay na predi den.**
+= Yo tomé té ayer.  
+**ye safa kamar na badi den.**
+= Él limpiará la habitación mañana.  
+**mimen festa na nen 2000 da predi xam.**
+= Nosotros celebraremos la víspera del año 2000.
+
+### Ejercicios
+
+Intenta traducir de Español a Pandunia.
+
+1. Mi jefe celebrará en el futuro.
+2. Yo solía tener dos perros.
+3. Tú estás comiendo sopa ahora mismo.
+5. Ella limpió la habitación el día anterior.
+6. El gato beberá café mañana.
+7. Tu mamá celebró en la última noche.
+
+### Vocabulario
+**pas**
+= pasado, antiguo, ex.
+**pase**
+= el pasado.
+**zay**
+= actual, presente.
+**zaye**
+= el presente.
+**wil**
+= futuro
+**wile**
+= el futuro
+**na**
+= estar ubicado en (tiempo o espacio); en.
+**badi**
+= siguiente.
+**den**
+= día.
+**badi den**
+= al día siguiente, mañana.
+**predi**
+= anterior, previo.
+**predi den**
+= el día anterior, ayer.
+**xam**
+= noche.
+**predi xam**
+= la noche anterior, víspera.
+**festa**
+= celebrar.
+
+### Respuestas
+
+1. mi da xefe festa na wile.
+2. mi ada dul waf na pase.
+3. tu nyama supe zay.
+4. ye safa kamar na predi den.
+5. maw nyama kafe na badi den.
+6. tu da mame festa na predi noce.
