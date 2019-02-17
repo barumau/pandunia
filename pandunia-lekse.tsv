@@ -1106,6 +1106,7 @@ eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti
 			lim	:	five (5)	kvin (5)	viisi (5)	pięć (5)					
 			limfe	:	lymph		lymfa	limfa					
 			limite	:	limit (boundary)		raja	limit, granica					
+			limofas	:	pentahedron (prism)		viisitahokas (prisma)						
 			limokon	:	pentagon		viisikulmio						
 			limun	:	lemon	citrono	sitruuna	cytryna					
 por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).			linye	:	line (stripe)	lineo	viiva (linja)	linia, pas, pręga, smuga					
@@ -1635,6 +1636,8 @@ per:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).			pola
 ell:πολιτική (politikē). ind:politik. tur:politika. eng:politics. por:spa:política. fra:politique. rus:политика (politika).			politike	:	politics	politiko	politiikka	polityka					
 			politiker	:	politician	politikisto	poliitikko	polityk					
 			politikolojia	:	politocology		politiikantutkimus	politologia					
+			polofas	:	polyhedron		monitahokas						
+			polokon	:	polygon	poligono	monikulmio (polygoni)						
 	made	Po	polon	:	polonium	polonio		polon					
 			polski	:	Polish		puolalainen	polski					
 	dex	PL	polskia	:	Poland		puola	Polska					
@@ -1902,6 +1905,7 @@ tur:sirke. per:(serke). hin:सिरका (sirkā). pan:ਸਿਰਕਾ (sirk
 			sis	:	six (6)		kuusi (6)	sześć (6)					
 			sisme	:	earthquake	tertremo	maanjäristys	trzęsienie Ziemi					
 			sismolojia	:	seismology	sismologio	seismologia	sejsmologia					
+			sisofas	:	hexahedron (cube)		kuutio (kuusitahokas)						
 			sisokon	:	hexagon		kuusikulmio						
 			sistem	:	system	sistemo	järjestelmä (systeemi)	system					
 			sistemi	:	systemic			systemowy					

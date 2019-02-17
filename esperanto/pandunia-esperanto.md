@@ -1030,6 +1030,7 @@ poke : pokero
 pol : multe  
 politike : politiko  
 politiker : politikisto  
+polokon : poligono  
 polon : polonio  
 ponta : montri  
 pospor : fosforo  

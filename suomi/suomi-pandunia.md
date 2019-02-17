@@ -845,6 +845,7 @@ kuume : feber
 kuura : himorose  
 kuusi (6) : sis  
 kuusikulmio : sisokon  
+kuutio (kuusitahokas) : sisofas  
 kuutio : kube  
 kuva (kuvaus) : graf  
 kuvaileva (määrittelevä) : sifi  
@@ -1157,7 +1158,9 @@ monarkki (kuningas, kuningatar) : rajer
 mongoli : mongol  
 Mongolia : mongolia  
 moni- (poly-, multi-) : poli  
+monikulmio (polygoni) : polokon  
 monismi : monistia  
+monitahokas : polofas  
 Montenegro : cernagoria  
 moottori : moter  
 moottoripyörä : moter sikle  
@@ -2151,6 +2154,7 @@ viisas : sofi
 viisaus : sofia  
 viisi (5) : lim  
 viisikulmio : limokon  
+viisitahokas (prisma) : limofas  
 viiva (linja) : linye  
 vika (synti) : dox  
 viljellä : nonga  

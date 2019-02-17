@@ -952,6 +952,7 @@ plumo : puru
 plutonio : plutonium  
 poemo : xir  
 pokero : poke  
+poligono : polokon  
 politikisto : politiker  
 politiko : politike  
 polonio : polon  

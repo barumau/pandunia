@@ -917,6 +917,7 @@ hero : hero'
 heroic : hero'i  
 heterosexual : alojinsokami  
 hexagon : sisokon  
+hexahedron (cube) : sisofas  
 high : gaw  
 Himalayas : himalia  
 Hindu : hindiste  
@@ -1516,6 +1517,7 @@ pen : kalam
 penguin : pinguin  
 penis (phallus) : penis  
 pentagon : limokon  
+pentahedron (prism) : limofas  
 peony : mudan  
 people (folk) : nas  
 people (society) : deme  
@@ -1607,6 +1609,8 @@ politics : politike
 politocology : politikolojia  
 polonium : polon  
 poly- (multi-) : poli  
+polygon : polokon  
+polyhedron : polofas  
 ponder (think) : hema  
 pool (basin) : basen  
 poor (miserable) : miskin  

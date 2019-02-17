@@ -1118,6 +1118,7 @@ lilya : lily
 lim : five (5)  
 limfe : lymph  
 limite : limit (boundary)  
+limofas : pentahedron (prism)  
 limokon : pentagon  
 limun : lemon  
 linye : line (stripe)  
@@ -1651,6 +1652,8 @@ poliser : police officer
 politike : politics  
 politiker : politician  
 politikolojia : politocology  
+polofas : polyhedron  
+polokon : polygon  
 polon : polonium  
 polski : Polish  
 polskia : Poland  
@@ -1920,6 +1923,7 @@ sirke : vinegar
 sis : six (6)  
 sisme : earthquake  
 sismolojia : seismology  
+sisofas : hexahedron (cube)  
 sisokon : hexagon  
 sistem : system  
 sistemi : systemic  

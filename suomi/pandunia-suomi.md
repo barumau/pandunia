@@ -1116,6 +1116,7 @@ lilya : lilja
 lim : viisi (5)  
 limfe : lymfa  
 limite : raja  
+limofas : viisitahokas (prisma)  
 limokon : viisikulmio  
 limun : sitruuna  
 linye : viiva (linja)  
@@ -1648,6 +1649,8 @@ poliser : poliiisi (poliisimies)
 politike : politiikka  
 politiker : poliitikko  
 politikolojia : politiikantutkimus  
+polofas : monitahokas  
+polokon : monikulmio (polygoni)  
 polski : puolalainen  
 polskia : puola  
 pompa : pumppu  
@@ -1867,6 +1870,7 @@ sirke : etikka
 sis : kuusi (6)  
 sisme : maanjäristys  
 sismolojia : seismologia  
+sisofas : kuutio (kuusitahokas)  
 sisokon : kuusikulmio  
 sistem : järjestelmä (systeemi)  
 site : kaupunki  
