@@ -1,10 +1,8 @@
 -a : przyrostek dla czasowników z szykiem zdania SVO  
 -e : przyrostek dla (wyniku) działania  
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
--eria : przyrostek dla miejsca wykonywania  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
- : klin  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -127,16 +125,12 @@ bama : Mjanma, Birma
 ban gem : gra planszowa  
 ban : deska  
 banan : banan  
-banda : związać, wiązać; zapiąć, zapinać  
-bande : taśma; bandaż  
 bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
 banye : kąpiel  
 banyokamar : łazienka  
 banyu : kąpać się  
-bar : bar, knajpa  
-bara : blokować, hamować  
 barbados : Barbados  
 barbar : barbarzyńca  
 barde : broda  
@@ -154,6 +148,7 @@ bat : osiem (8)
 bate : kaczka  
 baton nur : pochochodnia (latarka)  
 baton : pręt, kij  
+batonopang : bagietka  
 batre : bateria  
 bax : język; komunikacja  
 baxa : mówić; komunikować  
@@ -177,6 +172,8 @@ belarus : Białoruś
 belgia : Belgia  
 belizia : Belize  
 bence : ławka  
+benda : związać, wiązać; zapiąć, zapinać  
+bende : taśma; bandaż  
 benin : Benin  
 benzin : benzyna  
 berande : weranda, balkon, taras, ganek  
@@ -196,6 +193,7 @@ bina : zbudować, budować, konstruować
 binde : punkt  
 bing : chory  
 bir : piwo  
+bireria : bar, knajpa  
 bis : genderqueer, niebinarny  
 biskute : biszkopt, ciastko  
 bismute : bizmut  
@@ -333,10 +331,10 @@ darje : stopień, poziom, ranga, klasa
 darme : dharma, pobożność  
 darmi : pobożny  
 darsa : nauczyć się, uczyć się, studiować  
-darse bace : uczeń, student  
-darse guru' : nauczyciel  
-darse kan : szkoła (instytucja)  
 darse : lekcja  
+darser : uczeń, student  
+darsia : szkoła (instytucja)  
+darsogur : nauczyciel  
 darte : grunt (ziemia, próchnica)  
 darwiniste : darwinista  
 darwinistia : darwinizm  
@@ -375,9 +373,9 @@ dewokratia : teokracja
 dewolojia : teologia  
 dex : kraj, ziemia  
 di : ten  
-din guru' : ksiądz, kleryk, kaznodzieja  
 din : religia, wyznanie  
 ding : kolec  
+dinogur : ksiądz, kleryk, kaznodzieja  
 diske : dysk  
 disprosium : dysproz  
 doici : niemiecki  
@@ -438,6 +436,7 @@ eni : jakikolwiek, którykolwiek
 enzim : enzym  
 er : przyrostek dla wykonawcy  
 erbium : erb  
+eria : przyrostek dla miejsca wykonywania  
 eris : Eris (planeta karłowata)  
 eritria : Erytrea  
 esey : esej  
@@ -641,7 +640,7 @@ guatemala : Gwatemala
 gubu' : hipopotam  
 gujarati : Gudżarat  
 gun : cecha, atrybut, własność; -ość  
-guru' : guru, mentor, mistrz  
+gur : guru, mistrz  
 gurube manse : wieprzowina  
 gurube : świnia  
 gusta : smakować, próbować smaku  
@@ -864,10 +863,10 @@ kabin : kabina, budka
 kace : szkło  
 kadomium : kadm  
 kafas : klatka  
-kafe kan : kawiarnia  
-kafe kupe : filiżanka do kawy  
 kafe : kawa  
+kaferia : kawiarnia  
 kafi : brązowy, koloru kawy  
+kafokupe : filiżanka do kawy  
 kaka : defekować, srać  
 kakaw : kakao  
 kake : ekskrement, gówno  
@@ -965,9 +964,9 @@ kirili abace : cyrylica
 kirisa : wynająć, oddać w najem  
 kisme : przeznaczenie, los  
 kitaba : napisać, pisać  
-kitabe kan : biblioteka  
-kitabe maxin : maszyna do pisania  
 kitabe : pismo, tekst  
+kitabia : biblioteka  
+kitabomaxin : maszyna do pisania  
 kiwe : owoc kiwi  
 klar : przeźroczysty, jasny  
 klas : klasa, kategoria  
@@ -1053,10 +1052,11 @@ kuang suy : woda mineralna
 kuang : minerał, ruda  
 kuba : Kuba  
 kube : sześcian  
+kuga : płakać, łkać  
 kuka : gotować, szykować jedzenie  
-kuke kamar : kuchnia  
 kuke nesia : Wyspy Cooka  
 kuker : kucharz  
+kukeria : kuchnia  
 kul : świetny  
 kultur : kultura  
 kupe : kubek  
@@ -1406,8 +1406,6 @@ nam : imię, nazwa
 nama : nazwać, nazywać, wezwać, wzywać  
 namibia : Namibia  
 namu : być wezwanym, być wzywanym, być nazwanym, być nazywanym  
-nan baton : bagietka  
-nan : chleb  
 nanas : ananans  
 nano : nano-  
 nanometre : nanometr  
@@ -1544,6 +1542,7 @@ panasi : panazjatycki
 pande : panda  
 pandunia : Pandunia  
 paneuropi : paneuropejski  
+pang : chleb  
 panike : panika  
 panjabi : pendżabski  
 pantalon : spodnie, pantalony, portki  
@@ -1716,7 +1715,6 @@ rajer : król lub królowa
 raji : królewski  
 rajia : królestwo  
 ramazan : Ramadan  
-randa : hebel, strug  
 randa : heblować  
 rander : hebel, strug  
 rang : kolor  
@@ -1777,11 +1775,10 @@ romanse : miłość romantyczna
 romansi : romantyczny  
 rome : Rzym  
 romi empiria : Imperium Rzymskie  
-rona : płakać, łkać  
 rong : orientalny smok  
 rose : rosa  
 rosta : piec  
-rosti nan : tost  
+rosti pang : tost  
 rote : płaski chleb, ćapati  
 rotor : rotor, wirnik  
 roze : róża  
@@ -2239,7 +2236,7 @@ xarte : warunek
 xatan : diabeł, szatan  
 xatani : diabelski, szatański  
 xaxu : szeleścić  
-xefe : szef, kierownik  
+xef : szef, kierownik  
 xefi minister : premier  
 xefi : główny  
 xenon : ksenon  
@@ -2278,8 +2275,8 @@ yaman : Jemen
 yang : rodzaj, typ, styl  
 yani : innymi słowy  
 yasen : jesion  
-yatim kan : sierociniec, dom dziecka  
 yatim : sierota  
+yatimodom : sierociniec, dom dziecka  
 ye : on, ona, ono  
 yehudi : żydowski  
 yehudistia : judaizm  

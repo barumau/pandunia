@@ -106,7 +106,7 @@ balono : balon
 bambuo : jug  
 bana : banyu  
 banano : banan  
-bandaĝo (vindo) : bande  
+bandaĝo (vindo) : bende  
 Bangladeŝo : banglia  
 bano : banye  
 banĉambro : banyokamar  
@@ -115,7 +115,6 @@ Barata : barti
 Baratio : bartia  
 barbaro : barbar  
 barbo : barde  
-bari : bara  
 barilo : barer  
 bario : barium  
 baseno : basen  
@@ -246,7 +245,7 @@ doni : dona
 dormo : son  
 dormoĉambro : son kamar  
 dramo : drame  
-drinkejo : bar  
+drinkejo : bireria  
 du (2) : dul  
 dubnio : dubnium  
 dubo : dute  
@@ -292,7 +291,7 @@ esti pri; pridiskuti : tema
 Estonio : estia  
 estonoteco : wile  
 estonte : wil  
-estro (ĉefulo) : xefe  
+estro (ĉefulo) : xef  
 eta : mini  
 Etiopio : etiopia  
 evangelio : anjil  
@@ -418,7 +417,7 @@ Grekio : helenia
 grimaco : grimas  
 grupo : grupe  
 Gujano : gayan  
-guruo : guru'  
+guruo (instruisto) : gur  
 gusti kiel : gustu ka  
 gusto : guste  
 gustumi : gusta  
@@ -481,7 +480,7 @@ infekto : infece
 informacio : informe  
 inko : moge  
 ino : fem  
-instruisto : darse guru'  
+instruisto : darsogur  
 insulto : ninde  
 interesa : interes  
 interkonsento (amen) : amen  
@@ -528,9 +527,9 @@ juĝisto : hakimer
 juĝo : hakim  
 ##k  
 kadmio : kadomium  
-kafejo : kafe kan  
+kafejo : kaferia  
 kafo : kafe  
-kaftaso : kafe kupe  
+kaftaso : kafokupe  
 kaj : i  
 kajero : note buke  
 kakao : kakaw  
@@ -587,7 +586,6 @@ knabino : jowan fem
 knabo : jowan man  
 kobalto : kobalte  
 kodo : kode  
-kojno :   
 koko : koke  
 kokoso : yeze  
 kolbaso : sosis  
@@ -678,16 +676,16 @@ legi : duga
 lego : kanun  
 legomo : sabze  
 leono : sing  
-lernejo : darse kan  
+lernejo : darsia  
 lerni (studi) : darsa  
 lerta : ajil  
 li aŭ ŝi aŭ ĝi : ye  
 libera : huri  
 libereco : huria  
 liberigi : hura  
-librejo : kitabe kan  
+librejo : kitabia  
 libro : buke  
-ligi : banda  
+ligi : benda  
 ligno : moke  
 liki : lowa  
 lineo : linye  
@@ -898,7 +896,7 @@ Panamo : panamia
 pando : pande  
 pandunia : pandunia  
 paniko : panike  
-pano : nan  
+pano : pang  
 pantalonoj : pantalon  
 papago : papagay  
 papajo : papay  
@@ -910,7 +908,7 @@ parolo (vortoj) : loge
 partio : partia  
 parto (frakcio) : fen  
 partopreni : parta  
-pastro : din guru'  
+pastro : dinogur  
 pato : tawa  
 patrino : mame  
 patro : pape  
@@ -922,6 +920,8 @@ perlo : jenju'
 persa : farsi  
 persono : ren  
 peti (bonvolu) : bita  
+peza : bari  
+pezo : bar  
 pia : darmi  
 piano : pian  
 picejo : pizeria  
@@ -946,6 +946,7 @@ plena : ful
 plenaĝa : adulte  
 plenigi : fula  
 pli : max  
+plori : kuga  
 plumbo : plumbe  
 plumo : kalam  
 plumo : puru  
@@ -1029,6 +1030,7 @@ respondo : jawabe
 restaŭracio : restoran  
 reto : nete  
 rezervo : buking  
+rezino : rezin  
 reĝo aŭ reĝino : rajer  
 ridi : haha  
 rigardi ia : konsida  
@@ -1131,7 +1133,7 @@ stelo : xing
 stiri : gida  
 stranga : bizar  
 stroncio : strontium  
-studento (lernanto) : darse bace  
+studento (lernanto) : darser  
 Sudkoreio : hangogia  
 sudo : sude  
 sufiĉa : bas  
@@ -1155,7 +1157,7 @@ tablo : meze
 tagmanĝo : den nyam  
 tago : den  
 tajgo : taiga  
-tajpilo : kitabe maxin  
+tajpilo : kitabomaxin  
 taladro : bora  
 talio : talium  
 tamburo : tambur  
@@ -1311,6 +1313,7 @@ zuluo : zulu'
 ĉarniro (pivoto) : xarnir  
 ĉeestanta (nuna, ekzistanta) : zay  
 ĉefministro : xefi minister  
+ĉelo : sel  
 ĉemizo : kamis  
 ĉevalo : uma  
 ĉi tie : na ce  

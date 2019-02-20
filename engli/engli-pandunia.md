@@ -110,12 +110,14 @@ Assur : axur
 Assyria : axuria  
 asthma : asme  
 athlete (sportsman) : keler  
+atmospheric pressure : hawobar  
 atom : atom  
 attack : atake  
 attribute (charasteristic, quality, feature, description) : sife  
 August : mes 8 (mes bat)  
 Australia : australia  
 Austria : osteria  
+autocracy (monarchy) : monokratia  
 automobile (motorcar) : moter kar  
 autumn (fall) : oton  
 avocado : awakate  
@@ -131,7 +133,7 @@ backpack (rucksack) : rukosake
 bad (ruined, destroyed) : harabi  
 bad : mal  
 bag (sack) : sake  
-baguette : nan baton  
+baguette : batonopang  
 bah! (yuck!) : fuy  
 Baha'ism : baha'istia  
 Baha'ist : baha'iste  
@@ -145,16 +147,17 @@ ball : bol
 balloon : balon  
 bamboo : jug  
 banana : banan  
-band (tape, bandage) : bande  
+band (squad, group) : bande  
+band (tape, bandage) : bende  
 bandage (strip, ribbon) : faxe  
 Bangladesh : banglia  
 baobab : buyu'  
-bar (obstruct) : bara  
-bar (pub) : bar  
+bar (pub, beer house) : bireria  
 bar (rod, stick) : baton  
 Barbados : barbados  
 barbarian : barbar  
 barium : barium  
+barometer : hawobarometer  
 barrel (can) : tong  
 barrier : barer  
 base (foundation) : baze  
@@ -256,7 +259,7 @@ brain : serebre
 branch (bough) : xake  
 brave (courageous) : yungam  
 Brazil : brazilia  
-bread : nan  
+bread : pang  
 breakfast : sube nyam  
 breast (boob, tits) : mem  
 breath : nafas  
@@ -293,7 +296,7 @@ button : boton
 cabin (booth) : kabin  
 cadmium : kadomium  
 caesium : cesium  
-cafe (coffee shop) : kafe kan  
+cafe (coffee shop) : kaferia  
 cage : kafas  
 cake (cookie) : keke  
 calcium (Ca) : kalsium  
@@ -370,7 +373,7 @@ chest (breast) : sine
 chestnut : kastan  
 chicken : koke  
 chickpea : humus  
-chief (boss) : xefe  
+chief (boss) : xef  
 child (offspring) : bace  
 Chile : cile  
 chimpanzee : cimpanze  
@@ -413,7 +416,7 @@ code (cipher) : kode
 coerce (force, compel) : musa  
 coercion : muse  
 coffee : kafe  
-coffee cup : kafe kupe  
+coffee cup : kafokupe  
 cola : kola  
 cold (illness) : zukam  
 cold : leng  
@@ -497,7 +500,6 @@ Croatia : horvatia
 cross : krus  
 crown : koron  
 cry (shout) : krita  
-cry (weep) : rona  
 Cuba : kuba  
 cube : kube  
 cucumber : pepin  
@@ -564,6 +566,7 @@ die : mortu
 dig (excavate) : fosa  
 dining room : nyam kamar  
 dinner : xam nyam  
+direction : dixe  
 disc (disk) : diske  
 discussion (debate, discourse) : lon  
 dish : tas  
@@ -877,7 +880,7 @@ Gujarati : gujarati
 gun (cannon) : kanon  
 gun (handheld firearm) : bunduke  
 gunpowder : barude  
-guru (mentor) : guru'  
+guru (teacher) : gur  
 Guyana : gayan  
 ##h  
 hafnium : hafnium  
@@ -900,9 +903,11 @@ have sex : seksa
 hazard (chance) : zar  
 he or she or it : ye  
 head : sar  
+headmaster (principal) : darsoxef  
 heal (cure) : medika  
 hear (listen) : auda  
 heart : xim  
+heavy : bari  
 Hebrew : ibri  
 helium : helium  
 hell : narake  
@@ -986,6 +991,7 @@ Indian : barti
 indium : indium  
 Indonesia : indonesia  
 infection : infece  
+infidel (pagan, heathen, unbeliever) : kafir  
 inform (communicate) : informa  
 information : informe  
 inject : juxa  
@@ -1078,7 +1084,7 @@ kingdom : rajia
 kiosk : kioske  
 Kiribati : kiribatia  
 kiss : cum  
-kitchen : kuke kamar  
+kitchen : kukeria  
 kiwi fruit : kiwe  
 knead (massage) : masaja  
 knife : cake  
@@ -1127,7 +1133,7 @@ liberal : huristi
 liberalism : huristia  
 liberalist : huriste  
 Liberia : liberia  
-library : kitabe kan  
+library : kitabia  
 Libya : libia  
 lie (lie down) : lala  
 Liechtenstein : lixtenxtayn  
@@ -1294,14 +1300,15 @@ Moldova : moldovia
 mole (burrowing animal) : krote  
 molybdenum : molidenum  
 Monaco : monako  
-monarchy : monokratia  
 Monday : war 1 (war un)  
 money : pese  
 Mongol : mongol  
 Mongolia : mongolia  
 mongoose : mungus  
 monism : monistia  
+monochrome : monorangi  
 monolog : monologe  
+monotheism : monodewistia  
 monster : monster  
 Montenegro : cernagoria  
 month : mes  
@@ -1456,7 +1463,7 @@ original (authentic) : asli
 Oromia : oromia  
 Oromo (an Ethiopian ethnic group and language) : oromi  
 orphan : yatim  
-orphanage : yatim kan  
+orphanage : yatimodom  
 osmium : osmium  
 other : ali  
 Ottoman : osman  
@@ -1570,7 +1577,6 @@ pizzeria : pizeria
 place (location) : loke  
 plain (ordinary, unadorned, simple, mere) : sadi  
 plan : plan  
-plane (plane tool) : randa  
 plane (tool for making a smooth surface) : rander  
 plane hijacker : wimanokaper  
 planet : planete  
@@ -1611,6 +1617,7 @@ polonium : polon
 poly- (multi-) : poli  
 polygon : polokon  
 polyhedron : polofas  
+polytheism : polodewistia  
 ponder (think) : hema  
 pool (basin) : basen  
 poor (miserable) : miskin  
@@ -1643,7 +1650,7 @@ present (current, existing) : zay
 preserve (conserve, retain) : hafiza  
 press (imprint) : capa  
 previous : predi  
-priest (cleric) : din guru'  
+priest (cleric) : dinogur  
 prime minister : xefi minister  
 print (stamp) : cape  
 prison (imprisonment) : prizon  
@@ -1766,9 +1773,9 @@ role : rol
 roll (scroll, coil) : rul  
 roll (wrap in) : rula  
 Roman Empire : romi empiria  
+romance (romantic love) : romanse  
 Romania : romania  
 romantic : romansi  
-romantic love : romanse  
 Rome : rome  
 roof : cate  
 room (chamber) : kamar  
@@ -1817,9 +1824,10 @@ Saudi Arabia : saudi arabia
 sauna : sauna  
 sausage : sosis  
 save (deposit, bank) : banka  
+scales (weighing device) : barometer  
 scandium : skandium  
 scarf (shawl) : xal  
-school (institution) : darse kan  
+school (institution) : darsia  
 science (study, research) : lojia  
 scissors : makas  
 screen : ekran  
@@ -1865,6 +1873,7 @@ shock (collision) : xoke
 shoe : sapate  
 shoemaker : sapater  
 shoemaker's shop : sapateria  
+shop (workshop, place of doing) : eria  
 short (brief) : korti  
 shorten : korta  
 should (ought) : xudu  
@@ -1980,7 +1989,7 @@ straighten : jika
 strike (punch) : darba  
 strong : bal  
 strontium : strontium  
-student (pupil) : darse bace  
+student (pupil, learner) : darser  
 submission (surrender) : islam  
 subway (metro) : tunel tren  
 suck : cupa  
@@ -1991,7 +2000,6 @@ suffering : paxia
 suffix for a fundamental unit in linguistics : -em  
 suffix for adjectives : -i  
 suffix for derived nouns : -e  
-suffix for place of doing : -eria  
 suffix for verbs with OVS word order : -u  
 sugar : sukar  
 sugar-apple (sweetsop) : ate  
@@ -2060,7 +2068,8 @@ taxi : taksi
 tea : cay  
 tea bowl : cayowan  
 tea cup : cayokupe  
-teacher : darse guru'  
+tea house : cayeria  
+teacher : darsogur  
 team : tim  
 tear drop : yen suy  
 technetium : teknetium  
@@ -2114,7 +2123,7 @@ thulium : tulium
 thunder (roaring) : grom  
 Thursday : war 4 (war car)  
 ticket : tikete  
-tie (fasten, bind) : banda  
+tie (fasten, bind) : benda  
 tiger : bagre  
 tikka (piece) : tike  
 tikka masala : tike masal  
@@ -2124,7 +2133,7 @@ tiny (mini-) : mini
 titanium : titan  
 to (till, until, for) : to  
 to be centered (amid, in the middle) : jungu  
-toast (toasted bread) : rosti nan  
+toast (toasted bread) : rosti pang  
 tobacco : tabake  
 today : zay den  
 tofu : tofu'  
@@ -2184,7 +2193,7 @@ Turkmenistan : turkmenia
 turtle (tortoise) : tortuge  
 Tuvalu : tuvalu'  
 two (2) : dul  
-typewriter : kitabe maxin  
+typewriter : kitabomaxin  
 tyranny : tirania  
 tyrant : tiran  
 ##u  
@@ -2264,9 +2273,10 @@ way (road) : daw
 we : mimen  
 wear clothes : fuka  
 weather : tenke  
-wedge :   
 Wednesday : war 3 (war sam)  
 week : set war  
+weep (cry) : kuga  
+weight : bar  
 welcome! : salam laye  
 west : weste  
 western : westi  

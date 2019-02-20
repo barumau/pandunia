@@ -3,7 +3,6 @@
 -em : -er  
 -i : -a (-e)  
 -u : -i (-iĝi)  
- : kojno  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -106,19 +105,17 @@ balkon : balkono
 balon : balono  
 bama : Birmo  
 banan : banano  
-banda : ligi  
-bande : bandaĝo (vindo)  
 bandir : flago  
 banglia : Bangladeŝo  
 banka : savi  
 banye : bano  
 banyokamar : banĉambro  
 banyu : bana  
-bar : drinkejo  
-bara : bari  
+bar : pezo  
 barbar : barbaro  
 barde : barbo  
 barer : barilo  
+bari : peza  
 barium : bario  
 barka : gratuli  
 barti : Barata  
@@ -150,6 +147,8 @@ bekeria : bakejo
 belgia : Belgio  
 belizia : Beliceo  
 bence : benko  
+benda : ligi  
+bende : bandaĝo (vindo)  
 benzin : benzino  
 berande : verando  
 berdi : verda  
@@ -165,6 +164,7 @@ bina : konstrui
 binde : punkto  
 bing : malsana  
 bir : biero  
+bireria : drinkejo  
 biskute : biskvito (kuketo)  
 bismute : bismuto  
 bita laya : inviti  
@@ -275,10 +275,10 @@ daria : maro (oceano)
 darme : pieco  
 darmi : pia  
 darsa : lerni (studi)  
-darse bace : studento (lernanto)  
-darse guru' : instruisto  
-darse kan : lernejo  
 darse : leciono  
+darser : studento (lernanto)  
+darsia : lernejo  
+darsogur : instruisto  
 daw : vojo  
 day : granda  
 de : tio  
@@ -305,9 +305,9 @@ dewokratia : teokratio
 dewolojia : teologio  
 dex : lando  
 di : tiu  
-din guru' : pastro  
 din : religio  
 ding : najlo  
+dinogur : pastro  
 diske : disko  
 disprosium : disprozio  
 dolar : dolaro  
@@ -515,7 +515,7 @@ guanxe : rilato
 guatemala : Gvatemalo  
 gubu' : hipopotamo  
 gun : eco  
-guru' : guruo  
+gur : guruo (instruisto)  
 gurube manse : porkaĵo  
 gurube : porko  
 gusta : gustumi  
@@ -669,10 +669,10 @@ jus : suko
 ka : kiel (ol)  
 kace : vitro  
 kadomium : kadmio  
-kafe kan : kafejo  
-kafe kupe : kaftaso  
 kafe : kafo  
+kaferia : kafejo  
 kafi : bruna  
+kafokupe : kaftaso  
 kakaw : kakao  
 kake : feko  
 kal : nigra  
@@ -724,9 +724,9 @@ ki yang : kiel?
 ki zaman : kiam?  
 kil : mil  
 kilometre : kilometro  
-kitabe kan : librejo  
-kitabe maxin : tajpilo  
 kitabe : skribo  
+kitabia : librejo  
+kitabomaxin : tajpilo  
 kiwe : kivo  
 klon : klono  
 klona : kloni  
@@ -767,6 +767,7 @@ kriton : kriptono
 krize : krizo  
 krom : kromo  
 kube : kubo  
+kuga : plori  
 kul : bonega (mojosa)  
 kultur : kulturo  
 kupe : taso  
@@ -928,7 +929,6 @@ nafas : spiro
 naijiria : Niĝerio  
 nam : nomo  
 namibia : Namibio  
-nan : pano  
 nanas : ananaso  
 natre : natrio  
 nawati : naūatla  
@@ -989,6 +989,7 @@ pan : ĉiu
 panamia : Panamo  
 pande : pando  
 pandunia : pandunia  
+pang : pano  
 panike : paniko  
 pantalon : pantalonoj  
 papagay : papago  
@@ -1078,6 +1079,7 @@ repa : ripeti (refari)
 repe : ripetado  
 repi : denove (ripete)  
 restoran : restaŭracio  
+rezin : rezino  
 riske : risko  
 robote : roboto  
 rodium : rodio  
@@ -1133,6 +1135,7 @@ saye : ombro
 se : si  
 seaborgium : seborgio  
 sekse : sekso  
+sel : ĉelo  
 selen : seleno  
 sem dexi : samlandano  
 sem jinse kami : samseksema  
@@ -1302,7 +1305,7 @@ xanti : trankvila
 xarnir : ĉarniro (pivoto)  
 xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  
-xefe : estro (ĉefulo)  
+xef : estro (ĉefulo)  
 xefi minister : ĉefministro  
 xenon : ksenono  
 xim : koro  

@@ -1,10 +1,8 @@
 -a : suffix for verbs with SVO word order  
 -e : suffix for derived nouns  
 -em : suffix for a fundamental unit in linguistics  
--eria : suffix for place of doing  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
- : wedge  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -127,22 +125,22 @@ bama : Myanmar (Burma)
 ban gem : board game  
 ban : board (plank)  
 banan : banana  
-banda : tie (fasten, bind)  
-bande : band (tape, bandage)  
+bande : band (squad, group)  
 bandir : flag (banner)  
 banglia : Bangladesh  
 banka : save (deposit, bank)  
 banye : bath  
 banyokamar : bathroom  
 banyu : bathe  
-bar : bar (pub)  
-bara : bar (obstruct)  
+bar : weight  
 barbados : Barbados  
 barbar : barbarian  
 barde : beard  
 barer : barrier  
+bari : heavy  
 barium : barium  
 barka : congratulate (bless)  
+barometer : scales (weighing device)  
 barti : Indian  
 bartia : India  
 barude : gunpowder  
@@ -154,6 +152,7 @@ bat : eight (8)
 bate : duck  
 baton nur : torch  
 baton : bar (rod, stick)  
+batonopang : baguette  
 batre : battery  
 bax : language (communication)  
 baxa : speak (communicate)  
@@ -177,6 +176,8 @@ belarus : Belarus
 belgia : Belgium  
 belizia : Belize  
 bence : bench  
+benda : tie (fasten, bind)  
+bende : band (tape, bandage)  
 benin : Benin  
 benzin : gasoline (petrol)  
 berande : veranda (balcony, terrace, porch)  
@@ -196,6 +197,7 @@ bina : build (construct)
 binde : dot (spot)  
 bing : ill (sick)  
 bir : beer  
+bireria : bar (pub, beer house)  
 bis : genderqueer (non-binary)  
 biskute : biscuit (cookie)  
 bismute : bismuth  
@@ -278,6 +280,7 @@ car : four (4)
 carokon : square (tetragon)  
 cate : roof  
 cay : tea  
+cayeria : tea house  
 cayokupe : tea cup  
 cayowan : tea bowl  
 ce : this one  
@@ -334,10 +337,11 @@ darje : step (degree, rank, grade, level, class)
 darme : dharma (piety)  
 darmi : pious  
 darsa : learn (study)  
-darse bace : student (pupil)  
-darse guru' : teacher  
-darse kan : school (institution)  
 darse : lesson  
+darser : student (pupil, learner)  
+darsia : school (institution)  
+darsogur : teacher  
+darsoxef : headmaster (principal)  
 darte : soil (dirt)  
 darwiniste : Darwinist  
 darwinistia : Darwinism  
@@ -376,11 +380,12 @@ dewokratia : theocracy
 dewolojia : theology  
 dex : country (land)  
 di : that (those)  
-din guru' : priest (cleric)  
 din : religion (worship)  
 ding : nail (spike)  
+dinogur : priest (cleric)  
 diske : disc (disk)  
 disprosium : dysprosium  
+dixe : direction  
 doici : German  
 doicia : Germany  
 dokum : document (record)  
@@ -439,6 +444,7 @@ eni : any (no matter which)
 enzim : enzyme  
 er : doer (agent, actor)  
 erbium : erbium  
+eria : shop (workshop, place of doing)  
 eris : Eris (dwarf planet)  
 eritria : Eritrea  
 esey : essay  
@@ -642,7 +648,7 @@ guatemala : Guatemala
 gubu' : hippopotamus  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
-guru' : guru (mentor)  
+gur : guru (teacher)  
 gurube manse : pork  
 gurube : pig  
 gusta : taste (sense flavor)  
@@ -685,6 +691,8 @@ hatar : danger (peril)
 hatari : dangerous  
 hati : even (intensifier)  
 hawe : air  
+hawobar : atmospheric pressure  
+hawobarometer : barometer  
 hay : still (yet)  
 hazin : treasure (treasury)  
 he : huh? (pardon?)  
@@ -865,10 +873,11 @@ kabin : cabin (booth)
 kace : glass  
 kadomium : cadmium  
 kafas : cage  
-kafe kan : cafe (coffee shop)  
-kafe kupe : coffee cup  
 kafe : coffee  
+kaferia : cafe (coffee shop)  
 kafi : brown (coffee-colored)  
+kafir : infidel (pagan, heathen, unbeliever)  
+kafokupe : coffee cup  
 kaka : defecate (shit)  
 kakaw : cocoa  
 kake : excrement (shit)  
@@ -966,9 +975,9 @@ kirili abace : Cyrillic alphabet
 kirisa : rent out (let, lease)  
 kisme : fate (destiny, kismet)  
 kitaba : write  
-kitabe kan : library  
-kitabe maxin : typewriter  
 kitabe : writing (text)  
+kitabia : library  
+kitabomaxin : typewriter  
 kiwe : kiwi fruit  
 klar : clear (not obscured)  
 klas : class (category)  
@@ -1054,10 +1063,11 @@ kuang suy : mineral water
 kuang : mineral (ore)  
 kuba : Cuba  
 kube : cube  
+kuga : weep (cry)  
 kuka : cook (prepare food)  
-kuke kamar : kitchen  
 kuke nesia : Cook Islands  
 kuker : cook (chef)  
+kukeria : kitchen  
 kul : cool  
 kultur : culture  
 kupe : cup  
@@ -1345,8 +1355,10 @@ monako : Monaco
 mongol : Mongol  
 mongolia : Mongolia  
 monistia : monism  
-monokratia : monarchy  
+monodewistia : monotheism  
+monokratia : autocracy (monarchy)  
 monologe : monolog  
+monorangi : monochrome  
 monster : monster  
 moral : morality (ethics)  
 morfe : morph  
@@ -1409,8 +1421,6 @@ nam : name
 nama : call (give name)  
 namibia : Namibia  
 namu : be called (be named)  
-nan baton : baguette  
-nan : bread  
 nanas : pineapple  
 nano : nano-  
 nanometre : nanometer  
@@ -1547,6 +1557,7 @@ panasi : pan-Asian
 pande : panda  
 pandunia : Pandunia  
 paneuropi : pan-European  
+pang : bread  
 panike : panic  
 panjabi : Punjabi  
 pantalon : pants (trousers)  
@@ -1652,6 +1663,7 @@ poliser : police officer
 politike : politics  
 politiker : politician  
 politikolojia : politocology  
+polodewistia : polytheism  
 polofas : polyhedron  
 polokon : polygon  
 polon : polonium  
@@ -1721,7 +1733,6 @@ rajer : king or queen
 raji : royal  
 rajia : kingdom  
 ramazan : Ramadan  
-randa : plane (plane tool)  
 randa : smoothen with a plane  
 rander : plane (tool for making a smooth surface)  
 rang : color  
@@ -1778,15 +1789,14 @@ rola : act (play a role)
 roler : actor (actress)  
 romania : Romania  
 romansa : love romantically  
-romanse : romantic love  
+romanse : romance (romantic love)  
 romansi : romantic  
 rome : Rome  
 romi empiria : Roman Empire  
-rona : cry (weep)  
 rong : oriental dragon  
 rose : dew  
 rosta : roast  
-rosti nan : toast (toasted bread)  
+rosti pang : toast (toasted bread)  
 rote : flatbread (chapati, roti)  
 rotor : rotor (rotator)  
 roze : rose  
@@ -2248,7 +2258,7 @@ xarte : condition (requirement)
 xatan : devil (Satan)  
 xatani : devilish (satanic)  
 xaxu : rustle  
-xefe : chief (boss)  
+xef : chief (boss)  
 xefi minister : prime minister  
 xefi : main (principal)  
 xenon : xenon  
@@ -2287,8 +2297,8 @@ yaman : Yemen
 yang : kind (type, style)  
 yani : that is (in other words, i.e.)  
 yasen : ash tree  
-yatim kan : orphanage  
 yatim : orphan  
+yatimodom : orphanage  
 ye : he or she or it  
 yehudi : Jewish  
 yehudistia : Judaism  

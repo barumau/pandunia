@@ -77,7 +77,7 @@ azot : nitre
 ##b  
 badać, studiować : loja  
 bagaż : bagaje  
-bagietka : nan baton  
+bagietka : batonopang  
 bagno : blotostan  
 bahaista : baha'iste  
 bahaizm : baha'istia  
@@ -92,7 +92,7 @@ bandaż, taśma, wstążka : faxe
 Bangladesz : banglia  
 baobab : buyu'  
 bar : barium  
-bar, knajpa : bar  
+bar, knajpa : bireria  
 Barbados : barbados  
 barbarzyńca : barbar  
 bardziej : max  
@@ -122,7 +122,7 @@ Bhutan : butan
 Białoruś : belarus  
 biały : bay  
 Biblia : biblia  
-biblioteka : kitabe kan  
+biblioteka : kitabia  
 biedny, mizerny : miskin  
 bilet : tikete  
 bilion, giga- : giga  
@@ -135,7 +135,6 @@ biznes, interes (aktywność komercyjna) : biznes
 bić, uderzyć, uderzać : darba  
 bliski : karbi  
 blog : bloge  
-blokować, hamować : bara  
 bogaty : rici  
 bohater, heros : hero'  
 bohaterski, heroiczny : hero'i  
@@ -201,7 +200,7 @@ chemiczny : kimi
 cherubin : kerube  
 Chile : cile  
 Chiny : jungogia  
-chleb : nan  
+chleb : pang  
 chlor : klor  
 chmura : megam  
 cholera : koler  
@@ -413,7 +412,7 @@ ferm : fermium
 Fidżi : fijia  
 figura, reprezentacja : figur  
 Filipiny : filipinia  
-filiżanka do kawy : kafe kupe  
+filiżanka do kawy : kafokupe  
 film : filme  
 filozof : filsofer  
 filozofia : filsofia  
@@ -503,7 +502,7 @@ Guinea Bissau : gine bisau
 Gujana : gayan  
 Gujana Francuska : giyan  
 guma : gom  
-guru, mentor, mistrz : guru'  
+guru, mistrz : gur  
 guzik : boton  
 Gwadelupa : guadelupe  
 gwarancja : garante  
@@ -527,7 +526,6 @@ harmonia : harmonia
 harmoniczny : harmoni  
 has : hasium  
 hałas : keler  
-hebel, strug : randa  
 hebel, strug : rander  
 heblować : randa  
 hebrajski : ibri  
@@ -679,7 +677,7 @@ kasztan : kastan
 Katalonia : katalunia  
 Katar : kataria  
 kawa : kafe  
-kawiarnia : kafe kan  
+kawiarnia : kaferia  
 Kazachstan : kazahia  
 każdy człowiek, wszyscy : mey ren  
 każdy, wszyscy : mey  
@@ -703,7 +701,6 @@ klatka piersiowa, tors; tułów : torace
 klawiatura : buton ban  
 klawisz, przycisk, przełącznik : buton  
 klej : glute  
-klin :   
 klon, replika : klon  
 klonować, repilikować : klona  
 klub : klube  
@@ -800,7 +797,7 @@ królik, zając : tuze
 królowa : fem rajer  
 krótki : korti  
 ksenon : xenon  
-ksiądz, kleryk, kaznodzieja : din guru'  
+ksiądz, kleryk, kaznodzieja : dinogur  
 książka : buke  
 książka z obrazkami : grafobuke  
 księżyc : lun  
@@ -811,7 +808,7 @@ Kuba : kuba
 kubek : kupe  
 kubek do herbaty : cayokupe  
 kucharz : kuker  
-kuchnia : kuke kamar  
+kuchnia : kukeria  
 kukurydza : mais  
 kultura : kultur  
 kumin, kmin : ziran  
@@ -925,7 +922,7 @@ masaż : masaje
 maska, kamuflaż : maske  
 mass (dough, lump) : mas  
 maszyna : maxin  
-maszyna do pisania : kitabe maxin  
+maszyna do pisania : kitabomaxin  
 masło : makan  
 masłosz Parka : karite  
 matematyk : matiker  
@@ -1082,7 +1079,7 @@ narzędzie : tul
 naród, narodowość : nasia  
 następny (następujący) : badi  
 natura, środowisko : tabia  
-nauczyciel : darse guru'  
+nauczyciel : darsogur  
 nauczyć się, uczyć się, studiować : darsa  
 nauka, badanie, studiowanie : lojia  
 Nauru : nauru  
@@ -1525,7 +1522,7 @@ przyrostek dla czasowników z szykiem zdania OVS : -u
 przyrostek dla ideologii : istia  
 przyrostek dla jednostki podstawowej w językoznastwie : -em  
 przyrostek dla miejsca : ia  
-przyrostek dla miejsca wykonywania : -eria  
+przyrostek dla miejsca wykonywania : eria  
 przyrostek dla przymiotnika : -i  
 przyrostek dla wsperającego ideę : iste  
 przyrostek dla wykonawcy : er  
@@ -1552,7 +1549,7 @@ pył : fun
 północ : norde  
 północny : nordi  
 pęknąć (rozpaść się) : fenu  
-płakać, łkać : rona  
+płakać, łkać : kuga  
 płaski : ping  
 płaski chleb, ćapati : rote  
 płaszcz : kote  
@@ -1696,7 +1693,7 @@ siarka : sulfe
 siedem (7) : set  
 siedzieć : sida  
 siekera, topór : tabar  
-sierociniec, dom dziecka : yatim kan  
+sierociniec, dom dziecka : yatimodom  
 sierota : yatim  
 sierpień : mes 5 (mes lim)  
 Sierra Leone : salone  
@@ -1824,13 +1821,13 @@ szczepionka : waksin
 szczoteczka do zębów : dantobrox  
 szczotka : brox  
 szczyt (wierzchołek) : pike  
-szef, kierownik : xefe  
+szef, kierownik : xef  
 szeleścić : xaxu  
 szeroki : kuan  
 szewc : sapater  
 sześcian : kube  
 sześć (6) : sis  
-szkoła (instytucja) : darse kan  
+szkoła (instytucja) : darsia  
 szkło : kace  
 szmaragd : zumrude  
 szokwstrząs; kolizja : xoke  
@@ -1883,7 +1880,7 @@ tapeta : mur papir
 tatuaż : tatu  
 taxi, taksówka : taksi  
 taśma : tepe  
-taśma; bandaż : bande  
+taśma; bandaż : bende  
 tchórz, fretka : furete  
 technet : teknetium  
 technika, technologia : tekne  
@@ -1927,7 +1924,7 @@ tolerować : tolera
 ton, dźwięk, nuta, tonacja : ton  
 tor : torium  
 torba, wór, worek, torba, sakwa : sake  
-tost : rosti nan  
+tost : rosti pang  
 totalny, ogólny : total  
 trawa : gras  
 treść (zawartość) : ten  
@@ -1980,7 +1977,7 @@ uchwyt (pojemnik) : tener
 uciec, uciekać : bega  
 uczestniczyć, wziąć udział, brać udział : parta  
 uczestnik : parter  
-uczeń, student : darse bace  
+uczeń, student : darser  
 Uganda : gandia  
 ugotować się, gotować się : bulu  
 Ukraina : ukraina  
@@ -2269,7 +2266,7 @@ zsumować, sumować, dodać, dodawać : suma
 zulu : zulu'  
 zupa : supe  
 zwinny, sprawny : ajil  
-związać, wiązać; zapiąć, zapinać : banda  
+związać, wiązać; zapiąć, zapinać : benda  
 związek, powiązanie, połączenie : guanxe  
 zwycięstwo, wygrana : win  
 zwyciężyć, wygrać : wina  
