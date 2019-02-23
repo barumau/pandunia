@@ -35,7 +35,7 @@ language. You can just speak Pandunia!
 **salam**
 Hello!
 
-**salam subá!**
+**salam sube!**
 Good morning!
 
 **salam den!**
@@ -867,15 +867,15 @@ I give a book to them.
 **ye no wol dona ye to mi.**
 He/she doesn't want to give it to me.
 
-### toma <small>take, get</small>
+### kapa <small>take, get</small>
 
-**mi toma un kafe.**
+**mi kapa un kafe.**
 I will take a coffee.
 
-**bita toma un kafe to mi.**
+**bita kapa un kafe to mi.**
 Please take one coffee for me.
 
-**tu pas toma pese ze mi.**
+**tu pas kapa pese ze mi.**
 You already got money from me.
 
 <!--
@@ -889,7 +889,7 @@ means _to buy_.
 **yemen mai dar tot.**
 They sell everything.
 
-**mi toma un bir.**
+**mi kapa un bir.**
 I will take a beer.
 
 **mi mai kap un bir.**
@@ -991,80 +991,4 @@ Leave me alone!
 **ke habar?**
 What's new?
 -->
-
-## Word List
-
-All words of Pandunia are loan words from other languages that are spoken
-around the world.  Probably you can recognize many Pandunia words from English
-and other languages that you may know.  Usually one Pandunia word is shared by
-many languages.  For example **mame** and **pape** are known in hundreds of
-languages.  However, only one source word is included in this word list as an
-example.
-
-**a** but <small>(Russian _а_)</small>  
-**ada** have; there is <small>(Indonesian _ada_)</small>  
-**aple** apple <small>(Indonesian _apel_)</small>  
-**bay** white <small>(Mandarin _bái_ 白)</small>  
-**batú** stone <small>(Indonesian _batu_)</small>  
-**bazar** marketplace, bazaar <small>(Persian _bāzār_ بازار)</small>  
-**bax** language; communication <small>(Hindi _bhāśā_ भाषा)</small>  
-**baxa** speak, communicate  
-**bon** good <small>(French _bon_)</small>  
-**cay** tea <small>(Mandarin _chá_ 茶)</small>  
-**ce** this one</small>  
-**ci** this; these</small>  
-**bita** ask, request <small>(Mandarin _qǐng_ 请)</small>  
-**den** day <small>(Russian _den'_ день)</small>  
-**de** that one</small>  
-**di** that; those</small>  
-**dom** home, residence <small>(Russian _dom_ дом)</small>  
-**doma** live, reside  
-**dotor** doctor <small>(Portuguese _doutor_)</small>  
-**enda** to go <small>(Swahili _kuenda_)</small>  
-**engli** English  
-**eska** ask <small>(Haitian _èske_)</small>  
-**fem** woman <small>(French _femme_)</small>  
-**gata** to tell <small>(japana _kataru_ 語る)</small>  
-**gon** before, earlier, former(ly) <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**habar** news <small>(Malay _khabar_)</small>  
-**helpa** to help, to assist  
-**helpe** help, assistance <small>(English _help_)</small>  
-**i** and <small>(Polish _i_)</small>  
-**jana** know <small>(Hindi _jānnā_ जानना)</small>  
-**kafe** coffee <small>(French _café_)</small>  
-**kal** black <small>(Hindi काला _kāla_)</small>  
-**kata** cut <small>(Hindi ‎_kāṭnā_ काटना)</small>  
-**ke** what? who? <small>(Spanish _qué_)</small>  
-**ken** can <small>(English _can_)</small>  
-**keci** polite <small>(Mandarin _kèqi_ 客气)</small>  
-**laya** come <small>(Vietnamese _lai_)</small>  
-**lew** already, done, completed <small>(Thai _læw_ แล้ว)</small>  
-**mame** mother <small>(Mandarin _māma_ 妈妈)</small>  
-**man** man <small>(English _man_)</small>  
-**mena** to mean <small>(Swahili _maana_)</small>  
-**mi** I, me <small>(Swahili _mimi_)</small>  
-**mimen** we  
-**na** at, in, on, with <small>(Lingala _na_)</small>  
-**nida** need <small>(English _need_)</small>  
-**no** no, not <small>(Spanish _no_)</small>  
-**noce** night <small>(Spanish _noche_)</small>  
-**pape** father <small>(Russian _papa_ папа)</small>  
-**ren** person <small>(Mandarin _rén_ 人)</small>  
-**ros** red <small>(Italian _rosso_)</small>  
-**safar** travel, journey <small>(Arabic _safar_ سفر)</small>  
-**salam** greeting; hello <small>(Arabic _salām_ سلام)</small>  
-**si** yes <small>(Spanish _sí_)</small>  
-**subá** morning <small>(Wolof _subba_)</small>  
-**to** to, until <small>(English _to_)</small>  
-**tu** you <small>(Spanish _tu_)</small>  
-**tumen** you all  
-**u** or <small>(French _ou_)</small>  
-**wang** yellow <small>(Cantonese _wong_)</small>  
-**wida** see, look <small>(Russian _videt'_ видеть)</small>  
-**wol** want <small>(Italian _volere_)</small>  
-**xam** evening <small>(Hindi _śām_ शाम )</small>  
-**ye** he, she, it <small>(Lingala _yé_)</small>  
-**yemen** they  
-**zay** currently, at present <small>(Mandarin _zài_ 在)</small>  
-**ze** from, since <small>(Czech _z, ze_)</small>  
 

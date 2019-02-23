@@ -688,13 +688,13 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **da** works like apostrophe-s ('s) in
 English.
 
-> **maria da mamá** - Maria's mother  
+> **maria da mame** - Maria's mother  
 > **mi da dom** - my house  
 > **mi da pape da dom** - my father's house
 
 **du** works like "of" in English.
 
-> **mamá du maria** - the mother of Maria  
+> **mame du maria** - the mother of Maria  
 > **dom du mi** - the house of mine  
 > **dom du pape du mi** - the house of the father of mine
 
@@ -876,10 +876,10 @@ many phrases, the verb says enough alone.
 Preposition **ka** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi jana pandunia ka guru'.** - I know Pandunia like a master.
+> **mi jana pandunia ka gur.** - I know Pandunia like a master.
 
 **ka** relates the verb or the adjective to a point of comparison. In
-the above example **jana** (know) is the verb and **guru'** (master) is
+the above example **jana** (know) is the verb and **gur** (master) is
 the point of comparison.
 
 **ka** is also used when adjectives are compared.

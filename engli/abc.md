@@ -68,8 +68,8 @@ Consider the following examples:
      mi wol loga komun bax, ye si pandunia.  
     /mí wól lóga komún báx, yé sí pandúnia./
 
-     darse guru' suku kafe.
-    /dárse gurú  súku káfe./
+     darsogur sida na sofa'.  
+    /dársogúr sída ná sofá./
 
 ## Letter Case
 
