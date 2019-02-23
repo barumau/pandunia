@@ -114,13 +114,14 @@ banyu : bana
 bar : pezo  
 barbar : barbaro  
 barde : barbo  
-barer : barilo  
 bari : peza  
 barium : bario  
 barka : gratuli  
 barti : Barata  
 bartia : Baratio  
 barude : pulvo  
+barya : bari  
+baryer : barilo  
 bas : sufiĉa  
 basen : baseno  
 baske : korbo  
@@ -715,6 +716,7 @@ kaya : malfermi
 kayu : malfermiĝi  
 ke : kio?  
 kecape : keĉupo  
+keci : ĝentila  
 keke : kuko  
 kel : sporto  
 kenar : rando (orlo)  
@@ -869,8 +871,9 @@ mi : mi
 mien : nudelo  
 migan : mandarino  
 mikro- : mikro-  
-mili : mili-  
 milke : lakto  
+milo- : mili-  
+milometre : milimetro  
 mimen : ni  
 min ka bas : maltro  
 min : malpli  

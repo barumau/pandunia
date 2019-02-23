@@ -152,6 +152,7 @@ band (tape, bandage) : bende
 bandage (strip, ribbon) : faxe  
 Bangladesh : banglia  
 baobab : buyu'  
+bar (obstruct) : barya  
 bar (pub, beer house) : bireria  
 bar (rod, stick) : baton  
 Barbados : barbados  
@@ -159,7 +160,7 @@ barbarian : barbar
 barium : barium  
 barometer : hawobarometer  
 barrel (can) : tong  
-barrier : barer  
+barrier : baryer  
 base (foundation) : baze  
 basic : bazi  
 basket (basketball hoop) : baske  
@@ -187,7 +188,7 @@ bedouin (nomadic) : badawi
 bedroom : son kamar  
 beef : mumu manse  
 beer : bir  
-begin (commence) : mula  
+begin (commence, start) : mula  
 beginning : mul  
 behave (act) : manira  
 behaviour (manners) : manir  
@@ -1279,7 +1280,8 @@ military : jengi
 milk (draw milk) : tira milke  
 milk : milke  
 miller : moler  
-milli- : mili  
+milli- : milo-  
+millimeter : milometre  
 million (mega-) : mega  
 mineral (ore) : kuang  
 mineral water : kuang suy  
@@ -1588,6 +1590,7 @@ Plato : platon
 Platonic : platoni  
 Platonism : platonistia  
 Platonist : platoniste  
+platypus : batokrote  
 play a game : gema  
 play music : musika  
 player (gamer) : gemer  

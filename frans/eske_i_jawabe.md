@@ -19,7 +19,7 @@ Les créateurs du Pandunia ont commencé ensemble l'élaboration d'une langue en
 
 #### Que représente le drapeau Pandunia ?
 
-![](http://www.pandunia.info/bander/bander.png "The flag of Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "Le drapeau Pandunia")
 
 Le drapeau Pandunia représente l'égalité mondiale. On peut y distinguer une planète bleue sur fond spatial et un signe égal superposé à la terre.
 
@@ -28,7 +28,7 @@ Le drapeau Pandunia représente l'égalité mondiale. On peut y distinguer une p
 L’ornithorynque est un animal de l’est de l’Australie.
 Ses particularités anatomiques (bec de canard, queue de castor, pieds de loutre) font de ce mammifère une créature inhabituelle, tout comme l’est le Pandunia avec un mélange de mots et de grammaires des quatre coins du globe.
 
-![](http://www.pandunia.info/grafe/platypusbandera.png "Our platypus")
+![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Nôtre platypus")
 
 
 ## Passé, présent et futur
@@ -52,10 +52,6 @@ Le Pandunia a été influencé à la fois par des langues naturelles et des lang
     - L'espéranto, l'Ido, le Novial etc. ont été étudiés de près.
     - Le Latino sine Flexione, le Lingua Sistemfrater and l'Interglossa ont tous des grammaires isolantes finement pensées.
 - Les langues de contact naturelles fourmillent d'idées intéressantes ; en particulier lorsqu'on observe deux locuteurs de langues natives différentes tenter de créer une langue de circonstance avec une grammaire isolée.
-
-"L'arbre généalogique" du Pandunia est présenté dans le schéma ci-dessous.
-
-![](http://www.pandunia.info/sura/familytree.gif "Pandunia's family tree")
 
 
 

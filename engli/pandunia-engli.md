@@ -136,7 +136,6 @@ bar : weight
 barbados : Barbados  
 barbar : barbarian  
 barde : beard  
-barer : barrier  
 bari : heavy  
 barium : barium  
 barka : congratulate (bless)  
@@ -144,12 +143,15 @@ barometer : scales (weighing device)
 barti : Indian  
 bartia : India  
 barude : gunpowder  
+barya : bar (obstruct)  
+baryer : barrier  
 bas : enough (sufficient)  
 basen : pool (basin)  
 baske : basket (basketball hoop)  
 baskobol : basket ball  
 bat : eight (8)  
 bate : duck  
+batokrote : platypus  
 baton nur : torch  
 baton : bar (rod, stick)  
 batonopang : baguette  
@@ -1311,8 +1313,9 @@ mien : noodle
 migan : mandarin orange  
 mikro- : micro-  
 mikronesia : Micronesia  
-mili : milli-  
 milke : milk  
+milo- : milli-  
+milometre : millimeter  
 mimen : we  
 min ka bas : too little  
 min : less  
@@ -1381,7 +1384,7 @@ mudan : peony
 muke : face  
 mukofun : face powder  
 mul : beginning  
-mula : begin (commence)  
+mula : begin (commence, start)  
 muli : first (beginning)  
 mum nur : candle  
 mum : wax  

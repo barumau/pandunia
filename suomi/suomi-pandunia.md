@@ -242,7 +242,8 @@ esimerkki : misal
 Espanja : espania  
 esperanto : esperanti  
 essee : esey  
-este : barer  
+este : baryer  
+estää kulku : barya  
 etelä : sude  
 Etelä-Afrikka : sudafrike  
 Etelä-Korea : hangogia  
@@ -859,7 +860,7 @@ kuva (kuvaus) : graf
 kuvaileva (määrittelevä) : sifi  
 kuvakirja : grafobuke  
 kuvaruutu : ekran  
-grafea (kuvailla) : grafa  
+kuvata (kuvailla) : grafa  
 kuvitella : fantaza  
 Kuwait : kuwaitia  
 kyllä : si  
@@ -1147,7 +1148,8 @@ mikä? (mitä?) : ke
 mikä? (mitä?) : ki xey  
 miljardi (giga-) : giga  
 miljoona (mega-) : mega  
-milli- : mili  
+milli- : milo-  
+millimetri : milometre  
 milloin? (koska?) : ki zaman  
 minimalismi : minimalistia  
 ministeri : minister  
@@ -2164,6 +2166,7 @@ verkko : nete
 vertainen : par  
 vesi : suy  
 vesimeloni : arbuze  
+vesinokkaeläin : batokrote  
 vesipuhveli : kabaw  
 vesiväri (akvarelliväri) : suy rang  
 vessa : tuale  

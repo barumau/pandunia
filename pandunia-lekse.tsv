@@ -18,12 +18,12 @@ ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:
 	dex	AF	afgania	:	Afghanistan		Afganistan	Afganistan					
 ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.			afrike	:	Africa	Afriko	Afrikka	Afryka					Afrique
 			afriki	:	African	afrika	afrikkalainen	afrykański, Afrykanin					africain
-			agres	:	agression (assault)	agreso	aggressio	agresja, napaść					
-rus: aha. rus: ага /aha/. kor: 아하 "aha". eng: uh-huh.			aha	:	understand (realize)	kompreni	oivaltaa (tajuta)	rozumieć, pojmować					
+eng:agression. pol:agresja			agres	:	agression (assault)	agreso	aggressio	agresja, napaść					
+rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.			aha	:	understand (realize)	kompreni	oivaltaa (tajuta)	rozumieć, pojmować					
 	made	Es	ainstainium	:	einsteinium	ejnŝtejnio	einsteinium	einstein					
 			ajil	:	agile	lerta	ketterä	zwinny, sprawny			灵活的	подвижный	agile
 eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.			akse	:	axis (axle)	akso	akseli	oś			轴线	ось	axe
-deu:Alge. fra:algue. tur:alg. per:(âlg). eng:spa:por:alga.			alge	:	alga	algo	levä	alga (wodorost)					
+deu:Alge. fra:algue. tur:alg. per:(âlg). eng:spa:por:pol:alga.			alge	:	alga	algo	levä	alga (wodorost)					
 ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.			ali	:	other	alia	muu (toinen)	inny				другой (второй)	autre
 fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:"kuhul" rus:"alkohol".			alkol	:	alcohol	alkoholo	alkoholi	alkohol	alcohol		酒	алкоголь	alcool
 			alkoli	:	alcoholic	alkohola	alkoholinen	alkoholowy	alcohólico				
@@ -31,12 +31,12 @@ hin:अलमारी "almārī". ind:lemari. spa:armario. por:armário. eng:al
 			almas	:	diamond	diamanto	timantti	diament	diamante		钻石	алмаз (бриллиант)	diamant
 			alofone	:	allophone		allofoni (vaihtoehtoinen ääntämys)	alofon					
 			alojinsokami	:	heterosexual	samseksema	heteroseksuaali	heteroseksualny					
-eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare.			altar	:	altar	altaro	alttari	ołtarz	altar		圣坛	алтарь	autel
+eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare. pol:ołtarz.			altar	:	altar	altaro	alttari	ołtarz	altar		圣坛	алтарь	autel
 	made	Al	alumin	:	aluminium	aluminio	alumiini	glin (aluminium)					
 spa:por:amar. fra:aimer.			am	:	love (affection)	amo	rakkaus	miłość (afekt)					
 			ama	:	love (to be in love with)	ami	rakastaa	kochać			爱	любить	aimer
 			amari	:	Amhara (an Ethiopian ethnic group and language)		amhara (etiopialainen kansa ja kieli)	Amhara, amharski					
-			amen	:	agreement (amen)	interkonsento (amen)	yhteisymmärrys (olla samaa mieltä) 	porozumienie (amen)					
+heb:hbo:אמן. ell:ἀμήν (ámén). eng:pol:amen.			amen	:	agreement (amen)	interkonsento (amen)	yhteisymmärrys (olla samaa mieltä) 	porozumienie (amen)					
 			amena	:	affirm (agree, concur)	aserti (konsenti)	olla samaa mieltä	potwierdzić, potwierdzać, zgodzić się, zgadzać się					
 			amerike	:	America (continent)	Ameriko	Amerikka	Ameryka (kontynent)					Amérique
 			ameriki	:	American	amerika	amerikkalainen	amerykański					américain
@@ -55,7 +55,7 @@ hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). p
 	dex	AQ	antartia	:	Antarctica		Antarktis	Antarktyka					
 			anten	:	antenna (aerial)	anteno	antenni	antena			天线	антенна	antenne
 			anter	:	opponent (antagonist)		vastustaja	przeciwnik (antagonista)					
-eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-).			anti	:	opposite (anti-)	kotraŭa	vasta- (anti-)	przeciwstawny (naprzeciw, naprzeciwko, anty-)					
+eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.			anti	:	opposite (anti-)	kotraŭa	vasta- (anti-)	przeciwstawny (naprzeciw, naprzeciwko, anty-)					
 			anus	:	anus	anuso	peräaukko (anus)	odbyt			肛门	анус	anus
 			anusi	:	anal	anusa	anaalinen	analny, odbytni					
 eng:apple. deu:Apfel. ind:apel.			aple	:	apple	pomo	omena	jabłko			苹果	яблоко	pomme
@@ -68,8 +68,8 @@ eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".			aranje	:	or
 			aranofobia	:	arachnophobia	araneofobio	araknofobia (hämähäkkikammo)	arachnofobia					
 fra:arbre. spa:árbol. por:árvore.			arbe	:	tree	arbo	puu	drzewo					
 			arboparke	:	arboretum	arboĝardeno	arboretum (puulajipuisto)	arboretum	arboreto				
-rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).			arbuze	:	watermelon	akvomelono	vesimeloni	arbuz			西瓜	арбуз	melon d'eau
-eng:area. por:spa:área.			are	:	area (extent of surface)	areo	ala (pinta-ala)	pole, powierzchnia			面积	площадь	aire (superficie)
+rus:арбуз (arbuz). pol:arbuz. tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).			arbuze	:	watermelon	akvomelono	vesimeloni	arbuz			西瓜	арбуз	melon d'eau
+eng:area. por:spa:área. ol:areał.			are	:	area (extent of surface)	areo	ala (pinta-ala)	pole, powierzchnia			面积	площадь	aire (superficie)
 	dex	AR	argentin	:	Argentina	Argentino	Argentiina	Argentyna					
 	made	Ar	argon	:	argon	argono	argon	argon					
 			aria	:	area (region)	ejo	alue (seutu)	powierzchnia, region, teren					
@@ -135,7 +135,6 @@ ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu).
 	dex	BB	barbados	:	Barbados		Barbados	Barbados					
 deu:tur:barbar. fra:barbare. per:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).			barbar	:	barbarian	barbaro	barbaari (raakalainen)	barbarzyńca					
 fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.			barde	:	beard	barbo	parta	broda					
-spa:barrera. eng:barrier. rus:барьер "baryer".			barer	:	barrier	barilo	este	bariera					
 			bari	:	heavy	peza	painava						
 	made	Ba	barium	:	barium	bario	barium	bar					
 hau:barka. ind:berkah. tur:tebrik. per:(tabrik). ara:urd:(mubārak).			barka	:	congratulate (bless)	gratuli	onnitella (siunata)	gratulować; błogosławić					
@@ -143,12 +142,15 @@ hau:barka. ind:berkah. tur:tebrik. per:(tabrik). ara:urd:(mubārak).			barka	:	c
 hin:भारतीय "bhārtīy". urd:"bhārtīy". mar:"bhārtīya". tel:"bhāratīya".			barti	:	Indian	Barata	intialainen	Indyjski					
 	dex	IN	bartia	:	India	Baratio	Intia	Indie					
 			barude	:	gunpowder	pulvo	ruuti	proch strzelniczy					
+eng:bar. spa:por:barrar.			barya	:	bar (obstruct)	bari	estää kulku	blokować, hamować					
+spa:barrera. eng:barrier. rus:барьер (baryer).			baryer	:	barrier	barilo	este	bariera					
 fas: /bas/. hin: /bas/. swa: basi. spa: basta.			bas	:	enough (sufficient)	sufiĉa	tarpeeksi (riittävästi)	wystarczający	bastante				
 			basen	:	pool (basin)	baseno	allas	basen					
 			baske	:	basket (basketball hoop)	korbo	kori	kosz					
 			baskobol	:	basket ball		koripallo	piłka do koszykówki (koszykówka)					
 			bat	:	eight (8)	ok (8)	kahdeksan (8)	osiem (8)					
 mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). per:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)			bate	:	duck	anaso	sorsa (ankka)	kaczka					
+			batokrote	:	platypus		vesinokkaeläin						
 eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".			baton	:	bar (rod, stick)	stango	tanko (sauva, patukka)	pręt, kij					
 			baton nur	:	torch	torĉo	soihtu	pochochodnia (latarka)					
 			batonopang	:	baguette		patonki (ranskanleipä)	bagietka					
@@ -192,8 +194,8 @@ zho:被 "bèi".			bey	:	suffer (passivizing verb)		läpikäydä (passiivin muodo
 tur:ebilmek. + ind:bisa,boleh. + eng:able. spa:hábil. fra:habile. ron:abil.			bila	:	can (know, be able)	povi	voida (osata, pystyä)	móc, umieć					
 			bile	:	ability (skill)	povo	taito (kyky)	możliwość, umiejętność					
 			bili	:	possible (possibly, maybe, perhaphs)	ebla (eble)	mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie					
-ara: "banā". hin: बनाना "banānā". urd: "banānā". fas: "banā". tur: bina. jpn:ビル (biru).			bina	:	build (construct)	konstrui	rakentaa	zbudować, budować, konstruować					
-hin:बिंदु "bindu". tha:พินทุ "pintu". eng:bindi (holy dot). rus:бинди (bindi). 			binde	:	dot (spot)	punkto	täplä (läiskä)	punkt					
+ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).			bina	:	build (construct)	konstrui	rakentaa	zbudować, budować, konstruować					
+hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi). 			binde	:	dot (spot)	punkto	täplä (läiskä)	punkt					
 zho:病 (bìng). vie:bệnh. kor:병 (byeong).			bing	:	ill (sick)	malsana	sairas	chory					
 eng: beer. tur: bira.			bir	:	beer	biero	olut (kalja)	piwo					
 eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).			bireria	:	bar (pub, beer house)	drinkejo	baari (kapakka)	bar, knajpa					
@@ -275,10 +277,10 @@ fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).			c
 			capa	:	press (imprint)	presi	painaa (leimata)	naciskać, zostawiać ślad					
 			cape	:	print (stamp)	presaĵo	painos (leima)	odcisk, ślad; stempel, pieczęć					
 			car	:	four (4)	kvar (4)	neljä (4)	cztery (4)					
-			carokon	:	square (tetragon)		neliö						
+			carokon	:	square (tetragon)		neliö	kwadrat (czworokąt, czworobok, tetragon)					
 hin: छत (chat). ben: ছাদ (chad). tur:çatı. kyr:чатыр (čatyr).			cate	:	roof	tekto	katto (katos)	dach					
 zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).			cay	:	tea	teo	tee	herbata					
-			cayeria	:	tea house		teehuone (kahvila)						
+			cayeria	:	tea house		teehuone (kahvila)	herbaciarnia					
 			cayokupe	:	tea cup		teekuppi	kubek do herbaty					
 ind:cawan.			cayowan	:	tea bowl		teekulho	misa na herbatę					
 			ce	:	this one	ĉi tio	tämä	ten konkretny					
@@ -338,7 +340,7 @@ ara:per:urd:(dars). tur:ders.			darse	:	lesson	leciono	oppi (opetus)	lekcja
 			darser	:	student (pupil, learner)	studento (lernanto)	oppilas	uczeń, student					
 			darsia	:	school (institution)	lernejo	koulu (opisto)	szkoła (instytucja)					
 			darsogur	:	teacher	instruisto	opettaja	nauczyciel					
-			darsoxef	:	headmaster (principal)		rehtori						
+			darsoxef	:	headmaster (principal)		rehtori	dyrektor szkoły					
 eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.			darte	:	soil (dirt)		maa (multa)	grunt (ziemia, próchnica)					
 			darwiniste	:	Darwinist		darwinisti	darwinista					
 			darwinistia	:	Darwinism		darwinismi	darwinizm					
@@ -382,7 +384,7 @@ ara: /dīn/. tur: din. swa: dini. hau: addini.			din	:	religion (worship)	religi
 			dinogur	:	priest (cleric)	pastro	pappi	ksiądz, kleryk, kaznodzieja					
 			diske	:	disc (disk)	disko	kiekko (levy)	dysk					
 	made	Dy	disprosium	:	dysprosium	disprozio	dysprosium	dysproz					
-hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).			dixe	:	direction		suunta						
+hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).			dixe	:	direction		suunta	kierunek					
 			doici	:	German		saksalainen	niemiecki					
 	dex	DE	doicia	:	Germany		Saksa	Niemcy					
 eng:fra:document. rus:документ (dokument).			dokum	:	document (record)		asiakirja (dokumentti, tiedosto)	dokument					
@@ -621,7 +623,7 @@ eng:glue. swa:gluu. + fra:glutineux.			glute	:	glue	gluo	liima	klej
 spa:tgl:goma. fra:gomme. jpn:ゴム (gomu). kor:고무 (gomu). deu:Gummi.			gom	:	rubber	kaŭĉuko	kumi	guma					
 ara:(quṭun). spa:algodón. fra:coton. eng:cotton.			goton	:	cotton	kotono	puuvilla	bawełna					
 eng:graphic. fra:graphique.			graf	:	picture (graph, image)	bildo	kuva (kuvaus)	opis, przedstawienie; wykres					
-			grafa	:	depict (describe, illustrate)	priskribi	grafea (kuvailla)	opisywać, ilustorawć; przedstawiać					
+			grafa	:	depict (describe, illustrate)	priskribi	kuvata (kuvailla)	opisywać, ilustorawć; przedstawiać					
 			grafem	:	grapheme		grafeemi	grafem					
 			grafer	:	illustrator (graphic artist)		graafikko	ilustrator, grafik					
 			grafi	:	graphic (pictorial)	grafika	graafinen	obrazowy, graficzny; opisowy					
@@ -684,8 +686,8 @@ ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.			hatar	:	danger (peril
 			hatari	:	dangerous	danĝera	vaarallinen	niebezpieczny					
 por:até. ara:"ḥatta". spa:hasta. swa:hata.			hati	:	even (intensifier)	eĉ	jopa	nawet					
 per:urd:(havā). tur:hava. ind:hawa. som:hawo. swa:hewa. hin:हवा (havā). ben:হাওয়া (haowa).			hawe	:	air	aero	ilma	powietrze					
-			hawobar	:	atmospheric pressure		ilmanpaine						
-			hawobarometer	:	barometer		ilmapuntari (ilmanpainemittari, barometri)						
+			hawobar	:	atmospheric pressure		ilmanpaine	ciśnienie atmosferyczne					
+			hawobarometer	:	barometer		ilmapuntari (ilmanpainemittari, barometri)	barometr					
 zho:还 "hai".			hay	:	still (yet)	ankoraŭ	vielä (yhä)	wciąż, nadal					
 			hazin	:	treasure (treasury)	trezoro	aarre	skarb; skrabiec					
 fra:por:hein. jpn:e.			he	:	huh? (pardon?)	ĉu?	häh?	hę?, co?, pardon?					
@@ -866,7 +868,7 @@ ben:কাঁচ (kãcô). mar:काच (kāc). ind:may:kaca. tel:గాజు 
 deu:Kaffee. fra: café. spa: café. zho: 咖啡 "kāfēi".			kafe	:	coffee	kafo	kahvi	kawa					
 			kaferia	:	cafe (coffee shop)	kafejo	kahvila	kawiarnia					
 			kafi	:	brown (coffee-colored)	bruna	ruskea	brązowy, koloru kawy					
-ara:(kāfir). per:(kāfer). tur:fra:kâfir. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).			kafir	:	infidel (pagan, heathen, unbeliever)		pakana						
+ara:(kāfir). per:(kāfer). tur:fra:kâfir. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).			kafir	:	infidel (pagan, heathen, unbeliever)		pakana	niewierny (poganin, niewierzący)					
 			kafokupe	:	coffee cup	kaftaso	kahvikuppi	filiżanka do kawy					
 			kaka	:	defecate (shit)		ulostaa (kakata)	defekować, srać					
 por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).			kakaw	:	cocoa	kakao	kaakao	kakao					
@@ -930,7 +932,7 @@ zho: 开 "kāi".			kay	:	open (not closed)	malferma	auki (avoin)	otwarty, niezam
 			kaze	:	event (case, instance)		tapaus	wydarzenie, przypadek, sytuacja					
 spa:qué. fra:que. + ben:কে  "ke".			ke	:	what?	kio?	mikä? (mitä?)	co?					
 yue:茄汁 (kezap). eng:ketchup. hin:केचप (kecap). rus:кетчуп (ketčup). jpn:ケチャップ (kechappu). tgl:ketsap.			kecape	:	ketchup	keĉupo	ketsuppi	keczup	kétchup				
-			keci	:	polite		kohtelias (kiltti)	uprzejmy					
+			keci	:	polite	ĝentila	kohtelias (kiltti)	uprzejmy					
 swa:keki. jpn:ケーキ "kēki". eng:cake. ara:"kaʿka". tur:kek. hin:केक "kek". deu:Keks. rus:кекс "keks".			keke	:	cake (cookie)	kuko	kakku (keksi)	ciasto, ciastko					
 hin:खेल "khel". ben:খেলা "khela". tha:กีฬา "kīlā". khm:កីឡា "keila".			kel	:	sport (athletics)	sporto	urheilu	sport, lekkoatletyka					
 swa:kon:makelele.			kelele	:	noise		meteli	atleta, sportowiec					
@@ -990,11 +992,11 @@ fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.			koke	:	chick
 			kolonia	:	colony (settlement)		kolonia (siirtomaa)	kolonia, osada					
 			koloniste	:	colonialist		kolonialisti	kolonialista					
 			kolonistia	:	colonialism		kolonialismi	kolonializm					
-eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna).			kolum	:	column (pillar)	kolono	pylväs (pilari)	kolumna, filar					
+eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna). pol:kolumna.			kolum	:	column (pillar)	kolono	pylväs (pilari)	kolumna, filar					
 			koma'	:	comma		pilkku	przecinek					
 			komal	:	soft	mola	pehmeä	miękki					
 	dex	KM	komoro nesia	:	Comoros		Komorit	Komory					
-eng:company. hin:कंपनी "kampanī". rus:компания "kompaniya". tgl:kompanya.			kompania	:	company (corporation)	kompanio (firmao)	yritys (yhtiö)	firma, kompania, korporacja					
+eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.			kompania	:	company (corporation)	kompanio (firmao)	yritys (yhtiö)	firma, kompania, korporacja					
 eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć, liczyć, przetwarzać dane					
 			komputer	:	computer	komputero	tietokone	komputer					
 			komun	:	common (shared)	komuna	yhteinen	wspólny					
@@ -1117,8 +1119,8 @@ eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti
 			lim	:	five (5)	kvin (5)	viisi (5)	pięć (5)					
 			limfe	:	lymph		lymfa	limfa					
 			limite	:	limit (boundary)		raja	limit, granica					
-			limofas	:	pentahedron (prism)		viisitahokas (prisma)						
-			limokon	:	pentagon		viisikulmio						
+			limofas	:	pentahedron (prism)		viisitahokas (prisma)	pięciościan (pryzmat)					
+			limokon	:	pentagon		viisikulmio	pięciokąt (pentagon)					
 			limun	:	lemon	citrono	sitruuna	cytryna					
 por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).			linye	:	line (stripe)	lineo	viiva (linja)	linia, pas, pręga, smuga					
 			lis	:	smooth		sileä	gładki					
@@ -1132,7 +1134,7 @@ ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:l�
 			loge liste	:	word list	vortaro	sanaluettelo	lista słów					
 eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			logike	:	logic (deduction)	logiko	logiikka	logika, dedukcja					
 			loja	:	research (to study)		tutkia (opiskella)	badać, studiować					
-eng:-ology. spa:-ología. fra:-ologie. rus:"-logiya". tur:"-loji".			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie					
+eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie					
 			loka	:	locate (place)		sijoittaa (panna paikalleen)	umieścić (postawić)					
 eng:location. spa:lugar.			loke	:	place (location)	loko	paikka (sija, sijainti)	miejsce, lokacja					
 			loki	:	local	loka	paikallinen	miejscowy, lokalny					
@@ -1299,8 +1301,9 @@ zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi)
 			migan	:	mandarin orange	mandarino	mandariini	mandarynka					
 			mikro-	:	micro-	mikro-	mikro-	mikro-					
 	dex	FM	mikronesia	:	Micronesia		Mikronesia	Mikronezja					
-			mili	:	milli-	mili-	milli-	mili-					
-eng:milk. deu:Milch. jpn:ミルク  "miruku". kor:밀크 "milkeu". lin:míliki. rus:молоко "moloko".			milke	:	milk	lakto	maito	mleko					
+eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).			milke	:	milk	lakto	maito	mleko					
+			milo-	:	milli-	mili-	milli-	mili-					
+			milometre	:	millimeter	milimetro	millimetri						
 			mimen	:	we	ni	me	my					
 			min	:	less	malpli	vähemmän	mniej					
 			min ka bas	:	too little	maltro	liian vähän	zbyt mało					
@@ -1310,7 +1313,7 @@ zho: 明 (míng). vie:minh. kor:명 (myeong).			ming	:	bright (clear)		kirkas (s
 			minim	:	least (minimally)	malplej	vähiten	najmniej, minimalnie					
 			minimalistia	:	minimalism		minimalismi	minimalizm					
 			minimi	:	minimal		vähimmäis-	minimal					
-swa:hau:waziri. ara:"wazir". hin:वज़ीर "vazir". tur:vezir. eng:vizier. spa:visir.			minister	:	minister	ministro	ministeri	minister					
+			minister	:	minister	ministro	ministeri	minister					
 			ministeria	:	ministry		ministeriö	ministry					
 eng: minor.			minor	:	minor (not major)		vähäinen	mniejszościowy					
 spa: minoría.			minoria	:	minority		vähemmistö	mniejszość					
@@ -1343,10 +1346,10 @@ ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, 
 			mongol	:	Mongol	mongola	mongoli	Mongolski					
 	dex	MN	mongolia	:	Mongolia	Mongolio	Mongolia	Mongolia					
 			monistia	:	monism	monismo	monismi	monizm	monismo				
-			monodewistia	:	monotheism		monoteismi (yksijumalisuus)						
+			monodewistia	:	monotheism		monoteismi (yksijumalisuus)	monoteizm					
 			monokratia	:	autocracy (monarchy)		yksinvaltius (autokratia, monarkia)	monarchia					
 			monologe	:	monolog		yksinpuhelu (monologi)	monolog					
-			monorangi	:	monochrome		yksivärinen						
+			monorangi	:	monochrome		yksivärinen	jednokolorowy (monochromatyczny)					
 			monster	:	monster	monstro	hirviö	potwór, monstrum					
 			moral	:	morality (ethics)		moraali (etiikka)	moralność, etyka					
 			morfe	:	morph		morfi	morf					
@@ -1369,7 +1372,7 @@ zho:牡丹 (mǔdān). kor:모란 (moran). jpn:(botan). vie:mẫu đơn.			mudan	
 ben:মুখ (mukh). hin:मुख (mukh). tam:முகம் (mukam). tel:(mukhamu). ind:muka. tgl:mukha.			muke	:	face	vizaĝo	kasvot (naama)	twarz					
 			mukofun	:	face powder		puuteri	puder					
 hin: मूल /mūl/. ind: mula. khm: មូល /mul/.			mul	:	beginning	komenco	alku	początek					
-			mula	:	begin (commence)		aloittaa	zacząć, zaczynać					
+			mula	:	begin (commence, start)		aloittaa	zacząć, zaczynać					
 			muli	:	first (beginning)		ensimmäinen (alku-)	pierwszy, początkowy					
 tur:mum. per:(mum). hin:मोम (mom). ben:মোম (mom).			mum	:	wax		vaha	wosk					
 			mum nur	:	candle	kandelo	kynttilä	świeca					
@@ -1648,9 +1651,9 @@ per:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).			pola
 ell:πολιτική (politikē). ind:politik. tur:politika. eng:politics. por:spa:política. fra:politique. rus:политика (politika).			politike	:	politics	politiko	politiikka	polityka					
 			politiker	:	politician	politikisto	poliitikko	polityk					
 			politikolojia	:	politocology		politiikantutkimus	politologia					
-			polodewistia	:	polytheism		polyteismi (monijumalisuus)						
-			polofas	:	polyhedron		monitahokas						
-			polokon	:	polygon	poligono	monikulmio (polygoni)						
+			polodewistia	:	polytheism		polyteismi (monijumalisuus)	politeizm					
+			polofas	:	polyhedron		monitahokas	wielościan					
+			polokon	:	polygon	poligono	monikulmio (polygoni)	wielokąt (wielościan)					
 	made	Po	polon	:	polonium	polonio	polonium	polon					
 			polski	:	Polish		puolalainen	polski					
 	dex	PL	polskia	:	Poland		puola	Polska					
@@ -1799,7 +1802,7 @@ hin:रूप (rūp). ind: rupa. tha: รูป /rūp/. khm:រូប (rūp).			
 per:روستا‎ (rustâ). + eng:rustic. por:spa:rustico. fra:rustique.			ruste	:	village	vilaĝo	kylä	wieś, wioska					
 			rusti	:	rural (rustic)		maalais-	wiejski, rustykalny					
 			rustia	:	countryside		maaseutu	wieś, tereny wiejskie					
-eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:маршрут (maršrut).			rute	:	route (path, trail, course, itinerary)		polku (reitti, kurssi)						
+eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:маршрут (maršrut).			rute	:	route (path, trail, course, itinerary)		polku (reitti, kurssi)	ścieżka (droga, szlak, kurs)					
 	made	Ru	rutenium	:	ruthenium	rutenio		rut					
 	made	Rf	ruterfordium	:	rutherfordium	ruterfordio		rutherford					
 			rutin	:	routine (habit)	rutino (kutimo)	tapa (rutiini)	rutyna, nawyk, zwyczaj					
@@ -1840,7 +1843,7 @@ zho:"sān". jpn:"san". kor:"sam". tha:"sam".			sam	:	three (3)	tri (3)	kolme (3)
 			samani	:	celestial (heavenly)			niebieski, niebiański, podniebny					
 	made	Sm	samarium	:	samarium	samario		samar					
 	dex	WS	samoa	:	Samoa		Samoa	Samoa					
-			samokon	:	triangle		kolmio						
+			samokon	:	triangle		kolmio	trójkąt					
 vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.			sana	:	produce (create, make)	produkti (fabriki)	tehdä (valmistaa)	zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać					
 swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). per:urd:صندوق‎ (sanduq).			sanduke	:	box (chest)	skatolo (kesto)	laatikko	pudło, skrzynia					
 fra:sang. spa:sangre. por:sangue.			sang	:	blood	sango	veri	krew					
@@ -1916,8 +1919,8 @@ tur:sirke. per:(serke). hin:सिरका (sirkā). pan:ਸਿਰਕਾ (sirk
 			sis	:	six (6)		kuusi (6)	sześć (6)					
 			sisme	:	earthquake	tertremo	maanjäristys	trzęsienie Ziemi					
 			sismolojia	:	seismology	sismologio	seismologia	sejsmologia					
-			sisofas	:	hexahedron (cube)		kuutio (kuusitahokas)						
-			sisokon	:	hexagon		kuusikulmio						
+			sisofas	:	hexahedron (cube)		kuutio (kuusitahokas)	sześcian (kostka)					
+			sisokon	:	hexagon		kuusikulmio	sześciokąt (sześciobok)					
 			sistem	:	system	sistemo	järjestelmä (systeemi)	system					
 			sistemi	:	systemic			systemowy					
 eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).			site	:	city (town)	urbo	kaupunki	miast, miasteczko					

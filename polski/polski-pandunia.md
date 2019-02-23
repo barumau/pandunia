@@ -96,7 +96,8 @@ bar, knajpa : bireria
 Barbados : barbados  
 barbarzyńca : barbar  
 bardziej : max  
-bariera : barer  
+bariera : baryer  
+barometr : hawobarometer  
 basen : basen  
 bateria : batre  
 baton czekoladowy : cokobaton  
@@ -135,6 +136,7 @@ biznes, interes (aktywność komercyjna) : biznes
 bić, uderzyć, uderzać : darba  
 bliski : karbi  
 blog : bloge  
+blokować, hamować : barya  
 bogaty : rici  
 bohater, heros : hero'  
 bohaterski, heroiczny : hero'i  
@@ -227,6 +229,7 @@ cieszyć, podobać się : suka
 cień : saye  
 ciągnąć : tira  
 ciąć : kata  
+ciśnienie atmosferyczne : hawobar  
 cmentarz : gabre stan  
 co? : ke  
 co? : ki ren  
@@ -332,6 +335,7 @@ dusza, duch, umysł : ruhe
 duży; bardzo : day  
 dwa (2) : dul  
 dym : duman  
+dyrektor szkoły : darsoxef  
 dysk : diske  
 dyskusja, debata, dyskurs : lon  
 dyskutoać, twierdzić : tesa  
@@ -530,6 +534,7 @@ hebel, strug : rander
 heblować : randa  
 hebrajski : ibri  
 hel : helium  
+herbaciarnia : cayeria  
 herbata : cay  
 heteroseksualny : alojinsokami  
 hełm : helme  
@@ -620,6 +625,7 @@ jebać, kopulować : coda
 jechać na wakacje : fera  
 jeden (1) : un  
 jednoczyć : una  
+jednokolorowy (monochromatyczny) : monorangi  
 jedzenie, posiłek : nyam  
 Jemen : yaman  
 Jersey : jersia  
@@ -685,6 +691,7 @@ kebab : kababe
 keczup : kecape  
 Kenia : kenia  
 kiedy? : ki yang  
+kierunek : dixe  
 kieszeń : jebe  
 kiełbasa : sosis  
 kilogram (kg) : kilogram  
@@ -817,6 +824,7 @@ kura, kogut, kurczak : koke
 kurtka : jake  
 kusić, nakłonić, nakłaniać : tenta  
 Kuwejt : kuwaitia  
+kwadrat (czworokąt, czworobok, tetragon) : carokon  
 kwaśny : suan  
 kwestia, problem : masle  
 kwiat : pul  
@@ -970,7 +978,7 @@ mikro- : mikro-
 Mikronezja : mikronesia  
 mikser, blender, robot kuchenny : mixer  
 miksować, mieszać : mixa  
-mili- : mili  
+mili- : milo-  
 milion, mega- : mega  
 militarny, wojskowy, wojenny : jengi  
 minerał, ruda : kuang  
@@ -1008,6 +1016,7 @@ Mongolia : mongolia
 Mongolski : mongol  
 monizm : monistia  
 monolog : monologe  
+monoteizm : monodewistia  
 moralność, etyka : moral  
 morf : morfe  
 morfem : morfem  
@@ -1109,6 +1118,7 @@ Niemcy : doicia
 niemiecki : doici  
 niemowlę : bebe  
 nienawidzić : hen  
+niewierny (poganin, niewierzący) : kafir  
 Niger : nijer  
 Nigeria : naijiria  
 nihonium : niponium  
@@ -1316,6 +1326,8 @@ pizzeria : pizeria
 pióro : puru  
 pióro, długopis : kalam  
 piątek : war 5 (war lim)  
+pięciokąt (pentagon) : limokon  
+pięciościan (pryzmat) : limofas  
 piękny, przystojny : sundar  
 pięć (5) : lim  
 piłka : bol  
@@ -1376,6 +1388,7 @@ pole, powierzchnia : are
 policja : polis  
 policzyć, liczyć, przetwarzać dane : komputa  
 Polinezja Francuska : fransi polinesia  
+politeizm : polodewistia  
 politologia : politikolojia  
 polityk : politiker  
 polityka : politike  
@@ -1825,7 +1838,9 @@ szef, kierownik : xef
 szeleścić : xaxu  
 szeroki : kuan  
 szewc : sapater  
+sześcian (kostka) : sisofas  
 sześcian : kube  
+sześciokąt (sześciobok) : sisokon  
 sześć (6) : sis  
 szkoła (instytucja) : darsia  
 szkło : kace  
@@ -1936,6 +1951,7 @@ Trynidad i Tobago : trinida i tobago
 trzy (3) : sam  
 trzymać : tena  
 trzęsienie Ziemi : sisme  
+trójkąt : samokon  
 tu (tutaj) : na ce  
 tuba, rura : tube  
 tul : tulium  
@@ -2070,6 +2086,8 @@ wiek : umur
 wielbłąd, wielbłądzica : gamel  
 wiele : pol  
 wielo- (poli-, multi-) : poli  
+wielokąt (wielościan) : polokon  
+wielościan : polofas  
 wieprzowina : gurube manse  
 wiercić, borować : bora  
 wierzyć : xina  
@@ -2296,6 +2314,7 @@ zły, zrujnowany, zepsuty : harabi
 łóżko : bede  
 łączyć, wiązać, złączyć : liga  
 Święta Helena : santi helena  
+ścieżka (droga, szlak, kurs) : rute  
 śmiać się : haha  
 śmierć : morte  
 śmieć, odpadek : laje  

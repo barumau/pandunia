@@ -134,12 +134,13 @@ banyu : kąpać się
 barbados : Barbados  
 barbar : barbarzyńca  
 barde : broda  
-barer : bariera  
 barium : bar  
 barka : gratulować; błogosławić  
 barti : Indyjski  
 bartia : Indie  
 barude : proch strzelniczy  
+barya : blokować, hamować  
+baryer : bariera  
 bas : wystarczający  
 basen : basen  
 baske : kosz  
@@ -273,8 +274,10 @@ cante : piosenka, pieśń
 capa : naciskać, zostawiać ślad  
 cape : odcisk, ślad; stempel, pieczęć  
 car : cztery (4)  
+carokon : kwadrat (czworokąt, czworobok, tetragon)  
 cate : dach  
 cay : herbata  
+cayeria : herbaciarnia  
 cayokupe : kubek do herbaty  
 cayowan : misa na herbatę  
 ce : ten konkretny  
@@ -335,6 +338,7 @@ darse : lekcja
 darser : uczeń, student  
 darsia : szkoła (instytucja)  
 darsogur : nauczyciel  
+darsoxef : dyrektor szkoły  
 darte : grunt (ziemia, próchnica)  
 darwiniste : darwinista  
 darwinistia : darwinizm  
@@ -378,6 +382,7 @@ ding : kolec
 dinogur : ksiądz, kleryk, kaznodzieja  
 diske : dysk  
 disprosium : dysproz  
+dixe : kierunek  
 doici : niemiecki  
 doicia : Niemcy  
 dokum : dokument  
@@ -683,6 +688,8 @@ hatar : zagrożenie, niebezpieczeństwo
 hatari : niebezpieczny  
 hati : nawet  
 hawe : powietrze  
+hawobar : ciśnienie atmosferyczne  
+hawobarometer : barometr  
 hay : wciąż, nadal  
 hazin : skarb; skrabiec  
 he : hę?, co?, pardon?  
@@ -866,6 +873,7 @@ kafas : klatka
 kafe : kawa  
 kaferia : kawiarnia  
 kafi : brązowy, koloru kawy  
+kafir : niewierny (poganin, niewierzący)  
 kafokupe : filiżanka do kawy  
 kaka : defekować, srać  
 kakaw : kakao  
@@ -1117,6 +1125,8 @@ lilya : lilia
 lim : pięć (5)  
 limfe : limfa  
 limite : limit, granica  
+limofas : pięciościan (pryzmat)  
+limokon : pięciokąt (pentagon)  
 limun : cytryna  
 linye : linia, pas, pręga, smuga  
 lis : gładki  
@@ -1298,8 +1308,8 @@ mien : makaron
 migan : mandarynka  
 mikro- : mikro-  
 mikronesia : Mikronezja  
-mili : mili-  
 milke : mleko  
+milo- : mili-  
 mimen : my  
 min ka bas : zbyt mało  
 min : mniej  
@@ -1342,8 +1352,10 @@ monako : Monako
 mongol : Mongolski  
 mongolia : Mongolia  
 monistia : monizm  
+monodewistia : monoteizm  
 monokratia : monarchia  
 monologe : monolog  
+monorangi : jednokolorowy (monochromatyczny)  
 monster : potwór, monstrum  
 moral : moralność, etyka  
 morfe : morf  
@@ -1648,6 +1660,9 @@ poliser : oficer policji, policjant
 politike : polityka  
 politiker : polityk  
 politikolojia : politologia  
+polodewistia : politeizm  
+polofas : wielościan  
+polokon : wielokąt (wielościan)  
 polon : polon  
 polski : polski  
 polskia : Polska  
@@ -1797,6 +1812,7 @@ rusia : Rosja
 ruste : wieś, wioska  
 rusti : wiejski, rustykalny  
 rustia : wieś, tereny wiejskie  
+rute : ścieżka (droga, szlak, kurs)  
 rutenium : rut  
 ruterfordium : rutherford  
 rutin : rutyna, nawyk, zwyczaj  
@@ -1838,6 +1854,7 @@ saman : niebo
 samani : niebieski, niebiański, podniebny  
 samarium : samar  
 samoa : Samoa  
+samokon : trójkąt  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke : pudło, skrzynia  
 sang : krew  
@@ -1913,6 +1930,8 @@ sirke : ocet
 sis : sześć (6)  
 sisme : trzęsienie Ziemi  
 sismolojia : sejsmologia  
+sisofas : sześcian (kostka)  
+sisokon : sześciokąt (sześciobok)  
 sistem : system  
 sistemi : systemowy  
 site : miast, miasteczko  

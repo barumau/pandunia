@@ -19,7 +19,7 @@ Pandunian tekijät alkoivat työskennellä yhdessä vuonna 2005. Alusta lähtien
 
 #### Mitä pandunian lippu esittää?
 
-![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
+![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
 
 Pandunian lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
 
@@ -29,7 +29,7 @@ Vesinokkaeläin on munia muniva, ankannokkainen, majavanhäntäinen ja saukonrä
 
 Pandunia ei istu mihinkään perinteiseen kielikategoriaan ja myös siinä suhteessa se muistuttaa vesinokkaeläintä, joka on ainutlaatuinen.
 
-![](http://www.pandunia.info/grafe/platypusbandera.png "Vesinokkaeläin")
+![](http://www.pandunia.info/grafe/batokrote_tena_bandir.png "Vesinokkaeläin")
 
 
 ## Menneisyys, nykyisyys ja tulevaisuus
@@ -51,11 +51,6 @@ Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielis
     - Esperanto, Ido, Novial vaikuttivat tietyssä välivaiheessa pandunian rakenteeseen
     - mutta loppujen lopuksi päämääräksi tuli taipumaton kielioppi, jollaisia on mm. Latino Sine Flexionessa, Lingua Sistemfraterissa ja Interglossassa.
 - Luonnolliset yhteyskielet eli niin sanotut pidžinit ja kreolit olivat myös tarkastelun koheena. On mielenkiintoista huomata, että kun eri kieliä puhuvat ihmiset joutuvat tekemisiin toistensa kanssa, he luovat spontaanisti yhteisen kielen, jonka sanat ovat taipumattomia — riippumatta siitä minkälaista kieltä he puhuvat syntyjään.
-
-Pandunian "sukupuu" on grafetu alla.
-
-![](http://www.pandunia.info/sura/familytree.gif "Pandunian sukupuu")
-
 
 
 ## Apukieli

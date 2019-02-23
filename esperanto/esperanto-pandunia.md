@@ -115,7 +115,8 @@ Barata : barti
 Baratio : bartia  
 barbaro : barbar  
 barbo : barde  
-barilo : barer  
+bari : barya  
+barilo : baryer  
 bario : barium  
 baseno : basen  
 batato : kamote  
@@ -782,8 +783,9 @@ miksi : mixa
 miksilo : mixer  
 miksulo : hibride  
 mil : kil  
-mili- : mili  
+mili- : milo-  
 miliardo (giga-) : giga  
+milimetro : milometre  
 miliono : mega  
 milita : jengi  
 milito (batalo) : jeng  
@@ -1330,6 +1332,7 @@ zuluo : zulu'
 ĉokolado : cokobaton  
 ĉu? : he  
 ĝelo : jel  
+ĝentila : keci  
 ĝirafo : jiraf  
 ĝusta (prava) : sahi  
 ĵetkubo : dado'  

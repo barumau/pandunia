@@ -41,25 +41,27 @@ acente ← ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.
 ada ← ind:ada. egy:(ʿand).   
 adalia ← ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:urd:('adālat).  
 afrike ← ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.  
-aha ← rus: aha. rus: ага /aha/. kor: 아하 "aha". eng: uh-huh.  
+agres ← eng:agression. pol:agresja  
+aha ← rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.  
 akse ← eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.  
-alge ← deu:Alge. fra:algue. tur:alg. per:(âlg). eng:spa:por:alga.  
+alge ← deu:Alge. fra:algue. tur:alg. per:(âlg). eng:spa:por:pol:alga.  
 ali ← ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.  
 alkol ← fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:"kuhul" rus:"alkohol".  
 almar ← hin:अलमारी "almārī". ind:lemari. spa:armario. por:armário. eng:almirah.  
-altar ← eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare.  
+altar ← eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare. pol:ołtarz.  
 am ← spa:por:amar. fra:aimer.  
+amen ← heb:hbo:אמן. ell:ἀμήν (ámén). eng:pol:amen.  
 ampul ← fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).   
 ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pan:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).  
-anti ← eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-).  
+anti ← eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.  
 aple ← eng:apple. deu:Apfel. ind:apel.  
 aplika ← spa:por:aplicar. fra:appliquer. eng:apply.  
 aplike ← eng:application. spa:aplicación. por:aplicação. pol:aplikacja.  
 arane ← fra:araignee. por:aranha. spa:araña. eng:arachnid.  
 aranje ← eng:orange. spa:naranja. por:laranja. hin:"narangi". jpn:"orenji".  
 arbe ← fra:arbre. spa:árbol. por:árvore.  
-arbuze ← rus:арбуз (arbuz). tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
-are ← eng:area. por:spa:área.  
+arbuze ← rus:арбуз (arbuz). pol:arbuz. tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
+are ← eng:area. por:spa:área. ol:areał.  
 arte ← spa:por:arte. eng:fra:art. jpn:アート (āto).  
 asan ← hin:आसन (āsan). eng:asana. rus:асана (asana).  
 asle ← ara:(ʾaṣl). tur:asl. ind:asal. hin:असल (asl).  
@@ -85,9 +87,10 @@ bandir ← eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tg
 bar ← ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.  
 barbar ← deu:tur:barbar. fra:barbare. per:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).  
 barde ← fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.  
-barer ← spa:barrera. eng:barrier. rus:барьер "baryer".  
 barka ← hau:barka. ind:berkah. tur:tebrik. per:(tabrik). ara:urd:(mubārak).  
 barti ← hin:भारतीय "bhārtīy". urd:"bhārtīy". mar:"bhārtīya". tel:"bhāratīya".  
+barya ← eng:bar. spa:por:barrar.  
+baryer ← spa:barrera. eng:barrier. rus:барьер (baryer).  
 bas ← fas: /bas/. hin: /bas/. swa: basi. spa: basta.  
 bate ← mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). per:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)  
 baton ← eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".  
@@ -109,8 +112,8 @@ bere ← deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বের
 berete ← fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).  
 bey ← zho:被 "bèi".  
 bila ← tur:ebilmek. + ind:bisa,boleh. + eng:able. spa:hábil. fra:habile. ron:abil.  
-bina ← ara: "banā". hin: बनाना "banānā". urd: "banānā". fas: "banā". tur: bina. jpn:ビル (biru).  
-binde ← hin:बिंदु "bindu". tha:พินทุ "pintu". eng:bindi (holy dot). rus:бинди (bindi).   
+bina ← ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).  
+binde ← hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi).   
 bing ← zho:病 (bìng). vie:bệnh. kor:병 (byeong).  
 bir ← eng: beer. tur: bira.  
 bireria ← eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).  
@@ -397,8 +400,8 @@ kisme ← ara:"qismat". hin:क़िस्मत "qismat".
 kiwe ← eng:kiwi.  
 koka' ← spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).  
 koke ← fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.  
-kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna).  
-kompania ← eng:company. hin:कंपनी "kampanī". rus:компания "kompaniya". tgl:kompanya.  
+kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna). pol:kolumna.  
+kompania ← eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.  
 komputa ← eng:compute.  
 kon ← hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.  
 konfuze ← zho:孔夫子 (Kǒng Fūzǐ).  
@@ -444,7 +447,7 @@ liste ← eng:list. spa:por:lista. rus:"lista". fra:liste.
 lobak ← zho:萝卜 "luóbo". yue:蘿蔔 "lobaak". ind:lobak.  
 loge ← ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:lügat. ind:logat.  
 logike ← eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).  
-lojia ← eng:-ology. spa:-ología. fra:-ologie. rus:"-logiya". tur:"-loji".  
+lojia ← eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.  
 loke ← eng:location. spa:lugar.  
 lon ← zho:论 "lùn". jpn:論 "ron". vie:luận. kor:논 "non".  
 lona ← zho:讨论 "tǎolùn". kor:토론 "toron". jpn:討論 "tōron". vie:thảo luận.  
@@ -490,10 +493,9 @@ mete ← eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (ma
 mey ← zho:每 (měi). wuu:每 (me). vie:mọi. kor:매 (mae).  
 meze ← tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.  
 mien ← zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi).  
-milke ← eng:milk. deu:Milch. jpn:ミルク  "miruku". kor:밀크 "milkeu". lin:míliki. rus:молоко "moloko".  
+milke ← eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).  
 minare ← swa: mnara. tur: minare. + eng:minaret.  
 ming ← zho: 明 (míng). vie:minh. kor:명 (myeong).  
-minister ← swa:hau:waziri. ara:"wazir". hin:वज़ीर "vazir". tur:vezir. eng:vizier. spa:visir.  
 minor ← eng: minor.  
 minoria ← spa: minoría.  
 mirer ← eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.  

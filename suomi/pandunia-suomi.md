@@ -135,7 +135,6 @@ bar : paino
 barbados : Barbados  
 barbar : barbaari (raakalainen)  
 barde : parta  
-barer : este  
 bari : painava  
 barium : barium  
 barka : onnitella (siunata)  
@@ -143,12 +142,15 @@ barometer : vaaka (puntari)
 barti : intialainen  
 bartia : Intia  
 barude : ruuti  
+barya : estää kulku  
+baryer : este  
 bas : tarpeeksi (riittävästi)  
 basen : allas  
 baske : kori  
 baskobol : koripallo  
 bat : kahdeksan (8)  
 bate : sorsa (ankka)  
+batokrote : vesinokkaeläin  
 baton nur : soihtu  
 baton : tanko (sauva, patukka)  
 batonopang : patonki (ranskanleipä)  
@@ -625,7 +627,7 @@ gol : maali (päämäärä)
 gom : kumi  
 goton : puuvilla  
 graf : kuva (kuvaus)  
-grafa : grafea (kuvailla)  
+grafa : kuvata (kuvailla)  
 grafem : grafeemi  
 grafer : graafikko  
 grafi : graafinen  
@@ -1308,8 +1310,9 @@ mien : nuudeli
 migan : mandariini  
 mikro- : mikro-  
 mikronesia : Mikronesia  
-mili : milli-  
 milke : maito  
+milo- : milli-  
+milometre : millimetri  
 mimen : me  
 min ka bas : liian vähän  
 min : vähemmän  
