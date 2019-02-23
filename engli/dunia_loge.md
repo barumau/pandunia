@@ -13,7 +13,7 @@ Hartmut Traunmuller divided the world into four major cultural spheres in his ar
 
 They are roughly outlined in the picture below.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Map of cultural spheres")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
 Samuel P. Huntington presented a division of the humankind into civilizations in his famous book _The Clash of Civilizations and the Remaking of World Order_ (1996). His division matches Traunmuller's division by and large. According to Huntington, civilization is the highest rank of cultural identity of people. It is defined by language, history, religion, customs and institutions.
 

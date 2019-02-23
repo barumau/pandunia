@@ -28,7 +28,7 @@ Le drapeau Pandunia représente l'égalité mondiale. On peut y distinguer une p
 L’ornithorynque est un animal de l’est de l’Australie.
 Ses particularités anatomiques (bec de canard, queue de castor, pieds de loutre) font de ce mammifère une créature inhabituelle, tout comme l’est le Pandunia avec un mélange de mots et de grammaires des quatre coins du globe.
 
-![](http://www.pandunia.info/kuvat/platypusbandera.png "Our platypus")
+![](http://www.pandunia.info/grafe/platypusbandera.png "Our platypus")
 
 
 ## Passé, présent et futur

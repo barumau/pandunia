@@ -484,6 +484,6 @@ _am, is, are, was, were..._
 
 ## Pandunia - a global language
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flag")
+![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
 
 

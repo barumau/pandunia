@@ -61,7 +61,7 @@ The best way to update translations and to translate parts of documents is to us
 
 Pandunia words and sentences should be the same in both language versions, so they function as anchor points that keep the versions in the same line.
 
-![](http://www.pandunia.info/kuvat/kompar.png "Comparing two language versions")
+![](http://www.pandunia.info/grafe/kompar.png "Comparing two language versions")
 
 ### Tips
 

@@ -15,7 +15,7 @@ Hartmut Traunmuller jakaa maailman neljään suureen kulttuuripiiriin artikkelis
 
 Niiden rajat on piirretty summittaisesti alla olevaan maailman karttaan.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Kulttuuripiirit kartalla")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Kulttuuripiirit kartalla")
 
 
 Kuinka pandunian sanat saadaan?

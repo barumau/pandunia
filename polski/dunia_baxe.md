@@ -325,6 +325,6 @@ W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub mnogiej 
 
 ## Pandunia - język globalny
 
-![](http://www.pandunia.info/kuvat/bandera.png "Flaga Panduni")
+![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
 
 

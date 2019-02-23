@@ -625,7 +625,7 @@ gol : maali (päämäärä)
 gom : kumi  
 goton : puuvilla  
 graf : kuva (kuvaus)  
-grafa : kuvata (kuvailla)  
+grafa : grafea (kuvailla)  
 grafem : grafeemi  
 grafer : graafikko  
 grafi : graafinen  

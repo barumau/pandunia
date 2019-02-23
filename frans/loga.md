@@ -14,7 +14,7 @@ Les quatre sphères culturelles majeurs sont :
 
 Elles sont grossièrement entourées dans l'image ci-dessous.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Map of cultural spheres")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
 Samuel P. Huntington a présenté une division de l'humanité en civilisations dans son célèbre livre _The Clash of Civilizations and the Remaking of World Order_ (1996) - sa division correspond à celle de Traunmuller. Selon Huntington, la civilisation est le rang le plus élevé de l'identité culturelle des peuples ; elle est définie par la langue, l'histoire, la religion, les coutumes et les institutions.
 

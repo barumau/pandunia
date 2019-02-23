@@ -29,7 +29,7 @@ Vesinokkaeläin on munia muniva, ankannokkainen, majavanhäntäinen ja saukonrä
 
 Pandunia ei istu mihinkään perinteiseen kielikategoriaan ja myös siinä suhteessa se muistuttaa vesinokkaeläintä, joka on ainutlaatuinen.
 
-![](http://www.pandunia.info/kuvat/platypusbandera.png "Vesinokkaeläin")
+![](http://www.pandunia.info/grafe/platypusbandera.png "Vesinokkaeläin")
 
 
 ## Menneisyys, nykyisyys ja tulevaisuus
@@ -52,7 +52,7 @@ Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielis
     - mutta loppujen lopuksi päämääräksi tuli taipumaton kielioppi, jollaisia on mm. Latino Sine Flexionessa, Lingua Sistemfraterissa ja Interglossassa.
 - Luonnolliset yhteyskielet eli niin sanotut pidžinit ja kreolit olivat myös tarkastelun koheena. On mielenkiintoista huomata, että kun eri kieliä puhuvat ihmiset joutuvat tekemisiin toistensa kanssa, he luovat spontaanisti yhteisen kielen, jonka sanat ovat taipumattomia — riippumatta siitä minkälaista kieltä he puhuvat syntyjään.
 
-Pandunian "sukupuu" on kuvattu alla.
+Pandunian "sukupuu" on grafetu alla.
 
 ![](http://www.pandunia.info/sura/familytree.gif "Pandunian sukupuu")
 

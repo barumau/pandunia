@@ -859,7 +859,7 @@ kuva (kuvaus) : graf
 kuvaileva (määrittelevä) : sifi  
 kuvakirja : grafobuke  
 kuvaruutu : ekran  
-kuvata (kuvailla) : grafa  
+grafea (kuvailla) : grafa  
 kuvitella : fantaza  
 Kuwait : kuwaitia  
 kyllä : si  

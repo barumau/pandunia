@@ -15,7 +15,7 @@ Hartmut Traunmuller dividis la mondon en kvar ĉefajn kulturajn sferojn en sia a
 
 La suba monda mapo montras ilin preskaŭe.
 
-![](http://www.pandunia.info/kuvat/linguisticspheres.gif "Mapo de kulturkomunumoj")
+![](http://www.pandunia.info/grafe/linguisticspheres.gif "Mapo de kulturkomunumoj")
 
 
 Metodo por prunti vortojn al pandunia

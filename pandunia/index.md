@@ -34,5 +34,5 @@ eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.htm
   * [max i max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 
 
-![](http://www.pandunia.info/kuvat/pandunia_ge_waterman.png)
+![](http://www.pandunia.info/grafe/pandunia_ge_waterman.png)
 

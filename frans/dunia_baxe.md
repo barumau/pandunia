@@ -325,6 +325,6 @@ Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et le
 
 ## Le Pandunia - Une langue mondiale
 
-![](http://www.pandunia.info/kuvat/bandera.png "Pandunia flag")
+![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
 
 

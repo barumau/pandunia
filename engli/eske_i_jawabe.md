@@ -29,7 +29,7 @@ Platypus is an egg-laying, duck-billed, beaver-tailed, otter-footed mammal that 
 
 Pandunia doesn't fit into any of the traditional types of languages. Also in that regard it is similar to the platypus, which is of its own type.
 
-![](http://www.pandunia.info/kuvat/platypusbandera.png "Our platypus")
+![](http://www.pandunia.info/grafe/platypusbandera.png "Our platypus")
 
 
 ## Past, present and future

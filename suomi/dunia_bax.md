@@ -8,7 +8,7 @@ Monet ihmiset ovat tottuneet näkemään alla olevan näköisen maailmankartan. 
 
 ![](http://www.lovelljohns.com/wp-content/uploads/2016/07/mercator.jpg "Mercatorin projektio")
 
-Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta kuvata täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Petersin projektio](https://fi.wikipedia.org/wiki/Petersin_projektio). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Petersin projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
+Mistä se johtuu? Maapallon on kolmiulotteinen kappale, jota on mahdotonta grafea täydellisesti kaksiulotteisena piirustuksena. Yksi tunnetuimmista pinta-alan oikein esittävistä kartoista on [Petersin projektio](https://fi.wikipedia.org/wiki/Petersin_projektio). Se näyttää pinta-alat oikein mutta muodot väärin. Vertaa Grönlannin ja Afrikan kokoa näillä kartoilla. Mercatorin projektiossa Grönlanti näyttää Afrikan kokoiselta, mutta Petersin projektio paljastaa, että todellisuudessa Afrikka on 14 kertaa Grönlantia suurempi.
 
 ![](http://www.lovelljohns.com/wp-content/uploads/2016/07/cylindrical.jpg "Petersin projektio")
 
