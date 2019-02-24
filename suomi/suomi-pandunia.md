@@ -1163,6 +1163,7 @@ mitata : meta
 miten? : ki yang  
 mitta (koko, määrä) : mete  
 Moldova : moldovia  
+molemminpuolinen (keskinäinen) : unali  
 molybdeeni : molidenum  
 Monaco : monako  
 monarkki (kuningas, kuningatar) : rajer  
@@ -1980,6 +1981,7 @@ Togo : togolia
 tohtori : dotor  
 tohtorin tutkinto : dotoria  
 toiminta (funktio) : funca  
+toisiaan (keskenään) : unale  
 toistaa : repa  
 toisto : repe  
 toivoa : inxala  

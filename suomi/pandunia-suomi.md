@@ -2114,6 +2114,8 @@ uma : hevonen
 umur : ikä  
 un : yksi  
 una : yhdistää  
+unale : toisiaan (keskenään)  
+unali : molemminpuolinen (keskinäinen)  
 uni stan du amerike : Amerikan Yhdysvallat  
 uni : yhtenäinen  
 unia : liitto (unioni)  

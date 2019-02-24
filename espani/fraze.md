@@ -36,31 +36,31 @@ teoría del idioma. Puedes hablar pandunia sin más.
 **salam**
 Hola.
 
-**salam subá**
+**salam sube!**
 Buenos días. (Se usa por la mañana.)
 
-**salam den**
+**salam den!**
 Buenos días.
 
-**salam xam**
+**salam xam!**
 Buenas tardes.
 
-**salam noce**
+**salam noce!**
 Buenas noches.
 
-**salam nyam**
+**salam nyam!**
 Buen apetito. / Que aproveche.
 
-**salam lay**
+**salam lay!**
 Bienvenido/s.
 
-**salam cute**
+**salam cute!**
 Adiós.
 
-**salam safar**
+**salam safar!**
 Buen viaje.
 
-**salam son**
+**salam son!**
 Que duermas bien. / Que descanses.
 
 Como puedes ver arriba, **salam** es una palabra general para desear el bien.
@@ -302,8 +302,8 @@ Nota: Cuando un adjetivo, como **ros**, se pone antes de un sustantivo, trabaja
 como modificador. Cuando se pone después de un sustantivo, trabaja como un
 verbo adjetival.
 
-**ye ros.**
-Es rojo. (Eso)
+**ce ros.**
+Es rojo.
 
 <!-- XXX WARNING 2018-12-19:
 
@@ -379,18 +379,18 @@ Yo quiero tener un teléfono nuevo.
 **mi ada dul bace.**
 Tengo dos niños.
 
-### jan <small>saber, conocer</small>
+### jana <small>saber, conocer</small>
 
-**mi jan ye.**
+**mi jana ye.**
 Yo lo/a conozco a él/ella.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 ¿Conoces esa persona?
 
-**eska tumen jan bici?**
+**eska tumen jana unale?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimen jan bici ze long.**
+**mimen jana unale ze long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 ### helpe <small>ayudar, ayuda</small>
@@ -408,7 +408,7 @@ Necesito ayuda.
 
 ### nyama <small>consumir, comer, beber</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 ¿Te gustaría comer algo?
 
 **ye nyama aple.**
@@ -431,21 +431,21 @@ Ayuda: El significado de **nyama** cubre tanto comer y beber. Puede parecer
 raro al inicio, pero pronto verás que es bastante útil. Normalmente el
 objeto del verbo dice si se trata de comer, beber o ambos.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 Estoy tomando café y pan.
 
-### wol <small>querer, gustar (deseo)</small>
+### wola <small>querer, gustar (deseo)</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 ¿Te gustaría comer?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 Quiero beber café.
 
 **eska tu wol nyama cay?**
@@ -453,7 +453,7 @@ Quiero beber café.
 **no. mi no wol cay. mi wol kafe.**
 No, no quiero té. Quiero café.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 ¿Qué manzana quieres?  
 **li ros.**
 Esa roja.
@@ -592,7 +592,7 @@ Lo siento. No puedo hablar tu idioma.
 **mi loga to tu.**
 Te hablé.
 
-**mimen loga to bici.**
+**mimen loga to unale.**
 Hablamos entre nosotros.
 
 **se loga "gato" na ke yang na pandunia?**
@@ -626,7 +626,7 @@ Encantado de verte.
 **wida tu re!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**wida tu ming den!**
+**wida tu badi den!**
 ¡Te veo mañana!
 
 **mi wida ye yer den.**
@@ -671,7 +671,7 @@ Francés, español, portugués, ruso
 **putong han, nipon, indonesi**
 Chino, japonés, indonesio
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, farsi, urdi, hindi**
 Árabe. turco, farsi, urdu, hindi
 
 **swahili, hausi, yorubi, amari**
@@ -795,17 +795,28 @@ Le doy un libro a ellos/as.
 **ye no wol dona ye to mi.**
 Él/ella no quiere darme eso.
 
-### toma <small>tomar (de agarrar, sujetar)</small>
+### kapa <small>tomar (de agarrar, sujetar)</small>
 
-**mi toma un kafe.**
+**mi kapa un kafe.**
 Voy a tomar un café.
 
-**bita toma un kafe to mi.**
+**bita kapa un kafe to mi.**
 Por favor toma un café para mí.
 
-**tu pas toma pese ze mi.**
+**tu pas kapa pese ze mi.**
 Tú ya tomaste dinero de mí.
 
+**mi kapa un bir.**
+Voy a tomar una cerveza.
+
+
+### kire <small>renta, alquiler</small>
+
+**mi wola kirokapa un kar.**
+Quiero rentar un auto.
+
+**ye kirodona kamar to safarer.**
+Él/ella vende habitaciones a los viajeros.
 <!--
 
 ### mai <small>comerciar</small>
@@ -823,16 +834,6 @@ Voy a tomar una cerveza.
 **mi mai kap un bir.**
 Voy a comprar una cerveza.
 
-### kira <small>rentar</small>
-
-**mi wol kira kap un gar.**
-Quiero rentar un auto.
-
-**ye kira dar kamar ko biznes ren.**
-Él/ella vende habitaciones a la gente de negocios.
-
-Ayuda: **Kira**
-es equivalente con _dar_ y _tomar_ como **mai**.
 
 ### yang <small>para referirse al tipo</small>
 
@@ -842,157 +843,11 @@ es equivalente con _dar_ y _tomar_ como **mai**.
 **eska ye nowi?**
 ¿Es nuevo?
 
-**ke si mas bon?**
+**ke si max bon?**
 ¿Cuál es mejor?
 
-**sa si maxim bon (ze tot).**
+**ce si maxim bon (ze tote).**
 Este es el mejor (de todos).
 
-****
-How much does it cost?  
-****
-Nothing.  
-****
-It is cheap / expensive.  
-
-****
-We are being called.
-
-****
-I'm looking for the toilet.
-
-****
-Go there / forward / back / left / right.
-****
-Come here / back / to us.
-
-**mi darsa pandunia.**
-I study pandunia.
-
-****
-Show me in the dictionary!
-****
-I don't remember.
-
-****
-(I wish you) all the best!
-
-****
-I will never forget you.
-
-****
-Don't worry! (Hakuna matata!)
-
-**tot si okey.**
-Everything is alright.
-
-****
-Cheers!
-
-****
-Of course!
-
-****
-Do you like ...?
-
-****
-I feel alright.
-
-****
-Please, sit here!
-
-****
-I rather stand.
-
-****
-With pleasure!
-
-**parte kaixu na ke sat?**
-When does the party begin?
-
-****
-You are right.
-
-****
-Leave me alone!
-
-**ke habar?**
-What's new?
 -->
-
-## Lista de palabras
-
-<!-- XXX FIXME 2018-12-19: ma/mame y pa/pape: ambas formas están permitidas
-pero no está explicado. Marcos Cruz -->
-
-<!-- XXX TODO 2018-12-19: Proponer quitar esta sección, para centralizar los
-diccionarios y la etimología.  Marcos Cruz -->
-
-Todas las palabras de pandunia son prestadas de otros idiomas hablados
-en todo el mundo. Probablemente puedas reconocer muchas palabras de pandunia
-del español y otros idiomas que sepas. Normalmente una palabra de pandunia es
-compartida por muchos idiomas. Por ejemplo **ma** y **pa** son familiares en
-cientos de idiomas. Sin embargo, solo una palabra fuente es incluida en esta
-lista de palabras como ejemplo.
-
-**a** pero <small>(Ruso _а_)</small>  
-**ada** tener; haber <small>(Indonesio _ada_)</small>  
-**aple** manzana <small>(Inglés _aple_)</small>  
-**bay** blanco <small>(Mandarín _bái_ 白)</small>  
-**batú** piedra <small>(Indonesio _batu_)</small>  
-**bazar** tienda, bazar <small>(Persa _bāzār_ بازار)</small>  
-**bax** idioma; comunicación <small>(Hindi _bhāśā_ भाषा)</small>  
-**baxa** hablar, comunicar  
-**blu** azul <small>(Inglés _blue_)</small>  
-**bon** bien, bueno <small>(Francés _bon_)</small>  
-**cay** té <small>(Mandarín _chá_ 茶)</small>  
-**bita** pregunta, solicitud <small>(Mandarín _qǐng_ 请)</small>  
-**den** día <small>(Ruso _den'_ день)</small>  
-**dom** hogar, residencia, casa <small>(Ruso _dom_ дом)</small>  
-**doma** vivir, residir 
-**enda** ir <small>(Suajili _kuenda_)</small>  
-**engli** English (inglés)  
-**fem** mujer <small>(Francés _femme_)</small>  
-**gata** decir <small>(Japonés _kataru_ 語る)</small>  
-**gon** antes, más temprano, anterior(mente) <small>(Tailandés _gɔ̀ɔn_ ก่อน)</small>  
-**habar** saludo <small>(Malayo _khabar_)</small>  
-**helpa** ayudar, asistir <small>(Inglés _help_)</small>  
-**i** y <small>(Polaco _i_)</small>  
-**jan** saber <small>(Hindi _jānnā_ जानना)</small>  
-**kafe** café <small>(Alemán _Kaffee_)</small>  
-**kal** negro <small>(Hindi काला _kāla_)</small>  
-**kata** cortar <small>(Hindi ‎_kāṭnā_ काटना)</small>  
-**ke** ¿qué? ¿quién? <small>(Español _qué_)</small>  
-**ken** poder <small>(Inglés _can_)</small>  
-**keci** el ser cortés <small>(Mandarín _kèqi_ 客气)</small>  
-**eska** preguntar <small>(Haitian _èske_)</small>  
-**laya** venir <small>(Vietnamita _lai_)</small>  
-**mame** madre, mamá <small>(Mandarín _māma_ 妈妈)</small>  
-**man** hombre <small>(Inglés _man_)</small>  
-**mena** significar <small>(Suajili _maana_)</small>  
-**mi** Yo, me, le <small>(Suajili _mimi_)</small>  
-**mimen** nosotros/as  
-**na** en, estar (lugar), con <small>(Lingala _na_)</small>  
-**nida** necesitar <small>(Inglés _need_)</small>  
-**no** no <small>(Español _no_)</small>  
-**noce** noche <small>(Español _noche_)</small>  
-**pape** padre, papá <small>(Ruso _papa_ папа)</small>  
-**ren** persona <small>(Mandarín _rén_ 人)</small>  
-**ros** rojo <small>(Italiano _rosso_)</small>  
-**safar** viaje <small>(Árabe _safar_ سفر)</small>  
-**salam** saludo; hola <small>(Árabe _salām_ سلام)</small>  
-**si** sí <small>(Español _sí_)</small>  
-**subá** mañana <small>(Wólof _subba_)</small>  
-**to** a, hasta <small>(Inglés _to_)</small>  
-**tu** tú <small>(Español _tu_)</small>  
-**tumen** ustedes  
-**u** o <small>(Francés _ou_)</small>  
-**wang** amarillo <small>(Cantonés _wong_)</small>  
-**wida** ver, mirar <small>(Ruso _videt'_ видеть)</small>  
-**wol** querer <small>(Italiano _volere_)</small>  
-**xam** tarde <small>(Hindi _śām_ शाम )</small>  
-**ye** él, ella, eso <small>(Lingala _yé_)</small>  
-**yemen** ellos/as  
-**zay** actualmente <small>(Mandarín _zài_ 在)</small>  
-**ze** de (lugar), desde <small>(Czech _z, ze_)</small>  
 

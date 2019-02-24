@@ -2,29 +2,29 @@
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un sube urse mame wol cuta to bazar.
+un sube urse mame wola cuta to bazar.
 ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
 lil urse loga: "si, si, mame! mi jana ye. mi day urse. bita cuta way!"
 urse mame loga "salam" i ye cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse na mon. ye fikra: "zay mi bila fata eni xey du mi wol!"
+lil urse na mon. ye fikra: "zay mi bila fata eni xey du mi wola!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-lil urse cuta to wax kamar. ye fikra "mi no wol waxa dante zay."
+lil urse cuta to wax kamar. ye fikra "mi no wola waxa dante zay."
 lil urse si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
 lil urse joga lil gar na mey kamar. ye wida keke sanduke na meza.
-ye fikra "mi wol nyama keke!" a ye yada: "a! mame loga mi no nyama keke."
+ye fikra "mi wola nyama keke!" a ye yada: "a! mame loga mi no nyama keke."
 lil urse no nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-lil urse wida kande botol na almari. ye fikra "mi wol nyama kande!"
+lil urse wida kande botol na almari. ye fikra "mi wola nyama kande!"
 a ye yada: "a! mame loga mi no nyama kande." lil urse no nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)

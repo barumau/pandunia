@@ -611,6 +611,7 @@ dust (powder) : fun
 dysprosium : disprosium  
 e-mail : eletroposte (e-poste)  
 ##e  
+each other (one another, mutually) : unale  
 earn (gain) : ganya  
 earth (ground) : zem  
 Earth (Terra) : zemia  
@@ -1344,6 +1345,7 @@ musket : muskete
 musketeer : musketer  
 muslim (moslem) : islamiste  
 must : bixu  
+mutual : unali  
 my : mi da  
 Myanmar (Burma) : bama  
 myth (divine story) : dewi sage  

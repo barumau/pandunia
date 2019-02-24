@@ -8,7 +8,7 @@ na pase law mam gurube ada sam lil gurube. a ye no ada bas nyam to
 dona to yemen. na den du yemen bas law, ye senda yemen to dunia to
 yemen serca se da kisme.
 
-gurube num un no pol suku werke. ye mey no wol werka i ye bina se
+gurube num un no pol suku werke. ye mey no wola werka i ye bina se
 da dom ze suhi gras. gurube num dul werka lil max, a ye plus lil no
 suku werke, i ye bina se da dom na xake. badu de, yemen gana i dansa
 i mazu na mey den.
@@ -42,8 +42,8 @@ mi nafasa i mi nafasa i mi parca tu da dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
-to ye nafasa i ye nafasa i ye parca dom! wolfe wol max ka bas, i ye
-proba kaca dul gurube na sem sat, a ye wol max ka bas, i ye geta nol
+to ye nafasa i ye nafasa i ye parca dom! wolfe wola max ka bas, i ye
+proba kaca dul gurube na sem sat, a ye wola max ka bas, i ye geta nol
 gurube! ye da day boke kayulu na nol xe minus hawa. dul lil gurube
 enda far na maximi rapide ka yemen da ped bila porta yemen.
 
@@ -51,8 +51,8 @@ wolfe proba kaca yemen na lil daw. ye jino kaca yemen. a yemen laya
 to petre dom i keleli kayula mun na pice du se na ante du wolfe ken
 kaca yemen.
 
-sam lil gurube fobu. yemen jana wolfe wol nyama yemen. de si day day
-fobi. wolfe no gon nyama na tot den i max max wol nyama na dur du
+sam lil gurube fobu. yemen jana wolfe wola nyama yemen. de si day day
+fobi. wolfe no gon nyama na tot den i max max wola nyama na dur du
 proba kaca gurube. na ci mar ye bila nos nota tot sam yemen na jung.
 ye jana sam lil gurube si bon nyam.
 

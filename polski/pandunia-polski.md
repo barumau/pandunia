@@ -125,17 +125,21 @@ bama : Mjanma, Birma
 ban gem : gra planszowa  
 ban : deska  
 banan : banan  
+bande : zespół (drużyna, grupa)  
 bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
 banye : kąpiel  
 banyokamar : łazienka  
 banyu : kąpać się  
+bar : waga (ciężkość)  
 barbados : Barbados  
 barbar : barbarzyńca  
 barde : broda  
+bari : ciężki (masywny)  
 barium : bar  
 barka : gratulować; błogosławić  
+barometer : waga (urządzenie ważące)  
 barti : Indyjski  
 bartia : Indie  
 barude : proch strzelniczy  
@@ -147,6 +151,7 @@ baske : kosz
 baskobol : piłka do koszykówki (koszykówka)  
 bat : osiem (8)  
 bate : kaczka  
+batokrote : dziobak  
 baton nur : pochochodnia (latarka)  
 baton : pręt, kij  
 batonopang : bagietka  
@@ -1310,6 +1315,7 @@ mikro- : mikro-
 mikronesia : Mikronezja  
 milke : mleko  
 milo- : mili-  
+milometre : milimetr  
 mimen : my  
 min ka bas : zbyt mało  
 min : mniej  

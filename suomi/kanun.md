@@ -9,7 +9,7 @@ Perussäännöt
 2. Sanan painollinen tavu on ennen viimeistä konsonanttia.
 3. Substantiivit (asiansanat) ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
 4. Adjektiivin (laatusanan) paikka on asiansanan edessä tai jäljessä. Adjektiivien yleinen pääte on **-i**.
-    - esim. **bon nan** = Hyvää leipää. **nan bon** = Leipää hyvää.
+    - esim. **bon pang** = Hyvää leipää. **pang bon** = Leipää hyvää.
 5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia substantiiveja peräkkäin. Tärkein sana on viimeisenä.
     - esim. **poste sanduke** = postilaatikko
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Tällöin verbin pääte on **-a**.
@@ -281,7 +281,7 @@ Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sa
 
 Esimerkkejä:  
 **mi wida yemen.** - Minä näen heidät.  
-**tu beka nan.** - Sinä leivot leipää.  
+**tu beka pang.** - Sinä leivot leipää.  
 
 #### 6.2.2. OSV-järjestys
 
@@ -295,7 +295,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
 
 Esimerkkejä:  
 **ke tu wida?** - Mitä sinä näet?  
-**mi nyama nan, jo tu beka.** - Minä syön leipää _jonka sinä leivoit._
+**mi nyama pang, jo tu beka.** - Minä syön leipää _jonka sinä leivoit._
 
 #### 6.2.3. VOS-järjestys
 
@@ -308,7 +308,7 @@ Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
     S ← O
 
 Esimerkkejä:  
-**nyama nan mi.** - Syön leipää minä.  
+**nyama pang mi.** - Syön leipää minä.  
 **wida mi tu.** - Näet minut sinä.
 
 
@@ -332,7 +332,7 @@ SOV on usein käytetty vaihtoehto SVO-järjestykselle.
 
 Esimerkkejä:  
 **mi yemen widu.** - _Minä heidät näen._  
-**tu nan beku.** - _Sinä leipää leivot._
+**tu pang beku.** - _Sinä leipää leivot._
 
 #### 6.3.2. OVS-järjestys
 
@@ -345,8 +345,8 @@ OVS on yleinen "passiivissa" lauseissa.
     O   S
 
 Esimerkkejä:  
-**nan beku tu.** - Leipää leivot sinä.  
-**nan beku.** - Leipää leivotaan.  
+**pang beku tu.** - Leipää leivot sinä.  
+**pang beku.** - Leipää leivotaan.  
 **tu widu mi.** - Sinut näen minä.  
 **tu widu.** - Sinut nähdään.
 
@@ -365,7 +365,7 @@ VSO-järjestys on harvinainen mutta mahdollinen.
 Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
 
 **mi widu.** - Minut nähdään.  
-**nan beku.** - Leipää leivotaan.  
+**pang beku.** - Leipää leivotaan.  
 **kupe kaputu.** - Kuppi särkyy. (Kuppi särjetään.)
 
 ### 6.4. Verbin päätteet
@@ -456,7 +456,7 @@ Passiivilauseessa tilanne nähdään teon kohteen tai kokijan kannalta. Lauseess
 
 **tu widu.** - Sinut nähdään.  
 **musike audu.** - Musiikkia kuullaan.  
-**nan beku.** - Leipää leivotaan.
+**pang beku.** - Leipää leivotaan.
 
 Passiivilauseessa teon kohde on tekijää tärkeämpi, joten se on ensimmäisenä. Kohde on passiivinen toimija, joka käy läpi predikaatin ilmaiseman teon.
 
@@ -472,7 +472,7 @@ Kun käytetään sanajärjestä verbi–objekti (VO), huomion kohteena on teko.
 
 **wida tu.** - Nähdään sinut.  
 **auda musike.** - Kuunnellaan musiikkia.  
-**beka nan.** - Leivotaan leipää.
+**beka pang.** - Leivotaan leipää.
 
 
 ### 7.5. Kaikki sanajärjestykset
@@ -742,8 +742,8 @@ Minä puhun ystävien kanssa panduniaa puhelimessa.
 
 Monesti verbit täyttävät saman aseman kuin sijamuodot, prepositiot ja postpositiot suomessa.
 
-**mi kata nan.** - Minä leikkaan leipää.  
-**mi kata nan, uza caku.** - Minä leikkaan leipää, veistä käyttäen. (Minä leikkaan leipää veitsellä.)  
+**mi kata pang.** - Minä leikkaan leipää.  
+**mi kata pang, uza caku.** - Minä leikkaan leipää, veistä käyttäen. (Minä leikkaan leipää veitsellä.)  
 
 **mi denga dura dul hor.** - Minä odotan, kaksi tuntia kestäen. (Minä odotan kahden tunnin ajan.)
 

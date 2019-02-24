@@ -21,7 +21,7 @@ Remarque ! Beaucoup de leçons contiennent également des astuces et des remarqu
 **salam**
 Salut !
 
-**salam subá!**
+**salam sube!**
 Bonjour ! (le matin)
 
 **salam den!**
@@ -69,7 +69,7 @@ Je suis Thomas.
 Vous pouvez vous présenter simplement en utilisant **mi**
 et votre prénom ; le verbe "être" est optionel.
 
-**mi salama ma.**
+**mi salama mame.**
 Je salue la mère.
 
 **mi salama pape.**
@@ -298,9 +298,10 @@ Ceci est une pomme rouge.
 Cette pomme est rouge.
 
 Remarque : Quand un adjectif tel que **ros**
-est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il est après le nom, il fonctionne comme un verbe adjectival.
+est placé avant un nom, il fonctionne comme un modificateur. Lorsqu’il
+est après le nom, il fonctionne comme un verbe adjectival.
 
-**ye ros.**
+**ce ros.**
 C'est rouge.
 
 
@@ -409,18 +410,18 @@ Cette pomme n’est pas rouge.
 
 
 
-### jan <small>connaitre</small>
+### jana <small>connaitre</small>
 
-**mi jan ye.**
+**mi jana ye.**
 Je le/la connais.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 Est-ce que tu connais cette personne ?
 
-**eska tumen jan bici?**
+**eska tumen jana unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mimen jan bici ze long.**
+**mimen jana unale ze long.**
 Nous nous connaissons l’un l’autre depuis longtemps.
 
 
@@ -443,7 +444,7 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
 **ye nyama aple.**
@@ -464,32 +465,32 @@ Je bois du café.
 Astuce : Le sens de **nyama**
 regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 Je prends mon café avec du pain.
 
 
 
-### wol <small>vouloir</small>
+### wola <small>vouloir</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 Est-ce que tu veux manger ?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 Je veux boire un café.
 
-**eska tu wol nyama cay?**
+**eska tu wola nyama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no wol cay. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 Quelle pomme veux-tu ?  
-**li ros.**
+**di ros.**
 La rouge. (mot à mot _cette rouge_)
 
 
@@ -602,7 +603,7 @@ Désolé, je ne t’ai pas compris.
 **mi no bas aha tu.**
 Je ne t’ai pas trop compris.
 
-**mi aha nul.**
+**mi aha nol.**
 Je n’ai rien compris du tout.
 
 
@@ -630,7 +631,7 @@ Je parle un peu pandunia.
 **mi no bila engli.**
 Je ne parle pas anglais.
 
-**pardon. mi no bila tu da baxa.**
+**pardon. mi no bila tu da bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -643,7 +644,7 @@ Qu’est-ce que tu dis ?
 **mi loga to tu.**
 Je te parle. (mot à mot : _je parle à toi_)
 
-**mimen loga to bici.**
+**mimen loga to unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
 **se loga "chat" na ke yang na pandunia?**
@@ -768,7 +769,7 @@ D’où viens-tu ?
 **mi laya ze dubai.**
 Je viens de Dubaï.
 
-**mi laya dom ming den.**
+**mi laya dom badi den.**
 Je vais à la maison demain.
 
 
@@ -861,17 +862,24 @@ Je leur donne un livre.
 Il/elle ne veut pas me le donner.
 
 
-### toma <small>prendre, avoir/recevoir</small>
+### kapa <small>prendre, avoir/recevoir</small>
 
-**mi toma un kafe.**
+**mi kapa un kafe.**
 Je vais prendre un café.
 
-**bita toma un kafe to mi.**
+**bita kapa un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
-**tu pas toma pese ze mi.**
+**tu pas kapa pese ze mi.**
 tu as déjà eu de l’argent de ma part.
 
+### kire <small>louer</small>
+
+**mi wola kirokapa un kar.**
+Je veux louer une voiture.
+
+**ye kirodona kamar to safarer.**
+Il/elle loue des chambres à les voyageures.
 
 <!--
 ### mai <small>faire des affaires</small>
@@ -888,18 +896,6 @@ Je prends une bière.
 
 **mi mai kap un bir.**
 Je vais acheter une bière.
-
-
-### kira <small>louer</small>
-
-**mi wol kira kap un gar.**
-Je veux louer une voiture.
-
-**ye kira dar kamar to biznes jen.**
-Il/elle loue des chambres à des hommes d’affaires.
-
-Astuce : **Kira**
-est associé à _donner_ et _prendre_ tout comme **mai**.
 
 
 
@@ -997,75 +993,4 @@ Laisse-moi tranquille !
 **ke adar?**
 Quoi de neuf ?
 -->
-
-
-Liste de mots
--------------
-
-Tous les mots du pandunia sont des emprunts à des mots d’autres langues parlées autour du monde.
-Vous reconnaissez sans doute beaucoup de mots en pandunia dans les langues que vous ocnnaissez.
-Habituellement, un mot en pandunia est partagé par plusieurs langues.
-Par exemple, **mame** et **pape** sont connus dans des centaines de langues.
-Cependant, la liste ci-dessous ne donne en exemple qu’un mot d’emprunt :
-
-
-**a** mais <small>(Russe _a_ а)</small>  
-**ada** avoir, il y a <small>(Indonesien _ada_)</small>  
-**aple** pomme <small>(Mandarin _píngguǒ_ 苹果)</small>  
-**bay** blanc <small>(Mandarin _bái_ 白)</small>  
-**batú** pierre <small>(Indonésien _batu_)</small>  
-**bazar** marché <small>(Persan _bāzār_ بازار)</small>  
-**bax** langue <small>(Hindi _bhāśā_ भाषा)</small>  
-**baxa** communiquer  
-**blu** bleu <small>(Anglais _blue_)</small>  
-**bon** bon  
-**cay** thé <small>(Mandarin _chá_ 茶)</small>  
-**bita** demander quelque chose <small>(Allemand _bitten_)</small>  
-**den** jour <small>(Russe _den'_ день)</small>  
-**dom** maison <small>(Russe _dom_ дом)</small>  
-**doma** vivre, habiter, résider  
-**dotor** docteur <small>(Portuguese _doutor_)</small>  
-**engli** anglais <small>(Anglais _English_)</small>  
-**eska** poser une question <small>(Haitien _èske_)</small>  
-**fem** femme  
-**gon** avant, plus tôt, précédent <small>(Thaï _gɔ̀ɔn_ ก่อน)</small>  
-**helpa** aider <small>(Français _aider_)</small>  
-**habar** nouvelles <small>(Malais _kabar_)</small>  
-**i** et <small>(Polonais _i_)</small>  
-**jan** savoir <small>(Thaï _saap_ ทราบ)</small>  
-**kafe** café <small>(Allemand _Kaffee_)</small>  
-**kal** noir <small>(Hindi काला _kāla_)</small>  
-**kata** couper <small>(Hindi ‎_kāṭnā_ काटना)</small>  
-**ke** quoi ? qui ? <small>(Espagnol _qué_)</small>  
-**ken** pouvoir <small>(Anglais _can_)</small>  
-**keci** poli <small>(Mandarin _kèqi_ 客气)</small>  
-**lay** venir <small>(Vietnamien _lay_)</small>  
-**mame** maman <small>(Mandarin _māma_ 妈妈)</small>  
-**man** homme <small>(Anglais _man_)</small>  
-**mena** signifier, vouloir dire <small>(Swahili _maana_)</small>  
-**mi** je, me <small>(Swahili _mimi_)</small>  
-**mimen** nous  
-**nida** avoir besoin, nécessaire <small>(Anglais _need_)</small>  
-**no** non, ne… pas <small>(Espagnol _no_)</small>  
-**noce** nuit <small>(Espagnol _noche_)</small>  
-**nun** Maintenant, en ce moment <small>(Allemand _nun_)</small>  
-**nyama** manger, boire <small>(Turc _yemek_)</small>  
-**pape** papa <small>(Russe _papa_ папа)</small>  
-**ren** personne <small>(Mandarin _rén_ 人)</small>  
-**ros** rouge <small>(Italien _rosso_)</small>  
-**li** ceci, cela <small>(créole haïtien _li_)</small>  
-**safar** voyager <small>(Arabe _safar_ سفر)</small>  
-**salam** saluer, salut <small>(Arabe _salām_ سلام)</small>  
-**si** oui; être <small>(Espagnol _sí_)</small>  
-**subá** matin <small>(Wolof _subba_)</small>  
-**tu** tu/toi <small>(Hindi _tū_)</small>  
-**tumen** vous tous  
-**u** ou <small>(Français _ou_)</small>  
-**wida** voire, regarder <small>(Russe _videt'_ видеть)</small>  
-**wol** vouloir <small>(Italien _volere_)</small>  
-**wang** yellow <small>(Cantonese _wong_)</small>  
-**xam** soir <small>(Hindi _śām_ शाम )</small>  
-**ye** il, elle <small>(Lingala _yé_)</small>  
-**yemen** ils, elles  
-
 

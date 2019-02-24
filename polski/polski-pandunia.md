@@ -229,6 +229,7 @@ cieszyć, podobać się : suka
 cień : saye  
 ciągnąć : tira  
 ciąć : kata  
+ciężki (masywny) : bari  
 ciśnienie atmosferyczne : hawobar  
 cmentarz : gabre stan  
 co? : ke  
@@ -355,6 +356,7 @@ dzień dobry : salam den
 dzień tygodnia : war  
 dzień świętego Jana : yohan feste  
 dziki : wildi  
+dziobak : batokrote  
 dziura : kong  
 dziwny : bizar  
 dzięki, dzięki ci : danke  
@@ -979,6 +981,7 @@ Mikronezja : mikronesia
 mikser, blender, robot kuchenny : mixer  
 miksować, mieszać : mixa  
 mili- : milo-  
+milimetr : milometre  
 milion, mega- : mega  
 militarny, wojskowy, wojenny : jengi  
 minerał, ruda : kuang  
@@ -2043,6 +2046,8 @@ Vanuatu : vanuatu
 voodoo : vodu  
 w przyszłości : wil  
 ##w  
+waga (ciężkość) : bar  
+waga (urządzenie ważące) : barometer  
 wagina : yone  
 wakacje, ferie : feria  
 walka, wojna : jeng  
@@ -2251,6 +2256,7 @@ zdrada małżeńska, cudzołóstwo : zine
 zebra : zebre  
 zemleć, mleć, mielić : mola  
 zero, nic, żaden : nol  
+zespół (drużyna, grupa) : bande  
 zewnętrzny : way  
 ziarno, nasienie : dan  
 zielony : berdi  

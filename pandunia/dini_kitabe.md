@@ -7,7 +7,7 @@ bita santa tu da nam,
 bita layu tu da rajia,
 bita fatu tu da wole  
 na zemia i na saman.  
-bita dona mimen da pan den da nan to mimen.  
+bita dona mimen da pan den da pang to mimen.  
 bita pardona mimen da dox,  
 ka mimen pardona mimen da doxer.  
 bita no lida mimen to tentia  

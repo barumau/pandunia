@@ -32,7 +32,7 @@ pandunie.
 **salam**
 Saluton!
 
-**salam suba!**
+**salam sube!**
 Bonan matenon!
 
 **salam den!**
@@ -357,18 +357,18 @@ Mi volas havi novan telefonon.
 **mi ada dul bace.**
 Mi havas du infanojn.
 
-### jan <small>scii, koni</small>
+### jana <small>scii, koni</small>
 
-**mi jan ye.**
+**mi jana ye.**
 Mi konas lin/ŝin.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 Ĉu vi konas tiun personon?
 
-**eska tumen jan bici?**
+**eska tumen jana unale?**
 Ĉu vi konas unu la alian?
 
-**mimen jan bici ze long.**
+**mimen jana unale ze long.**
 Ni konas unu la alian longe.
 
 ### helpe <small>helpo</small>
@@ -406,31 +406,31 @@ Mi trinkas kafon.
 
 Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 Mi manĝas kafon kaj panon.
 
-### wol <small>voli</small>
+### wola <small>voli</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 Ĉu vi volas manĝi?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 Mi volas trinki kafon.
 
-**eska tu wol nyama cay?**
+**eska tu wola nyama cay?**
 Ĉu vi volas trinki teon?  
-**no. mi no wol cay. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 Kiun pomon vi volas manĝi?  
-**li ros.**
+**di ros.**
 Tiun ruĝan.
 
 ### bita <small>peti</small>
@@ -607,18 +607,18 @@ Mi ĝojas vidi vin!
 **mi wida ye yer den.**
 Mi vidin lin/ŝin hieraŭ.
 
-### mana <small>signifi</small>
+### mena <small>signifi</small>
 
-**ci loge mana ke?**
+**ci loge mena ke?**
 Kion tiu vorto signifas?
 
-**"maw" mana ke?**
+**"maw" mena ke?**
 Kion "mau" signifas?
 
-**ye mana yang du hewan.**
+**ye mena yang du hewan.**
 Ĝi signifas tipon de besto.
 
-**mi no aha ye mana ke.**
+**mi no aha ye mena ke.**
 Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
@@ -710,64 +710,3 @@ Mi loĝas en Singapuro.
 **eska tu doma ci hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
-## Vortaro
-
-**a** sed <small>(turka _a_)</small>  
-**ada** havi <small>(portugala _há_)</small>  
-**aple** pomo <small>(angla _apple_)</small>  
-**bay** blanka <small>(mandarenĉina _bái_ 白)</small>  
-**batú** ŝtono <small>(indonezia _batu_)</small>  
-**bazar** bazaro, vendoplaco <small>(persa _bāzār_ بازار)</small>  
-**bax** lingvo <small>(hindia _bhāśā_ भाषा)</small>  
-**baxa** paroli, komuniki  
-**blu** blua <small>(angla _blue_)</small>  
-**bon** bona <small>(franca _bon_)</small>  
-**cay** teo <small>(mandarenĉina _chá_ 茶)</small>  
-**bita** peti <small>(mandarenĉina _qǐng_ 请)</small>  
-**den** tago <small>(rusa _den'_ день)</small>  
-**dom** hejmo, loĝejo <small>(rusa _dom_ дом)</small>  
-**doma** loĝi  
-**dotor** doktoro <small>(portugala _doutor_)</small>  
-**enda** iri <small>(swahila _kuenda_)</small>  
-**engli** angla <small>(angla _English_)</small>  
-**eska** demandi; ĉu <small>(haitia _èske_)</small>  
-**fem** virino <small>(franca _femme_)</small>  
-**gon** antaŭ <small>(Thai _gɔ̀ɔn_ ก่อน)</small>  
-**habar** novaĵoj <small>(malaja _khabar_)</small>  
-**helpe** helpo <small>(angla _help_)</small>  
-**i** kaj <small>(pola _i_)</small>  
-**jan** scii <small>(konga _zaba_)</small>  
-**kafe** kafo <small>(germana _Kaffee_)</small>  
-**kal** nigra <small>(Hindi काला _kāla_)</small>  
-**kata** tranĉi <small>(hindia ‎_kāṭnā_ काटना)</small>  
-**ke** kio? kiu? <small>(hispana _qué_)</small>  
-**ken** scipovi <small>(angla _can_)</small>  
-**keci** ĝentila <small>(mandarenĉina _kèqi_ 客气)</small>  
-**lay** veni <small>(vjetnama _lai_)</small>  
-**mame** patrino <small>(mandarenĉina _māma_ 妈妈)</small>  
-**man** viro <small>(angla _man_)</small>  
-**mana** signifi <small>(sŭahila _maana_)</small>  
-**mi** mi <small>(kartvela _mi_ მე)</small>  
-**mimen** ni  
-**nida** bezoni <small>(angla _need_)</small>  
-**no** ne <small>(hispana _no_)</small>  
-**noce** nokto <small>(hispana _noche_)</small>  
-**nyama** manĝi, trinki <small>(hispana _ñam_)</small>  
-**pape** patro <small>(rusa _papa_ папа)</small>  
-**ren** persono <small>(mandarenĉina _rén_ 人)</small>  
-**ros** ruĝa <small>(bangla _ros_)</small>  
-**safara** vojaĝi <small>(araba _safar_ سفر)</small>  
-**salama** saluti <small>(araba _salām_ سلام)</small>  
-**si** jes; esti <small>(hispana _sí_)</small>  
-**suba** mateno <small>(ŭolofa _subba_)</small>  
-**tu** vi (singulare) <small>(tamila _nī_ நீ)</small>  
-**tumen** vi (plurale)  
-**u** aŭ <small>(franca _ou_)</small>  
-**wida** vidi, rigardi <small>(rusa _videt'_ видеть)</small>  
-**wol** voli <small>(itala _volere_)</small>  
-**wang** flava <small>(kantonĉina _wong_)</small>  
-**xam** vespero <small>(hindia _śām_ शाम )</small>  
-**ye** li, ŝi, ĝi <small>(mandarenĉina _tā_ 他/她/它)</small>  
-**yemen** ili  
-**zay** nune <small>(Mandarin _zài_ 在)</small>  
-**ze** el, de <small>(Czech _z, ze_)</small>  

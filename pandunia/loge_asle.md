@@ -730,6 +730,7 @@ u ← fra:ou. por:ou.
 ##u  
 uma ← jpn:uma. zho:"mǎ". kor:"mal".  
 umur ← ara:(umr). ind:umur. swa:umri. hin:urd:(umar).  
+unale ← eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).  
 ura ← rus:ура (ura). ita:urrà. spa:hurra. fra:hourra. eng:hurrah.  
 urse ← fra:ours. por:urso. ita:orso. spa:oso.  
 urse ← fra:ours. por:urso. spa:oso. per:(xers).  

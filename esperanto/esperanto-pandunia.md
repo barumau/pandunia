@@ -1233,6 +1233,7 @@ tuŝi : toca
 uniono : unia  
 universala : putong  
 unu : un  
+unu la alian : unale  
 uranio : uranium  
 urbo : site  
 urso : urse  

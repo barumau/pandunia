@@ -377,10 +377,10 @@ Name, English: name.</small>
 **mi ada bon dom.**
 I have a good house.
 
-**ye no ada pesa.**
+**ye no ada pese.**
 He/she doesn't have money.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 I want to have a new phone.
 
 **eska tu ada bace?**
@@ -396,10 +396,10 @@ I know him/her.
 **eska tu jana di ren?**
 Do you know that person?
 
-**eska tumen jana bici?**
+**eska tumen jana unale?**
 Do you know each other?
 
-**mimen jana bici ze long.**
+**mimen jana unale ze long.**
 We know each other for long.
 
 ### helpe <small>help</small>
@@ -417,7 +417,7 @@ Can I help you?
 
 ### nyama <small>consume, eat, drink</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 Would you like to eat something?
 
 **ye nyama aple.**
@@ -439,29 +439,29 @@ Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 I'm having coffee and bread.
 
-### wol <small>want</small>
+### wola <small>want</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 Would you like to eat?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 I want to drink coffee.
 
-**eska tu wol nyama cay?**
+**eska tu wola nyama cay?**
 Would you like to drink tea?  
-**no. mi no wol cay. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 No, I don't want tea. I want coffee.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 Which apple do you want?  
 **di ros.**
 This red one.
@@ -563,7 +563,7 @@ Sorry. I don't understand you.
 **mi no bas aha tu.**
 I didn't quite understand you.
 
-**mi aha nul.**
+**mi aha nol.**
 I don't understand at all.
 
 ### bila <small>can</small>
@@ -600,7 +600,7 @@ What did you say?
 **mi loga to tu.**
 I talk to you.
 
-**mimen loga to bice.**
+**mimen loga to unale.**
 We talk to each other.
 
 **se loga "cat" na ke yang na pandunia?**
@@ -718,7 +718,7 @@ Where do you come from?
 **mi laya ze dubai.**
 I come from Dubai.
 
-**mi laya dom ming den.**
+**mi laya dom badi den.**
 I will come home tomorrow.
 
 ### safara <small>to travel</small>
@@ -864,7 +864,7 @@ I give this to you.
 **mi dona buke to yemen.**
 I give a book to them.
 
-**ye no wol dona ye to mi.**
+**ye no wola dona ye to mi.**
 He/she doesn't want to give it to me.
 
 ### kapa <small>take, get</small>
@@ -878,6 +878,28 @@ Please take one coffee for me.
 **tu pas kapa pese ze mi.**
 You already got money from me.
 
+**mi kapa un bir.**
+I will take a beer.
+
+
+### kire <small>rent, lease, hire</small>
+
+**kire si 500 dolar na mes.**  
+The rent is 500 dollars in a month.
+
+**ye no bila peya kire.**  
+He/she can't pay the rent.
+
+**mi wola kapa un kar na kire.**  
+I want to take a car for rent.
+
+**mi wola kirokapa un kar.**
+I want to rent a car.
+
+**ye kirodona kamar to safarer.**
+He/she rents rooms to travelers.
+
+
 <!--
 
 ### mai <small>commerce</small>
@@ -889,22 +911,8 @@ means _to buy_.
 **yemen mai dar tot.**
 They sell everything.
 
-**mi kapa un bir.**
-I will take a beer.
-
 **mi mai kap un bir.**
 I will buy a beer.
-
-### kira <small>rent</small>
-
-**mi wol kira kap un gar.**
-I want to rent a car.
-
-**ye kira dar kamar ko biznes ren.**
-He/she rents rooms to business people.
-
-Tip: **Kira**
-is paired with _give_ and _take_ just like **mai**.
 
 ### yang <small>type, kind, sort</small>
 
@@ -914,7 +922,7 @@ What is it like?
 **eska ye nowi?**
 Is it new?
 
-**ke si mas bon?**
+**ke si max bon?**
 Which is better?
 
 **ce si maxim bon (ze pan).**

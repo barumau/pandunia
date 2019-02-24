@@ -1270,6 +1270,7 @@ turkia : Turkio
 u : aŭ  
 uma : ĉevalo  
 un : unu  
+unale : unu la alian  
 unia : uniono  
 uranium : uranio  
 urse : urso  

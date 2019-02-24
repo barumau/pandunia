@@ -16,13 +16,13 @@ ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:
 			adu	:	belong	aparteni	kuulua (olla oma)	należeć			属于	принадлежать	appartenir à
 			adulte	:	adult	plenaĝa	aikuinen	osoba dorosła			成年人	взрослый	adulte
 	dex	AF	afgania	:	Afghanistan		Afganistan	Afganistan					
-ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.			afrike	:	Africa	Afriko	Afrikka	Afryka					Afrique
+ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.			afrike	:	Africa	Afriko	Afrikka	Afryka	África				Afrique
 			afriki	:	African	afrika	afrikkalainen	afrykański, Afrykanin					africain
 eng:agression. pol:agresja			agres	:	agression (assault)	agreso	aggressio	agresja, napaść					
 rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.			aha	:	understand (realize)	kompreni	oivaltaa (tajuta)	rozumieć, pojmować					
 	made	Es	ainstainium	:	einsteinium	ejnŝtejnio	einsteinium	einstein					
 			ajil	:	agile	lerta	ketterä	zwinny, sprawny			灵活的	подвижный	agile
-eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.			akse	:	axis (axle)	akso	akseli	oś			轴线	ось	axe
+eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.			akse	:	axis (axle)	akso	akseli	oś	eje		轴线	ось	axe
 deu:Alge. fra:algue. tur:alg. per:(âlg). eng:spa:por:pol:alga.			alge	:	alga	algo	levä	alga (wodorost)					
 ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.			ali	:	other	alia	muu (toinen)	inny				другой (второй)	autre
 fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:"kuhul" rus:"alkohol".			alkol	:	alcohol	alkoholo	alkoholi	alkohol	alcohol		酒	алкоголь	alcool
@@ -124,21 +124,21 @@ fra:ballon. tur:ind:balon. eng:balloon. tgl:balun. hau:balân.			balon	:	balloon
 zho:板 (bǎn). jpn:板 (ban). vie:bảng. kor:판 (pan). + swa:bao.			ban	:	board (plank)		lauta (lankku)	deska					
 			ban gem	:	board game		lautapeli	gra planszowa					
 			banan	:	banana	banano	banaani	banan					
-zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:banda. jpn:バンド (bando).			bande	:	band (squad, group)		ryhmä (työryhmä, yhtye, bändi)						
+zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:banda. jpn:バンド (bando).			bande	:	band (squad, group)		ryhmä (työryhmä, yhtye, bändi)	zespół (drużyna, grupa)					
 eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.			bandir	:	flag (banner)	flago	lippu	flaga, sztandar			旗	флаг	drapeau
 	dex	BD	banglia	:	Bangladesh	Bangladeŝo	Bangladesh	Bangladesz					
 			banka	:	save (deposit, bank)	savi	tallettaa	oszczędzać, deponować					
 			banye	:	bath	bano	kylpy	kąpiel			洗澡	купание	bain
 			banyokamar	:	bathroom	banĉambro	kylpyhuone	łazienka			浴室	ванная	salle de bains
 			banyu	:	bathe	bana	kylpeä	kąpać się			游泳	купаться	se baigner
-ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.			bar	:	weight	pezo	paino						
+ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.			bar	:	weight	pezo	paino	waga (ciężkość)					
 	dex	BB	barbados	:	Barbados		Barbados	Barbados					
 deu:tur:barbar. fra:barbare. per:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).			barbar	:	barbarian	barbaro	barbaari (raakalainen)	barbarzyńca					
 fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.			barde	:	beard	barbo	parta	broda					
-			bari	:	heavy	peza	painava						
+			bari	:	heavy	peza	painava	ciężki (masywny)					
 	made	Ba	barium	:	barium	bario	barium	bar					
 hau:barka. ind:berkah. tur:tebrik. per:(tabrik). ara:urd:(mubārak).			barka	:	congratulate (bless)	gratuli	onnitella (siunata)	gratulować; błogosławić					
-			barometer	:	scales (weighing device)		vaaka (puntari)						
+			barometer	:	scales (weighing device)		vaaka (puntari)	waga (urządzenie ważące)					
 hin:भारतीय "bhārtīy". urd:"bhārtīy". mar:"bhārtīya". tel:"bhāratīya".			barti	:	Indian	Barata	intialainen	Indyjski					
 	dex	IN	bartia	:	India	Baratio	Intia	Indie					
 			barude	:	gunpowder	pulvo	ruuti	proch strzelniczy					
@@ -150,7 +150,7 @@ fas: /bas/. hin: /bas/. swa: basi. spa: basta.			bas	:	enough (sufficient)	sufi�
 			baskobol	:	basket ball		koripallo	piłka do koszykówki (koszykówka)					
 			bat	:	eight (8)	ok (8)	kahdeksan (8)	osiem (8)					
 mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). per:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)			bate	:	duck	anaso	sorsa (ankka)	kaczka					
-			batokrote	:	platypus		vesinokkaeläin						
+			batokrote	:	platypus		vesinokkaeläin	dziobak					
 eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".			baton	:	bar (rod, stick)	stango	tanko (sauva, patukka)	pręt, kij					
 			baton nur	:	torch	torĉo	soihtu	pochochodnia (latarka)					
 			batonopang	:	baguette		patonki (ranskanleipä)	bagietka					
@@ -197,7 +197,7 @@ tur:ebilmek. + ind:bisa,boleh. + eng:able. spa:hábil. fra:habile. ron:abil.			b
 ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).			bina	:	build (construct)	konstrui	rakentaa	zbudować, budować, konstruować					
 hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi). 			binde	:	dot (spot)	punkto	täplä (läiskä)	punkt					
 zho:病 (bìng). vie:bệnh. kor:병 (byeong).			bing	:	ill (sick)	malsana	sairas	chory					
-eng: beer. tur: bira.			bir	:	beer	biero	olut (kalja)	piwo					
+eng: beer. tur: bira.			bir	:	beer	biero	olut (kalja)	piwo	cerveza (birra)	cerveja			
 eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).			bireria	:	bar (pub, beer house)	drinkejo	baari (kapakka)	bar, knajpa					
 bug:bissu.			bis	:	genderqueer (non-binary)		muunsukupuolinen	genderqueer, niebinarny					
 			biskute	:	biscuit (cookie)	biskvito (kuketo)	keksi (pikkuleipä)	biszkopt, ciastko					
@@ -1303,7 +1303,7 @@ zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi)
 	dex	FM	mikronesia	:	Micronesia		Mikronesia	Mikronezja					
 eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).			milke	:	milk	lakto	maito	mleko					
 			milo-	:	milli-	mili-	milli-	mili-					
-			milometre	:	millimeter	milimetro	millimetri						
+			milometre	:	millimeter	milimetro	millimetri	milimetr					
 			mimen	:	we	ni	me	my					
 			min	:	less	malpli	vähemmän	mniej					
 			min ka bas	:	too little	maltro	liian vähän	zbyt mało					
@@ -2143,6 +2143,8 @@ jpn:uma. zho:"mǎ". kor:"mal".			uma	:	horse	ĉevalo	hevonen	koń
 ara:(umr). ind:umur. swa:umri. hin:urd:(umar).			umur	:	age		ikä	wiek					
 			un	:	one (1)	unu	yksi	jeden (1)					
 			una	:	unite		yhdistää	jednoczyć					
+eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).			unale	:	each other (one another, mutually)	unu la alian	toisiaan (keskenään)						
+			unali	:	mutual		molemminpuolinen (keskinäinen)						
 			uni	:	united		yhtenäinen	zjednoczony					
 			uni stan du amerike	:	United States of America		Amerikan Yhdysvallat	Stany Zjednoczone Ameryki					
 			unia	:	union	uniono	liitto (unioni)	unia					

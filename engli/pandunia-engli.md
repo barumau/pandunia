@@ -2162,6 +2162,8 @@ uma : horse
 umur : age  
 un : one (1)  
 una : unite  
+unale : each other (one another, mutually)  
+unali : mutual  
 uni stan du amerike : United States of America  
 uni : united  
 unia : union  

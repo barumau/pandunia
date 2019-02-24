@@ -174,7 +174,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > mi **darsa** loge - Mi lernas vorton  
 > pando **suku** pandunia - Pandoj ŝatas Pandunia  
 
-> mi nyama nan - Mi manĝas panon (= Mi konsumas panon)  
+> mi nyama pang - Mi manĝas panon (= Mi konsumas panon)  
 > tu nyama suy - Vi trinkas akvon (= Vi konsumas akvon)  
 > ye nyama alkol - Li drinkas akoholon (= Li konsumas alkoholon)   
 
@@ -439,7 +439,7 @@ Bazaj reguloj
 2. La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
 3. Substantivoj ("_Esencovortoj_") ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
 4. Kiam adjektivo antaŭas substantivon, ĝi funkcias kiel modifovorto. Kiam ĝi sekvas substantivon, ĝi rolas kvazaŭ adjektiva verbo.
-    - ekz. **bon nan** = Bona pano. **nan bon** = (La) pano bonas.
+    - ekz. **bon pang** = Bona pano. **pang bon** = (La) pano bonas.
 5. Oni povas krei novajn vortojn kunmetante aliajn vortojn. La ĉefa vorto ĉiam staras je la fino. Malkiel en Esperanto, en pandunio oni ne algluas vortojn.
     - ekz. **poste sanduk** = leterkesto
 6. En frazoj faritaj per transitiva verbo, oni uzas la vortordon subjekto-verbo-objekto.

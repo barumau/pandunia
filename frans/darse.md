@@ -605,12 +605,12 @@ seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 = Je le frappe / je l'ai frappé.
 
 En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
-**mi nyama nan** peut signifier à la fois "Je mange du pain" et
+**mi nyama pang** peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**mi nyama nan na sube nyam.**
+**mi nyama pang na sube nyam.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
@@ -687,7 +687,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 **zay** present, en cours.
 **wil** futur.
 **darba** frapper, battre.
-**nan** pain.
+**pang** pain.
 **sube nyam** repas du matin, petit-déjeuner.
 
 ### Réponses aux exercices

@@ -31,7 +31,7 @@ Osa 1: Tervehdykset ja perussanoja
 **salam**
 Terve!
 
-**salam suba!**
+**salam sube!**
 Huomenta!
 
 **salam den!**
@@ -304,8 +304,8 @@ Tämä omena on punainen.
 
 Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
-**ye ros.**
-Se on punainen.
+**ce ros.**
+Tämä on punainen.
 
 
 ### de <small>tuo</small>
@@ -402,18 +402,18 @@ Minulla on kaksi lasta.
 
 
 
-### jan <small>tietää, tuntea</small>
+### jana <small>tietää, tuntea</small>
 
-**mi jan ye.**
+**mi jana ye.**
 Minä tunnen hänet.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 Tunnetko tuon henkilön?
 
-**eska tumen jan bici?**
+**eska tumen jana unale?**
 Tunnetteko toisenne?
 
-**mimen jan bici ze long.**
+**mimen jana unale ze long.**
 Tunnemme toisemme jo vanhastaan.
 
 
@@ -457,40 +457,40 @@ Minä juon kahvia.
 Vinkki: Sana **kana**
 sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 Minä nautin kahvia ja leipää.
 
 
 
-### wol <small>haluta</small>
+### wola <small>haluta</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 Haluaisitko syödä?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 Minä haluan juoda kahvia.
 
-**eska tu wol nyama ca?**
+**eska tu wola nyama cay?**
 Haluaisitko juoda teetä.
-**no. mi no wol ca. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 Minkä omenan haluat?
-**li ros.**
+**di ros.**
 Tuon punaisen.
 
 
 
 ### bita <small>pyytää</small>
 
-**mi bita tu nyama ca.**
+**mi bita tu nyama cay.**
 Minä pyydän sinua juomaan teetä.
 
 **mi bita tu laya dom.**
@@ -501,7 +501,7 @@ Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**bita nyama ca.**
+**bita nyama cay.**
 Juopa teetä.
 
 **bita nyama kafe.**
@@ -624,7 +624,7 @@ Minä osaan vähän panduniaa.
 **mi no bila engli.**
 Minä en osaa englantia.
 
-**pardon. mi no bila tu da baxa.**
+**pardon. mi no bila tu da bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -637,7 +637,7 @@ Mitä sinä sanoit?
 **mi loga to tu.**
 Minä puhun sinulle.
 
-**mimen loga to bici.**
+**mimen loga to unale.**
 Me puhumme toisillemme.
 
 **se loga "kissa" na ke yang na pandunia?**

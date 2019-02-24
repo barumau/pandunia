@@ -23,7 +23,7 @@ Part 1: Greeting and basics
 **salam**
 Cześć!
 
-**salam subá!**
+**salam sube!**
 Dobrego ranka!
 
 **salam den!**
@@ -365,10 +365,10 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 **mi ada bon dom.**
 Mam dobry dom.
 
-**ye no ada pesa.**
+**ye no ada pese.**
 Nie ma pieniędzy.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 Chcę mieć nowy telefon.
 
 **eska tu ada bace?**
@@ -378,18 +378,18 @@ Mam dwoje dzieci.
 
 
 
-### jan <small>wiedzieć, znać</small>
+### jana <small>wiedzieć, znać</small>
 
-**mi jan ye.**
+**mi jana ye.**
 Znam go/ją.
 
-**eska tu jan li ren?**
+**eska tu jana di ren?**
 Czy znasz tę osobę?
 
-**eska tumen jan bici?**
+**eska tumen jana unale?**
 Czy znacie się?
 
-**mimen jan bici ze long.**
+**mimen jana unale ze long.**
 Znamy się od długiego (czasu).
 
 
@@ -412,7 +412,7 @@ Czy mogę ci pomóc?
 
 ### nyama <small>konsumować, spożywać, jeść, pić</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 Czy chcesz zjeść coś?
 
 **ye nyama aple.**
@@ -433,35 +433,35 @@ Piję kawę.
 Porada: Znaczenie **nyama**
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi nyama kafe i nan.**
+**mi nyama kafe i pang.**
 Spożywam kawę i chleb.
 
 
 
-### wol <small>chcieć</small>
+### wola <small>chcieć</small>
 
-**eska tu wol nyama?**
+**eska tu wola nyama?**
 Czy chcesz jeść?
 
-**tu wol nyama ke?**
+**tu wola nyama ke?**
 Co chcesz zjeść?
 
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
 nie zmienia szyku zdania.
 
-**mi wol nyama kafe.**
+**mi wola nyama kafe.**
 Chcę pić kawę.
 
 **eska tu wol nyama cay?**
 Czy chcesz napić się herbaty?
 
-**no. mi no wol cay. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**tu wol ki aple?**
+**tu wola ki aple?**
 Które jabłko chcesz?
 
-**li ros.**
+**di ros.**
 Te czerwone.
 
 
@@ -574,7 +574,7 @@ Przepraszam., nie rozumiem cię.
 **mi no bas aha tu.**
 Niezbyt zrozumiałem cię.
 
-**mi aha nul.**
+**mi aha nol.**
 Nic nie rozumiem.
 
 
@@ -602,7 +602,7 @@ Umiem trochę mówić w Panduni.
 **mi no bila engli.**
 Nie znam języka angielskiego.
 
-**pardon. mi no bila tu da baxa.**
+**pardon. mi no bila tu da bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -615,7 +615,7 @@ Co mówisz??
 **mi loga to tu.**
 Mówię do ciebie.
 
-**mimen loga to bici.**
+**mimen loga to unale.**
 Mówimy do siebie.
 
 **se loga "kot" na ke yang na pandunia?**
@@ -662,7 +662,7 @@ Widziałem go/ją wczoraj.
 
 
 
-### mana <small>znaczyć</small>
+### mena <small>znaczyć</small>
 
 **ci loge mena ke?**
 Co znaczy to słowo?
@@ -683,7 +683,7 @@ Nie rozumiem, co to znaczy.
 **bita kitaba tu da adres.**
 Proszę, napisz swój adres.
 
-**bita kitaba ye na li.**
+**bita kitaba ye na ce.**
 Proszę, napisz to tutaj!
 
 
@@ -749,7 +749,7 @@ Skąd pochodzisz?
 **mi laya ze dubai.**
 Pochodzę z Dubaju.
 
-**mi laya dom ming den.**
+**mi laya dom badi den.**
 Przyjdę do domu jutro.
 
 
@@ -847,211 +847,17 @@ Nie chce dać mi tego.
 
 
 
-### toma <small>brać, dostawać</small>
+### kapa <small>brać, dostawać</small>
 
-**mi toma un kafe.**
+**mi kapa un kafe.**
 Wezmę kawę.
 
-**bita toma un kafe to mi.**
+**bita kapa un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
-**tu pas toma pese ze mi.**
+**tu pas kapa pese ze mi.**
 Już dostałeś ode mnie pieniądze.
 
-<!--
-
-
-### mai <small>commerce</small>
-
-Tip: Buying and selling a compound words: **mai dar**
-means _to sell_ and **mai kap**
-means _to buy_.
-
-**yemen mai dar tot.**
-They sell everything.
-
-**mi toma un bir.**
+**mi kapa un bir.**
 I will take a beer.
-
-**mi mai kap un bir.**
-I will buy a beer.
-
-
-### kira <small>rent</small>
-
-**mi wol kira kap un gar.**
-I want to rent a car.
-
-**ye kira dar kamar ko biznes ren.**
-He/she rents rooms to business people.
-
-Tip: **Kira**
-is paired with _give_ and _take_ just like **mai**.
-
-
-### yang <small>type, kind, sort</small>
-
-**ye si ke yang?**
-What is it like?
-
-**eska ye nowi?**
-Is it new?
-
-**ke si mas bon?**
-Which is better?
-
-**li si maxim bon (ze tot).**
-This is the best (of all).
-
-
-
-****
-How much does it cost?
-****
-Nothing.
-****
-It is cheap / expensive.
-
-
-****
-We are being called.
-
-****
-I'm looking for the toilet.
-
-****
-Go there / forward / back / left / right.
-****
-Come here / back / to us.
-
-
-
-**mi darsa pandunia.**
-I study Pandunia.
-
-****
-Show me in the dictionary!
-****
-I don't remember.
-
-****
-(I wish you) all the best!
-
-****
-I will never forget you.
-
-****
-Don't worry! (Hakuna matata!)
-
-**tot si okey.**
-Everything is alright.
-
-****
-Cheers!
-
-****
-Of course!
-
-
-****
-Do you like ...?
-
-****
-I feel alright.
-
-****
-Please, sit here!
-
-****
-I rather stand.
-
-
-
-****
-With pleasure!
-
-**parte kaixu na ke sat?**
-When does the party begin?
-
-
-****
-You are right.
-
-****
-Leave me alone!
-
-**ke habar?**
-What's new?
--->
-
-
-Lista słów
-----------
-
-Wszystkie słowa Panduni są zaporzyczone z innych języków mówionych na całym świecie. Prawdopodobnie możesz rozpoznać wiele słów Pandunia z języka polskiego i innych znanych ci języków. Zazwyczaj jedno słowo Panduni jest dzielone przez wiele języków. Na przykład, **ma** i **pa** są znane w setkach języków. Jakkolwiek, tylko jedno słowo źródłowe jest umieszczone w tej liście słów jako przykład.
-
-
-**a** ale <small>(rosyjskie _а_)</small>  
-**ada** mieć; istnieje <small>(indonezyskie _ada_)</small>  
-**aple** jabłko <small>(angielskie _apple_)</small>  
-**bay** biały <small>(mandaryńskie _bái_ 白)</small>  
-**batú** kamień <small>(indonezyskie _batu_)</small>  
-**bazar** rynek, bazar <small>(perskie _bāzār_ بازار)</small>  
-**bax** język; komunikacja <small>(hindi _bhāśā_ भाषा)</small>  
-**baxa** mówić, komunikować  
-**blu** niebieski <small>(angielskie _blue_)</small>  
-**bon** dobry <small>(francuskie _bon_)</small>  
-**cay** herbata <small>(mandaryńskie _chá_ 茶)</small>  
-**ci** to; tamto</small>  
-**bita** prosić <small>(mandaryńskie _qǐng_ 请)</small>  
-**den** dzień <small>(rosyjskie _den'_ день)</small>  
-**dom** dom, rezydencja <small>(rosyjskie _dom_ дом)</small>  
-**doma** mieszkać, rezydować  
-**enda** iść <small>(suahili _kuenda_)</small>  
-**eska** pytać <small>(haiti _èske_)</small>  
-**engli** angielski  
-**fem** kobieta <small>(francuskie _femme_)</small>  
-**gata** mówić <small>(japońskie _kataru_ 語る)</small>  
-**gon** przedtem, wcześniej <small>(tajskie _gɔ̀ɔn_ ก่อน)</small>  
-**habar** wieści <small>(malajskie _khabar_)</small>  
-**helpa** pomóc <small>(francuskie _aider_)</small>  
-**helpe** pomoc  
-**i** i <small>(polskie _i_)</small>  
-**jan** wiedzieć, znać <small>(Hindi _jānnā_ जानना)</small>  
-**kafe** kawa <small>(niemieckie _Kaffee_)</small>  
-**kal** czarny <small>(hindi काला _kāla_)</small>  
-**kata** ciąć <small>(hindi ‎_kāṭnā_ काटना)</small>  
-**ke** co? kto? <small>(hiszpańskie _qué_)</small>  
-**ken** móc, umieć <small>(angielskie _can_)</small>  
-**keci** uprzejmy, miły <small>(mandaryńskie _kèqi_ 客气)</small>  
-**lay** przybywać, przychodzić <small>(wietnamskie _lai_)</small>  
-**mame** matka <small>(mandaryńskie _māma_ 妈妈)</small>  
-**man** mężczyzna <small>(angielskie _man_)</small>  
-**mena** znaczyć <small>(suahili _maana_)</small>  
-**mi** ja, mnie <small>(suahili _mimi_)</small>  
-**mimen** my  
-**na** przy, w, na, razem z <small>(lingalskie _na_)</small>  
-**nida** potrzebować <small>(angielkie _need_)</small>  
-**no** nie <small>(hiszpańskie _no_)</small>  
-**noce** noc <small>(hiszpańskie _noche_)</small>  
-**pape** ojciec <small>(rosyjskie _papa_ папа)</small>  
-**ren** osoba <small>(mandaryńskien _rén_ 人)</small>  
-**ros** czerwony <small>(włoskie _rosso_)</small>  
-**safar** podróż, wyprawa <small>(arabskie _safar_ سفر)</small>  
-**salam** pozdrowienie; cześć <small>(arabskie _salām_ سلام)</small>  
-**si** tak <small>(hiszpańskie _sí_)</small>  
-**subá** ranek <small>(wolofskie _subba_)</small>  
-**to** do <small>(angielskie _to_)</small>  
-**tu** ty <small>(hiszpańskie _tu_)</small>  
-**tumen** wy  
-**u** lub <small>(francuskie _ou_)</small>  
-**wang** żółty <small>(kantońskie _wong_)</small>  
-**wida** widzieć, patrzyć <small>(rosyjskie _videt'_ видеть)</small>  
-**wol** chcieć <small>(włoskie _volere_)</small>  
-**xam** wieczór <small>(hindi _śām_ शाम )</small>  
-**ye** on, ona, ono <small>(lingalskie _yé_)</small>  
-**yemen** oni, one  
-**zay** teraz <small>(mandaryńskie _zài_ 在)</small>  
-**ze** od, z <small>(czeskie _z, ze_)</small>
-
 
