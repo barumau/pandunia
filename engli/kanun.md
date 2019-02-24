@@ -39,15 +39,15 @@ These are the 11 basic rules of Pandunia language.
 3. Nouns have a single, unchanging form.
 4. The adjectives and the adverb have the same form. They come before
    the word that they modify. Frequently adjectives end in **-i**.
-    - ex. 1. **bon nan** = Good bread.
+    - ex. 1. **bon pang** = Good bread.
     - ex. 2. **tu bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side. Linking
    vowel **-o-** is inserted between the elements.
     - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **mi nyama nan.** = I eat bread.
+    - ex. **mi nyama pang.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **nan nyamu.** = The bread is eaten.
+    - ex. **pang nyamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
@@ -192,7 +192,7 @@ are put before the word or phrase that they qualify.
 > **un xing** - one star  
 > **dul xing** - two stars  
 > **sam xing** - three stars  
-> **xaw xing** - few stara  
+> **xaw xing** - few stars  
 > **pol xing** - many stars
 
 > **un day meze** - one big table  
@@ -277,13 +277,14 @@ The demonstrative pronouns are:
 **ce** - this one  
 **de** - that one  
 
-> **mi wola ce.** - I want this one.
+**mi wola ce.** - I want this one.  
+**ye wola de.** - He/she wants that one.  
 
 They end in **-i** when they function as adjectives i.e. when they
 come before a noun.
 
-> **ci maw** - This cat  
-> **di maw.** - That cat  
+**ci maw** - This cat  
+**di maw.** - That cat  
 
 ### 5.3. Interrogative pronouns
 
@@ -344,7 +345,7 @@ and the object third.
 
 Examples:  
 **mi wida yemen.** - I see them.  
-**tu beka nan.** - You bake bread.  
+**tu beka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -359,7 +360,7 @@ dependant clauses.
 
 Examples:  
 **ke tu wida?** - What do you see?  
-**mi nyama nan, jo tu beka.** - I eat bread _that you baked._
+**mi nyama pang, jo tu beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -393,7 +394,7 @@ SOV order is commonly used alternative for SVO order.
 
 Examples:  
 **mi yemen widu.** - _I them see._  
-**tu nan beku.** - _You bread bake._
+**tu pang beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -406,7 +407,7 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**nan beku tu.** - Bread is baked by you.  
+**pang beku tu.** - Bread is baked by you.  
 **tu suku mi.** - You are pleased by me.
 
 #### 6.3.3. VSO order
@@ -425,7 +426,7 @@ In passive sentence there is only object and verb but no subject (i.e.
 agent).
 
 > **mi widu.** - I am seen.  
-> **nan beku.** - Bread is baked.  
+> **pang beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
@@ -519,11 +520,11 @@ Mandarin Chinese, Indonesian and Modern Arabic among others.
 
 In the passive voice there is no agent subject in the sentence. There
 is only the object and the verb. Normally the passive is expressed
-with object–verb (VO) word order with the verb ending in **-u**.
+with object–verb (OV) word order with the verb ending in **-u**.
 
 > **tu widu.** - You are seen.  
 > **musike audu.** - Music is heard.  
-> **nan beku.** - Bread is baked.
+> **pang beku.** - Bread is baked.
 
 Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
@@ -534,13 +535,13 @@ preposition **du**.
 > **tu widu mi.** - You are seen by me.  
 > **tu widu du mi.** - You are seen by me.
 
-#### 7.4.2. OV order
+#### 7.4.2. VO order
 
 In verb–object (VO) order the focus is on the verb.
 
 > **wida tu.** - Seeing you.  
 > **auda musike.** - Listening music.  
-> **beka nan.** - Baking bread.
+> **beka pang.** - Baking bread.
 
 ### 7.5. All Possible Word Orders
 
@@ -846,8 +847,8 @@ I speak with friends in Pandunia in telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-> **mi kata nan.** - I cut bread.  
-> **mi kata nan, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+> **mi kata pang.** - I cut bread.  
+> **mi kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
 > **mi denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
