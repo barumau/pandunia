@@ -103,22 +103,22 @@ In Pandunia you can use the word **onori** (meaning *honorable, respected*) for 
 
 <small>2018-10-30</small>
 
-How to multiply in Pandunia? Interestingly, you can use numbers as verb modifiers.
+How to multiply in Pandunia? Interestingly, you can use numbers as modifiers of verbs of calculation.
 
-**mi do mara car.**  
+**mi dul mara car.**  
 _I two-ly multiply four._  
 I multiply two and four.
 
-**mi do fena car.**  
+**mi dul fena car.**  
 _I two-ly divide four._  
 I divide four by two.
 
 2 × 4 = 8  
-**do mara car egala ba.**  
+**dul mara car egala bat.**  
 Two times four equals eight.
 
 6 / 2 = 3  
-**sis fenu do egala sam.**  
+**sis fenu dul egala sam.**  
 Six divided by two equals three.
 
 
