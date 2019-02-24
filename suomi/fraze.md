@@ -392,7 +392,7 @@ Minulla on hyvä talo.
 **ye no ada pesa.**
 Hänellä ei ole rahaa.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 Minä haluan saada uuden puhelimen.
 
 **eska tu ada bace?**
@@ -436,7 +436,7 @@ Voinko auttaa sinua?
 
 ### nyama <small>syödä, juoda</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 Haluaisitko syödä jotakin?
 
 **ye nyama aple.**

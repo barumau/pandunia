@@ -56,7 +56,7 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun baxa, ye si pandunia.
+     mi wola loga komun baxa, ye si pandunia.
     /mí wól lóga komún báxa, yé sí pandúnia./
 
 Jeżeli akcentowana sylaba nie jest zgodna z powyższymi zasadami, jest zaznaczona akcentem ostrym (´).

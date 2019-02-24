@@ -452,7 +452,7 @@ nie zmienia szyku zdania.
 **mi wola nyama kafe.**
 Chcę pić kawę.
 
-**eska tu wol nyama cay?**
+**eska tu wola nyama cay?**
 Czy chcesz napić się herbaty?
 
 **no. mi no wola cay. mi wola kafe.**
@@ -842,7 +842,7 @@ Daję ci to.
 **mi dona buke to yemen.**
 Daję im książkę.
 
-**ye no wol dona ye to mi.**
+**ye no wola dona ye to mi.**
 Nie chce dać mi tego.
 
 

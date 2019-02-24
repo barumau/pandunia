@@ -53,7 +53,7 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun bax, ye si pandunia.  
+     mi wola loga komun bax, ye si pandunia.  
     /mí wól lóga komún báx, yé sí pandúnia./
 
 Se la akcentata silabo estas alia ol laŭ supraj reguloj, ĝi estas

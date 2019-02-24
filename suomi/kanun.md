@@ -508,7 +508,7 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**mi wol tu nyama sabze.** - Minä haluan sinun syövän vihanneksia.
+**mi wola tu nyama sabze.** - Minä haluan sinun syövän vihanneksia.
 
 Edellisessä esimerkissä, lausekkeen **mi wol** objektina on **tu**. Samaan aikaan **tu** toimii subjektina lausekkeelle **nyama sabze**. Näin ollen **tu** on lauseen _sarana_.
 
@@ -519,7 +519,7 @@ Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien sub
  
 1. **mi enda dom.** - Minä menen kotiin.
 2. **mi bila enda dom.** - Minä voin mennä kotiin.
-3. **mi wol bila enda dom.** - Me haluan voida mennä kotiin.
+3. **mi wola bila enda dom.** - Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  
@@ -825,11 +825,11 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara wol darsa pandunia sababu ye si bon dunia bax.
+    yusef i sara wola darsa pandunia sababu ye si bon dunia bax.
 
                        sababu
                ┌──────────┴──────────┐
-              wol                   si
+              wola                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |

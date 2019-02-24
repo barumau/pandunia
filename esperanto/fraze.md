@@ -349,7 +349,7 @@ Mi havas bonan domon.
 **ye no ada pesa.**
 Li/ŝi ne havas mono.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 Mi volas havi novan telefonon.
 
 **eska tu ada bace?**
@@ -386,7 +386,7 @@ Mi bezonas helpon.
 
 ### nyama <small>manĝi, trinki</small>
 
-**eska tu wol nyama koy?**
+**eska tu wola nyama koy?**
 Ĉu vi volas manĝi ion?
 
 **ye nyama aple.**
@@ -567,7 +567,7 @@ Kion vi diris?
 **mi loga to tu.**
 Mi parolas al vi.
 
-**mimen loga to bici.**
+**mimen loga to unale.**
 Ni parolas unu al alia.
 
 **se loga "kato" na ke yang na pandunia?**

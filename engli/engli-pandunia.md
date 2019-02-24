@@ -2262,7 +2262,7 @@ walk (march) : marca
 wall : mur  
 Wallis and Futuna Islands : walis i futuna nesia  
 wallpaper : mur papir  
-want (desire) : wol  
+want (desire) : wola  
 warm : garmi  
 warrior (fighter) : jenger  
 wash : waxa  

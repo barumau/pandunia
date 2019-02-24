@@ -694,7 +694,7 @@ En verboĉeno du verboj havas la saman subjekton kaj la dua verbfrazo estas la o
 
 1. **mi enda dom.** - Mi iras hejmen.  
 2. **mi bila enda dom.** - Mi povas iri hejmen.  
-3. **mi wol bila enda dom.** - Mi volas povi iri hejmen.  
+3. **mi wola bila enda dom.** - Mi volas povi iri hejmen.  
 4. **mi bixu enda dom.** - Mi devas iri hejmen.
 
 

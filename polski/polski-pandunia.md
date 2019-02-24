@@ -196,7 +196,7 @@ cer : cerium
 Ceres (planeta karłowata) : seres  
 cez : cesium  
 chaos, nieporządek; wrzawa, zgiełk : haos  
-chcieć, pragnąć : wol  
+chcieć, pragnąć : wola  
 chemia : kimia  
 chemiczny : kimi  
 cherubin : kerube  

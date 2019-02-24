@@ -371,7 +371,7 @@ Tengo una buena casa.
 **ye no ada pesa.**
 Él/ella no tiene dinero.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
 **eska tu ada bace?**
@@ -448,9 +448,9 @@ la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 **mi wola nyama kafe.**
 Quiero beber café.
 
-**eska tu wol nyama cay?**
+**eska tu wola nyama cay?**
 ¿Te gustaría beber té? 
-**no. mi no wol cay. mi wol kafe.**
+**no. mi no wola cay. mi wola kafe.**
 No, no quiero té. Quiero café.
 
 **tu wola ki aple?**
@@ -792,7 +792,7 @@ Te doy esto.
 **mi dona buke to yemen.**
 Le doy un libro a ellos/as.
 
-**ye no wol dona ye to mi.**
+**ye no wola dona ye to mi.**
 Él/ella no quiere darme eso.
 
 ### kapa <small>tomar (de agarrar, sujetar)</small>

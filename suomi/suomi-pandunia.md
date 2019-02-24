@@ -317,7 +317,7 @@ hajonnut (sirpaleina) : parci
 hajottaa (särkeä, repiä, sirpaloida) : parca  
 hallita yksinvaltaisesti : impera  
 halo : halos  
-haluta : wol  
+haluta : wola  
 halveksia (hyljeksiä) : paraya  
 hame : jupe  
 hammas : dante  

@@ -522,7 +522,7 @@ podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie
 
 Dopełnienie 1. spełnia podwójną rolę. Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-> **mi wol tu nyama sabze.** - Ja chcę ty jesz warzywa.
+> **mi wola tu nyama sabze.** - Ja chcę ty jesz warzywa.
 
 W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocześnie **tu** działa jako podmiot następnego predykatu, **nyama sabze**, więc **tu** jest _osią_ całego zdania.
 
@@ -533,7 +533,7 @@ Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są 
 
 1. **mi enda dom.** - Idę do domu.
 2. **mi bila enda dom.** - Mogę iśc do domu.
-3. **mi wol bila enda dom.** - Chcę móc iść do domu.
+3. **mi wola bila enda dom.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka
@@ -1032,11 +1032,11 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **karena**, tutaj jego zasięg obejmuje tylko **yusef** i **sara**. **karena** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sara wol darsa pandunia karena ye si bon dunia bax.
+    yusef i sara wola darsa pandunia karena ye si bon dunia bax.
 
                        karena
                ┌──────────┴──────────┐
-              wol                   si
+              wola                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |

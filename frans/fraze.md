@@ -368,7 +368,7 @@ J’ai une bonne maison.
 **ye no ada pesa.**
 Il/elle n’a pas d’argent.
 
-**mi wol ada nowi fon.**
+**mi wola ada nowi fon.**
 Je veux un nouveau téléphone.
 
 **eska tu ada ban?**
@@ -858,7 +858,7 @@ Je te donne ceci.
 **mi dona buke to yemen.**
 Je leur donne un livre.
 
-**ye no wol dona ye to mi.**
+**ye no wola dona ye to mi.**
 Il/elle ne veut pas me le donner.
 
 

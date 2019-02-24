@@ -73,7 +73,7 @@ Ejemplos:
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wol loga komun bax, ye si pandunia.  
+     mi wola loga komun bax, ye si pandunia.  
     /mí wól lóga komún báx, yé sí pandúnia./
 
      darse guru' suku kafe.
