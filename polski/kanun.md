@@ -757,7 +757,7 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 > **tu sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
 > **ye lala sofa'.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)
-> **jangar marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)
+> **jenger marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)
 
 
 ### 10.2. Przyimek relacji
