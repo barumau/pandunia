@@ -15,7 +15,7 @@ ye loga day fain, i kontina:
 «nun mi kapa tu!» logu guy.
 
 «no, no!», logu lil buze.
-«no kapa mi, karena mi si lil lil. mon denga lil, i jung buze wil marca, ye si max day».
+«no kapa mi, sabu mi si lil lil. mon denga lil, i jung buze wil marca, ye si max day».
 «okey», logu guy.
 
 <p style="font-size:6em;text-align:center;">👺</p>

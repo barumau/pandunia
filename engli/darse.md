@@ -545,24 +545,24 @@ manner or thing if needed.
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke koza**.
+**ke saba**.
 
-**ke koza tu suku maw?**
+**ke saba tu suku maw?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
-by adding **koz** before the cause or reason. **koz** is actually a
+by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke koza tu suku maw?**
+**ke saba tu suku maw?**
 = Why do you like cats?  
-**kozu yemen kaway.**
+**sabu yemen kaway.**
 = Because they are cute.
 
-Of course **koz** can also be used to express the cause or reason for
+Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suku maw kozu yemen kaway**
+**mi suku maw sabu yemen kaway**
 = I like cats because they are cute.
 
 ### Exercises
@@ -592,8 +592,8 @@ something, even when not answering to a question.
 2. pape suku.
 3. ke zaman ye laya?
 4. na bade du des minute.
-5. ye no nyama koz ke?
-6. kozu ye no suku kafe u supe.
+5. ye no nyama sabu ke?
+6. sabu ye no suku kafe u supe.
 
 
 --------------------------------------------------------------------------------

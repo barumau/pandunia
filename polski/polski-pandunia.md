@@ -471,6 +471,7 @@ Ghana : gania
 Gibraltar : jibraltar  
 gitara : gitar  
 glin (aluminium) : alumin  
+globalny (światowy) : panoduni  
 globalny : duni  
 glutaminian sodu : micin  
 gluten : gluten  
@@ -1257,9 +1258,13 @@ Panama : panamia
 panamerykański : panameriki  
 panazjatycki : panasi  
 panda : pande  
+pandemiczny : panodemi  
+pandemonium : panodemonia  
 Pandunia : pandunia  
 paneuropejski : paneuropi  
 panika : panike  
+panteizm : panodewistia  
+panteon : panodewia  
 papaja : papay  
 papier : papir  
 papieros (cygar) : sigar  
@@ -1407,7 +1412,7 @@ pomodlić się, modlić się : duwa
 pompować : pompa  
 pomóc, pomagać, asystować : helpa  
 poniedziałek : war 1 (war un)  
-ponieważ, bo : karena  
+ponieważ, bo : na sabu  
 poniższy : nici  
 popołudnie : xamoden  
 poprawić, poprawiać, prostować, korygować : saha  
@@ -1443,7 +1448,7 @@ powinien : xudu
 powszechny, uniwersalny : putong  
 powtarzanie, powtórka : repe  
 powtórzyć, powtarzać : repa  
-powód, przyczyna : karen  
+powód, przyczyna : sabe  
 poza, pozycja : poze  
 pozdrowienie : salame  
 pozdrowić, pozdrawiać : salama  
@@ -1721,6 +1726,7 @@ siki : pix
 silnik : moter  
 silny : bal  
 Singapur : singapur  
+się (nawzajem, wzajemnie) : unale  
 siła : bale  
 siła, autorytet, władza : sultan  
 skand : skandium  
@@ -1762,7 +1768,7 @@ spokojny : xanti
 sport, lekkoatletyka : kel  
 spotkanie, zebranie : mite  
 spotkać : mita  
-spowodować, powodować : karenu  
+spowodować, powodować : saba  
 społeczeństwo, system społeczny : socia  
 społeczny : soci  
 sprawdzić, sprawdzać, skontrolować : ceka  
@@ -2178,6 +2184,7 @@ Wyspy Świętego Tomasza i Książęca : santi tome i prinsipe
 wystarczający : bas  
 wysłać (wyemitować) : misa  
 wyć : ulula  
+wzajemny : unali  
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać : fuga  
 wzrastać : rastu  
 wzrost : raste  

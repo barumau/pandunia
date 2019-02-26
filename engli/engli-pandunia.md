@@ -181,7 +181,7 @@ bear : urse
 beard : barde  
 beautiful (handsome, pretty) : sundar  
 beaver : kastor  
-because : karena  
+because : na sabu  
 become open : kayu  
 bed : bede  
 bedouin (nomadic) : badawi  
@@ -339,7 +339,7 @@ cassava (manioc) : manioke
 cat : maw  
 Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
-cause : karenu  
+cause (be the cause for) : saba  
 cave : gua  
 Cayman Islands : keyman nesia  
 celebrate (party) : festa  
@@ -826,6 +826,7 @@ girl : jowan fem
 give : dona  
 give birth (procreate, generate) : jena  
 glass : kace  
+global (concerning the whole world) : panoduni  
 global : duni  
 glue : glute  
 gluten : gluten  
@@ -1497,8 +1498,12 @@ pan-Asian : panasi
 pan-European : paneuropi  
 Panama : panamia  
 panda : pande  
+pandemic : panodemi  
+pandemonium : panodemonia  
 Pandunia : pandunia  
 panic : panike  
+pantheism : panodewistia  
+pantheon : panodewia  
 pants (trousers) : pantalon  
 papaya : papay  
 paper : papir  
@@ -1718,7 +1723,7 @@ read : duga
 ready : redi  
 realization (awareness, enlightenment, bodhi) : bude  
 realize : buda  
-reason (cause) : karen  
+reason (cause) : sabe  
 reason (rational thinking) : razon  
 rebellion : rebel  
 receipt (acknowledgement) : reside  

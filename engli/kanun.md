@@ -1276,13 +1276,13 @@ central is as follows.
 
 The following example shows how the scope affects the final position
 of words in the tree hierarchy. For example, although **i** is in
-general higher than **karena**, here its scope is only to connect
-**yusef** and **sara**.  **karena** is at the top, because it connects
+general higher than **sabu**, here its scope is only to connect
+**yusef** and **sara**.  **sabu** is at the top, because it connects
 the two sub-phrases.
 
-    yusef i sara wola darsa pandunia sababu ye si bon dunia bax.
+    yusef i sara wola darsa pandunia, sabu ye si bon dunia bax.
 
-                       sababu
+                        sabu
                ┌──────────┴──────────┐
               wola                   si
           ┌────┴──────┐           ┌──┴──┐

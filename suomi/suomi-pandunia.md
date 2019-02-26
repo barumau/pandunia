@@ -20,8 +20,8 @@ Ahvenanmaa (Oolanti) : olandia
 ai! (au!) : ay  
 aihe (teema) : tem  
 aiheesta (-sta) : tema  
-aiheuttaa : karenu  
-aiheutua (koska, syystä, takia) : karena  
+aiheuttaa : saba  
+aiheutua (koska, syystä, takia) : na sabu  
 aika (hetki, kotva) : zaman  
 aikuinen : adulte  
 aina : mey zaman  
@@ -291,7 +291,6 @@ germanium : germanium
 Ghana : gania  
 Gibraltar : jibraltar  
 ginseng : jenxen  
-globaali : duni  
 gluteeni : gluten  
 graafikko : grafer  
 graafinen : grafi  
@@ -605,7 +604,6 @@ kanava (kanaali) : kanal
 kannada (eräs intialainen kieli) : kannadi  
 kannu (karahvi) : jar  
 kanootti : kanu'  
-kansa : deme  
 kansa : nas  
 kansakunta : nasia  
 kansallinen : nasi  
@@ -1037,7 +1035,9 @@ maa (maaperä) : zem
 maa (multa) : darte  
 maa (valtio) : dex  
 maailma : dunia  
+maailman- : duni  
 maailmankieli : duniobax  
+maailmanlaajuinen (globaali) : panoduni  
 maalais- : rusti  
 maalari : penter  
 maalata : penta  
@@ -1170,6 +1170,7 @@ monarkki (kuningas, kuningatar) : rajer
 mongoli : mongol  
 Mongolia : mongolia  
 moni- (poly-, multi-) : poli  
+monijumalisuus (panteismi) : panodewistia  
 monikulmio (polygoni) : polokon  
 monismi : monistia  
 monitahokas : polofas  
@@ -1400,11 +1401,14 @@ panafrikkalainen : panafriki
 Panama : panamia  
 panamerikkalainen : panameriki  
 panda : pande  
+pandeeminen (koko väestöä koskeva) : panodemi  
+pandemonio : panodemonia  
 pandunia : pandunia  
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
 panna (asettaa) : poza  
 pannu (paistinpannu) : tawa  
+pantheon : panodewia  
 papaija : papay  
 paperi : papir  
 pappi : dinogur  
@@ -1850,7 +1854,7 @@ synty (syntymä) : jen
 syntymäpäivä : jen den  
 syntyä : jenu  
 syreeni : lilak  
-syy : karen  
+syy : sabe  
 syyllinen : doxi  
 Syyria : suria  
 syyskuu : mes 9 (mes noy)  
@@ -2234,6 +2238,7 @@ vuosijuhla : nen feste
 vuotaa : lowa  
 vuotaa verta : lowa sang  
 vyö : zon  
+väestö (kansa) : deme  
 väestötiede (demografia) : demografia  
 vähemmistö : minoria  
 vähemmän : min  

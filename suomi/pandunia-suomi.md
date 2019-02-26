@@ -359,7 +359,7 @@ deftobuke : lokikirja
 deka : peittää  
 deke : peite (kansi)  
 dekula : paljastaa  
-deme : kansa  
+deme : väestö (kansa)  
 demografia : väestötiede (demografia)  
 demokrati : demokraattinen  
 demokratia : demokratia  
@@ -418,7 +418,7 @@ duli : kaksois- (duaalinen)
 dulistia : dualismi  
 dum : häntä  
 duman : savu  
-duni : globaali  
+duni : maailman-  
 dunia : maailma  
 duniobax : maailmankieli  
 dur : kesto (kestoaika)  
@@ -916,9 +916,6 @@ karaoke : karaoke
 karate : karate  
 karbi : läheinen  
 karbon : hiili  
-karen : syy  
-karena : aiheutua (koska, syystä, takia)  
-karenu : aiheuttaa  
 karibia : Karibia  
 karite : voipuu  
 karote : porkkana  
@@ -1408,6 +1405,7 @@ muxing : Jupiter
 na ce : täällä  
 na de : tuolla  
 na ke : missä?  
+na sabu : aiheutua (koska, syystä, takia)  
 na : kanssa (luona, -lla, -ssa)  
 nabe : profetia  
 naber : profeetta  
@@ -1560,6 +1558,11 @@ paneuropi : paneurooppalainen
 pang : leipä  
 panike : hätä (paniikki)  
 panjabi : pandžabi (eräs intialainen kieli)  
+panodemi : pandeeminen (koko väestöä koskeva)  
+panodemonia : pandemonio  
+panodewia : pantheon  
+panodewistia : monijumalisuus (panteismi)  
+panoduni : maailmanlaajuinen (globaali)  
 pantalon : housut  
 papagay : papukaija  
 papay : papaija  
@@ -1814,6 +1817,8 @@ rutin : tapa (rutiini)
 rwanda : Ruanda  
 ##s  
 sa : lähtien (-sta, -lta)  
+saba : aiheuttaa  
+sabe : syy  
 sabun : saippua  
 sabze : kasvis  
 sadi : koruton (tavanomainen, pelkkä)  
@@ -2192,7 +2197,7 @@ winil : vinyyli
 wirus : virus  
 wirusolojia : virologia  
 wizit : vierailu (visiitti)  
-wol : haluta  
+wola : haluta  
 wolfe : susi (hukka)  
 ##x  
 xakal : šakaali  

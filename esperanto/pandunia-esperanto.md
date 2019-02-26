@@ -335,7 +335,7 @@ duki : malĝoja
 dul : du (2)  
 dum : vosto  
 duman : fumo  
-duni : tuttera  
+duni : tera  
 dunia : mondo  
 duniobax : mondlingvo  
 dur : daŭro  
@@ -700,8 +700,6 @@ kar : aŭto (ĉaro)
 karate : karateo  
 karbi : proksima  
 karbon : karbono  
-karen : kialo  
-karena : ĉar (pro ke)  
 karibia : Karibio  
 karote : karoto  
 karte : karto  
@@ -926,6 +924,7 @@ mux : muso
 na ce : ĉi tie  
 na de : tie  
 na ke : kie  
+na sabu : ĉar (pro ke)  
 nabe : profetaĵo  
 nade : rivero  
 nafas : spiro  
@@ -994,6 +993,7 @@ pande : pando
 pandunia : pandunia  
 pang : pano  
 panike : paniko  
+panoduni : tuttera  
 pantalon : pantalonoj  
 papagay : papago  
 papay : papajo  
@@ -1100,6 +1100,7 @@ ruterfordium : ruterfordio
 rutin : rutino (kutimo)  
 ##s  
 sa : de (el, pro)  
+sabe : kialo  
 sabun : sapo  
 sabze : legomo  
 safa : purigi  
@@ -1270,7 +1271,8 @@ turkia : Turkio
 u : aŭ  
 uma : ĉevalo  
 un : unu  
-unale : unu la alian  
+unale : unu la alian (reciproke)  
+unali : reciproka  
 unia : uniono  
 uranium : uranio  
 urse : urso  

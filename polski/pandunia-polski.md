@@ -918,9 +918,6 @@ karaoke : karaoke
 karate : karate  
 karbi : bliski  
 karbon : węgiel  
-karen : powód, przyczyna  
-karena : ponieważ, bo  
-karenu : spowodować, powodować  
 karibia : Karaiby  
 karite : masłosz Parka  
 karote : marchew  
@@ -1411,6 +1408,7 @@ muxing : Jupiter
 na ce : tu (tutaj)  
 na de : tam  
 na ke : gdzie  
+na sabu : ponieważ, bo  
 na : przy, z, na, w, u  
 nabe : proroctwo  
 naber : prorok  
@@ -1563,6 +1561,11 @@ paneuropi : paneuropejski
 pang : chleb  
 panike : panika  
 panjabi : pendżabski  
+panodemi : pandemiczny  
+panodemonia : pandemonium  
+panodewia : panteon  
+panodewistia : panteizm  
+panoduni : globalny (światowy)  
 pantalon : spodnie, pantalony, portki  
 papagay : papuga  
 papay : papaja  
@@ -1825,7 +1828,9 @@ rutin : rutyna, nawyk, zwyczaj
 rwanda : Rwanda  
 ##s  
 sa : z, od  
+saba : spowodować, powodować  
 sabate : szabat, szabas  
+sabe : powód, przyczyna  
 sabun : mydło  
 sabze : warzywo  
 sadi : zwykły, zwyczajny, prosty  
@@ -2162,6 +2167,8 @@ uma : koń
 umur : wiek  
 un : jeden (1)  
 una : jednoczyć  
+unale : się (nawzajem, wzajemnie)  
+unali : wzajemny  
 uni stan du amerike : Stany Zjednoczone Ameryki  
 uni : zjednoczony  
 unia : unia  
@@ -2242,7 +2249,7 @@ winil : winyl
 wirus : wirus  
 wirusolojia : wirusologia  
 wizit : odwiedzić, odwiedzać  
-wol : chcieć, pragnąć  
+wola : chcieć, pragnąć  
 wolfe : wilk  
 ##x  
 xakal : szakal  

@@ -747,7 +747,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 > **loka** - zajmować, być zlokalizowanym; w, na
 > **sirka** - otaczać; wokół, dookoła
 > **supra** - przekraczać; nad, ponad
-> **karena** - być spowodowanym przez; przez, ponieważ, bo
+> **sabu** - być spowodowanym przez; przez, ponieważ, bo
 
 #### 10.1.4. Czasowniki bez przyimów
 
@@ -1029,12 +1029,12 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 7. Liczebniki
 8. Przymiotniki
 
-Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **karena**, tutaj jego zasięg obejmuje tylko **yusef** i **sara**. **karena** jest na szczycie, bo łączy dwa zdania podrzędne.
+Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sara**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sara wola darsa pandunia karena ye si bon dunia bax.
+    yusef i sara wola darsa pandunia, sabu ye si bon dunia bax.
 
-                       karena
+                        sabu
                ┌──────────┴──────────┐
               wola                   si
           ┌────┴──────┐           ┌──┴──┐

@@ -918,9 +918,6 @@ karaoke : karaoke
 karate : karate  
 karbi : near (close)  
 karbon : carbon (coal)  
-karen : reason (cause)  
-karena : because  
-karenu : cause  
 karibia : Caribbean  
 karite : shea  
 karote : carrot  
@@ -1411,6 +1408,7 @@ muxing : Jupiter
 na ce : here  
 na de : there  
 na ke : where  
+na sabu : because  
 na : with (by, at, in, on)  
 nabe : prophecy  
 naber : prophet  
@@ -1563,6 +1561,11 @@ paneuropi : pan-European
 pang : bread  
 panike : panic  
 panjabi : Punjabi  
+panodemi : pandemic  
+panodemonia : pandemonium  
+panodewia : pantheon  
+panodewistia : pantheism  
+panoduni : global (concerning the whole world)  
 pantalon : pants (trousers)  
 papagay : parrot (parakeet)  
 papay : papaya  
@@ -1825,7 +1828,9 @@ rutin : routine (habit)
 rwanda : Rwanda  
 ##s  
 sa : from (since, because)  
+saba : cause (be the cause for)  
 sabate : Sabbath  
+sabe : reason (cause)  
 sabun : soap  
 sabze : vegetable  
 sadi : plain (ordinary, unadorned, simple, mere)  
@@ -2244,7 +2249,7 @@ winil : vinyl
 wirus : virus  
 wirusolojia : virology  
 wizit : visit  
-wol : want (desire)  
+wola : want (desire)  
 wolfe : wolf  
 ##x  
 xakal : jackal  

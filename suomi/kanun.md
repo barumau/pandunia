@@ -821,13 +821,13 @@ Sanaluokkien arvojärjestys panduniassa:
 7. Lukusanat
 8. Laatusanat
 
-Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **koz**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **sababu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
+Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **sabu**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **sabu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara wola darsa pandunia sababu ye si bon dunia bax.
+    yusef i sara wola darsa pandunia, sabu ye si bon dunia bax.
 
-                       sababu
+                        sabu
                ┌──────────┴──────────┐
               wola                   si
           ┌────┴──────┐           ┌──┴──┐

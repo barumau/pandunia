@@ -566,7 +566,7 @@ kaverno : gua
 kaŝtano : kastan  
 kaŭĉuko : gom  
 keĉupo : kecape  
-kialo : karen  
+kialo : sabe  
 kiam? : ki zaman  
 kie : na ke  
 kiel (ol) : ka  
@@ -1019,6 +1019,7 @@ rando (orlo) : kenar
 rapideco : rape  
 rapidi : rapi  
 rapidigi : yala  
+reciproka : unali  
 regi : kratia  
 regiono : stan  
 registri : defta  
@@ -1183,6 +1184,7 @@ teo : cay
 teokratio : dewokratia  
 teologio : dewolojia  
 teorio : teoria  
+tera : duni  
 terbio : terbium  
 terorismo : teroristia  
 teroristo : teroriste  
@@ -1227,13 +1229,13 @@ tundro : tundar
 tunelo : tunel  
 Turkio : turkia  
 turo : minare  
-tuttera : duni  
+tuttera : panoduni  
 tuŝi : toca  
 ##u  
 uniono : unia  
 universala : putong  
 unu : un  
-unu la alian : unale  
+unu la alian (reciproke) : unale  
 uranio : uranium  
 urbo : site  
 urso : urse  
@@ -1311,7 +1313,7 @@ zuluo : zulu'
 ĉampiono : campion  
 ĉapelo : tope  
 ĉapitro : babe  
-ĉar (pro ke) : karena  
+ĉar (pro ke) : na sabu  
 ĉarma : kaway  
 ĉarniro (pivoto) : xarnir  
 ĉeestanta (nuna, ekzistanta) : zay  

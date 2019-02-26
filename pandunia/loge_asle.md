@@ -378,7 +378,6 @@ kanun ← ara:(qānūn). tur:kanun. swa:kanuni. hin:क़ानून (qānūn)
 kapa ← tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).  
 kar ← eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī). swa:gari.  
 karbi ← ara:per:urd:(qarīb). swa:karibu.   
-karen ← hin:कारण "kāraṇ". ben:কারণ "karôn". khm:"karanəy". + ind:karena.  
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karte ← deu:Karte. ind:kartu. fra:carte. eng: card. may:kad. zho:卡 (kǎ). jpn: カード (kādo). swa: kadi.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
@@ -627,6 +626,7 @@ ruste ← per:روستا‎ (rustâ). + eng:rustic. por:spa:rustico. fra:rustiq
 rute ← eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:маршрут (maršrut).  
 ##s  
 sa ← rus:с (s). hin: से (~se).  
+sabe ← kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).  
 sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.  
 sabze ← per:urd:(sabzi). tur:sebze. hin:सब्ज़ी (sabzī). ben:সবজি (sôbji).  
 sadi ← tur:sade. per:(sāde). hin:सादा (sādā).  
@@ -752,6 +752,7 @@ wida ← rus:видеть "videt". spa:por:ver. fra:voir. pol:widzieć. cze:vid�
 wildi ← deu:eng:ned:wild. sve:vild.  
 wile ← eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).  
 win ← eng:win. deu:gewinnen.  
+wola ← deu:wollen. ita:volere. fra:vouloir.  
 wolfe ← deu:ned:eng:wolf. rus:волк (volk).  
 ##x  
 xake ← ben:শাখা "śakha". hin:शाखा "śākhā". urd:"śāx". per:"šax".  

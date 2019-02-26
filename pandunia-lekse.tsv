@@ -358,7 +358,7 @@ tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:per:(daftar).			de
 			deka	:	cover (conceal)	kovri	peittää	przykryć, przykrywać, ukryć, ukrywać					
 hin:ढकना (dhaknā). deu:decken. eng:deck.			deke	:	cover (lid, cap, deck)	kovrilo	peite (kansi)	pokrycie; pokrywa, wieko, dekiel; pokład					
 			dekula	:	uncover (reveal)		paljastaa	odsłonić, odsłaniać					
-eng:spa:demo-. fra:démo-. rus:демо- (demo-).			deme	:	people (society)	popolo	kansa	lud, społeczeństwo					
+eng:spa:demo-. fra:démo-. rus:демо- (demo-).			deme	:	people (society)	popolo	väestö (kansa)	lud, społeczeństwo					
 			demografia	:	demography	demografio	väestötiede (demografia)	demografia					
 			demokrati	:	democratic	demokratia	demokraattinen	demokratyczny					
 eng:democracy. rus:демократия "demokratiya". spa:democracia. fra: por: deu: ara:"dīmukratiya". swa:demokrasia.			demokratia	:	democracy	demokratio	demokratia	demokracja					
@@ -417,7 +417,7 @@ kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.			dul	:	tw
 			dulistia	:	dualism		dualismi	dualizm					
 			dum	:	tail	vosto	häntä	ogon					
 hin:धूआँ "dhuã". tur:duman. rus:дым "dym". kan:"dhūma". ben:ধোঁয়া "dhõẇa".			duman	:	smoke	fumo	savu	dym					
-			duni	:	global	tuttera	globaali	globalny					
+			duni	:	global	tera	maailman-	globalny					
 ind:swa:dunia. ara:"dunyā". hindi:दुनिया "duniyā". hau:duniya.			dunia	:	world	mondo	maailma	świat					
 			duniobax	:	world language	mondlingvo	maailmankieli	język świata, język ogólnoświatowy					
 eng:duration. fra:durée. spa:por:durar. deu:dauer.			dur	:	duration	daŭro	kesto (kestoaika)	trwanie					
@@ -908,9 +908,6 @@ eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī)
 			karate	:	karate	karateo	karate	karate					
 ara:per:urd:(qarīb). swa:karibu. 			karbi	:	near (close)	proksima	läheinen	bliski					
 	made	C	karbon	:	carbon (coal)	karbono	hiili	węgiel					
-hin:कारण "kāraṇ". ben:কারণ "karôn". khm:"karanəy". + ind:karena.			karen	:	reason (cause)	kialo	syy	powód, przyczyna					
-			karena	:	because	ĉar (pro ke)	aiheutua (koska, syystä, takia)	ponieważ, bo					
-			karenu	:	cause		aiheuttaa	spowodować, powodować					
 	aria		karibia	:	Caribbean	Karibio	Karibia	Karaiby					
 wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.			karite	:	shea		voipuu	masłosz Parka					
 			karote	:	carrot	karoto	porkkana	marchew					
@@ -1399,6 +1396,7 @@ swa:na. lin:kon:na. rus:на (na).			na	:	with (by, at, in, on)		kanssa (luona, 
 			na ce	:	here	ĉi tie	täällä	tu (tutaj)					
 			na de	:	there	tie	tuolla	tam					
 			na ke	:	where	kie	missä?	gdzie					
+			na sabu	:	because	ĉar (pro ke)	aiheutua (koska, syystä, takia)	ponieważ, bo					
 			nabe	:	prophecy	profetaĵo	profetia	proroctwo					
 ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. tur:nebi.			naber	:	prophet		profeetta	prorok					
 rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.			naciste	:	Nazi		natsi	nazista					
@@ -1548,6 +1546,11 @@ deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:p
 tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.			pang	:	bread	pano	leipä	chleb					
 			panike	:	panic	paniko	hätä (paniikki)	panika					
 	nas		panjabi	:	Punjabi		pandžabi (eräs intialainen kieli)	pendżabski					
+			panodemi	:	pandemic		pandeeminen (koko väestöä koskeva)	pandemiczny					
+			panodemonia	:	pandemonium		pandemonio	pandemonium					
+			panodewia	:	pantheon		pantheon	panteon					
+			panodewistia	:	pantheism		monijumalisuus (panteismi)	panteizm					
+			panoduni	:	global (concerning the whole world)	tuttera	maailmanlaajuinen (globaali)	globalny (światowy)					
 			pantalon	:	pants (trousers)	pantalonoj	housut	spodnie, pantalony, portki					
 ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).			papagay	:	parrot (parakeet)	papago	papukaija	papuga			鹉鹦	попугай	perroquet
 			papay	:	papaya	papajo	papaija	papaja					
@@ -1808,7 +1811,9 @@ eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:мар
 			rutin	:	routine (habit)	rutino (kutimo)	tapa (rutiini)	rutyna, nawyk, zwyczaj					
 	dex	RW	rwanda	:	Rwanda		Ruanda	Rwanda					
 rus:с (s). hin: से (~se).			sa	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od					
+			saba	:	cause (be the cause for)		aiheuttaa	spowodować, powodować					
 			sabate	:	Sabbath			szabat, szabas					
+kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).			sabe	:	reason (cause)	kialo	syy	powód, przyczyna					
 ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.			sabun	:	soap	sapo	saippua	mydło					
 per:urd:(sabzi). tur:sebze. hin:सब्ज़ी (sabzī). ben:সবজি (sôbji).			sabze	:	vegetable	legomo	kasvis	warzywo			蔬菜		
 tur:sade. per:(sāde). hin:सादा (sādā).			sadi	:	plain (ordinary, unadorned, simple, mere)		koruton (tavanomainen, pelkkä)	zwykły, zwyczajny, prosty					
@@ -2143,8 +2148,8 @@ jpn:uma. zho:"mǎ". kor:"mal".			uma	:	horse	ĉevalo	hevonen	koń
 ara:(umr). ind:umur. swa:umri. hin:urd:(umar).			umur	:	age		ikä	wiek					
 			un	:	one (1)	unu	yksi	jeden (1)					
 			una	:	unite		yhdistää	jednoczyć					
-eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).			unale	:	each other (one another, mutually)	unu la alian	toisiaan (keskenään)						
-			unali	:	mutual		molemminpuolinen (keskinäinen)						
+eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).			unale	:	each other (one another, mutually)	unu la alian (reciproke)	toisiaan (keskenään)	się (nawzajem, wzajemnie)					
+			unali	:	mutual	reciproka	molemminpuolinen (keskinäinen)	wzajemny					
 			uni	:	united		yhtenäinen	zjednoczony					
 			uni stan du amerike	:	United States of America		Amerikan Yhdysvallat	Stany Zjednoczone Ameryki					
 			unia	:	union	uniono	liitto (unioni)	unia					
@@ -2223,7 +2228,7 @@ eng:win. deu:gewinnen.			win	:	victory (win)	venko	voitto	zwycięstwo, wygrana
 			wirus	:	virus		virus	wirus					virus
 			wirusolojia	:	virology		virologia	wirusologia					
 			wizit	:	visit		vierailu (visiitti)	odwiedzić, odwiedzać					
-			wol	:	want (desire)		haluta	chcieć, pragnąć					
+deu:wollen. ita:volere. fra:vouloir.			wola	:	want (desire)		haluta	chcieć, pragnąć					
 deu:ned:eng:wolf. rus:волк (volk).			wolfe	:	wolf	lupo	susi (hukka)	wilk					loup
 			xakal	:	jackal		šakaali	szakal					
 ben:শাখা "śakha". hin:शाखा "śākhā". urd:"śāx". per:"šax".			xake	:	branch (bough)	branĉo	oksa (haara)	gałąź, konar					
