@@ -603,7 +603,7 @@ I talk to you.
 **mimen loga to unale.**
 We talk to each other.
 
-**se loga "cat" na ke yang na pandunia?**
+**se loga "cat" na ki yang na pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" si ke na pandunia?**
@@ -623,7 +623,7 @@ Please speak louder.
 **mi auda musike.**
 I listen to music.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 What kind of music do you listen to?
 
 ### wida <small>to see</small>
@@ -916,7 +916,7 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**ye si ke yang?**
+**ye si ki yang?**
 What is it like?
 
 **eska ye nowi?**

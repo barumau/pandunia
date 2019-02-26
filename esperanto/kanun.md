@@ -621,7 +621,7 @@ Montrovortoj povas roli kiel Modifovortoj.
 > **ke xe?** - Kio? (Kiu afero?)  
 > **ke yan?** - Kiu? (Kiu persono?)  
 > **ke sat?** - Kiam? (Kiu tempo?)  
-> **ke yang?** - Kiel? (Kiu maniero?)  
+> **ki yang?** - Kiel? (Kiu maniero?)  
 > **ke koz?** - Kial? (Kiu kaŭzo?)
 
 

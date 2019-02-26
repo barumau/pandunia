@@ -48,7 +48,7 @@ These determiners and category nouns can be combined into this table of correlat
 |-------------|:-----------------------------:|:-----------------------------:|:----------------------------:|:-------------------------------:|:----------------------------:|
 | Person      | **ke ren**<br>(who)           | **sa ren**<br>(that person)   | **yo ren**<br>(someone)       | **mei ren**<br>(everyone)      | **nul ren**<br>(no-one)      |
 | Thing       | **ke xe**<br>(what)           | **sa xe**<br>(that thing)     | **yo xe**<br>(something)      | **mei xe**<br>(everything)     | **nul xe**<br>(nothing)      |
-| Kind        | **ke yang**<br>(what kind of) | **sa yang**<br>(that kind of) | **yo yang**<br>(some kind of) | **mei yang**<br>(all kinds of) | **nul yang**<br>(no kind of) |
+| Kind        | **ki yang**<br>(what kind of) | **sa yang**<br>(that kind of) | **yo yang**<br>(some kind of) | **mei yang**<br>(all kinds of) | **nul yang**<br>(no kind of) |
 | Place       | **ke lok**<br>(where)         | **sa lok**<br>(there)         | **yo lok**<br>(somewhere)     | **mei lok**<br>(everywhere)    | **nul lok**<br>(nowhere)     |
 | Time        | **ke sat**<br>(when)          | **sa sat**<br>(that time)     | **yo sat**<br>(sometime)      | **mei sat**<br>(all the time)  | **nul sat**<br>(never)       |
 

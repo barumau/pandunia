@@ -618,7 +618,7 @@ Mówię do ciebie.
 **mimen loga to unale.**
 Mówimy do siebie.
 
-**se loga "kot" na ke yang na pandunia?**
+**se loga "kot" na ki yang na pandunia?**
 Jak się mówi "kot" w Panduni?
 
 **"kot" si ke na pandunia?**
@@ -640,7 +640,7 @@ Proszę, mów głośniej.
 **mi auda musike.**
 Słucham muzyki.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 Jakiego rodzaju muzyki słuchasz?
 
 

@@ -570,7 +570,7 @@ Mi parolas al vi.
 **mimen loga to unale.**
 Ni parolas unu al alia.
 
-**se loga "kato" na ke yang na pandunia?**
+**se loga "kato" na ki yang na pandunia?**
 Kiel oni diras "kato" pandunie?
 
 **"kato" si ke na pandunia?**
@@ -590,7 +590,7 @@ Bonvolu paroli pli forte.
 **mi auda musike.**
 Mi aŭskultas muzikon.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 Kian muzikon vi aŭskultas?
 
 ### wida <small>vidi, rigardi</small>

@@ -595,7 +595,7 @@ Te hablé.
 **mimen loga to unale.**
 Hablamos entre nosotros.
 
-**se loga "gato" na ke yang na pandunia?**
+**se loga "gato" na ki yang na pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
 **"gato" si ke na pandunia?**
@@ -615,7 +615,7 @@ Por favor, hablar más fuerte.
 **mi auda musike.**
 Escucho música.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 ¿Qué clase de música escuchas?
 
 ### wida <small>ver</small>
@@ -837,7 +837,7 @@ Voy a comprar una cerveza.
 
 ### yang <small>para referirse al tipo</small>
 
-**ye si ke yang?**
+**ye si ki yang?**
 ¿Cómo es?
 
 **eska ye nowi?**

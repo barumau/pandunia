@@ -647,7 +647,7 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mimen loga to unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loga "chat" na ke yang na pandunia?**
+**se loga "chat" na ki yang na pandunia?**
 Comment se dit « chat » en pandunia ?
 
 **"chat" si ke na pandunia?**
@@ -668,7 +668,7 @@ Parlez plus fort, s’il vous plait.
 **mi auda musike.**
 J’écoute de la musique.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -901,7 +901,7 @@ Je vais acheter une bière.
 
 ### yang <small>type, genre, sorte</small>
 
-**ye si ke yang?**
+**ye si ki yang?**
 Ça ressemble à quoi ?
 
 **eska ye nowi?**

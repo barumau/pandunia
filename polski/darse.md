@@ -362,7 +362,7 @@ Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi
 > **ye si ke?** = Cot to jest? / Kim on/ona jest?
 > **ke ren lai?** = Kto przychodzi? (**ren** = osoba)  
 > **ke zaman tu nyama?** = Kiedy jesz? (**zaman** = czas)  
-> **ke yang dansa?** = Jak tańczyć? (**yang** = sposób, styl)
+> **ki yang dansa?** = Jak tańczyć? (**yang** = sposób, styl)
 
 W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
 

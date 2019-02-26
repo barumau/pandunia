@@ -340,7 +340,7 @@ yod	йод
 kabin	Кабина
 ka	как
 bi yang de	Как (в стиле)
-ke yang?	как?
+ki yang?	как?
 kakau	какао
 kalsium	кальций
 kambudia	Камбоджа

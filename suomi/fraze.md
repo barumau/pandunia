@@ -640,7 +640,7 @@ Minä puhun sinulle.
 **mimen loga to unale.**
 Me puhumme toisillemme.
 
-**se loga "kissa" na ke yang na pandunia?**
+**se loga "kissa" na ki yang na pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
 **"kissa" si ke na pandunia?**
@@ -661,7 +661,7 @@ Puhuisitko kovempaa.
 **mi auda musike.**
 Minä kuuntelen musiikkia.
 
-**tu auda ke yang da musike?**
+**tu auda ki yang da musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
