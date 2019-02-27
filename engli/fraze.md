@@ -637,7 +637,7 @@ See you again!
 **wida tu ming den!**
 See you tomorrow!
 
-**mi wida ye yer den.**
+**mi wida ye predi den.**
 I saw him/her yesterday.
 
 ### mena <small>to mean</small>
@@ -928,30 +928,31 @@ Which is better?
 **ce si maxim bon (ze pan).**
 This is the best (of all).
 
-****
+**ye kosta ke?**
 How much does it cost?  
-****
+**nol.**
 Nothing.  
-****
+**ye kosta lil / pol.**
 It is cheap / expensive.  
 
-****
+**mimen bitu laya.**
 We are being called.
 
-****
+**mi serca tualete.**
 I'm looking for the toilet.
 
 ****
 Go there / forward / back / left / right.
+
 ****
 Come here / back / to us.
 
 **mi darsa pandunia.**
 I study Pandunia.
 
-****
+**xowa ye to mi ze leksobuke!**
 Show me in the dictionary!
-****
+**mi no yada.**
 I don't remember.
 
 ****
@@ -963,7 +964,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**tot si okey.**
+**tote si okey.**
 Everything is alright.
 
 ****
@@ -972,16 +973,16 @@ Cheers!
 ****
 Of course!
 
-****
+**eska tu suku ...?**
 Do you like ...?
 
 ****
 I feel alright.
 
-****
+**bita sida na ce!**
 Please, sit here!
 
-****
+**mi suku stasa.**
 I rather stand.
 
 ****
@@ -990,7 +991,7 @@ With pleasure!
 **parte kaixu na ke sat?**
 When does the party begin?
 
-****
+**tu sahi.**
 You are right.
 
 ****

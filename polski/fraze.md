@@ -656,7 +656,7 @@ Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 **wida tu ming den!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**mi wida ye yer den.**
+**mi wida ye predi den.**
 Widziałem go/ją wczoraj.
 
 

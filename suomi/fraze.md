@@ -677,7 +677,7 @@ Nähdään myöhemmin!
 **wida tu ming den!**
 Nähdään huomenna!
 
-**mi wida ye yer den.**
+**mi wida ye predi den.**
 Minä näin hänet eilen.
 
 

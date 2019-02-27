@@ -604,7 +604,7 @@ Mi ĝojas vidi vin!
 **wida tu ming den!**
 Ĝis la revido morgaŭ!
 
-**mi wida ye yer den.**
+**mi wida ye predi den.**
 Mi vidin lin/ŝin hieraŭ.
 
 ### mena <small>signifi</small>

@@ -629,7 +629,7 @@ Encantado de verte.
 **wida tu badi den!**
 ¡Te veo mañana!
 
-**mi wida ye yer den.**
+**mi wida ye predi den.**
 Lo/a vi a él/ella ayer.
 
 ### mena <small>significar</small>
