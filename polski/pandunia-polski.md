@@ -1033,7 +1033,7 @@ konus : szyszka
 kopa : kopiować, replikować  
 kope : kopia, replika  
 kopernikium : kopernik  
-kopi hake : prawa autorskie  
+kopohake : prawa autorskie  
 kor : chór  
 korne : róg  
 koron : korona  
@@ -1444,7 +1444,6 @@ nasistia : nacjonalizm
 natre : sód  
 nauru : Nauru  
 nawati : nahuatl  
-nawatli : nahuatl  
 nederlandi antilia : Antyle Holenderskie  
 nederlandia : Holandia (Królestwo Niderlandów)  
 nega : odmówić (odrzucić)  
@@ -2221,8 +2220,8 @@ warke : kartka (dokument)
 wase : oaza  
 wate : wat  
 waw : wow!, łoł!, jej!  
-wax-maxin : pralka  
 waxa : prać, umyć, myć  
+waxomaxin : pralka  
 way dexi : zagraniczny  
 way dexia : zagranica  
 way : zewnętrzny  
@@ -2252,7 +2251,7 @@ wing : skrzydło
 winil : winyl  
 wirus : wirus  
 wirusolojia : wirusologia  
-wizit : odwiedzić, odwiedzać  
+wizita : odwiedzić, odwiedzać  
 wola : chcieć, pragnąć  
 wolfe : wilk  
 ##x  
@@ -2317,9 +2316,9 @@ ye : on, ona, ono
 yehudi : żydowski  
 yehudistia : judaizm  
 yemen : oni  
-yen suy : łza  
 yen : oko  
-yesu : Jezus  
+yenosuy : łza  
+yesus : Jezus  
 yeze : kokos  
 yode : jod; jodyna  
 yoga : uprawiać jogę  

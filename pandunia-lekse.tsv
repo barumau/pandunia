@@ -1,4 +1,4 @@
-lekse asle	klase		pandunia		engli	esperanti	suomi	polski	espani	portugal	putonghan	rusi	fransi
+lekse asle	klase		pandunia		engli	esperanti	suomi	polski	espani	portugal	putong cini	rusi	fransi
 			-a	:	suffix for verbs with SVO word order	-i (-igi)	pääte: SVO-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania SVO					
 			-e	:	suffix for derived nouns	-o (-aĵo)	pääte: substantiivi	przyrostek dla (wyniku) działania					
 			-em	:	suffix for a fundamental unit in linguistics	-er	pääte: pienin erottuva yksikkö kielitieteessä	przyrostek dla jednostki podstawowej w językoznastwie					
@@ -659,7 +659,7 @@ rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. k
 			guste	:	taste (flavor)	gusto	maku	smak					
 			gustu ka	:	taste like	gusti kiel	maistua	smakować jak					
 zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).			guy	:	ogre (troll, goblin)	ogro (trolo)	peikko	ogr (trol, goblin)					
-ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.			habar	:	news	novaĵoj	uutinen	wiadomość, nius					
+ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.			habar	:	news	novaĵoj	uutinen	wiadomość, nius				новости	
 			habarobaw	:	newspaper (gazette)	gazeto	sanomalehti	gazeta					
 ara:(ḥafiẓa). per:urd:(hāfiz).			hafiza	:	preserve (conserve, retain)		säilyttää (varjella)	zachować, zakonserwować, zachować, utrzymać					
 			hafizer	:	keeper (preserver)		säilyttäjä	przechowawca, kustosz, opiekun					
@@ -670,7 +670,7 @@ ara:(ḥafiẓa). per:urd:(hāfiz).			hafiza	:	preserve (conserve, retain)		säi
 ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.			hake	:	right (justification, privilege)	rajto	oikeus (oikeutus)	prawo, przywilej					
 ara:"qāḍin". hau:alƙali. per:"qāzi". eng:qadi. swa:kadhi.			hakim	:	judgment (sentence)	juĝo	tuomio	wyrok					
 			hakimer	:	judge (referee)	juĝisto	tuomari	sędzia					
-ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). per:(xāli). jpn:空 (kara).			hali	:	empty	malplena	tyhjä	pusty					
+ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). per:(xāli). jpn:空 (kara).			hali	:	empty	malplena	tyhjä	pusty				пустой	
 			halif	:	caliph	kalifo	kalifi	kalif					
 			halifia	:	caliphate		kalifaatti	kalifat					
 deu:hallo. eng:hello. zho:哈啰 "hāluō".			halo'	:	hello (hi)	saluton!	hei (haloo)	halo, cześć					
@@ -696,7 +696,7 @@ per:urd:(havā). tur:hava. ind:hawa. som:hawo. swa:hewa. hin:हवा (havā). 
 			hawobar	:	atmospheric pressure		ilmanpaine	ciśnienie atmosferyczne					
 			hawobarometer	:	barometer		ilmapuntari (ilmanpainemittari, barometri)	barometr					
 zho:还 "hai".			hay	:	still (yet)	ankoraŭ	vielä (yhä)	wciąż, nadal					
-			hazin	:	treasure (treasury)	trezoro	aarre	skarb; skrabiec					
+			hazin	:	treasure (treasury)	trezoro	aarre	skarb; skrabiec				сокровище (казна)	
 fra:por:hein. jpn:e.			he	:	huh? (pardon?)	ĉu?	häh?	hę?, co?, pardon?					
 			helen	:	Greek (Hellenic)	greka	kreikkalainen	gracki, helleński; Grek					
 	dex	GR	helenia	:	Greece	Grekio	Kreikka	Grecja					
@@ -1023,8 +1023,8 @@ spa:por:contra. fra:contre. eng:counter-. gre:κόντρα (kontra).	coverb		kon
 			kopa	:	copy (replicate)		kopioida	kopiować, replikować					
 eng:copy. zho:拷貝 (kǎobèi).			kope	:	copy (replica)	kopio	kopio	kopia, replika					
 	made	Cn	kopernikium	:	copernicium	kopernicio	kopernikium	kopernik					
-			kopi hake	:	copyright		kopiointioikeus (tekijänoikeus)	prawa autorskie					
-spa:coro. tur:koro. eng:chorus. hin:कोरस (koras). ara:(korāl).			kor	:	choir (chorus)		kuoro	chór					
+			kopohake	:	copyright		kopiointioikeus (tekijänoikeus)	prawa autorskie					
+spa:coro. tur:koro. eng:chorus. hin:कोरस (koras). ara:(korāl).			kor	:	choir (chorus)		kuoro	chór				хор	
 fra:corne. por:corno. eng:horn. ara:(qarn).			korne	:	horn	korno	sarvi	róg					
 fra:couronne. eng:crown. spa:corona. jpn:クラウン (kuraun). rus:корона (korona). por:coroa.			koron	:	crown	krono	kruunu	korona					
 			korta	:	shorten	mallongigi	lyhentää	skrócić, skracać					
@@ -1432,7 +1432,6 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 	made	Na	natre	:	sodium	natrio	natrium	sód					
 	dex	NR	nauru	:	Nauru		Nauru	Nauru					
 			nawati	:	Nahuatl (Nahua)	naūatla	nahuatli	nahuatl					
-	dex		nawatli	:	Nahuatl		nahuatli	nahuatl					
 	dex	AN	nederlandi antilia	:	Netherlands Antilles		Alankomaiden Antillit	Antyle Holenderskie					
 	dex	NL	nederlandia	:	Netherlands		Alankomaat (Hollanti)	Holandia (Królestwo Niderlandów)					
 spa:por:negar. eng:negate.			nega	:	refuse (deny, decline)		kieltää	odmówić (odrzucić)					
@@ -1821,7 +1820,7 @@ eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:мар
 	made	Rf	ruterfordium	:	rutherfordium	ruterfordio		rutherford					
 			rutin	:	routine (habit)	rutino (kutimo)	tapa (rutiini)	rutyna, nawyk, zwyczaj					
 	dex	RW	rwanda	:	Rwanda		Ruanda	Rwanda					
-rus:с (s). hin: से (~se).			sa	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od					
+rus:с (s). hin: से (~se).			sa	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od				из (от)	
 			saba	:	cause (be the cause for)		aiheuttaa	spowodować, powodować					
 			sabate	:	Sabbath			szabat, szabas					
 kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).			sabe	:	reason (cause)	kialo	syy	powód, przyczyna					
@@ -2201,9 +2200,9 @@ ind:waris. ara:(wariþ). swa:urithi. tur:varis,miras.			waris	:	heritage (legacy
 ara:(waraqa). hau:warƙa. tur:varak. per:(varaqe). taj:варақа (varaqa). swa:waraka. + mya:အရွက် (arwak).			warke	:	leaf (sheet)		lehti (arkki, levy)	kartka (dokument)					
 ara:"wāḥa". tur:vaha. per:"vāhe". spa:oasis.			wase	:	oasis	oazo	keidas	oaza					
 			wate	:	watt	vato	watti	wat					
-zho:哇 "wā". eng:wow.			waw	:	wow! (gee!)	ŭaŭ!	oho (vau)	wow!, łoł!, jej!					
-			wax-maxin	:	washing machine	lavmaŝino	pesukone	pralka					
-eng:wash. deu:waschen. zho:洗 "xǐ".			waxa	:	wash	lavi	pestä	prać, umyć, myć					
+zho:哇 "wā". eng:wow.			waw	:	wow! (gee!)	ŭaŭ!	oho (vau)	wow!, łoł!, jej!				вау!	
+eng:wash. deu:waschen. zho:洗 "xǐ".			waxa	:	wash	lavi	pestä	prać, umyć, myć				мыть	
+			waxomaxin	:	washing machine	lavmaŝino	pesukone	pralka				стиральная машина	
 			way	:	outer (external)	ekstera	ulko- (ulkoinen)	zewnętrzny					
 hin:"videśī". tel:"vidēśi". zho:外国的 "wàiguóde".			way dexi	:	foreign		ulkomaalainen	zagraniczny					
 			way dexia	:	foreign country	fremda lando	ulkomaa	zagranica					
@@ -2231,9 +2230,11 @@ eng:win. deu:gewinnen.			win	:	victory (win)	venko	voitto	zwycięstwo, wygrana
 			wina	:	win (defeat)	venki	voittaa (kukistaa)	zwyciężyć, wygrać					
 			wing	:	wing		siipi	skrzydło					
 			winil	:	vinyl		vinyyli	winyl					
-			wirus	:	virus		virus	wirus					virus
-			wirusolojia	:	virology		virologia	wirusologia					
-			wizit	:	visit		vierailu (visiitti)	odwiedzić, odwiedzać					
+eng:virus. rus:вирус (virus).			wirus	:	virus		virus	wirus				вирус	virus
+pol:wirusologia. rus:вирусология (virusologiya).			wirusolojia	:	virology		virologia	wirusologia				вирусология	
+			wizita	:	visit	vizito	vierailla	odwiedzić, odwiedzać					
+			wizite	:	visitation (visit)	viziti	vierailu (visiitti)						
+			wiziter	:	visitor (guest)	vizitanto	vierailija (vieras)						
 deu:wollen. ita:volere. fra:vouloir.			wola	:	want (desire)		haluta	chcieć, pragnąć					
 deu:ned:eng:wolf. rus:волк (volk).			wolfe	:	wolf	lupo	susi (hukka)	wilk					loup
 			xakal	:	jackal		šakaali	szakal					
@@ -2279,14 +2280,14 @@ zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).			xule	:	repair (f
 zho:术 (shù). yue:術 (seot6). jpn:術 (jutsu). kor:술 (sul).			xute	:	skill (art, competence)		taito	umiejętność (kompetencja)			技术		
 			xuti	:	skillful		taitava	umiejętny (wprawny)					
 zho:休息 (xiūxí). kor:휴식 (hyusig).			xuxe	:	rest (relief)		lepo	zostawić, zostawiać					
-			yada	:	remember (recall)		muistaa	pamiętać					
+			yada	:	remember (recall)		muistaa	pamiętać				память	
 hin:याद (yād). guj:યાદ (yād). per:urd:(yād). aze:yad. tkm: ýaad.			yade	:	memory (recollection)		muisti	pamięć					
 			yaga	:	estimate (approximate)		arvioida	oszacować, szacować, przybliżyć, przybliżać					
 kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē". 			yagi	:	about (approximately)		noin (arviolta, suunnilleen)	około; przybliżony					
 eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).			yake	:	yak		jakki	jak (zwierzę)					
 hau:yaƙini.swa:yakini.			yakin	:	certain (sure)	certa	varma (tosi)	pewny					
 			yala	:	hurry (hasten)	rapidigi	kiirehtiä	popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać					
-			yaman	:	Yemen	Jemeno	Jemen	Jemen					
+			yaman	:	Yemen	Jemeno	Jemen	Jemen				Йемен	
 zho: 样 "yàng". tha: อย่าง "yàang". khm: យ៉ាង "yaang".			yang	:	kind (type, style)	speco (tipo, stilo)	laji (tyyppi, tyyli)	rodzaj, typ, styl					
 			yani	:	that is (in other words, i.e.)	tio estas (alivorte)	eli (toisin sanoen)	innymi słowy					
 			yasen	:	ash tree			jesion					
@@ -2297,29 +2298,30 @@ ara:per:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).			yatim	:	orp
 			yehudistia	:	Judaism		juutalaisuus	judaizm					
 			yemen	:	they	ili	he	oni					
 zho: 眼 (yǎn). ara: عين‏‎ (ʿen).			yen	:	eye	okulo	silmä	oko					
-kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.			yen suy	:	tear drop		kyynel	łza					
-			yesu	:	Jesus	Jesuo	Jeesus	Jezus					Jésus
+kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.			yenosuy	:	tear drop		kyynel	łza					
+			yesus	:	Jesus	Jesuo	Jeesus	Jezus				Иисус	Jésus
 zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).			yeze	:	coco	kokoso	kookos	kokos					
-			yode	:	iodine		jodi	jod; jodyna					
+			yode	:	iodine		jodi	jod; jodyna				йод	
 			yoga	:	do yoga		joogata	uprawiać jogę					
-			yoge	:	yoga	jogo	jooga	joga					
+			yoge	:	yoga	jogo	jooga	joga				йога	
 			yohan feste	:	Saint John's Day		juhannus	dzień świętego Jana	día de San Juan				
 			yone	:	vagina	vagino	vagina	wagina					
 			yosay	:	fortress (stronghold)		linnake	forteca, twierdza					
 tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).			yote	:	drop (droplet)		pisara (tippa)	kropla					
-			yumor	:	humor		huumori	humor					
-			yumori	:	humorous (comical, funny)		koominen (hauska)	humorystyczny, śmieszny, zabawny, komiczny					
+rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).			yumor	:	humor	humuro	huumori	humor				юмор	
+			yumori	:	humorous (comical, funny)	humura	koominen (hauska)	humorystyczny, śmieszny, zabawny, komiczny					
+			yumoriste	:	humorist	humuristo	humoristi						
 			yungam	:	brave (courageous)		rohkea (urhea)	odważny, brawurowy					
 	made	Yb	yuterbium	:	ytterbium	iterbio	ytterbium	iterb					
 	made	Y	yutrium	:	yttrium	itrio	yttrium	itr					
-			zafran	:	saffron	safrano	sahrami	szafran					
+			zafran	:	saffron	safrano	sahrami	szafran				шафран	
 ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).			zaitun	:	olive	olivo	oliivi	oliwka					
 tur:zalim. urd:hin:(zālim). per:(zālem). swa:dhalimu.			zalim	:	mean (cruel)		ilkeä (julma)	złośliwy, okrutny					
-tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:			zaman	:	time (moment)		aika (hetki, kotva)	czas, moment					
-	dex	ZM	zambia	:	Zambia	Zambio	Sambia	Zambia					
+tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:			zaman	:	time (moment)		aika (hetki, kotva)	czas, moment				период (эпоха) 	
+	dex	ZM	zambia	:	Zambia	Zambio	Sambia	Zambia				Замбия	
 ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).			zar	:	hazard (chance)	hazardo	sattuma (onni)	niebezpieczeństwo, ryzyko, szansa					
-			zardux	:	Zoroaster	Zoroastro	Zarathustra	Zaratusztra					Zoroastre
-			zarduxiste	:	Zoroastrian	zoroastristo	zarathustralainen	zaratrustianin					zoroastrien
+			zardux	:	Zoroaster	Zoroastro	Zarathustra	Zaratusztra				Зороастр	Zoroastre
+			zarduxiste	:	Zoroastrian	zoroastristo	zarathustralainen	zaratrustianin				зороастризм	zoroastrien
 			zarduxistia	:	Zoroastrianism	zoroastrismo	zarathustralaisuus	zaratusztrianizm					zoroastrisme
 			zari	:	random	hazarda	sattumanvarainen	losowy					
 zho:在 (zài). jpn:在 (zai).			zay	:	present (current, existing)	ĉeestanta (nuna, ekzistanta)	kuluva (tämänhetkinen)	obecny, teraźniejszy, aktualny, bieżący, współczesny					
@@ -2334,16 +2336,16 @@ swa:-ziba.			ziba	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać
 			zibula	:	unplug (uncork)		korkata	odetkać, odtykać					
 			zigzage	:	zigzag		siksakki	zygzag					
 ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).			zikur	:	ziggurat		zikkurat	ziggurat					
-	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe					
+	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe				Зимбабве	
 			zine	:	adultery (infidelity)	malfideleco	haureus	zdrada małżeńska, cudzołóstwo					
-	made	Zn	zinke	:	zinc	zinko	sinkki	cynk					
+	made	Zn	zinke	:	zinc	zinko	sinkki	cynk				цинк	
 			zipa	:	zip up		sulkea vetoketjulla	zamknąć zamkiem błyskawicznym					
 			ziper	:	zipper		vetoketju	zamek błyskawiczny					
-ben:জিরা "zīra". hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. per:(zire). zho:孜然 (zīrán).			ziran	:	cumin	kumino	kumina	kumin, kmin					
+ben:জিরা "zīra". hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. per:(zire). zho:孜然 (zīrán).			ziran	:	cumin	kumino	kumina	kumin, kmin				тмин	
 	made	Zr	zirkonium	:	zirconium	zirkonio	zirkonium	cyrkon					
 zho:zizi eng:sizzle			ziza	:	sizzle		sihistä	skwierczeć					
 			zombe	:	zombie		zombi	zombie, zombi					zombi
-ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	:	belt (zone)	zono	vyö	pas, strefa					
+ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	:	belt (zone)	zono	vyö	pas, strefa				пояс (зона)	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar					
-			zulu'	:	Zulu	zuluo	zulu	zulu					zoulou
-ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd					émeraude
+			zulu'	:	Zulu	zuluo	zulu	zulu				зулус	zoulou
+ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd				изумруд	émeraude

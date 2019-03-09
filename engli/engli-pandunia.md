@@ -475,7 +475,7 @@ copper : kuper
 copper : kuper  
 copy (replica) : kope  
 copy (replicate) : kopa  
-copyright : kopi hake  
+copyright : kopohake  
 corn (maize) : mais  
 corner (angle) : kon  
 correct (make right) : saha  
@@ -966,6 +966,7 @@ humanist : insaniste
 humanistic : insanisti  
 hummus : humus sos  
 humor : yumor  
+humorist : yumoriste  
 humorous (comical, funny) : yumori  
 hundred (##) : hon  
 Hungary : madyar  
@@ -1041,7 +1042,7 @@ jasmine : malike
 jazz : jaze  
 jealous : jelos  
 Jersey : jersia  
-Jesus : yesu  
+Jesus : yesus  
 Jewish : yehudi  
 joint (league) : lige  
 joke : joke  
@@ -1355,7 +1356,6 @@ Myanmar (Burma) : bama
 myth (divine story) : dewi sage  
 ##n  
 Nahuatl (Nahua) : nawati  
-Nahuatl : nawatli  
 nail (fingernail) : nahun  
 nail (spike) : ding  
 naked (bare) : nudi  
@@ -2087,7 +2087,7 @@ tea cup : cayokupe
 tea house : cayeria  
 teacher : darsogur  
 team : tim  
-tear drop : yen suy  
+tear drop : yenosuy  
 technetium : teknetium  
 technique (technology) : tekne  
 technocracy : teknokratia  
@@ -2261,7 +2261,9 @@ vinyl : winil
 Virgin Islands, US : usameriki virjin nesia  
 virology : wirusolojia  
 virus : wirus  
-visit : wizit  
+visit : wizita  
+visitation (visit) : wizite  
+visitor (guest) : wiziter  
 visual field (field of vision) : widomaidan  
 vocabulary (lexicon) : leksia  
 volt (V) : volte  
@@ -2277,7 +2279,7 @@ want (desire) : wola
 warm : garmi  
 warrior (fighter) : jenger  
 wash : waxa  
-washing machine : wax-maxin  
+washing machine : waxomaxin  
 water : suy  
 water buffalo : kabaw  
 water lily (nenuphar) : nenufar  

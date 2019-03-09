@@ -1288,8 +1288,8 @@ wain : vino
 wase : oazo  
 wate : vato  
 waw : ŭaŭ!  
-wax-maxin : lavmaŝino  
 waxa : lavi  
+waxomaxin : lavmaŝino  
 way dexia : fremda lando  
 way : ekstera  
 waye : ekstero  
@@ -1300,6 +1300,9 @@ wil : estonte
 wile : estonoteco  
 win : venko  
 wina : venki  
+wizita : vizito  
+wizite : viziti  
+wiziter : vizitanto  
 wolfe : lupo  
 ##x  
 xake : branĉo  
@@ -1339,10 +1342,13 @@ yani : tio estas (alivorte)
 ye : li aŭ ŝi aŭ ĝi  
 yemen : ili  
 yen : okulo  
-yesu : Jesuo  
+yesus : Jesuo  
 yeze : kokoso  
 yoge : jogo  
 yone : vagino  
+yumor : humuro  
+yumori : humura  
+yumoriste : humuristo  
 yuterbium : iterbio  
 yutrium : itrio  
 ##z  

@@ -1,56 +1,91 @@
-alah : 安拉
-alkol : 酒
-almari : 柜橱
-ama : 但是
-asia : 亚洲
-atom : 原子
-bada : 后
-badan : 身体
-baldi : 水桶
-bambu : 竹
-banan : 香蕉
-bar : 酒吧，酒店
-baru : 熊
-bateri : 电池
-bebe : 婴儿
-bir : 啤酒
-blu : 蓝
-bola : 球
-botol : 瓶
-brun : 褐色
-buk : 书
-camba : 农村
-cigo : 事故
-dai : 大
-daici : 大使
-djungok : 中国
-gol : 目的
-kafas : 笼
-kafe : 咖啡
-kafe kan : 咖啡馆
-kakau : 可可
-kal : 黑
-karot : 胡萝卜
-komputer : 电脑
-lusun : 芦笋
-mau : 猫
-mei jen : 大家
-mumu : 牛
-nau : 脑
-paki : 鸟
-pan : 面包
-parda : 窗帘
-putong : 普通
-rang : 颜色
-sang : 血
-sement : 水泥
-sigaret : 香烟
-silsil : 链
-son : 梦
-suan : 酸
-tcis : 乳酪
-tcokolat : 巧克力
-tong : 桶
-umur : 年龄
-xiyar : 黄瓜
-
+##a  
+abace : 字母表  
+adres : 有  
+adu : 属于  
+adulte : 成年人  
+ajil : 灵活的  
+akse : 轴线  
+alkol : 酒  
+almas : 钻石  
+altar : 圣坛  
+ama : 爱  
+analis : 分析  
+analisa : 分析  
+anime : 活跃  
+anjil : 福音  
+anten : 天线  
+anus : 肛门  
+aple : 苹果  
+aranje : 橙子  
+arbuze : 西瓜  
+are : 面积  
+arte : 美术  
+arter : 美术家  
+asle : 起源  
+##b  
+babe : 章  
+bagre : 虎  
+bandir : 旗  
+banye : 洗澡  
+banyokamar : 浴室  
+banyu : 游泳  
+bere : 浆果  
+bon rupi : 好看  
+buze : 山羊   
+##c  
+cini : 汉族  
+##d  
+##e  
+##f  
+##g  
+##h  
+##i  
+##j  
+janger : 工匠 (匠人)  
+##k  
+kande : 糖果  
+##l  
+##m  
+mece : 比赛  
+metalojanger : 铁匠  
+moke : 木材  
+mokojanger : 木匠  
+##n  
+##o  
+##p  
+papagay : 鹉鹦  
+parke : 园  
+pelmen : 饺子   
+pulte : 桥  
+##r  
+##s  
+sabze : 蔬菜  
+sol : 太阳  
+solosistem : 太阳系  
+supris : 惊奇  
+##t  
+tarje : 翻译  
+tazi : 新鲜的  
+tekne : 技术  
+teknolojia : 工艺学  
+telofon : 电话机  
+telowide : 电视机  
+tem : 主题目  
+tende : 帐篷  
+teroristia : 恐怖行为  
+tese : 论据  
+teste : 化验  
+tikete : 票  
+tim : 队  
+tin : 罐  
+tira milke : 拉  
+to : 到  
+toca : 接触  
+tomate : 西红柿  
+##u  
+##v  
+##w  
+##x  
+xute : 技术  
+##y  
+##z  

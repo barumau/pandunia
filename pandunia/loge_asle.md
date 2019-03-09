@@ -762,6 +762,8 @@ wida ← rus:видеть (videt). ita:vedere. spa:por:ver. pol:widzieć. cze:vi
 wildi ← deu:eng:ned:wild. sve:vild.  
 wile ← eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).  
 win ← eng:win. deu:gewinnen.  
+wirus ← eng:virus. rus:вирус (virus).  
+wirusolojia ← pol:wirusologia. rus:вирусология (virusologiya).  
 wola ← deu:wollen. ita:volere. fra:vouloir.  
 wolfe ← deu:ned:eng:wolf. rus:волк (volk).  
 ##x  
@@ -797,10 +799,11 @@ yake ← eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).
 yakin ← hau:yaƙini.swa:yakini.  
 yang ← zho: 样 "yàng". tha: อย่าง "yàang". khm: យ៉ាង "yaang".  
 yatim ← ara:per:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).  
-yen suy ← kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.  
 yen ← zho: 眼 (yǎn). ara: عين‏‎ (ʿen).  
+yenosuy ← kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.  
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
+yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
 ##z  
 zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).  
 zalim ← tur:zalim. urd:hin:(zālim). per:(zālem). swa:dhalimu.  

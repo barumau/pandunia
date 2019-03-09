@@ -635,7 +635,7 @@ Jemen : yaman
 Jersey : jersia  
 jesień : oton  
 jesion : yasen  
-Jezus : yesu  
+Jezus : yesus  
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa : gar  
 jod; jodyna : iode  
 jod; jodyna : yode  
@@ -1072,7 +1072,6 @@ nadać, wysłać pocztą : posta
 nadzieja, życzenie : inxala  
 nagi, goły, obnażony : nudi  
 nahuatl : nawati  
-nahuatl : nawatli  
 najmniej, minimalnie : minim  
 należeć (być członkiem) : memba  
 należeć : adu  
@@ -1188,7 +1187,7 @@ odpowiedzieć, odpowiadać : jawaba
 odpowiedź, odzew : jawabe  
 odsłonić, odsłaniać : dekula  
 odważny, brawurowy : yungam  
-odwiedzić, odwiedzać : wizit  
+odwiedzić, odwiedzać : wizita  
 oficer policji, policjant : poliser  
 oficjalny : ofisi  
 oganesson : oganeson  
@@ -1468,8 +1467,8 @@ pracować : werka
 pracownik : werker  
 practyczny, pragmatyczny : prati  
 praktyka, aktualność : prate  
-pralka : wax-maxin  
-prawa autorskie : kopi hake  
+pralka : waxomaxin  
+prawa autorskie : kopohake  
 prawdopodobnie, możliwie : bili  
 prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
@@ -2326,7 +2325,7 @@ zły, zrujnowany, zepsuty : harabi
 łazienka : banyokamar  
 łańcuch : silsil  
 łyżka : camce  
-łza : yen suy  
+łza : yenosuy  
 łódź, statek : bote  
 łóżko : bede  
 łączyć, wiązać, złączyć : liga  

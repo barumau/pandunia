@@ -469,6 +469,9 @@ honoro (respekto) : onor
 hormono : hormon  
 horo : hor  
 hotelo : hotel  
+humura : yumori  
+humuristo : yumoriste  
+humuro : yumor  
 ##i  
 iam : koy zaman  
 ideo : ide  
@@ -515,7 +518,7 @@ jaro : nen
 jasmeno : malike  
 Jemeno : yaman  
 jes (esti) : si  
-Jesuo : yesu  
+Jesuo : yesus  
 jodo : iode  
 jogo : yoge  
 juna : jowan  
@@ -670,7 +673,7 @@ lanterno : lanten
 lasta : fini  
 Latvio : latvia  
 lavi : waxa  
-lavmaŝino : wax-maxin  
+lavmaŝino : waxomaxin  
 laŭrencio : laurensium  
 leciono : darse  
 legi : duga  
@@ -1286,6 +1289,9 @@ viva : jiwi
 vivi : jiwa  
 vivo : jiwe  
 vizaĝo : muke  
+vizitanto : wiziter  
+viziti : wizite  
+vizito : wizita  
 viŝilo : towal  
 vojaĝanto : safarer  
 vojaĝi : safara  

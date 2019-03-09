@@ -1028,7 +1028,7 @@ konus : kartio (keila)
 kopa : kopioida  
 kope : kopio  
 kopernikium : kopernikium  
-kopi hake : kopiointioikeus (tekijänoikeus)  
+kopohake : kopiointioikeus (tekijänoikeus)  
 kor : kuoro  
 korne : sarvi  
 koron : kruunu  
@@ -1439,7 +1439,6 @@ nasistia : kansallisuusaate (nationalismi)
 natre : natrium  
 nauru : Nauru  
 nawati : nahuatli  
-nawatli : nahuatli  
 nederlandi antilia : Alankomaiden Antillit  
 nederlandia : Alankomaat (Hollanti)  
 nega : kieltää  
@@ -2170,8 +2169,8 @@ warke : lehti (arkki, levy)
 wase : keidas  
 wate : watti  
 waw : oho (vau)  
-wax-maxin : pesukone  
 waxa : pestä  
+waxomaxin : pesukone  
 way dexi : ulkomaalainen  
 way dexia : ulkomaa  
 way : ulko- (ulkoinen)  
@@ -2201,7 +2200,9 @@ wing : siipi
 winil : vinyyli  
 wirus : virus  
 wirusolojia : virologia  
-wizit : vierailu (visiitti)  
+wizita : vierailla  
+wizite : vierailu (visiitti)  
+wiziter : vierailija (vieras)  
 wola : haluta  
 wolfe : susi (hukka)  
 ##x  
@@ -2265,9 +2266,9 @@ ye : hän (se)
 yehudi : juutalainen  
 yehudistia : juutalaisuus  
 yemen : he  
-yen suy : kyynel  
 yen : silmä  
-yesu : Jeesus  
+yenosuy : kyynel  
+yesus : Jeesus  
 yeze : kookos  
 yode : jodi  
 yoga : joogata  
@@ -2278,6 +2279,7 @@ yosay : linnake
 yote : pisara (tippa)  
 yumor : huumori  
 yumori : koominen (hauska)  
+yumoriste : humoristi  
 yungam : rohkea (urhea)  
 yuterbium : ytterbium  
 yutrium : yttrium  

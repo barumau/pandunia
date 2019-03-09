@@ -1,78 +1,103 @@
 ##a  
-abace : алфавит  
-adres : иметь  
-adu : принадлежать  
-adulte : взрослый  
-ajil : подвижный  
-akse : ось  
-ali : другой (второй)  
-alkol : алкоголь  
-almar : шкаф  
-almas : алмаз (бриллиант)  
-altar : алтарь  
-ama : любить  
-analis : анализ  
-analisa : анализировать  
-anime : оживление  
-anjil : евангелие  
-anten : антенна  
-anus : анус  
-aple : яблоко  
-aranje : апельсин  
-arbuze : арбуз  
-are : площадь  
-arte : искусство  
-asle : начало (причина)  
+abace : alphabet  
+adres : avoir  
+adu : appartenir à  
+adulte : adulte  
+afrike : Afrique  
+afriki : africain  
+ajil : agile  
+akse : axe  
+ali : autre  
+alkol : alcool  
+almas : diamant  
+altar : autel  
+ama : aimer  
+amerike : Amérique  
+ameriki : américain  
+analis : analyse  
+analisa : analyser  
+anime : animation  
+anjil : évangile  
+anten : antenne  
+anus : anus  
+aple : pomme  
+aranje : oreange  
+arbuze : melon d'eau  
+are : aire (superficie)  
+arte : art  
+arter : artiste  
+asi : asiatique  
+asia : Asie  
+asle : origine  
 ##b  
-babe : глава  
-bagre : тигр  
-bandir : флаг  
-banye : купание  
-banyokamar : ванная  
-banyu : купаться  
+babe : chapitre  
+bagre : tigre  
+bandir : drapeau  
+banye : bain  
+banyokamar : salle de bains  
+banyu : se baigner  
+bari : lourd  
+barium : baryum  
+barka : féliciter  
 ##c  
-cini : хань  
 ##d  
 ##e  
+europe : Europe  
+europi : européen  
 ##f  
 ##g  
 ##h  
 ##i  
 ##j  
 ##k  
-kanjar : кинжал  
-katan : меч  
 ##l  
 ##m  
 ##n  
 ##o  
 ##p  
-papagay : попугай  
-pike : вершина  
+papagay : perroquet  
+pike : cime (pic, sommet)  
+piratia : piraterie  
 ##r  
 ##s  
 ##t  
-tarje : перевод  
-tas : блюдо (таз)  
-tazi : свежий  
-teknolojia : технология  
-telofon : телефон  
-telowide : телевизор  
-tem : тема  
-tende : палатка (шатёр)  
-tepe : лента  
-teroristia : терроризм  
-tese : довод  
-teste : анализ (тест)  
-tikete : билет  
-tim : команда  
-tin : бляшанка  
-tira milke : тянуть  
-toca : касаться  
-tomate : помидор (томат)  
+tarje : traduction  
+tazi : frais  
+tekne : technique  
+teknolojia : technologie  
+telofon : téléphone  
+telowide : téléviseur  
+tem : sujet (thème)  
+tende : tente  
+tepe : ruban (bande)  
+teroristia : terrorisme  
+tese : argument  
+teste : épreuve (test)  
+tikete : billet  
+tim : équipe  
+tin : bidon (boîte)  
+tira milke : tirer  
+toca : toucher  
+tomate : tomate  
+tunisia : Tunisie  
+turiste : touriste  
+tuze : lapin, lièvre  
 ##u  
+uranium : uranium  
 ##v  
+venesuela : Venezuela  
 ##w  
+weki : éveillé  
+wirus : virus  
+wolfe : loup  
 ##x  
+xing : étoile  
 ##y  
+yesus : Jésus  
 ##z  
+zardux : Zoroastre  
+zarduxiste : zoroastrien  
+zarduxistia : zoroastrisme  
+zombe : zombi  
+zulu' : zoulou  
+zumrude : émeraude  

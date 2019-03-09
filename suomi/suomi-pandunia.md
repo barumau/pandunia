@@ -403,6 +403,7 @@ humanismi : insanistia
 humanisti : insaniste  
 humanistinen : insanisti  
 hummus : humus sos  
+humoristi : yumoriste  
 hunaja : mel  
 huomata (hoksata) : nota  
 huomauttaa : notisa  
@@ -512,7 +513,7 @@ jasmiini : malike
 jatkua : kontinu  
 jauhaa myllyssä : mola  
 jazz (jatsi) : jaze  
-Jeesus : yesu  
+Jeesus : yesus  
 Jemen : yaman  
 Jersey : jersia  
 jo (tehty teko) : lew  
@@ -773,7 +774,7 @@ koota (kerätä) : jama
 kopernikium : kopernikium  
 kopio : kope  
 kopioida : kopa  
-kopiointioikeus (tekijänoikeus) : kopi hake  
+kopiointioikeus (tekijänoikeus) : kopohake  
 koppi (maja) : kabin  
 koraani : kuran  
 kori : baske  
@@ -880,7 +881,7 @@ kyrilliset aakkoset : kirili abace
 kysymys : eske  
 kysyvä : eski  
 kysyä : eska  
-kyynel : yen suy  
+kyynel : yenosuy  
 kärppä (fretti) : furete  
 kärry (vaunu, auto, jne) : kar  
 käsi : hande  
@@ -1227,7 +1228,6 @@ naamio (maski) : maske
 naaras : fem  
 nahka (iho) : pifu'  
 nahuatli : nawati  
-nahuatli : nawatli  
 naida (mennä naimisiin) : mara  
 nailon : nilon  
 naimisissa : mari  
@@ -1447,7 +1447,7 @@ perus- : bazi
 perusta (perustus) : baze  
 peräaukko (anus) : anus  
 pestä : waxa  
-pesukone : wax-maxin  
+pesukone : waxomaxin  
 pian : sun  
 piano : pian  
 pidentää : longa  
@@ -2185,7 +2185,9 @@ vetoketju : ziper
 vety : hidre  
 vetää : tira  
 vielä (yhä) : hay  
-vierailu (visiitti) : wizit  
+vierailija (vieras) : wiziter  
+vierailla : wizita  
+vierailu (visiitti) : wizite  
 viesti : mesaje  
 viestiä (kommunikoida) : mesaja  
 Vietnam : vietnam  

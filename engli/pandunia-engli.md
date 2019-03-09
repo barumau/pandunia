@@ -1033,7 +1033,7 @@ konus : cone
 kopa : copy (replicate)  
 kope : copy (replica)  
 kopernikium : copernicium  
-kopi hake : copyright  
+kopohake : copyright  
 kor : choir (chorus)  
 korne : horn  
 koron : crown  
@@ -1445,7 +1445,6 @@ nasistia : nationalism
 natre : sodium  
 nauru : Nauru  
 nawati : Nahuatl (Nahua)  
-nawatli : Nahuatl  
 nederlandi antilia : Netherlands Antilles  
 nederlandia : Netherlands  
 nega : refuse (deny, decline)  
@@ -2223,8 +2222,8 @@ warke : leaf (sheet)
 wase : oasis  
 wate : watt  
 waw : wow! (gee!)  
-wax-maxin : washing machine  
 waxa : wash  
+waxomaxin : washing machine  
 way dexi : foreign  
 way dexia : foreign country  
 way : outer (external)  
@@ -2254,7 +2253,9 @@ wing : wing
 winil : vinyl  
 wirus : virus  
 wirusolojia : virology  
-wizit : visit  
+wizita : visit  
+wizite : visitation (visit)  
+wiziter : visitor (guest)  
 wola : want (desire)  
 wolfe : wolf  
 ##x  
@@ -2319,9 +2320,9 @@ ye : he or she or it
 yehudi : Jewish  
 yehudistia : Judaism  
 yemen : they  
-yen suy : tear drop  
 yen : eye  
-yesu : Jesus  
+yenosuy : tear drop  
+yesus : Jesus  
 yeze : coco  
 yode : iodine  
 yoga : do yoga  
@@ -2332,6 +2333,7 @@ yosay : fortress (stronghold)
 yote : drop (droplet)  
 yumor : humor  
 yumori : humorous (comical, funny)  
+yumoriste : humorist  
 yungam : brave (courageous)  
 yuterbium : ytterbium  
 yutrium : yttrium  
