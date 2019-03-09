@@ -50,7 +50,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/esperanto/index.html</loc>
@@ -101,7 +101,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/espani/index.html</loc>
@@ -152,7 +152,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/suomi/index.html</loc>
@@ -203,7 +203,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/frans/index.html</loc>
@@ -254,7 +254,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/interlingua/index.html</loc>
@@ -305,7 +305,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/malayu/index.html</loc>
@@ -356,7 +356,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/nipon/index.html</loc>
@@ -407,7 +407,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/polski/index.html</loc>
@@ -458,7 +458,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/portugal/index.html</loc>
@@ -509,7 +509,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/rusi/index.html</loc>
@@ -560,10 +560,10 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
   <url>
-    <loc>http://www.pandunia.info/zhongwen/index.html</loc>
+    <loc>http://www.pandunia.info/cini/index.html</loc>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
@@ -611,7 +611,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/index.html"/>
+               href="http://www.pandunia.info/cini/index.html"/>
   </url>
 
   <url>
@@ -651,7 +651,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/esperanto/fraze.html</loc>
@@ -690,7 +690,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/espani/fraze.html</loc>
@@ -729,7 +729,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/suomi/fraze.html</loc>
@@ -768,7 +768,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/frans/fraze.html</loc>
@@ -807,7 +807,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/malayu/fraze.html</loc>
@@ -846,7 +846,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/polski/fraze.html</loc>
@@ -885,7 +885,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
     <loc>http://www.pandunia.info/portugal/fraze.html</loc>
@@ -924,10 +924,10 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
   <url>
-    <loc>http://www.pandunia.info/zhongwen/fraze.html</loc>
+    <loc>http://www.pandunia.info/cini/fraze.html</loc>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
@@ -963,7 +963,7 @@
     <xhtml:link 
                rel="alternate"
                hreflang="zh"
-               href="http://www.pandunia.info/zhongwen/fraze.html"/>
+               href="http://www.pandunia.info/cini/fraze.html"/>
   </url>
 
   <url>

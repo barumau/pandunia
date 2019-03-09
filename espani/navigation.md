@@ -26,5 +26,5 @@
   * [português](../portugal/index.md)
   * [русский](../rusi/index.md)
   * [suomi](../suomi/index.md)
-  * [中文](../zhongwen/index.md)
+  * [中文](../cini/index.md)
 

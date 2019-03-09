@@ -25,5 +25,5 @@
 
 #### [suomi](suomi/index.md) 🇫🇮
 
-#### [中文](zhongwen/index.md) 🇨🇳 🇹🇼
+#### [中文](cini/index.md) 🇨🇳 🇹🇼
 
