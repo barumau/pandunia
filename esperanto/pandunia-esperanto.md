@@ -78,6 +78,7 @@ atake : atako
 atom : atomo  
 auda : aŭdi (aŭskulti)  
 australia : Aŭstralio  
+automoti : memmova  
 awakate : avokado  
 awar : damaĝo  
 ay : alas!  
@@ -130,6 +131,7 @@ bate : anaso
 baton nur : torĉo  
 baton : stango  
 batre : baterio (pilo)  
+baw : gazeto (revuo)  
 bax : lingvo  
 baxa : paroli (komuniki)  
 baxolojia : lingvistiko  
@@ -241,6 +243,7 @@ ci : ĉi tiu
 cile : Ĉilio  
 cimpanze : ĉimpanzo  
 cincil : ĉinĉilo  
+cini : hana  
 cirka : ĉirkaŭ  
 cis : fromaĝo  
 cita : citi  
@@ -366,7 +369,9 @@ eski : demanda
 espania : Hispanio  
 esperanti : Esperanto  
 estadia : stadiono (areno)  
+estasia : stacio  
 estia : Estonio  
+estrontium : stroncio  
 etiopia : Etiopio  
 eurasia : Eŭrazio  
 eureka : trovi  
@@ -459,8 +464,8 @@ furia : kolero (furiozo)
 futobol : piedpilko  
 fuy : bah!  
 ##g  
-gabre stan : tombejo  
 gabre : tombo  
+gabristan : tombejo  
 gade : azeno  
 gadolinium : gadolinio  
 gaje : elefanto  
@@ -485,7 +490,6 @@ gaw : alta
 gayan : Gujano  
 gaze : gazo  
 gazel : gazelo  
-gazete : gazeto (revuo)  
 gem : ludo  
 gema : ludi  
 gemer : ludanto  
@@ -525,7 +529,7 @@ gustu ka : gusti kiel
 guy : ogro (trolo)  
 ##h  
 habar : novaĵoj  
-habarogazete : gazeto  
+habarobaw : gazeto  
 hafnium : hafnio  
 haha : ridi  
 haida : ni faru...  
@@ -540,7 +544,6 @@ halos : halo
 hamake : hamako  
 hamar : martelo  
 hamir : feĉo  
-han : hana  
 hande : mano  
 hangogia : Sudkoreio  
 hani : mana  
@@ -622,6 +625,7 @@ islamisti : islama
 islamistia : islamo  
 islandia : Islando  
 israel : Israelo  
+istan : regiono  
 iste : isto de ismo  
 istia : ismo  
 italia : Italio  
@@ -761,8 +765,8 @@ kratia : regi
 krem : kremo  
 krim : krimo  
 krimi : krima  
-kriste jen : kristnasko  
 kriste : kristo  
+kristojen : kristnasko  
 kriton : kriptono  
 krize : krizo  
 krom : kromo  
@@ -904,6 +908,7 @@ morter : mortigisto
 morti : morta  
 mosim : sezono  
 moskovium : moskovio  
+mote : movo  
 moter : motoro  
 muke : vizaĝo  
 mul : komenco  
@@ -1056,13 +1061,14 @@ punte : punkto
 puran : malnova  
 puru : plumo  
 putaw : vinbero  
-putong han : mandarinĉina  
+putong cini : mandarinĉina  
 putong : universala  
 ##r  
 radi geter : radio  
 radium : radiumo  
 radon : radono  
 rajer : reĝo aŭ reĝino  
+rampe : ramplo  
 rang : koloro  
 rape : rapideco  
 rapi : rapidi  
@@ -1074,7 +1080,7 @@ ray : opinio
 raya : opinii  
 redi : preta  
 rege : sablo  
-regi stan : dezerto  
+registan : dezerto  
 ren : persono  
 rengenium : rentgenio  
 renium : renio  
@@ -1178,9 +1184,6 @@ sonde : sono
 song : pino  
 sos : saŭco  
 sosis : kolbaso  
-stan : regiono  
-stasia : stacio  
-strontium : stroncio  
 suan : acida  
 sube : mateno  
 sude : sudo  

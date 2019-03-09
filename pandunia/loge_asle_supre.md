@@ -15,9 +15,9 @@ pandunia da loge laya ze pol bax du dunia.
     - rusi (rus)
     - doici (deu)
 - dong asi bax
-    - putong han (zho)
-    - hong gong han (yue)
-    - xanghai han (wuu)
+    - putong cini (zho)
+    - hongong cini (yue)
+    - xanghai cini (wuu)
     - nipon (jpn)
     - hanguk (kor)
     - vieti (vie)

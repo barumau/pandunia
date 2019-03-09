@@ -10,7 +10,7 @@ Aasia : asia
 aasialainen : asi  
 aate (ismi, ideologia, uskonto, jne) : istia  
 aatteen kannattaja : iste  
-aavikko (hiekkaerämaa) : regi stan  
+aavikko (hiekkaerämaa) : registan  
 adjektiivi (laatusana) : sifi lekse  
 Afganistan : afgania  
 Afrikka : afrike  
@@ -97,7 +97,7 @@ arvio (arvostelu, kritiikki) : piping
 arvioida (arvostella, kritisoida) : pipinga  
 arvioida : yaga  
 arvostelija (kriitikko) : pipinger  
-asema : stasia  
+asema : estasia  
 asento : asan  
 asetelma : poze  
 asia (juttu) : masle  
@@ -112,6 +112,7 @@ astia (kulho) : tas
 astma : asme  
 asua : doma  
 asunto (koti) : dom  
+ateljee (studio) : estudia  
 atomi : atom  
 aueta (avautua) : kayu  
 aukaista (avata) : kaya  
@@ -119,7 +120,7 @@ auki (avoin) : kay
 aurinko : sol  
 aurinkokunta : solosistem  
 Australia : australia  
-automobiili : moter kar  
+auto (automobiili) : motokar  
 auttaa (avustaa) : helpa  
 avain : cabe  
 avaruus (kosmos) : kosmos  
@@ -323,7 +324,7 @@ hammas : dante
 hammasharja : dantobrox  
 hammaslääkäri : dantomediker  
 hamppu (kannabis) : ganje  
-han-kiinalainen : han  
+han-kiinalainen : cini  
 hana : balbe  
 hankkia (ansaita) : ganya  
 hankkia (saada) : geta  
@@ -339,7 +340,7 @@ hasium : hasium
 haureus : zine  
 hauska (huvittava) : mazi  
 hauta : gabre  
-hautausmaa : gabre stan  
+hautausmaa : gabristan  
 he : yemen  
 hedelmä : pal  
 hei (haloo) : halo'  
@@ -534,7 +535,7 @@ jos (olettaa) : gar
 joskus : koy zaman  
 joukkue (tiimi) : tim  
 joule (J) : jul  
-joulu : kriste jen  
+joulu : kristojen  
 joulukuu : mes 12 (mes des do)  
 jousisoitin : ticin  
 joustava (elastinen) : lasti  
@@ -578,6 +579,7 @@ kahista : xaxu
 kahvi : kafe  
 kahvikuppi : kafokupe  
 kahvila : kaferia  
+kaide (reelinki) : langan  
 kaikki : pan  
 kaikki : toti  
 kaiku : eho  
@@ -932,7 +934,7 @@ lava (näyttämö) : sen
 lawrensium : laurensium  
 lehmän liha : mumu manse  
 lehti (arkki, levy) : warke  
-lehti (sanomalehti) : gazete  
+lehti (sanomalehti) : baw  
 lehtisalaatti : letis  
 leijona : sing  
 leipoa : beka  
@@ -962,6 +964,7 @@ lihavoitu kirjain : gros harfe
 liian vähän : min ka bas  
 liikaa : max ka bas  
 liike : kine  
+liike : mote  
 liikemies : biznes ren  
 liiketoiminta (bisnes) : biznes  
 liikuttaa : kina  
@@ -988,6 +991,7 @@ lopettaa : fina
 loppu : fin  
 loukkaus (törkeys) : ninde  
 lounas : den nyam  
+luiska (ramppi) : rampe  
 lukea : duga  
 luku (kirjan osa) : babe  
 lukumäärä (luku, numero) : num  
@@ -1177,7 +1181,7 @@ monitahokas : polofas
 monoteismi (yksijumalisuus) : monodewistia  
 Montenegro : cernagoria  
 moottori : moter  
-moottoripyörä : moter sikle  
+moottoripyörä : motosikle  
 moraali (etiikka) : moral  
 morfeemi : morfem  
 morfi : morfe  
@@ -1568,7 +1572,7 @@ pyöreä : cirki
 pyörä (polkupyörä, moottoripyörä) : sikle  
 päivä : den  
 päivämäärä : nen mes den  
-päivänseisaus : solostas  
+päivänseisaus : solestas  
 päivää! : salam den  
 pää : sar  
 pää- : xefi  
@@ -1703,7 +1707,7 @@ sanasto : leksia
 sankari (urho) : hero'  
 sankarillinen (urhoollinen) : hero'i  
 sanko (ämpäri) : balde  
-sanomalehti : habarogazete  
+sanomalehti : habarobaw  
 Sao Tome ja Principe : santi tome i prinsipe  
 sarana : xarnir  
 sarja : serye  
@@ -1723,7 +1727,7 @@ savuke tai sikari : sigar
 seepra : zebre  
 seesami : sesam  
 seinä (muuri) : mur  
-seisahtaa : stasa  
+seisahtaa : estasa  
 seismologia : sismolojia  
 seistä (seisoa) : libu  
 seitsemän (7) : set  
@@ -1745,7 +1749,7 @@ seuraava : badi
 seurata (tulla perässä, tulla jäljessä) : bada  
 seuraus : bade  
 seurustella (toimia yhdessä) : soca  
-seutu (maa) : stan  
+seutu (maa) : istan  
 Seychellit : sexel nesia  
 sianliha : gurube manse  
 side (remmi) : faxe  
@@ -1985,6 +1989,7 @@ Togo : togolia
 tohtori : dotor  
 tohtorin tutkinto : dotoria  
 toiminta (funktio) : funca  
+toimittaja (journalisti, lehtimies) : bawer  
 toisiaan (keskenään) : unale  
 toistaa : repa  
 toisto : repe  
@@ -2274,7 +2279,7 @@ yksinvaltius (autokratia, monarkia) : monokratia
 yksityiskohta (detalji) : detal  
 yksivärinen : monorangi  
 yleinen (universaali) : putong  
-yleiskiina (mandariinikiina) : putong han  
+yleiskiina (mandariinikiina) : putong cini  
 ylittää (yllä, päällä) : supra  
 ylitys : supre  
 yllätys : supris  

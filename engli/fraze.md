@@ -676,7 +676,7 @@ Can you speak English?
 **fransi, espani, portugal, rusi**
 French, Spanish, Portuguese, Russian
 
-**putong han, nipon, indonesi**
+**cini, nipon, indonesi**
 Chinese, Japanese, Indonesian
 
 **arabi, turki, farsi, urdi, hindi**

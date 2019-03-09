@@ -149,7 +149,7 @@ bor : boron
 boski : dewi  
 Botswana : tswania  
 Bośnia i Harcegowina : bosnia  
-Boże Narodzenie : kriste jen  
+Boże Narodzenie : kristojen  
 Brazyla : brazilia  
 broda : barde  
 brom : brom  
@@ -231,7 +231,7 @@ ciągnąć : tira
 ciąć : kata  
 ciężki (masywny) : bari  
 ciśnienie atmosferyczne : hawobar  
-cmentarz : gabre stan  
+cmentarz : gabristan  
 co? : ke  
 co? : ki ren  
 coś : koy xey  
@@ -348,6 +348,7 @@ działo : kanon
 dziecko, potomek : bace  
 dzielić : fena  
 dziennik pokładowy (notatnik) : deftobuke  
+dziennikarz : bawer  
 dziesięć (10) : des  
 dziewczyna : jowan fem  
 dziewięć (9) : noy  
@@ -460,7 +461,7 @@ gatunek : jong
 gaz : gas  
 gaza : gaze  
 gazela : gazel  
-gazeta : habarogazete  
+gazeta : habarobaw  
 gałąź, konar : xake  
 gdzie : na ke  
 gejowski (homoseksualny) : gey  
@@ -528,7 +529,7 @@ hafn : hafnium
 Haiti : haitia  
 halo, cześć : halo'  
 hamak : hamake  
-han chiński : han  
+han chiński : cini  
 harmonia : harmonia  
 harmoniczny : harmoni  
 has : hasium  
@@ -892,7 +893,7 @@ lód : is
 ##m  
 Madagaskar : madagasia  
 madagaskarski; malagaski : madagasi  
-magazyn, dziennik, gazeta : gazete  
+magazyn, dziennik, gazeta : baw  
 magia : magia  
 magiczny : magi  
 magik, czarownik : mager  
@@ -912,7 +913,7 @@ Malezja : malaisia
 Mali : malia  
 Malta : malte  
 mandarynka : migan  
-mandaryński chiński, Putonghua : putong han  
+mandaryński chiński, Putonghua : putong cini  
 mangan : mangan  
 mango : mange  
 mangostan : mangus  
@@ -1026,7 +1027,7 @@ morf : morfe
 morfem : morfem  
 moskovium : moskovium  
 most : pulte  
-motocykl (motor) : moter sikle  
+motocykl (motor) : motosikle  
 mowa; słowo : loge  
 Mozambik : mozambike  
 Mołdawia : moldovia  
@@ -1108,7 +1109,7 @@ Neptun : neptun
 neptun : neptunium  
 nic, żadna rzecz : nol xey  
 nie : no  
-nie ruszać się : stasa  
+nie ruszać się : estasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
 niebezpieczny : hatari  
 niebieski : nil  
@@ -1516,7 +1517,7 @@ przekroczyć, przekraczać, przejść nad, iść nad : supra
 przekąska : lil nyame  
 przepraszam! : pardon  
 przerwać, przerywać : pausa  
-przesilenie : solostas  
+przesilenie : solestas  
 przestępstwo : krim  
 przeszkodzić, przeszkadzać, robić kłopot : mafana  
 przeszłość : pase  
@@ -1560,7 +1561,7 @@ pudło, skrzynia : sanduke
 Puerto Rico : portorikia  
 punkt : binde  
 pusty : hali  
-pustynia : regi stan  
+pustynia : registan  
 puszka : tin  
 puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać : laxa  
 pyszny : nyami  
@@ -1597,7 +1598,7 @@ rasista : rasiste
 rasizm : rasistia  
 rebelia, powstanie : rebel  
 recepta, receptura, przepis : recete  
-region : stan  
+region : istan  
 register : deftia  
 rejestr : defte  
 religia, wyznanie : din  
@@ -1642,6 +1643,7 @@ rozwój : fajan
 roślina, sadzonka : plante  
 rubid : rubidium  
 ruch : kine  
+ruch : mote  
 ruchowy, kinetyczny : kini  
 rujnować, dewastwować, burzyć : haraba  
 rulon (rolka, zwój) : rul  
@@ -1685,7 +1687,8 @@ sam, osobiście : tan
 sam, siebie : se  
 samar : samarium  
 Samoa : samoa  
-samochód (automobil) : moter kar  
+samobieżny : automoti  
+samochód (automobil) : motokar  
 samolot : wiman  
 sauna : sauna  
 sałata : letis  
@@ -1786,13 +1789,13 @@ spłonąć, płonąć : jalu
 Sri Lanka : lankia  
 ssak : mamal  
 ssać : cupa  
-stacja : stasia  
+stacja : estasia  
 stadion, arena : estadia  
 Stany Zjednoczone Ameryki : uni stan du amerike  
 Stany Zjednoczone Ameryki : usamerike  
 Starożytny Egipt (Kemet) : kemia  
 stary, starożytny : puran  
-statyczny, stacjonarny, nieruchomy : stasi  
+statyczny, stacjonarny, nieruchomy : estasi  
 stać : libu  
 sterować : gida  
 sto (##) : hon  
@@ -1806,7 +1809,8 @@ stopić, topić, czynić płynnym : maya
 strach, fobia : fobia  
 strażnik więzienny : prizoner  
 strażnik, ochroniarz : garder  
-stront : strontium  
+stront : estrontium  
+studio (pracownia) : estudia  
 styczeń : mes 1 (mes un)  
 stół : meze  
 stłuc się (rozpaść się na kawałki) : parca  

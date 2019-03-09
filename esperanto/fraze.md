@@ -643,7 +643,7 @@ Ni parolas pandunion.
 **frans, espanya, portugal, ruski**
 la franca, la hispana, la portugala, la rusa
 
-**putong han, nipon, indonesia**
+**cini, nipon, indonesia**
 la ĉina, la japana, la indonezia
 
 **arabi, turki, farsi, urdi, hindi**

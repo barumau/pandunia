@@ -702,7 +702,7 @@ Czy umiesz mówić w języku angielskim?
 **fransi, espani, portugal, rusi**
 francuski, hiszpański, portugalski, rosyjski
 
-**putong han, nipon, indonesi**
+**cini, nipon, indonesi**
 chiński, japoński, indonezyjski
 
 **arabi, turki, farsi, urdi, hindi**

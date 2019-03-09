@@ -155,6 +155,8 @@ baton nur : soihtu
 baton : tanko (sauva, patukka)  
 batonopang : patonki (ranskanleipä)  
 batre : akku (paristo)  
+baw : lehti (sanomalehti)  
+bawer : toimittaja (journalisti, lehtimies)  
 bax : kieli (kommunikaatio)  
 baxa : puhua (kommunikoida)  
 baxolojia : kielitiede (lingvistiikka)  
@@ -296,6 +298,7 @@ ci : tämä (nämä)
 cile : Chile  
 cimpanze : simpanssi  
 cincil : chinchilla  
+cini : han-kiinalainen  
 cipia : Albania  
 cirka : ympäröidä (piirittää, olla ympärillä)  
 cirke : piiri (ympyrä)  
@@ -454,7 +457,10 @@ eski : kysyvä
 espania : Espanja  
 esperanti : esperanto  
 estadia : stadioni (areena)  
+estasa : seisahtaa  
+estasia : asema  
 estia : Viro (Eesti)  
+estudia : ateljee (studio)  
 etiopia : Etiopia  
 eurasia : Euraasia  
 eureka : löytää (keksiä)  
@@ -571,8 +577,8 @@ furia : viha (suuttumus, raivo)
 futobol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
-gabre stan : hautausmaa  
 gabre : hauta  
+gabristan : hautausmaa  
 gabun : Gabon  
 gade : aasi  
 gadolinium : gadolinium  
@@ -602,7 +608,6 @@ gaw : korkea
 gayan : Guyana  
 gaze : harso  
 gazel : gaselli  
-gazete : lehti (sanomalehti)  
 gem : peli  
 gema : pelata  
 gemer : pelaaja  
@@ -657,7 +662,7 @@ gustu ka : maistua
 guy : peikko  
 ##h  
 habar : uutinen  
-habarogazete : sanomalehti  
+habarobaw : sanomalehti  
 hafiza : säilyttää (varjella)  
 hafizer : säilyttäjä  
 hafnium : hafnium  
@@ -675,7 +680,6 @@ halos : halo
 hamake : riippumatto  
 hamar : vasara  
 hamir : hiiva  
-han : han-kiinalainen  
 hande : käsi  
 hangogia : Etelä-Korea  
 hani : käsi-  
@@ -791,6 +795,7 @@ islamofobia : islamofobia (islamin pelko)
 islamu : alistua (antautua)  
 islandia : Islanti  
 israel : Israel  
+istan : seutu (maa)  
 iste : aatteen kannattaja  
 istia : aate (ismi, ideologia, uskonto, jne)  
 italia : Italia  
@@ -1043,11 +1048,11 @@ kratia : valta
 krem : kerma  
 krim : rikos  
 krimi : rikos- (rikollinen)  
-kriste jen : joulu  
 kriste : kristus (messias)  
 kristi : messiaaninen  
 krististe : kristitty  
 krististia : kristinusko  
+kristojen : joulu  
 krita : huutaa  
 kriton : kryptoni  
 krize : kriisi (käännekohta)  
@@ -1087,6 +1092,7 @@ lake : lakka
 lala : maata (makoilla)  
 lampe : lamppu  
 lanca : heittää (paiskata)  
+langan : kaide (reelinki)  
 lankia : Sri Lanka  
 lanten : lyhty  
 larwa : toukka  
@@ -1370,9 +1376,10 @@ mos : sammal
 mosim : vuodenaika  
 moskite : hyttynen (sääski)  
 moskovium : moskovium  
-moter kar : automobiili  
-moter sikle : moottoripyörä  
+mote : liike  
 moter : moottori  
+motokar : auto (automobiili)  
+motosikle : moottoripyörä  
 mozambike : Mosambik  
 mudan : pioni  
 muke : kasvot (naama)  
@@ -1719,7 +1726,7 @@ pupe : nukke
 puran : vanha (muinainen)  
 puru : sulka  
 putaw : viinirypäle  
-putong han : yleiskiina (mandariinikiina)  
+putong cini : yleiskiina (mandariinikiina)  
 putong : yleinen (universaali)  
 puxa : työntää (puskea)  
 ##r  
@@ -1735,6 +1742,7 @@ rajer : monarkki (kuningas, kuningatar)
 raji : kuninkaallinen  
 rajia : kuningaskunta  
 ramazan : ramadan  
+rampe : luiska (ramppi)  
 randa : höylätä  
 rander : höylä  
 rang : väri  
@@ -1759,7 +1767,7 @@ recete : resepti (ohje)
 reda : tehdä valmiiksi  
 redi : valmis  
 rege : hiekka  
-regi stan : aavikko (hiekkaerämaa)  
+registan : aavikko (hiekkaerämaa)  
 ren : henkilö  
 rengenium : röntgenium  
 renium : rhenium  
@@ -1933,9 +1941,9 @@ sofi : viisas
 sofia : viisaus  
 soke : sukka  
 sol : aurinko  
+solestas : päivänseisaus  
 solomon nesia : Salomon-saaret  
 solosistem : aurinkokunta  
-solostas : päivänseisaus  
 somalia : Somalia  
 son kamar : makuuhuone  
 son : nukkuminen (uni)  
@@ -1946,9 +1954,6 @@ song : mänty
 sos : kastike (soosi)  
 sosis : makkara  
 soto : Lesoto  
-stan : seutu (maa)  
-stasa : seisahtaa  
-stasia : asema  
 suan : hapan (kirpeä)  
 sube nyam : aamiainen  
 sube : aamu  

@@ -232,7 +232,7 @@ We greet you.
 **fransi, espani, portugal, rusi**
 法语，西班牙语，葡萄牙语，俄语
 
-**putong han, nipon, indonesi**
+**cini, nipon, indonesi**
 中文，日文，印尼文
 
 **arabi, turki, farsi, urdi, hindi**

@@ -91,6 +91,7 @@ ate : jabłko cukrowe
 atom : atom  
 auda : usłyszeć, słyszeć; słuchać  
 australia : Australia  
+automoti : samobieżny  
 awakate : awokado  
 awar : uszkodzić, uszkadzać  
 axur : Aszur  
@@ -156,6 +157,8 @@ baton nur : pochochodnia (latarka)
 baton : pręt, kij  
 batonopang : bagietka  
 batre : bateria  
+baw : magazyn, dziennik, gazeta  
+bawer : dziennikarz  
 bax : język; komunikacja  
 baxa : mówić; komunikować  
 baxolojia : językoznastwo  
@@ -297,6 +300,7 @@ ci : ten, te
 cile : Chile  
 cimpanze : szympans  
 cincil : szynszyla  
+cini : han chiński  
 cipia : Albania  
 cirka : otoczyć, otaczać  
 cirke : koło, okrąg  
@@ -456,7 +460,12 @@ eski : pytajny, związany z pytaniem
 espania : Hiszpania  
 esperanti : Esperanto  
 estadia : stadion, arena  
+estasa : nie ruszać się  
+estasi : statyczny, stacjonarny, nieruchomy  
+estasia : stacja  
 estia : Estonia  
+estrontium : stront  
+estudia : studio (pracownia)  
 etiopia : Etiopia  
 eurasia : Eurazja  
 eureka : znaleźć, znajdywać, odkryć, odkrywać  
@@ -573,8 +582,8 @@ furia : gniew, furia
 futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
-gabre stan : cmentarz  
 gabre : grób, mogiła, grobowiec  
+gabristan : cmentarz  
 gabun : Gabon  
 gade : osioł  
 gadolinium : gadolin  
@@ -604,7 +613,6 @@ gaw : wysoki
 gayan : Gujana  
 gaze : gaza  
 gazel : gazela  
-gazete : magazyn, dziennik, gazeta  
 gem : gra  
 gema : grać w grę  
 gemer : gracz  
@@ -659,7 +667,7 @@ gustu ka : smakować jak
 guy : ogr (trol, goblin)  
 ##h  
 habar : wiadomość, nius  
-habarogazete : gazeta  
+habarobaw : gazeta  
 hafiza : zachować, zakonserwować, zachować, utrzymać  
 hafizer : przechowawca, kustosz, opiekun  
 hafnium : hafn  
@@ -677,7 +685,6 @@ halos : efekt halo
 hamake : hamak  
 hamar : młot, młotek  
 hamir : drożdże  
-han : han chiński  
 hande : ręka, dłoń  
 hangogia : Korea Południowa  
 hani : ręczny  
@@ -793,6 +800,7 @@ islamofobia : islamofobia
 islamu : poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 islandia : Islandia  
 israel : Izrael  
+istan : region  
 iste : przyrostek dla wsperającego ideę  
 istia : przyrostek dla ideologii  
 italia : Italia, Włochy  
@@ -1045,11 +1053,11 @@ kratia : rządzić, władać
 krem : krem  
 krim : przestępstwo  
 krimi : kryminalny, przestępczy  
-kriste jen : Boże Narodzenie  
 kriste : Chrystus, mesjasz  
 kristi : mesjański  
 krististe : chrześcijanin  
 krististia : chrześcijaństwo  
+kristojen : Boże Narodzenie  
 krita : krzyknąć, krzyczeć  
 kriton : krypton  
 krize : kryzys  
@@ -1373,9 +1381,10 @@ mos : mech
 mosim : pora roku  
 moskite : komar, moskit  
 moskovium : moskovium  
-moter kar : samochód (automobil)  
-moter sikle : motocykl (motor)  
+mote : ruch  
 moter : silnik  
+motokar : samochód (automobil)  
+motosikle : motocykl (motor)  
 mozambike : Mozambik  
 mudan : piwonia  
 muke : twarz  
@@ -1723,7 +1732,7 @@ pupe : lalka, kukiełka, pacynka, marionetka
 puran : stary, starożytny  
 puru : pióro  
 putaw : winogrono  
-putong han : mandaryński chiński, Putonghua  
+putong cini : mandaryński chiński, Putonghua  
 putong : powszechny, uniwersalny  
 puxa : pchnąć, pchać  
 ##r  
@@ -1763,7 +1772,7 @@ recete : recepta, receptura, przepis
 reda : przygotować, przygotowywać  
 redi : gotowy  
 rege : piasek, piach  
-regi stan : pustynia  
+registan : pustynia  
 ren : osoba; ludzie  
 rengenium : roentgen  
 renium : ren  
@@ -1960,9 +1969,9 @@ sofi : mądry
 sofia : mądrość  
 soke : skarpeta, skarpetka, pończocha  
 sol : słońce  
+solestas : przesilenie  
 solomon nesia : Wyspy Salomona  
 solosistem : układ słoneczny  
-solostas : przesilenie  
 somalia : Somalia  
 son kamar : sypialnia  
 son : sen  
@@ -1973,11 +1982,6 @@ song : sosna
 sos : sos  
 sosis : kiełbasa  
 soto : Lesotho  
-stan : region  
-stasa : nie ruszać się  
-stasi : statyczny, stacjonarny, nieruchomy  
-stasia : stacja  
-strontium : stront  
 suan : kwaśny  
 sube den : przedpołudnie  
 sube nyam : śniadanie  

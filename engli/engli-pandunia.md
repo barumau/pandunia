@@ -118,7 +118,6 @@ August : mes 8 (mes bat)
 Australia : australia  
 Austria : osteria  
 autocracy (monarchy) : monokratia  
-automobile (motorcar) : moter kar  
 autumn (fall) : oton  
 avocado : awakate  
 awake : weki  
@@ -151,6 +150,7 @@ band (squad, group) : bande
 band (tape, bandage) : bende  
 bandage (strip, ribbon) : faxe  
 Bangladesh : banglia  
+banister (handrail) : langan  
 baobab : buyu'  
 bar (obstruct) : barya  
 bar (pub, beer house) : bireria  
@@ -390,7 +390,7 @@ choose (elect, select) : cuza
 Christ (messiah) : kriste  
 Christian : krististe  
 Christianity : krististia  
-Christmas : kriste jen  
+Christmas : kristojen  
 chromium : krom  
 church : eglis  
 cigarette (cigar) : sigar  
@@ -552,7 +552,7 @@ Denmark : dania
 dentist : dantomediker  
 depict (describe, illustrate) : grafa  
 descriptive : sifi  
-desert : regi stan  
+desert : registan  
 desire (lust) : kam  
 despise (scorn) : paraya  
 detail : detal  
@@ -853,7 +853,7 @@ grapheme : grafem
 graphic (pictorial) : grafi  
 grass : gras  
 grave (tomb) : gabre  
-graveyard : gabre stan  
+graveyard : gabristan  
 Greece : helenia  
 Greek (Hellenic) : helen  
 green : berdi  
@@ -891,7 +891,7 @@ Haiti : haitia
 halo : halos  
 hammer : hamar  
 hammock : hamake  
-Han Chinese : han  
+Han Chinese : cini  
 hand : hande  
 hang (dangle) : penda  
 happy (delighted) : suki  
@@ -1048,6 +1048,7 @@ joke : joke
 joker : joker  
 Jordan : urdun  
 joule (J) : jul  
+journalist : bawer  
 Judaism : yehudistia  
 judge (referee) : hakimer  
 judgment (sentence) : hakim  
@@ -1184,7 +1185,7 @@ machine : maxin
 mad (insane, crazy) : foli  
 Madagascar : madagasia  
 madness (insanity) : folia  
-magazine (journal, gazette) : gazete  
+magazine (journal, gazette) : baw  
 magic : magia  
 magical : magi  
 magician (sorcerer) : mager  
@@ -1207,7 +1208,7 @@ Mali : malia
 Malta : malte  
 mammal : mamal  
 man (adult male) : matur man  
-Mandarin Chinese (Putonghua) : putong han  
+Mandarin Chinese (Putonghua) : putong cini  
 mandarin orange : migan  
 manganese : mangan  
 mango : mange  
@@ -1328,7 +1329,9 @@ mosquito : moskite
 moss : mos  
 most (maximally) : maxim  
 mother (mom) : mame  
-motorcycle : moter sikle  
+motion (movement) : mote  
+motorcar (automobile) : motokar  
+motorcycle : motosikle  
 mountain (hill) : xan  
 mouse : mux  
 mouth : boke  
@@ -1384,7 +1387,7 @@ new (recent) : nowi
 New Caledonia : nowi kaledonia  
 New Zealand : nowi zilandia  
 news : habar  
-newspaper (gazette) : habarogazete  
+newspaper (gazette) : habarobaw  
 newton (N) : nuton  
 next (following) : badi  
 Nicaragua : nikaragua  
@@ -1716,6 +1719,7 @@ radon : radon
 railway (railroad) : trenodaw  
 raisin : gan putaw  
 Ramadan : ramazan  
+ramp (incline) : rampe  
 random : zari  
 ray : rade  
 ray of light : nuri rade  
@@ -1729,7 +1733,7 @@ rebellion : rebel
 receipt (acknowledgement) : reside  
 reflect : mira  
 refuse (deny, decline) : nega  
-region : stan  
+region : istan  
 register (record, log) : defta  
 register (record, log) : defte  
 registry : deftia  
@@ -1855,6 +1859,7 @@ selenium : selen
 selenium : selen  
 self : se  
 self : tan  
+self-moving (automotive, automobile) : automoti  
 send (emit, transmit) : misa  
 sender (transmitter) : miser  
 Senegal : senegal  
@@ -1934,7 +1939,7 @@ soft : komal
 soil (dirt) : darte  
 solar system : solosistem  
 Solomon Islands : solomon nesia  
-solstice : solostas  
+solstice : solestas  
 Somalia : somalia  
 some (indefinite, indeterminate) : fulan  
 some : koy  
@@ -1978,10 +1983,10 @@ stadium (arena) : estadia
 stage (phase) : faze  
 stage (scene) : sen  
 stand : libu  
-stand still : stasa  
+stand still : estasa  
 star : xing  
-static (stationary) : stasi  
-station : stasia  
+static (stationary) : estasi  
+station : estasia  
 steal : cora  
 steamed bun (mantou, manti) : mante  
 steer : gida  
@@ -1998,8 +2003,9 @@ straight : jiki
 straighten : jika  
 strike (punch) : darba  
 strong : bal  
-strontium : strontium  
+strontium : estrontium  
 student (pupil, learner) : darser  
+studio : estudia  
 submission (surrender) : islam  
 subway (metro) : tunel tren  
 suck : cupa  

@@ -724,7 +724,7 @@ Est-ce que tu parles anglais ?
 **fransi, espani, portugal, rusi**
 français, espagnol, portugais, russe
 
-**putong han, nipon, indonesi**
+**cini, nipon, indonesi**
 chinois, japonas, indonésien
 
 **arabi, turki, farsi, urdi, hindi**

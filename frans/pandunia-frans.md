@@ -31,12 +31,12 @@ banye : купание
 banyokamar : ванная  
 banyu : купаться  
 ##c  
+cini : хань  
 ##d  
 ##e  
 ##f  
 ##g  
 ##h  
-han : хань  
 ##i  
 ##j  
 ##k  

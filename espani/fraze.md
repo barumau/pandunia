@@ -668,7 +668,7 @@ Nosotros hablamos pandunia.
 **fransi, espani, portugal, rusi**
 Francés, español, portugués, ruso
 
-**putong han, nipon, indonesi**
+**cini, nipon, indonesi**
 Chino, japonés, indonesio
 
 **arabi, turki, farsi, urdi, hindi**

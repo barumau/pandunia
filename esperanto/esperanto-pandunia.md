@@ -228,7 +228,7 @@ devi : bixu
 devigi : musa  
 devo : muse  
 devus : xudu  
-dezerto : regi stan  
+dezerto : registan  
 deziro : kam  
 dia : dewi  
 diablo (Satano) : xatan  
@@ -392,8 +392,8 @@ gardi : garda
 gardisto : garder  
 gaso : gas  
 gazelo : gazel  
-gazeto (revuo) : gazete  
-gazeto : habarogazete  
+gazeto (revuo) : baw  
+gazeto : habarobaw  
 gazo : gaze  
 geedzeco : maria  
 genro : jinse  
@@ -431,7 +431,7 @@ halti : tingu
 haltigi : tinga  
 halto : ting  
 hamako : hamake  
-hana : han  
+hana : cini  
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
@@ -634,7 +634,7 @@ kreski : rastu
 krima : krimi  
 krimo : krim  
 kriptono : kriton  
-kristnasko : kriste jen  
+kristnasko : kristojen  
 kristo : kriste  
 krizo : krize  
 Kroatio : horvatia  
@@ -741,7 +741,7 @@ malĝoja : duki
 malĝojo : duke  
 mana : hani  
 mandarino : migan  
-mandarinĉina : putong han  
+mandarinĉina : putong cini  
 mangano : mangan  
 mano : hande  
 manĝi (trinki) : nyama  
@@ -763,6 +763,7 @@ melki : tira milke
 melodio : melodia  
 melongeno : bedinjan  
 membro : member  
+memmova : automoti  
 merkato (bazaro) : bazar  
 Merkuro : budan  
 mesaĝo : mesaje  
@@ -813,6 +814,7 @@ mortigisto : morter
 morto : morte  
 moskovio : moskovium  
 motoro : moter  
+movo : mote  
 multe : pol  
 mumio : mumia  
 muskedo : muskete  
@@ -1015,13 +1017,14 @@ radono : radon
 rajto : hake  
 rakonti : saga  
 rakonto : sage  
+ramplo : rampe  
 rando (orlo) : kenar  
 rapideco : rape  
 rapidi : rapi  
 rapidigi : yala  
 reciproka : unali  
 regi : kratia  
-regiono : stan  
+regiono : istan  
 registri : defta  
 registro : defte  
 religio : din  
@@ -1129,13 +1132,13 @@ spico : masal
 spiro : nafas  
 sporto : kel  
 sputi : tuka  
-stacio : stasia  
+stacio : estasia  
 stadiono (areno) : estadia  
 stango : baton  
 stelo : xing  
 stiri : gida  
 stranga : bizar  
-stroncio : strontium  
+stroncio : estrontium  
 studento (lernanto) : darser  
 Sudkoreio : hangogia  
 sudo : sude  
@@ -1202,7 +1205,7 @@ titanio : titan
 tiu : di  
 Toglando : togolia  
 tomato : tomate  
-tombejo : gabre stan  
+tombejo : gabristan  
 tombo : gabre  
 tondilo : makas  
 tondro : grom  

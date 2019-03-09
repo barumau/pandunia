@@ -91,6 +91,7 @@ ate : sugar-apple (sweetsop)
 atom : atom  
 auda : hear (listen)  
 australia : Australia  
+automoti : self-moving (automotive, automobile)  
 awakate : avocado  
 awar : damage (wreck)  
 axur : Assur  
@@ -156,6 +157,8 @@ baton nur : torch
 baton : bar (rod, stick)  
 batonopang : baguette  
 batre : battery  
+baw : magazine (journal, gazette)  
+bawer : journalist  
 bax : language (communication)  
 baxa : speak (communicate)  
 baxolojia : linguistics  
@@ -297,6 +300,7 @@ ci : this (these)
 cile : Chile  
 cimpanze : chimpanzee  
 cincil : chinchilla  
+cini : Han Chinese  
 cipia : Albania  
 cirka : surround (be around)  
 cirke : circle (round)  
@@ -456,7 +460,12 @@ eski : interrogative
 espania : Spain  
 esperanti : Esperanto  
 estadia : stadium (arena)  
+estasa : stand still  
+estasi : static (stationary)  
+estasia : station  
 estia : Estonia  
+estrontium : strontium  
+estudia : studio  
 etiopia : Ethiopia  
 eurasia : Eurasia  
 eureka : find (discover)  
@@ -573,8 +582,8 @@ furia : anger (fury, rage, wrath)
 futobol : football  
 fuy : bah! (yuck!)  
 ##g  
-gabre stan : graveyard  
 gabre : grave (tomb)  
+gabristan : graveyard  
 gabun : Gabon  
 gade : donkey (ass)  
 gadolinium : gadolinium  
@@ -604,7 +613,6 @@ gaw : high
 gayan : Guyana  
 gaze : gauze  
 gazel : gazelle  
-gazete : magazine (journal, gazette)  
 gem : game  
 gema : play a game  
 gemer : player (gamer)  
@@ -659,7 +667,7 @@ gustu ka : taste like
 guy : ogre (troll, goblin)  
 ##h  
 habar : news  
-habarogazete : newspaper (gazette)  
+habarobaw : newspaper (gazette)  
 hafiza : preserve (conserve, retain)  
 hafizer : keeper (preserver)  
 hafnium : hafnium  
@@ -677,7 +685,6 @@ halos : halo
 hamake : hammock  
 hamar : hammer  
 hamir : yeast  
-han : Han Chinese  
 hande : hand  
 hangogia : Korea (South)  
 hani : manual  
@@ -793,6 +800,7 @@ islamofobia : islamophobia
 islamu : surrender (submit)  
 islandia : Iceland  
 israel : Israel  
+istan : region  
 iste : proponent (supporter, activist, -ist)  
 istia : ism (doctrine, ideology, religion, etc)  
 italia : Italy  
@@ -1045,11 +1053,11 @@ kratia : rule (reign)
 krem : cream  
 krim : crime  
 krimi : criminal  
-kriste jen : Christmas  
 kriste : Christ (messiah)  
 kristi : messianic  
 krististe : Christian  
 krististia : Christianity  
+kristojen : Christmas  
 krita : cry (shout)  
 kriton : krypton  
 krize : crisis  
@@ -1089,6 +1097,7 @@ lake : lacquer (varnish)
 lala : lie (lie down)  
 lampe : lamp  
 lanca : throw (launch)  
+langan : banister (handrail)  
 lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
 larwa : larva (maggot, caterpillar)  
@@ -1373,9 +1382,10 @@ mos : moss
 mosim : season  
 moskite : mosquito  
 moskovium : moscovium  
-moter kar : automobile (motorcar)  
-moter sikle : motorcycle  
+mote : motion (movement)  
 moter : engine (motor)  
+motokar : motorcar (automobile)  
+motosikle : motorcycle  
 mozambike : Mozambique  
 mudan : peony  
 muke : face  
@@ -1723,7 +1733,7 @@ pupe : doll (puppet)
 puran : old (ancient)  
 puru : feather  
 putaw : grape  
-putong han : Mandarin Chinese (Putonghua)  
+putong cini : Mandarin Chinese (Putonghua)  
 putong : common (universal)  
 puxa : push  
 ##r  
@@ -1739,6 +1749,7 @@ rajer : king or queen
 raji : royal  
 rajia : kingdom  
 ramazan : Ramadan  
+rampe : ramp (incline)  
 randa : smoothen with a plane  
 rander : plane (tool for making a smooth surface)  
 rang : color  
@@ -1763,7 +1774,7 @@ recete : instructions (recipe)
 reda : prepare (make ready)  
 redi : ready  
 rege : sand  
-regi stan : desert  
+registan : desert  
 ren : person (people)  
 rengenium : roentgenium  
 renium : rhenium  
@@ -1960,9 +1971,9 @@ sofi : wise
 sofia : wisdom  
 soke : sock (stocking)  
 sol : sun  
+solestas : solstice  
 solomon nesia : Solomon Islands  
 solosistem : solar system  
-solostas : solstice  
 somalia : Somalia  
 son kamar : bedroom  
 son : sleep  
@@ -1973,11 +1984,6 @@ song : pine tree
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
-stan : region  
-stasa : stand still  
-stasi : static (stationary)  
-stasia : station  
-strontium : strontium  
 suan : sour  
 sube den : forenoon  
 sube nyam : breakfast  

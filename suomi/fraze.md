@@ -722,8 +722,8 @@ Osaatko puhua englantia?
 **fransi, espani, portugal, rusi**
 Ranskaa, espanjaa, portugalia, venäjää
 
-**putong han, nipon, indonesi**
-Yleiskiinaa, japania, indonesiaa
+**cini, nipon, indonesi**
+Kiinaa, japania, indonesiaa
 
 **arabi, turki, farsi, urdi, hindi**
 Arabiaa, turkkia, persiaa, urdua, hindiä
