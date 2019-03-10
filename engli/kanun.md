@@ -260,6 +260,11 @@ Pronouns can substitute thing-words and phrases of thing-words.
 **tumen** - you all  
 **yemen** - they
 
+### 5.2. Reflexive pronoun
+
+The reflexive pronoun is used when the object of a sentence is the
+same as the subject.
+
 **se** - self
 
 Note! The reflexive pronoun **se** is used for all persons, so it
@@ -270,7 +275,7 @@ _itself_, ourselves_ and _themselves_ all at once.
 He sees himself. / It sees itself.  **mimen wida se.** - We see
 ourselves.  
 
-### 5.2. Demonstrative pronouns
+### 5.3. Demonstrative pronouns
 
 The demonstrative pronouns are:
 
@@ -286,7 +291,7 @@ come before a noun.
 **ci maw** - This cat  
 **di maw.** - That cat  
 
-### 5.3. Interrogative pronouns
+### 5.4. Interrogative pronouns
 
 **ke** is a general-purpose interrogative pronoun. It does the job of
 English words _who_ and _what_.
