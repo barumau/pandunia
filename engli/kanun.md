@@ -365,7 +365,7 @@ dependant clauses.
 
 Examples:  
 **ke tu wida?** - What do you see?  
-**mi nyama pang, jo tu beka.** - I eat bread _that you baked._
+**mi nyama pang, du tu beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -1174,10 +1174,10 @@ auda** (SV). Likewise **mi musike audu** (SOV) can be truncated to
 **musike audu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
-latter occurs frequently in dependant clauses, for example in **mi
-wida jen, jo tu suku.** (I saw the person _whom you like_.) The other
-word orders can be heard in poetry and in other forms of literary
-language.
+latter occurs frequently in dependant clauses, for example in
+**mi wida ren, du tu jana.** (I saw the person _whom you know_.) The
+other word orders can be heard in poetry and in other forms of
+literary language.
 
 ### 12.2. Relations between the endings
 
