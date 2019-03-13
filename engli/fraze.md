@@ -72,21 +72,21 @@ non-religious people in many different countries around the world.
 שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
 Indonesian: selamat.</small>
 
-### mi <small>I, me</small>
+### me <small>I, me</small>
 
-**mi sara.**
+**me sara.**
 I'm Sara.
 
-**mi tomas.**
+**me tomas.**
 I'm Thomas.
 
-You can introduce yourself simply by saying **mi** and your name. You don't
+You can introduce yourself simply by saying **me** and your name. You don't
 need a verb for saying it in Pandunia!
 
-**mi salama mame.**
+**me salama mame.**
 I greet mother.
 
-**mi salama pape.**
+**me salama pape.**
 I greet father.
 
 The word **salam** is a noun and **salama** is the corresponding verb. The
@@ -101,70 +101,70 @@ Greetings, mother!
 **salam pape!**
 Greetings, father!
 
-<small>Etymology. **mi**
-is from English: me, Italian: mi, Swahili: mimi, Zulu: -mi-.</small>
+<small>Etymology. **me**
+is from English: me, Italian: me, Swahili: mimi, Zulu: -me-.</small>
 
-### tu <small>you</small>
+### te <small>you</small>
 
-**tu tomas.**
+**te tomas.**
 You are Thomas.
 
-**mi salama tu.**
+**me salama te.**
 I greet you.
 
-**tu salama mi.**
+**te salama me.**
 You greet me.
 
-Pronouns don't ever change their form in Pandunia. That's why **mi** is the
+Pronouns don't ever change their form in Pandunia. That's why **me** is the
 same in subject and object positions while English has two different forms, 'I'
 and 'me'.
 
-**mi ama tu.**
+**me ama te.**
 I love you.
 
-<small>Etymology. **tu** is from Spanish: tú, Italian: tu, French: tu,
-Hindi: तू  (tū), Farsi: تو‏‎ (to), Tajik: ту (tu)".</small>
+<small>Etymology. **te** is from Hungarian: te, Russian: ты (ty),
+Farsi: تو‏‎ (to)".</small>
 
-### ye <small>he, she or it</small>
+### le <small>he, she or it</small>
 
-**ye man.**
+**le man.**
 He is a man.
 
-**ye fem.**
+**le fem.**
 She is a woman.
 
-**ye aple.**
+**le aple.**
 It is an apple.
 
-**ye** is the general third person pronoun. It is used for people (irrespective
+**le** is the general third person pronoun. It is used for people (irrespective
 of gender) as well as for things.
 
-**mi salama ye.**
+**me salama le.**
 I greet him/her.
 
-<small>Etymology. **ye** is from Lingala: yé, Swahili: yeye, Chichewa: iye,
-Zulu: -ye-, Hindi: यह  "ye".</small>
+<small>Etymology. **le** is from Lingala: yé, Swahili: yeye, Chichewa: iye,
+Zulu: -le-, Hindi: यह  "le".</small>
 
 ### eska <small>to ask a question</small>
 
-**eska tu tomas?**
+**eska te tomas?**
 Are you Thomas?
 
-**eska tu dotor?**
+**eska te dotor?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**. It is just a regular
 verb, not a special _question tag_. In fact, the previous question is simply
-abbreviated from **mi eska tu dotor.** (I ask, you doctor?) by dropping out the
+abbreviated from **me eska te dotor.** (I ask, you doctor?) by dropping out the
 first word.
 
-**eska tu bon?**
+**eska te bon?**
 How are you? (Literally: _Are you good?_)  
-**mi bon.**
+**me bon.**
 I'm good.  
-**eska tu?**
+**eska te?**
 And you?  
-**mi no bon.**
+**me ni bon.**
 I'm not good.
 
 <small>Etymology. **eska**
@@ -172,25 +172,25 @@ is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small
 
 ### si <small>yes</small>
 
-**eska tu tomas?**
+**eska te tomas?**
 Are you Thomas.
 
-**si, mi tomas.**
+**si, me tomas.**
 Yes, I am Thomas.
 
-**eska ye dotor?**
+**eska le dotor?**
 Is he/she a doctor?
 
-**si, ye dotor.**
+**si, le dotor.**
 Yes, he is a doctor.
 
 The word **si** can be used also for stating something as a fact. Then it is
 used in place of "to be".
 
-**mi si tomas.**
+**me si tomas.**
 I am Thomas.
 
-**tu si sara.**
+**te si sara.**
 You are Sara.
 
 **aple si pal.**
@@ -202,77 +202,78 @@ the phrase would look like a compound word: **aple pal** (an apple fruit).
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
 "shì", Shanghaiese: 是 "sí".</small>
 
-### no <small>no, not</small>
+### ni <small>no, not</small>
 
-**mi no sara.**
+**me ni sara.**
 I'm not Sara.
 
-**mi no dotor.**
+**me ni dotor.**
 I'm not a doctor.
 
-**eska tu bon?**
+**eska te bon?**
 Are you well?  
-**si. mi bon.**
+**si. me bon.**
 Yes, I'm well.
 
-**eska tu bon?**
+**eska te bon?**
 Are you well?  
-**no, mi no bon.**
+**ni, me ni bon.**
 No, I'm not well.
 
-You can use **no** to deny anything. It is placed before the word that is
+You can use **ni** to deny anything. It is placed before the word that is
 denied.
 
-**ye no salama mi.**
+**le ni salama me.**
 He/she doesn't greet me.
 
-<small>Etymology. **no**
-is from English: no, Spanish: no, French: non.</small>
+<small>Etymology. **ni**
+is from Afrikaans: nie, Polish: nie, Russian: не (nye).</small>
 
-### men <small>people</small>
+### Plurals
 
-Add **men** to a singular pronoun to make it plural.
+Plural pronouns are created like this:
+**me** (I) →  **mome** (we)  
+**te** (you) →  **tote** (you all)  
+**le** (he, she, it) →  **lole** (they)
 
-**mimen salama tumen.**
+**mome salama tote.**
 We greet you all.
 
-**tumen salama yemen.**
+**tote salama lole.**
 You greet them.
 
-**yemen salama mimen!**
+**lole salama mome!**
 They greet us.
 
-**mimen fem.**
+**mome fem.**
 We are women.
 
-**tumen man.**
+**tote man.**
 You are men.
 
-**yemen aple.**
+**lole aple.**
 They are apples.
 
-<small>Etymology. **men** is from Mandarin: 们 "men", English: men (people in
-general).</small>
 
 ### ke? <small>what? who?</small>
 
 **ke?**
 What?
 
-**tu ke?**
+**te ke?**
 Who are you?  
-**mi tomas.**
+**me tomas.**
 I'm Thomas.
 
-**ye ke?**
+**le ke?**
 Who is he/she?  
-**ye sara.**
+**le sara.**
 She is Sara.
 
-**tumen ke?**
+**tote ke?**
 Who are you people?
 
-**yemen ke?**
+**lole ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
@@ -302,23 +303,23 @@ This is red.
 
 ### de <small>that</small>
 
-**mi suku ce i de.**
+**me suku ce i de.**
 I like this and that.
 
-**mi suku ci kamis i di pantalon.**
+**me suku ci kamis i di pantalon.**
 I like this shirt and those pants.
 
 Note: The demonstrative pronouns appear in two forms: **ce** and 
 **de** are used as standalone words, while **ci** and **di** are used
 before the noun that they point to.
 
-**yemen na ke?**
+**lole sa ke?**
 Where are they?
 
-**yemen na de.**
+**lole sa de.**
 They are there.
 
-**mimen na ce.**
+**mome sa ce.**
 We are here.
 
 
@@ -327,25 +328,25 @@ We are here.
 **ce ke?**
 What's this?
 
-**ce mi da fon.**
+**ce me da fon.**
 It's my phone.
 
 **ce ke da?**
 Whose is this?
 
-**ce mi da.**
+**ce me da.**
 It's mine.
 
 Note: Possessive particle **da** is put between the owner and the owned thing.
-So **mi da** means "my", **tu da** means "your" and so on.
+So **me da** means "my", **te da** means "your" and so on.
 
-**ye ke?**
+**le ke?**
 Who's he/she?
 
-**ye si mi da doste.**
+**le si me da doste.**
 He/she is my friend.
 
-**mi si sara da doste.**
+**me si sara da doste.**
 I am Sara's friend.
 
 <small>Etymology. **da**
@@ -353,19 +354,19 @@ is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
 
 ### nam <small>name</small>
 
-**tu da nam si ke?**
+**te da nam si ke?**
 What's your name?
 
-**mi da nam si tomas.**
+**me da nam si tomas.**
 My name is Thomas.
 
-**ye namu ke?**
+**le namu ke?**
 What he/she is called?
 
-**ye namu sara.**
+**le namu sara.**
 She is called Sara.
 
-**mi namu tomas.**
+**me namu tomas.**
 I'm called Thomas.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
@@ -374,107 +375,107 @@ Name, English: name.</small>
 
 ### ada <small>have</small>
 
-**mi ada bon dom.**
+**me ada bon dom.**
 I have a good house.
 
-**ye no ada pese.**
+**le ni ada pese.**
 He/she doesn't have money.
 
-**mi wola ada nowi fon.**
+**me wola ada nowi fon.**
 I want to have a new phone.
 
-**eska tu ada bace?**
+**eska te ada bace?**
 Do you have children?  
-**mi ada dul bace.**
+**me ada dul bace.**
 I have two children.
 
 ### jana <small>to know</small>
 
-**mi jana ye.**
+**me jana le.**
 I know him/her.
 
-**eska tu jana di ren?**
+**eska te jana di ren?**
 Do you know that person?
 
-**eska tumen jana unale?**
+**eska tote jana unale?**
 Do you know each other?
 
-**mimen jana unale ze long.**
+**mome jana unale ga long.**
 We know each other for long.
 
 ### helpe <small>help</small>
 
-**mi nida helpe.**
+**me nida helpe.**
 I need help.
 
-**eska tu bila helpa mi?**
+**eska te bila helpa me?**
 Can you help me?
 
-**eska mi bila helpa tu?**
+**eska me bila helpa te?**
 Can I help you?
 
 ## Part 2: Eating
 
 ### nyama <small>consume, eat, drink</small>
 
-**eska tu wola nyama koy?**
+**eska te wola nyama koy?**
 Would you like to eat something?
 
-**ye nyama aple.**
+**le nyama aple.**
 He/she eats an apple.
 
-**yemen nyama aple.**
+**lole nyama aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska tu nyama kafe?**
+**eska te nyama kafe?**
 Do you drink coffee?
 
-**mi nyama kafe.**
+**me nyama kafe.**
 I drink coffee.
 
 Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**mi nyama kafe i pang.**
+**me nyama kafe i pang.**
 I'm having coffee and bread.
 
 ### wola <small>want</small>
 
-**eska tu wola nyama?**
+**eska te wola nyama?**
 Would you like to eat?
 
-**tu wola nyama ke?**
+**te wola nyama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**mi wola nyama kafe.**
+**me wola nyama kafe.**
 I want to drink coffee.
 
-**eska tu wola nyama cay?**
+**eska te wola nyama cay?**
 Would you like to drink tea?  
-**no. mi no wola cay. mi wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 No, I don't want tea. I want coffee.
 
-**tu wola ki aple?**
+**te wola ki aple?**
 Which apple do you want?  
 **di ros.**
 This red one.
 
 ### bita <small>request, please</small>
 
-**mi bita tu nyama cay.**
+**me bita te nyama cay.**
 I ask you to drink tea.
 
-**mi bita tu laya dom.**
+**me bita te laya dom.**
 I ask you to come home.
 
-**mi bita tu helpa mi.**
+**me bita te helpa me.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
@@ -488,7 +489,7 @@ Please, have some coffee!
 **bita laya dom.**
 Please, come home!
 
-**bita helpa mi.**
+**bita helpa me.**
 Please, help me.
 
 ### danke <small>thanks</small>
@@ -496,19 +497,19 @@ Please, help me.
 **danke!**
 Thanks!
 
-**danka tu.**
+**danka te.**
 Thank you.
 
-**mi danka tu.**
+**me danka te.**
 I thank you.
 
-**mi danka tu helpa mi.**
+**me danka te helpa me.**
 I thank you for helping me.
 
-**danka tu helpa mi.**
+**danka te helpa me.**
 Thanks for helping me.
 
-**tu keci.**
+**te keci.**
 You're welcome. (Literally: _You're polite._)
 
 ### haida <small>let's</small>
@@ -524,89 +525,89 @@ Let's go home.
 
 ### nida <small>need</small>
 
-**mi nida helpe.**
+**me nida helpe.**
 I need help.
 
-**mi nida nyama.**
+**me nida nyama.**
 I'm hungry.
 
-**eska tu nida nyama?**
+**eska te nida nyama?**
 Are you hungry?
 
-**eska tu nida suy?**
+**eska te nida suy?**
 Are you thirsty?
 
 ## Part 3. Communication
 
 ### pardon <small>sorry, pardon</small>
 
-**pardon! mi no aha.**
+**pardon! me ni aha.**
 Sorry, I don't understand.
 
 **pardon! ce ke?**
 Excuse me, what's this?
 
-**pardon. tu namu ke?**
+**pardon. te namu ke?**
 Excuse me, what's your name?
 
 ### aha <small>understand</small>
 
-**eska tu aha mi?**
+**eska te aha me?**
 Do you understand me?
 
-**mi aha.**
+**me aha.**
 I understand.
 
-**pardon. mi no aha tu.**
+**pardon. me ni aha te.**
 Sorry. I don't understand you.
 
-**mi no bas aha tu.**
+**me ni bas aha te.**
 I didn't quite understand you.
 
-**mi aha nol.**
+**me aha nol.**
 I don't understand at all.
 
 ### bila <small>can</small>
 
-**mi bila gida kar.**
+**me bila gida kar.**
 I can drive a car.
 
-**ye no bila gida kar.**
+**le ni bila gida kar.**
 He/she doesn't know how to drive a car.
 
-**eska tu bila xula ye?**
+**eska te bila xula le?**
 Do you know how to fix it?
 
-**eska tu bila pandunia?**
+**eska te bila pandunia?**
 Do you speak Pandunia?
 
-**mi bila pandunia.**
+**me bila pandunia.**
 I speak Pandunia.
 
-**mi bila lil pandunia.**
+**me bila lil pandunia.**
 I speak a little Pandunia.
 
-**mi no bila engli.**
+**me ni bila engli.**
 I don't speak English.
 
-**pardon. mi no bila tu da bax.**
+**pardon. me ni bila te da bax.**
 Sorry, I don't speak your language.
 
 ### loga <small>to say, speak, talk</small>
 
-**tu loga ke?**
+**te loga ke?**
 What did you say?
 
-**mi loga to tu.**
+**me loga pa te.**
 I talk to you.
 
-**mimen loga to unale.**
+**mome loga pa unale.**
 We talk to each other.
 
-**se loga "cat" na ki yang na pandunia?**
+**ze loga "cat" sa ki yang sa pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke na pandunia?**
+**"cat" si ke sa pandunia?**
 What is "cat" in Pandunia?
 
 **maw loga miaw.**
@@ -614,30 +615,30 @@ Cat says meow.
 
 ### auda <small>to listen, hear</small>
 
-**mi no bila auda tu.**
+**me ni bila auda te.**
 I can't hear you.
 
 **bita loga forti.**
 Please speak louder.
 
-**mi auda musike.**
+**me auda musike.**
 I listen to music.
 
-**tu auda ki yang da musike?**
+**te auda ki yang da musike?**
 What kind of music do you listen to?
 
 ### wida <small>to see</small>
 
-**suku wida tu.**
+**suku wida te.**
 Pleased to see you!
 
-**wida tu re!**
+**wida te re!**
 See you again!
 
-**wida tu ming den!**
+**wida te ming den!**
 See you tomorrow!
 
-**mi wida ye predi den.**
+**me wida le predi den.**
 I saw him/her yesterday.
 
 ### mena <small>to mean</small>
@@ -648,29 +649,29 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**ye mena yang du hewan.**
+**le mena yang du hewan.**
 It means a kind of animal.
 
-**mi no aha ye mena ke.**
+**me ni aha le mena ke.**
 I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**bita kitaba tu da adres.**
+**bita kitaba te da adres.**
 Please, write your address.
 
-**bita kitaba ye na ce.**
+**bita kitaba le sa ce.**
 Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**eska tumen baxa pandunia.**
+**eska tote baxa pandunia.**
 Do you speak in Pandunia?
 
-**mimen baxa pandunia.**
+**mome baxa pandunia.**
 We speak in Pandunia.
 
-**eska tu bila baxa engli?**
+**eska te bila baxa engli?**
 Can you speak English?
 
 **fransi, espani, portugal, rusi**
@@ -689,22 +690,22 @@ Swahili, Hausa, Yoruba, Amharic
 
 ### enda <small>to go</small>
 
-**tu enda ke?**
+**te enda ke?**
 Where are you going?
 
-**mi enda dom.**
+**me enda dom.**
 I'm going home.
 
-**mi bixu enda ke?**
+**me bixu enda ke?**
 Where should I go?
 
-**mi bixu enda to ki ren?**
+**me bixu enda to ki ren?**
 To whom should I go?
 
 **haida enda!**
 Let's go!
 
-**haida enda na pede**
+**haida enda sa pede**
 Let's go by foot!
 
 ### laya <small>to come</small>
@@ -712,64 +713,64 @@ Let's go by foot!
 **bita laya!**
 Come here!
 
-**tu laya ze ke?**
+**te laya ga ke?**
 Where do you come from?
 
-**mi laya ze dubai.**
+**me laya ga dubai.**
 I come from Dubai.
 
-**mi laya dom badi den.**
+**me laya dom badi den.**
 I will come home tomorrow.
 
 ### safara <small>to travel</small>
 
-**eska tu safara na tren?**
+**eska te safara sa tren?**
 Do you travel by train?
 
-**mimen safara ze london to paris.**
+**mome safara ga london pa paris.**
 We travel from London to Paris.
 
 **safar day long.**
 The voyage is very long.
 
-### na <small>in, on, at</small>
+### sa <small>in, on, at</small>
 
-**hotel na ke?**
+**hotel sa ke?**
 Where is the hotel?
 
-**hotel na di daw.**
+**hotel sa di daw.**
 The hotel is on that road.
 
-**tu na ke?**
+**te sa ke?**
 Where are you?
 
-**mi na dom.**
+**me sa dom.**
 I'm at home.
 
-**ye na ke?**
+**le sa ke?**
 Where is he/she?
 
-**ye sida na kamar.**
+**le sida sa kamar.**
 He/she sits in the room.
 
-Tip! You can use **na** as a preposition or alone as the verb.
+Tip! You can use **sa** as a preposition or alone as the verb.
 
-**mi werka na...**
+**me werka sa...**
 I work at ...
 
 ### doma <small>to live, reside</small>
 
-**tu doma ke?**
+**te doma ke?**
 Where do you live?
 
-**mi doma singapur.**
+**me doma singapur.**
 I live in Singapore.
 
-**eska tu doma ci hotel?**
+**eska te doma ci hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say "tu doma na ke?" instead of "tu doma ke".  However
-**doma** already covers the meaning of being at somewhere, so **na** is not
+Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.  However
+**doma** already covers the meaning of being at somewhere, so **sa** is not
 necessary.
 
 ### denga <small>to wait</small>
@@ -777,10 +778,10 @@ necessary.
 **bita denga!**
 Please wait!
 
-**yemen denga mimen.**
+**lole denga mome.**
 They wait for us.
 
-**mi denga tu na hotel.**
+**me denga te sa hotel.**
 I wait for you in the hotel.
 
 
@@ -788,61 +789,61 @@ I wait for you in the hotel.
 
 ### zay <small>currently</small>
 
-**mi zay salama tu da doste.**  
+**me zay salama te da doste.**  
 I am greeting your friend.
 
 **man zay wida fem.**  
 The man is looking at the woman.
 
-**ye zay xefe.**  
+**le zay xefe.**  
 He or she is currently the chief.
 
-**ye zay na dom.**  
+**le zay sa dom.**  
 He or she is currently at home.
 
 
 ### pas <small>in the past</small>
 
-**mi pas salama tu da doste.**  
+**me pas salama te da doste.**  
 I greeted your friend.
 
 **man pas wida fem.**  
 The man looked at the woman.
 
-**ye pas xefe.**  
+**le pas xefe.**  
 He or she was the chief.
 
-**ye pas na dom.**  
+**le pas sa dom.**  
 He or she was at home.
 
 
 ### lew <small>already, completed</small>
 
-**mi lew salama tu da doste.**  
+**me lew salama te da doste.**  
 I have greeted your friend.
 
 **man lew wida fem.**  
 The man has looked at the woman.
 
-**ye lew xefe.**  
+**le lew xefe.**  
 He or she has been the chief.
 
-**ye lew na dom.**  
+**le lew sa dom.**  
 He or she has been at home.
 
 
 ### wil <small>(future action)</small>
 
-**mi wil salama tu da doste.**  
+**me wil salama te da doste.**  
 I will greet your friend.
 
 **man wil wida fem.**  
 The man will see the woman.
 
-**ye wil xefe.**  
+**le wil xefe.**  
 He or she will be the chief.
 
-**ye wil na dom.**  
+**le wil sa dom.**  
 He or she will be at home.
 
 
@@ -855,48 +856,48 @@ He or she will be at home.
 **bita dona pese.**
 Please give some money.
 
-**bita dona ye to mi.**
+**bita dona le pa me.**
 Please give it to me.
 
-**mi dona ce to tu.**
+**me dona ce pa te.**
 I give this to you.
 
-**mi dona buke to yemen.**
+**me dona buke pa lole.**
 I give a book to them.
 
-**ye no wola dona ye to mi.**
+**le ni wola dona le pa me.**
 He/she doesn't want to give it to me.
 
 ### kapa <small>take, get</small>
 
-**mi kapa un kafe.**
+**me kapa un kafe.**
 I will take a coffee.
 
-**bita kapa un kafe to mi.**
+**bita kapa un kafe pa me.**
 Please take one coffee for me.
 
-**tu pas kapa pese ze mi.**
+**te pas kapa pese ga me.**
 You already got money from me.
 
-**mi kapa un bir.**
+**me kapa un bir.**
 I will take a beer.
 
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar na mes.**  
+**kire si 500 dolar sa mes.**  
 The rent is 500 dollars in a month.
 
-**ye no bila peya kire.**  
+**le ni bila peya kire.**  
 He/she can't pay the rent.
 
-**mi wola kapa un kar na kire.**  
+**me wola kapa un kar sa kire.**  
 I want to take a car for rent.
 
-**mi wola kirokapa un kar.**
+**me wola kirokapa un kar.**
 I want to rent a car.
 
-**ye kirodona kamar to safarer.**
+**le kirodona kamar pa safarer.**
 He/she rents rooms to travelers.
 
 
@@ -908,37 +909,37 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**yemen mai dar tot.**
+**lole mai dar tot.**
 They sell everything.
 
-**mi mai kap un bir.**
+**me mai kap un bir.**
 I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**ye si ki yang?**
+**le si ki yang?**
 What is it like?
 
-**eska ye nowi?**
+**eska le nowi?**
 Is it new?
 
 **ke si max bon?**
 Which is better?
 
-**ce si maxim bon (ze pan).**
+**ce si maxim bon (ga pan).**
 This is the best (of all).
 
-**ye kosta ke?**
+**le kosta ke?**
 How much does it cost?  
 **nol.**
 Nothing.  
-**ye kosta lil / pol.**
+**le kosta lil / pol.**
 It is cheap / expensive.  
 
-**mimen bitu laya.**
+**mome bitu laya.**
 We are being called.
 
-**mi serca tualete.**
+**me serca tualete.**
 I'm looking for the toilet.
 
 ****
@@ -947,12 +948,12 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi darsa pandunia.**
+**me darsa pandunia.**
 I study Pandunia.
 
-**xowa ye to mi ze leksobuke!**
+**xowa le pa me ga leksobuke!**
 Show me in the dictionary!
-**mi no yada.**
+**me ni yada.**
 I don't remember.
 
 ****
@@ -973,25 +974,25 @@ Cheers!
 ****
 Of course!
 
-**eska tu suku ...?**
+**eska te suku ...?**
 Do you like ...?
 
 ****
 I feel alright.
 
-**bita sida na ce!**
+**bita sida sa ce!**
 Please, sit here!
 
-**mi suku stasa.**
+**me suku stasa.**
 I rather stand.
 
 ****
 With pleasure!
 
-**parte kaixu na ke sat?**
+**parte kaixu sa ke sat?**
 When does the party begin?
 
-**tu sahi.**
+**te sahi.**
 You are right.
 
 ****

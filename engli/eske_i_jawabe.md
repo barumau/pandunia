@@ -195,7 +195,7 @@ Esperanto (a heavily agglutinating language) and Pandunia. Parts of
 word are separated with the vertical bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi wol|a   wid|a  tu da     dul sundar     yen         zay.
+    Pandunia:  me wol|a   wid|a  ti        dul sundar     yen         zay.
                I  want to see    your      two beautiful  eyes        now.
 
 
@@ -213,7 +213,7 @@ in Polish, Š in Czech and Ş in Turkish.
 However, there is a handful of languages that use the letter X for
 /ʃ/. Basque and Maltese do it without exception. Portuguese and
 Catalan are less consistent, but X stands for /ʃ/ frequently.
-Pandunia word **xampu** is written exactly the same as in Portuguese.
+Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
 It means _shampoo_.
 
 In the Chinese romanization systen, Pīnyīn, the letter X stands for

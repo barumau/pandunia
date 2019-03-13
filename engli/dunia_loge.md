@@ -152,7 +152,7 @@ As you can see, the same word is written and pronounced differently in different
 | Portuguese | ʃa           | chá             |
 
 
-#### motor (motor)
+#### moter (motor)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -170,7 +170,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of semiglobal words
 
-#### bander (flag)
+#### bandir (flag)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|

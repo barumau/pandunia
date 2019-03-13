@@ -2,36 +2,36 @@
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un sube urse mame wola cuta to bazar.
-ye loga to lil urse: "no nyama kande i keke na dura du mi na bazar."
-lil urse loga: "si, si, mame! mi jana ye. mi day urse. bita cuta way!"
-urse mame loga "salam" i ye cuta way.
+un sube urse mame wola cuta pa bazar.
+le loga pa lil urse: "ni nyama kande i keke sa dura du me sa bazar."
+lil urse loga: "si, si, mame! me jana le. me day urse. bita cuta way!"
+urse mame loga "salam" i le cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse na mon. ye fikra: "zay mi bila fata eni xey du mi wola!"
+lil urse sa mon. le fikra: "zay me bila fata eni xey du me wola!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-lil urse cuta to wax kamar. ye fikra "mi no wola waxa dante zay."
+lil urse cuta pa wax kamar. le fikra "me ni wola waxa dante zay."
 lil urse si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-lil urse joga lil gar na mey kamar. ye wida keke sanduke na meza.
-ye fikra "mi wola nyama keke!" a ye yada: "a! mame loga mi no nyama keke."
-lil urse no nyama keke.
+lil urse joga lil gar sa mey kamar. le wida keke sanduke sa meza.
+le fikra "me wola nyama keke!" a le yada: "a! mame loga me ni nyama keke."
+lil urse ni nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-lil urse wida kande botol na almari. ye fikra "mi wola nyama kande!"
-a ye yada: "a! mame loga mi no nyama kande." lil urse no nyama kande.
+lil urse wida kande botol sa almari. le fikra "me wola nyama kande!"
+a le yada: "a! mame loga me ni nyama kande." lil urse ni nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-lil urse wida mel pote na alter almari. ye fikra
-"mame loga nul xey du tema mel. mi bila nyama mel!"
-lil urse sida na kurse i ye nyama lil mel. mel bon gusta!
+lil urse wida mel pote sa alter almari. le fikra
+"mame loga nul xey du tema mel. me bila nyama mel!"
+lil urse sida sa kurse i le nyama lil mel. mel bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
 
@@ -39,37 +39,37 @@ lil urse nyama pan mel.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, lil urse senta no jana da sente na boke. ye da dante tung!
+bada, lil urse senta ni jana da sente sa boke. le da dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-ye geta tele fon. ye loga: "haló! eska tu si dante dotor? bita laya to mi! mi ada tung dante!"
+le geta tele fon. le loga: "haló! eska te si dante dotor? bita laya pa me! me ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-dotor laya to urse famil da dom. ye loga: "eska tu nida helpe?"
-lil urse loga: "si! mi ada tung dante!"
+dotor laya pa urse famil da dom. le loga: "eska te nida helpe?"
+lil urse loga: "si! me ada tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
-dotor bita lil urse sidu na kurse i kaya boke.
-"aha! un dante day mal! mi bixu geta ye to way."
+dotor bita lil urse sidu sa kurse i kaya boke.
+"aha! un dante day mal! me bixu geta le pa way."
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
-dotor juxa medike to dante manse na jin du mal dante. lil urse no senta tung ze zay.
+dotor juxa medike pa dante manse sa jin du mal dante. lil urse ni senta tung ga zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 
-dotor tira dante na pinser. a dante no laya!
+dotor tira dante sa pinser. a dante ni laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_14.png)
 
-waf laya helpa dotor. dotor i waf tira dante, a dante no laya!
+waf laya helpa dotor. dotor i waf tira dante, a dante ni laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_15.png)
 
-maw laya helpa dotor i waf. dotor i waf i maw tira dante, a dante no laya!
+maw laya helpa dotor i waf. dotor i waf i maw tira dante, a dante ni laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_16.png)
 
@@ -77,12 +77,12 @@ tupay laya helpa dotor i waf i maw. dotor i waf i maw i tupay tira dante...
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_17.png)
 
-dante laya to way!
+dante laya pa way!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_18.png)
 
-dotor loga to lil urse: "mal dante zay na way.
-cing yada uza dante brox na mey sube i na mey xam!"
+dotor loga pa lil urse: "mal dante zay sa way.
+cing yada uza dante brox sa mey sube i sa mey xam!"
 lil urse wada yada.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_19.png)
@@ -91,11 +91,11 @@ lil urse loga: "danke dotor i waf i maw i tupay!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_20.png)
 
-lil urse waxa dante na dante brox mey sube i mey xam.
+lil urse waxa dante sa dante brox mey sube i mey xam.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_21.png)
 
-urse mame nota lil urse kura se da dante max bon.
-mame loga: "tu si bon lil urse!"
+urse mame nota lil urse kura zi dante max bon.
+mame loga: "te si bon lil urse!"
 
 

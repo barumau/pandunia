@@ -3,49 +3,49 @@
 <small>tarjumu du _Erjo_</small>
 
 
-na mar, zayu guy du doma na nice du pulte du transa suy.
-guy ada mal rupe. ye ada yen – day ka plate, i nos – day ka warke brox.
+sa mar, zayu guy du doma sa nice du pulte du transa suy.
+guy ada mal rupe. le ada yen – day ka plate, i nos – day ka warkobrox.
 
-na koy den, guy auda lil sonde na supre du pulte.
-«ki ren marca na mi da pulte?» kritu guy.
-«o! mon mi, lil buze» logu lil buze.
-ye loga day fain, i kontina:
-«mi marca to gras loke du mi wil nyama to mi si feti».
+sa koy den, guy auda lil sonde sa supre du pulte.
+«ki ren marca sa me da pulte?» kritu guy.
+«o! mon me, lil buze» logu lil buze.
+le loga day fain, i kontina:
+«me marca pa gras loke du me wil nyama pa me si feti».
 
-«nun mi kapa tu!» logu guy.
+«nun me kapa te!» logu guy.
 
-«no, no!», logu lil buze.
-«no kapa mi, sabu mi si lil lil. mon denga lil, i jung buze wil marca, ye si max day».
+«ni, ni!», logu lil buze.
+«ni kapa me, sabu me si lil lil. mon denga lil, i jung buze wil marca, le si max day».
 «okey», logu guy.
 
 <p style="font-size:6em;text-align:center;">👺</p>
 
-bada lil zaman, sonde audu na supre du pulte.
-«ki ren marca na mi da pulte?», kritu guy.
-«o! si mi, jung buze. mi kina to gras loke du mi wil nyama to mi si feti», jung buze loga.
-ye fuli no loga fain.
+bada lil zaman, sonde audu sa supre du pulte.
+«ki ren marca sa me da pulte?», kritu guy.
+«o! si me, jung buze. me kina pa grasistan du me wil nyama pa me si feti», jung buze loga.
+le fuli ni loga fain.
 
-«nun mi kapa tu!» logu guy.
+«nun me kapa te!» logu guy.
 
-«no, no! no kapa mi» logu jung buze.
-«denga lil, i day buze wil marca, ye si day day».
+«ni, ni! ni kapa me» logu jung buze.
+«denga lil, i day buze wil marca, le si day day».
 «okey» logu guy.
 
 <p style="text-align:center;"><span style="font-size:3em;">🐐</span><span style="font-size:4.5em;">🐐</span><span style="font-size:6em;">🐐</span></p>
 
-bada lil zaman, rapidi si kelele na supre du daw.
-«ki ren marca na mi da pulte?», kritu guy.
-«mi, day buze», logu day buze na gaw sonde.
+bada lil zaman, bari kelele audu sa supre du daw.
+«ki ren marca sa me da pulte?», kritu guy.
+«me, day buze», logu day buze sa gaw sonde.
 
-«nun mi kapa tu!» logu guy.
+«nun me kapa te!» logu guy.
 
-«si, tu laya! mi ada du baton, na yemen mi wil haraba tu da yen.
-mi ada du day jang-petre, na yemen mi wil parca tu da oste.»
+«si, te laya! me ada dul baton, sa lole me wil haraba te da yen.
+me ada dul day jengopetre, sa lole me wil parca te da oste.»
 
-i bada de, day buze haraba guy da yen, i parca guy da oste, i lanca guy to suy.
-bada de, ye kina to gras loke.
-na gras loke, pan buze fatu feti. yemen karbi no ada energe to fuga to dom.
-i gar fate no kina ze yemen hay, yemen hay si feti.
+i bada ce, day buze haraba guy da yen, i parca guy da oste, i lanca guy pa suy.
+bada ce, le marca pa grasistan.
+sa grasistan, pan buze fatu feti. lole karbi ni ada energe pa fuga pa dom.
+i gar lole ni kina ze hay, lole hay si feti.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>
 

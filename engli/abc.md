@@ -19,7 +19,10 @@ Pandunia has five vowels.
     e   o
       a
 
-They are pronounced as follows: **a** like in _palm_, **e** like in _hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in _rude_. They are pure vowels, so their quality doesn't change over the duration of the vowel.
+They are pronounced as follows: **a** like in _palm_, **e** like in
+_hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in
+_rude_. They are pure vowels, so their quality doesn't change over
+the duration of the vowel.
 
 Semivowels **y** and **w** are pronounced like in English.
 
@@ -115,8 +118,8 @@ uncertainty.
 In informal texts smileys, emoticons and emojis may be used to indicate mood.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **mi wida tu :)** = I see you.  
-> **mi no wida tu :(** = I don't see you.
+> **me wida te :)** = I see you.  
+> **me ni wida te :(** = I don't see you.
 
 ## Word structure
 

@@ -5,11 +5,11 @@ pandunia - dunia bax
 
 salam dunia!
 
-pandunia si nowi dunia bax! pandunia da lekse laya ze dunia da mey
-fen: afrike, amerike, asia, europe – ze dunia bax bixu wakila mimen
+pandunia si nowi dunia bax! pandunia da lekse laya ga dunia da mey
+fen: afrike, amerike, asia, europe – ga dunia bax bixu wakila mome
 da pan dunia!
 
-eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.html).
+eska te jana pandunia? ze bila darsa pandunia na uza [mini darse](mini_darse.html).
 
 
 * [abace](abc.md)
@@ -28,7 +28,7 @@ eska tu jana pandunia? se bila darsa pandunia na uza [mini darse](mini_darse.htm
   * [pal nam](lekse/pal.html)
   * [dex nam](dex_nam.md)
   * [loge asle](loge_asle.md)
-* wikí
+* wikia
   * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
   * [sani bax temu da wikia](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
   * [max i max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)

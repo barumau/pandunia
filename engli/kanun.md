@@ -40,22 +40,22 @@ These are the 11 basic rules of Pandunia language.
 4. The adjectives and the adverb have the same form. They come before
    the word that they modify. Frequently adjectives end in **-i**.
     - ex. 1. **bon pang** = Good bread.
-    - ex. 2. **tu bon loga.** = You speak well.
+    - ex. 2. **te bon loga.** = You speak well.
 5. Compound words are formed by putting words side by side. Linking
    vowel **-o-** is inserted between the elements.
     - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **mi nyama pang.** = I eat bread.
+    - ex. **me nyama pang.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
     - ex. **pang nyamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **mi bita tu dona mone.** = I ask you to give money.
+    - ex. **me bita te dona mone.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
-    - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Do
+    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
-    - **mi bita tu loga ming.** →  **bita loga ming.** = Please speak
+    - **me bita te loga ming.** →  **bita loga ming.** = Please speak
       clearly.
 11. Derived words carry an ending. Adjectives end in -i, nouns end in
     -e, and verbs end in -a or -u.
@@ -132,9 +132,9 @@ An adverb is a word that modifies a verb or another modifier.
 In Pandunia an adverb is a modifier that is before a verb or at the
 end of the sentence.
 
-> **mi _bon_ sona.** - I well sleep.  
-> **mi sona _bon_.** - I sleep _well_.  
-> **tu baxa pandunia _bon_.** - You speak Pandunia _well_.
+> **me _bon_ sona.** - I well sleep.  
+> **me sona _bon_.** - I sleep _well_.  
+> **te baxa pandunia _bon_.** - You speak Pandunia _well_.
 
 ### 3.4 Modifying another modifier
 
@@ -165,8 +165,8 @@ Modifiers can be compared.
 Particle **ka** relates the adverbs of comparison to the point of
 comparison.
 
-> **mi si max bon ka tu.** - I am better than you.  
-> **tu loga sem bon ka mi.** - You speak as well as mi.
+> **me si max bon ka te.** - I am better than you.  
+> **te loga sem bon ka me.** - You speak as well as me.
 
 #### 3.6. Modifier ending
 
@@ -253,26 +253,26 @@ of a thousand.
 
 Pronouns can substitute thing-words and phrases of thing-words.
 
-**mi** - I, mi  
-**tu** - you  
-**ye** - he, she, it  
-**mimen** - we  
-**tumen** - you all  
-**yemen** - they
+**me** - I, me  
+**te** - you  
+**le** - he, she, it  
+**mome** - we  
+**tote** - you all  
+**lole** - they
 
 ### 5.2. Reflexive pronoun
 
 The reflexive pronoun is used when the object of a sentence is the
 same as the subject.
 
-**se** - self
+**ze** - self
 
-Note! The reflexive pronoun **se** is used for all persons, so it
+Note! The reflexive pronoun **ze** is used for all persons, so it
 corresponds to English _myself_, _yourself_, _himself_, _herself_,
 _itself_, ourselves_ and _themselves_ all at once.
 
-**mi wida se** - I see myself.  **ye wida se** - She sees herself. /
-He sees himself. / It sees itself.  **mimen wida se.** - We see
+**me wida ze** - I see myself.  **le wida ze** - She sees herself. /
+He sees himself. / It sees itself.  **mome wida ze.** - We see
 ourselves.  
 
 ### 5.3. Demonstrative pronouns
@@ -282,8 +282,8 @@ The demonstrative pronouns are:
 **ce** - this one  
 **de** - that one  
 
-**mi wola ce.** - I want this one.  
-**ye wola de.** - He/she wants that one.  
+**me wola ce.** - I want this one.  
+**le wola de.** - He/she wants that one.  
 
 They end in **-i** when they function as adjectives i.e. when they
 come before a noun.
@@ -310,7 +310,7 @@ Adjectives are questioned with **ki**.
 
 > **ki day?** - How big?  
 > **ki lil?** - How small?  
-> **ki day da maw tu ada?** - How big cat do you have?
+> **ki day da maw te ada?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -349,8 +349,8 @@ and the object third.
     S   O
 
 Examples:  
-**mi wida yemen.** - I see them.  
-**tu beka pang.** - You bake bread.  
+**me wida lole.** - I see them.  
+**te beka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
 
@@ -364,8 +364,8 @@ dependant clauses.
     S ← O
 
 Examples:  
-**ke tu wida?** - What do you see?  
-**mi nyama pang, du tu beka.** - I eat bread _that you baked._
+**ke te wida?** - What do you see?  
+**me nyama pang, du te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -398,8 +398,8 @@ SOV order is commonly used alternative for SVO order.
     O ← S
 
 Examples:  
-**mi yemen widu.** - _I them see._  
-**tu pang beku.** - _You bread bake._
+**me lole widu.** - _I them see._  
+**te pang beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
 
@@ -412,8 +412,8 @@ OVS order is common in "passive" sentences.
     O   S
 
 Examples:  
-**pang beku tu.** - Bread is baked by you.  
-**tu suku mi.** - You are pleased by me.
+**pang beku te.** - Bread is baked by you.  
+**te suku me.** - You are pleased by me.
 
 #### 6.3.3. VSO order
 
@@ -430,7 +430,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e.
 agent).
 
-> **mi widu.** - I am seen.  
+> **me widu.** - I am seen.  
 > **pang beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
@@ -459,38 +459,38 @@ Normally a sentence consists of a subject and a predicate. In the
 simplest sentences, the subject is a personal pronoun and the
 predicate is an adjective or a noun.
 
-> **mi bon.** - I am good.  
-> **ye nowi.** - It is new.  
-> **ye sara.** - She is Sara.  
+> **me bon.** - I am good.  
+> **le nowi.** - It is new.  
+> **le sara.** - She is Sara.  
 
-The word **no** is added to form the negative.
+The word **ni** is added to form the negative.
 
-> **mi no bon.** - I'm not good.  
-> **ye no nowi.** - It's not new.  
-> **ye no sara.** - She is not Sara.
+> **me ni bon.** - I'm not good.  
+> **le ni nowi.** - It's not new.  
+> **le ni sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
 
-> **mi si ye.** - I am he/she.  
-> **mi no tu.** - I'm not you.
+> **me si le.** - I am he/she.  
+> **me ni te.** - I'm not you.
 
 #### 7.2.2. With noun subject
 
 When the subject is a noun, the word **si** (yes) is added before the
-predicate in positive sentences. The negative sentences use **no**
+predicate in positive sentences. The negative sentences use **ni**
 like above.
 
 > **sara si bon.** - Sara is good.  
 > **petre si day.** - The stone is big.  
 > **meze si nowi.** - The table is new.  
-> **meze no law.** - The table is not old.
+> **meze ni law.** - The table is not old.
 
 #### 7.2.3. With adjective subject
 
 The same rule applies also for two adjectives.
 
 > **jowan si sundar.** - Young is beautiful.  
-> **nowi no law.** - New is not old.  
+> **nowi ni law.** - New is not old.  
 
 #### 7.2.4. To be
 
@@ -505,14 +505,14 @@ most of them end in **-a** or **-u**.
 Active sentences that use a verb ending in **-a** have the
 subject–verb–object word order (SVO).
 
-> **mi nyama aple.** - I eat apples.  
-> **mi auda musike.** - I hear music.  
-> **mi wida tu.** - I see you.
+**me nyama aple.** - I eat apples.  
+**me auda musike.** - I hear music.  
+**me wida te.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order
 (SOV).
 
-**mi aple nyamu.** - _I apples eat._
+**me aple nyamu.** - _I apples eat._
 
 SOV and SVO are the two most common word orders by far in the
 languages of the world. SOV is used in languages like Hindi-Urdu,
@@ -527,9 +527,9 @@ In the passive voice there is no agent subject in the sentence. There
 is only the object and the verb. Normally the passive is expressed
 with object–verb (OV) word order with the verb ending in **-u**.
 
-> **tu widu.** - You are seen.  
-> **musike audu.** - Music is heard.  
-> **pang beku.** - Bread is baked.
+**te widu.** - You are seen.  
+**musike audu.** - Music is heard.  
+**pang beku.** - Bread is baked.
 
 Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
@@ -537,16 +537,16 @@ sentence. The object is a passive actor that undergoes the action.
 The agent can be mentioned after the verb with or without the
 preposition **du**.
 
-> **tu widu mi.** - You are seen by me.  
-> **tu widu du mi.** - You are seen by me.
+**te widu me.** - You are seen by me.  
+**te widu du me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
 In verb–object (VO) order the focus is on the verb.
 
-> **wida tu.** - Seeing you.  
-> **auda musike.** - Listening music.  
-> **beka pang.** - Baking bread.
+**wida te.** - Seeing you.  
+**auda musike.** - Listening music.  
+**beka pang.** - Baking bread.
 
 ### 7.5. All Possible Word Orders
 
@@ -560,17 +560,17 @@ the object or the verb. The focus or emphasis is on the first part of
 a sentence.
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musike mi auda.
-        - subject–verb–object (SVO) :        mi auda musike.
-        - verb–object–subject (VOS) :           auda musike mi.
+        - object–subject–verb (OSV) : musike me auda.
+        - subject–verb–object (SVO) :        me auda musike.
+        - verb–object–subject (VOS) :           auda musike me.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musike audu.
-        - object-verb-subject (OVS) :    musike audu mi.
-        - verb-subject-object (VSO) :           audu mi musike.
+        - subject-object-verb (SOV) : me musike audu.
+        - object-verb-subject (OVS) :    musike audu me.
+        - verb-subject-object (VSO) :           audu me musike.
 
 The constituent, which is further away from the verb, can be left out.
-So for example **musike mi auda** (OSV) can be truncated to **mi
-auda** (SV). Likewise **mi musike audu** (SOV) can be truncated to
+So for example **musike me auda** (OSV) can be truncated to **me
+auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 **musike audu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
@@ -587,11 +587,11 @@ In the _pivot structure_ the word order is:  subject – verb 1 – object
 Object 1 functions has dual role. It is at the same time the object
 for verb 1 and the subject for verb 2.
 
-> **mi wola tu nyama sabze.** - I want you eat vegetables.
+**me wola te nyama sabze.** - I want you eat vegetables.
 
-In the example above, **mi wola** has **tu** as its object. At the same
-time, **tu** functions as the subject of the following predicate,
-**nyama sabze**. So **tu** is the _pivot_ of the entire sentence.
+In the example above, **me wola** has **te** as its object. At the same
+time, **te** functions as the subject of the following predicate,
+**nyama sabze**. So **te** is the _pivot_ of the entire sentence.
 
 ### 7.7. Serial verbs
 
@@ -599,9 +599,9 @@ All action-words (verbs) that come one after another are activated by
 the subject. There can be two, three or even more action-words in
 series.
  
-1. **mi enda dom.** - I go home.  
-2. **mi bila enda dom.** - I can go home.  
-3. **mi wola bila enda dom.** - I want to be able to go home. (Lit. _I
+1. **me enda dom.** - I go home.  
+2. **me bila enda dom.** - I can go home.  
+3. **me wola bila enda dom.** - I want to be able to go home. (Lit. _I
    want can go home_!)
 
 ### 7.8. Pronoun dropping
@@ -611,13 +611,13 @@ This is done especially in commands and requests.
 
 #### 7.8.1. Short pivot structure (VOVO)
 
-> **mi eska tu baxa pandunia.** - I ask do you speak Pandunia.  
-> **eska tu baxa pandunia?** - Do you speak Pandunia.
+**me eska te baxa pandunia.** - I ask do you speak Pandunia.  
+**eska te baxa pandunia?** - Do you speak Pandunia.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-> **mi bita tu laya dom.** - I ask you to come home.  
-> **bita laya dom!** - Please come home! (Literally: _Request come home!_)
+**me bita te laya dom.** - I ask you to come home.  
+**bita laya dom!** - Please come home! (Literally: _Request come home!_)
 
 --------------------------------------------------------------------------------
 
@@ -630,9 +630,9 @@ This is done especially in commands and requests.
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-> **mi suku maw i waf.** - I like cats and dogs.  
-> **mi suku maw u waf.** - I like cats or dogs.  
-> **mi suku maw a no waf.** - I like cats but not dogs.
+**me suku maw i waf.** - I like cats and dogs.  
+**me suku maw u waf.** - I like cats or dogs.  
+**me suku maw a ni waf.** - I like cats but not dogs.
 
 --------------------------------------------------------------------------------
 
@@ -642,43 +642,43 @@ This is done especially in commands and requests.
 
 ### 9.1.1. Affirmative
 
-Particle **si** is affirmative and **no** is negative. **si** affirms
-the existence of something, whereas **no** denies it. In other words
-**si** means "to be" or "there is" and **no** means "not to be" or
+Particle **si** is affirmative and **ni** is negative. **si** affirms
+the existence of something, whereas **ni** denies it. In other words
+**si** means "to be" or "there is" and **ni** means "not to be" or
 "there is not".
 
 Expressions are affirmative by default, so the word **si** is not
 always necessary. However it is especially convenient in expressions
 of state.
 
-> **mi si ren.** - I am a person.  
-> **ye si nowi meze.** - It is a new table.
+**me si ren.** - I am a person.  
+**le si nowi meze.** - It is a new table.
 
 ### 9.1.2. Negative
 
-Such sentences can be simply negated with **no**.
+Such sentences can be simply negated with **ni**.
 
-> **mi no ren.** - I'm not a person.  
-> **ye no nowi meze.** - It's not a new table.
+**me ni ren.** - I'm not a person.  
+**le ni nowi meze.** - It's not a new table.
 
-The word **no** is used for denying anything. It affects always the next word.
+The word **ni** is used for denying anything. It affects always the next word.
 
-> **mi wida tu.** - I see you.  
-> **mi no wida tu.** - I don't see you.  
-> **mi wida no tu a yemen.** - I see, not you, but them.
+**me wida te.** - I see you.  
+**me ni wida te.** - I don't see you.  
+**me wida ni te a lole.** - I see, not you, but them.
 
-The particles **si** and **no** are used also for answering questions.
+The particles **si** and **ni** are used also for answering questions.
 
-> **eska tu wida mi?** - Do you see me?  
-> **si. (mi si wida tu.)** - Yes. (I do see you.)  
-> **no. (mi no wida tu.)** - No. (I don't see you.)
+**eska te wida me?** - Do you see me?  
+**si. (me si wida te.)** - Yes. (I do see you.)  
+**ni. (me ni wida te.)** - No. (I don't see you.)
 
-Negative questions are answered so that **si** and **no** apply to the
+Negative questions are answered so that **si** and **ni** apply to the
 verb, not the whole question.
 
-> **eska tu no wida mi?** - Don't you see me?  
-> **si. (mi si wida tu.)** - Yes. (I do see you.)  
-> **no. (mi no wida tu.)** - No. (I don't see you.)
+**eska te ni wida me?** - Don't you see me?  
+**si. (me si wida te.)** - Yes. (I do see you.)  
+**ni. (me ni wida te.)** - No. (I don't see you.)
 
 ### 9.2. Modifier particles
 
@@ -694,15 +694,15 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **da** works like apostrophe-s ('s) in
 English.
 
-> **maria da mame** - Maria's mother  
-> **mi da dom** - my house  
-> **mi da pape da dom** - my father's house
+**maria da mame** - Maria's mother  
+**me da dom** - my house  
+**me da pape da dom** - my father's house
 
 **du** works like "of" in English.
 
-> **mame du maria** - the mother of Maria  
-> **dom du mi** - the house of mine  
-> **dom du pape du mi** - the house of the father of mine
+**mame du maria** - the mother of Maria  
+**dom du me** - the house of mine  
+**dom du pape du me** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -713,13 +713,13 @@ the particle makes it clear in which end the main noun is.
 The modifier particles are useful for creating complex adjectives that
 consists of two or more words.
 
-> **roze rang da labe** - rose-colored lips  
-> **saman rang da yen** - sky-colored eyes
+**roze rang da labe** - rose-colored lips  
+**saman rang da yen** - sky-colored eyes
 
 Or in the opposite order:
 
-> **labe du roze rang** - lips of the color of the rose  
-> **yen du saman rang** - eyes of the color of the sky
+**labe du roze rang** - lips of the color of the rose  
+**yen du saman rang** - eyes of the color of the sky
 
 The particles help in creating measure words too.
  
@@ -740,22 +740,22 @@ Also relative clauses are created with help of the modifier particles.
 Here **du** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-> **ye si man _du mi wida_.** - He is the man _that I saw_.
+**le si man _du me wida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-> **mi wida man _du nyama aple_.** - I see a man _who eats apples_.  
+**me wida man _du nyama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
 into a modifier by putting **da** immediately after the verb.
 
-> **mi wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
+**me wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
 
-> **buke dugu da ren na kamar.** = The book-reading person is in the room.  
-> **ye duga da buke na meze.** = The book, that he/she reads, is on the table.
+**buke dugu da ren sa kamar.** = The book-reading person is in the room.  
+**le duga da buke sa meze.** = The book, that he/she reads, is on the table.
 
 ### 9.3. Modal Particles
 
@@ -771,10 +771,10 @@ sentence.
 The particle **plus** _(also)_ is a good example because it functions
 much like in English.
 
-> **ye nyama bir plus.** - S/he drinks beer, _also_.  
-> **ye nyama plus bir.** - S/he drinks _also beer_.  
-> **ye plus nyama bir.** - S/he _also drinks_ beer.  
-> **plus ye nyama bir.** - _Also s/he_ drinks beer.
+**le nyama bir plus.** - S/he drinks beer, _also_.  
+**le nyama plus bir.** - S/he drinks _also beer_.  
+**le plus nyama bir.** - S/he _also drinks_ beer.  
+**plus le nyama bir.** - _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
@@ -785,16 +785,16 @@ if needed. The general time words are **pas** (past), **zay**
 (present) and **wil** (future, upcoming). They function like
 adjectives and adverbs, so typically their place is before the verb.
 
-> **mi pas ada maw.** - I had cats.
-> **a mi no zay ada maw.** - But I now don't have cats.
-> **munkin mi wil ada maw.** - Maybe I will have cats.
+**me pas ada maw.** - I had cats.
+**a me ni zay ada maw.** - But I now don't have cats.
+**munkin me wil ada maw.** - Maybe I will have cats.
 
-It's also possible to say it in a longer way like **na pase** (in the
+It's also possible to say it in a longer way like **sa pase** (in the
 past) etc.
 
-> **mi ada maw na pase.** - I had cats in the past.  
-> **a mi no ada maw na zaye.** - But I don't have cats at present.  
-> **munkin mi ada maw na wile.** - Maybe I will have cats in the future.
+**me ada maw sa pase.** - I had cats in the past.  
+**a me ni ada maw sa zaye.** - But I don't have cats at present.  
+**munkin me ada maw sa wile.** - Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **ada** stayed the same in
 all tenses in the examples above.
@@ -811,40 +811,40 @@ and not in every single sentence, if the tense doesn't change.
 
 Pandunia has four prepositions of place and time.
 
-1. **na** - presence, location or moment (in general): with, at, in,
+1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
-2. **be** - absence or lack: without
-3. **ze** - origin, beginning or cause: from, since, because
-4. **to** - destination, end or purpose: to, till, until, for, then
+2. **na** - absence or lack: without
+3. **ga** - origin, beginning or cause: from, since, because
+4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
 
-> **mi na hotel.** - I'm in the hotel.  
-> **mi sona na hotel.** - I sleep in the hotel.  
-> **mi sona ze xam to suba.** - I sleep since evening until morning.  
-> **mi safara ze london to paris.** - I travel from London to Paris.  
+**me sa hotel.** - I'm in the hotel.  
+**me sona sa hotel.** - I sleep in the hotel.  
+**me sona ga xam pa suba.** - I sleep since evening until morning.  
+**me safara ga london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-> **mi denga ze tu enda.** - I have waited since you left.  
-> **mi denga to tu lay dom.** - I wait until you come home.  
-> **mi denga na tu sona.** - I wait while you sleep.  
+**me denga ga te enda.** - I have waited since you left.  
+**me denga pa te lay dom.** - I wait until you come home.  
+**me denga sa te sona.** - I wait while you sleep.  
 
-#### 10.1.2. na
+#### 10.1.2. sa
 
-**na** is an all-purpose preposition. Its basic meaning is "with".
+**sa** is an all-purpose preposition. Its basic meaning is "with".
  
-**mi stasa na dom.**  
+**me stasa sa dom.**  
 _I stand with house._  
 I stand by the house.
  
-**mi loga na pandunia.**  
+**me loga sa pandunia.**  
 _I speak with Pandunia._  
 I speak in Pandunia.
  
-**mi loga na doste na pandunia na fon.**  
+**me loga sa doste sa pandunia sa fon.**  
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia in telephone.
 
@@ -852,37 +852,37 @@ I speak with friends in Pandunia in telephone.
 
 In Pandunia some verbs function like prepositions do in English.
 
-> **mi kata pang.** - I cut bread.  
-> **mi kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
+**me kata pang.** - I cut bread.  
+**me kata pang, uza caku.** - I cut bread, use a knife. (I cut bread with a knife.)  
 
-> **mi denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
+**me denga dura dul hor.** - I wait, (it) lasts two hours. (I wait during/for two hours.)
 
 Here are some verbs that are usable as prepositions:
 
-> **bada** - to follow; after, behind  
-> **dura** - to last; during, for the time/duration of  
-> **jungu** - to be centered; amid, amidst, in the middle, in the center  
-> **loka** - to occupy, to be located; at  
-> **sirka** - to surround; around  
-> **supra** - to surpass; over, above  
+**bada** - to follow; after, behind  
+**dura** - to last; during, for the time/duration of  
+**jungu** - to be centered; amid, amidst, in the middle, in the center  
+**loka** - to occupy, to be located; at  
+**sirka** - to surround; around  
+**supra** - to surpass; over, above  
 
 #### 10.1.4. Verbs without prepositions
 
 Prepositions are not used as frequently in Pandunia as in English. In
 many phrases, the verb says enough alone.
 
-> **mi laya dom.** - I come home.  
-> **tu sida kurse.** - You sit (on) the chair.  
-> **ye lala sofa'.** - S/he lies (on) the sofa.  
-> **fix nata daria.** - Fish swim (in) the sea.  
-> **jenger marca daw.** - Warriors march (on) the road.  
+**me laya dom.** - I come home.  
+**te sida kurse.** - You sit (on) the chair.  
+**le lala sofa'.** - S/he lies (on) the sofa.  
+**fix nata daria.** - Fish swim (in) the sea.  
+**jenger marca daw.** - Warriors march (on) the road.  
 
 ### 10.2. Preposition of relation
 
 Preposition **ka** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-> **mi jana pandunia ka gur.** - I know Pandunia like a master.
+**me jana pandunia ka gur.** - I know Pandunia like a master.
 
 **ka** relates the verb or the adjective to a point of comparison. In
 the above example **jana** (know) is the verb and **gur** (master) is
@@ -890,8 +890,8 @@ the point of comparison.
 
 **ka** is also used when adjectives are compared.
 
-> **bace si min day ka pape.** - The child is smaller than the father.  
-> **law pape si sem day ka pape.** - Grandfather is as big as father.
+**bace si min day ka pape.** - The child is smaller than the father.  
+**law pape si sem day ka pape.** - Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison – **max** (more), **min**
 (less) and **sem** (same) – to the point of comparison, which is
@@ -1160,22 +1160,22 @@ made possible by the two verb endings, which decide the order of the
 other constituents (subject and object).
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musike mi auda.
-        - subject–verb–object (SVO) :        mi auda musike.
-        - verb–object–subject (VOS) :           auda musike mi.
+        - object–subject–verb (OSV) : musike me auda.
+        - subject–verb–object (SVO) :        me auda musike.
+        - verb–object–subject (VOS) :           auda musike me.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musike audu.
-        - object-verb-subject (OVS) :    musike audu mi.
-        - verb-subject-object (VSO) :           audu mi musike.
+        - subject-object-verb (SOV) : me musike audu.
+        - object-verb-subject (OVS) :    musike audu me.
+        - verb-subject-object (VSO) :           audu me musike.
 
 The constituent, which is further away from the verb, can be left out.
-So for example **musike mi auda** (OSV) can be truncated to **mi
-auda** (SV). Likewise **mi musike audu** (SOV) can be truncated to
+So for example **musike me auda** (OSV) can be truncated to **me
+auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 **musike audu** (OV).
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**mi wida ren, du tu jana.** (I saw the person _whom you know_.) The
+**me wida ren, du te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1250,8 +1250,8 @@ In Pandunia, structure words share the following characteristics:
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.
 3. The vowel has a structural meaning, as follows:
-    - -e indicates a pronoun
-    - -i indicates a determiner
+    - -e indicates a pronoun or a noun
+    - -i indicates a determiner or a modifier
     - -a indicates a preposition
     - -u indicates a postposition
     - -o indicates a prefix
@@ -1282,21 +1282,21 @@ and other words are directly or indirectly connected to it.
 
 Each sentence can be drawn as a tree diagram, where the central words
 are above and the dependant words are below. For example the sentence
-**mi wida tu** (I see you) can be pictured as a tree as follows.
+**me wida te** (I see you) can be pictured as a tree as follows.
 
-    mi wida tu.
+    me wida te.
 
        wida
       ┌─┴─┐
-     mi   tu
+     me   te
 
 Adjectives and numerals point to their head word, the noun.
 
-    mi wida sam jowan ren.
+    me wida sam jowan ren.
 
        wida
       ┌─┴──┐
-     mi   ren
+     me   ren
            |
          jowan
            |
@@ -1308,7 +1308,7 @@ central is as follows.
 1. Structure words
     1. Conjunctions: i, u, a
     2. Connectors: da, du
-    3. Prepositions and postpositions: na, sa, pa, ga; nu, su, pu, gu
+    3. Prepositions and postpositions: sa, sa, pa, ga; nu, su, pu, gu
     4. Pronouns
 2. Content words
     1. Numerals
@@ -1322,13 +1322,13 @@ general higher than **sabu**, here its scope is only to connect
 **yusef** and **sara**.  **sabu** is at the top, because it connects
 the two sub-phrases.
 
-    yusef i sara wola darsa pandunia, sabu ye si bon dunia bax.
+    yusef i sara wola darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
               wola                   si
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ye    bax
+          i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sara       pandunia       dunia
                                         |

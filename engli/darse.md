@@ -6,49 +6,49 @@ Introducing yourself
 
 ### Dialog
 
-☻: **tu si ke?**
+☻: **te si ke?**
 = Who are you?  
-☺: **mi si yusef. tu si ke?**
+☺: **me si yusef. te si ke?**
 = I am Yusef. Who are you?  
-☻: **mi si maria. ye si ke?**
+☻: **me si maria. le si ke?**
 = I am Maria. Who is that?  
-☺: **ye si mi da doste.**
+☺: **le si mi doste.**
 = That is my friend.  
-☻: **ye da nam si ke?**
+☻: **li nam si ke?**
 = What's her name?  
-☺: **ye da nam si sara.**
+☺: **li nam si sara.**
 = Her name is Sara.
 
 ### Grammar
 
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
-tells something about the topic. For instance in **ye si mi da doste**
-the topic is the pronoun **ye** (he, she, it), which is followed by
-the comment **si mi da doste** (is my friend).
+tells something about the topic. For instance in **le si mi doste**
+the topic is the pronoun **le** (he, she, it), which is followed by
+the comment **si mi doste** (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
-simply replace it with **no** (which is the word for _no_).
+simply replace it with **ni** (which is the word for _no_).
 
-**ye si sara.**
+**le si sara.**
 = She is Sara.  
-**ye no sara.**
+**le ni sara.**
 = She is not Sara.
 
 **maw si hewan**
 = The cat is an animal.  
-**dom no hewan**
+**dom ni hewan**
 = The house is not an animal.  
 
-In the same way you can describe yourself by saying **mi** and a word
+In the same way you can describe yourself by saying **me** and a word
 that describes you.
 
-**mi bon.**
+**me bon.**
 = I'm good.  
-**mi man.**
+**me man.**
 = I'm a man.  
-**mi fem.**
+**me fem.**
 = I'm a woman.  
 
 
@@ -67,24 +67,24 @@ answers are after the word list.
 
 ### Word List
 
-**mi** I, me. **mi da** my.  
-**tu** you. **tu da** your.  
-**ye** he, she or it. **ye da** his, her, its.  
+**me** I, me. **mi** my.  
+**te** you. **ti** your.  
+**le** he, she or it. **li** his, her, its.  
 **ke** who or what.  
 **si** to be (am, is, are, etc)  
-**si** yes. **no** no, not.  
+**si** yes. **ni** no, not.  
 **bon** good. **doste** friend. **nam** name.  
 **fem** woman. **man** man.  
 **maw** cat. **hewan** animal.
 
 ### Answers to the Exercises
 
-1. tu si ke?
-2. mi si tomas.
-3. tu da doste si ke?
-4. ye si sara.
-5. tu da nam si ke?
-6. mi da nam si ........... 
+1. te si ke?
+2. me si tomas.
+3. ti doste si ke?
+4. le si sara.
+5. ti nam si ke?
+6. mi nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -108,35 +108,37 @@ language, which borrows words from all parts of the world.
 
 The verb form of **salam** is **salama**, which means "to greet".
 
-**mi salama tu.**
+**me salama te.**
 = I greet you.  
-**tu salama mi.**
+**te salama me.**
 = You greet me.
 
 These are active sentences. In active sentences the subject does the
-action to the object. In **mi salama tu** the first word, **mi**, is
-the subject, **salama** is the verb (action word), and **tu** is the
+action to the object. In **me salama te** the first word, **me**, is
+the subject, **salama** is the verb (action word), and **te** is the
 object. The order of subject, verb and object is the normal word order
 in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ye** = he, she, it. Note that the pronouns stayed the same in the
+Pandunia's personal pronouns are: **me** = I, **te** = you, and
+**le** = he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
 
 In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
-**mi salama tu!**
+**me salama te!**
 = I greet you.  
-**salama tu!**
+**salama te!**
 = Greetings to you! (It is obvious that the speaker is the one who greets.)  
 **salama!**
-= Greetings! (It is obvious that the listeners are greeted.)
+= Greeting! (It is obvious that the listeners are greeted.)  
+**salam!**
+= Hello!
 
-The pattern in **salam tu** is convenient for addressing people by
+The pattern in **salam te** is convenient for addressing people by
 name, kinship term or profession.
 
 **salam toni!**
@@ -148,7 +150,7 @@ name, kinship term or profession.
 **salam xefe!**
 = Hello, chief!
 
-Another Pandunia word for greeting is **haló**. It is also a very
+Another Pandunia word for greeting is **halo'**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
@@ -177,7 +179,7 @@ answers are after the word list.
 
 ### Answers to the Exercises
 
-1. tu salama ye.
+1. te salama le.
 2. mame salama pape.
 3. salam mame!
 4. salam!
@@ -198,12 +200,12 @@ answers are after the word list.
 = Thank you.  
 ☺: **bita nyama kafe u cay.**
 = Please have some coffee or tea.  
-☻: **mi nyama cay. danke.**
+☻: **me nyama cay. danke.**
 = I will have some tea, thank you.  
 ...  
-☺: **bita salama tu da mame!**
+☺: **bita salama ti mame!**
 = Please tell greetings to your mother.  
-☻: **mi salama ye. salam!**
+☻: **me salama le. salam!**
 = I will. Bye!  
 ☺: **salam!**
 = Bye!
@@ -211,19 +213,19 @@ answers are after the word list.
 
 ### Grammar
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ye** = he, she, it. Pandunia is a gender-neutral language. It
+Pandunia's personal pronouns are: **me** = I, **te** = you, and
+**le** = he, she, it. Pandunia is a gender-neutral language. It
 doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi bita tu salama ye.**
+**me bita te salama le.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_. The first verb, **bita** = to
-request, addresses **tu** as its object. At the same time **tu**
+request, addresses **te** as its object. At the same time **te**
 serves also as the subject of the second verb, **salama** = to greet,
-whose object is **ye**. So **tu** has a double role: (1) object of
+whose object is **le**. So **te** has a double role: (1) object of
 the first verb and (2) subject of the second verb. Hence, it is the
 _pivot_ or hinge between the two verbs.
 
@@ -236,9 +238,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi bita tu salama ye.**
+**me bita te salama le.**
 = I ask you to say hello to him/her.  
-**bita salama ye.**
+**bita salama le.**
 = Please say hello to him/her.
 
 See how the translation of **bita** changed between the two sentences?
@@ -249,7 +251,7 @@ words. It is a principle in Pandunia that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
-The phrase **bita salama ye** has a useful pattern that can be used
+The phrase **bita salama le** has a useful pattern that can be used
 for making polite requests.
 
 **bita sida.**
@@ -274,7 +276,7 @@ same pivot structure as requests with **bita**.
 In practice, direct commands can be also made with just one verb and
 a commanding voice.
 
-**safa ye!**
+**safa le!**
 = Clean it!
 
 
@@ -307,10 +309,10 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. ye nyama cay.
-2. xefe bita ye sida.
+1. le nyama cay.
+2. xefe bita le sida.
 3. bita nyama kafe u cay.
-4. mame bita mi safa kamar.
+4. mame bita me safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -322,27 +324,27 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafe u cay?**
+☻: **salam! eska te nyama kafe u cay?**
 = Hello! Would you like to have coffee or tea?  
 ☺: **cay.**
 = Tea.  
-☻: **i tu?**
+☻: **i te?**
 = And you?  
-○: **mi no baxa pandunia...**
+○: **me ni baxa pandunia...**
 = I don't speak Pandunia...  
-☻: **pardon! eska ye nyama cay?**
+☻: **pardon! eska le nyama cay?**
 = Pardon! Will he have tea?  
-☺: **no. ye no nyama cay. ye nyama kafe.**
+☺: **ni. le ni nyama cay. le nyama kafe.**
 = No, he won't. He would like to have coffee.  
-☻: **eska tu nyama supe?**
+☻: **eska te nyama supe?**
 = Would you like to have soup?  
 ☺: **nyama.**
 = Yes. (_I eat._)  
-☻: **eska ye nyama supe?**
+☻: **eska le nyama supe?**
 = Would he like to have soup?  
-☺: **no nyama.**
+☺: **ni nyama.**
 = No.  
-☻: **danke. mi dona un cay i un kafe i un supe na bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade du des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -352,9 +354,9 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **bita**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
-**mi eska tu nyama cay.**
+**me eska te nyama cay.**
 = I ask (do) you drink tea.  
-**eska tu nyama cay?**
+**eska te nyama cay?**
 = Do you drink tea?  
 **eska nyama cay?**
 = Drink tea?
@@ -364,11 +366,11 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska ye nyama cay?**
+**eska le nyama cay?**
 = Does he or she drink tea?  
-**eska tu nyama supe?**
+**eska te nyama supe?**
 = Do you eat soup?  
-**eska mimen nyama suy?**
+**eska mome nyama suy?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
@@ -383,31 +385,31 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **si** = yes, and **no** = no.
+Yes/no questions can be answered with **si** = yes, and **ni** = no.
 
-– **eska tu nyama supe?**
+– **eska te nyama supe?**
 = Do you eat soup?  
 – **si.**
 = Yes.  
-– **eska ye nyama supe?**
+– **eska le nyama supe?**
 = Does she eat soup?  
-– **no.**
+– **ni.**
 = No.
 
 Also more complete answers can be given.
 
-– **eska tu nyama kafe?**
+– **eska te nyama kafe?**
 = Do you drink coffee?  
-– **si. mi nyama kafe.**
+– **si. me nyama kafe.**
 = Yes, I drink coffee.  
-– **eska ye nyama kafe?**
+– **eska le nyama kafe?**
 = Does he drink coffee?  
-– **no. ye no nyama kafe.**
+– **ni. le ni nyama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-– **eska tu nyama suy?**
+– **eska te nyama suy?**
 = Do you drink water?  
 – **nyama.**
 = (Yes, I) drink.
@@ -431,7 +433,7 @@ Try translating these sentences from English to Pandunia.
 **bade** after.
 **pardon** pardon, sorry.
 **minute** minute.
-**no** not.
+**ni** not.
 **baxa** speak a language.
 **suy** water.
 **supe** soup.
@@ -443,12 +445,12 @@ Try translating these sentences from English to Pandunia.
 
 ### Answers to the Exercises
 
-1. eska tu baxa pandunia?
-2. si. mi baxa pandunia.
+1. eska te baxa pandunia?
+2. si. me baxa pandunia.
 3. eska mame nyama kafe?
-4. no. ye no nyama kafe.
-5. eska ye nyama supe?
-6. (ye) no nyama.
+4. ni. le ni nyama kafe.
+5. eska le nyama supe?
+6. (le) ni nyama.
 
 
 --------------------------------------------------------------------------------
@@ -456,38 +458,38 @@ Try translating these sentences from English to Pandunia.
 Saying no
 ---------
 
-In the previous lesson you learned to answer **si** and **no** to
-questions. The word **no** is used for denying something. Adding
-**no** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer **si** and **ni** to
+questions. The word **ni** is used for denying something. Adding
+**ni** in front of the verb turns an affirmative sentence to negative.
 
-**mi salama tu.**
+**me salama te.**
 = I greet you.  
-**mi no salama tu.**
+**me ni salama te.**
 = I do not greet you.
 
 Conceptually negation means the absence or non-existence of the
-negated word. In the phrase **mi no salama tu** the negative word
-**no** denies the existence of greeting. In Pandunia the negative
+negated word. In the phrase **me ni salama te** the negative word
+**ni** denies the existence of greeting. In Pandunia the negative
 word affects the word that follows it. Different scopes of negation
 may result depending on the location of the negative word.
 
-**mi bita tu safa kamar.**
+**me bita te safa kamar.**
 = I ask you to clean the room.  
-**mi no bita tu safa kamar.**
+**me ni bita te safa kamar.**
 = I do NOT ask you to clean the room.  
-**mi bita tu no safa kamar.**
+**me bita te ni safa kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**ye no ada maw.**
+**le ni ada maw.**
 = She doesn't have a cat.  
-**ye ada no maw, a waf.**
+**le ada ni maw, a waf.**
 = She has no cats but dogs.  
-**no ye, a mi ada maw.**
+**ni le, a me ada maw.**
 = Not she but I have cats.  
-**mi ada no un, a dul maw.**
+**me ada ni un, a dul maw.**
 = I have not one but two cats.
 
 
@@ -518,12 +520,12 @@ is more than one correct answer.
 
 ### Answers to the Exercises
 
-1. ye no safa kamar.
-2. un kupe no hali.
-3. dul waf no nyama supe.
-4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama cay a no kafe.
-6. mame ada no waf a dul maw.
+1. le ni safa kamar.
+2. un kupe ni hali.
+3. dul waf ni nyama supe.
+4. le ni ada waf i maw. / le ada ni waf i ni maw.
+5. xefe nyama cay a ni kafe.
+6. mame ada ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -535,11 +537,11 @@ _when_, the interrogative pronoun **ki** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ye si ke?**
+**le si ke?**
 = What is that? / Who is (s)he?  
 **ki ren laya?**
 = Who is coming? (**ren** = person)  
-**ki zaman tu nyama?**
+**ki zaman te nyama?**
 = When do you eat? (**zaman** = time)  
 **ki yang dansa?**
 = How to dance? (**yang** = manner, style)
@@ -547,22 +549,22 @@ manner or thing if needed.
 In Pandunia, questions beginning with _why_ are asked using
 **ke saba**.
 
-**ke saba tu suku maw?**
+**ke saba te suku maw?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke saba tu suku maw?**
+**ke saba te suku maw?**
 = Why do you like cats?  
-**sabu yemen kaway.**
+**sabu lole kaway.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suku maw sabu yemen kaway**
+**me suku maw sabu lole kaway**
 = I like cats because they are cute.
 
 ### Exercises
@@ -588,12 +590,12 @@ something, even when not answering to a question.
 ### Answers to the Exercises
 
 
-1. ke ren suku supe?
+1. ki ren suku supe?
 2. pape suku.
-3. ke zaman ye laya?
-4. na bade du des minute.
-5. ye no nyama sabu ke?
-6. sabu ye no suku kafe u supe.
+3. ke zaman le laya?
+4. sa bade du des minute.
+5. le ni nyama sabu ke?
+6. sabu le ni suku kafe u supe.
 
 
 --------------------------------------------------------------------------------
@@ -606,16 +608,16 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi darba ye.**
+**me darba le.**
 = I hit it.
 
-In Pandunia all verbs are like that! For example, **mi nyama nan**
+In Pandunia all verbs are like that! For example, **me nyama pang**
 can mean both "I eat bread" and "I ate bread", but usually only one
 or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-**mi nyama nan na sube nyam.**
+**me nyama pang sa sube nyam.**
 = I ate bread for morning meal.
 
 There are also specific time words.
@@ -636,36 +638,36 @@ There are also specific time words.
 The adjectives for past, present and future are **pas, zay** and
 **wil**. They can be used for modifying nouns.
 
-**sara si mi da pas xefe.**
+**sara si mi pas xefe.**
 = Sara is my former boss.  
-**yusef si mi da zay xefe.**
+**yusef si mi zay xefe.**
 = Yusef is my current boss.  
-**maria si mi da wil xefe.**
+**maria si mi wil xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas darba ye.**
+**me pas darba le.**
 = I hit it (in the past).  
-**mi zay darba ye.**
+**me zay darba le.**
 = I am hitting it (currently).  
-**mi wil darba ye.**
+**me wil darba le.**
 = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
-**mi darba ye pas.**  
-**mi darba ye zay.**  
-**mi darba ye wil.**
+**me darba le pas.**  
+**me darba le zay.**  
+**me darba le wil.**
 
-It's also possible to use longer phrases like **na pase** (in the past) etc.
+It's also possible to use longer phrases like **sa pase** (in the past) etc.
 
-**mi darba ye na pase.**
+**me darba le sa pase.**
 = I hit it in the past.  
-**mi darba ye na zaye.**
+**me darba le sa zaye.**
 = I hit it at present.  
-**mi darba ye na wile.**
+**me darba le sa wile.**
 = I hit it in the future.
 
 
@@ -675,19 +677,19 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**mi pas ada un maw.**
+**me pas ada un maw.**
 = I had a cat in the past.  
-**ye bon maw.**
+**le bon maw.**
 = It was a good cat.  
-**mi ada un waf zay.**
+**me ada un waf zay.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi jenu na nen 2003.**
+**me jenu sa nen 2003.**
 = I was born in 2003.  
-**ye safa kamar na badi den.**
+**le safa kamar sa badi den.**
 = He will clean the room tomorrow.
 
 
@@ -708,16 +710,16 @@ Try translating these sentences from English to Pandunia.
 **zay** present, current.
 **wil** future.
 **darba** to hit, to beat.
-**nan** bread.
+**pang** bread.
 **sube nyam** morning meal, breakfast.
 
 ### Answers to the Exercises
 
-1. mi da xefe festa na wile.
-2. mi ada dul waf na pase.
-3. tu nyama supe zay.
-4. ye safa kamar na predi den.
-5. maw nyama kafe na badi den.
-6. tu da mame festa na predi noce.
+1. mi xefe festa sa wile.
+2. me ada dul waf sa pase.
+3. te nyama supe zay.
+4. le safa kamar sa predi den.
+5. maw nyama kafe sa badi den.
+6. ti mame festa sa predi noce.
 
 

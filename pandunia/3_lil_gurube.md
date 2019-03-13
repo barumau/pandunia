@@ -1,79 +1,79 @@
 # sam lil gurube
 
-<small>"Three Little Pigs" na pandunia bax. kitabu **thethedorn**.</small>
+<small>"Three Little Pigs" sa pandunia bax. kitabu **thethedorn**.</small>
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-na pase law mam gurube ada sam lil gurube. a ye no ada bas nyam to
-dona to yemen. na den du yemen bas law, ye senda yemen to dunia to
-yemen serca se da kisme.
+sa pase law mam gurube ada sam lil gurube. a le ni ada bas nyam pa
+dona pa lole. sa den du lole bas law, le senda lole pa dunia pa
+lole serca zi kisme.
 
-gurube num un no pol suku werke. ye mey no wola werka i ye bina se
-da dom ze suhi gras. gurube num dul werka lil max, a ye plus lil no
-suku werke, i ye bina se da dom na xake. badu de, yemen gana i dansa
-i mazu na mey den.
+gurube num un ni pol suku werke. le mey ni wola werka i le bina ze
+da dom ga suhi gras. gurube num dul werka lil max, a le plus lil ni
+suku werke, i le bina zi dom sa xake. badu ce, lole gana i dansa
+i mazu sa mey den.
 
-gurube num sam tez werka na tot den, i ye bina se da dom na petre. ye
-bal dom. ye ha fay kan i duman tube. ye rupa ka ye bila jiwa na bal
+gurube num sam tez werka sa tot den, i le bina zi dom sa petre. le
+bal dom. le ha fay kan i duman tube. le rupa ka le bila jiwa sa bal
 du maxim bal fung.
 
-na nale, wolfe enda na jin du daw, du sam gurube doma. ye wida suhi
-gras da dom, i ye na nos nota gurube, du na jung. ye fikra gurube si
-bon nyam, i ye da boke mulu sana suy.
+sa nale, wolfe enda sa jin du daw, du sam gurube doma. le wida suhi
+gras da dom, i le sa nos nota gurube, du sa jung. le fikra gurube si
+bon nyam, i li boke mulu sana suy.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
-wolfe darba mun, i loga: "lil gurube! lil gurube! bita mi laya jung!
-cing mi laya jung!" a lil gurube wida wolfe da day han na cabi kong.
-to ye dapa: "no! no! no!" na bada, wolfe wiza se da dante i loga:
-"to mi nafasa i mi nafasa i mi parca tu da dom!"
+wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
+bita me laya jung!" a lil gurube wida wolfe da day han sa cabi kong.
+a le jawaba: "ni! ni! ni!" sa bada, wolfe xowa zi dante i loga:
+"me nafasa i me nafasa i me parca ti dom!"
 
-to ye nafasa i ye nafasa i ye parca dom! wolfe kaya boke maxim ka ye
-ken, a gurube num un enda far, to dom du lil gurube num dul.
+le nafasa i le nafasa i le parca dom! wolfe kaya boke maxim ka le
+ken, a gurube num un enda far, pa dom du lil gurube num dul.
 
-wolfe kontinu na lil daw. ye pasa dom num dul, du fatu na xake. ye
-wida dom. ye na nos nota gurube, du na jung. ye da boke mulu bina suy
-na dur du ye fikra yemen si bon nyam.
+wolfe kontinu sa lil daw. le pasa dom num dul, du fatu sa xake. le
+wida dom. le sa nos nota gurube, du sa jung. li boke mulu bina suy
+sa dur du le fikra lole si bon nyam.
 
-to ye darba mun, i loga: "lil gurube! lil gurube! bita mi laya jung!
-cing mi laya jung!" a lil gurube wida wolfe da konai or na cabi kong.
-to yemen dapa: "no! no! no!" to wolfe wiza se da dante i loga: "to
-mi nafasa i mi nafasa i mi parca tu da dom!"
+le darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
+bita me laya jung!" a lil gurube wida wolfe da konai or sa cabi kong.
+a lole jawaba: "ni! ni! ni!" wolfe xowa zi dante i loga: "me
+nafasa i me nafasa i me parca ti dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
-to ye nafasa i ye nafasa i ye parca dom! wolfe wola max ka bas, i ye
-proba kaca dul gurube na sem sat, a ye wola max ka bas, i ye geta nol
-gurube! ye da day boke kayulu na nol xe minus hawa. dul lil gurube
-enda far na maximi rapide ka yemen da ped bila porta yemen.
+le nafasa i le nafasa i le parca dom! wolfe wola max ka bas, i le
+proba kaca dul gurube sa sem sat, a le wola max ka bas, i le geta nol
+gurube! li day boke kayulu sa nol xe minus hawa. dul lil gurube
+enda far sa maximi rapide ka lole da ped bila porta lole.
 
-wolfe proba kaca yemen na lil daw. ye jino kaca yemen. a yemen laya
-to petre dom i keleli kayula mun na pice du se na ante du wolfe ken
-kaca yemen.
+wolfe proba kaca lole sa lil daw. le jino kaca lole. a lole laya
+pa petri dom i keleli kayula mun sa pice du ze sa ante du wolfe ken
+kaca lole.
 
-sam lil gurube fobu. yemen jana wolfe wola nyama yemen. de si day day
-fobi. wolfe no gon nyama na tot den i max max wola nyama na dur du
-proba kaca gurube. na ci mar ye bila nos nota tot sam yemen na jung.
-ye jana sam lil gurube si bon nyam.
+sam lil gurube fobu. lole jana wolfe wola nyama lole. ce si day day
+fobi. wolfe ni gon nyama sa tot den i max max wola nyama sa dur du
+proba kaca gurube. sa ci mar le bila nos nota tot sam lole sa jung.
+le jana sam lil gurube si bon nyam.
 
-to wolfe darba mun, i loga: "lil gurube! lil gurube! bita mi laya
-jung! bita mi laya jung!" a lil gurube wida wolfe da lil wang yen na
-cabi kong. to yemen dapa: "no! no! no!" to wolfe wiza se da dante i
-loga: "to mi nafasa i mi nafasa i mi parca tumen da dom!"
+wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya
+jung! bita me laya jung!" a lil gurube wida wolfe da lil wang yen sa
+cabi kong. a lole   : "ni! ni! ni!" wolfe xowa zi dante i
+loga: "me nafasa i me nafasa i me parca tote da dom!"
 
-ye nafasa i ye nafasa. ye nafasa i ye nafasa. i ye nafasa, i ye
-nafasa, i ye nafasa, a ye no bila parca dom. na fin, ye day fatigi
-nafasa. sun ye no max bila nafasa. to ye tingu to sona i ye lil
+le nafasa i le nafasa. le nafasa i le nafasa. i le nafasa, i le
+nafasa, i le nafasa, a le ni bila parca dom. sa fin, le day fatigi
+nafasa. sun le ni bila nafasa max. le tingu pa sona i le lil
 fikra.
 
-de si max ka bas. wolfe kina na wen na furia i loga ye laya ze duman
-tube i ye nyama lil gurube na xam nyam. a na dur du ye enda to cate du
-dom, lil gurube fata garmi garmi fay i loka day pote du suy to fay.
-bada, na sem sat du wolfe enda to tal du fay kan, lil gurube kaya
+ce si max ka bas. wolfe kina sa wen sa furia i loga le laya ga duman
+tube i le nyama lil gurube sa xam nyam. a sa dur du le enda pa cate du
+dom, lil gurube fata garmi garmi fay i loka day pote du suy pa fay.
+bada, sa sem sat du wolfe enda pa tal du fay kan, lil gurube kaya
 pote... a! wolfe enda jung du garmi garmi suy!
 
 <p style="font-size:6em;text-align:center;">🔥</p>
 
-to lil gurube loka deke to pote. wolfe jalu na pote! i sam lil gurube
-nyama ye na xam nyam.
+lil gurube loka deke pa pote. wolfe jalu sa pote! i sam lil gurube
+nyama le sa xami nyam.
 

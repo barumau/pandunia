@@ -197,7 +197,7 @@ Neither word tone nor variable word stress are necessary in the world
 language.
 
 Pandunia has fixed stress. The stress falls on the syllable that is
-before the last consonant. Like this: **mi wól lóga supér dúnia báx.**
+before the last consonant. Like this: **me wóla lóga bón dúnia báx.**
 
 Pandunia doesn't have lexical tone.
 
@@ -328,13 +328,13 @@ Pandunia allows different word orders. This is achieved mainly by
 the verb endings -a and -u, which signal reverse word orders. In
 Pandunia verbs can function also as adpositions (so called _coverbs_).
 
-**mi ama tu.** (SVO)  
-**mi tu amu.** (SOV)  
+**me ama te.** (SVO)  
+**me te amu.** (SOV)  
 I love you.
 
-**mi salta supra meza gawi.**
-(I jump, surpass the table high.)  
-**mi salta gawi meza supru.**
+**me salta supra gaw meza.**
+(I jump, surpass the high table.)  
+**me salta gaw meza supru.**
 (I jump, the high table is-surpassed.)  
 I jump over the high table.
 
@@ -444,27 +444,27 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ama tu, tu ama mi.
+    Pandunia:  me ama te, te ama me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The verb **bey** is used when the object of an action comes first in
+The verb **beyu** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  aple bey nyama.
+    Pandunia:  aple beyu nyama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**Bey** is a loan word from Standard Chinese, but it is also close to
+**beyu** is a loan word from Standard Chinese, but it is also close to
 some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no bila bey nyama.
+    Pandunia:  le ni bila beyu nyama.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi bita ye nyama kafe.
+    Pandunia:  me bita le nyama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending
@@ -473,11 +473,11 @@ Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ye si aple.
+    Pandunia:  le si aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemen si aple.
+    Pandunia:  lole si aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 
