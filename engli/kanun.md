@@ -1177,7 +1177,7 @@ The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
 **mi wida ren, du tu jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
-literary language.
+elevated language.
 
 ### 12.2. Relations between the endings
 
@@ -1236,7 +1236,42 @@ descriptions (like "length") than for binary descriptions (like
 "new"). When something is already new, it can't be made new. But when
 something is already long, it can be made even longer.
 
-### 12.3. Hierarchy of Word Types
+### 12.3. Structure Words
+
+_Structure words_ are words that help to organize words into more
+or less complex sentences. It is a closed class i.e. new words are
+never or only very seldom be added to it. Structural words behave by
+definition differently than _content words_, which is the open class
+for words that refer to things in the world outside the structure of
+the language.
+
+In Pandunia, structure words share the following characteristics:
+
+1. The word is made up of one consonant and one vowel.
+2. The consonant indicates the general idea of the word.
+3. The vowel has a structural meaning, as follows:
+    - -e indicates a pronoun
+    - -i indicates a determiner
+    - -a indicates a preposition
+    - -u indicates a postposition
+    - -o indicates a prefix
+
+|  | Idea                      | -a (preposition)       | -e (noun or pronoun)   | -i (modifier)          | -o (prefix)            | -u (postposition)      |
+|--|:--------------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+| 1| 1st person pronoun        |                        | **me**<br>I            | **mi**<br>my           |                        |                        |
+| 2| 2nd person pronoun        |                        | **te**<br>you          | **ti**<br>your         |                        |                        |
+| 3| 3rd person pronoun        |                        | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |
+| 4| Reflexive pronoun         |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |                        |
+| 5| Interrogative             |                        | **ke**<br>what?        | **ki**<br>which?       |                        |                        |
+| 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
+| 7| Negation / lack / absence | **na**<br>without      | **ne**<br>no           | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
+| 8| Affirmation / presence    |**sa**<br>with, by, at  | **se**<br>yes          | **si**<br>yes          |                        | **su**                 |
+| 9| Possession                | **da**<br>'s           |                        |                        |                        | **du**<br> of          |
+|10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
+|11| Origin                    | **ga**<br>from, since  |                        |                        |                        | **gu**                 |
+
+
+### 12.4. Hierarchy of Word Types
 
 Spoken language is a flow of sounds which constitute words. Written
 language, in the case of Pandunia, is a flow of letters from left to
@@ -1270,14 +1305,16 @@ Adjectives and numerals point to their head word, the noun.
 The hierarchy of word types in Pandunia from the more to the less
 central is as follows.
 
-1. Conjunctions: i, u, a
-2. Connectors: da, du
-3. Prepositions: na, ko, ze
-4. Verbs
-5. Nouns and pronouns
-6. Tense, aspect and mood particles
-7. Numerals
-8. Adjectives
+1. Structure words
+    1. Conjunctions: i, u, a
+    2. Connectors: da, du
+    3. Prepositions and postpositions: na, sa, pa, ga; nu, su, pu, gu
+    4. Pronouns
+2. Content words
+    1. Numerals
+    2. Modifiers
+    3. Verbs
+    4. Nouns
 
 The following example shows how the scope affects the final position
 of words in the tree hierarchy. For example, although **i** is in
