@@ -227,7 +227,7 @@ denied.
 He/she doesn't greet me.
 
 <small>Etymology. **ni**
-is from Afrikaans: nie, Polish: nie, Russian: не (nye).</small>
+is from Ukrainian: ні (ni), Afrikaans: nie, Polish: nie, Russian: не (nye).</small>
 
 ### Plurals
 

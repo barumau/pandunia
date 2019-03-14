@@ -39,7 +39,7 @@ lil urse nyama pan mel.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, lil urse senta ni jana da sente sa boke. le da dante tung!
+bada, lil urse senta ni jana da sente sa boke. li dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 

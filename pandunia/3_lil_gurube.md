@@ -25,7 +25,7 @@ bon nyam, i li boke mulu sana suy.
 
 wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
 bita me laya jung!" a lil gurube wida wolfe da day han sa cabi kong.
-a le jawaba: "ni! ni! ni!" sa bada, wolfe xowa zi dante i loga:
+a le jawaba: "ne! ne! ne!" sa bada, wolfe xowa zi dante i loga:
 "me nafasa i me nafasa i me parca ti dom!"
 
 le nafasa i le nafasa i le parca dom! wolfe kaya boke maxim ka le
@@ -36,16 +36,16 @@ wida dom. le sa nos nota gurube, du sa jung. li boke mulu bina suy
 sa dur du le fikra lole si bon nyam.
 
 le darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
-bita me laya jung!" a lil gurube wida wolfe da konai or sa cabi kong.
-a lole jawaba: "ni! ni! ni!" wolfe xowa zi dante i loga: "me
+bita me laya jung!" a lil gurube wida wolfe da koni or sa cabi kong.
+a lole jawaba: "ne! ne! ne!" wolfe xowa zi dante i loga: "me
 nafasa i me nafasa i me parca ti dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
 le nafasa i le nafasa i le parca dom! wolfe wola max ka bas, i le
-proba kaca dul gurube sa sem sat, a le wola max ka bas, i le geta nol
+proba kaca dul gurube sa sem sat, a le wola max ka bas, i le kapa nol
 gurube! li day boke kayulu sa nol xe minus hawa. dul lil gurube
-enda far sa maximi rapide ka lole da ped bila porta lole.
+enda far sa maximi rape ka loli pede bila porta lole.
 
 wolfe proba kaca lole sa lil daw. le jino kaca lole. a lole laya
 pa petri dom i keleli kayula mun sa pice du ze sa ante du wolfe ken
@@ -58,7 +58,7 @@ le jana sam lil gurube si bon nyam.
 
 wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya
 jung! bita me laya jung!" a lil gurube wida wolfe da lil wang yen sa
-cabi kong. a lole   : "ni! ni! ni!" wolfe xowa zi dante i
+cabi kong. a lole   : "ne! ne! ne!" wolfe xowa zi dante i
 loga: "me nafasa i me nafasa i me parca tote da dom!"
 
 le nafasa i le nafasa. le nafasa i le nafasa. i le nafasa, i le
