@@ -22,7 +22,7 @@ asiatique : asi
 Asie : asia  
 autel : altar  
 autre : ali  
-avoir : adres  
+avoir : ada  
 axe : akse  
 ##b  
 bain : banye  

@@ -185,7 +185,7 @@ błotnisty : bloti
 błoto : blote  
 ##c  
 całus : cum  
-cały, kompletny, całkowity : toti  
+cały, kompletny, całkowity :   
 cecha, atrybut, własność; -ość : gun  
 cecha, właściwość, parametr : sife  
 cel : gol  
@@ -298,7 +298,7 @@ diabelski, szatański : xatani
 diabeł, szatan : xatan  
 diament : almas  
 dmuchać : fonga  
-do, dopóki, dla : to  
+do, dopóki, dla : pa  
 dobry ... : salam  
 dobry : bon  
 dobry los, szczęście : bon zar  
@@ -463,7 +463,7 @@ gaza : gaze
 gazela : gazel  
 gazeta : habarobaw  
 gałąź, konar : xake  
-gdzie : na ke  
+gdzie : sa ke  
 gejowski (homoseksualny) : gey  
 genderqueer, niebinarny : bis  
 german : germanium  
@@ -631,6 +631,7 @@ jeden (1) : un
 jednoczyć : una  
 jednokolorowy (monochromatyczny) : monorangi  
 jedzenie, posiłek : nyam  
+jej : yey  
 Jemen : yaman  
 Jersey : jersia  
 jesień : oton  
@@ -743,6 +744,7 @@ kolor : rang
 Kolumbia : kolombia  
 kolumna, filar : kolum  
 komar, moskit : moskite  
+komik : yumoriste  
 komiks; kreskówka : kartun  
 Komory : komoro nesia  
 komputer : komputer  
@@ -1042,7 +1044,7 @@ muszkieter : musketer
 muzułman, muzułmanin : islamiste  
 muzyk : musiker  
 muzyka : musike  
-my : mimen  
+my : mome  
 mydło : sabun  
 mysz : mux  
 myśl, pomysł : fikre  
@@ -1107,7 +1109,8 @@ Nepal : nepal
 Neptun : neptun  
 neptun : neptunium  
 nic, żadna rzecz : nol xey  
-nie : no  
+nie : ne  
+nie : ni  
 nie ruszać się : estasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
 niebezpieczny : hatari  
@@ -1203,8 +1206,8 @@ około; przybliżony : yagi
 okrągły : cirki  
 oliwka : zaitun  
 Oman : oman  
-on, ona, ono : ye  
-oni : yemen  
+on, ona, ono : le  
+oni : lole  
 opinia, pogląd : ray  
 opis, przedstawienie; wykres : graf  
 opisać (zakwalifikować) : sifa  
@@ -1412,7 +1415,7 @@ pomodlić się, modlić się : duwa
 pompować : pompa  
 pomóc, pomagać, asystować : helpa  
 poniedziałek : war 1 (war un)  
-ponieważ, bo : na sabu  
+ponieważ, bo : sa sabu  
 poniższy : nici  
 popołudnie : xamoden  
 poprawić, poprawiać, prostować, korygować : saha  
@@ -1430,6 +1433,7 @@ porywacz pociągu : trenokaper
 porywacz samolotu : wimanokaper  
 porządek : ratibe  
 porządkować, organizować : ratiba  
+poręcz (balustrada) : langan  
 postawa ciała; asana : asan  
 postawiony (stojący) : libi  
 postawić (stawiać) : liba  
@@ -1525,7 +1529,7 @@ przetłumaczyć, tłumaczyć, interpretować : tarja
 przeziębienie, katar : zukam  
 przeznaczenie, los : kisme  
 przeźroczysty, jasny : klar  
-przy, z, na, w, u : na  
+przy, z, na, w, u : sa  
 przyczepić, przymocować : fiksa  
 przygotować, przygotowywać : reda  
 przyjaciel : doste  
@@ -1589,6 +1593,7 @@ radoiometr : radiometer
 radon : radon  
 rakieta : rokete  
 Ramadan : ramazan  
+rampa : rampe  
 ranek, rano, poranek : sube  
 raport : reporte  
 raportować, relacjonować, opowiadać : reporta  
@@ -1683,7 +1688,7 @@ Saint Vincent and Grenadines : vinsi i grenadin
 Saint Vincent i Grenadyny : walis i futuna nesia  
 Salwador : salvador  
 sam, osobiście : tan  
-sam, siebie : se  
+sam, siebie : ze  
 samar : samarium  
 Samoa : samoa  
 samobieżny : automoti  
@@ -1895,7 +1900,6 @@ taktyka, strategia : tatike
 tal : talium  
 talerz : plate  
 taleta, WC : tuale  
-tam : na de  
 tamilski : tamili  
 tamten : de  
 Tanach, Biblia hebrajska : tanah  
@@ -1952,7 +1956,7 @@ ton, dźwięk, nuta, tonacja : ton
 tor : torium  
 torba, wór, worek, torba, sakwa : sake  
 tost : rosti pang  
-totalny, ogólny : total  
+totalny, ogólny :   
 trawa : gras  
 treść (zawartość) : ten  
 trochę; nieokreślony, nieograniczony, nieokreślony : fulan  
@@ -1964,7 +1968,7 @@ trzy (3) : sam
 trzymać : tena  
 trzęsienie Ziemi : sisme  
 trójkąt : samokon  
-tu (tutaj) : na ce  
+tu (tutaj, tam) : sa ce  
 tuba, rura : tube  
 tul : tulium  
 tulipan : tulpan  
@@ -1985,7 +1989,7 @@ tułów : torse
 twarz : muke  
 twór; fakt : fate  
 twórca, kreator, czynnik : fater  
-ty, ciebie : tu  
+ty, ciebie : te  
 tydzień : set war  
 tygrys : bagre  
 tykwa : hulu'  
@@ -2123,6 +2127,8 @@ wirus : wirus
 wirusologia : wirusolojia  
 witaj, dobre przybycie : salam laye  
 wiwatować; hura : ura  
+wizyta : wizite  
+wizytant (gość) : wiziter  
 większościowy, wiodący, główny : maxor  
 większość : maxoria  
 więzienie, kara więzienia, kara pozbawienia wolności : prizon  
@@ -2153,7 +2159,7 @@ wstrzyknąć, wstrzykiwać : juxa
 wszyscy, wszystkie, wszystko; każdy : pan  
 wszystko : mey xey  
 wtorek : war 2 (war du)  
-wy, was : tumen  
+wy, was : tote  
 wybrać, wybierać, selekcjonować : cuza  
 wybór, elekcja, selekcja : cuze  
 wycie, skowyt : ulul  
@@ -2205,7 +2211,7 @@ właśnie, dopiero co, ostatnio, niedawno : gang
 ##x  
 ##y  
 z (partykuła posiadania) : du  
-z, od : sa  
+z, od : ga  
 ##z  
 zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya  
 zabawa, rozrywka : maze  

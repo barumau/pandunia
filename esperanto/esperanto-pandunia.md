@@ -20,7 +20,7 @@ aktinio : acinium
 aktoro (aktorino) : roler  
 akvo : suy  
 akvomelono : arbuze  
-al (ĝis, por) : to  
+al (ĝis, por) : pa  
 alas! : ay  
 alfabeto : abace  
 algo : alge  
@@ -207,7 +207,7 @@ danĝero : hatar
 dato : nen mes den  
 daŭri : dura  
 daŭro : dur  
-de (el, pro) : sa  
+de (el, pro) : ga  
 de (partiklo de posedo) : du  
 dek (10) : des  
 dekono : deci  
@@ -476,7 +476,7 @@ humuro : yumor
 iam : koy zaman  
 ideo : ide  
 ido (infano) : bace  
-ili : yemen  
+ili : lole  
 ilo : tul  
 indio : indium  
 Indonezio : indonesia  
@@ -571,7 +571,7 @@ kaŭĉuko : gom
 keĉupo : kecape  
 kialo : sabe  
 kiam? : ki zaman  
-kie : na ke  
+kie : sa ke  
 kiel (ol) : ka  
 kiel? : ki yang  
 kilometro : kilometre  
@@ -683,7 +683,7 @@ leono : sing
 lernejo : darsia  
 lerni (studi) : darsa  
 lerta : ajil  
-li aŭ ŝi aŭ ĝi : ye  
+li aŭ ŝi aŭ ĝi : le  
 libera : huri  
 libereco : huria  
 liberigi : hura  
@@ -837,7 +837,8 @@ nasko : jen
 natrio : natre  
 naturo : tabia  
 naūatla : nawati  
-ne : no  
+ne : ne  
+ne : ni  
 negoco : biznes  
 neono : neon  
 Nepalo : nepal  
@@ -845,7 +846,7 @@ neptunio : neptunium
 Neptuno : neptun  
 newtono (N) : nuton  
 neĝo : him  
-ni : mimen  
+ni : mome  
 ni faru... : haida  
 nigra : kal  
 nihonio : niponium  
@@ -1110,7 +1111,7 @@ serio : serye
 serpento : serpe  
 sezono : mosim  
 seĝo : kurse  
-si : se  
+si : ze  
 sidi : sida  
 signifo : mene  
 silenta : xixi  
@@ -1198,7 +1199,7 @@ teroro : teror
 terpomo : patate  
 tertremo : sisme  
 testo : teste  
-tie : na de  
+tie : sa ce  
 tigro : bagre  
 timo (fobio) : fobia  
 tio : de  
@@ -1271,8 +1272,8 @@ vespero : xam
 vesti : fuka  
 vesto : fuke  
 vetero : tenke  
-vi (ci) : tu  
-vi ĉiu : tumen  
+vi (ci) : te  
+vi ĉiu : tote  
 viando : manse  
 vidi (rigardi) : wida  
 vilaĝo : ruste  
@@ -1322,7 +1323,7 @@ zuluo : zulu'
 ĉampiono : campion  
 ĉapelo : tope  
 ĉapitro : babe  
-ĉar (pro ke) : na sabu  
+ĉar (pro ke) : sa sabu  
 ĉarma : kaway  
 ĉarniro (pivoto) : xarnir  
 ĉeestanta (nuna, ekzistanta) : zay  
@@ -1330,7 +1331,6 @@ zuluo : zulu'
 ĉelo : sel  
 ĉemizo : kamis  
 ĉevalo : uma  
-ĉi tie : na ce  
 ĉi tio : ce  
 ĉi tiu : ci  
 ĉiam : mey zaman  

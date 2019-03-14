@@ -181,7 +181,7 @@ bear : urse
 beard : barde  
 beautiful (handsome, pretty) : sundar  
 beaver : kastor  
-because : na sabu  
+because : sa sabu  
 become open : kayu  
 bed : bede  
 bedouin (nomadic) : badawi  
@@ -780,7 +780,7 @@ Friday : war 5 (war lim)
 friend : doste  
 friendly : dosti  
 friendship : dostia  
-from (since, because) : sa  
+from (since, because) : ga  
 frost : himorose  
 fruit : pal  
 frying pan : tawa  
@@ -904,7 +904,7 @@ hate : hen
 have : ada  
 have sex : seksa  
 hazard (chance) : zar  
-he or she or it : ye  
+he or she or it : le  
 head : sar  
 headmaster (principal) : darsoxef  
 heal (cure) : medika  
@@ -919,7 +919,7 @@ helmet : helme
 help (aid, assistance) : helpe  
 help (assist) : helpa  
 hemp (cannabis) : ganje  
-here : na ce  
+here (there) : sa ce  
 heritage (legacy, bequest) : waris  
 hero : hero'  
 heroic : hero'i  
@@ -1403,7 +1403,7 @@ nine (9) : noy
 niobium : niobium  
 nitrogen : nitre  
 Niue : niwe  
-no (not) : no  
+no : ne  
 nobelium : nobelium  
 nobody (no-one) : nol ren  
 noise : kelele  
@@ -1417,6 +1417,7 @@ Northern Mariana Islands : marian nesia
 Norway : norgia  
 Norwegian : norgi  
 nose : nos  
+not : ni  
 note (observation) : note  
 note (observe, notice) : nota  
 notebook : note buke  
@@ -1857,8 +1858,8 @@ secretary : sekreter
 seismology : sismolojia  
 selenium : selen  
 selenium : selen  
-self : se  
 self : tan  
+self : ze  
 self-moving (automotive, automobile) : automoti  
 send (emit, transmit) : misa  
 sender (transmitter) : miser  
@@ -2120,9 +2121,8 @@ theist : dewiste
 theocracy : dewokratia  
 theology : dewolojia  
 theory : teoria  
-there : na de  
 thermometer : termometer  
-they : yemen  
+they : lole  
 thick : gros  
 thief : corer  
 thing : xey  
@@ -2147,7 +2147,7 @@ time (moment) : zaman
 time (occasion) : mar  
 tiny (mini-) : mini  
 titanium : titan  
-to (till, until, for) : to  
+to (toward, till, until, for) : pa  
 to be centered (amid, in the middle) : jungu  
 toast (toasted bread) : rosti pang  
 tobacco : tabake  
@@ -2169,7 +2169,7 @@ top (peak, pinnacle, summit, apex, vertex) : pike
 top (spinning top) : tolo  
 topic (subject, theme) : tem  
 torch : baton nur  
-total (affecting all) : total  
+total (affecting all) :   
 touch : toca  
 tour (trip) : tur  
 tourism : turistia  
@@ -2288,7 +2288,7 @@ watermelon : arbuze
 watt : wate  
 wax : mum  
 way (road) : daw  
-we : mimen  
+we : mome  
 wear clothes : fuka  
 weather : tenke  
 Wednesday : war 3 (war sam)  
@@ -2302,11 +2302,11 @@ what thing? : ki xey
 what? : ke  
 wheel : cakre  
 when? : ki zaman  
-where : na ke  
+where : sa ke  
 which? : ki  
 white : bay  
 who? : ki ren  
-whole (entire, all) : toti  
+whole (entire, all) :   
 wide (broad) : kuan  
 wiki : wiki  
 wild (savage) : wildi  
@@ -2320,7 +2320,7 @@ wing : wing
 winter : xite  
 wisdom : sofia  
 wise : sofi  
-with (by, at, in, on) : na  
+with (by, at, in, on) : sa  
 without : be  
 wolf : wolfe  
 woman (adult female) : matur fem  
@@ -2343,6 +2343,7 @@ writing (text) : kitabe
 xenon : xenon  
 ##y  
 yak : yake  
+yay! (yeah!) : yey  
 year : nen  
 yeast : hamir  
 yellow : wang  
@@ -2350,8 +2351,8 @@ Yemen : yaman
 yes (is) : si  
 yesterday : predi den  
 yoga : yoge  
-you : tu  
-you all : tumen  
+you : te  
+you all : tote  
 young : jowan  
 youth (young age) : jowania  
 youth (young person) : jowane  

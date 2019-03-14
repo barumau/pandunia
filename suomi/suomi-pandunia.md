@@ -21,7 +21,7 @@ ai! (au!) : ay
 aihe (teema) : tem  
 aiheesta (-sta) : tema  
 aiheuttaa : saba  
-aiheutua (koska, syystä, takia) : na sabu  
+aiheutua (koska, syystä, takia) : sa sabu  
 aika (hetki, kotva) : zaman  
 aikuinen : adulte  
 aina : mey zaman  
@@ -205,7 +205,8 @@ Egypti : misria
 egyptiläinen : misri  
 ehdottaa : suja  
 ehdotus : suje  
-ei : no  
+ei : ne  
+ei : ni  
 ei kukaan : nol ren  
 ei mitään : nol xey  
 eilinen : predi den  
@@ -341,7 +342,7 @@ haureus : zine
 hauska (huvittava) : mazi  
 hauta : gabre  
 hautausmaa : gabristan  
-he : yemen  
+he : lole  
 hedelmä : pal  
 hei (haloo) : halo'  
 heijastaa (peilata) : mira  
@@ -442,7 +443,7 @@ hyöty (etu) : faide
 häh? : he  
 häkki : kafas  
 hämähäkki : arane  
-hän (se) : ye  
+hän (se) : le  
 häntä : dum  
 hätä (paniikki) : panike  
 hävitä (kärsiä tappio) : luza  
@@ -493,8 +494,8 @@ istua : sida
 isä : pape  
 Italia : italia  
 itkeä : kuga  
-itse : se  
 itse : tan  
+itse : ze  
 itä : dong  
 itämainen lohikäärme : rong  
 Itävalta : osteria  
@@ -513,6 +514,7 @@ jasmiini : malike
 jatkua : kontinu  
 jauhaa myllyssä : mola  
 jazz (jatsi) : jaze  
+jee! (hurraa!) : yey  
 Jeesus : yesus  
 Jemen : yaman  
 Jersey : jersia  
@@ -581,8 +583,8 @@ kahvi : kafe
 kahvikuppi : kafokupe  
 kahvila : kaferia  
 kaide (reelinki) : langan  
+kaikki :   
 kaikki : pan  
-kaikki : toti  
 kaiku : eho  
 kaivaa : fosa  
 kakku (keksi) : keke  
@@ -612,7 +614,7 @@ kansakunta : nasia
 kansallinen : nasi  
 kansallissosialismi : nasi socistia  
 kansallisuusaate (nationalismi) : nasistia  
-kanssa (luona, -lla, -ssa) : na  
+kanssa (luona, -lla, -ssa) : sa  
 kantaa : porta  
 kapina : rebel  
 kapteeni : kapitan  
@@ -1000,7 +1002,7 @@ lumi : him
 lumme : nenufar  
 luokitella (kategorisoida) : klasa  
 luokka (kategoria) : klas  
-luokse (tykö, asti) : to  
+luokse (tykö, kohti, asti) : pa  
 luola : gua  
 luonto : tabia  
 lupa : permis  
@@ -1023,7 +1025,7 @@ lähettäjä (lähetin) : miser
 lähettää : misa  
 lähetys : misia  
 lähetystö : daixeria  
-lähtien (-sta, -lta) : sa  
+lähtien (-sta, -lta) : ga  
 lämmin : garmi  
 lämpömittari : termometer  
 lämpötila : terme  
@@ -1113,7 +1115,7 @@ Mauritius : moris
 mauste : masal  
 maya (mayaintiaani) : maya'  
 Mayotte : mayote  
-me : mimen  
+me : mome  
 media : media  
 mehu : jus  
 meitnerium : maitnerium  
@@ -1162,7 +1164,7 @@ ministeriö : ministeria
 minun : mi da  
 minuutti : minut  
 minä : mi  
-missä? : na ke  
+missä? : sa ke  
 mitali : medal  
 mitata : meta  
 miten? : ki yang  
@@ -1775,7 +1777,7 @@ Singapore : singapur
 sininen : nil  
 sinkki : zinke  
 sintolaisuus : xindawistia  
-sinä : tu  
+sinä : te  
 Siperia : sibir  
 sisarus (veli tai sisko) : saudar  
 sisus (sisäpuoli) : inde  
@@ -1936,7 +1938,7 @@ taulukko : table
 taulukoida : tabla  
 tavanomainen (perinteinen) : rasmi  
 tavata : mita  
-te : tumen  
+te : tote  
 tee : cay  
 teehuone (kahvila) : cayeria  
 teekulho : cayowan  
@@ -2001,7 +2003,7 @@ torni : minare
 torstai : war 4 (war car)  
 torvi (torvisoitin) : buge  
 tosi (aito) : jin  
-totaalinen (kaikkia koskeva) : total  
+totaalinen (kaikkia koskeva) :   
 toukka : larwa  
 toukokuu : mes 5 (mes lim)  
 trendi : faxon  
@@ -2026,7 +2028,6 @@ tunti : hor
 tuo (nuo) : di  
 tuo : de  
 tuoli : kurse  
-tuolla : na de  
 tuomari : hakimer  
 tuomio : hakim  
 tuore (raikas) : tazi  
@@ -2068,7 +2069,7 @@ täysi : ful
 täytetty pulla : mante  
 täyttää : fula  
 täytyä (olla pakko) : bixu  
-täällä : na ce  
+täällä (tuolla) : sa ce  
 tölkki (purkki) : tin  
 törkeä : nindi  
 Tšad : cadia  

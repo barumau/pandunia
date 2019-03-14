@@ -3,6 +3,8 @@
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : cały, kompletny, całkowity  
+ : totalny, ogólny  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -582,6 +584,7 @@ furia : gniew, furia
 futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
+ga : z, od  
 gabre : grób, mogiła, grobowiec  
 gabristan : cmentarz  
 gabun : Gabon  
@@ -1097,6 +1100,7 @@ lake : lakier
 lala : leżeć  
 lampe : lampa  
 lanca : rzucić, rzucać, miotać, cisnąć, ciskać  
+langan : poręcz (balustrada)  
 lankia : Sri Lanka  
 lanten : latarnia  
 larwa : larwa, czerw, gąsienica  
@@ -1108,6 +1112,7 @@ latvia : Łotwa
 laurensium : lorens  
 laxa : puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya : przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
+le : on, ona, ono  
 lekse : słowo  
 leksem : leksem  
 leksia : słownictwo  
@@ -1154,6 +1159,7 @@ lojia : nauka, badanie, studiowanie
 loka : umieścić (postawić)  
 loke : miejsce, lokacja  
 loki : miejscowy, lokalny  
+lole : oni  
 lon : dyskusja, debata, dyskurs  
 lona : debatować, prowadzić dyskurs  
 long : długi  
@@ -1321,7 +1327,6 @@ mikronesia : Mikronezja
 milke : mleko  
 milo- : mili-  
 milometre : milimetr  
-mimen : my  
 min ka bas : zbyt mało  
 min : mniej  
 minare : wieża  
@@ -1358,6 +1363,7 @@ mola : zemleć, mleć, mielić
 moldovia : Mołdawia  
 moler : młynarz  
 molidenum : molibden  
+mome : my  
 mon : tylko  
 monako : Monako  
 mongol : Mongolski  
@@ -1414,11 +1420,6 @@ muta : zmienić, zmieniać
 mux : mysz  
 muxing : Jupiter  
 ##n  
-na ce : tu (tutaj)  
-na de : tam  
-na ke : gdzie  
-na sabu : ponieważ, bo  
-na : przy, z, na, w, u  
 nabe : proroctwo  
 naber : prorok  
 naciste : nazista  
@@ -1444,6 +1445,7 @@ nasistia : nacjonalizm
 natre : sód  
 nauru : Nauru  
 nawati : nahuatl  
+ne : nie  
 nederlandi antilia : Antyle Holenderskie  
 nederlandia : Holandia (Królestwo Niderlandów)  
 nega : odmówić (odrzucić)  
@@ -1458,6 +1460,7 @@ neptunium : neptun
 nes : wyspa  
 nesia : archipelag  
 nete : sieć  
+ni : nie  
 nica : pod, poniżej; iść w dół, iść pod spód, iść na dno  
 nice : spód  
 nici : poniższy  
@@ -1477,7 +1480,6 @@ niponium : nihonium
 nitre : azot  
 niwe : Niue  
 nixe : nisza, alkowa  
-no : nie  
 nobelium : nobel  
 noce : noc  
 node : węzeł, zupeł  
@@ -1547,6 +1549,7 @@ oste : kość
 osteria : Austria  
 oton : jesień  
 ##p  
+pa : do, dopóki, dla  
 pada : upuścić, upuszczać  
 padu : paść, padać, upaść, upadać  
 pagre : turban  
@@ -1747,6 +1750,7 @@ rajer : król lub królowa
 raji : królewski  
 rajia : królestwo  
 ramazan : Ramadan  
+rampe : rampa  
 randa : heblować  
 rander : hebel, strug  
 rang : kolor  
@@ -1835,7 +1839,10 @@ ruterfordium : rutherford
 rutin : rutyna, nawyk, zwyczaj  
 rwanda : Rwanda  
 ##s  
-sa : z, od  
+sa ce : tu (tutaj, tam)  
+sa ke : gdzie  
+sa sabu : ponieważ, bo  
+sa : przy, z, na, w, u  
 saba : spowodować, powodować  
 sabate : szabat, szabas  
 sabe : powód, przyczyna  
@@ -1893,7 +1900,6 @@ saudar : rodzeństwo, brat lub siostra
 saudi arabia : Arabia Saudyjska  
 sauna : sauna  
 saye : cień  
-se : sam, siebie  
 seaborgium : seaborg  
 sekreter : sekretarz  
 sekreteria : sekretariat  
@@ -2063,6 +2069,7 @@ tatike : taktyka, strategia
 tatu : tatuaż  
 tawa : patelnia  
 tazi : świeży  
+te : ty, ciebie  
 tekne : technika, technologia  
 teknetium : technet  
 teknokratia : technokracja  
@@ -2110,7 +2117,6 @@ tira : ciągnąć
 tiran : tyran  
 tirania : tyrania  
 titan : tytan  
-to : do, dopóki, dla  
 toca : dotyczyć  
 tofu' : tofu  
 togoli : togijski  
@@ -2127,8 +2133,7 @@ torace : klatka piersiowa, tors; tułów
 torium : tor  
 torse : tułów  
 tortuge : żółw  
-total : totalny, ogólny  
-toti : cały, kompletny, całkowity  
+tote : wy, was  
 towal : ręcznik  
 trans : przejazd, przewóz, tranzyt  
 transa : przejść, przechodzić, przejechać, przejeżdżać  
@@ -2138,14 +2143,12 @@ trenokaper : porywacz pociągu
 tribe : plemię  
 trinida i tobago : Trynidad i Tobago  
 tswania : Botswana  
-tu : ty, ciebie  
 tuale : taleta, WC  
 tube : tuba, rura  
 tuka : pluć  
 tul : narzędzie  
 tulium : tul  
 tulpan : tulipan  
-tumen : wy, was  
 tundar : tundra  
 tunel tren : metro  
 tunel : tunel  
@@ -2252,6 +2255,8 @@ winil : winyl
 wirus : wirus  
 wirusolojia : wirusologia  
 wizita : odwiedzić, odwiedzać  
+wizite : wizyta  
+wiziter : wizytant (gość)  
 wola : chcieć, pragnąć  
 wolfe : wilk  
 ##x  
@@ -2312,13 +2317,12 @@ yani : innymi słowy
 yasen : jesion  
 yatim : sierota  
 yatimodom : sierociniec, dom dziecka  
-ye : on, ona, ono  
 yehudi : żydowski  
 yehudistia : judaizm  
-yemen : oni  
 yen : oko  
 yenosuy : łza  
 yesus : Jezus  
+yey : jej  
 yeze : kokos  
 yode : jod; jodyna  
 yoga : uprawiać jogę  
@@ -2329,6 +2333,7 @@ yosay : forteca, twierdza
 yote : kropla  
 yumor : humor  
 yumori : humorystyczny, śmieszny, zabawny, komiczny  
+yumoriste : komik  
 yungam : odważny, brawurowy  
 yuterbium : iterb  
 yutrium : itr  
@@ -2347,6 +2352,7 @@ zay den : dziś, dzisiaj
 zay : obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zaye : teraźniejszość, współczesność  
 zayu : istnieć (być obecnym)  
+ze : sam, siebie  
 zebre : zebra  
 zem : ziemia, grunt, gleba  
 zemia : Ziemia  

@@ -3,6 +3,8 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
+ : total (affecting all)  
+ : whole (entire, all)  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -582,6 +584,7 @@ furia : anger (fury, rage, wrath)
 futobol : football  
 fuy : bah! (yuck!)  
 ##g  
+ga : from (since, because)  
 gabre : grave (tomb)  
 gabristan : graveyard  
 gabun : Gabon  
@@ -1109,6 +1112,7 @@ latvia : Latvia
 laurensium : lawrencium  
 laxa : release (let, let go)  
 laya : come  
+le : he or she or it  
 lekse : word  
 leksem : lexeme  
 leksia : vocabulary (lexicon)  
@@ -1155,6 +1159,7 @@ lojia : science (study, research)
 loka : locate (place)  
 loke : place (location)  
 loki : local  
+lole : they  
 lon : discussion (debate, discourse)  
 lona : debate (discuss)  
 long : long (lengthy)  
@@ -1322,7 +1327,6 @@ mikronesia : Micronesia
 milke : milk  
 milo- : milli-  
 milometre : millimeter  
-mimen : we  
 min ka bas : too little  
 min : less  
 minare : tower  
@@ -1359,6 +1363,7 @@ mola : grind (grind in mill)
 moldovia : Moldova  
 moler : miller  
 molidenum : molybdenum  
+mome : we  
 mon : only (alone, solely, just)  
 monako : Monaco  
 mongol : Mongol  
@@ -1415,11 +1420,6 @@ muta : change (alter, convert)
 mux : mouse  
 muxing : Jupiter  
 ##n  
-na ce : here  
-na de : there  
-na ke : where  
-na sabu : because  
-na : with (by, at, in, on)  
 nabe : prophecy  
 naber : prophet  
 naciste : Nazi  
@@ -1445,6 +1445,7 @@ nasistia : nationalism
 natre : sodium  
 nauru : Nauru  
 nawati : Nahuatl (Nahua)  
+ne : no  
 nederlandi antilia : Netherlands Antilles  
 nederlandia : Netherlands  
 nega : refuse (deny, decline)  
@@ -1459,6 +1460,7 @@ neptunium : neptunium
 nes : island  
 nesia : archipelago  
 nete : net  
+ni : not  
 nica : under (go under)  
 nice : underside (underneath)  
 nici : lower  
@@ -1478,7 +1480,6 @@ niponium : nihonium
 nitre : nitrogen  
 niwe : Niue  
 nixe : niche (alcove)  
-no : no (not)  
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
@@ -1548,6 +1549,7 @@ oste : bone
 osteria : Austria  
 oton : autumn (fall)  
 ##p  
+pa : to (toward, till, until, for)  
 pada : drop (let fall)  
 padu : fall  
 pagre : turban  
@@ -1837,7 +1839,10 @@ ruterfordium : rutherfordium
 rutin : routine (habit)  
 rwanda : Rwanda  
 ##s  
-sa : from (since, because)  
+sa ce : here (there)  
+sa ke : where  
+sa sabu : because  
+sa : with (by, at, in, on)  
 saba : cause (be the cause for)  
 sabate : Sabbath  
 sabe : reason (cause)  
@@ -1895,7 +1900,6 @@ saudar : sibling (brother or sister)
 saudi arabia : Saudi Arabia  
 sauna : sauna  
 saye : shadow  
-se : self  
 seaborgium : seaborgium  
 sekreter : secretary  
 sekreteria : secretariat  
@@ -2065,6 +2069,7 @@ tatike : tactics (strategy)
 tatu : tattoo  
 tawa : frying pan  
 tazi : fresh  
+te : you  
 tekne : technique (technology)  
 teknetium : technetium  
 teknokratia : technocracy  
@@ -2112,7 +2117,6 @@ tira : pull
 tiran : tyrant  
 tirania : tyranny  
 titan : titanium  
-to : to (till, until, for)  
 toca : touch  
 tofu' : tofu  
 togoli : Togolese  
@@ -2129,8 +2133,7 @@ torace : thorax
 torium : thorium  
 torse : trunk (torso)  
 tortuge : turtle (tortoise)  
-total : total (affecting all)  
-toti : whole (entire, all)  
+tote : you all  
 towal : towel  
 trans : transit (passage)  
 transa : transit (pass through or across)  
@@ -2140,14 +2143,12 @@ trenokaper : train hijacker
 tribe : tribe  
 trinida i tobago : Trinidad and Tobago  
 tswania : Botswana  
-tu : you  
 tuale : toilet (WC)  
 tube : tube (pipe)  
 tuka : spit  
 tul : tool  
 tulium : thulium  
 tulpan : tulip  
-tumen : you all  
 tundar : tundra  
 tunel tren : subway (metro)  
 tunel : tunnel  
@@ -2316,13 +2317,12 @@ yani : that is (in other words, i.e.)
 yasen : ash tree  
 yatim : orphan  
 yatimodom : orphanage  
-ye : he or she or it  
 yehudi : Jewish  
 yehudistia : Judaism  
-yemen : they  
 yen : eye  
 yenosuy : tear drop  
 yesus : Jesus  
+yey : yay! (yeah!)  
 yeze : coco  
 yode : iodine  
 yoga : do yoga  
@@ -2352,6 +2352,7 @@ zay den : today
 zay : present (current, existing)  
 zaye : presence (existence)  
 zayu : exist (be present)  
+ze : self  
 zebre : zebra  
 zem : earth (ground)  
 zemia : Earth (Terra)  

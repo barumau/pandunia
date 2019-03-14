@@ -1,6 +1,6 @@
 # lekse da asle
   
-pandunia da loge laya ze pol bax du dunia.
+pandunia da loge laya ga pol bax du dunia.
   
 - afriki bax
     - arabi (ara)
@@ -257,6 +257,7 @@ funocuper ← zho:吸尘器 (xīchénqì). deu:Staubsauger.
 furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 furia ← eng:fury. spa:pol:furia. por:fúria.  
 ##g  
+ga ← rus:с (s). hin: से (~se).  
 gabre ← ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
 gaje ← hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.  
@@ -525,7 +526,6 @@ musike ← eng:music. spa:música. rus:музика "muzika". ara:"mūsīqā".
 muta ← spa:mudar. eng:mutate. fra:muter.  
 mux ← pol:mysz. rus:мышь (myś). per:(muš).  
 ##n  
-na ← swa:na. lin:kon:na. rus:на (na).  
 naber ← ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. tur:nebi.  
 naciste ← rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.  
 nade ← hin:नदी (nadī). urd:(nadī). ben:নদী (nôdī). kan:mal:(nadi).  
@@ -534,10 +534,10 @@ nanas ← ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ан�
 nega ← spa:por:negar. eng:negate.  
 nen mes den ← zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).  
 nete ← eng: net. deu: Netz.  
+ni ← ukr:ні (ni). afr:nie. fra:spa:ni...ni.  
 nice ← ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).   
 nida ← eng: need.  
 ninde ← hin:mar:निन्द् (nind).  
-no ← eng: no. spa: no. fra: non.  
 node ← eng:node. spa:nudo. por:nó. fra:nœud.  
 nol ← ind:nol.  
 nowi ← per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.  
@@ -636,7 +636,7 @@ rupe ← hin:रूप (rūp). ind: rupa. tha: รูป /rūp/. khm:រូប (
 ruste ← per:روستا‎ (rustâ). + eng:rustic. por:spa:rustico. fra:rustique.  
 rute ← eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:маршрут (maršrut).  
 ##s  
-sa ← rus:с (s). hin: से (~se).  
+sa ← swa:na. lin:kon:na. rus:на (na).  
 sabe ← kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).  
 sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.  
 sabze ← per:urd:(sabzi). tur:sebze. hin:सब्ज़ी (sabzī). ben:সবজি (sôbji).  
@@ -656,7 +656,6 @@ santi ← por:spa:santo. eng:fra:saint. kon:santu. zho:圣 (shèng).
 sapate ← spa:zapato. por:sapato. ind:sepatu.  
 saudar ← ind:saudara. hin:सहोदर "sahodar". ben:সহোদর "sôhodôr".  
 saye ← per:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).  
-se ← spa: se. fra: se. Czech: se. zho: 私 "sī".  
 sel ← ind:sel. per:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.  
 sem ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
 semente ← eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).  
@@ -707,6 +706,7 @@ tarje ← ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben
 tatike ← por:tática. ita:tattica. eng:tactic. rus:тактика (taktika). deu:Taktik.  
 tawa ← hin:तवा "tavā". tur:tava. per:"tābe".  
 tazi ← tur:taze.  
+te ← hun:te. rus:ты (ty). fra:ita:spa:te.  
 tem ← fra: thème. spa: tema. rus: тема /tema/.  
 tende ← ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.  
 tenke ← zho:天气 (tiănqì). jpn:天気 (tenki).   
@@ -718,7 +718,6 @@ tike ← per:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā)
 tikete ← eng:ticket.  
 tin ← eng:tin. may:tin.  
 ting ← zho:停 (tíng). yue:停 (ting4).  
-to ← eng:to. rus:до "do". pol:do. zho:到 (dào). wuu:(då).  
 toca ← eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".  
 toksi ← eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.  
 tomate ← eng:tomato. spa:tomate. rus: "tomat".  
@@ -810,6 +809,7 @@ zalim ← tur:zalim. urd:hin:(zālim). per:(zālem). swa:dhalimu.
 zaman ← tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:  
 zar ← ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).  
 zay ← zho:在 (zài). jpn:在 (zai).  
+ze ← zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.  
 zem ← slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). per:urd:(zamīn). hin:ज़मीन (zamīn).  
 ziba ← swa:-ziba.  
 zikur ← ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).  

@@ -102,7 +102,7 @@ Greetings, mother!
 Greetings, father!
 
 <small>Etymology. **me**
-is from English: me, Italian: me, Swahili: mimi, Zulu: -me-.</small>
+is from English: me, Hindi: मैं (mẽĩ), Spanish: me.</small>
 
 ### te <small>you</small>
 
@@ -122,8 +122,7 @@ and 'me'.
 **me ama te.**
 I love you.
 
-<small>Etymology. **te** is from Hungarian: te, Russian: ты (ty),
-Farsi: تو‏‎ (to)".</small>
+<small>Etymology. **te** is from Hungarian: te, Russian: ты (ty), Italian: te, French: te.</small>
 
 ### le <small>he, she or it</small>
 
@@ -142,8 +141,7 @@ of gender) as well as for things.
 **me salama le.**
 I greet him/her.
 
-<small>Etymology. **le** is from Lingala: yé, Swahili: yeye, Chichewa: iye,
-Zulu: -le-, Hindi: यह  "le".</small>
+<small>Etymology. **le** is from French: elle, Spanish: él.</small>
 
 ### eska <small>to ask a question</small>
 
@@ -202,7 +200,7 @@ the phrase would look like a compound word: **aple pal** (an apple fruit).
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
 "shì", Shanghaiese: 是 "sí".</small>
 
-### ni <small>no, not</small>
+### ni <small>not</small>
 
 **me ni sara.**
 I'm not Sara.
@@ -217,7 +215,7 @@ Yes, I'm well.
 
 **eska te bon?**
 Are you well?  
-**ni, me ni bon.**
+**ne, me ni bon.**
 No, I'm not well.
 
 You can use **ni** to deny anything. It is placed before the word that is
@@ -227,7 +225,7 @@ denied.
 He/she doesn't greet me.
 
 <small>Etymology. **ni**
-is from Ukrainian: ні (ni), Afrikaans: nie, Polish: nie, Russian: не (nye).</small>
+is from Ukrainian: ні (ni), Afrikaans: nie, Polish: nie, Spanish: ni, French: ni.</small>
 
 ### Plurals
 
@@ -280,7 +278,7 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ce <small>this</small>
+### ce <small>this, that</small>
 
 **ce ke? / ke ce?**
 What's this?
@@ -300,27 +298,6 @@ modifier. When it follows the noun, it works as an adjectival verb.
 **ce ros.**
 This is red.
 
-
-### de <small>that</small>
-
-**me suku ce i de.**
-I like this and that.
-
-**me suku ci kamis i di pantalon.**
-I like this shirt and those pants.
-
-Note: The demonstrative pronouns appear in two forms: **ce** and 
-**de** are used as standalone words, while **ci** and **di** are used
-before the noun that they point to.
-
-**lole sa ke?**
-Where are they?
-
-**lole sa de.**
-They are there.
-
-**mome sa ce.**
-We are here.
 
 
 ### da <small>'s (possessive particle)</small>
@@ -354,17 +331,17 @@ is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
 
 ### nam <small>name</small>
 
-**te da nam si ke?**
+**ti nam si ke?**
 What's your name?
 
-**me da nam si tomas.**
+**mi nam si tomas.**
 My name is Thomas.
 
-**le namu ke?**
-What he/she is called?
+**li nam si ke?**
+What is his/her name?
 
-**le namu sara.**
-She is called Sara.
+**li nam si sara.**
+Her name is Sara.
 
 **me namu tomas.**
 I'm called Thomas.
@@ -394,7 +371,7 @@ I have two children.
 **me jana le.**
 I know him/her.
 
-**eska te jana di ren?**
+**eska te jana ci ren?**
 Do you know that person?
 
 **eska tote jana unale?**
@@ -459,12 +436,12 @@ I want to drink coffee.
 
 **eska te wola nyama cay?**
 Would you like to drink tea?  
-**ni. me ni wola cay. me wola kafe.**
+**ne. me ni wola cay. me wola kafe.**
 No, I don't want tea. I want coffee.
 
 **te wola ki aple?**
 Which apple do you want?  
-**di ros.**
+**ci ros.**
 This red one.
 
 ### bita <small>request, please</small>
@@ -632,7 +609,7 @@ What kind of music do you listen to?
 **suku wida te.**
 Pleased to see you!
 
-**wida te re!**
+**wida te repi!**
 See you again!
 
 **wida te ming den!**
@@ -657,7 +634,7 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**bita kitaba te da adres.**
+**bita kitaba ti adres.**
 Please, write your address.
 
 **bita kitaba le sa ce.**
@@ -674,7 +651,7 @@ We speak in Pandunia.
 **eska te bila baxa engli?**
 Can you speak English?
 
-**fransi, espani, portugal, rusi**
+**fransi, espani, portugali, rusi**
 French, Spanish, Portuguese, Russian
 
 **cini, nipon, indonesi**
@@ -699,7 +676,7 @@ I'm going home.
 **me bixu enda ke?**
 Where should I go?
 
-**me bixu enda to ki ren?**
+**me bixu enda pa ki ren?**
 To whom should I go?
 
 **haida enda!**
@@ -738,7 +715,7 @@ The voyage is very long.
 **hotel sa ke?**
 Where is the hotel?
 
-**hotel sa di daw.**
+**hotel sa ci daw.**
 The hotel is on that road.
 
 **te sa ke?**
@@ -868,6 +845,7 @@ I give a book to them.
 **le ni wola dona le pa me.**
 He/she doesn't want to give it to me.
 
+
 ### kapa <small>take, get</small>
 
 **me kapa un kafe.**
@@ -965,7 +943,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**tote si okey.**
+**pan si okey.**
 Everything is alright.
 
 ****
@@ -989,7 +967,7 @@ I rather stand.
 ****
 With pleasure!
 
-**parte kaixu sa ke sat?**
+**feste mulu sa ki zaman?**
 When does the party begin?
 
 **te sahi.**

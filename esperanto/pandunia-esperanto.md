@@ -464,6 +464,7 @@ furia : kolero (furiozo)
 futobol : piedpilko  
 fuy : bah!  
 ##g  
+ga : de (el, pro)  
 gabre : tombo  
 gabristan : tombejo  
 gade : azeno  
@@ -788,6 +789,7 @@ lanten : lanterno
 latvia : Latvio  
 laurensium : laŭrencio  
 laya : veni  
+le : li aŭ ŝi aŭ ĝi  
 lekse : vorto  
 leksia : vortaro  
 leng : malvarma  
@@ -807,6 +809,7 @@ logike : logiko
 lojia : scienco  
 loke : loko  
 loki : loka  
+lole : ili  
 long : longa  
 lowa sang : sangi  
 lowa : liki  
@@ -876,7 +879,6 @@ mikro- : mikro-
 milke : lakto  
 milo- : mili-  
 milometre : milimetro  
-mimen : ni  
 min ka bas : maltro  
 min : malpli  
 minare : turo  
@@ -897,6 +899,7 @@ mode : fasono
 moge : inko  
 moke : ligno  
 molidenum : molibdeno  
+mome : ni  
 mon : nur  
 mongol : mongola  
 mongolia : Mongolio  
@@ -926,10 +929,6 @@ muskul : muskolo
 muta : aliigi  
 mux : muso  
 ##n  
-na ce : ĉi tie  
-na de : tie  
-na ke : kie  
-na sabu : ĉar (pro ke)  
 nabe : profetaĵo  
 nade : rivero  
 nafas : spiro  
@@ -939,6 +938,7 @@ namibia : Namibio
 nanas : ananaso  
 natre : natrio  
 nawati : naūatla  
+ne : ne  
 nen mes den : dato  
 nen : jaro  
 neon : neono  
@@ -946,6 +946,7 @@ nepal : Nepalo
 neptun : Neptuno  
 neptunium : neptunio  
 nete : reto  
+ni : ne  
 nida : bezoni  
 nijer : Niĝero  
 nik : entuziasmulo  
@@ -958,7 +959,6 @@ niobium : niobo
 nipon : Japanio  
 niponium : nihonio  
 nitre : nitrogeno  
-no : ne  
 nobelium : nobelio  
 noce : nokto  
 node : nodo  
@@ -987,6 +987,7 @@ osmium : osmio
 oste : osto  
 oton : aŭtuno  
 ##p  
+pa : al (ĝis, por)  
 pake : pako  
 pakse : birdo  
 pal : frukto (rezulto)  
@@ -1105,7 +1106,9 @@ rutenium : rutenio
 ruterfordium : ruterfordio  
 rutin : rutino (kutimo)  
 ##s  
-sa : de (el, pro)  
+sa ce : tie  
+sa ke : kie  
+sa sabu : ĉar (pro ke)  
 sabe : kialo  
 sabun : sapo  
 sabze : legomo  
@@ -1142,7 +1145,6 @@ sapateria : ŝuistejo
 saudar : frato aŭ fratino  
 sauna : saŭno  
 saye : ombro  
-se : si  
 seaborgium : seborgio  
 sekse : sekso  
 sel : ĉelo  
@@ -1218,6 +1220,7 @@ tas : plado
 tatu : tatuo  
 tawa : pato  
 tazi : freŝa  
+te : vi (ci)  
 tekne : tekniko  
 teknetium : teknecio  
 teknolojia : teknologio  
@@ -1246,7 +1249,6 @@ tingu : halti
 tira milke : melki  
 tira : tiri  
 titan : titanio  
-to : al (ĝis, por)  
 toca : tuŝi  
 togolia : Toglando  
 tomate : tomato  
@@ -1254,16 +1256,15 @@ ton : tono
 tope : ĉapelo  
 torium : torio  
 torse : torso  
+tote : vi ĉiu  
 towal : viŝilo  
 tren : trajno (vagonaro)  
 trenodaw : fervojo  
 tribe : tribo  
-tu : vi (ci)  
 tube : tubo  
 tuka : sputi  
 tul : ilo  
 tulium : tulio  
-tumen : vi ĉiu  
 tundar : tundro  
 tunel tren : metroo  
 tunel : tunelo  
@@ -1339,8 +1340,6 @@ yala : rapidigi
 yaman : Jemeno  
 yang : speco (tipo, stilo)  
 yani : tio estas (alivorte)  
-ye : li aŭ ŝi aŭ ĝi  
-yemen : ili  
 yen : okulo  
 yesus : Jesuo  
 yeze : kokoso  
@@ -1362,6 +1361,7 @@ zarduxistia : zoroastrismo
 zari : hazarda  
 zay den : hodiaŭ  
 zay : ĉeestanta (nuna, ekzistanta)  
+ze : si  
 zebre : zebro  
 zine : malfideleco  
 zinke : zinko  

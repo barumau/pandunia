@@ -1,6 +1,6 @@
 ##a  
 abace : alphabet  
-adres : avoir  
+ada : avoir  
 adu : appartenir à  
 adulte : adulte  
 afrike : Afrique  

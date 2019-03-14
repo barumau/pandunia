@@ -3,6 +3,8 @@
 -em : pääte: pienin erottuva yksikkö kielitieteessä  
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
+ : kaikki  
+ : totaalinen (kaikkia koskeva)  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -577,6 +579,7 @@ furia : viha (suuttumus, raivo)
 futobol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
+ga : lähtien (-sta, -lta)  
 gabre : hauta  
 gabristan : hautausmaa  
 gabun : Gabon  
@@ -1104,6 +1107,7 @@ latvia : Latvia
 laurensium : lawrensium  
 laxa : päästää (sallia)  
 laya : tulla  
+le : hän (se)  
 lekse : sana  
 leksem : lekseemi  
 leksia : sanasto  
@@ -1150,6 +1154,7 @@ lojia : tiede (tutkimus)
 loka : sijoittaa (panna paikalleen)  
 loke : paikka (sija, sijainti)  
 loki : paikallinen  
+lole : he  
 lon : väittely (debatti)  
 lona : keskustelu (debatti)  
 long : pitkä  
@@ -1316,7 +1321,6 @@ mikronesia : Mikronesia
 milke : maito  
 milo- : milli-  
 milometre : millimetri  
-mimen : me  
 min ka bas : liian vähän  
 min : vähemmän  
 minare : torni  
@@ -1353,6 +1357,7 @@ mola : jauhaa myllyssä
 moldovia : Moldova  
 moler : mylläri  
 molidenum : molybdeeni  
+mome : me  
 mon : vain (ainoastaan)  
 monako : Monaco  
 mongol : mongoli  
@@ -1409,11 +1414,6 @@ muta : muuttaa (muuntaa)
 mux : hiiri  
 muxing : Jupiter  
 ##n  
-na ce : täällä  
-na de : tuolla  
-na ke : missä?  
-na sabu : aiheutua (koska, syystä, takia)  
-na : kanssa (luona, -lla, -ssa)  
 nabe : profetia  
 naber : profeetta  
 naciste : natsi  
@@ -1439,6 +1439,7 @@ nasistia : kansallisuusaate (nationalismi)
 natre : natrium  
 nauru : Nauru  
 nawati : nahuatli  
+ne : ei  
 nederlandi antilia : Alankomaiden Antillit  
 nederlandia : Alankomaat (Hollanti)  
 nega : kieltää  
@@ -1453,6 +1454,7 @@ neptunium : neptunium
 nes : saari  
 nesia : saaristo  
 nete : verkko  
+ni : ei  
 nica : alittaa (alla)  
 nice : alapuoli  
 nici : ala-  
@@ -1472,7 +1474,6 @@ niponium : nihonium
 nitre : typpi  
 niwe : Niue  
 nixe : alkovi  
-no : ei  
 nobelium : nobelium  
 noce : yö  
 node : solmu  
@@ -1542,6 +1543,7 @@ oste : luu
 osteria : Itävalta  
 oton : syksy (syys)  
 ##p  
+pa : luokse (tykö, kohti, asti)  
 pada : pudottaa  
 padu : pudota (tipahtaa)  
 pagre : turbaani  
@@ -1823,7 +1825,10 @@ rute : polku (reitti, kurssi)
 rutin : tapa (rutiini)  
 rwanda : Ruanda  
 ##s  
-sa : lähtien (-sta, -lta)  
+sa ce : täällä (tuolla)  
+sa ke : missä?  
+sa sabu : aiheutua (koska, syystä, takia)  
+sa : kanssa (luona, -lla, -ssa)  
 saba : aiheuttaa  
 sabe : syy  
 sabun : saippua  
@@ -1875,7 +1880,6 @@ saudar : sisarus (veli tai sisko)
 saudi arabia : Saudi Arabia  
 sauna : sauna  
 saye : varjo  
-se : itse  
 sekreter : sihteeri  
 sekreteria : sihteeristö  
 sekse : seksi (sukupuolinen kanssakäyminen)  
@@ -2024,6 +2028,7 @@ tatike : taktiikka
 tatu : tatuointi  
 tawa : pannu (paistinpannu)  
 tazi : tuore (raikas)  
+te : sinä  
 tekne : tekniikka (keino, menetelmä)  
 teknokratia : teknokratia  
 teknolojia : tekniikka (teknologia)  
@@ -2067,7 +2072,6 @@ tira : vetää
 tiran : tyranni  
 tirania : tyrannia  
 titan : titaani  
-to : luokse (tykö, asti)  
 toca : koskea (koskettaa)  
 tofu' : tofu  
 togolia : Togo  
@@ -2081,8 +2085,7 @@ tong : tynnyri (tölkki)
 tope : lakki (hattu)  
 torse : vartalo (varsi, torso)  
 tortuge : kilpikonna  
-total : totaalinen (kaikkia koskeva)  
-toti : kaikki  
+tote : te  
 towal : pyyhe  
 trans : läpikulku  
 transa : kulkea poikki, läpi tai yli  
@@ -2092,13 +2095,11 @@ trenokaper : junakaappari
 tribe : heimo  
 trinida i tobago : Trinidad ja Tobago  
 tswania : Botswana  
-tu : sinä  
 tuale : vessa  
 tube : putki (tuubi)  
 tuka : sylkeä  
 tul : työkalu  
 tulpan : tulppaani  
-tumen : te  
 tundar : tundra  
 tunel tren : metrojuna (maanalainen)  
 tunel : tunneli  
@@ -2262,13 +2263,12 @@ yang : laji (tyyppi, tyyli)
 yani : eli (toisin sanoen)  
 yatim : orpo  
 yatimodom : orpokoti  
-ye : hän (se)  
 yehudi : juutalainen  
 yehudistia : juutalaisuus  
-yemen : he  
 yen : silmä  
 yenosuy : kyynel  
 yesus : Jeesus  
+yey : jee! (hurraa!)  
 yeze : kookos  
 yode : jodi  
 yoga : joogata  
@@ -2298,6 +2298,7 @@ zay den : tänään
 zay : kuluva (tämänhetkinen)  
 zaye : läsnäolo  
 zayu : olla olemassa  
+ze : itse  
 zebre : seepra  
 zem : maa (maaperä)  
 zemia : Maapallo  

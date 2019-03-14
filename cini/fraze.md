@@ -35,80 +35,80 @@
 
 
 
-### mi <small>我</small>
+### me <small>我</small>
 
-**mi lili.**
+**me lili.**
 我叫丽丽。
 
-**mi tomas.**
+**me tomas.**
 我叫托马。
 
-**mi salama mamá.**
+**me salama mame.**
 我迎接妈妈。
 
-**mi salama papá.**
+**me salama pape.**
 我迎接爸爸。
 
-**salam mamá!**
+**salam mame!**
 妈妈，你好！
 
-**salam papá!**
+**salam pape!**
 爸爸，你好！
 
-**mimen salama mamá.**
+**mome salama mame.**
 我们迎接妈妈。
 
 
 
-### tu <small>你</small>
+### te <small>你</small>
 
-**tu tomas.**
+**te tomas.**
 你叫托马。
 
-**mi salama tu.**
+**me salama te.**
 我给你打招呼。
 
-**tu salama mi.**
+**te salama me.**
 你给我打招呼。
 
-**salam tu!**
+**salam te!**
 你好！
 
-**mi salama tumen.**
+**me salama tote.**
 我给你们打招呼。
 
-**salam tumen!**
+**salam tote!**
 你们好！
 
 
 
 
-### ye <small>他，她，它</small>
+### le <small>他，她，它</small>
 
-**ye man.**
+**le man.**
 他是一个男人。
 
-**ye fem.**
+**le fem.**
 她是一个女人。
 
-**ye aple.**
+**le aple.**
 它是一个苹果。
 
 ### eska <small>问</small>
 
-**eska tu tomas?**
+**eska te tomas?**
 请问你是托马吗？
 
-**eska tu dotor?**
+**eska te dotor?**
 请问你是医生吗？
 
-**eska tu bon?**
+**eska te bon?**
 你好吗？  
-**mi bon.**
+**me bon.**
 我很好。  
-**eska tu?**
+**eska te?**
  你呢？  
-**mi no bon.**
+**me ni bon.**
 我不好。
 
 
@@ -116,24 +116,24 @@
 
 ### si <small>是</small>
 
-**mi si tomas.**
+**me si tomas.**
 我是托马斯。
 
-**tu si sara.**
+**te si sara.**
 你是莎拉。
 
 **maw si hewan.**
 猫是动物。
 
-**mi sara.**
+**me sara.**
 我是莎拉。
 
-**tu tomas.**
+**te tomas.**
 你是托马斯。
 
 
 
-**mimen salama tumen.**
+**mome salama tote.**
 We greet you.
 
 
@@ -143,93 +143,93 @@ We greet you.
 **ke?**
 什么？
 
-**tu ke?**
+**te ke?**
 你是谁？
-**mi tomas.**
+**me tomas.**
 我是托马斯。
 
-**ye ke?**
+**le ke?**
 她是谁？
-**ye sara.**
+**le sara.**
 她是莎拉。
 
-**tumen si ke?**
+**tote si ke?**
 你们是谁？
 
-**yemen si ke?**
+**lole si ke?**
 他们是谁？
 
 
 
 ### pardon <small>对不起</small>
 
-**pardon! mi no aha.**
+**pardon! me no aha.**
 对不起，我不明白。
 
 **pardon! ce ke?**
 对不起，这是什么？
 
-**pardon. tu namu ke?**
+**pardon. te namu ke?**
 对不起，你叫什么名字？
 
 
 ### aha <small>明白</small>
 
-**eska tu aha mi?**
+**eska te aha me?**
 你明白我吗？
 
-**mi aha.**
+**me aha.**
 我明白。
 
-**pardon. mi no aha tu.**
+**pardon. me ni aha te.**
 对不起，我不明白你。
 
-**mi no bas aha tu.**
+**me ni bas aha te.**
 我不太明白你。
 
-**mi aha nul.**
+**me aha nol.**
 我什么都不懂。
 
 
 
 ### bila <small>会</small>
 
-**mi bila gida kar.**
+**me bila gida kar.**
 我会开车。
 
-**ye no bila gida kar.**
+**le ni bila gida kar.**
 他不知道怎么开车。
 
-**eska tu bila xula ye?**
+**eska te bila xula le?**
 你知道怎么修吗？
 
-**eska tu bila pandunia?**
+**eska te bila pandunia?**
 你会泛世界语吗？
 
-**mi bila pandunia.**
+**me bila pandunia.**
 我会泛世界语。
 
-**mi bila lil pandunia.**
+**me bila lil pandunia.**
 我会一点泛世界语。
 
-**mi no bila engli.**
+**me ni bila engli.**
 我不会英语。
 
-**pardon. mi no bila tu da bax.**
+**pardon. me ni bila te da bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
 
-**eska tumen baxa pandunia.**
+**eska tote baxa pandunia.**
 你们说泛世界语吗？
 
-**mimen baxa pandunia.**
+**mome baxa pandunia.**
 我们会说泛世界语。
 
-**eska tu bila baxa engli?**
+**eska te bila baxa engli?**
 你能说英语吗？
 
-**fransi, espani, portugal, rusi**
+**fransi, espani, portugali, rusi**
 法语，西班牙语，葡萄牙语，俄语
 
 **cini, nipon, indonesi**
@@ -274,9 +274,9 @@ We greet you.
 **ma** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
 **man** 男人 <small>(英语 _man_)</small>  
 **mane** 意义 <small>(斯瓦希里语 _maana_)</small>  
-**mi** 我 <small>(英语 _mi_)</small>  
+**me** 我 <small>(英语 _me_)</small>  
 **meda** 帮助 <small>(法语 _aider_)</small>  
-**mimen** 我们  
+**mome** 我们  
 **nide** 需要 <small>(英语 _need_)</small>  
 **no** 不 <small>(西班牙语 _no_)</small>  
 **noce** 夜晚 <small>(西班牙语 _noche_)</small>  
@@ -293,14 +293,14 @@ We greet you.
 **si** 是 <small>(西班牙语 _sí_)</small>  
 **si** 是，对 <small>(德语 _ja_)</small>  
 **suba** 早上 <small>(Wolof _subba_)</small>  
-**tu** 你 <small>(泰米尔语 _nī_ நீ)</small>  
-**tumen** 你们  
+**te** 你 <small>(泰米尔语 _nī_ நீ)</small>  
+**tote** 你们  
 **u** 或 <small>(法语 _ou_)</small>  
 **wida** 看 <small>(俄语 _videt'_ видеть)</small>  
 **wol** 想要 <small>(意大利语 _volere_)</small>  
 **wang** 黄色 <small>(广东话 _wong_)</small>  
 **xam** 晚上 <small>(印地语 _śām_ शाम )</small>  
-**ye** 他，她，它 <small>(斯瓦希利语 _yeye_)</small>  
-**yemen** 他们  
+**le** 他，她，它 <small>(斯瓦希利语 _yeye_)</small>  
+**lole** 他们  
 
 

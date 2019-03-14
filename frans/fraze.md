@@ -2,13 +2,32 @@
 
 ### Introduction
 
-Le pandunia est une langue construite conçue pour être relativement aisée pour tout le monde. Vous pouvez l’apprendre rapidement avec ce cours pratique.
+Le pandunia est une langue construite conçue pour être relativement
+aisée pour tout le monde. Vous pouvez l’apprendre rapidement avec ce
+cours pratique.
 
-Le cours consiste de courtes leçons. Chacune d’elles introduit un mot nouvement, qui est utilisé dans d’autres phrases de la leçon. Cela permet de vous apprendre comment un mot fonctionne dans une phrase. Vous rencontrerez aussi peut-être d’autres mots nouveaux dans la même leçon mais ne vous inquiétez pas ! Vous n’avez pas à tous les retenir en une seule fois. Retenez simplement les phrases qui vous sont utiles ! Peut-être que le reste passera inconsciemment dans votre mémoire.
+Le cours consiste de courtes leçons. Chacune d’elles introduit un mot
+nouvement, qui est utilisé dans d’autres phrases de la leçon. Cela
+permet de vous apprendre comment un mot fonctionne dans une phrase.
+Vous rencontrerez aussi peut-être d’autres mots nouveaux dans la même
+leçon mais ne vous inquiétez pas ! Vous n’avez pas à tous les retenir
+en une seule fois. Retenez simplement les phrases qui vous sont
+utiles ! Peut-être que le reste passera inconsciemment dans votre
+mémoire.
 
-Vous pouvez étudier ce cours avec un ou plusierus amis. Lisez les phrases ensemble et essayer de tenir quelques petites conversations. Vous pouvez également étudier seul. Même comme ça, c’est utile de parler à voix haute et de faire semblant de parler à quelqu’un. Répétez les mêmes phrases plusieurs fois aujourd’hui, demain, après-demain et ainsi de suite. Comme on dit, « enseigner, c’est répéter ».
+Vous pouvez étudier ce cours avec un ou plusierus amis. Lisez les
+phrases ensemble et essayer de tenir quelques petites conversations.
+Vous pouvez également étudier seul. Même comme ça, c’est utile de
+parler à voix haute et de faire semblant de parler à quelqu’un.
+Répétez les mêmes phrases plusieurs fois aujourd’hui, demain,
+après-demain et ainsi de suite. Comme on dit, « enseigner, c’est
+répéter ».
 
-Remarque ! Beaucoup de leçons contiennent également des astuces et des remarques comme celle-ci. Elles sont présentes pour détailler un point de grammaire pour ceux que ça intéresse. Vous pouvez les passer si elles ne vous aident pas. Vous n’avez pas à connaitre la théorie de la langue. Vous pouvez tout simplement parler en pandunia !
+Remarque ! Beaucoup de leçons contiennent également des astuces et
+des remarques comme celle-ci. Elles sont présentes pour détailler un
+point de grammaire pour ceux que ça intéresse. Vous pouvez les passer
+si elles ne vous aident pas. Vous n’avez pas à connaitre la théorie
+de la langue. Vous pouvez tout simplement parler en pandunia !
 
 
 
@@ -58,21 +77,21 @@ est une salutation populaire qui est utilisée à la fois par des personnes reli
 vient de l'arabe سَلَام‏ "salām", en Hébreu il se dit : שָׁלוֹם‏ "šalom", en Turque "selam", en Hindi सलाम "salām", en Swahili "salaam" et en Indonésien "selamat".</small>
 
 
-### mi <small>je, me, moi</small>
+### me <small>je, me, moi</small>
 
-**mi sara.**
+**me sara.**
 Je suis Sara.
 
-**mi tomas.**
+**me tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **mi**
 et votre prénom ; le verbe "être" est optionel.
 
-**mi salama mame.**
+**me salama mame.**
 Je salue la mère.
 
-**mi salama pape.**
+**me salama pape.**
 Je salue le père.
 
 Le mot **salam**
@@ -89,61 +108,61 @@ Salutations, mère ! | Salut maman !
 **salam pape!**
 Salutations, père ! | Salut papa !
 
-<small>Étymologie : **mi**
+<small>Étymologie : **me**
 vient de l'anglais "me", en Italien il se dit "mi", en Swahili "mimi" et en Zulu: -mi-.</small>
 
 
 
 
-### tu <small>tu, te, toi</small>
+### te <small>tu, te, toi</small>
 
-**tu tomas.**
+**te tomas.**
 Tu es Thomas.
 
-**mi salama tu.**
+**me salama te.**
 Je te salue.
 
-**tu salama mi.**
+**te salama me.**
 Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit sujet ou complément.
 
-**mi a tu.**
+**me ama te.**
 Je t'aime.
 
-<small>Étymologie : **tu**
+<small>Étymologie : **te**
 vient de l'espagnol "tú", en Italien il se dit "tu", en Français "tu", en Hindi: तू  "tū", en Farsi تو‏‎ "to" et en Tadjik ту "tu".</small>
 
 
 
-### ye <small>Il, elle, ou il neutre</small>
+### le <small>Il, elle, ou il neutre</small>
 
-**ye man.**
+**le man.**
 C'est un homme.
 
-**ye fem.**
+**le fem.**
 C'est une femme.
 
-**ye aple.**
+**le aple.**
 C'est une pomme.
 
 **ye**
 est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
-**mi salama ye.**
+**me salama le.**
 Je le/la salue.
 
-<small>Étymologie : **ye**
+<small>Étymologie : **le**
 vient du Lingala "yé", en Swahili il se dit "yeye", en Chichewa "iye", en Zulu: "-ye-" et en Hindi यह  "ye".</small>
 
 
 
 ### eska <small>Pour poser une question (est-ce que)</small>
 
-**eska tu tomas?**
+**eska te tomas?**
 Es-tu Thomas ?
 
-**eska tu dotor?**
+**eska te dotor?**
 Êtes-vous doctor ?
 
 **Astuce : **
@@ -151,13 +170,13 @@ Les questions auxquelles on peut répondre par oui ou par non commencent souvent
 (je vous demande si vous êtes doctor) ou le premier mot - le pronom personnel **mi**
 -, est supprimé.
 
-**eska tu bon?**
+**eska te bon?**
 Comment vas-tu ? (litérallement : _Est-ce que tu vas bien_)  
-**mi bon.**
+**me bon.**
 Ça va. | Je vais bien.  
-**eska tu?**
+**eska te?**
 Et toi ?  
-**mi no bon.**
+**me ni bon.**
 Ça ne vas pas | Je ne vais pas bien.
 
 <small>Étymologie : **eska**
@@ -167,25 +186,25 @@ vient de l'anglais: ask.</small>
 
 ### si <small>oui, "être"</small>
 
-**eska tu tomas?**
+**eska te tomas?**
 Es-tu Thomas.
 
-**si, mi tomas.**
+**si, me tomas.**
 Oui, je suis Thomas.
 
-**eska ye dotor?**
+**eska le dotor?**
 Est-il/elle doctor ?
 
-**si, ye dotor.**
+**si, le dotor.**
 Oui, il/elle est doctor.
 
 Le mot **si** peut également être utilisé pour souligner/confirmer un fait.
 Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
-**mi si tomas.**
+**me si tomas.**
 En effet, je suis Thomas.
 
-**tu si sara.**
+**te si sara.**
 En effet, tu es Sara.
 
 **aple si pal.**
@@ -200,56 +219,57 @@ vient de l'Espagnol "si", en Portugais il se dit "sim".</small>
 
 
 
-### no <small>Non, ne pas</small>
+### ni <small>Ne pas</small>
 
-**mi no sara.**
+**me ni sara.**
 Je ne suis pas Sara.
 
-**mi no dotor.**
+**me ni dotor.**
 Je ne suis pas doctor.
 
-**eska tu bon?**
+**eska te bon?**
 Est-ce que tu vas bien ?  
-**si. mi bon.**
+**si. me bon.**
 Oui, je vais bien.
 
-**eska tu bon.**
+**eska te bon?**
 Est-ce que tu vas bien ?  
-**no, mi no bon.**
+**ne, me ni bon.**
 Non, je ne vais pas bien.
 
 Vous pouvez utiliser **no**
 pour mettre une phrase à la forme negative.
 
-**ye no salama mi.**
+**le ni salama me.**
 Il/elle ne me salue pas.
 
 <small>Étymologie : **no**
-vient de l'Anglais "no", en Espagnol il se dit "no" et en Français "non".</small>
+vient de l'Ukraïnien ні (ni), en Espagnol il se dit "no" et en Français "non".</small>
 
 
 
-### men <small>Plusieurs personnes</small>
+### Plusieurs personnes
 
-Ajoutez **men**
-à un pronom personnel pour le mettre au pluriel. 
+**me** (je) →  **mome** (nous)  
+**te** (tu) →  **tote** (vous)  
+**le** (il, elle) →  **lole** (ils, elles)
 
-**mimen salama tumen.**
+**mome salama tote.**
 Nous vous saluons [tous].
 
-**tumen salama yemen.**
+**tote salama lole.**
 Vous les saluez.
 
-**yemen salama mimen!**
+**lole salama mome!**
 Ils nous saluent.
 
-**mimen fem.**
+**mome fem.**
 Nous sommes des femmes.
 
-**tumen man.**
+**tote man.**
 Vous êtes des hommes.
 
-**yemen aple.**
+**lole aple.**
 Ce sont des pommes.
 
 <small>Étymologie : **men**
@@ -262,20 +282,20 @@ vient du Mandarin (chinois) 们 "men", en Anglais il se dit "men" (sous-entendu 
 **ke?**
 Quoi ?
 
-**tu si ke?**
+**te ke?**
 Qui es-tu ?
-**mi si tomas.**
+**me tomas.**
 Je suis Thomas.
 
-**ye ke?**
+**le ke?**
 Qui est-il/elle ?  
-**ye sara.**
+**le sara.**
 C'est Sara.
 
-**tumen ke?**
+**tote ke?**
 Qui êtes-vous ?
 
-**yemen ke?**
+**lole ke?**
 Qui sont-ils ?
 
 <small>Étymologie : **ke**
@@ -308,32 +328,32 @@ C'est rouge.
 
 ### da <small>possessif</small>
 
-**ye si mi da mame.**
+**le si me da mame.**
 C’est ma mère.
 
-**ye si mi da man.**
+**le si me da man.**
 C’est mon mari (mon homme).
 
-**ye si mi da fem.**
+**le si me da fem.**
 C’est ma femme.
 
-**mi si sara da doste.**
+**me si sara da doste.**
 Je suis l’ami de Sara.
 
 
 
 ### nam <small>nom</small>
 
-**tu da nam si ke?**
+**ti nam si ke?**
 Quel est ton nom?
 
-**mi da nam si tomas.**
+**mi nam si tomas.**
 Mon nom est Thomas.
 
-**ye namu ke?**
+**li nam ke?**
 Quel est son nom ?
 
-**ye namu sara.**
+**li nam sara.**
 Son nom est Sara.
 
 
@@ -362,32 +382,32 @@ Je ne vais pas bien.
 
 ### ada <small>verbe avoir</small>
 
-**mi ada bon dom.**
+**me ada bon dom.**
 J’ai une bonne maison.
 
-**ye no ada pesa.**
+**le ni ada pese.**
 Il/elle n’a pas d’argent.
 
-**mi wola ada nowi fon.**
+**me wola ada nowi fon.**
 Je veux un nouveau téléphone.
 
-**eska tu ada ban?**
+**eska te ada bace?**
 As-tu des enfants ?  
-**mi ada do ban.**
+**me ada dul bace.**
 J’ai deux enfants.
 
 
 
 ### si <small>oui</small>
 
-**eska tu bon?**
+**eska te bon?**
 Est-ce que ça va ?  
-**si. mi bon.**
+**si. me bon.**
 Oui, je vais bien.
 
 **eska ada dotor?**
 Est-ce qu’il y a un médecin ?  
-**si. ye dotor.**
+**si. le dotor.**
 Oui. Il/elle est médecin.
 
 **eska ada win?**
@@ -397,44 +417,31 @@ Oui, du blanc et du rouge.
 
 
 
-### no <small>non, ne… pas</small>
-
-**mi no dotor.**
-Je ne suis pas médecin.
-
-**li man no dotor.**
-Cet homme n’est pas un médecin.
-
-**ci aple no ros.**
-Cette pomme n’est pas rouge.
-
-
-
 ### jana <small>connaitre</small>
 
-**mi jana ye.**
+**me jana le.**
 Je le/la connais.
 
-**eska tu jana di ren?**
+**eska te jana ci ren?**
 Est-ce que tu connais cette personne ?
 
-**eska tumen jana unale?**
+**eska tote jana unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mimen jana unale ze long.**
+**mome jana unale ga long.**
 Nous nous connaissons l’un l’autre depuis longtemps.
 
 
 
 ### helpe <small>aide, aider</small>
 
-**mi nida helpe.**
+**me nida helpe.**
 J’ai besoin d’aide.
 
-**eska tu bila helpa mi?**
+**eska te bila helpa me?**
 Est-ce que tu peux m’aider ?
 
-**eska mi bila helpa tu?**
+**eska me bila helpa te?**
 Est-ce que je peux t’aider ?
 
 
@@ -444,66 +451,66 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**eska tu wola nyama koy?**
+**eska te wola nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
-**ye nyama aple.**
+**le nyama aple.**
 Il/elle mange une pomme.
 
-**yemen nyama aple.**
+**lole nyama aple.**
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple**
 peut signifier une ou plusieurs pommes.
 
-**eska tu nyama kafe?**
+**eska te nyama kafe?**
 Est-ce que tu bois du café ?
 
-**mi nyama kafe.**
+**me nyama kafe.**
 Je bois du café.
 
 Astuce : Le sens de **nyama**
 regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi nyama kafe i pang.**
+**me nyama kafe i pang.**
 Je prends mon café avec du pain.
 
 
 
 ### wola <small>vouloir</small>
 
-**eska tu wola nyama?**
+**eska te wola nyama?**
 Est-ce que tu veux manger ?
 
-**tu wola nyama ke?**
+**te wola nyama ke?**
 _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**mi wola nyama kafe.**
+**me wola nyama kafe.**
 Je veux boire un café.
 
-**eska tu wola nyama cay?**
+**eska te wola nyama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no wola cay. mi wola kafe.**
+**ne. me ni wola cay. me wola kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
-**tu wola ki aple?**
+**te wola ki aple?**
 Quelle pomme veux-tu ?  
-**di ros.**
+**ci ros.**
 La rouge. (mot à mot _cette rouge_)
 
 
 
 ### bita <small>demander, s’il vous plait</small>
 
-**mi bita tu nyama cay.**
+**me bita te nyama cay.**
 Je te demande si tu veux du thé.
 
-**mi bita tu laya dom.**
+**me bita te laya dom.**
 Je te demande de venir à la maison.
 
-**mi bita tu helpa mi.**
+**me bita te helpa me.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
@@ -517,7 +524,7 @@ Un café, s’il vous plait!
 **bita laya dom.**
 Viens à la maison, s’il te plait !
 
-**bita helpa mi.**
+**bita helpa me.**
 Aide moi, s’il te plait.
 
 
@@ -527,19 +534,19 @@ Aide moi, s’il te plait.
 **danke!**
 Merci !
 
-**danka tu.**
+**danka te.**
 Merci à toi.
 
-**mi danka tu.**
+**me danka te.**
 Je te remercie.
 
-**mi danka tu helpa mi.**
+**me danka te helpa me.**
 Je te remercie de m’aider.
 
-**danka tu helpa mi.**
+**danka te helpa me.**
 Merci de m’aider.
 
-**tu keci.**
+**te keci.**
 De rien. (mot à mot : _tu es poli._)
 
 
@@ -559,16 +566,16 @@ Allons à la maison.
 
 ### nida <small>besoin</small>
 
-**mi nida helpe.**
+**me nida helpe.**
 J’ai besoin d’aide.
 
-**mi nida nyama.**
+**me nida nyama.**
 J’ai faim.
 
-**eska tu nida nyama?**
+**eska te nida nyama?**
 Est-ce que tu as faim ?
 
-**eska tu nida suy?**
+**eska te nida suy?**
 Est-ce que tu as soif ?
 
 
@@ -578,79 +585,79 @@ Est-ce que tu as soif ?
 
 ### pardon <small>désolé, pardon, excuse</small>
 
-**pardon! mi no aha.**
+**pardon! me ni aha.**
 Désolé, je ne comprends pas.
 
 **pardon! ce ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
-**pardon. tu namu ke?**
+**pardon. te namu ke?**
 Pardon, quel est ton nom ?
 
 
 
 ### aha <small>comprendre</small>
 
-**eska tu aha mi?**
+**eska te aha me?**
 Est-ce que tu me comprends ?
 
-**mi aha.**
+**me aha.**
 Je comprends.
 
-**pardon. mi no aha tu.**
+**pardon. me ni aha te.**
 Désolé, je ne t’ai pas compris.
 
-**mi no bas aha tu.**
+**me ni bas aha te.**
 Je ne t’ai pas trop compris.
 
-**mi aha nol.**
+**me aha nol.**
 Je n’ai rien compris du tout.
 
 
 
 ### bila <small>pouvoir, savoir</small>
 
-**mi bila gida kar.**
+**me bila gida kar.**
 Je sais conduire une voiture.
 
-**ye no bila gida kar.**
+**le ni bila gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**eska tu bila xula ye?**
+**eska te bila xula le?**
 Est-ce que tu sais réparer ça ?
 
-**eska tu bila pandunia?**
+**eska te bila pandunia?**
 Est-ce que tu parles pandunia ?
 
-**mi bila pandunia.**
+**me bila pandunia.**
 Je parle pandunia.
 
-**mi bila lil pandunia.**
+**me bila lil pandunia.**
 Je parle un peu pandunia.
 
-**mi no bila engli.**
+**me ni bila engli.**
 Je ne parle pas anglais.
 
-**pardon. mi no bila tu da bax.**
+**pardon. me ni bila te da bax.**
 Désolé, je ne parle pas votre langue.
 
 
 
 ### loga <small>mot, dire, parler</small>
 
-**tu loga ke?**
+**te loga ke?**
 Qu’est-ce que tu dis ?
 
-**mi loga to tu.**
+**me loga pa te.**
 Je te parle. (mot à mot : _je parle à toi_)
 
-**mimen loga to unale.**
+**mome loga pa unale.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loga "chat" na ki yang na pandunia?**
+**ze loga "chat" sa ki yang sa pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" si ke na pandunia?**
+**"chat" si ke sa pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **maw loga miaw.**
@@ -659,31 +666,31 @@ Un chat dit miaou.
 
 ### auda <small>écouter, entendre</small>
 
-**mi no bila auda tu.**
+**me ni bila auda te.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
 **bita loga forti.**
 Parlez plus fort, s’il vous plait.
 
-**mi auda musike.**
+**me auda musike.**
 J’écoute de la musique.
 
-**tu auda ki yang da musike?**
+**te auda ki yang da musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
 ### wida <small>voir</small>
 
-**suku wida tu.**
+**suku wida te.**
 Heureux de te voir !
 
-**wida tu re!**
+**wida te repi!**
 On se voit plus tard !
 
 **wida tu ming den!**
 On se voit demain !
 
-**mi wida ye yer.**
+**me wida le predi den.**
 Je l’ai vu(e) hier.
 
 
@@ -695,33 +702,34 @@ Que veut dire ce mot ?
 **"maw" mena ke?**
 Que signifie « mau » ?
 
-**ye mena yang du hewan.**
+**le mena yang du hewan.**
 Ça signifie un genre d’animal.
 
-**mi no aha ye mena ke.**
+**me ni aha le mena ke.**
 Je ne comprend pas ce que cela signifie.
 
 
 ### kitaba <small>écrire</small>
 
-**bita kitaba tu da adres.**
+**bita kitaba ti adres.**
 S’il te plait, écris ton adresse.
 
-**bita kitaba ye na li.**
+**bita kitaba le sa ce.**
 S’il te plait, écris-le là !
 
 
 ### baxa <small>communiquer</small>
 
-**eska tumen baxa pandunia.**
-Est-ce que vous parlez tous pandunia ?  
-**mimen baxa pandunia.**
+**eska tote baxa pandunia.**
+Est-ce que vous parlez tous pandunia ?
+
+**mome baxa pandunia.**
 Nous parlons pandunia.
 
-**eska tu bila baxa engli?**
+**eska te bila baxa engli?**
 Est-ce que tu parles anglais ?
 
-**fransi, espani, portugal, rusi**
+**fransi, espani, portugali, rusi**
 français, espagnol, portugais, russe
 
 **cini, nipon, indonesi**
@@ -739,22 +747,22 @@ swahili, haoussa, yorouba, amharique
 
 ### enda <small>aller</small>
 
-**tu enda ke?**
+**te enda ke?**
 Où vas-tu ?
 
-**mi enda dom.**
+**me enda dom.**
 Je vais à la maison.
 
-**mi bixu enda ke?**
+**me bixu enda ke?**
 Où est-ce que je dois aller ?
 
-**mi bixu enda to ki ren?**
+**me bixu enda pa ki ren?**
 Je dois aller (voir) qui ?
 
 **haida enda!**
 Allons-y !
 
-**haida enda na pede**
+**haida enda sa pede**
 On y va à pied !
 
 
@@ -763,67 +771,67 @@ On y va à pied !
 **bita laya!**
 Viens ici !
 
-**tu laya ze ke?**
+**te laya ga ke?**
 D’où viens-tu ?
 
-**mi laya ze dubai.**
+**me laya ga dubai.**
 Je viens de Dubaï.
 
-**mi laya dom badi den.**
+**me laya dom badi den.**
 Je vais à la maison demain.
 
 
 ### safara <small>voyager</small>
 
-**eska tu safara na tren?**
+**eska te safara sa tren?**
 Est-ce que tu voyages en train ?
 
-**mimen safara ze london to paris.**
+**mome safara ga london pa paris.**
 Nous voyageons de Londres à Paris.
 
 **safar day long.**
 Le voyage est très long.
 
 
-### na <small>dans, sur, à</small>
+### sa <small>dans, sur, à</small>
 
-**hotel na ke?**
+**hotel sa ke?**
 Où est l’hôtel ?
 
-**hotel na li dau.**
+**hotel sa ci daw.**
 L’hôtel est sur cette route.
 
-**tu na ke?**
+**te sa ke?**
 Où es-tu ?
 
-**mi na dom.**
+**me sa dom.**
 Je suis à la maison.
 
-**ye na ke?**
+**le sa ke?**
 Où il/elle est ?
 
-**ye sida na kamar.**
+**le sida sa kamar.**
 Il/elle est assis(e) dans la pièce.
 
 Astuce ! Vous pouvez utiliser **na**
 comme préposition ou tout seul comme un verbe.
 
-**mi werka na...**
+**me werka sa...**
 Je travaille à ...
 
 
 ### doma <small>vivre, habiter, résider</small>
 
-**tu doma ke?**
+**te doma ke?**
 Où est-ce que tu habites ?
 
 Astuce : Ça va aussi de dire « tu abit na ke? » mais **abit**
 recouvre déjà l’idée d’être à un endroit.
 
-**mi doma singapur.**
+**me doma singapur.**
 Je vis à Singapore.
 
-**eska tu doma ci hotel?**
+**eska te doma ci hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
 
@@ -832,10 +840,10 @@ Est-ce que tu résides dans cet hôtel ?
 **bita denga!**
 Veuillez attendre !
 
-**yemen denga mimen.**
+**lole denga mome.**
 Ils nous attendent.
 
-**mi denga tu na hotel.**
+**me denga te sa hotel.**
 Je t’attends à l’hôtel.
 
 
@@ -849,36 +857,36 @@ Je t’attends à l’hôtel.
 **bita dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**bita dona ye to mi.**
+**bita dona le pa me.**
 Donne-le moi, s’il te plait.
 
-**mi dona ce to tu.**
+**me dona ce pa te.**
 Je te donne ceci.
 
-**mi dona buke to yemen.**
+**me dona buke pa lole.**
 Je leur donne un livre.
 
-**ye no wola dona ye to mi.**
+**le ni wola dona le pa me.**
 Il/elle ne veut pas me le donner.
 
 
 ### kapa <small>prendre, avoir/recevoir</small>
 
-**mi kapa un kafe.**
+**me kapa un kafe.**
 Je vais prendre un café.
 
-**bita kapa un kafe to mi.**
+**bita kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
-**tu pas kapa pese ze mi.**
+**te pas kapa pese ga me.**
 tu as déjà eu de l’argent de ma part.
 
 ### kire <small>louer</small>
 
-**mi wola kirokapa un kar.**
+**me wola kirokapa un kar.**
 Je veux louer une voiture.
 
-**ye kirodona kamar to safarer.**
+**le kirodona kamar pa safarer.**
 Il/elle loue des chambres à les voyageures.
 
 <!--
@@ -888,29 +896,29 @@ Astuce : acheter et vendre sont des mots composés : **mai dar**
 signifie _vendre_ et **mai kap**
 signifie _acheter_.
 
-**yemen mai dar tot.**
+**lole mai dar tot.**
 Ils vendent (de) tout.
 
-**mi kap un bir.**
+**me kapa un bir.**
 Je prends une bière.
 
-**mi mai kap un bir.**
+**me mai kapa un bir.**
 Je vais acheter une bière.
 
 
 
 ### yang <small>type, genre, sorte</small>
 
-**ye si ki yang?**
+**le si ki yang?**
 Ça ressemble à quoi ?
 
-**eska ye nowi?**
+**eska le nowi?**
 C’est nouveau ?
 
-**ke si mas bon?**
+**ke si max bon?**
 Lequel est mieux ?
 
-**li si masim bon (ze tot).**
+**ce si maxim bon (ga pan).**
 C’est le meilleur (de tous).
 
 
@@ -936,12 +944,12 @@ Viens ici / reviens / vers nous.
 
 
 
-**mi darsa pandunia.**
+**me darsa pandunia.**
 J’étudie le pandunia.
 
 ****
 Montre-moi dans le dictionnaire !
-****
+**me ni yada.**
 Je ne me souviens pas.
 
 ****
@@ -953,7 +961,7 @@ Je ne t’oublierai jamais.
 ****
 Pas de souci ! (Hakuna matata !)
 
-**tot si okei.**
+**pan si okey.**
 Tout va bien.
 
 ****
@@ -969,10 +977,10 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-****
+**bita sida sa ce!**
 Assieds-toi là, s’il te plait !
 
-****
+**me suku stasa.**
 Je préfère rester debout.
 
 
@@ -980,17 +988,17 @@ Je préfère rester debout.
 ****
 Avec plaisir !
 
-**festa si kaici na ke sat?**
+**feste mulu sa ki zaman?**
 Quand commence la fête ?
 
 
-****
+**te sahi.**
 tu as raison.
 
 ****
 Laisse-moi tranquille !
 
-**ke adar?**
+**ke habar?**
 Quoi de neuf ?
 -->
 
