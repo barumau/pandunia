@@ -1,6 +1,6 @@
 ##a  
 abace : 字母表  
-adres : 有  
+ada : 有  
 adu : 属于  
 adulte : 成年人  
 ajil : 灵活的  
@@ -29,30 +29,58 @@ bandir : 旗
 banye : 洗澡  
 banyokamar : 浴室  
 banyu : 游泳  
+bax : 语言  
+baxolojia : 白色  
+bazar : 市场  
 bere : 浆果  
+bila : 会  
+bita : 请  
 bon rupi : 好看  
 buze : 山羊   
 ##c  
+cay : 茶  
 cini : 汉族  
 ##d  
+dom : 房子  
 ##e  
 ##f  
+fem : 女  
 ##g  
 ##h  
+habar : 消息  
+helpa : 帮助  
 ##i  
 ##j  
+jana : 知道  
 janger : 工匠 (匠人)  
 ##k  
+kafe : 咖啡  
+kal : 黑色  
 kande : 糖果  
+kata : 切  
+ke : 什么，谁  
+keci : 客气  
 ##l  
+laya : 来  
+le : 他，她，它  
+lole : 他们  
 ##m  
+mame : 妈妈  
+matur fem : 女人  
+matur man : 男人  
 mece : 比赛  
+mene : 意义  
 metalojanger : 铁匠  
+mi : 我  
 moke : 木材  
 mokojanger : 木匠  
+mome : 我们  
 ##n  
+ni : 不  
+nida : 需要  
 ##o  
 ##p  
+pa : 到  
 papagay : 鹉鹦  
 parke : 园  
 pelmen : 饺子   
@@ -66,6 +94,7 @@ supris : 惊奇
 ##t  
 tarje : 翻译  
 tazi : 新鲜的  
+te : 你  
 tekne : 技术  
 teknolojia : 工艺学  
 telofon : 电话机  
@@ -79,13 +108,16 @@ tikete : 票
 tim : 队  
 tin : 罐  
 tira milke : 拉  
-to : 到  
 toca : 接触  
 tomate : 西红柿  
+tote : 你们  
 ##u  
 ##v  
 ##w  
+wida : 看  
+wola : 想要  
 ##x  
+xam : 晚上  
 xute : 技术  
 ##y  
 ##z  

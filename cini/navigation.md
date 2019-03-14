@@ -5,6 +5,9 @@
 
 [字母表](abc.md)
 [短语集](fraze.md)
+
+[词典](pandunia-cini.md)
+
 [视频](../pandunia/filme.md)
 
 [💬]()
