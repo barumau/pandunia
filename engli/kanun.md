@@ -51,7 +51,7 @@ These are the 11 basic rules of Pandunia language.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me bita te dona mone.** = I ask you to give money.
+    - ex. **me bita te dona pese.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
@@ -70,10 +70,10 @@ A noun is a word that names a thing. Like all words in Pandunia, nouns
 are invariant. So the same form is used in singular and plural, in
 definite and indefinite, etc.
 
-> **petre** - a stone, stones, the stone or the stones  
-> **meze** - a table, tables, the table or the tables  
-> **kurse** - a chair, chairs, the chair or the chairs  
-> **suy** - water
+**petre** - a stone, stones, the stone or the stones  
+**meze** - a table, tables, the table or the tables  
+**kurse** - a chair, chairs, the chair or the chairs  
+**suy** - water
 
 Quite often number and definiteness is known because it was specified
 earlier or because it is general knowledge. For example, normally the
@@ -110,20 +110,21 @@ thing denoted by another word, ex. good, bad, big, fast.
 An adjective is a word that adds a particular quality for a noun. In
 Pandunia an adjective is a modifier that is before a noun.
 
-> **day petre** - big stone
-> **day meze** - big table  
-> **gaw meze** - high table
-> **bon kurse** - good chair
+**day petre** - big stone
+**bari petre** - heavy stone  
+**day meze** - big table  
+**gaw meze** - high table  
+**bon kurse** - good chair
 
 When adjective can be also after the noun. Often this type of phrases
 can be read as complete sentences, where the verb _to be_ is implied.
 
-> **petre day.** - The stone is big.  
-> **meze gaw.** - The table is high.
+**petre day.** - The stone is big.  
+**meze gaw.** - The table is high.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-> **day meze gaw.** - Big table is high.
+**day meze gaw.** - Big table is high.
 
 ### 3.2 Modifying a verb
 
@@ -136,7 +137,7 @@ end of the sentence.
 > **me sona _bon_.** - I sleep _well_.  
 > **te baxa pandunia _bon_.** - You speak Pandunia _well_.
 
-### 3.4 Modifying another modifier
+### 3.3. Modifying another modifier
 
 A modifier can modify also another modifier. For example **day** (big)
 and **lil** (little) can be used as intensifying adverbs.
@@ -152,7 +153,7 @@ The modifiers can be separated by using **i** (and).
 
 > **lil i sundar ren** - a little and beautiful person
 
-### 3.5. Comparison
+### 3.4. Comparison
 
 Modifiers can be compared.
 
@@ -165,8 +166,10 @@ Modifiers can be compared.
 Particle **ka** relates the adverbs of comparison to the point of
 comparison.
 
-> **me si max bon ka te.** - I am better than you.  
-> **te loga sem bon ka me.** - You speak as well as me.
+**me si max bon ka te.**
+= I am better than you.  
+**te loga sem bon ka me.**
+= You speak as well as me.
 
 #### 3.6. Modifier ending
 
@@ -189,21 +192,21 @@ sun because there is only one.
 Quantity can be expressed with numerals and other quantity-words. They
 are put before the word or phrase that they qualify.
 
-> **un xing** - one star  
-> **dul xing** - two stars  
-> **sam xing** - three stars  
-> **xaw xing** - few stars  
-> **pol xing** - many stars
+**un xing** - one star  
+**dul xing** - two stars  
+**sam xing** - three stars  
+**xaw xing** - few stars  
+**pol xing** - many stars
 
-> **un day meze** - one big table  
-> **dul day kurse** - two big chairs  
-> **sam bon kurse** - three good chairs
+**un day kurse** - one big chair  
+**dul day kurse** - two big chairs  
+**sam bon kurse** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
-> **fen un** - the first part (part one)
-> **fen dul** - the second part (part two)
-> **fen sam** - the third part (part three)
+**fen un** - the first part (part one)
+**fen dul** - the second part (part two)
+**fen sam** - the third part (part three)
 
 The basic number words are:
 
@@ -279,11 +282,10 @@ ourselves.
 
 The demonstrative pronouns are:
 
-**ce** - this one  
-**de** - that one  
+**ce** - this/that one  
 
 **me wola ce.** - I want this one.  
-**le wola de.** - He/she wants that one.  
+**le wola ce.** - He/she wants that one.  
 
 They end in **-i** when they function as adjectives i.e. when they
 come before a noun.

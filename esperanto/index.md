@@ -12,14 +12,10 @@ Rimarkindaj trajtoj de pandunio estas:
 
 - Pli simpla kaj facila ol la naciaj lingvoj kiuj uziĝas internacie, kiel la
   angla, la ĉina, la franca kaj la araba.
-- Konzica kaj sen senescepta gramatiko
+- Konzica kaj senescepta gramatiko
 - Simplaj fonemaro kaj skribo.
 - Vere internacia. La panduniaj radik-vortoj estas pruntitaj el multaj lingvoj
   el la tuta mondo, inkluzive de la 10 plej parolataj lingvoj.
-
-Atentu: Pandunio estas ankoraŭ evoluanta. Eble la strukturo kaj vortaro de la
-lingvo iom ŝanĝiĝis dis la enhavo de ĉi tiuj retpaĝoj, malgraŭ ke oni penas
-teni ilin aktualigitaj.
 
 ## Lerniloj 
 
@@ -34,7 +30,7 @@ teni ilin aktualigitaj.
 
 ## Artikoloj
 
-[Pandunio - egale monda lingvo](dunia_pijin.md).
+[Pandunio - egale monda lingvo](dunia_bax.md).
 
 ## Komunumo
 
@@ -55,11 +51,6 @@ Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
   pandunio)](https://groups.yahoo.com/neo/groups/pandunia/info).  Aliĝo eblas
   per Yahoo-konto aŭ simple [sendante malplenan
   ret-mesaĝon](mailto:pandunia-subscribe@yahoogroups.com).
-- Aliaj rilataj ret-poŝtaj listoj (en la angla):
-    * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
-      ([kopio](https://groups.yahoo.com/neo/groups/Auxlang/info))
-    * [Worldlang 
-      list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).
 
 Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta
 adreso [risto@pandunia.info](mailto:risto@pandunia.info), kaj ankaŭ en la supre

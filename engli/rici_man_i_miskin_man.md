@@ -1,5 +1,7 @@
 # rici man i miskin man
 
+<p style="font-size:6em;text-align:center;">🍞</p>
+
 <table>
 <tr><td>
 sa tel pase ce un miskin man.
@@ -11,20 +13,18 @@ le doma sa lil kamar supra bekeria.
 He lived in a little room above a bakery.
 </td></tr><tr><td>
 un rici man ada bekeria.
-<tr><td>
-A rich man owned the bakery.
 </td><td>
+A rich man owned the bakery.
 </td></tr><tr><td>
 miskin man nosa nyami pang mey den, a ni bila peya.
-<tr><td>
-The poor man smelled the delicious bread every day, but could not afford it.
 </td><td>
+The poor man smelled the delicious bread every day, but could not afford it.
 </td></tr><tr><td>
 koy den rici man lida miskin man pa hakimer.
 </td><td>
 One day the rich man lead the poor man before a judge.
 </td></tr><tr><td>
-rici man loga pa hakimer, "ci man nosa mi nyami pang mey den, a peya pa mi nol xey saba le."
+rici man loga pa hakimer, "ci man nosa mi nyami pang mey den, a peya pa mi nol xey da le."
 </td><td>
 The rich man said, "This man smells my delicious bread every day but pays me nothing for it."
 </td></tr><tr><td>
@@ -57,4 +57,6 @@ The judge said, "The poor man smelled the bread, but did not eat it.
 "The rich man hears the money, but does not get to keep it."
 </td></tr>
 </table>
+
+<p style="font-size:6em;text-align:center;">💰</p>
 

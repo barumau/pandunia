@@ -1,6 +1,6 @@
 # sam buze i guy
 
-<small>tarjumu ya _Erjo_</small>
+<small>tarju ya _Erjo_</small>
 
 
 sa mar, zayu guy ya doma sa nice ya pulte ya transa suy.

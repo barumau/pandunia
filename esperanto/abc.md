@@ -50,17 +50,11 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si mimen da sundar planete.
-    /dúnia sí mimén da sundár planéte./
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     mi wola loga komun bax, ye si pandunia.  
-    /mí wól lóga komún báx, yé sí pandúnia./
-
-Se la akcentata silabo estas alia ol laŭ supraj reguloj, ĝi estas
-markita per dekstra korno (´).
-
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     mi wola loga komun bax, le si pandunia.  
+    /mí wóla lóga komún báx, lé sí pandúnia./
 
 ## Uskleco
 
@@ -80,13 +74,13 @@ Noto: Ne estas erare, uzi majusklojn. Foje oni faras tion por kutimo en aliaj
 lingvoj. Sed majuskloj estas ne-necesaj kaj ne-rekomendataj.
 
 En pandunio majusklojn oni uzas en la internaciaj normaj akronimoj kaj
-simboloj, ekzemple: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili
-metre), 1 kJ (un kilo jul).
+simboloj, ekzemple: 10 Mb (des megobite), 100 Gb (hon gigobite), 2 mm (dul
+milometre), 1 kJ (un kilojul).
 
 ## Silaboj
 
 [-] Eblas dividi vortoj per streketo inter la elparolataj silaboj. Ekzemple:
-bin, ka-fé, yu-mor, pos-ta.
+ka-fe, yu-mor, pos-te.
 
 ## Interpunkcio
 
@@ -105,8 +99,10 @@ bin, ka-fé, yu-mor, pos-ta.
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
 Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
 
-> **mi wida tu :)** = Mi vidas vin.  
-> **mi no wida tu :(** = Mi ne vidas vin.
+**me wida te :)**
+= Mi vidas vin.  
+**me ni wida te :(**
+= Mi ne vidas vin.
 
 ## Vorto-strukturo
 
