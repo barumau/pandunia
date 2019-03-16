@@ -782,7 +782,7 @@ koło, okrąg : cirke
 koń : uma  
 kościół : eglis  
 kość : oste  
-kość do gry : dado'  
+kość do gry : dade  
 kradzież : cor  
 kraj, ziemia : dex  
 kran; korek, zatyczka, szpunt : tape  
@@ -977,7 +977,7 @@ miejsce, lokacja : loke
 miejscowy, lokalny : loki  
 miesiąc : mes  
 mieszkać : doma  
-mieć (partykuła posiadania) : da  
+mieć (partykuła posiadania) : yu  
 mieć : ada  
 migdał : badam  
 mikro- : mikro-  
@@ -1901,7 +1901,6 @@ tal : talium
 talerz : plate  
 taleta, WC : tuale  
 tamilski : tamili  
-tamten : de  
 Tanach, Biblia hebrajska : tanah  
 tantal : tantalum  
 Tanzania : tanzania  
@@ -1925,7 +1924,6 @@ tellur : telurium
 telugu : telugu'  
 temat, motyw : tem  
 temperatura : terme  
-ten : di  
 ten konkretny : ce  
 ten, te : ci  
 tenesyn, tennessine : tenesin  
@@ -2210,8 +2208,8 @@ właściwy, poprawny : sahi
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  
 ##y  
-z (partykuła posiadania) : du  
-z, od : ga  
+z (partykuła posiadania) : ya  
+z, od : da  
 ##z  
 zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya  
 zabawa, rozrywka : maze  

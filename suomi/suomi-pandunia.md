@@ -1,4 +1,4 @@
--n (oma) : da  
+-n (oma) : yu  
 : : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
 aakkoset (ABC) : abace  
@@ -1025,7 +1025,7 @@ lähettäjä (lähetin) : miser
 lähettää : misa  
 lähetys : misia  
 lähetystö : daixeria  
-lähtien (-sta, -lta) : ga  
+lähtien (-sta, -lta) : da  
 lämmin : garmi  
 lämpömittari : termometer  
 lämpötila : terme  
@@ -1278,7 +1278,7 @@ nolla (ei yhtään) : nol
 nopea (pikainen, vauhdikas) : rapi  
 nopeus (vauhti) : rape  
 nopeusmittari : rapometer  
-noppa (arpakuutio) : dado'  
+noppa (arpakuutio) : dade  
 Norfolkin saaret : norfolke  
 Norja : norgia  
 norjalainen : norgi  
@@ -1332,7 +1332,7 @@ Oman : oman
 omena : aple  
 omistaa (omata) : ada  
 omistaja : ader  
-omistetun omistajaan liittävä partikkeli : du  
+omistetun omistajaan liittävä partikkeli : ya  
 ongelma : problem  
 onnitella (siunata) : barka  
 opettaja : darsogur  
@@ -2025,8 +2025,6 @@ tunneli : tunel
 tuntea (kokea tunteita) : gama  
 tuntea : senta  
 tunti : hor  
-tuo (nuo) : di  
-tuo : de  
 tuoli : kurse  
 tuomari : hakimer  
 tuomio : hakim  

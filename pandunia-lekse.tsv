@@ -320,8 +320,8 @@ zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).			cu
 			cute mun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe					
 eng:choose. + hin:चुनना "cunnā". + vie:chọn.			cuza	:	choose (elect, select)	elekti	valita	wybrać, wybierać, selekcjonować					
 			cuze	:	choice (election, selection)	elekto	valinta (vaali)	wybór, elekcja, selekcja					
-pan:ਦਾ "dā". zho:的 "de".			da	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)					
-spa:por:tgl:dado. ind:swa:dadu.			dado'	:	die (dice)	ĵetkubo	noppa (arpakuutio)	kość do gry					
+zho:有 (yǒu). hak:有 (yu). min:有 (iu). jpn:有 (yū). kor:유 (yu).			yu	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)					
+spa:por:tgl:dado. ind:swa:dadu.			dade	:	die (dice)	ĵetkubo	noppa (arpakuutio)	kość do gry					
 			daixer	:	ambassador	ambasadoro	lähettiläs	ambasador					
 			daixeria	:	embassy	ambasado	lähetystö	ambasada					
 ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.			dalil	:	proof (evidence, proof, demonstration, testimony)		todiste (todistus, osoitus, demonstraatio)	dowód; zeznanie					
@@ -353,7 +353,6 @@ zho: "dao".			daw	:	way (road)	vojo	tie	droga, szosa, ulica
 			dawistia	:	Taoism (Daoism)		taolaisuus	taoizm					
 yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".			day	:	big (very, greatly)	granda	iso (suuri; isosti, paljon)	duży; bardzo					
 			dayu	:	grow (get bigger)		kasvaa (suurentua)	urosnąć, rosnąć, wzrosnąć, wzrastać					
-			de	:	that one	tio	tuo	tamten					
 			deci	:	deci-	dekono	desi	decy-, dziesiąta część					
 			defta	:	register (record, log)	registri	tallentaa (rekisteröidä, kirjata)	zapisać (zarejestrować)					
 tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:per:(daftar).			defte	:	register (record, log)	registro	tallenne (rekisteri)	rejestr					
@@ -382,7 +381,6 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dewokratia	:	theocracy	teokratio	teokratia	teokracja					
 			dewolojia	:	theology	teologio	teologia	teologia					
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia					
-deu:der,die,das. end:the. dan:swe:nor:de.			di	:	that (those)	tiu	tuo (nuo)	ten					
 ara: /dīn/. tur: din. swa: dini. hau: addini.			din	:	religion (worship)	religio	uskonto	religia, wyznanie					
 			ding	:	nail (spike)	najlo	naula (piikki)	kolec					
 			dinogur	:	priest (cleric)	pastro	pappi	ksiądz, kleryk, kaznodzieja					
@@ -410,7 +408,7 @@ ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".			dox	:	fault (sin, bl
 eng:dose. rus:"doza".			doze	:	portion (dose)	porcio (dozo)	annos	porcja, dawka					
 			drame	:	drama	dramo	draama	dramat					
 eng:drug. spa:droga. fra:drogue. deu:Droge.			droge	:	drug (intoxicating substance)		huume	narkotyk					
-por:do. fra:du. pus:"də".			du	:	of (particle of possession)	de (partiklo de posedo)	omistetun omistajaan liittävä partikkeli	z (partykuła posiadania)					
+lin:kon:ktu:ya. swa:-a. amh:(yə-). per:(-e, -ye).			ya	:	of (particle of possession)	de (partiklo de posedo)	omistetun omistajaan liittävä partikkeli	z (partykuła posiadania)					
 	made	Db	dubnium	:	dubnium	dubnio	dubnium	dubn					
 zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".			duga	:	read	legi	lukea	czytać					
 			duka	:	grieve	lamenti	surra (murehtia)	martwić					
@@ -576,7 +574,7 @@ fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:
 eng:fury. spa:pol:furia. por:fúria.			furia	:	anger (fury, rage, wrath)	kolero (furiozo)	viha (suuttumus, raivo)	gniew, furia					
 			futobol	:	football	piedpilko	jalkapallo	piłka nożna					
 			fuy	:	bah! (yuck!)	bah!	hyi! (pyh!)	fu, fuj					
-rus:с (s). hin: से (~se).			ga	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od				из (от)	
+ita:da. por:da,do. fra:spa:de.			da	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od				из (от)	
 ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).			gabre	:	grave (tomb)	tombo	hauta	grób, mogiła, grobowiec					
 			gabristan	:	graveyard	tombejo	hautausmaa	cmentarz					
 	dex	GA	gabun	:	Gabon		Gabon	Gabon					

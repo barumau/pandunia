@@ -325,8 +325,8 @@ cute : exit (leaving)
 cuza : choose (elect, select)  
 cuze : choice (election, selection)  
 ##d  
-da : own (particle of possession)  
-dado' : die (dice)  
+da : from (since, because)  
+dade : die (dice)  
 daixer : ambassador  
 daixeria : embassy  
 dalil : proof (evidence, proof, demonstration, testimony)  
@@ -358,7 +358,6 @@ dawiste : Taoist
 dawistia : Taoism (Daoism)  
 day : big (very, greatly)  
 dayu : grow (get bigger)  
-de : that one  
 deci : deci-  
 defta : register (record, log)  
 defte : register (record, log)  
@@ -387,7 +386,6 @@ dewistia : theism
 dewokratia : theocracy  
 dewolojia : theology  
 dex : country (land)  
-di : that (those)  
 din : religion (worship)  
 ding : nail (spike)  
 dinogur : priest (cleric)  
@@ -415,7 +413,6 @@ doxi : guilty
 doze : portion (dose)  
 drame : drama  
 droge : drug (intoxicating substance)  
-du : of (particle of possession)  
 dubnium : dubnium  
 duga : read  
 duka : grieve  
@@ -584,7 +581,6 @@ furia : anger (fury, rage, wrath)
 futobol : football  
 fuy : bah! (yuck!)  
 ##g  
-ga : from (since, because)  
 gabre : grave (tomb)  
 gabristan : graveyard  
 gabun : Gabon  
@@ -2304,6 +2300,7 @@ xute : skill (art, competence)
 xuti : skillful  
 xuxe : rest (relief)  
 ##y  
+ya : of (particle of possession)  
 yada : remember (recall)  
 yade : memory (recollection)  
 yaga : estimate (approximate)  
@@ -2331,6 +2328,7 @@ yohan feste : Saint John's Day
 yone : vagina  
 yosay : fortress (stronghold)  
 yote : drop (droplet)  
+yu : own (particle of possession)  
 yumor : humor  
 yumori : humorous (comical, funny)  
 yumoriste : humorist  

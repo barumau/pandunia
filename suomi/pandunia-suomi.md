@@ -323,8 +323,8 @@ cute : poistuminen
 cuza : valita  
 cuze : valinta (vaali)  
 ##d  
-da : -n (oma)  
-dado' : noppa (arpakuutio)  
+da : lähtien (-sta, -lta)  
+dade : noppa (arpakuutio)  
 daixer : lähettiläs  
 daixeria : lähetystö  
 dalil : todiste (todistus, osoitus, demonstraatio)  
@@ -356,7 +356,6 @@ dawiste : taolainen
 dawistia : taolaisuus  
 day : iso (suuri; isosti, paljon)  
 dayu : kasvaa (suurentua)  
-de : tuo  
 deci : desi  
 defta : tallentaa (rekisteröidä, kirjata)  
 defte : tallenne (rekisteri)  
@@ -384,7 +383,6 @@ dewistia : teismi (jumalusko)
 dewokratia : teokratia  
 dewolojia : teologia  
 dex : maa (valtio)  
-di : tuo (nuo)  
 din : uskonto  
 ding : naula (piikki)  
 dinogur : pappi  
@@ -412,7 +410,6 @@ doxi : syyllinen
 doze : annos  
 drame : draama  
 droge : huume  
-du : omistetun omistajaan liittävä partikkeli  
 dubnium : dubnium  
 duga : lukea  
 duka : surra (murehtia)  
@@ -579,7 +576,6 @@ furia : viha (suuttumus, raivo)
 futobol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
-ga : lähtien (-sta, -lta)  
 gabre : hauta  
 gabristan : hautausmaa  
 gabun : Gabon  
@@ -2251,6 +2247,7 @@ xute : taito
 xuti : taitava  
 xuxe : lepo  
 ##y  
+ya : omistetun omistajaan liittävä partikkeli  
 yada : muistaa  
 yade : muisti  
 yaga : arvioida  
@@ -2277,6 +2274,7 @@ yohan feste : juhannus
 yone : vagina  
 yosay : linnake  
 yote : pisara (tippa)  
+yu : -n (oma)  
 yumor : huumori  
 yumori : koominen (hauska)  
 yumoriste : humoristi  

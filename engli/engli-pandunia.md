@@ -562,7 +562,7 @@ devilish (satanic) : xatani
 dew : rose  
 dharma (piety) : darme  
 diamond : almas  
-die (dice) : dado'  
+die (dice) : dade  
 die : mortu  
 dig (excavate) : fosa  
 dining room : nyam kamar  
@@ -780,7 +780,7 @@ Friday : war 5 (war lim)
 friend : doste  
 friendly : dosti  
 friendship : dostia  
-from (since, because) : ga  
+from (since, because) : da  
 frost : himorose  
 fruit : pal  
 frying pan : tawa  
@@ -1436,7 +1436,7 @@ Oceania : oseania
 October : mes 10 (mes des)  
 odd (strange, weird) : bizar  
 Odia (Oriya) : odisi  
-of (particle of possession) : du  
+of (particle of possession) : ya  
 office (bureau) : ofisia  
 office (position) : ofis  
 officer : ofiser  
@@ -1482,7 +1482,7 @@ outcast (pariah) : paraye
 outer (external) : way  
 outside (exterior) : waye  
 overpass : supre  
-own (particle of possession) : da  
+own (particle of possession) : yu  
 owner : ader  
 oxygen : okse  
 ##p  
@@ -2112,9 +2112,7 @@ test (challenge, trial) : teste
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
-that (those) : di  
 that is (in other words, i.e.) : yani  
-that one : de  
 theft : cor  
 theism : dewistia  
 theist : dewiste  

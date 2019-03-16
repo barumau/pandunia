@@ -175,8 +175,8 @@ cupa ← spa:por:chupar. khm:ជប់ (cup).
 cute ← zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).  
 cuza ← eng:choose. + hin:चुनना "cunnā". + vie:chọn.  
 ##d  
-da ← pan:ਦਾ "dā". zho:的 "de".  
-dado' ← spa:por:tgl:dado. ind:swa:dadu.  
+da ← ita:da. por:da,do. fra:spa:de.  
+dade ← spa:por:tgl:dado. ind:swa:dadu.  
 dalil ← ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.  
 damogem ← fra:jeu de dames. ara:(dāmā). ind:dam. spa:por:damas. deu:Damespiel.  
 dan ← hin:(dānā). tur:tane. jpn:(tane). + zho:列 (dàn). vie:đạn.  
@@ -193,7 +193,6 @@ demokratia ← eng:democracy. rus:демократия "demokratiya". spa:democr
 den ← hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).  
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
-di ← deu:der,die,das. end:the. dan:swe:nor:de.  
 din ← ara: /dīn/. tur: din. swa: dini. hau: addini.  
 dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).  
 dokum ← eng:fra:document. rus:документ (dokument).  
@@ -204,7 +203,6 @@ dotor ← por:doutor. ita:dottore. eng:spa:doctor. rus:доктор (doktor).
 dox ← ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".  
 doze ← eng:dose. rus:"doza".  
 droge ← eng:drug. spa:droga. fra:drogue. deu:Droge.  
-du ← por:do. fra:du. pus:"də".  
 duga ← zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".  
 duke ← hin:दुःख "duḥkh". ben:দুঃখ "dukhô". tha:ทุกข์ "tuk". may:duka. eng:dukkha. + zho:苦 "kǔ".  
 dul ← kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.  
@@ -257,7 +255,6 @@ funocuper ← zho:吸尘器 (xīchénqì). deu:Staubsauger.
 furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 furia ← eng:fury. spa:pol:furia. por:fúria.  
 ##g  
-ga ← rus:с (s). hin: से (~se).  
 gabre ← ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
 gaje ← hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.  
@@ -792,6 +789,7 @@ xule ← zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).
 xute ← zho:术 (shù). yue:術 (seot6). jpn:術 (jutsu). kor:술 (sul).  
 xuxe ← zho:休息 (xiūxí). kor:휴식 (hyusig).  
 ##y  
+ya ← lin:kon:ktu:ya. swa:-a. amh:(yə-). per:(-e, -ye).  
 yade ← hin:याद (yād). guj:યાદ (yād). per:urd:(yād). aze:yad. tkm: ýaad.  
 yagi ← kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē".   
 yake ← eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).  
@@ -802,6 +800,7 @@ yen ← zho: 眼 (yǎn). ara: عين‏‎ (ʿen).
 yenosuy ← kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.  
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
+yu ← zho:有 (yǒu). hak:有 (yu). min:有 (iu). jpn:有 (yū). kor:유 (yu).  
 yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
 ##z  
 zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).  

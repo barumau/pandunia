@@ -207,8 +207,8 @@ danĝero : hatar
 dato : nen mes den  
 daŭri : dura  
 daŭro : dur  
-de (el, pro) : ga  
-de (partiklo de posedo) : du  
+de (el, pro) : da  
+de (partiklo de posedo) : ya  
 dek (10) : des  
 dekono : deci  
 demanda : eski  
@@ -1000,7 +1000,7 @@ proksima : karbi
 promeni (marŝi) : marca  
 promesi : wada  
 prometio : prometium  
-propra (partiklo de posedo) : da  
+propra (partiklo de posedo) : yu  
 protaktinio : protacinium  
 pulmo : pulmon  
 pulvo : barude  
@@ -1202,11 +1202,9 @@ testo : teste
 tie : sa ce  
 tigro : bagre  
 timo (fobio) : fobia  
-tio : de  
 tio estas (alivorte) : yani  
 tiri : tira  
 titanio : titan  
-tiu : di  
 Toglando : togolia  
 tomato : tomate  
 tombejo : gabristan  
@@ -1347,7 +1345,7 @@ zuluo : zulu'
 ĝentila : keci  
 ĝirafo : jiraf  
 ĝusta (prava) : sahi  
-ĵetkubo : dado'  
+ĵetkubo : dade  
 ĵudo : judo  
 ĵus : gang  
 ŝafo : meme  

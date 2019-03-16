@@ -325,8 +325,8 @@ cute : wyjśćie, opuszczenie
 cuza : wybrać, wybierać, selekcjonować  
 cuze : wybór, elekcja, selekcja  
 ##d  
-da : mieć (partykuła posiadania)  
-dado' : kość do gry  
+da : z, od  
+dade : kość do gry  
 daixer : ambasador  
 daixeria : ambasada  
 dalil : dowód; zeznanie  
@@ -358,7 +358,6 @@ dawiste : taoista
 dawistia : taoizm  
 day : duży; bardzo  
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
-de : tamten  
 deci : decy-, dziesiąta część  
 defta : zapisać (zarejestrować)  
 defte : rejestr  
@@ -387,7 +386,6 @@ dewistia : teizm
 dewokratia : teokracja  
 dewolojia : teologia  
 dex : kraj, ziemia  
-di : ten  
 din : religia, wyznanie  
 ding : kolec  
 dinogur : ksiądz, kleryk, kaznodzieja  
@@ -415,7 +413,6 @@ doxi : winny
 doze : porcja, dawka  
 drame : dramat  
 droge : narkotyk  
-du : z (partykuła posiadania)  
 dubnium : dubn  
 duga : czytać  
 duka : martwić  
@@ -584,7 +581,6 @@ furia : gniew, furia
 futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
-ga : z, od  
 gabre : grób, mogiła, grobowiec  
 gabristan : cmentarz  
 gabun : Gabon  
@@ -2304,6 +2300,7 @@ xute : umiejętność (kompetencja)
 xuti : umiejętny (wprawny)  
 xuxe : zostawić, zostawiać  
 ##y  
+ya : z (partykuła posiadania)  
 yada : pamiętać  
 yade : pamięć  
 yaga : oszacować, szacować, przybliżyć, przybliżać  
@@ -2331,6 +2328,7 @@ yohan feste : dzień świętego Jana
 yone : wagina  
 yosay : forteca, twierdza  
 yote : kropla  
+yu : mieć (partykuła posiadania)  
 yumor : humor  
 yumori : humorystyczny, śmieszny, zabawny, komiczny  
 yumoriste : komik  

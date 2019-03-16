@@ -263,8 +263,8 @@ cute : eliro
 cuza : elekti  
 cuze : elekto  
 ##d  
-da : propra (partiklo de posedo)  
-dado' : ĵetkubo  
+da : de (el, pro)  
+dade : ĵetkubo  
 daixer : ambasadoro  
 daixeria : ambasado  
 dan : semo  
@@ -285,7 +285,6 @@ darsia : lernejo
 darsogur : instruisto  
 daw : vojo  
 day : granda  
-de : tio  
 deci : dekono  
 defta : registri  
 defte : registro  
@@ -308,7 +307,6 @@ dewi : dia
 dewokratia : teokratio  
 dewolojia : teologio  
 dex : lando  
-di : tiu  
 din : religio  
 ding : najlo  
 dinogur : pastro  
@@ -329,7 +327,6 @@ dox : kulpo
 doxi : kulpa  
 doze : porcio (dozo)  
 drame : dramo  
-du : de (partiklo de posedo)  
 dubnium : dubnio  
 duga : legi  
 duka : lamenti  
@@ -464,7 +461,6 @@ furia : kolero (furiozo)
 futobol : piedpilko  
 fuy : bah!  
 ##g  
-ga : de (el, pro)  
 gabre : tombo  
 gabristan : tombejo  
 gade : azeno  
@@ -1335,6 +1331,7 @@ xula : ripari
 xule : riparo  
 xuler : riparisto  
 ##y  
+ya : de (partiklo de posedo)  
 yakin : certa  
 yala : rapidigi  
 yaman : Jemeno  
@@ -1345,6 +1342,7 @@ yesus : Jesuo
 yeze : kokoso  
 yoge : jogo  
 yone : vagino  
+yu : propra (partiklo de posedo)  
 yumor : humuro  
 yumori : humura  
 yumoriste : humuristo  
