@@ -168,7 +168,7 @@ La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _eska_ (la verbo "de
 
 Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas dekstre de verbo. La dekstra parto ne estas deviga.
 
-> me **wola** panyo - Mi volas amikon  
+> me **wola** doste - Mi volas amikon  
 > me **darsa** loge - Mi lernas vorton  
 > pando **suku** pandunia - Pandoj ŝatas Pandunia  
 
@@ -279,7 +279,7 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 > ce si darsogrupe **ya** pandunia - Tio estas kurso **de** Pandunia.  
 > ni si multe **ya** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
 
-La lasta prepozicio estas **yu**, ĝi funkcias kiel _ya_, sed la dekstro kaj maldekstro estas inversigita. _yu_ ne estas tiel ofte uzata kiel _ya_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: me **yu** panyo = mi **-a** amiko.
+La lasta prepozicio estas **yu**, ĝi funkcias kiel _ya_, sed la dekstro kaj maldekstro estas inversigita. _yu_ ne estas tiel ofte uzata kiel _ya_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: me **yu** doste = mi **-a** amiko.
 
 #### 8.2 Precizigi prepozicion
 
