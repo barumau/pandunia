@@ -1,36 +1,36 @@
 pandunia - dunia bax
 =====================
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
+![](http://www.pandunia.info/bandir/bandir.png "bandir ya pandunia")
 
 salam dunia!
 
-pandunia si nowi dunia bax! pandunia da lekse laya ga dunia da mey
-fen: afrike, amerike, asia, europe – ga dunia bax bixu wakila mome
-da pan dunia!
+pandunia si nowi dunia bax! pandunia yu lekse laya da mey fen ya
+dunia: afrike, amerike, asia, europe – da dunia bax bixu wakila momi
+pan dunia!
 
-eska te jana pandunia? ze bila darsa pandunia na uza [mini darse](mini_darse.html).
+eska te jana pandunia? te bila darsa pandunia sa uza [mini darse](mini_darse.html).
 
 
 * [abace](abc.md)
 * kitabe
-  * [lil urse da dante tung](baru_dante.md)
+  * [lil urse yu dante tung](baru_dante.md)
   * [sam lil gurube](3_lil_gurube.md)
   * [sam buze i guy](3_buze_i_guy.md)
   * [piper i karote](piper_i_karot.md)
-  * [insan da putong hake](putong_hake.md)
+  * [insan yu putong hake](putong_hake.md)
   * [dini kitabe](dini_kitabe.md)
-  * [makal tema pandunia na ali bax](makal_tema_pandunia.md)
+  * [makal tema pandunia sa ali bax](makal_tema_pandunia.md)
 * [filme](filme.md)
 * loge liste
   * [dunia loge](lekse/dunia_loge.html)
-  * [hewan nam](lekse/hewan.html)
-  * [pal nam](lekse/pal.html)
-  * [dex nam](dex_nam.md)
-  * [loge asle](loge_asle.md)
+  * [nam ya hewan](lekse/hewan.html)
+  * [nam ya pal](lekse/pal.html)
+  * [nam ya dex](dex_nam.md)
+  * [leksi asle](loge_asle.md)
 * wikia
   * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
-  * [sani bax temu da wikia](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
+  * [wikia ya tema sani bax](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
   * [max i max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 
 

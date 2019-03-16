@@ -102,7 +102,7 @@ Greetings, mother!
 Greetings, father!
 
 <small>Etymology. **me**
-is from English: me, Hindi: मैं (mẽĩ), Spanish: me.</small>
+is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
 
 ### te <small>you</small>
 
@@ -193,9 +193,6 @@ You are Sara.
 
 **aple si pal.**
 The apple is a fruit.
-
-Note: It is necessary to use **si** in the latest phrase because, without it,
-the phrase would look like a compound word: **aple pal** (an apple fruit).
 
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
 "shì", Shanghaiese: 是 "sí".</small>
@@ -300,34 +297,34 @@ This is red.
 
 
 
-### da <small>'s (possessive particle)</small>
+### yu <small>'s (possessive particle)</small>
 
 **ce ke?**
 What's this?
 
-**ce me da fon.**
+**ce me yu fon.**
 It's my phone.
 
-**ce ke da?**
+**ce ke yu?**
 Whose is this?
 
-**ce me da.**
+**ce me yu.**
 It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing.
-So **me da** means "my", **te da** means "your" and so on.
+Note: Possessive particle **yu** is put between the owner and the owned thing.
+So **me yu** means "my", **te yu** means "your" and so on.
 
 **le ke?**
 Who's he/she?
 
-**le si me da doste.**
+**le si me yu doste.**
 He/she is my friend.
 
-**me si sara da doste.**
+**me si sara yu doste.**
 I am Sara's friend.
 
-<small>Etymology. **da**
-is from Punjabi: ਦਾ "dā", Mandarin: 的 "de".</small>
+<small>Etymology. **yu**
+Mandarin: 有 (yǒu), Hakka: 有 (yu).</small>
 
 ### nam <small>name</small>
 
@@ -350,6 +347,7 @@ I'm called Thomas.
 "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
 Name, English: name.</small>
 
+
 ### ada <small>have</small>
 
 **me ada bon dom.**
@@ -366,6 +364,7 @@ Do you have children?
 **me ada dul bace.**
 I have two children.
 
+
 ### jana <small>to know</small>
 
 **me jana le.**
@@ -377,8 +376,9 @@ Do you know that person?
 **eska tote jana unale?**
 Do you know each other?
 
-**mome jana unale ga long.**
+**mome jana unale da long.**
 We know each other for long.
+
 
 ### helpe <small>help</small>
 
@@ -390,6 +390,10 @@ Can you help me?
 
 **eska me bila helpa te?**
 Can I help you?
+
+**me wola helpa te.**
+I want to help you.
+
 
 ## Part 2: Eating
 
@@ -420,6 +424,7 @@ verb tells is it about eating, drinking or both.
 **me nyama kafe i pang.**
 I'm having coffee and bread.
 
+
 ### wola <small>want</small>
 
 **eska te wola nyama?**
@@ -443,6 +448,7 @@ No, I don't want tea. I want coffee.
 Which apple do you want?  
 **ci ros.**
 This red one.
+
 
 ### bita <small>request, please</small>
 
@@ -469,6 +475,7 @@ Please, come home!
 **bita helpa me.**
 Please, help me.
 
+
 ### danke <small>thanks</small>
 
 **danke!**
@@ -489,6 +496,7 @@ Thanks for helping me.
 **te keci.**
 You're welcome. (Literally: _You're polite._)
 
+
 ### haida <small>let's</small>
 
 **haida nyama!**
@@ -499,6 +507,7 @@ Let's go eat!
 
 **haida enda dom.**
 Let's go home.
+
 
 ### nida <small>need</small>
 
@@ -514,6 +523,7 @@ Are you hungry?
 **eska te nida suy?**
 Are you thirsty?
 
+
 ## Part 3. Communication
 
 ### pardon <small>sorry, pardon</small>
@@ -526,6 +536,7 @@ Excuse me, what's this?
 
 **pardon. te namu ke?**
 Excuse me, what's your name?
+
 
 ### aha <small>understand</small>
 
@@ -543,6 +554,7 @@ I didn't quite understand you.
 
 **me aha nol.**
 I don't understand at all.
+
 
 ### bila <small>can</small>
 
@@ -567,8 +579,9 @@ I speak a little Pandunia.
 **me ni bila engli.**
 I don't speak English.
 
-**pardon. me ni bila te da bax.**
+**pardon. me ni bila te yu bax.**
 Sorry, I don't speak your language.
+
 
 ### loga <small>to say, speak, talk</small>
 
@@ -590,7 +603,11 @@ What is "cat" in Pandunia?
 **maw loga miaw.**
 Cat says meow.
 
+
 ### auda <small>to listen, hear</small>
+
+**auda me!**
+Listen to me!
 
 **me ni bila auda te.**
 I can't hear you.
@@ -601,8 +618,9 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yang da musike?**
+**te auda ki yang yu musike?**
 What kind of music do you listen to?
+
 
 ### wida <small>to see</small>
 
@@ -612,11 +630,12 @@ Pleased to see you!
 **wida te repi!**
 See you again!
 
-**wida te ming den!**
+**wida te badi den!**
 See you tomorrow!
 
 **me wida le predi den.**
 I saw him/her yesterday.
+
 
 ### mena <small>to mean</small>
 
@@ -626,11 +645,12 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yang du hewan.**
+**le mena yang ya hewan.**
 It means a kind of animal.
 
 **me ni aha le mena ke.**
 I don't understand what it means.
+
 
 ### kitaba <small>write</small>
 
@@ -639,6 +659,7 @@ Please, write your address.
 
 **bita kitaba le sa ce.**
 Please, write it here!
+
 
 ### baxa <small>speak a language, communicate</small>
 
@@ -663,6 +684,7 @@ Arabic, Turkish, Farsi, Urdu, Hindi
 **swahili, hausi, yorubi, amari**
 Swahili, Hausa, Yoruba, Amharic
 
+
 ## Part 4. Going around
 
 ### enda <small>to go</small>
@@ -685,30 +707,33 @@ Let's go!
 **haida enda sa pede**
 Let's go by foot!
 
+
 ### laya <small>to come</small>
 
 **bita laya!**
 Come here!
 
-**te laya ga ke?**
+**te laya da ke?**
 Where do you come from?
 
-**me laya ga dubai.**
+**me laya da dubai.**
 I come from Dubai.
 
 **me laya dom badi den.**
 I will come home tomorrow.
+
 
 ### safara <small>to travel</small>
 
 **eska te safara sa tren?**
 Do you travel by train?
 
-**mome safara ga london pa paris.**
+**mome safara da london pa paris.**
 We travel from London to Paris.
 
 **safar day long.**
 The voyage is very long.
+
 
 ### sa <small>in, on, at</small>
 
@@ -735,6 +760,7 @@ Tip! You can use **sa** as a preposition or alone as the verb.
 **me werka sa...**
 I work at ...
 
+
 ### doma <small>to live, reside</small>
 
 **te doma ke?**
@@ -750,10 +776,14 @@ Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.  Howev
 **doma** already covers the meaning of being at somewhere, so **sa** is not
 necessary.
 
+
 ### denga <small>to wait</small>
 
 **bita denga!**
 Please wait!
+
+**denga me!**
+Wait for me!
 
 **lole denga mome.**
 They wait for us.
@@ -766,7 +796,7 @@ I wait for you in the hotel.
 
 ### zay <small>currently</small>
 
-**me zay salama te da doste.**  
+**me zay salama te yu doste.**  
 I am greeting your friend.
 
 **man zay wida fem.**  
@@ -781,7 +811,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**me pas salama te da doste.**  
+**me pas salama te yu doste.**  
 I greeted your friend.
 
 **man pas wida fem.**  
@@ -796,7 +826,7 @@ He or she was at home.
 
 ### lew <small>already, completed</small>
 
-**me lew salama te da doste.**  
+**me lew salama te yu doste.**  
 I have greeted your friend.
 
 **man lew wida fem.**  
@@ -811,7 +841,7 @@ He or she has been at home.
 
 ### wil <small>(future action)</small>
 
-**me wil salama te da doste.**  
+**me wil salama te yu doste.**  
 I will greet your friend.
 
 **man wil wida fem.**  
@@ -854,7 +884,7 @@ I will take a coffee.
 **bita kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te pas kapa pese ga me.**
+**te pas kapa pese da me.**
 You already got money from me.
 
 **me kapa un bir.**
@@ -887,7 +917,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**lole mai dar tot.**
+**lole mai dona pan.**
 They sell everything.
 
 **me mai kap un bir.**
@@ -904,7 +934,7 @@ Is it new?
 **ke si max bon?**
 Which is better?
 
-**ce si maxim bon (ga pan).**
+**ce si maxim bon (da pan).**
 This is the best (of all).
 
 **le kosta ke?**
@@ -929,7 +959,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xowa le pa me ga leksobuke!**
+**xowa le pa me da leksobuke!**
 Show me in the dictionary!
 **me ni yada.**
 I don't remember.

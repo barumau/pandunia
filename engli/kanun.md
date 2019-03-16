@@ -310,7 +310,7 @@ Adjectives are questioned with **ki**.
 
 > **ki day?** - How big?  
 > **ki lil?** - How small?  
-> **ki day da maw te ada?** - How big cat do you have?
+> **ki day yu maw te ada?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -365,7 +365,7 @@ dependant clauses.
 
 Examples:  
 **ke te wida?** - What do you see?  
-**me nyama pang, du te beka.** - I eat bread _that you baked._
+**me nyama pang, ya te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -535,10 +535,10 @@ Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
 
 The agent can be mentioned after the verb with or without the
-preposition **du**.
+preposition **ya**.
 
 **te widu me.** - You are seen by me.  
-**te widu du me.** - You are seen by me.
+**te widu ya me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
@@ -682,27 +682,27 @@ verb, not the whole question.
 
 ### 9.2. Modifier particles
 
-Particles **da** and **du** are used to mark possession and
-modification.  **da** connects the modifying word or phrase to the
-modified word. **du** works in the opposite direction. It connects the
+Particles **yu** and **ya** are used to mark possession and
+modification.  **yu** connects the modifying word or phrase to the
+modified word. **ya** works in the opposite direction. It connects the
 modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **da** works like apostrophe-s ('s) in
+With regards to possession, **yu** works like apostrophe-s ('s) in
 English.
 
-**maria da mame** - Maria's mother  
-**me da dom** - my house  
-**me da pape da dom** - my father's house
+**maria yu mame** - Maria's mother  
+**me yu dom** - my house  
+**me yu pape yu dom** - my father's house
 
-**du** works like "of" in English.
+**ya** works like "of" in English.
 
-**mame du maria** - the mother of Maria  
-**dom du me** - the house of mine  
-**dom du pape du me** - the house of the father of mine
+**mame ya maria** - the mother of Maria  
+**dom ya me** - the house of mine  
+**dom ya pape ya me** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -713,49 +713,49 @@ the particle makes it clear in which end the main noun is.
 The modifier particles are useful for creating complex adjectives that
 consists of two or more words.
 
-**roze rang da labe** - rose-colored lips  
-**saman rang da yen** - sky-colored eyes
+**roze rang yu labe** - rose-colored lips  
+**saman rang yu yen** - sky-colored eyes
 
 Or in the opposite order:
 
-**labe du roze rang** - lips of the color of the rose  
-**yen du saman rang** - eyes of the color of the sky
+**labe ya roze rang** - lips of the color of the rose  
+**yen ya saman rang** - eyes of the color of the sky
 
 The particles help in creating measure words too.
  
-**un sake da patate** - one sack of potatos  
-**dul sake da patate** - two sacks of potatos  
-**max sake da patate** - more sacks of potatos
+**un sake yu patate** - one sack of potatos  
+**dul sake yu patate** - two sacks of potatos  
+**max sake yu patate** - more sacks of potatos
  
-Note that **da** and **du** connect phrases together. So a modifier
-phrase with and without **da** can mean a different thing.
+Note that **yu** and **ya** connect phrases together. So a modifier
+phrase with and without **yu** can mean a different thing.
 
 **max sundar pul** - more beautiful flowers  
-**max da sundar pul** - more of beautiful flowers
+**max yu sundar pul** - more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **du** has a similar role as English relative pronouns _which_,
+Here **ya** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-**le si man _du me wida_.** - He is the man _that I saw_.
+**le si man _ya me wida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me wida man _du nyama aple_.** - I see a man _who eats apples_.  
+**me wida man _ya nyama aple_.** - I see a man _who eats apples_.  
 
-It's possible to construct relative clauses with **da** too. Then the
+It's possible to construct relative clauses with **yu** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
-into a modifier by putting **da** immediately after the verb.
+into a modifier by putting **yu** immediately after the verb.
 
-**me wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
+**me wida _aple nyamu yu_ man.** - I see an _apple-eating_ man.
 
-**buke dugu da ren sa kamar.** = The book-reading person is in the room.  
-**le duga da buke sa meze.** = The book, that he/she reads, is on the table.
+**buke dugu yu ren sa kamar.** = The book-reading person is in the room.  
+**le duga yu buke sa meze.** = The book, that he/she reads, is on the table.
 
 ### 9.3. Modal Particles
 
@@ -814,7 +814,7 @@ Pandunia has four prepositions of place and time.
 1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
 2. **na** - absence or lack: without
-3. **ga** - origin, beginning or cause: from, since, because
+3. **da** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -822,13 +822,13 @@ the preposition is complemented by a pronoun or a noun phrase.
 
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
-**me sona ga xam pa suba.** - I sleep since evening until morning.  
-**me safara ga london pa paris.** - I travel from London to Paris.  
+**me sona da xam pa suba.** - I sleep since evening until morning.  
+**me safara da london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ga te enda.** - I have waited since you left.  
+**me denga da te enda.** - I have waited since you left.  
 **me denga pa te lay dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -1175,7 +1175,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me wida ren, du te jana.** (I saw the person _whom you know_.) The
+**me wida ren, ya te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1266,9 +1266,9 @@ In Pandunia, structure words share the following characteristics:
 | 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
 | 7| Negation / lack / absence | **na**<br>without      | **ne**<br>no           | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
 | 8| Affirmation / presence    |**sa**<br>with, by, at  | **se**<br>yes          | **si**<br>yes          |                        | **su**                 |
-| 9| Possession                | **da**<br>'s           |                        |                        |                        | **du**<br> of          |
+| 9| Belonging                 | **ya**<br>of           |                        |                        |                        | **yu**<br>'s           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
-|11| Origin                    | **ga**<br>from, since  |                        |                        |                        | **gu**                 |
+|11| Origin                    | **da**<br>from, since  |                        |                        |                        | **du**                 |
 
 
 ### 12.4. Hierarchy of Word Types
@@ -1307,8 +1307,8 @@ central is as follows.
 
 1. Structure words
     1. Conjunctions: i, u, a
-    2. Connectors: da, du
-    3. Prepositions and postpositions: sa, sa, pa, ga; nu, su, pu, gu
+    2. Connectors: yu, ya
+    3. Prepositions and postpositions: na, sa, pa, da; nu, su, pu, gu
     4. Pronouns
 2. Content words
     1. Numerals

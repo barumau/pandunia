@@ -219,7 +219,7 @@ Czy czujesz się dobrze?
 **ne, me ni bon.**
 Nie, nie czuję się dobrze.
 
-Możesz używać **no**
+Możesz używać **ni**
 do zaprzeczania czegokolwiek. Jest umieszczane przed słowem zaprzeczanym.
 
 **le ni salama me.**
@@ -299,35 +299,35 @@ Jest czerwone.
 
 
 
-### da <small>(partykuła dzierżawcza)</small>
+### yu <small>(partykuła dzierżawcza)</small>
 
 **ce ke?**
 Co to jest?
 
-**ce me da fon.**
+**ce me yu fon.**
 To mój telefon.
 
-**ce ke da?**
+**ce ke yu?**
 Czyje to?
 
-**ce me da.**
+**ce me yu.**
 To jest moje.
 
-Uwaga: Partykuła dzierżawcza **da**
-jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi da**
-znaczy "mój", **tu da**
+Uwaga: Partykuła dzierżawcza **yu**
+jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi yu**
+znaczy "mój", **tu yu**
 znaczy "twój" i tak dalej.
 
 **le ke?**
 Kim on/ona jest?
 
-**le si me da doste.**
+**le si me yu doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**me si sara da doste.**
+**me si sara yu doste.**
 Jestem przyjacielem Sary.
 
-<small>Etymologia. **da**
+<small>Etymologia. **yu**
 pochodzi z języków: pundżabskiego: ਦਾ "dā", mandaryńskiego: 的 "de".</small>
 
 
@@ -596,7 +596,7 @@ Umiem trochę mówić w Panduni.
 **me ni bila engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni bila te da bax.**
+**pardon. me ni bila te yu bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -634,7 +634,7 @@ Proszę, mów głośniej.
 **me auda musike.**
 Słucham muzyki.
 
-**te auda ki yang da musike?**
+**te auda ki yang yu musike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -664,7 +664,7 @@ Co znaczy to słowo?
 **"maw" mena ke?**
 Co znaczy "mau"?
 
-**le mena yang du hewan.**
+**le mena yang ya hewan.**
 To oznacza rodzaj zwierzęcia.
 
 **me ni aha le mena ke.**
@@ -737,10 +737,10 @@ Pójdźmy pieszo!
 **bita laya!**
 Przyjdź tu!
 
-**te laya ga ke?**
+**te laya da ke?**
 Skąd pochodzisz?
 
-**me laya ga dubai.**
+**me laya da dubai.**
 Pochodzę z Dubaju.
 
 **me laya dom badi den.**
@@ -753,7 +753,7 @@ Przyjdę do domu jutro.
 **eska te safara sa tren?**
 Czy podróżujesz pociągiem?
 
-**mome safara ga london pa paris.**
+**mome safara da london pa paris.**
 Podróżujemy z Londynu do Paryża.
 
 **safar day long.**
@@ -848,7 +848,7 @@ Wezmę kawę.
 **bita kapa un kafe pa me.**
 Proszę, weź kawę dla mnie.
 
-**te pas kapa pese ga me.**
+**te pas kapa pese da me.**
 Już dostałeś ode mnie pieniądze.
 
 **me kapa un bir.**

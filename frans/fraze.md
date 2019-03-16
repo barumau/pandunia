@@ -326,18 +326,18 @@ C'est rouge.
 
 
 
-### da <small>possessif</small>
+### yu <small>possessif</small>
 
-**le si me da mame.**
+**le si me yu mame.**
 C’est ma mère.
 
-**le si me da man.**
+**le si me yu man.**
 C’est mon mari (mon homme).
 
-**le si me da fem.**
+**le si me yu fem.**
 C’est ma femme.
 
-**me si sara da doste.**
+**me si sara yu doste.**
 Je suis l’ami de Sara.
 
 
@@ -428,7 +428,7 @@ Est-ce que tu connais cette personne ?
 **eska tote jana unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mome jana unale ga long.**
+**mome jana unale da long.**
 Nous nous connaissons l’un l’autre depuis longtemps.
 
 
@@ -638,7 +638,7 @@ Je parle un peu pandunia.
 **me ni bila engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni bila te da bax.**
+**pardon. me ni bila te yu bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -675,7 +675,7 @@ Parlez plus fort, s’il vous plait.
 **me auda musike.**
 J’écoute de la musique.
 
-**te auda ki yang da musike?**
+**te auda ki yang yu musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -702,7 +702,7 @@ Que veut dire ce mot ?
 **"maw" mena ke?**
 Que signifie « mau » ?
 
-**le mena yang du hewan.**
+**le mena yang ya hewan.**
 Ça signifie un genre d’animal.
 
 **me ni aha le mena ke.**
@@ -771,10 +771,10 @@ On y va à pied !
 **bita laya!**
 Viens ici !
 
-**te laya ga ke?**
+**te laya da ke?**
 D’où viens-tu ?
 
-**me laya ga dubai.**
+**me laya da dubai.**
 Je viens de Dubaï.
 
 **me laya dom badi den.**
@@ -786,7 +786,7 @@ Je vais à la maison demain.
 **eska te safara sa tren?**
 Est-ce que tu voyages en train ?
 
-**mome safara ga london pa paris.**
+**mome safara da london pa paris.**
 Nous voyageons de Londres à Paris.
 
 **safar day long.**
@@ -878,7 +878,7 @@ Je vais prendre un café.
 **bita kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
-**te pas kapa pese ga me.**
+**te pas kapa pese da me.**
 tu as déjà eu de l’argent de ma part.
 
 ### kire <small>louer</small>
@@ -918,7 +918,7 @@ C’est nouveau ?
 **ke si max bon?**
 Lequel est mieux ?
 
-**ce si maxim bon (ga pan).**
+**ce si maxim bon (da pan).**
 C’est le meilleur (de tous).
 
 

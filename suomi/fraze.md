@@ -314,33 +314,33 @@ He ovat tuolla.
 Me olemme täällä.
 
 
-### da <small>-n (genetiivipartikkeli)</small>
+### yu <small>-n (genetiivipartikkeli)</small>
 
 **ce ke?**
 Mikä tämä on?
 
-**ce me da fon.**
+**ce me yu fon.**
 Se on minun puhelin.
 
-**ce ke da?**
+**ce ke yu?**
 Kenen tämä on?
 
-**ce me da.**
+**ce me yu.**
 Se on minun.
 
-Genetiivipartikkeli **da** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me da**
-tarkoittaa "minun", **te da** tarkoittaa "sinun" jne.
+Genetiivipartikkeli **yu** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me yu**
+tarkoittaa "minun", **te yu** tarkoittaa "sinun" jne.
 
 **le ke?**
 Kuka hän on?
 
-**le si me da doste.**
+**le si me yu doste.**
 Hän on minun ystävä.
 
-**me si sara da doste.**
+**me si sara yu doste.**
 Minä olen Saran ystävä.
 
-<small>Sanan **da**
+<small>Sanan **yu**
 lähteitä: pandžabi: ਦਾ "dā", yleiskiina: 的 "de".</small>
 
 
@@ -397,7 +397,7 @@ Tunnetko tuon henkilön?
 **eska tote jana unale?**
 Tunnetteko toisenne?
 
-**mome jana unale ga long.**
+**mome jana unale da long.**
 Tunnemme toisemme jo vanhastaan.
 
 
@@ -608,7 +608,7 @@ Minä osaan vähän panduniaa.
 **me ni bila engli.**
 Minä en osaa englantia.
 
-**pardon. me ni bila te da bax.**
+**pardon. me ni bila te yu bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -645,7 +645,7 @@ Puhuisitko kovempaa.
 **me auda musike.**
 Minä kuuntelen musiikkia.
 
-**te auda ki yang da musike?**
+**te auda ki yang yu musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -674,7 +674,7 @@ Mitä tämä sana tarkoittaa?
 **"maw" mena ke?**
 Mitä "maw" tarkoittaa?
 
-**le mena yang du hewan.**
+**le mena yang ya hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
 **me ni aha le mena ke.**
@@ -684,7 +684,7 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**bita kitaba te da adres.**
+**bita kitaba te yu adres.**
 Kirjoittaisitko osoitteesi.
 
 **bita kitaba le sa ce.**
@@ -746,10 +746,10 @@ Menkäämme jalan!
 **bita laya!**
 Tule tänne!
 
-**te laya ga ke?**
+**te laya da ke?**
 Mistä sinä tulet?
 
-**me laya ga dubai.**
+**me laya da dubai.**
 Minä tulen Dubaista.
 
 **me laya dom ming den.**
@@ -762,7 +762,7 @@ Minä tulen kotiin huomenna.
 **eska te safara sa tren?**
 Matkustatko junalla?
 
-**mome safara ga london pa paris.**
+**mome safara da london pa paris.**
 Me matkustamme Lontoosta Pariisiin.
 
 **safar day long.**
@@ -832,7 +832,7 @@ Minä odotan sinua hotellissa.
 
 ### zay <small>parhaillaan</small>
 
-**me zay salama te da doste.**  
+**me zay salama te yu doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **man zay wida fem.**  
@@ -847,7 +847,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**me pas salama te da doste.**  
+**me pas salama te yu doste.**  
 Minä tervehdin sinun ystävääsi.
 
 **man pas wida fem.**  
@@ -862,7 +862,7 @@ Hän oli kotona.
 
 ### lew <small>jo, valmiiksi</small>
 
-**me lew salama te da doste.**  
+**me lew salama te yu doste.**  
 Minä olen tervehtinyt ystävääsi.
 
 **man lew wida fem.**  
@@ -877,7 +877,7 @@ Hän on ollut kotona.
 
 ### wil <small>myöhemmin, jatkossa</small>
 
-**me wil salama te da doste.**  
+**me wil salama te yu doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **man wil wida fem.**  

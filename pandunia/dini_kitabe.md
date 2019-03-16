@@ -7,7 +7,7 @@ bita santa ti nam,
 bita layu ti rajia,
 bita fatu ti wole  
 sa zemia i sa saman.  
-bita dona momi pan den da pang pa mome.  
+bita dona momi pan den yu pang pa mome.  
 bita pardona momi dox,  
 ka mome pardona momi doxer.  
 bita ni lida mome pa tentia  

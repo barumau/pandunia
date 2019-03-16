@@ -344,7 +344,7 @@ Yes or no questions
 = Would he like to have soup?  
 ☺: **ni nyama.**
 = No.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade ya des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -593,7 +593,7 @@ something, even when not answering to a question.
 1. ki ren suku supe?
 2. pape suku.
 3. ke zaman le laya?
-4. sa bade du des minute.
+4. sa bade ya des minute.
 5. le ni nyama sabu ke?
 6. sabu le ni suku kafe u supe.
 
@@ -617,7 +617,7 @@ or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-**me nyama pang sa sube nyam.**
+**me nyama pang sa subi nyam.**
 = I ate bread for morning meal.
 
 There are also specific time words.
@@ -711,7 +711,7 @@ Try translating these sentences from English to Pandunia.
 **wil** future.
 **darba** to hit, to beat.
 **pang** bread.
-**sube nyam** morning meal, breakfast.
+**subi nyam** morning meal, breakfast.
 
 ### Answers to the Exercises
 
