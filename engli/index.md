@@ -41,6 +41,10 @@ these pages.
 - [Uninflected Pandunia](simpli_pandunia.html)
 - [Phrases in Uninflected Pandunia](simpli_pandunia_da_fraze.md)
 
+## Stories
+
+- [The rich man and the poor man](rici_man_i_miskin_man.md)
+
 ## Articles
 
 - [Pandunia - a new world language](dunia_bax.md)
