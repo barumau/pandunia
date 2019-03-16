@@ -36,11 +36,6 @@ these pages.
 - [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
 
-## Uninflected dialect
-
-- [Uninflected Pandunia](simpli_pandunia.html)
-- [Phrases in Uninflected Pandunia](simpli_pandunia_da_fraze.md)
-
 ## Stories
 
 - [The rich man and the poor man](rici_man_i_miskin_man.md)
