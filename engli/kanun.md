@@ -280,9 +280,9 @@ ourselves.
 
 ### 5.3. Demonstrative pronouns
 
-The demonstrative pronouns are:
+The demonstrative pronoun is:
 
-**ce** - this/that one  
+**ce** - this/that one
 
 **me wola ce.** - I want this one.  
 **le wola ce.** - He/she wants that one.  
@@ -303,16 +303,16 @@ English words _who_ and _what_.
 The adjectival interrogative pronoun is **ki** and it meanst the same
 as English _which_.
 
-> **ki xey?** - What? (Which thing?)  
-> **ki ren?** - Who? (Which person?)  
-> **ki zaman?** - When? (What time?)  
-> **ki yang?** - How? (What manner?)  
+**ki xey?** - What? (Which thing?)  
+**ki ren?** - Who? (Which person?)  
+**ki zaman?** - When? (What time?)  
+**ki yang?** - How? (What manner?)  
 
 Adjectives are questioned with **ki**.
 
-> **ki day?** - How big?  
-> **ki lil?** - How small?  
-> **ki day yu maw te ada?** - How big cat do you have?
+**ki day?** - How big?  
+**ki lil?** - How small?  
+**ki day yu maw te ada?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -438,8 +438,7 @@ agent).
 
 ### 6.4. Verb endings
 
-Most verbs end in **-a** and **-u**. A handful of verbs are without a
-standard ending.
+All verbs end in **-a** or **-u**.
 
 --------------------------------------------------------------------------------
 
@@ -1096,7 +1095,7 @@ root as a whole.
 
 **insan** human being; **insania** humanity, mankind, all the human beings as a group.  
 **kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filsof** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
+**filosof** view, outlook, life wisdom; **filosofia** philosophy, the discipline of wisdom.  
 
 This ending is often found in place names, especially in country
 names. However this use is not systematic and it's not required. There
@@ -1117,7 +1116,7 @@ Also abstract nouns often end in **-ia**.
 When it is added after -er, it means a place of work.
 
 **bekeria** bakery  
-**fakteria** factory  
+**fateria** factory  
 **sapateria** shoemaker's shop  
 
 #### 11.3.4. -is-
