@@ -104,6 +104,7 @@ Greetings, father!
 <small>Etymology. **me**
 is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
 
+
 ### te <small>you</small>
 
 **te tomas.**
@@ -168,6 +169,7 @@ I'm not good.
 <small>Etymology. **eska**
 is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small>
 
+
 ### si <small>yes</small>
 
 **eska te tomas?**
@@ -196,6 +198,7 @@ The apple is a fruit.
 
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
 "shì", Shanghaiese: 是 "sí".</small>
+
 
 ### ni <small>not</small>
 
