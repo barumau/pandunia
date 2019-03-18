@@ -1,7 +1,7 @@
 Pandunia - a simple world language
 ==================================
 
-![](http://www.pandunia.info/bandir/bander.png "The flag of Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
 ## What's Pandunia?
 
@@ -68,7 +68,7 @@ Many people are already interested about Pandunia and they are speaking it. You 
   list](https://groups.yahoo.com/neo/groups/pandunia/info) can be joined using
   a Yahoo account or just [sending a blank e-mail
   message](mailto:pandunia-subscribe@yahoogroups.com).
-- Other rilated mailing lists:
+- Other related mailing lists:
     * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
       ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/info))
     * [Worldlang list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).

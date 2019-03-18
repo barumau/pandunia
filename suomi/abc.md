@@ -5,7 +5,7 @@ Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset.
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -56,16 +56,14 @@ Esimerkkejä:
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si mimen da sundar planete.
-    /dúnia sí mimén da sundár planéte./
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     mi wola loga komun bax, ye si pandunia.
-    /mí wól lóga komún báx, yé sí pandúnia./
+     me wola loga komun bax, le si pandunia.  
+    /mé wóla lóga komún báx, lé sí pandúnia./
 
-
-     darse guru' suku kafe.
-    /dárse gurú  súku káfe./
-
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 ## Aakkoslajit
 
@@ -103,6 +101,8 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-> **mi wida tu :)** = Minä näen sinut.  
-> **mi no wida tu :(** = Minä en näe sinua.
+**me wida te :)**
+= Minä näen sinut.  
+**me ni wida te :(**
+= Minä en näe sinua.
 

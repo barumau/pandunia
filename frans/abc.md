@@ -5,7 +5,7 @@ Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alp
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -56,15 +56,14 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     dunia si mimen da sundar planete.
-    /dúnia sí mimén da sundár planéte./
+     me wola loga komun bax, le si pandunia.  
+    /mé wóla lóga komún báx, lé sí pandúnia./
 
-     mi wola loga komun bax, ye si pandunia.  
-    /mí wól lóga komún báx, yé sí pandúnia./
-
-     darse guru' suku kafe.
-    /dárse gurú  súku káfe./
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 
 ## Majuscules
@@ -103,8 +102,10 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-> **mi wida tu :)** = Je te vois.  
-> **mi no wida tu :(** = Je ne te vois pas.
+**me wida te :)**
+= Je te vois.  
+**me ni wida te :(**
+= Je ne te vois pas.
 
 
 ## Structure des mots

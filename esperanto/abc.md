@@ -7,7 +7,7 @@ Alfabeto (IFA):
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | ŭ | ŝ | j | z |
-| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
 literoj.
@@ -53,8 +53,11 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
      dunia si momi sundar planete.  
     /dúnia sí mómi sundár planéte./
 
-     mi wola loga komun bax, le si pandunia.  
-    /mí wóla lóga komún báx, lé sí pandúnia./
+     me wola loga komun bax, le si pandunia.  
+    /mé wóla lóga komún báx, lé sí pandúnia./
+
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 ## Uskleco
 

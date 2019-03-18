@@ -5,7 +5,7 @@ con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -70,14 +70,14 @@ Ejemplos:
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si mimen da sundar planete.
-    /dúnia sí mimén da sundár planéte./
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     mi wola loga komun bax, ye si pandunia.  
-    /mí wól lóga komún báx, yé sí pandúnia./
+     me wola loga komun bax, le si pandunia.  
+    /mé wóla lóga komún báx, lé sí pandúnia./
 
-     darse guru' suku kafe.
-    /dárse gurú  súku káfe./
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 ## Uso de las letras mayúsculas y minúsculas
 
@@ -126,8 +126,10 @@ Informalmente, las caritas felices, los emoticones y emojis pueden ser usados
 para indicar un estado de ánimo. Por ejemplo **:)** indica felicidad y **:(**
 indica tristeza.
 
-> **mi wida tu :)** = Te veo.  
-> **mi no wida tu :(** = No te veo.
+**me wida te :)**
+= Te veo.  
+**me ni wida te :(**
+= No te veo.
 
 ## Estructura de las palabras
 

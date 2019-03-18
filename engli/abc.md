@@ -5,7 +5,7 @@ Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is
@@ -65,14 +65,14 @@ Consider the following examples:
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si mimen da sundar planete.  
-    /dúnia sí mimén da sundár planéte./
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     mi wola loga komun bax, ye si pandunia.  
-    /mí wól lóga komún báx, yé sí pandúnia./
+     me wola loga komun bax, le si pandunia.  
+    /mé wóla lóga komún báx, lé sí pandúnia./
 
-     darsogur sida na sofa'.  
-    /dársogúr sída ná sofá./
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 ## Letter Case
 
@@ -118,8 +118,10 @@ uncertainty.
 In informal texts smileys, emoticons and emojis may be used to indicate mood.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-> **me wida te :)** = I see you.  
-> **me ni wida te :(** = I don't see you.
+**me wida te :)**
+= I see you.  
+**me ni wida te :(**
+= I don't see you.
 
 ## Word structure
 
