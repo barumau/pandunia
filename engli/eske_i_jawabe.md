@@ -167,37 +167,7 @@ your heart desires.
 
 
 
-## Grammar and vocabulary
-
-#### Why agglutinating structure was chosen for Pandunia?
-
-Different structures were considered and tested during the
-development of Pandunia. The main choice was between an agglutinating
-and an isolating structure.
-
-1. In an agglutinating language every word can be clearly divided
-   into component parts. For example Esperanto word "niaj" (our) is
-   made out of three parts: ni- (we), -a- (adjective marker) and -j
-   (plural marker).
-2. In an isolating language every word consists of just one part. For
-   example in Mandarin Chinese the word for "our" consists of three
-   separate words: wǒ (first person pronoun), men (plural marker) and
-   de (possessive marker). Then they are simply put together:
-   wǒmende, 我们的.
-
-Pandunia is a lightly agglutinating language. It uses separate words
-to express things like person, number, mood, tense and aspect, which
-are typically expressed with inflection in agglutinating and
-inflecting languages.
-
-To demonstrate the difference, let's compare the same sentence in
-Esperanto (a heavily agglutinating language) and Pandunia. Parts of
-word are separated with the vertical bar sign.
-
-    Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wol|a   wid|a  ti        dul sundar     yen         zay.
-               I  want to see    your      two beautiful  eyes        now.
-
+## Letters and sounds
 
 #### Why is the letter X pronounced like SH?
  
@@ -232,6 +202,79 @@ and _cappuccino_.
 On the other hand, the letter C doesn't stand for any dedicated sound
 in English. The _hard C_ can be represented by K and the _soft C_ by
 S. So it makes sense to drop the H from CH.
+
+#### Is Pandunia's alphabet unique?
+
+It is unique but not as odd as you might think. In fact,
+the majority of letters (19 in total) are pronounced in general in
+the way in Pandunia and English, 5 are different, and two (q and v)
+are missing from Pandunia.
+
+Most letters correspond to approximately similar sounds in Pandunia
+and in other languages that use the Latin alphabet in their spelling
+or their standard way of Romanization.
+ 
+The alphabet of Pandunia is compared to alphabets and Romanizations
+used in other languages in the table below.
+
+- Letters that correspond normally to approximately similar sounds
+  in Pandunia and in the compared language are listed under SIMILAR.
+  For example English g is considered similar to Pandunia g although
+  there is the 'soft' g (as in _gel_) besides the more common 'hard'
+  g (as in _get_) in English.
+- Letters that Pandunia has but the compared language doesn't have
+  are listed under MISSING.
+- Letters that correspond usually to different sounds in Pandunia
+  and in the compared language are listed under DIFFERENT.
+
+| ALPHABET         | SIMILAR                                         | MISSING |DIFFERENT    |
+|:-----------------|-------------------------------------------------|---------|-------------|
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u w x y z |         |             |
+| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
+| Hausa            | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
+| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u w x y   |         | e z         |
+| Swahili          | a b   d e f g h i j k l m n o p r s t u w   y z | c x     |             |
+| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u w   y z | c x     | f r         |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u   x   z | y       | c h j       |
+| English          |   b   d   f g h i j k l m n o p r s t   w   y z |         | a c e u x   |
+| French           | a b   d e f g   i   k l m n o p   s t u w   y z |         | c h j r x   |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u     y   |         | c h j x z   |
+| German           | a b   d e f g h i   k l m n o p r s t u         |         | c j w x y z |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u     y   | f j w z | c d s x     |
+
+
+## Grammar and vocabulary
+
+#### Why agglutinating structure was chosen for Pandunia?
+
+Different structures were considered and tested during the
+development of Pandunia. The main choice was between an agglutinating
+and an isolating structure.
+
+1. In an agglutinating language every word can be clearly divided
+   into component parts. For example Esperanto word "niaj" (our) is
+   made out of three parts: ni- (we), -a- (adjective marker) and -j
+   (plural marker).
+2. In an isolating language every word consists of just one part. For
+   example in Mandarin Chinese the word for "our" consists of three
+   separate words: wǒ (first person pronoun), men (plural marker) and
+   de (possessive marker). Then they are simply put together:
+   wǒmende, 我们的.
+
+Pandunia is a lightly agglutinating language. It uses separate words
+to express things like person, number, mood, tense and aspect, which
+are typically expressed with inflection in agglutinating and
+inflecting languages.
+
+To demonstrate the difference, let's compare the same sentence in
+Esperanto (a heavily agglutinating language) and Pandunia. Parts of
+word are separated with the vertical bar sign.
+
+    Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
+    Pandunia:  me wol|a   wid|a  ti        dul sundar     yen         zay.
+               I  want to see    your      two beautiful  eyes        now.
+
 
 #### Shouldn't "salam" mean "peace"?
 
