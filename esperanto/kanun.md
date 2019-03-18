@@ -212,7 +212,7 @@ Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo 
 
 ## 5. Pronomoj
 
-### Personaj pronomoj
+### 5.1. Personaj pronomoj
 
 Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
@@ -223,11 +223,256 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 **tote** - vi _(multnombre)  
 **lole** - ili
 
-**ze** - si (mem)
+### 5.2. Refleksiva pronomo
 
+**ze** - si (mem)
 
 Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
 **me wida ze** - Mi vidas min.  
 **le wida ze** - Ŝi vidas sin.  
+
+
+### 5.3. Montrovorto
+
+La montrovorto estas:
+
+**ce** - tio
+
+**me wola ce.** - Mi volas tion.  
+**le wola ce sa me.** - Ĝi volas tion ĉe mi.  
+
+La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **tel** (fora), kiam tio estas bezonata.
+
+**ci** - (ĉi) tio, (ĉi) tiu  
+**ci jin** - ĉi tio, ĉi tiu _(proksima)_  
+**ci tel** - tio, tiu _(fora)_  
+
+
+Montrovortoj povas roli kiel Modifovortoj.
+
+> **ci petre.** - Tiu ŝtono.  
+> **ce si petre.** - Tio estas ŝtono.  
+> **ci petre bari.** - Tiu ŝtono pezas.  
+
+
+### 5.4. Demandovorto
+
+**Ke** estas la ĝenerala demandovorto en pandunio. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
+
+**ke?** - Kiu?/Kio?  
+**ki xey?** - Kio? (Kiu afero?)  
+**ki ren?** - Kiu? (Kiu persono?)  
+**ki zaman?** - Kiam? (Kiu tempo?)  
+**ki yang?** - Kiel? (Kiu maniero?)  
+**ki sabe?** - Kial? (Kiu kaŭzo?)
+
+Ankaŭ adjektivoj estas demandataj per **ki**.
+
+**ki day?** - Kiom granda?  
+**ki lil?** - Kiom eta?  
+**ki day yu maw te ada?** - Kiom granda kato vi havas?
+
+--------------------------------------------------------------------------------
+
+## 6. Verboj
+
+#### 6.1. Ĝeneralaĵoj
+
+#### 6.2. Verboj finiĝante je -a
+
+Verboj kiuj finiĝas je **-a** uzas ĉi tiun triangulan modelon.
+
+    Vortorda triangulo por verboj kiuj finiĝas je -a
+    
+      V
+     ↗ ↘
+    S ← O
+
+#### 6.2.1. SVO-vortordo
+
+La plej komuna vortordo en Pandunio estas subjekto-verbo-objekto (SVO).
+
+    subjekto-verbo-objekto
+    
+      V
+     ↗ ↘
+    S   O
+
+Ekzemploj:  
+**me wida lole.**
+= Mi vidas ilin.  
+**te beka pang.**
+= Vi bakas panon.  
+
+#### 6.2.2. OSV-vortordo
+
+    objekto-subjekto-verbo
+    
+      V
+     ↗ 
+    S ← O
+
+Ekzemploj:  
+**ke te wida?**
+= Kion vi vidas?  
+**me nyama pang, ya te beka.**
+= Mi manĝas panon, kiun vi bakis._
+
+#### 6.2.3. VOS-vortordo
+
+    verbo-objekto-subjekto
+    
+      V
+       ↘
+    S ← O
+
+#### 6.3. Verbs that end in -u
+
+Verboj kiuj finiĝas je **-u** uzas ĉi tiun triangulan modelon.
+
+    Vortorda triangulo por verboj kiuj finiĝas je -u
+    
+      V
+     ↗ ↘
+    O ← S
+
+#### 6.3.1. SOV-vortordo
+
+SOV order is commonly used alternative for SVO order.
+
+    subjekto-objekto-verbo
+    
+      V
+     ↗ 
+    O ← S
+
+Ekzemploj:  
+**me lole widu.**
+= Mi ilin vidas.  
+**te pang beku.**
+= Vi panon bakas.
+
+#### 6.3.2. OVS-vortordo
+
+OVS-ordo estas komuna en "pasivaj" frazoj.
+
+    objekto-verbo-subjekto
+    
+      V
+     ↗ ↘
+    O   S
+
+Ekzemploj:  
+**pang beku te.**
+= Panon bakas vi.  
+**te suku me.**
+= Al vi plaĉas mi.
+
+#### 6.3.3. VSO-vortordo
+
+VSO-ordo estas malofta sed ebla.
+
+    verbo-subjekto-objekto
+    
+      V
+       ↘
+    O ← S
+
+### 6.3. Pasivaj frazoj
+
+Pasivaj frazoj enhavas nur objekton kaj verbon sed ne subjekton.
+
+**me widu.**
+Mi estas vidita.  
+**pang beku.**
+= Pano estas bakita.  
+**kupe kaputu.**
+= Kopo estas rompita.
+
+### 6.4. Verbaj finaĵoj
+
+Ĉiu verbo finiĝas je **-a** aŭ **-u**.
+
+
+--------------------------------------------------------------------------------
+
+## 11. Derivado
+
+### 11.1 Nedeviga finaĵo por baza vortotipo
+
+En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu informo konsulteblas en bonaj vortaroj.) En Pandunia, kiam vorto estas uzata en sia baza formo, skribi aŭ elparoli la finaĵon ne estas devige. Estas kvazaŭ diri en Esperanto "Mi ŝat manĝ pom".
+
+> log**a** - dir**i**  
+> log**u** - esti dirata (de) / dir**iĝi**  
+> log**i** - dir**a** / dir**e**  
+> log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
+
+> nowa - novigi  
+> nowu - esti novigita (de) / noviĝi  
+> nowi aŭ nov - nova / nove (nov estas baze modifilo)  
+> nowe - novo / novaĵo  
+
+### 11.2 Ŝanĝi la vortotipon
+
+Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al Esperanto, kun kelkaj diferencoj:
+
+- Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
+> now(i) - nova / nove  
+> nowa - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+> si now(i) - novi = esti nova / esti nove  
+
+- Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.
+> kitaba - skribi  
+> kitabe - skrib**aĵo**   
+> kitabe fata - skribo / skribado  
+
+- Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago.
+> kitaba - skribi  
+> kitabi - skrib**ita** / skribata  
+> sa kitabe - per skribaĵo = skriba  
+
+### 11.3 Sufiksoj
+
+Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: nete **loke** = ret**ejo**.
+
+#### 11.3.1 -er
+
+mul**a** - komenci ; mul**er** - komenc**anto**  
+bek**a** - baki ; bek**er** - bak**isto**  
+komput**a** - komputi ; komput**er** - komput**ilo**  
+morta - mortigi ; morter - mortiganto  
+
+#### 11.3.3 -ia
+
+**insan** - homo; **insania** - homeco, homaro  
+**kristi** - kristano; **kristia** - kristanaro  
+**filosof** filozofajxo; **filosofia** filozofio
+
+**arabi** araba; **arabia** Arabio  
+**rusi** rusa; **rusia** Rusio  
+**turki** turka; **turkia** Turkio  
+**asia** Azio  
+**indonesia** Indonezio  
+**italia** Italio  
+
+**nowi** - nova; **nowia** - noveco  
+**huri** - libera; **huria** libereco
+
+Post -er, -ia signifas verkejo.
+
+**bekeria** bakejo  
+**fateria** fabrikejo  
+**sapateria** sxufabrikejo aux -vendejo
+
+#### 11.3.4 -is-
+
+**nyama** - manĝi; **nyamisa** - manĝigi  
+**jana** - koni/scii; **janisa** - konigi/sciigi  
+
+##### 11.3.5 -ul-
+
+liga - ligi ; lig**ul**a - **mal**ligi  
+suku - ŝati ; suk**ul**u - malŝati  
+bon(i) - bona ; bon**ul**(i) - malbona
 

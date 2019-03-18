@@ -1,8 +1,8 @@
-# lekse da asle
+# asle ya lekse ya pandunia
   
-pandunia da loge laya ga pol bax du dunia.
+pandunia yu loge laya da pol bax ya dunia.
   
-- afriki bax
+- afri bax
     - arabi (ara)
     - swahili (swa)
     - amari (amh)
@@ -10,7 +10,7 @@ pandunia da loge laya ga pol bax du dunia.
 - europi i ameriki bax
     - engli (eng)
     - espani (spa)
-    - portugal (por)
+    - portugali (por)
     - fransi (fra)
     - rusi (rus)
     - doici (deu)
