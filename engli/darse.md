@@ -592,9 +592,9 @@ something, even when not answering to a question.
 
 1. ki ren suku supe?
 2. pape suku.
-3. ke zaman le laya?
+3. ki zaman le laya?
 4. sa bade ya des minute.
-5. le ni nyama sabu ke?
+5. ke saba le ni nyama?
 6. sabu le ni suku kafe u supe.
 
 

@@ -218,7 +218,7 @@ Jes, mi estas bone.
 
 **eska te bon?**
 Ĉu vi fartas bone?  
-**ne, me ni bon.**
+**ni. me ni bon.**
 Ne, mi ne estas bone.
 
 Vi povas uzi **ni**
@@ -434,7 +434,7 @@ Mi volas trinki kafon.
 
 **eska te wola nyama cay?**
 Ĉu vi volas trinki teon?  
-**ne. me ni wola cay. me wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **te wola ki aple?**

@@ -146,14 +146,14 @@ C'est une femme.
 **le aple.**
 C'est une pomme.
 
-**ye**
+**le**
 est le pronom général de la troisième personne. Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
 **me salama le.**
 Je le/la salue.
 
 <small>Étymologie : **le**
-vient du Lingala "yé", en Swahili il se dit "yeye", en Chichewa "iye", en Zulu: "-ye-" et en Hindi यह  "ye".</small>
+vient du français il, le; espagnol: él, le.</small>
 
 
 
@@ -243,8 +243,8 @@ pour mettre une phrase à la forme negative.
 **le ni salama me.**
 Il/elle ne me salue pas.
 
-<small>Étymologie : **no**
-vient de l'Ukraïnien ні (ni), en Espagnol il se dit "no" et en Français "non".</small>
+<small>Étymologie : **ni**
+vient de l'Afrikaans nie, l'Ukraïnien ні (ni).</small>
 
 
 
@@ -360,22 +360,22 @@ Son nom est Sara.
 
 ### eska <small>Est-ce que, poser une question</small>
 
-**eska tu si tomas?**
+**eska te si tomas?**
 Est-ce que tu es Thomas ?
 
-**eska tu si dotor?**
+**eska te si dotor?**
 Est-ce que tu es médecin ?
 
-Astuce : Une question fermée commence fréquemment par **eska**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **mi eska tu doktar.**
+Astuce : Une question fermée commence fréquemment par **eska**. Il s’agit d’un verbe comme un autre, pas seulement d’une expression pour les questions. En réalité, la question précédente est juste la forme abrégée de **me eska te dotor.**
 (Je pose la question : es-tu médecin ?) où l’on a retiré le premier mot.
 
-**eska tu bon?**
+**eska te bon?**
 Comment ça va ? (Mot à mot : _Est-ce que tu bien ?_)  
-**mi bon.**
+**me bon.**
 Je vais bien.  
-**eska tu?**
+**eska te?**
 Et toi ?  
-**mi no bon.**
+**me ni bon.**
 Je ne vais pas bien.
 
 

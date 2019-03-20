@@ -8,7 +8,7 @@
 **salam!**
 你好！
 
-**salam subá!**
+**salam sube!**
 早上好！
 
 **salam den!**
@@ -215,7 +215,7 @@ We greet you.
 **me ni bila engli.**
 我不会英语。
 
-**pardon. me ni bila te da bax.**
+**pardon. me ni bila te yu bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
@@ -240,67 +240,4 @@ We greet you.
 
 **swahili, hausi, yorubi, amari**
 斯瓦希里语，豪萨语，约鲁巴语，阿姆哈拉语
-
-
-
-词典
------
-
-**a** 但是 <small>(俄语 _a_)</small>  
-**batú** 石头 <small>(印尼语 _batu_)</small>  
-**bazar** 市场 <small>(波斯语 _bāzār_ بازار)</small>  
-**bax** 语言 <small>(印地语 _bhāśā_ भाषा)</small>  
-**bay** 白色 <small>(普通话 _bái_ 白)</small>  
-**bon** 好 <small>(法语 _bon_)</small>  
-**cay** 茶 <small>(普通话 _chá_ 茶)</small>  
-**bita** 请 <small>(普通话 _qǐng_ 请)</small>  
-**den** 天 <small>(俄语 _den'_ день)</small>  
-**dom** 房子 <small>(俄语 _dom_ дом)</small>  
-**eska** 问，问题 <small>(法语 _est-ce que_)</small>  
-**fem** 女人 <small>(法语 _femme_)</small>  
-**ha** 有 <small>(葡萄牙语 _há_)</small>  
-**habar** 消息 <small>(马来语 _khabar_)</small>  
-**i** 和 <small>(波兰语 _i_)</small>  
-**jan** 知道  
-**jia** 家 <small>(普通话 _jiā_ 家)</small>  
-**kafe** 咖啡 <small>(德语 _Kaffee_)</small>  
-**kal** 黑色 <small>(土耳其语 _kara_)</small>  
-**kata** 切 <small>(印地语 ‎_kāṭnā_ काटना)</small>  
-**ke** 什么，谁 <small>(西班牙语 _qué_)</small>  
-**ken** 会 <small>(英语 _can_)</small>  
-**keci** 客气 <small>(普通话 _kèqi_ 客气)</small>  
-**kisa** 叙说 <small>(印尼语 _kisah_)</small>  
-**lay** 来 <small>(越南语 _lai_)</small>  
-**ma** 妈妈 <small>(普通话 _māma_ 妈妈)</small>  
-**man** 男人 <small>(英语 _man_)</small>  
-**mane** 意义 <small>(斯瓦希里语 _maana_)</small>  
-**me** 我 <small>(英语 _me_)</small>  
-**meda** 帮助 <small>(法语 _aider_)</small>  
-**mome** 我们  
-**nide** 需要 <small>(英语 _need_)</small>  
-**no** 不 <small>(西班牙语 _no_)</small>  
-**noce** 夜晚 <small>(西班牙语 _noche_)</small>  
-**nun** 现在 <small>(英语 _now_)</small>  
-**nil** 蓝色 <small>(英语 _blue_)</small>  
-**kana** 吃，喝 <small>(印地语  _khānā_)</small>  
-**pa** 爸爸 <small>(俄语 _papa_ папа)</small>  
-**pingo** 苹果 <small>(普通话 _píngguǒ_ 苹果)</small>  
-**ren** 人 <small>(普通话 _rén_ 人)</small>  
-**ros** 红色 <small>(印地语 _lal_)</small>  
-**sa** 这 <small>(海地语 _sa_)</small>  
-**safar** 旅行 <small>(阿拉伯语 _safar_ سفر)</small>  
-**salam** 你好，打招呼 <small>(阿拉伯语 _salām_ سلام)</small>  
-**si** 是 <small>(西班牙语 _sí_)</small>  
-**si** 是，对 <small>(德语 _ja_)</small>  
-**suba** 早上 <small>(Wolof _subba_)</small>  
-**te** 你 <small>(泰米尔语 _nī_ நீ)</small>  
-**tote** 你们  
-**u** 或 <small>(法语 _ou_)</small>  
-**wida** 看 <small>(俄语 _videt'_ видеть)</small>  
-**wol** 想要 <small>(意大利语 _volere_)</small>  
-**wang** 黄色 <small>(广东话 _wong_)</small>  
-**xam** 晚上 <small>(印地语 _śām_ शाम )</small>  
-**le** 他，她，它 <small>(斯瓦希利语 _yeye_)</small>  
-**lole** 他们  
-
 

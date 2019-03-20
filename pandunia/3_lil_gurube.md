@@ -25,7 +25,7 @@ bon nyam, i li boke mulu sana suy.
 
 wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
 bita me laya jung!" a lil gurube wida wolfe yu day han sa cabi kong.
-a le jawaba: "ne! ne! ne!" sa bada, wolfe xowa zi dante i loga:
+a le jawaba: "ni! ni! ni!" sa bada, wolfe xowa zi dante i loga:
 "me nafasa i me nafasa i me parca ti dom!"
 
 le nafasa i le nafasa i le parca dom! wolfe kaya boke maxim ka le
@@ -37,7 +37,7 @@ sa dur ya le fikra lole si bon nyam.
 
 le darba mun, i loga: "lil gurube! lil gurube! bita me laya jung!
 bita me laya jung!" a lil gurube wida wolfe yu koni or sa cabi kong.
-a lole jawaba: "ne! ne! ne!" wolfe xowa zi dante i loga: "me
+a lole jawaba: "ni! ni! ni!" wolfe xowa zi dante i loga: "me
 nafasa i me nafasa i me parca ti dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
@@ -58,7 +58,7 @@ le jana sam lil gurube si bon nyam.
 
 wolfe darba mun, i loga: "lil gurube! lil gurube! bita me laya
 jung! bita me laya jung!" a lil gurube wida wolfe yu lil wang yen sa
-cabi kong. a lole   : "ne! ne! ne!" wolfe xowa zi dante i
+cabi kong. a lole   : "ni! ni! ni!" wolfe xowa zi dante i
 loga: "me nafasa i me nafasa i me parca tote yu dom!"
 
 le nafasa i le nafasa. le nafasa i le nafasa. i le nafasa, i le

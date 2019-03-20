@@ -14,7 +14,7 @@ le loga day fain, i kontina:
 
 «nun me kapa te!» logu guy.
 
-«ne, ne!», logu lil buze.
+«ni, ni!», logu lil buze.
 «ni kapa me, sabu me si lil lil. mon denga lil, i jung buze wil marca, le si max day».
 «okey», logu guy.
 
@@ -27,7 +27,7 @@ le fuli ni loga fain.
 
 «nun me kapa te!» logu guy.
 
-«ne, ne! ni kapa me» logu jung buze.
+«ni, ni! ni kapa me» logu jung buze.
 «denga lil, i day buze wil marca, le si day day».
 «okey» logu guy.
 

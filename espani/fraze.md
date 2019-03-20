@@ -216,7 +216,7 @@ Sí, estoy bien.
 
 **eska te bon?**
 ¿Estás bien?  
-**ne, me ni bon.**
+**ni, me ni bon.**
 No, no estoy bien.
 
 Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
@@ -446,7 +446,7 @@ Quiero beber café.
 
 **eska te wola nyama cay?**
 ¿Te gustaría beber té? 
-**ne. me ni wola cay. me wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 No, no quiero té. Quiero café.
 
 **te wola ki aple?**

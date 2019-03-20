@@ -216,7 +216,7 @@ Tak, czuję się dobrze.
 
 **eska te bon?**
 Czy czujesz się dobrze?
-**ne, me ni bon.**
+**ni. me ni bon.**
 Nie, nie czuję się dobrze.
 
 Możesz używać **ni**
@@ -449,7 +449,7 @@ Chcę pić kawę.
 **eska te wola nyama cay?**
 Czy chcesz napić się herbaty?
 
-**ne. me ni wola cay. me wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
 **te wola ki aple?**

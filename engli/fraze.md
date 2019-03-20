@@ -215,7 +215,7 @@ Yes, I'm well.
 
 **eska te bon?**
 Are you well?  
-**ne, me ni bon.**
+**ni. me ni bon.**
 No, I'm not well.
 
 You can use **ni** to deny anything. It is placed before the word that is
@@ -444,7 +444,7 @@ I want to drink coffee.
 
 **eska te wola nyama cay?**
 Would you like to drink tea?  
-**ne. me ni wola cay. me wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 No, I don't want tea. I want coffee.
 
 **te wola ki aple?**

@@ -216,7 +216,7 @@ Kyllä, minä voin hyvin.
 
 **eska te bon.**
 Voitko hyvin?  
-**ne, me ni bon.**
+**ni. me ni bon.**
 Ei, minä en voi hyvin.
 
 Sanalla **ni**
@@ -462,7 +462,7 @@ Minä haluan juoda kahvia.
 
 **eska te wola nyama cay?**
 Haluaisitko juoda teetä.
-**ne. me ni wola cay. me wola kafe.**
+**ni. me ni wola cay. me wola kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
 **te wola ki aple?**
