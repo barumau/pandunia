@@ -8,16 +8,15 @@ rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.			a	:	but (whereas)	sed
 gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.			abace	:	alphabet	alfabeto	aakkoset (ABC)	alfabet, abecadło			字母表	алфавит	alphabet
 ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.			acente	:	accent (stress)	akcento	painotus (aksentti)	akcent, nacisk	acento				
 	made	Ac	acinium	:	actinium	aktinio	aktinium	aktyn					
-ind:ada. egy:(ʿand). 			ada	:	have	havi	omistaa (omata)	mieć			有	иметь	avoir
 			adali	:	just (fair)	justa	oikeudenmukainen	sprawiedliwy					
 ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:urd:('adālat).			adalia	:	justice	justeco	oikeus	sprawiedliwość					
-			ader	:	owner	havanto	omistaja	właściciel (posiadacz)					
 			adres	:	address	adreso	osoite	adres					
-			adu	:	belong	aparteni	kuulua (olla oma)	należeć			属于	принадлежать	appartenir à
 			adulte	:	adult	plenaĝa	aikuinen	osoba dorosła			成年人	взрослый	adulte
 	dex	AF	afgania	:	Afghanistan		Afganistan	Afganistan					
-ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.			afrike	:	Africa	Afriko	Afrikka	Afryka	África				Afrique
-			afriki	:	African	afrika	afrikkalainen	afrykański, Afrykanin					africain
+			afri	:	African	afrika	afrikkalainen	afrykański, Afrykanin					africain
+ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.			afria	:	Africa	Afriko	Afrikka	Afryka	África				Afrique
+			afrofiler	:	afrophile		afrofiili						
+			afrofilia	:	Afrophilia		afrofilia						
 eng:agression. pol:agresja			agres	:	agression (assault)	agreso	aggressio	agresja, napaść					
 rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.			aha	:	understand (realize)	kompreni	oivaltaa (tajuta)	rozumieć, pojmować					
 	made	Es	ainstainium	:	einsteinium	ejnŝtejnio	einsteinium	einstein					
@@ -320,7 +319,7 @@ zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).			cu
 			cute mun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe					
 eng:choose. + hin:चुनना "cunnā". + vie:chọn.			cuza	:	choose (elect, select)	elekti	valita	wybrać, wybierać, selekcjonować					
 			cuze	:	choice (election, selection)	elekto	valinta (vaali)	wybór, elekcja, selekcja					
-zho:有 (yǒu). hak:有 (yu). min:有 (iu). jpn:有 (yū). kor:유 (yu).			yu	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)					
+ita:da. por:da,do. fra:spa:de.			da	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od				из (от)	
 spa:por:tgl:dado. ind:swa:dadu.			dade	:	die (dice)	ĵetkubo	noppa (arpakuutio)	kość do gry					
 			daixer	:	ambassador	ambasadoro	lähettiläs	ambasador					
 			daixeria	:	embassy	ambasado	lähetystö	ambasada					
@@ -408,7 +407,6 @@ ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".			dox	:	fault (sin, bl
 eng:dose. rus:"doza".			doze	:	portion (dose)	porcio (dozo)	annos	porcja, dawka					
 			drame	:	drama	dramo	draama	dramat					
 eng:drug. spa:droga. fra:drogue. deu:Droge.			droge	:	drug (intoxicating substance)		huume	narkotyk					
-lin:kon:ktu:ya. swa:-a. amh:(yə-). per:(-e, -ye).			ya	:	of (particle of possession)	de (partiklo de posedo)	omistetun omistajaan liittävä partikkeli	z (partykuła posiadania)					
 	made	Db	dubnium	:	dubnium	dubnio	dubnium	dubn					
 zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".			duga	:	read	legi	lukea	czytać					
 			duka	:	grieve	lamenti	surra (murehtia)	martwić					
@@ -476,6 +474,9 @@ zho:发展 "fāzhǎn". vie:phát triển. kor:발전 "bajjeon".			fajan	:	develo
 eng:false. spa:por:falso. fra:faux. deu:falsch.			falsi	:	false (fake)		väärä (epätosi, vale-)	fałszywy, nieprawdziwy					
 eng:family. spa:familia. por:família. fra:famille.			famil	:	family	familio	perhe	rodzina					
 			famil nam	:	surname (family name)	familinomo	sukunimi	nazwisko, imię rodziny					
+eng:fun.			fan	:	fun (amusement)	amuzo	huvi (hauskuus)	zabawa, rozrywka					
+			fana	:	amuse (entertain)	amuzi	viihdyttää (huvittaa)	bawić, zabawiać					
+			fani	:	funny (amusing)	amuza	hauska (huvittava)	zabawny					
 			fantaza	:	imagine (fantasize)	fantaci	kuvitella	wyobrazić, wyobrażać, fantazjować					
 			fantaze	:	fantasy (imagination)	fantazio	mielikuvitus (fantasia)	fantazja (wyobrażenie, wyobraźnia)					
 			fantazi	:	fantastic (imaginary)	fantazia	mielikuvituksekas (fantastinen)	fantastyczny, fantazyjny					
@@ -518,6 +519,9 @@ swa:mafuta. rwa:mavuta. kon:mafuta.			fete	:	fat (grease)	graso	rasva (öljy)	t�
 			fikra	:	think (ponder, reflect)	pensi	ajatella (miettiä)	myśleć, dumać, rozmyślać, zastanawiać się, rozważać					
 ara:(fikr). per:(fekr). tur:fikir. ind:pikir. hin:(fikr).			fikre	:	thought (idea)	penso	ajatus	myśl, pomysł					
 			fiksa	:	fix (attach)	fiksi	kiinnittää	przyczepić, przymocować					
+			fila	:	like		tykätä (pitää)						
+eng:fra:-phile. por:spa:-filo.			filer	:	fan (-phile)		fani (-fiili)						
+			filia	:	attraction (-philia)		tykkääminen						
 	dex	PH	filipinia	:	Philippines	Filipinoj	Filippiinit	Filipiny					
 	dex	PS	filistinia	:	Palestinian Territory		Palestiina	Terytorium Palestyńskie					
 			filme	:	film	filmo	filmi	film					
@@ -574,7 +578,6 @@ fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:
 eng:fury. spa:pol:furia. por:fúria.			furia	:	anger (fury, rage, wrath)	kolero (furiozo)	viha (suuttumus, raivo)	gniew, furia					
 			futobol	:	football	piedpilko	jalkapallo	piłka nożna					
 			fuy	:	bah! (yuck!)	bah!	hyi! (pyh!)	fu, fuj					
-ita:da. por:da,do. fra:spa:de.			da	:	from (since, because)	de (el, pro)	lähtien (-sta, -lta)	z, od				из (от)	
 ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).			gabre	:	grave (tomb)	tombo	hauta	grób, mogiła, grobowiec					
 			gabristan	:	graveyard	tombejo	hautausmaa	cmentarz					
 	dex	GA	gabun	:	Gabon		Gabon	Gabon					
@@ -1088,7 +1091,7 @@ fra:deu:lampe. eng:lamp. ind:lampu.			lampe	:	lamp	lampo	lamppu	lampa
 zho:栏杆 (lángān). jpn:欄干 (rankan). kor:난간 (nan-gan).			langan	:	banister (handrail)		kaide (reelinki)	poręcz (balustrada)					
 	dex	LK	lankia	:	Sri Lanka (Ceylon)		Sri Lanka	Sri Lanka					
 eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "rantan". kor:랜턴 "raenteon". + zho:灯笼 "dēnglóng". vie:đèn lồng. may:tanglung.			lanten	:	lantern	lanterno	lyhty	latarnia					
-			larwa	:	larva (maggot, caterpillar)		toukka	larwa, czerw, gąsienica					
+deu:fra:larve. eng:tur:larva. hin:लार्वा (lārvā). urd:(lārvā). pol:larwa.			larwe	:	larva (maggot, caterpillar)		toukka	larwa, czerw, gąsienica					
 			lasti	:	elastic		joustava (elastinen)	elastyczny					
 			lasun	:	garlic		valkosipuli	larwa, czerw, gąsienica					
 			latif	:	nice (pleasant, lovely)		mukava (kiva)	miły, przyjemny, uroczy					
@@ -1139,6 +1142,7 @@ zho:萝卜 "luóbo". yue:蘿蔔 "lobaak". ind:lobak.			lobak	:	radish		retikka (
 ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:lügat. ind:logat.			loge	:	speech (word)	parolo (vortoj)	puhe (sanat)	mowa; słowo					
 			loge liste	:	word list	vortaro	sanaluettelo	lista słów					
 eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			logike	:	logic (deduction)	logiko	logiikka	logika, dedukcja					
+			logofiler	:	logophile (word buff)		logofiili						
 			loja	:	research (to study)		tutkia (opiskella)	badać, studiować					
 eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie					
 			loka	:	locate (place)		sijoittaa (panna paikalleen)	umieścić (postawić)					
@@ -1249,9 +1253,7 @@ spa: mayoría.			maxoria	:	majority		enemmistö	większość
 			maya'	:	Maya	majao	maya (mayaintiaani)	Maya					
 	dex	YT	mayote	:	Mayotte		Mayotte	Majotta					
 			mayu	:	melt (get molten)		sulaa	stopić się, topić się, stawać się płynnym					
-			maza	:	amuse (entertain)	amuzi	viihdyttää (huvittaa)	bawić, zabawiać					
-hin:मज़ा (mazā). urd:(mazā). per:(maze). ben:মজা (môja). + ara:(maðāq).			maze	:	fun (amusement)	amuzo	huvi (hauskuus)	zabawa, rozrywka					
-			mazi	:	funny (amusing)	amuza	hauska (huvittava)	zabawny					
+			me	:	I (me)	mi	minä	ja, mnie			我		
 			mece	:	compete (have a match)		otella	konkurować, rywalizować; odbyć mecz, odbywać mecz					
 eng:fra:match. hin:मैच (mɛc). pol:mecz. ron:meci. hun:meccs. rus:матч (matč). tur:maç.			mece	:	match (contest)		ottelu (matsi)	mecz, rywalizacja			比赛		
 			medal	:	medallion (medal)		mitali	medalion, medal					
@@ -1301,8 +1303,7 @@ zho:每 (měi). wuu:每 (me). vie:mọi. kor:매 (mae).			mey	:	every (each)	ĉi
 			mey xey	:	everything		jokainen asia	wszystko					
 			mey zaman	:	always	ĉiam	aina	zawsze					
 tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.			meze	:	table	tablo	pöytä	stół					
-			mi	:	I (me)	mi	minä	ja, mnie			我		
-			mi da	:	my	mia	minun	mój					
+			mi	:	my	mia	minun	mój					
 			micin	:	MSG (monosodium glutamate)		natriumglutamaatti	glutaminian sodu					
 zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi).			mien	:	noodle	nudelo	nuudeli	makaron					
 			migan	:	mandarin orange	mandarino	mandariini	mandarynka					
@@ -1966,6 +1967,10 @@ zho:松 "sōng". wuu:"son". tha:สน "sǒn". kor:솔 "sol". vie:thông. + rus:
 eng:fra:sauce. rus:соус "sous". hin:सॉस "sos". deu:Soße. vie:xốt. jpn:ソース "sōsu". that:ซอส "soot". kor:소스 "soseu". ind:saus.			sos	:	sauce	saŭco	kastike (soosi)	sos					
 fra:saucisse. tur:ind:sosis. per:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.			sosis	:	sausage	kolbaso	makkara	kiełbasa					
 	dex	LS	soto	:	Lesotho		Lesoto	Lesotho					
+			soya	:	have (own, possess)		omistaa	mieć			有	иметь	avoir
+zho:所有 (suǒyǒu). jpn:所有 (shoyū). kor:소유 (soyu). vie:sở hữu.			soye	:	property (belongings, possessions)		omaisuus						
+			soyer	:	owner (proprietor)	havanto	omistaja	właściciel (posiadacz)					
+			soyu	:	belong	aparteni	kuulua (olla oma)	należeć			属于	принадлежать	appartenir à
 zho:酸 (suān).			suan	:	sour	acida	hapan (kirpeä)	kwaśny					
 ara:(ṣabāḥ). tur:sabah. per:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.			sube	:	morning (dawn)	mateno	aamu	ranek, rano, poranek					
 			sube den	:	forenoon			przedpołudnie					
@@ -2002,6 +2007,8 @@ eng:surprise. tur:sürpriz. per:(surpris). rus::сюрприз (siurpriz). por:s
 	dex	SY	suria	:	Syria		Syyria	Syria					
 	dex	SR	surinam	:	Suriname		Surinam	Surinam					
 			surinam bax	:	Sranan Tongo		sranan tongo	język surinamski					
+hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.			suta	:	sew		ommella						
+fra:eng:suture. por:spa:sutura.			sutur	:	suture (seam)		sauma (ommel)						
 			suxe	:	sushi	suŝio	sushi	sushi					
 zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda					
 			suy rang	:	watercolor		vesiväri (akvarelliväri)	akwarela, farba wodna					
@@ -2056,18 +2063,18 @@ hun:te. rus:ты (ty). fra:ita:spa:te.			te	:	you	vi (ci)	sinä	ty, ciebie			你
 			tele	:	distance	malproksimeco	etäisyys (kaukaisuus)	dystans					
 			telofon	:	telephone	telefono	puhelin	telefon			电话机	телефон	téléphone
 			telowide	:	television	televidilo	televisio	telewizja			电视机	телевизор	téléviseur
-	nas		telugu'	:	Telugu		telugu (eräs intialainen kieli)	telugu					
+	nas		telugi	:	Telugu		telugu (eräs intialainen kieli)	telugu					
 	made	Te	telurium	:	tellurium	teluro		tellur					
 fra: thème. spa: tema. rus: тема /tema/.			tem	:	topic (subject, theme)	temo	aihe (teema)	temat, motyw			主题目	тема	sujet (thème)
 			tema	:	be about (discuss as a subject)	esti pri; pridiskuti	aiheesta (-sta)	być o; dyskutować o					
 			ten	:	content		sisältö	treść (zawartość)					
-			ten liste	:	table of contents		sisällysluettelo	spis treści (tabela zawartości)					
 			tena	:	hold (keep, contain)	teni	pitää (säilyttää)	trzymać					
 ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.			tende	:	tent	tendo	teltta	namiot			帐篷	палатка (шатёр)	tente
 			tener	:	holder (container)		säiliö	uchwyt (pojemnik)					
 	made	Ts	tenesin	:	tennessine	teneso		tenesyn, tennessine					
 			tenis	:	tennis	teniso	tennis	tenis					
 zho:天气 (tiănqì). jpn:天気 (tenki). 			tenke	:	weather	vetero	sää	pogoda					
+			tenoliste	:	table of contents		sisällysluettelo	spis treści (tabela zawartości)					
 			tenta	:	tempt (entice)		houkutella	kusić, nakłonić, nakłaniać					
 			teoria	:	theory	teorio	teoria	teoria					
 eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	taśma				лента	ruban (bande)
@@ -2081,6 +2088,7 @@ eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	ta
 eng:thesis. fra:thèse. spa:tesis.			tese	:	argument (thesis)		väite (teesi)	argument, teza			论据	довод	argument
 eng:test. rus: тест (test).			teste	:	test (challenge, trial)	testo	koe (testi, koettelemus)	test, wyzwanie, próba			化验	анализ (тест)	épreuve (test)
 hin:तेज़ (tez). urd:(tez). per:(tiz). aze:uzb:tez. kaz:тез (tez).			tezi	:	intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)		kiihkeä (väkevä, voimakas, vahva, kova)	intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)					
+			ti	:	your	via (cia)	sinun						
 			ticin	:	bow instrument (violin, etc.)		jousisoitin	chordofon, instrument strunowy					
 per:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).			tike	:	tikka (piece)		pala	tikka					
 			tike masal	:	tikka masala		tikka masala	tikka masala					
@@ -2277,6 +2285,7 @@ zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).			xule	:	repair (f
 zho:术 (shù). yue:術 (seot6). jpn:術 (jutsu). kor:술 (sul).			xute	:	skill (art, competence)		taito	umiejętność (kompetencja)			技术		
 			xuti	:	skillful		taitava	umiejętny (wprawny)					
 zho:休息 (xiūxí). kor:휴식 (hyusig).			xuxe	:	rest (relief)		lepo	zostawić, zostawiać					
+lin:kon:ktu:ya. swa:-a. amh:(yə-). per:(-e, -ye).			ya	:	of (particle of possession)	de (partiklo de posedo)	omistetun omistajaan liittävä partikkeli	z (partykuła posiadania)					
 			yada	:	remember (recall)		muistaa	pamiętać				память	
 hin:याद (yād). guj:યાદ (yād). per:urd:(yād). aze:yad. tkm: ýaad.			yade	:	memory (recollection)		muisti	pamięć					
 			yaga	:	estimate (approximate)		arvioida	oszacować, szacować, przybliżyć, przybliżać					
@@ -2304,6 +2313,7 @@ zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).	
 			yone	:	vagina	vagino	vagina	wagina					
 			yosay	:	fortress (stronghold)		linnake	forteca, twierdza					
 tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).			yote	:	drop (droplet)		pisara (tippa)	kropla					
+zho:有 (yǒu). hak:有 (yu). min:有 (iu). jpn:有 (yū). kor:유 (yu).			yu	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)					
 rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).			yumor	:	humor	humuro	huumori	humor				юмор	
 			yumori	:	humorous (comical, funny)	humura	koominen (hauska)	humorystyczny, śmieszny, zabawny, komiczny					
 			yumoriste	:	humorist	humuristo	humoristi	komik					

@@ -13,8 +13,10 @@ aatteen kannattaja : iste
 aavikko (hiekkaerämaa) : registan  
 adjektiivi (laatusana) : sifi lekse  
 Afganistan : afgania  
-Afrikka : afrike  
-afrikkalainen : afriki  
+Afrikka : afria  
+afrikkalainen : afri  
+afrofiili : afrofiler  
+afrofilia : afrofilia  
 aggressio : agres  
 Ahvenanmaa (Oolanti) : olandia  
 ai! (au!) : ay  
@@ -262,6 +264,7 @@ europium : europium
 evankeliumi : anjil  
 ##f  
 Falklandin saaret : malvina nesia  
+fani (-fiili) : filer  
 fasismi : faxistia  
 fasisti : faxiste  
 fermium : fermium  
@@ -339,7 +342,7 @@ harrastus : hobe
 harso : gaze  
 hasium : hasium  
 haureus : zine  
-hauska (huvittava) : mazi  
+hauska (huvittava) : fani  
 hauta : gabre  
 hautausmaa : gabristan  
 he : lole  
@@ -422,7 +425,7 @@ huuli : labe
 huume : droge  
 huumori : yumor  
 huutaa : krita  
-huvi (hauskuus) : maze  
+huvi (hauskuus) : fan  
 hyi! (pyh!) : fuy  
 hylkiö (paaria) : paraye  
 hyrrä : tolo  
@@ -852,7 +855,7 @@ Kuuba : kuba
 kuukausi : mes  
 kuulla (kuunnella) : auda  
 kuulua (olla jäsenenä) : memba  
-kuulua (olla oma) : adu  
+kuulua (olla oma) : soyu  
 kuume : feber  
 kuura : himorose  
 kuusi (6) : sis  
@@ -986,6 +989,7 @@ litra : litre
 litteä : ping  
 litši : lice  
 logiikka : logike  
+logofiili : logofiler  
 lokakuu : mes 10 (mes des)  
 lokikirja : deftobuke  
 loma : feria  
@@ -1161,9 +1165,9 @@ milloin? (koska?) : ki zaman
 minimalismi : minimalistia  
 ministeri : minister  
 ministeriö : ministeria  
-minun : mi da  
+minun : mi  
 minuutti : minut  
-minä : mi  
+minä : me  
 missä? : sa ke  
 mitali : medal  
 mitata : meta  
@@ -1328,11 +1332,13 @@ olla olemassa : zayu
 olla samaa mieltä : amena  
 olla väliä (olla tärkeä) : importu  
 olut (kalja) : bir  
+omaisuus : soye  
 Oman : oman  
 omena : aple  
-omistaa (omata) : ada  
-omistaja : ader  
+omistaa : soya  
+omistaja : soyer  
 omistetun omistajaan liittävä partikkeli : ya  
+ommella : suta  
 ongelma : problem  
 onnitella (siunata) : barka  
 opettaja : darsogur  
@@ -1723,6 +1729,7 @@ sattuma (onni) : zar
 sattumanvarainen : zari  
 satuttaa : paxa  
 Saudi Arabia : saudi arabia  
+sauma (ommel) : sutur  
 sauna : sauna  
 savu : duman  
 savuke tai sikari : sigar  
@@ -1777,12 +1784,13 @@ Singapore : singapur
 sininen : nil  
 sinkki : zinke  
 sintolaisuus : xindawistia  
+sinun : ti  
 sinä : te  
 Siperia : sibir  
 sisarus (veli tai sisko) : saudar  
 sisus (sisäpuoli) : inde  
 sisä- (sisäinen) : indi  
-sisällysluettelo : ten liste  
+sisällysluettelo : tenoliste  
 sisältö : ten  
 sisäsyntyinen : indi jeni  
 sitoa : benda  
@@ -1960,7 +1968,7 @@ teko : fate
 teko : fe  
 televisio : telowide  
 teltta : tende  
-telugu (eräs intialainen kieli) : telugu'  
+telugu (eräs intialainen kieli) : telugi  
 tennis : tenis  
 teokratia : dewokratia  
 teologia : dewolojia  
@@ -2004,7 +2012,7 @@ torstai : war 4 (war car)
 torvi (torvisoitin) : buge  
 tosi (aito) : jin  
 totaalinen (kaikkia koskeva) :   
-toukka : larwa  
+toukka : larwe  
 toukokuu : mes 5 (mes lim)  
 trendi : faxon  
 Trinidad ja Tobago : trinida i tobago  
@@ -2045,6 +2053,8 @@ Tuvalu : tuvalu'
 tyhjä : hali  
 tykki (pyssy) : kanon  
 tykkimies : kanoner  
+tykkääminen : filia  
+tykätä (pitää) : fila  
 tynnyri (tölkki) : tong  
 typpi : nitre  
 tyranni : tiran  
@@ -2194,7 +2204,7 @@ viha (suuttumus, raivo) : furia
 viha : hen  
 vihainen (suuttunut) : furi  
 vihreä : berdi  
-viihdyttää (huvittaa) : maza  
+viihdyttää (huvittaa) : fana  
 viikko : set war  
 viikonpäivä : war  
 viimeinen : fini  

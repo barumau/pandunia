@@ -1,15 +1,15 @@
-# lil urse yu dante tung
+# lil urse ya dante tung
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
 un sube urse mame wola cuta pa bazar.
-le loga pa lil urse: "ni nyama kande i keke sa dura ya me sa bazar."
+le loga pa lil urse: "ni nyama kande i keke sa dura yu me sa bazar."
 lil urse loga: "si, si, mame! me jana le. me day urse. bita cuta way!"
 urse mame loga "salam" i le cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse sa mon. le fikra: "zay me bila fata eni xey ya me wola!"
+lil urse sa mon. le fikra: "zay me bila fata eni xey yu me wola!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
@@ -30,7 +30,7 @@ a le yada: "a! mame loga me ni nyama kande." lil urse ni nyama kande.
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
 lil urse wida mel pote sa alter almari. le fikra
-"mame loga nul xey ya tema mel. me bila nyama mel!"
+"mame loga nul xey yu tema mel. me bila nyama mel!"
 lil urse sida sa kurse i le nyama lil mel. mel bon gusta!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_07.png)
@@ -39,16 +39,16 @@ lil urse nyama pan mel.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bada, lil urse senta ni jana yu sente sa boke. li dante tung!
+bada, lil urse senta ni jana ya sente sa boke. li dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-le geta tele fon. le loga: "haló! eska te si dante dotor? bita laya pa me! me ada tung dante!"
+le geta tele fon. le loga: "halo'! eska te si dante dotor? bita laya pa me! me soya tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
-dotor laya pa urse famil yu dom. le loga: "eska te nida helpe?"
-lil urse loga: "si! me ada tung dante!"
+dotor laya pa urse famil ya dom. le loga: "eska te nida helpe?"
+lil urse loga: "si! me soya tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 
@@ -57,7 +57,7 @@ dotor bita lil urse sidu sa kurse i kaya boke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
-dotor juxa medike pa dante manse sa jin ya mal dante. lil urse ni senta tung da zay.
+dotor juxa medike pa dante manse sa jin yu mal dante. lil urse ni senta tung da zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 

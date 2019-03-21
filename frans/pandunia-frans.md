@@ -1,10 +1,8 @@
 ##a  
 abace : alphabet  
-ada : avoir  
-adu : appartenir à  
 adulte : adulte  
-afrike : Afrique  
-afriki : africain  
+afri : africain  
+afria : Afrique  
 ajil : agile  
 akse : axe  
 ali : autre  
@@ -60,6 +58,8 @@ pike : cime (pic, sommet)
 piratia : piraterie  
 ##r  
 ##s  
+soya : avoir  
+soyu : appartenir à  
 ##t  
 tarje : traduction  
 tazi : frais  

@@ -312,7 +312,7 @@ Adjectives are questioned with **ki**.
 
 **ki day?** - How big?  
 **ki lil?** - How small?  
-**ki day yu maw te ada?** - How big cat do you have?
+**ki day ya maw te soya?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ dependant clauses.
 
 Examples:  
 **ke te wida?** - What do you see?  
-**me nyama pang, ya te beka.** - I eat bread _that you baked._
+**me nyama pang, yu te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -536,10 +536,10 @@ Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
 
 The agent can be mentioned after the verb with or without the
-preposition **ya**.
+preposition **yu**.
 
 **te widu me.** - You are seen by me.  
-**te widu ya me.** - You are seen by me.
+**te widu yu me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
@@ -683,27 +683,27 @@ verb, not the whole question.
 
 ### 9.2. Modifier particles
 
-Particles **yu** and **ya** are used to mark possession and
-modification.  **yu** connects the modifying word or phrase to the
-modified word. **ya** works in the opposite direction. It connects the
+Particles **ya** and **yu** are used to mark possession and
+modification.  **ya** connects the modifying word or phrase to the
+modified word. **yu** works in the opposite direction. It connects the
 modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **yu** works like apostrophe-s ('s) in
+With regards to possession, **ya** works like apostrophe-s ('s) in
 English.
 
-**maria yu mame** - Maria's mother  
-**me yu dom** - my house  
-**me yu pape yu dom** - my father's house
+**maria ya mame** - Maria's mother  
+**me ya dom** - my house  
+**me ya pape ya dom** - my father's house
 
-**ya** works like "of" in English.
+**yu** works like "of" in English.
 
-**mame ya maria** - the mother of Maria  
-**dom ya me** - the house of mine  
-**dom ya pape ya me** - the house of the father of mine
+**mame yu maria** - the mother of Maria  
+**dom yu me** - the house of mine  
+**dom yu pape yu me** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -714,49 +714,49 @@ the particle makes it clear in which end the main noun is.
 The modifier particles are useful for creating complex adjectives that
 consists of two or more words.
 
-**roze rang yu labe** - rose-colored lips  
-**saman rang yu yen** - sky-colored eyes
+**roze rang ya labe** - rose-colored lips  
+**saman rang ya yen** - sky-colored eyes
 
 Or in the opposite order:
 
-**labe ya roze rang** - lips of the color of the rose  
-**yen ya saman rang** - eyes of the color of the sky
+**labe yu roze rang** - lips of the color of the rose  
+**yen yu saman rang** - eyes of the color of the sky
 
 The particles help in creating measure words too.
  
-**un sake yu patate** - one sack of potatos  
-**dul sake yu patate** - two sacks of potatos  
-**max sake yu patate** - more sacks of potatos
+**un sake ya patate** - one sack of potatos  
+**dul sake ya patate** - two sacks of potatos  
+**max sake ya patate** - more sacks of potatos
  
-Note that **yu** and **ya** connect phrases together. So a modifier
-phrase with and without **yu** can mean a different thing.
+Note that **ya** and **yu** connect phrases together. So a modifier
+phrase with and without **ya** can mean a different thing.
 
 **max sundar pul** - more beautiful flowers  
-**max yu sundar pul** - more of beautiful flowers
+**max ya sundar pul** - more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **ya** has a similar role as English relative pronouns _which_,
+Here **yu** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-**le si man _ya me wida_.** - He is the man _that I saw_.
+**le si man _yu me wida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me wida man _ya nyama aple_.** - I see a man _who eats apples_.  
+**me wida man _yu nyama aple_.** - I see a man _who eats apples_.  
 
-It's possible to construct relative clauses with **yu** too. Then the
+It's possible to construct relative clauses with **ya** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
-into a modifier by putting **yu** immediately after the verb.
+into a modifier by putting **ya** immediately after the verb.
 
-**me wida _aple nyamu yu_ man.** - I see an _apple-eating_ man.
+**me wida _aple nyamu ya_ man.** - I see an _apple-eating_ man.
 
-**buke dugu yu ren sa kamar.** = The book-reading person is in the room.  
-**le duga yu buke sa meze.** = The book, that he/she reads, is on the table.
+**buke dugu ya ren sa kamar.** = The book-reading person is in the room.  
+**le duga ya buke sa meze.** = The book, that he/she reads, is on the table.
 
 ### 9.3. Modal Particles
 
@@ -786,18 +786,18 @@ if needed. The general time words are **pas** (past), **zay**
 (present) and **wil** (future, upcoming). They function like
 adjectives and adverbs, so typically their place is before the verb.
 
-**me pas ada maw.** - I had cats.
-**a me ni zay ada maw.** - But I now don't have cats.
-**munkin me wil ada maw.** - Maybe I will have cats.
+**me pas soya maw.** - I had cats.
+**a me ni zay soya maw.** - But I now don't have cats.
+**munkin me wil soya maw.** - Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the
 past) etc.
 
-**me ada maw sa pase.** - I had cats in the past.  
-**a me ni ada maw sa zaye.** - But I don't have cats at present.  
-**munkin me ada maw sa wile.** - Maybe I will have cats in the future.
+**me soya maw sa pase.** - I had cats in the past.  
+**a me ni soya maw sa zaye.** - But I don't have cats at present.  
+**munkin me soya maw sa wile.** - Maybe I will have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **ada** stayed the same in
+Note! Verbs are not conjugated. So the verb **soya** stayed the same in
 all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it
@@ -1176,7 +1176,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me wida ren, ya te jana.** (I saw the person _whom you know_.) The
+**me wida ren, yu te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1267,7 +1267,7 @@ In Pandunia, structure words share the following characteristics:
 | 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
 | 7| Negation / lack / absence | **na**<br>without      |                        | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
 | 8| Affirmation / presence    |**sa**<br>with, by, at  |                        | **si**<br>yes          |                        | **su**                 |
-| 9| Belonging                 | **ya**<br>of           |                        |                        |                        | **yu**<br>'s           |
+| 9| Possession                | **yu**<br>'s           |                        |                        |                        | **ya**<br>of           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
 |11| Origin                    | **da**<br>from, since  |                        |                        |                        | **du**                 |
 
@@ -1308,7 +1308,7 @@ central is as follows.
 
 1. Structure words
     1. Conjunctions: i, u, a
-    2. Connectors: yu, ya
+    2. Connectors: ya, yu
     3. Prepositions and postpositions: na, sa, pa, da; nu, su, pu, gu
     4. Pronouns
 2. Content words

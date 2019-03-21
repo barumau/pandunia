@@ -1,7 +1,5 @@
 ##a  
 abace : 字母表  
-ada : 有  
-adu : 属于  
 adulte : 成年人  
 ajil : 灵活的  
 akse : 轴线  
@@ -68,10 +66,10 @@ lole : 他们
 mame : 妈妈  
 matur fem : 女人  
 matur man : 男人  
+me : 我  
 mece : 比赛  
 mene : 意义  
 metalojanger : 铁匠  
-mi : 我  
 moke : 木材  
 mokojanger : 木匠  
 mome : 我们  
@@ -90,6 +88,8 @@ pulte : 桥
 sabze : 蔬菜  
 sol : 太阳  
 solosistem : 太阳系  
+soya : 有  
+soyu : 属于  
 supris : 惊奇  
 ##t  
 tarje : 翻译  

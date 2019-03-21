@@ -10,16 +10,13 @@ a : ale, lecz
 abace : alfabet, abecadło  
 acente : akcent, nacisk  
 acinium : aktyn  
-ada : mieć  
 adali : sprawiedliwy  
 adalia : sprawiedliwość  
-ader : właściciel (posiadacz)  
 adres : adres  
-adu : należeć  
 adulte : osoba dorosła  
 afgania : Afganistan  
-afrike : Afryka  
-afriki : afrykański, Afrykanin  
+afri : afrykański, Afrykanin  
+afria : Afryka  
 agres : agresja, napaść  
 aha : rozumieć, pojmować  
 ainstainium : einstein  
@@ -482,6 +479,9 @@ fajan : rozwój
 falsi : fałszywy, nieprawdziwy  
 famil nam : nazwisko, imię rodziny  
 famil : rodzina  
+fan : zabawa, rozrywka  
+fana : bawić, zabawiać  
+fani : zabawny  
 fantaza : wyobrazić, wyobrażać, fantazjować  
 fantaze : fantazja (wyobrażenie, wyobraźnia)  
 fantazi : fantastyczny, fantazyjny  
@@ -1099,7 +1099,7 @@ lanca : rzucić, rzucać, miotać, cisnąć, ciskać
 langan : poręcz (balustrada)  
 lankia : Sri Lanka  
 lanten : latarnia  
-larwa : larwa, czerw, gąsienica  
+larwe : larwa, czerw, gąsienica  
 lasti : elastyczny  
 lasun : larwa, czerw, gąsienica  
 latif : miły, przyjemny, uroczy  
@@ -1261,9 +1261,7 @@ maya' : Maya
 maya : stopić, topić, czynić płynnym  
 mayote : Majotta  
 mayu : stopić się, topić się, stawać się płynnym  
-maza : bawić, zabawiać  
-maze : zabawa, rozrywka  
-mazi : zabawny  
+me : ja, mnie  
 mece : konkurować, rywalizować; odbyć mecz, odbywać mecz  
 mece : mecz, rywalizacja  
 medal : medalion, medal  
@@ -1313,8 +1311,7 @@ mey xey : wszystko
 mey zaman : zawsze  
 mey : każdy, wszyscy  
 meze : stół  
-mi da : mój  
-mi : ja, mnie  
+mi : mój  
 micin : glutaminian sodu  
 mien : makaron  
 migan : mandarynka  
@@ -1983,6 +1980,9 @@ song : sosna
 sos : sos  
 sosis : kiełbasa  
 soto : Lesotho  
+soya : mieć  
+soyer : właściciel (posiadacz)  
+soyu : należeć  
 suan : kwaśny  
 sube den : przedpołudnie  
 sube nyam : śniadanie  
@@ -2074,11 +2074,10 @@ tel : daleki, odległy
 tele : dystans  
 telofon : telefon  
 telowide : telewizja  
-telugu' : telugu  
+telugi : telugu  
 telurium : tellur  
 tem : temat, motyw  
 tema : być o; dyskutować o  
-ten liste : spis treści (tabela zawartości)  
 ten : treść (zawartość)  
 tena : trzymać  
 tende : namiot  
@@ -2086,6 +2085,7 @@ tener : uchwyt (pojemnik)
 tenesin : tenesyn, tennessine  
 tenis : tenis  
 tenke : pogoda  
+tenoliste : spis treści (tabela zawartości)  
 tenta : kusić, nakłonić, nakłaniać  
 teoria : teoria  
 tepe : taśma  

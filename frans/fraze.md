@@ -326,18 +326,18 @@ C'est rouge.
 
 
 
-### yu <small>possessif</small>
+### ya <small>possessif</small>
 
-**le si me yu mame.**
+**le si me ya mame.**
 C’est ma mère.
 
-**le si me yu man.**
+**le si me ya man.**
 C’est mon mari (mon homme).
 
-**le si me yu fem.**
+**le si me ya fem.**
 C’est ma femme.
 
-**me si sara yu doste.**
+**me si sara ya doste.**
 Je suis l’ami de Sara.
 
 
@@ -638,7 +638,7 @@ Je parle un peu pandunia.
 **me ni bila engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni bila te ya bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -675,7 +675,7 @@ Parlez plus fort, s’il vous plait.
 **me auda musike.**
 J’écoute de la musique.
 
-**te auda ki yang yu musike?**
+**te auda ki yang ya musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -702,7 +702,7 @@ Que veut dire ce mot ?
 **"maw" mena ke?**
 Que signifie « mau » ?
 
-**le mena yang ya hewan.**
+**le mena yang yu hewan.**
 Ça signifie un genre d’animal.
 
 **me ni aha le mena ke.**

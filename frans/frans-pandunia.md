@@ -1,8 +1,8 @@
 : : abace : alphabet  
 ##a  
 adulte : adulte  
-africain : afriki  
-Afrique : afrike  
+africain : afri  
+Afrique : afria  
 agile : ajil  
 aimer : ama  
 aire (superficie) : are  
@@ -14,7 +14,7 @@ analyser : analisa
 animation : anime  
 antenne : anten  
 anus : anus  
-appartenir à : adu  
+appartenir à : soyu  
 argument : tese  
 art : arte  
 artiste : arter  
@@ -22,7 +22,7 @@ asiatique : asi
 Asie : asia  
 autel : altar  
 autre : ali  
-avoir : ada  
+avoir : soya  
 axe : akse  
 ##b  
 bain : banye  

@@ -38,9 +38,8 @@ a ← rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.
 ##a  
 abace ← gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.  
 acente ← ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.  
-ada ← ind:ada. egy:(ʿand).   
 adalia ← ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:urd:('adālat).  
-afrike ← ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.  
+afria ← ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.  
 agres ← eng:agression. pol:agresja  
 aha ← rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.  
 akse ← eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.  
@@ -227,6 +226,7 @@ faide ← ara:"fāʾida". tur:fayda.
 fajan ← zho:发展 "fāzhǎn". vie:phát triển. kor:발전 "bajjeon".  
 falsi ← eng:false. spa:por:falso. fra:faux. deu:falsch.  
 famil ← eng:family. spa:familia. por:família. fra:famille.  
+fan ← eng:fun.  
 faru ← swa:kifaru. kon:kifalu.  
 fasin ← eng:fascination. spa:fascinación. deu:Faszination.  
 fata ← ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.  
@@ -239,6 +239,7 @@ feria ← spa:feria. por:féria. fra:férié. deu:Ferien. eng:fair.
 feste ← eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".  
 fete ← swa:mafuta. rwa:mavuta. kon:mafuta.  
 fikre ← ara:(fikr). per:(fekr). tur:fikir. ind:pikir. hin:(fikr).  
+filer ← eng:fra:-phile. por:spa:-filo.  
 filsofia ← spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.  
 fin ← spa: fin. fra: fin. por: fim.  
 fix ← eng:fish. deu:Fisch.  
@@ -438,6 +439,7 @@ lala ← swa:-lala.
 lampe ← fra:deu:lampe. eng:lamp. ind:lampu.  
 langan ← zho:栏杆 (lángān). jpn:欄干 (rankan). kor:난간 (nan-gan).  
 lanten ← eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "rantan". kor:랜턴 "raenteon". + zho:灯笼 "dēnglóng". vie:đèn lồng. may:tanglung.  
+larwe ← deu:fra:larve. eng:tur:larva. hin:लार्वा (lārvā). urd:(lārvā). pol:larwa.  
 laya ← vie: lại. zho: 来 "lái".  
 leng ← zho: 冷 (lěng). vie: lạnh.  
 lete ← fra:l'été. rus:лето (leto). cze:léto. scr:leto.  
@@ -484,7 +486,6 @@ max ← spa: mas. por: mais. eng: max-.
 maxin ← fra: machine. eng: machine. deu: Maschine. ind: mesin.  
 maxor ← fra: majeur. eng: major. spa: mayor.  
 maxoria ← spa: mayoría.  
-maze ← hin:मज़ा (mazā). urd:(mazā). per:(maze). ben:মজা (môja). + ara:(maðāq).  
 mece ← eng:fra:match. hin:मैच (mɛc). pol:mecz. ron:meci. hun:meccs. rus:матч (matč). tur:maç.  
 mel ← por:mel. fra:spa:miel. ell:μέλι (méli).  
 mem ← tur:mem. mon:мээм (meem).  
@@ -679,6 +680,7 @@ sonde ← eng:sound,sonic. fra:son. spa:son,sonido. ita:suono. + kor:소리 "sor
 song ← zho:松 "sōng". wuu:"son". tha:สน "sǒn". kor:솔 "sol". vie:thông. + rus:сосна "sosna".  
 sos ← eng:fra:sauce. rus:соус "sous". hin:सॉस "sos". deu:Soße. vie:xốt. jpn:ソース "sōsu". that:ซอส "soot". kor:소스 "soseu". ind:saus.  
 sosis ← fra:saucisse. tur:ind:sosis. per:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.  
+soye ← zho:所有 (suǒyǒu). jpn:所有 (shoyū). kor:소유 (soyu). vie:sở hữu.  
 suan ← zho:酸 (suān).  
 sube ← ara:(ṣabāḥ). tur:sabah. per:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.  
 sude ← spa:sur. por:sul. fra:sud.  
@@ -689,6 +691,8 @@ suku ← jpn:好く (suku). ind: suka.
 sun ← eng:soon.  
 supe ← spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup". ind:sup. jpn:スープ "sūpu".  
 supris ← eng:surprise. tur:sürpriz. per:(surpris). rus::сюрприз (siurpriz). por:surpresa. spa:sorpresa.   
+suta ← hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.  
+sutur ← fra:eng:suture. por:spa:sutura.  
 suy ← zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.  
 ##t  
 table ← eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.  

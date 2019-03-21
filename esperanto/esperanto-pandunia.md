@@ -8,8 +8,8 @@ acida : suan
 adjektivo : sifi lekse  
 adreso : adres  
 aero : hawe  
-afrika : afriki  
-Afriko : afrike  
+afrika : afri  
+Afriko : afria  
 agreso : agres  
 akcento : acente  
 akceptebla (okej) : okey  
@@ -43,9 +43,9 @@ amikeco : dostia
 amiko : doste  
 amo : am  
 ampero : amper  
-amuza : mazi  
-amuzi : maza  
-amuzo : maze  
+amuza : fani  
+amuzi : fana  
+amuzo : fan  
 analizi : analisa  
 analizo : analis  
 ananaso : nanas  
@@ -60,7 +60,7 @@ antaŭiri : preda
 anteno : anten  
 anusa : anusi  
 anuso : anus  
-aparteni : adu  
+aparteni : soyu  
 araba : arabi  
 araneo : arane  
 araneofobio : aranofobia  
@@ -435,8 +435,7 @@ hana : cini
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
-havanto : ader  
-havi : ada  
+havanto : soyer  
 hazarda : zari  
 hazardo : zar  
 haŭto : pifu'  
@@ -778,8 +777,8 @@ metroo : tunel tren
 mezo : medi  
 mezuri : meta  
 mezuro : mete  
-mi : mi  
-mia : mi da  
+mi : me  
+mia : mi  
 mielo : mel  
 migdalo : badam  
 mikro- : mikro-  
@@ -1272,6 +1271,7 @@ vesto : fuke
 vetero : tenke  
 vi (ci) : te  
 vi ĉiu : tote  
+via (cia) : ti  
 viando : manse  
 vidi (rigardi) : wida  
 vilaĝo : ruste  

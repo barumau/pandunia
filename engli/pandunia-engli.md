@@ -10,16 +10,15 @@ a : but (whereas)
 abace : alphabet  
 acente : accent (stress)  
 acinium : actinium  
-ada : have  
 adali : just (fair)  
 adalia : justice  
-ader : owner  
 adres : address  
-adu : belong  
 adulte : adult  
 afgania : Afghanistan  
-afrike : Africa  
-afriki : African  
+afri : African  
+afria : Africa  
+afrofiler : afrophile  
+afrofilia : Afrophilia  
 agres : agression (assault)  
 aha : understand (realize)  
 ainstainium : einsteinium  
@@ -482,6 +481,9 @@ fajan : development
 falsi : false (fake)  
 famil nam : surname (family name)  
 famil : family  
+fan : fun (amusement)  
+fana : amuse (entertain)  
+fani : funny (amusing)  
 fantaza : imagine (fantasize)  
 fantaze : fantasy (imagination)  
 fantazi : fantastic (imaginary)  
@@ -524,6 +526,9 @@ fijia : Fiji
 fikra : think (ponder, reflect)  
 fikre : thought (idea)  
 fiksa : fix (attach)  
+fila : like  
+filer : fan (-phile)  
+filia : attraction (-philia)  
 filipinia : Philippines  
 filistinia : Palestinian Territory  
 filme : film  
@@ -1099,7 +1104,7 @@ lanca : throw (launch)
 langan : banister (handrail)  
 lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
-larwa : larva (maggot, caterpillar)  
+larwe : larva (maggot, caterpillar)  
 lasti : elastic  
 lasun : garlic  
 latif : nice (pleasant, lovely)  
@@ -1150,6 +1155,7 @@ loga : talk (say, speak)
 loge liste : word list  
 loge : speech (word)  
 logike : logic (deduction)  
+logofiler : logophile (word buff)  
 loja : research (to study)  
 lojia : science (study, research)  
 loka : locate (place)  
@@ -1261,9 +1267,7 @@ maya' : Maya
 maya : melt (liquidize)  
 mayote : Mayotte  
 mayu : melt (get molten)  
-maza : amuse (entertain)  
-maze : fun (amusement)  
-mazi : funny (amusing)  
+me : I (me)  
 mece : compete (have a match)  
 mece : match (contest)  
 medal : medallion (medal)  
@@ -1313,8 +1317,7 @@ mey xey : everything
 mey zaman : always  
 mey : every (each)  
 meze : table  
-mi da : my  
-mi : I (me)  
+mi : my  
 micin : MSG (monosodium glutamate)  
 mien : noodle  
 migan : mandarin orange  
@@ -1983,6 +1986,10 @@ song : pine tree
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
+soya : have (own, possess)  
+soye : property (belongings, possessions)  
+soyer : owner (proprietor)  
+soyu : belong  
 suan : sour  
 sube den : forenoon  
 sube nyam : breakfast  
@@ -2019,6 +2026,8 @@ supris : surprise
 suria : Syria  
 surinam bax : Sranan Tongo  
 surinam : Suriname  
+suta : sew  
+sutur : suture (seam)  
 suxe : sushi  
 suy rang : watercolor  
 suy : water  
@@ -2074,11 +2083,10 @@ tel : far (distant)
 tele : distance  
 telofon : telephone  
 telowide : television  
-telugu' : Telugu  
+telugi : Telugu  
 telurium : tellurium  
 tem : topic (subject, theme)  
 tema : be about (discuss as a subject)  
-ten liste : table of contents  
 ten : content  
 tena : hold (keep, contain)  
 tende : tent  
@@ -2086,6 +2094,7 @@ tener : holder (container)
 tenesin : tennessine  
 tenis : tennis  
 tenke : weather  
+tenoliste : table of contents  
 tenta : tempt (entice)  
 teoria : theory  
 tepe : tape  
@@ -2099,6 +2108,7 @@ tesa : argue (claim)
 tese : argument (thesis)  
 teste : test (challenge, trial)  
 tezi : intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
+ti : your  
 ticin : bow instrument (violin, etc.)  
 tike masal : tikka masala  
 tike : tikka (piece)  

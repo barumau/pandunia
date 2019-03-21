@@ -17,8 +17,10 @@ advice (counsel) : mente
 advisor (counselor, mentor) : menter  
 affirm (agree, concur) : amena  
 Afghanistan : afgania  
-Africa : afrike  
-African : afriki  
+Africa : afria  
+African : afri  
+afrophile : afrofiler  
+Afrophilia : afrofilia  
 afternoon : xamoden  
 again (repeatedly) : repi  
 age : umur  
@@ -53,7 +55,7 @@ americium : amerikium
 Amhara (an Ethiopian ethnic group and language) : amari  
 ampere : amper  
 ampoule (vial) : ampul  
-amuse (entertain) : maza  
+amuse (entertain) : fana  
 anal : anusi  
 analyse : analisa  
 analysis : analis  
@@ -113,6 +115,7 @@ athlete (sportsman) : keler
 atmospheric pressure : hawobar  
 atom : atom  
 attack : atake  
+attraction (-philia) : filia  
 attribute (charasteristic, quality, feature, description) : sife  
 August : mes 8 (mes bat)  
 Australia : australia  
@@ -200,7 +203,7 @@ believe : xina
 Belize : belizia  
 belly (abdomen) : fubu'  
 belong (be a member) : memba  
-belong : adu  
+belong : soyu  
 belt (zone) : zon  
 bench : bence  
 Benin : benin  
@@ -696,6 +699,7 @@ Falkland Islands (Malvinas) : malvina nesia
 fall : padu  
 false (fake) : falsi  
 family : famil  
+fan (-phile) : filer  
 fantastic (imaginary) : fantazi  
 fantasy (imagination) : fantaze  
 far (distant) : tel  
@@ -786,9 +790,9 @@ fruit : pal
 frying pan : tawa  
 fuck (copulate) : coda  
 full : ful  
-fun (amusement) : maze  
+fun (amusement) : fan  
 function (work) : funca  
-funny (amusing) : mazi  
+funny (amusing) : fani  
 future time : wile  
 ##g  
 Gabon : gabun  
@@ -901,7 +905,7 @@ harness : maju'
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
-have : ada  
+have (own, possess) : soya  
 have sex : seksa  
 hazard (chance) : zar  
 he or she or it : le  
@@ -976,7 +980,7 @@ hurt : paxa
 hush (shh) : xix  
 hybrid (mongrel) : hibride  
 hydrogen : hidre  
-I (me) : mi  
+I (me) : me  
 ##i  
 ice : is  
 Iceland : islandia  
@@ -1107,7 +1111,7 @@ lacquer (varnish) : lake
 lamp : lampe  
 language (communication) : bax  
 lantern : lanten  
-larva (maggot, caterpillar) : larwa  
+larva (maggot, caterpillar) : larwe  
 last (final) : fini  
 last (take time, during) : dura  
 Latin alphabet : latini abace  
@@ -1146,6 +1150,7 @@ life : jiwe
 light (bright) : nuri  
 light (illumination) : nur  
 like (enjoy, be fond of) : suku  
+like : fila  
 lilac : lilak  
 lily : lilya  
 limit (boundary) : limite  
@@ -1164,6 +1169,7 @@ local : loki
 locate (place) : loka  
 logbook : deftobuke  
 logic (deduction) : logike  
+logophile (word buff) : logofiler  
 long (lengthy) : long  
 look (see) : wida  
 lose (fail to win) : luza  
@@ -1351,7 +1357,7 @@ musketeer : musketer
 muslim (moslem) : islamiste  
 must : bixu  
 mutual : unali  
-my : mi da  
+my : mi  
 Myanmar (Burma) : bama  
 myth (divine story) : dewi sage  
 ##n  
@@ -1483,7 +1489,7 @@ outer (external) : way
 outside (exterior) : waye  
 overpass : supre  
 own (particle of possession) : yu  
-owner : ader  
+owner (proprietor) : soyer  
 oxygen : okse  
 ##p  
 pack (package) : pake  
@@ -1682,6 +1688,7 @@ project (planned endeavour) : proje
 promethium : prometium  
 promise (commit) : wada  
 proof (evidence, proof, demonstration, testimony) : dalil  
+property (belongings, possessions) : soye  
 prophecy : nabe  
 prophet : naber  
 proponent (supporter, activist, -ist) : iste  
@@ -1871,6 +1878,7 @@ Serbia : serbia
 series : serye  
 sesame : sesam  
 seven (7) : set  
+sew : suta  
 sex (sexual intercourse) : sekse  
 sexual (relating to gender) : jinsi  
 sexy (sexual) : seksi  
@@ -2040,6 +2048,7 @@ surrender (submit) : islamu
 surrender (to give up) : salima  
 surround (be around) : cirka  
 sushi : suxe  
+suture (seam) : sutur  
 Swahili : swahili  
 swallow : glota  
 Swaziland : swazia  
@@ -2056,7 +2065,7 @@ systemic : sistemi
 ##t  
 table (matrix) : table  
 table : meze  
-table of contents : ten liste  
+table of contents : tenoliste  
 tabulate : tabla  
 tactics (strategy) : tatike  
 taiga : taiga  
@@ -2097,7 +2106,7 @@ telephone : telofon
 television : telowide  
 tell (narrate) : saga  
 tellurium : telurium  
-Telugu : telugu'  
+Telugu : telugi  
 temperature : terme  
 tempt (entice) : tenta  
 ten (10) : des  
@@ -2352,6 +2361,7 @@ yoga : yoge
 you : te  
 you all : tote  
 young : jowan  
+your : ti  
 youth (young age) : jowania  
 youth (young person) : jowane  
 ytterbium : yuterbium  

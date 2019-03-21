@@ -314,33 +314,33 @@ He ovat tuolla.
 Me olemme täällä.
 
 
-### yu <small>-n (genetiivipartikkeli)</small>
+### ya <small>-n (genetiivipartikkeli)</small>
 
 **ce ke?**
 Mikä tämä on?
 
-**ce me yu fon.**
+**ce me ya fon.**
 Se on minun puhelin.
 
-**ce ke yu?**
+**ce ke ya?**
 Kenen tämä on?
 
-**ce me yu.**
+**ce me ya.**
 Se on minun.
 
-Genetiivipartikkeli **yu** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me yu**
-tarkoittaa "minun", **te yu** tarkoittaa "sinun" jne.
+Genetiivipartikkeli **ya** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me ya**
+tarkoittaa "minun", **te ya** tarkoittaa "sinun" jne.
 
 **le ke?**
 Kuka hän on?
 
-**le si me yu doste.**
+**le si me ya doste.**
 Hän on minun ystävä.
 
-**me si sara yu doste.**
+**me si sara ya doste.**
 Minä olen Saran ystävä.
 
-<small>Sanan **yu**
+<small>Sanan **ya**
 lähteitä: pandžabi: ਦਾ "dā", yleiskiina: 的 "de".</small>
 
 
@@ -368,20 +368,20 @@ lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām", thai: นา�
 
 
 
-### ada <small>olla, omistaa</small>
+### soya <small>olla, omistaa</small>
 
-**me ada bon dom.**
+**me soya bon dom.**
 Minulla on hyvä talo.
 
-**le ni ada pese.**
+**le ni soya pese.**
 Hänellä ei ole rahaa.
 
-**me wola ada nowi fon.**
+**me wola soya nowi fon.**
 Minä haluan saada uuden puhelimen.
 
-**eska te ada bace?**
+**eska te soya bace?**
 Onko sinulla lapsia?
-**me ada dul bace.**
+**me soya dul bace.**
 Minulla on kaksi lasta.
 
 
@@ -608,7 +608,7 @@ Minä osaan vähän panduniaa.
 **me ni bila engli.**
 Minä en osaa englantia.
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni bila te ya bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -645,7 +645,7 @@ Puhuisitko kovempaa.
 **me auda musike.**
 Minä kuuntelen musiikkia.
 
-**te auda ki yang yu musike?**
+**te auda ki yang ya musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -674,7 +674,7 @@ Mitä tämä sana tarkoittaa?
 **"maw" mena ke?**
 Mitä "maw" tarkoittaa?
 
-**le mena yang ya hewan.**
+**le mena yang yu hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
 **me ni aha le mena ke.**
@@ -684,7 +684,7 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**bita kitaba te yu adres.**
+**bita kitaba te ya adres.**
 Kirjoittaisitko osoitteesi.
 
 **bita kitaba le sa ce.**
@@ -832,7 +832,7 @@ Minä odotan sinua hotellissa.
 
 ### zay <small>parhaillaan</small>
 
-**me zay salama te yu doste.**  
+**me zay salama te ya doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **man zay wida fem.**  
@@ -847,7 +847,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**me pas salama te yu doste.**  
+**me pas salama te ya doste.**  
 Minä tervehdin sinun ystävääsi.
 
 **man pas wida fem.**  
@@ -862,7 +862,7 @@ Hän oli kotona.
 
 ### lew <small>jo, valmiiksi</small>
 
-**me lew salama te yu doste.**  
+**me lew salama te ya doste.**  
 Minä olen tervehtinyt ystävääsi.
 
 **man lew wida fem.**  
@@ -877,7 +877,7 @@ Hän on ollut kotona.
 
 ### wil <small>myöhemmin, jatkossa</small>
 
-**me wil salama te yu doste.**  
+**me wil salama te ya doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **man wil wida fem.**  

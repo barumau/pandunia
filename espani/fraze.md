@@ -304,33 +304,33 @@ Marcos Cruz
 
 -->
 
-### yu <small>de, mi, mío, tu, tuya, de él/ella/eso, de ellos/as, de nosotros/as (partícula posesiva)</small>
+### ya <small>de, mi, mío, tu, tuya, de él/ella/eso, de ellos/as, de nosotros/as (partícula posesiva)</small>
 
 **ce ke?**
 ¿Qué es esto?
 
-**ce me yu fon.**
+**ce me ya fon.**
 Es mi teléfono.
 
-**ce ke yu?**
+**ce ke ya?**
 ¿De quién es esto?
 
-**ce me yu.**
+**ce me ya.**
 Es mío.
 
-Nota: La partícula posesiva **yu** se pone entre el poseedor y la cosa poseída.
-Así **me yu** significa "mi", **te yu** significa "tuyo/tuya" y así.
+Nota: La partícula posesiva **ya** se pone entre el poseedor y la cosa poseída.
+Así **me ya** significa "mi", **te ya** significa "tuyo/tuya" y así.
 
 **le ke?**
 ¿Quién es él/ella?
 
-**le si me yu doste.**
+**le si me ya doste.**
 Él/ella es mi amigo/a.
 
-**me si sara yu doste.**
+**me si sara ya doste.**
 Yo soy la amiga de Sara.
 
-<small>Etimología. **yu** viene del
+<small>Etimología. **ya** viene del
 mandarín: 有 (yǒu).</small>
 
 ### nam <small>nombre</small>
@@ -355,20 +355,20 @@ Yo me llamo Tomás.
 Name, inglés: name.</small>
 
 
-### ada <small>tener</small>
+### soya <small>tener</small>
 
-**me ada bon dom.**
+**me soya bon dom.**
 Tengo una buena casa.
 
-**le ni ada pese.**
+**le ni soya pese.**
 Él/ella no tiene dinero.
 
-**me wola ada nowi fon.**
+**me wola soya nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
-**eska te ada bace?**
+**eska te soya bace?**
 ¿Tienes niños?  
-**me ada dul bace.**
+**me soya dul bace.**
 Tengo dos niños.
 
 
@@ -585,7 +585,7 @@ Puedo hablar un poco de pandunia.
 **me ni bila engli.**
 No puedo hablar inglés.
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni bila te ya bax.**
 Lo siento. No puedo hablar tu idioma.
 
 
@@ -621,7 +621,7 @@ Por favor, hablar más fuerte.
 **me auda musike.**
 Escucho música.
 
-**te auda ki yang yu musike?**
+**te auda ki yang ya musike?**
 ¿Qué clase de música escuchas?
 
 
@@ -648,7 +648,7 @@ Lo/a vi a él/ella ayer.
 **"maw" mena ke?**
 ¿Qué significa "maw"?
 
-**le mena yang ya hewan.**
+**le mena yang yu hewan.**
 Significa una clase de animal.
 
 **me ni aha le mena ke.**
@@ -777,7 +777,7 @@ Vivo en Singapur.
 ¿Vives en este hotel?
 
 Ayuda: También está bien decir "te doma sa ke?" en vez de "te doma ke".  Sin
-embargo **doma** ya significa que algo está en algún lugar, así que **sa** no
+embargo **doma** yu significa que algo está en algún lugar, así que **sa** no
 es necesario.
 
 
@@ -820,7 +820,7 @@ Voy a tomar un café.
 Por favor toma un café para mí.
 
 **te pas kapa pese da me.**
-Tú ya tomaste dinero de mí.
+Tú yu tomaste dinero de mí.
 
 **me kapa un bir.**
 Voy a tomar una cerveza.

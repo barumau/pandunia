@@ -300,34 +300,34 @@ This is red.
 
 
 
-### yu <small>'s (possessive particle)</small>
+### ya <small>'s (possessive particle)</small>
 
 **ce ke?**
 What's this?
 
-**ce me yu fon.**
+**ce me ya fon.**
 It's my phone.
 
-**ce ke yu?**
+**ce ke ya?**
 Whose is this?
 
-**ce me yu.**
+**ce me ya.**
 It's mine.
 
-Note: Possessive particle **yu** is put between the owner and the owned thing.
-So **me yu** means "my", **te yu** means "your" and so on.
+Note: Possessive particle **ya** is put between the owner and the owned thing.
+So **me ya** means "my", **te ya** means "your" and so on.
 
 **le ke?**
 Who's he/she?
 
-**le si me yu doste.**
+**le si me ya doste.**
 He/she is my friend.
 
-**me si sara yu doste.**
+**me si sara ya doste.**
 I am Sara's friend.
 
-<small>Etymology. **yu**
-Mandarin: 有 (yǒu), Hakka: 有 (yu).</small>
+<small>Etymology. **ya**
+Mandarin: 有 (yǒu), Hakka: 有 (ya).</small>
 
 ### nam <small>name</small>
 
@@ -351,20 +351,20 @@ I'm called Thomas.
 Name, English: name.</small>
 
 
-### ada <small>have</small>
+### soya <small>have</small>
 
-**me ada bon dom.**
+**me soya bon dom.**
 I have a good house.
 
-**le ni ada pese.**
+**le ni soya pese.**
 He/she doesn't have money.
 
-**me wola ada nowi fon.**
+**me wola soya nowi fon.**
 I want to have a new phone.
 
-**eska te ada bace?**
+**eska te soya bace?**
 Do you have children?  
-**me ada dul bace.**
+**me soya dul bace.**
 I have two children.
 
 
@@ -582,7 +582,7 @@ I speak a little Pandunia.
 **me ni bila engli.**
 I don't speak English.
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni bila te ya bax.**
 Sorry, I don't speak your language.
 
 
@@ -621,7 +621,7 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yang yu musike?**
+**te auda ki yang ya musike?**
 What kind of music do you listen to?
 
 
@@ -648,7 +648,7 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yang ya hewan.**
+**le mena yang yu hewan.**
 It means a kind of animal.
 
 **me ni aha le mena ke.**
@@ -799,7 +799,7 @@ I wait for you in the hotel.
 
 ### zay <small>currently</small>
 
-**me zay salama te yu doste.**  
+**me zay salama te ya doste.**  
 I am greeting your friend.
 
 **man zay wida fem.**  
@@ -814,7 +814,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**me pas salama te yu doste.**  
+**me pas salama te ya doste.**  
 I greeted your friend.
 
 **man pas wida fem.**  
@@ -829,7 +829,7 @@ He or she was at home.
 
 ### lew <small>already, completed</small>
 
-**me lew salama te yu doste.**  
+**me lew salama te ya doste.**  
 I have greeted your friend.
 
 **man lew wida fem.**  
@@ -844,7 +844,7 @@ He or she has been at home.
 
 ### wil <small>(future action)</small>
 
-**me wil salama te yu doste.**  
+**me wil salama te ya doste.**  
 I will greet your friend.
 
 **man wil wida fem.**  

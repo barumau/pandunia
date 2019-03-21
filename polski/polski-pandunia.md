@@ -2,8 +2,8 @@
 ##a  
 adres : adres  
 Afganistan : afgania  
-Afryka : afrike  
-afrykański, Afrykanin : afriki  
+Afryka : afria  
+afrykański, Afrykanin : afri  
 agresja, napaść : agres  
 aj!, ał! : ay  
 akcent, nacisk : acente  
@@ -102,7 +102,7 @@ basen : basen
 bateria : batre  
 baton czekoladowy : cokobaton  
 bawełna : goton  
-bawić, zabawiać : maza  
+bawić, zabawiać : fana  
 bawół domowy : kabaw  
 bazowy, podstawowy : bazi  
 bańka : bubul  
@@ -607,7 +607,7 @@ itr : yutrium
 Izrael : israel  
 iść, maszerować : marca  
 ##j  
-ja, mnie : mi  
+ja, mnie : me  
 jabłko : aple  
 jabłko cukrowe : ate  
 jadalnia : nyam kamar  
@@ -843,7 +843,7 @@ kąt : kon
 lakier : lake  
 lalka, kukiełka, pacynka, marionetka : pupe  
 lampa : lampe  
-larwa, czerw, gąsienica : larwa  
+larwa, czerw, gąsienica : larwe  
 larwa, czerw, gąsienica : lasun  
 las, dżungla, zagajnik : jangal  
 latarnia : lanten  
@@ -978,7 +978,7 @@ miejscowy, lokalny : loki
 miesiąc : mes  
 mieszkać : doma  
 mieć (partykuła posiadania) : yu  
-mieć : ada  
+mieć : soya  
 migdał : badam  
 mikro- : mikro-  
 Mikronezja : mikronesia  
@@ -1050,7 +1050,7 @@ mysz : mux
 myśl, pomysł : fikre  
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać : fikra  
 móc, umieć : bila  
-mój : mi da  
+mój : mi  
 mówić, rozmawiać : loga  
 mówić; komunikować : baxa  
 mózg : serebre  
@@ -1076,7 +1076,7 @@ nagi, goły, obnażony : nudi
 nahuatl : nawati  
 najmniej, minimalnie : minim  
 należeć (być członkiem) : memba  
-należeć : adu  
+należeć : soyu  
 namalować, malować : penta  
 Namibia : namibia  
 namiot : tende  
@@ -1768,7 +1768,7 @@ spadek, dziedzictwo, spuścizna, zapis : waris
 spalić, palić : jala  
 spać : sona  
 specjalny, wyraźny, wyrazisty : has  
-spis treści (tabela zawartości) : ten liste  
+spis treści (tabela zawartości) : tenoliste  
 spocony : swedi  
 spodnie, pantalony, portki : pantalon  
 spokojny : xanti  
@@ -1921,7 +1921,7 @@ teizm : dewistia
 telefon : telofon  
 telewizja : telowide  
 tellur : telurium  
-telugu : telugu'  
+telugu : telugi  
 temat, motyw : tem  
 temperatura : terme  
 ten konkretny : ce  
@@ -2203,7 +2203,7 @@ Węgry : madyar
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
-właściciel (posiadacz) : ader  
+właściciel (posiadacz) : soyer  
 właściwy, poprawny : sahi  
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  
@@ -2212,8 +2212,8 @@ z (partykuła posiadania) : ya
 z, od : da  
 ##z  
 zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya  
-zabawa, rozrywka : maze  
-zabawny : mazi  
+zabawa, rozrywka : fan  
+zabawny : fani  
 zabić, zabijać : morta  
 zabójca : morter  
 zachodni : westi  

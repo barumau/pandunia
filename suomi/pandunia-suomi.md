@@ -10,16 +10,15 @@ a : mutta
 abace : aakkoset (ABC)  
 acente : painotus (aksentti)  
 acinium : aktinium  
-ada : omistaa (omata)  
 adali : oikeudenmukainen  
 adalia : oikeus  
-ader : omistaja  
 adres : osoite  
-adu : kuulua (olla oma)  
 adulte : aikuinen  
 afgania : Afganistan  
-afrike : Afrikka  
-afriki : afrikkalainen  
+afri : afrikkalainen  
+afria : Afrikka  
+afrofiler : afrofiili  
+afrofilia : afrofilia  
 agres : aggressio  
 aha : oivaltaa (tajuta)  
 ainstainium : einsteinium  
@@ -477,6 +476,9 @@ fajan : kehitys
 falsi : väärä (epätosi, vale-)  
 famil nam : sukunimi  
 famil : perhe  
+fan : huvi (hauskuus)  
+fana : viihdyttää (huvittaa)  
+fani : hauska (huvittava)  
 fantaza : kuvitella  
 fantaze : mielikuvitus (fantasia)  
 fantazi : mielikuvituksekas (fantastinen)  
@@ -519,6 +521,9 @@ fijia : Fidži
 fikra : ajatella (miettiä)  
 fikre : ajatus  
 fiksa : kiinnittää  
+fila : tykätä (pitää)  
+filer : fani (-fiili)  
+filia : tykkääminen  
 filipinia : Filippiinit  
 filistinia : Palestiina  
 filme : filmi  
@@ -1094,7 +1099,7 @@ lanca : heittää (paiskata)
 langan : kaide (reelinki)  
 lankia : Sri Lanka  
 lanten : lyhty  
-larwa : toukka  
+larwe : toukka  
 lasti : joustava (elastinen)  
 lasun : valkosipuli  
 latif : mukava (kiva)  
@@ -1145,6 +1150,7 @@ loga : puhua (sanoa)
 loge liste : sanaluettelo  
 loge : puhe (sanat)  
 logike : logiikka  
+logofiler : logofiili  
 loja : tutkia (opiskella)  
 lojia : tiede (tutkimus)  
 loka : sijoittaa (panna paikalleen)  
@@ -1255,9 +1261,7 @@ maya' : maya (mayaintiaani)
 maya : sulattaa  
 mayote : Mayotte  
 mayu : sulaa  
-maza : viihdyttää (huvittaa)  
-maze : huvi (hauskuus)  
-mazi : hauska (huvittava)  
+me : minä  
 mece : otella  
 mece : ottelu (matsi)  
 medal : mitali  
@@ -1307,8 +1311,7 @@ mey xey : jokainen asia
 mey zaman : aina  
 mey : joka (jokainen)  
 meze : pöytä  
-mi da : minun  
-mi : minä  
+mi : minun  
 micin : natriumglutamaatti  
 mien : nuudeli  
 migan : mandariini  
@@ -1953,6 +1956,10 @@ song : mänty
 sos : kastike (soosi)  
 sosis : makkara  
 soto : Lesoto  
+soya : omistaa  
+soye : omaisuus  
+soyer : omistaja  
+soyu : kuulua (olla oma)  
 suan : hapan (kirpeä)  
 sube nyam : aamiainen  
 sube : aamu  
@@ -1981,6 +1988,8 @@ supris : yllätys
 suria : Syyria  
 surinam bax : sranan tongo  
 surinam : Surinam  
+suta : ommella  
+sutur : sauma (ommel)  
 suxe : sushi  
 suy rang : vesiväri (akvarelliväri)  
 suy : vesi  
@@ -2032,16 +2041,16 @@ tel : kaukainen
 tele : etäisyys (kaukaisuus)  
 telofon : puhelin  
 telowide : televisio  
-telugu' : telugu (eräs intialainen kieli)  
+telugi : telugu (eräs intialainen kieli)  
 tem : aihe (teema)  
 tema : aiheesta (-sta)  
-ten liste : sisällysluettelo  
 ten : sisältö  
 tena : pitää (säilyttää)  
 tende : teltta  
 tener : säiliö  
 tenis : tennis  
 tenke : sää  
+tenoliste : sisällysluettelo  
 tenta : houkutella  
 teoria : teoria  
 tepe : teippi (nauha)  
@@ -2054,6 +2063,7 @@ tesa : väittää
 tese : väite (teesi)  
 teste : koe (testi, koettelemus)  
 tezi : kiihkeä (väkevä, voimakas, vahva, kova)  
+ti : sinun  
 ticin : jousisoitin  
 tike masal : tikka masala  
 tike : pala  

@@ -13,38 +13,38 @@ sur le plan de la politesse et de l'intimité.
 
 ### Dialogue
 
-☻: **tu si ke?**
+☻: **te si ke?**
 = Qui es-tu ?  
-☺: **mi si yusef. tu si ke?**
+☺: **me si yusef. te si ke?**
 = Je suis Yusef. Qui est-tu ?  
-☻: **mi si maria. ye si ke?**
+☻: **me si maria. le si ke?**
 = Je suis Maria. Qui est-ce ?  
-☺: **ye si mi da doste.**
+☺: **le si mi doste.**
 = C'est mon amie.  
-☻: **ye da nam si ke?**
+☻: **li nam si ke?**
 = Quel est son nom ?  
-☺: **ye da nam si sara.**
+☺: **li nam si sara.**
 = Son nom est Sara.
 
 ### Grammaire
 
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle. Le commentaire dit
-quelque chose sur le sujet. Par exemple, dans **ye si mi da doste**,
-le sujet est le pronom **ye** (il, elle, il neutre), suivi du
-commentaire **si mi da doste** (est mon amie).
+quelque chose sur le sujet. Par exemple, dans **le si mi doste**,
+le sujet est le pronom **le** (il, elle, il neutre), suivi du
+commentaire **si mi doste** (est mon amie).
 
 Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
-Et pour dire le contraire, remplacez le simplement avec un **no** (qui signifie à la fois _ne pas_ et _non_)
+Et pour dire le contraire, remplacez le simplement avec un **ni** (qui signifie à la fois _ne pas_ et _non_)
 
-**ye si sara.**
+**le si sara.**
 = C'est Sara.  
-**ye no sara.**
+**le ni sara.**
 = Ce n'est pas Sara.
 
 **maw si hewan**
 = Le chat est un animal.  
-**dom no hewan**
+**dom ni hewan**
 = La maison n'est pas un animal.  
 
 
@@ -62,24 +62,24 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 
 ### Liste de mots
 
-**mi** je, moi. **mi da** mon, ma, mes.  
-**tu** tu, toi, vous (formel). **tu da** ton, ta, tes.  
-**ye** il, elle ou il neutre. **ye da** son, sa, ses.  
+**me** je, moi. **mi** mon, ma, mes.  
+**te** tu, toi, vous (formel). **ti** ton, ta, tes.  
+**le** il, elle ou il neutre. **li** son, sa, ses.  
 **ke** qui ou quoi.  
 **si** être (je suis, tu es, nous sommes, etc.)
-**si** oui. **no** non.  
+**si** oui. **ni** non.  
 **bon** bon. **doste** ami. **nam** nom.
 **fem** femme. **man** homme.
 **maw** chat. **hewan** animal.
 
 ### Réponses aux exercices
 
-1. tu si ke?
-2. mi si tomas.
-3. tu da doste si ke?
-4. ye si sara.
-5. tu da nam si ke?
-6. mi da nam si ........... 
+1. te si ke?
+2. me si tomas.
+3. ti doste si ke?
+4. le si sara.
+5. ti nam si ke?
+6. mi nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -104,21 +104,21 @@ qui emprunte des mots de toutes les parties du monde.
 
 La forme verbale de **salam** est **salama**, qui signifie "saluer".
 
-**mi salama tu.**
+**me salama te.**
 = Je te salue.  
-**tu salama mi.**
+**te salama me.**
 = Tu me salues.
 
 Ce sont des phrases actives. Dans les phrases actives l'action du
-sujet se fait sur l'objet. Dans **mi salama tu** le premier mot
-**mi** est le sujet, **salama** est le verbe (verbe d'action), et
-**tu** est l'objet. L'ordre du sujet, du verbe et de l'objet est
+sujet se fait sur l'objet. Dans **me salama te** le premier mot
+**me** est le sujet, **salama** est le verbe (verbe d'action), et
+**te** est l'objet. L'ordre du sujet, du verbe et de l'objet est
 important et ne change jamais.
 
 > Ordre des mots dans une phrase active : Sujet + Verbe + Complément
 
-Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu,
-et **ye** = il, elle, il neutre. Notez que les pronoms restent les
+Les pronoms personnels en Pandunia sont : **me** = je, **te** = tu,
+et **le** = il, elle, il neutre. Notez que les pronoms restent les
 mêmes dans les phrases d'exemples précédentes. Les mots ne changent
 jamais en Pandunia ; ils restent toujours les mêmes peu importe leur
 position dans une phrase. 
@@ -126,9 +126,9 @@ position dans une phrase.
 En Pandunia, les phrases peuvent être raccourcies en omettant les
 pronoms lorsque ceux-ci se devinent.
 
-**mi salama tu!**
+**me salama te!**
 = Je te salue.  
-**salama tu!**
+**salama te!**
 = Salutation à toi ! (Il est évident que le locuteur est celui qui salue.)  
 **salama!**
 = Salutation ! (Il est évident que les interlocuteurs sont salués.)
@@ -164,12 +164,14 @@ Les réponses correctes sont données plus bas.
 ### Liste de mots
 
 **salam, halo'** salutation, bonjour, salut, salaam, ciao, etc.  
-**mame** mère, maman. **pape** père, papa. **xefe** chef, patron.
+**mame** mère, maman.
+**pape** père, papa.
+**xefe** chef, patron.
 
 
 ### Réponses aux exercices
 
-1. tu salama ye.
+1. te salama le.
 2. mame salama pape.
 3. salam mame!
 4. salam!
@@ -190,12 +192,12 @@ Les réponses correctes sont données plus bas.
 = Merci.  
 ☺: **bita nyama kafe u cay.**
 = Prenez du thé ou du café, je vous prie
-☻: **mi nyama cay. danke.**
+☻: **me nyama cay. danke.**
 = Je prends du thé, merci.  
 ...
-☺: **bita salama tu da mame!**
+☺: **bita salama ti mame!**
 = S'il te plaît, salut ta mère.  
-☻: **mi salama ye. salam!**
+☻: **me salama le. salam!**
 = Je la saluerai. Au revoir !  
 ☺: **salam!**
 = Au revoir !
@@ -203,20 +205,20 @@ Les réponses correctes sont données plus bas.
 
 ### Grammaire
 
-Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu,
-et **ye** = il, elle, il neutre.  Le pandunia est une langue neutre
+Les pronoms personnels en Pandunia sont : **me** = je, **te** = tu,
+et **le** = il, elle, il neutre.  Le pandunia est une langue neutre
 du point de vue du genre. Il ne fait pas de distinction entre les
 sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**mi bita tu salama ye.**
+**me bita te salama le.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_. Le premier verbe **bita**
-(demander) s'adresse à **tu** comme objet. Dans le même temps **tu**
+(demander) s'adresse à **te** comme objet. Dans le même temps **tu**
 sert également de sujet au deuxième verbe **salama** (saluer) dont
-l'objet est **ye**. Ainsi **tu** a un double rôle : (1) objet du
+l'objet est **le**. Ainsi **te** a un double rôle : (1) objet du
 premier verbe et (2) sujet du second verbe. C'est donc le pivot ou la
 charnière entre les deux verbes.
 
@@ -230,9 +232,9 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**mi bita tu salama ye.**
+**me bita te salama le.**
 = Je te demande de le/la saluer.  
-**bita salama ye.**
+**bita salama le.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de **bita** a changé entre les
@@ -258,7 +260,7 @@ formules de politesses.
 **bita safa kamar.**
 = Nettoyez la chambre s'il vous plaît
 
-Les ordres sont données avec **manda** = ordonner. Ils utilisent la
+Les ordres sont données avec **orda** = ordonner. Ils utilisent la
 même structure de pivot que les requêtes avec **bita**.
 
 **orda dona cay.**
@@ -269,7 +271,7 @@ même structure de pivot que les requêtes avec **bita**.
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
 d'un seul verbe et d'un ton autoritaire.
 
-**safa ye!**
+**safa le!**
 = Nettoie-le/la !
 
 
@@ -302,10 +304,10 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Réponses aux exercices
 
-1. ye nyama cay.
-2. xefe bita ye sida.
+1. le nyama cay.
+2. xefe bita le sida.
 3. bita nyama kafe u cay.
-4. mame bita mi safa kamar.
+4. mame bita me safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -317,39 +319,39 @@ Questions par oui ou par non
 
 ### Dialogue
 
-☻: **salam! eska tu nyama kafe u cay?**
+☻: **salam! eska te nyama kafe u cay?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 ☺: **cay.**
 = Du thé.  
-☻: **i tu?**
+☻: **i te?**
 = Et vous ?  
-○: **mi no baxa pandunia...**
+○: **me ni baxa pandunia...**
 = Je ne parle pas le Pandunia...  
-☻: **pardon! eska ye nyama cay?**
+☻: **pardon! eska le nyama cay?**
 = Pardon ! prend-il du thé ?  
-☺: **no. ye no nyama cay. ye nyama kafe.**
+☺: **ni. le ni nyama cay. le nyama kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
-☻: **eska tu nyama supe?**
+☻: **eska te nyama supe?**
 = Prenez-vous de la soupe ?  
 ☺: **nyama.**
 = Oui. (_J'en prends._)  
-☻: **eska ye nyama supe?**
+☻: **eska le nyama supe?**
 = Prend-il de la soupe ?  
-☺: **no nyama.**
+☺: **ni nyama.**
 = Non.  
-☻: **danke. mi dona un cay i un kafe i un supe na bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
-Note: **na bade du** est une expression qui signifie "dans (tant de temps)"
+Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
 
 
 ### Poser des questions
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **bita **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-**mi eska tu nyama cay.**
+**me eska te nyama cay.**
 = Je vous demande si vous buvez du thé.  
-**eska tu nyama cay?**
+**eska te nyama cay?**
 = Buvez-vous du thé ?  
 **eska nyama cay?**
 = Du thé ?
@@ -360,11 +362,11 @@ Par conséquent, le deuxième pronom est habituellement nécessaire. Il
 peut être omis seulement quand on a identifié qui est le sujet de la
 discussion.
 
-**eska ye nyama cay?**
+**eska le nyama cay?**
 = Est-ce qu'il ou elle prend du thé ?  
-**eska tu nyama supe?**
+**eska te nyama supe?**
 = Prenez-vous de la soupe ?  
-**eska mimen nyama suy?**
+**eska mome nyama suy?**
 = Buvons-nous de l'eau minérale ?
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
@@ -380,32 +382,32 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 ### Apporter des réponses
 
 On peut répondre aux questions fermées (deux réponses possibles oui
-ou non) par **si** = oui et **no** = non.
+ou non) par **si** = oui et **ni** = non.
 
-– **eska tu nyama supe?**
+– **eska te nyama supe?**
 = Manges-tu de la soupe ?  
 – **si.**
 = Oui.  
-– **eska ye nyama supe?**
+– **eska le nyama supe?**
 = Mange-t-elle de la soupe ?  
-– **no.**
+– **ni.**
 = Non.
 
 Des réponses plus complètes peuvent également être apportées.
 
-– **eska tu nyama kafe?**
+– **eska te nyama kafe?**
 = Bois-tu du café ?  
-– **si. mi nyama kafe.**
+– **si. me nyama kafe.**
 = Oui, je bois du café .  
-– **eska ye nyama kafe?**
+– **eska le nyama kafe?**
 = Boit-il du café ?  
-– **no. ye no nyama kafe.**
+– **ni. le ni nyama kafe.**
 = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant
 le verbe principal de la question.
 
-– **eska tu nyama suy?**
+– **eska te nyama suy?**
 = Bois-tu de l'eau ?  
 – **nyama.**
 = (Oui) j'en bois.
@@ -426,10 +428,10 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**bada** après.
+**bade** après.
 **pardon** pardon, désolé.
 **minute** minute.
-**no** non, pas.
+**ni** non, pas.
 **baxa** parler (une langue).
 **suy** eau.
 **supe** soupe.
@@ -441,12 +443,12 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Réponses aux exercices
 
-1. eska tu baxa pandunia?
-2. si. mi baxa pandunia.
+1. eska te baxa pandunia?
+2. si. me baxa pandunia.
 3. eska mame nyama kafe?
-4. no. ye no nyama kafe.
-5. eska ye nyama supe?
-6. (ye) no nyama.
+4. ni. le ni nyama kafe.
+5. eska le nyama supe?
+6. (le) ni nyama.
 
 
 --------------------------------------------------------------------------------
@@ -454,35 +456,38 @@ Essayez de traduire ces phrases du Français au Pandunia.
 Dire non
 ---------
 
-Dans la leçon précédente, vous avez appris à répondre **si** et **no**
-aux questions. Le mot **no** est utilisé pour répondre par la
-négative. L'ajout du **no** devant le verbe transforme donc une
+Dans la leçon précédente, vous avez appris à répondre **si** et **ni**
+aux questions. Le mot **ni** est utilisé pour répondre par la
+négative. L'ajout du **ni** devant le verbe transforme donc une
 phrase affirmative en phrase négative.
 
-**mi salama tu.**
+**me salama te.**
 = Je vous salue.  
-**mi no salama tu.**
+**me ni salama te.**
 = Je ne vous salue pas.
 
-Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié (ne pas y avoir). Dans la phrase **mi no salama tu** le mot **no** nie l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ; le sens de la phrase change donc selon l'emplacement du **no**.
+Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié
+(ne pas y avoir). Dans la phrase **me ni salama te** le mot **ni** nie
+l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ;
+le sens de la phrase change donc selon l'emplacement du **ni**.
 
-**mi bita tu safa kamar.**
+**me bita te safa kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no bita tu safa kamar.**
+**me ni bita te safa kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi bita tu no safa kamar.**
+**me bita te ni safa kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**ye no ada maw.**
+**le ni soya maw.**
 = Elle n'a pas de chat.  
-**ye ada no maw, a waf.**
+**le soya ni maw, a waf.**
 = Elle n'a pas de chats, mais des chiens.  
-**no ye, a mi ada maw.**
+**ni le, a me soya maw.**
 = Pas elle, mais j'ai des chats.  
-**mi ada no un, a dul maw.**
+**me soya ni un, a dul maw.**
 = Je n'ai pas un, mais deux chats.
 
 
@@ -503,7 +508,7 @@ Parfois, il y a plus d'une bonne réponse.
 
 **kupe** coupe, verre, tasse.
 **hali** vide.
-**ada** avoir.
+**soya** avoir.
 **maw** chat.
 **waf** chien.
 **dul** deux.
@@ -513,12 +518,12 @@ Parfois, il y a plus d'une bonne réponse.
 
 ### Réponses aux exercices
 
-1. ye no safa kamar.
-2. un kupe no hali.
-3. dul waf no nyama supe.
-4. ye no ada waf i maw. / ye ada no waf i no maw.
-5. xefe nyama cay a no kafe.
-6. mame ada no waf a dul maw.
+1. le ni safa kamar.
+2. un kupe ni hali.
+3. dul waf ni nyama supe.
+4. le ni soya waf i maw. / le soya ni waf i ni maw.
+5. xefe nyama cay a ni kafe.
+6. mame soya ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -531,34 +536,35 @@ utilisé. La question peut être formulée de manière plus spécifique en
 ajoutant des mots pour la personne, le temps, la manière ou la chose
 si nécessaire.
 
-**ye si ke?**
+**le si ke?**
 = Qu'est-ce que c'est ? / Qui est-il/elle ?  
 **ki ren laya?**
 = Qui vient ? (**ren** = personne)  
-**ki zaman tu nyama?**
+**ki zaman te nyama?**
 = Quand manges-tu ? (**zaman** = temps)  
 **ki yang dansa?**
 = Comment danser ? (**yang** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à
-l'aide de **ke koza**.
+l'aide de **ke saba**.
 
-**ke koza tu suku maw?**
+**ke saba te suku maw?**
 = Pourquoi aimes-tu les chats ?
 
 On répond aux questions sur les causes ou les raisons de quelque
-chose en ajoutant **koz** avant la cause ou la raison. **koza** est
-en fait un verbe actif qui signifie _causer_, et **kozu** est un
+chose en ajoutant **sabu** avant la cause ou la raison. **saba** est
+en fait un verbe actif qui signifie _causer_, et **sabu** est un
 verbe passif qui signifie _être causé par_.
 
-**ke koza tu suku maw?**
+**ke saba te suku maw?**
 = Pourquoi aimes-tu les chats ?  
-**kozu yemen kaway.**
+**sabu lole kaway.**
 = Parce qu'ils sont mignons.
 
-Bien entendu, vous pouvez également utiliser **koz** pour exprimer la cause ou la raison de quelque chose, même si vous ne réponsez pas à une question.
+Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
+ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suku maw kozu yemen kaway**
+**me suku maw sabu lole kaway**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -584,12 +590,12 @@ Bien entendu, vous pouvez également utiliser **koz** pour exprimer la cause ou 
 ### Réponses aux exercices
 
 
-1. ke ren suku supe?
+1. ki ren suku supe?
 2. pape suku.
-3. ke zaman ye laya?
-4. na bade du des minute.
-5. ye no nyama koz ke?
-6. kozu ye no suku kafe u supe.
+3. ki zaman le laya?
+4. sa bade yu des minute.
+5. ke saba le ni nyama?
+6. sabu le ni suku kafe u supe.
 
 --------------------------------------------------------------------------------
 
@@ -601,16 +607,16 @@ Il n'y a pas de conjugaison en Pandunia. Les verbes n'ont qu'une
 seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 (frapper)" dont la forme ne change (pratiquement) jamais.
 
-**mi darba ye.**
+**me darba le.**
 = Je le frappe / je l'ai frappé.
 
 En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
-**mi nyama pang** peut signifier à la fois "Je mange du pain" et
+**me nyama pang** peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**mi nyama pang na sube nyam.**
+**me nyama pang sa subi nyam.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
@@ -629,45 +635,45 @@ Il y a également des expressions de temps spécifiques.
 Les adjectifs pour le passé, le présent et le futur sont **pas, zay**
 et **wil**. Ils peuvent être utilisés pour modifier des noms.
 
-**sara si mi da pas xefe.**
+**sara si mi pas xefe.**
 = Sara est mon ex-patron.  
-**yusef si mi da zay xefe.**
+**yusef si mi zay xefe.**
 = Yusef est mon chef actuel.  
-**maria si mi da wil xefe.**
+**maria si mi wil xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
 
-**mi pas darba ye.**
+**me pas darba le.**
 = Je l'ai frappé (dans le passé).  
-**mi zay darba ye.**
+**me zay darba le.**
 = Je le frappe (actuellement)  
-**mi wil darba ye.**
+**me wil darba le.**
 = Je le frapperai (dans le futur).
 
 On peut également placé l'expression du temps en fin de phrase.
 
-**mi darba ye pas.**  
-**mi darba ye zay.**  
-**mi darba ye wil.**
+**me darba le pas.**  
+**me darba le zay.**  
+**me darba le wil.**
 
 Il n'est pas nécessaire d'utiliser les expressions de temps à chaque
 phrase, sauf si on parle à un autre temps au cours du récit.
 
-**mi pas ada un maw.**
+**me pas soya un maw.**
 = J'ai eu un chat dans le passé.
-**ye bon maw.**
+**le bon maw.**
 = C'était un bon chat.
-**mi ada un waf zay.**
+**me soya un waf zay.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le
 temps. Lorsqu'une expression temporelle est présente, les autres
 marqueurs de temps ne sont pas nécessaires.
 
-**mi jenu na nen 2003.**
+**me jenu sa nen 2003.**
 = Je suis né en 2003.  
-**ye safa kamar na badi den.**
+**le safa kamar sa badi den.**
 = Il nettoiera la chambre demain.
 
 
@@ -688,15 +694,15 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 **wil** futur.
 **darba** frapper, battre.
 **pang** pain.
-**sube nyam** repas du matin, petit-déjeuner.
+**subi nyam** repas du matin, petit-déjeuner.
 
 ### Réponses aux exercices
 
-1. mi da xefe festa na wile.
-2. mi ada dul waf na pase.
-3. tu nyama supe zay.
-4. ye safa kamar na predi den.
-5. maw nyama kafe na badi den.
-6. tu da mame festa na predi noce.
+1. mi xefe festa sa wile.
+2. me soya dul waf sa pase.
+3. te nyama supe zay.
+4. le safa kamar sa predi den.
+5. maw nyama kafe sa badi den.
+6. ti mame festa sa predi noce.
 
 

@@ -299,35 +299,35 @@ Jest czerwone.
 
 
 
-### yu <small>(partykuła dzierżawcza)</small>
+### ya <small>(partykuła dzierżawcza)</small>
 
 **ce ke?**
 Co to jest?
 
-**ce me yu fon.**
+**ce me ya fon.**
 To mój telefon.
 
-**ce ke yu?**
+**ce ke ya?**
 Czyje to?
 
-**ce me yu.**
+**ce me ya.**
 To jest moje.
 
-Uwaga: Partykuła dzierżawcza **yu**
-jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi yu**
-znaczy "mój", **tu yu**
+Uwaga: Partykuła dzierżawcza **ya**
+jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi ya**
+znaczy "mój", **tu ya**
 znaczy "twój" i tak dalej.
 
 **le ke?**
 Kim on/ona jest?
 
-**le si me yu doste.**
+**le si me ya doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**me si sara yu doste.**
+**me si sara ya doste.**
 Jestem przyjacielem Sary.
 
-<small>Etymologia. **yu**
+<small>Etymologia. **ya**
 pochodzi z języków: pundżabskiego: ਦਾ "dā", mandaryńskiego: 的 "de".</small>
 
 
@@ -354,20 +354,20 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 
 
-### ada <small>mieć</small>
+### soya <small>mieć</small>
 
-**me ada bon dom.**
+**me soya bon dom.**
 Mam dobry dom.
 
-**le ni ada pese.**
+**le ni soya pese.**
 Nie ma pieniędzy.
 
-**me wola ada nowi fon.**
+**me wola soya nowi fon.**
 Chcę mieć nowy telefon.
 
-**eska te ada bace?**
+**eska te soya bace?**
 Czy masz dzieci?
-**me ada dul bace.**
+**me soya dul bace.**
 Mam dwoje dzieci.
 
 
@@ -596,7 +596,7 @@ Umiem trochę mówić w Panduni.
 **me ni bila engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni bila te ya bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -634,7 +634,7 @@ Proszę, mów głośniej.
 **me auda musike.**
 Słucham muzyki.
 
-**te auda ki yang yu musike?**
+**te auda ki yang ya musike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -664,7 +664,7 @@ Co znaczy to słowo?
 **"maw" mena ke?**
 Co znaczy "mau"?
 
-**le mena yang ya hewan.**
+**le mena yang yu hewan.**
 To oznacza rodzaj zwierzęcia.
 
 **me ni aha le mena ke.**

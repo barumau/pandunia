@@ -8,15 +8,12 @@ a : sed
 abace : alfabeto  
 acente : akcento  
 acinium : aktinio  
-ada : havi  
 adali : justa  
 adalia : justeco  
-ader : havanto  
 adres : adreso  
-adu : aparteni  
 adulte : plenaĝa  
-afrike : Afriko  
-afriki : afrika  
+afri : afrika  
+afria : Afriko  
 agres : agreso  
 aha : kompreni  
 ainstainium : ejnŝtejnio  
@@ -384,6 +381,9 @@ fain : fajna
 fajan : disvolvi  
 famil nam : familinomo  
 famil : familio  
+fan : amuzo  
+fana : amuzi  
+fani : amuza  
 fantaza : fantaci  
 fantaze : fantazio  
 fantazi : fantazia  
@@ -845,9 +845,7 @@ max : pli
 maxim : plej  
 maxin : maŝino  
 maya' : majao  
-maza : amuzi  
-maze : amuzo  
-mazi : amuza  
+me : mi  
 medi : mezo  
 medika : sanigi (kuraci)  
 mediker : kuracisto  
@@ -867,8 +865,7 @@ mexiko : Meksikio
 mey zaman : ĉiam  
 mey : ĉiu(j)  
 meze : tablo  
-mi da : mia  
-mi : mi  
+mi : mia  
 mien : nudelo  
 migan : mandarino  
 mikro- : mikro-  
@@ -1182,6 +1179,8 @@ sonde : sono
 song : pino  
 sos : saŭco  
 sosis : kolbaso  
+soyer : havanto  
+soyu : aparteni  
 suan : acida  
 sube : mateno  
 sude : sudo  
@@ -1239,6 +1238,7 @@ teror : teroro
 teroriste : teroristo  
 teroristia : terorismo  
 teste : testo  
+ti : via (cia)  
 ting : halto  
 tinga : haltigi  
 tingu : halti  
