@@ -1265,8 +1265,8 @@ In Pandunia, structure words share the following characteristics:
 | 4| Reflexive pronoun         |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |                        |
 | 5| Interrogative             |                        | **ke**<br>what?        | **ki**<br>which?       |                        |                        |
 | 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
-| 7| Negation / lack / absence | **na**<br>without      | **ne**<br>no           | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
-| 8| Affirmation / presence    |**sa**<br>with, by, at  | **se**<br>yes          | **si**<br>yes          |                        | **su**                 |
+| 7| Negation / lack / absence | **na**<br>without      |                        | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
+| 8| Affirmation / presence    |**sa**<br>with, by, at  |                        | **si**<br>yes          |                        | **su**                 |
 | 9| Belonging                 | **ya**<br>of           |                        |                        |                        | **yu**<br>'s           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
 |11| Origin                    | **da**<br>from, since  |                        |                        |                        | **du**                 |
