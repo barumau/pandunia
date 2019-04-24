@@ -2,34 +2,34 @@
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
-un sube urse mame wola cuta pa bazar.
+un sube urse mame wanta cuta pa bazar.
 le loga pa lil urse: "ni nyama kande i keke sa dura yu me sa bazar."
 lil urse loga: "si, si, mame! me jana le. me day urse. plisa cuta way!"
 urse mame loga "salam" i le cuta way.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_02.png)
 
-lil urse sa mon. le fikra: "zay me abla fata eni xey yu me wola!"
+lil urse sa mon. le fikra: "zay me abla fata eni xey yu me wanta!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
-lil urse cuta pa wax kamar. le fikra "me ni wola waxa dante zay."
+lil urse cuta pa wax kamar. le fikra "me ni wanta waxa dante zay."
 lil urse si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
-lil urse joga lil gar sa mey kamar. le wida keke sanduke sa meza.
-le fikra "me wola nyama keke!" a le yada: "a! mame loga me ni nyama keke."
+lil urse joga lil gar sa mey kamar. le vida keke sanduke sa meza.
+le fikra "me wanta nyama keke!" a le yada: "a! mame loga me ni nyama keke."
 lil urse ni nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
-lil urse wida kande botol sa almari. le fikra "me wola nyama kande!"
+lil urse vida kande botol sa almari. le fikra "me wanta nyama kande!"
 a le yada: "a! mame loga me ni nyama kande." lil urse ni nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
-lil urse wida mel pote sa alter almari. le fikra
+lil urse vida mel pote sa alter almari. le fikra
 "mame loga nul xey yu tema mel. me abla nyama mel!"
 lil urse sida sa kurse i le nyama lil mel. mel bon gusta!
 
@@ -43,12 +43,12 @@ bada, lil urse senta ni jana ya sente sa boke. li dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-le geta tele fon. le loga: "halow! eska te si dante dotor? plisa laya pa me! me soya tung dante!"
+le geta tele fon. le loga: "halow! eska te si dante dotor? plisa laya pa me! me hava tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
 dotor laya pa urse famil ya dom. le loga: "eska te nida helpe?"
-lil urse loga: "si! me soya tung dante!"
+lil urse loga: "si! me hava tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 

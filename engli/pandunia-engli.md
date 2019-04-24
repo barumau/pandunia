@@ -37,8 +37,6 @@ alofone : allophone
 alojinsokami : heterosexual  
 altar : altar  
 alumin : aluminium  
-am : love (affection)  
-ama : love (to be in love with)  
 amari : Amhara (an Ethiopian ethnic group and language)  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
@@ -397,8 +395,6 @@ dolar : dollar
 dom : home (residence)  
 doma : live (dwell, reside)  
 dominogem : dominoes  
-don : gift  
-dona : give  
 dong : east  
 doste : friend  
 dosti : friendly  
@@ -633,6 +629,8 @@ gim : gold
 gine bisau : Guinea-Bissau  
 gine : Guinea  
 gitar : guitar  
+giva : give  
+give : gift  
 giyan : French Guiana  
 glota : swallow  
 glute : glue  
@@ -702,6 +700,10 @@ hasium : hassium
 hatar : danger (peril)  
 hatari : dangerous  
 hati : even (intensifier)  
+hava : have (own, possess)  
+have : property (belongings, possessions)  
+haver : owner (proprietor)  
+havu : belong  
 hawe : air  
 hawobar : atmospheric pressure  
 hawobarometer : barometer  
@@ -1050,8 +1052,6 @@ kosta : cost
 kostarikia : Costa Rica  
 koste : cost (price)  
 kote : coat  
-koy ren : someone (somebody)  
-koy xey : something  
 koy zaman : sometime  
 koy : some  
 kratia : rule (reign)  
@@ -1174,6 +1174,8 @@ longe : length
 lose : screw  
 lote : batch (lot)  
 lote : lot (plot of land)  
+lova : love (to be in love with)  
+love : love (liking, affection)  
 lowa sang : bleed  
 lowa : leak  
 luksemburgia : Luxembourg  
@@ -1488,8 +1490,6 @@ nixe : niche (alcove)
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
-nol ren : nobody (no-one)  
-nol xey : nothing  
 nol : zero (none)  
 nonga : cultivate (farm)  
 nonger : farmer  
@@ -1502,14 +1502,16 @@ norme : norm (standard)
 normi : normal  
 nos : nose  
 nota : note (observe, notice)  
-note buke : notebook  
 note : note (observation)  
+noting : nothing  
 notis : notice (notification)  
 notisa : notify  
-nowa : renew (make new, renovate)  
-nowi kaledonia : New Caledonia  
-nowi zilandia : New Zealand  
-nowi : new (recent)  
+notobuke : notebook  
+nova : renew (make new, renovate)  
+novi kaledonia : New Caledonia  
+novi zilandia : New Zealand  
+novi : new (recent)  
+nowon : nobody (no-one)  
 noy : nine (9)  
 nudi : naked (bare)  
 nudiste : nudist  
@@ -1589,7 +1591,7 @@ papagay : parrot (parakeet)
 papay : papaya  
 pape : father  
 papir : paper  
-papua nowi ginia : Papua New Guinea  
+papua novi ginia : Papua New Guinea  
 par : equal (peer)  
 paraguay : Paraguay  
 paraya : despise (scorn)  
@@ -1607,6 +1609,7 @@ pas : past (bygone)
 pasa : pass (go by, go past)  
 pase : past times  
 paskal : pascal (Pa)  
+pasporte : passport  
 paste : paste  
 patate : potato  
 paunde : pound (£)  
@@ -1717,6 +1720,7 @@ preda : precede (come before)
 predi den : yesterday  
 predi : previous  
 presis : precise (exact, accurate)  
+prezidente : president  
 prizon : prison (imprisonment)  
 prizona : imprison (jail)  
 prizoner : jailer (imprisoner)  
@@ -1997,11 +2001,9 @@ sonde : sound (audio)
 song : pine tree  
 sos : sauce  
 sosis : sausage  
+soting : something  
 soto : Lesotho  
-soya : have (own, possess)  
-soye : property (belongings, possessions)  
-soyer : owner (proprietor)  
-soyu : belong  
+sowon : someone (somebody)  
 suan : sour  
 sube den : forenoon  
 sube nyam : breakfast  
@@ -2094,7 +2096,7 @@ teknolojia : technology (study of techniques)
 tel : far (distant)  
 tele : distance  
 telofon : telephone  
-telowide : television  
+telovide : television  
 telugi : Telugu  
 telurium : tellurium  
 tem : topic (subject, theme)  
@@ -2128,6 +2130,7 @@ tikete : ticket
 tim : team  
 tin : can (tin can)  
 ting : stop  
+ting : thing  
 tinga : stop (halt)  
 tingu : stop (halt)  
 tira milke : milk (draw milk)  
@@ -2213,21 +2216,38 @@ uzer : user
 ##v  
 vanuatu : Vanuatu  
 vatikan : Holy See (Vatican City State)  
+vaze : vase (pot, bin, jar, jug)  
 venesuela : Venezuela  
+vida : look (see)  
+vide : view (vision)  
+vidomaidan : visual field (field of vision)  
+vidu : be seen  
 vietnam : Viet Nam  
+vin : wine  
+vineria : winery  
+vinil : vinyl  
 vinsi i grenadin : Saint Vincent and Grenadines  
+virus : virus  
+virusolojia : virology  
+vis prezidente : vice-president  
+vis : vice (deputy)  
+visa : substitute  
+vize : visa  
+vizita : visit  
+vizite : visitation (visit)  
+viziter : visitor (guest)  
 vodu : voodoo  
 volte : volt (V)  
 ##w  
 wada : promise (commit)  
 waf : dog  
-wain : wine  
 wakila : represent  
 waksin : vaccine  
 walis i futuna nesia : Wallis and Futuna Islands  
 wan : bowl (earless cup)  
 wang : yellow  
 wanil : vanilla  
+wanta : want (desire)  
 war 1 (war un) : Monday  
 war 2 (war du) : Tuesday  
 war 3 (war sam) : Wednesday  
@@ -2247,7 +2267,6 @@ way dexi : foreign
 way dexia : foreign country  
 way : outer (external)  
 waye : outside (exterior)  
-waze : vase (pot, bin, jar, jug)  
 weka : wake (make awake)  
 weki : awake  
 werka : work  
@@ -2256,10 +2275,6 @@ werker : worker
 werme : worm  
 weste : west  
 westi : western  
-wida : look (see)  
-wide : view (vision)  
-widomaidan : visual field (field of vision)  
-widu : be seen  
 wiki : wiki  
 wil : will (in future)  
 wildi : wild (savage)  
@@ -2269,13 +2284,6 @@ wimanokaper : plane hijacker
 win : victory (win)  
 wina : win (defeat)  
 wing : wing  
-winil : vinyl  
-wirus : virus  
-wirusolojia : virology  
-wizita : visit  
-wizite : visitation (visit)  
-wiziter : visitor (guest)  
-wola : want (desire)  
 wolfe : wolf  
 ##x  
 xakal : jackal  
@@ -2299,7 +2307,6 @@ xef : chief (boss)
 xefi minister : prime minister  
 xefi : main (principal)  
 xenon : xenon  
-xey : thing  
 xiki : elegant (chic)  
 xim : heart  
 xin : belief (faith, creed)  

@@ -32,7 +32,7 @@ Oto 11 podstawowych zasad języka Pandunia.
     - przykład: **pang nyamu.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi plisa tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
+    - przykład: **mi plisa tu giva mone.** = Proszę cię, żebyś dał mi pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
     - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Mówisz w Panduni?
     - **mi plisa tu loga ming.** →  **plisa loga ming.** = Proszę, mów wyraźnie.
@@ -230,9 +230,9 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 **se** - się, siebie
 
-**mi wida se** - Widzę się.
-**ye wida se** - Widzi się.
-**mimen wida se.** - Widzimy się.
+**mi vida se** - Widzę się.
+**ye vida se** - Widzi się.
+**mimen vida se.** - Widzimy się.
 
 
 ### 5.2. Zaimki wskazujące
@@ -242,7 +242,7 @@ Zaimki wskazujące to:
 **ce** - ten
 **le** - tamten
 
-> **mi wola ce.** - Chcę ten.
+> **mi wanta ce.** - Chcę ten.
 
 Kończą się na **-i**, gdy działają jak przymiotniki, tj., kiedy są przed rzeczownikiem.
 
@@ -300,7 +300,7 @@ Najpowszechniejszym szykiem zdania w Panduni jest podmiot-orzeczenie-dopełnieni
     S   O
 
 Przykłady:
-**mi wida yemen.** - Ja wizę ich.
+**mi vida yemen.** - Ja wizę ich.
 **tu baka pang.** - Ty pieczesz chleb.
 
 #### 6.2.2. Szyk OSV
@@ -314,7 +314,7 @@ Drugim szykiem w tym trójkącie jest OSV. Jest częsta w zdaniach podrzędnych.
     S ← O
 
 Przykłady:
-**ke tu wida?** - Co ty widzisz?
+**ke tu vida?** - Co ty widzisz?
 **mi nyama pang, jo tu baka.** - Jem chleb, _który ty upiekłeś._
 
 #### 6.2.3. Szyk VOS
@@ -350,7 +350,7 @@ Szyk SOV jest powrzechnie używany alternatywnie do szyku SVO.
     O ← S
 
 Przykłady:
-**mi yemen widu.** - _Ja ich widzę._
+**mi yemen vidu.** - _Ja ich widzę._
 **tu pang baku.** - _Ty chleb jesz._
 
 #### 6.3.2. Szyk OVS
@@ -381,7 +381,7 @@ Szyk VSO jest bardzo rzadki ale możliwy.
 
 W zdaniu w stronie biernej jest tylko dopełnienie i orzeczenie ale żadnego podmiotu(tj. agenta).
 
-> **mi widu.** - Ja jestem widziany.
+> **mi vidu.** - Ja jestem widziany.
 > **pang baku.** - Chleb jest pieczony.
 > **kupe kaputu.** - Kubek jest niszczony.
 
@@ -457,7 +457,7 @@ Zdania czynne używające czasownika kończącego się na **-a** mają szyk podm
 
 > **mi nyama apel.** - Ja jem jabłka.
 > **mi auda musike.** - Ja słucham muzyki.
-> **mi wida tu.** - Ja widzę cię.
+> **mi vida tu.** - Ja widzę cię.
 
 Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
 
@@ -472,7 +472,7 @@ SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV
 
 W stronie biernej nie ma podmiotu-agenta w zdaniu. Jest tylko dopełnienie i orzeczenie. Normalnie strona bierna jest wyrażana szykiem zdania dopełnienie-orzeczenie (VO) z czasownikiem kończącym się na **-u**.
 
-> **tu widu.** - Ty jesteś widziany.
+> **tu vidu.** - Ty jesteś widziany.
 > **musike audu.** - Muzyka jest słyszana.
 > **pang baku.** - Chleb jest pieczony.
 
@@ -480,15 +480,15 @@ Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu. Dope�
 
 Agent może być wspomniany po czasowniku z lub bez przyimka **du**.
 
-> **tu widu mi.** - Jesteś widziany przez mnie.
-> **tu widu du mi.** - Jesteś widziany przez mnie.
+> **tu vidu mi.** - Jesteś widziany przez mnie.
+> **tu vidu du mi.** - Jesteś widziany przez mnie.
 
 
 #### 7.4.2. Szyk VO
 
 W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
-> **wida tu.** - Widzenie cię.
+> **vida tu.** - Widzenie cię.
 > **auda musike.** - Słuchanie muzyki.
 > **baka pang.** - Pieczenie chleba.
 
@@ -522,7 +522,7 @@ podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie
 
 Dopełnienie 1. spełnia podwójną rolę. Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-> **mi wola tu nyama sabze.** - Ja chcę ty jesz warzywa.
+> **mi wanta tu nyama sabze.** - Ja chcę ty jesz warzywa.
 
 W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocześnie **tu** działa jako podmiot następnego predykatu, **nyama sabze**, więc **tu** jest _osią_ całego zdania.
 
@@ -533,7 +533,7 @@ Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są 
 
 1. **mi gowa dom.** - Idę do domu.
 2. **mi abla gowa dom.** - Mogę iśc do domu.
-3. **mi wola abla gowa dom.** - Chcę móc iść do domu.
+3. **mi wanta abla gowa dom.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka
@@ -580,26 +580,26 @@ Partykuła **si** potwierdza, a **no** przeczy. Inaczej, **si** oznacza "być", 
 Wyrażenia są domyślnie twierdzące, więc słowo **si** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
 
 > **mi si ren.** - Ja jestem osobą.
-> **ye si nowi meza.** - To jest nowy stół.
+> **ye si novi meza.** - To jest nowy stół.
 
 ### 9.1.2. Przeczenie
 
 Takie zdania mogą być prosto zaprzeczane przez **no**.
 
 > **mi no ren.** - Ja nie jestem osobą.
-> **ye no nowi meza.** - To nie jest nowy stół.
+> **ye no novi meza.** - To nie jest nowy stół.
 
 Słowo **no** jest używane do zaprzeczania czegokolwiek. Działa zawsze na następne słowo.
 
-> **mi wida tu.** - Ja widzę cię.
-> **mi no wida tu.** - Ja nie widzę cię.
-> **mi wida no tu a yemen.** - Ja widzę nie ciebie,ale ich.
+> **mi vida tu.** - Ja widzę cię.
+> **mi no vida tu.** - Ja nie widzę cię.
+> **mi vida no tu a yemen.** - Ja widzę nie ciebie,ale ich.
 
 Partykuły **si** i **no** są używane też do odpowiadania na pytania.
 
-> **kia tu wida mi?** - Czy widzisz mnie?
-> **si. (mi wida tu.)** - Tak. (Widzę się.)
-> **no. (mi no wida tu.)** - Nie. (Nie widzę cię.)
+> **kia tu vida mi?** - Czy widzisz mnie?
+> **si. (mi vida tu.)** - Tak. (Widzę się.)
+> **no. (mi no vida tu.)** - Nie. (Nie widzę cię.)
 
 
 
@@ -643,15 +643,15 @@ Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
 Tutaj **du** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-> **ye si man _du mi wida_.** - On jest człowiekiem_, którego widziałem_.
+> **ye si man _du mi vida_.** - On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-> **mi wida man _du nyama apel_.** - Widzę człowieka_, który je jabłka_.
+> **mi vida man _du nyama apel_.** - Widzę człowieka_, który je jabłka_.
 
 Można też tworzyć zdania podrzędne używają **da**. Wtedy zdanie podrzędne poprzedza rzeczownik opisywany. Czasownik jest zamieniane w imiesłów przez umieszczanie **da** od razu po nim.
 
-> **mi wida _apel nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
+> **mi vida _apel nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
 
 > **buke dugu da ren na kamer.** = Czytająca książki osoba jest w pokoju.
 > **ye duga da buke na meza.** = Przez niego/nią czytana książka jest na stole.
@@ -807,7 +807,7 @@ Podane zakończenia samogłoskowe umożliwiają łatwą zmianę typu słowa. Zak
 **nowi** lub **now** - nowy (przymiotnik)
 **nowa** - odnowić (czasownik czynny)
 **nowu** - stawać się nowym (czasownik bierny)
-**nowe** - nowość, nowa rzecz (rzeczownik)
+**nowe** - nowość, nova rzecz (rzeczownik)
 
 Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z najpowszechniejszych czasowników w Panduni.
 
@@ -824,7 +824,7 @@ Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z na
 
 Dynamiczne czasowniki kończą się na **-a** i **-u**. Z wąskiej perspektywy zdania składającego się tylko z podmiotu i orzeczenia, można powiedzieć, że **-a** oznacza czasownik czynny, a **-u** oznacza czasownik bierny, więc **loga** znaczy _mówić_, a **logu** znaczy _być mówionym_.
 
-1. Jeśli rdzeń jest czynnością, jego forma czasownikowa będzie znaczyła "wykonać czynność". Na przykład z **wide** = "spojrzenie" otrzymujemy **wida** = "patrzeć".
+1. Jeśli rdzeń jest czynnością, jego forma czasownikowa będzie znaczyła "wykonać czynność". Na przykład z **wide** = "spojrzenie" otrzymujemy **vida** = "patrzeć".
 2. Jeśli rdzeń jest opisem, jak **now-** (**nowi** = nowy), jego forma czasownikowa będzie miała znaczenie "nadawać tę czynnośc". Na przykład z **nowi** = "nowy" otrzymujemy **nowa** = "czynić nowym" lub "odnowić".
 
 
@@ -998,19 +998,19 @@ Formuła opisu nadal daje sensowne (choć oczywiste) zdania. Formuły wytwarzani
 
 Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
-Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **mi wida tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
+Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **mi vida tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
 
-    mi wida tu.
+    mi vida tu.
 
-       wida
+       vida
       ┌─┴─┐
      mi   tu
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi wida sam jowan ren.
+    mi vida sam jowan ren.
 
-       wida
+       vida
       ┌─┴──┐
      mi   ren
            |
@@ -1032,11 +1032,11 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sara**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sara wola darsa pandunia, sabu ye si bon dunia bax.
+    yusef i sara wanta darsa pandunia, sabu ye si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
-              wola                   si
+              wanta                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |

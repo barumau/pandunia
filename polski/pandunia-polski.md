@@ -37,8 +37,6 @@ alofone : alofon
 alojinsokami : heteroseksualny  
 altar : ołtarz  
 alumin : glin (aluminium)  
-am : miłość (afekt)  
-ama : kochać  
 amari : Amhara, amharski  
 amen : porozumienie (amen)  
 amena : potwierdzić, potwierdzać, zgodzić się, zgadzać się  
@@ -396,8 +394,6 @@ dolar : dolar
 dom : dom, mieszkanie  
 doma : mieszkać  
 dominogem : domino  
-don : podarunek, dar, prezent  
-dona : dać, dawać  
 dong : wschód  
 doste : przyjaciel  
 dosti : przyjacielski  
@@ -632,6 +628,8 @@ gim : złoto
 gine bisau : Guinea Bissau  
 gine : Gwinea  
 gitar : gitara  
+giva : dać, dawać  
+give : podarunek, dar, prezent  
 giyan : Gujana Francuska  
 glota : połknąć (połykać)  
 glute : klej  
@@ -701,6 +699,10 @@ hasium : has
 hatar : zagrożenie, niebezpieczeństwo  
 hatari : niebezpieczny  
 hati : nawet  
+hava : mieć  
+have : własność (mienie)  
+haver : właściciel (posiadacz)  
+havu : należeć  
 hawe : powietrze  
 hawobar : ciśnienie atmosferyczne  
 hawobarometer : barometr  
@@ -755,7 +757,7 @@ huristia : liberalizm
 i : i, oraz  
 ia : przyrostek dla miejsca  
 ibri : hebrajski  
-ice : wola, chęć  
+ice : wanta, chęć  
 ide : idea, pomysł  
 idi : pojęciowy  
 impera : władać, panować, rządzić jako imperator  
@@ -1049,8 +1051,6 @@ kosta : kosztować
 kostarikia : Kostaryka  
 koste : koszt, cena  
 kote : płaszcz  
-koy ren : ktoś  
-koy xey : coś  
 koy zaman : sometime  
 koy : jakiś  
 kratia : rządzić, władać  
@@ -1171,6 +1171,8 @@ longe : długość
 lose : śruba, wkręt  
 lote : działka (teren)  
 lote : wsad, partia, porcja, seria  
+lova : kochać  
+love : miłość (afekt)  
 lowa sang : krwawić  
 lowa : przeciekać, ciec  
 luksemburgia : Luksemburg  
@@ -1483,8 +1485,6 @@ nixe : nisza, alkowa
 nobelium : nobel  
 noce : noc  
 node : węzeł, zupeł  
-nol ren : nikt, żadna osoba  
-nol xey : nic, żadna rzecz  
 nol : zero, nic, żaden  
 nonga : uprawić, uprawiać  
 nonger : rolnik, farmer  
@@ -1497,14 +1497,16 @@ norme : norma, standard
 normi : normalny, standardowy  
 nos : nos  
 nota : notować, obserwować, zauważyć, zauważać  
-note buke : notatnik  
 note : uwaga, obserwacja  
+noting : nic, żadna rzecz  
 notis : wiadomość, zawiadomienie, powiadomienie  
 notisa : powiadomić, powiadamiać  
-nowa : odnowić, odnawiać, uczynić nowym  
-nowi kaledonia : Nowa Kaledonia  
-nowi zilandia : Nowa Zelandia  
-nowi : nowy  
+notobuke : notatnik  
+nova : odnowić, odnawiać, uczynić nowym  
+novi kaledonia : Nowa Kaledonia  
+novi zilandia : Nowa Zelandia  
+novi : nowy  
+nowon : nikt, żadna osoba  
 noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
 nudiste : nudysta  
@@ -1583,7 +1585,7 @@ papagay : papuga
 papay : papaja  
 pape : ojciec  
 papir : papier  
-papua nowi ginia : Papua Nowa Gwinea  
+papua novi ginia : Papua Nowa Gwinea  
 par : równy  
 paraguay : Paragwaj  
 paraya : gardzić (pogardzać)  
@@ -1989,11 +1991,9 @@ sonde : dźwięk, brzmienie
 song : sosna  
 sos : sos  
 sosis : kiełbasa  
+soting : coś  
 soto : Lesotho  
-soya : mieć  
-soye : własność (mienie)  
-soyer : właściciel (posiadacz)  
-soyu : należeć  
+sowon : ktoś  
 suan : kwaśny  
 sube den : przedpołudnie  
 sube nyam : śniadanie  
@@ -2086,7 +2086,7 @@ teknolojia : technologia, nauka o technikach
 tel : daleki, odległy  
 tele : dystans  
 telofon : telefon  
-telowide : telewizja  
+telovide : telewizja  
 telugi : telugu  
 telurium : tellur  
 tem : temat, motyw  
@@ -2119,6 +2119,7 @@ tike : tikka
 tikete : bilet  
 tim : drużyna  
 tin : puszka  
+ting : rzecz  
 ting : stop; przerwa, zatrzymanie  
 tinga : zatrzymać  
 tingu : zatrzymać się  
@@ -2205,21 +2206,33 @@ uzer : użytkownik
 ##v  
 vanuatu : Vanuatu  
 vatikan : Watykan, Państwo Watykańskie  
+vaze : waza, garnek, pojemnik, słoik, dzban  
 venesuela : Wenezuela  
+vida : patrzeć, widzieć  
+vide : widok, wzrok  
+vidomaidan : pole widzenia  
+vidu : być widzianym  
 vietnam : Wietnam  
+vin : wino  
+vinil : winyl  
 vinsi i grenadin : Saint Vincent and Grenadines  
+virus : wirus  
+virusolojia : wirusologia  
+vizita : odwiedzić, odwiedzać  
+vizite : wizyta  
+viziter : wizytant (gość)  
 vodu : voodoo  
 volte : wolt (V)  
 ##w  
 wada : obiecać, angażować się  
 waf : pies  
-wain : wino  
 wakila : reprezentować  
 waksin : szczepionka  
 walis i futuna nesia : Saint Vincent i Grenadyny  
 wan : misa, kubek bez ucha  
 wang : żółty  
 wanil : wanilia  
+wanta : chcieć, pragnąć  
 war 1 (war un) : poniedziałek  
 war 2 (war du) : wtorek  
 war 3 (war sam) : środa  
@@ -2239,7 +2252,6 @@ way dexi : zagraniczny
 way dexia : zagranica  
 way : zewnętrzny  
 waye : zęwnętrzny  
-waze : waza, garnek, pojemnik, słoik, dzban  
 weka : obudzić, budzić  
 weki : przebudzony, przytomny  
 werka : pracować  
@@ -2248,10 +2260,6 @@ werker : pracownik
 werme : robak  
 weste : zachód  
 westi : zachodni  
-wida : patrzeć, widzieć  
-wide : widok, wzrok  
-widomaidan : pole widzenia  
-widu : być widzianym  
 wiki : wiki  
 wil : w przyszłości  
 wildi : dziki  
@@ -2261,13 +2269,6 @@ wimanokaper : porywacz samolotu
 win : zwycięstwo, wygrana  
 wina : zwyciężyć, wygrać  
 wing : skrzydło  
-winil : winyl  
-wirus : wirus  
-wirusolojia : wirusologia  
-wizita : odwiedzić, odwiedzać  
-wizite : wizyta  
-wiziter : wizytant (gość)  
-wola : chcieć, pragnąć  
 wolfe : wilk  
 ##x  
 xakal : szakal  
@@ -2291,7 +2292,6 @@ xef : szef, kierownik
 xefi minister : premier  
 xefi : główny  
 xenon : ksenon  
-xey : rzecz  
 xiki : elegancki, szykowny  
 xim : serce  
 xin : wiara, wierzenie, kredo  

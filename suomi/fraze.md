@@ -116,7 +116,7 @@ Sinä tervehdit minua.
 Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **me**
 pysyy koko ajan samana, oli se sitten tekijänä taikka teon kohteena.
 
-**me ama te.**
+**me lova te.**
 Minä rakastan sinua.
 
 <small>Sanan **te**
@@ -368,20 +368,20 @@ lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām", thai: นา�
 
 
 
-### soya <small>olla, omistaa</small>
+### hava <small>olla, omistaa</small>
 
-**me soya bon dom.**
+**me hava bon dom.**
 Minulla on hyvä talo.
 
-**le ni soya pese.**
+**le ni hava pese.**
 Hänellä ei ole rahaa.
 
-**me wola soya nowi fon.**
+**me wanta hava novi fon.**
 Minä haluan saada uuden puhelimen.
 
-**eska te soya bace?**
+**eska te hava bace?**
 Onko sinulla lapsia?
-**me soya dul bace.**
+**me hava dul bace.**
 Minulla on kaksi lasta.
 
 
@@ -420,7 +420,7 @@ Voinko auttaa sinua?
 
 ### nyama <small>syödä, juoda</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 Haluaisitko syödä jotakin?
 
 **le nyama aple.**
@@ -446,26 +446,26 @@ Minä nautin kahvia ja leipää.
 
 
 
-### wola <small>haluta</small>
+### wanta <small>haluta</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 Haluaisitko syödä?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 Minä haluan juoda kahvia.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 Haluaisitko juoda teetä.
-**ni. me ni wola cay. me wola kafe.**
+**ni. me ni wanta cay. me wanta kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 Minkä omenan haluat?
 **ci ros.**
 Tuon punaisen.
@@ -650,18 +650,18 @@ Minkälaista musiikkia sinä kuuntelet?
 
 
 
-### wida <small>nähdä</small>
+### vida <small>nähdä</small>
 
-**suku wida te.**
+**suku vida te.**
 Hauska nähdä sinua!
 
-**wida te re!**
+**vida te re!**
 Nähdään myöhemmin!
 
-**wida te ming den!**
+**vida te ming den!**
 Nähdään huomenna!
 
-**me wida le predi den.**
+**me vida le predi den.**
 Minä näin hänet eilen.
 
 
@@ -835,7 +835,7 @@ Minä odotan sinua hotellissa.
 **me zay salama te ya doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
-**man zay wida fem.**  
+**man zay vida fem.**  
 Mies on katsomassa naista.
 
 **le zay xefe.**  
@@ -850,7 +850,7 @@ Hän on parhaillaan kotona.
 **me pas salama te ya doste.**  
 Minä tervehdin sinun ystävääsi.
 
-**man pas wida fem.**  
+**man pas vida fem.**  
 Mies katsoi naista.
 
 **le pas xefe.**  
@@ -865,7 +865,7 @@ Hän oli kotona.
 **me lew salama te ya doste.**  
 Minä olen tervehtinyt ystävääsi.
 
-**man lew wida fem.**  
+**man lew vida fem.**  
 Mies on katsonut naista.
 
 **le lew xefe.**  
@@ -880,7 +880,7 @@ Hän on ollut kotona.
 **me wil salama te ya doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**man wil wida fem.**  
+**man wil vida fem.**  
 Mies tulee näkemään naisen.
 
 **le wil xefe.**  

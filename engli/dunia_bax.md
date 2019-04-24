@@ -328,7 +328,7 @@ Pandunia allows different word orders. This is achieved mainly by
 the verb endings -a and -u, which signal reverse word orders. In
 Pandunia verbs can function also as adpositions (so called _coverbs_).
 
-**me ama te.** (SVO)  
+**me lova te.** (SVO)  
 **me te amu.** (SOV)  
 I love you.
 
@@ -393,7 +393,7 @@ form that sounds familiar to speakers of as many languages as possible.
 
 The suffixes of Pandunia are applied on the roots. Here are some
 resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), nowi (new), nowe (news), nowa (renovate).
+(shorten), novi (new), nove (news), nova (renovate).
 
 
 ### Sinitic words
@@ -444,7 +444,7 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama te, te ama me.
+    Pandunia:  me lova te, te lova me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **beyu** is used when the object of an action comes first in

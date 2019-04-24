@@ -203,7 +203,7 @@ Trzeci typ jest najbardziej atrakcyjny dla międzynarodowego języka sztucznego,
 
 Pandunia pozwala na różne kolejności słów. Jest to osiągalne głównie zakończeniami czasowników -a i -u, które sygnalizują odwrotne szyki zdań. W Panduni czasowniki mogą działać też jako przyimki.
 
-**mi ama tu.** (SVO)  
+**mi lova tu.** (SVO)  
 **mi tu amu.** (SOV)  
 Kocham cię.
 
@@ -250,7 +250,7 @@ Pandunia zapożycza rdzenie z zachodnich słów. Cel to wybranie formy, która b
 | **marc**      | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
 | **post**      | poczta | post (mail)| (postal)    | posta      | poste      | Post       | počta      |
 
-Przyrostki Panduni są dołączane do rdzeni. Oto kilka słów Panduni: korti (krótki), korte (krótkość), korta (skracać), nowi (nowy), nowe (nowość), nowa (odnowić).
+Przyrostki Panduni są dołączane do rdzeni. Oto kilka słów Panduni: korti (krótki), korte (krótkość), korta (skracać), novi (nowy), nove (nowość), nova (odnowić).
 
 
 ### Słowa sinickie
@@ -285,7 +285,7 @@ Normalny szyk zdania to podmiot-orzeczenie-dopełnienie – tak, jak w polskim, 
 
     Polski:     Ja kocham cię, a ty kochasz mnie.
     Angielski:  I love you, and you love me.
-    Pandunia:   mi ama tu, tu ama mi.
+    Pandunia:   mi lova tu, tu lova mi.
     Chiński:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w zdaniu. (To tak zwana strona bierna.)

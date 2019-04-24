@@ -9,7 +9,6 @@ ali : autre
 alkol : alcool  
 almas : diamant  
 altar : autel  
-ama : aimer  
 amerike : Amérique  
 ameriki : américain  
 analis : analyse  
@@ -45,10 +44,13 @@ europi : européen
 ##f  
 ##g  
 ##h  
+hava : avoir  
+havu : appartenir à  
 ##i  
 ##j  
 ##k  
 ##l  
+lova : aimer  
 ##m  
 ##n  
 ##o  
@@ -58,15 +60,13 @@ pike : cime (pic, sommet)
 piratia : piraterie  
 ##r  
 ##s  
-soya : avoir  
-soyu : appartenir à  
 ##t  
 tarje : traduction  
 tazi : frais  
 tekne : technique  
 teknolojia : technologie  
 telofon : téléphone  
-telowide : téléviseur  
+telovide : téléviseur  
 tem : sujet (thème)  
 tende : tente  
 tepe : ruban (bande)  
@@ -86,9 +86,9 @@ tuze : lapin, lièvre
 uranium : uranium  
 ##v  
 venesuela : Venezuela  
+virus : virus  
 ##w  
 weki : éveillé  
-wirus : virus  
 wolfe : loup  
 ##x  
 xing : étoile  

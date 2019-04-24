@@ -17,7 +17,7 @@ Perussäännöt
 7. Passiivisessa lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
     - esim. **meze pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
-    - esim. **me plisa te dona pese.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **me plisa te giva pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Puhutko sinä panduniaa?
     - **me plisa te loga ming.** →  **plisa loga ming.** = Pyydän, puhu selvästi.
@@ -260,16 +260,16 @@ _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
 Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 
-**me wida ze**
+**me vida ze**
 = Minä näen itseni.
-**le wida ze**
+**le vida ze**
 = Hän näkee itsensä.
-**mome wida ze.**
+**mome vida ze.**
 = Me näemme itsemme.
 
 Sen omistusmuoto on **zi**.
 
-**le wida zi muke sa mirer.**
+**le vida zi muke sa mirer.**
 = Hän näkee kasvonsa peilissä.
 
 
@@ -280,7 +280,7 @@ Osoittava pronomini on:
 **ce**
 = tämä, tuo  
 
-**me wola ce.**
+**me wanta ce.**
 = Minä haluan tämän/tuon.
 
 I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.
@@ -337,7 +337,7 @@ Panduniassa yleisin sanajärjestys on subjekti-verbi-objekti eli SVO. Tässä sa
     S   O
 
 Esimerkkejä:  
-**me wida lole.**
+**me vida lole.**
 = Minä näen heidät.  
 **te beka pang.**
 = Sinä leivot leipää.  
@@ -353,7 +353,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
     S ← O
 
 Esimerkkejä:  
-**ke te wida?**
+**ke te vida?**
 = Mitä sinä näet?  
 **me nyama pang, jo te beka.**
 = Minä syön leipää _jonka sinä leivoit._
@@ -371,7 +371,7 @@ Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
 Esimerkkejä:  
 **nyama pang me.**
 = Syön leipää minä.  
-**wida me te.**
+**vida me te.**
 = Näet minut sinä.
 
 
@@ -394,7 +394,7 @@ SOV on usein käytetty vaihtoehto SVO-järjestykselle.
     O ← S
 
 Esimerkkejä:  
-**me lole widu.**
+**me lole vidu.**
 = _Minä heidät näen._  
 **te pang beku.**
 = _Sinä leipää leivot._
@@ -414,9 +414,9 @@ Esimerkkejä:
 = Leipää leivot sinä.  
 **pang beku.**
 = Leipää leivotaan.  
-**te widu me.**
+**te vidu me.**
 = Sinut näen minä.  
-**te widu.**
+**te vidu.**
 = Sinut nähdään.
 
 #### 6.3.3. VSO-järjestys
@@ -433,7 +433,7 @@ VSO-järjestys on harvinainen mutta mahdollinen.
 
 Passiivilausekkeessa on vain objekti ja verbi, mutta subjektia ei mainita.
 
-**me widu.**
+**me vidu.**
 = Minut nähdään.  
 **pang beku.**
 = Leipää leivotaan.  
@@ -467,7 +467,7 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 
 **me bon.**
 = Minä olen hyvä.  
-**le nowi.**
+**le novi.**
 = Se on uusi.  
 **le sara.**
 = Hän on Sara.
@@ -476,7 +476,7 @@ Kieltolauseessa käytetään sanaa **ni**.
 
 **me ni bon.**
 = Minä en ole hyvä.  
-**le ni nowi.**
+**le ni novi.**
 = Se ei ole uusi.  
 **le ni sara.**
 = Hän ei ole Sara.
@@ -497,7 +497,7 @@ Samoin kuin edellä.
 = Sara on hyvä.  
 **petre (si) day.**
 = Kivi on suuri.  
-**meze si nowi.**
+**meze si novi.**
 = Pöytä on uusi.  
 **meze ni law.**
 = Pöytä ei ole vanha.
@@ -509,7 +509,7 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 **jowan si sundar.**
 = Nuori on kaunista.  
-**nowi ni law.**
+**novi ni law.**
 = Uusi ei ole vanha.  
 
 #### 7.2.4. Olla-verbi
@@ -528,7 +528,7 @@ A-päätteistä verbiä käyttävän aktiivilauseen sanajärjestys on subjekti�
 = Minä syön omenoita.  
 **me auda musike.**
 = Minä kuuntelen musiikkia.  
-**me wida te.**
+**me vida te.**
 = Minä näen sinut.
 
 U-pääteistä verbiä käytettäessä sanajärjestys on subjekti–objekti–verbi (SOV). Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
@@ -545,7 +545,7 @@ SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestyst�
 
 Passiivilauseessa tilanne nähdään teon kohteen tai kokijan kannalta. Lauseessa on siis vain objekti ja verbi. Normaalisti passiivissa käytetään sanajärjestystä objekti–verbi (VO), jolloin verbin pääte on **-u**.
 
-**te widu.**
+**te vidu.**
 = Sinut nähdään.  
 **musike audu.**
 = Musiikkia kuullaan.  
@@ -556,9 +556,9 @@ Passiivilauseessa teon kohde on tekijää tärkeämpi, joten se on ensimmäisen�
 
 Tekijä voidaan mainita verbin jälkeen preposition **ya** kanssa tai ilman.
 
-**te widu me.**
+**te vidu me.**
 = Sinut näen minä.  
-**te widu ya me.**
+**te vidu ya me.**
 = Sinut nähdään minun toimesta.
 
 
@@ -566,7 +566,7 @@ Tekijä voidaan mainita verbin jälkeen preposition **ya** kanssa tai ilman.
 
 Kun käytetään sanajärjestä verbi–objekti (VO), huomion kohteena on teko.
 
-**wida te.**
+**vida te.**
 = Nähdään sinut.  
 **auda musike.**
 = Kuunnellaan musiikkia.  
@@ -607,7 +607,7 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**me wola te nyama sabze.**
+**me wanta te nyama sabze.**
 = Minä haluan sinun syövän vihanneksia.
 
 Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **nyama sabze**. Näin ollen **te** on lauseen _sarana_.
@@ -621,7 +621,7 @@ Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien sub
 = Minä menen kotiin.
 2. **me abla gowa dom.**
 = Minä voin mennä kotiin.
-3. **me wola abla gowa dom.**
+3. **me wanta abla gowa dom.**
 = Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
@@ -697,7 +697,7 @@ Lauseet ovat lähtökohtaisesti myöntäviä, joten sanaa **si** ei yleensä tar
 
 **me si ren.**
 = Minä olen henkilö.  
-**le si nowi meze.**
+**le si novi meze.**
 = Tämä on uusi pöytä.
 
 ### 9.1.2. Kieltäminen
@@ -706,34 +706,34 @@ Edellisen kaltaiset lauseet kielletään sanalla **ni**.
 
 **me ni ren.**
 = Minä en ole henkilö.  
-**le ni nowi meze.**
+**le ni novi meze.**
 = Tämä ei ole uusi pöytä.
 
 Sanaa **ni** käytetään myös toisten sanojen kieltämiseen. Se vaikuttaa vain seuraavaan sanaan.
 
-**me wida te.**
+**me vida te.**
 = Minä näen sinut.  
-**me ni wida te.**
+**me ni vida te.**
 = Minä en näe sinua.  
-**me wida ni te a lole.**
+**me vida ni te a lole.**
 = Minä näen, en sinua, vaan heidät.
 
 Partikkelit **si** ja **ni** vastaavat myös kysymyksiin.
 
-**eska te wida me?**
+**eska te vida me?**
 = Näetkö sinä minut?  
-**si. (me si wida te.)**
+**si. (me si vida te.)**
 = Kyllä. (Minä näen sinut.)  
-**ni. (me ni wida te.)**
+**ni. (me ni vida te.)**
 = En. (Minä en näe sinua.)
 
 Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **ni** koskevat verbiä eivätkö koko kysymyslausetta.
 
-**eska te ni wida me?**
+**eska te ni vida me?**
 = Etkö sinä näe minua  
-**si. (me si wida te.)**
+**si. (me si vida te.)**
 = Kyllä. (Minä kyllä näen sinut.)  
-**ni. (me ni wida te.)**
+**ni. (me ni vida te.)**
 = Ei. (Minä en näe sinua.)
 
 
@@ -779,9 +779,9 @@ Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat
 
 Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **ya** avulla.
 
-**nowi dom**
+**novi dom**
 = uusi talo  
-**dom ya nowi**
+**dom ya novi**
 = talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
@@ -804,19 +804,19 @@ Määrepartikkelien avulla kokonaisista lauseista voi tehdä määreitä.
 
 Siinä tapauksessa **ya** vastaa suomen relatiivipronominia _joka_.
 
-**le si man _ya me wida_.**
+**le si man _ya me vida_.**
 = Hän on mies, _jonka minä näin_.
 
 Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
-**le si _me wida yu_ man.**
+**le si _me vida yu_ man.**
 = Hän on minun näkemä mies.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-**me wida man _ya nyama aple_.**
+**me vida man _ya nyama aple_.**
 = Minä näen miehen, _joka syö omenoita_.  
-**me wida _aple nyamu yu_ man.**
+**me vida _aple nyamu yu_ man.**
 = Minä näen _omenia syövän_ miehen.
 
 
@@ -968,19 +968,19 @@ Sanaa **ka** käytetään myös adjektiivien vertailemisessa.
 
 Puhuttu kieli on äänteiden virtaa, joka koostuu sanoista. Pandunian tapauksessa kirjoitettu kieli on kirjainten virtaa vasemmalta oikealle, joka koostuu kirjoitetuista sanoista. Jokainen lause tai muu ilmaus on siis yhden tai useamman sanan muodostama ketju. Ketjun sanat eivät kuitenkaan ole tasa-arvoisia, vaan sanoilla on arvojärjestys keskeisimmästä vähäpätöisimpään. Yksinkertaisen lauseen rakenteellinen keskus on verbi ja muut sanat liittyvät siihen joko suorasti tai epäsuorasti.
 
-Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sanat ovat ylempänä ja niistä riippuvat sanat alempana. Esimerkiksi lause **me wida te** voidaan piirtää näin:
+Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sanat ovat ylempänä ja niistä riippuvat sanat alempana. Esimerkiksi lause **me vida te** voidaan piirtää näin:
 
-    me wida te. = Minä näen sinut.
+    me vida te. = Minä näen sinut.
 
-       wida
+       vida
       ┌─┴─┐
      me   te
 
 Laatusanat ja lukusanat riippuvat pääsanastaan.
 
-    me wida sam jowan ren. = Minä näen kolme nuorta ihmistä.
+    me vida sam jowan ren. = Minä näen kolme nuorta ihmistä.
 
-       wida
+       vida
       ┌─┴──┐
      me   ren
            |
@@ -1003,11 +1003,11 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara wola darsa pandunia, sabu le si bon dunia bax.
+    yusef i sara wanta darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
-              wola                   si
+              wanta                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |

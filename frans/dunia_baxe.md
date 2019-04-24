@@ -210,7 +210,7 @@ Le troisième type est de loin le plus intéressant pour une langue mondiale qui
 L'organisation des mots en Pandunia est libre. Ceci est possible grâce aux terminaisons -a et -u qui inverse le sens des mots par le biais d'un verbe. En Pandunia, les verbes peuvent aussi fonctionner comme adpositions (appelés _coverbes_).
 
 
-**mi ama tu.** (SVO)  
+**mi lova tu.** (SVO)  
 **mi tu amu.** (SOV)  
 Je t'aime.
 
@@ -258,7 +258,7 @@ Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabul
 | **marc**        | march       | marcha    | marcha   | marche   | Marsch   | marš     |
 | **post**        | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
-A l'instar des langues citées ci-dessus, le Pandunia utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain ou vêtement court), korta (raccourcir), nowi (nouveau), nowe (des nouvelles [informations]), nowa (renouveller).
+A l'instar des langues citées ci-dessus, le Pandunia utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain ou vêtement court), korta (raccourcir), novi (nouveau), nove (des nouvelles [informations]), nova (renouveller).
 
 
 ### Le vocabulaire sinitiques 
@@ -291,7 +291,7 @@ Dans cette section, nous allons comparer les structures de phrases du Pandunia a
 L'ordre normal des mots est sujet-verbe-objet - tout comme l'Anglais ou le Chinois.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ama tu, tu ama mi.
+    Pandunia:  mi lova tu, tu lova mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Le verbe **bey** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)

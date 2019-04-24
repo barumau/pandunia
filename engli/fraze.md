@@ -120,7 +120,7 @@ Pronouns don't ever change their form in Pandunia. That's why **me** is the
 same in subject and object positions while English has two different forms, 'I'
 and 'me'.
 
-**me ama te.**
+**me lova te.**
 I love you.
 
 <small>Etymology. **te** is from Hungarian: te, Russian: ты (ty), Italian: te, French: te.</small>
@@ -351,20 +351,20 @@ I'm called Thomas.
 Name, English: name.</small>
 
 
-### soya <small>have</small>
+### hava <small>have</small>
 
-**me soya bon dom.**
+**me hava bon dom.**
 I have a good house.
 
-**le ni soya pese.**
+**le ni hava pese.**
 He/she doesn't have money.
 
-**me wola soya nowi fon.**
+**me wanta hava novi fon.**
 I want to have a new phone.
 
-**eska te soya bace?**
+**eska te hava bace?**
 Do you have children?  
-**me soya dul bace.**
+**me hava dul bace.**
 I have two children.
 
 
@@ -394,7 +394,7 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me wola helpa te.**
+**me wanta helpa te.**
 I want to help you.
 
 
@@ -402,7 +402,7 @@ I want to help you.
 
 ### nyama <small>consume, eat, drink</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 Would you like to eat something?
 
 **le nyama aple.**
@@ -428,26 +428,26 @@ verb tells is it about eating, drinking or both.
 I'm having coffee and bread.
 
 
-### wola <small>want</small>
+### wanta <small>want</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 Would you like to eat?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 I want to drink coffee.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 Would you like to drink tea?  
-**ni. me ni wola cay. me wola kafe.**
+**ni. me ni wanta cay. me wanta kafe.**
 No, I don't want tea. I want coffee.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 Which apple do you want?  
 **ci ros.**
 This red one.
@@ -625,18 +625,18 @@ I listen to music.
 What kind of music do you listen to?
 
 
-### wida <small>to see</small>
+### vida <small>to see</small>
 
-**suku wida te.**
+**suku vida te.**
 Pleased to see you!
 
-**wida te repi!**
+**vida te repi!**
 See you again!
 
-**wida te badi den!**
+**vida te badi den!**
 See you tomorrow!
 
-**me wida le predi den.**
+**me vida le predi den.**
 I saw him/her yesterday.
 
 
@@ -802,7 +802,7 @@ I wait for you in the hotel.
 **me zay salama te ya doste.**  
 I am greeting your friend.
 
-**man zay wida fem.**  
+**man zay vida fem.**  
 The man is looking at the woman.
 
 **le zay xefe.**  
@@ -817,7 +817,7 @@ He or she is currently at home.
 **me pas salama te ya doste.**  
 I greeted your friend.
 
-**man pas wida fem.**  
+**man pas vida fem.**  
 The man looked at the woman.
 
 **le pas xefe.**  
@@ -832,7 +832,7 @@ He or she was at home.
 **me lew salama te ya doste.**  
 I have greeted your friend.
 
-**man lew wida fem.**  
+**man lew vida fem.**  
 The man has looked at the woman.
 
 **le lew xefe.**  
@@ -847,7 +847,7 @@ He or she has been at home.
 **me wil salama te ya doste.**  
 I will greet your friend.
 
-**man wil wida fem.**  
+**man wil vida fem.**  
 The man will see the woman.
 
 **le wil xefe.**  
@@ -861,21 +861,21 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-### dona <small>give</small>
+### giva <small>give</small>
 
-**plisa dona pese.**
+**plisa giva pese.**
 Please give some money.
 
-**plisa dona le pa me.**
+**plisa giva le pa me.**
 Please give it to me.
 
-**me dona ce pa te.**
+**me giva ce pa te.**
 I give this to you.
 
-**me dona buke pa lole.**
+**me giva buke pa lole.**
 I give a book to them.
 
-**le ni wola dona le pa me.**
+**le ni wanta giva le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -902,13 +902,13 @@ The rent is 500 dollars in a month.
 **le ni abla peya kire.**  
 He/she can't pay the rent.
 
-**me wola kapa un kar sa kire.**  
+**me wanta kapa un kar sa kire.**  
 I want to take a car for rent.
 
-**me wola kirokapa un kar.**
+**me wanta kirokapa un kar.**
 I want to rent a car.
 
-**le kirodona kamar pa safarer.**
+**le kirogiva kamar pa safarer.**
 He/she rents rooms to travelers.
 
 
@@ -920,7 +920,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**lole mai dona pan.**
+**lole mai giva pan.**
 They sell everything.
 
 **me mai kap un bir.**
@@ -931,7 +931,7 @@ I will buy a beer.
 **le si ki yang?**
 What is it like?
 
-**eska le nowi?**
+**eska le novi?**
 Is it new?
 
 **ke si max bon?**

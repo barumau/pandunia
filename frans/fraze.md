@@ -127,7 +127,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit sujet ou complément.
 
-**me ama te.**
+**me lova te.**
 Je t'aime.
 
 <small>Étymologie : **te**
@@ -388,7 +388,7 @@ J’ai une bonne maison.
 **le ni ada pese.**
 Il/elle n’a pas d’argent.
 
-**me wola ada nowi fon.**
+**me wanta ada novi fon.**
 Je veux un nouveau téléphone.
 
 **eska te ada bace?**
@@ -451,7 +451,7 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
 **le nyama aple.**
@@ -477,25 +477,25 @@ Je prends mon café avec du pain.
 
 
 
-### wola <small>vouloir</small>
+### wanta <small>vouloir</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 Est-ce que tu veux manger ?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 Je veux boire un café.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**ne. me ni wola cay. me wola kafe.**
+**ne. me ni wanta cay. me wanta kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 Quelle pomme veux-tu ?  
 **ci ros.**
 La rouge. (mot à mot _cette rouge_)
@@ -679,18 +679,18 @@ J’écoute de la musique.
 Quel genre de musique est-ce que tu écoutes ?
 
 
-### wida <small>voir</small>
+### vida <small>voir</small>
 
-**suku wida te.**
+**suku vida te.**
 Heureux de te voir !
 
-**wida te repi!**
+**vida te repi!**
 On se voit plus tard !
 
-**wida tu ming den!**
+**vida tu ming den!**
 On se voit demain !
 
-**me wida le predi den.**
+**me vida le predi den.**
 Je l’ai vu(e) hier.
 
 
@@ -852,21 +852,21 @@ Je t’attends à l’hôtel.
 ## 5e partie : Faire des affaires
 
 
-### dona <small>donner</small>
+### giva <small>donner</small>
 
-**plisa dona pese.**
+**plisa giva pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**plisa dona le pa me.**
+**plisa giva le pa me.**
 Donne-le moi, s’il te plait.
 
-**me dona ce pa te.**
+**me giva ce pa te.**
 Je te donne ceci.
 
-**me dona buke pa lole.**
+**me giva buke pa lole.**
 Je leur donne un livre.
 
-**le ni wola dona le pa me.**
+**le ni wanta giva le pa me.**
 Il/elle ne veut pas me le donner.
 
 
@@ -883,10 +883,10 @@ tu as déjà eu de l’argent de ma part.
 
 ### kire <small>louer</small>
 
-**me wola kirokapa un kar.**
+**me wanta kirokapa un kar.**
 Je veux louer une voiture.
 
-**le kirodona kamar pa safarer.**
+**le kirogiva kamar pa safarer.**
 Il/elle loue des chambres à les voyageures.
 
 <!--
@@ -912,7 +912,7 @@ Je vais acheter une bière.
 **le si ki yang?**
 Ça ressemble à quoi ?
 
-**eska le nowi?**
+**eska le novi?**
 C’est nouveau ?
 
 **ke si max bon?**

@@ -177,7 +177,7 @@ be about (discuss as a subject) : tema
 be against : kontra  
 be born : jenu  
 be called (be named) : namu  
-be seen : widu  
+be seen : vidu  
 bean or pea (legume) : dow  
 bear : urse  
 bear : urse  
@@ -203,7 +203,7 @@ believe : xina
 Belize : belizia  
 belly (abdomen) : fubu'  
 belong (be a member) : memba  
-belong : soyu  
+belong : havu  
 belt (zone) : zon  
 bench : bence  
 Benin : benin  
@@ -824,12 +824,12 @@ getter (receiver, recipient) : geter
 Ghana : gania  
 ghost (fantom) : fantom  
 Gibraltar : jibraltar  
-gift : don  
+gift : give  
 ginger : inje  
 ginseng : jenxen  
 giraffe : jiraf  
 girl : jowan fem  
-give : dona  
+give : giva  
 give birth (procreate, generate) : jena  
 glass : kace  
 global (concerning the whole world) : panoduni  
@@ -907,7 +907,7 @@ harness : maju'
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
-have (own, possess) : soya  
+have (own, possess) : hava  
 have sex : seksa  
 hazard (chance) : zar  
 he or she or it : le  
@@ -1177,12 +1177,12 @@ logbook : deftobuke
 logic (deduction) : logike  
 logophile (word buff) : logofiler  
 long (lengthy) : long  
-look (see) : wida  
+look (see) : vida  
 lose (fail to win) : luza  
 loser : luzer  
 lot (plot of land) : lote  
-love (affection) : am  
-love (to be in love with) : ama  
+love (liking, affection) : love  
+love (to be in love with) : lova  
 love romantically : romansa  
 lower : nici  
 luggage (baggage) : bagaje  
@@ -1397,9 +1397,9 @@ neptunium : neptunium
 net : nete  
 Netherlands : nederlandia  
 Netherlands Antilles : nederlandi antilia  
-new (recent) : nowi  
-New Caledonia : nowi kaledonia  
-New Zealand : nowi zilandia  
+new (recent) : novi  
+New Caledonia : novi kaledonia  
+New Zealand : novi zilandia  
 news : habar  
 newspaper (gazette) : habarobaw  
 newton (N) : nuton  
@@ -1419,7 +1419,7 @@ nitrogen : nitre
 Niue : niwe  
 no : ne  
 nobelium : nobelium  
-nobody (no-one) : nol ren  
+nobody (no-one) : nowon  
 noise : kelele  
 noodle : mien  
 Norfolk Island : norfolke  
@@ -1434,8 +1434,8 @@ nose : nos
 not : ni  
 note (observation) : note  
 note (observe, notice) : nota  
-notebook : note buke  
-nothing : nol xey  
+notebook : notobuke  
+nothing : noting  
 notice (notification) : notis  
 notify : notisa  
 November : mes 11 (mes des un)  
@@ -1497,7 +1497,7 @@ outer (external) : way
 outside (exterior) : waye  
 overpass : supre  
 own (particle of possession) : du  
-owner (proprietor) : soyer  
+owner (proprietor) : haver  
 oxygen : okse  
 ##p  
 pack (package) : pake  
@@ -1526,7 +1526,7 @@ pantheon : panodewia
 pants (trousers) : pantalon  
 papaya : papay  
 paper : papir  
-Papua New Guinea : papua nowi ginia  
+Papua New Guinea : papua novi ginia  
 Paraguay : paraguay  
 park (garden) : parke  
 parrot (parakeet) : papagay  
@@ -1538,6 +1538,7 @@ party : partia
 pascal (Pa) : paskal  
 pass (go by, go past) : pasa  
 pass (of time) : duru  
+passport : pasporte  
 past (bygone) : pas  
 past times : pase  
 paste : paste  
@@ -1677,6 +1678,7 @@ prepare (make ready) : reda
 presence (existence) : zaye  
 present (current, existing) : zay  
 preserve (conserve, retain) : hafiza  
+president : prezidente  
 press (imprint) : capa  
 previous : predi  
 priest (cleric) : dinogur  
@@ -1697,7 +1699,7 @@ project (planned endeavour) : proje
 promethium : prometium  
 promise (commit) : wada  
 proof (evidence, proof, demonstration, testimony) : dalil  
-property (belongings, possessions) : soye  
+property (belongings, possessions) : have  
 prophecy : nabe  
 prophet : naber  
 proponent (supporter, activist, -ist) : iste  
@@ -1760,7 +1762,7 @@ release (let, let go) : laxa
 religion (worship) : din  
 remain (stay) : restu  
 remember (recall) : yada  
-renew (make new, renovate) : nowa  
+renew (make new, renovate) : nova  
 rent (hire, lease) : kire  
 rent out (let, lease) : kirisa  
 repair (fix) : xula  
@@ -1964,8 +1966,8 @@ solstice : solestas
 Somalia : somalia  
 some (indefinite, indeterminate) : fulan  
 some : koy  
-someone (somebody) : koy ren  
-something : koy xey  
+someone (somebody) : sowon  
+something : soting  
 sometime : koy zaman  
 son : man ban  
 song : cante  
@@ -2028,6 +2030,7 @@ strontium : estrontium
 student (pupil, learner) : darser  
 studio : estudia  
 submission (surrender) : islam  
+substitute : visa  
 subway (metro) : tunel tren  
 suck : cupa  
 Sudan : sudan  
@@ -2115,7 +2118,7 @@ technique (technology) : tekne
 technocracy : teknokratia  
 technology (study of techniques) : teknolojia  
 telephone : telofon  
-television : telowide  
+television : telovide  
 tell (narrate) : saga  
 tellurium : telurium  
 Telugu : telugi  
@@ -2144,7 +2147,7 @@ thermometer : termometer
 they : lole  
 thick : gros  
 thief : corer  
-thing : xey  
+thing : ting  
 think (ponder, reflect) : fikra  
 this (these) : ci  
 this one : ce  
@@ -2266,24 +2269,27 @@ vanilla : wanil
 Vanuatu : vanuatu  
 vase (flower pot) : pul waze  
 vase (pot, bin, jar, jug) : pote  
-vase (pot, bin, jar, jug) : waze  
+vase (pot, bin, jar, jug) : vaze  
 vegetable : sabze  
 Venezuela : venesuela  
 veranda (balcony, terrace, porch) : berande  
 verb : fati lekse  
+vice (deputy) : vis  
+vice-president : vis prezidente  
 victory (win) : win  
 Viet Nam : vietnam  
-view (vision) : wide  
+view (vision) : vide  
 village : ruste  
 vinegar : sirke  
-vinyl : winil  
+vinyl : vinil  
 Virgin Islands, US : usameriki virjin nesia  
-virology : wirusolojia  
-virus : wirus  
-visit : wizita  
-visitation (visit) : wizite  
-visitor (guest) : wiziter  
-visual field (field of vision) : widomaidan  
+virology : virusolojia  
+virus : virus  
+visa : vize  
+visit : vizita  
+visitation (visit) : vizite  
+visitor (guest) : viziter  
+visual field (field of vision) : vidomaidan  
 vocabulary (lexicon) : leksia  
 volt (V) : volte  
 voodoo : vodu  
@@ -2294,7 +2300,7 @@ walk (march) : marca
 wall : mur  
 Wallis and Futuna Islands : walis i futuna nesia  
 wallpaper : mur papir  
-want (desire) : wola  
+want (desire) : wanta  
 warm : garmi  
 warrior (fighter) : jenger  
 wash : waxa  
@@ -2334,7 +2340,8 @@ will (volition, desire) : ice
 win (defeat) : wina  
 wind : fong  
 window : janel  
-wine : wain  
+wine : vin  
+winery : vineria  
 wing : wing  
 winter : xite  
 wisdom : sofia  

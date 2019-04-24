@@ -12,11 +12,11 @@
   - p. ex. **meze se pentu.** = Mesas se pintou.
 7. Os substantivos derivados dos verbos acabam em -e. Outros nomes comuns e próprios pode acabar em qualquer letra.
 8. As vogais finais de raizes verbais são intercambiáveis.
-  - **nowi** = novo, **nowe** = novidade, **nowa** = renovar, **nowu** = renovar-se
+  - **novi** = novo, **nowe** = novidade, **nowa** = renovar, **nowu** = renovar-se
 9. As palavras compostas formam-se pela simples união dos elementos que as formam. Nelas a palavra fundamental aparece sempre no fim.
   - p. ex. poste + sanduke → poste sanduke = caixa de correo
 10. O objecto de um verbo transitivo pode funcionar como o objecto do verbo seguinte. Essa estrutura é chamada a construção dobradiça.
-  - p. ex. **mi plisa tu dona pese.** = Peço-lhe para dar dinheiro.
+  - p. ex. **mi plisa tu giva pese.** = Peço-lhe para dar dinheiro.
 11. Pronomes pode ser deixado quando eles são conhecidos.
   - **mi eska tu loga pandunia?** -> **eska tu loga pandunia?** = Você fala a pandunia?
   - **mi plisa tu loga ming.** -> **plisa loga ming.** = Por favor, fale mais claro. 

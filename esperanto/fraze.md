@@ -116,7 +116,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **salam te!**
 Saluton al vi!
 
-**me ama te.**
+**me lova te.**
 Mi amas vin.
 
 <small>Etimologio. **te**
@@ -351,7 +351,7 @@ Mi havas bonan domon.
 **le ni ada pese.**
 Li/ŝi ne havas mono.
 
-**me wola ada nowi fon.**
+**me wanta ada novi fon.**
 Mi volas havi novan telefonon.
 
 **eska te ada bace?**
@@ -386,7 +386,7 @@ Mi bezonas helpon.
 **eska me abla helpa te?**
 Ĉu mi povas helpi vin?
 
-**me wola helpa te.**
+**me wanta helpa te.**
 Mi volas helpu vin.
 
 
@@ -394,7 +394,7 @@ Mi volas helpu vin.
 
 ### nyama <small>manĝi, trinki</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 Ĉu vi volas manĝi ion?
 
 **le nyama aple.**
@@ -418,26 +418,26 @@ Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
 Mi manĝas kafon kaj panon.
 
 
-### wola <small>voli</small>
+### wanta <small>voli</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 Ĉu vi volas manĝi?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 Mi volas trinki kafon.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 Ĉu vi volas trinki teon?  
-**ni. me ni wola cay. me wola kafe.**
+**ni. me ni wanta cay. me wanta kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 Kiun pomon vi volas manĝi?  
 **ci ros.**
 Tiun ruĝan.
@@ -614,18 +614,18 @@ Mi aŭskultas muzikon.
 Kian muzikon vi aŭskultas?
 
 
-### wida <small>vidi, rigardi</small>
+### vida <small>vidi, rigardi</small>
 
-**suku wida te.**
+**suku vida te.**
 Mi ĝojas vidi vin!
 
-**wida te repi!**
+**vida te repi!**
 Ĝis la revido!
 
-**wida te badi den!**
+**vida te badi den!**
 Ĝis la revido morgaŭ!
 
-**me wida le predi den.**
+**me vida le predi den.**
 Mi vidin lin/ŝin hieraŭ.
 
 ### mena <small>signifi</small>
@@ -757,7 +757,7 @@ Mi atendas vin en la hotelo.
 **me zay salama ti doste.**  
 Mi nune salutas vian amikon.
 
-**man zay wida fem.**  
+**man zay vida fem.**  
 La viro estas vidanta la virinon.
 
 **le zay xefe.**  
@@ -772,7 +772,7 @@ La viro estas vidanta la virinon.
 **me pas salama ti doste.**  
 Mi (pasinte) salutis vian amikon.
 
-**man pas wida fem.**  
+**man pas vida fem.**  
 La viro (pasinte) vidis la virinon
 
 **le pas xefe.**  
@@ -787,7 +787,7 @@ La viro (pasinte) vidis la virinon
 **me lew salama ti doste.**  
 Mi estas salutinta vian amikon.
 
-**man lew wida fem.**  
+**man lew vida fem.**  
 La viro estas vidinta la virinon.
 
 **le lew xefe.**  
@@ -802,7 +802,7 @@ Li estas estinta hejme.
 **me wil salama ti doste.**  
 Mi salutos vian amikon.
 
-**man wil wida fem.**  
+**man wil vida fem.**  
 La viro vidos la virinon.
 
 **le wil xefe.**  

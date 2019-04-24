@@ -165,14 +165,14 @@ Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówi�
 Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
 > **plisa sida.** = Proszę, usiąść.  
-> **plisa dona kafe.** = Proszę, podaj kawę.  
-> **plisa dona cay.** = Proszę, podaj herbatę.  
+> **plisa giva kafe.** = Proszę, podaj kawę.  
+> **plisa giva cay.** = Proszę, podaj herbatę.  
 > **plisa nyama cay.** = Proszę, pij herbatę.  
 > **plisa safa kamar.** = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
 
-> **manda dona cay.** = Daj (mi) herbatę!  
+> **manda giva cay.** = Daj (mi) herbatę!  
 > **manda safa kamar.** = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
@@ -193,7 +193,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**cay** herbata. **plisa** poprosić, prosić. **giva** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -223,7 +223,7 @@ Pytania "tak lub nie"
 ☺: **nyama.** = Tak. (_Jem._)  
 ☻: **eska ye nyama supe?** = Czy on zje zupę?  
 ☺: **no nyama.** = Nie.  
-☻: **danke. mi dona un cay i un kafe i un supe na bade du des minut.**
+☻: **danke. mi giva un cay i un kafe i un supe na bade du des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -317,10 +317,10 @@ Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słow
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **ye no soya maw.** = Ona nie ma koty.  
-> **ye soya no maw, ama waf.** = Ona ma nie koty, ale psy.  
-> **no ye, a mi soya maw.** = Nie ona, ale ja mam koty.  
-> **mi soya no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
+> **ye no hava maw.** = Ona nie ma koty.  
+> **ye hava no maw, lova waf.** = Ona ma nie koty, ale psy.  
+> **no ye, a mi hava maw.** = Nie ona, ale ja mam koty.  
+> **mi hava no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -337,7 +337,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Word List
 
-**kupe** kubek, szklanka. **hali** pusty. **soya** mieć. **maw** kot. **waf** pies. **do** dwa. **nul** zero. **a** ale.
+**kupe** kubek, szklanka. **hali** pusty. **hava** mieć. **maw** kot. **waf** pies. **do** dwa. **nul** zero. **a** ale.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -345,9 +345,9 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 1. ye no safa kamar.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no soya waf i maw. / ye soya no waf i no maw.
+4. ye no hava waf i maw. / ye hava no waf i no maw.
 5. xefe nyama cay a no kafe.
-6. mamá soya no waf a do maw.
+6. mamá hava no waf a do maw.
 
 
 <!--
@@ -448,9 +448,9 @@ Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu
 
 Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-> **mi pas soya un maw.** = Miałem jednego kota w przeszłości.  
+> **mi pas hava un maw.** = Miałem jednego kota w przeszłości.  
 > **ye bon maw.** = To był dobry kot.  
-> **mi soya un waf zay.** = Mam teraz jedneg psa.
+> **mi hava un waf zay.** = Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
@@ -476,7 +476,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 ### Odpowiedzi do Ćwiczeń
 
 1. mi da xefe festa futur.
-2. mi soya do waf pas.
+2. mi hava do waf pas.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.

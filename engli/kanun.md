@@ -51,7 +51,7 @@ These are the 11 basic rules of Pandunia language.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me plisa te dona pese.** = I ask you to give money.
+    - ex. **me plisa te giva pese.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
@@ -274,8 +274,8 @@ Note! The reflexive pronoun **ze** is used for all persons, so it
 corresponds to English _myself_, _yourself_, _himself_, _herself_,
 _itself_, ourselves_ and _themselves_ all at once.
 
-**me wida ze** - I see myself.  **le wida ze** - She sees herself. /
-He sees himself. / It sees itself.  **mome wida ze.** - We see
+**me vida ze** - I see myself.  **le vida ze** - She sees herself. /
+He sees himself. / It sees itself.  **mome vida ze.** - We see
 ourselves.  
 
 ### 5.3. Demonstrative pronouns
@@ -284,8 +284,8 @@ The demonstrative pronoun is:
 
 **ce** - this/that one
 
-**me wola ce.** - I want this one.  
-**le wola ce.** - He/she wants that one.  
+**me wanta ce.** - I want this one.  
+**le wanta ce.** - He/she wants that one.  
 
 They end in **-i** when they function as adjectives i.e. when they
 come before a noun.
@@ -312,7 +312,7 @@ Adjectives are questioned with **ki**.
 
 **ki day?** - How big?  
 **ki lil?** - How small?  
-**ki day ya maw te soya?** - How big cat do you have?
+**ki day ya maw te hava?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -351,7 +351,7 @@ and the object third.
     S   O
 
 Examples:  
-**me wida lole.** - I see them.  
+**me vida lole.** - I see them.  
 **te beka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
@@ -366,7 +366,7 @@ dependant clauses.
     S ← O
 
 Examples:  
-**ke te wida?** - What do you see?  
+**ke te vida?** - What do you see?  
 **me nyama pang, yu te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
@@ -400,7 +400,7 @@ SOV order is commonly used alternative for SVO order.
     O ← S
 
 Examples:  
-**me lole widu.** - _I them see._  
+**me lole vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
@@ -432,7 +432,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e.
 agent).
 
-> **me widu.** - I am seen.  
+> **me vidu.** - I am seen.  
 > **pang beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
@@ -461,13 +461,13 @@ simplest sentences, the subject is a personal pronoun and the
 predicate is an adjective or a noun.
 
 > **me bon.** - I am good.  
-> **le nowi.** - It is new.  
+> **le novi.** - It is new.  
 > **le sara.** - She is Sara.  
 
 The word **ni** is added to form the negative.
 
 > **me ni bon.** - I'm not good.  
-> **le ni nowi.** - It's not new.  
+> **le ni novi.** - It's not new.  
 > **le ni sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
@@ -483,7 +483,7 @@ like above.
 
 > **sara si bon.** - Sara is good.  
 > **petre si day.** - The stone is big.  
-> **meze si nowi.** - The table is new.  
+> **meze si novi.** - The table is new.  
 > **meze ni law.** - The table is not old.
 
 #### 7.2.3. With adjective subject
@@ -491,7 +491,7 @@ like above.
 The same rule applies also for two adjectives.
 
 > **jowan si sundar.** - Young is beautiful.  
-> **nowi ni law.** - New is not old.  
+> **novi ni law.** - New is not old.  
 
 #### 7.2.4. To be
 
@@ -508,7 +508,7 @@ subject–verb–object word order (SVO).
 
 **me nyama aple.** - I eat apples.  
 **me auda musike.** - I hear music.  
-**me wida te.** - I see you.
+**me vida te.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order
 (SOV).
@@ -528,7 +528,7 @@ In the passive voice there is no agent subject in the sentence. There
 is only the object and the verb. Normally the passive is expressed
 with object–verb (OV) word order with the verb ending in **-u**.
 
-**te widu.** - You are seen.  
+**te vidu.** - You are seen.  
 **musike audu.** - Music is heard.  
 **pang beku.** - Bread is baked.
 
@@ -538,14 +538,14 @@ sentence. The object is a passive actor that undergoes the action.
 The agent can be mentioned after the verb with or without the
 preposition **yu**.
 
-**te widu me.** - You are seen by me.  
-**te widu yu me.** - You are seen by me.
+**te vidu me.** - You are seen by me.  
+**te vidu yu me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
 In verb–object (VO) order the focus is on the verb.
 
-**wida te.** - Seeing you.  
+**vida te.** - Seeing you.  
 **auda musike.** - Listening music.  
 **beka pang.** - Baking bread.
 
@@ -588,9 +588,9 @@ In the _pivot structure_ the word order is:  subject – verb 1 – object
 Object 1 functions has dual role. It is at the same time the object
 for verb 1 and the subject for verb 2.
 
-**me wola te nyama sabze.** - I want you eat vegetables.
+**me wanta te nyama sabze.** - I want you eat vegetables.
 
-In the example above, **me wola** has **te** as its object. At the same
+In the example above, **me wanta** has **te** as its object. At the same
 time, **te** functions as the subject of the following predicate,
 **nyama sabze**. So **te** is the _pivot_ of the entire sentence.
 
@@ -602,7 +602,7 @@ series.
  
 1. **me gowa dom.** - I go home.  
 2. **me abla gowa dom.** - I can go home.  
-3. **me wola abla gowa dom.** - I want to be able to go home. (Lit. _I
+3. **me wanta abla gowa dom.** - I want to be able to go home. (Lit. _I
    want can go home_!)
 
 ### 7.8. Pronoun dropping
@@ -653,33 +653,33 @@ always necessary. However it is especially convenient in expressions
 of state.
 
 **me si ren.** - I am a person.  
-**le si nowi meze.** - It is a new table.
+**le si novi meze.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **ni**.
 
 **me ni ren.** - I'm not a person.  
-**le ni nowi meze.** - It's not a new table.
+**le ni novi meze.** - It's not a new table.
 
 The word **ni** is used for denying anything. It affects always the next word.
 
-**me wida te.** - I see you.  
-**me ni wida te.** - I don't see you.  
-**me wida ni te a lole.** - I see, not you, but them.
+**me vida te.** - I see you.  
+**me ni vida te.** - I don't see you.  
+**me vida ni te a lole.** - I see, not you, but them.
 
 The particles **si** and **ni** are used also for answering questions.
 
-**eska te wida me?** - Do you see me?  
-**si. (me si wida te.)** - Yes. (I do see you.)  
-**ni. (me ni wida te.)** - No. (I don't see you.)
+**eska te vida me?** - Do you see me?  
+**si. (me si vida te.)** - Yes. (I do see you.)  
+**ni. (me ni vida te.)** - No. (I don't see you.)
 
 Negative questions are answered so that **si** and **ni** apply to the
 verb, not the whole question.
 
-**eska te ni wida me?** - Don't you see me?  
-**si. (me si wida te.)** - Yes. (I do see you.)  
-**ni. (me ni wida te.)** - No. (I don't see you.)
+**eska te ni vida me?** - Don't you see me?  
+**si. (me si vida te.)** - Yes. (I do see you.)  
+**ni. (me ni vida te.)** - No. (I don't see you.)
 
 ### 9.2. Modifier particles
 
@@ -741,19 +741,19 @@ Also relative clauses are created with help of the modifier particles.
 Here **yu** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-**le si man _yu me wida_.** - He is the man _that I saw_.
+**le si man _yu me vida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me wida man _yu nyama aple_.** - I see a man _who eats apples_.  
+**me vida man _yu nyama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **ya** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
 into a modifier by putting **ya** immediately after the verb.
 
-**me wida _aple nyamu ya_ man.** - I see an _apple-eating_ man.
+**me vida _aple nyamu ya_ man.** - I see an _apple-eating_ man.
 
 **buke dugu ya ren sa kamar.** = The book-reading person is in the room.  
 **le duga ya buke sa meze.** = The book, that he/she reads, is on the table.
@@ -786,18 +786,18 @@ if needed. The general time words are **pas** (past), **zay**
 (present) and **wil** (future, upcoming). They function like
 adjectives and adverbs, so typically their place is before the verb.
 
-**me pas soya maw.** - I had cats.
-**a me ni zay soya maw.** - But I now don't have cats.
-**munkin me wil soya maw.** - Maybe I will have cats.
+**me pas hava maw.** - I had cats.
+**a me ni zay hava maw.** - But I now don't have cats.
+**munkin me wil hava maw.** - Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the
 past) etc.
 
-**me soya maw sa pase.** - I had cats in the past.  
-**a me ni soya maw sa zaye.** - But I don't have cats at present.  
-**munkin me soya maw sa wile.** - Maybe I will have cats in the future.
+**me hava maw sa pase.** - I had cats in the past.  
+**a me ni hava maw sa zaye.** - But I don't have cats at present.  
+**munkin me hava maw sa wile.** - Maybe I will have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **soya** stayed the same in
+Note! Verbs are not conjugated. So the verb **hava** stayed the same in
 all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it
@@ -930,23 +930,23 @@ are some examples.
 **loga** - to speak (active verb)  
 **logu** - to be spoken (passive verb)  
 **logi** - spoken, wordy (adjective)  
-**loge** or **log** - speech, word(s) (noun)  
+**loge** - speech, word(s) (noun)  
 
 **kitaba** - to write (active verb)  
 **kitabu** - to be written (passive verb)  
 **kitabi** - written, textual (adjective)  
-**kitabe** or **kitab** - writing, text (noun)  
+**kitabe** - writing, text (noun)  
 
-**nowi** or **now** - new (adjective)  
-**nowa** - to make new (active verb)  
-**nowu** - to become new (passive verb)  
-**nowe** - novelty, new thing (noun)  
+**novi** - new (adjective)  
+**nova** - to make new (active verb)  
+**novu** - to become new (passive verb)  
+**nove** - novelty, new thing (noun)  
 
 There is a handful of verbs, which appear without the ending. These
 are some of the most common verbs in Pandunia.
 
-**wola** - to want (active verb)  
-**bila** - can, to be able to (active verb)  
+**wanta** - to want (active verb)  
+**abla** - can, to be able to (active verb)  
 
 #### 11.1.2. Deriving verbs
 
@@ -956,27 +956,25 @@ that **-a** marks an active verb and **-u** marks a passive verb. So
 **loga** means _to speak_ and **logu** means _to be spoken_.
 
 1. If the root is an action, then its verbal form will mean "to do the
-   action".  For example from **wide** = "a look" we get **wida** =
+   action".  For example from **vide** = "a look" we get **vida** =
    "to look".
-2. If the root is a description, like **now-** (**nowi** = new), then
+2. If the root is a description, like **now-** (**novi** = new), then
    its verbal form will mean "to turn into that quality". For example
-   from **nowi** = "new" we get **nowa** = "to make new" or "to
+   from **novi** = "new" we get **nova** = "to make new" or "to
    renew".
 
 #### 11.1.3. Deriving nouns
 
 **-e** is the marker of nouns. It means the result of the process. So
 **loge** means the _speech_ that results from the act of speaking.
-Quite often **-e** is left out and so **log** would mean the same
-thing as **loge**.
 
 If the root word is an action, then its noun form will mean the
 product of the action. For example from **kitab-** = "to write" we get
 **kitabe** = "writing" or "text".
 
 If the root word is a description, then its noun form will mean a
-concrete instance of that quality. For example from **now-** = "new"
-we get **nowe** = "a novelty" i.e. something new.
+concrete instance of that quality. For example from **nov-** = "new"
+we get **nove** = "a novelty" i.e. something new.
 
 Additional noun suffixes are presented below.
 
@@ -986,8 +984,8 @@ Additional noun suffixes are presented below.
 verb). It is the all-purpose adjective suffix.
 
 For example, from the verb **loga** (to speak) we get the adjective
-**logi** (spoken, wordy). From the noun **manux** (human being), we
-get the adjective **manuxi** (human, having the attributes of a human
+**logi** (spoken, wordy). From the noun **insan** (human being), we
+get the adjective **insani** (human, having the attributes of a human
 being). However, only derived adjectives need to end in **-i**.
 
 Words that are adjectives _by birth_ don't need the ending. That's why
@@ -995,7 +993,7 @@ for example **bon** (good) and **sundar** (beautiful) don't end in -i.
 
 If the root word is a description, then its adjectival form will mean
 "that which is in the state of the root". For example from **now-** =
-quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
+quality of novelty, we get **novi** = _new_ i.e. _that which is new_.
 
 If the root is an action, then its adjectival form will mean the state
 that is produced by the action. For example from **loga** = "to speak"
@@ -1054,8 +1052,8 @@ then the second word **meter**, resulting into **term-o-meter** i.e.
 
 Indicates possibility. It is attached after the verb root.
 
-**widabli** which can be seen, visible  
-**widubli** who/which can see
+**vidabli** which can be seen, visible  
+**vidubli** who/which can see
 
 #### 11.3.2. -er
 
@@ -1110,7 +1108,7 @@ are also a lot of country names that do not end in **-ia**.
 
 Also abstract nouns often end in **-ia**.
 
-**nowi** new, **nowia** newness, novelty  
+**novi** new, **novia** newness, novelty  
 **huri** free, **huria** freedom
 
 When it is added after -er, it means a place of work.
@@ -1176,7 +1174,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me wida ren, yu te jana.** (I saw the person _whom you know_.) The
+**me vida ren, yu te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1222,13 +1220,13 @@ and polka.
 The same formulas can be applied to roots that describe a state.
 
 1. Description: -i -e
-    - **nowi nowe.** - New news.
+    - **novi nove.** - New news.
     - **longi longe** - Long length.
 2. Production: -a -e
-    - **nowa nowe.** - To renew the new.
+    - **nova nove.** - To renew the new.
     - **longa longe.** - To lengthen the length.
 3. Transition: -e -u
-    - **nowe nowu.** - The new get renewed.
+    - **nove novu.** - The new get renewed.
     - **longe longu.** - The length gets lengthened.
 
 Description formula still gives meaningful (though obvious) phrases.
@@ -1283,19 +1281,19 @@ and other words are directly or indirectly connected to it.
 
 Each sentence can be drawn as a tree diagram, where the central words
 are above and the dependant words are below. For example the sentence
-**me wida te** (I see you) can be pictured as a tree as follows.
+**me vida te** (I see you) can be pictured as a tree as follows.
 
-    me wida te.
+    me vida te.
 
-       wida
+       vida
       ┌─┴─┐
      me   te
 
 Adjectives and numerals point to their head word, the noun.
 
-    me wida sam jowan ren.
+    me vida sam jowan ren.
 
-       wida
+       vida
       ┌─┴──┐
      me   ren
            |
@@ -1323,11 +1321,11 @@ general higher than **sabu**, here its scope is only to connect
 **yusef** and **sara**.  **sabu** is at the top, because it connects
 the two sub-phrases.
 
-    yusef i sara wola darsa pandunia, sabu le si bon dunia bax.
+    yusef i sara wanta darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
-              wola                   si
+              wanta                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |

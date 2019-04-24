@@ -119,8 +119,8 @@ Los pronombres no cambian su forma en pandunia. Es por eso que **me** es el
 mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 diferentes formas, 'yo', 'me', etc.
 
-**me ama te.**
-Te amo. (Yo ama ti)
+**me lova te.**
+Te amo. (Yo lova ti)
 
 <small>Etimología. **te** viene del húngaro: te, russo:  ты (ty), italiano: te, francés: te.</small>
 
@@ -355,20 +355,20 @@ Yo me llamo Tomás.
 Name, inglés: name.</small>
 
 
-### soya <small>tener</small>
+### hava <small>tener</small>
 
-**me soya bon dom.**
+**me hava bon dom.**
 Tengo una buena casa.
 
-**le ni soya pese.**
+**le ni hava pese.**
 Él/ella no tiene dinero.
 
-**me wola soya nowi fon.**
+**me wanta hava novi fon.**
 Yo quiero tener un teléfono nuevo.
 
-**eska te soya bace?**
+**eska te hava bace?**
 ¿Tienes niños?  
-**me soya dul bace.**
+**me hava dul bace.**
 Tengo dos niños.
 
 
@@ -403,7 +403,7 @@ Necesito ayuda.
 
 ### nyama <small>consumir, comer, beber</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 ¿Te gustaría comer algo?
 
 **le nyama aple.**
@@ -430,26 +430,26 @@ objeto del verbo dice si se trata de comer, beber o ambos.
 Estoy tomando café y pan.
 
 
-### wola <small>querer, gustar (deseo)</small>
+### wanta <small>querer, gustar (deseo)</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 ¿Te gustaría comer?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 Quiero beber café.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 ¿Te gustaría beber té? 
-**ni. me ni wola cay. me wola kafe.**
+**ni. me ni wanta cay. me wanta kafe.**
 No, no quiero té. Quiero café.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 ¿Qué manzana quieres?  
 **ci ros.**
 Esa roja.
@@ -625,18 +625,18 @@ Escucho música.
 ¿Qué clase de música escuchas?
 
 
-### wida <small>ver</small>
+### vida <small>ver</small>
 
-**suku wida te.**
+**suku vida te.**
 Encantado de verte.
 
-**wida te repi!**
+**vida te repi!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**wida te badi den!**
+**vida te badi den!**
 ¡Te veo mañana!
 
-**me wida le predi den.**
+**me vida le predi den.**
 Lo/a vi a él/ella ayer.
 
 
@@ -794,21 +794,21 @@ Te espero en el hotel.
 
 ## Parte 5: Negocios
 
-### dona <small>dar</small>
+### giva <small>dar</small>
 
-**plisa dona pese.**
+**plisa giva pese.**
 Por favor da dinero.
 
-**plisa dona le pa me.**
+**plisa giva le pa me.**
 Por favor dame eso.
 
-**me dona ce pa te.**
+**me giva ce pa te.**
 Te doy esto.
 
-**me dona buke pa lole.**
+**me giva buke pa lole.**
 Le doy un libro a ellos/as.
 
-**le ni wola dona le pa me.**
+**le ni wanta giva le pa me.**
 Él/ella no quiere darme eso.
 
 ### kapa <small>tomar (de agarrar, sujetar)</small>
@@ -828,10 +828,10 @@ Voy a tomar una cerveza.
 
 ### kire <small>renta, alquiler</small>
 
-**me wola kirokapa un kar.**
+**me wanta kirokapa un kar.**
 Quiero rentar un auto.
 
-**ye kirodona kamar to safarer.**
+**ye kirogiva kamar to safarer.**
 Él/ella vende haplisaciones a los viajeros.
 <!--
 
@@ -841,7 +841,7 @@ Ayuda: Comprar y vender son palabras compuestas: **mai dar**
 significa _vender_ y **mai kap**
 significa _ comprar_.
 
-**lole mai dona pan.**
+**lole mai giva pan.**
 Ellos/as vender todo.
 
 **me mai kap un bir.**
@@ -853,7 +853,7 @@ Voy a comprar una cerveza.
 **le si ki yang?**
 ¿Cómo es?
 
-**eska le nowi?**
+**eska le novi?**
 ¿Es nuevo?
 
 **ke si max bon?**

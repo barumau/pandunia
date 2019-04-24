@@ -208,7 +208,7 @@ The cat caught that little mouse.
 _Cat's not past prey, that big mouse._  
 The cat didn't catch that big mouse.
 
-**mau wola kaca la dai mux.**  
+**mau wanta kaca la dai mux.**  
 _Cat's wanted prey, that big mouse._  
 The cat wants to catch that big mouse.
 

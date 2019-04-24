@@ -225,9 +225,9 @@ utilizado para hacer peticiones corteses.
 
 **plisa sida.**
 = Por favor sientese.  
-**plisa dona kafe.**
+**plisa giva kafe.**
 = Por favor me da un poco de café.  
-**plisa dona cay.**
+**plisa giva cay.**
 = Por favor me da un poco de té.  
 **plisa nyama cay.**
 = Por favor tiene algo de té.  
@@ -236,7 +236,7 @@ utilizado para hacer peticiones corteses.
 
 Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
 
-> **orda dona cay.**
+> **orda giva cay.**
 = ¡Deme un poco de té!
 > **orda safa kamar.**
 = ¡Limpie la habitación!
@@ -257,7 +257,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 **cay** té.
 **plisa** pedir, solicitar; por favor.
-**dona** dar.
+**giva** dar.
 **danke** gracias.
 **i** y.
 **kafe** café.
@@ -307,7 +307,7 @@ Preguntas de Sí o No
 = ¿Él quiere tomar sopa?  
 ☺: **ni nyama.**
 = No.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me giva un cay i un kafe i un supe sa bade yu des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -431,13 +431,13 @@ del verbo convertimos una oración afirmativa en negativa.
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**le ni soya maw.**
+**le ni hava maw.**
 = Ella no tiene gato.  
-**le soya ni maw, a waf.**
+**le hava ni maw, a waf.**
 = Ella no tiene gatos sino perros.  
-**ni le, a me soya maw.**
+**ni le, a me hava maw.**
 = Ella no, pero yo tengo gato.  
-**me soya ni un, a dul maw.**
+**me hava ni un, a dul maw.**
 = Yo no tengo un gato sino dos gatos.  
 
 
@@ -457,7 +457,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 **kupe** copa, vaso, taza.
 **hali** vacio.
-**soya** tener, poseer.
+**hava** tener, poseer.
 **maw** gato.
 **waf** perro.
 **dul** dos.
@@ -470,9 +470,9 @@ Intenta traducir las oraciones de Español a Pandunia.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni soya waf i maw. / le soya ni waf i ni maw.
+4. le ni hava waf i maw. / le hava ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame soya ni waf a dul maw.
+6. mame hava ni waf a dul maw.
 
 
 ---------------------------------------------------------------------
@@ -513,11 +513,11 @@ tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
 que todavía se está hablando en el mismo tiempo.
 
 
-**me pas soya un maw.**
+**me pas hava un maw.**
 = Yo tuve un gato en el pasado.  
 **le bon maw.**
 = Ella fue una buena gata.  
-**me soya un waf zay.**
+**me hava un waf zay.**
 = Yo tengo un perro en el momento.
 
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
@@ -576,7 +576,7 @@ Intenta traducir de Español a Pandunia.
 ### Respuestas
 
 1. mi xefe festa sa wile.
-2. me soya dul waf sa pase.
+2. me hava dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.
@@ -601,7 +601,7 @@ específica la relación entre la modificadora y la modificada. La
 relación se puede especificar mediante la adición de una palabra con
 mayor sentido.
 
-**me soya ya kar**
+**me hava ya kar**
 = mi carro (el carro que yo tengo)  
 **mi yang ya kar**
 = automóvil de mi tipo  
@@ -611,7 +611,7 @@ mayor sentido.
 La otra palabra conectora, **yu** funciona de la misma manera que
 **ya** pero el modificador y el modificado están en orden opuesto.
 
-**kar yu me soya**
+**kar yu me hava**
 = el carro mío (el carro que yo tengo)  
 **kar yu mi yang**
 = el carro de mi tipo  
@@ -663,9 +663,9 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me wola wida te.**
+**me wanta vida te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**me foka wida te.**
+**me foka vida te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
@@ -674,9 +674,9 @@ Pueden haber mas de dos verbos en serie.
 = Yo aprendo pandunia.  
 **me mulu darsa pandunia.**
 = Yo empiezo a aprender pandunia.  
-**me wola mulu darsa pandunia.**
+**me wanta mulu darsa pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**me wola mulu darsa loga pandunia.**
+**me wanta mulu darsa loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -695,14 +695,14 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = hablar, charlar
 **mulu**
 = empezar, comenzar.
-**wida**
+**vida**
 = ver, mirar.
-**wola**
+**wanta**
 = querer, necesitar.
 
 ### Respuestas
 
-1. me wola dona kafe pa xefe.
-2. eska te wola nyama suy?
-3. le ni wola safa zi kamar.
+1. me wanta giva kafe pa xefe.
+2. eska te wanta nyama suy?
+3. le ni wanta safa zi kamar.
 

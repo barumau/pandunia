@@ -70,7 +70,7 @@ These sentences are short and complete. That's why they work.
 
 If you add there a verb ending in -u, then it's not a zero be structure anymore but rather a sentence with SOV word order.
 
-**mi maria widu.** = I see Maria.
+**mi maria vidu.** = I see Maria.
 
 
 ### Why there are two forms of ce, le and ke

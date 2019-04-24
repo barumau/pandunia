@@ -3,9 +3,9 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -28,7 +28,7 @@ Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
 Consonnes
 ---------
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -53,14 +53,14 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
     /dúnia sí mómi sundár planéte./
 
-     me wola loga komun bax, le si pandunia.  
-    /mé wóla lóga komún báx, lé sí pandúnia./
+     me wanta loga komun bax, le si pandunia.  
+    /mé wánta lóga komún báx, lé sí pandúnia./
 
      darsogur sida sa sofa'.  
     /dársogúr sída sá sofá./
@@ -102,9 +102,9 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-**me wida te :)**
+**me vida te :)**
 = Je te vois.  
-**me ni wida te :(**
+**me ni vida te :(**
 = Je ne te vois pas.
 
 

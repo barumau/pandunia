@@ -182,7 +182,7 @@ Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kui
 Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
 
     Englanti:  I love you, and you love me.
-    Pandunia:  mi ama tu, tu ama mi.
+    Pandunia:  mi lova tu, tu lova mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Objektin voi siirtää lauseen alkun verbin **bey** avulla.

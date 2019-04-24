@@ -56,7 +56,7 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
      dunia si mimen da sundar planete.
     /dúnia sí mimén da sundár planéte./
 
-     mi wola loga komun baxa, ye si pandunia.
+     mi wanta loga komun baxa, ye si pandunia.
     /mí wól lóga komún báxa, yé sí pandúnia./
 
 Jeżeli akcentowana sylaba nie jest zgodna z powyższymi zasadami, jest zaznaczona akcentem ostrym (´).
@@ -101,8 +101,8 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **mi wida tu :)** = Ja widzę cię.  
-> **mi no wida tu :(** = Ja nie widzę cię.
+> **mi vida tu :)** = Ja widzę cię.  
+> **mi no vida tu :(** = Ja nie widzę cię.
 
 
 ## Struktura słów

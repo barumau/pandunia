@@ -37,11 +37,11 @@ ambasadoro : daixer
 americio : amerikium  
 amerika : ameriki  
 Ameriko : amerike  
-ami : ama  
+ami (ŝati) : lova  
 amika : dosti  
 amikeco : dostia  
 amiko : doste  
-amo : am  
+amo : love  
 ampero : amper  
 amuza : fani  
 amuzi : fana  
@@ -60,7 +60,7 @@ antaŭiri : preda
 anteno : anten  
 anusa : anusi  
 anuso : anus  
-aparteni : soyu  
+aparteni : havu  
 araba : arabi  
 araneo : arane  
 araneofobio : aranofobia  
@@ -241,8 +241,7 @@ disvolvi : fajan
 dividi : fena  
 doktoro : dotor  
 dolaro : dolar  
-donaco : don  
-doni : dona  
+doni : giva  
 dormo : son  
 dormoĉambro : son kamar  
 dramo : drame  
@@ -399,6 +398,7 @@ geedzeco : maria
 genro : jinse  
 germaniumo : germanium  
 gitaro : gitar  
+givaco : give  
 glacia : isi  
 glacio : is  
 glavo : katan  
@@ -435,7 +435,7 @@ hana : cini
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
-havanto : soyer  
+havanto : haver  
 hazarda : zari  
 hazardo : zar  
 haŭto : pifu'  
@@ -490,7 +490,7 @@ interesa : interes
 interkonsento (amen) : amen  
 interŝanĝi : badala  
 inviti : plisa laya  
-io : koy xey  
+io : soting  
 iono : ion  
 Irakio : irakia  
 Iranio : iran  
@@ -508,7 +508,7 @@ itrio : yutrium
 iu : fulan  
 iu : koy  
 iu ajn : eni  
-iu persono : koy ren  
+iu persono : sowon  
 ##j  
 jako : jake  
 jam (esti farita) : lew  
@@ -535,7 +535,7 @@ kafejo : kaferia
 kafo : kafe  
 kaftaso : kafokupe  
 kaj : i  
-kajero : note buke  
+kajero : notobuke  
 kakao : kakaw  
 kalcio : kalsium  
 kalifo : halif  
@@ -864,7 +864,7 @@ nombro : num
 nomo : nam  
 norvega : norgi  
 Norvegio : norgia  
-nova : nowi  
+nova : novi  
 novaĵoj : habar  
 nudelo : mien  
 nur : mon  
@@ -916,6 +916,7 @@ parolo (vortoj) : loge
 partio : partia  
 parto (frakcio) : fen  
 partopreni : parta  
+pasporto : pasporte  
 pastro : dinogur  
 pato : tawa  
 patrino : mame  
@@ -985,6 +986,7 @@ pravigi : saha
 presaĵo : cape  
 presi : capa  
 preta : redi  
+prezidento : prezidente  
 preĝejo : eglis  
 preĝi : duwa  
 preĝo : duwe  
@@ -1180,7 +1182,7 @@ tekniko : tekne
 teknologio : teknolojia  
 tekto : cate  
 telefono : telofon  
-televidilo : telowide  
+televidilo : telovide  
 teluro : telurium  
 temo : tem  
 tendo : tende  
@@ -1254,7 +1256,7 @@ valvo (krano) : balbe
 varma : garmi  
 vato : wate  
 vazo (florpoto) : pul waze  
-vazo : waze  
+vazo : vaze  
 veni : laya  
 venki : wina  
 venko : win  
@@ -1274,11 +1276,12 @@ vi (ci) : te
 vi ĉiu : tote  
 via (cia) : ti  
 viando : manse  
-vidi (rigardi) : wida  
+vic- : vis  
+vidi (rigardi) : vida  
 vilaĝo : ruste  
 vinagro : sirke  
 vinbero : putaw  
-vino : wain  
+vino : vin  
 vintro : xite  
 violonĉelo : celo'  
 virino : matur fem  
@@ -1289,15 +1292,16 @@ viva : jiwi
 vivi : jiwa  
 vivo : jiwe  
 vizaĝo : muke  
-vizitanto : wiziter  
-viziti : wizite  
-vizito : wizita  
+vizitanto : viziter  
+viziti : vizite  
+vizito : vizita  
 viŝilo : towal  
 vojaĝanto : safarer  
 vojaĝi : safara  
 vojaĝo : safar  
 vojo : daw  
 voli : ice  
+voli : wanta  
 vortaro : leksia  
 vortaro : loge liste  
 vorto : lekse  

@@ -34,7 +34,7 @@ precizigas.
     - ekz.  **pang nyamu.** = Pano estas manĝata.
 8. Verboj ne ŝanĝiĝas laŭ persono aŭ nombro.
 9. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **me plisa te dona pese.** = Mi petas vin (por) doni monon.
+    - ekz. **me plisa te giva pese.** = Mi petas vin (por) doni monon.
 10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** =
       Ĉu vi parolas pandunion?
@@ -229,8 +229,8 @@ Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
 
 Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**me wida ze** - Mi vidas min.  
-**le wida ze** - Ŝi vidas sin.  
+**me vida ze** - Mi vidas min.  
+**le vida ze** - Ŝi vidas sin.  
 
 
 ### 5.3. Montrovorto
@@ -239,8 +239,8 @@ La montrovorto estas:
 
 **ce** - tio
 
-**me wola ce.** - Mi volas tion.  
-**le wola ce sa me.** - Ĝi volas tion ĉe mi.  
+**me wanta ce.** - Mi volas tion.  
+**le wanta ce sa me.** - Ĝi volas tion ĉe mi.  
 
 La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **tel** (fora), kiam tio estas bezonata.
 
@@ -300,7 +300,7 @@ La plej komuna vortordo en Pandunio estas subjekto-verbo-objekto (SVO).
     S   O
 
 Ekzemploj:  
-**me wida lole.**
+**me vida lole.**
 = Mi vidas ilin.  
 **te beka pang.**
 = Vi bakas panon.  
@@ -314,7 +314,7 @@ Ekzemploj:
     S ← O
 
 Ekzemploj:  
-**ke te wida?**
+**ke te vida?**
 = Kion vi vidas?  
 **me nyama pang, ya te beka.**
 = Mi manĝas panon, kiun vi bakis._
@@ -348,7 +348,7 @@ SOV order is commonly used alternative for SVO order.
     O ← S
 
 Ekzemploj:  
-**me lole widu.**
+**me lole vidu.**
 = Mi ilin vidas.  
 **te pang beku.**
 = Vi panon bakas.
@@ -383,7 +383,7 @@ VSO-ordo estas malofta sed ebla.
 
 Pasivaj frazoj enhavas nur objekton kaj verbon sed ne subjekton.
 
-**me widu.**
+**me vidu.**
 Mi estas vidita.  
 **pang beku.**
 = Pano estas bakita.  
@@ -408,10 +408,10 @@ En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu i
 > log**i** - dir**a** / dir**e**  
 > log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
 
-> nowa - novigi  
-> nowu - esti novigita (de) / noviĝi  
-> nowi aŭ nov - nova / nove (nov estas baze modifilo)  
-> nowe - novo / novaĵo  
+> nova - novigi  
+> novu - esti novigita (de) / noviĝi  
+> novi aŭ nov - nova / nove (nov estas baze modifilo)  
+> nove - novo / novaĵo  
 
 ### 11.2 Ŝanĝi la vortotipon
 
@@ -419,7 +419,7 @@ Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al E
 
 - Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
 > now(i) - nova / nove  
-> nowa - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+> nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
 > si now(i) - novi = esti nova / esti nove  
 
 - Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.

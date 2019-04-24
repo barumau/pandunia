@@ -3,9 +3,9 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -24,7 +24,7 @@ Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
 Konsonantit
 -----------
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -53,14 +53,14 @@ Esimerkkejä:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
     /dúnia sí mómi sundár planéte./
 
-     me wola loga komun bax, le si pandunia.  
-    /mé wóla lóga komún báx, lé sí pandúnia./
+     me wanta loga komun bax, le si pandunia.  
+    /mé wánta lóga komún báx, lé sí pandúnia./
 
      darsogur sida sa sofa'.  
     /dársogúr sída sá sofá./
@@ -101,8 +101,8 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-**me wida te :)**
+**me vida te :)**
 = Minä näen sinut.  
-**me ni wida te :(**
+**me ni vida te :(**
 = Minä en näe sinua.
 

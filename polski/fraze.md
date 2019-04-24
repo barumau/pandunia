@@ -6,7 +6,7 @@ Pandunia jest językiem sztucznym zaprojektowanym, by być relatywnie prostym dl
 
 Użytkownicy języka polskiego łatwo się nauczą tworzyć podstawowe zdania w Panduni, jako że szyk zdania jest zasadniczo taki sam jak w języku polskim, nie ma przedimków (rodzajników), żadnego "być", ani skomplikowanych zasad odmiany słów, by wyrazić liczby pojedyńczą i mnogą lub czas czasowników.
 
-Kurs składa się z małych lekcji. Każda lekcja wprowadza nowe słowo, które jest używane w kilku różnych zdaniach w lekcji, by is to teach you how the word works as part of sentences. Possibly you will encounter also other new words in the same lesson but don't worry about them! You don't have to learn all of them at once. Just memorize the phrases that are useful for you! Maybe the rest will go to your memory subconciously.
+Kurs składa się z małych lekcji. Każda lekcja wprowadza nove słowo, które jest używane w kilku różnych zdaniach w lekcji, by is to teach you how the word works as part of sentences. Possibly you will encounter also other new words in the same lesson but don't worry about them! You don't have to learn all of them at once. Just memorize the phrases that are useful for you! Maybe the rest will go to your memory subconciously.
 
 Możesz uczyć się z tego kursu razem z przyjaciółmi. Czytajcie zdania razem i spróbujcie dokonać małych rozmów. Możesz się też uczyć sam. Nawet wtedy jest przydatnym czytać na głos i tworzyć rozmowy. Powtrzaj te came zdania kilka razy dzisiaj, jutro, pojutrze i tak dalej. Jak to się mówi, _trening czyni mistrza_.
 
@@ -111,7 +111,7 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**me ama te.**
+**me lova te.**
 Ja kocham cię.
 
 <small>Etymologia. **tu**
@@ -354,20 +354,20 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 
 
-### soya <small>mieć</small>
+### hava <small>mieć</small>
 
-**me soya bon dom.**
+**me hava bon dom.**
 Mam dobry dom.
 
-**le ni soya pese.**
+**le ni hava pese.**
 Nie ma pieniędzy.
 
-**me wola soya nowi fon.**
+**me wanta hava novi fon.**
 Chcę mieć nowy telefon.
 
-**eska te soya bace?**
+**eska te hava bace?**
 Czy masz dzieci?
-**me soya dul bace.**
+**me hava dul bace.**
 Mam dwoje dzieci.
 
 
@@ -406,7 +406,7 @@ Czy mogę ci pomóc?
 
 ### nyama <small>konsumować, spożywać, jeść, pić</small>
 
-**eska te wola nyama koy?**
+**eska te wanta nyama koy?**
 Czy chcesz zjeść coś?
 
 **le nyama aple.**
@@ -432,27 +432,27 @@ Spożywam kawę i chleb.
 
 
 
-### wola <small>chcieć</small>
+### wanta <small>chcieć</small>
 
-**eska te wola nyama?**
+**eska te wanta nyama?**
 Czy chcesz jeść?
 
-**te wola nyama ke?**
+**te wanta nyama ke?**
 Co chcesz zjeść?
 
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
 nie zmienia szyku zdania.
 
-**me wola nyama kafe.**
+**me wanta nyama kafe.**
 Chcę pić kawę.
 
-**eska te wola nyama cay?**
+**eska te wanta nyama cay?**
 Czy chcesz napić się herbaty?
 
-**ni. me ni wola cay. me wola kafe.**
+**ni. me ni wanta cay. me wanta kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**te wola ki aple?**
+**te wanta ki aple?**
 Które jabłko chcesz?
 
 **ci ros.**
@@ -639,18 +639,18 @@ Jakiego rodzaju muzyki słuchasz?
 
 
 
-### wida <small>widzieć</small>
+### vida <small>widzieć</small>
 
-**suku wida te.**
+**suku vida te.**
 Miło cię widzieć!
 
-**wida te repi!**
+**vida te repi!**
 Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 
-**wida te ming den!**
+**vida te ming den!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**me wida le predi den.**
+**me vida le predi den.**
 Widziałem go/ją wczoraj.
 
 
@@ -822,21 +822,21 @@ Czekam na ciebie w hotelu.
 ## Part 5. Załatwianie interesów
 
 
-### dona <small>dać</small>
+### giva <small>dać</small>
 
-**plisa dona pese.**
+**plisa giva pese.**
 Proszę, daj trochę pieniędzy.
 
-**plisa dona le pa me.**
+**plisa giva le pa me.**
 Proszę, daj mi to.
 
-**me dona ce pa te.**
+**me giva ce pa te.**
 Daję ci to.
 
-**me dona buke pa lole.**
+**me giva buke pa lole.**
 Daję im książkę.
 
-**le ni wola dona le pa me.**
+**le ni wanta giva le pa me.**
 Nie chce dać mi tego.
 
 

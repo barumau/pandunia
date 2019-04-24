@@ -37,8 +37,6 @@ alofone : allofoni (vaihtoehtoinen ääntämys)
 alojinsokami : heteroseksuaali  
 altar : alttari  
 alumin : alumiini  
-am : rakkaus  
-ama : rakastaa  
 amari : amhara (etiopialainen kansa ja kieli)  
 amen : yhteisymmärrys (olla samaa mieltä)   
 amena : olla samaa mieltä  
@@ -394,8 +392,6 @@ dolar : dollari
 dom : asunto (koti)  
 doma : asua  
 dominogem : dominopeli  
-don : lahja  
-dona : antaa  
 dong : itä  
 doste : ystävä (kaveri)  
 dosti : ystävällinen  
@@ -628,6 +624,8 @@ gim : kulta
 gine bisau : Guinea-Bissau  
 gine : Guinea  
 gitar : kitara  
+giva : antaa  
+give : lahja  
 giyan : Ranskan Guiana  
 glota : niellä  
 glute : liima  
@@ -697,6 +695,10 @@ hasium : hasium
 hatar : vaara  
 hatari : vaarallinen  
 hati : jopa  
+hava : omistaa  
+have : omaisuus  
+haver : omistaja  
+havu : kuulua (olla oma)  
 hawe : ilma  
 hawobar : ilmanpaine  
 hawobarometer : ilmapuntari (ilmanpainemittari, barometri)  
@@ -1045,8 +1047,6 @@ kosta : maksaa (olla hintana)
 kostarikia : Costa Rica  
 koste : hinta (maksu)  
 kote : takki  
-koy ren : joku  
-koy xey : jokin  
 koy zaman : joskus  
 koy : jokin (joku)  
 kratia : valta  
@@ -1169,6 +1169,8 @@ longe : pituus
 lose : ruuvi  
 lote : erä (satsi)  
 lote : tontti (maakaistale)  
+lova : rakastaa (pitää, tykätä)  
+love : rakkaus (tykkääminen)  
 lowa sang : vuotaa verta  
 lowa : vuotaa  
 luksemburgia : Luxemburg  
@@ -1482,8 +1484,6 @@ nixe : alkovi
 nobelium : nobelium  
 noce : yö  
 node : solmu  
-nol ren : ei kukaan  
-nol xey : ei mitään  
 nol : nolla (ei yhtään)  
 nonga : viljellä  
 nonger : maanviljelijä  
@@ -1496,14 +1496,16 @@ norme : normi
 normi : normaali  
 nos : nenä  
 nota : huomata (hoksata)  
-note buke : muistikirja  
 note : huomio (merkintä)  
+noting : ei mitään  
 notis : huomautus  
 notisa : huomauttaa  
-nowa : uudistaa  
-nowi kaledonia : Uusi-Kaledonia  
-nowi zilandia : Uusi-Seelanti  
-nowi : uusi  
+notobuke : muistikirja  
+nova : uudistaa  
+novi kaledonia : Uusi-Kaledonia  
+novi zilandia : Uusi-Seelanti  
+novi : uusi  
+nowon : ei kukaan  
 noy : yhdeksän  
 nudi : alaston (paljas, naku)  
 nudiste : nudisti  
@@ -1583,7 +1585,7 @@ papagay : papukaija
 papay : papaija  
 pape : isä  
 papir : paperi  
-papua nowi ginia : Papua Uusi-Guinea  
+papua novi ginia : Papua Uusi-Guinea  
 par : vertainen  
 paraguay : Paraguai  
 paraya : halveksia (hyljeksiä)  
@@ -1601,6 +1603,7 @@ pas : mennyt
 pasa : kuluttaa aikaa  
 pase : menneisyys  
 paskal : pascal (Pa)  
+pasporte : passi  
 paste : tahna (tahdas)  
 patate : peruna (potaatti)  
 paunde : punta  
@@ -1711,6 +1714,7 @@ preda : edeltää (tulla ennen)
 predi den : eilinen  
 predi : edellinen  
 presis : tarkka (täsmällinen)  
+prezidente : presidentti  
 prizon : vankeus  
 prizona : vangita  
 prizoner : vanginvartija  
@@ -1968,11 +1972,9 @@ sonde : ääni
 song : mänty  
 sos : kastike (soosi)  
 sosis : makkara  
+soting : jokin  
 soto : Lesoto  
-soya : omistaa  
-soye : omaisuus  
-soyer : omistaja  
-soyu : kuulua (olla oma)  
+sowon : joku  
 suan : hapan (kirpeä)  
 sube nyam : aamiainen  
 sube : aamu  
@@ -2053,7 +2055,7 @@ teknolojia : tekniikka (teknologia)
 tel : kaukainen  
 tele : etäisyys (kaukaisuus)  
 telofon : puhelin  
-telowide : televisio  
+telovide : televisio  
 telugi : telugu (eräs intialainen kieli)  
 tem : aihe (teema)  
 tema : aiheesta (-sta)  
@@ -2083,6 +2085,7 @@ tike : pala
 tikete : lippu (piletti)  
 tim : joukkue (tiimi)  
 tin : tölkki (purkki)  
+ting : asia  
 ting : pysähdys  
 tinga : pysäyttää  
 tingu : pysähtyä  
@@ -2163,19 +2166,36 @@ uzer : käyttäjä
 ##v  
 vanuatu : Vanuatu  
 vatikan : Vatikaanivaltio  
+vaze : ruukku (maljakko, vaasi)  
 venesuela : Venezuela  
+vida : nähdä  
+vide : näkymä  
+vidomaidan : näkökenttä  
+vidu : näkyä  
 vietnam : Vietnam  
+vin : viini  
+vineria : viinipanimo  
+vinil : vinyyli  
+virus : virus  
+virusolojia : virologia  
+vis prezidente : varapresidentti  
+vis : vara- (korvike-)  
+visa : korvata  
+vize : viisumi  
+vizita : vierailla  
+vizite : vierailu (visiitti)  
+viziter : vierailija (vieras)  
 vodu : voodoo  
 volte : voltti (V)  
 ##w  
 wada : luvata  
 waf : koira  
-wain : viini  
 wakila : edustaa  
 waksin : rokote  
 wan : kulho  
 wang : keltainen  
 wanil : vanilja  
+wanta : haluta  
 war 1 (war un) : maanantai  
 war 2 (war du) : tiistai  
 war 3 (war sam) : keskiviikko  
@@ -2195,7 +2215,6 @@ way dexi : ulkomaalainen
 way dexia : ulkomaa  
 way : ulko- (ulkoinen)  
 waye : ulkopuoli  
-waze : ruukku (maljakko, vaasi)  
 weka : herättää  
 weki : olla hereillä  
 werka : työskennellä  
@@ -2204,10 +2223,6 @@ werker : työntekijä (työläinen)
 werme : mato  
 weste : länsi  
 westi : läntinen  
-wida : nähdä  
-wide : näkymä  
-widomaidan : näkökenttä  
-widu : näkyä  
 wiki : wiki  
 wil : tuleva  
 wildi : villi (kesytön)  
@@ -2217,13 +2232,6 @@ wimanokaper : lentokonekaappari
 win : voitto  
 wina : voittaa (kukistaa)  
 wing : siipi  
-winil : vinyyli  
-wirus : virus  
-wirusolojia : virologia  
-wizita : vierailla  
-wizite : vierailu (visiitti)  
-wiziter : vierailija (vieras)  
-wola : haluta  
 wolfe : susi (hukka)  
 ##x  
 xakal : šakaali  
@@ -2247,7 +2255,6 @@ xef : päällikkö (pomo)
 xefi minister : pääministeri (suurvisiiri)  
 xefi : pää-  
 xenon : ksenon  
-xey : asia  
 xiki : elegantti  
 xim : sydän  
 xin : usko (luottamus)  

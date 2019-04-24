@@ -4,7 +4,7 @@ adulte : adulte
 africain : afri  
 Afrique : afria  
 agile : ajil  
-aimer : ama  
+aimer : lova  
 aire (superficie) : are  
 alcool : alkol  
 américain : ameriki  
@@ -14,7 +14,7 @@ analyser : analisa
 animation : anime  
 antenne : anten  
 anus : anus  
-appartenir à : soyu  
+appartenir à : havu  
 argument : tese  
 art : arte  
 artiste : arter  
@@ -22,7 +22,7 @@ asiatique : asi
 Asie : asia  
 autel : altar  
 autre : ali  
-avoir : soya  
+avoir : hava  
 axe : akse  
 ##b  
 bain : banye  
@@ -80,12 +80,12 @@ touriste : turiste
 traduction : tarje  
 Tunisie : tunisia  
 téléphone : telofon  
-téléviseur : telowide  
+téléviseur : telovide  
 ##u  
 uranium : uranium  
 ##v  
 Venezuela : venesuela  
-virus : wirus  
+virus : virus  
 ##w  
 ##x  
 ##y  

@@ -53,7 +53,7 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
      dunia si momi sundar planete.  
     /dúnia sí mómi sundár planéte./
 
-     me wola loga komun bax, le si pandunia.  
+     me wanta loga komun bax, le si pandunia.  
     /mé wóla lóga komún báx, lé sí pandúnia./
 
      darsogur sida sa sofa'.  
@@ -102,9 +102,9 @@ ka-fe, yu-mor, pos-te.
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
 Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
 
-**me wida te :)**
+**me vida te :)**
 = Mi vidas vin.  
-**me ni wida te :(**
+**me ni vida te :(**
 = Mi ne vidas vin.
 
 ## Vorto-strukturo

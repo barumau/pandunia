@@ -8,7 +8,6 @@ alkol : алкоголь
 almar : шкаф  
 almas : алмаз (бриллиант)  
 altar : алтарь  
-ama : любить  
 analis : анализ  
 analisa : анализировать  
 anime : оживление  
@@ -38,6 +37,8 @@ cini : хань
 ##h  
 habar : новости  
 hali : пустой  
+hava : иметь  
+havu : принадлежать  
 hazin : сокровище (казна)  
 ##i  
 ##j  
@@ -46,6 +47,7 @@ kanjar : кинжал
 katan : меч  
 kor : хор  
 ##l  
+lova : любить  
 ##m  
 ##n  
 ##o  
@@ -54,15 +56,13 @@ papagay : попугай
 pike : вершина  
 ##r  
 ##s  
-soya : иметь  
-soyu : принадлежать  
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  
 tazi : свежий  
 teknolojia : технология  
 telofon : телефон  
-telowide : телевизор  
+telovide : телевизор  
 tem : тема  
 tende : палатка (шатёр)  
 tepe : лента  
@@ -77,12 +77,12 @@ toca : касаться
 tomate : помидор (томат)  
 ##u  
 ##v  
+virus : вирус  
+virusolojia : вирусология  
 ##w  
 waw : вау!  
 waxa : мыть  
 waxomaxin : стиральная машина  
-wirus : вирус  
-wirusolojia : вирусология  
 ##x  
 ##y  
 ya : из (от)  

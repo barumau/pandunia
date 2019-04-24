@@ -7,7 +7,6 @@ akse : 轴线
 alkol : 酒  
 almas : 钻石  
 altar : 圣坛  
-ama : 爱  
 analis : 分析  
 analisa : 分析  
 anime : 活跃  
@@ -46,6 +45,8 @@ fem : 女
 ##g  
 ##h  
 habar : 消息  
+hava : 有  
+havu : 属于  
 helpa : 帮助  
 ##i  
 ##j  
@@ -62,6 +63,7 @@ keci : 客气
 laya : 来  
 le : 他，她，它  
 lole : 他们  
+lova : 爱  
 ##m  
 mame : 妈妈  
 matur fem : 女人  
@@ -89,8 +91,6 @@ pulte : 桥
 sabze : 蔬菜  
 sol : 太阳  
 solosistem : 太阳系  
-soya : 有  
-soyu : 属于  
 supris : 惊奇  
 ##t  
 tarje : 翻译  
@@ -99,7 +99,7 @@ te : 你
 tekne : 技术  
 teknolojia : 工艺学  
 telofon : 电话机  
-telowide : 电视机  
+telovide : 电视机  
 tem : 主题目  
 tende : 帐篷  
 teroristia : 恐怖行为  
@@ -114,9 +114,9 @@ tomate : 西红柿
 tote : 你们  
 ##u  
 ##v  
+vida : 看  
 ##w  
-wida : 看  
-wola : 想要  
+wanta : 想要  
 ##x  
 xam : 晚上  
 xute : 技术  

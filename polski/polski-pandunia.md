@@ -176,7 +176,7 @@ być poddanym, doświadczyć, doświadczać (ubierniający czasownik) : bey
 być podobnym, być jak : semu  
 być przeciw : kontra  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym : namu  
-być widzianym : widu  
+być widzianym : vidu  
 być wycentrowanym, być w środku : jungu  
 bóbr : kastor  
 bóg, bóstwo : dew  
@@ -198,7 +198,7 @@ cer : cerium
 Ceres (planeta karłowata) : seres  
 cez : cesium  
 chaos, nieporządek; wrzawa, zgiełk : haos  
-chcieć, pragnąć : wola  
+chcieć, pragnąć : wanta  
 chemia : kimia  
 chemiczny : kimi  
 cherubin : kerube  
@@ -236,7 +236,7 @@ ciśnienie atmosferyczne : hawobar
 cmentarz : gabristan  
 co? : ke  
 co? : ki ren  
-coś : koy xey  
+coś : soting  
 cukier : sukar  
 cukierek, słodycze : kande  
 cynk : zinke  
@@ -281,7 +281,7 @@ danie : tas
 darwinista : darwiniste  
 darwinizm : darwinistia  
 data : nen mes den  
-dać, dawać : dona  
+dać, dawać : giva  
 debatować, prowadzić dyskurs : lona  
 decy-, dziesiąta część : deci  
 defekować, srać : kaka  
@@ -724,7 +724,7 @@ knead (massage) : masaja
 kobalt : kobalte  
 kobieta, dorosła samica : matur fem  
 kobieta; kobiecy : fem  
-kochać : ama  
+kochać : lova  
 kochać romantycznie : romansa  
 kochać się, uprawiać seks : seksa  
 kod, szyfr : kode  
@@ -818,7 +818,7 @@ książka : buke
 książka z obrazkami : grafobuke  
 księżyc : lun  
 kszesło, fotel : kurse  
-ktoś : koy ren  
+ktoś : sowon  
 który? : ki  
 Kuba : kuba  
 kubek : kupe  
@@ -983,7 +983,7 @@ miejscowy, lokalny : loki
 miesiąc : mes  
 mieszkać : doma  
 mieć (partykuła posiadania) : du  
-mieć : soya  
+mieć : hava  
 migdał : badam  
 mikro- : mikro-  
 Mikronezja : mikronesia  
@@ -1010,7 +1010,7 @@ między : inter
 miękki : komal  
 mięso : manse  
 miłośnik (fan, -fil) : filer  
-miłość (afekt) : am  
+miłość (afekt) : love  
 miłość romantyczna : romanse  
 miły, przyjemny, uroczy : latif  
 Mjanma, Birma : bama  
@@ -1082,7 +1082,7 @@ nagi, goły, obnażony : nudi
 nahuatl : nawati  
 najmniej, minimalnie : minim  
 należeć (być członkiem) : memba  
-należeć : soyu  
+należeć : havu  
 namalować, malować : penta  
 Namibia : namibia  
 namiot : tende  
@@ -1114,7 +1114,7 @@ neon : neon
 Nepal : nepal  
 Neptun : neptun  
 neptun : neptunium  
-nic, żadna rzecz : nol xey  
+nic, żadna rzecz : noting  
 nie : ne  
 nie : ni  
 nie ruszać się : estasa  
@@ -1137,7 +1137,7 @@ Nigeria : naijiria
 nihonium : niponium  
 Nikaragua : nikaragua  
 nikiel : nikel  
-nikt, żadna osoba : nol ren  
+nikt, żadna osoba : nowon  
 niob : niobium  
 nisza, alkowa : nixe  
 Niue : niwe  
@@ -1153,11 +1153,11 @@ nos : nos
 nosić ubrania : fuka  
 nosić, nieść : porta  
 nosorożec : faru  
-notatnik : note buke  
+notatnik : notobuke  
 notować, obserwować, zauważyć, zauważać : nota  
-Nowa Kaledonia : nowi kaledonia  
-Nowa Zelandia : nowi zilandia  
-nowy : nowi  
+Nowa Kaledonia : novi kaledonia  
+Nowa Zelandia : novi zilandia  
+nowy : novi  
 nożyce, nożyczki : makas  
 nudysta : nudiste  
 nudyzm : nudistia  
@@ -1193,12 +1193,12 @@ oddech : nafas
 odetkać, odtykać : zibula  
 odkurzacz : funocuper  
 odmówić (odrzucić) : nega  
-odnowić, odnawiać, uczynić nowym : nowa  
+odnowić, odnawiać, uczynić nowym : nova  
 odpowiedzieć, odpowiadać : jawaba  
 odpowiedź, odzew : jawabe  
 odsłonić, odsłaniać : dekula  
 odważny, brawurowy : yungam  
-odwiedzić, odwiedzać : wizita  
+odwiedzić, odwiedzać : vizita  
 oficer policji, policjant : poliser  
 oficjalny : ofisi  
 oganesson : oganeson  
@@ -1279,7 +1279,7 @@ panteon : panodewia
 papaja : papay  
 papier : papir  
 papieros (cygar) : sigar  
-Papua Nowa Gwinea : papua nowi ginia  
+Papua Nowa Gwinea : papua novi ginia  
 papuga : papagay  
 paragon, pokwitowanie : reside  
 Paragwaj : paraguay  
@@ -1292,7 +1292,7 @@ paskal (Pa) : paskal
 pasować : maca  
 pasta : paste  
 patelnia : tawa  
-patrzeć, widzieć : wida  
+patrzeć, widzieć : vida  
 pauza, przerwa : paus  
 paznokieć : nahun  
 paść, padać, upaść, upadać : padu  
@@ -1376,7 +1376,7 @@ poczta elektroniczna : eletroposte (e-poste)
 poczta, budynek poczty : postokan  
 początek : mul  
 pod, poniżej; iść w dół, iść pod spód, iść na dno : nica  
-podarunek, dar, prezent : don  
+podarunek, dar, prezent : give  
 podatek, opłata : takse  
 poddanie się, uległość, pokora, posłuszeństwo : islam  
 poddać się, poddawać się : salima  
@@ -1402,7 +1402,7 @@ poker : poke
 pokrycie; pokrywa, wieko, dekiel; pokład : deke  
 pokój rozmów, chat : blable kamar  
 pokój, sala : kamar  
-pole widzenia : widomaidan  
+pole widzenia : vidomaidan  
 pole, powierzchnia : are  
 policja : polis  
 policzyć, liczyć, przetwarzać dane : komputa  
@@ -1674,7 +1674,7 @@ rytuał, ceremonia, ryt : rite
 ryzyko : riske  
 ryzykowny : riski  
 ryż : ris  
-rzecz : xey  
+rzecz : ting  
 rzeka : nade  
 rzemieślnik : janger  
 rzodkiewka : lobak  
@@ -1929,7 +1929,7 @@ technologia, nauka o technikach : teknolojia
 teistyczny : dewiste  
 teizm : dewistia  
 telefon : telofon  
-telewizja : telowide  
+telewizja : telovide  
 tellur : telurium  
 telugu : telugi  
 temat, motyw : tem  
@@ -2074,6 +2074,7 @@ wagina : yone
 wakacje, ferie : feria  
 walka, wojna : jeng  
 wanilia : wanil  
+wanta, chęć : ice  
 wapń : kalsium  
 warcaby : damogem  
 warga : labe  
@@ -2084,7 +2085,7 @@ warzywo : sabze
 wat : wate  
 Watykan, Państwo Watykańskie : vatikan  
 waza, garnek, gar, doniczka, słoik, słój : pote  
-waza, garnek, pojemnik, słoik, dzban : waze  
+waza, garnek, pojemnik, słoik, dzban : vaze  
 wazon; donica, doniczka : pul waze  
 ważka : libel  
 ważny : importi  
@@ -2104,7 +2105,7 @@ wiadukt, przejście powyżej : supre
 wiara, wierzenie, kredo : xin  
 wiatr : fong  
 widelec : forke  
-widok, wzrok : wide  
+widok, wzrok : vide  
 wieczór : xam  
 wiedza : jan  
 wiedzieć : jana  
@@ -2127,17 +2128,17 @@ wiki : wiki
 wilk : wolfe  
 wina, grzech; defekt, wada : dox  
 winny : doxi  
-wino : wain  
+wino : vin  
 winogrono : putaw  
-winyl : winil  
+winyl : vinil  
 wiolonczela : celo'  
 wiosna : cune  
-wirus : wirus  
-wirusologia : wirusolojia  
+wirus : virus  
+wirusologia : virusolojia  
 witaj, dobre przybycie : salam laye  
 wiwatować; hura : ura  
-wizyta : wizite  
-wizytant (gość) : wiziter  
+wizyta : vizite  
+wizytant (gość) : viziter  
 większościowy, wiodący, główny : maxor  
 większość : maxoria  
 więzienie, kara więzienia, kara pozbawienia wolności : prizon  
@@ -2148,7 +2149,6 @@ woda : suy
 woda mineralna : kuang suy  
 wodór : hidre  
 wojownik, bojownik : jenger  
-wola, chęć : ice  
 wolność, niepodległość, niezależność : huria  
 wolny, niepodległy, niezależny : huri  
 wolt (V) : volte  
@@ -2215,8 +2215,8 @@ Węgry : madyar
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
-własność (mienie) : soye  
-właściciel (posiadacz) : soyer  
+własność (mienie) : have  
+właściciel (posiadacz) : haver  
 właściwy, poprawny : sahi  
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  

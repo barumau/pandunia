@@ -251,9 +251,9 @@ formules de politesses.
 
 **plisa sida.**
 = Asseyez-vous s'il vous plaît..  
-**plisa dona kafe.**
+**plisa giva kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**plisa dona cay.**
+**plisa giva cay.**
 = S'il vous plaît, donnez-moi du thé. 
 **plisa nyama cay.**
 = S'il vous plaît, prenez un peu de thé.  
@@ -263,7 +263,7 @@ formules de politesses.
 Les ordres sont données avec **orda** = ordonner. Ils utilisent la
 même structure de pivot que les requêtes avec **plisa**.
 
-**orda dona cay.**
+**orda giva cay.**
 = Donnez-moi du thé !  
 **orda safa kamar.**
 = Nettoiez la chambre !
@@ -290,7 +290,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 **cay** thé.
 **plisa** demander (poliment), s'il-vous-plaît.
-**dona** donner.
+**giva** donner.
 **danke** merci.
 **i** et.
 **kafe** café.
@@ -339,7 +339,7 @@ Questions par oui ou par non
 = Prend-il de la soupe ?  
 ☺: **ni nyama.**
 = Non.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me giva un cay i un kafe i un supe sa bade yu des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
@@ -481,13 +481,13 @@ le sens de la phrase change donc selon l'emplacement du **ni**.
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**le ni soya maw.**
+**le ni hava maw.**
 = Elle n'a pas de chat.  
-**le soya ni maw, a waf.**
+**le hava ni maw, a waf.**
 = Elle n'a pas de chats, mais des chiens.  
-**ni le, a me soya maw.**
+**ni le, a me hava maw.**
 = Pas elle, mais j'ai des chats.  
-**me soya ni un, a dul maw.**
+**me hava ni un, a dul maw.**
 = Je n'ai pas un, mais deux chats.
 
 
@@ -508,7 +508,7 @@ Parfois, il y a plus d'une bonne réponse.
 
 **kupe** coupe, verre, tasse.
 **hali** vide.
-**soya** avoir.
+**hava** avoir.
 **maw** chat.
 **waf** chien.
 **dul** deux.
@@ -521,9 +521,9 @@ Parfois, il y a plus d'une bonne réponse.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni soya waf i maw. / le soya ni waf i ni maw.
+4. le ni hava waf i maw. / le hava ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame soya ni waf a dul maw.
+6. mame hava ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -660,11 +660,11 @@ On peut également placé l'expression du temps en fin de phrase.
 Il n'est pas nécessaire d'utiliser les expressions de temps à chaque
 phrase, sauf si on parle à un autre temps au cours du récit.
 
-**me pas soya un maw.**
+**me pas hava un maw.**
 = J'ai eu un chat dans le passé.
 **le bon maw.**
 = C'était un bon chat.
-**me soya un waf zay.**
+**me hava un waf zay.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le
@@ -699,7 +699,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 ### Réponses aux exercices
 
 1. mi xefe festa sa wile.
-2. me soya dul waf sa pase.
+2. me hava dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.

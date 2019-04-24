@@ -78,7 +78,7 @@ Angola : angolia
 animaatio (piirretty) : anime  
 animoida : anima  
 annos : doze  
-antaa : dona  
+antaa : giva  
 Antarktis : antartia  
 anteeksi : pardon  
 antenni : anten  
@@ -103,7 +103,7 @@ asema : estasia
 asento : asan  
 asetelma : poze  
 asia (juttu) : masle  
-asia : xey  
+asia : ting  
 asiakirja (dokumentti, tiedosto) : dokum  
 asianharrastaja : nik  
 askeett : askete  
@@ -209,8 +209,8 @@ ehdottaa : suja
 ehdotus : suje  
 ei : ne  
 ei : ni  
-ei kukaan : nol ren  
-ei mitään : nol xey  
+ei kukaan : nowon  
+ei mitään : noting  
 eilinen : predi den  
 einsteinium : ainstainium  
 ekologia (ympäristötiede) : tabiolojia  
@@ -320,7 +320,7 @@ hajauttaa : jamula
 hajonnut (sirpaleina) : parci  
 hajottaa (särkeä, repiä, sirpaloida) : parca  
 hallita yksinvaltaisesti : impera  
-haluta : wola  
+haluta : wanta  
 halveksia (hyljeksiä) : paraya  
 hame : jupe  
 hammas : dante  
@@ -531,8 +531,8 @@ jokainen asia : mey xey
 jokainen ihminen : mey ren  
 joki : nade  
 jokin (joku) : koy  
-jokin : koy xey  
-joku : koy ren  
+jokin : soting  
+joku : sowon  
 jooga : yoge  
 joogata : yoga  
 jopa : hati  
@@ -793,6 +793,7 @@ korkea : gaw
 korkittaa (tukkia) : ziba  
 kortti : karte  
 koruton (tavanomainen, pelkkä) : sadi  
+korvata : visa  
 koskea (koskettaa) : toca  
 koulu (opisto) : darsia  
 Kreikka : helenia  
@@ -856,7 +857,7 @@ Kuuba : kuba
 kuukausi : mes  
 kuulla (kuunnella) : auda  
 kuulua (olla jäsenenä) : memba  
-kuulua (olla oma) : soyu  
+kuulua (olla oma) : havu  
 kuume : feber  
 kuura : himorose  
 kuusi (6) : sis  
@@ -913,7 +914,7 @@ laatikko : sanduke
 laatu (laadukkuus, erinomaisuus, hyvyys) : gun  
 laatu (ominaisuus, ominaispiirre, määrite) : sife  
 ladata : lada  
-lahja : don  
+lahja : give  
 lainata (siteerata) : cita  
 laivakaappari : bote kaper  
 laji (tyyppi, tyyli) : yang  
@@ -1201,7 +1202,7 @@ moskovium : moskovium
 muinainen Egypti : kemia  
 muistaa : yada  
 muisti : yade  
-muistikirja : note buke  
+muistikirja : notobuke  
 mukava (kiva) : latif  
 muna : ande  
 munakoiso : bedinjan  
@@ -1305,10 +1306,10 @@ nuoruus : jowania
 nussia (panna) : coda  
 nuudeli : mien  
 nyt : nun  
-nähdä : wida  
-näkymä : wide  
-näkyä : widu  
-näkökenttä : widomaidan  
+nähdä : vida  
+näkymä : vide  
+näkyä : vidu  
+näkökenttä : vidomaidan  
 näppäimistö : buton ban  
 näytellä : rola  
 näyttelijä : roler  
@@ -1338,11 +1339,11 @@ olla olemassa : zayu
 olla samaa mieltä : amena  
 olla väliä (olla tärkeä) : importu  
 olut (kalja) : bir  
-omaisuus : soye  
+omaisuus : have  
 Oman : oman  
 omena : aple  
-omistaa : soya  
-omistaja : soyer  
+omistaa : hava  
+omistaja : haver  
 omistetun omistajaan liittävä partikkeli : da  
 ommella : suta  
 ongelma : problem  
@@ -1432,7 +1433,7 @@ papaija : papay
 paperi : papir  
 pappi : dinogur  
 papu tai herne : dow  
-Papua Uusi-Guinea : papua nowi ginia  
+Papua Uusi-Guinea : papua novi ginia  
 papukaija : papagay  
 Paraguai : paraguay  
 parkkipaikka : kar parke  
@@ -1440,6 +1441,7 @@ parsa : lusun
 parta : barde  
 parveke (kuisti) : balkon  
 pascal (Pa) : paskal  
+passi : pasporte  
 patja : matras  
 patonki (ranskanleipä) : batonopang  
 pehmeä : komal  
@@ -1542,6 +1544,7 @@ postileima : postocape
 postitoimisto : postokan  
 postittaa : posta  
 povi : buste  
+presidentti : prezidente  
 profeetta : naber  
 professori : profesor  
 profetia : nabe  
@@ -1614,11 +1617,11 @@ radium : radium
 radon : radon  
 raha : pese  
 raja : limite  
-rakastaa : ama  
+rakastaa (pitää, tykätä) : lova  
 rakastaa romanttisesti : romansa  
 rakentaa : bina  
 raketti : rokete  
-rakkaus : am  
+rakkaus (tykkääminen) : love  
 ramadan : ramazan  
 Ranska : fransia  
 Ranskan Guiana : giyan  
@@ -1683,7 +1686,7 @@ ruokasali : nyam kamar
 Ruotsi : swenia  
 rusina : gan putaw  
 ruskea : kafi  
-ruukku (maljakko, vaasi) : waze  
+ruukku (maljakko, vaasi) : vaze  
 ruukku (vaasi, pata) : pote  
 ruumiillinen : badani  
 ruusu : roze  
@@ -1977,7 +1980,7 @@ tekniikka (teknologia) : teknolojia
 teknokratia : teknokratia  
 teko : fate  
 teko : fe  
-televisio : telowide  
+televisio : telovide  
 teltta : tende  
 telugu (eräs intialainen kieli) : telugi  
 tennis : tenis  
@@ -2119,10 +2122,10 @@ usein : cang
 usko (luottamus) : xin  
 uskoa (luottaa) : xina  
 uskonto : din  
-uudistaa : nowa  
-uusi : nowi  
-Uusi-Kaledonia : nowi kaledonia  
-Uusi-Seelanti : nowi zilandia  
+uudistaa : nova  
+uusi : novi  
+Uusi-Kaledonia : novi kaledonia  
+Uusi-Seelanti : novi zilandia  
 uutinen : habar  
 Uzbekistan : uzbekia  
 ##v  
@@ -2166,6 +2169,8 @@ vanukas : puding
 vapaa : huri  
 vapaus : huria  
 vapauttaa : hura  
+vara- (korvike-) : vis  
+varapresidentti : vis prezidente  
 varas : corer  
 varastaa : cora  
 varaus (ennakkovaraus) : buking  
@@ -2207,9 +2212,9 @@ vetoketju : ziper
 vety : hidre  
 vetää : tira  
 vielä (yhä) : hay  
-vierailija (vieras) : wiziter  
-vierailla : wizita  
-vierailu (visiitti) : wizite  
+vierailija (vieras) : viziter  
+vierailla : vizita  
+vierailu (visiitti) : vizite  
 viesti : mesaje  
 viestiä (kommunikoida) : mesaja  
 Vietnam : vietnam  
@@ -2221,29 +2226,31 @@ viihdyttää (huvittaa) : fana
 viikko : set war  
 viikonpäivä : war  
 viimeinen : fini  
-viini : wain  
+viini : vin  
+viinipanimo : vineria  
 viinirypäle : putaw  
 viisas : sofi  
 viisaus : sofia  
 viisi (5) : lim  
 viisikulmio : limokon  
 viisitahokas (prisma) : limofas  
+viisumi : vize  
 viiva (linja) : linye  
 vika (synti) : dox  
 viljellä : nonga  
 villi (kesytön) : wildi  
 vilustuminen : zukam  
-vinyyli : winil  
+vinyyli : vinil  
 virallinen : ofisi  
 virasto (toimisto, konttori) : ofisia  
 virka (virka-asema) : ofis  
 virkailija (virkamies) : ofiser  
 Viro (Eesti) : estia  
-virologia : wirusolojia  
+virologia : virusolojia  
 virtahepo : gubu'  
 virtsa (pissa, kusi) : pix  
 virtsata (kusta) : pixa  
-virus : wirus  
+virus : virus  
 vismutti : bismute  
 vitsi : joke  
 vitsiniekka : joker  

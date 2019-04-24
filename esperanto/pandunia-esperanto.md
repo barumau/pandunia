@@ -31,8 +31,6 @@ almas : diamanto
 alojinsokami : samseksema  
 altar : altaro  
 alumin : aluminio  
-am : amo  
-ama : ami  
 amen : interkonsento (amen)  
 amena : aserti (konsenti)  
 amerike : Ameriko  
@@ -310,8 +308,6 @@ disprosium : disprozio
 dolar : dolaro  
 dom : hejmo (loĝejo)  
 doma : loĝi  
-don : donaco  
-dona : doni  
 dong : oriento  
 doste : amiko  
 dosti : amika  
@@ -497,6 +493,8 @@ gida : stiri
 giga : miliardo (giga-)  
 gim : oro  
 gitar : gitaro  
+giva : doni  
+give : givaco  
 glota : gluti  
 glute : gluo  
 gluten : gluteno  
@@ -552,6 +550,8 @@ hasium : hasio
 hatar : danĝero  
 hatari : danĝera  
 hati : eĉ  
+haver : havanto  
+havu : aparteni  
 hawe : aero  
 hay : ankoraŭ  
 hazin : trezoro  
@@ -752,8 +752,6 @@ koron : krono
 korta : mallongigi  
 korti : mallonga  
 kote : palto  
-koy ren : iu persono  
-koy xey : io  
 koy zaman : iam  
 koy : iu  
 kratia : regi  
@@ -805,6 +803,8 @@ loke : loko
 loki : loka  
 lole : ili  
 long : longa  
+lova : ami (ŝati)  
+love : amo  
 lowa sang : sangi  
 lowa : liki  
 lun : luno  
@@ -956,8 +956,8 @@ node : nodo
 norgi : norvega  
 norgia : Norvegio  
 nota : rimarki  
-note buke : kajero  
-nowi : nova  
+notobuke : kajero  
+novi : nova  
 num : nombro  
 nur : lumo  
 nuri : luma  
@@ -1002,6 +1002,7 @@ parde : kurteno
 parke : parko (ĝardeno)  
 parta : partopreni  
 partia : partio  
+pasporte : pasporto  
 patate : terpomo  
 pay : kukaĵo  
 pede : piedo  
@@ -1041,6 +1042,7 @@ pospor : fosforo
 postokan : poŝtejo  
 pote : poto  
 preda : antaŭiri  
+prezidente : prezidento  
 prizona : malliberigi  
 prizonia : malliberejo  
 problem : problemo  
@@ -1180,8 +1182,8 @@ sonde : sono
 song : pino  
 sos : saŭco  
 sosis : kolbaso  
-soyer : havanto  
-soyu : aparteni  
+soting : io  
+sowon : iu persono  
 suan : acida  
 sube : mateno  
 sude : sudo  
@@ -1223,7 +1225,7 @@ teknolojia : teknologio
 tel : malproksima  
 tele : malproksimeco  
 telofon : telefono  
-telowide : televidilo  
+telovide : televidilo  
 telurium : teluro  
 tem : temo  
 tema : esti pri; pridiskuti  
@@ -1280,9 +1282,16 @@ urse : urso
 urse : urso  
 uza : uzi  
 ##v  
+vaze : vazo  
+vida : vidi (rigardi)  
+vin : vino  
+vis : vic-  
+vizita : vizito  
+vizite : viziti  
+viziter : vizitanto  
 ##w  
 wada : promesi  
-wain : vino  
+wanta : voli  
 wase : oazo  
 wate : vato  
 waw : ŭaŭ!  
@@ -1291,16 +1300,11 @@ waxomaxin : lavmaŝino
 way dexia : fremda lando  
 way : ekstera  
 waye : ekstero  
-waze : vazo  
 werke : laboro  
-wida : vidi (rigardi)  
 wil : estonte  
 wile : estonoteco  
 win : venko  
 wina : venki  
-wizita : vizito  
-wizite : viziti  
-wiziter : vizitanto  
 wolfe : lupo  
 ##x  
 xake : branĉo  
