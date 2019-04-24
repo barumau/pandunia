@@ -34,11 +34,11 @@ precizigas.
     - ekz.  **pang nyamu.** = Pano estas manĝata.
 8. Verboj ne ŝanĝiĝas laŭ persono aŭ nombro.
 9. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **me bita te dona pese.** = Mi petas vin (por) doni monon.
+    - ekz. **me plisa te dona pese.** = Mi petas vin (por) doni monon.
 10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** =
       Ĉu vi parolas pandunion?
-    - **me bita te loga ming.** →  **bita loga ming.** = Bonvolu
+    - **me plisa te loga ming.** →  **plisa loga ming.** = Bonvolu
       paroli klare.
 11. Derivitaj vortoj portas finaĵon. Mofidovortoj finiĝas je -i,
     substantivoj je -e, kaj verboj je -a aŭ -u.

@@ -1,4 +1,4 @@
--n (oma) : yu  
+-n (oma) : du  
 : : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
 aakkoset (ABC) : abace  
@@ -320,7 +320,6 @@ hajauttaa : jamula
 hajonnut (sirpaleina) : parci  
 hajottaa (särkeä, repiä, sirpaloida) : parca  
 hallita yksinvaltaisesti : impera  
-halo : halos  
 haluta : wola  
 halveksia (hyljeksiä) : paraya  
 hame : jupe  
@@ -347,7 +346,7 @@ hauta : gabre
 hautausmaa : gabristan  
 he : lole  
 hedelmä : pal  
-hei (haloo) : halo'  
+hei (haloo) : halow  
 heijastaa (peilata) : mira  
 heimo : tribe  
 heinäkuu : mes 7 (mes set)  
@@ -448,6 +447,7 @@ häkki : kafas
 hämähäkki : arane  
 hän (se) : le  
 häntä : dum  
+häpeä : xarme  
 hätä (paniikki) : panike  
 hävitä (kärsiä tappio) : luza  
 häviäjä : luzer  
@@ -845,6 +845,7 @@ kuoro : kor
 kupari : kuper  
 kuperi : kuper  
 kupla : bubul  
+kupoli (holvikatto) : kupol  
 kuponki : kupon  
 kuppi (muki) : kupe  
 kurainen (mutainen) : bloti  
@@ -925,6 +926,7 @@ lamppu : lampe
 lapsi (jälkeläinen) : bace  
 lasi : kace  
 laskea (tehdä laskutoimitus) : hisaba  
+lasku (faktuura) : bil  
 laskuoppi (aritmetiikka) : hisabia  
 latinalaiset aakkoset : latini abace  
 lattia : kamar tal  
@@ -996,6 +998,7 @@ loma : feria
 lomailla : fera  
 lopettaa : fina  
 loppu : fin  
+loukkaus (herja) : insulte  
 loukkaus (törkeys) : ninde  
 lounas : den nyam  
 luiska (ramppi) : rampe  
@@ -1029,7 +1032,7 @@ lähettäjä (lähetin) : miser
 lähettää : misa  
 lähetys : misia  
 lähetystö : daixeria  
-lähtien (-sta, -lta) : da  
+lähtien (-sta, -lta) : ya  
 lämmin : garmi  
 lämpömittari : termometer  
 lämpötila : terme  
@@ -1067,7 +1070,7 @@ magneetti : magnete
 magneettinen : magneti  
 magnesium : magnes  
 maha : fubu'  
-mahdollinen (mahdollisesti, ehkä) : bili  
+mahdollinen (mahdollisesti, ehkä) : abli  
 mahdollisuus (tilaisuus) : canse  
 maissi : mais  
 maistaa : gusta  
@@ -1139,6 +1142,7 @@ merkki (jälki) : marke
 merkki (signaali) : sinye  
 Merkurius : budan  
 messiaaninen : kristi  
+mestari (asiantuntija) : master  
 mestari (voittaja) : campion  
 metalli : metal  
 meteli : kelele  
@@ -1320,6 +1324,8 @@ ohjelmoija : programer
 oho (vau) : waw  
 oi! : o  
 oikea (paikkansapitävä) : sahi  
+oikea puoli : raite  
+oikeistolainen : raitiste  
 oikeudenmukainen : adali  
 oikeus (oikeutus) : hake  
 oikeus : adalia  
@@ -1337,7 +1343,7 @@ Oman : oman
 omena : aple  
 omistaa : soya  
 omistaja : soyer  
-omistetun omistajaan liittävä partikkeli : ya  
+omistetun omistajaan liittävä partikkeli : da  
 ommella : suta  
 ongelma : problem  
 onnitella (siunata) : barka  
@@ -1398,6 +1404,7 @@ pala : tike
 palaa : jalu  
 palanen (murunen, riekale, sirpale) : parce  
 palata : retra  
+palatsi : palas  
 Palau : palaw  
 palauttaa : fuga  
 Palestiina : filistinia  
@@ -1574,8 +1581,8 @@ pysähdys : ting
 pysähtyä : tingu  
 pysäyttää : tinga  
 pyyhe : towal  
-pyytää : bita  
-pyytää tulemaan : bita laya  
+pyytää : plisa  
+pyytää tulemaan : plisa laya  
 pyöreä : cirki  
 pyörä (polkupyörä, moottoripyörä) : sikle  
 päivä : den  
@@ -1743,6 +1750,7 @@ seitsemän (7) : set
 sekoitin : mixer  
 sekoittaa : mixa  
 seksi (sukupuolinen kanssakäyminen) : sekse  
+sekunti : sekunde  
 sekuntikello : sekundometer  
 seleeni : selen  
 selkä : ruke  
@@ -1805,6 +1813,7 @@ soittaa (musisoida) : musika
 sokeri : sukar  
 solmu : node  
 solu : sel  
+solvata (loukata) : insulta  
 Somalia : somalia  
 sopia : maca  
 sormi tai varvas : finger  
@@ -1873,6 +1882,7 @@ syyllinen : doxi
 Syyria : suria  
 syyskuu : mes 9 (mes noy)  
 säde : rade  
+sädekehä (halo) : nurocirke  
 sähkö : eletre  
 sähköinen : eletri  
 sähköposti : eletroposte (e-poste)  
@@ -1899,9 +1909,10 @@ taika (taikuus, magia) : magia
 taikuri : mager  
 Taipei : taibei  
 taistelu (sota) : jeng  
+taitaa (olla mestari jskn) : masta  
 taitava : xuti  
 taiteilija : arter  
-taito (kyky) : bile  
+taito (kyky) : able  
 taito : xute  
 taivas : saman  
 Taiwan : taiwan  
@@ -2007,7 +2018,7 @@ toivoa : inxala
 tomaatti : tomate  
 tontti (maakaistale) : lote  
 tori (basaari) : bazar  
-torni : minare  
+torni : minar  
 torstai : war 4 (war car)  
 torvi (torvisoitin) : buge  
 tosi (aito) : jin  
@@ -2165,6 +2176,8 @@ vartalo (varsi, torso) : torse
 vartija (vahti) : garder  
 vartioida (vahtia) : garda  
 vasara : hamar  
+vasemmistolainen : leftiste  
+vasen : lefte  
 vasta- (anti-) : anti  
 vastaan (vasten) : kontra  
 vastata : jawaba  
@@ -2235,7 +2248,7 @@ vismutti : bismute
 vitsi : joke  
 vitsiniekka : joker  
 voi : makan  
-voida (osata, pystyä) : bila  
+voida (osata, pystyä) : abla  
 voima : bale  
 voimakas (vahva) : bal  
 voipuu : karite  

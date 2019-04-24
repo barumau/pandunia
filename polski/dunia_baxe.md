@@ -299,14 +299,14 @@ Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w zdaniu. (To
 
     Polski:     To nie może być zjedzone.
     Angielski:  It can not be eaten.
-    Pandunia:   ye no bila bey nyama.
+    Pandunia:   ye no abla bey nyama.
     Chiński:    Tā bù néng bèi chī. (它不能被吃。)
 
 Jak chiński, Pandunia nie oznacza czasowników końcówkami jak "-ić" lub słowami jak "to".
 
     Polski:     Zapraszam go do wypicia kawy.
     Angielski:  I invite him to drink coffee.
-    Pandunia:   mi bita ye nyama kafe.
+    Pandunia:   mi plisa ye nyama kafe.
     Chiński:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub mnogiej zależnie od otaczających je słów. Nie ma zakończenia liczby mnogiej jak -i w polskim. Również czasowniki nie są odmieniane. Jedno słowo w jednej słowie **si** jest używane zamiast _jestem, jest, byłem, byliście, będziemy..._

@@ -150,11 +150,11 @@ name, kinship term or profession.
 **salam xefe!**
 = Hello, chief!
 
-Another Pandunia word for greeting is **halo'**. It is also a very
+Another Pandunia word for greeting is **halow**. It is also a very
 international greeting. You can choose freely, which word to use when
 you greet people.
 
-**halo'!**
+**halow!**
 = Hello!
 
 
@@ -170,7 +170,7 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halo'** greeting, hello, hi, salaam, ciao, etc.
+**salam, halow** greeting, hello, hi, salaam, ciao, etc.
 **salama** to greet.  
 **mame** mother, mom.
 **pape** father, dad.
@@ -194,16 +194,16 @@ answers are after the word list.
 
 ☻: **salam!**
 = Hello!  
-☺: **salam! bita sida.**
+☺: **salam! plisa sida.**
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
-☺: **bita nyama kafe u cay.**
+☺: **plisa nyama kafe u cay.**
 = Please have some coffee or tea.  
 ☻: **me nyama cay. danke.**
 = I will have some tea, thank you.  
 ...  
-☺: **bita salama ti mame!**
+☺: **plisa salama ti mame!**
 = Please tell greetings to your mother.  
 ☻: **me salama le. salam!**
 = I will. Bye!  
@@ -219,10 +219,10 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **bita** = to
+This sentence has a _pivot structure_. The first verb, **plisa** = to
 request, addresses **te** as its object. At the same time **te**
 serves also as the subject of the second verb, **salama** = to greet,
 whose object is **le**. So **te** has a double role: (1) object of
@@ -238,12 +238,12 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = I ask you to say hello to him/her.  
-**bita salama le.**
+**plisa salama le.**
 = Please say hello to him/her.
 
-See how the translation of **bita** changed between the two sentences?
+See how the translation of **plisa** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
 Pandunia can cope with changes like this without resorting to different
@@ -251,22 +251,22 @@ words. It is a principle in Pandunia that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
-The phrase **bita salama le** has a useful pattern that can be used
+The phrase **plisa salama le** has a useful pattern that can be used
 for making polite requests.
 
-**bita sida.**
+**plisa sida.**
 = Please be seated.  
-**bita dona kafe.**
+**plisa dona kafe.**
 = Please give me some coffee.  
-**bita dona cay.**
+**plisa dona cay.**
 = Please give me some tea.  
-**bita nyama cay.**
+**plisa nyama cay.**
 = Please have some tea.  
-**bita safa kamar.**
+**plisa safa kamar.**
 = Please clean the room.
 
 Commands are introduced with **orda** = to command. They employ the
-same pivot structure as requests with **bita**.
+same pivot structure as requests with **plisa**.
 
 **orda dona cay.**
 = Give (me) some tea!  
@@ -294,7 +294,7 @@ Try translating these sentences from English to Pandunia.
 ### Word List
 
 **cay** tea.
-**bita** to ask; please.
+**plisa** to ask; please.
 **dona** to give.
 **danke** thanks.
 **i** and.
@@ -310,9 +310,9 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. le nyama cay.
-2. xefe bita le sida.
-3. bita nyama kafe u cay.
-4. mame bita me safa kamar.
+2. xefe plisa le sida.
+3. plisa nyama kafe u cay.
+4. mame plisa me safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -351,7 +351,7 @@ Yes or no questions
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **bita**, which you learned in the
+pivot structure as requests with **plisa**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
 **me eska te nyama cay.**
@@ -473,11 +473,11 @@ negated word. In the phrase **me ni salama te** the negative word
 word affects the word that follows it. Different scopes of negation
 may result depending on the location of the negative word.
 
-**me bita te safa kamar.**
+**me plisa te safa kamar.**
 = I ask you to clean the room.  
-**me ni bita te safa kamar.**
+**me ni plisa te safa kamar.**
 = I do NOT ask you to clean the room.  
-**me bita te ni safa kamar.**
+**me plisa te ni safa kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective

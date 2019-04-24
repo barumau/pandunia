@@ -16,7 +16,7 @@ un rici man soya bekeria.
 </td><td>
 A rich man owned the bakery.
 </td></tr><tr><td>
-miskin man nosa nyami pang mey den, a ni bila peya.
+miskin man nosa nyami pang mey den, a ni abla peya.
 </td><td>
 The poor man smelled the delicious bread every day, but could not afford it.
 </td></tr><tr><td>
@@ -36,7 +36,7 @@ miskin man soya pol doste, ki dona pa le pan pese.
 </td><td>
 The poor man had many friends who gave him the money.
 </td></tr><tr><td>
-badi den, dul le enda pa hakimer.
+badi den, dul le gowa pa hakimer.
 </td><td>
 The next day they both went to the judge.
 </td></tr><tr><td>

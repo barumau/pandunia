@@ -51,11 +51,11 @@ These are the 11 basic rules of Pandunia language.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me bita te dona pese.** = I ask you to give money.
+    - ex. **me plisa te dona pese.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
-    - **me bita te loga ming.** →  **bita loga ming.** = Please speak
+    - **me plisa te loga ming.** →  **plisa loga ming.** = Please speak
       clearly.
 11. Derived words carry an ending. Adjectives end in -i, nouns end in
     -e, and verbs end in -a or -u.
@@ -600,9 +600,9 @@ All action-words (verbs) that come one after another are activated by
 the subject. There can be two, three or even more action-words in
 series.
  
-1. **me enda dom.** - I go home.  
-2. **me bila enda dom.** - I can go home.  
-3. **me wola bila enda dom.** - I want to be able to go home. (Lit. _I
+1. **me gowa dom.** - I go home.  
+2. **me abla gowa dom.** - I can go home.  
+3. **me wola abla gowa dom.** - I want to be able to go home. (Lit. _I
    want can go home_!)
 
 ### 7.8. Pronoun dropping
@@ -617,8 +617,8 @@ This is done especially in commands and requests.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-**me bita te laya dom.** - I ask you to come home.  
-**bita laya dom!** - Please come home! (Literally: _Request come home!_)
+**me plisa te laya dom.** - I ask you to come home.  
+**plisa laya dom!** - Please come home! (Literally: _Request come home!_)
 
 --------------------------------------------------------------------------------
 

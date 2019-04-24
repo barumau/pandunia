@@ -8,6 +8,9 @@
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
+abla : móc, umieć  
+able : możliwość, umiejętność  
+abli : prawdopodobnie, możliwie  
 acente : akcent, nacisk  
 acinium : aktyn  
 adali : sprawiedliwy  
@@ -17,6 +20,8 @@ adulte : osoba dorosła
 afgania : Afganistan  
 afri : afrykański, Afrykanin  
 afria : Afryka  
+afrofiler : afrofil  
+afrofilia : afrofilia  
 agres : agresja, napaść  
 aha : rozumieć, pojmować  
 ainstainium : einstein  
@@ -194,9 +199,6 @@ bermudia : Bermudy
 beton : beton  
 bey : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 biblia : Biblia  
-bila : móc, umieć  
-bile : możliwość, umiejętność  
-bili : prawdopodobnie, możliwie  
 bina : zbudować, budować, konstruować  
 binde : punkt  
 bing : chory  
@@ -205,8 +207,6 @@ bireria : bar, knajpa
 bis : genderqueer, niebinarny  
 biskute : biszkopt, ciastko  
 bismute : bizmut  
-bita laya : zaprosić, zapraszać  
-bita : prosić  
 bixu : musieć  
 biyolojia : biologia, nauka o życiu  
 bizar : dziwny  
@@ -322,7 +322,7 @@ cute : wyjśćie, opuszczenie
 cuza : wybrać, wybierać, selekcjonować  
 cuze : wybór, elekcja, selekcja  
 ##d  
-da : z, od  
+da : z (partykuła posiadania)  
 dade : kość do gry  
 daixer : ambasador  
 daixeria : ambasada  
@@ -410,6 +410,7 @@ doxi : winny
 doze : porcja, dawka  
 drame : dramat  
 droge : narkotyk  
+du : mieć (partykuła posiadania)  
 dubnium : dubn  
 duga : czytać  
 duka : martwić  
@@ -524,6 +525,9 @@ fijia : Fidżi
 fikra : myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fikre : myśl, pomysł  
 fiksa : przyczepić, przymocować  
+fila : lubić  
+filer : miłośnik (fan, -fil)  
+filia : zamiłowanie (-filia)  
 filipinia : Filipiny  
 filistinia : Terytorium Palestyńskie  
 filme : film  
@@ -679,8 +683,7 @@ hakimer : sędzia
 hali : pusty  
 halif : kalif  
 halifia : kalifat  
-halo' : halo, cześć  
-halos : efekt halo  
+halow : halo, cześć  
 hamake : hamak  
 hamar : młot, młotek  
 hamir : drożdże  
@@ -778,6 +781,8 @@ insaniste : humanista
 insanisti : humanistyczny  
 insanistia : humanizm  
 inspira : inspirować; inspiracja  
+insulta : obrazić  
+insulte : obraza (obelga)  
 inter : między  
 interes : zainteresowanie, zaciekawienie; interesujący  
 inxala : nadzieja, życzenie  
@@ -1079,6 +1084,7 @@ kultur : kultura
 kupe : kubek  
 kuper : miedź  
 kuper : miedź  
+kupol : kopuła  
 kupon : kupon  
 kura : pielęgnować, leczyć  
 kuran : Koran  
@@ -1150,6 +1156,7 @@ loga : mówić, rozmawiać
 loge liste : lista słów  
 loge : mowa; słowo  
 logike : logika, dedukcja  
+logofiler : logofil (miłośnik słów)  
 loja : badać, studiować  
 lojia : nauka, badanie, studiowanie  
 loka : umieścić (postawić)  
@@ -1322,7 +1329,7 @@ milo- : mili-
 milometre : milimetr  
 min ka bas : zbyt mało  
 min : mniej  
-minare : wieża  
+minar : wieża  
 ming : jasny, czysty  
 mini : mały, mini-  
 minim : najmniej, minimalnie  
@@ -1508,6 +1515,7 @@ nun : teraz
 nur : światło, oświetlenie  
 nuri rade : promień światła  
 nuri : jasny, świetlny  
+nurocirke : efekt halo  
 nuton : niuton (N)  
 nyam kamar : jadalnia  
 nyam : jedzenie, posiłek  
@@ -1660,6 +1668,8 @@ platon : Platon
 platoni : platoniczne  
 platoniste : platończyk  
 platonistia : platonizm  
+plisa laya : zaprosić, zapraszać  
+plisa : prosić  
 plumbe : ołów  
 plus : też, również  
 pluto : Pluton (planeta karłowata)  
@@ -1981,6 +1991,7 @@ sos : sos
 sosis : kiełbasa  
 soto : Lesotho  
 soya : mieć  
+soye : własność (mienie)  
 soyer : właściciel (posiadacz)  
 soyu : należeć  
 suan : kwaśny  
@@ -2019,6 +2030,8 @@ supris : zaskoczenie
 suria : Syria  
 surinam bax : język surinamski  
 surinam : Surinam  
+suta : szyć  
+sutur : szew  
 suxe : sushi  
 suy rang : akwarela, farba wodna  
 suy : woda  
@@ -2099,6 +2112,7 @@ tesa : dyskutoać, twierdzić
 tese : argument, teza  
 teste : test, wyzwanie, próba  
 tezi : intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
+ti : twój  
 ticin : chordofon, instrument strunowy  
 tike masal : tikka masala  
 tike : tikka  
@@ -2266,6 +2280,7 @@ xamoden : popołudnie
 xampu' : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
+xarme : wstyd (hańba, kompromitacja)  
 xarnir : zawias, oś  
 xarta : wymagać, przewidywać  
 xarte : warunek  
@@ -2300,7 +2315,7 @@ xute : umiejętność (kompetencja)
 xuti : umiejętny (wprawny)  
 xuxe : zostawić, zostawiać  
 ##y  
-ya : z (partykuła posiadania)  
+ya : z, od  
 yada : pamiętać  
 yade : pamięć  
 yaga : oszacować, szacować, przybliżyć, przybliżać  
@@ -2328,7 +2343,6 @@ yohan feste : dzień świętego Jana
 yone : wagina  
 yosay : forteca, twierdza  
 yote : kropla  
-yu : mieć (partykuła posiadania)  
 yumor : humor  
 yumori : humorystyczny, śmieszny, zabawny, komiczny  
 yumoriste : komik  

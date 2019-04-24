@@ -19,10 +19,10 @@ Cette grammaire traite du types des mots et des différentes façons d'ordonner 
 7. Une phrase avec un sens passif a seulement un sujet et un verbe. La plupart des verbes passif se terminent par un **-u**.
     - ex. **meze pentu.** = Les tables sont en train d'être peintes.
 8. L'object d'un verbe transitif peut fonctionner comme le sujet du verbe suivant dans la phrase. Cette structure est appelé la _structure pivot_.
-    - ex. **mi bita tu dar pesa.** = Je te demande de me donner de l'argent.
+    - ex. **mi plisa tu dar pesa.** = Je te demande de me donner de l'argent.
 9. Les pronoms peuvent être omis quand ils sont évidents et redondants.
     - **mi eska tu baxa pandunia?** → **eska tu baxa pandunia?** = Parles-tu Pandunia?
-    - **mi bita tu loga klar.** →  **bita loga klar.** = S'il te plait, parles plus clairement.
+    - **mi plisa tu loga klar.** →  **plisa loga klar.** = S'il te plait, parles plus clairement.
 
 
 

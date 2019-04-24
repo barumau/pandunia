@@ -192,30 +192,30 @@ We greet you.
 
 
 
-### bila <small>会</small>
+### abla <small>会</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 我会开车。
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 他不知道怎么开车。
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 你知道怎么修吗？
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 你会泛世界语吗？
 
-**me bila pandunia.**
+**me abla pandunia.**
 我会泛世界语。
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 我会一点泛世界语。
 
-**me ni bila engli.**
+**me ni abla engli.**
 我不会英语。
 
-**pardon. me ni bila te yu bax.**
+**pardon. me ni abla te yu bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
@@ -226,7 +226,7 @@ We greet you.
 **mome baxa pandunia.**
 我们会说泛世界语。
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 你能说英语吗？
 
 **fransi, espani, portugali, rusi**

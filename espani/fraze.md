@@ -392,10 +392,10 @@ Nosotros nos conocemos (entre nosotros) hace tiempo.
 **me nida helpe.**
 Necesito ayuda.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 ¿Puedes ayudarme?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 
 ¿Puedo ayudarte?
 
@@ -455,29 +455,29 @@ No, no quiero té. Quiero café.
 Esa roja.
 
 
-### bita <small>pedir, solicitud, por favor</small>
+### plisa <small>pedir, solicitud, por favor</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 Te pido que bebas té.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 Te pido que vengas a casa.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Por favor, bebe/beban té.
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Por favor, bebe/beban café.
 
-**bita laya dom.**
+**plisa laya dom.**
 Por favor, ven/vengan a casa.
 
-**bita helpa me.**
+**plisa helpa me.**
 Por favor, ayúdame/ayúdenme.
 
 
@@ -507,10 +507,10 @@ De nada. No hay de qué.
 **haida nyama.**
 Comamos. (Literalmente: _Vamos, comamos_.)
 
-**haida enda nyama.**
+**haida gowa nyama.**
 Vamos a comer.
 
-**haida enda dom.**
+**haida gowa dom.**
 Vamos a casa.
 
 
@@ -561,31 +561,31 @@ No te entiendo muy bien.
 No entiendo nada.
 
 
-### bila <small>poder</small>
+### abla <small>poder</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 Puedo conducir un auto.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 ¿Puedes arreglarlo?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 ¿Puedes hablar pandunia?
 
-**me bila pandunia.**
+**me abla pandunia.**
 Puedo hablar pandunia.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 Puedo hablar un poco de pandunia.
 
-**me ni bila engli.**
+**me ni abla engli.**
 No puedo hablar inglés.
 
-**pardon. me ni bila te ya bax.**
+**pardon. me ni abla te ya bax.**
 Lo siento. No puedo hablar tu idioma.
 
 
@@ -612,10 +612,10 @@ El gato dice miau.
 
 ### auda <small>escuchar, oír</small>
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 No puedo oírte.
 
-**bita loga forti.**
+**plisa loga forti.**
 Por favor, hablar más fuerte.
 
 **me auda musike.**
@@ -657,10 +657,10 @@ No entiendo qué significa.
 
 ### kitaba <small>escribir</small>
 
-**bita kitaba ti adres.**
+**plisa kitaba ti adres.**
 Por favor, escribe tu dirección.
 
-**bita kitaba le sa ce.**
+**plisa kitaba le sa ce.**
 Por favor, escríbelo aquí.
 
 
@@ -672,7 +672,7 @@ Por favor, escríbelo aquí.
 **mome baxa pandunia.**
 Nosotros hablamos pandunia.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 ¿Puedes hablar inglés?
 
 **fransi, espani, portugali, rusi**
@@ -690,30 +690,30 @@ Suajili, hausa, yoruba, amhárico
 
 ## Parte 4: Moverse
 
-### enda <small>ir</small>
+### gowa <small>ir</small>
 
-**te enda ke?**
+**te gowa ke?**
 ¿A dónde vas?
 
-**me enda dom.**
+**me gowa dom.**
 Voy a casa.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 ¿A dónde debería ir?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 ¿Con quién debería ir?
 
 **haida enda!**
 ¡Vamos! (a algún lugar)
 
-**haida enda sa pede**
+**haida gowa sa pede**
 Vamos caminando.
 
 
 ### laya <small>venir</small>
 
-**bita laya!**
+**plisa laya!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **te laya da ke?**
@@ -756,7 +756,7 @@ Estoy en casa.
 ¿Dónde está él/ella?
 
 **le sida sa kamar.**
-Él/ella se sienta en la habitación.
+Él/ella se sienta en la haplisación.
 
 Ayuda: Puedes usar **sa**
 como una preposición o como un verbo por aparte.
@@ -783,7 +783,7 @@ es necesario.
 
 ### denga <small>esperar</small>
 
-**bita denga!**
+**plisa denga!**
 ¡Por favor, espera!
 
 **lole denga mome.**
@@ -796,10 +796,10 @@ Te espero en el hotel.
 
 ### dona <small>dar</small>
 
-**bita dona pese.**
+**plisa dona pese.**
 Por favor da dinero.
 
-**bita dona le pa me.**
+**plisa dona le pa me.**
 Por favor dame eso.
 
 **me dona ce pa te.**
@@ -816,7 +816,7 @@ Le doy un libro a ellos/as.
 **me kapa un kafe.**
 Voy a tomar un café.
 
-**bita kapa un kafe pa me.**
+**plisa kapa un kafe pa me.**
 Por favor toma un café para mí.
 
 **te pas kapa pese da me.**
@@ -832,7 +832,7 @@ Voy a tomar una cerveza.
 Quiero rentar un auto.
 
 **ye kirodona kamar to safarer.**
-Él/ella vende habitaciones a los viajeros.
+Él/ella vende haplisaciones a los viajeros.
 <!--
 
 ### mai <small>comerciar</small>

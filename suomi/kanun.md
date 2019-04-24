@@ -17,10 +17,10 @@ Perussäännöt
 7. Passiivisessa lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
     - esim. **meze pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
-    - esim. **me bita te dona pese.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **me plisa te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Puhutko sinä panduniaa?
-    - **me bita te loga ming.** →  **bita loga ming.** = Pyydän, puhu selvästi.
+    - **me plisa te loga ming.** →  **plisa loga ming.** = Pyydän, puhu selvästi.
 
 
 
@@ -617,18 +617,18 @@ Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aik
  
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
-1. **me enda dom.**
+1. **me gowa dom.**
 = Minä menen kotiin.
-2. **me bila enda dom.**
+2. **me abla gowa dom.**
 = Minä voin mennä kotiin.
-3. **me wola bila enda dom.**
+3. **me wola abla gowa dom.**
 = Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  
-**me bixu enda dom.**
+**me bixu gowa dom.**
 = Minun on pakko mennä kotiin.  
-**me xudu enda dom.**
+**me xudu gowa dom.**
 = Minun pitäisi mennä kotiin.  
 
 
@@ -645,22 +645,22 @@ Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arva
 
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
-**me xina le enda dom.**
+**me xina le gowa dom.**
 = Minä luulen, että hän menee kotiin.   
-**xina le enda dom.**
+**xina le gowa dom.**
 = Kai hän menee kotiin.  
-**me xaka le enda dom.**
+**me xaka le gowa dom.**
 = Minä epäilen, että hän menee kotiin.  
-**xaka le enda dom.**
+**xaka le gowa dom.**
 = Tokko hän menee kotiin.
 
 #### 7.8.2. Lyhyt saranarakenne (VVO)
 
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 = Minä pyydän sinua tulemaan kotiin.  
-**bita laya dom!**
+**plisa laya dom!**
 = Pyydän, tule kotiin!
 
  

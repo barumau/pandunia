@@ -407,10 +407,10 @@ Tunnemme toisemme jo vanhastaan.
 **me nida helpe.**
 Minä tarvitsen apua.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 Voitko auttaa minua?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 Voinko auttaa sinua?
 
 
@@ -472,29 +472,29 @@ Tuon punaisen.
 
 
 
-### bita <small>pyytää</small>
+### plisa <small>pyytää</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 Minä pyydän sinua juomaan teetä.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Juopa teetä.
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Juopa kahvia.
 
-**bita laya dom.**
+**plisa laya dom.**
 Tulepa kotiin.
 
-**bita helpa me.**
+**plisa helpa me.**
 Autapa minua.
 
 
@@ -526,10 +526,10 @@ Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
 **haida nyama!**
 Syökäämme!
 
-**haida enda nyama!**
+**haida gowa nyama!**
 Menkäämme syömään!
 
-**haida enda dom.**
+**haida gowa dom.**
 Menkäämme kotiin.
 
 
@@ -585,30 +585,30 @@ En ymmärrä yhtään.
 
 
 
-### bila <small>osata</small>
+### abla <small>osata</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 Osaan ajaa autolla.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 Hän ei osaa ajaa autolla.
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 Osaatko korjata sen?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 Osaatko panduniaa?
 
-**me bila pandunia.**
+**me abla pandunia.**
 Minä osaan panduniaa.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 Minä osaan vähän panduniaa.
 
-**me ni bila engli.**
+**me ni abla engli.**
 Minä en osaa englantia.
 
-**pardon. me ni bila te ya bax.**
+**pardon. me ni abla te ya bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -636,10 +636,10 @@ Kissa sanoo miau.
 
 ### auda <small>kuulla, kuunnella</small>
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 En voi kuulla sinua.
 
-**bita loga forti.**
+**plisa loga forti.**
 Puhuisitko kovempaa.
 
 **me auda musike.**
@@ -684,10 +684,10 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**bita kitaba te ya adres.**
+**plisa kitaba te ya adres.**
 Kirjoittaisitko osoitteesi.
 
-**bita kitaba le sa ce.**
+**plisa kitaba le sa ce.**
 Kirjoittaisitko sen tähän!
 
 
@@ -700,7 +700,7 @@ Puhutteko te panduniaa?
 **mome baxa pandunia.**
 Me puhumme panduniaa.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 Osaatko puhua englantia?
 
 **fransi, espani, portugal, rusi**
@@ -719,31 +719,31 @@ Swahilia, hausaa, jorubaa, amharaa
 
 ## Osa 4. Kulkeminen
 
-### enda <small>mennä</small>
+### gowa <small>mennä</small>
 
-**te enda ke?**
+**te gowa ke?**
 Minne sinä menet?
 
-**me enda dom.**
+**me gowa dom.**
 Minä menen kotiin.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 Minne minun pitää mennä?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 Kenen luoksen minun pitää mennä?
 
 **haida enda!**
 Menkäämme!
 
-**haida enda sa pede**
+**haida gowa sa pede**
 Menkäämme jalan!
 
 
 
 ### laya <small>tulla</small>
 
-**bita laya!**
+**plisa laya!**
 Tule tänne!
 
 **te laya da ke?**
@@ -816,7 +816,7 @@ ei välttämättä tarvita.
 
 ### denga <small>odottaa</small>
 
-**bita denga!**
+**plisa denga!**
 Odota!
 
 **lole denga mome.**

@@ -1,5 +1,6 @@
 ##a  
 abace : 字母表  
+abla : 会  
 adulte : 成年人  
 ajil : 灵活的  
 akse : 轴线  
@@ -31,8 +32,7 @@ bax : 语言
 baxolojia : 白色  
 bazar : 市场  
 bere : 浆果  
-bila : 会  
-bita : 请  
+bil : 帐单   
 bon rupi : 好看  
 buze : 山羊   
 ##c  
@@ -82,6 +82,7 @@ pa : 到
 papagay : 鹉鹦  
 parke : 园  
 pelmen : 饺子   
+plisa : 请  
 pulte : 桥  
 ##r  
 ##s  

@@ -380,10 +380,10 @@ Ni konas unu la alian longe.
 **me nida helpe.**
 Mi bezonas helpon.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 Ĉu vi povas helpi min?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 Ĉu mi povas helpi vin?
 
 **me wola helpa te.**
@@ -443,29 +443,29 @@ Kiun pomon vi volas manĝi?
 Tiun ruĝan.
 
 
-### bita <small>peti</small>
+### plisa <small>peti</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 Mi petas ke vi trinku teon.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 Mi petas ke vi venu hejmen.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Bonvolu trinki teon!
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Bonvolu trinki kafon!
 
-**bita laya dom.**
+**plisa laya dom.**
 Bonvolu veni hejmen!
 
-**bita helpa me.**
+**plisa helpa me.**
 Bonvolu helpi min.
 
 
@@ -495,10 +495,10 @@ Nedankinde. (Laŭvorte: Vi ĝentila._)
 **haida nyama!**
 Ni manĝu!
 
-**haida enda nyama!**
+**haida gowa nyama!**
 Ni iru manĝi!
 
-**haida enda dom.**
+**haida gowa dom.**
 Ni iru hejmen.
 
 
@@ -548,30 +548,30 @@ Mi ne sufiĉe komprenis vin.
 Mi komprenas nenion.
 
 
-### bila <small>povi</small>
+### abla <small>povi</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 Mi povas konduki aŭton.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 Ĉu vi povas ripari ĝin?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 Ĉu vi povas paroli pandunion?
 
-**me bila pandunia.**
+**me abla pandunia.**
 Mi povas pandunion.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 Mi povas ete pandunion.
 
-**me ni bila engli.**
+**me ni abla engli.**
 Mi ne povas paroli la anglan.
 
-**pardon. mi ni bila te yu baxa.**
+**pardon. mi ni abla te yu baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -601,10 +601,10 @@ Kato diras mjaŭ.
 **auda me!**
 Aŭskulti min!
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 Mi ne povas aŭdi vin.
 
-**bita loga forti.**
+**plisa loga forti.**
 Bonvolu paroli pli forte.
 
 **me auda musike.**
@@ -644,10 +644,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
 
-**bita kitaba ti adres.**
+**plisa kitaba ti adres.**
 Bonvolu skribi vian adreson.
 
-**bita kitaba le sa ce.**
+**plisa kitaba le sa ce.**
 Bonvolu skribi ĝin tie!
 
 
@@ -659,7 +659,7 @@ Bonvolu skribi ĝin tie!
 **mome baxa pandunia.**
 Ni parolas pandunion.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 Ĉu vi povas paroli la anglan?
 
 **fransi, espani, portugali, rusi**
@@ -677,29 +677,29 @@ la sŭahilia, la haŭsa, la joruba, la amhara
 
 ## 4a parto: Iro
 
-### enda <small>iri</small>
+### gowa <small>iri</small>
 
-**te enda ke?**
+**te gowa ke?**
 Kien vi iras?
 
-**me enda dom.**
+**me gowa dom.**
 Mi iras hejmen.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 Kien mi devas iri?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 Al kiu mi devas iri?
 
 **haida enda!**
 Ni iru!
 
-**haida enda sa pede**
+**haida gowa sa pede**
 Ni iru piede!
 
 ### laya <small>veni</small>
 
-**bita laya!**
+**plisa laya!**
 Bonvolu veni!
 
 **te laya da ke?**
@@ -737,7 +737,7 @@ Mi loĝas en Singapuro.
 
 ### denga <small>to wait</small>
 
-**bita denga!**
+**plisa denga!**
 Bonvolu, atendu!
 
 **denga me!**

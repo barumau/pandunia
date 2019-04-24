@@ -8,6 +8,9 @@
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
+abla : voida (osata, pystyä)  
+able : taito (kyky)  
+abli : mahdollinen (mahdollisesti, ehkä)  
 acente : painotus (aksentti)  
 acinium : aktinium  
 adali : oikeudenmukainen  
@@ -194,9 +197,7 @@ bermudia : Bermuda
 beton : betoni  
 bey : läpikäydä (passiivin muodostava verbi)  
 biblia : Raamattu  
-bila : voida (osata, pystyä)  
-bile : taito (kyky)  
-bili : mahdollinen (mahdollisesti, ehkä)  
+bil : lasku (faktuura)  
 bina : rakentaa  
 binde : täplä (läiskä)  
 bing : sairas  
@@ -205,8 +206,6 @@ bireria : baari (kapakka)
 bis : muunsukupuolinen  
 biskute : keksi (pikkuleipä)  
 bismute : vismutti  
-bita laya : pyytää tulemaan  
-bita : pyytää  
 bixu : täytyä (olla pakko)  
 biyolojia : biologia  
 bizar : outo (kummallinen)  
@@ -322,7 +321,7 @@ cute : poistuminen
 cuza : valita  
 cuze : valinta (vaali)  
 ##d  
-da : lähtien (-sta, -lta)  
+da : omistetun omistajaan liittävä partikkeli  
 dade : noppa (arpakuutio)  
 daixer : lähettiläs  
 daixeria : lähetystö  
@@ -409,6 +408,7 @@ doxi : syyllinen
 doze : annos  
 drame : draama  
 droge : huume  
+du : -n (oma)  
 dubnium : dubnium  
 duga : lukea  
 duka : surra (murehtia)  
@@ -679,8 +679,7 @@ hakimer : tuomari
 hali : tyhjä  
 halif : kalifi  
 halifia : kalifaatti  
-halo' : hei (haloo)  
-halos : halo  
+halow : hei (haloo)  
 hamake : riippumatto  
 hamar : vasara  
 hamir : hiiva  
@@ -778,6 +777,8 @@ insaniste : humanisti
 insanisti : humanistinen  
 insanistia : humanismi  
 inspira : innoittaa (inspiroida)  
+insulta : solvata (loukata)  
+insulte : loukkaus (herja)  
 inter : väli  
 interes : kiinnostus (mielenkiinto)  
 inxala : toivoa  
@@ -1079,6 +1080,7 @@ kultur : kulttuuri
 kupe : kuppi (muki)  
 kuper : kupari  
 kuper : kuperi  
+kupol : kupoli (holvikatto)  
 kupon : kuponki  
 kura : hoitaa (pitää huolta)  
 kuran : koraani  
@@ -1109,6 +1111,8 @@ laurensium : lawrensium
 laxa : päästää (sallia)  
 laya : tulla  
 le : hän (se)  
+lefte : vasen  
+leftiste : vasemmistolainen  
 lekse : sana  
 leksem : lekseemi  
 leksia : sanasto  
@@ -1242,6 +1246,8 @@ masaje : hieronta
 masal : mauste  
 maske : naamio (maski)  
 masle : asia (juttu)  
+masta : taitaa (olla mestari jskn)  
+master : mestari (asiantuntija)  
 matike : matematiikka (matikka)  
 matiker : matemaatikko  
 matras : patja  
@@ -1322,7 +1328,7 @@ milo- : milli-
 milometre : millimetri  
 min ka bas : liian vähän  
 min : vähemmän  
-minare : torni  
+minar : torni  
 ming : kirkas (selkeä)  
 mini : pikkuruinen (mini-)  
 minim : vähiten  
@@ -1508,6 +1514,7 @@ nun : nyt
 nur : valo  
 nuri rade : valonsäde  
 nuri : valoisa  
+nurocirke : sädekehä (halo)  
 nuton : newton (N)  
 nyam kamar : ruokasali  
 nyam : ruoka  
@@ -1552,6 +1559,7 @@ pakistan : Pakistan
 pakse : lintu  
 pal : hedelmä  
 paladium : palladium  
+palas : palatsi  
 palaw : Palau  
 palme : palmu  
 pan : kaikki  
@@ -1660,6 +1668,8 @@ platon : Platon
 platoni : platoninen  
 platoniste : platonisti  
 platonistia : platonismi  
+plisa laya : pyytää tulemaan  
+plisa : pyytää  
 plumbe : lyijy  
 plus : myös (lisäksi, plus)  
 pluto : Pluto (kääpiöplaneetta)  
@@ -1738,6 +1748,8 @@ radia : säteily
 radiometer : säteilymittari  
 radium : radium  
 radon : radon  
+raite : oikea puoli  
+raitiste : oikeistolainen  
 rajer : monarkki (kuningas, kuningatar)  
 raji : kuninkaallinen  
 rajia : kuningaskunta  
@@ -1882,6 +1894,7 @@ saye : varjo
 sekreter : sihteeri  
 sekreteria : sihteeristö  
 sekse : seksi (sukupuolinen kanssakäyminen)  
+sekunde : sekunti  
 sekundometer : sekuntikello  
 sel : solu  
 selen : seleeni  
@@ -2223,6 +2236,7 @@ xamoden : iltapäivä
 xampu' : šampoo  
 xan : vuori (mäki)  
 xanti : rauhallinen (tyyni)  
+xarme : häpeä  
 xarnir : sarana  
 xarta : vaatia (edellyttää)  
 xarte : vaatimus (edellytys)  
@@ -2257,7 +2271,7 @@ xute : taito
 xuti : taitava  
 xuxe : lepo  
 ##y  
-ya : omistetun omistajaan liittävä partikkeli  
+ya : lähtien (-sta, -lta)  
 yada : muistaa  
 yade : muisti  
 yaga : arvioida  
@@ -2284,7 +2298,6 @@ yohan feste : juhannus
 yone : vagina  
 yosay : linnake  
 yote : pisara (tippa)  
-yu : -n (oma)  
 yumor : huumori  
 yumori : koominen (hauska)  
 yumoriste : humoristi  

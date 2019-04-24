@@ -136,7 +136,7 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**salam, halo'** saludo; hola, adiós.
+**salam, halow** saludo; hola, adiós.
 **salama** saludar.  
 **mame** mamá, madre, ma.
 **pape** padre, papá, pa.
@@ -161,16 +161,16 @@ Pidiendo
 
 ☻: **salam!**
 = ¡Hola!  
-☺: **salam! bita sida.**
+☺: **salam! plisa sida.**
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **bita nyama kafe u cay.**
+☺: **plisa nyama kafe u cay.**
 = Por favor tiene algo de café o té.  
 ☻: **me nyama cay. danke.**
 = Tengo té, gracias.  
 ...  
-☺: **bita salama tu da mame!**
+☺: **plisa salama tu da mame!**
 = Por favor llevale saludos a tu madre.  
 ☻: **me salama le. salam!**
 = Yo la saludo. ¡Adiós!  
@@ -186,10 +186,10 @@ Pidiendo
  o en otros pronombres. Todos los pronombres personales son usados en
  la siguiente oración.
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
-Esta oración es una _oración eje_. El primer verbo, **bita** = pedir,
+Esta oración es una _oración eje_. El primer verbo, **plisa** = pedir,
 se dirije a **te** como su objeto. Al mismo tiempo **te** sirve
 también como el sujeto del segundo verbo, **salama** = saludar, del
 cual su objeto es **le**. Así **tu** tiene un doble papel: (1) objeto
@@ -206,12 +206,12 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = Yo te pido digas hola a él.
-**bita salama le.**
+**plisa salama le.**
 = Por favor dile hola.
 
-¿Vea cómo la traducción de **bita** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **plisa** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su
 uso. En español se refleja este cambio mediante el uso de diferentes
 palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los
@@ -220,21 +220,21 @@ principio en Pandunia que siempre hay exactamente una palabra para un
 concepto. Diferentes palabras no se crean sólo por el papel gramatical
 de algunos cambios de concepto.
 
-La frase **bita salama ye** tiene un patrón útil que puede ser
+La frase **plisa salama ye** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**bita sida.**
+**plisa sida.**
 = Por favor sientese.  
-**bita dona kafe.**
+**plisa dona kafe.**
 = Por favor me da un poco de café.  
-**bita dona cay.**
+**plisa dona cay.**
 = Por favor me da un poco de té.  
-**bita nyama cay.**
+**plisa nyama cay.**
 = Por favor tiene algo de té.  
-**bita safa kamar.**
+**plisa safa kamar.**
 = Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **bita**.
+Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
 
 > **orda dona cay.**
 = ¡Deme un poco de té!
@@ -256,7 +256,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Vocabulario
 
 **cay** té.
-**bita** pedir, solicitar; por favor.
+**plisa** pedir, solicitar; por favor.
 **dona** dar.
 **danke** gracias.
 **i** y.
@@ -272,9 +272,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Respuestas
 
 1. le nyama cay.
-2. xefe bita le sida.
-3. bita nyama kafe u cay.
-4. mame bita me safa kamar.
+2. xefe plisa le sida.
+3. plisa nyama kafe u cay.
+4. mame plisa me safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -313,7 +313,7 @@ Preguntas de Sí o No
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **bita**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **plisa**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
 **me eska te nyama cay.**
 = Yo preguntarte, tomas té.  
@@ -422,11 +422,11 @@ del verbo convertimos una oración afirmativa en negativa.
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
-**me bita te safa kamar.**
+**me plisa te safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**me ni bita te safa kamar.**
+**me ni plisa te safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me bita te ni safa kamar.**
+**me plisa te ni safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 

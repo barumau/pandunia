@@ -207,8 +207,8 @@ danĝero : hatar
 dato : nen mes den  
 daŭri : dura  
 daŭro : dur  
-de (el, pro) : da  
-de (partiklo de posedo) : ya  
+de (el, pro) : ya  
+de (partiklo de posedo) : da  
 dek (10) : des  
 dekono : deci  
 demanda : eski  
@@ -252,7 +252,7 @@ dubnio : dubnium
 dubo : dute  
 duŝo : dux  
 ##e  
-ebla (eble) : bili  
+ebla (eble) : abli  
 eco : gun  
 edzigi : mara  
 egala : egal  
@@ -426,7 +426,7 @@ Gvatemalo : guatemala
 ##h  
 hafnio : hafnium  
 Haitio : haitia  
-halo : halos  
+halo : nurocirke  
 halti : tingu  
 haltigi : tinga  
 halto : ting  
@@ -465,6 +465,7 @@ homaro : insania
 homo : insan  
 Honduro : honduras  
 honoro (respekto) : onor  
+honto : xarme  
 hormono : hormon  
 horo : hor  
 hotelo : hotel  
@@ -488,7 +489,7 @@ insulto : ninde
 interesa : interes  
 interkonsento (amen) : amen  
 interŝanĝi : badala  
-inviti : bita laya  
+inviti : plisa laya  
 io : koy xey  
 iono : ion  
 Irakio : irakia  
@@ -926,7 +927,7 @@ pentri : penta
 perlo : jenju'  
 persa : farsi  
 persono : ren  
-peti (bonvolu) : bita  
+peti (bonvolu) : plisa  
 peza : bari  
 pezo : bar  
 pia : darmi  
@@ -976,8 +977,8 @@ porko : gurube
 posteno : asan  
 posttagmeze : xamoden  
 poto : pote  
-povi : bila  
-povo : bile  
+povi : abla  
+povo : able  
 poŝo : jebe  
 poŝtejo : postokan  
 pravigi : saha  
@@ -999,7 +1000,7 @@ proksima : karbi
 promeni (marŝi) : marca  
 promesi : wada  
 prometio : prometium  
-propra (partiklo de posedo) : yu  
+propra (partiklo de posedo) : du  
 protaktinio : protacinium  
 pulmo : pulmon  
 pulvo : barude  
@@ -1071,7 +1072,7 @@ safrano : zafran
 saga : sofia  
 salo : sal  
 saluto : salame  
-saluton! : halo'  
+saluton! : halow  
 sama : sem  
 samario : samarium  
 samlandano : sem dexi  
@@ -1232,7 +1233,7 @@ tulio : tulium
 tundro : tundar  
 tunelo : tunel  
 Turkio : turkia  
-turo : minare  
+turo : minar  
 tuttera : panoduni  
 tuŝi : toca  
 ##u  

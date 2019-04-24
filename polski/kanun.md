@@ -32,10 +32,10 @@ Oto 11 podstawowych zasad języka Pandunia.
     - przykład: **pang nyamu.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi bita tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
+    - przykład: **mi plisa tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
     - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Mówisz w Panduni?
-    - **mi bita tu loga ming.** →  **bita loga ming.** = Proszę, mów wyraźnie.
+    - **mi plisa tu loga ming.** →  **plisa loga ming.** = Proszę, mów wyraźnie.
 11. Słowa pochodne mają opcjonalne zakończenie. Przymiotniki kończą się na -i, rzeczowniki na -e, a czasowniki na -a lub -u.
 
 
@@ -531,9 +531,9 @@ W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocz
 
 Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot. Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
-1. **mi enda dom.** - Idę do domu.
-2. **mi bila enda dom.** - Mogę iśc do domu.
-3. **mi wola bila enda dom.** - Chcę móc iść do domu.
+1. **mi gowa dom.** - Idę do domu.
+2. **mi abla gowa dom.** - Mogę iśc do domu.
+3. **mi wola abla gowa dom.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka
@@ -547,8 +547,8 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
-> **mi bita tu lay dom.** - Proszę cię, żebyś wrócił do domu.
-> **bita lay dom!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
+> **mi plisa tu lay dom.** - Proszę cię, żebyś wrócił do domu.
+> **plisa lay dom!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
 

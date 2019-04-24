@@ -28,10 +28,10 @@ bandir : флаг
 banye : купание  
 banyokamar : ванная  
 banyu : купаться  
+bil : счёт  
 ##c  
 cini : хань  
 ##d  
-da : из (от)  
 ##e  
 ##f  
 ##g  
@@ -85,6 +85,7 @@ wirus : вирус
 wirusolojia : вирусология  
 ##x  
 ##y  
+ya : из (от)  
 yada : память  
 yaman : Йемен  
 yesus : Иисус  

@@ -388,10 +388,10 @@ We know each other for long.
 **me nida helpe.**
 I need help.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 Can you help me?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 Can I help you?
 
 **me wola helpa te.**
@@ -453,29 +453,29 @@ Which apple do you want?
 This red one.
 
 
-### bita <small>request, please</small>
+### plisa <small>request, please</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 I ask you to drink tea.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 I ask you to come home.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Please, have some tea!
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Please, have some coffee!
 
-**bita laya dom.**
+**plisa laya dom.**
 Please, come home!
 
-**bita helpa me.**
+**plisa helpa me.**
 Please, help me.
 
 
@@ -505,10 +505,10 @@ You're welcome. (Literally: _You're polite._)
 **haida nyama!**
 Let's eat!
 
-**haida enda nyama!**
+**haida gowa nyama!**
 Let's go eat!
 
-**haida enda dom.**
+**haida gowa dom.**
 Let's go home.
 
 
@@ -559,30 +559,30 @@ I didn't quite understand you.
 I don't understand at all.
 
 
-### bila <small>can</small>
+### abla <small>can</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 I can drive a car.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 He/she doesn't know how to drive a car.
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 Do you know how to fix it?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 Do you speak Pandunia?
 
-**me bila pandunia.**
+**me abla pandunia.**
 I speak Pandunia.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 I speak a little Pandunia.
 
-**me ni bila engli.**
+**me ni abla engli.**
 I don't speak English.
 
-**pardon. me ni bila te ya bax.**
+**pardon. me ni abla te ya bax.**
 Sorry, I don't speak your language.
 
 
@@ -612,10 +612,10 @@ Cat says meow.
 **auda me!**
 Listen to me!
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 I can't hear you.
 
-**bita loga forti.**
+**plisa loga forti.**
 Please speak louder.
 
 **me auda musike.**
@@ -657,10 +657,10 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**bita kitaba ti adres.**
+**plisa kitaba ti adres.**
 Please, write your address.
 
-**bita kitaba le sa ce.**
+**plisa kitaba le sa ce.**
 Please, write it here!
 
 
@@ -672,7 +672,7 @@ Do you speak in Pandunia?
 **mome baxa pandunia.**
 We speak in Pandunia.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 Can you speak English?
 
 **fransi, espani, portugali, rusi**
@@ -690,30 +690,30 @@ Swahili, Hausa, Yoruba, Amharic
 
 ## Part 4. Going around
 
-### enda <small>to go</small>
+### gowa <small>to go</small>
 
-**te enda ke?**
+**te gowa ke?**
 Where are you going?
 
-**me enda dom.**
+**me gowa dom.**
 I'm going home.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 Where should I go?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 To whom should I go?
 
 **haida enda!**
 Let's go!
 
-**haida enda sa pede**
+**haida gowa sa pede**
 Let's go by foot!
 
 
 ### laya <small>to come</small>
 
-**bita laya!**
+**plisa laya!**
 Come here!
 
 **te laya da ke?**
@@ -782,7 +782,7 @@ necessary.
 
 ### denga <small>to wait</small>
 
-**bita denga!**
+**plisa denga!**
 Please wait!
 
 **denga me!**
@@ -863,10 +863,10 @@ He or she will be at home.
 
 ### dona <small>give</small>
 
-**bita dona pese.**
+**plisa dona pese.**
 Please give some money.
 
-**bita dona le pa me.**
+**plisa dona le pa me.**
 Please give it to me.
 
 **me dona ce pa te.**
@@ -884,7 +884,7 @@ He/she doesn't want to give it to me.
 **me kapa un kafe.**
 I will take a coffee.
 
-**bita kapa un kafe pa me.**
+**plisa kapa un kafe pa me.**
 Please take one coffee for me.
 
 **te pas kapa pese da me.**
@@ -899,7 +899,7 @@ I will take a beer.
 **kire si 500 dolar sa mes.**  
 The rent is 500 dollars in a month.
 
-**le ni bila peya kire.**  
+**le ni abla peya kire.**  
 He/she can't pay the rent.
 
 **me wola kapa un kar sa kire.**  
@@ -991,7 +991,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**bita sida sa ce!**
+**plisa sida sa ce!**
 Please, sit here!
 
 **me suku stasa.**

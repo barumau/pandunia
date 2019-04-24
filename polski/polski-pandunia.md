@@ -2,6 +2,8 @@
 ##a  
 adres : adres  
 Afganistan : afgania  
+afrofil : afrofiler  
+afrofilia : afrofilia  
 Afryka : afria  
 afrykański, Afrykanin : afri  
 agresja, napaść : agres  
@@ -373,7 +375,7 @@ Dżibuti : jibutia
 dżul (J) : jul  
 ##e  
 echo : eho  
-efekt halo : halos  
+efekt halo : nurocirke  
 egipski : misri  
 Egipt : misria  
 einstein : ainstainium  
@@ -527,7 +529,7 @@ główny : xefi
 ##h  
 hafn : hafnium  
 Haiti : haitia  
-halo, cześć : halo'  
+halo, cześć : halow  
 hamak : hamake  
 han chiński : cini  
 harmonia : harmonia  
@@ -764,6 +766,7 @@ konwencjonalny, zwyczajowy, tradycyjny : rasmi
 kopernik : kopernikium  
 kopia, replika : kope  
 kopiować, replikować : kopa  
+kopuła : kupol  
 Koran : kuran  
 Korea Południowa : hangogia  
 korona : koron  
@@ -879,9 +882,11 @@ litera, znak : harfe
 litr : litre  
 lodowy : isi  
 logika, dedukcja : logike  
+logofil (miłośnik słów) : logofiler  
 lorens : laurensium  
 losowy : zari  
 lub, albo : u  
+lubić : fila  
 lubić, cieszyć się : suku  
 lud, społeczeństwo : deme  
 ludzie (lud, ludność) : nas  
@@ -977,7 +982,7 @@ miejsce, lokacja : loke
 miejscowy, lokalny : loki  
 miesiąc : mes  
 mieszkać : doma  
-mieć (partykuła posiadania) : yu  
+mieć (partykuła posiadania) : du  
 mieć : soya  
 migdał : badam  
 mikro- : mikro-  
@@ -1004,6 +1009,7 @@ miód : mel
 między : inter  
 miękki : komal  
 mięso : manse  
+miłośnik (fan, -fil) : filer  
 miłość (afekt) : am  
 miłość romantyczna : romanse  
 miły, przyjemny, uroczy : latif  
@@ -1034,7 +1040,7 @@ mowa; słowo : loge
 Mozambik : mozambike  
 Mołdawia : moldovia  
 może, ocean : daria  
-możliwość, umiejętność : bile  
+możliwość, umiejętność : able  
 mumia : mumia  
 mur, ściana : mur  
 musieć : bixu  
@@ -1049,7 +1055,7 @@ mydło : sabun
 mysz : mux  
 myśl, pomysł : fikre  
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać : fikra  
-móc, umieć : bila  
+móc, umieć : abla  
 mój : mi  
 mówić, rozmawiać : loga  
 mówić; komunikować : baxa  
@@ -1167,7 +1173,9 @@ obiad, lunch : den nyam
 obiecać, angażować się : wada  
 obozowicz : kampe  
 obrabować, splądrować : luta  
+obraza (obelga) : insulte  
 obraza, obelga : ninde  
+obrazić : insulta  
 obrazowy, graficzny; opisowy : grafi  
 obraźliwy, niemiły, obelżywy : nindi  
 obudzić, budzić : weka  
@@ -1473,7 +1481,7 @@ practyczny, pragmatyczny : prati
 praktyka, aktualność : prate  
 pralka : waxomaxin  
 prawa autorskie : kopohake  
-prawdopodobnie, możliwie : bili  
+prawdopodobnie, możliwie : abli  
 prawdziwy (rzeczywisty, szczery) : jin  
 prawo : kanun  
 prawo, przywilej : hake  
@@ -1498,7 +1506,7 @@ promień : rade
 promień światła : nuri rade  
 proroctwo : nabe  
 prorok : naber  
-prosić : bita  
+prosić : plisa  
 prosty : jika  
 prosty, nieskomplikowany : simpli  
 protaktyn : protacinium  
@@ -1854,6 +1862,7 @@ szczyt (wierzchołek) : pike
 szef, kierownik : xef  
 szeleścić : xaxu  
 szeroki : kuan  
+szew : sutur  
 szewc : sapater  
 sześcian (kostka) : sisofas  
 sześcian : kube  
@@ -1876,6 +1885,7 @@ szybki, prędki : rapi
 szympans : cimpanze  
 szynszyla : cincil  
 szyszka : konus  
+szyć : suta  
 sód : natre  
 sól : sal  
 sędzia : hakimer  
@@ -1985,6 +1995,7 @@ tusz : moge
 Tuwalu : tuvalu'  
 tułów : torse  
 twarz : muke  
+twój : ti  
 twór; fakt : fate  
 twórca, kreator, czynnik : fater  
 ty, ciebie : te  
@@ -2111,7 +2122,7 @@ Wietnam : vietnam
 wiewiórka : tupay  
 wieś, tereny wiejskie : rustia  
 wieś, wioska : ruste  
-wieża : minare  
+wieża : minar  
 wiki : wiki  
 wilk : wolfe  
 wina, grzech; defekt, wada : dox  
@@ -2154,6 +2165,7 @@ wskaźnik : ponter
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super : super  
 wspólny : komun  
 wstrzyknąć, wstrzykiwać : juxa  
+wstyd (hańba, kompromitacja) : xarme  
 wszyscy, wszystkie, wszystko; każdy : pan  
 wszystko : mey xey  
 wtorek : war 2 (war du)  
@@ -2203,13 +2215,14 @@ Węgry : madyar
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
+własność (mienie) : soye  
 właściciel (posiadacz) : soyer  
 właściwy, poprawny : sahi  
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  
 ##y  
-z (partykuła posiadania) : ya  
-z, od : da  
+z (partykuła posiadania) : da  
+z, od : ya  
 ##z  
 zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya  
 zabawa, rozrywka : fan  
@@ -2231,11 +2244,12 @@ zakomunikować (zanieść wieści, poinformować) : mesaja
 zakrzywiony : kurbi  
 Zambia : zambia  
 zamek błyskawiczny : ziper  
+zamiłowanie (-filia) : filia  
 zamknąć zamkiem błyskawicznym : zipa  
 zapakować, pakować : paka  
 zapisać (zarejestrować) : defta  
 zapomnieć, zapominać : bula  
-zaprosić, zapraszać : bita laya  
+zaprosić, zapraszać : plisa laya  
 zaprzęc, zaprzęgać : maju'  
 zapytać, pytać : ki zaman  
 zapytać, spytać, pytać : eska  

@@ -216,7 +216,7 @@ The cat wants to catch that big mouse.
 
 ### Making requests
 
-**mi bita tu lai mimen dom.**  
+**mi plisa tu lai mimen dom.**  
 _My request, your arrival, our home._  
 I request you to come to our house.
 

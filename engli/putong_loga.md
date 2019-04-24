@@ -77,7 +77,7 @@ The country name can be different than the names of the peoples or ethnic groups
     - **tatar** - Tatar
     - **baxkor** - Bashkir
 
-The word for inhabitants of the country is country name + **ren** (person).
+The word for inhaplisants of the country is country name + **ren** (person).
 
 > **britan ren** - a Brit  
 > **espanya ren** - a Spaniard  

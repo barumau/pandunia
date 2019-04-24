@@ -1,6 +1,6 @@
 : : -a : suffix : for : verbs : with : SVO : word : order  
 ##a  
-ability (skill) : bile  
+ability (skill) : able  
 about (approximately) : yagi  
 accent (stress) : acente  
 accept (to say okay) : okeya  
@@ -105,7 +105,7 @@ ash tree : yasen
 Asia : asia  
 Asian : asi  
 ask (inquire) : eska  
-ask (request, beg; please) : bita  
+ask (request, beg; please) : plisa  
 asparagus : lusun  
 aspirin : aspirin  
 Assur : axur  
@@ -217,6 +217,7 @@ Bhutan : butan
 Bible : biblia  
 big (very, greatly) : day  
 bike : sikle  
+bill (invoice) : bil  
 billion (giga-) : giga  
 biology (study of life) : biyolojia  
 bird : pakse  
@@ -317,7 +318,7 @@ camera : kamera
 Cameroon : kamerun  
 camp : kampe  
 camper : kamper  
-can (know, be able) : bila  
+can (know, be able) : abla  
 can (tin can) : tin  
 Canada : kanadia  
 candle : mum nur  
@@ -589,6 +590,7 @@ doer (agent, actor) : er
 dog : waf  
 doll (puppet) : pupe  
 dollar : dolar  
+dome : kupol  
 dominoes : dominogem  
 donkey (ass) : gade  
 door (gate, portal) : mun  
@@ -768,7 +770,7 @@ forest (jungle, woods) : jangal
 fork : forke  
 form (shape) : forme  
 fortress (stronghold) : yosay  
-forum : forum  
+forum (public space) : forum  
 fountain (spring, well) : fonte  
 four (4) : car  
 fox : hule  
@@ -784,7 +786,7 @@ Friday : war 5 (war lim)
 friend : doste  
 friendly : dosti  
 friendship : dostia  
-from (since, because) : da  
+from (since, because) : ya  
 frost : himorose  
 fruit : pal  
 frying pan : tawa  
@@ -892,7 +894,7 @@ Guyana : gayan
 ##h  
 hafnium : hafnium  
 Haiti : haitia  
-halo : halos  
+halo (aureola) : nurocirke  
 hammer : hamar  
 hammock : hamake  
 Han Chinese : cini  
@@ -918,7 +920,7 @@ heavy : bari
 Hebrew : ibri  
 helium : helium  
 hell : narake  
-hello (hi) : halo'  
+hello (hi) : halow  
 helmet : helme  
 help (aid, assistance) : helpe  
 help (assist) : helpa  
@@ -1012,12 +1014,14 @@ inside (interior) : inde
 inspire : inspira  
 instructions (recipe) : recete  
 insult (offence) : ninde  
+insult (offend) : insulta  
+insult (offense) : insulte  
 intend (plan) : plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) : tezi  
 interest (interesting) : interes  
 interpreter (translator) : tarjer  
 interrogative : eski  
-invite : bita laya  
+invite : plisa laya  
 iodine : iode  
 iodine : yode  
 ion : ion  
@@ -1128,6 +1132,8 @@ learn (study) : darsa
 least (minimally) : minim  
 leave (go out, exit) : cuta  
 Lebanon : libnun  
+left : lefte  
+leftist (left-winger) : leftiste  
 lemon : limun  
 length : longe  
 lengthen (prolong) : longa  
@@ -1241,6 +1247,8 @@ martial art : jengoxute
 mask (camouflage) : maske  
 mass (dough, lump) : mas  
 massage : masaje  
+master (be an expert at sth) : masta  
+master (expert) : master  
 match (contest) : mece  
 match (fit, suit, conform) : maca  
 material : madi  
@@ -1442,7 +1450,7 @@ Oceania : oseania
 October : mes 10 (mes des)  
 odd (strange, weird) : bizar  
 Odia (Oriya) : odisi  
-of (particle of possession) : ya  
+of (particle of possession) : da  
 office (bureau) : ofisia  
 office (position) : ofis  
 officer : ofiser  
@@ -1488,7 +1496,7 @@ outcast (pariah) : paraye
 outer (external) : way  
 outside (exterior) : waye  
 overpass : supre  
-own (particle of possession) : yu  
+own (particle of possession) : du  
 owner (proprietor) : soyer  
 oxygen : okse  
 ##p  
@@ -1498,6 +1506,7 @@ painful : paxi
 paint : penta  
 painter : penter  
 Pakistan : pakistan  
+palace : palas  
 Palau : palaw  
 Palestinian Territory : filistinia  
 palladium : paladium  
@@ -1649,7 +1658,7 @@ portion (dose) : doze
 Portugal : portugal  
 pose (position) : poze  
 pose (set) : poza  
-possible (possibly, maybe, perhaphs) : bili  
+possible (possibly, maybe, perhaphs) : abli  
 post office : postokan  
 postal stamp : postocape  
 posture (asana) : asan  
@@ -1782,6 +1791,8 @@ rice : ris
 rich : rici  
 right (correct, accurate) : sahi  
 right (justification, privilege) : hake  
+right hand side : raite  
+rightist (right-winger) : raitiste  
 risk : riske  
 risky : riski  
 ritual (ceremony) : rite  
@@ -1885,6 +1896,7 @@ sexy (sexual) : seksi
 Seychelles : sexel nesia  
 shadow : saye  
 shaman : xaman  
+shame (disgrace) : xarme  
 shampoo : xampu'  
 shape (sculpt) : forma  
 shari'a : islamisti xaria  
@@ -2182,7 +2194,7 @@ tour (trip) : tur
 tourism : turistia  
 tourist : turiste  
 towel : towal  
-tower : minare  
+tower : minar  
 toxic (poisonous, venomous) : toksi  
 train : tren  
 train hijacker : trenokaper  

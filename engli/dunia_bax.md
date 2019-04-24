@@ -458,13 +458,13 @@ the sentence. (This is the so called passive sentence.)
 some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  le ni bila beyu nyama.
+    Pandunia:  le ni abla beyu nyama.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me bita le nyama kafe.
+    Pandunia:  me plisa le nyama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending

@@ -8,6 +8,9 @@
 ##a  
 a : but (whereas)  
 abace : alphabet  
+abla : can (know, be able)  
+able : ability (skill)  
+abli : possible (possibly, maybe, perhaphs)  
 acente : accent (stress)  
 acinium : actinium  
 adali : just (fair)  
@@ -196,9 +199,7 @@ bermudia : Bermuda
 beton : concrete (material with cement)  
 bey : suffer (passivizing verb)  
 biblia : Bible  
-bila : can (know, be able)  
-bile : ability (skill)  
-bili : possible (possibly, maybe, perhaphs)  
+bil : bill (invoice)  
 bina : build (construct)  
 binde : dot (spot)  
 bing : ill (sick)  
@@ -207,8 +208,6 @@ bireria : bar (pub, beer house)
 bis : genderqueer (non-binary)  
 biskute : biscuit (cookie)  
 bismute : bismuth  
-bita laya : invite  
-bita : ask (request, beg; please)  
 bixu : must  
 biyolojia : biology (study of life)  
 bizar : odd (strange, weird)  
@@ -324,7 +323,7 @@ cute : exit (leaving)
 cuza : choose (elect, select)  
 cuze : choice (election, selection)  
 ##d  
-da : from (since, because)  
+da : of (particle of possession)  
 dade : die (dice)  
 daixer : ambassador  
 daixeria : embassy  
@@ -412,6 +411,7 @@ doxi : guilty
 doze : portion (dose)  
 drame : drama  
 droge : drug (intoxicating substance)  
+du : own (particle of possession)  
 dubnium : dubnium  
 duga : read  
 duka : grieve  
@@ -561,7 +561,7 @@ fonte : fountain (spring, well)
 forke : fork  
 forma : shape (sculpt)  
 forme : form (shape)  
-forum : forum  
+forum : forum (public space)  
 fos : pit (excavation)  
 fosa : dig (excavate)  
 fosfor : phosphorus  
@@ -684,8 +684,7 @@ hakimer : judge (referee)
 hali : empty  
 halif : caliph  
 halifia : caliphate  
-halo' : hello (hi)  
-halos : halo  
+halow : hello (hi)  
 hamake : hammock  
 hamar : hammer  
 hamir : yeast  
@@ -783,6 +782,8 @@ insaniste : humanist
 insanisti : humanistic  
 insanistia : humanism  
 inspira : inspire  
+insulta : insult (offend)  
+insulte : insult (offense)  
 inter : between  
 interes : interest (interesting)  
 inxala : hope (wish)  
@@ -1084,6 +1085,7 @@ kultur : culture
 kupe : cup  
 kuper : copper  
 kuper : copper  
+kupol : dome  
 kupon : coupon  
 kura : care (cure)  
 kuran : Quran (Koran)  
@@ -1114,6 +1116,8 @@ laurensium : lawrencium
 laxa : release (let, let go)  
 laya : come  
 le : he or she or it  
+lefte : left  
+leftiste : leftist (left-winger)  
 lekse : word  
 leksem : lexeme  
 leksia : vocabulary (lexicon)  
@@ -1248,6 +1252,8 @@ masaje : massage
 masal : spice (seasoning)  
 maske : mask (camouflage)  
 masle : issue (affair, concern)  
+masta : master (be an expert at sth)  
+master : master (expert)  
 matike : mathematics (math)  
 matiker : mathematician  
 matras : mattress  
@@ -1328,7 +1334,7 @@ milo- : milli-
 milometre : millimeter  
 min ka bas : too little  
 min : less  
-minare : tower  
+minar : tower  
 ming : bright (clear)  
 mini : tiny (mini-)  
 minim : least (minimally)  
@@ -1514,6 +1520,7 @@ nun : now
 nur : light (illumination)  
 nuri rade : ray of light  
 nuri : light (bright)  
+nurocirke : halo (aureola)  
 nuton : newton (N)  
 nyam kamar : dining room  
 nyam : food (meal)  
@@ -1558,6 +1565,7 @@ pakistan : Pakistan
 pakse : bird  
 pal : fruit  
 paladium : palladium  
+palas : palace  
 palaw : Palau  
 palme : palm tree  
 pan : all  
@@ -1666,6 +1674,8 @@ platon : Plato
 platoni : Platonic  
 platoniste : Platonist  
 platonistia : Platonism  
+plisa laya : invite  
+plisa : ask (request, beg; please)  
 plumbe : lead  
 plus : also (plus, too)  
 pluto : Pluto (dwarf planet)  
@@ -1745,6 +1755,8 @@ radia : radiation
 radiometer : radiometer  
 radium : radium  
 radon : radon  
+raite : right hand side  
+raitiste : rightist (right-winger)  
 rajer : king or queen  
 raji : royal  
 rajia : kingdom  
@@ -2276,6 +2288,7 @@ xamoden : afternoon
 xampu' : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
+xarme : shame (disgrace)  
 xarnir : hinge (pivot)  
 xarta : stipulate  
 xarte : condition (requirement)  
@@ -2310,7 +2323,7 @@ xute : skill (art, competence)
 xuti : skillful  
 xuxe : rest (relief)  
 ##y  
-ya : of (particle of possession)  
+ya : from (since, because)  
 yada : remember (recall)  
 yade : memory (recollection)  
 yaga : estimate (approximate)  
@@ -2338,7 +2351,6 @@ yohan feste : Saint John's Day
 yone : vagina  
 yosay : fortress (stronghold)  
 yote : drop (droplet)  
-yu : own (particle of possession)  
 yumor : humor  
 yumori : humorous (comical, funny)  
 yumoriste : humorist  

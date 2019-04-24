@@ -135,12 +135,12 @@ Proszenie
 ### Dialog
 
 ☻: **salam!** = Cześć!  
-☺: **salam! bita sida.** = Cześć! Proszę, usiądź!  
+☺: **salam! plisa sida.** = Cześć! Proszę, usiądź!  
 ☻: **danke.** = Dziękuję.  
-☺: **bita nyama kafe u cay.** = Proszę, napij się kawy lub herbaty.  
+☺: **plisa nyama kafe u cay.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama cay. danke.** = Napiję się herbaty, dziękuję.  
 ...  
-☺: **bita salama tu da mamá!** = Proszę pozdrów twoją matkę.  
+☺: **plisa salama tu da mamá!** = Proszę pozdrów twoją matkę.  
 ☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
 ☺: **salam!** = Cześć!
 
@@ -149,9 +149,9 @@ Proszenie
 
 Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **ye** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
-> **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
+> **mi plisa tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
 
-Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **bita** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **plisa** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
@@ -159,18 +159,18 @@ Struktura osiowa jest powszechną strukturą w Panduni.
 
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
-> **mi bita tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
-> **bita salama ye.** = Proszę, pozdrów go/ją.
+> **mi plisa tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
+> **plisa salama ye.** = Proszę, pozdrów go/ją.
 
-Zdanie **bita salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-> **bita sida.** = Proszę, usiąść.  
-> **bita dona kafe.** = Proszę, podaj kawę.  
-> **bita dona cay.** = Proszę, podaj herbatę.  
-> **bita nyama cay.** = Proszę, pij herbatę.  
-> **bita safa kamar.** = Proszę, sprzątaj pokój.
+> **plisa sida.** = Proszę, usiąść.  
+> **plisa dona kafe.** = Proszę, podaj kawę.  
+> **plisa dona cay.** = Proszę, podaj herbatę.  
+> **plisa nyama cay.** = Proszę, pij herbatę.  
+> **plisa safa kamar.** = Proszę, sprzątaj pokój.
 
-Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **bita**.
+Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
 
 > **manda dona cay.** = Daj (mi) herbatę!  
 > **manda safa kamar.** = Sprzątaj pokój!
@@ -193,15 +193,15 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cay** herbata. **bita** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
 
 1. ye nyama cay.
-2. xefe bita ye sida.
-3. bita nyama kafe u cay.
-4. mamá bita mi safa kamar.
+2. xefe plisa ye sida.
+3. plisa nyama kafe u cay.
+4. mamá plisa mi safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -229,7 +229,7 @@ Pytania "tak lub nie"
 
 ### Zadawanie pytań
 
-Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **bita**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **plisa**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
 > **mi eska tu nyama cay.** = Ja pytam cię, czy napijesz się herbaty.  
 > **eska tu nyama cay?** = Czy pijesz herbatę?  
@@ -310,9 +310,9 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no salama tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **mi bita tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **mi no bita tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **mi bita tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **mi plisa tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **mi no plisa tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **mi plisa tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.

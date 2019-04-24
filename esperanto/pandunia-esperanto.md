@@ -6,6 +6,9 @@
 ##a  
 a : sed  
 abace : alfabeto  
+abla : povi  
+able : povo  
+abli : ebla (eble)  
 acente : akcento  
 acinium : aktinio  
 adali : justa  
@@ -157,9 +160,6 @@ beril : berilio
 berkelium : berkelio  
 beton : betono  
 biblia : Biblio  
-bila : povi  
-bile : povo  
-bili : ebla (eble)  
 bina : konstrui  
 binde : punkto  
 bing : malsana  
@@ -167,8 +167,6 @@ bir : biero
 bireria : drinkejo  
 biskute : biskvito (kuketo)  
 bismute : bismuto  
-bita laya : inviti  
-bita : peti (bonvolu)  
 bixu : devi  
 biyolojia : biologio  
 bizar : stranga  
@@ -260,7 +258,7 @@ cute : eliro
 cuza : elekti  
 cuze : elekto  
 ##d  
-da : de (el, pro)  
+da : de (partiklo de posedo)  
 dade : ĵetkubo  
 daixer : ambasadoro  
 daixeria : ambasado  
@@ -324,6 +322,7 @@ dox : kulpo
 doxi : kulpa  
 doze : porcio (dozo)  
 drame : dramo  
+du : propra (partiklo de posedo)  
 dubnium : dubnio  
 duga : legi  
 duka : lamenti  
@@ -536,8 +535,7 @@ hakim : juĝo
 hakimer : juĝisto  
 hali : malplena  
 halif : kalifo  
-halo' : saluton!  
-halos : halo  
+halow : saluton!  
 hamake : hamako  
 hamar : martelo  
 hamir : feĉo  
@@ -874,7 +872,7 @@ milo- : mili-
 milometre : milimetro  
 min ka bas : maltro  
 min : malpli  
-minare : turo  
+minar : turo  
 mini : eta  
 minim : malplej  
 minister : ministro  
@@ -963,6 +961,7 @@ nowi : nova
 num : nombro  
 nur : lumo  
 nuri : luma  
+nurocirke : halo  
 nuton : newtono (N)  
 nyam kamar : manĝoĉambro  
 nyama : manĝi (trinki)  
@@ -1026,6 +1025,8 @@ pize : pico
 pizeria : picejo  
 plante : planto  
 platin : plateno  
+plisa laya : inviti  
+plisa : peti (bonvolu)  
 plumbe : plumbo  
 plus : ankaŭ  
 plutonium : plutonio  
@@ -1311,6 +1312,7 @@ xamoden : posttagmeze
 xampu' : ŝampuo  
 xan : monto  
 xanti : trankvila  
+xarme : honto  
 xarnir : ĉarniro (pivoto)  
 xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  
@@ -1331,7 +1333,7 @@ xula : ripari
 xule : riparo  
 xuler : riparisto  
 ##y  
-ya : de (partiklo de posedo)  
+ya : de (el, pro)  
 yakin : certa  
 yala : rapidigi  
 yaman : Jemeno  
@@ -1342,7 +1344,6 @@ yesus : Jesuo
 yeze : kokoso  
 yoge : jogo  
 yone : vagino  
-yu : propra (partiklo de posedo)  
 yumor : humuro  
 yumori : humura  
 yumoriste : humuristo  

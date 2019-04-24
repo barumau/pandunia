@@ -393,10 +393,10 @@ Znamy się od długiego (czasu).
 **me nida helpe.**
 Potrzebuję pomocy.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 Czy możesz pomóc mi?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 Czy mogę ci pomóc?
 
 
@@ -460,29 +460,29 @@ Te czerwone.
 
 
 
-### bita <small>prosić</small>
+### plisa <small>prosić</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 Proszę, żebyś napił się herbaty.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 Proszę, żebyś przyszedł do domu.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Proszę, napij się herbaty!
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Proszę, napij się kawy!
 
-**bita laya dom.**
+**plisa laya dom.**
 Proszę, przyjdź do domu!
 
-**bita helpa me.**
+**plisa helpa me.**
 Proszę, pomóż mi.
 
 
@@ -514,10 +514,10 @@ Nie ma za co. (Dosłownie: _Jesteś uprzejmy._)
 **haida nyama!**
 Zjedzmy!
 
-**haida enda nyama!**
+**haida gowa nyama!**
 Chodźmy jeść!
 
-**haida enda dom.**
+**haida gowa dom.**
 Chodź do domu.
 
 
@@ -573,30 +573,30 @@ Nic nie rozumiem.
 
 
 
-### bila <small>móc, umieć</small>
+### abla <small>móc, umieć</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 Umiem kierować samochodem.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 Nie umie kierować samochodem.
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 Czy umiesz to naprawić?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 Czy umiesz mówić w Panduni?
 
-**me bila pandunia.**
+**me abla pandunia.**
 Umiem mówić w Panduni.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 Umiem trochę mówić w Panduni.
 
-**me ni bila engli.**
+**me ni abla engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni bila te ya bax.**
+**pardon. me ni abla te ya bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -625,10 +625,10 @@ Kot mówi miau.
 
 ### auda <small>słuchać, słyszeć</small>
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 Nie mogę cię usłyszeć.
 
-**bita loga forti.**
+**plisa loga forti.**
 Proszę, mów głośniej.
 
 **me auda musike.**
@@ -674,10 +674,10 @@ Nie rozumiem, co to znaczy.
 
 ### kitaba <small>pisać</small>
 
-**bita kitaba ti adres.**
+**plisa kitaba ti adres.**
 Proszę, napisz swój adres.
 
-**bita kitaba ye na ce.**
+**plisa kitaba ye na ce.**
 Proszę, napisz to tutaj!
 
 
@@ -690,7 +690,7 @@ Czy mówicie w Panduni?
 **mome baxa pandunia.**
 Mówimy w Panduni.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 Czy umiesz mówić w języku angielskim?
 
 **fransi, espani, portugali, rusi**
@@ -709,24 +709,24 @@ suahili, hausa, joruba, amharski
 
 ## Part 4. Chodzenie
 
-### enda <small>iść</small>
+### gowa <small>iść</small>
 
-**te enda ke?**
+**te gowa ke?**
 Dokąd idziesz?
 
-**me enda dom.**
+**me gowa dom.**
 Idę do domu.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 Gdzie powinienem pójść?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 Do kogo powinienem pójść?
 
 **haida enda!**
 Pójdźmy!
 
-**haida enda sa pede**
+**haida gowa sa pede**
 Pójdźmy pieszo!
 
 
@@ -734,7 +734,7 @@ Pójdźmy pieszo!
 
 ### laya <small>przybywać, przychodzić</small>
 
-**bita laya!**
+**plisa laya!**
 Przyjdź tu!
 
 **te laya da ke?**
@@ -808,7 +808,7 @@ nie jest potrzebne.
 
 ### denga <small>czekać</small>
 
-**bita denga!**
+**plisa denga!**
 Proszę, czekaj!
 
 **lole denga mome.**
@@ -824,10 +824,10 @@ Czekam na ciebie w hotelu.
 
 ### dona <small>dać</small>
 
-**bita dona pese.**
+**plisa dona pese.**
 Proszę, daj trochę pieniędzy.
 
-**bita dona le pa me.**
+**plisa dona le pa me.**
 Proszę, daj mi to.
 
 **me dona ce pa te.**
@@ -845,7 +845,7 @@ Nie chce dać mi tego.
 **me kapa un kafe.**
 Wezmę kawę.
 
-**bita kapa un kafe pa me.**
+**plisa kapa un kafe pa me.**
 Proszę, weź kawę dla mnie.
 
 **te pas kapa pese da me.**

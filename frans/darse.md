@@ -143,11 +143,11 @@ Le modèle **salam tu** est pratique pour s'adresser aux gens par leur nom, leur
 = Bonjour | Salut, papa !  
 > **salam xefe!** = Bonjour | Salut, chef !
 
-Il existe un autre mot pour saluer : **halo'**.  C'est également un
+Il existe un autre mot pour saluer : **halow**.  C'est également un
 mode de salutation largement utilisé à l'échelle internationale. Vous
 pouvez librement choisir lequel utiliser pour saluer les gens.
 
-**halo'!**
+**halow!**
 = Bonjour ! | Salut !
 
 
@@ -163,7 +163,7 @@ Les réponses correctes sont données plus bas.
 
 ### Liste de mots
 
-**salam, halo'** salutation, bonjour, salut, salaam, ciao, etc.  
+**salam, halow** salutation, bonjour, salut, salaam, ciao, etc.  
 **mame** mère, maman.
 **pape** père, papa.
 **xefe** chef, patron.
@@ -186,16 +186,16 @@ Les réponses correctes sont données plus bas.
 
 ☻: **salam!**
 = Bonjour !  
-☺: **salam! bita sida.**
+☺: **salam! plisa sida.**
 = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.**
 = Merci.  
-☺: **bita nyama kafe u cay.**
+☺: **plisa nyama kafe u cay.**
 = Prenez du thé ou du café, je vous prie
 ☻: **me nyama cay. danke.**
 = Je prends du thé, merci.  
 ...
-☺: **bita salama ti mame!**
+☺: **plisa salama ti mame!**
 = S'il te plaît, salut ta mère.  
 ☻: **me salama le. salam!**
 = Je la saluerai. Au revoir !  
@@ -212,10 +212,10 @@ sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = Je te demande de le/la saluer.
 
-Cette phrase a une _structure pivot_. Le premier verbe **bita**
+Cette phrase a une _structure pivot_. Le premier verbe **plisa**
 (demander) s'adresse à **te** comme objet. Dans le même temps **tu**
 sert également de sujet au deuxième verbe **salama** (saluer) dont
 l'objet est **le**. Ainsi **te** a un double rôle : (1) objet du
@@ -232,12 +232,12 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**me bita te salama le.**
+**me plisa te salama le.**
 = Je te demande de le/la saluer.  
-**bita salama le.**
+**plisa salama le.**
 = S'il te plaît salue le/la.
 
-Avez-vous noté comment la traduction de **bita** a changé entre les
+Avez-vous noté comment la traduction de **plisa** a changé entre les
 deux phrases ? Le sens du mot - le concept -, n'a pas changé, c'est
 son utilisation qui a changé. Le français reflète ce changement en
 utilisant des mots différents : "demander" et "s'il vous plaît". Le
@@ -246,22 +246,22 @@ des mots différents. C'est un principe en Pandunia qu'il y ait
 toujours exactement un mot pour un concept. On ne crée pas différents
 mots simplement parce que le rôle grammatical d'un concept change.
 
-La phrase **bita salama ye** est un modèle très utile pour les
+La phrase **plisa salama ye** est un modèle très utile pour les
 formules de politesses.
 
-**bita sida.**
+**plisa sida.**
 = Asseyez-vous s'il vous plaît..  
-**bita dona kafe.**
+**plisa dona kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**bita dona cay.**
+**plisa dona cay.**
 = S'il vous plaît, donnez-moi du thé. 
-**bita nyama cay.**
+**plisa nyama cay.**
 = S'il vous plaît, prenez un peu de thé.  
-**bita safa kamar.**
+**plisa safa kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec **orda** = ordonner. Ils utilisent la
-même structure de pivot que les requêtes avec **bita**.
+même structure de pivot que les requêtes avec **plisa**.
 
 **orda dona cay.**
 = Donnez-moi du thé !  
@@ -289,7 +289,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ### Liste de mots
 
 **cay** thé.
-**bita** demander (poliment), s'il-vous-plaît.
+**plisa** demander (poliment), s'il-vous-plaît.
 **dona** donner.
 **danke** merci.
 **i** et.
@@ -305,9 +305,9 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ### Réponses aux exercices
 
 1. le nyama cay.
-2. xefe bita le sida.
-3. bita nyama kafe u cay.
-4. mame bita me safa kamar.
+2. xefe plisa le sida.
+3. plisa nyama kafe u cay.
+4. mame plisa me safa kamar.
 5. xefe sida i nyama kafe.
 
 
@@ -347,7 +347,7 @@ Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
 
 ### Poser des questions
 
-Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **bita **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
+Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **plisa **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
 **me eska te nyama cay.**
 = Je vous demande si vous buvez du thé.  
@@ -471,11 +471,11 @@ Conceptuellement, la négation signifie l'absence ou la non-existence du mot ni�
 l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **ni**.
 
-**me bita te safa kamar.**
+**me plisa te safa kamar.**
 = Je te demande de nettoyer la chambre.  
-**me ni bita te safa kamar.**
+**me ni plisa te safa kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**me bita te ni safa kamar.**
+**me plisa te ni safa kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 

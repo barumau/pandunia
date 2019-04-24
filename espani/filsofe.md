@@ -14,6 +14,6 @@ La neutralidad de un idioma significa que en una situación ideal:
 5. Todos pueden expresarse cómodamente con el idioma.
 6. Todos sienten que su idioma y su cultura materna le han dado un aporte significativo al idioma mundial.
 
-Por supuesto en la realidad "todos" no puede incluir a absolutamente todos, pero debería incluir a la mayoría de personas que habitan el mundo. Ningun grupo en particular (ej.: americanos, europeos, asiáticos o africanos) debe ser favorecido o exluído.
+Por supuesto en la realidad "todos" no puede incluir a absolutamente todos, pero debería incluir a la mayoría de personas que haplisan el mundo. Ningun grupo en particular (ej.: americanos, europeos, asiáticos o africanos) debe ser favorecido o exluído.
 
 

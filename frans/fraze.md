@@ -438,10 +438,10 @@ Nous nous connaissons l’un l’autre depuis longtemps.
 **me nida helpe.**
 J’ai besoin d’aide.
 
-**eska te bila helpa me?**
+**eska te abla helpa me?**
 Est-ce que tu peux m’aider ?
 
-**eska me bila helpa te?**
+**eska me abla helpa te?**
 Est-ce que je peux t’aider ?
 
 
@@ -502,29 +502,29 @@ La rouge. (mot à mot _cette rouge_)
 
 
 
-### bita <small>demander, s’il vous plait</small>
+### plisa <small>demander, s’il vous plait</small>
 
-**me bita te nyama cay.**
+**me plisa te nyama cay.**
 Je te demande si tu veux du thé.
 
-**me bita te laya dom.**
+**me plisa te laya dom.**
 Je te demande de venir à la maison.
 
-**me bita te helpa me.**
+**me plisa te helpa me.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**bita nyama cay.**
+**plisa nyama cay.**
 Un thé, s’il vous plait !
 
-**bita nyama kafe.**
+**plisa nyama kafe.**
 Un café, s’il vous plait!
 
-**bita laya dom.**
+**plisa laya dom.**
 Viens à la maison, s’il te plait !
 
-**bita helpa me.**
+**plisa helpa me.**
 Aide moi, s’il te plait.
 
 
@@ -556,10 +556,10 @@ De rien. (mot à mot : _tu es poli._)
 **haida nyama!**
 Mangeons !
 
-**haida enda nyama!**
+**haida gowa nyama!**
 Allons manger !
 
-**haida enda dom.**
+**haida gowa dom.**
 Allons à la maison.
 
 
@@ -615,30 +615,30 @@ Je n’ai rien compris du tout.
 
 
 
-### bila <small>pouvoir, savoir</small>
+### abla <small>pouvoir, savoir</small>
 
-**me bila gida kar.**
+**me abla gida kar.**
 Je sais conduire une voiture.
 
-**le ni bila gida kar.**
+**le ni abla gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**eska te bila xula le?**
+**eska te abla xula le?**
 Est-ce que tu sais réparer ça ?
 
-**eska te bila pandunia?**
+**eska te abla pandunia?**
 Est-ce que tu parles pandunia ?
 
-**me bila pandunia.**
+**me abla pandunia.**
 Je parle pandunia.
 
-**me bila lil pandunia.**
+**me abla lil pandunia.**
 Je parle un peu pandunia.
 
-**me ni bila engli.**
+**me ni abla engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni bila te ya bax.**
+**pardon. me ni abla te ya bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -666,10 +666,10 @@ Un chat dit miaou.
 
 ### auda <small>écouter, entendre</small>
 
-**me ni bila auda te.**
+**me ni abla auda te.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**bita loga forti.**
+**plisa loga forti.**
 Parlez plus fort, s’il vous plait.
 
 **me auda musike.**
@@ -711,10 +711,10 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitaba <small>écrire</small>
 
-**bita kitaba ti adres.**
+**plisa kitaba ti adres.**
 S’il te plait, écris ton adresse.
 
-**bita kitaba le sa ce.**
+**plisa kitaba le sa ce.**
 S’il te plait, écris-le là !
 
 
@@ -726,7 +726,7 @@ Est-ce que vous parlez tous pandunia ?
 **mome baxa pandunia.**
 Nous parlons pandunia.
 
-**eska te bila baxa engli?**
+**eska te abla baxa engli?**
 Est-ce que tu parles anglais ?
 
 **fransi, espani, portugali, rusi**
@@ -745,30 +745,30 @@ swahili, haoussa, yorouba, amharique
 
 ## 4e partie : Se balader
 
-### enda <small>aller</small>
+### gowa <small>aller</small>
 
-**te enda ke?**
+**te gowa ke?**
 Où vas-tu ?
 
-**me enda dom.**
+**me gowa dom.**
 Je vais à la maison.
 
-**me bixu enda ke?**
+**me bixu gowa ke?**
 Où est-ce que je dois aller ?
 
-**me bixu enda pa ki ren?**
+**me bixu gowa pa ki ren?**
 Je dois aller (voir) qui ?
 
 **haida enda!**
 Allons-y !
 
-**haida enda sa pede**
+**haida gowa sa pede**
 On y va à pied !
 
 
 ### laya <small>venir</small>
 
-**bita laya!**
+**plisa laya!**
 Viens ici !
 
 **te laya da ke?**
@@ -837,7 +837,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### denga <small>attendre</small>
 
-**bita denga!**
+**plisa denga!**
 Veuillez attendre !
 
 **lole denga mome.**
@@ -854,10 +854,10 @@ Je t’attends à l’hôtel.
 
 ### dona <small>donner</small>
 
-**bita dona pese.**
+**plisa dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**bita dona le pa me.**
+**plisa dona le pa me.**
 Donne-le moi, s’il te plait.
 
 **me dona ce pa te.**
@@ -875,7 +875,7 @@ Il/elle ne veut pas me le donner.
 **me kapa un kafe.**
 Je vais prendre un café.
 
-**bita kapa un kafe pa me.**
+**plisa kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
 **te pas kapa pese da me.**
@@ -977,7 +977,7 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-**bita sida sa ce!**
+**plisa sida sa ce!**
 Assieds-toi là, s’il te plait !
 
 **me suku stasa.**
