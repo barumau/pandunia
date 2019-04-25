@@ -339,7 +339,7 @@ Questions par oui ou par non
 = Prend-il de la soupe ?  
 ☺: **ni nyama.**
 = Non.  
-☻: **danke. me giva un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me giva un cay i un kafe i un supe sa bade du des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
@@ -593,7 +593,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 1. ki ren suku supe?
 2. pape suku.
 3. ki zaman le laya?
-4. sa bade yu des minute.
+4. sa bade du des minute.
 5. ke saba le ni nyama?
 6. sabu le ni suku kafe u supe.
 

@@ -326,18 +326,18 @@ C'est rouge.
 
 
 
-### ya <small>possessif</small>
+### da <small>possessif</small>
 
-**le si me ya mame.**
+**le si me da mame.**
 C’est ma mère.
 
-**le si me ya man.**
+**le si me da man.**
 C’est mon mari (mon homme).
 
-**le si me ya fem.**
+**le si me da fem.**
 C’est ma femme.
 
-**me si sara ya doste.**
+**me si sara da doste.**
 Je suis l’ami de Sara.
 
 
@@ -428,7 +428,7 @@ Est-ce que tu connais cette personne ?
 **eska tote jana unale?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mome jana unale da long.**
+**mome jana unale ya long.**
 Nous nous connaissons l’un l’autre depuis longtemps.
 
 
@@ -638,7 +638,7 @@ Je parle un peu pandunia.
 **me ni abla engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni abla te ya bax.**
+**pardon. me ni abla te da bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -675,7 +675,7 @@ Parlez plus fort, s’il vous plait.
 **me auda musike.**
 J’écoute de la musique.
 
-**te auda ki yang ya musike?**
+**te auda ki yang da musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -702,7 +702,7 @@ Que veut dire ce mot ?
 **"maw" mena ke?**
 Que signifie « mau » ?
 
-**le mena yang yu hewan.**
+**le mena yang du hewan.**
 Ça signifie un genre d’animal.
 
 **me ni aha le mena ke.**
@@ -771,10 +771,10 @@ On y va à pied !
 **plisa laya!**
 Viens ici !
 
-**te laya da ke?**
+**te laya ya ke?**
 D’où viens-tu ?
 
-**me laya da dubai.**
+**me laya ya dubai.**
 Je viens de Dubaï.
 
 **me laya dom badi den.**
@@ -786,7 +786,7 @@ Je vais à la maison demain.
 **eska te safara sa tren?**
 Est-ce que tu voyages en train ?
 
-**mome safara da london pa paris.**
+**mome safara ya london pa paris.**
 Nous voyageons de Londres à Paris.
 
 **safar day long.**
@@ -878,7 +878,7 @@ Je vais prendre un café.
 **plisa kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
-**te pas kapa pese da me.**
+**te pas kapa pese ya me.**
 tu as déjà eu de l’argent de ma part.
 
 ### kire <small>louer</small>

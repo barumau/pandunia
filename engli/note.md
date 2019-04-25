@@ -55,11 +55,11 @@ There is a reason why **mi buke** is not possessive construction and it has to d
 
 Here **mi** is the subject, **buke** is the object and **dugu** is the verb. The word order is subject–verb–object.
 
-**mi da buke dugu.** = My book is read.
+**mi ya buke dugu.** = My book is read.
 
-Here **mi da buke** is the object and the word order is object–verb (i.e. the word order of the "passive" sentence).
+Here **mi ya buke** is the object and the word order is object–verb (i.e. the word order of the "passive" sentence).
 
-So, if **mi buke** would mean "my book", then **mi buke dugu** could mean either of the above mentioned things. That's why the simple possessive structure of **mi buke** is excluded from Pandunia and only **mi da buke** is used.
+So, if **mi buke** would mean "my book", then **mi buke dugu** could mean either of the above mentioned things. That's why the simple possessive structure of **mi buke** is excluded from Pandunia and only **mi ya buke** is used.
 
 However, so called _zero be_ structure is possible because it is used only in short sentences.
 

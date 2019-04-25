@@ -53,8 +53,8 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. komún, bazár, kamís.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nówi, dúnia, musíke.
 
-     dunia si mimen da sundar planete.
-    /dúnia sí mimén da sundár planéte./
+     dunia si mimen ya sundar planete.
+    /dúnia sí mimén ya sundár planéte./
 
      mi wanta loga komun baxa, ye si pandunia.
     /mí wól lóga komún báxa, yé sí pandúnia./

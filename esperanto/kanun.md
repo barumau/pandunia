@@ -58,7 +58,7 @@ _Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, 
 
 Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **lun** temas pri _la luno_; nia nura suno kaj luno.
 
-Kunmetante du aŭ pli da vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
+Kunmetante du aŭ pli ya vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
 > **sol guang** - suna lumo  
 > **lun guang** - lun lumo  
@@ -214,7 +214,7 @@ Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo 
 
 ### 5.1. Personaj pronomoj
 
-Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj da Esencovortoj.
+Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj ya Esencovortoj.
 
 **me** - mi  
 **te** - vi _(ununombre)_  
@@ -271,7 +271,7 @@ Ankaŭ adjektivoj estas demandataj per **ki**.
 
 **ki day?** - Kiom granda?  
 **ki lil?** - Kiom eta?  
-**ki day yu maw te ada?** - Kiom granda kato vi havas?
+**ki day du maw te ada?** - Kiom granda kato vi havas?
 
 --------------------------------------------------------------------------------
 
@@ -316,7 +316,7 @@ Ekzemploj:
 Ekzemploj:  
 **ke te vida?**
 = Kion vi vidas?  
-**me nyama pang, ya te beka.**
+**me nyama pang, da te beka.**
 = Mi manĝas panon, kiun vi bakis._
 
 #### 6.2.3. VOS-vortordo

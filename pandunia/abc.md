@@ -11,7 +11,7 @@
     l   r
     y   w
 
-## leter da nam
+## leter ya nam
 
     i   e   a   o   u
     
@@ -46,10 +46,10 @@
 | r | ro  | ar  | ere | er  | er  | er  | ro  | ra  |
 | s | so  | es  | ese | es  | es  | es  |sigma| sin |
 | t | te  | ti  | te  | te  | te  | te  | taw | ta  |
-| u | u   | yu  | u   | u   | u   | u   |upsilon|   |
+| u | u   | du  | u   | u   | u   | u   |upsilon|   |
 |(v)|     | vi  | ve  | ve  | fe  | ve  |     |     |
 | w | waw |dablyu|doble-ve| duble-ve | we | | | waw |
 | x | xa  | eks | ekis| iks | eks | xa  |     | xin |
-| y | yay | way |     |igrek| ye  |     |     | ya  |
+| y | yay | way |     |igrek| ye  |     |     | da  |
 | z | ze  | zed | seta| zed | zet | ze  | zeta| zayn|
 

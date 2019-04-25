@@ -6,7 +6,7 @@ Pandunio - simpla mondlingvo
 ## Kio estas pandunio?
 
 Pandunio estas konstruita helpa mondlingvo kiu celas lingvan neŭtralecon. Ĝi
-estas la produkto de pluraj jaroj da esplorado, verko kaj eksperimentado.
+estas la produkto de pluraj jaroj ya esplorado, verko kaj eksperimentado.
 
 Rimarkindaj trajtoj de pandunio estas:
 

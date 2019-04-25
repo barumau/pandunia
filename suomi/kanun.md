@@ -558,7 +558,7 @@ Tekijä voidaan mainita verbin jälkeen preposition **ya** kanssa tai ilman.
 
 **te vidu me.**
 = Sinut näen minä.  
-**te vidu ya me.**
+**te vidu da me.**
 = Sinut nähdään minun toimesta.
 
 
@@ -756,20 +756,20 @@ Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
 **yu** vastaa suomen genetiivimuotoa.
 
-**maria yu mame**
+**maria du mame**
 = Marian äiti  
-**me yu dom**
+**me du dom**
 = minun talo  
-**me yu pape yu dom**
+**me du pape du dom**
 = minun isän talo
 
 **ya** on sama mutta käänteisessä sanajärjestyksessä.
 
-**mame ya maria**
+**mame da maria**
 = äiti Marian  
-**dom ya me**
+**dom da me**
 = talo minun  
-**dom ya pape ya me**
+**dom da pape da me**
 = talo isän minun
 
 
@@ -781,21 +781,21 @@ Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin j
 
 **novi dom**
 = uusi talo  
-**dom ya novi**
+**dom da novi**
 = talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
-**roze rang yu labe**
+**roze rang du labe**
 = ruusun väriset huulet  
-**saman rang yu yen**
+**saman rang du yen**
 = taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
-**labe ya roze rang**
+**labe da roze rang**
 = huulet ruusun väriset  
-**yen ya saman rang**
+**yen da saman rang**
 = silmät taivaan siniset
 
 #### 9.2.3. Määrelause
@@ -872,14 +872,14 @@ Prepositio aloittaa prepositiolausekkeen. Yksinkertaisissa tapauksissa pronomini
 = Minä (olen) hotellissa.  
 **me sona sa hotel.**
 = Minä nukun hotellissa.  
-**me sona da xam pa subá.**
+**me sona ya xam pa subá.**
 = Minä nukun illasta aamuun.  
-**me safara da london pa paris.**
+**me safara ya london pa paris.**
 = Minä matkustan Lontoosta Pariisiin.  
 
 Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on ajan ilmaus.
 
-**me denga da te enda.**
+**me denga ya te enda.**
 = Minä odotan sinun lähdöstä lähtien.  
 **me denga pa te lay dom.**
 = Minä odotan siihen asti, kun tulet kotiin.  

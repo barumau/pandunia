@@ -7,7 +7,7 @@ plisa santa ti nam,
 plisa layu ti rajia,
 plisa fatu ti wole  
 sa zemia i sa saman.  
-plisa giva momi pan den ya pang pa mome.  
+plisa giva momi pan den da pang pa mome.  
 plisa pargiva momi dox,  
 ka mome pargiva momi doxer.  
 plisa ni lida mome pa tentia  

@@ -300,12 +300,12 @@ This is red.
 
 
 
-### ya <small>'s (possessive particle)</small>
+### da <small>'s (possessive particle)</small>
 
 **ce ke?**
 What's this?
 
-**ce me ya fon.**
+**ce me da fon.**
 It's my phone.
 
 **ce ke ya?**
@@ -320,10 +320,10 @@ So **me ya** means "my", **te ya** means "your" and so on.
 **le ke?**
 Who's he/she?
 
-**le si me ya doste.**
+**le si me da doste.**
 He/she is my friend.
 
-**me si sara ya doste.**
+**me si sara da doste.**
 I am Sara's friend.
 
 <small>Etymology. **ya**
@@ -379,7 +379,7 @@ Do you know that person?
 **eska tote jana unale?**
 Do you know each other?
 
-**mome jana unale da long.**
+**mome jana unale ya long.**
 We know each other for long.
 
 
@@ -582,7 +582,7 @@ I speak a little Pandunia.
 **me ni abla engli.**
 I don't speak English.
 
-**pardon. me ni abla te ya bax.**
+**pardon. me ni abla te da bax.**
 Sorry, I don't speak your language.
 
 
@@ -621,7 +621,7 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yang ya musike?**
+**te auda ki yang da musike?**
 What kind of music do you listen to?
 
 
@@ -648,7 +648,7 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yang yu hewan.**
+**le mena yang du hewan.**
 It means a kind of animal.
 
 **me ni aha le mena ke.**
@@ -716,10 +716,10 @@ Let's go by foot!
 **plisa laya!**
 Come here!
 
-**te laya da ke?**
+**te laya ya ke?**
 Where do you come from?
 
-**me laya da dubai.**
+**me laya ya dubai.**
 I come from Dubai.
 
 **me laya dom badi den.**
@@ -731,7 +731,7 @@ I will come home tomorrow.
 **eska te safara sa tren?**
 Do you travel by train?
 
-**mome safara da london pa paris.**
+**mome safara ya london pa paris.**
 We travel from London to Paris.
 
 **safar day long.**
@@ -799,7 +799,7 @@ I wait for you in the hotel.
 
 ### zay <small>currently</small>
 
-**me zay salama te ya doste.**  
+**me zay salama te da doste.**  
 I am greeting your friend.
 
 **man zay vida fem.**  
@@ -814,7 +814,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**me pas salama te ya doste.**  
+**me pas salama te da doste.**  
 I greeted your friend.
 
 **man pas vida fem.**  
@@ -829,7 +829,7 @@ He or she was at home.
 
 ### lew <small>already, completed</small>
 
-**me lew salama te ya doste.**  
+**me lew salama te da doste.**  
 I have greeted your friend.
 
 **man lew vida fem.**  
@@ -844,7 +844,7 @@ He or she has been at home.
 
 ### wil <small>(future action)</small>
 
-**me wil salama te ya doste.**  
+**me wil salama te da doste.**  
 I will greet your friend.
 
 **man wil vida fem.**  
@@ -887,7 +887,7 @@ I will take a coffee.
 **plisa kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te pas kapa pese da me.**
+**te pas kapa pese ya me.**
 You already got money from me.
 
 **me kapa un bir.**
@@ -962,7 +962,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xowa le pa me da leksobuke!**
+**xowa le pa me ya leksobuke!**
 Show me in the dictionary!
 **me ni yada.**
 I don't remember.

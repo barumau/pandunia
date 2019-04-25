@@ -344,7 +344,7 @@ Yes or no questions
 = Would he like to have soup?  
 ☺: **ni nyama.**
 = No.  
-☻: **danke. me giva un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me giva un cay i un kafe i un supe sa bade du des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -593,7 +593,7 @@ something, even when not answering to a question.
 1. ki ren suku supe?
 2. pape suku.
 3. ki zaman le laya?
-4. sa bade yu des minute.
+4. sa bade du des minute.
 5. ke saba le ni nyama?
 6. sabu le ni suku kafe u supe.
 

@@ -314,12 +314,12 @@ He ovat tuolla.
 Me olemme täällä.
 
 
-### ya <small>-n (genetiivipartikkeli)</small>
+### da <small>-n (genetiivipartikkeli)</small>
 
 **ce ke?**
 Mikä tämä on?
 
-**ce me ya fon.**
+**ce me da fon.**
 Se on minun puhelin.
 
 **ce ke ya?**
@@ -334,10 +334,10 @@ tarkoittaa "minun", **te ya** tarkoittaa "sinun" jne.
 **le ke?**
 Kuka hän on?
 
-**le si me ya doste.**
+**le si me da doste.**
 Hän on minun ystävä.
 
-**me si sara ya doste.**
+**me si sara da doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **ya**
@@ -397,7 +397,7 @@ Tunnetko tuon henkilön?
 **eska tote jana unale?**
 Tunnetteko toisenne?
 
-**mome jana unale da long.**
+**mome jana unale ya long.**
 Tunnemme toisemme jo vanhastaan.
 
 
@@ -608,7 +608,7 @@ Minä osaan vähän panduniaa.
 **me ni abla engli.**
 Minä en osaa englantia.
 
-**pardon. me ni abla te ya bax.**
+**pardon. me ni abla te da bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -645,7 +645,7 @@ Puhuisitko kovempaa.
 **me auda musike.**
 Minä kuuntelen musiikkia.
 
-**te auda ki yang ya musike?**
+**te auda ki yang da musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -674,7 +674,7 @@ Mitä tämä sana tarkoittaa?
 **"maw" mena ke?**
 Mitä "maw" tarkoittaa?
 
-**le mena yang yu hewan.**
+**le mena yang du hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
 **me ni aha le mena ke.**
@@ -684,7 +684,7 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**plisa kitaba te ya adres.**
+**plisa kitaba te da adres.**
 Kirjoittaisitko osoitteesi.
 
 **plisa kitaba le sa ce.**
@@ -746,10 +746,10 @@ Menkäämme jalan!
 **plisa laya!**
 Tule tänne!
 
-**te laya da ke?**
+**te laya ya ke?**
 Mistä sinä tulet?
 
-**me laya da dubai.**
+**me laya ya dubai.**
 Minä tulen Dubaista.
 
 **me laya dom ming den.**
@@ -762,7 +762,7 @@ Minä tulen kotiin huomenna.
 **eska te safara sa tren?**
 Matkustatko junalla?
 
-**mome safara da london pa paris.**
+**mome safara ya london pa paris.**
 Me matkustamme Lontoosta Pariisiin.
 
 **safar day long.**
@@ -832,7 +832,7 @@ Minä odotan sinua hotellissa.
 
 ### zay <small>parhaillaan</small>
 
-**me zay salama te ya doste.**  
+**me zay salama te da doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **man zay vida fem.**  
@@ -847,7 +847,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**me pas salama te ya doste.**  
+**me pas salama te da doste.**  
 Minä tervehdin sinun ystävääsi.
 
 **man pas vida fem.**  
@@ -862,7 +862,7 @@ Hän oli kotona.
 
 ### lew <small>jo, valmiiksi</small>
 
-**me lew salama te ya doste.**  
+**me lew salama te da doste.**  
 Minä olen tervehtinyt ystävääsi.
 
 **man lew vida fem.**  
@@ -877,7 +877,7 @@ Hän on ollut kotona.
 
 ### wil <small>myöhemmin, jatkossa</small>
 
-**me wil salama te ya doste.**  
+**me wil salama te da doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **man wil vida fem.**  

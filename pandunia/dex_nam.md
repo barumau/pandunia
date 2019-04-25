@@ -1,7 +1,7 @@
 dex nam liste
 =============
 
-ce si liste du dex nam ze pandunia to engli. pandunia kapa dex nam ze [dex ren ren da se da bax](http://www.omniglot.com/countries/).
+ce si liste du dex nam ze pandunia to engli. pandunia kapa dex nam ze [dex ren ren ya se ya bax](http://www.omniglot.com/countries/).
 
 ## afrika
 

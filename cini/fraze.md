@@ -215,7 +215,7 @@ We greet you.
 **me ni abla engli.**
 我不会英语。
 
-**pardon. me ni abla te yu bax.**
+**pardon. me ni abla te da bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>

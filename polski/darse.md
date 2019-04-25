@@ -9,13 +9,13 @@ Przedstawianie się
 > ☻: **tu si ke?** = Kim jesteś?  
 > ☺: **mi si yusef. tu si ke?** = Jestem Yusef. Kim jesteś?  
 > ☻: **mi si maria. ye si ke?** = Jestem Maria. Kto to?  
-> ☺: **ye si mi da doste.** = To mój przyjaciel.  
-> ☻: **ye da nam si ke?** = Jak się nazywa?  
-> ☺: **ye da nam si sara.** = Nazywa się Sara.
+> ☺: **ye si mi ya doste.** = To mój przyjaciel.  
+> ☻: **ye ya nam si ke?** = Jak się nazywa?  
+> ☺: **ye ya nam si sara.** = Nazywa się Sara.
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi da doste** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi da doste** (jest moim przyjacielem).
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi ya doste** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi ya doste** (jest moim przyjacielem).
 
 Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
@@ -54,10 +54,10 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 1. tu si ke?
 2. mi si tomas.
-3. tu da doste si ke?
+3. tu ya doste si ke?
 4. ye si sara.
-5. tu da nam si ke?
-6. mi da nam si ........... 
+5. tu ya nam si ke?
+6. mi ya nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ Proszenie
 ☺: **plisa nyama kafe u cay.** = Proszę, napij się kawy lub herbaty.  
 ☻: **mi nyama cay. danke.** = Napiję się herbaty, dziękuję.  
 ...  
-☺: **plisa salama tu da mamá!** = Proszę pozdrów twoją matkę.  
+☺: **plisa salama tu ya mamá!** = Proszę pozdrów twoją matkę.  
 ☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
 ☺: **salam!** = Cześć!
 
@@ -429,9 +429,9 @@ Istnieją też konkretne słowa opisujące czas.
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zay** i **futur**. Mogą być używane do modyfikowania rzeczowników.
 
-> **sara si mi da pas xefe.** = Sara jest moim byłym szefem.  
-> **yusef si mi da zay xefe.** = Yusef jest moim obecnym szefem.  
-> **maria si mi da futur xefe.** = Maria jest moim przyszłym szefem.
+> **sara si mi ya pas xefe.** = Sara jest moim byłym szefem.  
+> **yusef si mi ya zay xefe.** = Yusef jest moim obecnym szefem.  
+> **maria si mi ya futur xefe.** = Maria jest moim przyszłym szefem.
 
 Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
 
@@ -475,11 +475,11 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Odpowiedzi do Ćwiczeń
 
-1. mi da xefe festa futur.
+1. mi ya xefe festa futur.
 2. mi hava do waf pas.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.
-6. tu da mamá festa na befo noce.
+6. tu ya mamá festa na befo noce.
 
 

@@ -24,11 +24,11 @@ koy den rici man lida miskin man pa hakimer.
 </td><td>
 One day the rich man lead the poor man before a judge.
 </td></tr><tr><td>
-rici man loga pa hakimer, "ci man nosa mi nyami pang mey den, a peya pa mi nol xey da le."
+rici man loga pa hakimer, "ci man nosa mi nyami pang mey den, a peya pa mi nol xey ya le."
 </td><td>
 The rich man said, "This man smells my delicious bread every day but pays me nothing for it."
 </td></tr><tr><td>
-hakimer loga, "dul te laya badi den, i miskin man jama sake yu lim gimi parce yu pese!"
+hakimer loga, "dul te laya badi den, i miskin man jama sake du lim gimi parce du pese!"
 </td><td>
 The judge said, "Both of you come tomorrow, and the poor man must bring a bag of 5 gold coins!"
 </td></tr><tr><td>
@@ -44,7 +44,7 @@ hakimer loga, "sisma sake!"
 </td><td>
 The judge said, "Shake the bag!"
 </td></tr><tr><td>
-gimi parce yu pese sonda.
+gimi parce du pese sonda.
 </td><td>
 The coins jingled.
 </td></tr><tr><td>

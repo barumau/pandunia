@@ -186,7 +186,7 @@ Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen
 osat on erotettu toisistaan pystyviivalla.
 
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
-    Pandunia:  mi   wol|a  wid|a  tu da  dul   sundar    yen.
+    Pandunia:  mi   wol|a  wid|a  tu ya  dul   sundar    yen.
                Minä haluan nähdä sinun   kaksi kaunista  silmää.
 
 #### Miksi X-kirjain äännetään suhu-ässänä?

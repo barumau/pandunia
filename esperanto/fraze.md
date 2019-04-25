@@ -290,12 +290,12 @@ Tio estas ruĝa pomo.
 **ci aple ros.**
 Tiu pomo ruĝas.
 
-### yu <small>(poseda vorteto)</small>
+### du <small>(poseda vorteto)</small>
 
 **ce ke?**
 Kio estas tio?
 
-**ce mi yu fon.**
+**ce mi da fon.**
 Tio estas mia telefono.
 
 **ce ke yu?**
@@ -311,10 +311,10 @@ tiel plu.
 **le ke?**
 Who's he/she?
 
-**le si me yu doste.**
+**le si me da doste.**
 Li/ŝi estas mia amiko.
 
-**me si sara yu doste.**
+**me si sara du doste.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **yu**
@@ -323,10 +323,10 @@ venas el mandarencxina: 有 (yǒu), hakkacxina: 有 (yu).</small>
 
 ### nam <small>nomo</small>
 
-**te yu nam si ke?**
+**te du nam si ke?**
 Kio estas via nomo?
 
-**me yu nam si tomas.**
+**me du nam si tomas.**
 Mia nomo estas Tomaso.
 
 **li nam ke?**
@@ -357,7 +357,7 @@ Mi volas havi novan telefonon.
 **eska te ada bace?**
 Ĉu vi havas infanojn?  
 **me ada dul bace.**
-Mi havas ya infanojn.
+Mi havas da infanojn.
 
 
 ### jana <small>scii, koni</small>
@@ -371,7 +371,7 @@ Mi konas lin/ŝin.
 **eska tote jana unale?**
 Ĉu vi konas unu la alian?
 
-**mome jana unale da long.**
+**mome jana unale ya long.**
 Ni konas unu la alian longe.
 
 
@@ -571,7 +571,7 @@ Mi povas ete pandunion.
 **me ni abla engli.**
 Mi ne povas paroli la anglan.
 
-**pardon. mi ni abla te yu baxa.**
+**pardon. mi ni abla te da baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -610,7 +610,7 @@ Bonvolu paroli pli forte.
 **me auda musike.**
 Mi aŭskultas muzikon.
 
-**te auda ki yang yu musike?**
+**te auda ki yang du musike?**
 Kian muzikon vi aŭskultas?
 
 
@@ -636,7 +636,7 @@ Kion tiu vorto signifas?
 **"maw" mena ke?**
 Kion "maw" signifas?
 
-**le mena yang ya hewan.**
+**le mena yang da hewan.**
 Ĝi signifas tipon de besto.
 
 **me ni aha le mena ke.**
@@ -702,10 +702,10 @@ Ni iru piede!
 **plisa laya!**
 Bonvolu veni!
 
-**te laya da ke?**
+**te laya ya ke?**
 Vi venas el kie?
 
-**me laya da dubai.**
+**me laya ya dubai.**
 Mi venas el Dubai.
 
 **me laya dom badi den.**
@@ -717,7 +717,7 @@ Mi venos hejmen morgaŭ.
 **eska te safara sa tren?**
 Ĉu vi vojaĝas per vagonaro?
 
-**mome safara da london pa paris.**
+**mome safara ya london pa paris.**
 Ni vojaĝas el Londono al Parizo.
 
 **safar day long.**

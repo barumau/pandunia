@@ -299,12 +299,12 @@ Jest czerwone.
 
 
 
-### ya <small>(partykuła dzierżawcza)</small>
+### da <small>(partykuła dzierżawcza)</small>
 
 **ce ke?**
 Co to jest?
 
-**ce me ya fon.**
+**ce me da fon.**
 To mój telefon.
 
 **ce ke ya?**
@@ -321,10 +321,10 @@ znaczy "twój" i tak dalej.
 **le ke?**
 Kim on/ona jest?
 
-**le si me ya doste.**
+**le si me da doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**me si sara ya doste.**
+**me si sara da doste.**
 Jestem przyjacielem Sary.
 
 <small>Etymologia. **ya**
@@ -596,7 +596,7 @@ Umiem trochę mówić w Panduni.
 **me ni abla engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni abla te ya bax.**
+**pardon. me ni abla te da bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -634,7 +634,7 @@ Proszę, mów głośniej.
 **me auda musike.**
 Słucham muzyki.
 
-**te auda ki yang ya musike?**
+**te auda ki yang da musike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -664,7 +664,7 @@ Co znaczy to słowo?
 **"maw" mena ke?**
 Co znaczy "mau"?
 
-**le mena yang yu hewan.**
+**le mena yang du hewan.**
 To oznacza rodzaj zwierzęcia.
 
 **me ni aha le mena ke.**
@@ -737,10 +737,10 @@ Pójdźmy pieszo!
 **plisa laya!**
 Przyjdź tu!
 
-**te laya da ke?**
+**te laya ya ke?**
 Skąd pochodzisz?
 
-**me laya da dubai.**
+**me laya ya dubai.**
 Pochodzę z Dubaju.
 
 **me laya dom badi den.**
@@ -753,7 +753,7 @@ Przyjdę do domu jutro.
 **eska te safara sa tren?**
 Czy podróżujesz pociągiem?
 
-**mome safara da london pa paris.**
+**mome safara ya london pa paris.**
 Podróżujemy z Londynu do Paryża.
 
 **safar day long.**
@@ -848,7 +848,7 @@ Wezmę kawę.
 **plisa kapa un kafe pa me.**
 Proszę, weź kawę dla mnie.
 
-**te pas kapa pese da me.**
+**te pas kapa pese ya me.**
 Już dostałeś ode mnie pieniądze.
 
 **me kapa un bir.**

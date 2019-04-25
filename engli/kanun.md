@@ -312,7 +312,7 @@ Adjectives are questioned with **ki**.
 
 **ki day?** - How big?  
 **ki lil?** - How small?  
-**ki day ya maw te hava?** - How big cat do you have?
+**ki day da maw te hava?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ dependant clauses.
 
 Examples:  
 **ke te vida?** - What do you see?  
-**me nyama pang, yu te beka.** - I eat bread _that you baked._
+**me nyama pang, du te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
 
@@ -539,7 +539,7 @@ The agent can be mentioned after the verb with or without the
 preposition **yu**.
 
 **te vidu me.** - You are seen by me.  
-**te vidu yu me.** - You are seen by me.
+**te vidu du me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
@@ -695,15 +695,15 @@ The modifier particle can be used for any possessive noun or pronoun.
 With regards to possession, **ya** works like apostrophe-s ('s) in
 English.
 
-**maria ya mame** - Maria's mother  
-**me ya dom** - my house  
-**me ya pape ya dom** - my father's house
+**maria da mame** - Maria's mother  
+**me da dom** - my house  
+**me da pape da dom** - my father's house
 
 **yu** works like "of" in English.
 
-**mame yu maria** - the mother of Maria  
-**dom yu me** - the house of mine  
-**dom yu pape yu me** - the house of the father of mine
+**mame du maria** - the mother of Maria  
+**dom du me** - the house of mine  
+**dom du pape du me** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -714,25 +714,25 @@ the particle makes it clear in which end the main noun is.
 The modifier particles are useful for creating complex adjectives that
 consists of two or more words.
 
-**roze rang ya labe** - rose-colored lips  
-**saman rang ya yen** - sky-colored eyes
+**roze rang da labe** - rose-colored lips  
+**saman rang da yen** - sky-colored eyes
 
 Or in the opposite order:
 
-**labe yu roze rang** - lips of the color of the rose  
-**yen yu saman rang** - eyes of the color of the sky
+**labe du roze rang** - lips of the color of the rose  
+**yen du saman rang** - eyes of the color of the sky
 
 The particles help in creating measure words too.
  
-**un sake ya patate** - one sack of potatos  
-**dul sake ya patate** - two sacks of potatos  
-**max sake ya patate** - more sacks of potatos
+**un sake da patate** - one sack of potatos  
+**dul sake da patate** - two sacks of potatos  
+**max sake da patate** - more sacks of potatos
  
 Note that **ya** and **yu** connect phrases together. So a modifier
 phrase with and without **ya** can mean a different thing.
 
 **max sundar pul** - more beautiful flowers  
-**max ya sundar pul** - more of beautiful flowers
+**max da sundar pul** - more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
@@ -755,8 +755,8 @@ into a modifier by putting **ya** immediately after the verb.
 
 **me vida _aple nyamu ya_ man.** - I see an _apple-eating_ man.
 
-**buke dugu ya ren sa kamar.** = The book-reading person is in the room.  
-**le duga ya buke sa meze.** = The book, that he/she reads, is on the table.
+**buke dugu da ren sa kamar.** = The book-reading person is in the room.  
+**le duga da buke sa meze.** = The book, that he/she reads, is on the table.
 
 ### 9.3. Modal Particles
 
@@ -823,13 +823,13 @@ the preposition is complemented by a pronoun or a noun phrase.
 
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
-**me sona da xam pa suba.** - I sleep since evening until morning.  
-**me safara da london pa paris.** - I travel from London to Paris.  
+**me sona ya xam pa sube.** - I sleep since evening until morning.  
+**me safara ya london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga da te enda.** - I have waited since you left.  
+**me denga ya te enda.** - I have waited since you left.  
 **me denga pa te lay dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -1174,7 +1174,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me vida ren, yu te jana.** (I saw the person _whom you know_.) The
+**me vida ren, du te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 

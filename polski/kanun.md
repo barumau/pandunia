@@ -613,9 +613,9 @@ Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczow
 
 Przed **da** pojawia się posiadacz, a po nim posiadany obiekt.
 
-> **maria da mama** - Marii matka
-> **mi da dom** - mój dom
-> **mi da pape da dom** - mojego ojca dom
+> **maria ya mama** - Marii matka
+> **mi ya dom** - mój dom
+> **mi ya pape ya dom** - mojego ojca dom
 
 Przed **da** pojawia się posiadany obiekt, a po nim posiadacz.
 
@@ -634,8 +634,8 @@ Partykuły modyfikatorowe są użyteczne do tworzenia złożonych przymiotników
 
 Lub w przeciwnej kolejności:
 
-> **roza rang da labe** - koloru róży usta
-> **saman rang da yen** - koloru nieba oczy
+> **roza rang ya labe** - koloru róży usta
+> **saman rang ya yen** - koloru nieba oczy
 
 #### 9.2.3. Zdania podrzędne
 
@@ -653,8 +653,8 @@ Można też tworzyć zdania podrzędne używają **da**. Wtedy zdanie podrzędne
 
 > **mi vida _apel nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
 
-> **buke dugu da ren na kamer.** = Czytająca książki osoba jest w pokoju.
-> **ye duga da buke na meza.** = Przez niego/nią czytana książka jest na stole.
+> **buke dugu ya ren na kamer.** = Czytająca książki osoba jest w pokoju.
+> **ye duga ya buke na meza.** = Przez niego/nią czytana książka jest na stole.
 
 
 ### 9.3. Partykuły modalne

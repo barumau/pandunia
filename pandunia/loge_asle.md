@@ -1,6 +1,6 @@
-# asle ya lekse ya pandunia
+# asle da lekse da pandunia
   
-pandunia yu loge laya da pol bax ya dunia.
+pandunia du loge laya ya pol bax da dunia.
   
 - afri bax
     - arabi (ara)

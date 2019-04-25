@@ -1,5 +1,5 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
+![](http://www.pandunia.info/bandir/bandir.png "pandunia ya bandir")
 
 #pandunia - egal dunia bax
 
