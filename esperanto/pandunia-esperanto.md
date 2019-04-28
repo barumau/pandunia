@@ -77,8 +77,8 @@ atom : atomo
 auda : aŭdi (aŭskulti)  
 australia : Aŭstralio  
 automoti : memmova  
-awakate : avokado  
-awar : damaĝo  
+avakate : avokado  
+avar : damaĝo  
 ay : alas!  
 ##b  
 babe : ĉapitro  
@@ -97,7 +97,6 @@ bagre : tigro
 baha'iste : bahaisto  
 baha'istia : bahaismo  
 bal : forta  
-balbe : valvo (krano)  
 balde : sitelo  
 bale : forto  
 balkon : balkono  
@@ -134,10 +133,10 @@ bax : lingvo
 baxa : paroli (komuniki)  
 baxolojia : lingvistiko  
 bay : blanka  
+baya : aĉeti  
 bazar : merkato (bazaro)  
 baze : bazo  
 bazi : baza  
-be : sen  
 bebe : bebo  
 bede : lito  
 bedinjan : melongeno  
@@ -494,7 +493,7 @@ giga : miliardo (giga-)
 gim : oro  
 gitar : gitaro  
 giva : doni  
-give : givaco  
+give : donaco  
 glota : gluti  
 glute : gluo  
 gluten : gluteno  
@@ -648,17 +647,16 @@ jengi : milita
 jenju' : perlo  
 jentil : bonkora  
 jenu : naski  
-jin : vera  
 jinse : genro  
 jiraf : ĝirafo  
-jiwa : vivi  
-jiwe : vivo  
-jiwi : viva  
-jowan fem : knabino  
-jowan man : knabo  
-jowan : juna  
-jowane : junulo  
-jowania : juneco  
+jiva : vivi  
+jive : vivo  
+jivi : viva  
+jovan fem : knabino  
+jovan man : knabo  
+jovan : juna  
+jovane : junulo  
+jovania : juneco  
 judo : ĵudo  
 jug : bambuo  
 jung : centro  
@@ -769,9 +767,9 @@ kul : bonega (mojosa)
 kultur : kulturo  
 kupe : taso  
 kuper : kupro  
-kurbe : kurbo  
 kurium : kuriumo  
 kurse : seĝo  
+kurve : kurbo  
 ##l  
 labe : lipo  
 laje : rubo  
@@ -847,7 +845,8 @@ me : mi
 medi : mezo  
 medika : sanigi (kuraci)  
 mediker : kuracisto  
-mega : miliono  
+megi : miliono  
+mego- : mega-  
 mel : mielo  
 melodia : melodio  
 member : membro  
@@ -920,6 +919,7 @@ muskul : muskolo
 muta : aliigi  
 mux : muso  
 ##n  
+na : sen  
 nabe : profetaĵo  
 nade : rivero  
 nafas : spiro  
@@ -1050,9 +1050,9 @@ profesor : profesoro
 program : programo  
 prometium : prometio  
 protacinium : protaktinio  
-pul waze : vazo (florpoto)  
 pul : floro  
 pulmon : pulmo  
+pulovaze : vazo (florpoto)  
 pulte : ponto  
 punte : punkto  
 puran : malnova  
@@ -1216,7 +1216,7 @@ tarje : traduko
 tarjer : tradukisto  
 tas : plado  
 tatu : tatuo  
-tawa : pato  
+tave : pato  
 tazi : freŝa  
 te : vi (ci)  
 tekne : tekniko  
@@ -1282,7 +1282,9 @@ urse : urso
 urse : urso  
 uza : uzi  
 ##v  
+valve : valvo (krano)  
 vaze : vazo  
+veri : vera  
 vida : vidi (rigardi)  
 vin : vino  
 vis : vic-  

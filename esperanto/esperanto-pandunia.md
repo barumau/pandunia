@@ -83,10 +83,11 @@ astmo : asme
 atako : atake  
 atendi : denga  
 atomo : atom  
-avokado : awakate  
+avokado : avakate  
 azeno : gade  
 azia : asi  
 Azio : asia  
+aĉeti : baya  
 aŭ : u  
 aŭdi (aŭskulti) : auda  
 Aŭstralio : australia  
@@ -198,7 +199,7 @@ cezio : cesium
 citi : cita  
 citrono : limun  
 ##d  
-damaĝo : awar  
+damaĝo : avar  
 Danio : dania  
 danki : danka  
 danko : danke  
@@ -241,6 +242,7 @@ disvolvi : fajan
 dividi : fena  
 doktoro : dotor  
 dolaro : dolar  
+donaco : give  
 doni : giva  
 dormo : son  
 dormoĉambro : son kamar  
@@ -398,7 +400,6 @@ geedzeco : maria
 genro : jinse  
 germaniumo : germanium  
 gitaro : gitar  
-givaco : give  
 glacia : isi  
 glacio : is  
 glavo : katan  
@@ -521,9 +522,9 @@ jes (esti) : si
 Jesuo : yesus  
 jodo : iode  
 jogo : yoge  
-juna : jowan  
-juneco : jowania  
-junulo : jowane  
+juna : jovan  
+juneco : jovania  
+junulo : jovane  
 jupo : jupe  
 justa : adali  
 justeco : adalia  
@@ -586,8 +587,8 @@ kloni : klona
 klono : klon  
 kloro : klor  
 klubo : klube  
-knabino : jowan fem  
-knabo : jowan man  
+knabino : jovan fem  
+knabo : jovan man  
 kobalto : kobalte  
 kodo : kode  
 koko : koke  
@@ -656,7 +657,7 @@ kulturo : kultur
 kumino : ziran  
 kupro : kuper  
 kuracisto : mediker  
-kurbo : kurbe  
+kurbo : kurve  
 kuriumo : kurium  
 kurteno : parde  
 kuŝi : lala  
@@ -760,6 +761,7 @@ matematiko : matike
 mateno : sube  
 matura (plenkreska) : matur  
 maŝino : maxin  
+mega- : mego-  
 mejtnerio : maitnerium  
 Meksikio : mexiko  
 melki : tira milke  
@@ -790,7 +792,7 @@ mil : kil
 mili- : milo-  
 miliardo (giga-) : giga  
 milimetro : milometre  
-miliono : mega  
+miliono : megi  
 milita : jengi  
 milito (batalo) : jeng  
 ministro : minister  
@@ -918,7 +920,7 @@ parto (frakcio) : fen
 partopreni : parta  
 pasporto : pasporte  
 pastro : dinogur  
-pato : tawa  
+pato : tave  
 patrino : mame  
 patro : pape  
 peniso : penis  
@@ -1105,7 +1107,7 @@ sekvo : bade
 seleno : selen  
 semajno : set war  
 semo : dan  
-sen : be  
+sen : na  
 senti : senta  
 sep (7) : set  
 Serbio : serbia  
@@ -1252,10 +1254,10 @@ utileco : faide
 uzi : uza  
 ##v  
 vagino : yone  
-valvo (krano) : balbe  
+valvo (krano) : valve  
 varma : garmi  
 vato : wate  
-vazo (florpoto) : pul waze  
+vazo (florpoto) : pulovaze  
 vazo : vaze  
 veni : laya  
 venki : wina  
@@ -1263,7 +1265,7 @@ venko : win
 venti : fonga  
 vento : fong  
 ventro : fubu'  
-vera : jin  
+vera : veri  
 verando : berande  
 verbo : fati lekse  
 verda : berdi  
@@ -1288,9 +1290,9 @@ virino : matur fem
 viro : man  
 viro : matur man  
 vitro : kace  
-viva : jiwi  
-vivi : jiwa  
-vivo : jiwe  
+viva : jivi  
+vivi : jiva  
+vivo : jive  
 vizaĝo : muke  
 vizitanto : viziter  
 viziti : vizite  

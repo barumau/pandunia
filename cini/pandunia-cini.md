@@ -1,12 +1,20 @@
 ##a  
 abace : 字母表  
 abla : 会  
+acente : 重音符号  
+adali : 公正地  
+adalia : 正义  
+adres : 地址  
 adulte : 成年人  
 ajil : 灵活的  
 akse : 轴线  
+alge : 藻类  
+ali : 另一  
 alkol : 酒  
+almar : 碗碟橱  
 almas : 钻石  
 altar : 圣坛  
+amen : 一致  
 analis : 分析  
 analisa : 分析  
 anime : 活跃  
@@ -14,30 +22,47 @@ anjil : 福音
 anten : 天线  
 anus : 肛门  
 aple : 苹果  
+aplika : 运用  
+arane : 蜘蛛  
 aranje : 橙子  
+arbe : 树  
 arbuze : 西瓜  
 are : 面积  
+armia : 军队  
 arte : 美术  
 arter : 美术家  
 asle : 起源  
+asli : 原始的  
+asme : 气喘  
+aspirin : 阿司匹林  
+atake : 攻击  
 ##b  
 babe : 章  
+badam : 杏仁  
+badan : 身体  
+bagaje : 行李  
 bagre : 虎  
+balkon : 阳台  
+banan : 香蕉  
+bande : 班  (一帮)  
 bandir : 旗  
 banye : 洗澡  
 banyokamar : 浴室  
 banyu : 游泳  
+baskobol : 篮球  
 bax : 语言  
 baxolojia : 白色  
 bazar : 市场  
 bere : 浆果  
 bil : 帐单   
 bon rupi : 好看  
+buke : 书  
 buze : 山羊   
 ##c  
 cay : 茶  
 cini : 汉族  
 ##d  
+destin : 目的地 (命運)  
 dom : 房子  
 ##e  
 ##f  
@@ -59,6 +84,12 @@ kande : 糖果
 kata : 切  
 ke : 什么，谁  
 keci : 客气  
+kitaba : 写  
+kitabia : 图书馆  
+kitabomaxin : 打字机  
+komputer : 计算机  
+kosmi : 宇宙的  
+kosmia : 宇宙  
 ##l  
 laya : 来  
 le : 他，她，它  

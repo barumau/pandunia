@@ -92,8 +92,8 @@ atake : hyökkäys
 atom : atomi  
 auda : kuulla (kuunnella)  
 australia : Australia  
-awakate : avokado  
-awar : vaurio  
+avakate : avokado  
+avar : vaurio  
 axur : Assur  
 axuria : Assyria  
 ay : ai! (au!)  
@@ -117,7 +117,6 @@ baha'istia : bahailaisuus
 bahamia : Bahama-saaret  
 bahrain : Bahrain  
 bal : voimakas (vahva)  
-balbe : hana  
 balde : sanko (ämpäri)  
 bale : voima  
 balkon : parveke (kuisti)  
@@ -163,11 +162,12 @@ bax : kieli (kommunikaatio)
 baxa : puhua (kommunikoida)  
 baxolojia : kielitiede (lingvistiikka)  
 bay : valkoinen (valkea)  
+baya : ostaa  
+bayer : ostaja  
 bazar huristia : markkinaliberalismi  
 bazar : tori (basaari)  
 baze : perusta (perustus)  
 bazi : perus-  
-be : ilman  
 beafrike : Keski-Afrikan Tasavalta  
 bebe : vauva  
 bede : vuode (sänky, peti)  
@@ -370,6 +370,8 @@ den : päivä
 denga : odottaa  
 des : kymmenen (10)  
 desen : piirustus  
+destin : määrä (päämäärä, kohtalo)  
+destina : määrätä  
 detal : yksityiskohta (detalji)  
 dew : jumala  
 dewi sage : jumaltaru (myytti)  
@@ -561,6 +563,7 @@ fotografia : valokuvaus
 fransi polinesia : Ranskan Polynesia  
 fransia : Ranska  
 fransium : fransium  
+fraze : lause (fraasi)  
 fubu' : maha  
 fuga : palauttaa  
 fuka : pukea  
@@ -850,25 +853,23 @@ jibraltar : Gibraltar
 jibutia : Djiboutia  
 jika : suoristaa  
 jiki : suora  
-jin : tosi (aito)  
 jinse : sukupuoli  
 jinsi : sukupuoli-  
 jiraf : kirahvi  
-jiwa : elää  
-jiwe : elämä  
-jiwi : elävä  
+jiva : elää  
+jive : elämä  
+jivi : elävä  
 joke : vitsi  
 joker : vitsiniekka  
 jong : laji  
-jowan fem : tyttö (nuori neito)  
-jowan man : poika (nuori mies)  
-jowan : nuori  
-jowane : nuorukainen  
-jowania : nuoruus  
+jovan fem : tyttö (nuori neito)  
+jovan man : poika (nuori mies)  
+jovan : nuori  
+jovane : nuorukainen  
+jovania : nuoruus  
 judo : judo  
 jug : bambu  
 jul : joule (J)  
-jumle : lause  
 jung : keskus (keskikohta)  
 junga : keskittää  
 jungogia : Kiina  
@@ -879,7 +880,7 @@ juxa : ruiskuttaa
 juxe : ruiske (injektio)  
 ##k  
 ka : kuin  
-kababe : kebab  
+kababe : kebab (varrasliha)  
 kabaw : vesipuhveli  
 kabin : koppi (maja)  
 kace : lasi  
@@ -982,9 +983,8 @@ kirgizia : Kirgistan (Kirgisia)
 kiribatia : Kiribati  
 kirili abace : kyrilliset aakkoset  
 kirisa : vuokrata  
-kisme : kohtalo  
 kitaba : kirjoittaa  
-kitabe : kirjoitus  
+kitabe : kirjoitus (teksti)  
 kitabia : kirjasto  
 kitabomaxin : kirjoituskone  
 kiwe : kiivi  
@@ -1042,7 +1042,8 @@ koron : kruunu
 korta : lyhentää  
 korti : lyhyt  
 kos : yskä  
-kosmos : avaruus (kosmos)  
+kosmi : kosminen  
+kosmia : avaruus (kosmos)  
 kosta : maksaa (olla hintana)  
 kostarikia : Costa Rica  
 koste : hinta (maksu)  
@@ -1084,10 +1085,10 @@ kupol : kupoli (holvikatto)
 kupon : kuponki  
 kura : hoitaa (pitää huolta)  
 kuran : koraani  
-kurbe : mutka (kurvi)  
-kurbi : mutkikas  
 kurium : curium  
 kurse : tuoli  
+kurve : mutka (kurvi)  
+kurvi : mutkikas  
 kusen : tyyny  
 kuwaitia : Kuwait  
 ##l  
@@ -1101,7 +1102,7 @@ lanca : heittää (paiskata)
 langan : kaide (reelinki)  
 lankia : Sri Lanka  
 lanten : lyhty  
-larwe : toukka  
+larve : toukka  
 lasti : joustava (elastinen)  
 lasun : valkosipuli  
 latif : mukava (kiva)  
@@ -1279,8 +1280,10 @@ medika : hoitaa (lääkitä)
 mediker : lääkäri (tohtori)  
 medikia : lääketiede  
 medita : pohtia (meditoida)  
-mega : miljoona (mega-)  
 megam : pilvi  
+megi : miljoona  
+mego- : mega-  
+megowate : megawatti (MW)  
 mel : hunaja  
 melodi : melodinen (sointuisa)  
 melodia : melodia (sävelmä)  
@@ -1295,8 +1298,8 @@ menter : neuvontantaja (mentori)
 mes 1 (mes un) : tammikuu  
 mes 10 (mes des) : lokakuu  
 mes 11 (mes des un) : marraskuu  
-mes 12 (mes des do) : joulukuu  
-mes 2 (mes do) : helmikuu  
+mes 12 (mes des dul) : joulukuu  
+mes 2 (mes dul) : helmikuu  
 mes 3 (mes sam) : maaliskuu  
 mes 4 (mes car) : huhtikuu  
 mes 5 (mes lim) : toukokuu  
@@ -1421,6 +1424,7 @@ muta : muuttaa (muuntaa)
 mux : hiiri  
 muxing : Jupiter  
 ##n  
+na : ilman  
 nabe : profetia  
 naber : profeetta  
 naciste : natsi  
@@ -1730,10 +1734,10 @@ protacinium : protaktinium
 puding : vanukas  
 puja : palvoa  
 puje : palvonta  
-pul waze : kukkaruukku  
 pul : kukka  
 pula : kukkia  
 pulmon : keuhko  
+pulovaze : kukkaruukku  
 pulte : silta  
 punte : piste (täplä)  
 pupe : nukke  
@@ -1947,8 +1951,8 @@ sisokon : kuusikulmio
 sistem : järjestelmä (systeemi)  
 site : kaupunki  
 skandium : skandium  
-slowakia : Slovakia  
-slowenia : Slovenia  
+slovakia : Slovakia  
+slovenia : Slovenia  
 soca : seurustella (toimia yhdessä)  
 soci media : sosiaalinen media  
 soci : yhteiskunnallinen (sosiaalinen)  
@@ -2046,7 +2050,7 @@ tarjer : tulkki (kääntäjä)
 tas : astia (kulho)  
 tatike : taktiikka  
 tatu : tatuointi  
-tawa : pannu (paistinpannu)  
+tave : pannu (paistinpannu)  
 tazi : tuore (raikas)  
 te : sinä  
 tekne : tekniikka (keino, menetelmä)  
@@ -2164,10 +2168,14 @@ uza : käyttää
 uzbekia : Uzbekistan  
 uzer : käyttäjä  
 ##v  
+vaksin : rokote  
+valve : hana  
+vanil : vanilja  
 vanuatu : Vanuatu  
 vatikan : Vatikaanivaltio  
 vaze : ruukku (maljakko, vaasi)  
 venesuela : Venezuela  
+veri : tosi (aito)  
 vida : nähdä  
 vide : näkymä  
 vidomaidan : näkökenttä  
@@ -2191,10 +2199,8 @@ volte : voltti (V)
 wada : luvata  
 waf : koira  
 wakila : edustaa  
-waksin : rokote  
 wan : kulho  
 wang : keltainen  
-wanil : vanilja  
 wanta : haluta  
 war 1 (war un) : maanantai  
 war 2 (war du) : tiistai  

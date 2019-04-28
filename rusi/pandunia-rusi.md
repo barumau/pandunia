@@ -1,13 +1,19 @@
 ##a  
 abace : алфавит  
+acente : ударение  
+adali : справедливый  
+adalia : справедливость  
+adres : адрес  
 adulte : взрослый  
 ajil : подвижный  
 akse : ось  
+alge : водоросли  
 ali : другой (второй)  
 alkol : алкоголь  
 almar : шкаф  
 almas : алмаз (бриллиант)  
 altar : алтарь  
+amen : согласие  
 analis : анализ  
 analisa : анализировать  
 anime : оживление  
@@ -15,22 +21,38 @@ anjil : евангелие
 anten : антенна  
 anus : анус  
 aple : яблоко  
+arane : паук  
 aranje : апельсин  
+arbe : дерево  
 arbuze : арбуз  
 are : площадь  
+armia : армия  
 arte : искусство  
+asan : поза  
 asle : начало (причина)  
+asme : астма  
+aspirin : аспирин  
+atake : нападение (атака)  
 ##b  
 babe : глава  
+badam : миндаль  
+badan : тело  
+bagaje : багаж  
 bagre : тигр  
+balkon : балкон  
+banan : банан  
+bande : банда  
 bandir : флаг  
 banye : купание  
 banyokamar : ванная  
 banyu : купаться  
+baskobol : баскетбол  
 bil : счёт  
+buke : книга  
 ##c  
 cini : хань  
 ##d  
+destin : судьба  
 ##e  
 ##f  
 ##g  
@@ -45,7 +67,15 @@ hazin : сокровище (казна)
 ##k  
 kanjar : кинжал  
 katan : меч  
+kitaba : писать  
+kitabe : письмо  
+kitabia : библиотека  
+kitabomaxin : пишущая машинка  
+komputer : компьютер  
 kor : хор  
+koron : корона  
+kosmi : космический  
+kosmia : космос  
 ##l  
 lova : любить  
 ##m  

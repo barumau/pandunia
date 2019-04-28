@@ -125,9 +125,9 @@ Australia : australia
 auto (automobiili) : motokar  
 auttaa (avustaa) : helpa  
 avain : cabe  
-avaruus (kosmos) : kosmos  
+avaruus (kosmos) : kosmia  
 avioliitto : maria  
-avokado : awakate  
+avokado : avakate  
 Azerbaidžan : azeria  
 ##b  
 baari (kapakka) : bireria  
@@ -221,9 +221,9 @@ elektroni : eletron
 eli (toisin sanoen) : yani  
 elokuu : mes 8 (mes bat)  
 eläin : hewan  
-elämä : jiwe  
-elävä : jiwi  
-elää : jiwa  
+elämä : jive  
+elävä : jivi  
+elää : jiva  
 enemmistö : maxoria  
 enemmistö- : maxor  
 enemmän : max  
@@ -328,7 +328,7 @@ hammasharja : dantobrox
 hammaslääkäri : dantomediker  
 hamppu (kannabis) : ganje  
 han-kiinalainen : cini  
-hana : balbe  
+hana : valve  
 hankkia (ansaita) : ganya  
 hankkia (saada) : geta  
 hapan (kirpeä) : suan  
@@ -353,7 +353,7 @@ heinäkuu : mes 7 (mes set)
 heittää (paiskata) : lanca  
 helium : helium  
 helmi : jenju'  
-helmikuu : mes 2 (mes do)  
+helmikuu : mes 2 (mes dul)  
 helppo : izi  
 helvetti : narake  
 hengitys (henkäys) : nafas  
@@ -462,7 +462,7 @@ ikä : umur
 ilkeä (julma) : zalim  
 illallinen : xam nyam  
 ilma : hawe  
-ilman : be  
+ilman : na  
 ilmanpaine : hawobar  
 ilmapallo : balon  
 ilmapuntari (ilmanpainemittari, barometri) : hawobarometer  
@@ -542,7 +542,7 @@ joskus : koy zaman
 joukkue (tiimi) : tim  
 joule (J) : jul  
 joulu : kristojen  
-joulukuu : mes 12 (mes des do)  
+joulukuu : mes 12 (mes des dul)  
 jousisoitin : ticin  
 joustava (elastinen) : lasti  
 judo : judo  
@@ -649,7 +649,7 @@ kaukainen : tel
 kaunis (komea, sievä) : sundar  
 kaupunki : site  
 Kazakstan : kazahia  
-kebab : kababe  
+kebab (varrasliha) : kababe  
 kehitys : fajan  
 keho (ruumis) : badan  
 keidas : wase  
@@ -729,7 +729,7 @@ kirja : buke
 kirjain : harfe  
 kirjasto : kitabia  
 kirjoittaa : kitaba  
-kirjoitus : kitabe  
+kirjoitus (teksti) : kitabe  
 kirjoituskone : kitabomaxin  
 kirkas (selkeä) : ming  
 kirkko : eglis  
@@ -745,7 +745,6 @@ klooni (identtinen kopio) : klon
 kloori : klor  
 kobaltti : kobalte  
 koe (testi, koettelemus) : teste  
-kohtalo : kisme  
 kohtelias (kiltti) : keci  
 koira : waf  
 kokata (laittaa ruokaa) : kuka  
@@ -795,6 +794,7 @@ kortti : karte
 koruton (tavanomainen, pelkkä) : sadi  
 korvata : visa  
 koskea (koskettaa) : toca  
+kosminen : kosmi  
 koulu (opisto) : darsia  
 Kreikka : helenia  
 kreikkalainen : helen  
@@ -816,7 +816,7 @@ kuiva : gan
 kuiva : suhi  
 kuka? : ki ren  
 kukka : pul  
-kukkaruukku : pul waze  
+kukkaruukku : pulovaze  
 kukkia : pula  
 kulho : wan  
 kulkea poikki, läpi tai yli : transa  
@@ -935,7 +935,7 @@ Latvia : latvia
 lauantai : war 6 (war sis)  
 laulaa : canta  
 laulu : cante  
-lause : jumle  
+lause (fraasi) : fraze  
 lauta (lankku) : ban  
 lautanen : plate  
 lautapeli : ban gem  
@@ -1125,6 +1125,8 @@ maya (mayaintiaani) : maya'
 Mayotte : mayote  
 me : mome  
 media : media  
+mega- : mego-  
+megawatti (MW) : megowate  
 mehu : jus  
 meitnerium : maitnerium  
 mekko (tunika) : tunike  
@@ -1163,7 +1165,7 @@ mikä? (kumpi?) : ki
 mikä? (mitä?) : ke  
 mikä? (mitä?) : ki xey  
 miljardi (giga-) : giga  
-miljoona (mega-) : mega  
+miljoona : megi  
 milli- : milo-  
 millimetri : milometre  
 milloin? (koska?) : ki zaman  
@@ -1217,8 +1219,8 @@ muslimi (islaminuskoinen) : islamiste
 musta : kal  
 muste : moge  
 muta (kura, lieju) : blote  
-mutka (kurvi) : kurbe  
-mutkikas : kurbi  
+mutka (kurvi) : kurve  
+mutkikas : kurvi  
 mutta : a  
 muu (toinen) : ali  
 muumio : mumia  
@@ -1234,6 +1236,8 @@ myrsky : tafun
 myös (lisäksi, plus) : plus  
 mänty : song  
 määritellä (luonnehtia) : sifa  
+määrä (päämäärä, kohtalo) : destin  
+määrätä : destina  
 ##n  
 naamio (maski) : maske  
 naaras : fem  
@@ -1300,9 +1304,9 @@ nudisti : nudiste
 nukke : pupe  
 nukkua : sona  
 nukkuminen (uni) : son  
-nuori : jowan  
-nuorukainen : jowane  
-nuoruus : jowania  
+nuori : jovan  
+nuorukainen : jovane  
+nuoruus : jovania  
 nussia (panna) : coda  
 nuudeli : mien  
 nyt : nun  
@@ -1371,6 +1375,8 @@ osmium : osmium
 osoite : adres  
 osoitin (viisari) : ponter  
 osoittaa (näyttää) : ponta  
+ostaa : baya  
+ostaja : bayer  
 otella : mece  
 ottaa kantaa (olla jtk mieltä) : raya  
 ottaa kiinni (napata, kaapata) : kapa  
@@ -1427,7 +1433,7 @@ pandunia : pandunia
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
 panna (asettaa) : poza  
-pannu (paistinpannu) : tawa  
+pannu (paistinpannu) : tave  
 pantheon : panodewia  
 papaija : papay  
 paperi : papir  
@@ -1518,7 +1524,7 @@ pohja : tal
 pohjoinen : norde  
 pohjoinen : nordi  
 pohtia (meditoida) : medita  
-poika (nuori mies) : jowan man  
+poika (nuori mies) : jovan man  
 poika : man ban  
 poistua : cuta  
 poistuminen : cute  
@@ -1663,7 +1669,7 @@ risti : krus
 robotti : robote  
 rohkea (urhea) : yungam  
 roikuttaa : penda  
-rokote : waksin  
+rokote : vaksin  
 Romania : romania  
 romanttinen : romansi  
 rooli (osa) : rol  
@@ -1807,8 +1813,8 @@ sisäsyntyinen : indi jeni
 sitoa : benda  
 sitruuna : limun  
 skandium : skandium  
-Slovakia : slowakia  
-Slovenia : slowenia  
+Slovakia : slovakia  
+Slovenia : slovenia  
 smaragdi : zumrude  
 sohva : sofa'  
 soihtu : baton nur  
@@ -2024,9 +2030,9 @@ tori (basaari) : bazar
 torni : minar  
 torstai : war 4 (war car)  
 torvi (torvisoitin) : buge  
-tosi (aito) : jin  
+tosi (aito) : veri  
 totaalinen (kaikkia koskeva) :   
-toukka : larwe  
+toukka : larve  
 toukokuu : mes 5 (mes lim)  
 trendi : faxon  
 Trinidad ja Tobago : trinida i tobago  
@@ -2073,7 +2079,7 @@ tynnyri (tölkki) : tong
 typpi : nitre  
 tyranni : tiran  
 tyrannia : tirania  
-tyttö (nuori neito) : jowan fem  
+tyttö (nuori neito) : jovan fem  
 tyttölapsi : fem bace  
 tyyny : kusen  
 työ (tehtävä) : werke  
@@ -2161,7 +2167,7 @@ valta : kratia
 vanginvartija : prizoner  
 vangita : prizona  
 vanha (muinainen) : puran  
-vanilja : wanil  
+vanilja : vanil  
 vankeus : prizon  
 vankila : prizonia  
 Vanuatu : vanuatu  
@@ -2190,7 +2196,7 @@ vastaus : jawabe
 vastustaa : anta  
 vastustaja : anter  
 Vatikaanivaltio : vatikan  
-vaurio : awar  
+vaurio : avar  
 vauva : bebe  
 veitsi (puukko) : cake  
 vene (laiva) : bote  

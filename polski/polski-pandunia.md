@@ -71,7 +71,7 @@ atom : atom
 Australia : australia  
 Austria : osteria  
 autobus, autokar : bus  
-awokado : awakate  
+awokado : avakate  
 Azerbejdżan : azeria  
 Azja : asia  
 azjatycki : asi  
@@ -119,7 +119,7 @@ berkel : berkelium
 Bermudy : bermudia  
 beryl : beril  
 beton : beton  
-bez : be  
+bez : na  
 bezpieczny : sekur  
 Bhutan : butan  
 Białoruś : belarus  
@@ -217,7 +217,7 @@ Chrystus, mesjasz : kriste
 chrześcijanin : krististe  
 chrześcijaństwo : krististia  
 chór : kor  
-chłopak : jowan man  
+chłopak : jovan man  
 ciasto, ciastko : keke  
 ciało : badan  
 cichy : xixi  
@@ -352,7 +352,7 @@ dzielić : fena
 dziennik pokładowy (notatnik) : deftobuke  
 dziennikarz : bawer  
 dziesięć (10) : des  
-dziewczyna : jowan fem  
+dziewczyna : jovan fem  
 dziewięć (9) : noy  
 dzień : den  
 dzień dobry : salam den  
@@ -771,7 +771,8 @@ Koran : kuran
 Korea Południowa : hangogia  
 korona : koron  
 korzeń : gen  
-kosmos, wszechświat : kosmos  
+kosmiczny : kosmi  
+kosmos, wszechświat : kosmia  
 Kostaryka : kostarikia  
 kosz : baske  
 koszt, cena : koste  
@@ -837,7 +838,7 @@ kwadrat (czworokąt, czworobok, tetragon) : carokon
 kwaśny : suan  
 kwestia, problem : masle  
 kwiat : pul  
-kwiecień : mes 12 (mes des do)  
+kwiecień : mes 12 (mes des dul)  
 kwitnąć, rozkwitnąć, rozkwitać : pula  
 kąpać się : banyu  
 kąpiel : banye  
@@ -846,7 +847,7 @@ kąt : kon
 lakier : lake  
 lalka, kukiełka, pacynka, marionetka : pupe  
 lampa : lampe  
-larwa, czerw, gąsienica : larwe  
+larwa, czerw, gąsienica : larve  
 larwa, czerw, gąsienica : lasun  
 las, dżungla, zagajnik : jangal  
 latarnia : lanten  
@@ -907,7 +908,7 @@ magik, czarownik : mager
 magnes : magnete  
 magnetyczny : magneti  
 magnez : magnes  
-maj : mes 2 (mes do)  
+maj : mes 2 (mes dul)  
 Majotta : mayote  
 makaron : mien  
 Makau : makaw  
@@ -963,6 +964,7 @@ media : media
 media społecznościowe : soci media  
 medycyna : medikia  
 medytować; dumać, rozmyślać, zastanawiać się : medita  
+mega- : mego-  
 meitner : maitnerium  
 Meksyk : mexiko  
 melodia : melodia  
@@ -991,7 +993,7 @@ mikser, blender, robot kuchenny : mixer
 miksować, mieszać : mixa  
 mili- : milo-  
 milimetr : milometre  
-milion, mega- : mega  
+milion : megi  
 militarny, wojskowy, wojenny : jengi  
 minerał, ruda : kuang  
 minimal : minimi  
@@ -1064,9 +1066,9 @@ mądrość : sofia
 mądry : sofi  
 męski : man  
 mężczyzna, dorosły samiec : matur man  
-młodość : jowania  
-młody : jowan  
-młodzież, młoda osoba : jowane  
+młodość : jovania  
+młody : jovan  
+młodzież, młoda osoba : jovane  
 młot, młotek : hamar  
 młynarz : moler  
 ##n  
@@ -1291,7 +1293,7 @@ pas, strefa : zon
 paskal (Pa) : paskal  
 pasować : maca  
 pasta : paste  
-patelnia : tawa  
+patelnia : tave  
 patrzeć, widzieć : vida  
 pauza, przerwa : paus  
 paznokieć : nahun  
@@ -1482,7 +1484,7 @@ praktyka, aktualność : prate
 pralka : waxomaxin  
 prawa autorskie : kopohake  
 prawdopodobnie, możliwie : abli  
-prawdziwy (rzeczywisty, szczery) : jin  
+prawdziwy (rzeczywisty, szczery) : veri  
 prawo : kanun  
 prawo, przywilej : hake  
 prawy, sprawiedliwy, słuszny, uczciwy, fair : egal  
@@ -1535,7 +1537,7 @@ przeszłość : pase
 przeszły, miniony : pas  
 przetłumaczyć, tłumaczyć, interpretować : tarja  
 przeziębienie, katar : zukam  
-przeznaczenie, los : kisme  
+przeznaczenie, los : destin  
 przeźroczysty, jasny : klar  
 przy, z, na, w, u : sa  
 przyczepić, przymocować : fiksa  
@@ -1855,7 +1857,7 @@ szaman : xaman
 szampon : xampu'  
 szansa : canse  
 szariat : islamisti xaria  
-szczepionka : waksin  
+szczepionka : vaksin  
 szczoteczka do zębów : dantobrox  
 szczotka : brox  
 szczyt (wierzchołek) : pike  
@@ -1891,8 +1893,8 @@ sól : sal
 sędzia : hakimer  
 słodki : sukari  
 słodki ziemniak : kamote  
-Słowacja : slowakia  
-Słowenia : slowenia  
+Słowacja : slovakia  
+Słowenia : slovenia  
 słowik : bulbul  
 słownictwo : leksia  
 słowo : lekse  
@@ -2049,7 +2051,7 @@ urosnąć, rosnąć, wzrosnąć, wzrastać : dayu
 Urugwaj : uruguay  
 urząd, pozycja, stanowisko, funkcja : ofis  
 usta : boke  
-uszkodzić, uszkadzać : awar  
+uszkodzić, uszkadzać : avar  
 usłyszeć, słyszeć; słuchać : auda  
 uwaga, obserwacja : note  
 uważać (sądzić) : raya  
@@ -2073,8 +2075,7 @@ waga (urządzenie ważące) : barometer
 wagina : yone  
 wakacje, ferie : feria  
 walka, wojna : jeng  
-wanilia : wanil  
-wanta, chęć : ice  
+wanilia : vanil  
 wapń : kalsium  
 warcaby : damogem  
 warga : labe  
@@ -2086,7 +2087,7 @@ wat : wate
 Watykan, Państwo Watykańskie : vatikan  
 waza, garnek, gar, doniczka, słoik, słój : pote  
 waza, garnek, pojemnik, słoik, dzban : vaze  
-wazon; donica, doniczka : pul waze  
+wazon; donica, doniczka : pulovaze  
 ważka : libel  
 ważny : importi  
 wciąż, nadal : hay  
@@ -2149,6 +2150,7 @@ woda : suy
 woda mineralna : kuang suy  
 wodór : hidre  
 wojownik, bojownik : jenger  
+wola, chęć : ice  
 wolność, niepodległość, niezależność : huria  
 wolny, niepodległy, niezależny : huri  
 wolt (V) : volte  
@@ -2176,7 +2178,7 @@ wycie, skowyt : ulul
 wyczyścić, czyścić : safa  
 wydarzenie, przypadek, sytuacja : kaze  
 wydoić, doić : tira milke  
-wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać : kurbe  
+wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać : kurve  
 wygląd : rupe  
 wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać : cuta  
 wyjśćie, opuszczenie : cute  
@@ -2241,7 +2243,7 @@ zagrożenie, niebezpieczeństwo : hatar
 zainteresowanie, zaciekawienie; interesujący : interes  
 zajęty : bizi  
 zakomunikować (zanieść wieści, poinformować) : mesaja  
-zakrzywiony : kurbi  
+zakrzywiony : kurvi  
 Zambia : zambia  
 zamek błyskawiczny : ziper  
 zamiłowanie (-filia) : filia  
@@ -2269,7 +2271,7 @@ zatrzymać : tinga
 zatrzymać się : tingu  
 zawias, oś : xarnir  
 zawsze : mey zaman  
-zawór; kran : balbe  
+zawór; kran : valve  
 zazdrosny : jelos  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad : marka  
 zbiornik (pojemnik, rezerwuar) : tanke  
@@ -2278,7 +2280,7 @@ zbiorowy, zbiorczy : jami
 zbudować, budować, konstruować : bina  
 zbyt : max ka bas  
 zbyt mało : min ka bas  
-zdanie, zwrot, wyrażenie : jumle  
+zdanie, zwrot, wyrażenie : fraze  
 zdjęcie, fotografia : fotograf  
 zdrada małżeńska, cudzołóstwo : zine  
 zebra : zebre  
@@ -2378,11 +2380,11 @@ zły, zrujnowany, zepsuty : harabi
 żel, galareta : jel  
 żelazo : fer  
 żeń-szeń : jenxen  
-życie : jiwe  
+życie : jive  
 żydowski : yehudi  
 żyrafa : jiraf  
 żywica : rezin  
-żywy, żyjący : jiwi  
-żyć : jiwa  
+żywy, żyjący : jivi  
+żyć : jiva  
 żółty : wang  
 żółw : tortuge  

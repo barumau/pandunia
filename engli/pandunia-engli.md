@@ -94,8 +94,8 @@ atom : atom
 auda : hear (listen)  
 australia : Australia  
 automoti : self-moving (automotive, automobile)  
-awakate : avocado  
-awar : damage (wreck)  
+avakate : avocado  
+avar : damage (wreck)  
 axur : Assur  
 axuria : Assyria  
 ay : ouch! (alas!)  
@@ -119,7 +119,6 @@ baha'istia : Baha'ism
 bahamia : Bahamas  
 bahrain : Bahrain  
 bal : strong  
-balbe : valve (tap, faucet)  
 balde : bucket  
 bale : force (strength)  
 balkon : balcony (porch)  
@@ -165,11 +164,12 @@ bax : language (communication)
 baxa : speak (communicate)  
 baxolojia : linguistics  
 bay : white  
+baya : buy (purchase)  
+bayer : buyer  
 bazar huristia : market liberalism  
 bazar : market (bazaar)  
 baze : base (foundation)  
 bazi : basic  
-be : without  
 beafrike : Central African Republic  
 bebe : baby (infant)  
 bede : bed  
@@ -352,7 +352,7 @@ darwinistia : Darwinism
 daw : way (road)  
 dawiste : Taoist  
 dawistia : Taoism (Daoism)  
-day : big (very, greatly)  
+day : big (greatly)  
 dayu : grow (get bigger)  
 deci : deci-  
 defta : register (record, log)  
@@ -373,6 +373,8 @@ den : day (daytime)
 denga : wait  
 des : ten (10)  
 desen : drawing (picture)  
+destin : destination (destiny, fate)  
+destina : destine (set)  
 detal : detail  
 dew : god (deity)  
 dewi sage : myth (divine story)  
@@ -566,6 +568,7 @@ fotografia : photography
 fransi polinesia : French Polynesia  
 fransia : France  
 fransium : francium  
+fraze : sentence (phrase)  
 fubu' : belly (abdomen)  
 fuga : return (restore, recover, resume)  
 fuka : wear clothes  
@@ -855,25 +858,23 @@ jibraltar : Gibraltar
 jibutia : Djibouti  
 jika : straighten  
 jiki : straight  
-jin : true (real, genuine)  
 jinse : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
-jiwa : live  
-jiwe : life  
-jiwi : alive (living)  
+jiva : live  
+jive : life  
+jivi : alive (living)  
 joke : joke  
 joker : joker  
 jong : species  
-jowan fem : girl  
-jowan man : boy  
-jowan : young  
-jowane : youth (young person)  
-jowania : youth (young age)  
+jovan fem : girl  
+jovan man : boy  
+jovan : young  
+jovane : youth (young person)  
+jovania : youth (young age)  
 judo : judo  
 jug : bamboo  
 jul : joule (J)  
-jumle : sentence (phrase)  
 jung : middle (center)  
 junga : center (concentrate)  
 jungogia : China  
@@ -884,7 +885,7 @@ juxa : inject
 juxe : injection  
 ##k  
 ka : compared to (as, than)  
-kababe : kebab  
+kababe : kebab (skewer meat)  
 kabaw : water buffalo  
 kabin : cabin (booth)  
 kace : glass  
@@ -987,7 +988,6 @@ kirgizia : Kyrgyzstan
 kiribatia : Kiribati  
 kirili abace : Cyrillic alphabet  
 kirisa : rent out (let, lease)  
-kisme : fate (destiny, kismet)  
 kitaba : write  
 kitabe : writing (text)  
 kitabia : library  
@@ -1047,7 +1047,8 @@ koron : crown
 korta : shorten  
 korti : short (brief)  
 kos : cough  
-kosmos : space (cosmos, universe)  
+kosmi : cosmic  
+kosmia : space (cosmos, universe)  
 kosta : cost  
 kostarikia : Costa Rica  
 koste : cost (price)  
@@ -1089,10 +1090,10 @@ kupol : dome
 kupon : coupon  
 kura : care (cure)  
 kuran : Quran (Koran)  
-kurbe : curve (bend)  
-kurbi : curvy (curved)  
 kurium : curium  
 kurse : chair  
+kurve : curve (bend)  
+kurvi : curvy (curved)  
 kusen : cushion (pillow)  
 kuwaitia : Kuwait  
 ##l  
@@ -1106,7 +1107,7 @@ lanca : throw (launch)
 langan : banister (handrail)  
 lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
-larwe : larva (maggot, caterpillar)  
+larve : larva (maggot, caterpillar)  
 lasti : elastic  
 lasun : garlic  
 latif : nice (pleasant, lovely)  
@@ -1285,8 +1286,10 @@ medika : heal (cure)
 mediker : doctor (physician, healer)  
 medikia : medicine (field of study)  
 medita : meditate (ponder)  
-mega : million (mega-)  
 megam : cloud  
+megi : million  
+mego- : mega-  
+megowate : megawat (MW)  
 mel : honey  
 melodi : melodious (melodic)  
 melodia : melody  
@@ -1301,8 +1304,8 @@ menter : advisor (counselor, mentor)
 mes 1 (mes un) : January  
 mes 10 (mes des) : October  
 mes 11 (mes des un) : November  
-mes 12 (mes des do) : December  
-mes 2 (mes do) : February  
+mes 12 (mes des dul) : December  
+mes 2 (mes dul) : February  
 mes 3 (mes sam) : March  
 mes 4 (mes car) : April  
 mes 5 (mes lim) : May  
@@ -1427,6 +1430,7 @@ muta : change (alter, convert)
 mux : mouse  
 muxing : Jupiter  
 ##n  
+na : without  
 nabe : prophecy  
 naber : prophet  
 naciste : Nazi  
@@ -1737,10 +1741,10 @@ protacinium : protactinium
 puding : pudding  
 puja : worship (revere)  
 puje : worship (reveration)  
-pul waze : vase (flower pot)  
 pul : flower  
 pula : blossom (bloom)  
 pulmon : lung  
+pulovaze : vase (flower pot)  
 pulte : bridge  
 punte : point (full stop)  
 pupe : doll (puppet)  
@@ -1976,8 +1980,8 @@ sistem : system
 sistemi : systemic  
 site : city (town)  
 skandium : scandium  
-slowakia : Slovakia  
-slowenia : Slovenia  
+slovakia : Slovakia  
+slovenia : Slovenia  
 soca : socialize (interact)  
 soci media : social media  
 soci : social  
@@ -2086,7 +2090,7 @@ tarjer : interpreter (translator)
 tas : dish  
 tatike : tactics (strategy)  
 tatu : tattoo  
-tawa : frying pan  
+tave : frying pan  
 tazi : fresh  
 te : you  
 tekne : technique (technology)  
@@ -2214,10 +2218,14 @@ uza : use (employ, apply)
 uzbekia : Uzbekistan  
 uzer : user  
 ##v  
+vaksin : vaccine  
+valve : valve (tap, faucet)  
+vanil : vanilla  
 vanuatu : Vanuatu  
 vatikan : Holy See (Vatican City State)  
 vaze : vase (pot, bin, jar, jug)  
 venesuela : Venezuela  
+veri : true (real, genuine, very)  
 vida : look (see)  
 vide : view (vision)  
 vidomaidan : visual field (field of vision)  
@@ -2242,11 +2250,9 @@ volte : volt (V)
 wada : promise (commit)  
 waf : dog  
 wakila : represent  
-waksin : vaccine  
 walis i futuna nesia : Wallis and Futuna Islands  
 wan : bowl (earless cup)  
 wang : yellow  
-wanil : vanilla  
 wanta : want (desire)  
 war 1 (war un) : Monday  
 war 2 (war du) : Tuesday  

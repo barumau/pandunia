@@ -94,8 +94,8 @@ atom : atom
 auda : usłyszeć, słyszeć; słuchać  
 australia : Australia  
 automoti : samobieżny  
-awakate : awokado  
-awar : uszkodzić, uszkadzać  
+avakate : awokado  
+avar : uszkodzić, uszkadzać  
 axur : Aszur  
 axuria : Asyria  
 ay : aj!, ał!  
@@ -119,7 +119,6 @@ baha'istia : bahaizm
 bahamia : Bahamy  
 bahrain : Bahrajn  
 bal : silny  
-balbe : zawór; kran  
 balde : wiadro  
 bale : siła  
 balkon : balkon; ganek  
@@ -169,7 +168,6 @@ bazar huristia : liberalizm rynkowy
 bazar : rynek, bazar  
 baze : podstawa, baza, fundament  
 bazi : bazowy, podstawowy  
-be : bez  
 beafrike : Republika Środkowoafrykańska  
 bebe : niemowlę  
 bede : łóżko  
@@ -372,6 +370,7 @@ den : dzień
 denga : czekać  
 des : dziesięć (10)  
 desen : rysunek, obraz  
+destin : przeznaczenie, los  
 detal : detal, szczegół  
 dew : bóg, bóstwo  
 dewi sage : mit, boska opowieść  
@@ -565,6 +564,7 @@ fotografia : fotografia
 fransi polinesia : Polinezja Francuska  
 fransia : Francja  
 fransium : frans  
+fraze : zdanie, zwrot, wyrażenie  
 fubu' : brzuch  
 fuga : wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuka : nosić ubrania  
@@ -757,7 +757,7 @@ huristia : liberalizm
 i : i, oraz  
 ia : przyrostek dla miejsca  
 ibri : hebrajski  
-ice : wanta, chęć  
+ice : wola, chęć  
 ide : idea, pomysł  
 idi : pojęciowy  
 impera : władać, panować, rządzić jako imperator  
@@ -854,25 +854,23 @@ jibraltar : Gibraltar
 jibutia : Dżibuti  
 jika : prosty  
 jiki : wyprostować, prostować  
-jin : prawdziwy (rzeczywisty, szczery)  
 jinse : płeć  
 jinsi : płciowy  
 jiraf : żyrafa  
-jiwa : żyć  
-jiwe : życie  
-jiwi : żywy, żyjący  
+jiva : żyć  
+jive : życie  
+jivi : żywy, żyjący  
 joke : żart  
 joker : żartowniś, dowcipniś  
 jong : gatunek  
-jowan fem : dziewczyna  
-jowan man : chłopak  
-jowan : młody  
-jowane : młodzież, młoda osoba  
-jowania : młodość  
+jovan fem : dziewczyna  
+jovan man : chłopak  
+jovan : młody  
+jovane : młodzież, młoda osoba  
+jovania : młodość  
 judo : judo  
 jug : bambus  
 jul : dżul (J)  
-jumle : zdanie, zwrot, wyrażenie  
 jung : środkowy, centralny  
 junga : centrować, skupić, skupiać  
 jungogia : Chiny  
@@ -986,7 +984,6 @@ kirgizia : Kirgistan
 kiribatia : Kiribati  
 kirili abace : cyrylica  
 kirisa : wynająć, oddać w najem  
-kisme : przeznaczenie, los  
 kitaba : napisać, pisać  
 kitabe : pismo, tekst  
 kitabia : biblioteka  
@@ -1046,7 +1043,8 @@ koron : korona
 korta : skrócić, skracać  
 korti : krótki  
 kos : kaszel; kaszlnięcie  
-kosmos : kosmos, wszechświat  
+kosmi : kosmiczny  
+kosmia : kosmos, wszechświat  
 kosta : kosztować  
 kostarikia : Kostaryka  
 koste : koszt, cena  
@@ -1088,10 +1086,10 @@ kupol : kopuła
 kupon : kupon  
 kura : pielęgnować, leczyć  
 kuran : Koran  
-kurbe : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
-kurbi : zakrzywiony  
 kurium : kiur  
 kurse : kszesło, fotel  
+kurve : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
+kurvi : zakrzywiony  
 kusen : poduszka  
 kuwaitia : Kuwejt  
 ##l  
@@ -1105,7 +1103,7 @@ lanca : rzucić, rzucać, miotać, cisnąć, ciskać
 langan : poręcz (balustrada)  
 lankia : Sri Lanka  
 lanten : latarnia  
-larwe : larwa, czerw, gąsienica  
+larve : larwa, czerw, gąsienica  
 lasti : elastyczny  
 lasun : larwa, czerw, gąsienica  
 latif : miły, przyjemny, uroczy  
@@ -1280,8 +1278,9 @@ medika : uleczyć, leczyć, uzdrowić, uzdrawiać
 mediker : doktor, lekarz, uzdrowiciel  
 medikia : medycyna  
 medita : medytować; dumać, rozmyślać, zastanawiać się  
-mega : milion, mega-  
 megam : chmura  
+megi : milion  
+mego- : mega-  
 mel : miód  
 melodi : melodyczny  
 melodia : melodia  
@@ -1296,8 +1295,8 @@ menter : doradca (mentor)
 mes 1 (mes un) : styczeń  
 mes 10 (mes des) : luty  
 mes 11 (mes des un) : marzec  
-mes 12 (mes des do) : kwiecień  
-mes 2 (mes do) : maj  
+mes 12 (mes des dul) : kwiecień  
+mes 2 (mes dul) : maj  
 mes 3 (mes sam) : czerwiec  
 mes 4 (mes car) : lipiec  
 mes 5 (mes lim) : sierpień  
@@ -1422,6 +1421,7 @@ muta : zmienić, zmieniać
 mux : mysz  
 muxing : Jupiter  
 ##n  
+na : bez  
 nabe : proroctwo  
 naber : prorok  
 naciste : nazista  
@@ -1729,10 +1729,10 @@ protacinium : protaktyn
 puding : puding  
 puja : czcić, szanować  
 puje : cześć, szacunek  
-pul waze : wazon; donica, doniczka  
 pul : kwiat  
 pula : kwitnąć, rozkwitnąć, rozkwitać  
 pulmon : płuco  
+pulovaze : wazon; donica, doniczka  
 pulte : most  
 punte : kropka (znak interpunkcyjny)  
 pupe : lalka, kukiełka, pacynka, marionetka  
@@ -1966,8 +1966,8 @@ sistem : system
 sistemi : systemowy  
 site : miast, miasteczko  
 skandium : skand  
-slowakia : Słowacja  
-slowenia : Słowenia  
+slovakia : Słowacja  
+slovenia : Słowenia  
 soca : socjalizować się  
 soci media : media społecznościowe  
 soci : społeczny  
@@ -2076,7 +2076,7 @@ tarjer : tłumacz
 tas : danie  
 tatike : taktyka, strategia  
 tatu : tatuaż  
-tawa : patelnia  
+tave : patelnia  
 tazi : świeży  
 te : ty, ciebie  
 tekne : technika, technologia  
@@ -2204,10 +2204,14 @@ uza : użyć, używać, zatrudnić, stosować
 uzbekia : Uzbekistan  
 uzer : użytkownik  
 ##v  
+vaksin : szczepionka  
+valve : zawór; kran  
+vanil : wanilia  
 vanuatu : Vanuatu  
 vatikan : Watykan, Państwo Watykańskie  
 vaze : waza, garnek, pojemnik, słoik, dzban  
 venesuela : Wenezuela  
+veri : prawdziwy (rzeczywisty, szczery)  
 vida : patrzeć, widzieć  
 vide : widok, wzrok  
 vidomaidan : pole widzenia  
@@ -2227,11 +2231,9 @@ volte : wolt (V)
 wada : obiecać, angażować się  
 waf : pies  
 wakila : reprezentować  
-waksin : szczepionka  
 walis i futuna nesia : Saint Vincent i Grenadyny  
 wan : misa, kubek bez ucha  
 wang : żółty  
-wanil : wanilia  
 wanta : chcieć, pragnąć  
 war 1 (war un) : poniedziałek  
 war 2 (war du) : wtorek  

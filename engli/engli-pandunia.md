@@ -36,7 +36,7 @@ alcoholic : alkoli
 alga : alge  
 algebra : jebria  
 Algeria : jayer  
-alive (living) : jiwi  
+alive (living) : jivi  
 all : pan  
 allophone : alofone  
 allow (permit) : permisa  
@@ -122,7 +122,7 @@ Australia : australia
 Austria : osteria  
 autocracy (monarchy) : monokratia  
 autumn (fall) : oton  
-avocado : awakate  
+avocado : avakate  
 awake : weki  
 aware (enlightened) : budi  
 axe (hatchet) : tabar  
@@ -215,7 +215,7 @@ beryllium : beril
 between : inter  
 Bhutan : butan  
 Bible : biblia  
-big (very, greatly) : day  
+big (greatly) : day  
 bike : sikle  
 bill (invoice) : bil  
 billion (giga-) : giga  
@@ -258,7 +258,7 @@ bottom : tal
 bow instrument (violin, etc.) : ticin  
 bowl (earless cup) : wan  
 box (chest) : sanduke  
-boy : jowan man  
+boy : jovan man  
 boycott : boikote  
 brain : serebre  
 branch (bough) : xake  
@@ -297,6 +297,8 @@ but (whereas) : a
 butter : makan  
 buttocks (butt) : pigu'  
 button : boton  
+buy (purchase) : baya  
+buyer : bayer  
 ##c  
 cabin (booth) : kabin  
 cadmium : kadomium  
@@ -483,6 +485,7 @@ copyright : kopohake
 corn (maize) : mais  
 corner (angle) : kon  
 correct (make right) : saha  
+cosmic : kosmi  
 cost (price) : koste  
 cost : kosta  
 Costa Rica : kostarikia  
@@ -515,8 +518,8 @@ cup : kupe
 cupboard (closet, cabinet, wardrobe) : almar  
 curium : kurium  
 curtain : parde  
-curve (bend) : kurbe  
-curvy (curved) : kurbi  
+curve (bend) : kurve  
+curvy (curved) : kurvi  
 cushion (pillow) : kusen  
 custom (tradition, practice, convention) : rasme  
 cut : kata  
@@ -526,7 +529,7 @@ Cyrillic alphabet : kirili abace
 Czech Republic : cehia  
 ##d  
 dagger : kanjar  
-damage (wreck) : awar  
+damage (wreck) : avar  
 danger (peril) : hatar  
 dangerous : hatari  
 dark (dim) : oskur  
@@ -540,7 +543,7 @@ day of the week : war
 dead (deceased) : morti  
 death : morte  
 debate (discuss) : lona  
-December : mes 12 (mes des do)  
+December : mes 12 (mes des dul)  
 deci- : deci  
 deed : fate  
 deed : fe  
@@ -559,6 +562,8 @@ descriptive : sifi
 desert : registan  
 desire (lust) : kam  
 despise (scorn) : paraya  
+destination (destiny, fate) : destin  
+destine (set) : destina  
 detail : detal  
 development : fajan  
 devil (Satan) : xatan  
@@ -716,13 +721,12 @@ fashion (trend) : faxon
 fashion (trend) : mode  
 fast (quick, rapid, speedy) : rapi  
 fat (grease) : fete  
-fate (destiny, kismet) : kisme  
 father : pape  
 fatty (greasy) : feti  
 fault (sin, blame, defect, guilt) : dox  
 fear (phobia) : fobia  
 feather : puru  
-February : mes 2 (mes do)  
+February : mes 2 (mes dul)  
 fee (fare, tariff, rate) : tarif  
 feel (sense by touch) : senta  
 feel : gama  
@@ -789,7 +793,7 @@ friendship : dostia
 from (since, because) : ya  
 frost : himorose  
 fruit : pal  
-frying pan : tawa  
+frying pan : tave  
 fuck (copulate) : coda  
 full : ful  
 fun (amusement) : fan  
@@ -828,7 +832,7 @@ gift : give
 ginger : inje  
 ginseng : jenxen  
 giraffe : jiraf  
-girl : jowan fem  
+girl : jovan fem  
 give : giva  
 give birth (procreate, generate) : jena  
 glass : kace  
@@ -1076,7 +1080,7 @@ Kannada : kannadi
 karaoke : karaoke  
 karate : karate  
 Kazakhstan : kazahia  
-kebab : kababe  
+kebab (skewer meat) : kababe  
 keeper (preserver) : hafizer  
 Kenya : kenia  
 ketchup : kecape  
@@ -1115,7 +1119,7 @@ lacquer (varnish) : lake
 lamp : lampe  
 language (communication) : bax  
 lantern : lanten  
-larva (maggot, caterpillar) : larwe  
+larva (maggot, caterpillar) : larve  
 last (final) : fini  
 last (take time, during) : dura  
 Latin alphabet : latini abace  
@@ -1152,7 +1156,7 @@ library : kitabia
 Libya : libia  
 lie (lie down) : lala  
 Liechtenstein : lixtenxtayn  
-life : jiwe  
+life : jive  
 light (bright) : nuri  
 light (illumination) : nur  
 like (enjoy, be fond of) : suku  
@@ -1169,7 +1173,7 @@ liter (litre) : litre
 lithium : litium  
 little (small; a little, somewhat) : lil  
 live (dwell, reside) : doma  
-live : jiwa  
+live : jiva  
 load (to charge) : lada  
 local : loki  
 locate (place) : loka  
@@ -1277,6 +1281,8 @@ medicine (field of study) : medikia
 meditate (ponder) : medita  
 meet : mita  
 meeting (gathering) : mite  
+mega- : mego-  
+megawat (MW) : megowate  
 meitnerium : maitnerium  
 melodious (melodic) : melodi  
 melody : melodia  
@@ -1300,7 +1306,7 @@ milk : milke
 miller : moler  
 milli- : milo-  
 millimeter : milometre  
-million (mega-) : mega  
+million : megi  
 mineral (ore) : kuang  
 mineral water : kuang suy  
 minimal : minimi  
@@ -1885,7 +1891,7 @@ send (emit, transmit) : misa
 sender (transmitter) : miser  
 Senegal : senegal  
 sense : sense  
-sentence (phrase) : jumle  
+sentence (phrase) : fraze  
 September : mes 9 (mes noy)  
 Serbia : serbia  
 series : serye  
@@ -1940,8 +1946,8 @@ skull : sar oste
 sky (heaven) : saman  
 sleep (be asleep) : sona  
 sleep : son  
-Slovakia : slowakia  
-Slovenia : slowenia  
+Slovakia : slovakia  
+Slovenia : slovenia  
 smoke : duman  
 smooth : lis  
 smoothen with a plane : randa  
@@ -1981,7 +1987,7 @@ south : sude
 South Africa : sudafrike  
 South Georgia and the South Sandwich Islands : sudi jorjia i sudi sanwice nesia  
 South Sudan : sudi sudan  
-space (cosmos, universe) : kosmos  
+space (cosmos, universe) : kosmia  
 Spain : espania  
 speak (communicate) : baxa  
 special (distinct) : has  
@@ -2214,7 +2220,7 @@ triangle : samokon
 tribe : tribe  
 Trinidad and Tobago : trinida i tobago  
 trouble (disturbance, bother) : mafan  
-true (real, genuine) : jin  
+true (real, genuine, very) : veri  
 trunk (torso) : torse  
 try (attempt) : proba  
 tube (pipe) : tube  
@@ -2261,13 +2267,13 @@ user : uzer
 Uzbekistan : uzbekia  
 ##v  
 vacation (holiday) : feria  
-vaccine : waksin  
+vaccine : vaksin  
 vacuum cleaner : funocuper  
 vagina : yone  
-valve (tap, faucet) : balbe  
-vanilla : wanil  
+valve (tap, faucet) : valve  
+vanilla : vanil  
 Vanuatu : vanuatu  
-vase (flower pot) : pul waze  
+vase (flower pot) : pulovaze  
 vase (pot, bin, jar, jug) : pote  
 vase (pot, bin, jar, jug) : vaze  
 vegetable : sabze  
@@ -2347,7 +2353,7 @@ winter : xite
 wisdom : sofia  
 wise : sofi  
 with (by, at, in, on) : sa  
-without : be  
+without : na  
 wolf : wolfe  
 woman (adult female) : matur fem  
 wood (timber) : moke  
@@ -2379,10 +2385,10 @@ yesterday : predi den
 yoga : yoge  
 you : te  
 you all : tote  
-young : jowan  
+young : jovan  
 your : ti  
-youth (young age) : jowania  
-youth (young person) : jowane  
+youth (young age) : jovania  
+youth (young person) : jovane  
 ytterbium : yuterbium  
 yttrium : yutrium  
 ##z  

@@ -50,13 +50,13 @@ fata_lekse_liste 8 suomi
 fata_lekse_liste 9 polski
 
 # cini i pandunia
-fata_lekse_liste 12 cini
+fata_lekse_liste 13 cini
 
 # rusi i pandunia
-fata_lekse_liste 13 rusi
+fata_lekse_liste 14 rusi
 
 # fransi i pandunia
-fata_lekse_liste 14 frans
+fata_lekse_liste 12 frans
 
 fata_lekse_asle
 
