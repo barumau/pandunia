@@ -85,6 +85,7 @@ kosmia : cosmos
 ##l  
 lova : aimer  
 ##m  
+maye : fourmi  
 ##n  
 ##o  
 ##p  
@@ -131,6 +132,7 @@ yesus : Jésus
 zardux : Zoroastre  
 zarduxiste : zoroastrien  
 zarduxistia : zoroastrisme  
+zeze : mouche  
 zombe : zombi  
 zulu' : zoulou  
 zumrude : émeraude  

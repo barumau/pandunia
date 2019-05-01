@@ -63,6 +63,7 @@ drapeau : bandir
 Europe : europe  
 européen : europi  
 ##f  
+fourmi : maye  
 frais : tazi  
 féliciter : barka  
 ##g  
@@ -81,6 +82,7 @@ lourd : bari
 ##m  
 machine à écrire : kitabomaxin  
 melon d'eau : arbuze  
+mouche : zeze  
 ##n  
 ##o  
 ordinateur : komputer  

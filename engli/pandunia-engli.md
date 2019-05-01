@@ -3,6 +3,7 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
+ : melt (liquidize)  
  : total (affecting all)  
  : whole (entire, all)  
 ##a  
@@ -187,8 +188,6 @@ benda : tie (fasten, bind)
 bende : band (tape, bandage)  
 benin : Benin  
 benzin : gasoline (petrol)  
-berande : veranda (balcony, terrace, porch)  
-berdi : green  
 bere : berry  
 berete : beret  
 beril : beryllium  
@@ -518,7 +517,7 @@ festa : celebrate (party)
 feste : party (celebration, festival)  
 fete : fat (grease)  
 feti : fatty (greasy)  
-feya : fly  
+feya : fly (go through air)  
 figur : figure (representation)  
 fijia : Fiji  
 fikra : think (ponder, reflect)  
@@ -1272,8 +1271,8 @@ maximi : maximal
 maxin : machine  
 maxor : major (not minor)  
 maxoria : majority  
-maya' : Maya  
-maya : melt (liquidize)  
+mayan : Maya  
+maye : ant  
 mayote : Mayotte  
 mayu : melt (get molten)  
 me : I (me)  
@@ -1866,7 +1865,6 @@ saba : cause (be the cause for)
 sabate : Sabbath  
 sabe : reason (cause)  
 sabun : soap  
-sabze : vegetable  
 sadi : plain (ordinary, unadorned, simple, mere)  
 safa : clean (purify)  
 safar : travel (voyage)  
@@ -1945,6 +1943,9 @@ serca : search
 serebre : brain  
 seres : Ceres (dwarf planet)  
 serpe : snake (serpent)  
+serva : serve (give service)  
+serve : service  
+server : servant  
 serye : series  
 sesam : sesame  
 set war : week  
@@ -2219,13 +2220,19 @@ uzbekia : Uzbekistan
 uzer : user  
 ##v  
 vaksin : vaccine  
+vale : valley  
 valve : valve (tap, faucet)  
 vanil : vanilla  
 vanuatu : Vanuatu  
 vatikan : Holy See (Vatican City State)  
 vaze : vase (pot, bin, jar, jug)  
+vejan : vegan  
+veje : vegetable  
 venesuela : Venezuela  
+verande : veranda (balcony, terrace, porch)  
+verdi : green  
 veri : true (real, genuine, very)  
+version : version (variation, edition)  
 vida : look (see)  
 vide : view (vision)  
 vidomaidan : visual field (field of vision)  
@@ -2244,8 +2251,11 @@ vize : visa
 vizita : visit  
 vizite : visitation (visit)  
 viziter : visitor (guest)  
-vodu : voodoo  
+vodun : voodoo  
 volte : volt (V)  
+vota : vote (cast a vote)  
+vote : vote (ballot)  
+votohake : franchise (right to vote)  
 ##w  
 wada : promise (commit)  
 waf : dog  
@@ -2390,6 +2400,7 @@ zebre : zebra
 zem : earth (ground)  
 zemia : Earth (Terra)  
 zemodow : peanut (groundnut)  
+zeze : fly (housefly)  
 ziba : plug (stop with a plug)  
 zibula : unplug (uncork)  
 zigzage : zigzag  

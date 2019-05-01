@@ -637,7 +637,7 @@ kastike (soosi) : sos
 kasvaa (suurentua) : dayu  
 kasvaa : rastu  
 kasvi : plante  
-kasvis : sabze  
+kasvis : veje  
 kasvot (naama) : muke  
 kasvu : raste  
 Katalonia : katalunia  
@@ -809,7 +809,7 @@ kruunu : koron
 kryptoni : kriton  
 ksenon : xenon  
 kuin : ka  
-kuisti (terassi, veranta) : berande  
+kuisti (terassi, veranta) : verande  
 kuitata : resida  
 kuitti (kuittaus) : reside  
 kuiva : gan  
@@ -890,6 +890,7 @@ kysyvä : eski
 kysyä : eska  
 kyynel : yenosuy  
 kärppä (fretti) : furete  
+kärpänen : zeze  
 kärry (vaunu, auto, jne) : kar  
 käsi : hande  
 käsi- : hani  
@@ -910,6 +911,7 @@ käännös (tulkinta) : tarje
 käärme : serpe  
 käärö : rul  
 ##l  
+laakso : vale  
 laatikko : sanduke  
 laatu (laadukkuus, erinomaisuus, hyvyys) : gun  
 laatu (ominaisuus, ominaispiirre, määrite) : sife  
@@ -1121,7 +1123,7 @@ mato : werme
 Mauritania : muritania  
 Mauritius : moris  
 mauste : masal  
-maya (mayaintiaani) : maya'  
+maya (mayaintiaani) : mayan  
 Mayotte : mayote  
 me : mome  
 media : media  
@@ -1225,6 +1227,7 @@ mutta : a
 muu (toinen) : ali  
 muumio : mumia  
 muunsukupuolinen : bis  
+muurahainen : maye  
 muusikko : musiker  
 muuttaa (muuntaa) : muta  
 Myanmar (Burma) : bama  
@@ -1420,6 +1423,9 @@ paljon (monta) : pol
 palladium : paladium  
 pallo : bol  
 palmu : palme  
+palvelija (tarjoilija) : server  
+palvella (tarjoilla) : serva  
+palvelu (palvelus) : serve  
 palvoa : puja  
 palvonta : puje  
 panaasialainen : panasi  
@@ -1850,7 +1856,7 @@ sukunimi : famil nam
 sukupuoli : jinse  
 sukupuoli- : jinsi  
 sulaa : mayu  
-sulattaa : maya  
+sulattaa :   
 sulka : puru  
 sulkea vetoketjulla : zipa  
 summa : sum  
@@ -2198,6 +2204,7 @@ vastustaja : anter
 Vatikaanivaltio : vatikan  
 vaurio : avar  
 vauva : bebe  
+vegaani : vejan  
 veitsi (puukko) : cake  
 vene (laiva) : bote  
 Venezuela : venesuela  
@@ -2207,6 +2214,7 @@ verbi (teonsana) : fati lekse
 verhot : parde  
 veri : sang  
 verkko : nete  
+versio : version  
 vertainen : par  
 vesi : suy  
 vesimeloni : arbuze  
@@ -2227,7 +2235,7 @@ Vietnam : vietnam
 viha (suuttumus, raivo) : furia  
 viha : hen  
 vihainen (suuttunut) : furi  
-vihreä : berdi  
+vihreä : verdi  
 viihdyttää (huvittaa) : fana  
 viikko : set war  
 viikonpäivä : war  
@@ -2268,7 +2276,7 @@ voipuu : karite
 voittaa (kukistaa) : wina  
 voitto : win  
 voltti (V) : volte  
-voodoo : vodu  
+voodoo : vodun  
 vuode (sänky, peti) : bede  
 vuodenaika : mosim  
 vuohi : buze  
@@ -2346,7 +2354,10 @@ zombi : zombe
 zulu : zulu'  
 äiti (emä) : mame  
 äsken (vasta, juuri) : gang  
+äänestää : vota  
+ääni (äänestyksessä) : vote  
 ääni : sonde  
+äänioikeus : votohake  
 äänne (foneemi) : foneme  
 äänne (fooni) : fone  
 ääntää : sonda  

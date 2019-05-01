@@ -150,8 +150,6 @@ bence : benko
 benda : ligi  
 bende : bandaĝo (vindo)  
 benzin : benzino  
-berande : verando  
-berdi : verda  
 berete : bereto  
 beril : berilio  
 berkelium : berkelio  
@@ -840,7 +838,8 @@ max ka bas : tro
 max : pli  
 maxim : plej  
 maxin : maŝino  
-maya' : majao  
+mayan : majao  
+maye : formiko  
 me : mi  
 medi : mezo  
 medika : sanigi (kuraci)  
@@ -1107,7 +1106,6 @@ sa ke : kie
 sa sabu : ĉar (pro ke)  
 sabe : kialo  
 sabun : sapo  
-sabze : legomo  
 safa : purigi  
 safar : vojaĝo  
 safara : vojaĝi  
@@ -1282,9 +1280,14 @@ urse : urso
 urse : urso  
 uza : uzi  
 ##v  
+vale : valo  
 valve : valvo (krano)  
 vaze : vazo  
+veje : legomo  
+verande : verando  
+verdi : verda  
 veri : vera  
+version : versio (toisinto)  
 vida : vidi (rigardi)  
 vin : vino  
 vis : vic-  
@@ -1368,6 +1371,7 @@ zay den : hodiaŭ
 zay : ĉeestanta (nuna, ekzistanta)  
 ze : si  
 zebre : zebro  
+zeze : muŝo  
 zine : malfideleco  
 zinke : zinko  
 ziran : kumino  

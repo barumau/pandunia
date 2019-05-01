@@ -128,6 +128,7 @@ zaman : период (эпоха)
 zambia : Замбия  
 zardux : Зороастр  
 zarduxiste : зороастризм  
+zeze : муха  
 zimbabwe : Зимбабве  
 zinke : цинк  
 ziran : тмин  

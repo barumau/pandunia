@@ -70,6 +70,7 @@ animate : anima
 animation (cartoon) : anime  
 anniversary : nen feste  
 answer (reply, response) : jawabe  
+ant : maye  
 Antarctica : antartia  
 antenna (aerial) : anten  
 anus : anus  
@@ -759,7 +760,8 @@ flatbread (chapati, roti) : rote
 floor : kamar tal  
 flower : pul  
 fluorine : flur  
-fly : feya  
+fly (go through air) : feya  
+fly (housefly) : zeze  
 focus (concentration) : fokus  
 follow (come after) : bada  
 food (meal) : nyam  
@@ -779,6 +781,7 @@ fountain (spring, well) : fonte
 four (4) : car  
 fox : hule  
 France : fransia  
+franchise (right to vote) : votohake  
 francium : fransium  
 free (liberate) : hura  
 free (unchained) : huri  
@@ -866,7 +869,7 @@ grave (tomb) : gabre
 graveyard : gabristan  
 Greece : helenia  
 Greek (Hellenic) : helen  
-green : berdi  
+green : verdi  
 greet : salama  
 greeting (hello) : salame  
 Grenada : grenada  
@@ -1266,7 +1269,7 @@ Mauritania : muritania
 Mauritius : moris  
 maximal : maximi  
 May : mes 5 (mes lim)  
-Maya : maya'  
+Maya : mayan  
 Mayotte : mayote  
 mean (cruel) : zalim  
 mean (medium, average) : medi  
@@ -1287,7 +1290,7 @@ meitnerium : maitnerium
 melodious (melodic) : melodi  
 melody : melodia  
 melt (get molten) : mayu  
-melt (liquidize) : maya  
+melt (liquidize) :   
 member (component) : member  
 memory (recollection) : yade  
 Mercury : budan  
@@ -1895,6 +1898,9 @@ sentence (phrase) : fraze
 September : mes 9 (mes noy)  
 Serbia : serbia  
 series : serye  
+servant : server  
+serve (give service) : serva  
+service : serve  
 sesame : sesam  
 seven (7) : set  
 sew : suta  
@@ -2270,16 +2276,19 @@ vacation (holiday) : feria
 vaccine : vaksin  
 vacuum cleaner : funocuper  
 vagina : yone  
+valley : vale  
 valve (tap, faucet) : valve  
 vanilla : vanil  
 Vanuatu : vanuatu  
 vase (flower pot) : pulovaze  
 vase (pot, bin, jar, jug) : pote  
 vase (pot, bin, jar, jug) : vaze  
-vegetable : sabze  
+vegan : vejan  
+vegetable : veje  
 Venezuela : venesuela  
-veranda (balcony, terrace, porch) : berande  
+veranda (balcony, terrace, porch) : verande  
 verb : fati lekse  
+version (variation, edition) : version  
 vice (deputy) : vis  
 vice-president : vis prezidente  
 victory (win) : win  
@@ -2298,7 +2307,9 @@ visitor (guest) : viziter
 visual field (field of vision) : vidomaidan  
 vocabulary (lexicon) : leksia  
 volt (V) : volte  
-voodoo : vodu  
+voodoo : vodun  
+vote (ballot) : vote  
+vote (cast a vote) : vota  
 ##w  
 wait : denga  
 wake (make awake) : weka  

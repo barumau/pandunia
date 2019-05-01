@@ -184,8 +184,6 @@ eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤
 ita:benda. swa:bendeji. spa:venda. fra:bande. eng:band. deu:Binde. rus:bul:kaz:kyr:бинт (bint). uzb:bint. hin:बाँधना (bāndhnā).			bende	:	band (tape, bandage)	bandaĝo (vindo)	nauha (side)	taśma; bandaż								
 	dex	BJ	benin	:	Benin		Benin	Benin								
 			benzin	:	gasoline (petrol)	benzino	bensiini (bensa)	benzyna								
-hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).			berande	:	veranda (balcony, terrace, porch)	verando	kuisti (terassi, veranta)	weranda, balkon, taras, ganek								
-spa:por:verde. fra:vert. eus:ceb:tgl:berde.			berdi	:	green	verda	vihreä	zielony								
 deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).			bere	:	berry		marja	jagoda	baya			浆果				
 fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).			berete	:	beret	bereto	baskeri (baretti)	beret								
 	made	Be	beril	:	beryllium	berilio	berylli	beryl								
@@ -511,7 +509,7 @@ spa:feria. por:féria. fra:férié. deu:Ferien. eng:fair.			feria	:	vacation (ho
 eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".			feste	:	party (celebration, festival)	festo	juhla	przyjęcie, święto, festiwal								
 swa:mafuta. rwa:mavuta. kon:mafuta.			fete	:	fat (grease)	graso	rasva (öljy)	tłuszcz								
 			feti	:	fatty (greasy)	grasa	rasvainen	tłusty								
-			feya	:	fly	flugi	lentää	latać, lecieć								
+			feya	:	fly (go through air)	flugi	lentää	latać, lecieć								
 			figur	:	figure (representation)	figuro	hahmo (figuuri)	figura, reprezentacja								
 	dex	FJ	fijia	:	Fiji		Fidži	Fidżi								
 			fikra	:	think (ponder, reflect)	pensi	ajatella (miettiä)	myśleć, dumać, rozmyślać, zastanawiać się, rozważać								
@@ -1078,10 +1076,10 @@ per:(koppe). ara:(qubba). tur:kubbe. ind:kubah. rus:купол (kupol). spa:cúp
 			kupon	:	coupon		kuponki	kupon								
 			kura	:	care (cure)		hoitaa (pitää huolta)	pielęgnować, leczyć								
 			kuran	:	Quran (Koran)		koraani	Koran								
-fra:courbe spa:por:curva. eng:curve. eus:kurba.			kurve	:	curve (bend)	kurbo	mutka (kurvi)	wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać								
-			kurvi	:	curvy (curved)		mutkikas	zakrzywiony								
 	made	Cm	kurium	:	curium	kuriumo	curium	kiur								
 			kurse	:	chair	seĝo	tuoli	kszesło, fotel								
+fra:courbe spa:por:curva. eng:curve. eus:kurba.			kurve	:	curve (bend)	kurbo	mutka (kurvi)	wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać								
+			kurvi	:	curvy (curved)		mutkikas	zakrzywiony								
 			kusen	:	cushion (pillow)		tyyny	poduszka								
 	dex	KW	kuwaitia	:	Kuwait		Kuwait	Kuwejt								
 per:urd:(lab). hin:लब (lab). uzb:lab. tgl:labi. spa:labio. por:lábio.			labe	:	lip	lipo	huuli	warga								
@@ -1258,8 +1256,8 @@ spa: mas. por: mais. eng: max-.			max	:	more	pli	enemmän	bardziej
 fra: machine. eng: machine. deu: Maschine. ind: mesin.			maxin	:	machine	maŝino	kone	maszyna								
 fra: majeur. eng: major. spa: mayor.			maxor	:	major (not minor)		enemmistö-	większościowy, wiodący, główny								
 spa: mayoría.			maxoria	:	majority		enemmistö	większość								
-			maya	:	melt (liquidize)		sulattaa	stopić, topić, czynić płynnym								
-			maya'	:	Maya	majao	maya (mayaintiaani)	Maya								
+			mayan	:	Maya	majao	maya (mayaintiaani)	Maya								
+zho:蚂蚁 (mǎyǐ). yue:螞蟻 (maa5 ngai5).			maye	:	ant	formiko	muurahainen		hormigo		fourmi	蚂蚁 				
 	dex	YT	mayote	:	Mayotte		Mayotte	Majotta								
 			mayu	:	melt (get molten)		sulaa	stopić się, topić się, stawać się płynnym								
 			me	:	I (me)	mi	minä	ja, mnie				我				
@@ -1847,7 +1845,6 @@ swa:na. lin:kon:na. rus:на (na).			sa	:	with (by, at, in, on)		kanssa (luona, 
 			sabate	:	Sabbath			szabat, szabas								
 kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).			sabe	:	reason (cause)	kialo	syy	powód, przyczyna								
 ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.			sabun	:	soap	sapo	saippua	mydło								
-per:urd:(sabzi). tur:sebze. hin:सब्ज़ी (sabzī). ben:সবজি (sôbji).			sabze	:	vegetable	legomo	kasvis	warzywo				蔬菜				
 tur:sade. per:(sāde). hin:सादा (sādā).			sadi	:	plain (ordinary, unadorned, simple, mere)		koruton (tavanomainen, pelkkä)	zwykły, zwyczajny, prosty								
 			safa	:	clean (purify)	purigi	puhdistaa (siivota)	wyczyścić, czyścić								
 ara:(safar). tur:sefer. swa:safari.			safar	:	travel (voyage)	vojaĝo	matka (reissu)	podróż								
@@ -1926,6 +1923,9 @@ eng:search. fra:chercher.			serca	:	search			szukać
 			serebre	:	brain	cerbo	aivot	mózg								
 			seres	:	Ceres (dwarf planet)	Cereso	Ceres	Ceres (planeta karłowata)								
 hin:सर्प "sarp". ben:সাপ "sap". tel:"sarpamu". fra:eng:serpent. spa:serpiente. + zho:蛇 "shé"			serpe	:	snake (serpent)	serpento	käärme	wąż								
+			serva	:	serve (give service)		palvella (tarjoilla)									
+eng:fra:service. por:serviço. rus:сервис (servis). tur:servis. hin:(sevâ).			serve	:	service		palvelu (palvelus)									
+			server	:	servant		palvelija (tarjoilija)									
 tur:seri. fra:série. spa:serie. rus:серия "seriya". eng:series. zho:系列 "xìliè". 			serye	:	series	serio	sarja	seria, szereg								
 tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).			sesam	:	sesame		seesami	sezam								
 			set	:	seven (7)	sep (7)	seitsemän (7)	siedem (7)								
@@ -2197,13 +2197,19 @@ eng:use. spa:usar. pol:używać.	coverb		uza	:	use (employ, apply)	uzi	käyttä�
 	dex	UZ	uzbekia	:	Uzbekistan		Uzbekistan	Uzbekistan								
 			uzer	:	user		käyttäjä	użytkownik								
 			vaksin	:	vaccine		rokote	szczepionka								
+por:vale. eng:valley. fra:vallée. spa:valle.			vale	:	valley	valo	laakso		valle	vale						
 eng:valve. spa:por:válvula. jpn:バルブ (barubu). kor:밸브 (baelbeu). tgl:balbula.			valve	:	valve (tap, faucet)	valvo (krano)	hana	zawór; kran								
 			vanil	:	vanilla		vanilja	wanilia								
 	dex	VU	vanuatu	:	Vanuatu		Vanuatu	Vanuatu								
 	dex	VA	vatikan	:	Holy See (Vatican City State)		Vatikaanivaltio	Watykan, Państwo Watykańskie								
 deu:eng:fra:vase. pol:waza. rus:ваза (vaza). tur:vazo. tkm:waza.			vaze	:	vase (pot, bin, jar, jug)	vazo	ruukku (maljakko, vaasi)	waza, garnek, pojemnik, słoik, dzban								
+			vejan	:	vegan		vegaani									
+eng:vegetable,veg. spa:vegetal.			veje	:	vegetable	legomo	kasvis	warzywo				蔬菜				
 	dex	VE	venesuela	:	Venezuela		Venezuela	Wenezuela			Venezuela					
+hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).			verande	:	veranda (balcony, terrace, porch)	verando	kuisti (terassi, veranta)	weranda, balkon, taras, ganek								
+spa:por:verde. fra:vert. eus:ceb:tgl:berde.			verdi	:	green	verda	vihreä	zielony								
 eng:very. ita:vero. spa:verdadero. por:verdadeiro. deu:wahr. fra:vrai.			veri	:	true (real, genuine, very)	vera	tosi (aito)	prawdziwy (rzeczywisty, szczery)								
+eng:fra:version. por:versão. rus:версия (versiya). ind:versi.			version	:	version (variation, edition)	versio (toisinto)	versio									
 rus:видеть (videt). ita:vedere. spa:por:ver. pol:widzieć. cze:vidět. ron:uita.			vida	:	look (see)	vidi (rigardi)	nähdä	patrzeć, widzieć				看				
 			vide	:	view (vision)		näkymä	widok, wzrok								
 			vidomaidan	:	visual field (field of vision)		näkökenttä	pole widzenia								
@@ -2222,8 +2228,11 @@ tur:vize. eng:visa. rus:виза (viza). hin:वीज़ा (vīzā).			vize	:
 			vizita	:	visit	vizito	vierailla	odwiedzić, odwiedzać								
 eng:visit. fra:visite. spa:por:visita. rus:визит (vizit).			vizite	:	visitation (visit)	viziti	vierailu (visiitti)	wizyta								
 			viziter	:	visitor (guest)	vizitanto	vierailija (vieras)	wizytant (gość)								
-			vodu	:	voodoo		voodoo	voodoo								
+ewe:vodun. hat:vodou. bra:vodum. eng:voodoo. fra:vaudou. spa:vudú.			vodun	:	voodoo		voodoo	voodoo								
 			volte	:	volt (V)		voltti (V)	wolt (V)								
+			vota	:	vote (cast a vote)		äänestää		votar	votar						
+eng:vote. spa:por:voto. hin:वोट (voṭ). rus:вотум (votum).			vote	:	vote (ballot)		ääni (äänestyksessä)		voto	voto						
+			votohake	:	franchise (right to vote)		äänioikeus									
 			wada	:	promise (commit)	promesi	luvata	obiecać, angażować się								
 			waf	:	dog		koira	pies								
 			wakila	:	represent		edustaa	reprezentować								
@@ -2364,6 +2373,7 @@ zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.			ze	:	self	si	itse	sam, sieb
 slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). per:urd:(zamīn). hin:ज़मीन (zamīn).			zem	:	earth (ground)		maa (maaperä)	ziemia, grunt, gleba								
 			zemia	:	Earth (Terra)		Maapallo	Ziemia								
 			zemodow	:	peanut (groundnut)		maapähkinä	orzech ziemny								
+tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.			zeze	:	fly (housefly)	muŝo	kärpänen		mosco		mouche		муха			
 swa:-ziba.			ziba	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać								
 			zibula	:	unplug (uncork)		korkata	odetkać, odtykać								
 			zigzage	:	zigzag		siksakki	zygzag								
@@ -2381,5 +2391,6 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zulu'	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+				:	melt (liquidize)		sulattaa	stopić, topić, czynić płynnym								
 				:	total (affecting all)		totaalinen (kaikkia koskeva)	totalny, ogólny								
 				:	whole (entire, all)		kaikki	cały, kompletny, całkowity								

@@ -4,6 +4,7 @@
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
  : kaikki  
+ : sulattaa  
  : totaalinen (kaikkia koskeva)  
 ##a  
 a : mutta  
@@ -185,8 +186,6 @@ benda : sitoa
 bende : nauha (side)  
 benin : Benin  
 benzin : bensiini (bensa)  
-berande : kuisti (terassi, veranta)  
-berdi : vihreä  
 bere : marja  
 berete : baskeri (baretti)  
 beril : berylli  
@@ -1266,8 +1265,8 @@ maximi : enimmäis-
 maxin : kone  
 maxor : enemmistö-  
 maxoria : enemmistö  
-maya' : maya (mayaintiaani)  
-maya : sulattaa  
+mayan : maya (mayaintiaani)  
+maye : muurahainen  
 mayote : Mayotte  
 mayu : sulaa  
 me : minä  
@@ -1851,7 +1850,6 @@ sa : kanssa (luona, -lla, -ssa)
 saba : aiheuttaa  
 sabe : syy  
 sabun : saippua  
-sabze : kasvis  
 sadi : koruton (tavanomainen, pelkkä)  
 safa : puhdistaa (siivota)  
 safar : matka (reissu)  
@@ -1917,6 +1915,9 @@ serbia : Serbia
 serebre : aivot  
 seres : Ceres  
 serpe : käärme  
+serva : palvella (tarjoilla)  
+serve : palvelu (palvelus)  
+server : palvelija (tarjoilija)  
 serye : sarja  
 sesam : seesami  
 set war : viikko  
@@ -2169,13 +2170,19 @@ uzbekia : Uzbekistan
 uzer : käyttäjä  
 ##v  
 vaksin : rokote  
+vale : laakso  
 valve : hana  
 vanil : vanilja  
 vanuatu : Vanuatu  
 vatikan : Vatikaanivaltio  
 vaze : ruukku (maljakko, vaasi)  
+vejan : vegaani  
+veje : kasvis  
 venesuela : Venezuela  
+verande : kuisti (terassi, veranta)  
+verdi : vihreä  
 veri : tosi (aito)  
+version : versio  
 vida : nähdä  
 vide : näkymä  
 vidomaidan : näkökenttä  
@@ -2193,8 +2200,11 @@ vize : viisumi
 vizita : vierailla  
 vizite : vierailu (visiitti)  
 viziter : vierailija (vieras)  
-vodu : voodoo  
+vodun : voodoo  
 volte : voltti (V)  
+vota : äänestää  
+vote : ääni (äänestyksessä)  
+votohake : äänioikeus  
 ##w  
 wada : luvata  
 waf : koira  
@@ -2337,6 +2347,7 @@ zebre : seepra
 zem : maa (maaperä)  
 zemia : Maapallo  
 zemodow : maapähkinä  
+zeze : kärpänen  
 ziba : korkittaa (tukkia)  
 zibula : korkata  
 zigzage : siksakki  

@@ -953,7 +953,7 @@ materialny : madi
 matka, mama : mame  
 Mauretania : muritania  
 Mauritius : moris  
-Maya : maya'  
+Maya : mayan  
 mały, mini- : mini  
 mały; mało, trochę, nieco : lil  
 małżeństwo, związek małżeński : maria  
@@ -1819,7 +1819,7 @@ stopa : pede
 stoper : sekundometer  
 stopień, poziom, ranga, klasa : darje  
 stopić się, topić się, stawać się płynnym : mayu  
-stopić, topić, czynić płynnym : maya  
+stopić, topić, czynić płynnym :   
 strach, fobia : fobia  
 strażnik więzienny : prizoner  
 strażnik, ochroniarz : garder  
@@ -2067,7 +2067,7 @@ użytkownik : uzer
 użyć, używać, zatrudnić, stosować : uza  
 ##v  
 Vanuatu : vanuatu  
-voodoo : vodu  
+voodoo : vodun  
 w przyszłości : wil  
 ##w  
 waga (ciężkość) : bar  
@@ -2082,7 +2082,7 @@ warga : labe
 warsztat szewski : sapateria  
 warsztat, pracownia; miejsce na ... : kan  
 warunek : xarte  
-warzywo : sabze  
+warzywo : veje  
 wat : wate  
 Watykan, Państwo Watykańskie : vatikan  
 waza, garnek, gar, doniczka, słoik, słój : pote  
@@ -2093,7 +2093,7 @@ ważny : importi
 wciąż, nadal : hay  
 wczoraj : predi den  
 Wenezuela : venesuela  
-weranda, balkon, taras, ganek : berande  
+weranda, balkon, taras, ganek : verande  
 wesoły, ucieszony : suki  
 wewnętrzny : indi  
 wewnętrzny : indi jeni  
@@ -2289,7 +2289,7 @@ zero, nic, żaden : nol
 zespół (drużyna, grupa) : bande  
 zewnętrzny : way  
 ziarno, nasienie : dan  
-zielony : berdi  
+zielony : verdi  
 Ziemia : zemia  
 ziemia, grunt, gleba : zem  
 ziemniak : patate  

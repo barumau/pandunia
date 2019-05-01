@@ -4,6 +4,7 @@
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
  : cały, kompletny, całkowity  
+ : stopić, topić, czynić płynnym  
  : totalny, ogólny  
 ##a  
 a : ale, lecz  
@@ -185,8 +186,6 @@ benda : związać, wiązać; zapiąć, zapinać
 bende : taśma; bandaż  
 benin : Benin  
 benzin : benzyna  
-berande : weranda, balkon, taras, ganek  
-berdi : zielony  
 bere : jagoda  
 berete : beret  
 beril : beryl  
@@ -1264,8 +1263,7 @@ maximi : maksymalny
 maxin : maszyna  
 maxor : większościowy, wiodący, główny  
 maxoria : większość  
-maya' : Maya  
-maya : stopić, topić, czynić płynnym  
+mayan : Maya  
 mayote : Majotta  
 mayu : stopić się, topić się, stawać się płynnym  
 me : ja, mnie  
@@ -1852,7 +1850,6 @@ saba : spowodować, powodować
 sabate : szabat, szabas  
 sabe : powód, przyczyna  
 sabun : mydło  
-sabze : warzywo  
 sadi : zwykły, zwyczajny, prosty  
 safa : wyczyścić, czyścić  
 safar : podróż  
@@ -2210,7 +2207,10 @@ vanil : wanilia
 vanuatu : Vanuatu  
 vatikan : Watykan, Państwo Watykańskie  
 vaze : waza, garnek, pojemnik, słoik, dzban  
+veje : warzywo  
 venesuela : Wenezuela  
+verande : weranda, balkon, taras, ganek  
+verdi : zielony  
 veri : prawdziwy (rzeczywisty, szczery)  
 vida : patrzeć, widzieć  
 vide : widok, wzrok  
@@ -2225,7 +2225,7 @@ virusolojia : wirusologia
 vizita : odwiedzić, odwiedzać  
 vizite : wizyta  
 viziter : wizytant (gość)  
-vodu : voodoo  
+vodun : voodoo  
 volte : wolt (V)  
 ##w  
 wada : obiecać, angażować się  

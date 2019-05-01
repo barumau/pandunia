@@ -99,6 +99,7 @@ lova : 爱
 mame : 妈妈  
 matur fem : 女人  
 matur man : 男人  
+maye : 蚂蚁   
 me : 我  
 mece : 比赛  
 mene : 意义  
@@ -119,7 +120,6 @@ plisa : 请
 pulte : 桥  
 ##r  
 ##s  
-sabze : 蔬菜  
 sol : 太阳  
 solosistem : 太阳系  
 supris : 惊奇  
@@ -145,6 +145,7 @@ tomate : 西红柿
 tote : 你们  
 ##u  
 ##v  
+veje : 蔬菜  
 vida : 看  
 ##w  
 wanta : 想要  

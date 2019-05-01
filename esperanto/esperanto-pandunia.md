@@ -359,6 +359,7 @@ fluoro : flur
 fojo : mar  
 forko : forke  
 formigi : forma  
+formiko : maye  
 formo : forme  
 forta : bal  
 forto : bale  
@@ -679,7 +680,7 @@ laŭrencio : laurensium
 leciono : darse  
 legi : duga  
 lego : kanun  
-legomo : sabze  
+legomo : veje  
 leono : sing  
 lernejo : darsia  
 lerni (studi) : darsa  
@@ -718,7 +719,7 @@ lutecio : lutetium
 ##m  
 magio : magia  
 magnezio : magnes  
-majao : maya'  
+majao : mayan  
 malamo : hen  
 malbona : mal  
 malbonaspekta : mal rupi  
@@ -827,6 +828,7 @@ muskolo : muskul
 muso : mux  
 muzikisto : musiker  
 muziko : musike  
+muŝo : zeze  
 ##n  
 nadlo (pinglo) : pin  
 najlo : ding  
@@ -1254,6 +1256,7 @@ utileco : faide
 uzi : uza  
 ##v  
 vagino : yone  
+valo : vale  
 valvo (krano) : valve  
 varma : garmi  
 vato : wate  
@@ -1266,9 +1269,10 @@ venti : fonga
 vento : fong  
 ventro : fubu'  
 vera : veri  
-verando : berande  
+verando : verande  
 verbo : fati lekse  
-verda : berdi  
+verda : verdi  
+versio (toisinto) : version  
 vespermanĝo : xam nyam  
 vespero : xam  
 vesti : fuka  
