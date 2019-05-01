@@ -2255,7 +2255,7 @@ wan : bowl (earless cup)
 wang : yellow  
 wanta : want (desire)  
 war 1 (war un) : Monday  
-war 2 (war du) : Tuesday  
+war 2 (war dul) : Tuesday  
 war 3 (war sam) : Wednesday  
 war 4 (war car) : Thursday  
 war 5 (war lim) : Friday  
