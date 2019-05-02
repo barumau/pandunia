@@ -4,8 +4,8 @@
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-sa pase law mam gurube hava sam lil gurube. a le ni hava bas nyam pa
-giva pa lole. sa den du lole bas law, le senda lole pa dunia pa
+sa pase law mam gurube ada sam lil gurube. a le ni ada bas nyam pa
+dona pa lole. sa den du lole bas law, le senda lole pa dunia pa
 lole serca zi kisme.
 
 gurube num un ni pol suku werke. le mey ni wanta werka i le bina ze

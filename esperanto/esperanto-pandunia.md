@@ -37,11 +37,11 @@ ambasadoro : daixer
 americio : amerikium  
 amerika : ameriki  
 Ameriko : amerike  
-ami (ŝati) : lova  
+ami (ŝati) : ama  
 amika : dosti  
 amikeco : dostia  
 amiko : doste  
-amo : love  
+amo : ame  
 ampero : amper  
 amuza : fani  
 amuzi : fana  
@@ -60,7 +60,7 @@ antaŭiri : preda
 anteno : anten  
 anusa : anusi  
 anuso : anus  
-aparteni : havu  
+aparteni : adu  
 araba : arabi  
 araneo : arane  
 araneofobio : aranofobia  
@@ -83,7 +83,7 @@ astmo : asme
 atako : atake  
 atendi : denga  
 atomo : atom  
-avokado : avakate  
+avokado : awakate  
 azeno : gade  
 azia : asi  
 Azio : asia  
@@ -153,7 +153,7 @@ bobelo : bubul
 bojkoto : boikote  
 boli : bulu  
 boligi : bula  
-Bolivio : bolivia  
+Bolivio : bolibia  
 bombo : bombe  
 bombono : kande  
 bona (en salutoj) : salam  
@@ -199,7 +199,7 @@ cezio : cesium
 citi : cita  
 citrono : limun  
 ##d  
-damaĝo : avar  
+damaĝo : awar  
 Danio : dania  
 danki : danka  
 danko : danke  
@@ -242,8 +242,8 @@ disvolvi : fajan
 dividi : fena  
 doktoro : dotor  
 dolaro : dolar  
-donaco : give  
-doni : giva  
+donaco : don  
+doni : dona  
 dormo : son  
 dormoĉambro : son kamar  
 dramo : drame  
@@ -437,7 +437,7 @@ hana : cini
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
-havanto : haver  
+havanto : ader  
 hazarda : zari  
 hazardo : zar  
 haŭto : pifu'  
@@ -523,9 +523,9 @@ jes (esti) : si
 Jesuo : yesus  
 jodo : iode  
 jogo : yoge  
-juna : jovan  
-juneco : jovania  
-junulo : jovane  
+juna : jowan  
+juneco : jowania  
+junulo : jowane  
 jupo : jupe  
 justa : adali  
 justeco : adalia  
@@ -588,8 +588,8 @@ kloni : klona
 klono : klon  
 kloro : klor  
 klubo : klube  
-knabino : jovan fem  
-knabo : jovan man  
+knabino : jowan fem  
+knabo : jowan man  
 kobalto : kobalte  
 kodo : kode  
 koko : koke  
@@ -642,7 +642,7 @@ kriptono : kriton
 kristnasko : kristojen  
 kristo : kriste  
 krizo : krize  
-Kroatio : horvatia  
+Kroatio : horwatia  
 krom (escepti) : cula  
 kromo : krom  
 krono : koron  
@@ -658,7 +658,7 @@ kulturo : kultur
 kumino : ziran  
 kupro : kuper  
 kuracisto : mediker  
-kurbo : kurve  
+kurbo : kurbe  
 kuriumo : kurium  
 kurteno : parde  
 kuŝi : lala  
@@ -673,14 +673,14 @@ lampo : lampe
 lando : dex  
 lanterno : lanten  
 lasta : fini  
-Latvio : latvia  
+Latvio : latwia  
 lavi : waxa  
 lavmaŝino : waxomaxin  
 laŭrencio : laurensium  
 leciono : darse  
 legi : duga  
 lego : kanun  
-legomo : veje  
+legomo : weje  
 leono : sing  
 lernejo : darsia  
 lerni (studi) : darsa  
@@ -818,7 +818,7 @@ morta : morti
 mortigi : morta  
 mortigisto : morter  
 morto : morte  
-moskovio : moskovium  
+moskovio : moskowium  
 motoro : moter  
 movo : mote  
 multe : pol  
@@ -868,7 +868,7 @@ nombro : num
 nomo : nam  
 norvega : norgi  
 Norvegio : norgia  
-nova : novi  
+nova : nowi  
 novaĵoj : habar  
 nudelo : mien  
 nur : mon  
@@ -922,7 +922,7 @@ parto (frakcio) : fen
 partopreni : parta  
 pasporto : pasporte  
 pastro : dinogur  
-pato : tave  
+pato : tawe  
 patrino : mame  
 patro : pape  
 peniso : penis  
@@ -1186,7 +1186,7 @@ tekniko : tekne
 teknologio : teknolojia  
 tekto : cate  
 telefono : telofon  
-televidilo : telovide  
+televidilo : telowide  
 teluro : telurium  
 temo : tem  
 tendo : tende  
@@ -1256,23 +1256,23 @@ utileco : faide
 uzi : uza  
 ##v  
 vagino : yone  
-valo : vale  
-valvo (krano) : valve  
+valo : wale  
+valvo (krano) : walwe  
 varma : garmi  
 vato : wate  
-vazo (florpoto) : pulovaze  
-vazo : vaze  
+vazo (florpoto) : pulowaze  
+vazo : waze  
 veni : laya  
 venki : wina  
 venko : win  
 venti : fonga  
 vento : fong  
 ventro : fubu'  
-vera : veri  
-verando : verande  
+vera : weri  
+verando : berande  
 verbo : fati lekse  
-verda : verdi  
-versio (toisinto) : version  
+verda : berdi  
+versio (toisinto) : wersion  
 vespermanĝo : xam nyam  
 vespero : xam  
 vesti : fuka  
@@ -1282,25 +1282,25 @@ vi (ci) : te
 vi ĉiu : tote  
 via (cia) : ti  
 viando : manse  
-vic- : vis  
-vidi (rigardi) : vida  
+vic- : wis  
+vidi (rigardi) : wida  
 vilaĝo : ruste  
 vinagro : sirke  
 vinbero : putaw  
-vino : vin  
+vino : wain  
 vintro : xite  
 violonĉelo : celo'  
 virino : matur fem  
 viro : man  
 viro : matur man  
 vitro : kace  
-viva : jivi  
-vivi : jiva  
-vivo : jive  
+viva : jiwi  
+vivi : jiwa  
+vivo : jiwe  
 vizaĝo : muke  
-vizitanto : viziter  
-viziti : vizite  
-vizito : vizita  
+vizitanto : wiziter  
+viziti : wizite  
+vizito : wizita  
 viŝilo : towal  
 vojaĝanto : safarer  
 vojaĝi : safara  

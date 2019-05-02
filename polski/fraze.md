@@ -354,20 +354,20 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 
 
-### hava <small>mieć</small>
+### ada <small>mieć</small>
 
-**me hava bon dom.**
+**me ada bon dom.**
 Mam dobry dom.
 
-**le ni hava pese.**
+**le ni ada pese.**
 Nie ma pieniędzy.
 
-**me wanta hava novi fon.**
+**me wanta ada novi fon.**
 Chcę mieć nowy telefon.
 
-**eska te hava bace?**
+**eska te ada bace?**
 Czy masz dzieci?
-**me hava dul bace.**
+**me ada dul bace.**
 Mam dwoje dzieci.
 
 
@@ -822,21 +822,21 @@ Czekam na ciebie w hotelu.
 ## Part 5. Załatwianie interesów
 
 
-### giva <small>dać</small>
+### dona <small>dać</small>
 
-**plisa giva pese.**
+**plisa dona pese.**
 Proszę, daj trochę pieniędzy.
 
-**plisa giva le pa me.**
+**plisa dona le pa me.**
 Proszę, daj mi to.
 
-**me giva ce pa te.**
+**me dona ce pa te.**
 Daję ci to.
 
-**me giva buke pa lole.**
+**me dona buke pa lole.**
 Daję im książkę.
 
-**le ni wanta giva le pa me.**
+**le ni wanta dona le pa me.**
 Nie chce dać mi tego.
 
 

@@ -3,9 +3,6 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
- : melt (liquidize)  
- : total (affecting all)  
- : whole (entire, all)  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -14,9 +11,13 @@ able : ability (skill)
 abli : possible (possibly, maybe, perhaphs)  
 acente : accent (stress)  
 acinium : actinium  
+ada : have (own, possess)  
 adali : just (fair)  
 adalia : justice  
+ade : property (belongings, possessions)  
+ader : owner (proprietor)  
 adres : address  
+adu : belong  
 adulte : adult  
 afgania : Afghanistan  
 afri : African  
@@ -38,7 +39,9 @@ alofone : allophone
 alojinsokami : heterosexual  
 altar : altar  
 alumin : aluminium  
+ama : love (to be in love with)  
 amari : Amhara (an Ethiopian ethnic group and language)  
+ame : love (liking, affection)  
 amen : agreement (amen)  
 amena : affirm (agree, concur)  
 amerike : America (continent)  
@@ -95,8 +98,8 @@ atom : atom
 auda : hear (listen)  
 australia : Australia  
 automoti : self-moving (automotive, automobile)  
-avakate : avocado  
-avar : damage (wreck)  
+awakate : avocado  
+awar : damage (wreck)  
 axur : Assur  
 axuria : Assyria  
 ay : ouch! (alas!)  
@@ -188,6 +191,8 @@ benda : tie (fasten, bind)
 bende : band (tape, bandage)  
 benin : Benin  
 benzin : gasoline (petrol)  
+berande : veranda (balcony, terrace, porch)  
+berdi : green  
 bere : berry  
 berete : beret  
 beril : beryllium  
@@ -221,7 +226,7 @@ boikote : boycott
 boke : mouth  
 bol : ball  
 bolgaria : Bulgaria  
-bolivia : Bolivia  
+bolibia : Bolivia  
 bombe : bomb  
 bon rupi : good-looking  
 bon zar : good luck  
@@ -234,7 +239,7 @@ bote kaper : privateer (buccaneer)
 bote : boat (ship)  
 botol : bottle  
 boton : button  
-brazavil kongolia : Congo (Brazzaville)  
+brazawil kongolia : Congo (Brazzaville)  
 brazilia : Brazil  
 britania : United Kingdom  
 brom : bromine  
@@ -396,6 +401,8 @@ dolar : dollar
 dom : home (residence)  
 doma : live (dwell, reside)  
 dominogem : dominoes  
+don : gift  
+dona : give  
 dong : east  
 doste : friend  
 dosti : friendly  
@@ -631,8 +638,6 @@ gim : gold
 gine bisau : Guinea-Bissau  
 gine : Guinea  
 gitar : guitar  
-giva : give  
-give : gift  
 giyan : French Guiana  
 glota : swallow  
 glute : glue  
@@ -702,10 +707,6 @@ hasium : hassium
 hatar : danger (peril)  
 hatari : dangerous  
 hati : even (intensifier)  
-hava : have (own, possess)  
-have : property (belongings, possessions)  
-haver : owner (proprietor)  
-havu : belong  
 hawe : air  
 hawobar : atmospheric pressure  
 hawobarometer : barometer  
@@ -744,7 +745,7 @@ honduras : Honduras
 hongong : Hong Kong, SAR China  
 hor : hour  
 hormon : hormone  
-horvatia : Croatia  
+horwatia : Croatia  
 hotel : hotel  
 hule : fox  
 hulu' : gourd (calabash)  
@@ -860,17 +861,17 @@ jiki : straight
 jinse : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
-jiva : live  
-jive : life  
-jivi : alive (living)  
+jiwa : live  
+jiwe : life  
+jiwi : alive (living)  
 joke : joke  
 joker : joker  
 jong : species  
-jovan fem : girl  
-jovan man : boy  
-jovan : young  
-jovane : youth (young person)  
-jovania : youth (young age)  
+jowan fem : girl  
+jowan man : boy  
+jowan : young  
+jowane : youth (young person)  
+jowania : youth (young age)  
 judo : judo  
 jug : bamboo  
 jul : joule (J)  
@@ -1089,10 +1090,10 @@ kupol : dome
 kupon : coupon  
 kura : care (cure)  
 kuran : Quran (Koran)  
+kurbe : curve (bend)  
+kurbi : curvy (curved)  
 kurium : curium  
 kurse : chair  
-kurve : curve (bend)  
-kurvi : curvy (curved)  
 kusen : cushion (pillow)  
 kuwaitia : Kuwait  
 ##l  
@@ -1106,12 +1107,12 @@ lanca : throw (launch)
 langan : banister (handrail)  
 lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
-larve : larva (maggot, caterpillar)  
+larwe : larva (maggot, caterpillar)  
 lasti : elastic  
 lasun : garlic  
 latif : nice (pleasant, lovely)  
 latini abace : Latin alphabet  
-latvia : Latvia  
+latwia : Latvia  
 laurensium : lawrencium  
 laxa : release (let, let go)  
 laya : come  
@@ -1174,8 +1175,6 @@ longe : length
 lose : screw  
 lote : batch (lot)  
 lote : lot (plot of land)  
-lova : love (to be in love with)  
-love : love (liking, affection)  
 lowa sang : bleed  
 lowa : leak  
 luksemburgia : Luxembourg  
@@ -1217,10 +1216,10 @@ malaisia : Malaysia
 malaria : malaria  
 malawia : Malawi  
 malayali : Malayali (Malayalam)  
+malbinas nesia : Falkland Islands (Malvinas)  
 malia : Mali  
 malike : jasmine  
 malte : Malta  
-malvina nesia : Falkland Islands (Malvinas)  
 mamal : mammal  
 mame : mother (mom)  
 man ban : son  
@@ -1369,7 +1368,7 @@ moge : ink
 moke : wood (timber)  
 mokojanger : carpenter  
 mola : grind (grind in mill)  
-moldovia : Moldova  
+moldowia : Moldova  
 moler : miller  
 molidenum : molybdenum  
 mome : we  
@@ -1395,7 +1394,7 @@ mortu : die
 mos : moss  
 mosim : season  
 moskite : mosquito  
-moskovium : moscovium  
+moskowium : moscovium  
 mote : motion (movement)  
 moter : engine (motor)  
 motokar : motorcar (automobile)  
@@ -1510,10 +1509,10 @@ noting : nothing
 notis : notice (notification)  
 notisa : notify  
 notobuke : notebook  
-nova : renew (make new, renovate)  
-novi kaledonia : New Caledonia  
-novi zilandia : New Zealand  
-novi : new (recent)  
+nowa : renew (make new, renovate)  
+nowi kaledonia : New Caledonia  
+nowi zilandia : New Zealand  
+nowi : new (recent)  
 nowon : nobody (no-one)  
 noy : nine (9)  
 nudi : naked (bare)  
@@ -1594,7 +1593,7 @@ papagay : parrot (parakeet)
 papay : papaya  
 pape : father  
 papir : paper  
-papua novi ginia : Papua New Guinea  
+papua nowi ginia : Papua New Guinea  
 par : equal (peer)  
 paraguay : Paraguay  
 paraya : despise (scorn)  
@@ -1743,7 +1742,7 @@ puje : worship (reveration)
 pul : flower  
 pula : blossom (bloom)  
 pulmon : lung  
-pulovaze : vase (flower pot)  
+pulowaze : vase (flower pot)  
 pulte : bridge  
 punte : point (full stop)  
 pupe : doll (puppet)  
@@ -1888,10 +1887,10 @@ salam xam : Good evening
 salam : good (in greetings)  
 salama : greet  
 salame : greeting (hello)  
+salbador : El Salvador  
 salima : surrender (to give up)  
 salone : Sierra Leone  
 salta : jump  
-salvador : El Salvador  
 sam : three (3)  
 saman : sky (heaven)  
 samani : celestial (heavenly)  
@@ -1943,9 +1942,9 @@ serca : search
 serebre : brain  
 seres : Ceres (dwarf planet)  
 serpe : snake (serpent)  
-serva : serve (give service)  
-serve : service  
-server : servant  
+serwa : serve (give service)  
+serwe : service  
+serwer : servant  
 serye : series  
 sesam : sesame  
 set war : week  
@@ -1981,8 +1980,8 @@ sistem : system
 sistemi : systemic  
 site : city (town)  
 skandium : scandium  
-slovakia : Slovakia  
-slovenia : Slovenia  
+slowakia : Slovakia  
+slowenia : Slovenia  
 soca : socialize (interact)  
 soci media : social media  
 soci : social  
@@ -2091,7 +2090,7 @@ tarjer : interpreter (translator)
 tas : dish  
 tatike : tactics (strategy)  
 tatu : tattoo  
-tave : frying pan  
+tawe : frying pan  
 tazi : fresh  
 te : you  
 tekne : technique (technology)  
@@ -2101,7 +2100,7 @@ teknolojia : technology (study of techniques)
 tel : far (distant)  
 tele : distance  
 telofon : telephone  
-telovide : television  
+telowide : television  
 telugi : Telugu  
 telurium : tellurium  
 tem : topic (subject, theme)  
@@ -2188,7 +2187,7 @@ turistia : tourism
 turki : Turkish  
 turkia : Turkey  
 turkmenia : Turkmenistan  
-tuvalu' : Tuvalu  
+tuwal : Tuvalu  
 tuze : rabbit (hare)  
 ##u  
 u : or  
@@ -2214,56 +2213,26 @@ urse : bear
 uruguay : Uruguay  
 usamerike : United States of America  
 usameriki samoa : American Samoa  
-usameriki virjin nesia : Virgin Islands, US  
+usameriki wirjin nesia : Virgin Islands, US  
 uza : use (employ, apply)  
 uzbekia : Uzbekistan  
 uzer : user  
 ##v  
-vaksin : vaccine  
-vale : valley  
-valve : valve (tap, faucet)  
-vanil : vanilla  
-vanuatu : Vanuatu  
-vatikan : Holy See (Vatican City State)  
-vaze : vase (pot, bin, jar, jug)  
-vejan : vegan  
-veje : vegetable  
-venesuela : Venezuela  
-verande : veranda (balcony, terrace, porch)  
-verdi : green  
-veri : true (real, genuine, very)  
-version : version (variation, edition)  
-vida : look (see)  
-vide : view (vision)  
-vidomaidan : visual field (field of vision)  
-vidu : be seen  
-vietnam : Viet Nam  
-vin : wine  
-vineria : winery  
-vinil : vinyl  
-vinsi i grenadin : Saint Vincent and Grenadines  
-virus : virus  
-virusolojia : virology  
-vis prezidente : vice-president  
-vis : vice (deputy)  
-visa : substitute  
-vize : visa  
-vizita : visit  
-vizite : visitation (visit)  
-viziter : visitor (guest)  
-vodun : voodoo  
-volte : volt (V)  
-vota : vote (cast a vote)  
-vote : vote (ballot)  
-votohake : franchise (right to vote)  
 ##w  
 wada : promise (commit)  
 waf : dog  
+wain : wine  
+waineria : winery  
 wakila : represent  
+waksin : vaccine  
+wale : valley  
 walis i futuna nesia : Wallis and Futuna Islands  
+walwe : valve (tap, faucet)  
 wan : bowl (earless cup)  
 wang : yellow  
+wanil : vanilla  
 wanta : want (desire)  
+wanuatu : Vanuatu  
 war 1 (war un) : Monday  
 war 2 (war du) : Tuesday  
 war 3 (war sam) : Wednesday  
@@ -2276,6 +2245,7 @@ waris : heritage (legacy, bequest)
 warke : leaf (sheet)  
 wase : oasis  
 wate : watt  
+watikan : Holy See (Vatican City State)  
 waw : wow! (gee!)  
 waxa : wash  
 waxomaxin : washing machine  
@@ -2283,14 +2253,25 @@ way dexi : foreign
 way dexia : foreign country  
 way : outer (external)  
 waye : outside (exterior)  
+waze : vase (pot, bin, jar, jug)  
+wejan : vegan  
+weje : vegetable  
 weka : wake (make awake)  
 weki : awake  
+wenesuela : Venezuela  
+weri : true (real, genuine, very, indeed)  
 werka : work  
 werke : work (job, task)  
 werker : worker  
 werme : worm  
+wersion : version (variation, edition)  
 weste : west  
 westi : western  
+wida : look (see)  
+wide : view (vision)  
+widomaidan : visual field (field of vision)  
+widu : be seen  
+wietnam : Viet Nam  
 wiki : wiki  
 wil : will (in future)  
 wildi : wild (savage)  
@@ -2300,7 +2281,23 @@ wimanokaper : plane hijacker
 win : victory (win)  
 wina : win (defeat)  
 wing : wing  
+winil : vinyl  
+winsi i grenadin : Saint Vincent and Grenadines  
+wirus : virus  
+wirusolojia : virology  
+wis prezidente : vice-president  
+wis : vice (deputy)  
+wisa : substitute  
+wize : visa  
+wizita : visit  
+wizite : visitation (visit)  
+wiziter : visitor (guest)  
+wodun : voodoo  
 wolfe : wolf  
+wolte : volt (V)  
+wota : vote (cast a vote)  
+wote : vote (ballot)  
+wotohake : franchise (right to vote)  
 ##x  
 xakal : jackal  
 xake : branch (bough)  

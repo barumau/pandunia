@@ -17,7 +17,7 @@ Perussäännöt
 7. Passiivisessa lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
     - esim. **meze pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
-    - esim. **me plisa te giva pese.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **me plisa te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Puhutko sinä panduniaa?
     - **me plisa te loga ming.** →  **plisa loga ming.** = Pyydän, puhu selvästi.

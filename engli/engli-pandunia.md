@@ -36,7 +36,7 @@ alcoholic : alkoli
 alga : alge  
 algebra : jebria  
 Algeria : jayer  
-alive (living) : jivi  
+alive (living) : jiwi  
 all : pan  
 allophone : alofone  
 allow (permit) : permisa  
@@ -123,7 +123,7 @@ Australia : australia
 Austria : osteria  
 autocracy (monarchy) : monokratia  
 autumn (fall) : oton  
-avocado : avakate  
+avocado : awakate  
 awake : weki  
 aware (enlightened) : budi  
 axe (hatchet) : tabar  
@@ -178,7 +178,7 @@ be about (discuss as a subject) : tema
 be against : kontra  
 be born : jenu  
 be called (be named) : namu  
-be seen : vidu  
+be seen : widu  
 bean or pea (legume) : dow  
 bear : urse  
 bear : urse  
@@ -204,7 +204,7 @@ believe : xina
 Belize : belizia  
 belly (abdomen) : fubu'  
 belong (be a member) : memba  
-belong : havu  
+belong : adu  
 belt (zone) : zon  
 bench : bence  
 Benin : benin  
@@ -243,7 +243,7 @@ bohrium : borium
 boil (be boiled) : bulu  
 boil (cook) : bula  
 bold letter : gros harfe  
-Bolivia : bolivia  
+Bolivia : bolibia  
 bomb : bombe  
 bon appetit! : salam nyam  
 bone : oste  
@@ -259,7 +259,7 @@ bottom : tal
 bow instrument (violin, etc.) : ticin  
 bowl (earless cup) : wan  
 box (chest) : sanduke  
-boy : jovan man  
+boy : jowan man  
 boycott : boikote  
 brain : serebre  
 branch (bough) : xake  
@@ -461,7 +461,7 @@ condition (requirement) : xarte
 cone : konus  
 Confucianism : konfuzistia  
 Confucious : konfuze  
-Congo (Brazzaville) : brazavil kongolia  
+Congo (Brazzaville) : brazawil kongolia  
 Congo Kinshasa : kinsasa kongolia  
 Congolese : kongoli  
 congratulate (bless) : barka  
@@ -505,7 +505,7 @@ criminal : krimi
 crisis : krize  
 critic : pipinger  
 critical (pertaining to crisis) : krizi  
-Croatia : horvatia  
+Croatia : horwatia  
 cross : krus  
 crown : koron  
 cry (shout) : krita  
@@ -519,8 +519,8 @@ cup : kupe
 cupboard (closet, cabinet, wardrobe) : almar  
 curium : kurium  
 curtain : parde  
-curve (bend) : kurve  
-curvy (curved) : kurvi  
+curve (bend) : kurbe  
+curvy (curved) : kurbi  
 cushion (pillow) : kusen  
 custom (tradition, practice, convention) : rasme  
 cut : kata  
@@ -530,7 +530,7 @@ Cyrillic alphabet : kirili abace
 Czech Republic : cehia  
 ##d  
 dagger : kanjar  
-damage (wreck) : avar  
+damage (wreck) : awar  
 danger (peril) : hatar  
 dangerous : hatari  
 dark (dim) : oskur  
@@ -638,7 +638,7 @@ Egypt : misria
 Egyptian : misri  
 eight (8) : bat  
 einsteinium : ainstainium  
-El Salvador : salvador  
+El Salvador : salbador  
 elastic : lasti  
 electric : eletri  
 electricity : eletre  
@@ -703,7 +703,7 @@ face : muke
 face powder : mukofun  
 factory : fateria  
 fairy : peri  
-Falkland Islands (Malvinas) : malvina nesia  
+Falkland Islands (Malvinas) : malbinas nesia  
 fall : padu  
 false (fake) : falsi  
 family : famil  
@@ -781,7 +781,7 @@ fountain (spring, well) : fonte
 four (4) : car  
 fox : hule  
 France : fransia  
-franchise (right to vote) : votohake  
+franchise (right to vote) : wotohake  
 francium : fransium  
 free (liberate) : hura  
 free (unchained) : huri  
@@ -796,7 +796,7 @@ friendship : dostia
 from (since, because) : ya  
 frost : himorose  
 fruit : pal  
-frying pan : tave  
+frying pan : tawe  
 fuck (copulate) : coda  
 full : ful  
 fun (amusement) : fan  
@@ -831,12 +831,12 @@ getter (receiver, recipient) : geter
 Ghana : gania  
 ghost (fantom) : fantom  
 Gibraltar : jibraltar  
-gift : give  
+gift : don  
 ginger : inje  
 ginseng : jenxen  
 giraffe : jiraf  
-girl : jovan fem  
-give : giva  
+girl : jowan fem  
+give : dona  
 give birth (procreate, generate) : jena  
 glass : kace  
 global (concerning the whole world) : panoduni  
@@ -869,7 +869,7 @@ grave (tomb) : gabre
 graveyard : gabristan  
 Greece : helenia  
 Greek (Hellenic) : helen  
-green : verdi  
+green : berdi  
 greet : salama  
 greeting (hello) : salame  
 Grenada : grenada  
@@ -914,7 +914,7 @@ harness : maju'
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
-have (own, possess) : hava  
+have (own, possess) : ada  
 have sex : seksa  
 hazard (chance) : zar  
 he or she or it : le  
@@ -956,7 +956,7 @@ holder (container) : tener
 hole : kong  
 holmium : holmium  
 holy (sacred) : santi  
-Holy See (Vatican City State) : vatikan  
+Holy See (Vatican City State) : watikan  
 home (residence) : dom  
 homosexual : sem jinse kami  
 Honduras : honduras  
@@ -1122,11 +1122,11 @@ lacquer (varnish) : lake
 lamp : lampe  
 language (communication) : bax  
 lantern : lanten  
-larva (maggot, caterpillar) : larve  
+larva (maggot, caterpillar) : larwe  
 last (final) : fini  
 last (take time, during) : dura  
 Latin alphabet : latini abace  
-Latvia : latvia  
+Latvia : latwia  
 laugh : haha  
 law : kanun  
 lawrencium : laurensium  
@@ -1159,7 +1159,7 @@ library : kitabia
 Libya : libia  
 lie (lie down) : lala  
 Liechtenstein : lixtenxtayn  
-life : jive  
+life : jiwe  
 light (bright) : nuri  
 light (illumination) : nur  
 like (enjoy, be fond of) : suku  
@@ -1176,7 +1176,7 @@ liter (litre) : litre
 lithium : litium  
 little (small; a little, somewhat) : lil  
 live (dwell, reside) : doma  
-live : jiva  
+live : jiwa  
 load (to charge) : lada  
 local : loki  
 locate (place) : loka  
@@ -1184,12 +1184,12 @@ logbook : deftobuke
 logic (deduction) : logike  
 logophile (word buff) : logofiler  
 long (lengthy) : long  
-look (see) : vida  
+look (see) : wida  
 lose (fail to win) : luza  
 loser : luzer  
 lot (plot of land) : lote  
-love (liking, affection) : love  
-love (to be in love with) : lova  
+love (liking, affection) : ame  
+love (to be in love with) : ama  
 love romantically : romansa  
 lower : nici  
 luggage (baggage) : bagaje  
@@ -1290,7 +1290,6 @@ meitnerium : maitnerium
 melodious (melodic) : melodi  
 melody : melodia  
 melt (get molten) : mayu  
-melt (liquidize) :   
 member (component) : member  
 memory (recollection) : yade  
 Mercury : budan  
@@ -1325,7 +1324,7 @@ mission (transmission, emission) : misia
 mix (blend) : mixa  
 mixer (blender) : mixer  
 model (design) : model  
-Moldova : moldovia  
+Moldova : moldowia  
 mole (burrowing animal) : krote  
 molybdenum : molidenum  
 Monaco : monako  
@@ -1348,7 +1347,7 @@ morning (dawn) : sube
 Morocco : magribia  
 morph : morfe  
 morpheme : morfem  
-moscovium : moskovium  
+moscovium : moskowium  
 mosquito : moskite  
 moss : mos  
 most (maximally) : maxim  
@@ -1406,9 +1405,9 @@ neptunium : neptunium
 net : nete  
 Netherlands : nederlandia  
 Netherlands Antilles : nederlandi antilia  
-new (recent) : novi  
-New Caledonia : novi kaledonia  
-New Zealand : novi zilandia  
+new (recent) : nowi  
+New Caledonia : nowi kaledonia  
+New Zealand : nowi zilandia  
 news : habar  
 newspaper (gazette) : habarobaw  
 newton (N) : nuton  
@@ -1506,7 +1505,7 @@ outer (external) : way
 outside (exterior) : waye  
 overpass : supre  
 own (particle of possession) : du  
-owner (proprietor) : haver  
+owner (proprietor) : ader  
 oxygen : okse  
 ##p  
 pack (package) : pake  
@@ -1535,7 +1534,7 @@ pantheon : panodewia
 pants (trousers) : pantalon  
 papaya : papay  
 paper : papir  
-Papua New Guinea : papua novi ginia  
+Papua New Guinea : papua nowi ginia  
 Paraguay : paraguay  
 park (garden) : parke  
 parrot (parakeet) : papagay  
@@ -1708,7 +1707,7 @@ project (planned endeavour) : proje
 promethium : prometium  
 promise (commit) : wada  
 proof (evidence, proof, demonstration, testimony) : dalil  
-property (belongings, possessions) : have  
+property (belongings, possessions) : ade  
 prophecy : nabe  
 prophet : naber  
 proponent (supporter, activist, -ist) : iste  
@@ -1771,7 +1770,7 @@ release (let, let go) : laxa
 religion (worship) : din  
 remain (stay) : restu  
 remember (recall) : yada  
-renew (make new, renovate) : nova  
+renew (make new, renovate) : nowa  
 rent (hire, lease) : kire  
 rent out (let, lease) : kirisa  
 repair (fix) : xula  
@@ -1854,7 +1853,7 @@ saffron : zafran
 Saint Helena : santi helena  
 Saint John's Day : yohan feste  
 Saint Lucia : santi lusia  
-Saint Vincent and Grenadines : vinsi i grenadin  
+Saint Vincent and Grenadines : winsi i grenadin  
 salad : salade  
 salt : sal  
 samarium : samarium  
@@ -1898,9 +1897,9 @@ sentence (phrase) : fraze
 September : mes 9 (mes noy)  
 Serbia : serbia  
 series : serye  
-servant : server  
-serve (give service) : serva  
-service : serve  
+servant : serwer  
+serve (give service) : serwa  
+service : serwe  
 sesame : sesam  
 seven (7) : set  
 sew : suta  
@@ -1952,8 +1951,8 @@ skull : sar oste
 sky (heaven) : saman  
 sleep (be asleep) : sona  
 sleep : son  
-Slovakia : slovakia  
-Slovenia : slovenia  
+Slovakia : slowakia  
+Slovenia : slowenia  
 smoke : duman  
 smooth : lis  
 smoothen with a plane : randa  
@@ -2042,7 +2041,7 @@ strontium : estrontium
 student (pupil, learner) : darser  
 studio : estudia  
 submission (surrender) : islam  
-substitute : visa  
+substitute : wisa  
 subway (metro) : tunel tren  
 suck : cupa  
 Sudan : sudan  
@@ -2130,7 +2129,7 @@ technique (technology) : tekne
 technocracy : teknokratia  
 technology (study of techniques) : teknolojia  
 telephone : telofon  
-television : telovide  
+television : telowide  
 tell (narrate) : saga  
 tellurium : telurium  
 Telugu : telugi  
@@ -2203,7 +2202,6 @@ top (peak, pinnacle, summit, apex, vertex) : pike
 top (spinning top) : tolo  
 topic (subject, theme) : tem  
 torch : baton nur  
-total (affecting all) :   
 touch : toca  
 tour (trip) : tur  
 tourism : turistia  
@@ -2226,7 +2224,7 @@ triangle : samokon
 tribe : tribe  
 Trinidad and Tobago : trinida i tobago  
 trouble (disturbance, bother) : mafan  
-true (real, genuine, very) : veri  
+true (real, genuine, very, indeed) : weri  
 trunk (torso) : torse  
 try (attempt) : proba  
 tube (pipe) : tube  
@@ -2241,7 +2239,7 @@ Turkey : turkia
 Turkish : turki  
 Turkmenistan : turkmenia  
 turtle (tortoise) : tortuge  
-Tuvalu : tuvalu'  
+Tuvalu : tuwal  
 two (2) : dul  
 typewriter : kitabomaxin  
 tyranny : tirania  
@@ -2273,43 +2271,43 @@ user : uzer
 Uzbekistan : uzbekia  
 ##v  
 vacation (holiday) : feria  
-vaccine : vaksin  
+vaccine : waksin  
 vacuum cleaner : funocuper  
 vagina : yone  
-valley : vale  
-valve (tap, faucet) : valve  
-vanilla : vanil  
-Vanuatu : vanuatu  
-vase (flower pot) : pulovaze  
+valley : wale  
+valve (tap, faucet) : walwe  
+vanilla : wanil  
+Vanuatu : wanuatu  
+vase (flower pot) : pulowaze  
 vase (pot, bin, jar, jug) : pote  
-vase (pot, bin, jar, jug) : vaze  
-vegan : vejan  
-vegetable : veje  
-Venezuela : venesuela  
-veranda (balcony, terrace, porch) : verande  
+vase (pot, bin, jar, jug) : waze  
+vegan : wejan  
+vegetable : weje  
+Venezuela : wenesuela  
+veranda (balcony, terrace, porch) : berande  
 verb : fati lekse  
-version (variation, edition) : version  
-vice (deputy) : vis  
-vice-president : vis prezidente  
+version (variation, edition) : wersion  
+vice (deputy) : wis  
+vice-president : wis prezidente  
 victory (win) : win  
-Viet Nam : vietnam  
-view (vision) : vide  
+Viet Nam : wietnam  
+view (vision) : wide  
 village : ruste  
 vinegar : sirke  
-vinyl : vinil  
-Virgin Islands, US : usameriki virjin nesia  
-virology : virusolojia  
-virus : virus  
-visa : vize  
-visit : vizita  
-visitation (visit) : vizite  
-visitor (guest) : viziter  
-visual field (field of vision) : vidomaidan  
+vinyl : winil  
+Virgin Islands, US : usameriki wirjin nesia  
+virology : wirusolojia  
+virus : wirus  
+visa : wize  
+visit : wizita  
+visitation (visit) : wizite  
+visitor (guest) : wiziter  
+visual field (field of vision) : widomaidan  
 vocabulary (lexicon) : leksia  
-volt (V) : volte  
-voodoo : vodun  
-vote (ballot) : vote  
-vote (cast a vote) : vota  
+volt (V) : wolte  
+voodoo : wodun  
+vote (ballot) : wote  
+vote (cast a vote) : wota  
 ##w  
 wait : denga  
 wake (make awake) : weka  
@@ -2348,7 +2346,6 @@ where : sa ke
 which? : ki  
 white : bay  
 who? : ki ren  
-whole (entire, all) :   
 wide (broad) : kuan  
 wiki : wiki  
 wild (savage) : wildi  
@@ -2357,8 +2354,8 @@ will (volition, desire) : ice
 win (defeat) : wina  
 wind : fong  
 window : janel  
-wine : vin  
-winery : vineria  
+wine : wain  
+winery : waineria  
 wing : wing  
 winter : xite  
 wisdom : sofia  
@@ -2396,10 +2393,10 @@ yesterday : predi den
 yoga : yoge  
 you : te  
 you all : tote  
-young : jovan  
+young : jowan  
 your : ti  
-youth (young age) : jovania  
-youth (young person) : jovane  
+youth (young age) : jowania  
+youth (young person) : jowane  
 ytterbium : yuterbium  
 yttrium : yutrium  
 ##z  

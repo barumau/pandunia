@@ -1,9 +1,11 @@
 ##a  
 abace : алфавит  
 acente : ударение  
+ada : иметь  
 adali : справедливый  
 adalia : справедливость  
 adres : адрес  
+adu : принадлежать  
 adulte : взрослый  
 ajil : подвижный  
 akse : ось  
@@ -13,6 +15,7 @@ alkol : алкоголь
 almar : шкаф  
 almas : алмаз (бриллиант)  
 altar : алтарь  
+ama : любить  
 amen : согласие  
 analis : анализ  
 analisa : анализировать  
@@ -59,8 +62,6 @@ destin : судьба
 ##h  
 habar : новости  
 hali : пустой  
-hava : иметь  
-havu : принадлежать  
 hazin : сокровище (казна)  
 ##i  
 ##j  
@@ -77,7 +78,6 @@ koron : корона
 kosmi : космический  
 kosmia : космос  
 ##l  
-lova : любить  
 ##m  
 ##n  
 ##o  
@@ -92,7 +92,7 @@ tas : блюдо (таз)
 tazi : свежий  
 teknolojia : технология  
 telofon : телефон  
-telovide : телевизор  
+telowide : телевизор  
 tem : тема  
 tende : палатка (шатёр)  
 tepe : лента  
@@ -107,12 +107,12 @@ toca : касаться
 tomate : помидор (томат)  
 ##u  
 ##v  
-virus : вирус  
-virusolojia : вирусология  
 ##w  
 waw : вау!  
 waxa : мыть  
 waxomaxin : стиральная машина  
+wirus : вирус  
+wirusolojia : вирусология  
 ##x  
 ##y  
 ya : из (от)  

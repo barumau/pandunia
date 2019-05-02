@@ -368,20 +368,20 @@ lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām", thai: นา�
 
 
 
-### hava <small>olla, omistaa</small>
+### ada <small>olla, omistaa</small>
 
-**me hava bon dom.**
+**me ada bon dom.**
 Minulla on hyvä talo.
 
-**le ni hava pese.**
+**le ni ada pese.**
 Hänellä ei ole rahaa.
 
-**me wanta hava novi fon.**
+**me wanta ada novi fon.**
 Minä haluan saada uuden puhelimen.
 
-**eska te hava bace?**
+**eska te ada bace?**
 Onko sinulla lapsia?
-**me hava dul bace.**
+**me ada dul bace.**
 Minulla on kaksi lasta.
 
 

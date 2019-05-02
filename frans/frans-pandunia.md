@@ -8,7 +8,7 @@ adulte : adulte
 africain : afri  
 Afrique : afria  
 agile : ajil  
-aimer : lova  
+aimer : ama  
 aire (superficie) : are  
 alcool : alkol  
 algue : alge  
@@ -20,7 +20,7 @@ analyser : analisa
 animation : anime  
 antenne : anten  
 anus : anus  
-appartenir à : havu  
+appartenir à : adu  
 appliquer : aplika  
 araignée : arane  
 arbre : arbe  
@@ -35,7 +35,7 @@ asthme : asme
 attaque : atake  
 autel : altar  
 autre : ali  
-avoir : hava  
+avoir : ada  
 axe : akse  
 ##b  
 bagage : bagaje  
@@ -113,12 +113,12 @@ touriste : turiste
 traduction : tarje  
 Tunisie : tunisia  
 téléphone : telofon  
-téléviseur : telovide  
+téléviseur : telowide  
 ##u  
 uranium : uranium  
 ##v  
-Venezuela : venesuela  
-virus : virus  
+Venezuela : wenesuela  
+virus : wirus  
 ##w  
 ##x  
 ##y  

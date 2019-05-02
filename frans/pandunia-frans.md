@@ -1,9 +1,11 @@
 ##a  
 abace : alphabet  
 acente : accent  
+ada : avoir  
 adali : juste  
 adalia : justice  
 adres : adresse  
+adu : appartenir à  
 adulte : adulte  
 afri : africain  
 afria : Afrique  
@@ -15,6 +17,7 @@ alkol : alcool
 almar : placard  
 almas : diamant  
 altar : autel  
+ama : aimer  
 amen : accord  
 amerike : Amérique  
 ameriki : américain  
@@ -69,8 +72,6 @@ europi : européen
 ##f  
 ##g  
 ##h  
-hava : avoir  
-havu : appartenir à  
 ##i  
 ##j  
 ##k  
@@ -83,7 +84,6 @@ koron : couronne
 kosmi : cosmique  
 kosmia : cosmos  
 ##l  
-lova : aimer  
 ##m  
 maye : fourmi  
 ##n  
@@ -100,7 +100,7 @@ tazi : frais
 tekne : technique  
 teknolojia : technologie  
 telofon : téléphone  
-telovide : téléviseur  
+telowide : téléviseur  
 tem : sujet (thème)  
 tende : tente  
 tepe : ruban (bande)  
@@ -119,10 +119,10 @@ tuze : lapin, lièvre
 ##u  
 uranium : uranium  
 ##v  
-venesuela : Venezuela  
-virus : virus  
 ##w  
 weki : éveillé  
+wenesuela : Venezuela  
+wirus : virus  
 wolfe : loup  
 ##x  
 xing : étoile  

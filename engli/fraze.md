@@ -351,20 +351,20 @@ I'm called Thomas.
 Name, English: name.</small>
 
 
-### hava <small>have</small>
+### ada <small>have</small>
 
-**me hava bon dom.**
+**me ada bon dom.**
 I have a good house.
 
-**le ni hava pese.**
+**le ni ada pese.**
 He/she doesn't have money.
 
-**me wanta hava novi fon.**
+**me wanta ada novi fon.**
 I want to have a new phone.
 
-**eska te hava bace?**
+**eska te ada bace?**
 Do you have children?  
-**me hava dul bace.**
+**me ada dul bace.**
 I have two children.
 
 
@@ -861,21 +861,21 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-### giva <small>give</small>
+### dona <small>give</small>
 
-**plisa giva pese.**
+**plisa dona pese.**
 Please give some money.
 
-**plisa giva le pa me.**
+**plisa dona le pa me.**
 Please give it to me.
 
-**me giva ce pa te.**
+**me dona ce pa te.**
 I give this to you.
 
-**me giva buke pa lole.**
+**me dona buke pa lole.**
 I give a book to them.
 
-**le ni wanta giva le pa me.**
+**le ni wanta dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -908,7 +908,7 @@ I want to take a car for rent.
 **me wanta kirokapa un kar.**
 I want to rent a car.
 
-**le kirogiva kamar pa safarer.**
+**le kirodona kamar pa safarer.**
 He/she rents rooms to travelers.
 
 
@@ -920,7 +920,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**lole mai giva pan.**
+**lole mai dona pan.**
 They sell everything.
 
 **me mai kap un bir.**

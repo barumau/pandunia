@@ -256,9 +256,9 @@ for making polite requests.
 
 **plisa sida.**
 = Please be seated.  
-**plisa giva kafe.**
+**plisa dona kafe.**
 = Please give me some coffee.  
-**plisa giva cay.**
+**plisa dona cay.**
 = Please give me some tea.  
 **plisa nyama cay.**
 = Please have some tea.  
@@ -268,7 +268,7 @@ for making polite requests.
 Commands are introduced with **orda** = to command. They employ the
 same pivot structure as requests with **plisa**.
 
-**orda giva cay.**
+**orda dona cay.**
 = Give (me) some tea!  
 **orda safa kamar.**
 = Clean the room!
@@ -344,7 +344,7 @@ Yes or no questions
 = Would he like to have soup?  
 ☺: **ni nyama.**
 = No.  
-☻: **danke. me giva un cay i un kafe i un supe sa bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade du des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -483,13 +483,13 @@ may result depending on the location of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**le ni hava maw.**
+**le ni ada maw.**
 = She doesn't have a cat.  
-**le hava ni maw, a waf.**
+**le ada ni maw, a waf.**
 = She has no cats but dogs.  
-**ni le, a me hava maw.**
+**ni le, a me ada maw.**
 = Not she but I have cats.  
-**me hava ni un, a dul maw.**
+**me ada ni un, a dul maw.**
 = I have not one but two cats.
 
 
@@ -523,9 +523,9 @@ is more than one correct answer.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni hava waf i maw. / le hava ni waf i ni maw.
+4. le ni ada waf i maw. / le ada ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame hava ni waf a dul maw.
+6. mame ada ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -677,11 +677,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me pas hava un maw.**
+**me pas ada un maw.**
 = I had a cat in the past.  
 **le bon maw.**
 = It was a good cat.  
-**me hava un waf zay.**
+**me ada un waf zay.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -716,7 +716,7 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. mi xefe festa sa wile.
-2. me hava dul waf sa pase.
+2. me ada dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.

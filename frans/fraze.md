@@ -852,21 +852,21 @@ Je t’attends à l’hôtel.
 ## 5e partie : Faire des affaires
 
 
-### giva <small>donner</small>
+### dona <small>donner</small>
 
-**plisa giva pese.**
+**plisa dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**plisa giva le pa me.**
+**plisa dona le pa me.**
 Donne-le moi, s’il te plait.
 
-**me giva ce pa te.**
+**me dona ce pa te.**
 Je te donne ceci.
 
-**me giva buke pa lole.**
+**me dona buke pa lole.**
 Je leur donne un livre.
 
-**le ni wanta giva le pa me.**
+**le ni wanta dona le pa me.**
 Il/elle ne veut pas me le donner.
 
 
@@ -886,7 +886,7 @@ tu as déjà eu de l’argent de ma part.
 **me wanta kirokapa un kar.**
 Je veux louer une voiture.
 
-**le kirogiva kamar pa safarer.**
+**le kirodona kamar pa safarer.**
 Il/elle loue des chambres à les voyageures.
 
 <!--

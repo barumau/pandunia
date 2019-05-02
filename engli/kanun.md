@@ -51,7 +51,7 @@ These are the 11 basic rules of Pandunia language.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me plisa te giva pese.** = I ask you to give money.
+    - ex. **me plisa te dona pese.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
@@ -786,16 +786,16 @@ if needed. The general time words are **pas** (past), **zay**
 (present) and **wil** (future, upcoming). They function like
 adjectives and adverbs, so typically their place is before the verb.
 
-**me pas hava maw.** - I had cats.
-**a me ni zay hava maw.** - But I now don't have cats.
-**munkin me wil hava maw.** - Maybe I will have cats.
+**me pas ada maw.** - I had cats.
+**a me ni zay ada maw.** - But I now don't have cats.
+**munkin me wil ada maw.** - Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the
 past) etc.
 
-**me hava maw sa pase.** - I had cats in the past.  
-**a me ni hava maw sa zaye.** - But I don't have cats at present.  
-**munkin me hava maw sa wile.** - Maybe I will have cats in the future.
+**me ada maw sa pase.** - I had cats in the past.  
+**a me ni ada maw sa zaye.** - But I don't have cats at present.  
+**munkin me ada maw sa wile.** - Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated. So the verb **hava** stayed the same in
 all tenses in the examples above.

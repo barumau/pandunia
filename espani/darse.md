@@ -225,9 +225,9 @@ utilizado para hacer peticiones corteses.
 
 **plisa sida.**
 = Por favor sientese.  
-**plisa giva kafe.**
+**plisa dona kafe.**
 = Por favor me da un poco de café.  
-**plisa giva cay.**
+**plisa dona cay.**
 = Por favor me da un poco de té.  
 **plisa nyama cay.**
 = Por favor tiene algo de té.  
@@ -236,7 +236,7 @@ utilizado para hacer peticiones corteses.
 
 Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
 
-> **orda giva cay.**
+> **orda dona cay.**
 = ¡Deme un poco de té!
 > **orda safa kamar.**
 = ¡Limpie la habitación!
@@ -307,7 +307,7 @@ Preguntas de Sí o No
 = ¿Él quiere tomar sopa?  
 ☺: **ni nyama.**
 = No.  
-☻: **danke. me giva un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -431,13 +431,13 @@ del verbo convertimos una oración afirmativa en negativa.
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**le ni hava maw.**
+**le ni ada maw.**
 = Ella no tiene gato.  
-**le hava ni maw, a waf.**
+**le ada ni maw, a waf.**
 = Ella no tiene gatos sino perros.  
-**ni le, a me hava maw.**
+**ni le, a me ada maw.**
 = Ella no, pero yo tengo gato.  
-**me hava ni un, a dul maw.**
+**me ada ni un, a dul maw.**
 = Yo no tengo un gato sino dos gatos.  
 
 
@@ -470,9 +470,9 @@ Intenta traducir las oraciones de Español a Pandunia.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni hava waf i maw. / le hava ni waf i ni maw.
+4. le ni ada waf i maw. / le ada ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame hava ni waf a dul maw.
+6. mame ada ni waf a dul maw.
 
 
 ---------------------------------------------------------------------
@@ -513,11 +513,11 @@ tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
 que todavía se está hablando en el mismo tiempo.
 
 
-**me pas hava un maw.**
+**me pas ada un maw.**
 = Yo tuve un gato en el pasado.  
 **le bon maw.**
 = Ella fue una buena gata.  
-**me hava un waf zay.**
+**me ada un waf zay.**
 = Yo tengo un perro en el momento.
 
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
@@ -576,7 +576,7 @@ Intenta traducir de Español a Pandunia.
 ### Respuestas
 
 1. mi xefe festa sa wile.
-2. me hava dul waf sa pase.
+2. me ada dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.
@@ -601,7 +601,7 @@ específica la relación entre la modificadora y la modificada. La
 relación se puede especificar mediante la adición de una palabra con
 mayor sentido.
 
-**me hava ya kar**
+**me ada ya kar**
 = mi carro (el carro que yo tengo)  
 **mi yang ya kar**
 = automóvil de mi tipo  
@@ -702,7 +702,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. me wanta giva kafe pa xefe.
+1. me wanta dona kafe pa xefe.
 2. eska te wanta nyama suy?
 3. le ni wanta safa zi kamar.
 

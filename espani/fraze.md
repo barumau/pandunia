@@ -355,20 +355,20 @@ Yo me llamo Tomás.
 Name, inglés: name.</small>
 
 
-### hava <small>tener</small>
+### ada <small>tener</small>
 
-**me hava bon dom.**
+**me ada bon dom.**
 Tengo una buena casa.
 
-**le ni hava pese.**
+**le ni ada pese.**
 Él/ella no tiene dinero.
 
-**me wanta hava novi fon.**
+**me wanta ada novi fon.**
 Yo quiero tener un teléfono nuevo.
 
-**eska te hava bace?**
+**eska te ada bace?**
 ¿Tienes niños?  
-**me hava dul bace.**
+**me ada dul bace.**
 Tengo dos niños.
 
 
@@ -794,21 +794,21 @@ Te espero en el hotel.
 
 ## Parte 5: Negocios
 
-### giva <small>dar</small>
+### dona <small>dar</small>
 
-**plisa giva pese.**
+**plisa dona pese.**
 Por favor da dinero.
 
-**plisa giva le pa me.**
+**plisa dona le pa me.**
 Por favor dame eso.
 
-**me giva ce pa te.**
+**me dona ce pa te.**
 Te doy esto.
 
-**me giva buke pa lole.**
+**me dona buke pa lole.**
 Le doy un libro a ellos/as.
 
-**le ni wanta giva le pa me.**
+**le ni wanta dona le pa me.**
 Él/ella no quiere darme eso.
 
 ### kapa <small>tomar (de agarrar, sujetar)</small>
@@ -831,7 +831,7 @@ Voy a tomar una cerveza.
 **me wanta kirokapa un kar.**
 Quiero rentar un auto.
 
-**ye kirogiva kamar to safarer.**
+**ye kirodona kamar to safarer.**
 Él/ella vende haplisaciones a los viajeros.
 <!--
 
@@ -841,7 +841,7 @@ Ayuda: Comprar y vender son palabras compuestas: **mai dar**
 significa _vender_ y **mai kap**
 significa _ comprar_.
 
-**lole mai giva pan.**
+**lole mai dona pan.**
 Ellos/as vender todo.
 
 **me mai kap un bir.**

@@ -13,7 +13,9 @@ acente : akcento
 acinium : aktinio  
 adali : justa  
 adalia : justeco  
+ader : havanto  
 adres : adreso  
+adu : aparteni  
 adulte : plenaĝa  
 afri : afrika  
 afria : Afriko  
@@ -31,6 +33,8 @@ almas : diamanto
 alojinsokami : samseksema  
 altar : altaro  
 alumin : aluminio  
+ama : ami (ŝati)  
+ame : amo  
 amen : interkonsento (amen)  
 amena : aserti (konsenti)  
 amerike : Ameriko  
@@ -77,8 +81,8 @@ atom : atomo
 auda : aŭdi (aŭskulti)  
 australia : Aŭstralio  
 automoti : memmova  
-avakate : avokado  
-avar : damaĝo  
+awakate : avokado  
+awar : damaĝo  
 ay : alas!  
 ##b  
 babe : ĉapitro  
@@ -150,6 +154,8 @@ bence : benko
 benda : ligi  
 bende : bandaĝo (vindo)  
 benzin : benzino  
+berande : verando  
+berdi : verda  
 berete : bereto  
 beril : berilio  
 berkelium : berkelio  
@@ -175,7 +181,7 @@ boikote : bojkoto
 boke : buŝo  
 bol : pilko  
 bolgaria : Bulgario  
-bolivia : Bolivio  
+bolibia : Bolivio  
 bombe : bombo  
 bon rupi : bonaspekta  
 bon : bona  
@@ -305,6 +311,8 @@ disprosium : disprozio
 dolar : dolaro  
 dom : hejmo (loĝejo)  
 doma : loĝi  
+don : donaco  
+dona : doni  
 dong : oriento  
 doste : amiko  
 dosti : amika  
@@ -490,8 +498,6 @@ gida : stiri
 giga : miliardo (giga-)  
 gim : oro  
 gitar : gitaro  
-giva : doni  
-give : donaco  
 glota : gluti  
 glute : gluo  
 gluten : gluteno  
@@ -547,8 +553,6 @@ hasium : hasio
 hatar : danĝero  
 hatari : danĝera  
 hati : eĉ  
-haver : havanto  
-havu : aparteni  
 hawe : aero  
 hay : ankoraŭ  
 hazin : trezoro  
@@ -581,7 +585,7 @@ hon : cent
 honduras : Honduro  
 hor : horo  
 hormon : hormono  
-horvatia : Kroatio  
+horwatia : Kroatio  
 hotel : hotelo  
 hule : vulpo  
 hura : liberigi  
@@ -647,14 +651,14 @@ jentil : bonkora
 jenu : naski  
 jinse : genro  
 jiraf : ĝirafo  
-jiva : vivi  
-jive : vivo  
-jivi : viva  
-jovan fem : knabino  
-jovan man : knabo  
-jovan : juna  
-jovane : junulo  
-jovania : juneco  
+jiwa : vivi  
+jiwe : vivo  
+jiwi : viva  
+jowan fem : knabino  
+jowan man : knabo  
+jowan : juna  
+jowane : junulo  
+jowania : juneco  
 judo : ĵudo  
 jug : bambuo  
 jung : centro  
@@ -765,16 +769,16 @@ kul : bonega (mojosa)
 kultur : kulturo  
 kupe : taso  
 kuper : kupro  
+kurbe : kurbo  
 kurium : kuriumo  
 kurse : seĝo  
-kurve : kurbo  
 ##l  
 labe : lipo  
 laje : rubo  
 lala : kuŝi  
 lampe : lampo  
 lanten : lanterno  
-latvia : Latvio  
+latwia : Latvio  
 laurensium : laŭrencio  
 laya : veni  
 le : li aŭ ŝi aŭ ĝi  
@@ -799,8 +803,6 @@ loke : loko
 loki : loka  
 lole : ili  
 long : longa  
-lova : ami (ŝati)  
-love : amo  
 lowa sang : sangi  
 lowa : liki  
 lun : luno  
@@ -899,7 +901,7 @@ morte : morto
 morter : mortigisto  
 morti : morta  
 mosim : sezono  
-moskovium : moskovio  
+moskowium : moskovio  
 mote : movo  
 moter : motoro  
 muke : vizaĝo  
@@ -956,7 +958,7 @@ norgi : norvega
 norgia : Norvegio  
 nota : rimarki  
 notobuke : kajero  
-novi : nova  
+nowi : nova  
 num : nombro  
 nur : lumo  
 nuri : luma  
@@ -1051,7 +1053,7 @@ prometium : prometio
 protacinium : protaktinio  
 pul : floro  
 pulmon : pulmo  
-pulovaze : vazo (florpoto)  
+pulowaze : vazo (florpoto)  
 pulte : ponto  
 punte : punkto  
 puran : malnova  
@@ -1214,7 +1216,7 @@ tarje : traduko
 tarjer : tradukisto  
 tas : plado  
 tatu : tatuo  
-tave : pato  
+tawe : pato  
 tazi : freŝa  
 te : vi (ci)  
 tekne : tekniko  
@@ -1223,7 +1225,7 @@ teknolojia : teknologio
 tel : malproksima  
 tele : malproksimeco  
 telofon : telefono  
-telovide : televidilo  
+telowide : televidilo  
 telurium : teluro  
 tem : temo  
 tema : esti pri; pridiskuti  
@@ -1280,22 +1282,11 @@ urse : urso
 urse : urso  
 uza : uzi  
 ##v  
-vale : valo  
-valve : valvo (krano)  
-vaze : vazo  
-veje : legomo  
-verande : verando  
-verdi : verda  
-veri : vera  
-version : versio (toisinto)  
-vida : vidi (rigardi)  
-vin : vino  
-vis : vic-  
-vizita : vizito  
-vizite : viziti  
-viziter : vizitanto  
 ##w  
 wada : promesi  
+wain : vino  
+wale : valo  
+walwe : valvo (krano)  
 wanta : voli  
 wase : oazo  
 wate : vato  
@@ -1305,11 +1296,20 @@ waxomaxin : lavmaŝino
 way dexia : fremda lando  
 way : ekstera  
 waye : ekstero  
+waze : vazo  
+weje : legomo  
+weri : vera  
 werke : laboro  
+wersion : versio (toisinto)  
+wida : vidi (rigardi)  
 wil : estonte  
 wile : estonoteco  
 win : venko  
 wina : venki  
+wis : vic-  
+wizita : vizito  
+wizite : viziti  
+wiziter : vizitanto  
 wolfe : lupo  
 ##x  
 xake : branĉo  

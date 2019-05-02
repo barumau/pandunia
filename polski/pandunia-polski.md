@@ -3,9 +3,6 @@
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
- : cały, kompletny, całkowity  
- : stopić, topić, czynić płynnym  
- : totalny, ogólny  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -14,9 +11,13 @@ able : możliwość, umiejętność
 abli : prawdopodobnie, możliwie  
 acente : akcent, nacisk  
 acinium : aktyn  
+ada : mieć  
 adali : sprawiedliwy  
 adalia : sprawiedliwość  
+ade : własność (mienie)  
+ader : właściciel (posiadacz)  
 adres : adres  
+adu : należeć  
 adulte : osoba dorosła  
 afgania : Afganistan  
 afri : afrykański, Afrykanin  
@@ -38,7 +39,9 @@ alofone : alofon
 alojinsokami : heteroseksualny  
 altar : ołtarz  
 alumin : glin (aluminium)  
+ama : kochać  
 amari : Amhara, amharski  
+ame : miłość (afekt)  
 amen : porozumienie (amen)  
 amena : potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 amerike : Ameryka (kontynent)  
@@ -95,8 +98,8 @@ atom : atom
 auda : usłyszeć, słyszeć; słuchać  
 australia : Australia  
 automoti : samobieżny  
-avakate : awokado  
-avar : uszkodzić, uszkadzać  
+awakate : awokado  
+awar : uszkodzić, uszkadzać  
 axur : Aszur  
 axuria : Asyria  
 ay : aj!, ał!  
@@ -186,6 +189,8 @@ benda : związać, wiązać; zapiąć, zapinać
 bende : taśma; bandaż  
 benin : Benin  
 benzin : benzyna  
+berande : weranda, balkon, taras, ganek  
+berdi : zielony  
 bere : jagoda  
 berete : beret  
 beril : beryl  
@@ -218,7 +223,7 @@ boikote : bojkot
 boke : usta  
 bol : piłka  
 bolgaria : Bułgaria  
-bolivia : Boliwia  
+bolibia : Boliwia  
 bombe : bomba  
 bon rupi : przystojny, atrakcyjny, ładny  
 bon zar : dobry los, szczęście  
@@ -231,7 +236,7 @@ bote kaper : kaper (korsarz)
 bote : łódź, statek  
 botol : butelka  
 boton : guzik  
-brazavil kongolia : Republika Konga  
+brazawil kongolia : Republika Konga  
 brazilia : Brazyla  
 britania : Zjednoczone Królestwo  
 brom : brom  
@@ -392,6 +397,8 @@ dolar : dolar
 dom : dom, mieszkanie  
 doma : mieszkać  
 dominogem : domino  
+don : podarunek, dar, prezent  
+dona : dać, dawać  
 dong : wschód  
 doste : przyjaciel  
 dosti : przyjacielski  
@@ -627,8 +634,6 @@ gim : złoto
 gine bisau : Guinea Bissau  
 gine : Gwinea  
 gitar : gitara  
-giva : dać, dawać  
-give : podarunek, dar, prezent  
 giyan : Gujana Francuska  
 glota : połknąć (połykać)  
 glute : klej  
@@ -698,10 +703,6 @@ hasium : has
 hatar : zagrożenie, niebezpieczeństwo  
 hatari : niebezpieczny  
 hati : nawet  
-hava : mieć  
-have : własność (mienie)  
-haver : właściciel (posiadacz)  
-havu : należeć  
 hawe : powietrze  
 hawobar : ciśnienie atmosferyczne  
 hawobarometer : barometr  
@@ -740,7 +741,7 @@ honduras : Honduras
 hongong : Hong Kong  
 hor : godzina  
 hormon : hormon  
-horvatia : Chorwacja  
+horwatia : Chorwacja  
 hotel : hotel  
 hule : lis  
 hulu' : tykwa  
@@ -856,17 +857,17 @@ jiki : wyprostować, prostować
 jinse : płeć  
 jinsi : płciowy  
 jiraf : żyrafa  
-jiva : żyć  
-jive : życie  
-jivi : żywy, żyjący  
+jiwa : żyć  
+jiwe : życie  
+jiwi : żywy, żyjący  
 joke : żart  
 joker : żartowniś, dowcipniś  
 jong : gatunek  
-jovan fem : dziewczyna  
-jovan man : chłopak  
-jovan : młody  
-jovane : młodzież, młoda osoba  
-jovania : młodość  
+jowan fem : dziewczyna  
+jowan man : chłopak  
+jowan : młody  
+jowane : młodzież, młoda osoba  
+jowania : młodość  
 judo : judo  
 jug : bambus  
 jul : dżul (J)  
@@ -1085,10 +1086,10 @@ kupol : kopuła
 kupon : kupon  
 kura : pielęgnować, leczyć  
 kuran : Koran  
+kurbe : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
+kurbi : zakrzywiony  
 kurium : kiur  
 kurse : kszesło, fotel  
-kurve : wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
-kurvi : zakrzywiony  
 kusen : poduszka  
 kuwaitia : Kuwejt  
 ##l  
@@ -1102,12 +1103,12 @@ lanca : rzucić, rzucać, miotać, cisnąć, ciskać
 langan : poręcz (balustrada)  
 lankia : Sri Lanka  
 lanten : latarnia  
-larve : larwa, czerw, gąsienica  
+larwe : larwa, czerw, gąsienica  
 lasti : elastyczny  
 lasun : larwa, czerw, gąsienica  
 latif : miły, przyjemny, uroczy  
 latini abace : alfabet łaciński, łacinka, alfabet rzymski  
-latvia : Łotwa  
+latwia : Łotwa  
 laurensium : lorens  
 laxa : puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya : przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1168,8 +1169,6 @@ longe : długość
 lose : śruba, wkręt  
 lote : działka (teren)  
 lote : wsad, partia, porcja, seria  
-lova : kochać  
-love : miłość (afekt)  
 lowa sang : krwawić  
 lowa : przeciekać, ciec  
 luksemburgia : Luksemburg  
@@ -1211,10 +1210,10 @@ malaisia : Malezja
 malaria : malaria  
 malawia : Malawi  
 malayali : malajski  
+malbinas nesia : Falklandy, Malwiny  
 malia : Mali  
 malike : jaśmin  
 malte : Malta  
-malvina nesia : Falklandy, Malwiny  
 mamal : ssak  
 mame : matka, mama  
 man ban : syn  
@@ -1359,7 +1358,7 @@ moge : tusz
 moke : drewno  
 mokojanger : stolarz  
 mola : zemleć, mleć, mielić  
-moldovia : Mołdawia  
+moldowia : Mołdawia  
 moler : młynarz  
 molidenum : molibden  
 mome : my  
@@ -1385,7 +1384,7 @@ mortu : umrzeć, umierać
 mos : mech  
 mosim : pora roku  
 moskite : komar, moskit  
-moskovium : moskovium  
+moskowium : moskovium  
 mote : ruch  
 moter : silnik  
 motokar : samochód (automobil)  
@@ -1500,10 +1499,10 @@ noting : nic, żadna rzecz
 notis : wiadomość, zawiadomienie, powiadomienie  
 notisa : powiadomić, powiadamiać  
 notobuke : notatnik  
-nova : odnowić, odnawiać, uczynić nowym  
-novi kaledonia : Nowa Kaledonia  
-novi zilandia : Nowa Zelandia  
-novi : nowy  
+nowa : odnowić, odnawiać, uczynić nowym  
+nowi kaledonia : Nowa Kaledonia  
+nowi zilandia : Nowa Zelandia  
+nowi : nowy  
 nowon : nikt, żadna osoba  
 noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
@@ -1583,7 +1582,7 @@ papagay : papuga
 papay : papaja  
 pape : ojciec  
 papir : papier  
-papua novi ginia : Papua Nowa Gwinea  
+papua nowi ginia : Papua Nowa Gwinea  
 par : równy  
 paraguay : Paragwaj  
 paraya : gardzić (pogardzać)  
@@ -1730,7 +1729,7 @@ puje : cześć, szacunek
 pul : kwiat  
 pula : kwitnąć, rozkwitnąć, rozkwitać  
 pulmon : płuco  
-pulovaze : wazon; donica, doniczka  
+pulowaze : wazon; donica, doniczka  
 pulte : most  
 punte : kropka (znak interpunkcyjny)  
 pupe : lalka, kukiełka, pacynka, marionetka  
@@ -1873,10 +1872,10 @@ salam xam : dobry wieczór
 salam : dobry ...  
 salama : pozdrowić, pozdrawiać  
 salame : pozdrowienie  
+salbador : Salwador  
 salima : poddać się, poddawać się  
 salone : Sierra Leone  
 salta : skoczyć, skakać  
-salvador : Salwador  
 sam : trzy (3)  
 saman : niebo  
 samani : niebieski, niebiański, podniebny  
@@ -1963,8 +1962,8 @@ sistem : system
 sistemi : systemowy  
 site : miast, miasteczko  
 skandium : skand  
-slovakia : Słowacja  
-slovenia : Słowenia  
+slowakia : Słowacja  
+slowenia : Słowenia  
 soca : socjalizować się  
 soci media : media społecznościowe  
 soci : społeczny  
@@ -2073,7 +2072,7 @@ tarjer : tłumacz
 tas : danie  
 tatike : taktyka, strategia  
 tatu : tatuaż  
-tave : patelnia  
+tawe : patelnia  
 tazi : świeży  
 te : ty, ciebie  
 tekne : technika, technologia  
@@ -2083,7 +2082,7 @@ teknolojia : technologia, nauka o technikach
 tel : daleki, odległy  
 tele : dystans  
 telofon : telefon  
-telovide : telewizja  
+telowide : telewizja  
 telugi : telugu  
 telurium : tellur  
 tem : temat, motyw  
@@ -2170,7 +2169,7 @@ turistia : turystyka
 turki : turecki  
 turkia : Turcja  
 turkmenia : Turkmenistan  
-tuvalu' : Tuwalu  
+tuwal : Tuwalu  
 tuze : królik, zając  
 ##u  
 u : lub, albo  
@@ -2196,45 +2195,24 @@ urse : niedźwiedź
 uruguay : Urugwaj  
 usamerike : Stany Zjednoczone Ameryki  
 usameriki samoa : Amerykańska Samoa  
-usameriki virjin nesia : Wyspy Dziewicze USA  
+usameriki wirjin nesia : Wyspy Dziewicze USA  
 uza : użyć, używać, zatrudnić, stosować  
 uzbekia : Uzbekistan  
 uzer : użytkownik  
 ##v  
-vaksin : szczepionka  
-valve : zawór; kran  
-vanil : wanilia  
-vanuatu : Vanuatu  
-vatikan : Watykan, Państwo Watykańskie  
-vaze : waza, garnek, pojemnik, słoik, dzban  
-veje : warzywo  
-venesuela : Wenezuela  
-verande : weranda, balkon, taras, ganek  
-verdi : zielony  
-veri : prawdziwy (rzeczywisty, szczery)  
-vida : patrzeć, widzieć  
-vide : widok, wzrok  
-vidomaidan : pole widzenia  
-vidu : być widzianym  
-vietnam : Wietnam  
-vin : wino  
-vinil : winyl  
-vinsi i grenadin : Saint Vincent and Grenadines  
-virus : wirus  
-virusolojia : wirusologia  
-vizita : odwiedzić, odwiedzać  
-vizite : wizyta  
-viziter : wizytant (gość)  
-vodun : voodoo  
-volte : wolt (V)  
 ##w  
 wada : obiecać, angażować się  
 waf : pies  
+wain : wino  
 wakila : reprezentować  
+waksin : szczepionka  
 walis i futuna nesia : Saint Vincent i Grenadyny  
+walwe : zawór; kran  
 wan : misa, kubek bez ucha  
 wang : żółty  
+wanil : wanilia  
 wanta : chcieć, pragnąć  
+wanuatu : Vanuatu  
 war 1 (war un) : poniedziałek  
 war 2 (war du) : wtorek  
 war 3 (war sam) : środa  
@@ -2247,6 +2225,7 @@ waris : spadek, dziedzictwo, spuścizna, zapis
 warke : kartka (dokument)  
 wase : oaza  
 wate : wat  
+watikan : Watykan, Państwo Watykańskie  
 waw : wow!, łoł!, jej!  
 waxa : prać, umyć, myć  
 waxomaxin : pralka  
@@ -2254,14 +2233,23 @@ way dexi : zagraniczny
 way dexia : zagranica  
 way : zewnętrzny  
 waye : zęwnętrzny  
+waze : waza, garnek, pojemnik, słoik, dzban  
+weje : warzywo  
 weka : obudzić, budzić  
 weki : przebudzony, przytomny  
+wenesuela : Wenezuela  
+weri : prawdziwy (rzeczywisty, szczery)  
 werka : pracować  
 werke : praca, zjęcie, zadanie  
 werker : pracownik  
 werme : robak  
 weste : zachód  
 westi : zachodni  
+wida : patrzeć, widzieć  
+wide : widok, wzrok  
+widomaidan : pole widzenia  
+widu : być widzianym  
+wietnam : Wietnam  
 wiki : wiki  
 wil : w przyszłości  
 wildi : dziki  
@@ -2271,7 +2259,16 @@ wimanokaper : porywacz samolotu
 win : zwycięstwo, wygrana  
 wina : zwyciężyć, wygrać  
 wing : skrzydło  
+winil : winyl  
+winsi i grenadin : Saint Vincent and Grenadines  
+wirus : wirus  
+wirusolojia : wirusologia  
+wizita : odwiedzić, odwiedzać  
+wizite : wizyta  
+wiziter : wizytant (gość)  
+wodun : voodoo  
 wolfe : wilk  
+wolte : wolt (V)  
 ##x  
 xakal : szakal  
 xake : gałąź, konar  

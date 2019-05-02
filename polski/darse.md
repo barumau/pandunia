@@ -165,14 +165,14 @@ Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówi�
 Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
 > **plisa sida.** = Proszę, usiąść.  
-> **plisa giva kafe.** = Proszę, podaj kawę.  
-> **plisa giva cay.** = Proszę, podaj herbatę.  
+> **plisa dona kafe.** = Proszę, podaj kawę.  
+> **plisa dona cay.** = Proszę, podaj herbatę.  
 > **plisa nyama cay.** = Proszę, pij herbatę.  
 > **plisa safa kamar.** = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
 
-> **manda giva cay.** = Daj (mi) herbatę!  
+> **manda dona cay.** = Daj (mi) herbatę!  
 > **manda safa kamar.** = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
@@ -223,7 +223,7 @@ Pytania "tak lub nie"
 ☺: **nyama.** = Tak. (_Jem._)  
 ☻: **eska ye nyama supe?** = Czy on zje zupę?  
 ☺: **no nyama.** = Nie.  
-☻: **danke. mi giva un cay i un kafe i un supe na bade du des minut.**
+☻: **danke. mi dona un cay i un kafe i un supe na bade du des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -317,10 +317,10 @@ Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słow
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **ye no hava maw.** = Ona nie ma koty.  
-> **ye hava no maw, lova waf.** = Ona ma nie koty, ale psy.  
-> **no ye, a mi hava maw.** = Nie ona, ale ja mam koty.  
-> **mi hava no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
+> **ye no ada maw.** = Ona nie ma koty.  
+> **ye ada no maw, lova waf.** = Ona ma nie koty, ale psy.  
+> **no ye, a mi ada maw.** = Nie ona, ale ja mam koty.  
+> **mi ada no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -345,9 +345,9 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 1. ye no safa kamar.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no hava waf i maw. / ye hava no waf i no maw.
+4. ye no ada waf i maw. / ye ada no waf i no maw.
 5. xefe nyama cay a no kafe.
-6. mamá hava no waf a do maw.
+6. mamá ada no waf a do maw.
 
 
 <!--
@@ -448,9 +448,9 @@ Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu
 
 Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-> **mi pas hava un maw.** = Miałem jednego kota w przeszłości.  
+> **mi pas ada un maw.** = Miałem jednego kota w przeszłości.  
 > **ye bon maw.** = To był dobry kot.  
-> **mi hava un waf zay.** = Mam teraz jedneg psa.
+> **mi ada un waf zay.** = Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
@@ -476,7 +476,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 ### Odpowiedzi do Ćwiczeń
 
 1. mi ya xefe festa futur.
-2. mi hava do waf pas.
+2. mi ada do waf pas.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.
