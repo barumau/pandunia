@@ -1427,7 +1427,7 @@ nitrogen : nitre
 Niue : niwe  
 no : ne  
 nobelium : nobelium  
-nobody (no-one) : nowon  
+nobody (no-one) : nol ren  
 noise : kelele  
 noodle : mien  
 Norfolk Island : norfolke  
@@ -1443,7 +1443,7 @@ not : ni
 note (observation) : note  
 note (observe, notice) : nota  
 notebook : notobuke  
-nothing : noting  
+nothing : nol xey  
 notice (notification) : notis  
 notify : notisa  
 November : mes 11 (mes des un)  
@@ -1977,8 +1977,8 @@ solstice : solestas
 Somalia : somalia  
 some (indefinite, indeterminate) : fulan  
 some : koy  
-someone (somebody) : sowon  
-something : soting  
+someone (somebody) : koy ren  
+something : koy xey  
 sometime : koy zaman  
 son : man ban  
 song : cante  
@@ -2158,7 +2158,7 @@ thermometer : termometer
 they : lole  
 thick : gros  
 thief : corer  
-thing : ting  
+thing : xey  
 think (ponder, reflect) : fikra  
 this (these) : ci  
 this one : ce  

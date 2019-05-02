@@ -1049,6 +1049,8 @@ kosta : kosztować
 kostarikia : Kostaryka  
 koste : koszt, cena  
 kote : płaszcz  
+koy ren : ktoś  
+koy xey : coś  
 koy zaman : sometime  
 koy : jakiś  
 kratia : rządzić, władać  
@@ -1482,6 +1484,8 @@ nixe : nisza, alkowa
 nobelium : nobel  
 noce : noc  
 node : węzeł, zupeł  
+nol ren : nikt, żadna osoba  
+nol xey : nic, żadna rzecz  
 nol : zero, nic, żaden  
 nonga : uprawić, uprawiać  
 nonger : rolnik, farmer  
@@ -1495,7 +1499,6 @@ normi : normalny, standardowy
 nos : nos  
 nota : notować, obserwować, zauważyć, zauważać  
 note : uwaga, obserwacja  
-noting : nic, żadna rzecz  
 notis : wiadomość, zawiadomienie, powiadomienie  
 notisa : powiadomić, powiadamiać  
 notobuke : notatnik  
@@ -1503,7 +1506,6 @@ nowa : odnowić, odnawiać, uczynić nowym
 nowi kaledonia : Nowa Kaledonia  
 nowi zilandia : Nowa Zelandia  
 nowi : nowy  
-nowon : nikt, żadna osoba  
 noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
 nudiste : nudysta  
@@ -1987,9 +1989,7 @@ sonde : dźwięk, brzmienie
 song : sosna  
 sos : sos  
 sosis : kiełbasa  
-soting : coś  
 soto : Lesotho  
-sowon : ktoś  
 suan : kwaśny  
 sube den : przedpołudnie  
 sube nyam : śniadanie  
@@ -2115,7 +2115,6 @@ tike : tikka
 tikete : bilet  
 tim : drużyna  
 tin : puszka  
-ting : rzecz  
 ting : stop; przerwa, zatrzymanie  
 tinga : zatrzymać  
 tingu : zatrzymać się  
@@ -2291,6 +2290,7 @@ xef : szef, kierownik
 xefi minister : premier  
 xefi : główny  
 xenon : ksenon  
+xey : rzecz  
 xiki : elegancki, szykowny  
 xim : serce  
 xin : wiara, wierzenie, kredo  

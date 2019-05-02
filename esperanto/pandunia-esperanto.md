@@ -752,6 +752,8 @@ koron : krono
 korta : mallongigi  
 korti : mallonga  
 kote : palto  
+koy ren : iu persono  
+koy xey : io  
 koy zaman : iam  
 koy : iu  
 kratia : regi  
@@ -1182,8 +1184,6 @@ sonde : sono
 song : pino  
 sos : saŭco  
 sosis : kolbaso  
-soting : io  
-sowon : iu persono  
 suan : acida  
 sube : mateno  
 sude : sudo  

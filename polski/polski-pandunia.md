@@ -235,7 +235,7 @@ ciśnienie atmosferyczne : hawobar
 cmentarz : gabristan  
 co? : ke  
 co? : ki ren  
-coś : soting  
+coś : koy xey  
 cukier : sukar  
 cukierek, słodycze : kande  
 cynk : zinke  
@@ -818,7 +818,7 @@ książka : buke
 książka z obrazkami : grafobuke  
 księżyc : lun  
 kszesło, fotel : kurse  
-ktoś : sowon  
+ktoś : koy ren  
 który? : ki  
 Kuba : kuba  
 kubek : kupe  
@@ -1115,7 +1115,7 @@ neon : neon
 Nepal : nepal  
 Neptun : neptun  
 neptun : neptunium  
-nic, żadna rzecz : noting  
+nic, żadna rzecz : nol xey  
 nie : ne  
 nie : ni  
 nie ruszać się : estasa  
@@ -1138,7 +1138,7 @@ Nigeria : naijiria
 nihonium : niponium  
 Nikaragua : nikaragua  
 nikiel : nikel  
-nikt, żadna osoba : nowon  
+nikt, żadna osoba : nol ren  
 niob : niobium  
 nisza, alkowa : nixe  
 Niue : niwe  
@@ -1675,7 +1675,7 @@ rytuał, ceremonia, ryt : rite
 ryzyko : riske  
 ryzykowny : riski  
 ryż : ris  
-rzecz : ting  
+rzecz : xey  
 rzeka : nade  
 rzemieślnik : janger  
 rzodkiewka : lobak  

@@ -1053,6 +1053,8 @@ kosta : cost
 kostarikia : Costa Rica  
 koste : cost (price)  
 kote : coat  
+koy ren : someone (somebody)  
+koy xey : something  
 koy zaman : sometime  
 koy : some  
 kratia : rule (reign)  
@@ -1492,6 +1494,8 @@ nixe : niche (alcove)
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
+nol ren : nobody (no-one)  
+nol xey : nothing  
 nol : zero (none)  
 nonga : cultivate (farm)  
 nonger : farmer  
@@ -1505,7 +1509,6 @@ normi : normal
 nos : nose  
 nota : note (observe, notice)  
 note : note (observation)  
-noting : nothing  
 notis : notice (notification)  
 notisa : notify  
 notobuke : notebook  
@@ -1513,7 +1516,6 @@ nowa : renew (make new, renovate)
 nowi kaledonia : New Caledonia  
 nowi zilandia : New Zealand  
 nowi : new (recent)  
-nowon : nobody (no-one)  
 noy : nine (9)  
 nudi : naked (bare)  
 nudiste : nudist  
@@ -2005,9 +2007,7 @@ sonde : sound (audio)
 song : pine tree  
 sos : sauce  
 sosis : sausage  
-soting : something  
 soto : Lesotho  
-sowon : someone (somebody)  
 suan : sour  
 sube den : forenoon  
 sube nyam : breakfast  
@@ -2134,7 +2134,6 @@ tikete : ticket
 tim : team  
 tin : can (tin can)  
 ting : stop  
-ting : thing  
 tinga : stop (halt)  
 tingu : stop (halt)  
 tira milke : milk (draw milk)  
@@ -2320,6 +2319,7 @@ xef : chief (boss)
 xefi minister : prime minister  
 xefi : main (principal)  
 xenon : xenon  
+xey : thing  
 xiki : elegant (chic)  
 xim : heart  
 xin : belief (faith, creed)  

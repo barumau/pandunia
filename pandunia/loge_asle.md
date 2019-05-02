@@ -728,7 +728,6 @@ tezi ← hin:तेज़ (tez). urd:(tez). per:(tiz). aze:uzb:tez. kaz:тез (
 tike ← per:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).  
 tikete ← eng:ticket.  
 tin ← eng:tin. may:tin.  
-ting ← eng:thing. deu:Ding.  
 ting ← zho:停 (tíng). yue:停 (ting4).  
 toca ← eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".  
 toksi ← eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.  

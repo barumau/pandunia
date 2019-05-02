@@ -103,7 +103,7 @@ asema : estasia
 asento : asan  
 asetelma : poze  
 asia (juttu) : masle  
-asia : ting  
+asia : xey  
 asiakirja (dokumentti, tiedosto) : dokum  
 asianharrastaja : nik  
 askeett : askete  
@@ -209,8 +209,8 @@ ehdottaa : suja
 ehdotus : suje  
 ei : ne  
 ei : ni  
-ei kukaan : nowon  
-ei mitään : noting  
+ei kukaan : nol ren  
+ei mitään : nol xey  
 eilinen : predi den  
 einsteinium : ainstainium  
 ekologia (ympäristötiede) : tabiolojia  
@@ -531,8 +531,8 @@ jokainen asia : mey xey
 jokainen ihminen : mey ren  
 joki : nade  
 jokin (joku) : koy  
-jokin : soting  
-joku : sowon  
+jokin : koy xey  
+joku : koy ren  
 jooga : yoge  
 joogata : yoga  
 jopa : hati  

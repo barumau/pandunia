@@ -1048,6 +1048,8 @@ kosta : maksaa (olla hintana)
 kostarikia : Costa Rica  
 koste : hinta (maksu)  
 kote : takki  
+koy ren : joku  
+koy xey : jokin  
 koy zaman : joskus  
 koy : jokin (joku)  
 kratia : valta  
@@ -1486,6 +1488,8 @@ nixe : alkovi
 nobelium : nobelium  
 noce : yö  
 node : solmu  
+nol ren : ei kukaan  
+nol xey : ei mitään  
 nol : nolla (ei yhtään)  
 nonga : viljellä  
 nonger : maanviljelijä  
@@ -1499,7 +1503,6 @@ normi : normaali
 nos : nenä  
 nota : huomata (hoksata)  
 note : huomio (merkintä)  
-noting : ei mitään  
 notis : huomautus  
 notisa : huomauttaa  
 notobuke : muistikirja  
@@ -1507,7 +1510,6 @@ nowa : uudistaa
 nowi kaledonia : Uusi-Kaledonia  
 nowi zilandia : Uusi-Seelanti  
 nowi : uusi  
-nowon : ei kukaan  
 noy : yhdeksän  
 nudi : alaston (paljas, naku)  
 nudiste : nudisti  
@@ -1976,9 +1978,7 @@ sonde : ääni
 song : mänty  
 sos : kastike (soosi)  
 sosis : makkara  
-soting : jokin  
 soto : Lesoto  
-sowon : joku  
 suan : hapan (kirpeä)  
 sube nyam : aamiainen  
 sube : aamu  
@@ -2089,7 +2089,6 @@ tike : pala
 tikete : lippu (piletti)  
 tim : joukkue (tiimi)  
 tin : tölkki (purkki)  
-ting : asia  
 ting : pysähdys  
 tinga : pysäyttää  
 tingu : pysähtyä  
@@ -2268,6 +2267,7 @@ xef : päällikkö (pomo)
 xefi minister : pääministeri (suurvisiiri)  
 xefi : pää-  
 xenon : ksenon  
+xey : asia  
 xiki : elegantti  
 xim : sydän  
 xin : usko (luottamus)  

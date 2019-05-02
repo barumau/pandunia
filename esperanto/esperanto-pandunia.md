@@ -492,7 +492,7 @@ interesa : interes
 interkonsento (amen) : amen  
 interŝanĝi : badala  
 inviti : plisa laya  
-io : soting  
+io : koy xey  
 iono : ion  
 Irakio : irakia  
 Iranio : iran  
@@ -510,7 +510,7 @@ itrio : yutrium
 iu : fulan  
 iu : koy  
 iu ajn : eni  
-iu persono : sowon  
+iu persono : koy ren  
 ##j  
 jako : jake  
 jam (esti farita) : lew  

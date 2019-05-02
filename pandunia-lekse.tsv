@@ -1044,6 +1044,8 @@ rus:космос (kosmos). eng:fra:spa:cosmos.			kosmia	:	space (cosmos, univers
 			koste	:	cost (price)		hinta (maksu)	koszt, cena								
 eng:coat. swa:koti. orm:koota. jpn:コート (kōto). per:(kot). hin:कोट (kot).			kote	:	coat	palto	takki	płaszcz						कोट		
 hin:कोई (koī). urd:(koī). rus:кое- (koye-).			koy	:	some	iu	jokin (joku)	jakiś								
+			koy ren	:	someone (somebody)	iu persono	joku	ktoś								
+			koy xey	:	something	io	jokin	coś								
 			koy zaman	:	sometime	iam	joskus	sometime								
 			kratia	:	rule (reign)	regi	valta	rządzić, władać								
 fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).			krem	:	cream	kremo	kerma	krem								
@@ -1480,6 +1482,8 @@ hin:mar:निन्द् (nind).			ninde	:	insult (offence)	insulto	loukkaus (
 			noce	:	night	nokto	yö	noc								
 eng:node. spa:nudo. por:nó. fra:nœud.			node	:	knot (node; tie)	nodo	solmu	węzeł, zupeł								
 ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden								
+			nol ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba								
+			nol xey	:	nothing		ei mitään	nic, żadna rzecz								
 			nonga	:	cultivate (farm)		viljellä	uprawić, uprawiać								
 			nonger	:	farmer		maanviljelijä	rolnik, farmer								
 			norde	:	north		pohjoinen	północ								
@@ -1492,7 +1496,6 @@ ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden
 			nos	:	nose		nenä	nos								
 			nota	:	note (observe, notice)	rimarki	huomata (hoksata)	notować, obserwować, zauważyć, zauważać								
 			note	:	note (observation)		huomio (merkintä)	uwaga, obserwacja								
-			noting	:	nothing		ei mitään	nic, żadna rzecz								
 			notis	:	notice (notification)		huomautus	wiadomość, zawiadomienie, powiadomienie								
 			notisa	:	notify		huomauttaa	powiadomić, powiadamiać								
 			notobuke	:	notebook	kajero	muistikirja	notatnik								
@@ -1500,7 +1503,6 @@ ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden
 per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.			nowi	:	new (recent)	nova	uusi	nowy								
 	dex	NC	nowi kaledonia	:	New Caledonia		Uusi-Kaledonia	Nowa Kaledonia								
 	dex	NZ	nowi zilandia	:	New Zealand		Uusi-Seelanti	Nowa Zelandia								
-			nowon	:	nobody (no-one)		ei kukaan	nikt, żadna osoba								
 			noy	:	nine (9)		yhdeksän	dziewięć (9)								
 			nudi	:	naked (bare)		alaston (paljas, naku)	nagi, goły, obnażony								
 			nudiste	:	nudist		nudisti	nudysta								
@@ -1988,9 +1990,7 @@ eng:sound,sonic. fra:son. spa:son,sonido. ita:suono. + kor:소리 "sori".			sond
 zho:松 "sōng". wuu:"son". tha:สน "sǒn". kor:솔 "sol". vie:thông. + rus:сосна "sosna".			song	:	pine tree	pino	mänty	sosna								
 eng:fra:sauce. rus:соус "sous". hin:सॉस "sos". deu:Soße. vie:xốt. jpn:ソース "sōsu". that:ซอส "soot". kor:소스 "soseu". ind:saus.			sos	:	sauce	saŭco	kastike (soosi)	sos								
 fra:saucisse. tur:ind:sosis. per:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.			sosis	:	sausage	kolbaso	makkara	kiełbasa								
-			soting	:	something	io	jokin	coś								
 	dex	LS	soto	:	Lesotho		Lesoto	Lesotho								
-			sowon	:	someone (somebody)	iu persono	joku	ktoś								
 zho:酸 (suān).			suan	:	sour	acida	hapan (kirpeä)	kwaśny								
 ara:(ṣabāḥ). tur:sabah. per:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.			sube	:	morning (dawn)	mateno	aamu	ranek, rano, poranek								
 			sube den	:	forenoon			przedpołudnie								
@@ -2116,7 +2116,6 @@ eng:ticket.			tikete	:	ticket		lippu (piletti)	bilet			billet	票	билет
 			tim	:	team		joukkue (tiimi)	drużyna			équipe	队	команда			
 eng:tin. may:tin.			tin	:	can (tin can)		tölkki (purkki)	puszka			bidon (boîte)	罐	бляшанка			
 zho:停 (tíng). yue:停 (ting4).			ting	:	stop	halto	pysähdys	stop; przerwa, zatrzymanie								
-eng:thing. deu:Ding.			ting	:	thing		asia	rzecz								
 			tinga	:	stop (halt)	haltigi	pysäyttää	zatrzymać								
 			tingu	:	stop (halt)	halti	pysähtyä	zatrzymać się								
 			tira	:	pull	tiri	vetää	ciągnąć								
@@ -2298,6 +2297,7 @@ fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chif
 			xefi	:	main (principal)		pää-	główny								
 			xefi minister	:	prime minister	ĉefministro	pääministeri (suurvisiiri)	premier								
 	made	Xe	xenon	:	xenon	ksenono	ksenon	ksenon								
+			xey	:	thing		asia	rzecz								
 			xiki	:	elegant (chic)		elegantti	elegancki, szykowny								
 kor: 심 /sim/. zho: 心 "xīn".			xim	:	heart	koro	sydän	serce								
 zho:信 (xìn). yue:信 (seon3). jpn:信 (shin). vie:tin.			xin	:	belief (faith, creed)	kredo	usko (luottamus)	wiara, wierzenie, kredo								
