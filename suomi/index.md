@@ -17,8 +17,6 @@ Pandunia on tarkoitettu aivan kaikille! Keinotekoisena kielenä pandunialla ei o
 
 Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido, interlingua, toki pona tai lidepla, siinä tapauksessa tulet melko varmasti tykkäämään panduniasta.
 
-**Huom!** Pandunia on vielä keskentekoinen! Näiden sivujen sisältö saattaa yhä muuttua.
-
 ## Opiskele!
 
 Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.

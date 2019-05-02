@@ -19,10 +19,6 @@ Some remarkable features of Pandunia:
   borrowed from many languages all across the globe, including the top-10 most
   widely spoken languages of the world.
 
-Note: Pandunia is a constructed language that is under construction. The
-structure and vocabulary of the language may change from what is presented in
-these pages.
-
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)

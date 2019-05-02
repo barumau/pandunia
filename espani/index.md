@@ -19,10 +19,6 @@ Algunas características notables de Pandunia:
 - Es verdaderamente internacional. Su vocabulario está compuesto por palabras
   tomadas de muchos idiomas de todo el mundo, incluyendo los 10 más hablados.
 
-Nota: Pandunia aún está en evolución. Podría ser que la estructura y el
-vocabulario hayan cambiado algo respecto a lo que se muestra actualmente en
-estas páginas, a pesar de que se intenta manterlas actualizadas.
-
 ## Material de aprendizaje
 
 - [Mini lecciones con imágenes](http://www.pandunia.info/pandunia/mini_darse.html)
