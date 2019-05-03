@@ -81,6 +81,7 @@ aspekto : rupe
 aspirino : aspirin  
 astmo : asme  
 atako : atake  
+ateisto : nodewiste  
 atendi : denga  
 atomo : atom  
 avokado : awakate  
@@ -361,7 +362,7 @@ forko : forke
 formigi : forma  
 formiko : maye  
 formo : forme  
-forta : bal  
+forta :   
 forto : bale  
 forumo : forum  
 fosforo : fosfor  
@@ -878,7 +879,7 @@ Oceanio : oseania
 ofte : cang  
 oganesono : oganeson  
 ogro (trolo) : guy  
-ok (8) : bat  
+ok (8) : bal  
 oksigeno : okse  
 okulo : yen  
 okupata : bizi  
@@ -913,6 +914,7 @@ pantalonoj : pantalon
 papago : papagay  
 papajo : papay  
 papero : papir  
+papilio : pepele  
 parko (ĝardeno) : parke  
 paroli (komuniki) : baxa  
 paroli : loga  
@@ -1079,12 +1081,12 @@ saga : sofia
 salo : sal  
 saluto : salame  
 saluton! : halow  
-sama : sem  
+sama : sam  
 samario : samarium  
-samlandano : sem dexi  
+samlandano : samodexi  
 samseksema : alojinsokami  
 samseksema : gey  
-samseksema : sem jinse kami  
+samseksema : samojinsokami  
 sangi : lowa sang  
 sango : sang  
 sanigi (kuraci) : medika  
@@ -1107,11 +1109,11 @@ sekvi : bada
 sekvinbero : gan putaw  
 sekvo : bade  
 seleno : selen  
-semajno : set war  
+semajno : seman  
 semo : dan  
 sen : na  
 senti : senta  
-sep (7) : set  
+sep (7) : sem  
 Serbio : serbia  
 serio : serye  
 serpento : serpe  
@@ -1230,7 +1232,7 @@ trankvila : xanti
 tranĉi : kata  
 tranĉilo : cake  
 trezoro : hazin  
-tri (3) : sam  
+tri (3) : tin  
 tribo : tribe  
 tro : max ka bas  
 trovi : eureka  

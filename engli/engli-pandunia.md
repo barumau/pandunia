@@ -112,13 +112,14 @@ aspirin : aspirin
 Assur : axur  
 Assyria : axuria  
 asthma : asme  
+atheist : nodewiste  
 athlete (sportsman) : keler  
 atmospheric pressure : hawobar  
 atom : atom  
 attack : atake  
 attraction (-philia) : filia  
 attribute (charasteristic, quality, feature, description) : sife  
-August : mes 8 (mes bat)  
+August : mes 8 (mes bal)  
 Australia : australia  
 Austria : osteria  
 autocracy (monarchy) : monokratia  
@@ -296,6 +297,7 @@ bust (bosom) : buste
 busy (occupied) : bizi  
 but (whereas) : a  
 butter : makan  
+butterfly : pepele  
 buttocks (butt) : pigu'  
 button : boton  
 buy (purchase) : baya  
@@ -450,7 +452,7 @@ communist : komuniste
 Comoros : komoro nesia  
 company (corporation) : kompania  
 compared to (as, than) : ka  
-compatriot : sem dexi  
+compatriot : samodexi  
 compete (have a match) : mece  
 compute (to process data) : komputa  
 computer : komputer  
@@ -636,7 +638,7 @@ egg : ande
 eggplant (aubergine, brinjal) : bedinjan  
 Egypt : misria  
 Egyptian : misri  
-eight (8) : bat  
+eight (8) : bal  
 einsteinium : ainstainium  
 El Salvador : salbador  
 elastic : lasti  
@@ -958,7 +960,7 @@ holmium : holmium
 holy (sacred) : santi  
 Holy See (Vatican City State) : watikan  
 home (residence) : dom  
-homosexual : sem jinse kami  
+homosexual : samojinsokami  
 Honduras : honduras  
 honey : mel  
 Hong Kong, SAR China : hongong  
@@ -1071,7 +1073,7 @@ judgment (sentence) : hakim
 judo : judo  
 jug (jar) : jar  
 juice : jus  
-July : mes 7 (mes set)  
+July : mes 7 (mes sem)  
 jump : salta  
 June : mes 6 (mes sis)  
 Jupiter : muxing  
@@ -1239,7 +1241,7 @@ many (much) : pol
 Marathi : marati  
 marathon : maraton  
 marble : marmar  
-March : mes 3 (mes sam)  
+March : mes 3 (mes tin)  
 margarine : margarin  
 mark (leave a mark) : marka  
 mark (trace) : marke  
@@ -1421,7 +1423,7 @@ Nigeria : naijiria
 night : noce  
 nightingale : bulbul  
 nihonium : niponium  
-nine (9) : noy  
+nine (9) : naw  
 niobium : niobium  
 nitrogen : nitre  
 Niue : niwe  
@@ -1783,7 +1785,7 @@ report : reporte
 represent : wakila  
 Republic of Macedonia : makedonia  
 research (to study) : loja  
-resemble (be like) : semu  
+resemble (be like) : samu  
 resin : rezin  
 respect (honor, esteem) : onor  
 respond (give an answer) : jawaba  
@@ -1857,7 +1859,7 @@ Saint Vincent and Grenadines : winsi i grenadin
 salad : salade  
 salt : sal  
 samarium : samarium  
-same : sem  
+same : sam  
 Samoa : samoa  
 sand : rege  
 Sao Tome and Principe : santi tome i prinsipe  
@@ -1894,14 +1896,14 @@ sender (transmitter) : miser
 Senegal : senegal  
 sense : sense  
 sentence (phrase) : fraze  
-September : mes 9 (mes noy)  
+September : mes 9 (mes naw)  
 Serbia : serbia  
 series : serye  
 servant : serwer  
 serve (give service) : serwa  
 service : serwe  
 sesame : sesam  
-seven (7) : set  
+seven (7) : sem  
 sew : suta  
 sex (sexual intercourse) : sekse  
 sexual (relating to gender) : jinsi  
@@ -2036,7 +2038,7 @@ storm (tempest, typhoon, hurricane, cyclone) : tafun
 straight : jiki  
 straighten : jika  
 strike (punch) : darba  
-strong : bal  
+strong :   
 strontium : estrontium  
 student (pupil, learner) : darser  
 studio : estudia  
@@ -2062,7 +2064,7 @@ sum (total) : sum
 sum up (add together) : suma  
 summer : lete  
 sun : sol  
-Sunday : war 7 (war set)  
+Sunday : war 7 (war sem)  
 superb (wonderful, super) : super  
 supply (dispense, issue, put out) : fada  
 surface : fas  
@@ -2166,7 +2168,7 @@ thorax : torace
 thorium : torium  
 thought (idea) : fikre  
 thousand : kil  
-three (3) : sam  
+three (3) : tin  
 throw (launch) : lanca  
 thulium : tulium  
 thunder (roaring) : grom  
@@ -2228,7 +2230,7 @@ true (real, genuine, very, indeed) : weri
 trunk (torso) : torse  
 try (attempt) : proba  
 tube (pipe) : tube  
-Tuesday : war 2 (war du)  
+Tuesday : war 2 (war dul)  
 tulip : tulpan  
 tundra : tundar  
 tunic (gown) : tunike  
@@ -2331,8 +2333,8 @@ way (road) : daw
 we : mome  
 wear clothes : fuka  
 weather : tenke  
-Wednesday : war 3 (war sam)  
-week : set war  
+Wednesday : war 3 (war tin)  
+week : seman  
 weep (cry) : kuga  
 weight : bar  
 welcome! : salam laye  

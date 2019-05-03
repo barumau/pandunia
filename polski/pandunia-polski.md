@@ -3,6 +3,7 @@
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : silny  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -122,7 +123,7 @@ baha'iste : bahaista
 baha'istia : bahaizm  
 bahamia : Bahamy  
 bahrain : Bahrajn  
-bal : silny  
+bal : osiem (8)  
 balde : wiadro  
 bale : siła  
 balkon : balkon; ganek  
@@ -155,7 +156,6 @@ bas : wystarczający
 basen : basen  
 baske : kosz  
 baskobol : piłka do koszykówki (koszykówka)  
-bat : osiem (8)  
 bate : kaczka  
 batokrote : dziobak  
 baton nur : pochochodnia (latarka)  
@@ -1296,13 +1296,13 @@ mes 10 (mes des) : luty
 mes 11 (mes des un) : marzec  
 mes 12 (mes des dul) : kwiecień  
 mes 2 (mes dul) : maj  
-mes 3 (mes sam) : czerwiec  
+mes 3 (mes tin) : czerwiec  
 mes 4 (mes car) : lipiec  
 mes 5 (mes lim) : sierpień  
 mes 6 (mes sis) : wrzesień  
-mes 7 (mes set) : październik  
-mes 8 (mes bat) : listopad  
-mes 9 (mes noy) : grudzień  
+mes 7 (mes sem) : październik  
+mes 8 (mes bal) : listopad  
+mes 9 (mes naw) : grudzień  
 mes : miesiąc  
 mesaja : zakomunikować (zanieść wieści, poinformować)  
 mesaje : wiadomość  
@@ -1445,6 +1445,7 @@ nasiste : nacjonalista
 nasistia : nacjonalizm  
 natre : sód  
 nauru : Nauru  
+naw : dziewięć (9)  
 nawati : nahuatl  
 ne : nie  
 nederlandi antilia : Antyle Holenderskie  
@@ -1506,7 +1507,6 @@ nowa : odnowić, odnawiać, uczynić nowym
 nowi kaledonia : Nowa Kaledonia  
 nowi zilandia : Nowa Zelandia  
 nowi : nowy  
-noy : dziewięć (9)  
 nudi : nagi, goły, obnażony  
 nudiste : nudysta  
 nudistia : nudyzm  
@@ -1878,12 +1878,15 @@ salbador : Salwador
 salima : poddać się, poddawać się  
 salone : Sierra Leone  
 salta : skoczyć, skakać  
-sam : trzy (3)  
+sam : taki sam  
 saman : niebo  
 samani : niebieski, niebiański, podniebny  
 samarium : samar  
 samoa : Samoa  
+samodexi : rodak, ziomek, krajan  
+samojinsokami : homoseksualny  
 samokon : trójkąt  
+samu : być podobnym, być jak  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke : pudło, skrzynia  
 sang : krew  
@@ -1915,11 +1918,9 @@ sekur : bezpieczny
 sel : komórka (biologia)  
 selen : selen  
 selen : selen  
-sem dexi : rodak, ziomek, krajan  
-sem jinse kami : homoseksualny  
-sem : taki sam  
+sem : siedem (7)  
+seman : tydzień  
 semente : cement  
-semu : być podobnym, być jak  
 sen : scena  
 senegal : Senegal  
 sense : zmysł  
@@ -1931,8 +1932,6 @@ seres : Ceres (planeta karłowata)
 serpe : wąż  
 serye : seria, szereg  
 sesam : sezam  
-set war : tydzień  
-set : siedem (7)  
 sexel nesia : Seszele  
 si : tak; być  
 sibir : Syberia  
@@ -2115,6 +2114,7 @@ tike : tikka
 tikete : bilet  
 tim : drużyna  
 tin : puszka  
+tin : trzy (3)  
 ting : stop; przerwa, zatrzymanie  
 tinga : zatrzymać  
 tingu : zatrzymać się  
@@ -2213,12 +2213,12 @@ wanil : wanilia
 wanta : chcieć, pragnąć  
 wanuatu : Vanuatu  
 war 1 (war un) : poniedziałek  
-war 2 (war du) : wtorek  
-war 3 (war sam) : środa  
+war 2 (war dul) : wtorek  
+war 3 (war tin) : środa  
 war 4 (war car) : czwartek  
 war 5 (war lim) : piątek  
 war 6 (war sis) : sobota  
-war 7 (war set) : niedziela  
+war 7 (war sem) : niedziela  
 war : dzień tygodnia  
 waris : spadek, dziedzictwo, spuścizna, zapis  
 warke : kartka (dokument)  

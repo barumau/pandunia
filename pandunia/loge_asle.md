@@ -79,6 +79,7 @@ badala ← hin:बदला "badlā". hau:badali. swa:badili.
 badam ← ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam).  
 badan ← ara:(badan). hin:बदन (badan). per:urd:(badan). tur:beden. eng:body.  
 bagre ← hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:tigre. rus:(tigr).  
+bal ← zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.  
 balde ← spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).  
 bale ← hin:बल "bal". ben:বল "bôl". tel:"balamu".  
 balon ← fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.  
@@ -175,6 +176,7 @@ cune ← zho:春 (chūn). yue:(ceon1). jpn:春季 (shunki). kor:춘계 (chun-gye
 cupa ← spa:por:chupar. khm:ជប់ (cup).  
 cute ← zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).  
 cuza ← eng:choose. + hin:चुनना "cunnā". + vie:chọn.  
+cuze ← zho:的 (de).  
 ##d  
 dade ← spa:por:tgl:dado. ind:swa:dadu.  
 dalil ← ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.  
@@ -184,7 +186,7 @@ danke ← eng:thank. deu:Danke. + hin:धन्यवाद "dhanyavād".
 darje ← ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. per:(dareje). ind:derajat. + zho:阶 (jiē).  
 darse ← ara:per:urd:(dars). tur:ders.  
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
-daw ← zho: "dao".  
+daw ← zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.  
 day ← yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".  
 defte ← tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:per:(daftar).  
 deke ← hin:ढकना (dhaknā). deu:decken. eng:deck.  
@@ -204,6 +206,7 @@ dotor ← por:doutor. ita:dottore. eng:spa:doctor. rus:доктор (doktor).
 dox ← ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".  
 doze ← eng:dose. rus:"doza".  
 droge ← eng:drug. spa:droga. fra:drogue. deu:Droge.  
+du ← fra:de,du. por:de,do,da. pas:د‎ (də). arm:דְּ‎ (də).  
 duga ← zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".  
 duke ← hin:दुःख "duḥkh". ben:দুঃখ "dukhô". tha:ทุกข์ "tuk". may:duka. eng:dukkha. + zho:苦 "kǔ".  
 dul ← kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.  
@@ -537,6 +540,7 @@ naciste ← rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor
 nade ← hin:नदी (nadī). urd:(nadī). ben:নদী (nôdī). kan:mal:(nadi).  
 nafas ← ara:per:(nafas). ind:napas. tur:nefes. hau:numfashi.  
 nanas ← ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (ananas).  
+naw ← hin:नौ (nau). urd:(nau).  
 nega ← spa:por:negar. eng:negate.  
 nen mes den ← zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).  
 nete ← eng: net. deu: Netz.  
@@ -579,6 +583,7 @@ patate ← fra:patate. spa:patata. por:batata. tur:patates. ara:"baṭāṭis". 
 paxia ← kon:mpasi. por:paixão. eng:passion.  
 pelmen ← rus:пельмень "pel'men'". pol:pielmeni. eng:pelmeni.  
 penta ← eng:paint. fra:peintre.  
+pepele ← kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.  
 pepin ← spa:por:pepino. tgl:pipino. sin:පිපිඤ්ඤා (pipiññā).  
 pese ← hin:पैसा (paisā). mar:पैसा (paisā). pan:ਪੈਸਾ (pēsā). guj:પૈસો (paiso). ara:(bēzāt). swa:pesa. (spa:peso).  
 petre ← hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.  
@@ -656,7 +661,7 @@ sake ← eng: sack. fra: sac. spa: saco. kon:saku.
 sal ← por:spa:sal. eng:salt. rus:соль (solʹ).  
 salade ← end:salad. zho:沙拉 (shālā).  
 salame ← ara:(salām). swa:salamu. ind:selamat.  
-sam ← zho:"sān". jpn:"san". kor:"sam". tha:"sam".  
+sam ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
 sana ← vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.  
 sanduke ← swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). per:urd:صندوق‎ (sanduq).  
 sang ← fra:sang. spa:sangre. por:sangue.  
@@ -665,7 +670,8 @@ sapate ← spa:zapato. por:sapato. ind:sepatu.
 saudar ← ind:saudara. hin:सहोदर "sahodar". ben:সহোদর "sôhodôr".  
 saye ← per:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).  
 sel ← ind:sel. per:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.  
-sem ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
+sem ← rus:семь (semʹ).  
+seman ← spa:por:semana. fra:semaine.  
 semente ← eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).  
 sen ← fra:scène. spa:escena. rus:сцена (scena). deu:Szene. tur:sahne. per:(sahne).  
 serca ← eng:search. fra:chercher.  
@@ -728,6 +734,7 @@ tezi ← hin:तेज़ (tez). urd:(tez). per:(tiz). aze:uzb:tez. kaz:тез (
 tike ← per:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).  
 tikete ← eng:ticket.  
 tin ← eng:tin. may:tin.  
+tin ← hin:तीन (tīn). ben:তিন (tin). urd:(tīn).  
 ting ← zho:停 (tíng). yue:停 (ting4).  
 toca ← eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".  
 toksi ← eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.  

@@ -3,6 +3,7 @@
 -em : -er  
 -i : -a (-e)  
 -u : -i (-iĝi)  
+ : forta  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -100,7 +101,7 @@ bagaje : pakaĵo
 bagre : tigro  
 baha'iste : bahaisto  
 baha'istia : bahaismo  
-bal : forta  
+bal : ok (8)  
 balde : sitelo  
 bale : forto  
 balkon : balkono  
@@ -127,7 +128,6 @@ baryer : barilo
 bas : sufiĉa  
 basen : baseno  
 baske : korbo  
-bat : ok (8)  
 bate : anaso  
 baton nur : torĉo  
 baton : stango  
@@ -956,6 +956,7 @@ nitre : nitrogeno
 nobelium : nobelio  
 noce : nokto  
 node : nodo  
+nodewiste : ateisto  
 norgi : norvega  
 norgia : Norvegio  
 nota : rimarki  
@@ -1011,6 +1012,7 @@ pay : kukaĵo
 pede : piedo  
 penis : peniso  
 penta : pentri  
+pepele : papilio  
 pepin : kukumo  
 pese : mono  
 petre : ŝtono  
@@ -1129,9 +1131,11 @@ salam sube : Bonan matenon!
 salam xam : Bonan vesperon  
 salam : bona (en salutoj)  
 salame : saluto  
-sam : tri (3)  
+sam : sama  
 saman : ĉielo  
 samarium : samario  
+samodexi : samlandano  
+samojinsokami : samseksema  
 sana : produkti (fabriki)  
 sanduke : skatolo (kesto)  
 sang : sango  
@@ -1147,17 +1151,14 @@ seaborgium : seborgio
 sekse : sekso  
 sel : ĉelo  
 selen : seleno  
-sem dexi : samlandano  
-sem jinse kami : samseksema  
-sem : sama  
+sem : sep (7)  
+seman : semajno  
 senta : senti  
 serbia : Serbio  
 serebre : cerbo  
 seres : Cereso  
 serpe : serpento  
 serye : serio  
-set war : semajno  
-set : sep (7)  
 si : jes (esti)  
 sida : sidi  
 sifi lekse : adjektivo  
@@ -1242,6 +1243,7 @@ teroriste : teroristo
 teroristia : terorismo  
 teste : testo  
 ti : via (cia)  
+tin : tri (3)  
 ting : halto  
 tinga : haltigi  
 tingu : halti  

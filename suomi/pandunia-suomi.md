@@ -3,6 +3,7 @@
 -em : pääte: pienin erottuva yksikkö kielitieteessä  
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
+ : voimakas (vahva)  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -120,7 +121,7 @@ baha'iste : bahailainen
 baha'istia : bahailaisuus  
 bahamia : Bahama-saaret  
 bahrain : Bahrain  
-bal : voimakas (vahva)  
+bal : kahdeksan (8)  
 balde : sanko (ämpäri)  
 bale : voima  
 balkon : parveke (kuisti)  
@@ -153,7 +154,6 @@ bas : tarpeeksi (riittävästi)
 basen : allas  
 baske : kori  
 baskobol : koripallo  
-bat : kahdeksan (8)  
 bate : sorsa (ankka)  
 batokrote : vesinokkaeläin  
 baton nur : soihtu  
@@ -1300,13 +1300,13 @@ mes 10 (mes des) : lokakuu
 mes 11 (mes des un) : marraskuu  
 mes 12 (mes des dul) : joulukuu  
 mes 2 (mes dul) : helmikuu  
-mes 3 (mes sam) : maaliskuu  
+mes 3 (mes tin) : maaliskuu  
 mes 4 (mes car) : huhtikuu  
 mes 5 (mes lim) : toukokuu  
 mes 6 (mes sis) : kesäkuu  
-mes 7 (mes set) : heinäkuu  
-mes 8 (mes bat) : elokuu  
-mes 9 (mes noy) : syyskuu  
+mes 7 (mes sem) : heinäkuu  
+mes 8 (mes bal) : elokuu  
+mes 9 (mes naw) : syyskuu  
 mes : kuukausi  
 mesaja : viestiä (kommunikoida)  
 mesaje : viesti  
@@ -1449,6 +1449,7 @@ nasiste : nationalisti
 nasistia : kansallisuusaate (nationalismi)  
 natre : natrium  
 nauru : Nauru  
+naw : yhdeksän  
 nawati : nahuatli  
 ne : ei  
 nederlandi antilia : Alankomaiden Antillit  
@@ -1488,6 +1489,7 @@ nixe : alkovi
 nobelium : nobelium  
 noce : yö  
 node : solmu  
+nodewiste : ateisti (jumalankieltäjä)  
 nol ren : ei kukaan  
 nol xey : ei mitään  
 nol : nolla (ei yhtään)  
@@ -1510,7 +1512,6 @@ nowa : uudistaa
 nowi kaledonia : Uusi-Kaledonia  
 nowi zilandia : Uusi-Seelanti  
 nowi : uusi  
-noy : yhdeksän  
 nudi : alaston (paljas, naku)  
 nudiste : nudisti  
 nudistia : nudismi  
@@ -1624,6 +1625,7 @@ penda : roikuttaa
 penis : siitin (penis)  
 penta : maalata  
 penter : maalari  
+pepele : perhonen  
 pepin : kurkku  
 per : päärynä  
 perda : pierrä (pieraista)  
@@ -1875,9 +1877,11 @@ salam : hyvä (tervehdyksissä)
 salame : tervehdys (terve!)  
 salbador : El Salvador  
 salone : Sierra Leone  
-sam : kolme (3)  
+sam : sama  
 saman : taivas  
 samoa : Samoa  
+samodexi : samanmaalainen (maanmies)  
+samojinsokami : homoseksuaali  
 samokon : kolmio  
 sana : tehdä (valmistaa)  
 sanduke : laatikko  
@@ -1905,9 +1909,8 @@ sekunde : sekunti
 sekundometer : sekuntikello  
 sel : solu  
 selen : seleeni  
-sem dexi : samanmaalainen (maanmies)  
-sem jinse kami : homoseksuaali  
-sem : sama  
+sem : seitsemän (7)  
+seman : viikko  
 semente : sementti  
 sen : lava (näyttämö)  
 senegal : Senegal  
@@ -1921,8 +1924,6 @@ serwe : palvelu (palvelus)
 serwer : palvelija (tarjoilija)  
 serye : sarja  
 sesam : seesami  
-set war : viikko  
-set : seitsemän (7)  
 sexel nesia : Seychellit  
 si : kyllä  
 sibir : Siperia  
@@ -2088,6 +2089,7 @@ tike masal : tikka masala
 tike : pala  
 tikete : lippu (piletti)  
 tim : joukkue (tiimi)  
+tin : kolme (3)  
 tin : tölkki (purkki)  
 ting : pysähdys  
 tinga : pysäyttää  
@@ -2182,12 +2184,12 @@ wanil : vanilja
 wanta : haluta  
 wanuatu : Vanuatu  
 war 1 (war un) : maanantai  
-war 2 (war du) : tiistai  
-war 3 (war sam) : keskiviikko  
+war 2 (war dul) : tiistai  
+war 3 (war tin) : keskiviikko  
 war 4 (war car) : torstai  
 war 5 (war lim) : perjantai  
 war 6 (war sis) : lauantai  
-war 7 (war set) : sunnuntai  
+war 7 (war sem) : sunnuntai  
 war : viikonpäivä  
 waris : perintö  
 warke : lehti (arkki, levy)  

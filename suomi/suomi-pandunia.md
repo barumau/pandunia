@@ -114,6 +114,7 @@ astia (kulho) : tas
 astma : asme  
 asua : doma  
 asunto (koti) : dom  
+ateisti (jumalankieltäjä) : nodewiste  
 ateljee (studio) : estudia  
 atomi : atom  
 aueta (avautua) : kayu  
@@ -219,7 +220,7 @@ ele : jeste
 elegantti : xiki  
 elektroni : eletron  
 eli (toisin sanoen) : yani  
-elokuu : mes 8 (mes bat)  
+elokuu : mes 8 (mes bal)  
 eläin : hewan  
 elämä : jiwe  
 elävä : jiwi  
@@ -349,7 +350,7 @@ hedelmä : pal
 hei (haloo) : halow  
 heijastaa (peilata) : mira  
 heimo : tribe  
-heinäkuu : mes 7 (mes set)  
+heinäkuu : mes 7 (mes sem)  
 heittää (paiskata) : lanca  
 helium : helium  
 helmi : jenju'  
@@ -390,7 +391,7 @@ hoitaa (lääkitä) : medika
 hoitaa (pitää huolta) : kura  
 holmium : holmium  
 homo (homoseksuaali) : gey  
-homoseksuaali : sem jinse kami  
+homoseksuaali : samojinsokami  
 Honduras : honduras  
 Hong Kong : hongong  
 hormoni : hormon  
@@ -580,7 +581,7 @@ kaappi : almar
 kaasu : gas  
 kade (kateellinen) : jelos  
 kadmium : kadomium  
-kahdeksan (8) : bat  
+kahdeksan (8) : bal  
 kahista : xaxu  
 kahvi : kafe  
 kahvikuppi : kafokupe  
@@ -683,7 +684,7 @@ keskittyä (olla keskellä)  : jungu
 keskittää : fokusa  
 keskittää : junga  
 keskiverto (keski-) : medi  
-keskiviikko : war 3 (war sam)  
+keskiviikko : war 3 (war tin)  
 keskus (keskikohta) : jung  
 keskustelu (debatti) : lona  
 keskusteluhuone : blable kamar  
@@ -750,7 +751,7 @@ kokata (laittaa ruokaa) : kuka
 kokki : kuker  
 kolera : koler  
 kollektiivinen : jami  
-kolme (3) : sam  
+kolme (3) : tin  
 kolmio : samokon  
 kolonia (siirtomaa) : kolonia  
 kolonialismi : kolonistia  
@@ -1058,7 +1059,7 @@ maalais- : rusti
 maalari : penter  
 maalata : penta  
 maali (päämäärä) : gol  
-maaliskuu : mes 3 (mes sam)  
+maaliskuu : mes 3 (mes tin)  
 maanantai : war 1 (war un)  
 maanjäristys : sisme  
 maanviljelijä : nonger  
@@ -1466,6 +1467,7 @@ pelata : gema
 peli : gem  
 penkki : bence  
 perhe : famil  
+perhonen : pepele  
 perintö : waris  
 perjantai : war 5 (war lim)  
 persia (farsi) : farsi  
@@ -1725,8 +1727,8 @@ salainen : sir
 sallia (antaa lupa) : permisa  
 sallia : tolera  
 Salomon-saaret : solomon nesia  
-sama : sem  
-samanmaalainen (maanmies) : sem dexi  
+sama : sam  
+samanmaalainen (maanmies) : samodexi  
 Sambia : zambia  
 sammal : mos  
 Samoa : samoa  
@@ -1760,7 +1762,7 @@ seinä (muuri) : mur
 seisahtaa : estasa  
 seismologia : sismolojia  
 seistä (seisoa) : libu  
-seitsemän (7) : set  
+seitsemän (7) : sem  
 sekoitin : mixer  
 sekoittaa : mixa  
 seksi (sukupuolinen kanssakäyminen) : sekse  
@@ -1858,7 +1860,7 @@ sulaa : mayu
 sulka : puru  
 sulkea vetoketjulla : zipa  
 summa : sum  
-sunnuntai : war 7 (war set)  
+sunnuntai : war 7 (war sem)  
 suo (räme) : blotostan  
 suodattaa : filter  
 suola : sal  
@@ -1893,7 +1895,7 @@ syreeni : lilak
 syy : sabe  
 syyllinen : doxi  
 Syyria : suria  
-syyskuu : mes 9 (mes noy)  
+syyskuu : mes 9 (mes naw)  
 säde : rade  
 sädekehä (halo) : nurocirke  
 sähkö : eletre  
@@ -2010,7 +2012,7 @@ tietokone : komputer
 tietty (tunnettu) : jani  
 tietää : jana  
 tiikeri : bagre  
-tiistai : war 2 (war du)  
+tiistai : war 2 (war dul)  
 tikari : kanjar  
 tikka masala : tike masal  
 timantti : almas  
@@ -2234,7 +2236,7 @@ viha : hen
 vihainen (suuttunut) : furi  
 vihreä : berdi  
 viihdyttää (huvittaa) : fana  
-viikko : set war  
+viikko : seman  
 viikonpäivä : war  
 viimeinen : fini  
 viini : wain  
@@ -2268,7 +2270,7 @@ vitsiniekka : joker
 voi : makan  
 voida (osata, pystyä) : abla  
 voima : bale  
-voimakas (vahva) : bal  
+voimakas (vahva) :   
 voipuu : karite  
 voittaa (kukistaa) : wina  
 voitto : win  
@@ -2304,7 +2306,7 @@ watti : wate
 wiki : wiki  
 ##x  
 ##y  
-yhdeksän : noy  
+yhdeksän : naw  
 yhdistys (sidos, liiga) : lige  
 yhdistää : liga  
 yhdistää : una  

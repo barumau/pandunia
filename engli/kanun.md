@@ -194,32 +194,32 @@ are put before the word or phrase that they qualify.
 
 **un xing** - one star  
 **dul xing** - two stars  
-**sam xing** - three stars  
+**tin xing** - three stars  
 **xaw xing** - few stars  
 **pol xing** - many stars
 
 **un day kurse** - one big chair  
 **dul day kurse** - two big chairs  
-**sam bon kurse** - three good chairs
+**tin bon kurse** - three good chairs
 
 Ordinal numbers come after the word that they modify.
 
 **fen un** - the first part (part one)
 **fen dul** - the second part (part two)
-**fen sam** - the third part (part three)
+**fen tin** - the third part (part three)
 
 The basic number words are:
 
 - 0 **nol**
 - 1 **un**
 - 2 **dul**
-- 3 **sam**
+- 3 **tin**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
-- 7 **set**
-- 8 **bat**
-- 9 **noy**
+- 7 **sem**
+- 8 **bal**
+- 9 **naw**
 
 Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of
@@ -228,7 +228,7 @@ mathematics.
 - 10 **un nol** or **des**
 - 11 **un un**
 - 12 **un dul**
-- 13 **un sam**
+- 13 **un tin**
 - 20 **dul nol**
 - 21 **dul un**
 - 22 **dul dul**
@@ -240,14 +240,14 @@ Numbers that are greater than 999 may use the multiples from the
 International System of Units. So for example kilo denotes a multiple
 of a thousand.
 
-- 1000 **kilo**
-- 1 000 000 **mega**
-- 1 000 000 000 **giga**
-- 1 000 000 000 000 **tera**
-- 10<sup>15</sup> **peta**
-- 10<sup>18</sup> **eksa**
-- 10<sup>21</sup> **zeta**
-- 10<sup>24</sup> **yota**
+- 1000 **kil**
+- 1 000 000 **megi**
+- 1 000 000 000 **gigi**
+- 1 000 000 000 000 **teri**
+- 10<sup>15</sup> **peti**
+- 10<sup>18</sup> **eksi**
+- 10<sup>21</sup> **zeti**
+- 10<sup>24</sup> **yoti**
     
 
 ## 5. Pronouns
@@ -536,7 +536,7 @@ Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
 
 The agent can be mentioned after the verb with or without the
-preposition **yu**.
+preposition **du**.
 
 **te vidu me.** - You are seen by me.  
 **te vidu du me.** - You are seen by me.
@@ -683,23 +683,23 @@ verb, not the whole question.
 
 ### 9.2. Modifier particles
 
-Particles **ya** and **yu** are used to mark possession and
-modification.  **ya** connects the modifying word or phrase to the
-modified word. **yu** works in the opposite direction. It connects the
+Particles **da** and **du** are used to mark possession and
+modification.  **da** connects the modifying word or phrase to the
+modified word. **du** works in the opposite direction. It connects the
 modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **ya** works like apostrophe-s ('s) in
+With regards to possession, **da** works like apostrophe-s ('s) in
 English.
 
 **maria da mame** - Maria's mother  
 **me da dom** - my house  
 **me da pape da dom** - my father's house
 
-**yu** works like "of" in English.
+**du** works like "of" in English.
 
 **mame du maria** - the mother of Maria  
 **dom du me** - the house of mine  
@@ -728,8 +728,8 @@ The particles help in creating measure words too.
 **dul sake da patate** - two sacks of potatos  
 **max sake da patate** - more sacks of potatos
  
-Note that **ya** and **yu** connect phrases together. So a modifier
-phrase with and without **ya** can mean a different thing.
+Note that **da** and **du** connect phrases together. So a modifier
+phrase with and without **da** can mean a different thing.
 
 **max sundar pul** - more beautiful flowers  
 **max da sundar pul** - more of beautiful flowers
@@ -738,22 +738,22 @@ phrase with and without **ya** can mean a different thing.
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **yu** has a similar role as English relative pronouns _which_,
+Here **du** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-**le si man _yu me vida_.** - He is the man _that I saw_.
+**le si man _du me vida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me vida man _yu nyama aple_.** - I see a man _who eats apples_.  
+**me vida man _du nyama aple_.** - I see a man _who eats apples_.  
 
-It's possible to construct relative clauses with **ya** too. Then the
+It's possible to construct relative clauses with **da** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
-into a modifier by putting **ya** immediately after the verb.
+into a modifier by putting **da** immediately after the verb.
 
-**me vida _aple nyamu ya_ man.** - I see an _apple-eating_ man.
+**me vida _aple nyamu da_ man.** - I see an _apple-eating_ man.
 
 **buke dugu da ren sa kamar.** = The book-reading person is in the room.  
 **le duga da buke sa meze.** = The book, that he/she reads, is on the table.
@@ -815,7 +815,7 @@ Pandunia has four prepositions of place and time.
 1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
 2. **na** - absence or lack: without
-3. **da** - origin, beginning or cause: from, since, because
+3. **ya** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -824,7 +824,7 @@ the preposition is complemented by a pronoun or a noun phrase.
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
 **me sona ya xam pa sube.** - I sleep since evening until morning.  
-**me safara ya london pa paris.** - I travel from London to Paris.  
+**me safara da london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
@@ -1265,7 +1265,7 @@ In Pandunia, structure words share the following characteristics:
 | 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
 | 7| Negation / lack / absence | **na**<br>without      |                        | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
 | 8| Affirmation / presence    |**sa**<br>with, by, at  |                        | **si**<br>yes          |                        | **su**                 |
-| 9| Possession                | **yu**<br>'s           |                        |                        |                        | **ya**<br>of           |
+| 9| Possession                | **da**<br>'s           |                        |                        |                        | **du**<br>of           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
 |11| Origin                    | **da**<br>from, since  |                        |                        |                        | **du**                 |
 
@@ -1291,7 +1291,7 @@ are above and the dependant words are below. For example the sentence
 
 Adjectives and numerals point to their head word, the noun.
 
-    me vida sam jowan ren.
+    me vida tin jowan ren.
 
        vida
       ┌─┴──┐
@@ -1299,15 +1299,15 @@ Adjectives and numerals point to their head word, the noun.
            |
          jowan
            |
-          sam
+          tin
 
 The hierarchy of word types in Pandunia from the more to the less
 central is as follows.
 
 1. Structure words
     1. Conjunctions: i, u, a
-    2. Connectors: ya, yu
-    3. Prepositions and postpositions: na, sa, pa, da; nu, su, pu, gu
+    2. Connectors: da, du
+    3. Prepositions and postpositions: na, sa, pa, ya; nu, su, pu, yu
     4. Pronouns
 2. Content words
     1. Numerals

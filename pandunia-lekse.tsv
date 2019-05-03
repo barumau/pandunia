@@ -121,7 +121,7 @@ hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:tigre. rus:
 			baha'istia	:	Baha'ism	bahaismo	bahailaisuus	bahaizm								
 	dex	BS	bahamia	:	Bahamas		Bahama-saaret	Bahamy								
 	dex	BH	bahrain	:	Bahrain		Bahrain	Bahrajn								
-			bal	:	strong	forta	voimakas (vahva)	silny								
+zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.			bal	:	eight (8)	ok (8)	kahdeksan (8)	osiem (8)								
 spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).			balde	:	bucket	sitelo	sanko (ämpäri)	wiadro								
 hin:बल "bal". ben:বল "bôl". tel:"balamu".			bale	:	force (strength)	forto	voima	siła								
 			balkon	:	balcony (porch)	balkono	parveke (kuisti)	balkon; ganek	balcón	sacada (varanda)	balcon	阳台	балкон	छज्जा	langkan (beranda)	balkon
@@ -154,7 +154,6 @@ per:urd:س (bas). ara:(bass). hin:(bas). swa:basi. spa:por:ita:basta.			bas	:	en
 			basen	:	pool (basin)	baseno	allas	basen								
 			baske	:	basket (basketball hoop)	korbo	kori	kosz								
 			baskobol	:	basket ball		koripallo	piłka do koszykówki (koszykówka)	baloncesto	basketball	basketball	篮球	баскетбол	बास्केट बॉल	bola basket	basketbol
-			bat	:	eight (8)	ok (8)	kahdeksan (8)	osiem (8)								
 mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). per:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)			bate	:	duck	anaso	sorsa (ankka)	kaczka								
 			batokrote	:	platypus		vesinokkaeläin	dziobak								
 eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".			baton	:	bar (rod, stick)	stango	tanko (sauva, patukka)	pręt, kij								
@@ -321,7 +320,7 @@ spa:por:chupar. khm:ជប់ (cup).			cupa	:	suck	suĉi	imeä	ssać
 zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).			cute	:	exit (leaving)	eliro	poistuminen	wyjśćie, opuszczenie								
 			cute mun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe								
 eng:choose. + hin:चुनना "cunnā". + vie:chọn.			cuza	:	choose (elect, select)	elekti	valita	wybrać, wybierać, selekcjonować								
-			cuze	:	choice (election, selection)	elekto	valinta (vaali)	wybór, elekcja, selekcja								
+zho:的 (de).			cuze	:	choice (election, selection)	elekto	valinta (vaali)	wybór, elekcja, selekcja								
 			da	:	of (particle of possession)	de (partiklo de posedo)	omistetun omistajaan liittävä partikkeli	z (partykuła posiadania)								
 spa:por:tgl:dado. ind:swa:dadu.			dade	:	die (dice)	ĵetkubo	noppa (arpakuutio)	kość do gry								
 			daixer	:	ambassador	ambasadoro	lähettiläs	ambasador								
@@ -350,7 +349,7 @@ ara:per:urd:(dars). tur:ders.			darse	:	lesson	leciono	oppi (opetus)	lekcja
 eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.			darte	:	soil (dirt)		maa (multa)	grunt (ziemia, próchnica)								
 			darwiniste	:	Darwinist		darwinisti	darwinista								
 			darwinistia	:	Darwinism		darwinismi	darwinizm								
-zho: "dao".			daw	:	way (road)	vojo	tie	droga, szosa, ulica								
+zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.			daw	:	way (road)	vojo	tie	droga, szosa, ulica								
 			dawiste	:	Taoist		taolainen	taoista								
 			dawistia	:	Taoism (Daoism)		taolaisuus	taoizm								
 yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".			day	:	big (greatly)	granda	iso (suuri; isosti, paljon)	duży; bardzo								
@@ -412,7 +411,7 @@ ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".			dox	:	fault (sin, bl
 eng:dose. rus:"doza".			doze	:	portion (dose)	porcio (dozo)	annos	porcja, dawka								
 			drame	:	drama	dramo	draama	dramat								
 eng:drug. spa:droga. fra:drogue. deu:Droge.			droge	:	drug (intoxicating substance)		huume	narkotyk								
-			du	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)								
+fra:de,du. por:de,do,da. pas:د‎ (də). arm:דְּ‎ (də).			du	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)								
 	made	Db	dubnium	:	dubnium	dubnio	dubnium	dubn								
 zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".			duga	:	read	legi	lukea	czytać								
 			duka	:	grieve	lamenti	surra (murehtia)	martwić								
@@ -1295,13 +1294,13 @@ spa:mez. ben:মাস Mash			mes	:	month	monato	kuukausi	miesiąc
 			mes 11 (mes des un)	:	November		marraskuu	marzec								
 			mes 12 (mes des dul)	:	December		joulukuu	kwiecień								
 			mes 2 (mes dul)	:	February		helmikuu	maj								
-			mes 3 (mes sam)	:	March		maaliskuu	czerwiec								
+			mes 3 (mes tin)	:	March		maaliskuu	czerwiec								
 			mes 4 (mes car)	:	April		huhtikuu	lipiec								
 			mes 5 (mes lim)	:	May		toukokuu	sierpień								
 			mes 6 (mes sis)	:	June		kesäkuu	wrzesień								
-			mes 7 (mes set)	:	July		heinäkuu	październik								
-			mes 8 (mes bat)	:	August		elokuu	listopad								
-			mes 9 (mes noy)	:	September		syyskuu	grudzień								
+			mes 7 (mes sem)	:	July		heinäkuu	październik								
+			mes 8 (mes bal)	:	August		elokuu	listopad								
+			mes 9 (mes naw)	:	September		syyskuu	grudzień								
 			mesaja	:	communicate (message)		viestiä (kommunikoida)	zakomunikować (zanieść wieści, poinformować)								
 eng:fra:message. por:mensagem. spa:mensaje. tur:mesaj. rus:месседж (messedž). jpn:メッセージ (messēji). kor:메시지 (mesiji). ara:(misaj).			mesaje	:	message	mesaĝo	viesti	wiadomość								
 			meta	:	measure (take measurements)	mezuri	mitata	zmierzyć								
@@ -1442,6 +1441,7 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 			nasistia	:	nationalism		kansallisuusaate (nationalismi)	nacjonalizm								
 	made	Na	natre	:	sodium	natrio	natrium	sód								
 	dex	NR	nauru	:	Nauru		Nauru	Nauru								
+hin:नौ (nau). urd:(nau).			naw	:	nine (9)		yhdeksän	dziewięć (9)								
 			nawati	:	Nahuatl (Nahua)	naūatla	nahuatli	nahuatl								
 			ne	:	no	ne	ei	nie								
 	dex	AN	nederlandi antilia	:	Netherlands Antilles		Alankomaiden Antillit	Antyle Holenderskie								
@@ -1481,6 +1481,7 @@ hin:mar:निन्द् (nind).			ninde	:	insult (offence)	insulto	loukkaus (
 	made	No	nobelium	:	nobelium	nobelio	nobelium	nobel								
 			noce	:	night	nokto	yö	noc								
 eng:node. spa:nudo. por:nó. fra:nœud.			node	:	knot (node; tie)	nodo	solmu	węzeł, zupeł								
+			nodewiste	:	atheist	ateisto	ateisti (jumalankieltäjä)									
 ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden								
 			nol ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba								
 			nol xey	:	nothing		ei mitään	nic, żadna rzecz								
@@ -1503,7 +1504,6 @@ ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden
 per:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.			nowi	:	new (recent)	nova	uusi	nowy								
 	dex	NC	nowi kaledonia	:	New Caledonia		Uusi-Kaledonia	Nowa Kaledonia								
 	dex	NZ	nowi zilandia	:	New Zealand		Uusi-Seelanti	Nowa Zelandia								
-			noy	:	nine (9)		yhdeksän	dziewięć (9)								
 			nudi	:	naked (bare)		alaston (paljas, naku)	nagi, goły, obnażony								
 			nudiste	:	nudist		nudisti	nudysta								
 			nudistia	:	nudism		nudismi	nudyzm								
@@ -1615,6 +1615,7 @@ rus:пельмень "pel'men'". pol:pielmeni. eng:pelmeni.			pelmen	:	dumpling 
 			penis	:	penis (phallus)	peniso	siitin (penis)	penis								
 eng:paint. fra:peintre.			penta	:	paint	pentri	maalata	namalować, malować								
 			penter	:	painter		maalari	malarz								
+kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.			pepele	:	butterfly	papilio	perhonen									
 spa:por:pepino. tgl:pipino. sin:පිපිඤ්ඤා (pipiññā).			pepin	:	cucumber	kukumo	kurkku	ogórek								
 			per	:	pear		päärynä	gruszka								
 			perda	:	fart (flatulate)		pierrä (pieraista)	pierdzieć								
@@ -1876,12 +1877,15 @@ ara:(salām). swa:salamu. ind:selamat.			salame	:	greeting (hello)	saluto	terveh
 			salima	:	surrender (to give up)			poddać się, poddawać się								
 	dex	SL	salone	:	Sierra Leone		Sierra Leone	Sierra Leone								
 			salta	:	jump			skoczyć, skakać								
-zho:"sān". jpn:"san". kor:"sam". tha:"sam".			sam	:	three (3)	tri (3)	kolme (3)	trzy (3)								
+ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.			sam	:	same	sama	sama	taki sam								
 			saman	:	sky (heaven)	ĉielo	taivas	niebo								
 			samani	:	celestial (heavenly)			niebieski, niebiański, podniebny								
 	made	Sm	samarium	:	samarium	samario		samar								
 	dex	WS	samoa	:	Samoa		Samoa	Samoa								
+			samodexi	:	compatriot	samlandano	samanmaalainen (maanmies)	rodak, ziomek, krajan								
+			samojinsokami	:	homosexual	samseksema	homoseksuaali	homoseksualny								
 			samokon	:	triangle		kolmio	trójkąt								
+			samu	:	resemble (be like)			być podobnym, być jak								
 vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.			sana	:	produce (create, make)	produkti (fabriki)	tehdä (valmistaa)	zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać								
 swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). per:urd:صندوق‎ (sanduq).			sanduke	:	box (chest)	skatolo (kesto)	laatikko	pudło, skrzynia								
 fra:sang. spa:sangre. por:sangue.			sang	:	blood	sango	veri	krew								
@@ -1913,11 +1917,9 @@ per:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया
 ind:sel. per:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.			sel	:	cell (biology)	ĉelo	solu	komórka (biologia)								
 			selen	:	selenium		seleeni	selen								
 	made	Se	selen	:	selenium	seleno		selen								
-ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.			sem	:	same	sama	sama	taki sam								
-			sem dexi	:	compatriot	samlandano	samanmaalainen (maanmies)	rodak, ziomek, krajan								
-			sem jinse kami	:	homosexual	samseksema	homoseksuaali	homoseksualny								
+rus:семь (semʹ).			sem	:	seven (7)	sep (7)	seitsemän (7)	siedem (7)								
+spa:por:semana. fra:semaine.			seman	:	week	semajno	viikko	tydzień								
 eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).			semente	:	cement		sementti	cement								
-			semu	:	resemble (be like)			być podobnym, być jak								
 fra:scène. spa:escena. rus:сцена (scena). deu:Szene. tur:sahne. per:(sahne).			sen	:	stage (scene)		lava (näyttämö)	scena								
 	dex	SN	senegal	:	Senegal		Senegal	Senegal								
 			sense	:	sense			zmysł								
@@ -1932,8 +1934,6 @@ eng:fra:service. por:serviço. rus:сервис (servis). tur:servis. hin:(sevâ
 			serwer	:	servant		palvelija (tarjoilija)									
 tur:seri. fra:série. spa:serie. rus:серия "seriya". eng:series. zho:系列 "xìliè". 			serye	:	series	serio	sarja	seria, szereg								
 tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).			sesam	:	sesame		seesami	sezam								
-			set	:	seven (7)	sep (7)	seitsemän (7)	siedem (7)								
-			set war	:	week	semajno	viikko	tydzień								
 	dex	SC	sexel nesia	:	Seychelles		Seychellit	Seszele								
 			si	:	yes (is)	jes (esti)	kyllä	tak; być								
 			sibir	:	Siberia		Siperia	Syberia								
@@ -2114,6 +2114,7 @@ per:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).			tike	
 			tike masal	:	tikka masala		tikka masala	tikka masala								
 eng:ticket.			tikete	:	ticket		lippu (piletti)	bilet			billet	票	билет			
 			tim	:	team		joukkue (tiimi)	drużyna			équipe	队	команда			
+hin:तीन (tīn). ben:তিন (tin). urd:(tīn).			tin	:	three (3)	tri (3)	kolme (3)	trzy (3)								
 eng:tin. may:tin.			tin	:	can (tin can)		tölkki (purkki)	puszka			bidon (boîte)	罐	бляшанка			
 zho:停 (tíng). yue:停 (ting4).			ting	:	stop	halto	pysähdys	stop; przerwa, zatrzymanie								
 			tinga	:	stop (halt)	haltigi	pysäyttää	zatrzymać								
@@ -2213,12 +2214,12 @@ eng:want.			wanta	:	want (desire)	voli	haluta	chcieć, pragnąć				想要
 	dex	VU	wanuatu	:	Vanuatu		Vanuatu	Vanuatu								
 			war	:	day of the week		viikonpäivä	dzień tygodnia								
 			war 1 (war un)	:	Monday		maanantai	poniedziałek								
-			war 2 (war du)	:	Tuesday		tiistai	wtorek								
-			war 3 (war sam)	:	Wednesday		keskiviikko	środa								
+			war 2 (war dul)	:	Tuesday		tiistai	wtorek								
+			war 3 (war tin)	:	Wednesday		keskiviikko	środa								
 			war 4 (war car)	:	Thursday		torstai	czwartek								
 			war 5 (war lim)	:	Friday		perjantai	piątek								
 			war 6 (war sis)	:	Saturday		lauantai	sobota								
-			war 7 (war set)	:	Sunday		sunnuntai	niedziela								
+			war 7 (war sem)	:	Sunday		sunnuntai	niedziela								
 ind:waris. ara:(wariþ). swa:urithi. tur:varis,miras.			waris	:	heritage (legacy, bequest)		perintö	spadek, dziedzictwo, spuścizna, zapis								
 ara:(waraqa). hau:warƙa. tur:varak. per:(varaqe). taj:варақа (varaqa). swa:waraka. + mya:အရွက် (arwak).			warke	:	leaf (sheet)		lehti (arkki, levy)	kartka (dokument)								
 ara:"wāḥa". tur:vaha. per:"vāhe". spa:oasis.			wase	:	oasis	oazo	keidas	oaza								
@@ -2391,3 +2392,4 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zulu'	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+				:	strong	forta	voimakas (vahva)	silny								

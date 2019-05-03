@@ -173,7 +173,7 @@ Bułgaria : bolgaria
 bułka gotowana na parze : mante  
 być o; dyskutować o : tema  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) : bey  
-być podobnym, być jak : semu  
+być podobnym, być jak : samu  
 być przeciw : kontra  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym : namu  
 być widzianym : widu  
@@ -256,7 +256,7 @@ czcić, szanować : puja
 czekać : denga  
 czekolada : coke  
 czempion : campion  
-czerwiec : mes 3 (mes sam)  
+czerwiec : mes 3 (mes tin)  
 cześć, szacunek : puje  
 cztery (4) : car  
 czuć : senta  
@@ -352,7 +352,7 @@ dziennik pokładowy (notatnik) : deftobuke
 dziennikarz : bawer  
 dziesięć (10) : des  
 dziewczyna : jowan fem  
-dziewięć (9) : noy  
+dziewięć (9) : naw  
 dzień : den  
 dzień dobry : salam den  
 dzień tygodnia : war  
@@ -498,7 +498,7 @@ Grecja : helenia
 Grenada : grenada  
 grom, huk : grom  
 gruby : gros  
-grudzień : mes 9 (mes noy)  
+grudzień : mes 9 (mes naw)  
 grunt (ziemia, próchnica) : darte  
 grupa : grupe  
 gruszka : per  
@@ -556,7 +556,7 @@ hobby : hobe
 hokej : hoke  
 Holandia (Królestwo Niderlandów) : nederlandia  
 holm : holmium  
-homoseksualny : sem jinse kami  
+homoseksualny : samojinsokami  
 Honduras : honduras  
 Hong Kong : hongong  
 honorowy : onori  
@@ -876,7 +876,7 @@ lipiec : mes 4 (mes car)
 lis : hule  
 lista słów : loge liste  
 lista, spis, wykaz : liste  
-listopad : mes 8 (mes bat)  
+listopad : mes 8 (mes bal)  
 lit : litium  
 litera, znak : harfe  
 litr : litre  
@@ -1125,7 +1125,7 @@ niebieski : nil
 niebieski, niebiański, podniebny : samani  
 niebo : saman  
 niech my, hajda : haida  
-niedziela : war 7 (war set)  
+niedziela : war 7 (war sem)  
 niedźwiedź : urse  
 niedźwiedź : urse  
 Niemcy : doicia  
@@ -1232,7 +1232,7 @@ orija : odisi
 Oromia : oromia  
 oromo : oromi  
 orzech ziemny : zemodow  
-osiem (8) : bat  
+osiem (8) : bal  
 osioł : gade  
 osm : osmium  
 osoba biznesu, biznesman : biznes ren  
@@ -1297,7 +1297,7 @@ patrzeć, widzieć : wida
 pauza, przerwa : paus  
 paznokieć : nahun  
 paść, padać, upaść, upadać : padu  
-październik : mes 7 (mes set)  
+październik : mes 7 (mes sem)  
 pchnąć, pchać : puxa  
 Pekin : beijing  
 pendżabski : panjabi  
@@ -1630,7 +1630,7 @@ robak : werme
 robot : robote  
 rocznica : nen feste  
 rod : rodium  
-rodak, ziomek, krajan : sem dexi  
+rodak, ziomek, krajan : samodexi  
 rodzaj, typ, styl : yang  
 rodzeństwo, brat lub siostra : saudar  
 rodzina : famil  
@@ -1727,7 +1727,7 @@ Seszele : sexel nesia
 sezam : sesam  
 shintoizm, sintoizm : xindawistia  
 siarka : sulfe  
-siedem (7) : set  
+siedem (7) : sem  
 siedzieć : sida  
 siekera, topór : tabar  
 sierociniec, dom dziecka : yatimodom  
@@ -1740,7 +1740,7 @@ sikh : sikiste
 sikhizm : sikistia  
 siki : pix  
 silnik : moter  
-silny : bal  
+silny :   
 Singapur : singapur  
 się (nawzajem, wzajemnie) : unale  
 siła : bale  
@@ -1905,7 +1905,7 @@ tajga : taiga
 Tajpej : taibei  
 Tajwan, Republika Chińska : taiwan  
 tak; być : si  
-taki sam : sem  
+taki sam : sam  
 taktyka, strategia : tatike  
 tal : talium  
 talerz : plate  
@@ -1971,7 +1971,7 @@ trucizna (toksyna) : tokse
 trwanie : dur  
 trwać, zająć czas; przez : dura  
 Trynidad i Tobago : trinida i tobago  
-trzy (3) : sam  
+trzy (3) : tin  
 trzymać : tena  
 trzęsienie Ziemi : sisme  
 trójkąt : samokon  
@@ -1998,7 +1998,7 @@ twój : ti
 twór; fakt : fate  
 twórca, kreator, czynnik : fater  
 ty, ciebie : te  
-tydzień : set war  
+tydzień : seman  
 tygrys : bagre  
 tykwa : hulu'  
 tylko : mon  
@@ -2167,7 +2167,7 @@ wstrzyknąć, wstrzykiwać : juxa
 wstyd (hańba, kompromitacja) : xarme  
 wszyscy, wszystkie, wszystko; każdy : pan  
 wszystko : mey xey  
-wtorek : war 2 (war du)  
+wtorek : war 2 (war dul)  
 wy, was : tote  
 wybrać, wybierać, selekcjonować : cuza  
 wybór, elekcja, selekcja : cuze  
@@ -2355,7 +2355,7 @@ zły, zrujnowany, zepsuty : harabi
 śnieg : him  
 śpiewać : canta  
 średni : medi  
-środa : war 3 (war sam)  
+środa : war 3 (war tin)  
 środkowy, centralny : jung  
 środowiskowy, naturalny : tabi  
 śruba, wkręt : lose  

@@ -3,6 +3,7 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
+ : strong  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -122,7 +123,7 @@ baha'iste : Baha'ist
 baha'istia : Baha'ism  
 bahamia : Bahamas  
 bahrain : Bahrain  
-bal : strong  
+bal : eight (8)  
 balde : bucket  
 bale : force (strength)  
 balkon : balcony (porch)  
@@ -155,7 +156,6 @@ bas : enough (sufficient)
 basen : pool (basin)  
 baske : basket (basketball hoop)  
 baskobol : basket ball  
-bat : eight (8)  
 bate : duck  
 batokrote : platypus  
 baton nur : torch  
@@ -1306,13 +1306,13 @@ mes 10 (mes des) : October
 mes 11 (mes des un) : November  
 mes 12 (mes des dul) : December  
 mes 2 (mes dul) : February  
-mes 3 (mes sam) : March  
+mes 3 (mes tin) : March  
 mes 4 (mes car) : April  
 mes 5 (mes lim) : May  
 mes 6 (mes sis) : June  
-mes 7 (mes set) : July  
-mes 8 (mes bat) : August  
-mes 9 (mes noy) : September  
+mes 7 (mes sem) : July  
+mes 8 (mes bal) : August  
+mes 9 (mes naw) : September  
 mes : month  
 mesaja : communicate (message)  
 mesaje : message  
@@ -1455,6 +1455,7 @@ nasiste : nationalist
 nasistia : nationalism  
 natre : sodium  
 nauru : Nauru  
+naw : nine (9)  
 nawati : Nahuatl (Nahua)  
 ne : no  
 nederlandi antilia : Netherlands Antilles  
@@ -1494,6 +1495,7 @@ nixe : niche (alcove)
 nobelium : nobelium  
 noce : night  
 node : knot (node; tie)  
+nodewiste : atheist  
 nol ren : nobody (no-one)  
 nol xey : nothing  
 nol : zero (none)  
@@ -1516,7 +1518,6 @@ nowa : renew (make new, renovate)
 nowi kaledonia : New Caledonia  
 nowi zilandia : New Zealand  
 nowi : new (recent)  
-noy : nine (9)  
 nudi : naked (bare)  
 nudiste : nudist  
 nudistia : nudism  
@@ -1630,6 +1631,7 @@ penda : hang (dangle)
 penis : penis (phallus)  
 penta : paint  
 penter : painter  
+pepele : butterfly  
 pepin : cucumber  
 per : pear  
 perda : fart (flatulate)  
@@ -1893,12 +1895,15 @@ salbador : El Salvador
 salima : surrender (to give up)  
 salone : Sierra Leone  
 salta : jump  
-sam : three (3)  
+sam : same  
 saman : sky (heaven)  
 samani : celestial (heavenly)  
 samarium : samarium  
 samoa : Samoa  
+samodexi : compatriot  
+samojinsokami : homosexual  
 samokon : triangle  
+samu : resemble (be like)  
 sana : produce (create, make)  
 sanduke : box (chest)  
 sang : blood  
@@ -1930,11 +1935,9 @@ sekur : safe (secure)
 sel : cell (biology)  
 selen : selenium  
 selen : selenium  
-sem dexi : compatriot  
-sem jinse kami : homosexual  
-sem : same  
+sem : seven (7)  
+seman : week  
 semente : cement  
-semu : resemble (be like)  
 sen : stage (scene)  
 senegal : Senegal  
 sense : sense  
@@ -1949,8 +1952,6 @@ serwe : service
 serwer : servant  
 serye : series  
 sesam : sesame  
-set war : week  
-set : seven (7)  
 sexel nesia : Seychelles  
 si : yes (is)  
 sibir : Siberia  
@@ -2133,6 +2134,7 @@ tike : tikka (piece)
 tikete : ticket  
 tim : team  
 tin : can (tin can)  
+tin : three (3)  
 ting : stop  
 tinga : stop (halt)  
 tingu : stop (halt)  
@@ -2234,11 +2236,11 @@ wanta : want (desire)
 wanuatu : Vanuatu  
 war 1 (war un) : Monday  
 war 2 (war dul) : Tuesday  
-war 3 (war sam) : Wednesday  
+war 3 (war tin) : Wednesday  
 war 4 (war car) : Thursday  
 war 5 (war lim) : Friday  
 war 6 (war sis) : Saturday  
-war 7 (war set) : Sunday  
+war 7 (war sem) : Sunday  
 war : day of the week  
 waris : heritage (legacy, bequest)  
 warke : leaf (sheet)  

@@ -308,14 +308,14 @@ What's this?
 **ce me da fon.**
 It's my phone.
 
-**ce ke ya?**
+**ce ke da?**
 Whose is this?
 
-**ce me ya.**
+**ce me da.**
 It's mine.
 
-Note: Possessive particle **ya** is put between the owner and the owned thing.
-So **me ya** means "my", **te ya** means "your" and so on.
+Note: Possessive particle **da** is put between the owner and the owned thing.
+So **me da** means "my", **te da** means "your" and so on.
 
 **le ke?**
 Who's he/she?
@@ -326,8 +326,8 @@ He/she is my friend.
 **me si sara da doste.**
 I am Sara's friend.
 
-<small>Etymology. **ya**
-Mandarin: 有 (yǒu), Hakka: 有 (ya).</small>
+<small>Etymology. **da**
+Mandarin: 的 (de).</small>
 
 ### nam <small>name</small>
 
