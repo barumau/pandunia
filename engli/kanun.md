@@ -161,14 +161,14 @@ Modifiers can be compared.
 - **maxim** (most) indicates the superlative of superiority
 - **min** (less) indicates comparison of inferiority
 - **minim** (least) indicates the superlative of inferiority
-- **sem** (as) indicates the comparison of equality
+- **sam** (as) indicates the comparison of equality
 
 Particle **ka** relates the adverbs of comparison to the point of
 comparison.
 
 **me si max bon ka te.**
 = I am better than you.  
-**te loga sem bon ka me.**
+**te loga sam bon ka me.**
 = You speak as well as me.
 
 #### 3.6. Modifier ending
@@ -274,8 +274,8 @@ Note! The reflexive pronoun **ze** is used for all persons, so it
 corresponds to English _myself_, _yourself_, _himself_, _herself_,
 _itself_, ourselves_ and _themselves_ all at once.
 
-**me vida ze** - I see myself.  **le vida ze** - She sees herself. /
-He sees himself. / It sees itself.  **mome vida ze.** - We see
+**me wida ze** - I see myself.  **le wida ze** - She sees herself. /
+He sees himself. / It sees itself.  **mome wida ze.** - We see
 ourselves.  
 
 ### 5.3. Demonstrative pronouns
@@ -312,7 +312,7 @@ Adjectives are questioned with **ki**.
 
 **ki day?** - How big?  
 **ki lil?** - How small?  
-**ki day da maw te hava?** - How big cat do you have?
+**ki day da maw te ada?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -351,7 +351,7 @@ and the object third.
     S   O
 
 Examples:  
-**me vida lole.** - I see them.  
+**me wida lole.** - I see them.  
 **te beka pang.** - You bake bread.  
 
 #### 6.2.2. OSV order
@@ -366,7 +366,7 @@ dependant clauses.
     S ← O
 
 Examples:  
-**ke te vida?** - What do you see?  
+**ke te wida?** - What do you see?  
 **me nyama pang, du te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOS order
@@ -400,7 +400,7 @@ SOV order is commonly used alternative for SVO order.
     O ← S
 
 Examples:  
-**me lole vidu.** - _I them see._  
+**me lole widu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
 #### 6.3.2. OVS order
@@ -432,7 +432,7 @@ VSO order is very rare but possible.
 In passive sentence there is only object and verb but no subject (i.e.
 agent).
 
-> **me vidu.** - I am seen.  
+> **me widu.** - I am seen.  
 > **pang beku.** - Bread is baked.  
 > **kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
@@ -508,7 +508,7 @@ subject–verb–object word order (SVO).
 
 **me nyama aple.** - I eat apples.  
 **me auda musike.** - I hear music.  
-**me vida te.** - I see you.
+**me wida te.** - I see you.
 
 Verbs ending in **-u** are used in the subject–object–verb word order
 (SOV).
@@ -528,7 +528,7 @@ In the passive voice there is no agent subject in the sentence. There
 is only the object and the verb. Normally the passive is expressed
 with object–verb (OV) word order with the verb ending in **-u**.
 
-**te vidu.** - You are seen.  
+**te widu.** - You are seen.  
 **musike audu.** - Music is heard.  
 **pang beku.** - Bread is baked.
 
@@ -538,14 +538,14 @@ sentence. The object is a passive actor that undergoes the action.
 The agent can be mentioned after the verb with or without the
 preposition **du**.
 
-**te vidu me.** - You are seen by me.  
-**te vidu du me.** - You are seen by me.
+**te widu me.** - You are seen by me.  
+**te widu du me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
 In verb–object (VO) order the focus is on the verb.
 
-**vida te.** - Seeing you.  
+**wida te.** - Seeing you.  
 **auda musike.** - Listening music.  
 **beka pang.** - Baking bread.
 
@@ -664,22 +664,22 @@ Such sentences can be simply negated with **ni**.
 
 The word **ni** is used for denying anything. It affects always the next word.
 
-**me vida te.** - I see you.  
-**me ni vida te.** - I don't see you.  
-**me vida ni te a lole.** - I see, not you, but them.
+**me wida te.** - I see you.  
+**me ni wida te.** - I don't see you.  
+**me wida ni te a lole.** - I see, not you, but them.
 
 The particles **si** and **ni** are used also for answering questions.
 
-**eska te vida me?** - Do you see me?  
-**si. (me si vida te.)** - Yes. (I do see you.)  
-**ni. (me ni vida te.)** - No. (I don't see you.)
+**eska te wida me?** - Do you see me?  
+**si. (me si wida te.)** - Yes. (I do see you.)  
+**ni. (me ni wida te.)** - No. (I don't see you.)
 
 Negative questions are answered so that **si** and **ni** apply to the
 verb, not the whole question.
 
-**eska te ni vida me?** - Don't you see me?  
-**si. (me si vida te.)** - Yes. (I do see you.)  
-**ni. (me ni vida te.)** - No. (I don't see you.)
+**eska te ni wida me?** - Don't you see me?  
+**si. (me si wida te.)** - Yes. (I do see you.)  
+**ni. (me ni wida te.)** - No. (I don't see you.)
 
 ### 9.2. Modifier particles
 
@@ -741,19 +741,19 @@ Also relative clauses are created with help of the modifier particles.
 Here **du** has a similar role as English relative pronouns _which_,
 _that_, _who_ and _whom_.
 
-**le si man _du me vida_.** - He is the man _that I saw_.
+**le si man _du me wida_.** - He is the man _that I saw_.
 
 If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me vida man _du nyama aple_.** - I see a man _who eats apples_.  
+**me wida man _du nyama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
 into a modifier by putting **da** immediately after the verb.
 
-**me vida _aple nyamu da_ man.** - I see an _apple-eating_ man.
+**me wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
 
 **buke dugu da ren sa kamar.** = The book-reading person is in the room.  
 **le duga da buke sa meze.** = The book, that he/she reads, is on the table.
@@ -797,7 +797,7 @@ past) etc.
 **a me ni ada maw sa zaye.** - But I don't have cats at present.  
 **munkin me ada maw sa wile.** - Maybe I will have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **hava** stayed the same in
+Note! Verbs are not conjugated. So the verb **ada** stayed the same in
 all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it
@@ -892,10 +892,10 @@ the point of comparison.
 **ka** is also used when adjectives are compared.
 
 **bace si min day ka pape.** - The child is smaller than the father.  
-**law pape si sem day ka pape.** - Grandfather is as big as father.
+**law pape si sam day ka pape.** - Grandfather is as big as father.
 
 **ka** relates the adverbs of comparison – **max** (more), **min**
-(less) and **sem** (same) – to the point of comparison, which is
+(less) and **sam** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
 
 
@@ -956,7 +956,7 @@ that **-a** marks an active verb and **-u** marks a passive verb. So
 **loga** means _to speak_ and **logu** means _to be spoken_.
 
 1. If the root is an action, then its verbal form will mean "to do the
-   action".  For example from **vide** = "a look" we get **vida** =
+   action".  For example from **vide** = "a look" we get **wida** =
    "to look".
 2. If the root is a description, like **now-** (**novi** = new), then
    its verbal form will mean "to turn into that quality". For example
@@ -1052,8 +1052,8 @@ then the second word **meter**, resulting into **term-o-meter** i.e.
 
 Indicates possibility. It is attached after the verb root.
 
-**vidabli** which can be seen, visible  
-**vidubli** who/which can see
+**widabli** which can be seen, visible  
+**widubli** who/which can see
 
 #### 11.3.2. -er
 
@@ -1174,7 +1174,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me vida ren, du te jana.** (I saw the person _whom you know_.) The
+**me wida ren, du te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1281,19 +1281,19 @@ and other words are directly or indirectly connected to it.
 
 Each sentence can be drawn as a tree diagram, where the central words
 are above and the dependant words are below. For example the sentence
-**me vida te** (I see you) can be pictured as a tree as follows.
+**me wida te** (I see you) can be pictured as a tree as follows.
 
-    me vida te.
+    me wida te.
 
-       vida
+       wida
       ┌─┴─┐
      me   te
 
 Adjectives and numerals point to their head word, the noun.
 
-    me vida tin jowan ren.
+    me wida tin jowan ren.
 
-       vida
+       wida
       ┌─┴──┐
      me   ren
            |

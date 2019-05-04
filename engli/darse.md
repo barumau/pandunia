@@ -295,7 +295,7 @@ Try translating these sentences from English to Pandunia.
 
 **cay** tea.
 **plisa** to ask; please.
-**giva** to give.
+**dona** to give.
 **danke** thanks.
 **i** and.
 **kafe** coffee.
@@ -510,7 +510,7 @@ is more than one correct answer.
 
 **kupe** cup, glass, mug.
 **hali** empty.
-**hava** to have.
+**ada** to have.
 **maw** cat.
 **waf** dog.
 **dul** two.
