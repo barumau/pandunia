@@ -6,17 +6,17 @@ Esittäytyminen
 
 ### Keskustelu
 
-> ☻: **te si ke?**
+☻: **te si ke?**
 = Kuka sinä olet?  
-> ☺: **me si yusef. te si ke?**
+☺: **me si yusef. te si ke?**
 = Olen Yusef. Kuka sinä olet?  
-> ☻: **me si maria. le si ke?**
+☻: **me si maria. le si ke?**
 = Olen Maria. Kuka hän on?  
-> ☺: **le si mi doste.**
+☺: **le si mi doste.**
 = Hän on minun ystäväni.  
-> ☻: **li nam si ke?**
+☻: **li nam si ke?**
 = Mikä hänen nimensä on?  
-> ☺: **li nam si sara.**
+☺: **li nam si sara.**
 = Hänen nimensä on Sara.
 
 ### Kielioppia
@@ -25,11 +25,15 @@ Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta. Teema oso
 
 Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaan kaikissa persoonissa. Kieltomuodossa käytetään sen sijasta sanaa **ni**, joka tarkoittaa _ei_.
 
-> **le si sara.** - Hän on Sara.  
-> **le ni sara.** - Hän ei ole Sara.  
+**le si sara.**
+= Hän on Sara.  
+**le ni sara.**
+= Hän ei ole Sara.  
 
-> **maw si hewan** - Kissa on eläin.  
-> **dom ni hewan** - Talo ei ole eläin.  
+**maw si hewan.**
+= Kissa on eläin.  
+**dom ni hewan.**
+= Talo ei ole eläin.  
 
 
 ### Harjoituksia
@@ -121,7 +125,7 @@ Toinen yleinen tervehdys on **halow**. Se on myös hyvin kansainvälinen
 ja maailmalla laajasti tunnistettu tapa tervehtiä ihmisiä.
 
 **halow!**
-- Hei! / Haloo! / Hello!
+= Hei! / Haloo! / Hello!
 
 
 ### Harjoituksia
@@ -289,7 +293,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 --------------------------------------------------------------------------------
 
 
-## Kysymykset joihin vastataan "kyllä" tai "ei"
+## "Kyllä vai ei" -kysymykset
 
 ### Keskustelu
 
@@ -418,4 +422,264 @@ Käännä seuraavat lauseet panduniaksi.
 5. eska le nyama supe?
 6. (le) ni nyama.
 
+--------------------------------------------------------------------------------
+
+## Ein sanominen
+
+
+Edellisellä tunnilla opitte vastaamaan kysymyksiin **si** ja **ni**.
+on siis kieltosana. Kun verbin eteen lisätään **ni**, myöntölauseesta
+tulee kieltolause.
+
+**me salama te.**
+= Minä tervehdin sinua.  
+**me ni salama te.**
+= Minä en tervehdi sinua.
+
+Käsitteellisesti kieltäminen tarkoittaa kielletyn sanan olemattomaksi
+toteamista. Lauseessa **me ni salama te** kieltosana **ni** kieltää
+tervehtimisen olemassaolon. Panduniassa kieltosana vaikuttaa aina
+seuraavaan sanaan. Siis eri asiat tulevat kielletyksi, kun kieltosanan
+paikka lauseessa muuttuu.
+
+**me plisa te safa kamar.**
+= Minä pyydän sinua siivoamaan huoneen.  
+**me ni plisa te safa kamar.**
+= Minä EN pyydä sinua siivoamaan huonetta.  
+**me plisa te ni safa kamar.**
+= Minä pyydän sinua ETTET siivoa huonetta.
+
+Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
+substantiivi, adjektiivi tai jopa lukusana.
+
+**le ni ada maw.**
+= Hän ei omista kissaa.  
+**le ada ni maw, a waf.**
+= Hän ei omista kissaa vaan koiran.  
+**ni le, a me ada maw.**
+= Ei hän vaan minä omistan kissan.  
+**me ada ni un, a dul maw.**
+= Minula ei ole yhtä vaan kaksi kissaa.
+
+
+### Harjoituksia
+
+Käännä seuraavat lauseet panduniaksi.
+
+1. Hän ei siivonnut huonetta.
+2. Yksi kuppi ei ole tyhjä.
+3. Kaksi koiraa ei syö keittoa.
+4. Hän ei omista koiria ja kissoja.
+5. Pomo juo teetä mutta ei kahvia.
+6. Äiti ei omista koiraa vaan kaksi kissaa.
+
+
+### Sanasto
+
+**kupe** kuppi, muki, lasi.
+**hali** tyhjä.
+**ada** omistaa.
+**maw** kissa.
+**waf** koira.
+**dul** kaksi.
+**nol** nolla.
+**a** mutta, vaan.
+
+
+### Harjoitusten vastaukset
+
+1. le ni safa kamar.
+2. un kupe ni hali.
+3. dul waf ni nyama supe.
+4. le ni ada waf i maw. / le ada ni waf i ni maw.
+5. xefe nyama cay a ni kafe.
+6. mame ada ni waf a dul maw.
+
+
+--------------------------------------------------------------------------------
+
+## Muita kysymyksiä
+
+Asioiden kysymiseen käytetään kysymyssanoja **ke** ja **ki**, jota
+tarkennetaan muilla sanoilla.
+
+**le si ke?**
+= Mikä se on? / Kuka hän on?  
+**le si ki ren?**
+= Kuka (henkilö) hän on?  
+**le si ke xey?**
+= Mikä (asia) se on?
+
+**ki ren laya?**
+= Kuka tulee? (**ren** = henkilö)  
+**ki zaman te nyama?**
+= Mihin aikaan sinä syöt? (**zaman** = aika)  
+**ki yang se dansa?**
+= Miten tanssitaan? (**yang** = tapa)
+
+Miksi-kysymykset aloitetaan sanomalla **ke saba** = minkä vuoksi.
+
+**ke saba te suku maw?**
+= Minkä takia sinä tykkäät kissoista?
+
+Miksi-kysymykseen vastataan panemalla sana **sabu** ennen syytä.
+**sabu** on todellisuudessa passiivinen verbi, joka tarkoittaa
+_aiheutua_.
+
+**ke saba te suku maw?**
+= Minkä takia sinä tykkäät kissoista?  
+**sabu lole kaway.**
+= Sen takia että ne ovat söpöjä.
+
+Sanaa **sabu** voi käyttää syyn ilmaisemiseen silloinkin, kun ei
+vastata kysymykseen.
+
+**me suku maw sabu lole kaway**
+= Minä tykkään kissoista sen takia että ne ovat söpöjä.
+
+### Harjoituksia
+
+1. Kuka tykkää keitosta?
+2. Isä tykkää.
+3. Milloin hän tulee?
+4. Kymmenen minuutin päästä.
+5. Miksi hän ei juo?
+6. Koska hän ei tykkää kahvista.
+
+
+### Sanasto
+
+**dansa** tanssia.
+**laya** tulla.
+**ren** henkilö.
+**suku** tykätä, pitää.
+**yang** tapa.
+**zaman** aika.
+
+
+### Harjoitusten vastaukset
+
+
+1. ki ren suku supe?
+2. pape suku.
+3. ki zaman le laya?
+4. sa bade du des minute.
+5. ke saba le ni nyama?
+6. sabu le ni suku kafe.
+
+
+--------------------------------------------------------------------------------
+
+## Mennyt, nykyinen ja tuleva
+
+### Expressing time
+
+Pandunian kaikki verbit ovat taipumattomia. Jokaisella verbillä on
+siis vain yksi muoto, jota käytetään kaikissa aikamuodoissa. Ne siis
+muistuttavat joitakin suomen kielen verbejä, kuten imuroida ja nauttia,
+jotka ovat kaikissa aikamuodoissa samoja tietyissä persoonissa.
+
+**me funocupa.**
+= Minä imuroin (äsken/nyt/pian).
+
+Ero on siinä, että kaikki pandunian verbit ovat sellaisia! Esimerkiksi
+**me nyama pang**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
+syön leipää", mutta tavallisesti vain toinen merkitys sopii
+asiayhteyteen. Esimerkiksi kun on päivä ja puhe on aamiaisesta,
+lause viittaa luonnollisesti menneeseen aikaan.
+
+**me nyama pang sa subi nyam.**
+= Minä söin leipää aamiaisella.
+
+Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zay**
+ja **wil**. Niitä voi käyttää substantiivien määrittämiseen.
+
+**sara si mi pas xefe.**
+= Sara on minun entinen pomo.  
+**yusef si mi zay xefe.**
+= Yusef on minun nykyinen pomo  
+**maria si mi wil xefe.**
+= Maria on minun tuleva pomo.
+
+Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
+ajassa. Ajan määre pannaan verbin eteen.
+
+**me pas darba le.**
+= Minä löin sitä (ennen).  
+**me zay darba le.**
+= Minä lyön sitä (nyt).  
+**me wil darba le.**
+= Minä lyön sitä (tulevaisuudessa).
+
+Kuten huomaat, verbi ei taivu aikamuodoissa. Verbi **darba** (lyödä)
+pysyy samana kaikissa aikamuodoissa.
+
+Vaihtoehtoisesti ajan määreen voi panna myös lauseen loppuun.
+
+**me darba le pas.**  
+**me darba le zay.**  
+**me darba le wil.**
+
+On myös mahdollista ilmaista asia pitemmästi, kuten sanomalla
+**sa pase** (menneisyydessä) jne.
+
+**me darba le sa pase.**
+= Minä löin sitä menneisyydessä.  
+**me darba le sa zaye.**
+= Minä lyön sitä nykyään.  
+**me darba le sa wile.**
+= Minä lyön sitä tulevaisuudessa.
+
+Yksinkertaisuuden vuoksi ajan määrettä ei tarvitse toistaa jatkuvasti.
+Olisi kömpelöä jankuttaa, että minä heräsin _aamulla_, harjasin hampaat
+_aamulla_, söin _aamulla_ ja luin lehteä _aamulla_. Riittää, kun sanoo
+yhden kerran, että kaikki se tapahtui aamulla. Siis ajan määre mainitaan
+vain kerran alussa. Seuraava ajan määre tarvitaan vasta sitten, kun
+siirrytään puhumaan toisesta ajan kohdasta.
+
+**me pas ada un maw.**
+= Minä omistin ennen kissan.  
+**le bon maw.**
+= Se _oli_ hyvä kissa.  
+**me ada un waf zay.**
+= Minulla on koira nyt.
+
+Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi. Silloin ei
+tarvita muita aikaa ilmaisevia sanoja.
+
+**me jenu sa nen 2003.**
+= Minä synnyin _vuonna 2003_.  
+**le safa kamar sa badi den.**
+= Hän siivoa huoneen _huomenna_.
+
+
+### Harjoituksia
+
+Käännä seuraavat lauseet panduniaksi.
+
+1. Minun pomo juhlii tulevaisuudessa.
+2. Minulla oli kaksi koiraa ennen.	
+3. Sinä juot kahvia nyt.
+4. Hän siivosi huoneen eilen.
+5. Kissa juo maitoa huomenna.
+6. Sinun äiti juhli eilen illalla.
+
+### Sanasto
+
+**pas** entinen, ennen.
+**zay** nykyinen, nykyään.
+**wil** tuleva, tulevaisuudessa.
+**darba** lyödä.
+**pang** leipä.
+**subi nyam** aamiainen.
+**milke** maito.
+
+### Harjoitusten vastaukset
+
+1. mi xefe festa sa wile.
+2. me ada dul waf sa pase.
+3. te nyama kafe zay.
+4. le safa kamar sa predi den.
+5. maw nyama milke sa badi den.
+6. ti mame festa sa predi noce.
 
