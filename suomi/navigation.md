@@ -7,6 +7,7 @@
 
   * [Ääntäminen](abc.md)
   * [Lauseita](fraze.md)
+  * [Kurssi](darse.md)
 
 [Sanasto]()
 

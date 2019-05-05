@@ -26,6 +26,7 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 - [Kielioppi](kanun.md)
 - [Ääntäminen](abc.md)
 - [Lauseita](fraze.md)
+- [Oppitunteja](darse.md)
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)
