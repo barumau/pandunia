@@ -170,7 +170,7 @@ Pidiendo
 ☻: **me nyama cay. danke.**
 = Tengo té, gracias.  
 ...  
-☺: **plisa salama tu da mame!**
+☺: **plisa salama ti mame!**
 = Por favor llevale saludos a tu madre.  
 ☻: **me salama le. salam!**
 = Yo la saludo. ¡Adiós!  
@@ -257,7 +257,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 **cay** té.
 **plisa** pedir, solicitar; por favor.
-**giva** dar.
+**dona** dar.
 **danke** gracias.
 **i** y.
 **kafe** café.
@@ -295,13 +295,13 @@ Preguntas de Sí o No
 = ¿ y Usted? 
 ○: **me ni baxa pandunia...**
 = Yo no hablo Pandunia...  
-☻: **pardon! eska ye nyama cay?**
+☻: **pardon! eska le nyama cay?**
 = ¡Perdón! ¿Él toma té?  
 ☺: **ni. le ni nyama cay. le nyama kafe.**
 = No, él desea tomar café.  
 ☻: **eska te nyama supe?**
 = ¿Quieren tomar sopa?  
-☺: **nyama.**
+☺: **si, nyama.**
 = Sí.  
 ☻: **eska le nyama supe?**
 = ¿Él quiere tomar sopa?  
@@ -457,7 +457,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 **kupe** copa, vaso, taza.
 **hali** vacio.
-**hava** tener, poseer.
+**ada** tener, poseer.
 **maw** gato.
 **waf** perro.
 **dul** dos.
@@ -496,11 +496,11 @@ Cuando se desea expresar algo que sucedió en el pasado, se pone
 presente, se adiciona **na zaye** (en el momento, ahora). Y cuando se
 habla del futuro, se añade **na wile** (en el futuro).
 
-**le si mi xefe na pase.**
+**le si mi xefe sa pase.**
 = Ella fue mi jefa en el pasado.  
-**le si mi xefe na zaye.**
+**le si mi xefe sa zaye.**
 = Ella es mi jefa actualmente.  
-**le si mi xefe na wile.**
+**le si mi xefe sa wile.**
 = Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
@@ -527,7 +527,7 @@ de tiempo no son necesarias.
 = Yo tomé té ayer.  
 **le safa kamar sa badi den.**
 = Él limpiará la habitación mañana.  
-**mome festa sa nen 2000 ya predi xam.**
+**mome festa sa nen 2000 da predi xam.**
 = Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -554,7 +554,7 @@ Intenta traducir de Español a Pandunia.
 = futuro
 **wile**
 = el futuro
-**na**
+**sa**
 = estar ubicado en (tiempo o espacio); en.
 **badi**
 = siguiente.
@@ -585,15 +585,15 @@ Intenta traducir de Español a Pandunia.
 
 ---------------------------------------------------------------------
 
-## Palabras conectoras «ya» y «yu»
+## Palabras conectoras «da» y «du»
 
 **ya** es una palabra especial en la gramática de Pandunia. Es una
 palabra que ayuda a organizar expresiones. **yu** conecta la palabra
 modificadora a la palabra modificada.
 
-**me ya kar**
+**me da kar**
 = mi carro  
-**un waf ya dom**
+**un waf da dom**
 = Una casa de perro
 
 La palabra conectora en sí no significa nada, por lo que no se
@@ -601,37 +601,37 @@ específica la relación entre la modificadora y la modificada. La
 relación se puede especificar mediante la adición de una palabra con
 mayor sentido.
 
-**me ada ya kar**
+**me ada da kar**
 = mi carro (el carro que yo tengo)  
-**mi yang ya kar**
+**mi yang da kar**
 = automóvil de mi tipo  
-**me gida ya kar**
+**me gida da kar**
 = el carro que yo manejo
 
-La otra palabra conectora, **yu** funciona de la misma manera que
+La otra palabra conectora, **du** funciona de la misma manera que
 **ya** pero el modificador y el modificado están en orden opuesto.
 
-**kar yu me hava**
+**kar du me hava**
 = el carro mío (el carro que yo tengo)  
-**kar yu mi yang**
+**kar du mi yang**
 = el carro de mi tipo  
-**kar yu me gida**
+**kar du me gida**
 = el carro que yo manejo
 
 Las palabras conectoras son útiles para dividir frases complejas en
 otras más pequeñas y más manejables.
 
-**me sa tele yu te.**
+**me sa tele du te.**
 = Yo estoy lejos de ti.  
-**mi sa te ya tele.**
+**mi sa te da tele.**
 = Yo estoy a tu distancia.  
 
 Las palabras conectoras también ayudan a enlazar dos frases entre
 ellas.
 
-**mame nyama keke sa bade yu le fata le.**
+**mame nyama keke sa bade du le fata le.**
 = Mamá come una galleta después de hacerla.  
-**te fikra ke sa tem yu keke ya guste?**
+**te fikra ke sa tem du keke da guste?**
 = ¿Qué tu piensas del sabor de estas galletas?
 
 Las palabras conectoras, en Español también las usamos pero las

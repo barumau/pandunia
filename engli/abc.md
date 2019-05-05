@@ -62,7 +62,7 @@ Consider the following examples:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -118,9 +118,9 @@ uncertainty.
 In informal texts smileys, emoticons and emojis may be used to indicate mood.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-**me vida te :)**
+**me wida te :)**
 = I see you.  
-**me ni vida te :(**
+**me ni wida te :(**
 = I don't see you.
 
 ## Word structure

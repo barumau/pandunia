@@ -164,6 +164,7 @@ Les réponses correctes sont données plus bas.
 ### Liste de mots
 
 **salam, halow** salutation, bonjour, salut, salaam, ciao, etc.  
+**salama** saluter.  
 **mame** mère, maman.
 **pape** père, papa.
 **xefe** chef, patron.
@@ -246,7 +247,7 @@ des mots différents. C'est un principe en Pandunia qu'il y ait
 toujours exactement un mot pour un concept. On ne crée pas différents
 mots simplement parce que le rôle grammatical d'un concept change.
 
-La phrase **plisa salama ye** est un modèle très utile pour les
+La phrase **plisa salama le** est un modèle très utile pour les
 formules de politesses.
 
 **plisa sida.**
@@ -290,7 +291,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 **cay** thé.
 **plisa** demander (poliment), s'il-vous-plaît.
-**giva** donner.
+**dona** donner.
 **danke** merci.
 **i** et.
 **kafe** café.
@@ -508,7 +509,7 @@ Parfois, il y a plus d'une bonne réponse.
 
 **kupe** coupe, verre, tasse.
 **hali** vide.
-**hava** avoir.
+**ada** avoir.
 **maw** chat.
 **waf** chien.
 **dul** deux.

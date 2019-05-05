@@ -338,7 +338,7 @@ Yes or no questions
 = No, he won't. He would like to have coffee.  
 ☻: **eska te nyama supe?**
 = Would you like to have soup?  
-☺: **nyama.**
+☺: **si, nyama.**
 = Yes. (_I eat._)  
 ☻: **eska le nyama supe?**
 = Would he like to have soup?  

@@ -53,7 +53,7 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -102,9 +102,9 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-**me vida te :)**
+**me wida te :)**
 = Je te vois.  
-**me ni vida te :(**
+**me ni wida te :(**
 = Je ne te vois pas.
 
 

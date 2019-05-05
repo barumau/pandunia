@@ -62,7 +62,8 @@ Vinkki! Kuten huomaat, **salam**
 on yleiskäyttöinen sana hyvän toivottamiseen. Käytä sitä aina kun mahdollista!
 
 <small>Sanan **salam**
-lähteitä: arabia: سَلَام‏ "salām", heprea: שָׁלוֹם‏ "šalom", turkki: selam, hindi: सलाम "salām", swahili: salaam, indonesia: selamat.</small>
+lähteitä: arabia: سَلَام‏ "salām", heprea: שָׁלוֹם‏ "šalom", turkki: selam, hindi: सलाम "salām", swahili: salaam,
+indonesia: selamat.</small>
 
 
 
@@ -232,8 +233,10 @@ lähteitä: ukraina: ні (ni), afrikaans: nie, puola: nie, espanja: ni, ranska:
 
 ### Monikot
 
-Yksikön persoonapronomineista saadaan monikkomuodot lisäämällä **men**
-perään.
+Yksikön persoonapronomineista saadaan monikot seuraavasti:
+**me** (minä) →  **mome** (me)  
+**te** (sinä) →  **tote** (te)  
+**le** (hän, se) →  **lole** (he, ne)
 
 **mome salama tote.**
 Me tervehdimme teitä.
@@ -341,7 +344,7 @@ Hän on minun ystävä.
 Minä olen Saran ystävä.
 
 <small>Sanan **ya**
-lähteitä: pandžabi: ਦਾ "dā", yleiskiina: 的 "de".</small>
+lähteitä: yleiskiina: 的 (de), pandžabi: ਦਾ "dā".</small>
 
 
 ### nam <small>nimi</small>
@@ -362,7 +365,9 @@ Hänen nimensä on Sara.
 Minua nimitetään Tomakseksi.
 
 <small>Sanan **nam**
-lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām", thai: นาม "naam", indonesia: nama, japanese: 名前 "namae", saksa: Name, englanti: name.</small>
+lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām",
+thai: นาม "naam", indonesia: nama, japanese: 名前 "namae",
+saksa: Name, englanti: name.</small>
 
 
 
@@ -650,18 +655,18 @@ Minkälaista musiikkia sinä kuuntelet?
 
 
 
-### vida <small>nähdä</small>
+### wida <small>nähdä</small>
 
-**suku vida te.**
+**suku wida te.**
 Hauska nähdä sinua!
 
-**vida te re!**
+**wida te repi!**
 Nähdään myöhemmin!
 
-**vida te ming den!**
+**wida te badi den!**
 Nähdään huomenna!
 
-**me vida le predi den.**
+**me wida le predi den.**
 Minä näin hänet eilen.
 
 
@@ -684,7 +689,7 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**plisa kitaba te da adres.**
+**plisa kitaba ti adres.**
 Kirjoittaisitko osoitteesi.
 
 **plisa kitaba le sa ce.**
@@ -733,7 +738,7 @@ Minne minun pitää mennä?
 **me bixu gowa pa ki ren?**
 Kenen luoksen minun pitää mennä?
 
-**haida enda!**
+**haida gowa!**
 Menkäämme!
 
 **haida gowa sa pede**
@@ -754,7 +759,6 @@ Minä tulen Dubaista.
 
 **me laya dom ming den.**
 Minä tulen kotiin huomenna.
-
 
 
 ### safara <small>matkustaa</small>
@@ -835,7 +839,7 @@ Minä odotan sinua hotellissa.
 **me zay salama te da doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
-**man zay vida fem.**  
+**man zay wida fem.**  
 Mies on katsomassa naista.
 
 **le zay xefe.**  
@@ -850,7 +854,7 @@ Hän on parhaillaan kotona.
 **me pas salama te da doste.**  
 Minä tervehdin sinun ystävääsi.
 
-**man pas vida fem.**  
+**man pas wida fem.**  
 Mies katsoi naista.
 
 **le pas xefe.**  
@@ -865,7 +869,7 @@ Hän oli kotona.
 **me lew salama te da doste.**  
 Minä olen tervehtinyt ystävääsi.
 
-**man lew vida fem.**  
+**man lew wida fem.**  
 Mies on katsonut naista.
 
 **le lew xefe.**  
@@ -880,7 +884,7 @@ Hän on ollut kotona.
 **me wil salama te da doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**man wil vida fem.**  
+**man wil wida fem.**  
 Mies tulee näkemään naisen.
 
 **le wil xefe.**  

@@ -120,10 +120,11 @@ Pronouns don't ever change their form in Pandunia. That's why **me** is the
 same in subject and object positions while English has two different forms, 'I'
 and 'me'.
 
-**me lova te.**
+**me ama te.**
 I love you.
 
 <small>Etymology. **te** is from Hungarian: te, Russian: ты (ty), Italian: te, French: te.</small>
+
 
 ### le <small>he, she or it</small>
 
@@ -143,6 +144,7 @@ of gender) as well as for things.
 I greet him/her.
 
 <small>Etymology. **le** is from French: elle, Spanish: él.</small>
+
 
 ### eska <small>to ask a question</small>
 
@@ -226,6 +228,7 @@ He/she doesn't greet me.
 
 <small>Etymology. **ni**
 is from Ukrainian: ні (ni), Afrikaans: nie, Polish: nie, Spanish: ni, French: ni.</small>
+
 
 ### Plurals
 
@@ -329,6 +332,7 @@ I am Sara's friend.
 <small>Etymology. **da**
 Mandarin: 的 (de).</small>
 
+
 ### nam <small>name</small>
 
 **ti nam si ke?**
@@ -359,7 +363,7 @@ I have a good house.
 **le ni ada pese.**
 He/she doesn't have money.
 
-**me wanta ada novi fon.**
+**me wanta ada nowi fon.**
 I want to have a new phone.
 
 **eska te ada bace?**
@@ -571,19 +575,19 @@ He/she doesn't know how to drive a car.
 Do you know how to fix it?
 
 **eska te abla pandunia?**
-Do you speak Pandunia?
+Can you speak Pandunia?
 
 **me abla pandunia.**
-I speak Pandunia.
+I can speak Pandunia.
 
 **me abla lil pandunia.**
-I speak a little Pandunia.
+I can speak a little Pandunia.
 
 **me ni abla engli.**
-I don't speak English.
+I can't speak English.
 
 **pardon. me ni abla te da bax.**
-Sorry, I don't speak your language.
+Sorry, I can't speak your language.
 
 
 ### loga <small>to say, speak, talk</small>
@@ -625,18 +629,18 @@ I listen to music.
 What kind of music do you listen to?
 
 
-### vida <small>to see</small>
+### wida <small>to see</small>
 
-**suku vida te.**
+**suku wida te.**
 Pleased to see you!
 
-**vida te repi!**
+**wida te repi!**
 See you again!
 
-**vida te badi den!**
+**wida te badi den!**
 See you tomorrow!
 
-**me vida le predi den.**
+**me wida le predi den.**
 I saw him/her yesterday.
 
 
@@ -704,7 +708,7 @@ Where should I go?
 **me bixu gowa pa ki ren?**
 To whom should I go?
 
-**haida enda!**
+**haida gowa!**
 Let's go!
 
 **haida gowa sa pede**
@@ -719,7 +723,7 @@ Come here!
 **te laya ya ke?**
 Where do you come from?
 
-**me laya ya dubai.**
+**me laya ya dubay.**
 I come from Dubai.
 
 **me laya dom badi den.**
@@ -802,7 +806,7 @@ I wait for you in the hotel.
 **me zay salama te da doste.**  
 I am greeting your friend.
 
-**man zay vida fem.**  
+**man zay wida fem.**  
 The man is looking at the woman.
 
 **le zay xefe.**  
@@ -817,7 +821,7 @@ He or she is currently at home.
 **me pas salama te da doste.**  
 I greeted your friend.
 
-**man pas vida fem.**  
+**man pas wida fem.**  
 The man looked at the woman.
 
 **le pas xefe.**  
@@ -832,7 +836,7 @@ He or she was at home.
 **me lew salama te da doste.**  
 I have greeted your friend.
 
-**man lew vida fem.**  
+**man lew wida fem.**  
 The man has looked at the woman.
 
 **le lew xefe.**  
@@ -847,7 +851,7 @@ He or she has been at home.
 **me wil salama te da doste.**  
 I will greet your friend.
 
-**man wil vida fem.**  
+**man wil wida fem.**  
 The man will see the woman.
 
 **le wil xefe.**  

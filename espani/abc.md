@@ -67,7 +67,7 @@ Ejemplos:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -126,9 +126,9 @@ Informalmente, las caritas felices, los emoticones y emojis pueden ser usados
 para indicar un estado de ánimo. Por ejemplo **:)** indica felicidad y **:(**
 indica tristeza.
 
-**me vida te :)**
+**me wida te :)**
 = Te veo.  
-**me ni vida te :(**
+**me ni wida te :(**
 = No te veo.
 
 ## Estructura de las palabras

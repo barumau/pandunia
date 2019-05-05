@@ -53,7 +53,7 @@ Esimerkkejä:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
-- **novi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -101,8 +101,8 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-**me vida te :)**
+**me wida te :)**
 = Minä näen sinut.  
-**me ni vida te :(**
+**me ni wida te :(**
 = Minä en näe sinua.
 

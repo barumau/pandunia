@@ -119,10 +119,11 @@ Los pronombres no cambian su forma en pandunia. Es por eso que **me** es el
 mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 diferentes formas, 'yo', 'me', etc.
 
-**me lova te.**
-Te amo. (Yo lova ti)
+**me ama te.**
+Te amo. (Yo ama ti)
 
 <small>Etimología. **te** viene del húngaro: te, russo:  ты (ty), italiano: te, francés: te.</small>
+
 
 ### le <small>él, ella o eso</small>
 
@@ -142,6 +143,7 @@ personas (sin importar su género) y en cosas.
 Yo lo/la saludo.
 
 <small>Etimología. **le** viene del francés: elle, español: él.</small>
+
 
 ### eska <small>se utiliza para preguntar</small>
 
@@ -167,6 +169,7 @@ No estoy bien.
 
 <small>Etimología. **eska**
 viene del francés: : est-ce que /ɛskə/, inglés: ask.</small>
+
 
 ### si <small>sí</small>
 
@@ -195,11 +198,8 @@ Tú eres Sara.
 La manzana es una fruta.
 
 <small>Etimología. **si** viene del español: sí, portugués: sim, mandarín: 是
-"shì".</small>
+"shì", shanghainés: 是 "sí".</small>
 
-<!-- XXX TODO traducir y añadir
-Shanghaiese: 是 "sí"
--->
 
 ### ni <small>no</small>
 
@@ -216,7 +216,7 @@ Sí, estoy bien.
 
 **eska te bon?**
 ¿Estás bien?  
-**ni, me ni bon.**
+**ni. me ni bon.**
 No, no estoy bien.
 
 Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
@@ -228,8 +228,12 @@ va a negar.
 <small>Etimología. **ni**
 is from ucraniano: ні (ni), afrikáans: nie, polaco: nie, español: ni, francés: ni.</small>
 
+
 ### Plural
 
+**me** (yo) →  **mome** (nosotros)  
+**te** (tú) →  **tote** (vosotros)  
+**le** (él, ella) →  **lole** (ellos, ellas)
 
 **mome salama tote.**
 Nosotros los saludamos a ustedes. 
@@ -295,43 +299,36 @@ verbo adjetival.
 **ce ros.**
 Es rojo.
 
-<!-- XXX WARNING 2018-12-19:
 
-Los títulos de Markdown no pueden dividirse en líneas más cortas en la fuente.
-Por eso el siguiente título de sección consta de una solo línea muy larga.
-
-Marcos Cruz
-
--->
-
-### ya <small>de, mi, mío, tu, tuya, de él/ella/eso, de ellos/as, de nosotros/as (partícula posesiva)</small>
+### da <small>(partícula posesiva)</small>
 
 **ce ke?**
 ¿Qué es esto?
 
-**ce me ya fon.**
+**ce me da fon.**
 Es mi teléfono.
 
-**ce ke ya?**
+**ce ke da?**
 ¿De quién es esto?
 
-**ce me ya.**
+**ce me da.**
 Es mío.
 
-Nota: La partícula posesiva **ya** se pone entre el poseedor y la cosa poseída.
-Así **me ya** significa "mi", **te ya** significa "tuyo/tuya" y así.
+Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída.
+Así **me da** significa "mi", **te da** significa "tuyo/tuya" y así.
 
 **le ke?**
 ¿Quién es él/ella?
 
-**le si me ya doste.**
+**le si me da doste.**
 Él/ella es mi amigo/a.
 
-**me si sara ya doste.**
+**me si sara da doste.**
 Yo soy la amiga de Sara.
 
-<small>Etimología. **ya** viene del
-mandarín: 有 (yǒu).</small>
+<small>Etimología. **da** viene del
+mandarín: 的 (de).</small>
+
 
 ### nam <small>nombre</small>
 
@@ -363,7 +360,7 @@ Tengo una buena casa.
 **le ni ada pese.**
 Él/ella no tiene dinero.
 
-**me wanta ada novi fon.**
+**me wanta ada nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
 **eska te ada bace?**
@@ -593,8 +590,8 @@ Lo siento. No puedo hablar tu idioma.
 
 **te loga ke?**
 ¿Qué dijiste?
+
 **me loga pa te.**
-**mi loga to tu.**
 Te hablé.
 
 **mome loga pa unale.**
@@ -625,18 +622,18 @@ Escucho música.
 ¿Qué clase de música escuchas?
 
 
-### vida <small>ver</small>
+### wida <small>ver</small>
 
-**suku vida te.**
+**suku wida te.**
 Encantado de verte.
 
-**vida te repi!**
+**wida te repi!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**vida te badi den!**
+**wida te badi den!**
 ¡Te veo mañana!
 
-**me vida le predi den.**
+**me wida le predi den.**
 Lo/a vi a él/ella ayer.
 
 
@@ -648,7 +645,7 @@ Lo/a vi a él/ella ayer.
 **"maw" mena ke?**
 ¿Qué significa "maw"?
 
-**le mena yang yu hewan.**
+**le mena yang du hewan.**
 Significa una clase de animal.
 
 **me ni aha le mena ke.**
@@ -716,10 +713,10 @@ Vamos caminando.
 **plisa laya!**
 ¡Ven aquí! ¡Vengan aquí!
 
-**te laya da ke?**
+**te laya ya ke?**
 ¿De dónde vienes?
 
-**me laya da dubai.**
+**me laya ya dubay.**
 Vengo de Dubái.
 
 **me laya dom badi den.**
@@ -810,6 +807,7 @@ Le doy un libro a ellos/as.
 
 **le ni wanta dona le pa me.**
 Él/ella no quiere darme eso.
+
 
 ### kapa <small>tomar (de agarrar, sujetar)</small>
 

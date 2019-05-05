@@ -127,7 +127,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'il soit sujet ou complément.
 
-**me lova te.**
+**me ama te.**
 Je t'aime.
 
 <small>Étymologie : **te**
@@ -350,10 +350,10 @@ Quel est ton nom?
 **mi nam si tomas.**
 Mon nom est Thomas.
 
-**li nam ke?**
+**li nam si ke?**
 Quel est son nom ?
 
-**li nam sara.**
+**li nam si sara.**
 Son nom est Sara.
 
 
@@ -388,7 +388,7 @@ J’ai une bonne maison.
 **le ni ada pese.**
 Il/elle n’a pas d’argent.
 
-**me wanta ada novi fon.**
+**me wanta ada nowi fon.**
 Je veux un nouveau téléphone.
 
 **eska te ada bace?**
@@ -410,7 +410,7 @@ Est-ce qu’il y a un médecin ?
 **si. le dotor.**
 Oui. Il/elle est médecin.
 
-**eska ada win?**
+**eska ada wain?**
 Est-ce que tu as du vin?  
 **si. bay i ros.**
 Oui, du blanc et du rouge.
@@ -627,13 +627,13 @@ Il/elle ne sait pas conduire une voiture.
 Est-ce que tu sais réparer ça ?
 
 **eska te abla pandunia?**
-Est-ce que tu parles pandunia ?
+Peux-tu parler pandunia ?
 
 **me abla pandunia.**
-Je parle pandunia.
+Je peux parler pandunia.
 
 **me abla lil pandunia.**
-Je parle un peu pandunia.
+Je peux parler un peu pandunia.
 
 **me ni abla engli.**
 Je ne parle pas anglais.
@@ -679,18 +679,18 @@ J’écoute de la musique.
 Quel genre de musique est-ce que tu écoutes ?
 
 
-### vida <small>voir</small>
+### wida <small>voir</small>
 
-**suku vida te.**
+**suku wida te.**
 Heureux de te voir !
 
-**vida te repi!**
+**wida te repi!**
 On se voit plus tard !
 
-**vida tu ming den!**
+**wida te badi den!**
 On se voit demain !
 
-**me vida le predi den.**
+**me wida le predi den.**
 Je l’ai vu(e) hier.
 
 
@@ -759,7 +759,7 @@ Où est-ce que je dois aller ?
 **me bixu gowa pa ki ren?**
 Je dois aller (voir) qui ?
 
-**haida enda!**
+**haida gowa!**
 Allons-y !
 
 **haida gowa sa pede**
@@ -774,7 +774,7 @@ Viens ici !
 **te laya ya ke?**
 D’où viens-tu ?
 
-**me laya ya dubai.**
+**me laya ya dubay.**
 Je viens de Dubaï.
 
 **me laya dom badi den.**

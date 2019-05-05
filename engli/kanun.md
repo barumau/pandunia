@@ -1325,7 +1325,7 @@ the two sub-phrases.
 
                         sabu
                ┌──────────┴──────────┐
-              wanta                   si
+             wanta                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
