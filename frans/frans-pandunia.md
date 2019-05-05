@@ -1,18 +1,29 @@
-: : abace : alphabet  
+: : -a : suffixe : pour : les : verbes : avec : ordre : des : mots : SVO  
 ##a  
 accent : acente  
 accord : amen  
 acheter : baya  
+actinium : acinium  
 adresse : adres  
 adulte : adulte  
+Afghanistan : afgania  
 africain : afri  
 Afrique : afria  
+afrophile : afrofiler  
+afrophilie : afrofilia  
 agile : ajil  
+agression : agres  
 aimer : ama  
 aire (superficie) : are  
 alcool : alkol  
+alcoolique : alkoli  
 algue : alge  
+allophone : alofone  
+alphabet : abace  
+aluminium : alumin  
 amande : badam  
+Amhara (groupe ethnique et langue éthiopienne) : amari  
+amour (affection) : ame  
 américain : ameriki  
 Amérique : amerike  
 analyse : analis  
@@ -49,8 +60,10 @@ bibliothèque : kitabia
 bidon (boîte) : tin  
 billet : tikete  
 ##c  
+capacité (compétence) : able  
 chapitre : babe  
 cime (pic, sommet) : pike  
+comprendre (réaliser) : aha  
 corps : badan  
 cosmique : kosmi  
 cosmos : kosmia  
@@ -60,6 +73,7 @@ destin (destination) : destin
 diamant : almas  
 drapeau : bandir  
 ##e  
+Einsteinium : ainstainium  
 Europe : europe  
 européen : europi  
 ##f  
@@ -68,6 +82,7 @@ frais : tazi
 féliciter : barka  
 ##g  
 ##h  
+hétérosexuel : alojinsokami  
 ##i  
 ##j  
 juste : adali  
@@ -81,6 +96,7 @@ loup : wolfe
 lourd : bari  
 ##m  
 machine à écrire : kitabomaxin  
+mais (bien que) : a  
 melon d'eau : arbuze  
 mouche : zeze  
 ##n  
@@ -94,11 +110,19 @@ perroquet : papagay
 piraterie : piratia  
 placard : almar  
 pomme : aple  
+possible (peut-être) : abli  
+possédant (propriétaire) : ader  
+pouvoir (être capable) : abla  
+propriété (possession, bien) : ade  
 ##r  
 ruban (bande) : tepe  
 ##s  
 salle de bains : banyokamar  
 se baigner : banyu  
+suffixe de l'unité fondamentale linguistique : -em  
+suffixe pour dériver les noms : -e  
+suffixe pour l'adjectif : -i  
+suffixe pour les verbes avec ordre des mots OVS : -u  
 sujet (thème) : tem  
 ##t  
 technique : tekne  
@@ -109,7 +133,7 @@ tigre : bagre
 tirer : tira milke  
 tomate : tomate  
 toucher : toca  
-touriste : turiste  
+touriste : safariste  
 traduction : tarje  
 Tunisie : tunisia  
 téléphone : telofon  

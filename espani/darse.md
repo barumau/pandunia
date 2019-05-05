@@ -234,11 +234,11 @@ utilizado para hacer peticiones corteses.
 **plisa safa kamar.**
 = Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **orda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
+Las ordenes son introducidas con **komanda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
 
-> **orda dona cay.**
+> **komanda dona cay.**
 = ¡Deme un poco de té!
-> **orda safa kamar.**
+> **komanda safa kamar.**
 = ¡Limpie la habitación!
 
 
@@ -262,7 +262,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 **i** y.
 **kafe** café.
 **kamar** habitación.
-**orda** to command.
+**komanda** to command.
 **u** o.
 **safa** limpiar.
 **sida** estar sentado.

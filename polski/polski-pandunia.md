@@ -172,7 +172,7 @@ butelka : botol
 Bułgaria : bolgaria  
 bułka gotowana na parze : mante  
 być o; dyskutować o : tema  
-być poddanym, doświadczyć, doświadczać (ubierniający czasownik) : bey  
+być poddanym, doświadczyć, doświadczać (ubierniający czasownik) : beyu  
 być podobnym, być jak : samu  
 być przeciw : kontra  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym : namu  
@@ -373,12 +373,12 @@ dźwięk, brzmienie : sonde
 Dżibuti : jibutia  
 dżul (J) : jul  
 ##e  
-echo : eho  
+echo : mirosonde  
 efekt halo : nurocirke  
 egipski : misri  
 Egipt : misria  
 einstein : ainstainium  
-ekologia (nauka o środowisku) : tabiolojia  
+ekologia (nauka o środowisku) : ekolojia  
 ekran : ekran  
 ekskrement, gówno : kake  
 Ekwador : ekuador  
@@ -422,9 +422,9 @@ figura, reprezentacja : figur
 Filipiny : filipinia  
 filiżanka do kawy : kafokupe  
 film : filme  
-filozof : filsofer  
-filozofia : filsofia  
-filozoficzny : filsofi  
+filozof : filosofer  
+filozofia : filosofia  
+filozoficzny : filosofi  
 filtr : filter  
 Finlandia : suomia  
 firma, kompania, korporacja : kompania  
@@ -1100,7 +1100,7 @@ narodziny : jen
 narzędzie : tul  
 naród, narodowość : nasia  
 następny (następujący) : badi  
-natura, środowisko : tabia  
+natura, środowisko : ekia  
 nauczyciel : darsogur  
 nauczyć się, uczyć się, studiować : darsa  
 nauka, badanie, studiowanie : lojia  
@@ -1383,7 +1383,6 @@ poddanie się, uległość, pokora, posłuszeństwo : islam
 poddać się, poddawać się : salima  
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym : islamu  
 podróż : safar  
-podróż, wycieczka : tur  
 podróżnik : safarer  
 podróżować : safara  
 podstawa, baza, fundament : baze  
@@ -1646,8 +1645,8 @@ rosyjski : rusi
 rotor, wirnik : rotor  
 rower : sikle  
 rozdział, sekcja : babe  
-rozkaz, komenda : orde  
-rozkazać, rozkazywać, zakomendować : orda  
+rozkaz, komenda : komande  
+rozkazać, rozkazywać, zakomendować : komanda  
 rozproszyć, rozpraszać : jamula  
 rozum, rozsądek : razon  
 rozumieć, pojmować : aha  
@@ -1729,7 +1728,7 @@ shintoizm, sintoizm : xindawistia
 siarka : sulfe  
 siedem (7) : sem  
 siedzieć : sida  
-siekera, topór : tabar  
+siekera, topór : futaw  
 sierociniec, dom dziecka : yatimodom  
 sierota : yatim  
 sierpień : mes 5 (mes lim)  
@@ -1748,7 +1747,7 @@ siła, autorytet, władza : sultan
 skand : skandium  
 skarb; skrabiec : hazin  
 skarpeta, skarpetka, pończocha : soke  
-skoczyć, skakać : salta  
+skoczyć, skakać : jampa  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) : nyama  
 skończyć, kończyć : fina  
 skrzydło : wing  
@@ -1988,8 +1987,8 @@ Turcja : turkia
 turecki : turki  
 Turek osmański : osman  
 Turkmenistan : turkmenia  
-turysta : turiste  
-turystyka : turistia  
+turysta : safariste  
+turystyka : safaristia  
 tusz : moge  
 Tuwalu : tuwal  
 tułów : torse  
@@ -2357,7 +2356,7 @@ zły, zrujnowany, zepsuty : harabi
 średni : medi  
 środa : war 3 (war tin)  
 środkowy, centralny : jung  
-środowiskowy, naturalny : tabi  
+środowiskowy, naturalny : eki  
 śruba, wkręt : lose  
 świadomy; oświecony : budi  
 świat : dunia  

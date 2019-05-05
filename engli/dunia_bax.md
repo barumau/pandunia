@@ -328,13 +328,13 @@ Pandunia allows different word orders. This is achieved mainly by
 the verb endings -a and -u, which signal reverse word orders. In
 Pandunia verbs can function also as adpositions (so called _coverbs_).
 
-**me lova te.** (SVO)  
+**me ama te.** (SVO)  
 **me te amu.** (SOV)  
 I love you.
 
-**me salta supra gaw meza.**
+**me jampa supra gaw meze.**
 (I jump, surpass the high table.)  
-**me salta gaw meza supru.**
+**me jampa gaw meze supru.**
 (I jump, the high table is-surpassed.)  
 I jump over the high table.
 
@@ -425,8 +425,6 @@ a normal PoS suffix.
 | 問 | **wen**       | man        | wèn        | mon        | mun        | vấn        |
 | 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
 | 出 | **cut**       | cœt        | chū        | shutsu     | chul       | xuất       |
-| 索 | **sog**       | sok        | suǒ        | saku       | sæg        |            |
-| 惡 | **ag**        | ok         | è          | aku        | ag         | ác         |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual
 at first, but it is nothing new – Sinitic words are already inflected
@@ -444,7 +442,7 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me lova te, te lova me.
+    Pandunia:  me ama te, te ama me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The verb **beyu** is used when the object of an action comes first in

@@ -200,18 +200,6 @@ As you can see, the same word is written and pronounced differently in different
 | Filipino   | kamisa       | kamisa          |
 
 
-#### kata (to cut)
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| English    | kʌt          | cut             |
-| Hindi      | kətna        | काटना           |
-| Bangla     | kata         | কাটা                |
-| Swahili    | kata         | kata            |
-| Wu Chinese | kɐʔ          |  |
-| Vietnamese | kɐʔt         | cắt             |
-
-
 ### Examples of South Asian words
 
 #### pal (fruit)
@@ -237,18 +225,6 @@ As you can see, the same word is written and pronounced differently in different
 | Vietnamese | ɲɜn          | nhân         |
 | Korean     | in           | 인           |
 | Japanese   | niŋ, dʒiŋ    | 人           |
-
-
-#### hua (flower)
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Mandarin   | hua          | 花 (huā)     |
-| Wu         | hʊ                   | 花           |
-| Cantonese  | fa:          | 花           |
-| Vietnamese | hua:         | hoa          |
-| Korean     | hua          | 화           |
-| Japanese   | ka           | 花           |
 
 
 #### laya (come)
@@ -309,4 +285,14 @@ This word means _book_ in many languages. The original Arabic word means all kin
 | Urdu       | kəmra        | کمرا      |
 | Indonesian | kamar        | kamar           |
 
+#### kata (to cut)
+
+| Language   | Spoken word  | Written word    |
+|------------|--------------|-----------------|
+| English    | kʌt          | cut             |
+| Hindi      | kətna        | काटना           |
+| Bangla     | kata         | কাটা                |
+| Swahili    | kata         | kata            |
+| Wu Chinese | kɐʔ          |  |
+| Vietnamese | kɐʔt         | cắt             |
 

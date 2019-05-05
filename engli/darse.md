@@ -265,12 +265,12 @@ for making polite requests.
 **plisa safa kamar.**
 = Please clean the room.
 
-Commands are introduced with **orda** = to command. They employ the
+Commands are introduced with **komanda** = to command. They employ the
 same pivot structure as requests with **plisa**.
 
-**orda dona cay.**
+**komanda dona cay.**
 = Give (me) some tea!  
-**orda safa kamar.**
+**komanda safa kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and
@@ -300,7 +300,7 @@ Try translating these sentences from English to Pandunia.
 **i** and.
 **kafe** coffee.
 **kamar** room.
-**orda** to order, to command.
+**komanda** to order, to command.
 **u** or.
 **safa** to clean.
 **sida** to sit.

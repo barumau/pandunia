@@ -114,7 +114,7 @@ berande ← hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:vera
 berdi ← spa:por:verde. fra:vert. eus:ceb:tgl:berde.  
 bere ← deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).  
 berete ← fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).  
-bey ← zho:被 "bèi".  
+beyu ← zho:被 (bèi).  
 bil ← eng:bill. hin:बिल (bil).  
 bina ← ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).  
 binde ← hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi).   
@@ -124,8 +124,8 @@ bireria ← eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:б
 bis ← bug:bissu.  
 bixu ← zho:必须 (bìxū).  
 biyolojia ← tur:biyoloji. fra:biologie. eng:biology.  
-bizi ← eng: busy.  
-biznes ← eng:business. rus:бизнес "biznes".  
+bizi ← eng:busy.  
+biznes ← eng:business. rus:бизнес (biznes).  
 blabla ← fra:blablater. eng:babble. spa:blablablá.  
 blote ← pol:błoto. rus:ukr:болото (boloto). shq:baltë.   
 boke ← spa:por:boca.  
@@ -219,6 +219,7 @@ dux ← fra: douche. deu:Dusche. tur:duş. rus:душ "duš". ara:(duš). spa:po
 ##e  
 egal ← fra:égal. spa:por:igual. eng:equal.  
 eglis ← per:"kelisā". tur:kilise. ind:gereja. por:igreja. hin:गिरजा "girjā". ara:"kanisā". fra:église.  
+ekolojia ← deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.  
 eletre ← por:eletricidade. ita:elettricità. eng:electricity.  
 er ← eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.  
 eska ← hat:èske. fra:est-ce que [ɛskə]. eng:ask. rwa:ese.  
@@ -245,11 +246,11 @@ feste ← eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーテ�
 fete ← swa:mafuta. rwa:mavuta. kon:mafuta.  
 fikre ← ara:(fikr). per:(fekr). tur:fikir. ind:pikir. hin:(fikr).  
 filer ← eng:fra:-phile. por:spa:-filo.  
-filsofia ← spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.  
+filosofia ← spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.  
 fin ← spa: fin. fra: fin. por: fim.  
 fix ← eng:fish. deu:Fisch.  
 folia ← eng:folly. fra:folie. ita:follia.  
-fong ← zho: 风 "fēng". yue: 風 "fung".  
+fong ← zho: 风 (fēng). yue: 風 (fung).  
 fonte ← por:fonte. spa:fuente. rus:фонтан (fontan). fra:fontaine. eng:fountain. uzb:fontan. jpn:噴水 (funsui).  
 fubu' ← zho:腹 (fù). yue:(fuk1). jpn:(fukubu). mao:puku.  
 fuga ← zho:复 "fù". yue:"fuk". vie:phục.  
@@ -257,9 +258,11 @@ fuke ← zho:衣服 "yīfu". yue:"yifuk". jpn:衣服 "ifuku". kor:의복 "uibog"
 ful ← eng:full. deu:voll.  
 fulan ← swa:fulani. ara:"fulan".  
 fun ← zho:粉 (fěn). hak:粉 (fun). tha:ฝุ่น (fùn).  
+funge ← eng:fungus. fra:fongus. por:fungo. spa:hongo.  
 funocuper ← zho:吸尘器 (xīchénqì). deu:Staubsauger.  
 furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 furia ← eng:fury. spa:pol:furia. por:fúria.  
+futaw ← tgl:puthaw. zho:斧头 (fǔtóu). yue:斧頭 (futau). nan:斧頭 (pú-thâu).  
 ##g  
 gabre ← ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
@@ -343,6 +346,7 @@ jake ← eng:jacket. zho:夹克 (jiākè). rus:жакет (žaket). deu:Jacke. p
 jala ← hin:जलना (jalnā). urd:(jalnā). mar:जळणे (j̈aḷṇe).  
 jama ← ara: جمع /jamaʕa/.  
 jamia ← ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.  
+jampa ← eng:jump. jpn:ジャンプ (janpu). kor:점프 (jŏmp). ben:ঝাঁপ (jhãpô). ass:জাঁপ (zãp).  
 jan ← hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). pan:ਜਾਣ (jāṇ). tha:ญาณ (yaan).  
 janel ← por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.  
 jangal ← hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:jângal. eng:jungle. rus: джу́нгли (džúngli). deu:Dschungel.  
@@ -410,6 +414,7 @@ klar ← deu:klar. spa:por:claro. eng:clear. fra:clair.
 koka' ← spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).  
 koke ← fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.  
 kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna). pol:kolumna.  
+komande ← eng:command. fra:commandement. rus:команда (komanda). spa:mandato.  
 kompania ← eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.  
 komputa ← eng:compute.  
 kon ← hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.  
@@ -556,7 +561,6 @@ nur ← ara:per:(nūr). swa:nuru. taj:uzb:нур (nur).
 nyama ← khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.  
 ##o  
 onor ← eng:pol:spa:honor. fra:honneur. por:honra. ita:onore. tur:onur.  
-orde ← eng:order. spa:orden. por:ordem. fra:ordre.  
 oste ← eng:deu:osteo-. rus:остео- "osteo-". ita:por:osso. fra:os. hin:अस्थि "asthi-".  
 oton ← fra:automne. otoño. por:outono. eng:autumn.   
 ##p  
@@ -654,7 +658,7 @@ sa ← swa:na. lin:kon:na. rus:на (na).
 sabe ← kon:sambu. + heb:(sibá). + ara:per:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).  
 sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón.  
 sadi ← tur:sade. per:(sāde). hin:सादा (sādā).  
-safar ← ara:(safar). tur:sefer. swa:safari.  
+safar ← ara:(safar). tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.  
 safi ← swa:safi. hin:साफ़ (sāf). urd:(sāf). ben:চাফা (sapha).  
 sahi ← hin:सही (sahī). urd:(sahī). per:(sahih). ara:(ṣaḥīḥ). swa:sahihi.  
 sake ← eng: sack. fra: sac. spa: saco. kon:saku.  
@@ -711,6 +715,7 @@ suta ← hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.
 sutur ← fra:eng:suture. por:spa:sutura.  
 suy ← zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.  
 ##t  
+tabake ← deu:Tabak. rus:табак (tabak). fra:tabac. spa:por:tabaco. jpn:タバコ (tabako). eng:tobacco. hin:तंबाकू (tambākū). ind:tembakau.  
 table ← eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.  
 tafun ← zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). per:urd:(tufān). hin:तूफ़ान (tūfān). pan:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).  
 takse ← eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".  

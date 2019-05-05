@@ -74,6 +74,7 @@ analysoida : analisa
 analyysi : analis  
 ananas : nanas  
 Andit : andes  
+anglofiili : englofiler  
 Angola : angolia  
 animaatio (piirretty) : anime  
 animoida : anima  
@@ -214,7 +215,7 @@ ei kukaan : nol ren
 ei mitään : nol xey  
 eilinen : predi den  
 einsteinium : ainstainium  
-ekologia (ympäristötiede) : tabiolojia  
+ekologia (ympäristötiede) : ekolojia  
 El Salvador : salbador  
 ele : jeste  
 elegantti : xiki  
@@ -272,9 +273,9 @@ fermium : fermium
 Fidži : fijia  
 Filippiinit : filipinia  
 filmi : filme  
-filosofi : filsofer  
-filosofia : filsofia  
-filosofinen : filsofi  
+filosofi : filosofer  
+filosofia : filosofia  
+filosofinen : filosofi  
 fluori : flur  
 fonologia (äänneoppi) : fonolojia  
 foorumi : forum  
@@ -428,6 +429,7 @@ huutaa : krita
 huvi (hauskuus) : fan  
 hyi! (pyh!) : fuy  
 hylkiö (paaria) : paraye  
+hypätä (hyppiä) : jampa  
 hyrrä : tolo  
 hyttynen (sääski) : moskite  
 hyvä (tervehdyksissä) : salam  
@@ -588,7 +590,7 @@ kahvikuppi : kafokupe
 kahvila : kaferia  
 kaide (reelinki) : langan  
 kaikki : pan  
-kaiku : eho  
+kaiku : mirosonde  
 kaivaa : fosa  
 kakku (keksi) : keke  
 kaksi (2) : dul  
@@ -733,7 +735,7 @@ kirjoitus (teksti) : kitabe
 kirjoituskone : kitabomaxin  
 kirkas (selkeä) : ming  
 kirkko : eglis  
-kirves : tabar  
+kirves : futaw  
 kissa : maw  
 kitara : gitar  
 kivennäinen (mineraali) : kuang  
@@ -897,8 +899,8 @@ käsi- : hani
 käsite (idea) : ide  
 käsitellä dataa : komputa  
 käsitteellinen : idi  
-käskeä (komentaa) : orda  
-käsky (komento) : orde  
+käskeä (komentaa) : komanda  
+käsky (komento) : komande  
 kätevä : jangi  
 kävely (marssi) : marca  
 käyttäjä : uzer  
@@ -1014,7 +1016,7 @@ luokitella (kategorisoida) : klasa
 luokka (kategoria) : klas  
 luokse (tykö, kohti, asti) : pa  
 luola : gua  
-luonto : tabia  
+luonto : ekia  
 lupa : permis  
 lusikka : camce  
 lutetium : lutetium  
@@ -1042,7 +1044,7 @@ lämpötila : terme
 länsi : weste  
 läntinen : westi  
 läpikulku : trans  
-läpikäydä (passiivin muodostava verbi) : bey  
+läpikäydä (passiivin muodostava verbi) : beyu  
 läsnäolo : zaye  
 lääketiede : medikia  
 lääkäri (tohtori) : mediker  
@@ -1655,7 +1657,6 @@ reppu (rinkka) : rukosake
 resepti (ohje) : recete  
 retikka (retiisi) : lobak  
 retkeilijä : kamper  
-retki (matka) : tur  
 reuna (ääri) : kenar  
 Reunion : reunion  
 rhenium : renium  
@@ -1787,6 +1788,7 @@ Seychellit : sexel nesia
 sianliha : gurube manse  
 side (remmi) : faxe  
 siemen : dan  
+sieni : funge  
 Sierra Leone : salone  
 sihistä : ziza  
 sihteeri : sekreter  
@@ -2065,8 +2067,8 @@ tuore (raikas) : tazi
 tuotanto : sania  
 tupakka : tabake  
 turbaani : pagre  
-turismi : turistia  
-turisti : turiste  
+turismi : safaristia  
+turisti : safariste  
 Turkki : turkia  
 turkkilainen : turki  
 Turkmenistan : turkmenia  
@@ -2330,7 +2332,7 @@ yllätys : supris
 ylä- (yli-) : supri  
 ymmärrys (taju, oivallus) : bude  
 ymmärtää (oivaltaa) : buda  
-ympäristö- (luonto-) : tabi  
+ympäristö- (luonto-) : eki  
 ympäröidä (piirittää, olla ympärillä) : cirka  
 ynnätä (summata) : suma  
 yrittää (kokeilla) : proba  

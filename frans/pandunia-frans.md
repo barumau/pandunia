@@ -1,23 +1,47 @@
+-a : suffixe pour les verbes avec ordre des mots SVO  
+-e : suffixe pour dériver les noms  
+-em : suffixe de l'unité fondamentale linguistique  
+-i : suffixe pour l'adjectif  
+-u : suffixe pour les verbes avec ordre des mots OVS  
 ##a  
+a : mais (bien que)  
 abace : alphabet  
+abla : pouvoir (être capable)  
+able : capacité (compétence)  
+abli : possible (peut-être)  
 acente : accent  
+acinium : actinium  
 ada : avoir  
 adali : juste  
 adalia : justice  
+ade : propriété (possession, bien)  
+ader : possédant (propriétaire)  
 adres : adresse  
 adu : appartenir à  
 adulte : adulte  
+afgania : Afghanistan  
 afri : africain  
 afria : Afrique  
+afrofiler : afrophile  
+afrofilia : afrophilie  
+agres : agression  
+aha : comprendre (réaliser)  
+ainstainium : Einsteinium  
 ajil : agile  
 akse : axe  
 alge : algue  
 ali : autre  
 alkol : alcool  
+alkoli : alcoolique  
 almar : placard  
 almas : diamant  
+alofone : allophone  
+alojinsokami : hétérosexuel  
 altar : autel  
+alumin : aluminium  
 ama : aimer  
+amari : Amhara (groupe ethnique et langue éthiopienne)  
+ame : amour (affection)  
 amen : accord  
 amerike : Amérique  
 ameriki : américain  
@@ -94,6 +118,7 @@ pike : cime (pic, sommet)
 piratia : piraterie  
 ##r  
 ##s  
+safariste : touriste  
 ##t  
 tarje : traduction  
 tazi : frais  
@@ -114,7 +139,6 @@ tira milke : tirer
 toca : toucher  
 tomate : tomate  
 tunisia : Tunisie  
-turiste : touriste  
 tuze : lapin, lièvre  
 ##u  
 uranium : uranium  

@@ -272,7 +272,7 @@ Esperanto (a heavily agglutinating language) and Pandunia. Parts of
 word are separated with the vertical bar sign.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wol|a   wid|a  ti        dul sundar     yen         zay.
+    Pandunia:  me want|a  wid|a  ti        dul sundar     yen         zay.
                I  want to see    your      two beautiful  eyes        now.
 
 

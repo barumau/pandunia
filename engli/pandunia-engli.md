@@ -199,7 +199,7 @@ beril : beryllium
 berkelium : berkelium  
 bermudia : Bermuda  
 beton : concrete (material with cement)  
-bey : suffer (passivizing verb)  
+beyu : undergo (passivizing verb)  
 biblia : Bible  
 bil : bill (invoice)  
 bina : build (construct)  
@@ -439,7 +439,9 @@ dux : shower
 ##e  
 egal : equal (fair)  
 eglis : church  
-eho : echo  
+eki : environmental (natural)  
+ekia : nature (environment)  
+ekolojia : ecology (study of environment)  
 ekran : screen  
 ekuador : Ecuador  
 eletre : electricity  
@@ -448,6 +450,7 @@ eletron : electron
 eletroposte (e-poste) : e-mail  
 energe : energy  
 engli : English  
+englofiler : anglophile  
 eni : any (no matter which)  
 enzim : enzyme  
 er : doer (agent, actor)  
@@ -536,9 +539,9 @@ filia : attraction (-philia)
 filipinia : Philippines  
 filistinia : Palestinian Territory  
 filme : film  
-filsofer : philosopher  
-filsofi : philosophic  
-filsofia : philosophy  
+filosofer : philosopher  
+filosofi : philosophic  
+filosofia : philosophy  
 filter : filter  
 fin : end  
 fina : finish (put an end to)  
@@ -584,10 +587,12 @@ fula : fill
 fulan : some (indefinite, indeterminate)  
 fun : dust (powder)  
 funca : function (work)  
+funge : fungus  
 funocuper : vacuum cleaner  
 furete : polecat (ferret)  
 furi : angry (furious)  
 furia : anger (fury, rage, wrath)  
+futaw : axe (hatchet)  
 futobol : football  
 fuy : bah! (yuck!)  
 ##g  
@@ -823,6 +828,7 @@ jama : collect (gather, bring together)
 jamaike : Jamaica  
 jami : collective  
 jamia : collection (congregation, assembly, association)  
+jampa : jump  
 jamula : disperse  
 jan : knowledge  
 jana : know  
@@ -1017,6 +1023,8 @@ kolonistia : colonialism
 kolum : column (pillar)  
 koma' : comma  
 komal : soft  
+komanda : order (issue a command)  
+komande : order (command)  
 komoro nesia : Comoros  
 kompania : company (corporation)  
 komputa : compute (to process data)  
@@ -1353,6 +1361,7 @@ minus : except (minus)
 minut : minute  
 mira : reflect  
 mirer : mirror  
+mirosonde : echo  
 misa : send (emit, transmit)  
 misal : example (instance of)  
 miser : sender (transmitter)  
@@ -1548,8 +1557,6 @@ olandia : Aland Islands
 oman : Oman  
 onor : respect (honor, esteem)  
 onori : honorable (respectable)  
-orda : order (issue a command)  
-orde : order (command)  
 orgazme : orgasm  
 oromi : Oromo (an Ethiopian ethnic group and language)  
 oromia : Oromia  
@@ -1870,9 +1877,11 @@ sabe : reason (cause)
 sabun : soap  
 sadi : plain (ordinary, unadorned, simple, mere)  
 safa : clean (purify)  
-safar : travel (voyage)  
+safar : travel (voyage, trip)  
 safara : travel  
 safarer : traveler  
+safariste : tourist  
+safaristia : tourism  
 safer : cleaner  
 safi : clean (pure)  
 saga : tell (narrate)  
@@ -1894,7 +1903,6 @@ salame : greeting (hello)
 salbador : El Salvador  
 salima : surrender (to give up)  
 salone : Sierra Leone  
-salta : jump  
 sam : same  
 saman : sky (heaven)  
 samani : celestial (heavenly)  
@@ -2058,10 +2066,6 @@ swenia : Sweden
 swisia : Switzerland  
 ##t  
 tabake : tobacco  
-tabar : axe (hatchet)  
-tabi : environmental (natural)  
-tabia : nature (environment)  
-tabiolojia : ecology (study of environment)  
 tabla : tabulate  
 table : table (matrix)  
 tafun : storm (tempest, typhoon, hurricane, cyclone)  
@@ -2182,9 +2186,6 @@ tung : hurt (pain)
 tunike : tunic (gown)  
 tunisia : Tunisia  
 tupay : squirrel  
-tur : tour (trip)  
-turiste : tourist  
-turistia : tourism  
 turki : Turkish  
 turkia : Turkey  
 turkmenia : Turkmenistan  

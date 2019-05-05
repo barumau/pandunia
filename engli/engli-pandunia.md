@@ -63,6 +63,7 @@ Ancient Egypt (Kemet) : kemia
 and : i  
 Andes : andes  
 anger (fury, rage, wrath) : furia  
+anglophile : englofiler  
 Angola : angolia  
 angry (furious) : furi  
 animal : hewan  
@@ -127,7 +128,7 @@ autumn (fall) : oton
 avocado : awakate  
 awake : weki  
 aware (enlightened) : budi  
-axe (hatchet) : tabar  
+axe (hatchet) : futaw  
 axis (axle) : akse  
 Azerbaijan : azeria  
 ##b  
@@ -631,8 +632,8 @@ Earth (Terra) : zemia
 earthquake : sisme  
 east : dong  
 easy : izi  
-echo : eho  
-ecology (study of environment) : tabiolojia  
+echo : mirosonde  
+ecology (study of environment) : ekolojia  
 Ecuador : ekuador  
 egg : ande  
 eggplant (aubergine, brinjal) : bedinjan  
@@ -661,7 +662,7 @@ engineer : injener
 English : engli  
 enough (sufficient) : bas  
 enthusiast (aficionado) : nik  
-environmental (natural) : tabi  
+environmental (natural) : eki  
 enzyme : enzim  
 equal (fair) : egal  
 equal (peer) : par  
@@ -803,6 +804,7 @@ fuck (copulate) : coda
 full : ful  
 fun (amusement) : fan  
 function (work) : funca  
+fungus : funge  
 funny (amusing) : fani  
 future time : wile  
 ##g  
@@ -1074,7 +1076,7 @@ judo : judo
 jug (jar) : jar  
 juice : jus  
 July : mes 7 (mes sem)  
-jump : salta  
+jump : jampa  
 June : mes 6 (mes sis)  
 Jupiter : muxing  
 just (fair) : adali  
@@ -1392,7 +1394,7 @@ national : nasi
 national socialism : nasi socistia  
 nationalism : nasistia  
 nationalist : nasiste  
-nature (environment) : tabia  
+nature (environment) : ekia  
 Nauru : nauru  
 Nazi : naciste  
 Nazism : nacistia  
@@ -1487,8 +1489,8 @@ orange (fruit) : aranje
 orange (orange-colored) : aranji  
 order (arrange) : ratiba  
 order (arrangement) : ratibe  
-order (command) : orde  
-order (issue a command) : orda  
+order (command) : komande  
+order (issue a command) : komanda  
 orgasm : orgazme  
 oriental dragon : rong  
 origin (source) : asle  
@@ -1574,9 +1576,9 @@ person (people) : ren
 personal (intimate, private) : tani  
 Peru : peru'  
 Philippines : filipinia  
-philosopher : filsofer  
-philosophic : filsofi  
-philosophy : filsofia  
+philosopher : filosofer  
+philosophic : filosofi  
+philosophy : filosofia  
 phone (speech sound) : fone  
 phoneme : foneme  
 phonology : fonolojia  
@@ -2048,7 +2050,6 @@ subway (metro) : tunel tren
 suck : cupa  
 Sudan : sudan  
 suffer (get hurt) : paxu  
-suffer (passivizing verb) : bey  
 suffering : paxia  
 suffix for a fundamental unit in linguistics : -em  
 suffix for adjectives : -i  
@@ -2205,9 +2206,8 @@ top (spinning top) : tolo
 topic (subject, theme) : tem  
 torch : baton nur  
 touch : toca  
-tour (trip) : tur  
-tourism : turistia  
-tourist : turiste  
+tourism : safaristia  
+tourist : safariste  
 towel : towal  
 tower : minar  
 toxic (poisonous, venomous) : toksi  
@@ -2217,7 +2217,7 @@ transit (pass through or across) : transa
 transit (passage) : trans  
 translate (interpret) : tarja  
 translation (interpretation) : tarje  
-travel (voyage) : safar  
+travel (voyage, trip) : safar  
 travel : safara  
 traveler : safarer  
 treasure (treasury) : hazin  
@@ -2252,6 +2252,7 @@ ugly : mal rupi
 Ukraine : ukraina  
 uncover (reveal) : dekula  
 under (go under) : nica  
+undergo (passivizing verb) : beyu  
 underside (underneath) : nice  
 understand (realize) : aha  
 union : unia  

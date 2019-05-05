@@ -12,14 +12,18 @@ able : povo
 abli : ebla (eble)  
 acente : akcento  
 acinium : aktinio  
+ada : havi  
 adali : justa  
 adalia : justeco  
 ader : havanto  
 adres : adreso  
 adu : aparteni  
 adulte : plenaĝa  
+afgania : Afganujo, Afganio  
 afri : afrika  
 afria : Afriko  
+afrofiler : afrikamanto  
+afrofilia : afrikamanteco  
 agres : agreso  
 aha : kompreni  
 ainstainium : ejnŝtejnio  
@@ -31,6 +35,7 @@ alkol : alkoholo
 alkoli : alkohola  
 almar : ŝranko  
 almas : diamanto  
+alofone : alofono  
 alojinsokami : samseksema  
 altar : altaro  
 alumin : aluminio  
@@ -344,7 +349,7 @@ dux : duŝo
 ##e  
 egal : egala  
 eglis : preĝejo  
-eho : eĥo  
+ekia : naturo  
 ekran : ekrano  
 ekuador : Ekvadoro  
 eletre : elektro  
@@ -418,9 +423,9 @@ fikre : penso
 fiksa : fiksi  
 filipinia : Filipinoj  
 filme : filmo  
-filsofer : filozofo  
-filsofi : filozofia  
-filsofia : filozofio  
+filosofer : filozofo  
+filosofi : filozofia  
+filosofia : filozofio  
 filter : filtri  
 fin : fino  
 fina : fini  
@@ -456,6 +461,7 @@ fula : plenigi
 fulan : iu  
 fun : polvo  
 funca : funkcii  
+funge : fungo  
 furete : furo  
 furia : kolero (furiozo)  
 futobol : piedpilko  
@@ -631,6 +637,7 @@ jake : jako
 jama : kolekti (kunigi)  
 jamaike : Jamajko  
 jami : kolekta  
+jampa : salti  
 jamula : disigi  
 jan : scio  
 jana : scii (koni)  
@@ -736,6 +743,8 @@ kode : kodo
 koke : koko  
 kolum : kolono  
 komal : mola  
+komanda : ordoni  
+komande : ordono  
 kompania : kompanio (firmao)  
 komputer : komputero  
 komun : komuna  
@@ -882,6 +891,7 @@ minus : escepte
 minut : minuto  
 mira : speguli  
 mirer : spegulo  
+mirosonde : eĥo  
 misal : ekzemplo  
 miskin : mizera  
 misri : egipta  
@@ -976,8 +986,6 @@ okey : akceptebla (okej)
 okse : oksigeno  
 onor : honoro (respekto)  
 onori : respektinda  
-orda : ordoni  
-orde : ordono  
 oseania : Oceanio  
 osmium : osmio  
 oste : osto  
@@ -1204,7 +1212,6 @@ suy : akvo
 swahili : sŭahili  
 ##t  
 tabake : tabako  
-tabia : naturo  
 table : tabelo  
 tafun : ŝtormo  
 taiga : tajgo  

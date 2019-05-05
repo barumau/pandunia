@@ -197,7 +197,7 @@ beril : berylli
 berkelium : berkelium  
 bermudia : Bermuda  
 beton : betoni  
-bey : läpikäydä (passiivin muodostava verbi)  
+beyu : läpikäydä (passiivin muodostava verbi)  
 biblia : Raamattu  
 bil : lasku (faktuura)  
 bina : rakentaa  
@@ -436,7 +436,9 @@ dux : suihku
 ##e  
 egal : tasapuolinen (reilu)  
 eglis : kirkko  
-eho : kaiku  
+eki : ympäristö- (luonto-)  
+ekia : luonto  
+ekolojia : ekologia (ympäristötiede)  
 ekran : kuvaruutu  
 ekuador : Ecuador  
 eletre : sähkö  
@@ -445,6 +447,7 @@ eletron : elektroni
 eletroposte (e-poste) : sähköposti  
 energe : energia  
 engli : englanti  
+englofiler : anglofiili  
 eni : mikä tahansa  
 enzim : entsyymi  
 er : tekijä (aikaansaaja)  
@@ -531,9 +534,9 @@ filia : tykkääminen
 filipinia : Filippiinit  
 filistinia : Palestiina  
 filme : filmi  
-filsofer : filosofi  
-filsofi : filosofinen  
-filsofia : filosofia  
+filosofer : filosofi  
+filosofi : filosofinen  
+filosofia : filosofia  
 filter : suodattaa  
 fin : loppu  
 fina : lopettaa  
@@ -579,10 +582,12 @@ fula : täyttää
 fulan : eräs (muuan, joku, jokin)  
 fun : pöly (tomu)  
 funca : toiminta (funktio)  
+funge : sieni  
 funocuper : pölynimuri  
 furete : kärppä (fretti)  
 furi : vihainen (suuttunut)  
 furia : viha (suuttumus, raivo)  
+futaw : kirves  
 futobol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
@@ -818,6 +823,7 @@ jama : koota (kerätä)
 jamaike : Jamaika  
 jami : kollektiivinen  
 jamia : yhteisö (kokoontuminen, kollektiivi)  
+jampa : hypätä (hyppiä)  
 jamula : hajauttaa  
 jan : tieto (tietämys)  
 jana : tietää  
@@ -1012,6 +1018,8 @@ kolonistia : kolonialismi
 kolum : pylväs (pilari)  
 koma' : pilkku  
 komal : pehmeä  
+komanda : käskeä (komentaa)  
+komande : käsky (komento)  
 komoro nesia : Komorit  
 kompania : yritys (yhtiö)  
 komputa : käsitellä dataa  
@@ -1347,6 +1355,7 @@ minus : paitsi (miinus)
 minut : minuutti  
 mira : heijastaa (peilata)  
 mirer : peili  
+mirosonde : kaiku  
 misa : lähettää  
 misal : esimerkki  
 miser : lähettäjä (lähetin)  
@@ -1542,8 +1551,6 @@ olandia : Ahvenanmaa (Oolanti)
 oman : Oman  
 onor : kunnioitus (arvostus)  
 onori : kunnianarvoisa  
-orda : käskeä (komentaa)  
-orde : käsky (komento)  
 orgazme : orgasmi  
 oromi : oromo (etiopialainen kansa ja kieli)  
 oromia : Oromia  
@@ -1858,6 +1865,8 @@ safa : puhdistaa (siivota)
 safar : matka (reissu)  
 safara : matkustaa  
 safarer : matkailija  
+safariste : turisti  
+safaristia : turismi  
 safer : siivooja  
 safi : puhdas (siivo, siisti)  
 saga : kertoa  
@@ -2021,10 +2030,6 @@ swenia : Ruotsi
 swisia : Sveitsi  
 ##t  
 tabake : tupakka  
-tabar : kirves  
-tabi : ympäristö- (luonto-)  
-tabia : luonto  
-tabiolojia : ekologia (ympäristötiede)  
 tabla : taulukoida  
 table : taulukko  
 tafun : myrsky  
@@ -2134,9 +2139,6 @@ tung : kipu
 tunike : mekko (tunika)  
 tunisia : Tunisia  
 tupay : orava  
-tur : retki (matka)  
-turiste : turisti  
-turistia : turismi  
 turki : turkkilainen  
 turkia : Turkki  
 turkmenia : Turkmenistan  

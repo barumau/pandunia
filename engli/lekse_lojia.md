@@ -80,7 +80,7 @@ The suffix **-ia** is also used with names of governments and other organization
 
 In addition **-ia** is used in words for abstract systems of thinking, such as science and religion. There are lots of examples in natural languages for this pattern too.
 
-| Pandunia | filsofia    | kimia     | fizikia  |
+| Pandunia | filosofia   | kimia     | fizikia  |
 |:---------|:------------|:----------|:---------|
 | English  | philosophy  | chemistry | physics  |
 | French   | philosophie | chimie    | physique |

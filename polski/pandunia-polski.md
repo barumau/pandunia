@@ -197,7 +197,7 @@ beril : beryl
 berkelium : berkel  
 bermudia : Bermudy  
 beton : beton  
-bey : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
+beyu : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 biblia : Biblia  
 bina : zbudować, budować, konstruować  
 binde : punkt  
@@ -435,7 +435,9 @@ dux : prysznic
 ##e  
 egal : prawy, sprawiedliwy, słuszny, uczciwy, fair  
 eglis : kościół  
-eho : echo  
+eki : środowiskowy, naturalny  
+ekia : natura, środowisko  
+ekolojia : ekologia (nauka o środowisku)  
 ekran : ekran  
 ekuador : Ekwador  
 eletre : elektryczność  
@@ -532,9 +534,9 @@ filia : zamiłowanie (-filia)
 filipinia : Filipiny  
 filistinia : Terytorium Palestyńskie  
 filme : film  
-filsofer : filozof  
-filsofi : filozoficzny  
-filsofia : filozofia  
+filosofer : filozof  
+filosofi : filozoficzny  
+filosofia : filozofia  
 filter : filtr  
 fin : koniec  
 fina : skończyć, kończyć  
@@ -584,6 +586,7 @@ funocuper : odkurzacz
 furete : tchórz, fretka  
 furi : zły (wsciekły, gniewny)  
 furia : gniew, furia  
+futaw : siekera, topór  
 futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
@@ -819,6 +822,7 @@ jama : kolekcjonować, zebrać, zbierać
 jamaike : Jamajka  
 jami : zbiorowy, zbiorczy  
 jamia : kolekcja, zbiór; zgromadzenie, zebranie  
+jampa : skoczyć, skakać  
 jamula : rozproszyć, rozpraszać  
 jan : wiedza  
 jana : wiedzieć  
@@ -1013,6 +1017,8 @@ kolonistia : kolonializm
 kolum : kolumna, filar  
 koma' : przecinek  
 komal : miękki  
+komanda : rozkazać, rozkazywać, zakomendować  
+komande : rozkaz, komenda  
 komoro nesia : Komory  
 kompania : firma, kompania, korporacja  
 komputa : policzyć, liczyć, przetwarzać dane  
@@ -1343,6 +1349,7 @@ minus : oprócz, minus
 minut : minuta  
 mira : odbić, odbijać  
 mirer : lustro  
+mirosonde : echo  
 misa : wysłać (wyemitować)  
 misal : przykład  
 miser : nadawca  
@@ -1537,8 +1544,6 @@ olandia : Wyspy Alandzkie
 oman : Oman  
 onor : respekt, honor, szacunek, poważanie  
 onori : honorowy  
-orda : rozkazać, rozkazywać, zakomendować  
-orde : rozkaz, komenda  
 orgazme : orgazm  
 oromi : oromo  
 oromia : Oromia  
@@ -1856,6 +1861,8 @@ safa : wyczyścić, czyścić
 safar : podróż  
 safara : podróżować  
 safarer : podróżnik  
+safariste : turysta  
+safaristia : turystyka  
 safer : sprzątacz, sprzątacz  
 safi : czysty  
 saga : opowiedzieć, opowiadać  
@@ -1877,7 +1884,6 @@ salame : pozdrowienie
 salbador : Salwador  
 salima : poddać się, poddawać się  
 salone : Sierra Leone  
-salta : skoczyć, skakać  
 sam : taki sam  
 saman : niebo  
 samani : niebieski, niebiański, podniebny  
@@ -2038,10 +2044,6 @@ swenia : Szwecja
 swisia : Szwajcaria  
 ##t  
 tabake : tytoń  
-tabar : siekera, topór  
-tabi : środowiskowy, naturalny  
-tabia : natura, środowisko  
-tabiolojia : ekologia (nauka o środowisku)  
 tabla : ułożyć w trabelę  
 table : tablioca, macierz  
 tafun : burza, sztorm, tajfun  
@@ -2162,9 +2164,6 @@ tung : ból
 tunike : tunika, toga  
 tunisia : Tunezja  
 tupay : wiewiórka  
-tur : podróż, wycieczka  
-turiste : turysta  
-turistia : turystyka  
 turki : turecki  
 turkia : Turcja  
 turkmenia : Turkmenistan  

@@ -261,12 +261,12 @@ formules de politesses.
 **plisa safa kamar.**
 = Nettoyez la chambre s'il vous plaît
 
-Les ordres sont données avec **orda** = ordonner. Ils utilisent la
+Les ordres sont données avec **komanda** = ordonner. Ils utilisent la
 même structure de pivot que les requêtes avec **plisa**.
 
-**orda dona cay.**
+**komanda dona cay.**
 = Donnez-moi du thé !  
-**orda safa kamar.**
+**komanda safa kamar.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
@@ -296,7 +296,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 **i** et.
 **kafe** café.
 **kamar** chambre, pièce.
-**orda** ordonner.
+**komanda** ordonner.
 **u** ou.
 **safa** nettoyer.
 **sida** s'asseoir (être assis).

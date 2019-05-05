@@ -8,7 +8,10 @@ acida : suan
 adjektivo : sifi lekse  
 adreso : adres  
 aero : hawe  
+Afganujo, Afganio : afgania  
 afrika : afri  
+afrikamanteco : afrofilia  
+afrikamanto : afrofiler  
 Afriko : afria  
 agreso : agres  
 akcento : acente  
@@ -29,6 +32,7 @@ aligi : liga
 aliigi : muta  
 alkohola : alkoli  
 alkoholo : alkol  
+alofono : alofone  
 alta : gaw  
 altaro : altar  
 aluminio : alumin  
@@ -299,7 +303,7 @@ eta : mini
 Etiopio : etiopia  
 evangelio : anjil  
 eĉ : hati  
-eĥo : eho  
+eĥo : mirosonde  
 Eŭrazio : eurasia  
 eŭro : euro'  
 Eŭropa : europi  
@@ -340,9 +344,9 @@ fiksi : fiksa
 filino : fem bace  
 Filipinoj : filipinia  
 filmo : filme  
-filozofia : filsofi  
-filozofio : filsofia  
-filozofo : filsofer  
+filozofia : filosofi  
+filozofio : filosofia  
+filozofo : filosofer  
 filtri : filter  
 fingro : finger  
 fini : fina  
@@ -381,6 +385,7 @@ fromaĝo : cis
 frosto : himorose  
 frukto (rezulto) : pal  
 fumo : duman  
+fungo : funge  
 funkcii : funca  
 furo : furete  
 fusilo : bunduke  
@@ -439,6 +444,7 @@ harmonia : harmoni
 harmonio : harmonia  
 hasio : hasium  
 havanto : ader  
+havi : ada  
 hazarda : zari  
 hazardo : zar  
 haŭto : pifu'  
@@ -840,7 +846,7 @@ naskigi : jena
 naskiĝtago : jen den  
 nasko : jen  
 natrio : natre  
-naturo : tabia  
+naturo : ekia  
 naūatla : nawati  
 ne : ne  
 ne : ni  
@@ -889,8 +895,8 @@ opinii : raya
 opinio : ray  
 oranĝa : aranji  
 oranĝo : aranje  
-ordoni : orda  
-ordono : orde  
+ordoni : komanda  
+ordono : komande  
 oriento : dong  
 origina : asli  
 origino : asle  
@@ -1079,6 +1085,7 @@ sablo : rege
 safrano : zafran  
 saga : sofia  
 salo : sal  
+salti : jampa  
 saluto : salame  
 saluton! : halow  
 sama : sam  
