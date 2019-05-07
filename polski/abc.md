@@ -6,7 +6,7 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
@@ -38,7 +38,7 @@ Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, d, 
 Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polskim.
 
 - **r**, najlepiej, by była drżąca jak w hiszpańskim _carro_. Inne wymowy są akceptowane.
-- **v** jest zawsze wymawiane jak W w _wóz_.
+- **w** jest zawsze wymawiane jak W w _wóz_.
 - **x** jest zawsze wymawiane jak SZ w _szpital_.
 - **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
@@ -53,16 +53,16 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. komún, bazár, kamís.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nówi, dúnia, musíke.
 
-     dunia si mimen ya sundar planete.
-    /dúnia sí mimén ya sundár planéte./
+     dunia si momi sundar planete.  
+    /dúnia sí mómi sundár planéte./
 
-     mi wanta loga komun baxa, ye si pandunia.
-    /mí wól lóga komún báxa, yé sí pandúnia./
+     me wanta loga komun bax, le si pandunia.  
+    /mé wánta lóga komún báx, lé sí pandúnia./
 
 Jeżeli akcentowana sylaba nie jest zgodna z powyższymi zasadami, jest zaznaczona akcentem ostrym (´).
 
-     darse gurú suku kafé.
-    /dárse gurú súku kafé./
+     darsogur sida sa sofa'.  
+    /dársogúr sída sá sofá./
 
 
 ## Wielkość liter
@@ -101,8 +101,8 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **mi vida tu :)** = Ja widzę cię.  
-> **mi no vida tu :(** = Ja nie widzę cię.
+> **me wida te :)** = Ja widzę cię.  
+> **me ni wida te :(** = Ja nie widzę cię.
 
 
 ## Struktura słów

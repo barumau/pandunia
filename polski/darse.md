@@ -6,12 +6,18 @@ Przedstawianie się
 
 ### Dialog
 
-> ☻: **tu si ke?** = Kim jesteś?  
-> ☺: **mi si yusef. tu si ke?** = Jestem Yusef. Kim jesteś?  
-> ☻: **mi si maria. ye si ke?** = Jestem Maria. Kto to?  
-> ☺: **ye si mi ya doste.** = To mój przyjaciel.  
-> ☻: **ye ya nam si ke?** = Jak się nazywa?  
-> ☺: **ye ya nam si sara.** = Nazywa się Sara.
+☻: **te si ke?**
+= Kim jesteś?  
+☺: **me si yusef. te si ke?**
+= Jestem Yusef. Kim jesteś?  
+☻: **me si maria. le si ke?**
+= Jestem Maria. Kto to?  
+☺: **le si mi doste.**
+= To mój przyjaciel.  
+☻: **li nam si ke?**
+= Jak się nazywa?  
+☺: **li nam si sara.**
+= Nazywa się Sara.
 
 ### Gramatyka
 
@@ -19,11 +25,15 @@ Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wska
 
 Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
-> **ye si sara.** - Ona jest Sarą.  
-> **ye no sara.** - Ona nie jest Sarą.
+**le si sara.**
+= Ona jest Sarą.  
+**le ni sara.**
+= Ona nie jest Sarą.
 
-> **maw si hewan** - Kot jest zwierzęciem.  
-> **dom no hewan** - Dom nie jest zwierzęciem.  
+**maw si hewan.**
+= Kot jest zwierzęciem.  
+**dom ni hewan.**
+= Dom nie jest zwierzęciem.  
 
 
 ### Ćwiczenia
@@ -40,9 +50,9 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Lista słów
 
-**mi** Ja, mnie. **mi da** mój.  
-**tu** ty, cię. **tu da** twój.  
-**ye** on, ona lub ono. **ye da** jego lub jej.  
+**me** Ja, mnie. **mi** mój.  
+**te** ty, cię. **ti** twój.  
+**le** on, ona lub ono. **li** jego lub jej.  
 **ke** co lub kto.  
 **si** być (jestem, jesteś, jest, itd)
 **si** tak. **no** nie.  
@@ -52,12 +62,12 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu si ke?
-2. mi si tomas.
-3. tu ya doste si ke?
-4. ye si sara.
-5. tu ya nam si ke?
-6. mi ya nam si ........... 
+1. te si ke?
+2. me si tomas.
+3. ti doste si ke?
+4. le si sara.
+5. ti nam si ke?
+6. mi nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -66,18 +76,22 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 Mówienie cześć
 ------------
 
-> **salam** = Cześć!
+**salam**
+= Cześć!
 
 Oto jak ludzie pozdrawiają się w Panduni. Mówią **salam**. To słowo jest używane i na powitanie, jak i na pożegnanie
 
-> **salam** = Żegnaj!
+**salam**
+= Żegnaj!
 
 Słowo **salam** znaczy "pozdrowienie". Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji. Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
 
 Forma czasownikowa **salam** to **salama**, znaczące "pozdrawiać".
 
-> **mi salama tu.** = Pozdrawiam cię.  
-> **tu salama mi.** = Pozdrawiasz mnie.
+**me salama te.**
+= Pozdrawiam cię.  
+**te salama me.**
+= Pozdrawiasz mnie.
 
 To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W **mi salama tu** pierwsze słowo, **mi**, jest podmiotem, **salama** jest orzeczeniem (słowem-czynnością), a **tu** jest dopełnieniem. Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
 
@@ -87,16 +101,23 @@ W Panduni zaimki osobowe to: **mi** = ja, **tu** = ty, i **ye** = on,ona, ono. Z
 
 W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
 
-> **mi salama tu!** = Pozdrawiam cię!  
-> **salama tu!** = Pozdrowienia dla ciebie! (To oczywiste, że mówiący to pozdrawiający.)  
-> **salama!** = Pozdrowienia! (To oczywiste, że słuchacze są pozdrawiania.)
+**me salama te!**
+= Pozdrawiam cię!  
+**salama te!**
+= Pozdrowienia dla ciebie! (To oczywiste, że mówiący to pozdrawiający.)  
+> **salama!**
+= Pozdrowienia! (To oczywiste, że słuchacze są pozdrawiania.)
 
 Wzór w **salam tu** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
 
-> **salam toni!** = Cześć, Tony!  
-> **salam mamá!** = Cześć, mamo!  
-> **salam papá!** = Cześć, tato!  
-> **salam xefe!** = Cześć, szefie!
+**salam toni!**
+= Cześć, Tony!  
+**salam mame!**
+= Cześć, mamo!  
+**salam pape!**
+= Cześć, tato!  
+**salam xefe!**
+= Cześć, szefie!
 
 Innym słowem w Panduni do pozdrawiania jest **haló**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
 
@@ -120,38 +141,46 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu salama ye.
-2. mamá salama papá.
-3. salam mamá!
+1. te salama le.
+2. mame salama pape.
+3. salam mame!
 4. salam!
 
 
 --------------------------------------------------------------------------------
 
 
-Proszenie
----------------
+## Proszenie
 
 ### Dialog
 
-☻: **salam!** = Cześć!  
-☺: **salam! plisa sida.** = Cześć! Proszę, usiądź!  
-☻: **danke.** = Dziękuję.  
-☺: **plisa nyama kafe u cay.** = Proszę, napij się kawy lub herbaty.  
-☻: **mi nyama cay. danke.** = Napiję się herbaty, dziękuję.  
+☻: **salam!**
+= Cześć!  
+☺: **salam! plisa sida.**
+= Cześć! Proszę, usiądź!  
+☻: **danke.**
+= Dziękuję.  
+☺: **plisa nyama kafe u cay.**
+= Proszę, napij się kawy lub herbaty.  
+☻: **me nyama cay. danke.**
+= Napiję się herbaty, dziękuję.  
 ...  
-☺: **plisa salama tu ya mamá!** = Proszę pozdrów twoją matkę.  
-☻: **mi salama ye. salam!** = Pozdrowię ją. Cześć!  
-☺: **salam!** = Cześć!
+☺: **plisa salama ti mame!**
+= Proszę pozdrów twoją matkę.  
+☻: **me salama le. salam!**
+= Pozdrowię ją. Cześć!  
+☺: **salam!**
+= Cześć!
 
 
 ### Gramatyka
 
-Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **ye** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
+Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
-> **mi plisa tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.
+**me plisa te salama le.**
+= Ja proszę cię, żebyś pozdrowił go/ją.
 
-Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **plisa** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **ye**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **plisa** = prosić, odnosi się do **te** jako swojego dopełnienia. Jednocześnie **te** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **le**. Tak więc **te** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
@@ -159,25 +188,35 @@ Struktura osiowa jest powszechną strukturą w Panduni.
 
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
-> **mi plisa tu salama ye.** = Ja proszę cię, żebyś pozdrowił go/ją.  
-> **plisa salama ye.** = Proszę, pozdrów go/ją.
+**me plisa te salama le.**
+= Ja proszę cię, żebyś pozdrowił go/ją.  
+**plisa salama le.**
+= Proszę, pozdrów go/ją.
 
 Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-> **plisa sida.** = Proszę, usiąść.  
-> **plisa dona kafe.** = Proszę, podaj kawę.  
-> **plisa dona cay.** = Proszę, podaj herbatę.  
-> **plisa nyama cay.** = Proszę, pij herbatę.  
-> **plisa safa kamar.** = Proszę, sprzątaj pokój.
+**plisa sida.**
+= Proszę, usiąść.  
+**plisa dona kafe.**
+= Proszę, podaj kawę.  
+**plisa dona cay.**
+= Proszę, podaj herbatę.  
+**plisa nyama cay.**
+= Proszę, pij herbatę.  
+**plisa safa kamar.**
+= Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
 
-> **manda dona cay.** = Daj (mi) herbatę!  
-> **manda safa kamar.** = Sprzątaj pokój!
+**komanda dona cay.**
+= Daj (mi) herbatę!  
+**komanda safa kamar.**
+= Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
 
-> **safa ye!** = Sprzątaj to!
+**safa le!**
+= Sprzątaj to!
 
 
 ### Ćwiczenia
@@ -193,15 +232,15 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cay** herbata. **plisa** poprosić, prosić. **giva** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. ye nyama cay.
-2. xefe plisa ye sida.
+1. le nyama cay.
+2. xefe plisa le sida.
 3. plisa nyama kafe u cay.
-4. mamá plisa mi safa kamar.
+4. mame plisa me safa kamar.
 5. xefe sida i nyama kafe.
 
 

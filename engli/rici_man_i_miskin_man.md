@@ -32,7 +32,7 @@ hakimer loga, "dul te laya badi den, i miskin man jama sake du lim gimi parce du
 </td><td>
 The judge said, "Both of you come tomorrow, and the poor man must bring a bag of 5 gold coins!"
 </td></tr><tr><td>
-miskin man ada pol doste, ki dona pa le pan pese.
+miskin man ada pol doste, ki dona pan pese pa le.
 </td><td>
 The poor man had many friends who gave him the money.
 </td></tr><tr><td>

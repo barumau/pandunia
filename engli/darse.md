@@ -36,9 +36,9 @@ simply replace it with **ni** (which is the word for _no_).
 **le ni sara.**
 = She is not Sara.
 
-**maw si hewan**
+**maw si hewan.**
 = The cat is an animal.  
-**dom ni hewan**
+**dom ni hewan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying **me** and a word

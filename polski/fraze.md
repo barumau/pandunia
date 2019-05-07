@@ -307,10 +307,10 @@ Co to jest?
 **ce me da fon.**
 To mój telefon.
 
-**ce ke ya?**
+**ce ke da?**
 Czyje to?
 
-**ce me ya.**
+**ce me da.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza **ya**
@@ -327,8 +327,8 @@ On/ona jest moim przyjacielem/przyjaciółką.
 **me si sara da doste.**
 Jestem przyjacielem Sary.
 
-<small>Etymologia. **ya**
-pochodzi z języków: pundżabskiego: ਦਾ "dā", mandaryńskiego: 的 "de".</small>
+<small>Etymologia. **da**
+pochodzi z języków: mandaryńskiego: 的 "de", pundżabskiego: ਦਾ "dā".</small>
 
 
 
@@ -383,7 +383,7 @@ Czy znasz tę osobę?
 **eska tote jana unale?**
 Czy znacie się?
 
-**mimen jana unale ze long.**
+**mome jana unale ya long.**
 Znamy się od długiego (czasu).
 
 
@@ -421,7 +421,7 @@ mogą się odnosić do jednego lub większej liczby jabłek.
 **eska te nyama kafe?**
 Czy pijesz kawę?
 
-**mi nyama kafe.**
+**me nyama kafe.**
 Piję kawę.
 
 Porada: Znaczenie **nyama**
@@ -639,18 +639,18 @@ Jakiego rodzaju muzyki słuchasz?
 
 
 
-### vida <small>widzieć</small>
+### wida <small>widzieć</small>
 
-**suku vida te.**
+**suku wida te.**
 Miło cię widzieć!
 
-**vida te repi!**
+**wida te repi!**
 Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 
-**vida te ming den!**
+**wida te badi den!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**me vida le predi den.**
+**me wida le predi den.**
 Widziałem go/ją wczoraj.
 
 
@@ -662,7 +662,7 @@ Widziałem go/ją wczoraj.
 Co znaczy to słowo?
 
 **"maw" mena ke?**
-Co znaczy "mau"?
+Co znaczy "maw"?
 
 **le mena yang du hewan.**
 To oznacza rodzaj zwierzęcia.
@@ -677,7 +677,7 @@ Nie rozumiem, co to znaczy.
 **plisa kitaba ti adres.**
 Proszę, napisz swój adres.
 
-**plisa kitaba ye na ce.**
+**plisa kitaba le sa ce.**
 Proszę, napisz to tutaj!
 
 
@@ -723,7 +723,7 @@ Gdzie powinienem pójść?
 **me bixu gowa pa ki ren?**
 Do kogo powinienem pójść?
 
-**haida enda!**
+**haida gowa!**
 Pójdźmy!
 
 **haida gowa sa pede**
@@ -740,7 +740,7 @@ Przyjdź tu!
 **te laya ya ke?**
 Skąd pochodzisz?
 
-**me laya ya dubai.**
+**me laya ya dubay.**
 Pochodzę z Dubaju.
 
 **me laya dom badi den.**
@@ -784,7 +784,7 @@ Siedzi w pokoju.
 Porada! Możesz używać **sa**
 jako przyimka lub samodzielnie jako czasownika.
 
-**mi werka sa...**
+**me werka sa...**
 Pracuję w ...
 
 
