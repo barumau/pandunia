@@ -461,13 +461,13 @@ simplest sentences, the subject is a personal pronoun and the
 predicate is an adjective or a noun.
 
 > **me bon.** - I am good.  
-> **le novi.** - It is new.  
+> **le nowi.** - It is new.  
 > **le sara.** - She is Sara.  
 
 The word **ni** is added to form the negative.
 
 > **me ni bon.** - I'm not good.  
-> **le ni novi.** - It's not new.  
+> **le ni nowi.** - It's not new.  
 > **le ni sara.** - She is not Sara.
 
 Also two personal pronouns can be juxtaposed.
@@ -483,7 +483,7 @@ like above.
 
 > **sara si bon.** - Sara is good.  
 > **petre si day.** - The stone is big.  
-> **meze si novi.** - The table is new.  
+> **meze si nowi.** - The table is new.  
 > **meze ni law.** - The table is not old.
 
 #### 7.2.3. With adjective subject
@@ -491,7 +491,7 @@ like above.
 The same rule applies also for two adjectives.
 
 > **jowan si sundar.** - Young is beautiful.  
-> **novi ni law.** - New is not old.  
+> **nowi ni law.** - New is not old.  
 
 #### 7.2.4. To be
 
@@ -653,14 +653,14 @@ always necessary. However it is especially convenient in expressions
 of state.
 
 **me si ren.** - I am a person.  
-**le si novi meze.** - It is a new table.
+**le si nowi meze.** - It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **ni**.
 
 **me ni ren.** - I'm not a person.  
-**le ni novi meze.** - It's not a new table.
+**le ni nowi meze.** - It's not a new table.
 
 The word **ni** is used for denying anything. It affects always the next word.
 
@@ -937,10 +937,10 @@ are some examples.
 **kitabi** - written, textual (adjective)  
 **kitabe** - writing, text (noun)  
 
-**novi** - new (adjective)  
-**nova** - to make new (active verb)  
-**novu** - to become new (passive verb)  
-**nove** - novelty, new thing (noun)  
+**nowi** - new (adjective)  
+**nowa** - to make new (active verb)  
+**nowu** - to become new (passive verb)  
+**nowe** - novelty, new thing (noun)  
 
 There is a handful of verbs, which appear without the ending. These
 are some of the most common verbs in Pandunia.
@@ -956,11 +956,11 @@ that **-a** marks an active verb and **-u** marks a passive verb. So
 **loga** means _to speak_ and **logu** means _to be spoken_.
 
 1. If the root is an action, then its verbal form will mean "to do the
-   action".  For example from **vide** = "a look" we get **wida** =
+   action".  For example from **wide** = "a look" we get **wida** =
    "to look".
-2. If the root is a description, like **now-** (**novi** = new), then
+2. If the root is a description, like **now-** (**nowi** = new), then
    its verbal form will mean "to turn into that quality". For example
-   from **novi** = "new" we get **nova** = "to make new" or "to
+   from **nowi** = "new" we get **nowa** = "to make new" or "to
    renew".
 
 #### 11.1.3. Deriving nouns
@@ -973,8 +973,8 @@ product of the action. For example from **kitab-** = "to write" we get
 **kitabe** = "writing" or "text".
 
 If the root word is a description, then its noun form will mean a
-concrete instance of that quality. For example from **nov-** = "new"
-we get **nove** = "a novelty" i.e. something new.
+concrete instance of that quality. For example from **now-** = "new"
+we get **nowe** = "a novelty" i.e. something new.
 
 Additional noun suffixes are presented below.
 
@@ -993,7 +993,7 @@ for example **bon** (good) and **sundar** (beautiful) don't end in -i.
 
 If the root word is a description, then its adjectival form will mean
 "that which is in the state of the root". For example from **now-** =
-quality of novelty, we get **novi** = _new_ i.e. _that which is new_.
+quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
 
 If the root is an action, then its adjectival form will mean the state
 that is produced by the action. For example from **loga** = "to speak"
@@ -1108,7 +1108,7 @@ are also a lot of country names that do not end in **-ia**.
 
 Also abstract nouns often end in **-ia**.
 
-**novi** new, **novia** newness, novelty  
+**nowi** new, **nowia** newness, novelty  
 **huri** free, **huria** freedom
 
 When it is added after -er, it means a place of work.
@@ -1220,13 +1220,13 @@ and polka.
 The same formulas can be applied to roots that describe a state.
 
 1. Description: -i -e
-    - **novi nove.** - New news.
+    - **nowi nowe.** - New news.
     - **longi longe** - Long length.
 2. Production: -a -e
-    - **nova nove.** - To renew the new.
+    - **nowa nowe.** - To renew the new.
     - **longa longe.** - To lengthen the length.
 3. Transition: -e -u
-    - **nove novu.** - The new get renewed.
+    - **nowe nowu.** - The new get renewed.
     - **longe longu.** - The length gets lengthened.
 
 Description formula still gives meaningful (though obvious) phrases.
@@ -1267,7 +1267,7 @@ In Pandunia, structure words share the following characteristics:
 | 8| Affirmation / presence    |**sa**<br>with, by, at  |                        | **si**<br>yes          |                        | **su**                 |
 | 9| Possession                | **da**<br>'s           |                        |                        |                        | **du**<br>of           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
-|11| Origin                    | **da**<br>from, since  |                        |                        |                        | **du**                 |
+|11| Origin                    | **ya**<br>from, since  |                        |                        |                        | **yu**                 |
 
 
 ### 12.4. Hierarchy of Word Types
