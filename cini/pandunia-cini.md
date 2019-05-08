@@ -96,6 +96,7 @@ le : 他，她，它
 lole : 他们  
 ##m  
 mame : 妈妈  
+manihayistia : 摩尼教   
 matur fem : 女人  
 matur man : 男人  
 maye : 蚂蚁   

@@ -3,7 +3,6 @@
 -em : -er  
 -i : -a (-e)  
 -u : -i (-iĝi)  
- : forta  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -105,7 +104,6 @@ baha'iste : bahaisto
 baha'istia : bahaismo  
 bal : ok (8)  
 balde : sitelo  
-bale : forto  
 balkon : balkono  
 balon : balono  
 bama : Birmo  
@@ -443,6 +441,8 @@ fonga : venti
 forke : forko  
 forma : formigi  
 forme : formo  
+forti : forta  
+fortia : forto  
 forum : forumo  
 fos : foso  
 fosa : fosi  
@@ -1118,6 +1118,7 @@ rutin : rutino (kutimo)
 ##s  
 sa ce : tie  
 sa ke : kie  
+sa loke du : anstataŭ  
 sa sabu : ĉar (pro ke)  
 sabe : kialo  
 sabun : sapo  

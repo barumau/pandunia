@@ -233,6 +233,7 @@ energia : energe
 englanti : engli  
 enimmäis- : maximi  
 eniten : maxim  
+enkeli : anjiler  
 ensimmäinen (alku-) : muli  
 ensimmäinen (numero yksi) : num un  
 entsyymi : enzim  
@@ -483,6 +484,7 @@ infektio (tartunta) : infece
 inkivääri : inje  
 innoittaa (inspiroida) : inspira  
 insinööri : injener  
+internet : internete  
 Intia : bartia  
 intialainen : barti  
 ioni : ion  
@@ -553,6 +555,7 @@ joustava (elastinen) : lasti
 judo : judo  
 juhannus : yohan feste  
 juhla : feste  
+juhlapäivä : festoden  
 juhlia : festa  
 jumala : dew  
 jumalallinen : dewi  
@@ -987,6 +990,7 @@ liima : glute
 liitto (unioni) : unia  
 lilja : lilya  
 linja-auto (bussi) : bus  
+linna : kastel  
 linnake : yosay  
 lintu : pakse  
 lippu (piletti) : tikete  
@@ -1105,6 +1109,7 @@ mangaani : mangan
 mango : mange  
 mangostani : mangus  
 mangusti : mungus  
+manikealaisuus : manihayistia  
 Manin saari : manin  
 manteli : badam  
 marathi (eräs intialainen kieli) : marati  
@@ -1277,6 +1282,7 @@ neon : neon
 Nepal : nepal  
 neptunium : neptunium  
 Neptunus : neptun  
+nettisivu : netoloke  
 neula : pin  
 neuvo : mente  
 neuvontantaja (mentori) : menter  
@@ -1325,6 +1331,7 @@ näppäimistö : buton ban
 näytellä : rola  
 näyttelijä : roler  
 näyttää : xowa  
+näyttää jltkn : rupu  
 näytös (esitys, show) : xow  
 ##o  
 odottaa : denga  
@@ -1564,6 +1571,7 @@ postittaa : posta
 povi : buste  
 presidentti : prezidente  
 profeetta : naber  
+profeetta Mani : manihay  
 professori : profesor  
 profetia : nabe  
 projekti : proje  
@@ -1616,6 +1624,7 @@ pääkallo : sar oste
 päällikkö (pomo) : xef  
 pääministeri (suurvisiiri) : xefi minister  
 päärynä : per  
+pääsiäinen : paske  
 päästää (sallia) : laxa  
 pääte: adjektiivi tai adverbi : -i  
 pääte: OVS-sanajärjestyksen verbi : -u  
@@ -1800,6 +1809,7 @@ siipi : wing
 siirappi : xirope  
 siitin (penis) : penis  
 siivooja : safer  
+sijasta (tilalta) : sa loke du  
 sijoittaa (panna paikalleen) : loka  
 sika (possu) : gurube  
 sikhi : sikiste  
@@ -1816,6 +1826,7 @@ sintolaisuus : xindawistia
 sinun : ti  
 sinä : te  
 Siperia : sibir  
+sipuli : pyaze  
 sisarus (veli tai sisko) : saudar  
 sisus (sisäpuoli) : inde  
 sisä- (sisäinen) : indi  
@@ -1999,6 +2010,7 @@ teko : fe
 televisio : telowide  
 teltta : haime  
 telugu (eräs intialainen kieli) : telugi  
+temppeli : mandir  
 tennis : tenis  
 teokratia : dewokratia  
 teologia : dewolojia  
@@ -2074,6 +2086,7 @@ turisti : safariste
 Turkki : turkia  
 turkkilainen : turki  
 Turkmenistan : turkmenia  
+turvata (suojata, pelastaa) : sekura  
 tutkia (opiskella) : loja  
 tutkia : genca  
 tuuli (puhallus) : fong  
@@ -2273,8 +2286,8 @@ vitsi : joke
 vitsiniekka : joker  
 voi : makan  
 voida (osata, pystyä) : abla  
-voima : bale  
-voimakas (vahva) :   
+voima : fortia  
+voimakas (vahva) : forti  
 voipuu : karite  
 voittaa (kukistaa) : wina  
 voitto : win  

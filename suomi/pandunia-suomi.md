@@ -3,7 +3,6 @@
 -em : pääte: pienin erottuva yksikkö kielitieteessä  
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
- : voimakas (vahva)  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -54,6 +53,7 @@ angolia : Angola
 anima : animoida  
 anime : animaatio (piirretty)  
 anjil : evankeliumi  
+anjiler : enkeli  
 anta : vastustaa  
 antartia : Antarktis  
 anten : antenni  
@@ -119,7 +119,6 @@ bahamia : Bahama-saaret
 bahrain : Bahrain  
 bal : kahdeksan (8)  
 balde : sanko (ämpäri)  
-bale : voima  
 balkon : parveke (kuisti)  
 balon : ilmapallo  
 bama : Myanmar (Burma)  
@@ -516,6 +515,7 @@ feria : loma
 fermium : fermium  
 festa : juhlia  
 feste : juhla  
+festoden : juhlapäivä  
 fete : rasva (öljy)  
 feti : rasvainen  
 feya : lentää  
@@ -559,6 +559,8 @@ fonte : lähde (kaivo)
 forke : haarukka  
 forma : muotoilla (muovata)  
 forme : muoto  
+forti : voimakas (vahva)  
+fortia : voima  
 forum : foorumi  
 fos : kuoppa (kolo)  
 fosa : kaivaa  
@@ -788,6 +790,7 @@ insulta : solvata (loukata)
 insulte : loukkaus (herja)  
 inter : väli  
 interes : kiinnostus (mielenkiinto)  
+internete : internet  
 inxala : toivoa  
 iode : jodi  
 ion : ioni  
@@ -938,6 +941,7 @@ karote : porkkana
 karte : kortti  
 kartun : sarjakuva  
 kastan : kastanja  
+kastel : linna  
 kastor : majava  
 kata : katkaista (leikata)  
 katalunia : Katalonia  
@@ -1232,9 +1236,12 @@ mame : äiti (emä)
 man ban : poika  
 man rajer : kuningas  
 man : uros (mies)  
+mandir : temppeli  
 mangan : mangaani  
 mange : mango  
 mangus : mangostani  
+manihay : profeetta Mani  
+manihayistia : manikealaisuus  
 manin : Manin saari  
 manioke : kassava (maniokki)  
 manir : käytös (käyttäytyminen)  
@@ -1477,6 +1484,7 @@ neptunium : neptunium
 nes : saari  
 nesia : saaristo  
 nete : verkko  
+netoloke : nettisivu  
 ni : ei  
 nica : alittaa (alla)  
 nice : alapuoli  
@@ -1617,6 +1625,7 @@ pas : mennyt
 pasa : kuluttaa aikaa  
 pase : menneisyys  
 paskal : pascal (Pa)  
+paske : pääsiäinen  
 pasporte : passi  
 paste : tahna (tahdas)  
 patate : peruna (potaatti)  
@@ -1758,6 +1767,7 @@ putaw : viinirypäle
 putong cini : yleiskiina (mandariinikiina)  
 putong : yleinen (universaali)  
 puxa : työntää (puskea)  
+pyaze : sipuli  
 ##r  
 rada : säteillä  
 rade : säde  
@@ -1846,6 +1856,7 @@ rukosake : reppu (rinkka)
 rul : käärö  
 rundia : Burundi  
 rupe : ilmiasu (ulkonäkö)  
+rupu : näyttää jltkn  
 rusi : venäläinen  
 rusia : Venäjä  
 ruste : kylä  
@@ -1857,6 +1868,7 @@ rwanda : Ruanda
 ##s  
 sa ce : täällä (tuolla)  
 sa ke : missä?  
+sa loke du : sijasta (tilalta)  
 sa sabu : aiheutua (koska, syystä, takia)  
 sa : kanssa (luona, -lla, -ssa)  
 saba : aiheuttaa  
@@ -1918,6 +1930,7 @@ sekreteria : sihteeristö
 sekse : seksi (sukupuolinen kanssakäyminen)  
 sekunde : sekunti  
 sekundometer : sekuntikello  
+sekura : turvata (suojata, pelastaa)  
 sel : solu  
 selen : seleeni  
 sem : seitsemän (7)  

@@ -3,7 +3,6 @@
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
- : silny  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -121,7 +120,6 @@ bahamia : Bahamy
 bahrain : Bahrajn  
 bal : osiem (8)  
 balde : wiadro  
-bale : siła  
 balkon : balkon; ganek  
 balon : balon  
 bama : Mjanma, Birma  
@@ -559,6 +557,8 @@ fonte : fontanna (studnia, źródło)
 forke : widelec  
 forma : ukształtować, kształtować, urzeźbić, rzeźbić  
 forme : forma, kształt  
+forti : silny  
+fortia : siła  
 forum : forum  
 fos : dół, jama, wydobycie, wykop, wykopalisko  
 fosa : wykopać, kopać, wydobyć, wydobywać, wykopywać  

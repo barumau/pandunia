@@ -79,6 +79,7 @@ kosmi : космический
 kosmia : космос  
 ##l  
 ##m  
+manihayistia : манихейство  
 ##n  
 ##o  
 ##p  

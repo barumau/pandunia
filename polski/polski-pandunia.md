@@ -1739,10 +1739,10 @@ sikh : sikiste
 sikhizm : sikistia  
 siki : pix  
 silnik : moter  
-silny :   
+silny : forti  
 Singapur : singapur  
 się (nawzajem, wzajemnie) : unale  
-siła : bale  
+siła : fortia  
 siła, autorytet, władza : sultan  
 skand : skandium  
 skarb; skrabiec : hazin  

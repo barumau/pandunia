@@ -97,6 +97,7 @@ lourd : bari
 ##m  
 machine à écrire : kitabomaxin  
 mais (bien que) : a  
+manichéisme : manihayistia  
 melon d'eau : arbuze  
 mouche : zeze  
 ##n  

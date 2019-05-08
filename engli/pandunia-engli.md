@@ -3,7 +3,6 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
- : strong  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -53,7 +52,8 @@ andes : Andes
 angolia : Angola  
 anima : animate  
 anime : animation (cartoon)  
-anjil : gospel  
+anjil : gospel (divine message)  
+anjiler : angel (divine messenger)  
 anta : oppose (resist)  
 antartia : Antarctica  
 anten : antenna (aerial)  
@@ -121,7 +121,6 @@ bahamia : Bahamas
 bahrain : Bahrain  
 bal : eight (8)  
 balde : bucket  
-bale : force (strength)  
 balkon : balcony (porch)  
 balon : balloon  
 bama : Myanmar (Burma)  
@@ -514,6 +513,7 @@ fem rajer : queen
 fem : female  
 fen : part (fraction)  
 fena : divide (to partition)  
+fenodona : contribute  
 fenu : split (fall apart)  
 fer : iron  
 fera : go on vacation  
@@ -521,6 +521,7 @@ feria : vacation (holiday)
 fermium : fermium  
 festa : celebrate (party)  
 feste : party (celebration, festival)  
+festoden : holiday  
 fete : fat (grease)  
 feti : fatty (greasy)  
 feya : fly (go through air)  
@@ -534,7 +535,7 @@ filer : fan (-phile)
 filia : attraction (-philia)  
 filipinia : Philippines  
 filistinia : Palestinian Territory  
-filme : film  
+filme : film (video)  
 filosofer : philosopher  
 filosofi : philosophic  
 filosofia : philosophy  
@@ -564,6 +565,8 @@ fonte : fountain (spring, well)
 forke : fork  
 forma : shape (sculpt)  
 forme : form (shape)  
+forti : strong  
+fortia : force (strength)  
 forum : forum (public space)  
 fos : pit (excavation)  
 fosa : dig (excavate)  
@@ -793,6 +796,7 @@ insulta : insult (offend)
 insulte : insult (offense)  
 inter : between  
 interes : interest (interesting)  
+internete : internet  
 inxala : hope (wish)  
 iode : iodine  
 ion : ion  
@@ -943,6 +947,7 @@ karote : carrot
 karte : card  
 kartun : comic (cartoon)  
 kastan : chestnut  
+kastel : castle  
 kastor : beaver  
 kata : cut  
 katalunia : Catalonia  
@@ -1237,9 +1242,12 @@ mame : mother (mom)
 man ban : son  
 man rajer : king  
 man : male  
+mandir : temple  
 mangan : manganese  
 mange : mango  
 mangus : mangosteen  
+manihay : prophet Mani  
+manihayistia : Manichaeism  
 manin : Isle of Man  
 manioke : cassava (manioc)  
 manir : behaviour (manners)  
@@ -1331,7 +1339,7 @@ metal : metal
 metalojanger : blacksmith (iron forger)  
 mete : measurement  
 metode : method (way, manner)  
-metre : meter  
+metre : meter (## cm)  
 mexiko : Mexico  
 mey ren : everybody (everyone)  
 mey xey : everything  
@@ -1483,6 +1491,7 @@ neptunium : neptunium
 nes : island  
 nesia : archipelago  
 nete : net  
+netoloke : website  
 ni : not  
 nica : under (go under)  
 nice : underside (underneath)  
@@ -1590,6 +1599,7 @@ panameriki : pan-American
 panamia : Panama  
 panasi : pan-Asian  
 pande : panda  
+panduner : Pandunia speaker  
 pandunia : Pandunia  
 paneuropi : pan-European  
 pang : bread  
@@ -1623,6 +1633,7 @@ pas : past (bygone)
 pasa : pass (go by, go past)  
 pase : past times  
 paskal : pascal (Pa)  
+paske : Easter  
 pasporte : passport  
 paste : paste  
 patate : potato  
@@ -1765,6 +1776,7 @@ putaw : grape
 putong cini : Mandarin Chinese (Putonghua)  
 putong : common (universal)  
 puxa : push  
+pyaze : onion  
 ##r  
 rada : radiate  
 rade : ray  
@@ -1858,6 +1870,7 @@ rula : roll (wrap in)
 rum : rum  
 rundia : Burundi  
 rupe : appearance (looks)  
+rupu : seem  
 rusi : Russian  
 rusia : Russia  
 ruste : village  
@@ -1871,6 +1884,7 @@ rwanda : Rwanda
 ##s  
 sa ce : here (there)  
 sa ke : where  
+sa loke du : instead of  
 sa sabu : because  
 sa : with (by, at, in, on)  
 saba : cause (be the cause for)  
@@ -1942,6 +1956,7 @@ seksi : sexy (sexual)
 sekunde : second(s)  
 sekundometer : stop watch  
 sekur : safe (secure)  
+sekura : save  
 sel : cell (biology)  
 selen : selenium  
 selen : selenium  

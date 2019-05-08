@@ -108,6 +108,7 @@ kosmia : cosmos
 ##m  
 malke : propriété (possession, bien)  
 malker : possédant (propriétaire)  
+manihayistia : manichéisme  
 maye : fourmi  
 ##n  
 ##o  

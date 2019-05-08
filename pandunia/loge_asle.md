@@ -53,7 +53,7 @@ ama ← eng:love.
 amen ← heb:hbo:אמן. ell:ἀμήν (ámén). eng:pol:amen.  
 ampul ← fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).   
 ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pan:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).  
-anjil ← ind:injil. tur:incil. fra:évangile.  
+anjil ← ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). ell:εὐαγγέλιον (euangélion). rus:евангелие (evangeliye). fra:évangile. por:evangelho.  
 anti ← eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.  
 aple ← eng:apple. deu:Apfel. ind:apel.  
 aplika ← spa:por:aplicar. fra:appliquer. eng:apply.  
@@ -80,7 +80,6 @@ badan ← ara:(badan). hin:बदन (badan). per:urd:(badan). tur:beden. eng:b
 bagre ← hin:बाघ (bāgh). ben:বাঘ (bagh). + per:(babr). + spa:por:tigre. rus:(tigr).  
 bal ← zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.  
 balde ← spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).  
-bale ← hin:बल "bal". ben:বল "bôl". tel:"balamu".  
 balon ← fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.  
 ban ← zho:板 (bǎn). jpn:板 (ban). vie:bảng. kor:판 (pan). + swa:bao.  
 bande ← zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).  
@@ -251,6 +250,7 @@ fix ← eng:fish. deu:Fisch.
 folia ← eng:folly. fra:folie. ita:follia.  
 fong ← zho: 风 (fēng). yue: 風 (fung).  
 fonte ← por:fonte. spa:fuente. rus:фонтан (fontan). fra:fontaine. eng:fountain. uzb:fontan. jpn:噴水 (funsui).  
+forti ← fra:fort. spa:fuerte. por:forte. eng:force.  
 fubu' ← zho:腹 (fù). yue:(fuk1). jpn:(fukubu). mao:puku.  
 fuga ← zho:复 "fù". yue:"fuk". vie:phục.  
 fuke ← zho:衣服 "yīfu". yue:"yifuk". jpn:衣服 "ifuku". kor:의복 "uibog".  

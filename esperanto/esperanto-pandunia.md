@@ -60,6 +60,7 @@ angulo : kon
 animo : ruhe  
 ankaŭ : plus  
 ankoraŭ : hay  
+anstataŭ : sa loke du  
 antaŭiri : preda  
 anteno : anten  
 anusa : anusi  
@@ -366,8 +367,8 @@ forko : forke
 formigi : forma  
 formiko : maye  
 formo : forme  
-forta :   
-forto : bale  
+forta : forti  
+forto : fortia  
 forumo : forum  
 fosforo : fosfor  
 fosforo : pospor  

@@ -62,6 +62,7 @@ analysis : analis
 Ancient Egypt (Kemet) : kemia  
 and : i  
 Andes : andes  
+angel (divine messenger) : anjiler  
 anger (fury, rage, wrath) : furia  
 anglophile : englofiler  
 Angola : angolia  
@@ -346,7 +347,7 @@ carry (bear) : porta
 cash box : kax  
 cashier : kaxer  
 cassava (manioc) : manioke  
-castle : kastel
+castle : kastel  
 cat : maw  
 Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
@@ -478,7 +479,7 @@ consonant : konson
 consume (eat or drink) : nyama  
 content (possession) : ten  
 continue (resume) : kontinu  
-contribute : partodona
+contribute : fenodona  
 conventional (customary, traditional) : rasmi  
 cook (chef) : kuker  
 cook (prepare food) : kuka  
@@ -525,7 +526,6 @@ cumin : ziran
 cup : kupe  
 cupboard (closet, cabinet, wardrobe) : almar  
 curium : kurium  
-curry : kari'  
 curtain : parde  
 curve (bend) : kurbe  
 curvy (curved) : kurbi  
@@ -610,7 +610,6 @@ donkey (ass) : gade
 door (gate, portal) : mun  
 dot (spot) : binde  
 doubt (disbelief) : dute  
-download : nicolada
 dragonfly : libel  
 drama : drame  
 drawing (picture) : desen  
@@ -637,7 +636,7 @@ earth (ground) : zem
 Earth (Terra) : zemia  
 earthquake : sisme  
 east : dong  
-Easter (holiday) : paske
+Easter : paske  
 easy : izi  
 echo : mirosonde  
 ecology (study of environment) : ekolojia  
@@ -707,7 +706,6 @@ excrement (shit) : kake
 exist (be present) : zayu  
 exit (leaving) : cute  
 exit door : cute mun  
-experience : mesta  
 eye : yen  
 ##f  
 face : muke  
@@ -749,7 +747,7 @@ fight (war) : jeng
 figure (representation) : figur  
 Fiji : fijia  
 fill : fula  
-film : filme  
+film (video) : filme  
 filter : filter  
 find (discover) : eureka  
 fine (delicate) : fain  
@@ -779,7 +777,7 @@ food (meal) : nyam
 fool (buffoon) : bufon  
 foot : pede  
 football : futobol  
-force (strength) : bale  
+force (strength) : fortia  
 foreign : way dexi  
 foreign country : way dexia  
 forenoon : sube den  
@@ -869,7 +867,7 @@ Good evening : salam xam
 good luck : bon zar  
 Good morning : salam sube  
 good-looking : bon rupi  
-gospel : anjil  
+gospel (divine message) : anjil  
 gourd (calabash) : hulu'  
 grain (seed) : dan  
 gram : gram  
@@ -933,7 +931,6 @@ he or she or it : le
 head : sar  
 headmaster (principal) : darsoxef  
 heal (cure) : medika  
-health : nobinge
 hear (listen) : auda  
 heart : xim  
 heavy : bari  
@@ -965,7 +962,7 @@ hmm : hem
 hobby : hobe  
 hockey : hoke  
 hole : kong  
-holiday (day off) : festoden  
+holiday : festoden  
 holmium : holmium  
 holy (sacred) : santi  
 Holy See (Vatican City State) : watikan  
@@ -1031,15 +1028,15 @@ inner (internal) : indi
 insect : koncung  
 inside (interior) : inde  
 inspire : inspira  
-instead of : sa loke du
+instead of : sa loke du  
 instructions (recipe) : recete  
 insult (offence) : ninde  
 insult (offend) : insulta  
 insult (offense) : insulte  
 intend (plan) : plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) : tezi  
-internet : internete
 interest (interesting) : interes  
+internet : internete  
 interpreter (translator) : tarjer  
 interrogative : eski  
 invite : plisa laya  
@@ -1248,6 +1245,7 @@ mandarin orange : migan
 manganese : mangan  
 mango : mange  
 mangosteen : mangus  
+Manichaeism : manihayistia  
 mankind (humanity) : insania  
 manual : hani  
 many (much) : pol  
@@ -1311,7 +1309,7 @@ Mercury : budan
 message : mesaje  
 messianic : kristi  
 metal : metal  
-meter : metre  
+meter (## cm) : metre  
 method (way, manner) : metode  
 Mexico : mexiko  
 micro- : mikro-  
@@ -1487,7 +1485,7 @@ old (ancient) : puran
 olive : zaitun  
 Oman : oman  
 one (1) : un  
-onion : pyaze
+onion : pyaze  
 only (alone, solely, just) : mon  
 open (not closed) : kay  
 open : kaya  
@@ -1545,7 +1543,7 @@ panda : pande
 pandemic : panodemi  
 pandemonium : panodemonia  
 Pandunia : pandunia  
-Pandunia speaker : panduner
+Pandunia speaker : panduner  
 panic : panike  
 pantheism : panodewistia  
 pantheon : panodewia  
@@ -1630,7 +1628,6 @@ Pitcairn : pitkerne
 pizza : pize  
 pizzeria : pizeria  
 place (location) : loke  
-place (square) : maidan
 plain (ordinary, unadorned, simple, mere) : sadi  
 plan : plan  
 plane (tool for making a smooth surface) : rander  
@@ -1729,6 +1726,7 @@ proof (evidence, proof, demonstration, testimony) : dalil
 property (belongings, possessions) : malke  
 prophecy : nabe  
 prophet : naber  
+prophet Mani : manihay  
 proponent (supporter, activist, -ist) : iste  
 protactinium : protacinium  
 prove (demonstrate, testify) : dalila  
@@ -1886,7 +1884,7 @@ Saudi Arabia : saudi arabia
 sauna : sauna  
 sausage : sosis  
 save (deposit, bank) : banka  
-save (rescue) : sekura  
+save : sekura  
 scales (weighing device) : barometer  
 scandium : skandium  
 scarf (shawl) : xal  
@@ -1903,7 +1901,7 @@ second(s) : sekunde
 secret : sir  
 secretariat : sekreteria  
 secretary : sekreter  
-seem : rupu
+seem : rupu  
 seismology : sismolojia  
 selenium : selen  
 selenium : selen  
@@ -2057,7 +2055,7 @@ storm (tempest, typhoon, hurricane, cyclone) : tafun
 straight : jiki  
 straighten : jika  
 strike (punch) : darba  
-strong :   
+strong : forti  
 strontium : estrontium  
 student (pupil, learner) : darser  
 studio : estudia  
@@ -2154,7 +2152,7 @@ tell (narrate) : saga
 tellurium : telurium  
 Telugu : telugi  
 temperature : terme  
-temple : mandir
+temple : mandir  
 tempt (entice) : tenta  
 ten (10) : des  
 tennessine : tenesin  
@@ -2165,7 +2163,6 @@ terror : teror
 terrorism : teroristia  
 terrorist : teroriste  
 test (challenge, trial) : teste  
-Thailand : tai rajia
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
@@ -2312,7 +2309,6 @@ version (variation, edition) : wersion
 vice (deputy) : wis  
 vice-president : wis prezidente  
 victory (win) : win  
-video : filme  
 Viet Nam : wietnam  
 view (vision) : wide  
 village : ruste  
