@@ -431,13 +431,13 @@ del verbo convertimos una oración afirmativa en negativa.
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**le ni ada maw.**
+**le ni tena maw.**
 = Ella no tiene gato.  
-**le ada ni maw, a waf.**
+**le tena ni maw, a waf.**
 = Ella no tiene gatos sino perros.  
-**ni le, a me ada maw.**
+**ni le, a me tena maw.**
 = Ella no, pero yo tengo gato.  
-**me ada ni un, a dul maw.**
+**me tena ni un, a dul maw.**
 = Yo no tengo un gato sino dos gatos.  
 
 
@@ -470,9 +470,9 @@ Intenta traducir las oraciones de Español a Pandunia.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni ada waf i maw. / le ada ni waf i ni maw.
+4. le ni tena waf i maw. / le tena ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame ada ni waf a dul maw.
+6. mame tena ni waf a dul maw.
 
 
 ---------------------------------------------------------------------
@@ -513,11 +513,11 @@ tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
 que todavía se está hablando en el mismo tiempo.
 
 
-**me pas ada un maw.**
+**me pas tena un maw.**
 = Yo tuve un gato en el pasado.  
 **le bon maw.**
 = Ella fue una buena gata.  
-**me ada un waf zay.**
+**me tena un waf zay.**
 = Yo tengo un perro en el momento.
 
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
@@ -576,7 +576,7 @@ Intenta traducir de Español a Pandunia.
 ### Respuestas
 
 1. mi xefe festa sa wile.
-2. me ada dul waf sa pase.
+2. me tena dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.
@@ -601,7 +601,7 @@ específica la relación entre la modificadora y la modificada. La
 relación se puede especificar mediante la adición de una palabra con
 mayor sentido.
 
-**me ada da kar**
+**me tena da kar**
 = mi carro (el carro que yo tengo)  
 **mi yang da kar**
 = automóvil de mi tipo  

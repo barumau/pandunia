@@ -354,20 +354,20 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 
 
-### ada <small>mieć</small>
+### tena <small>mieć</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 Mam dobry dom.
 
-**le ni ada pese.**
+**le ni tena pese.**
 Nie ma pieniędzy.
 
-**me wanta ada novi fon.**
+**me wanta tena novi fon.**
 Chcę mieć nowy telefon.
 
-**eska te ada bace?**
+**eska te tena bace?**
 Czy masz dzieci?
-**me ada dul bace.**
+**me tena dul bace.**
 Mam dwoje dzieci.
 
 

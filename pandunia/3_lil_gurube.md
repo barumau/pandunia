@@ -4,7 +4,7 @@
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-sa pase law mam gurube ada tin lil gurube. a le ni ada bas nyam pa
+sa pase law mam gurube tena tin lil gurube. a le ni tena bas nyam pa
 dona pa lole. sa den du lole bas law, le senda lole pa dunia pa
 lole serca zi kisme.
 

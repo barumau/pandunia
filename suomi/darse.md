@@ -452,13 +452,13 @@ paikka lauseessa muuttuu.
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
 substantiivi, adjektiivi tai jopa lukusana.
 
-**le ni ada maw.**
+**le ni tena maw.**
 = Hän ei omista kissaa.  
-**le ada ni maw, a waf.**
+**le tena ni maw, a waf.**
 = Hän ei omista kissaa vaan koiran.  
-**ni le, a me ada maw.**
+**ni le, a me tena maw.**
 = Ei hän vaan minä omistan kissan.  
-**me ada ni un, a dul maw.**
+**me tena ni un, a dul maw.**
 = Minula ei ole yhtä vaan kaksi kissaa.
 
 
@@ -491,9 +491,9 @@ Käännä seuraavat lauseet panduniaksi.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni ada waf i maw. / le ada ni waf i ni maw.
+4. le ni tena waf i maw. / le tena ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame ada ni waf a dul maw.
+6. mame tena ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -637,11 +637,11 @@ yhden kerran, että kaikki se tapahtui aamulla. Siis ajan määre mainitaan
 vain kerran alussa. Seuraava ajan määre tarvitaan vasta sitten, kun
 siirrytään puhumaan toisesta ajan kohdasta.
 
-**me pas ada un maw.**
+**me pas tena un maw.**
 = Minä omistin ennen kissan.  
 **le bon maw.**
 = Se _oli_ hyvä kissa.  
-**me ada un waf zay.**
+**me tena un waf zay.**
 = Minulla on koira nyt.
 
 Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi. Silloin ei
@@ -677,7 +677,7 @@ Käännä seuraavat lauseet panduniaksi.
 ### Harjoitusten vastaukset
 
 1. mi xefe festa sa wile.
-2. me ada dul waf sa pase.
+2. me tena dul waf sa pase.
 3. te nyama kafe zay.
 4. le safa kamar sa predi den.
 5. maw nyama milke sa badi den.

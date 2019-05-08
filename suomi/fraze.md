@@ -373,20 +373,20 @@ saksa: Name, englanti: name.</small>
 
 
 
-### ada <small>olla, omistaa</small>
+### tena <small>olla, omistaa</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 Minulla on hyvä talo.
 
-**le ni ada pese.**
+**le ni tena pese.**
 Hänellä ei ole rahaa.
 
-**me wanta ada novi fon.**
+**me wanta tena novi fon.**
 Minä haluan saada uuden puhelimen.
 
-**eska te ada bace?**
+**eska te tena bace?**
 Onko sinulla lapsia?
-**me ada dul bace.**
+**me tena dul bace.**
 Minulla on kaksi lasta.
 
 

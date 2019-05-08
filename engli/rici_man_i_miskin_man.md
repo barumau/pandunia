@@ -12,7 +12,7 @@ le doma sa lil kamar supra bekeria.
 </td><td>
 He lived in a little room above a bakery.
 </td></tr><tr><td>
-un rici man ada bekeria.
+un rici man tena bekeria.
 </td><td>
 A rich man owned the bakery.
 </td></tr><tr><td>
@@ -32,7 +32,7 @@ hakimer loga, "dul te laya badi den, i miskin man jama sake du lim gimi parce du
 </td><td>
 The judge said, "Both of you come tomorrow, and the poor man must bring a bag of 5 gold coins!"
 </td></tr><tr><td>
-miskin man ada pol doste, ki dona pan pese pa le.
+miskin man tena pol doste, ki dona pan pese pa le.
 </td><td>
 The poor man had many friends who gave him the money.
 </td></tr><tr><td>

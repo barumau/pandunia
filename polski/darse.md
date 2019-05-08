@@ -356,10 +356,10 @@ Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słow
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **ye no ada maw.** = Ona nie ma koty.  
-> **ye ada no maw, lova waf.** = Ona ma nie koty, ale psy.  
-> **no ye, a mi ada maw.** = Nie ona, ale ja mam koty.  
-> **mi ada no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
+> **ye no tena maw.** = Ona nie ma koty.  
+> **ye tena no maw, lova waf.** = Ona ma nie koty, ale psy.  
+> **no ye, a mi tena maw.** = Nie ona, ale ja mam koty.  
+> **mi tena no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -384,9 +384,9 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 1. ye no safa kamar.
 2. un kupe no hali.
 3. dua waf no nyama supe.
-4. ye no ada waf i maw. / ye ada no waf i no maw.
+4. ye no tena waf i maw. / ye tena no waf i no maw.
 5. xefe nyama cay a no kafe.
-6. mamá ada no waf a do maw.
+6. mamá tena no waf a do maw.
 
 
 <!--
@@ -487,9 +487,9 @@ Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu
 
 Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-> **mi pas ada un maw.** = Miałem jednego kota w przeszłości.  
+> **mi pas tena un maw.** = Miałem jednego kota w przeszłości.  
 > **ye bon maw.** = To był dobry kot.  
-> **mi ada un waf zay.** = Mam teraz jedneg psa.
+> **mi tena un waf zay.** = Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
@@ -515,7 +515,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 ### Odpowiedzi do Ćwiczeń
 
 1. mi ya xefe festa futur.
-2. mi ada do waf pas.
+2. mi tena do waf pas.
 3. tu nyama supe zay.
 4. ye safa kamar na befo den.
 5. maw nyama kafe na badi den.

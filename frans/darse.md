@@ -482,13 +482,13 @@ le sens de la phrase change donc selon l'emplacement du **ni**.
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**le ni ada maw.**
+**le ni tena maw.**
 = Elle n'a pas de chat.  
-**le ada ni maw, a waf.**
+**le tena ni maw, a waf.**
 = Elle n'a pas de chats, mais des chiens.  
-**ni le, a me ada maw.**
+**ni le, a me tena maw.**
 = Pas elle, mais j'ai des chats.  
-**me ada ni un, a dul maw.**
+**me tena ni un, a dul maw.**
 = Je n'ai pas un, mais deux chats.
 
 
@@ -522,9 +522,9 @@ Parfois, il y a plus d'une bonne réponse.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni ada waf i maw. / le ada ni waf i ni maw.
+4. le ni tena waf i maw. / le tena ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame ada ni waf a dul maw.
+6. mame tena ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -661,11 +661,11 @@ On peut également placé l'expression du temps en fin de phrase.
 Il n'est pas nécessaire d'utiliser les expressions de temps à chaque
 phrase, sauf si on parle à un autre temps au cours du récit.
 
-**me pas ada un maw.**
+**me pas tena un maw.**
 = J'ai eu un chat dans le passé.
 **le bon maw.**
 = C'était un bon chat.
-**me ada un waf zay.**
+**me tena un waf zay.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le
@@ -700,7 +700,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 ### Réponses aux exercices
 
 1. mi xefe festa sa wile.
-2. me ada dul waf sa pase.
+2. me tena dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.

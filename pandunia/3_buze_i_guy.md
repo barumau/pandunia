@@ -4,7 +4,7 @@
 
 
 sa mar, zayu guy du doma sa nice du pulte du transa suy.
-guy ada mal rupe. le ada yen – day ka plate, i nos – day ka warkobrox.
+guy tena mal rupe. le tena yen – day ka plate, i nos – day ka warkobrox.
 
 sa koy den, guy auda lil sonde sa supre du pulte.
 «ki ren marca sa me da pulte?» kritu guy.
@@ -39,12 +39,12 @@ bada lil zaman, bari kelele audu sa supre du daw.
 
 «nun me kapa te!» logu guy.
 
-«si, te laya! me ada dul baton, sa lole me wil haraba te da yen.
-me ada dul day jengopetre, sa lole me wil parca te da oste.»
+«si, te laya! me tena dul baton, sa lole me wil haraba te da yen.
+me tena dul day jengopetre, sa lole me wil parca te da oste.»
 
 i bada ce, day buze haraba guy da yen, i parca guy da oste, i lanca guy pa suy.
 bada ce, le marca pa grasistan.
-sa grasistan, pan buze fatu feti. lole karbi ni ada energe pa fuga pa dom.
+sa grasistan, pan buze fatu feti. lole karbi ni tena energe pa fuga pa dom.
 i gar lole ni kina ze hay, lole hay si feti.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>

@@ -312,7 +312,7 @@ Adjectives are questioned with **ki**.
 
 **ki day?** - How big?  
 **ki lil?** - How small?  
-**ki day da maw te ada?** - How big cat do you have?
+**ki day da maw te tena?** - How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -786,18 +786,18 @@ if needed. The general time words are **pas** (past), **zay**
 (present) and **wil** (future, upcoming). They function like
 adjectives and adverbs, so typically their place is before the verb.
 
-**me pas ada maw.** - I had cats.
-**a me ni zay ada maw.** - But I now don't have cats.
-**munkin me wil ada maw.** - Maybe I will have cats.
+**me pas tena maw.** - I had cats.
+**a me ni zay tena maw.** - But I now don't have cats.
+**munkin me wil tena maw.** - Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the
 past) etc.
 
-**me ada maw sa pase.** - I had cats in the past.  
-**a me ni ada maw sa zaye.** - But I don't have cats at present.  
-**munkin me ada maw sa wile.** - Maybe I will have cats in the future.
+**me tena maw sa pase.** - I had cats in the past.  
+**a me ni tena maw sa zaye.** - But I don't have cats at present.  
+**munkin me tena maw sa wile.** - Maybe I will have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **ada** stayed the same in
+Note! Verbs are not conjugated. So the verb **tena** stayed the same in
 all tenses in the examples above.
 
 Naturally time words are used only when they are necessary. Usually it

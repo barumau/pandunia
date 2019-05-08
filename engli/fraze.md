@@ -355,20 +355,20 @@ I'm called Thomas.
 Name, English: name.</small>
 
 
-### ada <small>have</small>
+### tena <small>have</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 I have a good house.
 
-**le ni ada pese.**
+**le ni tena pese.**
 He/she doesn't have money.
 
-**me wanta ada nowi fon.**
+**me wanta tena nowi fon.**
 I want to have a new phone.
 
-**eska te ada bace?**
+**eska te tena bace?**
 Do you have children?  
-**me ada dul bace.**
+**me tena dul bace.**
 I have two children.
 
 

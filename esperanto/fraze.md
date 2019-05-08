@@ -343,20 +343,20 @@ venas el hindia: नाम  "nām", persa: نام‏‎ "nām", thaja: นาม
 "naam", indonezia: nama, japana: 名前 "namae", ĝermana: Name, angla:
 name.</small>
 
-### ada <small>havi</small>
+### tena <small>havi</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 Mi havas bonan domon.
 
-**le ni ada pese.**
+**le ni tena pese.**
 Li/ŝi ne havas mono.
 
-**me wanta ada novi fon.**
+**me wanta tena novi fon.**
 Mi volas havi novan telefonon.
 
-**eska te ada bace?**
+**eska te tena bace?**
 Ĉu vi havas infanojn?  
-**me ada dul bace.**
+**me tena dul bace.**
 Mi havas da infanojn.
 
 

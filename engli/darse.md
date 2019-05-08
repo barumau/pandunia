@@ -483,13 +483,13 @@ may result depending on the location of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**le ni ada maw.**
+**le ni tena maw.**
 = She doesn't have a cat.  
-**le ada ni maw, a waf.**
+**le tena ni maw, a waf.**
 = She has no cats but dogs.  
-**ni le, a me ada maw.**
+**ni le, a me tena maw.**
 = Not she but I have cats.  
-**me ada ni un, a dul maw.**
+**me tena ni un, a dul maw.**
 = I have not one but two cats.
 
 
@@ -510,7 +510,7 @@ is more than one correct answer.
 
 **kupe** cup, glass, mug.
 **hali** empty.
-**ada** to have.
+**tena** to have.
 **maw** cat.
 **waf** dog.
 **dul** two.
@@ -523,9 +523,9 @@ is more than one correct answer.
 1. le ni safa kamar.
 2. un kupe ni hali.
 3. dul waf ni nyama supe.
-4. le ni ada waf i maw. / le ada ni waf i ni maw.
+4. le ni tena waf i maw. / le tena ni waf i ni maw.
 5. xefe nyama cay a ni kafe.
-6. mame ada ni waf a dul maw.
+6. mame tena ni waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -677,11 +677,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me pas ada un maw.**
+**me pas tena un maw.**
 = I had a cat in the past.  
 **le bon maw.**
 = It was a good cat.  
-**me ada un waf zay.**
+**me tena un waf zay.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -716,7 +716,7 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. mi xefe festa sa wile.
-2. me ada dul waf sa pase.
+2. me tena dul waf sa pase.
 3. te nyama supe zay.
 4. le safa kamar sa predi den.
 5. maw nyama kafe sa badi den.

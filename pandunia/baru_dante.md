@@ -43,12 +43,12 @@ bada, lil urse senta ni jana da sente sa boke. li dante tung!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
-le geta tele fon. le loga: "halow! eska te si dante dotor? plisa laya pa me! me ada tung dante!"
+le geta tele fon. le loga: "halow! eska te si dante dotor? plisa laya pa me! me tena tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_10.png)
 
 dotor laya pa urse famil da dom. le loga: "eska te nida helpe?"
-lil urse loga: "si! me ada tung dante!"
+lil urse loga: "si! me tena tung dante!"
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_11.png)
 

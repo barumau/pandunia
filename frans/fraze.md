@@ -380,20 +380,20 @@ Je ne vais pas bien.
 
 
 
-### ada <small>verbe avoir</small>
+### tena <small>verbe avoir</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 J’ai une bonne maison.
 
-**le ni ada pese.**
+**le ni tena pese.**
 Il/elle n’a pas d’argent.
 
-**me wanta ada nowi fon.**
+**me wanta tena nowi fon.**
 Je veux un nouveau téléphone.
 
-**eska te ada bace?**
+**eska te tena bace?**
 As-tu des enfants ?  
-**me ada dul bace.**
+**me tena dul bace.**
 J’ai deux enfants.
 
 
@@ -405,12 +405,12 @@ Est-ce que ça va ?
 **si. me bon.**
 Oui, je vais bien.
 
-**eska ada dotor?**
+**eska tena dotor?**
 Est-ce qu’il y a un médecin ?  
 **si. le dotor.**
 Oui. Il/elle est médecin.
 
-**eska ada wain?**
+**eska tena wain?**
 Est-ce que tu as du vin?  
 **si. bay i ros.**
 Oui, du blanc et du rouge.

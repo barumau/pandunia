@@ -352,20 +352,20 @@ Yo me llamo Tomás.
 Name, inglés: name.</small>
 
 
-### ada <small>tener</small>
+### tena <small>tener</small>
 
-**me ada bon dom.**
+**me tena bon dom.**
 Tengo una buena casa.
 
-**le ni ada pese.**
+**le ni tena pese.**
 Él/ella no tiene dinero.
 
-**me wanta ada nowi fon.**
+**me wanta tena nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
-**eska te ada bace?**
+**eska te tena bace?**
 ¿Tienes niños?  
-**me ada dul bace.**
+**me tena dul bace.**
 Tengo dos niños.
 
 
