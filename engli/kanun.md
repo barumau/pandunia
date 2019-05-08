@@ -829,8 +829,8 @@ the preposition is complemented by a pronoun or a noun phrase.
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ya te enda.** - I have waited since you left.  
-**me denga pa te lay dom.** - I wait until you come home.  
+**me denga ya te gowa.** - I have waited since you left.  
+**me denga pa te laya dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
 #### 10.1.2. sa

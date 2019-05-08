@@ -582,7 +582,7 @@ Puedo hablar un poco de pandunia.
 **me ni abla engli.**
 No puedo hablar inglés.
 
-**pardon. me ni abla te ya bax.**
+**pardon. me ni abla te da bax.**
 Lo siento. No puedo hablar tu idioma.
 
 
@@ -618,7 +618,7 @@ Por favor, hablar más fuerte.
 **me auda musike.**
 Escucho música.
 
-**te auda ki yang ya musike?**
+**te auda ki yang da musike?**
 ¿Qué clase de música escuchas?
 
 
