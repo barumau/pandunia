@@ -11,13 +11,9 @@ eng:able. spa:hábil. fra:habile. ron:abil.			abla	:	can (know, be able)	povi	vo
 			abli	:	possible (possibly, maybe, perhaphs)	ebla (eble)	mahdollinen (mahdollisesti, ehkä)	prawdopodobnie, możliwie			possible (peut-être)					
 ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.			acente	:	accent (stress)	akcento	painotus (aksentti)	akcent, nacisk	acento	acento	accent	重音符号	ударение	स्वर का चढ़ाव उतार	aksen	
 	made	Ac	acinium	:	actinium	aktinio	aktinium	aktyn			actinium					
-eng:have. deu:haben. fra:avoir. ita:avere. sve:hava. dan:nor:have.			ada	:	have (own, possess)	havi	omistaa	mieć			avoir	有	иметь			
 			adali	:	just (fair)	justa	oikeudenmukainen	sprawiedliwy	justo	justo	juste	公正地	справедливый	उचित	adil	adil
 ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:urd:('adālat).			adalia	:	justice	justeco	oikeus	sprawiedliwość	justicia	justiça	justice	正义	справедливость	न्याय	keadilan	adalet
-			ade	:	property (belongings, possessions)		omaisuus	własność (mienie)			propriété (possession, bien)					
-			ader	:	owner (proprietor)	havanto	omistaja	właściciel (posiadacz)			possédant (propriétaire)					
 			adres	:	address	adreso	osoite	adres		endereço	adresse	地址	адрес	पता	cerah (alamat)	adres
-			adu	:	belong	aparteni	kuulua (olla oma)	należeć			appartenir à	属于	принадлежать			
 			adulte	:	adult	plenaĝa	aikuinen	osoba dorosła			adulte	成年人	взрослый			
 	dex	AF	afgania	:	Afghanistan	Afganujo, Afganio	Afganistan	Afganistan			Afghanistan					
 			afri	:	African	afrika	afrikkalainen	afrykański, Afrykanin			africain					
@@ -679,6 +675,7 @@ ara:(ḥafiẓa). per:urd:(hāfiz).			hafiza	:	preserve (conserve, retain)		säi
 	made	Hf	hafnium	:	hafnium	hafnio	hafnium	hafn								
 			haha	:	laugh	ridi	nauraa	śmiać się								
 			haida	:	let's	ni faru...	tehkäämme	niech my, hajda								
+ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan). 			haime	:	tent	tendo	teltta	namiot			tente	帐篷	палатка (шатёр)			
 	dex	HT	haitia	:	Haiti	Haitio	Haiti	Haiti								
 ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.			hake	:	right (justification, privilege)	rajto	oikeus (oikeutus)	prawo, przywilej								
 ara:"qāḍin". hau:alƙali. per:"qāzi". eng:qadi. swa:kadhi.			hakim	:	judgment (sentence)	juĝo	tuomio	wyrok								
@@ -991,6 +988,8 @@ eng:kiwi.			kiwe	:	kiwi fruit	kivo	kiivi	owoc kiwi
 deu:klar. spa:por:claro. eng:clear. fra:clair.			klar	:	clear (not obscured)		selvä (selkeä)	przeźroczysty, jasny								
 			klas	:	class (category)		luokka (kategoria)	klasa, kategoria								
 			klasa	:	classify (categorize)		luokitella (kategorisoida)	klasyfikować, kategoryzować								
+ell:κλίμα (eklíma). spa:por:clima. ara:(ʾiqlīm). ind:tur:iklim. eng:climate. rus:климат (klimat).			klime	:	climate	klimato	ilmasto						климат			
+			klimolojia	:	climatology	klimatscienco	ilmastotiede (klimatologia)									
 			klon	:	clone (replica)	klono	klooni (identtinen kopio)	klon, replika								
 			klona	:	clone (replicate)	kloni	kloonata (monistaa)	klonować, repilikować								
 	made	Cl	klor	:	chlorine	kloro	kloori	chlor								
@@ -1216,6 +1215,9 @@ zho:难看 (nánkàn). hin:बदसूरत (badsūrat).			mal rupi	:	ugly	mal
 	dex	FK	malbinas nesia	:	Falkland Islands (Malvinas)		Falklandin saaret	Falklandy, Malwiny								
 	dex	ML	malia	:	Mali	Malio	Mali	Mali								
 kan:(mallige). tam:(mallikai). tel:(malla). ind:melati.  kor:말리 "malli". tha:มะลิ "mali". zho:茉莉 "mòlì".			malike	:	jasmine	jasmeno	jasmiini	jaśmin								
+			malka	:	own		omistaa									
+ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. per:melk. + pas:urd:(mālik). pan:ਮਾਲਕ (mālik).			malke	:	property (belongings, possessions)		omaisuus	własność (mienie)			propriété (possession, bien)					
+			malker	:	owner (proprietor)	havanto	omistaja	właściciel (posiadacz)			possédant (propriétaire)					
 	dex	MT	malte	:	Malta		Malta	Malta								
 			mamal	:	mammal		nisäkäs	ssak								
 spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).			mame	:	mother (mom)	patrino	äiti (emä)	matka, mama				妈妈				
@@ -2074,10 +2076,10 @@ eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (t
 ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.			tarje	:	translation (interpretation)	traduko	käännös (tulkinta)	tłumaczenie, interpretacja			traduction	翻译	перевод			
 			tarjer	:	interpreter (translator)	tradukisto	tulkki (kääntäjä)	tłumacz								
 			tas	:	dish	plado	astia (kulho)	danie					блюдо (таз)			
+sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).			tataw	:	tattoo	tatuo	tatuointi	tatuaż					татуировка (тату)			
 por:tática. ita:tattica. eng:tactic. rus:тактика (taktika). deu:Taktik.			tatike	:	tactics (strategy)		taktiikka	taktyka, strategia								
-			tatu	:	tattoo	tatuo	tatuointi	tatuaż								
-hin:तवा "tavā". tur:tava. per:"tābe".			tawe	:	frying pan	pato	pannu (paistinpannu)	patelnia								
-tur:taze.			tazi	:	fresh	freŝa	tuore (raikas)	świeży			frais	新鲜的	свежий			
+hin:तवा (tavā). tur:tava. per:(tābe).			tawe	:	frying pan	pato	pannu (paistinpannu)	patelnia								
+tur:taze. hin:ताज़ा (tāzā). ben:তাজা (taja). kaz:таза (taza). per:(tâze).			tazi	:	fresh	freŝa	tuore (raikas)	świeży			frais	新鲜的	свежий			
 hun:te. rus:ты (ty). fra:ita:spa:te.			te	:	you	vi (ci)	sinä	ty, ciebie				你				
 			tekne	:	technique (technology)	tekniko	tekniikka (keino, menetelmä)	technika, technologia			technique	技术				
 	made	Tc	teknetium	:	technetium	teknecio		technet								
@@ -2089,17 +2091,17 @@ hun:te. rus:ты (ty). fra:ita:spa:te.			te	:	you	vi (ci)	sinä	ty, ciebie				�
 			telowide	:	television	televidilo	televisio	telewizja			téléviseur	电视机	телевизор			
 	nas		telugi	:	Telugu		telugu (eräs intialainen kieli)	telugu								
 	made	Te	telurium	:	tellurium	teluro		tellur								
-fra: thème. spa: tema. rus: тема /tema/.			tem	:	topic (subject, theme)	temo	aihe (teema)	temat, motyw			sujet (thème)	主题目	тема			
+fra: thème. spa: tema. rus: тема (tema). deu:Thema.			tem	:	topic (subject, theme)	temo	aihe (teema)	temat, motyw			sujet (thème)	主题目	тема			
 			tema	:	be about (discuss as a subject)	esti pri; pridiskuti	aiheesta (-sta)	być o; dyskutować o								
-			ten	:	content		sisältö	treść (zawartość)								
-			tena	:	hold (keep, contain)	teni	pitää (säilyttää)	trzymać								
-ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.			tende	:	tent	tendo	teltta	namiot			tente	帐篷	палатка (шатёр)			
-			tener	:	holder (container)		säiliö	uchwyt (pojemnik)								
+			ten	:	content (possession)		sisältö	treść (zawartość)								
+spa:tener. fra:tenir. eng:contain.			tena	:	have (keep, possess)	havi (teni)	pitää (pitää hallussa)	mieć (trzymać)			avoir	有	иметь			
+			tener	:	keeper (possessor)		pitäjä (hallussapitäjä)	uchwyt (pojemnik)								
 	made	Ts	tenesin	:	tennessine	teneso		tenesyn, tennessine								
 			tenis	:	tennis	teniso	tennis	tenis								
 zho:天气 (tiănqì). jpn:天気 (tenki). 			tenke	:	weather	vetero	sää	pogoda								
 			tenoliste	:	table of contents		sisällysluettelo	spis treści (tabela zawartości)								
 			tenta	:	tempt (entice)		houkutella	kusić, nakłonić, nakłaniać								
+			tenu	:	belong	aparteni	kuulua (olla jkn hallussa)	należeć			appartenir à	属于	принадлежать			
 			teoria	:	theory	teorio	teoria	teoria								
 eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	taśma			ruban (bande)		лента			
 	made	Tb	terbium	:	terbium	terbio		terb								
@@ -2393,5 +2395,6 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zulu'	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). per:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+																
 																
 				:	strong	forta	voimakas (vahva)	silny								

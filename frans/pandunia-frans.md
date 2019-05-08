@@ -11,13 +11,9 @@ able : capacité (compétence)
 abli : possible (peut-être)  
 acente : accent  
 acinium : actinium  
-ada : avoir  
 adali : juste  
 adalia : justice  
-ade : propriété (possession, bien)  
-ader : possédant (propriétaire)  
 adres : adresse  
-adu : appartenir à  
 adulte : adulte  
 afgania : Afghanistan  
 afri : africain  
@@ -96,6 +92,7 @@ europi : européen
 ##f  
 ##g  
 ##h  
+haime : tente  
 ##i  
 ##j  
 ##k  
@@ -109,6 +106,8 @@ kosmi : cosmique
 kosmia : cosmos  
 ##l  
 ##m  
+malke : propriété (possession, bien)  
+malker : possédant (propriétaire)  
 maye : fourmi  
 ##n  
 ##o  
@@ -127,7 +126,8 @@ teknolojia : technologie
 telofon : téléphone  
 telowide : téléviseur  
 tem : sujet (thème)  
-tende : tente  
+tena : avoir  
+tenu : appartenir à  
 tepe : ruban (bande)  
 teroristia : terrorisme  
 tese : argument  

@@ -12,13 +12,9 @@ able : ability (skill)
 abli : possible (possibly, maybe, perhaphs)  
 acente : accent (stress)  
 acinium : actinium  
-ada : have (own, possess)  
 adali : just (fair)  
 adalia : justice  
-ade : property (belongings, possessions)  
-ader : owner (proprietor)  
 adres : address  
-adu : belong  
 adulte : adult  
 afgania : Afghanistan  
 afri : African  
@@ -687,6 +683,7 @@ hafizer : keeper (preserver)
 hafnium : hafnium  
 haha : laugh  
 haida : let's  
+haime : tent  
 haitia : Haiti  
 hake : right (justification, privilege)  
 hakim : judgment (sentence)  
@@ -1002,6 +999,8 @@ kiwe : kiwi fruit
 klar : clear (not obscured)  
 klas : class (category)  
 klasa : classify (categorize)  
+klime : climate  
+klimolojia : climatology  
 klon : clone (replica)  
 klona : clone (replicate)  
 klor : chlorine  
@@ -1229,6 +1228,9 @@ malayali : Malayali (Malayalam)
 malbinas nesia : Falkland Islands (Malvinas)  
 malia : Mali  
 malike : jasmine  
+malka : own  
+malke : property (belongings, possessions)  
+malker : owner (proprietor)  
 malte : Malta  
 mamal : mammal  
 mame : mother (mom)  
@@ -2093,8 +2095,8 @@ tarja : translate (interpret)
 tarje : translation (interpretation)  
 tarjer : interpreter (translator)  
 tas : dish  
+tataw : tattoo  
 tatike : tactics (strategy)  
-tatu : tattoo  
 tawe : frying pan  
 tazi : fresh  
 te : you  
@@ -2110,15 +2112,15 @@ telugi : Telugu
 telurium : tellurium  
 tem : topic (subject, theme)  
 tema : be about (discuss as a subject)  
-ten : content  
-tena : hold (keep, contain)  
-tende : tent  
-tener : holder (container)  
+ten : content (possession)  
+tena : have (keep, possess)  
+tener : keeper (possessor)  
 tenesin : tennessine  
 tenis : tennis  
 tenke : weather  
 tenoliste : table of contents  
 tenta : tempt (entice)  
+tenu : belong  
 teoria : theory  
 tepe : tape  
 terbium : terbium  

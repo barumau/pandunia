@@ -12,13 +12,9 @@ able : taito (kyky)
 abli : mahdollinen (mahdollisesti, ehkä)  
 acente : painotus (aksentti)  
 acinium : aktinium  
-ada : omistaa  
 adali : oikeudenmukainen  
 adalia : oikeus  
-ade : omaisuus  
-ader : omistaja  
 adres : osoite  
-adu : kuulua (olla oma)  
 adulte : aikuinen  
 afgania : Afganistan  
 afri : afrikkalainen  
@@ -682,6 +678,7 @@ hafizer : säilyttäjä
 hafnium : hafnium  
 haha : nauraa  
 haida : tehkäämme  
+haime : teltta  
 haitia : Haiti  
 hake : oikeus (oikeutus)  
 hakim : tuomio  
@@ -997,6 +994,8 @@ kiwe : kiivi
 klar : selvä (selkeä)  
 klas : luokka (kategoria)  
 klasa : luokitella (kategorisoida)  
+klime : ilmasto  
+klimolojia : ilmastotiede (klimatologia)  
 klon : klooni (identtinen kopio)  
 klona : kloonata (monistaa)  
 klor : kloori  
@@ -1224,6 +1223,9 @@ malayali : malajalam (eräs intialainen kieli)
 malbinas nesia : Falklandin saaret  
 malia : Mali  
 malike : jasmiini  
+malka : omistaa  
+malke : omaisuus  
+malker : omistaja  
 malte : Malta  
 mamal : nisäkäs  
 mame : äiti (emä)  
@@ -2054,8 +2056,8 @@ tarja : tulkata (kääntää)
 tarje : käännös (tulkinta)  
 tarjer : tulkki (kääntäjä)  
 tas : astia (kulho)  
+tataw : tatuointi  
 tatike : taktiikka  
-tatu : tatuointi  
 tawe : pannu (paistinpannu)  
 tazi : tuore (raikas)  
 te : sinä  
@@ -2070,13 +2072,13 @@ telugi : telugu (eräs intialainen kieli)
 tem : aihe (teema)  
 tema : aiheesta (-sta)  
 ten : sisältö  
-tena : pitää (säilyttää)  
-tende : teltta  
-tener : säiliö  
+tena : pitää (pitää hallussa)  
+tener : pitäjä (hallussapitäjä)  
 tenis : tennis  
 tenke : sää  
 tenoliste : sisällysluettelo  
 tenta : houkutella  
+tenu : kuulua (olla jkn hallussa)  
 teoria : teoria  
 tepe : teippi (nauha)  
 terme : lämpötila  

@@ -39,7 +39,6 @@ a ← rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.
 abace ← gre:"alphabētos". spa:abecedario. per:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.  
 abla ← eng:able. spa:hábil. fra:habile. ron:abil.  
 acente ← ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.  
-ada ← eng:have. deu:haben. fra:avoir. ita:avere. sve:hava. dan:nor:have.  
 adalia ← ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). per:urd:('adālat).  
 afria ← ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.  
 agres ← eng:agression. pol:agresja  
@@ -301,6 +300,7 @@ guy ← zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).
 ##h  
 habar ← ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.  
 hafiza ← ara:(ḥafiẓa). per:urd:(hāfiz).  
+haime ← ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).   
 hake ← ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.  
 hakim ← ara:"qāḍin". hau:alƙali. per:"qāzi". eng:qadi. swa:kadhi.  
 hali ← ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). per:(xāli). jpn:空 (kara).  
@@ -411,6 +411,7 @@ kire ← ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāy
 kitabe ← ara:urd:(kitāb). per:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).  
 kiwe ← eng:kiwi.  
 klar ← deu:klar. spa:por:claro. eng:clear. fra:clair.  
+klime ← ell:κλίμα (eklíma). spa:por:clima. ara:(ʾiqlīm). ind:tur:iklim. eng:climate. rus:климат (klimat).  
 koka' ← spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).  
 koke ← fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.  
 kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna). pol:kolumna.  
@@ -482,6 +483,7 @@ makas ← ara:(maqaṣ). tur:makas. swa:mkasi. orm:maqasii. hau:almakashi. yor:�
 mal rupi ← zho:难看 (nánkàn). hin:बदसूरत (badsūrat).  
 mal ← ind:buruk. hin:बुरा "burā". yor:búburu.  
 malike ← kan:(mallige). tam:(mallikai). tel:(malla). ind:melati.  kor:말리 "malli". tha:มะลิ "mali". zho:茉莉 "mòlì".  
+malke ← ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. per:melk. + pas:urd:(mālik). pan:ਮਾਲਕ (mālik).  
 mame ← spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).  
 mange ← ind:mangga. por:manga. eng:mango.  
 manir ← fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). spa:manera. por:maneira. deu:Manieren. scr:manir.  
@@ -725,12 +727,13 @@ tan ← hin:mar:तन (tan). per:urd:(tan). taj:тан (tan). tha:ตน (ton).
 tanke ← eng:tank. hin:टंकी (ṭaṅkī). swa:tangi. spa:tanque. jpn:タンク (tanku). tgl:tangke.  
 tarif ← eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).  
 tarje ← ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.  
+tataw ← sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).  
 tatike ← por:tática. ita:tattica. eng:tactic. rus:тактика (taktika). deu:Taktik.  
-tawe ← hin:तवा "tavā". tur:tava. per:"tābe".  
-tazi ← tur:taze.  
+tawe ← hin:तवा (tavā). tur:tava. per:(tābe).  
+tazi ← tur:taze. hin:ताज़ा (tāzā). ben:তাজা (taja). kaz:таза (taza). per:(tâze).  
 te ← hun:te. rus:ты (ty). fra:ita:spa:te.  
-tem ← fra: thème. spa: tema. rus: тема /tema/.  
-tende ← ara:"xayma". hau:laima. hin:ख़ैमा "xEmā". swa:hema. ind:kemah.  
+tem ← fra: thème. spa: tema. rus: тема (tema). deu:Thema.  
+tena ← spa:tener. fra:tenir. eng:contain.  
 tenke ← zho:天气 (tiănqì). jpn:天気 (tenki).   
 tepe ← eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.  
 tese ← eng:thesis. fra:thèse. spa:tesis.  

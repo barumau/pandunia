@@ -31,7 +31,7 @@ analyser : analisa
 animation : anime  
 antenne : anten  
 anus : anus  
-appartenir à : adu  
+appartenir à : tenu  
 appliquer : aplika  
 araignée : arane  
 arbre : arbe  
@@ -46,7 +46,7 @@ asthme : asme
 attaque : atake  
 autel : altar  
 autre : ali  
-avoir : ada  
+avoir : tena  
 axe : akse  
 ##b  
 bagage : bagaje  
@@ -111,9 +111,9 @@ piraterie : piratia
 placard : almar  
 pomme : aple  
 possible (peut-être) : abli  
-possédant (propriétaire) : ader  
+possédant (propriétaire) : malker  
 pouvoir (être capable) : abla  
-propriété (possession, bien) : ade  
+propriété (possession, bien) : malke  
 ##r  
 ruban (bande) : tepe  
 ##s  
@@ -127,7 +127,7 @@ sujet (thème) : tem
 ##t  
 technique : tekne  
 technologie : teknolojia  
-tente : tende  
+tente : haime  
 terrorisme : teroristia  
 tigre : bagre  
 tirer : tira milke  

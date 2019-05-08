@@ -2,11 +2,9 @@
 abace : 字母表  
 abla : 会  
 acente : 重音符号  
-ada : 有  
 adali : 公正地  
 adalia : 正义  
 adres : 地址  
-adu : 属于  
 adulte : 成年人  
 ajil : 灵活的  
 akse : 轴线  
@@ -73,6 +71,7 @@ fem : 女
 ##g  
 ##h  
 habar : 消息  
+haime : 帐篷  
 helpa : 帮助  
 ##i  
 ##j  
@@ -132,7 +131,8 @@ teknolojia : 工艺学
 telofon : 电话机  
 telowide : 电视机  
 tem : 主题目  
-tende : 帐篷  
+tena : 有  
+tenu : 属于  
 teroristia : 恐怖行为  
 tese : 论据  
 teste : 化验  

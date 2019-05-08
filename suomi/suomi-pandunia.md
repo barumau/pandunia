@@ -469,6 +469,8 @@ ilman : na
 ilmanpaine : hawobar  
 ilmapallo : balon  
 ilmapuntari (ilmanpainemittari, barometri) : hawobarometer  
+ilmasto : klime  
+ilmastotiede (klimatologia) : klimolojia  
 ilmiasu (ulkonäkö) : rupe  
 ilta : xam  
 iltapäivä : xamoden  
@@ -858,8 +860,8 @@ kuu : lun
 Kuuba : kuba  
 kuukausi : mes  
 kuulla (kuunnella) : auda  
+kuulua (olla jkn hallussa) : tenu  
 kuulua (olla jäsenenä) : memba  
-kuulua (olla oma) : adu  
 kuume : feber  
 kuura : himorose  
 kuusi (6) : sis  
@@ -1348,11 +1350,11 @@ olla olemassa : zayu
 olla samaa mieltä : amena  
 olla väliä (olla tärkeä) : importu  
 olut (kalja) : bir  
-omaisuus : ade  
+omaisuus : malke  
 Oman : oman  
 omena : aple  
-omistaa : ada  
-omistaja : ader  
+omistaa : malka  
+omistaja : malker  
 omistetun omistajaan liittävä partikkeli : da  
 ommella : suta  
 ongelma : problem  
@@ -1518,7 +1520,8 @@ pitsa (pizza) : pize
 pitseria : pizeria  
 pituus : longe  
 pitäisi : xudu  
-pitää (säilyttää) : tena  
+pitäjä (hallussapitäjä) : tener  
+pitää (pitää hallussa) : tena  
 pitää (tykätä) : suku  
 pitää jonakin : konsida  
 planeetta : planete  
@@ -1903,7 +1906,6 @@ sädekehä (halo) : nurocirke
 sähkö : eletre  
 sähköinen : eletri  
 sähköposti : eletroposte (e-poste)  
-säiliö : tener  
 säilyttäjä : hafizer  
 säilyttää (varjella) : hafiza  
 säteillä : rada  
@@ -1968,7 +1970,7 @@ tarpeellinen : nidi
 tarvita : nida  
 tasapuolinen (reilu) : egal  
 tasku : jebe  
-tatuointi : tatu  
+tatuointi : tataw  
 tauko (paussi) : paus  
 taulukko : table  
 taulukoida : tabla  
@@ -1995,7 +1997,7 @@ teknokratia : teknokratia
 teko : fate  
 teko : fe  
 televisio : telowide  
-teltta : tende  
+teltta : haime  
 telugu (eräs intialainen kieli) : telugi  
 tennis : tenis  
 teokratia : dewokratia  

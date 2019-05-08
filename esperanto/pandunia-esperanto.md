@@ -12,12 +12,9 @@ able : povo
 abli : ebla (eble)  
 acente : akcento  
 acinium : aktinio  
-ada : havi  
 adali : justa  
 adalia : justeco  
-ader : havanto  
 adres : adreso  
-adu : aparteni  
 adulte : plenaĝa  
 afgania : Afganujo, Afganio  
 afri : afrika  
@@ -536,6 +533,7 @@ habarobaw : gazeto
 hafnium : hafnio  
 haha : ridi  
 haida : ni faru...  
+haime : tendo  
 haitia : Haitio  
 hake : rajto  
 hakim : juĝo  
@@ -734,6 +732,8 @@ kitabe : skribo
 kitabia : librejo  
 kitabomaxin : tajpilo  
 kiwe : kivo  
+klime : klimato  
+klimolojia : klimatscienco  
 klon : klono  
 klona : kloni  
 klor : kloro  
@@ -828,6 +828,7 @@ mal rupi : malbonaspekta
 mal : malbona  
 malia : Malio  
 malike : jasmeno  
+malker : havanto  
 mame : patrino  
 man : viro  
 mangan : mangano  
@@ -1223,7 +1224,7 @@ tarja : traduki
 tarje : traduko  
 tarjer : tradukisto  
 tas : plado  
-tatu : tatuo  
+tataw : tatuo  
 tawe : pato  
 tazi : freŝa  
 te : vi (ci)  
@@ -1237,11 +1238,11 @@ telowide : televidilo
 telurium : teluro  
 tem : temo  
 tema : esti pri; pridiskuti  
-tena : teni  
-tende : tendo  
+tena : havi (teni)  
 tenesin : teneso  
 tenis : teniso  
 tenke : vetero  
+tenu : aparteni  
 teoria : teorio  
 tepe : bendo  
 terbium : terbio  

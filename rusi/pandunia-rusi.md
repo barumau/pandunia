@@ -1,11 +1,9 @@
 ##a  
 abace : алфавит  
 acente : ударение  
-ada : иметь  
 adali : справедливый  
 adalia : справедливость  
 adres : адрес  
-adu : принадлежать  
 adulte : взрослый  
 ajil : подвижный  
 akse : ось  
@@ -61,6 +59,7 @@ destin : судьба
 ##g  
 ##h  
 habar : новости  
+haime : палатка (шатёр)  
 hali : пустой  
 hazin : сокровище (казна)  
 ##i  
@@ -72,6 +71,7 @@ kitaba : писать
 kitabe : письмо  
 kitabia : библиотека  
 kitabomaxin : пишущая машинка  
+klime : климат  
 komputer : компьютер  
 kor : хор  
 koron : корона  
@@ -89,12 +89,14 @@ pike : вершина
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  
+tataw : татуировка (тату)  
 tazi : свежий  
 teknolojia : технология  
 telofon : телефон  
 telowide : телевизор  
 tem : тема  
-tende : палатка (шатёр)  
+tena : иметь  
+tenu : принадлежать  
 tepe : лента  
 teroristia : терроризм  
 tese : довод  

@@ -984,7 +984,7 @@ miejscowy, lokalny : loki
 miesiąc : mes  
 mieszkać : doma  
 mieć (partykuła posiadania) : du  
-mieć : ada  
+mieć (trzymać) : tena  
 migdał : badam  
 mikro- : mikro-  
 Mikronezja : mikronesia  
@@ -1083,10 +1083,10 @@ nagi, goły, obnażony : nudi
 nahuatl : nawati  
 najmniej, minimalnie : minim  
 należeć (być członkiem) : memba  
-należeć : adu  
+należeć : tenu  
 namalować, malować : penta  
 Namibia : namibia  
-namiot : tende  
+namiot : haime  
 nano- : nano  
 nanometr : nanometre  
 napisać, pisać : kitaba  
@@ -1916,7 +1916,7 @@ Tanzania : tanzania
 taoista : dawiste  
 taoizm : dawistia  
 tapeta : mur papir  
-tatuaż : tatu  
+tatuaż : tataw  
 taxi, taksówka : taksi  
 taśma : tepe  
 taśma; bandaż : bende  
@@ -1971,7 +1971,6 @@ trwanie : dur
 trwać, zająć czas; przez : dura  
 Trynidad i Tobago : trinida i tobago  
 trzy (3) : tin  
-trzymać : tena  
 trzęsienie Ziemi : sisme  
 trójkąt : samokon  
 tu (tutaj, tam) : sa ce  
@@ -2213,8 +2212,8 @@ Węgry : madyar
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
-własność (mienie) : ade  
-właściciel (posiadacz) : ader  
+własność (mienie) : malke  
+właściciel (posiadacz) : malker  
 właściwy, poprawny : sahi  
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  

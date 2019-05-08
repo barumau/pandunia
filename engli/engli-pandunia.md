@@ -206,7 +206,7 @@ believe : xina
 Belize : belizia  
 belly (abdomen) : fubu'  
 belong (be a member) : memba  
-belong : adu  
+belong : tenu  
 belt (zone) : zon  
 bench : bence  
 Benin : benin  
@@ -412,6 +412,8 @@ clean (pure) : safi
 clean (purify) : safa  
 cleaner : safer  
 clear (not obscured) : klar  
+climate : klime  
+climatology : klimolojia  
 clone (replica) : klon  
 clone (replicate) : klona  
 clothing : fuke  
@@ -473,7 +475,7 @@ consequence (follow-up) : bade
 consider (regard) : konsida  
 consonant : konson  
 consume (eat or drink) : nyama  
-content : ten  
+content (possession) : ten  
 continue (resume) : kontinu  
 conventional (customary, traditional) : rasmi  
 cook (chef) : kuker  
@@ -918,7 +920,7 @@ harness : maju'
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
-have (own, possess) : ada  
+have (keep, possess) : tena  
 have sex : seksa  
 hazard (chance) : zar  
 he or she or it : le  
@@ -955,8 +957,6 @@ history (study of history) : historia
 hmm : hem  
 hobby : hobe  
 hockey : hoke  
-hold (keep, contain) : tena  
-holder (container) : tener  
 hole : kong  
 holmium : holmium  
 holy (sacred) : santi  
@@ -1088,6 +1088,7 @@ karaoke : karaoke
 karate : karate  
 Kazakhstan : kazahia  
 kebab (skewer meat) : kababe  
+keeper (possessor) : tener  
 keeper (preserver) : hafizer  
 Kenya : kenia  
 ketchup : kecape  
@@ -1509,7 +1510,8 @@ outer (external) : way
 outside (exterior) : waye  
 overpass : supre  
 own (particle of possession) : du  
-owner (proprietor) : ader  
+own : malka  
+owner (proprietor) : malker  
 oxygen : okse  
 ##p  
 pack (package) : pake  
@@ -1711,7 +1713,7 @@ project (planned endeavour) : proje
 promethium : prometium  
 promise (commit) : wada  
 proof (evidence, proof, demonstration, testimony) : dalil  
-property (belongings, possessions) : ade  
+property (belongings, possessions) : malke  
 prophecy : nabe  
 prophet : naber  
 proponent (supporter, activist, -ist) : iste  
@@ -2117,7 +2119,7 @@ tape : tepe
 taste (flavor) : guste  
 taste (sense flavor) : gusta  
 taste like : gustu ka  
-tattoo : tatu  
+tattoo : tataw  
 tax (fee, fare) : takse  
 taxi : taksi  
 tea : cay  
@@ -2141,7 +2143,7 @@ tempt (entice) : tenta
 ten (10) : des  
 tennessine : tenesin  
 tennis : tenis  
-tent : tende  
+tent : haime  
 terbium : terbium  
 terror : teror  
 terrorism : teroristia  

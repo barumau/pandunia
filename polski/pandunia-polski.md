@@ -12,13 +12,9 @@ able : możliwość, umiejętność
 abli : prawdopodobnie, możliwie  
 acente : akcent, nacisk  
 acinium : aktyn  
-ada : mieć  
 adali : sprawiedliwy  
 adalia : sprawiedliwość  
-ade : własność (mienie)  
-ader : właściciel (posiadacz)  
 adres : adres  
-adu : należeć  
 adulte : osoba dorosła  
 afgania : Afganistan  
 afri : afrykański, Afrykanin  
@@ -681,6 +677,7 @@ hafizer : przechowawca, kustosz, opiekun
 hafnium : hafn  
 haha : śmiać się  
 haida : niech my, hajda  
+haime : namiot  
 haitia : Haiti  
 hake : prawo, przywilej  
 hakim : wyrok  
@@ -1221,6 +1218,8 @@ malayali : malajski
 malbinas nesia : Falklandy, Malwiny  
 malia : Mali  
 malike : jaśmin  
+malke : własność (mienie)  
+malker : właściciel (posiadacz)  
 malte : Malta  
 mamal : ssak  
 mame : matka, mama  
@@ -2071,8 +2070,8 @@ tarja : przetłumaczyć, tłumaczyć, interpretować
 tarje : tłumaczenie, interpretacja  
 tarjer : tłumacz  
 tas : danie  
+tataw : tatuaż  
 tatike : taktyka, strategia  
-tatu : tatuaż  
 tawe : patelnia  
 tazi : świeży  
 te : ty, ciebie  
@@ -2089,14 +2088,14 @@ telurium : tellur
 tem : temat, motyw  
 tema : być o; dyskutować o  
 ten : treść (zawartość)  
-tena : trzymać  
-tende : namiot  
+tena : mieć (trzymać)  
 tener : uchwyt (pojemnik)  
 tenesin : tenesyn, tennessine  
 tenis : tenis  
 tenke : pogoda  
 tenoliste : spis treści (tabela zawartości)  
 tenta : kusić, nakłonić, nakłaniać  
+tenu : należeć  
 teoria : teoria  
 tepe : taśma  
 terbium : terb  

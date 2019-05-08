@@ -64,7 +64,7 @@ antaŭiri : preda
 anteno : anten  
 anusa : anusi  
 anuso : anus  
-aparteni : adu  
+aparteni : tenu  
 araba : arabi  
 araneo : arane  
 araneofobio : aranofobia  
@@ -443,8 +443,8 @@ hana : cini
 harmonia : harmoni  
 harmonio : harmonia  
 hasio : hasium  
-havanto : ader  
-havi : ada  
+havanto : malker  
+havi (teni) : tena  
 hazarda : zari  
 hazardo : zar  
 haŭto : pifu'  
@@ -591,6 +591,8 @@ kiu? : ki ren
 kivo : kiwe  
 klavaro : buton ban  
 klavo : buton  
+klimato : klime  
+klimatscienco : klimolojia  
 kloni : klona  
 klono : klon  
 kloro : klor  
@@ -1189,7 +1191,7 @@ tamburo : tambur
 tantalo : tantalum  
 Tanzanio : tanzania  
 taso : kupe  
-tatuo : tatu  
+tatuo : tataw  
 teknecio : teknetium  
 tekniko : tekne  
 teknologio : teknolojia  
@@ -1198,9 +1200,8 @@ telefono : telofon
 televidilo : telowide  
 teluro : telurium  
 temo : tem  
-tendo : tende  
+tendo : haime  
 teneso : tenesin  
-teni : tena  
 teniso : tenis  
 teo : cay  
 teokratio : dewokratia  
