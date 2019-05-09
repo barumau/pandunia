@@ -625,6 +625,7 @@ pulte ← hin:पुल (pul). ben:পুল (pul). urd:(pul). per:(pol). por:po
 punte ← spa:punto. rus:пункт "punkt". eng:point.  
 puran ← hin:पुराना "purānā". ben:পুৰণা "puron".  
 puru ← ara:"riša". mlt:rix.  
+pyaze ← kaz:kir:пияз (piaz). tgk:пиёз (pioz). per:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur: pîvaz.
 ##r  
 raite ← eng:right.  
 rajia ← hin:राज्य (rājya). ben:রাজ্য (rajyô).  
