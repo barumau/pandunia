@@ -1,3 +1,11 @@
+kitaba_pike() {
+   echo "#lekse da num sa baxokode" > pandunia/lekse_da_num.md
+   echo "" >> pandunia/lekse_da_num.md
+   echo "| bax | num |" >> pandunia/lekse_da_num.md
+   echo "|-----|-----|" >> pandunia/lekse_da_num.md
+   cat temp/stats.txt >> pandunia/lekse_da_num.md
+}
+
 fata_leksasli_liste() {
     cat pandunia-lekse.tsv | cut -f 1 > temp/lekse.txt
     #Delete empty lines
@@ -5,15 +13,24 @@ fata_leksasli_liste() {
 }
 
 konta_bax() {
-   echo "| $1 | " >> temp/stats.txt
+   echo "$1 " >> temp/stats.txt
    cat temp/lekse.txt | grep -c "$1:" >> temp/stats.txt
 }
 
+fata_table() {
+   #Add horizontal bar between nam i num
+   sed 's/ / \| /g' -i temp/stats.txt
+   #Add horizontal bar to line-begin
+   sed 's/^/\| /' -i temp/stats.txt
+   #Add horizontal bar to line-ends
+   sed 's/$/ \|/' -i temp/stats.txt
+}
+
 fata_leksasli_liste
-#echo "# asli bax du pandunia da lekse\n" > temp/stats.txt
-echo "| bax | num |" > temp/stats.txt
-echo "|-----|-----|" >> temp/stats.txt
-echo "|  *  | " >> temp/stats.txt
+
+rm temp/stats.txt
+
+echo "pan " >> temp/stats.txt
 cat temp/lekse.txt | grep -c ":" >> temp/stats.txt
 
 konta_bax eng
@@ -27,8 +44,8 @@ konta_bax pol
 konta_bax hin
 konta_bax urd
 konta_bax ben
-konta_bax pan
-konta_bax per
+konta_bax pnb
+konta_bax fas
 
 konta_bax tur
 
@@ -50,7 +67,13 @@ konta_bax ibo
 konta_bax swa
 konta_bax zul
 
+#kina nam i num pa sam linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
-sed 's/$/ |/' -i temp/stats.txt
-sed 's/| |/|/' temp/stats.txt > pandunia/lekse_da_num.md
+
+#orda ya day pa lil num, sa kolum 2
+sort -rn -k2 temp/stats.txt -o temp/stats.txt
+
+fata_table
+
+kitaba_pike
 
