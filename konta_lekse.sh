@@ -1,5 +1,5 @@
 kitaba_pike() {
-   echo "#lekse da num sa baxokode" > pandunia/lekse_da_num.md
+   echo "#lekse da num sa bax" > pandunia/lekse_da_num.md
    echo "" >> pandunia/lekse_da_num.md
    echo "| bax | num |" >> pandunia/lekse_da_num.md
    echo "|-----|-----|" >> pandunia/lekse_da_num.md
@@ -13,7 +13,7 @@ fata_leksasli_liste() {
 }
 
 konta_bax() {
-   echo "$1 " >> temp/stats.txt
+   echo "$2 " >> temp/stats.txt
    cat temp/lekse.txt | grep -c "$1:" >> temp/stats.txt
 }
 
@@ -33,39 +33,39 @@ rm temp/stats.txt
 echo "pan " >> temp/stats.txt
 cat temp/lekse.txt | grep -c ":" >> temp/stats.txt
 
-konta_bax eng
-konta_bax deu
-konta_bax fra
-konta_bax spa
-konta_bax por
-konta_bax rus
-konta_bax pol
+konta_bax eng engli
+konta_bax deu doici
+konta_bax fra fransi
+konta_bax spa espani
+konta_bax por portugali
+konta_bax rus rusi
+konta_bax pol polski
 
-konta_bax hin
-konta_bax urd
-konta_bax ben
-konta_bax pnb
-konta_bax fas
+konta_bax hin hindi
+konta_bax urd urdi
+konta_bax ben bangli
+konta_bax pnb panjabi
+konta_bax fas farsi
 
-konta_bax tur
+konta_bax tur turki
 
-konta_bax zho
-konta_bax jpn
-konta_bax kor
-konta_bax vie
+konta_bax zho cini
+konta_bax jpn niponi
+konta_bax kor hangugi
+konta_bax vie wieti
 
-konta_bax ind
-konta_bax tgl
+konta_bax ind indonesi
+konta_bax tgl filipini
 
-konta_bax ara
-konta_bax amh
-konta_bax orm
-konta_bax hau
+konta_bax ara arabi
+konta_bax amh amari
+konta_bax orm oromi
+konta_bax hau hausi
 
-konta_bax yor
-konta_bax ibo
-konta_bax swa
-konta_bax zul
+konta_bax yor yorubi
+konta_bax ibo "ibo'i"
+konta_bax swa swahili
+konta_bax zul "zulu'i"
 
 #kina nam i num pa sam linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
