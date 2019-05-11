@@ -244,7 +244,7 @@ used in other languages in the table below.
 | Vietnamese       | a b     e   g h i   k l m n o p r   t u     y   | f j w z | c d s x     |
 
 
-## Grammar and vocabulary
+## Grammar
 
 #### Why agglutinating structure was chosen for Pandunia?
 
@@ -276,6 +276,43 @@ word are separated with the vertical bar sign.
                I  want to see    your      two beautiful  eyes        now.
 
 
+## Vocabulary
+
+
+#### Where Pandunia's words come from?
+
+Pandunia's words come from all parts of the world.
+
+In our opinion the world language should be a mix of all languages
+in the world. That's why Pandunia has at least a few words in common
+with almost all languages of the world.
+
+A lot of words are in common to international and important regional
+languages.
+
+![](http://www.pandunia.info/grafe/leksasle.png "Source languages")
+
+
+#### Why Pandunia borrows words mainly from widely spoken languages?
+
+About 6500 languages are spoken in the world today. It would be
+possible to borrow one and _only one_ word from every language.
+But it wouldn't be very useful, if you knew only one or two words in
+the world language beforehand, would it?
+
+It's smarter to borrow words that are in common to many languages.
+Then most people will know many words in Pandunia.
+
+There are common words in every region of the world. For example,
+in Europe there are European international words, which often come
+from important ancient languages like Latin and Greek.
+In the Indian peninsula there are ancient words from Sanskrit that
+are in common to every language of that region.
+
+That's why it is enough that we select some languages from every
+part of the world. They represent also the other languages of that
+region.
+
 #### Shouldn't "salam" mean "peace"?
 
 In many languages, expressions of greeting have something to do with
@@ -291,24 +328,4 @@ means well-being in general and you can use it as a general
 expression for well-wishing in all kinds of situations, not just when
 you meet somebody. See the first lesson in the [phrasebook](fraze.md)
 for a lot of examples!
-
-
-#### Why Pandunia borrows words only from widely spoken languages?
-
-Pandunia has words in common with almost all languages of the world.
-
-About 6500 languages are spoken in the world today. If one word was
-taken from each language, there would be 6500 words in the dictionary.
-It sounds like enough, doesn't it?
-
-However, it's not so simple. All words are not equal. Some words are
-more frequent than others. According to the Zipf's law, the most
-frequent word will occur approximately twice as often as the second
-most frequent word, three times as often as the third most frequent
-word, etc. By this rule, only 150 words will account for more than
-half of everything that is said and written in any given language.
-The rest, 6350 words, would be more or less rare. Many of them would
-be hardly ever used! So the value of adding one more source language
-gets smaller and smaller.
-
 
