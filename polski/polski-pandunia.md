@@ -2,9 +2,9 @@
 ##a  
 adres : adres  
 Afganistan : afgania  
-afrofil : afrofiler  
-afrofilia : afrofilia  
-Afryka : afria  
+afrofil : afrikofiler  
+afrofilia : afrikofilia  
+Afryka : afrike  
 afrykański, Afrykanin : afri  
 agresja, napaść : agres  
 aj!, ał! : ay  
@@ -1829,7 +1829,6 @@ stłuczony (pęknięty) : parci
 suahili : swahili  
 Suazi : swazia  
 suchy : gan  
-suchy : suhi  
 Sudan : sudan  
 Sudan Południowy : sudi sudan  
 sugerować, proponować : suja  

@@ -17,9 +17,9 @@ adres : adres
 adulte : osoba dorosła  
 afgania : Afganistan  
 afri : afrykański, Afrykanin  
-afria : Afryka  
-afrofiler : afrofil  
-afrofilia : afrofilia  
+afrike : Afryka  
+afrikofiler : afrofil  
+afrikofilia : afrofilia  
 agres : agresja, napaść  
 aha : rozumieć, pojmować  
 ainstainium : einstein  
@@ -2003,7 +2003,6 @@ sudan : Sudan
 sude : południe  
 sudi jorjia i sudi sanwice nesia : Wyspy Georgia Południowa i Sandwich Południowy  
 sudi sudan : Sudan Południowy  
-suhi : suchy  
 suja : sugerować, proponować  
 suje : sugestia, propozycja  
 suka : cieszyć, podobać się  

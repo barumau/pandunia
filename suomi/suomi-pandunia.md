@@ -13,10 +13,10 @@ aatteen kannattaja : iste
 aavikko (hiekkaerämaa) : registan  
 adjektiivi (laatusana) : sifi lekse  
 Afganistan : afgania  
-Afrikka : afria  
+Afrikka : afrike  
 afrikkalainen : afri  
-afrofiili : afrofiler  
-afrofilia : afrofilia  
+afrofiili : afrikofiler  
+afrofilia : afrikofilia  
 aggressio : agres  
 Ahvenanmaa (Oolanti) : olandia  
 ai! (au!) : ay  
@@ -204,6 +204,7 @@ dysprosium : disprosium
 Ecuador : ekuador  
 edellinen : predi  
 edeltää (tulla ennen) : preda  
+edetä (edistyä) : jina  
 edustaa : wakila  
 Egypti : misria  
 egyptiläinen : misri  
@@ -820,7 +821,6 @@ kuisti (terassi, veranta) : berande
 kuitata : resida  
 kuitti (kuittaus) : reside  
 kuiva : gan  
-kuiva : suhi  
 kuka? : ki ren  
 kukka : pul  
 kukkaruukku : pulowaze  

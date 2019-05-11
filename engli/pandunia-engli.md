@@ -17,9 +17,9 @@ adres : address
 adulte : adult  
 afgania : Afghanistan  
 afri : African  
-afria : Africa  
-afrofiler : afrophile  
-afrofilia : Afrophilia  
+afrike : Africa  
+afrikofiler : afrophile  
+afrikofilia : Afrophilia  
 agres : agression (assault)  
 aha : understand (realize)  
 ainstainium : einsteinium  
@@ -865,6 +865,7 @@ jibraltar : Gibraltar
 jibutia : Djibouti  
 jika : straighten  
 jiki : straight  
+jina : advance (progress, enter)  
 jinse : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
@@ -2043,7 +2044,6 @@ sudan : Sudan
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
 sudi sudan : South Sudan  
-suhi : dry  
 suja : suggest (propose)  
 suje : suggestion (proposal)  
 suka : please (delight, make happy)  
@@ -2174,7 +2174,7 @@ tolera : tolerate
 tolo : top (spinning top)  
 tomate : tomato  
 ton : tone (note, pitch, shade)  
-tong : barrel (can)  
+tong : barrel (can, cask)  
 tope : hat (cap)  
 torace : thorax  
 torium : thorium  

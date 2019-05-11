@@ -13,14 +13,15 @@ address : adres
 adjective : sifi lekse  
 adult : adulte  
 adultery (infidelity) : zine  
+advance (progress, enter) : jina  
 advice (counsel) : mente  
 advisor (counselor, mentor) : menter  
 affirm (agree, concur) : amena  
 Afghanistan : afgania  
-Africa : afria  
+Africa : afrike  
 African : afri  
-afrophile : afrofiler  
-Afrophilia : afrofilia  
+afrophile : afrikofiler  
+Afrophilia : afrikofilia  
 afternoon : xamoden  
 again (repeatedly) : repi  
 age : umur  
@@ -166,7 +167,7 @@ Barbados : barbados
 barbarian : barbar  
 barium : barium  
 barometer : hawobarometer  
-barrel (can) : tong  
+barrel (can, cask) : tong  
 barrier : baryer  
 base (foundation) : baze  
 basic : bazi  
@@ -619,7 +620,6 @@ drop (let fall) : pada
 drug (intoxicating substance) : droge  
 drum : tambur  
 dry : gan  
-dry : suhi  
 dual (double) : duli  
 dualism : dulistia  
 dubnium : dubnium  

@@ -10,9 +10,9 @@ adreso : adres
 aero : hawe  
 Afganujo, Afganio : afgania  
 afrika : afri  
-afrikamanteco : afrofilia  
-afrikamanto : afrofiler  
-Afriko : afria  
+afrikamanteco : afrikofilia  
+afrikamanto : afrikofiler  
+Afriko : afrike  
 agreso : agres  
 akcento : acente  
 akceptebla (okej) : okey  

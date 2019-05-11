@@ -8,9 +8,9 @@ adresse : adres
 adulte : adulte  
 Afghanistan : afgania  
 africain : afri  
-Afrique : afria  
-afrophile : afrofiler  
-afrophilie : afrofilia  
+Afrique : afrike  
+afrophile : afrikofiler  
+afrophilie : afrikofilia  
 agile : ajil  
 agression : agres  
 aimer : ama  

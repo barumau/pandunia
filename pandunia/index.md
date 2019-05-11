@@ -6,7 +6,7 @@ pandunia - dunia bax
 salam dunia!
 
 pandunia si novi dunia da bax! pandunia da lekse laya ya mey fen yu
-dunia: afria, amerike, asia, europe – ya dunia bax bixu wakila momi
+dunia: afrike, amerike, asia, europe – ya dunia bax bixu wakila momi
 pan dunia!
 
 eska te jana pandunia? te abla darsa pandunia sa uza [mini darse](mini_darse.html).

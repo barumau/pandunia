@@ -17,9 +17,9 @@ adres : adresse
 adulte : adulte  
 afgania : Afghanistan  
 afri : africain  
-afria : Afrique  
-afrofiler : afrophile  
-afrofilia : afrophilie  
+afrike : Afrique  
+afrikofiler : afrophile  
+afrikofilia : afrophilie  
 agres : agression  
 aha : comprendre (réaliser)  
 ainstainium : Einsteinium  

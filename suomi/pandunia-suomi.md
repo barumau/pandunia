@@ -17,9 +17,9 @@ adres : osoite
 adulte : aikuinen  
 afgania : Afganistan  
 afri : afrikkalainen  
-afria : Afrikka  
-afrofiler : afrofiili  
-afrofilia : afrofilia  
+afrike : Afrikka  
+afrikofiler : afrofiili  
+afrikofilia : afrofilia  
 agres : aggressio  
 aha : oivaltaa (tajuta)  
 ainstainium : einsteinium  
@@ -859,6 +859,7 @@ jibraltar : Gibraltar
 jibutia : Djiboutia  
 jika : suoristaa  
 jiki : suora  
+jina : edetä (edistyä)  
 jinse : sukupuoli  
 jinsi : sukupuoli-  
 jiraf : kirahvi  
@@ -2011,7 +2012,6 @@ sudafrike : Etelä-Afrikka
 sudan : Sudan  
 sude : etelä  
 sudi sudan : Etelä-Sudan  
-suhi : kuiva  
 suja : ehdottaa  
 suje : ehdotus  
 sukar : sokeri  

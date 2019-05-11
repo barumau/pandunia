@@ -17,9 +17,9 @@ adres : adreso
 adulte : plenaĝa  
 afgania : Afganujo, Afganio  
 afri : afrika  
-afria : Afriko  
-afrofiler : afrikamanto  
-afrofilia : afrikamanteco  
+afrike : Afriko  
+afrikofiler : afrikamanto  
+afrikofilia : afrikamanteco  
 agres : agreso  
 aha : kompreni  
 ainstainium : ejnŝtejnio  
