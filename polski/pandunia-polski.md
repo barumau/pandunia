@@ -411,6 +411,7 @@ duga : czytać
 duka : martwić  
 duke : żal, smutek  
 duki : smutny  
+dul u tin : parę  
 dul : dwa (2)  
 duli : podwójny (dwójkowy)  
 dulistia : dualizm  
@@ -509,8 +510,6 @@ fen : część, ułamek
 fena : dzielić  
 fenu : pęknąć (rozpaść się)  
 fer : żelazo  
-fera : jechać na wakacje  
-feria : wakacje, ferie  
 fermium : ferm  
 festa : świętować, imprezować  
 feste : przyjęcie, święto, festiwal  
@@ -622,7 +621,7 @@ gema : grać w grę
 gemer : gracz  
 gen : korzeń  
 genca : sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
-genze : Guernsey  
+genzia : Guernsey  
 germanium : german  
 geta : dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 geter : odbiorca  
@@ -1136,8 +1135,6 @@ libu : stać
 lice : liczi  
 lida : prowadzić, dowodzić, kierować  
 lider : dowódca, kierownik  
-liga : łączyć, wiązać, złączyć  
-lige : połączenie, złącze, styk  
 lil nyame : przekąska  
 lil : mały; mało, trochę, nieco  
 lilak : lilak  
@@ -1892,6 +1889,8 @@ samodexi : rodak, ziomek, krajan
 samojinsokami : homoseksualny  
 samokon : trójkąt  
 samu : być podobnym, być jak  
+samun : połączenie, złącze, styk  
+samuna : łączyć, wiązać, złączyć  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke : pudło, skrzynia  
 sang : krew  

@@ -108,6 +108,7 @@ origine : asle
 originel : asli  
 ##p  
 perroquet : papagay  
+peu : xaw  
 piraterie : piratia  
 placard : almar  
 pomme : aple  

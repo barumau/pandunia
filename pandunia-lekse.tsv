@@ -414,6 +414,7 @@ zho:读 "dú". yue:讀 "duk6". vie:đọc. zha:dog. jpn:"doku-".			duga	:	read	l
 hin:दुःख "duḥkh". ben:দুঃখ "dukhô". tha:ทุกข์ "tuk". may:duka. eng:dukkha. + zho:苦 "kǔ".			duke	:	grief (sorrow)	malĝojo	suru (murhe)	żal, smutek								
 			duki	:	sad	malĝoja	surullinen	smutny								
 kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.			dul	:	two (2)	du (2)	kaksi (2)	dwa (2)								
+			dul u tin	:	a couple of		muutama (pari-kolme)	parę					пара			
 			duli	:	dual (double)		kaksois- (duaalinen)	podwójny (dwójkowy)								
 			dulistia	:	dualism		dualismi	dualizm								
 			dum	:	tail	vosto	häntä	ogon								
@@ -506,13 +507,11 @@ spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).	
 			fem	:	female	ino	naaras	kobieta; kobiecy				女				
 			fem bace	:	daughter	filino	tyttölapsi	córka								
 			fem rajer	:	queen		kuningatar	królowa								
-zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần.			fen	:	part (fraction)	parto (frakcio)	osa (pala)	część, ułamek								
+zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).			fen	:	part (fraction)	parto (frakcio)	osa (pala)	część, ułamek								
 			fena	:	divide (to partition)	dividi	jakaa (paloitella)	dzielić								
 			fenodona	:	contribute											
 			fenu	:	split (fall apart)		jakautua (hajota)	pęknąć (rozpaść się)								
 	made	Fe	fer	:	iron	fero	rauta	żelazo								
-			fera	:	go on vacation		lomailla	jechać na wakacje								
-spa:feria. por:féria. fra:férié. deu:Ferien. eng:fair.			feria	:	vacation (holiday)		loma	wakacje, ferie								
 	made	Fm	fermium	:	fermium	fermio	fermium	ferm								
 			festa	:	celebrate (party)	festi	juhlia	świętować, imprezować								
 eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".			feste	:	party (celebration, festival)	festo	juhla	przyjęcie, święto, festiwal								
@@ -624,8 +623,8 @@ eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).			gem	:	game	lud
 			gema	:	play a game	ludi	pelata	grać w grę								
 			gemer	:	player (gamer)	ludanto	pelaaja	gracz								
 zho:根 (gēn). wuu:(gen). yue:(gan). vie:căn.			gen	:	root	radiko	juuri	korzeń								
-zho:检查 "jiǎnchá". yue:檢查 "gimcaa". vie:kiểm tra.			genca	:	examine (inspect, check)		tutkia	sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać								
-	dex	GG	genze	:	Guernsey		Guernsey	Guernsey								
+zho:检查 (jiǎnchá). yue:檢查 (gimcaa). vie:kiểm tra. jpn.検査 (kensa).			genca	:	examine (inspect, check)		tutkia	sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać								
+	dex	GG	genzia	:	Guernsey		Guernsey	Guernsey								
 	made	Ge	germanium	:	germanium	germaniumo	germanium	german								
 			geta	:	get (receive, obtain, take)	akiri (ricevi, preni)	hankkia (saada)	dostać, dostawać, otrzymać, otrzymywać, wziąć, brać								
 			geter	:	getter (receiver, recipient)		saaja (vastaanottaja)	odbiorca								
@@ -684,7 +683,7 @@ ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:kh
 ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.			hake	:	right (justification, privilege)	rajto	oikeus (oikeutus)	prawo, przywilej								
 ara:"qāḍin". hau:alƙali. fas:"qāzi". eng:qadi. swa:kadhi.			hakim	:	judgment (sentence)	juĝo	tuomio	wyrok								
 			hakimer	:	judge (referee)	juĝisto	tuomari	sędzia								
-ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). jpn:空 (kara).			hali	:	empty	malplena	tyhjä	pusty					пустой			
+ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). ara:(xāliy). jpn:空 (kara).			hali	:	empty	malplena	tyhjä	pusty					пустой			
 			halif	:	caliph	kalifo	kalifi	kalif								
 			halifia	:	caliphate		kalifaatti	kalifat								
 eng:hello,hullo. deu:hallo. zho:哈啰 (hāluō).			halow	:	hello (hi)	saluton!	hei (haloo)	halo, cześć								
@@ -819,7 +818,7 @@ hin:जलना (jalnā). urd:(jalnā). mar:जळणे (j̈aḷṇe).			jala	
 ara: جمع /jamaʕa/.			jama	:	collect (gather, bring together)	kolekti (kunigi)	koota (kerätä)	kolekcjonować, zebrać, zbierać								
 	dex	JM	jamaike	:	Jamaica	Jamajko	Jamaika	Jamajka								
 			jami	:	collective	kolekta	kollektiivinen	zbiorowy, zbiorczy								
-ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.			jamia	:	collection (congregation, assembly, association)		yhteisö (kokoontuminen, kollektiivi)	kolekcja, zbiór; zgromadzenie, zebranie								
+ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.			jamia	:	collection (congregation, assembly)		yhteisö (kokoontuminen, kollektiivi)	kolekcja, zbiór; zgromadzenie, zebranie								
 eng:jump. jpn:ジャンプ (janpu). kor:점프 (jŏmp). ben:ঝাঁপ (jhãpô). ass:জাঁপ (zãp).			jampa	:	jump	salti	hypätä (hyppiä)	skoczyć, skakać								
 			jamula	:	disperse	disigi	hajauttaa	rozproszyć, rozpraszać								
 hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). pnb:ਜਾਣ (jāṇ). tha:ญาณ (yaan).			jan	:	knowledge	scio	tieto (tietämys)	wiedza								
@@ -1141,8 +1140,8 @@ zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".			libu	:	stand		seistä (sei
 zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.			lice	:	lychee (litchi)		litši	liczi								
 			lida	:	lead (direct)		johtaa	prowadzić, dowodzić, kierować								
 			lider	:	leader (director)		johtaja (pomo)	dowódca, kierownik								
-spa: ligar. eng: league. rus: лига /liga/.			liga	:	connect (join, link)	aligi	yhdistää	łączyć, wiązać, złączyć								
-			lige	:	joint (league)		yhdistys (sidos, liiga)	połączenie, złącze, styk								
+			liga	:	associate	aligi	liittää									
+fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).			lige	:	league (association)		liitto (liittouma, liiga)									
 eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti, vähän)	mały; mało, trochę, nieco								
 			lil nyame	:	snack		välipala (naposteltava)	przekąska								
 			lilak	:	lilac		syreeni	lilak								
@@ -1374,7 +1373,7 @@ deu:mischen. rus:мешать (měšat'). pol:mieszać. eng:mix. ita:miscelare. 
 			mixer	:	mixer (blender)	miksilo	sekoitin	mikser, blender, robot kuchenny								
 			mode	:	fashion (trend)	fasono	muoti	moda, trend								
 			model	:	model (design)		malli (esikuva)	model, wzór, wzorzec, projekt								
-zho:墨 "mò". vie:mực. thai:หมึก "muk".			moge	:	ink	inko	muste	tusz								
+zho:墨 (mò). vie:mực. tha:หมึก (muk).			moge	:	ink	inko	muste	tusz								
 zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).			moke	:	wood (timber)	ligno	puu (puutavara)	drewno				木材				
 			mokojanger	:	carpenter		puuseppä	stolarz				木匠				
 			mola	:	grind (grind in mill)		jauhaa myllyssä	zemleć, mleć, mielić								
@@ -1912,6 +1911,8 @@ ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.			sam	:	same	sama	sama	
 			samojinsokami	:	homosexual	samseksema	homoseksuaali	homoseksualny								
 			samokon	:	triangle		kolmio	trójkąt								
 			samu	:	resemble (be like)			być podobnym, być jak								
+			samun	:	joint		yhdistys (sidos)	połączenie, złącze, styk								
+isl:sameina. deu:vereinigen.			samuna	:	connect (join, link)		yhdistää	łączyć, wiązać, złączyć								
 vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.			sana	:	produce (create, make)	produkti (fabriki)	tehdä (valmistaa)	zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać								
 swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). fas:urd:صندوق‎ (sanduq).			sanduke	:	box (chest)	skatolo (kesto)	laatikko	pudło, skrzynia								
 fra:sang. spa:sangre. por:sangue.			sang	:	blood	sango	veri	krew								
@@ -2095,6 +2096,8 @@ ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্
 sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).			tataw	:	tattoo	tatuo	tatuointi	tatuaż					татуировка (тату)			
 por:tática. ita:tattica. eng:tactic. rus:тактика (taktika). deu:Taktik.			tatike	:	tactics (strategy)		taktiikka	taktyka, strategia								
 hin:तवा (tavā). tur:tava. fas:(tābe).			tawe	:	frying pan	pato	pannu (paistinpannu)	patelnia								
+			tayi	:	Thai	tajlanda	thai									
+			tayia	:	Thailand	Tajlando	Thaimaa									
 tur:taze. hin:ताज़ा (tāzā). ben:তাজা (taja). kaz:таза (taza). fas:(tâze).			tazi	:	fresh	freŝa	tuore (raikas)	świeży			frais	新鲜的	свежий			
 hun:te. rus:ты (ty). fra:ita:spa:te.			te	:	you	vi (ci)	sinä	ty, ciebie				你				
 			tekne	:	technique (technology)	tekniko	tekniikka (keino, menetelmä)	technika, technologia			technique	技术				
@@ -2312,6 +2315,7 @@ fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".			xarni
 tur:şart. ara:fas:(šart). swa:sharuti. hin:शर्त (śart).			xarte	:	condition (requirement)	kondiĉo (postulo)	vaatimus (edellytys)	warunek								
 ara:"šayṭān". hin:शैतान "śaitān". tur:şeytan. eng:Satan. spa:Satán.			xatan	:	devil (Satan)	diablo (Satano)	paholainen (saatana, piru)	diabeł, szatan								
 			xatani	:	devilish (satanic)		pirullinen	diabelski, szatański								
+zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).			xaw	:	little (few, not many)	malmulte	vähän		pocos	poucos	peu	少	мало	कम		
 zho:"shasha".			xaxu	:	rustle		kahista	szeleścić								
 fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chifu. jpn:チーフ (chīfu). + ara:(šeyx).			xef	:	chief (boss)	estro (ĉefulo)	päällikkö (pomo)	szef, kierownik								
 			xefi	:	main (principal)		pää-	główny								

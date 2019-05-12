@@ -506,7 +506,7 @@ grymas : grimas
 grób, mogiła, grobowiec : gabre  
 Guam : guam  
 Gudżarat : gujarati  
-Guernsey : genze  
+Guernsey : genzia  
 Guinea Bissau : gine bisau  
 Gujana : gayan  
 Gujana Francuska : giyan  
@@ -627,7 +627,6 @@ jasny, świetlny : nuri
 jazz, dżez : jaze  
 jaśmin : malike  
 jebać, kopulować : coda  
-jechać na wakacje : fera  
 jeden (1) : un  
 jednoczyć : una  
 jednokolorowy (monochromatyczny) : monorangi  
@@ -1288,6 +1287,7 @@ park (ogród) : parke
 parking : kar parke  
 partia : partia  
 Partia Piratów : piratisti partia  
+parę : dul u tin  
 pas, strefa : zon  
 paskal (Pa) : paskal  
 pasować : maca  
@@ -1471,7 +1471,7 @@ pozwolić, pozwalać, zezwolić, zezwalać : permisa
 połknąć (połykać) : glota  
 południe : sude  
 Południowa Afryka : sudafrike  
-połączenie, złącze, styk : lige  
+połączenie, złącze, styk : samun  
 pośladki, pupa, tyłek, zadek : pigu'  
 pożądanie, żadza : kam  
 praca, zjęcie, zadanie : werke  
@@ -2067,7 +2067,6 @@ w przyszłości : wil
 waga (ciężkość) : bar  
 waga (urządzenie ważące) : barometer  
 wagina : yone  
-wakacje, ferie : feria  
 walka, wojna : jeng  
 wanilia : wanil  
 wapń : kalsium  
@@ -2342,7 +2341,7 @@ zły, zrujnowany, zepsuty : harabi
 łza : yenosuy  
 łódź, statek : bote  
 łóżko : bede  
-łączyć, wiązać, złączyć : liga  
+łączyć, wiązać, złączyć : samuna  
 Święta Helena : santi helena  
 ścieżka (droga, szlak, kurs) : rute  
 śmiać się : haha  

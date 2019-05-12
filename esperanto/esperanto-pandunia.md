@@ -743,7 +743,7 @@ malliberejo : prizonia
 malliberigi : prizona  
 mallonga : korti  
 mallongigi : korta  
-malmulte : xaw
+malmulte : xaw  
 malnova : puran  
 malplej : minim  
 malplena : hali  
@@ -1186,6 +1186,8 @@ tablo : meze
 tagmanĝo : den nyam  
 tago : den  
 tajgo : taiga  
+tajlanda : tayi  
+Tajlando : tayia  
 tajpilo : kitabomaxin  
 taladro : bora  
 talio : talium  

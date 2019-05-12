@@ -309,7 +309,7 @@ Grenada : grenada
 Guadeloupe : guadelupe  
 Guam : guam  
 Guatemala : guatemala  
-Guernsey : genze  
+Guernsey : genzia  
 Guinea : gine  
 Guinea-Bissau : gine bisau  
 gujarati (eräs intialainen kieli) : gujarati  
@@ -987,7 +987,9 @@ liikemies : biznes ren
 liiketoiminta (bisnes) : biznes  
 liikuttaa : kina  
 liima : glute  
+liitto (liittouma, liiga) : lige  
 liitto (unioni) : unia  
+liittää : liga  
 lilja : lilya  
 linja-auto (bussi) : bus  
 linna : kastel  
@@ -1005,8 +1007,6 @@ logiikka : logike
 logofiili : logofiler  
 lokakuu : mes 10 (mes des)  
 lokikirja : deftobuke  
-loma : feria  
-lomailla : fera  
 lopettaa : fina  
 loppu : fin  
 loukkaus (herja) : insulte  
@@ -1238,6 +1238,7 @@ muumio : mumia
 muunsukupuolinen : bis  
 muurahainen : maye  
 muusikko : musiker  
+muutama (pari-kolme) : dul u tin  
 muuttaa (muuntaa) : muta  
 Myanmar (Burma) : bama  
 myky (pelmeni, ravioli) : pelmen  
@@ -2019,6 +2020,8 @@ terrorismi : teroristia
 terroristi : teroriste  
 tervehdys (terve!) : salame  
 tervetuloa! : salam laye  
+thai : tayi  
+Thaimaa : tayia  
 tie : daw  
 tiede (tutkimus) : lojia  
 tiedottaa (informoida) : informa  
@@ -2311,6 +2314,7 @@ vähemmän : min
 vähimmäis- : minimi  
 vähiten : minim  
 vähäinen : minor  
+vähän : xaw  
 väite (teesi) : tese  
 väittely (debatti) : lon  
 väittää : tesa  
@@ -2324,8 +2328,8 @@ wiki : wiki
 ##x  
 ##y  
 yhdeksän : naw  
-yhdistys (sidos, liiga) : lige  
-yhdistää : liga  
+yhdistys (sidos) : samun  
+yhdistää : samuna  
 yhdistää : una  
 Yhdysvallat : usamerike  
 yhteinen : komun  

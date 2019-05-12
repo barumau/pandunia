@@ -413,6 +413,7 @@ duga : lukea
 duka : surra (murehtia)  
 duke : suru (murhe)  
 duki : surullinen  
+dul u tin : muutama (pari-kolme)  
 dul : kaksi (2)  
 duli : kaksois- (duaalinen)  
 dulistia : dualismi  
@@ -510,8 +511,6 @@ fen : osa (pala)
 fena : jakaa (paloitella)  
 fenu : jakautua (hajota)  
 fer : rauta  
-fera : lomailla  
-feria : loma  
 fermium : fermium  
 festa : juhlia  
 feste : juhla  
@@ -625,7 +624,7 @@ gema : pelata
 gemer : pelaaja  
 gen : juuri  
 genca : tutkia  
-genze : Guernsey  
+genzia : Guernsey  
 germanium : germanium  
 geta : hankkia (saada)  
 geter : saaja (vastaanottaja)  
@@ -1146,8 +1145,8 @@ libu : seistä (seisoa)
 lice : litši  
 lida : johtaa  
 lider : johtaja (pomo)  
-liga : yhdistää  
-lige : yhdistys (sidos, liiga)  
+liga : liittää  
+lige : liitto (liittouma, liiga)  
 lil nyame : välipala (naposteltava)  
 lil : pieni (pienesti, vähän)  
 lilak : syreeni  
@@ -1907,6 +1906,8 @@ samoa : Samoa
 samodexi : samanmaalainen (maanmies)  
 samojinsokami : homoseksuaali  
 samokon : kolmio  
+samun : yhdistys (sidos)  
+samuna : yhdistää  
 sana : tehdä (valmistaa)  
 sanduke : laatikko  
 sang : veri  
@@ -2072,6 +2073,8 @@ tas : astia (kulho)
 tataw : tatuointi  
 tatike : taktiikka  
 tawe : pannu (paistinpannu)  
+tayi : thai  
+tayia : Thaimaa  
 tazi : tuore (raikas)  
 te : sinä  
 tekne : tekniikka (keino, menetelmä)  
@@ -2281,6 +2284,7 @@ xarta : vaatia (edellyttää)
 xarte : vaatimus (edellytys)  
 xatan : paholainen (saatana, piru)  
 xatani : pirullinen  
+xaw : vähän  
 xaxu : kahista  
 xef : päällikkö (pomo)  
 xefi minister : pääministeri (suurvisiiri)  

@@ -54,6 +54,7 @@ buke : книга
 cini : хань  
 ##d  
 destin : судьба  
+dul u tin : пара  
 ##e  
 ##f  
 ##g  
@@ -117,6 +118,7 @@ waxomaxin : стиральная машина
 wirus : вирус  
 wirusolojia : вирусология  
 ##x  
+xaw : мало  
 ##y  
 ya : из (от)  
 yada : память  

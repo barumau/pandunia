@@ -53,6 +53,7 @@ konta_bax zho cini
 konta_bax jpn niponi
 konta_bax kor hangugi
 konta_bax vie wieti
+konta_bax tha tayi
 
 konta_bax ind indonesi
 konta_bax tgl filipini

@@ -1,4 +1,5 @@
 : : -a : suffix : for : verbs : with : SVO : word : order  
+a couple of : dul u tin  
 ##a  
 ability (skill) : able  
 about (approximately) : yagi  
@@ -112,6 +113,7 @@ ask (inquire) : eska
 ask (request, beg; please) : plisa  
 asparagus : lusun  
 aspirin : aspirin  
+associate : liga  
 Assur : axur  
 Assyria : axuria  
 asthma : asme  
@@ -437,7 +439,7 @@ cola : kola
 cold (illness) : zukam  
 cold : leng  
 collect (gather, bring together) : jama  
-collection (congregation, assembly, association) : jamia  
+collection (congregation, assembly) : jamia  
 collective : jami  
 Colombia : kolombia  
 colonialism : kolonistia  
@@ -473,7 +475,7 @@ Congo (Brazzaville) : brazawil kongolia
 Congo Kinshasa : kinsasa kongolia  
 Congolese : kongoli  
 congratulate (bless) : barka  
-connect (join, link) : liga  
+connect (join, link) : samuna  
 consequence (follow-up) : bade  
 consider (regard) : konsida  
 consonant : konson  
@@ -854,7 +856,6 @@ global : duni
 glue : glute  
 gluten : gluten  
 go back (retreat) : retra  
-go on vacation : fera  
 goal : gol  
 goat : buze  
 god (deity) : dew  
@@ -897,7 +898,7 @@ guarantee : garante
 guard (watch) : garda  
 guardian (watchman) : garder  
 Guatemala : guatemala  
-Guernsey : genze  
+Guernsey : genzia  
 guilty : doxi  
 Guinea : gine  
 Guinea-Bissau : gine bisau  
@@ -1070,7 +1071,7 @@ jealous : jelos
 Jersey : jersia  
 Jesus : yesus  
 Jewish : yehudi  
-joint (league) : lige  
+joint : samun  
 joke : joke  
 joker : joker  
 Jordan : urdun  
@@ -1146,6 +1147,7 @@ lead (direct) : lida
 lead : plumbe  
 leader (director) : lider  
 leaf (sheet) : warke  
+league (association) : lige  
 leak : lowa  
 learn (study) : darsa  
 least (minimally) : minim  
@@ -1186,6 +1188,7 @@ lip : labe
 list (listing, catalogue) : liste  
 liter (litre) : litre  
 lithium : litium  
+little (few, not many) : xaw  
 little (small; a little, somewhat) : lil  
 live (dwell, reside) : doma  
 live : jiwa  
@@ -2163,6 +2166,8 @@ terror : teror
 terrorism : teroristia  
 terrorist : teroriste  
 test (challenge, trial) : teste  
+Thai : tayi  
+Thailand : tayia  
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
@@ -2289,7 +2294,6 @@ useful (beneficial) : faidi
 user : uzer  
 Uzbekistan : uzbekia  
 ##v  
-vacation (holiday) : feria  
 vaccine : waksin  
 vacuum cleaner : funocuper  
 vagina : yone  

@@ -1227,6 +1227,8 @@ tarjer : tradukisto
 tas : plado  
 tataw : tatuo  
 tawe : pato  
+tayi : tajlanda  
+tayia : Tajlando  
 tazi : freŝa  
 te : vi (ci)  
 tekne : tekniko  
@@ -1336,6 +1338,7 @@ xarme : honto
 xarnir : ĉarniro (pivoto)  
 xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  
+xaw : malmulte  
 xef : estro (ĉefulo)  
 xefi minister : ĉefministro  
 xenon : ksenono  

@@ -239,8 +239,7 @@ fater ← por: fator. ita: fattore. eng: factor. rus: фактор /faktor/.
 faxe ← ita:fascia. por:faixa. spa:faja.  
 faxon ← eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon). kor:패션 (pæsyeon). tha:แฟชั่น (feechan). ben:ফ্যাশন (phaśôn).  
 faze ← spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).  
-fen ← zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần.  
-feria ← spa:feria. por:féria. fra:férié. deu:Ferien. eng:fair.  
+fen ← zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).  
 feste ← eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".  
 fete ← swa:mafuta. rwa:mavuta. kon:mafuta.  
 fikre ← ara:(fikr). fas:(fekr). tur:fikir. ind:pikir. hin:(fikr).  
@@ -279,7 +278,7 @@ gaze ← deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.
 gazel ← ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼル (gazeru).  
 gem ← eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).  
 gen ← zho:根 (gēn). wuu:(gen). yue:(gan). vie:căn.  
-genca ← zho:检查 "jiǎnchá". yue:檢查 "gimcaa". vie:kiểm tra.  
+genca ← zho:检查 (jiǎnchá). yue:檢查 (gimcaa). vie:kiểm tra. jpn.検査 (kensa).  
 gey ← eng:fra:spa:gay. por:guei.  
 gim ← zho:金 (jīn). yue:(gam). zhu:gim. jpn:金 (kin). kor:금 (geum). vie:kim. tgl:ginto. tha:คำ (kam).  
 glota ← rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir. por:engolir.  
@@ -304,7 +303,7 @@ hafiza ← ara:(ḥafiẓa). fas:urd:(hāfiz).
 haime ← ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).   
 hake ← ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.  
 hakim ← ara:"qāḍin". hau:alƙali. fas:"qāzi". eng:qadi. swa:kadhi.  
-hali ← ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). jpn:空 (kara).  
+hali ← ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). ara:(xāliy). jpn:空 (kara).  
 halow ← eng:hello,hullo. deu:hallo. zho:哈啰 (hāluō).  
 hamar ← eng:hammer. deu:Hammer. jpn:ハンマー (hanmā). hau:hamā̀.  
 hamir ← ara:(xamīra). hin:ख़मीर (xamīr). tur:hamur. fas:(moxammer). + kor:효모 (hyomo).  
@@ -463,7 +462,7 @@ lete ← fra:l'été. rus:лето (leto). cze:léto. scr:leto.
 lew ← tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). yue:了 (liu).  
 libu ← zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".  
 lice ← zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.  
-liga ← spa: ligar. eng: league. rus: лига /liga/.  
+lige ← fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).  
 lil ← eng:little.  
 linye ← por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).  
 liste ← eng:list. spa:por:lista. rus:"lista". fra:liste.  
@@ -527,7 +526,7 @@ mirer ← eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.
 misal ← hin:मिसाल (misāl). ara:(mithāl).  
 mita ← zho:会 (huì). vie:hội. jpn:会 (kai). kor:회의 (hoehi).   
 mixa ← deu:mischen. rus:мешать (měšat'). pol:mieszać. eng:mix. ita:miscelare. + hin:मिश्रण (miśrān).  
-moge ← zho:墨 "mò". vie:mực. thai:หมึก "muk".  
+moge ← zho:墨 (mò). vie:mực. tha:หมึก (muk).  
 moke ← zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).  
 mon ← ell:μόνος (monos). eng:deu:fra:por:spa:mono-.  
 morti ← por:morto. fra:mort. spa:muerto. fas:(morde). urd:(murda). hin:मृत (mrta). rus:мёртвый (myortvïy). + ind:mati. + ara:(mawt). amh:ሞት (mot).  
@@ -671,6 +670,7 @@ sal ← por:spa:sal. eng:salt. rus:соль (solʹ).
 salade ← end:salad. zho:沙拉 (shālā).  
 salame ← ara:(salām). swa:salamu. ind:selamat.  
 sam ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
+samuna ← isl:sameina. deu:vereinigen.  
 sana ← vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.  
 sanduke ← swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). fas:urd:صندوق‎ (sanduq).  
 sang ← fra:sang. spa:sangre. por:sangue.  
@@ -816,6 +816,7 @@ xarme ← fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng
 xarnir ← fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".  
 xarte ← tur:şart. ara:fas:(šart). swa:sharuti. hin:शर्त (śart).  
 xatan ← ara:"šayṭān". hin:शैतान "śaitān". tur:şeytan. eng:Satan. spa:Satán.  
+xaw ← zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).  
 xaxu ← zho:"shasha".  
 xef ← fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chifu. jpn:チーフ (chīfu). + ara:(šeyx).  
 xim ← kor: 심 /sim/. zho: 心 "xīn".  

@@ -150,6 +150,7 @@ wenesuela : Venezuela
 wirus : virus  
 wolfe : loup  
 ##x  
+xaw : peu  
 xing : étoile  
 ##y  
 yesus : Jésus  

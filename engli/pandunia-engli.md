@@ -416,6 +416,7 @@ duga : read
 duka : grieve  
 duke : grief (sorrow)  
 duki : sad  
+dul u tin : a couple of  
 dul : two (2)  
 duli : dual (double)  
 dulistia : dualism  
@@ -516,8 +517,6 @@ fena : divide (to partition)
 fenodona : contribute  
 fenu : split (fall apart)  
 fer : iron  
-fera : go on vacation  
-feria : vacation (holiday)  
 fermium : fermium  
 festa : celebrate (party)  
 feste : party (celebration, festival)  
@@ -631,7 +630,7 @@ gema : play a game
 gemer : player (gamer)  
 gen : root  
 genca : examine (inspect, check)  
-genze : Guernsey  
+genzia : Guernsey  
 germanium : germanium  
 geta : get (receive, obtain, take)  
 geter : getter (receiver, recipient)  
@@ -828,7 +827,7 @@ jalu : burn (be burned)
 jama : collect (gather, bring together)  
 jamaike : Jamaica  
 jami : collective  
-jamia : collection (congregation, assembly, association)  
+jamia : collection (congregation, assembly)  
 jampa : jump  
 jamula : disperse  
 jan : knowledge  
@@ -1152,8 +1151,8 @@ libu : stand
 lice : lychee (litchi)  
 lida : lead (direct)  
 lider : leader (director)  
-liga : connect (join, link)  
-lige : joint (league)  
+liga : associate  
+lige : league (association)  
 lil nyame : snack  
 lil : little (small; a little, somewhat)  
 lilak : lilac  
@@ -1929,6 +1928,8 @@ samodexi : compatriot
 samojinsokami : homosexual  
 samokon : triangle  
 samu : resemble (be like)  
+samun : joint  
+samuna : connect (join, link)  
 sana : produce (create, make)  
 sanduke : box (chest)  
 sang : blood  
@@ -2113,6 +2114,8 @@ tas : dish
 tataw : tattoo  
 tatike : tactics (strategy)  
 tawe : frying pan  
+tayi : Thai  
+tayia : Thailand  
 tazi : fresh  
 te : you  
 tekne : technique (technology)  
@@ -2334,6 +2337,7 @@ xarta : stipulate
 xarte : condition (requirement)  
 xatan : devil (Satan)  
 xatani : devilish (satanic)  
+xaw : little (few, not many)  
 xaxu : rustle  
 xef : chief (boss)  
 xefi minister : prime minister  

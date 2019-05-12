@@ -152,6 +152,7 @@ weje : 蔬菜
 wida : 看  
 ##x  
 xam : 晚上  
+xaw : 少  
 xute : 技术  
 ##y  
 ##z  
