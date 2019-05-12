@@ -211,7 +211,7 @@ danki : danka
 danko : danke  
 danĝera : hatari  
 danĝero : hatar  
-dato : nen mes den  
+dato : nenomesoden  
 daŭri : dura  
 daŭro : dur  
 de (el, pro) : ya  
@@ -318,7 +318,7 @@ fabriko : fateria
 facila : izi  
 fajna : fain  
 fajro : fay  
-familinomo : famil nam  
+familinomo : familonam  
 familio : famil  
 fantaci : fantaza  
 fantazia : fantazi  
@@ -852,7 +852,6 @@ nasko : jen
 natrio : natre  
 naturo : ekia  
 naūatla : nawati  
-ne : ne  
 ne : ni  
 negoco : biznes  
 neono : neon  

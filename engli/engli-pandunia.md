@@ -72,7 +72,7 @@ angry (furious) : furi
 animal : hewan  
 animate : anima  
 animation (cartoon) : anime  
-anniversary : nen feste  
+anniversary : nenofeste  
 answer (reply, response) : jawabe  
 ant : maye  
 Antarctica : antartia  
@@ -320,7 +320,7 @@ calculus (manipulation of symbolic expressions) : kalkulia
 californium : kalifornium  
 caliph : halif  
 caliphate : halifia  
-call (give name) : nama  
+call (name) : namisa  
 calm (peaceful) : xanti  
 Cambodia : kambudia  
 camel : gamel  
@@ -350,6 +350,7 @@ carry (bear) : porta
 cash box : kax  
 cashier : kaxer  
 cassava (manioc) : manioke  
+caste : jeni klas  
 castle : kastel  
 cat : maw  
 Catalonia : katalunia  
@@ -547,7 +548,7 @@ dangerous : hatari
 dark (dim) : oskur  
 Darwinism : darwinistia  
 Darwinist : darwiniste  
-date : nen mes den  
+date : nenomesoden  
 date fruit : tamar  
 daughter : fem bace  
 day (daytime) : den  
@@ -1143,6 +1144,7 @@ Latvia : latwia
 laugh : haha  
 law : kanun  
 lawrencium : laurensium  
+layer (level, storey, floor, stratum) : ceng  
 lead (direct) : lida  
 lead : plumbe  
 leader (director) : lider  
@@ -1441,7 +1443,6 @@ nine (9) : naw
 niobium : niobium  
 nitrogen : nitre  
 Niue : niwe  
-no : ne  
 nobelium : nobelium  
 nobody (no-one) : nol ren  
 noise : kelele  
@@ -1455,7 +1456,7 @@ Northern Mariana Islands : marian nesia
 Norway : norgia  
 Norwegian : norgi  
 nose : nos  
-not : ni  
+not (no) : ni  
 note (observation) : note  
 note (observe, notice) : nota  
 notebook : notobuke  
@@ -2088,7 +2089,7 @@ superb (wonderful, super) : super
 supply (dispense, issue, put out) : fada  
 surface : fas  
 Suriname : surinam  
-surname (family name) : famil nam  
+surname (family name) : familonam  
 surpass (go over) : supra  
 surprise : supris  
 surrender (submit) : islamu  

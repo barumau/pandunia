@@ -476,8 +476,8 @@ faidi : użyteczny, pomocny, przydatny, pożyteczny, korzystny
 fain : delikatny, cienki, lekki  
 fajan : rozwój  
 falsi : fałszywy, nieprawdziwy  
-famil nam : nazwisko, imię rodziny  
 famil : rodzina  
+familonam : nazwisko, imię rodziny  
 fan : zabawa, rozrywka  
 fana : bawić, zabawiać  
 fani : zabawny  
@@ -1433,8 +1433,8 @@ nafas : oddech
 nahun : paznokieć  
 naijiria : Nigeria  
 nam : imię, nazwa  
-nama : nazwać, nazywać, wezwać, wzywać  
 namibia : Namibia  
+namisa : nazwać, nazywać, wezwać, wzywać  
 namu : być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 nanas : ananans  
 nano : nano-  
@@ -1450,13 +1450,12 @@ natre : sód
 nauru : Nauru  
 naw : dziewięć (9)  
 nawati : nahuatl  
-ne : nie  
 nederlandi antilia : Antyle Holenderskie  
 nederlandia : Holandia (Królestwo Niderlandów)  
 nega : odmówić (odrzucić)  
-nen feste : rocznica  
-nen mes den : data  
 nen : rok  
+nenofeste : rocznica  
+nenomesoden : data  
 nenufar : lilia wodna, nenufar  
 neon : neon  
 nepal : Nepal  

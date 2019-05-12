@@ -61,6 +61,7 @@ buke : 书
 buze : 山羊   
 ##c  
 cay : 茶  
+ceng : 层  
 cini : 汉族  
 ##d  
 destin : 目的地 (命運)  

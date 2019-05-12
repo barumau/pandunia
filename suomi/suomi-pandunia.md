@@ -210,7 +210,6 @@ Egypti : misria
 egyptiläinen : misri  
 ehdottaa : suja  
 ehdotus : suje  
-ei : ne  
 ei : ni  
 ei kukaan : nol ren  
 ei mitään : nol xey  
@@ -681,6 +680,7 @@ kenkä : sapate
 kenttä (aukio) : maidan  
 kerho (klubi) : klube  
 kerma : krem  
+kerros : ceng  
 kerta : mar  
 kertoa : saga  
 kertomus (tarina, saaga) : sage  
@@ -1295,7 +1295,7 @@ nihonium : niponium
 Nikaragua : nikaragua  
 nikkeli : nikel  
 nimi : nam  
-nimittää (kutsua) : nama  
+nimittää (kutsua) : namisa  
 niobium : niobium  
 nisäkäs : mamal  
 Niue : niwe  
@@ -1616,7 +1616,7 @@ pyytää tulemaan : plisa laya
 pyöreä : cirki  
 pyörä (polkupyörä, moottoripyörä) : sikle  
 päivä : den  
-päivämäärä : nen mes den  
+päivämäärä : nenomesoden  
 päivänseisaus : solestas  
 päivää! : salam den  
 pää : sar  
@@ -1870,7 +1870,7 @@ suihku : dux
 sukka : soke  
 suklaa : coke  
 suklaapatukka : cokobaton  
-sukunimi : famil nam  
+sukunimi : familonam  
 sukupuoli : jinse  
 sukupuoli- : jinsi  
 sulaa : mayu  
@@ -1925,6 +1925,7 @@ säteily : radia
 säteilymittari : radiometer  
 sävel (sävy) : ton  
 sää : tenke  
+sääty (kasti) : jeni klas  
 söpö (suloinen) : kaway  
 ##t  
 taas (uudestaan) : repi  
@@ -2303,7 +2304,7 @@ vuokra : kire
 vuokrata : kirisa  
 vuori (mäki) : xan  
 vuosi : nen  
-vuosijuhla : nen feste  
+vuosijuhla : nenofeste  
 vuotaa : lowa  
 vuotaa verta : lowa sang  
 vyö : zon  

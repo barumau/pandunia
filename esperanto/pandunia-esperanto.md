@@ -379,8 +379,8 @@ faide : utileco
 faidi : utila  
 fain : fajna  
 fajan : disvolvi  
-famil nam : familinomo  
 famil : familio  
+familonam : familinomo  
 fan : amuzo  
 fana : amuzi  
 fani : amuza  
@@ -943,9 +943,8 @@ namibia : Namibio
 nanas : ananaso  
 natre : natrio  
 nawati : naūatla  
-ne : ne  
-nen mes den : dato  
 nen : jaro  
+nenomesoden : dato  
 neon : neono  
 nepal : Nepalo  
 neptun : Neptuno  

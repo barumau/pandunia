@@ -287,6 +287,7 @@ ce : tämä
 cehia : Tšekki  
 ceka : tarkistaa (tsekata)  
 celo' : sello  
+ceng : kerros  
 centi : sentti  
 cerium : cerium  
 cernagoria : Montenegro  
@@ -477,8 +478,8 @@ faidi : hyödyllinen
 fain : hieno (hienojakoinen)  
 fajan : kehitys  
 falsi : väärä (epätosi, vale-)  
-famil nam : sukunimi  
 famil : perhe  
+familonam : sukunimi  
 fan : huvi (hauskuus)  
 fana : viihdyttää (huvittaa)  
 fani : hauska (huvittava)  
@@ -848,6 +849,7 @@ jeng : taistelu (sota)
 jenger : soturi (taistelija)  
 jengi : sotilaallinen  
 jengoxute : kamppailulaji  
+jeni klas : sääty (kasti)  
 jenju' : helmi  
 jentil : kiltti  
 jenu : syntyä  
@@ -1452,8 +1454,8 @@ nafas : hengitys (henkäys)
 nahun : kynsi  
 naijiria : Nigeria  
 nam : nimi  
-nama : nimittää (kutsua)  
 namibia : Namibia  
+namisa : nimittää (kutsua)  
 namu : olla nimeltään  
 nanas : ananas  
 nano : nano-  
@@ -1469,13 +1471,12 @@ natre : natrium
 nauru : Nauru  
 naw : yhdeksän  
 nawati : nahuatli  
-ne : ei  
 nederlandi antilia : Alankomaiden Antillit  
 nederlandia : Alankomaat (Hollanti)  
 nega : kieltää  
-nen feste : vuosijuhla  
-nen mes den : päivämäärä  
 nen : vuosi  
+nenofeste : vuosijuhla  
+nenomesoden : päivämäärä  
 nenufar : lumme  
 neon : neon  
 nepal : Nepal  

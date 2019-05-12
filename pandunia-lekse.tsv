@@ -287,6 +287,7 @@ ind:cawan.			cayowan	:	tea bowl		teekulho	misa na herbatę
 	dex	CZ	cehia	:	Czech Republic		Tšekki	Republika Czeska, Czechy								
 			ceka	:	check (to examine)	kontroli	tarkistaa (tsekata)	sprawdzić, sprawdzać, skontrolować								
 			celo'	:	cello	violonĉelo	sello	wiolonczela								
+zho:层 (céng). yue:層 (cang4). kor:층 (chŭng). vie:tầng.			ceng	:	layer (level, storey, floor, stratum)		kerros					层				
 			centi	:	centi- (per cent)	centono	sentti	centy-, procent, na sto, setna część								
 	made	Ce	cerium	:	cerium	cerio	cerium	cer								
 	dex	ME	cernagoria	:	Montenegro		Montenegro	Czarnogóra								
@@ -478,7 +479,7 @@ ara:"fāʾida". tur:fayda.			faide	:	use (utility, benefit, gain, advantage)	uti
 zho:发展 "fāzhǎn". vie:phát triển. kor:발전 "bajjeon".			fajan	:	development	disvolvi	kehitys	rozwój								
 eng:false. spa:por:falso. fra:faux. deu:falsch.			falsi	:	false (fake)		väärä (epätosi, vale-)	fałszywy, nieprawdziwy								
 eng:family. spa:familia. por:família. fra:famille.			famil	:	family	familio	perhe	rodzina								
-			famil nam	:	surname (family name)	familinomo	sukunimi	nazwisko, imię rodziny								
+			familonam	:	surname (family name)	familinomo	sukunimi	nazwisko, imię rodziny								
 eng:fun.			fan	:	fun (amusement)	amuzo	huvi (hauskuus)	zabawa, rozrywka								
 			fana	:	amuse (entertain)	amuzi	viihdyttää (huvittaa)	bawić, zabawiać								
 			fani	:	funny (amusing)	amuza	hauska (huvittava)	zabawny								
@@ -845,6 +846,7 @@ zho:爭 (zhēng). tur:ceng. fas:(jang). hin:जंग (jang). vie:tranh.			jeng	
 			jenger	:	warrior (fighter)		soturi (taistelija)	wojownik, bojownik								
 			jengi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny								
 zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.			jengoxute	:	martial art		kamppailulaji	sztuka walki								
+			jeni klas	:	caste		sääty (kasti)									
 zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:inju. rus:жемчуг (žemčug).			jenju'	:	pearl	perlo	helmi	perła								
 			jentil	:	kind (nice, gentle)	bonkora	kiltti	uprzejmy, miły								
 			jenu	:	be born	naski	syntyä	urodzić się, rodzić się								
@@ -1445,15 +1447,15 @@ hin:नदी (nadī). urd:(nadī). ben:নদী (nôdī). kan:mal:(nadi).			na
 ara:fas:(nafas). ind:napas. tur:nefes. hau:numfashi.			nafas	:	breath	spiro	hengitys (henkäys)	oddech								
 			nahun	:	nail (fingernail)		kynsi	paznokieć								
 	dex	NG	naijiria	:	Nigeria	Niĝerio	Nigeria	Nigeria								
-			nam	:	name	nomo	nimi	imię, nazwa								
-			nama	:	call (give name)		nimittää (kutsua)	nazwać, nazywać, wezwać, wzywać								
+hin:नाम (nām). fas:pnb:urd:(nām). tha:นาม (naam). ind:nama. deu:eng:name. jpn:名前 (namae). fra:nom.			nam	:	name	nomo	nimi	imię, nazwa								
 	dex	NA	namibia	:	Namibia	Namibio	Namibia	Namibia								
+			namisa	:	call (name)		nimittää (kutsua)	nazwać, nazywać, wezwać, wzywać								
 			namu	:	be called (be named)		olla nimeltään	być wezwanym, być wzywanym, być nazwanym, być nazywanym								
 ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (ananas).			nanas	:	pineapple	ananaso	ananas	ananans	piña							
 			nano	:	nano-		nano-	nano-								
 			nanometre	:	nanometer		nanometri	nanometr								
 			narake	:	hell		helvetti	piekło								
-			nas	:	people (folk)		kansa	ludzie (lud, ludność)								
+ara:(nās). + eng:fra:nasion. deu:Nazion. por:nação. spa:nación. pol:nacja. rus:нация (natsiya).  			nas	:	people (folk)		kansa	ludzie (lud, ludność)								
 			nasi	:	national		kansallinen	narodowy (ludowy)								
 			nasi socistia	:	national socialism		kansallissosialismi	narodowy socjalizm								
 			nasia	:	nation		kansakunta	naród, narodowość								
@@ -1463,13 +1465,12 @@ ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (a
 	dex	NR	nauru	:	Nauru		Nauru	Nauru								
 hin:नौ (nau). urd:(nau).			naw	:	nine (9)		yhdeksän	dziewięć (9)								
 			nawati	:	Nahuatl (Nahua)	naūatla	nahuatli	nahuatl								
-			ne	:	no	ne	ei	nie								
 	dex	AN	nederlandi antilia	:	Netherlands Antilles		Alankomaiden Antillit	Antyle Holenderskie								
 	dex	NL	nederlandia	:	Netherlands		Alankomaat (Hollanti)	Holandia (Królestwo Niderlandów)								
 spa:por:negar. eng:negate.			nega	:	refuse (deny, decline)		kieltää	odmówić (odrzucić)								
-			nen	:	year	jaro	vuosi	rok								
-			nen feste	:	anniversary		vuosijuhla	rocznica								
-zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).			nen mes den	:	date	dato	päivämäärä	data								
+jpn:年 (nen). zho:年 (nián). yue:年 (nin4). kor:년 (nyeon). vie:năm,niên.			nen	:	year	jaro	vuosi	rok								
+			nenofeste	:	anniversary		vuosijuhla	rocznica								
+zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).			nenomesoden	:	date	dato	päivämäärä	data								
 			nenufar	:	water lily (nenuphar)		lumme	lilia wodna, nenufar								
 	made	Ne	neon	:	neon	neono	neon	neon								
 	dex	NP	nepal	:	Nepal	Nepalo	Nepal	Nepal								
@@ -1479,7 +1480,7 @@ zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil
 			nesia	:	archipelago		saaristo	archipelag								
 eng: net. deu: Netz.			nete	:	net	reto	verkko	sieć								
 			netoloke	:	website		nettisivu									
-ukr:ні (ni). afr:nie. fra:spa:ni...ni.			ni	:	not	ne	ei	nie				不				
+ukr:ні (ni). afr:nie. fra:spa:ni...ni.			ni	:	not (no)	ne	ei	nie				不				
 	coverb		nica	:	under (go under)		alittaa (alla)	pod, poniżej; iść w dół, iść pod spód, iść na dno								
 ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže). 			nice	:	underside (underneath)		alapuoli	spód								
 			nici	:	lower		ala-	poniższy								

@@ -162,6 +162,7 @@ cante ← fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (c
 cate ← hin: छत (chat). ben: ছাদ (chad). tur:çatı. kyr:чатыр (čatyr).  
 cay ← zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).  
 cayowan ← ind:cawan.  
+ceng ← zho:层 (céng). yue:層 (cang4). kor:층 (chŭng). vie:tầng.  
 ci ← zho:此 (cǐ). ita:ci. fra:ci. epo:ĉi.  
 cini ← hin:चीनी (cīnī). tur:Çin. ara:(ṣiniy). spa:chino. eng:Chinese. tha:จีน (chin). zho:秦 (qín).  
 cirke ← ita:cerchio. fra:cercle. eng:circle. spa:círculo.  
@@ -547,10 +548,13 @@ naber ← ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. t
 naciste ← rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.  
 nade ← hin:नदी (nadī). urd:(nadī). ben:নদী (nôdī). kan:mal:(nadi).  
 nafas ← ara:fas:(nafas). ind:napas. tur:nefes. hau:numfashi.  
+nam ← hin:नाम (nām). fas:pnb:urd:(nām). tha:นาม (naam). ind:nama. deu:eng:name. jpn:名前 (namae). fra:nom.  
 nanas ← ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (ananas).  
+nas ← ara:(nās). + eng:fra:nasion. deu:Nazion. por:nação. spa:nación. pol:nacja. rus:нация (natsiya).    
 naw ← hin:नौ (nau). urd:(nau).  
 nega ← spa:por:negar. eng:negate.  
-nen mes den ← zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).  
+nen ← jpn:年 (nen). zho:年 (nián). yue:年 (nin4). kor:년 (nyeon). vie:năm,niên.  
+nenomesoden ← zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).  
 nete ← eng: net. deu: Netz.  
 ni ← ukr:ні (ni). afr:nie. fra:spa:ni...ni.  
 nice ← ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).   

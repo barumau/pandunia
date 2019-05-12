@@ -289,6 +289,7 @@ ce : this one
 cehia : Czech Republic  
 ceka : check (to examine)  
 celo' : cello  
+ceng : layer (level, storey, floor, stratum)  
 centi : centi- (per cent)  
 cerium : cerium  
 cernagoria : Montenegro  
@@ -482,8 +483,8 @@ faidi : useful (beneficial)
 fain : fine (delicate)  
 fajan : development  
 falsi : false (fake)  
-famil nam : surname (family name)  
 famil : family  
+familonam : surname (family name)  
 fan : fun (amusement)  
 fana : amuse (entertain)  
 fani : funny (amusing)  
@@ -854,6 +855,7 @@ jeng : fight (war)
 jenger : warrior (fighter)  
 jengi : military  
 jengoxute : martial art  
+jeni klas : caste  
 jenju' : pearl  
 jentil : kind (nice, gentle)  
 jenu : be born  
@@ -1459,8 +1461,8 @@ nafas : breath
 nahun : nail (fingernail)  
 naijiria : Nigeria  
 nam : name  
-nama : call (give name)  
 namibia : Namibia  
+namisa : call (name)  
 namu : be called (be named)  
 nanas : pineapple  
 nano : nano-  
@@ -1476,13 +1478,12 @@ natre : sodium
 nauru : Nauru  
 naw : nine (9)  
 nawati : Nahuatl (Nahua)  
-ne : no  
 nederlandi antilia : Netherlands Antilles  
 nederlandia : Netherlands  
 nega : refuse (deny, decline)  
-nen feste : anniversary  
-nen mes den : date  
 nen : year  
+nenofeste : anniversary  
+nenomesoden : date  
 nenufar : water lily (nenuphar)  
 neon : neon  
 nepal : Nepal  
@@ -1492,7 +1493,7 @@ nes : island
 nesia : archipelago  
 nete : net  
 netoloke : website  
-ni : not  
+ni : not (no)  
 nica : under (go under)  
 nice : underside (underneath)  
 nici : lower  

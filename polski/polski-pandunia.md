@@ -279,7 +279,7 @@ Dania : dania
 danie : tas  
 darwinista : darwiniste  
 darwinizm : darwinistia  
-data : nen mes den  
+data : nenomesoden  
 dać, dawać : dona  
 debatować, prowadzić dyskurs : lona  
 decy-, dziesiąta część : deci  
@@ -1107,15 +1107,14 @@ Nauru : nauru
 nawet : hati  
 nazista : naciste  
 nazizm : nacistia  
-nazwać, nazywać, wezwać, wzywać : nama  
-nazwisko, imię rodziny : famil nam  
+nazwać, nazywać, wezwać, wzywać : namisa  
+nazwisko, imię rodziny : familonam  
 naładować, załadować, obładować, ładować : lada  
 neon : neon  
 Nepal : nepal  
 Neptun : neptun  
 neptun : neptunium  
 nic, żadna rzecz : nol xey  
-nie : ne  
 nie : ni  
 nie ruszać się : estasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
@@ -1627,7 +1626,7 @@ rezerwacja : buking
 rezult, wynik : rezulte  
 robak : werme  
 robot : robote  
-rocznica : nen feste  
+rocznica : nenofeste  
 rod : rodium  
 rodak, ziomek, krajan : samodexi  
 rodzaj, typ, styl : yang  
