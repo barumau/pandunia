@@ -743,6 +743,7 @@ malliberejo : prizonia
 malliberigi : prizona  
 mallonga : korti  
 mallongigi : korta  
+malmulte : xaw
 malnova : puran  
 malplej : minim  
 malplena : hali  
