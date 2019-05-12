@@ -332,19 +332,19 @@ mandarín: 的 (de).</small>
 
 ### nam <small>nombre</small>
 
-**ti nam si ke?**
+**ti nam ke?**
 ¿Cuál es tu nombre?
 
-**mi nam si tomas.**
+**mi nam tomas.**
 Mi nombre es Tomás.
 
-**li nam si ke?**
+**li nam ke?**
 ¿Cómo se llama (el/ella/eso)?
 
-**li nam si sara.**
+**li nam sara.**
 Ella se llama Sara.
 
-**me namu tomas.**
+**me nama tomas.**
 Yo me llamo Tomás.
 
 <small>Etimología. **nam** viene del hindi: नाम  "nām", farsi: نام‏‎

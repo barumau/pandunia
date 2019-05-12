@@ -344,16 +344,16 @@ Je suis l’ami de Sara.
 
 ### nam <small>nom</small>
 
-**ti nam si ke?**
+**ti nam ke?**
 Quel est ton nom?
 
-**mi nam si tomas.**
+**mi nam tomas.**
 Mon nom est Thomas.
 
-**li nam si ke?**
+**li nam ke?**
 Quel est son nom ?
 
-**li nam si sara.**
+**li nam sara.**
 Son nom est Sara.
 
 

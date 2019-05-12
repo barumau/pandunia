@@ -335,20 +335,17 @@ Mandarin: 的 (de).</small>
 
 ### nam <small>name</small>
 
-**ti nam si ke?**
+**ti nam ke?**
 What's your name?
 
-**mi nam si tomas.**
+**mi nam tomas.**
 My name is Thomas.
 
-**li nam si ke?**
+**li nam ke?**
 What is his/her name?
 
-**li nam si sara.**
+**li nam sara.**
 Her name is Sara.
-
-**me namu tomas.**
-I'm called Thomas.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
 "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
@@ -541,7 +538,7 @@ Sorry, I don't understand.
 **pardon! ce ke?**
 Excuse me, what's this?
 
-**pardon. te namu ke?**
+**pardon. ti nam ke?**
 Excuse me, what's your name?
 
 

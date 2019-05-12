@@ -334,19 +334,19 @@ pochodzi z języków: mandaryńskiego: 的 "de", pundżabskiego: ਦਾ "dā".</
 
 ### nam <small>name</small>
 
-**ti nam si ke?**
+**ti nam ke?**
 Jak się nazywasz? (Dosłownie: Czym jest twoje imię?)
 
-**mi nam si tomas.**
+**mi nam tomas.**
 Nazywam się Tomasz.
 
-**li nam si ke?**
+**li nam ke?**
 Jak ona jest nazywana?
 
-**li nam si sara.**
+**li nam sara.**
 Ona jest nazywana Sarą.
 
-**me namu tomas.**
+**me nama tomas.**
 Ja jestem nazywany Tomaszem.
 
 <small>Etymologia. **nam**

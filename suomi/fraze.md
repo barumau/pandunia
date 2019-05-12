@@ -349,10 +349,10 @@ lähteitä: yleiskiina: 的 (de), pandžabi: ਦਾ "dā".</small>
 
 ### nam <small>nimi</small>
 
-**ti nam si ke?**
+**ti nam ke?**
 Mikä sinun nimesi on?
 
-**mi nam si tomas.**
+**mi nam tomas.**
 Minun nimeni on Tomas.
 
 **li nam ke?**
@@ -360,9 +360,6 @@ Mikä hänen nimensä on?
 
 **li nam sara.**
 Hänen nimensä on Sara.
-
-**me namu tomas.**
-Minua nimitetään Tomakseksi.
 
 <small>Sanan **nam**
 lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām",
