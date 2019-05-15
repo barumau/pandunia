@@ -28,11 +28,6 @@ Niektóre zauważalne cechy Panduni:
 - słownik [polski-Pandunia](polski-pandunia.md)-->
 - słownik [Pandunia-polski](pandunia-polski.md)
 
-<!--## Niefleksyjny dialekt
-
-- [Niefleksyjna Pandunia](simpli_pandunia.html)
-- [Zdania w Niefleksyjnej Panduni](simpli_pandunia_da_fraze.md)--->
-
 ## Artykuły
 
 - [Pandunia - nowy międzynarodowy język](dunia_baxe.md)
@@ -47,9 +42,9 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 
 - Linki i dyskusja na [Reddicie](https://www.reddit.com/r/pandunia/)
 - [Przyjaciele Panduni](http://www.facebook.com/groups/pandunia) na Facebooku
-- kanały Telegram: [wielojęzyczny](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [w Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- kanały Telegram: [wielojęzyczny](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), [w Esperanto](https://pandunia.telegramo.org/) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Znajdź innych użytkowników Panduni w aplikacji [Amikumu](https://amikumu.com/)!
-- [kanały Discord](https://discord.gg/uk36mn8)
+- [kanały Discord](https://discord.gg/FWavWeG)
 - Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!
 

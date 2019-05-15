@@ -39,10 +39,10 @@ Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
 - Debatejo en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Pandunia Fejsbuk-grupo](http://www.facebook.com/groups/pandunia)
 - [Telegram-kanalo en
-  Esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg)
+  Esperanto](https://pandunia.telegramo.org/)
 - [Telegram-kanalo en pandunio](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - [Plur-lingva Telegram-kanalo](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-- [Kanaloj en *Discord*](https://discord.gg/uk36mn8)
+- [Kanaloj en *Discord*](https://discord.gg/FWavWeG)
 - [Telefon-programo Amikumu](https://amikumu.com/) por trovi parolantojn
 - Kanalo QQ: 717549404
 - [Twitter](https://twitter.com/pandunia_).

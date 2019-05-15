@@ -54,9 +54,9 @@ Puedes encontrarlos en varios lugares de internet:
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
 - Salas de chat en Telegram:
     * [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), 
-    * [en esperanto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg) y 
+    * [en esperanto](https://pandunia.telegramo.org/) y 
     * [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- [Chat de voz en Discord](https://discord.gg/uk36mn8)
+- [Chat de voz en Discord](https://discord.gg/FWavWeG)
 - Canal QQ: 717549404
 - Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
 - Puedes apuntarte a la [lista de correo de pandunia (en inglés o en

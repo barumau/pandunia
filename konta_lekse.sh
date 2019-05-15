@@ -17,6 +17,18 @@ konta_bax() {
    cat temp/lekse.txt | grep -c "$1:" >> temp/stats.txt
 }
 
+konta_baxi_aria()
+{
+   echo "europi " >> temp/stats.txt
+   cat temp/lekse.txt | grep -E "(eng:|fra:|spa:|por:|deu:|rus:)" -c >> temp/stats.txt
+   echo "barti " >> temp/stats.txt
+   cat temp/lekse.txt | grep -E "(hin:|urd:|ben:|tam:|tel:|kan:)" -c >> temp/stats.txt
+   echo "cini " >> temp/stats.txt
+   cat temp/lekse.txt | grep -E "(zho:|yue:|wuu:)" -c >> temp/stats.txt
+   echo "afriki " >> temp/stats.txt
+   cat temp/lekse.txt | grep -E "(swa:|hau:|yor:|ibo:|amh:|orm:)" -c >> temp/stats.txt
+}
+
 fata_table() {
    #Add horizontal bar between nam i num
    sed 's/ / \| /g' -i temp/stats.txt
@@ -33,40 +45,40 @@ rm temp/stats.txt
 echo "pan " >> temp/stats.txt
 cat temp/lekse.txt | grep -c ":" >> temp/stats.txt
 
-konta_bax eng engli
-konta_bax deu doici
-konta_bax fra fransi
-konta_bax spa espani
-konta_bax por portugali
-konta_bax rus rusi
-konta_bax pol polski
+konta_bax eng English
+konta_bax deu German
+konta_bax fra French
+konta_bax spa Spanish
+konta_bax por Portuguese
+konta_bax rus Russian
+konta_bax pol Polish
 
-konta_bax hin hindi
-konta_bax urd urdi
-konta_bax ben bangli
-konta_bax pnb panjabi
-konta_bax fas farsi
+konta_bax hin Hindi
+konta_bax urd Urdu
+konta_bax ben Bengali
+konta_bax pnb Punjabi
+konta_bax fas Farsi
 
-konta_bax tur turki
+konta_bax tur Turkish
 
-konta_bax zho cini
-konta_bax jpn niponi
-konta_bax kor hangugi
-konta_bax vie wieti
-konta_bax tha tayi
+konta_bax zho Chinese
+konta_bax jpn Japanese
+konta_bax kor Korean
+konta_bax vie Vietnamese
+konta_bax tha Thai
 
-konta_bax ind indonesi
-konta_bax tgl filipini
+konta_bax ind Indonesian
+konta_bax tgl Filipino
 
-konta_bax ara arabi
-konta_bax amh amari
-konta_bax orm oromi
-konta_bax hau hausi
+konta_bax ara Arabic
+konta_bax amh Amharic
+konta_bax orm Oromo
+konta_bax hau Hausa
 
-konta_bax yor yorubi
-konta_bax ibo "ibo'i"
-konta_bax swa swahili
-konta_bax zul "zulu'i"
+konta_bax yor Yoruba
+konta_bax ibo Igbo
+konta_bax swa Swahili
+konta_bax zul Zulu
 
 #kina nam i num pa sam linye
 perl -pi -e 's/ \n/ /' temp/stats.txt

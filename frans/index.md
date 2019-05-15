@@ -39,12 +39,12 @@ Quelques traits remarquables du pandunia :
 De nombreuses personnes sont déjà intéressées par le pandunia et certaines l'utilisent déjà pour communiquer :
 - Salons Telegram (communauté la plus active) :
   - [multilingue](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-  - [en espéranto](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg)
+  - [en espéranto](https://pandunia.telegramo.org/)
   - [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
 - Sujet "pandunia" sur [L'Atelier](http://www.ideolangues.org/t727-pandunia)
 - Liens et discussions sur [Reddit](https://www.reddit.com/r/pandunia/)
 - Les amis du Pandunia sur [Facebook](http://www.facebook.com/groups/pandunia)
-- Salon sur [Discord](https://discord.gg/uk36mn8)
+- Salon sur [Discord](https://discord.gg/FWavWeG)
 - QQ channel: 717549404
 - Et vous pouvez suivre l'actualité du pandunia sur [Twitter](https://twitter.com/pandunia_). Diffusez l’info !
 

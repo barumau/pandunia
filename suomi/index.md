@@ -40,7 +40,7 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 - Löydä muita pandunian puhujia [Amikumu](https://amikumu.com/)-sovelluksella!
 - Panduniasta voi puhua suomeksi Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä ja Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet)-ryhmässä
 - Facebookin [Pandunia](http://www.facebook.com/groups/pandunia)-ryhmä toimii englanniksi
-- Telegramissa on kanavat [kokonaan panduniaksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://telegram.me/joinchat/APGe_EEjdrXFNPU02vKWSg)
+- Telegramissa on kanavat [kokonaan panduniaksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://pandunia.telegramo.org/)
 - Pandunialle on myös oma [Reddit](https://www.reddit.com/r/pandunia/).
 - Viimeisenä ja vähäisimpänä on hiljainen [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia), johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
 
