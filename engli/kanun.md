@@ -955,13 +955,17 @@ a phrase that consists of only a subject and a verb, it can be said
 that **-a** marks an active verb and **-u** marks a passive verb. So
 **loga** means _to speak_ and **logu** means _to be spoken_.
 
-1. If the root is an action, then its verbal form will mean "to do the
+1. If the root is an action, then its verb form will mean "to do the
    action".  For example from **wide** = "a look" we get **wida** =
    "to look".
 2. If the root is a description, like **now-** (**nowi** = new), then
-   its verbal form will mean "to turn into that quality". For example
+   its verb form will mean "to turn into that quality". For example
    from **nowi** = "new" we get **nowa** = "to make new" or "to
    renew".
+3. If the root is a thing, then its verb form will mean "to apply it
+   to". For example from **hamar** = "hammer" we get **hamara** = "to
+   hammer".
+
 
 #### 11.1.3. Deriving nouns
 
@@ -1180,60 +1184,41 @@ elevated language.
 
 ### 12.2. Relations between the endings
 
-A root is an idea that has many faces: a thing, a state, an action and
-a transition.
+A root is an idea that has many faces: a thing, a state and an action.
 
-- E-word names a thing whose defining characteristic (in the given
-  context) is the root.
-- I-word describes another word by the root. The thing named by the
-  other word is in the state of the root.
-- A-word is an action that produces a thing that is characterized by
-  the root.  In other words, A-word produces the E-word.
-- U-word is a transition that leads to the state of the root.
+- The ending -e converts the idea into a thing.
+  For example **nile** means blue color.
+- The ending -i converts the idea into a description. The resulting
+  modifier describes another idea with the modifying idea.
+  For example **nili dom** means a blue house.
+- The ending -a converts the idea into an action. The resulting verb
+  is about applying the idea to an object.
+  For example **nila dom** means _to apply blue on the house_ i.e.
+  _to make the house blue_.
+- The ending -u creates an action just like -a. The only difference
+  is that the word order is different.
 
-It makes always sense to apply the following formulas for a root that
-is an action.
+All endings can be applied on all ideas in the same way.
 
-1. Description: -i -e
-    - **kitabi kitabe.** - Written writing.
-    - **dansi danse.** - Danced dance.
-    - **soni sone.** - Sleepy sleep.
-    - **rangi range.** - Colorful color.
-2. Production: -a -e
-    - **kitaba kitabe.** - To write a writing.
-    - **dansa danse.** - To dance a dance.
-    - **sona sone.** - To sleep a sleep.
-    - **ranga range.** - To color a color.
-3. Transition: -e -u
-    - **kitabe kitabu.** - Writing gets written.
-    - **danse dansu.** - Dance gets danced.
-    - **sone sonu.** - Sleep gets slept.
-    - **range rangu** - Color gets colored.
+Here are a few examples of different types of ideas.
 
-They are not very interesting things to be said, but they are true.
-Normally production and transition formulas are applied to other roots
-that belong to the same category as the original word. For example, we
-write different kinds of writings, including letters, books and
-novels, and we dance different kinds of dances, including tango, samba
-and polka.
+- concrete action
+    - **kitabe** a writing
+    - **kitabi** written, textual
+    - **kitaba** to write
+- abstract action
+    - **fikre** a thought
+    - **fikri** thinking
+    - **fikra** to think
+- description
+    - **longe** length
+    - **longi** long
+    - **longa** to make long, to lengthen
+- tool
+    - **hamar** a hammer
+    - **hamari** "hammery", hammerlike
+    - **hamara** to hammer, to apply hammer on sth
 
-The same formulas can be applied to roots that describe a state.
-
-1. Description: -i -e
-    - **nowi nowe.** - New news.
-    - **longi longe** - Long length.
-2. Production: -a -e
-    - **nowa nowe.** - To renew the new.
-    - **longa longe.** - To lengthen the length.
-3. Transition: -e -u
-    - **nowe nowu.** - The new get renewed.
-    - **longe longu.** - The length gets lengthened.
-
-Description formula still gives meaningful (though obvious) phrases.
-Production and transition formulas work better for gradual
-descriptions (like "length") than for binary descriptions (like
-"new"). When something is already new, it can't be made new. But when
-something is already long, it can be made even longer.
 
 ### 12.3. Structure Words
 
