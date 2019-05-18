@@ -443,6 +443,7 @@ hamako : hamake
 hana : cini  
 harmonia : harmoni  
 harmonio : harmonia  
+haro : kex  
 hasio : hasium  
 havanto : malker  
 havi (teni) : tena  

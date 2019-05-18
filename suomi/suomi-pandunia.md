@@ -343,7 +343,7 @@ harmoninen : harmoni
 harrastus : hobe  
 harso : gaze  
 hasium : hasium  
-haureus : zine  
+haureus (uskottomuus) : zine  
 hauska (huvittava) : fani  
 hauta : gabre  
 hautausmaa : gabristan  
@@ -387,6 +387,8 @@ hirviö : monster
 historia (aikakirjat) : histor  
 historia (oppiaine) : historia  
 historioitsija : historer  
+hius (karva, tukka, hiukset) : kex  
+hiuspanta : kexobende  
 hmm : hem  
 hockey (jääkiekko) : hoke  
 hoitaa (lääkitä) : medika  
@@ -612,6 +614,7 @@ kameli : gamel
 kamera : kamera  
 Kamerun : kamerun  
 kammo (fobia) : fobia  
+kampa : kange  
 kamppailulaji : jengoxute  
 kana : koke  
 Kanada : kanadia  
@@ -710,6 +713,8 @@ kiehua : bulu
 kiekko (levy) : diske  
 kieli (kommunikaatio) : bax  
 kielitiede (lingvistiikka) : baxolojia  
+kielletty : haram  
+kieltää : harama  
 kieltää : nega  
 kiihkeä (väkevä, voimakas, vahva, kova) : tezi  
 Kiina : jungogia  
@@ -1740,6 +1745,7 @@ salaatti : salade
 salainen : sir  
 sallia (antaa lupa) : permisa  
 sallia : tolera  
+sallittu (hyväksytty) : halal  
 Salomon-saaret : solomon nesia  
 sama : sam  
 samanmaalainen (maanmies) : samodexi  
@@ -1873,7 +1879,6 @@ suklaapatukka : cokobaton
 sukunimi : familonam  
 sukupuoli : jinse  
 sukupuoli- : jinsi  
-sulaa : mayu  
 sulka : puru  
 sulkea vetoketjulla : zipa  
 summa : sum  

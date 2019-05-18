@@ -1268,7 +1268,6 @@ maxor : większościowy, wiodący, główny
 maxoria : większość  
 mayan : Maya  
 mayote : Majotta  
-mayu : stopić się, topić się, stawać się płynnym  
 me : ja, mnie  
 mece : konkurować, rywalizować; odbyć mecz, odbywać mecz  
 mece : mecz, rywalizacja  

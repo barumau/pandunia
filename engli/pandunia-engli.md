@@ -691,6 +691,7 @@ haitia : Haiti
 hake : right (justification, privilege)  
 hakim : judgment (sentence)  
 hakimer : judge (referee)  
+halal : permissible (allowed, halal)  
 hali : empty  
 halif : caliph  
 halifia : caliphate  
@@ -704,6 +705,8 @@ hani : manual
 haos : chaos (disorder, turmoil)  
 haraba : ruin (destroy, devastate, demolish)  
 harabi : bad (ruined, destroyed)  
+haram : forbidden (illicit, haram, taboo)  
+harama : forbid (ban, disallow)  
 harfe : letter (character, written symbol)  
 harmoni : harmonius  
 harmonia : harmony  
@@ -928,6 +931,7 @@ kan : workshop (place for...)
 kanadia : Canada  
 kanal : channel  
 kande : candy (sweets)  
+kange : comb  
 kangur : cangaroo  
 kanjar : dagger  
 kannadi : Kannada  
@@ -975,6 +979,8 @@ kenar : border (edge, rim, fringe)
 kenia : Kenya  
 kerube : cherub  
 ketel : kettle  
+kex : hair  
+kexobende : hairband (headband)  
 keyman nesia : Cayman Islands  
 ki ren : who?  
 ki xey : what thing?  
@@ -1295,7 +1301,6 @@ maxoria : majority
 mayan : Maya  
 maye : ant  
 mayote : Mayotte  
-mayu : melt (get molten)  
 me : I (me)  
 mece : compete (have a match)  
 mece : match (contest)  

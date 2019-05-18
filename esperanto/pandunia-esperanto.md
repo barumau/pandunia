@@ -722,6 +722,7 @@ keci : ĝentila
 keke : kuko  
 kel : sporto  
 kenar : rando (orlo)  
+kex : haro  
 ki ren : kiu?  
 ki xey : kio?  
 ki yang : kiel?  

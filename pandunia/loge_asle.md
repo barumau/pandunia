@@ -135,19 +135,18 @@ bon ← fra: bon. Italian: buono. spa: bueno.
 bote ← spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.  
 botol ← eng:bottle. ind:botol.  
 boton ← eng:button. spa:botón.  
-brox ← eng:brush.  
+brox ← eng:brush. fra:brosse. ben:ব্রাশ (braś). hin:ब्रश (braś). urd:(braś). hau:swa:burashi. jpn:ブラシ (burashi). kor:브러시 (beureosi). fas:(boros). mal:berus.  
 bubul ← eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).  
-buda ← hin:बुद्धि "buddhi".  
 bude ← hin:बुद्ध (buddh).  
-bude ← scr:बोधि (bodhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).  
+bude ← scr:बोधि (bodhi). hin:बुद्धि (buddhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).  
 bufon ← spa:bufón. eng:buffoon. fra:bouffon.  
 buge ← eng:bugle. ara:(būq). fas:(buq). kat:ბუკი (buḳi).  
-buke ← eng: book. deu: Buch. ind: buku. swa: buku.  
+buke ← eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.  
 buking ← eng:booking. deu:Buchung. hin:"buking".  
 bulbul ← ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).  
 bulu ← eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उबालना (ubālnā).  
 bunduke ← ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.  
-bus ← deu:fra:eng:bus  
+bus ← deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).  
 buste ← fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.  
 buton ← eng:button. hin:बटन "baṭan". ben:বোতাম "botam". jpn:ボタン "botan". kor:버튼 "beoteun".  
 buyu' ← swa:mbuyu. wol:buy. sna:muuyu. zul:isimuhu.  
@@ -197,6 +196,7 @@ destin ← eng:destination, destiny. fra:destin. spa:por:destino.
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
 din ← ara: /dīn/. tur: din. swa: dini. hau: addini.  
+ding ← zho:钉 (dīng). yue:釘 (deng1). vie:đinh.  
 dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).  
 dokum ← eng:fra:document. rus:документ (dokument).  
 dom ← zho:家 "jiă".  
@@ -304,12 +304,14 @@ hafiza ← ara:(ḥafiẓa). fas:urd:(hāfiz).
 haime ← ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).   
 hake ← ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.  
 hakim ← ara:"qāḍin". hau:alƙali. fas:"qāzi". eng:qadi. swa:kadhi.  
+halal ← ara:(ḥalāl). fas:urd:(halāl). eng:spa:fra:por:ind:halal. tur:helal. rus:халяльный (xaljalʹniy). hin:हलाल (halāl). swa:halali. kor:할랄 (hallal).  
 hali ← ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). ara:(xāliy). jpn:空 (kara).  
 halow ← eng:hello,hullo. deu:hallo. zho:哈啰 (hāluō).  
 hamar ← eng:hammer. deu:Hammer. jpn:ハンマー (hanmā). hau:hamā̀.  
 hamir ← ara:(xamīra). hin:ख़मीर (xamīr). tur:hamur. fas:(moxammer). + kor:효모 (hyomo).  
 hande ← hau:hannū. eng:hand. deu:Hand. hin:हाथ (hāth).  
 harabi ← ara:fas:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).  
+haram ← ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:хара́мный (xaramniy).  
 harfe ← ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
 has ← ind: khas.  
 hatar ← ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.  
@@ -386,6 +388,7 @@ kamis ← spa:por:camisa. ara:(qamīṣ). hin:क़मीज़ (kāmīz). ind:
 kamote ← spa:camote. tgl:kamote.  
 kan ← jpn:(kan). vie:quán. zho:馆 (guǎn). + hindi:ख़ाना (khānā). fas:(xāne). tur:hane.  
 kande ← eng:candy. hin:कैंडी (kaiṇḍī). jpn:キャンデー (ja) (kyandē). tgl:kendi.  
+kange ← hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (kaṅgvā). pnb:ਕੰਘਾ (kaṅghā).  
 kanjar ← fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).  
 kanon ← eng:cannon. spa:cañón. zho:加农 "jiānóng". jpn:"kyanon". kor:캐넌 "kaeneon".  
 kanu' ← eng:canoe. deu:Kanu. tur:kano. spa:canoa. rus:каноэ (kanoe). jpn:カヌー (kanū).  
@@ -409,6 +412,7 @@ keke ← swa:keki. jpn:ケーキ "kēki". eng:cake. ara:"kaʿka". tur:kek. hin:�
 kel ← hin:खेल "khel". ben:খেলা "khela". tha:กีฬา "kīlā". khm:កីឡា "keila".  
 kelele ← swa:kon:makelele.  
 kenar ← tur:kenar. hin:किनारा "kinārā". urd:"kanārā".  
+kex ← jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).  
 kire ← ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāyā". fas:"kerāya". spa:alquiler.  
 kitabe ← ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).  
 kiwe ← eng:kiwi.  
@@ -448,6 +452,7 @@ kul ← eng:cool.
 kupe ← fra:coupe. tur:kupa. ara:"kūb". spa:copa. eng:cup. hin:कप "kap". jpn:kappu, koppu.  
 kupol ← fas:(koppe). ara:(qubba). tur:kubbe. ind:kubah. rus:купол (kupol). spa:cúpula. deu:Kuppel. cze:kupole.  
 kurbe ← fra:courbe spa:por:curva. eng:curve. eus:kurba.  
+kurse ← ara:(kursiy). hin:कुरसी (kursī). urd:(kursī). pnb:ਕੁਰਸੀ (kursī). tel:(kurcī). ind:som:kursi. fas:(korsi).  
 ##l  
 labe ← fas:urd:(lab). hin:लब (lab). uzb:lab. tgl:labi. spa:labio. por:lábio.  
 laje ← zho:垃圾 (lājī).  
@@ -850,8 +855,8 @@ yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus
 yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
 ##z  
 zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).  
-zalim ← tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.  
-zaman ← tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:  
+zalim ← ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.  
+zaman ← tur:zaman. ind:jaman. swa:zamani. ara:(zaman). fas:(zamān).  
 zar ← ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).  
 zay ← zho:在 (zài). jpn:在 (zai).  
 ze ← zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.  
@@ -859,6 +864,7 @@ zem ← slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn
 zeze ← tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.  
 ziba ← swa:-ziba.  
 zikur ← ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).  
+zine ← ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).  
 ziran ← ben:জিরা "zīra". hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. fas:(zire). zho:孜然 (zīrán).  
 ziza ← zho:zizi eng:sizzle  
 zon ← ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona).   

@@ -65,6 +65,7 @@ ceng : 层
 cini : 汉族  
 ##d  
 destin : 目的地 (命運)  
+ding : 钉子   
 dom : 房子  
 ##e  
 ##f  

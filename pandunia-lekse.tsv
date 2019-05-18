@@ -237,27 +237,27 @@ eng:button. spa:botón.			boton	:	button	butono	nappi	guzik
 	dex	BR	brazilia	:	Brazil	Brazilo	Brasilia	Brazyla								
 	dex	GB	britania	:	United Kingdom		Iso-Britannia (Yhdistyneet Kuningaskunnat)	Zjednoczone Królestwo								
 	made	Br	brom	:	bromine	bromo	bromi	brom								
-eng:brush.			brox	:	brush	broso	harja	szczotka								
+eng:brush. fra:brosse. ben:ব্রাশ (braś). hin:ब्रश (braś). urd:(braś). hau:swa:burashi. jpn:ブラシ (burashi). kor:브러시 (beureosi). fas:(boros). mal:berus.			brox	:	brush	broso	harja	szczotka								
 	dex	BN	bruney	:	Brunei Darussalam		Brunei	Brunei Darussalam								
 eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).			bubul	:	bubble	bobelo	kupla	bańka								
-hin:बुद्धि "buddhi".			buda	:	realize	kompreni	ymmärtää (oivaltaa)	uświadomić sobie, zdać sobie sprawę, pojąć, pojmować								
+			buda	:	realize	kompreni	ymmärtää (oivaltaa)	uświadomić sobie, zdać sobie sprawę, pojąć, pojmować								
 			budan	:	Mercury	Merkuro	Merkurius	Merkury								
 hin:बुद्ध (buddh).			bude	:	Buddha		Buddha	Budda								
-scr:बोधि (bodhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).			bude	:	realization (awareness, enlightenment, bodhi)	kompreno	ymmärrys (taju, oivallus)	uświadomienie, świadomość; oświecenie, bodhi								
+scr:बोधि (bodhi). hin:बुद्धि (buddhi). jpn:菩提 (bodai). zho:菩提 (pútí). mon:бодь (bodʹ). kor:보리 (bori). tha:โพธิ (potí).			bude	:	realization (awareness, enlightenment, bodhi)	kompreno	ymmärrys (taju, oivallus)	uświadomienie, świadomość; oświecenie, bodhi								
 			budi	:	aware (enlightened)	konscia	valaistunut	świadomy; oświecony								
 			budiste	:	Buddhist	budhisto	buddhalainen	buddysta								
 			budistia	:	Buddhism	budhismo	buddhalaisuus (buddhismi)	Buddyzm								
 spa:bufón. eng:buffoon. fra:bouffon.			bufon	:	fool (buffoon)	pajaco	hölmö (narri)	głupiec, bufon								
 eng:bugle. ara:(būq). fas:(buq). kat:ბუკი (buḳi).			buge	:	bugle (horn instrument)		torvi (torvisoitin)	róg								
 			bujete	:	budget	buĝeto	budjetti	budżet								
-eng: book. deu: Buch. ind: buku. swa: buku.			buke	:	book	libro	kirja	książka	libro	livro	livre	书	книга	पुस्तक (किताब)	buku (pustaka, kitab)	kitap
+eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.			buke	:	book	libro	kirja	książka	libro	livro	livre	书	книга	पुस्तक (किताब)	buku (pustaka, kitab)	kitap
 eng:booking. deu:Buchung. hin:"buking".			buking	:	booking (reservation)	rezervo	varaus (ennakkovaraus)	rezerwacja								
 			bula	:	boil (cook)	boligi	keittää (kiehuttaa)	zapomnieć, zapominać								
 ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).			bulbul	:	nightingale	najtingalo	satakieli	słowik								
 eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उबालना (ubālnā).			bulu	:	boil (be boiled)	boli	kiehua	ugotować się, gotować się								
 ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.			bunduke	:	gun (handheld firearm)	fusilo	pyssy	pistolet, strzelba, ręczna broń palna								
 	dex	BF	burkinia	:	Burkina Faso		Burkina Faso	Burkina Faso								
-deu:fra:eng:bus			bus	:	bus	buso	linja-auto (bussi)	autobus, autokar								
+deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).			bus	:	bus	buso	linja-auto (bussi)	autobus, autokar								
 fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.			buste	:	bust (bosom)		povi	biust								
 	dex	BT	butan	:	Bhutan		Bhutan	Bhutan								
 eng:button. hin:बटन "baṭan". ben:বোতাম "botam". jpn:ボタン "botan". kor:버튼 "beoteun".			buton	:	key (push-button, switch)	klavo	nappi (näppäin, kytkin)	klawisz, przycisk, przełącznik								
@@ -382,7 +382,7 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dewolojia	:	theology	teologio	teologia	teologia								
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia								
 ara: /dīn/. tur: din. swa: dini. hau: addini.			din	:	religion (worship)	religio	uskonto	religia, wyznanie								
-			ding	:	nail (spike)	najlo	naula (piikki)	kolec								
+zho:钉 (dīng). yue:釘 (deng1). vie:đinh.			ding	:	nail (spike)	najlo	naula (piikki)	kolec				钉子 				
 			dinogur	:	priest (cleric)	pastro	pappi	ksiądz, kleryk, kaznodzieja								
 			diske	:	disc (disk)	disko	kiekko (levy)	dysk								
 	made	Dy	disprosium	:	dysprosium	disprozio	dysprosium	dysproz								
@@ -1099,7 +1099,7 @@ fas:(koppe). ara:(qubba). tur:kubbe. ind:kubah. rus:купол (kupol). spa:cúp
 fra:courbe spa:por:curva. eng:curve. eus:kurba.			kurbe	:	curve (bend)	kurbo	mutka (kurvi)	wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać								
 			kurbi	:	curvy (curved)		mutkikas	zakrzywiony								
 	made	Cm	kurium	:	curium	kuriumo	curium	kiur								
-			kurse	:	chair	seĝo	tuoli	kszesło, fotel								
+ara:(kursiy). hin:कुरसी (kursī). urd:(kursī). pnb:ਕੁਰਸੀ (kursī). tel:(kurcī). ind:som:kursi. fas:(korsi).			kurse	:	chair	seĝo	tuoli	kszesło, fotel								
 			kusen	:	cushion (pillow)		tyyny	poduszka								
 	dex	KW	kuwaitia	:	Kuwait		Kuwait	Kuwejt								
 fas:urd:(lab). hin:लब (lab). uzb:lab. tgl:labi. spa:labio. por:lábio.			labe	:	lip	lipo	huuli	warga								
@@ -2380,8 +2380,8 @@ rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (y
 	made	Y	yutrium	:	yttrium	itrio	yttrium	itr								
 			zafran	:	saffron	safrano	sahrami	szafran					шафран			
 ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).			zaitun	:	olive	olivo	oliivi	oliwka								
-tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.			zalim	:	mean (cruel)		ilkeä (julma)	złośliwy, okrutny								
-tur:zaman. ind:jaman. swa:zamani. ara: hin:urd:			zaman	:	time (moment)		aika (hetki, kotva)	czas, moment					период (эпоха) 			
+ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.			zalim	:	mean (cruel)		ilkeä (julma)	złośliwy, okrutny								
+tur:zaman. ind:jaman. swa:zamani. ara:(zaman). fas:(zamān).			zaman	:	time (moment)		aika (hetki, kotva)	czas, moment					период (эпоха) 			
 	dex	ZM	zambia	:	Zambia	Zambio	Sambia	Zambia					Замбия			
 ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).			zar	:	hazard (chance)	hazardo	sattuma (onni)	niebezpieczeństwo, ryzyko, szansa								
 			zardux	:	Zoroaster	Zoroastro	Zarathustra	Zaratusztra			Zoroastre		Зороастр			
@@ -2403,7 +2403,7 @@ swa:-ziba.			ziba	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać
 			zigzage	:	zigzag		siksakki	zygzag								
 ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).			zikur	:	ziggurat		zikkurat	ziggurat								
 	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe					Зимбабве			
-			zine	:	adultery (infidelity)	malfideleco	haureus	zdrada małżeńska, cudzołóstwo								
+ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).			zine	:	adultery (infidelity)	malfideleco	haureus (uskottomuus)	zdrada małżeńska, cudzołóstwo								
 	made	Zn	zinke	:	zinc	zinko	sinkki	cynk					цинк			
 			zipa	:	zip up		sulkea vetoketjulla	zamknąć zamkiem błyskawicznym								
 			ziper	:	zipper		vetoketju	zamek błyskawiczny								
@@ -2415,3 +2415,9 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zulu'	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:хара́мный (xaramniy).			haram	:	forbidden (illicit, haram, taboo)		kielletty									
+			harama	:	forbid (ban, disallow)		kieltää									
+ara:(ḥalāl). fas:urd:(halāl). eng:spa:fra:por:ind:halal. tur:helal. rus:халяльный (xaljalʹniy). hin:हलाल (halāl). swa:halali. kor:할랄 (hallal).			halal	:	permissible (allowed, halal)		sallittu (hyväksytty)									
+hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (kaṅgvā). pnb:ਕੰਘਾ (kaṅghā).			kange	:	comb		kampa									
+jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).			kex	:	hair	haro	hius (karva, tukka, hiukset)									
+			kexobende	:	hairband (headband)		hiuspanta									

@@ -1815,7 +1815,6 @@ stop; przerwa, zatrzymanie : ting
 stopa : pede  
 stoper : sekundometer  
 stopień, poziom, ranga, klasa : darje  
-stopić się, topić się, stawać się płynnym : mayu  
 strach, fobia : fobia  
 strażnik więzienny : prizoner  
 strażnik, ochroniarz : garder  

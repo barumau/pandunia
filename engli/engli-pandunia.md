@@ -450,6 +450,7 @@ colonize : kolona
 colony (settlement) : kolonia  
 color : rang  
 column (pillar) : kolum  
+comb : kange  
 come : laya  
 comic (cartoon) : kartun  
 comma : koma'  
@@ -780,6 +781,8 @@ food (meal) : nyam
 fool (buffoon) : bufon  
 foot : pede  
 football : futobol  
+forbid (ban, disallow) : harama  
+forbidden (illicit, haram, taboo) : haram  
 force (strength) : fortia  
 foreign : way dexi  
 foreign country : way dexia  
@@ -912,6 +915,8 @@ guru (teacher) : gur
 Guyana : gayan  
 ##h  
 hafnium : hafnium  
+hair : kex  
+hairband (headband) : kexobende  
 Haiti : haitia  
 halo (aureola) : nurocirke  
 hammer : hamar  
@@ -1307,7 +1312,6 @@ megawat (MW) : megowate
 meitnerium : maitnerium  
 melodious (melodic) : melodi  
 melody : melodia  
-melt (get molten) : mayu  
 member (component) : member  
 memory (recollection) : yade  
 Mercury : budan  
@@ -1586,6 +1590,7 @@ peony : mudan
 people (folk) : nas  
 people (society) : deme  
 pepper (Piper nigrum) : pimente  
+permissible (allowed, halal) : halal  
 permission : permis  
 Persian (Farsi) : farsi  
 person (people) : ren  

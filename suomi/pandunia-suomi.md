@@ -685,6 +685,7 @@ haitia : Haiti
 hake : oikeus (oikeutus)  
 hakim : tuomio  
 hakimer : tuomari  
+halal : sallittu (hyväksytty)  
 hali : tyhjä  
 halif : kalifi  
 halifia : kalifaatti  
@@ -698,6 +699,8 @@ hani : käsi-
 haos : kaaos  
 haraba : pilata (tuhota)  
 harabi : pilalla (raunioina)  
+haram : kielletty  
+harama : kieltää  
 harfe : kirjain  
 harmoni : harmoninen  
 harmonia : harmonia  
@@ -922,6 +925,7 @@ kan : paja tai kauppa
 kanadia : Kanada  
 kanal : kanava (kanaali)  
 kande : makeinen (karkki, karamelli)  
+kange : kampa  
 kangur : kenguru  
 kanjar : tikari  
 kannadi : kannada (eräs intialainen kieli)  
@@ -969,6 +973,8 @@ kenar : reuna (ääri)
 kenia : Kenia  
 kerube : kerubi  
 ketel : kattila  
+kex : hius (karva, tukka, hiukset)  
+kexobende : hiuspanta  
 keyman nesia : Cayman-saaret  
 ki ren : kuka?  
 ki xey : mikä? (mitä?)  
@@ -1288,7 +1294,6 @@ maxoria : enemmistö
 mayan : maya (mayaintiaani)  
 maye : muurahainen  
 mayote : Mayotte  
-mayu : sulaa  
 me : minä  
 mece : otella  
 mece : ottelu (matsi)  
@@ -2374,7 +2379,7 @@ zibula : korkata
 zigzage : siksakki  
 zikur : zikkurat  
 zimbabwe : Zimbabwe  
-zine : haureus  
+zine : haureus (uskottomuus)  
 zinke : sinkki  
 zipa : sulkea vetoketjulla  
 ziper : vetoketju  
