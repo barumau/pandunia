@@ -9,7 +9,7 @@
   * [Principes de fonctionnement](filsofi.md)
   * [Mots du monde](loga.md)
   * [Questions et réponses](eske_i_jawabe.md)
-  * [Traduire ce site](baxa_do_baxa.md)
+  * [Traduire ce site](tarja_netoloke.md)
 
 [Leçons]()
 
