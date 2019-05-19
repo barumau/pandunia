@@ -1,157 +1,211 @@
-dex nam liste
+dexonam liste
 =============
 
-ce si liste du dex nam ze pandunia to engli. pandunia kapa dex nam ze [dex ren ren ya se ya bax](http://www.omniglot.com/countries/).
+ce si liste du dexonam ya pandunia pa engli. pandunia kapa dexonam ya [dexi ren da zi bax](http://www.omniglot.com/countries/).
 
-## afrika
-
-**angola** : Angola  
-**benin** : Benin  
-**burkina** : Burkina Faso  
-**jibuti** : jibouti  
-**dzayer** : Algeria  
-**eritra** : Erithrea  
-**gabon** : Gabon  
-**gambia** : Gambia  
-**gana** : Ghana  
-**ganda** : Uganda  
-**itiopia** : Ethiopia  
-**kamerun** : Cameroon  
-**kenya** : Kenya  
-**kongo** : Congo  
-**kot divowa** : Ivory Coast (Côte d'Ivoire)  
-**liberia** : Liberia  
-**libia** : Libya  
-**magrib** : Marocco  
-**malagas** : Madagascar  
-**malia** : Mali  
-**malawia** : Malawi  
-**misria** : Egypt  
-**mosambik** : Mozambique  
-**muritania** : Mauritania  
-**naijiria (naija)** : Nigeria  
-**namibia** : Namibia  
-**nijer** : Niger  
-**rundi** : Burundi  
-**rwanda** : Rwanda  
-**salone** : Sierra Leone  
-**sexel** : Seychelles  
-**senegal** : Senegal  
-**somali** : Somalia  
-**soto** : Lesotho  
-**sudafrika** : South Africa  
-**sudan** : Sudan  
-**swazi** : Swaziland  
-**tanzania** : Tanzania  
-**cad** : Chad  
-**tswana** : Botswana  
-**togo** : Togo  
-**tunis** : Tunisia  
-**zambia** : Zambia  
-**zimbabwe** : Zimbabwe  
-
-## amerika
-
-**argentina** : Argentina  
-**ayiti** : Haiti  
-**belize** : Belize  
-**bolivia** : Bolivia  
-**brazil** : Brazil  
-**dominika** : Dominica  
-**dominikan republik** : Dominican Republic  
-**ekuador** : Ecuador  
-**gayana** : Guyana  
-**guatemala** : Guatemala  
-**honduras** : Honduras  
-**jameika** : Jamaica  
-**kanada** : Canada  
-**kolombia** : Colombia  
-**kostarika** : Costa Rica  
-**kuba** : Cuba  
-**mexiko** : Mexico  
-**nikaragua** : Nicaragua  
-**panama** : Panama  
-**paraguai** : Paraguay  
-**peru** : Peru  
-**puertoriko** : Puerto Rico  
-**suriname** : Suriname  
-**cile** : Chile  
-**usa (uni stat de amerika)** : United States of America  
-**uruguai** : Uruguay  
-**venesuela** : Venezuela  
-
-## asia
-
-**bama** : Myanmar (Burma)  
-**bangla** : Bangladesh (Bengal)  
-**barat** : India  
-**jungok** : China  
-**hanguk** : South Korea  
-**indonesia** : Indonesia  
-**irak** : Iraq  
-**iran** : Iran  
-**israel** : Israel  
-**kambudia** : Cambodia  
-**lanka** : Sri Lanka  
-**lao** : Laos  
-**lubnan** : Lebanon  
-**malaisia** : Malaysia  
-**mongol** : Mongolia  
-**nepal** : Nepal  
-**nipon** : Japan  
-**oman** : Oman  
-**pakistan** : Pakistan  
-**pilipin** : Philippines  
-**singapur** : Singapore  
-**tai** : Thailand  
-**turki** : Turkey  
-**urdun** : Jordan  
-**viet** : Vietnam  
-**yaman** : Yemen  
-
-
-## europa
-
-**belarus** : Belarus  
-**belgi** : Belgium  
-**bolgaria** : Bulgaria  
-**britan** : Britain (UK)  
-**danmark** : Denmark  
-**doicia** : Germany  
-**espanya** : Spain  
-**esti** : Estonia  
-**frans** : France  
-**helen** : Greek  
-**horvat** : Croatia  
-**island** : Iceland  
-**italia** : Italy  
-**latvia** : Latvia  
-**lietuva** : Lithuania  
-**madyar** : Hungary  
-**makedonia** : Macedonia  
-**nederland** : Netherlands  
-**norge** : Norway  
-**osteraih** : Austria  
-**polska** : Poland  
-**portugal** : Portugal  
-**rusia** : Russia  
-**serbia** : Serbia  
-**slowakia** : Slovakia  
-**slowenia** : Slovenia  
-**suomi** : Finland  
-**svenska** : Sweden  
-**svis** : Switzerland  
-**ceska** : Czech  
-**cip** : Albania  
-**ukrayina** : Ukraine  
-
-## oseania
-
-**australia** : Australia  
-**fiji** : Fiji  
-**papua niugini** : Papua New Guinea  
-**samoa** : Samoa  
-**solomon** : Solomon Islands  
-**vanuatu** : Vanuatu  
-**ziland** : New Zealand  
+|kode| panduni | engli       |
+|----|---------|-------------|
+| AF | afgania | Afghanistan |
+| AO | angolia | Angola |
+| AQ | antartia | Antarctica |
+| AR | argentin | Argentina |
+| AW | arubia | Aruba |
+| AU | australia | Australia |
+| AZ | azeria | Azerbaijan |
+| BS | bahamia | Bahamas |
+| BH | bahrain | Bahrain |
+| BD | banglia | Bangladesh |
+| BB | barbados | Barbados |
+| IN | bartia | India |
+| CF | beafrike | Central African Republic |
+| BY | belarus | Belarus |
+| BE | belgia | Belgium |
+| BZ | belizia | Belize |
+| BJ | benin | Benin |
+| BM | bermudia | Bermuda |
+| BG | bolgaria | Bulgaria |
+| BA | bosnia | Bosnia and Herzegovina |
+| CG | brazawil kongolia | Congo (Brazzaville) |
+| BR | brazilia | Brazil |
+| GB | britania | United Kingdom |
+| BN | bruney | Brunei Darussalam |
+| BF | burkinia | Burkina Faso |
+| BT | butan | Bhutan |
+| TD | cadia | Chad |
+| CZ | cehia | Czech Republic |
+| ME | cernagoria | Montenegro |
+| CL | cile | Chile |
+| AL | cipia | Albania |
+| DK | dania | Denmark |
+| DE | doicia | Germany |
+| ER | eritria | Eritrea |
+| ES | espania | Spain |
+| EE | estia | Estonia |
+| ET | etiopia | Ethiopia |
+| FJ | fijia | Fiji |
+| PH | filipinia | Philippines |
+| PS | filistinia | Palestinian Territory |
+| PF | fransi polinesia | French Polynesia |
+| FR | fransia | France |
+| GA | gabun | Gabon |
+| GM | gambia | Gambia |
+| UG | gandia | Uganda |
+| GH | gania | Ghana |
+| GY | gayan | Guyana |
+| GG | genzia | Guernsey |
+| GN | gine | Guinea |
+| GW | gine bisau | Guinea-Bissau |
+| GF | giyan | French Guiana |
+| GD | grenada | Grenada |
+| GP | guadelupe | Guadeloupe |
+| GU | guam | Guam |
+| GT | guatemala | Guatemala |
+| HT | haitia | Haiti |
+| KR | hangogia | Korea (South) |
+| GR | helenia | Greece |
+| HN | honduras | Honduras |
+| HK | hongong | Hong Kong, SAR China |
+| HR | horwatia | Croatia |
+| ID | indonesia | Indonesia |
+| IQ | irakia | Iraq |
+| IR | iran | Iran |
+| IS | islandia | Iceland |
+| IL | israel | Israel |
+| IT | italia | Italy |
+| JM | jamaike | Jamaica |
+| DZ | jayer | Algeria |
+| JE | jersia | Jersey |
+| GI | jibraltar | Gibraltar |
+| DJ | jibutia | Djibouti |
+| CN | jungogia | China |
+| KH | kambudia | Cambodia |
+| CM | kamerun | Cameroon |
+| CA | kanadia | Canada |
+| QA | kataria | Qatar |
+| KZ | kazahia | Kazakhstan |
+| KE | kenia | Kenya |
+| KY | keyman nesia | Cayman Islands |
+| CD | kinsasa kongolia | Congo Kinshasa |
+| CY | kipris | Cyprus |
+| KG | kirgizia | Kyrgyzstan |
+| KI | kiribatia | Kiribati |
+| CC | kokos nesia | Cocos (Keeling) Islands |
+| CO | kolombia | Colombia |
+| KM | komoro nesia | Comoros |
+| CR | kostarikia | Costa Rica |
+| CU | kuba | Cuba |
+| CK | kuke nesia | Cook Islands |
+| KW | kuwaitia | Kuwait |
+| LK | lankia | Sri Lanka (Ceylon) |
+| LV | latwia | Latvia |
+| LR | liberia | Liberia |
+| LY | libia | Libya |
+| LB | libnun | Lebanon |
+| LI | lixtenxtayn | Liechtenstein |
+| LU | luksemburgia | Luxembourg |
+| MG | madagasia | Madagascar |
+| HU | madyar | Hungary |
+| MA | magribia | Morocco |
+| MO | makaw | Macao |
+| MK | makedonia | Republic of Macedonia |
+| MY | malaisia | Malaysia |
+| MW | malawia | Malawi |
+| FK | malbinas nesia | Falkland Islands (Malvinas) |
+| ML | malia | Mali |
+| MT | malte | Malta |
+| IM | manin | Isle of Man |
+| MP | marian nesia | Northern Mariana Islands |
+| YT | mayote | Mayotte |
+| MX | mexiko | Mexico |
+| FM | mikronesia | Micronesia |
+| EG | misria | Egypt |
+| MD | moldowia | Moldova |
+| MC | monako | Monaco |
+| MN | mongolia | Mongolia |
+| MU | moris | Mauritius |
+| MZ | mozambike | Mozambique |
+| MR | muritania | Mauritania |
+| NG | naijiria | Nigeria |
+| NA | namibia | Namibia |
+| NR | nauru | Nauru |
+| AN | nederlandi antilia | Netherlands Antilles |
+| NL | nederlandia | Netherlands |
+| NP | nepal | Nepal |
+| NE | nijer | Niger |
+| NI | nikaragua | Nicaragua |
+| JP | nipon | Japan |
+| NU | niwe | Niue |
+| NF | norfolke | Norfolk Island |
+| NO | norgia | Norway |
+| NC | nowi kaledonia | New Caledonia |
+| NZ | nowi zilandia | New Zealand |
+| AX | olandia | Aland Islands |
+| OM | oman | Oman |
+|  | oromia | Oromia |
+| AT | osteria | Austria |
+| PW | palaw | Palau |
+| PA | panamia | Panama |
+| PG | papua nowi ginia | Papua New Guinea |
+| PY | paraguay | Paraguay |
+| PE | peru' | Peru |
+| PN | pitkerne | Pitcairn |
+| PL | polskia | Poland |
+| PR | portorikia | Puerto Rico |
+| PT | portugal | Portugal |
+| RE | reunion | Réunion |
+| RO | romania | Romania |
+| BI | rundia | Burundi |
+| RU | rusia | Russia |
+| RW | rwanda | Rwanda |
+| SV | salbador | El Salvador |
+| SL | salone | Sierra Leone |
+| WS | samoa | Samoa |
+| SH | santi helena | Saint Helena |
+| LC | santi lusia | Saint Lucia |
+| ST | santi tome i prinsipe | Sao Tome and Principe |
+| SA | saudi arabia | Saudi Arabia |
+| SN | senegal | Senegal |
+| RS | serbia | Serbia |
+| SC | sexel nesia | Seychelles |
+| SG | singapur | Singapore |
+| SK | slowakia | Slovakia |
+| SI | slowenia | Slovenia |
+| SB | solomon nesia | Solomon Islands |
+| SO | somalia | Somalia |
+| LS | soto | Lesotho |
+| ZA | sudafrike | South Africa |
+| SD | sudan | Sudan |
+| GS | sudi jorjia i sudi sanwice nesia | South Georgia and the South Sandwich Islands |
+| SS | sudi sudan | South Sudan |
+| FI | suomia | Finland |
+| SY | suria | Syria |
+| SR | surinam | Suriname |
+| SZ | swazia | Swaziland |
+| SE | swenia | Sweden |
+| CH | swisia | Switzerland |
+| TW | taiwan | Taiwan (Republic of China) |
+| TJ | tajikia | Tajikistan |
+| TZ | tanzania | Tanzania |
+| TG | togolia | Togo |
+| TT | trinida i tobago | Trinidad and Tobago |
+| BW | tswania | Botswana |
+| TN | tunisia | Tunisia |
+| TR | turkia | Turkey |
+| TM | turkmenia | Turkmenistan |
+| TV | tuwal | Tuvalu |
+| UA | ukraina | Ukraine |
+| JO | urdun | Jordan |
+| UY | uruguay | Uruguay |
+| US | usamerike | United States of America |
+| AS | usameriki samoa | American Samoa |
+| VI | usameriki wirjin nesia | Virgin Islands, US |
+| UZ | uzbekia | Uzbekistan |
+| WF | walis i futuna nesia | Wallis and Futuna Islands |
+| VU | wanuatu | Vanuatu |
+| VA | watikan | Holy See (Vatican City State) |
+| VE | wenesuela | Venezuela |
+| VN | wietnam | Viet Nam |
+| VC | winsi i grenadin | Saint Vincent and Grenadines |
+| ZM | zambia | Zambia |
+| ZW | zimbabwe | Zimbabwe |
 
