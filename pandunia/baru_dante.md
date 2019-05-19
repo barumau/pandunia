@@ -19,13 +19,13 @@ lil urse si mal.
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
 
 lil urse joga lil gar sa mey kamar. le vida keke sanduke sa meza.
-le fikra "me wanta nyama keke!" a le yada: "a! mame loga me ni nyama keke."
+le fikra "me wanta nyama keke!" a le yada: "a! mame harama me nyama keke."
 lil urse ni nyama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
 lil urse vida kande botol sa almari. le fikra "me wanta nyama kande!"
-a le yada: "a! mame loga me ni nyama kande." lil urse ni nyama kande.
+a le yada: "a! mame harama me nyama kande." lil urse ni nyama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
