@@ -96,10 +96,9 @@ auda : hear (listen)
 australia : Australia  
 automoti : self-moving (automotive, automobile)  
 awakate : avocado  
-awar : damage (wreck)  
 axur : Assur  
 axuria : Assyria  
-ay : ouch! (alas!)  
+ay : ouch (ow, alas)  
 azeria : Azerbaijan  
 ##b  
 babe : chapter (section)  
@@ -123,7 +122,6 @@ bal : eight (8)
 balde : bucket  
 balkon : balcony (porch)  
 balon : balloon  
-bama : Myanmar (Burma)  
 ban gem : board game  
 ban : board (plank)  
 banan : banana  
@@ -257,6 +255,7 @@ bula : boil (cook)
 bulbul : nightingale  
 bulu : boil (be boiled)  
 bunduke : gun (handheld firearm)  
+bung : belly (abdomen)  
 burkinia : Burkina Faso  
 bus : bus  
 buste : bust (bosom)  
@@ -327,6 +326,8 @@ daixer : ambassador
 daixeria : embassy  
 dalil : proof (evidence, proof, demonstration, testimony)  
 dalila : prove (demonstrate, testify)  
+damaje : damage (injury, harm)  
+damaji : harmful (damaging)  
 damogem : checkers (draughts)  
 dan : grain (seed)  
 dania : Denmark  
@@ -577,7 +578,6 @@ fransi polinesia : French Polynesia
 fransia : France  
 fransium : francium  
 fraze : sentence (phrase)  
-fubu' : belly (abdomen)  
 fuga : return (restore, recover, resume)  
 fuka : wear clothes  
 fuke : clothing  
@@ -592,6 +592,7 @@ furete : polecat (ferret)
 furi : angry (furious)  
 furia : anger (fury, rage, wrath)  
 futaw : axe (hatchet)  
+fute : foot  
 futobol : football  
 fuy : bah! (yuck!)  
 ##g  
@@ -927,7 +928,8 @@ kamis : shirt
 kamote : sweet potato  
 kampe : camp  
 kamper : camper  
-kan : workshop (place for...)  
+kan : eye  
+kana : eye (look, watch)  
 kanadia : Canada  
 kanal : channel  
 kande : candy (sweets)  
@@ -937,11 +939,11 @@ kanjar : dagger
 kannadi : Kannada  
 kanon : gun (cannon)  
 kanoner : cannoneer  
+kanosuy : tear drop  
 kanu' : canoe  
 kanun : law  
 kapa : catch (capture, seize, snatch, intercept)  
 kapitan : captain  
-kar parke : car park (parking lot)  
 kar : car (cart, carriage, wagon, automobile)  
 karaoke : karaoke  
 karate : karate  
@@ -949,6 +951,7 @@ karbi : near (close)
 karbon : carbon (coal)  
 karibia : Caribbean  
 karite : shea  
+karoparke : car park (parking lot)  
 karote : carrot  
 karte : card  
 kartun : comic (cartoon)  
@@ -1455,6 +1458,7 @@ muskul : muscle
 muta : change (alter, convert)  
 mux : mouse  
 muxing : Jupiter  
+myanmia : Myanmar (Burma)  
 ##n  
 na : without  
 nabe : prophecy  
@@ -1574,6 +1578,7 @@ olandia : Aland Islands
 oman : Oman  
 onor : respect (honor, esteem)  
 onori : honorable (respectable)  
+or : ear  
 orgazme : orgasm  
 oromi : Oromo (an Ethiopian ethnic group and language)  
 oromia : Oromia  
@@ -1651,13 +1656,12 @@ paxi : painful
 paxia : suffering  
 paxu : suffer (get hurt)  
 pay : pie (pastry)  
-pede : foot  
 pelmen : dumpling (ravioli, pelmeni)  
+pelpel : butterfly  
 penda : hang (dangle)  
 penis : penis (phallus)  
 penta : paint  
 penter : painter  
-pepele : butterfly  
 pepin : cucumber  
 per : pear  
 perda : fart (flatulate)  
@@ -1949,8 +1953,8 @@ santi : holy (sacred)
 sapate : shoe  
 sapater : shoemaker  
 sapateria : shoemaker's shop  
-sar oste : skull  
 sar : head  
+saroste : skull  
 saudar : sibling (brother or sister)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
@@ -2330,10 +2334,10 @@ wotohake : franchise (right to vote)
 xakal : jackal  
 xake : branch (bough)  
 xal : scarf (shawl)  
-xam nyam : dinner  
 xam : evening  
 xaman : shaman  
 xamoden : afternoon  
+xamonyam : dinner  
 xampu' : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
@@ -2389,8 +2393,6 @@ yatim : orphan
 yatimodom : orphanage  
 yehudi : Jewish  
 yehudistia : Judaism  
-yen : eye  
-yenosuy : tear drop  
 yesus : Jesus  
 yey : yay! (yeah!)  
 yeze : coco  
@@ -2404,7 +2406,7 @@ yote : drop (droplet)
 yumor : humor  
 yumori : humorous (comical, funny)  
 yumoriste : humorist  
-yungam : brave (courageous)  
+yung : brave (courageous)  
 yuterbium : ytterbium  
 yutrium : yttrium  
 ##z  

@@ -95,7 +95,6 @@ auda : usłyszeć, słyszeć; słuchać
 australia : Australia  
 automoti : samobieżny  
 awakate : awokado  
-awar : uszkodzić, uszkadzać  
 axur : Aszur  
 axuria : Asyria  
 ay : aj!, ał!  
@@ -122,7 +121,6 @@ bal : osiem (8)
 balde : wiadro  
 balkon : balkon; ganek  
 balon : balon  
-bama : Mjanma, Birma  
 ban gem : gra planszowa  
 ban : deska  
 banan : banan  
@@ -253,6 +251,7 @@ bula : zapomnieć, zapominać
 bulbul : słowik  
 bulu : ugotować się, gotować się  
 bunduke : pistolet, strzelba, ręczna broń palna  
+bung : brzuch  
 burkinia : Burkina Faso  
 bus : autobus, autokar  
 buste : biust  
@@ -568,7 +567,6 @@ fransi polinesia : Polinezja Francuska
 fransia : Francja  
 fransium : frans  
 fraze : zdanie, zwrot, wyrażenie  
-fubu' : brzuch  
 fuga : wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuka : nosić ubrania  
 fuke : ubranie, ubiór, strój  
@@ -582,6 +580,7 @@ furete : tchórz, fretka
 furi : zły (wsciekły, gniewny)  
 furia : gniew, furia  
 futaw : siekera, topór  
+fute : stopa  
 futobol : piłka nożna  
 fuy : fu, fuj  
 ##g  
@@ -911,7 +910,7 @@ kamis : koszula
 kamote : słodki ziemniak  
 kampe : obozowicz  
 kamper : obóz  
-kan : warsztat, pracownia; miejsce na ...  
+kan : oko  
 kanadia : Kanada  
 kanal : kanał  
 kande : cukierek, słodycze  
@@ -920,11 +919,11 @@ kanjar : sztylet (puginał)
 kannadi : kannada  
 kanon : działo  
 kanoner : kanonier  
+kanosuy : łza  
 kanu' : kanoe  
 kanun : prawo  
 kapa : złapać, łapać, schwytać, chwytać  
 kapitan : kapitan  
-kar parke : parking  
 kar : wóz, wózek  
 karaoke : karaoke  
 karate : karate  
@@ -932,6 +931,7 @@ karbi : bliski
 karbon : węgiel  
 karibia : Karaiby  
 karite : masłosz Parka  
+karoparke : parking  
 karote : marchew  
 karte : karta  
 kartun : komiks; kreskówka  
@@ -1421,6 +1421,7 @@ muskul : muskuł, mięsień
 muta : zmienić, zmieniać  
 mux : mysz  
 muxing : Jupiter  
+myanmia : Mjanma, Birma  
 ##n  
 na : bez  
 nabe : proroctwo  
@@ -1611,7 +1612,6 @@ paxi : bolesny
 paxia : cierpienie, ból  
 paxu : cierpieć  
 pay : placek, ciasto  
-pede : stopa  
 pelmen : kluska, knedel, pieróg; ravioli, pelmeni  
 penda : powiesić, wieszać  
 penis : penis  
@@ -1902,8 +1902,8 @@ santi : święty
 sapate : but  
 sapater : szewc  
 sapateria : warsztat szewski  
-sar oste : czaszka  
 sar : głowa  
+saroste : czaszka  
 saudar : rodzeństwo, brat lub siostra  
 saudi arabia : Arabia Saudyjska  
 sauna : sauna  
@@ -2266,10 +2266,10 @@ wolte : wolt (V)
 xakal : szakal  
 xake : gałąź, konar  
 xal : szal, szalik  
-xam nyam : kolacja  
 xam : wieczór  
 xaman : szaman  
 xamoden : popołudnie  
+xamonyam : kolacja  
 xampu' : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
@@ -2324,8 +2324,6 @@ yatim : sierota
 yatimodom : sierociniec, dom dziecka  
 yehudi : żydowski  
 yehudistia : judaizm  
-yen : oko  
-yenosuy : łza  
 yesus : Jezus  
 yey : jej  
 yeze : kokos  
@@ -2339,7 +2337,7 @@ yote : kropla
 yumor : humor  
 yumori : humorystyczny, śmieszny, zabawny, komiczny  
 yumoriste : komik  
-yungam : odważny, brawurowy  
+yung : odważny, brawurowy  
 yuterbium : iterb  
 yutrium : itr  
 ##z  

@@ -125,6 +125,7 @@ ce si liste du dexonam ya pandunia pa engli. pandunia kapa dexonam ya [dexi ren 
 | MU | moris | Mauritius |
 | MZ | mozambike | Mozambique |
 | MR | muritania | Mauritania |
+| MM | myanmia | Myanmar (Burma) |
 | NG | naijiria | Nigeria |
 | NA | namibia | Namibia |
 | NR | nauru | Nauru |

@@ -157,7 +157,7 @@ broda : barde
 brom : brom  
 Brunei Darussalam : bruney  
 brzmieć, wydać dźwięk, wydawać dźwięk : sonda  
-brzuch : fubu'  
+brzuch : bung  
 brzydki : mal rupi  
 brązowy, koloru kawy : kafi  
 Budda : bude  
@@ -251,7 +251,7 @@ czarny : kal
 czas, moment : zaman  
 czas; okazja : mar  
 czasownik : fati lekse  
-czaszka : sar oste  
+czaszka : saroste  
 czcić, szanować : puja  
 czekać : denga  
 czekolada : coke  
@@ -730,7 +730,7 @@ kodować : koda
 koka : koka'  
 kokos : yeze  
 kola, napój gazowany : kola  
-kolacja : xam nyam  
+kolacja : xamonyam  
 kolec : ding  
 kolej : trenodaw  
 kolekcja, zbiór; zgromadzenie, zebranie : jamia  
@@ -1013,7 +1013,7 @@ miłośnik (fan, -fil) : filer
 miłość (afekt) : ame  
 miłość romantyczna : romanse  
 miły, przyjemny, uroczy : latif  
-Mjanma, Birma : bama  
+Mjanma, Birma : myanmia  
 mleko : milke  
 mniej : min  
 mniejszościowy : minor  
@@ -1196,7 +1196,7 @@ odnowić, odnawiać, uczynić nowym : nowa
 odpowiedzieć, odpowiadać : jawaba  
 odpowiedź, odzew : jawabe  
 odsłonić, odsłaniać : dekula  
-odważny, brawurowy : yungam  
+odważny, brawurowy : yung  
 odwiedzić, odwiedzać : wizita  
 oficer policji, policjant : poliser  
 oficjalny : ofisi  
@@ -1208,7 +1208,7 @@ ogórek : pepin
 ojciec : pape  
 okej, spoko, akceptowalny : okey  
 okno : janel  
-oko : yen  
+oko : kan  
 około; przybliżony : yagi  
 okrągły : cirki  
 oliwka : zaitun  
@@ -1283,7 +1283,7 @@ papuga : papagay
 paragon, pokwitowanie : reside  
 Paragwaj : paraguay  
 park (ogród) : parke  
-parking : kar parke  
+parking : karoparke  
 partia : partia  
 Partia Piratów : piratisti partia  
 parę : dul u tin  
@@ -1812,7 +1812,7 @@ sterować : gida
 sto (##) : hon  
 stolarz : mokojanger  
 stop; przerwa, zatrzymanie : ting  
-stopa : pede  
+stopa : fute  
 stoper : sekundometer  
 stopień, poziom, ranga, klasa : darje  
 strach, fobia : fobia  
@@ -2043,7 +2043,6 @@ urosnąć, rosnąć, wzrosnąć, wzrastać : dayu
 Urugwaj : uruguay  
 urząd, pozycja, stanowisko, funkcja : ofis  
 usta : boke  
-uszkodzić, uszkadzać : awar  
 usłyszeć, słyszeć; słuchać : auda  
 uwaga, obserwacja : note  
 uważać (sądzić) : raya  
@@ -2071,7 +2070,6 @@ wapń : kalsium
 warcaby : damogem  
 warga : labe  
 warsztat szewski : sapateria  
-warsztat, pracownia; miejsce na ... : kan  
 warunek : xarte  
 warzywo : weje  
 wat : wate  
@@ -2336,7 +2334,7 @@ zły, zrujnowany, zepsuty : harabi
 łazienka : banyokamar  
 łańcuch : silsil  
 łyżka : camce  
-łza : yenosuy  
+łza : kanosuy  
 łódź, statek : bote  
 łóżko : bede  
 łączyć, wiązać, złączyć : samuna  

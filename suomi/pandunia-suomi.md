@@ -94,7 +94,6 @@ atom : atomi
 auda : kuulla (kuunnella)  
 australia : Australia  
 awakate : avokado  
-awar : vaurio  
 axur : Assur  
 axuria : Assyria  
 ay : ai! (au!)  
@@ -121,7 +120,6 @@ bal : kahdeksan (8)
 balde : sanko (ämpäri)  
 balkon : parveke (kuisti)  
 balon : ilmapallo  
-bama : Myanmar (Burma)  
 ban gem : lautapeli  
 ban : lauta (lankku)  
 banan : banaani  
@@ -255,6 +253,7 @@ bula : keittää (kiehuttaa)
 bulbul : satakieli  
 bulu : kiehua  
 bunduke : pyssy  
+bung : maha (vatsa)  
 burkinia : Burkina Faso  
 bus : linja-auto (bussi)  
 buste : povi  
@@ -325,6 +324,8 @@ daixer : lähettiläs
 daixeria : lähetystö  
 dalil : todiste (todistus, osoitus, demonstraatio)  
 dalila : todistaa  
+damaje : vaurio (vahinko)  
+damaji : vahingollinen  
 damogem : tammipeli  
 dan : siemen  
 dania : Tanska  
@@ -571,7 +572,6 @@ fransi polinesia : Ranskan Polynesia
 fransia : Ranska  
 fransium : fransium  
 fraze : lause (fraasi)  
-fubu' : maha  
 fuga : palauttaa  
 fuka : pukea  
 fuke : vaate (puku)  
@@ -586,6 +586,7 @@ furete : kärppä (fretti)
 furi : vihainen (suuttunut)  
 furia : viha (suuttumus, raivo)  
 futaw : kirves  
+fute : jalka (jalkaterä)  
 futobol : jalkapallo  
 fuy : hyi! (pyh!)  
 ##g  
@@ -921,7 +922,8 @@ kamis : paita
 kamote : bataatti  
 kampe : leiri  
 kamper : retkeilijä  
-kan : paja tai kauppa  
+kan : silmä  
+kana : silmäillä (katsoa)  
 kanadia : Kanada  
 kanal : kanava (kanaali)  
 kande : makeinen (karkki, karamelli)  
@@ -931,11 +933,11 @@ kanjar : tikari
 kannadi : kannada (eräs intialainen kieli)  
 kanon : tykki (pyssy)  
 kanoner : tykkimies  
+kanosuy : kyynel  
 kanu' : kanootti  
 kanun : laki  
 kapa : ottaa kiinni (napata, kaapata)  
 kapitan : kapteeni  
-kar parke : parkkipaikka  
 kar : kärry (vaunu, auto, jne)  
 karaoke : karaoke  
 karate : karate  
@@ -943,6 +945,7 @@ karbi : läheinen
 karbon : hiili  
 karibia : Karibia  
 karite : voipuu  
+karoparke : parkkipaikka  
 karote : porkkana  
 karte : kortti  
 kartun : sarjakuva  
@@ -1448,6 +1451,7 @@ muskul : lihas
 muta : muuttaa (muuntaa)  
 mux : hiiri  
 muxing : Jupiter  
+myanmia : Myanmar (Burma)  
 ##n  
 na : ilman  
 nabe : profetia  
@@ -1567,6 +1571,7 @@ olandia : Ahvenanmaa (Oolanti)
 oman : Oman  
 onor : kunnioitus (arvostus)  
 onori : kunnianarvoisa  
+or : korva  
 orgazme : orgasmi  
 oromi : oromo (etiopialainen kansa ja kieli)  
 oromia : Oromia  
@@ -1643,13 +1648,12 @@ paxi : kivulias (tuskallinen)
 paxia : kipu (tuska)  
 paxu : sattua (käydä kipeää)  
 pay : piirakka (piiras)  
-pede : jalka (jalkaterä)  
 pelmen : myky (pelmeni, ravioli)  
+pelpel : perhonen  
 penda : roikuttaa  
 penis : siitin (penis)  
 penta : maalata  
 penter : maalari  
-pepele : perhonen  
 pepin : kurkku  
 per : päärynä  
 perda : pierrä (pieraista)  
@@ -1927,8 +1931,8 @@ santi : pyhä
 sapate : kenkä  
 sapater : suutari  
 sapateria : suutarin paja  
-sar oste : pääkallo  
 sar : pää  
+saroste : pääkallo  
 saudar : sisarus (veli tai sisko)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
@@ -2277,10 +2281,10 @@ wotohake : äänioikeus
 xakal : šakaali  
 xake : oksa (haara)  
 xal : huivi (šaali)  
-xam nyam : illallinen  
 xam : ilta  
 xaman : šamaani  
 xamoden : iltapäivä  
+xamonyam : illallinen  
 xampu' : šampoo  
 xan : vuori (mäki)  
 xanti : rauhallinen (tyyni)  
@@ -2335,8 +2339,6 @@ yatim : orpo
 yatimodom : orpokoti  
 yehudi : juutalainen  
 yehudistia : juutalaisuus  
-yen : silmä  
-yenosuy : kyynel  
 yesus : Jeesus  
 yey : jee! (hurraa!)  
 yeze : kookos  
@@ -2350,7 +2352,7 @@ yote : pisara (tippa)
 yumor : huumori  
 yumori : koominen (hauska)  
 yumoriste : humoristi  
-yungam : rohkea (urhea)  
+yung : rohkea (urhea)  
 yuterbium : ytterbium  
 yutrium : yttrium  
 ##z  

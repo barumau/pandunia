@@ -84,8 +84,7 @@ auda : aŭdi (aŭskulti)
 australia : Aŭstralio  
 automoti : memmova  
 awakate : avokado  
-awar : damaĝo  
-ay : alas!  
+ay : aj (alas)  
 ##b  
 babe : ĉapitro  
 bace : ido (infano)  
@@ -106,7 +105,6 @@ bal : ok (8)
 balde : sitelo  
 balkon : balkono  
 balon : balono  
-bama : Birmo  
 banan : banano  
 bandir : flago  
 banglia : Bangladeŝo  
@@ -209,6 +207,7 @@ bula : boligi
 bulbul : najtingalo  
 bulu : boli  
 bunduke : fusilo  
+bung : ventro  
 bus : buso  
 buton ban : klavaro  
 buton : klavo  
@@ -263,6 +262,8 @@ da : de (partiklo de posedo)
 dade : ĵetkubo  
 daixer : ambasadoro  
 daixeria : ambasado  
+damaje : damaĝo  
+damaji : damaĝa  
 dan : semo  
 dania : Danio  
 danka : danki  
@@ -450,7 +451,6 @@ fosfor : fosforo
 fotograf : foto  
 fransia : Francio  
 fransium : franciumo  
-fubu' : ventro  
 fuka : vesti  
 fuke : vesto  
 ful : plena  
@@ -461,6 +461,7 @@ funca : funkcii
 funge : fungo  
 furete : furo  
 furia : kolero (furiozo)  
+fute : piedo  
 futobol : piedpilko  
 fuy : bah!  
 ##g  
@@ -691,6 +692,8 @@ kambudia : Kamboĝo
 kamera : fotilo  
 kamis : ĉemizo  
 kamote : batato  
+kan : okulo  
+kana : okulumi  
 kanal : kanalo  
 kande : bombono  
 kangur : kangaro  
@@ -933,6 +936,7 @@ muskete : muskedo
 muskul : muskolo  
 muta : aliigi  
 mux : muso  
+myanmia : Birmo  
 ##n  
 na : sen  
 nabe : profetaĵo  
@@ -987,6 +991,7 @@ okey : akceptebla (okej)
 okse : oksigeno  
 onor : honoro (respekto)  
 onori : respektinda  
+or : orelo  
 oseania : Oceanio  
 osmium : osmio  
 oste : osto  
@@ -1018,10 +1023,9 @@ partia : partio
 pasporte : pasporto  
 patate : terpomo  
 pay : kukaĵo  
-pede : piedo  
+pelpel : papilio  
 penis : peniso  
 penta : pentri  
-pepele : papilio  
 pepin : kukumo  
 pese : mono  
 petre : ŝtono  
@@ -1327,10 +1331,10 @@ wolfe : lupo
 ##x  
 xake : branĉo  
 xal : koltuko  
-xam nyam : vespermanĝo  
 xam : vespero  
 xaman : ŝamano  
 xamoden : posttagmeze  
+xamonyam : vespermanĝo  
 xampu' : ŝampuo  
 xan : monto  
 xanti : trankvila  
@@ -1362,7 +1366,6 @@ yala : rapidigi
 yaman : Jemeno  
 yang : speco (tipo, stilo)  
 yani : tio estas (alivorte)  
-yen : okulo  
 yesus : Jesuo  
 yeze : kokoso  
 yoge : jogo  

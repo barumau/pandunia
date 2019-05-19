@@ -71,11 +71,11 @@ asme ← fra:asthme. eng:asthma. spa:por:ind:asma. pol:astma.
 ate ← fra:atte. por:ata. ben:আতা (ata). tgl:atis. som:aat.  
 awakate ← nah:ahuakatl. spa:aguacate. por:abacate. tgl:abokado. jpn:アボカド (abokado). kor:아보카도 (abokado). fra:avocat. pol:awokado. kon:zavoká.  
 axuria ← akk:(aššur). ara:(aššur). hin:अश्शूर (aśśūr). fas:(āšūr).  
-ay ← spa:ay. zho:"ai".  
+ay ← spa:ay. por:ai. fra:aïe. zho:哎 (ai). kor:아야 (aya). fas:(ây). rus:ай (ay).  
 ##b  
-babe ← ind:bab. urd:fas:"bāb".  
+babe ← ind:bab. ara:urd:fas:(bāb).  
 bace ← fas:(bačče). urd:(baccā). hin:(baccā). guj: બચ્ચું (baccũ). tgl: bata.  
-badala ← hin:बदला "badlā". hau:badali. swa:badili.  
+badala ← ara:(badala). hin:बदला (badlā). hau:badali. swa:badili.  
 badam ← ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam).  
 badan ← ara:(badan). hin:बदन (badan). fas:urd:(badan). tur:beden. eng:body.  
 bagre ← hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).  
@@ -146,6 +146,7 @@ buking ← eng:booking. deu:Buchung. hin:"buking".
 bulbul ← ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).  
 bulu ← eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उबालना (ubālnā).  
 bunduke ← ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.  
+bung ← vie:bụng. khm:ពុង (pung). tha:พุง (pung).  
 bus ← deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).  
 buste ← fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.  
 buton ← eng:button. hin:बटन "baṭan". ben:বোতাম "botam". jpn:ボタン "botan". kor:버튼 "beoteun".  
@@ -179,6 +180,7 @@ cuze ← zho:的 (de).
 ##d  
 dade ← spa:por:tgl:dado. ind:swa:dadu.  
 dalil ← ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.  
+damaje ← eng:damage. fra:dommage.  
 damogem ← fra:jeu de dames. ara:(dāmā). ind:dam. spa:por:damas. deu:Damespiel.  
 dan ← hin:(dānā). tur:tane. jpn:(tane). + zho:列 (dàn). vie:đạn.  
 danke ← eng:thank. deu:Danke. + hin:धन्यवाद "dhanyavād".  
@@ -252,7 +254,6 @@ folia ← eng:folly. fra:folie. ita:follia.
 fong ← zho: 风 (fēng). yue: 風 (fung).  
 fonte ← por:fonte. spa:fuente. rus:фонтан (fontan). fra:fontaine. eng:fountain. uzb:fontan. jpn:噴水 (funsui).  
 forti ← fra:fort. spa:fuerte. por:forte. eng:force.  
-fubu' ← zho:腹 (fù). yue:(fuk1). jpn:(fukubu). mao:puku.  
 fuga ← zho:复 "fù". yue:"fuk". vie:phục.  
 fuke ← zho:衣服 "yīfu". yue:"yifuk". jpn:衣服 "ifuku". kor:의복 "uibog".  
 ful ← eng:full. deu:voll.  
@@ -263,6 +264,7 @@ funocuper ← zho:吸尘器 (xīchénqì). deu:Staubsauger.
 furete ← fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:"feretto". swa:fereti.  
 furia ← eng:fury. spa:pol:furia. por:fúria.  
 futaw ← tgl:puthaw. zho:斧头 (fǔtóu). yue:斧頭 (futau). nan:斧頭 (pú-thâu).  
+futobol ← eng:fra:football. spa:fútbol. por:futebol. deu:Fußball. hin:फ़ुटबॉल (fuṭbŏl). urd:(fuṭ bāl). ben:ফুটবল (phuṭbôl). rus:футбол (futbol). tha:ฟุตบอล (th) (fút-bɔn). jpn:フットボール (futtobōru). zul:ibhola.  
 ##g  
 gabre ← ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).  
 gade ← hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.  
@@ -280,6 +282,7 @@ gazel ← ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼ
 gem ← eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).  
 gen ← zho:根 (gēn). wuu:(gen). yue:(gan). vie:căn.  
 genca ← zho:检查 (jiǎnchá). yue:檢查 (gimcaa). vie:kiểm tra. jpn.検査 (kensa).  
+geta ← eng:get.  
 gey ← eng:fra:spa:gay. por:guei.  
 gim ← zho:金 (jīn). yue:(gam). zhu:gim. jpn:金 (kin). kor:금 (geum). vie:kim. tgl:ginto. tha:คำ (kam).  
 glota ← rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir. por:engolir.  
@@ -378,7 +381,7 @@ kace ← ben:কাঁচ (kãcô). mar:काच (kāc). ind:may:kaca. tel:గ�
 kafe ← deu:Kaffee. fra: café. spa: café. zho: 咖啡 "kāfēi".  
 kafir ← ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).  
 kakaw ← por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).  
-kake ← spa:por:fra:caca. deu:Kacke.  
+kake ← spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka).  
 kal ← hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (pkālā). tur:kara.  
 kalam ← hau:alƙalami. yor:swa:kalamu.  
 kalkulia ← fra:calcul. spa:cálculo. eng:calculus. hin:कलन (kalan).  
@@ -386,11 +389,13 @@ kam ← hin:काम (kām). tha:กาม (gaam). eng:kama.
 kamar ← ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer.  
 kamis ← spa:por:camisa. ara:(qamīṣ). hin:क़मीज़ (kāmīz). ind:kemeja.  
 kamote ← spa:camote. tgl:kamote.  
-kan ← jpn:(kan). vie:quán. zho:馆 (guǎn). + hindi:ख़ाना (khānā). fas:(xāne). tur:hane.  
+kan ← tam:கண் (kaṇ). tel:(kannu). kan:(kaṇṇu). mal:കണ്ണ് (kaṇṇu).  
+kana ← zho:看 (kàn). min:khàn.  
 kande ← eng:candy. hin:कैंडी (kaiṇḍī). jpn:キャンデー (ja) (kyandē). tgl:kendi.  
 kange ← hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (kaṅgvā). pnb:ਕੰਘਾ (kaṅghā).  
 kanjar ← fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).  
 kanon ← eng:cannon. spa:cañón. zho:加农 "jiānóng". jpn:"kyanon". kor:캐넌 "kaeneon".  
+kanosuy ← tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.   
 kanu' ← eng:canoe. deu:Kanu. tur:kano. spa:canoa. rus:каноэ (kanoe). jpn:カヌー (kanū).  
 kanun ← ara:(qānūn). tur:kanun. swa:kanuni. hin:क़ानून (qānūn). + eng:fra:canon. por:cânone. rus:канон (kanon).  
 kapa ← tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).  
@@ -573,6 +578,7 @@ nur ← ara:fas:(nūr). swa:nuru. taj:uzb:нур (nur).
 nyama ← khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.  
 ##o  
 onor ← eng:pol:spa:honor. fra:honneur. por:honra. ita:onore. tur:onur.  
+or ← zho:耳 (ěr). eng:ear. deu:Ohr. fra:oreille. por:orelha. spa:oreja.  
 oste ← eng:deu:osteo-. rus:остео- "osteo-". ita:por:osso. fra:os. hin:अस्थि "asthi-".  
 oton ← fra:automne. otoño. por:outono. eng:autumn.  
 ##p  
@@ -598,8 +604,8 @@ paste ← eng:deu:paste. rus:"pasta". spa:por:pasta.
 patate ← fra:patate. spa:patata. por:batata. tur:patates. ara:"baṭāṭis". eng:potato. tgl:patatas.  
 paxia ← kon:mpasi. por:paixão. eng:passion.  
 pelmen ← rus:пельмень "pel'men'". pol:pielmeni. eng:pelmeni.  
+pelpel ← kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.  
 penta ← eng:paint. fra:peintre.  
-pepele ← kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.  
 pepin ← spa:por:pepino. tgl:pipino. sin:පිපිඤ්ඤා (pipiññā).  
 pese ← hin:पैसा (paisā). mar:पैसा (paisā). pnb:ਪੈਸਾ (pēsā). guj:પૈસો (paiso). ara:(bēzāt). swa:pesa. (spa:peso).  
 petre ← hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.  
@@ -828,7 +834,7 @@ xatan ← ara:"šayṭān". hin:शैतान "śaitān". tur:şeytan. eng:Sat
 xaw ← zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).  
 xaxu ← zho:"shasha".  
 xef ← fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chifu. jpn:チーフ (chīfu). + ara:(šeyx).  
-xim ← kor: 심 /sim/. zho: 心 "xīn".  
+xim ← kor: 심 (shim). zho:心 (xīn). jpn:心 (shin). yue:心 (sam1). hak:心 (sîm). vie:tim.  
 xin ← zho:信 (xìn). yue:信 (seon3). jpn:信 (shin). vie:tin.  
 xindawistia ← jpn:神道 (shintō). kor:신도 (sindo). zho:神道 (shéndào).  
 xing ← zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).  
@@ -848,11 +854,10 @@ yake ← eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).
 yakin ← hau:yaƙini.swa:yakini.  
 yang ← zho: 样 "yàng". tha: อย่าง "yàang". khm: យ៉ាង "yaang".  
 yatim ← ara:fas:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).  
-yen ← zho: 眼 (yǎn). ara: عين‏‎ (ʿen).  
-yenosuy ← kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.  
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
 yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
+yung ← zho:勇 (yǒng). yue:勇 (yung5). kor:용맹 (yonggam). vie:dũng cảm. jpn:勇 (yū).  
 ##z  
 zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).  
 zalim ← ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.  

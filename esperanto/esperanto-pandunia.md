@@ -14,6 +14,7 @@ afrikamanteco : afrikofilia
 afrikamanto : afrikofiler  
 Afriko : afrike  
 agreso : agres  
+aj (alas) : ay  
 akcento : acente  
 akceptebla (okej) : okey  
 akiri (gajni) : ganya  
@@ -24,7 +25,6 @@ aktoro (aktorino) : roler
 akvo : suy  
 akvomelono : arbuze  
 al (ĝis, por) : pa  
-alas! : ay  
 alfabeto : abace  
 algo : alge  
 alia : ali  
@@ -150,7 +150,7 @@ biero : bir
 bildo : graf  
 biologio : biyolojia  
 birdo : pakse  
-Birmo : bama  
+Birmo : myanmia  
 biskvito (kuketo) : biskute  
 bismuto : bismute  
 blanka : bay  
@@ -205,7 +205,8 @@ cezio : cesium
 citi : cita  
 citrono : limun  
 ##d  
-damaĝo : awar  
+damaĝa : damaji  
+damaĝo : damaje  
 Danio : dania  
 danki : danka  
 danko : danke  
@@ -891,7 +892,8 @@ oganesono : oganeson
 ogro (trolo) : guy  
 ok (8) : bal  
 oksigeno : okse  
-okulo : yen  
+okulo : kan  
+okulumi : kana  
 okupata : bizi  
 olivo : zaitun  
 ombro : saye  
@@ -901,6 +903,7 @@ oranĝa : aranji
 oranĝo : aranje  
 ordoni : komanda  
 ordono : komande  
+orelo : or  
 oriento : dong  
 origina : asli  
 origino : asle  
@@ -924,7 +927,7 @@ pantalonoj : pantalon
 papago : papagay  
 papajo : papay  
 papero : papir  
-papilio : pepele  
+papilio : pelpel  
 parko (ĝardeno) : parke  
 paroli (komuniki) : baxa  
 paroli : loga  
@@ -952,7 +955,7 @@ piano : pian
 picejo : pizeria  
 pico : pize  
 pieco : darme  
-piedo : pede  
+piedo : fute  
 piedpilko : futobol  
 pilko : bol  
 pingveno : pinguin  
@@ -1281,13 +1284,13 @@ venki : wina
 venko : win  
 venti : fonga  
 vento : fong  
-ventro : fubu'  
+ventro : bung  
 vera : weri  
 verando : berande  
 verbo : fati lekse  
 verda : berdi  
 versio (toisinto) : wersion  
-vespermanĝo : xam nyam  
+vespermanĝo : xamonyam  
 vespero : xam  
 vesti : fuka  
 vesto : fuke  

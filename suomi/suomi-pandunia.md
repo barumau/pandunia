@@ -466,7 +466,7 @@ ihmiskunta : insania
 ikkuna : janel  
 ikä : umur  
 ilkeä (julma) : zalim  
-illallinen : xam nyam  
+illallinen : xamonyam  
 ilma : hawe  
 ilman : na  
 ilmanpaine : hawobar  
@@ -518,7 +518,7 @@ jakaa (jaella) : fada
 jakaa (paloitella) : fena  
 jakautua (hajota) : fenu  
 jakki : yake  
-jalka (jalkaterä) : pede  
+jalka (jalkaterä) : fute  
 jalkapallo : futobol  
 Jamaika : jamaike  
 Japani : nipon  
@@ -805,6 +805,7 @@ korkea : gaw
 korkittaa (tukkia) : ziba  
 kortti : karte  
 koruton (tavanomainen, pelkkä) : sadi  
+korva : or  
 korvata : wisa  
 koskea (koskettaa) : toca  
 kosminen : kosmi  
@@ -900,7 +901,7 @@ kyrilliset aakkoset : kirili abace
 kysymys : eske  
 kysyvä : eski  
 kysyä : eska  
-kyynel : yenosuy  
+kyynel : kanosuy  
 kärppä (fretti) : furete  
 kärpänen : zeze  
 kärry (vaunu, auto, jne) : kar  
@@ -1085,7 +1086,7 @@ Madagaskar : madagasia
 magneetti : magnete  
 magneettinen : magneti  
 magnesium : magnes  
-maha : fubu'  
+maha (vatsa) : bung  
 mahdollinen (mahdollisesti, ehkä) : abli  
 mahdollisuus (tilaisuus) : canse  
 maissi : mais  
@@ -1245,7 +1246,7 @@ muurahainen : maye
 muusikko : musiker  
 muutama (pari-kolme) : dul u tin  
 muuttaa (muuntaa) : muta  
-Myanmar (Burma) : bama  
+Myanmar (Burma) : myanmia  
 myky (pelmeni, ravioli) : pelmen  
 mylläri : moler  
 myrkky : tokse  
@@ -1419,7 +1420,6 @@ paita : kamis
 paitsi (miinus) : minus  
 paitsi (poislukien) : cula  
 paja (kauppa, tekimö) : eria  
-paja tai kauppa : kan  
 pakana : kafir  
 pakata : paka  
 Pakistan : pakistan  
@@ -1465,7 +1465,7 @@ papu tai herne : dow
 Papua Uusi-Guinea : papua nowi ginia  
 papukaija : papagay  
 Paraguai : paraguay  
-parkkipaikka : kar parke  
+parkkipaikka : karoparke  
 parsa : lusun  
 parta : barde  
 parveke (kuisti) : balkon  
@@ -1484,7 +1484,7 @@ pelata : gema
 peli : gem  
 penkki : bence  
 perhe : famil  
-perhonen : pepele  
+perhonen : pelpel  
 perintö : waris  
 perjantai : war 5 (war lim)  
 persia (farsi) : farsi  
@@ -1626,7 +1626,7 @@ päivänseisaus : solestas
 päivää! : salam den  
 pää : sar  
 pää- : xefi  
-pääkallo : sar oste  
+pääkallo : saroste  
 päällikkö (pomo) : xef  
 pääministeri (suurvisiiri) : xefi minister  
 päärynä : per  
@@ -1693,7 +1693,7 @@ riskialtis : riski
 risteytys (hybridi) : hibride  
 risti : krus  
 robotti : robote  
-rohkea (urhea) : yungam  
+rohkea (urhea) : yung  
 roikuttaa : penda  
 rokote : waksin  
 Romania : romania  
@@ -1823,7 +1823,8 @@ sikhi : sikiste
 sikhiläisyys : sikistia  
 siksakki : zigzage  
 sileä : lis  
-silmä : yen  
+silmä : kan  
+silmäillä (katsoa) : kana  
 silta : pulte  
 simpanssi : cimpanze  
 Singapore : singapur  
@@ -2175,6 +2176,7 @@ vaatia (edellyttää) : xarta
 vaatimus (edellytys) : xarte  
 vagina : yone  
 vaha : mum  
+vahingollinen : damaji  
 vaihe (etappi) : faze  
 vaihtaa : badala  
 vain (ainoastaan) : mon  
@@ -2227,7 +2229,7 @@ vastaus : jawabe
 vastustaa : anta  
 vastustaja : anter  
 Vatikaanivaltio : watikan  
-vaurio : awar  
+vaurio (vahinko) : damaje  
 vauva : bebe  
 vegaani : wejan  
 veitsi (puukko) : cake  

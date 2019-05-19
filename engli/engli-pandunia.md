@@ -208,7 +208,7 @@ Belgium : belgia
 belief (faith, creed) : xin  
 believe : xina  
 Belize : belizia  
-belly (abdomen) : fubu'  
+belly (abdomen) : bung  
 belong (be a member) : memba  
 belong : tenu  
 belt (zone) : zon  
@@ -269,7 +269,7 @@ boy : jowan man
 boycott : boikote  
 brain : serebre  
 branch (bough) : xake  
-brave (courageous) : yungam  
+brave (courageous) : yung  
 Brazil : brazilia  
 bread : pang  
 breakfast : sube nyam  
@@ -302,7 +302,7 @@ bust (bosom) : buste
 busy (occupied) : bizi  
 but (whereas) : a  
 butter : makan  
-butterfly : pepele  
+butterfly : pelpel  
 buttocks (butt) : pigu'  
 button : boton  
 buy (purchase) : baya  
@@ -338,7 +338,7 @@ cannoneer : kanoner
 canoe : kanu'  
 captain : kapitan  
 car (cart, carriage, wagon, automobile) : kar  
-car park (parking lot) : kar parke  
+car park (parking lot) : karoparke  
 carat : kirate  
 carbon (coal) : karbon  
 card : karte  
@@ -543,7 +543,7 @@ Cyrillic alphabet : kirili abace
 Czech Republic : cehia  
 ##d  
 dagger : kanjar  
-damage (wreck) : awar  
+damage (injury, harm) : damaje  
 danger (peril) : hatar  
 dangerous : hatari  
 dark (dim) : oskur  
@@ -589,7 +589,7 @@ die (dice) : dade
 die : mortu  
 dig (excavate) : fosa  
 dining room : nyam kamar  
-dinner : xam nyam  
+dinner : xamonyam  
 direction : dixe  
 disc (disk) : diske  
 discussion (debate, discourse) : lon  
@@ -635,6 +635,7 @@ dysprosium : disprosium
 e-mail : eletroposte (e-poste)  
 ##e  
 each other (one another, mutually) : unale  
+ear : or  
 earn (gain) : ganya  
 earth (ground) : zem  
 Earth (Terra) : zemia  
@@ -710,7 +711,8 @@ excrement (shit) : kake
 exist (be present) : zayu  
 exit (leaving) : cute  
 exit door : cute mun  
-eye : yen  
+eye (look, watch) : kana  
+eye : kan  
 ##f  
 face : muke  
 face powder : mukofun  
@@ -779,7 +781,7 @@ focus (concentration) : fokus
 follow (come after) : bada  
 food (meal) : nyam  
 fool (buffoon) : bufon  
-foot : pede  
+foot : fute  
 football : futobol  
 forbid (ban, disallow) : harama  
 forbidden (illicit, haram, taboo) : haram  
@@ -925,6 +927,7 @@ Han Chinese : cini
 hand : hande  
 hang (dangle) : penda  
 happy (delighted) : suki  
+harmful (damaging) : damaji  
 harmonius : harmoni  
 harmony : harmonia  
 harness : maju'  
@@ -1396,7 +1399,7 @@ muslim (moslem) : islamiste
 must : bixu  
 mutual : unali  
 my : mi  
-Myanmar (Burma) : bama  
+Myanmar (Burma) : myanmia  
 myth (divine story) : dewi sage  
 ##n  
 Nahuatl (Nahua) : nawati  
@@ -1521,7 +1524,7 @@ osmium : osmium
 other : ali  
 Ottoman : osman  
 Ottoman Empire : osmania  
-ouch! (alas!) : ay  
+ouch (ow, alas) : ay  
 outcast (pariah) : paraye  
 outer (external) : way  
 outside (exterior) : waye  
@@ -1975,7 +1978,7 @@ skill (art, competence) : xute
 skillful : xuti  
 skin : pifu'  
 skirt : jupe  
-skull : sar oste  
+skull : saroste  
 sky (heaven) : saman  
 sleep (be asleep) : sona  
 sleep : son  
@@ -2150,7 +2153,7 @@ tea cup : cayokupe
 tea house : cayeria  
 teacher : darsogur  
 team : tim  
-tear drop : yenosuy  
+tear drop : kanosuy  
 technetium : teknetium  
 technique (technology) : tekne  
 technocracy : teknokratia  
@@ -2400,7 +2403,6 @@ word list : loge liste
 work (job, task) : werke  
 work : werka  
 worker : werker  
-workshop (place for...) : kan  
 world : dunia  
 world language : duniobax  
 worm : werme  
