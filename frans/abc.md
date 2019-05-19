@@ -5,7 +5,7 @@ Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alp
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
@@ -28,7 +28,7 @@ Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
 Consonnes
 ---------
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h

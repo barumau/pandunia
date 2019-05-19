@@ -5,7 +5,7 @@ con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -20,7 +20,7 @@ Pandunia tiene cinco vocales, que se pronuncian igual que en español.
 
 ## Sonidos de las consonantes
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h

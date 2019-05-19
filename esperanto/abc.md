@@ -7,7 +7,7 @@ Alfabeto (IFA):
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | ŭ | ŝ | j | z |
-| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
 literoj.

@@ -5,7 +5,7 @@ correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z |
+| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 Em Pandunia, cada letra sempre representa o mesmo som e nenhuma letra
 é muda.

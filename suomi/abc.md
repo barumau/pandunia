@@ -3,9 +3,9 @@ Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yksi kirjain vastaa yhtä äännettä. Ääntymättömiä kirjaimia ei ole.
 
@@ -24,7 +24,7 @@ Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
 Konsonantit
 -----------
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -82,7 +82,8 @@ Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (
 
 ## Tavuttaminen
 
-[-] Sanat voi jakaa tavuihin tavuviivalla. Tavuviiva asetetaan puhuttujen tavujen väliin. Esim. bin, ka-fe, yu-mor, pos-ta.
+[-] Sanat voi jakaa tavuihin tavuviivalla. Tavuviiva asetetaan puhuttujen tavujen väliin.
+Esim. bin, ka-fe, yu-mor, pos-ta.
 
 
 ## Välimerkit

@@ -6,7 +6,7 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 
 | Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ | ʃ | j | z~dz |
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
@@ -28,7 +28,7 @@ Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w 
 Spółgłoski
 ----------------
 
-    p  b  f  v  m  w
+    p  b  f     m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
