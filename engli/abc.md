@@ -137,7 +137,8 @@ Initial consonants are restricted to:
 2. Stop + liquid
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. ny
+3. Consonant + semivowel
+   - f.ex. ny, py, sw
 
 Middle consonant clusters are restricted to:
 
@@ -145,14 +146,16 @@ Middle consonant clusters are restricted to:
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Resonant + silibant
+2. Resonant + sibilant
     - ns, ls, rs
     - nz, lz, rz
     - nx, lx, rx
-3. Silibant + stop
+3. Sibilant + stop
     - st, sp, sk
-4. Stop + liquid (see above)
+4. Resonant + sibilant + stop
+    - f.ex. lsk
+5. Stop + liquid (see above)
 
 Allowed final consonants are:  
-m, n, ng, l, r, s, x
+h, l, m, n, ng, r, s, w, x, y
 
