@@ -32,6 +32,8 @@ Some remarkable features of Pandunia:
 - [Pandunia-English](pandunia-engli.md) dictionary
 - [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
 
+- [Your name in Pandunia](ren_da_nam.md)
+
 ## Stories
 
 - [The rich man and the poor man](rici_man_i_miskin_man.md)
