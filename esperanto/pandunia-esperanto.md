@@ -258,7 +258,7 @@ cuteomun : elirejo
 cuza : elekti  
 cuze : elekto  
 ##d  
-da : de (partiklo de posedo)  
+da : propra (partiklo de posedo)  
 dade : ĵetkubo  
 daixer : ambasadoro  
 daixeria : ambasado  
@@ -324,7 +324,7 @@ dox : kulpo
 doxi : kulpa  
 doze : porcio (dozo)  
 drame : dramo  
-du : propra (partiklo de posedo)  
+du : de (partiklo de posedo)  
 dubnium : dubnio  
 duga : legi  
 duka : lamenti  

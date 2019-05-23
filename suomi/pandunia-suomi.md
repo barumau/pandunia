@@ -318,7 +318,7 @@ cuteomun : uloskäynti
 cuza : valita  
 cuze : valinta (vaali)  
 ##d  
-da : omistetun omistajaan liittävä partikkeli  
+da : -n (oma)  
 dade : noppa (arpakuutio)  
 daixer : lähettiläs  
 daixeria : lähetystö  
@@ -409,7 +409,7 @@ doxi : syyllinen
 doze : annos  
 drame : draama  
 droge : huume  
-du : -n (oma)  
+du : omistetun omistajaan liittävä partikkeli  
 dubnium : dubnium  
 duga : lukea  
 duka : surra (murehtia)  

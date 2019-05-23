@@ -2,7 +2,7 @@
 
 | bax | num |
 |-----|-----|
-| pan | 821 |
+| pan | 822 |
 | engli | 410 |
 | eapani | 299 |
 | hindi | 267 |
@@ -10,7 +10,7 @@
 | portugali | 234 |
 | rusi | 217 |
 | turki | 177 |
-| cini | 176 |
+| cini | 177 |
 | arabi | 153 |
 | niponi | 140 |
 | indonesi | 140 |

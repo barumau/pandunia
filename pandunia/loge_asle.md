@@ -179,6 +179,7 @@ cute ← zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtn
 cuza ← eng:choose. + hin:चुनना "cunnā". + vie:chọn.  
 cuze ← zho:的 (de).  
 ##d  
+da ← zho:的 (de).  
 dade ← spa:por:tgl:dado. ind:swa:dadu.  
 dalil ← ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.  
 damaje ← eng:damage. fra:dommage.  

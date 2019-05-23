@@ -1,4 +1,4 @@
--n (oma) : du  
+-n (oma) : da  
 : : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
 aakkoset (ABC) : abace  
@@ -1370,7 +1370,7 @@ Oman : oman
 omena : aple  
 omistaa : malka  
 omistaja : malker  
-omistetun omistajaan liittävä partikkeli : da  
+omistetun omistajaan liittävä partikkeli : du  
 ommella : suta  
 ongelma : problem  
 onnitella (siunata) : barka  

@@ -981,7 +981,7 @@ miejsce, lokacja : loke
 miejscowy, lokalny : loki  
 miesiąc : mes  
 mieszkać : doma  
-mieć (partykuła posiadania) : du  
+mieć (partykuła posiadania) : da  
 mieć (trzymać) : tena  
 migdał : badam  
 mikro- : mikro-  
@@ -2209,7 +2209,7 @@ właściwy, poprawny : sahi
 właśnie, dopiero co, ostatnio, niedawno : gang  
 ##x  
 ##y  
-z (partykuła posiadania) : da  
+z (partykuła posiadania) : du  
 z, od : ya  
 ##z  
 zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya  

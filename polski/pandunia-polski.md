@@ -314,7 +314,7 @@ cuteomun : drzwi wyjściowe
 cuza : wybrać, wybierać, selekcjonować  
 cuze : wybór, elekcja, selekcja  
 ##d  
-da : z (partykuła posiadania)  
+da : mieć (partykuła posiadania)  
 dade : kość do gry  
 daixer : ambasador  
 daixeria : ambasada  
@@ -403,7 +403,7 @@ doxi : winny
 doze : porcja, dawka  
 drame : dramat  
 droge : narkotyk  
-du : mieć (partykuła posiadania)  
+du : z (partykuła posiadania)  
 dubnium : dubn  
 duga : czytać  
 duka : martwić  

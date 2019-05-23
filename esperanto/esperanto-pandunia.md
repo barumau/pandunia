@@ -216,7 +216,7 @@ dato : nenomesoden
 daŭri : dura  
 daŭro : dur  
 de (el, pro) : ya  
-de (partiklo de posedo) : da  
+de (partiklo de posedo) : du  
 dek (10) : des  
 dekono : deci  
 demanda : eski  
@@ -1024,7 +1024,7 @@ proksima : karbi
 promeni (marŝi) : marca  
 promesi : wada  
 prometio : prometium  
-propra (partiklo de posedo) : du  
+propra (partiklo de posedo) : da  
 protaktinio : protacinium  
 psikologio : ruholojia  
 pulmo : pulmon  

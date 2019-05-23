@@ -1484,7 +1484,7 @@ Oceania : oseania
 October : mes 10 (mes des)  
 odd (strange, weird) : bizar  
 Odia (Oriya) : odisi  
-of (particle of possession) : da  
+of (particle of possession) : du  
 office (bureau) : ofisia  
 office (position) : ofis  
 officer : ofiser  
@@ -1531,7 +1531,7 @@ outcast (pariah) : paraye
 outer (external) : way  
 outside (exterior) : waye  
 overpass : supre  
-own (particle of possession) : du  
+own (particle of possession) : da  
 own : malka  
 owner (proprietor) : malker  
 oxygen : okse  

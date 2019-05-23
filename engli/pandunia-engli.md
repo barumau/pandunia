@@ -320,7 +320,7 @@ cuteomun : exit door
 cuza : choose (elect, select)  
 cuze : choice (election, selection)  
 ##d  
-da : of (particle of possession)  
+da : own (particle of possession)  
 dade : die (dice)  
 daixer : ambassador  
 daixeria : embassy  
@@ -412,7 +412,7 @@ doxi : guilty
 doze : portion (dose)  
 drame : drama  
 droge : drug (intoxicating substance)  
-du : own (particle of possession)  
+du : of (particle of possession)  
 dubnium : dubnium  
 duga : read  
 duka : grieve  
