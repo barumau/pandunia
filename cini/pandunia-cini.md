@@ -50,10 +50,12 @@ bandir : 旗
 banye : 洗澡  
 banyokamar : 浴室  
 banyu : 游泳  
+bari : 重型的  
 baskobol : 篮球  
 bax : 语言  
 baxolojia : 白色  
 bazar : 市场  
+baze : 底部  
 bere : 浆果  
 bil : 帐单   
 bon rupi : 好看  
@@ -99,8 +101,8 @@ lole : 他们
 ##m  
 mame : 妈妈  
 manihayistia : 摩尼教   
-matur fem : 女人  
-matur man : 男人  
+maturi fem : 女人  
+maturi man : 男人  
 maye : 蚂蚁   
 me : 我  
 mece : 比赛  
@@ -112,6 +114,7 @@ mome : 我们
 ##n  
 ni : 不  
 nida : 需要  
+note : 便条  
 ##o  
 ##p  
 pa : 到  
@@ -122,6 +125,7 @@ plisa : 请
 pulte : 桥  
 ##r  
 ##s  
+sal : 盐   
 sol : 太阳  
 solosistem : 太阳系  
 supris : 惊奇  
@@ -147,6 +151,7 @@ toca : 接触
 tomate : 西红柿  
 tote : 你们  
 ##u  
+ura : 好哇   
 ##v  
 ##w  
 wanta : 想要  

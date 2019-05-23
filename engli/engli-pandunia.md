@@ -11,7 +11,7 @@ actinium : acinium
 actor (actress) : roler  
 additional : maxi  
 address : adres  
-adjective : sifi lekse  
+adjective : sifolekse  
 adult : adulte  
 adultery (infidelity) : zine  
 advance (progress, enter) : jina  
@@ -20,7 +20,7 @@ advisor (counselor, mentor) : menter
 affirm (agree, concur) : amena  
 Afghanistan : afgania  
 Africa : afrike  
-African : afri  
+African : afriki  
 afrophile : afrikofiler  
 Afrophilia : afrikofilia  
 afternoon : xamoden  
@@ -101,7 +101,7 @@ arsenic : arsen
 art : arte  
 article (writing) : makale  
 artificial : sani  
-artificial language (conlang) : sani bax  
+artificial language (conlang) : sanobax  
 artisan (craftsman) : janger  
 artist : arter  
 Aruba : arubia  
@@ -161,7 +161,7 @@ band (tape, bandage) : bende
 bandage (strip, ribbon) : faxe  
 Bangladesh : banglia  
 banister (handrail) : langan  
-baobab : buyu'  
+baobab : buy  
 bar (obstruct) : barya  
 bar (pub, beer house) : bireria  
 bar (rod, stick) : baton  
@@ -195,8 +195,8 @@ because : sa sabu
 become open : kayu  
 bed : bede  
 bedouin (nomadic) : badawi  
-bedroom : son kamar  
-beef : mumu manse  
+bedroom : sonokamar  
+beef : mumu'omanse  
 beer : bir  
 begin (commence, start) : mula  
 beginning : mul  
@@ -229,7 +229,7 @@ billion (giga-) : giga
 biology (study of life) : biyolojia  
 bird : pakse  
 birth : jen  
-birthday : jen den  
+birthday : jenoden  
 biscuit (cookie) : biskute  
 bismuth : bismute  
 black : kal  
@@ -241,14 +241,14 @@ blossom (bloom) : pula
 blow : fonga  
 blue : nil  
 board (plank) : ban  
-board game : ban gem  
+board game : banogem  
 boat (ship) : bote  
 bodily (corporal) : badani  
 body : badan  
 bohrium : borium  
 boil (be boiled) : bulu  
 boil (cook) : bula  
-bold letter : gros harfe  
+bold letter : grosi harfe  
 Bolivia : bolibia  
 bomb : bombe  
 bon appetit! : salam nyam  
@@ -272,7 +272,7 @@ branch (bough) : xake
 brave (courageous) : yung  
 Brazil : brazilia  
 bread : pang  
-breakfast : sube nyam  
+breakfast : subonyam  
 breast (boob, tits) : mem  
 breath : nafas  
 bridge : pulte  
@@ -297,7 +297,7 @@ burn (cause to burn) : jala
 Burundi : rundia  
 bus : bus  
 business (commercial activity) : biznes  
-businessperson (businessman) : biznes ren  
+businessperson (businessman) : bizneser  
 bust (bosom) : buste  
 busy (occupied) : bizi  
 but (whereas) : a  
@@ -331,7 +331,7 @@ camper : kamper
 can (know, be able) : abla  
 can (tin can) : tin  
 Canada : kanadia  
-candle : mum nur  
+candle : mumonur  
 candy (sweets) : kande  
 cangaroo : kangur  
 cannoneer : kanoner  
@@ -357,7 +357,7 @@ Catalonia : katalunia
 catch (capture, seize, snatch, intercept) : kapa  
 cause (be the cause for) : saba  
 cave : gua  
-Cayman Islands : keyman nesia  
+Cayman Islands : keiman da nesia  
 celebrate (party) : festa  
 celestial (heavenly) : samani  
 cell (biology) : sel  
@@ -378,10 +378,10 @@ channel : kanal
 chaos (disorder, turmoil) : haos  
 chapter (section) : babe  
 chat (babble) : blabla  
-chat room : blable kamar  
+chat room : blableria  
 check (to examine) : ceka  
 checkers (draughts) : damogem  
-cheer (hooray) : ura  
+cheer (hurrah, hooray) : ura  
 cheese : cis  
 chemical : kimi  
 chemistry : kimia  
@@ -430,7 +430,7 @@ cobalt : kobalte
 coca : koka'  
 coco : yeze  
 cocoa : kakaw  
-Cocos (Keeling) Islands : kokos nesia  
+Cocos (Keeling) Islands : kokos da nesia  
 code (cipher) : kode  
 coerce (force, compel) : musa  
 coercion : muse  
@@ -459,7 +459,7 @@ common (universal) : putong
 communicate (message) : mesaja  
 communism : komunistia  
 communist : komuniste  
-Comoros : komoro nesia  
+Comoros : komori nesia  
 company (corporation) : kompania  
 compared to (as, than) : ka  
 compatriot : samodexi  
@@ -474,7 +474,7 @@ cone : konus
 Confucianism : konfuzistia  
 Confucious : konfuze  
 Congo (Brazzaville) : brazawil kongolia  
-Congo Kinshasa : kinsasa kongolia  
+Congo Kinshasa : kinsasi kongolia  
 Congolese : kongoli  
 congratulate (bless) : barka  
 connect (join, link) : samuna  
@@ -488,7 +488,7 @@ contribute : fenodona
 conventional (customary, traditional) : rasmi  
 cook (chef) : kuker  
 cook (prepare food) : kuka  
-Cook Islands : kuke nesia  
+Cook Islands : kuke da nesia  
 cool : kul  
 copernicium : kopernikium  
 copper : kuper  
@@ -510,7 +510,7 @@ countryside : rustia
 coupon : kupon  
 cover (conceal) : deka  
 cover (lid, cap, deck) : deke  
-cow : mumu  
+cow : mumu'  
 crafty (dexterous) : jangi  
 cream : krem  
 crime : krim  
@@ -551,7 +551,7 @@ Darwinism : darwinistia
 Darwinist : darwiniste  
 date : nenomesoden  
 date fruit : tamar  
-daughter : fem bace  
+daughter : femi bace  
 day (daytime) : den  
 day of the week : war  
 dead (deceased) : morti  
@@ -588,7 +588,7 @@ diamond : almas
 die (dice) : dade  
 die : mortu  
 dig (excavate) : fosa  
-dining room : nyam kamar  
+dining room : nyamokamar  
 dinner : xamonyam  
 direction : dixe  
 disc (disk) : diske  
@@ -694,7 +694,7 @@ Europe : europe
 European : europi  
 European Union (EU) : europi unia  
 europium : europium  
-evaluate (review, comment, criticise) : pipinga  
+evaluate (review, criticise) : pipinga  
 evaluation (criticism) : piping  
 even (intensifier) : hati  
 evening : xam  
@@ -710,7 +710,7 @@ exclude (except, save) : cula
 excrement (shit) : kake  
 exist (be present) : zayu  
 exit (leaving) : cute  
-exit door : cute mun  
+exit door : cuteomun  
 eye (look, watch) : kana  
 eye : kan  
 ##f  
@@ -718,7 +718,7 @@ face : muke
 face powder : mukofun  
 factory : fateria  
 fairy : peri  
-Falkland Islands (Malvinas) : malbinas nesia  
+Falkland Islands (Malvinas) : malbinas da nesia  
 fall : padu  
 false (fake) : falsi  
 family : famil  
@@ -757,8 +757,8 @@ film (video) : filme
 filter : filter  
 find (discover) : eureka  
 fine (delicate) : fain  
-finger (toe) : finger  
-finger ring : finger wen  
+finger (toe) : finge  
+finger ring : fingowen  
 finish (put an end to) : fina  
 Finland : suomia  
 Finnish : suomi  
@@ -772,7 +772,7 @@ fix (attach) : fiksa
 flag (banner) : bandir  
 flat : ping  
 flatbread (chapati, roti) : rote  
-floor : kamar tal  
+floor : kamarotal  
 flower : pul  
 fluorine : flur  
 fly (go through air) : feya  
@@ -788,7 +788,7 @@ forbidden (illicit, haram, taboo) : haram
 force (strength) : fortia  
 foreign : way dexi  
 foreign country : way dexia  
-forenoon : sube den  
+forenoon : suboden  
 forest (jungle, woods) : jangal  
 fork : forke  
 form (shape) : forme  
@@ -906,8 +906,8 @@ guardian (watchman) : garder
 Guatemala : guatemala  
 Guernsey : genzia  
 guilty : doxi  
-Guinea : gine  
-Guinea-Bissau : gine bisau  
+Guinea : ginia  
+Guinea-Bissau : gini bisau  
 guitar : gitar  
 Gujarati : gujarati  
 gun (cannon) : kanon  
@@ -944,6 +944,7 @@ heal (cure) : medika
 hear (listen) : auda  
 heart : xim  
 heavy : bari  
+heavy metal : barometal  
 Hebrew : ibri  
 helium : helium  
 hell : narake  
@@ -996,7 +997,7 @@ human being : insan
 humanism : insanistia  
 humanist : insaniste  
 humanistic : insanisti  
-hummus : humus sos  
+hummus : humusosos  
 humor : yumor  
 humorist : yumoriste  
 humorous (comical, funny) : yumori  
@@ -1112,7 +1113,7 @@ ketchup : kecape
 kettle : ketel  
 key (push-button, switch) : buton  
 key : cabe  
-keyboard : buton ban  
+keyboard : butonopan  
 kill : morta  
 killer : morter  
 kilogram (kg) : kilogram  
@@ -1120,7 +1121,7 @@ kilometer : kilometre
 kind (nice, gentle) : jentil  
 kind (type, style) : yang  
 kinetic : kini  
-king : man rajer  
+king : mani rajer  
 king or queen : rajer  
 kingdom : rajia  
 kiosk : kioske  
@@ -1218,7 +1219,7 @@ love (to be in love with) : ama
 love romantically : romansa  
 lower : nici  
 luggage (baggage) : bagaje  
-lunch : den nyam  
+lunch : denonyam  
 lung : pulmon  
 lutetium : lutetium  
 Luxembourg : luksemburgia  
@@ -1252,7 +1253,7 @@ male : man
 Mali : malia  
 Malta : malte  
 mammal : mamal  
-man (adult male) : matur man  
+man (adult male) : maturi man  
 Mandarin Chinese (Putonghua) : putong cini  
 mandarin orange : migan  
 manganese : mangan  
@@ -1270,7 +1271,7 @@ margarine : margarin
 mark (leave a mark) : marka  
 mark (trace) : marke  
 market (bazaar) : bazar  
-market liberalism : bazar huristia  
+market liberalism : bazarohuristia  
 marriage (matrimony) : maria  
 married : mari  
 marry : mara  
@@ -1316,7 +1317,9 @@ meitnerium : maitnerium
 melodious (melodic) : melodi  
 melody : melodia  
 member (component) : member  
+memorandum (memo) : yadonote  
 memory (recollection) : yade  
+mental (psychic) : ruhi  
 Mercury : budan  
 message : mesaje  
 messianic : kristi  
@@ -1435,7 +1438,7 @@ New Caledonia : nowi kaledonia
 New Zealand : nowi zilandia  
 news : habar  
 newspaper (gazette) : habarobaw  
-newton (N) : nuton  
+newton (N) : nyuton  
 next (following) : badi  
 Nicaragua : nikaragua  
 nice (pleasant, lovely) : latif  
@@ -1459,19 +1462,18 @@ norm (standard) : norme
 normal : normi  
 north : norde  
 northern : nordi  
-Northern Mariana Islands : marian nesia  
+Northern Mariana Islands : marian da nesia  
 Norway : norgia  
 Norwegian : norgi  
 nose : nos  
 not (no) : ni  
-note (observation) : note  
+note (observation, remark, comment) : note  
 note (observe, notice) : nota  
 notebook : notobuke  
 nothing : nol xey  
 notice (notification) : notis  
 notify : notisa  
 November : mes 11 (mes des un)  
-now : nun  
 nudism : nudistia  
 nudist : nudiste  
 number : num  
@@ -1688,7 +1690,7 @@ ponder (think) : hema
 pool (basin) : basen  
 poor (miserable) : miskin  
 popular (trendy) : faxoni  
-pork : gurube manse  
+pork : gurubomanse  
 porn : porne  
 pornography : pornografia  
 portion (dose) : doze  
@@ -1706,6 +1708,7 @@ power (authority, rule) : sultan
 practical (pragmatic) : prati  
 practice (actuality) : prate  
 practice (to exercise) : lenxa  
+praise (commend, exalt) : halela  
 pray : duwa  
 prayer : duwe  
 precede (come before) : preda  
@@ -1722,7 +1725,7 @@ prime minister : xefi minister
 print (stamp) : cape  
 prison (imprisonment) : prizon  
 prison : prizonia  
-privateer (buccaneer) : bote kaper  
+privateer (buccaneer) : botokaper  
 problem : problem  
 process (procedure) : proses  
 produce (create, make) : sana  
@@ -1742,6 +1745,7 @@ prophet Mani : manihay
 proponent (supporter, activist, -ist) : iste  
 protactinium : protacinium  
 prove (demonstrate, testify) : dalila  
+psychology : ruholojia  
 pudding : puding  
 Puerto Rico : portorikia  
 pull : tira  
@@ -1752,7 +1756,7 @@ pyramid : piram
 Qatar : kataria  
 qualify (describe) : sifa  
 quality (excellence, virtue, merit) : gun  
-queen : fem rajer  
+queen : femi rajer  
 question : eske  
 quote (cite) : cita  
 Quran (Koran) : kuran  
@@ -1769,7 +1773,7 @@ radioactivity (ionizing radiation) : ioni radia
 radiometer : radiometer  
 radional (reasonable) : razoni  
 radiotransmitter : radi miser  
-radish : lobak  
+radish : lobake  
 radium : radium  
 radon : radon  
 railway (railroad) : trenodaw  
@@ -1778,7 +1782,7 @@ Ramadan : ramazan
 ramp (incline) : rampe  
 random : zari  
 ray : rade  
-ray of light : nuri rade  
+ray of light : nurorade  
 read : duga  
 ready : redi  
 realization (awareness, enlightenment, bodhi) : bude  
@@ -1825,7 +1829,7 @@ rhenium : renium
 rhinoceros : faru  
 rhodium : rodium  
 rhythm (beat) : ritme  
-rib cage : sine kase  
+rib cage : sinokase  
 rice : ris  
 rich : rici  
 right (correct, accurate) : sahi  
@@ -1872,7 +1876,7 @@ Russian : rusi
 rustle : xaxu  
 ruthenium : rutenium  
 rutherfordium : ruterfordium  
-Rwanda : rwanda  
+Rwanda : rwandia  
 Réunion : reunion  
 ##s  
 Sabbath : sabate  
@@ -1880,7 +1884,7 @@ sad : duki
 safe (secure) : sekur  
 saffron : zafran  
 Saint Helena : santi helena  
-Saint John's Day : yohan feste  
+Saint John's Day : yohani feste  
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : winsi i grenadin  
 salad : salade  
@@ -1937,7 +1941,7 @@ sew : suta
 sex (sexual intercourse) : sekse  
 sexual (relating to gender) : jinsi  
 sexy (sexual) : seksi  
-Seychelles : sexel nesia  
+Seychelles : sexel da nesia  
 shadow : saye  
 shaman : xaman  
 shame (disgrace) : xarme  
@@ -2003,7 +2007,7 @@ sofa (couch) : sofa'
 soft : komal  
 soil (dirt) : darte  
 solar system : solosistem  
-Solomon Islands : solomon nesia  
+Solomon Islands : solomon da nesia  
 solstice : solestas  
 Somalia : somalia  
 some (indefinite, indeterminate) : fulan  
@@ -2011,10 +2015,11 @@ some : koy
 someone (somebody) : koy ren  
 something : koy xey  
 sometime : koy zaman  
-son : man ban  
+son : mani ban  
 song : cante  
 soon : sun  
 sorry (pardon) : pardon  
+soul (mind, psyche) : ruhe  
 sound (audio) : sonde  
 sound (make a sound) : sonda  
 soup : supe  
@@ -2033,7 +2038,6 @@ speed (velocity) : rape
 speedometer : rapometer  
 spice (seasoning) : masal  
 spider : arane  
-spirit (soul, mind) : ruhe  
 spit : tuka  
 split (fall apart) : fenu  
 spoon : camce  
@@ -2042,7 +2046,7 @@ spring (springtime) : cune
 square (plaza) : maidan  
 square (tetragon) : carokon  
 squirrel : tupay  
-Sranan Tongo : surinam bax  
+Sranan Tongo : surinami bax  
 Sri Lanka (Ceylon) : lankia  
 stadium (arena) : estadia  
 stage (phase) : faze  
@@ -2073,7 +2077,7 @@ student (pupil, learner) : darser
 studio : estudia  
 submission (surrender) : islam  
 substitute : wisa  
-subway (metro) : tunel tren  
+subway (metro) : tunelotren  
 suck : cupa  
 Sudan : sudan  
 suffer (get hurt) : paxu  
@@ -2189,13 +2193,12 @@ theology : dewolojia
 theory : teoria  
 thermometer : termometer  
 they : lole  
-thick : gros  
+thick : grosi  
 thief : corer  
 thing : xey  
 think (ponder, reflect) : fikra  
 this (these) : ci  
 this one : ce  
-thorax : torace  
 thorium : torium  
 thought (idea) : fikre  
 thousand : kil  
@@ -2208,7 +2211,7 @@ ticket : tikete
 tie (fasten, bind) : benda  
 tiger : bagre  
 tikka (piece) : tike  
-tikka masala : tike masal  
+tikka masala : masali tike  
 time (moment) : zaman  
 time (occasion) : mar  
 tiny (mini-) : mini  
@@ -2234,7 +2237,7 @@ tooth brush : dantobrox
 top (peak, pinnacle, summit, apex, vertex) : pike  
 top (spinning top) : tolo  
 topic (subject, theme) : tem  
-torch : baton nur  
+torch : nurobaton  
 touch : toca  
 tourism : safaristia  
 tourist : safariste  
@@ -2252,9 +2255,9 @@ travel : safara
 traveler : safarer  
 treasure (treasury) : hazin  
 tree : arbe  
-triangle : samokon  
+triangle : tinokon  
 tribe : tribe  
-Trinidad and Tobago : trinida i tobago  
+Trinidad and Tobago : trinidade i tobage  
 trouble (disturbance, bother) : mafan  
 true (real, genuine, very, indeed) : weri  
 trunk (torso) : torse  
@@ -2267,6 +2270,7 @@ tunic (gown) : tunike
 Tunisia : tunisia  
 tunnel : tunel  
 turban : pagre  
+turkey : totol  
 Turkey : turkia  
 Turkish : turki  
 Turkmenistan : turkmenia  
@@ -2289,7 +2293,6 @@ union : unia
 unite : una  
 united : uni  
 United Kingdom : britania  
-United States of America : uni stan du amerike  
 United States of America : usamerike  
 unplug (uncork) : zibula  
 upper : supri  
@@ -2317,7 +2320,7 @@ vegan : wejan
 vegetable : weje  
 Venezuela : wenesuela  
 veranda (balcony, terrace, porch) : berande  
-verb : fati lekse  
+verb : fatolekse  
 version (variation, edition) : wersion  
 vice (deputy) : wis  
 vice-president : wis prezidente  
@@ -2345,8 +2348,8 @@ wait : denga
 wake (make awake) : weka  
 walk (march) : marca  
 wall : mur  
-Wallis and Futuna Islands : walis i futuna nesia  
-wallpaper : mur papir  
+Wallis and Futuna Islands : walis i futuna da nesia  
+wallpaper : muropapir  
 want (desire) : wanta  
 warm : garmi  
 warrior (fighter) : jenger  
@@ -2355,7 +2358,7 @@ washing machine : waxomaxin
 water : suy  
 water buffalo : kabaw  
 water lily (nenuphar) : nenufar  
-watercolor : suy rang  
+watercolor : suyorang  
 watermelon : arbuze  
 watt : wate  
 wax : mum  
@@ -2396,10 +2399,10 @@ wise : sofi
 with (by, at, in, on) : sa  
 without : na  
 wolf : wolfe  
-woman (adult female) : matur fem  
+woman (adult female) : maturi fem  
 wood (timber) : moke  
 word : lekse  
-word list : loge liste  
+word list : leksoliste  
 work (job, task) : werke  
 work : werka  
 worker : werker  

@@ -7,7 +7,7 @@ actinium : acinium
 adresse : adres  
 adulte : adulte  
 Afghanistan : afgania  
-africain : afri  
+africain : afriki  
 Afrique : afrike  
 afrophile : afrikofiler  
 afrophilie : afrikofilia  
@@ -55,6 +55,7 @@ balcon : balkon
 banane : banan  
 bande : bande  
 baryum : barium  
+base : baze  
 basketball : baskobol  
 bibliothèque : kitabia  
 bidon (boîte) : tin  
@@ -82,6 +83,7 @@ frais : tazi
 féliciter : barka  
 ##g  
 ##h  
+hourra : ura  
 hétérosexuel : alojinsokami  
 ##i  
 ##j  
@@ -90,6 +92,7 @@ justice : adalia
 Jésus : yesus  
 ##k  
 ##l  
+langue : bax  
 lapin, lièvre : tuze  
 livre : buke  
 loup : wolfe  
@@ -101,6 +104,7 @@ manichéisme : manihayistia
 melon d'eau : arbuze  
 mouche : zeze  
 ##n  
+note : note  
 ##o  
 ordinateur : komputer  
 oreange : aranje  
@@ -116,11 +120,14 @@ possible (peut-être) : abli
 possédant (propriétaire) : malker  
 pouvoir (être capable) : abla  
 propriété (possession, bien) : malke  
+psychologie : ruholojia  
+psyché : ruhe  
 ##r  
 ruban (bande) : tepe  
 ##s  
 salle de bains : banyokamar  
 se baigner : banyu  
+sel : sal  
 suffixe de l'unité fondamentale linguistique : -em  
 suffixe pour dériver les noms : -e  
 suffixe pour l'adjectif : -i  

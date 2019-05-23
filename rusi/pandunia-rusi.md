@@ -47,7 +47,10 @@ bandir : флаг
 banye : купание  
 banyokamar : ванная  
 banyu : купаться  
+bari : тяжёлый  
 baskobol : баскетбол  
+bax : язык  
+baze : основа (база,  фундамент)  
 bil : счёт  
 buke : книга  
 ##c  
@@ -82,12 +85,15 @@ kosmia : космос
 ##m  
 manihayistia : манихейство  
 ##n  
+note : запись (заметка)  
 ##o  
 ##p  
 papagay : попугай  
 pike : вершина  
 ##r  
+ruhe : душа (дух)  
 ##s  
+sal : соль  
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  
@@ -110,6 +116,7 @@ tira milke : тянуть
 toca : касаться  
 tomate : помидор (томат)  
 ##u  
+ura : ура  
 ##v  
 ##w  
 waw : вау!  
@@ -122,6 +129,7 @@ xaw : мало
 ##y  
 ya : из (от)  
 yada : память  
+yadonote : меморандум   
 yaman : Йемен  
 yesus : Иисус  
 yode : йод  

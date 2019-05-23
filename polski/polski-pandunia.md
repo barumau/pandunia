@@ -5,13 +5,13 @@ Afganistan : afgania
 afrofil : afrikofiler  
 afrofilia : afrikofilia  
 Afryka : afrike  
-afrykański, Afrykanin : afri  
+afrykański, Afrykanin : afriki  
 agresja, napaść : agres  
 aj!, ał! : ay  
 akcent, nacisk : acente  
 akt, scena : roler  
 aktyn : acinium  
-akwarela, farba wodna : suy rang  
+akwarela, farba wodna : suyorang  
 akwarium : fixotanke  
 Albania : cipia  
 ale, lecz : a  
@@ -92,7 +92,7 @@ bambus : jug
 banan : banan  
 bandaż, taśma, wstążka : faxe  
 Bangladesz : banglia  
-baobab : buyu'  
+baobab : buy  
 bar : barium  
 bar, knajpa : bireria  
 Barbados : barbados  
@@ -250,7 +250,7 @@ Czarnogóra : cernagoria
 czarny : kal  
 czas, moment : zaman  
 czas; okazja : mar  
-czasownik : fati lekse  
+czasownik : fatolekse  
 czaszka : saroste  
 czcić, szanować : puja  
 czekać : denga  
@@ -270,7 +270,7 @@ część (fragment, strzęp, kawałek, okruch) : parce
 część, ułamek : fen  
 członek : member  
 człowiek, istota ludzka : insan  
-córka : fem bace  
+córka : femi bace  
 ##d  
 dach : cate  
 daktyl : tamar  
@@ -288,7 +288,7 @@ delikatny, cienki, lekki : fain
 demografia : demografia  
 demokracja : demokratia  
 demokrata : demokratiste  
-Demokratyczna Republika Konga : kinsasa kongolia  
+Demokratyczna Republika Konga : kinsasi kongolia  
 demokratyczny : demokrati  
 demon : demon  
 dentysta : dantomediker  
@@ -327,7 +327,7 @@ droga, szosa, ulica : daw
 drożdże : hamir  
 drużyna : tim  
 drzewo : arbe  
-drzwi wyjściowe : cute mun  
+drzwi wyjściowe : cuteomun  
 drzwi, brama, portal : mun  
 dualizm : dulistia  
 dubn : dubnium  
@@ -356,7 +356,7 @@ dziewięć (9) : naw
 dzień : den  
 dzień dobry : salam den  
 dzień tygodnia : war  
-dzień świętego Jana : yohan feste  
+dzień świętego Jana : yohani feste  
 dziki : wildi  
 dziobak : batokrote  
 dziura : kong  
@@ -408,7 +408,7 @@ ewangelia : anjil
 ##f  
 fabryka, manufaktura : fateria  
 fajka : pipe  
-Falklandy, Malwiny : malbinas nesia  
+Falklandy, Malwiny : malbinas da nesia  
 fantastyczny, fantazyjny : fantazi  
 fantazja (wyobrażenie, wyobraźnia) : fantaze  
 fascynacja : fasin  
@@ -484,7 +484,7 @@ gorączka : feber
 gotować, szykować jedzenie : kuka  
 gotowy : redi  
 gra : gem  
-gra planszowa : ban gem  
+gra planszowa : banogem  
 gracki, helleński; Grek : helen  
 gracz : gemer  
 grafem : grafem  
@@ -497,7 +497,7 @@ grać, odgrywać rolę : rola
 Grecja : helenia  
 Grenada : grenada  
 grom, huk : grom  
-gruby : gros  
+gruby : grosi  
 grudzień : mes 9 (mes naw)  
 grunt (ziemia, próchnica) : darte  
 grupa : grupe  
@@ -507,7 +507,7 @@ grób, mogiła, grobowiec : gabre
 Guam : guam  
 Gudżarat : gujarati  
 Guernsey : genzia  
-Guinea Bissau : gine bisau  
+Guinea Bissau : gini bisau  
 Gujana : gayan  
 Gujana Francuska : giyan  
 guma : gom  
@@ -517,7 +517,7 @@ Gwadelupa : guadelupe
 gwarancja : garante  
 Gwatemala : guatemala  
 gwiazda : xing  
-Gwinea : gine  
+Gwinea : ginia  
 góra, wzgórze : xan  
 górny : supri  
 gładki : lis  
@@ -565,7 +565,7 @@ hotel : hotel
 humanista : insaniste  
 humanistyczny : insanisti  
 humanizm : insanistia  
-hummus : humus sos  
+hummus : humusosos  
 humor : yumor  
 humorystyczny, śmieszny, zabawny, komiczny : yumori  
 hybryda; kundel : hibride  
@@ -611,7 +611,7 @@ iść, maszerować : marca
 ja, mnie : me  
 jabłko : aple  
 jabłko cukrowe : ate  
-jadalnia : nyam kamar  
+jadalnia : nyamokamar  
 jagoda : bere  
 jajko (jajo) : ande  
 jak (zwierzę) : yake  
@@ -648,8 +648,8 @@ judo : judo
 Jupiter : muxing  
 jutro : badi den  
 już (skończona czynność) : lew  
-język surinamski : surinam bax  
-język sztuczny : sani bax  
+język surinamski : surinami bax  
+język sztuczny : sanobax  
 język świata, język ogólnoświatowy : duniobax  
 język; komunikacja : bax  
 językoznastwo : baxolojia  
@@ -657,7 +657,7 @@ językoznastwo : baxolojia
 kabina, budka : kabin  
 kaczka : bate  
 kadm : kadomium  
-Kajmany : keyman nesia  
+Kajmany : keiman da nesia  
 kakao : kakaw  
 kalif : halif  
 kalifat : halifia  
@@ -674,7 +674,7 @@ kannada : kannadi
 kanoe : kanu'  
 kanonier : kanoner  
 kapelusz, czapka : tope  
-kaper (korsarz) : bote kaper  
+kaper (korsarz) : botokaper  
 kapitan : kapitan  
 Karaiby : karibia  
 karaoke : karaoke  
@@ -708,9 +708,8 @@ kiur : kurium
 klasa, kategoria : klas  
 klasyfikować, kategoryzować : klasa  
 klatka : kafas  
-klatka piersiowa : sine kase  
-klatka piersiowa, tors; tułów : torace  
-klawiatura : buton ban  
+klatka piersiowa : sinokase  
+klawiatura : butonopan  
 klawisz, przycisk, przełącznik : buton  
 klej : glute  
 klon, replika : klon  
@@ -720,7 +719,7 @@ klucz : cabe
 kluska, knedel, pieróg; ravioli, pelmeni : pelmen  
 knead (massage) : masaja  
 kobalt : kobalte  
-kobieta, dorosła samica : matur fem  
+kobieta, dorosła samica : maturi fem  
 kobieta; kobiecy : fem  
 kochać : ama  
 kochać romantycznie : romansa  
@@ -746,7 +745,7 @@ kolumna, filar : kolum
 komar, moskit : moskite  
 komik : yumoriste  
 komiks; kreskówka : kartun  
-Komory : komoro nesia  
+Komory : komori nesia  
 komputer : komputer  
 komunista : komuniste  
 komunizm : komunistia  
@@ -794,7 +793,7 @@ kret : krote
 krew : sang  
 kropka (znak interpunkcyjny) : punte  
 kropla : yote  
-krowa : mumu  
+krowa : mumu'  
 krwawić : lowa sang  
 kryminalny, przestępczy : krimi  
 krypton : kriton  
@@ -804,12 +803,12 @@ kryzysowy : krizi
 krzem : silike  
 krzyknąć, krzyczeć : krita  
 krzyż : krus  
-król : man rajer  
+król : mani rajer  
 król lub królowa : rajer  
 królestwo : rajia  
 królewski : raji  
 królik, zając : tuze  
-królowa : fem rajer  
+królowa : femi rajer  
 krótki : korti  
 ksenon : xenon  
 ksiądz, kleryk, kaznodzieja : dinogur  
@@ -859,7 +858,7 @@ leżeć : lala
 Liban : libnun  
 liberalista, wolnościowiec : huriste  
 liberalizm : huristia  
-liberalizm rynkowy : bazar huristia  
+liberalizm rynkowy : bazarohuristia  
 liberalny, wolnościowy : huristi  
 Liberia : liberia  
 Libia : libia  
@@ -873,7 +872,7 @@ limit, granica : limite
 linia, pas, pręga, smuga : linye  
 lipiec : mes 4 (mes car)  
 lis : hule  
-lista słów : loge liste  
+lista słów : leksoliste  
 lista, spis, wykaz : liste  
 listopad : mes 8 (mes bal)  
 lit : litium  
@@ -929,7 +928,7 @@ marathi : marati
 maraton : maraton  
 marchew : karote  
 margaryna : margarin  
-Mariany Północne : marian nesia  
+Mariany Północne : marian da nesia  
 marmur : marmar  
 Maroko : magribia  
 Mars : marse  
@@ -972,7 +971,7 @@ mesjański : kristi
 metal : metal  
 metoda, sposób : metode  
 metr : metre  
-metro : tunel tren  
+metro : tunelotren  
 miara : mete  
 miast, miasteczko : site  
 miecz : katan  
@@ -1063,7 +1062,7 @@ mózg : serebre
 mądrość : sofia  
 mądry : sofi  
 męski : man  
-mężczyzna, dorosły samiec : matur man  
+mężczyzna, dorosły samiec : maturi man  
 młodość : jowania  
 młody : jowan  
 młodzież, młoda osoba : jowane  
@@ -1140,7 +1139,7 @@ nikt, żadna osoba : nol ren
 niob : niobium  
 nisza, alkowa : nixe  
 Niue : niwe  
-niuton (N) : nuton  
+niuton (N) : nyuton  
 nobel : nobelium  
 noc : noce  
 Norfolk : norfolke  
@@ -1168,7 +1167,7 @@ o! : o
 oaza : wase  
 obcęgi, kleszcze, szczypce : pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny : zay  
-obiad, lunch : den nyam  
+obiad, lunch : denonyam  
 obiecać, angażować się : wada  
 obozowicz : kampe  
 obrabować, splądrować : luta  
@@ -1233,7 +1232,7 @@ orzech ziemny : zemodow
 osiem (8) : bal  
 osioł : gade  
 osm : osmium  
-osoba biznesu, biznesman : biznes ren  
+osoba biznesu, biznesman : bizneser  
 osoba dorosła : adulte  
 osoba; ludzie : ren  
 osobisty, intymny, prywatny : tani  
@@ -1258,7 +1257,7 @@ paczka, paka : pake
 pająk : arane  
 Pakistan : pakistan  
 Palau : palaw  
-palec : finger  
+palec : finge  
 pallad : paladium  
 palma, drzewo palmowe : palme  
 pamiętać : yada  
@@ -1323,7 +1322,7 @@ pierwszy, numer jeden : num un
 pierwszy, początkowy : muli  
 pierś : sine  
 pierś, biust, cycek : mem  
-pierścień, pierścionek; obrączka : finger wen  
+pierścień, pierścionek; obrączka : fingowen  
 pies : waf  
 piknik : piknike  
 pilaw : polaw  
@@ -1369,7 +1368,7 @@ Pluton (planeta karłowata) : pluto
 pluton : plutonium  
 pluć : tuka  
 pobożny : darmi  
-pochochodnia (latarka) : baton nur  
+pochochodnia (latarka) : nurobaton  
 pociąg : tren  
 poczta : poste  
 poczta elektroniczna : eletroposte (e-poste)  
@@ -1388,18 +1387,18 @@ podstawa, baza, fundament : baze
 poduszka : kusen  
 podwójny (dwójkowy) : duli  
 podążać : bada  
-podłoga : kamar tal  
+podłoga : kamarotal  
 poemat : xir  
 poeta : xirer  
 pogoda : tenke  
-pogrubiona litera : gros harfe  
+pogrubiona litera : grosi harfe  
 poinformować, informować, zakomunikować, komunikować : informa  
 pojęciowy : idi  
 pokaz, ekspozycja, wystawa : xow  
 pokazać, pokazywać, wystawić, wystawiać : xowa  
 poker : poke  
 pokrycie; pokrywa, wieko, dekiel; pokład : deke  
-pokój rozmów, chat : blable kamar  
+pokój rozmów, chat : blableria  
 pokój, sala : kamar  
 pole widzenia : widomaidan  
 pole, powierzchnia : are  
@@ -1502,7 +1501,7 @@ promet : prometium
 promieniowanie : radia  
 promieniować : rada  
 promień : rade  
-promień światła : nuri rade  
+promień światła : nurorade  
 proroctwo : nabe  
 prorok : naber  
 prosić : plisa  
@@ -1517,7 +1516,7 @@ przeciekać, ciec : lowa
 przecinek : koma'  
 przeciwnik (antagonista) : anter  
 przeciwstawny (naprzeciw, naprzeciwko, anty-) : anti  
-przedpołudnie : sube den  
+przedpołudnie : suboden  
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
 przegrać, przegrywać : luza  
@@ -1546,7 +1545,7 @@ przyjęcie, święto, festiwal : feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać : laya  
 przykryć, przykrywać, ukryć, ukrywać : deka  
 przykład : misal  
-przymiotnik : sifi lekse  
+przymiotnik : sifolekse  
 przymus : muse  
 przyprawa : masal  
 przyrostek dla (wyniku) działania : -e  
@@ -1664,7 +1663,7 @@ ruszać, przenościć, zmieniać miejsce : kina
 rut : rutenium  
 rutherford : ruterfordium  
 rutyna, nawyk, zwyczaj : rutin  
-Rwanda : rwanda  
+Rwanda : rwandia  
 ryba : fix  
 rynek, bazar : bazar  
 rysunek, obraz : desen  
@@ -1676,7 +1675,7 @@ ryż : ris
 rzecz : xey  
 rzeka : nade  
 rzemieślnik : janger  
-rzodkiewka : lobak  
+rzodkiewka : lobake  
 rzucić, rzucać, miotać, cisnąć, ciskać : lanca  
 Rzym : rome  
 rządzić, władać : kratia  
@@ -1692,7 +1691,7 @@ ręka, dłoń : hande
 ##s  
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : winsi i grenadin  
-Saint Vincent i Grenadyny : walis i futuna nesia  
+Saint Vincent i Grenadyny : walis i futuna da nesia  
 Salwador : salbador  
 sam, osobiście : tan  
 sam, siebie : ze  
@@ -1721,7 +1720,7 @@ ser : cis
 Serbia : serbia  
 serce : xim  
 seria, szereg : serye  
-Seszele : sexel nesia  
+Seszele : sexel da nesia  
 sezam : sesam  
 shintoizm, sintoizm : xindawistia  
 siarka : sulfe  
@@ -1802,7 +1801,6 @@ ssak : mamal
 ssać : cupa  
 stacja : estasia  
 stadion, arena : estadia  
-Stany Zjednoczone Ameryki : uni stan du amerike  
 Stany Zjednoczone Ameryki : usamerike  
 Starożytny Egipt (Kemet) : kemia  
 stary, starożytny : puran  
@@ -1835,8 +1833,8 @@ suma : sum
 Surinam : surinam  
 sushi : suxe  
 Syberia : sibir  
-syn : man ban  
-sypialnia : son kamar  
+syn : mani ban  
+sypialnia : sonokamar  
 Syria : suria  
 syrop : xirope  
 system : sistem  
@@ -1912,7 +1910,7 @@ tantal : tantalum
 Tanzania : tanzania  
 taoista : dawiste  
 taoizm : dawistia  
-tapeta : mur papir  
+tapeta : muropapir  
 tatuaż : tataw  
 taxi, taksówka : taksi  
 taśma : tepe  
@@ -1937,7 +1935,6 @@ tenis : tenis
 teokracja : dewokratia  
 teologia : dewolojia  
 teoria : teoria  
-teraz : nun  
 teraźniejszość, współczesność : zaye  
 terb : terbium  
 termometr : termometer  
@@ -1948,7 +1945,7 @@ Terytorium Palestyńskie : filistinia
 test, wyzwanie, próba : teste  
 też, również : plus  
 tikka : tike  
-tikka masala : tike masal  
+tikka masala : masali tike  
 tlen : okse  
 toczyć, turlać : rula  
 tofu : tofu'  
@@ -1966,10 +1963,10 @@ trochę; nieokreślony, nieograniczony, nieokreślony : fulan
 trucizna (toksyna) : tokse  
 trwanie : dur  
 trwać, zająć czas; przez : dura  
-Trynidad i Tobago : trinida i tobago  
+Trynidad i Tobago : trinidade i tobage  
 trzy (3) : tin  
 trzęsienie Ziemi : sisme  
-trójkąt : samokon  
+trójkąt : tinokon  
 tu (tutaj, tam) : sa ce  
 tuba, rura : tube  
 tul : tulium  
@@ -2036,7 +2033,7 @@ Uran : uran
 uran : uranium  
 urdu : urdu'  
 uroczy, słodki : kaway  
-urodziny : jen den  
+urodziny : jenoden  
 urodzić się, rodzić się : jenu  
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić : jena  
 urosnąć, rosnąć, wzrosnąć, wzrastać : dayu  
@@ -2106,7 +2103,7 @@ wiele : pol
 wielo- (poli-, multi-) : poli  
 wielokąt (wielościan) : polokon  
 wielościan : polofas  
-wieprzowina : gurube manse  
+wieprzowina : gurubomanse  
 wiercić, borować : bora  
 wierzyć : xina  
 Wietnam : wietnam  
@@ -2145,7 +2142,7 @@ wolny, niepodległy, niezależny : huri
 wolt (V) : wolte  
 wosk : mum  
 wow!, łoł!, jej! : waw  
-wołowina : mumu manse  
+wołowina : mumu'omanse  
 wrzesień : mes 6 (mes sis)  
 wrócić, wracać, wycofać się, wycofywać się : retra  
 wróżka, skrzydlaty duszek : peri  
@@ -2185,11 +2182,11 @@ wysoki : gaw
 wyspa : nes  
 Wyspa Man : manin  
 Wyspy Alandzkie : olandia  
-Wyspy Cooka : kuke nesia  
+Wyspy Cooka : kuke da nesia  
 Wyspy Dziewicze USA : usameriki wirjin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy : sudi jorjia i sudi sanwice nesia  
-Wyspy Kokosowe : kokos nesia  
-Wyspy Salomona : solomon nesia  
+Wyspy Kokosowe : kokos da nesia  
+Wyspy Salomona : solomon da nesia  
 Wyspy Świętego Tomasza i Książęca : santi tome i prinsipe  
 wystarczający : bas  
 wysłać (wyemitować) : misa  
@@ -2343,7 +2340,7 @@ zły, zrujnowany, zepsuty : harabi
 śmiać się : haha  
 śmierć : morte  
 śmieć, odpadek : laje  
-śniadanie : sube nyam  
+śniadanie : subonyam  
 śnieg : him  
 śpiewać : canta  
 średni : medi  
@@ -2354,7 +2351,7 @@ zły, zrujnowany, zepsuty : harabi
 świadomy; oświecony : budi  
 świat : dunia  
 światło, oświetlenie : nur  
-świeca : mum nur  
+świeca : mumonur  
 świetny : kul  
 świeży : tazi  
 świnia : gurube  

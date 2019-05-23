@@ -16,8 +16,8 @@ adalia : sprawiedliwość
 adres : adres  
 adulte : osoba dorosła  
 afgania : Afganistan  
-afri : afrykański, Afrykanin  
 afrike : Afryka  
+afriki : afrykański, Afrykanin  
 afrikofiler : afrofil  
 afrikofilia : afrofilia  
 agres : agresja, napaść  
@@ -121,13 +121,13 @@ bal : osiem (8)
 balde : wiadro  
 balkon : balkon; ganek  
 balon : balon  
-ban gem : gra planszowa  
 ban : deska  
 banan : banan  
 bande : zespół (drużyna, grupa)  
 bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
+banogem : gra planszowa  
 banye : kąpiel  
 banyokamar : łazienka  
 banyu : kąpać się  
@@ -150,7 +150,6 @@ baske : kosz
 baskobol : piłka do koszykówki (koszykówka)  
 bate : kaczka  
 batokrote : dziobak  
-baton nur : pochochodnia (latarka)  
 baton : pręt, kij  
 batonopang : bagietka  
 batre : bateria  
@@ -160,8 +159,8 @@ bax : język; komunikacja
 baxa : mówić; komunikować  
 baxolojia : językoznastwo  
 bay : biały  
-bazar huristia : liberalizm rynkowy  
 bazar : rynek, bazar  
+bazarohuristia : liberalizm rynkowy  
 baze : podstawa, baza, fundament  
 bazi : bazowy, podstawowy  
 beafrike : Republika Środkowoafrykańska  
@@ -203,10 +202,10 @@ bixu : musieć
 biyolojia : biologia, nauka o życiu  
 bizar : dziwny  
 bizi : zajęty  
-biznes ren : osoba biznesu, biznesman  
 biznes : biznes, interes (aktywność komercyjna)  
+bizneser : osoba biznesu, biznesman  
 blabla : luźna rozmowa, gadanina  
-blable kamar : pokój rozmów, chat  
+blableria : pokój rozmów, chat  
 bloge : blog  
 blote : błoto  
 bloti : błotnisty  
@@ -224,8 +223,8 @@ bora : wiercić, borować
 borium : bohr  
 boron : bor  
 bosnia : Bośnia i Harcegowina  
-bote kaper : kaper (korsarz)  
 bote : łódź, statek  
+botokaper : kaper (korsarz)  
 botol : butelka  
 boton : guzik  
 brazawil kongolia : Republika Konga  
@@ -256,9 +255,9 @@ burkinia : Burkina Faso
 bus : autobus, autokar  
 buste : biust  
 butan : Bhutan  
-buton ban : klawiatura  
 buton : klawisz, przycisk, przełącznik  
-buyu' : baobab  
+butonopan : klawiatura  
+buy : baobab  
 buze : koza  
 ##c  
 cabe : klucz  
@@ -310,8 +309,8 @@ cum : całus
 cune : wiosna  
 cupa : ssać  
 cuta : wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
-cute mun : drzwi wyjściowe  
 cute : wyjśćie, opuszczenie  
+cuteomun : drzwi wyjściowe  
 cuza : wybrać, wybierać, selekcjonować  
 cuze : wybór, elekcja, selekcja  
 ##d  
@@ -362,9 +361,9 @@ demokrati : demokratyczny
 demokratia : demokracja  
 demokratiste : demokrata  
 demon : demon  
-den nyam : obiad, lunch  
 den : dzień  
 denga : czekać  
+denonyam : obiad, lunch  
 des : dziesięć (10)  
 desen : rysunek, obraz  
 destin : przeznaczenie, los  
@@ -492,7 +491,7 @@ fata : zrobić (stworzyć, wykreować)
 fate : twór; fakt  
 fater : twórca, kreator, czynnik  
 fateria : fabryka, manufaktura  
-fati lekse : czasownik  
+fatolekse : czasownik  
 faxe : bandaż, taśma, wstążka  
 faxiste : faszysta  
 faxistia : faszyzm  
@@ -502,9 +501,9 @@ fay : ogień
 faze : etap, faza  
 fe : czyn, uczynek  
 feber : gorączka  
-fem bace : córka  
-fem rajer : królowa  
 fem : kobieta; kobiecy  
+femi bace : córka  
+femi rajer : królowa  
 fen : część, ułamek  
 fena : dzielić  
 fenu : pęknąć (rozpaść się)  
@@ -532,8 +531,8 @@ filosofia : filozofia
 filter : filtr  
 fin : koniec  
 fina : skończyć, kończyć  
-finger wen : pierścień, pierścionek; obrączka  
-finger : palec  
+finge : palec  
+fingowen : pierścień, pierścionek; obrączka  
 fini : ostatni, końcowy  
 fix : ryba  
 fixotanke : akwarium  
@@ -628,8 +627,8 @@ gey : gejowski (homoseksualny)
 gida : sterować  
 giga : bilion, giga-  
 gim : złoto  
-gine bisau : Guinea Bissau  
-gine : Gwinea  
+gini bisau : Guinea Bissau  
+ginia : Gwinea  
 gitar : gitara  
 giyan : Gujana Francuska  
 glota : połknąć (połykać)  
@@ -649,8 +648,8 @@ gras : trawa
 grenada : Grenada  
 grimas : grymas  
 grom : grom, huk  
-gros harfe : pogrubiona litera  
-gros : gruby  
+grosi harfe : pogrubiona litera  
+grosi : gruby  
 grupe : grupa  
 gua : jaskinia  
 guadelupe : Gwadelupa  
@@ -661,8 +660,8 @@ gubu' : hipopotam
 gujarati : Gudżarat  
 gun : cecha, atrybut, własność; -ość  
 gur : guru, mistrz  
-gurube manse : wieprzowina  
 gurube : świnia  
+gurubomanse : wieprzowina  
 gusta : smakować, próbować smaku  
 guste : smak  
 gustu ka : smakować jak  
@@ -743,8 +742,8 @@ horwatia : Chorwacja
 hotel : hotel  
 hule : lis  
 hulu' : tykwa  
-humus sos : hummus  
 humus : ciecierzyca  
+humusosos : hummus  
 hura : uwolnić, uwalniać  
 huri : wolny, niepodległy, niezależny  
 huria : wolność, niepodległość, niezależność  
@@ -836,7 +835,6 @@ jebe : kieszeń
 jebria : algebra  
 jel : żel, galareta  
 jelos : zazdrosny  
-jen den : urodziny  
 jen : narodziny  
 jena : urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 jeng : walka, wojna  
@@ -844,6 +842,7 @@ jenger : wojownik, bojownik
 jengi : militarny, wojskowy, wojenny  
 jengoxute : sztuka walki  
 jenju' : perła  
+jenoden : urodziny  
 jentil : uprzejmy, miły  
 jenu : urodzić się, rodzić się  
 jenxen : żeń-szeń  
@@ -901,8 +900,8 @@ kalium : potas
 kalkulia : rachunek (formalny system obliczeń)  
 kalsium : wapń  
 kam : pożądanie, żadza  
-kamar tal : podłoga  
 kamar : pokój, sala  
+kamarotal : podłoga  
 kambudia : Kambodża  
 kamera : kamera, aparat fotograficzny  
 kamerun : Kamerun  
@@ -952,6 +951,7 @@ kaze : wydarzenie, przypadek, sytuacja
 ke : co?  
 kecape : keczup  
 keci : uprzejmy  
+keiman da nesia : Kajmany  
 keke : ciasto, ciastko  
 kel : sport, lekkoatletyka  
 kelele : atleta, sportowiec  
@@ -961,7 +961,6 @@ kenar : granica, skraj, brzeg
 kenia : Kenia  
 kerube : cherubin  
 ketel : czajnik  
-keyman nesia : Kajmany  
 ki ren : co?  
 ki xey : jak?  
 ki yang : kiedy?  
@@ -975,7 +974,7 @@ kimia : chemia
 kina : ruszać, przenościć, zmieniać miejsce  
 kine : ruch  
 kini : ruchowy, kinetyczny  
-kinsasa kongolia : Demokratyczna Republika Konga  
+kinsasi kongolia : Demokratyczna Republika Konga  
 kioske : kiosk  
 kipris : Cypr  
 kirate : karat  
@@ -1001,7 +1000,7 @@ koda : kodować
 kode : kod, szyfr  
 koka' : koka  
 koke : kura, kogut, kurczak  
-kokos nesia : Wyspy Kokosowe  
+kokos da nesia : Wyspy Kokosowe  
 kola : kola, napój gazowany  
 koler : cholera  
 kolombia : Kolumbia  
@@ -1015,7 +1014,7 @@ koma' : przecinek
 komal : miękki  
 komanda : rozkazać, rozkazywać, zakomendować  
 komande : rozkaz, komenda  
-komoro nesia : Komory  
+komori nesia : Komory  
 kompania : firma, kompania, korporacja  
 komputa : policzyć, liczyć, przetwarzać dane  
 komputer : komputer  
@@ -1078,7 +1077,7 @@ kuba : Kuba
 kube : sześcian  
 kuga : płakać, łkać  
 kuka : gotować, szykować jedzenie  
-kuke nesia : Wyspy Cooka  
+kuke da nesia : Wyspy Cooka  
 kuker : kucharz  
 kukeria : kuchnia  
 kul : świetny  
@@ -1120,6 +1119,7 @@ le : on, ona, ono
 lekse : słowo  
 leksem : leksem  
 leksia : słownictwo  
+leksoliste : lista słów  
 leng : zimny, chłodny  
 lenxa : ćwiczyć  
 lete : lato  
@@ -1151,9 +1151,8 @@ liste : lista, spis, wykaz
 litium : lit  
 litre : litr  
 lixtenxtayn : Liechtenstein  
-lobak : rzodkiewka  
+lobake : rzodkiewka  
 loga : mówić, rozmawiać  
-loge liste : lista słów  
 loge : mowa; słowo  
 logike : logika, dedukcja  
 logofiler : logofil (miłośnik słów)  
@@ -1212,7 +1211,7 @@ malaisia : Malezja
 malaria : malaria  
 malawia : Malawi  
 malayali : malajski  
-malbinas nesia : Falklandy, Malwiny  
+malbinas da nesia : Falklandy, Malwiny  
 malia : Mali  
 malike : jaśmin  
 malke : własność (mienie)  
@@ -1220,12 +1219,12 @@ malker : właściciel (posiadacz)
 malte : Malta  
 mamal : ssak  
 mame : matka, mama  
-man ban : syn  
-man rajer : król  
 man : męski  
 mangan : mangan  
 mange : mango  
 mangus : mangostan  
+mani ban : syn  
+mani rajer : król  
 manin : Wyspa Man  
 manioke : maniok  
 manir : zachowanie (maniery, kultura)  
@@ -1240,7 +1239,7 @@ marca : iść, maszerować
 margarin : margaryna  
 mari : ożeniony, zamężny, w związku małżeńskim  
 maria : małżeństwo, związek małżeński  
-marian nesia : Mariany Północne  
+marian da nesia : Mariany Północne  
 marka : zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke : znak, trop  
 marmar : marmur  
@@ -1249,14 +1248,15 @@ mas : mass (dough, lump)
 masaja : knead (massage)  
 masaje : masaż  
 masal : przyprawa  
+masali tike : tikka masala  
 maske : maska, kamuflaż  
 masle : kwestia, problem  
 matike : matematyka  
 matiker : matematyk  
 matras : materac  
-matur fem : kobieta, dorosła samica  
-matur man : mężczyzna, dorosły samiec  
 matur : dorosły, dojrzały  
+maturi fem : kobieta, dorosła samica  
+maturi man : mężczyzna, dorosły samiec  
 maw : kot  
 max ka bas : zbyt  
 max : bardziej  
@@ -1400,16 +1400,16 @@ mukofun : puder
 mul : początek  
 mula : zacząć, zaczynać  
 muli : pierwszy, początkowy  
-mum nur : świeca  
 mum : wosk  
 mumia : mumia  
-mumu manse : wołowina  
-mumu : krowa  
+mumonur : świeca  
+mumu' : krowa  
+mumu'omanse : wołowina  
 mun : drzwi, brama, portal  
 mungus : mangusta  
-mur papir : tapeta  
 mur : mur, ściana  
 muritania : Mauretania  
+muropapir : tapeta  
 musa : zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 muse : przymus  
 musika : grać muzykę  
@@ -1514,16 +1514,16 @@ nudiste : nudysta
 nudistia : nudyzm  
 num un : pierwszy, numer jeden  
 num : numer  
-nun : teraz  
 nur : światło, oświetlenie  
-nuri rade : promień światła  
 nuri : jasny, świetlny  
+nurobaton : pochochodnia (latarka)  
 nurocirke : efekt halo  
-nuton : niuton (N)  
-nyam kamar : jadalnia  
+nurorade : promień światła  
 nyam : jedzenie, posiłek  
 nyama : skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 nyami : pyszny  
+nyamokamar : jadalnia  
+nyuton : niuton (N)  
 ##o  
 o : o!  
 odisi : orija  
@@ -1840,7 +1840,7 @@ rute : ścieżka (droga, szlak, kurs)
 rutenium : rut  
 ruterfordium : rutherford  
 rutin : rutyna, nawyk, zwyczaj  
-rwanda : Rwanda  
+rwandia : Rwanda  
 ##s  
 sa ce : tu (tutaj, tam)  
 sa ke : gdzie  
@@ -1885,16 +1885,15 @@ samarium : samar
 samoa : Samoa  
 samodexi : rodak, ziomek, krajan  
 samojinsokami : homoseksualny  
-samokon : trójkąt  
 samu : być podobnym, być jak  
 samun : połączenie, złącze, styk  
 samuna : łączyć, wiązać, złączyć  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke : pudło, skrzynia  
 sang : krew  
-sani bax : język sztuczny  
 sani : sztuczny  
 sania : produkcja  
+sanobax : język sztuczny  
 santi helena : Święta Helena  
 santi lusia : Saint Lucia  
 santi tome i prinsipe : Wyspy Świętego Tomasza i Książęca  
@@ -1934,14 +1933,14 @@ seres : Ceres (planeta karłowata)
 serpe : wąż  
 serye : seria, szereg  
 sesam : sezam  
-sexel nesia : Seszele  
+sexel da nesia : Seszele  
 si : tak; być  
 sibir : Syberia  
 sida : siedzieć  
 sifa : opisać (zakwalifikować)  
 sife : cecha, właściwość, parametr  
-sifi lekse : przymiotnik  
 sifi : opisowy  
+sifolekse : przymiotnik  
 sigar : papieros (cygar)  
 sikiste : sikh  
 sikistia : sikhizm  
@@ -1949,10 +1948,10 @@ sikle : rower
 silike : krzem  
 silsil : łańcuch  
 simpli : prosty, nieskomplikowany  
-sine kase : klatka piersiowa  
 sine : pierś  
 sing : lew  
 singapur : Singapur  
+sinokase : klatka piersiowa  
 sinye : znak, sygnał  
 sir : sekret  
 sirke : ocet  
@@ -1979,22 +1978,22 @@ sofia : mądrość
 soke : skarpeta, skarpetka, pończocha  
 sol : słońce  
 solestas : przesilenie  
-solomon nesia : Wyspy Salomona  
+solomon da nesia : Wyspy Salomona  
 solosistem : układ słoneczny  
 somalia : Somalia  
-son kamar : sypialnia  
 son : sen  
 sona : spać  
 sonda : brzmieć, wydać dźwięk, wydawać dźwięk  
 sonde : dźwięk, brzmienie  
 song : sosna  
+sonokamar : sypialnia  
 sos : sos  
 sosis : kiełbasa  
 soto : Lesotho  
 suan : kwaśny  
-sube den : przedpołudnie  
-sube nyam : śniadanie  
 sube : ranek, rano, poranek  
+suboden : przedpołudnie  
+subonyam : śniadanie  
 sudafrike : Południowa Afryka  
 sudan : Sudan  
 sude : południe  
@@ -2024,13 +2023,13 @@ supre : wiadukt, przejście powyżej
 supri : górny  
 supris : zaskoczenie  
 suria : Syria  
-surinam bax : język surinamski  
 surinam : Surinam  
+surinami bax : język surinamski  
 suta : szyć  
 sutur : szew  
 suxe : sushi  
-suy rang : akwarela, farba wodna  
 suy : woda  
+suyorang : akwarela, farba wodna  
 swahili : suahili  
 swazia : Suazi  
 swede : pot  
@@ -2106,7 +2105,6 @@ teste : test, wyzwanie, próba
 tezi : intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 ti : twój  
 ticin : chordofon, instrument strunowy  
-tike masal : tikka masala  
 tike : tikka  
 tikete : bilet  
 tim : drużyna  
@@ -2115,6 +2113,7 @@ tin : trzy (3)
 ting : stop; przerwa, zatrzymanie  
 tinga : zatrzymać  
 tingu : zatrzymać się  
+tinokon : trójkąt  
 tira milke : wydoić, doić  
 tira : ciągnąć  
 tiran : tyran  
@@ -2132,7 +2131,6 @@ tomate : pomidor
 ton : ton, dźwięk, nuta, tonacja  
 tong : beczka  
 tope : kapelusz, czapka  
-torace : klatka piersiowa, tors; tułów  
 torium : tor  
 torse : tułów  
 tortuge : żółw  
@@ -2144,7 +2142,7 @@ tren : pociąg
 trenodaw : kolej  
 trenokaper : porywacz pociągu  
 tribe : plemię  
-trinida i tobago : Trynidad i Tobago  
+trinidade i tobage : Trynidad i Tobago  
 tswania : Botswana  
 tuale : taleta, WC  
 tube : tuba, rura  
@@ -2153,8 +2151,8 @@ tul : narzędzie
 tulium : tul  
 tulpan : tulipan  
 tundar : tundra  
-tunel tren : metro  
 tunel : tunel  
+tunelotren : metro  
 tung : ból  
 tunike : tunika, toga  
 tunisia : Tunezja  
@@ -2175,7 +2173,6 @@ un : jeden (1)
 una : jednoczyć  
 unale : się (nawzajem, wzajemnie)  
 unali : wzajemny  
-uni stan du amerike : Stany Zjednoczone Ameryki  
 uni : zjednoczony  
 unia : unia  
 ura : wiwatować; hura  
@@ -2199,7 +2196,7 @@ waf : pies
 wain : wino  
 wakila : reprezentować  
 waksin : szczepionka  
-walis i futuna nesia : Saint Vincent i Grenadyny  
+walis i futuna da nesia : Saint Vincent i Grenadyny  
 walwe : zawór; kran  
 wan : misa, kubek bez ucha  
 wang : żółty  
@@ -2330,7 +2327,7 @@ yeze : kokos
 yode : jod; jodyna  
 yoga : uprawiać jogę  
 yoge : joga  
-yohan feste : dzień świętego Jana  
+yohani feste : dzień świętego Jana  
 yone : wagina  
 yosay : forteca, twierdza  
 yote : kropla  

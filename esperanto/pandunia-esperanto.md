@@ -16,8 +16,8 @@ adalia : justeco
 adres : adreso  
 adulte : plenaĝa  
 afgania : Afganujo, Afganio  
-afri : afrika  
 afrike : Afriko  
+afriki : afrika  
 afrikofiler : afrikamanto  
 afrikofilia : afrikamanteco  
 agres : agreso  
@@ -118,6 +118,7 @@ barde : barbo
 bari : peza  
 barium : bario  
 barka : gratuli  
+barometal : pezmetalo  
 barti : Barata  
 bartia : Baratio  
 barude : pulvo  
@@ -127,7 +128,6 @@ bas : sufiĉa
 basen : baseno  
 baske : korbo  
 bate : anaso  
-baton nur : torĉo  
 baton : stango  
 batre : baterio (pilo)  
 baw : gazeto (revuo)  
@@ -170,10 +170,10 @@ bixu : devi
 biyolojia : biologio  
 bizar : stranga  
 bizi : okupata  
-biznes ren : komercisto  
 biznes : negoco  
+bizneser : komercisto  
 blabla : babili  
-blable kamar : babilejo  
+blableria : babilejo  
 blote : koto  
 boikote : bojkoto  
 boke : buŝo  
@@ -209,9 +209,9 @@ bulu : boli
 bunduke : fusilo  
 bung : ventro  
 bus : buso  
-buton ban : klavaro  
 buton : klavo  
-buyu' : baobabo  
+butonopan : klavaro  
+buy : baobabo  
 buze : kapro  
 ##c  
 cabe : ŝlosilo  
@@ -253,8 +253,8 @@ cum : kiso
 cune : printempo  
 cupa : suĉi  
 cuta : eliri  
-cute mun : elirejo  
 cute : eliro  
+cuteomun : elirejo  
 cuza : elekti  
 cuze : elekto  
 ##d  
@@ -292,9 +292,9 @@ demografia : demografio
 demokrati : demokratia  
 demokratia : demokratio  
 demon : demono  
-den nyam : tagmanĝo  
 den : tago  
 denga : atendi  
+denonyam : tagmanĝo  
 des : dek (10)  
 desen : desegno  
 detal : detalo  
@@ -397,13 +397,13 @@ fata : fari
 fate : faro  
 fater : fabrikisto  
 fateria : fabriko  
-fati lekse : verbo  
+fatolekse : verbo  
 faxiste : faŝisto  
 faxistia : faŝismo  
 fay : fajro  
 feber : febro  
-fem bace : filino  
 fem : ino  
+femi bace : filino  
 fen : parto (frakcio)  
 fena : dividi  
 fer : fero  
@@ -425,8 +425,8 @@ filosofia : filozofio
 filter : filtri  
 fin : fino  
 fina : fini  
-finger wen : ringo  
-finger : fingro  
+finge : fingro  
+fingowen : ringo  
 fini : lasta  
 fix : fiŝo  
 fizike : fiziko  
@@ -522,8 +522,8 @@ guatemala : Gvatemalo
 gubu' : hipopotamo  
 gun : eco  
 gur : guruo (instruisto)  
-gurube manse : porkaĵo  
 gurube : porko  
+gurubomanse : porkaĵo  
 gusta : gustumi  
 guste : gusto  
 gustu ka : gusti kiel  
@@ -647,12 +647,12 @@ jawaba : respondi
 jawabe : respondo  
 jebe : poŝo  
 jel : ĝelo  
-jen den : naskiĝtago  
 jen : nasko  
 jena : naskigi  
 jeng : milito (batalo)  
 jengi : milita  
 jenju' : perlo  
+jenoden : naskiĝtago  
 jentil : bonkora  
 jenu : naski  
 jinse : genro  
@@ -799,6 +799,7 @@ laya : veni
 le : li aŭ ŝi aŭ ĝi  
 lekse : vorto  
 leksia : vortaro  
+leksoliste : vortaro  
 leng : malvarma  
 lete : somero  
 lew : jam (esti farita)  
@@ -810,7 +811,6 @@ linye : lineo
 liste : listo  
 litium : litio  
 loga : paroli  
-loge liste : vortaro  
 loge : parolo (vortoj)  
 logike : logiko  
 lojia : scienco  
@@ -848,9 +848,9 @@ masal : spico
 maske : masko  
 matike : matematiko  
 matiker : matematikisto  
-matur fem : virino  
-matur man : viro  
 matur : matura (plenkreska)  
+maturi fem : virino  
+maturi man : viro  
 maw : kato  
 max ka bas : tro  
 max : pli  
@@ -923,10 +923,10 @@ mote : movo
 moter : motoro  
 muke : vizaĝo  
 mul : komenco  
-mum nur : kandelo  
 mumia : mumio  
-mumu manse : bovaĵo  
-mumu : bovo  
+mumonur : kandelo  
+mumu' : bovo  
+mumu'omanse : bovaĵo  
 mun : pordo  
 musa : devigi  
 muse : devo  
@@ -975,15 +975,17 @@ nodewiste : ateisto
 norgi : norvega  
 norgia : Norvegio  
 nota : rimarki  
+note : noto (rimarko, komento)  
 notobuke : kajero  
 nowi : nova  
 num : nombro  
 nur : lumo  
 nuri : luma  
+nurobaton : torĉo  
 nurocirke : halo  
-nuton : newtono (N)  
-nyam kamar : manĝoĉambro  
 nyama : manĝi (trinki)  
+nyamokamar : manĝoĉambro  
+nyuton : newtono (N)  
 ##o  
 o : ho!  
 oganeson : oganesono  
@@ -1112,7 +1114,9 @@ roler : aktoro (aktorino)
 rose : roso  
 roze : rozo  
 rubidium : rubidio  
-ruhe : animo  
+ruhe : animo (psiko)  
+ruholojia : psikologio  
+ruke : dorso  
 rula : kääriä  
 rupe : aspekto  
 ruste : vilaĝo  
@@ -1144,6 +1148,7 @@ salam nyam : bonan apetiton!
 salam sube : Bonan matenon!  
 salam xam : Bonan vesperon  
 salam : bona (en salutoj)  
+salama : saluti  
 salame : saluto  
 sam : sama  
 saman : ĉielo  
@@ -1153,7 +1158,7 @@ samojinsokami : samseksema
 sana : produkti (fabriki)  
 sanduke : skatolo (kesto)  
 sang : sango  
-sani bax : artefarita lingvo  
+sanobax : artefarita lingvo  
 santi : sankta  
 sapate : ŝuo  
 sapater : ŝuisto  
@@ -1175,13 +1180,13 @@ serpe : serpento
 serye : serio  
 si : jes (esti)  
 sida : sidi  
-sifi lekse : adjektivo  
+sifolekse : adjektivo  
 silike : silicio  
 simpli : simpla  
-sine kase : torako  
 sine : brusto  
 sing : leono  
 singapur : Singapuro  
+sinokase : torako  
 sirke : vinagro  
 sisme : tertremo  
 sismolojia : sismologio  
@@ -1193,10 +1198,10 @@ sofia : saga
 soke : ŝtrumpo  
 sol : suno  
 solosistem : sunsistemo  
-son kamar : dormoĉambro  
 son : dormo  
 sonde : sono  
 song : pino  
+sonokamar : dormoĉambro  
 sos : saŭco  
 sosis : kolbaso  
 suan : acida  
@@ -1282,8 +1287,8 @@ tuka : sputi
 tul : ilo  
 tulium : tulio  
 tundar : tundro  
-tunel tren : metroo  
 tunel : tunelo  
+tunelotren : metroo  
 tunike : robo  
 tupay : sciuro  
 turkia : Turkio  

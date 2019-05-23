@@ -5,11 +5,11 @@
 : : -a : -i : (-igi)  
 ##a  
 acida : suan  
-adjektivo : sifi lekse  
+adjektivo : sifolekse  
 adreso : adres  
 aero : hawe  
 Afganujo, Afganio : afgania  
-afrika : afri  
+afrika : afriki  
 afrikamanteco : afrikofilia  
 afrikamanto : afrikofiler  
 Afriko : afrike  
@@ -57,7 +57,7 @@ anaso : bate
 Andoj : andes  
 angla : engli  
 angulo : kon  
-animo : ruhe  
+animo (psiko) : ruhe  
 ankaŭ : plus  
 ankoraŭ : hay  
 anstataŭ : sa loke du  
@@ -77,7 +77,7 @@ Argentino : argentin
 argono : argon  
 armeo : armia  
 arseno : arsen  
-artefarita lingvo : sani bax  
+artefarita lingvo : sanobax  
 artisto : arter  
 arto : arte  
 ascetiko : askete  
@@ -100,7 +100,7 @@ Aŭstralio : australia
 aŭto (ĉaro) : kar  
 aŭtuno : oton  
 ##b  
-babilejo : blable kamar  
+babilejo : blableria  
 babili : blabla  
 bah! : fuy  
 bahaismo : baha'istia  
@@ -117,7 +117,7 @@ bandaĝo (vindo) : bende
 Bangladeŝo : banglia  
 bano : banye  
 banĉambro : banyokamar  
-baobabo : buyu'  
+baobabo : buy  
 Barata : barti  
 Baratio : bartia  
 barbaro : barbar  
@@ -177,8 +177,8 @@ bonvenon! : salam laye
 borio : borium  
 boro : boron  
 botelo : botol  
-bovaĵo : mumu manse  
-bovo : mumu  
+bovaĵo : mumu'omanse  
+bovo : mumu'  
 branĉo : xake  
 Brazilo : brazilia  
 bromo : brom  
@@ -252,7 +252,8 @@ dolaro : dolar
 donaco : don  
 doni : dona  
 dormo : son  
-dormoĉambro : son kamar  
+dormoĉambro : sonokamar  
+dorso : ruke  
 dramo : drame  
 drinkejo : bireria  
 du (2) : dul  
@@ -280,7 +281,7 @@ elekto : cuze
 elektra : eletri  
 elektro : eletre  
 elektrono : eletron  
-elirejo : cute mun  
+elirejo : cuteomun  
 eliri : cuta  
 eliro : cute  
 emocii : gama  
@@ -343,14 +344,14 @@ feĉo : hamir
 figuro : figur  
 fiki : coda  
 fiksi : fiksa  
-filino : fem bace  
+filino : femi bace  
 Filipinoj : filipinia  
 filmo : filme  
 filozofia : filosofi  
 filozofio : filosofia  
 filozofo : filosofer  
 filtri : filter  
-fingro : finger  
+fingro : finge  
 fini : fina  
 finna : suomi  
 Finnlando : suomia  
@@ -557,7 +558,7 @@ Kamboĝo : kambudia
 kamelo : gamel  
 kanabo : ganje  
 kanalo : kanal  
-kandelo : mum nur  
+kandelo : mumonur  
 kangaro : kangur  
 kanonisto : kanoner  
 kanono : kanon  
@@ -592,7 +593,7 @@ kio? : ki xey
 kiso : cum  
 kiu? : ki ren  
 kivo : kiwe  
-klavaro : buton ban  
+klavaro : butonopan  
 klavo : buton  
 klimato : klime  
 klimatscienco : klimolojia  
@@ -614,7 +615,7 @@ kolono : kolum
 koloro : rang  
 koltuko : xal  
 komenco : mul  
-komercisto : biznes ren  
+komercisto : bizneser  
 kompanio (firmao) : kompania  
 kompreni : aha  
 kompreni : buda  
@@ -763,7 +764,7 @@ mandarinĉina : putong cini
 mangano : mangan  
 mano : hande  
 manĝi (trinki) : nyama  
-manĝoĉambro : nyam kamar  
+manĝoĉambro : nyamokamar  
 maratono : maraton  
 margarino : margarin  
 maro (oceano) : daria  
@@ -790,7 +791,7 @@ metalo : metal
 metiero : pexe  
 metiisto : janger  
 metodo : metode  
-metroo : tunel tren  
+metroo : tunelotren  
 mezo : medi  
 mezuri : meta  
 mezuro : mete  
@@ -849,7 +850,7 @@ najtingalo : bulbul
 Namibio : namibia  
 naski : jenu  
 naskigi : jena  
-naskiĝtago : jen den  
+naskiĝtago : jenoden  
 nasko : jen  
 natrio : natre  
 naturo : ekia  
@@ -860,7 +861,7 @@ neono : neon
 Nepalo : nepal  
 neptunio : neptunium  
 Neptuno : neptun  
-newtono (N) : nuton  
+newtono (N) : nyuton  
 neĝo : him  
 ni : mome  
 ni faru... : haida  
@@ -880,6 +881,7 @@ nombro : num
 nomo : nam  
 norvega : norgi  
 Norvegio : norgia  
+noto (rimarko, komento) : note  
 nova : nowi  
 novaĵoj : habar  
 nudelo : mien  
@@ -949,6 +951,7 @@ persa : farsi
 persono : ren  
 peti (bonvolu) : plisa  
 peza : bari  
+pezmetalo : barometal  
 pezo : bar  
 pia : darmi  
 piano : pian  
@@ -992,7 +995,7 @@ ponto : pulte
 popolo : deme  
 porcio (dozo) : doze  
 pordo : mun  
-porkaĵo : gurube manse  
+porkaĵo : gurubomanse  
 porko : gurube  
 posteno : asan  
 posttagmeze : xamoden  
@@ -1023,6 +1026,7 @@ promesi : wada
 prometio : prometium  
 propra (partiklo de posedo) : du  
 protaktinio : protacinium  
+psikologio : ruholojia  
 pulmo : pulmon  
 pulvo : barude  
 punkto : binde  
@@ -1067,7 +1071,7 @@ ridi : haha
 rigardi ia : konsida  
 rilato : guanxe  
 rimarki : nota  
-ringo : finger wen  
+ringo : fingowen  
 rinocero : faru  
 ripari : xula  
 riparisto : xuler  
@@ -1093,6 +1097,7 @@ safrano : zafran
 saga : sofia  
 salo : sal  
 salti : jampa  
+saluti : salama  
 saluto : salame  
 saluton! : halow  
 sama : sam  
@@ -1186,7 +1191,7 @@ sŭahili : swahili
 tabako : tabake  
 tabelo : table  
 tablo : meze  
-tagmanĝo : den nyam  
+tagmanĝo : denonyam  
 tago : den  
 tajgo : taiga  
 tajlanda : tayi  
@@ -1235,10 +1240,10 @@ tombo : gabre
 tondilo : makas  
 tondro : grom  
 tono : ton  
-torako : sine kase  
+torako : sinokase  
 torio : torium  
 torso : torse  
-torĉo : baton nur  
+torĉo : nurobaton  
 traduki : tarja  
 tradukisto : tarjer  
 traduko : tarje  
@@ -1287,7 +1292,7 @@ vento : fong
 ventro : bung  
 vera : weri  
 verando : berande  
-verbo : fati lekse  
+verbo : fatolekse  
 verda : berdi  
 versio (toisinto) : wersion  
 vespermanĝo : xamonyam  
@@ -1307,9 +1312,9 @@ vinbero : putaw
 vino : wain  
 vintro : xite  
 violonĉelo : celo'  
-virino : matur fem  
+virino : maturi fem  
 viro : man  
-viro : matur man  
+viro : maturi man  
 vitro : kace  
 viva : jiwi  
 vivi : jiwa  
@@ -1326,7 +1331,7 @@ vojo : daw
 voli : ice  
 voli : wanta  
 vortaro : leksia  
-vortaro : loge liste  
+vortaro : leksoliste  
 vorto : lekse  
 vosto : dum  
 vulpo : hule  

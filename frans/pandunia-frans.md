@@ -16,8 +16,8 @@ adalia : justice
 adres : adresse  
 adulte : adulte  
 afgania : Afghanistan  
-afri : africain  
 afrike : Afrique  
+afriki : africain  
 afrikofiler : afrophile  
 afrikofilia : afrophilie  
 agres : agression  
@@ -81,7 +81,9 @@ bari : lourd
 barium : baryum  
 barka : féliciter  
 baskobol : basketball  
+bax : langue  
 baya : acheter  
+baze : base  
 buke : livre  
 ##c  
 ##d  
@@ -111,14 +113,18 @@ malker : possédant (propriétaire)
 manihayistia : manichéisme  
 maye : fourmi  
 ##n  
+note : note  
 ##o  
 ##p  
 papagay : perroquet  
 pike : cime (pic, sommet)  
 piratia : piraterie  
 ##r  
+ruhe : psyché  
+ruholojia : psychologie  
 ##s  
 safariste : touriste  
+sal : sel  
 ##t  
 tarje : traduction  
 tazi : frais  
@@ -142,6 +148,7 @@ tomate : tomate
 tunisia : Tunisie  
 tuze : lapin, lièvre  
 ##u  
+ura : hourra  
 uranium : uranium  
 ##v  
 ##w  
