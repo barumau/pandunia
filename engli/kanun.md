@@ -83,12 +83,15 @@ only sun and our only moon.
 ### 2.2. Number
 
 Nouns are unaffected by number, i.e. nouns have the same form in
-singular and plural.
+singular and plural. Number can be mentioned with number words when
+it is needed.
 
-An easy way to emphasize plurality is to repeat the noun.
+**kurse** - a chair or chairs  
+**un kurse** - one chair  
+**dul kurse** - two chairs  
+**tin kurse** - three chairs  
+**pol kurse** - many chairs; chairs
 
-> **petre petre** - stones, lots of stones  
-> **xing xing** - stars, lots of stars  
 
 ### 2.3. Gender
 
