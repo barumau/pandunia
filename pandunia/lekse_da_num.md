@@ -4,7 +4,7 @@
 |-----|-----|
 | pan | 822 |
 | engli | 410 |
-| eapani | 299 |
+| espani | 299 |
 | hindi | 267 |
 | fransi | 266 |
 | portugali | 234 |
@@ -24,8 +24,10 @@
 | tayi | 57 |
 | polski | 48 |
 | filipini | 37 |
+| telugi | 32 |
 | hausi | 29 |
 | panjabi | 19 |
+| tamili | 16 |
 | yorubi | 13 |
 | zulu'i | 12 |
 | oromi | 5 |

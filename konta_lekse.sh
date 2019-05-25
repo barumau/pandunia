@@ -48,7 +48,7 @@ cat temp/lekse.txt | grep -c ":" >> temp/stats.txt
 konta_bax eng engli
 konta_bax deu doici
 konta_bax fra fransi
-konta_bax spa eapani
+konta_bax spa espani
 konta_bax por portugali
 konta_bax rus rusi
 konta_bax pol polski
@@ -59,6 +59,8 @@ konta_bax ben bangli
 konta_bax pnb panjabi
 konta_bax fas farsi
 
+konta_bax tam tamili
+konta_bax tel telugi
 konta_bax tur turki
 
 konta_bax zho cini
