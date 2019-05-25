@@ -11,21 +11,6 @@ Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is
 silent. Every letter has one sound, always the same.
 
-## Vowel Sounds
-
-Pandunia has five vowels.
-
-    i   u
-    e   o
-      a
-
-They are pronounced as follows: **a** like in _palm_, **e** like in
-_hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in
-_rude_. They are pure vowels, so their quality doesn't change over
-the duration of the vowel.
-
-Semivowels **y** and **w** are pronounced like in English.
-
 ## Consonant Sounds
 
     p  b  f     m  w
@@ -53,6 +38,42 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **'** is a silent consonant. It doesn't have a sound but it can affect the
   placement of the stress accent, for example the stress is on the last 
   syllable in **sofa'**.
+
+
+## Semivowels
+
+Semivowels **y** and **w** are pronounced like in English.
+As semivowels **y** is close to **i** sound and **w** is close to
+**u** sound.
+
+Semivowels **y** and **w** are always followed by a full vowel or
+a word break (when the bare word stem is used). For example:  
+**maw tena naw jiwe.** = The cat has nine lives.
+
+
+## Vowel Sounds
+
+Pandunia has five vowels.
+
+    i   u
+    e   o
+      a
+
+They are pronounced as follows: **a** like in _palm_, **e** like in
+_hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in
+_rude_. They are pure vowels, so their quality doesn't change over
+the duration of the vowel.
+
+
+## Gliding Vowels
+
+When two vowels are next to each other, they will glide together and
+form a _diphthong_ i.e. a gliding vowel.
+
+For example **a** and **u** form a gliding vowel in the word **paus**.
+So the vowel begins in **a** and glides gradually to **u**.
+There is a similar gliding vowel in **paw**.
+
 
 ## Stress Accent
 
