@@ -409,6 +409,7 @@ kar ← eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (g
 karawe ← ara:(karāwiya). eng:caraway. fra:carvi. spa:alcaravea. por:alcaravia.  
 karbi ← ara:fas:urd:(qarīb). swa:karibu.   
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
+karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
 karte ← deu:Karte. ind:kartu. fra:carte. eng: card. may:kad. zho:卡 (kǎ). jpn: カード (kādo). swa: kadi.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 karwan ← fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).  
@@ -758,6 +759,7 @@ tamar ← por:tamara. ara:(tamar).
 tambur ← swa:sna:kon:ngoma. nya:ng'oma. + zho:鼓 "gǔ".  
 tan ← hin:mar:तन (tan). fas:urd:(tan). taj:тан (tan). tha:ตน (ton). vie:thân. yue:親 (can3).  
 tanke ← eng:tank. hin:टंकी (ṭaṅkī). swa:tangi. spa:tanque. jpn:タンク (tanku). tgl:tangke.  
+tanur ← fas:heb:tanur. ara:(tannūr). eng:tandoor, athanor. tur:tandır. hin:तनूर (tanūr). urd:(tanūr). pnb:ਤੰਦੂਰ (tandūr).  
 tarif ← eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).  
 tarje ← ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.  
 tataw ← sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).  

@@ -707,6 +707,7 @@ karate : karateo
 karbi : proksima  
 karbon : karbono  
 karibia : Karibio  
+karme : konduto (karmo)  
 karote : karoto  
 karte : karto  
 karwan : karavano  
@@ -1231,6 +1232,7 @@ taiga : tajgo
 talium : talio  
 tambur : tamburo  
 tantalum : tantalo  
+tanur : forno  
 tanzania : Tanzanio  
 tarja : traduki  
 tarje : traduko  

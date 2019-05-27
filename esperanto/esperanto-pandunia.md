@@ -369,6 +369,7 @@ forko : forke
 formigi : forma  
 formiko : maye  
 formo : forme  
+forno : tanur  
 forta : forti  
 forto : fortia  
 forumo : forum  
@@ -628,6 +629,7 @@ komunisto : komuniste
 koncentri : fokusa  
 koncentriĝo : fokus  
 kondiĉo (postulo) : xarte  
+konduto (karmo) : karme  
 Konfuceo : konfuze  
 kongrui : maca  
 konscia : budi  

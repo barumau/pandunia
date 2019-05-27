@@ -953,6 +953,7 @@ karbi : läheinen
 karbon : hiili  
 karibia : Karibia  
 karite : voipuu  
+karme : toiminta (käytös, karma)  
 karoparke : parkkipaikka  
 karote : porkkana  
 karte : kortti  
@@ -2091,6 +2092,7 @@ tan : itse
 tani : henkilökohtainen (privaatti)  
 tanke : tankki (säiliö)  
 tanke : tankki (säiliö)  
+tanur : uuni  
 tanzania : Tansania  
 tape : tulppa (tappi, korkki)  
 tarif : taksa (tariffi)  

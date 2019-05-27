@@ -8,6 +8,7 @@ accept (to say okay) : okeya
 acknowledge : resida  
 act (play a role) : rola  
 actinium : acinium  
+action (conduct, karma) : karme  
 actor (actress) : roler  
 additional : maxi  
 address : adres  
@@ -1534,6 +1535,7 @@ ouch (ow, alas) : ay
 outcast (pariah) : paraye  
 outer (external) : way  
 outside (exterior) : waye  
+oven (furnace) : tanur  
 overpass : supre  
 own (particle of possession) : da  
 own : malka  

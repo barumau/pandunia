@@ -955,6 +955,7 @@ karbi : near (close)
 karbon : carbon (coal)  
 karibia : Caribbean  
 karite : shea  
+karme : action (conduct, karma)  
 karoparke : car park (parking lot)  
 karote : carrot  
 karte : card  
@@ -2124,6 +2125,7 @@ tani : personal (intimate, private)
 tanke : tank (container)  
 tanke : tank (reservoir)  
 tantalum : tantalum  
+tanur : oven (furnace)  
 tanzania : Tanzania  
 tape : tap (stopper)  
 tarif : fee (fare, tariff, rate)  

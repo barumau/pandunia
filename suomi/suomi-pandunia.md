@@ -2069,6 +2069,7 @@ Togo : togolia
 tohtori : dotor  
 tohtorin tutkinto : dotoria  
 toiminta (funktio) : funca  
+toiminta (käytös, karma) : karme  
 toimittaja (journalisti, lehtimies) : bawer  
 toisiaan (keskenään) : unale  
 toistaa : repa  
@@ -2178,6 +2179,7 @@ usko (luottamus) : xin
 uskoa (luottaa) : xina  
 uskonto : din  
 uudistaa : nowa  
+uuni : tanur  
 uusi : nowi  
 Uusi-Kaledonia : nowi kaledonia  
 Uusi-Seelanti : nowi zilandia  
