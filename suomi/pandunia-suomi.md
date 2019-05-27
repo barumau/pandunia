@@ -59,6 +59,7 @@ antartia : Antarktis
 anten : antenni  
 anter : vastustaja  
 anti : vasta- (anti-)  
+antonim : vastakohta (antonyymi)  
 anus : peräaukko (anus)  
 anusi : anaalinen  
 aple : omena  
@@ -93,6 +94,7 @@ atake : hyökkäys
 atom : atomi  
 auda : kuulla (kuunnella)  
 australia : Australia  
+automoti : itseliikkuva  
 awakate : avokado  
 axur : Assur  
 axuria : Assyria  
@@ -356,6 +358,7 @@ dayu : kasvaa (suurentua)
 deci : desi  
 defta : tallentaa (rekisteröidä, kirjata)  
 defte : tallenne (rekisteri)  
+deftia : rekisteri  
 deftobuke : lokikirja  
 deka : peittää  
 deke : peite (kansi)  
@@ -461,8 +464,10 @@ espania : Espanja
 esperanti : esperanto  
 estadia : stadioni (areena)  
 estasa : seisahtaa  
+estasi : seisova (staattinen)  
 estasia : asema  
 estia : Viro (Eesti)  
+estrontium : strontium  
 estudia : ateljee (studio)  
 etiopia : Etiopia  
 eurasia : Euraasia  
@@ -511,6 +516,7 @@ femi bace : tyttölapsi
 femi rajer : kuningatar  
 fen : osa (pala)  
 fena : jakaa (paloitella)  
+fenodona : osallistua (tehdä osansa)  
 fenu : jakautua (hajota)  
 fer : rauta  
 fermium : fermium  
@@ -719,6 +725,7 @@ hazin : aarre
 he : häh?  
 helen : kreikkalainen  
 helenia : Kreikka  
+helis : kierre (spiraali)  
 helium : helium  
 helme : kypärä  
 helpa : auttaa (avustaa)  
@@ -869,9 +876,8 @@ jina : edetä (edistyä)
 jinse : sukupuoli  
 jinsi : sukupuoli-  
 jiraf : kirahvi  
-jiwa : elää  
 jiwe : elämä  
-jiwi : elävä  
+jiwi : elää (olla elossa, elävä)  
 joke : vitsi  
 joker : vitsiniekka  
 jong : laji  
@@ -942,6 +948,7 @@ kapitan : kapteeni
 kar : kärry (vaunu, auto, jne)  
 karaoke : karaoke  
 karate : karate  
+karawe : kumina  
 karbi : läheinen  
 karbon : hiili  
 karibia : Karibia  
@@ -950,6 +957,8 @@ karoparke : parkkipaikka
 karote : porkkana  
 karte : kortti  
 kartun : sarjakuva  
+karwan : karavaani (saattue)  
+kas : tapaus (seikka)  
 kastan : kastanja  
 kastel : linna  
 kastor : majava  
@@ -964,7 +973,6 @@ kay : auki (avoin)
 kaya : aukaista (avata)  
 kayu : aueta (avautua)  
 kazahia : Kazakstan  
-kaze : tapaus  
 ke : mikä? (mitä?)  
 kecape : ketsuppi  
 keci : kohtelias (kiltti)  
@@ -1191,7 +1199,7 @@ lon : väittely (debatti)
 lona : keskustelu (debatti)  
 long : pitkä  
 longa : pidentää  
-longe : pituus  
+longia : pituus  
 lose : ruuvi  
 lote : erä (satsi)  
 lote : tontti (maakaistale)  
@@ -1397,6 +1405,7 @@ mola : jauhaa myllyssä
 moldowia : Moldova  
 moler : mylläri  
 molidenum : molybdeeni  
+moluske : nilviäinen  
 mome : me  
 mon : vain (ainoastaan)  
 monako : Monaco  
@@ -1467,6 +1476,7 @@ naijiria : Nigeria
 nam : nimi  
 namibia : Namibia  
 namisa : nimittää (kutsua)  
+namolekse : substantiivi (nimisana)  
 namu : olla nimeltään  
 nanas : ananas  
 nano : nano-  
@@ -1860,6 +1870,9 @@ rong : itämainen lohikäärme
 rose : kaste  
 rosta : paahtaa (paistaa)  
 rosti pang : paahtoleipä  
+rota : pyörittää  
+roter : roottori (propelli)  
+rotu : pyöriä  
 roze : ruusu  
 rozi : vaaleanpunainen  
 ruhe : henki (sielu, mieli, psyyke)  
@@ -2013,10 +2026,10 @@ solomon da nesia : Salomon-saaret
 solosistem : aurinkokunta  
 somalia : Somalia  
 son : nukkuminen (uni)  
-sona : nukkua  
 sonda : ääntää  
 sonde : ääni  
 song : mänty  
+soni : nukkua  
 sonokamar : makuuhuone  
 sos : kastike (soosi)  
 sosis : makkara  
@@ -2127,7 +2140,6 @@ tike : pala
 tikete : lippu (piletti)  
 tim : joukkue (tiimi)  
 tin : kolme (3)  
-tin : tölkki (purkki)  
 ting : pysähdys  
 tinga : pysäyttää  
 tingu : pysähtyä  
@@ -2306,6 +2318,7 @@ xefi minister : pääministeri (suurvisiiri)
 xefi : pää-  
 xenon : ksenon  
 xey : asia  
+xibay : epäonnistuminen  
 xiki : elegantti  
 xim : sydän  
 xin : usko (luottamus)  
@@ -2391,7 +2404,7 @@ zine : haureus (uskottomuus)
 zinke : sinkki  
 zipa : sulkea vetoketjulla  
 ziper : vetoketju  
-ziran : kumina  
+ziran : juustokumina (jeera)  
 zirkonium : zirkonium  
 ziza : sihistä  
 zombe : zombi  

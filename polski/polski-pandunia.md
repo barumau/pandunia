@@ -367,7 +367,7 @@ dziś, dzisiaj : zay den
 dół, jama, wydobycie, wykop, wykopalisko : fos  
 dół, spód : tal  
 długi : long  
-długość : longe  
+długość : longia  
 dźinizm, dżinizm : jayistia  
 dźwięk, brzmienie : sonde  
 Dżibuti : jibutia  
@@ -539,6 +539,7 @@ hebel, strug : rander
 heblować : randa  
 hebrajski : ibri  
 hel : helium  
+helisa : helis  
 herbaciarnia : cayeria  
 herbata : cay  
 heteroseksualny : alojinsokami  
@@ -1571,7 +1572,6 @@ Puerto Rico : portorikia
 punkt : binde  
 pusty : hali  
 pustynia : registan  
-puszka : tin  
 puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać : laxa  
 pyszny : nyami  
 pytajny, związany z pytaniem : eski  
@@ -1582,7 +1582,7 @@ północny : nordi
 pęknąć (rozpaść się) : fenu  
 płakać, łkać : kuga  
 płaski : ping  
-płaski chleb, ćapati : rote  
+płaski chleb, ćapati : capate  
 płaszcz : kote  
 płciowy : jinsi  
 płeć : jinse  
@@ -1640,7 +1640,7 @@ romantyczny : romansi
 rosa : rose  
 Rosja : rusia  
 rosyjski : rusi  
-rotor, wirnik : rotor  
+rotor, wirnik : roter  
 rower : sikle  
 rozdział, sekcja : babe  
 rozkaz, komenda : komande  
@@ -1772,7 +1772,7 @@ sos : sos
 sosna : song  
 spadek, dziedzictwo, spuścizna, zapis : waris  
 spalić, palić : jala  
-spać : sona  
+spać : soni  
 specjalny, wyraźny, wyrazisty : has  
 spis treści (tabela zawartości) : tenoliste  
 spocony : swedi  
@@ -2162,7 +2162,7 @@ wybrać, wybierać, selekcjonować : cuza
 wybór, elekcja, selekcja : cuze  
 wycie, skowyt : ulul  
 wyczyścić, czyścić : safa  
-wydarzenie, przypadek, sytuacja : kaze  
+wydarzenie, przypadek, sytuacja : kas  
 wydoić, doić : tira milke  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać : kurbe  
 wygląd : rupe  
@@ -2370,7 +2370,6 @@ zły, zrujnowany, zepsuty : harabi
 żydowski : yehudi  
 żyrafa : jiraf  
 żywica : rezin  
-żywy, żyjący : jiwi  
-żyć : jiwa  
+żyć (żywy, żyjący) : jiwi  
 żółty : wang  
 żółw : tortuge  

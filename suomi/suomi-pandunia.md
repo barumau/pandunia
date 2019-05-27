@@ -223,8 +223,7 @@ eli (toisin sanoen) : yani
 elokuu : mes 8 (mes bal)  
 eläin : hewan  
 elämä : jiwe  
-elävä : jiwi  
-elää : jiwa  
+elää (olla elossa, elävä) : jiwi  
 enemmistö : maxoria  
 enemmistö- : maxor  
 enemmän : max  
@@ -238,6 +237,7 @@ ensimmäinen (numero yksi) : num un
 entsyymi : enzim  
 epäilys : dute  
 epäonni : mal zar  
+epäonnistuminen : xibay  
 erbium : erbium  
 erikoinen (erityinen) : has  
 Eris (kääpiöplaneetta) : eris  
@@ -508,6 +508,7 @@ Italia : italia
 itkeä : kuga  
 itse : tan  
 itse : ze  
+itseliikkuva : automoti  
 itä : dong  
 itämainen lohikäärme : rong  
 Itävalta : osteria  
@@ -569,6 +570,7 @@ Jupiter : muxing
 jutella (höpistä) : blabla  
 juuri : gen  
 juusto : cis  
+juustokumina (jeera) : ziran  
 juutalainen : yehudi  
 juutalaisuus : yehudistia  
 jyrinä (ukkonen) : grom  
@@ -635,6 +637,7 @@ kapteeni : kapitan
 karaatti : kirate  
 karaoke : karaoke  
 karate : karate  
+karavaani (saattue) : karwan  
 karhu : urse  
 karhu : urse  
 Karibia : karibia  
@@ -717,6 +720,7 @@ kielitiede (lingvistiikka) : baxolojia
 kielletty : haram  
 kieltää : harama  
 kieltää : nega  
+kierre (spiraali) : helis  
 kiihkeä (väkevä, voimakas, vahva, kova) : tezi  
 Kiina : jungogia  
 kiinnittää : fiksa  
@@ -842,7 +846,7 @@ kulua (ajasta) : duru
 kuluttaa aikaa : pasa  
 kuluva (tämänhetkinen) : zay  
 kumi : gom  
-kumina : ziran  
+kumina : karawe  
 kummitus (aave) : fantom  
 Kungfutse : konfuze  
 Kungfutselaisuus : konfuzistia  
@@ -1302,6 +1306,7 @@ Nigeria : naijiria
 nihonium : niponium  
 Nikaragua : nikaragua  
 nikkeli : nikel  
+nilviäinen : moluske  
 nimi : nam  
 nimittää (kutsua) : namisa  
 niobium : niobium  
@@ -1324,7 +1329,7 @@ nostaa pystyyn : liba
 nudismi : nudistia  
 nudisti : nudiste  
 nukke : pupe  
-nukkua : sona  
+nukkua : soni  
 nukkuminen (uni) : son  
 nuori : jowan  
 nuorukainen : jowane  
@@ -1387,6 +1392,7 @@ oromo (etiopialainen kansa ja kieli) : oromi
 orpo : yatim  
 orpokoti : yatimodom  
 osa (pala) : fen  
+osallistua (tehdä osansa) : fenodona  
 osallistua : parta  
 osallistuja : parter  
 osapuoli : partia  
@@ -1532,7 +1538,7 @@ Pitcairn : pitkerne
 pitkä : long  
 pitsa (pizza) : pize  
 pitseria : pizeria  
-pituus : longe  
+pituus : longia  
 pitäisi : xudu  
 pitäjä (hallussapitäjä) : tener  
 pitää (pitää hallussa) : tena  
@@ -1621,6 +1627,8 @@ pyyhe : towal
 pyytää : plisa  
 pyytää tulemaan : plisa laya  
 pyöreä : cirki  
+pyörittää : rota  
+pyöriä : rotu  
 pyörä (polkupyörä, moottoripyörä) : sikle  
 päivä : den  
 päivämäärä : nenomesoden  
@@ -1674,6 +1682,7 @@ rauta : fer
 ravintola : restoran  
 rehtori : darsoxef  
 reikä : kong  
+rekisteri : deftia  
 reppu (rinkka) : rukosake  
 resepti (ohje) : recete  
 retikka (retiisi) : lobake  
@@ -1704,6 +1713,7 @@ romanttinen : romansi
 rooli (osa) : rol  
 Rooma : rome  
 Rooman valtakunta : romi empiria  
+roottori (propelli) : roter  
 roska : laje  
 rotu : ras  
 Ruanda : rwandia  
@@ -1785,6 +1795,7 @@ seesami : sesam
 seinä (muuri) : mur  
 seisahtaa : estasa  
 seismologia : sismolojia  
+seisova (staattinen) : estasi  
 seistä (seisoa) : libu  
 seitsemän (7) : sem  
 sekoitin : mixer  
@@ -1873,7 +1884,9 @@ soveltaa : aplika
 sranan tongo : surinami bax  
 Sri Lanka : lankia  
 stadioni (areena) : estadia  
+strontium : estrontium  
 suahili : swahili  
+substantiivi (nimisana) : namolekse  
 Sudan : sudan  
 sudenkorento : libel  
 suhde (yhteys) : guanxe  
@@ -1981,7 +1994,7 @@ taolaisuus : dawistia
 tapa (perinne) : rasme  
 tapa (rutiini) : rutin  
 tapaaminen (kokous) : mite  
-tapaus : kaze  
+tapaus (seikka) : kas  
 tapetti : muropapir  
 tappaa : morta  
 tappaja : morter  
@@ -2135,7 +2148,6 @@ täytetty pulla : mante
 täyttää : fula  
 täytyä (olla pakko) : bixu  
 täällä (tuolla) : sa ce  
-tölkki (purkki) : tin  
 törkeä : nindi  
 Tšad : cadia  
 Tšekki : cehia  
@@ -2229,6 +2241,7 @@ vasemmistolainen : leftiste
 vasen : lefte  
 vasta- (anti-) : anti  
 vastaan (vasten) : kontra  
+vastakohta (antonyymi) : antonim  
 vastata : jawaba  
 vastaus : jawabe  
 vastustaa : anta  

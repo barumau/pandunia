@@ -569,6 +569,7 @@ kaoso (malordo) : haos
 kapro : buze  
 kapti : kapa  
 karateo : karate  
+karavano : karwan  
 karbono : karbon  
 Karibio : karibia  
 karoto : karote  
@@ -754,6 +755,7 @@ malpli : min
 malproksima : tel  
 malproksimeco : tele  
 malsana : bing  
+malsukceso : xibay  
 maltro : min ka bas  
 malvarma : leng  
 malĝoja : duki  
@@ -816,6 +818,7 @@ mito : dewi sage
 mizera : miskin  
 mola : komal  
 molibdeno : molidenum  
+molusko : moluske  
 monato : mes  
 mondlingvo : duniobax  
 mondo : dunia  
@@ -1171,6 +1174,7 @@ stiri : gida
 stranga : bizar  
 stroncio : estrontium  
 studento (lernanto) : darser  
+substantivo : namolekse  
 Sudkoreio : hangogia  
 sudo : sude  
 sufiĉa : bas  
@@ -1317,7 +1321,6 @@ viro : man
 viro : maturi man  
 vitro : kace  
 viva : jiwi  
-vivi : jiwa  
 vivo : jiwe  
 vizaĝo : muke  
 vizitanto : wiziter  

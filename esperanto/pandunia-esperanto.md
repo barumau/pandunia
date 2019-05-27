@@ -657,7 +657,6 @@ jentil : bonkora
 jenu : naski  
 jinse : genro  
 jiraf : ĝirafo  
-jiwa : vivi  
 jiwe : vivo  
 jiwi : viva  
 jowan fem : knabino  
@@ -710,6 +709,7 @@ karbon : karbono
 karibia : Karibio  
 karote : karoto  
 karte : karto  
+karwan : karavano  
 kastan : kaŝtano  
 kastor : kastoro  
 kata : tranĉi  
@@ -907,6 +907,7 @@ mode : fasono
 moge : inko  
 moke : ligno  
 molidenum : molibdeno  
+moluske : molusko  
 mome : ni  
 mon : nur  
 mongol : mongola  
@@ -945,6 +946,7 @@ nafas : spiro
 naijiria : Niĝerio  
 nam : nomo  
 namibia : Namibio  
+namolekse : substantivo  
 nanas : ananaso  
 natre : natrio  
 nawati : naūatla  
@@ -1351,6 +1353,7 @@ xaw : malmulte
 xef : estro (ĉefulo)  
 xefi minister : ĉefministro  
 xenon : ksenono  
+xibay : malsukceso  
 xim : koro  
 xin : kredo  
 xina : kreda  

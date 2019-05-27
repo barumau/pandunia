@@ -271,6 +271,7 @@ canse : szansa
 canta : śpiewać  
 cante : piosenka, pieśń  
 capa : naciskać, zostawiać ślad  
+capate : płaski chleb, ćapati  
 cape : odcisk, ślad; stempel, pieczęć  
 car : cztery (4)  
 carokon : kwadrat (czworokąt, czworobok, tetragon)  
@@ -708,6 +709,7 @@ hazin : skarb; skrabiec
 he : hę?, co?, pardon?  
 helen : gracki, helleński; Grek  
 helenia : Grecja  
+helis : helisa  
 helium : hel  
 helme : hełm  
 helpa : pomóc, pomagać, asystować  
@@ -855,9 +857,8 @@ jiki : wyprostować, prostować
 jinse : płeć  
 jinsi : płciowy  
 jiraf : żyrafa  
-jiwa : żyć  
 jiwe : życie  
-jiwi : żywy, żyjący  
+jiwi : żyć (żywy, żyjący)  
 joke : żart  
 joker : żartowniś, dowcipniś  
 jong : gatunek  
@@ -934,6 +935,7 @@ karoparke : parking
 karote : marchew  
 karte : karta  
 kartun : komiks; kreskówka  
+kas : wydarzenie, przypadek, sytuacja  
 kastan : kasztan  
 kastor : bóbr  
 kata : ciąć  
@@ -947,7 +949,6 @@ kay : otwarty, niezamknięty
 kaya : otworzyć, otwierać  
 kayu : otworzyć się, otwierać się  
 kazahia : Kazachstan  
-kaze : wydarzenie, przypadek, sytuacja  
 ke : co?  
 kecape : keczup  
 keci : uprzejmy  
@@ -1166,7 +1167,7 @@ lon : dyskusja, debata, dyskurs
 lona : debatować, prowadzić dyskurs  
 long : długi  
 longa : przedłużyć, przedłużać  
-longe : długość  
+longia : długość  
 lose : śruba, wkręt  
 lote : działka (teren)  
 lote : wsad, partia, porcja, seria  
@@ -1818,8 +1819,7 @@ rong : orientalny smok
 rose : rosa  
 rosta : piec  
 rosti pang : tost  
-rote : płaski chleb, ćapati  
-rotor : rotor, wirnik  
+roter : rotor, wirnik  
 roze : róża  
 rozi : różowy, różany  
 rubidium : rubid  
@@ -1982,10 +1982,10 @@ solomon da nesia : Wyspy Salomona
 solosistem : układ słoneczny  
 somalia : Somalia  
 son : sen  
-sona : spać  
 sonda : brzmieć, wydać dźwięk, wydawać dźwięk  
 sonde : dźwięk, brzmienie  
 song : sosna  
+soni : spać  
 sonokamar : sypialnia  
 sos : sos  
 sosis : kiełbasa  
@@ -2108,7 +2108,6 @@ ticin : chordofon, instrument strunowy
 tike : tikka  
 tikete : bilet  
 tim : drużyna  
-tin : puszka  
 tin : trzy (3)  
 ting : stop; przerwa, zatrzymanie  
 tinga : zatrzymać  

@@ -84,6 +84,7 @@ kosmia : космос
 ##l  
 ##m  
 manihayistia : манихейство  
+moluske : моллюск  
 ##n  
 note : запись (заметка)  
 ##o  
@@ -111,7 +112,6 @@ tese : довод
 teste : анализ (тест)  
 tikete : билет  
 tim : команда  
-tin : бляшанка  
 tira milke : тянуть  
 toca : касаться  
 tomate : помидор (томат)  

@@ -41,20 +41,36 @@ ame : amour (affection)
 amen : accord  
 amerike : Amérique  
 ameriki : américain  
+amper : ampère  
+ampul : ampoule (fiole)  
 analis : analyse  
 analisa : analyser  
+ande : oeuf  
+andes : Andes  
+angolia : Angola  
+anima : animer  
 anime : animation  
 anjil : évangile  
+anjiler : ange  
+antartia : Antarctique  
 anten : antenne  
+anter : opposant (antagoniste)  
 anus : anus  
 aple : pomme  
 aplika : appliquer  
+arabi : arabe  
 arane : araignée  
-aranje : oreange  
+aranje : orange (fruit)  
+aranji : orange (couleur)  
+aranofobia : arachnophobie  
 arbe : arbre  
-arbuze : melon d'eau  
+arboparke : arboretum, pépinière  
+arbuze : pastèque  
 are : aire (superficie)  
+argentin : Argentine  
+argon : argon  
 armia : armée  
+arsen : arsenic  
 arte : art  
 arter : artiste  
 asi : asiatique  
@@ -141,7 +157,6 @@ tese : argument
 teste : épreuve (test)  
 tikete : billet  
 tim : équipe  
-tin : bidon (boîte)  
 tira milke : tirer  
 toca : toucher  
 tomate : tomate  

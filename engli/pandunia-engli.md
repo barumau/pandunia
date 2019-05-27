@@ -59,6 +59,7 @@ antartia : Antarctica
 anten : antenna (aerial)  
 anter : opponent (antagonist)  
 anti : opposite (anti-)  
+antonim : antonym  
 anus : anus  
 anusi : anal  
 aple : apple  
@@ -276,6 +277,7 @@ canse : opportunity (chance)
 canta : sing  
 cante : song  
 capa : press (imprint)  
+capate : flatbread (chapati, roti)  
 cape : print (stamp)  
 car : four (4)  
 carokon : square (tetragon)  
@@ -725,6 +727,7 @@ hazin : treasure (treasury)
 he : huh? (pardon?)  
 helen : Greek (Hellenic)  
 helenia : Greece  
+helis : spiral (helix, corkscrew, twist)  
 helium : helium  
 helme : helmet  
 helpa : help (assist)  
@@ -875,9 +878,8 @@ jina : advance (progress, enter)
 jinse : gender (biological sex)  
 jinsi : sexual (relating to gender)  
 jiraf : giraffe  
-jiwa : live  
 jiwe : life  
-jiwi : alive (living)  
+jiwi : live (be alive, living)  
 joke : joke  
 joker : joker  
 jong : species  
@@ -948,6 +950,7 @@ kapitan : captain
 kar : car (cart, carriage, wagon, automobile)  
 karaoke : karaoke  
 karate : karate  
+karawe : caraway  
 karbi : near (close)  
 karbon : carbon (coal)  
 karibia : Caribbean  
@@ -956,6 +959,8 @@ karoparke : car park (parking lot)
 karote : carrot  
 karte : card  
 kartun : comic (cartoon)  
+karwan : caravan (convoy)  
+kas : event (case, instance)  
 kastan : chestnut  
 kastel : castle  
 kastor : beaver  
@@ -970,7 +975,6 @@ kay : open (not closed)
 kaya : open  
 kayu : become open  
 kazahia : Kazakhstan  
-kaze : event (case, instance)  
 ke : what?  
 kecape : ketchup  
 keci : polite  
@@ -1197,7 +1201,7 @@ lon : discussion (debate, discourse)
 lona : debate (discuss)  
 long : long (lengthy)  
 longa : lengthen (prolong)  
-longe : length  
+longia : length  
 lose : screw  
 lote : batch (lot)  
 lote : lot (plot of land)  
@@ -1404,6 +1408,7 @@ mola : grind (grind in mill)
 moldowia : Moldova  
 moler : miller  
 molidenum : molybdenum  
+moluske : mollusk  
 mome : we  
 mon : only (alone, solely, just)  
 monako : Monaco  
@@ -1474,6 +1479,7 @@ naijiria : Nigeria
 nam : name  
 namibia : Namibia  
 namisa : call (name)  
+namolekse : noun  
 namu : be called (be named)  
 nanas : pineapple  
 nano : nano-  
@@ -1869,8 +1875,9 @@ rong : oriental dragon
 rose : dew  
 rosta : roast  
 rosti pang : toast (toasted bread)  
-rote : flatbread (chapati, roti)  
-rotor : rotor (rotator)  
+rota : rotate (make spin)  
+roter : rotor (rotator)  
+rotu : rotate (spin, turn on an axis)  
 roze : rose  
 rozi : pink (rosy)  
 rubidium : rubidium  
@@ -2041,10 +2048,10 @@ solomon da nesia : Solomon Islands
 solosistem : solar system  
 somalia : Somalia  
 son : sleep  
-sona : sleep (be asleep)  
 sonda : sound (make a sound)  
 sonde : sound (audio)  
 song : pine tree  
+soni : sleep (be asleep)  
 sonokamar : bedroom  
 sos : sauce  
 sosis : sausage  
@@ -2169,7 +2176,6 @@ ticin : bow instrument (violin, etc.)
 tike : tikka (piece)  
 tikete : ticket  
 tim : team  
-tin : can (tin can)  
 tin : three (3)  
 ting : stop  
 tinga : stop (halt)  
@@ -2356,6 +2362,7 @@ xefi minister : prime minister
 xefi : main (principal)  
 xenon : xenon  
 xey : thing  
+xibay : failure (flop)  
 xiki : elegant (chic)  
 xim : heart  
 xin : belief (faith, creed)  
@@ -2442,7 +2449,7 @@ zine : adultery (infidelity)
 zinke : zinc  
 zipa : zip up  
 ziper : zipper  
-ziran : cumin  
+ziran : cumin (jeera)  
 zirkonium : zirconium  
 ziza : sizzle  
 zombe : zombie  

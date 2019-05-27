@@ -76,6 +76,7 @@ fem : 女
 ##h  
 habar : 消息  
 haime : 帐篷  
+helis : 螺旋  
 helpa : 帮助  
 ##i  
 ##j  
@@ -145,7 +146,6 @@ tese : 论据
 teste : 化验  
 tikete : 票  
 tim : 队  
-tin : 罐  
 tira milke : 拉  
 toca : 接触  
 tomate : 西红柿  

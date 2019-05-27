@@ -38,7 +38,6 @@ alcoholic : alkoli
 alga : alge  
 algebra : jebria  
 Algeria : jayer  
-alive (living) : jiwi  
 all : pan  
 allophone : alofone  
 allow (permit) : permisa  
@@ -77,6 +76,7 @@ answer (reply, response) : jawabe
 ant : maye  
 Antarctica : antartia  
 antenna (aerial) : anten  
+antonym : antonim  
 anus : anus  
 any (no matter which) : eni  
 appearance (looks) : rupe  
@@ -329,7 +329,6 @@ Cameroon : kamerun
 camp : kampe  
 camper : kamper  
 can (know, be able) : abla  
-can (tin can) : tin  
 Canada : kanadia  
 candle : mumonur  
 candy (sweets) : kande  
@@ -340,6 +339,8 @@ captain : kapitan
 car (cart, carriage, wagon, automobile) : kar  
 car park (parking lot) : karoparke  
 carat : kirate  
+caravan (convoy) : karwan  
+caraway : karawe  
 carbon (coal) : karbon  
 card : karte  
 care (cure) : kura  
@@ -527,7 +528,7 @@ cube : kube
 cucumber : pepin  
 cultivate (farm) : nonga  
 culture : kultur  
-cumin : ziran  
+cumin (jeera) : ziran  
 cup : kupe  
 cupboard (closet, cabinet, wardrobe) : almar  
 curium : kurium  
@@ -698,7 +699,7 @@ evaluate (review, criticise) : pipinga
 evaluation (criticism) : piping  
 even (intensifier) : hati  
 evening : xam  
-event (case, instance) : kaze  
+event (case, instance) : kas  
 every (each) : mey  
 everybody (everyone) : mey ren  
 everything : mey xey  
@@ -717,6 +718,7 @@ eye : kan
 face : muke  
 face powder : mukofun  
 factory : fateria  
+failure (flop) : xibay  
 fairy : peri  
 Falkland Islands (Malvinas) : malbinas da nesia  
 fall : padu  
@@ -771,7 +773,7 @@ five (5) : lim
 fix (attach) : fiksa  
 flag (banner) : bandir  
 flat : ping  
-flatbread (chapati, roti) : rote  
+flatbread (chapati, roti) : capate  
 floor : kamarotal  
 flower : pul  
 fluorine : flur  
@@ -1167,7 +1169,7 @@ Lebanon : libnun
 left : lefte  
 leftist (left-winger) : leftiste  
 lemon : limun  
-length : longe  
+length : longia  
 lengthen (prolong) : longa  
 Lesotho : soto  
 less : min  
@@ -1201,8 +1203,8 @@ liter (litre) : litre
 lithium : litium  
 little (few, not many) : xaw  
 little (small; a little, somewhat) : lil  
+live (be alive, living) : jiwi  
 live (dwell, reside) : doma  
-live : jiwa  
 load (to charge) : lada  
 local : loki  
 locate (place) : loka  
@@ -1354,6 +1356,7 @@ mixer (blender) : mixer
 model (design) : model  
 Moldova : moldowia  
 mole (burrowing animal) : krote  
+mollusk : moluske  
 molybdenum : molidenum  
 Monaco : monako  
 Monday : war 1 (war un)  
@@ -1473,6 +1476,7 @@ notebook : notobuke
 nothing : nol xey  
 notice (notification) : notis  
 notify : notisa  
+noun : namolekse  
 November : mes 11 (mes des un)  
 nudism : nudistia  
 nudist : nudiste  
@@ -1857,7 +1861,9 @@ roof : cate
 room (chamber) : kamar  
 root : gen  
 rose : roze  
-rotor (rotator) : rotor  
+rotate (make spin) : rota  
+rotate (spin, turn on an axis) : rotu  
+rotor (rotator) : roter  
 round (circular) : cirki  
 route (path, trail, course, itinerary) : rute  
 routine (habit) : rutin  
@@ -1984,7 +1990,7 @@ skin : pifu'
 skirt : jupe  
 skull : saroste  
 sky (heaven) : saman  
-sleep (be asleep) : sona  
+sleep (be asleep) : soni  
 sleep : son  
 Slovakia : slowakia  
 Slovenia : slowenia  
@@ -2038,6 +2044,7 @@ speed (velocity) : rape
 speedometer : rapometer  
 spice (seasoning) : masal  
 spider : arane  
+spiral (helix, corkscrew, twist) : helis  
 spit : tuka  
 split (fall apart) : fenu  
 spoon : camce  

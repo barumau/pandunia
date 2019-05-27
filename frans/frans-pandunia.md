@@ -24,19 +24,32 @@ aluminium : alumin
 amande : badam  
 Amhara (groupe ethnique et langue éthiopienne) : amari  
 amour (affection) : ame  
+ampoule (fiole) : ampul  
+ampère : amper  
 américain : ameriki  
 Amérique : amerike  
 analyse : analis  
 analyser : analisa  
+Andes : andes  
+ange : anjiler  
+Angola : angolia  
 animation : anime  
+animer : anima  
+Antarctique : antartia  
 antenne : anten  
 anus : anus  
 appartenir à : tenu  
 appliquer : aplika  
+arabe : arabi  
+arachnophobie : aranofobia  
 araignée : arane  
+arboretum, pépinière : arboparke  
 arbre : arbe  
+Argentine : argentin  
+argon : argon  
 argument : tese  
 armée : armia  
+arsenic : arsen  
 art : arte  
 artiste : arter  
 asiatique : asi  
@@ -58,7 +71,6 @@ baryum : barium
 base : baze  
 basketball : baskobol  
 bibliothèque : kitabia  
-bidon (boîte) : tin  
 billet : tikete  
 ##c  
 capacité (compétence) : able  
@@ -101,16 +113,19 @@ lourd : bari
 machine à écrire : kitabomaxin  
 mais (bien que) : a  
 manichéisme : manihayistia  
-melon d'eau : arbuze  
 mouche : zeze  
 ##n  
 note : note  
 ##o  
+oeuf : ande  
+opposant (antagoniste) : anter  
+orange (couleur) : aranji  
+orange (fruit) : aranje  
 ordinateur : komputer  
-oreange : aranje  
 origine : asle  
 originel : asli  
 ##p  
+pastèque : arbuze  
 perroquet : papagay  
 peu : xaw  
 piraterie : piratia  
