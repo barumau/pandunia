@@ -2164,7 +2164,7 @@ ulostaa (kakata) : kaka
 uloste (kakka) : kake  
 ulvoa : ulula  
 ulvonta : ulul  
-Unkari : madyar  
+Unkari : madyaria  
 upea (hieno) : kul  
 upea (mahtava) : super  
 uraani : uranium  

@@ -1186,7 +1186,7 @@ madagasi : madagaskarski; malagaski
 madagasia : Madagaskar  
 made : materia, substancja  
 madi : materialny  
-madyar : Węgry  
+madyaria : Węgry  
 mafan : problem, kłopot, zakłócenie  
 mafana : przeszkodzić, przeszkadzać, robić kłopot  
 mager : magik, czarownik  

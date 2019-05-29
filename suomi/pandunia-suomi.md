@@ -1219,7 +1219,7 @@ madagasi : malagassi
 madagasia : Madagaskar  
 made : aine (materia)  
 madi : aineellinen (materiaalinen)  
-madyar : Unkari  
+madyaria : Unkari  
 mafan : vaiva (haitta)  
 mafana : vaivata  
 mager : taikuri  

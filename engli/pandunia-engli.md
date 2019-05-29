@@ -1221,7 +1221,7 @@ madagasi : Malagasy
 madagasia : Madagascar  
 made : matter (substance)  
 madi : material  
-madyar : Hungary  
+madyaria : Hungary  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
 mager : magician (sorcerer)  

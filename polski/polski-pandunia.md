@@ -2199,7 +2199,7 @@ wóz, wózek : kar
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność : dute  
 wąż : serpe  
 węgiel : karbon  
-Węgry : madyar  
+Węgry : madyaria  
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  
