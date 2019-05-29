@@ -1,5 +1,4 @@
-Pandunian äänteet
-=================
+# Pandunian äänteet
 
 Panduniaa kirjoitetaan latinalaisilla aakkosilla. Tässä on pandunian aakkoset. Alemmalla rivillä on niiden ääntämisohje kansainvälisillä äännemerkeillä.
 
@@ -11,8 +10,7 @@ Panduniaa luetaan äänteenmukaisesti. Yksi äänne vastaa yhtä kirjainta ja yk
 
 
 
-Vokaalit
---------
+## Vokaalit
 
 Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
 
@@ -21,8 +19,7 @@ Panduniassa on viisi vokaalia. Ne äännetään samalla tavalla kuin suomessa.
       a
 
 
-Konsonantit
------------
+## Konsonantit
 
     p  b  f     m  w
     t  d  s  z  n  l  r
@@ -41,18 +38,16 @@ Seuraavat kirjaimet äännetään eri tavalla kuin suomessa.
 - **y** on I:n puolivokaali, joka vastaa suomen J:tä.
 - **w** on U:n puolivokaali. Se äännetään kuten englannin W.
 - **n** äännetään kielen kärjellä paitsi K:n ja G:n edellä se ääntyy äng-äänteenä samoin kuin suomessa. Yhdistelmässä **ng** myös G äännetään muttei välttämättä sanan lopussa. Esim. sana **pang** voidaan ääntää /paŋ/ tai /paŋg/.
-- **'** on äänetön kirjain. Se käyttäytyy konsonantin tavoin, koska sillä on
-  vaikutusta sanan painoon. Esimerkiksi sanassa **sofa'** paino on siis
-  viimeisellä tavulla.
 
-### Sanojen painotus
+
+## Sanojen painotus
 
 Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 Esimerkkejä:
 
 - **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
@@ -62,8 +57,9 @@ Esimerkkejä:
      me wanta loga komun bax, le si pandunia.  
     /mé wánta lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
+
 
 ## Aakkoslajit
 

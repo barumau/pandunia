@@ -18,8 +18,8 @@ silent. Every letter has one sound, always the same.
     c  j  x        y
     k  g  h
 
-Most consonants are pronounced same as in English. So the pronunciation of **b,
-d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
+Most consonants are pronounced same as in English. So pronunciation of
+**b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
@@ -35,9 +35,6 @@ The following consonants are pronounced differently in Pandunia than in English.
   and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end
   of a word, the **g** in **ng** can be silent. So the word **pang** can be
   pronounced /paŋ/ as well as /paŋg/.
-- **'** is a silent consonant. It doesn't have a sound but it can affect the
-  placement of the stress accent, for example the stress is on the last 
-  syllable in **sofa'**.
 
 
 ## Semivowels
@@ -82,7 +79,7 @@ The stress is on the syllable, which is before the last consonant.
 Consider the following examples:
 
 - **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
@@ -92,34 +89,36 @@ Consider the following examples:
      me wanta loga komun bax, le si pandunia.  
     /mé wánta lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
+
 
 ## Letter Case
 
 Pandunia is normally written only in small letters (i.e. lower case letters).
-Capital letters can be in the beginning of sentences and proper nouns, such as
-personal names and place names, but it is not required.
+Large letters are not used in general, although they are not forbidden either.
 
-There are three reasons why capital letters are not necessary.
+There are three reasons why large letters and rules about their usage
+are not needed.
 
 1. Writing represents speech and there are no "capital sounds" in speech in
    beginning of proper names etc.
-2. Most of the scripts and alphabets of the world have only one letter case.
-3. It is simpler to use only small letters.
+2. Most of the scripts and alphabets of the world have only one letter type.
+3. It is simpler to use only small letters. No need for rules and exceptions.
 
 Note! It's not a mistake to use the capital letters. Sometimes people do it
 because they are used to them in other languages. But still capital letters are
 unnecessary and not recommended.
 
 Capital letters are used in standard international acronyms. For example: 10 Mb
-(des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 1 kJ (un kilo
-jul).
+(des megobite), 100 Gb (hon gigobite), 2 mm (dul milometre), 1 kJ (un kilojul).
+
 
 ## Syllabification
 
 [-] Words may be divided into syllables with a hyphen. The hyphen is placed
 between spoken syllables. For example: bin, ka-fe, yu-mor, pos-ta.
+
 
 ## Punctuation
 
@@ -143,6 +142,7 @@ For example **:)** indicates happiness and **:(** indicates sadness.
 = I see you.  
 **me ni wida te :(**
 = I don't see you.
+
 
 ## Word structure
 

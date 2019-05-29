@@ -66,7 +66,7 @@ consonante.
 Ejemplos:
 
 - **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
@@ -76,8 +76,8 @@ Ejemplos:
      me wanta loga komun bax, le si pandunia.  
     /mé wánta lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
 
 ## Uso de las letras mayúsculas y minúsculas
 
@@ -162,5 +162,5 @@ El conjunto de consonantes medias están restringidas a:
 4. Oclusiva + consonante líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
-m, n, ng, l, r, s, x
+h, l, m, n, ng, r, s, w, x, y
 

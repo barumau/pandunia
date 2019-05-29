@@ -38,15 +38,13 @@ alimaniere:
 - **x** estas prononcata kiel Esperanta "ŝ".
 - **w** estas prononcata kiel Esperanta "ŭ".
 - **y** estas prononcata kiel Esperanta "j".
-- **'** estas sensona konsonanto, kiu povas nur movigi la akcenton
-  de vorto. Ekzemple je **sofa'** la lasta silabo estas akcentita.
 
 ## Akcento
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
 - **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
@@ -54,10 +52,10 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
     /dúnia sí mómi sundár planéte./
 
      me wanta loga komun bax, le si pandunia.  
-    /mé wóla lóga komún báx, lé sí pandúnia./
+    /mé wánta lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
 
 ## Uskleco
 
@@ -102,10 +100,11 @@ ka-fe, yu-mor, pos-te.
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
 Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
 
-**me vida te :)**
+**me wida te :)**
 = Mi vidas vin.  
-**me ni vida te :(**
+**me ni wida te :(**
 = Mi ne vidas vin.
+
 
 ## Vorto-strukturo
 
@@ -126,20 +125,20 @@ Komencaj konsonantoj povas esti nur jenaj:
 
 Envortaj konsonantaj kombinoj povas esti nur jenaj:
 
-1. Resonante (m, n, ŋ, l, r) + oclusiva o africada
+1. Rezonanto (m, n, ŋ, l, r) + oclusiva o africada
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Resonante + sibilante
+2. Rezonanto + sibilanto
     - ns, ls, rs
     - nz, lz, rz
     - nx, lx, rx
-3. Sibilante + oclusiva
+3. Sibilanto + okluzivo
     - st, sp, sk
-4. Oclusiva + consonante líquida (ver arriba)
+4. Ocluzivo + consonanto líquida (ver arriba)
 
 -->
 
 La permesitaj vorto-finaj konsonantoj estas:
-m, n, ng, l, r, s, x
+h, l, m, n, ng, r, s, w, x, y
 

@@ -59,10 +59,8 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
      me wanta loga komun bax, le si pandunia.  
     /mé wánta lóga komún báx, lé sí pandúnia./
 
-Jeżeli akcentowana sylaba nie jest zgodna z powyższymi zasadami, jest zaznaczona akcentem ostrym (´).
-
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
 
 
 ## Wielkość liter
@@ -116,7 +114,7 @@ Początkowe spółgłoski są ograniczone do:
 1. Jakiejkolwiek pojedynczej spółgłoski oprócz /ŋ/
 2. Spógłoski zwartej + płynnej
     - pl, bl, kl, gl
-    - pr, bl, tr, dr, kr, gr
+    - pr, br, tr, dr, kr, gr
 3. ny
 
 Środkowe skupienie spółgłosek są ograniczone do:
@@ -134,6 +132,6 @@ Początkowe spółgłoski są ograniczone do:
 4. Spółgłoski zwartej + płynnej (spójrz wyżej)
 
 Dozwolonymi końcowymi spółgłoskami są:
-m, n, ng, l, r, s, x
+h, l, m, n, ng, r, s, w, x, y
 
 

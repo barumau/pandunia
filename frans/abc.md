@@ -52,7 +52,7 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofa'** /sofá/
+- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
@@ -62,8 +62,8 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
      me wanta loga komun bax, le si pandunia.  
     /mé wánta lóga komún báx, lé sí pandúnia./
 
-     darsogur sida sa sofa'.  
-    /dársogúr sída sá sofá./
+     darsogur sida sa sofah.  
+    /dársogúr sída sá sofáh/
 
 
 ## Majuscules
@@ -137,6 +137,6 @@ Les groupes de consonnes centrales sont limitées à :
 4. Occlusive + liquide (voir ci-dessus)
 
 Les consonnes finales autorisées sont:  
-m, n, ng, l, r, s, x
+h, l, m, n, ng, r, s, w, x, y
 
 
