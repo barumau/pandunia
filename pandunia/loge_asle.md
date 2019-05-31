@@ -80,12 +80,14 @@ badala ← ara:(badala). hin:बदला (badlā). hau:badali. swa:badili.
 badam ← ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam).  
 badan ← ara:(badan). hin:बदन (badan). fas:urd:(badan). tur:beden. eng:body.  
 bagre ← hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).  
+bah ← eng:spa:ita:bah. por:ba.  
 bal ← zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.  
 balde ← spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).  
 balon ← fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.  
-ban ← zho:板 (bǎn). jpn:板 (ban). vie:bảng. kor:판 (pan). + swa:bao.  
+ban ← kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).  
 bande ← zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).  
 bandir ← eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.  
+banze ← zho:板子 (bǎnzi). mon:банз (banz). kor:판자 (panja). yue:板 (baan2). jpn:板 (ban). vie:bảng. + swa:bao.  
 bar ← ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.  
 barbar ← deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).  
 barde ← fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.  
@@ -147,6 +149,7 @@ buke ← eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.
 buking ← eng:booking. deu:Buchung. hin:"buking".  
 bulbul ← ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).  
 bulu ← eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उबालना (ubālnā).  
+bum ← eng:bum. por:bumbum.  
 bunduke ← ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.  
 bung ← vie:bụng. khm:ពុង (pung). tha:พุง (pung).  
 bus ← deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).  
@@ -193,6 +196,7 @@ darse ← ara:fas:urd:(dars). tur:ders.
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
 daw ← zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.  
 day ← yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".  
+defe ← ara:(difāʿ). fas:(defâ'). hin:दफ़ा (dafā). urd:(difā'). + fra:eng:defense. spa:defensa. por:defesa. tur:defans.  
 defte ← tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:fas:(daftar).  
 deke ← hin:ढकना (dhaknā). deu:decken. eng:deck.  
 deme ← eng:spa:demo-. fra:démo-. rus:демо- (demo-).  
@@ -300,7 +304,7 @@ grosi ← fra:gros. por:grosso. spa:grueso.
 grupe ← deu:Gruppe. fra:groupe. eng:group. spa:por:grupo. rus:группа (gruppa). kor:그룹 (geurup). jpn:グループ (gurūpu). tur:grup. hin:ग्रूप (grūp).  
 gua ← ben:গুহা "guha". tha:คูหา "gūhā". hin:गुफ़ा "gufā". ind:gua.  
 guanxe ← zho:关系 "guānxi". vie:quan hệ. kor:관계 "gwangye". jpn:関係 "kankei".  
-gubu' ← ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.  
+gubuh ← ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.  
 gun ← hin:गुण (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).  
 gur ← hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).  
 gurube ← rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. kat:ღორი (ğori). + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.  
@@ -321,6 +325,7 @@ hande ← hau:hannū. eng:hand. deu:Hand. hin:हाथ (hāth).
 harabi ← ara:fas:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).  
 haram ← ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:хара́мный (xaramniy).  
 harfe ← ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
+harnes ← fra:harnais. eng:harness. spa:arnés. por:arnês.  
 has ← ind: khas.  
 hatar ← ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.  
 hati ← por:até. ara:"ḥatta". spa:hasta. swa:hata.  
@@ -331,13 +336,11 @@ helis ← ell: ἕλιξ (helix). eng:helix. fra:por:spa:hélice. pol:helisa. ar
 helpe ← eng:help. deu:Hilfe.  
 hem ← eng:hmm. rus:хм (hm), эм (em). kor:음 "eum".  
 hen ← zho:"hen". fra:"haine".  
-hero' ← eng:hero. spa:héroe. por:herói. fra:héros. rus:герой (geroy).  
 hewan ← ind:kewan. ara:(haywān). hin:(hEvān).  
 him ← hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).  
 hisabia ← orm:hisaaba. swa:hisabu.  
 hor ← fra:heure. eng:hour. spa:hora.  
 hule ← zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).  
-hulu' ← zho:葫芦 (húlu). mon:хулуу (huluu).  
 huria ← ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.  
 i ← spa:y. por:e. rus:и /i/. pol:i.  
 ##i  
@@ -370,7 +373,6 @@ jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel).
 jen ← hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.  
 jeng ← zho:爭 (zhēng). tur:ceng. fas:(jang). hin:जंग (jang). vie:tranh.  
 jengoxute ← zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.  
-jenju' ← zho:珍珠 (zhēnzhū). kor:진주 (jinju). jpn:真珠 (shinju). tur:inci. uzb:inju. rus:жемчуг (žemčug).  
 jina ← zho:進 (jìn). jpn:進 (shin, jin). kor:진 (jin). vie:tiến.  
 jinse ← ara:urd:(jins). fas:(jens). swa:jinsia. tur:cins(iyet). por:gênero. eng:gender.  
 jiraf ← ind:jerapah. tur:zürafa. eng:fra:giraffe. pol:żyrafa  
@@ -402,12 +404,12 @@ kange ← hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (ka
 kanjar ← fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).  
 kanon ← eng:cannon. spa:cañón. zho:加农 "jiānóng". jpn:"kyanon". kor:캐넌 "kaeneon".  
 kanosuy ← tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.   
-kanu' ← eng:canoe. deu:Kanu. tur:kano. spa:canoa. rus:каноэ (kanoe). jpn:カヌー (kanū).  
+kanuh ← eng:canoe. deu:Kanu. tur:kano. spa:canoa. rus:каноэ (kanoe). jpn:カヌー (kanū). kor:카누 (kanu).  
 kanun ← ara:(qānūn). tur:kanun. swa:kanuni. hin:क़ानून (qānūn). + eng:fra:canon. por:cânone. rus:канон (kanon).  
 kapa ← tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).  
 kar ← eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī). swa:gari.  
 karawe ← ara:(karāwiya). eng:caraway. fra:carvi. spa:alcaravea. por:alcaravia.  
-karbi ← ara:fas:urd:(qarīb). swa:karibu.   
+karbi ← ara:fas:urd:(qarīb). swa:karibu. tur:takribi.   
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
 karte ← deu:Karte. ind:kartu. fra:carte. eng: card. may:kad. zho:卡 (kǎ). jpn: カード (kādo). swa: kadi.  
@@ -433,10 +435,11 @@ kitabe ← ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin
 kiwe ← eng:kiwi.  
 klar ← deu:klar. spa:por:claro. eng:clear. fra:clair.  
 klime ← ell:κλίμα (eklíma). spa:por:clima. ara:(ʾiqlīm). ind:tur:iklim. eng:climate. rus:климат (klimat).  
-koka' ← spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).  
-koke ← fra:coq. eng:cock. scr:kokoš. bul:кокош (kokoš). swa:kuku.  
+koke ← spa:eng:coca. rus:кока (koka). tur:koka. zho:古柯 (gǔké).  
+kokode ← fra:coq. eng:cock. pol:kogut. guj:કૂકડો (kūkḍo). + scr:kokoš. bul:кокош (kokoš). swa:kuku. zul:inkukhu. + (onom.) ita:coccodè. jpn:コッコッ (kokko). fas:(qod-qod-qodās). rus:куд-куда. hin:कुटकुटा (kutkutā).  
 kolum ← eng:column. spa:columna. por:coluna. fra:colonne. rus:колонна (kolonna). pol:kolumna.  
 komande ← eng:command. fra:commandement. rus:команда (komanda). spa:mandato.  
+kome ← eng:comma. deu:Komma. jpn:コンマ (konma). kor:콤마 (komma). ind:koma.  
 kompania ← eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.  
 komputa ← eng:compute.  
 kon ← hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.  
@@ -452,6 +455,7 @@ korti ← spa:corto. rus:короткий "korotkiy". por:curto. fra:court. deu:
 kosmia ← rus:космос (kosmos). eng:fra:spa:cosmos.  
 kote ← eng:coat. swa:koti. orm:koota. jpn:コート (kōto). fas:(kot). hin:कोट (kot).  
 koy ← hin:कोई (koī). urd:(koī). rus:кое- (koye-).  
+kran ← ned:kraan. rus:taj:kaz:кран (kran). pol:aze:kran. ind:keran.  
 krem ← fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).  
 krim ← eng:fra:por:crime. spa:crimen. tgl:krimen.  
 kristojen ← ell:Χριστούγεννα (Christoúgenna).  
@@ -463,7 +467,7 @@ kube ← spa:por:cubo. deu:Kubus. eng:fra:cube. rus:куб (kub). ara:(kaʿba).
 kuga ← zho:哭 (kū). yue:哭 (huk1). vie:khóc.  
 kuka ← eng:cook. deu:Kock. ita:cuoco. ind:koki. tha:กุ๊ก (kuk). sango:kuku.  
 kuker ← eng:cook. rus:кухар "kuhar". pol:kucharz. tha:กุ๊ก "gúk". ind:koki. deu:Koch.  
-kul ← eng:cool.  
+kul ← eng:deu:fra:cool. jpn:クール (kūru). zho:酷 (kù).  
 kupe ← fra:coupe. tur:kupa. ara:"kūb". spa:copa. eng:cup. hin:कप "kap". jpn:kappu, koppu.  
 kupol ← fas:(koppe). ara:(qubba). tur:kubbe. ind:kubah. rus:купол (kupol). spa:cúpula. deu:Kuppel. cze:kupole.  
 kurbe ← fra:courbe spa:por:curva. eng:curve. eus:kurba.  
@@ -498,10 +502,11 @@ lose ← zho:螺丝 (luòsī). yue:螺絲 (lo4 si1).
 lote ← por:lote. eng:fra:lot. spa:loteo.  
 lote ← por:spa:lote. eng:fra:lot.  
 lowa ← zho:漏 "lòu".  
+lul ← amh:ሉል (lul). ara:(luʾluʾa). swa:lulu. orm:lu'ulu'a. hau:lu'ulu'u. ful:luuluuri. fas:(lo'lo').  
 lun ← fra:lune. spa:luna. eng:lunar. rus:луна (luná).  
+luta ← hin:लूटना (lūṭnā). urd:(lūṭnā). ben:লুটা (luṭā). pnb:ਲੁੱਟ (luṭ). eng:loot. + zho:掠夺 (lüèduó). yue:掠 (loek6).  
 ##m  
 maca ← eng:match, sve:matcha. kor:맞다 (matda).  
-made ← ara:(mādda). urd:(māda). tur:madde. fas:(mādde). eng:matter. spa:materia. rus:материя (materiya). yue:物 (mat).  
 makas ← ara:(maqaṣ). tur:makas. swa:mkasi. orm:maqasii. hau:almakashi. yor:àlùmogàjí. scr:makaze.  
 mal rupi ← zho:难看 (nánkàn). hin:बदसूरत (badsūrat).  
 mal ← ind:buruk. hin:बुरा "burā". yor:búburu.  
@@ -512,13 +517,14 @@ mange ← ind:mangga. por:manga. eng:mango.
 manir ← fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). spa:manera. por:maneira. deu:Manieren. scr:manir.  
 manse ← hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.  
 mante ← tur:mantı. rus:манты (manty). kor:만두 (mandu). zho:馒头 (mántóu). fas:urd:(mantu).  
-mar ← hin:बार (bār). urd:fas:(bār). + kor:번 (beon). vie:bận. + ara:(marra). swa:mara. ktu:mbala.  
+mar ← cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.  
 marca ← eng:march. fra:marche. spa:marcha. rus:марш "marš".  
 mari ← eng:married. fra:marié. spa:por:marido.  
 marke ← eng:mark. spa:por:marca. fra:marque. kor:마크 (makeu). jpn:マーク (māku).  
 masal ← hin:मसाला (masālā). urd:(masālā). ben:মসলা (môsla). bur:(masʰala).  
 masle ← ara:(masʾala). hau:matsala. hin:मसला (maslā). ind:masalah.  
 master ← eng:master. rus:мастер (master). spa:maestro. deu:Meister.  
+mate ← eng:matter. spa:por:materia. fra:matière. rus:материя (materiya). deu:Materie. ind:materi. + ara:(mādda). urd:(māda). tur:madde. fas:(mādde). + yue:物 (mat). vie:vật.  
 matike ← deu:Mathe(matik). eng:math(ematics). spa:matemática. rus:(matika).  
 matur ← eng:fra:mature. spa:por:maduro.  
 maw ← zho: 猫 "māo". yue: 貓 "maau". vie: mèo.  
@@ -528,9 +534,9 @@ maxor ← fra: majeur. eng: major. spa: mayor.
 maxoria ← spa: mayoría.  
 maye ← zho:蚂蚁 (mǎyǐ). yue:螞蟻 (maa5 ngai5).  
 mece ← eng:fra:match. hin:मैच (mɛc). pol:mecz. ron:meci. hun:meccs. rus:матч (matč). tur:maç.  
+meh ← kur:mî,mîh. hin:मेष (meṣ). fas:(miš). tha:เมษ (met). + lin:kon:meme. + (onom.) jpn:メーメー (mē mē). por:meh. ara:(maa'). tur:mee.  
 mel ← por:mel. fra:spa:miel. ell:μέλι (méli).  
 mem ← tur:mem. mon:мээм (meem).  
-meme ← lin:kon:meme.  
 mene ← ara:(maʿnā). fas:urd:(ma'ni). hin:मअनी (maani). swa:maana. haw:manao. eng:meaning. deu:Meinung.  
 menter ← scr:मन्त्रिन् (mantrin). hin:मंत्री (mantrī). tha:มนตรี (mon-tri). ind:menteri. eng:deu:fra:por:spa:mentor. jpn:メンター (mentā). kor:멘토 (mento). rus:ментор (mentor).  
 mes ← spa:mez. ben:মাস Mash  
@@ -558,6 +564,7 @@ mote ← ita:moto. eng:motion.
 motokar ← eng:motorcar. sna:motokari. sot:motokara. swa:motokaa. zul:imoto. hau:mota.  
 motosikle ← tur:motosiklet. spa:motocicleta. fra:motocyclette. eng:motorcycle. rus:мотоцикл (mototsikl). zho:摩托车 (mótuōchē).  
 mudan ← zho:牡丹 (mǔdān). kor:모란 (moran). jpn:(botan). vie:mẫu đơn.  
+muh ← (onom.) eng:moo. deu:muh. rus:му (mu). tha:มอ (mo). hin:(mū). jpn:モーモー (mō mō). zho:哞 (mōu). tur:mö.  
 muke ← ben:মুখ (mukh). hin:मुख (mukh). tam:முகம் (mukam). tel:(mukhamu). ind:muka. tgl:mukha.  
 mul ← hin:मूल (mūl). ind:tgl:mula. khm:មូល (mul).  
 mum ← tur:mum. fas:(mum). hin:मोम (mom). ben:মোম (mom).  
@@ -625,9 +632,8 @@ pese ← hin:पैसा (paisā). mar:पैसा (paisā). pnb:ਪੈਸਾ 
 petre ← hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.  
 pexe ← fas:(piše). hin:पेशा (peśā). ben:পেশা (peśa).  
 pey ← eng:pay. fra:paye. + zho:费 (fèi).  
-pifu' ← zho:"pifu".  
-pigu' ← zho:"pigu".  
 pike ← eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.  
+pil ← eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).  
 pimente ← spa:pimienta. tgl:pamenta.  
 pin ← eng:pin. jpn:"pin". kor:"pin".  
 pinser ← eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).  
@@ -729,7 +735,7 @@ sing ← ind:singa. hin:सिंघ (singh). ben:সিংহ (singh). tam:ச�
 sirke ← tur:sirke. fas:(serke). hin:सिरका (sirkā). pnb:ਸਿਰਕਾ (sirkā).  
 site ← eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).  
 socia ← rus:социум (socium). eng:society. spa:sociedad.  
-sofa' ← spa:sofá. eng:sofa. zho:沙发 (shāfā).  
+sofah ← spa:por:sofá. eng:fra:deu:ind:sofa. rus:софа (sofa). zho:沙发 (shāfā). yue:梳化 (so1faa23). wuu:沙发 (sufa). jpn:ソファ (sofa). kor:소파 (sopa). tgl:sopa. tha:โซฟา (soo-faa). hin:सोफ़ा (sofā). ben:সোফা (sopha).  
 soke ← deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). rus:носок (nosok).   
 sol ← spa:por:sol. fra:soleil. + hin:सौर (sOr). tel:(saur).  
 son ← rus:сон (son). por:sono. hin:सोना (sonā).  
@@ -760,6 +766,7 @@ tambur ← swa:sna:kon:ngoma. nya:ng'oma. + zho:鼓 "gǔ".
 tan ← hin:mar:तन (tan). fas:urd:(tan). taj:тан (tan). tha:ตน (ton). vie:thân. yue:親 (can3).  
 tanke ← eng:tank. hin:टंकी (ṭaṅkī). swa:tangi. spa:tanque. jpn:タンク (tanku). tgl:tangke.  
 tanur ← fas:heb:tanur. ara:(tannūr). eng:tandoor, athanor. tur:tandır. hin:तनूर (tanūr). urd:(tanūr). pnb:ਤੰਦੂਰ (tandūr).  
+tape ← spa:tur:tapa. por:tampa. ell:τάπα (tapa). bul:тапа (tapa). eng:tap.  
 tarif ← eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).  
 tarje ← ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.  
 tataw ← sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).  
@@ -775,7 +782,7 @@ tese ← eng:thesis. fra:thèse. spa:tesis.
 teste ← eng:test. rus: тест (test).  
 tezi ← hin:तेज़ (tez). urd:(tez). fas:(tiz). aze:uzb:tez. kaz:тез (tez).  
 tike ← fas:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).  
-tikete ← eng:ticket.  
+tikete ← eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).  
 tin ← hin:तीन (tīn). ben:তিন (tin). urd:(tīn).  
 ting ← zho:停 (tíng). yue:停 (ting4).  
 toca ← eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".  
@@ -798,7 +805,6 @@ tupay ← may:ind:tupai.
 tuze ← zho:兔子 (tùzi). yue:兔仔 (tou3zai2).  
 u ← fra:ou. por:ou.  
 ##u  
-uma ← jpn:uma. zho:"mǎ". kor:"mal".  
 umur ← ara:(umr). ind:umur. swa:umri. hin:urd:(umar).  
 unale ← eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).  
 ura ← rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fas:(hurâ).  
@@ -809,7 +815,6 @@ uza ← eng:use. spa:usar. pol:używać.
 ##w  
 wain ← fra:vin. spa:vino. rus:вино (vino). eng:wine. deu:Wein. hin:वाइन (vāin). jpn:ワイン (wain).  
 wale ← por:vale. eng:valley. fra:vallée. spa:valle.  
-walwe ← eng:valve. spa:por:válvula. jpn:バルブ (barubu). kor:밸브 (baelbeu). tgl:balbula.  
 wanta ← eng:want.  
 waris ← ind:waris. ara:(wariþ). swa:urithi. tur:varis,miras.  
 warke ← ara:(waraqa). hau:warƙa. tur:varak. fas:(varaqe). taj:варақа (varaqa). swa:waraka. + mya:အရွက် (arwak).  
@@ -828,6 +833,7 @@ wida ← rus:видеть (videt). ita:vedere. spa:por:ver. pol:widzieć. cze:vi
 wildi ← deu:eng:ned:wild. sve:vild.  
 wile ← eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).  
 win ← eng:win. deu:gewinnen.  
+wir ← hin:वीर (vīr). urd:(vīr). ben:বীর (bīr). tam:வீரன் (vīraṉ). tel:వీరుడు (vīruḍu). mal:ind:wira. tha:วีร (wi-ra). + fra:por:spa:viril. eng:virile.  
 wirus ← eng:virus. rus:вирус (virus).  
 wirusolojia ← pol:wirusologia. rus:вирусология (virusologiya).  
 wis ← eng:fra:spa:por:vice-. rus:вице- (vitse-). deu:vize-.  
@@ -841,7 +847,7 @@ xake ← ben:শাখা "śakha". hin:शाखा "śākhā". urd:"śāx". fa
 xal ← fra:châle. rus:шаль "šal". por:xaile. eng:shawl. tur:şal.  
 xam ← hin: शाम (śām). fas:(šām). tur:akşam.  
 xaman ← rus:шаман (šaman). eng:shaman.  
-xampu' ← por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.  
+xampe ← por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.  
 xan ← zho: 山 "shān". kor: 산 "san". vie:sơn.  
 xarme ← fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng:shame. rus:срам (sram).  
 xarnir ← fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".  
@@ -874,7 +880,6 @@ yatim ← ara:fas:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
 yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
-yung ← zho:勇 (yǒng). yue:勇 (yung5). kor:용맹 (yonggam). vie:dũng cảm. jpn:勇 (yū).  
 ##z  
 zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).  
 zalim ← ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.  
@@ -884,7 +889,6 @@ zay ← zho:在 (zài). jpn:在 (zai).
 ze ← zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.  
 zem ← slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn). hin:ज़मीन (zamīn).  
 zeze ← tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.  
-ziba ← swa:-ziba.  
 zikur ← ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).  
 zine ← ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).  
 ziran ← ben:জিরা (zīra). hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. fas:(zire). zho:孜然 (zīrán).  

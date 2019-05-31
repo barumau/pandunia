@@ -115,15 +115,16 @@ badi den : tomorrow
 badi : next (following)  
 bagaje : luggage (baggage)  
 bagre : tiger  
-baha'iste : Baha'ist  
-baha'istia : Baha'ism  
+bah : bah  
 bahamia : Bahamas  
+bahayiste : Baha'ist  
+bahayistia : Baha'ism  
 bahrain : Bahrain  
 bal : eight (8)  
 balde : bucket  
 balkon : balcony (porch)  
 balon : balloon  
-ban : board (plank)  
+ban : time (turn, occasion)  
 banan : banana  
 bande : band (squad, group)  
 bandir : flag (banner)  
@@ -133,6 +134,7 @@ banogem : board game
 banye : bath  
 banyokamar : bathroom  
 banyu : bathe  
+banze : board (plank)  
 bar : weight  
 barbados : Barbados  
 barbar : barbarian  
@@ -255,6 +257,7 @@ buking : booking (reservation)
 bula : boil (cook)  
 bulbul : nightingale  
 bulu : boil (be boiled)  
+bum : buttocks (bum, butt, ass)  
 bunduke : gun (handheld firearm)  
 bung : belly (abdomen)  
 burkinia : Burkina Faso  
@@ -262,7 +265,7 @@ bus : bus
 buste : bust (bosom)  
 butan : Bhutan  
 buton : key (push-button, switch)  
-butonopan : keyboard  
+butonobanze : keyboard  
 buy : baobab  
 buze : goat  
 ##c  
@@ -289,7 +292,6 @@ cayowan : tea bowl
 ce : this one  
 cehia : Czech Republic  
 ceka : check (to examine)  
-celo' : cello  
 ceng : layer (level, storey, floor, stratum)  
 centi : centi- (per cent)  
 cerium : cerium  
@@ -318,7 +320,7 @@ cune : spring (springtime)
 cupa : suck  
 cuta : leave (go out, exit)  
 cute : exit (leaving)  
-cuteomun : exit door  
+cutomun : exit door  
 cuza : choose (elect, select)  
 cuze : choice (election, selection)  
 ##d  
@@ -358,6 +360,9 @@ dawistia : Taoism (Daoism)
 day : big (greatly)  
 dayu : grow (get bigger)  
 deci : deci-  
+defa : defend  
+defe : defense (defence)  
+defer : defender  
 defta : register (record, log)  
 defte : register (record, log)  
 deftia : registry  
@@ -420,6 +425,7 @@ duga : read
 duka : grieve  
 duke : grief (sorrow)  
 duki : sad  
+dul ban : twice  
 dul u tin : a couple of  
 dul : two (2)  
 duli : dual (double)  
@@ -474,8 +480,8 @@ estudia : studio
 etiopia : Ethiopia  
 eurasia : Eurasia  
 eureka : find (discover)  
-euro' : euro (€)  
 europe : Europe  
+europese : euro (€)  
 europi unia : European Union (EU)  
 europi : European  
 europium : europium  
@@ -671,7 +677,7 @@ guadelupe : Guadeloupe
 guam : Guam  
 guanxe : relationship (association, connection)  
 guatemala : Guatemala  
-gubu' : hippopotamus  
+gubuh : hippopotamus  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
 gur : guru (teacher)  
@@ -714,6 +720,7 @@ harama : forbid (ban, disallow)
 harfe : letter (character, written symbol)  
 harmoni : harmonius  
 harmonia : harmony  
+harnes : harness  
 has : special (distinct)  
 hasium : hassium  
 hatar : danger (peril)  
@@ -735,8 +742,6 @@ helpe : help (aid, assistance)
 hem : hmm  
 hema : ponder (think)  
 hen : hate  
-hero' : hero  
-hero'i : heroic  
 hewan : animal  
 hibride : hybrid (mongrel)  
 hidre : hydrogen  
@@ -761,7 +766,6 @@ hormon : hormone
 horwatia : Croatia  
 hotel : hotel  
 hule : fox  
-hulu' : gourd (calabash)  
 humus : chickpea  
 humusosos : hummus  
 hura : free (liberate)  
@@ -862,9 +866,8 @@ jeng : fight (war)
 jenger : warrior (fighter)  
 jengi : military  
 jengoxute : martial art  
-jeni klas : caste  
-jenju' : pearl  
 jenoden : birthday  
+jenoklas : caste  
 jentil : kind (nice, gentle)  
 jenu : be born  
 jenxen : ginseng  
@@ -943,7 +946,7 @@ kannadi : Kannada
 kanon : gun (cannon)  
 kanoner : cannoneer  
 kanosuy : tear drop  
-kanu' : canoe  
+kanuh : canoe  
 kanun : law  
 kapa : catch (capture, seize, snatch, intercept)  
 kapitan : captain  
@@ -1030,8 +1033,8 @@ klube : club
 kobalte : cobalt  
 koda : encode  
 kode : code (cipher)  
-koka' : coca  
-koke : chicken  
+koke : coca  
+kokode : chicken  
 kokos da nesia : Cocos (Keeling) Islands  
 kola : cola  
 koler : cholera  
@@ -1042,10 +1045,10 @@ kolonia : colony (settlement)
 koloniste : colonialist  
 kolonistia : colonialism  
 kolum : column (pillar)  
-koma' : comma  
 komal : soft  
 komanda : order (issue a command)  
 komande : order (command)  
+kome : comma  
 komori nesia : Comoros  
 kompania : company (corporation)  
 komputa : compute (to process data)  
@@ -1086,6 +1089,7 @@ koy ren : someone (somebody)
 koy xey : something  
 koy zaman : sometime  
 koy : some  
+kran : valve (tap, faucet)  
 kratia : rule (reign)  
 krem : cream  
 krim : crime  
@@ -1209,9 +1213,13 @@ lote : lot (plot of land)
 lowa sang : bleed  
 lowa : leak  
 luksemburgia : Luxembourg  
+lul : pearl  
 lun : moon  
 lusun : asparagus  
-luta : rob (loot)  
+luta : rob (loot, plunder, pillage, ransack)  
+lutaristi : Lutheran  
+lutaristia : Lutheranism   
+luter : robber (plunderer)  
 lutetium : lutetium  
 luza : lose (fail to win)  
 luzer : loser  
@@ -1219,8 +1227,6 @@ luzer : loser
 maca : match (fit, suit, conform)  
 madagasi : Malagasy  
 madagasia : Madagascar  
-made : matter (substance)  
-madi : material  
 madyar : Hungary  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
@@ -1234,7 +1240,6 @@ magribia : Morocco
 maidan : square (plaza)  
 mais : corn (maize)  
 maitnerium : meitnerium  
-maju' : harness  
 makale : article (writing)  
 makan : butter  
 makas : scissors  
@@ -1271,7 +1276,7 @@ manir : behaviour (manners)
 manira : behave (act)  
 manse : meat (flesh)  
 mante : steamed bun (mantou, manti)  
-mar : time (occasion)  
+mar : horse  
 mara : marry  
 marati : Marathi  
 maraton : marathon  
@@ -1293,6 +1298,8 @@ maske : mask (camouflage)
 masle : issue (affair, concern)  
 masta : master (be an expert at sth)  
 master : master (expert)  
+mate : matter (substance)  
+mati : material  
 matike : mathematics (math)  
 matiker : mathematician  
 matras : mattress  
@@ -1325,13 +1332,13 @@ megam : cloud
 megi : million  
 mego- : mega-  
 megowate : megawat (MW)  
+meh : sheep  
 mel : honey  
 melodi : melodious (melodic)  
 melodia : melody  
 mem : breast (boob, tits)  
 memba : belong (be a member)  
 member : member (component)  
-meme : sheep  
 mena : mean (signify)  
 mene : meaning (signification)  
 mente : advice (counsel)  
@@ -1440,6 +1447,8 @@ motokar : motorcar (automobile)
 motosikle : motorcycle  
 mozambike : Mozambique  
 mudan : peony  
+muh : cow  
+muhomanse : beef  
 muke : face  
 mukofun : face powder  
 mul : beginning  
@@ -1448,8 +1457,6 @@ muli : first (beginning)
 mum : wax  
 mumia : mummy  
 mumonur : candle  
-mumu' : cow  
-mumu'omanse : beef  
 mun : door (gate, portal)  
 mungus : mongoose  
 mur : wall  
@@ -1535,6 +1542,7 @@ nobelium : nobelium
 noce : night  
 node : knot (node; tie)  
 nodewiste : atheist  
+nol ban : never  
 nol ren : nobody (no-one)  
 nol xey : nothing  
 nol : zero (none)  
@@ -1588,6 +1596,7 @@ oman : Oman
 onor : respect (honor, esteem)  
 onori : honorable (respectable)  
 or : ear  
+ora : listen  
 orgazme : orgasm  
 oromi : Oromo (an Ethiopian ethnic group and language)  
 oromia : Oromia  
@@ -1678,18 +1687,17 @@ perde : fart (flatulence)
 peri : fairy  
 permis : permission  
 permisa : allow (permit)  
-peru' : Peru  
+peruwia : Peru  
 pese : money  
 petre : stone  
 pexe : profession (occupation)  
 pey : payment  
 peya : pay  
 pian : piano  
-pifu' : skin  
-pigu' : buttocks (butt)  
 pijin : pidgin (contact language)  
 pike : top (peak, pinnacle, summit, apex, vertex)  
 piknike : picnic  
+pil : skin (peel)  
 piloter : pilot  
 pimente : pepper (Piper nigrum)  
 pin : needle (pin)  
@@ -1719,8 +1727,8 @@ plastike : plastic
 plate : plate  
 platin : platinum  
 platon : Plato  
-platoni : Platonic  
 platoniste : Platonist  
+platonisti : Platonic  
 platonistia : Platonism  
 plisa laya : invite  
 plisa : ask (request, beg; please)  
@@ -2039,7 +2047,7 @@ soci : social
 socia : society (association)  
 sociste : socialist  
 socistia : socialism  
-sofa' : sofa (couch)  
+sofah : sofa (couch)  
 sofi : wise  
 sofia : wisdom  
 soke : sock (stocking)  
@@ -2109,7 +2117,7 @@ tabla : tabulate
 table : table (matrix)  
 tafun : storm (tempest, typhoon, hurricane, cyclone)  
 taibei : Taipei  
-taiga : taiga  
+taige : taiga  
 taiwan : Taiwan (Republic of China)  
 tajikia : Tajikistan  
 takse : tax (fee, fare)  
@@ -2127,7 +2135,9 @@ tanke : tank (reservoir)
 tantalum : tantalum  
 tanur : oven (furnace)  
 tanzania : Tanzania  
-tape : tap (stopper)  
+tapa : plug (stop with a plug)  
+tape : stopper (cap, peg, tap)  
+tapula : unplug (uncork)  
 tarif : fee (fare, tariff, rate)  
 tarja : translate (interpret)  
 tarje : translation (interpretation)  
@@ -2189,7 +2199,6 @@ tiran : tyrant
 tirania : tyranny  
 titan : titanium  
 toca : touch  
-tofu' : tofu  
 togoli : Togolese  
 togolia : Togo  
 tokse : poison (venom)  
@@ -2237,8 +2246,8 @@ u : or
 ukraina : Ukraine  
 ulul : howling  
 ulula : howl  
-uma : horse  
 umur : age  
+un ban : once  
 un : one (1)  
 una : unite  
 unale : each other (one another, mutually)  
@@ -2248,7 +2257,7 @@ unia : union
 ura : cheer (hurrah, hooray)  
 uran : Uranus  
 uranium : uranium  
-urdu' : Urdu  
+urdi : Urdu  
 urdun : Jordan  
 urse : bear  
 urse : bear  
@@ -2269,7 +2278,6 @@ wakila : represent
 waksin : vaccine  
 wale : valley  
 walis i futuna da nesia : Wallis and Futuna Islands  
-walwe : valve (tap, faucet)  
 wan : bowl (earless cup)  
 wang : yellow  
 wanil : vanilla  
@@ -2325,6 +2333,8 @@ wina : win (defeat)
 wing : wing  
 winil : vinyl  
 winsi i grenadin : Saint Vincent and Grenadines  
+wir : hero  
+wiri : brave (bold, heroic)  
 wirus : virus  
 wirusolojia : virology  
 wis prezidente : vice-president  
@@ -2348,7 +2358,7 @@ xam : evening
 xaman : shaman  
 xamoden : afternoon  
 xamonyam : dinner  
-xampu' : shampoo  
+xampe : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
 xarme : shame (disgrace)  
@@ -2418,7 +2428,6 @@ yote : drop (droplet)
 yumor : humor  
 yumori : humorous (comical, funny)  
 yumoriste : humorist  
-yung : brave (courageous)  
 yuterbium : ytterbium  
 yutrium : yttrium  
 ##z  
@@ -2442,8 +2451,6 @@ zem : earth (ground)
 zemia : Earth (Terra)  
 zemodow : peanut (groundnut)  
 zeze : fly (housefly)  
-ziba : plug (stop with a plug)  
-zibula : unplug (uncork)  
 zigzage : zigzag  
 zikur : ziggurat  
 zimbabwe : Zimbabwe  
@@ -2457,5 +2464,5 @@ ziza : sizzle
 zombe : zombie  
 zon : belt (zone)  
 zukam : cold (illness)  
-zulu' : Zulu  
+zuluh : Zulu  
 zumrude : emerald  

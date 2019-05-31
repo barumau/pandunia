@@ -123,7 +123,7 @@ zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.			bal	:	eight (8)	ok (8)	kahd
 spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).			balde	:	bucket	sitelo	sanko (ämpäri)	wiadro								
 			balkon	:	balcony (porch)	balkono	parveke (kuisti)	balkon; ganek	balcón	sacada (varanda)	balcon	阳台	балкон	छज्जा	langkan (beranda)	balkon
 fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.			balon	:	balloon	balono	ilmapallo	balon								
-kor:번 (beon). vie:bận. + hin:बार (bār). urd:fas:(bār). ben:বার (bar).			ban	:	time (occasion)	fojo	kerta	czas; okazja								
+kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).			ban	:	time (turn, occasion)	fojo	kerta (vuoro)	czas; okazja								
 			banan	:	banana	banano	banaani	banan	plátano (banana)	banana	banane	香蕉	банан	केला	pisang	muz
 zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).			bande	:	band (squad, group)		ryhmä (työryhmä, yhtye, bändi)	zespół (drużyna, grupa)	banda	bando	bande	班  (一帮)	банда	जमात		çete
 eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.			bandir	:	flag (banner)	flago	lippu	flaga, sztandar			drapeau	旗	флаг			
@@ -318,7 +318,7 @@ zho:春 (chūn). yue:(ceon1). jpn:春季 (shunki). kor:춘계 (chun-gye). vie:xu
 spa:por:chupar. khm:ជប់ (cup).			cupa	:	suck	suĉi	imeä	ssać								
 			cuta	:	leave (go out, exit)	eliri	poistua	wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać								
 zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).			cute	:	exit (leaving)	eliro	poistuminen	wyjśćie, opuszczenie								
-			cuteomun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe								
+			cutomun	:	exit door	elirejo	uloskäynti	drzwi wyjściowe								
 eng:choose. + hin:चुनना "cunnā". + vie:chọn.			cuza	:	choose (elect, select)	elekti	valita	wybrać, wybierać, selekcjonować								
 zho:的 (de).			cuze	:	choice (election, selection)	elekto	valinta (vaali)	wybór, elekcja, selekcja								
 zho:的 (de).			da	:	own (particle of possession)	propra (partiklo de posedo)	-n (oma)	mieć (partykuła posiadania)								
@@ -857,8 +857,8 @@ zho:爭 (zhēng). tur:ceng. fas:(jang). hin:जंग (jang). vie:tranh.			jeng	
 			jenger	:	warrior (fighter)		soturi (taistelija)	wojownik, bojownik								
 			jengi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny								
 zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.			jengoxute	:	martial art		kamppailulaji	sztuka walki								
-			jeni klas	:	caste		sääty (kasti)									
 			jenoden	:	birthday	naskiĝtago	syntymäpäivä	urodziny								
+			jenoklas	:	caste		sääty (kasti)									
 			jentil	:	kind (nice, gentle)	bonkora	kiltti	uprzejmy, miły								
 			jenu	:	be born	naski	syntyä	urodzić się, rodzić się								
 			jenxen	:	ginseng		ginseng	żeń-szeń								
@@ -944,7 +944,7 @@ eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī)
 			karaoke	:	karaoke		karaoke	karaoke								
 			karate	:	karate	karateo	karate	karate								
 ara:(karāwiya). eng:caraway. fra:carvi. spa:alcaravea. por:alcaravia.			karawe	:	caraway		kumina		carvis (alcaravea)	alcaravia (cariz)						
-ara:fas:urd:(qarīb). swa:karibu. 			karbi	:	near (close)	proksima	läheinen	bliski								
+ara:fas:urd:(qarīb). swa:karibu. tur:takribi. 			karbi	:	near (close)	proksima	läheinen	bliski								
 	made	C	karbon	:	carbon (coal)	karbono	hiili	węgiel								
 	aria		karibia	:	Caribbean	Karibio	Karibia	Karaiby								
 wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.			karite	:	shea		voipuu	masłosz Parka								
@@ -1079,6 +1079,7 @@ hin:कोई (koī). urd:(koī). rus:кое- (koye-).			koy	:	some	iu	jokin (jo
 			koy ren	:	someone (somebody)	iu persono	joku	ktoś								
 			koy xey	:	something	io	jokin	coś								
 			koy zaman	:	sometime	iam	joskus	sometime								
+ned:kraan. rus:taj:kaz:кран (kran). pol:aze:kran. ind:keran.			kran	:	valve (tap, faucet)	krano (valvo)	hana (venttiili, kraana)	kran (zawór)								
 			kratia	:	rule (reign)	regi	valta	rządzić, władać								
 fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).			krem	:	cream	kremo	kerma	krem								
 eng:fra:por:crime. spa:crimen. tgl:krimen.			krim	:	crime	krimo	rikos	przestępstwo								
@@ -1204,15 +1205,16 @@ zho:漏 "lòu".			lowa	:	leak	liki	vuotaa	przeciekać, ciec
 amh:ሉል (lul). ara:(luʾluʾa). swa:lulu. orm:lu'ulu'a. hau:lu'ulu'u. ful:luuluuri. fas:(lo'lo').			lul	:	pearl	perlo	helmi	perła								
 fra:lune. spa:luna. eng:lunar. rus:луна (luná).			lun	:	moon	luno	kuu	księżyc								
 			lusun	:	asparagus		parsa	szparag; szparagia								
-			luta	:	rob (loot)		ryöstää (ryövätä)	obrabować, splądrować								
+hin:लूटना (lūṭnā). urd:(lūṭnā). ben:লুটা (luṭā). pnb:ਲੁੱਟ (luṭ). eng:loot. + zho:掠夺 (lüèduó). yue:掠 (loek6).			luta	:	rob (loot, plunder, pillage, ransack)		ryöstää (ryövätä)	obrabować, splądrować				掠夺 				
+			lutaristi	:	Lutheran		luterilainen		luterano	luterano	luthérien		лютеранский			
+			lutaristia	:	Lutheranism 		luterilaisuus		luteranismo	luteranismo	luthéranisme		лютера́нство 			
+			luter	:	robber (plunderer)		ryöväri (rosvo)									
 	made	Lu	lutetium	:	lutetium	lutecio	lutetium	lutet								
 			luza	:	lose (fail to win)		hävitä (kärsiä tappio)	przegrać, przegrywać								
 			luzer	:	loser		häviäjä	przegrany, pokonany								
 eng:match, sve:matcha. kor:맞다 (matda).			maca	:	match (fit, suit, conform)	kongrui	sopia	pasować								
 			madagasi	:	Malagasy		malagassi	madagaskarski; malagaski								
 	dex	MG	madagasia	:	Madagascar		Madagaskar	Madagaskar								
-ara:(mādda). urd:(māda). tur:madde. fas:(mādde). eng:matter. spa:materia. rus:материя (materiya). yue:物 (mat).			made	:	matter (substance)		aine (materia)	materia, substancja								
-			madi	:	material		aineellinen (materiaalinen)	materialny								
 	dex	HU	madyar	:	Hungary		Unkari	Węgry								
 			mafan	:	trouble (disturbance, bother)		vaiva (haitta)	problem, kłopot, zakłócenie								
 			mafana	:	bother		vaivata	przeszkodzić, przeszkadzać, robić kłopot								
@@ -1284,6 +1286,8 @@ hin:मसाला (masālā). urd:(masālā). ben:মসলা (môsla). bur:(
 ara:(masʾala). hau:matsala. hin:मसला (maslā). ind:masalah.			masle	:	issue (affair, concern)		asia (juttu)	kwestia, problem								
 			masta	:	master (be an expert at sth)		taitaa (olla mestari jskn)									
 eng:master. rus:мастер (master). spa:maestro. deu:Meister.			master	:	master (expert)		mestari (asiantuntija)									
+eng:matter. spa:por:materia. fra:matière. rus:материя (materiya). deu:Materie. ind:materi. + ara:(mādda). urd:(māda). tur:madde. fas:(mādde). + yue:物 (mat). vie:vật.			mate	:	matter (substance)		aine (materia)	materia, substancja								
+			mati	:	material		aineellinen (materiaalinen)	materialny								
 deu:Mathe(matik). eng:math(ematics). spa:matemática. rus:(matika).			matike	:	mathematics (math)	matematiko	matematiikka (matikka)	matematyka								
 			matiker	:	mathematician	matematikisto	matemaatikko	matematyk								
 			matras	:	mattress		patja	materac								
@@ -1578,6 +1582,7 @@ khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (
 eng:pol:spa:honor. fra:honneur. por:honra. ita:onore. tur:onur.			onor	:	respect (honor, esteem)	honoro (respekto)	kunnioitus (arvostus)	respekt, honor, szacunek, poważanie								
 			onori	:	honorable (respectable)	respektinda	kunnianarvoisa	honorowy								
 zho:耳 (ěr). eng:ear. deu:Ohr. fra:oreille. por:orelha. spa:oreja.	badan		or	:	ear	orelo	korva									
+			ora	:	listen		kuunnella									
 			orgazme	:	orgasm		orgasmi	orgazm								
 			oromi	:	Oromo (an Ethiopian ethnic group and language)		oromo (etiopialainen kansa ja kieli)	oromo								
 	dex		oromia	:	Oromia		Oromia	Oromia								
@@ -1707,8 +1712,8 @@ eng:plant. por:spa:planta. fra:plante.			plante	:	plant (vegetation)	planto	kasv
 			plate	:	plate		lautanen	talerz								
 	made	Pt	platin	:	platinum	plateno	platina	platyna								
 			platon	:	Plato		Platon	Platon								
-			platoni	:	Platonic		platoninen	platoniczne								
 			platoniste	:	Platonist		platonisti	platończyk								
+			platonisti	:	Platonic		platoninen	platoniczne								
 			platonistia	:	Platonism		platonismi	platonizm								
 eng:please.			plisa	:	ask (request, beg; please)	peti (bonvolu)	pyytää	prosić				请				
 			plisa laya	:	invite	inviti	pyytää tulemaan	zaprosić, zapraszać								
@@ -2094,7 +2099,7 @@ deu:Tabak. rus:табак (tabak). fra:tabac. spa:por:tabaco. jpn:タバコ (ta
 eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.			table	:	table (matrix)	tabelo	taulukko	tablioca, macierz								
 zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). fas:urd:(tufān). hin:तूफ़ान (tūfān). pnb:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).			tafun	:	storm (tempest, typhoon, hurricane, cyclone)	ŝtormo	myrsky	burza, sztorm, tajfun								
 			taibei	:	Taipei		Taipei	Tajpej								
-			taiga	:	taiga	tajgo	taiga	tajga								
+			taige	:	taiga	tajgo	taiga	tajga								
 	dex	TW	taiwan	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska								
 	dex	TJ	tajikia	:	Tajikistan		Tadžikistan	Tadżykistan								
 eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".			takse	:	tax (fee, fare)		taksa (vero)	podatek, opłata								
@@ -2112,7 +2117,9 @@ eng:tank. hin:टंकी (ṭaṅkī). swa:tangi. spa:tanque. jpn:タンク 
 	made	Ta	tantalum	:	tantalum	tantalo		tantal								
 fas:heb:tanur. ara:(tannūr). eng:tandoor, athanor. tur:tandır. hin:तनूर (tanūr). urd:(tanūr). pnb:ਤੰਦੂਰ (tandūr).			tanur	:	oven (furnace)	forno	uuni									
 	dex	TZ	tanzania	:	Tanzania	Tanzanio	Tansania	Tanzania								
-			tape	:	tap (stopper)		tulppa (tappi, korkki)	kran; korek, zatyczka, szpunt								
+			tapa	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać								
+spa:tur:tapa. por:tampa. ell:τάπα (tapa). bul:тапа (tapa). eng:tap.			tape	:	stopper (cap, peg, tap)		tulppa (tappi, korkki)	korek, zatyczka, szpunt	tapón (tapa)							
+			tapula	:	unplug (uncork)		korkata	odetkać, odtykać								
 eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).			tarif	:	fee (fare, tariff, rate)		taksa (tariffi)	opłata, taryfa								
 			tarja	:	translate (interpret)	traduki	tulkata (kääntää)	przetłumaczyć, tłumaczyć, interpretować								
 ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.			tarje	:	translation (interpretation)	traduko	käännös (tulkinta)	tłumaczenie, interpretacja			traduction	翻译	перевод			
@@ -2161,7 +2168,7 @@ hin:तेज़ (tez). urd:(tez). fas:(tiz). aze:uzb:tez. kaz:тез (tez).			t
 			ti	:	your	via (cia)	sinun	twój								
 			ticin	:	bow instrument (violin, etc.)		jousisoitin	chordofon, instrument strunowy								
 fas:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).			tike	:	tikka (piece)		pala	tikka								
-eng:ticket.			tikete	:	ticket		lippu (piletti)	bilet			billet	票	билет			
+eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).			tikete	:	ticket		lippu (piletti)	bilet		bilhete	billet	票	билет	टिकट	tiket	bilet
 			tim	:	team		joukkue (tiimi)	drużyna			équipe	队	команда			
 hin:तीन (tīn). ben:তিন (tin). urd:(tīn).			tin	:	three (3)	tri (3)	kolme (3)	trzy (3)								
 zho:停 (tíng). yue:停 (ting4).			ting	:	stop	halto	pysähdys	stop; przerwa, zatrzymanie								
@@ -2250,7 +2257,6 @@ fra:vin. spa:vino. rus:вино (vino). eng:wine. deu:Wein. hin:वाइन (v
 			waksin	:	vaccine		rokote	szczepionka								
 por:vale. eng:valley. fra:vallée. spa:valle.			wale	:	valley	valo	laakso		valle	vale						
 	dex	WF	walis i futuna da nesia	:	Wallis and Futuna Islands			Saint Vincent i Grenadyny								
-eng:valve. spa:por:válvula. jpn:バルブ (barubu). kor:밸브 (baelbeu). tgl:balbula.			walwe	:	valve (tap, faucet)	valvo (krano)	hana	zawór; kran								
 			wan	:	bowl (earless cup)		kulho	misa, kubek bez ucha								
 			wang	:	yellow		keltainen	żółty								
 			wanil	:	vanilla		vanilja	wanilia								
@@ -2421,8 +2427,6 @@ slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn). hin:�
 			zemia	:	Earth (Terra)		Maapallo	Ziemia								
 			zemodow	:	peanut (groundnut)		maapähkinä	orzech ziemny								
 tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.			zeze	:	fly (housefly)	muŝo	kärpänen		mosco		mouche		муха			
-swa:-ziba.			ziba	:	plug (stop with a plug)		korkittaa (tukkia)	zatkać, ztykać								
-			zibula	:	unplug (uncork)		korkata	odetkać, odtykać								
 			zigzage	:	zigzag		siksakki	zygzag								
 ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).			zikur	:	ziggurat		zikkurat	ziggurat								
 	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe					Зимбабве			

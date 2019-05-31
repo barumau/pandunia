@@ -109,6 +109,8 @@ lapin, lièvre : tuze
 livre : buke  
 loup : wolfe  
 lourd : bari  
+luthéranisme : lutaristia  
+luthérien : lutaristi  
 ##m  
 machine à écrire : kitabomaxin  
 mais (bien que) : a  
@@ -175,7 +177,7 @@ zombi : zombe
 Zoroastre : zardux  
 zoroastrien : zarduxiste  
 zoroastrisme : zarduxistia  
-zoulou : zulu'  
+zoulou : zuluh  
 écrire : kitaba  
 écriture : kitabe  
 émeraude : zumrude  

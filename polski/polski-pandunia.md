@@ -81,8 +81,8 @@ badać, studiować : loja
 bagaż : bagaje  
 bagietka : batonopang  
 bagno : blotostan  
-bahaista : baha'iste  
-bahaizm : baha'istia  
+bahaista : bahayiste  
+bahaizm : bahayistia  
 Bahamy : bahamia  
 Bahrajn : bahrain  
 bakłażan, oberżyna : bedinjan  
@@ -140,8 +140,8 @@ bliski : karbi
 blog : bloge  
 blokować, hamować : barya  
 bogaty : rici  
-bohater, heros : hero'  
-bohaterski, heroiczny : hero'i  
+bohater, heros : wir  
+bohaterski, heroiczny, odważny, brawurowy : wiri  
 bohr : borium  
 bojkot : boikote  
 bolesny : paxi  
@@ -249,7 +249,7 @@ czajnik : ketel
 Czarnogóra : cernagoria  
 czarny : kal  
 czas, moment : zaman  
-czas; okazja : mar  
+czas; okazja : ban  
 czasownik : fatolekse  
 czaszka : saroste  
 czcić, szanować : puja  
@@ -292,7 +292,7 @@ Demokratyczna Republika Konga : kinsasi kongolia
 demokratyczny : demokrati  
 demon : demon  
 dentysta : dantomediker  
-deska : ban  
+deska : banze  
 detal, szczegół : detal  
 dharma, pobożność : darme  
 diabelski, szatański : xatani  
@@ -327,7 +327,7 @@ droga, szosa, ulica : daw
 drożdże : hamir  
 drużyna : tim  
 drzewo : arbe  
-drzwi wyjściowe : cuteomun  
+drzwi wyjściowe : cutomun  
 drzwi, brama, portal : mun  
 dualizm : dulistia  
 dubn : dubnium  
@@ -400,7 +400,7 @@ Estonia : estia
 etap, faza : faze  
 Etiopia : etiopia  
 Eurazja : eurasia  
-euro (€) : euro'  
+euro (€) : europese  
 europ : europium  
 Europa : europe  
 europejski : europi  
@@ -547,7 +547,7 @@ hełm : helme
 Himalaje : himalia  
 hinduistyczny : hindiste  
 hinduizm : hindistia  
-hipopotam : gubu'  
+hipopotam : gubuh  
 historia, badanie historii : historia  
 historia; annały, roczniki : histor  
 historyk : historer  
@@ -672,7 +672,7 @@ Kanada : kanadia
 kanał : kanal  
 kangur : kangur  
 kannada : kannadi  
-kanoe : kanu'  
+kanoe : kanuh  
 kanonier : kanoner  
 kapelusz, czapka : tope  
 kaper (korsarz) : botokaper  
@@ -710,7 +710,7 @@ klasa, kategoria : klas
 klasyfikować, kategoryzować : klasa  
 klatka : kafas  
 klatka piersiowa : sinokase  
-klawiatura : butonopan  
+klawiatura : butonobanze  
 klawisz, przycisk, przełącznik : buton  
 klej : glute  
 klon, replika : klon  
@@ -727,7 +727,7 @@ kochać romantycznie : romansa
 kochać się, uprawiać seks : seksa  
 kod, szyfr : kode  
 kodować : koda  
-koka : koka'  
+koka : koke  
 kokos : yeze  
 kola, napój gazowany : kola  
 kolacja : xamonyam  
@@ -767,6 +767,7 @@ kopiować, replikować : kopa
 kopuła : kupol  
 Koran : kuran  
 Korea Południowa : hangogia  
+korek, zatyczka, szpunt : tape  
 korona : koron  
 korzeń : gen  
 kosmiczny : kosmi  
@@ -781,20 +782,20 @@ kowal : metalojanger
 koza : buze  
 koło : cakre  
 koło, okrąg : cirke  
-koń : uma  
+koń : mar  
 kościół : eglis  
 kość : oste  
 kość do gry : dade  
 kradzież : cor  
 kraj, ziemia : dex  
-kran; korek, zatyczka, szpunt : tape  
+kran (zawór) : kran  
 kredens (szafa, szafka) : almar  
 krem : krem  
 kret : krote  
 krew : sang  
 kropka (znak interpunkcyjny) : punte  
 kropla : yote  
-krowa : mumu'  
+krowa : muh  
 krwawić : lowa sang  
 kryminalny, przestępczy : krimi  
 krypton : kriton  
@@ -828,7 +829,7 @@ kukurydza : mais
 kultura : kultur  
 kumin, kmin : ziran  
 kupon : kupon  
-kura, kogut, kurczak : koke  
+kura, kogut, kurczak : kokode  
 kurtka : jake  
 kusić, nakłonić, nakłaniać : tenta  
 Kuwejt : kuwaitia  
@@ -946,8 +947,8 @@ masłosz Parka : karite
 matematyk : matiker  
 matematyka : matike  
 materac : matras  
-materia, substancja : made  
-materialny : madi  
+materia, substancja : mate  
+materialny : mati  
 matka, mama : mame  
 Mauretania : muritania  
 Mauritius : moris  
@@ -1189,14 +1190,13 @@ odbić, odbijać : mira
 odbyt : anus  
 odcisk, ślad; stempel, pieczęć : cape  
 oddech : nafas  
-odetkać, odtykać : zibula  
+odetkać, odtykać : tapula  
 odkurzacz : funocuper  
 odmówić (odrzucić) : nega  
 odnowić, odnawiać, uczynić nowym : nowa  
 odpowiedzieć, odpowiadać : jawaba  
 odpowiedź, odzew : jawabe  
 odsłonić, odsłaniać : dekula  
-odważny, brawurowy : yung  
 odwiedzić, odwiedzać : wizita  
 oficer policji, policjant : poliser  
 oficjalny : ofisi  
@@ -1245,7 +1245,7 @@ otwarty, niezamknięty : kay
 otworzyć się, otwierać się : kayu  
 otworzyć, otwierać : kaya  
 owad : koncung  
-owca : meme  
+owca : meh  
 owoc : pal  
 owoc kiwi : kiwe  
 ołtarz : altar  
@@ -1302,8 +1302,8 @@ Pekin : beijing
 pendżabski : panjabi  
 penis : penis  
 Pers; perski, farsi : farsi  
-Peru : peru'  
-perła : jenju'  
+Peru : peruwia  
+perła : lul  
 pewny : yakin  
 pełny : ful  
 pianino : pian  
@@ -1359,7 +1359,7 @@ planeta : planete
 planować : plana  
 plastik : plastike  
 Platon : platon  
-platoniczne : platoni  
+platoniczne : platonisti  
 platonizm : platonistia  
 platończyk : platoniste  
 platyna : platin  
@@ -1471,7 +1471,7 @@ połknąć (połykać) : glota
 południe : sude  
 Południowa Afryka : sudafrike  
 połączenie, złącze, styk : samun  
-pośladki, pupa, tyłek, zadek : pigu'  
+pośladki, pupa, tyłek, zadek : bum  
 pożądanie, żadza : kam  
 praca, zjęcie, zadanie : werke  
 pracować : werka  
@@ -1514,7 +1514,7 @@ prysznic : dux
 przebudzony, przytomny : weki  
 przechowawca, kustosz, opiekun : hafizer  
 przeciekać, ciec : lowa  
-przecinek : koma'  
+przecinek : kome  
 przeciwnik (antagonista) : anter  
 przeciwstawny (naprzeciw, naprzeciwko, anty-) : anti  
 przedpołudnie : suboden  
@@ -1754,7 +1754,7 @@ skupienie, koncentracja : fokus
 skupić, się, skoncentrować się : fokusa  
 skwer, plac : maidan  
 skwierczeć : ziza  
-skóra : pifu'  
+skóra : pil  
 smacznego : salam nyam  
 smak : guste  
 smakować jak : gustu ka  
@@ -1764,7 +1764,7 @@ sobota : war 6 (war sis)
 socjalista : sociste  
 socjalizm : socistia  
 socjalizować się : soca  
-sofa, kanapa : sofa'  
+sofa, kanapa : sofah  
 sok : jus  
 Somalia : somalia  
 sometime : koy zaman  
@@ -1846,7 +1846,7 @@ szal, szalik : xal
 szaleństwo : folia  
 szalony : foli  
 szaman : xaman  
-szampon : xampu'  
+szampon : xampe  
 szansa : canse  
 szariat : islamisti xaria  
 szczepionka : waksin  
@@ -1895,7 +1895,7 @@ słońce : sol
 ##t  
 tablioca, macierz : table  
 Tadżykistan : tajikia  
-tajga : taiga  
+tajga : taige  
 Tajpej : taibei  
 Tajwan, Republika Chińska : taiwan  
 tak; być : si  
@@ -1948,7 +1948,6 @@ tikka : tike
 tikka masala : masali tike  
 tlen : okse  
 toczyć, turlać : rula  
-tofu : tofu'  
 togijski : togoli  
 Togo : togolia  
 toksyczny (trujący) : toksi  
@@ -1992,7 +1991,6 @@ twórca, kreator, czynnik : fater
 ty, ciebie : te  
 tydzień : seman  
 tygrys : bagre  
-tykwa : hulu'  
 tylko : mon  
 tyran : tiran  
 tyrania : tirania  
@@ -2031,7 +2029,7 @@ uprzejmy, miły : jentil
 upuścić, upuszczać : pada  
 Uran : uran  
 uran : uranium  
-urdu : urdu'  
+urdu : urdi  
 uroczy, słodki : kaway  
 urodziny : jenoden  
 urodzić się, rodzić się : jenu  
@@ -2118,7 +2116,6 @@ winny : doxi
 wino : wain  
 winogrono : putaw  
 winyl : winil  
-wiolonczela : celo'  
 wiosna : cune  
 wirus : wirus  
 wirusologia : wirusolojia  
@@ -2142,7 +2139,7 @@ wolny, niepodległy, niezależny : huri
 wolt (V) : wolte  
 wosk : mum  
 wow!, łoł!, jej! : waw  
-wołowina : mumu'omanse  
+wołowina : muhomanse  
 wrzesień : mes 6 (mes sis)  
 wrócić, wracać, wycofać się, wycofywać się : retra  
 wróżka, skrzydlaty duszek : peri  
@@ -2238,7 +2235,7 @@ zapakować, pakować : paka
 zapisać (zarejestrować) : defta  
 zapomnieć, zapominać : bula  
 zaprosić, zapraszać : plisa laya  
-zaprzęc, zaprzęgać : maju'  
+zaprzęc, zaprzęgać : harnes  
 zapytać, pytać : ki zaman  
 zapytać, spytać, pytać : eska  
 zapłacić, opłacić, płacić : peya  
@@ -2252,12 +2249,11 @@ zastosowanie, aplikacja : aplike
 zastosować, stosować : aplika  
 zastrzyk : juxe  
 zasłona, kurtyna : parde  
-zatkać, ztykać : ziba  
+zatkać, ztykać : tapa  
 zatrzymać : tinga  
 zatrzymać się : tingu  
 zawias, oś : xarnir  
 zawsze : mey zaman  
-zawór; kran : walwe  
 zazdrosny : jelos  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad : marka  
 zbiornik (pojemnik, rezerwuar) : tanke  
@@ -2303,7 +2299,7 @@ zostać, zostawać : restu
 zrobić (stworzyć, wykreować) : fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać : sana  
 zsumować, sumować, dodać, dodawać : suma  
-zulu : zulu'  
+zulu : zuluh  
 zupa : supe  
 zwinny, sprawny : ajil  
 związać, wiązać; zapiąć, zapinać : benda  

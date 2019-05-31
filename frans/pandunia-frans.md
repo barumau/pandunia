@@ -123,6 +123,8 @@ koron : couronne
 kosmi : cosmique  
 kosmia : cosmos  
 ##l  
+lutaristi : luthérien  
+lutaristia : luthéranisme  
 ##m  
 malke : propriété (possession, bien)  
 malker : possédant (propriétaire)  
@@ -182,5 +184,5 @@ zarduxiste : zoroastrien
 zarduxistia : zoroastrisme  
 zeze : mouche  
 zombe : zombi  
-zulu' : zoulou  
+zuluh : zoulou  
 zumrude : émeraude  

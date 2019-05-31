@@ -47,6 +47,7 @@ bandir : флаг
 banye : купание  
 banyokamar : ванная  
 banyu : купаться  
+banze : доска   
 bari : тяжёлый  
 baskobol : баскетбол  
 bax : язык  
@@ -82,6 +83,8 @@ koron : корона
 kosmi : космический  
 kosmia : космос  
 ##l  
+lutaristi : лютеранский  
+lutaristia : лютера́нство   
 ##m  
 manihayistia : манихейство  
 moluske : моллюск  
@@ -146,5 +149,5 @@ zimbabwe : Зимбабве
 zinke : цинк  
 ziran : тмин  
 zon : пояс (зона)  
-zulu' : зулус  
+zuluh : зулус  
 zumrude : изумруд  

@@ -144,9 +144,10 @@ bad (ruined, destroyed) : harabi
 bad : mal  
 bag (sack) : sake  
 baguette : batonopang  
+bah : bah  
 bah! (yuck!) : fuy  
-Baha'ism : baha'istia  
-Baha'ist : baha'iste  
+Baha'ism : bahayistia  
+Baha'ist : bahayiste  
 Bahamas : bahamia  
 Bahrain : bahrain  
 bake : beka  
@@ -197,7 +198,7 @@ become open : kayu
 bed : bede  
 bedouin (nomadic) : badawi  
 bedroom : sonokamar  
-beef : mumu'omanse  
+beef : muhomanse  
 beer : bir  
 begin (commence, start) : mula  
 beginning : mul  
@@ -241,7 +242,7 @@ blood : sang
 blossom (bloom) : pula  
 blow : fonga  
 blue : nil  
-board (plank) : ban  
+board (plank) : banze  
 board game : banogem  
 boat (ship) : bote  
 bodily (corporal) : badani  
@@ -270,7 +271,7 @@ boy : jowan man
 boycott : boikote  
 brain : serebre  
 branch (bough) : xake  
-brave (courageous) : yung  
+brave (bold, heroic) : wiri  
 Brazil : brazilia  
 bread : pang  
 breakfast : subonyam  
@@ -304,7 +305,7 @@ busy (occupied) : bizi
 but (whereas) : a  
 butter : makan  
 butterfly : pelpel  
-buttocks (butt) : pigu'  
+buttocks (bum, butt, ass) : bum  
 button : boton  
 buy (purchase) : baya  
 buyer : bayer  
@@ -335,7 +336,7 @@ candle : mumonur
 candy (sweets) : kande  
 cangaroo : kangur  
 cannoneer : kanoner  
-canoe : kanu'  
+canoe : kanuh  
 captain : kapitan  
 car (cart, carriage, wagon, automobile) : kar  
 car park (parking lot) : karoparke  
@@ -352,7 +353,7 @@ carry (bear) : porta
 cash box : kax  
 cashier : kaxer  
 cassava (manioc) : manioke  
-caste : jeni klas  
+caste : jenoklas  
 castle : kastel  
 cat : maw  
 Catalonia : katalunia  
@@ -363,7 +364,6 @@ Cayman Islands : keiman da nesia
 celebrate (party) : festa  
 celestial (heavenly) : samani  
 cell (biology) : sel  
-cello : celo'  
 cement : semente  
 center (concentrate) : junga  
 centi- (per cent) : centi  
@@ -390,7 +390,7 @@ chemistry : kimia
 cherub : kerube  
 chest (breast) : sine  
 chestnut : kastan  
-chicken : koke  
+chicken : kokode  
 chickpea : humus  
 chief (boss) : xef  
 child (offspring) : bace  
@@ -429,7 +429,7 @@ cloud : megam
 club : klube  
 coat : kote  
 cobalt : kobalte  
-coca : koka'  
+coca : koke  
 coco : yeze  
 cocoa : kakaw  
 Cocos (Keeling) Islands : kokos da nesia  
@@ -455,7 +455,7 @@ column (pillar) : kolum
 comb : kange  
 come : laya  
 comic (cartoon) : kartun  
-comma : koma'  
+comma : kome  
 common (shared) : komun  
 common (universal) : putong  
 communicate (message) : mesaja  
@@ -512,7 +512,7 @@ countryside : rustia
 coupon : kupon  
 cover (conceal) : deka  
 cover (lid, cap, deck) : deke  
-cow : mumu'  
+cow : muh  
 crafty (dexterous) : jangi  
 cream : krem  
 crime : krim  
@@ -565,6 +565,9 @@ deed : fate
 deed : fe  
 deem (think that) : raya  
 defecate (shit) : kaka  
+defend : defa  
+defender : defer  
+defense (defence) : defe  
 delicious (yummy) : nyami  
 democracy : demokratia  
 democrati : demokratiste  
@@ -691,7 +694,7 @@ estimate (approximate) : yaga
 Estonia : estia  
 Ethiopia : etiopia  
 Eurasia : eurasia  
-euro (€) : euro'  
+euro (€) : europese  
 Europe : europe  
 European : europi  
 European Union (EU) : europi unia  
@@ -712,7 +715,7 @@ exclude (except, save) : cula
 excrement (shit) : kake  
 exist (be present) : zayu  
 exit (leaving) : cute  
-exit door : cuteomun  
+exit door : cutomun  
 eye (look, watch) : kana  
 eye : kan  
 ##f  
@@ -878,7 +881,6 @@ good luck : bon zar
 Good morning : salam sube  
 good-looking : bon rupi  
 gospel (divine message) : anjil  
-gourd (calabash) : hulu'  
 grain (seed) : dan  
 gram : gram  
 grape : putaw  
@@ -933,7 +935,7 @@ happy (delighted) : suki
 harmful (damaging) : damaji  
 harmonius : harmoni  
 harmony : harmonia  
-harness : maju'  
+harness : harnes  
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
@@ -958,8 +960,7 @@ help (assist) : helpa
 hemp (cannabis) : ganje  
 here (there) : sa ce  
 heritage (legacy, bequest) : waris  
-hero : hero'  
-heroic : hero'i  
+hero : wir  
 heterosexual : alojinsokami  
 hexagon : sisokon  
 hexahedron (cube) : sisofas  
@@ -968,7 +969,7 @@ Himalayas : himalia
 Hindu : hindiste  
 Hinduism : hindistia  
 hinge (pivot) : xarnir  
-hippopotamus : gubu'  
+hippopotamus : gubuh  
 historian : historer  
 history (annals) : histor  
 history (study of history) : historia  
@@ -989,7 +990,7 @@ honorable (respectable) : onori
 hope (wish) : inxala  
 hormone : hormon  
 horn : korne  
-horse : uma  
+horse : mar  
 hotel : hotel  
 hour : hor  
 how? : ki yang  
@@ -1116,7 +1117,7 @@ ketchup : kecape
 kettle : ketel  
 key (push-button, switch) : buton  
 key : cabe  
-keyboard : butonopan  
+keyboard : butonobanze  
 kill : morta  
 killer : morter  
 kilogram (kg) : kilogram  
@@ -1200,6 +1201,7 @@ linguistics : baxolojia
 lion : sing  
 lip : labe  
 list (listing, catalogue) : liste  
+listen : ora  
 liter (litre) : litre  
 lithium : litium  
 little (few, not many) : xaw  
@@ -1225,6 +1227,8 @@ luggage (baggage) : bagaje
 lunch : denonyam  
 lung : pulmon  
 lutetium : lutetium  
+Lutheran : lutaristi  
+Lutheranism  : lutaristia  
 Luxembourg : luksemburgia  
 lychee (litchi) : lice  
 lymph : limfe  
@@ -1288,11 +1292,11 @@ master (be an expert at sth) : masta
 master (expert) : master  
 match (contest) : mece  
 match (fit, suit, conform) : maca  
-material : madi  
+material : mati  
 mathematician : matiker  
 mathematics (math) : matike  
 matter (be important) : importu  
-matter (substance) : made  
+matter (substance) : mate  
 mattress : matras  
 mature (ripe, adult) : matur  
 Mauritania : muritania  
@@ -1437,6 +1441,7 @@ neptunium : neptunium
 net : nete  
 Netherlands : nederlandia  
 Netherlands Antilles : nederlandi antilia  
+never : nol ban  
 new (recent) : nowi  
 New Caledonia : nowi kaledonia  
 New Zealand : nowi zilandia  
@@ -1502,6 +1507,7 @@ okay (acceptable) : okey
 old (ancient) : puran  
 olive : zaitun  
 Oman : oman  
+once : un ban  
 one (1) : un  
 onion : pyaze  
 only (alone, solely, just) : mon  
@@ -1591,7 +1597,7 @@ pay : peya
 payment : pey  
 peanut (groundnut) : zemodow  
 pear : per  
-pearl : jenju'  
+pearl : lul  
 pen : kalam  
 penguin : pinguin  
 penis (phallus) : penis  
@@ -1606,7 +1612,7 @@ permission : permis
 Persian (Farsi) : farsi  
 person (people) : ren  
 personal (intimate, private) : tani  
-Peru : peru'  
+Peru : peruwia  
 Philippines : filipinia  
 philosopher : filosofer  
 philosophic : filosofi  
@@ -1658,7 +1664,7 @@ plastic : plastike
 plate : plate  
 platinum : platin  
 Plato : platon  
-Platonic : platoni  
+Platonic : platonisti  
 Platonism : platonistia  
 Platonist : platoniste  
 platypus : batokrote  
@@ -1667,7 +1673,7 @@ play music : musika
 player (gamer) : gemer  
 please (delight, make happy) : suka  
 pliers (pincers) : pinser  
-plug (stop with a plug) : ziba  
+plug (stop with a plug) : tapa  
 Pluto (dwarf planet) : pluto  
 plutonium : plutonium  
 pocket : jebe  
@@ -1847,7 +1853,8 @@ risky : riski
 ritual (ceremony) : rite  
 river : nade  
 roast : rosta  
-rob (loot) : luta  
+rob (loot, plunder, pillage, ransack) : luta  
+robber (plunderer) : luter  
 robot : robote  
 rocket : rokete  
 roentgenium : rengenium  
@@ -1953,12 +1960,12 @@ Seychelles : sexel da nesia
 shadow : saye  
 shaman : xaman  
 shame (disgrace) : xarme  
-shampoo : xampu'  
+shampoo : xampe  
 shape (sculpt) : forma  
 shari'a : islamisti xaria  
 shatter (break into pieces) : parca  
 shea : karite  
-sheep : meme  
+sheep : meh  
 Shintoism : xindawistia  
 shirt : kamis  
 shock (collision) : xoke  
@@ -1988,7 +1995,7 @@ six (6) : sis
 sizzle : ziza  
 skill (art, competence) : xute  
 skillful : xuti  
-skin : pifu'  
+skin (peel) : pil  
 skirt : jupe  
 skull : saroste  
 sky (heaven) : saman  
@@ -2011,7 +2018,7 @@ socialize (interact) : soca
 society (association) : socia  
 sock (stocking) : soke  
 sodium : natre  
-sofa (couch) : sofa'  
+sofa (couch) : sofah  
 soft : komal  
 soil (dirt) : darte  
 solar system : solosistem  
@@ -2076,6 +2083,7 @@ stop (halt) : tinga
 stop (halt) : tingu  
 stop : ting  
 stop watch : sekundometer  
+stopper (cap, peg, tap) : tape  
 storm (tempest, typhoon, hurricane, cyclone) : tafun  
 straight : jiki  
 straighten : jika  
@@ -2137,7 +2145,7 @@ table : meze
 table of contents : tenoliste  
 tabulate : tabla  
 tactics (strategy) : tatike  
-taiga : taiga  
+taiga : taige  
 tail : dum  
 Taipei : taibei  
 Taiwan (Republic of China) : taiwan  
@@ -2152,7 +2160,6 @@ tantalum : tantalum
 Tanzania : tanzania  
 Taoism (Daoism) : dawistia  
 Taoist : dawiste  
-tap (stopper) : tape  
 tape : tepe  
 taste (flavor) : guste  
 taste (sense flavor) : gusta  
@@ -2222,7 +2229,7 @@ tiger : bagre
 tikka (piece) : tike  
 tikka masala : masali tike  
 time (moment) : zaman  
-time (occasion) : mar  
+time (turn, occasion) : ban  
 tiny (mini-) : mini  
 titanium : titan  
 to (toward, till, until, for) : pa  
@@ -2230,7 +2237,6 @@ to be centered (amid, in the middle) : jungu
 toast (toasted bread) : rosti pang  
 tobacco : tabake  
 today : zay den  
-tofu : tofu'  
 Togo : togolia  
 Togolese : togoli  
 toilet (WC) : tuale  
@@ -2285,6 +2291,7 @@ Turkish : turki
 Turkmenistan : turkmenia  
 turtle (tortoise) : tortuge  
 Tuvalu : tuwal  
+twice : dul ban  
 two (2) : dul  
 typewriter : kitabomaxin  
 tyranny : tirania  
@@ -2303,11 +2310,11 @@ unite : una
 united : uni  
 United Kingdom : britania  
 United States of America : usamerike  
-unplug (uncork) : zibula  
+unplug (uncork) : tapula  
 upper : supri  
 uranium : uranium  
 Uranus : uran  
-Urdu : urdu'  
+Urdu : urdi  
 Uruguay : uruguay  
 use (employ, apply) : uza  
 use (utility, benefit, gain, advantage) : faide  
@@ -2319,7 +2326,7 @@ vaccine : waksin
 vacuum cleaner : funocuper  
 vagina : yone  
 valley : wale  
-valve (tap, faucet) : walwe  
+valve (tap, faucet) : kran  
 vanilla : wanil  
 Vanuatu : wanuatu  
 vase (flower pot) : pulowaze  
@@ -2458,4 +2465,4 @@ zombie : zombe
 Zoroaster : zardux  
 Zoroastrian : zarduxiste  
 Zoroastrianism : zarduxistia  
-Zulu : zulu'  
+Zulu : zuluh  

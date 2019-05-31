@@ -99,12 +99,13 @@ badi den : morgaŭ
 badi : sekva  
 bagaje : pakaĵo  
 bagre : tigro  
-baha'iste : bahaisto  
-baha'istia : bahaismo  
+bahayiste : bahaisto  
+bahayistia : bahaismo  
 bal : ok (8)  
 balde : sitelo  
 balkon : balkono  
 balon : balono  
+ban : fojo  
 banan : banano  
 bandir : flago  
 banglia : Bangladeŝo  
@@ -206,11 +207,12 @@ buking : rezervo
 bula : boligi  
 bulbul : najtingalo  
 bulu : boli  
+bum : kulo  
 bunduke : fusilo  
 bung : ventro  
 bus : buso  
 buton : klavo  
-butonopan : klavaro  
+butonobanze : klavaro  
 buy : baobabo  
 buze : kapro  
 ##c  
@@ -230,7 +232,6 @@ cate : tekto
 cay : teo  
 ce : ĉi tio  
 ceka : kontroli  
-celo' : violonĉelo  
 centi : centono  
 cerium : cerio  
 cesium : cezio  
@@ -254,7 +255,7 @@ cune : printempo
 cupa : suĉi  
 cuta : eliri  
 cute : eliro  
-cuteomun : elirejo  
+cutomun : elirejo  
 cuza : elekti  
 cuze : elekto  
 ##d  
@@ -370,8 +371,8 @@ estrontium : stroncio
 etiopia : Etiopio  
 eurasia : Eŭrazio  
 eureka : trovi  
-euro' : eŭro  
 europe : Eŭropo  
+europese : eŭro  
 europi unia : Eŭropa Unio (EU)  
 europi : Eŭropa  
 europium : eŭropio  
@@ -519,7 +520,7 @@ grupe : grupo
 gua : kaverno  
 guanxe : rilato  
 guatemala : Gvatemalo  
-gubu' : hipopotamo  
+gubuh : hipopotamo  
 gun : eco  
 gur : guruo (instruisto)  
 gurube : porko  
@@ -570,8 +571,6 @@ helpe : helpo
 hem : hm  
 hema : pripensi  
 hen : malamo  
-hero' : heroo  
-hero'i : heroa  
 hewan : besto  
 hibride : miksulo  
 hidre : hidrogeno  
@@ -651,7 +650,6 @@ jen : nasko
 jena : naskigi  
 jeng : milito (batalo)  
 jengi : milita  
-jenju' : perlo  
 jenoden : naskiĝtago  
 jentil : bonkora  
 jenu : naski  
@@ -699,7 +697,7 @@ kangur : kangaro
 kanjar : ponardo  
 kanon : kanono  
 kanoner : kanonisto  
-kanu' : kanuo (kanoto)  
+kanuh : kanuo (kanoto)  
 kanun : lego  
 kapa : kapti  
 kar : aŭto (ĉaro)  
@@ -745,7 +743,7 @@ klor : kloro
 klube : klubo  
 kobalte : kobalto  
 kode : kodo  
-koke : koko  
+kokode : koko  
 kolum : kolono  
 komal : mola  
 komanda : ordoni  
@@ -770,6 +768,7 @@ koy ren : iu persono
 koy xey : io  
 koy zaman : iam  
 koy : iu  
+kran : krano (valvo)  
 kratia : regi  
 krem : kremo  
 krim : krimo  
@@ -821,6 +820,7 @@ lole : ili
 long : longa  
 lowa sang : sangi  
 lowa : liki  
+lul : perlo  
 lun : luno  
 lutetium : lutecio  
 ##m  
@@ -838,7 +838,7 @@ mame : patrino
 man : viro  
 mangan : mangano  
 manse : viando  
-mar : fojo  
+mar : ĉevalo  
 mara : edzigi  
 maraton : maratono  
 marca : promeni (marŝi)  
@@ -865,10 +865,10 @@ medika : sanigi (kuraci)
 mediker : kuracisto  
 megi : miliono  
 mego- : mega-  
+meh : ŝafo  
 mel : mielo  
 melodia : melodio  
 member : membro  
-meme : ŝafo  
 mene : signifo  
 mes : monato  
 mesaje : mesaĝo  
@@ -923,12 +923,12 @@ mosim : sezono
 moskowium : moskovio  
 mote : movo  
 moter : motoro  
+muh : bovo  
+muhomanse : bovaĵo  
 muke : vizaĝo  
 mul : komenco  
 mumia : mumio  
 mumonur : kandelo  
-mumu' : bovo  
-mumu'omanse : bovaĵo  
 mun : pordo  
 musa : devigi  
 muse : devo  
@@ -1036,8 +1036,8 @@ pese : mono
 petre : ŝtono  
 pexe : metiero  
 pian : piano  
-pifu' : haŭto  
 pijin : piĝino  
+pil : haŭto  
 pimente : pipro  
 pin : nadlo (pinglo)  
 pinguin : pingveno  
@@ -1196,7 +1196,7 @@ sismolojia : sismologio
 sistem : sistemo  
 site : urbo  
 skandium : skandio  
-sofa' : sofo  
+sofah : sofo  
 sofia : saga  
 soke : ŝtrumpo  
 sol : suno  
@@ -1228,7 +1228,7 @@ swahili : sŭahili
 tabake : tabako  
 table : tabelo  
 tafun : ŝtormo  
-taiga : tajgo  
+taige : tajgo  
 talium : talio  
 tambur : tamburo  
 tantalum : tantalo  
@@ -1298,7 +1298,6 @@ tupay : sciuro
 turkia : Turkio  
 ##u  
 u : aŭ  
-uma : ĉevalo  
 un : unu  
 unale : unu la alian (reciproke)  
 unali : reciproka  
@@ -1312,7 +1311,6 @@ uza : uzi
 wada : promesi  
 wain : vino  
 wale : valo  
-walwe : valvo (krano)  
 wanta : voli  
 wase : oazo  
 wate : vato  
@@ -1332,6 +1330,8 @@ wil : estonte
 wile : estonoteco  
 win : venko  
 wina : venki  
+wir : heroo  
+wiri : heroa  
 wis : vic-  
 wizita : vizito  
 wizite : viziti  
@@ -1344,7 +1344,7 @@ xam : vespero
 xaman : ŝamano  
 xamoden : posttagmeze  
 xamonyam : vespermanĝo  
-xampu' : ŝampuo  
+xampe : ŝampuo  
 xan : monto  
 xanti : trankvila  
 xarme : honto  
@@ -1404,4 +1404,4 @@ zinke : zinko
 ziran : kumino  
 zirkonium : zirkonio  
 zon : zono  
-zulu' : zuluo  
+zuluh : zuluo  

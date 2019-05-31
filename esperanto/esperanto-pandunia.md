@@ -103,8 +103,8 @@ aŭtuno : oton
 babilejo : blableria  
 babili : blabla  
 bah! : fuy  
-bahaismo : baha'istia  
-bahaisto : baha'iste  
+bahaismo : bahayistia  
+bahaisto : bahayiste  
 bakejo : bekeria  
 baki : beka  
 bakisto : beker  
@@ -177,8 +177,8 @@ bonvenon! : salam laye
 borio : borium  
 boro : boron  
 botelo : botol  
-bovaĵo : mumu'omanse  
-bovo : mumu'  
+bovaĵo : muhomanse  
+bovo : muh  
 branĉo : xake  
 Brazilo : brazilia  
 bromo : brom  
@@ -281,7 +281,7 @@ elekto : cuze
 elektra : eletri  
 elektro : eletre  
 elektrono : eletron  
-elirejo : cuteomun  
+elirejo : cutomun  
 eliri : cuta  
 eliro : cute  
 emocii : gama  
@@ -308,7 +308,7 @@ evangelio : anjil
 eĉ : hati  
 eĥo : mirosonde  
 Eŭrazio : eurasia  
-eŭro : euro'  
+eŭro : europese  
 Eŭropa : europi  
 Eŭropa Unio (EU) : europi unia  
 eŭropio : europium  
@@ -364,7 +364,7 @@ flago : bandir
 floro : pul  
 flugi : feya  
 fluoro : flur  
-fojo : mar  
+fojo : ban  
 forko : forke  
 formigi : forma  
 formiko : maye  
@@ -452,19 +452,19 @@ havanto : malker
 havi (teni) : tena  
 hazarda : zari  
 hazardo : zar  
-haŭto : pifu'  
+haŭto : pil  
 Hebrea : ibri  
 hejmo (loĝejo) : dom  
 helio : helium  
 helpo : helpe  
 herbo : gras  
-heroa : hero'i  
-heroo : hero'  
+heroa : wiri  
+heroo : wir  
 hidrogeno : hidre  
 Himalajo : himalia  
 hinduismo : hindistia  
 hinduo : hindiste  
-hipopotamo : gubu'  
+hipopotamo : gubuh  
 Hispanio : espania  
 historiisto : historer  
 historio (studo de historio) : historia  
@@ -565,7 +565,7 @@ kanonisto : kanoner
 kanono : kanon  
 kanti : canta  
 kanto : cante  
-kanuo (kanoto) : kanu'  
+kanuo (kanoto) : kanuh  
 kaoso (malordo) : haos  
 kapro : buze  
 kapti : kapa  
@@ -595,7 +595,7 @@ kio? : ki xey
 kiso : cum  
 kiu? : ki ren  
 kivo : kiwe  
-klavaro : butonopan  
+klavaro : butonobanze  
 klavo : buton  
 klimato : klime  
 klimatscienco : klimolojia  
@@ -607,7 +607,7 @@ knabino : jowan fem
 knabo : jowan man  
 kobalto : kobalte  
 kodo : kode  
-koko : koke  
+koko : kokode  
 kokoso : yeze  
 kolbaso : sosis  
 kolekta : jami  
@@ -648,6 +648,7 @@ kotono : goton
 kotraŭa : anti  
 kovri : deka  
 kovrilo : deke  
+krano (valvo) : kran  
 kreda : xina  
 kredo : xin  
 kremo : krem  
@@ -668,6 +669,7 @@ kukaĵo : pay
 kuko : keke  
 kukumo : pepin  
 kulero : camce  
+kulo : bum  
 kulpa : doxi  
 kulpo : dox  
 kulturo : kultur  
@@ -951,7 +953,7 @@ peniso : penis
 pensi : fikra  
 penso : fikre  
 pentri : penta  
-perlo : jenju'  
+perlo : lul  
 persa : farsi  
 persono : ren  
 peti (bonvolu) : plisa  
@@ -1157,7 +1159,7 @@ sitelo : balde
 skandio : skandium  
 skatolo (kesto) : sanduke  
 skribo : kitabe  
-sofo : sofa'  
+sofo : sofah  
 somero : lete  
 sono : sonde  
 speciala : has  
@@ -1199,7 +1201,7 @@ tabelo : table
 tablo : meze  
 tagmanĝo : denonyam  
 tago : den  
-tajgo : taiga  
+tajgo : taige  
 tajlanda : tayi  
 Tajlando : tayia  
 tajpilo : kitabomaxin  
@@ -1285,7 +1287,6 @@ uzi : uza
 ##v  
 vagino : yone  
 valo : wale  
-valvo (krano) : walwe  
 varma : garmi  
 vato : wate  
 vazo (florpoto) : pulowaze  
@@ -1317,7 +1318,6 @@ vinagro : sirke
 vinbero : putaw  
 vino : wain  
 vintro : xite  
-violonĉelo : celo'  
 virino : maturi fem  
 viro : man  
 viro : maturi man  
@@ -1352,7 +1352,7 @@ zono : zon
 zoroastrismo : zarduxistia  
 zoroastristo : zarduxiste  
 Zoroastro : zardux  
-zuluo : zulu'  
+zuluo : zuluh  
 Ĉilio : cile  
 Ĉinio : jungogia  
 ĉambro : kamar  
@@ -1366,7 +1366,7 @@ zuluo : zulu'
 ĉefministro : xefi minister  
 ĉelo : sel  
 ĉemizo : kamis  
-ĉevalo : uma  
+ĉevalo : mar  
 ĉi tio : ce  
 ĉi tiu : ci  
 ĉiam : mey zaman  
@@ -1386,9 +1386,9 @@ zuluo : zulu'
 ĵetkubo : dade  
 ĵudo : judo  
 ĵus : gang  
-ŝafo : meme  
+ŝafo : meh  
 ŝamano : xaman  
-ŝampuo : xampu'  
+ŝampuo : xampe  
 ŝanco : canse  
 ŝario : islamisti xaria  
 ŝati : suku  

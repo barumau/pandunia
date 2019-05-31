@@ -43,6 +43,7 @@ badam : 杏仁
 badan : 身体  
 bagaje : 行李  
 bagre : 虎  
+bah : 呸  
 balkon : 阳台  
 banan : 香蕉  
 bande : 班  (一帮)  
@@ -50,6 +51,7 @@ bandir : 旗
 banye : 洗澡  
 banyokamar : 浴室  
 banyu : 游泳  
+banze : 板子  
 bari : 重型的  
 baskobol : 篮球  
 bax : 语言  
@@ -99,6 +101,7 @@ kosmia : 宇宙
 laya : 来  
 le : 他，她，它  
 lole : 他们  
+luta : 掠夺   
 ##m  
 mame : 妈妈  
 manihayistia : 摩尼教   
