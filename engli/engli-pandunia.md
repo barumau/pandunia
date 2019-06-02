@@ -1008,7 +1008,7 @@ humor : yumor
 humorist : yumoriste  
 humorous (comical, funny) : yumori  
 hundred (##) : hon  
-Hungary : madyar  
+Hungary : madyaria  
 hurry (hasten) : yala  
 hurt (pain) : tung  
 hurt : paxa  

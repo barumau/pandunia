@@ -1184,7 +1184,7 @@ luzer : przegrany, pokonany
 maca : pasować  
 madagasi : madagaskarski; malagaski  
 madagasia : Madagaskar  
-madyar : Węgry  
+madyaria : Węgry  
 mafan : problem, kłopot, zakłócenie  
 mafana : przeszkodzić, przeszkadzać, robić kłopot  
 mager : magik, czarownik  

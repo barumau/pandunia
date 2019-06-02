@@ -1228,7 +1228,7 @@ luzer : loser
 maca : match (fit, suit, conform)  
 madagasi : Malagasy  
 madagasia : Madagascar  
-madyar : Hungary  
+madyaria : Hungary  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
 mager : magician (sorcerer)  

@@ -1226,7 +1226,7 @@ luzer : häviäjä
 maca : sopia  
 madagasi : malagassi  
 madagasia : Madagaskar  
-madyar : Unkari  
+madyaria : Unkari  
 mafan : vaiva (haitta)  
 mafana : vaivata  
 mager : taikuri  
