@@ -129,6 +129,7 @@ wirus : вирус
 wirusolojia : вирусология  
 ##x  
 xaw : мало  
+xofer : шофёр  
 ##y  
 ya : из (от)  
 yada : память  

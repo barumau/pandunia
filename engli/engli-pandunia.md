@@ -367,7 +367,7 @@ cell (biology) : sel
 cement : semente  
 center (concentrate) : junga  
 centi- (per cent) : centi  
-Central African Republic : beafrike  
+Central African Republic : jungafrikia  
 Ceres (dwarf planet) : seres  
 cerium : cerium  
 certain (sure) : yakin  
@@ -381,6 +381,7 @@ chaos (disorder, turmoil) : haos
 chapter (section) : babe  
 chat (babble) : blabla  
 chat room : blableria  
+chauffeur (driver) : xofer  
 check (to examine) : ceka  
 checkers (draughts) : damogem  
 cheer (hurrah, hooray) : ura  
@@ -456,8 +457,8 @@ comb : kange
 come : laya  
 comic (cartoon) : kartun  
 comma : kome  
+common (general, universal) : putong  
 common (shared) : komun  
-common (universal) : putong  
 communicate (message) : mesaja  
 communism : komunistia  
 communist : komuniste  
@@ -524,7 +525,7 @@ Croatia : horwatia
 cross : krus  
 crown : koron  
 cry (shout) : krita  
-Cuba : kuba  
+Cuba : kubia  
 cube : kube  
 cucumber : pepin  
 cultivate (farm) : nonga  
@@ -624,6 +625,7 @@ dragonfly : libel
 drama : drame  
 drawing (picture) : desen  
 drill (bore) : bora  
+drive : xofa  
 drop (droplet) : yote  
 drop (let fall) : pada  
 drug (intoxicating substance) : droge  
@@ -908,7 +910,7 @@ Guam : guam
 guarantee : garante  
 guard (watch) : garda  
 guardian (watchman) : garder  
-Guatemala : guatemala  
+Guatemala : guatemalia  
 Guernsey : genzia  
 guilty : doxi  
 Guinea : ginia  
@@ -1076,7 +1078,7 @@ jackal : xakal
 jacket : jake  
 jailer (imprisoner) : prizoner  
 Jainism : jayistia  
-Jamaica : jamaike  
+Jamaica : jamaikia  
 January : mes 1 (mes un)  
 Japan : nipon  
 jasmine : malike  
@@ -1088,7 +1090,7 @@ Jewish : yehudi
 joint : samun  
 joke : joke  
 joker : joker  
-Jordan : urdun  
+Jordan : urdunia  
 joule (J) : jul  
 journalist : bawer  
 Judaism : yehudistia  
@@ -1333,7 +1335,7 @@ messianic : kristi
 metal : metal  
 meter (## cm) : metre  
 method (way, manner) : metode  
-Mexico : mexiko  
+Mexico : mexikia  
 micro- : mikro-  
 Micronesia : mikronesia  
 middle (center) : jung  
@@ -1363,7 +1365,7 @@ Moldova : moldowia
 mole (burrowing animal) : krote  
 mollusk : moluske  
 molybdenum : molidenum  
-Monaco : monako  
+Monaco : monakia  
 Monday : war 1 (war un)  
 money : pese  
 Mongol : mongol  
@@ -1706,7 +1708,7 @@ pork : gurubomanse
 porn : porne  
 pornography : pornografia  
 portion (dose) : doze  
-Portugal : portugal  
+Portugal : portugalia  
 pose (position) : poze  
 pose (set) : poza  
 possible (possibly, maybe, perhaphs) : abli  
@@ -1962,6 +1964,7 @@ shaman : xaman
 shame (disgrace) : xarme  
 shampoo : xampe  
 shape (sculpt) : forma  
+share : komuna  
 shari'a : islamisti xaria  
 shatter (break into pieces) : parca  
 shea : karite  
@@ -1981,7 +1984,7 @@ show (display, exhibition) : xow
 shower : dux  
 Siberia : sibir  
 sibling (brother or sister) : saudar  
-Sierra Leone : salone  
+Sierra Leone : salonia  
 sign (signal) : sinye  
 Sikh : sikiste  
 Sikhism : sikistia  
@@ -2040,7 +2043,7 @@ sound (make a sound) : sonda
 soup : supe  
 sour : suan  
 south : sude  
-South Africa : sudafrike  
+South Africa : sudafrikia  
 South Georgia and the South Sandwich Islands : sudi jorjia i sudi sanwice nesia  
 South Sudan : sudi sudan  
 space (cosmos, universe) : kosmia  

@@ -169,7 +169,6 @@ fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:ba
 			bazarohuristia	:	market liberalism		markkinaliberalismi	liberalizm rynkowy								
 eng:fra:por:spa:base. deu:Basis. rus:база (baza).			baze	:	base (foundation)	bazo	perusta (perustus)	podstawa, baza, fundament	base	base	base	底部	основа (база,  фундамент)	आधार	landasan	temel
 			bazi	:	basic	baza	perus-	bazowy, podstawowy								
-	dex	CF	beafrike	:	Central African Republic		Keski-Afrikan Tasavalta	Republika Środkowoafrykańska								
 fra:bébé. por:bebê. spa:bebé. tur:bebek. eng:baby. yue:BB (bibi).			bebe	:	baby (infant)	bebo	vauva	niemowlę								
 eng:bed. deu:Bett. jpn:ベッド (beddo). zul:umbhede.			bede	:	bed	lito	vuode (sänky, peti)	łóżko								
 hin:बैंगन (bEngān). ara:(bādinjān). por:berinjela. fra:aubergine. spa:berenjena. tur:badincan, patlıcan. rus:баклажан (baklažan). swa:mbilingani.			bedinjan	:	eggplant (aubergine, brinjal)	melongeno	munakoiso	bakłażan, oberżyna								
@@ -670,7 +669,7 @@ ben:গুহা "guha". tha:คูหา "gūhā". hin:गुफ़ा "gufā".
 	dex	GP	guadelupe	:	Guadeloupe		Guadeloupe	Gwadelupa								
 	dex	GU	guam	:	Guam		Guam	Guam								
 zho:关系 "guānxi". vie:quan hệ. kor:관계 "gwangye". jpn:関係 "kankei".			guanxe	:	relationship (association, connection)	rilato	suhde (yhteys)	związek, powiązanie, połączenie								
-	dex	GT	guatemala	:	Guatemala	Gvatemalo	Guatemala	Gwatemala								
+	dex	GT	guatemalia	:	Guatemala	Gvatemalo	Guatemala	Gwatemala								
 ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.			gubuh	:	hippopotamus	hipopotamo	virtahepo	hipopotam								
 	nas		gujarati	:	Gujarati		gujarati (eräs intialainen kieli)	Gudżarat								
 hin:गुण (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).			gun	:	quality (excellence, virtue, merit)	eco	laatu (laadukkuus, erinomaisuus, hyvyys)	cecha, atrybut, własność; -ość								
@@ -829,7 +828,7 @@ eng:jacket. zho:夹克 (jiākè). rus:жакет (žaket). deu:Jacke. por:jaquet
 hin:जलना (jalnā). urd:(jalnā). mar:जळणे (j̈aḷṇe).			jala	:	burn (cause to burn)		polttaa	spalić, palić								
 			jalu	:	burn (be burned)		palaa	spłonąć, płonąć								
 ara: جمع /jamaʕa/.			jama	:	collect (gather, bring together)	kolekti (kunigi)	koota (kerätä)	kolekcjonować, zebrać, zbierać								
-	dex	JM	jamaike	:	Jamaica	Jamajko	Jamaika	Jamajka								
+	dex	JM	jamaikia	:	Jamaica	Jamajko	Jamaika	Jamajka								
 			jami	:	collective	kolekta	kollektiivinen	zbiorowy, zbiorczy								
 ara:(jamʿiyya). hau:jam'iyya. swa:jamii. tur:camia.			jamia	:	collection (congregation, assembly)		yhteisö (kokoontuminen, kollektiivi)	kolekcja, zbiór; zgromadzenie, zebranie								
 eng:jump. jpn:ジャンプ (janpu). kor:점프 (jŏmp). ben:ঝাঁপ (jhãpô). ass:জাঁপ (zãp).			jampa	:	jump	salti	hypätä (hyppiä)	skoczyć, skakać								
@@ -887,6 +886,7 @@ hin: "javān". por:jovem. spa:joven.			jowan	:	young	juna	nuori	młody
 			jul	:	joule (J)		joule (J)	dżul (J)								
 zho:中 "zhōng". yue:"zung". kor:중 "jung".			jung	:	middle (center)	centro	keskus (keskikohta)	środkowy, centralny								
 			junga	:	center (concentrate)		keskittää	centrować, skupić, skupiać								
+	dex	CF	jungafrikia	:	Central African Republic		Keski-Afrikan Tasavalta	Republika Środkowoafrykańska								
 	dex	CN	jungogia	:	China	Ĉinio	Kiina	Chiny								
 			jungu	:	to be centered (amid, in the middle)		keskittyä (olla keskellä) 	być wycentrowanym, być w środku								
 fra:jupe. ara:"jūb". rus:юбка "yubka".			jupe	:	skirt	jupo	hame	spódnica								
@@ -1041,6 +1041,7 @@ eng:command. fra:commandement. rus:команда (komanda). spa:mandato.			koma
 eng:comma. deu:Komma. jpn:コンマ (konma). kor:콤마 (komma). ind:koma.			kome	:	comma		pilkku	przecinek								
 	dex	KM	komori nesia	:	Comoros		Komorit	Komory								
 eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.			kompania	:	company (corporation)	kompanio (firmao)	yritys (yhtiö)	firma, kompania, korporacja								
+			komuna	:	share		jakaa yhteiseksi									
 eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć, liczyć, przetwarzać dane								
 			komputer	:	computer	komputero	tietokone	komputer	ordenador	computador	ordinateur	计算机	компьютер	कम्प्यूटर	komputer	bilgisayar
 			komun	:	common (shared)	komuna	yhteinen	wspólny								
@@ -1099,8 +1100,8 @@ rus:крот (krot). cze:slk:krt.			krote	:	mole (burrowing animal)		kontiainen 
 zho:宽 (kuān). tha:กว้าง (kwang). vie:quảng.			kuan	:	wide (broad)		leveä	szeroki								
 zho:矿 (kuàng). vie:khoáng. kor:광 (guang).			kuang	:	mineral (ore)		kivennäinen (mineraali)	minerał, ruda								
 			kuang suy	:	mineral water		kivennäisvesi	woda mineralna								
-	dex	CU	kuba	:	Cuba		Kuuba	Kuba								
 spa:por:cubo. deu:Kubus. eng:fra:cube. rus:куб (kub). ara:(kaʿba).			kube	:	cube	kubo	kuutio	sześcian								
+	dex	CU	kubia	:	Cuba		Kuuba	Kuba								
 zho:哭 (kū). yue:哭 (huk1). vie:khóc.			kuga	:	weep (cry)	plori	itkeä	płakać, łkać								
 eng:cook. deu:Kock. ita:cuoco. ind:koki. tha:กุ๊ก (kuk). sango:kuku.			kuka	:	cook (prepare food)		kokata (laittaa ruokaa)	gotować, szykować jedzenie								
 	dex	CK	kuke da nesia	:	Cook Islands		Cookin saaret	Wyspy Cooka								
@@ -1352,7 +1353,7 @@ eng:fra:message. por:mensagem. spa:mensaje. tur:mesaj. rus:месседж (messe
 eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.			mete	:	measurement	mezuro	mitta (koko, määrä)	miara								
 			metode	:	method (way, manner)	metodo	keino (menetelmä, metodi)	metoda, sposób								
 			metre	:	meter (100 cm)		metri	metr								
-	dex	MX	mexiko	:	Mexico	Meksikio	Meksiko	Meksyk								
+	dex	MX	mexikia	:	Mexico	Meksikio	Meksiko	Meksyk								
 zho:每 (měi). wuu:每 (me). vie:mọi. kor:매 (mae).			mey	:	every (each)	ĉiu(j)	joka (jokainen)	każdy, wszyscy								
 			mey ren	:	everybody (everyone)		jokainen ihminen	każdy człowiek, wszyscy								
 			mey xey	:	everything		jokainen asia	wszystko								
@@ -1407,7 +1408,7 @@ zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).			moke	
 eng:mollusk. deu:Molluske. fra:mollusque. rus:моллюск (mollyusk). spa:por:molusco. ind:moluska. hin:urd:(molask).			moluske	:	mollusk	molusko	nilviäinen						моллюск		moluska	
 			mome	:	we	ni	me	my				我们				
 ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, just)	nur	vain (ainoastaan)	tylko								
-	dex	MC	monako	:	Monaco		Monaco	Monako								
+	dex	MC	monakia	:	Monaco		Monaco	Monako								
 			mongol	:	Mongol	mongola	mongoli	Mongolski								
 	dex	MN	mongolia	:	Mongolia	Mongolio	Mongolia	Mongolia								
 			monistia	:	monism	monismo	monismi	monizm	monismo							
@@ -1743,7 +1744,7 @@ eng:point. por:apontar. spa:apuntar. fra:pointer.			ponta	:	point at (indicate)	
 			pornografia	:	pornography		pornografia	pornografia								
 			porta	:	carry (bear)		kantaa	nosić, nieść								
 	dex	PR	portorikia	:	Puerto Rico		Puerto Rico	Puerto Rico								
-	dex	PT	portugal	:	Portugal		Portugali	Portugalia								
+	dex	PT	portugalia	:	Portugal		Portugali	Portugalia								
 	made	P	pospor	:	phosphorus	fosforo	fosfor	fosfor								
 			posta	:	mail (send by mail)		postittaa	nadać, wysłać pocztą								
 			poste	:	mail		posti (postilähetys)	poczta								
@@ -1785,7 +1786,7 @@ spa:punto. rus:пункт "punkt". eng:point.			punte	:	point (full stop)	punkto
 hin:पुराना "purānā". ben:পুৰণা "puron".			puran	:	old (ancient)	malnova	vanha (muinainen)	stary, starożytny								
 ara:"riša". mlt:rix.			puru	:	feather	plumo	sulka	pióro								
 			putaw	:	grape	vinbero	viinirypäle	winogrono								
-			putong	:	common (universal)	universala	yleinen (universaali)	powszechny, uniwersalny								
+zho:普通 (pǔtōng). yue:普通 (pou2tung1). vie:phổ thông. kor:보통 (botong).			putong	:	common (general, universal)	generala (universala)	yleinen (universaali)	powszechny, uniwersalny								
 			putong cini	:	Mandarin Chinese (Putonghua)	mandarinĉina	yleiskiina (mandariinikiina)	mandaryński chiński, Putonghua								
 			puxa	:	push		työntää (puskea)	pchnąć, pchać								
 kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.			pyaze	:	onion		sipuli									
@@ -1931,7 +1932,7 @@ end:salad. zho:沙拉 (shālā).			salade	:	salad		salaatti	sałatka
 ara:(salām). swa:salamu. ind:selamat.			salame	:	greeting (hello)	saluto	tervehdys (terve!)	pozdrowienie								
 	dex	SV	salbador	:	El Salvador		El Salvador	Salwador								
 			salima	:	surrender (to give up)			poddać się, poddawać się								
-	dex	SL	salone	:	Sierra Leone		Sierra Leone	Sierra Leone								
+	dex	SL	salonia	:	Sierra Leone		Sierra Leone	Sierra Leone								
 ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.			sam	:	same	sama	sama	taki sam								
 ara:(samāʾ). amh:ሰማይ (sämay). orm:samii. hau:sama. yor:sánmà. hin:आसमान (āsmān). fas:pnb:urd:(āsmān).			saman	:	sky (heaven)	ĉielo	taivas	niebo						आसमान (आकाश)		
 			samani	:	celestial (heavenly)			niebieski, niebiański, podniebny								
@@ -2052,7 +2053,7 @@ zho:酸 (suān).			suan	:	sour	acida	hapan (kirpeä)	kwaśny
 ara:(ṣabāḥ). tur:sabah. fas:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.			sube	:	morning (dawn)	mateno	aamu	ranek, rano, poranek								
 			suboden	:	forenoon			przedpołudnie								
 			subonyam	:	breakfast		aamiainen	śniadanie								
-	dex	ZA	sudafrike	:	South Africa		Etelä-Afrikka	Południowa Afryka								
+	dex	ZA	sudafrikia	:	South Africa		Etelä-Afrikka	Południowa Afryka								
 	dex	SD	sudan	:	Sudan		Sudan	Sudan								
 spa:sur. por:sul. fra:sud.			sude	:	south	sudo	etelä	południe								
 	dex	GS	sudi jorjia i sudi sanwice nesia	:	South Georgia and the South Sandwich Islands			Wyspy Georgia Południowa i Sandwich Południowy								
@@ -2239,7 +2240,7 @@ rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fa
 	planet		uran	:	Uranus		Uranus	Uran								
 	made	U	uranium	:	uranium	uranio	uraani	uran			uranium					
 	nas		urdi	:	Urdu		urdu	urdu								
-	dex	JO	urdun	:	Jordan		Jordania	Jordan								
+	dex	JO	urdunia	:	Jordan		Jordania	Jordan								
 fra:ours. por:urso. ita:orso. spa:oso.			urse	:	bear	urso	karhu	niedźwiedź								
 fra:ours. por:urso. spa:oso. fas:(xers).			urse	:	bear	urso	karhu	niedźwiedź								
 	dex	UY	uruguay	:	Uruguay		Uruguai	Urugwaj								
@@ -2365,8 +2366,10 @@ ara:"šarāb". por:xarope. eng:syrup. tur:şurup. jpn:シロップ "shiroppu".		
 ara:(šitāʾ). egy:(šeta). hin:शीत (śīt). ben:শীত (śīt).			xite	:	winter	vintro	talvi	zima								
 eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.			xix	:	hush (shh)		hiljainen (hys, shhh)	ćsi								
 			xixi	:	silent	silenta	hiljainen	cichy								
+			xofa	:	drive	konduki	ajaa (kuskata)		conducir	conduzir		开车				
+fra:eng:deu:chauffeur. spa:por:chofer. rus:шофёр (šofjor). pol:szofer. tha: โชเฟอร์ (chofoe). tur:şoför. fas:(šofer).			xofer	:	chauffeur (driver)	ŝoforo (kondukisto)	kuski (ajuri, ajaja)		conductor (chofer)	condutor (chofer, motorista)		司机 	шофёр			sürücü (şoför)
 			xoke	:	shock (collision)		isku (šokki)	szokwstrząs; kolizja								
-eng: show.			xow	:	show (display, exhibition)	montri (ekspozicii)	näytös (esitys, show)	pokaz, ekspozycja, wystawa								
+eng:deu:fra:spa:por:show. rus:шоу (šou). tur:şov. swa:shoo. tha:โชว์ (choo). kor:쇼 (syo). jpn:ショー (shō). zho:秀 (xiù).			xow	:	show (display, exhibition)	montri (ekspozicii)	näytös (esitys, show)	pokaz, ekspozycja, wystawa								
 			xowa	:	show (display)		näyttää	pokazać, pokazywać, wystawić, wystawiać								
 eng:should.			xudu	:	should (ought)	devus	pitäisi	powinien								
 			xula	:	repair (fix)	ripari	korjata	naprawić, naprawiać								

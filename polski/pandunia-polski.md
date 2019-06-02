@@ -164,7 +164,6 @@ bazar : rynek, bazar
 bazarohuristia : liberalizm rynkowy  
 baze : podstawa, baza, fundament  
 bazi : bazowy, podstawowy  
-beafrike : Republika Środkowoafrykańska  
 bebe : niemowlę  
 bede : łóżko  
 bedinjan : bakłażan, oberżyna  
@@ -657,7 +656,7 @@ gua : jaskinia
 guadelupe : Gwadelupa  
 guam : Guam  
 guanxe : związek, powiązanie, połączenie  
-guatemala : Gwatemala  
+guatemalia : Gwatemala  
 gubuh : hipopotam  
 gujarati : Gudżarat  
 gun : cecha, atrybut, własność; -ość  
@@ -814,7 +813,7 @@ jake : kurtka
 jala : spalić, palić  
 jalu : spłonąć, płonąć  
 jama : kolekcjonować, zebrać, zbierać  
-jamaike : Jamajka  
+jamaikia : Jamajka  
 jami : zbiorowy, zbiorczy  
 jamia : kolekcja, zbiór; zgromadzenie, zebranie  
 jampa : skoczyć, skakać  
@@ -870,6 +869,7 @@ jug : bambus
 jul : dżul (J)  
 jung : środkowy, centralny  
 junga : centrować, skupić, skupiać  
+jungafrikia : Republika Środkowoafrykańska  
 jungogia : Chiny  
 jungu : być wycentrowanym, być w środku  
 jupe : spódnica  
@@ -1073,8 +1073,8 @@ krus : krzyż
 kuan : szeroki  
 kuang suy : woda mineralna  
 kuang : minerał, ruda  
-kuba : Kuba  
 kube : sześcian  
+kubia : Kuba  
 kuga : płakać, łkać  
 kuka : gotować, szykować jedzenie  
 kuke da nesia : Wyspy Cooka  
@@ -1313,7 +1313,7 @@ metalojanger : kowal
 mete : miara  
 metode : metoda, sposób  
 metre : metr  
-mexiko : Meksyk  
+mexikia : Meksyk  
 mey ren : każdy człowiek, wszyscy  
 mey xey : wszystko  
 mey zaman : zawsze  
@@ -1367,7 +1367,7 @@ moler : młynarz
 molidenum : molibden  
 mome : my  
 mon : tylko  
-monako : Monako  
+monakia : Monako  
 mongol : Mongolski  
 mongolia : Mongolia  
 monistia : monizm  
@@ -1695,7 +1695,7 @@ porne : porno, film erotyczny
 pornografia : pornografia  
 porta : nosić, nieść  
 portorikia : Puerto Rico  
-portugal : Portugalia  
+portugalia : Portugalia  
 pospor : fosfor  
 posta : nadać, wysłać pocztą  
 poste : poczta  
@@ -1875,7 +1875,7 @@ salama : pozdrowić, pozdrawiać
 salame : pozdrowienie  
 salbador : Salwador  
 salima : poddać się, poddawać się  
-salone : Sierra Leone  
+salonia : Sierra Leone  
 sam : taki sam  
 saman : niebo  
 samani : niebieski, niebiański, podniebny  
@@ -1992,7 +1992,7 @@ suan : kwaśny
 sube : ranek, rano, poranek  
 suboden : przedpołudnie  
 subonyam : śniadanie  
-sudafrike : Południowa Afryka  
+sudafrikia : Południowa Afryka  
 sudan : Sudan  
 sude : południe  
 sudi jorjia i sudi sanwice nesia : Wyspy Georgia Południowa i Sandwich Południowy  
@@ -2176,7 +2176,7 @@ ura : wiwatować; hura
 uran : Uran  
 uranium : uran  
 urdi : urdu  
-urdun : Jordan  
+urdunia : Jordan  
 urse : niedźwiedź  
 urse : niedźwiedź  
 uruguay : Urugwaj  

@@ -163,6 +163,8 @@ wida : 看
 ##x  
 xam : 晚上  
 xaw : 少  
+xofa : 开车  
+xofer : 司机   
 xute : 技术  
 ##y  
 ##z  

@@ -519,7 +519,7 @@ grom : tondro
 grupe : grupo  
 gua : kaverno  
 guanxe : rilato  
-guatemala : Gvatemalo  
+guatemalia : Gvatemalo  
 gubuh : hipopotamo  
 gun : eco  
 gur : guruo (instruisto)  
@@ -633,7 +633,7 @@ izi : facila
 ##j  
 jake : jako  
 jama : kolekti (kunigi)  
-jamaike : Jamajko  
+jamaikia : Jamajko  
 jami : kolekta  
 jampa : salti  
 jamula : disigi  
@@ -876,7 +876,7 @@ meta : mezuri
 metal : metalo  
 mete : mezuro  
 metode : metodo  
-mexiko : Meksikio  
+mexikia : Meksikio  
 mey zaman : ĉiam  
 mey : ĉiu(j)  
 meze : tablo  
@@ -1082,7 +1082,7 @@ puran : malnova
 puru : plumo  
 putaw : vinbero  
 putong cini : mandarinĉina  
-putong : universala  
+putong : generala (universala)  
 ##r  
 radi geter : radio  
 radium : radiumo  
@@ -1364,6 +1364,8 @@ xir : poemo
 xirope : siropo  
 xite : vintro  
 xixi : silenta  
+xofa : konduki  
+xofer : ŝoforo (kondukisto)  
 xow : montri (ekspozicii)  
 xudu : devus  
 xula : ripari  

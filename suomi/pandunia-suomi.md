@@ -169,7 +169,6 @@ bazar : tori (basaari)
 bazarohuristia : markkinaliberalismi  
 baze : perusta (perustus)  
 bazi : perus-  
-beafrike : Keski-Afrikan Tasavalta  
 bebe : vauva  
 bede : vuode (sänky, peti)  
 bedinjan : munakoiso  
@@ -674,7 +673,7 @@ gua : luola
 guadelupe : Guadeloupe  
 guam : Guam  
 guanxe : suhde (yhteys)  
-guatemala : Guatemala  
+guatemalia : Guatemala  
 gubuh : virtahepo  
 gujarati : gujarati (eräs intialainen kieli)  
 gun : laatu (laadukkuus, erinomaisuus, hyvyys)  
@@ -836,7 +835,7 @@ jake : pikkutakki (jakku)
 jala : polttaa  
 jalu : palaa  
 jama : koota (kerätä)  
-jamaike : Jamaika  
+jamaikia : Jamaika  
 jami : kollektiivinen  
 jamia : yhteisö (kokoontuminen, kollektiivi)  
 jampa : hypätä (hyppiä)  
@@ -894,6 +893,7 @@ jug : bambu
 jul : joule (J)  
 jung : keskus (keskikohta)  
 junga : keskittää  
+jungafrikia : Keski-Afrikan Tasavalta  
 jungogia : Kiina  
 jungu : keskittyä (olla keskellä)   
 jupe : hame  
@@ -1052,6 +1052,7 @@ kompania : yritys (yhtiö)
 komputa : käsitellä dataa  
 komputer : tietokone  
 komun : yhteinen  
+komuna : jakaa yhteiseksi  
 komuniste : kommunisti  
 komunistia : kommunismi  
 kon : kulma (nurkka)  
@@ -1107,8 +1108,8 @@ krus : risti
 kuan : leveä  
 kuang suy : kivennäisvesi  
 kuang : kivennäinen (mineraali)  
-kuba : Kuuba  
 kube : kuutio  
+kubia : Kuuba  
 kuga : itkeä  
 kuka : kokata (laittaa ruokaa)  
 kuke da nesia : Cookin saaret  
@@ -1361,7 +1362,7 @@ metalojanger : seppä
 mete : mitta (koko, määrä)  
 metode : keino (menetelmä, metodi)  
 metre : metri  
-mexiko : Meksiko  
+mexikia : Meksiko  
 mey ren : jokainen ihminen  
 mey xey : jokainen asia  
 mey zaman : aina  
@@ -1416,7 +1417,7 @@ molidenum : molybdeeni
 moluske : nilviäinen  
 mome : me  
 mon : vain (ainoastaan)  
-monako : Monaco  
+monakia : Monaco  
 mongol : mongoli  
 mongolia : Mongolia  
 monistia : monismi  
@@ -1754,7 +1755,7 @@ porne : porno
 pornografia : pornografia  
 porta : kantaa  
 portorikia : Puerto Rico  
-portugal : Portugali  
+portugalia : Portugali  
 pospor : fosfor  
 posta : postittaa  
 poste : posti (postilähetys)  
@@ -1937,7 +1938,7 @@ salam : hyvä (tervehdyksissä)
 salama : tervehtiä  
 salame : tervehdys (terve!)  
 salbador : El Salvador  
-salone : Sierra Leone  
+salonia : Sierra Leone  
 sam : sama  
 saman : taivas  
 samoa : Samoa  
@@ -2046,7 +2047,7 @@ soto : Lesoto
 suan : hapan (kirpeä)  
 sube : aamu  
 subonyam : aamiainen  
-sudafrike : Etelä-Afrikka  
+sudafrikia : Etelä-Afrikka  
 sudan : Sudan  
 sude : etelä  
 sudi sudan : Etelä-Sudan  
@@ -2218,7 +2219,7 @@ ura : hurraa (hurrata)
 uran : Uranus  
 uranium : uraani  
 urdi : urdu  
-urdun : Jordania  
+urdunia : Jordania  
 urse : karhu  
 urse : karhu  
 uruguay : Uruguai  
@@ -2343,6 +2344,8 @@ xirope : siirappi
 xite : talvi  
 xix : hiljainen (hys, shhh)  
 xixi : hiljainen  
+xofa : ajaa (kuskata)  
+xofer : kuski (ajuri, ajaja)  
 xoke : isku (šokki)  
 xow : näytös (esitys, show)  
 xowa : näyttää  

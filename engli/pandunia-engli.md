@@ -170,7 +170,6 @@ bazar : market (bazaar)
 bazarohuristia : market liberalism  
 baze : base (foundation)  
 bazi : basic  
-beafrike : Central African Republic  
 bebe : baby (infant)  
 bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
@@ -676,7 +675,7 @@ gua : cave
 guadelupe : Guadeloupe  
 guam : Guam  
 guanxe : relationship (association, connection)  
-guatemala : Guatemala  
+guatemalia : Guatemala  
 gubuh : hippopotamus  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
@@ -838,7 +837,7 @@ jake : jacket
 jala : burn (cause to burn)  
 jalu : burn (be burned)  
 jama : collect (gather, bring together)  
-jamaike : Jamaica  
+jamaikia : Jamaica  
 jami : collective  
 jamia : collection (congregation, assembly)  
 jampa : jump  
@@ -896,6 +895,7 @@ jug : bamboo
 jul : joule (J)  
 jung : middle (center)  
 junga : center (concentrate)  
+jungafrikia : Central African Republic  
 jungogia : China  
 jungu : to be centered (amid, in the middle)  
 jupe : skirt  
@@ -1054,6 +1054,7 @@ kompania : company (corporation)
 komputa : compute (to process data)  
 komputer : computer  
 komun : common (shared)  
+komuna : share  
 komuniste : communist  
 komunistia : communism  
 kon : corner (angle)  
@@ -1109,8 +1110,8 @@ krus : cross
 kuan : wide (broad)  
 kuang suy : mineral water  
 kuang : mineral (ore)  
-kuba : Cuba  
 kube : cube  
+kubia : Cuba  
 kuga : weep (cry)  
 kuka : cook (prepare food)  
 kuke da nesia : Cook Islands  
@@ -1364,7 +1365,7 @@ metalojanger : blacksmith (iron forger)
 mete : measurement  
 metode : method (way, manner)  
 metre : meter (## cm)  
-mexiko : Mexico  
+mexikia : Mexico  
 mey ren : everybody (everyone)  
 mey xey : everything  
 mey zaman : always  
@@ -1419,7 +1420,7 @@ molidenum : molybdenum
 moluske : mollusk  
 mome : we  
 mon : only (alone, solely, just)  
-monako : Monaco  
+monakia : Monaco  
 mongol : Mongol  
 mongolia : Mongolia  
 monistia : monism  
@@ -1758,7 +1759,7 @@ porne : porn
 pornografia : pornography  
 porta : carry (bear)  
 portorikia : Puerto Rico  
-portugal : Portugal  
+portugalia : Portugal  
 pospor : phosphorus  
 posta : mail (send by mail)  
 poste : mail  
@@ -1801,7 +1802,7 @@ puran : old (ancient)
 puru : feather  
 putaw : grape  
 putong cini : Mandarin Chinese (Putonghua)  
-putong : common (universal)  
+putong : common (general, universal)  
 puxa : push  
 pyaze : onion  
 ##r  
@@ -1948,7 +1949,7 @@ salama : greet
 salame : greeting (hello)  
 salbador : El Salvador  
 salima : surrender (to give up)  
-salone : Sierra Leone  
+salonia : Sierra Leone  
 sam : same  
 saman : sky (heaven)  
 samani : celestial (heavenly)  
@@ -2069,7 +2070,7 @@ suan : sour
 sube : morning (dawn)  
 suboden : forenoon  
 subonyam : breakfast  
-sudafrike : South Africa  
+sudafrikia : South Africa  
 sudan : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
@@ -2258,7 +2259,7 @@ ura : cheer (hurrah, hooray)
 uran : Uranus  
 uranium : uranium  
 urdi : Urdu  
-urdun : Jordan  
+urdunia : Jordan  
 urse : bear  
 urse : bear  
 uruguay : Uruguay  
@@ -2387,6 +2388,8 @@ xirope : syrup
 xite : winter  
 xix : hush (shh)  
 xixi : silent  
+xofa : drive  
+xofer : chauffeur (driver)  
 xoke : shock (collision)  
 xow : show (display, exhibition)  
 xowa : show (display)  

@@ -408,6 +408,7 @@ gazeto (revuo) : baw
 gazeto : habarobaw  
 gazo : gaze  
 geedzeco : maria  
+generala (universala) : putong  
 genro : jinse  
 germaniumo : germanium  
 gitaro : gitar  
@@ -434,7 +435,7 @@ guruo (instruisto) : gur
 gusti kiel : gustu ka  
 gusto : guste  
 gustumi : gusta  
-Gvatemalo : guatemala  
+Gvatemalo : guatemalia  
 ##h  
 hafnio : hafnium  
 Haitio : haitia  
@@ -526,7 +527,7 @@ iu persono : koy ren
 ##j  
 jako : jake  
 jam (esti farita) : lew  
-Jamajko : jamaike  
+Jamajko : jamaikia  
 Japanio : nipon  
 jaro : nen  
 jasmeno : malike  
@@ -629,6 +630,7 @@ komunisto : komuniste
 koncentri : fokusa  
 koncentriĝo : fokus  
 kondiĉo (postulo) : xarte  
+konduki : xofa  
 konduto (karmo) : karme  
 Konfuceo : konfuze  
 kongrui : maca  
@@ -784,7 +786,7 @@ matura (plenkreska) : matur
 maŝino : maxin  
 mega- : mego-  
 mejtnerio : maitnerium  
-Meksikio : mexiko  
+Meksikio : mexikia  
 melki : tira milke  
 melodio : melodia  
 melongeno : bedinjan  
@@ -1274,7 +1276,6 @@ tuttera : panoduni
 tuŝi : toca  
 ##u  
 uniono : unia  
-universala : putong  
 unu : un  
 unu la alian (reciproke) : unale  
 uranio : uranium  
@@ -1394,6 +1395,7 @@ zuluo : zuluh
 ŝati : suku  
 ŝipo : bote  
 ŝlosilo : cabe  
+ŝoforo (kondukisto) : xofer  
 ŝranko : almar  
 ŝteli : cora  
 ŝtelisto : corer  

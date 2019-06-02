@@ -30,6 +30,7 @@ aina : mey zaman
 aine (materia) : mate  
 aineellinen (materiaalinen) : mati  
 aivot : serebre  
+ajaa (kuskata) : xofa  
 ajatella (miettiä) : fikra  
 ajatus : fikre  
 akku (paristo) : batre  
@@ -252,7 +253,7 @@ essee : esey
 este : baryer  
 estää kulku : barya  
 etelä : sude  
-Etelä-Afrikka : sudafrike  
+Etelä-Afrikka : sudafrikia  
 Etelä-Korea : hangogia  
 Etelä-Sudan : sudi sudan  
 etikka : sirke  
@@ -307,7 +308,7 @@ gramma : gram
 Grenada : grenada  
 Guadeloupe : guadelupe  
 Guam : guam  
-Guatemala : guatemala  
+Guatemala : guatemalia  
 Guernsey : genzia  
 Guinea : ginia  
 Guinea-Bissau : gini bisau  
@@ -518,11 +519,12 @@ ja : i
 jainalaisuus : jayistia  
 jakaa (jaella) : fada  
 jakaa (paloitella) : fena  
+jakaa yhteiseksi : komuna  
 jakautua (hajota) : fenu  
 jakki : yake  
 jalka (jalkaterä) : fute  
 jalkapallo : futobol  
-Jamaika : jamaike  
+Jamaika : jamaikia  
 Japani : nipon  
 jasmiini : malike  
 jatkua : kontinu  
@@ -547,7 +549,7 @@ joku : koy ren
 jooga : yoge  
 joogata : yoga  
 jopa : hati  
-Jordania : urdun  
+Jordania : urdunia  
 jos (olettaa) : gar  
 joskus : koy zaman  
 joukkue (tiimi) : tim  
@@ -696,7 +698,7 @@ kertoa : saga
 kertomus (tarina, saaga) : sage  
 kerubi : kerube  
 keskeyttää (tauottaa) : pausa  
-Keski-Afrikan Tasavalta : beafrike  
+Keski-Afrikan Tasavalta : jungafrikia  
 keskittyminen (keskittymä) : fokus  
 keskittyä (olla keskellä)  : jungu  
 keskittää : fokusa  
@@ -873,8 +875,9 @@ kuppi (muki) : kupe
 kurainen (mutainen) : bloti  
 kurja (raukka) : miskin  
 kurkku : pepin  
+kuski (ajuri, ajaja) : xofer  
 kuu : lun  
-Kuuba : kuba  
+Kuuba : kubia  
 kuukausi : mes  
 kuulla (kuunnella) : auda  
 kuulua (olla jkn hallussa) : tenu  
@@ -1158,7 +1161,7 @@ megawatti (MW) : megowate
 mehu : jus  
 meitnerium : maitnerium  
 mekko (tunika) : tunike  
-Meksiko : mexiko  
+Meksiko : mexikia  
 melodia (sävelmä) : melodia  
 melodinen (sointuisa) : melodi  
 menneisyys : pase  
@@ -1211,7 +1214,7 @@ mitta (koko, määrä) : mete
 Moldova : moldowia  
 molemminpuolinen (keskinäinen) : unali  
 molybdeeni : molidenum  
-Monaco : monako  
+Monaco : monakia  
 monarkki (kuningas, kuningatar) : rajer  
 mongoli : mongol  
 Mongolia : mongolia  
@@ -1583,7 +1586,7 @@ porkkana : karote
 porno : porne  
 pornografia : pornografia  
 porras (aste, taso) : darje  
-Portugali : portugal  
+Portugali : portugalia  
 posti (postilähetys) : poste  
 postileima : postocape  
 postitoimisto : postokan  
@@ -1830,7 +1833,7 @@ sianliha : gurubomanse
 side (remmi) : faxe  
 siemen : dan  
 sieni : funge  
-Sierra Leone : salone  
+Sierra Leone : salonia  
 sihistä : ziza  
 sihteeri : sekreter  
 sihteeristö : sekreteria  

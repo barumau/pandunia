@@ -515,7 +515,7 @@ guru, mistrz : gur
 guzik : boton  
 Gwadelupa : guadelupe  
 gwarancja : garante  
-Gwatemala : guatemala  
+Gwatemala : guatemalia  
 gwiazda : xing  
 Gwinea : ginia  
 góra, wzgórze : xan  
@@ -620,7 +620,7 @@ jak, niż, od : ka
 jak? : ki xey  
 jakikolwiek, którykolwiek : eni  
 jakiś : koy  
-Jamajka : jamaike  
+Jamajka : jamaikia  
 Japonia : nipon  
 jaskinia : gua  
 jasny, czysty : ming  
@@ -643,7 +643,7 @@ jod; jodyna : iode
 jod; jodyna : yode  
 joga : yoge  
 jon : ion  
-Jordan : urdun  
+Jordan : urdunia  
 judaizm : yehudistia  
 judo : judo  
 Jupiter : muxing  
@@ -820,7 +820,7 @@ księżyc : lun
 kszesło, fotel : kurse  
 ktoś : koy ren  
 który? : ki  
-Kuba : kuba  
+Kuba : kubia  
 kubek : kupe  
 kubek do herbaty : cayokupe  
 kucharz : kuker  
@@ -965,7 +965,7 @@ medycyna : medikia
 medytować; dumać, rozmyślać, zastanawiać się : medita  
 mega- : mego-  
 meitner : maitnerium  
-Meksyk : mexiko  
+Meksyk : mexikia  
 melodia : melodia  
 melodyczny : melodi  
 Merkury : budan  
@@ -1024,7 +1024,7 @@ moda, trend : mode
 model, wzór, wzorzec, projekt : model  
 modlitwa : duwe  
 molibden : molidenum  
-Monako : monako  
+Monako : monakia  
 monarchia : monokratia  
 Mongolia : mongolia  
 Mongolski : mongol  
@@ -1435,7 +1435,7 @@ porcja, dawka : doze
 porno, film erotyczny : porne  
 pornografia : pornografia  
 porozumienie (amen) : amen  
-Portugalia : portugal  
+Portugalia : portugalia  
 porywacz pociągu : trenokaper  
 porywacz samolotu : wimanokaper  
 porządek : ratibe  
@@ -1469,7 +1469,7 @@ pozwolenie, zezwolenie : permis
 pozwolić, pozwalać, zezwolić, zezwalać : permisa  
 połknąć (połykać) : glota  
 południe : sude  
-Południowa Afryka : sudafrike  
+Południowa Afryka : sudafrikia  
 połączenie, złącze, styk : samun  
 pośladki, pupa, tyłek, zadek : bum  
 pożądanie, żadza : kam  
@@ -1617,7 +1617,7 @@ reprezentować : wakila
 Republika Czeska, Czechy : cehia  
 Republika Konga : brazawil kongolia  
 Republika Macedonii, Macedonia : makedonia  
-Republika Środkowoafrykańska : beafrike  
+Republika Środkowoafrykańska : jungafrikia  
 respekt, honor, szacunek, poważanie : onor  
 restauracja : restoran  
 Reunion : reunion  
@@ -1730,7 +1730,7 @@ siekera, topór : futaw
 sierociniec, dom dziecka : yatimodom  
 sierota : yatim  
 sierpień : mes 5 (mes lim)  
-Sierra Leone : salone  
+Sierra Leone : salonia  
 sieć : nete  
 sikać, szczać, oddawać mocz : pixa  
 sikh : sikiste  

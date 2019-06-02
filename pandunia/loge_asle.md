@@ -661,6 +661,7 @@ pulte ← hin:पुल (pul). ben:পুল (pul). urd:(pul). fas:(pol). por:po
 punte ← spa:punto. rus:пункт "punkt". eng:point.  
 puran ← hin:पुराना "purānā". ben:পুৰণা "puron".  
 puru ← ara:"riša". mlt:rix.  
+putong ← zho:普通 (pǔtōng). yue:普通 (pou2tung1). vie:phổ thông. kor:보통 (botong).  
 pyaze ← kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.  
 ##r  
 raite ← eng:right.  
@@ -865,7 +866,8 @@ xir ← ara:"šiʿr". tur:şiir. fas:"še'r". swa:shairi. zho:诗 "shī". jpn:�
 xirope ← ara:"šarāb". por:xarope. eng:syrup. tur:şurup. jpn:シロップ "shiroppu".  
 xite ← ara:(šitāʾ). egy:(šeta). hin:शीत (śīt). ben:শীত (śīt).  
 xix ← eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.  
-xow ← eng: show.  
+xofer ← fra:eng:deu:chauffeur. spa:por:chofer. rus:шофёр (šofjor). pol:szofer. tha: โชเฟอร์ (chofoe). tur:şoför. fas:(šofer).  
+xow ← eng:deu:fra:spa:por:show. rus:шоу (šou). tur:şov. swa:shoo. tha:โชว์ (choo). kor:쇼 (syo). jpn:ショー (shō). zho:秀 (xiù).  
 xudu ← eng:should.  
 xule ← zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).  
 xute ← zho:术 (shù). yue:術 (seot6). jpn:術 (jutsu). kor:술 (sul).  
