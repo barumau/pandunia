@@ -1052,6 +1052,14 @@ then the second word **meter**, resulting into **term-o-meter** i.e.
     ____________
     = termometer    (thermometer)
 
+The linking vowel -o- is not used when the second word begins with a
+vowel. (So there is the so called _null morpheme_ -∅- instead.)
+
+          dew       (god)  
+       + iste       (proponent, -ist)
+    ____________
+    =  dewiste      (theist)
+
 
 ### 11.3. Common Suffixes
 
