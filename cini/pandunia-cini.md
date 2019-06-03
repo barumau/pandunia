@@ -6,6 +6,9 @@ adali : 公正地
 adalia : 正义  
 adres : 地址  
 adulte : 成年人  
+agres : 攻击  
+ais : 冰  
+aisokrem : 冰淇淋   
 ajil : 灵活的  
 akse : 轴线  
 alge : 藻类  
@@ -36,7 +39,6 @@ asle : 起源
 asli : 原始的  
 asme : 气喘  
 aspirin : 阿司匹林  
-atake : 攻击  
 ##b  
 babe : 章  
 badam : 杏仁  

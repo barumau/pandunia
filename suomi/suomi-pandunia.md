@@ -17,7 +17,6 @@ Afrikka : afrike
 afrikkalainen : afriki  
 afrofiili : afrikofiler  
 afrofilia : afrikofilia  
-aggressio : agres  
 Ahvenanmaa (Oolanti) : olandia  
 ai! (au!) : ay  
 aihe (teema) : tem  
@@ -339,6 +338,7 @@ hapan (kirpeä) : suan
 happi : okse  
 harja : brox  
 harjoitella (treenata) : lenxa  
+harjoitus : lenxe  
 harmonia : harmonia  
 harmoninen : harmoni  
 harrastus : hobe  
@@ -447,7 +447,8 @@ hyvää matkaa : salam cute
 hyvää ruokahalua! : salam nyam  
 hyytelö : jel  
 hyödyllinen : faidi  
-hyökkäys : atake  
+hyökkäys (aggressio) : agres  
+hyökkäävä (aggressiivinen) : agresi  
 hyönteinen (ötökkä) : koncung  
 hyöty (etu) : faide  
 häh? : he  
@@ -577,7 +578,7 @@ juustokumina (jeera) : ziran
 juutalainen : yehudi  
 juutalaisuus : yehudistia  
 jyrinä (ukkonen) : grom  
-jäinen : isi  
+jäinen : aisi  
 jänis : tuze  
 järjellinen (järkiperäinen, rationaalinen) : razoni  
 järjestelmä (systeemi) : sistem  
@@ -585,9 +586,11 @@ järjestys : ratibe
 järjestää (järjestellä) : ratiba  
 järki (järkeily, päättely) : razon  
 jäsen (osatekijä, komponentti) : member  
-jää : is  
+jää : ais  
 jäädä jäljelle : restu  
+jääkiekko : aisohoke  
 jäännös (loput) : reste  
+jäätelö : aisokrem  
 ##k  
 kaakao : kakaw  
 kaaos : haos  
@@ -897,7 +900,7 @@ kuvata (kuvailla) : grafa
 kuvitella : fantaza  
 Kuwait : kuwaitia  
 kyllä : si  
-kylmä : leng  
+kylmä : lengi  
 kylpeä : banyu  
 kylpy : banye  
 kylpyhuone : banyokamar  
@@ -1150,7 +1153,7 @@ matkatavarat : bagaje
 matkustaa : safara  
 mato : werme  
 Mauritania : muritania  
-Mauritius : moris  
+Mauritius : morisia  
 mauste : masal  
 maya (mayaintiaani) : mayan  
 Mayotte : mayote  
@@ -1506,6 +1509,7 @@ perintö : waris
 perjantai : war 5 (war lim)  
 persia (farsi) : farsi  
 Peru : peruwia  
+perua : ula  
 peruna (potaatti) : patate  
 perus- : bazi  
 perusta (perustus) : baze  
@@ -1936,7 +1940,7 @@ Sveitsi : swisia
 Swazimaa : swazia  
 sydän : xim  
 syksy (syys) : oton  
-sylkeä : tuka  
+sylkeä : tuha  
 synnyttää : jena  
 synty (syntymä) : jen  
 syntymäpäivä : jenoden  
@@ -1948,6 +1952,7 @@ Syyria : suria
 syyskuu : mes 9 (mes naw)  
 säde : rade  
 sädekehä (halo) : nurocirke  
+säe (riimi) : rim  
 sähkö : eletre  
 sähköinen : eletri  
 sähköposti : eletroposte (e-poste)  
@@ -2027,6 +2032,7 @@ tee : cay
 teehuone (kahvila) : cayeria  
 teekulho : cayowan  
 teekuppi : cayokupe  
+teettää : isa  
 tehdas : fateria  
 tehdä (valmistaa) : sana  
 tehdä : fata  

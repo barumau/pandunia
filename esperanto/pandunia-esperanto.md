@@ -20,9 +20,13 @@ afrike : Afriko
 afriki : afrika  
 afrikofiler : afrikamanto  
 afrikofilia : afrikamanteco  
-agres : agreso  
+agres : atako (agreso)  
+agresi : agresema  
 aha : kompreni  
 ainstainium : ejnŝtejnio  
+ais : glacio  
+aisi : glacia  
+aisokrem : glaciaĵo  
 ajil : lerta  
 akse : akso  
 alge : algo  
@@ -78,7 +82,6 @@ asle : origino
 asli : origina  
 asme : astmo  
 aspirin : aspirino  
-atake : atako  
 atom : atomo  
 auda : aŭdi (aŭskulti)  
 australia : Aŭstralio  
@@ -618,8 +621,7 @@ ion : iono
 irakia : Irakio  
 iran : Iranio  
 iridium : iridio  
-is : glacio  
-isi : glacia  
+isa : igi  
 islamisti xaria : ŝario  
 islamisti : islama  
 islamistia : islamo  
@@ -792,6 +794,7 @@ labe : lipo
 laje : rubo  
 lala : kuŝi  
 lampe : lampo  
+lanca : ĵeti (lanĉi)  
 lanten : lanterno  
 latwia : Latvio  
 laurensium : laŭrencio  
@@ -800,7 +803,9 @@ le : li aŭ ŝi aŭ ĝi
 lekse : vorto  
 leksia : vortaro  
 leksoliste : vortaro  
-leng : malvarma  
+lengi : malvarma  
+lenxa : ekzerci  
+lenxe : ekzerco  
 lete : somero  
 lew : jam (esti farita)  
 liga : aligi  
@@ -1287,7 +1292,7 @@ tren : trajno (vagonaro)
 trenodaw : fervojo  
 tribe : tribo  
 tube : tubo  
-tuka : sputi  
+tuha : sputi  
 tul : ilo  
 tulium : tulio  
 tundar : tundro  
@@ -1298,6 +1303,7 @@ tupay : sciuro
 turkia : Turkio  
 ##u  
 u : aŭ  
+ula : malfari  
 un : unu  
 unale : unu la alian (reciproke)  
 unali : reciproka  

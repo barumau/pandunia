@@ -20,9 +20,14 @@ afrike : Africa
 afriki : African  
 afrikofiler : afrophile  
 afrikofilia : Afrophilia  
-agres : agression (assault)  
+agres : attack (assault, aggression)  
+agresi : aggressive  
 aha : understand (realize)  
 ainstainium : einsteinium  
+ais : ice  
+aisi : icy  
+aisohoke : ice hockey  
+aisokrem : ice cream  
 ajil : agile  
 akse : axis (axle)  
 alge : alga  
@@ -90,7 +95,6 @@ asle : origin (source)
 asli : original (authentic)  
 asme : asthma  
 aspirin : aspirin  
-atake : attack  
 ate : sugar-apple (sweetsop)  
 atom : atom  
 auda : hear (listen)  
@@ -816,8 +820,7 @@ ioni radia : radioactivity (ionizing radiation)
 irakia : Iraq  
 iran : Iran  
 iridium : iridium  
-is : ice  
-isi : icy  
+isa : cause to make  
 islam : submission (surrender)  
 islamiste : muslim (moslem)  
 islamisti xaria : shari'a  
@@ -849,7 +852,7 @@ jangal : forest (jungle, woods)
 janger : artisan (craftsman)  
 jangi : crafty (dexterous)  
 jani : known  
-jar : jug (jar)  
+jar : jug (jar, pitcher)  
 jawaba : respond (give an answer)  
 jawabe : answer (reply, response)  
 jayer : Algeria  
@@ -861,9 +864,9 @@ jel : gel (jelly)
 jelos : jealous  
 jen : birth  
 jena : give birth (procreate, generate)  
-jeng : fight (war)  
+jeng : fight (war, battle, combat)  
 jenger : warrior (fighter)  
-jengi : military  
+jengi : military (martial, warlike)  
 jengoxute : martial art  
 jenoden : birthday  
 jenoklas : caste  
@@ -1159,8 +1162,9 @@ lekse : word
 leksem : lexeme  
 leksia : vocabulary (lexicon)  
 leksoliste : word list  
-leng : cold  
+lengi : cold  
 lenxa : practice (to exercise)  
+lenxe : exercise  
 lete : summer  
 letis : lettuce  
 lew : already (completed action)  
@@ -1432,7 +1436,7 @@ monster : monster
 moral : morality (ethics)  
 morfe : morph  
 morfem : morpheme  
-moris : Mauritius  
+morisia : Mauritius  
 morta : kill  
 morte : death  
 morter : killer  
@@ -1864,6 +1868,7 @@ reunion : Réunion
 rezin : resin  
 rezulte : result  
 rici : rich  
+rim : rhyme (verse)  
 ris : rice  
 riske : risk  
 riski : risky  
@@ -2226,7 +2231,7 @@ trinidade i tobage : Trinidad and Tobago
 tswania : Botswana  
 tuale : toilet (WC)  
 tube : tube (pipe)  
-tuka : spit  
+tuha : spit  
 tul : tool  
 tulium : thulium  
 tulpan : tulip  
@@ -2245,6 +2250,7 @@ tuze : rabbit (hare)
 ##u  
 u : or  
 ukraina : Ukraine  
+ula : reverse  
 ulul : howling  
 ulula : howl  
 umur : age  

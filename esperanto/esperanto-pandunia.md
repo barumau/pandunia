@@ -13,7 +13,7 @@ afrika : afriki
 afrikamanteco : afrikofilia  
 afrikamanto : afrikofiler  
 Afriko : afrike  
-agreso : agres  
+agresema : agresi  
 aj (alas) : ay  
 akcento : acente  
 akceptebla (okej) : okey  
@@ -85,7 +85,7 @@ aserti (konsenti) : amena
 aspekto : rupe  
 aspirino : aspirin  
 astmo : asme  
-atako : atake  
+atako (agreso) : agres  
 ateisto : nodewiste  
 atendi : denga  
 atomo : atom  
@@ -275,6 +275,8 @@ ekstera : way
 ekstero : waye  
 Ekvadoro : ekuador  
 ekzemplo : misal  
+ekzerci : lenxa  
+ekzerco : lenxe  
 elefanto : gaje  
 elekti : cuza  
 elekto : cuze  
@@ -412,8 +414,9 @@ generala (universala) : putong
 genro : jinse  
 germaniumo : germanium  
 gitaro : gitar  
-glacia : isi  
-glacio : is  
+glacia : aisi  
+glaciaĵo : aisokrem  
+glacio : ais  
 glavo : katan  
 gluo : glute  
 gluteno : gluten  
@@ -491,6 +494,7 @@ humuro : yumor
 iam : koy zaman  
 ideo : ide  
 ido (infano) : bace  
+igi : isa  
 ili : lole  
 ilo : tul  
 indio : indium  
@@ -743,6 +747,7 @@ majao : mayan
 malamo : hen  
 malbona : mal  
 malbonaspekta : mal rupi  
+malfari : ula  
 malferma : kay  
 malfermi : kaya  
 malfermiĝi : kayu  
@@ -763,7 +768,7 @@ malproksimeco : tele
 malsana : bing  
 malsukceso : xibay  
 maltro : min ka bas  
-malvarma : leng  
+malvarma : lengi  
 malĝoja : duki  
 malĝojo : duke  
 mana : hani  
@@ -1171,7 +1176,7 @@ spegulo : mirer
 spico : masal  
 spiro : nafas  
 sporto : kel  
-sputi : tuka  
+sputi : tuha  
 stacio : estasia  
 stadiono (areno) : estadia  
 stango : baton  
@@ -1384,6 +1389,7 @@ zuluo : zuluh
 ĝentila : keci  
 ĝirafo : jiraf  
 ĝusta (prava) : sahi  
+ĵeti (lanĉi) : lanca  
 ĵetkubo : dade  
 ĵudo : judo  
 ĵus : gang  

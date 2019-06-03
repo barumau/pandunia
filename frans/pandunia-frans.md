@@ -20,9 +20,10 @@ afrike : Afrique
 afriki : africain  
 afrikofiler : afrophile  
 afrikofilia : afrophilie  
-agres : agression  
+agres : agression (attaque)  
 aha : comprendre (réaliser)  
 ainstainium : Einsteinium  
+aisokrem : crème glacée  
 ajil : agile  
 akse : axe  
 alge : algue  
@@ -79,7 +80,6 @@ asle : origine
 asli : originel  
 asme : asthme  
 aspirin : aspirine  
-atake : attaque  
 ##b  
 babe : chapitre  
 badam : amande  
@@ -138,6 +138,7 @@ papagay : perroquet
 pike : cime (pic, sommet)  
 piratia : piraterie  
 ##r  
+rim : rime  
 ruhe : psyché  
 ruholojia : psychologie  
 ##s  

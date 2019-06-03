@@ -20,9 +20,14 @@ ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Af
 			afriki	:	African	afrika	afrikkalainen	afrykański, Afrykanin			africain					
 			afrikofiler	:	afrophile	afrikamanto	afrofiili	afrofil			afrophile					
 			afrikofilia	:	Afrophilia	afrikamanteco	afrofilia	afrofilia			afrophilie					
-eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão.			agres	:	agression (assault)	agreso	aggressio	agresja, napaść			agression					
+eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão. ind:agresif.			agres	:	attack (assault, aggression)	atako (agreso)	hyökkäys (aggressio)	atak (agresja, napaść)	ataque	ataque	agression (attaque)	攻击	нападение (атака)	आक्रमण	menarik	saldırı
+			agresi	:	aggressive	agresema	hyökkäävä (aggressiivinen)									
 rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.			aha	:	understand (realize)	kompreni	oivaltaa (tajuta)	rozumieć, pojmować			comprendre (réaliser)					
 	made	Es	ainstainium	:	einsteinium	ejnŝtejnio	einsteinium	einstein			Einsteinium					
+eng:ice. deu:Eis. ind:és.			ais	:	ice	glacio	jää	lód				冰				
+			aisi	:	icy	glacia	jäinen	lodowy								
+			aisohoke	:	ice hockey		jääkiekko									
+eng:ice cream. jpn:アイスクリーム (aisukurīmu). kor:아이스크림 (aiseukeurim). hin:आइसक्रीम (āisakrīm). urd:(āisakrīm). ben:আইসক্রীম (aisôkrīm). tha:ไอศกรีม (ai-sà-griim). ind:es krim. swa:aiskrimu. tam:ஐஸ் கிரீம் (ais kirīm). tel:(ais krīm).			aisokrem	:	ice cream	glaciaĵo	jäätelö	lody	helado	sorvete (gelado)	crème glacée	冰淇淋 	мороженое	आइसक्रीम	es krim	
 			ajil	:	agile	lerta	ketterä	zwinny, sprawny	ágil	ágil	agile	灵活的	подвижный	फुर्तीला	lincah	çevik
 eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.			akse	:	axis (axle)	akso	akseli	oś	eje		axe	轴线	ось	धुरी	as (poros, paksi)	eksen
 deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.			alge	:	alga	algo	levä	alga (wodorost)	alga	alga	algue	藻类	водоросли	शैवाल	lumut (alga)	yosun
@@ -90,7 +95,6 @@ ara:(ʾaṣl). tur:asl. ind:asal. hin:असल (asl).			asle	:	origin (source)	
 			asli	:	original (authentic)	origina	alkuperäinen	źródłowy, początkowy, oryginalny	original	original	originel	原始的			asli	
 fra:asthme. eng:asthma. spa:por:ind:asma. pol:astma.			asme	:	asthma	astmo	astma	astma	asma	asma	asthme	气喘	астма	श्वासरोग	bengek	astım
 			aspirin	:	aspirin	aspirino	aspiriini	aspiryna	aspirina	aspirina	aspirine	阿司匹林	аспирин		aspirin	aspirin
-			atake	:	attack	atako	hyökkäys	atak	ataque	ataque	attaque	攻击	нападение (атака)	आक्रमण	menarik	saldırı
 fra:atte. por:ata. ben:আতা (ata). tgl:atis. som:aat.			ate	:	sugar-apple (sweetsop)			jabłko cukrowe								
 			atom	:	atom	atomo	atomi	atom								
 			auda	:	hear (listen)	aŭdi (aŭskulti)	kuulla (kuunnella)	usłyszeć, słyszeć; słuchać								
@@ -808,8 +812,7 @@ eng:fra:spa:ion. rus:ион (ion). tur:iyon.			ion	:	ion	iono	ioni	jon
 	dex	IQ	irakia	:	Iraq	Irakio	Irak	Irak								
 	dex	IR	iran	:	Iran	Iranio	Iran	Iran								
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd								
-sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.			is	:	ice	glacio	jää	lód								
-			isi	:	icy	glacia	jäinen	lodowy								
+			isa	:	cause to make	igi	teettää									
 ara:(ʾislām). fas:(taslim). tur:teslim.			islam	:	submission (surrender)		alistuminen (antautuminen)	poddanie się, uległość, pokora, posłuszeństwo								
 			islamiste	:	muslim (moslem)		muslimi (islaminuskoinen)	muzułman, muzułmanin								
 			islamisti	:	Islamic	islama	islamilainen	islamski								
@@ -840,21 +843,21 @@ hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:j�
 zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng). 			janger	:	artisan (craftsman)	metiisto	artesaani (käsityöläinen)	rzemieślnik				工匠 (匠人)				
 			jangi	:	crafty (dexterous)		kätevä	umiejętny (sprawny, zręczny)								
 			jani	:	known		tietty (tunnettu)	wiadomy, znany								
-			jar	:	jug (jar)		kannu (karahvi)	dzban, dzbanek; słój, słoik								
+eng:jar. ara:(jara). por:spa:jarra.			jar	:	jug (jar, pitcher)		kannu (karahvi)	dzban, dzbanek; słój, słoik								
 			jawaba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać								
 ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.			jawabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew								
 	dex	DZ	jayer	:	Algeria		Algeria	Algieria								
 			jayistia	:	Jainism		jainalaisuus	dźinizm, dżinizm								
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez								
-hin:जेब (jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń								
+hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń								
 ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.			jebria	:	algebra		algebra	algebra								
 eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).			jel	:	gel (jelly)	ĝelo	hyytelö	żel, galareta								
 			jelos	:	jealous		kade (kateellinen)	zazdrosny								
 hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.			jen	:	birth	nasko	synty (syntymä)	narodziny								
 			jena	:	give birth (procreate, generate)	naskigi	synnyttää	urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić								
-zho:爭 (zhēng). tur:ceng. fas:(jang). hin:जंग (jang). vie:tranh.			jeng	:	fight (war)	milito (batalo)	taistelu (sota)	walka, wojna								
+zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).			jeng	:	fight (war, battle, combat)	milito (batalo)	taistelu (sota)	walka, wojna								
 			jenger	:	warrior (fighter)		soturi (taistelija)	wojownik, bojownik								
-			jengi	:	military	milita	sotilaallinen	militarny, wojskowy, wojenny								
+			jengi	:	military (martial, warlike)	milita	sotilaallinen	militarny, wojskowy, wojenny								
 zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.			jengoxute	:	martial art		kamppailulaji	sztuka walki								
 			jenoden	:	birthday	naskiĝtago	syntymäpäivä	urodziny								
 			jenoklas	:	caste		sääty (kasti)									
@@ -1041,10 +1044,10 @@ eng:command. fra:commandement. rus:команда (komanda). spa:mandato.			koma
 eng:comma. deu:Komma. jpn:コンマ (konma). kor:콤마 (komma). ind:koma.			kome	:	comma		pilkku	przecinek								
 	dex	KM	komori nesia	:	Comoros		Komorit	Komory								
 eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.			kompania	:	company (corporation)	kompanio (firmao)	yritys (yhtiö)	firma, kompania, korporacja								
-			komuna	:	share		jakaa yhteiseksi									
 eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć, liczyć, przetwarzać dane								
 			komputer	:	computer	komputero	tietokone	komputer	ordenador	computador	ordinateur	计算机	компьютер	कम्प्यूटर	komputer	bilgisayar
 			komun	:	common (shared)	komuna	yhteinen	wspólny								
+			komuna	:	share		jakaa yhteiseksi									
 			komuniste	:	communist	komunisto	kommunisti	komunista								
 			komunistia	:	communism	komunismo	kommunismi	komunizm								
 hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.			kon	:	corner (angle)	angulo	kulma (nurkka)	kąt						कोण		
@@ -1128,7 +1131,7 @@ zho:垃圾 (lājī).			laje	:	garbage (rubbish, trash)	rubo	roska	śmieć, odpad
 			lake	:	lacquer (varnish)		lakka	lakier								
 swa:-lala.			lala	:	lie (lie down)	kuŝi	maata (makoilla)	leżeć								
 fra:deu:lampe. eng:lamp. ind:lampu.			lampe	:	lamp	lampo	lamppu	lampa								
-			lanca	:	throw (launch)		heittää (paiskata)	rzucić, rzucać, miotać, cisnąć, ciskać								
+eng:launch. ita:lanciare. por:lançar. fra:lancer. spa:lanzar. deu:lancieren.			lanca	:	throw (launch)	ĵeti (lanĉi)	heittää (paiskata)	rzucić, rzucać, miotać, cisnąć, ciskać								
 zho:栏杆 (lángān). jpn:欄干 (rankan). kor:난간 (nan-gan).			langan	:	banister (handrail)		kaide (reelinki)	poręcz (balustrada)								
 	dex	LK	lankia	:	Sri Lanka (Ceylon)		Sri Lanka	Sri Lanka								
 eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "rantan". kor:랜턴 "raenteon". + zho:灯笼 "dēnglóng". vie:đèn lồng. may:tanglung.			lanten	:	lantern	lanterno	lyhty	latarnia								
@@ -1148,8 +1151,9 @@ eng:left.			lefte	:	left		vasen
 			leksem	:	lexeme		lekseemi	leksem								
 			leksia	:	vocabulary (lexicon)	vortaro	sanasto	słownictwo								
 			leksoliste	:	word list	vortaro	sanaluettelo	lista słów								
-zho: 冷 (lěng). vie: lạnh.			leng	:	cold	malvarma	kylmä	zimny, chłodny								
-			lenxa	:	practice (to exercise)		harjoitella (treenata)	ćwiczyć								
+zho: 冷 (lěng). vie: lạnh. yue:冷 (laang5).			lengi	:	cold	malvarma	kylmä	zimny, chłodny								
+			lenxa	:	practice (to exercise)	ekzerci	harjoitella (treenata)	ćwiczyć								
+zho:练习 (liànxí). jpn:練習 (renshū). kor:련습 (ryeonseup).			lenxe	:	exercise	ekzerco	harjoitus									
 fra:l'été. rus:лето (leto). cze:léto. scr:leto.	mosim		lete	:	summer	somero	kesä (suvi)	lato								
 			letis	:	lettuce		lehtisalaatti	sałata								
 tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). yue:了 (liu).			lew	:	already (completed action)	jam (esti farita)	jo (tehty teko)	już (skończona czynność)								
@@ -1420,7 +1424,7 @@ ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, 
 			moral	:	morality (ethics)		moraali (etiikka)	moralność, etyka								
 			morfe	:	morph		morfi	morf								
 			morfem	:	morpheme		morfeemi	morfem								
-	dex	MU	moris	:	Mauritius		Mauritius	Mauritius								
+	dex	MU	morisia	:	Mauritius		Mauritius	Mauritius								
 			morta	:	kill	mortigi	tappaa	zabić, zabijać								
 			morte	:	death	morto	kuolema (kuolo)	śmierć								
 			morter	:	killer	mortigisto	tappaja	zabójca								
@@ -1848,6 +1852,7 @@ fra:reste. eng:deu:Rest. pol:reszta. spa:por:resto.			reste	:	rest (remainder)		
 eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.			rezin	:	resin	rezino	pihka (hartsi)	żywica								
 			rezulte	:	result		tulos	rezult, wynik								
 eng:rich. fra:riche. por:spa:rico.			rici	:	rich		rikas	bogaty								
+spa:por:rima. fra:rime. eng:rhyme. pol:rym. deu:Reim. ukr:рима (rima).			rim	:	rhyme (verse)		säe (riimi)		rima	rima	rime		рифма			
 			ris	:	rice		riisi	ryż								
 			riske	:	risk	risko	riski	ryzyko								
 			riski	:	risky		riskialtis	ryzykowny								
@@ -2208,7 +2213,7 @@ fra:spa:tribu. por:tgl:tribo. eng:tribe.			tribe	:	tribe	tribo	heimo	plemię
 	dex	BW	tswania	:	Botswana		Botswana	Botswana								
 			tuale	:	toilet (WC)		vessa	taleta, WC								
 spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.			tube	:	tube (pipe)	tubo	putki (tuubi)	tuba, rura								
-hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.			tuka	:	spit	sputi	sylkeä	pluć								
+hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.			tuha	:	spit	sputi	sylkeä	pluć								
 eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.			tul	:	tool	ilo	työkalu	narzędzie								
 	made	Tm	tulium	:	thulium	tulio		tul								
 			tulpan	:	tulip		tulppaani	tulipan								
@@ -2226,6 +2231,7 @@ may:ind:tupai.			tupay	:	squirrel	sciuro	orava	wiewiórka
 zho:兔子 (tùzi). yue:兔仔 (tou3zai2).			tuze	:	rabbit (hare)		jänis	królik, zając			lapin, lièvre					
 fra:ou. por:ou.			u	:	or	aŭ	tai (vai)	lub, albo								
 	dex	UA	ukraina	:	Ukraine		Ukraina	Ukraina								
+			ula	:	reverse	malfari	perua									
 			ulul	:	howling		ulvonta	wycie, skowyt								
 			ulula	:	howl		ulvoa	wyć								
 ara:(umr). ind:umur. swa:umri. hin:urd:(umar).			umur	:	age		ikä	wiek								
@@ -2360,7 +2366,7 @@ zho:信 (xìn). yue:信 (seon3). jpn:信 (shin). vie:tin.			xin	:	belief (faith,
 			xina	:	believe	kreda	uskoa (luottaa)	wierzyć								
 jpn:神道 (shintō). kor:신도 (sindo). zho:神道 (shéndào).			xindawistia	:	Shintoism		sintolaisuus	shintoizm, sintoizm								
 zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).			xing	:	star	stelo	tähti	gwiazda			étoile					
-ara:"šiʿr". tur:şiir. fas:"še'r". swa:shairi. zho:诗 "shī". jpn:詩 "shi". kor:시 "ši". 			xir	:	poem	poemo	runo	poemat								
+heb:שיר (šir). ara:(šiʿr). tur:şiir. fas:(še'r). swa:shairi. zho:诗 (shī). yue:詩 (si1). jpn:詩 (shi). kor:시 (shi). 			xir	:	poem	poemo	runo	poemat								
 			xirer	:	poet		runoilija	poeta								
 ara:"šarāb". por:xarope. eng:syrup. tur:şurup. jpn:シロップ "shiroppu".			xirope	:	syrup	siropo	siirappi	syrop								
 ara:(šitāʾ). egy:(šeta). hin:शीत (śīt). ben:শীত (śīt).			xite	:	winter	vintro	talvi	zima								

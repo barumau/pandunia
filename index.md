@@ -7,7 +7,7 @@
 
 #### [bahasa Melayu/Indonesia](malay/index.md) 🇮🇩 🇲🇾
 
-#### [English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺
+#### [English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺 🇳🇿
 
 #### [español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
 

@@ -12,7 +12,7 @@ Afrique : afrike
 afrophile : afrikofiler  
 afrophilie : afrikofilia  
 agile : ajil  
-agression : agres  
+agression (attaque) : agres  
 aimer : ama  
 aire (superficie) : are  
 alcool : alkol  
@@ -56,7 +56,6 @@ asiatique : asi
 Asie : asia  
 aspirine : aspirin  
 asthme : asme  
-attaque : atake  
 autel : altar  
 autre : ali  
 avoir : tena  
@@ -81,6 +80,7 @@ corps : badan
 cosmique : kosmi  
 cosmos : kosmia  
 couronne : koron  
+crème glacée : aisokrem  
 ##d  
 destin (destination) : destin  
 diamant : almas  
@@ -140,6 +140,7 @@ propriété (possession, bien) : malke
 psychologie : ruholojia  
 psyché : ruhe  
 ##r  
+rime : rim  
 ruban (bande) : tepe  
 ##s  
 salle de bains : banyokamar  

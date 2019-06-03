@@ -20,9 +20,14 @@ afrike : Afrikka
 afriki : afrikkalainen  
 afrikofiler : afrofiili  
 afrikofilia : afrofilia  
-agres : aggressio  
+agres : hyökkäys (aggressio)  
+agresi : hyökkäävä (aggressiivinen)  
 aha : oivaltaa (tajuta)  
 ainstainium : einsteinium  
+ais : jää  
+aisi : jäinen  
+aisohoke : jääkiekko  
+aisokrem : jäätelö  
 ajil : ketterä  
 akse : akseli  
 alge : levä  
@@ -90,7 +95,6 @@ asle : alkuperä
 asli : alkuperäinen  
 asme : astma  
 aspirin : aspiriini  
-atake : hyökkäys  
 atom : atomi  
 auda : kuulla (kuunnella)  
 australia : Australia  
@@ -814,8 +818,7 @@ ioni radia : radioaktiivisuus
 irakia : Irak  
 iran : Iran  
 iridium : iridium  
-is : jää  
-isi : jäinen  
+isa : teettää  
 islam : alistuminen (antautuminen)  
 islamiste : muslimi (islaminuskoinen)  
 islamisti xaria : šaria  
@@ -1157,8 +1160,9 @@ lekse : sana
 leksem : lekseemi  
 leksia : sanasto  
 leksoliste : sanaluettelo  
-leng : kylmä  
+lengi : kylmä  
 lenxa : harjoitella (treenata)  
+lenxe : harjoitus  
 lete : kesä (suvi)  
 letis : lehtisalaatti  
 lew : jo (tehty teko)  
@@ -1429,7 +1433,7 @@ monster : hirviö
 moral : moraali (etiikka)  
 morfe : morfi  
 morfem : morfeemi  
-moris : Mauritius  
+morisia : Mauritius  
 morta : tappaa  
 morte : kuolema (kuolo)  
 morter : tappaja  
@@ -1859,6 +1863,7 @@ reunion : Reunion
 rezin : pihka (hartsi)  
 rezulte : tulos  
 rici : rikas  
+rim : säe (riimi)  
 ris : riisi  
 riske : riski  
 riski : riskialtis  
@@ -2187,7 +2192,7 @@ trinidade i tobage : Trinidad ja Tobago
 tswania : Botswana  
 tuale : vessa  
 tube : putki (tuubi)  
-tuka : sylkeä  
+tuha : sylkeä  
 tul : työkalu  
 tulpan : tulppaani  
 tundar : tundra  
@@ -2205,6 +2210,7 @@ tuze : jänis
 ##u  
 u : tai (vai)  
 ukraina : Ukraina  
+ula : perua  
 ulul : ulvonta  
 ulula : ulvoa  
 umur : ikä  

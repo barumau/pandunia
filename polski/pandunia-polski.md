@@ -20,9 +20,12 @@ afrike : Afryka
 afriki : afrykański, Afrykanin  
 afrikofiler : afrofil  
 afrikofilia : afrofilia  
-agres : agresja, napaść  
+agres : atak (agresja, napaść)  
 aha : rozumieć, pojmować  
 ainstainium : einstein  
+ais : lód  
+aisi : lodowy  
+aisokrem : lody  
 ajil : zwinny, sprawny  
 akse : oś  
 alge : alga (wodorost)  
@@ -88,7 +91,6 @@ asle : źródło, początek, pochodzenie
 asli : źródłowy, początkowy, oryginalny  
 asme : astma  
 aspirin : aspiryna  
-atake : atak  
 ate : jabłko cukrowe  
 atom : atom  
 auda : usłyszeć, słyszeć; słuchać  
@@ -792,8 +794,6 @@ ioni radia : radioaktywność
 irakia : Irak  
 iran : Iran  
 iridium : iryd  
-is : lód  
-isi : lodowy  
 islam : poddanie się, uległość, pokora, posłuszeństwo  
 islamiste : muzułman, muzułmanin  
 islamisti xaria : szariat  
@@ -1120,7 +1120,7 @@ lekse : słowo
 leksem : leksem  
 leksia : słownictwo  
 leksoliste : lista słów  
-leng : zimny, chłodny  
+lengi : zimny, chłodny  
 lenxa : ćwiczyć  
 lete : lato  
 letis : sałata  
@@ -1379,7 +1379,7 @@ monster : potwór, monstrum
 moral : moralność, etyka  
 morfe : morf  
 morfem : morfem  
-moris : Mauritius  
+morisia : Mauritius  
 morta : zabić, zabijać  
 morte : śmierć  
 morter : zabójca  
@@ -2144,7 +2144,7 @@ trinidade i tobage : Trynidad i Tobago
 tswania : Botswana  
 tuale : taleta, WC  
 tube : tuba, rura  
-tuka : pluć  
+tuha : pluć  
 tul : narzędzie  
 tulium : tul  
 tulpan : tulipan  

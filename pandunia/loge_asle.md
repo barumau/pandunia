@@ -42,8 +42,10 @@ abla ← eng:able. spa:hábil. fra:habile. ron:abil.
 acente ← ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.  
 adalia ← ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). fas:urd:('adālat).  
 afrike ← ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.  
-agres ← eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão.  
+agres ← eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão. ind:agresif.  
 aha ← rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.  
+ais ← eng:ice. deu:Eis. ind:és.  
+aisokrem ← eng:ice cream. jpn:アイスクリーム (aisukurīmu). kor:아이스크림 (aiseukeurim). hin:आइसक्रीम (āisakrīm). urd:(āisakrīm). ben:আইসক্রীম (aisôkrīm). tha:ไอศกรีม (ai-sà-griim). ind:es krim. swa:aiskrimu. tam:ஐஸ் கிரீம் (ais kirīm). tel:(ais krīm).  
 akse ← eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.  
 alge ← deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.  
 ali ← ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.  
@@ -353,7 +355,6 @@ infece ← cze:infekce. ita:infezione. eng:infection. por:infecção. tur:enfeks
 insan ← ara:"ʔinsan". hin:इंसान "insān". tur:insan. urd:"insān". fas:"ensān".  
 insulta ← eng:insult. fra:insulter. spa:por:insultar.  
 ion ← eng:fra:spa:ion. rus:ион (ion). tur:iyon.  
-is ← sve:dan:nor:is. isl:ís. ind:és. eng: ice. deu: Eis.  
 islam ← ara:(ʾislām). fas:(taslim). tur:teslim.  
 izi ← eng:easy. fra:aisée.  
 ##j  
@@ -366,12 +367,13 @@ jan ← hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). p
 janel ← por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.  
 jangal ← hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:jângal. eng:jungle. rus: джу́нгли (džúngli). deu:Dschungel.  
 janger ← zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng).   
+jar ← eng:jar. ara:(jara). por:spa:jarra.  
 jawabe ← ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.  
-jebe ← hin:जेब (jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.  
+jebe ← hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.  
 jebria ← ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.  
 jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).  
 jen ← hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.  
-jeng ← zho:爭 (zhēng). tur:ceng. fas:(jang). hin:जंग (jang). vie:tranh.  
+jeng ← zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).  
 jengoxute ← zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.  
 jina ← zho:進 (jìn). jpn:進 (shin, jin). kor:진 (jin). vie:tiến.  
 jinse ← ara:urd:(jins). fas:(jens). swa:jinsia. tur:cins(iyet). por:gênero. eng:gender.  
@@ -477,12 +479,14 @@ labe ← fas:urd:(lab). hin:लब (lab). uzb:lab. tgl:labi. spa:labio. por:láb
 laje ← zho:垃圾 (lājī).  
 lala ← swa:-lala.  
 lampe ← fra:deu:lampe. eng:lamp. ind:lampu.  
+lanca ← eng:launch. ita:lanciare. por:lançar. fra:lancer. spa:lanzar. deu:lancieren.  
 langan ← zho:栏杆 (lángān). jpn:欄干 (rankan). kor:난간 (nan-gan).  
 lanten ← eng:lantern. hin:लालटेन "lālṭen". jpn:ランタン "rantan". kor:랜턴 "raenteon". + zho:灯笼 "dēnglóng". vie:đèn lồng. may:tanglung.  
 larwe ← deu:fra:larve. eng:tur:larva. hin:लार्वा (lārvā). urd:(lārvā). pol:larwa.  
 laya ← vie: lại. zho: 来 "lái".  
 lefte ← eng:left.  
-leng ← zho: 冷 (lěng). vie: lạnh.  
+lengi ← zho: 冷 (lěng). vie: lạnh. yue:冷 (laang5).  
+lenxe ← zho:练习 (liànxí). jpn:練習 (renshū). kor:련습 (ryeonseup).  
 lete ← fra:l'été. rus:лето (leto). cze:léto. scr:leto.  
 lew ← tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). yue:了 (liu).  
 libu ← zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".  
@@ -680,6 +684,7 @@ reside ← fas:(resid). hin:रसीद (rasīd). urd:(rasīd). guj:રસી�
 reste ← fra:reste. eng:deu:Rest. pol:reszta. spa:por:resto.  
 rezin ← eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.  
 rici ← eng:rich. fra:riche. por:spa:rico.  
+rim ← spa:por:rima. fra:rime. eng:rhyme. pol:rym. deu:Reim. ukr:рима (rima).  
 rite ← eng:fra:rite. spa:por:rito. ben:রীতি (rīti). hin:urd:(rīti).  
 robote ← eng:robot;robo-. por:robô. fra:robot. tam:ரோபோ (rōpō). rus:робот (robot).  
 romanse ← fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).  
@@ -799,7 +804,7 @@ trans ← eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).
 tren ← eng:fra:train. spa:tur:tren. hin:ट्रेन "ṭren".  
 tribe ← fra:spa:tribu. por:tgl:tribo. eng:tribe.  
 tube ← spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.  
-tuka ← hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.  
+tuha ← hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.  
 tul ← eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.  
 tunike ← spa:túnica. eng:tunic. rus:туника (tunika).  
 tupay ← may:ind:tupai.  
@@ -862,7 +867,7 @@ xim ← kor: 심 (shim). zho:心 (xīn). jpn:心 (shin). yue:心 (sam1). hak:心
 xin ← zho:信 (xìn). yue:信 (seon3). jpn:信 (shin). vie:tin.  
 xindawistia ← jpn:神道 (shintō). kor:신도 (sindo). zho:神道 (shéndào).  
 xing ← zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).  
-xir ← ara:"šiʿr". tur:şiir. fas:"še'r". swa:shairi. zho:诗 "shī". jpn:詩 "shi". kor:시 "ši".   
+xir ← heb:שיר (šir). ara:(šiʿr). tur:şiir. fas:(še'r). swa:shairi. zho:诗 (shī). yue:詩 (si1). jpn:詩 (shi). kor:시 (shi).   
 xirope ← ara:"šarāb". por:xarope. eng:syrup. tur:şurup. jpn:シロップ "shiroppu".  
 xite ← ara:(šitāʾ). egy:(šeta). hin:शीत (śīt). ben:শীত (śīt).  
 xix ← eng:shh. zho: "xū". rus:ш-ш-ш. tur:sus.  

@@ -6,7 +6,6 @@ afrofil : afrikofiler
 afrofilia : afrikofilia  
 Afryka : afrike  
 afrykański, Afrykanin : afriki  
-agresja, napaść : agres  
 aj!, ał! : ay  
 akcent, nacisk : acente  
 akt, scena : roler  
@@ -65,7 +64,7 @@ aspiryna : aspirin
 astma : asme  
 Asyria : axuria  
 Aszur : axur  
-atak : atake  
+atak (agresja, napaść) : agres  
 atleta, sportowiec : kelele  
 atom : atom  
 Australia : australia  
@@ -880,7 +879,8 @@ listopad : mes 8 (mes bal)
 lit : litium  
 litera, znak : harfe  
 litr : litre  
-lodowy : isi  
+lodowy : aisi  
+lody : aisokrem  
 logika, dedukcja : logike  
 logofil (miłośnik słów) : logofiler  
 lorens : laurensium  
@@ -896,7 +896,7 @@ lustro : mirer
 lutet : lutetium  
 luty : mes 10 (mes des)  
 luźna rozmowa, gadanina : blabla  
-lód : is  
+lód : ais  
 ##m  
 Madagaskar : madagasia  
 madagaskarski; malagaski : madagasi  
@@ -951,7 +951,7 @@ materia, substancja : mate
 materialny : mati  
 matka, mama : mame  
 Mauretania : muritania  
-Mauritius : moris  
+Mauritius : morisia  
 Maya : mayan  
 mały, mini- : mini  
 mały; mało, trochę, nieco : lil  
@@ -1367,7 +1367,7 @@ plecak : rukosake
 plemię : tribe  
 Pluton (planeta karłowata) : pluto  
 pluton : plutonium  
-pluć : tuka  
+pluć : tuha  
 pobożny : darmi  
 pochochodnia (latarka) : nurobaton  
 pociąg : tren  
@@ -2278,7 +2278,7 @@ ziemniak : patate
 ziggurat : zikur  
 zima : xite  
 Zimbabwe : zimbabwe  
-zimny, chłodny : leng  
+zimny, chłodny : lengi  
 Zjednoczone Królestwo : britania  
 zjednoczony : uni  
 zmienić, zmieniać : muta  

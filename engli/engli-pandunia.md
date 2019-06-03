@@ -27,9 +27,9 @@ Afrophilia : afrikofilia
 afternoon : xamoden  
 again (repeatedly) : repi  
 age : umur  
+aggressive : agresi  
 agile : ajil  
 agreement (amen) : amen  
-agression (assault) : agres  
 air : hawe  
 airplane : wiman  
 Aland Islands : olandia  
@@ -122,7 +122,7 @@ atheist : nodewiste
 athlete (sportsman) : keler  
 atmospheric pressure : hawobar  
 atom : atom  
-attack : atake  
+attack (assault, aggression) : agres  
 attraction (-philia) : filia  
 attribute (charasteristic, quality, feature, description) : sife  
 August : mes 8 (mes bal)  
@@ -359,6 +359,7 @@ cat : maw
 Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
 cause (be the cause for) : saba  
+cause to make : isa  
 cave : gua  
 Cayman Islands : keiman da nesia  
 celebrate (party) : festa  
@@ -441,7 +442,7 @@ coffee : kafe
 coffee cup : kafokupe  
 cola : kola  
 cold (illness) : zukam  
-cold : leng  
+cold : lengi  
 collect (gather, bring together) : jama  
 collection (congregation, assembly) : jamia  
 collective : jami  
@@ -715,6 +716,7 @@ except (minus) : minus
 exchange (swap, replace) : badala  
 exclude (except, save) : cula  
 excrement (shit) : kake  
+exercise : lenxe  
 exist (be present) : zayu  
 exit (leaving) : cute  
 exit door : cutomun  
@@ -757,7 +759,7 @@ feel : gama
 female : fem  
 fermium : fermium  
 fiever : feber  
-fight (war) : jeng  
+fight (war, battle, combat) : jeng  
 figure (representation) : figur  
 Fiji : fijia  
 fill : fula  
@@ -1017,9 +1019,11 @@ hybrid (mongrel) : hibride
 hydrogen : hidre  
 I (me) : me  
 ##i  
-ice : is  
+ice : ais  
+ice cream : aisokrem  
+ice hockey : aisohoke  
 Iceland : islandia  
-icy : isi  
+icy : aisi  
 idea (concept, notion) : ide  
 if (suppose, assume) : gar  
 ill (sick) : bing  
@@ -1097,7 +1101,7 @@ Judaism : yehudistia
 judge (referee) : hakimer  
 judgment (sentence) : hakim  
 judo : judo  
-jug (jar) : jar  
+jug (jar, pitcher) : jar  
 juice : jus  
 July : mes 7 (mes sem)  
 jump : jampa  
@@ -1302,7 +1306,7 @@ matter (substance) : mate
 mattress : matras  
 mature (ripe, adult) : matur  
 Mauritania : muritania  
-Mauritius : moris  
+Mauritius : morisia  
 maximal : maximi  
 May : mes 5 (mes lim)  
 Maya : mayan  
@@ -1339,7 +1343,7 @@ Mexico : mexikia
 micro- : mikro-  
 Micronesia : mikronesia  
 middle (center) : jung  
-military : jengi  
+military (martial, warlike) : jengi  
 milk (draw milk) : tira milke  
 milk : milke  
 miller : moler  
@@ -1839,9 +1843,11 @@ rest (remainder) : reste
 restaurant : restoran  
 result : rezulte  
 return (restore, recover, resume) : fuga  
+reverse : ula  
 rhenium : renium  
 rhinoceros : faru  
 rhodium : rodium  
+rhyme (verse) : rim  
 rhythm (beat) : ritme  
 rib cage : sinokase  
 rice : ris  
@@ -2057,7 +2063,7 @@ speedometer : rapometer
 spice (seasoning) : masal  
 spider : arane  
 spiral (helix, corkscrew, twist) : helis  
-spit : tuka  
+spit : tuha  
 split (fall apart) : fenu  
 spoon : camce  
 sport (athletics) : kel  

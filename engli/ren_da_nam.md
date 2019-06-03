@@ -25,6 +25,7 @@ widely used for girls or boys.
 **alekse** : Alexander, Alexandra, Alejandro, Aleksey, Alix  
 **alih** : Ali  
 **aman** : Amaan, Amani  
+**ane** : Ann, Anne, Anna  
 **andre** : Andrew, André, Andrey, Indra  
 **anike** : Anik, Annika, Anneke  
 **anton** : Anthony, Antoin, Antonio, Anton  
@@ -37,6 +38,7 @@ widely used for girls or boys.
 **benyam** : Benjamin, Benny  
 **boris** : Boris  
 **daniel** : Daniel, Danny, Daniil  
+**dawide** : Dadid, Davido  
 **denis** : Dennis, Denise, Deniz  
 **dimitre** : Dmitry  
 **dipake** : Deepak  
@@ -50,7 +52,7 @@ widely used for girls or boys.
 **federike** : Frederic, Fredrick, Friedrich, Federico  
 **filipe** : Philip, Philipe, Felipe  
 **hamide** : Hamid, Hameed  
-**hanah** : Hannah, Ann, Anne, Anna  
+**hanah** : Hannah  
 **hasan** : Hassan, Hasani  
 **henre** : Henry, Henrick  
 **herman** : Herman, German  
@@ -60,13 +62,14 @@ widely used for girls or boys.
 **ilia** : Ilia, Ilya  
 **iris** : Iris, Ira  
 **irwin** : Irwin  
+**isake** : Isaac, Yitzhak  
 **ixan** : Ishaan  
 **jafar** : Jafar  
 **jamal** : Jamal, Jamaal  
 **jorje** : George, Giorgi, Jorje  
 **kabir** : Kabir  
 **karim** : Karim, Kareem, Kerem  
-**karle** : Karl, Charles  
+**karle** : Karl, Carlos, Charles  
 **konstan** : Constantine, Konstantin, Constance  
 **kristian** : Christian, Cristiano  
 **kristof** : Christopher, Cristofor, Cristobál, Krzysztof  
@@ -87,7 +90,7 @@ widely used for girls or boys.
 **maryam** : Meryem  
 **matew** : Matthew, Matt, Matteo, Matvei  
 **mihael** : Michael, Michel, Mihayl  
-**moseh** : Moses, Musa  
+**moseh** : Moses, Moshe, Musa  
 **muhamade** : Muhammad, Mohammed  
 **mustaf** : Mustafa  
 **nadir** : Nadira  
@@ -99,14 +102,17 @@ widely used for girls or boys.
 **priyah** : Priyanka, Priya  
 **rahul** : Rahul, Rahool  
 **raje** : Raj, Rajabu  
-**rebekah** : Rebeccah  
+**rebeke** : Rebeccah  
 **roberte** : Robert, Roberto, Roberta  
 **robin** : Robin, Robyn, Robbin  
+**ruben** : Reuben, Ruben  
+**rute** : Ruth  
 **saide** : Said, Saeed, Sayyid  
 **salah** : Salah, Salehe  
 **samuel** : Samuel, Sam, Sammy  
 **sarah** : Sarah, Sara  
 **sebastian** : Sebastian, Bastian  
+**sesil** : Cecil, Cécile  
 **sidarte** : Siddhartha  
 **tania** : Tanya  
 **tomas** : Thomas, Tomaso, Tom, Tommy  
@@ -115,7 +121,7 @@ widely used for girls or boys.
 **witor** : Victor, Victoria, Viktor  
 **wijay** : Vijay  
 **yakobe** : Jacob, Yakub, Jakub, Yakov  
-**yesus** : Jesus, Yesu, Isa  
+**yesuh** : Jesus, Yesu, Isa  
 **yohan** : John, Joan, Johan, Johannes, Juan, Giovanni, Ivan  
 **yosef** : Joseph, Yusef, Yusuf  
 **yulia** : Julius, Julia, Julian, Juliet, Yulian, Yulia  
