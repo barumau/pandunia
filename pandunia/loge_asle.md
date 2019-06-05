@@ -640,6 +640,7 @@ pike ← eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.
 pil ← eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).  
 pimente ← spa:pimienta. tgl:pamenta.  
 pin ← eng:pin. jpn:"pin". kor:"pin".  
+ping ← zho:平 (píng).  
 pinser ← eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).  
 pipinga ← zho:批评 "pīpíng". vie:phê bình. kor:비평 "bipyeong".  
 piram ← eng:pyramid. + ara:(haram).  
