@@ -290,11 +290,10 @@ The demonstrative pronoun is:
 **me wanta ce.** - I want this one.  
 **le wanta ce.** - He/she wants that one.  
 
-They end in **-i** when they function as adjectives i.e. when they
-come before a noun.
+It ends in **-i** when it functions as an adjective i.e. when it
+comes before a noun.
 
 **ci maw** - This cat  
-**di maw.** - That cat  
 
 ### 5.4. Interrogative pronouns
 

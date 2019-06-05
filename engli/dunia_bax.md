@@ -393,7 +393,7 @@ form that sounds familiar to speakers of as many languages as possible.
 
 The suffixes of Pandunia are applied on the roots. Here are some
 resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), novi (new), nove (news), nova (renovate).
+(shorten), nowi (new), nowe (news), nowa (renovate).
 
 
 ### Sinitic words
