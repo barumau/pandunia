@@ -276,7 +276,7 @@ hin:चाक़ू (cāqū). fas:(čâqu). nep:चक्कु (cakku). kan:ಚ
 ben:চাকা (caka). hin:चक्र (cakra).			cakre	:	wheel	rado	ratas	koło								
 fas:(čamče). pnb:ਚਮਚਾ (camcā). ben:চামচ (camôc). hin:चम्मच (cammac). tha:ช้อน (chon).			camce	:	spoon	kulero	lusikka	łyżka								
 			campion	:	champion	ĉampiono	mestari (voittaja)	czempion								
-			cang	:	often (frequently)	ofte	usein	często								
+zho:常 (cáng).			cang	:	often (frequently)	ofte	usein	często								
 fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (šans). tur:şans.			canse	:	opportunity (chance)	ŝanco	mahdollisuus (tilaisuus)	szansa								
 			canta	:	sing	kanti	laulaa	śpiewać								
 fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).			cante	:	song	kanto	laulu	piosenka, pieśń								
@@ -407,7 +407,7 @@ zho:家 "jiă".			dom	:	home (residence)	hejmo (loĝejo)	asunto (koti)	dom, mies
 			dominogem	:	dominoes		dominopeli	domino								
 			don	:	gift	donaco	lahja	podarunek, dar, prezent								
 eng:dan:give. deu:geben. zho:给 (gěi).			dona	:	give	doni	antaa	dać, dawać								
-			dong	:	east	oriento	itä	wschód								
+zho:东 (dōng). yue:東 (dōng). vie:đông. kor:동 (dong).			dong	:	east	oriento	itä	wschód								
 tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).			doste	:	friend	amiko	ystävä (kaveri)	przyjaciel								
 			dosti	:	friendly	amika	ystävällinen	przyjacielski								
 			dostia	:	friendship	amikeco	ystävyys	przyjaźń								
@@ -776,6 +776,9 @@ spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			ia	:	area	ejo (u
 vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).			ice	:	will (volition, desire)	voli	tahto	wola, chęć								
 fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.			ide	:	idea (concept, notion)	ideo	käsite (idea)	idea, pomysł								
 			idi	:	conceptual		käsitteellinen	pojęciowy								
+eng:deu:fra:ind:idiot. spa:por:idiota. rus:идиот (idiot).			idiote	:	idiot		typerys (idiootti)									
+			idioti	:	stupid (idiotic)		tyhmä (hölmö)									
+			idiotia	:	idiocy (stupidity)		tyhmyys (typeryys)									
 			impera	:	reign (rule as an emperor)		hallita yksinvaltaisesti	władać, panować, rządzić jako imperator								
 			imperer	:	emperor		keisari	imperator								
 			imperia	:	empire		keisarikunta	imperium								
@@ -1691,7 +1694,7 @@ eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).			pi
 			piloter	:	pilot		ohjaaja (pilotti, luotsi)	pilot								
 spa:pimienta. tgl:pamenta.			pimente	:	pepper (Piper nigrum)	pipro	pippuri	pieprz								
 eng:pin. jpn:"pin". kor:"pin".			pin	:	needle (pin)	nadlo (pinglo)	neula	igła, szpilka								
-			ping	:	flat		litteä	płaski								
+zho:平 (píng).			ping	:	flat		litteä	płaski								
 			pinguin	:	penguin	pingveno	pingviini	pingwin								
 eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).			pinser	:	pliers (pincers)	pinĉilo	pihdit	obcęgi, kleszcze, szczypce	alicate							
 			pipe	:	pipe		piippu	fajka								
@@ -2231,7 +2234,7 @@ may:ind:tupai.			tupay	:	squirrel	sciuro	orava	wiewiórka
 zho:兔子 (tùzi). yue:兔仔 (tou3zai2).			tuze	:	rabbit (hare)		jänis	królik, zając			lapin, lièvre					
 fra:ou. por:ou.			u	:	or	aŭ	tai (vai)	lub, albo								
 	dex	UA	ukraina	:	Ukraine		Ukraina	Ukraina								
-			ula	:	reverse	malfari	perua									
+			ula	:	reverse (undo)	malfari	perua									
 			ulul	:	howling		ulvonta	wycie, skowyt								
 			ulula	:	howl		ulvoa	wyć								
 ara:(umr). ind:umur. swa:umri. hin:urd:(umar).			umur	:	age		ikä	wiek								

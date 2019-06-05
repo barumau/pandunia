@@ -164,7 +164,7 @@ cabe ← por:chave. hin:"cābi". kon:nsapi.
 cake ← hin:चाक़ू (cāqū). fas:(čâqu). nep:चक्कु (cakku). kan:ಚಾಕು (cāku).  
 cakre ← ben:চাকা (caka). hin:चक्र (cakra).  
 camce ← fas:(čamče). pnb:ਚਮਚਾ (camcā). ben:চামচ (camôc). hin:चम्मच (cammac). tha:ช้อน (chon).  
-cang ← zho: 常 (cáng)
+cang ← zho:常 (cáng).  
 canse ← fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (šans). tur:şans.  
 cante ← fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).  
 capate ← hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).  
@@ -214,7 +214,7 @@ dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). kh
 dokum ← eng:fra:document. rus:документ (dokument).  
 dom ← zho:家 "jiă".  
 dona ← eng:dan:give. deu:geben. zho:给 (gěi).  
-dong ← zho:东 (dōng). yue:東 (dōng). vie:đông.  
+dong ← zho:东 (dōng). yue:東 (dōng). vie:đông. kor:동 (dong).  
 doste ← tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).  
 dotor ← por:doutor. ita:dottore. eng:spa:doctor. rus:доктор (doktor).  
 dox ← ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".  
@@ -351,6 +351,7 @@ i ← spa:y. por:e. rus:и /i/. pol:i.
 ia ← spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).  
 ice ← vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).  
 ide ← fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.  
+idiote ← eng:deu:fra:ind:idiot. spa:por:idiota. rus:идиот (idiot).  
 importi ← eng:fra:important. spa:importante.  
 inde ← eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.  
 infece ← cze:infekce. ita:infezione. eng:infection. por:infecção. tur:enfeksiyon. rus:инфекция (infektsiya).  

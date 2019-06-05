@@ -784,6 +784,9 @@ ibri : Hebrew
 ice : will (volition, desire)  
 ide : idea (concept, notion)  
 idi : conceptual  
+idiote : idiot  
+idioti : stupid (idiotic)  
+idiotia : idiocy (stupidity)  
 impera : reign (rule as an emperor)  
 imperer : emperor  
 imperia : empire  
@@ -2250,7 +2253,7 @@ tuze : rabbit (hare)
 ##u  
 u : or  
 ukraina : Ukraine  
-ula : reverse  
+ula : reverse (undo)  
 ulul : howling  
 ulula : howl  
 umur : age  

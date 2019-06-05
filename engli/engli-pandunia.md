@@ -1025,6 +1025,8 @@ ice hockey : aisohoke
 Iceland : islandia  
 icy : aisi  
 idea (concept, notion) : ide  
+idiocy (stupidity) : idiotia  
+idiot : idiote  
 if (suppose, assume) : gar  
 ill (sick) : bing  
 illustrator (graphic artist) : grafer  
@@ -1843,7 +1845,7 @@ rest (remainder) : reste
 restaurant : restoran  
 result : rezulte  
 return (restore, recover, resume) : fuga  
-reverse : ula  
+reverse (undo) : ula  
 rhenium : renium  
 rhinoceros : faru  
 rhodium : rodium  
@@ -2101,6 +2103,7 @@ strong : forti
 strontium : estrontium  
 student (pupil, learner) : darser  
 studio : estudia  
+stupid (idiotic) : idioti  
 submission (surrender) : islam  
 substitute : wisa  
 subway (metro) : tunelotren  

@@ -782,6 +782,9 @@ ibri : heprea
 ice : tahto  
 ide : käsite (idea)  
 idi : käsitteellinen  
+idiote : typerys (idiootti)  
+idioti : tyhmä (hölmö)  
+idiotia : tyhmyys (typeryys)  
 impera : hallita yksinvaltaisesti  
 imperer : keisari  
 imperia : keisarikunta  

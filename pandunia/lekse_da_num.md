@@ -2,25 +2,25 @@
 
 | bax | num |
 |-----|-----|
-| pan | 844 |
-| engli | 433 |
-| espani | 317 |
-| fransi | 283 |
+| pan | 848 |
+| engli | 434 |
+| espani | 318 |
+| fransi | 284 |
 | hindi | 281 |
-| portugali | 256 |
-| rusi | 227 |
+| portugali | 257 |
+| rusi | 228 |
 | turki | 188 |
-| cini | 183 |
+| cini | 186 |
 | arabi | 161 |
 | niponi | 151 |
-| indonesi | 150 |
-| doici | 143 |
+| indonesi | 151 |
+| doici | 144 |
 | farsi | 132 |
 | swahili | 128 |
-| hangugi | 119 |
+| hangugi | 120 |
 | urdi | 106 |
 | bangli | 88 |
-| wieti | 70 |
+| wieti | 71 |
 | tayi | 66 |
 | polski | 55 |
 | filipini | 38 |

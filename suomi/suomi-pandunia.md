@@ -2137,11 +2137,14 @@ tuuli (puhallus) : fong
 tuulla (puhaltaa) : fonga  
 Tuvalu : tuwal  
 tyhjä : hali  
+tyhmyys (typeryys) : idiotia  
+tyhmä (hölmö) : idioti  
 tykki (pyssy) : kanon  
 tykkimies : kanoner  
 tykkääminen : filia  
 tykätä (pitää) : fila  
 tynnyri (tölkki) : tong  
+typerys (idiootti) : idiote  
 typpi : nitre  
 tyranni : tiran  
 tyrannia : tirania  
