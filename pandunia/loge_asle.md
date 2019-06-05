@@ -164,6 +164,7 @@ cabe ← por:chave. hin:"cābi". kon:nsapi.
 cake ← hin:चाक़ू (cāqū). fas:(čâqu). nep:चक्कु (cakku). kan:ಚಾಕು (cāku).  
 cakre ← ben:চাকা (caka). hin:चक्र (cakra).  
 camce ← fas:(čamče). pnb:ਚਮਚਾ (camcā). ben:চামচ (camôc). hin:चम्मच (cammac). tha:ช้อน (chon).  
+cang ← zho: 常 (cáng)
 canse ← fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (šans). tur:şans.  
 cante ← fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).  
 capate ← hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).  
