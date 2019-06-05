@@ -213,6 +213,7 @@ dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). kh
 dokum ← eng:fra:document. rus:документ (dokument).  
 dom ← zho:家 "jiă".  
 dona ← eng:dan:give. deu:geben. zho:给 (gěi).  
+dong ← zho:东 (dōng). yue:東 (dōng). vie:đông.  
 doste ← tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).  
 dotor ← por:doutor. ita:dottore. eng:spa:doctor. rus:доктор (doktor).  
 dox ← ind:dosa. hin:दोष "doś". tha:โทษ "toot(sa)".  
