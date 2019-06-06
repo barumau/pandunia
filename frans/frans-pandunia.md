@@ -170,6 +170,7 @@ uranium : uranium
 ##v  
 Venezuela : wenesuela  
 virus : wirus  
+vivre (habiter) : domu  
 ##w  
 ##x  
 ##y  

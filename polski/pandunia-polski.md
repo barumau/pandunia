@@ -390,8 +390,8 @@ doicia : Niemcy
 dokum : dokument  
 dolar : dolar  
 dom : dom, mieszkanie  
-doma : mieszkać  
 dominogem : domino  
+domu : mieszkać  
 don : podarunek, dar, prezent  
 dona : dać, dawać  
 dong : wschód  

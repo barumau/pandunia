@@ -114,6 +114,7 @@ astia (kulho) : tas
 astma : asme  
 asua : domu  
 asunto (koti) : dom  
+asuttaa : doma  
 ateisti (jumalankieltäjä) : nodewiste  
 ateljee (studio) : estudia  
 atomi : atom  

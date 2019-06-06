@@ -406,8 +406,8 @@ doicia : Germany
 dokum : document (record)  
 dolar : dollar  
 dom : home (residence)  
-doma : live (dwell, reside)  
 dominogem : dominoes  
+domu : live (dwell, reside)  
 don : gift  
 dona : give  
 dong : east  

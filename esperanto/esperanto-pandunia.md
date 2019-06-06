@@ -731,6 +731,7 @@ loka : loki
 loko : loke  
 longa : long  
 loĝi : domu  
+loĝigi : doma  
 ludanto : gemer  
 ludi : gema  
 ludi rolon : rola  

@@ -315,7 +315,8 @@ diske : disko
 disprosium : disprozio  
 dolar : dolaro  
 dom : hejmo (loĝejo)  
-doma : loĝi  
+doma : loĝigi  
+domu : loĝi  
 don : donaco  
 dona : doni  
 dong : oriento  

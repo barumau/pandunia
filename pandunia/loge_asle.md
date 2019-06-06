@@ -212,7 +212,7 @@ din ← ara: /dīn/. tur: din. swa: dini. hau: addini.
 ding ← zho:钉 (dīng). yue:釘 (deng1). vie:đinh.  
 dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).  
 dokum ← eng:fra:document. rus:документ (dokument).  
-dom ← zho:家 "jiă".  
+dom ← rus:дом (dom). pol:dom. ltn:domus. + eng:domestic. fra:domestique. spa:por:doméstico.  
 dona ← eng:dan:give. deu:geben. zho:给 (gěi).  
 dong ← zho:东 (dōng). yue:東 (dōng). vie:đông. kor:동 (dong).  
 doste ← tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).  

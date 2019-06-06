@@ -3,14 +3,14 @@
 | bax | num |
 |-----|-----|
 | pan | 848 |
-| engli | 434 |
-| espani | 318 |
-| fransi | 284 |
+| engli | 435 |
+| espani | 319 |
+| fransi | 285 |
 | hindi | 281 |
-| portugali | 257 |
-| rusi | 228 |
+| portugali | 258 |
+| rusi | 229 |
 | turki | 188 |
-| cini | 186 |
+| cini | 185 |
 | arabi | 161 |
 | niponi | 151 |
 | indonesi | 151 |
@@ -22,7 +22,7 @@
 | bangli | 88 |
 | wieti | 71 |
 | tayi | 66 |
-| polski | 55 |
+| polski | 56 |
 | filipini | 38 |
 | telugi | 35 |
 | hausi | 30 |

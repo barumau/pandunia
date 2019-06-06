@@ -404,8 +404,9 @@ doicia : Saksa
 dokum : asiakirja (dokumentti, tiedosto)  
 dolar : dollari  
 dom : asunto (koti)  
-doma : asua  
+doma : asuttaa  
 dominogem : dominopeli  
+domu : asua  
 don : lahja  
 dona : antaa  
 dong : itä  

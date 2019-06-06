@@ -104,6 +104,7 @@ buke : livre
 ##c  
 ##d  
 destin : destin (destination)  
+domu : vivre (habiter)  
 ##e  
 europe : Europe  
 europi : européen  
