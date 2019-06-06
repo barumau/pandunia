@@ -3,7 +3,7 @@
 <small>tarju du _Erjo_</small>
 
 
-sa mar, zayu guy du doma sa nice du pulte du transa suy.
+sa mar, zayu guy du domu sa nice du pulte du transa suy.
 guy tena mal rupe. le tena yen – day ka plate, i nos – day ka warkobrox.
 
 sa koy den, guy auda lil sonde sa supre du pulte.

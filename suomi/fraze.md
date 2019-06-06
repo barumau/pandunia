@@ -798,18 +798,18 @@ Olen töissä ...lla.
 
 
 
-### doma <small>asua</small>
+### domu <small>asua</small>
 
-**te doma ke?**
+**te domu ke?**
 Missä sinä asut?
 
-**me doma singapur.**
+**me domu singapur.**
 Asun Singaporessa.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 Astuko tässä hotellissa?
 
-On oikein sanoa "te doma sa ke?" lyhyemmän muodon "te doma ke" sijasta. Kuitenkin **doma**
+On oikein sanoa "te domu sa ke?" lyhyemmän muodon "te domu ke" sijasta. Kuitenkin **doma**
 kattaa yksinäänkin jossakin olemisen, joten sanaa **sa**
 ei välttämättä tarvita.
 

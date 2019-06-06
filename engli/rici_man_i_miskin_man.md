@@ -8,7 +8,7 @@ sa tel pase ce un miskin man.
 </td><td>
 Long time ago there was a poor man.
 </td></tr><tr><td>
-le doma sa lil kamar supra bekeria.
+le domu sa lil kamar supra bekeria.
 </td><td>
 He lived in a little room above a bakery.
 </td></tr><tr><td>

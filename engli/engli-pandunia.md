@@ -1215,7 +1215,7 @@ lithium : litium
 little (few, not many) : xaw  
 little (small; a little, somewhat) : lil  
 live (be alive, living) : jiwi  
-live (dwell, reside) : doma  
+live (dwell, reside) : domu  
 load (to charge) : lada  
 local : loki  
 locate (place) : loka  

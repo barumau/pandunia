@@ -820,18 +820,18 @@ comme préposition ou tout seul comme un verbe.
 Je travaille à ...
 
 
-### doma <small>vivre, habiter, résider</small>
+### domu <small>vivre, habiter, résider</small>
 
-**te doma ke?**
+**te domu ke?**
 Où est-ce que tu habites ?
 
 Astuce : Ça va aussi de dire « tu abit na ke? » mais **abit**
 recouvre déjà l’idée d’être à un endroit.
 
-**me doma singapur.**
+**me domu singapur.**
 Je vis à Singapore.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
 

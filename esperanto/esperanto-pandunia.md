@@ -730,7 +730,7 @@ logiko : logike
 loka : loki  
 loko : loke  
 longa : long  
-loĝi : doma  
+loĝi : domu  
 ludanto : gemer  
 ludi : gema  
 ludi rolon : rola  

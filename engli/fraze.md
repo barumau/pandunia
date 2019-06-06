@@ -765,18 +765,18 @@ Tip! You can use **sa** as a preposition or alone as the verb.
 I work at ...
 
 
-### doma <small>to live, reside</small>
+### domu <small>to live, reside</small>
 
-**te doma ke?**
+**te domu ke?**
 Where do you live?
 
-**me doma singapur.**
+**me domu singapur.**
 I live in Singapore.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.  However
+Tip: It is also okay to say **te domu sa ke?** instead of **te domu ke**.  However
 **doma** already covers the meaning of being at somewhere, so **sa** is not
 necessary.
 

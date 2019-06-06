@@ -982,7 +982,7 @@ miedź : kuper
 miejsce, lokacja : loke  
 miejscowy, lokalny : loki  
 miesiąc : mes  
-mieszkać : doma  
+mieszkać : domu  
 mieć (partykuła posiadania) : da  
 mieć (trzymać) : tena  
 migdał : badam  

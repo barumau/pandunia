@@ -789,18 +789,18 @@ Pracuję w ...
 
 
 
-### doma <small>mieszkać</small>
+### domu <small>mieszkać</small>
 
-**te doma ke?**
+**te domu ke?**
 Gdzie mieszkasz?
 
-**me doma singapur.**
+**me domu singapur.**
 Mieszkam w Singapurze.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 Czy miszkasz w tym hotelu?
 
-Porada: Poprawnie jest też powiedzieć "te doma sa ke?" zamiast "te doma ke". Jakkolwiek **doma**
+Porada: Poprawnie jest też powiedzieć "te domu sa ke?" zamiast "te domu ke". Jakkolwiek **doma**
 już obejmuje znaczenie bycia w czymś, więc **sa**
 nie jest potrzebne.
 

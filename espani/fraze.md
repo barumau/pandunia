@@ -762,18 +762,18 @@ como una preposición o como un verbo por aparte.
 Trabajo en...
 
 
-### doma <small>vivir, residir</small>
+### domu <small>vivir, residir</small>
 
-**te doma ke?**
+**te domu ke?**
 ¿Dónde vives?
 
-**me doma singapur.**
+**me domu singapur.**
 Vivo en Singapur.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 ¿Vives en este hotel?
 
-Ayuda: También está bien decir "te doma sa ke?" en vez de "te doma ke".  Sin
+Ayuda: También está bien decir "te domu sa ke?" en vez de "te domu ke".  Sin
 embargo **doma** yu significa que algo está en algún lugar, así que **sa** no
 es necesario.
 

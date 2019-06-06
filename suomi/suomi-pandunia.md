@@ -112,7 +112,7 @@ Assur : axur
 Assyria : axuria  
 astia (kulho) : tas  
 astma : asme  
-asua : doma  
+asua : domu  
 asunto (koti) : dom  
 ateisti (jumalankieltäjä) : nodewiste  
 ateljee (studio) : estudia  

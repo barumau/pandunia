@@ -723,15 +723,15 @@ Ni vojaĝas el Londono al Parizo.
 **safar day long.**
 La vojaĝo estas tre longa.
 
-### doma <small>loĝi</small>
+### domu <small>loĝi</small>
 
-**te doma ke?**
+**te domu ke?**
 Kie vi loĝas?
 
-**me doma singapur.**
+**me domu singapur.**
 Mi loĝas en Singapuro.
 
-**eska te doma ci hotel?**
+**eska te domu ci hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
 
