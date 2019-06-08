@@ -456,44 +456,54 @@ one word, which draws the listener's attention to it.
 
 ### 7.2. Stative Sentences
 
-#### 7.2.1. With pronoun subject
+#### 7.2.1. With noun or pronoun subject
 
 Normally a sentence consists of a subject and a predicate. In the
-simplest sentences, the subject is a personal pronoun and the
+simplest sentences, the subject is a noun or a pronoun and the
 predicate is an adjective or a noun.
 
-> **me bon.** - I am good.  
-> **le nowi.** - It is new.  
-> **le sara.** - She is Sara.  
+**me bon.** - I am good.  
+**le nowi.** - It is new.  
+**le sara.** - She is Sara.  
+**sara bon.** - Sara is good.  
+**petre day.** - The stone is big.  
+**meze nowi.** - The table is new.  
 
 The word **ni** is added to form the negative.
 
-> **me ni bon.** - I'm not good.  
-> **le ni nowi.** - It's not new.  
-> **le ni sara.** - She is not Sara.
+**me ni bon.** - I'm not good.  
+**le ni nowi.** - It's not new.  
+**le ni sara.** - She is not Sara.
 
-Also two personal pronouns can be juxtaposed.
+It is possible to add the word **si** (yes) before the predicate in
+positive sentences, for style or for convenience. Then the structure
+is similar like in negative sentences.
 
-> **me si le.** - I am he/she.  
-> **me ni te.** - I'm not you.
+**sara si bon.** - Sara is good.  
+**petre si day.** - The stone is big.  
+**meze si nowi.** - The table is new.  
+**meze ni law.** - The table is not old.
 
-#### 7.2.2. With noun subject
+Also two personal pronouns can be combined with **si** and **ni**.
 
-When the subject is a noun, the word **si** (yes) is added before the
-predicate in positive sentences. The negative sentences use **ni**
-like above.
+**me si le.** - I am he/she.  
+**me ni te.** - I'm not you.
 
-> **sara si bon.** - Sara is good.  
-> **petre si day.** - The stone is big.  
-> **meze si nowi.** - The table is new.  
-> **meze ni law.** - The table is not old.
 
-#### 7.2.3. With adjective subject
+#### 7.2.2. With adjective subject
 
 The same rule applies also for two adjectives.
 
-> **jowan si sundar.** - Young is beautiful.  
-> **nowi ni law.** - New is not old.  
+**jowan si sundar.** - Young is beautiful.  
+**nowi ni law.** - New is not old.  
+
+#### 7.2.3. With verb subject
+
+A verb can't be subject as such. So the verb is first, use **ce**
+to start a comment about the verb.
+
+**canta, ce bon.** = Singing, that is good. (Singing is good.)
+
 
 #### 7.2.4. To be
 
