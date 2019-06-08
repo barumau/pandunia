@@ -14,7 +14,7 @@
 = Это мой друг.  
 ☻: **li nam si ke?**
 = Как её зовут?  
-☺: **li nam si sara.**
+☺: **li nam si sarah.**
 = Её зовут Сара.
 
 ### Грамматика
@@ -26,9 +26,9 @@
 
 Слово **si** означает «быть» в Пандунии.
 
-**le si sara.**
+**le si sarah.**
 - Она Сара.  
-**le ni sara.**
+**le ni sarah.**
 - Она не Сара.  
 **maw si hewan**
 - Кошка - животное.  
@@ -64,7 +64,7 @@
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 

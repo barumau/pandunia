@@ -413,13 +413,13 @@ Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach p
 
 > **mi bon.** - Jestem dobry.
 > **ye nowi.** - To jest nowe.
-> **ye sara.** - Ona to Sara.
+> **ye sarah.** - Ona to Sara.
 
 Słowo **no** jes dodawane, by tworzyć przeczenie.
 
 > **mi no bon.** - Nie jestem dobry.
 > **ye no nowi.** - To nie jest nowe.
-> **ye no sara.** - Ona to nie Sara.
+> **ye no sarah.** - Ona to nie Sara.
 
 Również dwa zaimki osobowe mogą być zestawione.
 
@@ -430,7 +430,7 @@ Również dwa zaimki osobowe mogą być zestawione.
 
 Gdy podmiot jest rzeczownikiem, słowo **si** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
 
-> **sara si bon.** - Sara jest dobra.
+> **sarah si bon.** - Sara jest dobra.
 > **batu si day.** - Kamień jest duży.
 > **meza si nowi.** - Stół jest nowy.
 > **meza no law.** - Stół nie jest stary.
@@ -1029,10 +1029,10 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 7. Liczebniki
 8. Przymiotniki
 
-Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sara**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
+Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sarah**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sara wanta darsa pandunia, sabu ye si bon dunia bax.
+    yusef i sarah wanta darsa pandunia, sabu ye si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
@@ -1040,7 +1040,7 @@ Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słó
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        ye    bax
       ┌───┴───┐    ┌──┴────┐            |
-    yusef   sara       pandunia       dunia
+    yusef   sarah       pandunia       dunia
                                         |
                                        bon
 

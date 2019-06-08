@@ -69,7 +69,7 @@ indonesia: selamat.</small>
 
 ### me <small>minä</small>
 
-**me sara.**
+**me sarah.**
 Minä olen Sara.
 
 **me tomas.**
@@ -88,7 +88,7 @@ Kun sanaan **salam**
 (tervehdys) lisätään verbin pääte -a, saadaan **salama**
 (tervehtiä). Pandunian normaali sanajärjestys on subjekti-verbi-objekti.
 
-**sara salama tomas.**
+**sarah salama tomas.**
 Sara tervehtii Tomasta.
 
 **salam mame!**
@@ -191,7 +191,7 @@ vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla-verbin paikall
 **me si tomas.**
 Minä kyllä olen Tomas.
 
-**te si sara.**
+**te si sarah.**
 Sinä kyllä olet Sara.
 
 **aple si pal.**
@@ -204,7 +204,7 @@ lähteitä: espanja: si, portugali: sim, yleiskiina: 是 "shì", shanghainkiina:
 
 ### ni <small>ei</small>
 
-**me ni sara.**
+**me ni sarah.**
 Minä en ole Sara.
 
 **me ni dotor.**
@@ -270,7 +270,7 @@ Minä olen Tomas.
 
 **le ke?**
 Kuka hän on?
-**le sara.**
+**le sarah.**
 Hän on Sara.
 
 **tote ke?**
@@ -340,7 +340,7 @@ Kuka hän on?
 **le si me da doste.**
 Hän on minun ystävä.
 
-**me si sara da doste.**
+**me si sarah da doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **ya**
@@ -358,7 +358,7 @@ Minun nimeni on Tomas.
 **li nam ke?**
 Mikä hänen nimensä on?
 
-**li nam sara.**
+**li nam sarah.**
 Hänen nimensä on Sara.
 
 <small>Sanan **nam**
@@ -751,7 +751,7 @@ Tule tänne!
 **te laya ya ke?**
 Mistä sinä tulet?
 
-**me laya ya dubai.**
+**me laya ya dubay.**
 Minä tulen Dubaista.
 
 **me laya dom ming den.**

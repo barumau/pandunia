@@ -74,8 +74,8 @@ Indonesian: selamat.</small>
 
 ### me <small>I, me</small>
 
-**me sara.**
-I'm Sara.
+**me sarah.**
+I'm Sarah.
 
 **me tomas.**
 I'm Thomas.
@@ -92,8 +92,8 @@ I greet father.
 The word **salam** is a noun and **salama** is the corresponding verb. The
 basic word order in Pandunia is subject-verb-object.
 
-**sara salama tomas.**
-Sara greets Thomas.
+**sarah salama tomas.**
+Sarah greets Thomas.
 
 **salam mame!**
 Greetings, mother!
@@ -192,8 +192,8 @@ used in place of "to be".
 **me si tomas.**
 I am Thomas.
 
-**te si sara.**
-You are Sara.
+**te si sarah.**
+You are Sarah.
 
 **aple si pal.**
 The apple is a fruit.
@@ -204,8 +204,8 @@ The apple is a fruit.
 
 ### ni <small>not</small>
 
-**me ni sara.**
-I'm not Sara.
+**me ni sarah.**
+I'm not Sarah.
 
 **me ni dotor.**
 I'm not a doctor.
@@ -268,8 +268,8 @@ I'm Thomas.
 
 **le ke?**
 Who is he/she?  
-**le sara.**
-She is Sara.
+**le sarah.**
+She is Sarah.
 
 **tote ke?**
 Who are you people?
@@ -326,8 +326,8 @@ Who's he/she?
 **le si me da doste.**
 He/she is my friend.
 
-**me si sara da doste.**
-I am Sara's friend.
+**me si sarah da doste.**
+I am Sarah's friend.
 
 <small>Etymology. **da**
 Mandarin: 的 (de).</small>
@@ -344,8 +344,8 @@ My name is Thomas.
 **li nam ke?**
 What is his/her name?
 
-**li nam sara.**
-Her name is Sara.
+**li nam sarah.**
+Her name is Sarah.
 
 <small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
 "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:

@@ -23,7 +23,7 @@ sur le plan de la politesse et de l'intimité.
 = C'est mon amie.  
 ☻: **li nam si ke?**
 = Quel est son nom ?  
-☺: **li nam si sara.**
+☺: **li nam si sarah.**
 = Son nom est Sara.
 
 ### Grammaire
@@ -37,9 +37,9 @@ commentaire **si mi doste** (est mon amie).
 Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement avec un **ni** (qui signifie à la fois _ne pas_ et _non_)
 
-**le si sara.**
+**le si sarah.**
 = C'est Sara.  
-**le ni sara.**
+**le ni sarah.**
 = Ce n'est pas Sara.
 
 **maw si hewan**
@@ -77,7 +77,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -636,7 +636,7 @@ Il y a également des expressions de temps spécifiques.
 Les adjectifs pour le passé, le présent et le futur sont **pas, zay**
 et **wil**. Ils peuvent être utilisés pour modifier des noms.
 
-**sara si mi pas xefe.**
+**sarah si mi pas xefe.**
 = Sara est mon ex-patron.  
 **yusef si mi zay xefe.**
 = Yusef est mon chef actuel.  

@@ -68,7 +68,7 @@ selamat.</small>
 
 ### me <small>mi</small>
 
-**me sara.**
+**me sarah.**
 Mi estas Sara.
 
 **me tomas.**
@@ -86,7 +86,7 @@ Mi salutas patron.
 La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
 normala vortordo en pandunio estas subjekto-verbo-objekto.
 
-**sara salama tomas.**
+**sarah salama tomas.**
 Sara salutas Tomason.
 
 **salam mame!**
@@ -189,7 +189,7 @@ mallongaj frazoj post pronomoj kiel **me** kaj **te**.
 **me si tomas.**
 Mi estas Tomaso.
 
-**te si sara.**
+**te si sarah.**
 Vi estas Sara.
 
 **aple si pal.**
@@ -205,7 +205,7 @@ venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是
 
 ### ni <small>ne</small>
 
-**me ni sara.**
+**me ni sarah.**
 Mi ne estas Sara.
 
 **me ni dotor.**
@@ -267,7 +267,7 @@ Mi estas Tomaso.
 
 **le ke?**
 Kiu ŝi estas?
-**le sara.**
+**le sarah.**
 Ŝi estas Sara.
 
 **tote ke?**
@@ -314,7 +314,7 @@ Who's he/she?
 **le si me da doste.**
 Li/ŝi estas mia amiko.
 
-**me si sara du doste.**
+**me si sarah du doste.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **yu**
@@ -332,7 +332,7 @@ Mia nomo estas Tomaso.
 **li nam ke?**
 Kio estas ŝia nomo?
 
-**li nam sara.**
+**li nam sarah.**
 Ŝia nomo estas Sara.
 
 **me namu tomas.**

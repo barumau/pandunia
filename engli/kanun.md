@@ -464,8 +464,8 @@ predicate is an adjective or a noun.
 
 **me bon.** - I am good.  
 **le nowi.** - It is new.  
-**le sara.** - She is Sara.  
-**sara bon.** - Sara is good.  
+**le sarah.** - She is Sarah.  
+**sarah bon.** - Sarah is good.  
 **petre day.** - The stone is big.  
 **meze nowi.** - The table is new.  
 
@@ -473,13 +473,13 @@ The word **ni** is added to form the negative.
 
 **me ni bon.** - I'm not good.  
 **le ni nowi.** - It's not new.  
-**le ni sara.** - She is not Sara.
+**le ni sarah.** - She is not Sarah.
 
 It is possible to add the word **si** (yes) before the predicate in
 positive sentences, for style or for convenience. Then the structure
 is similar like in negative sentences.
 
-**sara si bon.** - Sara is good.  
+**sarah si bon.** - Sarah is good.  
 **petre si day.** - The stone is big.  
 **meze si nowi.** - The table is new.  
 **meze ni law.** - The table is not old.
@@ -1332,10 +1332,10 @@ central is as follows.
 The following example shows how the scope affects the final position
 of words in the tree hierarchy. For example, although **i** is in
 general higher than **sabu**, here its scope is only to connect
-**yusef** and **sara**.  **sabu** is at the top, because it connects
+**yusef** and **sarah**.  **sabu** is at the top, because it connects
 the two sub-phrases.
 
-    yusef i sara wanta darsa pandunia, sabu le si bon dunia bax.
+    yusef i sarah wanta darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
@@ -1343,7 +1343,7 @@ the two sub-phrases.
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
-    yusef   sara       pandunia       dunia
+    yusef   sarah       pandunia       dunia
                                         |
                                        bon
 

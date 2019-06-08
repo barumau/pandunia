@@ -16,8 +16,8 @@ Introducing yourself
 = That is my friend.  
 ☻: **li nam si ke?**
 = What's her name?  
-☺: **li nam si sara.**
-= Her name is Sara.
+☺: **li nam si sarah.**
+= Her name is Sarah.
 
 ### Grammar
 
@@ -31,10 +31,10 @@ In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
 simply replace it with **ni** (which is the word for _no_).
 
-**le si sara.**
-= She is Sara.  
-**le ni sara.**
-= She is not Sara.
+**le si sarah.**
+= She is Sarah.  
+**le ni sarah.**
+= She is not Sarah.
 
 **maw si hewan.**
 = The cat is an animal.  
@@ -60,7 +60,7 @@ answers are after the word list.
 1. Who are you?
 2. I am Thomas.
 3. Who is your friend?
-4. She is Sara.
+4. She is Sarah.
 5. What is your name?
 6. My name is ...........
 
@@ -82,7 +82,7 @@ answers are after the word list.
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -640,8 +640,8 @@ There are also specific time words.
 The adjectives for past, present and future are **pas, zay** and
 **wil**. They can be used for modifying nouns.
 
-**sara si mi pas xefe.**
-= Sara is my former boss.  
+**sarah si mi pas xefe.**
+= Sarah is my former boss.  
 **yusef si mi zay xefe.**
 = Yusef is my current boss.  
 **maria si mi wil xefe.**

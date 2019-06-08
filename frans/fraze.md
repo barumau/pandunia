@@ -79,7 +79,7 @@ vient de l'arabe سَلَام‏ "salām", en Hébreu il se dit : שָׁלוֹם
 
 ### me <small>je, me, moi</small>
 
-**me sara.**
+**me sarah.**
 Je suis Sara.
 
 **me tomas.**
@@ -99,7 +99,7 @@ est un nom et **salama**
 le verbe correspondant.
 L'ordre des mots en Pandunia est sujet-verbe-objet.
 
-**sara salama tomas.**
+**sarah salama tomas.**
 Sara salue Thomas.
 
 **salam mame!**
@@ -204,7 +204,7 @@ Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 **me si tomas.**
 En effet, je suis Thomas.
 
-**te si sara.**
+**te si sarah.**
 En effet, tu es Sara.
 
 **aple si pal.**
@@ -221,7 +221,7 @@ vient de l'Espagnol "si", en Portugais il se dit "sim".</small>
 
 ### ni <small>Ne pas</small>
 
-**me ni sara.**
+**me ni sarah.**
 Je ne suis pas Sara.
 
 **me ni dotor.**
@@ -289,7 +289,7 @@ Je suis Thomas.
 
 **le ke?**
 Qui est-il/elle ?  
-**le sara.**
+**le sarah.**
 C'est Sara.
 
 **tote ke?**
@@ -337,7 +337,7 @@ C’est mon mari (mon homme).
 **le si me da fem.**
 C’est ma femme.
 
-**me si sara da doste.**
+**me si sarah da doste.**
 Je suis l’ami de Sara.
 
 
@@ -353,7 +353,7 @@ Mon nom est Thomas.
 **li nam ke?**
 Quel est son nom ?
 
-**li nam sara.**
+**li nam sarah.**
 Son nom est Sara.
 
 

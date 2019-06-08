@@ -63,7 +63,7 @@ pochodzi z języków: arabskiego: سَلَام‏ "salām", hebrajskiego: שָׁ
 
 ### me <small>ja, mnie</small>
 
-**me sara.**
+**me sarah.**
 Ja jestem Sara.
 
 **me tomas.**
@@ -82,7 +82,7 @@ Słowo **salam**
 jest rzeczownikiem a **salama**
 odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Pandunia to podmiot-orzeczenie-dopełnienie.
 
-**sara salama tomas.**
+**sarah salama tomas.**
 Sara pozdrawia Tomasza.
 
 **salam mame!**
@@ -186,7 +186,7 @@ może być używane też do oświadczania, że coś jest faktem. Wtedy jest uży
 **me si tomas.**
 Ja jestem Tomasz.
 
-**te si sara.**
+**te si sarah.**
 Ty jesteś Sara.
 
 **aple si pal.**
@@ -203,7 +203,7 @@ pochodzi z języków: hiszpańskiego: si, portugalskiego: sim, mandaryńskiego: 
 
 ### ni <small>nie</small>
 
-**me ni sara.**
+**me ni sarah.**
 Nie jestem Sara.
 
 **me ni dotor.**
@@ -264,7 +264,7 @@ Jestem Tomasz.
 
 **le ke?**
 Kim ona jest?
-**le sara.**
+**le sarah.**
 Ona to Sara.
 
 **tote ke?**
@@ -324,7 +324,7 @@ Kim on/ona jest?
 **le si me da doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**me si sara da doste.**
+**me si sarah da doste.**
 Jestem przyjacielem Sary.
 
 <small>Etymologia. **da**
@@ -343,7 +343,7 @@ Nazywam się Tomasz.
 **li nam ke?**
 Jak ona jest nazywana?
 
-**li nam sara.**
+**li nam sarah.**
 Ona jest nazywana Sarą.
 
 **me nama tomas.**

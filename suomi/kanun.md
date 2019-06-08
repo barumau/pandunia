@@ -469,7 +469,7 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 = Minä olen hyvä.  
 **le novi.**
 = Se on uusi.  
-**le sara.**
+**le sarah.**
 = Hän on Sara.
 
 Kieltolauseessa käytetään sanaa **ni**.
@@ -478,7 +478,7 @@ Kieltolauseessa käytetään sanaa **ni**.
 = Minä en ole hyvä.  
 **le ni novi.**
 = Se ei ole uusi.  
-**le ni sara.**
+**le ni sarah.**
 = Hän ei ole Sara.
 
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
@@ -493,7 +493,7 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 Samoin kuin edellä.
 
-**sara (si) bon.**
+**sarah (si) bon.**
 = Sara on hyvä.  
 **petre (si) day.**
 = Kivi on suuri.  
@@ -999,11 +999,11 @@ Sanaluokkien arvojärjestys panduniassa:
 7. Lukusanat
 8. Laatusanat
 
-Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **sabu**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sara**. **sabu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
+Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **sabu**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sarah**. **sabu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sara wanta darsa pandunia, sabu le si bon dunia bax.
+    yusef i sarah wanta darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
@@ -1011,7 +1011,7 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
-    yusef   sara       pandunia       dunia
+    yusef   sarah      pandunia       dunia
                                         |
                                        bon
 

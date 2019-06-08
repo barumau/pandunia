@@ -75,7 +75,7 @@ indonesio: selamat.</small>
 
 ### me <small>yo</small>
 
-**me sara.**
+**me sarah.**
 Yo soy Sara.
 
 **me tomas.**
@@ -93,7 +93,7 @@ Yo saludo a papá.
 La palabra **salam** es un sustantivo y **salama** es el verbo correspondiente.
 El orden básico de las palabras en pandunia es sujeto-verbo-objeto.
 
-**sara salama tomas.**
+**sarah salama tomas.**
 Sara saluda a Tomás.
 
 **salam mame!**
@@ -191,7 +191,7 @@ Entonces sería usada en el lugar de "ser".
 **me si tomas.**
 Yo soy Tomás.
 
-**te si sara.**
+**te si sarah.**
 Tú eres Sara.
 
 **aple si pal.**
@@ -203,7 +203,7 @@ La manzana es una fruta.
 
 ### ni <small>no</small>
 
-**me ni sara.**
+**me ni sarah.**
 No soy Sara.
 
 **me ni dotor.**
@@ -266,7 +266,7 @@ Soy Tomás.
 
 **le ke?**
 ¿Quién es él/ella?  
-**le sara.**
+**le sarah.**
 Ella es Sara.
 
 **tote ke?**
@@ -323,7 +323,7 @@ Así **me da** significa "mi", **te da** significa "tuyo/tuya" y así.
 **le si me da doste.**
 Él/ella es mi amigo/a.
 
-**me si sara da doste.**
+**me si sarah da doste.**
 Yo soy la amiga de Sara.
 
 <small>Etimología. **da** viene del
@@ -341,7 +341,7 @@ Mi nombre es Tomás.
 **li nam ke?**
 ¿Cómo se llama (el/ella/eso)?
 
-**li nam sara.**
+**li nam sarah.**
 Ella se llama Sara.
 
 **me nama tomas.**

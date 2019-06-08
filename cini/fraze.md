@@ -119,13 +119,13 @@
 **me si tomas.**
 我是托马斯。
 
-**te si sara.**
+**te si sarah.**
 你是莎拉。
 
 **maw si hewan.**
 猫是动物。
 
-**me sara.**
+**me sarah.**
 我是莎拉。
 
 **te tomas.**
@@ -150,7 +150,7 @@ We greet you.
 
 **le ke?**
 她是谁？
-**le sara.**
+**le sarah.**
 她是莎拉。
 
 **tote si ke?**

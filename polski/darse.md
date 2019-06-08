@@ -16,7 +16,7 @@ Przedstawianie się
 = To mój przyjaciel.  
 ☻: **li nam si ke?**
 = Jak się nazywa?  
-☺: **li nam si sara.**
+☺: **li nam si sarah.**
 = Nazywa się Sara.
 
 ### Gramatyka
@@ -25,9 +25,9 @@ Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wska
 
 Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
-**le si sara.**
+**le si sarah.**
 = Ona jest Sarą.  
-**le ni sara.**
+**le ni sarah.**
 = Ona nie jest Sarą.
 
 **maw si hewan.**
@@ -65,7 +65,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -468,7 +468,7 @@ Istnieją też konkretne słowa opisujące czas.
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zay** i **futur**. Mogą być używane do modyfikowania rzeczowników.
 
-> **sara si mi ya pas xefe.** = Sara jest moim byłym szefem.  
+> **sarah si mi ya pas xefe.** = Sara jest moim byłym szefem.  
 > **yusef si mi ya zay xefe.** = Yusef jest moim obecnym szefem.  
 > **maria si mi ya futur xefe.** = Maria jest moim przyszłym szefem.
 

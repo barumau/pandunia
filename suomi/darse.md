@@ -16,7 +16,7 @@ Esittäytyminen
 = Hän on minun ystäväni.  
 ☻: **li nam si ke?**
 = Mikä hänen nimensä on?  
-☺: **li nam si sara.**
+☺: **li nam si sarah.**
 = Hänen nimensä on Sara.
 
 ### Kielioppia
@@ -25,9 +25,9 @@ Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta. Teema oso
 
 Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaan kaikissa persoonissa. Kieltomuodossa käytetään sen sijasta sanaa **ni**, joka tarkoittaa _ei_.
 
-**le si sara.**
+**le si sarah.**
 = Hän on Sara.  
-**le ni sara.**
+**le ni sarah.**
 = Hän ei ole Sara.  
 
 **maw si hewan.**
@@ -64,7 +64,7 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -594,7 +594,7 @@ lause viittaa luonnollisesti menneeseen aikaan.
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zay**
 ja **wil**. Niitä voi käyttää substantiivien määrittämiseen.
 
-**sara si mi pas xefe.**
+**sarah si mi pas xefe.**
 = Sara on minun entinen pomo.  
 **yusef si mi zay xefe.**
 = Yusef on minun nykyinen pomo  

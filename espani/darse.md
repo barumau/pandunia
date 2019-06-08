@@ -16,7 +16,7 @@ Yo soy Maria. ¿Quién es?
 = Es una amiga mia.  
 ☻: **li nam si ke?**
 = ¿Cómo se llama?  
-☺: **li nam si sara.**
+☺: **li nam si sarah.**
 = Su nombre es Sara.
 
 ### Gramatica
@@ -62,7 +62,7 @@ Intenta traducir estas frases de Español a Pandunia.
 1. te si ke?
 2. me si tomas.
 3. ti doste si ke?
-4. le si sara.
+4. le si sarah.
 5. ti nam si ke?
 6. mi nam si ........... 
 
@@ -482,7 +482,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 Las palabras para pasado, el presente y el futuro son **pas**, **zay** y **wil**.
 Pueden ser usadas para modificar sustantivos.
 
-**sara si mi pas xefe.**
+**sarah si mi pas xefe.**
 = Sara es mi ex-jefa.  
 **yusef si mi zay xefe.**
 = Yusef es mi actual jefe.  
