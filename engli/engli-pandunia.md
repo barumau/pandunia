@@ -617,6 +617,7 @@ dog : waf
 doll (puppet) : pupe  
 dollar : dolar  
 dome : kupol  
+domestic : domi  
 dominoes : dominogem  
 donkey (ass) : gade  
 door (gate, portal) : mun  
@@ -733,6 +734,7 @@ fall : padu
 false (fake) : falsi  
 family : famil  
 fan (-phile) : filer  
+fan (ventilator) : panke  
 fantastic (imaginary) : fantazi  
 fantasy (imagination) : fantaze  
 far (distant) : tel  

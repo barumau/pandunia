@@ -84,6 +84,7 @@ crème glacée : aisokrem
 ##d  
 destin (destination) : destin  
 diamant : almas  
+domestique : domi  
 drapeau : bandir  
 ##e  
 Einsteinium : ainstainium  

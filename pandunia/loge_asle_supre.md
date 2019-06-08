@@ -1,8 +1,8 @@
-# asle da lekse da pandunia
+# asle du lekse du pandunia
   
-pandunia du loge laya ya pol bax da dunia.
+pandunia da loge laya ya pol bax du dunia.
   
-- afri bax
+- afriki bax
     - arabi (ara)
     - swahili (swa)
     - amari (amh)
@@ -14,14 +14,14 @@ pandunia du loge laya ya pol bax da dunia.
     - fransi (fra)
     - rusi (rus)
     - doici (deu)
-- dong asi bax
+- dongasi bax
     - putong cini (zho)
     - hongong cini (yue)
     - xanghai cini (wuu)
     - nipon (jpn)
     - hanguk (kor)
     - vieti (vie)
-- sudi asi bax
+- sudasi bax
     - hindi (hin)
     - bangli (ben)
     - urdi (urd)

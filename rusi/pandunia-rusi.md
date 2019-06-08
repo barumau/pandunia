@@ -59,6 +59,7 @@ buke : книга
 cini : хань  
 ##d  
 destin : судьба  
+domi : дома́шний   
 dul u tin : пара  
 ##e  
 ##f  

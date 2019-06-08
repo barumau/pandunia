@@ -282,6 +282,7 @@ canse : mahdollisuus (tilaisuus)
 canta : laulaa  
 cante : laulu  
 capa : painaa (leimata)  
+capate : chapati  
 cape : painos (leima)  
 car : neljä (4)  
 carokon : neliö  
@@ -405,6 +406,7 @@ dokum : asiakirja (dokumentti, tiedosto)
 dolar : dollari  
 dom : asunto (koti)  
 doma : asuttaa  
+domi : koti-  
 dominogem : dominopeli  
 domu : asua  
 don : lahja  
@@ -1634,11 +1636,13 @@ panameriki : panamerikkalainen
 panamia : Panama  
 panasi : panaasialainen  
 pande : panda  
+panduner : pandunian puhuja  
 pandunia : pandunia  
 paneuropi : paneurooppalainen  
 pang : leipä  
 panike : hätä (paniikki)  
 panjabi : pandžabi (eräs intialainen kieli)  
+panke : viuhka (tuuletin)  
 panodemi : pandeeminen (koko väestöä koskeva)  
 panodemonia : pandemonio  
 panodewia : pantheon  
@@ -1900,6 +1904,8 @@ ruholojia : psykologia
 ruke : selkä  
 rukosake : reppu (rinkka)  
 rul : käärö  
+rula : kääriä  
+rum : rommi  
 rundia : Burundi  
 rupe : ilmiasu (ulkonäkö)  
 rupu : näyttää jltkn  

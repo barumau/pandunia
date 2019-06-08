@@ -458,6 +458,7 @@ hazarda : zari
 hazardo : zar  
 haŭto : pil  
 Hebrea : ibri  
+hejma : domi  
 hejmo (loĝejo) : dom  
 helio : helium  
 helpo : helpe  
@@ -688,7 +689,6 @@ kurteno : parde
 kuŝi : lala  
 kvar (4) : car  
 kvin (5) : lim  
-kääriä : rula  
 ##l  
 laboro : werke  
 lakto : milke  
@@ -1304,6 +1304,7 @@ venko : win
 venti : fonga  
 vento : fong  
 ventro : bung  
+ventumilo : panke  
 vera : weri  
 verando : berande  
 verbo : fatolekse  

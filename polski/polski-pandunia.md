@@ -312,6 +312,7 @@ dokument : dokum
 dolar : dolar  
 dom, mieszkanie : dom  
 domino : dominogem  
+domowy : domi  
 doradca (mentor) : menter  
 dorosły, dojrzały : matur  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) : fada  

@@ -617,6 +617,7 @@ pakse ← hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel
 pal ← hin:फल (phal). pnb:ਫਲ (phal). ben:ফল (phal). tam: பழம் (palam). tel:(phalamu). tha:ผน-ละ- (phon-la).  
 palme ← deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).  
 pang ← tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.  
+panke ← hin:पंखा (paṅkhā). urd:(pankhā). mya:ပန်ကာ (panka). fas:(panke). + eng:punkah. fra:panka. deu:Pankha.  
 papagay ← ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).  
 pape ← eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).  
 papir ← deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.  

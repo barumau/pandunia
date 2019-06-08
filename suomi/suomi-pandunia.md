@@ -179,6 +179,7 @@ Cayman-saaret : keiman da nesia
 Ceres : seres  
 cerium : cerium  
 cesium : cesium  
+chapati : capate  
 Chile : cile  
 chinchilla : cincil  
 cola : kola  
@@ -823,6 +824,7 @@ korva : or
 korvata : wisa  
 koskea (koskettaa) : toca  
 kosminen : kosmi  
+koti- : domi  
 koulu (opisto) : darsia  
 Kreikka : helenia  
 kreikkalainen : helen  
@@ -937,6 +939,7 @@ käytännöllinen (pragmaattinen) : prati
 käytäntö (pragmatia) : prate  
 käytös (käyttäytyminen) : manir  
 käännös (tulkinta) : tarje  
+kääriä : rula  
 käärme : serpe  
 käärö : rul  
 ##l  
@@ -1474,6 +1477,7 @@ panda : pande
 pandeeminen (koko väestöä koskeva) : panodemi  
 pandemonio : panodemonia  
 pandunia : pandunia  
+pandunian puhuja : panduner  
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
 panna (asettaa) : poza  
@@ -1726,6 +1730,7 @@ roikuttaa : penda
 rokote : waksin  
 Romania : romania  
 romanttinen : romansi  
+rommi : rum  
 rooli (osa) : rol  
 Rooma : rome  
 Rooman valtakunta : romi empiria  
@@ -2335,6 +2340,7 @@ virus : wirus
 vismutti : bismute  
 vitsi : joke  
 vitsiniekka : joker  
+viuhka (tuuletin) : panke  
 voi : makan  
 voida (osata, pystyä) : abla  
 voima : fortia  

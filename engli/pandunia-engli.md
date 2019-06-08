@@ -406,6 +406,7 @@ doicia : Germany
 dokum : document (record)  
 dolar : dollar  
 dom : home (residence)  
+domi : domestic  
 dominogem : dominoes  
 domu : live (dwell, reside)  
 don : gift  
@@ -1642,6 +1643,7 @@ paneuropi : pan-European
 pang : bread  
 panike : panic  
 panjabi : Punjabi  
+panke : fan (ventilator)  
 panodemi : pandemic  
 panodemonia : pandemonium  
 panodewia : pantheon  

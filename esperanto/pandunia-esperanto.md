@@ -316,6 +316,7 @@ disprosium : disprozio
 dolar : dolaro  
 dom : hejmo (loĝejo)  
 doma : loĝigi  
+domi : hejma  
 domu : loĝi  
 don : donaco  
 dona : doni  
@@ -1020,6 +1021,7 @@ pande : pando
 pandunia : pandunia  
 pang : pano  
 panike : paniko  
+panke : ventumilo  
 panoduni : tuttera  
 pantalon : pantalonoj  
 papagay : papago  
@@ -1126,7 +1128,6 @@ rubidium : rubidio
 ruhe : animo (psiko)  
 ruholojia : psikologio  
 ruke : dorso  
-rula : kääriä  
 rupe : aspekto  
 ruste : vilaĝo  
 rutenium : rutenio  

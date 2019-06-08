@@ -281,7 +281,7 @@ fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (�
 			canta	:	sing	kanti	laulaa	śpiewać								
 fra:chanter. eng:chant. por:spa:cantar. + zho:唱 (chàng). kor:창 (chang).			cante	:	song	kanto	laulu	piosenka, pieśń								
 			capa	:	press (imprint)	presi	painaa (leimata)	naciskać, zostawiać ślad								
-hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).			capate	:	flatbread (chapati, roti)			płaski chleb, ćapati								
+hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).			capate	:	flatbread (chapati, roti)		chapati	płaski chleb, ćapati								
 			cape	:	print (stamp)	presaĵo	painos (leima)	odcisk, ślad; stempel, pieczęć								
 			car	:	four (4)	kvar (4)	neljä (4)	cztery (4)								
 			carokon	:	square (tetragon)		neliö	kwadrat (czworokąt, czworobok, tetragon)								
@@ -403,6 +403,7 @@ hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិ�
 eng:fra:document. rus:документ (dokument).			dokum	:	document (record)		asiakirja (dokumentti, tiedosto)	dokument								
 			dolar	:	dollar	dolaro	dollari	dolar								
 rus:дом (dom). pol:dom. ltn:domus. + eng:domestic. fra:domestique. spa:por:doméstico.			dom	:	home (residence)	hejmo (loĝejo)	asunto (koti)	dom, mieszkanie				房子				
+			domi	:	domestic	hejma	koti-	domowy	doméstico	doméstico	domestique		дома́шний 			
 			domu	:	live (dwell, reside)	loĝi	asua	mieszkać			vivre (habiter)					
 			doma	:		loĝigi	asuttaa									
 			dominogem	:	dominoes		dominopeli	domino								
@@ -1622,11 +1623,12 @@ deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:p
 	dex	PA	panamia	:	Panama	Panamo	Panama	Panama								
 			panasi	:	pan-Asian		panaasialainen	panazjatycki								
 			pande	:	panda	pando	panda	panda								
-			panduner	:	Pandunia speaker											
+			panduner	:	Pandunia speaker		pandunian puhuja									
 			pandunia	:	Pandunia	pandunia	pandunia	Pandunia								
 			paneuropi	:	pan-European		paneurooppalainen	paneuropejski								
 tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.			pang	:	bread	pano	leipä	chleb								
 			panike	:	panic	paniko	hätä (paniikki)	panika								
+hin:पंखा (paṅkhā). urd:(pankhā). mya:ပန်ကာ (panka). fas:(panke). + eng:punkah. fra:panka. deu:Pankha.			panke	:	fan (ventilator)	ventumilo	viuhka (tuuletin)									
 	nas		panjabi	:	Punjabi		pandžabi (eräs intialainen kieli)	pendżabski								
 			panodemi	:	pandemic		pandeeminen (koko väestöä koskeva)	pandemiczny								
 			panodemonia	:	pandemonium		pandemonio	pandemonium								
@@ -1890,8 +1892,8 @@ tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনো�
 deu:Rücken.			ruke	:	back	dorso	selkä	placy								
 deu:eng:rucksack. cze:ruksak. rus:рюкзак (rjukzak). jpn: リュックサック (ryukkusakku). kor:륙색 (ryuksaek).			rukosake	:	backpack (rucksack)		reppu (rinkka)	plecak								
 			rul	:	roll (scroll, coil)		käärö	rulon (rolka, zwój)								
-			rula	:	roll (wrap in)	kääriä		toczyć, turlać								
-eng:rum. spa:ron. hin:रम (ram). rus:ром (rom).			rum	:	rum			rum								
+			rula	:	roll (wrap in)		kääriä	toczyć, turlać								
+eng:rum. spa:ron. hin:रम (ram). rus:ром (rom).			rum	:	rum		rommi	rum								
 	dex	BI	rundia	:	Burundi		Burundi	Burundi								
 hin:रूप (rūp). ind: rupa. tha: รูป /rūp/. khm:រូប (rūp).			rupe	:	appearance (looks)	aspekto	ilmiasu (ulkonäkö)	wygląd								
 			rupu	:	seem		näyttää jltkn									

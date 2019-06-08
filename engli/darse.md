@@ -469,9 +469,11 @@ questions. The word **ni** is used for denying something. Adding
 
 Conceptually negation means the absence or non-existence of the
 negated word. In the phrase **me ni salama te** the negative word
-**ni** denies the existence of greeting. In Pandunia the negative
-word affects the word that follows it. Different scopes of negation
-may result depending on the location of the negative word.
+**ni** denies the existence of greeting.
+
+In Pandunia the negative word affects the word that follows it.
+Different scopes of negation may result depending on the location
+of the negative word.
 
 **me plisa te safa kamar.**
 = I ask you to clean the room.  
