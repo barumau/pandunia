@@ -178,7 +178,6 @@ biznes : negoco
 bizneser : komercisto  
 blabla : babili  
 blableria : babilejo  
-blote : koto  
 boikote : bojkoto  
 boke : buŝo  
 bol : pilko  
@@ -192,7 +191,9 @@ borium : borio
 boron : boro  
 bote : ŝipo  
 botol : botelo  
+botolefte : tribordo  
 boton : butono  
+botoraite : babordo  
 brazilia : Brazilo  
 brom : bromo  
 brox : broso  
@@ -367,6 +368,9 @@ eritria : Eritreo
 eska : demandi (ĉu)  
 eske : demando  
 eski : demanda  
+eskulta : skulti  
+eskulte : statuo (skultaĵo)  
+eskulter : skultisto  
 espania : Hispanio  
 esperanti : Esperanto  
 estadia : stadiono (areno)  
@@ -443,6 +447,7 @@ fobia : timo (fobio)
 fokus : koncentriĝo  
 fokusa : koncentri  
 foli : freneza  
+folia : frenezeco  
 fong : vento  
 fonga : venti  
 forke : forko  
@@ -550,6 +555,7 @@ halif : kalifo
 halow : saluton!  
 hamake : hamako  
 hamar : martelo  
+hamili : graveda  
 hamir : feĉo  
 hande : mano  
 hangogia : Sudkoreio  
@@ -701,6 +707,7 @@ kangur : kangaro
 kanjar : ponardo  
 kanon : kanono  
 kanoner : kanonisto  
+kante : ŝultro  
 kanuh : kanuo (kanoto)  
 kanun : lego  
 kapa : kapti  
@@ -810,6 +817,7 @@ lenxa : ekzerci
 lenxe : ekzerco  
 lete : somero  
 lew : jam (esti farita)  
+leze : piro  
 liga : aligi  
 lil : malgranda  
 lim : kvin (5)  
@@ -854,6 +862,7 @@ maria : geedzeco
 mas : maso  
 masal : spico  
 maske : masko  
+maste : masto  
 matike : matematiko  
 matiker : matematikisto  
 matur : matura (plenkreska)  
@@ -1040,6 +1049,7 @@ pelpel : papilio
 penis : peniso  
 penta : pentri  
 pepin : kukumo  
+per : plumo  
 pese : mono  
 petre : ŝtono  
 pexe : metiero  
@@ -1071,7 +1081,8 @@ polon : polonio
 ponta : montri  
 pospor : fosforo  
 postokan : poŝtejo  
-pote : poto  
+pote : koto  
+poti : kota  
 preda : antaŭiri  
 prezidente : prezidento  
 prizona : malliberigi  
@@ -1086,8 +1097,7 @@ pulmon : pulmo
 pulowaze : vazo (florpoto)  
 pulte : ponto  
 punte : punkto  
-puran : malnova  
-puru : plumo  
+purani : malnova  
 putaw : vinbero  
 putong cini : mandarinĉina  
 putong : generala (universala)  
@@ -1160,6 +1170,7 @@ salam xam : Bonan vesperon
 salam : bona (en salutoj)  
 salama : saluti  
 salame : saluto  
+sali : sala  
 sam : sama  
 saman : ĉielo  
 samarium : samario  
@@ -1254,8 +1265,8 @@ te : vi (ci)
 tekne : tekniko  
 teknetium : teknecio  
 teknolojia : teknologio  
-tel : malproksima  
-tele : malproksimeco  
+tel : malproksimeco  
+teli : malproksima  
 telofon : telefono  
 telowide : televidilo  
 telurium : teluro  

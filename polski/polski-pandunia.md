@@ -79,7 +79,7 @@ azot : nitre
 badać, studiować : loja  
 bagaż : bagaje  
 bagietka : batonopang  
-bagno : blotostan  
+bagno : potistan  
 bahaista : bahayiste  
 bahaizm : bahayistia  
 Bahamy : bahamia  
@@ -182,8 +182,8 @@ bóg, bóstwo : dew
 ból : tung  
 bąk, bączek : tolo  
 bęben : tambur  
-błotnisty : bloti  
-błoto : blote  
+błotnisty : poti  
+błoto : pote  
 ##c  
 całus : cum  
 cecha, atrybut, własność; -ość : gun  
@@ -273,7 +273,7 @@ córka : femi bace
 ##d  
 dach : cate  
 daktyl : tamar  
-daleki, odległy : tel  
+daleki, odległy : teli  
 Dania : dania  
 danie : tas  
 darwinista : darwiniste  
@@ -342,7 +342,7 @@ dysk : diske
 dyskusja, debata, dyskurs : lon  
 dyskutoać, twierdzić : tesa  
 dysproz : disprosium  
-dystans : tele  
+dystans : tel  
 dzban, dzbanek; słój, słoik : jar  
 działka (teren) : lote  
 działo : kanon  
@@ -501,7 +501,7 @@ gruby : grosi
 grudzień : mes 9 (mes naw)  
 grunt (ziemia, próchnica) : darte  
 grupa : grupe  
-gruszka : per  
+gruszka : leze  
 grymas : grimas  
 grób, mogiła, grobowiec : gabre  
 Guam : guam  
@@ -941,6 +941,7 @@ marzec : mes 11 (mes des un)
 masaż : masaje  
 maska, kamuflaż : maske  
 mass (dough, lump) : mas  
+maszt : maste  
 maszyna : maxin  
 maszyna do pisania : kitabomaxin  
 masło : makan  
@@ -1343,7 +1344,7 @@ piwo : bir
 piwonia : mudan  
 pizza : pize  
 pizzeria : pizeria  
-pióro : puru  
+pióro : per  
 pióro, długopis : kalam  
 piątek : war 5 (war lim)  
 pięciokąt (pentagon) : limokon  
@@ -1804,7 +1805,7 @@ stacja : estasia
 stadion, arena : estadia  
 Stany Zjednoczone Ameryki : usamerike  
 Starożytny Egipt (Kemet) : kemia  
-stary, starożytny : puran  
+stary, starożytny : purani  
 statyczny, stacjonarny, nieruchomy : estasi  
 stać : libu  
 sterować : gida  
@@ -2070,7 +2071,6 @@ warunek : xarte
 warzywo : weje  
 wat : wate  
 Watykan, Państwo Watykańskie : watikan  
-waza, garnek, gar, doniczka, słoik, słój : pote  
 waza, garnek, pojemnik, słoik, dzban : waze  
 wazon; donica, doniczka : pulowaze  
 ważka : libel  

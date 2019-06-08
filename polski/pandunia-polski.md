@@ -209,9 +209,6 @@ bizneser : osoba biznesu, biznesman
 blabla : luźna rozmowa, gadanina  
 blableria : pokój rozmów, chat  
 bloge : blog  
-blote : błoto  
-bloti : błotnisty  
-blotostan : bagno  
 boikote : bojkot  
 boke : usta  
 bol : piłka  
@@ -1126,6 +1123,7 @@ lenxa : ćwiczyć
 lete : lato  
 letis : sałata  
 lew : już (skończona czynność)  
+leze : gruszka  
 liba : postawić (stawiać)  
 libel : ważka  
 liberia : Liberia  
@@ -1250,6 +1248,7 @@ masal : przyprawa
 masali tike : tikka masala  
 maske : maska, kamuflaż  
 masle : kwestia, problem  
+maste : maszt  
 mate : materia, substancja  
 mati : materialny  
 matike : matematyka  
@@ -1619,7 +1618,7 @@ penis : penis
 penta : namalować, malować  
 penter : malarz  
 pepin : ogórek  
-per : gruszka  
+per : pióro  
 perda : pierdzieć  
 perde : pierdnięcie  
 peri : wróżka, skrzydlaty duszek  
@@ -1702,7 +1701,9 @@ posta : nadać, wysłać pocztą
 poste : poczta  
 postocape : znaczek pocztowy  
 postokan : poczta, budynek poczty  
-pote : waza, garnek, gar, doniczka, słoik, słój  
+pote : błoto  
+poti : błotnisty  
+potistan : bagno  
 poza : pozować, ustawiać się  
 poze : poza, pozycja  
 prate : praktyka, aktualność  
@@ -1734,8 +1735,7 @@ pulowaze : wazon; donica, doniczka
 pulte : most  
 punte : kropka (znak interpunkcyjny)  
 pupe : lalka, kukiełka, pacynka, marionetka  
-puran : stary, starożytny  
-puru : pióro  
+purani : stary, starożytny  
 putaw : winogrono  
 putong cini : mandaryński chiński, Putonghua  
 putong : powszechny, uniwersalny  
@@ -2075,8 +2075,8 @@ tekne : technika, technologia
 teknetium : technet  
 teknokratia : technokracja  
 teknolojia : technologia, nauka o technikach  
-tel : daleki, odległy  
-tele : dystans  
+tel : dystans  
+teli : daleki, odległy  
 telofon : telefon  
 telowide : telewizja  
 telugi : telugu  

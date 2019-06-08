@@ -102,6 +102,7 @@ aŭtuno : oton
 ##b  
 babilejo : blableria  
 babili : blabla  
+babordo : botoraite  
 bah! : fuy  
 bahaismo : bahayistia  
 bahaisto : bahayiste  
@@ -386,6 +387,7 @@ franciumo : fransium
 frato aŭ fratino : saudar  
 fremda lando : way dexia  
 freneza : foli  
+frenezeco : folia  
 freŝa : tazi  
 fromaĝo : cis  
 frosto : himorose  
@@ -428,6 +430,7 @@ grasa : feti
 graso : fete  
 gratuli : barka  
 grava : importi  
+graveda : hamili  
 gravi : importu  
 greka : helen  
 Grekio : helenia  
@@ -650,7 +653,8 @@ korno : korne
 koro : xim  
 korpa : badani  
 korpo : badan  
-koto : blote  
+kota : poti  
+koto : pote  
 kotono : goton  
 kotraŭa : anti  
 kovri : deka  
@@ -760,12 +764,12 @@ malliberigi : prizona
 mallonga : korti  
 mallongigi : korta  
 malmulte : xaw  
-malnova : puran  
+malnova : purani  
 malplej : minim  
 malplena : hali  
 malpli : min  
-malproksima : tel  
-malproksimeco : tele  
+malproksima : teli  
+malproksimeco : tel  
 malsana : bing  
 malsukceso : xibay  
 maltro : min ka bas  
@@ -785,6 +789,7 @@ maro (oceano) : daria
 martelo : hamar  
 masko : maske  
 maso : mas  
+masto : maste  
 matematikisto : matiker  
 matematiko : matike  
 mateno : sube  
@@ -981,6 +986,7 @@ pino : song
 pinĉilo : pinser  
 pipro : pimente  
 piramido : piram  
+piro : leze  
 pisi (urini) : pixa  
 piso (urino) : pix  
 piĝino : pijin  
@@ -995,7 +1001,7 @@ pli : max
 plori : kuga  
 plumbo : plumbe  
 plumo : kalam  
-plumo : puru  
+plumo : per  
 plutonio : plutonium  
 poemo : xir  
 pokero : poke  
@@ -1014,7 +1020,6 @@ porkaĵo : gurubomanse
 porko : gurube  
 posteno : asan  
 posttagmeze : xamoden  
-poto : pote  
 povi : abla  
 povo : able  
 poŝo : jebe  
@@ -1110,6 +1115,7 @@ rutino (kutimo) : rutin
 sablo : rege  
 safrano : zafran  
 saga : sofia  
+sala : sali  
 salo : sal  
 salti : jampa  
 saluti : salama  
@@ -1167,6 +1173,8 @@ sitelo : balde
 skandio : skandium  
 skatolo (kesto) : sanduke  
 skribo : kitabe  
+skulti : eskulta  
+skultisto : eskulter  
 sofo : sofah  
 somero : lete  
 sono : sonde  
@@ -1181,6 +1189,7 @@ sputi : tuha
 stacio : estasia  
 stadiono (areno) : estadia  
 stango : baton  
+statuo (skultaĵo) : eskulte  
 stelo : xing  
 stiri : gida  
 stranga : bizar  
@@ -1270,6 +1279,7 @@ tranĉilo : cake
 trezoro : hazin  
 tri (3) : tin  
 tribo : tribe  
+tribordo : botolefte  
 tro : max ka bas  
 trovi : eureka  
 tubo : tube  
@@ -1413,5 +1423,6 @@ zuluo : zuluh
 ŝtrumpo : soke  
 ŝuistejo : sapateria  
 ŝuisto : sapater  
+ŝultro : kante  
 ŝuo : sapate  
 ŭaŭ! : waw  

@@ -259,7 +259,7 @@ Etelä-Korea : hangogia
 Etelä-Sudan : sudi sudan  
 etikka : sirke  
 Etiopia : etiopia  
-etäisyys (kaukaisuus) : tele  
+etäisyys (kaukaisuus) : tel  
 Euraasia : eurasia  
 euro (€) : europese  
 Euroopan unioni : europi unia  
@@ -668,7 +668,7 @@ katkaista (leikata) : kata
 kattila : ketel  
 katto (katos) : cate  
 kauhu (terrori) : teror  
-kaukainen : tel  
+kaukainen : teli  
 kaunis (komea, sievä) : sundar  
 kaupunki : site  
 Kazakstan : kazahia  
@@ -878,7 +878,7 @@ kupla : bubul
 kupoli (holvikatto) : kupol  
 kuponki : kupon  
 kuppi (muki) : kupe  
-kurainen (mutainen) : bloti  
+kurainen (mutainen) : poti  
 kurja (raukka) : miskin  
 kurkku : pepin  
 kuski (ajuri, ajaja) : xofer  
@@ -898,6 +898,8 @@ kuutio : kube
 kuva (kuvaus) : graf  
 kuvaileva (määrittelevä) : sifi  
 kuvakirja : grafobuke  
+kuvanveisto : eskultia  
+kuvanveistäjä : eskulter  
 kuvaruutu : ekran  
 kuvata (kuvailla) : grafa  
 kuvitella : fantaza  
@@ -1149,6 +1151,7 @@ Marokko : magribia
 marraskuu : mes 11 (mes des un)  
 Mars : marse  
 massa : mas  
+masto (salko) : maste  
 matemaatikko : matiker  
 matematiikka (matikka) : matike  
 matka (reissu) : safar  
@@ -1183,7 +1186,7 @@ merkki (jälki) : marke
 merkki (signaali) : sinye  
 Merkurius : budan  
 messiaaninen : kristi  
-mestari (asiantuntija) : master  
+mestari (asiantuntija) : mester  
 mestari (voittaja) : campion  
 metalli : metal  
 meteli : kelele  
@@ -1257,7 +1260,7 @@ musketööri : musketer
 muslimi (islaminuskoinen) : islamiste  
 musta : kal  
 muste : moge  
-muta (kura, lieju) : blote  
+muta (kura, lieju) : pote  
 mutka (kurvi) : kurbe  
 mutkikas : kurbi  
 mutta : a  
@@ -1380,6 +1383,7 @@ oikeus : adalia
 oivaltaa (tajuta) : aha  
 oksa (haara) : xake  
 oliivi : zaitun  
+olkapää (hartia) : kante  
 olla hereillä : weki  
 olla nimeltään : namu  
 olla olemassa : zayu  
@@ -1430,6 +1434,7 @@ ovi (portti, veräjä) : mun
 ##p  
 paahtaa (paistaa) : rosta  
 paahtoleipä : rosti pang  
+paapuuri : botoraite  
 paeta (karata) : bega  
 pah (pyh) : bah  
 paholainen (saatana, piru) : xatan  
@@ -1660,7 +1665,7 @@ pää- : xefi
 pääkallo : saroste  
 päällikkö (pomo) : xef  
 pääministeri (suurvisiiri) : xefi minister  
-päärynä : per  
+päärynä : leze  
 pääsiäinen : paske  
 päästää (sallia) : laxa  
 pääte: adjektiivi tai adverbi : -i  
@@ -1694,6 +1699,7 @@ raportoida (selostaa) : reporta
 raportti (selostus, selonteko) : reporte  
 rasismi (rotuoppi) : rasistia  
 rasisti : rasiste  
+raskaana (odottava) : hamili  
 raskasmetalli : barometal  
 rasva (öljy) : fete  
 rasvainen : feti  
@@ -1753,7 +1759,6 @@ Ruotsi : swenia
 rusina : gan putaw  
 ruskea : kafi  
 ruukku (maljakko, vaasi) : waze  
-ruukku (vaasi, pata) : pote  
 ruumiillinen : badani  
 ruusu : roze  
 ruuti : barude  
@@ -1851,6 +1856,7 @@ siipi : wing
 siirappi : xirope  
 siitin (penis) : penis  
 siivooja : safer  
+sijaita : loku  
 sijasta (tilalta) : sa loke du  
 sijoittaa (panna paikalleen) : loka  
 sika (possu) : gurube  
@@ -1917,13 +1923,14 @@ suklaapatukka : cokobaton
 sukunimi : familonam  
 sukupuoli : jinse  
 sukupuoli- : jinsi  
-sulka : puru  
+sulka : per  
 sulkea vetoketjulla : zipa  
 summa : sum  
 sunnuntai : war 7 (war sem)  
-suo (räme) : blotostan  
+suo (räme) : potistan  
 suodattaa : filter  
 suola : sal  
+suolainen : sali  
 suomalainen : suomi  
 Suomi : suomia  
 suora : jiki  
@@ -1985,7 +1992,7 @@ taika (taikuus, magia) : magia
 taikuri : mager  
 Taipei : taibei  
 taistelu (sota) : jeng  
-taitaa (olla mestari jskn) : masta  
+taitaa (olla mestari jskn) : mesta  
 taitava : xuti  
 taiteilija : arter  
 taito (kyky) : able  
@@ -2014,6 +2021,7 @@ taolainen : dawiste
 taolaisuus : dawistia  
 tapa (perinne) : rasme  
 tapa (rutiini) : rutin  
+tapa : ade  
 tapaaminen (kokous) : mite  
 tapaus (seikka) : kas  
 tapetti : muropapir  
@@ -2031,6 +2039,7 @@ tatuointi : tataw
 tauko (paussi) : paus  
 taulukko : table  
 taulukoida : tabla  
+tavallinen : adi  
 tavanomainen (perinteinen) : rasmi  
 tavata : mita  
 te : tote  
@@ -2157,6 +2166,7 @@ tyrannia : tirania
 tyttö (nuori neito) : jowan fem  
 tyttölapsi : femi bace  
 tyyny : kusen  
+tyyrpuuri : botolefte  
 työ (tehtävä) : werke  
 työkalu : tul  
 työntekijä (työläinen) : werker  
@@ -2243,7 +2253,7 @@ valonsäde : nurorade
 valta : kratia  
 vanginvartija : prizoner  
 vangita : prizona  
-vanha (muinainen) : puran  
+vanha (muinainen) : purani  
 vanilja : wanil  
 vankeus : prizon  
 vankila : prizonia  
@@ -2277,6 +2287,8 @@ Vatikaanivaltio : watikan
 vaurio (vahinko) : damaje  
 vauva : bebe  
 vegaani : wejan  
+veistos (patsas) : eskulte  
+veistää kuvaa : eskulta  
 veitsi (puukko) : cake  
 vene (laiva) : bote  
 Venezuela : wenesuela  

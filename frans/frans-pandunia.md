@@ -61,6 +61,7 @@ autre : ali
 avoir : tena  
 axe : akse  
 ##b  
+babord : botoraite  
 bagage : bagaje  
 bain : banye  
 balcon : balkon  
@@ -71,6 +72,7 @@ base : baze
 basketball : baskobol  
 bibliothèque : kitabia  
 billet : tikete  
+boue (fange, bourbe, gadoue) : pote  
 ##c  
 capacité (compétence) : able  
 chapitre : babe  
@@ -117,6 +119,7 @@ machine à écrire : kitabomaxin
 mais (bien que) : a  
 manichéisme : manihayistia  
 mouche : zeze  
+mât : maste  
 ##n  
 note : note  
 ##o  
@@ -163,6 +166,7 @@ tomate : tomate
 toucher : toca  
 touriste : safariste  
 traduction : tarje  
+tribord : botolefte  
 Tunisie : tunisia  
 téléphone : telofon  
 téléviseur : telowide  

@@ -63,6 +63,8 @@ baze : 底部
 bere : 浆果  
 bil : 帐单   
 bon rupi : 好看  
+botolefte : 右舷   
+botoraite : 左舷  
 buke : 书  
 buze : 山羊   
 ##c  
@@ -80,6 +82,7 @@ fem : 女
 ##h  
 habar : 消息  
 haime : 帐篷  
+hamili : 怀孕  
 helis : 螺旋  
 helpa : 帮助  
 ##i  
@@ -102,11 +105,13 @@ kosmia : 宇宙
 ##l  
 laya : 来  
 le : 他，她，它  
+leze : 梨  
 lole : 他们  
 luta : 掠夺   
 ##m  
 mame : 妈妈  
 manihayistia : 摩尼教   
+maste : 桅  
 maturi fem : 女人  
 maturi man : 男人  
 maye : 蚂蚁   
@@ -128,6 +133,7 @@ papagay : 鹉鹦
 parke : 园  
 pelmen : 饺子   
 plisa : 请  
+pote : 坭  
 pulte : 桥  
 ##r  
 ##s  

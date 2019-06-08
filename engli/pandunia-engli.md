@@ -13,6 +13,8 @@ acente : accent (stress)
 acinium : actinium  
 adali : just (fair)  
 adalia : justice  
+ade : habit  
+adi : ordinary (routine, normal)  
 adres : address  
 adulte : adult  
 afgania : Afghanistan  
@@ -218,9 +220,6 @@ bizneser : businessperson (businessman)
 blabla : chat (babble)  
 blableria : chat room  
 bloge : blog (web log)  
-blote : mud (mire)  
-bloti : muddy  
-blotostan : marsh (bog, swamp, morass)  
 boikote : boycott  
 boke : mouth  
 bol : ball  
@@ -237,7 +236,9 @@ bosnia : Bosnia and Herzegovina
 bote : boat (ship)  
 botokaper : privateer (buccaneer)  
 botol : bottle  
+botolefte : starboard (right side of a ship)  
 boton : button  
+botoraite : port (left side of a ship)  
 brazawil kongolia : Congo (Brazzaville)  
 brazilia : Brazil  
 britania : United Kingdom  
@@ -472,6 +473,10 @@ esey : essay
 eska : ask (inquire)  
 eske : question  
 eski : interrogative  
+eskulta : sculpt  
+eskulte : sculpture (statue)  
+eskulter : sculptor  
+eskultia : sculpture (art of sculpting)  
 espania : Spain  
 esperanti : Esperanto  
 estadia : stadium (arena)  
@@ -712,6 +717,7 @@ halifia : caliphate
 halow : hello (hi)  
 hamake : hammock  
 hamar : hammer  
+hamili : pregnant  
 hamir : yeast  
 hande : hand  
 hangogia : Korea (South)  
@@ -926,7 +932,7 @@ kaka : defecate (shit)
 kakaw : cocoa  
 kake : excrement (shit)  
 kal : black  
-kalam : pen  
+kalam : pen (writing tool)  
 kalifornium : californium  
 kalium : potassium  
 kalkulia : calculus (manipulation of symbolic expressions)  
@@ -953,6 +959,7 @@ kannadi : Kannada
 kanon : gun (cannon)  
 kanoner : cannoneer  
 kanosuy : tear drop  
+kante : shoulder  
 kanuh : canoe  
 kanun : law  
 kapa : catch (capture, seize, snatch, intercept)  
@@ -1172,6 +1179,7 @@ lenxe : exercise
 lete : summer  
 letis : lettuce  
 lew : already (completed action)  
+leze : pear  
 liba : erect  
 libel : dragonfly  
 liberia : Liberia  
@@ -1207,9 +1215,10 @@ logike : logic (deduction)
 logofiler : logophile (word buff)  
 loja : research (to study)  
 lojia : science (study, research)  
-loka : locate (place)  
+loka : place (locate, put)  
 loke : place (location)  
 loki : local  
+loku : be located (lie, be situated)  
 lole : they  
 lon : discussion (debate, discourse)  
 lona : debate (discuss)  
@@ -1305,8 +1314,7 @@ masal : spice (seasoning)
 masali tike : tikka masala  
 maske : mask (camouflage)  
 masle : issue (affair, concern)  
-masta : master (be an expert at sth)  
-master : master (expert)  
+maste : mast  
 mate : matter (substance)  
 mati : material  
 matike : mathematics (math)  
@@ -1367,6 +1375,8 @@ mes 9 (mes naw) : September
 mes : month  
 mesaja : communicate (message)  
 mesaje : message  
+mesta : master (be an expert at sth)  
+mester : master (expert)  
 meta : measure (take measurements)  
 metal : metal  
 metalojanger : blacksmith (iron forger)  
@@ -1691,7 +1701,7 @@ penis : penis (phallus)
 penta : paint  
 penter : painter  
 pepin : cucumber  
-per : pear  
+per : feather  
 perda : fart (flatulate)  
 perde : fart (flatulence)  
 peri : fairy  
@@ -1774,7 +1784,9 @@ posta : mail (send by mail)
 poste : mail  
 postocape : postal stamp  
 postokan : post office  
-pote : vase (pot, bin, jar, jug)  
+pote : mud (mire)  
+poti : muddy  
+potistan : marsh (bog, swamp, morass)  
 poza : pose (set)  
 poze : pose (position)  
 prate : practice (actuality)  
@@ -1807,8 +1819,7 @@ pulowaze : vase (flower pot)
 pulte : bridge  
 punte : point (full stop)  
 pupe : doll (puppet)  
-puran : old (ancient)  
-puru : feather  
+purani : old (ancient)  
 putaw : grape  
 putong cini : Mandarin Chinese (Putonghua)  
 putong : common (general, universal)  
@@ -1958,6 +1969,7 @@ salam : good (in greetings)
 salama : greet  
 salame : greeting (hello)  
 salbador : El Salvador  
+sali : salty (saline)  
 salima : surrender (to give up)  
 salonia : Sierra Leone  
 sam : same  
@@ -2165,8 +2177,8 @@ tekne : technique (technology)
 teknetium : technetium  
 teknokratia : technocracy  
 teknolojia : technology (study of techniques)  
-tel : far (distant)  
-tele : distance  
+tel : distance  
+teli : far (distant)  
 telofon : telephone  
 telowide : television  
 telugi : Telugu  
@@ -2315,7 +2327,7 @@ way dexi : foreign
 way dexia : foreign country  
 way : outer (external)  
 waye : outside (exterior)  
-waze : vase (pot, bin, jar, jug)  
+waze : pot (vase, bin, jar, jug)  
 wejan : vegan  
 weje : vegetable  
 weka : wake (make awake)  
@@ -2423,7 +2435,7 @@ yakin : certain (sure)
 yala : hurry (hasten)  
 yaman : Yemen  
 yang : kind (type, style)  
-yani : that is (in other words, i.e.)  
+yani : that is (in other words, i.e., alias)  
 yasen : ash tree  
 yatim : orphan  
 yatimodom : orphanage  

@@ -100,6 +100,8 @@ baskobol : basketball
 bax : langue  
 baya : acheter  
 baze : base  
+botolefte : tribord  
+botoraite : babord  
 buke : livre  
 ##c  
 ##d  
@@ -131,6 +133,7 @@ lutaristia : luthéranisme
 malke : propriété (possession, bien)  
 malker : possédant (propriétaire)  
 manihayistia : manichéisme  
+maste : mât  
 maye : fourmi  
 ##n  
 note : note  
@@ -139,6 +142,7 @@ note : note
 papagay : perroquet  
 pike : cime (pic, sommet)  
 piratia : piraterie  
+pote : boue (fange, bourbe, gadoue)  
 ##r  
 rim : rime  
 ruhe : psyché  

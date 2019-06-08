@@ -186,6 +186,7 @@ be about (discuss as a subject) : tema
 be against : kontra  
 be born : jenu  
 be called (be named) : namu  
+be located (lie, be situated) : loku  
 be seen : widu  
 bean or pea (legume) : dow  
 bear : urse  
@@ -602,7 +603,7 @@ disc (disk) : diske
 discussion (debate, discourse) : lon  
 dish : tas  
 disperse : jamula  
-distance : tele  
+distance : tel  
 divide (to partition) : fena  
 divine (godly) : dewi  
 Djibouti : jibutia  
@@ -737,7 +738,7 @@ fan (-phile) : filer
 fan (ventilator) : panke  
 fantastic (imaginary) : fantazi  
 fantasy (imagination) : fantaze  
-far (distant) : tel  
+far (distant) : teli  
 farewell : salam cute  
 farmer : nonger  
 fart (flatulate) : perda  
@@ -753,7 +754,7 @@ father : pape
 fatty (greasy) : feti  
 fault (sin, blame, defect, guilt) : dox  
 fear (phobia) : fobia  
-feather : puru  
+feather : per  
 February : mes 2 (mes dul)  
 fee (fare, tariff, rate) : tarif  
 feel (sense by touch) : senta  
@@ -927,6 +928,7 @@ gunpowder : barude
 guru (teacher) : gur  
 Guyana : gayan  
 ##h  
+habit : ade  
 hafnium : hafnium  
 hair : kex  
 hairband (headband) : kexobende  
@@ -1220,7 +1222,6 @@ live (be alive, living) : jiwi
 live (dwell, reside) : domu  
 load (to charge) : lada  
 local : loki  
-locate (place) : loka  
 logbook : deftobuke  
 logic (deduction) : logike  
 logophile (word buff) : logofiler  
@@ -1293,13 +1294,14 @@ marriage (matrimony) : maria
 married : mari  
 marry : mara  
 Mars : marse  
-marsh (bog, swamp, morass) : blotostan  
+marsh (bog, swamp, morass) : potistan  
 martial art : jengoxute  
 mask (camouflage) : maske  
 mass (dough, lump) : mas  
 massage : masaje  
-master (be an expert at sth) : masta  
-master (expert) : master  
+mast : maste  
+master (be an expert at sth) : mesta  
+master (expert) : mester  
 match (contest) : mece  
 match (fit, suit, conform) : maca  
 material : mati  
@@ -1408,8 +1410,8 @@ move (transfer, change place) : kina
 movement : kine  
 Mozambique : mozambike  
 MSG (monosodium glutamate) : micin  
-mud (mire) : blote  
-muddy : bloti  
+mud (mire) : pote  
+muddy : poti  
 mummy : mumia  
 muscle : muskul  
 music : musike  
@@ -1514,7 +1516,7 @@ oganesson : oganeson
 ogre (troll, goblin) : guy  
 oh! : o  
 okay (acceptable) : okey  
-old (ancient) : puran  
+old (ancient) : purani  
 olive : zaitun  
 Oman : oman  
 once : un ban  
@@ -1535,6 +1537,7 @@ order (arrange) : ratiba
 order (arrangement) : ratibe  
 order (command) : komande  
 order (issue a command) : komanda  
+ordinary (routine, normal) : adi  
 orgasm : orgazme  
 oriental dragon : rong  
 origin (source) : asle  
@@ -1606,9 +1609,9 @@ pause (interrupt) : pausa
 pay : peya  
 payment : pey  
 peanut (groundnut) : zemodow  
-pear : per  
+pear : leze  
 pearl : lul  
-pen : kalam  
+pen (writing tool) : kalam  
 penguin : pinguin  
 penis (phallus) : penis  
 pentagon : limokon  
@@ -1663,6 +1666,7 @@ pit (excavation) : fos
 Pitcairn : pitkerne  
 pizza : pize  
 pizzeria : pizeria  
+place (locate, put) : loka  
 place (location) : loke  
 plain (ordinary, unadorned, simple, mere) : sadi  
 plan : plan  
@@ -1715,6 +1719,7 @@ popular (trendy) : faxoni
 pork : gurubomanse  
 porn : porne  
 pornography : pornografia  
+port (left side of a ship) : botoraite  
 portion (dose) : doze  
 Portugal : portugalia  
 pose (position) : poze  
@@ -1723,6 +1728,7 @@ possible (possibly, maybe, perhaphs) : abli
 post office : postokan  
 postal stamp : postocape  
 posture (asana) : asan  
+pot (vase, bin, jar, jug) : waze  
 potassium : kalium  
 potato : patate  
 pound (£) : paunde  
@@ -1735,6 +1741,7 @@ pray : duwa
 prayer : duwe  
 precede (come before) : preda  
 precise (exact, accurate) : presis  
+pregnant : hamili  
 prepare (make ready) : reda  
 presence (existence) : zaye  
 present (current, existing) : zay  
@@ -1916,6 +1923,7 @@ Saint Lucia : santi lusia
 Saint Vincent and Grenadines : winsi i grenadin  
 salad : salade  
 salt : sal  
+salty (saline) : sali  
 samarium : samarium  
 same : sam  
 Samoa : samoa  
@@ -1936,6 +1944,10 @@ science (study, research) : lojia
 scissors : makas  
 screen : ekran  
 screw : lose  
+sculpt : eskulta  
+sculptor : eskulter  
+sculpture (art of sculpting) : eskultia  
+sculpture (statue) : eskulte  
 sea (ocean) : daria  
 seaborgium : seaborgium  
 search : serca  
@@ -1989,6 +2001,7 @@ shop (workshop, place of doing) : eria
 short (brief) : korti  
 shorten : korta  
 should (ought) : xudu  
+shoulder : kante  
 show (display) : xowa  
 show (display, exhibition) : xow  
 shower : dux  
@@ -2083,6 +2096,7 @@ stage (scene) : sen
 stand : libu  
 stand still : estasa  
 star : xing  
+starboard (right side of a ship) : botolefte  
 static (stationary) : estasi  
 station : estasia  
 steal : cora  
@@ -2214,7 +2228,7 @@ Thailand : tayia
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
-that is (in other words, i.e.) : yani  
+that is (in other words, i.e., alias) : yani  
 theft : cor  
 theism : dewistia  
 theist : dewiste  
@@ -2344,8 +2358,6 @@ valve (tap, faucet) : kran
 vanilla : wanil  
 Vanuatu : wanuatu  
 vase (flower pot) : pulowaze  
-vase (pot, bin, jar, jug) : pote  
-vase (pot, bin, jar, jug) : waze  
 vegan : wejan  
 vegetable : weje  
 Venezuela : wenesuela  

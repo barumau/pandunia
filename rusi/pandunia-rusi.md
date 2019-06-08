@@ -54,6 +54,8 @@ baskobol : баскетбол
 bax : язык  
 baze : основа (база,  фундамент)  
 bil : счёт  
+botolefte : правый борт   
+botoraite : левый борт  
 buke : книга  
 ##c  
 cini : хань  
@@ -68,6 +70,7 @@ dul u tin : пара
 habar : новости  
 haime : палатка (шатёр)  
 hali : пустой  
+hamili : беременный  
 hazin : сокровище (казна)  
 ##i  
 ##j  
@@ -89,6 +92,7 @@ lutaristi : лютеранский
 lutaristia : лютера́нство   
 ##m  
 manihayistia : манихейство  
+maste : мачта  
 moluske : моллюск  
 ##n  
 note : запись (заметка)  
@@ -96,6 +100,7 @@ note : запись (заметка)
 ##p  
 papagay : попугай  
 pike : вершина  
+pote : болото  
 ##r  
 rim : рифма  
 ruhe : душа (дух)  

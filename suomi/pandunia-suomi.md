@@ -13,6 +13,8 @@ acente : painotus (aksentti)
 acinium : aktinium  
 adali : oikeudenmukainen  
 adalia : oikeus  
+ade : tapa  
+adi : tavallinen  
 adres : osoite  
 adulte : aikuinen  
 afgania : Afganistan  
@@ -217,9 +219,6 @@ bizneser : liikemies
 blabla : jutella (höpistä)  
 blableria : keskusteluhuone  
 bloge : blogi (nettikolumni)  
-blote : muta (kura, lieju)  
-bloti : kurainen (mutainen)  
-blotostan : suo (räme)  
 boikote : boikotti  
 boke : suu  
 bol : pallo  
@@ -236,7 +235,9 @@ bosnia : Bosnia ja Hertsegovina
 bote : vene (laiva)  
 botokaper : laivakaappari  
 botol : pullo  
+botolefte : tyyrpuuri  
 boton : nappi  
+botoraite : paapuuri  
 brazawil kongolia : Brazzavillen Kongo  
 brazilia : Brasilia  
 britania : Iso-Britannia (Yhdistyneet Kuningaskunnat)  
@@ -472,6 +473,10 @@ esey : essee
 eska : kysyä  
 eske : kysymys  
 eski : kysyvä  
+eskulta : veistää kuvaa  
+eskulte : veistos (patsas)  
+eskulter : kuvanveistäjä  
+eskultia : kuvanveisto  
 espania : Espanja  
 esperanti : esperanto  
 estadia : stadioni (areena)  
@@ -712,6 +717,7 @@ halifia : kalifaatti
 halow : hei (haloo)  
 hamake : riippumatto  
 hamar : vasara  
+hamili : raskaana (odottava)  
 hamir : hiiva  
 hande : käsi  
 hangogia : Etelä-Korea  
@@ -953,6 +959,7 @@ kannadi : kannada (eräs intialainen kieli)
 kanon : tykki (pyssy)  
 kanoner : tykkimies  
 kanosuy : kyynel  
+kante : olkapää (hartia)  
 kanuh : kanootti  
 kanun : laki  
 kapa : ottaa kiinni (napata, kaapata)  
@@ -1172,6 +1179,7 @@ lenxe : harjoitus
 lete : kesä (suvi)  
 letis : lehtisalaatti  
 lew : jo (tehty teko)  
+leze : päärynä  
 liba : nostaa pystyyn  
 libel : sudenkorento  
 liberia : Liberia  
@@ -1210,6 +1218,7 @@ lojia : tiede (tutkimus)
 loka : sijoittaa (panna paikalleen)  
 loke : paikka (sija, sijainti)  
 loki : paikallinen  
+loku : sijaita  
 lole : he  
 lon : väittely (debatti)  
 lona : keskustelu (debatti)  
@@ -1304,8 +1313,7 @@ masal : mauste
 masali tike : tikka masala  
 maske : naamio (maski)  
 masle : asia (juttu)  
-masta : taitaa (olla mestari jskn)  
-master : mestari (asiantuntija)  
+maste : masto (salko)  
 mate : aine (materia)  
 mati : aineellinen (materiaalinen)  
 matike : matematiikka (matikka)  
@@ -1366,6 +1374,8 @@ mes 9 (mes naw) : syyskuu
 mes : kuukausi  
 mesaja : viestiä (kommunikoida)  
 mesaje : viesti  
+mesta : taitaa (olla mestari jskn)  
+mester : mestari (asiantuntija)  
 meta : mitata  
 metal : metalli  
 metalojanger : seppä  
@@ -1690,7 +1700,7 @@ penis : siitin (penis)
 penta : maalata  
 penter : maalari  
 pepin : kurkku  
-per : päärynä  
+per : sulka  
 perda : pierrä (pieraista)  
 perde : pieru  
 peri : keiju  
@@ -1773,7 +1783,9 @@ posta : postittaa
 poste : posti (postilähetys)  
 postocape : postileima  
 postokan : postitoimisto  
-pote : ruukku (vaasi, pata)  
+pote : muta (kura, lieju)  
+poti : kurainen (mutainen)  
+potistan : suo (räme)  
 poza : panna (asettaa)  
 poze : asetelma  
 prate : käytäntö (pragmatia)  
@@ -1805,8 +1817,7 @@ pulowaze : kukkaruukku
 pulte : silta  
 punte : piste (täplä)  
 pupe : nukke  
-puran : vanha (muinainen)  
-puru : sulka  
+purani : vanha (muinainen)  
 putaw : viinirypäle  
 putong cini : yleiskiina (mandariinikiina)  
 putong : yleinen (universaali)  
@@ -1953,6 +1964,7 @@ salam : hyvä (tervehdyksissä)
 salama : tervehtiä  
 salame : tervehdys (terve!)  
 salbador : El Salvador  
+sali : suolainen  
 salonia : Sierra Leone  
 sam : sama  
 saman : taivas  
@@ -2136,8 +2148,8 @@ te : sinä
 tekne : tekniikka (keino, menetelmä)  
 teknokratia : teknokratia  
 teknolojia : tekniikka (teknologia)  
-tel : kaukainen  
-tele : etäisyys (kaukaisuus)  
+tel : etäisyys (kaukaisuus)  
+teli : kaukainen  
 telofon : puhelin  
 telowide : televisio  
 telugi : telugu (eräs intialainen kieli)  
