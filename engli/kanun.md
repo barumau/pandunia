@@ -665,10 +665,19 @@ Such sentences can be simply negated with **ni**.
 **le ni nowi meze.** - It's not a new table.
 
 The word **ni** is used for denying anything. It affects always the next word.
+Different scopes of negation may result depending on the location of the
+negative word.
 
 **me wida te.** - I see you.  
 **me ni wida te.** - I don't see you.  
 **me wida ni te a lole.** - I see, not you, but them.
+
+**me plisa te safa kamar.**
+= I ask you to clean the room.  
+**me ni plisa te safa kamar.**
+= I do NOT ask you to clean the room.  
+**me plisa te ni safa kamar.**
+= I ask you NOT to clean the room.
 
 The particles **si** and **ni** are used also for answering questions.
 
