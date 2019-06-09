@@ -513,7 +513,7 @@ Pandunia doesn't use a verb like "to be" in English.
 
 In predicates of action, the main word in the predicate is a verb
 (i.e. an action-word). In Pandunia, verbs are easy to identify because
-most of them end in **-a** or **-u**.
+all of them end in **-a** or **-u**.
 
 Active sentences that use a verb ending in **-a** have the
 subject–verb–object word order (SVO).
