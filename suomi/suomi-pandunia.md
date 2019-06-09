@@ -469,7 +469,7 @@ höylätä : randa
 ihminen : insan  
 ihmiskunta : insania  
 ikkuna : janel  
-ikä : umur  
+ikä : aje  
 ilkeä (julma) : zalim  
 illallinen : xamonyam  
 ilma : hawe  
@@ -1434,7 +1434,7 @@ ovi (portti, veräjä) : mun
 ##p  
 paahtaa (paistaa) : rosta  
 paahtoleipä : rosti pang  
-paapuuri : botoraite  
+paapuuri : botolefte  
 paeta (karata) : bega  
 pah (pyh) : bah  
 paholainen (saatana, piru) : xatan  
@@ -2166,7 +2166,7 @@ tyrannia : tirania
 tyttö (nuori neito) : jowan fem  
 tyttölapsi : femi bace  
 tyyny : kusen  
-tyyrpuuri : botolefte  
+tyyrpuuri : botoraite  
 työ (tehtävä) : werke  
 työkalu : tul  
 työntekijä (työläinen) : werker  

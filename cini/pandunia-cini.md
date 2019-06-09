@@ -63,8 +63,9 @@ baze : 底部
 bere : 浆果  
 bil : 帐单   
 bon rupi : 好看  
-botolefte : 右舷   
-botoraite : 左舷  
+botolefte : 左舷  
+boton : 扣子  
+botoraite : 右舷   
 buke : 书  
 buze : 山羊   
 ##c  

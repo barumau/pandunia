@@ -47,6 +47,7 @@ agres ← eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). 
 aha ← rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.  
 ais ← eng:ice. deu:Eis. ind:és.  
 aisokrem ← eng:ice cream. jpn:アイスクリーム (aisukurīmu). kor:아이스크림 (aiseukeurim). hin:आइसक्रीम (āisakrīm). urd:(āisakrīm). ben:আইসক্রীম (aisôkrīm). tha:ไอศกรีม (ai-sà-griim). ind:es krim. swa:aiskrimu. tam:ஐஸ் கிரீம் (ais kirīm). tel:(ais krīm).  
+aje ← eng:age. fra:âge. hin:आयु (āyu). ben:আয়ু (ayu). khm:អាយុ (aayu). tha:อายุ (aayu).  
 akse ← eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.  
 alge ← deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.  
 ali ← ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.  
@@ -134,13 +135,13 @@ bizi ← eng:busy.
 biznes ← eng:business. rus:бизнес (biznes).  
 blabla ← fra:blablater. eng:babble. spa:blablablá.  
 boke ← spa:por:boca.  
-bol ← eng:ball. spa:bola. jpn:"bōru".  
+bol ← eng:ball. spa:por:ind:tgl:bola. tha:บอล (bɔl). jpn:ボール (bōru). kor:볼 (bol). khm:បាល់ (bal). ben:বল (bôl). deu:Ball. fra:boule,balle.  
 bombe ← hin:बम "bam". eng:bomb.  
 bon rupi ← zho:好看 (hǎokàn). eng:good-looking.  
 bon ← fra: bon. Italian: buono. spa: bueno.  
 bote ← spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.  
 botol ← eng:bottle. ind:botol.  
-boton ← eng:button. spa:botón.  
+boton ← eng:button. spa:botón. por:botão. fra:bouton. jpn:ボタン (botan). tgl:butones. hin:बटन (baṭan). urd:(baṭan). ben;বোতাম (botam).  
 brox ← eng:brush. fra:brosse. ben:ব্রাশ (braś). hin:ब्रश (braś). urd:(braś). hau:swa:burashi. jpn:ブラシ (burashi). kor:브러시 (beureosi). fas:(boros). mal:berus.  
 bubul ← eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).  
 bude ← hin:बुद्ध (buddh).  
@@ -822,7 +823,6 @@ tupay ← may:ind:tupai.
 tuze ← zho:兔子 (tùzi). yue:兔仔 (tou3zai2).  
 u ← fra:ou. por:ou.  
 ##u  
-umur ← ara:(umr). ind:umur. swa:umri. hin:urd:(umar).  
 unale ← eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).  
 ura ← rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fas:(hurâ).  
 urse ← fra:ours. por:urso. ita:orso. spa:oso.  

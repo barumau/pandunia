@@ -94,6 +94,7 @@ azeno : gade
 azia : asi  
 Azio : asia  
 aĉeti : baya  
+aĝo : aje  
 aŭ : u  
 aŭdi (aŭskulti) : auda  
 Aŭstralio : australia  
@@ -102,7 +103,7 @@ aŭtuno : oton
 ##b  
 babilejo : blableria  
 babili : blabla  
-babordo : botoraite  
+babordo : botolefte  
 bah! : fuy  
 bahaismo : bahayistia  
 bahaisto : bahayiste  
@@ -1279,7 +1280,7 @@ tranĉilo : cake
 trezoro : hazin  
 tri (3) : tin  
 tribo : tribe  
-tribordo : botolefte  
+tribordo : botoraite  
 tro : max ka bas  
 trovi : eureka  
 tubo : tube  

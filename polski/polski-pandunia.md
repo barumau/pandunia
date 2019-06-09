@@ -2096,7 +2096,7 @@ wieczór : xam
 wiedza : jan  
 wiedzieć : jana  
 wiejski, rustykalny : rusti  
-wiek : umur  
+wiek : aje  
 wielbłąd, wielbłądzica : gamel  
 wiele : pol  
 wielo- (poli-, multi-) : poli  

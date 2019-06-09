@@ -30,6 +30,7 @@ eng:ice. deu:Eis. ind:és.			ais	:	ice	glacio	jää	lód				冰
 			aisi	:	icy	glacia	jäinen	lodowy								
 			aisohoke	:	ice hockey		jääkiekko									
 eng:ice cream. jpn:アイスクリーム (aisukurīmu). kor:아이스크림 (aiseukeurim). hin:आइसक्रीम (āisakrīm). urd:(āisakrīm). ben:আইসক্রীম (aisôkrīm). tha:ไอศกรีม (ai-sà-griim). ind:es krim. swa:aiskrimu. tam:ஐஸ் கிரீம் (ais kirīm). tel:(ais krīm).			aisokrem	:	ice cream	glaciaĵo	jäätelö	lody	helado	sorvete (gelado)	crème glacée	冰淇淋 	мороженое	आइसक्रीम	es krim	
+eng:age. fra:âge. hin:आयु (āyu). ben:আয়ু (ayu). khm:អាយុ (aayu). tha:อายุ (aayu).			aje	:	age	aĝo	ikä	wiek								
 			ajil	:	agile	lerta	ketterä	zwinny, sprawny	ágil	ágil	agile	灵活的	подвижный	फुर्तीला	lincah	çevik
 eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.			akse	:	axis (axle)	akso	akseli	oś	eje		axe	轴线	ось	धुरी	as (poros, paksi)	eksen
 deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.			alge	:	alga	algo	levä	alga (wodorost)	alga	alga	algue	藻类	водоросли	शैवाल	lumut (alga)	yosun
@@ -221,7 +222,7 @@ fra:blablater. eng:babble. spa:blablablá.			blabla	:	chat (babble)	babili	jutel
 			bloge	:	blog (web log)		blogi (nettikolumni)	blog								
 			boikote	:	boycott	bojkoto	boikotti	bojkot								
 spa:por:boca.			boke	:	mouth	buŝo	suu	usta								
-eng:ball. spa:bola. jpn:"bōru".			bol	:	ball	pilko	pallo	piłka								
+eng:ball. spa:por:ind:tgl:bola. tha:บอล (bɔl). jpn:ボール (bōru). kor:볼 (bol). khm:បាល់ (bal). ben:বল (bôl). deu:Ball. fra:boule,balle.			bol	:	ball	pilko	pallo	piłka								
 	dex	BG	bolgaria	:	Bulgaria	Bulgario	Bulgaria	Bułgaria								
 			bolibia	:	Bolivia	Bolivio	Bolivia	Boliwia								
 hin:बम "bam". eng:bomb.			bombe	:	bomb	bombo	pommi	bomba								
@@ -235,9 +236,9 @@ zho:好看 (hǎokàn). eng:good-looking.			bon rupi	:	good-looking	bonaspekta	hy
 spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.			bote	:	boat (ship)	ŝipo	vene (laiva)	łódź, statek								
 			botokaper	:	privateer (buccaneer)		laivakaappari	kaper (korsarz)								
 eng:bottle. ind:botol.			botol	:	bottle	botelo	pullo	butelka								
-			botolefte	:	starboard (right side of a ship)	tribordo	tyyrpuuri		estribor		tribord	右舷 	правый борт 			
-eng:button. spa:botón.			boton	:	button	butono	nappi	guzik								
-			botoraite	:	port (left side of a ship)	babordo	paapuuri		babor	bombordo	babord	左舷	левый борт			
+			botolefte	:	port (left side of a ship)	babordo	paapuuri		babor	bombordo	babord	左舷	левый борт			
+eng:button. spa:botón. por:botão. fra:bouton. jpn:ボタン (botan). tgl:butones. hin:बटन (baṭan). urd:(baṭan). ben;বোতাম (botam).			boton	:	button	butono	nappi	guzik	botón	botão	bouton	扣子	пуговица	बटन	kancing	düğme
+			botoraite	:	starboard (right side of a ship)	tribordo	tyyrpuuri		estribor		tribord	右舷 	правый борт 			
 	dex	CG	brazawil kongolia	:	Congo (Brazzaville)		Brazzavillen Kongo	Republika Konga								
 	dex	BR	brazilia	:	Brazil	Brazilo	Brasilia	Brazyla								
 	dex	GB	britania	:	United Kingdom		Iso-Britannia (Yhdistyneet Kuningaskunnat)	Zjednoczone Królestwo								
@@ -1206,9 +1207,9 @@ eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			lo
 			loja	:	research (to study)		tutkia (opiskella)	badać, studiować								
 eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie								
 			loka	:	place (locate, put)		sijoittaa (panna paikalleen)	umieścić (postawić)								
-			loku	:	be located (lie, be situated)		sijaita									
 eng:location. spa:lugar.			loke	:	place (location)	loko	paikka (sija, sijainti)	miejsce, lokacja								
 			loki	:	local	loka	paikallinen	miejscowy, lokalny								
+			loku	:	be located (lie, be situated)		sijaita									
 			lole	:	they	ili	he	oni				他们				
 zho:论 "lùn". jpn:論 "ron". vie:luận. kor:논 "non".			lon	:	discussion (debate, discourse)		väittely (debatti)	dyskusja, debata, dyskurs								
 zho:论 (lùn). yue:論 (lœn6). kor:론 (ron). jpn:論 (ron). vie:luận.			lona	:	debate (discuss)		keskustelu (debatti)	debatować, prowadzić dyskurs								
@@ -2252,7 +2253,6 @@ fra:ou. por:ou.			u	:	or	aŭ	tai (vai)	lub, albo
 			ula	:	reverse (undo)	malfari	perua									
 			ulul	:	howling		ulvonta	wycie, skowyt								
 			ulula	:	howl		ulvoa	wyć								
-ara:(umr). ind:umur. swa:umri. hin:urd:(umar).			umur	:	age		ikä	wiek								
 			un	:	one (1)	unu	yksi	jeden (1)								
 			un ban	:	once		kerran									
 			una	:	unite		yhdistää	jednoczyć								

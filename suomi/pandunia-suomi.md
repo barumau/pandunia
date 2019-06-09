@@ -30,6 +30,7 @@ ais : jää
 aisi : jäinen  
 aisohoke : jääkiekko  
 aisokrem : jäätelö  
+aje : ikä  
 ajil : ketterä  
 akse : akseli  
 alge : levä  
@@ -235,9 +236,9 @@ bosnia : Bosnia ja Hertsegovina
 bote : vene (laiva)  
 botokaper : laivakaappari  
 botol : pullo  
-botolefte : tyyrpuuri  
+botolefte : paapuuri  
 boton : nappi  
-botoraite : paapuuri  
+botoraite : tyyrpuuri  
 brazawil kongolia : Brazzavillen Kongo  
 brazilia : Brasilia  
 britania : Iso-Britannia (Yhdistyneet Kuningaskunnat)  
@@ -2235,7 +2236,6 @@ ukraina : Ukraina
 ula : perua  
 ulul : ulvonta  
 ulula : ulvoa  
-umur : ikä  
 un ban : kerran  
 un : yksi  
 una : yhdistää  

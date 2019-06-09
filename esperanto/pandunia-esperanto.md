@@ -27,6 +27,7 @@ ainstainium : ejnŝtejnio
 ais : glacio  
 aisi : glacia  
 aisokrem : glaciaĵo  
+aje : aĝo  
 ajil : lerta  
 akse : akso  
 alge : algo  
@@ -191,9 +192,9 @@ borium : borio
 boron : boro  
 bote : ŝipo  
 botol : botelo  
-botolefte : tribordo  
+botolefte : babordo  
 boton : butono  
-botoraite : babordo  
+botoraite : tribordo  
 brazilia : Brazilo  
 brom : bromo  
 brox : broso  

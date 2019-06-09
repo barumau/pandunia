@@ -100,8 +100,9 @@ baskobol : basketball
 bax : langue  
 baya : acheter  
 baze : base  
-botolefte : tribord  
-botoraite : babord  
+botolefte : babord  
+boton : bouton  
+botoraite : tribord  
 buke : livre  
 ##c  
 ##d  

@@ -26,7 +26,7 @@ afrophile : afrikofiler
 Afrophilia : afrikofilia  
 afternoon : xamoden  
 again (repeatedly) : repi  
-age : umur  
+age : aje  
 aggressive : agresi  
 agile : ajil  
 agreement (amen) : amen  
@@ -1719,7 +1719,7 @@ popular (trendy) : faxoni
 pork : gurubomanse  
 porn : porne  
 pornography : pornografia  
-port (left side of a ship) : botoraite  
+port (left side of a ship) : botolefte  
 portion (dose) : doze  
 Portugal : portugalia  
 pose (position) : poze  
@@ -2096,7 +2096,7 @@ stage (scene) : sen
 stand : libu  
 stand still : estasa  
 star : xing  
-starboard (right side of a ship) : botolefte  
+starboard (right side of a ship) : botoraite  
 static (stationary) : estasi  
 station : estasia  
 steal : cora  

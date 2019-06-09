@@ -54,8 +54,9 @@ baskobol : баскетбол
 bax : язык  
 baze : основа (база,  фундамент)  
 bil : счёт  
-botolefte : правый борт   
-botoraite : левый борт  
+botolefte : левый борт  
+boton : пуговица  
+botoraite : правый борт   
 buke : книга  
 ##c  
 cini : хань  

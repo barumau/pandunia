@@ -30,6 +30,7 @@ ais : ice
 aisi : icy  
 aisohoke : ice hockey  
 aisokrem : ice cream  
+aje : age  
 ajil : agile  
 akse : axis (axle)  
 alge : alga  
@@ -236,9 +237,9 @@ bosnia : Bosnia and Herzegovina
 bote : boat (ship)  
 botokaper : privateer (buccaneer)  
 botol : bottle  
-botolefte : starboard (right side of a ship)  
+botolefte : port (left side of a ship)  
 boton : button  
-botoraite : port (left side of a ship)  
+botoraite : starboard (right side of a ship)  
 brazawil kongolia : Congo (Brazzaville)  
 brazilia : Brazil  
 britania : United Kingdom  
@@ -2270,7 +2271,6 @@ ukraina : Ukraine
 ula : reverse (undo)  
 ulul : howling  
 ulula : howl  
-umur : age  
 un ban : once  
 un : one (1)  
 una : unite  

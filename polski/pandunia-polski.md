@@ -26,6 +26,7 @@ ainstainium : einstein
 ais : lód  
 aisi : lodowy  
 aisokrem : lody  
+aje : wiek  
 ajil : zwinny, sprawny  
 akse : oś  
 alge : alga (wodorost)  
@@ -2166,7 +2167,6 @@ u : lub, albo
 ukraina : Ukraina  
 ulul : wycie, skowyt  
 ulula : wyć  
-umur : wiek  
 un : jeden (1)  
 una : jednoczyć  
 unale : się (nawzajem, wzajemnie)  
