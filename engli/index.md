@@ -66,6 +66,7 @@ Many people are already interested about Pandunia and they are speaking it. You 
   list](https://groups.yahoo.com/neo/groups/pandunia/info) can be joined using
   a Yahoo account or just [sending a blank e-mail
   message](mailto:pandunia-subscribe@yahoogroups.com).
+- You can help to [translate this site](tarja_netoloke.md)
 - Other related mailing lists:
     * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
       ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/info))

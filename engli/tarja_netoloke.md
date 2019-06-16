@@ -1,5 +1,13 @@
 # Instructions for translating this site
 
+## Dictionary
+
+The original dictionary is [the spreadsheet in Google Docs](https://docs.google.com/spreadsheets/d/1QmNjYfAcNndgGJIhDacOIYgNGPHZsOyYck-8GTiupRc/edit#gid=0).
+It includes translations to many languages. All dictionaries are created from
+this spreadsheet with programs.
+
+You can request the right to edit the document from risto@pandunia.info
+
 ## Downloading source texts
 
 Most of the textual contents of this website are stored in a version control system that is hosted by GitHub in [here](https://github.com/barumau/pandunia). The system maintains [change history](https://github.com/barumau/pandunia/commits/master), [list of contributors](https://github.com/barumau/pandunia/graphs/contributors) and other things. You can get started with GitHub by reading their [guides](https://guides.github.com/).
