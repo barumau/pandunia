@@ -9,7 +9,7 @@
   * [Principles](filsof.md)
   * [World words](dunia_loge.md)
   * [Questions & Answers](eske_i_jawabe.md)
-  * [Translate this site](tarjum.md)
+  * [Translate this site](tarja_netoloke.md)
 
 [Lessons]()
 
