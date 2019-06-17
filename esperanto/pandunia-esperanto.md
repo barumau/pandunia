@@ -166,7 +166,6 @@ beton : betono
 biblia : Biblio  
 bina : konstrui  
 binde : punkto  
-bing : malsana  
 bir : biero  
 bireria : drinkejo  
 biskute : biskvito (kuketo)  
@@ -367,6 +366,7 @@ erbium : erbio
 eris : Eris (planedeto)  
 eritria : Eritreo  
 eska : demandi (ĉu)  
+eskal : ŝtuparo  
 eske : demando  
 eski : demanda  
 eskulta : skulti  
@@ -439,6 +439,8 @@ fina : fini
 finge : fingro  
 fingowen : ringo  
 fini : lasta  
+fite : planto  
+fitolojia : plantscienco (botaniko)  
 fix : fiŝo  
 fizike : fiziko  
 fiziker : fizikisto  
@@ -520,6 +522,7 @@ gluten : gluteno
 gol : celo (golo)  
 gom : kaŭĉuko  
 goton : kotono  
+gowa : iri  
 graf : bildo  
 grafa : priskribi  
 grafi : grafika  
@@ -653,6 +656,7 @@ jana : scii (koni)
 janel : fenestro  
 jangal : arbaro  
 janger : metiisto  
+janolojia : sciteorio (epistemologio)  
 jawaba : respondi  
 jawabe : respondo  
 jebe : poŝo  
@@ -737,6 +741,7 @@ keke : kuko
 kel : sporto  
 kenar : rando (orlo)  
 kex : haro  
+ki num : kiom?  
 ki ren : kiu?  
 ki xey : kio?  
 ki yang : kiel?  
@@ -747,6 +752,8 @@ kitabe : skribo
 kitabia : librejo  
 kitabomaxin : tajpilo  
 kiwe : kivo  
+klar : klara  
+klara : klarigi  
 klime : klimato  
 klimolojia : klimatscienco  
 klon : klono  
@@ -894,7 +901,6 @@ metal : metalo
 mete : mezuro  
 metode : metodo  
 mexikia : Meksikio  
-mey zaman : ĉiam  
 mey : ĉiu(j)  
 meze : tablo  
 mi : mia  
@@ -1025,6 +1031,7 @@ pakse : birdo
 pal : frukto (rezulto)  
 paladium : paladio  
 palme : palmo  
+pan zaman : ĉiam  
 pan : ĉiu  
 panamia : Panamo  
 pande : pando  
@@ -1045,7 +1052,10 @@ parta : partopreni
 partia : partio  
 pasporte : pasporto  
 patate : terpomo  
+pati : malsana  
+patolojia : patologio  
 pay : kukaĵo  
+pedal : pedalo  
 pelpel : papilio  
 penis : peniso  
 penta : pentri  
@@ -1066,7 +1076,6 @@ pix : piso (urino)
 pixa : pisi (urini)  
 pize : pico  
 pizeria : picejo  
-plante : planto  
 platin : plateno  
 plisa laya : inviti  
 plisa : peti (bonvolu)  

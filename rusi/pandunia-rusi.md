@@ -66,6 +66,7 @@ domi : дома́шний
 dul u tin : пара  
 ##e  
 ##f  
+fitolojia : ботаника   
 ##g  
 ##h  
 habar : новости  
@@ -100,6 +101,7 @@ note : запись (заметка)
 ##o  
 ##p  
 papagay : попугай  
+patolojia : патология  
 pike : вершина  
 pote : болото  
 ##r  

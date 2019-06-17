@@ -25,7 +25,7 @@ aiheuttaa : saba
 aiheutua (koska, syystä, takia) : sa sabu  
 aika (hetki, kotva) : zaman  
 aikuinen : adulte  
-aina : mey zaman  
+aina : pan zaman  
 aine (materia) : mate  
 aineellinen (materiaalinen) : mati  
 aivot : serebre  
@@ -82,6 +82,7 @@ antaa : dona
 Antarktis : antartia  
 anteeksi : pardon  
 antenni : anten  
+antikristus : antokriste  
 apinanleipäpuu (baobab) : buy  
 appelsiini : aranje  
 apu : helpe  
@@ -125,6 +126,7 @@ aurinko : sol
 aurinkokunta : solosistem  
 Australia : australia  
 auto (automobiili) : motokar  
+autonominen : autonomi  
 auttaa (avustaa) : helpa  
 avain : cabe  
 avaruus (kosmos) : kosmia  
@@ -324,6 +326,7 @@ Haiti : haitia
 hajauttaa : jamula  
 hajonnut (sirpaleina) : parci  
 hajottaa (särkeä, repiä, sirpaloida) : parca  
+hallinto (hallinnointi) : nomia  
 hallita yksinvaltaisesti : impera  
 haluta : wanta  
 halveksia (hyljeksiä) : paraya  
@@ -513,6 +516,7 @@ Italia : italia
 itkeä : kuga  
 itse : tan  
 itse : ze  
+itsehallinto (autonomia) : autonomia  
 itseliikkuva : automoti  
 itä : dong  
 itämainen lohikäärme : rong  
@@ -543,8 +547,8 @@ jodi : yode
 johtaa : lida  
 johtaja (pomo) : lider  
 joka (jokainen) : mey  
-jokainen asia : mey xey  
-jokainen ihminen : mey ren  
+jokainen asia : pan xey  
+jokainen ihminen : pan ren  
 joki : nade  
 jokin (joku) : koy  
 jokin : koy xey  
@@ -583,6 +587,7 @@ jyrinä (ukkonen) : grom
 jäinen : aisi  
 jänis : tuze  
 järjellinen (järkiperäinen, rationaalinen) : razoni  
+järjestellä (hallinnoida, organisoida, manageroida) : noma  
 järjestelmä (systeemi) : sistem  
 järjestys : ratibe  
 järjestää (järjestellä) : ratiba  
@@ -659,8 +664,9 @@ kaste : rose
 kastike (soosi) : sos  
 kasvaa (suurentua) : dayu  
 kasvaa : rastu  
-kasvi : plante  
+kasvi : fite  
 kasvis : weje  
+kasvitiede : fitolojia  
 kasvot (naama) : muke  
 kasvu : raste  
 Katalonia : katalunia  
@@ -760,6 +766,7 @@ kirjoittaa : kitaba
 kirjoitus (teksti) : kitabe  
 kirjoituskone : kitabomaxin  
 kirkas (selkeä) : ming  
+kirkastaa (valaista) : minga  
 kirkko : eglis  
 kirves : futaw  
 kissa : maw  
@@ -1139,7 +1146,7 @@ mango : mange
 mangostani : mangus  
 mangusti : mungus  
 manikealaisuus : manihayistia  
-Manin saari : manin  
+Manin saari : maninia  
 manteli : badam  
 marathi (eräs intialainen kieli) : marati  
 maratoni : maraton  
@@ -1176,6 +1183,7 @@ melodia (sävelmä) : melodia
 melodinen (sointuisa) : melodi  
 menneisyys : pase  
 mennyt : pas  
+mennä : gowa  
 meri : daria  
 merirosvo (piraatti) : pirater  
 merirosvous : piratia  
@@ -1234,6 +1242,7 @@ monikulmio (polygoni) : polokon
 monismi : monistia  
 monitahokas : polofas  
 monoteismi (yksijumalisuus) : monodewistia  
+montako? (paljonko?) : ki num  
 Montenegro : cernagoria  
 moottori : moter  
 moottoripyörä : motosikle  
@@ -1502,6 +1511,7 @@ parveke (kuisti) : balkon
 pascal (Pa) : paskal  
 passi : pasporte  
 patja : matras  
+patologia (tautioppi) : patolojia  
 patonki (ranskanleipä) : batonopang  
 pehmeä : komal  
 peikko : guy  
@@ -1590,7 +1600,9 @@ poliisi : polis
 poliitikko : politiker  
 politiikantutkimus : politikolojia  
 politiikka : politike  
+poljin (pedaali) : pedal  
 polku (reitti, kurssi) : rute  
+polkupyörä : pedalosikle  
 polonium : polon  
 polttaa : jala  
 polyteismi (monijumalisuus) : polodewistia  
@@ -1600,6 +1612,7 @@ porkkana : karote
 porno : porne  
 pornografia : pornografia  
 porras (aste, taso) : darje  
+portaat (rappuset, tikkaat) : eskal  
 Portugali : portugalia  
 posti (postilähetys) : poste  
 postileima : postocape  
@@ -1777,7 +1790,8 @@ sahrami : zafran
 Saint Helena : santi helena  
 Saint Lucia : santi lusia  
 saippua : sabun  
-sairas : bing  
+sairas : pati  
+sairaus : patia  
 Saksa : doicia  
 saksalainen : doici  
 sakset : makas  
@@ -1830,6 +1844,7 @@ seksi (sukupuolinen kanssakäyminen) : sekse
 sekunti : sekunde  
 sekuntikello : sekundometer  
 seleeni : selen  
+selkeyttää (selittää) : klara  
 selkä : ruke  
 selvä (selkeä) : klar  
 sementti : semente  
@@ -2084,6 +2099,7 @@ tiedottaa (informoida) : informa
 tieto (info) : informe  
 tieto (tietämys) : jan  
 tietokone : komputer  
+tietoteoria (epistemologia) : janolojia  
 tietty (tunnettu) : jani  
 tietää : jana  
 tiikeri : bagre  

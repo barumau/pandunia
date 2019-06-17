@@ -79,6 +79,7 @@ dom : 房子
 ##e  
 ##f  
 fem : 女  
+fitolojia : 植物学  
 ##g  
 ##h  
 habar : 消息  
@@ -132,6 +133,7 @@ note : 便条
 pa : 到  
 papagay : 鹉鹦  
 parke : 园  
+patolojia : 病理学  
 pelmen : 饺子   
 plisa : 请  
 pote : 坭  

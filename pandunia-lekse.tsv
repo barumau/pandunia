@@ -67,6 +67,7 @@ ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl)
 			anten	:	antenna (aerial)	anteno	antenni	antena			antenne	天线	антенна			
 			anter	:	opponent (antagonist)		vastustaja	przeciwnik (antagonista)			opposant (antagoniste)					
 eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.			anti	:	opposite (anti-)	kotraŭa	vasta- (anti-)	przeciwstawny (naprzeciw, naprzeciwko, anty-)								
+			antokriste	:	antichrist		antikristus									
 eng:deu:antonym. fra:antonyme. spa:por:antónimo. rus:антоним (antonim). ind:tur:antonim.			antonim	:	antonym		vastakohta (antonyymi)									
 			anus	:	anus	anuso	peräaukko (anus)	odbyt			anus	肛门	анус			
 			anusi	:	anal	anusa	anaalinen	analny, odbytni								
@@ -103,6 +104,8 @@ fra:atte. por:ata. ben:আতা (ata). tgl:atis. som:aat.			ate	:	sugar-apple (
 			auda	:	hear (listen)	aŭdi (aŭskulti)	kuulla (kuunnella)	usłyszeć, słyszeć; słuchać								
 	dex	AU	australia	:	Australia	Aŭstralio	Australia	Australia								
 			automoti	:	self-moving (automotive, automobile)	memmova	itseliikkuva	samobieżny								
+			autonomi	:	autonomous		autonominen									
+			autonomia	:	autonomy		itsehallinto (autonomia)									
 nah:ahuakatl. spa:aguacate. por:abacate. tgl:abokado. jpn:アボカド (abokado). kor:아보카도 (abokado). fra:avocat. pol:awokado. kon:zavoká.			awakate	:	avocado	avokado	avokado	awokado								
 	site		axur	:	Assur		Assur	Aszur								
 akk:(aššur). ara:(aššur). hin:अश्शूर (aśśūr). fas:(āšūr).			axuria	:	Assyria		Assyria	Asyria								
@@ -205,7 +208,6 @@ zho:被 (bèi).			beyu	:	undergo (passivizing verb)		läpikäydä (passiivin muo
 eng:bill. hin:बिल (bil).			bil	:	bill (invoice)		lasku (faktuura)					帐单 	счёт			
 ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).			bina	:	build (construct)	konstrui	rakentaa	zbudować, budować, konstruować								
 hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi). 			binde	:	dot (spot)	punkto	täplä (läiskä)	punkt								
-zho:病 (bìng). vie:bệnh. kor:병 (byeong).			bing	:	ill (sick)	malsana	sairas	chory								
 eng: beer. tur: bira.			bir	:	beer	biero	olut (kalja)	piwo	cerveza (birra)	cerveja						
 eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).			bireria	:	bar (pub, beer house)	drinkejo	baari (kapakka)	bar, knajpa								
 bug:bissu.			bis	:	genderqueer (non-binary)		muunsukupuolinen	genderqueer, niebinarny								
@@ -469,6 +471,7 @@ eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.			er	:	doer (agent, actor)
 	dex	ER	eritria	:	Eritrea	Eritreo	Eritrea	Erytrea								
 			esey	:	essay		essee	esej								
 hat:èske. fra:est-ce que [ɛskə]. eng:ask. rwa:ese.			eska	:	ask (inquire)	demandi (ĉu)	kysyä	zapytać, spytać, pytać								
+fra:escalier. spa:escalera. por:escada. + eng:scale. deu:Skale. rus:шкала (škala).			eskal	:	stairs (ladder)	ŝtuparo	portaat (rappuset, tikkaat)									
 			eske	:	question	demando	kysymys	pytanie								
 			eski	:	interrogative	demanda	kysyvä	pytajny, związany z pytaniem								
 			eskulta	:	sculpt	skulti	veistää kuvaa									
@@ -560,6 +563,8 @@ spa: fin. fra: fin. por: fim.			fin	:	end	fino	loppu	koniec
 			finge	:	finger (toe)	fingro	sormi tai varvas	palec								
 			fingowen	:	finger ring	ringo	sormus	pierścień, pierścionek; obrączka								
 			fini	:	last (final)	lasta	viimeinen	ostatni, końcowy								
+eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).			fite	:	plant (vegetation)	planto	kasvi	roślina, sadzonka								
+			fitolojia	:	bonaty (phytology)	plantscienco (botaniko)	kasvitiede		botánica	botânica	botanique	植物学	ботаника 	वनस्पति विज्ञान	ilmu tumbuh-tumbuhan	bitki bilimi
 eng:fish. deu:Fisch.			fix	:	fish	fiŝo	kala	ryba								
 			fixotanke	:	fish tank		akvaario	akwarium								
 			fizike	:	physics	fiziko	fysiikka	fizyka								
@@ -663,6 +668,7 @@ eng:glue. swa:gluu. + fra:glutineux.			glute	:	glue	gluo	liima	klej
 			gol	:	goal	celo (golo)	maali (päämäärä)	cel								
 spa:tgl:goma. fra:gomme. jpn:ゴム (gomu). kor:고무 (gomu). deu:Gummi.			gom	:	rubber	kaŭĉuko	kumi	guma								
 ara:(quṭun). spa:algodón. fra:coton. eng:cotton.			goton	:	cotton	kotono	puuvilla	bawełna								
+			gowa	:	go	iri	mennä									
 eng:graphic. fra:graphique.			graf	:	picture (graph, image)	bildo	kuva (kuvaus)	opis, przedstawienie; wykres								
 			grafa	:	depict (describe, illustrate)	priskribi	kuvata (kuvailla)	opisywać, ilustorawć; przedstawiać								
 			grafem	:	grapheme		grafeemi	grafem								
@@ -855,6 +861,7 @@ hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:j�
 zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng). 			janger	:	artisan (craftsman)	metiisto	artesaani (käsityöläinen)	rzemieślnik				工匠 (匠人)				
 			jangi	:	crafty (dexterous)		kätevä	umiejętny (sprawny, zręczny)								
 			jani	:	known		tietty (tunnettu)	wiadomy, znany								
+			janolojia	:	epistemology	sciteorio (epistemologio)	tietoteoria (epistemologia)									
 eng:jar. ara:(jara). por:spa:jarra.			jar	:	jug (jar, pitcher)		kannu (karahvi)	dzban, dzbanek; słój, słoik								
 			jawaba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać								
 ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.			jawabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew								
@@ -1001,6 +1008,7 @@ tur:kenar. hin:किनारा "kinārā". urd:"kanārā".			kenar	:	border (
 jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).			kex	:	hair	haro	hius (karva, tukka, hiukset)									
 			kexobende	:	hairband (headband)		hiuspanta									
 			ki	:	which?		mikä? (kumpi?)	który?								
+			ki num	:	how many?	kiom?	montako? (paljonko?)									
 			ki ren	:	who?	kiu?	kuka?	co?								
 			ki xey	:	what thing?	kio?	mikä? (mitä?)	jak?								
 			ki yang	:	how?	kiel?	miten?	kiedy?								
@@ -1027,7 +1035,8 @@ ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:कित�
 			kitabia	:	library	librejo	kirjasto	biblioteka	biblioteca	biblioteca	bibliothèque	图书馆	библиотека	पुस्तकालय	perpustakaan	kütüphane
 			kitabomaxin	:	typewriter	tajpilo	kirjoituskone	maszyna do pisania	máquina de escribir	máquina de escrever	machine à écrire	打字机	пишущая машинка	टंकण मशीन	mesin tik (mesin taip)	daktilo
 eng:kiwi.			kiwe	:	kiwi fruit	kivo	kiivi	owoc kiwi								
-deu:klar. spa:por:claro. eng:clear. fra:clair.			klar	:	clear (not obscured)		selvä (selkeä)	przeźroczysty, jasny								
+deu:klar. spa:por:claro. eng:clear. fra:clair.			klar	:	clear (not obscured)	klara	selvä (selkeä)	przeźroczysty, jasny								
+			klara	:	clarify	klarigi	selkeyttää (selittää)									
 			klas	:	class (category)		luokka (kategoria)	klasa, kategoria								
 			klasa	:	classify (categorize)		luokitella (kategorisoida)	klasyfikować, kategoryzować								
 ell:κλίμα (eklíma). spa:por:clima. ara:(ʾiqlīm). ind:tur:iklim. eng:climate. rus:климат (klimat).			klime	:	climate	klimato	ilmasto						климат			
@@ -1278,7 +1287,7 @@ ind:mangga. por:manga. eng:mango.			mange	:	mango		mango	mango
 			mani rajer	:	king		kuningas	król								
 			manihay	:	prophet Mani		profeetta Mani									
 			manihayistia	:	Manichaeism		manikealaisuus		maniqueísmo 	maniqueísmo 	manichéisme	摩尼教 	манихейство			
-	dex	IM	manin	:	Isle of Man		Manin saari	Wyspa Man								
+	dex	IM	maninia	:	Isle of Man		Manin saari	Wyspa Man								
 			manioke	:	cassava (manioc)		kassava (maniokki)	maniok								
 fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). spa:manera. por:maneira. deu:Manieren. scr:manir.			manir	:	behaviour (manners)		käytös (käyttäytyminen)	zachowanie (maniery, kultura)								
 			manira	:	behave (act)		käyttäytyä	zachowywać się (działać)								
@@ -1375,9 +1384,6 @@ eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind
 			metre	:	meter (100 cm)		metri	metr								
 	dex	MX	mexikia	:	Mexico	Meksikio	Meksiko	Meksyk								
 zho:每 (měi). wuu:每 (me). vie:mọi. kor:매 (mae).			mey	:	every (each)	ĉiu(j)	joka (jokainen)	każdy, wszyscy								
-			mey ren	:	everybody (everyone)		jokainen ihminen	każdy człowiek, wszyscy								
-			mey xey	:	everything		jokainen asia	wszystko								
-			mey zaman	:	always	ĉiam	aina	zawsze								
 tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.			meze	:	table	tablo	pöytä	stół								
 			mi	:	my	mia	minun	mój								
 			micin	:	MSG (monosodium glutamate)		natriumglutamaatti	glutaminian sodu								
@@ -1391,7 +1397,8 @@ eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. 
 			min	:	less	malpli	vähemmän	mniej								
 			min ka bas	:	too little	maltro	liian vähän	zbyt mało								
 swa: mnara. tur: minare. + eng:minaret.			minar	:	tower	turo	torni	wieża								
-zho: 明 (míng). vie:minh. kor:명 (myeong).			ming	:	bright (clear)		kirkas (selkeä)	jasny, czysty								
+zho:wuu:明 (míng). yue:明 (ming4). vie:minh. kor:명 (myeong).			ming	:	bright (brilliant, clear)		kirkas (selkeä)	jasny, czysty								
+			minga	:	brighten		kirkastaa (valaista)									
 			mini	:	tiny (mini-)	eta	pikkuruinen (mini-)	mały, mini-								
 			minim	:	least (minimally)	malplej	vähiten	najmniej, minimalnie								
 			minimalistia	:	minimalism		minimalismi	minimalizm								
@@ -1554,6 +1561,8 @@ ind:nol.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden
 			nol ban	:	never		ei koskaan (ei kertaakaan)									
 			nol ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba								
 			nol xey	:	nothing		ei mitään	nic, żadna rzecz								
+			noma	:	manage (organize, direct)		järjestellä (hallinnoida, organisoida, manageroida)									
+eng:-nomy. deu:fra:-nomie. spa:por:-nomia. rus:-номия (-nomiya).			nomia	:	management (-nomy)		hallinto (hallinnointi)									
 			nonga	:	cultivate (farm)		viljellä	uprawić, uprawiać								
 			nonger	:	farmer		maanviljelijä	rolnik, farmer								
 			norde	:	north		pohjoinen	północ								
@@ -1629,6 +1638,9 @@ hin:फल (phal). pnb:ਫਲ (phal). ben:ফল (phal). tam: பழம் (pala
 	dex	PW	palaw	:	Palau		Palau	Palau								
 deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).			palme	:	palm tree	palmo	palmu	palma, drzewo palmowe								
 			pan	:	all	ĉiu	kaikki	wszyscy, wszystkie, wszystko; każdy								
+			pan ren	:	everybody (everyone)		jokainen ihminen	każdy człowiek, wszyscy								
+			pan xey	:	everything		jokainen asia	wszystko								
+			pan zaman	:	always	ĉiam	aina	zawsze								
 			panafriki	:	pan-African		panafrikkalainen	panafrykański								
 			panameriki	:	pan-American		panamerikkalainen	panamerykański								
 	dex	PA	panamia	:	Panama	Panamo	Panama	Panama								
@@ -1673,6 +1685,9 @@ eng:past. spa:pasado. por:passado. fra: passé.			pase	:	past times		menneisyys	
 eng:passport. por:passaporte. rus:паспорт (pasport). ind:paspor.			pasporte	:	passport	pasporto	passi									
 eng:deu:paste. rus:"pasta". spa:por:pasta.			paste	:	paste		tahna (tahdas)	pasta								
 fra:patate. spa:patata. por:batata. tur:patates. ara:"baṭāṭis". eng:potato. tgl:patatas.			patate	:	potato	terpomo	peruna (potaatti)	ziemniak								
+			pati	:	ill (sick)	malsana	sairas	chory								
+deu:eng:fra:patho-. spa:por:pol:tur:ind:pato-. rus:пато- (pato-).			patia	:	sickness (illness, disease)		sairaus									
+			patolojia	:	pathology	patologio	patologia (tautioppi)	patologia	patología	patologia	pathologie	病理学	патология	विकृतिविज्ञान	patologi	patoloji
 			paunde	:	pound (£)		punta	funt (£)								
 			paus	:	pause (break, interruption)		tauko (paussi)	pauza, przerwa								
 			pausa	:	pause (interrupt)		keskeyttää (tauottaa)	przerwać, przerywać								
@@ -1681,6 +1696,8 @@ fra:patate. spa:patata. por:batata. tur:patates. ara:"baṭāṭis". eng:potato.
 kon:mpasi. por:paixão. eng:passion.			paxia	:	suffering		kipu (tuska)	cierpienie, ból								
 			paxu	:	suffer (get hurt)		sattua (käydä kipeää)	cierpieć								
 			pay	:	pie (pastry)	kukaĵo	piirakka (piiras)	placek, ciasto								
+deu:eng:spa:por:tur:pedal. fra:pédale. rus:педаль (pedal'). pol:pedał. jpn:ペダル (pedaru). kor:페달 (pedal).			pedal	:	pedal	pedalo	poljin (pedaali)									
+			pedalosikle	:	bicycle (pedal bike)		polkupyörä									
 rus:пельмень "pel'men'". pol:pielmeni. eng:pelmeni.			pelmen	:	dumpling (ravioli, pelmeni)		myky (pelmeni, ravioli)	kluska, knedel, pieróg; ravioli, pelmeni	empanadilla (pelmeni)			饺子 				
 kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.			pelpel	:	butterfly	papilio	perhonen									
 			penda	:	hang (dangle)		roikuttaa	powiesić, wieszać								
@@ -1729,7 +1746,6 @@ ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor
 			plan	:	plan		suunnitelma	plan								
 			plana	:	intend (plan)		suunnitella	planować								
 			planete	:	planet		planeetta	planeta								
-eng:plant. por:spa:planta. fra:plante.			plante	:	plant (vegetation)	planto	kasvi	roślina, sadzonka								
 			plastike	:	plastic		muovi	plastik								
 			plate	:	plate		lautanen	talerz								
 	made	Pt	platin	:	platinum	plateno	platina	platyna								

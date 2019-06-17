@@ -195,7 +195,6 @@ beyu : być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 biblia : Biblia  
 bina : zbudować, budować, konstruować  
 binde : punkt  
-bing : chory  
 bir : piwo  
 bireria : bar, knajpa  
 bis : genderqueer, niebinarny  
@@ -536,6 +535,7 @@ fina : skończyć, kończyć
 finge : palec  
 fingowen : pierścień, pierścionek; obrączka  
 fini : ostatni, końcowy  
+fite : roślina, sadzonka  
 fix : ryba  
 fixotanke : akwarium  
 fizike : fizyka  
@@ -1223,7 +1223,7 @@ mange : mango
 mangus : mangostan  
 mani ban : syn  
 mani rajer : król  
-manin : Wyspa Man  
+maninia : Wyspa Man  
 manioke : maniok  
 manir : zachowanie (maniery, kultura)  
 manira : zachowywać się (działać)  
@@ -1315,9 +1315,6 @@ mete : miara
 metode : metoda, sposób  
 metre : metr  
 mexikia : Meksyk  
-mey ren : każdy człowiek, wszyscy  
-mey xey : wszystko  
-mey zaman : zawsze  
 mey : każdy, wszyscy  
 meze : stół  
 mi : mój  
@@ -1564,6 +1561,9 @@ pal : owoc
 paladium : pallad  
 palaw : Palau  
 palme : palma, drzewo palmowe  
+pan ren : każdy człowiek, wszyscy  
+pan xey : wszystko  
+pan zaman : zawsze  
 pan : wszyscy, wszystkie, wszystko; każdy  
 panafriki : panafrykański  
 panameriki : panamerykański  
@@ -1605,6 +1605,8 @@ pase : przeszłość
 paskal : paskal (Pa)  
 paste : pasta  
 patate : ziemniak  
+pati : chory  
+patolojia : patologia  
 paunde : funt (£)  
 paus : pauza, przerwa  
 pausa : przerwać, przerywać  
@@ -1660,7 +1662,6 @@ pizeria : pizzeria
 plan : plan  
 plana : planować  
 planete : planeta  
-plante : roślina, sadzonka  
 plastike : plastik  
 plate : talerz  
 platin : platyna  

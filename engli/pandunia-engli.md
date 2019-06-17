@@ -67,6 +67,7 @@ antartia : Antarctica
 anten : antenna (aerial)  
 anter : opponent (antagonist)  
 anti : opposite (anti-)  
+antokriste : antichrist  
 antonim : antonym  
 anus : anus  
 anusi : anal  
@@ -103,6 +104,8 @@ atom : atom
 auda : hear (listen)  
 australia : Australia  
 automoti : self-moving (automotive, automobile)  
+autonomi : autonomous  
+autonomia : autonomy  
 awakate : avocado  
 axur : Assur  
 axuria : Assyria  
@@ -206,7 +209,6 @@ biblia : Bible
 bil : bill (invoice)  
 bina : build (construct)  
 binde : dot (spot)  
-bing : ill (sick)  
 bir : beer  
 bireria : bar (pub, beer house)  
 bis : genderqueer (non-binary)  
@@ -472,6 +474,7 @@ eris : Eris (dwarf planet)
 eritria : Eritrea  
 esey : essay  
 eska : ask (inquire)  
+eskal : stairs (ladder)  
 eske : question  
 eski : interrogative  
 eskulta : sculpt  
@@ -564,6 +567,8 @@ fina : finish (put an end to)
 finge : finger (toe)  
 fingowen : finger ring  
 fini : last (final)  
+fite : plant (vegetation)  
+fitolojia : bonaty (phytology)  
 fix : fish  
 fixotanke : fish tank  
 fizike : physics  
@@ -668,6 +673,7 @@ gluten : gluten
 gol : goal  
 gom : rubber  
 goton : cotton  
+gowa : go  
 graf : picture (graph, image)  
 grafa : depict (describe, illustrate)  
 grafem : grapheme  
@@ -863,6 +869,7 @@ jangal : forest (jungle, woods)
 janger : artisan (craftsman)  
 jangi : crafty (dexterous)  
 jani : known  
+janolojia : epistemology  
 jar : jug (jar, pitcher)  
 jawaba : respond (give an answer)  
 jawabe : answer (reply, response)  
@@ -1009,6 +1016,7 @@ kerube : cherub
 ketel : kettle  
 kex : hair  
 kexobende : hairband (headband)  
+ki num : how many?  
 ki ren : who?  
 ki xey : what thing?  
 ki yang : how?  
@@ -1037,6 +1045,7 @@ kitabia : library
 kitabomaxin : typewriter  
 kiwe : kiwi fruit  
 klar : clear (not obscured)  
+klara : clarify  
 klas : class (category)  
 klasa : classify (categorize)  
 klime : climate  
@@ -1289,7 +1298,7 @@ mani ban : son
 mani rajer : king  
 manihay : prophet Mani  
 manihayistia : Manichaeism  
-manin : Isle of Man  
+maninia : Isle of Man  
 manioke : cassava (manioc)  
 manir : behaviour (manners)  
 manira : behave (act)  
@@ -1385,9 +1394,6 @@ mete : measurement
 metode : method (way, manner)  
 metre : meter (## cm)  
 mexikia : Mexico  
-mey ren : everybody (everyone)  
-mey xey : everything  
-mey zaman : always  
 mey : every (each)  
 meze : table  
 mi : my  
@@ -1402,7 +1408,8 @@ milometre : millimeter
 min ka bas : too little  
 min : less  
 minar : tower  
-ming : bright (clear)  
+ming : bright (brilliant, clear)  
+minga : brighten  
 mini : tiny (mini-)  
 minim : least (minimally)  
 minimalistia : minimalism  
@@ -1566,6 +1573,8 @@ nol ban : never
 nol ren : nobody (no-one)  
 nol xey : nothing  
 nol : zero (none)  
+noma : manage (organize, direct)  
+nomia : management (-nomy)  
 nonga : cultivate (farm)  
 nonger : farmer  
 norde : north  
@@ -1642,6 +1651,9 @@ paladium : palladium
 palas : palace  
 palaw : Palau  
 palme : palm tree  
+pan ren : everybody (everyone)  
+pan xey : everything  
+pan zaman : always  
 pan : all  
 panafriki : pan-African  
 panameriki : pan-American  
@@ -1687,6 +1699,9 @@ paske : Easter
 pasporte : passport  
 paste : paste  
 patate : potato  
+pati : ill (sick)  
+patia : sickness (illness, disease)  
+patolojia : pathology  
 paunde : pound (£)  
 paus : pause (break, interruption)  
 pausa : pause (interrupt)  
@@ -1695,6 +1710,8 @@ paxi : painful
 paxia : suffering  
 paxu : suffer (get hurt)  
 pay : pie (pastry)  
+pedal : pedal  
+pedalosikle : bicycle (pedal bike)  
 pelmen : dumpling (ravioli, pelmeni)  
 pelpel : butterfly  
 penda : hang (dangle)  
@@ -1743,7 +1760,6 @@ pizeria : pizzeria
 plan : plan  
 plana : intend (plan)  
 planete : planet  
-plante : plant (vegetation)  
 plastike : plastic  
 plate : plate  
 platin : platinum  

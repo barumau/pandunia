@@ -113,6 +113,7 @@ domu : vivre (habiter)
 europe : Europe  
 europi : européen  
 ##f  
+fitolojia : botanique  
 ##g  
 ##h  
 haime : tente  
@@ -141,6 +142,7 @@ note : note
 ##o  
 ##p  
 papagay : perroquet  
+patolojia : pathologie  
 pike : cime (pic, sommet)  
 piratia : piraterie  
 pote : boue (fange, bourbe, gadoue)  

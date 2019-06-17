@@ -208,7 +208,7 @@ chmura : megam
 cholera : koler  
 chordofon, instrument strunowy : ticin  
 Chorwacja : horwatia  
-chory : bing  
+chory : pati  
 chrom : krom  
 chronić, strzec,  osłaniać, bronić : garda  
 Chrystus, mesjasz : kriste  
@@ -691,7 +691,7 @@ Katar : kataria
 kawa : kafe  
 kawiarnia : kaferia  
 Kazachstan : kazahia  
-każdy człowiek, wszyscy : mey ren  
+każdy człowiek, wszyscy : pan ren  
 każdy, wszyscy : mey  
 kebab : kababe  
 keczup : kecape  
@@ -1294,6 +1294,7 @@ paskal (Pa) : paskal
 pasować : maca  
 pasta : paste  
 patelnia : tawe  
+patologia : patolojia  
 patrzeć, widzieć : wida  
 pauza, przerwa : paus  
 paznokieć : nahun  
@@ -1652,7 +1653,7 @@ rozum, rozsądek : razon
 rozumieć, pojmować : aha  
 rozważać, brać pod uwagę : konsida  
 rozwój : fajan  
-roślina, sadzonka : plante  
+roślina, sadzonka : fite  
 rubid : rubidium  
 ruch : kine  
 ruch : mote  
@@ -2153,7 +2154,7 @@ wspólny : komun
 wstrzyknąć, wstrzykiwać : juxa  
 wstyd (hańba, kompromitacja) : xarme  
 wszyscy, wszystkie, wszystko; każdy : pan  
-wszystko : mey xey  
+wszystko : pan xey  
 wtorek : war 2 (war dul)  
 wy, was : tote  
 wybrać, wybierać, selekcjonować : cuza  
@@ -2178,7 +2179,7 @@ wyrok : hakim
 wyrzutek : paraye  
 wysoki : gaw  
 wyspa : nes  
-Wyspa Man : manin  
+Wyspa Man : maninia  
 Wyspy Alandzkie : olandia  
 Wyspy Cooka : kuke da nesia  
 Wyspy Dziewicze USA : usameriki wirjin nesia  
@@ -2254,7 +2255,7 @@ zatkać, ztykać : tapa
 zatrzymać : tinga  
 zatrzymać się : tingu  
 zawias, oś : xarnir  
-zawsze : mey zaman  
+zawsze : pan zaman  
 zazdrosny : jelos  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad : marka  
 zbiornik (pojemnik, rezerwuar) : tanke  

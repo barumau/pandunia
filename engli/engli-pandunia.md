@@ -48,7 +48,7 @@ already (completed action) : lew
 also (plus, too) : plus  
 altar : altar  
 aluminium : alumin  
-always : mey zaman  
+always : pan zaman  
 ambassador : daixer  
 America (continent) : amerike  
 American : ameriki  
@@ -77,6 +77,7 @@ answer (reply, response) : jawabe
 ant : maye  
 Antarctica : antartia  
 antenna (aerial) : anten  
+antichrist : antokriste  
 antonym : antonim  
 anus : anus  
 any (no matter which) : eni  
@@ -129,6 +130,8 @@ August : mes 8 (mes bal)
 Australia : australia  
 Austria : osteria  
 autocracy (monarchy) : monokratia  
+autonomous : autonomi  
+autonomy : autonomia  
 autumn (fall) : oton  
 avocado : awakate  
 awake : weki  
@@ -225,6 +228,7 @@ beryllium : beril
 between : inter  
 Bhutan : butan  
 Bible : biblia  
+bicycle (pedal bike) : pedalosikle  
 big (greatly) : day  
 bike : sikle  
 bill (invoice) : bil  
@@ -255,6 +259,7 @@ bold letter : grosi harfe
 Bolivia : bolibia  
 bomb : bombe  
 bon appetit! : salam nyam  
+bonaty (phytology) : fitolojia  
 bone : oste  
 book : buke  
 booking (reservation) : buking  
@@ -279,7 +284,8 @@ breakfast : subonyam
 breast (boob, tits) : mem  
 breath : nafas  
 bridge : pulte  
-bright (clear) : ming  
+bright (brilliant, clear) : ming  
+brighten : minga  
 broken (shattered) : parci  
 bromine : brom  
 brown (coffee-colored) : kafi  
@@ -417,6 +423,7 @@ church : eglis
 cigarette (cigar) : sigar  
 circle (round) : cirke  
 city (town) : site  
+clarify : klara  
 class (category) : klas  
 classify (categorize) : klasa  
 clean (pure) : safi  
@@ -685,6 +692,7 @@ enough (sufficient) : bas
 enthusiast (aficionado) : nik  
 environmental (natural) : eki  
 enzyme : enzim  
+epistemology : janolojia  
 equal (fair) : egal  
 equal (peer) : par  
 erbium : erbium  
@@ -710,8 +718,8 @@ even (intensifier) : hati
 evening : xam  
 event (case, instance) : kas  
 every (each) : mey  
-everybody (everyone) : mey ren  
-everything : mey xey  
+everybody (everyone) : pan ren  
+everything : pan xey  
 examine (inspect, check) : genca  
 example (instance of) : misal  
 except (minus) : minus  
@@ -874,6 +882,7 @@ global (concerning the whole world) : panoduni
 global : duni  
 glue : glute  
 gluten : gluten  
+go : gowa  
 go back (retreat) : retra  
 goal : gol  
 goat : buze  
@@ -1001,6 +1010,7 @@ horn : korne
 horse : mar  
 hotel : hotel  
 hour : hor  
+how many? : ki num  
 how? : ki yang  
 howl : ulula  
 howling : ulul  
@@ -1032,7 +1042,7 @@ idea (concept, notion) : ide
 idiocy (stupidity) : idiotia  
 idiot : idiote  
 if (suppose, assume) : gar  
-ill (sick) : bing  
+ill (sick) : pati  
 illustrator (graphic artist) : grafer  
 imagine (fantasize) : fantaza  
 imperialism : imperistia  
@@ -1078,7 +1088,7 @@ Islam : islamistia
 Islamic : islamisti  
 islamophobia : islamofobia  
 island : nes  
-Isle of Man : manin  
+Isle of Man : maninia  
 ism (doctrine, ideology, religion, etc) : istia  
 Israel : israel  
 issue (affair, concern) : masle  
@@ -1272,6 +1282,8 @@ Mali : malia
 Malta : malte  
 mammal : mamal  
 man (adult male) : maturi man  
+manage (organize, direct) : noma  
+management (-nomy) : nomia  
 Mandarin Chinese (Putonghua) : putong cini  
 mandarin orange : migan  
 manganese : mangan  
@@ -1604,6 +1616,7 @@ passport : pasporte
 past (bygone) : pas  
 past times : pase  
 paste : paste  
+pathology : patolojia  
 pause (break, interruption) : paus  
 pause (interrupt) : pausa  
 pay : peya  
@@ -1611,6 +1624,7 @@ payment : pey
 peanut (groundnut) : zemodow  
 pear : leze  
 pearl : lul  
+pedal : pedal  
 pen (writing tool) : kalam  
 penguin : pinguin  
 penis (phallus) : penis  
@@ -1673,7 +1687,7 @@ plan : plan
 plane (tool for making a smooth surface) : rander  
 plane hijacker : wimanokaper  
 planet : planete  
-plant (vegetation) : plante  
+plant (vegetation) : fite  
 plastic : plastike  
 plate : plate  
 platinum : platin  
@@ -2007,6 +2021,7 @@ show (display, exhibition) : xow
 shower : dux  
 Siberia : sibir  
 sibling (brother or sister) : saudar  
+sickness (illness, disease) : patia  
 Sierra Leone : salonia  
 sign (signal) : sinye  
 Sikh : sikiste  
@@ -2093,6 +2108,7 @@ Sri Lanka (Ceylon) : lankia
 stadium (arena) : estadia  
 stage (phase) : faze  
 stage (scene) : sen  
+stairs (ladder) : eskal  
 stand : libu  
 stand still : estasa  
 star : xing  

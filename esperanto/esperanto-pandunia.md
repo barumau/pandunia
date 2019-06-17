@@ -518,6 +518,7 @@ io : koy xey
 iono : ion  
 Irakio : irakia  
 Iranio : iran  
+iri : gowa  
 iridio : iridium  
 islama : islamisti  
 islamo : islamistia  
@@ -602,9 +603,12 @@ kiel? : ki yang
 kilometro : kilometre  
 kio? : ke  
 kio? : ki xey  
+kiom? : ki num  
 kiso : cum  
 kiu? : ki ren  
 kivo : kiwe  
+klara : klar  
+klarigi : klara  
 klavaro : butonobanze  
 klavo : buton  
 klimato : klime  
@@ -771,7 +775,7 @@ malplena : hali
 malpli : min  
 malproksima : teli  
 malproksimeco : tel  
-malsana : bing  
+malsana : pati  
 malsukceso : xibay  
 maltro : min ka bas  
 malvarma : lengi  
@@ -961,8 +965,10 @@ partopreni : parta
 pasporto : pasporte  
 pastro : dinogur  
 pato : tawe  
+patologio : patolojia  
 patrino : mame  
 patro : pape  
+pedalo : pedal  
 peniso : penis  
 pensi : fikra  
 penso : fikre  
@@ -992,7 +998,8 @@ pisi (urini) : pixa
 piso (urino) : pix  
 piĝino : pijin  
 plado : tas  
-planto : plante  
+planto : fite  
+plantscienco (botaniko) : fitolojia  
 plateno : platin  
 plej : maxim  
 plena : ful  
@@ -1139,6 +1146,7 @@ saŭno : sauna
 scienco : lojia  
 scii (koni) : jana  
 scio : jan  
+sciteorio (epistemologio) : janolojia  
 sciuro : tupay  
 se : gar  
 seborgio : seaborgium  
@@ -1388,7 +1396,7 @@ zuluo : zuluh
 ĉevalo : mar  
 ĉi tio : ce  
 ĉi tiu : ci  
-ĉiam : mey zaman  
+ĉiam : pan zaman  
 ĉielo : saman  
 ĉimpanzo : cimpanze  
 ĉinĉilo : cincil  
@@ -1422,6 +1430,7 @@ zuluo : zuluh
 ŝtono : petre  
 ŝtormo : tafun  
 ŝtrumpo : soke  
+ŝtuparo : eskal  
 ŝuistejo : sapateria  
 ŝuisto : sapater  
 ŝultro : kante  

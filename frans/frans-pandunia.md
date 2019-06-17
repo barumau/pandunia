@@ -72,6 +72,7 @@ base : baze
 basketball : baskobol  
 bibliothèque : kitabia  
 billet : tikete  
+botanique : fitolojia  
 boue (fange, bourbe, gadoue) : pote  
 bouton : boton  
 ##c  
@@ -133,6 +134,7 @@ origine : asle
 originel : asli  
 ##p  
 pastèque : arbuze  
+pathologie : patolojia  
 perroquet : papagay  
 peu : xaw  
 piraterie : piratia  

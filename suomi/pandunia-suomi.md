@@ -67,6 +67,7 @@ antartia : Antarktis
 anten : antenni  
 anter : vastustaja  
 anti : vasta- (anti-)  
+antokriste : antikristus  
 antonim : vastakohta (antonyymi)  
 anus : peräaukko (anus)  
 anusi : anaalinen  
@@ -102,6 +103,8 @@ atom : atomi
 auda : kuulla (kuunnella)  
 australia : Australia  
 automoti : itseliikkuva  
+autonomi : autonominen  
+autonomia : itsehallinto (autonomia)  
 awakate : avokado  
 axur : Assur  
 axuria : Assyria  
@@ -205,7 +208,6 @@ biblia : Raamattu
 bil : lasku (faktuura)  
 bina : rakentaa  
 binde : täplä (läiskä)  
-bing : sairas  
 bir : olut (kalja)  
 bireria : baari (kapakka)  
 bis : muunsukupuolinen  
@@ -472,6 +474,7 @@ eris : Eris (kääpiöplaneetta)
 eritria : Eritrea  
 esey : essee  
 eska : kysyä  
+eskal : portaat (rappuset, tikkaat)  
 eske : kysymys  
 eski : kysyvä  
 eskulta : veistää kuvaa  
@@ -564,6 +567,8 @@ fina : lopettaa
 finge : sormi tai varvas  
 fingowen : sormus  
 fini : viimeinen  
+fite : kasvi  
+fitolojia : kasvitiede  
 fix : kala  
 fixotanke : akvaario  
 fizike : fysiikka  
@@ -668,6 +673,7 @@ gluten : gluteeni
 gol : maali (päämäärä)  
 gom : kumi  
 goton : puuvilla  
+gowa : mennä  
 graf : kuva (kuvaus)  
 grafa : kuvata (kuvailla)  
 grafem : grafeemi  
@@ -863,6 +869,7 @@ jangal : metsä (viidakko)
 janger : artesaani (käsityöläinen)  
 jangi : kätevä  
 jani : tietty (tunnettu)  
+janolojia : tietoteoria (epistemologia)  
 jar : kannu (karahvi)  
 jawaba : vastata  
 jawabe : vastaus  
@@ -1009,6 +1016,7 @@ kerube : kerubi
 ketel : kattila  
 kex : hius (karva, tukka, hiukset)  
 kexobende : hiuspanta  
+ki num : montako? (paljonko?)  
 ki ren : kuka?  
 ki xey : mikä? (mitä?)  
 ki yang : miten?  
@@ -1037,6 +1045,7 @@ kitabia : kirjasto
 kitabomaxin : kirjoituskone  
 kiwe : kiivi  
 klar : selvä (selkeä)  
+klara : selkeyttää (selittää)  
 klas : luokka (kategoria)  
 klasa : luokitella (kategorisoida)  
 klime : ilmasto  
@@ -1289,7 +1298,7 @@ mani ban : poika
 mani rajer : kuningas  
 manihay : profeetta Mani  
 manihayistia : manikealaisuus  
-manin : Manin saari  
+maninia : Manin saari  
 manioke : kassava (maniokki)  
 manir : käytös (käyttäytyminen)  
 manira : käyttäytyä  
@@ -1384,9 +1393,6 @@ mete : mitta (koko, määrä)
 metode : keino (menetelmä, metodi)  
 metre : metri  
 mexikia : Meksiko  
-mey ren : jokainen ihminen  
-mey xey : jokainen asia  
-mey zaman : aina  
 mey : joka (jokainen)  
 meze : pöytä  
 mi : minun  
@@ -1402,6 +1408,7 @@ min ka bas : liian vähän
 min : vähemmän  
 minar : torni  
 ming : kirkas (selkeä)  
+minga : kirkastaa (valaista)  
 mini : pikkuruinen (mini-)  
 minim : vähiten  
 minimalistia : minimalismi  
@@ -1565,6 +1572,8 @@ nol ban : ei koskaan (ei kertaakaan)
 nol ren : ei kukaan  
 nol xey : ei mitään  
 nol : nolla (ei yhtään)  
+noma : järjestellä (hallinnoida, organisoida, manageroida)  
+nomia : hallinto (hallinnointi)  
 nonga : viljellä  
 nonger : maanviljelijä  
 norde : pohjoinen  
@@ -1641,6 +1650,9 @@ paladium : palladium
 palas : palatsi  
 palaw : Palau  
 palme : palmu  
+pan ren : jokainen ihminen  
+pan xey : jokainen asia  
+pan zaman : aina  
 pan : kaikki  
 panafriki : panafrikkalainen  
 panameriki : panamerikkalainen  
@@ -1686,6 +1698,9 @@ paske : pääsiäinen
 pasporte : passi  
 paste : tahna (tahdas)  
 patate : peruna (potaatti)  
+pati : sairas  
+patia : sairaus  
+patolojia : patologia (tautioppi)  
 paunde : punta  
 paus : tauko (paussi)  
 pausa : keskeyttää (tauottaa)  
@@ -1694,6 +1709,8 @@ paxi : kivulias (tuskallinen)
 paxia : kipu (tuska)  
 paxu : sattua (käydä kipeää)  
 pay : piirakka (piiras)  
+pedal : poljin (pedaali)  
+pedalosikle : polkupyörä  
 pelmen : myky (pelmeni, ravioli)  
 pelpel : perhonen  
 penda : roikuttaa  
@@ -1742,7 +1759,6 @@ pizeria : pitseria
 plan : suunnitelma  
 plana : suunnitella  
 planete : planeetta  
-plante : kasvi  
 plastike : muovi  
 plate : lautanen  
 platin : platina  

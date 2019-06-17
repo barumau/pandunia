@@ -125,7 +125,6 @@ beyu ← zho:被 (bèi).
 bil ← eng:bill. hin:बिल (bil).  
 bina ← ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).  
 binde ← hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi).   
-bing ← zho:病 (bìng). vie:bệnh. kor:병 (byeong).  
 bir ← eng: beer. tur: bira.  
 bireria ← eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).  
 bis ← bug:bissu.  
@@ -238,6 +237,7 @@ ekolojia ← deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ek
 eletre ← por:eletricidade. ita:elettricità. eng:electricity.  
 er ← eng: -er. deu: -er. fra: -eur. spa: -ero. por: -eiro.  
 eska ← hat:èske. fra:est-ce que [ɛskə]. eng:ask. rwa:ese.  
+eskal ← fra:escalier. spa:escalera. por:escada. + eng:scale. deu:Skale. rus:шкала (škala).  
 eskulter ← spa:por:escultor. fra:sculpteur. eng:sculptor. rus:скульптор (skulptor).   
 estadia ← fra:stade. por:estádio. spa:estadio. rus:стадион (stadion). eng:stadium. tur:stadyum. ara:(ʾistād). hin:स्टेडियम (sṭeḍiyam).  
 estasia ← tur:istasyon. por:estação. spa:estación. tgl:estasyon. urd:(isṭeśan). eng:fra:station. hin:स्टेशन (sṭeśan). rus:станция (stantsiya).  
@@ -263,6 +263,7 @@ fikre ← ara:(fikr). fas:(fekr). tur:fikir. ind:pikir. hin:(fikr).
 filer ← eng:fra:-phile. por:spa:-filo.  
 filosofia ← spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.  
 fin ← spa: fin. fra: fin. por: fim.  
+fite ← eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).  
 fix ← eng:fish. deu:Fisch.  
 folia ← eng:folly. fra:folie. ita:follia.  
 fong ← zho: 风 (fēng). yue: 風 (fung).  
@@ -560,7 +561,7 @@ meze ← tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /m
 mien ← zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi).  
 milke ← eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).  
 minar ← swa: mnara. tur: minare. + eng:minaret.  
-ming ← zho: 明 (míng). vie:minh. kor:명 (myeong).  
+ming ← zho:wuu:明 (míng). yue:明 (ming4). vie:minh. kor:명 (myeong).  
 minor ← eng: minor.  
 minoria ← spa: minoría.  
 mirer ← eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.  
@@ -605,6 +606,7 @@ nida ← eng: need.
 ninde ← hin:mar:निन्द् (nind).  
 node ← eng:node. spa:nudo. por:nó. fra:nœud.  
 nol ← ind:nol.  
+nomia ← eng:-nomy. deu:fra:-nomie. spa:por:-nomia. rus:-номия (-nomiya).  
 note ← deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:노트 (noteu). fas:(not).  
 nowi ← fas:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.  
 num ← deu:Nummer. eng:number. tur:numara. fra:numéro.  
@@ -637,7 +639,9 @@ pase ← eng:past. spa:pasado. por:passado. fra: passé.
 pasporte ← eng:passport. por:passaporte. rus:паспорт (pasport). ind:paspor.  
 paste ← eng:deu:paste. rus:"pasta". spa:por:pasta.  
 patate ← fra:patate. spa:patata. por:batata. tur:patates. ara:"baṭāṭis". eng:potato. tgl:patatas.  
+patia ← deu:eng:fra:patho-. spa:por:pol:tur:ind:pato-. rus:пато- (pato-).  
 paxia ← kon:mpasi. por:paixão. eng:passion.  
+pedal ← deu:eng:spa:por:tur:pedal. fra:pédale. rus:педаль (pedal'). pol:pedał. jpn:ペダル (pedaru). kor:페달 (pedal).  
 pelmen ← rus:пельмень "pel'men'". pol:pielmeni. eng:pelmeni.  
 pelpel ← kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.  
 penta ← eng:paint. fra:peintre.  
@@ -657,7 +661,6 @@ pipinga ← zho:批评 "pīpíng". vie:phê bình. kor:비평 "bipyeong".
 piram ← eng:pyramid. + ara:(haram).  
 pix ← eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipis.  
 pize ← ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).  
-plante ← eng:plant. por:spa:planta. fra:plante.  
 plisa ← eng:please.  
 poke ← eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).  
 pol ← ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:поли- (poli-).  
