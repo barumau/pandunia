@@ -23,7 +23,7 @@ aihe (teema) : tem
 aiheesta (-sta) : tema  
 aiheuttaa : saba  
 aiheutua (koska, syystä, takia) : sa sabu  
-aika (hetki, kotva) : zaman  
+aikakausi : zaman  
 aikuinen : adulte  
 aina : pan zaman  
 aine (materia) : mate  
@@ -91,7 +91,7 @@ araknofobia (hämähäkkikammo) : aranofobia
 arboretum (puulajipuisto) : arboparke  
 Argentiina : argentin  
 argon : argon  
-armeija : armia  
+armeija (sotajoukko) : laskeria  
 arseeni : arsen  
 artesaani (käsityöläinen) : janger  
 artikkeli (kirjoitus) : makale  
@@ -100,13 +100,14 @@ arvio (arvostelu, kritiikki) : piping
 arvioida (arvostella, kritisoida) : pipinga  
 arvioida : yaga  
 arvostelija (kriitikko) : pipinger  
+ase : arme  
+asema (satama, lentokenttä) : porte  
 asema : estasia  
 asento : asan  
 asetelma : poze  
 asia (juttu) : masle  
 asia : xey  
 asiakirja (dokumentti, tiedosto) : dokum  
-asianharrastaja : nik  
 askeett : askete  
 aspiriini : aspirin  
 Assur : axur  
@@ -374,6 +375,7 @@ heprea : ibri
 herkullinen (nami) : nyami  
 herättää : weka  
 heteroseksuaali : alojinsokami  
+hetki (kotva) : sate  
 hevonen : mar  
 hiekka : rege  
 hieno (hienojakoinen) : fain  
@@ -475,13 +477,14 @@ ikkuna : janel
 ikä : aje  
 ilkeä (julma) : zalim  
 illallinen : xamonyam  
-ilma : hawe  
+ilma : air  
 ilman : na  
-ilmanpaine : hawobar  
+ilmanpaine : airobar  
 ilmapallo : balon  
-ilmapuntari (ilmanpainemittari, barometri) : hawobarometer  
+ilmapuntari (ilmanpainemittari, barometri) : airobarometer  
 ilmasto : klime  
 ilmastotiede (klimatologia) : klimolojia  
+ilmavoimat : airolaskeria  
 ilmiasu (ulkonäkö) : rupe  
 ilta : xam  
 iltapäivä : xamoden  
@@ -549,7 +552,7 @@ johtaja (pomo) : lider
 joka (jokainen) : mey  
 jokainen asia : pan xey  
 jokainen ihminen : pan ren  
-joki : nade  
+joki (virta) : nade  
 jokin (joku) : koy  
 jokin : koy xey  
 joku : koy ren  
@@ -645,7 +648,6 @@ kansallinen : nasi
 kansallissosialismi : nasi socistia  
 kansallisuusaate (nationalismi) : nasistia  
 kanssa (luona, -lla, -ssa) : sa  
-kantaa : porta  
 kapina : rebel  
 kapteeni : kapitan  
 karaatti : kirate  
@@ -785,6 +787,7 @@ koira : waf
 kokata (laittaa ruokaa) : kuka  
 kokki : kuker  
 kolera : koler  
+kolikko : pesodiske  
 kollektiivinen : jami  
 kolme (3) : tin  
 kolmio : tinokon  
@@ -996,6 +999,7 @@ leipä : pang
 leiri : kampe  
 lekseemi : leksem  
 lempi (romanssi, rakkaus) : romanse  
+lentoasema (lentokenttä) : airoporte  
 lentokone : wiman  
 lentokonekaappari : wimanokaper  
 lentää : feya  
@@ -1087,7 +1091,7 @@ länsi : weste
 läntinen : westi  
 läpikulku : trans  
 läpikäydä (passiivin muodostava verbi) : beyu  
-läsnäolo : zaye  
+läsnäolo : zayia  
 lääketiede : medikia  
 lääkäri (tohtori) : mediker  
 löytää (keksiä) : eureka  
@@ -1111,6 +1115,7 @@ Maapallo : zemia
 maapähkinä : zemodow  
 maaseutu : rustia  
 maata (makoilla) : lala  
+maavoimat : zemolaskeria  
 Macao : makaw  
 Madagaskar : madagasia  
 magneetti : magnete  
@@ -1184,9 +1189,11 @@ melodinen (sointuisa) : melodi
 menneisyys : pase  
 mennyt : pas  
 mennä : gowa  
-meri : daria  
+meri : mar  
+meri- (merellinen) : mari  
 merirosvo (piraatti) : pirater  
 merirosvous : piratia  
+merivoimat : marolaskeria  
 merkitys : mene  
 merkitä (jättää jälki) : marka  
 merkitä (tarkoittaa) : mena  
@@ -1332,7 +1339,7 @@ niellä : glota
 Niger : nijer  
 Nigeria : naijiria  
 nihonium : niponium  
-Nikaragua : nikaragua  
+Nikaragua : nikaragia  
 nikkeli : nikel  
 nilviäinen : moluske  
 nimi : nam  
@@ -1353,6 +1360,7 @@ norjalainen : norgi
 normaali : normi  
 normi : norme  
 norsu (elefantti) : gaje  
+nostaa : gawa  
 nostaa pystyyn : liba  
 nudismi : nudistia  
 nudisti : nudiste  
@@ -1511,6 +1519,7 @@ parveke (kuisti) : balkon
 pascal (Pa) : paskal  
 passi : pasporte  
 patja : matras  
+patogeeni : patojener  
 patologia (tautioppi) : patolojia  
 patonki (ranskanleipä) : batonopang  
 pehmeä : komal  
@@ -1770,7 +1779,7 @@ ruoka : nyam
 ruokasali : nyamokamar  
 Ruotsi : swenia  
 rusina : gan putaw  
-ruskea : kafi  
+ruskea : kaforangi  
 ruukku (maljakko, vaasi) : waze  
 ruumiillinen : badani  
 ruusu : roze  
@@ -1821,6 +1830,7 @@ sarvi : korne
 sarvikuono : faru  
 sata (##) : hon  
 satakieli : bulbul  
+satama : suyoporte  
 sattua (käydä kipeää) : paxu  
 sattuma (onni) : zar  
 sattumanvarainen : zari  
@@ -1907,6 +1917,7 @@ sohva : sofah
 soihtu : nurobaton  
 soittaa (musisoida) : musika  
 sokeri : sukar  
+solmia (tehdä solmu) : noda  
 solmu : node  
 solu : sel  
 solvata (loukata) : insulta  
@@ -1919,6 +1930,7 @@ sosiaalinen media : soci media
 sosialismi : socistia  
 sosialisti : sociste  
 sotilaallinen : jengi  
+sotilas : lasker  
 soturi (taistelija) : jenger  
 sovellus : aplike  
 soveltaa : aplika  
@@ -2164,8 +2176,8 @@ Turkmenistan : turkmenia
 turvata (suojata, pelastaa) : sekura  
 tutkia (opiskella) : loja  
 tutkia : genca  
-tuuli (puhallus) : fong  
-tuulla (puhaltaa) : fonga  
+tuuli (puhallus) : hawe  
+tuulla (puhaltaa) : hawa  
 Tuvalu : tuwal  
 tyhjä : hali  
 tyhmyys (typeryys) : idiotia  
@@ -2191,6 +2203,7 @@ työskennellä : werka
 tähti : xing  
 tämä (nämä) : ci  
 tämä : ce  
+tämä hetki (nyt) : zaye  
 tänään : zay den  
 täplä (läiskä) : binde  
 tärkeä : importi  
@@ -2267,6 +2280,7 @@ valokuva (foto) : fotograf
 valokuvaus : fotografia  
 valonsäde : nurorade  
 valta : kratia  
+valtameri : dayomar  
 vanginvartija : prizoner  
 vangita : prizona  
 vanha (muinainen) : purani  

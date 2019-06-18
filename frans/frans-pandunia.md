@@ -11,6 +11,7 @@ africain : afriki
 Afrique : afrike  
 afrophile : afrikofiler  
 afrophilie : afrikofilia  
+agent pathogène  : patojener  
 agile : ajil  
 agression (attaque) : agres  
 aimer : ama  
@@ -48,7 +49,8 @@ arbre : arbe
 Argentine : argentin  
 argon : argon  
 argument : tese  
-armée : armia  
+arme : arme  
+armée : laskeria  
 arsenic : arsen  
 art : arte  
 artiste : arter  
@@ -60,6 +62,7 @@ autel : altar
 autre : ali  
 avoir : tena  
 axe : akse  
+aéroport : airoporte  
 ##b  
 babord : botolefte  
 bagage : bagaje  
@@ -76,6 +79,7 @@ botanique : fitolojia
 boue (fange, bourbe, gadoue) : pote  
 bouton : boton  
 ##c  
+café : kafe  
 capacité (compétence) : able  
 chapitre : babe  
 cime (pic, sommet) : pike  
@@ -120,9 +124,13 @@ luthérien : lutaristi
 machine à écrire : kitabomaxin  
 mais (bien que) : a  
 manichéisme : manihayistia  
+mariage : maria  
+mer : mar  
+monnaie (pièce) : pesodiske  
 mouche : zeze  
 mât : maste  
 ##n  
+noit : noce  
 note : note  
 ##o  
 oeuf : ande  
@@ -140,6 +148,7 @@ peu : xaw
 piraterie : piratia  
 placard : almar  
 pomme : aple  
+porte : porte  
 possible (peut-être) : abli  
 possédant (propriétaire) : malker  
 pouvoir (être capable) : abla  
@@ -153,12 +162,14 @@ ruban (bande) : tepe
 salle de bains : banyokamar  
 se baigner : banyu  
 sel : sal  
+soldat : lasker  
 suffixe de l'unité fondamentale linguistique : -em  
 suffixe pour dériver les noms : -e  
 suffixe pour l'adjectif : -i  
 suffixe pour les verbes avec ordre des mots OVS : -u  
 sujet (thème) : tem  
 ##t  
+tarte : pay  
 technique : tekne  
 technologie : teknolojia  
 tente : haime  

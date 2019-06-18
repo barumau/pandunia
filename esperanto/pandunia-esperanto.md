@@ -24,6 +24,8 @@ agres : atako (agreso)
 agresi : agresema  
 aha : kompreni  
 ainstainium : ejnŝtejnio  
+air : aero  
+airoporte : flughaveno  
 ais : glacio  
 aisi : glacia  
 aisokrem : glaciaĵo  
@@ -71,7 +73,7 @@ are : areo
 argentin : Argentino  
 argon : argono  
 aria : ejo  
-armia : armeo  
+arme : armilo  
 arsen : arseno  
 arte : arto  
 arter : artisto  
@@ -141,6 +143,7 @@ baxa : paroli (komuniki)
 baxolojia : lingvistiko  
 bay : blanka  
 baya : aĉeti  
+bayer : aĉetanto (aĉetisto)  
 bazar : merkato (bazaro)  
 baze : bazo  
 bazi : baza  
@@ -277,7 +280,6 @@ dante : dento
 dantobrox : dentbroso  
 dantomediker : dentisto  
 darba : bati  
-daria : maro (oceano)  
 darme : pieco  
 darmi : pia  
 darsa : lerni (studi)  
@@ -287,7 +289,11 @@ darsia : lernejo
 darsogur : instruisto  
 daw : vojo  
 day : granda  
+dayomar : oceano  
 deci : dekono  
+defa : defendi  
+defe : defendo  
+defer : defendanto (defendisto)  
 defta : registri  
 defte : registro  
 deka : kovri  
@@ -451,8 +457,6 @@ fokus : koncentriĝo
 fokusa : koncentri  
 foli : freneza  
 folia : frenezeco  
-fong : vento  
-fonga : venti  
 forke : forko  
 forma : formigi  
 forme : formo  
@@ -574,7 +578,8 @@ hasium : hasio
 hatar : danĝero  
 hatari : danĝera  
 hati : eĉ  
-hawe : aero  
+hawa : venti  
+hawe : vento  
 hay : ankoraŭ  
 hazin : trezoro  
 he : ĉu?  
@@ -689,8 +694,8 @@ kace : vitro
 kadomium : kadmio  
 kafe : kafo  
 kaferia : kafejo  
-kafi : bruna  
 kafokupe : kaftaso  
+kaforangi : bruna  
 kakaw : kakao  
 kake : feko  
 kal : nigra  
@@ -718,6 +723,7 @@ kanun : lego
 kapa : kapti  
 kar : aŭto (ĉaro)  
 karate : karateo  
+karawe : karvio  
 karbi : proksima  
 karbon : karbono  
 karibia : Karibio  
@@ -813,6 +819,8 @@ lala : kuŝi
 lampe : lampo  
 lanca : ĵeti (lanĉi)  
 lanten : lanterno  
+lasker : soldato  
+laskeria : armeo  
 latwia : Latvio  
 laurensium : laŭrencio  
 laya : veni  
@@ -861,11 +869,13 @@ mame : patrino
 man : viro  
 mangan : mangano  
 manse : viando  
+mar : maro  
 mar : ĉevalo  
 mara : edzigi  
 maraton : maratono  
 marca : promeni (marŝi)  
 margarin : margarino  
+mari : mara  
 maria : geedzeco  
 mas : maso  
 masal : spico  
@@ -984,8 +994,7 @@ nete : reto
 ni : ne  
 nida : bezoni  
 nijer : Niĝero  
-nik : entuziasmulo  
-nikaragua : Nikaragvo  
+nikaragia : Nikaragvo  
 nikel : nikelo  
 nil : blua  
 nilon : nilono  
@@ -1054,7 +1063,7 @@ pasporte : pasporto
 patate : terpomo  
 pati : malsana  
 patolojia : patologio  
-pay : kukaĵo  
+pay : torto  
 pedal : pedalo  
 pelpel : papilio  
 penis : peniso  
@@ -1062,6 +1071,7 @@ penta : pentri
 pepin : kukumo  
 per : plumo  
 pese : mono  
+pesodiske : monero  
 petre : ŝtono  
 pexe : metiero  
 pian : piano  
@@ -1089,6 +1099,7 @@ politiker : politikisto
 polokon : poligono  
 polon : polonio  
 ponta : montri  
+porte : haveno  
 pospor : fosforo  
 postokan : poŝtejo  
 pote : koto  
@@ -1251,6 +1262,7 @@ supra : superiri
 supris : surprizo  
 suxe : suŝio  
 suy : akvo  
+suyoporte : haveno  
 swahili : sŭahili  
 ##t  
 tabake : tabako  
@@ -1427,6 +1439,8 @@ zarduxistia : zoroastrismo
 zari : hazarda  
 zay den : hodiaŭ  
 zay : ĉeestanta (nuna, ekzistanta)  
+zaye : nuno  
+zayia : ĉeestanteco (ekzisto)  
 ze : si  
 zebre : zebro  
 zeze : muŝo  

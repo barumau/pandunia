@@ -26,6 +26,11 @@ agres : hyökkäys (aggressio)
 agresi : hyökkäävä (aggressiivinen)  
 aha : oivaltaa (tajuta)  
 ainstainium : einsteinium  
+air : ilma  
+airobar : ilmanpaine  
+airobarometer : ilmapuntari (ilmanpainemittari, barometri)  
+airolaskeria : ilmavoimat  
+airoporte : lentoasema (lentokenttä)  
 ais : jää  
 aisi : jäinen  
 aisohoke : jääkiekko  
@@ -86,7 +91,7 @@ are : ala (pinta-ala)
 argentin : Argentiina  
 argon : argon  
 aria : alue (seutu)  
-armia : armeija  
+arme : ase  
 arsen : arseeni  
 arte : taide  
 arter : taiteilija  
@@ -347,7 +352,6 @@ dante : hammas
 dantobrox : hammasharja  
 dantomediker : hammaslääkäri  
 darba : lyödä (iskeä)  
-daria : meri  
 darje : porras (aste, taso)  
 darme : hurskaus  
 darmi : hurskas  
@@ -364,6 +368,7 @@ daw : tie
 dawiste : taolainen  
 dawistia : taolaisuus  
 day : iso (suuri; isosti, paljon)  
+dayomar : valtameri  
 dayu : kasvaa (suurentua)  
 deci : desi  
 defa : puolustaa  
@@ -582,8 +587,6 @@ foli : hullu (mieletön)
 folia : hulluus (mielettömyys)  
 fone : äänne (fooni)  
 foneme : äänne (foneemi)  
-fong : tuuli (puhallus)  
-fonga : tuulla (puhaltaa)  
 fonolojia : fonologia (äänneoppi)  
 fonte : lähde (kaivo)  
 forke : haarukka  
@@ -647,6 +650,7 @@ garmi masal : garam masala
 garmi : lämmin  
 gas : kaasu  
 gaw : korkea  
+gawa : nostaa  
 gayan : Guyana  
 gaze : harso  
 gazel : gaselli  
@@ -743,9 +747,8 @@ hasium : hasium
 hatar : vaara  
 hatari : vaarallinen  
 hati : jopa  
-hawe : ilma  
-hawobar : ilmanpaine  
-hawobarometer : ilmapuntari (ilmanpainemittari, barometri)  
+hawa : tuulla (puhaltaa)  
+hawe : tuuli (puhallus)  
 hay : vielä (yhä)  
 hazin : aarre  
 he : häh?  
@@ -933,9 +936,9 @@ kadomium : kadmium
 kafas : häkki  
 kafe : kahvi  
 kaferia : kahvila  
-kafi : ruskea  
 kafir : pakana  
 kafokupe : kahvikuppi  
+kaforangi : ruskea  
 kaka : ulostaa (kakata)  
 kakaw : kaakao  
 kake : uloste (kakka)  
@@ -1168,6 +1171,8 @@ langan : kaide (reelinki)
 lankia : Sri Lanka  
 lanten : lyhty  
 larwe : toukka  
+lasker : sotilas  
+laskeria : armeija (sotajoukko)  
 lasti : joustava (elastinen)  
 lasun : valkosipuli  
 latif : mukava (kiva)  
@@ -1305,16 +1310,19 @@ manira : käyttäytyä
 manse : liha  
 mante : täytetty pulla  
 mar : hevonen  
+mar : meri  
 mara : naida (mennä naimisiin)  
 marati : marathi (eräs intialainen kieli)  
 maraton : maratoni  
 marca : kävely (marssi)  
 margarin : margariini  
+mari : meri- (merellinen)  
 mari : naimisissa  
 maria : avioliitto  
 marka : merkitä (jättää jälki)  
 marke : merkki (jälki)  
 marmar : marmori  
+marolaskeria : merivoimat  
 marse : Mars  
 mas : massa  
 masaja : vaivata (hieroa)  
@@ -1506,7 +1514,7 @@ nabe : profetia
 naber : profeetta  
 naciste : natsi  
 nacistia : natsismi  
-nade : joki  
+nade : joki (virta)  
 nafas : hengitys (henkäys)  
 nahun : kynsi  
 naijiria : Nigeria  
@@ -1551,8 +1559,7 @@ nici : ala-
 nida : tarvita  
 nidi : tarpeellinen  
 nijer : Niger  
-nik : asianharrastaja  
-nikaragua : Nikaragua  
+nikaragia : Nikaragua  
 nikel : nikkeli  
 nil : sininen  
 nilon : nailon  
@@ -1566,6 +1573,7 @@ niwe : Niue
 nixe : alkovi  
 nobelium : nobelium  
 noce : yö  
+noda : solmia (tehdä solmu)  
 node : solmu  
 nodewiste : ateisti (jumalankieltäjä)  
 nol ban : ei koskaan (ei kertaakaan)  
@@ -1700,6 +1708,7 @@ paste : tahna (tahdas)
 patate : peruna (potaatti)  
 pati : sairas  
 patia : sairaus  
+patojener : patogeeni  
 patolojia : patologia (tautioppi)  
 paunde : punta  
 paus : tauko (paussi)  
@@ -1726,6 +1735,7 @@ permis : lupa
 permisa : sallia (antaa lupa)  
 peruwia : Peru  
 pese : raha  
+pesodiske : kolikko  
 petre : kivi (murikka)  
 pexe : ammatti  
 pey : maksu  
@@ -1792,7 +1802,7 @@ ponta : osoittaa (näyttää)
 ponter : osoitin (viisari)  
 porne : porno  
 pornografia : pornografia  
-porta : kantaa  
+porte : asema (satama, lentokenttä)  
 portorikia : Puerto Rico  
 portugalia : Portugali  
 pospor : fosfor  
@@ -2005,6 +2015,7 @@ sapater : suutari
 sapateria : suutarin paja  
 sar : pää  
 saroste : pääkallo  
+sate : hetki (kotva)  
 saudar : sisarus (veli tai sisko)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
@@ -2119,6 +2130,7 @@ suta : ommella
 sutur : sauma (ommel)  
 suxe : sushi  
 suy : vesi  
+suyoporte : satama  
 suyorang : vesiväri (akvarelliväri)  
 swahili : suahili  
 swazia : Swazimaa  
@@ -2436,7 +2448,7 @@ yutrium : yttrium
 zafran : sahrami  
 zaitun : oliivi  
 zalim : ilkeä (julma)  
-zaman : aika (hetki, kotva)  
+zaman : aikakausi  
 zambia : Sambia  
 zar : sattuma (onni)  
 zardux : Zarathustra  
@@ -2445,13 +2457,15 @@ zarduxistia : zarathustralaisuus
 zari : sattumanvarainen  
 zay den : tänään  
 zay : kuluva (tämänhetkinen)  
-zaye : läsnäolo  
+zaye : tämä hetki (nyt)  
+zayia : läsnäolo  
 zayu : olla olemassa  
 ze : itse  
 zebre : seepra  
 zem : maa (maaperä)  
 zemia : Maapallo  
 zemodow : maapähkinä  
+zemolaskeria : maavoimat  
 zeze : kärpänen  
 zigzage : siksakki  
 zikur : zikkurat  

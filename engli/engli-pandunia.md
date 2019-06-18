@@ -30,8 +30,10 @@ age : aje
 aggressive : agresi  
 agile : ajil  
 agreement (amen) : amen  
-air : hawe  
+air : air  
+air force : airolaskeria  
 airplane : wiman  
+airport (aeroport) : airoporte  
 Aland Islands : olandia  
 Albania : cipia  
 alcohol : alkol  
@@ -98,7 +100,7 @@ argon : argon
 argue (claim) : tesa  
 argument (thesis) : tese  
 arithmetic : hisabia  
-army : armia  
+army : laskeria  
 arsenic : arsen  
 art : arte  
 article (writing) : makale  
@@ -121,7 +123,7 @@ Assyria : axuria
 asthma : asme  
 atheist : nodewiste  
 athlete (sportsman) : keler  
-atmospheric pressure : hawobar  
+atmospheric pressure : airobar  
 atom : atom  
 attack (assault, aggression) : agres  
 attraction (-philia) : filia  
@@ -173,7 +175,7 @@ bar (rod, stick) : baton
 Barbados : barbados  
 barbarian : barbar  
 barium : barium  
-barometer : hawobarometer  
+barometer : airobarometer  
 barrel (can, cask) : tong  
 barrier : baryer  
 base (foundation) : baze  
@@ -245,7 +247,7 @@ bleed : lowa sang
 blog (web log) : bloge  
 blood : sang  
 blossom (bloom) : pula  
-blow : fonga  
+blow : hawa  
 blue : nil  
 board (plank) : banze  
 board game : banogem  
@@ -288,7 +290,7 @@ bright (brilliant, clear) : ming
 brighten : minga  
 broken (shattered) : parci  
 bromine : brom  
-brown (coffee-colored) : kafi  
+brown (coffee-colored) : kaforangi  
 Brunei Darussalam : bruney  
 brush : brox  
 bubble : bubul  
@@ -356,7 +358,6 @@ care (cure) : kura
 Caribbean : karibia  
 carpenter : mokojanger  
 carrot : karote  
-carry (bear) : porta  
 cash box : kax  
 cashier : kaxer  
 cassava (manioc) : manioke  
@@ -448,6 +449,7 @@ coerce (force, compel) : musa
 coercion : muse  
 coffee : kafe  
 coffee cup : kafokupe  
+coin : pesodiske  
 cola : kola  
 cold (illness) : zukam  
 cold : lengi  
@@ -689,7 +691,6 @@ engine (motor) : moter
 engineer : injener  
 English : engli  
 enough (sufficient) : bas  
-enthusiast (aficionado) : nik  
 environmental (natural) : eki  
 enzyme : enzim  
 epistemology : janolojia  
@@ -915,6 +916,7 @@ grief (sorrow) : duke
 grieve : duka  
 grimace : grimas  
 grind (grind in mill) : mola  
+ground force (army) : zemolaskeria  
 group : grupe  
 grow (get bigger) : dayu  
 grow : rastu  
@@ -949,6 +951,7 @@ Han Chinese : cini
 hand : hande  
 hang (dangle) : penda  
 happy (delighted) : suki  
+harbor (seaport) : suyoporte  
 harmful (damaging) : damaji  
 harmonius : harmoni  
 harmony : harmonia  
@@ -1157,7 +1160,7 @@ kitchen : kukeria
 kiwi fruit : kiwe  
 knead (massage) : masaja  
 knife : cake  
-knot (node; tie) : node  
+knot (node) : node  
 know : jana  
 knowledge : jan  
 known : jani  
@@ -1298,6 +1301,7 @@ marathon : maraton
 marble : marmar  
 March : mes 3 (mes tin)  
 margarine : margarin  
+maritime : mari  
 mark (leave a mark) : marka  
 mark (trace) : marke  
 market (bazaar) : bazar  
@@ -1387,6 +1391,7 @@ Moldova : moldowia
 mole (burrowing animal) : krote  
 mollusk : moluske  
 molybdenum : molidenum  
+moment (while, short time) : sate  
 Monaco : monakia  
 Monday : war 1 (war un)  
 money : pese  
@@ -1473,7 +1478,7 @@ news : habar
 newspaper (gazette) : habarobaw  
 newton (N) : nyuton  
 next (following) : badi  
-Nicaragua : nikaragua  
+Nicaragua : nikaragia  
 nice (pleasant, lovely) : latif  
 niche (alcove) : nixe  
 nickel : nikel  
@@ -1514,6 +1519,7 @@ number : num
 nylon : nilon  
 ##o  
 oasis : wase  
+ocean : dayomar  
 Oceania : oseania  
 October : mes 10 (mes des)  
 odd (strange, weird) : bizar  
@@ -1616,6 +1622,7 @@ passport : pasporte
 past (bygone) : pas  
 past times : pase  
 paste : paste  
+pathogen : patojener  
 pathology : patolojia  
 pause (break, interruption) : paus  
 pause (interrupt) : pausa  
@@ -1734,6 +1741,7 @@ pork : gurubomanse
 porn : porne  
 pornography : pornografia  
 port (left side of a ship) : botolefte  
+port (station) : porte  
 portion (dose) : doze  
 Portugal : portugalia  
 pose (position) : poze  
@@ -1757,8 +1765,9 @@ precede (come before) : preda
 precise (exact, accurate) : presis  
 pregnant : hamili  
 prepare (make ready) : reda  
-presence (existence) : zaye  
+presence (existence) : zayia  
 present (current, existing) : zay  
+present time (now)  : zaye  
 preserve (conserve, retain) : hafiza  
 president : prezidente  
 press (imprint) : capa  
@@ -1820,6 +1829,7 @@ radish : lobake
 radium : radium  
 radon : radon  
 railway (railroad) : trenodaw  
+raise (lift) : gawa  
 raisin : gan putaw  
 Ramadan : ramazan  
 ramp (incline) : rampe  
@@ -1884,7 +1894,7 @@ rightist (right-winger) : raitiste
 risk : riske  
 risky : riski  
 ritual (ceremony) : rite  
-river : nade  
+river (stream) : nade  
 roast : rosta  
 rob (loot, plunder, pillage, ransack) : luta  
 robber (plunderer) : luter  
@@ -1962,7 +1972,8 @@ sculpt : eskulta
 sculptor : eskulter  
 sculpture (art of sculpting) : eskultia  
 sculpture (statue) : eskulte  
-sea (ocean) : daria  
+sea : mar  
+sea force (navy) : marolaskeria  
 seaborgium : seaborgium  
 search : serca  
 season : mosim  
@@ -1972,7 +1983,6 @@ secretariat : sekreteria
 secretary : sekreter  
 seem : rupu  
 seismology : sismolojia  
-selenium : selen  
 selenium : selen  
 self : tan  
 self : ze  
@@ -2063,6 +2073,7 @@ sofa (couch) : sofah
 soft : komal  
 soil (dirt) : darte  
 solar system : solosistem  
+soldier : lasker  
 Solomon Islands : solomon da nesia  
 solstice : solestas  
 Somalia : somalia  
@@ -2269,10 +2280,11 @@ thunder (roaring) : grom
 Thursday : war 4 (war car)  
 ticket : tikete  
 tie (fasten, bind) : benda  
+tie a knot : noda  
 tiger : bagre  
 tikka (piece) : tike  
 tikka masala : masali tike  
-time (moment) : zaman  
+time (epoch, era) : zaman  
 time (turn, occasion) : ban  
 tiny (mini-) : mini  
 titanium : titan  
@@ -2422,6 +2434,7 @@ watt : wate
 wax : mum  
 way (road) : daw  
 we : mome  
+weapon (arms) : arme  
 wear clothes : fuka  
 weather : tenke  
 website : netoloke  
@@ -2446,7 +2459,7 @@ wild (savage) : wildi
 will (in future) : wil  
 will (volition, desire) : ice  
 win (defeat) : wina  
-wind : fong  
+wind : hawe  
 window : janel  
 wine : wain  
 winery : waineria  

@@ -7,7 +7,7 @@
 acida : suan  
 adjektivo : sifolekse  
 adreso : adres  
-aero : hawe  
+aero : air  
 Afganujo, Afganio : afgania  
 afrika : afriki  
 afrikamanteco : afrikofilia  
@@ -75,7 +75,8 @@ arboĝardeno : arboparke
 areo : are  
 Argentino : argentin  
 argono : argon  
-armeo : armia  
+armeo : laskeria  
+armilo : arme  
 arseno : arsen  
 artefarita lingvo : sanobax  
 artisto : arter  
@@ -93,6 +94,7 @@ avokado : awakate
 azeno : gade  
 azia : asi  
 Azio : asia  
+aĉetanto (aĉetisto) : bayer  
 aĉeti : baya  
 aĝo : aje  
 aŭ : u  
@@ -185,7 +187,7 @@ branĉo : xake
 Brazilo : brazilia  
 bromo : brom  
 broso : brox  
-bruna : kafi  
+bruna : kaforangi  
 brusto : sine  
 budhismo : budistia  
 budhisto : budiste  
@@ -219,6 +221,9 @@ daŭri : dura
 daŭro : dur  
 de (el, pro) : ya  
 de (partiklo de posedo) : du  
+defendanto (defendisto) : defer  
+defendi : defa  
+defendo : defe  
 dek (10) : des  
 dekono : deci  
 demanda : eski  
@@ -293,7 +298,6 @@ emocio : gam
 ena : indi  
 energio : energe  
 eno : inde  
-entuziasmulo : nik  
 erbio : erbium  
 Eris (planedeto) : eris  
 Eritreo : eritria  
@@ -366,6 +370,7 @@ fiziko : fizikia
 fiŝo : fix  
 flago : bandir  
 floro : pul  
+flughaveno : airoporte  
 flugi : feya  
 fluoro : flur  
 fojo : ban  
@@ -457,6 +462,8 @@ harmonio : harmonia
 haro : kex  
 hasio : hasium  
 havanto : malker  
+haveno : porte  
+haveno : suyoporte  
 havi (teni) : tena  
 hazarda : zari  
 hazardo : zar  
@@ -587,6 +594,7 @@ Karibio : karibia
 karoto : karote  
 karto : karte  
 kartuno : anime  
+karvio : karawe  
 kasko : helme  
 kastoro : kastor  
 Katalunio : katalunia  
@@ -681,7 +689,6 @@ kromo : krom
 krono : koron  
 ksenono : xenon  
 kubo : kube  
-kukaĵo : pay  
 kuko : keke  
 kukumo : pepin  
 kulero : camce  
@@ -788,9 +795,10 @@ mangano : mangan
 mano : hande  
 manĝi (trinki) : nyama  
 manĝoĉambro : nyamokamar  
+mara : mari  
 maratono : maraton  
 margarino : margarin  
-maro (oceano) : daria  
+maro : mar  
 martelo : hamar  
 masko : maske  
 maso : mas  
@@ -844,6 +852,7 @@ molusko : moluske
 monato : mes  
 mondlingvo : duniobax  
 mondo : dunia  
+monero : pesodiske  
 mongola : mongol  
 Mongolio : mongolia  
 monismo : monistia  
@@ -892,7 +901,7 @@ ni : mome
 ni faru... : haida  
 nigra : kal  
 nihonio : niponium  
-Nikaragvo : nikaragua  
+Nikaragvo : nikaragia  
 nikelo : nikel  
 nilono : nilon  
 niobo : niobium  
@@ -910,10 +919,12 @@ noto (rimarko, komento) : note
 nova : nowi  
 novaĵoj : habar  
 nudelo : mien  
+nuno : zaye  
 nur : mon  
 ##o  
 oazo : wase  
 Oceanio : oseania  
+oceano : dayomar  
 ofte : cang  
 oganesono : oganeson  
 ogro (trolo) : guy  
@@ -1185,6 +1196,7 @@ skribo : kitabe
 skulti : eskulta  
 skultisto : eskulter  
 sofo : sofah  
+soldato : lasker  
 somero : lete  
 sono : sonde  
 speciala : has  
@@ -1277,6 +1289,7 @@ tono : ton
 torako : sinokase  
 torio : torium  
 torso : torse  
+torto : pay  
 torĉo : nurobaton  
 traduki : tarja  
 tradukisto : tarjer  
@@ -1320,8 +1333,8 @@ vazo : waze
 veni : laya  
 venki : wina  
 venko : win  
-venti : fonga  
-vento : fong  
+venti : hawa  
+vento : hawe  
 ventro : bung  
 ventumilo : panke  
 vera : weri  
@@ -1390,6 +1403,7 @@ zuluo : zuluh
 ĉarma : kaway  
 ĉarniro (pivoto) : xarnir  
 ĉeestanta (nuna, ekzistanta) : zay  
+ĉeestanteco (ekzisto) : zayia  
 ĉefministro : xefi minister  
 ĉelo : sel  
 ĉemizo : kamis  

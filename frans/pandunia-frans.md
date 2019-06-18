@@ -23,6 +23,7 @@ afrikofilia : afrophilie
 agres : agression (attaque)  
 aha : comprendre (réaliser)  
 ainstainium : Einsteinium  
+airoporte : aéroport  
 aisokrem : crème glacée  
 ajil : agile  
 akse : axe  
@@ -70,7 +71,7 @@ arbuze : pastèque
 are : aire (superficie)  
 argentin : Argentine  
 argon : argon  
-armia : armée  
+arme : arme  
 arsen : arsenic  
 arte : art  
 arter : artiste  
@@ -120,6 +121,7 @@ haime : tente
 ##i  
 ##j  
 ##k  
+kafe : café  
 kitaba : écrire  
 kitabe : écriture  
 kitabia : bibliothèque  
@@ -129,22 +131,31 @@ koron : couronne
 kosmi : cosmique  
 kosmia : cosmos  
 ##l  
+lasker : soldat  
+laskeria : armée  
 lutaristi : luthérien  
 lutaristia : luthéranisme  
 ##m  
 malke : propriété (possession, bien)  
 malker : possédant (propriétaire)  
 manihayistia : manichéisme  
+mar : mer  
+maria : mariage  
 maste : mât  
 maye : fourmi  
 ##n  
+noce : noit  
 note : note  
 ##o  
 ##p  
 papagay : perroquet  
+patojener : agent pathogène   
 patolojia : pathologie  
+pay : tarte  
+pesodiske : monnaie (pièce)  
 pike : cime (pic, sommet)  
 piratia : piraterie  
+porte : porte  
 pote : boue (fange, bourbe, gadoue)  
 ##r  
 rim : rime  

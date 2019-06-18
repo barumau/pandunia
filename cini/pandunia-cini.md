@@ -7,6 +7,7 @@ adalia : 正义
 adres : 地址  
 adulte : 成年人  
 agres : 攻击  
+airoporte : 飞机场  
 ais : 冰  
 aisokrem : 冰淇淋   
 ajil : 灵活的  
@@ -32,7 +33,7 @@ aranje : 橙子
 arbe : 树  
 arbuze : 西瓜  
 are : 面积  
-armia : 军队  
+arme : 武器  
 arte : 美术  
 arter : 美术家  
 asle : 起源  
@@ -105,6 +106,7 @@ komputer : 计算机
 kosmi : 宇宙的  
 kosmia : 宇宙  
 ##l  
+laskeria : 军队  
 laya : 来  
 le : 他，她，它  
 leze : 梨  
@@ -127,15 +129,20 @@ mome : 我们
 ##n  
 ni : 不  
 nida : 需要  
+noce : 夜  
 note : 便条  
 ##o  
 ##p  
 pa : 到  
 papagay : 鹉鹦  
 parke : 园  
+patojener : 病原体  
 patolojia : 病理学  
+pay : 馅饼  
 pelmen : 饺子   
+pesodiske : 硬币  
 plisa : 请  
+porte : 港   
 pote : 坭  
 pulte : 桥  
 ##r  

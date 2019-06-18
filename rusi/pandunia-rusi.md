@@ -6,6 +6,7 @@ adalia : справедливость
 adres : адрес  
 adulte : взрослый  
 agres : нападение (атака)  
+airoporte : аэропорт   
 aisokrem : мороженое  
 ajil : подвижный  
 akse : ось  
@@ -29,7 +30,6 @@ aranje : апельсин
 arbe : дерево  
 arbuze : арбуз  
 are : площадь  
-armia : армия  
 arte : искусство  
 asan : поза  
 asle : начало (причина)  
@@ -77,6 +77,7 @@ hazin : сокровище (казна)
 ##i  
 ##j  
 ##k  
+kafe : кофе  
 kanjar : кинжал  
 katan : меч  
 kitaba : писать  
@@ -90,19 +91,28 @@ koron : корона
 kosmi : космический  
 kosmia : космос  
 ##l  
+lasker : солдат  
+laskeria : армия  
 lutaristi : лютеранский  
 lutaristia : лютера́нство   
 ##m  
 manihayistia : манихейство  
+mar : море   
+mari : морской   
 maste : мачта  
 moluske : моллюск  
 ##n  
+noce : ночь  
 note : запись (заметка)  
 ##o  
 ##p  
 papagay : попугай  
+patojener : патоген  
 patolojia : патология  
+pay : пирог  
+pesodiske : монета  
 pike : вершина  
+porte : порт  
 pote : болото  
 ##r  
 rim : рифма  

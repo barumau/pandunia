@@ -26,6 +26,11 @@ agres : attack (assault, aggression)
 agresi : aggressive  
 aha : understand (realize)  
 ainstainium : einsteinium  
+air : air  
+airobar : atmospheric pressure  
+airobarometer : barometer  
+airolaskeria : air force  
+airoporte : airport (aeroport)  
 ais : ice  
 aisi : icy  
 aisohoke : ice hockey  
@@ -86,7 +91,7 @@ are : area (extent of surface)
 argentin : Argentina  
 argon : argon  
 aria : area (region)  
-armia : army  
+arme : weapon (arms)  
 arsen : arsenic  
 arte : art  
 arter : artist  
@@ -348,7 +353,6 @@ dante : tooth
 dantobrox : tooth brush  
 dantomediker : dentist  
 darba : strike (punch)  
-daria : sea (ocean)  
 darje : step (degree, rank, grade, level, class)  
 darme : dharma (piety)  
 darmi : pious  
@@ -365,6 +369,7 @@ daw : way (road)
 dawiste : Taoist  
 dawistia : Taoism (Daoism)  
 day : big (greatly)  
+dayomar : ocean  
 dayu : grow (get bigger)  
 deci : deci-  
 defa : defend  
@@ -582,8 +587,6 @@ foli : mad (insane, crazy)
 folia : madness (insanity)  
 fone : phone (speech sound)  
 foneme : phoneme  
-fong : wind  
-fonga : blow  
 fonolojia : phonology  
 fonte : fountain (spring, well)  
 forke : fork  
@@ -647,6 +650,7 @@ garmi masal : garam masala
 garmi : warm  
 gas : gas  
 gaw : high  
+gawa : raise (lift)  
 gayan : Guyana  
 gaze : gauze  
 gazel : gazelle  
@@ -743,9 +747,8 @@ hasium : hassium
 hatar : danger (peril)  
 hatari : dangerous  
 hati : even (intensifier)  
-hawe : air  
-hawobar : atmospheric pressure  
-hawobarometer : barometer  
+hawa : blow  
+hawe : wind  
 hay : still (yet)  
 hazin : treasure (treasury)  
 he : huh? (pardon?)  
@@ -933,9 +936,9 @@ kadomium : cadmium
 kafas : cage  
 kafe : coffee  
 kaferia : cafe (coffee shop)  
-kafi : brown (coffee-colored)  
 kafir : infidel (pagan, heathen, unbeliever)  
 kafokupe : coffee cup  
+kaforangi : brown (coffee-colored)  
 kaka : defecate (shit)  
 kakaw : cocoa  
 kake : excrement (shit)  
@@ -1168,6 +1171,8 @@ langan : banister (handrail)
 lankia : Sri Lanka (Ceylon)  
 lanten : lantern  
 larwe : larva (maggot, caterpillar)  
+lasker : soldier  
+laskeria : army  
 lasti : elastic  
 lasun : garlic  
 latif : nice (pleasant, lovely)  
@@ -1305,17 +1310,20 @@ manira : behave (act)
 manse : meat (flesh)  
 mante : steamed bun (mantou, manti)  
 mar : horse  
+mar : sea  
 mara : marry  
 marati : Marathi  
 maraton : marathon  
 marca : walk (march)  
 margarin : margarine  
+mari : maritime  
 mari : married  
 maria : marriage (matrimony)  
 marian da nesia : Northern Mariana Islands  
 marka : mark (leave a mark)  
 marke : mark (trace)  
 marmar : marble  
+marolaskeria : sea force (navy)  
 marse : Mars  
 mas : mass (dough, lump)  
 masaja : knead (massage)  
@@ -1507,7 +1515,7 @@ nabe : prophecy
 naber : prophet  
 naciste : Nazi  
 nacistia : Nazism  
-nade : river  
+nade : river (stream)  
 nafas : breath  
 nahun : nail (fingernail)  
 naijiria : Nigeria  
@@ -1552,8 +1560,7 @@ nici : lower
 nida : need  
 nidi : necessary (needed)  
 nijer : Niger  
-nik : enthusiast (aficionado)  
-nikaragua : Nicaragua  
+nikaragia : Nicaragua  
 nikel : nickel  
 nil : blue  
 nilon : nylon  
@@ -1567,7 +1574,8 @@ niwe : Niue
 nixe : niche (alcove)  
 nobelium : nobelium  
 noce : night  
-node : knot (node; tie)  
+noda : tie a knot  
+node : knot (node)  
 nodewiste : atheist  
 nol ban : never  
 nol ren : nobody (no-one)  
@@ -1701,6 +1709,7 @@ paste : paste
 patate : potato  
 pati : ill (sick)  
 patia : sickness (illness, disease)  
+patojener : pathogen  
 patolojia : pathology  
 paunde : pound (£)  
 paus : pause (break, interruption)  
@@ -1727,6 +1736,7 @@ permis : permission
 permisa : allow (permit)  
 peruwia : Peru  
 pese : money  
+pesodiske : coin  
 petre : stone  
 pexe : profession (occupation)  
 pey : payment  
@@ -1793,7 +1803,7 @@ ponta : point at (indicate)
 ponter : pointer (indicator)  
 porne : porn  
 pornografia : pornography  
-porta : carry (bear)  
+porte : port (station)  
 portorikia : Puerto Rico  
 portugalia : Portugal  
 pospor : phosphorus  
@@ -2014,6 +2024,7 @@ sapater : shoemaker
 sapateria : shoemaker's shop  
 sar : head  
 saroste : skull  
+sate : moment (while, short time)  
 saudar : sibling (brother or sister)  
 saudi arabia : Saudi Arabia  
 sauna : sauna  
@@ -2029,7 +2040,6 @@ sekundometer : stop watch
 sekur : safe (secure)  
 sekura : save  
 sel : cell (biology)  
-selen : selenium  
 selen : selenium  
 sem : seven (7)  
 seman : week  
@@ -2144,6 +2154,7 @@ suta : sew
 sutur : suture (seam)  
 suxe : sushi  
 suy : water  
+suyoporte : harbor (seaport)  
 suyorang : watercolor  
 swahili : Swahili  
 swazia : Swaziland  
@@ -2476,7 +2487,7 @@ yutrium : yttrium
 zafran : saffron  
 zaitun : olive  
 zalim : mean (cruel)  
-zaman : time (moment)  
+zaman : time (epoch, era)  
 zambia : Zambia  
 zar : hazard (chance)  
 zardux : Zoroaster  
@@ -2485,13 +2496,15 @@ zarduxistia : Zoroastrianism
 zari : random  
 zay den : today  
 zay : present (current, existing)  
-zaye : presence (existence)  
+zaye : present time (now)   
+zayia : presence (existence)  
 zayu : exist (be present)  
 ze : self  
 zebre : zebra  
 zem : earth (ground)  
 zemia : Earth (Terra)  
 zemodow : peanut (groundnut)  
+zemolaskeria : ground force (army)  
 zeze : fly (housefly)  
 zigzage : zigzag  
 zikur : ziggurat  
