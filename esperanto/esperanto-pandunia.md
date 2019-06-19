@@ -795,10 +795,10 @@ mangano : mangan
 mano : hande  
 manĝi (trinki) : nyama  
 manĝoĉambro : nyamokamar  
-mara : mari  
+mara : samudi  
 maratono : maraton  
 margarino : margarin  
-maro : mar  
+maro : samude  
 martelo : hamar  
 masko : maske  
 maso : mas  
@@ -924,7 +924,7 @@ nur : mon
 ##o  
 oazo : wase  
 Oceanio : oseania  
-oceano : dayomar  
+oceano : dayosamude  
 ofte : cang  
 oganesono : oganeson  
 ogro (trolo) : guy  
@@ -1407,7 +1407,7 @@ zuluo : zuluh
 ĉefministro : xefi minister  
 ĉelo : sel  
 ĉemizo : kamis  
-ĉevalo : mar  
+ĉevalo :   
 ĉi tio : ce  
 ĉi tiu : ci  
 ĉiam : pan zaman  

@@ -97,8 +97,6 @@ lutaristi : лютеранский
 lutaristia : лютера́нство   
 ##m  
 manihayistia : манихейство  
-mar : море   
-mari : морской   
 maste : мачта  
 moluske : моллюск  
 ##n  
@@ -119,6 +117,8 @@ rim : рифма
 ruhe : душа (дух)  
 ##s  
 sal : соль  
+samude : море   
+samudi : морской   
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  

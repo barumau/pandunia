@@ -3,6 +3,7 @@
 -em : -er  
 -i : -a (-e)  
 -u : -i (-iĝi)  
+ : ĉevalo  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -289,7 +290,7 @@ darsia : lernejo
 darsogur : instruisto  
 daw : vojo  
 day : granda  
-dayomar : oceano  
+dayosamude : oceano  
 deci : dekono  
 defa : defendi  
 defe : defendo  
@@ -869,13 +870,10 @@ mame : patrino
 man : viro  
 mangan : mangano  
 manse : viando  
-mar : maro  
-mar : ĉevalo  
 mara : edzigi  
 maraton : maratono  
 marca : promeni (marŝi)  
 margarin : margarino  
-mari : mara  
 maria : geedzeco  
 mas : maso  
 masal : spico  
@@ -1197,6 +1195,8 @@ saman : ĉielo
 samarium : samario  
 samodexi : samlandano  
 samojinsokami : samseksema  
+samude : maro  
+samudi : mara  
 sana : produkti (fabriki)  
 sanduke : skatolo (kesto)  
 sang : sango  

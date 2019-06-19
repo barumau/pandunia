@@ -139,7 +139,6 @@ lutaristia : luthéranisme
 malke : propriété (possession, bien)  
 malker : possédant (propriétaire)  
 manihayistia : manichéisme  
-mar : mer  
 maria : mariage  
 maste : mât  
 maye : fourmi  
@@ -164,6 +163,7 @@ ruholojia : psychologie
 ##s  
 safariste : touriste  
 sal : sel  
+samude : mer  
 ##t  
 tarje : traduction  
 tazi : frais  

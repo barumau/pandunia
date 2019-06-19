@@ -1010,7 +1010,7 @@ honorable (respectable) : onori
 hope (wish) : inxala  
 hormone : hormon  
 horn : korne  
-horse : mar  
+horse :   
 hotel : hotel  
 hour : hor  
 how many? : ki num  
@@ -1301,7 +1301,7 @@ marathon : maraton
 marble : marmar  
 March : mes 3 (mes tin)  
 margarine : margarin  
-maritime : mari  
+maritime : samudi  
 mark (leave a mark) : marka  
 mark (trace) : marke  
 market (bazaar) : bazar  
@@ -1519,7 +1519,7 @@ number : num
 nylon : nilon  
 ##o  
 oasis : wase  
-ocean : dayomar  
+ocean : dayosamude  
 Oceania : oseania  
 October : mes 10 (mes des)  
 odd (strange, weird) : bizar  
@@ -1972,8 +1972,8 @@ sculpt : eskulta
 sculptor : eskulter  
 sculpture (art of sculpting) : eskultia  
 sculpture (statue) : eskulte  
-sea : mar  
-sea force (navy) : marolaskeria  
+sea : samude  
+sea force (navy) : samudolaskeria  
 seaborgium : seaborgium  
 search : serca  
 season : mosim  

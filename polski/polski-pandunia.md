@@ -823,7 +823,7 @@ kowal : metalojanger
 koza : buze  
 koło : cakre  
 koło, okrąg : cirke  
-koń : mar  
+koń :   
 kościół : eglis  
 kość : oste  
 kość do gry : dade  
@@ -1099,7 +1099,7 @@ motyl : pelpel
 mowa; słowo : loge  
 Mozambik : mozambike  
 Mołdawia : moldowia  
-może : mar  
+może : samude  
 możliwość, umiejętność : able  
 mrówka : maye  
 mucha : zeze  
@@ -1252,7 +1252,7 @@ obrócić się (kręcić się) : rotu
 obudzić, budzić : weka  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja : rasme  
 obóz : kamper  
-ocean : dayomar  
+ocean : dayosamude  
 Oceania : oseania  
 ocena, krytyka : piping  
 ocenić, oceniać, recenzować, komentować, krytykować : pipinga  

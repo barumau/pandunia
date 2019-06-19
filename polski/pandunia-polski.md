@@ -3,6 +3,7 @@
 -em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : koń  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -366,7 +367,7 @@ daw : droga, szosa, ulica
 dawiste : taoista  
 dawistia : taoizm  
 day : duży; bardzo  
-dayomar : ocean  
+dayosamude : ocean  
 dayu : urosnąć, rosnąć, wzrosnąć, wzrastać  
 deci : decy-, dziesiąta część  
 defa : obronić (chronić)  
@@ -1305,8 +1306,6 @@ manir : zachowanie (maniery, kultura)
 manira : zachowywać się (działać)  
 manse : mięso  
 mante : bułka gotowana na parze  
-mar : koń  
-mar : może  
 mara : ożenić się, poślubić, wyjść za mąż  
 marati : marathi  
 maraton : maraton  
@@ -1999,6 +1998,7 @@ samoa : Samoa
 samodexi : rodak, ziomek, krajan  
 samojinsokami : homoseksualny  
 samu : być podobnym, być jak  
+samude : może  
 samun : połączenie, złącze, styk  
 samuna : łączyć, wiązać, złączyć  
 sana : zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  

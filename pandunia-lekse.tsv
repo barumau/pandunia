@@ -366,7 +366,7 @@ zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.			daw	
 			dawiste	:	Taoist		taolainen	taoista								
 			dawistia	:	Taoism (Daoism)		taolaisuus	taoizm								
 yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".			day	:	big (greatly)	granda	iso (suuri; isosti, paljon)	duży; bardzo								
-vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng).			dayomar	:	ocean	oceano	valtameri	ocean								
+vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).			dayosamude	:	ocean	oceano	valtameri	ocean								
 			dayu	:	grow (get bigger)		kasvaa (suurentua)	urosnąć, rosnąć, wzrosnąć, wzrastać								
 			deci	:	deci-	dekono	desi	decy-, dziesiąta część								
 			defa	:	defend	defendi	puolustaa	obronić (chronić)								
@@ -1298,21 +1298,17 @@ fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). sp
 			manira	:	behave (act)		käyttäytyä	zachowywać się (działać)								
 hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.			manse	:	meat (flesh)	viando	liha	mięso								
 tur:mantı. rus:манты (manty). kor:만두 (mandu). zho:馒头 (mántóu). fas:urd:(mantu).			mante	:	steamed bun (mantou, manti)		täytetty pulla	bułka gotowana na parze								
-spa:por:mar. rus:море. fra:mer. deu:Meer.			mar	:	sea	maro	meri	może	mar	mar	mer		море 			
-cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.			mar	:	horse	ĉevalo	hevonen	koń								
 			mara	:	marry	edzigi	naida (mennä naimisiin)	ożenić się, poślubić, wyjść za mąż								
 	nas		marati	:	Marathi		marathi (eräs intialainen kieli)	marathi								
 			maraton	:	marathon	maratono	maratoni	maraton								
 eng:march. fra:marche. spa:marcha. rus:марш "marš".			marca	:	walk (march)	promeni (marŝi)	kävely (marssi)	iść, maszerować								
 			margarin	:	margarine	margarino	margariini	margaryna								
-			mari	:	maritime	mara	meri- (merellinen)		marítimo	marítimo			морской 			
 eng:married. fra:marié. spa:por:marido.			mari	:	married		naimisissa	ożeniony, zamężny, w związku małżeńskim								
 			maria	:	marriage (matrimony)	geedzeco	avioliitto	małżeństwo, związek małżeński			mariage					
 	dex	MP	marian da nesia	:	Northern Mariana Islands			Mariany Północne								
 			marka	:	mark (leave a mark)		merkitä (jättää jälki)	zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad								
 eng:mark. spa:por:marca. fra:marque. kor:마크 (makeu). jpn:マーク (māku).			marke	:	mark (trace)		merkki (jälki)	znak, trop								
 			marmar	:	marble		marmori	marmur								
-			marolaskeria	:	sea force (navy)		merivoimat									
 			marse	:	Mars		Mars	Mars								
 			mas	:	mass (dough, lump)	maso	massa	mass (dough, lump)								
 			masaja	:	knead (massage)		vaivata (hieroa)	knead (massage)								
@@ -1886,14 +1882,14 @@ eng:rep(etition). spa:repetición. + vie:lặp.			repe	:	repetition (rep)	ripeta
 			repi	:	again (repeatedly)	denove (ripete)	taas (uudestaan)	znowu (ponownie)								
 			reporta	:	report (recount, relate)		raportoida (selostaa)	raportować, relacjonować, opowiadać								
 			reporte	:	report		raportti (selostus, selonteko)	raport								
-			restu	:	remain (stay)		jäädä jäljelle	zostać, zostawać								
 			resida	:	acknowledge		kuitata	uznać (przynać, przyjąć do wiadomości)								
 fas:(resid). hin:रसीद (rasīd). urd:(rasīd). guj:રસીદ (rasīd). tel:రసీదు (rasīdu). + eng:receipt. swa:resiti. mal:resit.			reside	:	receipt (acknowledgement)		kuitti (kuittaus)	paragon, pokwitowanie								
-eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.			rezin	:	resin	rezino	pihka (hartsi)	żywica								
 fra:reste. eng:deu:Rest. pol:reszta. spa:por:resto.			reste	:	rest (remainder)		jäännös (loput)	pozostałość, reszta								
 			restoran	:	restaurant	restaŭracio	ravintola	restauracja								
+			restu	:	remain (stay)		jäädä jäljelle	zostać, zostawać								
 			retra	:	go back (retreat)		palata	wrócić, wracać, wycofać się, wycofywać się								
 	dex	RE	reunion	:	Réunion		Reunion	Reunion								
+eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.			rezin	:	resin	rezino	pihka (hartsi)	żywica								
 			rezulte	:	result		tulos	rezult, wynik								
 eng:rich. fra:riche. por:spa:rico.			rici	:	rich		rikas	bogaty								
 spa:por:rima. fra:rime. eng:rhyme. pol:rym. deu:Reim. ukr:рима (rima).			rim	:	rhyme (verse)		säe (riimi)	rym (wers)	rima	rima	rime		рифма			
@@ -1950,11 +1946,11 @@ swa:na. lin:kon:na. rus:на (na).			sa	:	with (by, at, in, on)		kanssa (luona, 
 			sa ke	:	where	kie	missä?	gdzie								
 			sa loke du	:	instead of	anstataŭ	sijasta (tilalta)	zamiast								
 			sa sabu	:	because	ĉar (pro ke)	aiheutua (koska, syystä, takia)	ponieważ, bo								
-tur:sade. fas:(sāde). hin:सादा (sādā).			sadi	:	plain (ordinary, unadorned, simple, mere)		koruton (tavanomainen, pelkkä)	zwykły, zwyczajny, prosty								
 			saba	:	cause (be the cause for)		aiheuttaa	spowodować, powodować								
 			sabate	:	Sabbath		sapatti	szabat, szabas								
 kon:sambu. + heb:(sibá). + ara:fas:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).			sabe	:	reason (cause)	kialo	syy	powód, przyczyna								
 ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón. fra:savon.			sabun	:	soap	sapo	saippua	mydło								
+tur:sade. fas:(sāde). hin:सादा (sādā).			sadi	:	plain (ordinary, unadorned, simple, mere)		koruton (tavanomainen, pelkkä)	zwykły, zwyczajny, prosty								
 			safa	:	clean (purify)	purigi	puhdistaa (siivota)	wyczyścić, czyścić								
 ara:(safar). tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.			safar	:	travel (voyage, trip)	vojaĝo	matka (reissu)	podróż								
 			safara	:	travel	vojaĝi	matkustaa	podróżować								
@@ -1989,9 +1985,12 @@ ara:(samāʾ). amh:ሰማይ (sämay). orm:samii. hau:sama. yor:sánmà. hin:आ
 	made	Sm	samarium	:	samarium	samario		samar								
 	dex	WS	samoa	:	Samoa		Samoa	Samoa								
 			samodexi	:	compatriot	samlandano	samanmaalainen (maanmies)	rodak, ziomek, krajan								
-vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.			sana	:	produce (create, make)	produkti (fabriki)	tehdä (valmistaa)	zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać								
 			samojinsokami	:	homosexual	samseksema	homoseksuaali	homoseksualny								
 			samu	:	resemble (be like)			być podobnym, być jak								
+khm:សមុទ្រ (saʾmot). tha:สมุทร (samut). hin:समुद्र (samudra). urd:(samandar). ind:samudra. ben:সমুদ্র (sômudr). guj:સમુદ્ર (samudra). tel:సముద్రము (samudramu). mya:သမုဒ္ဒရာ (samuddara).			samude	:	sea	maro	meri	może	mar	mar	mer		море 			
+			samudi	:	maritime	mara	meri- (merellinen)		marítimo	marítimo			морской 			
+vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.			sana	:	produce (create, make)	produkti (fabriki)	tehdä (valmistaa)	zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać								
+			samudolaskeria	:	sea force (navy)		merivoimat									
 			samun	:	joint		yhdistys (sidos)	połączenie, złącze, styk								
 isl:sameina. deu:vereinigen.			samuna	:	connect (join, link)		yhdistää	łączyć, wiązać, złączyć								
 swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). fas:urd:صندوق‎ (sanduq).			sanduke	:	box (chest)	skatolo (kesto)	laatikko	pudło, skrzynia								
@@ -2115,13 +2114,13 @@ ara:(sukkar). swa:sukari. por:açúcar. spa:azúcar. kon:sukadi. hin:शक्�
 			sukari	:	sugary (sweet)			słodki								
 hin:सुखी "sukhī". jpn:好き "suki". tha: สุข /suk/.			suki	:	happy (delighted)			wesoły, ucieszony								
 jpn:好く (suku). ind: suka.			suku	:	like (enjoy, be fond of)	ŝati	pitää (tykätä)	lubić, cieszyć się								
-			suma	:	sum up (add together)		ynnätä (summata)	zsumować, sumować, dodać, dodawać								
 	made	S	sulfe	:	sulfur	sulfuro	rikki	siarka								
+			suma	:	sum up (add together)		ynnätä (summata)	zsumować, sumować, dodać, dodawać								
 			sultan	:	power (authority, rule)			siła, autorytet, władza								
 			sultana	:	rule (be in charge)			rządzić, władać								
 			sultaner	:	ruler			władca								
-spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup". ind:sup. jpn:スープ "sūpu".			supe	:	soup	supo	keitto (soppa)	zupa								
 			sum	:	sum (total)	sumo	summa	suma								
+spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup". ind:sup. jpn:スープ "sūpu".			supe	:	soup	supo	keitto (soppa)	zupa								
 eng:soon.			sun	:	soon		pian	wkrótce								
 			sundar	:	beautiful (handsome, pretty)	bela	kaunis (komea, sievä)	piękny, przystojny								
 			suomi	:	Finnish	finna	suomalainen	fiński								
@@ -2239,8 +2238,8 @@ eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 "chù".			toca	:	
 eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.			toksi	:	toxic (poisonous, venomous)		myrkyllinen	toksyczny (trujący)								
 			tolera	:	tolerate		sallia	tolerować								
 			tolo	:	top (spinning top)		hyrrä	bąk, bączek								
-			tortuge	:	turtle (tortoise)		kilpikonna	żółw								
 eng:tomato. spa:tomate. rus: "tomat".			tomate	:	tomato	tomato	tomaatti	pomidor			tomate	西红柿	помидор (томат)			
+			tortuge	:	turtle (tortoise)		kilpikonna	żółw								
 eng:tone. swa:kitone. rus:тон "ton". deu:Ton. spa:tono.			ton	:	tone (note, pitch, shade)	tono	sävel (sävy)	ton, dźwięk, nuta, tonacja								
 zho:桶 (tǒng). khm:តុង (tong). tha:ถัง (tǎng). kor:통 (tong). vie:thùng. ind:mal:tong. + fra:tonneau. spa:tonel. ned:ton.			tong	:	barrel (can, cask)		tynnyri (tölkki)	beczka								
 ind:topi. hin: टोपी (ṭopī). ben:টুপি (ṭupi). tam:(toppi).			tope	:	hat (cap)	ĉapelo	lakki (hattu)	kapelusz, czapka								
@@ -2353,9 +2352,9 @@ rus:видеть (videt). ita:vedere. spa:por:ver. pol:widzieć. cze:vidět. ron
 			widomaidan	:	visual field (field of vision)		näkökenttä	pole widzenia								
 			widu	:	be seen		näkyä	być widzianym								
 	dex	VN	wietnam	:	Viet Nam		Vietnam	Wietnam								
+			wiki	:	wiki		wiki	wiki								
 eng:win. deu:gewinnen.			win	:	victory (win)	venko	voitto	zwycięstwo, wygrana								
 			wina	:	win (defeat)	venki	voittaa (kukistaa)	zwyciężyć, wygrać								
-			wiki	:	wiki		wiki	wiki								
 			wil	:	will (in future)	estonte	tuleva	w przyszłości								
 deu:eng:ned:wild. sve:vild.			wildi	:	wild (savage)		villi (kesytön)	dziki								
 eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).			wile	:	future time	estonoteco	tulevaisuus	przyszłość								
@@ -2422,8 +2421,8 @@ fra:eng:deu:chauffeur. spa:por:chofer. rus:шофёр (šofjor). pol:szofer. tha
 			xoke	:	shock (collision)		isku (šokki)	szokwstrząs; kolizja								
 eng:deu:fra:spa:por:show. rus:шоу (šou). tur:şov. swa:shoo. tha:โชว์ (choo). kor:쇼 (syo). jpn:ショー (shō). zho:秀 (xiù).			xow	:	show (display, exhibition)	montri (ekspozicii)	näytös (esitys, show)	pokaz, ekspozycja, wystawa								
 			xowa	:	show (display)		näyttää	pokazać, pokazywać, wystawić, wystawiać								
-zho:休息 (xiūxí). kor:휴식 (hyusig).			xuxe	:	rest (relief)		lepo	zostawić, zostawiać								
 eng:should.			xudu	:	should (ought)	devus	pitäisi	powinien								
+zho:休息 (xiūxí). kor:휴식 (hyusig).			xuxe	:	rest (relief)		lepo	zostawić, zostawiać								
 			xula	:	repair (fix)	ripari	korjata	naprawić, naprawiać								
 zho:修理 (xiūlǐ). jpn:修理 (shūri). kor:수리 (suri).			xule	:	repair (fix)	riparo	korjaus	naprawa								
 			xuler	:	repairer	riparisto	korjaaja	naprawiacz								
@@ -2438,8 +2437,8 @@ kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē". 	
 eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).			yake	:	yak		jakki	jak (zwierzę)								
 hau:yaƙini.swa:yakini.			yakin	:	certain (sure)	certa	varma (tosi)	pewny								
 			yala	:	hurry (hasten)	rapidigi	kiirehtiä	popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać								
-			yehudi	:	Jewish		juutalainen	żydowski								
 			yaman	:	Yemen	Jemeno	Jemen	Jemen					Йемен			
+			yehudi	:	Jewish		juutalainen	żydowski								
 zho: 样 (yàng). tha: อย่าง (yàang). khm: យ៉ាង (yaang).			yang	:	kind (type, style)	speco (tipo, stilo)	laji (tyyppi, tyyli)	rodzaj, typ, styl								
 			yani	:	that is (in other words, i.e., alias)	tio estas (alivorte)	eli (toisin sanoen)	innymi słowy								
 			yasen	:	ash tree			jesion								
@@ -2477,8 +2476,8 @@ zho:在 (zài). jpn:在 (zai).			zay	:	present (current, existing)	ĉeestanta (n
 			zayia	:	presence (existence)	ĉeestanteco (ekzisto)	läsnäolo	teraźniejszość, współczesność								
 			zayu	:	exist (be present)		olla olemassa	istnieć (być obecnym)								
 zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.			ze	:	self	si	itse	sam, siebie								
-			zigzage	:	zigzag		siksakki	zygzag								
 			zebre	:	zebra	zebro	seepra	zebra								
+			zigzage	:	zigzag		siksakki	zygzag								
 slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn). hin:ज़मीन (zamīn).			zem	:	earth (ground)		maa (maaperä)	ziemia, grunt, gleba								
 			zemia	:	Earth (Terra)		Maapallo	Ziemia								
 			zemodow	:	peanut (groundnut)		maapähkinä	orzech ziemny								
@@ -2487,14 +2486,15 @@ tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:e�
 ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).			zikur	:	ziggurat		zikkurat	ziggurat								
 	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe					Зимбабве			
 ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).			zine	:	adultery (infidelity)	malfideleco	haureus (uskottomuus)	zdrada małżeńska, cudzołóstwo								
-			zombe	:	zombie		zombi	zombie, zombi			zombi					
 	made	Zn	zinke	:	zinc	zinko	sinkki	cynk					цинк			
+			zombe	:	zombie		zombi	zombie, zombi			zombi					
 			zipa	:	zip up		sulkea vetoketjulla	zamknąć zamkiem błyskawicznym								
-			zuluh	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 eng:zipper. ben:জিপার (jipar). hin:ज़िपर (zipar). jpn:ジッパー (jippā). kor:지퍼 (jipeo). tha:ซิป (síp). fas:urd:(zip).			ziper	:	zipper		vetoketju	zamek błyskawiczny								
+			zuluh	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ben:জিরা (zīra). hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. fas:(zire). zho:孜然 (zīrán).			ziran	:	cumin (jeera)	kumino	juustokumina (jeera)	kumin, kmin					тмин			
 	made	Zr	zirkonium	:	zirconium	zirkonio	zirkonium	cyrkon								
 zho:zizi eng:sizzle			ziza	:	sizzle		sihistä	skwierczeć								
 ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	:	belt (zone)	zono	vyö	pas, strefa					пояс (зона)			
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.				:	horse	ĉevalo	hevonen	koń								

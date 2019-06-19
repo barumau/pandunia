@@ -376,7 +376,7 @@ herkullinen (nami) : nyami
 herättää : weka  
 heteroseksuaali : alojinsokami  
 hetki (kotva) : sate  
-hevonen : mar  
+hevonen :   
 hiekka : rege  
 hieno (hienojakoinen) : fain  
 hieronta : masaje  
@@ -1189,11 +1189,11 @@ melodinen (sointuisa) : melodi
 menneisyys : pase  
 mennyt : pas  
 mennä : gowa  
-meri : mar  
-meri- (merellinen) : mari  
+meri : samude  
+meri- (merellinen) : samudi  
 merirosvo (piraatti) : pirater  
 merirosvous : piratia  
-merivoimat : marolaskeria  
+merivoimat : samudolaskeria  
 merkitys : mene  
 merkitä (jättää jälki) : marka  
 merkitä (tarkoittaa) : mena  
@@ -2280,7 +2280,7 @@ valokuva (foto) : fotograf
 valokuvaus : fotografia  
 valonsäde : nurorade  
 valta : kratia  
-valtameri : dayomar  
+valtameri : dayosamude  
 vanginvartija : prizoner  
 vangita : prizona  
 vanha (muinainen) : purani  

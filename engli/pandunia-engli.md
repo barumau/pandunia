@@ -3,6 +3,7 @@
 -em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
+ : horse  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -369,7 +370,7 @@ daw : way (road)
 dawiste : Taoist  
 dawistia : Taoism (Daoism)  
 day : big (greatly)  
-dayomar : ocean  
+dayosamude : ocean  
 dayu : grow (get bigger)  
 deci : deci-  
 defa : defend  
@@ -1309,21 +1310,17 @@ manir : behaviour (manners)
 manira : behave (act)  
 manse : meat (flesh)  
 mante : steamed bun (mantou, manti)  
-mar : horse  
-mar : sea  
 mara : marry  
 marati : Marathi  
 maraton : marathon  
 marca : walk (march)  
 margarin : margarine  
-mari : maritime  
 mari : married  
 maria : marriage (matrimony)  
 marian da nesia : Northern Mariana Islands  
 marka : mark (leave a mark)  
 marke : mark (trace)  
 marmar : marble  
-marolaskeria : sea force (navy)  
 marse : Mars  
 mas : mass (dough, lump)  
 masaja : knead (massage)  
@@ -2007,6 +2004,9 @@ samoa : Samoa
 samodexi : compatriot  
 samojinsokami : homosexual  
 samu : resemble (be like)  
+samude : sea  
+samudi : maritime  
+samudolaskeria : sea force (navy)  
 samun : joint  
 samuna : connect (join, link)  
 sana : produce (create, make)  

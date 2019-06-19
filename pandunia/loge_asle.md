@@ -32,6 +32,7 @@ pandunia da loge laya ya pol bax du dunia.
 
 ## -
 
+ ← cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.  
 -a ← ←  
 -i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
 -u ← hau:wol:-u. swa:-wa.  
@@ -201,7 +202,7 @@ darse ← ara:fas:urd:(dars). tur:ders.
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
 daw ← zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.  
 day ← yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".  
-dayomar ← vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng).  
+dayosamude ← vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).  
 defe ← ara:(difāʿ). fas:(defâ'). hin:दफ़ा (dafā). urd:(difā'). + fra:eng:defense. spa:defensa. por:defesa. tur:defans.  
 defte ← tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:fas:(daftar).  
 deke ← hin:ढकना (dhaknā). deu:decken. eng:deck.  
@@ -533,8 +534,6 @@ mange ← ind:mangga. por:manga. eng:mango.
 manir ← fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). spa:manera. por:maneira. deu:Manieren. scr:manir.  
 manse ← hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.  
 mante ← tur:mantı. rus:манты (manty). kor:만두 (mandu). zho:馒头 (mántóu). fas:urd:(mantu).  
-mar ← cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.  
-mar ← spa:por:mar. rus:море. fra:mer. deu:Meer.  
 marca ← eng:march. fra:marche. spa:marcha. rus:марш "marš".  
 mari ← eng:married. fra:marié. spa:por:marido.  
 marke ← eng:mark. spa:por:marca. fra:marque. kor:마크 (makeu). jpn:マーク (māku).  
@@ -736,6 +735,7 @@ salade ← fra:salade. end:ind:salad. deu:Salat. rus:салат (salat). tur:sal
 salame ← ara:(salām). swa:salamu. ind:selamat.  
 sam ← ind:sama. hin:urd: ”saman”. eng:same. fra:semblable.  
 saman ← ara:(samāʾ). amh:ሰማይ (sämay). orm:samii. hau:sama. yor:sánmà. hin:आसमान (āsmān). fas:pnb:urd:(āsmān).  
+samude ← khm:សមុទ្រ (saʾmot). tha:สมุทร (samut). hin:समुद्र (samudra). urd:(samandar). ind:samudra. ben:সমুদ্র (sômudr). guj:સમુદ્ર (samudra). tel:సముద్రము (samudramu). mya:သမုဒ္ဒရာ (samuddara).  
 samuna ← isl:sameina. deu:vereinigen.  
 sana ← vie:sản. jpn:產 (-san-). hak:產 (sán). zho:產 (chǎn). ara:(ṣanaʿa). tur:sanat.  
 sanduke ← swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). fas:urd:صندوق‎ (sanduq).  

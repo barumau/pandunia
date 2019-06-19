@@ -3,6 +3,7 @@
 -em : pääte: pienin erottuva yksikkö kielitieteessä  
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
+ : hevonen  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -368,7 +369,7 @@ daw : tie
 dawiste : taolainen  
 dawistia : taolaisuus  
 day : iso (suuri; isosti, paljon)  
-dayomar : valtameri  
+dayosamude : valtameri  
 dayu : kasvaa (suurentua)  
 deci : desi  
 defa : puolustaa  
@@ -1309,20 +1310,16 @@ manir : käytös (käyttäytyminen)
 manira : käyttäytyä  
 manse : liha  
 mante : täytetty pulla  
-mar : hevonen  
-mar : meri  
 mara : naida (mennä naimisiin)  
 marati : marathi (eräs intialainen kieli)  
 maraton : maratoni  
 marca : kävely (marssi)  
 margarin : margariini  
-mari : meri- (merellinen)  
 mari : naimisissa  
 maria : avioliitto  
 marka : merkitä (jättää jälki)  
 marke : merkki (jälki)  
 marmar : marmori  
-marolaskeria : merivoimat  
 marse : Mars  
 mas : massa  
 masaja : vaivata (hieroa)  
@@ -1998,6 +1995,9 @@ saman : taivas
 samoa : Samoa  
 samodexi : samanmaalainen (maanmies)  
 samojinsokami : homoseksuaali  
+samude : meri  
+samudi : meri- (merellinen)  
+samudolaskeria : merivoimat  
 samun : yhdistys (sidos)  
 samuna : yhdistää  
 sana : tehdä (valmistaa)  

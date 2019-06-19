@@ -125,7 +125,7 @@ machine à écrire : kitabomaxin
 mais (bien que) : a  
 manichéisme : manihayistia  
 mariage : maria  
-mer : mar  
+mer : samude  
 monnaie (pièce) : pesodiske  
 mouche : zeze  
 mât : maste  
