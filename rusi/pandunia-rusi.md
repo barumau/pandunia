@@ -63,6 +63,7 @@ buke : книга
 ##c  
 cini : хань  
 ##d  
+danse : танец  
 date : данные  
 datobanke : база данных   
 dayosamude : океан   
@@ -84,6 +85,8 @@ hazin : сокровище (казна)
 ##k  
 kafe : кофе  
 kanjar : кинжал  
+karte : карта   
+kartografia : картография   
 katan : меч  
 kitaba : писать  
 kitabe : письмо  

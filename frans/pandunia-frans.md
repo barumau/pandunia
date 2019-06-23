@@ -110,6 +110,7 @@ botoraite : tribord
 buke : livre  
 ##c  
 ##d  
+danse : dance  
 date : données  
 datobanke : base de données  
 dayosamude : océan  
@@ -128,6 +129,8 @@ haime : tente
 ##j  
 ##k  
 kafe : café  
+karte : carte  
+kartografia : cartographie  
 kitaba : écrire  
 kitabe : écriture  
 kitabia : bibliothèque  

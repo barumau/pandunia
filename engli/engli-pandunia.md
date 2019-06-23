@@ -348,6 +348,7 @@ Canada : kanadia
 candle : mumonur  
 candy (sweets) : kande  
 cangaroo : kangur  
+cannabis (marijuana, ganja, pot, weed) : ganje  
 cannoneer : kanoner  
 canoe : kanuh  
 captain : kapitan  
@@ -357,11 +358,12 @@ carat : kirate
 caravan (convoy) : karwan  
 caraway : karawe  
 carbon (coal) : karbon  
-card : karte  
+card : karde  
 care (cure) : kura  
 Caribbean : karibia  
 carpenter : mokojanger  
 carrot : karote  
+cartography : kartografia  
 cash box : kax  
 cashier : kaxer  
 cassava (manioc) : manioke  
@@ -498,6 +500,7 @@ congratulate (bless) : barka
 connect (join, link) : samuna  
 consequence (follow-up) : bade  
 consider (regard) : konsida  
+consitution : bazokanun  
 consonant : konson  
 consume (eat or drink) : nyama  
 content (possession) : ten  
@@ -562,6 +565,7 @@ Czech Republic : cehia
 ##d  
 dagger : kanjar  
 damage (injury, harm) : damaje  
+dance : danse  
 danger (peril) : hatar  
 dangerous : hatari  
 dark (dim) : oskur  
@@ -598,6 +602,7 @@ depict (describe, illustrate) : grafa
 descriptive : sifi  
 desert : registan  
 desire (lust) : kam  
+desk : werkomeze  
 despise (scorn) : paraya  
 destination (destiny, fate) : destin  
 destine (set) : destina  
@@ -822,6 +827,8 @@ fork : forke
 form (shape) : forme  
 fortress (stronghold) : yosay  
 forum (public space) : forum  
+found : baza  
+founder : bazer  
 fountain (spring, well) : fonte  
 four (4) : car  
 fox : hule  
@@ -929,7 +936,7 @@ grow : rastu
 growth : raste  
 Guadeloupe : guadelupe  
 Guam : guam  
-guarantee : garante  
+guarantee (warranty) : garante  
 guard (watch) : garda  
 guardian (watchman) : garder  
 Guatemala : guatemalia  
@@ -962,6 +969,7 @@ harmful (damaging) : damaji
 harmonius : harmoni  
 harmony : harmonia  
 harness : harnes  
+hashish : haxix  
 hassium : hasium  
 hat (cap) : tope  
 hate : hen  
@@ -983,7 +991,6 @@ hello (hi) : halow
 helmet : helme  
 help (aid, assistance) : helpe  
 help (assist) : helpa  
-hemp (cannabis) : ganje  
 here (there) : sa ce  
 heritage (legacy, bequest) : waris  
 hero : wir  
@@ -1302,6 +1309,7 @@ Manichaeism : manihayistia
 mankind (humanity) : insania  
 manual : hani  
 many (much) : pol  
+map (chart) : karte  
 Marathi : marati  
 marathon : maraton  
 marble : marmar  

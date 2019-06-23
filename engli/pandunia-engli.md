@@ -186,10 +186,13 @@ baxolojia : linguistics
 bay : white  
 baya : buy (purchase)  
 bayer : buyer  
+baza : found  
 bazar : market (bazaar)  
 bazarohuristia : market liberalism  
 baze : base (foundation)  
+bazer : founder  
 bazi : basic  
+bazokanun : consitution  
 bebe : baby (infant)  
 bede : bed  
 bedinjan : eggplant (aubergine, brinjal)  
@@ -354,6 +357,7 @@ dan : grain (seed)
 dania : Denmark  
 danka : thank  
 danke : thanks (thank you)  
+danse : dance  
 dante : tooth  
 dantobrox : tooth brush  
 dantomediker : dentist  
@@ -647,10 +651,10 @@ gandia : Uganda
 gang : just (recently)  
 ganga : Ganges  
 gania : Ghana  
-ganje : hemp (cannabis)  
+ganje : cannabis (marijuana, ganja, pot, weed)  
 ganya : earn (gain)  
 gar : if (suppose, assume)  
-garante : guarantee  
+garante : guarantee (warranty)  
 garda : guard (watch)  
 garder : guardian (watchman)  
 garmi masal : garam masala  
@@ -756,6 +760,7 @@ hatari : dangerous
 hati : even (intensifier)  
 hawa : blow  
 hawe : wind  
+haxix : hashish  
 hay : still (yet)  
 hazin : treasure (treasury)  
 he : huh? (pardon?)  
@@ -988,12 +993,14 @@ karate : karate
 karawe : caraway  
 karbi : near (close)  
 karbon : carbon (coal)  
+karde : card  
 karibia : Caribbean  
 karite : shea  
 karme : action (conduct, karma)  
 karoparke : car park (parking lot)  
 karote : carrot  
-karte : card  
+karte : map (chart)  
+kartografia : cartography  
 kartun : comic (cartoon)  
 karwan : caravan (convoy)  
 kas : event (case, instance)  
@@ -2370,6 +2377,7 @@ weri : true (real, genuine, very, indeed)
 werka : work  
 werke : work (job, task)  
 werker : worker  
+werkomeze : desk  
 werme : worm  
 wersion : version (variation, edition)  
 weste : west  

@@ -199,6 +199,7 @@ damaje ← eng:damage. fra:dommage.
 damogem ← fra:jeu de dames. ara:(dāmā). ind:dam. spa:por:damas. deu:Damespiel.  
 dan ← hin:(dānā). tur:tane. jpn:(tane). + zho:列 (dàn). vie:đạn.  
 danke ← eng:thank. deu:Danke. + hin:धन्यवाद "dhanyavād".  
+danse ← eng:fra:dance. spa:danza. por:dança. deu:Tanz. rus:танец (taněc). tur:dans. jpn:ダンス (dansu). kor:댄스 (daenseu). swa:dansi.  
 darje ← ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. fas:(dareje). ind:derajat. + zho:阶 (jiē).  
 darse ← ara:fas:urd:(dars). tur:ders.  
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
@@ -293,6 +294,7 @@ gaje ← hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:g
 gam ← yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).  
 gan putaw ← kor:건포도 (geonpodo). zho:葡萄干 (pútáogān).  
 gan ← zho:干 (gān). yue:乾 (gon1). kor:건 (geon).  
+ganje ← hin:गांजा (gāñjā). urd:(gānjā). pnb:ਗਾਂਜਾ (gāñjā). ben:গাঁজা (gañja). tel:గంజాయి (gañjāyi). tam:கஞ்சா (kañcā). khm:កញ្ឆា (kɑñchaa). tha:กัญชา (gan-chaa). vie:cần sa. eng:por:ind:ganja. jpn:ガンジャ (gānjya).  
 ganya ← fra:gagner. por:ganhar. spa:ganar. eng:gain.  
 gar ← fas:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. kaz:егер (eger). + yue:假 (gaa1). wuu:假 (ga).   
 garder ← eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).  
@@ -427,9 +429,10 @@ kapa ← tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar
 kar ← eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī). swa:gari.  
 karawe ← ara:(karāwiya). eng:caraway. fra:carvi. spa:alcaravea. por:alcaravia.  
 karbi ← ara:fas:urd:(qarīb). swa:karibu. tur:takribi.   
+karde ← eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu. fra:carte.  
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
-karte ← deu:Karte. ind:kartu. fra:carte. eng: card. may:kad. zho:卡 (kǎ). jpn: カード (kādo). swa: kadi.  
+karte ← deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 karwan ← fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).  
 kas ← eng:case. fra:cas. spa:por:caso. deu:Kasus.  

@@ -720,7 +720,7 @@ karaoke : karaoke
 karat : kirate  
 karate : karate  
 karawana : karwan  
-karta : karte  
+karta : karde  
 kartka (dokument) : warke  
 kasjer : kaxer  
 kasta : jenoklas  

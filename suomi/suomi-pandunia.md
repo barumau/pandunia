@@ -338,7 +338,6 @@ hame : jupe
 hammas : dante  
 hammasharja : dantobrox  
 hammaslääkäri : dantomediker  
-hamppu (kannabis) : ganje  
 han-kiinalainen : cini  
 hana (venttiili, kraana) : kran  
 hankkia (ansaita) : ganya  
@@ -352,6 +351,7 @@ harmonia : harmonia
 harmoninen : harmoni  
 harrastus : hobe  
 harso : gaze  
+hasis : haxix  
 hasium : hasium  
 haureus (uskottomuus) : zine  
 hauska (huvittava) : fani  
@@ -642,6 +642,7 @@ kamppailulaji : jengoxute
 kana : kokode  
 Kanada : kanadia  
 kanava (kanaali) : kanal  
+kannabis (marihuana, hamppu) : ganje  
 kannada (eräs intialainen kieli) : kannadi  
 kannu (karahvi) : jar  
 kanootti : kanuh  
@@ -661,6 +662,8 @@ karhu : urse
 karhu : urse  
 Karibia : karibia  
 kartio (keila) : konus  
+kartogratia : kartografia  
+kartta : karte  
 kassa : kax  
 kassanhoitaja : kaxer  
 kassava (maniokki) : manioke  
@@ -831,7 +834,7 @@ korjaus : xule
 korkata : tapula  
 korkea : gaw  
 korkittaa (tukkia) : tapa  
-kortti : karte  
+kortti : karde  
 koruton (tavanomainen, pelkkä) : sadi  
 korva : or  
 korvata : wisa  
@@ -1547,6 +1550,9 @@ perua : ula
 peruna (potaatti) : patate  
 perus- : bazi  
 perusta (perustus) : baze  
+perustaa : baza  
+perustaja : bazer  
+perustuslaki : bazokanun  
 peräaukko (anus) : anus  
 pestä : waxa  
 pesukone : waxomaxin  
@@ -2049,6 +2055,7 @@ tankki (säiliö) : tanke
 tanko (sauva, patukka) : baton  
 Tansania : tanzania  
 Tanska : dania  
+tanssi : danse  
 taolainen : dawiste  
 taolaisuus : dawistia  
 tapa (perinne) : rasme  
@@ -2205,6 +2212,7 @@ työ (tehtävä) : werke
 työkalu : tul  
 työntekijä (työläinen) : werker  
 työntää (puskea) : puxa  
+työpöytä (kirjoituspöytä) : werkomeze  
 työskennellä : werka  
 tähti : xing  
 tämä (nämä) : ci  

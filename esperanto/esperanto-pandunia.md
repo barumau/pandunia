@@ -214,6 +214,7 @@ citrono : limun
 ##d  
 damaĝa : damaji  
 damaĝo : damaje  
+danco : danse  
 Danio : dania  
 danki : danka  
 danko : danke  
@@ -597,7 +598,7 @@ karavano : karwan
 karbono : karbon  
 Karibio : karibia  
 karoto : karote  
-karto : karte  
+karto : karde  
 kartuno : anime  
 karvio : karawe  
 kasko : helme  

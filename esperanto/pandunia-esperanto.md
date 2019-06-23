@@ -279,6 +279,7 @@ dan : semo
 dania : Danio  
 danka : danki  
 danke : danko  
+danse : danco  
 dante : dento  
 dantobrox : dentbroso  
 dantomediker : dentisto  
@@ -731,10 +732,10 @@ karate : karateo
 karawe : karvio  
 karbi : proksima  
 karbon : karbono  
+karde : karto  
 karibia : Karibio  
 karme : konduto (karmo)  
 karote : karoto  
-karte : karto  
 karwan : karavano  
 kastan : kaŝtano  
 kastor : kastoro  

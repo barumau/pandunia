@@ -101,6 +101,8 @@ janger : 工匠 (匠人)
 kafe : 咖啡  
 kal : 黑色  
 kande : 糖果  
+karte : 地图  
+kartografia : 地图学  
 kata : 切  
 ke : 什么，谁  
 keci : 客气  

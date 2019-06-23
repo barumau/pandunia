@@ -981,12 +981,12 @@ karate : karate
 karawe : kminek  
 karbi : bliski  
 karbon : węgiel  
+karde : karta  
 karibia : Karaiby  
 karite : masłosz Parka  
 karme : działanie (zachowanie, karma)  
 karoparke : parking  
 karote : marchew  
-karte : karta  
 kartun : komiks; kreskówka  
 karwan : karawana  
 kas : wydarzenie, przypadek, sytuacja  

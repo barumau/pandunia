@@ -185,10 +185,13 @@ baxolojia : kielitiede (lingvistiikka)
 bay : valkoinen (valkea)  
 baya : ostaa  
 bayer : ostaja  
+baza : perustaa  
 bazar : tori (basaari)  
 bazarohuristia : markkinaliberalismi  
 baze : perusta (perustus)  
+bazer : perustaja  
 bazi : perus-  
+bazokanun : perustuslaki  
 bebe : vauva  
 bede : vuode (sänky, peti)  
 bedinjan : munakoiso  
@@ -353,6 +356,7 @@ dan : siemen
 dania : Tanska  
 danka : kiittää  
 danke : kiitos  
+danse : tanssi  
 dante : hammas  
 dantobrox : hammasharja  
 dantomediker : hammaslääkäri  
@@ -647,7 +651,7 @@ gandia : Uganda
 gang : äsken (vasta, juuri)  
 ganga : Ganges  
 gania : Ghana  
-ganje : hamppu (kannabis)  
+ganje : kannabis (marihuana, hamppu)  
 ganya : hankkia (ansaita)  
 gar : jos (olettaa)  
 garante : takuu  
@@ -756,6 +760,7 @@ hatari : vaarallinen
 hati : jopa  
 hawa : tuulla (puhaltaa)  
 hawe : tuuli (puhallus)  
+haxix : hasis  
 hay : vielä (yhä)  
 hazin : aarre  
 he : häh?  
@@ -988,12 +993,14 @@ karate : karate
 karawe : kumina  
 karbi : läheinen  
 karbon : hiili  
+karde : kortti  
 karibia : Karibia  
 karite : voipuu  
 karme : toiminta (käytös, karma)  
 karoparke : parkkipaikka  
 karote : porkkana  
-karte : kortti  
+karte : kartta  
+kartografia : kartogratia  
 kartun : sarjakuva  
 karwan : karavaani (saattue)  
 kas : tapaus (seikka)  
@@ -2333,6 +2340,7 @@ weri : tosi (aito)
 werka : työskennellä  
 werke : työ (tehtävä)  
 werker : työntekijä (työläinen)  
+werkomeze : työpöytä (kirjoituspöytä)  
 werme : mato  
 wersion : versio  
 weste : länsi  

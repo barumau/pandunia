@@ -85,6 +85,8 @@ bouton : boton
 ##c  
 café : kafe  
 capacité (compétence) : able  
+carte : karte  
+cartographie : kartografia  
 chapitre : babe  
 cime (pic, sommet) : pike  
 comprendre (réaliser) : aha  
@@ -94,6 +96,7 @@ cosmos : kosmia
 couronne : koron  
 crème glacée : aisokrem  
 ##d  
+dance : danse  
 destin (destination) : destin  
 diamant : almas  
 domestique : domi  
