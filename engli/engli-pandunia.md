@@ -1,3 +1,4 @@
+  symbol : adresosimbol ( )  
 : : -a : suffix : for : verbs : with : SVO : word : order  
 a couple of : dul u tin  
 ##a  
@@ -63,6 +64,7 @@ amuse (entertain) : fana
 anal : anusi  
 analyse : analisa  
 analysis : analis  
+anchor : anker  
 Ancient Egypt (Kemet) : kemia  
 and : i  
 Andes : andes  
@@ -168,6 +170,8 @@ band (tape, bandage) : bende
 bandage (strip, ribbon) : faxe  
 Bangladesh : banglia  
 banister (handrail) : langan  
+bank (depository) : banke  
+banker : banker  
 baobab : buy  
 bar (obstruct) : barya  
 bar (pub, beer house) : bireria  
@@ -250,7 +254,7 @@ blossom (bloom) : pula
 blow : hawa  
 blue : nil  
 board (plank) : banze  
-board game : banogem  
+board game : banzogem  
 boat (ship) : bote  
 bodily (corporal) : badani  
 body : badan  
@@ -563,6 +567,8 @@ dangerous : hatari
 dark (dim) : oskur  
 Darwinism : darwinistia  
 Darwinist : darwiniste  
+data (numeric information) : date  
+database (databank) : datobanke  
 date : nenomesoden  
 date fruit : tamar  
 daughter : femi bace  
@@ -671,7 +677,7 @@ Egypt : misria
 Egyptian : misri  
 eight (8) : bal  
 einsteinium : ainstainium  
-El Salvador : salbador  
+El Salvador : salbadoria  
 elastic : lasti  
 electric : eletri  
 electricity : eletre  
@@ -1000,7 +1006,7 @@ hole : kong
 holiday : festoden  
 holmium : holmium  
 holy (sacred) : santi  
-Holy See (Vatican City State) : watikan  
+Holy See (Vatican City State) : watikania  
 home (residence) : dom  
 homosexual : samojinsokami  
 Honduras : honduras  
@@ -1536,7 +1542,7 @@ oh! : o
 okay (acceptable) : okey  
 old (ancient) : purani  
 olive : zaitun  
-Oman : oman  
+Oman : omania  
 once : un ban  
 one (1) : un  
 onion : pyaze  
@@ -1607,7 +1613,7 @@ pants (trousers) : pantalon
 papaya : papay  
 paper : papir  
 Papua New Guinea : papua nowi ginia  
-Paraguay : paraguay  
+Paraguay : paraguayia  
 park (garden) : parke  
 parrot (parakeet) : papagay  
 part (fraction) : fen  
@@ -2371,7 +2377,7 @@ upper : supri
 uranium : uranium  
 Uranus : uran  
 Urdu : urdi  
-Uruguay : uruguay  
+Uruguay : uruguayia  
 use (employ, apply) : uza  
 use (utility, benefit, gain, advantage) : faide  
 useful (beneficial) : faidi  
@@ -2384,11 +2390,11 @@ vagina : yone
 valley : wale  
 valve (tap, faucet) : kran  
 vanilla : wanil  
-Vanuatu : wanuatu  
+Vanuatu : wanuatia  
 vase (flower pot) : pulowaze  
 vegan : wejan  
 vegetable : weje  
-Venezuela : wenesuela  
+Venezuela : wenezolia  
 veranda (balcony, terrace, porch) : berande  
 verb : fatolekse  
 version (variation, edition) : wersion  

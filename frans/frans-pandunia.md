@@ -31,6 +31,7 @@ américain : ameriki
 Amérique : amerike  
 analyse : analis  
 analyser : analisa  
+ancre : anker  
 Andes : andes  
 ange : anjiler  
 Angola : angolia  
@@ -70,8 +71,11 @@ bain : banye
 balcon : balkon  
 banane : banan  
 bande : bande  
+banque : banke  
+banquier : banker  
 baryum : barium  
 base : baze  
+base de données : datobanke  
 basketball : baskobol  
 bibliothèque : kitabia  
 billet : tikete  
@@ -93,6 +97,7 @@ crème glacée : aisokrem
 destin (destination) : destin  
 diamant : almas  
 domestique : domi  
+données : date  
 drapeau : bandir  
 ##e  
 Einsteinium : ainstainium  
@@ -133,6 +138,7 @@ mât : maste
 noit : noce  
 note : note  
 ##o  
+océan : dayosamude  
 oeuf : ande  
 opposant (antagoniste) : anter  
 orange (couleur) : aranji  
@@ -187,7 +193,7 @@ téléviseur : telowide
 ##u  
 uranium : uranium  
 ##v  
-Venezuela : wenesuela  
+Venezuela : wenezolia  
 virus : wirus  
 vivre (habiter) : domu  
 ##w  

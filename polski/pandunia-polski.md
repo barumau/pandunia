@@ -143,11 +143,13 @@ bande : zespół (drużyna, grupa)
 bandir : flaga, sztandar  
 banglia : Bangladesz  
 banka : oszczędzać, deponować  
-banogem : gra planszowa  
+banke : bank  
+banker : bankier  
 banye : kąpiel  
 banyokamar : łazienka  
 banyu : kąpać się  
 banze : deska  
+banzogem : gra planszowa  
 bar : waga (ciężkość)  
 barbados : Barbados  
 barbar : barbarzyńca  
@@ -1621,7 +1623,7 @@ okey : okej, spoko, akceptowalny
 okeya : zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okse : tlen  
 olandia : Wyspy Alandzkie  
-oman : Oman  
+omania : Oman  
 onor : respekt, honor, szacunek, poważanie  
 onori : honorowy  
 or : ucho  
@@ -1679,7 +1681,7 @@ pape : ojciec
 papir : papier  
 papua nowi ginia : Papua Nowa Gwinea  
 par : równy  
-paraguay : Paragwaj  
+paraguayia : Paragwaj  
 paraya : gardzić (pogardzać)  
 paraye : wyrzutek  
 parca : stłuc się (rozpaść się na kawałki)  
@@ -1986,7 +1988,7 @@ salam xam : dobry wieczór
 salam : dobry ...  
 salama : pozdrowić, pozdrawiać  
 salame : pozdrowienie  
-salbador : Salwador  
+salbadoria : Salwador  
 sali : słony  
 salima : poddać się, poddawać się  
 salonia : Sierra Leone  
@@ -2303,7 +2305,7 @@ urdi : urdu
 urdunia : Jordan  
 urse : niedźwiedź  
 urse : niedźwiedź  
-uruguay : Urugwaj  
+uruguayia : Urugwaj  
 usamerike : Stany Zjednoczone Ameryki  
 usameriki samoa : Amerykańska Samoa  
 usameriki wirjin nesia : Wyspy Dziewicze USA  
@@ -2324,7 +2326,7 @@ wan : misa, kubek bez ucha
 wang : żółty  
 wanil : wanilia  
 wanta : chcieć, pragnąć  
-wanuatu : Vanuatu  
+wanuatia : Vanuatu  
 war 1 (war un) : poniedziałek  
 war 2 (war dul) : wtorek  
 war 3 (war tin) : środa  
@@ -2337,7 +2339,7 @@ waris : spadek, dziedzictwo, spuścizna, zapis
 warke : kartka (dokument)  
 wase : oaza  
 wate : wat  
-watikan : Watykan, Państwo Watykańskie  
+watikania : Watykan, Państwo Watykańskie  
 waw : wow!, łoł!, jej!  
 waxa : prać, umyć, myć  
 waxomaxin : pralka  
@@ -2350,7 +2352,7 @@ wejan : weganin (weganka)
 weje : warzywo  
 weka : obudzić, budzić  
 weki : przebudzony, przytomny  
-wenesuela : Wenezuela  
+wenezolia : Wenezuela  
 weri : prawdziwy (rzeczywisty, szczery)  
 werka : pracować  
 werke : praca, zjęcie, zadanie  

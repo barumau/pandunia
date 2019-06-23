@@ -22,6 +22,7 @@ analis : анализ
 analisa : анализировать  
 anime : оживление  
 anjil : евангелие  
+anker : якорь  
 anten : антенна  
 anus : анус  
 aple : яблоко  
@@ -45,6 +46,7 @@ balkon : балкон
 banan : банан  
 bande : банда  
 bandir : флаг  
+banke : банк  
 banye : купание  
 banyokamar : ванная  
 banyu : купаться  
@@ -61,6 +63,9 @@ buke : книга
 ##c  
 cini : хань  
 ##d  
+date : данные  
+datobanke : база данных   
+dayosamude : океан   
 destin : судьба  
 domi : дома́шний   
 dul u tin : пара  

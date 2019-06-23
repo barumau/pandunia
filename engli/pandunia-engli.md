@@ -17,6 +17,7 @@ adalia : justice
 ade : habit  
 adi : ordinary (routine, normal)  
 adres : address  
+adresosimbol ( ) :   symbol  
 adulte : adult  
 afgania : Afghanistan  
 afrike : Africa  
@@ -68,6 +69,7 @@ anima : animate
 anime : animation (cartoon)  
 anjil : gospel (divine message)  
 anjiler : angel (divine messenger)  
+anker : anchor  
 anta : oppose (resist)  
 antartia : Antarctica  
 anten : antenna (aerial)  
@@ -146,11 +148,13 @@ bande : band (squad, group)
 bandir : flag (banner)  
 banglia : Bangladesh  
 banka : save (deposit, bank)  
-banogem : board game  
+banke : bank (depository)  
+banker : banker  
 banye : bath  
 banyokamar : bathroom  
 banyu : bathe  
 banze : board (plank)  
+banzogem : board game  
 bar : weight  
 barbados : Barbados  
 barbar : barbarian  
@@ -366,6 +370,8 @@ darsoxef : headmaster (principal)
 darte : soil (dirt)  
 darwiniste : Darwinist  
 darwinistia : Darwinism  
+date : data (numeric information)  
+datobanke : database (databank)  
 daw : way (road)  
 dawiste : Taoist  
 dawistia : Taoism (Daoism)  
@@ -1626,7 +1632,7 @@ okey : okay (acceptable)
 okeya : accept (to say okay)  
 okse : oxygen  
 olandia : Aland Islands  
-oman : Oman  
+omania : Oman  
 onor : respect (honor, esteem)  
 onori : honorable (respectable)  
 or : ear  
@@ -1684,7 +1690,7 @@ pape : father
 papir : paper  
 papua nowi ginia : Papua New Guinea  
 par : equal (peer)  
-paraguay : Paraguay  
+paraguayia : Paraguay  
 paraya : despise (scorn)  
 paraye : outcast (pariah)  
 parca : shatter (break into pieces)  
@@ -1992,7 +1998,7 @@ salam xam : Good evening
 salam : good (in greetings)  
 salama : greet  
 salame : greeting (hello)  
-salbador : El Salvador  
+salbadoria : El Salvador  
 sali : salty (saline)  
 salima : surrender (to give up)  
 salonia : Sierra Leone  
@@ -2312,7 +2318,7 @@ urdi : Urdu
 urdunia : Jordan  
 urse : bear  
 urse : bear  
-uruguay : Uruguay  
+uruguayia : Uruguay  
 usamerike : United States of America  
 usameriki samoa : American Samoa  
 usameriki wirjin nesia : Virgin Islands, US  
@@ -2333,7 +2339,7 @@ wan : bowl (earless cup)
 wang : yellow  
 wanil : vanilla  
 wanta : want (desire)  
-wanuatu : Vanuatu  
+wanuatia : Vanuatu  
 war 1 (war un) : Monday  
 war 2 (war dul) : Tuesday  
 war 3 (war tin) : Wednesday  
@@ -2346,7 +2352,7 @@ waris : heritage (legacy, bequest)
 warke : leaf (sheet)  
 wase : oasis  
 wate : watt  
-watikan : Holy See (Vatican City State)  
+watikania : Holy See (Vatican City State)  
 waw : wow! (gee!)  
 waxa : wash  
 waxomaxin : washing machine  
@@ -2359,7 +2365,7 @@ wejan : vegan
 weje : vegetable  
 weka : wake (make awake)  
 weki : awake  
-wenesuela : Venezuela  
+wenezolia : Venezuela  
 weri : true (real, genuine, very, indeed)  
 werka : work  
 werke : work (job, task)  

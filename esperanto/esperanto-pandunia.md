@@ -60,6 +60,7 @@ angulo : kon
 animo (psiko) : ruhe  
 ankaŭ : plus  
 ankoraŭ : hay  
+ankro : anker  
 anstataŭ : sa loke du  
 antaŭiri : preda  
 anteno : anten  
@@ -119,6 +120,8 @@ bana : banyu
 banano : banan  
 bandaĝo (vindo) : bende  
 Bangladeŝo : banglia  
+bankisto : banker  
+banko : banke  
 bano : banye  
 banĉambro : banyokamar  
 baobabo : buy  
@@ -217,6 +220,8 @@ danko : danke
 danĝera : hatari  
 danĝero : hatar  
 dato : nenomesoden  
+datumbanko : datobanke  
+datumo : date  
 daŭri : dura  
 daŭro : dur  
 de (el, pro) : ya  
@@ -1151,7 +1156,6 @@ sango : sang
 sanigi (kuraci) : medika  
 sankta : santi  
 sapo : sabun  
-savi : banka  
 saŭco : sos  
 saŭno : sauna  
 scienco : lojia  

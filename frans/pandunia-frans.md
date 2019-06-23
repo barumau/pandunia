@@ -54,6 +54,7 @@ anima : animer
 anime : animation  
 anjil : évangile  
 anjiler : ange  
+anker : ancre  
 antartia : Antarctique  
 anten : antenne  
 anter : opposant (antagoniste)  
@@ -91,6 +92,8 @@ balkon : balcon
 banan : banane  
 bande : bande  
 bandir : drapeau  
+banke : banque  
+banker : banquier  
 banye : bain  
 banyokamar : salle de bains  
 banyu : se baigner  
@@ -107,6 +110,9 @@ botoraite : tribord
 buke : livre  
 ##c  
 ##d  
+date : données  
+datobanke : base de données  
+dayosamude : océan  
 destin : destin (destination)  
 domi : domestique  
 domu : vivre (habiter)  
@@ -191,7 +197,7 @@ uranium : uranium
 ##v  
 ##w  
 weki : éveillé  
-wenesuela : Venezuela  
+wenezolia : Venezuela  
 wirus : virus  
 wolfe : loup  
 ##x  

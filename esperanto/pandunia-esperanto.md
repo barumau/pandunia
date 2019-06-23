@@ -57,6 +57,7 @@ ande : ovo
 andes : Andoj  
 anime : kartuno  
 anjil : evangelio  
+anker : ankro  
 anten : anteno  
 anti : kotraŭa  
 anus : anuso  
@@ -116,7 +117,8 @@ ban : fojo
 banan : banano  
 bandir : flago  
 banglia : Bangladeŝo  
-banka : savi  
+banke : banko  
+banker : bankisto  
 banye : bano  
 banyokamar : banĉambro  
 banyu : bana  
@@ -288,6 +290,8 @@ darse : leciono
 darser : studento (lernanto)  
 darsia : lernejo  
 darsogur : instruisto  
+date : datumo  
+datobanke : datumbanko  
 daw : vojo  
 day : granda  
 dayosamude : oceano  

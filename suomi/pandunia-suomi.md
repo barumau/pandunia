@@ -17,6 +17,7 @@ adalia : oikeus
 ade : tapa  
 adi : tavallinen  
 adres : osoite  
+adresosimbol ( ) :  -merkki  
 adulte : aikuinen  
 afgania : Afganistan  
 afrike : Afrikka  
@@ -68,6 +69,7 @@ anima : animoida
 anime : animaatio (piirretty)  
 anjil : evankeliumi  
 anjiler : enkeli  
+anker : ankkuri  
 anta : vastustaa  
 antartia : Antarktis  
 anten : antenni  
@@ -144,12 +146,14 @@ banan : banaani
 bande : ryhmä (työryhmä, yhtye, bändi)  
 bandir : lippu  
 banglia : Bangladesh  
-banka : tallettaa  
-banogem : lautapeli  
+banka : tallettaa (tallentaa)  
+banke : pankki  
+banker : pankkiiri  
 banye : kylpy  
 banyokamar : kylpyhuone  
 banyu : kylpeä  
 banze : lauta (lankku)  
+banzogem : lautapeli  
 bar : paino  
 barbados : Barbados  
 barbar : barbaari (raakalainen)  
@@ -365,6 +369,8 @@ darsoxef : rehtori
 darte : maa (multa)  
 darwiniste : darwinisti  
 darwinistia : darwinismi  
+date : data (numeerinen tieto)  
+datobanke : tietokanta  
 daw : tie  
 dawiste : taolainen  
 dawistia : taolaisuus  
@@ -1625,7 +1631,7 @@ okey : kelpo (okei)
 okeya : hyväksyä  
 okse : happi  
 olandia : Ahvenanmaa (Oolanti)  
-oman : Oman  
+omania : Oman  
 onor : kunnioitus (arvostus)  
 onori : kunnianarvoisa  
 or : korva  
@@ -1683,7 +1689,7 @@ pape : isä
 papir : paperi  
 papua nowi ginia : Papua Uusi-Guinea  
 par : vertainen  
-paraguay : Paraguai  
+paraguayia : Paraguai  
 paraya : halveksia (hyljeksiä)  
 paraye : hylkiö (paaria)  
 parca : hajottaa (särkeä, repiä, sirpaloida)  
@@ -1987,7 +1993,7 @@ salam xam : Hyvää iltaa
 salam : hyvä (tervehdyksissä)  
 salama : tervehtiä  
 salame : tervehdys (terve!)  
-salbador : El Salvador  
+salbadoria : El Salvador  
 sali : suolainen  
 salonia : Sierra Leone  
 sam : sama  
@@ -2278,7 +2284,7 @@ urdi : urdu
 urdunia : Jordania  
 urse : karhu  
 urse : karhu  
-uruguay : Uruguai  
+uruguayia : Uruguai  
 usamerike : Yhdysvallat  
 uza : käyttää  
 uzbekia : Uzbekistan  
@@ -2296,7 +2302,7 @@ wan : kulho
 wang : keltainen  
 wanil : vanilja  
 wanta : haluta  
-wanuatu : Vanuatu  
+wanuatia : Vanuatu  
 war 1 (war un) : maanantai  
 war 2 (war dul) : tiistai  
 war 3 (war tin) : keskiviikko  
@@ -2309,7 +2315,7 @@ waris : perintö
 warke : lehti (arkki, levy)  
 wase : keidas  
 wate : watti  
-watikan : Vatikaanivaltio  
+watikania : Vatikaanivaltio  
 waw : oho (vau)  
 waxa : pestä  
 waxomaxin : pesukone  
@@ -2322,7 +2328,7 @@ wejan : vegaani
 weje : kasvis  
 weka : herättää  
 weki : olla hereillä  
-wenesuela : Venezuela  
+wenezolia : Venezuela  
 weri : tosi (aito)  
 werka : työskennellä  
 werke : työ (tehtävä)  

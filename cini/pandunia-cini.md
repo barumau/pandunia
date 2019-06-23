@@ -24,6 +24,7 @@ analis : 分析
 analisa : 分析  
 anime : 活跃  
 anjil : 福音  
+anker : 锚  
 anten : 天线  
 anus : 肛门  
 aple : 苹果  
@@ -51,6 +52,7 @@ balkon : 阳台
 banan : 香蕉  
 bande : 班  (一帮)  
 bandir : 旗  
+banke : 银行   
 banye : 洗澡  
 banyokamar : 浴室  
 banyu : 游泳  
@@ -74,6 +76,9 @@ cay : 茶
 ceng : 层  
 cini : 汉族  
 ##d  
+date : 数据   
+datobanke : 数据库  
+dayosamude : 大洋  
 destin : 目的地 (命運)  
 ding : 钉子   
 dom : 房子  
@@ -148,6 +153,7 @@ pulte : 桥
 ##r  
 ##s  
 sal : 盐   
+samude : 海  
 sol : 太阳  
 solosistem : 太阳系  
 supris : 惊奇  

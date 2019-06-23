@@ -62,6 +62,7 @@ amen ← heb:hbo:אמן. ell:ἀμήν (ámén). eng:deu:fra:pol:spa:amen. ara:(
 ampul ← fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).  
 ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).  
 anjil ← ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). ell:εὐαγγέλιον (euangélion). rus:евангелие (evangeliye). fra:évangile. por:evangelho.  
+anker ← eng:anchor. fra:ancre. por:âncora. ind:jangkar. rus:якорь. ara:(ʾanjar). hin:लंगर (laṅgar). urd:(laṅgar). tel:లంగరు (laṅgaru).  
 anti ← eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.  
 antonim ← eng:deu:antonym. fra:antonyme. spa:por:antónimo. rus:антоним (antonim). ind:tur:antonim.  
 aple ← eng:apple. deu:Apfel. ind:apel. ben:আেপল (apôl). zul:ihhabhula.  
@@ -94,6 +95,7 @@ balon ← fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.
 ban ← kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).  
 bande ← zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).  
 bandir ← eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.  
+banke ← eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).  
 banze ← zho:板子 (bǎnzi). mon:банз (banz). kor:판자 (panja). yue:板 (baan2). jpn:板 (ban). vie:bảng. + swa:bao.  
 bar ← ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.  
 barbar ← deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).  
@@ -200,6 +202,7 @@ danke ← eng:thank. deu:Danke. + hin:धन्यवाद "dhanyavād".
 darje ← ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. fas:(dareje). ind:derajat. + zho:阶 (jiē).  
 darse ← ara:fas:urd:(dars). tur:ders.  
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
+date ← eng:ind:data. vie:đa ta. deu:Daten. spa:tgl:datos. por:dados. fas:(dâde-hâ). hin:डेटा (ḍeṭā). urd:(ḍeṭā). jpn:データ (dēta).  
 daw ← zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.  
 day ← yue:大 "daai". zho:大 "dá". vie:đại. jpn:"dai,tai". kor:대— "dae-".  
 dayosamude ← vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).  

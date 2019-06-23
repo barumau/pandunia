@@ -101,6 +101,8 @@ bambus : jug
 banan : banan  
 bandaż, taśma, wstążka : faxe  
 Bangladesz : banglia  
+bank : banke  
+bankier : banker  
 baobab : buy  
 bar : barium  
 bar, knajpa : bireria  
@@ -508,7 +510,7 @@ gorączka : feber
 gotować, szykować jedzenie : kuka  
 gotowy : redi  
 gra : gem  
-gra planszowa : banogem  
+gra planszowa : banzogem  
 gracki, helleński; Grek : helen  
 gracz : gemer  
 grafem : grafem  
@@ -1284,7 +1286,7 @@ oko : kan
 około; przybliżony : yagi  
 okrągły : cirki  
 oliwka : zaitun  
-Oman : oman  
+Oman : omania  
 on, ona, ono : le  
 oni : lole  
 opaska do włosów : kexobende  
@@ -1355,7 +1357,7 @@ papieros (cygar) : sigar
 Papua Nowa Gwinea : papua nowi ginia  
 papuga : papagay  
 paragon, pokwitowanie : reside  
-Paragwaj : paraguay  
+Paragwaj : paraguayia  
 park (ogród) : parke  
 parking : karoparke  
 partia : partia  
@@ -1795,7 +1797,7 @@ ręka, dłoń : hande
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : winsi i grenadin  
 Saint Vincent i Grenadyny : walis i futuna da nesia  
-Salwador : salbador  
+Salwador : salbadoria  
 sam, osobiście : tan  
 sam, siebie : ze  
 samar : samarium  
@@ -2152,7 +2154,7 @@ urodziny : jenoden
 urodzić się, rodzić się : jenu  
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić : jena  
 urosnąć, rosnąć, wzrosnąć, wzrastać : dayu  
-Urugwaj : uruguay  
+Urugwaj : uruguayia  
 urząd, pozycja, stanowisko, funkcja : ofis  
 usta : boke  
 usłyszeć, słyszeć; słuchać : auda  
@@ -2169,7 +2171,7 @@ użyteczny, pomocny, przydatny, pożyteczny, korzystny : faidi
 użytkownik : uzer  
 użyć, używać, zatrudnić, stosować : uza  
 ##v  
-Vanuatu : wanuatu  
+Vanuatu : wanuatia  
 voodoo : wodun  
 w przyszłości : wil  
 ##w  
@@ -2186,7 +2188,7 @@ warsztat szewski : sapateria
 warunek : xarte  
 warzywo : weje  
 wat : wate  
-Watykan, Państwo Watykańskie : watikan  
+Watykan, Państwo Watykańskie : watikania  
 waza, garnek, pojemnik, słoik, dzban : waze  
 wazon; donica, doniczka : pulowaze  
 ważka : libel  
@@ -2194,7 +2196,7 @@ ważny : importi
 wciąż, nadal : hay  
 wczoraj : predi den  
 weganin (weganka) : wejan  
-Wenezuela : wenesuela  
+Wenezuela : wenezolia  
 weranda, balkon, taras, ganek : berande  
 wersja (wariacja, edycja, wydanie) : wersion  
 wesoły, ucieszony : suki  

@@ -1,3 +1,4 @@
+ -merkki : adresosimbol ( )  
 -n (oma) : da  
 : : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
@@ -77,6 +78,7 @@ anglofiili : englofiler
 Angola : angolia  
 animaatio (piirretty) : anime  
 animoida : anima  
+ankkuri : anker  
 annos : doze  
 antaa : dona  
 Antarktis : antartia  
@@ -192,6 +194,7 @@ curium : kurium
 ##d  
 darwinismi : darwinistia  
 darwinisti : darwiniste  
+data (numeerinen tieto) : date  
 demokraatti : demokratiste  
 demokraattinen : demokrati  
 demokratia : demokratia  
@@ -221,7 +224,7 @@ ei mitään : nol xey
 eilinen : predi den  
 einsteinium : ainstainium  
 ekologia (ympäristötiede) : ekolojia  
-El Salvador : salbador  
+El Salvador : salbadoria  
 ele : jeste  
 elegantti : xiki  
 elektroni : eletron  
@@ -984,7 +987,7 @@ laulu : cante
 lause (fraasi) : fraze  
 lauta (lankku) : banze  
 lautanen : plate  
-lautapeli : banogem  
+lautapeli : banzogem  
 lava (näyttämö) : sen  
 lawrensium : laurensium  
 lehmän liha : muhomanse  
@@ -1408,7 +1411,7 @@ olla samaa mieltä : amena
 olla väliä (olla tärkeä) : importu  
 olut (kalja) : bir  
 omaisuus : malke  
-Oman : oman  
+Oman : omania  
 omena : aple  
 omistaa : malka  
 omistaja : malker  
@@ -1502,6 +1505,8 @@ pandunia : pandunia
 pandunian puhuja : panduner  
 pandžabi (eräs intialainen kieli) : panjabi  
 paneurooppalainen : paneuropi  
+pankki : banke  
+pankkiiri : banker  
 panna (asettaa) : poza  
 pannu (paistinpannu) : tawe  
 pantheon : panodewia  
@@ -1511,7 +1516,7 @@ pappi : dinogur
 papu tai herne : dow  
 Papua Uusi-Guinea : papua nowi ginia  
 papukaija : papagay  
-Paraguai : paraguay  
+Paraguai : paraguayia  
 parkkipaikka : karoparke  
 parsa : lusun  
 parta : barde  
@@ -2034,7 +2039,7 @@ taktiikka : tatike
 takuu : garante  
 tallenne (rekisteri) : defte  
 tallentaa (rekisteröidä, kirjata) : defta  
-tallettaa : banka  
+tallettaa (tallentaa) : banka  
 talvi : xite  
 tamil (eräs intialainen kieli) : tamili  
 tammikuu : mes 1 (mes un)  
@@ -2110,6 +2115,7 @@ tiede (tutkimus) : lojia
 tiedottaa (informoida) : informa  
 tieto (info) : informe  
 tieto (tietämys) : jan  
+tietokanta : datobanke  
 tietokone : komputer  
 tietoteoria (epistemologia) : janolojia  
 tietty (tunnettu) : jani  
@@ -2237,7 +2243,7 @@ urhea (sankarillinen) : wiri
 urheilija : keler  
 urheilu : kel  
 uros (mies) : man  
-Uruguai : uruguay  
+Uruguai : uruguayia  
 usein : cang  
 usko (luottamus) : xin  
 uskoa (luottaa) : xina  
@@ -2287,7 +2293,7 @@ vanha (muinainen) : purani
 vanilja : wanil  
 vankeus : prizon  
 vankila : prizonia  
-Vanuatu : wanuatu  
+Vanuatu : wanuatia  
 vanukas : puding  
 vapaa : huri  
 vapaus : huria  
@@ -2313,7 +2319,7 @@ vastata : jawaba
 vastaus : jawabe  
 vastustaa : anta  
 vastustaja : anter  
-Vatikaanivaltio : watikan  
+Vatikaanivaltio : watikania  
 vaurio (vahinko) : damaje  
 vauva : bebe  
 vegaani : wejan  
@@ -2321,7 +2327,7 @@ veistos (patsas) : eskulte
 veistää kuvaa : eskulta  
 veitsi (puukko) : cake  
 vene (laiva) : bote  
-Venezuela : wenesuela  
+Venezuela : wenezolia  
 Venäjä : rusia  
 venäläinen : rusi  
 verbi (teonsana) : fatolekse  
