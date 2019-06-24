@@ -58,7 +58,7 @@ almar ← hin:अलमारी (almārī). ben:আলমারি (almari). in
 almas ← swa:almasi. rus:алмаз (almaz). tkm:almaz. ara:(ʾalmāsa). fas:(almâs). tur:elmas.  
 altar ← eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare. pol:ołtarz.  
 ame ← fra:amour. spa:por:amor.  
-amen ← heb:hbo:אמן. ell:ἀμήν (ámén). eng:deu:fra:pol:spa:amen. ara:(ʾāmin). tur:amin. zho:阿门 (āmén). kor:아멘 (amen). jpn:アーメン (āmen).  
+amen ← ara:(ʾāmin). tur:amin,emin. heb:hbo:אמן. ell:ἀμήν (ámén). eng:deu:fra:pol:spa:amen. zho:阿门 (āmén). kor:아멘 (amen). jpn:アーメン (āmen).  
 ampul ← fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).  
 ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).  
 anjil ← ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). ell:εὐαγγέλιον (euangélion). rus:евангелие (evangeliye). fra:évangile. por:evangelho.  
@@ -279,7 +279,7 @@ forti ← fra:fort. spa:fuerte. por:forte. eng:force.
 fuga ← zho:复 "fù". yue:"fuk". vie:phục.  
 fuke ← zho:衣服 "yīfu". yue:"yifuk". jpn:衣服 "ifuku". kor:의복 "uibog".  
 ful ← eng:full. deu:voll.  
-fulan ← swa:fulani. ara:"fulan".  
+fulani ← swa:fulani. ara:"fulan". tur:falan.  
 fun ← zho:粉 (fěn). hak:粉 (fun). tha:ฝุ่น (fùn).  
 funge ← eng:fungus. fra:fongus. por:fungo. spa:hongo.  
 funocuper ← zho:吸尘器 (xīchénqì). deu:Staubsauger.  
@@ -910,10 +910,11 @@ xuxe ← zho:休息 (xiūxí). kor:휴식 (hyusig).
 yade ← hin:याद (yād). guj:યાદ (yād). fas:urd:(yād). aze:yad. tkm: ýaad.  
 yagi ← kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē".   
 yake ← eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).  
-yakin ← hau:yaƙini.swa:yakini.  
 yang ← zho: 样 (yàng). tha: อย่าง (yàang). khm: យ៉ាង (yaang).  
 yatim ← ara:fas:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).  
 yeze ← zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).  
+yoge ← hin:योग (yog). pnb:ਯੋਗ (yog). urd:(yog). ben:যোগ (jog). tel:యోగా (yōgā). tha:โยคะ (yōga). eng:spa:ind:tur:yoga. por:ioga. rus:йога (yoga). zho:瑜伽 (yújiā). jpn:ヨーガ (yōga). kor:요가 (yoga).  
+yone ← hin:योनि (yoni). ben:যোনি (joni). tel:యోని (yōni). khm:យោនី (yōnī). tha:โยนี (yo-ni).  
 yote ← tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).  
 yumor ← rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).  
 ##z  
@@ -921,7 +922,7 @@ zaitun ← ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitū
 zalim ← ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.  
 zaman ← tur:zaman. ind:jaman. swa:zamani. ara:(zaman). fas:(zamān). + hin:समय (samay).  
 zar ← ara:(zahr). + eng:hazard. spa:por:azar. + tur:zar. ell:ζάρι (zári). bul:зар (zar).  
-zay ← zho:在 (zài). jpn:在 (zai).  
+zay ← zho:在 (zài). jpn:在 (zai). vie:tại.  
 ze ← zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.  
 zem ← slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn). hin:ज़मीन (zamīn).  
 zeze ← tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.  

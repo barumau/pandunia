@@ -228,7 +228,7 @@ El Salvador : salbadoria
 ele : jeste  
 elegantti : xiki  
 elektroni : eletron  
-eli (toisin sanoen) : yani  
+eli (toisin sanoen) : alonami  
 elokuu : mes 8 (mes bal)  
 eläin : hewan  
 elämä : jiwe  
@@ -252,7 +252,7 @@ erikoinen (erityinen) : has
 Eris (kääpiöplaneetta) : eris  
 Eritrea : eritria  
 erä (satsi) : lote  
-eräs (muuan, joku, jokin) : fulan  
+eräs (muuan, joku, jokin) : fulani  
 esimerkki : misal  
 Espanja : espania  
 esperanto : esperanti  
@@ -545,7 +545,7 @@ jauhaa myllyssä : mola
 jazz (jatsi) : jaze  
 jee! (hurraa!) : yey  
 Jeesus : yesus  
-Jemen : yaman  
+Jemen : yemenia  
 Jersey : jersia  
 jo (tehty teko) : lew  
 jodi : iode  
@@ -1410,7 +1410,6 @@ olkapää (hartia) : kante
 olla hereillä : weki  
 olla nimeltään : namu  
 olla olemassa : zayu  
-olla samaa mieltä : amena  
 olla väliä (olla tärkeä) : importu  
 olut (kalja) : bir  
 omaisuus : malke  
@@ -1826,6 +1825,8 @@ samanmaalainen (maanmies) : samodexi
 Sambia : zambia  
 sammal : mos  
 Samoa : samoa  
+samoray  yhteisymmärrys   
+samoraya  olla samaa mieltä  
 sana : lekse  
 sanaluettelo : leksoliste  
 sanasto : leksia  
@@ -2186,6 +2187,7 @@ turisti : safariste
 Turkki : turkia  
 turkkilainen : turki  
 Turkmenistan : turkmenia  
+turvallinen : sekur  
 turvata (suojata, pelastaa) : sekura  
 tutkia (opiskella) : loja  
 tutkia : genca  
@@ -2313,7 +2315,7 @@ varastaa : cora
 varaus (ennakkovaraus) : buking  
 varjo : saye  
 varkaus : cor  
-varma (tosi) : yakin  
+varmistaa : amena  
 vartalo (varsi, torso) : torse  
 vartija (vahti) : garder  
 vartioida (vahtia) : garda  
@@ -2444,7 +2446,6 @@ yhdistää : una
 Yhdysvallat : usamerike  
 yhteinen : komun  
 yhteiskunnallinen (sosiaalinen) : soci  
-yhteisymmärrys (olla samaa mieltä)  : amen  
 yhteisö (kokoontuminen, kollektiivi) : jamia  
 yhtenäinen : uni  
 yksi : un  

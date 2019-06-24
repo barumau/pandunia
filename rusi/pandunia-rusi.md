@@ -17,7 +17,6 @@ almar : шкаф
 almas : алмаз (бриллиант)  
 altar : алтарь  
 ama : любить  
-amen : согласие  
 analis : анализ  
 analisa : анализировать  
 anime : оживление  
@@ -125,6 +124,7 @@ rim : рифма
 ruhe : душа (дух)  
 ##s  
 sal : соль  
+samoray  согласие  
 samude : море   
 samudi : морской   
 ##t  
@@ -163,7 +163,7 @@ xofer : шофёр
 ya : из (от)  
 yada : память  
 yadonote : меморандум   
-yaman : Йемен  
+yemenia : Йемен  
 yesus : Иисус  
 yode : йод  
 yoge : йога  

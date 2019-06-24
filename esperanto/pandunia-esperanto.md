@@ -41,12 +41,13 @@ almar : ŝranko
 almas : diamanto  
 alofone : alofono  
 alojinsokami : samseksema  
+alonami : tio estas (alivorte)  
 altar : altaro  
 alumin : aluminio  
 ama : ami (ŝati)  
 ame : amo  
-amen : interkonsento (amen)  
-amena : aserti (konsenti)  
+amen : certa  
+amena : certigi  
 amerike : Ameriko  
 ameriki : amerika  
 amerikium : americio  
@@ -479,7 +480,7 @@ fuka : vesti
 fuke : vesto  
 ful : plena  
 fula : plenigi  
-fulan : iu  
+fulani : iu  
 fun : polvo  
 funca : funkcii  
 funge : fungo  
@@ -1200,6 +1201,8 @@ saman : ĉielo
 samarium : samario  
 samodexi : samlandano  
 samojinsokami : samseksema  
+samoray  interkonsento  
+samoraya  samopinii (interkonsenti)  
 samude : maro  
 samudi : mara  
 sana : produkti (fabriki)  
@@ -1419,11 +1422,9 @@ xule : riparo
 xuler : riparisto  
 ##y  
 ya : de (el, pro)  
-yakin : certa  
 yala : rapidigi  
-yaman : Jemeno  
 yang : speco (tipo, stilo)  
-yani : tio estas (alivorte)  
+yemenia : Jemeno  
 yesus : Jesuo  
 yeze : kokoso  
 yoge : jogo  

@@ -19,7 +19,6 @@ almar : 碗碟橱
 almas : 钻石  
 altar : 圣坛  
 ama : 爱  
-amen : 一致  
 analis : 分析  
 analisa : 分析  
 anime : 活跃  
@@ -155,6 +154,7 @@ pulte : 桥
 ##r  
 ##s  
 sal : 盐   
+samoray  一致  
 samude : 海  
 sol : 太阳  
 solosistem : 太阳系  
@@ -193,4 +193,5 @@ xofa : 开车
 xofer : 司机   
 xute : 技术  
 ##y  
+yoge : 瑜伽功  
 ##z  

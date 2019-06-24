@@ -48,13 +48,13 @@ almar : kaappi
 almas : timantti  
 alofone : allofoni (vaihtoehtoinen ääntämys)  
 alojinsokami : heteroseksuaali  
+alonami : eli (toisin sanoen)  
 altar : alttari  
 alumin : alumiini  
 ama : rakastaa (pitää, tykätä)  
 amari : amhara (etiopialainen kansa ja kieli)  
 ame : rakkaus (tykkääminen)  
-amen : yhteisymmärrys (olla samaa mieltä)   
-amena : olla samaa mieltä  
+amena : varmistaa  
 amerike : Amerikka  
 ameriki : amerikkalainen  
 amerikium : amerikium  
@@ -620,7 +620,7 @@ fuka : pukea
 fuke : vaate (puku)  
 ful : täysi  
 fula : täyttää  
-fulan : eräs (muuan, joku, jokin)  
+fulani : eräs (muuan, joku, jokin)  
 fun : pöly (tomu)  
 funca : toiminta (funktio)  
 funge : sieni  
@@ -2008,6 +2008,8 @@ saman : taivas
 samoa : Samoa  
 samodexi : samanmaalainen (maanmies)  
 samojinsokami : homoseksuaali  
+samoray  yhteisymmärrys   
+samoraya  olla samaa mieltä  
 samude : meri  
 samudi : meri- (merellinen)  
 samudolaskeria : merivoimat  
@@ -2038,6 +2040,7 @@ sekreteria : sihteeristö
 sekse : seksi (sukupuolinen kanssakäyminen)  
 sekunde : sekunti  
 sekundometer : sekuntikello  
+sekur : turvallinen  
 sekura : turvata (suojata, pelastaa)  
 sel : solu  
 selen : seleeni  
@@ -2434,15 +2437,13 @@ yadonote : muistio (muistiinmerkintä)
 yaga : arvioida  
 yagi : noin (arviolta, suunnilleen)  
 yake : jakki  
-yakin : varma (tosi)  
 yala : kiirehtiä  
-yaman : Jemen  
 yang : laji (tyyppi, tyyli)  
-yani : eli (toisin sanoen)  
 yatim : orpo  
 yatimodom : orpokoti  
 yehudi : juutalainen  
 yehudistia : juutalaisuus  
+yemenia : Jemen  
 yesus : Jeesus  
 yey : jee! (hurraa!)  
 yeze : kookos  

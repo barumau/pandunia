@@ -40,7 +40,6 @@ alumin : aluminium
 ama : aimer  
 amari : Amhara (groupe ethnique et langue éthiopienne)  
 ame : amour (affection)  
-amen : accord  
 amerike : Amérique  
 ameriki : américain  
 amper : ampère  
@@ -172,6 +171,7 @@ ruholojia : psychologie
 ##s  
 safariste : touriste  
 sal : sel  
+samoray  accord  
 samude : mer  
 ##t  
 tarje : traduction  

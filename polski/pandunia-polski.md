@@ -45,13 +45,13 @@ almar : kredens (szafa, szafka)
 almas : diament  
 alofone : alofon  
 alojinsokami : heteroseksualny  
+alonami : innymi słowy  
 altar : ołtarz  
 alumin : glin (aluminium)  
 ama : kochać  
 amari : Amhara, amharski  
 ame : miłość (afekt)  
-amen : porozumienie (amen)  
-amena : potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+amen : varma (varmasti, totisesti, aamen)  
 amerike : Ameryka (kontynent)  
 ameriki : amerykański  
 amerikium : ameryk  
@@ -610,7 +610,7 @@ fuka : nosić ubrania
 fuke : ubranie, ubiór, strój  
 ful : pełny  
 fula : wypełnić, wypełniać  
-fulan : trochę; nieokreślony, nieograniczony, nieokreślony  
+fulani : trochę; nieokreślony, nieograniczony, nieokreślony  
 fun : pył  
 funca : funkcja, stanowisko  
 funge : grzyb  
@@ -736,7 +736,7 @@ hani : ręczny
 haos : chaos, nieporządek; wrzawa, zgiełk  
 haraba : rujnować, dewastwować, burzyć  
 harabi : zły, zrujnowany, zepsuty  
-haram : zabroniny (wzbroniony, nielegalny, haram, tabu)  
+haram : zabroniony (wzbroniony, nielegalny, haram, tabu)  
 harama : zabronić (wzbronić, zakazać)  
 harfe : litera, znak  
 harmoni : harmoniczny  
@@ -1999,6 +1999,8 @@ samarium : samar
 samoa : Samoa  
 samodexi : rodak, ziomek, krajan  
 samojinsokami : homoseksualny  
+samoray  porozumienie  
+samoraya  potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samu : być podobnym, być jak  
 samude : może  
 samun : połączenie, złącze, styk  
@@ -2357,6 +2359,7 @@ weri : prawdziwy (rzeczywisty, szczery)
 werka : pracować  
 werke : praca, zjęcie, zadanie  
 werker : pracownik  
+werkomeze : biurko  
 werme : robak  
 wersion : wersja (wariacja, edycja, wydanie)  
 weste : zachód  
@@ -2451,16 +2454,14 @@ yadonote : notatka, memo
 yaga : oszacować, szacować, przybliżyć, przybliżać  
 yagi : około; przybliżony  
 yake : jak (zwierzę)  
-yakin : pewny  
 yala : popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
-yaman : Jemen  
 yang : rodzaj, typ, styl  
-yani : innymi słowy  
 yasen : jesion  
 yatim : sierota  
 yatimodom : sierociniec, dom dziecka  
 yehudi : żydowski  
 yehudistia : judaizm  
+yemenia : Jemen  
 yesus : Jezus  
 yey : jej  
 yeze : kokos  
@@ -2480,6 +2481,7 @@ yutrium : itr
 zafran : szafran  
 zaitun : oliwka  
 zalim : złośliwy, okrutny  
+zaman : czas (epoka, era)  
 zambia : Zambia  
 zar : niebezpieczeństwo, ryzyko, szansa  
 zardux : Zaratusztra  
@@ -2496,6 +2498,7 @@ zebre : zebra
 zem : ziemia, grunt, gleba  
 zemia : Ziemia  
 zemodow : orzech ziemny  
+zemolaskeria : wosko lądowe (armia)  
 zeze : mucha  
 zigzage : zygzag  
 zikur : ziggurat  

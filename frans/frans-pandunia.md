@@ -1,7 +1,6 @@
 : : -a : suffixe : pour : les : verbes : avec : ordre : des : mots : SVO  
 ##a  
 accent : acente  
-accord : amen  
 acheter : baya  
 actinium : acinium  
 adresse : adres  
@@ -169,6 +168,7 @@ rime : rim
 ruban (bande) : tepe  
 ##s  
 salle de bains : banyokamar  
+samoray  accord  
 se baigner : banyu  
 sel : sal  
 soldat : lasker  

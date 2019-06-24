@@ -19,7 +19,6 @@ adultery (infidelity) : zine
 advance (progress, enter) : jina  
 advice (counsel) : mente  
 advisor (counselor, mentor) : menter  
-affirm (agree, concur) : amena  
 Afghanistan : afgania  
 Africa : afrike  
 African : afriki  
@@ -30,7 +29,6 @@ again (repeatedly) : repi
 age : aje  
 aggressive : agresi  
 agile : ajil  
-agreement (amen) : amen  
 air : air  
 air force : airolaskeria  
 airplane : wiman  
@@ -121,6 +119,7 @@ asparagus : lusun
 aspirin : aspirin  
 associate : liga  
 Assur : axur  
+assure (affirm) : amena  
 Assyria : axuria  
 asthma : asme  
 atheist : nodewiste  
@@ -385,7 +384,8 @@ centi- (per cent) : centi
 Central African Republic : jungafrikia  
 Ceres (dwarf planet) : seres  
 cerium : cerium  
-certain (sure) : yakin  
+certain (indefinite, indeterminate, some, so-and-so) : fulani  
+certain (sure, certainly, amen) : amen  
 Chad : cadia  
 chain : silsil  
 chair : kurse  
@@ -1965,6 +1965,8 @@ salty (saline) : sali
 samarium : samarium  
 same : sam  
 Samoa : samoa  
+samoray  agreement (consent)  
+samoraya  agree (concur)  
 sand : rege  
 Sao Tome and Principe : santi tome i prinsipe  
 Saturday : war 6 (war sis)  
@@ -2091,7 +2093,6 @@ soldier : lasker
 Solomon Islands : solomon da nesia  
 solstice : solestas  
 Somalia : somalia  
-some (indefinite, indeterminate) : fulan  
 some : koy  
 someone (somebody) : koy ren  
 something : koy xey  
@@ -2269,7 +2270,7 @@ Thailand : tayia
 thallium : talium  
 thank : danka  
 thanks (thank you) : danke  
-that is (in other words, i.e., alias) : yani  
+that is (in other words, i.e., alias) : alonami  
 theft : cor  
 theism : dewistia  
 theist : dewiste  
@@ -2507,7 +2508,7 @@ yay! (yeah!) : yey
 year : nen  
 yeast : hamir  
 yellow : wang  
-Yemen : yaman  
+Yemen : yemenia  
 yes (is) : si  
 yesterday : predi den  
 yoga : yoge  

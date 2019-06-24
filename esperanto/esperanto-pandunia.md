@@ -83,7 +83,6 @@ artefarita lingvo : sanobax
 artisto : arter  
 arto : arte  
 ascetiko : askete  
-aserti (konsenti) : amena  
 aspekto : rupe  
 aspirino : aspirin  
 astmo : asme  
@@ -207,7 +206,8 @@ centro : jung
 cerbo : serebre  
 Cereso : seres  
 cerio : cerium  
-certa : yakin  
+certa : amen  
+certigi : amena  
 cezio : cesium  
 citi : cita  
 citrono : limun  
@@ -524,7 +524,6 @@ ino : fem
 instruisto : darsogur  
 insulto : ninde  
 interesa : interes  
-interkonsento (amen) : amen  
 interŝanĝi : badala  
 inviti : plisa laya  
 io : koy xey  
@@ -543,7 +542,7 @@ isto de ismo : iste
 Italio : italia  
 iterbio : yuterbium  
 itrio : yutrium  
-iu : fulan  
+iu : fulani  
 iu : koy  
 iu ajn : eni  
 iu persono : koy ren  
@@ -554,7 +553,7 @@ Jamajko : jamaikia
 Japanio : nipon  
 jaro : nen  
 jasmeno : malike  
-Jemeno : yaman  
+Jemeno : yemenia  
 jes (esti) : si  
 Jesuo : yesus  
 jodo : iode  
@@ -1149,6 +1148,8 @@ saluton! : halow
 sama : sam  
 samario : samarium  
 samlandano : samodexi  
+samoray  interkonsento  
+samoraya  samopinii (interkonsenti)  
 samseksema : alojinsokami  
 samseksema : gey  
 samseksema : samojinsokami  
@@ -1281,7 +1282,7 @@ testo : teste
 tie : sa ce  
 tigro : bagre  
 timo (fobio) : fobia  
-tio estas (alivorte) : yani  
+tio estas (alivorte) : alonami  
 tiri : tira  
 titanio : titan  
 Toglando : togolia  

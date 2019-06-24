@@ -143,6 +143,7 @@ bilet : tikete
 bilion, giga- : giga  
 biologia, nauka o życiu : biyolojia  
 biszkopt, ciastko : biskute  
+biurko : werkomeze  
 biuro, urząd : ofisia  
 biust : buste  
 bizmut : bismute  
@@ -268,6 +269,7 @@ Czad : cadia
 czajnik : ketel  
 Czarnogóra : cernagoria  
 czarny : kal  
+czas (epoka, era) : zaman  
 czas; okazja : ban  
 czasownik : fatolekse  
 czaszka : saroste  
@@ -627,7 +629,7 @@ indyk : totol
 infekcja (zakażenie) : infece  
 informacja : informe  
 inny : ali  
-innymi słowy : yani  
+innymi słowy : alonami  
 inspirować; inspiracja : inspira  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) : tezi  
 internet : internete  
@@ -671,7 +673,7 @@ jednoczyć : una
 jednokolorowy (monochromatyczny) : monorangi  
 jedzenie, posiłek : nyam  
 jej : yey  
-Jemen : yaman  
+Jemen : yemenia  
 Jersey : jersia  
 jesień : oton  
 jesion : yasen  
@@ -1386,7 +1388,6 @@ penis : penis
 Pers; perski, farsi : farsi  
 Peru : peruwia  
 perła : lul  
-pewny : yakin  
 pełny : ful  
 pfuj (fuj) : bah  
 pianino : pian  
@@ -1519,7 +1520,6 @@ porażka (niepowodzenie, klapa) : xibay
 porcja, dawka : doze  
 porno, film erotyczny : porne  
 pornografia : pornografia  
-porozumienie (amen) : amen  
 Portugalia : portugalia  
 porywacz pociągu : trenokaper  
 porywacz samolotu : wimanokaper  
@@ -1534,7 +1534,6 @@ pot : swede
 potas : kalium  
 potrzebny : nidi  
 potrzebować : nida  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się : amena  
 potwór, monstrum : monster  
 powiadomić, powiadamiać : notisa  
 powierzchnia : fas  
@@ -1805,6 +1804,8 @@ Samoa : samoa
 samobieżny : automoti  
 samochód (automobil) : motokar  
 samolot : wiman  
+samoray  porozumienie  
+samoraya  potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 sauna : sauna  
 sałata : letis  
 sałatka : salade  
@@ -2075,7 +2076,7 @@ torba, wór, worek, torba, sakwa : sake
 tost : rosti pang  
 trawa : gras  
 treść (zawartość) : ten  
-trochę; nieokreślony, nieograniczony, nieokreślony : fulan  
+trochę; nieokreślony, nieograniczony, nieokreślony : fulani  
 trucizna (toksyna) : tokse  
 trwanie : dur  
 trwać, zająć czas; przez : dura  
@@ -2172,6 +2173,7 @@ użytkownik : uzer
 użyć, używać, zatrudnić, stosować : uza  
 ##v  
 Vanuatu : wanuatia  
+varma (varmasti, totisesti, aamen) : amen  
 voodoo : wodun  
 w przyszłości : wil  
 ##w  
@@ -2267,6 +2269,7 @@ wolność, niepodległość, niezależność : huria
 wolny, niepodległy, niezależny : huri  
 wolt (V) : wolte  
 wosk : mum  
+wosko lądowe (armia) : zemolaskeria  
 wow!, łoł!, jej! : waw  
 wołowina : muhomanse  
 wrzesień : mes 6 (mes sis)  
@@ -2345,7 +2348,7 @@ zaakceptować, akceptować, powiedzieć okej, mówić okej : okeya
 zabawa, rozrywka : fan  
 zabawny : fani  
 zabić, zabijać : morta  
-zabroniny (wzbroniony, nielegalny, haram, tabu) : haram  
+zabroniony (wzbroniony, nielegalny, haram, tabu) : haram  
 zabronić (wzbronić, zakazać) : harama  
 zabójca : morter  
 zachodni : westi  

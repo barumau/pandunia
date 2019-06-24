@@ -48,13 +48,14 @@ almar : cupboard (closet, cabinet, wardrobe)
 almas : diamond  
 alofone : allophone  
 alojinsokami : heterosexual  
+alonami : that is (in other words, i.e., alias)  
 altar : altar  
 alumin : aluminium  
 ama : love (to be in love with)  
 amari : Amhara (an Ethiopian ethnic group and language)  
 ame : love (liking, affection)  
-amen : agreement (amen)  
-amena : affirm (agree, concur)  
+amen : certain (sure, certainly, amen)  
+amena : assure (affirm)  
 amerike : America (continent)  
 ameriki : American  
 amerikium : americium  
@@ -620,7 +621,7 @@ fuka : wear clothes
 fuke : clothing  
 ful : full  
 fula : fill  
-fulan : some (indefinite, indeterminate)  
+fulani : certain (indefinite, indeterminate, some, so-and-so)  
 fun : dust (powder)  
 funca : function (work)  
 funge : fungus  
@@ -2016,6 +2017,8 @@ samarium : samarium
 samoa : Samoa  
 samodexi : compatriot  
 samojinsokami : homosexual  
+samoray  agreement (consent)  
+samoraya  agree (concur)  
 samu : resemble (be like)  
 samude : sea  
 samudi : maritime  
@@ -2472,16 +2475,14 @@ yadonote : memorandum (memo)
 yaga : estimate (approximate)  
 yagi : about (approximately)  
 yake : yak  
-yakin : certain (sure)  
 yala : hurry (hasten)  
-yaman : Yemen  
 yang : kind (type, style)  
-yani : that is (in other words, i.e., alias)  
 yasen : ash tree  
 yatim : orphan  
 yatimodom : orphanage  
 yehudi : Jewish  
 yehudistia : Judaism  
+yemenia : Yemen  
 yesus : Jesus  
 yey : yay! (yeah!)  
 yeze : coco  
