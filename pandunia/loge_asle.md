@@ -3,32 +3,32 @@
 pandunia da loge laya ya pol bax du dunia.
   
 - afriki bax
-    - arabi (ara)
-    - swahili (swa)
-    - amari (amh)
-    - hausi (hau)
+    - (ara) arabi 
+    - (swa) swahili 
+    - (hau) hausi 
+    - (amh) amari 
 - europi i ameriki bax
-    - engli (eng)
-    - espani (spa)
-    - portugali (por)
-    - fransi (fra)
-    - rusi (rus)
-    - doici (deu)
+    - (eng) engli 
+    - (spa) espani 
+    - (fra) fransi 
+    - (rus) rusi 
+    - (por) portugali 
+    - (deu) doici 
 - dongasi bax
-    - putong cini (zho)
-    - hongong cini (yue)
-    - xanghai cini (wuu)
-    - nipon (jpn)
-    - hanguk (kor)
-    - vieti (vie)
+    - (zho) putong cini 
+    - (jpn) nipon 
+    - (wuu) xanghai cini 
+    - (kor) hanguk 
+    - (vie) wieti 
+    - (yue) hongong cini 
 - sudasi bax
-    - hindi (hin)
-    - bangli (ben)
-    - urdi (urd)
-    - indonesi (ind)
-    - filipini (fil)
-    - farsi (per)
-    - turki (tur)
+    - (hin) hindi 
+    - (ben) bangli 
+    - (ind) indonesi 
+    - (urd) urdi 
+    - (fil) filipini 
+    - (tur) turki 
+    - (per) farsi 
 
 ## -
 
