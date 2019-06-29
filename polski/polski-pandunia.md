@@ -140,7 +140,7 @@ Biblia : biblia
 biblioteka : kitabia  
 biedny, mizerny : miskin  
 bilet : tikete  
-bilion, giga- : giga  
+bilion, giga- : gigo-  
 biologia, nauka o życiu : biyolojia  
 biszkopt, ciastko : biskute  
 biurko : werkomeze  
@@ -283,7 +283,7 @@ cztery (4) : car
 czuć : senta  
 czuć, odczuć, odczuwać : gama  
 czwartek : war 4 (war car)  
-czyn, uczynek : fe  
+czyn, uczynek : fate  
 czysty : safi  
 czytać : duga  
 często : cang  
@@ -508,7 +508,7 @@ gluten : gluten
 gniew, furia : furia  
 godzina : hor  
 goniometr (kątomierz) : konometer  
-gorączka : feber  
+gorączka : febre  
 gotować, szykować jedzenie : kuka  
 gotowy : redi  
 gra : gem  
@@ -537,7 +537,7 @@ grób, mogiła, grobowiec : gabre
 Guam : guam  
 Gudżarat : gujarati  
 Guernsey : genzia  
-Guinea Bissau : gini bisau  
+Guinea Bissau : bisawi ginia  
 Gujana : gayan  
 Gujana Francuska : giyan  
 guma : gom  
@@ -547,7 +547,7 @@ Gwadelupa : guadelupe
 gwarancja : garante  
 Gwatemala : guatemalia  
 gwiazda : xing  
-Gwinea : ginia  
+Gwinea : konakri ginia  
 góra, wzgórze : xan  
 górny : supri  
 gładki : lis  
@@ -662,7 +662,7 @@ jakikolwiek, którykolwiek : eni
 jakiś : koy  
 Jamajka : jamaikia  
 Japonia : nipon  
-jaskinia : gua  
+jaskinia : guhe  
 jasny, czysty : ming  
 jasny, świetlny : nuri  
 jazz, dżez : jaze  
@@ -671,6 +671,7 @@ jebać, kopulować : coda
 jeden (1) : un  
 jednoczyć : una  
 jednokolorowy (monochromatyczny) : monorangi  
+jednostki podstawowej : em  
 jedzenie, posiłek : nyam  
 jej : yey  
 Jemen : yemenia  
@@ -711,7 +712,7 @@ kamień : petre
 Kanada : kanadia  
 kanał : kanal  
 kangur : kangur  
-kannada : kannadi  
+kannada : karnadi  
 kanoe : kanuh  
 kanonier : kanoner  
 kapelusz, czapka : tope  
@@ -827,7 +828,7 @@ kowal : metalojanger
 koza : buze  
 koło : cakre  
 koło, okrąg : cirke  
-koń :   
+koń : gude  
 kościół : eglis  
 kość : oste  
 kość do gry : dade  
@@ -914,7 +915,7 @@ liberalny, wolnościowy : huristi
 Liberia : liberia  
 Libia : libia  
 liczi : lice  
-Liechtenstein : lixtenxtayn  
+Liechtenstein : lixtenxtain  
 liga (stowarzyszenie) : lige  
 lilak : lilak  
 lilia : lilya  
@@ -1644,7 +1645,6 @@ przyprawa : masal
 przyrostek dla (wyniku) działania : -e  
 przyrostek dla czasowników z szykiem zdania OVS : -u  
 przyrostek dla ideologii : istia  
-przyrostek dla jednostki podstawowej w językoznastwie : -em  
 przyrostek dla miejsca : ia  
 przyrostek dla miejsca wykonywania : eria  
 przyrostek dla przymiotnika : -i  
@@ -2012,7 +2012,7 @@ tablioca, macierz : table
 Tadżykistan : tajikia  
 tajga : taige  
 Tajlandia : tayia  
-Tajpej : taibei  
+Tajpej : taibey  
 tajski : tayi  
 Tajwan, Republika Chińska : taiwan  
 tak; być : si  
@@ -2029,7 +2029,7 @@ taoista : dawiste
 taoizm : dawistia  
 tapeta : muropapir  
 tatuaż : tataw  
-taxi, taksówka : taksi  
+taxi, taksówka : taksokar  
 taśma : tepe  
 taśma; bandaż : bende  
 tchórz, fretka : furete  
@@ -2104,7 +2104,6 @@ Tuwalu : tuwal
 tułów : torse  
 twarz : muke  
 twój : ti  
-twór; fakt : fate  
 twórca, kreator, czynnik : fater  
 ty, ciebie : te  
 tydzień : seman  

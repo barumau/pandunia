@@ -1,5 +1,4 @@
 -a (-e) : -i  
--er : -em  
 -i (-iĝi) : -u  
 -o (-aĵo) : -e  
 : : -a : -i : (-igi)  
@@ -307,6 +306,7 @@ eno : inde
 erbio : erbium  
 Eris (planedeto) : eris  
 Eritreo : eritria  
+ero : em  
 ero : parce  
 escepte : minus  
 Esperanto : esperanti  
@@ -346,7 +346,7 @@ fascinado : fasin
 fasono : mode  
 faŝismo : faxistia  
 faŝisto : faxiste  
-febro : feber  
+febro : febre  
 feko : kake  
 fenestro : janel  
 fermio : fermium  
@@ -604,7 +604,7 @@ kasko : helme
 kastoro : kastor  
 Katalunio : katalunia  
 kato : maw  
-kaverno : gua  
+kaverno : guhe  
 kaŝtano : kastan  
 kaŭĉuko : gom  
 keĉupo : kecape  
@@ -842,7 +842,7 @@ miksilo : mixer
 miksulo : hibride  
 mil : kil  
 mili- : milo-  
-miliardo (giga-) : giga  
+miliardo (giga-) : gigo-  
 milimetro : milometre  
 miliono : megi  
 milita : jengi  
@@ -1413,7 +1413,7 @@ zuluo : zuluh
 ĉefministro : xefi minister  
 ĉelo : sel  
 ĉemizo : kamis  
-ĉevalo :   
+ĉevalo : gude  
 ĉi tio : ce  
 ĉi tiu : ci  
 ĉiam : pan zaman  

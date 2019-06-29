@@ -1,9 +1,7 @@
 -a : przyrostek dla czasowników z szykiem zdania SVO  
 -e : przyrostek dla (wyniku) działania  
--em : przyrostek dla jednostki podstawowej w językoznastwie  
 -i : przyrostek dla przymiotnika  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
- : koń  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -217,6 +215,7 @@ binde : punkt
 bir : piwo  
 bireria : bar, knajpa  
 bis : genderqueer, niebinarny  
+bisawi ginia : Guinea Bissau  
 biskute : biszkopt, ciastko  
 bismute : bizmut  
 bixu : musieć  
@@ -468,6 +467,7 @@ eletre : elektryczność
 eletri : elektryczny  
 eletron : elektron  
 eletroposte (e-poste) : poczta elektroniczna  
+em : jednostki podstawowej  
 energe : energia  
 engli : Anglik; angielski  
 englofiler : anglofil  
@@ -525,7 +525,7 @@ faru : nosorożec
 fas : powierzchnia  
 fasin : fascynacja  
 fata : zrobić (stworzyć, wykreować)  
-fate : twór; fakt  
+fate : czyn, uczynek  
 fater : twórca, kreator, czynnik  
 fateria : fabryka, manufaktura  
 fatolekse : czasownik  
@@ -536,8 +536,7 @@ faxon : moda, trend
 faxoni : popularny, modny  
 fay : ogień  
 faze : etap, faza  
-fe : czyn, uczynek  
-feber : gorączka  
+febre : gorączka  
 fem : kobieta; kobiecy  
 femi bace : córka  
 femi rajer : królowa  
@@ -665,10 +664,8 @@ geta : dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
 geter : odbiorca  
 gey : gejowski (homoseksualny)  
 gida : sterować  
-giga : bilion, giga-  
+gigo- : bilion, giga-  
 gim : złoto  
-gini bisau : Guinea Bissau  
-ginia : Gwinea  
 gitar : gitara  
 giyan : Gujana Francuska  
 glota : połknąć (połykać)  
@@ -692,12 +689,13 @@ grom : grom, huk
 grosi harfe : pogrubiona litera  
 grosi : gruby  
 grupe : grupa  
-gua : jaskinia  
 guadelupe : Gwadelupa  
 guam : Guam  
 guanxe : związek, powiązanie, połączenie  
 guatemalia : Gwatemala  
 gubuh : hipopotam  
+gude : koń  
+guhe : jaskinia  
 gujarati : Gudżarat  
 gun : cecha, atrybut, własność; -ość  
 gur : guru, mistrz  
@@ -966,7 +964,6 @@ kande : cukierek, słodycze
 kange : grzebień  
 kangur : kangur  
 kanjar : sztylet (puginał)  
-kannadi : kannada  
 kanon : działo  
 kanoner : kanonier  
 kanosuy : łza  
@@ -985,6 +982,7 @@ karde : karta
 karibia : Karaiby  
 karite : masłosz Parka  
 karme : działanie (zachowanie, karma)  
+karnadi : kannada  
 karoparke : parking  
 karote : marchew  
 kartun : komiks; kreskówka  
@@ -1085,6 +1083,7 @@ komuna : dzielić (współdzielić)
 komuniste : komunista  
 komunistia : komunizm  
 kon : kąt  
+konakri ginia : Gwinea  
 koncung : owad  
 konfuze : Konfucjusz  
 konfuzistia : konfucjanizm  
@@ -1221,7 +1220,7 @@ lis : gładki
 liste : lista, spis, wykaz  
 litium : lit  
 litre : litr  
-lixtenxtayn : Liechtenstein  
+lixtenxtain : Liechtenstein  
 lobake : rzodkiewka  
 loga : mówić, rozmawiać  
 loge : mowa; słowo  
@@ -2162,12 +2161,12 @@ tabake : tytoń
 tabla : ułożyć w trabelę  
 table : tablioca, macierz  
 tafun : burza, sztorm, tajfun  
-taibei : Tajpej  
+taibey : Tajpej  
 taige : tajga  
 taiwan : Tajwan, Republika Chińska  
 tajikia : Tadżykistan  
 takse : podatek, opłata  
-taksi : taxi, taksówka  
+taksokar : taxi, taksówka  
 tal : dół, spód  
 talium : tal  
 tamar : daktyl  

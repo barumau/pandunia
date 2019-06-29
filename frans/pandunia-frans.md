@@ -1,6 +1,5 @@
 -a : suffixe pour les verbes avec ordre des mots SVO  
 -e : suffixe pour dériver les noms  
--em : suffixe de l'unité fondamentale linguistique  
 -i : suffixe pour l'adjectif  
 -u : suffixe pour les verbes avec ordre des mots OVS  
 ##a  
@@ -117,6 +116,7 @@ destin : destin (destination)
 domi : domestique  
 domu : vivre (habiter)  
 ##e  
+em : unité fondamentale  
 europe : Europe  
 europi : européen  
 ##f  

@@ -237,7 +237,7 @@ bicycle (pedal bike) : pedalosikle
 big (greatly) : day  
 bike : sikle  
 bill (invoice) : bil  
-billion (giga-) : giga  
+billion (giga-) : gigo-  
 biology (study of life) : biyolojia  
 bird : pakse  
 birth : jen  
@@ -373,7 +373,7 @@ Catalonia : katalunia
 catch (capture, seize, snatch, intercept) : kapa  
 cause (be the cause for) : saba  
 cause to make : isa  
-cave : gua  
+cave : guhe  
 Cayman Islands : keiman da nesia  
 celebrate (party) : festa  
 celestial (heavenly) : samani  
@@ -460,6 +460,7 @@ cola : kola
 cold (illness) : zukam  
 cold : lengi  
 collect (gather, bring together) : jama  
+collect fees or taxes : taksa  
 collection (congregation, assembly) : jamia  
 collective : jami  
 Colombia : kolombia  
@@ -584,7 +585,6 @@ debate (discuss) : lona
 December : mes 12 (mes des dul)  
 deci- : deci  
 deed : fate  
-deed : fe  
 deem (think that) : raya  
 defecate (shit) : kaka  
 defend : defa  
@@ -781,7 +781,7 @@ feel (sense by touch) : senta
 feel : gama  
 female : fem  
 fermium : fermium  
-fiever : feber  
+fiever : febre  
 fight (war, battle, combat) : jeng  
 figure (representation) : figur  
 Fiji : fijia  
@@ -942,8 +942,8 @@ guardian (watchman) : garder
 Guatemala : guatemalia  
 Guernsey : genzia  
 guilty : doxi  
-Guinea : ginia  
-Guinea-Bissau : gini bisau  
+Guinea : konakri ginia  
+Guinea-Bissau : bisawi ginia  
 guitar : gitar  
 Gujarati : gujarati  
 gun (cannon) : kanon  
@@ -1023,7 +1023,7 @@ honorable (respectable) : onori
 hope (wish) : inxala  
 hormone : hormon  
 horn : korne  
-horse :   
+horse : gude  
 hotel : hotel  
 hour : hor  
 how many? : ki num  
@@ -1143,9 +1143,10 @@ just (fair) : adali
 just (recently) : gang  
 justice : adalia  
 ##k  
-Kannada : kannadi  
+Kannada : karnadi  
 karaoke : karaoke  
 karate : karate  
+Karnataka : karnadia  
 Kazakhstan : kazahia  
 kebab (skewer meat) : kababe  
 keeper (possessor) : tener  
@@ -1204,6 +1205,7 @@ league (association) : lige
 leak : lowa  
 learn (study) : darsa  
 least (minimally) : minim  
+least distinguishable unit : em  
 leave (go out, exit) : cuta  
 Lebanon : libnun  
 left : lefte  
@@ -1225,7 +1227,7 @@ Liberia : liberia
 library : kitabia  
 Libya : libia  
 lie (lie down) : lala  
-Liechtenstein : lixtenxtayn  
+Liechtenstein : lixtenxtain  
 life : jiwe  
 light (bright) : nuri  
 light (illumination) : nur  
@@ -1782,7 +1784,7 @@ prepare (make ready) : reda
 presence (existence) : zayia  
 present (current, existing) : zay  
 present time (now)  : zaye  
-preserve (conserve, retain) : hafiza  
+preserve (conserve, retain, spare) : hafiza  
 president : prezidente  
 press (imprint) : capa  
 previous : predi  
@@ -2066,6 +2068,7 @@ skin (peel) : pil
 skirt : jupe  
 skull : saroste  
 sky (heaven) : saman  
+Slavic : slawi  
 sleep (be asleep) : soni  
 sleep : son  
 Slovakia : slowakia  
@@ -2169,7 +2172,6 @@ suck : cupa
 Sudan : sudan  
 suffer (get hurt) : paxu  
 suffering : paxia  
-suffix for a fundamental unit in linguistics : -em  
 suffix for adjectives : -i  
 suffix for derived nouns : -e  
 suffix for verbs with OVS word order : -u  
@@ -2217,7 +2219,7 @@ tabulate : tabla
 tactics (strategy) : tatike  
 taiga : taige  
 tail : dum  
-Taipei : taibei  
+Taipei : taibey  
 Taiwan (Republic of China) : taiwan  
 Tajikistan : tajikia  
 tale (legend, saga) : sage  
@@ -2236,7 +2238,7 @@ taste (sense flavor) : gusta
 taste like : gustu ka  
 tattoo : tataw  
 tax (fee, fare) : takse  
-taxi : taksi  
+taxi : taksokar  
 tea : cay  
 tea bowl : cayowan  
 tea cup : cayokupe  
@@ -2260,6 +2262,7 @@ ten (10) : des
 tennessine : tenesin  
 tennis : tenis  
 tent : haime  
+tera- : tero-  
 terbium : terbium  
 terror : teror  
 terrorism : teroristia  
@@ -2417,6 +2420,7 @@ vinegar : sirke
 vinyl : winil  
 Virgin Islands, US : usameriki wirjin nesia  
 virology : wirusolojia  
+virtuous (excellent) : guni  
 virus : wirus  
 visa : wize  
 visit : wizita  

@@ -317,8 +317,8 @@ Guadeloupe : guadelupe
 Guam : guam  
 Guatemala : guatemalia  
 Guernsey : genzia  
-Guinea : ginia  
-Guinea-Bissau : gini bisau  
+Guinea : konakri ginia  
+Guinea-Bissau : bisawi ginia  
 gujarati (eräs intialainen kieli) : gujarati  
 guru (opettaja) : gur  
 Guyana : gayan  
@@ -379,7 +379,7 @@ herkullinen (nami) : nyami
 herättää : weka  
 heteroseksuaali : alojinsokami  
 hetki (kotva) : sate  
-hevonen :   
+hevonen : gude  
 hiekka : rege  
 hieno (hienojakoinen) : fain  
 hieronta : masaje  
@@ -573,8 +573,8 @@ jousisoitin : ticin
 joustava (elastinen) : lasti  
 judo : judo  
 juhannus : yohani feste  
-juhla : feste  
 juhlapäivä : festoden  
+juhlat : feste  
 juhlia : festa  
 jumala : dew  
 jumalallinen : dewi  
@@ -643,7 +643,7 @@ kana : kokode
 Kanada : kanadia  
 kanava (kanaali) : kanal  
 kannabis (marihuana, hamppu) : ganje  
-kannada (eräs intialainen kieli) : kannadi  
+kannada (eräs intialainen kieli) : karnadi  
 kannu (karahvi) : jar  
 kanootti : kanuh  
 kansa : nas  
@@ -661,6 +661,7 @@ karavaani (saattue) : karwan
 karhu : urse  
 karhu : urse  
 Karibia : karibia  
+Karnataka (Intian osavaltio) : karnadia  
 kartio (keila) : konus  
 kartogratia : kartografia  
 kartta : karte  
@@ -904,7 +905,7 @@ kuukausi : mes
 kuulla (kuunnella) : auda  
 kuulua (olla jkn hallussa) : tenu  
 kuulua (olla jäsenenä) : memba  
-kuume : feber  
+kuume : febre  
 kuunnella : ora  
 kuura : himorose  
 kuusi (6) : sis  
@@ -961,6 +962,7 @@ kääriä : rula
 käärme : serpe  
 käärö : rul  
 ##l  
+laadukas (hyvä) : guni  
 laakso : wale  
 laatikko : sanduke  
 laatu (laadukkuus, erinomaisuus, hyvyys) : gun  
@@ -1019,7 +1021,7 @@ liberalismi : huristia
 liberalisti : huriste  
 Liberia : liberia  
 Libya : libia  
-Liechtenstein : lixtenxtayn  
+Liechtenstein : lixtenxtain  
 liha : manse  
 lihas : muskul  
 lihavoitu kirjain : grosi harfe  
@@ -1065,7 +1067,7 @@ lumme : nenufar
 luokitella (kategorisoida) : klasa  
 luokka (kategoria) : klas  
 luokse (tykö, kohti, asti) : pa  
-luola : gua  
+luola : guhe  
 luonto : ekia  
 lupa : permis  
 lusikka : camce  
@@ -1226,7 +1228,7 @@ mikä tahansa : eni
 mikä? (kumpi?) : ki  
 mikä? (mitä?) : ke  
 mikä? (mitä?) : ki xey  
-miljardi (giga-) : giga  
+miljardi (giga-) : gigo-  
 miljoona : megi  
 milli- : milo-  
 millimetri : milometre  
@@ -1559,6 +1561,7 @@ pian : sun
 piano : pian  
 pidentää : longa  
 pieni (pienesti, vähän) : lil  
+pienin erottuva yksikkö : em  
 pierrä (pieraista) : perda  
 pieru : perde  
 pihdit : pinser  
@@ -1702,7 +1705,6 @@ pääsiäinen : paske
 päästää (sallia) : laxa  
 pääte: adjektiivi tai adverbi : -i  
 pääte: OVS-sanajärjestyksen verbi : -u  
-pääte: pienin erottuva yksikkö kielitieteessä : -em  
 pääte: substantiivi : -e  
 pöly (tomu) : fun  
 pölynimuri : funocuper  
@@ -1922,6 +1924,7 @@ sisäsyntyinen : indi jeni
 sitoa : benda  
 sitruuna : limun  
 skandium : skandium  
+slaavilainen : slawi  
 Slovakia : slowakia  
 Slovenia : slowenia  
 smaragdi : zumrude  
@@ -2009,7 +2012,7 @@ sähkö : eletre
 sähköinen : eletri  
 sähköposti : eletroposte (e-poste)  
 säilyttäjä : hafizer  
-säilyttää (varjella) : hafiza  
+säilyttää (varjella, säästää) : hafiza  
 säteillä : rada  
 säteily : radia  
 säteilymittari : radiometer  
@@ -2029,7 +2032,7 @@ taide : arte
 taiga : taige  
 taika (taikuus, magia) : magia  
 taikuri : mager  
-Taipei : taibei  
+Taipei : taibey  
 taistelu (sota) : jeng  
 taitaa (olla mestari jskn) : mesta  
 taitava : xuti  
@@ -2041,7 +2044,7 @@ Taiwan : taiwan
 takki : kote  
 taksa (tariffi) : tarif  
 taksa (vero) : takse  
-taksi : taksi  
+taksi : taksokar  
 taktiikka : tatike  
 takuu : garante  
 tallenne (rekisteri) : defte  
@@ -2102,7 +2105,6 @@ tekniikka (keino, menetelmä) : tekne
 tekniikka (teknologia) : teknolojia  
 teknokratia : teknokratia  
 teko : fate  
-teko : fe  
 televisio : telowide  
 teltta : haime  
 telugu (eräs intialainen kieli) : telugi  
@@ -2111,6 +2113,7 @@ tennis : tenis
 teokratia : dewokratia  
 teologia : dewolojia  
 teoria : teoria  
+tera- : tero-  
 terrorismi : teroristia  
 terroristi : teroriste  
 tervehdys (terve!) : salame  
@@ -2336,6 +2339,7 @@ vegaani : wejan
 veistos (patsas) : eskulte  
 veistää kuvaa : eskulta  
 veitsi (puukko) : cake  
+veloittaa (verottaa) : taksa  
 vene (laiva) : bote  
 Venezuela : wenezolia  
 Venäjä : rusia  

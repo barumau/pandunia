@@ -1,7 +1,6 @@
 leksi asle	klase		pandunia		engli	esperanti	suomi	polski	espani	portugal	fransi	putong cini	rusi	hindi	malay	turki
 			-a	:	suffix for verbs with SVO word order	-i (-igi)	pääte: SVO-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania SVO			suffixe pour les verbes avec ordre des mots SVO					
 			-e	:	suffix for derived nouns	-o (-aĵo)	pääte: substantiivi	przyrostek dla (wyniku) działania			suffixe pour dériver les noms					
-			-em	:	suffix for a fundamental unit in linguistics	-er	pääte: pienin erottuva yksikkö kielitieteessä	przyrostek dla jednostki podstawowej w językoznastwie			suffixe de l'unité fondamentale linguistique					
 ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	pääte: adjektiivi tai adverbi	przyrostek dla przymiotnika			suffixe pour l'adjectif					
 hau:wol:-u. swa:-wa.			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	pääte: OVS-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania OVS			suffixe pour les verbes avec ordre des mots OVS					
 rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.			a	:	but (whereas)	sed	mutta	ale, lecz	pero		mais (bien que)					
@@ -224,6 +223,7 @@ hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). 
 eng: beer. tur: bira.			bir	:	beer	biero	olut (kalja)	piwo	cerveza (birra)	cerveja						
 eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).			bireria	:	bar (pub, beer house)	drinkejo	baari (kapakka)	bar, knajpa								
 bug:bissu.			bis	:	genderqueer (non-binary)		muunsukupuolinen	genderqueer, niebinarny								
+	dex	GW	bisawi ginia	:	Guinea-Bissau		Guinea-Bissau	Guinea Bissau								
 			biskute	:	biscuit (cookie)	biskvito (kuketo)	keksi (pikkuleipä)	biszkopt, ciastko								
 	made	Bi	bismute	:	bismuth	bismuto	vismutti	bizmut								
 zho:必须 (bìxū).			bixu	:	must	devi	täytyä (olla pakko)	musieć								
@@ -475,6 +475,7 @@ por:eletricidade. ita:elettricità. eng:electricity.			eletre	:	electricity	elek
 			eletri	:	electric	elektra	sähköinen	elektryczny								
 			eletron	:	electron	elektrono	elektroni	elektron								
 			eletroposte (e-poste)	:	e-mail		sähköposti	poczta elektroniczna								
+			em	:	least distinguishable unit	ero	pienin erottuva yksikkö	jednostki podstawowej			unité fondamentale					
 			energe	:	energy	energio	energia	energia								
 			engli	:	English	angla	englanti	Anglik; angielski								
 			englofiler	:	anglophile		anglofiili	anglofil								
@@ -531,7 +532,7 @@ swa:kifaru. kon:kifalu.			faru	:	rhinoceros	rinocero	sarvikuono	nosorożec
 			fas	:	surface	surfaco	pinta	powierzchnia								
 eng:fascination. spa:fascinación. deu:Faszination.			fasin	:	fascination	fascinado	hurma (lumo, tenho)	fascynacja								
 ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.			fata	:	do (act, make, manufacture)	fari	tehdä	zrobić (stworzyć, wykreować)								
-			fate	:	deed	faro	teko	twór; fakt								
+			fate	:	deed	faro	teko	czyn, uczynek								
 por: fator. ita: fattore. eng: factor. rus: фактор /faktor/.			fater	:	maker (manufacturer, factor)	fabrikisto	tekijä (valmistaja)	twórca, kreator, czynnik								
 			fateria	:	factory	fabriko	tehdas	fabryka, manufaktura								
 			fatolekse	:	verb	verbo	verbi (teonsana)	czasownik								
@@ -542,8 +543,7 @@ eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon). kor:�
 			faxoni	:	popular (trendy)		suosittu (trendikäs)	popularny, modny								
 			fay	:	fire	fajro	tuli	ogień								
 spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).			faze	:	stage (phase)		vaihe (etappi)	etap, faza	etapa (fase)							
-			fe	:	deed		teko	czyn, uczynek								
-			feber	:	fiever	febro	kuume	gorączka								
+por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.			febre	:	fiever	febro	kuume	gorączka								
 			fem	:	female	ino	naaras	kobieta; kobiecy				女				
 			femi bace	:	daughter	filino	tyttölapsi	córka								
 			femi rajer	:	queen		kuningatar	królowa								
@@ -554,7 +554,7 @@ zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 
 	made	Fe	fer	:	iron	fero	rauta	żelazo								
 	made	Fm	fermium	:	fermium	fermio	fermium	ferm								
 			festa	:	celebrate (party)	festi	juhlia	świętować, imprezować								
-eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".			feste	:	party (celebration, festival)	festo	juhla	przyjęcie, święto, festiwal								
+por:festa. spa:fiesta. fra:fête. deu:Fest. eng:festival. rus:фестиваль (festival').			feste	:	party (celebration, festival)	festo	juhlat	przyjęcie, święto, festiwal								
 			festoden	:	holiday		juhlapäivä	święto								
 swa:mafuta. rwa:mavuta. kon:mafuta.			fete	:	fat (grease)	graso	rasva (öljy)	tłuszcz								
 			feti	:	fatty (greasy)	grasa	rasvainen	tłusty								
@@ -671,10 +671,8 @@ eng:get.			geta	:	get (receive, obtain, take)	akiri (ricevi, preni)	hankkia (saa
 			geter	:	getter (receiver, recipient)		saaja (vastaanottaja)	odbiorca								
 eng:fra:spa:gay. por:guei.			gey	:	gay (homosexual)	samseksema	homo (homoseksuaali)	gejowski (homoseksualny)								
 			gida	:	steer	stiri	ohjata (ohjastaa)	sterować								
-			giga	:	billion (giga-)	miliardo (giga-)	miljardi (giga-)	bilion, giga-								
+			gigo-	:	billion (giga-)	miliardo (giga-)	miljardi (giga-)	bilion, giga-								
 zho:金 (jīn). yue:(gam). zhu:gim. jpn:金 (kin). kor:금 (geum). vie:kim. tgl:ginto. tha:คำ (kam).	made	AU	gim	:	gold	oro	kulta	złoto								
-	dex	GW	gini bisau	:	Guinea-Bissau		Guinea-Bissau	Guinea Bissau								
-	dex	GN	ginia	:	Guinea		Guinea	Gwinea								
 			gitar	:	guitar	gitaro	kitara	gitara								
 	dex	GF	giyan	:	French Guiana		Ranskan Guiana	Gujana Francuska								
 rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir. por:engolir.			glota	:	swallow	gluti	niellä	połknąć (połykać)								
@@ -698,14 +696,16 @@ rus:гром (grom). pol:grom.			grom	:	thunder (roaring)	tondro	jyrinä (ukkone
 fra:gros. por:grosso. spa:grueso.			grosi	:	thick		paksu	gruby								
 			grosi harfe	:	bold letter		lihavoitu kirjain	pogrubiona litera								
 deu:Gruppe. fra:groupe. eng:group. spa:por:grupo. rus:группа (gruppa). kor:그룹 (geurup). jpn:グループ (gurūpu). tur:grup. hin:ग्रूप (grūp).			grupe	:	group	grupo	ryhmä	grupa								
-ben:গুহা "guha". tha:คูหา "gūhā". hin:गुफ़ा "gufā". ind:gua.			gua	:	cave	kaverno	luola	jaskinia								
 	dex	GP	guadelupe	:	Guadeloupe		Guadeloupe	Gwadelupa								
 	dex	GU	guam	:	Guam		Guam	Guam								
-zho:关系 "guānxi". vie:quan hệ. kor:관계 "gwangye". jpn:関係 "kankei".			guanxe	:	relationship (association, connection)	rilato	suhde (yhteys)	związek, powiązanie, połączenie								
+zho:关系 (guānxi). vie:quan hệ. kor:관계 (gwangye). jpn:関係 (kankei).			guanxe	:	relationship (association, connection)	rilato	suhde (yhteys)	związek, powiązanie, połączenie								
 	dex	GT	guatemalia	:	Guatemala	Gvatemalo	Guatemala	Gwatemala								
 ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.			gubuh	:	hippopotamus	hipopotamo	virtahepo	hipopotam								
+ind:kuda. kan:ಕುದುರೆ (kudure). tam:குதிரை (kutirai). tel:గుర్రము (gurramu). hin:घोड़ा (ghoṛā). urd:(ghoṛā). ben:ঘোড়া (ghoṛa). pnb:ਘੋੜਾ (ghōṛā).			gude	:	horse	ĉevalo	hevonen	koń								
+ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.			guhe	:	cave	kaverno	luola	jaskinia								
 	nas		gujarati	:	Gujarati		gujarati (eräs intialainen kieli)	Gudżarat								
-hin:गुण (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).			gun	:	quality (excellence, virtue, merit)	eco	laatu (laadukkuus, erinomaisuus, hyvyys)	cecha, atrybut, własność; -ość								
+hin:गुण (guṇ). ben:গুণ (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).			gun	:	quality (excellence, virtue, merit)	eco	laatu (laadukkuus, erinomaisuus, hyvyys)	cecha, atrybut, własność; -ość								
+			guni	:	virtuous (excellent)		laadukas (hyvä)									
 hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).			gur	:	guru (teacher)	guruo (instruisto)	guru (opettaja)	guru, mistrz								
 rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. kat:ღორი (ğori). + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.			gurube	:	pig	porko	sika (possu)	świnia								
 			gurubomanse	:	pork	porkaĵo	sianliha	wieprzowina								
@@ -715,7 +715,7 @@ rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. k
 zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).			guy	:	ogre (troll, goblin)	ogro (trolo)	peikko	ogr (trol, goblin)								
 ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.			habar	:	news	novaĵoj	uutinen	wiadomość, nius				消息	новости			
 			habarobaw	:	newspaper (gazette)	gazeto	sanomalehti	gazeta								
-ara:(ḥafiẓa). fas:urd:(hāfiz).			hafiza	:	preserve (conserve, retain)		säilyttää (varjella)	zachować, zakonserwować, zachować, utrzymać								
+ara:(ḥafiẓa). fas:urd:(hāfiz). tur:muhafaza.			hafiza	:	preserve (conserve, retain, spare)		säilyttää (varjella, säästää)	zachować, zakonserwować, zachować, utrzymać								
 			hafizer	:	keeper (preserver)		säilyttäjä	przechowawca, kustosz, opiekun								
 	made	Hf	hafnium	:	hafnium	hafnio	hafnium	hafn								
 			haha	:	laugh	ridi	nauraa	śmiać się								
@@ -969,7 +969,6 @@ eng:candy. hin:कैंडी (kaiṇḍī). jpn:キャンデー (ja) (kyandē
 hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (kaṅgvā). pnb:ਕੰਘਾ (kaṅghā).			kange	:	comb		kampa	grzebień								
 			kangur	:	cangaroo	kangaro	kenguru	kangur								
 fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).			kanjar	:	dagger	ponardo	tikari	sztylet (puginał)					кинжал			
-	nas		kannadi	:	Kannada		kannada (eräs intialainen kieli)	kannada								
 eng:cannon. spa:cañón. zho:加农 "jiānóng". jpn:"kyanon". kor:캐넌 "kaeneon".			kanon	:	gun (cannon)	kanono	tykki (pyssy)	działo								
 			kanoner	:	cannoneer	kanonisto	tykkimies	kanonier								
 tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา. 			kanosuy	:	tear drop		kyynel	łza								
@@ -988,6 +987,8 @@ eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu
 	aria		karibia	:	Caribbean	Karibio	Karibia	Karaiby								
 wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.			karite	:	shea		voipuu	masłosz Parka								
 hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).			karme	:	action (conduct, karma)	konduto (karmo)	toiminta (käytös, karma)	działanie (zachowanie, karma)								
+	nas		karnadi	:	Kannada		kannada (eräs intialainen kieli)	kannada								
+			karnadia	:	Karnataka		Karnataka (Intian osavaltio)									
 			karoparke	:	car park (parking lot)		parkkipaikka	parking								
 			karote	:	carrot	karoto	porkkana	marchew								
 deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.			karte	:	map (chart)		kartta		mapa	carta geográfica	carte	地图	карта 	नक़्शा (मानचित्र)	peta (map)	harita
@@ -1090,6 +1091,7 @@ eng:compute.			komputa	:	compute (to process data)		käsitellä dataa	policzyć,
 			komuniste	:	communist	komunisto	kommunisti	komunista								
 			komunistia	:	communism	komunismo	kommunismi	komunizm								
 hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.			kon	:	corner (angle)	angulo	kulma (nurkka)	kąt						कोण		
+	dex	GN	konakri ginia	:	Guinea		Guinea	Gwinea								
 			koncung	:	insect		hyönteinen (ötökkä)	owad								
 zho:孔夫子 (Kǒng Fūzǐ).			konfuze	:	Confucious	Konfuceo	Kungfutse	Konfucjusz								
 			konfuzistia	:	Confucianism		Kungfutselaisuus	konfucjanizm								
@@ -1226,7 +1228,7 @@ por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).	
 eng:list. spa:por:lista. rus:"lista". fra:liste.			liste	:	list (listing, catalogue)	listo	lista (luettelo)	lista, spis, wykaz								
 	made	Li	litium	:	lithium	litio	litium	lit								
 			litre	:	liter (litre)		litra	litr								
-	dex	LI	lixtenxtayn	:	Liechtenstein		Liechtenstein	Liechtenstein								
+	dex	LI	lixtenxtain	:	Liechtenstein		Liechtenstein	Liechtenstein								
 zho:萝卜 "luóbo". yue:蘿蔔 "lobaak". ind:lobak.			lobake	:	radish		retikka (retiisi)	rzodkiewka								
 			loga	:	talk (say, speak)	paroli	puhua (sanoa)	mówić, rozmawiać								
 ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:lügat. ind:logat.			loge	:	speech (word)	parolo (vortoj)	puhe (sanat)	mowa; słowo								
@@ -2088,6 +2090,7 @@ tur:sirke. fas:(serke). hin:सिरका (sirkā). pnb:ਸਿਰਕਾ (sirk
 			sistemi	:	systemic			systemowy								
 eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).			site	:	city (town)	urbo	kaupunki	miast, miasteczko								
 	made	Sc	skandium	:	scandium	skandio	skandium	skand								
+			slawi	:	Slavic		slaavilainen		eslavo	eslavo			славянский			
 	dex	SK	slowakia	:	Slovakia		Slovakia	Słowacja								
 	dex	SI	slowenia	:	Slovenia		Slovenia	Słowenia								
 			soca	:	socialize (interact)		seurustella (toimia yhdessä)	socjalizować się								
@@ -2165,12 +2168,13 @@ deu:Tabak. rus:табак (tabak). fra:tabac. spa:por:tabaco. jpn:タバコ (ta
 			tabla	:	tabulate		taulukoida	ułożyć w trabelę								
 eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.			table	:	table (matrix)	tabelo	taulukko	tablioca, macierz								
 zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). fas:urd:(tufān). hin:तूफ़ान (tūfān). pnb:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).			tafun	:	storm (tempest, typhoon, hurricane, cyclone)	ŝtormo	myrsky	burza, sztorm, tajfun								
-			taibei	:	Taipei		Taipei	Tajpej								
+			taibey	:	Taipei		Taipei	Tajpej								
 			taige	:	taiga	tajgo	taiga	tajga								
 	dex	TW	taiwan	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska								
 	dex	TJ	tajikia	:	Tajikistan		Tadžikistan	Tadżykistan								
+			taksa	:	collect fees or taxes		veloittaa (verottaa)									
 eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".			takse	:	tax (fee, fare)		taksa (vero)	podatek, opłata								
-			taksi	:	taxi		taksi	taxi, taksówka								
+			taksokar	:	taxi		taksi	taxi, taksówka								
 			tal	:	bottom		pohja	dół, spód								
 	made	Tl	talium	:	thallium	talio		tal								
 por:tamara. ara:(tamar).			tamar	:	date fruit		taateli	daktyl								
@@ -2225,6 +2229,7 @@ eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.			tepe	:	tape	bendo	teippi (nauha)	ta
 	made	Tb	terbium	:	terbium	terbio		terb								
 			terme	:	temperature		lämpötila	temperatura								
 			termometer	:	thermometer		lämpömittari	termometr								
+			tero-	:	tera-		tera-									
 			teror	:	terror	teroro	kauhu (terrori)	terror								
 			teroriste	:	terrorist	teroristo	terroristi	terrorysta								
 			teroristia	:	terrorism	terorismo	terrorismi	terroryzm			terrorisme	恐怖行为	терроризм			
@@ -2512,5 +2517,3 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zuluh	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
-																
-cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.				:	horse	ĉevalo	hevonen	koń								

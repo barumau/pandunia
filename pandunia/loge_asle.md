@@ -32,7 +32,6 @@ pandunia da loge laya ya pol bax du dunia.
 
 ## -
 
- ← cym:march. mon:морь (mor'). zho:马 (mǎ). yue:馬 (maa5). tha:ม้า (maa). kor:말 (mal). mya:မြင်း (myang). jpn:馬 (uma). + ♂ eng:mare.  
 -a ← ←  
 -i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
 -u ← hau:wol:-u. swa:-wa.  
@@ -264,8 +263,9 @@ fater ← por: fator. ita: fattore. eng: factor. rus: фактор /faktor/.
 faxe ← ita:fascia. por:faixa. spa:faja.  
 faxon ← eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon). kor:패션 (pæsyeon). tha:แฟชั่น (feechan). ben:ফ্যাশন (phaśôn).  
 faze ← spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).  
+febre ← por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.  
 fen ← zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).  
-feste ← eng:party. hin:पार्टी "pārtī". tur:parti. jpn:パーティー "pātī". kor:파티 "pati". rus:парти "parti".  
+feste ← por:festa. spa:fiesta. fra:fête. deu:Fest. eng:festival. rus:фестиваль (festival').  
 fete ← swa:mafuta. rwa:mavuta. kon:mafuta.  
 fikre ← ara:(fikr). fas:(fekr). tur:fikir. ind:pikir. hin:(fikr).  
 filer ← eng:fra:-phile. por:spa:-filo.  
@@ -317,16 +317,17 @@ gras ← eng:grass. hin:घास "ghās".
 grom ← rus:гром (grom). pol:grom.  
 grosi ← fra:gros. por:grosso. spa:grueso.  
 grupe ← deu:Gruppe. fra:groupe. eng:group. spa:por:grupo. rus:группа (gruppa). kor:그룹 (geurup). jpn:グループ (gurūpu). tur:grup. hin:ग्रूप (grūp).  
-gua ← ben:গুহা "guha". tha:คูหา "gūhā". hin:गुफ़ा "gufā". ind:gua.  
-guanxe ← zho:关系 "guānxi". vie:quan hệ. kor:관계 "gwangye". jpn:関係 "kankei".  
+guanxe ← zho:关系 (guānxi). vie:quan hệ. kor:관계 (gwangye). jpn:関係 (kankei).  
 gubuh ← ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.  
-gun ← hin:गुण (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).  
+gude ← ind:kuda. kan:ಕುದುರೆ (kudure). tam:குதிரை (kutirai). tel:గుర్రము (gurramu). hin:घोड़ा (ghoṛā). urd:(ghoṛā). ben:ঘোড়া (ghoṛa). pnb:ਘੋੜਾ (ghōṛā).  
+guhe ← ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.  
+gun ← hin:गुण (guṇ). ben:গুণ (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).  
 gur ← hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).  
 gurube ← rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. kat:ღორი (ğori). + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.  
 guy ← zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).  
 ##h  
 habar ← ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.  
-hafiza ← ara:(ḥafiẓa). fas:urd:(hāfiz).  
+hafiza ← ara:(ḥafiẓa). fas:urd:(hāfiz). tur:muhafaza.  
 haime ← ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).   
 hake ← ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.  
 hakim ← ara:"qāḍin". hau:alƙali. fas:"qāzi". eng:qadi. swa:kadhi.  

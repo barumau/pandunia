@@ -172,7 +172,6 @@ samoray  accord
 se baigner : banyu  
 sel : sal  
 soldat : lasker  
-suffixe de l'unité fondamentale linguistique : -em  
 suffixe pour dériver les noms : -e  
 suffixe pour l'adjectif : -i  
 suffixe pour les verbes avec ordre des mots OVS : -u  
@@ -194,6 +193,7 @@ Tunisie : tunisia
 téléphone : telofon  
 téléviseur : telowide  
 ##u  
+unité fondamentale : em  
 uranium : uranium  
 ##v  
 Venezuela : wenezolia  

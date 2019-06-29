@@ -127,6 +127,7 @@ sal : соль
 samoray  согласие  
 samude : море   
 samudi : морской   
+slawi : славянский  
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  

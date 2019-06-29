@@ -1,9 +1,7 @@
 -a : suffix for verbs with SVO word order  
 -e : suffix for derived nouns  
--em : suffix for a fundamental unit in linguistics  
 -i : suffix for adjectives  
 -u : suffix for verbs with OVS word order  
- : horse  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -226,6 +224,7 @@ binde : dot (spot)
 bir : beer  
 bireria : bar (pub, beer house)  
 bis : genderqueer (non-binary)  
+bisawi ginia : Guinea-Bissau  
 biskute : biscuit (cookie)  
 bismute : bismuth  
 bixu : must  
@@ -479,6 +478,7 @@ eletre : electricity
 eletri : electric  
 eletron : electron  
 eletroposte (e-poste) : e-mail  
+em : least distinguishable unit  
 energe : energy  
 engli : English  
 englofiler : anglophile  
@@ -547,8 +547,7 @@ faxon : fashion (trend)
 faxoni : popular (trendy)  
 fay : fire  
 faze : stage (phase)  
-fe : deed  
-feber : fiever  
+febre : fiever  
 fem : female  
 femi bace : daughter  
 femi rajer : queen  
@@ -677,10 +676,8 @@ geta : get (receive, obtain, take)
 geter : getter (receiver, recipient)  
 gey : gay (homosexual)  
 gida : steer  
-giga : billion (giga-)  
+gigo- : billion (giga-)  
 gim : gold  
-gini bisau : Guinea-Bissau  
-ginia : Guinea  
 gitar : guitar  
 giyan : French Guiana  
 glota : swallow  
@@ -704,14 +701,16 @@ grom : thunder (roaring)
 grosi harfe : bold letter  
 grosi : thick  
 grupe : group  
-gua : cave  
 guadelupe : Guadeloupe  
 guam : Guam  
 guanxe : relationship (association, connection)  
 guatemalia : Guatemala  
 gubuh : hippopotamus  
+gude : horse  
+guhe : cave  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
+guni : virtuous (excellent)  
 gur : guru (teacher)  
 gurube : pig  
 gurubomanse : pork  
@@ -722,7 +721,7 @@ guy : ogre (troll, goblin)
 ##h  
 habar : news  
 habarobaw : newspaper (gazette)  
-hafiza : preserve (conserve, retain)  
+hafiza : preserve (conserve, retain, spare)  
 hafizer : keeper (preserver)  
 hafnium : hafnium  
 haha : laugh  
@@ -979,7 +978,6 @@ kande : candy (sweets)
 kange : comb  
 kangur : cangaroo  
 kanjar : dagger  
-kannadi : Kannada  
 kanon : gun (cannon)  
 kanoner : cannoneer  
 kanosuy : tear drop  
@@ -998,6 +996,8 @@ karde : card
 karibia : Caribbean  
 karite : shea  
 karme : action (conduct, karma)  
+karnadi : Kannada  
+karnadia : Karnataka  
 karoparke : car park (parking lot)  
 karote : carrot  
 karte : map (chart)  
@@ -1100,6 +1100,7 @@ komuna : share
 komuniste : communist  
 komunistia : communism  
 kon : corner (angle)  
+konakri ginia : Guinea  
 koncung : insect  
 konfuze : Confucious  
 konfuzistia : Confucianism  
@@ -1237,7 +1238,7 @@ lis : smooth
 liste : list (listing, catalogue)  
 litium : lithium  
 litre : liter (litre)  
-lixtenxtayn : Liechtenstein  
+lixtenxtain : Liechtenstein  
 lobake : radish  
 loga : talk (say, speak)  
 loge : speech (word)  
@@ -2105,6 +2106,7 @@ sistem : system
 sistemi : systemic  
 site : city (town)  
 skandium : scandium  
+slawi : Slavic  
 slowakia : Slovakia  
 slowenia : Slovenia  
 soca : socialize (interact)  
@@ -2183,12 +2185,13 @@ tabake : tobacco
 tabla : tabulate  
 table : table (matrix)  
 tafun : storm (tempest, typhoon, hurricane, cyclone)  
-taibei : Taipei  
+taibey : Taipei  
 taige : taiga  
 taiwan : Taiwan (Republic of China)  
 tajikia : Tajikistan  
+taksa : collect fees or taxes  
 takse : tax (fee, fare)  
-taksi : taxi  
+taksokar : taxi  
 tal : bottom  
 talium : thallium  
 tamar : date fruit  
@@ -2243,6 +2246,7 @@ tepe : tape
 terbium : terbium  
 terme : temperature  
 termometer : thermometer  
+tero- : tera-  
 teror : terror  
 teroriste : terrorist  
 teroristia : terrorism  

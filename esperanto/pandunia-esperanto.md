@@ -1,9 +1,7 @@
 -a : -i (-igi)  
 -e : -o (-aĵo)  
--em : -er  
 -i : -a (-e)  
 -u : -i (-iĝi)  
- : ĉevalo  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -371,6 +369,7 @@ ekuador : Ekvadoro
 eletre : elektro  
 eletri : elektra  
 eletron : elektrono  
+em : ero  
 energe : energio  
 engli : angla  
 eni : iu ajn  
@@ -425,7 +424,7 @@ fatolekse : verbo
 faxiste : faŝisto  
 faxistia : faŝismo  
 fay : fajro  
-feber : febro  
+febre : febro  
 fem : ino  
 femi bace : filino  
 fen : parto (frakcio)  
@@ -524,7 +523,7 @@ germanium : germaniumo
 geta : akiri (ricevi, preni)  
 gey : samseksema  
 gida : stiri  
-giga : miliardo (giga-)  
+gigo- : miliardo (giga-)  
 gim : oro  
 gitar : gitaro  
 glota : gluti  
@@ -542,10 +541,11 @@ gras : herbo
 grimas : grimaco  
 grom : tondro  
 grupe : grupo  
-gua : kaverno  
 guanxe : rilato  
 guatemalia : Gvatemalo  
 gubuh : hipopotamo  
+gude : ĉevalo  
+guhe : kaverno  
 gun : eco  
 gur : guruo (instruisto)  
 gurube : porko  

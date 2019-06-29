@@ -1,9 +1,7 @@
 -a : pääte: SVO-sanajärjestyksen verbi  
 -e : pääte: substantiivi  
--em : pääte: pienin erottuva yksikkö kielitieteessä  
 -i : pääte: adjektiivi tai adverbi  
 -u : pääte: OVS-sanajärjestyksen verbi  
- : hevonen  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -224,6 +222,7 @@ binde : täplä (läiskä)
 bir : olut (kalja)  
 bireria : baari (kapakka)  
 bis : muunsukupuolinen  
+bisawi ginia : Guinea-Bissau  
 biskute : keksi (pikkuleipä)  
 bismute : vismutti  
 bixu : täytyä (olla pakko)  
@@ -478,6 +477,7 @@ eletre : sähkö
 eletri : sähköinen  
 eletron : elektroni  
 eletroposte (e-poste) : sähköposti  
+em : pienin erottuva yksikkö  
 energe : energia  
 engli : englanti  
 englofiler : anglofiili  
@@ -546,8 +546,7 @@ faxon : trendi
 faxoni : suosittu (trendikäs)  
 fay : tuli  
 faze : vaihe (etappi)  
-fe : teko  
-feber : kuume  
+febre : kuume  
 fem : naaras  
 femi bace : tyttölapsi  
 femi rajer : kuningatar  
@@ -558,7 +557,7 @@ fenu : jakautua (hajota)
 fer : rauta  
 fermium : fermium  
 festa : juhlia  
-feste : juhla  
+feste : juhlat  
 festoden : juhlapäivä  
 fete : rasva (öljy)  
 feti : rasvainen  
@@ -676,10 +675,8 @@ geta : hankkia (saada)
 geter : saaja (vastaanottaja)  
 gey : homo (homoseksuaali)  
 gida : ohjata (ohjastaa)  
-giga : miljardi (giga-)  
+gigo- : miljardi (giga-)  
 gim : kulta  
-gini bisau : Guinea-Bissau  
-ginia : Guinea  
 gitar : kitara  
 giyan : Ranskan Guiana  
 glota : niellä  
@@ -703,14 +700,16 @@ grom : jyrinä (ukkonen)
 grosi harfe : lihavoitu kirjain  
 grosi : paksu  
 grupe : ryhmä  
-gua : luola  
 guadelupe : Guadeloupe  
 guam : Guam  
 guanxe : suhde (yhteys)  
 guatemalia : Guatemala  
 gubuh : virtahepo  
+gude : hevonen  
+guhe : luola  
 gujarati : gujarati (eräs intialainen kieli)  
 gun : laatu (laadukkuus, erinomaisuus, hyvyys)  
+guni : laadukas (hyvä)  
 gur : guru (opettaja)  
 gurube : sika (possu)  
 gurubomanse : sianliha  
@@ -721,7 +720,7 @@ guy : peikko
 ##h  
 habar : uutinen  
 habarobaw : sanomalehti  
-hafiza : säilyttää (varjella)  
+hafiza : säilyttää (varjella, säästää)  
 hafizer : säilyttäjä  
 hafnium : hafnium  
 haha : nauraa  
@@ -978,7 +977,6 @@ kande : makeinen (karkki, karamelli)
 kange : kampa  
 kangur : kenguru  
 kanjar : tikari  
-kannadi : kannada (eräs intialainen kieli)  
 kanon : tykki (pyssy)  
 kanoner : tykkimies  
 kanosuy : kyynel  
@@ -997,6 +995,8 @@ karde : kortti
 karibia : Karibia  
 karite : voipuu  
 karme : toiminta (käytös, karma)  
+karnadi : kannada (eräs intialainen kieli)  
+karnadia : Karnataka (Intian osavaltio)  
 karoparke : parkkipaikka  
 karote : porkkana  
 karte : kartta  
@@ -1099,6 +1099,7 @@ komuna : jakaa yhteiseksi
 komuniste : kommunisti  
 komunistia : kommunismi  
 kon : kulma (nurkka)  
+konakri ginia : Guinea  
 koncung : hyönteinen (ötökkä)  
 konfuze : Kungfutse  
 konfuzistia : Kungfutselaisuus  
@@ -1236,7 +1237,7 @@ lis : sileä
 liste : lista (luettelo)  
 litium : litium  
 litre : litra  
-lixtenxtayn : Liechtenstein  
+lixtenxtain : Liechtenstein  
 lobake : retikka (retiisi)  
 loga : puhua (sanoa)  
 loge : puhe (sanat)  
@@ -2089,6 +2090,7 @@ sisokon : kuusikulmio
 sistem : järjestelmä (systeemi)  
 site : kaupunki  
 skandium : skandium  
+slawi : slaavilainen  
 slowakia : Slovakia  
 slowenia : Slovenia  
 soca : seurustella (toimia yhdessä)  
@@ -2159,12 +2161,13 @@ tabake : tupakka
 tabla : taulukoida  
 table : taulukko  
 tafun : myrsky  
-taibei : Taipei  
+taibey : Taipei  
 taige : taiga  
 taiwan : Taiwan  
 tajikia : Tadžikistan  
+taksa : veloittaa (verottaa)  
 takse : taksa (vero)  
-taksi : taksi  
+taksokar : taksi  
 tal : pohja  
 tamar : taateli  
 tambur : rumpu  
@@ -2212,6 +2215,7 @@ teoria : teoria
 tepe : teippi (nauha)  
 terme : lämpötila  
 termometer : lämpömittari  
+tero- : tera-  
 teror : kauhu (terrori)  
 teroriste : terroristi  
 teroristia : terrorismi  
