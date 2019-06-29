@@ -399,7 +399,7 @@ demokratiste : demokraatti
 demon : demoni (piru)  
 den : päivä  
 denga : odottaa  
-denonyam : lounas  
+denoniam : lounas  
 des : kymmenen (10)  
 desen : piirustus  
 destin : määrä (päämäärä, kohtalo)  
@@ -1222,7 +1222,7 @@ lida : johtaa
 lider : johtaja (pomo)  
 liga : liittää  
 lige : liitto (liittouma, liiga)  
-lil nyame : välipala (naposteltava)  
+lil niam : välipala (naposteltava)  
 lil : pieni (pienesti, vähän)  
 lilak : syreeni  
 lilya : lilja  
@@ -1415,6 +1415,7 @@ mexikia : Meksiko
 mey : joka (jokainen)  
 meze : pöytä  
 mi : minun  
+mianmia : Myanmar (Burma)  
 micin : natriumglutamaatti  
 mien : nuudeli  
 migan : mandariini  
@@ -1518,7 +1519,6 @@ muskul : lihas
 muta : muuttaa (muuntaa)  
 mux : hiiri  
 muxing : Jupiter  
-myanmia : Myanmar (Burma)  
 ##n  
 na : ilman  
 nabe : profetia  
@@ -1564,6 +1564,10 @@ nesia : saaristo
 nete : verkko  
 netoloke : nettisivu  
 ni : ei  
+niam : ruoka  
+niama : nauttia (syödä, juoda)  
+niami : herkullinen (nami)  
+niamokamar : ruokasali  
 nica : alittaa (alla)  
 nice : alapuoli  
 nici : ala-  
@@ -1622,11 +1626,7 @@ nuri : valoisa
 nurobaton : soihtu  
 nurocirke : sädekehä (halo)  
 nurorade : valonsäde  
-nyam : ruoka  
-nyama : nauttia (syödä, juoda)  
-nyami : herkullinen (nami)  
-nyamokamar : ruokasali  
-nyuton : newton (N)  
+nuton : newton (N)  
 ##o  
 o : oi!  
 odisi : orija (eräs intialainen kieli)  
@@ -1752,6 +1752,7 @@ pexe : ammatti
 pey : maksu  
 peya : maksaa  
 pian : piano  
+piaze : sipuli  
 pijin : kontaktikieli (pidgin)  
 pike : huippu  
 piknike : piknik (retki)  
@@ -1860,7 +1861,6 @@ putaw : viinirypäle
 putong cini : yleiskiina (mandariinikiina)  
 putong : yleinen (universaali)  
 puxa : työntää (puskea)  
-pyaze : sipuli  
 ##r  
 rada : säteillä  
 rade : säde  
@@ -1947,6 +1947,7 @@ roter : roottori (propelli)
 rotu : pyöriä  
 roze : ruusu  
 rozi : vaaleanpunainen  
+ruandia : Ruanda  
 ruhe : henki (sielu, mieli, psyyke)  
 ruhi : henkinen (psyykkinen)  
 ruholojia : psykologia  
@@ -1965,7 +1966,6 @@ rusti : maalais-
 rustia : maaseutu  
 rute : polku (reitti, kurssi)  
 rutin : tapa (rutiini)  
-rwandia : Ruanda  
 ##s  
 sa ce : täällä (tuolla)  
 sa ke : missä?  
@@ -1995,7 +1995,7 @@ salade : salaatti
 salam cute : hyvää matkaa  
 salam den : päivää!  
 salam laye : tervetuloa!  
-salam nyam : hyvää ruokahalua!  
+salam niam : hyvää ruokahalua!  
 salam sube : Huomenta!  
 salam xam : Hyvää iltaa  
 salam : hyvä (tervehdyksissä)  
@@ -2117,13 +2117,19 @@ sonokamar : makuuhuone
 sos : kastike (soosi)  
 sosis : makkara  
 soto : Lesoto  
+suahili : suahili  
 suan : hapan (kirpeä)  
+suazia : Swazimaa  
 sube : aamu  
-subonyam : aamiainen  
+suboniam : aamiainen  
 sudafrikia : Etelä-Afrikka  
 sudan : Sudan  
 sude : etelä  
 sudi sudan : Etelä-Sudan  
+suede : hiki  
+suedi : hikinen  
+suenia : Ruotsi  
+suisia : Sveitsi  
 suja : ehdottaa  
 suje : ehdotus  
 sukar : sokeri  
@@ -2150,12 +2156,6 @@ suxe : sushi
 suy : vesi  
 suyoporte : satama  
 suyorang : vesiväri (akvarelliväri)  
-swahili : suahili  
-swazia : Swazimaa  
-swede : hiki  
-swedi : hikinen  
-swenia : Ruotsi  
-swisia : Sveitsi  
 ##t  
 tabake : tupakka  
 tabla : taulukoida  
@@ -2260,7 +2260,7 @@ trenodaw : junarata (rautatie)
 trenokaper : junakaappari  
 tribe : heimo  
 trinidade i tobage : Trinidad ja Tobago  
-tswania : Botswana  
+tsuania : Botswana  
 tuale : vessa  
 tube : putki (tuubi)  
 tuha : sylkeä  
@@ -2391,7 +2391,7 @@ xal : huivi (šaali)
 xam : ilta  
 xaman : šamaani  
 xamoden : iltapäivä  
-xamonyam : illallinen  
+xamoniam : illallinen  
 xampe : šampoo  
 xan : vuori (mäki)  
 xanti : rauhallinen (tyyni)  
@@ -2488,7 +2488,7 @@ zemolaskeria : maavoimat
 zeze : kärpänen  
 zigzage : siksakki  
 zikur : zikkurat  
-zimbabwe : Zimbabwe  
+zimbabia : Zimbabwe  
 zine : haureus (uskottomuus)  
 zinke : sinkki  
 zipa : sulkea vetoketjulla  

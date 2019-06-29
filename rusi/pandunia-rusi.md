@@ -176,7 +176,7 @@ zambia : Замбия
 zardux : Зороастр  
 zarduxiste : зороастризм  
 zeze : муха  
-zimbabwe : Зимбабве  
+zimbabia : Зимбабве  
 zinke : цинк  
 ziran : тмин  
 zon : пояс (зона)  

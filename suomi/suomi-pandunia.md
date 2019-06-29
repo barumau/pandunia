@@ -3,7 +3,7 @@
 : : -a : pääte: : SVO-sanajärjestyksen : verbi  
 ##a  
 aakkoset (ABC) : abace  
-aamiainen : subonyam  
+aamiainen : suboniam  
 aamu : sube  
 aarre : hazin  
 aasi : gade  
@@ -167,7 +167,7 @@ boikotti : boikote
 Bolivia : bolibia  
 boori : boron  
 Bosnia ja Hertsegovina : bosnia  
-Botswana : tswania  
+Botswana : tsuania  
 Brasilia : brazilia  
 Brazzavillen Kongo : brazawil kongolia  
 bromi : brom  
@@ -375,7 +375,7 @@ henkilö : ren
 henkilökohtainen (privaatti) : tani  
 henkinen (psyykkinen) : ruhi  
 heprea : ibri  
-herkullinen (nami) : nyami  
+herkullinen (nami) : niami  
 herättää : weka  
 heteroseksuaali : alojinsokami  
 hetki (kotva) : sate  
@@ -386,8 +386,8 @@ hieronta : masaje
 hiili : karbon  
 hiiri : mux  
 hiiva : hamir  
-hiki : swede  
-hikinen : swedi  
+hiki : suede  
+hikinen : suedi  
 hiljainen (hys, shhh) : xix  
 hiljainen : xixi  
 Himalaja : himalia  
@@ -454,7 +454,7 @@ hyväksyä : okeya
 hyvännäköinen : bon rupi  
 Hyvää iltaa : salam xam  
 hyvää matkaa : salam cute  
-hyvää ruokahalua! : salam nyam  
+hyvää ruokahalua! : salam niam  
 hyytelö : jel  
 hyödyllinen : faidi  
 hyökkäys (aggressio) : agres  
@@ -479,7 +479,7 @@ ihmiskunta : insania
 ikkuna : janel  
 ikä : aje  
 ilkeä (julma) : zalim  
-illallinen : xamonyam  
+illallinen : xamoniam  
 ilma : air  
 ilman : na  
 ilmanpaine : airobar  
@@ -1057,7 +1057,7 @@ lopettaa : fina
 loppu : fin  
 loukkaus (herja) : insulte  
 loukkaus (törkeys) : ninde  
-lounas : denonyam  
+lounas : denoniam  
 luiska (ramppi) : rampe  
 lukea : duga  
 luku (kirjan osa) : babe  
@@ -1295,7 +1295,7 @@ muurahainen : maye
 muusikko : musiker  
 muutama (pari-kolme) : dul u tin  
 muuttaa (muuntaa) : muta  
-Myanmar (Burma) : myanmia  
+Myanmar (Burma) : mianmia  
 myky (pelmeni, ravioli) : pelmen  
 mylläri : moler  
 myrkky : tokse  
@@ -1330,7 +1330,7 @@ naula (piikki) : ding
 nauraa : haha  
 Nauru : nauru  
 nauta (lehmä) : muh  
-nauttia (syödä, juoda) : nyama  
+nauttia (syödä, juoda) : niama  
 neliö : carokon  
 neljä (4) : car  
 nenä : nos  
@@ -1342,7 +1342,7 @@ nettisivu : netoloke
 neula : pin  
 neuvo : mente  
 neuvontantaja (mentori) : menter  
-newton (N) : nyuton  
+newton (N) : nuton  
 niellä : glota  
 Niger : nijer  
 Nigeria : naijiria  
@@ -1777,7 +1777,7 @@ Rooman valtakunta : romi empiria
 roottori (propelli) : roter  
 roska : laje  
 rotu : ras  
-Ruanda : rwandia  
+Ruanda : ruandia  
 ruiske (injektio) : juxe  
 ruiskuttaa : juxa  
 rukoilla : duwa  
@@ -1787,9 +1787,9 @@ rumpu : tambur
 runo : xir  
 runoilija : xirer  
 ruoho : gras  
-ruoka : nyam  
-ruokasali : nyamokamar  
-Ruotsi : swenia  
+ruoka : niam  
+ruokasali : niamokamar  
+Ruotsi : suenia  
 rusina : gan putaw  
 ruskea : kaforangi  
 ruukku (maljakko, vaasi) : waze  
@@ -1914,7 +1914,7 @@ sintolaisuus : xindawistia
 sinun : ti  
 sinä : te  
 Siperia : sibir  
-sipuli : pyaze  
+sipuli : piaze  
 sisarus (veli tai sisko) : saudar  
 sisus (sisäpuoli) : inde  
 sisä- (sisäinen) : indi  
@@ -1953,7 +1953,7 @@ sranan tongo : surinami bax
 Sri Lanka : lankia  
 stadioni (areena) : estadia  
 strontium : estrontium  
-suahili : swahili  
+suahili : suahili  
 substantiivi (nimisana) : namolekse  
 Sudan : sudan  
 sudenkorento : libel  
@@ -1991,8 +1991,8 @@ suunnitelma : plan
 suunta : dixe  
 suutari : sapater  
 suutarin paja : sapateria  
-Sveitsi : swisia  
-Swazimaa : swazia  
+Sveitsi : suisia  
+Swazimaa : suazia  
 sydän : xim  
 syksy (syys) : oton  
 sylkeä : tuha  
@@ -2435,7 +2435,7 @@ väite (teesi) : tese
 väittely (debatti) : lon  
 väittää : tesa  
 väli : inter  
-välipala (naposteltava) : lil nyame  
+välipala (naposteltava) : lil niam  
 väri : rang  
 väärä (epätosi, vale-) : falsi  
 ##w  
@@ -2484,7 +2484,7 @@ Zarathustra : zardux
 zarathustralainen : zarduxiste  
 zarathustralaisuus : zarduxistia  
 zikkurat : zikur  
-Zimbabwe : zimbabwe  
+Zimbabwe : zimbabia  
 zirkonium : zirkonium  
 zombi : zombe  
 zulu : zuluh  

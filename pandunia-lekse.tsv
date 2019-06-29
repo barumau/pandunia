@@ -398,7 +398,7 @@ eng:democracy. rus:демократия "demokratiya". spa:democracia. fra: por:
 			demon	:	demon	demono	demoni (piru)	demon								
 hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).			den	:	day (daytime)	tago	päivä	dzień								
 			denga	:	wait	atendi	odottaa	czekać								
-			denonyam	:	lunch	tagmanĝo	lounas	obiad, lunch								
+			denoniam	:	lunch	tagmanĝo	lounas	obiad, lunch								
 			des	:	ten (10)	dek (10)	kymmenen (10)	dziesięć (10)								
 			desen	:	drawing (picture)	desegno	piirustus	rysunek, obraz								
 eng:destination, destiny. fra:destin. spa:por:destino.			destin	:	destination (destiny, fate)		määrä (päämäärä, kohtalo)	przeznaczenie, los	destino	destino	destin (destination)	目的地 (命運)	судьба	किस्मत	takdir	kader
@@ -1214,7 +1214,7 @@ zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči
 			liga	:	associate	aligi	liittää	stowarzyszać się (zrzeszać się)								
 fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).			lige	:	league (association)		liitto (liittouma, liiga)	liga (stowarzyszenie)								
 eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti, vähän)	mały; mało, trochę, nieco								
-			lil nyame	:	snack		välipala (naposteltava)	przekąska								
+			lil niam	:	snack		välipala (naposteltava)	przekąska								
 			lilak	:	lilac		syreeni	lilak								
 			lilya	:	lily		lilja	lilia								
 			lim	:	five (5)	kvin (5)	viisi (5)	pięć (5)								
@@ -1406,6 +1406,7 @@ eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind
 zho:每 (měi). wuu:每 (me). vie:mọi. kor:매 (mae).			mey	:	every (each)	ĉiu(j)	joka (jokainen)	każdy, wszyscy								
 tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.			meze	:	table	tablo	pöytä	stół								
 			mi	:	my	mia	minun	mój								
+	dex	MM	mianmia	:	Myanmar (Burma)	Birmo	Myanmar (Burma)	Mjanma, Birma								
 			micin	:	MSG (monosodium glutamate)		natriumglutamaatti	glutaminian sodu								
 zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi).			mien	:	noodle	nudelo	nuudeli	makaron								
 			migan	:	mandarin orange	mandarino	mandariini	mandarynka								
@@ -1509,7 +1510,6 @@ eng:music. spa:música. rus:музика "muzika". ara:"mūsīqā".			musike	:	m
 spa:mudar. eng:mutate. fra:muter.			muta	:	change (alter, convert)	aliigi	muuttaa (muuntaa)	zmienić, zmieniać								
 pol:mysz. rus:мышь (myś). fas:(muš).			mux	:	mouse	muso	hiiri	mysz								
 			muxing	:	Jupiter		Jupiter	Jupiter								
-	dex	MM	myanmia	:	Myanmar (Burma)	Birmo	Myanmar (Burma)	Mjanma, Birma								
 			na	:	without	sen	ilman	bez	sin	sem						
 			nabe	:	prophecy	profetaĵo	profetia	proroctwo								
 ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. tur:nebi.			naber	:	prophet		profeetta	prorok								
@@ -1554,6 +1554,10 @@ ell:νήσος (nēsos). ind:nusa. mlg:nosy.			nes	:	island		saari	wyspa
 eng: net. deu: Netz.			nete	:	net	reto	verkko	sieć								
 			netoloke	:	website		nettisivu	witryna internetowa (portal internetowy)								
 ukr:ні (ni). afr:nie. fra:spa:ni...ni. + ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).			ni	:	not (no)	ne	ei	nie				不				
+			niam	:	food (meal)		ruoka	jedzenie, posiłek								
+khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.			niama	:	consume (eat or drink)	manĝi (trinki)	nauttia (syödä, juoda)	skonsumować, konsumować, zjeść, jeść, wypić, pić)								
+			niami	:	delicious (yummy)		herkullinen (nami)	pyszny								
+			niamokamar	:	dining room	manĝoĉambro	ruokasali	jadalnia								
 	coverb		nica	:	under (go under)		alittaa (alla)	pod, poniżej; iść w dół, iść pod spód, iść na dno								
 ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže). 			nice	:	underside (underneath)		alapuoli	spód								
 			nici	:	lower		ala-	poniższy								
@@ -1612,11 +1616,7 @@ ara:fas:(nūr). swa:nuru. taj:uzb:нур (nur).			nur	:	light (illumination)	lum
 			nurobaton	:	torch	torĉo	soihtu	pochochodnia (latarka)								
 			nurocirke	:	halo (aureola)	halo	sädekehä (halo)	efekt halo								
 			nurorade	:	ray of light		valonsäde	promień światła								
-			nyam	:	food (meal)		ruoka	jedzenie, posiłek								
-khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.			nyama	:	consume (eat or drink)	manĝi (trinki)	nauttia (syödä, juoda)	skonsumować, konsumować, zjeść, jeść, wypić, pić)								
-			nyami	:	delicious (yummy)		herkullinen (nami)	pyszny								
-			nyamokamar	:	dining room	manĝoĉambro	ruokasali	jadalnia								
-			nyuton	:	newton (N)	newtono (N)	newton (N)	niuton (N)								
+			nuton	:	newton (N)	newtono (N)	newton (N)	niuton (N)								
 			o	:	oh!	ho!	oi!	o!								
 	nas		odisi	:	Odia (Oriya)		orija (eräs intialainen kieli)	orija								
 			ofis	:	office (position)		virka (virka-asema)	urząd, pozycja, stanowisko, funkcja								
@@ -1740,6 +1740,7 @@ fas:(piše). hin:पेशा (peśā). ben:পেশা (peśa).			pexe	:	profe
 eng:pay. fra:paye. + zho:费 (fèi).			pey	:	payment		maksu	zapłata, opłata								
 			peya	:	pay		maksaa	zapłacić, opłacić, płacić								
 			pian	:	piano	piano	piano	pianino								
+kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.			piaze	:	onion		sipuli	cebula								
 			pijin	:	pidgin (contact language)	piĝino	kontaktikieli (pidgin)	pidżin, język pomocniczy								
 eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.			pike	:	top (peak, pinnacle, summit, apex, vertex)		huippu	szczyt (wierzchołek)	cima (pico, cumbre, vértice)	cume (pico, topo)	cime (pic, sommet)		вершина			
 			piknike	:	picnic		piknik (retki)	piknik								
@@ -1849,7 +1850,6 @@ hin:पुराना (purānā). urd:(purānā). ben:পুৰণা (puron). 
 zho:普通 (pǔtōng). yue:普通 (pou2tung1). vie:phổ thông. kor:보통 (botong).			putong	:	common (general, universal)	generala (universala)	yleinen (universaali)	powszechny, uniwersalny								
 			putong cini	:	Mandarin Chinese (Putonghua)	mandarinĉina	yleiskiina (mandariinikiina)	mandaryński chiński, Putonghua								
 			puxa	:	push		työntää (puskea)	pchnąć, pchać								
-kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.			pyaze	:	onion		sipuli	cebula								
 			rada	:	radiate		säteillä	promieniować								
 			rade	:	ray		säde	promień								
 			radi geter	:	radio receiver	radio	radiovastaanotin	radio								
@@ -1935,6 +1935,7 @@ fra:rôtir. eng:roast. deu:rösten. ita:arrostare.			rosta	:	roast		paahtaa (pai
 eng:rotate. deu:rotieren. spa:rotar. por:rodar. ind:rotasi. tur:rotasyon.			rotu	:	rotate (spin, turn on an axis)		pyöriä	obrócić się (kręcić się)								
 			roze	:	rose	rozo	ruusu	róża								
 			rozi	:	pink (rosy)		vaaleanpunainen	różowy, różany								
+	dex	RW	ruandia	:	Rwanda		Ruanda	Rwanda								
 	made	Rb	rubidium	:	rubidium	rubidio		rubid								
 ara:(rūħ). ind:ruh. tur:ruh. hin:रूह (rūh). swa:roho. hau:ruhu. som:ruux. + rus:дух (duh).			ruhe	:	soul (mind, psyche)	animo (psiko)	henki (sielu, mieli, psyyke)	dusza, duch, umysł			psyché		душа (дух)			
 			ruhi	:	mental (psychic)		henkinen (psyykkinen)	umysłowy (psychiczny)								
@@ -1956,7 +1957,6 @@ eng:fra:route. spa:ruta. por:rota. deu:Route. jpn:ルート (rūto). rus:мар
 	made	Ru	rutenium	:	ruthenium	rutenio		rut								
 	made	Rf	ruterfordium	:	rutherfordium	ruterfordio		rutherford								
 			rutin	:	routine (habit)	rutino (kutimo)	tapa (rutiini)	rutyna, nawyk, zwyczaj								
-	dex	RW	rwandia	:	Rwanda		Ruanda	Rwanda								
 swa:na. lin:kon:na. rus:на (na).			sa	:	with (by, at, in, on)		kanssa (luona, -lla, -ssa)	przy, z, na, w, u								
 			sa ce	:	here (there)	tie	täällä (tuolla)	tu (tutaj, tam)								
 			sa ke	:	where	kie	missä?	gdzie								
@@ -1986,7 +1986,7 @@ fra:salade. end:ind:salad. deu:Salat. rus:салат (salat). tur:salata. fas:ur
 			salam cute	:	farewell	bonan vojaĝon	hyvää matkaa	żegnaj, dobre odejście								
 			salam den	:	Good day	Bonan tagon	päivää!	dzień dobry								
 			salam laye	:	welcome!	bonvenon!	tervetuloa!	witaj, dobre przybycie								
-			salam nyam	:	bon appetit!	bonan apetiton!	hyvää ruokahalua!	smacznego								
+			salam niam	:	bon appetit!	bonan apetiton!	hyvää ruokahalua!	smacznego								
 			salam sube	:	Good morning	Bonan matenon!	Huomenta!	dobry ranek								
 			salam xam	:	Good evening	Bonan vesperon	Hyvää iltaa	dobry wieczór								
 			salama	:	greet	saluti	tervehtiä	pozdrowić, pozdrawiać								
@@ -2117,15 +2117,21 @@ zho:松 "sōng". wuu:"son". tha:สน "sǒn". kor:솔 "sol". vie:thông. + rus:
 eng:fra:sauce. rus:соус "sous". hin:सॉस "sos". deu:Soße. vie:xốt. jpn:ソース "sōsu". that:ซอส "soot". kor:소스 "soseu". ind:saus.			sos	:	sauce	saŭco	kastike (soosi)	sos								
 fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.			sosis	:	sausage	kolbaso	makkara	kiełbasa								
 	dex	LS	soto	:	Lesotho		Lesoto	Lesotho								
+			suahili	:	Swahili	sŭahili	suahili	suahili								
 zho:酸 (suān).			suan	:	sour	acida	hapan (kirpeä)	kwaśny								
+	dex	SZ	suazia	:	Swaziland		Swazimaa	Suazi								
 ara:(ṣabāḥ). tur:sabah. fas:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.			sube	:	morning (dawn)	mateno	aamu	ranek, rano, poranek								
 			suboden	:	forenoon			przedpołudnie								
-			subonyam	:	breakfast		aamiainen	śniadanie								
+			suboniam	:	breakfast		aamiainen	śniadanie								
 	dex	ZA	sudafrikia	:	South Africa		Etelä-Afrikka	Południowa Afryka								
 	dex	SD	sudan	:	Sudan		Sudan	Sudan								
 spa:sur. por:sul. fra:sud.			sude	:	south	sudo	etelä	południe								
 	dex	GS	sudi jorjia i sudi sanwice nesia	:	South Georgia and the South Sandwich Islands			Wyspy Georgia Południowa i Sandwich Południowy								
 	dex	SS	sudi sudan	:	South Sudan		Etelä-Sudan	Sudan Południowy								
+			suede	:	sweat (perspiration)		hiki	pot								
+			suedi	:	sweaty		hikinen	spocony								
+	dex	SE	suenia	:	Sweden		Ruotsi	Szwecja								
+	dex	CH	suisia	:	Switzerland		Sveitsi	Szwajcaria								
 			suja	:	suggest (propose)		ehdottaa	sugerować, proponować								
 hin:सुझाव (sujhāv). tel:(sūcana). eng:suggestion. por:sugestão.			suje	:	suggestion (proposal)		ehdotus	sugestia, propozycja								
 			suka	:	please (delight, make happy)			cieszyć, podobać się								
@@ -2158,12 +2164,6 @@ fra:eng:suture. por:spa:sutura.			sutur	:	suture (seam)		sauma (ommel)	szew
 zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda								
 			suyoporte	:	harbor (seaport)	haveno	satama		puerto marítimo	porto marítimo						
 			suyorang	:	watercolor		vesiväri (akvarelliväri)	akwarela, farba wodna								
-			swahili	:	Swahili	sŭahili	suahili	suahili								
-	dex	SZ	swazia	:	Swaziland		Swazimaa	Suazi								
-			swede	:	sweat (perspiration)		hiki	pot								
-			swedi	:	sweaty		hikinen	spocony								
-	dex	SE	swenia	:	Sweden		Ruotsi	Szwecja								
-	dex	CH	swisia	:	Switzerland		Sveitsi	Szwajcaria								
 deu:Tabak. rus:табак (tabak). fra:tabac. spa:por:tabaco. jpn:タバコ (tabako). eng:tobacco. hin:तंबाकू (tambākū). ind:tembakau.			tabake	:	tobacco	tabako	tupakka	tytoń								
 			tabla	:	tabulate		taulukoida	ułożyć w trabelę								
 eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.			table	:	table (matrix)	tabelo	taulukko	tablioca, macierz								
@@ -2276,7 +2276,7 @@ eng:fra:train. spa:tur:tren. hin:ट्रेन "ṭren".			tren	:	train	trajno
 			trenokaper	:	train hijacker		junakaappari	porywacz pociągu								
 fra:spa:tribu. por:tgl:tribo. eng:tribe.			tribe	:	tribe	tribo	heimo	plemię								
 	dex	TT	trinidade i tobage	:	Trinidad and Tobago		Trinidad ja Tobago	Trynidad i Tobago								
-	dex	BW	tswania	:	Botswana		Botswana	Botswana								
+	dex	BW	tsuania	:	Botswana		Botswana	Botswana								
 			tuale	:	toilet (WC)		vessa	taleta, WC								
 spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.			tube	:	tube (pipe)	tubo	putki (tuubi)	tuba, rura								
 hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.			tuha	:	spit	sputi	sylkeä	pluć								
@@ -2408,7 +2408,7 @@ fra:châle. rus:шаль "šal". por:xaile. eng:shawl. tur:şal.			xal	:	scarf (
 hin: शाम (śām). fas:(šām). tur:akşam.			xam	:	evening	vespero	ilta	wieczór				晚上				
 rus:шаман (šaman). eng:shaman.			xaman	:	shaman	ŝamano	šamaani	szaman								
 			xamoden	:	afternoon	posttagmeze	iltapäivä	popołudnie								
-			xamonyam	:	dinner	vespermanĝo	illallinen	kolacja								
+			xamoniam	:	dinner	vespermanĝo	illallinen	kolacja								
 por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.			xampe	:	shampoo	ŝampuo	šampoo	szampon								
 zho: 山 "shān". kor: 산 "san". vie:sơn.			xan	:	mountain (hill)	monto	vuori (mäki)	góra, wzgórze								
 			xanti	:	calm (peaceful)	trankvila	rauhallinen (tyyni)	spokojny								
@@ -2504,7 +2504,7 @@ slk:zem. cze:země. pol:ziemia. rus:земля (zemlya). fas:urd:(zamīn). hin:�
 tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.			zeze	:	fly (housefly)	muŝo	kärpänen	mucha	mosco		mouche		муха			
 			zigzage	:	zigzag		siksakki	zygzag								
 ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).			zikur	:	ziggurat		zikkurat	ziggurat								
-	dex	ZW	zimbabwe	:	Zimbabwe		Zimbabwe	Zimbabwe					Зимбабве			
+	dex	ZW	zimbabia	:	Zimbabwe		Zimbabwe	Zimbabwe					Зимбабве			
 ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).			zine	:	adultery (infidelity)	malfideleco	haureus (uskottomuus)	zdrada małżeńska, cudzołóstwo								
 	made	Zn	zinke	:	zinc	zinko	sinkki	cynk					цинк			
 			zipa	:	zip up		sulkea vetoketjulla	zamknąć zamkiem błyskawicznym								

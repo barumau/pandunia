@@ -155,7 +155,7 @@ biero : bir
 bildo : graf  
 biologio : biyolojia  
 birdo : pakse  
-Birmo : myanmia  
+Birmo : mianmia  
 biskvito (kuketo) : biskute  
 bismuto : bismute  
 blanka : bay  
@@ -169,7 +169,7 @@ bombo : bombe
 bombono : kande  
 bona (en salutoj) : salam  
 bona : bon  
-bonan apetiton! : salam nyam  
+bonan apetiton! : salam niam  
 Bonan matenon! : salam sube  
 Bonan tagon : salam den  
 Bonan vesperon : salam xam  
@@ -798,8 +798,8 @@ mandarino : migan
 mandarinĉina : putong cini  
 mangano : mangan  
 mano : hande  
-manĝi (trinki) : nyama  
-manĝoĉambro : nyamokamar  
+manĝi (trinki) : niama  
+manĝoĉambro : niamokamar  
 mara : samudi  
 maratono : maraton  
 margarino : margarin  
@@ -900,7 +900,7 @@ neono : neon
 Nepalo : nepal  
 neptunio : neptunium  
 Neptuno : neptun  
-newtono (N) : nyuton  
+newtono (N) : nuton  
 neĝo : him  
 ni : mome  
 ni faru... : haida  
@@ -1238,12 +1238,12 @@ surfaco : fas
 surprizo : supris  
 suĉi : cupa  
 suŝio : suxe  
-sŭahili : swahili  
+sŭahili : suahili  
 ##t  
 tabako : tabake  
 tabelo : table  
 tablo : meze  
-tagmanĝo : denonyam  
+tagmanĝo : denoniam  
 tago : den  
 tajgo : taige  
 tajlanda : tayi  
@@ -1348,7 +1348,7 @@ verando : berande
 verbo : fatolekse  
 verda : berdi  
 versio (toisinto) : wersion  
-vespermanĝo : xamonyam  
+vespermanĝo : xamoniam  
 vespero : xam  
 vesti : fuka  
 vesto : fuke  

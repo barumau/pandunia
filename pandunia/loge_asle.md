@@ -612,6 +612,7 @@ nenomesoden ← zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연�
 nes ← ell:νήσος (nēsos). ind:nusa. mlg:nosy.  
 nete ← eng: net. deu: Netz.  
 ni ← ukr:ні (ni). afr:nie. fra:spa:ni...ni. + ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).  
+niama ← khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.  
 nice ← ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).   
 nida ← eng: need.  
 ninde ← hin:mar:निन्द् (nind).  
@@ -623,7 +624,6 @@ note ← deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:�
 nowi ← fas:(now). pol:nowy. rus:новый (novyy). por:novo. spa:nuevo.  
 num ← deu:Nummer. eng:number. tur:numara. fra:numéro.  
 nur ← ara:fas:(nūr). swa:nuru. taj:uzb:нур (nur).  
-nyama ← khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.  
 ##o  
 onor ← eng:pol:spa:honor. fra:honneur. por:honra. ita:onore. tur:onur.  
 or ← zho:耳 (ěr). eng:ear. deu:Ohr. fra:oreille. por:orelha. spa:oreja.  
@@ -664,6 +664,7 @@ pese ← hin:पैसा (paisā). mar:पैसा (paisā). pnb:ਪੈਸਾ 
 petre ← hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.  
 pexe ← fas:(piše). hin:पेशा (peśā). ben:পেশা (peśa).  
 pey ← eng:pay. fra:paye. + zho:费 (fèi).  
+piaze ← kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.  
 pike ← eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.  
 pil ← eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).  
 pimente ← spa:pimienta. tgl:pamenta.  
@@ -696,7 +697,6 @@ punte ← spa:punto. rus:пункт "punkt". eng:point.
 pupe ← fra:poupée. deu:Puppe. eng:puppet. vie:búp bê. ktu:popi. heb:(bubá).  
 purani ← hin:पुराना (purānā). urd:(purānā). ben:পুৰণা (puron). pnb:ਪੁਰਾਣਾ (purāṇā).  
 putong ← zho:普通 (pǔtōng). yue:普通 (pou2tung1). vie:phổ thông. kor:보통 (botong).  
-pyaze ← kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.  
 ##r  
 raite ← eng:right.  
 rajia ← hin:राज्य (rājya). ben:রাজ্য (rajyô).  

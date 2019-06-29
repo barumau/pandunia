@@ -163,7 +163,7 @@ bomba : bombe
 bor : boron  
 boski : dewi  
 botanika : fitolojia  
-Botswana : tswania  
+Botswana : tsuania  
 Bośnia i Harcegowina : bosnia  
 Boże Narodzenie : kristojen  
 Brazyla : brazilia  
@@ -202,7 +202,7 @@ błotnisty : poti
 błoto : pote  
 ##c  
 całus : cum  
-cebula : pyaze  
+cebula : piaze  
 cecha, atrybut, własność; -ość : gun  
 cecha, właściwość, parametr : sife  
 cel : gol  
@@ -652,7 +652,7 @@ iść, maszerować : marca
 ja, mnie : me  
 jabłko : aple  
 jabłko cukrowe : ate  
-jadalnia : nyamokamar  
+jadalnia : niamokamar  
 jagoda : bere  
 jajko (jajo) : ande  
 jak (zwierzę) : yake  
@@ -672,7 +672,7 @@ jeden (1) : un
 jednoczyć : una  
 jednokolorowy (monochromatyczny) : monorangi  
 jednostki podstawowej : em  
-jedzenie, posiłek : nyam  
+jedzenie, posiłek : niam  
 jej : yey  
 Jemen : yemenia  
 Jersey : jersia  
@@ -776,7 +776,7 @@ kodować : koda
 koka : koke  
 kokos : yeze  
 kola, napój gazowany : kola  
-kolacja : xamonyam  
+kolacja : xamoniam  
 kolec : ding  
 kolej : trenodaw  
 kolekcja, zbiór; zgromadzenie, zebranie : jamia  
@@ -1075,7 +1075,7 @@ miłośnik (fan, -fil) : filer
 miłość (afekt) : ame  
 miłość romantyczna : romanse  
 miły, przyjemny, uroczy : latif  
-Mjanma, Birma : myanmia  
+Mjanma, Birma : mianmia  
 mleko : milke  
 mniej : min  
 mniejszościowy : minor  
@@ -1211,7 +1211,7 @@ nikt, żadna osoba : nol ren
 niob : niobium  
 nisza, alkowa : nixe  
 Niue : niwe  
-niuton (N) : nyuton  
+niuton (N) : nuton  
 nobel : nobelium  
 noc : noce  
 Norfolk : norfolke  
@@ -1239,7 +1239,7 @@ o! : o
 oaza : wase  
 obcęgi, kleszcze, szczypce : pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny : zay  
-obiad, lunch : denonyam  
+obiad, lunch : denoniam  
 obiecać, angażować się : wada  
 obozowicz : kampe  
 obrabować, splądrować : luta  
@@ -1531,7 +1531,7 @@ postawa ciała; asana : asan
 postawiony (stojący) : libi  
 postawić (stawiać) : liba  
 posuwać się do przodu (dokonywać postępu, wejść) : jina  
-pot : swede  
+pot : suede  
 potas : kalium  
 potrzebny : nidi  
 potrzebować : nida  
@@ -1616,7 +1616,7 @@ przegrać, przegrywać : luza
 przejazd, przewóz, tranzyt : trans  
 przejść, przechodzić, przejechać, przejeżdżać : transa  
 przekroczyć, przekraczać, przejść nad, iść nad : supra  
-przekąska : lil nyame  
+przekąska : lil niam  
 przepraszam! : pardon  
 przerwać, przerywać : pausa  
 przesilenie : solestas  
@@ -1666,7 +1666,7 @@ punkt : binde
 pusty : hali  
 pustynia : registan  
 puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać : laxa  
-pyszny : nyami  
+pyszny : niami  
 pytajny, związany z pytaniem : eski  
 pytanie : eske  
 pył : fun  
@@ -1761,7 +1761,7 @@ ruszać, przenościć, zmieniać miejsce : kina
 rut : rutenium  
 rutherford : ruterfordium  
 rutyna, nawyk, zwyczaj : rutin  
-Rwanda : rwandia  
+Rwanda : ruandia  
 ryba : fix  
 rym (wers) : rim  
 rynek, bazar : bazar  
@@ -1852,7 +1852,7 @@ skand : skandium
 skarb; skrabiec : hazin  
 skarpeta, skarpetka, pończocha : soke  
 skoczyć, skakać : jampa  
-skonsumować, konsumować, zjeść, jeść, wypić, pić) : nyama  
+skonsumować, konsumować, zjeść, jeść, wypić, pić) : niama  
 skończyć, kończyć : fina  
 skrzydło : wing  
 skrócić, skracać : korta  
@@ -1862,7 +1862,7 @@ skwer, plac : maidan
 skwierczeć : ziza  
 skóra : pil  
 skłonić do (spowodować zrobienie) : isa  
-smacznego : salam nyam  
+smacznego : salam niam  
 smak : guste  
 smakować jak : gustu ka  
 smakować, próbować smaku : gusta  
@@ -1882,7 +1882,7 @@ spalić, palić : jala
 spać : soni  
 specjalny, wyraźny, wyrazisty : has  
 spis treści (tabela zawartości) : tenoliste  
-spocony : swedi  
+spocony : suedi  
 spodnie, pantalony, portki : pantalon  
 spokojny : xanti  
 sport, lekkoatletyka : kel  
@@ -1931,8 +1931,8 @@ styczeń : mes 1 (mes un)
 stół : meze  
 stłuc się (rozpaść się na kawałki) : parca  
 stłuczony (pęknięty) : parci  
-suahili : swahili  
-Suazi : swazia  
+suahili : suahili  
+Suazi : suazia  
 suchy : gan  
 Sudan : sudan  
 Sudan Południowy : sudi sudan  
@@ -1983,8 +1983,8 @@ sztuka  : arte
 sztuka walki : jengoxute  
 sztylet (puginał) : kanjar  
 szukać : serca  
-Szwajcaria : swisia  
-Szwecja : swenia  
+Szwajcaria : suisia  
+Szwecja : suenia  
 szybki, prędki : rapi  
 szympans : cimpanze  
 szynszyla : cincil  
@@ -2418,7 +2418,7 @@ ziemia, grunt, gleba : zem
 ziemniak : patate  
 ziggurat : zikur  
 zima : xite  
-Zimbabwe : zimbabwe  
+Zimbabwe : zimbabia  
 zimny, chłodny : lengi  
 Zjednoczone Królestwo : britania  
 zjednoczony : uni  
@@ -2479,7 +2479,7 @@ zły, zrujnowany, zepsuty : harabi
 śmiać się : haha  
 śmierć : morte  
 śmieć, odpadek : laje  
-śniadanie : subonyam  
+śniadanie : suboniam  
 śnieg : him  
 śpiewać : canta  
 średni : medi  

@@ -310,7 +310,7 @@ demokratia : demokratio
 demon : demono  
 den : tago  
 denga : atendi  
-denonyam : tagmanĝo  
+denoniam : tagmanĝo  
 des : dek (10)  
 desen : desegno  
 detal : detalo  
@@ -918,6 +918,7 @@ mexikia : Meksikio
 mey : ĉiu(j)  
 meze : tablo  
 mi : mia  
+mianmia : Birmo  
 mien : nudelo  
 migan : mandarino  
 mikro- : mikro-  
@@ -975,7 +976,6 @@ muskete : muskedo
 muskul : muskolo  
 muta : aliigi  
 mux : muso  
-myanmia : Birmo  
 ##n  
 na : sen  
 nabe : profetaĵo  
@@ -996,6 +996,8 @@ neptun : Neptuno
 neptunium : neptunio  
 nete : reto  
 ni : ne  
+niama : manĝi (trinki)  
+niamokamar : manĝoĉambro  
 nida : bezoni  
 nijer : Niĝero  
 nikaragia : Nikaragvo  
@@ -1022,9 +1024,7 @@ nur : lumo
 nuri : luma  
 nurobaton : torĉo  
 nurocirke : halo  
-nyama : manĝi (trinki)  
-nyamokamar : manĝoĉambro  
-nyuton : newtono (N)  
+nuton : newtono (N)  
 ##o  
 o : ho!  
 oganeson : oganesono  
@@ -1189,7 +1189,7 @@ sal : salo
 salam cute : bonan vojaĝon  
 salam den : Bonan tagon  
 salam laye : bonvenon!  
-salam nyam : bonan apetiton!  
+salam niam : bonan apetiton!  
 salam sube : Bonan matenon!  
 salam xam : Bonan vesperon  
 salam : bona (en salutoj)  
@@ -1254,6 +1254,7 @@ song : pino
 sonokamar : dormoĉambro  
 sos : saŭco  
 sosis : kolbaso  
+suahili : sŭahili  
 suan : acida  
 sube : mateno  
 sude : sudo  
@@ -1271,7 +1272,6 @@ supris : surprizo
 suxe : suŝio  
 suy : akvo  
 suyoporte : haveno  
-swahili : sŭahili  
 ##t  
 tabake : tabako  
 table : tabelo  
@@ -1392,7 +1392,7 @@ xal : koltuko
 xam : vespero  
 xaman : ŝamano  
 xamoden : posttagmeze  
-xamonyam : vespermanĝo  
+xamoniam : vespermanĝo  
 xampe : ŝampuo  
 xan : monto  
 xanti : trankvila  

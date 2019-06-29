@@ -263,7 +263,7 @@ boil (cook) : bula
 bold letter : grosi harfe  
 Bolivia : bolibia  
 bomb : bombe  
-bon appetit! : salam nyam  
+bon appetit! : salam niam  
 bonaty (phytology) : fitolojia  
 bone : oste  
 book : buke  
@@ -272,7 +272,7 @@ border (edge, rim, fringe) : kenar
 boron : boron  
 Bosnia and Herzegovina : bosnia  
 bother : mafana  
-Botswana : tswania  
+Botswana : tsuania  
 bottle : botol  
 bottom : tal  
 bow instrument (violin, etc.) : ticin  
@@ -285,7 +285,7 @@ branch (bough) : xake
 brave (bold, heroic) : wiri  
 Brazil : brazilia  
 bread : pang  
-breakfast : subonyam  
+breakfast : suboniam  
 breast (boob, tits) : mem  
 breath : nafas  
 bridge : pulte  
@@ -503,7 +503,7 @@ consequence (follow-up) : bade
 consider (regard) : konsida  
 consitution : bazokanun  
 consonant : konson  
-consume (eat or drink) : nyama  
+consume (eat or drink) : niama  
 content (possession) : ten  
 continue (resume) : kontinu  
 contribute : fenodona  
@@ -590,7 +590,7 @@ defecate (shit) : kaka
 defend : defa  
 defender : defer  
 defense (defence) : defe  
-delicious (yummy) : nyami  
+delicious (yummy) : niami  
 democracy : demokratia  
 democrati : demokratiste  
 democratic : demokrati  
@@ -616,8 +616,8 @@ diamond : almas
 die (dice) : dade  
 die : mortu  
 dig (excavate) : fosa  
-dining room : nyamokamar  
-dinner : xamonyam  
+dining room : niamokamar  
+dinner : xamoniam  
 direction : dixe  
 disc (disk) : diske  
 discussion (debate, discourse) : lon  
@@ -812,7 +812,7 @@ fly (go through air) : feya
 fly (housefly) : zeze  
 focus (concentration) : fokus  
 follow (come after) : bada  
-food (meal) : nyam  
+food (meal) : niam  
 fool (buffoon) : bufon  
 foot : fute  
 football : futobol  
@@ -1263,7 +1263,7 @@ love (to be in love with) : ama
 love romantically : romansa  
 lower : nici  
 luggage (baggage) : bagaje  
-lunch : denonyam  
+lunch : denoniam  
 lung : pulmon  
 lutetium : lutetium  
 Lutheran : lutaristi  
@@ -1455,7 +1455,7 @@ muslim (moslem) : islamiste
 must : bixu  
 mutual : unali  
 my : mi  
-Myanmar (Burma) : myanmia  
+Myanmar (Burma) : mianmia  
 myth (divine story) : dewi sage  
 ##n  
 Nahuatl (Nahua) : nawati  
@@ -1492,7 +1492,7 @@ New Caledonia : nowi kaledonia
 New Zealand : nowi zilandia  
 news : habar  
 newspaper (gazette) : habarobaw  
-newton (N) : nyuton  
+newton (N) : nuton  
 next (following) : badi  
 Nicaragua : nikaragia  
 nice (pleasant, lovely) : latif  
@@ -1555,7 +1555,7 @@ olive : zaitun
 Oman : omania  
 once : un ban  
 one (1) : un  
-onion : pyaze  
+onion : piaze  
 only (alone, solely, just) : mon  
 open (not closed) : kay  
 open : kaya  
@@ -1950,7 +1950,7 @@ Russian : rusi
 rustle : xaxu  
 ruthenium : rutenium  
 rutherfordium : ruterfordium  
-Rwanda : rwandia  
+Rwanda : ruandia  
 Réunion : reunion  
 ##s  
 Sabbath : sabate  
@@ -2076,7 +2076,7 @@ Slovenia : slowenia
 smoke : duman  
 smooth : lis  
 smoothen with a plane : randa  
-snack : lil nyame  
+snack : lil niam  
 snake (serpent) : serpe  
 snow : him  
 soap : sabun  
@@ -2198,14 +2198,14 @@ surrender (to give up) : salima
 surround (be around) : cirka  
 sushi : suxe  
 suture (seam) : sutur  
-Swahili : swahili  
+Swahili : suahili  
 swallow : glota  
-Swaziland : swazia  
-sweat (perspiration) : swede  
-sweaty : swedi  
-Sweden : swenia  
+Swaziland : suazia  
+sweat (perspiration) : suede  
+sweaty : suedi  
+Sweden : suenia  
 sweet potato : kamote  
-Switzerland : swisia  
+Switzerland : suisia  
 sword : katan  
 Syria : suria  
 syrup : xirope  
@@ -2530,7 +2530,7 @@ zebra : zebre
 zero (none) : nol  
 ziggurat : zikur  
 zigzag : zigzage  
-Zimbabwe : zimbabwe  
+Zimbabwe : zimbabia  
 zinc : zinke  
 zip up : zipa  
 zipper : ziper  

@@ -389,7 +389,7 @@ demokratiste : demokrata
 demon : demon  
 den : dzień  
 denga : czekać  
-denonyam : obiad, lunch  
+denoniam : obiad, lunch  
 des : dziesięć (10)  
 desen : rysunek, obraz  
 destin : przeznaczenie, los  
@@ -1205,7 +1205,7 @@ lida : prowadzić, dowodzić, kierować
 lider : dowódca, kierownik  
 liga : stowarzyszać się (zrzeszać się)  
 lige : liga (stowarzyszenie)  
-lil nyame : przekąska  
+lil niam : przekąska  
 lil : mały; mało, trochę, nieco  
 lilak : lilak  
 lilya : lilia  
@@ -1399,6 +1399,7 @@ mexikia : Meksyk
 mey : każdy, wszyscy  
 meze : stół  
 mi : mój  
+mianmia : Mjanma, Birma  
 micin : glutaminian sodu  
 mien : makaron  
 migan : mandarynka  
@@ -1502,7 +1503,6 @@ muskul : muskuł, mięsień
 muta : zmienić, zmieniać  
 mux : mysz  
 muxing : Jupiter  
-myanmia : Mjanma, Birma  
 ##n  
 na : bez  
 nabe : proroctwo  
@@ -1548,6 +1548,10 @@ nesia : archipelag
 nete : sieć  
 netoloke : witryna internetowa (portal internetowy)  
 ni : nie  
+niam : jedzenie, posiłek  
+niama : skonsumować, konsumować, zjeść, jeść, wypić, pić)  
+niami : pyszny  
+niamokamar : jadalnia  
 nica : pod, poniżej; iść w dół, iść pod spód, iść na dno  
 nice : spód  
 nici : poniższy  
@@ -1605,11 +1609,7 @@ nuri : jasny, świetlny
 nurobaton : pochochodnia (latarka)  
 nurocirke : efekt halo  
 nurorade : promień światła  
-nyam : jedzenie, posiłek  
-nyama : skonsumować, konsumować, zjeść, jeść, wypić, pić)  
-nyami : pyszny  
-nyamokamar : jadalnia  
-nyuton : niuton (N)  
+nuton : niuton (N)  
 ##o  
 o : o!  
 odisi : orija  
@@ -1735,6 +1735,7 @@ pexe : profesja, zajęcie, zawód
 pey : zapłata, opłata  
 peya : zapłacić, opłacić, płacić  
 pian : pianino  
+piaze : cebula  
 pijin : pidżin, język pomocniczy  
 pike : szczyt (wierzchołek)  
 piknike : piknik  
@@ -1843,7 +1844,6 @@ putaw : winogrono
 putong cini : mandaryński chiński, Putonghua  
 putong : powszechny, uniwersalny  
 puxa : pchnąć, pchać  
-pyaze : cebula  
 ##r  
 rada : promieniować  
 rade : promień  
@@ -1930,6 +1930,7 @@ roter : rotor, wirnik
 rotu : obrócić się (kręcić się)  
 roze : róża  
 rozi : różowy, różany  
+ruandia : Rwanda  
 rubidium : rubid  
 ruhe : dusza, duch, umysł  
 ruhi : umysłowy (psychiczny)  
@@ -1951,7 +1952,6 @@ rute : ścieżka (droga, szlak, kurs)
 rutenium : rut  
 ruterfordium : rutherford  
 rutin : rutyna, nawyk, zwyczaj  
-rwandia : Rwanda  
 ##s  
 sa ce : tu (tutaj, tam)  
 sa ke : gdzie  
@@ -1981,7 +1981,7 @@ salade : sałatka
 salam cute : żegnaj, dobre odejście  
 salam den : dzień dobry  
 salam laye : witaj, dobre przybycie  
-salam nyam : smacznego  
+salam niam : smacznego  
 salam sube : dobry ranek  
 salam xam : dobry wieczór  
 salam : dobry ...  
@@ -2110,15 +2110,21 @@ sonokamar : sypialnia
 sos : sos  
 sosis : kiełbasa  
 soto : Lesotho  
+suahili : suahili  
 suan : kwaśny  
+suazia : Suazi  
 sube : ranek, rano, poranek  
 suboden : przedpołudnie  
-subonyam : śniadanie  
+suboniam : śniadanie  
 sudafrikia : Południowa Afryka  
 sudan : Sudan  
 sude : południe  
 sudi jorjia i sudi sanwice nesia : Wyspy Georgia Południowa i Sandwich Południowy  
 sudi sudan : Sudan Południowy  
+suede : pot  
+suedi : spocony  
+suenia : Szwecja  
+suisia : Szwajcaria  
 suja : sugerować, proponować  
 suje : sugestia, propozycja  
 suka : cieszyć, podobać się  
@@ -2150,12 +2156,6 @@ sutur : szew
 suxe : sushi  
 suy : woda  
 suyorang : akwarela, farba wodna  
-swahili : suahili  
-swazia : Suazi  
-swede : pot  
-swedi : spocony  
-swenia : Szwecja  
-swisia : Szwajcaria  
 ##t  
 tabake : tytoń  
 tabla : ułożyć w trabelę  
@@ -2267,7 +2267,7 @@ trenodaw : kolej
 trenokaper : porywacz pociągu  
 tribe : plemię  
 trinidade i tobage : Trynidad i Tobago  
-tswania : Botswana  
+tsuania : Botswana  
 tuale : taleta, WC  
 tube : tuba, rura  
 tuha : pluć  
@@ -2403,7 +2403,7 @@ xal : szal, szalik
 xam : wieczór  
 xaman : szaman  
 xamoden : popołudnie  
-xamonyam : kolacja  
+xamoniam : kolacja  
 xampe : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
@@ -2501,7 +2501,7 @@ zemolaskeria : wosko lądowe (armia)
 zeze : mucha  
 zigzage : zygzag  
 zikur : ziggurat  
-zimbabwe : Zimbabwe  
+zimbabia : Zimbabwe  
 zine : zdrada małżeńska, cudzołóstwo  
 zinke : cynk  
 zipa : zamknąć zamkiem błyskawicznym  

@@ -401,7 +401,7 @@ demokratiste : democrati
 demon : demon  
 den : day (daytime)  
 denga : wait  
-denonyam : lunch  
+denoniam : lunch  
 des : ten (10)  
 desen : drawing (picture)  
 destin : destination (destiny, fate)  
@@ -1223,7 +1223,7 @@ lida : lead (direct)
 lider : leader (director)  
 liga : associate  
 lige : league (association)  
-lil nyame : snack  
+lil niam : snack  
 lil : little (small; a little, somewhat)  
 lilak : lilac  
 lilya : lily  
@@ -1417,6 +1417,7 @@ mexikia : Mexico
 mey : every (each)  
 meze : table  
 mi : my  
+mianmia : Myanmar (Burma)  
 micin : MSG (monosodium glutamate)  
 mien : noodle  
 migan : mandarin orange  
@@ -1520,7 +1521,6 @@ muskul : muscle
 muta : change (alter, convert)  
 mux : mouse  
 muxing : Jupiter  
-myanmia : Myanmar (Burma)  
 ##n  
 na : without  
 nabe : prophecy  
@@ -1566,6 +1566,10 @@ nesia : archipelago
 nete : net  
 netoloke : website  
 ni : not (no)  
+niam : food (meal)  
+niama : consume (eat or drink)  
+niami : delicious (yummy)  
+niamokamar : dining room  
 nica : under (go under)  
 nice : underside (underneath)  
 nici : lower  
@@ -1624,11 +1628,7 @@ nuri : light (bright)
 nurobaton : torch  
 nurocirke : halo (aureola)  
 nurorade : ray of light  
-nyam : food (meal)  
-nyama : consume (eat or drink)  
-nyami : delicious (yummy)  
-nyamokamar : dining room  
-nyuton : newton (N)  
+nuton : newton (N)  
 ##o  
 o : oh!  
 odisi : Odia (Oriya)  
@@ -1754,6 +1754,7 @@ pexe : profession (occupation)
 pey : payment  
 peya : pay  
 pian : piano  
+piaze : onion  
 pijin : pidgin (contact language)  
 pike : top (peak, pinnacle, summit, apex, vertex)  
 piknike : picnic  
@@ -1863,7 +1864,6 @@ putaw : grape
 putong cini : Mandarin Chinese (Putonghua)  
 putong : common (general, universal)  
 puxa : push  
-pyaze : onion  
 ##r  
 rada : radiate  
 rade : ray  
@@ -1950,6 +1950,7 @@ roter : rotor (rotator)
 rotu : rotate (spin, turn on an axis)  
 roze : rose  
 rozi : pink (rosy)  
+ruandia : Rwanda  
 rubidium : rubidium  
 ruhe : soul (mind, psyche)  
 ruhi : mental (psychic)  
@@ -1971,7 +1972,6 @@ rute : route (path, trail, course, itinerary)
 rutenium : ruthenium  
 ruterfordium : rutherfordium  
 rutin : routine (habit)  
-rwandia : Rwanda  
 ##s  
 sa ce : here (there)  
 sa ke : where  
@@ -2001,7 +2001,7 @@ salade : salad
 salam cute : farewell  
 salam den : Good day  
 salam laye : welcome!  
-salam nyam : bon appetit!  
+salam niam : bon appetit!  
 salam sube : Good morning  
 salam xam : Good evening  
 salam : good (in greetings)  
@@ -2133,15 +2133,21 @@ sonokamar : bedroom
 sos : sauce  
 sosis : sausage  
 soto : Lesotho  
+suahili : Swahili  
 suan : sour  
+suazia : Swaziland  
 sube : morning (dawn)  
 suboden : forenoon  
-subonyam : breakfast  
+suboniam : breakfast  
 sudafrikia : South Africa  
 sudan : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
 sudi sudan : South Sudan  
+suede : sweat (perspiration)  
+suedi : sweaty  
+suenia : Sweden  
+suisia : Switzerland  
 suja : suggest (propose)  
 suje : suggestion (proposal)  
 suka : please (delight, make happy)  
@@ -2174,12 +2180,6 @@ suxe : sushi
 suy : water  
 suyoporte : harbor (seaport)  
 suyorang : watercolor  
-swahili : Swahili  
-swazia : Swaziland  
-swede : sweat (perspiration)  
-swedi : sweaty  
-swenia : Sweden  
-swisia : Switzerland  
 ##t  
 tabake : tobacco  
 tabla : tabulate  
@@ -2293,7 +2293,7 @@ trenodaw : railway (railroad)
 trenokaper : train hijacker  
 tribe : tribe  
 trinidade i tobage : Trinidad and Tobago  
-tswania : Botswana  
+tsuania : Botswana  
 tuale : toilet (WC)  
 tube : tube (pipe)  
 tuha : spit  
@@ -2429,7 +2429,7 @@ xal : scarf (shawl)
 xam : evening  
 xaman : shaman  
 xamoden : afternoon  
-xamonyam : dinner  
+xamoniam : dinner  
 xampe : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
@@ -2527,7 +2527,7 @@ zemolaskeria : ground force (army)
 zeze : fly (housefly)  
 zigzage : zigzag  
 zikur : ziggurat  
-zimbabwe : Zimbabwe  
+zimbabia : Zimbabwe  
 zine : adultery (infidelity)  
 zinke : zinc  
 zipa : zip up  
