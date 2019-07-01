@@ -116,6 +116,7 @@ laskeria : 军队
 laya : 来  
 le : 他，她，它  
 leze : 梨  
+liste : 单子  
 lole : 他们  
 luta : 掠夺   
 ##m  

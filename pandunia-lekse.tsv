@@ -883,6 +883,7 @@ ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb
 	dex	DZ	jayer	:	Algeria		Algeria	Algieria								
 			jayistia	:	Jainism		jainalaisuus	dźinizm, dżinizm								
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez								
+hin:जो (jo). urd:(jo).			je	:	which (relative pronoun)	kiu (rilativa pronomo)	joka									
 hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń								
 ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.			jebria	:	algebra		algebra	algebra								
 eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).			jel	:	gel (jelly)	ĝelo	hyytelö	żel, galareta								
@@ -1224,12 +1225,13 @@ eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti
 			limokon	:	pentagon		viisikulmio	pięciokąt (pentagon)								
 			limun	:	lemon	citrono	sitruuna	cytryna								
 por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).			linye	:	line (stripe)	lineo	viiva (linja)	linia, pas, pręga, smuga								
-			lis	:	smooth		sileä	gładki								
-eng:list. spa:por:lista. rus:"lista". fra:liste.			liste	:	list (listing, catalogue)	listo	lista (luettelo)	lista, spis, wykaz								
+fra:lisse. spa:por:liso. fas:(liz). ind:licin.			lisi	:	smooth	glata	sileä	gładki								
+eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).			liste	:	list (listing, catalogue)	listo	lista (luettelo)	lista, spis, wykaz	lista	lista	liste	单子				
 	made	Li	litium	:	lithium	litio	litium	lit								
 			litre	:	liter (litre)		litra	litr								
+zho:流 (liú). jpn:流 (ryū).			liwu	:	flow		virrata									
 	dex	LI	lixtenxtain	:	Liechtenstein		Liechtenstein	Liechtenstein								
-zho:萝卜 "luóbo". yue:蘿蔔 "lobaak". ind:lobak.			lobake	:	radish		retikka (retiisi)	rzodkiewka								
+zho:萝卜 (luóbo). yue:蘿蔔 (lobaak). ind:lobak.			lobake	:	radish	rafaneto	retikka (retiisi)	rzodkiewka								
 			loga	:	talk (say, speak)	paroli	puhua (sanoa)	mówić, rozmawiać								
 ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:lügat. ind:logat.			loge	:	speech (word)	parolo (vortoj)	puhe (sanat)	mowa; słowo								
 eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			logike	:	logic (deduction)	logiko	logiikka	logika, dedukcja								
@@ -1237,8 +1239,8 @@ eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			lo
 			loja	:	research (to study)		tutkia (opiskella)	badać, studiować								
 eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie								
 			loka	:	place (locate, put)		sijoittaa (panna paikalleen)	umieścić (postawić)								
-eng:location. spa:lugar.			loke	:	place (location)	loko	paikka (sija, sijainti)	miejsce, lokacja								
-			loki	:	local	loka	paikallinen	miejscowy, lokalny								
+eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.			loke	:	place (location)	loko	paikka (sija, sijainti)	miejsce, lokacja	lugar		lieu					
+			loki	:	local	loka	paikallinen	miejscowy, lokalny	local	local	local					
 			loku	:	be located (lie, be situated)		sijaita	 być umiejscowionym (być ulokowanym, stać)								
 			lole	:	they	ili	he	oni				他们				
 zho:论 "lùn". jpn:論 "ron". vie:luận. kor:논 "non".			lon	:	discussion (debate, discourse)		väittely (debatti)	dyskusja, debata, dyskurs								
@@ -1265,7 +1267,7 @@ hin:लूटना (lūṭnā). urd:(lūṭnā). ben:লুটা (luṭā). p
 eng:match, sve:matcha. kor:맞다 (matda).			maca	:	match (fit, suit, conform)	kongrui	sopia	pasować								
 			madagasi	:	Malagasy		malagassi	madagaskarski; malagaski								
 	dex	MG	madagasia	:	Madagascar		Madagaskar	Madagaskar								
-	dex	HU	madyaria	:	Hungary		Unkari	Węgry								
+	dex	HU	madiaria	:	Hungary		Unkari	Węgry								
 			mafan	:	trouble (disturbance, bother)		vaiva (haitta)	problem, kłopot, zakłócenie								
 			mafana	:	bother		vaivata	przeszkodzić, przeszkadzać, robić kłopot								
 			mager	:	magician (sorcerer)		taikuri	magik, czarownik								

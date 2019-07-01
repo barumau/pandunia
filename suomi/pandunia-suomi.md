@@ -890,6 +890,7 @@ jawabe : vastaus
 jayer : Algeria  
 jayistia : jainalaisuus  
 jaze : jazz (jatsi)  
+je : joka  
 jebe : tasku  
 jebria : algebra  
 jel : hyytelö  
@@ -1233,10 +1234,11 @@ limofas : viisitahokas (prisma)
 limokon : viisikulmio  
 limun : sitruuna  
 linye : viiva (linja)  
-lis : sileä  
+lisi : sileä  
 liste : lista (luettelo)  
 litium : litium  
 litre : litra  
+liwu : virrata  
 lixtenxtain : Liechtenstein  
 lobake : retikka (retiisi)  
 loga : puhua (sanoa)  
@@ -1275,7 +1277,7 @@ luzer : häviäjä
 maca : sopia  
 madagasi : malagassi  
 madagasia : Madagaskar  
-madyaria : Unkari  
+madiaria : Unkari  
 mafan : vaiva (haitta)  
 mafana : vaivata  
 mager : taikuri  

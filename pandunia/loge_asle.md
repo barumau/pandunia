@@ -385,6 +385,7 @@ jangal ← hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jang
 janger ← zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng).   
 jar ← eng:jar. ara:(jara). por:spa:jarra.  
 jawabe ← ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.  
+je ← hin:जो (jo). urd:(jo).  
 jebe ← hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.  
 jebria ← ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.  
 jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).  
@@ -515,12 +516,14 @@ lice ← zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:лич
 lige ← fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).  
 lil ← eng:little.  
 linye ← por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).  
-liste ← eng:list. spa:por:lista. rus:"lista". fra:liste.  
-lobake ← zho:萝卜 "luóbo". yue:蘿蔔 "lobaak". ind:lobak.  
+lisi ← fra:lisse. spa:por:liso. fas:(liz). ind:licin.  
+liste ← eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).  
+liwu ← zho:流 (liú). jpn:流 (ryū).  
+lobake ← zho:萝卜 (luóbo). yue:蘿蔔 (lobaak). ind:lobak.  
 loge ← ell:λόγος (logos). eng:-logue. fas:"loğat". ara:"luğa". swa:lugha. tur:lügat. ind:logat.  
 logike ← eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).  
 lojia ← eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.  
-loke ← eng:location. spa:lugar.  
+loke ← eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.  
 lon ← zho:论 "lùn". jpn:論 "ron". vie:luận. kor:논 "non".  
 lona ← zho:论 (lùn). yue:論 (lœn6). kor:론 (ron). jpn:論 (ron). vie:luận.  
 lose ← zho:螺丝 (luòsī). yue:螺絲 (lo4 si1).  

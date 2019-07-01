@@ -553,6 +553,7 @@ jodi : yode
 johtaa : lida  
 johtaja (pomo) : lider  
 joka (jokainen) : mey  
+joka : je  
 jokainen asia : pan xey  
 jokainen ihminen : pan ren  
 joki (virta) : nade  
@@ -1902,7 +1903,7 @@ sika (possu) : gurube
 sikhi : sikiste  
 sikhiläisyys : sikistia  
 siksakki : zigzage  
-sileä : lis  
+sileä : lisi  
 silmä : kan  
 silmäillä (katsoa) : kana  
 silta : pulte  
@@ -2246,7 +2247,7 @@ ulostaa (kakata) : kaka
 uloste (kakka) : kake  
 ulvoa : ulula  
 ulvonta : ulul  
-Unkari : madyaria  
+Unkari : madiaria  
 upea (hieno) : kul  
 upea (mahtava) : super  
 uraani : uranium  
@@ -2395,6 +2396,7 @@ virka (virka-asema) : ofis
 virkailija (virkamies) : ofiser  
 Viro (Eesti) : estia  
 virologia : wirusolojia  
+virrata : liwu  
 virtahepo : gubuh  
 virtsa (pissa, kusi) : pix  
 virtsata (kusta) : pixa  

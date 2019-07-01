@@ -671,6 +671,7 @@ janger : metiisto
 janolojia : sciteorio (epistemologio)  
 jawaba : respondi  
 jawabe : respondo  
+je : kiu (rilativa pronomo)  
 jebe : poŝo  
 jel : ĝelo  
 jen : nasko  
@@ -846,8 +847,10 @@ lil : malgranda
 lim : kvin (5)  
 limun : citrono  
 linye : lineo  
+lisi : glata  
 liste : listo  
 litium : litio  
+lobake : rafaneto  
 loga : paroli  
 loge : parolo (vortoj)  
 logike : logiko  

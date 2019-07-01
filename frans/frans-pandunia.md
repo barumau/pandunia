@@ -122,7 +122,10 @@ Jésus : yesus
 ##l  
 langue : bax  
 lapin, lièvre : tuze  
+lieu : loke  
+liste : liste  
 livre : buke  
+local : loki  
 loup : wolfe  
 lourd : bari  
 luthéranisme : lutaristia  

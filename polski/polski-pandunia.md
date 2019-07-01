@@ -550,7 +550,7 @@ gwiazda : xing
 Gwinea : konakri ginia  
 góra, wzgórze : xan  
 górny : supri  
-gładki : lis  
+gładki : lisi  
 głos : wote  
 głoska : fone  
 głosować (złożyć głos) : wota  
@@ -2329,7 +2329,7 @@ wóz, wózek : kar
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność : dute  
 wąż : serpe  
 węgiel : karbon  
-Węgry : madyaria  
+Węgry : madiaria  
 węzeł, zupeł : node  
 władać, panować, rządzić jako imperator : impera  
 władca : sultaner  

@@ -1216,7 +1216,7 @@ limofas : pięciościan (pryzmat)
 limokon : pięciokąt (pentagon)  
 limun : cytryna  
 linye : linia, pas, pręga, smuga  
-lis : gładki  
+lisi : gładki  
 liste : lista, spis, wykaz  
 litium : lit  
 litre : litr  
@@ -1258,7 +1258,7 @@ luzer : przegrany, pokonany
 maca : pasować  
 madagasi : madagaskarski; malagaski  
 madagasia : Madagaskar  
-madyaria : Węgry  
+madiaria : Węgry  
 mafan : problem, kłopot, zakłócenie  
 mafana : przeszkodzić, przeszkadzać, robić kłopot  
 mager : magik, czarownik  

@@ -141,6 +141,9 @@ kosmia : cosmos
 ##l  
 lasker : soldat  
 laskeria : armée  
+liste : liste  
+loke : lieu  
+loki : local  
 lutaristi : luthérien  
 lutaristia : luthéranisme  
 ##m  

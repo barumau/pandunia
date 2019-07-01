@@ -806,6 +806,7 @@ flag (banner) : bandir
 flat : ping  
 flatbread (chapati, roti) : capate  
 floor : kamarotal  
+flow : liwu  
 flower : pul  
 fluorine : flur  
 fly (go through air) : feya  
@@ -1040,7 +1041,7 @@ humor : yumor
 humorist : yumoriste  
 humorous (comical, funny) : yumori  
 hundred (##) : hon  
-Hungary : madyaria  
+Hungary : madiaria  
 hurry (hasten) : yala  
 hurt (pain) : tung  
 hurt : paxa  
@@ -2074,7 +2075,7 @@ sleep : son
 Slovakia : slowakia  
 Slovenia : slowenia  
 smoke : duman  
-smooth : lis  
+smooth : lisi  
 smoothen with a plane : randa  
 snack : lil niam  
 snake (serpent) : serpe  
@@ -2469,6 +2470,7 @@ what? : ke
 wheel : cakre  
 when? : ki zaman  
 where : sa ke  
+which (relative pronoun) : je  
 which? : ki  
 white : bay  
 who? : ki ren  

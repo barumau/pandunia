@@ -891,6 +891,7 @@ jawabe : answer (reply, response)
 jayer : Algeria  
 jayistia : Jainism  
 jaze : jazz  
+je : which (relative pronoun)  
 jebe : pocket  
 jebria : algebra  
 jel : gel (jelly)  
@@ -1234,10 +1235,11 @@ limofas : pentahedron (prism)
 limokon : pentagon  
 limun : lemon  
 linye : line (stripe)  
-lis : smooth  
+lisi : smooth  
 liste : list (listing, catalogue)  
 litium : lithium  
 litre : liter (litre)  
+liwu : flow  
 lixtenxtain : Liechtenstein  
 lobake : radish  
 loga : talk (say, speak)  
@@ -1276,7 +1278,7 @@ luzer : loser
 maca : match (fit, suit, conform)  
 madagasi : Malagasy  
 madagasia : Madagascar  
-madyaria : Hungary  
+madiaria : Hungary  
 mafan : trouble (disturbance, bother)  
 mafana : bother  
 mager : magician (sorcerer)  

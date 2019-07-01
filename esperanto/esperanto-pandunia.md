@@ -431,6 +431,7 @@ gitaro : gitar
 glacia : aisi  
 glaciaĵo : aisokrem  
 glacio : ais  
+glata : lisi  
 glavo : katan  
 gluo : glute  
 gluteno : gluten  
@@ -618,6 +619,7 @@ kio? : ke
 kio? : ki xey  
 kiom? : ki num  
 kiso : cum  
+kiu (rilativa pronomo) : je  
 kiu? : ki ren  
 kivo : kiwe  
 klara : klar  
@@ -1087,6 +1089,7 @@ radio : radi geter
 radiumo : radium  
 rado : cakre  
 radono : radon  
+rafaneto : lobake  
 rajto : hake  
 rakonti : saga  
 rakonto : sage  
