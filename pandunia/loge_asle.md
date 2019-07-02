@@ -158,6 +158,7 @@ bulu ← eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उब�
 bum ← eng:bum. por:bumbum.  
 bunduke ← ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.  
 bung ← vie:bụng. khm:ពុង (pung). tha:พุง (pung).  
+burge ← deu:Burg. egy:(burg). ara:urd:(burj). hin:बुर्ज (burj). ind:puri. + hin:दुर्ग (durg). ben:দুর্গ (durg).  
 bus ← deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).  
 buste ← fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.  
 buton ← eng:button. hin:बटन "baṭan". ben:বোতাম "botam". jpn:ボタン "botan". kor:버튼 "beoteun".  
@@ -388,6 +389,7 @@ jawabe ← ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवा
 je ← hin:जो (jo). urd:(jo).  
 jebe ← hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.  
 jebria ← ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.  
+jeinistia ← hin:mar:जैन (jain). tha:เชน (chen). eng:jainism. fra:jaïnisme. rus:джайнизм (džaynizm).  
 jel ← eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).  
 jen ← hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.  
 jeng ← zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).  
@@ -452,6 +454,7 @@ kel ← hin:खेल "khel". ben:খেলা "khela". tha:กีฬา "kīlā
 kelele ← swa:kon:makelele.  
 kenar ← tur:kenar. hin:किनारा "kinārā". urd:"kanārā".  
 kex ← jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).  
+kexosabun ← por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.  
 kire ← ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāyā". fas:"kerāya". spa:alquiler.  
 kitabe ← ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).  
 kiwe ← eng:kiwi.  
@@ -513,8 +516,10 @@ lew ← tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). y
 leze ← zho:梨子 (lízi). yue:梨 (lei42). vie:lê.   
 libu ← zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".  
 lice ← zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.  
+lider ← eng:fra:leader. spa:por:líder. rus:лидер (lider). tur:lider. hin:लीडर (līdar). jpn:リーダー (rīdā). kor:리더 (rideo)  
 lige ← fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).  
 lil ← eng:little.  
+lilake ← tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).  
 linye ← por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).  
 lisi ← fra:lisse. spa:por:liso. fas:(liz). ind:licin.  
 liste ← eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).  
@@ -793,6 +798,7 @@ suku ← jpn:好く (suku). ind: suka.
 sun ← eng:soon.  
 supe ← spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup". ind:sup. jpn:スープ "sūpu".  
 supris ← eng:surprise. tur:sürpriz. fas:(surpris). rus::сюрприз (siurpriz). por:surpresa. spa:sorpresa.   
+susan ← fas:sousan. ara:(sawsan). heb:(šōšān). + eng:Susan. por:spa:Susana. fra:Suzanne. pol:Zuzana. rus:Сусанна (Susanna).   
 suta ← hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.  
 sutur ← fra:eng:suture. por:spa:sutura.  
 suy ← zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.  
@@ -886,7 +892,6 @@ xake ← ben:শাখা "śakha". hin:शाखा "śākhā". urd:"śāx". fa
 xal ← fra:châle. rus:шаль "šal". por:xaile. eng:shawl. tur:şal.  
 xam ← hin: शाम (śām). fas:(šām). tur:akşam.  
 xaman ← rus:шаман (šaman). eng:shaman.  
-xampe ← por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.  
 xan ← zho: 山 "shān". kor: 산 "san". vie:sơn.  
 xarme ← fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng:shame. rus:срам (sram).  
 xarnir ← fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".  

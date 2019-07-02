@@ -92,6 +92,7 @@ haime : 帐篷
 hamili : 怀孕  
 helis : 螺旋  
 helpa : 帮助  
+hewanoparke : 动物园  
 ##i  
 ##j  
 jana : 知道  
@@ -116,6 +117,7 @@ laskeria : 军队
 laya : 来  
 le : 他，她，它  
 leze : 梨  
+lider : 领导  
 liste : 单子  
 lole : 他们  
 luta : 掠夺   
@@ -160,6 +162,7 @@ samude : 海
 sol : 太阳  
 solosistem : 太阳系  
 supris : 惊奇  
+susan : 百合花   
 ##t  
 tarje : 翻译  
 tazi : 新鲜的  

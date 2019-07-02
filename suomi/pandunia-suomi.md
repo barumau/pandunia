@@ -278,6 +278,7 @@ bulu : kiehua
 bum : pylly (takapuoli, pakarat)  
 bunduke : pyssy  
 bung : maha (vatsa)  
+burge : linna (linnake, linnoitus)  
 burkinia : Burkina Faso  
 bus : linja-auto (bussi)  
 buste : povi  
@@ -774,6 +775,7 @@ hem : hmm
 hema : miettiä (pohtia)  
 hen : viha  
 hewan : eläin  
+hewanoparke : eläintarha  
 hibride : risteytys (hybridi)  
 hidre : vety  
 him : lumi  
@@ -888,11 +890,11 @@ jar : kannu (karahvi)
 jawaba : vastata  
 jawabe : vastaus  
 jayer : Algeria  
-jayistia : jainalaisuus  
 jaze : jazz (jatsi)  
 je : joka  
 jebe : tasku  
 jebria : algebra  
+jeinistia : jainalaisuus  
 jel : hyytelö  
 jelos : kade (kateellinen)  
 jen : synty (syntymä)  
@@ -1006,7 +1008,6 @@ kartun : sarjakuva
 karwan : karavaani (saattue)  
 kas : tapaus (seikka)  
 kastan : kastanja  
-kastel : linna  
 kastor : majava  
 kata : katkaista (leikata)  
 katalunia : Katalonia  
@@ -1034,6 +1035,7 @@ kerube : kerubi
 ketel : kattila  
 kex : hius (karva, tukka, hiukset)  
 kexobende : hiuspanta  
+kexosabun : šampoo  
 ki num : montako? (paljonko?)  
 ki ren : kuka?  
 ki xey : mikä? (mitä?)  
@@ -1225,8 +1227,8 @@ liga : liittää
 lige : liitto (liittouma, liiga)  
 lil niam : välipala (naposteltava)  
 lil : pieni (pienesti, vähän)  
-lilak : syreeni  
-lilya : lilja  
+lilake : syreeni  
+lilaki : violetti (liila)  
 lim : viisi (5)  
 limfe : lymfa  
 limite : raja  
@@ -1247,7 +1249,7 @@ logike : logiikka
 logofiler : logofiili  
 loja : tutkia (opiskella)  
 lojia : tiede (tutkimus)  
-loka : sijoittaa (panna paikalleen)  
+loka : panna (asettaa, sijoittaa)  
 loke : paikka (sija, sijainti)  
 loki : paikallinen  
 loku : sijaita  
@@ -1592,11 +1594,11 @@ nobelium : nobelium
 noce : yö  
 noda : solmia (tehdä solmu)  
 node : solmu  
-nodewiste : ateisti (jumalankieltäjä)  
 nol ban : ei koskaan (ei kertaakaan)  
 nol ren : ei kukaan  
 nol xey : ei mitään  
 nol : nolla (ei yhtään)  
+nolodewiste : ateisti (jumalankieltäjä)  
 noma : järjestellä (hallinnoida, organisoida, manageroida)  
 nomia : hallinto (hallinnointi)  
 nonga : viljellä  
@@ -2152,6 +2154,7 @@ supris : yllätys
 suria : Syyria  
 surinam : Surinam  
 surinami bax : sranan tongo  
+susan : lilja  
 suta : ommella  
 sutur : sauma (ommel)  
 suxe : sushi  
@@ -2394,7 +2397,6 @@ xam : ilta
 xaman : šamaani  
 xamoden : iltapäivä  
 xamoniam : illallinen  
-xampe : šampoo  
 xan : vuori (mäki)  
 xanti : rauhallinen (tyyni)  
 xarme : häpeä  
@@ -2440,6 +2442,7 @@ ya : lähtien (-sta, -lta)
 yada : muistaa  
 yade : muisti  
 yadonote : muistio (muistiinmerkintä)  
+yadula : unohtaa  
 yaga : arvioida  
 yagi : noin (arviolta, suunnilleen)  
 yake : jakki  
@@ -2458,7 +2461,6 @@ yoga : joogata
 yoge : jooga  
 yohani feste : juhannus  
 yone : vagina  
-yosay : linnake  
 yote : pisara (tippa)  
 yumor : huumori  
 yumori : koominen (hauska)  

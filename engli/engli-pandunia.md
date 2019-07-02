@@ -122,7 +122,7 @@ Assur : axur
 assure (affirm) : amena  
 Assyria : axuria  
 asthma : asme  
-atheist : nodewiste  
+atheist : nolodewiste  
 athlete (sportsman) : keler  
 atmospheric pressure : airobar  
 atom : atom  
@@ -367,7 +367,7 @@ cash box : kax
 cashier : kaxer  
 cassava (manioc) : manioke  
 caste : jenoklas  
-castle : kastel  
+castle (fortress, stronghold) : burge  
 cat : maw  
 Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
@@ -824,9 +824,9 @@ foreign : way dexi
 foreign country : way dexia  
 forenoon : suboden  
 forest (jungle, woods) : jangal  
+forget : yadula  
 fork : forke  
 form (shape) : forme  
-fortress (stronghold) : yosay  
 forum (public space) : forum  
 found : baza  
 founder : bazer  
@@ -1114,7 +1114,7 @@ Italy : italia
 jackal : xakal  
 jacket : jake  
 jailer (imprisoner) : prizoner  
-Jainism : jayistia  
+Jainism : jeinistia  
 Jamaica : jamaikia  
 January : mes 1 (mes un)  
 Japan : nipon  
@@ -1234,8 +1234,9 @@ light (bright) : nuri
 light (illumination) : nur  
 like (enjoy, be fond of) : suku  
 like : fila  
-lilac : lilak  
-lily : lilya  
+lilac : lilake  
+lilac color : lilaki  
+lily : susan  
 limit (boundary) : limite  
 line (stripe) : linye  
 linguistics : baxolojia  
@@ -1704,7 +1705,6 @@ pit (excavation) : fos
 Pitcairn : pitkerne  
 pizza : pize  
 pizzeria : pizeria  
-place (locate, put) : loka  
 place (location) : loke  
 plain (ordinary, unadorned, simple, mere) : sadi  
 plan : plan  
@@ -1821,6 +1821,7 @@ pull : tira
 pump : pompa  
 Punjabi : panjabi  
 push : puxa  
+put (place, set) : loka  
 pyramid : piram  
 Qatar : kataria  
 qualify (describe) : sifa  
@@ -2027,7 +2028,7 @@ Seychelles : sexel da nesia
 shadow : saye  
 shaman : xaman  
 shame (disgrace) : xarme  
-shampoo : xampe  
+shampoo : kexosabun  
 shape (sculpt) : forma  
 share : komuna  
 shari'a : islamisti xaria  
@@ -2538,6 +2539,7 @@ zip up : zipa
 zipper : ziper  
 zirconium : zirkonium  
 zombie : zombe  
+zoo (zoological garden) : hewanoparke  
 Zoroaster : zardux  
 Zoroastrian : zarduxiste  
 Zoroastrianism : zarduxistia  

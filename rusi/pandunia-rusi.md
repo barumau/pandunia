@@ -79,8 +79,10 @@ haime : палатка (шатёр)
 hali : пустой  
 hamili : беременный  
 hazin : сокровище (казна)  
+hewanoparke : rus:зоопарк (zoopark).   
 ##i  
 ##j  
+je : который  
 ##k  
 kafe : кофе  
 kanjar : кинжал  
@@ -100,6 +102,7 @@ kosmia : космос
 ##l  
 lasker : солдат  
 laskeria : армия  
+lider : руководитель (лидер)  
 lutaristi : лютеранский  
 lutaristia : лютера́нство   
 ##m  
@@ -128,6 +131,7 @@ samoray  согласие
 samude : море   
 samudi : морской   
 slawi : славянский  
+susan : лилия  
 ##t  
 tarje : перевод  
 tas : блюдо (таз)  

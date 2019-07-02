@@ -98,6 +98,7 @@ crème glacée : aisokrem
 dance : danse  
 destin (destination) : destin  
 diamant : almas  
+dirigeant (leader) : lider  
 domestique : domi  
 données : date  
 drapeau : bandir  
@@ -115,6 +116,7 @@ hourra : ura
 hétérosexuel : alojinsokami  
 ##i  
 ##j  
+jaïnisme : jeinistia  
 juste : adali  
 justice : adalia  
 Jésus : yesus  
@@ -130,6 +132,7 @@ loup : wolfe
 lourd : bari  
 luthéranisme : lutaristia  
 luthérien : lutaristi  
+lys : susan  
 ##m  
 machine à écrire : kitabomaxin  
 mais (bien que) : a  
@@ -207,6 +210,7 @@ vivre (habiter) : domu
 ##y  
 ##z  
 zombi : zombe  
+zoo : hewanoparke  
 Zoroastre : zardux  
 zoroastrien : zarduxiste  
 zoroastrisme : zarduxistia  

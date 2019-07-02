@@ -86,7 +86,7 @@ aspekto : rupe
 aspirino : aspirin  
 astmo : asme  
 atako (agreso) : agres  
-ateisto : nodewiste  
+ateisto : nolodewiste  
 atendi : denga  
 atomo : atom  
 avokado : awakate  
@@ -380,6 +380,7 @@ flughaveno : airoporte
 flugi : feya  
 fluoro : flur  
 fojo : ban  
+forgesi : yadula  
 forko : forke  
 formigi : forma  
 formiko : maye  
@@ -751,6 +752,7 @@ litio : litium
 lito : bede  
 logiko : logike  
 loka : loki  
+lokigi : loka  
 loko : loke  
 longa : long  
 loĝi : domu  
@@ -1398,6 +1400,7 @@ zebro : zebre
 zinko : zinke  
 zirkonio : zirkonium  
 zono : zon  
+zoo (bestoĝardeno) : hewanoparke  
 zoroastrismo : zarduxistia  
 zoroastristo : zarduxiste  
 Zoroastro : zardux  
@@ -1429,6 +1432,7 @@ zuluo : zuluh
 ĉokolado : coke  
 ĉokolado : cokobaton  
 ĉu? : he  
+Ĝajnismo : jeinistia  
 ĝelo : jel  
 ĝentila : keci  
 ĝirafo : jiraf  
@@ -1439,7 +1443,7 @@ zuluo : zuluh
 ĵus : gang  
 ŝafo : meh  
 ŝamano : xaman  
-ŝampuo : xampe  
+ŝampuo : kexosabun  
 ŝanco : canse  
 ŝario : islamisti xaria  
 ŝati : suku  

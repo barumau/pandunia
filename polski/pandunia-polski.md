@@ -271,6 +271,7 @@ bulu : ugotować się, gotować się
 bum : pośladki, pupa, tyłek, zadek  
 bunduke : pistolet, strzelba, ręczna broń palna  
 bung : brzuch  
+burge : zamek, forteca, twierdza  
 burkinia : Burkina Faso  
 bus : autobus, autokar  
 buste : biust  
@@ -875,10 +876,10 @@ jar : dzban, dzbanek; słój, słoik
 jawaba : odpowiedzieć, odpowiadać  
 jawabe : odpowiedź, odzew  
 jayer : Algieria  
-jayistia : dźinizm, dżinizm  
 jaze : jazz, dżez  
 jebe : kieszeń  
 jebria : algebra  
+jeinistia : dźinizm, dżinizm  
 jel : żel, galareta  
 jelos : zazdrosny  
 jen : narodziny  
@@ -989,7 +990,6 @@ kartun : komiks; kreskówka
 karwan : karawana  
 kas : wydarzenie, przypadek, sytuacja  
 kastan : kasztan  
-kastel : zamek  
 kastor : bóbr  
 kata : ciąć  
 katalunia : Katalonia  
@@ -1017,6 +1017,7 @@ kerube : cherubin
 ketel : czajnik  
 kex : włos  
 kexobende : opaska do włosów  
+kexosabun : szampon  
 ki num : ile?  
 ki ren : co?  
 ki xey : jak?  
@@ -1207,8 +1208,7 @@ liga : stowarzyszać się (zrzeszać się)
 lige : liga (stowarzyszenie)  
 lil niam : przekąska  
 lil : mały; mało, trochę, nieco  
-lilak : lilak  
-lilya : lilia  
+lilake : lilak  
 lim : pięć (5)  
 limfe : limfa  
 limite : limit, granica  
@@ -1573,11 +1573,11 @@ nixe : nisza, alkowa
 nobelium : nobel  
 noce : noc  
 node : węzeł, zupeł  
-nodewiste : ateista  
 nol ban : nigdy  
 nol ren : nikt, żadna osoba  
 nol xey : nic, żadna rzecz  
 nol : zero, nic, żaden  
+nolodewiste : ateista  
 noma : zarządzać (organizować, kierować)  
 nomia : zarządzanie (-nomia)  
 nonga : uprawić, uprawiać  
@@ -2151,6 +2151,7 @@ supris : zaskoczenie
 suria : Syria  
 surinam : Surinam  
 surinami bax : język surinamski  
+susan : lilia  
 suta : szyć  
 sutur : szew  
 suxe : sushi  
@@ -2404,7 +2405,6 @@ xam : wieczór
 xaman : szaman  
 xamoden : popołudnie  
 xamoniam : kolacja  
-xampe : szampon  
 xan : góra, wzgórze  
 xanti : spokojny  
 xarme : wstyd (hańba, kompromitacja)  
@@ -2469,7 +2469,6 @@ yoga : uprawiać jogę
 yoge : joga  
 yohani feste : dzień świętego Jana  
 yone : wagina  
-yosay : forteca, twierdza  
 yote : kropla  
 yumor : humor  
 yumori : humorystyczny, śmieszny, zabawny, komiczny  

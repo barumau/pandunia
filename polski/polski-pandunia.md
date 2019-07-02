@@ -71,7 +71,7 @@ astma : asme
 Asyria : axuria  
 Aszur : axur  
 atak (agresja, napaść) : agres  
-ateista : nodewiste  
+ateista : nolodewiste  
 atleta, sportowiec : kelele  
 atom : atom  
 Australia : australia  
@@ -396,7 +396,7 @@ dół, jama, wydobycie, wykop, wykopalisko : fos
 dół, spód : tal  
 długi : long  
 długość : longia  
-dźinizm, dżinizm : jayistia  
+dźinizm, dżinizm : jeinistia  
 dźwięk, brzmienie : sonde  
 Dżibuti : jibutia  
 dżul (J) : jul  
@@ -466,7 +466,6 @@ fonem : foneme
 fonologia : fonolojia  
 fontanna (studnia, źródło) : fonte  
 forma, kształt : forme  
-forteca, twierdza : yosay  
 forum : forum  
 fosfor : fosfor  
 fosfor : pospor  
@@ -917,8 +916,8 @@ Libia : libia
 liczi : lice  
 Liechtenstein : lixtenxtain  
 liga (stowarzyszenie) : lige  
-lilak : lilak  
-lilia : lilya  
+lilak : lilake  
+lilia : susan  
 lilia wodna, nenufar : nenufar  
 limfa : limfe  
 limit, granica : limite  
@@ -1955,7 +1954,7 @@ szal, szalik : xal
 szaleństwo : folia  
 szalony : foli  
 szaman : xaman  
-szampon : xampe  
+szampon : kexosabun  
 szansa : canse  
 szariat : islamisti xaria  
 szczepionka : waksin  
@@ -2364,8 +2363,8 @@ zajęty : bizi
 zakomunikować (zanieść wieści, poinformować) : mesaja  
 zakrzywiony : kurbi  
 Zambia : zambia  
-zamek : kastel  
 zamek błyskawiczny : ziper  
+zamek, forteca, twierdza : burge  
 zamiast : sa loke du  
 zamiłowanie (-filia) : filia  
 zamknąć zamkiem błyskawicznym : zipa  

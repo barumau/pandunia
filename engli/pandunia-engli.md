@@ -280,6 +280,7 @@ bulu : boil (be boiled)
 bum : buttocks (bum, butt, ass)  
 bunduke : gun (handheld firearm)  
 bung : belly (abdomen)  
+burge : castle (fortress, stronghold)  
 burkinia : Burkina Faso  
 bus : bus  
 buste : bust (bosom)  
@@ -775,6 +776,7 @@ hem : hmm
 hema : ponder (think)  
 hen : hate  
 hewan : animal  
+hewanoparke : zoo (zoological garden)  
 hibride : hybrid (mongrel)  
 hidre : hydrogen  
 him : snow  
@@ -889,11 +891,11 @@ jar : jug (jar, pitcher)
 jawaba : respond (give an answer)  
 jawabe : answer (reply, response)  
 jayer : Algeria  
-jayistia : Jainism  
 jaze : jazz  
 je : which (relative pronoun)  
 jebe : pocket  
 jebria : algebra  
+jeinistia : Jainism  
 jel : gel (jelly)  
 jelos : jealous  
 jen : birth  
@@ -1007,7 +1009,6 @@ kartun : comic (cartoon)
 karwan : caravan (convoy)  
 kas : event (case, instance)  
 kastan : chestnut  
-kastel : castle  
 kastor : beaver  
 kata : cut  
 katalunia : Catalonia  
@@ -1035,6 +1036,7 @@ kerube : cherub
 ketel : kettle  
 kex : hair  
 kexobende : hairband (headband)  
+kexosabun : shampoo  
 ki num : how many?  
 ki ren : who?  
 ki xey : what thing?  
@@ -1226,8 +1228,8 @@ liga : associate
 lige : league (association)  
 lil niam : snack  
 lil : little (small; a little, somewhat)  
-lilak : lilac  
-lilya : lily  
+lilake : lilac  
+lilaki : lilac color  
 lim : five (5)  
 limfe : lymph  
 limite : limit (boundary)  
@@ -1248,7 +1250,7 @@ logike : logic (deduction)
 logofiler : logophile (word buff)  
 loja : research (to study)  
 lojia : science (study, research)  
-loka : place (locate, put)  
+loka : put (place, set)  
 loke : place (location)  
 loki : local  
 loku : be located (lie, be situated)  
@@ -1594,11 +1596,11 @@ nobelium : nobelium
 noce : night  
 noda : tie a knot  
 node : knot (node)  
-nodewiste : atheist  
 nol ban : never  
 nol ren : nobody (no-one)  
 nol xey : nothing  
 nol : zero (none)  
+nolodewiste : atheist  
 noma : manage (organize, direct)  
 nomia : management (-nomy)  
 nonga : cultivate (farm)  
@@ -2176,6 +2178,7 @@ supris : surprise
 suria : Syria  
 surinam : Suriname  
 surinami bax : Sranan Tongo  
+susan : lily  
 suta : sew  
 sutur : suture (seam)  
 suxe : sushi  
@@ -2432,7 +2435,6 @@ xam : evening
 xaman : shaman  
 xamoden : afternoon  
 xamoniam : dinner  
-xampe : shampoo  
 xan : mountain (hill)  
 xanti : calm (peaceful)  
 xarme : shame (disgrace)  
@@ -2478,6 +2480,7 @@ ya : from (since, because)
 yada : remember (recall)  
 yade : memory (recollection)  
 yadonote : memorandum (memo)  
+yadula : forget  
 yaga : estimate (approximate)  
 yagi : about (approximately)  
 yake : yak  
@@ -2497,7 +2500,6 @@ yoga : do yoga
 yoge : yoga  
 yohani feste : Saint John's Day  
 yone : vagina  
-yosay : fortress (stronghold)  
 yote : drop (droplet)  
 yumor : humor  
 yumori : humorous (comical, funny)  

@@ -599,6 +599,7 @@ hem : hm
 hema : pripensi  
 hen : malamo  
 hewan : besto  
+hewanoparke : zoo (bestoĝardeno)  
 hibride : miksulo  
 hidre : hidrogeno  
 him : neĝo  
@@ -673,6 +674,7 @@ jawaba : respondi
 jawabe : respondo  
 je : kiu (rilativa pronomo)  
 jebe : poŝo  
+jeinistia : Ĝajnismo  
 jel : ĝelo  
 jen : nasko  
 jena : naskigi  
@@ -755,6 +757,7 @@ keke : kuko
 kel : sporto  
 kenar : rando (orlo)  
 kex : haro  
+kexosabun : ŝampuo  
 ki num : kiom?  
 ki ren : kiu?  
 ki xey : kio?  
@@ -855,6 +858,7 @@ loga : paroli
 loge : parolo (vortoj)  
 logike : logiko  
 lojia : scienco  
+loka : lokigi  
 loke : loko  
 loki : loka  
 lole : ili  
@@ -1015,7 +1019,7 @@ nitre : nitrogeno
 nobelium : nobelio  
 noce : nokto  
 node : nodo  
-nodewiste : ateisto  
+nolodewiste : ateisto  
 norgi : norvega  
 norgia : Norvegio  
 nota : rimarki  
@@ -1396,7 +1400,6 @@ xam : vespero
 xaman : ŝamano  
 xamoden : posttagmeze  
 xamoniam : vespermanĝo  
-xampe : ŝampuo  
 xan : monto  
 xanti : trankvila  
 xarme : honto  
@@ -1425,6 +1428,7 @@ xule : riparo
 xuler : riparisto  
 ##y  
 ya : de (el, pro)  
+yadula : forgesi  
 yala : rapidigi  
 yang : speco (tipo, stilo)  
 yemenia : Jemeno  

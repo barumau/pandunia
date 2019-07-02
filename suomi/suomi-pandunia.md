@@ -119,7 +119,7 @@ astma : asme
 asua : domu  
 asunto (koti) : dom  
 asuttaa : doma  
-ateisti (jumalankieltäjä) : nodewiste  
+ateisti (jumalankieltäjä) : nolodewiste  
 ateljee (studio) : estudia  
 atomi : atom  
 aueta (avautua) : kayu  
@@ -231,6 +231,7 @@ elektroni : eletron
 eli (toisin sanoen) : alonami  
 elokuu : mes 8 (mes bal)  
 eläin : hewan  
+eläintarha : hewanoparke  
 elämä : jiwe  
 elää (olla elossa, elävä) : jiwi  
 enemmistö : maxoria  
@@ -529,7 +530,7 @@ itämainen lohikäärme : rong
 Itävalta : osteria  
 ##j  
 ja : i  
-jainalaisuus : jayistia  
+jainalaisuus : jeinistia  
 jakaa (jaella) : fada  
 jakaa (paloitella) : fena  
 jakaa yhteiseksi : komuna  
@@ -1037,10 +1038,9 @@ liima : glute
 liitto (liittouma, liiga) : lige  
 liitto (unioni) : unia  
 liittää : liga  
-lilja : lilya  
+lilja : susan  
 linja-auto (bussi) : bus  
-linna : kastel  
-linnake : yosay  
+linna (linnake, linnoitus) : burge  
 lintu : pakse  
 lippu (piletti) : tikete  
 lippu : bandir  
@@ -1513,6 +1513,7 @@ paneurooppalainen : paneuropi
 pankki : banke  
 pankkiiri : banker  
 panna (asettaa) : poza  
+panna (asettaa, sijoittaa) : loka  
 pannu (paistinpannu) : tawe  
 pantheon : panodewia  
 papaija : papay  
@@ -1898,7 +1899,6 @@ siitin (penis) : penis
 siivooja : safer  
 sijaita : loku  
 sijasta (tilalta) : sa loke du  
-sijoittaa (panna paikalleen) : loka  
 sika (possu) : gurube  
 sikhi : sikiste  
 sikhiläisyys : sikistia  
@@ -2001,7 +2001,7 @@ synnyttää : jena
 synty (syntymä) : jen  
 syntymäpäivä : jenoden  
 syntyä : jenu  
-syreeni : lilak  
+syreeni : lilake  
 syy : sabe  
 syyllinen : doxi  
 Syyria : suria  
@@ -2248,6 +2248,7 @@ uloste (kakka) : kake
 ulvoa : ulula  
 ulvonta : ulul  
 Unkari : madiaria  
+unohtaa : yadula  
 upea (hieno) : kul  
 upea (mahtava) : super  
 uraani : uranium  
@@ -2390,6 +2391,7 @@ viljellä : nonga
 villi (kesytön) : wildi  
 vilustuminen : zukam  
 vinyyli : winil  
+violetti (liila) : lilaki  
 virallinen : ofisi  
 virasto (toimisto, konttori) : ofisia  
 virka (virka-asema) : ofis  
@@ -2501,5 +2503,5 @@ zulu : zuluh
 ääntää : sonda  
 šakaali : xakal  
 šamaani : xaman  
-šampoo : xampe  
+šampoo : kexosabun  
 šaria : islamisti xaria  

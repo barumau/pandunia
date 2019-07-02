@@ -279,6 +279,7 @@ eng:boil. fra:bouillir. ita:bollire. zul:-bila. sot:-bela. hin:उबालन�
 eng:bum. por:bumbum.			bum	:	buttocks (bum, butt, ass)	kulo	pylly (takapuoli, pakarat)	pośladki, pupa, tyłek, zadek								
 ara:"bunduqiyya". hin:बंदूक "bandūk". swa:bunduki.			bunduke	:	gun (handheld firearm)	fusilo	pyssy	pistolet, strzelba, ręczna broń palna								
 vie:bụng. khm:ពុង (pung). tha:พุง (pung).	badan		bung	:	belly (abdomen)	ventro	maha (vatsa)	brzuch								
+deu:Burg. egy:(burg). ara:urd:(burj). hin:बुर्ज (burj). ind:puri. + hin:दुर्ग (durg). ben:দুর্গ (durg).			burge	:	castle (fortress, stronghold)		linna (linnake, linnoitus)	zamek, forteca, twierdza								
 	dex	BF	burkinia	:	Burkina Faso		Burkina Faso	Burkina Faso								
 deu:fra:eng:spa:bus. rus:автобус (avtobus). hin:बस (bas). urd:(bas). jpn:バス (basu). kor:버스 (beoseu). fas:(otobus). tur:otobüs. swa:basi. zho:巴士 (bāshì).			bus	:	bus	buso	linja-auto (bussi)	autobus, autokar								
 fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.			buste	:	bust (bosom)		povi	biust								
@@ -769,6 +770,7 @@ eng:hmm. rus:хм (hm), эм (em). kor:음 "eum".			hem	:	hmm	hm	hmm	hmm
 			hema	:	ponder (think)	pripensi	miettiä (pohtia)	dumać, rozmyślać, zastanawiać się								
 zho:"hen". fra:"haine".			hen	:	hate	malamo	viha	nienawidzić								
 ind:kewan. ara:(haywān). hin:(hEvān).			hewan	:	animal	besto	eläin	animal								
+			hewanoparke	:	zoo (zoological garden)	zoo (bestoĝardeno)	eläintarha		zoo	zoológico 	zoo	动物园	rus:зоопарк (zoopark). 		kebun binatang	hayvanat bahçesi 
 			hibride	:	hybrid (mongrel)	miksulo	risteytys (hybridi)	hybryda; kundel								
 	made	H	hidre	:	hydrogen	hidrogeno	vety	wodór								
 hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).			him	:	snow	neĝo	lumi	śnieg								
@@ -881,11 +883,11 @@ eng:jar. ara:(jara). por:spa:jarra.			jar	:	jug (jar, pitcher)		kannu (karahvi)	
 			jawaba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać								
 ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.			jawabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew								
 	dex	DZ	jayer	:	Algeria		Algeria	Algieria								
-			jayistia	:	Jainism		jainalaisuus	dźinizm, dżinizm								
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez								
-hin:जो (jo). urd:(jo).			je	:	which (relative pronoun)	kiu (rilativa pronomo)	joka									
+hin:जो (jo). urd:(jo).			je	:	which (relative pronoun)	kiu (rilativa pronomo)	joka						который			
 hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń								
 ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.			jebria	:	algebra		algebra	algebra								
+hin:mar:जैन (jain). tha:เชน (chen). eng:jainism. fra:jaïnisme. rus:джайнизм (džaynizm).			jeinistia	:	Jainism	Ĝajnismo	jainalaisuus	dźinizm, dżinizm			jaïnisme					
 eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).			jel	:	gel (jelly)	ĝelo	hyytelö	żel, galareta								
 			jelos	:	jealous		kade (kateellinen)	zazdrosny								
 hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.			jen	:	birth	nasko	synty (syntymä)	narodziny								
@@ -998,7 +1000,6 @@ eng:cartoon. por:cartum. zho:卡通 (kǎtōng).			kartun	:	comic (cartoon)		sar
 fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).			karwan	:	caravan (convoy)	karavano	karavaani (saattue)	karawana								
 eng:case. fra:cas. spa:por:caso. deu:Kasus.			kas	:	event (case, instance)		tapaus (seikka)	wydarzenie, przypadek, sytuacja								
 spa:castaňa. ara:(kastanāʾ). tur:kestane. rus:каштан (kaštan).			kastan	:	chestnut	kaŝtano	kastanja	kasztan								
-			kastel	:	castle		linna	zamek								
 fra:por:spa:castor. tgl:tur:kastor.			kastor	:	beaver	kastoro	majava	bóbr								
 eng: cut. hin: काटना /kāṭnā/. swa: -kata.			kata	:	cut	tranĉi	katkaista (leikata)	ciąć				切				
 			katalunia	:	Catalonia	Katalunio	Katalonia	Katalonia								
@@ -1026,6 +1027,7 @@ tur:kenar. hin:किनारा "kinārā". urd:"kanārā".			kenar	:	border (
 			ketel	:	kettle		kattila	czajnik								
 jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).			kex	:	hair	haro	hius (karva, tukka, hiukset)	włos								
 			kexobende	:	hairband (headband)		hiuspanta	opaska do włosów								
+por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.			kexosabun	:	shampoo	ŝampuo	šampoo	szampon								
 			ki	:	which?		mikä? (kumpi?)	który?								
 			ki num	:	how many?	kiom?	montako? (paljonko?)	ile?								
 			ki ren	:	who?	kiu?	kuka?	co?								
@@ -1211,13 +1213,13 @@ zho:梨子 (lízi). yue:梨 (lei42). vie:lê. 			leze	:	pear	piro	päärynä	gr
 zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".			libu	:	stand		seistä (seisoa)	stać								
 zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.			lice	:	lychee (litchi)		litši	liczi								
 			lida	:	lead (direct)		johtaa	prowadzić, dowodzić, kierować								
-			lider	:	leader (director)		johtaja (pomo)	dowódca, kierownik								
+eng:fra:leader. spa:por:líder. rus:лидер (lider). tur:lider. hin:लीडर (līdar). jpn:リーダー (rīdā). kor:리더 (rideo)			lider	:	leader (director)		johtaja (pomo)	dowódca, kierownik	dirigente (líder)	líder (chefe)	dirigeant (leader)	领导	руководитель (лидер)			
 			liga	:	associate	aligi	liittää	stowarzyszać się (zrzeszać się)								
 fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).			lige	:	league (association)		liitto (liittouma, liiga)	liga (stowarzyszenie)								
 eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti, vähän)	mały; mało, trochę, nieco								
 			lil niam	:	snack		välipala (naposteltava)	przekąska								
-			lilak	:	lilac		syreeni	lilak								
-			lilya	:	lily		lilja	lilia								
+tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).			lilake	:	lilac		syreeni	lilak								
+			lilaki	:	lilac color		violetti (liila)									
 			lim	:	five (5)	kvin (5)	viisi (5)	pięć (5)								
 			limfe	:	lymph		lymfa	limfa								
 			limite	:	limit (boundary)		raja	limit, granica								
@@ -1238,7 +1240,7 @@ eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).			lo
 			logofiler	:	logophile (word buff)		logofiili	logofil (miłośnik słów)								
 			loja	:	research (to study)		tutkia (opiskella)	badać, studiować								
 eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.			lojia	:	science (study, research)	scienco	tiede (tutkimus)	nauka, badanie, studiowanie								
-			loka	:	place (locate, put)		sijoittaa (panna paikalleen)	umieścić (postawić)								
+			loka	:	put (place, set)	lokigi	panna (asettaa, sijoittaa)	umieścić (postawić)								
 eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.			loke	:	place (location)	loko	paikka (sija, sijainti)	miejsce, lokacja	lugar		lieu					
 			loki	:	local	loka	paikallinen	miejscowy, lokalny	local	local	local					
 			loku	:	be located (lie, be situated)		sijaita	 być umiejscowionym (być ulokowanym, stać)								
@@ -1582,11 +1584,11 @@ hin:mar:निन्द् (nind).			ninde	:	insult (offence)	insulto	loukkaus (
 spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.			noce	:	night	nokto	yö	noc	noche	noite	noit	夜	ночь	रात	malam	gece
 			noda	:	tie a knot		solmia (tehdä solmu)									
 eng:node. spa:nudo. por:nó. fra:nœud.			node	:	knot (node)	nodo	solmu	węzeł, zupeł								
-			nodewiste	:	atheist	ateisto	ateisti (jumalankieltäjä)	ateista								
 rus:ноль (nol'). ind:tkm:nol. deu:null.			nol	:	zero (none)		nolla (ei yhtään)	zero, nic, żaden								
 			nol ban	:	never		ei koskaan (ei kertaakaan)	nigdy								
 			nol ren	:	nobody (no-one)		ei kukaan	nikt, żadna osoba								
 			nol xey	:	nothing		ei mitään	nic, żadna rzecz								
+			nolodewiste	:	atheist	ateisto	ateisti (jumalankieltäjä)	ateista								
 			noma	:	manage (organize, direct)		järjestellä (hallinnoida, organisoida, manageroida)	zarządzać (organizować, kierować)								
 eng:-nomy. deu:fra:-nomie. spa:por:-nomia. rus:-номия (-nomiya).			nomia	:	management (-nomy)		hallinto (hallinnointi)	zarządzanie (-nomia)								
 			nonga	:	cultivate (farm)		viljellä	uprawić, uprawiać								
@@ -2160,6 +2162,7 @@ eng:surprise. tur:sürpriz. fas:(surpris). rus::сюрприз (siurpriz). por:s
 	dex	SY	suria	:	Syria		Syyria	Syria								
 	dex	SR	surinam	:	Suriname		Surinam	Surinam								
 			surinami bax	:	Sranan Tongo		sranan tongo	język surinamski								
+fas:sousan. ara:(sawsan). heb:(šōšān). + eng:Susan. por:spa:Susana. fra:Suzanne. pol:Zuzana. rus:Сусанна (Susanna). 			susan	:	lily		lilja	lilia	lirio	lírio	lys	百合花 	лилия	कुमुदिनी 	lili	zambak
 hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.			suta	:	sew		ommella	szyć								
 fra:eng:suture. por:spa:sutura.			sutur	:	suture (seam)		sauma (ommel)	szew								
 			suxe	:	sushi	suŝio	sushi	sushi								
@@ -2411,7 +2414,6 @@ hin: शाम (śām). fas:(šām). tur:akşam.			xam	:	evening	vespero	ilta	w
 rus:шаман (šaman). eng:shaman.			xaman	:	shaman	ŝamano	šamaani	szaman								
 			xamoden	:	afternoon	posttagmeze	iltapäivä	popołudnie								
 			xamoniam	:	dinner	vespermanĝo	illallinen	kolacja								
-por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.			xampe	:	shampoo	ŝampuo	šampoo	szampon								
 zho: 山 "shān". kor: 산 "san". vie:sơn.			xan	:	mountain (hill)	monto	vuori (mäki)	góra, wzgórze								
 			xanti	:	calm (peaceful)	trankvila	rauhallinen (tyyni)	spokojny								
 fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng:shame. rus:срам (sram).			xarme	:	shame (disgrace)	honto	häpeä	wstyd (hańba, kompromitacja)								
@@ -2456,6 +2458,7 @@ zho:休息 (xiūxí). kor:휴식 (hyusig).			xuxe	:	rest (relief)		lepo	zostawi�
 			yada	:	remember (recall)		muistaa	pamiętać					память			
 hin:याद (yād). guj:યાદ (yād). fas:urd:(yād). aze:yad. tkm: ýaad.			yade	:	memory (recollection)		muisti	pamięć								
 			yadonote	:	memorandum (memo)		muistio (muistiinmerkintä)	notatka, memo					меморандум 			
+			yadula	:	forget	forgesi	unohtaa									
 			yaga	:	estimate (approximate)		arvioida	oszacować, szacować, przybliżyć, przybliżać								
 kor:약 "yag". jpn:約 "yaku". yue:約 "yœk". tur:yaklaşık. zho:约 "yuē". 			yagi	:	about (approximately)		noin (arviolta, suunnilleen)	około; przybliżony								
 eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).			yake	:	yak		jakki	jak (zwierzę)								
@@ -2475,7 +2478,6 @@ zho:椰子 (yēzi). yue:椰子 (ye4zi2). kor:야자 (yaja). jpn:椰子 (yashi).	
 hin:योग (yog). pnb:ਯੋਗ (yog). urd:(yog). ben:যোগ (jog). tel:యోగా (yōgā). tha:โยคะ (yōga). eng:spa:ind:tur:yoga. por:ioga. rus:йога (yoga). zho:瑜伽 (yújiā). jpn:ヨーガ (yōga). kor:요가 (yoga).			yoge	:	yoga	jogo	jooga	joga				瑜伽功	йога			
 			yohani feste	:	Saint John's Day		juhannus	dzień świętego Jana	día de San Juan							
 hin:योनि (yoni). ben:যোনি (joni). tel:యోని (yōni). khm:យោនី (yōnī). tha:โยนี (yo-ni).			yone	:	vagina	vagino	vagina	wagina								
-			yosay	:	fortress (stronghold)		linnake	forteca, twierdza								
 tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).			yote	:	drop (droplet)		pisara (tippa)	kropla								
 rus:юмор (yumor). uzb:yumor. spa:eng:humor. fra:humour. jpn:ユーモア (yūmoa). kor:유머 (yumeo). zho:幽默 (yōumò).			yumor	:	humor	humuro	huumori	humor					юмор			
 			yumori	:	humorous (comical, funny)	humura	koominen (hauska)	humorystyczny, śmieszny, zabawny, komiczny								

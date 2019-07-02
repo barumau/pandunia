@@ -124,8 +124,10 @@ fitolojia : botanique
 ##g  
 ##h  
 haime : tente  
+hewanoparke : zoo  
 ##i  
 ##j  
+jeinistia : jaïnisme  
 ##k  
 kafe : café  
 karte : carte  
@@ -141,6 +143,7 @@ kosmia : cosmos
 ##l  
 lasker : soldat  
 laskeria : armée  
+lider : dirigeant (leader)  
 liste : liste  
 loke : lieu  
 loki : local  
@@ -176,6 +179,7 @@ safariste : touriste
 sal : sel  
 samoray  accord  
 samude : mer  
+susan : lys  
 ##t  
 tarje : traduction  
 tazi : frais  
