@@ -41,11 +41,15 @@ Some remarkable features of Pandunia:
 ## Articles
 
 - [Pandunia - a new world language](dunia_bax.md)
-- [Presentation in PDF format](Pandunia-presentation.pdf)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
 - [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
 - [Miscellaneous notes](note.md)
+
+## Presentations (in PDF format)
+
+- [General Presentation](Pandunia-presentation.pdf)
+- [Word orders](word-orders.pdf)
 
 ## Join Others
 
