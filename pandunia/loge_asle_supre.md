@@ -28,7 +28,7 @@ pandunia da loge laya ya pol bax du dunia.
     - (urd) urdi 
     - (fil) filipini 
     - (tur) turki 
-    - (per) farsi 
+    - (fas) farsi 
 
 ## -
 

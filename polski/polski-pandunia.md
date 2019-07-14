@@ -606,7 +606,7 @@ hybryda; kundel : hibride
 hę?, co?, pardon? : he  
 i, oraz : i  
 ##i  
-idea, pomysł : ide  
+idea, pomysł : idey  
 idiota : idiote  
 idiotyzm (głupota) : idiotia  
 igła, szpilka : pin  
@@ -1479,7 +1479,7 @@ poeta : xirer
 pogoda : tenke  
 pogrubiona litera : grosi harfe  
 poinformować, informować, zakomunikować, komunikować : informa  
-pojęciowy : idi  
+pojęciowy : ideyi  
 pokaz, ekspozycja, wystawa : xow  
 pokazać, pokazywać, wystawić, wystawiać : xowa  
 poker : poke  
@@ -1644,7 +1644,7 @@ przyprawa : masal
 przyrostek dla (wyniku) działania : -e  
 przyrostek dla czasowników z szykiem zdania OVS : -u  
 przyrostek dla ideologii : istia  
-przyrostek dla miejsca : ia  
+przyrostek dla miejsca : -ia  
 przyrostek dla miejsca wykonywania : eria  
 przyrostek dla przymiotnika : -i  
 przyrostek dla wsperającego ideę : iste  
@@ -1805,7 +1805,7 @@ samochód (automobil) : motokar
 samolot : wiman  
 samoray  porozumienie  
 samoraya  potwierdzić, potwierdzać, zgodzić się, zgadzać się  
-sauna : sauna  
+sauna : saune  
 sałata : letis  
 sałatka : salade  
 scena : sen  

@@ -1,6 +1,7 @@
 -a : pääte: SVO-sanajärjestyksen verbi  
 -e : pääte: substantiivi  
 -i : pääte: adjektiivi tai adverbi  
+-ia : ajattelun, olemisen tai ihmisten ala tai alue  
 -u : pääte: OVS-sanajärjestyksen verbi  
 ##a  
 a : mutta  
@@ -159,6 +160,7 @@ barde : parta
 bari : painava  
 barium : barium  
 barka : onnitella (siunata)  
+barke! : onneksi olkoon!  
 barometal : raskasmetalli  
 barometer : vaaka (puntari)  
 barti : intialainen  
@@ -809,11 +811,10 @@ huristi : liberaali (vapaamielinen)
 huristia : liberalismi  
 ##i  
 i : ja  
-ia : ala (alue)  
 ibri : heprea  
 ice : tahto  
-ide : käsite (idea)  
-idi : käsitteellinen  
+idey : käsite (idea)  
+ideyi : käsitteellinen  
 idiote : typerys (idiootti)  
 idioti : tyhmä (hölmö)  
 idiotia : tyhmyys (typeryys)  
@@ -1013,6 +1014,7 @@ kata : katkaista (leikata)
 katalunia : Katalonia  
 katan : miekka  
 kataria : Qatar  
+kaukasia : Kaukasia  
 kaway : söpö (suloinen)  
 kax : kassa  
 kaxer : kassanhoitaja  
@@ -2038,7 +2040,7 @@ saroste : pääkallo
 sate : hetki (kotva)  
 saudar : sisarus (veli tai sisko)  
 saudi arabia : Saudi Arabia  
-sauna : sauna  
+saune : sauna  
 saye : varjo  
 sekreter : sihteeri  
 sekreteria : sihteeristö  
@@ -2405,6 +2407,7 @@ xarta : vaatia (edellyttää)
 xarte : vaatimus (edellytys)  
 xatan : paholainen (saatana, piru)  
 xatani : pirullinen  
+xatranje : šakki  
 xaw : vähän  
 xaxu : kahista  
 xef : päällikkö (pomo)  

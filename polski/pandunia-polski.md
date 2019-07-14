@@ -1,6 +1,7 @@
 -a : przyrostek dla czasowników z szykiem zdania SVO  
 -e : przyrostek dla (wyniku) działania  
 -i : przyrostek dla przymiotnika  
+-ia : przyrostek dla miejsca  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
 ##a  
 a : ale, lecz  
@@ -795,11 +796,10 @@ huristi : liberalny, wolnościowy
 huristia : liberalizm  
 ##i  
 i : i, oraz  
-ia : przyrostek dla miejsca  
 ibri : hebrajski  
 ice : wola, chęć  
-ide : idea, pomysł  
-idi : pojęciowy  
+idey : idea, pomysł  
+ideyi : pojęciowy  
 idiote : idiota  
 idioti : głupi (idiotyczny)  
 idiotia : idiotyzm (głupota)  
@@ -2022,7 +2022,7 @@ saroste : czaszka
 sate : moment  
 saudar : rodzeństwo, brat lub siostra  
 saudi arabia : Arabia Saudyjska  
-sauna : sauna  
+saune : sauna  
 saye : cień  
 seaborgium : seaborg  
 sekreter : sekretarz  

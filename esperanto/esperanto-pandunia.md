@@ -280,7 +280,7 @@ egala : egal
 egipta : misri  
 Egipto : misria  
 ejnŝtejnio : ainstainium  
-ejo (ujo, io) : ia  
+ejo (ujo, io) : -ia  
 ejo : aria  
 ekrano : ekran  
 ekstera : way  
@@ -512,7 +512,7 @@ humuristo : yumoriste
 humuro : yumor  
 ##i  
 iam : koy zaman  
-ideo : ide  
+ideo : idey  
 ido (infano) : bace  
 igi : isa  
 ili : lole  
@@ -1164,7 +1164,7 @@ sanigi (kuraci) : medika
 sankta : santi  
 sapo : sabun  
 saŭco : sos  
-saŭno : sauna  
+saŭno : saune  
 scienco : lojia  
 scii (koni) : jana  
 scio : jan  
@@ -1442,6 +1442,7 @@ zuluo : zuluh
 ĵudo : judo  
 ĵus : gang  
 ŝafo : meh  
+ŝako : xatranje  
 ŝamano : xaman  
 ŝampuo : kexosabun  
 ŝanco : canse  

@@ -32,12 +32,12 @@ aineellinen (materiaalinen) : mati
 aivot : serebre  
 ajaa (kuskata) : xofa  
 ajatella (miettiä) : fikra  
+ajattelun, olemisen tai ihmisten ala tai alue : -ia  
 ajatus : fikre  
 akku (paristo) : batre  
 akseli : akse  
 aktinium : acinium  
 akvaario : fixotanke  
-ala (alue) : ia  
 ala (pinta-ala) : are  
 ala- : nici  
 Alankomaat (Hollanti) : nederlandia  
@@ -686,6 +686,7 @@ kattila : ketel
 katto (katos) : cate  
 kauhu (terrori) : teror  
 kaukainen : teli  
+Kaukasia : kaukasia  
 kaunis (komea, sievä) : sundar  
 kaupunki : site  
 Kazakstan : kazahia  
@@ -946,9 +947,9 @@ kärpänen : zeze
 kärry (vaunu, auto, jne) : kar  
 käsi : hande  
 käsi- : hani  
-käsite (idea) : ide  
+käsite (idea) : idey  
 käsitellä dataa : komputa  
-käsitteellinen : idi  
+käsitteellinen : ideyi  
 käskeä (komentaa) : komanda  
 käsky (komento) : komande  
 kätevä : jangi  
@@ -1423,6 +1424,7 @@ omistaja : malker
 omistetun omistajaan liittävä partikkeli : du  
 ommella : suta  
 ongelma : problem  
+onneksi olkoon! : barke!  
 onnitella (siunata) : barka  
 opettaja : darsogur  
 oppi (opetus) : darse  
@@ -1853,7 +1855,7 @@ sattumanvarainen : zari
 satuttaa : paxa  
 Saudi Arabia : saudi arabia  
 sauma (ommel) : sutur  
-sauna : sauna  
+sauna : saune  
 savu : duman  
 savuke tai sikari : sigar  
 seepra : zebre  
@@ -2502,6 +2504,7 @@ zulu : zuluh
 äänne (fooni) : fone  
 ääntää : sonda  
 šakaali : xakal  
+šakki : xatranje  
 šamaani : xaman  
 šampoo : kexosabun  
 šaria : islamisti xaria  

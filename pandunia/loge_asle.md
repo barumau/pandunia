@@ -28,12 +28,13 @@ pandunia da loge laya ya pol bax du dunia.
     - (urd) urdi 
     - (fil) filipini 
     - (tur) turki 
-    - (per) farsi 
+    - (fas) farsi 
 
 ## -
 
 -a ← ←  
 -i ← ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.  
+-ia ← spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).  
 -u ← hau:wol:-u. swa:-wa.  
 a ← rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.  
 ##a  
@@ -362,9 +363,8 @@ hule ← zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).
 huria ← ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.  
 i ← spa:y. por:e. rus:и /i/. pol:i.  
 ##i  
-ia ← spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).  
 ice ← vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).  
-ide ← fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.  
+idey ← fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.  
 idiote ← eng:deu:fra:ind:idiot. spa:por:idiota. rus:идиот (idiot).  
 importi ← eng:fra:important. spa:importante.  
 inde ← eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.  
@@ -759,6 +759,7 @@ santi ← por:spa:santo. eng:fra:saint. kon:santu. zho:圣 (shèng).
 sapate ← spa:zapato. por:sapato. ind:sepatu.  
 sate ← ara:(sāʿa). fas:(sâ'at). ind:tur:saat. swa:saa. lin:sâ. som:saacad. scr:sat.  
 saudar ← ind:saudara. hin:सहोदर "sahodar". ben:সহোদর "sôhodôr".  
+saune ← fin:deu:eng:fra:por:spa:ind:tur:sauna. rus:сауна (sauna). zho:桑拿 (sāngná). jpn:サウナ (sauna). kor:사우나 (sauna). hin:सॉना (sonā). fas:urd:(sonā). tha:ซาวน่า (saona).  
 saye ← fas:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).  
 sel ← ind:sel. fas:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.  
 sem ← rus:семь (semʹ).  
@@ -897,6 +898,7 @@ xarme ← fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng
 xarnir ← fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".  
 xarte ← tur:şart. ara:fas:(šart). swa:sharuti. hin:शर्त (śart).  
 xatan ← ara:"šayṭān". hin:शैतान "śaitān". tur:şeytan. eng:Satan. spa:Satán.  
+xatranje ← hin:शतरंज (śatrañj). urd:(śatrañj). fas:(šatranj). tur:satranç. ara:(šaṭranj). swa:sataranji. tel:చతురంగము (caturaṅgamu). tam:சதுரங்கம் (caturaṅkam). ind:catur. khm:ចត្រង្គ (caʾtrɑng). por:xadrez.  
 xaw ← zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).  
 xaxu ← zho:"shasha".  
 xef ← fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chifu. jpn:チーフ (chīfu). + ara:(šeyx).  

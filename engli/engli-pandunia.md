@@ -94,7 +94,7 @@ arboretum : arboparke
 archipelago : nesia  
 area (extent of surface) : are  
 area (region) : aria  
-area : ia  
+area of thinking or being : -ia  
 Argentina : argentin  
 argon : argon  
 argue (claim) : tesa  
@@ -371,6 +371,7 @@ castle (fortress, stronghold) : burge
 cat : maw  
 Catalonia : katalunia  
 catch (capture, seize, snatch, intercept) : kapa  
+Caucasia : kaukasia  
 cause (be the cause for) : saba  
 cause to make : isa  
 cave : guhe  
@@ -404,6 +405,7 @@ cheese : cis
 chemical : kimi  
 chemistry : kimia  
 cherub : kerube  
+chess : xatranje  
 chest (breast) : sine  
 chestnut : kastan  
 chicken : kokode  
@@ -488,7 +490,7 @@ compete (have a match) : mece
 compute (to process data) : komputa  
 computer : komputer  
 concentrate : fokusa  
-conceptual : idi  
+conceptual : ideyi  
 concrete (material with cement) : beton  
 condition (requirement) : xarte  
 cone : konus  
@@ -498,6 +500,7 @@ Congo (Brazzaville) : brazawil kongolia
 Congo Kinshasa : kinsasi kongolia  
 Congolese : kongoli  
 congratulate (bless) : barka  
+congratulations! : barke!  
 connect (join, link) : samuna  
 consequence (follow-up) : bade  
 consider (regard) : konsida  
@@ -1055,7 +1058,7 @@ ice cream : aisokrem
 ice hockey : aisohoke  
 Iceland : islandia  
 icy : aisi  
-idea (concept, notion) : ide  
+idea (concept, notion) : idey  
 idiocy (stupidity) : idiotia  
 idiot : idiote  
 if (suppose, assume) : gar  
@@ -1976,7 +1979,7 @@ Sao Tome and Principe : santi tome i prinsipe
 Saturday : war 6 (war sis)  
 sauce : sos  
 Saudi Arabia : saudi arabia  
-sauna : sauna  
+sauna : saune  
 sausage : sosis  
 save (deposit, bank) : banka  
 save : sekura  

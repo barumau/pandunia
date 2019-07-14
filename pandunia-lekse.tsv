@@ -2,6 +2,7 @@ leksi asle	klase		pandunia		engli	esperanti	suomi	polski	espani	portugal	fransi	
 			-a	:	suffix for verbs with SVO word order	-i (-igi)	pääte: SVO-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania SVO			suffixe pour les verbes avec ordre des mots SVO					
 			-e	:	suffix for derived nouns	-o (-aĵo)	pääte: substantiivi	przyrostek dla (wyniku) działania			suffixe pour dériver les noms					
 ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.			-i	:	suffix for adjectives	-a (-e)	pääte: adjektiivi tai adverbi	przyrostek dla przymiotnika			suffixe pour l'adjectif					
+spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			-ia	:	area of thinking or being	ejo (ujo, io)	ajattelun, olemisen tai ihmisten ala tai alue	przyrostek dla miejsca								
 hau:wol:-u. swa:-wa.			-u	:	suffix for verbs with OVS word order	-i (-iĝi)	pääte: OVS-sanajärjestyksen verbi	przyrostek dla czasowników z szykiem zdania OVS			suffixe pour les verbes avec ordre des mots OVS					
 rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.			a	:	but (whereas)	sed	mutta	ale, lecz	pero		mais (bien que)					
 gre:"alphabētos". spa:abecedario. fas:"alefbâ". ara:"abjad". scr:slk:abeceda. hun:ábécé.			abace	:	alphabet	alfabeto	aakkoset (ABC)	alfabet, abecadło			alphabet	字母表	алфавит			
@@ -160,6 +161,7 @@ fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:br
 ben:ভারী (bharī). hin:भारा (bhārā). urd:(bhārā). tel:బరువు (baruvu). ind:berat. ell: βαρύς (barýs).			bari	:	heavy	peza	painava	ciężki (masywny)	pesado	pesado	lourd	重型的	тяжёлый	भारी	berat	ağır
 	made	Ba	barium	:	barium	bario	barium	bar			baryum					
 hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubarika.			barka	:	congratulate (bless)	gratuli	onnitella (siunata)	gratulować; błogosławić			féliciter					
+			barke!	:	congratulations!		onneksi olkoon!									
 			barometal	:	heavy metal	pezmetalo	raskasmetalli	metal ciężki								
 			barometer	:	scales (weighing device)		vaaka (puntari)	waga (urządzenie ważące)								
 hin:भारतीय (bhārtīy). urd:(bhārtīy). mar:(bhārtīya). tel:(bhāratīya).			barti	:	Indian	Barata	intialainen	Indyjski								
@@ -803,11 +805,10 @@ ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.			huria
 			huristi	:	liberal		liberaali (vapaamielinen)	liberalny, wolnościowy								
 			huristia	:	liberalism		liberalismi	liberalizm								
 spa:y. por:e. rus:и /i/. pol:i.			i	:	and	kaj	ja	i, oraz								
-spa:por:eng:-ia. rus:-ия (-iya). ara:(-iya). jpn:屋 (-ya).			ia	:	area	ejo (ujo, io)	ala (alue)	przyrostek dla miejsca								
 			ibri	:	Hebrew	Hebrea	heprea	hebrajski								
 vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).			ice	:	will (volition, desire)	voli	tahto	wola, chęć								
-fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.			ide	:	idea (concept, notion)	ideo	käsite (idea)	idea, pomysł								
-			idi	:	conceptual		käsitteellinen	pojęciowy								
+fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.			idey	:	idea (concept, notion)	ideo	käsite (idea)	idea, pomysł								
+			ideyi	:	conceptual		käsitteellinen	pojęciowy								
 eng:deu:fra:ind:idiot. spa:por:idiota. rus:идиот (idiot).			idiote	:	idiot		typerys (idiootti)	idiota								
 			idioti	:	stupid (idiotic)		tyhmä (hölmö)	głupi (idiotyczny)								
 			idiotia	:	idiocy (stupidity)		tyhmyys (typeryys)	idiotyzm (głupota)								
@@ -1005,6 +1006,7 @@ eng: cut. hin: काटना /kāṭnā/. swa: -kata.			kata	:	cut	tranĉi	kat
 			katalunia	:	Catalonia	Katalunio	Katalonia	Katalonia								
 jpn:刀 (katana).			katan	:	sword	glavo	miekka	miecz					меч			
 	dex	QA	kataria	:	Qatar		Qatar	Katar								
+			kaukasia	:	Caucasia		Kaukasia									
 jpn:可愛い (kawaii). kor:카와이 (kawai). eng:kawaii.			kaway	:	cute (sweet)	ĉarma	söpö (suloinen)	uroczy, słodki								
 deu:Kasse. rus:(kassa). eng:case,cash. swa:kasha. por:caixa. spa:caja.			kax	:	cash box		kassa	pudełko, skrzynia								
 			kaxer	:	cashier		kassanhoitaja	kasjer								
@@ -2032,7 +2034,7 @@ spa:zapato. por:sapato. ind:sepatu.			sapate	:	shoe	ŝuo	kenkä	but
 ara:(sāʿa). fas:(sâ'at). ind:tur:saat. swa:saa. lin:sâ. som:saacad. scr:sat.			sate	:	moment (while, short time)		hetki (kotva)	moment								
 ind:saudara. hin:सहोदर "sahodar". ben:সহোদর "sôhodôr".			saudar	:	sibling (brother or sister)	frato aŭ fratino	sisarus (veli tai sisko)	rodzeństwo, brat lub siostra								
 	dex	SA	saudi arabia	:	Saudi Arabia		Saudi Arabia	Arabia Saudyjska								
-			sauna	:	sauna	saŭno	sauna	sauna								
+fin:deu:eng:fra:por:spa:ind:tur:sauna. rus:сауна (sauna). zho:桑拿 (sāngná). jpn:サウナ (sauna). kor:사우나 (sauna). hin:सॉना (sonā). fas:urd:(sonā). tha:ซาวน่า (saona).			saune	:	sauna	saŭno	sauna	sauna								
 fas:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).			saye	:	shadow	ombro	varjo	cień								
 	made	Sg	seaborgium	:	seaborgium	seborgio		seaborg								
 			sekreter	:	secretary		sihteeri	sekretarz								
@@ -2422,6 +2424,7 @@ fra:charnière. spa:charnela. deu:Scharnier. rus:шарнир "šarnir".			xarni
 tur:şart. ara:fas:(šart). swa:sharuti. hin:शर्त (śart).			xarte	:	condition (requirement)	kondiĉo (postulo)	vaatimus (edellytys)	warunek								
 ara:"šayṭān". hin:शैतान "śaitān". tur:şeytan. eng:Satan. spa:Satán.			xatan	:	devil (Satan)	diablo (Satano)	paholainen (saatana, piru)	diabeł, szatan								
 			xatani	:	devilish (satanic)		pirullinen	diabelski, szatański								
+hin:शतरंज (śatrañj). urd:(śatrañj). fas:(šatranj). tur:satranç. ara:(šaṭranj). swa:sataranji. tel:చతురంగము (caturaṅgamu). tam:சதுரங்கம் (caturaṅkam). ind:catur. khm:ចត្រង្គ (caʾtrɑng). por:xadrez.			xatranje	:	chess	ŝako	šakki									
 zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).			xaw	:	little (few, not many)	malmulte	vähän	niewiele (mało)	pocos	poucos	peu	少	мало	कम		
 zho:"shasha".			xaxu	:	rustle		kahista	szeleścić								
 fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. swa:chifu. jpn:チーフ (chīfu). + ara:(šeyx).			xef	:	chief (boss)	estro (ĉefulo)	päällikkö (pomo)	szef, kierownik								

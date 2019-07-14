@@ -1,6 +1,7 @@
 -a : suffix for verbs with SVO word order  
 -e : suffix for derived nouns  
 -i : suffix for adjectives  
+-ia : area of thinking or being  
 -u : suffix for verbs with OVS word order  
 ##a  
 a : but (whereas)  
@@ -161,6 +162,7 @@ barde : beard
 bari : heavy  
 barium : barium  
 barka : congratulate (bless)  
+barke! : congratulations!  
 barometal : heavy metal  
 barometer : scales (weighing device)  
 barti : Indian  
@@ -810,11 +812,10 @@ huristi : liberal
 huristia : liberalism  
 ##i  
 i : and  
-ia : area  
 ibri : Hebrew  
 ice : will (volition, desire)  
-ide : idea (concept, notion)  
-idi : conceptual  
+idey : idea (concept, notion)  
+ideyi : conceptual  
 idiote : idiot  
 idioti : stupid (idiotic)  
 idiotia : idiocy (stupidity)  
@@ -1014,6 +1015,7 @@ kata : cut
 katalunia : Catalonia  
 katan : sword  
 kataria : Qatar  
+kaukasia : Caucasia  
 kaway : cute (sweet)  
 kax : cash box  
 kaxer : cashier  
@@ -2048,7 +2050,7 @@ saroste : skull
 sate : moment (while, short time)  
 saudar : sibling (brother or sister)  
 saudi arabia : Saudi Arabia  
-sauna : sauna  
+saune : sauna  
 saye : shadow  
 seaborgium : seaborgium  
 sekreter : secretary  
@@ -2443,6 +2445,7 @@ xarta : stipulate
 xarte : condition (requirement)  
 xatan : devil (Satan)  
 xatani : devilish (satanic)  
+xatranje : chess  
 xaw : little (few, not many)  
 xaxu : rustle  
 xef : chief (boss)  

@@ -1,6 +1,7 @@
 -a : -i (-igi)  
 -e : -o (-aĵo)  
 -i : -a (-e)  
+-ia : ejo (ujo, io)  
 -u : -i (-iĝi)  
 ##a  
 a : sed  
@@ -625,10 +626,9 @@ huri : libera
 huria : libereco  
 ##i  
 i : kaj  
-ia : ejo (ujo, io)  
 ibri : Hebrea  
 ice : voli  
-ide : ideo  
+idey : ideo  
 importi : grava  
 importu : gravi  
 inde : eno  
@@ -1221,7 +1221,7 @@ sapate : ŝuo
 sapater : ŝuisto  
 sapateria : ŝuistejo  
 saudar : frato aŭ fratino  
-sauna : saŭno  
+saune : saŭno  
 saye : ombro  
 seaborgium : seborgio  
 sekse : sekso  
@@ -1406,6 +1406,7 @@ xarme : honto
 xarnir : ĉarniro (pivoto)  
 xarte : kondiĉo (postulo)  
 xatan : diablo (Satano)  
+xatranje : ŝako  
 xaw : malmulte  
 xef : estro (ĉefulo)  
 xefi minister : ĉefministro  
