@@ -760,25 +760,35 @@ phrase with and without **da** can mean a different thing.
 
 Also relative clauses are created with help of the modifier particles.
 
-Here **du** has a similar role as English relative pronouns _which_,
-_that_, _who_ and _whom_.
+**le si man du me wida.**
+= He is the man that I saw.
 
-**le si man _du me wida_.** - He is the man _that I saw_.
+Although **du** seems to have a similar role here as English relative pronouns
+_which_, _that_, _who_ and _whom_, it's still nothing more than a particle
+connecting a modifier (a verb phrase) to a modified. It's inseparable from the
+modified noun, and does not have a back-referring relation to it. Instead, the
+main-clause noun is implied within the relative clause right after the particle.
 
-If the relative clause is missing a subject but contains an object
-(i.e. if the verb is transitive), the main-clause noun is the implied
-subject of the relative clause.
+With **da**, it's possible to construct relative clauses that precede the
+modified noun. (The main-clause noun is implied right before the particle.)
 
-**me wida man _du niama aple_.** - I see a man _who eats apples_.  
+**buke dugu da ren sa kamar.**
+= The book-reading person is in the room.  
+**le duga da buke sa meze.**
+= The book, that he/she reads, is on the table.
 
-It's possible to construct relative clauses with **da** too. Then the
-relative clause precedes the noun that it modifies. The verb is turned
-into a modifier by putting **da** immediately after the verb.
+The modified noun can be part of an adpositional phrase too.
 
-**me wida _aple niamu da_ man.** - I see an _apple-eating_ man.
+**me safara pa da site si teli.**
+= My destination city is far away.
 
-**buke dugu da ren sa kamar.** = The book-reading person is in the room.  
-**le duga da buke sa meze.** = The book, that he/she reads, is on the table.
+With the modified noun at the beginning, we need to call into action the
+otherwise rarely used postpositions **nu**, **yu**, **su**, and **pu**.
+
+**site du pu me safara si teli.**
+= The city I’m traveling to is far away.  
+**ci kalam du su me zay kitaba si nowi.**
+= This pen, with which I’m writing now, is new.
 
 ### 9.3. Modal Particles
 
