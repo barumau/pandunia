@@ -45,9 +45,9 @@ These are the 11 basic rules of Pandunia language.
    vowel **-o-** is inserted between the elements.
     - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
 6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **me nyama pang.** = I eat bread.
+    - ex. **me niama pang.** = I eat bread.
 7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **pang nyamu.** = The bread is eaten.
+    - ex. **pang niamu.** = The bread is eaten.
 8. The verbs do not change for person or number.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
@@ -326,9 +326,9 @@ A verb denotes an action or an occurence, ex. to eat, to speak, to
 look and to think.
 
 Pandunia has two types of verb: verbs that end in **-a** and verbs
-that end in **-u**. The endings decide the order of the other
-constituents (subject and object) in the sentence. So the sentence
-structure depends on the type of the verb.
+that end in **-u**. The endings decide the order of the agent and the
+object in the sentence. So the sentence structure depends on the type
+of the verb.
 
 #### 6.2. Verbs that end in -a
 
@@ -338,48 +338,48 @@ Verbs that end in **-a** use this triangular pattern.
     
       V
      ↗ ↘
-    S ← O
+    A ← O
 
-#### 6.2.1. SVO order
+#### 6.2.1. AVO order
 
-The most common word order in Pandunia is subject-verb-object (SVO).
-In this sentence structure the subject comes first, the verb second,
+The most common word order in Pandunia is agent-verb-object (AVO).
+In this sentence structure the agent comes first, the verb second,
 and the object third.
 
-    subject-verb-object
+    agent-verb-object
     
       V
      ↗ ↘
-    S   O
+    A   O
 
 Examples:  
 **me wida lole.** - I see them.  
 **te beka pang.** - You bake bread.  
 
-#### 6.2.2. OSV order
+#### 6.2.2. OAV order
 
 The second structure in this triangle is OSV. It is frequent in
 dependant clauses.
 
-    object-subject-verb
+    object-agent-verb
     
       V
      ↗ 
-    S ← O
+    A ← O
 
 Examples:  
 **ke te wida?** - What do you see?  
-**me nyama pang, du te beka.** - I eat bread _that you baked._
+**me niama pang, du te beka.** - I eat bread _that you baked._
 
-#### 6.2.3. VOS order
+#### 6.2.3. VOA order
 
-The third structure of this triangle is VOS, which is rarely used.
+The third structure of this triangle is VOA, which is rarely used.
 
-    verb-object-subject
+    verb-object-agent
     
       V
        ↘
-    S ← O
+    A ← O
 
 #### 6.3. Verbs that end in -u
 
@@ -389,54 +389,53 @@ Verbs that end in **-u** use this triangular pattern.
     
       V
      ↗ ↘
-    O ← S
+    O ← A
 
-#### 6.3.1. SOV order
+#### 6.3.1. AOV order
 
-SOV order is commonly used alternative for SVO order.
+AOV order is commonly used alternative for AVO order.
 
-    subject-object-verb
+    agent-object-verb
     
       V
      ↗ 
-    O ← S
+    O ← A
 
 Examples:  
 **me lole widu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
-#### 6.3.2. OVS order
+#### 6.3.2. OVA order
 
-OVS order is common in "passive" sentences.
+OVA order is common in "passive" sentences.
 
-    object-verb-subject
+    object-verb-agent
     
       V
      ↗ ↘
-    O   S
+    O   A
 
 Examples:  
 **pang beku te.** - Bread is baked by you.  
 **te suku me.** - You are pleased by me.
 
-#### 6.3.3. VSO order
+#### 6.3.3. VAO order
 
-VSO order is very rare but possible.
+VAO order is very rare but possible.
 
-    verb-subject-object
+    verb-agent-object
     
       V
        ↘
-    O ← S
+    O ← A
 
 ### 6.3. Passive sentences
 
-In passive sentence there is only object and verb but no subject (i.e.
-agent).
+In passive sentence there is only object and verb but no agent.
 
-> **me widu.** - I am seen.  
-> **pang beku.** - Bread is baked.  
-> **kupe kaputu.** - Cup breaks. (Cup gets broken.)
+**me widu.** - I am seen.  
+**pang beku.** - Bread is baked.  
+**kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 ### 6.4. Verb endings
 
@@ -451,8 +450,8 @@ All verbs end in **-a** or **-u**.
 Observations are the simplest sentence type. They may consist of only
 one word, which draws the listener's attention to it.
 
-> **maw!** - A cat!  
-> **barxa!** - (It) rains!  
+**maw!** - A cat!  
+**barxa!** - (It) rains!
 
 ### 7.2. Stative Sentences
 
@@ -516,19 +515,21 @@ In predicates of action, the main word in the predicate is a verb
 all of them end in **-a** or **-u**.
 
 Active sentences that use a verb ending in **-a** have the
-subject–verb–object word order (SVO).
+agent–verb–object word order (AVO).
 
-**me nyama aple.** - I eat apples.  
+**me niama aple.** - I eat apples.  
 **me auda musike.** - I hear music.  
 **me wida te.** - I see you.
 
-Verbs ending in **-u** are used in the subject–object–verb word order
-(SOV).
+Verbs ending in **-u** are used in the agent–object–verb word order
+(AOV).
 
-**me aple nyamu.** - _I apples eat._
+**me aple niamu.** - _I apples eat._
 
-SOV and SVO are the two most common word orders by far in the
-languages of the world. SOV is used in languages like Hindi-Urdu,
+Agent–verb–object and agent–object–verb are basically the same as
+subject–verb–object (SVO) and subject–object–verb (SOV) word orders,
+which are the two most common word orders in the
+languages of the world. SOV is used in languages like Hindi-Urdu, Bengali,
 Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish,
 Mandarin Chinese, Indonesian and Modern Arabic among others.
 
@@ -536,7 +537,7 @@ Mandarin Chinese, Indonesian and Modern Arabic among others.
 
 #### 7.4.1. OV order
 
-In the passive voice there is no agent subject in the sentence. There
+In the passive voice there is no agent in the sentence. There
 is only the object and the verb. Normally the passive is expressed
 with object–verb (OV) word order with the verb ending in **-u**.
 
@@ -563,30 +564,30 @@ In verb–object (VO) order the focus is on the verb.
 
 ### 7.5. All Possible Word Orders
 
-There are six possible word orders for the transitive sentence. In
+There are six possible word orders for transitive sentences. In
 practice, all of them are possible in Pandunia. They are made possible
-by the two verb endings, which decide the order of the other
-constituents (subject and object).
+by the two verb endings, which decide the order of the agent and the
+object.
 
-Different orders put the focus on different constituents: the subject,
+Different orders put the focus on different constituents: the agent,
 the object or the verb. The focus or emphasis is on the first part of
 a sentence.
 
     1. With the verb ending in -a
-        - object–subject–verb (OSV) : musike me auda.
-        - subject–verb–object (SVO) :        me auda musike.
-        - verb–object–subject (VOS) :           auda musike me.
+        - object–agent–verb (OAV) : musike me auda.
+        - agent–verb–object (AVO) :        me auda musike.
+        - verb–object–agent (VOA) :           auda musike me.
     2. With the verb ending in -u
-        - subject-object-verb (SOV) : me musike audu.
-        - object-verb-subject (OVS) :    musike audu me.
-        - verb-subject-object (VSO) :           audu me musike.
+        - agent-object-verb (AOV) : me musike audu.
+        - object-verb-agent (OVA) :    musike audu me.
+        - verb-agent-object (VAO) :           audu me musike.
 
 The constituent, which is further away from the verb, can be left out.
-So for example **musike me auda** (OSV) can be truncated to **me
-auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
+So for example **musike me auda** (OAV) can be truncated to **me
+auda** (SV). Likewise **me musike audu** (AOV) can be truncated to
 **musike audu** (OV).
 
-The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
+The typical word orders in everyday Pandunia are AVO, AOV and OAV. The
 other word orders can be heard in poetry and in other forms of
 literary language.
 
@@ -600,11 +601,11 @@ In the _pivot structure_ the word order is:  subject – verb 1 – object
 Object 1 functions has dual role. It is at the same time the object
 for verb 1 and the subject for verb 2.
 
-**me wanta te nyama sabze.** - I want you eat vegetables.
+**me wanta te niama sabze.** - I want you eat vegetables.
 
 In the example above, **me wanta** has **te** as its object. At the same
 time, **te** functions as the subject of the following predicate,
-**nyama sabze**. So **te** is the _pivot_ of the entire sentence.
+**niama sabze**. So **te** is the _pivot_ of the entire sentence.
 
 ### 7.7. Serial verbs
 
@@ -768,13 +769,13 @@ If the relative clause is missing a subject but contains an object
 (i.e. if the verb is transitive), the main-clause noun is the implied
 subject of the relative clause.
 
-**me wida man _du nyama aple_.** - I see a man _who eats apples_.  
+**me wida man _du niama aple_.** - I see a man _who eats apples_.  
 
 It's possible to construct relative clauses with **da** too. Then the
 relative clause precedes the noun that it modifies. The verb is turned
 into a modifier by putting **da** immediately after the verb.
 
-**me wida _aple nyamu da_ man.** - I see an _apple-eating_ man.
+**me wida _aple niamu da_ man.** - I see an _apple-eating_ man.
 
 **buke dugu da ren sa kamar.** = The book-reading person is in the room.  
 **le duga da buke sa meze.** = The book, that he/she reads, is on the table.
@@ -793,10 +794,10 @@ sentence.
 The particle **plus** _(also)_ is a good example because it functions
 much like in English.
 
-**le nyama bir plus.** - S/he drinks beer, _also_.  
-**le nyama plus bir.** - S/he drinks _also beer_.  
-**le plus nyama bir.** - S/he _also drinks_ beer.  
-**plus le nyama bir.** - _Also s/he_ drinks beer.
+**le niama bir plus.** - S/he drinks beer, _also_.  
+**le niama plus bir.** - S/he drinks _also beer_.  
+**le plus niama bir.** - S/he _also drinks_ beer.  
+**plus le niama bir.** - _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
