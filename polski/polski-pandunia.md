@@ -1879,7 +1879,7 @@ sosna : song
 spadek, dziedzictwo, spuścizna, zapis : waris  
 spalić, palić : jala  
 spać : soni  
-specjalny, wyraźny, wyrazisty : has  
+specjalny, wyraźny, wyrazisty : hasi  
 spis treści (tabela zawartości) : tenoliste  
 spocony : suedi  
 spodnie, pantalony, portki : pantalon  

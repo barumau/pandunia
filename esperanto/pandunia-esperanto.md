@@ -581,7 +581,7 @@ harabi : ruinigita
 harfe : litero  
 harmoni : harmonia  
 harmonia : harmonio  
-has : speciala  
+hasi : speciala  
 hasium : hasio  
 hatar : danĝero  
 hatari : danĝera  

@@ -345,7 +345,7 @@ harabi ← ara:fas:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:�
 haram ← ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:хара́мный (xaramniy).  
 harfe ← ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
 harnes ← fra:harnais. eng:harness. spa:arnés. por:arnês.  
-has ← ind: khas.  
+hasi ← ara:(xāṣṣ). fas:urd:(xās). ind:ख़ास (xās). ind:khas.  
 hatar ← ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.  
 hati ← por:até. ara:"ḥatta". spa:hasta. swa:hata.  
 hawe ← hin:हवा (havā). urd:(havā). pnb:ਹਵਾ (hawā). + ara:(hawāʾ). fas:(havā). tur:hava. ind:hawa. som:hawo. swa:hewa. ben:হাওয়া (haowa).  

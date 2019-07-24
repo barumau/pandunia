@@ -29,6 +29,7 @@ again (repeatedly) : repi
 age : aje  
 aggressive : agresi  
 agile : ajil  
+agoraphobia : maidanofobia  
 air : air  
 air force : airolaskeria  
 airplane : wiman  
@@ -51,6 +52,7 @@ altar : altar
 aluminium : alumin  
 always : pan zaman  
 ambassador : daixer  
+ambiguous : polomeni  
 America (continent) : amerike  
 American : ameriki  
 American Samoa : usameriki samoa  
@@ -87,6 +89,7 @@ appearance (looks) : rupe
 apple : aple  
 application : aplike  
 apply (put to use for a purpose) : aplika  
+approach (get near) : karbu  
 April : mes 4 (mes car)  
 Arabic : arabi  
 arachnophobia : aranofobia  
@@ -618,6 +621,8 @@ dharma (piety) : darme
 diamond : almas  
 die (dice) : dade  
 die : mortu  
+difference : alosifia  
+different : alosifi  
 dig (excavate) : fosa  
 dining room : niamokamar  
 dinner : xamoniam  
@@ -627,6 +632,8 @@ discussion (debate, discourse) : lon
 dish : tas  
 disperse : jamula  
 distance : tel  
+distinction (specialty) : hasia  
+distinguish : hasa  
 divide (to partition) : fena  
 divine (godly) : dewi  
 Djibouti : jibutia  
@@ -646,6 +653,7 @@ dominoes : dominogem
 donkey (ass) : gade  
 door (gate, portal) : mun  
 dot (spot) : binde  
+double entendre : dulomeni  
 doubt (disbelief) : dute  
 dragonfly : libel  
 drama : drame  
@@ -784,6 +792,7 @@ feel (sense by touch) : senta
 feel : gama  
 female : fem  
 fermium : fermium  
+field (square, plaza) : maidan  
 fiever : febre  
 fight (war, battle, combat) : jeng  
 figure (representation) : figur  
@@ -844,6 +853,7 @@ free (unchained) : huri
 freedom (liberty) : huria  
 French Guiana : giyan  
 French Polynesia : fransi polinesia  
+frequency : cangia  
 fresh : tazi  
 Friday : war 5 (war lim)  
 friend : doste  
@@ -1358,6 +1368,7 @@ mean (cruel) : zalim
 mean (medium, average) : medi  
 mean (signify) : mena  
 meaning (signification) : mene  
+meanwhile : sa dur  
 measure (take measurements) : meta  
 measurement : mete  
 meat (flesh) : manse  
@@ -1563,6 +1574,7 @@ one (1) : un
 onion : piaze  
 only (alone, solely, just) : mon  
 open (not closed) : kay  
+open (wide, spacious) : maidani  
 open : kaya  
 opinion (view) : ray  
 opponent (antagonist) : anter  
@@ -1590,6 +1602,7 @@ other : ali
 Ottoman : osman  
 Ottoman Empire : osmania  
 ouch (ow, alas) : ay  
+oust (expel) : waya  
 outcast (pariah) : paraye  
 outer (external) : way  
 outside (exterior) : waye  
@@ -2121,7 +2134,7 @@ South Sudan : sudi sudan
 space (cosmos, universe) : kosmia  
 Spain : espania  
 speak (communicate) : baxa  
-special (distinct) : has  
+special (distinct) : hasi  
 species : jong  
 speech (word) : loge  
 speed (velocity) : rape  
@@ -2134,7 +2147,6 @@ split (fall apart) : fenu
 spoon : camce  
 sport (athletics) : kel  
 spring (springtime) : cune  
-square (plaza) : maidan  
 square (tetragon) : carokon  
 squirrel : tupay  
 Sranan Tongo : surinami bax  
@@ -2344,6 +2356,7 @@ transit (pass through or across) : transa
 transit (passage) : trans  
 translate (interpret) : tarja  
 translation (interpretation) : tarje  
+transportation : transeria  
 travel (voyage, trip) : safar  
 travel : safara  
 traveler : safarer  
@@ -2379,6 +2392,7 @@ tyrant : tiran
 Uganda : gandia  
 ugly : mal rupi  
 Ukraine : ukraina  
+unambiguous : unomeni  
 uncover (reveal) : dekula  
 under (go under) : nica  
 undergo (passivizing verb) : beyu  
@@ -2389,6 +2403,7 @@ unite : una
 united : uni  
 United Kingdom : britania  
 United States of America : usamerike  
+university : dayodarsia  
 unplug (uncork) : tapula  
 upper : supri  
 uranium : uranium  

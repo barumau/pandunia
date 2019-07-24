@@ -18,6 +18,7 @@ Afrikka : afrike
 afrikkalainen : afriki  
 afrofiili : afrikofiler  
 afrofilia : afrikofilia  
+agorafobia (avoimen paikan kammo) : maidanofobia  
 Ahvenanmaa (Oolanti) : olandia  
 ai! (au!) : ay  
 aihe (teema) : tem  
@@ -25,6 +26,7 @@ aiheesta (-sta) : tema
 aiheuttaa : saba  
 aiheutua (koska, syystä, takia) : sa sabu  
 aikakausi : zaman  
+aikana (kestäessä) : sa dur  
 aikuinen : adulte  
 aina : pan zaman  
 aine (materia) : mate  
@@ -132,6 +134,7 @@ auto (automobiili) : motokar
 autonominen : autonomi  
 auttaa (avustaa) : helpa  
 avain : cabe  
+avara (aava) : maidani  
 avaruus (kosmos) : kosmia  
 avioliitto : maria  
 avokado : awakate  
@@ -249,9 +252,13 @@ epäilys : dute
 epäonni : mal zar  
 epäonnistuminen : xibay  
 erbium : erbium  
-erikoinen (erityinen) : has  
+erikoinen (erityinen) : hasi  
+erikoisuus : hasia  
+erilainen : alosifi  
+erilaisuus (ero) : alosifia  
 Eris (kääpiöplaneetta) : eris  
 Eritrea : eritria  
+erottaa (nähdä ero) : hasa  
 erä (satsi) : lote  
 eräs (muuan, joku, jokin) : fulani  
 esimerkki : misal  
@@ -625,6 +632,7 @@ kaiku : mirosonde
 kaivaa : fosa  
 kakku (keksi) : keke  
 kaksi (2) : dul  
+kaksimielinen (kaksimerkityksinen) : dulomeni  
 kaksois- (duaalinen) : duli  
 kala : fix  
 kalifaatti : halifia  
@@ -868,6 +876,7 @@ kukka : pul
 kukkaruukku : pulowaze  
 kukkia : pula  
 kulho : wan  
+kuljetus : transeria  
 kulkea poikki, läpi tai yli : transa  
 kulma (nurkka) : kon  
 kulmamitta (goniometri) : konometer  
@@ -1088,6 +1097,7 @@ lypsää maitoa : tira milke
 lyödä (iskeä) : darba  
 lähde (kaivo) : fonte  
 läheinen : karbi  
+lähestyä : karbu  
 lähettiläs : daixer  
 lähettäjä (lähetin) : miser  
 lähettää : misa  
@@ -1256,6 +1266,7 @@ Mongolia : mongolia
 moni- (poly-, multi-) : poli  
 monijumalisuus (panteismi) : panodewistia  
 monikulmio (polygoni) : polokon  
+monimerkityksinen : polomeni  
 monismi : monistia  
 monitahokas : polofas  
 monoteismi (yksijumalisuus) : monodewistia  
@@ -1618,6 +1629,7 @@ pohjoinen : nordi
 pohtia (meditoida) : medita  
 poika (nuori mies) : jowan man  
 poika : mani ban  
+poistaa : waya  
 poistua : cuta  
 poistuminen : cute  
 pokeri : poke  
@@ -2024,6 +2036,7 @@ sää : tenke
 sääty (kasti) : jenoklas  
 söpö (suloinen) : kaway  
 ##t  
+taajuus (tiheys) : cangia  
 taas (uudestaan) : repi  
 taateli : tamar  
 Tadžikistan : tajikia  
@@ -2459,6 +2472,7 @@ yhteiskunnallinen (sosiaalinen) : soci
 yhteisö (kokoontuminen, kollektiivi) : jamia  
 yhtenäinen : uni  
 yksi : un  
+yksimerkityksinen : unomeni  
 yksinkertainen (mutkaton) : simpli  
 yksinpuhelu (monologi) : monologe  
 yksinvaltius (autokratia, monarkia) : monokratia  
@@ -2466,6 +2480,7 @@ yksityiskohta (detalji) : detal
 yksivärinen : monorangi  
 yleinen (universaali) : putong  
 yleiskiina (mandariinikiina) : putong cini  
+yliopisto : dayodarsia  
 ylistää : halela  
 ylittää (yllä, päällä) : supra  
 ylitys : supre  

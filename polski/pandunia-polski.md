@@ -742,7 +742,7 @@ harfe : litera, znak
 harmoni : harmoniczny  
 harmonia : harmonia  
 harnes : zaprzęc, zaprzęgać  
-has : specjalny, wyraźny, wyrazisty  
+hasi : specjalny, wyraźny, wyrazisty  
 hasium : has  
 hatar : zagrożenie, niebezpieczeństwo  
 hatari : niebezpieczny  

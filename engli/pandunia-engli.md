@@ -48,6 +48,8 @@ almas : diamond
 alofone : allophone  
 alojinsokami : heterosexual  
 alonami : that is (in other words, i.e., alias)  
+alosifi : different  
+alosifia : difference  
 altar : altar  
 alumin : aluminium  
 ama : love (to be in love with)  
@@ -299,6 +301,7 @@ cakre : wheel
 camce : spoon  
 campion : champion  
 cang : often (frequently)  
+cangia : frequency  
 canse : opportunity (chance)  
 canta : sing  
 cante : song  
@@ -383,6 +386,7 @@ daw : way (road)
 dawiste : Taoist  
 dawistia : Taoism (Daoism)  
 day : big (greatly)  
+dayodarsia : university  
 dayosamude : ocean  
 dayu : grow (get bigger)  
 deci : deci-  
@@ -457,6 +461,7 @@ dul u tin : a couple of
 dul : two (2)  
 duli : dual (double)  
 dulistia : dualism  
+dulomeni : double entendre  
 dum : tail  
 duman : smoke  
 duni : global  
@@ -756,7 +761,9 @@ harfe : letter (character, written symbol)
 harmoni : harmonius  
 harmonia : harmony  
 harnes : harness  
-has : special (distinct)  
+hasa : distinguish  
+hasi : special (distinct)  
+hasia : distinction (specialty)  
 hasium : hassium  
 hatar : danger (peril)  
 hatari : dangerous  
@@ -996,6 +1003,7 @@ karate : karate
 karawe : caraway  
 karbi : near (close)  
 karbon : carbon (coal)  
+karbu : approach (get near)  
 karde : card  
 karibia : Caribbean  
 karite : shea  
@@ -1292,7 +1300,9 @@ magnes : magnesium
 magnete : magnet  
 magneti : magnetic  
 magribia : Morocco  
-maidan : square (plaza)  
+maidan : field (square, plaza)  
+maidani : open (wide, spacious)  
+maidanofobia : agoraphobia  
 mais : corn (maize)  
 maitnerium : meitnerium  
 makale : article (writing)  
@@ -1814,6 +1824,7 @@ politikolojia : politocology
 polodewistia : polytheism  
 polofas : polyhedron  
 polokon : polygon  
+polomeni : ambiguous  
 polon : polonium  
 polski : Polish  
 polskia : Poland  
@@ -1980,6 +1991,7 @@ ruterfordium : rutherfordium
 rutin : routine (habit)  
 ##s  
 sa ce : here (there)  
+sa dur : meanwhile  
 sa ke : where  
 sa loke du : instead of  
 sa sabu : because  
@@ -2295,6 +2307,7 @@ totol : turkey
 towal : towel  
 trans : transit (passage)  
 transa : transit (pass through or across)  
+transeria : transportation  
 tren : train  
 trenodaw : railway (railroad)  
 trenokaper : train hijacker  
@@ -2332,6 +2345,7 @@ unale : each other (one another, mutually)
 unali : mutual  
 uni : united  
 unia : union  
+unomeni : unambiguous  
 ura : cheer (hurrah, hooray)  
 uran : Uranus  
 uranium : uranium  
@@ -2380,6 +2394,7 @@ waxomaxin : washing machine
 way dexi : foreign  
 way dexia : foreign country  
 way : outer (external)  
+waya : oust (expel)  
 waye : outside (exterior)  
 waze : pot (vase, bin, jar, jug)  
 wejan : vegan  

@@ -11,12 +11,12 @@
 | rusi | 251 |
 | turki | 208 |
 | cini | 187 |
-| arabi | 172 |
+| arabi | 173 |
 | indonesi | 168 |
 | niponi | 167 |
 | doici | 165 |
-| farsi | 153 |
-| urdi | 132 |
+| farsi | 154 |
+| urdi | 133 |
 | swahili | 130 |
 | hangugi | 128 |
 | bangli | 104 |

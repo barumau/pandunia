@@ -1210,7 +1210,7 @@ sofo : sofah
 soldato : lasker  
 somero : lete  
 sono : sonde  
-speciala : has  
+speciala : hasi  
 speco (tipo, stilo) : yang  
 speguli : mira  
 spegulo : mirer  

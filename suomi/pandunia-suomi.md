@@ -48,6 +48,8 @@ almas : timantti
 alofone : allofoni (vaihtoehtoinen ääntämys)  
 alojinsokami : heteroseksuaali  
 alonami : eli (toisin sanoen)  
+alosifi : erilainen  
+alosifia : erilaisuus (ero)  
 altar : alttari  
 alumin : alumiini  
 ama : rakastaa (pitää, tykätä)  
@@ -297,6 +299,7 @@ cakre : ratas
 camce : lusikka  
 campion : mestari (voittaja)  
 cang : usein  
+cangia : taajuus (tiheys)  
 canse : mahdollisuus (tilaisuus)  
 canta : laulaa  
 cante : laulu  
@@ -381,6 +384,7 @@ daw : tie
 dawiste : taolainen  
 dawistia : taolaisuus  
 day : iso (suuri; isosti, paljon)  
+dayodarsia : yliopisto  
 dayosamude : valtameri  
 dayu : kasvaa (suurentua)  
 deci : desi  
@@ -456,6 +460,7 @@ dul u tin : muutama (pari-kolme)
 dul : kaksi (2)  
 duli : kaksois- (duaalinen)  
 dulistia : dualismi  
+dulomeni : kaksimielinen (kaksimerkityksinen)  
 dum : häntä  
 duman : savu  
 duni : maailman-  
@@ -755,7 +760,9 @@ harfe : kirjain
 harmoni : harmoninen  
 harmonia : harmonia  
 harnes : valjaat  
-has : erikoinen (erityinen)  
+hasa : erottaa (nähdä ero)  
+hasi : erikoinen (erityinen)  
+hasia : erikoisuus  
 hasium : hasium  
 hatar : vaara  
 hatari : vaarallinen  
@@ -995,6 +1002,7 @@ karate : karate
 karawe : kumina  
 karbi : läheinen  
 karbon : hiili  
+karbu : lähestyä  
 karde : kortti  
 karibia : Karibia  
 karite : voipuu  
@@ -1292,6 +1300,8 @@ magnete : magneetti
 magneti : magneettinen  
 magribia : Marokko  
 maidan : kenttä (aukio)  
+maidani : avara (aava)  
+maidanofobia : agorafobia (avoimen paikan kammo)  
 mais : maissi  
 maitnerium : meitnerium  
 makale : artikkeli (kirjoitus)  
@@ -1812,6 +1822,7 @@ politikolojia : politiikantutkimus
 polodewistia : polyteismi (monijumalisuus)  
 polofas : monitahokas  
 polokon : monikulmio (polygoni)  
+polomeni : monimerkityksinen  
 polon : polonium  
 polski : puolalainen  
 polskia : puola  
@@ -1974,6 +1985,7 @@ rute : polku (reitti, kurssi)
 rutin : tapa (rutiini)  
 ##s  
 sa ce : täällä (tuolla)  
+sa dur : aikana (kestäessä)  
 sa ke : missä?  
 sa loke du : sijasta (tilalta)  
 sa sabu : aiheutua (koska, syystä, takia)  
@@ -2262,6 +2274,7 @@ totol : kalkkuna
 towal : pyyhe  
 trans : läpikulku  
 transa : kulkea poikki, läpi tai yli  
+transeria : kuljetus  
 tren : juna  
 trenodaw : junarata (rautatie)  
 trenokaper : junakaappari  
@@ -2298,6 +2311,7 @@ unale : toisiaan (keskenään)
 unali : molemminpuolinen (keskinäinen)  
 uni : yhtenäinen  
 unia : liitto (unioni)  
+unomeni : yksimerkityksinen  
 ura : hurraa (hurrata)  
 uran : Uranus  
 uranium : uraani  
@@ -2343,6 +2357,7 @@ waxomaxin : pesukone
 way dexi : ulkomaalainen  
 way dexia : ulkomaa  
 way : ulko- (ulkoinen)  
+waya : poistaa  
 waye : ulkopuoli  
 waze : ruukku (maljakko, vaasi)  
 wejan : vegaani  
