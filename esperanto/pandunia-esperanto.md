@@ -75,6 +75,7 @@ are : areo
 argentin : Argentino  
 argon : argono  
 aria : ejo  
+arize : rizo  
 arme : armilo  
 arsen : arseno  
 arte : arto  
@@ -164,7 +165,6 @@ benda : ligi
 bende : bandaĝo (vindo)  
 benzin : benzino  
 berande : verando  
-berdi : verda  
 berete : bereto  
 beril : berilio  
 berkelium : berkelio  
@@ -583,9 +583,9 @@ harmoni : harmonia
 harmonia : harmonio  
 hasi : speciala  
 hasium : hasio  
-hatar : danĝero  
-hatari : danĝera  
 hati : eĉ  
+hatre : danĝero  
+hatri : danĝera  
 hawa : venti  
 hawe : vento  
 hay : ankoraŭ  
@@ -739,6 +739,7 @@ karbon : karbono
 karde : karto  
 karibia : Karibio  
 karme : konduto (karmo)  
+karmesi : ruĝa  
 karote : karoto  
 karwan : karavano  
 kastan : kaŝtano  
@@ -1009,7 +1010,7 @@ nida : bezoni
 nijer : Niĝero  
 nikaragia : Nikaragvo  
 nikel : nikelo  
-nil : blua  
+nili : blua  
 nilon : nilono  
 ninde : insulto  
 niobium : niobo  
@@ -1160,6 +1161,7 @@ repi : denove (ripete)
 restoran : restaŭracio  
 rezin : rezino  
 riske : risko  
+riski : riska  
 robote : roboto  
 rodium : rodio  
 rola : ludi rolon  
@@ -1182,12 +1184,14 @@ sa loke du : anstataŭ
 sa sabu : ĉar (pro ke)  
 sabe : kialo  
 sabun : sapo  
+sabzi : verda  
 safa : purigi  
 safar : vojaĝo  
 safara : vojaĝi  
 safarer : vojaĝanto  
 safer : purigisto  
 safi : pura  
+safran : safrano  
 saga : rakonti  
 sage : rakonto  
 saha : pravigi  
@@ -1443,7 +1447,6 @@ yumoriste : humuristo
 yuterbium : iterbio  
 yutrium : itrio  
 ##z  
-zafran : safrano  
 zaitun : olivo  
 zambia : Zambio  
 zar : hazardo  

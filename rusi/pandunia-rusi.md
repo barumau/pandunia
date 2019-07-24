@@ -30,6 +30,7 @@ aranje : апельсин
 arbe : дерево  
 arbuze : арбуз  
 are : площадь  
+arize : рис  
 arte : искусство  
 asan : поза  
 asle : начало (причина)  
@@ -126,6 +127,8 @@ pote : болото
 rim : рифма  
 ruhe : душа (дух)  
 ##s  
+sabze : зелень  
+safran : шафран  
 sal : соль  
 samoray  согласие  
 samude : море   
@@ -174,7 +177,6 @@ yode : йод
 yoge : йога  
 yumor : юмор  
 ##z  
-zafran : шафран  
 zaman : период (эпоха)   
 zambia : Замбия  
 zardux : Зороастр  

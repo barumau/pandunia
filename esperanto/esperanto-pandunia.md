@@ -159,7 +159,7 @@ Birmo : mianmia
 biskvito (kuketo) : biskute  
 bismuto : bismute  
 blanka : bay  
-blua : nil  
+blua : nili  
 bobelo : bubul  
 bojkoto : boikote  
 boli : bulu  
@@ -217,8 +217,8 @@ danco : danse
 Danio : dania  
 danki : danka  
 danko : danke  
-danĝera : hatari  
-danĝero : hatar  
+danĝera : hatri  
+danĝero : hatre  
 dato : nenomesoden  
 datumbanko : datobanke  
 datumo : date  
@@ -1127,8 +1127,10 @@ riparisto : xuler
 riparo : xule  
 ripetado : repe  
 ripeti (refari) : repa  
+riska : riski  
 risko : riske  
 rivero : nade  
+rizo : arize  
 robo : tunike  
 roboto : robote  
 rodio : rodium  
@@ -1140,9 +1142,10 @@ ruinigita : harabi
 rutenio : rutenium  
 ruterfordio : ruterfordium  
 rutino (kutimo) : rutin  
+ruĝa : karmesi  
 ##s  
 sablo : rege  
-safrano : zafran  
+safrano : safran  
 saga : sofia  
 sala : sali  
 salo : sal  
@@ -1351,7 +1354,7 @@ ventumilo : panke
 vera : weri  
 verando : berande  
 verbo : fatolekse  
-verda : berdi  
+verda : sabzi  
 versio (toisinto) : wersion  
 vespermanĝo : xamoniam  
 vespero : xam  

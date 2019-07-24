@@ -1186,8 +1186,8 @@ nic, żadna rzecz : nol xey
 nie : ni  
 nie ruszać się : estasa  
 niebezpieczeństwo, ryzyko, szansa : zar  
-niebezpieczny : hatari  
-niebieski : nil  
+niebezpieczny : hatri  
+niebieski : nili  
 niebieski, niebiański, podniebny : samani  
 niebo : saman  
 niech my, hajda : haida  
@@ -1769,7 +1769,7 @@ rytm, bit : ritme
 rytuał, ceremonia, ryt : rite  
 ryzyko : riske  
 ryzykowny : riski  
-ryż : ris  
+ryż : arize  
 rzecz : xey  
 rzeczownik : namolekse  
 rzeka : nade  
@@ -1948,7 +1948,7 @@ syrop : xirope
 system : sistem  
 systemowy : sistemi  
 szabat, szabas : sabate  
-szafran : zafran  
+szafran : safran  
 szakal : xakal  
 szal, szalik : xal  
 szaleństwo : folia  
@@ -2357,7 +2357,7 @@ zachód : weste
 zacząć, zaczynać : mula  
 zagranica : way dexia  
 zagraniczny : way dexi  
-zagrożenie, niebezpieczeństwo : hatar  
+zagrożenie, niebezpieczeństwo : hatre  
 zainteresowanie, zaciekawienie; interesujący : interes  
 zajęty : bizi  
 zakomunikować (zanieść wieści, poinformować) : mesaja  
@@ -2411,7 +2411,7 @@ zero, nic, żaden : nol
 zespół (drużyna, grupa) : bande  
 zewnętrzny : way  
 ziarno, nasienie : dan  
-zielony : berdi  
+zielony : sabzi  
 Ziemia : zemia  
 ziemia, grunt, gleba : zem  
 ziemniak : patate  
@@ -2511,5 +2511,5 @@ zły, zrujnowany, zepsuty : harabi
 żyrafa : jiraf  
 żywica : rezin  
 żyć (żywy, żyjący) : jiwi  
-żółty : wang  
+żółty : safrani  
 żółw : tortuge  

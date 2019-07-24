@@ -355,6 +355,7 @@ happi : okse
 harja : brox  
 harjoitella (treenata) : lenxa  
 harjoitus : lenxe  
+harmaa : huyi  
 harmonia : harmonia  
 harmoninen : harmoni  
 harrastus : hobe  
@@ -713,7 +714,7 @@ keitto (soppa) : supe
 keittää (kiehuttaa) : bula  
 keksi (pikkuleipä) : biskute  
 kelpo (okei) : okey  
-keltainen : wang  
+keltainen : safrani  
 kemia : kimia  
 kemikaali : kimi  
 kenguru : kangur  
@@ -722,6 +723,7 @@ kenkä : sapate
 kenttä (aukio) : maidan  
 kerho (klubi) : klube  
 kerma : krem  
+kermankeltainen : kremi  
 kerran : un ban  
 kerros : ceng  
 kerta (vuoro) : ban  
@@ -1678,6 +1680,7 @@ puhua (sanoa) : loga
 pukea : fuka  
 pullo : botol  
 pumppu : pompa  
+punainen : karmesi  
 punta : paunde  
 puola : polskia  
 puolalainen : polski  
@@ -1769,7 +1772,7 @@ Reunion : reunion
 rhenium : renium  
 rhodium : rodium  
 riippumatto : hamake  
-riisi : ris  
+riisi : arize  
 riitti (rituaali, seremonia) : rite  
 rikas : rici  
 rikki : sulfe  
@@ -1823,7 +1826,7 @@ röntgenium : rengenium
 saaja (vastaanottaja) : geter  
 saari : nes  
 saaristo : nesia  
-sahrami : zafran  
+sahrami : safran  
 Saint Helena : santi helena  
 Saint Lucia : santi lusia  
 saippua : sabun  
@@ -1923,7 +1926,7 @@ silmäillä (katsoa) : kana
 silta : pulte  
 simpanssi : cimpanze  
 Singapore : singapur  
-sininen : nil  
+sininen : nili  
 sinkki : zinke  
 sintolaisuus : xindawistia  
 sinun : ti  
@@ -2178,6 +2181,7 @@ toukokuu : mes 5 (mes lim)
 trendi : faxon  
 Trinidad ja Tobago : trinidade i tobage  
 tuhat : kil  
+tuhka : huy  
 tuleva : wil  
 tulevaisuus : wile  
 tuli : fay  
@@ -2288,8 +2292,8 @@ Uzbekistan : uzbekia
 ##v  
 vaaka (puntari) : barometer  
 vaaleanpunainen : rozi  
-vaara : hatar  
-vaarallinen : hatari  
+vaara : hatre  
+vaarallinen : hatri  
 vaate (puku) : fuke  
 vaatia (edellyttää) : xarta  
 vaatimus (edellytys) : xarte  
@@ -2386,7 +2390,8 @@ Vietnam : wietnam
 viha (suuttumus, raivo) : furia  
 viha : hen  
 vihainen (suuttunut) : furi  
-vihreä : berdi  
+vihannes : sabze  
+vihreä : sabzi  
 viihdyttää (huvittaa) : fana  
 viikko : seman  
 viikonpäivä : war  

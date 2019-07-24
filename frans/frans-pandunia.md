@@ -171,6 +171,7 @@ psychologie : ruholojia
 psyché : ruhe  
 ##r  
 rime : rim  
+riz : arize  
 ruban (bande) : tepe  
 ##s  
 salle de bains : banyokamar  

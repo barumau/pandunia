@@ -96,6 +96,7 @@ are : area (extent of surface)
 argentin : Argentina  
 argon : argon  
 aria : area (region)  
+arize : rice  
 arme : weapon (arms)  
 arsen : arsenic  
 arte : art  
@@ -213,7 +214,6 @@ bende : band (tape, bandage)
 benin : Benin  
 benzin : gasoline (petrol)  
 berande : veranda (balcony, terrace, porch)  
-berdi : green  
 bere : berry  
 berete : beret  
 beril : beryllium  
@@ -765,9 +765,9 @@ hasa : distinguish
 hasi : special (distinct)  
 hasia : distinction (specialty)  
 hasium : hassium  
-hatar : danger (peril)  
-hatari : dangerous  
 hati : even (intensifier)  
+hatre : danger (peril)  
+hatri : dangerous (perilous)  
 hawa : blow  
 hawe : wind  
 haxix : hashish  
@@ -817,6 +817,8 @@ huria : freedom (liberty)
 huriste : liberalist  
 huristi : liberal  
 huristia : liberalism  
+huy : ash (ashes)  
+huyi : grey (gray, ashy)  
 ##i  
 i : and  
 ibri : Hebrew  
@@ -1008,6 +1010,7 @@ karde : card
 karibia : Caribbean  
 karite : shea  
 karme : action (conduct, karma)  
+karmesi : red  
 karnadi : Kannada  
 karnadia : Karnataka  
 karoparke : car park (parking lot)  
@@ -1149,6 +1152,7 @@ koy : some
 kran : valve (tap, faucet)  
 kratia : rule (reign)  
 krem : cream  
+kremi : cream colored  
 krim : crime  
 krimi : criminal  
 kriste : Christ (messiah)  
@@ -1594,7 +1598,7 @@ nidi : necessary (needed)
 nijer : Niger  
 nikaragia : Nicaragua  
 nikel : nickel  
-nil : blue  
+nili : blue  
 nilon : nylon  
 ninde : insult (offence)  
 nindi : rude (offensive)  
@@ -1941,7 +1945,6 @@ rezin : resin
 rezulte : result  
 rici : rich  
 rim : rhyme (verse)  
-ris : rice  
 riske : risk  
 riski : risky  
 rite : ritual (ceremony)  
@@ -2000,6 +2003,8 @@ saba : cause (be the cause for)
 sabate : Sabbath  
 sabe : reason (cause)  
 sabun : soap  
+sabze : greens  
+sabzi : green  
 sadi : plain (ordinary, unadorned, simple, mere)  
 safa : clean (purify)  
 safar : travel (voyage, trip)  
@@ -2009,6 +2014,8 @@ safariste : tourist
 safaristia : tourism  
 safer : cleaner  
 safi : clean (pure)  
+safran : saffron  
+safrani : yellow  
 saga : tell (narrate)  
 sage : tale (legend, saga)  
 saha : correct (make right)  
@@ -2371,7 +2378,6 @@ waksin : vaccine
 wale : valley  
 walis i futuna da nesia : Wallis and Futuna Islands  
 wan : bowl (earless cup)  
-wang : yellow  
 wanil : vanilla  
 wanta : want (desire)  
 wanuatia : Vanuatu  
@@ -2525,7 +2531,6 @@ yumoriste : humorist
 yuterbium : ytterbium  
 yutrium : yttrium  
 ##z  
-zafran : saffron  
 zaitun : olive  
 zalim : mean (cruel)  
 zaman : time (epoch, era)  

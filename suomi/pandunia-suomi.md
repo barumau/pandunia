@@ -95,6 +95,7 @@ are : ala (pinta-ala)
 argentin : Argentiina  
 argon : argon  
 aria : alue (seutu)  
+arize : riisi  
 arme : ase  
 arsen : arseeni  
 arte : taide  
@@ -211,7 +212,6 @@ bende : nauha (side)
 benin : Benin  
 benzin : bensiini (bensa)  
 berande : kuisti (terassi, veranta)  
-berdi : vihreä  
 bere : marja  
 berete : baskeri (baretti)  
 beril : berylli  
@@ -764,9 +764,9 @@ hasa : erottaa (nähdä ero)
 hasi : erikoinen (erityinen)  
 hasia : erikoisuus  
 hasium : hasium  
-hatar : vaara  
-hatari : vaarallinen  
 hati : jopa  
+hatre : vaara  
+hatri : vaarallinen  
 hawa : tuulla (puhaltaa)  
 hawe : tuuli (puhallus)  
 haxix : hasis  
@@ -816,6 +816,8 @@ huria : vapaus
 huriste : liberalisti  
 huristi : liberaali (vapaamielinen)  
 huristia : liberalismi  
+huy : tuhka  
+huyi : harmaa  
 ##i  
 i : ja  
 ibri : heprea  
@@ -1007,6 +1009,7 @@ karde : kortti
 karibia : Karibia  
 karite : voipuu  
 karme : toiminta (käytös, karma)  
+karmesi : punainen  
 karnadi : kannada (eräs intialainen kieli)  
 karnadia : Karnataka (Intian osavaltio)  
 karoparke : parkkipaikka  
@@ -1148,6 +1151,7 @@ koy : jokin (joku)
 kran : hana (venttiili, kraana)  
 kratia : valta  
 krem : kerma  
+kremi : kermankeltainen  
 krim : rikos  
 krimi : rikos- (rikollinen)  
 kriste : kristus (messias)  
@@ -1592,7 +1596,7 @@ nidi : tarpeellinen
 nijer : Niger  
 nikaragia : Nikaragua  
 nikel : nikkeli  
-nil : sininen  
+nili : sininen  
 nilon : nailon  
 ninde : loukkaus (törkeys)  
 nindi : törkeä  
@@ -1938,7 +1942,6 @@ rezin : pihka (hartsi)
 rezulte : tulos  
 rici : rikas  
 rim : säe (riimi)  
-ris : riisi  
 riske : riski  
 riski : riskialtis  
 rite : riitti (rituaali, seremonia)  
@@ -1994,6 +1997,8 @@ saba : aiheuttaa
 sabate : sapatti  
 sabe : syy  
 sabun : saippua  
+sabze : vihannes  
+sabzi : vihreä  
 sadi : koruton (tavanomainen, pelkkä)  
 safa : puhdistaa (siivota)  
 safar : matka (reissu)  
@@ -2003,6 +2008,8 @@ safariste : turisti
 safaristia : turismi  
 safer : siivooja  
 safi : puhdas (siivo, siisti)  
+safran : sahrami  
+safrani : keltainen  
 saga : kertoa  
 sage : kertomus (tarina, saaga)  
 saha : korjata (tehdä oikeaksi)  
@@ -2334,7 +2341,6 @@ wakila : edustaa
 waksin : rokote  
 wale : laakso  
 wan : kulho  
-wang : keltainen  
 wanil : vanilja  
 wanta : haluta  
 wanuatia : Vanuatu  
@@ -2486,7 +2492,6 @@ yumoriste : humoristi
 yuterbium : ytterbium  
 yutrium : yttrium  
 ##z  
-zafran : sahrami  
 zaitun : oliivi  
 zalim : ilkeä (julma)  
 zaman : aikakausi  

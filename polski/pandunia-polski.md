@@ -89,6 +89,7 @@ are : pole, powierzchnia
 argentin : Argentyna  
 argon : argon  
 aria : powierzchnia, region, teren  
+arize : ryż  
 arsen : arsen  
 arte : sztuka   
 arter : artysta   
@@ -201,7 +202,6 @@ bende : taśma; bandaż
 benin : Benin  
 benzin : benzyna  
 berande : weranda, balkon, taras, ganek  
-berdi : zielony  
 bere : jagoda  
 berete : beret  
 beril : beryl  
@@ -744,9 +744,9 @@ harmonia : harmonia
 harnes : zaprzęc, zaprzęgać  
 hasi : specjalny, wyraźny, wyrazisty  
 hasium : has  
-hatar : zagrożenie, niebezpieczeństwo  
-hatari : niebezpieczny  
 hati : nawet  
+hatre : zagrożenie, niebezpieczeństwo  
+hatri : niebezpieczny  
 hawa : dmuchać  
 hawe : wiatr  
 hay : wciąż, nadal  
@@ -1560,7 +1560,7 @@ nidi : potrzebny
 nijer : Niger  
 nikaragia : Nikaragua  
 nikel : nikiel  
-nil : niebieski  
+nili : niebieski  
 nilon : nylon  
 ninde : obraza, obelga  
 nindi : obraźliwy, niemiły, obelżywy  
@@ -1904,7 +1904,6 @@ rezin : żywica
 rezulte : rezult, wynik  
 rici : bogaty  
 rim : rym (wers)  
-ris : ryż  
 riske : ryzyko  
 riski : ryzykowny  
 rite : rytuał, ceremonia, ryt  
@@ -1962,6 +1961,7 @@ saba : spowodować, powodować
 sabate : szabat, szabas  
 sabe : powód, przyczyna  
 sabun : mydło  
+sabzi : zielony  
 sadi : zwykły, zwyczajny, prosty  
 safa : wyczyścić, czyścić  
 safar : podróż  
@@ -1971,6 +1971,8 @@ safariste : turysta
 safaristia : turystyka  
 safer : sprzątacz, sprzątacz  
 safi : czysty  
+safran : szafran  
+safrani : żółty  
 saga : opowiedzieć, opowiadać  
 sage : opowiadanie, opowieść, legenda, saga  
 saha : poprawić, poprawiać, prostować, korygować  
@@ -2325,7 +2327,6 @@ waksin : szczepionka
 wale : dolina  
 walis i futuna da nesia : Saint Vincent i Grenadyny  
 wan : misa, kubek bez ucha  
-wang : żółty  
 wanil : wanilia  
 wanta : chcieć, pragnąć  
 wanuatia : Vanuatu  
@@ -2476,7 +2477,6 @@ yumoriste : komik
 yuterbium : iterb  
 yutrium : itr  
 ##z  
-zafran : szafran  
 zaitun : oliwka  
 zalim : złośliwy, okrutny  
 zaman : czas (epoka, era)  

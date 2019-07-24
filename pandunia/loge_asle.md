@@ -72,6 +72,7 @@ aranje ← eng:orange. spa:naranja. por:laranja. hin:नारंगी (narangi
 arbe ← fra:arbre. spa:árbol. por:árvore.  
 arbuze ← rus:арбуз (arbuz). pol:arbuz. tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).  
 are ← eng:area. por:spa:área. pol:areał. fra:aire.  
+arize ← tam:அரிசி (arisi). ara:(ʾaruzz). spa:por:arroz. oro:ruuzii. fra:riz. rus:рис (ris). eng:rice. deu:Reis.  
 arme ← fra:arme. eng:arms. spa:por:arma.  
 arte ← spa:por:arte. eng:fra:art. jpn:アート (āto).  
 asan ← hin:आसन (āsan). eng:asana. rus:асана (asana).  
@@ -111,7 +112,7 @@ baton ← eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".
 batre ← eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ara:(baṭṭāriyya). jpn:バッテリー (batterī). rus:батарея (batareja).  
 baw ← zho:报 (bào). vie:báo. + tha: ป่าว (bpàao).  
 bax ← hin:भाषा (bhāṣā). urd:(bhāṣā). ben:ভাষা (bhaṣa). pnb:ਭਾਸ਼ਾ (bhāshā). tel:భాష (bhāṣa). tam:பாசை (pāsai). tha:ภาษา (phasa). ind:bahasa. jav:basa.  
-bay ← zho: 白 (bái).  
+bay ← zho:白 (bái).  
 baya ← eng:buy.  
 bazar ← fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:bazar. eng:bazaar. rus:базар (bazar). ind: pasar. khm:ផ្សារ (psar).  
 baze ← eng:fra:por:spa:base. deu:Basis. rus:база (baza).  
@@ -123,7 +124,6 @@ beka ← eng:bake. hin:पकाना "pakānā". rus:печь "peč". deu:back
 bence ← eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤치 (benchi).  
 bende ← ita:benda. swa:bendeji. spa:venda. fra:bande. eng:band. deu:Binde. rus:bul:kaz:kyr:бинт (bint). uzb:bint. hin:बाँधना (bāndhnā).  
 berande ← hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).  
-berdi ← spa:por:verde. fra:vert. eus:ceb:tgl:berde.  
 bere ← deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).  
 berete ← fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).  
 beyu ← zho:被 (bèi).  
@@ -346,8 +346,8 @@ haram ← ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām).
 harfe ← ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.  
 harnes ← fra:harnais. eng:harness. spa:arnés. por:arnês.  
 hasi ← ara:(xāṣṣ). fas:urd:(xās). ind:ख़ास (xās). ind:khas.  
-hatar ← ara:"xaṭar". hin:ख़तरा "xatrā". swa:hatari.  
 hati ← por:até. ara:"ḥatta". spa:hasta. swa:hata.  
+hatre ← ara:(xaṭar). fas:(xatar). urd:(xatra). hin:ख़तरा (xatrā). swa:hatari. tur:muhatara.  
 hawe ← hin:हवा (havā). urd:(havā). pnb:ਹਵਾ (hawā). + ara:(hawāʾ). fas:(havā). tur:hava. ind:hawa. som:hawo. swa:hewa. ben:হাওয়া (haowa).  
 hay ← zho:还 "hai".  
 he ← fra:por:hein. jpn:e.  
@@ -361,6 +361,7 @@ hisabia ← orm:hisaaba. swa:hisabu.
 hor ← fra:heure. eng:hour. spa:hora.  
 hule ← zho:狐狸 (húlí). yue:狐狸 (wu4 lei4-2).  
 huria ← ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.  
+huy ← zho:灰 (huĭ). yue:灰 (fui). jpn:灰 (hai). + kor:회색 (hoesaeg).  
 i ← spa:y. por:e. rus:и /i/. pol:i.  
 ##i  
 ice ← vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).  
@@ -412,7 +413,7 @@ kafe ← deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue
 kafir ← ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).  
 kakaw ← por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).  
 kake ← spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).  
-kal ← hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (pkālā). tur:kara.  
+kal ← hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (kālā). tur:kara.  
 kalam ← ara:fas:urd:(qalam). hau:alƙalami. yor:swa:kalamu. tur:kalem. hin:क़लम (qalam). ben:কলম (kôlôm). spa:por:cálamo.  
 kalkulia ← fra:calcul. spa:cálculo. eng:calculus. hin:कलन (kalan).  
 kam ← hin:काम (kām). tha:กาม (gaam). eng:kama.  
@@ -436,6 +437,7 @@ karbi ← ara:fas:urd:(qarīb). swa:karibu. tur:takribi.
 karde ← eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu. fra:carte.  
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
+karmesi ← arm:կարմիր (karmir). tur: kırmızı. fas(qermez). + eng:crimson. fra:carmin. hin:क़िरमिज़ (qirmiz).  
 karte ← deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 karwan ← fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).  
@@ -623,6 +625,7 @@ ni ← ukr:ні (ni). afr:nie. fra:spa:ni...ni. + ben:না (na). rus:не (nye
 niama ← khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.  
 nice ← ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).   
 nida ← eng: need.  
+nili ← ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).  
 ninde ← hin:mar:निन्द् (nind).  
 noce ← spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.  
 node ← eng:node. spa:nudo. por:nó. fra:nœud.  
@@ -722,6 +725,7 @@ reste ← fra:reste. eng:deu:Rest. pol:reszta. spa:por:resto.
 rezin ← eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.  
 rici ← eng:rich. fra:riche. por:spa:rico.  
 rim ← spa:por:rima. fra:rime. eng:rhyme. pol:rym. deu:Reim. ukr:рима (rima).  
+riske ← fra:risque. eng:tur:risk. por:risco. rus:риск (risk). jpn:リスク (ja) (risuku). deu:ind:risiko.  
 rite ← eng:fra:rite. spa:por:rito. ben:রীতি (rīti). hin:urd:(rīti).  
 robote ← eng:robot;robo-. por:robô. fra:robot. tam:ரோபோ (rōpō). rus:робот (robot).  
 romanse ← fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).  
@@ -743,6 +747,7 @@ sabun ← ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). 
 sadi ← tur:sade. fas:(sāde). hin:सादा (sādā).  
 safar ← ara:(safar). tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.  
 safi ← swa:safi. hin:साफ़ (sāf). urd:(sāf). ben:চাফা (sapha).  
+safran ← ara:(zaʿfarān). swa:zafarani. fas:(za'ferân). fra:tur:safran. eng:saffron. spa:azafrán. por:açafrão. rus:шафран (šafran).  
 sahi ← hin:सही (sahī). urd:(sahī). fas:(sahih). ara:(ṣaḥīḥ). swa:sahihi.  
 sake ← deu:eng:sack. fra:sac. spa:por:saco. ind:kon:saku.  
 sal ← por:spa:sal. eng:salt. rus:соль (solʹ).  

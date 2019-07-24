@@ -113,6 +113,7 @@ artisan (craftsman) : janger
 artist : arter  
 Aruba : arubia  
 ascetic : askete  
+ash (ashes) : huy  
 ash tree : yasen  
 Asia : asia  
 Asian : asi  
@@ -254,7 +255,7 @@ blog (web log) : bloge
 blood : sang  
 blossom (bloom) : pula  
 blow : hawa  
-blue : nil  
+blue : nili  
 board (plank) : banze  
 board game : banzogem  
 boat (ship) : bote  
@@ -541,6 +542,7 @@ cover (lid, cap, deck) : deke
 cow : muh  
 crafty (dexterous) : jangi  
 cream : krem  
+cream colored : kremi  
 crime : krim  
 criminal : krimi  
 crisis : krize  
@@ -573,8 +575,8 @@ Czech Republic : cehia
 dagger : kanjar  
 damage (injury, harm) : damaje  
 dance : danse  
-danger (peril) : hatar  
-dangerous : hatari  
+danger (peril) : hatre  
+dangerous (perilous) : hatri  
 dark (dim) : oskur  
 Darwinism : darwinistia  
 Darwinist : darwiniste  
@@ -935,10 +937,12 @@ grave (tomb) : gabre
 graveyard : gabristan  
 Greece : helenia  
 Greek (Hellenic) : helen  
-green : berdi  
+green : sabzi  
+greens : sabze  
 greet : salama  
 greeting (hello) : salame  
 Grenada : grenada  
+grey (gray, ashy) : huyi  
 grief (sorrow) : duke  
 grieve : duka  
 grimace : grimas  
@@ -1878,6 +1882,7 @@ reason (cause) : sabe
 reason (rational thinking) : razon  
 rebellion : rebel  
 receipt (acknowledgement) : reside  
+red : karmesi  
 reflect : mira  
 refuse (deny, decline) : nega  
 region : istan  
@@ -1919,7 +1924,7 @@ rhodium : rodium
 rhyme (verse) : rim  
 rhythm (beat) : ritme  
 rib cage : sinokase  
-rice : ris  
+rice : arize  
 rich : rici  
 right (correct, accurate) : sahi  
 right (justification, privilege) : hake  
@@ -1974,7 +1979,7 @@ Réunion : reunion
 Sabbath : sabate  
 sad : duki  
 safe (secure) : sekur  
-saffron : zafran  
+saffron : safran  
 Saint Helena : santi helena  
 Saint John's Day : yohani feste  
 Saint Lucia : santi lusia  
@@ -2532,7 +2537,7 @@ yak : yake
 yay! (yeah!) : yey  
 year : nen  
 yeast : hamir  
-yellow : wang  
+yellow : safrani  
 Yemen : yemenia  
 yes (is) : si  
 yesterday : predi den  

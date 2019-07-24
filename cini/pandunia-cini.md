@@ -33,6 +33,7 @@ aranje : 橙子
 arbe : 树  
 arbuze : 西瓜  
 are : 面积  
+arize : 米   
 arme : 武器  
 arte : 美术  
 arter : 美术家  

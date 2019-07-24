@@ -70,6 +70,7 @@ arbuze : pastèque
 are : aire (superficie)  
 argentin : Argentine  
 argon : argon  
+arize : riz  
 arme : arme  
 arsen : arsenic  
 arte : art  
