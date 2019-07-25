@@ -429,17 +429,19 @@ VAO order is very rare but possible.
        ↘
     O ← A
 
-### 6.3. Passive sentences
+### 6.4. Summary of word orders
 
-In passive sentence there is only object and verb but no agent.
+Note that even if these triangular patterns explained above might seem unusual
+at first, in practice they result in two simple rules to follow:
 
-**me widu.** - I am seen.  
-**pang beku.** - Bread is baked.  
-**kupe kaputu.** - Cup breaks. (Cup gets broken.)
+-a ending means:  
+If there is anything right before the verb, it is the agent.  
+If there is anything right after the verb, it is the object.
 
-### 6.4. Verb endings
+-u ending means:  
+If there is anything right before the verb, it is the object.  
+If there is anything right after the verb, it is the agent.
 
-All verbs end in **-a** or **-u**.
 
 --------------------------------------------------------------------------------
 
@@ -543,7 +545,8 @@ with object–verb (OV) word order with the verb ending in **-u**.
 
 **te widu.** - You are seen.  
 **musike audu.** - Music is heard.  
-**pang beku.** - Bread is baked.
+**pang beku.** - Bread is baked.  
+**kupe kaputu.** - Cup breaks. (Cup gets broken.)
 
 Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
