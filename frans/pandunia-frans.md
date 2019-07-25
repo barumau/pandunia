@@ -145,6 +145,7 @@ kosmia : cosmos
 lasker : soldat  
 laskeria : armée  
 lider : dirigeant (leader)  
+limon : citron  
 liste : liste  
 loke : lieu  
 loki : local  

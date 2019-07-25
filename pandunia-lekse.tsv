@@ -587,6 +587,7 @@ spa: fin. fra: fin. por: fim.			fin	:	end	fino	loppu	koniec
 			finge	:	finger (toe)	fingro	sormi tai varvas	palec								
 			fingowen	:	finger ring	ringo	sormus	pierścień, pierścionek; obrączka								
 			fini	:	last (final)	lasta	viimeinen	ostatni, końcowy								
+per:(firuze). tur:firuze. ara:(fayrūz). swa:feruzi. hin:फीरोज़ा (phīrozā). ben:ফিরোজা (phiroja). ind:pirus. rus:бирюза (biryuza).			firuze	:	turquoise gem	turkiso	turkoosi	turkus				绿松石	бирюза			
 eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).			fite	:	plant (vegetation)	planto	kasvi	roślina, sadzonka								
 			fitolojia	:	bonaty (phytology)	plantscienco (botaniko)	kasvitiede	botanika	botánica	botânica	botanique	植物学	ботаника 	वनस्पति विज्ञान	ilmu tumbuh-tumbuhan	bitki bilimi
 eng:fish. deu:Fisch.			fix	:	fish	fiŝo	kala	ryba								
@@ -952,9 +953,9 @@ ben:কাঁচ (kãcô). mar:काच (kāc). ind:may:kaca. tel:గాజు 
 ara:(qafaṣ). fas:urd:(qafas). hin:क़फ़स (qafas). pnb:ਕਫ਼ਸ (kafas). tur:kafes.			kafas	:	cage		häkki	klatka								
 deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue:咖啡 (gaa3 fe1). eng:coffee. hin:काफ़ी (kāfī). ben:কফি (kôphi). tur:kahve. tgl:kape. tha:กาแฟ (kafæ).			kafe	:	coffee	kafo	kahvi	kawa	café	café	café	咖啡	кофе		kopi	kahve
 			kaferia	:	cafe (coffee shop)	kafejo	kahvila	kawiarnia								
+	rang		kafi	:	brown (coffee-colored)	bruna	ruskea	brązowy, koloru kawy								
 ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).			kafir	:	infidel (pagan, heathen, unbeliever)		pakana	niewierny (poganin, niewierzący)								
 			kafokupe	:	coffee cup	kaftaso	kahvikuppi	filiżanka do kawy								
-			kaforangi	:	brown (coffee-colored)	bruna	ruskea	brązowy, koloru kawy								
 			kaka	:	defecate (shit)		ulostaa (kakata)	defekować, srać								
 por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).			kakaw	:	cocoa	kakao	kaakao	kakao								
 spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).			kake	:	excrement (shit)	feko	uloste (kakka)	ekskrement, gówno								
@@ -1001,7 +1002,7 @@ eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu
 	aria		karibia	:	Caribbean	Karibio	Karibia	Karaiby								
 wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.			karite	:	shea		voipuu	masłosz Parka								
 hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).			karme	:	action (conduct, karma)	konduto (karmo)	toiminta (käytös, karma)	działanie (zachowanie, karma)								
-arm:կարմիր (karmir). tur: kırmızı. fas(qermez). + eng:crimson. fra:carmin. hin:क़िरमिज़ (qirmiz).			karmesi	:	red	ruĝa	punainen									
+arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).			karmesi	:	red	ruĝa	punainen									
 	nas		karnadi	:	Kannada		kannada (eräs intialainen kieli)	kannada								
 			karnadia	:	Karnataka		Karnataka (Intian osavaltio)									
 			karoparke	:	car park (parking lot)		parkkipaikka	parking								
@@ -1239,7 +1240,8 @@ tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:�
 			limite	:	limit (boundary)		raja	limit, granica								
 			limofas	:	pentahedron (prism)		viisitahokas (prisma)	pięciościan (pryzmat)								
 			limokon	:	pentagon		viisikulmio	pięciokąt (pentagon)								
-			limun	:	lemon	citrono	sitruuna	cytryna								
+fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).			limon	:	lemon	citrono	sitruuna	cytryna	limón	limão	citron	柠檬	лимон	नींबू	jeruk lemon	limon
+	rang		limoni	:	yellow	flava	keltainen	żółty								
 por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).			linye	:	line (stripe)	lineo	viiva (linja)	linia, pas, pręga, smuga								
 fra:lisse. spa:por:liso. fas:(liz). ind:licin.			lisi	:	smooth	glata	sileä	gładki								
 eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).			liste	:	list (listing, catalogue)	listo	lista (luettelo)	lista, spis, wykaz	lista	lista	liste	单子				
@@ -1888,7 +1890,7 @@ hin:राज्य (rājya). ben:রাজ্য (rajyô).			rajia	:	kingdom		k
 fra:rampe. eng:ramp. por:spa:rampa. jpn:ランプ (ranpu).			rampe	:	ramp (incline)	ramplo	luiska (ramppi)	rampa								
 			randa	:	smoothen with a plane		höylätä	heblować								
 tur:scr:rende. bul:ренде (rende). ron:rindea. hin:रंदा. (randâ). fas:(rande). swa:(randa).			rander	:	plane (tool for making a smooth surface)		höylä	hebel, strug								
-			rang	:	color	koloro	väri	kolor								
+ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk. + zho:染 (rǎn).			rang	:	color	koloro	väri	kolor								
 			rape	:	speed (velocity)	rapideco	nopeus (vauhti)	prędkość (szybkość)								
 dan:ned:rap. spa:por:rápido. eng:rapid. fra:rapide.			rapi	:	fast (quick, rapid, speedy)	rapidi	nopea (pikainen, vauhdikas)	szybki, prędki								
 			rapometer	:	speedometer		nopeusmittari	prędkościomierz								
@@ -1999,7 +2001,6 @@ ara:(safar). tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.			safar	:	travel
 			safer	:	cleaner	purigisto	siivooja	sprzątacz, sprzątacz								
 swa:safi. hin:साफ़ (sāf). urd:(sāf). ben:চাফা (sapha).			safi	:	clean (pure)	pura	puhdas (siivo, siisti)	czysty								
 ara:(zaʿfarān). swa:zafarani. fas:(za'ferân). fra:tur:safran. eng:saffron. spa:azafrán. por:açafrão. rus:шафран (šafran).			safran	:	saffron	safrano	sahrami	szafran					шафран			
-	rang		safrani	:	yellow		keltainen	żółty								
 			saga	:	tell (narrate)	rakonti	kertoa	opowiedzieć, opowiadać								
 			sage	:	tale (legend, saga)	rakonto	kertomus (tarina, saaga)	opowiadanie, opowieść, legenda, saga								
 			saha	:	correct (make right)	pravigi	korjata (tehdä oikeaksi)	poprawić, poprawiać, prostować, korygować								

@@ -188,7 +188,7 @@ branĉo : xake
 Brazilo : brazilia  
 bromo : brom  
 broso : brox  
-bruna : kaforangi  
+bruna : kafi  
 brusto : sine  
 budhismo : budistia  
 budhisto : budiste  
@@ -209,7 +209,7 @@ certa : amen
 certigi : amena  
 cezio : cesium  
 citi : cita  
-citrono : limun  
+citrono : limon  
 ##d  
 damaĝa : damaji  
 damaĝo : damaje  
@@ -375,6 +375,7 @@ fiziko : fizike
 fiziko : fizikia  
 fiŝo : fix  
 flago : bandir  
+flava : limoni  
 floro : pul  
 flughaveno : airoporte  
 flugi : feya  
@@ -1323,6 +1324,7 @@ tulio : tulium
 tundro : tundar  
 tunelo : tunel  
 Turkio : turkia  
+turkiso : firuze  
 turo : minar  
 tuttera : panoduni  
 tuŝi : toca  

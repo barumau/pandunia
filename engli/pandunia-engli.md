@@ -591,6 +591,7 @@ fina : finish (put an end to)
 finge : finger (toe)  
 fingowen : finger ring  
 fini : last (final)  
+firuze : turquoise gem  
 fite : plant (vegetation)  
 fitolojia : bonaty (phytology)  
 fix : fish  
@@ -961,9 +962,9 @@ kadomium : cadmium
 kafas : cage  
 kafe : coffee  
 kaferia : cafe (coffee shop)  
+kafi : brown (coffee-colored)  
 kafir : infidel (pagan, heathen, unbeliever)  
 kafokupe : coffee cup  
-kaforangi : brown (coffee-colored)  
 kaka : defecate (shit)  
 kakaw : cocoa  
 kake : excrement (shit)  
@@ -1249,7 +1250,8 @@ limfe : lymph
 limite : limit (boundary)  
 limofas : pentahedron (prism)  
 limokon : pentagon  
-limun : lemon  
+limon : lemon  
+limoni : yellow  
 linye : line (stripe)  
 lisi : smooth  
 liste : list (listing, catalogue)  
@@ -2015,7 +2017,6 @@ safaristia : tourism
 safer : cleaner  
 safi : clean (pure)  
 safran : saffron  
-safrani : yellow  
 saga : tell (narrate)  
 sage : tale (legend, saga)  
 saha : correct (make right)  

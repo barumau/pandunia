@@ -574,6 +574,7 @@ fina : skończyć, kończyć
 finge : palec  
 fingowen : pierścień, pierścionek; obrączka  
 fini : ostatni, końcowy  
+firuze : turkus  
 fite : roślina, sadzonka  
 fitolojia : botanika  
 fix : ryba  
@@ -935,9 +936,9 @@ kadomium : kadm
 kafas : klatka  
 kafe : kawa  
 kaferia : kawiarnia  
+kafi : brązowy, koloru kawy  
 kafir : niewierny (poganin, niewierzący)  
 kafokupe : filiżanka do kawy  
-kaforangi : brązowy, koloru kawy  
 kaka : defekować, srać  
 kakaw : kakao  
 kake : ekskrement, gówno  
@@ -1214,7 +1215,8 @@ limfe : limfa
 limite : limit, granica  
 limofas : pięciościan (pryzmat)  
 limokon : pięciokąt (pentagon)  
-limun : cytryna  
+limon : cytryna  
+limoni : żółty  
 linye : linia, pas, pręga, smuga  
 lisi : gładki  
 liste : lista, spis, wykaz  
@@ -1972,7 +1974,6 @@ safaristia : turystyka
 safer : sprzątacz, sprzątacz  
 safi : czysty  
 safran : szafran  
-safrani : żółty  
 saga : opowiedzieć, opowiadać  
 sage : opowiadanie, opowieść, legenda, saga  
 saha : poprawić, poprawiać, prostować, korygować  

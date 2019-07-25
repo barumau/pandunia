@@ -590,6 +590,7 @@ fina : lopettaa
 finge : sormi tai varvas  
 fingowen : sormus  
 fini : viimeinen  
+firuze : turkoosi  
 fite : kasvi  
 fitolojia : kasvitiede  
 fix : kala  
@@ -960,9 +961,9 @@ kadomium : kadmium
 kafas : häkki  
 kafe : kahvi  
 kaferia : kahvila  
+kafi : ruskea  
 kafir : pakana  
 kafokupe : kahvikuppi  
-kaforangi : ruskea  
 kaka : ulostaa (kakata)  
 kakaw : kaakao  
 kake : uloste (kakka)  
@@ -1248,7 +1249,8 @@ limfe : lymfa
 limite : raja  
 limofas : viisitahokas (prisma)  
 limokon : viisikulmio  
-limun : sitruuna  
+limon : sitruuna  
+limoni : keltainen  
 linye : viiva (linja)  
 lisi : sileä  
 liste : lista (luettelo)  
@@ -2009,7 +2011,6 @@ safaristia : turismi
 safer : siivooja  
 safi : puhdas (siivo, siisti)  
 safran : sahrami  
-safrani : keltainen  
 saga : kertoa  
 sage : kertomus (tarina, saaga)  
 saha : korjata (tehdä oikeaksi)  

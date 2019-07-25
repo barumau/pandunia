@@ -88,6 +88,7 @@ carte : karte
 cartographie : kartografia  
 chapitre : babe  
 cime (pic, sommet) : pike  
+citron : limon  
 comprendre (réaliser) : aha  
 corps : badan  
 cosmique : kosmi  

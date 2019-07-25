@@ -173,7 +173,7 @@ Brunei Darussalam : bruney
 brzmieć, wydać dźwięk, wydawać dźwięk : sonda  
 brzuch : bung  
 brzydki : mal rupi  
-brązowy, koloru kawy : kaforangi  
+brązowy, koloru kawy : kafi  
 Budda : bude  
 buddysta : budiste  
 Buddyzm : budistia  
@@ -264,7 +264,7 @@ Cypr : kipris
 cyrkon : zirkonium  
 cyrylica : kirili abace  
 cytować : cita  
-cytryna : limun  
+cytryna : limon  
 Czad : cadia  
 czajnik : ketel  
 Czarnogóra : cernagoria  
@@ -2096,6 +2096,7 @@ Turcja : turkia
 turecki : turki  
 Turek osmański : osman  
 Turkmenistan : turkmenia  
+turkus : firuze  
 turysta : safariste  
 turystyka : safaristia  
 tusz : moge  
@@ -2511,5 +2512,5 @@ zły, zrujnowany, zepsuty : harabi
 żyrafa : jiraf  
 żywica : rezin  
 żyć (żywy, żyjący) : jiwi  
-żółty : safrani  
+żółty : limoni  
 żółw : tortuge  

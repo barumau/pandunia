@@ -85,6 +85,7 @@ dom : 房子
 ##e  
 ##f  
 fem : 女  
+firuze : 绿松石  
 fitolojia : 植物学  
 ##g  
 ##h  
@@ -119,6 +120,7 @@ laya : 来
 le : 他，她，它  
 leze : 梨  
 lider : 领导  
+limon : 柠檬  
 liste : 单子  
 lole : 他们  
 luta : 掠夺   

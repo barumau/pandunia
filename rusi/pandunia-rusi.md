@@ -72,6 +72,7 @@ domi : дома́шний
 dul u tin : пара  
 ##e  
 ##f  
+firuze : бирюза  
 fitolojia : ботаника   
 ##g  
 ##h  
@@ -104,6 +105,7 @@ kosmia : космос
 lasker : солдат  
 laskeria : армия  
 lider : руководитель (лидер)  
+limon : лимон  
 lutaristi : лютеранский  
 lutaristia : лютера́нство   
 ##m  

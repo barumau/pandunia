@@ -452,6 +452,7 @@ fina : fini
 finge : fingro  
 fingowen : ringo  
 fini : lasta  
+firuze : turkiso  
 fite : planto  
 fitolojia : plantscienco (botaniko)  
 fix : fiŝo  
@@ -704,8 +705,8 @@ kace : vitro
 kadomium : kadmio  
 kafe : kafo  
 kaferia : kafejo  
+kafi : bruna  
 kafokupe : kaftaso  
-kaforangi : bruna  
 kakaw : kakao  
 kake : feko  
 kal : nigra  
@@ -849,7 +850,8 @@ leze : piro
 liga : aligi  
 lil : malgranda  
 lim : kvin (5)  
-limun : citrono  
+limon : citrono  
+limoni : flava  
 linye : lineo  
 lisi : glata  
 liste : listo  

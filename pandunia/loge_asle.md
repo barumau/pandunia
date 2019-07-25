@@ -273,6 +273,7 @@ fikre ← ara:(fikr). fas:(fekr). tur:fikir. ind:pikir. hin:(fikr).
 filer ← eng:fra:-phile. por:spa:-filo.  
 filosofia ← spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.  
 fin ← spa: fin. fra: fin. por: fim.  
+firuze ← per:(firuze). tur:firuze. ara:(fayrūz). swa:feruzi. hin:फीरोज़ा (phīrozā). ben:ফিরোজা (phiroja). ind:pirus. rus:бирюза (biryuza).  
 fite ← eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).  
 fix ← eng:fish. deu:Fisch.  
 folia ← eng:folly. fra:folie. ita:follia.  
@@ -437,7 +438,7 @@ karbi ← ara:fas:urd:(qarīb). swa:karibu. tur:takribi.
 karde ← eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu. fra:carte.  
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
-karmesi ← arm:կարմիր (karmir). tur: kırmızı. fas(qermez). + eng:crimson. fra:carmin. hin:क़िरमिज़ (qirmiz).  
+karmesi ← arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).  
 karte ← deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 karwan ← fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).  
@@ -522,6 +523,7 @@ lider ← eng:fra:leader. spa:por:líder. rus:лидер (lider). tur:lider. hin
 lige ← fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).  
 lil ← eng:little.  
 lilake ← tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).  
+limon ← fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).  
 linye ← por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).  
 lisi ← fra:lisse. spa:por:liso. fas:(liz). ind:licin.  
 liste ← eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).  
@@ -713,6 +715,7 @@ raite ← eng:right.
 rajia ← hin:राज्य (rājya). ben:রাজ্য (rajyô).  
 rampe ← fra:rampe. eng:ramp. por:spa:rampa. jpn:ランプ (ranpu).  
 rander ← tur:scr:rende. bul:ренде (rende). ron:rindea. hin:रंदा. (randâ). fas:(rande). swa:(randa).  
+rang ← ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk. + zho:染 (rǎn).  
 rapi ← dan:ned:rap. spa:por:rápido. eng:rapid. fra:rapide.  
 rasme ← ara:(rasm). hin:रस्म (rasma). ind:resmi.  
 ray ← ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.  

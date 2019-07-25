@@ -714,7 +714,7 @@ keitto (soppa) : supe
 keittää (kiehuttaa) : bula  
 keksi (pikkuleipä) : biskute  
 kelpo (okei) : okey  
-keltainen : safrani  
+keltainen : limoni  
 kemia : kimia  
 kemikaali : kimi  
 kenguru : kangur  
@@ -1810,7 +1810,7 @@ ruoka : niam
 ruokasali : niamokamar  
 Ruotsi : suenia  
 rusina : gan putaw  
-ruskea : kaforangi  
+ruskea : kafi  
 ruukku (maljakko, vaasi) : waze  
 ruumiillinen : badani  
 ruusu : roze  
@@ -1940,7 +1940,7 @@ sisällysluettelo : tenoliste
 sisältö : ten  
 sisäsyntyinen : indi jeni  
 sitoa : benda  
-sitruuna : limun  
+sitruuna : limon  
 skandium : skandium  
 slaavilainen : slawi  
 Slovakia : slowakia  
@@ -2210,6 +2210,7 @@ turisti : safariste
 Turkki : turkia  
 turkkilainen : turki  
 Turkmenistan : turkmenia  
+turkoosi : firuze  
 turvallinen : sekur  
 turvata (suojata, pelastaa) : sekura  
 tutkia (opiskella) : loja  

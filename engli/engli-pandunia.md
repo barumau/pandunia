@@ -297,7 +297,7 @@ bright (brilliant, clear) : ming
 brighten : minga  
 broken (shattered) : parci  
 bromine : brom  
-brown (coffee-colored) : kaforangi  
+brown (coffee-colored) : kafi  
 Brunei Darussalam : bruney  
 brush : brox  
 bubble : bubul  
@@ -1228,7 +1228,7 @@ leave (go out, exit) : cuta
 Lebanon : libnun  
 left : lefte  
 leftist (left-winger) : leftiste  
-lemon : limun  
+lemon : limon  
 length : longia  
 lengthen (prolong) : longa  
 Lesotho : soto  
@@ -2386,6 +2386,7 @@ turkey : totol
 Turkey : turkia  
 Turkish : turki  
 Turkmenistan : turkmenia  
+turquoise gem : firuze  
 turtle (tortoise) : tortuge  
 Tuvalu : tuwal  
 twice : dul ban  
@@ -2537,7 +2538,7 @@ yak : yake
 yay! (yeah!) : yey  
 year : nen  
 yeast : hamir  
-yellow : safrani  
+yellow : limoni  
 Yemen : yemenia  
 yes (is) : si  
 yesterday : predi den  
