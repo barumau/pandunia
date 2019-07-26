@@ -645,7 +645,7 @@ fuy : hyi! (pyh!)
 ##g  
 gabre : hauta  
 gabristan : hautausmaa  
-gabun : Gabon  
+gabunia : Gabon  
 gade : aasi  
 gadolinium : gadolinium  
 gaje : norsu (elefantti)  
@@ -672,7 +672,7 @@ garmi : lämmin
 gas : kaasu  
 gaw : korkea  
 gawa : nostaa  
-gayan : Guyana  
+gayania : Guyana  
 gaze : harso  
 gazel : gaselli  
 gem : peli  
@@ -689,7 +689,7 @@ gida : ohjata (ohjastaa)
 gigo- : miljardi (giga-)  
 gim : kulta  
 gitar : kitara  
-giyan : Ranskan Guiana  
+giyania : Ranskan Guiana  
 glota : niellä  
 glute : liima  
 gluten : gluteeni  
@@ -705,14 +705,14 @@ grafi : graafinen
 grafobuke : kuvakirja  
 gram : gramma  
 gras : ruoho  
-grenada : Grenada  
+grenadia : Grenada  
 grimas : irvistys  
 grom : jyrinä (ukkonen)  
 grosi harfe : lihavoitu kirjain  
 grosi : paksu  
 grupe : ryhmä  
-guadelupe : Guadeloupe  
-guam : Guam  
+guadelupia : Guadeloupe  
+guamia : Guam  
 guanxe : suhde (yhteys)  
 guatemalia : Guatemala  
 gubuh : virtahepo  
@@ -805,7 +805,7 @@ hobe : harrastus
 hoke : hockey (jääkiekko)  
 holmium : holmium  
 hon : sata (##)  
-honduras : Honduras  
+hondurasia : Honduras  
 hongong : Hong Kong  
 hor : tunti  
 hormon : hormoni  
@@ -865,7 +865,7 @@ ion : ioni
 ioni radi : radioaktiivinen  
 ioni radia : radioaktiivisuus  
 irakia : Irak  
-iran : Iran  
+irania : Iran  
 iridium : iridium  
 isa : teettää  
 islam : alistuminen (antautuminen)  
@@ -903,7 +903,7 @@ janolojia : tietoteoria (epistemologia)
 jar : kannu (karahvi)  
 jawaba : vastata  
 jawabe : vastaus  
-jayer : Algeria  
+jayeria : Algeria  
 jaze : jazz (jatsi)  
 je : joka  
 jebe : tasku  
@@ -981,7 +981,7 @@ kamar : huone
 kamarotal : lattia  
 kambudia : Kambodja  
 kamera : kamera  
-kamerun : Kamerun  
+kamerunia : Kamerun  
 kamis : paita  
 kamote : bataatti  
 kampe : leiri  
@@ -1232,11 +1232,11 @@ letis : lehtisalaatti
 lew : jo (tehty teko)  
 leze : päärynä  
 liba : nostaa pystyyn  
+libania : Libanon  
 libel : sudenkorento  
 liberia : Liberia  
 libi : pysty (seisova)  
 libia : Libya  
-libnun : Libanon  
 libu : seistä (seisoa)  
 lice : litši  
 lida : johtaa  
@@ -1331,7 +1331,7 @@ malike : jasmiini
 malka : omistaa  
 malke : omaisuus  
 malker : omistaja  
-malte : Malta  
+maltia : Malta  
 mamal : nisäkäs  
 mame : äiti (emä)  
 man : uros (mies)  
@@ -1387,7 +1387,7 @@ maxor : enemmistö-
 maxoria : enemmistö  
 mayan : maya (mayaintiaani)  
 maye : muurahainen  
-mayote : Mayotte  
+mayotia : Mayotte  
 me : minä  
 mece : otella  
 mece : ottelu (matsi)  
@@ -1515,7 +1515,7 @@ mote : liike
 moter : moottori  
 motokar : auto (automobiili)  
 motosikle : moottoripyörä  
-mozambike : Mosambik  
+mozambikia : Mosambik  
 mudan : pioni  
 muh : nauta (lehmä)  
 muhomanse : lehmän liha  
@@ -1580,7 +1580,7 @@ nenofeste : vuosijuhla
 nenomesoden : päivämäärä  
 nenufar : lumme  
 neon : neon  
-nepal : Nepal  
+nepalia : Nepal  
 neptun : Neptunus  
 neptunium : neptunium  
 nes : saari  
@@ -1597,7 +1597,7 @@ nice : alapuoli
 nici : ala-  
 nida : tarvita  
 nidi : tarpeellinen  
-nijer : Niger  
+nijeria : Niger  
 nikaragia : Nikaragua  
 nikel : nikkeli  
 nili : sininen  
@@ -1605,10 +1605,10 @@ nilon : nailon
 ninde : loukkaus (törkeys)  
 nindi : törkeä  
 niobium : niobium  
-nipon : Japani  
+niponia : Japani  
 niponium : nihonium  
 nitre : typpi  
-niwe : Niue  
+niwia : Niue  
 nixe : alkovi  
 nobelium : nobelium  
 noce : yö  
@@ -2049,7 +2049,7 @@ sang : veri
 sani : keinotekoinen (teko-, keino-)  
 sania : tuotanto  
 sanobax : keinotekoinen kieli (tekokieli, keinokieli)  
-santi helena : Saint Helena  
+santi helenia : Saint Helena  
 santi lusia : Saint Lucia  
 santi tome i prinsipe : Sao Tome ja Principe  
 santi : pyhä  
@@ -2076,7 +2076,7 @@ sem : seitsemän (7)
 seman : viikko  
 semente : sementti  
 sen : lava (näyttämö)  
-senegal : Senegal  
+senegalia : Senegal  
 senta : tuntea  
 serbia : Serbia  
 serebre : aivot  
@@ -2143,16 +2143,16 @@ soni : nukkua
 sonokamar : makuuhuone  
 sos : kastike (soosi)  
 sosis : makkara  
-soto : Lesoto  
+sotia : Lesoto  
 suahili : suahili  
 suan : hapan (kirpeä)  
 suazia : Swazimaa  
 sube : aamu  
 suboniam : aamiainen  
 sudafrikia : Etelä-Afrikka  
-sudan : Sudan  
+sudania : Sudan  
 sude : etelä  
-sudi sudan : Etelä-Sudan  
+sudi sudania : Etelä-Sudan  
 suede : hiki  
 suedi : hikinen  
 suenia : Ruotsi  
@@ -2175,8 +2175,8 @@ supre : ylitys
 supri : ylä- (yli-)  
 supris : yllätys  
 suria : Syyria  
-surinam : Surinam  
 surinami bax : sranan tongo  
+surinamia : Surinam  
 susan : lilja  
 suta : ommella  
 sutur : sauma (ommel)  
@@ -2191,7 +2191,7 @@ table : taulukko
 tafun : myrsky  
 taibey : Taipei  
 taige : taiga  
-taiwan : Taiwan  
+taiwania : Taiwan  
 tajikia : Tadžikistan  
 taksa : veloittaa (verottaa)  
 takse : taksa (vero)  
@@ -2281,8 +2281,8 @@ tortuge : kilpikonna
 tote : te  
 totol : kalkkuna  
 towal : pyyhe  
-trans : läpikulku  
 transa : kulkea poikki, läpi tai yli  
+transe : läpikulku  
 transeria : kuljetus  
 tren : juna  
 trenodaw : junarata (rautatie)  
@@ -2305,11 +2305,11 @@ tupay : orava
 turki : turkkilainen  
 turkia : Turkki  
 turkmenia : Turkmenistan  
-tuwal : Tuvalu  
+tuwalia : Tuvalu  
 tuze : jänis  
 ##u  
 u : tai (vai)  
-ukraina : Ukraina  
+ukrainia : Ukraina  
 ula : perua  
 ulul : ulvonta  
 ulula : ulvoa  
@@ -2330,7 +2330,8 @@ urdunia : Jordania
 urse : karhu  
 urse : karhu  
 uruguayia : Uruguai  
-usamerike : Yhdysvallat  
+usameriki : yhdysvaltalainen ("amerikkalainen")  
+usamerikia : Yhdysvallat ("Amerikka")  
 uza : käyttää  
 uzbekia : Uzbekistan  
 uzer : käyttäjä  

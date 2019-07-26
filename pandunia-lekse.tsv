@@ -641,7 +641,7 @@ eng:fra:football. spa:fútbol. por:futebol. deu:Fußball. hin:फ़ुटबॉ
 			fuy	:	bah! (yuck!)	bah!	hyi! (pyh!)	fu, fuj								
 ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).			gabre	:	grave (tomb)	tombo	hauta	grób, mogiła, grobowiec								
 			gabristan	:	graveyard	tombejo	hautausmaa	cmentarz								
-	dex	GA	gabun	:	Gabon		Gabon	Gabon								
+	dex	GA	gabunia	:	Gabon		Gabon	Gabon								
 hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.			gade	:	donkey (ass)	azeno	aasi	osioł								
 	made	Gd	gadolinium	:	gadolinium	gadolinio	gadolinium	gadolin								
 hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.			gaje	:	elephant	elefanto	norsu (elefantti)	słoń								
@@ -668,7 +668,7 @@ hin:गरम (garm). urd:fas:گرم‎‎ (garm). kur:germ. deu:eng:warm.			gar
 			gas	:	gas	gaso	kaasu	gaz								
 zho:高 (gāo). vie:cao.			gaw	:	high	alta	korkea	wysoki								
 			gawa	:	raise (lift)		nostaa									
-	dex	GY	gayan	:	Guyana	Gujano	Guyana	Gujana								
+	dex	GY	gayania	:	Guyana	Gujano	Guyana	Gujana								
 deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.			gaze	:	gauze	gazo	harso	gaza								
 ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼル (gazeru).			gazel	:	gazelle	gazelo	gaselli	gazela								
 eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).			gem	:	game	ludo	peli	gra								
@@ -685,7 +685,7 @@ eng:fra:spa:gay. por:guei.			gey	:	gay (homosexual)	samseksema	homo (homoseksuaa
 			gigo-	:	billion (giga-)	miliardo (giga-)	miljardi (giga-)	bilion, giga-								
 zho:金 (jīn). yue:(gam). zhu:gim. jpn:金 (kin). kor:금 (geum). vie:kim. tgl:ginto. tha:คำ (kam).	made	AU	gim	:	gold	oro	kulta	złoto								
 			gitar	:	guitar	gitaro	kitara	gitara								
-	dex	GF	giyan	:	French Guiana		Ranskan Guiana	Gujana Francuska								
+	dex	GF	giyania	:	French Guiana		Ranskan Guiana	Gujana Francuska								
 rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir. por:engolir.			glota	:	swallow	gluti	niellä	połknąć (połykać)								
 eng:glue. swa:gluu. + fra:glutineux.			glute	:	glue	gluo	liima	klej								
 			gluten	:	gluten	gluteno	gluteeni	gluten								
@@ -701,14 +701,14 @@ eng:graphic. fra:graphique.			graf	:	picture (graph, image)	bildo	kuva (kuvaus)	
 			grafobuke	:	picture book		kuvakirja	książka z obrazkami								
 			gram	:	gram	gramo	gramma	gram								
 eng:grass. hin:घास "ghās".			gras	:	grass	herbo	ruoho	trawa								
-	dex	GD	grenada	:	Grenada		Grenada	Grenada								
+	dex	GD	grenadia	:	Grenada		Grenada	Grenada								
 			grimas	:	grimace	grimaco	irvistys	grymas								
 rus:гром (grom). pol:grom.			grom	:	thunder (roaring)	tondro	jyrinä (ukkonen)	grom, huk								
 fra:gros. por:grosso. spa:grueso.			grosi	:	thick		paksu	gruby								
 			grosi harfe	:	bold letter		lihavoitu kirjain	pogrubiona litera								
 deu:Gruppe. fra:groupe. eng:group. spa:por:grupo. rus:группа (gruppa). kor:그룹 (geurup). jpn:グループ (gurūpu). tur:grup. hin:ग्रूप (grūp).			grupe	:	group	grupo	ryhmä	grupa								
-	dex	GP	guadelupe	:	Guadeloupe		Guadeloupe	Gwadelupa								
-	dex	GU	guam	:	Guam		Guam	Guam								
+	dex	GP	guadelupia	:	Guadeloupe		Guadeloupe	Gwadelupa								
+	dex	GU	guamia	:	Guam		Guam	Guam								
 zho:关系 (guānxi). vie:quan hệ. kor:관계 (gwangye). jpn:関係 (kankei).			guanxe	:	relationship (association, connection)	rilato	suhde (yhteys)	związek, powiązanie, połączenie								
 	dex	GT	guatemalia	:	Guatemala	Gvatemalo	Guatemala	Gwatemala								
 ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu. sna:mvuu. amh:gumarre.			gubuh	:	hippopotamus	hipopotamo	virtahepo	hipopotam								
@@ -800,7 +800,7 @@ orm:hisaaba. swa:hisabu.			hisabia	:	arithmetic		laskuoppi (aritmetiikka)	arytme
 			hoke	:	hockey	hokeo	hockey (jääkiekko)	hokej								
 	made	Ho	holmium	:	holmium	holmio	holmium	holm								
 			hon	:	hundred (100)	cent	sata (100)	sto (100)								
-	dex	HN	honduras	:	Honduras	Honduro	Honduras	Honduras								
+	dex	HN	hondurasia	:	Honduras	Honduro	Honduras	Honduras								
 	dex	HK	hongong	:	Hong Kong, SAR China		Hong Kong	Hong Kong								
 fra:heure. eng:hour. spa:hora.			hor	:	hour	horo	tunti	godzina								
 			hormon	:	hormone	hormono	hormoni	hormon								
@@ -859,7 +859,7 @@ eng:fra:spa:ion. rus:ион (ion). tur:iyon.			ion	:	ion	iono	ioni	jon
 			ioni radi	:	radioactive		radioaktiivinen	radioaktywny								
 			ioni radia	:	radioactivity (ionizing radiation)		radioaktiivisuus	radioaktywność								
 	dex	IQ	irakia	:	Iraq	Irakio	Irak	Irak								
-	dex	IR	iran	:	Iran	Iranio	Iran	Iran								
+	dex	IR	irania	:	Iran	Iranio	Iran	Iran								
 	made	Ir	iridium	:	iridium	iridio	iridium	iryd								
 			isa	:	cause to make	igi	teettää	skłonić do (spowodować zrobienie)								
 ara:(ʾislām). fas:(taslim). tur:teslim.			islam	:	submission (surrender)		alistuminen (antautuminen)	poddanie się, uległość, pokora, posłuszeństwo								
@@ -896,7 +896,7 @@ zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng). 			janger	:	a
 eng:jar. ara:(jara). por:spa:jarra.			jar	:	jug (jar, pitcher)		kannu (karahvi)	dzban, dzbanek; słój, słoik								
 			jawaba	:	respond (give an answer)	respondi	vastata	odpowiedzieć, odpowiadać								
 ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.			jawabe	:	answer (reply, response)	respondo	vastaus	odpowiedź, odzew								
-	dex	DZ	jayer	:	Algeria		Algeria	Algieria								
+	dex	DZ	jayeria	:	Algeria		Algeria	Algieria								
 			jaze	:	jazz		jazz (jatsi)	jazz, dżez								
 hin:जो (jo). urd:(jo).			je	:	which (relative pronoun)	kiu (rilativa pronomo)	joka						который			
 hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.			jebe	:	pocket	poŝo	tasku	kieszeń								
@@ -973,7 +973,7 @@ ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer.			kamar	:	room (
 			kamarotal	:	floor		lattia	podłoga								
 	dex	KH	kambudia	:	Cambodia	Kamboĝo	Kambodja	Kambodża								
 			kamera	:	camera	fotilo	kamera	kamera, aparat fotograficzny								
-	dex	CM	kamerun	:	Cameroon		Kamerun	Kamerun								
+	dex	CM	kamerunia	:	Cameroon		Kamerun	Kamerun								
 spa:por:camisa. ara:(qamīṣ). hin:क़मीज़ (kāmīz). ind:kemeja.			kamis	:	shirt	ĉemizo	paita	koszula								
 spa:camote. tgl:kamote.			kamote	:	sweet potato	batato	bataatti	słodki ziemniak	camote (batata)							
 			kampe	:	camp		leiri	obozowicz								
@@ -1223,11 +1223,11 @@ fra:l'été. rus:лето (leto). cze:léto. scr:leto.	mosim		lete	:	summer	some
 tha:แล้ว /lɛːw/. zho:了 (le). wuu:了 (lə'). hak:了 (le). yue:了 (liu).			lew	:	already (completed action)	jam (esti farita)	jo (tehty teko)	już (skończona czynność)								
 zho:梨子 (lízi). yue:梨 (lei42). vie:lê. 			leze	:	pear	piro	päärynä	gruszka				梨				
 			liba	:	erect		nostaa pystyyn	postawić (stawiać)								
+	dex	LB	libania	:	Lebanon		Libanon	Liban								
 			libel	:	dragonfly		sudenkorento	ważka								
 	dex	LR	liberia	:	Liberia		Liberia	Liberia								
 			libi	:	erect (standing)		pysty (seisova)	postawiony (stojący)								
 	dex	LY	libia	:	Libya		Libya	Libia								
-	dex	LB	libnun	:	Lebanon		Libanon	Liban								
 zho:立 "lì". yue:"lip". vie:lập. kor:립 "rib".			libu	:	stand		seistä (seisoa)	stać								
 zho:荔枝 (lìzhī). hin:लीची (līcī). eng:lychee. rus:личи (liči). ind:leci. vie:lệ chi.			lice	:	lychee (litchi)		litši	liczi								
 			lida	:	lead (direct)		johtaa	prowadzić, dowodzić, kierować								
@@ -1321,7 +1321,7 @@ kan:(mallige). tam:(mallikai). tel:(malla). ind:melati.  kor:말리 "malli". tha
 			malka	:	own		omistaa	mieć (posiadać)								
 ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. fas:melk. + pas:urd:(mālik). pnb:ਮਾਲਕ (mālik).			malke	:	property (belongings, possessions)		omaisuus	własność (mienie)			propriété (possession, bien)					
 			malker	:	owner (proprietor)	havanto	omistaja	właściciel (posiadacz)			possédant (propriétaire)					
-	dex	MT	malte	:	Malta		Malta	Malta								
+	dex	MT	maltia	:	Malta		Malta	Malta								
 			mamal	:	mammal		nisäkäs	ssak								
 spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).			mame	:	mother (mom)	patrino	äiti (emä)	matka, mama				妈妈				
 			man	:	male	viro	uros (mies)	męski								
@@ -1378,7 +1378,7 @@ fra: majeur. eng: major. spa: mayor.			maxor	:	major (not minor)		enemmistö-	wi
 spa: mayoría.			maxoria	:	majority		enemmistö	większość								
 			mayan	:	Maya	majao	maya (mayaintiaani)	Maya								
 zho:蚂蚁 (mǎyǐ). yue:螞蟻 (maa5 ngai5).			maye	:	ant	formiko	muurahainen	mrówka	hormigo		fourmi	蚂蚁 				
-	dex	YT	mayote	:	Mayotte		Mayotte	Majotta								
+	dex	YT	mayotia	:	Mayotte		Mayotte	Majotta								
 			me	:	I (me)	mi	minä	ja, mnie				我				
 			mece	:	compete (have a match)		otella	konkurować, rywalizować; odbyć mecz, odbywać mecz								
 eng:fra:match. hin:मैच (mɛc). pol:mecz. ron:meci. hun:meccs. rus:матч (matč). tur:maç.			mece	:	match (contest)		ottelu (matsi)	mecz, rywalizacja				比赛				
@@ -1506,7 +1506,7 @@ ita:moto. eng:motion.			mote	:	motion (movement)	movo	liike	ruch
 			moter	:	engine (motor)	motoro	moottori	silnik								
 eng:motorcar. sna:motokari. sot:motokara. swa:motokaa. zul:imoto. hau:mota.			motokar	:	motorcar (automobile)		auto (automobiili)	samochód (automobil)								
 tur:motosiklet. spa:motocicleta. fra:motocyclette. eng:motorcycle. rus:мотоцикл (mototsikl). zho:摩托车 (mótuōchē).			motosikle	:	motorcycle		moottoripyörä	motocykl (motor)								
-	dex	MZ	mozambike	:	Mozambique		Mosambik	Mozambik								
+	dex	MZ	mozambikia	:	Mozambique		Mosambik	Mozambik								
 zho:牡丹 (mǔdān). kor:모란 (moran). jpn:(botan). vie:mẫu đơn.			mudan	:	peony		pioni	piwonia								
 (onom.) eng:moo. deu:muh. rus:му (mu). tha:มอ (mo). hin:(mū). jpn:モーモー (mō mō). zho:哞 (mōu). tur:mö.			muh	:	cow	bovo	nauta (lehmä)	krowa								
 			muhomanse	:	beef	bovaĵo	lehmän liha	wołowina								
@@ -1570,7 +1570,7 @@ jpn:年 (nen). zho:年 (nián). yue:年 (nin4). kor:년 (nyeon). vie:năm,niên
 zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).			nenomesoden	:	date	dato	päivämäärä	data								
 			nenufar	:	water lily (nenuphar)		lumme	lilia wodna, nenufar								
 	made	Ne	neon	:	neon	neono	neon	neon								
-	dex	NP	nepal	:	Nepal	Nepalo	Nepal	Nepal								
+	dex	NP	nepalia	:	Nepal	Nepalo	Nepal	Nepal								
 			neptun	:	Neptune	Neptuno	Neptunus	Neptun								
 	made	Np	neptunium	:	neptunium	neptunio	neptunium	neptun								
 ell:νήσος (nēsos). ind:nusa. mlg:nosy.			nes	:	island		saari	wyspa								
@@ -1587,7 +1587,7 @@ ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (ni
 			nici	:	lower		ala-	poniższy								
 eng: need.			nida	:	need	bezoni	tarvita	potrzebować				需要				
 			nidi	:	necessary (needed)		tarpeellinen	potrzebny								
-	dex	NE	nijer	:	Niger	Niĝero	Niger	Niger								
+	dex	NE	nijeria	:	Niger	Niĝero	Niger	Niger								
 	dex	NI	nikaragia	:	Nicaragua	Nikaragvo	Nikaragua	Nikaragua								
 	made	Ni	nikel	:	nickel	nikelo	nikkeli	nikiel								
 ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).	ang		nili	:	blue	blua	sininen	niebieski								
@@ -1595,10 +1595,10 @@ ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம�
 hin:mar:निन्द् (nind).			ninde	:	insult (offence)	insulto	loukkaus (törkeys)	obraza, obelga								
 			nindi	:	rude (offensive)		törkeä	obraźliwy, niemiły, obelżywy								
 	made	Nb	niobium	:	niobium	niobo	niobium	niob								
-	dex	JP	nipon	:	Japan	Japanio	Japani	Japonia								
+	dex	JP	niponia	:	Japan	Japanio	Japani	Japonia								
 	made	Nh	niponium	:	nihonium	nihonio	nihonium	nihonium								
 	made	N	nitre	:	nitrogen	nitrogeno	typpi	azot								
-	dex	NU	niwe	:	Niue		Niue	Niue								
+	dex	NU	niwia	:	Niue		Niue	Niue								
 			nixe	:	niche (alcove)		alkovi	nisza, alkowa								
 	made	No	nobelium	:	nobelium	nobelio	nobelium	nobel								
 spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.			noce	:	night	nokto	yö	noc	noche	noite	noit	夜	ночь	रात	malam	gece
@@ -2044,7 +2044,7 @@ fra:sang. spa:sangre. por:sangue.			sang	:	blood	sango	veri	krew
 			sania	:	production		tuotanto	produkcja								
 			sanobax	:	artificial language (conlang)	artefarita lingvo	keinotekoinen kieli (tekokieli, keinokieli)	język sztuczny								
 por:spa:santo. eng:fra:saint. kon:santu. zho:圣 (shèng).			santi	:	holy (sacred)	sankta	pyhä	święty								
-	dex	SH	santi helena	:	Saint Helena		Saint Helena	Święta Helena								
+	dex	SH	santi helenia	:	Saint Helena		Saint Helena	Święta Helena								
 	dex	LC	santi lusia	:	Saint Lucia		Saint Lucia	Saint Lucia								
 	dex	ST	santi tome i prinsipe	:	Sao Tome and Principe		Sao Tome ja Principe	Wyspy Świętego Tomasza i Książęca								
 spa:zapato. por:sapato. ind:sepatu.			sapate	:	shoe	ŝuo	kenkä	but								
@@ -2073,7 +2073,7 @@ rus:семь (semʹ).			sem	:	seven (7)	sep (7)	seitsemän (7)	siedem (7)
 spa:por:semana. fra:semaine.			seman	:	week	semajno	viikko	tydzień								
 eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).			semente	:	cement		sementti	cement								
 fra:scène. spa:escena. rus:сцена (scena). deu:Szene. tur:sahne. fas:(sahne).			sen	:	stage (scene)		lava (näyttämö)	scena								
-	dex	SN	senegal	:	Senegal		Senegal	Senegal								
+	dex	SN	senegalia	:	Senegal		Senegal	Senegal								
 			sense	:	sense			zmysł								
 			senta	:	feel (sense by touch)	senti	tuntea	czuć								
 	dex	RS	serbia	:	Serbia	Serbio	Serbia	Serbia								
@@ -2143,7 +2143,7 @@ zho:松 "sōng". wuu:"son". tha:สน "sǒn". kor:솔 "sol". vie:thông. + rus:
 			sonokamar	:	bedroom	dormoĉambro	makuuhuone	sypialnia								
 eng:fra:sauce. rus:соус "sous". hin:सॉस "sos". deu:Soße. vie:xốt. jpn:ソース "sōsu". that:ซอส "soot". kor:소스 "soseu". ind:saus.			sos	:	sauce	saŭco	kastike (soosi)	sos								
 fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.			sosis	:	sausage	kolbaso	makkara	kiełbasa								
-	dex	LS	soto	:	Lesotho		Lesoto	Lesotho								
+	dex	LS	sotia	:	Lesotho		Lesoto	Lesotho								
 			suahili	:	Swahili	sŭahili	suahili	suahili								
 zho:酸 (suān).			suan	:	sour	acida	hapan (kirpeä)	kwaśny								
 	dex	SZ	suazia	:	Swaziland		Swazimaa	Suazi								
@@ -2151,10 +2151,10 @@ ara:(ṣabāḥ). tur:sabah. fas:(sobh). urd:(subah). hin:सुबह (subah).
 			suboden	:	forenoon			przedpołudnie								
 			suboniam	:	breakfast		aamiainen	śniadanie								
 	dex	ZA	sudafrikia	:	South Africa		Etelä-Afrikka	Południowa Afryka								
-	dex	SD	sudan	:	Sudan		Sudan	Sudan								
+	dex	SD	sudania	:	Sudan		Sudan	Sudan								
 spa:sur. por:sul. fra:sud.			sude	:	south	sudo	etelä	południe								
 	dex	GS	sudi jorjia i sudi sanwice nesia	:	South Georgia and the South Sandwich Islands			Wyspy Georgia Południowa i Sandwich Południowy								
-	dex	SS	sudi sudan	:	South Sudan		Etelä-Sudan	Sudan Południowy								
+	dex	SS	sudi sudania	:	South Sudan		Etelä-Sudan	Sudan Południowy								
 			suede	:	sweat (perspiration)		hiki	pot								
 			suedi	:	sweaty		hikinen	spocony								
 	dex	SE	suenia	:	Sweden		Ruotsi	Szwecja								
@@ -2183,8 +2183,8 @@ spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп "sup". ind:su
 			supri	:	upper		ylä- (yli-)	górny								
 eng:surprise. tur:sürpriz. fas:(surpris). rus::сюрприз (siurpriz). por:surpresa. spa:sorpresa. 			supris	:	surprise	surprizo	yllätys	zaskoczenie				惊奇				
 	dex	SY	suria	:	Syria		Syyria	Syria								
-	dex	SR	surinam	:	Suriname		Surinam	Surinam								
 			surinami bax	:	Sranan Tongo		sranan tongo	język surinamski								
+	dex	SR	surinamia	:	Suriname		Surinam	Surinam								
 fas:sousan. ara:(sawsan). heb:(šōšān). + eng:Susan. por:spa:Susana. fra:Suzanne. pol:Zuzana. rus:Сусанна (Susanna). 			susan	:	lily		lilja	lilia	lirio	lírio	lys	百合花 	лилия	कुमुदिनी 	lili	zambak
 hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.			suta	:	sew		ommella	szyć								
 fra:eng:suture. por:spa:sutura.			sutur	:	suture (seam)		sauma (ommel)	szew								
@@ -2198,7 +2198,7 @@ eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.			t
 zho:大风 (dàfēng). yue:大風 (daai6fung1). kor:태풍 (taepung). jpn:台風 (taifuu). tha:ไต้ฝุ่น (taifun). ara:(ṭūfān). fas:urd:(tufān). hin:तूफ़ान (tūfān). pnb:ਤੂਫ਼ਾਨ (tūfān). por:tufão. spa:tifón. fra:typhon. eng:typhoon. rus:тайфун (tayfun).			tafun	:	storm (tempest, typhoon, hurricane, cyclone)	ŝtormo	myrsky	burza, sztorm, tajfun								
 			taibey	:	Taipei		Taipei	Tajpej								
 			taige	:	taiga	tajgo	taiga	tajga								
-	dex	TW	taiwan	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska								
+	dex	TW	taiwania	:	Taiwan (Republic of China)		Taiwan	Tajwan, Republika Chińska								
 	dex	TJ	tajikia	:	Tajikistan		Tadžikistan	Tadżykistan								
 			taksa	:	collect fees or taxes		veloittaa (verottaa)									
 eng:tax. por:taxa. spa:tasa. hin:टैक्स "ṭEks".			takse	:	tax (fee, fare)		taksa (vero)	podatek, opłata								
@@ -2297,8 +2297,8 @@ fra:torse. rus:торс (tors). deu:eng:spa:ind:torso.			torse	:	trunk (torso)	t
 			tote	:	you all	vi ĉiu	te	wy, was				你们				
 nah:totolin. spa:totol. yor:tòlótòló. ibo:torotoro.			totol	:	turkey		kalkkuna	indyk								
 eng:towel. spa:toalla. por:toalha. hin:तौलिया (tauliyā). ben:তোয়ালে (toyale). tgl:tuwalya. jpn:タオル (taoru).			towal	:	towel	viŝilo	pyyhe	ręcznik								
-eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).			trans	:	transit (passage)		läpikulku	przejazd, przewóz, tranzyt								
 			transa	:	transit (pass through or across)		kulkea poikki, läpi tai yli	przejść, przechodzić, przejechać, przejeżdżać								
+eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).			transe	:	transit (passage)		läpikulku	przejazd, przewóz, tranzyt								
 			transeria	:	transportation		kuljetus									
 eng:fra:train. spa:tur:tren. hin:ट्रेन "ṭren".			tren	:	train	trajno (vagonaro)	juna	pociąg								
 			trenodaw	:	railway (railroad)	fervojo	junarata (rautatie)	kolej								
@@ -2322,10 +2322,10 @@ may:ind:tupai.			tupay	:	squirrel	sciuro	orava	wiewiórka
 			turki	:	Turkish		turkkilainen	turecki								
 	dex	TR	turkia	:	Turkey	Turkio	Turkki	Turcja								
 	dex	TM	turkmenia	:	Turkmenistan		Turkmenistan	Turkmenistan								
-	dex	TV	tuwal	:	Tuvalu		Tuvalu	Tuwalu								
+	dex	TV	tuwalia	:	Tuvalu		Tuvalu	Tuwalu								
 zho:兔子 (tùzi). yue:兔仔 (tou3zai2).			tuze	:	rabbit (hare)		jänis	królik, zając			lapin, lièvre					
 fra:ou. por:ou.			u	:	or	aŭ	tai (vai)	lub, albo								
-	dex	UA	ukraina	:	Ukraine		Ukraina	Ukraina								
+	dex	UA	ukrainia	:	Ukraine		Ukraina	Ukraina								
 			ula	:	reverse (undo)	malfari	perua	cofnąć (anulować, usunąć skutki)								
 			ulul	:	howling		ulvonta	wycie, skowyt								
 			ulula	:	howl		ulvoa	wyć								
@@ -2346,9 +2346,10 @@ rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fa
 fra:ours. por:urso. ita:orso. spa:oso.			urse	:	bear	urso	karhu	niedźwiedź								
 fra:ours. por:urso. spa:oso. fas:(xers).			urse	:	bear	urso	karhu	niedźwiedź								
 	dex	UY	uruguayia	:	Uruguay		Uruguai	Urugwaj								
-	dex	US	usamerike	:	United States of America		Yhdysvallat	Stany Zjednoczone Ameryki								
 	dex	AS	usameriki samoa	:	American Samoa			Amerykańska Samoa								
 	dex	VI	usameriki wirjin nesia	:	Virgin Islands, US			Wyspy Dziewicze USA								
+			usameriki	:	American (US)		yhdysvaltalainen ("amerikkalainen")									
+	dex	US	usamerikia	:	United States of America (USA)		Yhdysvallat ("Amerikka")	Stany Zjednoczone Ameryki								
 eng:use. spa:usar. pol:używać.	coverb		uza	:	use (employ, apply)	uzi	käyttää	użyć, używać, zatrudnić, stosować								
 	dex	UZ	uzbekia	:	Uzbekistan		Uzbekistan	Uzbekistan								
 			uzer	:	user		käyttäjä	użytkownik								
@@ -2359,7 +2360,7 @@ fra:vin. spa:vino. rus:вино (vino). eng:wine. deu:Wein. hin:वाइन (v
 			wakila	:	represent		edustaa	reprezentować								
 			waksin	:	vaccine		rokote	szczepionka								
 por:vale. eng:valley. fra:vallée. spa:valle.			wale	:	valley	valo	laakso	dolina	valle	vale						
-	dex	WF	walis i futuna da nesia	:	Wallis and Futuna Islands			Saint Vincent i Grenadyny								
+	dex	WF	walis i futun da nesia	:	Wallis and Futuna Islands			Saint Vincent i Grenadyny								
 			wan	:	bowl (earless cup)		kulho	misa, kubek bez ucha								
 			wanil	:	vanilla		vanilja	wanilia								
 eng:want.			wanta	:	want (desire)	voli	haluta	chcieć, pragnąć				想要				

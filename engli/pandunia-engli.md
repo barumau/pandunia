@@ -646,7 +646,7 @@ fuy : bah! (yuck!)
 ##g  
 gabre : grave (tomb)  
 gabristan : graveyard  
-gabun : Gabon  
+gabunia : Gabon  
 gade : donkey (ass)  
 gadolinium : gadolinium  
 gaje : elephant  
@@ -673,7 +673,7 @@ garmi : warm
 gas : gas  
 gaw : high  
 gawa : raise (lift)  
-gayan : Guyana  
+gayania : Guyana  
 gaze : gauze  
 gazel : gazelle  
 gem : game  
@@ -690,7 +690,7 @@ gida : steer
 gigo- : billion (giga-)  
 gim : gold  
 gitar : guitar  
-giyan : French Guiana  
+giyania : French Guiana  
 glota : swallow  
 glute : glue  
 gluten : gluten  
@@ -706,14 +706,14 @@ grafi : graphic (pictorial)
 grafobuke : picture book  
 gram : gram  
 gras : grass  
-grenada : Grenada  
+grenadia : Grenada  
 grimas : grimace  
 grom : thunder (roaring)  
 grosi harfe : bold letter  
 grosi : thick  
 grupe : group  
-guadelupe : Guadeloupe  
-guam : Guam  
+guadelupia : Guadeloupe  
+guamia : Guam  
 guanxe : relationship (association, connection)  
 guatemalia : Guatemala  
 gubuh : hippopotamus  
@@ -806,7 +806,7 @@ hobe : hobby
 hoke : hockey  
 holmium : holmium  
 hon : hundred (##)  
-honduras : Honduras  
+hondurasia : Honduras  
 hongong : Hong Kong, SAR China  
 hor : hour  
 hormon : hormone  
@@ -866,7 +866,7 @@ ion : ion
 ioni radi : radioactive  
 ioni radia : radioactivity (ionizing radiation)  
 irakia : Iraq  
-iran : Iran  
+irania : Iran  
 iridium : iridium  
 isa : cause to make  
 islam : submission (surrender)  
@@ -904,7 +904,7 @@ janolojia : epistemology
 jar : jug (jar, pitcher)  
 jawaba : respond (give an answer)  
 jawabe : answer (reply, response)  
-jayer : Algeria  
+jayeria : Algeria  
 jaze : jazz  
 je : which (relative pronoun)  
 jebe : pocket  
@@ -982,7 +982,7 @@ kamar : room (chamber)
 kamarotal : floor  
 kambudia : Cambodia  
 kamera : camera  
-kamerun : Cameroon  
+kamerunia : Cameroon  
 kamis : shirt  
 kamote : sweet potato  
 kampe : camp  
@@ -1233,11 +1233,11 @@ letis : lettuce
 lew : already (completed action)  
 leze : pear  
 liba : erect  
+libania : Lebanon  
 libel : dragonfly  
 liberia : Liberia  
 libi : erect (standing)  
 libia : Libya  
-libnun : Lebanon  
 libu : stand  
 lice : lychee (litchi)  
 lida : lead (direct)  
@@ -1332,7 +1332,7 @@ malike : jasmine
 malka : own  
 malke : property (belongings, possessions)  
 malker : owner (proprietor)  
-malte : Malta  
+maltia : Malta  
 mamal : mammal  
 mame : mother (mom)  
 man : male  
@@ -1389,7 +1389,7 @@ maxor : major (not minor)
 maxoria : majority  
 mayan : Maya  
 maye : ant  
-mayote : Mayotte  
+mayotia : Mayotte  
 me : I (me)  
 mece : compete (have a match)  
 mece : match (contest)  
@@ -1517,7 +1517,7 @@ mote : motion (movement)
 moter : engine (motor)  
 motokar : motorcar (automobile)  
 motosikle : motorcycle  
-mozambike : Mozambique  
+mozambikia : Mozambique  
 mudan : peony  
 muh : cow  
 muhomanse : beef  
@@ -1582,7 +1582,7 @@ nenofeste : anniversary
 nenomesoden : date  
 nenufar : water lily (nenuphar)  
 neon : neon  
-nepal : Nepal  
+nepalia : Nepal  
 neptun : Neptune  
 neptunium : neptunium  
 nes : island  
@@ -1599,7 +1599,7 @@ nice : underside (underneath)
 nici : lower  
 nida : need  
 nidi : necessary (needed)  
-nijer : Niger  
+nijeria : Niger  
 nikaragia : Nicaragua  
 nikel : nickel  
 nili : blue  
@@ -1607,10 +1607,10 @@ nilon : nylon
 ninde : insult (offence)  
 nindi : rude (offensive)  
 niobium : niobium  
-nipon : Japan  
+niponia : Japan  
 niponium : nihonium  
 nitre : nitrogen  
-niwe : Niue  
+niwia : Niue  
 nixe : niche (alcove)  
 nobelium : nobelium  
 noce : night  
@@ -2059,7 +2059,7 @@ sang : blood
 sani : artificial  
 sania : production  
 sanobax : artificial language (conlang)  
-santi helena : Saint Helena  
+santi helenia : Saint Helena  
 santi lusia : Saint Lucia  
 santi tome i prinsipe : Sao Tome and Principe  
 santi : holy (sacred)  
@@ -2089,7 +2089,7 @@ sem : seven (7)
 seman : week  
 semente : cement  
 sen : stage (scene)  
-senegal : Senegal  
+senegalia : Senegal  
 sense : sense  
 senta : feel (sense by touch)  
 serbia : Serbia  
@@ -2159,7 +2159,7 @@ soni : sleep (be asleep)
 sonokamar : bedroom  
 sos : sauce  
 sosis : sausage  
-soto : Lesotho  
+sotia : Lesotho  
 suahili : Swahili  
 suan : sour  
 suazia : Swaziland  
@@ -2167,10 +2167,10 @@ sube : morning (dawn)
 suboden : forenoon  
 suboniam : breakfast  
 sudafrikia : South Africa  
-sudan : Sudan  
+sudania : Sudan  
 sude : south  
 sudi jorjia i sudi sanwice nesia : South Georgia and the South Sandwich Islands  
-sudi sudan : South Sudan  
+sudi sudania : South Sudan  
 suede : sweat (perspiration)  
 suedi : sweaty  
 suenia : Sweden  
@@ -2199,8 +2199,8 @@ supre : overpass
 supri : upper  
 supris : surprise  
 suria : Syria  
-surinam : Suriname  
 surinami bax : Sranan Tongo  
+surinamia : Suriname  
 susan : lily  
 suta : sew  
 sutur : suture (seam)  
@@ -2215,7 +2215,7 @@ table : table (matrix)
 tafun : storm (tempest, typhoon, hurricane, cyclone)  
 taibey : Taipei  
 taige : taiga  
-taiwan : Taiwan (Republic of China)  
+taiwania : Taiwan (Republic of China)  
 tajikia : Tajikistan  
 taksa : collect fees or taxes  
 takse : tax (fee, fare)  
@@ -2314,8 +2314,8 @@ tortuge : turtle (tortoise)
 tote : you all  
 totol : turkey  
 towal : towel  
-trans : transit (passage)  
 transa : transit (pass through or across)  
+transe : transit (passage)  
 transeria : transportation  
 tren : train  
 trenodaw : railway (railroad)  
@@ -2339,11 +2339,11 @@ tupay : squirrel
 turki : Turkish  
 turkia : Turkey  
 turkmenia : Turkmenistan  
-tuwal : Tuvalu  
+tuwalia : Tuvalu  
 tuze : rabbit (hare)  
 ##u  
 u : or  
-ukraina : Ukraine  
+ukrainia : Ukraine  
 ula : reverse (undo)  
 ulul : howling  
 ulula : howl  
@@ -2364,9 +2364,10 @@ urdunia : Jordan
 urse : bear  
 urse : bear  
 uruguayia : Uruguay  
-usamerike : United States of America  
 usameriki samoa : American Samoa  
 usameriki wirjin nesia : Virgin Islands, US  
+usameriki : American (US)  
+usamerikia : United States of America (USA)  
 uza : use (employ, apply)  
 uzbekia : Uzbekistan  
 uzer : user  
@@ -2379,7 +2380,7 @@ waineria : winery
 wakila : represent  
 waksin : vaccine  
 wale : valley  
-walis i futuna da nesia : Wallis and Futuna Islands  
+walis i futun da nesia : Wallis and Futuna Islands  
 wan : bowl (earless cup)  
 wanil : vanilla  
 wanta : want (desire)  

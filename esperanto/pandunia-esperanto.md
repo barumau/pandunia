@@ -515,7 +515,7 @@ garder : gardisto
 garmi : varma  
 gas : gaso  
 gaw : alta  
-gayan : Gujano  
+gayania : Gujano  
 gaze : gazo  
 gazel : gazelo  
 gem : ludo  
@@ -618,7 +618,7 @@ hobe : hobio
 hoke : hokeo  
 holmium : holmio  
 hon : cent  
-honduras : Honduro  
+hondurasia : Honduro  
 hor : horo  
 hormon : hormono  
 horwatia : Kroatio  
@@ -647,7 +647,7 @@ inxala : esperi
 iode : jodo  
 ion : iono  
 irakia : Irakio  
-iran : Iranio  
+irania : Iranio  
 iridium : iridio  
 isa : igi  
 islamisti xaria : ŝario  
@@ -1003,7 +1003,7 @@ nawati : naūatla
 nen : jaro  
 nenomesoden : dato  
 neon : neono  
-nepal : Nepalo  
+nepalia : Nepalo  
 neptun : Neptuno  
 neptunium : neptunio  
 nete : reto  
@@ -1011,14 +1011,14 @@ ni : ne
 niama : manĝi (trinki)  
 niamokamar : manĝoĉambro  
 nida : bezoni  
-nijer : Niĝero  
+nijeria : Niĝero  
 nikaragia : Nikaragvo  
 nikel : nikelo  
 nili : blua  
 nilon : nilono  
 ninde : insulto  
 niobium : niobo  
-nipon : Japanio  
+niponia : Japanio  
 niponium : nihonio  
 nitre : nitrogeno  
 nobelium : nobelio  

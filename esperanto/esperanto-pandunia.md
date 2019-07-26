@@ -452,7 +452,7 @@ greka : helen
 Grekio : helenia  
 grimaco : grimas  
 grupo : grupe  
-Gujano : gayan  
+Gujano : gayania  
 guruo (instruisto) : gur  
 gusti kiel : gustu ka  
 gusto : guste  
@@ -503,7 +503,7 @@ hokeo : hoke
 holmio : holmium  
 homaro : insania  
 homo : insan  
-Honduro : honduras  
+Honduro : hondurasia  
 honoro (respekto) : onor  
 honto : xarme  
 hormono : hormon  
@@ -533,7 +533,7 @@ inviti : plisa laya
 io : koy xey  
 iono : ion  
 Irakio : irakia  
-Iranio : iran  
+Iranio : irania  
 iri : gowa  
 iridio : iridium  
 islama : islamisti  
@@ -554,7 +554,7 @@ iu persono : koy ren
 jako : jake  
 jam (esti farita) : lew  
 Jamajko : jamaikia  
-Japanio : nipon  
+Japanio : niponia  
 jaro : nen  
 jasmeno : malike  
 Jemeno : yemenia  
@@ -903,7 +903,7 @@ naūatla : nawati
 ne : ni  
 negoco : biznes  
 neono : neon  
-Nepalo : nepal  
+Nepalo : nepalia  
 neptunio : neptunium  
 Neptuno : neptun  
 newtono (N) : nuton  
@@ -918,7 +918,7 @@ nilono : nilon
 niobo : niobium  
 nitrogeno : nitre  
 Niĝerio : naijiria  
-Niĝero : nijer  
+Niĝero : nijeria  
 nobelio : nobelium  
 nodo : node  
 nokto : noce  

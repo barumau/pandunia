@@ -40,7 +40,7 @@ alcohol : alkol
 alcoholic : alkoli  
 alga : alge  
 algebra : jebria  
-Algeria : jayer  
+Algeria : jayeria  
 all : pan  
 allophone : alofone  
 allow (permit) : permisa  
@@ -54,6 +54,7 @@ always : pan zaman
 ambassador : daixer  
 ambiguous : polomeni  
 America (continent) : amerike  
+American (US) : usameriki  
 American : ameriki  
 American Samoa : usameriki samoa  
 americium : amerikium  
@@ -345,7 +346,7 @@ calm (peaceful) : xanti
 Cambodia : kambudia  
 camel : gamel  
 camera : kamera  
-Cameroon : kamerun  
+Cameroon : kamerunia  
 camp : kampe  
 camper : kamper  
 can (know, be able) : abla  
@@ -855,7 +856,7 @@ francium : fransium
 free (liberate) : hura  
 free (unchained) : huri  
 freedom (liberty) : huria  
-French Guiana : giyan  
+French Guiana : giyania  
 French Polynesia : fransi polinesia  
 frequency : cangia  
 fresh : tazi  
@@ -875,7 +876,7 @@ fungus : funge
 funny (amusing) : fani  
 future time : wile  
 ##g  
-Gabon : gabun  
+Gabon : gabunia  
 gadolinium : gadolinium  
 gallery (exhibition hall) : galeria  
 gallium : galium  
@@ -943,7 +944,7 @@ green : sabzangi
 greens : sabze  
 greet : salama  
 greeting (hello) : salame  
-Grenada : grenada  
+Grenada : grenadia  
 grey (gray, ashy) : huyangi  
 grief (sorrow) : duke  
 grieve : duka  
@@ -954,8 +955,8 @@ group : grupe
 grow (get bigger) : dayu  
 grow : rastu  
 growth : raste  
-Guadeloupe : guadelupe  
-Guam : guam  
+Guadeloupe : guadelupia  
+Guam : guamia  
 guarantee (warranty) : garante  
 guard (watch) : garda  
 guardian (watchman) : garder  
@@ -970,7 +971,7 @@ gun (cannon) : kanon
 gun (handheld firearm) : bunduke  
 gunpowder : barude  
 guru (teacher) : gur  
-Guyana : gayan  
+Guyana : gayania  
 ##h  
 habit : ade  
 hafnium : hafnium  
@@ -1036,7 +1037,7 @@ holy (sacred) : santi
 Holy See (Vatican City State) : watikania  
 home (residence) : dom  
 homosexual : samojinsokami  
-Honduras : honduras  
+Honduras : hondurasia  
 honey : mel  
 Hong Kong, SAR China : hongong  
 honorable (respectable) : onori  
@@ -1116,7 +1117,7 @@ invite : plisa laya
 iodine : iode  
 iodine : yode  
 ion : ion  
-Iran : iran  
+Iran : irania  
 Iraq : irakia  
 iridium : iridium  
 iron : fer  
@@ -1136,7 +1137,7 @@ jailer (imprisoner) : prizoner
 Jainism : jeinistia  
 Jamaica : jamaikia  
 January : mes 1 (mes un)  
-Japan : nipon  
+Japan : niponia  
 jasmine : malike  
 jazz : jaze  
 jealous : jelos  
@@ -1227,13 +1228,13 @@ learn (study) : darsa
 least (minimally) : minim  
 least distinguishable unit : em  
 leave (go out, exit) : cuta  
-Lebanon : libnun  
+Lebanon : libania  
 left : lefte  
 leftist (left-winger) : leftiste  
 lemon : limon  
 length : longia  
 lengthen (prolong) : longa  
-Lesotho : soto  
+Lesotho : sotia  
 less : min  
 lesson : darse  
 let's : haida  
@@ -1318,7 +1319,7 @@ Malayali (Malayalam) : malayali
 Malaysia : malaisia  
 male : man  
 Mali : malia  
-Malta : malte  
+Malta : maltia  
 mammal : mamal  
 man (adult male) : maturi man  
 manage (organize, direct) : noma  
@@ -1369,7 +1370,7 @@ Mauritius : morisia
 maximal : maximi  
 May : mes 5 (mes lim)  
 Maya : mayan  
-Mayotte : mayote  
+Mayotte : mayotia  
 mean (cruel) : zalim  
 mean (medium, average) : medi  
 mean (signify) : mena  
@@ -1463,7 +1464,7 @@ mouse : mux
 mouth : boke  
 move (transfer, change place) : kina  
 movement : kine  
-Mozambique : mozambike  
+Mozambique : mozambikia  
 MSG (monosodium glutamate) : micin  
 mud (mire) : pote  
 muddy : poti  
@@ -1502,7 +1503,7 @@ necessary (needed) : nidi
 need : nida  
 needle (pin) : pin  
 neon : neon  
-Nepal : nepal  
+Nepal : nepalia  
 Neptune : neptun  
 neptunium : neptunium  
 net : nete  
@@ -1520,7 +1521,7 @@ Nicaragua : nikaragia
 nice (pleasant, lovely) : latif  
 niche (alcove) : nixe  
 nickel : nikel  
-Niger : nijer  
+Niger : nijeria  
 Nigeria : naijiria  
 night : noce  
 nightingale : bulbul  
@@ -1528,7 +1529,7 @@ nihonium : niponium
 nine (9) : naw  
 niobium : niobium  
 nitrogen : nitre  
-Niue : niwe  
+Niue : niwia  
 nobelium : nobelium  
 nobody (no-one) : nol ren  
 noise : kelele  
@@ -1982,7 +1983,7 @@ Sabbath : sabate
 sad : duki  
 safe (secure) : sekur  
 saffron : safran  
-Saint Helena : santi helena  
+Saint Helena : santi helenia  
 Saint John's Day : yohani feste  
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : winsi i grenadin  
@@ -2032,7 +2033,7 @@ self : ze
 self-moving (automotive, automobile) : automoti  
 send (emit, transmit) : misa  
 sender (transmitter) : miser  
-Senegal : senegal  
+Senegal : senegalia  
 sense : sense  
 sentence (phrase) : fraze  
 September : mes 9 (mes naw)  
@@ -2137,7 +2138,7 @@ sour : suan
 south : sude  
 South Africa : sudafrikia  
 South Georgia and the South Sandwich Islands : sudi jorjia i sudi sanwice nesia  
-South Sudan : sudi sudan  
+South Sudan : sudi sudania  
 space (cosmos, universe) : kosmia  
 Spain : espania  
 speak (communicate) : baxa  
@@ -2193,7 +2194,7 @@ submission (surrender) : islam
 substitute : wisa  
 subway (metro) : tunelotren  
 suck : cupa  
-Sudan : sudan  
+Sudan : sudania  
 suffer (get hurt) : paxu  
 suffering : paxia  
 suffix for adjectives : -i  
@@ -2213,7 +2214,7 @@ Sunday : war 7 (war sem)
 superb (wonderful, super) : super  
 supply (dispense, issue, put out) : fada  
 surface : fas  
-Suriname : surinam  
+Suriname : surinamia  
 surname (family name) : familonam  
 surpass (go over) : supra  
 surprise : supris  
@@ -2244,7 +2245,7 @@ tactics (strategy) : tatike
 taiga : taige  
 tail : dum  
 Taipei : taibey  
-Taiwan (Republic of China) : taiwan  
+Taiwan (Republic of China) : taiwania  
 Tajikistan : tajikia  
 tale (legend, saga) : sage  
 talk (say, speak) : loga  
@@ -2360,7 +2361,7 @@ toxic (poisonous, venomous) : toksi
 train : tren  
 train hijacker : trenokaper  
 transit (pass through or across) : transa  
-transit (passage) : trans  
+transit (passage) : transe  
 translate (interpret) : tarja  
 translation (interpretation) : tarje  
 transportation : transeria  
@@ -2390,7 +2391,7 @@ Turkish : turki
 Turkmenistan : turkmenia  
 turquoise gem : firuze  
 turtle (tortoise) : tortuge  
-Tuvalu : tuwal  
+Tuvalu : tuwalia  
 twice : dul ban  
 two (2) : dul  
 typewriter : kitabomaxin  
@@ -2399,7 +2400,7 @@ tyrant : tiran
 ##u  
 Uganda : gandia  
 ugly : mal rupi  
-Ukraine : ukraina  
+Ukraine : ukrainia  
 unambiguous : unomeni  
 uncover (reveal) : dekula  
 under (go under) : nica  
@@ -2410,7 +2411,7 @@ union : unia
 unite : una  
 united : uni  
 United Kingdom : britania  
-United States of America : usamerike  
+United States of America (USA) : usamerikia  
 university : dayodarsia  
 unplug (uncork) : tapula  
 upper : supri  
@@ -2466,7 +2467,7 @@ wait : denga
 wake (make awake) : weka  
 walk (march) : marca  
 wall : mur  
-Wallis and Futuna Islands : walis i futuna da nesia  
+Wallis and Futuna Islands : walis i futun da nesia  
 wallpaper : muropapir  
 want (desire) : wanta  
 warm : garmi  

@@ -20,7 +20,7 @@ alfabet łaciński, łacinka, alfabet rzymski : latini abace
 alfabet, abecadło : abace  
 alga (wodorost) : alge  
 algebra : jebria  
-Algieria : jayer  
+Algieria : jayeria  
 alkohol : alkol  
 alkoholowy : alkoli  
 alofon : alofone  
@@ -477,7 +477,7 @@ funkcja, stanowisko : funca
 funkcjonariusz, urzędnik : ofiser  
 funt (£) : paunde  
 ##g  
-Gabon : gabun  
+Gabon : gabunia  
 gadolin : gadolinium  
 gal : galium  
 galeria, sala wystawowa : galeria  
@@ -522,7 +522,7 @@ grać muzykę : musika
 grać w grę : gema  
 grać, odgrywać rolę : rola  
 Grecja : helenia  
-Grenada : grenada  
+Grenada : grenadia  
 grom, huk : grom  
 gruby : grosi  
 grudzień : mes 9 (mes naw)  
@@ -533,16 +533,16 @@ grymas : grimas
 grzebień : kange  
 grzyb : funge  
 grób, mogiła, grobowiec : gabre  
-Guam : guam  
+Guam : guamia  
 Gudżarat : gujarati  
 Guernsey : genzia  
 Guinea Bissau : bisawi ginia  
-Gujana : gayan  
-Gujana Francuska : giyan  
+Gujana : gayania  
+Gujana Francuska : giyania  
 guma : gom  
 guru, mistrz : gur  
 guzik : boton  
-Gwadelupa : guadelupe  
+Gwadelupa : guadelupia  
 gwarancja : garante  
 Gwatemala : guatemalia  
 gwiazda : xing  
@@ -591,7 +591,7 @@ hokej na lodzie : aisohoke
 Holandia (Królestwo Niderlandów) : nederlandia  
 holm : holmium  
 homoseksualny : samojinsokami  
-Honduras : honduras  
+Honduras : hondurasia  
 Hong Kong : hongong  
 honorowy : onori  
 hormon : hormon  
@@ -634,7 +634,7 @@ intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) : tezi
 internet : internete  
 inżynier : injener  
 Irak : irakia  
-Iran : iran  
+Iran : irania  
 iryd : iridium  
 Islam : islamistia  
 islamofobia : islamofobia  
@@ -660,7 +660,7 @@ jak? : ki xey
 jakikolwiek, którykolwiek : eni  
 jakiś : koy  
 Jamajka : jamaikia  
-Japonia : nipon  
+Japonia : niponia  
 jaskinia : guhe  
 jasny, czysty : ming  
 jasny, świetlny : nuri  
@@ -706,7 +706,7 @@ kaliforn : kalifornium
 kalkulować : hisaba  
 Kambodża : kambudia  
 kamera, aparat fotograficzny : kamera  
-Kamerun : kamerun  
+Kamerun : kamerunia  
 kamień : petre  
 Kanada : kanadia  
 kanał : kanal  
@@ -901,12 +901,12 @@ latać, lecieć : feya
 lato : lete  
 lekcja : darse  
 leksem : leksem  
-Lesotho : soto  
+Lesotho : sotia  
 lew : sing  
 lewa strona : lefte  
 lewicowiec (lewak) : leftiste  
 leżeć : lala  
-Liban : libnun  
+Liban : libania  
 liberalista, wolnościowiec : huriste  
 liberalizm : huristia  
 liberalizm rynkowy : bazarohuristia  
@@ -961,7 +961,7 @@ magnes : magnete
 magnetyczny : magneti  
 magnez : magnes  
 maj : mes 2 (mes dul)  
-Majotta : mayote  
+Majotta : mayotia  
 makaron : mien  
 Makau : makaw  
 maksymalny : maximi  
@@ -971,7 +971,7 @@ malarz : penter
 Malawi : malawia  
 Malezja : malaisia  
 Mali : malia  
-Malta : malte  
+Malta : maltia  
 mandarynka : migan  
 mandaryński chiński, Putonghua : putong cini  
 mangan : mangan  
@@ -1101,7 +1101,7 @@ most : pulte
 motocykl (motor) : motosikle  
 motyl : pelpel  
 mowa; słowo : loge  
-Mozambik : mozambike  
+Mozambik : mozambikia  
 Mołdawia : moldowia  
 może : samude  
 możliwość, umiejętność : able  
@@ -1179,7 +1179,7 @@ nazwać, nazywać, wezwać, wzywać : namisa
 nazwisko, imię rodziny : familonam  
 naładować, załadować, obładować, ładować : lada  
 neon : neon  
-Nepal : nepal  
+Nepal : nepalia  
 Neptun : neptun  
 neptun : neptunium  
 nic, żadna rzecz : nol xey  
@@ -1201,7 +1201,7 @@ nienawidzić : hen
 niewiele (mało) : xaw  
 niewierny (poganin, niewierzący) : kafir  
 nigdy : nol ban  
-Niger : nijer  
+Niger : nijeria  
 Nigeria : naijiria  
 nihonium : niponium  
 Nikaragua : nikaragia  
@@ -1209,7 +1209,7 @@ nikiel : nikel
 nikt, żadna osoba : nol ren  
 niob : niobium  
 nisza, alkowa : nixe  
-Niue : niwe  
+Niue : niwia  
 niuton (N) : nuton  
 nobel : nobelium  
 noc : noce  
@@ -1612,7 +1612,7 @@ przedpołudnie : suboden
 przedłużyć, przedłużać : longa  
 przegrany, pokonany : luzer  
 przegrać, przegrywać : luza  
-przejazd, przewóz, tranzyt : trans  
+przejazd, przewóz, tranzyt : transe  
 przejść, przechodzić, przejechać, przejeżdżać : transa  
 przekroczyć, przekraczać, przejść nad, iść nad : supra  
 przekąska : lil niam  
@@ -1794,7 +1794,7 @@ ręka, dłoń : hande
 ##s  
 Saint Lucia : santi lusia  
 Saint Vincent and Grenadines : winsi i grenadin  
-Saint Vincent i Grenadyny : walis i futuna da nesia  
+Saint Vincent i Grenadyny : walis i futun da nesia  
 Salwador : salbadoria  
 sam, osobiście : tan  
 sam, siebie : ze  
@@ -1820,7 +1820,7 @@ seksowny, ponętny : seksi
 sekunda : sekunde  
 selen : selen  
 sen : son  
-Senegal : senegal  
+Senegal : senegalia  
 ser : cis  
 Serbia : serbia  
 serce : xim  
@@ -1907,7 +1907,7 @@ ssak : mamal
 ssać : cupa  
 stacja : estasia  
 stadion, arena : estadia  
-Stany Zjednoczone Ameryki : usamerike  
+Stany Zjednoczone Ameryki : usamerikia  
 Starożytny Egipt (Kemet) : kemia  
 stary, starożytny : purani  
 statyczny, stacjonarny, nieruchomy : estasi  
@@ -1933,12 +1933,12 @@ stłuczony (pęknięty) : parci
 suahili : suahili  
 Suazi : suazia  
 suchy : gan  
-Sudan : sudan  
-Sudan Południowy : sudi sudan  
+Sudan : sudania  
+Sudan Południowy : sudi sudania  
 sugerować, proponować : suja  
 sugestia, propozycja : suje  
 suma : sum  
-Surinam : surinam  
+Surinam : surinamia  
 sushi : suxe  
 Syberia : sibir  
 syn : mani ban  
@@ -2013,7 +2013,7 @@ tajga : taige
 Tajlandia : tayia  
 Tajpej : taibey  
 tajski : tayi  
-Tajwan, Republika Chińska : taiwan  
+Tajwan, Republika Chińska : taiwania  
 tak; być : si  
 taki sam : sam  
 taktyka, strategia : tatike  
@@ -2100,7 +2100,7 @@ turkus : firuze
 turysta : safariste  
 turystyka : safaristia  
 tusz : moge  
-Tuwalu : tuwal  
+Tuwalu : tuwalia  
 tułów : torse  
 twarz : muke  
 twój : ti  
@@ -2128,7 +2128,7 @@ uczestnik : parter
 uczeń, student : darser  
 Uganda : gandia  
 ugotować się, gotować się : bulu  
-Ukraina : ukraina  
+Ukraina : ukrainia  
 ukraść, kraść : cora  
 ukształtować, kształtować, urzeźbić, rzeźbić : forma  
 układ słoneczny : solosistem  
@@ -2474,7 +2474,7 @@ zły, zrujnowany, zepsuty : harabi
 łódź, statek : bote  
 łóżko : bede  
 łączyć, wiązać, złączyć : samuna  
-Święta Helena : santi helena  
+Święta Helena : santi helenia  
 ścieżka (droga, szlak, kurs) : rute  
 śmiać się : haha  
 śmierć : morte  

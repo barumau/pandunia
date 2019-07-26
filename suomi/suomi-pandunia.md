@@ -48,7 +48,7 @@ alapuoli : nice
 alaston (paljas, naku) : nudi  
 Albania : cipia  
 algebra : jebria  
-Algeria : jayer  
+Algeria : jayeria  
 alistua (antautua) : islamu  
 alistuminen (antautuminen) : islam  
 alittaa (alla) : nica  
@@ -272,7 +272,7 @@ estää kulku : barya
 etelä : sude  
 Etelä-Afrikka : sudafrikia  
 Etelä-Korea : hangogia  
-Etelä-Sudan : sudi sudan  
+Etelä-Sudan : sudi sudania  
 etikka : sirke  
 Etiopia : etiopia  
 etäisyys (kaukaisuus) : tel  
@@ -305,7 +305,7 @@ fysiikka : fizike
 fysiikka : fizikia  
 fyysikko : fiziker  
 ##g  
-Gabon : gabun  
+Gabon : gabunia  
 gadolinium : gadolinium  
 galleria : galeria  
 gallium : galium  
@@ -322,16 +322,16 @@ graafikko : grafer
 graafinen : grafi  
 grafeemi : grafem  
 gramma : gram  
-Grenada : grenada  
-Guadeloupe : guadelupe  
-Guam : guam  
+Grenada : grenadia  
+Guadeloupe : guadelupia  
+Guam : guamia  
 Guatemala : guatemalia  
 Guernsey : genzia  
 Guinea : konakri ginia  
 Guinea-Bissau : bisawi ginia  
 gujarati (eräs intialainen kieli) : gujarati  
 guru (opettaja) : gur  
-Guyana : gayan  
+Guyana : gayania  
 ##h  
 haarukka : forke  
 hafnium : hafnium  
@@ -419,7 +419,7 @@ hoitaa (pitää huolta) : kura
 holmium : holmium  
 homo (homoseksuaali) : gey  
 homoseksuaali : samojinsokami  
-Honduras : honduras  
+Honduras : hondurasia  
 Hong Kong : hongong  
 hormoni : hormon  
 hotelli : hotel  
@@ -516,7 +516,7 @@ Intia : bartia
 intialainen : barti  
 ioni : ion  
 Irak : irakia  
-Iran : iran  
+Iran : irania  
 iridium : iridium  
 irvistys : grimas  
 isku (šokki) : xoke  
@@ -549,7 +549,7 @@ jakki : yake
 jalka (jalkaterä) : fute  
 jalkapallo : futobol  
 Jamaika : jamaikia  
-Japani : nipon  
+Japani : niponia  
 jasmiini : malike  
 jatkua : kontinu  
 jauhaa myllyssä : mola  
@@ -648,7 +648,7 @@ kalsium : kalsium
 Kambodja : kambudia  
 kameli : gamel  
 kamera : kamera  
-Kamerun : kamerun  
+Kamerun : kamerunia  
 kammo (fobia) : fobia  
 kampa : kange  
 kamppailulaji : jengoxute  
@@ -1028,10 +1028,10 @@ lentokone : wiman
 lentokonekaappari : wimanokaper  
 lentää : feya  
 lepo : xuxe  
-Lesoto : soto  
+Lesoto : sotia  
 leveä : kuan  
 levä : alge  
-Libanon : libnun  
+Libanon : libania  
 liberaali (vapaamielinen) : huristi  
 liberalismi : huristia  
 liberalisti : huriste  
@@ -1113,7 +1113,7 @@ lämpömittari : termometer
 lämpötila : terme  
 länsi : weste  
 läntinen : westi  
-läpikulku : trans  
+läpikulku : transe  
 läpikäydä (passiivin muodostava verbi) : beyu  
 läsnäolo : zayia  
 lääketiede : medikia  
@@ -1168,7 +1168,7 @@ Malawi : malawia
 Malesia : malaisia  
 Mali : malia  
 malli (esikuva) : model  
-Malta : malte  
+Malta : maltia  
 mandariini : migan  
 mangaani : mangan  
 mango : mange  
@@ -1199,7 +1199,7 @@ Mauritania : muritania
 Mauritius : morisia  
 mauste : masal  
 maya (mayaintiaani) : mayan  
-Mayotte : mayote  
+Mayotte : mayotia  
 me : mome  
 media : media  
 mega- : mego-  
@@ -1281,7 +1281,7 @@ moottoripyörä : motosikle
 moraali (etiikka) : moral  
 morfeemi : morfem  
 morfi : morfe  
-Mosambik : mozambike  
+Mosambik : mozambikia  
 moskovium : moskowium  
 muinainen Egypti : kemia  
 muistaa : yada  
@@ -1352,7 +1352,7 @@ neliö : carokon
 neljä (4) : car  
 nenä : nos  
 neon : neon  
-Nepal : nepal  
+Nepal : nepalia  
 neptunium : neptunium  
 Neptunus : neptun  
 nettisivu : netoloke  
@@ -1361,7 +1361,7 @@ neuvo : mente
 neuvontantaja (mentori) : menter  
 newton (N) : nuton  
 niellä : glota  
-Niger : nijer  
+Niger : nijeria  
 Nigeria : naijiria  
 nihonium : niponium  
 Nikaragua : nikaragia  
@@ -1371,7 +1371,7 @@ nimi : nam
 nimittää (kutsua) : namisa  
 niobium : niobium  
 nisäkäs : mamal  
-Niue : niwe  
+Niue : niwia  
 nobelium : nobelium  
 noin (arviolta, suunnilleen) : yagi  
 nolla (ei yhtään) : nol  
@@ -1748,7 +1748,7 @@ raketti : rokete
 rakkaus (tykkääminen) : ame  
 ramadan : ramazan  
 Ranska : fransia  
-Ranskan Guiana : giyan  
+Ranskan Guiana : giyania  
 Ranskan Polynesia : fransi polinesia  
 raportoida (selostaa) : reporta  
 raportti (selostus, selonteko) : reporte  
@@ -1829,7 +1829,7 @@ saaja (vastaanottaja) : geter
 saari : nes  
 saaristo : nesia  
 sahrami : safran  
-Saint Helena : santi helena  
+Saint Helena : santi helenia  
 Saint Lucia : santi lusia  
 saippua : sabun  
 sairas : pati  
@@ -1893,7 +1893,7 @@ selkeyttää (selittää) : klara
 selkä : ruke  
 selvä (selkeä) : klar  
 sementti : semente  
-Senegal : senegal  
+Senegal : senegalia  
 sentti : centi  
 seppä : metalojanger  
 Serbia : serbia  
@@ -1975,7 +1975,7 @@ stadioni (areena) : estadia
 strontium : estrontium  
 suahili : suahili  
 substantiivi (nimisana) : namolekse  
-Sudan : sudan  
+Sudan : sudania  
 sudenkorento : libel  
 suhde (yhteys) : guanxe  
 suihku : dux  
@@ -1998,7 +1998,7 @@ Suomi : suomia
 suora : jiki  
 suoristaa : jika  
 suosittu (trendikäs) : faxoni  
-Surinam : surinam  
+Surinam : surinamia  
 surra (murehtia) : duka  
 suru (murhe) : duke  
 surullinen : duki  
@@ -2061,7 +2061,7 @@ taiteilija : arter
 taito (kyky) : able  
 taito : xute  
 taivas : saman  
-Taiwan : taiwan  
+Taiwan : taiwania  
 takki : kote  
 taksa (tariffi) : tarif  
 taksa (vero) : takse  
@@ -2219,7 +2219,7 @@ tutkia (opiskella) : loja
 tutkia : genca  
 tuuli (puhallus) : hawe  
 tuulla (puhaltaa) : hawa  
-Tuvalu : tuwal  
+Tuvalu : tuwalia  
 tyhjä : hali  
 tyhmyys (typeryys) : idiotia  
 tyhmä (hölmö) : idioti  
@@ -2259,7 +2259,7 @@ Tšad : cadia
 Tšekki : cehia  
 ##u  
 Uganda : gandia  
-Ukraina : ukraina  
+Ukraina : ukrainia  
 ulko- (ulkoinen) : way  
 ulkomaa : way dexia  
 ulkomaalainen : way dexi  
@@ -2476,7 +2476,8 @@ yhdeksän : naw
 yhdistys (sidos) : samun  
 yhdistää : samuna  
 yhdistää : una  
-Yhdysvallat : usamerike  
+Yhdysvallat ("Amerikka") : usamerikia  
+yhdysvaltalainen ("amerikkalainen") : usameriki  
 yhteinen : komun  
 yhteiskunnallinen (sosiaalinen) : soci  
 yhteisö (kokoontuminen, kollektiivi) : jamia  

@@ -627,7 +627,7 @@ fuy : fu, fuj
 ##g  
 gabre : grób, mogiła, grobowiec  
 gabristan : cmentarz  
-gabun : Gabon  
+gabunia : Gabon  
 gade : osioł  
 gadolinium : gadolin  
 gaje : słoń  
@@ -653,7 +653,7 @@ garmi masal : garam masala
 garmi : ciepły  
 gas : gaz  
 gaw : wysoki  
-gayan : Gujana  
+gayania : Gujana  
 gaze : gaza  
 gazel : gazela  
 gem : gra  
@@ -670,7 +670,7 @@ gida : sterować
 gigo- : bilion, giga-  
 gim : złoto  
 gitar : gitara  
-giyan : Gujana Francuska  
+giyania : Gujana Francuska  
 glota : połknąć (połykać)  
 glute : klej  
 gluten : gluten  
@@ -686,14 +686,14 @@ grafi : obrazowy, graficzny; opisowy
 grafobuke : książka z obrazkami  
 gram : gram  
 gras : trawa  
-grenada : Grenada  
+grenadia : Grenada  
 grimas : grymas  
 grom : grom, huk  
 grosi harfe : pogrubiona litera  
 grosi : gruby  
 grupe : grupa  
-guadelupe : Gwadelupa  
-guam : Guam  
+guadelupia : Gwadelupa  
+guamia : Guam  
 guanxe : związek, powiązanie, połączenie  
 guatemalia : Gwatemala  
 gubuh : hipopotam  
@@ -781,7 +781,7 @@ hobe : hobby
 hoke : hokej  
 holmium : holm  
 hon : sto (##)  
-honduras : Honduras  
+hondurasia : Honduras  
 hongong : Hong Kong  
 hor : godzina  
 hormon : hormon  
@@ -839,7 +839,7 @@ ion : jon
 ioni radi : radioaktywny  
 ioni radia : radioaktywność  
 irakia : Irak  
-iran : Iran  
+irania : Iran  
 iridium : iryd  
 isa : skłonić do (spowodować zrobienie)  
 islam : poddanie się, uległość, pokora, posłuszeństwo  
@@ -877,7 +877,7 @@ janolojia : epistemologia
 jar : dzban, dzbanek; słój, słoik  
 jawaba : odpowiedzieć, odpowiadać  
 jawabe : odpowiedź, odzew  
-jayer : Algieria  
+jayeria : Algieria  
 jaze : jazz, dżez  
 jebe : kieszeń  
 jebria : algebra  
@@ -954,7 +954,7 @@ kamar : pokój, sala
 kamarotal : podłoga  
 kambudia : Kambodża  
 kamera : kamera, aparat fotograficzny  
-kamerun : Kamerun  
+kamerunia : Kamerun  
 kamis : koszula  
 kamote : słodki ziemniak  
 kampe : obozowicz  
@@ -1197,11 +1197,11 @@ letis : sałata
 lew : już (skończona czynność)  
 leze : gruszka  
 liba : postawić (stawiać)  
+libania : Liban  
 libel : ważka  
 liberia : Liberia  
 libi : postawiony (stojący)  
 libia : Libia  
-libnun : Liban  
 libu : stać  
 lice : liczi  
 lida : prowadzić, dowodzić, kierować  
@@ -1292,7 +1292,7 @@ malike : jaśmin
 malka : mieć (posiadać)  
 malke : własność (mienie)  
 malker : właściciel (posiadacz)  
-malte : Malta  
+maltia : Malta  
 mamal : ssak  
 mame : matka, mama  
 man : męski  
@@ -1349,7 +1349,7 @@ maxor : większościowy, wiodący, główny
 maxoria : większość  
 mayan : Maya  
 maye : mrówka  
-mayote : Majotta  
+mayotia : Majotta  
 me : ja, mnie  
 mece : konkurować, rywalizować; odbyć mecz, odbywać mecz  
 mece : mecz, rywalizacja  
@@ -1477,7 +1477,7 @@ mote : ruch
 moter : silnik  
 motokar : samochód (automobil)  
 motosikle : motocykl (motor)  
-mozambike : Mozambik  
+mozambikia : Mozambik  
 mudan : piwonia  
 muh : krowa  
 muhomanse : wołowina  
@@ -1542,7 +1542,7 @@ nenofeste : rocznica
 nenomesoden : data  
 nenufar : lilia wodna, nenufar  
 neon : neon  
-nepal : Nepal  
+nepalia : Nepal  
 neptun : Neptun  
 neptunium : neptun  
 nes : wyspa  
@@ -1559,7 +1559,7 @@ nice : spód
 nici : poniższy  
 nida : potrzebować  
 nidi : potrzebny  
-nijer : Niger  
+nijeria : Niger  
 nikaragia : Nikaragua  
 nikel : nikiel  
 nili : niebieski  
@@ -1567,10 +1567,10 @@ nilon : nylon
 ninde : obraza, obelga  
 nindi : obraźliwy, niemiły, obelżywy  
 niobium : niob  
-nipon : Japonia  
+niponia : Japonia  
 niponium : nihonium  
 nitre : azot  
-niwe : Niue  
+niwia : Niue  
 nixe : nisza, alkowa  
 nobelium : nobel  
 noce : noc  
@@ -2012,7 +2012,7 @@ sang : krew
 sani : sztuczny  
 sania : produkcja  
 sanobax : język sztuczny  
-santi helena : Święta Helena  
+santi helenia : Święta Helena  
 santi lusia : Saint Lucia  
 santi tome i prinsipe : Wyspy Świętego Tomasza i Książęca  
 santi : święty  
@@ -2042,7 +2042,7 @@ sem : siedem (7)
 seman : tydzień  
 semente : cement  
 sen : scena  
-senegal : Senegal  
+senegalia : Senegal  
 sense : zmysł  
 senta : czuć  
 serbia : Serbia  
@@ -2111,7 +2111,7 @@ soni : spać
 sonokamar : sypialnia  
 sos : sos  
 sosis : kiełbasa  
-soto : Lesotho  
+sotia : Lesotho  
 suahili : suahili  
 suan : kwaśny  
 suazia : Suazi  
@@ -2119,10 +2119,10 @@ sube : ranek, rano, poranek
 suboden : przedpołudnie  
 suboniam : śniadanie  
 sudafrikia : Południowa Afryka  
-sudan : Sudan  
+sudania : Sudan  
 sude : południe  
 sudi jorjia i sudi sanwice nesia : Wyspy Georgia Południowa i Sandwich Południowy  
-sudi sudan : Sudan Południowy  
+sudi sudania : Sudan Południowy  
 suede : pot  
 suedi : spocony  
 suenia : Szwecja  
@@ -2151,8 +2151,8 @@ supre : wiadukt, przejście powyżej
 supri : górny  
 supris : zaskoczenie  
 suria : Syria  
-surinam : Surinam  
 surinami bax : język surinamski  
+surinamia : Surinam  
 susan : lilia  
 suta : szyć  
 sutur : szew  
@@ -2166,7 +2166,7 @@ table : tablioca, macierz
 tafun : burza, sztorm, tajfun  
 taibey : Tajpej  
 taige : tajga  
-taiwan : Tajwan, Republika Chińska  
+taiwania : Tajwan, Republika Chińska  
 tajikia : Tadżykistan  
 takse : podatek, opłata  
 taksokar : taxi, taksówka  
@@ -2263,8 +2263,8 @@ tortuge : żółw
 tote : wy, was  
 totol : indyk  
 towal : ręcznik  
-trans : przejazd, przewóz, tranzyt  
 transa : przejść, przechodzić, przejechać, przejeżdżać  
+transe : przejazd, przewóz, tranzyt  
 tren : pociąg  
 trenodaw : kolej  
 trenokaper : porywacz pociągu  
@@ -2287,11 +2287,11 @@ tupay : wiewiórka
 turki : turecki  
 turkia : Turcja  
 turkmenia : Turkmenistan  
-tuwal : Tuwalu  
+tuwalia : Tuwalu  
 tuze : królik, zając  
 ##u  
 u : lub, albo  
-ukraina : Ukraina  
+ukrainia : Ukraina  
 ula : cofnąć (anulować, usunąć skutki)  
 ulul : wycie, skowyt  
 ulula : wyć  
@@ -2311,9 +2311,9 @@ urdunia : Jordan
 urse : niedźwiedź  
 urse : niedźwiedź  
 uruguayia : Urugwaj  
-usamerike : Stany Zjednoczone Ameryki  
 usameriki samoa : Amerykańska Samoa  
 usameriki wirjin nesia : Wyspy Dziewicze USA  
+usamerikia : Stany Zjednoczone Ameryki  
 uza : użyć, używać, zatrudnić, stosować  
 uzbekia : Uzbekistan  
 uzer : użytkownik  
@@ -2326,7 +2326,7 @@ waineria : winiarnia
 wakila : reprezentować  
 waksin : szczepionka  
 wale : dolina  
-walis i futuna da nesia : Saint Vincent i Grenadyny  
+walis i futun da nesia : Saint Vincent i Grenadyny  
 wan : misa, kubek bez ucha  
 wanil : wanilia  
 wanta : chcieć, pragnąć  

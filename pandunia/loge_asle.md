@@ -849,7 +849,7 @@ tope ← ind:topi. hin: टोपी (ṭopī). ben:টুপি (ṭupi). tam:(
 torse ← fra:torse. rus:торс (tors). deu:eng:spa:ind:torso.  
 totol ← nah:totolin. spa:totol. yor:tòlótòló. ibo:torotoro.  
 towal ← eng:towel. spa:toalla. por:toalha. hin:तौलिया (tauliyā). ben:তোয়ালে (toyale). tgl:tuwalya. jpn:タオル (taoru).  
-trans ← eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).  
+transe ← eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).  
 tren ← eng:fra:train. spa:tur:tren. hin:ट्रेन "ṭren".  
 tribe ← fra:spa:tribu. por:tgl:tribo. eng:tribe.  
 tube ← spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.  
