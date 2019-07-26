@@ -26,7 +26,7 @@ eska te jana pandunia? te abla darsa pandunia sa uza [mini darse](mini_darse.htm
   * [dunia loge](lekse/dunia_loge.html)
   * [nam du hewan](lekse/hewan.html)
   * [nam du pal](lekse/pal.html)
-  * [rang](lekse/rang.md)
+  * [ange](lekse/ange.md)
   * [nam du dex](dex_nam.md)
   * [leksi asle](loge_asle.md) i [lekse da num](lekse_da_num.md)
 * wikia
