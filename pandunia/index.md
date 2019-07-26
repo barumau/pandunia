@@ -1,11 +1,10 @@
-pandunia - dunia bax
-=====================
+# pandunia - dunia da bax
 
 ![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
 
 salam dunia!
 
-pandunia si novi dunia da bax! pandunia da lekse laya ya mey fen yu
+pandunia si nowi dunia da bax! pandunia da lekse laya ya mey fen du
 dunia: afrike, amerike, asia, europe – ya dunia bax bixu wakila momi
 pan dunia!
 
@@ -23,11 +22,11 @@ eska te jana pandunia? te abla darsa pandunia sa uza [mini darse](mini_darse.htm
   * [makal tema pandunia sa ali bax](makal_tema_pandunia.md)
 * [filme](filme.md)
 * loge liste
-  * [dunia loge](lekse/dunia_loge.html)
+  * [dunia da loge](lekse/dunia_loge.html)
   * [nam du hewan](lekse/hewan.html)
   * [nam du pal](lekse/pal.html)
   * [ange](lekse/ange.md)
-  * [nam du dex](dex_nam.md)
+  * [nam du dex](dexonam.md)
   * [leksi asle](loge_asle.md) i [lekse da num](lekse_da_num.md)
 * wikia
   * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)

@@ -1,7 +1,7 @@
-dexonam liste
-=============
+# dexonami liste
 
-ce si liste du dexonam ya pandunia pa engli. pandunia kapa dexonam ya [dexi ren da zi bax](http://www.omniglot.com/countries/).
+ce si liste du dexonam ya pandunia pa engli.
+pandunia kapa dexonam ya [dexi ren da zi bax](http://www.omniglot.com/countries/).
 
 |kode| panduni | engli       |
 |----|---------|-------------|
@@ -25,7 +25,7 @@ ce si liste du dexonam ya pandunia pa engli. pandunia kapa dexonam ya [dexi ren 
 | GW | bisawi ginia | Guinea-Bissau |
 | BG | bolgaria | Bulgaria |
 | BA | bosnia | Bosnia and Herzegovina |
-| CG | brazawil kongolia | Congo (Brazzaville) |
+| CG | brazawili kongolia | Congo (Brazzaville) |
 | BR | brazilia | Brazil |
 | GB | britania | United Kingdom |
 | BN | bruney | Brunei Darussalam |
