@@ -60,6 +60,7 @@ analis : analiza
 analisa : analizować  
 ande : jajko (jajo)  
 andes : Andy  
+ange : kolor  
 angolia : Angola  
 anima : animować  
 anime : animacja  
@@ -79,8 +80,8 @@ aplika : zastosować, stosować
 aplike : zastosowanie, aplikacja  
 arabi : arabski  
 arane : pająk  
+aranjangi : pomarańczowy  
 aranje : pomarańcza  
-aranji : pomarańczowy  
 aranofobia : arachnofobia  
 arbe : drzewo  
 arboparke : arboretum  
@@ -141,7 +142,7 @@ ban : czas; okazja
 banan : banan  
 bande : zespół (drużyna, grupa)  
 bandir : flaga, sztandar  
-banglia : Bangladesz  
+banglodexia : Bangladesz  
 banka : oszczędzać, deponować  
 banke : bank  
 banker : bankier  
@@ -178,7 +179,6 @@ bawer : dziennikarz
 bax : język; komunikacja  
 baxa : mówić; komunikować  
 baxolojia : językoznastwo  
-bay : biały  
 baya : kupić  
 bayer : nabywca (kupiec)  
 bazar : rynek, bazar  
@@ -311,7 +311,7 @@ cerium : cer
 cernagoria : Czarnogóra  
 cesium : cez  
 ci : ten, te  
-cile : Chile  
+cilia : Chile  
 cimpanze : szympans  
 cincil : szynszyla  
 cini : han chiński  
@@ -768,6 +768,7 @@ hibride : hybryda; kundel
 hidre : wodór  
 him : śnieg  
 himalia : Himalaje  
+himangi : biały  
 himorose : szron  
 hindiste : hinduistyczny  
 hindistia : hinduizm  
@@ -933,17 +934,17 @@ kabaw : bawół domowy
 kabin : kabina, budka  
 kace : szkło  
 kadomium : kadm  
+kafangi : brązowy, koloru kawy  
 kafas : klatka  
 kafe : kawa  
 kaferia : kawiarnia  
-kafi : brązowy, koloru kawy  
 kafir : niewierny (poganin, niewierzący)  
 kafokupe : filiżanka do kawy  
 kaka : defekować, srać  
 kakaw : kakao  
 kake : ekskrement, gówno  
-kal : czarny  
 kalam : pióro, długopis  
+kalangi : czarny  
 kalifornium : kaliforn  
 kalium : potas  
 kalkulia : rachunek (formalny system obliczeń)  
@@ -1216,7 +1217,7 @@ limite : limit, granica
 limofas : pięciościan (pryzmat)  
 limokon : pięciokąt (pentagon)  
 limon : cytryna  
-limoni : żółty  
+limonangi : żółty  
 linye : linia, pas, pręga, smuga  
 lisi : gładki  
 liste : lista, spis, wykaz  
@@ -1458,7 +1459,6 @@ monistia : monizm
 monodewistia : monoteizm  
 monokratia : monarchia  
 monologe : monolog  
-monorangi : jednokolorowy (monochromatyczny)  
 monster : potwór, monstrum  
 moral : moralność, etyka  
 morfe : morf  
@@ -1864,7 +1864,6 @@ ramazan : Ramadan
 rampe : rampa  
 randa : heblować  
 rander : hebel, strug  
-rang : kolor  
 rape : prędkość (szybkość)  
 rapi : szybki, prędki  
 rapometer : prędkościomierz  
@@ -1929,8 +1928,8 @@ rosti pang : tost
 rota : obrócić (kręcić)  
 roter : rotor, wirnik  
 rotu : obrócić się (kręcić się)  
+rozangi : różowy, różany  
 roze : róża  
-rozi : różowy, różany  
 ruandia : Rwanda  
 rubidium : rubid  
 ruhe : dusza, duch, umysł  
@@ -1963,7 +1962,7 @@ saba : spowodować, powodować
 sabate : szabat, szabas  
 sabe : powód, przyczyna  
 sabun : mydło  
-sabzi : zielony  
+sabzangi : zielony  
 sadi : zwykły, zwyczajny, prosty  
 safa : wyczyścić, czyścić  
 safar : podróż  
@@ -2159,7 +2158,7 @@ suta : szyć
 sutur : szew  
 suxe : sushi  
 suy : woda  
-suyorang : akwarela, farba wodna  
+suyang : akwarela, farba wodna  
 ##t  
 tabake : tytoń  
 tabla : ułożyć w trabelę  
@@ -2301,6 +2300,7 @@ un : jeden (1)
 una : jednoczyć  
 unale : się (nawzajem, wzajemnie)  
 unali : wzajemny  
+unangi : jednokolorowy (monochromatyczny)  
 uni : zjednoczony  
 unia : unia  
 ura : wiwatować; hura  
@@ -2370,8 +2370,8 @@ wida : patrzeć, widzieć
 wide : widok, wzrok  
 widomaidan : pole widzenia  
 widu : być widzianym  
-wietnam : Wietnam  
-wiki : wiki  
+wietia : Wietnam  
+wikia : wiki  
 wil : w przyszłości  
 wildi : dziki  
 wile : przyszłość  

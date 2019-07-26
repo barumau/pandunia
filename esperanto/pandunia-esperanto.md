@@ -55,6 +55,7 @@ analis : analizo
 analisa : analizi  
 ande : ovo  
 andes : Andoj  
+ange : koloro  
 anime : kartuno  
 anjil : evangelio  
 anker : ankro  
@@ -65,8 +66,8 @@ anusi : anusa
 aple : pomo  
 arabi : araba  
 arane : araneo  
+aranjangi : oranĝa  
 aranje : oranĝo  
-aranji : oranĝa  
 aranofobia : araneofobio  
 arbe : arbo  
 arboparke : arboĝardeno  
@@ -117,7 +118,8 @@ balon : balono
 ban : fojo  
 banan : banano  
 bandir : flago  
-banglia : Bangladeŝo  
+banglodexi : bangladeŝa  
+banglodexia : Bangladeŝo  
 banke : banko  
 banker : bankisto  
 banye : bano  
@@ -145,7 +147,6 @@ baw : gazeto (revuo)
 bax : lingvo  
 baxa : paroli (komuniki)  
 baxolojia : lingvistiko  
-bay : blanka  
 baya : aĉeti  
 bayer : aĉetanto (aĉetisto)  
 bazar : merkato (bazaro)  
@@ -246,7 +247,7 @@ centi : centono
 cerium : cerio  
 cesium : cezio  
 ci : ĉi tiu  
-cile : Ĉilio  
+cilia : Ĉilio  
 cimpanze : ĉimpanzo  
 cincil : ĉinĉilo  
 cini : hana  
@@ -606,6 +607,7 @@ hibride : miksulo
 hidre : hidrogeno  
 him : neĝo  
 himalia : Himalajo  
+himangi : blanka  
 himorose : frosto  
 hindiste : hinduo  
 hindistia : hinduismo  
@@ -703,14 +705,14 @@ jus : suko
 ka : kiel (ol)  
 kace : vitro  
 kadomium : kadmio  
+kafangi : bruna  
 kafe : kafo  
 kaferia : kafejo  
-kafi : bruna  
 kafokupe : kaftaso  
 kakaw : kakao  
 kake : feko  
-kal : nigra  
 kalam : plumo  
+kalangi : nigra  
 kalifornium : kaliforniumo  
 kalium : kalio  
 kalsium : kalcio  
@@ -740,7 +742,6 @@ karbon : karbono
 karde : karto  
 karibia : Karibio  
 karme : konduto (karmo)  
-karmesi : ruĝa  
 karote : karoto  
 karwan : karavano  
 kastan : kaŝtano  
@@ -767,6 +768,7 @@ ki yang : kiel?
 ki zaman : kiam?  
 kil : mil  
 kilometre : kilometro  
+kirmangi : ruĝa  
 kitabe : skribo  
 kitabia : librejo  
 kitabomaxin : tajpilo  
@@ -851,7 +853,7 @@ liga : aligi
 lil : malgranda  
 lim : kvin (5)  
 limon : citrono  
-limoni : flava  
+limonangi : flava  
 linye : lineo  
 lisi : glata  
 liste : listo  
@@ -1142,7 +1144,6 @@ radium : radiumo
 radon : radono  
 rajer : reĝo aŭ reĝino  
 rampe : ramplo  
-rang : koloro  
 rape : rapideco  
 rapi : rapidi  
 ras : raco  
@@ -1186,7 +1187,7 @@ sa loke du : anstataŭ
 sa sabu : ĉar (pro ke)  
 sabe : kialo  
 sabun : sapo  
-sabzi : verda  
+sabzangi : verda  
 safa : purigi  
 safar : vojaĝo  
 safara : vojaĝi  
@@ -1388,6 +1389,8 @@ weri : vera
 werke : laboro  
 wersion : versio (toisinto)  
 wida : vidi (rigardi)  
+wike : vikia artikulo  
+wikia : vikio  
 wil : estonte  
 wile : estonoteco  
 win : venko  

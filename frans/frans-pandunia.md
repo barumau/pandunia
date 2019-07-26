@@ -150,7 +150,7 @@ note : note
 océan : dayosamude  
 oeuf : ande  
 opposant (antagoniste) : anter  
-orange (couleur) : aranji  
+orange (couleur) : aranjangi  
 orange (fruit) : aranje  
 ordinateur : komputer  
 origine : asle  

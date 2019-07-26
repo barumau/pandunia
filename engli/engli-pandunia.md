@@ -171,7 +171,8 @@ banana : banan
 band (squad, group) : bande  
 band (tape, bandage) : bende  
 bandage (strip, ribbon) : faxe  
-Bangladesh : banglia  
+Bangladesh : banglodexia  
+Bangladeshi : banglodexi  
 banister (handrail) : langan  
 bank (depository) : banke  
 banker : banker  
@@ -228,6 +229,7 @@ belong (be a member) : memba
 belong : tenu  
 belt (zone) : zon  
 bench : bence  
+Bengali (Bangla) : bangli  
 Benin : benin  
 beret : berete  
 berkelium : berkelium  
@@ -248,7 +250,7 @@ birth : jen
 birthday : jenoden  
 biscuit (cookie) : biskute  
 bismuth : bismute  
-black : kal  
+black : kalangi  
 blacksmith (iron forger) : metalojanger  
 bleed : lowa sang  
 blog (web log) : bloge  
@@ -297,7 +299,7 @@ bright (brilliant, clear) : ming
 brighten : minga  
 broken (shattered) : parci  
 bromine : brom  
-brown (coffee-colored) : kafi  
+brown (coffee-colored) : kafangi  
 Brunei Darussalam : bruney  
 brush : brox  
 bubble : bubul  
@@ -416,7 +418,7 @@ chicken : kokode
 chickpea : humus  
 chief (boss) : xef  
 child (offspring) : bace  
-Chile : cile  
+Chile : cilia  
 chimpanzee : cimpanze  
 China : jungogia  
 chinchilla : cincil  
@@ -475,7 +477,7 @@ colonialist : koloniste
 colonist : koloner  
 colonize : kolona  
 colony (settlement) : kolonia  
-color : rang  
+color : ange  
 column (pillar) : kolum  
 comb : kange  
 come : laya  
@@ -542,7 +544,7 @@ cover (lid, cap, deck) : deke
 cow : muh  
 crafty (dexterous) : jangi  
 cream : krem  
-cream colored : kremi  
+cream colored : kremangi  
 crime : krim  
 criminal : krimi  
 crisis : krize  
@@ -937,12 +939,12 @@ grave (tomb) : gabre
 graveyard : gabristan  
 Greece : helenia  
 Greek (Hellenic) : helen  
-green : sabzi  
+green : sabzangi  
 greens : sabze  
 greet : salama  
 greeting (hello) : salame  
 Grenada : grenada  
-grey (gray, ashy) : huyi  
+grey (gray, ashy) : huyangi  
 grief (sorrow) : duke  
 grieve : duka  
 grimace : grimas  
@@ -1252,7 +1254,7 @@ light (illumination) : nur
 like (enjoy, be fond of) : suku  
 like : fila  
 lilac : lilake  
-lilac color : lilaki  
+lilac color : lilakangi  
 lily : susan  
 limit (boundary) : limite  
 line (stripe) : linye  
@@ -1435,7 +1437,7 @@ Mongol : mongol
 Mongolia : mongolia  
 mongoose : mungus  
 monism : monistia  
-monochrome : monorangi  
+monochrome : unangi  
 monolog : monologe  
 monotheism : monodewistia  
 monster : monster  
@@ -1587,7 +1589,7 @@ oppose (resist) : anta
 opposite (anti-) : anti  
 or : u  
 orange (fruit) : aranje  
-orange (orange-colored) : aranji  
+orange (orange-colored) : aranjangi  
 order (arrange) : ratiba  
 order (arrangement) : ratibe  
 order (command) : komande  
@@ -1711,7 +1713,7 @@ pilaf (pulao) : polaw
 pilot : piloter  
 pine tree : song  
 pineapple : nanas  
-pink (rosy) : rozi  
+pink (rosy) : rozangi  
 pious : darmi  
 pipe : pipe  
 piracy : piratia  
@@ -1882,7 +1884,7 @@ reason (cause) : sabe
 reason (rational thinking) : razon  
 rebellion : rebel  
 receipt (acknowledgement) : reside  
-red : karmesi  
+red : kirmangi  
 reflect : mira  
 refuse (deny, decline) : nega  
 region : istan  
@@ -2439,7 +2441,8 @@ version (variation, edition) : wersion
 vice (deputy) : wis  
 vice-president : wis prezidente  
 victory (win) : win  
-Viet Nam : wietnam  
+Viet Nam : wietia  
+Vietnamese (Viet) : wieti  
 view (vision) : wide  
 village : ruste  
 vinegar : sirke  
@@ -2473,7 +2476,7 @@ washing machine : waxomaxin
 water : suy  
 water buffalo : kabaw  
 water lily (nenuphar) : nenufar  
-watercolor : suyorang  
+watercolor : suyang  
 watermelon : arbuze  
 watt : wate  
 wax : mum  
@@ -2497,10 +2500,11 @@ when? : ki zaman
 where : sa ke  
 which (relative pronoun) : je  
 which? : ki  
-white : bay  
+white : himangi  
 who? : ki ren  
 wide (broad) : kuan  
-wiki : wiki  
+wiki : wikia  
+wiki article : wike  
 wild (savage) : wildi  
 will (in future) : wil  
 will (volition, desire) : ice  
@@ -2538,7 +2542,7 @@ yak : yake
 yay! (yeah!) : yey  
 year : nen  
 yeast : hamir  
-yellow : limoni  
+yellow : limonangi  
 Yemen : yemenia  
 yes (is) : si  
 yesterday : predi den  

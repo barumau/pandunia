@@ -66,6 +66,7 @@ fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампул
 			analisa	:	analyse	analizi	analysoida	analizować			analyser	分析	анализировать			
 hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).			ande	:	egg	ovo	muna	jajko (jajo)	huevo		oeuf					
 			andes	:	Andes	Andoj	Andit	Andy			Andes					
+mon:өнгө (öngö). + ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk.			ange	:	color	koloro	väri	kolor								
 	dex	AO	angolia	:	Angola		Angola	Angola			Angola					
 			anima	:	animate		animoida	animować			animer					
 			anime	:	animation (cartoon)	kartuno	animaatio (piirretty)	animacja			animation	活跃	оживление			
@@ -86,8 +87,8 @@ eng:apple. deu:Apfel. ind:apel. ben:আেপল (apôl). zul:ihhabhula.			aple	
 eng:fra:application. spa:aplicación. por:aplicação. pol:aplikacja.			aplike	:	application		sovellus	zastosowanie, aplikacja								
 			arabi	:	Arabic	araba	arabialainen	arabski			arabe					
 fra:araignee. por:aranha. spa:araña. eng:arachnid.			arane	:	spider	araneo	hämähäkki	pająk	araña	aranha	araignée	蜘蛛	паук	मकड़ी	labah-labah	örümcek
+	ang		aranjangi	:	orange (orange-colored)	oranĝa	oranssi	pomarańczowy			orange (couleur)					
 eng:orange. spa:naranja. por:laranja. hin:नारंगी (narangi). jpn:(orenji).			aranje	:	orange (fruit)	oranĝo	appelsiini	pomarańcza	naranja	laranja	orange (fruit)	橙子	апельсин	नारंगी	jeruk (oren)	portakal
-	rang		aranji	:	orange (orange-colored)	oranĝa	oranssi	pomarańczowy			orange (couleur)					
 			aranofobia	:	arachnophobia	araneofobio	araknofobia (hämähäkkikammo)	arachnofobia			arachnophobie					
 fra:arbre. spa:árbol. por:árvore.			arbe	:	tree	arbo	puu	drzewo	árbol	árvore	arbre	树	дерево	पेड़	pohon (pokok)	ağaç
 			arboparke	:	arboretum	arboĝardeno	arboretum (puulajipuisto)	arboretum	arboreto		arboretum, pépinière					
@@ -145,10 +146,12 @@ spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).			balde	:	bucket
 			balkon	:	balcony (porch)	balkono	parveke (kuisti)	balkon; ganek	balcón	sacada (varanda)	balcon	阳台	балкон	छज्जा	langkan (beranda)	balkon
 fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.			balon	:	balloon	balono	ilmapallo	balon								
 kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).			ban	:	time (turn, occasion)	fojo	kerta (vuoro)	czas; okazja								
-			banan	:	banana	banano	banaani	banan	plátano (banana)	banana	banane	香蕉	банан	केला	pisang	muz
+wol:banaana. rus:банан (banan). pol:banan. fra:deu:banane. por:spa:eng:banana. jpn:バナナ (banana). kor:바나나 (banana).			banan	:	banana	banano	banaani	banan	plátano (banana)	banana	banane	香蕉	банан	केला	pisang	muz
 zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).			bande	:	band (squad, group)		ryhmä (työryhmä, yhtye, bändi)	zespół (drużyna, grupa)	banda	bando	bande	班  (一帮)	банда	जमात		çete
 eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.			bandir	:	flag (banner)	flago	lippu	flaga, sztandar			drapeau	旗	флаг			
-	dex	BD	banglia	:	Bangladesh	Bangladeŝo	Bangladesh	Bangladesz								
+			bangli	:	Bengali (Bangla)		bengali									
+			banglodexi	:	Bangladeshi	bangladeŝa	bangladeshilainen									
+	dex	BD	banglodexia	:	Bangladesh	Bangladeŝo	Bangladesh	Bangladesz								
 			banka	:	save (deposit, bank)		tallettaa (tallentaa)	oszczędzać, deponować								
 eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).			banke	:	bank (depository)	banko	pankki	bank	banco	banco	banque	银行 	банк	बैंक	bank	banka
 			banker	:	banker	bankisto	pankkiiri	bankier	banquero	banqueiro	banquier					
@@ -186,7 +189,6 @@ zho:报 (bào). vie:báo. + tha: ป่าว (bpàao).			baw	:	magazine (journ
 hin:भाषा (bhāṣā). urd:(bhāṣā). ben:ভাষা (bhaṣa). pnb:ਭਾਸ਼ਾ (bhāshā). tel:భాష (bhāṣa). tam:பாசை (pāsai). tha:ภาษา (phasa). ind:bahasa. jav:basa.			bax	:	language (communication)	lingvo	kieli (kommunikaatio)	język; komunikacja	lengua (idioma)	língua (idioma)	langue	语言	язык	भाषा	bahasa	dil (lisan)
 			baxa	:	speak (communicate)	paroli (komuniki)	puhua (kommunikoida)	mówić; komunikować								
 			baxolojia	:	linguistics	lingvistiko	kielitiede (lingvistiikka)	językoznastwo				白色				
-zho:白 (bái).	rang		bay	:	white	blanka	valkoinen (valkea)	biały								
 eng:buy.			baya	:	buy (purchase)	aĉeti	ostaa	kupić	comprar		acheter					
 			bayer	:	buyer	aĉetanto (aĉetisto)	ostaja	nabywca (kupiec)								
 			baza	:	found		perustaa									
@@ -322,7 +324,7 @@ zho:层 (céng). yue:層 (cang4). kor:층 (chŭng). vie:tầng.			ceng	:	layer 
 	dex	ME	cernagoria	:	Montenegro		Montenegro	Czarnogóra								
 	made	Cs	cesium	:	caesium	cezio	cesium	cez								
 zho:此 (cǐ). ita:ci. fra:ci. epo:ĉi.			ci	:	this (these)	ĉi tiu	tämä (nämä)	ten, te								
-	dex	CL	cile	:	Chile	Ĉilio	Chile	Chile								
+	dex	CL	cilia	:	Chile	Ĉilio	Chile	Chile								
 			cimpanze	:	chimpanzee	ĉimpanzo	simpanssi	szympans								
 			cincil	:	chinchilla	ĉinĉilo	chinchilla	szynszyla								
 hin:चीनी (cīnī). tur:Çin. ara:(ṣiniy). spa:chino. eng:Chinese. tha:จีน (chin). zho:秦 (qín).			cini	:	Han Chinese	hana	han-kiinalainen	han chiński				汉族	хань			
@@ -785,6 +787,7 @@ ind:kewan. ara:(haywān). hin:(hEvān).			hewan	:	animal	besto	eläin	animal
 	made	H	hidre	:	hydrogen	hidrogeno	vety	wodór								
 hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).			him	:	snow	neĝo	lumi	śnieg								
 			himalia	:	Himalayas	Himalajo	Himalaja	Himalaje								
+	ang		himangi	:	white	blanka	valkoinen (valkea)	biały								
 			himorose	:	frost	frosto	kuura	szron								
 			hindiste	:	Hindu	hinduo	hindu	hinduistyczny								
 			hindistia	:	Hinduism	hinduismo	hindulaisuus (hinduismi)	hinduizm								
@@ -813,7 +816,7 @@ ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.			huria
 			huristi	:	liberal		liberaali (vapaamielinen)	liberalny, wolnościowy								
 			huristia	:	liberalism		liberalismi	liberalizm								
 zho:灰 (huĭ). yue:灰 (fui). jpn:灰 (hai). + kor:회색 (hoesaeg).			huy	:	ash (ashes)		tuhka									
-	rang		huyi	:	grey (gray, ashy)		harmaa									
+	ang		huyangi	:	grey (gray, ashy)		harmaa									
 spa:y. por:e. rus:и /i/. pol:i.			i	:	and	kaj	ja	i, oraz								
 			ibri	:	Hebrew	Hebrea	heprea	hebrajski								
 vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:(icchā).			ice	:	will (volition, desire)	voli	tahto	wola, chęć								
@@ -950,17 +953,17 @@ ara:fas:urd:(kabāb). tur:ind:eng:spa:kebab. hin:कबाब (kabāb). ben:ক�
 			kabin	:	cabin (booth)		koppi (maja)	kabina, budka								
 ben:কাঁচ (kãcô). mar:काच (kāc). ind:may:kaca. tel:గాజు (gāju).			kace	:	glass	vitro	lasi	szkło								
 	made	Cd	kadomium	:	cadmium	kadmio	kadmium	kadm								
+	ang		kafangi	:	brown (coffee-colored)	bruna	ruskea	brązowy, koloru kawy								
 ara:(qafaṣ). fas:urd:(qafas). hin:क़फ़स (qafas). pnb:ਕਫ਼ਸ (kafas). tur:kafes.			kafas	:	cage		häkki	klatka								
 deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue:咖啡 (gaa3 fe1). eng:coffee. hin:काफ़ी (kāfī). ben:কফি (kôphi). tur:kahve. tgl:kape. tha:กาแฟ (kafæ).			kafe	:	coffee	kafo	kahvi	kawa	café	café	café	咖啡	кофе		kopi	kahve
 			kaferia	:	cafe (coffee shop)	kafejo	kahvila	kawiarnia								
-	rang		kafi	:	brown (coffee-colored)	bruna	ruskea	brązowy, koloru kawy								
 ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).			kafir	:	infidel (pagan, heathen, unbeliever)		pakana	niewierny (poganin, niewierzący)								
 			kafokupe	:	coffee cup	kaftaso	kahvikuppi	filiżanka do kawy								
 			kaka	:	defecate (shit)		ulostaa (kakata)	defekować, srać								
 por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).			kakaw	:	cocoa	kakao	kaakao	kakao								
 spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).			kake	:	excrement (shit)	feko	uloste (kakka)	ekskrement, gówno								
-hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (kālā). tur:kara.	rang		kal	:	black	nigra	musta	czarny				黑色				
 ara:fas:urd:(qalam). hau:alƙalami. yor:swa:kalamu. tur:kalem. hin:क़लम (qalam). ben:কলম (kôlôm). spa:por:cálamo.			kalam	:	pen (writing tool)	plumo	kynä	pióro, długopis								
+hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (kālā). tur:kara.	ang		kalangi	:	black	nigra	musta	czarny				黑色				
 	made	Cf	kalifornium	:	californium	kaliforniumo	kalifornium	kaliforn								
 	made	K	kalium	:	potassium	kalio	kalium	potas								
 fra:calcul. spa:cálculo. eng:calculus. hin:कलन (kalan).			kalkulia	:	calculus (manipulation of symbolic expressions)		kalkyyli	rachunek (formalny system obliczeń)								
@@ -1002,7 +1005,6 @@ eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu
 	aria		karibia	:	Caribbean	Karibio	Karibia	Karaiby								
 wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.			karite	:	shea		voipuu	masłosz Parka								
 hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).			karme	:	action (conduct, karma)	konduto (karmo)	toiminta (käytös, karma)	działanie (zachowanie, karma)								
-arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).			karmesi	:	red	ruĝa	punainen									
 	nas		karnadi	:	Kannada		kannada (eräs intialainen kieli)	kannada								
 			karnadia	:	Karnataka		Karnataka (Intian osavaltio)									
 			karoparke	:	car park (parking lot)		parkkipaikka	parking								
@@ -1065,6 +1067,7 @@ ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāyā". fas:
 	dex	KI	kiribatia	:	Kiribati		Kiribati	Kiribati								
 			kirili abace	:	Cyrillic alphabet		kyrilliset aakkoset	cyrylica								
 			kirisa	:	rent out (let, lease)		vuokrata	wynająć, oddać w najem								
+arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).	ang		kirmangi	:	red	ruĝa	punainen									
 			kitaba	:	write		kirjoittaa	napisać, pisać	escribir	escrevere	écrire	写	писать	लिखना	menulis	yazmak
 ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).			kitabe	:	writing (text)	skribo	kirjoitus (teksti)	pismo, tekst	escritura	escrita	écriture		письмо		tulisan	yazı
 			kitabia	:	library	librejo	kirjasto	biblioteka	biblioteca	biblioteca	bibliothèque	图书馆	библиотека	पुस्तकालय	perpustakaan	kütüphane
@@ -1144,7 +1147,7 @@ hin:कोई (koī). urd:(koī). rus:кое- (koye-).			koy	:	some	iu	jokin (jo
 ned:kraan. rus:taj:kaz:кран (kran). pol:aze:kran. ind:keran.			kran	:	valve (tap, faucet)	krano (valvo)	hana (venttiili, kraana)	kran (zawór)								
 			kratia	:	rule (reign)	regi	valta	rządzić, władać								
 fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).			krem	:	cream	kremo	kerma	krem								
-	rang		kremi	:	cream colored		kermankeltainen									
+	ang		kremangi	:	cream colored		kermankeltainen									
 eng:fra:por:crime. spa:crimen. tgl:krimen.			krim	:	crime	krimo	rikos	przestępstwo								
 			krimi	:	criminal	krima	rikos- (rikollinen)	kryminalny, przestępczy								
 			kriste	:	Christ (messiah)	kristo	kristus (messias)	Chrystus, mesjasz								
@@ -1233,15 +1236,15 @@ eng:fra:leader. spa:por:líder. rus:лидер (lider). tur:lider. hin:लीड
 fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:lig. swa:ligi. jpn:リーグ (rīgu).			lige	:	league (association)		liitto (liittouma, liiga)	liga (stowarzyszenie)								
 eng:little.			lil	:	little (small; a little, somewhat)	malgranda	pieni (pienesti, vähän)	mały; mało, trochę, nieco								
 			lil niam	:	snack		välipala (naposteltava)	przekąska								
+	ang		lilakangi	:	lilac color		violetti (liila)									
 tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).			lilake	:	lilac		syreeni	lilak								
-	rang		lilaki	:	lilac color		violetti (liila)									
 			lim	:	five (5)	kvin (5)	viisi (5)	pięć (5)								
 			limfe	:	lymph		lymfa	limfa								
 			limite	:	limit (boundary)		raja	limit, granica								
 			limofas	:	pentahedron (prism)		viisitahokas (prisma)	pięciościan (pryzmat)								
 			limokon	:	pentagon		viisikulmio	pięciokąt (pentagon)								
 fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).			limon	:	lemon	citrono	sitruuna	cytryna	limón	limão	citron	柠檬	лимон	नींबू	jeruk lemon	limon
-	rang		limoni	:	yellow	flava	keltainen	żółty								
+	ang		limonangi	:	yellow	flava	keltainen	żółty								
 por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).			linye	:	line (stripe)	lineo	viiva (linja)	linia, pas, pręga, smuga								
 fra:lisse. spa:por:liso. fas:(liz). ind:licin.			lisi	:	smooth	glata	sileä	gładki								
 eng:list. spa:por:lista. rus:"lista". deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).			liste	:	list (listing, catalogue)	listo	lista (luettelo)	lista, spis, wykaz	lista	lista	liste	单子				
@@ -1485,7 +1488,6 @@ ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, 
 			monodewistia	:	monotheism		monoteismi (yksijumalisuus)	monoteizm								
 			monokratia	:	autocracy (monarchy)		yksinvaltius (autokratia, monarkia)	monarchia								
 			monologe	:	monolog		yksinpuhelu (monologi)	monolog								
-			monorangi	:	monochrome		yksivärinen	jednokolorowy (monochromatyczny)								
 			monster	:	monster	monstro	hirviö	potwór, monstrum								
 			moral	:	morality (ethics)		moraali (etiikka)	moralność, etyka								
 			morfe	:	morph		morfi	morf								
@@ -1588,7 +1590,7 @@ eng: need.			nida	:	need	bezoni	tarvita	potrzebować				需要
 	dex	NE	nijer	:	Niger	Niĝero	Niger	Niger								
 	dex	NI	nikaragia	:	Nicaragua	Nikaragvo	Nikaragua	Nikaragua								
 	made	Ni	nikel	:	nickel	nikelo	nikkeli	nikiel								
-ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).	rang		nili	:	blue	blua	sininen	niebieski								
+ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).	ang		nili	:	blue	blua	sininen	niebieski								
 			nilon	:	nylon	nilono	nailon	nylon								
 hin:mar:निन्द् (nind).			ninde	:	insult (offence)	insulto	loukkaus (törkeys)	obraza, obelga								
 			nindi	:	rude (offensive)		törkeä	obraźliwy, niemiły, obelżywy								
@@ -1890,7 +1892,6 @@ hin:राज्य (rājya). ben:রাজ্য (rajyô).			rajia	:	kingdom		k
 fra:rampe. eng:ramp. por:spa:rampa. jpn:ランプ (ranpu).			rampe	:	ramp (incline)	ramplo	luiska (ramppi)	rampa								
 			randa	:	smoothen with a plane		höylätä	heblować								
 tur:scr:rende. bul:ренде (rende). ron:rindea. hin:रंदा. (randâ). fas:(rande). swa:(randa).			rander	:	plane (tool for making a smooth surface)		höylä	hebel, strug								
-ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk. + zho:染 (rǎn).			rang	:	color	koloro	väri	kolor								
 			rape	:	speed (velocity)	rapideco	nopeus (vauhti)	prędkość (szybkość)								
 dan:ned:rap. spa:por:rápido. eng:rapid. fra:rapide.			rapi	:	fast (quick, rapid, speedy)	rapidi	nopea (pikainen, vauhdikas)	szybki, prędki								
 			rapometer	:	speedometer		nopeusmittari	prędkościomierz								
@@ -1955,8 +1956,8 @@ fra:rôtir. eng:roast. deu:rösten. ita:arrostare.			rosta	:	roast		paahtaa (pai
 			rota	:	rotate (make spin)		pyörittää	obrócić (kręcić)								
 			roter	:	rotor (rotator)		roottori (propelli)	rotor, wirnik								
 eng:rotate. deu:rotieren. spa:rotar. por:rodar. ind:rotasi. tur:rotasyon.			rotu	:	rotate (spin, turn on an axis)		pyöriä	obrócić się (kręcić się)								
+	ang		rozangi	:	pink (rosy)		vaaleanpunainen	różowy, różany								
 			roze	:	rose	rozo	ruusu	róża								
-	rang		rozi	:	pink (rosy)		vaaleanpunainen	różowy, różany								
 	dex	RW	ruandia	:	Rwanda		Ruanda	Rwanda								
 	made	Rb	rubidium	:	rubidium	rubidio		rubid								
 ara:(rūħ). ind:ruh. tur:ruh. hin:रूह (rūh). swa:roho. hau:ruhu. som:ruux. + rus:дух (duh).			ruhe	:	soul (mind, psyche)	animo (psiko)	henki (sielu, mieli, psyyke)	dusza, duch, umysł			psyché		душа (дух)			
@@ -1989,8 +1990,8 @@ swa:na. lin:kon:na. rus:на (na).			sa	:	with (by, at, in, on)		kanssa (luona, 
 			sabate	:	Sabbath		sapatti	szabat, szabas								
 kon:sambu. + heb:(sibá). + ara:fas:urd:sabab. tur:sebep. ind:sebab. uzb:sabab. aze:səbəb. kaz:себеп (sebep). taj:сабаб (sabab). kat:საბაბი (sababi).			sabe	:	reason (cause)	kialo	syy	powód, przyczyna								
 ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón. fra:savon.			sabun	:	soap	sapo	saippua	mydło								
+	ang		sabzangi	:	green	verda	vihreä	zielony								
 			sabze	:	greens		vihannes		verduras	verdura			зелень			
-	rang		sabzi	:	green	verda	vihreä	zielony								
 tur:sade. fas:(sāde). hin:सादा (sādā).			sadi	:	plain (ordinary, unadorned, simple, mere)		koruton (tavanomainen, pelkkä)	zwykły, zwyczajny, prosty								
 			safa	:	clean (purify)	purigi	puhdistaa (siivota)	wyczyścić, czyścić								
 ara:(safar). tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.			safar	:	travel (voyage, trip)	vojaĝo	matka (reissu)	podróż								
@@ -2189,8 +2190,8 @@ hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.			suta	:	se
 fra:eng:suture. por:spa:sutura.			sutur	:	suture (seam)		sauma (ommel)	szew								
 			suxe	:	sushi	suŝio	sushi	sushi								
 zho:水 "shuǐ". jpn:"sui". vie:thuỷ. + tur:su.			suy	:	water	akvo	vesi	woda								
+			suyang	:	watercolor		vesiväri (akvarelliväri)	akwarela, farba wodna								
 			suyoporte	:	harbor (seaport)	haveno	satama		puerto marítimo	porto marítimo						
-			suyorang	:	watercolor		vesiväri (akvarelliväri)	akwarela, farba wodna								
 deu:Tabak. rus:табак (tabak). fra:tabac. spa:por:tabaco. jpn:タバコ (tabako). eng:tobacco. hin:तंबाकू (tambākū). ind:tembakau.			tabake	:	tobacco	tabako	tupakka	tytoń								
 			tabla	:	tabulate		taulukoida	ułożyć w trabelę								
 eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.			table	:	table (matrix)	tabelo	taulukko	tablioca, macierz								
@@ -2333,6 +2334,7 @@ fra:ou. por:ou.			u	:	or	aŭ	tai (vai)	lub, albo
 			una	:	unite		yhdistää	jednoczyć								
 eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).			unale	:	each other (one another, mutually)	unu la alian (reciproke)	toisiaan (keskenään)	się (nawzajem, wzajemnie)								
 			unali	:	mutual	reciproka	molemminpuolinen (keskinäinen)	wzajemny								
+			unangi	:	monochrome		yksivärinen	jednokolorowy (monochromatyczny)								
 			uni	:	united		yhtenäinen	zjednoczony								
 			unia	:	union	uniono	liitto (unioni)	unia								
 			unomeni	:	unambiguous		yksimerkityksinen									
@@ -2402,8 +2404,10 @@ rus:видеть (videt). ita:vedere. spa:por:ver. pol:widzieć. cze:vidět. ron
 			wide	:	view (vision)		näkymä	widok, wzrok								
 			widomaidan	:	visual field (field of vision)		näkökenttä	pole widzenia								
 			widu	:	be seen		näkyä	być widzianym								
-	dex	VN	wietnam	:	Viet Nam		Vietnam	Wietnam								
-			wiki	:	wiki		wiki	wiki								
+			wieti	:	Vietnamese (Viet)		vietnamilainen									
+	dex	VN	wietia	:	Viet Nam		Vietnam	Wietnam								
+			wike	:	wiki article	vikia artikulo	wikikirjoitus									
+			wikia	:	wiki	vikio	wiki	wiki								
 			wil	:	will (in future)	estonte	tuleva	w przyszłości								
 deu:eng:ned:wild. sve:vild.			wildi	:	wild (savage)		villi (kesytön)	dziki								
 eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).			wile	:	future time	estonoteco	tulevaisuus	przyszłość								

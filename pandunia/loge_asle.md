@@ -61,6 +61,7 @@ ame ← fra:amour. spa:por:amor.
 amen ← ara:(ʾāmin). tur:amin,emin. heb:hbo:אמן. ell:ἀμήν (ámén). eng:deu:fra:pol:spa:amen. zho:阿门 (āmén). kor:아멘 (amen). jpn:アーメン (āmen).  
 ampul ← fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).  
 ande ← hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).  
+ange ← mon:өнгө (öngö). + ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk.  
 anjil ← ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). ell:εὐαγγέλιον (euangélion). rus:евангелие (evangeliye). fra:évangile. por:evangelho.  
 anker ← eng:anchor. fra:ancre. por:âncora. ind:jangkar. rus:якорь. ara:(ʾanjar). hin:लंगर (laṅgar). urd:(laṅgar). tel:లంగరు (laṅgaru).  
 anti ← eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.  
@@ -94,6 +95,7 @@ bal ← zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.
 balde ← spa:por:balde. hin:बाल्टी (bālṭī). ben:(balti).  
 balon ← fra:ballon. tur:ind:pol:balon. eng:balloon. tgl:balun. hau:balân.  
 ban ← kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).  
+banan ← wol:banaana. rus:банан (banan). pol:banan. fra:deu:banane. por:spa:eng:banana. jpn:バナナ (banana). kor:바나나 (banana).  
 bande ← zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).  
 bandir ← eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.  
 banke ← eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).  
@@ -112,7 +114,6 @@ baton ← eng:baton. fra:bâton. zho:棒 "bàng". jpn:棒 "bō".
 batre ← eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ara:(baṭṭāriyya). jpn:バッテリー (batterī). rus:батарея (batareja).  
 baw ← zho:报 (bào). vie:báo. + tha: ป่าว (bpàao).  
 bax ← hin:भाषा (bhāṣā). urd:(bhāṣā). ben:ভাষা (bhaṣa). pnb:ਭਾਸ਼ਾ (bhāshā). tel:భాష (bhāṣa). tam:பாசை (pāsai). tha:ภาษา (phasa). ind:bahasa. jav:basa.  
-bay ← zho:白 (bái).  
 baya ← eng:buy.  
 bazar ← fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:bazar. eng:bazaar. rus:базар (bazar). ind: pasar. khm:ផ្សារ (psar).  
 baze ← eng:fra:por:spa:base. deu:Basis. rus:база (baza).  
@@ -414,8 +415,8 @@ kafe ← deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue
 kafir ← ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).  
 kakaw ← por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).  
 kake ← spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).  
-kal ← hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (kālā). tur:kara.  
 kalam ← ara:fas:urd:(qalam). hau:alƙalami. yor:swa:kalamu. tur:kalem. hin:क़लम (qalam). ben:কলম (kôlôm). spa:por:cálamo.  
+kalangi ← hin: काला (kālā). ben:কালো (kalô). pnb:ਕਾਲਾ (kālā). tur:kara.  
 kalkulia ← fra:calcul. spa:cálculo. eng:calculus. hin:कलन (kalan).  
 kam ← hin:काम (kām). tha:กาม (gaam). eng:kama.  
 kamar ← ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer.  
@@ -438,7 +439,6 @@ karbi ← ara:fas:urd:(qarīb). swa:karibu. tur:takribi.
 karde ← eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu. fra:carte.  
 karite ← wol:kaarite. jul:karite. fra:spa:karité. pul:kaare. ful:kareje. hau:kaɗanya.  
 karme ← hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).  
-karmesi ← arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).  
 karte ← deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.  
 kartun ← eng:cartoon. por:cartum. zho:卡通 (kǎtōng).  
 karwan ← fas:urd:(kârvân). tur:kervan. hin:कारवाँ (kārvā̃). eng:caravan. deu:Karawane. fra:caraven. spa:por:caravana. pol:karawana. rus:караван (karavan). tgl:karabana. jpn:キャラバン (kyaraban). kor:카라반 (karaban).  
@@ -459,6 +459,7 @@ kenar ← tur:kenar. hin:किनारा "kinārā". urd:"kanārā".
 kex ← jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).  
 kexosabun ← por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.  
 kire ← ara:"kirāʾ". tur:kira. hin:किराया "kirāyā". urd:"kirāyā". fas:"kerāya". spa:alquiler.  
+kirmangi ← arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz). + eng:crimson. fra:carmin,cramoisi. por:carmesim. pol:karmazin. hin:क़िरमिज़ (qirmiz).  
 kitabe ← ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).  
 kiwe ← eng:kiwi.  
 klar ← deu:klar. spa:por:claro. eng:clear. fra:clair.  
@@ -715,7 +716,6 @@ raite ← eng:right.
 rajia ← hin:राज्य (rājya). ben:রাজ্য (rajyô).  
 rampe ← fra:rampe. eng:ramp. por:spa:rampa. jpn:ランプ (ranpu).  
 rander ← tur:scr:rende. bul:ренде (rende). ron:rindea. hin:रंदा. (randâ). fas:(rande). swa:(randa).  
-rang ← ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). tel:రంగు (raṅgu). swa:rangi. lin:lángi. tur:renk. + zho:染 (rǎn).  
 rapi ← dan:ned:rap. spa:por:rápido. eng:rapid. fra:rapide.  
 rasme ← ara:(rasm). hin:रस्म (rasma). ind:resmi.  
 ray ← ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.  

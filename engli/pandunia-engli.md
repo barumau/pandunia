@@ -66,6 +66,7 @@ analis : analysis
 analisa : analyse  
 ande : egg  
 andes : Andes  
+ange : color  
 angolia : Angola  
 anima : animate  
 anime : animation (cartoon)  
@@ -86,8 +87,8 @@ aplika : apply (put to use for a purpose)
 aplike : application  
 arabi : Arabic  
 arane : spider  
+aranjangi : orange (orange-colored)  
 aranje : orange (fruit)  
-aranji : orange (orange-colored)  
 aranofobia : arachnophobia  
 arbe : tree  
 arboparke : arboretum  
@@ -149,7 +150,9 @@ ban : time (turn, occasion)
 banan : banana  
 bande : band (squad, group)  
 bandir : flag (banner)  
-banglia : Bangladesh  
+bangli : Bengali (Bangla)  
+banglodexi : Bangladeshi  
+banglodexia : Bangladesh  
 banka : save (deposit, bank)  
 banke : bank (depository)  
 banker : banker  
@@ -187,7 +190,6 @@ bawer : journalist
 bax : language (communication)  
 baxa : speak (communicate)  
 baxolojia : linguistics  
-bay : white  
 baya : buy (purchase)  
 bayer : buyer  
 baza : found  
@@ -324,7 +326,7 @@ cerium : cerium
 cernagoria : Montenegro  
 cesium : caesium  
 ci : this (these)  
-cile : Chile  
+cilia : Chile  
 cimpanze : chimpanzee  
 cincil : chinchilla  
 cini : Han Chinese  
@@ -791,6 +793,7 @@ hibride : hybrid (mongrel)
 hidre : hydrogen  
 him : snow  
 himalia : Himalayas  
+himangi : white  
 himorose : frost  
 hindiste : Hindu  
 hindistia : Hinduism  
@@ -819,7 +822,7 @@ huriste : liberalist
 huristi : liberal  
 huristia : liberalism  
 huy : ash (ashes)  
-huyi : grey (gray, ashy)  
+huyangi : grey (gray, ashy)  
 ##i  
 i : and  
 ibri : Hebrew  
@@ -959,17 +962,17 @@ kabaw : water buffalo
 kabin : cabin (booth)  
 kace : glass  
 kadomium : cadmium  
+kafangi : brown (coffee-colored)  
 kafas : cage  
 kafe : coffee  
 kaferia : cafe (coffee shop)  
-kafi : brown (coffee-colored)  
 kafir : infidel (pagan, heathen, unbeliever)  
 kafokupe : coffee cup  
 kaka : defecate (shit)  
 kakaw : cocoa  
 kake : excrement (shit)  
-kal : black  
 kalam : pen (writing tool)  
+kalangi : black  
 kalifornium : californium  
 kalium : potassium  
 kalkulia : calculus (manipulation of symbolic expressions)  
@@ -1011,7 +1014,6 @@ karde : card
 karibia : Caribbean  
 karite : shea  
 karme : action (conduct, karma)  
-karmesi : red  
 karnadi : Kannada  
 karnadia : Karnataka  
 karoparke : car park (parking lot)  
@@ -1074,6 +1076,7 @@ kirgizia : Kyrgyzstan
 kiribatia : Kiribati  
 kirili abace : Cyrillic alphabet  
 kirisa : rent out (let, lease)  
+kirmangi : red  
 kitaba : write  
 kitabe : writing (text)  
 kitabia : library  
@@ -1153,7 +1156,7 @@ koy : some
 kran : valve (tap, faucet)  
 kratia : rule (reign)  
 krem : cream  
-kremi : cream colored  
+kremangi : cream colored  
 krim : crime  
 krimi : criminal  
 kriste : Christ (messiah)  
@@ -1243,15 +1246,15 @@ liga : associate
 lige : league (association)  
 lil niam : snack  
 lil : little (small; a little, somewhat)  
+lilakangi : lilac color  
 lilake : lilac  
-lilaki : lilac color  
 lim : five (5)  
 limfe : lymph  
 limite : limit (boundary)  
 limofas : pentahedron (prism)  
 limokon : pentagon  
 limon : lemon  
-limoni : yellow  
+limonangi : yellow  
 linye : line (stripe)  
 lisi : smooth  
 liste : list (listing, catalogue)  
@@ -1496,7 +1499,6 @@ monistia : monism
 monodewistia : monotheism  
 monokratia : autocracy (monarchy)  
 monologe : monolog  
-monorangi : monochrome  
 monster : monster  
 moral : morality (ethics)  
 morfe : morph  
@@ -1905,7 +1907,6 @@ ramazan : Ramadan
 rampe : ramp (incline)  
 randa : smoothen with a plane  
 rander : plane (tool for making a smooth surface)  
-rang : color  
 rape : speed (velocity)  
 rapi : fast (quick, rapid, speedy)  
 rapometer : speedometer  
@@ -1970,8 +1971,8 @@ rosti pang : toast (toasted bread)
 rota : rotate (make spin)  
 roter : rotor (rotator)  
 rotu : rotate (spin, turn on an axis)  
+rozangi : pink (rosy)  
 roze : rose  
-rozi : pink (rosy)  
 ruandia : Rwanda  
 rubidium : rubidium  
 ruhe : soul (mind, psyche)  
@@ -2005,8 +2006,8 @@ saba : cause (be the cause for)
 sabate : Sabbath  
 sabe : reason (cause)  
 sabun : soap  
+sabzangi : green  
 sabze : greens  
-sabzi : green  
 sadi : plain (ordinary, unadorned, simple, mere)  
 safa : clean (purify)  
 safar : travel (voyage, trip)  
@@ -2205,8 +2206,8 @@ suta : sew
 sutur : suture (seam)  
 suxe : sushi  
 suy : water  
+suyang : watercolor  
 suyoporte : harbor (seaport)  
-suyorang : watercolor  
 ##t  
 tabake : tobacco  
 tabla : tabulate  
@@ -2351,6 +2352,7 @@ un : one (1)
 una : unite  
 unale : each other (one another, mutually)  
 unali : mutual  
+unangi : monochrome  
 uni : united  
 unia : union  
 unomeni : unambiguous  
@@ -2422,8 +2424,10 @@ wida : look (see)
 wide : view (vision)  
 widomaidan : visual field (field of vision)  
 widu : be seen  
-wietnam : Viet Nam  
-wiki : wiki  
+wieti : Vietnamese (Viet)  
+wietia : Viet Nam  
+wike : wiki article  
+wikia : wiki  
 wil : will (in future)  
 wildi : wild (savage)  
 wile : future time  

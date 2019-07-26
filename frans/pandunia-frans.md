@@ -61,8 +61,8 @@ aple : pomme
 aplika : appliquer  
 arabi : arabe  
 arane : araignée  
+aranjangi : orange (couleur)  
 aranje : orange (fruit)  
-aranji : orange (couleur)  
 aranofobia : arachnophobie  
 arbe : arbre  
 arboparke : arboretum, pépinière  

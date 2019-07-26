@@ -147,7 +147,8 @@ Bahama-saaret : bahamia
 Bahrain : bahrain  
 bambu : jug  
 banaani : banan  
-Bangladesh : banglia  
+Bangladesh : banglodexia  
+bangladeshilainen : banglodexi  
 barbaari (raakalainen) : barbar  
 Barbados : barbados  
 barium : barium  
@@ -156,6 +157,7 @@ bataatti : kamote
 beduiini : badawi  
 Belgia : belgia  
 Belize : belizia  
+bengali : bangli  
 Benin : benin  
 bensiini (bensa) : benzin  
 berkelium : berkelium  
@@ -188,7 +190,7 @@ Ceres : seres
 cerium : cerium  
 cesium : cesium  
 chapati : capate  
-Chile : cile  
+Chile : cilia  
 chinchilla : cincil  
 cola : kola  
 Cookin saaret : kuke da nesia  
@@ -355,7 +357,7 @@ happi : okse
 harja : brox  
 harjoitella (treenata) : lenxa  
 harjoitus : lenxe  
-harmaa : huyi  
+harmaa : huyangi  
 harmonia : harmonia  
 harmoninen : harmoni  
 harrastus : hobe  
@@ -714,7 +716,7 @@ keitto (soppa) : supe
 keittää (kiehuttaa) : bula  
 keksi (pikkuleipä) : biskute  
 kelpo (okei) : okey  
-keltainen : limoni  
+keltainen : limonangi  
 kemia : kimia  
 kemikaali : kimi  
 kenguru : kangur  
@@ -723,7 +725,7 @@ kenkä : sapate
 kenttä (aukio) : maidan  
 kerho (klubi) : klube  
 kerma : krem  
-kermankeltainen : kremi  
+kermankeltainen : kremangi  
 kerran : un ban  
 kerros : ceng  
 kerta (vuoro) : ban  
@@ -1297,7 +1299,7 @@ musiikki : musike
 musketti : muskete  
 musketööri : musketer  
 muslimi (islaminuskoinen) : islamiste  
-musta : kal  
+musta : kalangi  
 muste : moge  
 muta (kura, lieju) : pote  
 mutka (kurvi) : kurbe  
@@ -1443,7 +1445,7 @@ opettaja : darsogur
 oppi (opetus) : darse  
 oppia (opiskella) : darsa  
 oppilas : darser  
-oranssi : aranji  
+oranssi : aranjangi  
 orava : tupay  
 orgasmi : orgazme  
 orija (eräs intialainen kieli) : odisi  
@@ -1680,7 +1682,7 @@ puhua (sanoa) : loga
 pukea : fuka  
 pullo : botol  
 pumppu : pompa  
-punainen : karmesi  
+punainen : kirmangi  
 punta : paunde  
 puola : polskia  
 puolalainen : polski  
@@ -1810,7 +1812,7 @@ ruoka : niam
 ruokasali : niamokamar  
 Ruotsi : suenia  
 rusina : gan putaw  
-ruskea : kafi  
+ruskea : kafangi  
 ruukku (maljakko, vaasi) : waze  
 ruumiillinen : badani  
 ruusu : roze  
@@ -2292,7 +2294,7 @@ uutinen : habar
 Uzbekistan : uzbekia  
 ##v  
 vaaka (puntari) : barometer  
-vaaleanpunainen : rozi  
+vaaleanpunainen : rozangi  
 vaara : hatre  
 vaarallinen : hatri  
 vaate (puku) : fuke  
@@ -2311,7 +2313,7 @@ valaistunut : budi
 valinta (vaali) : cuze  
 valita : cuza  
 valjaat : harnes  
-valkoinen (valkea) : bay  
+valkoinen (valkea) : himangi  
 valkosipuli : lasun  
 Valkovenäjä : belarus  
 valmis : redi  
@@ -2376,7 +2378,7 @@ vesi : suy
 vesimeloni : arbuze  
 vesinokkaeläin : batokrote  
 vesipuhveli : kabaw  
-vesiväri (akvarelliväri) : suyorang  
+vesiväri (akvarelliväri) : suyang  
 vessa : tuale  
 vetoketju : ziper  
 vety : hidre  
@@ -2387,12 +2389,13 @@ vierailla : wizita
 vierailu (visiitti) : wizite  
 viesti : mesaje  
 viestiä (kommunikoida) : mesaja  
-Vietnam : wietnam  
+Vietnam : wietia  
+vietnamilainen : wieti  
 viha (suuttumus, raivo) : furia  
 viha : hen  
 vihainen (suuttunut) : furi  
 vihannes : sabze  
-vihreä : sabzi  
+vihreä : sabzangi  
 viihdyttää (huvittaa) : fana  
 viikko : seman  
 viikonpäivä : war  
@@ -2412,7 +2415,7 @@ viljellä : nonga
 villi (kesytön) : wildi  
 vilustuminen : zukam  
 vinyyli : winil  
-violetti (liila) : lilaki  
+violetti (liila) : lilakangi  
 virallinen : ofisi  
 virasto (toimisto, konttori) : ofisia  
 virka (virka-asema) : ofis  
@@ -2461,11 +2464,12 @@ väittely (debatti) : lon
 väittää : tesa  
 väli : inter  
 välipala (naposteltava) : lil niam  
-väri : rang  
+väri : ange  
 väärä (epätosi, vale-) : falsi  
 ##w  
 watti : wate  
-wiki : wiki  
+wiki : wikia  
+wikikirjoitus : wike  
 ##x  
 ##y  
 yhdeksän : naw  
@@ -2483,7 +2487,7 @@ yksinkertainen (mutkaton) : simpli
 yksinpuhelu (monologi) : monologe  
 yksinvaltius (autokratia, monarkia) : monokratia  
 yksityiskohta (detalji) : detal  
-yksivärinen : monorangi  
+yksivärinen : unangi  
 yleinen (universaali) : putong  
 yleiskiina (mandariinikiina) : putong cini  
 yliopisto : dayodarsia  

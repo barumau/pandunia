@@ -101,7 +101,7 @@ jana : 知道
 janger : 工匠 (匠人)  
 ##k  
 kafe : 咖啡  
-kal : 黑色  
+kalangi : 黑色  
 kande : 糖果  
 karte : 地图  
 kartografia : 地图学  

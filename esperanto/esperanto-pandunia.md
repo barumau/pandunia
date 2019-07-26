@@ -117,7 +117,8 @@ bambuo : jug
 bana : banyu  
 banano : banan  
 bandaĝo (vindo) : bende  
-Bangladeŝo : banglia  
+bangladeŝa : banglodexi  
+Bangladeŝo : banglodexia  
 bankisto : banker  
 banko : banke  
 bano : banye  
@@ -158,7 +159,7 @@ birdo : pakse
 Birmo : mianmia  
 biskvito (kuketo) : biskute  
 bismuto : bismute  
-blanka : bay  
+blanka : himangi  
 blua : nili  
 bobelo : bubul  
 bojkoto : boikote  
@@ -188,7 +189,7 @@ branĉo : xake
 Brazilo : brazilia  
 bromo : brom  
 broso : brox  
-bruna : kafi  
+bruna : kafangi  
 brusto : sine  
 budhismo : budistia  
 budhisto : budiste  
@@ -375,7 +376,7 @@ fiziko : fizike
 fiziko : fizikia  
 fiŝo : fix  
 flago : bandir  
-flava : limoni  
+flava : limonangi  
 floro : pul  
 flughaveno : airoporte  
 flugi : feya  
@@ -645,7 +646,7 @@ kolekta : jami
 kolekti (kunigi) : jama  
 kolero (furiozo) : furia  
 kolono : kolum  
-koloro : rang  
+koloro : ange  
 koltuko : xal  
 komenco : mul  
 komercisto : bizneser  
@@ -909,7 +910,7 @@ newtono (N) : nuton
 neĝo : him  
 ni : mome  
 ni faru... : haida  
-nigra : kal  
+nigra : kalangi  
 nihonio : niponium  
 Nikaragvo : nikaragia  
 nikelo : nikel  
@@ -947,7 +948,7 @@ olivo : zaitun
 ombro : saye  
 opinii : raya  
 opinio : ray  
-oranĝa : aranji  
+oranĝa : aranjangi  
 oranĝo : aranje  
 ordoni : komanda  
 ordono : komande  
@@ -1143,7 +1144,7 @@ ruinigita : harabi
 rutenio : rutenium  
 ruterfordio : ruterfordium  
 rutino (kutimo) : rutin  
-ruĝa : karmesi  
+ruĝa : kirmangi  
 ##s  
 sablo : rege  
 safrano : safran  
@@ -1356,7 +1357,7 @@ ventumilo : panke
 vera : weri  
 verando : berande  
 verbo : fatolekse  
-verda : sabzi  
+verda : sabzangi  
 versio (toisinto) : wersion  
 vespermanĝo : xamoniam  
 vespero : xam  
@@ -1369,6 +1370,8 @@ via (cia) : ti
 viando : manse  
 vic- : wis  
 vidi (rigardi) : wida  
+vikia artikulo : wike  
+vikio : wikia  
 vilaĝo : ruste  
 vinagro : sirke  
 vinbero : putaw  
@@ -1410,7 +1413,7 @@ zoroastrismo : zarduxistia
 zoroastristo : zarduxiste  
 Zoroastro : zardux  
 zuluo : zuluh  
-Ĉilio : cile  
+Ĉilio : cilia  
 Ĉinio : jungogia  
 ĉambro : kamar  
 ĉampiono : campion  

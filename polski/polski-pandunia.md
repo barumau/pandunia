@@ -12,7 +12,7 @@ aj!, ał! : ay
 akcent, nacisk : acente  
 akt, scena : roler  
 aktyn : acinium  
-akwarela, farba wodna : suyorang  
+akwarela, farba wodna : suyang  
 akwarium : fixotanke  
 Albania : cipia  
 ale, lecz : a  
@@ -100,7 +100,7 @@ balon : balon
 bambus : jug  
 banan : banan  
 bandaż, taśma, wstążka : faxe  
-Bangladesz : banglia  
+Bangladesz : banglodexia  
 bank : banke  
 bankier : banker  
 baobab : buy  
@@ -135,7 +135,7 @@ bez : na
 bezpieczny : sekur  
 Bhutan : butan  
 Białoruś : belarus  
-biały : bay  
+biały : himangi  
 Biblia : biblia  
 biblioteka : kitabia  
 biedny, mizerny : miskin  
@@ -173,7 +173,7 @@ Brunei Darussalam : bruney
 brzmieć, wydać dźwięk, wydawać dźwięk : sonda  
 brzuch : bung  
 brzydki : mal rupi  
-brązowy, koloru kawy : kafi  
+brązowy, koloru kawy : kafangi  
 Budda : bude  
 buddysta : budiste  
 Buddyzm : budistia  
@@ -217,7 +217,7 @@ chcieć, pragnąć : wanta
 chemia : kimia  
 chemiczny : kimi  
 cherubin : kerube  
-Chile : cile  
+Chile : cilia  
 Chiny : jungogia  
 chleb : pang  
 chlor : klor  
@@ -268,7 +268,7 @@ cytryna : limon
 Czad : cadia  
 czajnik : ketel  
 Czarnogóra : cernagoria  
-czarny : kal  
+czarny : kalangi  
 czas (epoka, era) : zaman  
 czas; okazja : ban  
 czasownik : fatolekse  
@@ -669,7 +669,7 @@ jaśmin : malike
 jebać, kopulować : coda  
 jeden (1) : un  
 jednoczyć : una  
-jednokolorowy (monochromatyczny) : monorangi  
+jednokolorowy (monochromatyczny) : unangi  
 jednostki podstawowej : em  
 jedzenie, posiłek : niam  
 jej : yey  
@@ -785,7 +785,7 @@ kolonialista : koloniste
 kolonializm : kolonistia  
 kolonizator : koloner  
 kolonizować : kolona  
-kolor : rang  
+kolor : ange  
 Kolumbia : kolombia  
 kolumna, filar : kolum  
 komar, moskit : moskite  
@@ -1499,7 +1499,7 @@ polon : polon
 Polska : polskia  
 polski : polski  
 pomarańcza : aranje  
-pomarańczowy : aranji  
+pomarańczowy : aranjangi  
 pomidor : tomate  
 pominąć, wyłączyć; poza, oprócz : cula  
 pomoc, wsparcie : helpe  
@@ -1787,7 +1787,7 @@ róg : buge
 róg : korne  
 równy : par  
 róża : roze  
-różowy, różany : rozi  
+różowy, różany : rozangi  
 ręcznik : towal  
 ręczny : hani  
 ręka, dłoń : hande  
@@ -2230,12 +2230,12 @@ wielościan : polofas
 wieprzowina : gurubomanse  
 wiercić, borować : bora  
 wierzyć : xina  
-Wietnam : wietnam  
+Wietnam : wietia  
 wiewiórka : tupay  
 wieś, tereny wiejskie : rustia  
 wieś, wioska : ruste  
 wieża : minar  
-wiki : wiki  
+wiki : wikia  
 wilk : wolfe  
 wina, grzech; defekt, wada : dox  
 winiarnia : waineria  
@@ -2412,7 +2412,7 @@ zero, nic, żaden : nol
 zespół (drużyna, grupa) : bande  
 zewnętrzny : way  
 ziarno, nasienie : dan  
-zielony : sabzi  
+zielony : sabzangi  
 Ziemia : zemia  
 ziemia, grunt, gleba : zem  
 ziemniak : patate  
@@ -2512,5 +2512,5 @@ zły, zrujnowany, zepsuty : harabi
 żyrafa : jiraf  
 żywica : rezin  
 żyć (żywy, żyjący) : jiwi  
-żółty : limoni  
+żółty : limonangi  
 żółw : tortuge  

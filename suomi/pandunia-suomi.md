@@ -65,6 +65,7 @@ analis : analyysi
 analisa : analysoida  
 ande : muna  
 andes : Andit  
+ange : väri  
 angolia : Angola  
 anima : animoida  
 anime : animaatio (piirretty)  
@@ -85,8 +86,8 @@ aplika : soveltaa
 aplike : sovellus  
 arabi : arabialainen  
 arane : hämähäkki  
+aranjangi : oranssi  
 aranje : appelsiini  
-aranji : oranssi  
 aranofobia : araknofobia (hämähäkkikammo)  
 arbe : puu  
 arboparke : arboretum (puulajipuisto)  
@@ -147,7 +148,9 @@ ban : kerta (vuoro)
 banan : banaani  
 bande : ryhmä (työryhmä, yhtye, bändi)  
 bandir : lippu  
-banglia : Bangladesh  
+bangli : bengali  
+banglodexi : bangladeshilainen  
+banglodexia : Bangladesh  
 banka : tallettaa (tallentaa)  
 banke : pankki  
 banker : pankkiiri  
@@ -185,7 +188,6 @@ bawer : toimittaja (journalisti, lehtimies)
 bax : kieli (kommunikaatio)  
 baxa : puhua (kommunikoida)  
 baxolojia : kielitiede (lingvistiikka)  
-bay : valkoinen (valkea)  
 baya : ostaa  
 bayer : ostaja  
 baza : perustaa  
@@ -322,7 +324,7 @@ cerium : cerium
 cernagoria : Montenegro  
 cesium : cesium  
 ci : tämä (nämä)  
-cile : Chile  
+cilia : Chile  
 cimpanze : simpanssi  
 cincil : chinchilla  
 cini : han-kiinalainen  
@@ -790,6 +792,7 @@ hibride : risteytys (hybridi)
 hidre : vety  
 him : lumi  
 himalia : Himalaja  
+himangi : valkoinen (valkea)  
 himorose : kuura  
 hindiste : hindu  
 hindistia : hindulaisuus (hinduismi)  
@@ -818,7 +821,7 @@ huriste : liberalisti
 huristi : liberaali (vapaamielinen)  
 huristia : liberalismi  
 huy : tuhka  
-huyi : harmaa  
+huyangi : harmaa  
 ##i  
 i : ja  
 ibri : heprea  
@@ -958,17 +961,17 @@ kabaw : vesipuhveli
 kabin : koppi (maja)  
 kace : lasi  
 kadomium : kadmium  
+kafangi : ruskea  
 kafas : häkki  
 kafe : kahvi  
 kaferia : kahvila  
-kafi : ruskea  
 kafir : pakana  
 kafokupe : kahvikuppi  
 kaka : ulostaa (kakata)  
 kakaw : kaakao  
 kake : uloste (kakka)  
-kal : musta  
 kalam : kynä  
+kalangi : musta  
 kalifornium : kalifornium  
 kalium : kalium  
 kalkulia : kalkyyli  
@@ -1010,7 +1013,6 @@ karde : kortti
 karibia : Karibia  
 karite : voipuu  
 karme : toiminta (käytös, karma)  
-karmesi : punainen  
 karnadi : kannada (eräs intialainen kieli)  
 karnadia : Karnataka (Intian osavaltio)  
 karoparke : parkkipaikka  
@@ -1073,6 +1075,7 @@ kirgizia : Kirgistan (Kirgisia)
 kiribatia : Kiribati  
 kirili abace : kyrilliset aakkoset  
 kirisa : vuokrata  
+kirmangi : punainen  
 kitaba : kirjoittaa  
 kitabe : kirjoitus (teksti)  
 kitabia : kirjasto  
@@ -1152,7 +1155,7 @@ koy : jokin (joku)
 kran : hana (venttiili, kraana)  
 kratia : valta  
 krem : kerma  
-kremi : kermankeltainen  
+kremangi : kermankeltainen  
 krim : rikos  
 krimi : rikos- (rikollinen)  
 kriste : kristus (messias)  
@@ -1242,15 +1245,15 @@ liga : liittää
 lige : liitto (liittouma, liiga)  
 lil niam : välipala (naposteltava)  
 lil : pieni (pienesti, vähän)  
+lilakangi : violetti (liila)  
 lilake : syreeni  
-lilaki : violetti (liila)  
 lim : viisi (5)  
 limfe : lymfa  
 limite : raja  
 limofas : viisitahokas (prisma)  
 limokon : viisikulmio  
 limon : sitruuna  
-limoni : keltainen  
+limonangi : keltainen  
 linye : viiva (linja)  
 lisi : sileä  
 liste : lista (luettelo)  
@@ -1494,7 +1497,6 @@ monistia : monismi
 monodewistia : monoteismi (yksijumalisuus)  
 monokratia : yksinvaltius (autokratia, monarkia)  
 monologe : yksinpuhelu (monologi)  
-monorangi : yksivärinen  
 monster : hirviö  
 moral : moraali (etiikka)  
 morfe : morfi  
@@ -1902,7 +1904,6 @@ ramazan : ramadan
 rampe : luiska (ramppi)  
 randa : höylätä  
 rander : höylä  
-rang : väri  
 rape : nopeus (vauhti)  
 rapi : nopea (pikainen, vauhdikas)  
 rapometer : nopeusmittari  
@@ -1967,8 +1968,8 @@ rosti pang : paahtoleipä
 rota : pyörittää  
 roter : roottori (propelli)  
 rotu : pyöriä  
+rozangi : vaaleanpunainen  
 roze : ruusu  
-rozi : vaaleanpunainen  
 ruandia : Ruanda  
 ruhe : henki (sielu, mieli, psyyke)  
 ruhi : henkinen (psyykkinen)  
@@ -1999,8 +2000,8 @@ saba : aiheuttaa
 sabate : sapatti  
 sabe : syy  
 sabun : saippua  
+sabzangi : vihreä  
 sabze : vihannes  
-sabzi : vihreä  
 sadi : koruton (tavanomainen, pelkkä)  
 safa : puhdistaa (siivota)  
 safar : matka (reissu)  
@@ -2181,8 +2182,8 @@ suta : ommella
 sutur : sauma (ommel)  
 suxe : sushi  
 suy : vesi  
+suyang : vesiväri (akvarelliväri)  
 suyoporte : satama  
-suyorang : vesiväri (akvarelliväri)  
 ##t  
 tabake : tupakka  
 tabla : taulukoida  
@@ -2317,6 +2318,7 @@ un : yksi
 una : yhdistää  
 unale : toisiaan (keskenään)  
 unali : molemminpuolinen (keskinäinen)  
+unangi : yksivärinen  
 uni : yhtenäinen  
 unia : liitto (unioni)  
 unomeni : yksimerkityksinen  
@@ -2385,8 +2387,10 @@ wida : nähdä
 wide : näkymä  
 widomaidan : näkökenttä  
 widu : näkyä  
-wietnam : Vietnam  
-wiki : wiki  
+wieti : vietnamilainen  
+wietia : Vietnam  
+wike : wikikirjoitus  
+wikia : wiki  
 wil : tuleva  
 wildi : villi (kesytön)  
 wile : tulevaisuus  
