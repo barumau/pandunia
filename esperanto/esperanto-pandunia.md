@@ -142,6 +142,7 @@ beduino (nomado) : badawi
 bela : sundar  
 Belgio : belgia  
 Beliceo : belizia  
+Belorusio : belorusia  
 bendo : tepe  
 benko : bence  
 benzino : benzin  

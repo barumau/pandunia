@@ -207,9 +207,9 @@ beijing : Beijing (Peking)
 beka : bake  
 beker : baker  
 bekeria : bakery  
-belarus : Belarus  
 belgia : Belgium  
 belizia : Belize  
+belorusia : Belarus  
 bence : bench  
 benda : tie (fasten, bind)  
 bende : band (tape, bandage)  

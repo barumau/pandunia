@@ -17,7 +17,7 @@ pandunia kapa dexonam ya [dexi ren da zi bax](http://www.omniglot.com/countries/
 | BD | banglodexia | Bangladesh |
 | BB | barbados | Barbados |
 | IN | bartia | India |
-| BY | belarus | Belarus |
+| BY | belorusia | Belarus |
 | BE | belgia | Belgium |
 | BZ | belizia | Belize |
 | BJ | benin | Benin |

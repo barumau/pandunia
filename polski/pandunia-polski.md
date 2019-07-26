@@ -193,9 +193,9 @@ beijing : Pekin
 beka : piec  
 beker : piekarz  
 bekeria : piekarnia  
-belarus : Białoruś  
 belgia : Belgia  
 belizia : Belize  
+belorusia : Białoruś  
 bence : ławka  
 benda : związać, wiązać; zapiąć, zapinać  
 bende : taśma; bandaż  

@@ -205,9 +205,9 @@ beijing : Peking (Beijing)
 beka : leipoa  
 beker : leipuri  
 bekeria : leipomo  
-belarus : Valkovenäjä  
 belgia : Belgia  
 belizia : Belize  
+belorusia : Valkovenäjä  
 bence : penkki  
 benda : sitoa  
 bende : nauha (side)  

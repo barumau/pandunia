@@ -134,7 +134,7 @@ beton : beton
 bez : na  
 bezpieczny : sekur  
 Bhutan : butan  
-Białoruś : belarus  
+Białoruś : belorusia  
 biały : himangi  
 Biblia : biblia  
 biblioteka : kitabia  

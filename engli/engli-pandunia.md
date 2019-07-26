@@ -220,7 +220,7 @@ beginning : mul
 behave (act) : manira  
 behaviour (manners) : manir  
 Beijing (Peking) : beijing  
-Belarus : belarus  
+Belarus : belorusia  
 Belgium : belgia  
 belief (faith, creed) : xin  
 believe : xina  

@@ -2315,7 +2315,7 @@ valita : cuza
 valjaat : harnes  
 valkoinen (valkea) : himangi  
 valkosipuli : lasun  
-Valkovenäjä : belarus  
+Valkovenäjä : belorusia  
 valmis : redi  
 valo : nur  
 valoisa : nuri  

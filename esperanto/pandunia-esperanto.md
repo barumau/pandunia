@@ -161,6 +161,7 @@ beker : bakisto
 bekeria : bakejo  
 belgia : Belgio  
 belizia : Beliceo  
+belorusia : Belorusio  
 bence : benko  
 benda : ligi  
 bende : bandaĝo (vindo)  
