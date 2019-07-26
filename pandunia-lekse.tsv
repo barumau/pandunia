@@ -206,9 +206,9 @@ rus:убегать "ubegat'". hin:भागना "bhāgnā".			bega	:	escape (f
 eng:bake. hin:पकाना "pakānā". rus:печь "peč". deu:backen.			beka	:	bake	baki	leipoa	piec								
 			beker	:	baker	bakisto	leipuri	piekarz								
 			bekeria	:	bakery	bakejo	leipomo	piekarnia								
-	dex	BY	belorusia	:	Belarus	Belorusio	Valkovenäjä	Białoruś								
 	dex	BE	belgia	:	Belgium	Belgio	Belgia	Belgia								
 	dex	BZ	belizia	:	Belize	Beliceo	Belize	Belize								
+	dex	BY	belorusia	:	Belarus	Belorusio	Valkovenäjä	Białoruś								
 eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤치 (benchi).			bence	:	bench	benko	penkki	ławka								
 			benda	:	tie (fasten, bind)	ligi	sitoa	związać, wiązać; zapiąć, zapinać								
 ita:benda. swa:bendeji. spa:venda. fra:bande. eng:band. deu:Binde. rus:bul:kaz:kyr:бинт (bint). uzb:bint. hin:बाँधना (bāndhnā).			bende	:	band (tape, bandage)	bandaĝo (vindo)	nauha (side)	taśma; bandaż								
@@ -246,8 +246,8 @@ spa:por:boca.			boke	:	mouth	buŝo	suu	usta
 eng:ball. spa:por:ind:tgl:bola. tha:บอล (bɔl). jpn:ボール (bōru). kor:볼 (bol). khm:បាល់ (bal). ben:বল (bôl). deu:Ball. fra:boule,balle.			bol	:	ball	pilko	pallo	piłka								
 	dex	BG	bolgaria	:	Bulgaria	Bulgario	Bulgaria	Bułgaria								
 			bolibia	:	Bolivia	Bolivio	Bolivia	Boliwia								
-hin:बम "bam". eng:bomb.			bombe	:	bomb	bombo	pommi	bomba								
-fra: bon. Italian: buono. spa: bueno.			bon	:	good	bona	hyvä	dobry								
+pol:por:spa:tur:bomba. rus:бомба (bomba). deu:fra:bombe. fas:(bomb). eng:bomb. ben:বোমা (boma). hin:बम (bam). urd:(bam). jpn:ボム (bomu). kor:봄 (bom). ind:bom.			bombe	:	bomb	bombo	pommi	bomba	bomba	bomba	bombe	炸弹	бомба	बम	bom	bomba
+fra:bon. por:bom. spa:bueno. + khm:បុណ្យ (bon). tha:บุญ (bun). tel:పుణ్యము (puṇyamu).			bon	:	good	bona	hyvä	dobry								
 zho:好看 (hǎokàn). eng:good-looking.			bon rupi	:	good-looking	bonaspekta	hyvännäköinen	przystojny, atrakcyjny, ładny				好看				
 			bon zar	:	good luck		hyvä onni (tuuri, säkä, lykky)	dobry los, szczęście								
 			bora	:	drill (bore)	taladro	porata	wiercić, borować								
@@ -368,8 +368,9 @@ eng:fra:dance. spa:danza. por:dança. deu:Tanz. rus:танец (taněc). tur:dan
 			dantomediker	:	dentist	dentisto	hammaslääkäri	dentysta								
 			darba	:	strike (punch)	bati	lyödä (iskeä)	bić, uderzyć, uderzać								
 ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. fas:(dareje). ind:derajat. + zho:阶 (jiē).			darje	:	step (degree, rank, grade, level, class)		porras (aste, taso)	stopień, poziom, ranga, klasa								
-			darme	:	dharma (piety)	pieco	hurskaus	dharma, pobożność								
-			darmi	:	pious	pia	hurskas	pobożny								
+hin:धर्म (dharm). urd:(dharm). ben:ধর্ম (dhôrmô). guj:ધર્મ (dharma). tel:ధర్మము (dharmamu). tam:தருமம் (tarumam). tha:ธรรม (tam). mya:ဓမ္မ (dhamma). ind:derma. zho:達摩 (dámó). kor:달마 (dalma). eng:deu:fra:spa:dharma. por:darma. rus:дхарма (dharma).			darme	:	morality (ethics)		moraali	moralność, etyka								
+			darmi	:	moral		moraalinen									
+			darmoloji	:	ethics		etiikka (moraalioppi)									
 			darsa	:	learn (study)	lerni (studi)	oppia (opiskella)	nauczyć się, uczyć się, studiować								
 ara:fas:urd:(dars). tur:ders.			darse	:	lesson	leciono	oppi (opetus)	lekcja								
 			darser	:	student (pupil, learner)	studento (lernanto)	oppilas	uczeń, student								
@@ -393,8 +394,8 @@ vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dà
 ara:(difāʿ). fas:(defâ'). hin:दफ़ा (dafā). urd:(difā'). + fra:eng:defense. spa:defensa. por:defesa. tur:defans.			defe	:	defense (defence)	defendo	puolustus	obrona								
 			defer	:	defender	defendanto (defendisto)	puolustaja	obrońca								
 			defta	:	register (record, log)	registri	tallentaa (rekisteröidä, kirjata)	zapisać (zarejestrować)								
-tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:fas:(daftar).			defte	:	register (record, log)	registro	tallenne (rekisteri)	rejestr								
-			deftia	:	registry		rekisteri	register								
+tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:fas:(daftar).			defte	:	register (record, log)	registraĵo	tallenne (rekisteri)	rejestr								
+			deftia	:	registry (account)	registro (konto)	rekisteri (tili)	register								
 			deftobuke	:	logbook		lokikirja	dziennik pokładowy (notatnik)								
 			deka	:	cover (conceal)	kovri	peittää	przykryć, przykrywać, ukryć, ukrywać								
 hin:ढकना (dhaknā). deu:decken. eng:deck.			deke	:	cover (lid, cap, deck)	kovrilo	peite (kansi)	pokrycie; pokrywa, wieko, dekiel; pokład								
@@ -421,7 +422,8 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dewokratia	:	theocracy	teokratio	teokratia	teokracja								
 			dewolojia	:	theology	teologio	teologia	teologia								
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia								
-ara: /dīn/. tur: din. swa: dini. hau: addini.			din	:	religion (worship)	religio	uskonto	religia, wyznanie								
+ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).			din	:	religion (worship)	religio	uskonto	religia, wyznanie								
+			dini	:	religious	religia	uskonnollinen									
 zho:钉 (dīng). yue:釘 (deng1). vie:đinh.			ding	:	nail (spike)	najlo	naula (piikki)	kolec				钉子 				
 			dinogur	:	priest (cleric)	pastro	pappi	ksiądz, kleryk, kaznodzieja								
 			diske	:	disc (disk)	disko	kiekko (levy)	dysk								
@@ -716,7 +718,9 @@ ind:kuda. kan:ಕುದುರೆ (kudure). tam:குதிரை (kutirai). t
 ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.			guhe	:	cave	kaverno	luola	jaskinia								
 	nas		gujarati	:	Gujarati		gujarati (eräs intialainen kieli)	Gudżarat								
 hin:गुण (guṇ). ben:গুণ (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).			gun	:	quality (excellence, virtue, merit)	eco	laatu (laadukkuus, erinomaisuus, hyvyys)	cecha, atrybut, własność; -ość								
-			guni	:	virtuous (excellent)		laadukas (hyvä)									
+			guni	:	excellent		laadukas (hyvä)									
+tha:คุณธรรม (gunnadam). hin: urd: tam: tel: mya: ind:			gunodarme	:	virtue (morals)		hyve					道德				
+			gunodarmi	:	virtuous		hyveellinen (hyvä)									
 hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).			gur	:	guru (teacher)	guruo (instruisto)	guru (opettaja)	guru, mistrz								
 rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. kat:ღორი (ğori). + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.			gurube	:	pig	porko	sika (possu)	świnia								
 			gurubomanse	:	pork	porkaĵo	sianliha	wieprzowina								
@@ -1489,7 +1493,6 @@ ell:μόνος (monos). eng:deu:fra:por:spa:mono-.			mon	:	only (alone, solely, 
 			monokratia	:	autocracy (monarchy)		yksinvaltius (autokratia, monarkia)	monarchia								
 			monologe	:	monolog		yksinpuhelu (monologi)	monolog								
 			monster	:	monster	monstro	hirviö	potwór, monstrum								
-			moral	:	morality (ethics)		moraali (etiikka)	moralność, etyka								
 			morfe	:	morph		morfi	morf								
 			morfem	:	morpheme		morfeemi	morfem								
 	dex	MU	morisia	:	Mauritius		Mauritius	Mauritius								
@@ -2346,9 +2349,9 @@ rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fa
 fra:ours. por:urso. ita:orso. spa:oso.			urse	:	bear	urso	karhu	niedźwiedź								
 fra:ours. por:urso. spa:oso. fas:(xers).			urse	:	bear	urso	karhu	niedźwiedź								
 	dex	UY	uruguayia	:	Uruguay		Uruguai	Urugwaj								
+			usameriki	:	American (US)		yhdysvaltalainen ("amerikkalainen")									
 	dex	AS	usameriki samoa	:	American Samoa			Amerykańska Samoa								
 	dex	VI	usameriki wirjin nesia	:	Virgin Islands, US			Wyspy Dziewicze USA								
-			usameriki	:	American (US)		yhdysvaltalainen ("amerikkalainen")									
 	dex	US	usamerikia	:	United States of America (USA)		Yhdysvallat ("Amerikka")	Stany Zjednoczone Ameryki								
 eng:use. spa:usar. pol:używać.	coverb		uza	:	use (employ, apply)	uzi	käyttää	użyć, używać, zatrudnić, stosować								
 	dex	UZ	uzbekia	:	Uzbekistan		Uzbekistan	Uzbekistan								
@@ -2550,3 +2553,5 @@ ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona). 			zon	
 			zukam	:	cold (illness)		vilustuminen	przeziębienie, katar								
 			zuluh	:	Zulu	zuluo	zulu	zulu			zoulou		зулус			
 ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.			zumrude	:	emerald		smaragdi	szmaragd			émeraude		изумруд			
+				:	dharma (piety)	pieco	hurskaus	dharma, pobożność								
+				:	pious	pia	hurskas	pobożny								

@@ -141,9 +141,9 @@ biznes ← eng:business. rus:бизнес (biznes).
 blabla ← fra:blablater. eng:babble. spa:blablablá.  
 boke ← spa:por:boca.  
 bol ← eng:ball. spa:por:ind:tgl:bola. tha:บอล (bɔl). jpn:ボール (bōru). kor:볼 (bol). khm:បាល់ (bal). ben:বল (bôl). deu:Ball. fra:boule,balle.  
-bombe ← hin:बम "bam". eng:bomb.  
+bombe ← pol:por:spa:tur:bomba. rus:бомба (bomba). deu:fra:bombe. fas:(bomb). eng:bomb. ben:বোমা (boma). hin:बम (bam). urd:(bam). jpn:ボム (bomu). kor:봄 (bom). ind:bom.  
 bon rupi ← zho:好看 (hǎokàn). eng:good-looking.  
-bon ← fra: bon. Italian: buono. spa: bueno.  
+bon ← fra:bon. por:bom. spa:bueno. + khm:បុណ្យ (bon). tha:บุญ (bun). tel:పుణ్యము (puṇyamu).  
 bote ← spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.  
 botol ← eng:bottle. ind:botol.  
 boton ← eng:button. spa:botón. por:botão. fra:bouton. jpn:ボタン (botan). tgl:butones. hin:बटन (baṭan). urd:(baṭan). ben;বোতাম (botam).  
@@ -203,6 +203,7 @@ dan ← hin:(dānā). tur:tane. jpn:(tane). + zho:列 (dàn). vie:đạn.
 danke ← eng:thank. deu:Danke. + hin:धन्यवाद "dhanyavād".  
 danse ← eng:fra:dance. spa:danza. por:dança. deu:Tanz. rus:танец (taněc). tur:dans. jpn:ダンス (dansu). kor:댄스 (daenseu). swa:dansi.  
 darje ← ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. fas:(dareje). ind:derajat. + zho:阶 (jiē).  
+darme ← hin:धर्म (dharm). urd:(dharm). ben:ধর্ম (dhôrmô). guj:ધર્મ (dharma). tel:ధర్మము (dharmamu). tam:தருமம் (tarumam). tha:ธรรม (tam). mya:ဓမ္မ (dhamma). ind:derma. zho:達摩 (dámó). kor:달마 (dalma). eng:deu:fra:spa:dharma. por:darma. rus:дхарма (dharma).  
 darse ← ara:fas:urd:(dars). tur:ders.  
 darte ← eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.  
 date ← eng:ind:data. vie:đa ta. deu:Daten. spa:tgl:datos. por:dados. fas:(dâde-hâ). hin:डेटा (ḍeṭā). urd:(ḍeṭā). jpn:データ (dēta).  
@@ -218,7 +219,7 @@ den ← hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (
 destin ← eng:destination, destiny. fra:destin. spa:por:destino.  
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
-din ← ara: /dīn/. tur: din. swa: dini. hau: addini.  
+din ← ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).  
 ding ← zho:钉 (dīng). yue:釘 (deng1). vie:đinh.  
 dixe ← hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).  
 dokum ← eng:fra:document. rus:документ (dokument).  
@@ -326,6 +327,7 @@ gubuh ← ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu. gan:envubu zul:rwa:imvubu
 gude ← ind:kuda. kan:ಕುದುರೆ (kudure). tam:குதிரை (kutirai). tel:గుర్రము (gurramu). hin:घोड़ा (ghoṛā). urd:(ghoṛā). ben:ঘোড়া (ghoṛa). pnb:ਘੋੜਾ (ghōṛā).  
 guhe ← ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.  
 gun ← hin:गुण (guṇ). ben:গুণ (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).  
+gunodarme ← tha:คุณธรรม (gunnadam). hin: urd: tam: tel: mya: ind:  
 gur ← hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).  
 gurube ← rwa:gurube. sna:guruve. swa:guruwe zul:ingulube. kon:ngulu spa:guarro,gorrino. kat:ღორი (ğori). + (onom.) jpn:(gorogoro) ron:groh. scr:grok. eng:grunt.  
 guy ← zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).  

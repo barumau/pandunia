@@ -1003,11 +1003,11 @@ peti (bonvolu) : plisa
 peza : bari  
 pezmetalo : barometal  
 pezo : bar  
-pia : darmi  
+pia :   
 piano : pian  
 picejo : pizeria  
 pico : pize  
-pieco : darme  
+pieco :   
 piedo : fute  
 piedpilko : futobol  
 pilko : bol  
@@ -1106,8 +1106,10 @@ rapidigi : yala
 reciproka : unali  
 regi : kratia  
 regiono : istan  
+registraĵo : defte  
 registri : defta  
-registro : defte  
+registro (konto) : deftia  
+religia : dini  
 religio : din  
 renio : renium  
 rentgenio : rengenium  

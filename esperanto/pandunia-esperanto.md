@@ -3,6 +3,8 @@
 -i : -a (-e)  
 -ia : ejo (ujo, io)  
 -u : -i (-iĝi)  
+ : pia  
+ : pieco  
 ##a  
 a : sed  
 abace : alfabeto  
@@ -286,8 +288,6 @@ dante : dento
 dantobrox : dentbroso  
 dantomediker : dentisto  
 darba : bati  
-darme : pieco  
-darmi : pia  
 darsa : lerni (studi)  
 darse : leciono  
 darser : studento (lernanto)  
@@ -303,7 +303,8 @@ defa : defendi
 defe : defendo  
 defer : defendanto (defendisto)  
 defta : registri  
-defte : registro  
+defte : registraĵo  
+deftia : registro (konto)  
 deka : kovri  
 deke : kovrilo  
 deme : popolo  
@@ -325,6 +326,7 @@ dewolojia : teologio
 dex : lando  
 din : religio  
 ding : najlo  
+dini : religia  
 dinogur : pastro  
 diske : disko  
 disprosium : disprozio  

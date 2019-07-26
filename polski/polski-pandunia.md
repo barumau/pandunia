@@ -316,7 +316,7 @@ demon : demon
 dentysta : dantomediker  
 deska : banze  
 detal, szczegół : detal  
-dharma, pobożność : darme  
+dharma, pobożność :   
 diabelski, szatański : xatani  
 diabeł, szatan : xatan  
 diament : almas  
@@ -1093,7 +1093,7 @@ Mongolski : mongol
 monizm : monistia  
 monolog : monologe  
 monoteizm : monodewistia  
-moralność, etyka : moral  
+moralność, etyka : darme  
 morf : morfe  
 morfem : morfem  
 moskovium : moskowium  
@@ -1453,7 +1453,7 @@ plemię : tribe
 Pluton (planeta karłowata) : pluto  
 pluton : plutonium  
 pluć : tuha  
-pobożny : darmi  
+pobożny :   
 pochochodnia (latarka) : nurobaton  
 pociąg : tren  
 poczta : poste  

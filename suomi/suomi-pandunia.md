@@ -273,6 +273,7 @@ etelä : sude
 Etelä-Afrikka : sudafrikia  
 Etelä-Korea : hangogia  
 Etelä-Sudan : sudi sudania  
+etiikka (moraalioppi) : darmoloji  
 etikka : sirke  
 Etiopia : etiopia  
 etäisyys (kaukaisuus) : tel  
@@ -446,8 +447,8 @@ huone : kamar
 huono : mal  
 hurma (lumo, tenho) : fasin  
 hurraa (hurrata) : ura  
-hurskas : darmi  
-hurskaus : darme  
+hurskas :   
+hurskaus :   
 huuli : labe  
 huume : droge  
 huumori : yumor  
@@ -458,6 +459,8 @@ hylkiö (paaria) : paraye
 hypätä (hyppiä) : jampa  
 hyrrä : tolo  
 hyttynen (sääski) : moskite  
+hyve : gunodarme  
+hyveellinen (hyvä) : gunodarmi  
 hyvä (tervehdyksissä) : salam  
 hyvä : bon  
 hyvä onni (tuuri, säkä, lykky) : bon zar  
@@ -1278,7 +1281,8 @@ montako? (paljonko?) : ki num
 Montenegro : cernagoria  
 moottori : moter  
 moottoripyörä : motosikle  
-moraali (etiikka) : moral  
+moraali : darme  
+moraalinen : darmi  
 morfeemi : morfem  
 morfi : morfe  
 Mosambik : mozambikia  
@@ -1764,7 +1768,7 @@ rauta : fer
 ravintola : restoran  
 rehtori : darsoxef  
 reikä : kong  
-rekisteri : deftia  
+rekisteri (tili) : deftia  
 reppu (rinkka) : rukosake  
 resepti (ohje) : recete  
 retikka (retiisi) : lobake  
@@ -2284,6 +2288,7 @@ Uruguai : uruguayia
 usein : cang  
 usko (luottamus) : xin  
 uskoa (luottaa) : xina  
+uskonnollinen : dini  
 uskonto : din  
 uudistaa : nowa  
 uuni : tanur  

@@ -78,6 +78,7 @@ base de données : datobanke
 basketball : baskobol  
 bibliothèque : kitabia  
 billet : tikete  
+bombe : bombe  
 botanique : fitolojia  
 boue (fange, bourbe, gadoue) : pote  
 bouton : boton  

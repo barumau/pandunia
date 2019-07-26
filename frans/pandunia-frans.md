@@ -103,6 +103,7 @@ baskobol : basketball
 bax : langue  
 baya : acheter  
 baze : base  
+bombe : bombe  
 botolefte : babord  
 boton : bouton  
 botoraite : tribord  

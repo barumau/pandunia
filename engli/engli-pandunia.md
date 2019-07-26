@@ -622,7 +622,7 @@ development : fajan
 devil (Satan) : xatan  
 devilish (satanic) : xatani  
 dew : rose  
-dharma (piety) : darme  
+dharma (piety) :   
 diamond : almas  
 die (dice) : dade  
 die : mortu  
@@ -733,6 +733,7 @@ Esperanto : esperanti
 essay : esey  
 estimate (approximate) : yaga  
 Estonia : estia  
+ethics : darmoloji  
 Ethiopia : etiopia  
 Eurasia : eurasia  
 euro (€) : europese  
@@ -750,6 +751,7 @@ everybody (everyone) : pan ren
 everything : pan xey  
 examine (inspect, check) : genca  
 example (instance of) : misal  
+excellent : guni  
 except (minus) : minus  
 exchange (swap, replace) : badala  
 exclude (except, save) : cula  
@@ -1445,7 +1447,8 @@ monster : monster
 Montenegro : cernagoria  
 month : mes  
 moon : lun  
-morality (ethics) : moral  
+moral : darmi  
+morality (ethics) : darme  
 more : max  
 morning (dawn) : sube  
 Morocco : magribia  
@@ -1715,7 +1718,7 @@ pilot : piloter
 pine tree : song  
 pineapple : nanas  
 pink (rosy) : rozangi  
-pious : darmi  
+pious :   
 pipe : pipe  
 piracy : piratia  
 pirate (one who disobeys intellectual property laws) : piratiste  
@@ -1891,11 +1894,12 @@ refuse (deny, decline) : nega
 region : istan  
 register (record, log) : defta  
 register (record, log) : defte  
-registry : deftia  
+registry (account) : deftia  
 reign (rule as an emperor) : impera  
 relationship (association, connection) : guanxe  
 release (let, let go) : laxa  
 religion (worship) : din  
+religious : dini  
 remain (stay) : restu  
 remember (recall) : yada  
 renew (make new, renovate) : nowa  
@@ -2450,7 +2454,8 @@ vinegar : sirke
 vinyl : winil  
 Virgin Islands, US : usameriki wirjin nesia  
 virology : wirusolojia  
-virtuous (excellent) : guni  
+virtue (morals) : gunodarme  
+virtuous : gunodarmi  
 virus : wirus  
 visa : wize  
 visit : wizita  

@@ -3,6 +3,8 @@
 -i : przyrostek dla przymiotnika  
 -ia : przyrostek dla miejsca  
 -u : przyrostek dla czasowników z szykiem zdania OVS  
+ : dharma, pobożność  
+ : pobożny  
 ##a  
 a : ale, lecz  
 abace : alfabet, abecadło  
@@ -355,8 +357,7 @@ dantobrox : szczoteczka do zębów
 dantomediker : dentysta  
 darba : bić, uderzyć, uderzać  
 darje : stopień, poziom, ranga, klasa  
-darme : dharma, pobożność  
-darmi : pobożny  
+darme : moralność, etyka  
 darsa : nauczyć się, uczyć się, studiować  
 darse : lekcja  
 darser : uczeń, student  
@@ -1460,7 +1461,6 @@ monodewistia : monoteizm
 monokratia : monarchia  
 monologe : monolog  
 monster : potwór, monstrum  
-moral : moralność, etyka  
 morfe : morf  
 morfem : morfem  
 morisia : Mauritius  

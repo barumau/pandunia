@@ -65,6 +65,7 @@ bazar : 市场
 baze : 底部  
 bere : 浆果  
 bil : 帐单   
+bombe : 炸弹  
 bon rupi : 好看  
 botolefte : 左舷  
 boton : 扣子  
@@ -88,6 +89,7 @@ fem : 女
 firuze : 绿松石  
 fitolojia : 植物学  
 ##g  
+gunodarme : 道德  
 ##h  
 habar : 消息  
 haime : 帐篷  

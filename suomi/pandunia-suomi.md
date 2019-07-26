@@ -3,6 +3,8 @@
 -i : pääte: adjektiivi tai adverbi  
 -ia : ajattelun, olemisen tai ihmisten ala tai alue  
 -u : pääte: OVS-sanajärjestyksen verbi  
+ : hurskas  
+ : hurskaus  
 ##a  
 a : mutta  
 abace : aakkoset (ABC)  
@@ -369,8 +371,9 @@ dantobrox : hammasharja
 dantomediker : hammaslääkäri  
 darba : lyödä (iskeä)  
 darje : porras (aste, taso)  
-darme : hurskaus  
-darmi : hurskas  
+darme : moraali  
+darmi : moraalinen  
+darmoloji : etiikka (moraalioppi)  
 darsa : oppia (opiskella)  
 darse : oppi (opetus)  
 darser : oppilas  
@@ -395,7 +398,7 @@ defe : puolustus
 defer : puolustaja  
 defta : tallentaa (rekisteröidä, kirjata)  
 defte : tallenne (rekisteri)  
-deftia : rekisteri  
+deftia : rekisteri (tili)  
 deftobuke : lokikirja  
 deka : peittää  
 deke : peite (kansi)  
@@ -424,6 +427,7 @@ dewolojia : teologia
 dex : maa (valtio)  
 din : uskonto  
 ding : naula (piikki)  
+dini : uskonnollinen  
 dinogur : pappi  
 diske : kiekko (levy)  
 disprosium : dysprosium  
@@ -721,6 +725,8 @@ guhe : luola
 gujarati : gujarati (eräs intialainen kieli)  
 gun : laatu (laadukkuus, erinomaisuus, hyvyys)  
 guni : laadukas (hyvä)  
+gunodarme : hyve  
+gunodarmi : hyveellinen (hyvä)  
 gur : guru (opettaja)  
 gurube : sika (possu)  
 gurubomanse : sianliha  
@@ -1498,7 +1504,6 @@ monodewistia : monoteismi (yksijumalisuus)
 monokratia : yksinvaltius (autokratia, monarkia)  
 monologe : yksinpuhelu (monologi)  
 monster : hirviö  
-moral : moraali (etiikka)  
 morfe : morfi  
 morfem : morfeemi  
 morisia : Mauritius  

@@ -3,6 +3,8 @@
 -i : suffix for adjectives  
 -ia : area of thinking or being  
 -u : suffix for verbs with OVS word order  
+ : dharma (piety)  
+ : pious  
 ##a  
 a : but (whereas)  
 abace : alphabet  
@@ -371,8 +373,9 @@ dantobrox : tooth brush
 dantomediker : dentist  
 darba : strike (punch)  
 darje : step (degree, rank, grade, level, class)  
-darme : dharma (piety)  
-darmi : pious  
+darme : morality (ethics)  
+darmi : moral  
+darmoloji : ethics  
 darsa : learn (study)  
 darse : lesson  
 darser : student (pupil, learner)  
@@ -397,7 +400,7 @@ defe : defense (defence)
 defer : defender  
 defta : register (record, log)  
 defte : register (record, log)  
-deftia : registry  
+deftia : registry (account)  
 deftobuke : logbook  
 deka : cover (conceal)  
 deke : cover (lid, cap, deck)  
@@ -426,6 +429,7 @@ dewolojia : theology
 dex : country (land)  
 din : religion (worship)  
 ding : nail (spike)  
+dini : religious  
 dinogur : priest (cleric)  
 diske : disc (disk)  
 disprosium : dysprosium  
@@ -721,7 +725,9 @@ gude : horse
 guhe : cave  
 gujarati : Gujarati  
 gun : quality (excellence, virtue, merit)  
-guni : virtuous (excellent)  
+guni : excellent  
+gunodarme : virtue (morals)  
+gunodarmi : virtuous  
 gur : guru (teacher)  
 gurube : pig  
 gurubomanse : pork  
@@ -1500,7 +1506,6 @@ monodewistia : monotheism
 monokratia : autocracy (monarchy)  
 monologe : monolog  
 monster : monster  
-moral : morality (ethics)  
 morfe : morph  
 morfem : morpheme  
 morisia : Mauritius  

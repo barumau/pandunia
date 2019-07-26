@@ -56,6 +56,7 @@ baskobol : баскетбол
 bax : язык  
 baze : основа (база,  фундамент)  
 bil : счёт  
+bombe : бомба  
 botolefte : левый борт  
 boton : пуговица  
 botoraite : правый борт   
