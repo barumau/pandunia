@@ -8,7 +8,7 @@
 
 [histor]()
 
-  * [baru bace ya dante tung](baru_dante.md)
+  * [baru bace ya danti tung](baru_dante.md)
   * [insan ya putong hake](putong_hake.md)
   * [sam buze i guy](3_buze_i_guy.md)
   * [sam lil gurube](3_lil_gurube.md)

@@ -13,7 +13,7 @@ eska te jana pandunia? te abla darsa pandunia sa uza [mini darse](mini_darse.htm
 
 * [abace](abc.md)
 * kitabe
-  * [lil urse da dante tung](baru_dante.md)
+  * [lil urse da danti tung](baru_dante.md)
   * [tin lil gurube](3_lil_gurube.md)
   * [sam buze i guy](3_buze_i_guy.md)
   * [piper i karote](piper_i_karot.md)
