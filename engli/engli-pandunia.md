@@ -1652,6 +1652,7 @@ papaya : papay
 paper : papir  
 Papua New Guinea : papua nowi ginia  
 Paraguay : paraguayia  
+parasol : solocate  
 park (garden) : parke  
 parrot (parakeet) : papagay  
 part (fraction) : fen  
@@ -1873,6 +1874,9 @@ radish : lobake
 radium : radium  
 radon : radon  
 railway (railroad) : trenodaw  
+rain : barxe  
+raincoat : barxokote  
+rainy : barxi  
 raise (lift) : gawa  
 raisin : gan putaw  
 Ramadan : ramazan  
@@ -2195,7 +2199,7 @@ student (pupil, learner) : darser
 studio : estudia  
 stupid (idiotic) : idioti  
 submission (surrender) : islam  
-substitute : wisa  
+substitute (replace) : wisa  
 subway (metro) : tunelotren  
 suck : cupa  
 Sudan : sudania  
@@ -2405,6 +2409,7 @@ tyrant : tiran
 Uganda : gandia  
 ugly : mal rupi  
 Ukraine : ukrainia  
+umbrella : barxocate  
 unambiguous : unomeni  
 uncover (reveal) : dekula  
 under (go under) : nica  
@@ -2443,8 +2448,8 @@ Venezuela : wenezolia
 veranda (balcony, terrace, porch) : berande  
 verb : fatolekse  
 version (variation, edition) : wersion  
-vice (deputy) : wis  
-vice-president : wis prezidente  
+vice (deputy) : wisi  
+vice-president : wisoprezidente  
 victory (win) : win  
 Viet Nam : wietia  
 Vietnamese (Viet) : wieti  

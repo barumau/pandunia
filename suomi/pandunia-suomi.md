@@ -174,6 +174,9 @@ barometer : vaaka (puntari)
 barti : intialainen  
 bartia : Intia  
 barude : ruuti  
+barxe : sade  
+barxocate : sateenvarjo  
+barxokote : sadetakki  
 barya : estää kulku  
 baryer : este  
 bas : tarpeeksi (riittävästi)  
@@ -2137,6 +2140,7 @@ sofia : viisaus
 soke : sukka  
 sol : aurinko  
 solestas : päivänseisaus  
+solocate : aurinkovarjo  
 solomon da nesia : Salomon-saaret  
 solosistem : aurinkokunta  
 somalia : Somalia  
@@ -2410,9 +2414,9 @@ wir : sankari (urho)
 wiri : urhea (sankarillinen)  
 wirus : virus  
 wirusolojia : virologia  
-wis prezidente : varapresidentti  
-wis : vara- (korvike-)  
 wisa : korvata  
+wisi : vara- (korvike-)  
+wisoprezidente : varapresidentti  
 wize : viisumi  
 wizita : vierailla  
 wizite : vierailu (visiitti)  

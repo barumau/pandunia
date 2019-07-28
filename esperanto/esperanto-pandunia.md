@@ -935,6 +935,7 @@ nuno : zaye
 nur : mon  
 ##o  
 oazo : wase  
+obrelo : barxocate  
 Oceanio : oseania  
 oceano : dayosamude  
 ofte : cang  
@@ -1034,6 +1035,8 @@ plumbo : plumbe
 plumo : kalam  
 plumo : per  
 plutonio : plutonium  
+pluva : barxi  
+pluvo : barxe  
 poemo : xir  
 pokero : poke  
 poligono : polokon  
@@ -1244,6 +1247,7 @@ suko : jus
 sulfuro : sulfe  
 sumo : sum  
 suno : sol  
+sunombrelo : solocate  
 sunsistemo : solosistem  
 superiri : supra  
 supo : supe  
@@ -1371,7 +1375,7 @@ vi (ci) : te
 vi ĉiu : tote  
 via (cia) : ti  
 viando : manse  
-vic- : wis  
+vic- : wisi  
 vidi (rigardi) : wida  
 vikia artikulo : wike  
 vikio : wikia  

@@ -58,6 +58,10 @@ banyokamar : 浴室
 banyu : 游泳  
 banze : 板子  
 bari : 重型的  
+barxe : 雨   
+barxi : 多雨  
+barxocate : 伞  
+barxokote : 雨衣  
 baskobol : 篮球  
 bax : 语言  
 baxolojia : 白色  

@@ -173,6 +173,10 @@ hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubari
 hin:भारतीय (bhārtīy). urd:(bhārtīy). mar:(bhārtīya). tel:(bhāratīya).			barti	:	Indian	Barata	intialainen	Indyjski								
 	dex	IN	bartia	:	India	Baratio	Intia	Indie								
 ara:fas:urd:(bārūd). hin:बारूद (bārūd). pnb:ਬਾਰੂਦ (bārūd). swa:baruti. tur:barut. bul:барут (barut).			barude	:	gunpowder	pulvo	ruuti	proch strzelniczy								
+hin:बारिश (bāriś),वर्षा (varṣā). urd:(bāriś). mar:वर्षा (varṣā). guj:વરસાદ (varsād). tel:వర్షము (varṣamu). fas:(bārān). jav:warsa.			barxe	:	rain	pluvo	sade		lluvia	chuva	pluie	雨 	дождь	बारिश (वर्षा)	hujan	yağmur
+			barxi	:	rainy	pluva			lluvioso (pluvioso)	chuvoso (pluvioso)	pluvieux	多雨	дождливый	बरसाती		yağmurlu
+			barxocate	:	umbrella	obrelo	sateenvarjo	parasol	parasol	guarda-chuva	parapluie	伞	зонтик	छाता	payung	şemsiye
+			barxokote	:	raincoat		sadetakki		impermeable	capa de chuva	imperméable	雨衣	плащ (дождевик) 	रेनकोट	jas hujan	yağmurluk
 			barya	:	bar (obstruct)	bari	estää kulku	blokować, hamować								
 spa:barrera. eng:barrier. rus:барьер (baryer).			baryer	:	barrier	barilo	este	bariera								
 fas:urd:س (bas). ara:(bass). hin:(bas). swa:basi. spa:por:ita:basta.			bas	:	enough (sufficient)	sufiĉa	tarpeeksi (riittävästi)	wystarczający	bastante							
@@ -407,9 +411,9 @@ eng:democracy. rus:демократия "demokratiya". spa:democracia. fra: por:
 			demokratiste	:	democrati		demokraatti	demokrata								
 			demon	:	demon	demono	demoni (piru)	demon								
 hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).			den	:	day (daytime)	tago	päivä	dzień								
-			denga	:	wait	atendi	odottaa	czekać								
+zho:等 (děng).  yue:等 (dang2).			denga	:	wait	atendi	odottaa	czekać								
 			denoniam	:	lunch	tagmanĝo	lounas	obiad, lunch								
-			des	:	ten (10)	dek (10)	kymmenen (10)	dziesięć (10)								
+por:dez. spa:diez. fra:dix. rus:десять (desyat'). pol:dziesięć. hin:दस (das). urd:(das). ben:দশ (dôś). + eng:deci-. ind:desi-. jpn:デシ- (deshi). deu:dezi-.			des	:	ten (10)	dek (10)	kymmenen (10)	dziesięć (10)								
 			desen	:	drawing (picture)	desegno	piirustus	rysunek, obraz								
 eng:destination, destiny. fra:destin. spa:por:destino.			destin	:	destination (destiny, fate)		määrä (päämäärä, kohtalo)	przeznaczenie, los	destino	destino	destin (destination)	目的地 (命運)	судьба	किस्मत	takdir	kader
 			destina	:	destine (set)		määrätä	przeznaczyć 								
@@ -423,8 +427,8 @@ por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".			dew	:	god (deit
 			dewolojia	:	theology	teologio	teologia	teologia								
 hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).			dex	:	country (land)	lando	maa (valtio)	kraj, ziemia								
 ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).			din	:	religion (worship)	religio	uskonto	religia, wyznanie								
-			dini	:	religious	religia	uskonnollinen									
 zho:钉 (dīng). yue:釘 (deng1). vie:đinh.			ding	:	nail (spike)	najlo	naula (piikki)	kolec				钉子 				
+			dini	:	religious	religia	uskonnollinen									
 			dinogur	:	priest (cleric)	pastro	pappi	ksiądz, kleryk, kaznodzieja								
 			diske	:	disc (disk)	disko	kiekko (levy)	dysk								
 	made	Dy	disprosium	:	dysprosium	disprozio	dysprosium	dysproz								
@@ -2135,6 +2139,7 @@ spa:por:sofá. eng:fra:deu:ind:sofa. rus:софа (sofa). zho:沙发 (shāfā). 
 deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). rus:носок (nosok). 			soke	:	sock (stocking)	ŝtrumpo	sukka	skarpeta, skarpetka, pończocha								
 spa:por:sol. fra:soleil. + hin:सौर (sOr). tel:(saur).			sol	:	sun	suno	aurinko	słońce				太阳				
 			solestas	:	solstice		päivänseisaus	przesilenie								
+			solocate	:	parasol	sunombrelo	aurinkovarjo		parasol	sombrinha	ombrelle (parasol)		зонтик от солнца			
 	dex	SB	solomon da nesia	:	Solomon Islands		Salomon-saaret	Wyspy Salomona								
 			solosistem	:	solar system	sunsistemo	aurinkokunta	układ słoneczny				太阳系				
 	dex	SO	somalia	:	Somalia		Somalia	Somalia								
@@ -2318,7 +2323,7 @@ eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.			tul	:	tool
 			tundar	:	tundra	tundro	tundra	tundra								
 			tunel	:	tunnel	tunelo	tunneli	tunel								
 			tunelotren	:	subway (metro)	metroo	metrojuna (maanalainen)	metro								
-			tung	:	hurt (pain)		kipu	ból								
+zho:疼 (téng),痛 (tòng). yue:痛 (tung3).			tung	:	hurt (pain)		kipu	ból								
 spa:túnica. eng:tunic. rus:туника (tunika).			tunike	:	tunic (gown)	robo	mekko (tunika)	tunika, toga								
 	dex	TN	tunisia	:	Tunisia		Tunisia	Tunezja			Tunisie					
 may:ind:tupai.			tupay	:	squirrel	sciuro	orava	wiewiórka								
@@ -2426,9 +2431,9 @@ hin:वीर (vīr). urd:(vīr). ben:বীর (bīr). tam:வீரன் (v
 			wiri	:	brave (bold, heroic)	heroa	urhea (sankarillinen)	bohaterski, heroiczny, odważny, brawurowy								
 eng:virus. rus:вирус (virus).			wirus	:	virus		virus	wirus			virus		вирус			
 pol:wirusologia. rus:вирусология (virusologiya).			wirusolojia	:	virology		virologia	wirusologia					вирусология			
-eng:fra:spa:por:vice-. rus:вице- (vitse-). deu:vize-.			wis	:	vice (deputy)	vic-	vara- (korvike-)	wice-								
-			wis prezidente	:	vice-president		varapresidentti	wiceprezydent								
-			wisa	:	substitute		korvata	zastąpić (podstawić, zamienić)								
+			wisa	:	substitute (replace)		korvata	zastąpić (podstawić, zamienić)								
+eng:fra:spa:por:vice-. rus:вице- (vitse-). deu:vize-.			wisi	:	vice (deputy)	vic-	vara- (korvike-)	wice-								
+			wisoprezidente	:	vice-president		varapresidentti	wiceprezydent								
 tur:vize. eng:visa. rus:виза (viza). hin:वीज़ा (vīzā).			wize	:	visa		viisumi	wiza								
 			wizita	:	visit	vizito	vierailla	odwiedzić, odwiedzać								
 eng:visit. fra:visite. spa:por:visita. rus:визит (vizit).			wizite	:	visitation (visit)	viziti	vierailu (visiitti)	wizyta								

@@ -1360,6 +1360,7 @@ Papua Nowa Gwinea : papua nowi ginia
 papuga : papagay  
 paragon, pokwitowanie : reside  
 Paragwaj : paraguayia  
+parasol : barxocate  
 park (ogród) : parke  
 parking : karoparke  
 partia : partia  
@@ -2212,8 +2213,8 @@ wiadukt, przejście powyżej : supre
 wiara, wierzenie, kredo : xin  
 wiatr : hawe  
 wiatrak (wentylator) : panke  
-wice- : wis  
-wiceprezydent : wis prezidente  
+wice- : wisi  
+wiceprezydent : wisoprezidente  
 widelec : forke  
 widok, wzrok : wide  
 wieczór : xam  

@@ -137,6 +137,9 @@ barometal : pezmetalo
 barti : Barata  
 bartia : Baratio  
 barude : pulvo  
+barxe : pluvo  
+barxi : pluva  
+barxocate : obrelo  
 barya : bari  
 baryer : barilo  
 bas : sufiĉa  
@@ -1264,6 +1267,7 @@ sofah : sofo
 sofia : saga  
 soke : ŝtrumpo  
 sol : suno  
+solocate : sunombrelo  
 solosistem : sunsistemo  
 son : dormo  
 sonde : sono  
@@ -1400,7 +1404,7 @@ win : venko
 wina : venki  
 wir : heroo  
 wiri : heroa  
-wis : vic-  
+wisi : vic-  
 wizita : vizito  
 wizite : viziti  
 wiziter : vizitanto  

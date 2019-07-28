@@ -117,6 +117,7 @@ féliciter : barka
 hourra : ura  
 hétérosexuel : alojinsokami  
 ##i  
+imperméable : barxokote  
 ##j  
 jaïnisme : jeinistia  
 juste : adali  
@@ -150,6 +151,7 @@ note : note
 ##o  
 océan : dayosamude  
 oeuf : ande  
+ombrelle (parasol) : solocate  
 opposant (antagoniste) : anter  
 orange (couleur) : aranjangi  
 orange (fruit) : aranje  
@@ -157,12 +159,15 @@ ordinateur : komputer
 origine : asle  
 originel : asli  
 ##p  
+parapluie : barxocate  
 pastèque : arbuze  
 pathologie : patolojia  
 perroquet : papagay  
 peu : xaw  
 piraterie : piratia  
 placard : almar  
+pluie : barxe  
+pluvieux : barxi  
 pomme : aple  
 porte : porte  
 possible (peut-être) : abli  

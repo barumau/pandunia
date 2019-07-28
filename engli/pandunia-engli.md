@@ -176,6 +176,10 @@ barometer : scales (weighing device)
 barti : Indian  
 bartia : India  
 barude : gunpowder  
+barxe : rain  
+barxi : rainy  
+barxocate : umbrella  
+barxokote : raincoat  
 barya : bar (obstruct)  
 baryer : barrier  
 bas : enough (sufficient)  
@@ -2153,6 +2157,7 @@ sofia : wisdom
 soke : sock (stocking)  
 sol : sun  
 solestas : solstice  
+solocate : parasol  
 solomon da nesia : Solomon Islands  
 solosistem : solar system  
 somalia : Somalia  
@@ -2448,9 +2453,9 @@ wir : hero
 wiri : brave (bold, heroic)  
 wirus : virus  
 wirusolojia : virology  
-wis prezidente : vice-president  
-wis : vice (deputy)  
-wisa : substitute  
+wisa : substitute (replace)  
+wisi : vice (deputy)  
+wisoprezidente : vice-president  
 wize : visa  
 wizita : visit  
 wizite : visitation (visit)  

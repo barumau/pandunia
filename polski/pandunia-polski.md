@@ -165,6 +165,7 @@ barometer : waga (urządzenie ważące)
 barti : Indyjski  
 bartia : Indie  
 barude : proch strzelniczy  
+barxocate : parasol  
 barya : blokować, hamować  
 baryer : bariera  
 bas : wystarczający  
@@ -2386,9 +2387,9 @@ wir : bohater, heros
 wiri : bohaterski, heroiczny, odważny, brawurowy  
 wirus : wirus  
 wirusolojia : wirusologia  
-wis prezidente : wiceprezydent  
-wis : wice-  
 wisa : zastąpić (podstawić, zamienić)  
+wisi : wice-  
+wisoprezidente : wiceprezydent  
 wize : wiza  
 wizita : odwiedzić, odwiedzać  
 wizite : wizyta  

@@ -129,6 +129,7 @@ aukaista (avata) : kaya
 auki (avoin) : kay  
 aurinko : sol  
 aurinkokunta : solosistem  
+aurinkovarjo : solocate  
 Australia : australia  
 auto (automobiili) : motokar  
 autonominen : autonomi  
@@ -1832,6 +1833,8 @@ röntgenium : rengenium
 saaja (vastaanottaja) : geter  
 saari : nes  
 saaristo : nesia  
+sade : barxe  
+sadetakki : barxokote  
 sahrami : safran  
 Saint Helena : santi helenia  
 Saint Lucia : santi lusia  
@@ -1870,6 +1873,7 @@ sarvikuono : faru
 sata (##) : hon  
 satakieli : bulbul  
 satama : suyoporte  
+sateenvarjo : barxocate  
 sattua (käydä kipeää) : paxu  
 sattuma (onni) : zar  
 sattumanvarainen : zari  
@@ -2340,8 +2344,8 @@ vanukas : puding
 vapaa : huri  
 vapaus : huria  
 vapauttaa : hura  
-vara- (korvike-) : wis  
-varapresidentti : wis prezidente  
+vara- (korvike-) : wisi  
+varapresidentti : wisoprezidente  
 varas : corer  
 varastaa : cora  
 varaus (ennakkovaraus) : buking  

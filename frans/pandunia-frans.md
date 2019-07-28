@@ -99,6 +99,10 @@ banyu : se baigner
 bari : lourd  
 barium : baryum  
 barka : féliciter  
+barxe : pluie  
+barxi : pluvieux  
+barxocate : parapluie  
+barxokote : imperméable  
 baskobol : basketball  
 bax : langue  
 baya : acheter  
@@ -182,6 +186,7 @@ safariste : touriste
 sal : sel  
 samoray  accord  
 samude : mer  
+solocate : ombrelle (parasol)  
 susan : lys  
 ##t  
 tarje : traduction  

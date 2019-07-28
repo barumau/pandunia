@@ -107,6 +107,7 @@ bari ← ben:ভারী (bharī). hin:भारा (bhārā). urd:(bhārā). t
 barka ← hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubarika.  
 barti ← hin:भारतीय (bhārtīy). urd:(bhārtīy). mar:(bhārtīya). tel:(bhāratīya).  
 barude ← ara:fas:urd:(bārūd). hin:बारूद (bārūd). pnb:ਬਾਰੂਦ (bārūd). swa:baruti. tur:barut. bul:барут (barut).  
+barxe ← hin:बारिश (bāriś),वर्षा (varṣā). urd:(bāriś). mar:वर्षा (varṣā). guj:વરસાદ (varsād). tel:వర్షము (varṣamu). fas:(bārān). jav:warsa.  
 baryer ← spa:barrera. eng:barrier. rus:барьер (baryer).  
 bas ← fas:urd:س (bas). ara:(bass). hin:(bas). swa:basi. spa:por:ita:basta.  
 bate ← mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). fas:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)  
@@ -216,6 +217,8 @@ deke ← hin:ढकना (dhaknā). deu:decken. eng:deck.
 deme ← eng:spa:demo-. fra:démo-. rus:демо- (demo-).  
 demokratia ← eng:democracy. rus:демократия "demokratiya". spa:democracia. fra: por: deu: ara:"dīmukratiya". swa:demokrasia.  
 den ← hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).  
+denga ← zho:等 (děng).  yue:等 (dang2).  
+des ← por:dez. spa:diez. fra:dix. rus:десять (desyat'). pol:dziesięć. hin:दस (das). urd:(das). ben:দশ (dôś). + eng:deci-. ind:desi-. jpn:デシ- (deshi). deu:dezi-.  
 destin ← eng:destination, destiny. fra:destin. spa:por:destino.  
 dew ← por:deus. ind:dewa. hin:देवता "devtā". kan:"dēva".  
 dex ← hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).  
@@ -857,6 +860,7 @@ tribe ← fra:spa:tribu. por:tgl:tribo. eng:tribe.
 tube ← spa:por:tubo. eng:fra:tube. jpn:チューブ "chūbu". zul:ithumbu.  
 tuha ← hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.  
 tul ← eng: tool. kor: 툴 "tul". jpn: ツール "tsūru". Zulu: ithuluzi.  
+tung ← zho:疼 (téng),痛 (tòng). yue:痛 (tung3).  
 tunike ← spa:túnica. eng:tunic. rus:туника (tunika).  
 tupay ← may:ind:tupai.  
 tuze ← zho:兔子 (tùzi). yue:兔仔 (tou3zai2).  
@@ -892,7 +896,7 @@ win ← eng:win. deu:gewinnen.
 wir ← hin:वीर (vīr). urd:(vīr). ben:বীর (bīr). tam:வீரன் (vīraṉ). tel:వీరుడు (vīruḍu). mal:ind:wira. tha:วีร (wi-ra). + fra:por:spa:viril. eng:virile.  
 wirus ← eng:virus. rus:вирус (virus).  
 wirusolojia ← pol:wirusologia. rus:вирусология (virusologiya).  
-wis ← eng:fra:spa:por:vice-. rus:вице- (vitse-). deu:vize-.  
+wisi ← eng:fra:spa:por:vice-. rus:вице- (vitse-). deu:vize-.  
 wize ← tur:vize. eng:visa. rus:виза (viza). hin:वीज़ा (vīzā).  
 wizite ← eng:visit. fra:visite. spa:por:visita. rus:визит (vizit).  
 wodun ← ewe:vodun. hat:vodou. bra:vodum. eng:voodoo. fra:vaudou. spa:vudú.  

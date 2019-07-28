@@ -52,6 +52,10 @@ banyokamar : ванная
 banyu : купаться  
 banze : доска   
 bari : тяжёлый  
+barxe : дождь  
+barxi : дождливый  
+barxocate : зонтик  
+barxokote : плащ (дождевик)   
 baskobol : баскетбол  
 bax : язык  
 baze : основа (база,  фундамент)  
@@ -137,6 +141,7 @@ samoray  согласие
 samude : море   
 samudi : морской   
 slawi : славянский  
+solocate : зонтик от солнца  
 susan : лилия  
 ##t  
 tarje : перевод  
