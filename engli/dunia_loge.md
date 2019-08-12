@@ -99,6 +99,21 @@ Pandunia's words come from some of the most widely spoken languages of the world
 - **Prevalence** : Wide-spread words are favored. The more people who know the word the better.
 - **Simplicity** : Word forms with easy pronunciation are favored.
 
+### Sources
+
+Words of Pandunia come from the following _language pools_. Each pool includes 500-900 million people!
+
+1. Latinate languages : The languages in this group are descendants of Latin of the Roman Empire. They are very similar to each other. The languages in this group include Spanish, Portuguese, French and Italian.
+2. Other Western languages : This groups includes the remaining Western languages. Most of them have been influenced greatly by Greek and Latin. The languages in this group include English, German, Russian, Polish and many others. English is the single most important language in this group.
+3. West Asian and North African languages : This group includes Arabic, Turkish, Persian and other languages of this region. The languages in this group have influenced each other and they have had a great impact on languages of the surrounding regions.
+4. Sub-Saharan African languages : This group includes most languages of Africa. More than two thousand languages are spoken in Africa, but there some major cross-border languages (Swahili, Hausa, Lingala) and other major languages (Amharic, Oromo, Igbo, Yoruba). Many languages in this group have been influenced by Arabic, English, French or Portuguese.
+5. Indo-Aryan languages : The languages in this group are descendants of Sanskrit. This group includes Hindi, Bangla, Urdu and many other languages of Northern India, Pakistan, Bangladesh and Nepal. Perso-Arabic and English have left their print on this group.
+6. South Asian languages : This incoherent group includes the languages of South India, Indo-China and Austronesia. They have been influenced by Sanskrit and Pâli and also Perso-Arabic and Chinese to a lesser extent.
+7. Mandarin Chinese : Mandarin Chinese has more native speakers than any other language and therefore it is considered a group on its own.
+8. Other East Asian languages : This group includes other Chinese languages, such as Cantonese, Shanghaiese and Taiwanese, and also neighbouring languages, Korean, Japanese and Vietnamese, which have been saturated by Chinese loan words.
+
+In practice many words are shared by two or more language pools. Pandunia favors international, intercontinental and global words. 
+
 ### Word selection method
 
 1. Collect translations for a given word in the above-mentioned languages.
@@ -115,7 +130,6 @@ Pandunia's words come from some of the most widely spoken languages of the world
    - Find out the stem of the word by stripping off all the prefixes and suffixes.
    - Use [the sounds, the spelling and the normal word structure](abc.md) of Pandunia.
    - Make sure that the new word doesn't conflict with an already existing Pandunia word.
-
 ### Example: Selecting the word for "language"
 
 First possible candidates are searched from widely spoken languages. The search reveals that there are several words that are international.
