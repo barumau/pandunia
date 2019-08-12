@@ -302,19 +302,23 @@ English words _who_ and _what_.
 
 > **ke?** - Who or what?  
 
-The adjectival interrogative pronoun is **ki** and it meanst the same
-as English _which_.
+The adjectival interrogative pronoun is **ki** and it means the same
+as English _which_ and _how_.
 
 **ki xey?** - What? (Which thing?)  
 **ki ren?** - Who? (Which person?)  
 **ki zaman?** - When? (What time?)  
-**ki yang?** - How? (What manner?)  
+**ki yang?** - How? (What manner?)
 
-Adjectives are questioned with **ki**.
+Also adjectives are questioned with **ki**.
 
+**ki pol?** - How many?  
+**ki long?** - How long?  
 **ki day?** - How big?  
-**ki lil?** - How small?  
-**ki day da maw te tena?** - How big cat do you have?
+**ki lil?** - How small?
+
+**ki day da maw te tena?**
+- How big cat do you have?
 
 --------------------------------------------------------------------------------
 
