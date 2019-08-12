@@ -6,10 +6,10 @@ Cultures of the world
 
 Hartmut Traunmuller divided the world into four major cultural spheres in his article [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf). The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts. The four major cultural spheres are:
 
-1. The European (Western) cultural sphere
-2. The Afro-Asian (Islamic) cultural sphere
-3. The South Asian (Indian) cultural sphere
-4. The East Asian (Chinese) cultural sphere
+1. The Western (i.e. European) cultural sphere
+2. The Islamic (i.e. Afro-Asian) cultural sphere
+3. The Indian (i.e. South Asian) cultural sphere
+4. The Chinese (i.e. East Asian) cultural sphere
 
 They are roughly outlined in the picture below.
 
@@ -36,6 +36,33 @@ These kinds of classifications are always questionable because they are over-gen
 
 It is generally agreed that language and culture are closely related. Language can be viewed as a verbal expression of culture. It is necessary to consider all cultures and all international vocabularies in the making of a global language.
 
+## Loan words in natural languages
+
+Natural languages can borrow words from one or more cultural spheres.
+
+The table below illustrates how much words some notable languages have borrowed from the different cultural spheres.
+
+| Language    | Western | Islamic | Indian  | Chinese |
+|:------------|:-------:|:-------:|:-------:|:-------:|
+| Arabic      |         |    ⚫    |         |         |
+| Bengali     |    ◔    |    ◔    |   ◕     |         |
+| English     |    ⚫    |         |         |         |
+| French      |    ⚫    |         |         |         |
+| Hindi-Urdu  |    ◔    |    ◔    |   ◕     |         |
+| Indonesian  |    ◔    |    ◔    |   ◔     |    ◔    |
+| Japanese    |    ◔    |         |         |    ◑    |
+| Korean      |    ◔    |         |         |    ◕    |
+| Mandarin    |         |         |         |    ⚫    |
+| Persian     |    ◔    |    ⚫    |         |         |
+| Portuguese  |    ◕    |    ◔    |         |         |
+| Russian     |    ◑    |         |         |         |
+| Swahili     |    ◔    |    ◑    |   ◔     |         |
+| Spanish     |    ◕    |    ◔    |         |         |
+| Tagalog     |    ◔    |         |   ◔     |    ◔    |
+| Thai        |         |         |   ◑     |    ◔    |
+| Turkish     |    ◔    |    ◔    |         |         |
+| Vietnamese  |    ◔    |         |         |    ◕    |
+
 
 Regional auxiliary languages
 ----------------------------
@@ -58,7 +85,10 @@ Some auxiliary languages have been created for other regions such as Afrihili fo
 Global auxiliary languages
 --------------------------
 
-Languages with global scope have also been created. This heterogeneous type of languages is called **worldlangs** in the auxiliary language circle. Some of the most notable worldlangs are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html). Pandunia is one of the more developed worldlangs.
+Languages with global scope have also been created. This heterogeneous type of languages is called **worldlangs** in the auxiliary language circle. Some of the most notable worldlangs are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
+
+Pandunia is one of the more developed worldlangs.
+It has already inspired other worldlangs like Novbasa and Globasa.
 
 
 How words are selected to Pandunia
