@@ -1,19 +1,37 @@
-fata_lekse_liste() {
-    cat pandunia-lekse.tsv | cut -f 4,5,$1 > temp/lekse.txt
+fata_liste() {
+    #pandunia unordi
+    cat pandunia-lekse.tsv | awk -F "\t" "{print \$4 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    #morta unordi linye
+    sed -i '1d' $2/pandunia-$2.md
+    # alfobeta
+    cat temp/abace.txt $2/pandunia-$2.md | LC_ALL=C sort -f > temp/temp.txt
+    sed 's/.00/##/g' temp/temp.txt > $2/pandunia-$2.md
+    #Add header
+    sed -i "1s/^/# pandunia-$2\n/" $2/pandunia-$2.md
+    #Delete empty translations
+    sed -i '/-...$/d' $2/pandunia-$2.md
+
+    #ali bax unordi
+    cat pandunia-lekse.tsv | awk -F "\t" "{print \$$1 \" - \" \$4 \"  \"}" > $2/$2-pandunia.md
+    #morta unordi linye
+    sed -i '1d' $2/$2-pandunia.md
+    # alfobeta
+    cat temp/abace.txt $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
+    sed 's/.00/##/g' temp/temp.txt > $2/$2-pandunia.md
+    #Add header
+    sed -i "1s/^/# $2-pandunia\n/" $2/$2-pandunia.md
+    #Delete empty translations
+    sed -i '/^.-/d' $2/$2-pandunia.md
+}
+
+fata_leksasli_liste()
+{
+    #Cut Pandunia, colon and translation from the dictionary sheet
+    cat pandunia-lekse.tsv | cut -f 1,4,5,$1 > temp/lekse.txt
     #Delete first line
     sed -i '1d' temp/lekse.txt
     #Delete empty translations
     sed -i '/\t$/d' temp/lekse.txt
-    #Add alphabet headers
-    cat temp/abace.txt temp/lekse.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> $2/pandunia-$2.md 
-    #Reverse order of languages
-    cat $2/pandunia-$2.md | sed '/^#/ d' > temp/temp2.txt
-    cat temp/temp2.txt temp/abace.txt > temp/temp.txt
-    awk ' { FS=" : "; OFS=" : "; t = $1; $1 = $2; $2 = t; print; } ' temp/temp.txt | sed 's/^ : //g' | LC_ALL=C sort -f | sed 's/.00/##/g' > $2/$2-pandunia.md
-    sed 's/_//g' -i $2/$2-pandunia.md
-    #Add two spaces to line-ends
-    sed 's/$/  /' -i $2/$2-pandunia.md
-    sed 's/$/  /' -i $2/pandunia-$2.md
 }
 
 fata_lekse_asle() {
@@ -29,11 +47,10 @@ fata_lekse_asle() {
     cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
 }
 
-
 dos2unix pandunia-lekse.tsv
 
 # engli i pandunia
-fata_lekse_liste 6 engli
+fata_liste 5 engli
 
 #Tiddly dictionary
 cp engli/pandunia-engli.md temp/temp.txt
@@ -41,22 +58,22 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti i pandunia
-fata_lekse_liste 7 esperanto
+fata_liste 6 esperanto
 
 # suomi i pandunia
-fata_lekse_liste 8 suomi
+fata_liste 7 suomi
 
 # polski i pandunia
-fata_lekse_liste 9 polski
+fata_liste 8 polski
 
 # cini i pandunia
-fata_lekse_liste 13 cini
+fata_liste 12 cini
 
 # rusi i pandunia
-fata_lekse_liste 14 rusi
+fata_liste 13 rusi
 
 # fransi i pandunia
-fata_lekse_liste 12 frans
+fata_liste 11 frans
 
-fata_lekse_asle
+#fata_lekse_asle
 

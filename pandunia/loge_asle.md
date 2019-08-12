@@ -49,6 +49,7 @@ aha ← rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.
 air ← eng:fra:spa:air. por:ar.  
 ais ← eng:ice. deu:Eis. ind:és.  
 aisokrem ← eng:ice cream. jpn:アイスクリーム (aisukurīmu). kor:아이스크림 (aiseukeurim). hin:आइसक्रीम (āisakrīm). urd:(āisakrīm). ben:আইসক্রীম (aisôkrīm). tha:ไอศกรีม (ai-sà-griim). ind:es krim. swa:aiskrimu. tam:ஐஸ் கிரீம் (ais kirīm). tel:(ais krīm).  
+ajabi ← ara:(ʿajīb). swa:ajabu. + fas:('ajib). urd:(ajīb). hin:अजीब (ajīb). tur:acayip.  
 aje ← eng:age. fra:âge. hin:आयु (āyu). ben:আয়ু (ayu). khm:អាយុ (aayu). tha:อายุ (aayu).  
 akse ← eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.  
 alge ← deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.  
@@ -137,6 +138,7 @@ bireria ← eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:б
 bis ← bug:bissu.  
 bixu ← zho:必须 (bìxū).  
 biyolojia ← tur:biyoloji. fra:biologie. eng:biology.  
+bizari ← eng:fra:bizarre. por:bizarro. deu:bizarr.  
 bizi ← eng:busy.  
 biznes ← eng:business. rus:бизнес (biznes).  
 blabla ← fra:blablater. eng:babble. spa:blablablá.  
@@ -495,6 +497,7 @@ krim ← eng:fra:por:crime. spa:crimen. tgl:krimen.
 kristojen ← ell:Χριστούγεννα (Christoúgenna).  
 krize ← eng:crisis. fra:por:crise. deu:Krise. rus:кризис "krizis". spa:crisis.  
 krote ← rus:крот (krot). cze:slk:krt.  
+krus ← eng:cross. por:spa:cruz. deu:Kreuz. fra:croix. jpn:クロス (kurosu). rus:крест (krest). kon:kuluzi. hin:क्रूश (krūś).  
 kuan ← zho:宽 (kuān). tha:กว้าง (kwang). vie:quảng.  
 kuang ← zho:矿 (kuàng). vie:khoáng. kor:광 (guang).  
 kube ← spa:por:cubo. deu:Kubus. eng:fra:cube. rus:куб (kub). ara:(kaʿba).  
@@ -580,7 +583,7 @@ mel ← por:mel. fra:spa:miel. ell:μέλι (méli).
 mem ← tur:mem. mon:мээм (meem).  
 mene ← ara:(maʿnā). fas:urd:(ma'ni). hin:मअनी (maani). swa:maana. haw:manao. eng:meaning. deu:Meinung.  
 menter ← scr:मन्त्रिन् (mantrin). hin:मंत्री (mantrī). tha:มนตรี (mon-tri). ind:menteri. eng:deu:fra:por:spa:mentor. jpn:メンター (mentā). kor:멘토 (mento). rus:ментор (mentor).  
-mes ← spa:mez. ben:মাস Mash  
+mes ← por:mês. spa:mez. rus:месяц (mesyats). ben:মাস (mas). swa:mwezi.  
 mesaje ← eng:fra:message. por:mensagem. spa:mensaje. tur:mesaj. rus:месседж (messedž). jpn:メッセージ (messēji). kor:메시지 (mesiji). ara:(misaj).  
 mester ← por:mestre. fra:maître. pol:mistrz. eng:master. rus:мастер (master). spa:maestro. deu:Meister.  
 mete ← eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.  
