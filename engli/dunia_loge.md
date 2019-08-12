@@ -86,7 +86,7 @@ Some auxiliary languages have been created for other regions such as Afrihili fo
 Languages with global scope have also been created. This heterogeneous type of languages is called **worldlangs** in the auxiliary language circle. Some of the most notable worldlangs are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
 
 Pandunia is one of the more developed worldlangs.
-It has already inspired other worldlangs like Novbasa and Globasa.
+Pandunia has even inspired the creation of other languages like Novbasa and Globasa.
 
 
 ## How words are selected to Pandunia
