@@ -1,6 +1,8 @@
 # pandunia-rusi
 ##a
 abace - алфавит  
+abentur - авантюра  
+abenturer - авантюрист   
 acente - ударение  
 adali - справедливый  
 adalia - справедливость  
@@ -11,6 +13,7 @@ airoporte - аэропорт
 aisokrem - мороженое  
 ajil - подвижный  
 akse - ось  
+ale - аппарат   
 alge - водоросли  
 ali - другой (второй)  
 alkol - алкоголь  
@@ -77,9 +80,12 @@ destin - судьба
 domi - дома́шний   
 dul u tin - пара  
 ##e
+esa - быть  
 ##f
 firuze - бирюза  
 fitolojia - ботаника   
+fotografe - фотокарточка  
+fotografia - фотография  
 ##g
 ##h
 habar - новости  
@@ -119,9 +125,11 @@ manihayistia - манихейство
 maste - мачта  
 moluske - моллюск  
 ##n
+ni - нет (не)   
 noce - ночь  
 note - запись (заметка)  
 ##o
+osme - осмос  
 ##p
 papagay - попугай  
 patojener - патоген  
@@ -131,6 +139,7 @@ pesodiske - монета
 pike - вершина  
 porte - порт  
 pote - болото  
+problemi - проблематичный   
 ##r
 rim - рифма  
 ruhe - душа (дух)  
@@ -141,6 +150,7 @@ sal - соль
 samoray - согласие  
 samude - море   
 samudi - морской   
+si - да  
 slawi - славянский  
 solocate - зонтик от солнца  
 susan - лилия  
@@ -152,7 +162,7 @@ tazi - свежий
 teknolojia - технология  
 telofon - телефон  
 telowide - телевизор  
-tem - тема  
+teme - тема  
 tena - иметь  
 tenu - принадлежать  
 tepe - лента  
@@ -175,6 +185,8 @@ wirus - вирус
 wirusolojia - вирусология  
 ##x
 xaw - мало  
+xey - вещь  
+xite - говно (дерьмо)   
 xofer - шофёр  
 ##y
 ya - из (от)  
@@ -184,16 +196,20 @@ yemenia - Йемен
 yesus - Иисус  
 yode - йод  
 yoge - йога  
+yuke - нефрит (жад)   
 yumor - юмор  
 ##z
 zaman - период (эпоха)   
 zambia - Замбия  
 zardux - Зороастр  
 zarduxiste - зороастризм  
+zebre - зебра  
 zeze - муха  
 zimbabia - Зимбабве  
+zime - зима  
+zimi - зимний  
 zinke - цинк  
 ziran - тмин  
-zon - пояс (зона)  
+zone - пояс (зона)  
 zuluh - зулус  
 zumrude - изумруд  

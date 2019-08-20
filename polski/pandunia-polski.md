@@ -309,7 +309,7 @@ ceka - sprawdzić, sprawdzać, skontrolować
 ceng - warstwa (poziom, piętro, kondygnacja)  
 centi - centy-, procent, na sto, setna część  
 cerium - cer  
-cernagoria - Czarnogóra  
+cernogoria - Czarnogóra  
 cesium - cez  
 ci - ten, te  
 cilia - Chile  
@@ -323,10 +323,10 @@ cirki - okrągły
 cis - ser  
 cita - cytować  
 coda - jebać, kopulować  
-coke - czekolada  
-cokobaton - baton czekoladowy  
-cor - kradzież  
+cokol - czekolada  
+cokolobaton - baton czekoladowy  
 cora - ukraść, kraść  
+core - kradzież  
 corer - złodziej  
 cula - pominąć, wyłączyć; poza, oprócz  
 cum - całus  
@@ -450,8 +450,8 @@ duman - dym
 duni - globalny  
 dunia - świat  
 duniobax - język świata, język ogólnoświatowy  
-dur - trwanie  
 dura - trwać, zająć czas; przez  
+dure - trwanie  
 duru - minąć, mijać (czas)  
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 duwa - pomodlić się, modlić się  
@@ -480,6 +480,7 @@ erbium - erb
 eria - przyrostek dla miejsca wykonywania  
 eris - Eris (planeta karłowata)  
 eritria - Erytrea  
+esa - być  
 esey - esej  
 eska - zapytać, spytać, pytać  
 eskal - schody (drabina)  
@@ -602,6 +603,7 @@ fos - dół, jama, wydobycie, wykop, wykopalisko
 fosa - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 fosfor - fosfor  
 fotograf - zdjęcie, fotografia  
+fotografal - kamera, aparat fotograficzny  
 fotografia - fotografia  
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
@@ -700,7 +702,7 @@ gubuh - hipopotam
 gude - koń  
 guhe - jaskinia  
 gujarati - Gudżarat  
-gun - cecha, atrybut, własność; -ość  
+gune - cecha, atrybut, własność; -ość  
 gur - guru, mistrz  
 gurube - świnia  
 gurubomanse - wieprzowina  
@@ -918,9 +920,9 @@ jowania - młodość
 judo - judo  
 jug - bambus  
 jul - dżul (J)  
-jung - środkowy, centralny  
 junga - centrować, skupić, skupiać  
 jungafrikia - Republika Środkowoafrykańska  
+junge - środkowy, centralny  
 jungogia - Chiny  
 jungu - być wycentrowanym, być w środku  
 jupe - spódnica  
@@ -953,7 +955,6 @@ kam - pożądanie, żadza
 kamar - pokój, sala  
 kamarotal - podłoga  
 kambudia - Kambodża  
-kamera - kamera, aparat fotograficzny  
 kamerunia - Kamerun  
 kamis - koszula  
 kamote - słodki ziemniak  
@@ -990,7 +991,7 @@ karoparke - parking
 karote - marchew  
 kartun - komiks; kreskówka  
 karwan - karawana  
-kas - wydarzenie, przypadek, sytuacja  
+kase - wydarzenie, przypadek, sytuacja  
 kastan - kasztan  
 kastor - bóbr  
 kata - ciąć  
@@ -998,7 +999,7 @@ katalunia - Katalonia
 katan - miecz  
 kataria - Katar  
 kaway - uroczy, słodki  
-kax - pudełko, skrzynia  
+kaxe - pudełko, skrzynia  
 kaxer - kasjer  
 kay - otwarty, niezamknięty  
 kaya - otworzyć, otwierać  
@@ -1021,10 +1022,10 @@ kex - włos
 kexobende - opaska do włosów  
 kexosabun - szampon  
 ki - który?  
-ki num - ile?  
+ki nume - ile?  
 ki ren - co?  
 ki xey - jak?  
-ki yang - kiedy?  
+ki yang? - kiedy?  
 ki zaman - zapytać, pytać  
 kil - tysiąc  
 kilogram - kilogram (kg)  
@@ -1603,8 +1604,8 @@ nowi zilandia - Nowa Zelandia
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
-num - numer  
-num un - pierwszy, numer jeden  
+nume - numer  
+nume un - pierwszy, numer jeden  
 nur - światło, oświetlenie  
 nuri - jasny, świetlny  
 nurobaton - pochochodnia (latarka)  
@@ -1861,7 +1862,7 @@ rajia - królestwo
 ramazan - Ramadan  
 rampe - rampa  
 randa - heblować  
-rander - hebel, strug  
+randal - hebel, strug  
 rape - prędkość (szybkość)  
 rapi - szybki, prędki  
 rapometer - prędkościomierz  
@@ -1954,7 +1955,6 @@ rutin - rutyna, nawyk, zwyczaj
 sa - przy, z, na, w, u  
 sa ce - tu (tutaj, tam)  
 sa ke - gdzie  
-sa loke du - zamiast  
 sa sabu - ponieważ, bo  
 saba - spowodować, powodować  
 sabate - szabat, szabas  
@@ -2054,7 +2054,7 @@ serwer - sługa
 serye - seria, szereg  
 sesam - sezam  
 sexel da nesia - Seszele  
-si - tak; być  
+si - tak  
 sibir - Syberia  
 sida - siedzieć  
 sifa - opisać (zakwalifikować)  
@@ -2200,16 +2200,16 @@ tekne - technika, technologia
 teknetium - technet  
 teknokratia - technokracja  
 teknolojia - technologia, nauka o technikach  
-tel - dystans  
+tele - dystans  
 teli - daleki, odległy  
 telofon - telefon  
 telowide - telewizja  
 telugi - telugu  
 telurium - tellur  
-tem - temat, motyw  
 tema - być o; dyskutować o  
-ten - treść (zawartość)  
+teme - temat, motyw  
 tena - mieć (trzymać)  
+tene - treść (zawartość)  
 tener - uchwyt (pojemnik)  
 tenesin - tenesyn, tennessine  
 tenis - tenis  
@@ -2284,7 +2284,7 @@ tunisia - Tunezja
 tupay - wiewiórka  
 turki - turecki  
 turkia - Turcja  
-turkmenia - Turkmenistan  
+turkomenia - Turkmenistan  
 tuwalia - Tuwalu  
 tuze - królik, zając  
 u - lub, albo  
@@ -2384,6 +2384,7 @@ wir - bohater, heros
 wiri - bohaterski, heroiczny, odważny, brawurowy  
 wirus - wirus  
 wirusolojia - wirusologia  
+wis - zamiast  
 wisa - zastąpić (podstawić, zamienić)  
 wisi - wice-  
 wisoprezidente - wiceprezydent  
@@ -2430,7 +2431,6 @@ xing - gwiazda
 xir - poemat  
 xirer - poeta  
 xirope - syrop  
-xite - zima  
 xix - ćsi  
 xixi - cichy  
 xofa - prowadzić pojazd  
@@ -2480,19 +2480,19 @@ zaitun - oliwka
 zalim - złośliwy, okrutny  
 zaman - czas (epoka, era)  
 zambia - Zambia  
-zar - niebezpieczeństwo, ryzyko, szansa  
 zardux - Zaratusztra  
 zarduxiste - zaratrustianin  
 zarduxistia - zaratusztrianizm  
+zare - niebezpieczeństwo, ryzyko, szansa  
 zari - losowy  
-zay - obecny, teraźniejszy, aktualny, bieżący, współczesny  
-zay den - dziś, dzisiaj  
 zaye - teraźniejszość, współczesność (teraz)  
+zayi - obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zayia - teraźniejszość, współczesność  
+zayoden - dziś, dzisiaj  
 zayu - istnieć (być obecnym)  
 ze - sam, siebie  
 zebre - zebra  
-zem - ziemia, grunt, gleba  
+zeme - ziemia, grunt, gleba  
 zemia - Ziemia  
 zemodow - orzech ziemny  
 zemolaskeria - wosko lądowe (armia)  
@@ -2500,6 +2500,7 @@ zeze - mucha
 zigzage - zygzag  
 zikur - ziggurat  
 zimbabia - Zimbabwe  
+zime - zima  
 zine - zdrada małżeńska, cudzołóstwo  
 zinke - cynk  
 zipa - zamknąć zamkiem błyskawicznym  
@@ -2508,7 +2509,7 @@ ziran - kumin, kmin
 zirkonium - cyrkon  
 ziza - skwierczeć  
 zombe - zombie, zombi  
-zon - pas, strefa  
+zone - pas, strefa  
 zukam - przeziębienie, katar  
 zuluh - zulu  
 zumrude - szmaragd  

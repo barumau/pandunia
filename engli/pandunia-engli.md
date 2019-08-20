@@ -1,12 +1,15 @@
 # pandunia-engli
 -a - suffix for verbs with SVO word order  
 -e - suffix for derived nouns  
+-es - -ness (-ity)  
 -i - suffix for adjectives  
 -ia - area of thinking or being  
 -u - suffix for verbs with OVS word order  
 a - but (whereas)  
 ##a
 abace - alphabet  
+abentur - adventure (venture)  
+abenturer - adventurer  
 abla - can (know, be able)  
 able - ability (skill)  
 abli - possible (possibly, maybe, perhaphs)  
@@ -44,6 +47,7 @@ ajabu - wonder (be amazed)
 aje - age  
 ajil - agile  
 akse - axis (axle)  
+ale - device (instrument, apparatus, appliance)  
 alge - alga  
 ali - other  
 alkol - alcohol  
@@ -332,7 +336,7 @@ ceka - check (to examine)
 ceng - layer (level, storey, floor, stratum)  
 centi - centi- (per cent)  
 cerium - cerium  
-cernagoria - Montenegro  
+cernogoria - Montenegro  
 cesium - caesium  
 ci - this (these)  
 cilia - Chile  
@@ -340,16 +344,16 @@ cimpanze - chimpanzee
 cincil - chinchilla  
 cini - Han Chinese  
 cipia - Albania  
-cirka - surround (be around)  
+cirka - surround (encircle)  
 cirke - circle (round)  
 cirki - round (circular)  
 cis - cheese  
 cita - quote (cite)  
 coda - fuck (copulate)  
-coke - chocolate  
-cokobaton - chocolate bar  
-cor - theft  
+cokol - chocolate  
+cokolobaton - chocolate bar  
 cora - steal  
+core - theft  
 corer - thief  
 cula - exclude (except, save)  
 cum - kiss  
@@ -482,8 +486,8 @@ duman - smoke
 duni - global  
 dunia - world  
 duniobax - world language  
-dur - duration  
 dura - last (take time, during)  
+dure - duration  
 duru - pass (of time)  
 dute - doubt (disbelief)  
 duwa - pray  
@@ -493,7 +497,7 @@ dux - shower
 egal - equal (fair)  
 eglis - church  
 eki - environmental (natural)  
-ekia - nature (environment)  
+ekia - environment (nature)  
 ekolojia - ecology (study of environment)  
 ekran - screen  
 ekuador - Ecuador  
@@ -636,6 +640,10 @@ fos - pit (excavation)
 fosa - dig (excavate)  
 fosfor - phosphorus  
 fotograf - photograph  
+fotografal - camera  
+fotografe - photograph  
+fotografer - photographer  
+fotografia - photography  
 fotografia - photography  
 fransi polinesia - French Polynesia  
 fransia - France  
@@ -712,8 +720,8 @@ gol - goal
 gom - rubber  
 goton - cotton  
 gowa - go  
-graf - picture (graph, image)  
-grafa - depict (describe, illustrate)  
+graf - drawing (graph)  
+grafa - draw  
 grafem - grapheme  
 grafer - illustrator (graphic artist)  
 grafi - graphic (pictorial)  
@@ -734,7 +742,7 @@ gubuh - hippopotamus
 gude - horse  
 guhe - cave  
 gujarati - Gujarati  
-gun - quality (excellence, virtue, merit)  
+gune - quality (excellence, virtue, merit)  
 guni - excellent  
 gunodarme - virtue (morals)  
 gunodarmi - virtuous  
@@ -820,7 +828,9 @@ historer - historian
 historia - history (study of history)  
 hobe - hobby  
 hoke - hockey  
+holi - whole (entire)  
 holmium - holmium  
+hologram - hologram  
 hon - hundred (##)  
 hondurasia - Honduras  
 hongong - Hong Kong, SAR China  
@@ -845,6 +855,7 @@ ibri - Hebrew
 ice - will (volition, desire)  
 idey - idea (concept, notion)  
 ideyi - conceptual  
+ideyograf - ideogram  
 idiote - idiot  
 idioti - stupid (idiotic)  
 idiotia - idiocy (stupidity)  
@@ -900,6 +911,7 @@ istia - ism (doctrine, ideology, religion, etc)
 italia - Italy  
 izi - easy  
 ##j
+ja - like (similarly)  
 jake - jacket  
 jala - burn (cause to burn)  
 jalu - burn (be burned)  
@@ -962,9 +974,10 @@ jowania - youth (young age)
 judo - judo  
 jug - bamboo  
 jul - joule (J)  
-jung - middle (center)  
+jung - among (in the middle)  
 junga - center (concentrate)  
 jungafrikia - Central African Republic  
+junge - middle (center)  
 jungogia - China  
 jungu - to be centered (amid, in the middle)  
 jupe - skirt  
@@ -997,8 +1010,8 @@ kam - desire (lust)
 kamar - room (chamber)  
 kamarotal - floor  
 kambudia - Cambodia  
-kamera - camera  
 kamerunia - Cameroon  
+kamili - perfect  
 kamis - shirt  
 kamote - sweet potato  
 kampe - camp  
@@ -1011,6 +1024,7 @@ kande - candy (sweets)
 kange - comb  
 kangur - cangaroo  
 kanjar - dagger  
+kanokex - eyelash  
 kanon - gun (cannon)  
 kanoner - cannoneer  
 kanosuy - tear drop  
@@ -1038,7 +1052,7 @@ karte - map (chart)
 kartografia - cartography  
 kartun - comic (cartoon)  
 karwan - caravan (convoy)  
-kas - event (case, instance)  
+kase - event (case, instance)  
 kastan - chestnut  
 kastor - beaver  
 kata - cut  
@@ -1047,7 +1061,7 @@ katan - sword
 kataria - Qatar  
 kaukasia - Caucasia  
 kaway - cute (sweet)  
-kax - cash box  
+kaxe - cash box  
 kaxer - cashier  
 kay - open (not closed)  
 kaya - open  
@@ -1070,10 +1084,11 @@ kex - hair
 kexobende - hairband (headband)  
 kexosabun - shampoo  
 ki - which?  
-ki num - how many?  
+ki nume - how many?  
 ki ren - who?  
 ki xey - what thing?  
-ki yang - how?  
+ki yang? - how?  
+ki yangi - what kind of?  
 ki zaman - when?  
 kil - thousand  
 kilogram - kilogram (kg)  
@@ -1200,6 +1215,8 @@ kuker - cook (chef)
 kukeria - kitchen  
 kul - cool  
 kultur - culture  
+kunan - hardship (difficulty)  
+kunani - difficult (hard, tough)  
 kupe - cup  
 kuper - copper  
 kuper - copper  
@@ -1283,6 +1300,7 @@ lobake - radish
 loga - talk (say, speak)  
 loge - speech (word)  
 logike - logic (deduction)  
+logiki - logical  
 logofiler - logophile (word buff)  
 loja - research (to study)  
 lojia - science (study, research)  
@@ -1349,6 +1367,7 @@ malike - jasmine
 malka - own  
 malke - property (belongings, possessions)  
 malker - owner (proprietor)  
+malofunce - malfunction  
 maltia - Malta  
 mamal - mammal  
 mame - mother (mom)  
@@ -1660,8 +1679,8 @@ nowi zilandia - New Zealand
 nudi - naked (bare)  
 nudiste - nudist  
 nudistia - nudism  
-num - number  
-num un - first (number one)  
+nume - number  
+nume un - first (number one)  
 nur - light (illumination)  
 nuri - light (bright)  
 nurobaton - torch  
@@ -1692,12 +1711,16 @@ oseania - Oceania
 oskur - dark (dim)  
 osman - Ottoman  
 osmania - Ottoman Empire  
+osme - osmosis  
 osmium - osmium  
 oste - bone  
 osteria - Austria  
 oton - autumn (fall)  
 ##p
 pa - to (toward, till, until, for)  
+pace - peace  
+paciste - pacifist  
+pacistia - pacifism  
 pada - drop (let fall)  
 padu - fall  
 pagre - turban  
@@ -1881,6 +1904,7 @@ prizoner - jailer (imprisoner)
 prizonia - prison  
 proba - try (attempt)  
 problem - problem  
+problemi - problematic  
 profesor - professor  
 program - program  
 programer - programmer (coder)  
@@ -1920,7 +1944,7 @@ rajia - kingdom
 ramazan - Ramadan  
 rampe - ramp (incline)  
 randa - smoothen with a plane  
-rander - plane (tool for making a smooth surface)  
+randal - plane (tool for making a smooth surface)  
 rape - speed (velocity)  
 rapi - fast (quick, rapid, speedy)  
 rapometer - speedometer  
@@ -2012,9 +2036,7 @@ rutin - routine (habit)
 ##s
 sa - with (by, at, in, on)  
 sa ce - here (there)  
-sa dur - meanwhile  
 sa ke - where  
-sa loke du - instead of  
 sa sabu - because  
 saba - cause (be the cause for)  
 sabate - Sabbath  
@@ -2117,7 +2139,7 @@ serwer - servant
 serye - series  
 sesam - sesame  
 sexel da nesia - Seychelles  
-si - yes (is)  
+si - yes  
 sibir - Siberia  
 sida - sit  
 sifa - qualify (describe)  
@@ -2267,16 +2289,16 @@ tekne - technique (technology)
 teknetium - technetium  
 teknokratia - technocracy  
 teknolojia - technology (study of techniques)  
-tel - distance  
+tele - distance  
 teli - far (distant)  
 telofon - telephone  
 telowide - television  
 telugi - Telugu  
 telurium - tellurium  
-tem - topic (subject, theme)  
 tema - be about (discuss as a subject)  
-ten - content (possession)  
+teme - topic (subject, theme)  
 tena - have (keep, possess)  
+tene - content (possession)  
 tener - keeper (possessor)  
 tenesin - tennessine  
 tenis - tennis  
@@ -2307,10 +2329,11 @@ ting - stop
 tinga - stop (halt)  
 tingu - stop (halt)  
 tinokon - triangle  
-tira - pull  
+tira - pull (draw, drag)  
 tira milke - milk (draw milk)  
 tiran - tyrant  
 tirania - tyranny  
+tirosanduke - drawer  
 titan - titanium  
 toca - touch  
 togoli - Togolese  
@@ -2353,7 +2376,7 @@ tunisia - Tunisia
 tupay - squirrel  
 turki - Turkish  
 turkia - Turkey  
-turkmenia - Turkmenistan  
+turkomenia - Turkmenistan  
 tuwalia - Tuvalu  
 tuze - rabbit (hare)  
 u - or  
@@ -2458,6 +2481,7 @@ wir - hero
 wiri - brave (bold, heroic)  
 wirus - virus  
 wirusolojia - virology  
+wis - instead of  
 wisa - substitute (replace)  
 wisi - vice (deputy)  
 wisoprezidente - vice-president  
@@ -2505,7 +2529,7 @@ xing - star
 xir - poem  
 xirer - poet  
 xirope - syrup  
-xite - winter  
+xite - shit (feces)  
 xix - hush (shh)  
 xixi - silent  
 xofa - drive  
@@ -2546,6 +2570,7 @@ yoge - yoga
 yohani feste - Saint John's Day  
 yone - vagina  
 yote - drop (droplet)  
+yuke - jade  
 yumor - humor  
 yumori - humorous (comical, funny)  
 yumoriste - humorist  
@@ -2556,19 +2581,19 @@ zaitun - olive
 zalim - mean (cruel)  
 zaman - time (epoch, era)  
 zambia - Zambia  
-zar - hazard (chance)  
 zardux - Zoroaster  
 zarduxiste - Zoroastrian  
 zarduxistia - Zoroastrianism  
+zare - hazard (chance)  
 zari - random  
-zay - present (current, existing)  
-zay den - today  
 zaye - present time (now)   
+zayi - present (current, existing)  
 zayia - presence (existence)  
+zayoden - today  
 zayu - exist (be present)  
 ze - self  
 zebre - zebra  
-zem - earth (ground)  
+zeme - earth (ground)  
 zemia - Earth (Terra)  
 zemodow - peanut (groundnut)  
 zemolaskeria - ground force (army)  
@@ -2576,6 +2601,8 @@ zeze - fly (housefly)
 zigzage - zigzag  
 zikur - ziggurat  
 zimbabia - Zimbabwe  
+zime - winter  
+zimi - wintry  
 zine - adultery (infidelity)  
 zinke - zinc  
 zipa - zip up  
@@ -2584,7 +2611,7 @@ ziran - cumin (jeera)
 zirkonium - zirconium  
 ziza - sizzle  
 zombe - zombie  
-zon - belt (zone)  
+zone - belt (zone)  
 zukam - cold (illness)  
 zuluh - Zulu  
 zumrude - emerald  

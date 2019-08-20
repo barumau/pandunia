@@ -114,7 +114,7 @@ bark (ramię) - kante
 barometr - airobarometer  
 basen - basen  
 bateria - batre  
-baton czekoladowy - cokobaton  
+baton czekoladowy - cokolobaton  
 bawełna - goton  
 bawić, zabawiać - fana  
 bawół domowy - kabaw  
@@ -185,6 +185,7 @@ but - sapate
 butelka - botol  
 Bułgaria - bolgaria  
 bułka gotowana na parze - mante  
+być - esa  
 być mistrzem (być ekspertem) - mesta  
 być o; dyskutować o - tema  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - beyu  
@@ -203,7 +204,7 @@ błoto - pote
 ##c
 całus - cum  
 cebula - piaze  
-cecha, atrybut, własność; -ość - gun  
+cecha, atrybut, własność; -ość - gune  
 cecha, właściwość, parametr - sife  
 cel - gol  
 cement - semente  
@@ -267,7 +268,7 @@ cytować - cita
 cytryna - limon  
 Czad - cadia  
 czajnik - ketel  
-Czarnogóra - cernagoria  
+Czarnogóra - cernogoria  
 czarny - kalangi  
 czas (epoka, era) - zaman  
 czas; okazja - ban  
@@ -275,7 +276,7 @@ czasownik - fatolekse
 czaszka - saroste  
 czcić, szanować - puja  
 czekać - denga  
-czekolada - coke  
+czekolada - cokol  
 czempion - campion  
 czerwiec - mes 3 (mes tin)  
 cześć, szacunek - puje  
@@ -367,7 +368,7 @@ dysk - diske
 dyskusja, debata, dyskurs - lon  
 dyskutoać, twierdzić - tesa  
 dysproz - disprosium  
-dystans - tel  
+dystans - tele  
 dzban, dzbanek; słój, słoik - jar  
 działanie (zachowanie, karma) - karme  
 działka (teren) - lote  
@@ -390,7 +391,7 @@ dziura - kong
 dziwny - bizari  
 dzięki, dzięki ci - danke  
 dziękować - danka  
-dziś, dzisiaj - zay den  
+dziś, dzisiaj - zayoden  
 dół, jama, wydobycie, wykop, wykopalisko - fos  
 dół, spód - tal  
 długi - long  
@@ -566,7 +567,7 @@ harmonia - harmonia
 harmoniczny - harmoni  
 has - hasium  
 hałas - keler  
-hebel, strug - rander  
+hebel, strug - randal  
 heblować - randa  
 hebrajski - ibri  
 hel - helium  
@@ -609,7 +610,7 @@ idea, pomysł - idey
 idiota - idiote  
 idiotyzm (głupota) - idiotia  
 igła, szpilka - pin  
-ile? - ki num  
+ile? - ki nume  
 ilustrator, grafik - grafer  
 imbir - inje  
 imię, nazwa - nam  
@@ -704,7 +705,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisaba  
 Kambodża - kambudia  
-kamera, aparat fotograficzny - kamera  
+kamera, aparat fotograficzny - fotografal  
 Kamerun - kamerunia  
 kamień - petre  
 Kanada - kanadia  
@@ -737,7 +738,7 @@ każdy, wszyscy - mey
 kebab - kababe  
 keczup - kecape  
 Kenia - kenia  
-kiedy? - ki yang  
+kiedy? - ki yang?  
 kierunek - dixe  
 kieszeń - jebe  
 kiełbasa - sosis  
@@ -830,7 +831,7 @@ koń - gude
 kościół - eglis  
 kość - oste  
 kość do gry - dade  
-kradzież - cor  
+kradzież - core  
 kraj, ziemia - dex  
 kran (zawór) - kran  
 kredens (szafa, szafka) - almar  
@@ -1184,7 +1185,7 @@ neptun - neptunium
 nic, żadna rzecz - nol xey  
 nie - ni  
 nie ruszać się - estasa  
-niebezpieczeństwo, ryzyko, szansa - zar  
+niebezpieczeństwo, ryzyko, szansa - zare  
 niebezpieczny - hatri  
 niebieski - nili  
 niebieski, niebiański, podniebny - samani  
@@ -1229,14 +1230,14 @@ nowy - nowi
 nożyce, nożyczki - makas  
 nudysta - nudiste  
 nudyzm - nudistia  
-numer - num  
+numer - nume  
 nylon - nilon  
 nóż - cake  
 o! - o  
 ##o
 oaza - wase  
 obcęgi, kleszcze, szczypce - pinser  
-obecny, teraźniejszy, aktualny, bieżący, współczesny - zay  
+obecny, teraźniejszy, aktualny, bieżący, współczesny - zayi  
 obiad, lunch - denoniam  
 obiecać, angażować się - wada  
 obozowicz - kampe  
@@ -1365,7 +1366,7 @@ parking - karoparke
 partia - partia  
 Partia Piratów - piratisti partia  
 parę - dul u tin  
-pas, strefa - zon  
+pas, strefa - zone  
 paskal (Pa) - paskal  
 pasować - maca  
 pasta - paste  
@@ -1404,7 +1405,7 @@ pieniądze - pese
 pieprz - pimente  
 pierdnięcie - perde  
 pierdzieć - perda  
-pierwszy, numer jeden - num un  
+pierwszy, numer jeden - nume un  
 pierwszy, początkowy - muli  
 pierś - sine  
 pierś, biust, cycek - mem  
@@ -1659,7 +1660,7 @@ pręt, kij - baton
 psychologia - ruholojia  
 ptak - pakse  
 puder - mukofun  
-pudełko, skrzynia - kax  
+pudełko, skrzynia - kaxe  
 puding - puding  
 pudło, skrzynia - sanduke  
 Puerto Rico - portorikia  
@@ -2014,7 +2015,7 @@ Tajlandia - tayia
 Tajpej - taibey  
 tajski - tayi  
 Tajwan, Republika Chińska - taiwania  
-tak; być - si  
+tak - si  
 taki sam - sam  
 taktyka, strategia - tatike  
 tal - talium  
@@ -2042,7 +2043,7 @@ telefon - telofon
 telewizja - telowide  
 tellur - telurium  
 telugu - telugi  
-temat, motyw - tem  
+temat, motyw - teme  
 temperatura - terme  
 ten konkretny - ce  
 ten, te - ci  
@@ -2074,10 +2075,10 @@ tor - torium
 torba, wór, worek, torba, sakwa - sake  
 tost - rosti pang  
 trawa - gras  
-treść (zawartość) - ten  
+treść (zawartość) - tene  
 trochę; nieokreślony, nieograniczony, nieokreślony - fulani  
 trucizna (toksyna) - tokse  
-trwanie - dur  
+trwanie - dure  
 trwać, zająć czas; przez - dura  
 Trynidad i Tobago - trinidade i tobage  
 trzy (3) - tin  
@@ -2095,7 +2096,7 @@ turban - pagre
 Turcja - turkia  
 turecki - turki  
 Turek osmański - osman  
-Turkmenistan - turkmenia  
+Turkmenistan - turkomenia  
 turkus - firuze  
 turysta - safariste  
 turystyka - safaristia  
@@ -2290,7 +2291,7 @@ wybrać, wybierać, selekcjonować - cuza
 wybór, elekcja, selekcja - cuze  
 wycie, skowyt - ulul  
 wyczyścić, czyścić - safa  
-wydarzenie, przypadek, sytuacja - kas  
+wydarzenie, przypadek, sytuacja - kase  
 wydoić, doić - tira milke  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurbe  
 wygląd - rupe  
@@ -2366,7 +2367,7 @@ zakrzywiony - kurbi
 Zambia - zambia  
 zamek błyskawiczny - ziper  
 zamek, forteca, twierdza - burge  
-zamiast - sa loke du  
+zamiast - wis  
 zamiłowanie (-filia) - filia  
 zamknąć zamkiem błyskawicznym - zipa  
 zapakować, pakować - paka  
@@ -2414,10 +2415,10 @@ zewnętrzny - way
 ziarno, nasienie - dan  
 zielony - sabzangi  
 Ziemia - zemia  
-ziemia, grunt, gleba - zem  
+ziemia, grunt, gleba - zeme  
 ziemniak - patate  
 ziggurat - zikur  
-zima - xite  
+zima - zime  
 Zimbabwe - zimbabia  
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
@@ -2484,7 +2485,7 @@ zły, zrujnowany, zepsuty - harabi
 śpiewać - canta  
 średni - medi  
 środa - war 3 (war tin)  
-środkowy, centralny - jung  
+środkowy, centralny - junge  
 środowiskowy, naturalny - eki  
 śruba, wkręt - lose  
 świadomy; oświecony - budi  

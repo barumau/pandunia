@@ -61,6 +61,8 @@ aspirine - aspirin
 asthme - asme  
 autel - altar  
 autre - ali  
+aventure - abentur  
+aventurier - abenturer  
 avoir - tena  
 axe - akse  
 aéroport - airoporte  
@@ -89,6 +91,7 @@ capacité (compétence) - able
 carte - karte  
 cartographie - kartografia  
 chapitre - babe  
+chose - xey  
 cime (pic, sommet) - pike  
 citron - limon  
 comprendre (réaliser) - aha  
@@ -115,11 +118,14 @@ frais - tazi
 féliciter - barka  
 ##g
 ##h
+hiver - zime  
+hivernal (hibernal) - zimi  
 hourra - ura  
 hétérosexuel - alojinsokami  
 ##i
 imperméable - barxokote  
 ##j
+jade - yuke  
 jaïnisme - jeinistia  
 juste - adali  
 justice - adalia  
@@ -143,11 +149,13 @@ mais (bien que) - a
 manichéisme - manihayistia  
 mariage - maria  
 mer - samude  
+merde - xite  
 monnaie (pièce) - pesodiske  
 mouche - zeze  
 mât - maste  
 ##n
 noit - noce  
+non (ne...pas) - ni  
 note - note  
 ##o
 océan - dayosamude  
@@ -159,12 +167,17 @@ orange (fruit) - aranje
 ordinateur - komputer  
 origine - asle  
 originel - asli  
+oui - si  
 ##p
+pacifiste - paciste  
+paix - pace  
 parapluie - barxocate  
 pastèque - arbuze  
 pathologie - patolojia  
 perroquet - papagay  
 peu - xaw  
+photo (photographie) - fotografe  
+photographie - fotografia  
 piraterie - piratia  
 placard - almar  
 pluie - barxe  
@@ -174,6 +187,7 @@ porte - porte
 possible (peut-être) - abli  
 possédant (propriétaire) - malker  
 pouvoir (être capable) - abla  
+problématique - problemi  
 propriété (possession, bien) - malke  
 psychologie - ruholojia  
 psyché - ruhe  
@@ -190,7 +204,7 @@ suffixe pour dériver les noms - -e
 suffixe pour l'adjectif - -i  
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
-sujet (thème) - tem  
+sujet (thème) - teme  
 ##t
 tarte - pay  
 technique - tekne  
@@ -224,11 +238,14 @@ Zoroastre - zardux
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
 zoulou - zuluh  
+zèbre - zebre  
 écrire - kitaba  
 écriture - kitabe  
+électricité - eletre  
 émeraude - zumrude  
 épreuve (test) - teste  
 équipe - tim  
 étoile - xing  
 évangile - anjil  
 éveillé - weki  
+être - esa  

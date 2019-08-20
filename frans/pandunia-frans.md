@@ -6,6 +6,8 @@
 a - mais (bien que)  
 ##a
 abace - alphabet  
+abentur - aventure  
+abenturer - aventurier  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
 abli - possible (peut-être)  
@@ -123,11 +125,15 @@ destin - destin (destination)
 domi - domestique  
 domu - vivre (habiter)  
 ##e
+eletre - électricité  
 em - unité fondamentale  
+esa - être  
 europe - Europe  
 europi - européen  
 ##f
 fitolojia - botanique  
+fotografe - photo (photographie)  
+fotografia - photographie  
 ##g
 ##h
 haime - tente  
@@ -165,10 +171,13 @@ maria - mariage
 maste - mât  
 maye - fourmi  
 ##n
+ni - non (ne...pas)  
 noce - noit  
 note - note  
 ##o
 ##p
+pace - paix  
+paciste - pacifiste  
 papagay - perroquet  
 patojener - agent pathogène   
 patolojia - pathologie  
@@ -178,6 +187,7 @@ pike - cime (pic, sommet)
 piratia - piraterie  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
+problemi - problématique  
 ##r
 rim - rime  
 ruhe - psyché  
@@ -187,6 +197,7 @@ safariste - touriste
 sal - sel  
 samoray - accord  
 samude - mer  
+si - oui  
 solocate - ombrelle (parasol)  
 susan - lys  
 ##t
@@ -196,7 +207,7 @@ tekne - technique
 teknolojia - technologie  
 telofon - téléphone  
 telowide - téléviseur  
-tem - sujet (thème)  
+teme - sujet (thème)  
 tena - avoir  
 tenu - appartenir à  
 tepe - ruban (bande)  
@@ -221,14 +232,20 @@ wirus - virus
 wolfe - loup  
 ##x
 xaw - peu  
+xey - chose  
 xing - étoile  
+xite - merde  
 ##y
 yesus - Jésus  
+yuke - jade  
 ##z
 zardux - Zoroastre  
 zarduxiste - zoroastrien  
 zarduxistia - zoroastrisme  
+zebre - zèbre  
 zeze - mouche  
+zime - hiver  
+zimi - hivernal (hibernal)  
 zombe - zombi  
 zuluh - zoulou  
 zumrude - émeraude  

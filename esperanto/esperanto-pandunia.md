@@ -1,5 +1,6 @@
 # esperanto-pandunia
 -a (-e) - -i  
+-eco - -es  
 -i (-igi) - -a  
 -i (-iĝi) - -u  
 -o (-aĵo) - -e  
@@ -61,7 +62,7 @@ animo (psiko) - ruhe
 ankaŭ - plus  
 ankoraŭ - hay  
 ankro - anker  
-anstataŭ - sa loke du  
+anstataŭ - wis  
 antaŭiri - preda  
 anteno - anten  
 anusa - anusi  
@@ -90,6 +91,8 @@ atako (agreso) - agres
 ateisto - nolodewiste  
 atendi - denga  
 atomo - atom  
+aventuristo - abenturer  
+aventuro - abentur  
 avokado - awakate  
 azeno - gade  
 azia - asi  
@@ -155,7 +158,7 @@ betono - beton
 bezoni - nida  
 Biblio - biblia  
 biero - bir  
-bildo - graf  
+bildo (desegnaĵo) - graf  
 biologio - biyolojia  
 birdo - pakse  
 Birmo - mianmia  
@@ -204,7 +207,7 @@ buŝo - boke
 celo (golo) - gol  
 cent - hon  
 centono - centi  
-centro - jung  
+centro - junge  
 cerbo - serebre  
 Cereso - seres  
 cerio - cerium  
@@ -225,8 +228,8 @@ danĝero - hatre
 dato - nenomesoden  
 datumbanko - datobanke  
 datumo - date  
-daŭri - dura  
-daŭro - dur  
+daŭri (dum) - dura  
+daŭro - dure  
 de (el, pro) - ya  
 de (partiklo de posedo) - du  
 defendanto (defendisto) - defer  
@@ -245,6 +248,7 @@ denove (ripete) - repi
 dentbroso - dantobrox  
 dentisto - dantomediker  
 dento - dante  
+desegni - grafa  
 desegno - desen  
 detalo - detal  
 devi - bixu  
@@ -277,7 +281,7 @@ dubo - dute
 duŝo - dux  
 ##e
 ebla (eble) - abli  
-eco - gun  
+eco - gune  
 edzigi - mara  
 egala - egal  
 egipta - misri  
@@ -398,8 +402,11 @@ fosforo - fosfor
 fosforo - pospor  
 fosi - fosa  
 foso - fos  
-fotilo - kamera  
+fotilo - fotografal  
+fotisto - fotografer  
+foto (fotografaĵo) - fotografe  
 foto - fotograf  
+fotografio - fotografia  
 Francio - fransia  
 franciumo - fransium  
 frato aŭ fratino - saudar  
@@ -442,7 +449,7 @@ glavo - katan
 gluo - glute  
 gluteno - gluten  
 gluti - glota  
-grafika - grafi  
+grafika (bilda) - grafi  
 gramo - gram  
 granda - day  
 grasa - feti  
@@ -479,7 +486,7 @@ haveno - porte
 haveno - suyoporte  
 havi (teni) - tena  
 hazarda - zari  
-hazardo - zar  
+hazardo - zare  
 haŭto - pil  
 Hebrea - ibri  
 hejma - domi  
@@ -501,7 +508,7 @@ historio - histor
 hm - hem  
 ho! - o  
 hobio - hobe  
-hodiaŭ - zay den  
+hodiaŭ - zayoden  
 hokeo - hoke  
 holmio - holmium  
 homaro - insania  
@@ -521,6 +528,7 @@ ideo - idey
 ido (infano) - bace  
 igi - isa  
 ili - lole  
+ilo (aparato) - ale  
 ilo - tul  
 indio - indium  
 Indonezio - indonesia  
@@ -555,6 +563,7 @@ iu - koy
 iu ajn - eni  
 iu persono - koy ren  
 ##j
+jado - yuke  
 jako - jake  
 jam (esti farita) - lew  
 Jamajko - jamaikia  
@@ -562,7 +571,7 @@ Japanio - niponia
 jaro - nen  
 jasmeno - malike  
 Jemeno - yemenia  
-jes (esti) - si  
+jes - si  
 Jesuo - yesus  
 jodo - iode  
 jogo - yoge  
@@ -616,15 +625,17 @@ kaverno - guhe
 kaŝtano - kastan  
 kaŭĉuko - gom  
 keĉupo - kecape  
+kial? - ki yangi  
 kialo - sabe  
 kiam? - ki zaman  
 kie - sa ke  
 kiel (ol) - ka  
-kiel? - ki yang  
+kiel - ja  
+kiel? - ki yang?  
 kilometro - kilometre  
 kio? - ke  
 kio? - ki xey  
-kiom? - ki num  
+kiom? - ki nume  
 kiso - cum  
 kiu (rilativa pronomo) - je  
 kiu? - ki ren  
@@ -758,6 +769,7 @@ listo - liste
 litero - harfe  
 litio - litium  
 lito - bede  
+logika - logiki  
 logiko - logike  
 loka - loki  
 lokigi - loka  
@@ -781,6 +793,7 @@ majao - mayan
 malamo - hen  
 malbona - mal  
 malbonaspekta - mal rupi  
+malfacila - kunani  
 malfari - ula  
 malferma - kay  
 malfermi - kaya  
@@ -798,7 +811,7 @@ malplej - minim
 malplena - hali  
 malpli - min  
 malproksima - teli  
-malproksimeco - tel  
+malproksimeco - tele  
 malsana - pati  
 malsukceso - xibay  
 maltro - min ka bas  
@@ -833,6 +846,7 @@ melodio - melodia
 melongeno - bedinjan  
 membro - member  
 memmova - automoti  
+merdo - xite  
 merkato (bazaro) - bazar  
 Merkuro - budan  
 mesaĝo - mesaje  
@@ -928,7 +942,7 @@ Niĝero - nijeria
 nobelio - nobelium  
 nodo - node  
 nokto - noce  
-nombro - num  
+nombro - nume  
 nomo - nam  
 norvega - norgi  
 Norvegio - norgia  
@@ -965,9 +979,13 @@ origina - asli
 origino - asle  
 oro - gim  
 osmio - osmium  
+osmozo - osme  
 osto - oste  
 ovo - ande  
 ##p
+pacifismo - pacistia  
+pacifisto - paciste  
+paco - pace  
 pajaco - bufon  
 pakaĵo - bagaje  
 pako - pake  
@@ -1071,7 +1089,6 @@ preĝi - duwa
 preĝo - duwe  
 printempo - cune  
 pripensi - hema  
-priskribi - grafa  
 problemo - problem  
 produkti (fabriki) - sana  
 profesoro - profesor  
@@ -1176,6 +1193,7 @@ sango - sang
 sanigi (kuraci) - medika  
 sankta - santi  
 sapo - sabun  
+saĝa - sofi  
 saŭco - sos  
 saŭno - saune  
 scienco - lojia  
@@ -1219,6 +1237,7 @@ skatolo (kesto) - sanduke
 skribo - kitabe  
 skulti - eskulta  
 skultisto - eskulter  
+smeraldo - zumrude  
 sofo - sofah  
 soldato - lasker  
 somero - lete  
@@ -1282,7 +1301,7 @@ tekto - cate
 telefono - telofon  
 televidilo - telowide  
 teluro - telurium  
-temo - tem  
+temo - teme  
 tendo - haime  
 teneso - tenesin  
 teniso - tenis  
@@ -1292,6 +1311,7 @@ teologio - dewolojia
 teorio - teoria  
 tera - duni  
 terbio - terbium  
+termometro - termometer  
 terorismo - teroristia  
 teroristo - teroriste  
 teroro - teror  
@@ -1336,6 +1356,7 @@ tunelo - tunel
 Turkio - turkia  
 turkiso - firuze  
 turo - minar  
+tuso - kos  
 tuttera - panoduni  
 tuŝi - toca  
 ##u
@@ -1385,7 +1406,8 @@ vilaĝo - ruste
 vinagro - sirke  
 vinbero - putaw  
 vino - wain  
-vintro - xite  
+vintra - zimi  
+vintro - zime  
 virino - maturi fem  
 viro - man  
 viro - maturi man  
@@ -1416,7 +1438,7 @@ Zambio - zambia
 zebro - zebre  
 zinko - zinke  
 zirkonio - zirkonium  
-zono - zon  
+zono - zone  
 zoo (bestoĝardeno) - hewanoparke  
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
@@ -1428,10 +1450,10 @@ zuluo - zuluh
 ĉampiono - campion  
 ĉapelo - tope  
 ĉapitro - babe  
-ĉar (pro ke) - sa sabu  
+ĉar - sa sabu  
 ĉarma - kaway  
 ĉarniro (pivoto) - xarnir  
-ĉeestanta (nuna, ekzistanta) - zay  
+ĉeestanta (nuna, ekzistanta) - zayi  
 ĉeestanteco (ekzisto) - zayia  
 ĉefministro - xefi minister  
 ĉelo - sel  
@@ -1443,11 +1465,11 @@ zuluo - zuluh
 ĉielo - saman  
 ĉimpanzo - cimpanze  
 ĉinĉilo - cincil  
-ĉirkaŭ - cirka  
+ĉirkaŭi - cirka  
 ĉiu - pan  
 ĉiu(j) - mey  
-ĉokolado - coke  
-ĉokolado - cokobaton  
+ĉokolado - cokol  
+ĉokolado - cokolobaton  
 ĉu? - he  
 Ĝajnismo - jeinistia  
 ĝelo - jel  
@@ -1471,7 +1493,7 @@ zuluo - zuluh
 ŝranko - almar  
 ŝteli - cora  
 ŝtelisto - corer  
-ŝtelo - cor  
+ŝtelo - core  
 ŝtono - petre  
 ŝtormo - tafun  
 ŝtrumpo - soke  

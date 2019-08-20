@@ -1,12 +1,15 @@
 # pandunia-esperanto
 -a - -i (-igi)  
 -e - -o (-aĵo)  
+-es - -eco  
 -i - -a (-e)  
 -ia - ejo (ujo, io)  
 -u - -i (-iĝi)  
 a - sed  
 ##a
 abace - alfabeto  
+abentur - aventuro  
+abenturer - aventuristo  
 abla - povi  
 able - povo  
 abli - ebla (eble)  
@@ -33,6 +36,7 @@ aisokrem - glaciaĵo
 aje - aĝo  
 ajil - lerta  
 akse - akso  
+ale - ilo (aparato)  
 alge - algo  
 ali - alia  
 alkol - alkoholo  
@@ -257,14 +261,14 @@ cilia - Ĉilio
 cimpanze - ĉimpanzo  
 cincil - ĉinĉilo  
 cini - hana  
-cirka - ĉirkaŭ  
+cirka - ĉirkaŭi  
 cis - fromaĝo  
 cita - citi  
 coda - fiki  
-coke - ĉokolado  
-cokobaton - ĉokolado  
-cor - ŝtelo  
+cokol - ĉokolado  
+cokolobaton - ĉokolado  
 cora - ŝteli  
+core - ŝtelo  
 corer - ŝtelisto  
 cula - krom (escepti)  
 cum - kiso  
@@ -362,8 +366,8 @@ duman - fumo
 duni - tera  
 dunia - mondo  
 duniobax - mondlingvo  
-dur - daŭro  
-dura - daŭri  
+dura - daŭri (dum)  
+dure - daŭro  
 dute - dubo  
 duwa - preĝi  
 duwe - preĝo  
@@ -483,6 +487,10 @@ fos - foso
 fosa - fosi  
 fosfor - fosforo  
 fotograf - foto  
+fotografal - fotilo  
+fotografe - foto (fotografaĵo)  
+fotografer - fotisto  
+fotografia - fotografio  
 fransia - Francio  
 fransium - franciumo  
 fuka - vesti  
@@ -542,9 +550,9 @@ gol - celo (golo)
 gom - kaŭĉuko  
 goton - kotono  
 gowa - iri  
-graf - bildo  
-grafa - priskribi  
-grafi - grafika  
+graf - bildo (desegnaĵo)  
+grafa - desegni  
+grafi - grafika (bilda)  
 gram - gramo  
 gras - herbo  
 grimas - grimaco  
@@ -555,7 +563,7 @@ guatemalia - Gvatemalo
 gubuh - hipopotamo  
 gude - ĉevalo  
 guhe - kaverno  
-gun - eco  
+gune - eco  
 gur - guruo (instruisto)  
 gurube - porko  
 gurubomanse - porkaĵo  
@@ -667,6 +675,7 @@ istia - ismo
 italia - Italio  
 izi - facila  
 ##j
+ja - kiel  
 jake - jako  
 jama - kolekti (kunigi)  
 jamaikia - Jamajko  
@@ -703,7 +712,7 @@ jowane - junulo
 jowania - juneco  
 judo - ĵudo  
 jug - bambuo  
-jung - centro  
+junge - centro  
 jungogia - Ĉinio  
 jupe - jupo  
 jus - suko  
@@ -725,7 +734,6 @@ kalsium - kalcio
 kam - deziro  
 kamar - ĉambro  
 kambudia - Kamboĝo  
-kamera - fotilo  
 kamis - ĉemizo  
 kamote - batato  
 kan - okulo  
@@ -767,10 +775,11 @@ kel - sporto
 kenar - rando (orlo)  
 kex - haro  
 kexosabun - ŝampuo  
-ki num - kiom?  
+ki nume - kiom?  
 ki ren - kiu?  
 ki xey - kio?  
-ki yang - kiel?  
+ki yang? - kiel?  
+ki yangi - kial?  
 ki zaman - kiam?  
 kil - mil  
 kilometre - kilometro  
@@ -809,6 +818,7 @@ korne - korno
 koron - krono  
 korta - mallongigi  
 korti - mallonga  
+kos - tuso  
 kote - palto  
 koy - iu  
 koy ren - iu persono  
@@ -829,6 +839,7 @@ kube - kubo
 kuga - plori  
 kul - bonega (mojosa)  
 kultur - kulturo  
+kunani - malfacila  
 kupe - taso  
 kuper - kupro  
 kurbe - kurbo  
@@ -869,6 +880,7 @@ lobake - rafaneto
 loga - paroli  
 loge - parolo (vortoj)  
 logike - logiko  
+logiki - logika  
 lojia - scienco  
 loka - lokigi  
 loke - loko  
@@ -1038,7 +1050,7 @@ nota - rimarki
 note - noto (rimarko, komento)  
 notobuke - kajero  
 nowi - nova  
-num - nombro  
+nume - nombro  
 nur - lumo  
 nuri - luma  
 nurobaton - torĉo  
@@ -1053,11 +1065,15 @@ onor - honoro (respekto)
 onori - respektinda  
 or - orelo  
 oseania - Oceanio  
+osme - osmozo  
 osmium - osmio  
 oste - osto  
 oton - aŭtuno  
 ##p
 pa - al (ĝis, por)  
+pace - paco  
+paciste - pacifisto  
+pacistia - pacifismo  
 pake - pako  
 pakse - birdo  
 pal - frukto (rezulto)  
@@ -1190,8 +1206,7 @@ rutin - rutino (kutimo)
 ##s
 sa ce - tie  
 sa ke - kie  
-sa loke du - anstataŭ  
-sa sabu - ĉar (pro ke)  
+sa sabu - ĉar  
 sabe - kialo  
 sabun - sapo  
 sabzangi - verda  
@@ -1249,7 +1264,7 @@ serebre - cerbo
 seres - Cereso  
 serpe - serpento  
 serye - serio  
-si - jes (esti)  
+si - jes  
 sida - sidi  
 sifolekse - adjektivo  
 silike - silicio  
@@ -1265,6 +1280,7 @@ sistem - sistemo
 site - urbo  
 skandium - skandio  
 sofah - sofo  
+sofi - saĝa  
 sofia - saga  
 soke - ŝtrumpo  
 sol - suno  
@@ -1317,13 +1333,13 @@ te - vi (ci)
 tekne - tekniko  
 teknetium - teknecio  
 teknolojia - teknologio  
-tel - malproksimeco  
+tele - malproksimeco  
 teli - malproksima  
 telofon - telefono  
 telowide - televidilo  
 telurium - teluro  
-tem - temo  
 tema - esti pri; pridiskuti  
+teme - temo  
 tena - havi (teni)  
 tenesin - teneso  
 tenis - teniso  
@@ -1332,6 +1348,7 @@ tenu - aparteni
 teoria - teorio  
 tepe - bendo  
 terbium - terbio  
+termometer - termometro  
 teror - teroro  
 teroriste - teroristo  
 teroristia - terorismo  
@@ -1405,6 +1422,7 @@ win - venko
 wina - venki  
 wir - heroo  
 wiri - heroa  
+wis - anstataŭ  
 wisi - vic-  
 wizita - vizito  
 wizite - viziti  
@@ -1435,7 +1453,7 @@ xina - kreda
 xing - stelo  
 xir - poemo  
 xirope - siropo  
-xite - vintro  
+xite - merdo  
 xixi - silenta  
 xofa - konduki  
 xofer - ŝoforo (kondukisto)  
@@ -1454,6 +1472,7 @@ yesus - Jesuo
 yeze - kokoso  
 yoge - jogo  
 yone - vagino  
+yuke - jado  
 yumor - humuro  
 yumori - humura  
 yumoriste - humuristo  
@@ -1462,21 +1481,24 @@ yutrium - itrio
 ##z
 zaitun - olivo  
 zambia - Zambio  
-zar - hazardo  
 zardux - Zoroastro  
 zarduxiste - zoroastristo  
 zarduxistia - zoroastrismo  
+zare - hazardo  
 zari - hazarda  
-zay - ĉeestanta (nuna, ekzistanta)  
-zay den - hodiaŭ  
 zaye - nuno  
+zayi - ĉeestanta (nuna, ekzistanta)  
 zayia - ĉeestanteco (ekzisto)  
+zayoden - hodiaŭ  
 ze - si  
 zebre - zebro  
 zeze - muŝo  
+zime - vintro  
+zimi - vintra  
 zine - malfideleco  
 zinke - zinko  
 ziran - kumino  
 zirkonium - zirkonio  
-zon - zono  
+zone - zono  
 zuluh - zuluo  
+zumrude - smeraldo  

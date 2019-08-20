@@ -1,6 +1,8 @@
 # pandunia-cini
 ##a
 abace - 字母表  
+abentur - 冒险  
+abenturer - 冒险者  
 abla - 会  
 acente - 重音符号  
 adali - 公正地  
@@ -89,10 +91,12 @@ destin - 目的地 (命運)
 ding - 钉子   
 dom - 房子  
 ##e
+esa - 对  
 ##f
 fem - 女  
 firuze - 绿松石  
 fitolojia - 植物学  
+fotografe - 照片  
 ##g
 gunodarme - 道德  
 ##h
@@ -153,6 +157,9 @@ note - 便条
 ##o
 ##p
 pa - 到  
+pace - 和平  
+paciste - 和平主义者  
+pacistia - 和平主义  
 papagay - 鹉鹦  
 parke - 园  
 patojener - 病原体  
@@ -169,6 +176,7 @@ pulte - 桥
 sal - 盐   
 samoray - 一致  
 samude - 海  
+si - 对 (是)  
 sol - 太阳  
 solosistem - 太阳系  
 supris - 惊奇  
@@ -181,7 +189,7 @@ tekne - 技术
 teknolojia - 工艺学  
 telofon - 电话机  
 telowide - 电视机  
-tem - 主题目  
+teme - 主题目  
 tena - 有  
 tenu - 属于  
 teroristia - 恐怖行为  
@@ -203,9 +211,15 @@ wida - 看
 ##x
 xam - 晚上  
 xaw - 少  
+xey - 事物 (东西)   
+xite - 粪 (屎)   
 xofa - 开车  
 xofer - 司机   
 xute - 技术  
 ##y
 yoge - 瑜伽功  
+yuke - 玉  
 ##z
+zebre - 斑马   
+zime - 冬天   
+zumrude - 绿宝石  

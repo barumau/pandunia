@@ -1,4 +1,5 @@
 # engli-pandunia
+-ness (-ity) - -es  
 @ symbol - adresosimbol (@)  
 a couple of - dul u tin  
 ##a
@@ -18,6 +19,8 @@ adjective - sifolekse
 adult - adulte  
 adultery (infidelity) - zine  
 advance (progress, enter) - jina  
+adventure (venture) - abentur  
+adventurer - abenturer  
 advice (counsel) - mente  
 advisor (counselor, mentor) - menter  
 Afghanistan - afgania  
@@ -64,6 +67,7 @@ American - ameriki
 American Samoa - usameriki samoa  
 americium - amerikium  
 Amhara (an Ethiopian ethnic group and language) - amari  
+among (in the middle) - jung  
 ampere - amper  
 ampoule (vial) - ampul  
 amuse (entertain) - fana  
@@ -235,7 +239,7 @@ Belize - belizia
 belly (abdomen) - bung  
 belong (be a member) - memba  
 belong - tenu  
-belt (zone) - zon  
+belt (zone) - zone  
 bench - bence  
 Bengali (Bangla) - bangli  
 Benin - benin  
@@ -352,7 +356,7 @@ call (name) - namisa
 calm (peaceful) - xanti  
 Cambodia - kambudia  
 camel - gamel  
-camera - kamera  
+camera - fotografal  
 Cameroon - kamerunia  
 camp - kampe  
 camper - kamper  
@@ -377,7 +381,7 @@ Caribbean - karibia
 carpenter - mokojanger  
 carrot - karote  
 cartography - kartografia  
-cash box - kax  
+cash box - kaxe  
 cashier - kaxer  
 cassava (manioc) - manioke  
 caste - jenoklas  
@@ -431,8 +435,8 @@ chimpanzee - cimpanze
 China - jungogia  
 chinchilla - cincil  
 chlorine - klor  
-chocolate - coke  
-chocolate bar - cokobaton  
+chocolate - cokol  
+chocolate bar - cokolobaton  
 choice (election, selection) - cuze  
 choir (chorus) - kor  
 cholera - koler  
@@ -522,7 +526,7 @@ consider (regard) - konsida
 consitution - bazokanun  
 consonant - konson  
 consume (eat or drink) - niama  
-content (possession) - ten  
+content (possession) - tene  
 continue (resume) - kontinu  
 contribute - fenodona  
 conventional (customary, traditional) - rasmi  
@@ -618,7 +622,6 @@ demography - demografia
 demon - demon  
 Denmark - dania  
 dentist - dantomediker  
-depict (describe, illustrate) - grafa  
 descriptive - sifi  
 desert - registan  
 desire (lust) - kam  
@@ -628,6 +631,7 @@ destination (destiny, fate) - destin
 destine (set) - destina  
 detail - detal  
 development - fajan  
+device (instrument, apparatus, appliance) - ale  
 devil (Satan) - xatan  
 devilish (satanic) - xatani  
 dew - rose  
@@ -636,6 +640,7 @@ die (dice) - dade
 die - mortu  
 difference - alosifia  
 different - alosifi  
+difficult (hard, tough) - kunani  
 dig (excavate) - fosa  
 dining room - niamokamar  
 dinner - xamoniam  
@@ -644,7 +649,7 @@ disc (disk) - diske
 discussion (debate, discourse) - lon  
 dish - tas  
 disperse - jamula  
-distance - tel  
+distance - tele  
 distinction (specialty) - hasia  
 distinguish - hasa  
 divide (to partition) - fena  
@@ -670,6 +675,9 @@ double entendre - dulomeni
 doubt (disbelief) - dute  
 dragonfly - libel  
 drama - drame  
+draw - grafa  
+drawer - tirosanduke  
+drawing (graph) - graf  
 drawing (picture) - desen  
 drill (bore) - bora  
 drive - xofa  
@@ -683,14 +691,14 @@ dualism - dulistia
 dubnium - dubnium  
 duck - bate  
 dumpling (ravioli, pelmeni) - pelmen  
-duration - dur  
+duration - dure  
 dust (powder) - fun  
 dysprosium - disprosium  
 ##e
 each other (one another, mutually) - unale  
 ear - or  
 earn (gain) - ganya  
-earth (ground) - zem  
+earth (ground) - zeme  
 Earth (Terra) - zemia  
 earthquake - sisme  
 east - dong  
@@ -725,6 +733,7 @@ engine (motor) - moter
 engineer - injener  
 English - engli  
 enough (sufficient) - bas  
+environment (nature) - ekia  
 environmental (natural) - eki  
 enzyme - enzim  
 epistemology - janolojia  
@@ -752,7 +761,7 @@ evaluate (review, criticise) - pipinga
 evaluation (criticism) - piping  
 even (intensifier) - hati  
 evening - xam  
-event (case, instance) - kas  
+event (case, instance) - kase  
 every (each) - mey  
 everybody (everyone) - pan ren  
 everything - pan xey  
@@ -769,6 +778,7 @@ exit (leaving) - cute
 exit door - cutomun  
 eye (look, watch) - kana  
 eye - kan  
+eyelash - kanokex  
 ##f
 face - muke  
 face powder - mukofun  
@@ -823,7 +833,7 @@ Finland - suomia
 Finnish - suomi  
 fire - fay  
 first (beginning) - muli  
-first (number one) - num un  
+first (number one) - nume un  
 fish - fix  
 fish tank - fixotanke  
 five (5) - lim  
@@ -995,6 +1005,7 @@ hand - hande
 hang (dangle) - penda  
 happy (delighted) - suki  
 harbor (seaport) - suyoporte  
+hardship (difficulty) - kunan  
 harmful (damaging) - damaji  
 harmonius - harmoni  
 harmony - harmonia  
@@ -1005,7 +1016,7 @@ hat (cap) - tope
 hate - hen  
 have (keep, possess) - tena  
 have sex - seksa  
-hazard (chance) - zar  
+hazard (chance) - zare  
 he or she or it - le  
 head - sar  
 headmaster (principal) - darsoxef  
@@ -1042,6 +1053,7 @@ hockey - hoke
 hole - kong  
 holiday - festoden  
 holmium - holmium  
+hologram - hologram  
 holy (sacred) - santi  
 Holy See (Vatican City State) - watikania  
 home (residence) - dom  
@@ -1056,8 +1068,8 @@ horn - korne
 horse - gude  
 hotel - hotel  
 hour - hor  
-how many? - ki num  
-how? - ki yang  
+how many? - ki nume  
+how? - ki yang?  
 howl - ulula  
 howling - ulul  
 huh? (pardon?) - he  
@@ -1085,6 +1097,7 @@ ice hockey - aisohoke
 Iceland - islandia  
 icy - aisi  
 idea (concept, notion) - idey  
+ideogram - ideyograf  
 idiocy (stupidity) - idiotia  
 idiot - idiote  
 if (suppose, assume) - gar  
@@ -1111,7 +1124,7 @@ inner (internal) - indi
 insect - koncung  
 inside (interior) - inde  
 inspire - inspira  
-instead of - sa loke du  
+instead of - wis  
 instructions (recipe) - recete  
 insult (offence) - ninde  
 insult (offend) - insulta  
@@ -1142,6 +1155,7 @@ Italy - italia
 ##j
 jackal - xakal  
 jacket - jake  
+jade - yuke  
 jailer (imprisoner) - prizoner  
 Jainism - jeinistia  
 Jamaica - jamaikia  
@@ -1262,6 +1276,7 @@ life - jiwe
 light (bright) - nuri  
 light (illumination) - nur  
 like (enjoy, be fond of) - suku  
+like (similarly) - ja  
 like - fila  
 lilac - lilake  
 lilac color - lilakangi  
@@ -1283,6 +1298,7 @@ load (to charge) - lada
 local - loki  
 logbook - deftobuke  
 logic (deduction) - logike  
+logical - logiki  
 logophile (word buff) - logofiler  
 long (lengthy) - long  
 look (see) - wida  
@@ -1327,6 +1343,7 @@ Malawi - malawia
 Malayali (Malayalam) - malayali  
 Malaysia - malaisia  
 male - man  
+malfunction - malofunce  
 Mali - malia  
 Malta - maltia  
 mammal - mamal  
@@ -1385,7 +1402,6 @@ mean (cruel) - zalim
 mean (medium, average) - medi  
 mean (signify) - mena  
 meaning (signification) - mene  
-meanwhile - sa dur  
 measure (take measurements) - meta  
 measurement - mete  
 meat (flesh) - manse  
@@ -1413,7 +1429,7 @@ method (way, manner) - metode
 Mexico - mexikia  
 micro- - mikro-  
 Micronesia - mikronesia  
-middle (center) - jung  
+middle (center) - junge  
 military (martial, warlike) - jengi  
 milk (draw milk) - tira milke  
 milk - milke  
@@ -1452,7 +1468,7 @@ monochrome - unangi
 monolog - monologe  
 monotheism - monodewistia  
 monster - monster  
-Montenegro - cernagoria  
+Montenegro - cernogoria  
 month - mes  
 moon - lun  
 moral - darmi  
@@ -1505,7 +1521,6 @@ national - nasi
 national socialism - nasi socistia  
 nationalism - nasistia  
 nationalist - nasiste  
-nature (environment) - ekia  
 Nauru - nauru  
 Nazi - naciste  
 Nazism - nacistia  
@@ -1565,7 +1580,7 @@ noun - namolekse
 November - mes 11 (mes des un)  
 nudism - nudistia  
 nudist - nudiste  
-number - num  
+number - nume  
 nylon - nilon  
 ##o
 oasis - wase  
@@ -1616,6 +1631,7 @@ Oromo (an Ethiopian ethnic group and language) - oromi
 orphan - yatim  
 orphanage - yatimodom  
 osmium - osmium  
+osmosis - osme  
 other - ali  
 Ottoman - osman  
 Ottoman Empire - osmania  
@@ -1631,6 +1647,8 @@ own - malka
 owner (proprietor) - malker  
 oxygen - okse  
 ##p
+pacifism - pacistia  
+pacifist - paciste  
 pack (package) - pake  
 pack - paka  
 painful - paxi  
@@ -1681,6 +1699,7 @@ pause (break, interruption) - paus
 pause (interrupt) - pausa  
 pay - peya  
 payment - pey  
+peace - pace  
 peanut (groundnut) - zemodow  
 pear - leze  
 pearl - lul  
@@ -1694,6 +1713,7 @@ peony - mudan
 people (folk) - nas  
 people (population) - deme  
 pepper (Piper nigrum) - pimente  
+perfect - kamili  
 permissible (allowed, halal) - halal  
 permission - permis  
 Persian (Farsi) - farsi  
@@ -1710,13 +1730,15 @@ phonology - fonolojia
 phosphorus - fosfor  
 phosphorus - pospor  
 photograph - fotograf  
+photograph - fotografe  
+photographer - fotografer  
+photography - fotografia  
 photography - fotografia  
 physicist - fiziker  
 physics - fizike  
 physics - fizikia  
 piano - pian  
 picnic - piknike  
-picture (graph, image) - graf  
 picture book - grafobuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pay  
@@ -1742,7 +1764,7 @@ pizzeria - pizeria
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
 plan - plan  
-plane (tool for making a smooth surface) - rander  
+plane (tool for making a smooth surface) - randal  
 plane hijacker - wimanokaper  
 planet - planete  
 plant (vegetation) - fite  
@@ -1817,7 +1839,7 @@ precise (exact, accurate) - presis
 pregnant - hamili  
 prepare (make ready) - reda  
 presence (existence) - zayia  
-present (current, existing) - zay  
+present (current, existing) - zayi  
 present time (now)  - zaye  
 preserve (conserve, retain, spare) - hafiza  
 president - prezidente  
@@ -1830,6 +1852,7 @@ prison (imprisonment) - prizon
 prison - prizonia  
 privateer (buccaneer) - botokaper  
 problem - problem  
+problematic - problemi  
 process (procedure) - proses  
 produce (create, make) - sana  
 production - sania  
@@ -1852,7 +1875,7 @@ psychology - ruholojia
 public - demi  
 pudding - puding  
 Puerto Rico - portorikia  
-pull - tira  
+pull (draw, drag) - tira  
 pump - pompa  
 Punjabi - panjabi  
 push - puxa  
@@ -1860,7 +1883,7 @@ put (place, set) - loka
 pyramid - piram  
 Qatar - kataria  
 qualify (describe) - sifa  
-quality (excellence, virtue, merit) - gun  
+quality (excellence, virtue, merit) - gune  
 queen - femi rajer  
 question - eske  
 quote (cite) - cita  
@@ -2075,6 +2098,7 @@ shea - karite
 sheep - meh  
 Shintoism - xindawistia  
 shirt - kamis  
+shit (feces) - xite  
 shock (collision) - xoke  
 shoe - sapate  
 shoemaker - sapater  
@@ -2235,7 +2259,7 @@ surpass (go over) - supra
 surprise - supris  
 surrender (submit) - islamu  
 surrender (to give up) - salima  
-surround (be around) - cirka  
+surround (encircle) - cirka  
 sushi - suxe  
 suture (seam) - sutur  
 Swahili - suahili  
@@ -2314,7 +2338,7 @@ thallium - talium
 thank - danka  
 thanks (thank you) - danke  
 that is (in other words, i.e., alias) - alonami  
-theft - cor  
+theft - core  
 theism - dewistia  
 theist - dewiste  
 theocracy - dewokratia  
@@ -2350,7 +2374,7 @@ to (toward, till, until, for) - pa
 to be centered (amid, in the middle) - jungu  
 toast (toasted bread) - rosti pang  
 tobacco - tabake  
-today - zay den  
+today - zayoden  
 Togo - togolia  
 Togolese - togoli  
 toilet (WC) - tuale  
@@ -2365,7 +2389,7 @@ tooth - dante
 tooth brush - dantobrox  
 top (peak, pinnacle, summit, apex, vertex) - pike  
 top (spinning top) - tolo  
-topic (subject, theme) - tem  
+topic (subject, theme) - teme  
 torch - nurobaton  
 touch - toca  
 tourism - safaristia  
@@ -2403,7 +2427,7 @@ turban - pagre
 turkey - totol  
 Turkey - turkia  
 Turkish - turki  
-Turkmenistan - turkmenia  
+Turkmenistan - turkomenia  
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - tuwalia  
@@ -2511,6 +2535,7 @@ weight - bar
 welcome! - salam laye  
 west - weste  
 western - westi  
+what kind of? - ki yangi  
 what thing? - ki xey  
 what? - ke  
 wheel - cakre  
@@ -2520,6 +2545,7 @@ which (relative pronoun) - je
 which? - ki  
 white - himangi  
 who? - ki ren  
+whole (entire) - holi  
 wide (broad) - kuan  
 wiki - wikia  
 wiki article - wike  
@@ -2532,7 +2558,8 @@ window - janel
 wine - wain  
 winery - waineria  
 wing - wing  
-winter - xite  
+winter - zime  
+wintry - zimi  
 wisdom - sofia  
 wise - sofi  
 with (by, at, in, on) - sa  
@@ -2563,7 +2590,7 @@ year - nen
 yeast - hamir  
 yellow - limonangi  
 Yemen - yemenia  
-yes (is) - si  
+yes - si  
 yesterday - predi den  
 yoga - yoge  
 you - te  
