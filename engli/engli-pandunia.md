@@ -2,6 +2,7 @@
 -ness (-ity) - -es  
 @ symbol - adresosimbol (@)  
 a couple of - dul u tin  
+'s (particle of possession) - du  
 ##a
 ability (skill) - able  
 about (approximately) - yagi  
@@ -1589,7 +1590,7 @@ Oceania - oseania
 October - mes 10 (mes des)  
 odd (strange, weird) - bizari  
 Odia (Oriya) - odisi  
-of (particle of possession) - du  
+of (particle of possession) - da  
 office (bureau) - ofisia  
 office (position) - ofis  
 officer - ofiser  
@@ -1642,7 +1643,6 @@ outer (external) - way
 outside (exterior) - waye  
 oven (furnace) - tanur  
 overpass - supre  
-own (particle of possession) - da  
 own - malka  
 owner (proprietor) - malker  
 oxygen - okse  

@@ -1,7 +1,7 @@
 # dexonami liste
 
-ce si liste du dexonam ya pandunia pa engli.
-pandunia kapa dexonam ya [dexi ren da zi bax](http://www.omniglot.com/countries/).
+ce si liste da dexonam ya pandunia pa engli.
+pandunia kapa dexonam ya [dexi ren du zi bax](http://www.omniglot.com/countries/).
 
 |kode| panduni | engli       |
 |----|---------|-------------|

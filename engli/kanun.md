@@ -317,7 +317,7 @@ Also adjectives are questioned with **ki**.
 **ki day?** - How big?  
 **ki lil?** - How small?
 
-**ki day da maw te tena?**
+**ki day du maw te tena?**
 - How big cat do you have?
 
 --------------------------------------------------------------------------------
@@ -373,7 +373,7 @@ dependant clauses.
 
 Examples:  
 **ke te wida?** - What do you see?  
-**me niama pang, du te beka.** - I eat bread _that you baked._
+**me niama pang, da te beka.** - I eat bread _that you baked._
 
 #### 6.2.3. VOA order
 
@@ -556,10 +556,10 @@ Here the focus is on the object, which is the first word in the
 sentence. The object is a passive actor that undergoes the action.
 
 The agent can be mentioned after the verb with or without the
-preposition **du**.
+preposition **da**.
 
 **te widu me.** - You are seen by me.  
-**te widu du me.** - You are seen by me.
+**te widu da me.** - You are seen by me.
 
 #### 7.4.2. VO order
 
@@ -712,27 +712,27 @@ verb, not the whole question.
 
 ### 9.2. Modifier particles
 
-Particles **da** and **du** are used to mark possession and
-modification.  **da** connects the modifying word or phrase to the
-modified word. **du** works in the opposite direction. It connects the
+Particles **du** and **da** are used to mark possession and
+modification.  **du** connects the modifying word or phrase to the
+modified word. **da** works in the opposite direction. It connects the
 modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **da** works like apostrophe-s ('s) in
+With regards to possession, **du** works like apostrophe-s ('s) in
 English.
 
-**maria da mame** - Maria's mother  
-**me da dom** - my house  
-**me da pape da dom** - my father's house
+**maria du mame** - Maria's mother  
+**me du dom** - my house  
+**me du pape du dom** - my father's house
 
-**du** works like "of" in English.
+**da** works like "of" in English.
 
-**mame du maria** - the mother of Maria  
-**dom du me** - the house of mine  
-**dom du pape du me** - the house of the father of mine
+**mame da maria** - the mother of Maria  
+**dom da me** - the house of mine  
+**dom da pape da me** - the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
@@ -743,58 +743,58 @@ the particle makes it clear in which end the main noun is.
 The modifier particles are useful for creating complex adjectives that
 consists of two or more words.
 
-**roze rang da labe** - rose-colored lips  
-**saman rang da yen** - sky-colored eyes
+**roze rang du labe** - rose-colored lips  
+**saman rang du yen** - sky-colored eyes
 
 Or in the opposite order:
 
-**labe du roze rang** - lips of the color of the rose  
-**yen du saman rang** - eyes of the color of the sky
+**labe da roze rang** - lips of the color of the rose  
+**yen da saman rang** - eyes of the color of the sky
 
 The particles help in creating measure words too.
  
-**un sake da patate** - one sack of potatos  
-**dul sake da patate** - two sacks of potatos  
-**max sake da patate** - more sacks of potatos
+**un sake du patate** - one sack of potatos  
+**dul sake du patate** - two sacks of potatos  
+**max sake du patate** - more sacks of potatos
  
-Note that **da** and **du** connect phrases together. So a modifier
-phrase with and without **da** can mean a different thing.
+Note that **du** and **da** connect phrases together. So a modifier
+phrase with and without **du** can mean a different thing.
 
 **max sundar pul** - more beautiful flowers  
-**max da sundar pul** - more of beautiful flowers
+**max du sundar pul** - more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
-**le si man du me wida.**
+**le si man da me wida.**
 = He is the man that I saw.
 
-Although **du** seems to have a similar role here as English relative pronouns
+Although **da** seems to have a similar role here as English relative pronouns
 _which_, _that_, _who_ and _whom_, it's still nothing more than a particle
 connecting a modifier (a verb phrase) to a modified. It's inseparable from the
 modified noun, and does not have a back-referring relation to it. Instead, the
 main-clause noun is implied within the relative clause right after the particle.
 
-With **da**, it's possible to construct relative clauses that precede the
+With **du**, it's possible to construct relative clauses that precede the
 modified noun. (The main-clause noun is implied right before the particle.)
 
-**buke dugu da ren sa kamar.**
+**buke dugu du ren sa kamar.**
 = The book-reading person is in the room.  
-**le duga da buke sa meze.**
+**le duga du buke sa meze.**
 = The book, that he/she reads, is on the table.
 
 The modified noun can be part of an adpositional phrase too.
 
-**me safara pa da site si teli.**
+**me safara pa du site si teli.**
 = My destination city is far away.
 
 With the modified noun at the beginning, we need to call into action the
 otherwise rarely used postpositions **nu**, **yu**, **su**, and **pu**.
 
-**site du pu me safara si teli.**
+**site da pu me safara si teli.**
 = The city I’m traveling to is far away.  
-**ci kalam du su me zay kitaba si nowi.**
+**ci kalam da su me zay kitaba si nowi.**
 = This pen, with which I’m writing now, is new.
 
 ### 9.3. Modal Particles
@@ -863,7 +863,7 @@ the preposition is complemented by a pronoun or a noun phrase.
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
 **me sona ya xam pa sube.** - I sleep since evening until morning.  
-**me safara da london pa paris.** - I travel from London to Paris.  
+**me safara du london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
@@ -1225,7 +1225,7 @@ auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
 
 The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
 latter occurs frequently in dependant clauses, for example in
-**me wida ren, du te jana.** (I saw the person _whom you know_.) The
+**me wida ren, da te jana.** (I saw the person _whom you know_.) The
 other word orders can be heard in poetry and in other forms of
 elevated language.
 
@@ -1296,8 +1296,8 @@ In Pandunia, structure words share the following characteristics:
 | 5| Interrogative             |                        | **ke**<br>what?        | **ki**<br>which?       |                        |                        |
 | 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
 | 7| Negation / lack / absence | **na**<br>without      |                        | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
-| 8| Affirmation / presence    |**sa**<br>with, by, at  |                        | **si**<br>yes          |                        | **su**                 |
-| 9| Possession                | **da**<br>'s           |                        |                        |                        | **du**<br>of           |
+| 8| Affirmation / presence    | **sa**<br>with, by, at |                        | **si**<br>yes          |                        | **su**                 |
+| 9| Possession                | **da**<br>of           |                        |                        |                        | **du**<br>'s           |
 |10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
 |11| Origin                    | **ya**<br>from, since  |                        |                        |                        | **yu**                 |
 
@@ -1338,7 +1338,7 @@ central is as follows.
 
 1. Structure words
     1. Conjunctions: i, u, a
-    2. Connectors: da, du
+    2. Connectors: du, da
     3. Prepositions and postpositions: na, sa, pa, ya; nu, su, pu, yu
     4. Pronouns
 2. Content words

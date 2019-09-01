@@ -28,7 +28,7 @@ rici man loga pa hakimer, "ci man nosa mi nyami pang mey den, a peya pa mi nol x
 </td><td>
 The rich man said, "This man smells my delicious bread every day but pays me nothing for it."
 </td></tr><tr><td>
-hakimer loga, "dul te laya badi den, i miskin man jama sake du lim gimi parce du pese!"
+hakimer loga, "dul te laya badi den, i miskin man jama sake da lim gimi parce da pese!"
 </td><td>
 The judge said, "Both of you come tomorrow, and the poor man must bring a bag of 5 gold coins!"
 </td></tr><tr><td>
@@ -44,7 +44,7 @@ hakimer loga, "sisma sake!"
 </td><td>
 The judge said, "Shake the bag!"
 </td></tr><tr><td>
-gimi parce du pese sonda.
+gimi parce da pese sonda.
 </td><td>
 The coins jingled.
 </td></tr><tr><td>

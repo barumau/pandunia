@@ -317,7 +317,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 = Haluaisiko hän keittoa?  
 ☺: **ni.**
 = Ei.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade da des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
@@ -563,7 +563,7 @@ vastata kysymykseen.
 1. ki ren suku supe?
 2. pape suku.
 3. ki zaman le laya?
-4. sa bade du des minute.
+4. sa bade da des minute.
 5. ke saba le ni nyama?
 6. sabu le ni suku kafe.
 

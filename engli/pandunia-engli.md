@@ -365,7 +365,7 @@ cutomun - exit door
 cuza - choose (elect, select)  
 cuze - choice (election, selection)  
 ##d
-da - own (particle of possession)  
+da - of  
 dade - die (dice)  
 daixer - ambassador  
 daixeria - embassy  
@@ -469,7 +469,7 @@ doxi - guilty
 doze - portion (dose)  
 drame - drama  
 droge - drug (intoxicating substance)  
-du - of (particle of possession)  
+du - 's (particle of possession)  
 dubnium - dubnium  
 duga - read  
 duka - grieve  

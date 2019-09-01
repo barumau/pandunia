@@ -558,7 +558,7 @@ Tekijä voidaan mainita verbin jälkeen preposition **ya** kanssa tai ilman.
 
 **te vidu me.**
 = Sinut näen minä.  
-**te vidu da me.**
+**te vidu du me.**
 = Sinut nähdään minun toimesta.
 
 
@@ -756,20 +756,20 @@ Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
 **yu** vastaa suomen genetiivimuotoa.
 
-**maria du mame**
+**maria da mame**
 = Marian äiti  
-**me du dom**
+**me da dom**
 = minun talo  
-**me du pape du dom**
+**me da pape da dom**
 = minun isän talo
 
 **ya** on sama mutta käänteisessä sanajärjestyksessä.
 
-**mame da maria**
+**mame du maria**
 = äiti Marian  
-**dom da me**
+**dom du me**
 = talo minun  
-**dom da pape da me**
+**dom du pape du me**
 = talo isän minun
 
 
@@ -781,21 +781,21 @@ Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin j
 
 **novi dom**
 = uusi talo  
-**dom da novi**
+**dom du novi**
 = talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
-**roze rang du labe**
+**roze rang da labe**
 = ruusun väriset huulet  
-**saman rang du yen**
+**saman rang da yen**
 = taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
-**labe da roze rang**
+**labe du roze rang**
 = huulet ruusun väriset  
-**yen da saman rang**
+**yen du saman rang**
 = silmät taivaan siniset
 
 #### 9.2.3. Määrelause
@@ -850,7 +850,7 @@ Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät v
 Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 1. **sa** = paikka tai ajanhetki yleensä: -ssa, -lla, luona
-2. **da** = lähtöpaikka tai -aika: -sta, -lta, luota, lähtien
+2. **du** = lähtöpaikka tai -aika: -sta, -lta, luota, lähtien
 3. **pa** = määräpaikka tai -aika: -Vn, -lle, luokse, asti
 
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
@@ -992,7 +992,7 @@ Sanaluokkien arvojärjestys panduniassa:
 
 1. Konjunktiot: i, u
 2. Määrepartikkelit: yu, ya
-3. Prepositiot: sa, pa, da
+3. Prepositiot: sa, pa, du
 4. Teonsanat
 5. Asiansanat ja pronominit
 6. Ajan ja tavan partikkelit

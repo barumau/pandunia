@@ -317,12 +317,12 @@ He ovat tuolla.
 Me olemme täällä.
 
 
-### da <small>-n (genetiivipartikkeli)</small>
+### du <small>-n (genetiivipartikkeli)</small>
 
 **ce ke?**
 Mikä tämä on?
 
-**ce me da fon.**
+**ce me du fon.**
 Se on minun puhelin.
 
 **ce ke ya?**
@@ -337,10 +337,10 @@ tarkoittaa "minun", **te ya** tarkoittaa "sinun" jne.
 **le ke?**
 Kuka hän on?
 
-**le si me da doste.**
+**le si me du doste.**
 Hän on minun ystävä.
 
-**me si sarah da doste.**
+**me si sarah du doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **ya**
@@ -610,7 +610,7 @@ Minä osaan vähän panduniaa.
 **me ni abla engli.**
 Minä en osaa englantia.
 
-**pardon. me ni abla te da bax.**
+**pardon. me ni abla te du bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -647,7 +647,7 @@ Puhuisitko kovempaa.
 **me auda musike.**
 Minä kuuntelen musiikkia.
 
-**te auda ki yang da musike?**
+**te auda ki yang du musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -676,7 +676,7 @@ Mitä tämä sana tarkoittaa?
 **"maw" mena ke?**
 Mitä "maw" tarkoittaa?
 
-**le mena yang du hewan.**
+**le mena yang da hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
 **me ni aha le mena ke.**
@@ -833,7 +833,7 @@ Minä odotan sinua hotellissa.
 
 ### zay <small>parhaillaan</small>
 
-**me zay salama te da doste.**  
+**me zay salama te du doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **man zay wida fem.**  
@@ -848,7 +848,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**me pas salama te da doste.**  
+**me pas salama te du doste.**  
 Minä tervehdin sinun ystävääsi.
 
 **man pas wida fem.**  
@@ -863,7 +863,7 @@ Hän oli kotona.
 
 ### lew <small>jo, valmiiksi</small>
 
-**me lew salama te da doste.**  
+**me lew salama te du doste.**  
 Minä olen tervehtinyt ystävääsi.
 
 **man lew wida fem.**  
@@ -878,7 +878,7 @@ Hän on ollut kotona.
 
 ### wil <small>myöhemmin, jatkossa</small>
 
-**me wil salama te da doste.**  
+**me wil salama te du doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **man wil wida fem.**  

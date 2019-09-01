@@ -22,6 +22,6 @@ i muhamad si li naber.
 
 <p style="font-size:6em;">🏛</p>
 
-insan si mete du pan.  
-– du _protagoras_
+insan si mete da pan.  
+– da _protagoras_
 

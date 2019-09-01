@@ -303,33 +303,33 @@ This is red.
 
 
 
-### da <small>'s (possessive particle)</small>
+### du <small>'s (possessive particle)</small>
 
 **ce ke?**
 What's this?
 
-**ce me da fon.**
+**ce me du fon.**
 It's my phone.
 
-**ce ke da?**
+**ce ke du?**
 Whose is this?
 
-**ce me da.**
+**ce me du.**
 It's mine.
 
-Note: Possessive particle **da** is put between the owner and the owned thing.
-So **me da** means "my", **te da** means "your" and so on.
+Note: Possessive particle **du** is put between the owner and the owned thing.
+So **me du** means "my", **te du** means "your" and so on.
 
 **le ke?**
 Who's he/she?
 
-**le si me da doste.**
+**le si me du doste.**
 He/she is my friend.
 
-**me si sarah da doste.**
+**me si sarah du doste.**
 I am Sarah's friend.
 
-<small>Etymology. **da**
+<small>Etymology. **du**
 Mandarin: 的 (de).</small>
 
 
@@ -583,7 +583,7 @@ I can speak a little Pandunia.
 **me ni abla engli.**
 I can't speak English.
 
-**pardon. me ni abla te da bax.**
+**pardon. me ni abla te du bax.**
 Sorry, I can't speak your language.
 
 
@@ -622,7 +622,7 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yang da musike?**
+**te auda ki yang du musike?**
 What kind of music do you listen to?
 
 
@@ -649,7 +649,7 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yang du hewan.**
+**le mena yang da hewan.**
 It means a kind of animal.
 
 **me ni aha le mena ke.**
@@ -800,7 +800,7 @@ I wait for you in the hotel.
 
 ### zay <small>currently</small>
 
-**me zay salama te da doste.**  
+**me zay salama te du doste.**  
 I am greeting your friend.
 
 **man zay wida fem.**  
@@ -815,7 +815,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**me pas salama te da doste.**  
+**me pas salama te du doste.**  
 I greeted your friend.
 
 **man pas wida fem.**  
@@ -830,7 +830,7 @@ He or she was at home.
 
 ### lew <small>already, completed</small>
 
-**me lew salama te da doste.**  
+**me lew salama te du doste.**  
 I have greeted your friend.
 
 **man lew wida fem.**  
@@ -845,7 +845,7 @@ He or she has been at home.
 
 ### wil <small>(future action)</small>
 
-**me wil salama te da doste.**  
+**me wil salama te du doste.**  
 I will greet your friend.
 
 **man wil wida fem.**  
@@ -938,7 +938,7 @@ Is it new?
 **ke si max bon?**
 Which is better?
 
-**ce si maxim bon (da pan).**
+**ce si maxim bon (du pan).**
 This is the best (of all).
 
 **le kosta ke?**
