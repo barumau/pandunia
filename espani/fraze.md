@@ -48,7 +48,7 @@ Buenas tardes.
 **salam noce!**
 Buenas noches.
 
-**salam nyam!**
+**salam niam!**
 Buen apetito. / Que aproveche.
 
 **salam lay!**
@@ -300,33 +300,33 @@ verbo adjetival.
 Es rojo.
 
 
-### da <small>(partícula posesiva)</small>
+### du <small>(partícula posesiva)</small>
 
 **ce ke?**
 ¿Qué es esto?
 
-**ce me da fon.**
+**ce me du fon.**
 Es mi teléfono.
 
-**ce ke da?**
+**ce ke du?**
 ¿De quién es esto?
 
-**ce me da.**
+**ce me du.**
 Es mío.
 
-Nota: La partícula posesiva **da** se pone entre el poseedor y la cosa poseída.
-Así **me da** significa "mi", **te da** significa "tuyo/tuya" y así.
+Nota: La partícula posesiva **du** se pone entre el poseedor y la cosa poseída.
+Así **me du** significa "mi", **te du** significa "tuyo/tuya" y así.
 
 **le ke?**
 ¿Quién es él/ella?
 
-**le si me da doste.**
+**le si me du doste.**
 Él/ella es mi amigo/a.
 
-**me si sarah da doste.**
+**me si sarah du doste.**
 Yo soy la amiga de Sara.
 
-<small>Etimología. **da** viene del
+<small>Etimología. **du** viene del
 mandarín: 的 (de).</small>
 
 
@@ -380,7 +380,7 @@ Yo lo/a conozco a él/ella.
 **eska tote jana unale?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mome jana unale da long.**
+**mome jana unale du long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
@@ -398,50 +398,50 @@ Necesito ayuda.
 
 ## Parte 2: Comer
 
-### nyama <small>consumir, comer, beber</small>
+### niama <small>consumir, comer, beber</small>
 
-**eska te wanta nyama koy?**
+**eska te wanta niama koy?**
 ¿Te gustaría comer algo?
 
-**le nyama aple.**
+**le niama aple.**
 Él/ella come una manzana.
 
-**lole nyama aple.**
+**lole niama aple.**
 Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular
 y plural. Por lo tanto una palabra como **aple** puede referirse a una o más
 manzanas.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 ¿Bebes café?
 
-**me nyama kafe.**
+**me niama kafe.**
 Yo bebo café.
 
-Ayuda: El significado de **nyama** cubre tanto comer y beber. Puede parecer
+Ayuda: El significado de **niama** cubre tanto comer y beber. Puede parecer
 raro al inicio, pero pronto verás que es bastante útil. Normalmente el
 objeto del verbo dice si se trata de comer, beber o ambos.
 
-**me nyama kafe i pang.**
+**me niama kafe i pang.**
 Estoy tomando café y pan.
 
 
 ### wanta <small>querer, gustar (deseo)</small>
 
-**eska te wanta nyama?**
+**eska te wanta niama?**
 ¿Te gustaría comer?
 
-**te wanta nyama ke?**
+**te wanta niama ke?**
 ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 
-**me wanta nyama kafe.**
+**me wanta niama kafe.**
 Quiero beber café.
 
-**eska te wanta nyama cay?**
+**eska te wanta niama cay?**
 ¿Te gustaría beber té? 
 **ni. me ni wanta cay. me wanta kafe.**
 No, no quiero té. Quiero café.
@@ -454,7 +454,7 @@ Esa roja.
 
 ### plisa <small>pedir, solicitud, por favor</small>
 
-**me plisa te nyama cay.**
+**me plisa te niama cay.**
 Te pido que bebas té.
 
 **me plisa te laya dom.**
@@ -465,10 +465,10 @@ Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**plisa nyama cay.**
+**plisa niama cay.**
 Por favor, bebe/beban té.
 
-**plisa nyama kafe.**
+**plisa niama kafe.**
 Por favor, bebe/beban café.
 
 **plisa laya dom.**
@@ -501,10 +501,10 @@ De nada. No hay de qué.
 
 ### haida <small>vamos</small>
 
-**haida nyama.**
+**haida niama.**
 Comamos. (Literalmente: _Vamos, comamos_.)
 
-**haida gowa nyama.**
+**haida gowa niama.**
 Vamos a comer.
 
 **haida gowa dom.**
@@ -516,10 +516,10 @@ Vamos a casa.
 **me nida helpe.**
 Necesito ayuda.
 
-**me nida nyama.**
+**me nida niama.**
 Estoy hambriento. (Literalmente: _Necesito comer._)
 
-**eska te nida nyama?**
+**eska te nida niama?**
 ¿Estás hambriento? ¿Tienes hambre? (Literalmente: _¿Necesitas comida?_)
 
 **eska te nida suy?**
@@ -560,10 +560,10 @@ No entiendo nada.
 
 ### abla <small>poder</small>
 
-**me abla gida kar.**
+**me abla xofa kar.**
 Puedo conducir un auto.
 
-**le ni abla gida kar.**
+**le ni abla xofa kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
@@ -582,7 +582,7 @@ Puedo hablar un poco de pandunia.
 **me ni abla engli.**
 No puedo hablar inglés.
 
-**pardon. me ni abla te da bax.**
+**pardon. me ni abla te du bax.**
 Lo siento. No puedo hablar tu idioma.
 
 
@@ -618,7 +618,7 @@ Por favor, hablar más fuerte.
 **me auda musike.**
 Escucho música.
 
-**te auda ki yang da musike?**
+**te auda ki yang du musike?**
 ¿Qué clase de música escuchas?
 
 
@@ -645,7 +645,7 @@ Lo/a vi a él/ella ayer.
 **"maw" mena ke?**
 ¿Qué significa "maw"?
 
-**le mena yang du hewan.**
+**le mena yang da hewan.**
 Significa una clase de animal.
 
 **me ni aha le mena ke.**
@@ -728,7 +728,7 @@ Vendré a casa mañana.
 **eska te safara sa tren?**
 ¿Viajas en tren?
 
-**mome safara da london pa paris.**
+**mome safara du london pa paris.**
 Nosotros viajamos de Londres a París.
 
 **safar day long.**
@@ -753,7 +753,7 @@ Estoy en casa.
 ¿Dónde está él/ella?
 
 **le sida sa kamar.**
-Él/ella se sienta en la haplisación.
+Él/ella se sienta en la habitación.
 
 Ayuda: Puedes usar **sa**
 como una preposición o como un verbo por aparte.
@@ -830,35 +830,5 @@ Voy a tomar una cerveza.
 Quiero rentar un auto.
 
 **ye kirodona kamar to safarer.**
-Él/ella vende haplisaciones a los viajeros.
-<!--
-
-### mai <small>comerciar</small>
-
-Ayuda: Comprar y vender son palabras compuestas: **mai dar**
-significa _vender_ y **mai kap**
-significa _ comprar_.
-
-**lole mai dona pan.**
-Ellos/as vender todo.
-
-**me mai kap un bir.**
-Voy a comprar una cerveza.
-
-
-### yang <small>para referirse al tipo</small>
-
-**le si ki yang?**
-¿Cómo es?
-
-**eska le novi?**
-¿Es nuevo?
-
-**ke si max bon?**
-¿Cuál es mejor?
-
-**ce si maxim bon (da pan).**
-Este es el mejor (de todos).
-
--->
+Él/ella vende habitaciones a los viajeros.
 

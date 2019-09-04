@@ -35,7 +35,7 @@ Dobry wieczór!
 **salam noce!**
 Dobranoc!
 
-**salam nyam!**
+**salam niam!**
 Smacznego!
 
 **salam lay!**
@@ -111,7 +111,7 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**me lova te.**
+**me ama te.**
 Ja kocham cię.
 
 <small>Etymologia. **tu**
@@ -130,7 +130,7 @@ Ona jest kobietą.
 **le aple.**
 To jest jabłko.
 
-**ye**
+**le**
 jest ogólnym zaimkiem trzecioosobowym. Jest używany wobec ludzi (niezależnie od płci) tak jak i wobec rzeczy.
 
 **me salama le.**
@@ -299,18 +299,18 @@ Jest czerwone.
 
 
 
-### da <small>(partykuła dzierżawcza)</small>
+### du <small>(partykuła dzierżawcza)</small>
 
 **ce ke?**
 Co to jest?
 
-**ce me da fon.**
+**ce me du fon.**
 To mój telefon.
 
-**ce ke da?**
+**ce ke du?**
 Czyje to?
 
-**ce me da.**
+**ce me du.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza **ya**
@@ -321,13 +321,13 @@ znaczy "twój" i tak dalej.
 **le ke?**
 Kim on/ona jest?
 
-**le si me da doste.**
+**le si me du doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**me si sarah da doste.**
+**me si sarah du doste.**
 Jestem przyjacielem Sary.
 
-<small>Etymologia. **da**
+<small>Etymologia. **du**
 pochodzi z języków: mandaryńskiego: 的 "de", pundżabskiego: ਦਾ "dā".</small>
 
 
@@ -404,49 +404,49 @@ Czy mogę ci pomóc?
 ## Part 2: Jedzenie
 
 
-### nyama <small>konsumować, spożywać, jeść, pić</small>
+### niama <small>konsumować, spożywać, jeść, pić</small>
 
-**eska te wanta nyama koy?**
+**eska te wanta niama koy?**
 Czy chcesz zjeść coś?
 
-**le nyama aple.**
+**le niama aple.**
 Je jabłko.
 
-**lole nyama aple.**
+**lole niama aple.**
 Jedzą jabłka.
 
 Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **aple**
 mogą się odnosić do jednego lub większej liczby jabłek.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 Czy pijesz kawę?
 
-**me nyama kafe.**
+**me niama kafe.**
 Piję kawę.
 
-Porada: Znaczenie **nyama**
+Porada: Znaczenie **niama**
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**me nyama kafe i pang.**
+**me niama kafe i pang.**
 Spożywam kawę i chleb.
 
 
 
 ### wanta <small>chcieć</small>
 
-**eska te wanta nyama?**
+**eska te wanta niama?**
 Czy chcesz jeść?
 
-**te wanta nyama ke?**
+**te wanta niama ke?**
 Co chcesz zjeść?
 
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
 nie zmienia szyku zdania.
 
-**me wanta nyama kafe.**
+**me wanta niama kafe.**
 Chcę pić kawę.
 
-**eska te wanta nyama cay?**
+**eska te wanta niama cay?**
 Czy chcesz napić się herbaty?
 
 **ni. me ni wanta cay. me wanta kafe.**
@@ -462,7 +462,7 @@ Te czerwone.
 
 ### plisa <small>prosić</small>
 
-**me plisa te nyama cay.**
+**me plisa te niama cay.**
 Proszę, żebyś napił się herbaty.
 
 **me plisa te laya dom.**
@@ -473,10 +473,10 @@ Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**plisa nyama cay.**
+**plisa niama cay.**
 Proszę, napij się herbaty!
 
-**plisa nyama kafe.**
+**plisa niama kafe.**
 Proszę, napij się kawy!
 
 **plisa laya dom.**
@@ -511,10 +511,10 @@ Nie ma za co. (Dosłownie: _Jesteś uprzejmy._)
 
 ### haida <small>niech my</small>
 
-**haida nyama!**
+**haida niama!**
 Zjedzmy!
 
-**haida gowa nyama!**
+**haida gowa niama!**
 Chodźmy jeść!
 
 **haida gowa dom.**
@@ -527,10 +527,10 @@ Chodź do domu.
 **me nida helpe.**
 Potrzebuję pomocy.
 
-**me nida nyama.**
+**me nida niama.**
 Jestem głodny.
 
-**eska te nida nyama?**
+**eska te nida niama?**
 Czy jesteś głodny?
 
 **eska te nida suy?**
@@ -596,7 +596,7 @@ Umiem trochę mówić w Panduni.
 **me ni abla engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni abla te da bax.**
+**pardon. me ni abla te du bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -634,7 +634,7 @@ Proszę, mów głośniej.
 **me auda musike.**
 Słucham muzyki.
 
-**te auda ki yang da musike?**
+**te auda ki yang du musike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -664,7 +664,7 @@ Co znaczy to słowo?
 **"maw" mena ke?**
 Co znaczy "maw"?
 
-**le mena yang du hewan.**
+**le mena yang da hewan.**
 To oznacza rodzaj zwierzęcia.
 
 **me ni aha le mena ke.**

@@ -165,9 +165,9 @@ Pidiendo
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **plisa nyama kafe u cay.**
+☺: **plisa niama kafe u cay.**
 = Por favor tiene algo de café o té.  
-☻: **me nyama cay. danke.**
+☻: **me niama cay. danke.**
 = Tengo té, gracias.  
 ...  
 ☺: **plisa salama ti mame!**
@@ -229,7 +229,7 @@ utilizado para hacer peticiones corteses.
 = Por favor me da un poco de café.  
 **plisa dona cay.**
 = Por favor me da un poco de té.  
-**plisa nyama cay.**
+**plisa niama cay.**
 = Por favor tiene algo de té.  
 **plisa safa kamar.**
 = Por favor limpie la habitación.  
@@ -266,16 +266,16 @@ Intenta traducir estas oraciones de Español a Pandunia.
 **u** o.
 **safa** limpiar.
 **sida** estar sentado.
-**nyama** beber, comer.
+**niama** beber, comer.
 
 
 ### Respuestas
 
-1. le nyama cay.
+1. le niama cay.
 2. xefe plisa le sida.
-3. plisa nyama kafe u cay.
+3. plisa niama kafe u cay.
 4. mame plisa me safa kamar.
-5. xefe sida i nyama kafe.
+5. xefe sida i niama kafe.
 
 
 ---------------------------------------------------------------------
@@ -287,7 +287,7 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska te nyama kafe u cay?**
+☻: **salam! eska te niama kafe u cay?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **cay.**
 = Té.  
@@ -295,17 +295,17 @@ Preguntas de Sí o No
 = ¿ y Usted? 
 ○: **me ni baxa pandunia...**
 = Yo no hablo Pandunia...  
-☻: **pardon! eska le nyama cay?**
+☻: **pardon! eska le niama cay?**
 = ¡Perdón! ¿Él toma té?  
-☺: **ni. le ni nyama cay. le nyama kafe.**
+☺: **ni. le ni niama cay. le niama kafe.**
 = No, él desea tomar café.  
-☻: **eska te nyama supe?**
+☻: **eska te niama supe?**
 = ¿Quieren tomar sopa?  
-☺: **si, nyama.**
+☺: **si, niama.**
 = Sí.  
-☻: **eska le nyama supe?**
+☻: **eska le niama supe?**
 = ¿Él quiere tomar sopa?  
-☺: **ni nyama.**
+☺: **ni niama.**
 = No.  
 ☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
@@ -315,18 +315,18 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **plisa**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
-**me eska te nyama cay.**
+**me eska te niama cay.**
 = Yo preguntarte, tomas té.  
-**eska te nyama cay?**
+**eska te niama cay?**
 = ¿Bebes tú té?  
-**eska nyama cay?**
+**eska niama cay?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**eska le nyama cay?**
+**eska le niama cay?**
 = ¿Bebe él/ella té?  
-**eska te nyama supe?**
+**eska te niama supe?**
 = ¿Come usted sopa?  
 **eska kamilo baxa pandunia?**
 = ¿Habla Camilo Pandunia?
@@ -336,30 +336,30 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 Las preguntas de sí o no se responden con **si** = sí, y **ni** = no.
 
-– **eska te nyama supe?**
+– **eska te niama supe?**
 = ¿Comes tú sopa?  
 – **si.**
 = Sí.  
-– **eska le nyama supe?**
+– **eska le niama supe?**
 = ¿Comes ella sopa?  
 – **ni.**
 
 También se puede dar una respuesta mas larga.
 
-– **eska te nyama kafe?**
+– **eska te niama kafe?**
 = ¿Bebes tú café?  
-– **si. me nyama kafe.**
+– **si. me niama kafe.**
 = Sí, yo bebo café.  
-– **eska le nyama kafe?**
+– **eska le niama kafe?**
 = ¿Bebe él café?  
-– **ni. le ni nyama kafe.**
+– **ni. le ni niama kafe.**
 = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-– **eska te nyama suy?**
+– **eska te niama suy?**
 = ¿Bebe usted agua?  
-– **nyama.**
+– **niama.**
 = (Sí, yo) bebo.
 
 
@@ -395,10 +395,10 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
-3. eska mame nyama kafe?
-4. ni. le ni nyama kafe.
-5. eska le nyama supe?
-6. (le) ni nyama.
+3. eska mame niama kafe?
+4. ni. le ni niama kafe.
+5. eska le niama supe?
+6. (le) ni niama.
 
 
 ---------------------------------------------------------------------
@@ -469,9 +469,9 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 1. le ni safa kamar.
 2. un kupe ni hali.
-3. dul waf ni nyama supe.
+3. dul waf ni niama supe.
 4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe nyama cay a ni kafe.
+5. xefe niama cay a ni kafe.
 6. mame tena ni waf a dul maw.
 
 
@@ -523,11 +523,11 @@ que todavía se está hablando en el mismo tiempo.
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**me nyama cay sa predi den.**
+**me niama cay sa predi den.**
 = Yo tomé té ayer.  
 **le safa kamar sa badi den.**
 = Él limpiará la habitación mañana.  
-**mome festa sa nen 2000 da predi xam.**
+**mome festa sa nen 2000 du predi xam.**
 = Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -577,23 +577,23 @@ Intenta traducir de Español a Pandunia.
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te nyama supe zay.
+3. te niama supe zay.
 4. le safa kamar sa predi den.
-5. maw nyama kafe sa badi den.
+5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 
 ---------------------------------------------------------------------
 
-## Palabras conectoras «da» y «du»
+## Palabras conectoras «du» y «da»
 
 **ya** es una palabra especial en la gramática de Pandunia. Es una
 palabra que ayuda a organizar expresiones. **yu** conecta la palabra
 modificadora a la palabra modificada.
 
-**me da kar**
+**me du kar**
 = mi carro  
-**un waf da dom**
+**un waf du dom**
 = Una casa de perro
 
 La palabra conectora en sí no significa nada, por lo que no se
@@ -601,37 +601,37 @@ específica la relación entre la modificadora y la modificada. La
 relación se puede especificar mediante la adición de una palabra con
 mayor sentido.
 
-**me tena da kar**
+**me tena du kar**
 = mi carro (el carro que yo tengo)  
-**mi yang da kar**
+**mi yang du kar**
 = automóvil de mi tipo  
-**me gida da kar**
+**me gida du kar**
 = el carro que yo manejo
 
-La otra palabra conectora, **du** funciona de la misma manera que
+La otra palabra conectora, **da** funciona de la misma manera que
 **ya** pero el modificador y el modificado están en orden opuesto.
 
-**kar du me hava**
+**kar da me hava**
 = el carro mío (el carro que yo tengo)  
-**kar du mi yang**
+**kar da mi yang**
 = el carro de mi tipo  
-**kar du me gida**
+**kar da me gida**
 = el carro que yo manejo
 
 Las palabras conectoras son útiles para dividir frases complejas en
 otras más pequeñas y más manejables.
 
-**me sa tele du te.**
+**me sa tele da te.**
 = Yo estoy lejos de ti.  
-**mi sa te da tele.**
+**mi sa te du tele.**
 = Yo estoy a tu distancia.  
 
 Las palabras conectoras también ayudan a enlazar dos frases entre
 ellas.
 
-**mame nyama keke sa bade du le fata le.**
+**mame niama keke sa bade da le fata le.**
 = Mamá come una galleta después de hacerla.  
-**te fikra ke sa tem du keke da guste?**
+**te fikra ke sa tem da keke du guste?**
 = ¿Qué tu piensas del sabor de estas galletas?
 
 Las palabras conectoras, en Español también las usamos pero las
@@ -663,9 +663,9 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me wanta vida te.**
+**me wanta wida te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**me foka vida te.**
+**me foka wida te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
@@ -693,9 +693,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = enfocar, concentrarse.
 **loga**
 = hablar, charlar
-**mulu**
+**mula**
 = empezar, comenzar.
-**vida**
+**wida**
 = ver, mirar.
 **wanta**
 = querer, necesitar.
@@ -703,6 +703,6 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Respuestas
 
 1. me wanta dona kafe pa xefe.
-2. eska te wanta nyama suy?
+2. eska te wanta niama suy?
 3. le ni wanta safa zi kamar.
 

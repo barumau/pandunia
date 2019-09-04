@@ -230,9 +230,9 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 **se** - się, siebie
 
-**mi vida se** - Widzę się.
-**ye vida se** - Widzi się.
-**mimen vida se.** - Widzimy się.
+**mi wida se** - Widzę się.
+**ye wida se** - Widzi się.
+**mimen wida se.** - Widzimy się.
 
 
 ### 5.2. Zaimki wskazujące
@@ -300,7 +300,7 @@ Najpowszechniejszym szykiem zdania w Panduni jest podmiot-orzeczenie-dopełnieni
     S   O
 
 Przykłady:
-**mi vida yemen.** - Ja wizę ich.
+**mi wida yemen.** - Ja wizę ich.
 **tu baka pang.** - Ty pieczesz chleb.
 
 #### 6.2.2. Szyk OSV
@@ -314,7 +314,7 @@ Drugim szykiem w tym trójkącie jest OSV. Jest częsta w zdaniach podrzędnych.
     S ← O
 
 Przykłady:
-**ke tu vida?** - Co ty widzisz?
+**ke tu wida?** - Co ty widzisz?
 **mi nyama pang, jo tu baka.** - Jem chleb, _który ty upiekłeś._
 
 #### 6.2.3. Szyk VOS
@@ -457,7 +457,7 @@ Zdania czynne używające czasownika kończącego się na **-a** mają szyk podm
 
 > **mi nyama apel.** - Ja jem jabłka.
 > **mi auda musike.** - Ja słucham muzyki.
-> **mi vida tu.** - Ja widzę cię.
+> **mi wida tu.** - Ja widzę cię.
 
 Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
 
@@ -478,17 +478,17 @@ W stronie biernej nie ma podmiotu-agenta w zdaniu. Jest tylko dopełnienie i orz
 
 Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu. Dopełnienie jest biernym aktorem poddawanym działaniu.
 
-Agent może być wspomniany po czasowniku z lub bez przyimka **du**.
+Agent może być wspomniany po czasowniku z lub bez przyimka **da**.
 
 > **tu vidu mi.** - Jesteś widziany przez mnie.
-> **tu vidu du mi.** - Jesteś widziany przez mnie.
+> **tu vidu da mi.** - Jesteś widziany przez mnie.
 
 
 #### 7.4.2. Szyk VO
 
 W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
-> **vida tu.** - Widzenie cię.
+> **wida tu.** - Widzenie cię.
 > **auda musike.** - Słuchanie muzyki.
 > **baka pang.** - Pieczenie chleba.
 
@@ -591,37 +591,37 @@ Takie zdania mogą być prosto zaprzeczane przez **no**.
 
 Słowo **no** jest używane do zaprzeczania czegokolwiek. Działa zawsze na następne słowo.
 
-> **mi vida tu.** - Ja widzę cię.
-> **mi no vida tu.** - Ja nie widzę cię.
-> **mi vida no tu a yemen.** - Ja widzę nie ciebie,ale ich.
+> **mi wida tu.** - Ja widzę cię.
+> **mi no wida tu.** - Ja nie widzę cię.
+> **mi wida no tu a yemen.** - Ja widzę nie ciebie,ale ich.
 
 Partykuły **si** i **no** są używane też do odpowiadania na pytania.
 
-> **kia tu vida mi?** - Czy widzisz mnie?
-> **si. (mi vida tu.)** - Tak. (Widzę się.)
-> **no. (mi no vida tu.)** - Nie. (Nie widzę cię.)
+> **kia tu wida mi?** - Czy widzisz mnie?
+> **si. (mi wida tu.)** - Tak. (Widzę się.)
+> **no. (mi no wida tu.)** - Nie. (Nie widzę cię.)
 
 
 
 ### Partykuły modyfikatorowe
 
-Partykuły **da** i **du** są używane do oznaczania posiadania i opisu. **da** łączy opisujące słowo lub wyrażenie z opisywanym słowem. **du** działa w przeciwnym kierunku. Łączy opisywane słowo z modyfikatorem.
+Partykuły **du** i **da** są używane do oznaczania posiadania i opisu. **du** łączy opisujące słowo lub wyrażenie z opisywanym słowem. **da** działa w przeciwnym kierunku. Łączy opisywane słowo z modyfikatorem.
 
 #### 9.2.1. Posiadanie
 
 Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczowniku lub zaimku.
 
-Przed **da** pojawia się posiadacz, a po nim posiadany obiekt.
+Przed **du** pojawia się posiadacz, a po nim posiadany obiekt.
 
 > **maria ya mama** - Marii matka
 > **mi ya dom** - mój dom
 > **mi ya pape ya dom** - mojego ojca dom
 
-Przed **da** pojawia się posiadany obiekt, a po nim posiadacz.
+Przed **du** pojawia się posiadany obiekt, a po nim posiadacz.
 
-> **mama du maria** - matka Marii
-> **dom du mi** - dom mój
-> **dom du pape du mi** - dom ojca mojego
+> **mama da maria** - matka Marii
+> **dom da mi** - dom mój
+> **dom da pape da mi** - dom ojca mojego
 
 #### 9.2.2. Nadawanie cech przymiotnikami
 
@@ -629,8 +629,8 @@ Innym sposobem użycia tych partykuł jest łączenie przymiotnika lub innych s�
 
 Partykuły modyfikatorowe są użyteczne do tworzenia złożonych przymiotników, które składają się z dwóch lub większej liczby słów.
 
-> **labe du roza rang** - usta koloru róży
-> **yen du saman rang** - oczy koloru nieba
+> **labe da roza rang** - usta koloru róży
+> **yen da saman rang** - oczy koloru nieba
 
 Lub w przeciwnej kolejności:
 
@@ -641,17 +641,17 @@ Lub w przeciwnej kolejności:
 
 Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
-Tutaj **du** ma podobną rolę co polskojęzyczny zaimek _który_.
+Tutaj **da** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-> **ye si man _du mi vida_.** - On jest człowiekiem_, którego widziałem_.
+> **ye si man _da mi wida_.** - On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-> **mi vida man _du nyama apel_.** - Widzę człowieka_, który je jabłka_.
+> **mi wida man _da nyama apel_.** - Widzę człowieka_, który je jabłka_.
 
-Można też tworzyć zdania podrzędne używają **da**. Wtedy zdanie podrzędne poprzedza rzeczownik opisywany. Czasownik jest zamieniane w imiesłów przez umieszczanie **da** od razu po nim.
+Można też tworzyć zdania podrzędne używają **du**. Wtedy zdanie podrzędne poprzedza rzeczownik opisywany. Czasownik jest zamieniane w imiesłów przez umieszczanie **du** od razu po nim.
 
-> **mi vida _apel nyamu da_ man.** - Widzę _jedzącego jabłka_ człowieka.
+> **mi wida _apel nyamu du_ man.** - Widzę _jedzącego jabłka_ człowieka.
 
 > **buke dugu ya ren na kamer.** = Czytająca książki osoba jest w pokoju.
 > **ye duga ya buke na meza.** = Przez niego/nią czytana książka jest na stole.
@@ -824,7 +824,7 @@ Jest garść czasowników pojawiających się bez zakończenia. Są jednymi z na
 
 Dynamiczne czasowniki kończą się na **-a** i **-u**. Z wąskiej perspektywy zdania składającego się tylko z podmiotu i orzeczenia, można powiedzieć, że **-a** oznacza czasownik czynny, a **-u** oznacza czasownik bierny, więc **loga** znaczy _mówić_, a **logu** znaczy _być mówionym_.
 
-1. Jeśli rdzeń jest czynnością, jego forma czasownikowa będzie znaczyła "wykonać czynność". Na przykład z **wide** = "spojrzenie" otrzymujemy **vida** = "patrzeć".
+1. Jeśli rdzeń jest czynnością, jego forma czasownikowa będzie znaczyła "wykonać czynność". Na przykład z **wide** = "spojrzenie" otrzymujemy **wida** = "patrzeć".
 2. Jeśli rdzeń jest opisem, jak **now-** (**nowi** = nowy), jego forma czasownikowa będzie miała znaczenie "nadawać tę czynnośc". Na przykład z **nowi** = "nowy" otrzymujemy **nowa** = "czynić nowym" lub "odnowić".
 
 
@@ -998,19 +998,19 @@ Formuła opisu nadal daje sensowne (choć oczywiste) zdania. Formuły wytwarzani
 
 Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
-Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **mi vida tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
+Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **mi wida tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
 
-    mi vida tu.
+    mi wida tu.
 
-       vida
+       wida
       ┌─┴─┐
      mi   tu
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi vida sam jowan ren.
+    mi wida sam jowan ren.
 
-       vida
+       wida
       ┌─┴──┐
      mi   ren
            |
@@ -1021,7 +1021,7 @@ Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
 
 1. Spójniki: i, u, a
-2. Łączniki: da, du
+2. Łączniki: du, da
 3. Przyimki: na, ko, ze
 4. Czasowniki
 5. Rzeczowniki i zaimki

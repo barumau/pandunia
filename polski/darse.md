@@ -21,9 +21,9 @@ Przedstawianie się
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **ye si mi ya doste** tematem jest zaimek **ye** (on, ona, ono), za którym podąrza komentarz **si mi ya doste** (jest moim przyjacielem).
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **le si mi doste** tematem jest zaimek **le** (on, ona, ono), za którym podąrza komentarz **si mi doste** (jest moim przyjacielem).
 
-Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
+Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **ni** (które jest słowem na _nie_).
 
 **le si sarah.**
 = Ona jest Sarą.  
@@ -55,7 +55,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **le** on, ona lub ono. **li** jego lub jej.  
 **ke** co lub kto.  
 **si** być (jestem, jesteś, jest, itd)
-**si** tak. **no** nie.  
+**si** tak. **ni** nie.  
 **bon** dobry, dobrze. **doste** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
 **maw** kot. **hewan** zwierzę.
@@ -93,11 +93,11 @@ Forma czasownikowa **salam** to **salama**, znaczące "pozdrawiać".
 **te salama me.**
 = Pozdrawiasz mnie.
 
-To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W **mi salama tu** pierwsze słowo, **mi**, jest podmiotem, **salama** jest orzeczeniem (słowem-czynnością), a **tu** jest dopełnieniem. Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
+To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W **me salama te** pierwsze słowo, **me**, jest podmiotem, **salama** jest orzeczeniem (słowem-czynnością), a **te** jest dopełnieniem. Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
 
 > Kolejność słów w zdaniu czynnym: Podmiot + Orzeczenie + Dopełnienie
 
-W Panduni zaimki osobowe to: **mi** = ja, **tu** = ty, i **ye** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
+W Panduni zaimki osobowe to: **me** = ja, **te** = ty, i **le** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
 
 W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
 
@@ -108,7 +108,7 @@ W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w da
 > **salama!**
 = Pozdrowienia! (To oczywiste, że słuchacze są pozdrawiania.)
 
-Wzór w **salam tu** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
+Wzór w **salam te** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
 
 **salam toni!**
 = Cześć, Tony!  
@@ -160,9 +160,9 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 = Cześć! Proszę, usiądź!  
 ☻: **danke.**
 = Dziękuję.  
-☺: **plisa nyama kafe u cay.**
+☺: **plisa niama kafe u cay.**
 = Proszę, napij się kawy lub herbaty.  
-☻: **me nyama cay. danke.**
+☻: **me niama cay. danke.**
 = Napiję się herbaty, dziękuję.  
 ...  
 ☺: **plisa salama ti mame!**
@@ -193,7 +193,7 @@ Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówi�
 **plisa salama le.**
 = Proszę, pozdrów go/ją.
 
-Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+Zdanie **plisa salama le** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
 **plisa sida.**
 = Proszę, usiąść.  
@@ -201,7 +201,7 @@ Zdanie **plisa salama ye** ma użyteczny wzór, użyteczny przy grzecznych proś
 = Proszę, podaj kawę.  
 **plisa dona cay.**
 = Proszę, podaj herbatę.  
-**plisa nyama cay.**
+**plisa niama cay.**
 = Proszę, pij herbatę.  
 **plisa safa kamar.**
 = Proszę, sprzątaj pokój.
@@ -232,16 +232,16 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **nyama** jeść lub pić.
+**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **niama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. le nyama cay.
+1. le niama cay.
 2. xefe plisa le sida.
-3. plisa nyama kafe u cay.
+3. plisa niama kafe u cay.
 4. mame plisa me safa kamar.
-5. xefe sida i nyama kafe.
+5. xefe sida i niama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -252,17 +252,17 @@ Pytania "tak lub nie"
 
 ### Dialog
 
-☻: **salam! eska tu nyama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
+☻: **salam! eska te niama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
 ☺: **cay.** = Herbatę.  
-☻: **i tu?** = A pan?  
-○: **mi no baxa pandunia...** = Nie mówię w Panduni...  
-☻: **sori! eska ye nyama cay?** = Przepraszam! Czy napije się herbaty?  
-☺: **no. ye no nyama cay. ye nyama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
-☻: **eska tu nyama supe?** = Czy zje pan zupę?  
-☺: **nyama.** = Tak. (_Jem._)  
-☻: **eska ye nyama supe?** = Czy on zje zupę?  
-☺: **no nyama.** = Nie.  
-☻: **danke. mi dona un cay i un kafe i un supe na bade du des minut.**
+☻: **i te?** = A pan?  
+○: **me ni baxa pandunia...** = Nie mówię w Panduni...  
+☻: **pardon! eska le niama cay?** = Przepraszam! Czy napije się herbaty?  
+☺: **ni. le ni niama cay. le niama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
+☻: **eska te niama supe?** = Czy zje pan zupę?  
+☺: **niama.** = Tak. (_Jem._)  
+☻: **eska le niama supe?** = Czy on zje zupę?  
+☺: **ni niama.** = Nie.  
+☻: **danke. me dona un cay i un kafe i un supe na bade da des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -270,43 +270,43 @@ Pytania "tak lub nie"
 
 Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **plisa**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
-> **mi eska tu nyama cay.** = Ja pytam cię, czy napijesz się herbaty.  
-> **eska tu nyama cay?** = Czy pijesz herbatę?  
-> **eska nyama cay?** = Czy pić herbatę?
+> **me eska te niama cay.** = Ja pytam cię, czy napijesz się herbaty.  
+> **eska te niama cay?** = Czy pijesz herbatę?  
+> **eska niama cay?** = Czy pić herbatę?
 
 Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi. Dlatego drugi ziamek jest zazwyczaj potrzebny. Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
 
-> **eska ye nyama cay?** = Czy on/ona pije herbatę?  
-> **eska tu nyama supe?** = Czy jesz zupę?  
-> **eska mimen nyama suy?** = Czy pijemy wodę?
+> **eska le niama cay?** = Czy on/ona pije herbatę?  
+> **eska te niama supe?** = Czy jesz zupę?  
+> **eska mimen niama suy?** = Czy pijemy wodę?
 
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
-> **eska xefe nyama kafe?** = Czy szef pije kawę?  
+> **eska xefe niama kafe?** = Czy szef pije kawę?  
 > **eska papá safa kamar?** = Czy ojciec sprząta pokój?  
 > **eska niki baxa pandunia?** = Czy Nicky mówi Pandunia?
 
 
 ### Dawanie odpowiedzi
 
-Na pytania tak/nie można odpowiadać słowami **si** = tak, i **no** = nie.
+Na pytania tak/nie można odpowiadać słowami **si** = tak, i **ni** = nie.
 
-> – **eska tu nyama supe?** = Czy jesz zupę?  
+> – **eska te niama supe?** = Czy jesz zupę?  
 > – **si.** = Tak.  
-> – **eska ye nyama supe?** = Czy ona je zupę?  
-> – **no.** = Nie.
+> – **eska le niama supe?** = Czy ona je zupę?  
+> – **ni.** = Nie.
 
 Można odpowiadać też bardziej złożenie.
 
-> – **eska tu nyama kafe?** = Czy pijesz kawę?  
-> – **si. mi nyama kafe.** = Tak, piję kawę.  
-> – **eska ye nyama kafe?** = Czy on pije kawę?  
-> – **no. ye no nyama kafe.** = Nie, on nie pije kawy.
+> – **eska te niama kafe?** = Czy pijesz kawę?  
+> – **si. me niama kafe.** = Tak, piję kawę.  
+> – **eska le niama kafe?** = Czy on pije kawę?  
+> – **ni. le ni niama kafe.** = Nie, on nie pije kawy.
 
 Można też odpowiadadać twierdząco powtarzając główny czasownik z pytania.
 
-> – **eska tu nyama suy?** = Czy pijesz wodę?  
-> – **nyama.** = (Tak,) piję.
+> – **eska te niama suy?** = Czy pijesz wodę?  
+> – **niama.** = (Tak,) piję.
 
 
 ### Ćwiczenia
@@ -324,17 +324,17 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista Słów
 
-**bada** po. **sori** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **eska** zapytać, pytać. **si** tak.
+**bada** po. **pardon** przepraszam, pardon. **minut** minuta. **ni** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **eska** zapytać, pytać. **si** tak.
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. eska tu baxa pandunia?
-2. si. mi baxa pandunia.
-3. eska mamá nyama kafe?
-4. no. ye no nyama kafe.
-5. eska ye nyama supe?
-6. (ye) no nyama.
+1. eska te baxa pandunia?
+2. si. me baxa pandunia.
+3. eska mamá niama kafe?
+4. ni. le ni niama kafe.
+5. eska le niama supe?
+6. (le) ni niama.
 
 
 --------------------------------------------------------------------------------
@@ -342,24 +342,24 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 Mówienie nie
 ---------
 
-W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. Słowo **no** jest używane do przeczenia. Dodawanie **no** przed czasownikiem zamienia zdanie twierdzące w przeczące.
+W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **ni** na pytania. Słowo **ni** jest używane do przeczenia. Dodawanie **ni** przed czasownikiem zamienia zdanie twierdzące w przeczące.
 
-> **mi salama tu.** = Pozdrawiam cię.  
-> **mi no salama tu.** = Nie pozdrawiam cię.
+> **me salama te.** = Pozdrawiam cię.  
+> **me ni salama te.** = Nie pozdrawiam cię.
 
-Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no salama tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
+Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me ni salama te**, przeczące słowo **ni** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **mi plisa tu safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **mi no plisa tu safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **mi plisa tu no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **me plisa te safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **me ni plisa te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **me plisa te ni safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **ye no tena maw.** = Ona nie ma koty.  
-> **ye tena no maw, lova waf.** = Ona ma nie koty, ale psy.  
-> **no ye, a mi tena maw.** = Nie ona, ale ja mam koty.  
-> **mi tena no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
+> **le ni tena maw.** = Ona nie ma koty.  
+> **le tena ni maw, lova waf.** = Ona ma nie koty, ale psy.  
+> **ni le, a me tena maw.** = Nie ona, ale ja mam koty.  
+> **me tena ni un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -381,12 +381,12 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Odpowiedzi do Ćwiczeń
 
-1. ye no safa kamar.
-2. un kupe no hali.
-3. dua waf no nyama supe.
-4. ye no tena waf i maw. / ye tena no waf i no maw.
-5. xefe nyama cay a no kafe.
-6. mamá tena no waf a do maw.
+1. le ni safa kamar.
+2. un kupe ni hali.
+3. dua waf ni niama supe.
+4. le ni tena waf i maw. / le tena ni waf i ni maw.
+5. xefe niama cay a ni kafe.
+6. mamá tena ni waf a do maw.
 
 
 <!--
@@ -398,23 +398,23 @@ Więcej pytań
 
 Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek **ke**. Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
-> **ye si ke?** = Cot to jest? / Kim on/ona jest?
+> **le si ke?** = Cot to jest? / Kim on/ona jest?
 > **ke ren lai?** = Kto przychodzi? (**ren** = osoba)  
-> **ke zaman tu nyama?** = Kiedy jesz? (**zaman** = czas)  
+> **ke zaman te niama?** = Kiedy jesz? (**zaman** = czas)  
 > **ki yang dansa?** = Jak tańczyć? (**yang** = sposób, styl)
 
 W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **koz ke**.
 
-> **tu suku maw koz ke?** = Dlaczego lubisz koty?
+> **te suku maw koz ke?** = Dlaczego lubisz koty?
 
 Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **koz** przed przyczyną lub powodem. **koz** jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
-> **tu suku maw koz ke?** = Dlaczego lubisz koty?  
+> **te suku maw koz ke?** = Dlaczego lubisz koty?  
 > **koz yemen kaway.** = Ponieważ są słodkie.
 
 Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-> **mi suku maw koz yemen kaway.** = Lubię koty, bo są słodkie.
+> **me suku maw koz yemen kaway.** = Lubię koty, bo są słodkie.
 
 ### Ćwiczenia
 
@@ -436,10 +436,10 @@ Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu 
 
 1. ke ren suku supe?
 2. papá suku.
-3. ke zam ye lai?
+3. ke zam le lai?
 4. na des minut bada.
-5. ye no nyama koz ke?
-6. koz (ye) no suku kafe u supe.
+5. le ni niama koz ke?
+6. koz (le) ni suku kafe u supe.
 
 -->
 
@@ -451,9 +451,9 @@ Przeszłość, teraźniejszość i przyszłość
 
 ### Wyrażanie czasu
 
-Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **mi nyama pan** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
+Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **me niama pang** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
 
-> **mi nyama pan na suba nyam.** = Zjadłem chleb na poranny posiłek.
+> **me niama pang na suba niam.** = Zjadłem chleb na poranny posiłek.
 
 Istnieją też konkretne słowa opisujące czas.
 
@@ -468,38 +468,38 @@ Istnieją też konkretne słowa opisujące czas.
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zay** i **futur**. Mogą być używane do modyfikowania rzeczowników.
 
-> **sarah si mi ya pas xefe.** = Sara jest moim byłym szefem.  
-> **yusef si mi ya zay xefe.** = Yusef jest moim obecnym szefem.  
-> **maria si mi ya futur xefe.** = Maria jest moim przyszłym szefem.
+> **sarah si mi pas xefe.** = Sara jest moim byłym szefem.  
+> **yusef si mi zay xefe.** = Yusef jest moim obecnym szefem.  
+> **maria si mi futur xefe.** = Maria jest moim przyszłym szefem.
 
 Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
 
-> **mi pas darba ye.** = Uderzyłem to (w przeszłości).  
-> **mi zay darba ye.** = Uderzam to (teraz).  
-> **mi futur darba ye.** = Uderzę to (w przeszłości).
+> **me pas darba le.** = Uderzyłem to (w przeszłości).  
+> **me zay darba le.** = Uderzam to (teraz).  
+> **me futur darba le.** = Uderzę to (w przeszłości).
 
 Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu.
 
-> **mi darba ye pas.**  
-> **mi darba ye zay.**  
-> **mi darba ye futur.**
+> **me darba le pas.**  
+> **me darba le zay.**  
+> **me darba le futur.**
 
 
 Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-> **mi pas tena un maw.** = Miałem jednego kota w przeszłości.  
-> **ye bon maw.** = To był dobry kot.  
-> **mi tena un waf zay.** = Mam teraz jedneg psa.
+> **me pas tena un maw.** = Miałem jednego kota w przeszłości.  
+> **le bon maw.** = To był dobry kot.  
+> **me tena un waf zay.** = Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
-> **mi jenu na nen 2003.** = Urodziłem się w 2003. roku.  
-> **ye safa kamar na badi den.** = Posprząta pokój jutro.
+> **me jenu na nen 2003.** = Urodziłem się w 2003. roku.  
+> **le safa kamar na badi den.** = Posprząta pokój jutro.
 
 
 ### Lista słów
 
-**pas** przeszły, były. **zay** teraźniejszy, obecny. **futur** przyszły. **darba** uderzyć, bić. **pan** chleb. **suba nyam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
+**pas** przeszły, były. **zay** teraźniejszy, obecny. **futur** przyszły. **darba** uderzyć, bić. **pang** chleb. **suba niam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
 
 ### Ćwiczenia
 
@@ -514,11 +514,11 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Odpowiedzi do Ćwiczeń
 
-1. mi ya xefe festa futur.
-2. mi tena do waf pas.
-3. tu nyama supe zay.
-4. ye safa kamar na befo den.
-5. maw nyama kafe na badi den.
-6. tu ya mamá festa na befo noce.
+1. mi xefe festa futur.
+2. me tena dul waf pas.
+3. te niama supe zay.
+4. le safa kamar na befo den.
+5. maw niama kafe na badi den.
+6. te ya mamá festa na befo noce.
 
 

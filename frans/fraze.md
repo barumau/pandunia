@@ -326,18 +326,18 @@ C'est rouge.
 
 
 
-### da <small>possessif</small>
+### du <small>possessif</small>
 
-**le si me da mame.**
+**le si me du mame.**
 C’est ma mère.
 
-**le si me da man.**
+**le si me du man.**
 C’est mon mari (mon homme).
 
-**le si me da fem.**
+**le si me du fem.**
 C’est ma femme.
 
-**me si sarah da doste.**
+**me si sarah du doste.**
 Je suis l’ami de Sara.
 
 
@@ -638,7 +638,7 @@ Je peux parler un peu pandunia.
 **me ni abla engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni abla te da bax.**
+**pardon. me ni abla te du bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -675,7 +675,7 @@ Parlez plus fort, s’il vous plait.
 **me auda musike.**
 J’écoute de la musique.
 
-**te auda ki yang da musike?**
+**te auda ki yang du musike?**
 Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -700,9 +700,9 @@ Je l’ai vu(e) hier.
 Que veut dire ce mot ?
 
 **"maw" mena ke?**
-Que signifie « mau » ?
+Que signifie « maw » ?
 
-**le mena yang du hewan.**
+**le mena yang da hewan.**
 Ça signifie un genre d’animal.
 
 **me ni aha le mena ke.**
@@ -732,7 +732,7 @@ Est-ce que tu parles anglais ?
 **fransi, espani, portugali, rusi**
 français, espagnol, portugais, russe
 
-**cini, nipon, indonesi**
+**cini, niponi, indonesi**
 chinois, japonas, indonésien
 
 **arabi, turki, farsi, urdi, hindi**
@@ -918,7 +918,7 @@ C’est nouveau ?
 **ke si max bon?**
 Lequel est mieux ?
 
-**ce si maxim bon (da pan).**
+**ce si maxim bon (du pan).**
 C’est le meilleur (de tous).
 
 

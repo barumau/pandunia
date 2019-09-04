@@ -191,9 +191,9 @@ Les réponses correctes sont données plus bas.
 = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.**
 = Merci.  
-☺: **plisa nyama kafe u cay.**
+☺: **plisa niama kafe u cay.**
 = Prenez du thé ou du café, je vous prie
-☻: **me nyama cay. danke.**
+☻: **me niama cay. danke.**
 = Je prends du thé, merci.  
 ...
 ☺: **plisa salama ti mame!**
@@ -256,7 +256,7 @@ formules de politesses.
 = S'il vous plaît, donnez-moi du café.  
 **plisa dona cay.**
 = S'il vous plaît, donnez-moi du thé. 
-**plisa nyama cay.**
+**plisa niama cay.**
 = S'il vous plaît, prenez un peu de thé.  
 **plisa safa kamar.**
 = Nettoyez la chambre s'il vous plaît
@@ -300,16 +300,16 @@ Essayez de traduire ces phrases du Français au Pandunia.
 **u** ou.
 **safa** nettoyer.
 **sida** s'asseoir (être assis).
-**nyama** manger ou boire, consommer.
+**niama** manger ou boire, consommer.
 
 
 ### Réponses aux exercices
 
-1. le nyama cay.
+1. le niama cay.
 2. xefe plisa le sida.
-3. plisa nyama kafe u cay.
+3. plisa niama kafe u cay.
 4. mame plisa me safa kamar.
-5. xefe sida i nyama kafe.
+5. xefe sida i niama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -320,7 +320,7 @@ Questions par oui ou par non
 
 ### Dialogue
 
-☻: **salam! eska te nyama kafe u cay?**
+☻: **salam! eska te niama kafe u cay?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 ☺: **cay.**
 = Du thé.  
@@ -328,19 +328,19 @@ Questions par oui ou par non
 = Et vous ?  
 ○: **me ni baxa pandunia...**
 = Je ne parle pas le Pandunia...  
-☻: **pardon! eska le nyama cay?**
+☻: **pardon! eska le niama cay?**
 = Pardon ! prend-il du thé ?  
-☺: **ni. le ni nyama cay. le nyama kafe.**
+☺: **ni. le ni niama cay. le niama kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
-☻: **eska te nyama supe?**
+☻: **eska te niama supe?**
 = Prenez-vous de la soupe ?  
-☺: **nyama.**
+☺: **niama.**
 = Oui. (_J'en prends._)  
-☻: **eska le nyama supe?**
+☻: **eska le niama supe?**
 = Prend-il de la soupe ?  
-☺: **ni nyama.**
+☺: **ni niama.**
 = Non.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade du des minute.**
+☻: **danke. me dona un cay i un kafe i un supe sa bade da des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
@@ -350,11 +350,11 @@ Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **plisa **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-**me eska te nyama cay.**
+**me eska te niama cay.**
 = Je vous demande si vous buvez du thé.  
-**eska te nyama cay?**
+**eska te niama cay?**
 = Buvez-vous du thé ?  
-**eska nyama cay?**
+**eska niama cay?**
 = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs,
@@ -363,16 +363,16 @@ Par conséquent, le deuxième pronom est habituellement nécessaire. Il
 peut être omis seulement quand on a identifié qui est le sujet de la
 discussion.
 
-**eska le nyama cay?**
+**eska le niama cay?**
 = Est-ce qu'il ou elle prend du thé ?  
-**eska te nyama supe?**
+**eska te niama supe?**
 = Prenez-vous de la soupe ?  
-**eska mome nyama suy?**
+**eska mome niama suy?**
 = Buvons-nous de l'eau minérale ?
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
-**eska xefe nyama kafe?**
+**eska xefe niama kafe?**
 = Est-ce que le chef prend du café ?  
 **eska pape safa kamar?**
 = Le père nettoie-t-il la chambre ?  
@@ -385,32 +385,32 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 On peut répondre aux questions fermées (deux réponses possibles oui
 ou non) par **si** = oui et **ni** = non.
 
-– **eska te nyama supe?**
+– **eska te niama supe?**
 = Manges-tu de la soupe ?  
 – **si.**
 = Oui.  
-– **eska le nyama supe?**
+– **eska le niama supe?**
 = Mange-t-elle de la soupe ?  
 – **ni.**
 = Non.
 
 Des réponses plus complètes peuvent également être apportées.
 
-– **eska te nyama kafe?**
+– **eska te niama kafe?**
 = Bois-tu du café ?  
-– **si. me nyama kafe.**
+– **si. me niama kafe.**
 = Oui, je bois du café .  
-– **eska le nyama kafe?**
+– **eska le niama kafe?**
 = Boit-il du café ?  
-– **ni. le ni nyama kafe.**
+– **ni. le ni niama kafe.**
 = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant
 le verbe principal de la question.
 
-– **eska te nyama suy?**
+– **eska te niama suy?**
 = Bois-tu de l'eau ?  
-– **nyama.**
+– **niama.**
 = (Oui) j'en bois.
 
 
@@ -446,10 +446,10 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
-3. eska mame nyama kafe?
-4. ni. le ni nyama kafe.
-5. eska le nyama supe?
-6. (le) ni nyama.
+3. eska mame niama kafe?
+4. ni. le ni niama kafe.
+5. eska le niama supe?
+6. (le) ni niama.
 
 
 --------------------------------------------------------------------------------
@@ -521,9 +521,9 @@ Parfois, il y a plus d'une bonne réponse.
 
 1. le ni safa kamar.
 2. un kupe ni hali.
-3. dul waf ni nyama supe.
+3. dul waf ni niama supe.
 4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe nyama cay a ni kafe.
+5. xefe niama cay a ni kafe.
 6. mame tena ni waf a dul maw.
 
 
@@ -541,7 +541,7 @@ si nécessaire.
 = Qu'est-ce que c'est ? / Qui est-il/elle ?  
 **ki ren laya?**
 = Qui vient ? (**ren** = personne)  
-**ki zaman te nyama?**
+**ki zaman te niama?**
 = Quand manges-tu ? (**zaman** = temps)  
 **ki yang dansa?**
 = Comment danser ? (**yang** = manière, style)
@@ -595,7 +595,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade du des minute.
-5. ke saba le ni nyama?
+5. ke saba le ni niama?
 6. sabu le ni suku kafe u supe.
 
 --------------------------------------------------------------------------------
@@ -612,12 +612,12 @@ seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 = Je le frappe / je l'ai frappé.
 
 En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
-**me nyama pang** peut signifier à la fois "Je mange du pain" et
+**me niama pang** peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**me nyama pang sa subi nyam.**
+**me niama pang sa subi niam.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
@@ -688,6 +688,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 4. Elle a nettoyé la chambre la veille.
 5. Le chat boira du café demain.
 6. Ta mère a fait la fête hier soir.
+
 ### Liste de mots
 
 **pas** passé, ancien.
@@ -695,15 +696,15 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 **wil** futur.
 **darba** frapper, battre.
 **pang** pain.
-**subi nyam** repas du matin, petit-déjeuner.
+**subi niam** repas du matin, petit-déjeuner.
 
 ### Réponses aux exercices
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te nyama supe zay.
+3. te niama supe zay.
 4. le safa kamar sa predi den.
-5. maw nyama kafe sa badi den.
+5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 
