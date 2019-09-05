@@ -29,36 +29,85 @@ tenses).
 
 --------------------------------------------------------------------------------
 
-## 1. The basic rules
+## 1. Overview
 
-These are the 11 basic rules of Pandunia language.
+### 1.1. Word classes
+
+A word class is a group of words that have similar forms and similar use in sentences.
+In Pandunia, the word class is often indicated by the ending, especially the last vowel, of a word.
+For example, most words that end in **-a** are used as verbs in sentences.
+
+The two major families of word classes are content words and function words.
+...
+
+In Pandunia, the main classes of content words are: nouns, verbs and modifiers;
+and the main classes of function words are: pronouns, determiners, prepositions and postpositions.
+
+The vowel endings indicate the classes of content words as follows:
+
+- **-e** indicates a noun
+- **-i** indicates a modifier
+- **-a** indicates a forward verb
+- **-u** indicates a backward verb
+
+For example, **log-** is the stem for the noun **loge** (_speech_), the modifier **logi** (_spoken_ or _oral_ or _orally_),
+the forward verb **loga** (_to speak_), and the backward verb **logu** (_to be spoken_).
+
+The same vowel endings are used also in function words,
+and they indicate the classes of function words as follows:
+
+- **-e** indicates a pronoun
+- **-i** indicates a determiner
+- **-a** indicates a preposition
+- **-u** indicates a postposition
+
+For example, **m-** is the stem for the pronoun **me** (_I_) and the determiner **mi** (_my_).
+
+Cardinal numerals don't have any vowel ending.
+
+Proper names are considered to be independent of the stem-and-suffix system in Pandunia.
+That's why they don't always have the normal word class endings.
+For example, the name of a person called _Marie_ can be **mari** in Pandunia,
+and the word shall function as a noun and not as a modifier unlike the form of the word indicates.
+Obviously, this can be confusing.
+That's why it is recommended that names are modified to use the normal noun endings
+or to take the honorary suffix **san** as in **mari-san**.
+
+
+### 1.1. The basic rules
+
+These are the ten basic rules of Pandunia language.
+They are described in more detail later in this document.
 
 1. The spelling follows the pronunciation exactly.
-2. The stress is placed on the syllable before the last consonant of
-   the word.
-3. Nouns have a single, unchanging form.
-4. The adjectives and the adverb have the same form. They come before
-   the word that they modify. Frequently adjectives end in **-i**.
-    - ex. 1. **bon pang** = Good bread.
-    - ex. 2. **te bon loga.** = You speak well.
-5. Compound words are formed by putting words side by side. Linking
-   vowel **-o-** is inserted between the elements.
-    - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
-6. Verbs that end in -a indicate subject-verb-object word order.
-    - ex. **me niama pang.** = I eat bread.
-7. Verbs that end in -u indicate object-verb-subject word order.
-    - ex. **pang niamu.** = The bread is eaten.
-8. The verbs do not change for person or number.
-9. In the _pivot structure_, the object of the transitive verb
-   functions as the subject of the next verb.
-    - ex. **me plisa te dona pese.** = I ask you to give money.
-10. Pronouns can be left out when they are obvious and redundant.
+2. The stress is placed on the syllable before the last consonant of the word.
+3. Words consist of a stem and one or more suffixes.
+   Word classes are indicated by endings.
+   - Modifiers end in **-i**, ex. **nowi** = new.
+   - Forward verbs end in **-a**, ex. **me loga** = I speak.
+   - Backward verbs end in **-u**, ex. **le logu** = It is spoken.
+   - Nouns end in **-e**, **-ia** or zero.
+4. Nouns have a single, unchanging form.
+5. The adjectives and the adverb have the same form.
+   Together they are called modifiers.
+   They come before the word that they modify.
+   All modifiers, except the most common few, end in **-i**.
+    - ex. 1. **rapi loge** = A fast talk.
+    - ex. 2. **te rapi loga.** = You talk fast.
+6. The verb ending -a indicates that the causer of the action is before the verb.
+    - ex. **me niama aple.** = I eat apples.
+7. The verb ending -u indicates that the recipient of the action is before the verb.
+    - ex. **aple niamu.** = Apples are eaten.
+8. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
+    - ex. **me plisa te dona pes.** = I ask you to give money.
+9. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
     - **me plisa te loga ming.** →  **plisa loga ming.** = Please speak
       clearly.
-11. Derived words carry an ending. Adjectives end in -i, nouns end in
-    -e, and verbs end in -a or -u.
+10. Compound words are created by putting the element words side by side.
+   The linking vowel **-o-** is inserted between the elements.
+    - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
 
 --------------------------------------------------------------------------------
 
@@ -66,68 +115,81 @@ These are the 11 basic rules of Pandunia language.
 
 ### 2.1. Uninflected
 
-A noun is a word that names a thing. Like all words in Pandunia, nouns
-are invariant. So the same form is used in singular and plural, in
-definite and indefinite, etc.
+A noun is a word that names a thing.
+Like all words in Pandunia, nouns are invariant.
+So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**petre** - a stone, stones, the stone or the stones  
-**meze** - a table, tables, the table or the tables  
-**kurse** - a chair, chairs, the chair or the chairs  
-**suy** - water
+**petre**
+– a stone, stones, the stone or the stones  
+**meze**
+– a table, tables, the table or the tables  
+**kurse**
+– a chair, chairs, the chair or the chairs  
+**suy**
+– water
 
-Quite often number and definiteness is known because it was specified
-earlier or because it is general knowledge. For example, normally the
-word **sol** refers to _the sun_ and **lun** refers to _the moon_, our
-only sun and our only moon.
+Number and definiteness are often known because they were specified earlier in the discussion or because they are general knowledge.
+For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
 
 ### 2.2. Number
 
-Nouns are unaffected by number, i.e. nouns have the same form in
-singular and plural. Number can be mentioned with number words when
-it is needed.
+Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
+Number can be mentioned with number words when it is needed.
 
-**kurse** - a chair or chairs  
-**un kurse** - one chair  
-**dul kurse** - two chairs  
-**tin kurse** - three chairs  
-**pol kurse** - many chairs; chairs
+**kurse**
+– a chair or chairs  
+**un kurse**
+– one chair  
+**dul kurse**
+– two chairs  
+**tin kurse**
+– three chairs  
+**pol kurse**
+– many chairs; chairs
 
 
 ### 2.3. Gender
 
-Pandunia doesn't have grammatical gender (i.e. masculine, feminine
-and/or neuter categories).
+Pandunia doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
 
-Some words carry _natural gender_. For example **fem** (woman) is
-feminine and **man** (man) is masculine.
+Some words have _natural gender_.
+For example **fem** (woman) is feminine and **man** (man) is masculine.
 
 --------------------------------------------------------------------------------
 
 ## 3. Modifiers
 
-A modifier is a word that adds some quality or description to the
-thing denoted by another word, ex. good, bad, big, fast.
+A modifier is a word that adds some quality or description to another word,
+for example good, bad, big, and fast.
 
 ### 3.1. Modifying a noun
 
-An adjective is a word that adds a particular quality for a noun. In
-Pandunia an adjective is a modifier that is before a noun.
+An adjective is a word that adds a particular quality for a noun.
+In Pandunia, an adjective is a modifier that is before a noun.
 
-**day petre** - big stone
-**bari petre** - heavy stone  
-**day meze** - big table  
-**gaw meze** - high table  
-**bon kurse** - good chair
+**nowi kar**
+– new car(s)  
+**rapi kar**
+– fast car(s)  
+**day meze**
+– big table(s)  
+**gaw meze**
+– high table(s)  
+**bon kurse**
+– good chair(s)
 
-When adjective can be also after the noun. Often this type of phrases
-can be read as complete sentences, where the verb _to be_ is implied.
+When adjective can be also after the noun.
+Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-**petre day.** - The stone is big.  
-**meze gaw.** - The table is high.
+**kar nowi.**
+– The car is new.  
+**bagre rapi.**
+– The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**day meze gaw.** - Big table is high.
+**nowi kar rapi.**
+– The new car is fast.
 
 ### 3.2 Modifying a verb
 
@@ -136,25 +198,34 @@ An adverb is a word that modifies a verb or another modifier.
 In Pandunia an adverb is a modifier that is before a verb or at the
 end of the sentence.
 
-> **me _bon_ sona.** - I well sleep.  
-> **me sona _bon_.** - I sleep _well_.  
-> **te baxa pandunia _bon_.** - You speak Pandunia _well_.
+**me _bon_ sona.**
+– I well sleep.  
+**me sona _bon_.**
+– I sleep _well_.  
+**te baxa pandunia _bon_.**
+– You speak Pandunia _well_.
 
 ### 3.3. Modifying another modifier
 
-A modifier can modify also another modifier. For example **day** (big)
-and **lil** (little) can be used as intensifying adverbs.
+A modifier can modify also another modifier.
+For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-> **day ren** - big person  
-> **lil ren** - little person  
-> **sundar ren** - beautiful person
+**day ren**
+– a big person  
+**lil ren**
+– a little person  
+**sundar ren**
+– a beautiful person
 
-> **day sundar ren** - very beautiful person  
-> **lil sundar ren** - somewhat beautiful person
+**day sundar ren**
+– very beautiful person  
+**lil sundar ren**
+– somewhat beautiful person
 
 The modifiers can be separated by using **i** (and).
 
-> **lil i sundar ren** - a little and beautiful person
+**lil i sundar ren**
+– a little and beautiful person
 
 ### 3.4. Comparison
 
@@ -176,13 +247,13 @@ comparison.
 
 #### 3.6. Modifier ending
 
-Adjectives end in **-i** by default. The ending is used always with
-words that are derived from action roots and thing roots. Ex. **logi**
-_oral, spoken_, **suki** _happy_, **kitabi** _written, textual_.
+Adjectives end in **-i** by default.
+The ending is used always with words that are derived from action roots and thing roots.
+Ex. **logi** _oral, spoken_, **suki** _happy_, **kitabi** _written, textual_.
 
-The ending is not applied to description roots that end in a single
-consonant that is easy to pronounce. Ex. **bon** _good_, **sundar**
-_beautiful_.
+The ending is not used in a handful of description roots that end in a single consonant
+that is easy to pronounce.
+Ex. **bon** (_good_), **day** (_big_), and **lil** (_small_).
 
 --------------------------------------------------------------------------------
 
