@@ -1,6 +1,8 @@
 # Grammar
 
-## 0. Introduction
+## 1. Overview
+
+### 1.1. Introduction
 
 This grammar deals with the types of words and word order patterns in
 Pandunia.  However, it's possible to learn Pandunia without reading
@@ -27,11 +29,7 @@ items (words that have meaning, like "book" or "eat"), and very little
 involves purely grammatical ideas (like singular vs. plural and
 tenses).
 
---------------------------------------------------------------------------------
-
-## 1. Overview
-
-### 1.1. Word classes
+### 1.2. Word classes
 
 A word class is a group of words that have similar forms and similar use in sentences.
 In Pandunia, the word class is often indicated by the ending, especially the last vowel, of a word.
@@ -74,7 +72,7 @@ That's why it is recommended that names are modified to use the normal noun endi
 or to take the honorary suffix **san** as in **mari-san**.
 
 
-### 1.1. The basic rules
+### 1.3. The basic rules
 
 These are the ten basic rules of Pandunia language.
 They are described in more detail later in this document.
@@ -82,7 +80,7 @@ They are described in more detail later in this document.
 1. The spelling follows the pronunciation exactly.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Words consist of a stem and one or more suffixes.
-   Word classes are indicated by endings.
+   The last suffix indicates the word class to which the word belongs.
    - Modifiers end in **-i**, ex. **nowi** = new.
    - Forward verbs end in **-a**, ex. **me loga** = I speak.
    - Backward verbs end in **-u**, ex. **le logu** = It is spoken.
@@ -259,28 +257,35 @@ Ex. **bon** (_good_), **day** (_big_), and **lil** (_small_).
 
 ## 4. Numerals
 
-Sometimes it is known from the context how many objects are spoken
-about. For example, the word **sol** (sun) normally refers to just one
-sun because there is only one.
+Quantity can be expressed with numerals and other quantity-words.
+They are put before the word or phrase that they qualify.
 
-Quantity can be expressed with numerals and other quantity-words. They
-are put before the word or phrase that they qualify.
+**un xing**
+– one star  
+**dul xing**
+– two stars  
+**tin xing**
+– three stars  
+**xaw xing**
+– few stars  
+**pol xing**
+– many stars
 
-**un xing** - one star  
-**dul xing** - two stars  
-**tin xing** - three stars  
-**xaw xing** - few stars  
-**pol xing** - many stars
-
-**un day kurse** - one big chair  
-**dul day kurse** - two big chairs  
-**tin bon kurse** - three good chairs
+**un day kurse**
+– one big chair  
+**dul day kurse**
+– two big chairs  
+**tin bon kurse**
+– three good chairs
 
 Ordinal numbers come after the word that they modify.
 
-**fen un** - the first part (part one)
-**fen dul** - the second part (part two)
-**fen tin** - the third part (part three)
+**fen un**
+– the first part (part one)
+**fen dul**
+– the second part (part two)
+**fen tin**
+– the third part (part three)
 
 The basic number words are:
 
@@ -296,8 +301,7 @@ The basic number words are:
 - 9 **naw**
 
 Greater numbers are simply made by putting one digit after another –
-exactly like they are written in the universal numerical language of
-mathematics.
+exactly like they are written in the universal numerical language of mathematics.
 
 - 10 **un nol** or **des**
 - 11 **un un**
@@ -310,9 +314,8 @@ mathematics.
 - 101 **un nol un** or **hon un**
 - 200 **dul nol nol** or **dul hon**
 
-Numbers that are greater than 999 may use the multiples from the
-International System of Units. So for example kilo denotes a multiple
-of a thousand.
+Numbers that are greater than 999 may use the multiples from the International System of Units.
+So for example kilo denotes a multiple of a thousand.
 
 - 1000 **kil**
 - 1 000 000 **megi**
@@ -323,73 +326,97 @@ of a thousand.
 - 10<sup>21</sup> **zeti**
 - 10<sup>24</sup> **yoti**
     
+Sometimes it is known from the context how many objects are spoken about.
+For example, the word **sol** (sun) normally refers to just one sun because there is only one.
+
 
 ## 5. Pronouns
 
 ### 5.1. Personal pronouns
 
-Pronouns can substitute thing-words and phrases of thing-words.
+Pronouns can substitute nouns and noun phrases.
 
-**me** - I, me  
-**te** - you  
-**le** - he, she, it  
-**mome** - we  
-**tote** - you all  
-**lole** - they
+**me**
+– I, me  
+**te**
+– you  
+**le**
+– he, she, it  
+**mome**
+– we  
+**tote**
+– you all  
+**lole**
+– they
 
 ### 5.2. Reflexive pronoun
 
-The reflexive pronoun is used when the object of a sentence is the
-same as the subject.
+The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**ze** - self
+**ze**
+– self
 
-Note! The reflexive pronoun **ze** is used for all persons, so it
-corresponds to English _myself_, _yourself_, _himself_, _herself_,
-_itself_, ourselves_ and _themselves_ all at once.
+Note! The reflexive pronoun **ze** is used for all persons,
+so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
-**me wida ze** - I see myself.  **le wida ze** - She sees herself. /
-He sees himself. / It sees itself.  **mome wida ze.** - We see
-ourselves.  
+**me wida ze**
+– I see myself.  
+**le wida ze**
+– She sees herself. / He sees himself. / It sees itself.  
+**mome wida ze.**
+– We see ourselves.
 
 ### 5.3. Demonstrative pronouns
 
 The demonstrative pronoun is:
 
-**ce** - this/that one
+**ce**
+– this/that one
 
-**me wanta ce.** - I want this one.  
-**le wanta ce.** - He/she wants that one.  
+**me wanta ce.**
+– I want this one.  
+**le wanta ce.**
+– He/she wants that one.
 
-It ends in **-i** when it functions as an adjective i.e. when it
-comes before a noun.
+It ends in **-i** when it functions as a modifier
+i.e. when it comes before a noun.
 
-**ci maw** - This cat  
+**ci maw**
+– This cat
 
 ### 5.4. Interrogative pronouns
 
-**ke** is a general-purpose interrogative pronoun. It does the job of
-English words _who_ and _what_.
+**ke** is a general-purpose interrogative pronoun.
+It does the job of English words _who_ and _what_.
 
-> **ke?** - Who or what?  
+**ke?**
+– Who or what?  
 
-The adjectival interrogative pronoun is **ki** and it means the same
-as English _which_ and _how_.
+The adjectival interrogative pronoun is **ki**
+and it means the same as English _which_ and _how_.
 
-**ki xey?** - What? (Which thing?)  
-**ki ren?** - Who? (Which person?)  
-**ki zaman?** - When? (What time?)  
-**ki yang?** - How? (What manner?)
+**ki xey?**
+– What? (Which thing?)  
+**ki ren?**
+– Who? (Which person?)  
+**ki zaman?**
+– When? (What time?)  
+**ki yang?**
+– How? (What manner?)
 
 Also adjectives are questioned with **ki**.
 
-**ki pol?** - How many?  
-**ki long?** - How long?  
-**ki day?** - How big?  
-**ki lil?** - How small?
+**ki pol?**
+– How many?  
+**ki long?**
+– How long?  
+**ki day?**
+– How big?  
+**ki lil?**
+– How small?
 
 **ki day du maw te tena?**
-- How big cat do you have?
+– How big cat do you have?
 
 --------------------------------------------------------------------------------
 
@@ -397,15 +424,17 @@ Also adjectives are questioned with **ki**.
 
 #### 6.1. General
 
-A verb denotes an action or an occurence, ex. to eat, to speak, to
-look and to think.
+A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
 
-Pandunia has two types of verb: verbs that end in **-a** and verbs
-that end in **-u**. The endings decide the order of the agent and the
-object in the sentence. So the sentence structure depends on the type
-of the verb.
+Pandunia has two types of verb:
+verbs that end in **-a** and verbs that end in **-u**.
+The endings decide the order of the agent and the recipient of the action in the sentence.
+So the sentence structure depends on the type of the verb.
 
 #### 6.2. Verbs that end in -a
+
+Verbs that end in **-a** are called _forward verbs_
+because the word orders go _forward_ from the agent to the recipient.
 
 Verbs that end in **-a** use this triangular pattern.
 
@@ -457,6 +486,9 @@ The third structure of this triangle is VOA, which is rarely used.
     A ← O
 
 #### 6.3. Verbs that end in -u
+
+Verbs that end in **-u** are called _backward verbs_
+because the word orders go _backward_ from the recipient to the agent.
 
 Verbs that end in **-u** use this triangular pattern.
 
