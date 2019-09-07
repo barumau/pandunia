@@ -4,30 +4,19 @@
 
 ### 1.1. Introduction
 
-This grammar deals with the types of words and word order patterns in
-Pandunia.  However, it's possible to learn Pandunia without reading
-this grammar, for example with the help of a phrasebook and a
-dictionary.
+This grammar deals with the types of words and word order patterns in Pandunia. 
+However, it's possible to learn Pandunia without reading this grammar,
+for example with the help of a phrasebook and a dictionary.
 
-All language teachers know that a language becomes more difficult to
-learn when the student must learn to make distinctions that he is not
-used to making.  That's why students have difficulties with things
-like irregular spelling, case-inflection, mandatory tenses, tones,
-noun/adjective agreement, honorific inflection, consonant and vowel
-harmony, mandatory gender distinctions and so on.
+All language teachers know that a language becomes more difficult to learn
+when the student must learn to make distinctions that they are not used to making.
+That's why students have difficulties with things like
+irregular spelling, case-inflection, mandatory tenses, tones, noun/adjective agreement,
+honorific inflection, consonant and vowel harmony, mandatory gender distinctions and so on.
 
-Pandunia is not a difficult language to learn. It doesn't have any of
-the previously mentioned complexities. Instead, it has a simple
-grammar, a relatively simple vocabulary, and a simple phonetic
-spelling.
-
-One thing to keep in mind as you learn Pandunia is that it is not a
-strict, rule-oriented language where there is a "right way" and a
-"wrong way" to say things. The important thing is to make yourself
-understood. Consequently, much of the language involves the lexical
-items (words that have meaning, like "book" or "eat"), and very little
-involves purely grammatical ideas (like singular vs. plural and
-tenses).
+Pandunia is not a difficult language to learn.
+It doesn't have any of the previously mentioned complexities.
+Instead, it has a simple and regular grammar, a relatively simple vocabulary, and a simple phonetic spelling.
 
 ### 1.2. Word classes
 
@@ -431,10 +420,13 @@ verbs that end in **-a** and verbs that end in **-u**.
 The endings decide the order of the agent and the recipient of the action in the sentence.
 So the sentence structure depends on the type of the verb.
 
-#### 6.2. Verbs that end in -a
+The agent performs or "causes" an action,
+and the recipient receives or "experiences" the action.
+
+#### 6.2. Forward verbs
 
 Verbs that end in **-a** are called _forward verbs_
-because the word orders go _forward_ from the agent to the recipient.
+because the word orders go _forward_ from the agent via the verb to the recipient.
 
 Verbs that end in **-a** use this triangular pattern.
 
@@ -442,53 +434,57 @@ Verbs that end in **-a** use this triangular pattern.
     
       V
      ↗ ↘
-    A ← O
+    A ← R
 
-#### 6.2.1. AVO order
+#### 6.2.1. Order A1: Agent, verb and recipient
 
-The most common word order in Pandunia is agent-verb-object (AVO).
-In this sentence structure the agent comes first, the verb second,
-and the object third.
+The most common word order in Pandunia is agent-verb-recipient.
+In this sentence structure the agent comes first, the verb second, and the recipient third.
 
-    agent-verb-object
+    agent-verb-recipient
     
       V
      ↗ ↘
-    A   O
+    A   R
 
 Examples:  
-**me wida lole.** - I see them.  
-**te beka pang.** - You bake bread.  
+**me wida lole.**
+– I see them.  
+**te beka pang.**
+– You bake bread.  
 
-#### 6.2.2. OAV order
+#### 6.2.2. Order A2: Recipient, agent and verb
 
-The second structure in this triangle is OSV. It is frequent in
-dependant clauses.
+The second structure in this triangle is recipient-agent-verb.
+It is frequent in dependant clauses.
 
-    object-agent-verb
+    recipient-agent-verb
     
       V
      ↗ 
-    A ← O
+    A ← R
 
 Examples:  
-**ke te wida?** - What do you see?  
-**me niama pang, da te beka.** - I eat bread _that you baked._
+**ke te wida?**
+– What do you see?  
+**me niama pang, da te beka.**
+– I eat bread _that you baked._
 
-#### 6.2.3. VOA order
+#### 6.2.3. Order A3: Verb, recipient and agent
 
-The third structure of this triangle is VOA, which is rarely used.
+The third structure of this triangle is the verb-recipient-agent, which is rarely used.
+It is described here only for the sake of completeness.
 
-    verb-object-agent
+    verb-recipient-agent
     
       V
        ↘
-    A ← O
+    A ← R
 
-#### 6.3. Verbs that end in -u
+#### 6.3.Backward verbs
 
 Verbs that end in **-u** are called _backward verbs_
-because the word orders go _backward_ from the recipient to the agent.
+because the word orders go _backward_ from the recipient via the verb to the agent.
 
 Verbs that end in **-u** use this triangular pattern.
 
@@ -496,57 +492,90 @@ Verbs that end in **-u** use this triangular pattern.
     
       V
      ↗ ↘
-    O ← A
+    R ← A
 
-#### 6.3.1. AOV order
+#### 6.3.1. Order U1: Recipient, verb and agent
 
-AOV order is commonly used alternative for AVO order.
+The recipient-verb-agent order is common in sentences where the subject is a passive recipient.
 
-    agent-object-verb
+    recipient-verb-agent
+    
+      V
+     ↗ ↘
+    R   A
+
+Often they can be translated to English by using the passive voice or an intransitive verb
+but sometimes a transitive verb can be used too.
+
+Examples:  
+**pang beku te.**
+– Bread is baked by you.  
+**pakse domu arbe.**
+– Birds live (in) trees.  
+**te suku me.**
+– You are pleased by me. (Or: You like me.)
+
+#### 6.3.2. Order U2: Agent, recipient and verb
+
+The agent-recipient-verb order is commonly used alternative for the agent-verb-recipient order.
+
+    agent-recipient-verb
     
       V
      ↗ 
-    O ← A
+    R ← A
 
 Examples:  
 **me lole widu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
-#### 6.3.2. OVA order
+#### 6.3.3. Order U3: Verb, agent and recipient
 
-OVA order is common in "passive" sentences.
+The verb-agent-recipient order is very rare but possible.
+It is described here only for the sake of completeness.
 
-    object-verb-agent
-    
-      V
-     ↗ ↘
-    O   A
-
-Examples:  
-**pang beku te.** - Bread is baked by you.  
-**te suku me.** - You are pleased by me.
-
-#### 6.3.3. VAO order
-
-VAO order is very rare but possible.
-
-    verb-agent-object
+    verb-agent-recipient
     
       V
        ↘
-    O ← A
+    R ← A
 
 ### 6.4. Summary of word orders
 
-Note that even if these triangular patterns explained above might seem unusual
-at first, in practice they result in two simple rules to follow:
+### 6.4.1. All Possible Word Orders
 
--a ending means:  
+In theory there are six possible word orders for transitive verbs.
+In practice, all of them are possible in Pandunia.
+They are made possible by the two verb endings, which decide the order of the agent and the recipient.
+
+Different orders put the focus on different constituents: the agent, the recipient or the verb.
+The focus or emphasis is on the first constituent in the sentence.
+
+    1. With the verb ending in -a
+        - recipient–agent–verb : musike me auda.
+        - agent–verb–recipient :        me auda musike.
+        - verb–recipient–agent :           auda musike me.
+    2. With the verb ending in -u
+        - agent-recipient-verb : me musike audu.
+        - recipient-verb-agent :    musike audu me.
+        - verb-agent-recipient :           audu me musike.
+
+The constituent, which is further away from the verb, can be left out.
+So for example **musike me auda** can be truncated to **me auda**.
+Likewise **me musike audu** can be truncated to **musike audu**.
+Then it is possible to say something about either the agent or the recipient only.
+
+#### 6.4.2. Simple rules
+
+Note that even if these triangular patterns explained above might seem unusual at first,
+in practice they result in two simple rules to follow:
+
+The **-a** ending means:  
 If there is anything right before the verb, it is the agent.  
-If there is anything right after the verb, it is the object.
+If there is anything right after the verb, it is the recipient.
 
--u ending means:  
-If there is anything right before the verb, it is the object.  
+The **-u** ending means:  
+If there is anything right before the verb, it is the recipient.  
 If there is anything right after the verb, it is the agent.
 
 
@@ -556,177 +585,170 @@ If there is anything right after the verb, it is the agent.
 
 ### 7.1. Observations
 
-Observations are the simplest sentence type. They may consist of only
-one word, which draws the listener's attention to it.
+Observations are the simplest sentence type.
+They may consist of only one word, which draws the listener's attention.
 
-**maw!** - A cat!  
-**barxa!** - (It) rains!
+**maw!**
+– A cat!  
+**barxa!**
+– (It) rains!
 
 ### 7.2. Stative Sentences
 
 #### 7.2.1. With noun or pronoun subject
 
-Normally a sentence consists of a subject and a predicate. In the
-simplest sentences, the subject is a noun or a pronoun and the
-predicate is an adjective or a noun.
+Normally a sentence consists of a subject and a predicate.
+In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
 
-**me bon.** - I am good.  
-**le nowi.** - It is new.  
-**le sarah.** - She is Sarah.  
-**sarah bon.** - Sarah is good.  
-**petre day.** - The stone is big.  
-**meze nowi.** - The table is new.  
+**me bon.**
+– I am good.  
+**le nowi.**
+– It is new.  
+**le sarah.**
+– She is Sarah.  
+**sarah bon.**
+– Sarah is good.  
+**petre day.**
+– The stone is big.  
+**meze nowi.**
+– The table is new.  
 
 The word **ni** is added to form the negative.
 
-**me ni bon.** - I'm not good.  
-**le ni nowi.** - It's not new.  
-**le ni sarah.** - She is not Sarah.
+**me ni bon.**
+– I'm not good.  
+**le ni nowi.**
+– It's not new.  
+**le ni sarah.**
+– She is not Sarah.
 
-It is possible to add the word **si** (yes) before the predicate in
-positive sentences, for style or for convenience. Then the structure
-is similar like in negative sentences.
+It is possible to add the word **si** (yes) before the predicate in positive sentences,
+for style or for convenience.
+Then the structure is similar like in negative sentences.
 
-**sarah si bon.** - Sarah is good.  
-**petre si day.** - The stone is big.  
-**meze si nowi.** - The table is new.  
-**meze ni law.** - The table is not old.
+**sarah si bon.**
+– Sarah is good.  
+**petre si day.**
+– The stone is big.  
+**meze si nowi.**
+– The table is new.  
+**meze ni law.**
+– The table is not old.
 
 Also two personal pronouns can be combined with **si** and **ni**.
 
-**me si le.** - I am he/she.  
-**me ni te.** - I'm not you.
-
+**me si le.**
+– I am he/she.  
+**me ni te.**
+– I'm not you.
 
 #### 7.2.2. With adjective subject
 
 The same rule applies also for two adjectives.
 
-**jowan si sundar.** - Young is beautiful.  
-**nowi ni law.** - New is not old.  
+**jowan si sundar.**
+– Young is beautiful.  
+**nowi ni purani.**
+– New is not old.  
 
 #### 7.2.3. With verb subject
 
-A verb can't be subject as such. So the verb is first, use **ce**
-to start a comment about the verb.
+A verb can't be subject as such.
+So the verb is first, use **ce** to start a comment about the verb.
 
-**canta, ce bon.** = Singing, that is good. (Singing is good.)
-
+**canta, ce bon.**
+– Singing, that is good. (Singing is good.)
 
 #### 7.2.4. To be
 
 Pandunia doesn't use a verb like "to be" in English.
 
+
 ### 7.3. Active Sentences
 
-In predicates of action, the main word in the predicate is a verb
-(i.e. an action-word). In Pandunia, verbs are easy to identify because
-all of them end in **-a** or **-u**.
+In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
+In Pandunia, verbs are easy to identify because all of them end in **-a** or **-u**.
 
-Active sentences that use a verb ending in **-a** have the
-agent–verb–object word order (AVO).
+In Pandunia, two word orders are commonly used in active sentences:
+subject-verb-object (SVO) and subject-object-verb (SOV).
+A subject can be the agent or the recipient of the action.
 
-**me niama aple.** - I eat apples.  
-**me auda musike.** - I hear music.  
-**me wida te.** - I see you.
+The following sentences are in SVO order.
 
-Verbs ending in **-u** are used in the agent–object–verb word order
-(AOV).
+**me niama aple.**
+– I eat apples.  
+**me wida te.**
+– I see you.  
+**me suku musike.**
+– I like music.
 
-**me aple niamu.** - _I apples eat._
+The following sentences are in SOV order.
+They can't be translated word-by-word into English becaues English doesn't really support the SOV word order.
 
-Agent–verb–object and agent–object–verb are basically the same as
-subject–verb–object (SVO) and subject–object–verb (SOV) word orders,
-which are the two most common word orders in the
-languages of the world. SOV is used in languages like Hindi-Urdu, Bengali,
-Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish,
-Mandarin Chinese, Indonesian and Modern Arabic among others.
+**me aple niamu.**
+– _I apples eat._  
+**me te widu.**
+– _I at you look._
+
+Pandunia supports both SVO and SOV word orders.
+The are the most common word orders in the languages of the world.
+SOV is used in many languages, including Hindi, Urdu, Bengali, Tamil, Turkish, Japanese and Korean.
+SVO is used in English, French, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
+
 
 ### 7.4. Passive Sentences
 
-#### 7.4.1. OV order
+In the passive voice the focus of the sentence is on a subject
+that is a passive recipient that undergoes the action.
+So the recipient is the subject of the sentence.
+Often the agent is not mentioned at all.
 
-In the passive voice there is no agent in the sentence. There
-is only the object and the verb. Normally the passive is expressed
-with object–verb (OV) word order with the verb ending in **-u**.
+Normally the passive is expressed with the verb ending in **-u** and the recipient-verb word order.
 
-**te widu.** - You are seen.  
-**musike audu.** - Music is heard.  
-**pang beku.** - Bread is baked.  
-**kupe kaputu.** - Cup breaks. (Cup gets broken.)
+**te widu.**
+– You are seen.  
+**musike audu.**
+– Music is heard.  
+**pang beku.**
+– Bread is baked.  
+**kupe kaputu.**
+– Cup breaks. (Cup gets broken.)
 
-Here the focus is on the object, which is the first word in the
-sentence. The object is a passive actor that undergoes the action.
-
-The agent can be mentioned after the verb with or without the
-preposition **da**.
+The agent can be mentioned after the verb with or without the preposition **da**.
 
 **te widu me.** - You are seen by me.  
 **te widu da me.** - You are seen by me.
 
-#### 7.4.2. VO order
-
-In verb–object (VO) order the focus is on the verb.
-
-**wida te.** - Seeing you.  
-**auda musike.** - Listening music.  
-**beka pang.** - Baking bread.
-
-### 7.5. All Possible Word Orders
-
-There are six possible word orders for transitive sentences. In
-practice, all of them are possible in Pandunia. They are made possible
-by the two verb endings, which decide the order of the agent and the
-object.
-
-Different orders put the focus on different constituents: the agent,
-the object or the verb. The focus or emphasis is on the first part of
-a sentence.
-
-    1. With the verb ending in -a
-        - object–agent–verb (OAV) : musike me auda.
-        - agent–verb–object (AVO) :        me auda musike.
-        - verb–object–agent (VOA) :           auda musike me.
-    2. With the verb ending in -u
-        - agent-object-verb (AOV) : me musike audu.
-        - object-verb-agent (OVA) :    musike audu me.
-        - verb-agent-object (VAO) :           audu me musike.
-
-The constituent, which is further away from the verb, can be left out.
-So for example **musike me auda** (OAV) can be truncated to **me
-auda** (SV). Likewise **me musike audu** (AOV) can be truncated to
-**musike audu** (OV).
-
-The typical word orders in everyday Pandunia are AVO, AOV and OAV. The
-other word orders can be heard in poetry and in other forms of
-literary language.
 
 ### 7.6. Pivot structure
 
 #### 7.6.1. Basic pivot structure (SVOVO)
 
-In the _pivot structure_ the word order is:  subject – verb 1 – object
-1 – verb 2 – object 2.
+In the _pivot structure_ the word order is:  
+subject – verb 1 – object 1 – verb 2 – object 2.
 
-Object 1 functions has dual role. It is at the same time the object
-for verb 1 and the subject for verb 2.
+Object 1 functions has dual role.
+It is at the same time the object for verb 1 and the subject for verb 2.
 
-**me wanta te niama sabze.** - I want you eat vegetables.
+**me wanta te niama sabze.**
+– I want you eat vegetables.
 
-In the example above, **me wanta** has **te** as its object. At the same
-time, **te** functions as the subject of the following predicate,
-**niama sabze**. So **te** is the _pivot_ of the entire sentence.
+In the example above, **me wanta** has **te** as its object.
+At the same time, **te** functions as the subject of the following predicate, **niama sabze**.
+So **te** is the _pivot_ of the entire sentence.
 
 ### 7.7. Serial verbs
 
-All action-words (verbs) that come one after another are activated by
-the subject. There can be two, three or even more action-words in
-series.
+There can be two, three or even more verbs in a series,
+and all of them are about the same subject
  
-1. **me gowa dom.** - I go home.  
-2. **me abla gowa dom.** - I can go home.  
-3. **me wanta abla gowa dom.** - I want to be able to go home. (Lit. _I
-   want can go home_!)
+1. **me gowa dom.**
+   – I go home.  
+2. **me abla gowa dom.**
+   – I can go home.  
+3. **me wanta abla gowa dom.**
+   – I want to be able to go home.
+   (Word for word: _I want can go home_!)
 
 ### 7.8. Pronoun dropping
 
@@ -735,13 +757,18 @@ This is done especially in commands and requests.
 
 #### 7.8.1. Short pivot structure (VOVO)
 
-**me eska te baxa pandunia.** - I ask do you speak Pandunia.  
-**eska te baxa pandunia?** - Do you speak Pandunia.
+**me eska te baxa pandunia.**
+– I ask do you speak Pandunia.  
+**eska te baxa pandunia?**
+– Do you speak Pandunia.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-**me plisa te laya dom.** - I ask you to come home.  
-**plisa laya dom!** - Please come home! (Literally: _Request come home!_)
+**me plisa te laya dom.**
+– I ask you to come home.  
+**plisa laya dom!**
+– Please come home!
+(Word for word: _Request come home!_)
 
 --------------------------------------------------------------------------------
 
@@ -754,9 +781,12 @@ This is done especially in commands and requests.
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw i waf.** - I like cats and dogs.  
-**me suku maw u waf.** - I like cats or dogs.  
-**me suku maw a ni waf.** - I like cats but not dogs.
+**me suku maw i waf.**
+– I like cats and dogs.  
+**me suku maw u waf.**
+– I like cats or dogs.  
+**me suku maw a ni waf.**
+– I like cats but not dogs.
 
 --------------------------------------------------------------------------------
 
@@ -766,112 +796,134 @@ This is done especially in commands and requests.
 
 ### 9.1.1. Affirmative
 
-Particle **si** is affirmative and **ni** is negative. **si** affirms
-the existence of something, whereas **ni** denies it. In other words
-**si** means "to be" or "there is" and **ni** means "not to be" or
-"there is not".
+Particle **si** is affirmative and **ni** is negative.
+**si** affirms the existence of something, whereas **ni** denies it.
+In other words **si** means "to be" or "there is" and **ni** means "not to be" or "there is not".
 
-Expressions are affirmative by default, so the word **si** is not
-always necessary. However it is especially convenient in expressions
-of state.
+Expressions are affirmative by default, so the word **si** is not always necessary.
+However it is especially convenient in expressions of state.
 
-**me si ren.** - I am a person.  
-**le si nowi meze.** - It is a new table.
+**me si ren.**
+– I am a person.  
+**le si nowi meze.**
+– It is a new table.
 
 ### 9.1.2. Negative
 
 Such sentences can be simply negated with **ni**.
 
-**me ni ren.** - I'm not a person.  
-**le ni nowi meze.** - It's not a new table.
+**me ni ren.**
+– I'm not a person.  
+**le ni nowi meze.**
+– It's not a new table.
 
-The word **ni** is used for denying anything. It affects always the next word.
-Different scopes of negation may result depending on the location of the
-negative word.
+The word **ni** is used for denying anything.
+It affects always the next word.
+Different scopes of negation may result depending on the location of the negative word.
 
-**me wida te.** - I see you.  
-**me ni wida te.** - I don't see you.  
-**me wida ni te a lole.** - I see, not you, but them.
+**me wida te.**
+– I see you.  
+**me ni wida te.**
+– I don't see you.  
+**me wida ni te a lole.**
+– I see, not you, but them.
 
 **me plisa te safa kamar.**
-= I ask you to clean the room.  
+– I ask you to clean the room.  
 **me ni plisa te safa kamar.**
-= I do NOT ask you to clean the room.  
+– I do NOT ask you to clean the room.  
 **me plisa te ni safa kamar.**
-= I ask you NOT to clean the room.
+– I ask you NOT to clean the room.
 
 The particles **si** and **ni** are used also for answering questions.
 
-**eska te wida me?** - Do you see me?  
-**si. (me si wida te.)** - Yes. (I do see you.)  
-**ni. (me ni wida te.)** - No. (I don't see you.)
+**eska te wida me?**
+– Do you see me?  
+**si. (me si wida te.)**
+– Yes. (I do see you.)  
+**ni. (me ni wida te.)**
+– No. (I don't see you.)
 
-Negative questions are answered so that **si** and **ni** apply to the
-verb, not the whole question.
+Negative questions are answered so that **si** and **ni** apply to the verb, not the whole question.
 
-**eska te ni wida me?** - Don't you see me?  
-**si. (me si wida te.)** - Yes. (I do see you.)  
-**ni. (me ni wida te.)** - No. (I don't see you.)
+**eska te ni wida me?**
+– Don't you see me?  
+**si. (me si wida te.)**
+– Yes. (I do see you.)  
+**ni. (me ni wida te.)**
+– No. (I don't see you.)
 
 ### 9.2. Modifier particles
 
-Particles **du** and **da** are used to mark possession and
-modification.  **du** connects the modifying word or phrase to the
-modified word. **da** works in the opposite direction. It connects the
-modified word to the modifier.
+Particles **du** and **da** are used to mark possession and modification.
+**du** connects the modifying word or phrase to the modified word.
+**da** works in the opposite direction.
+It connects the modified word to the modifier.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
-With regards to possession, **du** works like apostrophe-s ('s) in
-English.
+With regards to possession, **du** works like the apostrophe-s ('s) in English.
 
-**maria du mame** - Maria's mother  
-**me du dom** - my house  
-**me du pape du dom** - my father's house
+**maria du mame**
+– Maria's mother  
+**me du dom**
+– my house  
+**me du pape du dom**
+– my father's house
 
 **da** works like "of" in English.
 
-**mame da maria** - the mother of Maria  
-**dom da me** - the house of mine  
-**dom da pape da me** - the house of the father of mine
+**mame da maria**
+– the mother of Maria  
+**dom da me**
+– the house of mine  
+**dom da pape da me**
+– the house of the father of mine
 
 #### 9.2.2. Attribution with adjectives
 
-Another way to use these particles is to connect an adjective or other
-words with a noun. It gives us more information about the noun, and
-the particle makes it clear in which end the main noun is.
+Another way to use these particles is to connect an adjective or other words with a noun.
+It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
-The modifier particles are useful for creating complex adjectives that
-consists of two or more words.
+The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roze rang du labe** - rose-colored lips  
-**saman rang du yen** - sky-colored eyes
+**roze rang du labe**
+– rose-colored lips  
+**saman rang du yen**
+– sky-colored eyes
 
 Or in the opposite order:
 
-**labe da roze rang** - lips of the color of the rose  
-**yen da saman rang** - eyes of the color of the sky
+**labe da roze rang**
+– lips of the color of the rose  
+**yen da saman rang**
+– eyes of the color of the sky
 
 The particles help in creating measure words too.
  
-**un sake du patate** - one sack of potatos  
-**dul sake du patate** - two sacks of potatos  
-**max sake du patate** - more sacks of potatos
+**un sake du patate**
+– one sack of potatos  
+**dul sake du patate**
+– two sacks of potatos  
+**max sake du patate**
+– more sacks of potatos
  
-Note that **du** and **da** connect phrases together. So a modifier
-phrase with and without **du** can mean a different thing.
+Note that **du** and **da** connect phrases together.
+So a modifier phrase with and without **du** can mean a different thing.
 
-**max sundar pul** - more beautiful flowers  
-**max du sundar pul** - more of beautiful flowers
+**max sundar pul**
+– more beautiful flowers  
+**max du sundar pul**
+– more of beautiful flowers
 
 #### 9.2.3. Relative clauses
 
 Also relative clauses are created with help of the modifier particles.
 
 **le si man da me wida.**
-= He is the man that I saw.
+– He is the man that I saw.
 
 Although **da** seems to have a similar role here as English relative pronouns
 _which_, _that_, _who_ and _whom_, it's still nothing more than a particle
@@ -883,67 +935,72 @@ With **du**, it's possible to construct relative clauses that precede the
 modified noun. (The main-clause noun is implied right before the particle.)
 
 **buke dugu du ren sa kamar.**
-= The book-reading person is in the room.  
+– The book-reading person is in the room.  
 **le duga du buke sa meze.**
-= The book, that he/she reads, is on the table.
+– The book, that he/she reads, is on the table.
 
 The modified noun can be part of an adpositional phrase too.
 
 **me safara pa du site si teli.**
-= My destination city is far away.
+– My destination city is far away.
 
 With the modified noun at the beginning, we need to call into action the
 otherwise rarely used postpositions **nu**, **yu**, **su**, and **pu**.
 
 **site da pu me safara si teli.**
-= The city I’m traveling to is far away.  
+– The city I’m traveling to is far away.  
 **ci kalam da su me zay kitaba si nowi.**
-= This pen, with which I’m writing now, is new.
+– This pen, with which I’m writing now, is new.
 
 ### 9.3. Modal Particles
 
-Modal particles indicate what the speaker thinks about s/he says in
-relation to the listener. Modal particles are commonly used in many
-languages. East Asian languages, including Chinese and Japanese, use
-famously sentence-final particles.
+Modal particles indicate what the speaker thinks about s/he says in relation to the listener.
+Modal particles are commonly used in many languages.
+East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
 
-In Pandunia, a modal particle modifies the subsequent word, or the
-whole sentence, when the modal particle is the last word in the
-sentence.
+In Pandunia, a modal particle modifies the subsequent word, or the whole sentence,
+when the modal particle is the last word in the sentence.
 
-The particle **plus** _(also)_ is a good example because it functions
-much like in English.
+The particle **plus** _(also)_ is a good example because it functions much like in English.
 
-**le niama bir plus.** - S/he drinks beer, _also_.  
-**le niama plus bir.** - S/he drinks _also beer_.  
-**le plus niama bir.** - S/he _also drinks_ beer.  
-**plus le niama bir.** - _Also s/he_ drinks beer.
+**le niama bir plus.**
+– S/he drinks beer, _also_.  
+**le niama plus bir.**
+– S/he drinks _also beer_.  
+**le plus niama bir.**
+– S/he _also drinks_ beer.  
+**plus le niama bir.**
+– _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 ### 9.4. Tense and Aspect Particles
 
-In Pandunia, tense can be expressed with time words and time phrases
-if needed. The general time words are **pas** (past), **zay**
-(present) and **wil** (future, upcoming). They function like
-adjectives and adverbs, so typically their place is before the verb.
+In Pandunia, tense can be expressed with time words and time phrases if needed.
+The general time words are **pas** (past), **zay** (present) and **wil** (future, upcoming).
+They function like adjectives and adverbs, so typically their place is before the verb.
 
-**me pas tena maw.** - I had cats.
-**a me ni zay tena maw.** - But I now don't have cats.
-**munkin me wil tena maw.** - Maybe I will have cats.
+**me pas tena maw.**
+– I had cats.
+**a me ni zay tena maw.**
+– But I now don't have cats.
+**abli me wil tena maw.**
+– Maybe I will have cats.
 
-It's also possible to say it in a longer way like **sa pase** (in the
-past) etc.
+It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 
-**me tena maw sa pase.** - I had cats in the past.  
-**a me ni tena maw sa zaye.** - But I don't have cats at present.  
-**munkin me tena maw sa wile.** - Maybe I will have cats in the future.
+**me tena maw sa pase.**
+– I had cats in the past.  
+**a me ni tena maw sa zaye.**
+– But I don't have cats at present.  
+**munkin me tena maw sa wile.**
+– Maybe I will have cats in the future.
 
-Note! Verbs are not conjugated. So the verb **tena** stayed the same in
-all tenses in the examples above.
+Note! Verbs are not conjugated.
+So the verb **tena** stayed the same in all tenses in the examples above.
 
-Naturally time words are used only when they are necessary. Usually it
-is enough to mention the time just once at the beginning of the text
+Naturally time words are used only when they are necessary.
+Usually it is enough to mention the time just once at the beginning of the text
 and not in every single sentence, if the tense doesn't change.
 
 --------------------------------------------------------------------------------
@@ -1305,34 +1362,7 @@ Note: You can learn the language without reading this chapter. But if
 you're interested in the inner workings of the language, it can be
 interesting to you.
 
-### 12.1. Sentence Word Orders
-
-In theory, there are six possible word orders for the transitive
-sentence. In practice, all of them are possible in Pandunia. They are
-made possible by the two verb endings, which decide the order of the
-other constituents (subject and object).
-
-    1. With the verb ending in -a
-        - object–subject–verb (OSV) : musike me auda.
-        - subject–verb–object (SVO) :        me auda musike.
-        - verb–object–subject (VOS) :           auda musike me.
-    2. With the verb ending in -u
-        - subject-object-verb (SOV) : me musike audu.
-        - object-verb-subject (OVS) :    musike audu me.
-        - verb-subject-object (VSO) :           audu me musike.
-
-The constituent, which is further away from the verb, can be left out.
-So for example **musike me auda** (OSV) can be truncated to **me
-auda** (SV). Likewise **me musike audu** (SOV) can be truncated to
-**musike audu** (OV).
-
-The typical word orders in everyday Pandunia are SVO, SOV and OSV. The
-latter occurs frequently in dependant clauses, for example in
-**me wida ren, da te jana.** (I saw the person _whom you know_.) The
-other word orders can be heard in poetry and in other forms of
-elevated language.
-
-### 12.2. Relations between the endings
+### 12.1. Relations between the endings
 
 A root is an idea that has many faces: a thing, a state and an action.
 
@@ -1370,101 +1400,33 @@ Here are a few examples of different types of ideas.
     - **hamara** to hammer, to apply hammer on sth
 
 
-### 12.3. Structure Words
+### 12.2. Function Words
 
-_Structure words_ are words that help to organize words into more
-or less complex sentences. It is a closed class i.e. new words are
-never or only very seldom be added to it. Structural words behave by
-definition differently than _content words_, which is the open class
-for words that refer to things in the world outside the structure of
-the language.
+_Function words_ are words that help to organize words into more or less complex sentences.
+It is a closed class i.e. new words are never or only very seldom be added to it.
+Function words behave by definition differently than _content words_,
+which is the open class for words that refer to things in the world outside the structure of the language.
 
 In Pandunia, structure words share the following characteristics:
 
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.
 3. The vowel has a structural meaning, as follows:
-    - -e indicates a pronoun or a noun
-    - -i indicates a determiner or a modifier
-    - -a indicates a preposition
-    - -u indicates a postposition
-    - -o indicates a prefix
+    - **-e** indicates a pronoun
+    - **-i** indicates a determiner or a modifier
+    - **-a** indicates a preposition
+    - **-u** indicates a postposition
 
-|  | Idea                      | -a (preposition)       | -e (noun or pronoun)   | -i (modifier)          | -o (prefix)            | -u (postposition)      |
-|--|:--------------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| 1| 1st person pronoun        |                        | **me**<br>I            | **mi**<br>my           |                        |                        |
-| 2| 2nd person pronoun        |                        | **te**<br>you          | **ti**<br>your         |                        |                        |
-| 3| 3rd person pronoun        |                        | **le**<br>he, she, it  | **li**<br>his, her, its|                        |                        |
-| 4| Reflexive pronoun         |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |                        |
-| 5| Interrogative             |                        | **ke**<br>what?        | **ki**<br>which?       |                        |                        |
-| 6| Demonstrative             |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |                        |
-| 7| Negation / lack / absence | **na**<br>without      |                        | **ni**<br>not          | **no**<br>non-, un-    | **nu**                 |
-| 8| Affirmation / presence    | **sa**<br>with, by, at |                        | **si**<br>yes          |                        | **su**                 |
-| 9| Possession                | **da**<br>of           |                        |                        |                        | **du**<br>'s           |
-|10| Destination               | **pa**<br>to, for      |                        |                        |                        | **pu**                 |
-|11| Origin                    | **ya**<br>from, since  |                        |                        |                        | **yu**                 |
-
-
-### 12.4. Hierarchy of Word Types
-
-Spoken language is a flow of sounds which constitute words. Written
-language, in the case of Pandunia, is a flow of letters from left to
-right, which constitute words. So every expression is essentially a
-sequence of words.  However all words are not equal. There is a
-hierarchy of words. The verb is the structural center of a sentence
-and other words are directly or indirectly connected to it.
-
-Each sentence can be drawn as a tree diagram, where the central words
-are above and the dependant words are below. For example the sentence
-**me wida te** (I see you) can be pictured as a tree as follows.
-
-    me wida te.
-
-       wida
-      ┌─┴─┐
-     me   te
-
-Adjectives and numerals point to their head word, the noun.
-
-    me wida tin jowan ren.
-
-       wida
-      ┌─┴──┐
-     me   ren
-           |
-         jowan
-           |
-          tin
-
-The hierarchy of word types in Pandunia from the more to the less
-central is as follows.
-
-1. Structure words
-    1. Conjunctions: i, u, a
-    2. Connectors: du, da
-    3. Prepositions and postpositions: na, sa, pa, ya; nu, su, pu, yu
-    4. Pronouns
-2. Content words
-    1. Numerals
-    2. Modifiers
-    3. Verbs
-    4. Nouns
-
-The following example shows how the scope affects the final position
-of words in the tree hierarchy. For example, although **i** is in
-general higher than **sabu**, here its scope is only to connect
-**yusef** and **sarah**.  **sabu** is at the top, because it connects
-the two sub-phrases.
-
-    yusef i sarah wanta darsa pandunia, sabu le si bon dunia bax.
-
-                        sabu
-               ┌──────────┴──────────┐
-             wanta                   si
-          ┌────┴──────┐           ┌──┴──┐
-          i         darsa        le    bax
-      ┌───┴───┐    ┌──┴────┐            |
-    yusef   sarah       pandunia       dunia
-                                        |
-                                       bon
-
+|  | Idea                   | -a (preposition)       | -e (noun or pronoun)   | -i (modifier)          | -u (postposition)      |
+|--|:-----------------------|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+| 1| 1st person pronoun     |                        | **me**<br>I            | **mi**<br>my           |                        |
+| 2| 2nd person pronoun     |                        | **te**<br>you          | **ti**<br>your         |                        |
+| 3| 3rd person pronoun     |                        | **le**<br>he, she, it  | **li**<br>his, her, its|                        |
+| 4| Reflexive pronoun      |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |
+| 5| Interrogative          |                        | **ke**<br>what?        | **ki**<br>which?       |                        |
+| 6| Demonstrative          |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |
+| 7| Negation / absence     | **na**<br>without      |                        | **ni**<br>not          | **nu**<br>-less        |
+| 8| Affirmation / presence | **sa**<br>with, by, at |                        | **si**<br>yes          | **su**<br>-ed, -ful    |
+| 9| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
+|10| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
+|11| Origin                 | **ya**<br>from, since  |                        |                        | **yu**                 |
