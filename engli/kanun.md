@@ -25,7 +25,10 @@ In Pandunia, the word class is often indicated by the ending, especially the las
 For example, most words that end in **-a** are used as verbs in sentences.
 
 The two major families of word classes are content words and function words.
-...
+Content words convey most of information and meaning.
+Function words are the necessary words for grammar.
+You can't say anything meaningful without content words,
+but you need function words to put content words together, especially in long sentences.
 
 In Pandunia, the main classes of content words are: nouns, verbs and modifiers;
 and the main classes of function words are: pronouns, determiners, prepositions and postpositions.
@@ -81,9 +84,9 @@ They are described in more detail later in this document.
    All modifiers, except the most common few, end in **-i**.
     - ex. 1. **rapi loge** = A fast talk.
     - ex. 2. **te rapi loga.** = You talk fast.
-6. The verb ending -a indicates that the causer of the action is before the verb.
+6. The verb ending **-a** indicates that the agent of the action is immediately before the verb.
     - ex. **me niama aple.** = I eat apples.
-7. The verb ending -u indicates that the recipient of the action is before the verb.
+7. The verb ending -u indicates that the recipient of the action is immediately before the verb.
     - ex. **aple niamu.** = Apples are eaten.
 8. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
     - ex. **me plisa te dona pes.** = I ask you to give money.
@@ -411,19 +414,46 @@ Also adjectives are questioned with **ki**.
 
 ## 6. Verbs
 
-#### 6.1. General
+### 6.1. Introduction
 
 A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
+
+A verb can involve an agent and a recipient.
+The agent performs or "causes" an action,
+and the recipient receives or "experiences" the action.
 
 Pandunia has two types of verb:
 verbs that end in **-a** and verbs that end in **-u**.
 The endings decide the order of the agent and the recipient of the action in the sentence.
 So the sentence structure depends on the type of the verb.
 
-The agent performs or "causes" an action,
-and the recipient receives or "experiences" the action.
+Simply put, the ending **-a** means:  
+If there is anything right before the verb, it is the agent.  
+If there is anything right after the verb, it is the recipient.
 
-#### 6.2. Forward verbs
+And the ending **-u** means:  
+If there is anything right before the verb, it is the recipient.  
+If there is anything right after the verb, it is the agent.
+
+Consider the following examples:  
+**me safa.**
+– I clean.  
+**me safa kamar.**
+– I clean a room.  
+**kamar safu.**
+– Room is cleaned.  
+**kamar safu me.**
+– Room is cleaned by me.
+
+As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
+That's why verbs with **-a** are called _forward verbs_
+and verbs with **-u** are called _backward verbs_.
+
+What follows is a theoretical explanation of how verbs work in Pandunia.
+It is not necessary to understand the triangular patterns completely.
+You can even skip them at first and go directly to chapter 7.
+
+### 6.2. Forward verbs
 
 Verbs that end in **-a** are called _forward verbs_
 because the word orders go _forward_ from the agent via the verb to the recipient.
@@ -481,7 +511,7 @@ It is described here only for the sake of completeness.
        ↘
     A ← R
 
-#### 6.3.Backward verbs
+### 6.3.Backward verbs
 
 Verbs that end in **-u** are called _backward verbs_
 because the word orders go _backward_ from the recipient via the verb to the agent.
@@ -542,8 +572,6 @@ It is described here only for the sake of completeness.
 
 ### 6.4. Summary of word orders
 
-### 6.4.1. All Possible Word Orders
-
 In theory there are six possible word orders for transitive verbs.
 In practice, all of them are possible in Pandunia.
 They are made possible by the two verb endings, which decide the order of the agent and the recipient.
@@ -564,19 +592,6 @@ The constituent, which is further away from the verb, can be left out.
 So for example **musike me auda** can be truncated to **me auda**.
 Likewise **me musike audu** can be truncated to **musike audu**.
 Then it is possible to say something about either the agent or the recipient only.
-
-#### 6.4.2. Simple rules
-
-Note that even if these triangular patterns explained above might seem unusual at first,
-in practice they result in two simple rules to follow:
-
-The **-a** ending means:  
-If there is anything right before the verb, it is the agent.  
-If there is anything right after the verb, it is the recipient.
-
-The **-u** ending means:  
-If there is anything right before the verb, it is the recipient.  
-If there is anything right after the verb, it is the agent.
 
 
 --------------------------------------------------------------------------------
@@ -1407,7 +1422,7 @@ It is a closed class i.e. new words are never or only very seldom be added to it
 Function words behave by definition differently than _content words_,
 which is the open class for words that refer to things in the world outside the structure of the language.
 
-In Pandunia, structure words share the following characteristics:
+In Pandunia, function words have the following characteristics:
 
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.
