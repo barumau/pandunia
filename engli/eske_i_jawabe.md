@@ -248,6 +248,69 @@ used in other languages in the table below.
 
 ## Grammar
 
+#### Is Pandunia a pidgin or a creole?
+
+Pidgins and creoles are _natural_ contact languages.
+Pandunia is a _constructed_ contact language.
+So the answer is no, Pandunia is not a real pidgin or a creole.
+However, it is characterized by many of the same features as pidgins and creoles.
+
+The following is a list of characteristic features of pidgins and creoles
+that apply for Pandunia too.
+
+1. Lack of grammatical complexity
+   - No definite or indefinite article
+   - Omission of the copula 'be'
+   - Tense, aspect, modality and negation are not part of the verb.
+   - Passive structures are not used.
+2. Lack of morphological complexity
+   - Nouns and pronouns are not inflected
+   - Verbs are not inflected and tense is marked by separate words
+3. Semantic transparency
+   - Meaning of a word can be determined from the meanings of the parts of which the word is built.
+4. Reduced vocabulary
+   - Multifunctional words
+   - All-purpose prepositions
+5. Simple phonology
+   - Avoid difficult sounds.
+   - Use mostly simple syllable structures.
+   - Prefer short words.
+   - Tone is not used to distinguish words.
+
+#### How word forms change in Pandunia?
+
+In general, word forms can change in four ways.
+
+1. Total change: go ⇒ went
+2. Change in the stem: write ⇒ wrote
+3. Change of an affix: electric ⇒ electron
+4. Addition of an affix: man ⇒ manhood
+
+In Pandunia, only 3. and 4. are used.
+We can change the ending of a word,
+so for example **loge** (_speech_) can be changed to **loga** (_to speak_).
+We can also add suffixes,
+so for example **insania** (_humanity_) can be created from **insan** (_human being_).
+
+#### Why word forms change in Pandunia?
+
+Pandunia uses different word forms to indicate different word classes.
+There are many good sides:
+
+- Learning the grammar is very easy because
+  the essentials of the grammar are encoded visibly and audibly in words.
+- You can understand the structure of a sentence without knowing the meaning of all words.
+- You don't have to memorize the word class with each word separately
+  – words include that information in the last vowel!
+- Word derivation is symmetric because word stems are neutral in Pandunia.
+   - A word stem becomes a verb, a noun or a modifier only when the corresponding vowel ending is added.
+   - Even transitive and intransitive verbs are symmetric in Pandunia,
+     so we always know is the subject the agent or the recipient of the action.
+
+Word class marking is a very efficient method to realize a functional grammar.
+It is done in Pandunia with a minimal set of only four endings.
+(In comparison, Esperanto employs 10 basic and 7 combined endings.)
+
 #### Why agglutinating structure was chosen for Pandunia?
 
 Different structures were considered and tested during the
@@ -279,7 +342,6 @@ word are separated with the vertical bar sign.
 
 
 ## Vocabulary
-
 
 #### Where Pandunia's words come from?
 

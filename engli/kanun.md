@@ -996,9 +996,9 @@ The general time words are **pas** (past), **zay** (present) and **wil** (future
 They function like adjectives and adverbs, so typically their place is before the verb.
 
 **me pas tena maw.**
-– I had cats.
+– I had cats.  
 **a me ni zay tena maw.**
-– But I now don't have cats.
+– But I now don't have cats.  
 **abli me wil tena maw.**
 – Maybe I will have cats.
 
@@ -1051,7 +1051,7 @@ refer to time.
 
 **sa** is an all-purpose preposition. Its basic meaning is "with".
  
-**me stasa sa dom.**  
+**me libu sa dom.**  
 _I stand with house._  
 I stand by the house.
  

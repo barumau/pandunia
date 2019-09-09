@@ -47,7 +47,7 @@ Good evening!
 **salam noce!**
 Good night!
 
-**salam nyam!**
+**salam niam!**
 Bon appetit!
 
 **salam lay!**
@@ -401,49 +401,49 @@ I want to help you.
 
 ## Part 2: Eating
 
-### nyama <small>consume, eat, drink</small>
+### niama <small>consume, eat, drink</small>
 
-**eska te wanta nyama koy?**
+**eska te wanta niama koy?**
 Would you like to eat something?
 
-**le nyama aple.**
+**le niama aple.**
 He/she eats an apple.
 
-**lole nyama aple.**
+**lole niama aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 Do you drink coffee?
 
-**me nyama kafe.**
+**me niama kafe.**
 I drink coffee.
 
-Tip: Meaning of **nyama** covers both eating and drinking. It can feel odd at
+Tip: Meaning of **niama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me nyama kafe i pang.**
+**me niama kafe i pang.**
 I'm having coffee and bread.
 
 
 ### wanta <small>want</small>
 
-**eska te wanta nyama?**
+**eska te wanta niama?**
 Would you like to eat?
 
-**te wanta nyama ke?**
+**te wanta niama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me wanta nyama kafe.**
+**me wanta niama kafe.**
 I want to drink coffee.
 
-**eska te wanta nyama cay?**
+**eska te wanta niama cay?**
 Would you like to drink tea?  
 **ni. me ni wanta cay. me wanta kafe.**
 No, I don't want tea. I want coffee.
@@ -456,7 +456,7 @@ This red one.
 
 ### plisa <small>request, please</small>
 
-**me plisa te nyama cay.**
+**me plisa te niama cay.**
 I ask you to drink tea.
 
 **me plisa te laya dom.**
@@ -467,10 +467,10 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**plisa nyama cay.**
+**plisa niama cay.**
 Please, have some tea!
 
-**plisa nyama kafe.**
+**plisa niama kafe.**
 Please, have some coffee!
 
 **plisa laya dom.**
@@ -503,10 +503,10 @@ You're welcome. (Literally: _You're polite._)
 
 ### haida <small>let's</small>
 
-**haida nyama!**
+**haida niama!**
 Let's eat!
 
-**haida gowa nyama!**
+**haida gowa niama!**
 Let's go eat!
 
 **haida gowa dom.**
@@ -518,10 +518,10 @@ Let's go home.
 **me nida helpe.**
 I need help.
 
-**me nida nyama.**
+**me nida niama.**
 I'm hungry.
 
-**eska te nida nyama?**
+**eska te nida niama?**
 Are you hungry?
 
 **eska te nida suy?**
@@ -938,7 +938,7 @@ Is it new?
 **ke si max bon?**
 Which is better?
 
-**ce si maxim bon (du pan).**
+**ce si maxim bon (da pan).**
 This is the best (of all).
 
 **le kosta ke?**
@@ -948,7 +948,7 @@ Nothing.
 **le kosta lil / pol.**
 It is cheap / expensive.  
 
-**mome bitu laya.**
+**mome plisu laya.**
 We are being called.
 
 **me serca tualete.**
@@ -963,7 +963,7 @@ Come here / back / to us.
 **me darsa pandunia.**
 I study Pandunia.
 
-**xowa le pa me ya leksobuke!**
+**xowa le pa me sa leksobuke!**
 Show me in the dictionary!
 **me ni yada.**
 I don't remember.
