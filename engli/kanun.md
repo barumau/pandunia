@@ -1,4 +1,4 @@
-# Grammar
+# Grammar of Pandunia
 
 ## 1. Overview
 
@@ -868,52 +868,65 @@ Negative questions are answered so that **si** and **ni** apply to the verb, not
 **ni. (me ni wida te.)**
 – No. (I don't see you.)
 
+
 ### 9.2. Modifier particles
 
-Particles **du** and **da** are used to mark possession and modification.
-**du** connects the modifying word or phrase to the modified word.
-**da** works in the opposite direction.
-It connects the modified word to the modifier.
+Particles **du** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**du** connects the modifying word or phrase to the main noun word.
+**da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### 9.2.1. Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
 With regards to possession, **du** works like the apostrophe-s ('s) in English.
+It indicates that the previous word has possession of the next one.
 
 **maria du mame**
 – Maria's mother  
-**me du dom**
-– my house  
-**me du pape du dom**
-– my father's house
+**maria du mame du dom**
+– Maria's mother's house
 
 **da** works like "of" in English.
+It indicates that the next word has possession of the previous one.
 
 **mame da maria**
 – the mother of Maria  
-**dom da me**
-– the house of mine  
-**dom da pape da me**
-– the house of the father of mine
+**dom da mame da maria**
+– the house of the mother of Maria
 
-#### 9.2.2. Attribution with adjectives
+It's possible to use **da** and **du** with personal pronouns too,
+so one can say things like
+**dom da me** (_the house of mine_)
+but it's better to use the short possessive pronouns and say simply
+**mi dom** (_my house_).
+
+#### 9.2.2. Modification with adjectives
+
+With **da** it's possible to move a modifier after the noun.
+
+**nowi idey**
+– a new idea
+**idey da nowi**
+– an idea of new
+
+#### 9.2.3. Modification with noun phrases
 
 Another way to use these particles is to connect an adjective or other words with a noun.
 It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roze rang du labe**
+**rozi rang du labe**
 – rose-colored lips  
-**saman rang du yen**
+**samani rang du kan**
 – sky-colored eyes
 
 Or in the opposite order:
 
-**labe da roze rang**
+**labe da rozi rang**
 – lips of the color of the rose  
-**yen da saman rang**
+**kan da samani rang**
 – eyes of the color of the sky
 
 The particles help in creating measure words too.
@@ -933,39 +946,61 @@ So a modifier phrase with and without **du** can mean a different thing.
 **max du sundar pul**
 – more of beautiful flowers
 
-#### 9.2.3. Relative clauses
+#### 9.2.4. Modification with verb phrases
 
-Also relative clauses are created with help of the modifier particles.
+Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
+The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
-**le si man da me wida.**
-– He is the man that I saw.
+A declarative phrase:  
+**maw widu me.**
+– A cat is seen by me.
 
-Although **da** seems to have a similar role here as English relative pronouns
-_which_, _that_, _who_ and _whom_, it's still nothing more than a particle
-connecting a modifier (a verb phrase) to a modified. It's inseparable from the
-modified noun, and does not have a back-referring relation to it. Instead, the
-main-clause noun is implied within the relative clause right after the particle.
+The corresponding modifying phrase:  
+**maw da widu me**
+– the cat that is _seen by me_
 
-With **du**, it's possible to construct relative clauses that precede the
-modified noun. (The main-clause noun is implied right before the particle.)
+Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
+it's still nothing more than a particle connecting a modifier (in this case: a verb phrase) to the modified.
 
-**buke dugu du ren sa kamar.**
-– The book-reading person is in the room.  
-**le duga du buke sa meze.**
-– The book, that he/she reads, is on the table.
+The opposite word order is made with **du** and the verb ending in **-a**.
 
-The modified noun can be part of an adpositional phrase too.
+A declarative phrase:  
+**me wida maw.**
+– I see a cat.
+
+The corresponding modifying phrase:  
+**me wida du maw**
+– _My seen_ cat i.e. the cat _that I see_
+
+Pay attention to the final vowels! They are crucial for the meaning!
+
+**maw da widu man**
+– the cat that is seen by the man  
+**maw da wida man**
+– the cat that sees the man  
+**maw wida du man**
+– the _cat-seen_ man  
+**maw widu du man**
+– the _cat-seeing_ man
+
+Note! In Pandunia, words can be put in many different orders.
+That's why some translations sound clumsy in English although the original phrases are perfectly natural in Pandunia.
+
+#### 9.2.5. Modification with adposition phrases
+
+The modified noun can be part of an adposition phrase too.
 
 **me safara pa du site si teli.**
 – My destination city is far away.
 
-With the modified noun at the beginning, we need to call into action the
-otherwise rarely used postpositions **nu**, **yu**, **su**, and **pu**.
+With the modified noun at the beginning, we need to call into action the otherwise rarely used postpositions
+**nu**, **yu**, **su**, and **pu**.
 
 **site da pu me safara si teli.**
 – The city I’m traveling to is far away.  
 **ci kalam da su me zay kitaba si nowi.**
 – This pen, with which I’m writing now, is new.
+
 
 ### 9.3. Modal Particles
 
@@ -988,6 +1023,7 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 – _Also s/he_ drinks beer.
 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
+
 
 ### 9.4. Tense and Aspect Particles
 

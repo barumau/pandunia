@@ -49,48 +49,93 @@ precizigas.
 
 ### 2.1. Senflekciaj
 
-_Esencovorto_ estas vorto kiu prezentas aferon. Esencovortoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio. Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
+_Substantivo_ estas vorto kiu prezentas aferon.
+Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
+Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-**petre** - ŝtono, ŝtonoj, la ŝtono, la stonoj  
-**meze** - tablo, tabloj, la tablo, la tabloj  
-**kurse** - seĝo, seĝoj  
-**suy** - akvo  
+**petre**
+– ŝtono, ŝtonoj, la ŝtono, la stonoj  
+**meze**
+– tablo, tabloj, la tablo, la tabloj  
+**kurse**
+– seĝo, seĝoj  
+**suy**
+– akvo  
 
-Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono. Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **lun** temas pri _la luno_; nia nura suno kaj luno.
+Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono.
+Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **lun** temas pri _la luno_; nia nura suno kaj luno.
 
-Kunmetante du aŭ pli ya vortoj, oni kreas novan vorton. La lasta vorto en tia kunmetita ĉeno estas la kerna vorto. La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
+<!--
+Kunmetante du aŭ pli ya vortoj, oni kreas novan vorton.
+La lasta vorto en tia kunmetita ĉeno estas la kerna vorto.
+La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
-> **sol guang** - suna lumo  
-> **lun guang** - lun lumo  
-> **lun petre** - lun ŝtono  
+**sol guang**
+– suna lumo  
+**lun guang**
+– lun lumo  
+**lun petre**
+– luna ŝtono  
+-->
 
-Facila maniero por emfazi multecon estas repeti la vorton.
+### 2.2. Nombro
 
-> **petre petre** - ŝtonoj, multe da ŝtonoj  
-> **xing xing** - steloj, multe da steloj  
+Substantivoj havas la saman formon en la singularo kaj la plularalo.
+Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
+
+**kurse**
+– seĝo aŭ seĝoj  
+**un kurse**
+– unu seĝo  
+**dul kurse**
+– du seĝoj  
+**tin kurse**
+– tri seĝoj  
+**pol kurse**
+– multe da seĝoj; seĝoj
+
+
+### 2.3. Genro
+
+Pandunia ne havas gramatikan genron (t.e. maskla, femala kaj neŭtra kategorioj).
+
+Kelkaj vortoj enhavas _naturan genron_.
+Ekzemple **fem** (ino) estas femala kaj **man** (viro, icxo) estas maskla.
+
 
 --------------------------------------------------------------------------------
 
 ## 3. Modifovortoj
 
-_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto. En pandunio, Modifovortoj antaŭas la Esencovorton aŭ Agovorton kiun ili modifas.
+_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
+Panduniaj modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
+En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### 3.1. Modifante substantivon
 
-**day petre** - granda ŝtono  
-**bari petre** - peza ŝtono  
-**day meze** - granda tablo  
-**gaw meze** - alta tablo  
-**bon kurse** - bona seĝo
+**nowi kar**
+– nova aŭto 
+**rapi kar**
+– rapida aŭto  
+**day meze**
+– granda tablo  
+**gaw meze**
+– alta tablo  
+**bon kurse**
+– bona seĝo
 
-Kiam Modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton. Tio estas, kiel adjektivaj verboj en Esperanto.
+Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
+Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**petre day.** - La ŝtono grandas.  
-**meze gaw.** - La tablo altas.  
+**kar nowi.**
+– La aŭto novas. (Aŭ: La aŭto estas nova.)  
+**bagre rapi.**
+– Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**day meze gaw.** - La granda tablo altas.
+**nowi kar rapi.**
+– Nova aŭto estas rapida.
 
 ### 3.2 Modifante verbon
 
@@ -105,19 +150,25 @@ end of the sentence.
 
 ### 3.3. Modifante alian modifovorton
 
-Modifovorto povas modifi ankaŭ alian modifovorton. Ekzemple **day** (granda)
-kaj **lil** (eta) povas roli kiel adverboj.
+Modifovorto povas modifi ankaŭ alian modifovorton.
+Ekzemple **day** (granda) kaj **lil** (eta) povas roli kiel adverboj.
 
-> **day ren** - granda homo  
-> **lil ren** - eta homo  
-> **sundar ren** - bela homo
+**day ren**
+– granda homo  
+**lil ren**
+– eta homo  
+**sundar ren**
+– bela homo
 
-> **day sundar ren** - grande bela homo  
-> **lil sundar ren** - ete bela homo
+**day sundar ren**
+– grande bela homo  
+**lil sundar ren**
+– ete bela homo
 
 Oni separas modifovortoj per **i** (kaj).
 
-> **lil i sundar ren** - eta (kaj) bela homo
+**lil i sundar ren**
+– eta (kaj) bela homo
 
 ### 3.4. Komparoj
 
@@ -127,68 +178,81 @@ Modifovortoj povas esti komparataj.
 - **maxim** (la plej) signifas komparo de plejeco
 - **min** (malpli) signifas komparo de malplieco
 - **minim** (malplej) signifas komparo de malplejeco
-- **sem** (same) signifas komparo de sameco
+- **sam** (same) signifas komparo de sameco
 
 Partiklo **ka** rilatas komparvortoj al la fonto de komparo.
 
 **me si max bon ka te.**
-= Mi estas pli bona ol vi.  
+– Mi estas pli bona ol vi.  
 **te loga sem bon ka me.**
-= Vi parolas same bone kiel mi.
+– Vi parolas same bone kiel mi.
 
 #### 3.6. Finaĵo de modifovortoj
 
-Finaĵo de modifovortoj estas **-i** normale. La finaĵo estas ĉiam uzata
-je vortoj derivitaj el verboj kaj substantivoj. Ekz. **logi**
-_parola_, **suki** _feliĉa_, **kitabi** _skriba_.
+Finaĵo de modifovortoj estas **-i** normale.
+La finaĵo estas ĉiam uzata je vortoj derivitaj el verboj kaj substantivoj.
+Ekz. **logi** _parola_, **suki** _feliĉa_, **kitabi** _skriba_.
 
-La finaĵo ne estas uzata je radikoj, kiuj finiĝas je unu facile prononcebla
-konsonanto. Ekz. **bon** _bona_, **sundar** _bela_.
+La finaĵo ne estas en kelkaj tre oftaj vortoj, kiuj finiĝas je unu facile prononcebla konsonanto.
+Ekz. **bon** (_bona_), **day** (_granda_), kaj **lil** (_eta_).
 
 
 --------------------------------------------------------------------------------
 
 ## 4. Numeraloj
 
-Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie. Ekzemple la vorto **sol** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
+Kelkfoje la kvanto de la priparolata objekto estas jam konata laŭsituacie.
+Ekzemple la vorto **sol** (suno) normale temas pri unu suno, ĉar ekzistas nur unu.
 
-Oni esprimas kvanton aŭ nombron per Kvantovortoj. Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
+Oni esprimas kvanton aŭ nombron per kvantovortoj.
+Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
-**un xing** - unu stelo  
-**dul xing** - du steloj  
-**sam xing** - tri steloj  
-**xaw xing** - kelkaj steloj  
-**pol xing** - multe da steloj
+**un xing**
+– unu stelo  
+**dul xing**
+– du steloj  
+**tin xing**
+– tri steloj  
+**xaw xing**
+– kelkaj steloj  
+**pol xing**
+– multe da steloj
 
-**un day kurse** - unu granda seĝo  
-**dul day kurse** - du grandaj seĝoj  
-**sam bon kurse** - tri bonaj seĝoj
+**un day kurse**
+– unu granda seĝo  
+**dul day kurse**
+– du grandaj seĝoj  
+**tin bon kurse**
+– tri bonaj seĝoj
 
-Se la Kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
+Se la kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
-**fen un** - la unua parto  
-**fen dul** - la dua parto  
-**fen sam** - la tria parto  
+**fen un**
+– la unua parto  
+**fen dul**
+– la dua parto  
+**fen tin**
+– la tria parto  
 
 Jen la ĉefaj nombroj:
 
 - 0 **nol**
 - 1 **un**
 - 2 **dul**
-- 3 **sam**
+- 3 **tin**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
-- 7 **set**
-- 8 **bat**
-- 9 **noy**
+- 7 **sem**
+- 8 **bal**
+- 9 **naw**
 
 Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la matematiko. 
 
 - 10 **un nol** aŭ **des**
 - 11 **un un**
 - 12 **un dul**
-- 13 **un sam**
+- 13 **un tin**
 - 20 **dul nol**
 - 21 **dul un**
 - 22 **dul dul**
@@ -199,14 +263,14 @@ Pli grandajn nombrojn oni kreas simple per kunmeti nombrojn; ekzakte kiel en la 
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj. Do ekzemple _kilo_ indikas miloblecon.
 
-- 1000 **kilo**
-- 1 000 000 **mega**
-- 1 000 000 000 **giga**
-- 1 000 000 000 000 **tera**
-- 10<sup>15</sup> **peta**
-- 10<sup>18</sup> **eksa**
-- 10<sup>21</sup> **zeta**
-- 10<sup>24</sup> **yota**
+- 1000 **kil**
+- 1 000 000 **megi**
+- 1 000 000 000 **gigi**
+- 1 000 000 000 000 **teri**
+- 10<sup>15</sup> **peti**
+- 10<sup>18</sup> **eksi**
+- 10<sup>21</sup> **zeti**
+- 10<sup>24</sup> **yoti**
 
 
 
@@ -216,62 +280,82 @@ Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo 
 
 Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj ya Esencovortoj.
 
-**me** - mi  
-**te** - vi _(ununombre)_  
-**le** - li, ŝi, ri, ĝi  
-**mome** - ni  
-**tote** - vi _(multnombre)  
-**lole** - ili
+**me**
+– mi  
+**te**
+– vi _(ununombre)_  
+**le**
+– li, ŝi, ri, ĝi  
+**mome**
+– ni  
+**tote**
+– vi _(multnombre)  
+**lole**
+– ili
 
 ### 5.2. Refleksiva pronomo
 
-**ze** - si (mem)
+**ze**
+– si (mem)
 
-Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj. Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
+Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj.
+Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**me vida ze** - Mi vidas min.  
-**le vida ze** - Ŝi vidas sin.  
+**me vida ze**
+– Mi vidas min.  
+**le vida ze**
+– Ŝi vidas sin.  
 
 
 ### 5.3. Montrovorto
 
 La montrovorto estas:
 
-**ce** - tio
+**ce**
+– tio
 
-**me wanta ce.** - Mi volas tion.  
-**le wanta ce sa me.** - Ĝi volas tion ĉe mi.  
-
-La proksimecon oni povas indiki antaŭmetante la vortojn **jin** (proksima) aŭ **tel** (fora), kiam tio estas bezonata.
-
-**ci** - (ĉi) tio, (ĉi) tiu  
-**ci jin** - ĉi tio, ĉi tiu _(proksima)_  
-**ci tel** - tio, tiu _(fora)_  
+**me wanta ce.**
+– Mi volas tion.  
+**le wanta ce sa me.**
+– Ĝi volas tion ĉe mi.  
 
 
-Montrovortoj povas roli kiel Modifovortoj.
+Montrovortoj povas roli kiel modifovortoj.
 
-> **ci petre.** - Tiu ŝtono.  
-> **ce si petre.** - Tio estas ŝtono.  
-> **ci petre bari.** - Tiu ŝtono pezas.  
+**ci petre.**
+– Tiu ŝtono.  
+**ce si petre.**
+– Tio estas ŝtono.  
+**ci petre bari.**
+– Tiu ŝtono pezas.  
 
 
 ### 5.4. Demandovorto
 
-**Ke** estas la ĝenerala demandovorto en pandunio. Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
+**ke** estas la ĝenerala demandovorto en pandunio.
+Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
-**ke?** - Kiu?/Kio?  
-**ki xey?** - Kio? (Kiu afero?)  
-**ki ren?** - Kiu? (Kiu persono?)  
-**ki zaman?** - Kiam? (Kiu tempo?)  
-**ki yang?** - Kiel? (Kiu maniero?)  
-**ki sabe?** - Kial? (Kiu kaŭzo?)
+**ke?**
+– Kiu?/Kio?  
+**ki xey?**
+– Kio? (Kiu afero?)  
+**ki ren?**
+– Kiu? (Kiu persono?)  
+**ki sate?**
+– Kiam? (Kiu tempo?)  
+**ki yang?**
+– Kiel? (Kiu maniero?)  
+**ki sabe?**
+– Kial? (Kiu kaŭzo?)
 
 Ankaŭ adjektivoj estas demandataj per **ki**.
 
-**ki day?** - Kiom granda?  
-**ki lil?** - Kiom eta?  
-**ki day du maw te ada?** - Kiom granda kato vi havas?
+**ki day?**
+– Kiom granda?  
+**ki lil?**
+– Kiom eta?  
+**ki day du maw te tena?**
+– Kiom granda kato vi havas?
 
 --------------------------------------------------------------------------------
 
