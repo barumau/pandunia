@@ -116,20 +116,49 @@ In practice many words are shared by two or more language pools. Pandunia favors
 
 ### Word selection method
 
-1. Collect translations for a given word in the above-mentioned languages.
-   (Use Wiktionary, Google Translate, or some other tool.)
-2. Identify families of similar words. Usually it covers one or more of the following groups of languages:
-   - Languages of the Western culture: English, French, Spanish, Portuguese, Russian, German
-   - Languages of the Islamic culture: Arabic, Persian, Turkish, Urdu, Hindi, Bengali, Telugu, Malay, Tagalog, Swahili, Wolof, Hausa
-   - Languages of the Chinese culture: Mandarin, Cantonese, Wu, Min, Hakka, Japanese, Korean, Vietnamese, Thai, Khmer (and sometimes also Filipino and Malay)
-   - Languages of the Indian culture: Hindi, Urdu, Bengali, Telugu, Kannada, Tamil, Burmese, Khmer, Thai, Malay, Tagalog
-3. Select the most international family of similar words.
+Words that are specific to a certain culture shall be adopted from languages that best represent that culture.
+
+Words for objects of nature (for example plants and animal species) shall be adopted from a language that is spoken in the area where that object is found.
+
+So the first question is, does the word _belong_ to a certain region or culture?
+
+- Yes. → Select the word from languages that are important in that region or culture.
+- No. → Use the following word selection method.
+
+1. Collect translations for a given word in the 12 languages or language teams that are listed below
+   by using electronic or printed dictionaries, Wiktionary, Google Translate, or some other tool.
+2. Identify groups of similar words.
+   - Similar words can be historically related
+   - or they can sound alike by coincidence.
+3. Select the most international group of similar words.
+   - The more international, the better.
    - The best words are cross-cultural.
    - If there's no cross-cultural word, select the one that is known by the greatest number of 1st language speakers.
-4. Select a form that fits into Pandunia.
-   - Find out the stem of the word by stripping off all the prefixes and suffixes.
+4. Select a word form that represents the group well and fits into Pandunia well.
+   - Strip off unnecessary prefixes and suffixes.
    - Use [the sounds, the spelling and the normal word structure](abc.md) of Pandunia.
-   - Make sure that the new word doesn't conflict with an already existing Pandunia word.
+   - Make sure that the new word is not identical or too similar to any already existing Pandunia word.
+
+The list of source languages for general words:
+
+1. English
+2. French
+3. Spanish and/or Portuguese
+4. Russian
+5. Arabic
+6. Mandarin
+7. Japanese
+8. Korean and/or Vietnamese
+9. Hindi and/or Urdu
+10. Bengali
+11. Malay
+12. Swahili
+
+Normally a word appears in at least two of the source languages.
+In case there isn't a common word, partially similar words can be selected.
+Only in the last resort a word from only one language can be accepted.
+
+
 ### Example: Selecting the word for "language"
 
 First possible candidates are searched from widely spoken languages. The search reveals that there are several words that are international.
