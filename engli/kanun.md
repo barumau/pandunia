@@ -1159,105 +1159,98 @@ from ancient Greek, Latin, Arabic and Persian.
 
 ### 11.1. Part of speech markers
 
-Pandunia uses vowel endings for quick word derivation. In this system
-the final vowel of a word marks the type of the word. The system
-applies mainly to those words, which are derived from action-roots and
-description-roots. Some adjectives are also derived from thing-roots.
-Pronouns, conjuctions, numerals and particles are outside of the word
-derivation system.
+Pandunia uses vowel endings for quick word derivation.
+In this system the final vowel of a word indicates its word class.
+So the stem of the word indicates a general idea
+and the vowel endings indicate different manifestations of that idea:
+a thing (noun), a description (modifier) and an action (verb).
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- **a** marks verbs for subject-verb-object word order (SVO)
-- **u** marks verbs for object-verb-subject word order (OVS)
-- **i** marks adjectives i.e. modifiers of nouns
 - **e** marks nouns that are derived from action roots and description roots
+- **i** indicates modifiers
+- **a** indicates forward verbs
+- **u** indicates backward verbs
 
-The designated vowel endings enable easy derivation of one type of
-word from another. An ending is simply changed to another ending. Here
-are some examples.
+The designated vowel endings enable easy derivation of one type of word from another.
+An ending is simply changed to another ending.
 
-**loga** - to speak (active verb)  
-**logu** - to be spoken (passive verb)  
-**logi** - spoken, wordy (adjective)  
-**loge** - speech, word(s) (noun)  
+- The ending -e converts the idea into a thing.
+  For example **nile** means blue color.
+- The ending -i converts the idea into a description.
+  The resulting modifier describes another idea with the modifying idea.
+  For example **nili dom** means a blue house.
+- The ending -a converts the idea into an action.
+  The resulting verb is about applying the idea to an object.
+  For example **nila dom** means _to apply blue on the house_ i.e. _to make the house blue_.
+- The ending -u creates an action just like -a.
+  The only difference is that the word order is reversed.
 
-**kitaba** - to write (active verb)  
-**kitabu** - to be written (passive verb)  
-**kitabi** - written, textual (adjective)  
-**kitabe** - writing, text (noun)  
+All endings can be applied on all ideas in the same way.
 
-**nowi** - new (adjective)  
-**nowa** - to make new (active verb)  
-**nowu** - to become new (passive verb)  
-**nowe** - novelty, new thing (noun)  
+Here are a few examples of different types of ideas.
 
-There is a handful of verbs, which appear without the ending. These
-are some of the most common verbs in Pandunia.
+- concrete action
+    - **kitabe** a writing (noun)
+    - **kitabi** written, textual (modifier)
+    - **kitaba** to write (forward verb)
+	- **kitabu** to be written (backward verb)
+- abstract action
+    - **fikre** a thought (noun)
+    - **fikri** thinking (modifier)
+    - **fikra** to think (forward verb)
+	- **fikru** to be thought (backward verb)
+- description
+    - **longe** length (noun)
+    - **longi** long (modifier)
+    - **longa** to make long, to lengthen (forward verb)
+	- **longu** to get long (backward verb)
+- tool
+    - **hamar** a hammer (noun)
+    - **hamari** "hammery", hammerlike (modifier)
+    - **hamara** to hammer, to apply hammer on sth (forward verb)
+	- **hamaru** to be hammered (backward verb)
 
-**wanta** - to want (active verb)  
-**abla** - can, to be able to (active verb)  
 
 #### 11.1.2. Deriving verbs
 
-Dynamic verbs end in **-a** and **-u**. From the narrow perspective of
-a phrase that consists of only a subject and a verb, it can be said
-that **-a** marks an active verb and **-u** marks a passive verb. So
-**loga** means _to speak_ and **logu** means _to be spoken_.
+**-a** and **-u** are the endings for verbs.
 
-1. If the root is an action, then its verb form will mean "to do the
-   action".  For example from **wide** = "a look" we get **wida** =
-   "to look".
-2. If the root is a description, like **now-** (**nowi** = new), then
-   its verb form will mean "to turn into that quality". For example
-   from **nowi** = "new" we get **nowa** = "to make new" or "to
-   renew".
-3. If the root is a thing, then its verb form will mean "to apply it
-   to". For example from **hamar** = "hammer" we get **hamara** = "to
-   hammer".
+1. If the stem's idea is an action, then its verb form will mean "to do the action".
+   For example from **wide** (_a look_) we get **wida** (_to look_).
+2. If the idea is a description then its verb form will mean "to turn into that quality".
+   For example from **nowi** (_new_) we get **nowa** (_to make new_ or _to renew_).
+3. If the idea is a thing, then its verb form will mean "to apply it to".
+   For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
 
 
 #### 11.1.3. Deriving nouns
 
-**-e** is the marker of nouns. It means the result of the process. So
-**loge** means the _speech_ that results from the act of speaking.
+**-e** is the ending for nouns.
 
-If the root word is an action, then its noun form will mean the
-product of the action. For example from **kitab-** = "to write" we get
-**kitabe** = "writing" or "text".
+If the stem's idea is an action, then its noun form will mean the result or the product of the action.
+For example from **kitaba** (_to write_) we get **kitabe** (_writing_ or _text_).
 
-If the root word is a description, then its noun form will mean a
-concrete instance of that quality. For example from **now-** = "new"
-we get **nowe** = "a novelty" i.e. something new.
+
+If the idea is a description, then its noun form will mean a concrete instance of that quality.
+For example from **nowi** (_new_) we get **nowe** (_a novelty_ i.e. something new).
 
 Additional noun suffixes are presented below.
 
 #### 11.1.4. Deriving modifiers
 
-**-i** is the marker of adjective and adjectival verb (i.e. static
-verb). It is the all-purpose adjective suffix.
+**-i** is the ending for modifiers that include adjectives, adverbs and and adjectival verbs.
 
-For example, from the verb **loga** (to speak) we get the adjective
-**logi** (spoken, wordy). From the noun **insan** (human being), we
-get the adjective **insani** (human, having the attributes of a human
-being). However, only derived adjectives need to end in **-i**.
+If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
+For example from **now-** (_newness_), we get **nowi** (_new_ i.e. _that which is new_).
 
-Words that are adjectives _by birth_ don't need the ending. That's why
-for example **bon** (good) and **sundar** (beautiful) don't end in -i.
+If the idea is an action, then its adjectival form will mean the state that is produced by the action.
+For example from **loga** (_to speak_) we get **logi** (_spoken_).
 
-If the root word is a description, then its adjectival form will mean
-"that which is in the state of the root". For example from **now-** =
-quality of novelty, we get **nowi** = _new_ i.e. _that which is new_.
+If the idea is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
+For example, from the noun **insan** (_human being_), we get the adjective **insani** (_human_, having the attributes of a human being).
 
-If the root is an action, then its adjectival form will mean the state
-that is produced by the action. For example from **loga** = "to speak"
-we get **logi** = "spoken".
-
-If the root is a thing, an object or a person, then its adjectival
-form will mean "that which is like the root".
-
-If the root is a place word, then its adjectival form will mean "that
-which is from that place".
+If the root is a place word, then its adjectival form will mean "that which is from that place".
 
 **iran** Iran, **irani** Iranian  
 **pakistan** Pakistan, **pakistani** Pakistani  
@@ -1267,40 +1260,41 @@ which is from that place".
 
 #### 11.1.5. Words without an ending
 
-Nouns and modifiers don't always have the corresponding ending. For
-example we normally use short word **insan** (human being) instead of
-**insane**. Likewise we normally say **bon** (good) instead of
-**boni**.
+Some words in Pandunia don't have a vowel ending.
+These are the rules:
 
-Also the complete word forms are accepted but they are not required.
+- Verbs always have an ending: **-a** or **-u**.
+- Modifiers almost always have the ending **-i**.
+  The most common adjectives are exceptions to the rule: **bon, mal, lil, day**.
+- Nouns have the ending after _hard_ consonants (ex. **supe, pede, yuke**)
+  and consonant groups (ex. **cante, poste, zebre**)
+  but not after _soft_ consonants (ex. **cay, maw, man, fem, hotel**).
 
-Verbs however always have their proper endings. So we always say for
-example **baxa** and **baxu** and never **bax** (as a verb). Instead,
-**bax** is a noun i.e. short form of **baxe**.
+For example we normally use short word **insan** (_human being_) instead of **insane**.
+Likewise we normally say **bon** (_good_) instead of **boni**.
+Note that it is always acceptable to use the vowel endings on every word.
+It is an artistic choice by the authors of Pandunia to not require them on noun stems that end in soft vowels.
 
 ### 11.2. Compound words
 
-Two or more nouns can be put together to make a _compound word_. The
-last word is the most meaningful word in the compound and the words
-that come before it only modify its meaning.
+Two or more nouns can be put together to make a _compound word_.
+The last word is the most meaningful word in the compound and the words that come before it only modify its meaning.
 
-Compound words are created by putting two words together and by
-inserting the linking vowel **-o-** between them (in place of the
-original word class marker).
+Compound words are created by putting two words together and by inserting the linking vowel **-o-** between them
+(in place of the original word class marker).
 
 Example: Creating **termometer** from **terme** and **meter**.  
-First the word class marker **-e** is removed from **terme**,
-leaving **term**. Then the linking vowel **-o-** is added and
-then the second word **meter**, resulting into **term-o-meter** i.e.
-**termometer**.
+First the word class marker **-e** is removed from **terme**, leaving **term**.
+Then the linking vowel **-o-** is added and then the second word **meter**,
+resulting into **term-o-meter** i.e. **termometer**.
 
          terme      (temperature)  
        + meter      (measuring device)
     ____________
     = termometer    (thermometer)
 
-The linking vowel -o- is not used when the second word begins with a
-vowel. (So there is the so called _null morpheme_ -∅- instead.)
+The linking vowel -o- is not used when the second word begins with a vowel.
+(So there is the so called _null morpheme_ -∅- instead.)
 
           dew       (god)  
        + iste       (proponent, -ist)
@@ -1319,8 +1313,7 @@ Indicates possibility. It is attached after the verb root.
 
 #### 11.3.2. -er
 
-Creates agent nouns. It denotes a person or a tool who does the
-action.
+Creates agent nouns. It denotes a person or a tool which does the action.
 
 **loga** to speak; **loger** speaker, the one who speaks  
 **beka** to bake; **beker** baker, the one who bakes  
@@ -1405,53 +1398,7 @@ Creates verbs that reverse the meaning of the base verb.
 **liga** to tie; **ligula** to untie  
 **ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
 
-
-
-## 12. Advanced Topics
-
-Note: You can learn the language without reading this chapter. But if
-you're interested in the inner workings of the language, it can be
-interesting to you.
-
-### 12.1. Relations between the endings
-
-A root is an idea that has many faces: a thing, a state and an action.
-
-- The ending -e converts the idea into a thing.
-  For example **nile** means blue color.
-- The ending -i converts the idea into a description. The resulting
-  modifier describes another idea with the modifying idea.
-  For example **nili dom** means a blue house.
-- The ending -a converts the idea into an action. The resulting verb
-  is about applying the idea to an object.
-  For example **nila dom** means _to apply blue on the house_ i.e.
-  _to make the house blue_.
-- The ending -u creates an action just like -a. The only difference
-  is that the word order is different.
-
-All endings can be applied on all ideas in the same way.
-
-Here are a few examples of different types of ideas.
-
-- concrete action
-    - **kitabe** a writing
-    - **kitabi** written, textual
-    - **kitaba** to write
-- abstract action
-    - **fikre** a thought
-    - **fikri** thinking
-    - **fikra** to think
-- description
-    - **longe** length
-    - **longi** long
-    - **longa** to make long, to lengthen
-- tool
-    - **hamar** a hammer
-    - **hamari** "hammery", hammerlike
-    - **hamara** to hammer, to apply hammer on sth
-
-
-### 12.2. Function Words
+### 11.4. Function Words
 
 _Function words_ are words that help to organize words into more or less complex sentences.
 It is a closed class i.e. new words are never or only very seldom be added to it.
