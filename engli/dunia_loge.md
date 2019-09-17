@@ -1,120 +1,98 @@
 # World Words
 
+# Where Pandunia words come from?
+
+## Principles
+
+Most Pandunia words are already international – at least in some part of the world!
+The three key criteria for selecting words for Pandunia are:
+
+- **Equality** : Words are be borrowed equally from different regions of the world.
+  In practice it means that Pandunia borrows words from the languages of Africa, Asia, Europe and the Americas.
+- **Prevalence** : Widely spread words are favored.
+  The more people know the word the better.
+- **Simplicity** : Word forms with easy pronunciation are favored.
+
 ## Cultures of the world
 
-Hartmut Traunmuller divided the world into four major cultural spheres in his article [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf). The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts. The four major cultural spheres are:
+Hartmut Traunmuller divided the world into four major cultural spheres in his article
+[A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf).
+The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts.
+The four major cultural spheres are:
 
-1. The Western (i.e. European) cultural sphere
-2. The Islamic (i.e. Afro-Asian) cultural sphere
-3. The Indian (i.e. South Asian) cultural sphere
-4. The Chinese (i.e. East Asian) cultural sphere
+1. The Western (or the European) cultural sphere
+   - This sphere covers all of Europe, Americas, Australia and various smaller regions.
+   - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
+2. The Afro-Asian (or the Islamic) cultural sphere
+   - This group includes languages of areas where Islam is the main religion.
+   - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
+   - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
+3. The South Asian (or the Indian) cultural sphere
+   - This sphere covers the very populous subcontinent of India, Indochina and more
+   - The classical language of this group are Sanskrit, Tamil and Pāli
+   - The Indian vocabulary has been spread by Hinduism and especially Buddhism in all directions in Asia and elsewhere.
+4. The East Asian (or the Chinese) cultural sphere
+   - This culturel sphere grew around ancient China, the Middle Kingdom
+   - All languages of East Asia are saturated by loan words from Chinese.
+   - The biggest modern Chinese language, Mandarin, competes for the title of the most spoken language in the world today.
 
-They are roughly outlined in the picture below.
+The cultural spheres are roughly outlined in the picture below.
 
 ![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
-Samuel P. Huntington presented a division of the humankind into civilizations in his famous book _The Clash of Civilizations and the Remaking of World Order_ (1996). His division matches Traunmuller's division by and large. According to Huntington, civilization is the highest rank of cultural identity of people. It is defined by language, history, religion, customs and institutions.
+## Selecting the source languages
 
-| Civilization     | Geographic area                       | Religion                        | Primeval language |
-|------------------|---------------------------------------|---------------------------------|-------------------|
-| Eastern Orthodox | East Europe and North Asia            | Eastern Orthodox Christianity   | Greek             |
-| Western          | Europe, North America and Australasia |Catholic and Protest Christianity| Latin             |
-| Latin American   | South and Central America             | Catholic Christianity           | Latin             |
-| African          | Sub-Saharan Africa                    | African Christianity            | -                 |
-| Islamic          | North Africa and South Asia           | Islam                           | Arabic            |
-| Hindu            | Indian Subcontinent                   | Hinduism                        | Sanskrit          |
-| Buddhist         | Indochina, Sri Lanka, Tibet           | Theravada Buddhism              | Pali              |
-| Sinitic          | China, Korea and Vietnam              | Confucianism                    | Middle Chinese    |
-| Japanese         | Japan                                 | Shintoism and Buddhism          | Middle Chinese    |
-| Lone countries   | Ethiopia                              | Ethiopian Christianity          | Ge'ez             |
-|                  | Israel                                | Judaism                         | Hebrew            |
-|                  | Haiti                                 | Catholicism and Vodou           | -                 |
+It is estimated that over 6000 different languages are spoken in the world.
+Some languages are spoken by many while others are spoken by only a few.
+It is impossible to include all languages into the construction of a world language because of their great number.
+The number of source languages should be manageable for one person to work with.
 
-These kinds of classifications are always questionable because they are over-generalized. However they help us to understand that there are many well-developed and deep-rooted cultures in the world.
+So, which languages should be considered?
 
-It is generally agreed that language and culture are closely related. Language can be viewed as a verbal expression of culture. It is necessary to consider all cultures and all international vocabularies in the making of a global language.
+[Power Language Index](http://www.kailchan.ca/wp-content/uploads/2016/12/Kai-Chan_Power-Language-Index-full-report_2016_v2.pdf)
+provides an answer to this question.
+It is a tool for comparing efficacy of languages that has been created by Ph.D. Kai L. Chan.
+It compares languages on how well they enable the following five opportunities:
 
-## Loan words in natural languages
+1. Geography: The ability to travel
+2. Economy: The ability to participate in economic activities
+3. Communication: The ability to participate in dialogue
+4. Knowledge and media: The ability to consume knowledge and media
+5. Diplomacy: The ability to engage in international relations
 
-Natural languages can borrow words from one or more cultural spheres.
+Chan builds a ranking of languages based on a combination of the above-listed opportunities.
+This ranking is used as a reference in Pandunia.
 
-The table below illustrates how much words some notable languages have borrowed from the different cultural spheres.
+### The main source languages for Pandunia
 
-| Language    | Western | Islamic | Indian  | Chinese |
-|:------------|:-------:|:-------:|:-------:|:-------:|
-| Arabic      |         |    ⚫    |         |         |
-| Bengali     |    ◔    |    ◔    |   ◕     |         |
-| English     |    ⚫    |         |         |         |
-| French      |    ⚫    |         |         |         |
-| Hindi-Urdu  |    ◔    |    ◔    |   ◕     |         |
-| Indonesian  |    ◔    |    ◔    |   ◔     |    ◔    |
-| Japanese    |    ◔    |         |         |    ◑    |
-| Korean      |    ◔    |         |         |    ◕    |
-| Mandarin    |         |         |         |    ⚫    |
-| Persian     |    ◔    |    ⚫    |         |         |
-| Portuguese  |    ◕    |    ◔    |         |         |
-| Russian     |    ◑    |         |         |         |
-| Swahili     |    ◔    |    ◑    |   ◔     |         |
-| Spanish     |    ◕    |    ◔    |         |         |
-| Tagalog     |    ◔    |         |   ◔     |    ◔    |
-| Thai        |         |         |   ◑     |    ◔    |
-| Turkish     |    ◔    |    ◔    |         |         |
-| Vietnamese  |    ◔    |         |         |    ◕    |
+Most Pandunia words are borrowed from the following 14 widely spoken languages.
+The languages are selected so that they represent different language families,
+different geographical regions and different cultures.
 
+The following table is ordered by the rank in the Power Language Index.
 
-## Types of auxliary languages
+| Language   | Native speakers in millions | Rank in the _Power Language Index_ | Cultural sphere |
+|:-----------|----:|:--:|:--------------------|
+| English    | 446 |  1 | Western             |
+| Mandarin   | 960 |  2 | East Asian          |
+| French     | 80  |  3 | Western             |
+| Spanish    | 470 |  4 | Western             |
+| Arabic     | 295 |  5 | Afro-Asian          |
+| Russian    | 150 |  6 | Western             |
+| Hindi-Urdu | 442 |  8 | Indian & Afro-Asian |
+| Japanese   | 125 |  9 | East Asian          |
+| Portuguese | 215 | 10 | Western             |
+| Malay      |  77 | 14 | Indian & Afro-Asian |
+| Korean     |  80 | 16 | East Asian          |
+| Bengali    | 210 | 30 | Indian & Afro-Asian |
+| Swahili    |  10 | 37 | Afro-Asian          |
+| Vietnamese |  76 | 43 | East Asian          |
 
-### Regional auxiliary languages
+Because the languages constantly influence each other, there are a lot of international words.
+Some words are international in the West, some in the East, and some are even global.
+Pandunia attempts to use as international, intercontinental and global words as possible.
 
-Many constructed auxiliary languages are based almost exclusively on the Western vocabulary, which stems from Greek and Latin. Such languages can be called Europe centric languages, Eurocentric languages or eurolangs in short. These languages rarely – if ever – go beyond the Western languages in search for new words. Some of the most widely known auxiliary languages are eurolangs:
-
-- Esperanto (published in Imperial Russia in 1887)
-- Ido (France, 1907)
-- Occidental/Interlingue (Estonia, 1922)
-- Novial (Denmark, 1928)
-- Interlingua (USA, 1951)
-- Lingua Franca Nova (USA, 1966)
-- Glosa (UK, 1972)
-
-Some eurolangs even try to be understandable "at first sight", which is only possible if the language resembles some existing language very much. Often the goal was to look like Latin or some modern Latinate language like Italian. However all of these languages have failed to become popular in their home ground, the West, and it is unlikely that any other part of the world would adopt them.
-
-Some auxiliary languages have been created for other regions such as Afrihili for Africa.
-
-
-### Global auxiliary languages
-
-Languages with global scope have also been created. This heterogeneous type of languages is called **worldlangs** in the auxiliary language circle. Some of the most notable worldlangs are listed [here](http://www.kupsala.net/risto/tekokieli/worldlangs.html).
-
-Pandunia is one of the more developed worldlangs.
-Pandunia has even inspired the creation of other languages like Novbasa and Globasa.
-
-
-## How words are selected to Pandunia
-
-### Principles
-
-Pandunia's words come from some of the most widely spoken languages of the world. There is a methodology for selecting words. The three key criteria for selecting words are:
-
-- **Equality** : Words are be borrowed equally from different regions of the world. In practice it means that Pandunia has words from the languages of Europe, the Americas, Asia and Africa.
-- **Prevalence** : Wide-spread words are favored. The more people who know the word the better.
-- **Simplicity** : Word forms with easy pronunciation are favored.
-
-### Sources
-
-Words of Pandunia come from the following _language pools_. Each pool includes 500-900 million people!
-
-1. Latinate languages : The languages in this group are descendants of Latin of the Roman Empire. They are very similar to each other. The languages in this group include Spanish, Portuguese, French and Italian.
-2. Other Western languages : This groups includes the remaining Western languages. Most of them have been influenced greatly by Greek and Latin. The languages in this group include English, German, Russian, Polish and many others. English is the single most important language in this group.
-3. West Asian and North African languages : This group includes Arabic, Turkish, Persian and other languages of this region. The languages in this group have influenced each other and they have had a great impact on languages of the surrounding regions.
-4. Sub-Saharan African languages : This group includes most languages of Africa. More than two thousand languages are spoken in Africa, but there some major cross-border languages (Swahili, Hausa, Lingala) and other major languages (Amharic, Oromo, Igbo, Yoruba). Many languages in this group have been influenced by Arabic, English, French or Portuguese.
-5. Indo-Aryan languages : The languages in this group are descendants of Sanskrit. This group includes Hindi, Bangla, Urdu and many other languages of Northern India, Pakistan, Bangladesh and Nepal. Perso-Arabic and English have left their print on this group.
-6. South Asian languages : This incoherent group includes the languages of South India, Indo-China and Austronesia. They have been influenced by Sanskrit and Pâli and also Perso-Arabic and Chinese to a lesser extent.
-7. Mandarin Chinese : Mandarin Chinese has more native speakers than any other language and therefore it is considered a group on its own.
-8. Other East Asian languages : This group includes other Chinese languages, such as Cantonese, Shanghaiese and Taiwanese, and also neighbouring languages, Korean, Japanese and Vietnamese, which have been saturated by Chinese loan words.
-
-In practice many words are shared by two or more language pools. Pandunia favors international, intercontinental and global words. 
-
-### Word selection method
+## Word selection method
 
 Words that are specific to a certain culture shall be adopted from languages that best represent that culture.
 
@@ -158,8 +136,9 @@ Normally a word appears in at least two of the source languages.
 In case there isn't a common word, partially similar words can be selected.
 Only in the last resort a word from only one language can be accepted.
 
+## Examples
 
-### Example: Selecting the word for "language"
+### Selecting the word for "language"
 
 First possible candidates are searched from widely spoken languages. The search reveals that there are several words that are international.
 
