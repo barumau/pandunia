@@ -478,6 +478,8 @@ In this sentence structure the agent comes first, the verb second, and the recip
     A   R
 
 Examples:  
+**te wida ke?**
+– You see what?  
 **me wida lole.**
 – I see them.  
 **te beka pang.**
@@ -906,7 +908,7 @@ but it's better to use the short possessive pronouns and say simply
 With **da** it's possible to move a modifier after the noun.
 
 **nowi idey**
-– a new idea
+– a new idea  
 **idey da nowi**
 – an idea of new
 
@@ -925,9 +927,9 @@ The modifier particles are useful for creating complex adjectives that consists 
 Or in the opposite order:
 
 **labe da rozi rang**
-– lips of the color of the rose  
+– lips of the rose-color  
 **kan da samani rang**
-– eyes of the color of the sky
+– eyes of the sky-color
 
 The particles help in creating measure words too.
  
