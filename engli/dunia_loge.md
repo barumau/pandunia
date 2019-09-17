@@ -52,7 +52,7 @@ So, which languages should be considered?
 [Power Language Index](http://www.kailchan.ca/wp-content/uploads/2016/12/Kai-Chan_Power-Language-Index-full-report_2016_v2.pdf)
 provides an answer to this question.
 It is a tool for comparing efficacy of languages that has been created by Ph.D. Kai L. Chan.
-It compares languages on how well they enable the following five opportunities:
+It compares languages on how well they provide to a speaker the following five opportunities:
 
 1. Geography: The ability to travel
 2. Economy: The ability to participate in economic activities
