@@ -32,6 +32,8 @@ language. You can just speak Pandunia!
 
 ### salam <small>greet, greeting</small>
 
+<p style="font-size:5em;">🙋‍</p>
+
 **salam**
 Hello!
 
@@ -72,7 +74,42 @@ non-religious people in many different countries around the world.
 שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
 Indonesian: selamat.</small>
 
+
+### danke <small>thanks</small>
+
+<p style="font-size:5em;">🙏</p>
+
+**danke!**
+Thanks!
+
+**pol danke!**
+Thanks a lot!
+
+**si, danke.**
+Yes, thank you.
+
+**ni, danke.**
+No, thank you.
+
+**danka te.**
+Thank you.
+
+**me danka te.**
+I thank you.
+
+**me danka te helpa me.**
+I thank you for helping me.
+
+**danka te helpa me.**
+Thanks for helping me.
+
+**te keci.**
+You're welcome. (Literally: _You're polite._)
+
+
 ### me <small>I, me</small>
+
+<p style="font-size:5em;">🗨️🧑</p>
 
 **me sarah.**
 I'm Sarah.
@@ -107,6 +144,8 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
 
 ### te <small>you</small>
 
+<p style="font-size:4em;">🗣️👉👤</p>
+
 **te tomas.**
 You are Thomas.
 
@@ -128,6 +167,8 @@ I love you.
 
 ### le <small>he, she or it</small>
 
+<p style="font-size:4em;">👥🗣️👉👤</p>
+
 **le man.**
 He is a man.
 
@@ -147,6 +188,8 @@ I greet him/her.
 
 
 ### eska <small>to ask a question</small>
+
+<p style="font-size:5em">🤔❓</p>
 
 **eska te tomas?**
 Are you Thomas?
@@ -173,6 +216,8 @@ is from French: est-ce que /ɛskə/, Haitian Creole: èske, English: ask.</small
 
 
 ### si <small>yes</small>
+
+<p style="font-size:5em">👍</p>
 
 **eska te tomas?**
 Are you Thomas.
@@ -202,7 +247,9 @@ The apple is a fruit.
 "shì", Shanghaiese: 是 "sí".</small>
 
 
-### ni <small>not</small>
+### ni <small>no, not</small>
+
+<p style="font-size:5em">👎</p>
 
 **me ni sarah.**
 I'm not Sarah.
@@ -478,27 +525,6 @@ Please, come home!
 
 **plisa helpa me.**
 Please, help me.
-
-
-### danke <small>thanks</small>
-
-**danke!**
-Thanks!
-
-**danka te.**
-Thank you.
-
-**me danka te.**
-I thank you.
-
-**me danka te helpa me.**
-I thank you for helping me.
-
-**danka te helpa me.**
-Thanks for helping me.
-
-**te keci.**
-You're welcome. (Literally: _You're polite._)
 
 
 ### haida <small>let's</small>

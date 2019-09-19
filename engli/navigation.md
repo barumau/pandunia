@@ -13,7 +13,7 @@
 
 [Lessons]()
 
-  * [Spelling](abc.md)
+  * [Sounds and letters](abc.md)
   * [Basic Phrases](fraze.md)
   * [Course](darse.md)
 
