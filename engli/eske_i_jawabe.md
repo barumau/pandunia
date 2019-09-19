@@ -377,6 +377,28 @@ That's why it is enough that we select some languages from every
 part of the world. They represent also the other languages of that
 region.
 
+#### Why the last vowel of words is sometimes different in Pandunia than in language X?
+
+In Pandunia, words consist of a stem and one or more suffixes.
+A suffix is a part of word that belongs to the end.
+The final vowel of a word has a grammatical meaning in Pandunia.
+That's the basic reason why the final vowels are sometimes different in Pandunia than in other languages.
+
+The second reason is that Pandunia borrows words from many languages,
+and often those languages don't agree about the final vowel.
+For example the word **supe** (_soup_) ends in -a in Spanish _sopa_,
+in -u in Japanese スープ or _sūpu_,
+in -e in German _Suppe_,
+and not in any vowel in English _soup_.
+So it's not one and the same word but rather an international family of similar words,
+and Pandunia's **supe** fits perfectly into that family.
+
+The third reason is that endings of words change already in many source languages.
+For example, Pandunia word **nowi** is borrowed, among others, from Portuguese.
+In Portuguese, this word has many forms and only the stem nov- remains the same:
+_nov|o, nov|a, nov|os, nov|as, nov|idade, re|nov|ar_...
+So it makes sense to take only the stem and attach our regular Pandunia suffixes to it.
+
 #### Shouldn't "salam" mean "peace"?
 
 In many languages, expressions of greeting have something to do with
@@ -415,7 +437,7 @@ is more precise than the multi-purpose "to be" would have been.
 3. **me zayu.** = I exist.
 4. **me sa dom.** = I am at home.  
    **me loku dom.** = I occupy home.
-5. **me aju 20 nen.** = I am 20 years.
+5. **me umuru 20 nen.** = I am 20 years.
 6. **me amu.** = I am loved.
 7. **me zay kana te.** = I am watching you.
 
