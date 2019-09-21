@@ -378,7 +378,7 @@ Minulla on hyvä talo.
 **le ni tena pese.**
 Hänellä ei ole rahaa.
 
-**me wanta tena novi fon.**
+**me wana tena novi fon.**
 Minä haluan saada uuden puhelimen.
 
 **eska te tena bace?**
@@ -422,7 +422,7 @@ Voinko auttaa sinua?
 
 ### nyama <small>syödä, juoda</small>
 
-**eska te wanta nyama koy?**
+**eska te wana nyama koy?**
 Haluaisitko syödä jotakin?
 
 **le nyama aple.**
@@ -448,26 +448,26 @@ Minä nautin kahvia ja leipää.
 
 
 
-### wanta <small>haluta</small>
+### wana <small>haluta</small>
 
-**eska te wanta nyama?**
+**eska te wana nyama?**
 Haluaisitko syödä?
 
-**te wanta nyama ke?**
+**te wana nyama ke?**
 Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
-**me wanta nyama kafe.**
+**me wana nyama kafe.**
 Minä haluan juoda kahvia.
 
-**eska te wanta nyama cay?**
+**eska te wana nyama cay?**
 Haluaisitko juoda teetä.
-**ni. me ni wanta cay. me wanta kafe.**
+**ni. me ni wana cay. me wana kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 Minkä omenan haluat?
 **ci ros.**
 Tuon punaisen.

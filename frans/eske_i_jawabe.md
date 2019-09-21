@@ -110,7 +110,7 @@ Le Pandunia est une langue analytique avec un peu d'agglutination. Il utilise de
 Pour voir la différence, comparons une même phrase en espéranto (langue agglutinante) et en Pandunia.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi wanta    wid|a  tu ya     dul sundar     yen         nun.
+    Pandunia:  mi wana    wid|a  tu ya     dul sundar     yen         nun.
     ----------
     Anglais:   I  want to see    your      two beautiful  eyes        now.
     Français:  Je veux    voir   tes       deux beaux     yeux        maintenant.

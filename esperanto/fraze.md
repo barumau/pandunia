@@ -351,7 +351,7 @@ Mi havas bonan domon.
 **le ni tena pese.**
 Li/ŝi ne havas mono.
 
-**me wanta tena novi fon.**
+**me wana tena novi fon.**
 Mi volas havi novan telefonon.
 
 **eska te tena bace?**
@@ -386,7 +386,7 @@ Mi bezonas helpon.
 **eska me abla helpa te?**
 Ĉu mi povas helpi vin?
 
-**me wanta helpa te.**
+**me wana helpa te.**
 Mi volas helpu vin.
 
 
@@ -394,7 +394,7 @@ Mi volas helpu vin.
 
 ### nyama <small>manĝi, trinki</small>
 
-**eska te wanta nyama koy?**
+**eska te wana nyama koy?**
 Ĉu vi volas manĝi ion?
 
 **le nyama aple.**
@@ -418,26 +418,26 @@ Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
 Mi manĝas kafon kaj panon.
 
 
-### wanta <small>voli</small>
+### wana <small>voli</small>
 
-**eska te wanta nyama?**
+**eska te wana nyama?**
 Ĉu vi volas manĝi?
 
-**te wanta nyama ke?**
+**te wana nyama ke?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**me wanta nyama kafe.**
+**me wana nyama kafe.**
 Mi volas trinki kafon.
 
-**eska te wanta nyama cay?**
+**eska te wana nyama cay?**
 Ĉu vi volas trinki teon?  
-**ni. me ni wanta cay. me wanta kafe.**
+**ni. me ni wana cay. me wana kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 Kiun pomon vi volas manĝi?  
 **ci ros.**
 Tiun ruĝan.

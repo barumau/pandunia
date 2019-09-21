@@ -280,7 +280,7 @@ Osoittava pronomini on:
 **ce**
 = tämä, tuo  
 
-**me wanta ce.**
+**me wana ce.**
 = Minä haluan tämän/tuon.
 
 I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.
@@ -607,7 +607,7 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**me wanta te nyama sabze.**
+**me wana te nyama sabze.**
 = Minä haluan sinun syövän vihanneksia.
 
 Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **nyama sabze**. Näin ollen **te** on lauseen _sarana_.
@@ -621,7 +621,7 @@ Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien sub
 = Minä menen kotiin.
 2. **me abla gowa dom.**
 = Minä voin mennä kotiin.
-3. **me wanta abla gowa dom.**
+3. **me wana abla gowa dom.**
 = Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
@@ -1003,11 +1003,11 @@ Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa ni
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sarah wanta darsa pandunia, sabu le si bon dunia bax.
+    yusef i sarah wana darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
-              wanta                   si
+              wana                   si
           ┌────┴──────┐           ┌──┴──┐
           i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |

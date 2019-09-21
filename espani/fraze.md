@@ -360,7 +360,7 @@ Tengo una buena casa.
 **le ni tena pese.**
 Él/ella no tiene dinero.
 
-**me wanta tena nowi fon.**
+**me wana tena nowi fon.**
 Yo quiero tener un teléfono nuevo.
 
 **eska te tena bace?**
@@ -400,7 +400,7 @@ Necesito ayuda.
 
 ### niama <small>consumir, comer, beber</small>
 
-**eska te wanta niama koy?**
+**eska te wana niama koy?**
 ¿Te gustaría comer algo?
 
 **le niama aple.**
@@ -427,26 +427,26 @@ objeto del verbo dice si se trata de comer, beber o ambos.
 Estoy tomando café y pan.
 
 
-### wanta <small>querer, gustar (deseo)</small>
+### wana <small>querer, gustar (deseo)</small>
 
-**eska te wanta niama?**
+**eska te wana niama?**
 ¿Te gustaría comer?
 
-**te wanta niama ke?**
+**te wana niama ke?**
 ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 
-**me wanta niama kafe.**
+**me wana niama kafe.**
 Quiero beber café.
 
-**eska te wanta niama cay?**
+**eska te wana niama cay?**
 ¿Te gustaría beber té? 
-**ni. me ni wanta cay. me wanta kafe.**
+**ni. me ni wana cay. me wana kafe.**
 No, no quiero té. Quiero café.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 ¿Qué manzana quieres?  
 **ci ros.**
 Esa roja.
@@ -805,7 +805,7 @@ Te doy esto.
 **me dona buke pa lole.**
 Le doy un libro a ellos/as.
 
-**le ni wanta dona le pa me.**
+**le ni wana dona le pa me.**
 Él/ella no quiere darme eso.
 
 
@@ -826,7 +826,7 @@ Voy a tomar una cerveza.
 
 ### kire <small>renta, alquiler</small>
 
-**me wanta kirokapa un kar.**
+**me wana kirokapa un kar.**
 Quiero rentar un auto.
 
 **ye kirodona kamar to safarer.**

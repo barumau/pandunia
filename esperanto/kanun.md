@@ -314,9 +314,9 @@ La montrovorto estas:
 **ce**
 – tio
 
-**me wanta ce.**
+**me wana ce.**
 – Mi volas tion.  
-**le wanta ce sa me.**
+**le wana ce sa me.**
 – Ĝi volas tion ĉe mi.  
 
 

@@ -362,7 +362,7 @@ Mam dobry dom.
 **le ni tena pese.**
 Nie ma pieniędzy.
 
-**me wanta tena novi fon.**
+**me wana tena novi fon.**
 Chcę mieć nowy telefon.
 
 **eska te tena bace?**
@@ -406,7 +406,7 @@ Czy mogę ci pomóc?
 
 ### niama <small>konsumować, spożywać, jeść, pić</small>
 
-**eska te wanta niama koy?**
+**eska te wana niama koy?**
 Czy chcesz zjeść coś?
 
 **le niama aple.**
@@ -432,27 +432,27 @@ Spożywam kawę i chleb.
 
 
 
-### wanta <small>chcieć</small>
+### wana <small>chcieć</small>
 
-**eska te wanta niama?**
+**eska te wana niama?**
 Czy chcesz jeść?
 
-**te wanta niama ke?**
+**te wana niama ke?**
 Co chcesz zjeść?
 
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
 nie zmienia szyku zdania.
 
-**me wanta niama kafe.**
+**me wana niama kafe.**
 Chcę pić kawę.
 
-**eska te wanta niama cay?**
+**eska te wana niama cay?**
 Czy chcesz napić się herbaty?
 
-**ni. me ni wanta cay. me wanta kafe.**
+**ni. me ni wana cay. me wana kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 Które jabłko chcesz?
 
 **ci ros.**
@@ -836,7 +836,7 @@ Daję ci to.
 **me dona buke pa lole.**
 Daję im książkę.
 
-**le ni wanta dona le pa me.**
+**le ni wana dona le pa me.**
 Nie chce dać mi tego.
 
 

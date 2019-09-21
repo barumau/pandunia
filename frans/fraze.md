@@ -388,7 +388,7 @@ J’ai une bonne maison.
 **le ni tena pese.**
 Il/elle n’a pas d’argent.
 
-**me wanta tena nowi fon.**
+**me wana tena nowi fon.**
 Je veux un nouveau téléphone.
 
 **eska te tena bace?**
@@ -451,7 +451,7 @@ Est-ce que je peux t’aider ?
 
 ### nyama <small>consommer, manger, boire</small>
 
-**eska te wanta nyama koy?**
+**eska te wana nyama koy?**
 Est-ce que tu veux manger quelque chose ?
 
 **le nyama aple.**
@@ -477,25 +477,25 @@ Je prends mon café avec du pain.
 
 
 
-### wanta <small>vouloir</small>
+### wana <small>vouloir</small>
 
-**eska te wanta nyama?**
+**eska te wana nyama?**
 Est-ce que tu veux manger ?
 
-**te wanta nyama ke?**
+**te wana nyama ke?**
 _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**me wanta nyama kafe.**
+**me wana nyama kafe.**
 Je veux boire un café.
 
-**eska te wanta nyama cay?**
+**eska te wana nyama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**ne. me ni wanta cay. me wanta kafe.**
+**ne. me ni wana cay. me wana kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 Quelle pomme veux-tu ?  
 **ci ros.**
 La rouge. (mot à mot _cette rouge_)
@@ -866,7 +866,7 @@ Je te donne ceci.
 **me dona buke pa lole.**
 Je leur donne un livre.
 
-**le ni wanta dona le pa me.**
+**le ni wana dona le pa me.**
 Il/elle ne veut pas me le donner.
 
 
@@ -883,7 +883,7 @@ tu as déjà eu de l’argent de ma part.
 
 ### kire <small>louer</small>
 
-**me wanta kirokapa un kar.**
+**me wana kirokapa un kar.**
 Je veux louer une voiture.
 
 **le kirodona kamar pa safarer.**

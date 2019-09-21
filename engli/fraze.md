@@ -407,7 +407,7 @@ I have a good house.
 **le ni tena pese.**
 He/she doesn't have money.
 
-**me wanta tena nowi fon.**
+**me wana tena nowi fon.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -442,7 +442,7 @@ Can you help me?
 **eska me abla helpa te?**
 Can I help you?
 
-**me wanta helpa te.**
+**me wana helpa te.**
 I want to help you.
 
 
@@ -450,7 +450,7 @@ I want to help you.
 
 ### niama <small>consume, eat, drink</small>
 
-**eska te wanta niama koy?**
+**eska te wana niama koy?**
 Would you like to eat something?
 
 **le niama aple.**
@@ -476,26 +476,26 @@ verb tells is it about eating, drinking or both.
 I'm having coffee and bread.
 
 
-### wanta <small>want</small>
+### wana <small>want</small>
 
-**eska te wanta niama?**
+**eska te wana niama?**
 Would you like to eat?
 
-**te wanta niama ke?**
+**te wana niama ke?**
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the **ke**.
 
-**me wanta niama kafe.**
+**me wana niama kafe.**
 I want to drink coffee.
 
-**eska te wanta niama cay?**
+**eska te wana niama cay?**
 Would you like to drink tea?  
-**ni. me ni wanta cay. me wanta kafe.**
+**ni. me ni wana cay. me wana kafe.**
 No, I don't want tea. I want coffee.
 
-**te wanta ki aple?**
+**te wana ki aple?**
 Which apple do you want?  
 **ci ros.**
 This red one.
@@ -902,7 +902,7 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le ni wanta dona le pa me.**
+**le ni wana dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -929,10 +929,10 @@ The rent is 500 dollars in a month.
 **le ni abla peya kire.**  
 He/she can't pay the rent.
 
-**me wanta kapa un kar sa kire.**  
+**me wana kapa un kar sa kire.**  
 I want to take a car for rent.
 
-**me wanta kirokapa un kar.**
+**me wana kirokapa un kar.**
 I want to rent a car.
 
 **le kirodona kamar pa safarer.**

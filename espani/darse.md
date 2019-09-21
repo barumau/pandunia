@@ -663,7 +663,7 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me wanta wida te.**
+**me wana wida te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
 **me foka wida te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
@@ -674,9 +674,9 @@ Pueden haber mas de dos verbos en serie.
 = Yo aprendo pandunia.  
 **me mulu darsa pandunia.**
 = Yo empiezo a aprender pandunia.  
-**me wanta mulu darsa pandunia.**
+**me wana mulu darsa pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**me wanta mulu darsa loga pandunia.**
+**me wana mulu darsa loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -702,7 +702,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. me wanta dona kafe pa xefe.
-2. eska te wanta niama suy?
-3. le ni wanta safa zi kamar.
+1. me wana dona kafe pa xefe.
+2. eska te wana niama suy?
+3. le ni wana safa zi kamar.
 

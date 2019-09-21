@@ -56,8 +56,8 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
      dunia si momi sundar planete.  
     /dúnia sí mómi sundár planéte./
 
-     me wanta loga komun bax, le si pandunia.  
-    /mé wánta lóga komún báx, lé sí pandúnia./
+     me wana loga komun bax, le si pandunia.  
+    /mé wána lóga komún báx, lé sí pandúnia./
 
      darsogur sida sa sofah.  
     /dársogúr sída sá sofáh/

@@ -365,9 +365,9 @@ The demonstrative pronoun is:
 **ce**
 – this/that one
 
-**me wanta ce.**
+**me wana ce.**
 – I want this one.  
-**le wanta ce.**
+**le wana ce.**
 – He/she wants that one.
 
 It ends in **-i** when it functions as a modifier
@@ -747,7 +747,7 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 functions has dual role.
 It is at the same time the object for verb 1 and the subject for verb 2.
 
-**me wanta te niama sabze.**
+**me wana te niama sabze.**
 – I want you eat vegetables.
 
 In the example above, **me wanta** has **te** as its object.
@@ -763,7 +763,7 @@ and all of them are about the same subject
    – I go home.  
 2. **me abla gowa dom.**
    – I can go home.  
-3. **me wanta abla gowa dom.**
+3. **me wana abla gowa dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 

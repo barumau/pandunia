@@ -23,19 +23,19 @@ Oto 11 podstawowych zasad języka Pandunia.
 3. Rzeczowniki mają jedną, niezmienną formę.
 4. Przymiotnik i przysłówek mają tę samą formę. Poprzedzają słowa, które opisują. Często przymiotniki kończą się na **-i**.
     - przykład 1.: **bon pang** = Dobry chleb.
-    - przykład 2.: **tu bon loga.** = Mówisz dobrze.
+    - przykład 2.: **te bon loga.** = Mówisz dobrze.
 5. Wyrazy złożone są formowane przez umieszczanie słów obok siebie.
     - przykład: **poste sanduke** = skrzynka pocztowa
 6. Czasowniki, które kończą się na -a, wskazują szyk zdania podmiot-orzeczenie-dopełnienie.
-    - przykład: **mi nyama pang.** = Jem chleb.
+    - przykład: **me niama pang.** = Jem chleb.
 7. Czasowniki, które kończą się na -u, wskazują szyk zdania dopełnienie-orzeczenie-podmiot.
-    - przykład: **pang nyamu.** = Jabłko jest jedzone.
+    - przykład: **pang niamu.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi plisa tu dona mone.** = Proszę cię, żebyś dał mi pieniądze.
+    - przykład: **me plisa te dona mone.** = Proszę cię, żebyś dał me pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
-    - **mi kia tu baxa pandunia?** → **kia tu baxa pandunia?** = Mówisz w Panduni?
-    - **mi plisa tu loga ming.** →  **plisa loga ming.** = Proszę, mów wyraźnie.
+    - **me kia te baxa pandunia?** → **kia te baxa pandunia?** = Mówisz w Panduni?
+    - **me plisa te loga ming.** →  **plisa loga ming.** = Proszę, mów wyraźnie.
 11. Słowa pochodne mają opcjonalne zakończenie. Przymiotniki kończą się na -i, rzeczowniki na -e, a czasowniki na -a lub -u.
 
 
@@ -106,9 +106,9 @@ Przysłówek to słowo, które opisuje czasownik lub inną modyfikator.
 
 W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
 
-> **mi _bon_ sona.** - Ja _dobrze_ śpię.
-> **mi sona _bon_.** - Śpię _dobrze_.
-> **tu baxa pandunia _bon_.** - Mówisz w Panduni _dobrze_.
+> **me _bon_ sona.** - Ja _dobrze_ śpię.
+> **me sona _bon_.** - Śpię _dobrze_.
+> **te baxa pandunia _bon_.** - Mówisz w Panduni _dobrze_.
 
 
 ### 3.4 Opisywanie innego modyfikatora
@@ -139,8 +139,8 @@ Modyfikatory mogą być porównane.
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-> **mi si max bon ka tu.** - Jestem lepszy od ciebie.
-> **tu loga sem bon ka mi.** - Mówisz tak dobrze, jak ja.
+> **me si max bon ka te.** - Jestem lepszy od ciebie.
+> **te loga sem bon ka me.** - Mówisz tak dobrze, jak ja.
 
 
 #### 3.6. Końcówki modyfikatorów
@@ -221,18 +221,18 @@ Liczby większe od 999 mogą używać wielokrotności z Międzynarodwego Systemu
 
 Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
-**mi** - ja, mnie
-**tu** - ty, ciebie
-**ye** - on, ona, ono
-**mimen** - my
-**tumen** - wy
-**yemen** - oni, one
+**me** - ja, mnie
+**te** - ty, ciebie
+**le** - on, ona, ono
+**mome** - my
+**tote** - wy
+**lole** - oni, one
 
 **se** - się, siebie
 
-**mi wida se** - Widzę się.
-**ye wida se** - Widzi się.
-**mimen wida se.** - Widzimy się.
+**me wida se** - Widzę się.
+**le wida se** - Widzi się.
+**mome wida se.** - Widzimy się.
 
 
 ### 5.2. Zaimki wskazujące
@@ -242,7 +242,7 @@ Zaimki wskazujące to:
 **ce** - ten
 **le** - tamten
 
-> **mi wanta ce.** - Chcę ten.
+> **me wana ce.** - Chcę ten.
 
 Kończą się na **-i**, gdy działają jak przymiotniki, tj., kiedy są przed rzeczownikiem.
 
@@ -300,8 +300,8 @@ Najpowszechniejszym szykiem zdania w Panduni jest podmiot-orzeczenie-dopełnieni
     S   O
 
 Przykłady:
-**mi wida yemen.** - Ja wizę ich.
-**tu baka pang.** - Ty pieczesz chleb.
+**me wida lole.** - Ja wizę ich.
+**te baka pang.** - Ty pieczesz chleb.
 
 #### 6.2.2. Szyk OSV
 
@@ -314,8 +314,8 @@ Drugim szykiem w tym trójkącie jest OSV. Jest częsta w zdaniach podrzędnych.
     S ← O
 
 Przykłady:
-**ke tu wida?** - Co ty widzisz?
-**mi nyama pang, jo tu baka.** - Jem chleb, _który ty upiekłeś._
+**ke te wida?** - Co ty widzisz?
+**me niama pang, jo te baka.** - Jem chleb, _który ty upiekłeś._
 
 #### 6.2.3. Szyk VOS
 
@@ -350,8 +350,8 @@ Szyk SOV jest powrzechnie używany alternatywnie do szyku SVO.
     O ← S
 
 Przykłady:
-**mi yemen vidu.** - _Ja ich widzę._
-**tu pang baku.** - _Ty chleb jesz._
+**me lole vidu.** - _Ja ich widzę._
+**te pang baku.** - _Ty chleb jesz._
 
 #### 6.3.2. Szyk OVS
 
@@ -364,8 +364,8 @@ Szyk OVS jest powszechny w "biernych" zdaniach.
     O   S
 
 Przykłady:
-**pang baku tu.** - Chleb jest pieczony przez ciebie./Chleb pieczesz ty.
-**tu suku mi.** - You are pleased by me.
+**pang baku te.** - Chleb jest pieczony przez ciebie./Chleb pieczesz ty.
+**te suku me.** - You are pleased by me.
 
 #### 6.3.3. Szyk VSO
 
@@ -381,7 +381,7 @@ Szyk VSO jest bardzo rzadki ale możliwy.
 
 W zdaniu w stronie biernej jest tylko dopełnienie i orzeczenie ale żadnego podmiotu(tj. agenta).
 
-> **mi vidu.** - Ja jestem widziany.
+> **me vidu.** - Ja jestem widziany.
 > **pang baku.** - Chleb jest pieczony.
 > **kupe kaputu.** - Kubek jest niszczony.
 
@@ -411,20 +411,20 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 
 Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
 
-> **mi bon.** - Jestem dobry.
-> **ye nowi.** - To jest nowe.
-> **ye sarah.** - Ona to Sara.
+> **me bon.** - Jestem dobry.
+> **le nowi.** - To jest nowe.
+> **le sarah.** - Ona to Sara.
 
 Słowo **no** jes dodawane, by tworzyć przeczenie.
 
-> **mi no bon.** - Nie jestem dobry.
-> **ye no nowi.** - To nie jest nowe.
-> **ye no sarah.** - Ona to nie Sara.
+> **me no bon.** - Nie jestem dobry.
+> **le no nowi.** - To nie jest nowe.
+> **le no sarah.** - Ona to nie Sara.
 
 Również dwa zaimki osobowe mogą być zestawione.
 
-> **mi si ye.** - Ja jestem nim/nią.
-> **mi no tu.** - Ja Nie jestem tobą.
+> **me si le.** - Ja jestem nim/nią.
+> **me no te.** - Ja Nie jestem tobą.
 
 #### 7.2.2. Z podmiotem-rzeczownikiem
 
@@ -455,13 +455,13 @@ W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słow
 
 Zdania czynne używające czasownika kończącego się na **-a** mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 
-> **mi nyama apel.** - Ja jem jabłka.
-> **mi auda musike.** - Ja słucham muzyki.
-> **mi wida tu.** - Ja widzę cię.
+> **me niama apel.** - Ja jem jabłka.
+> **me auda musike.** - Ja słucham muzyki.
+> **me wida te.** - Ja widzę cię.
 
 Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
 
-**mi apel nyamu.** - _Ja jabłka jem._
+**me apel niamu.** - _Ja jabłka jem._
 
 SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim. SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
 
@@ -472,7 +472,7 @@ SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV
 
 W stronie biernej nie ma podmiotu-agenta w zdaniu. Jest tylko dopełnienie i orzeczenie. Normalnie strona bierna jest wyrażana szykiem zdania dopełnienie-orzeczenie (VO) z czasownikiem kończącym się na **-u**.
 
-> **tu vidu.** - Ty jesteś widziany.
+> **te vidu.** - Ty jesteś widziany.
 > **musike audu.** - Muzyka jest słyszana.
 > **pang baku.** - Chleb jest pieczony.
 
@@ -480,15 +480,15 @@ Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu. Dope�
 
 Agent może być wspomniany po czasowniku z lub bez przyimka **da**.
 
-> **tu vidu mi.** - Jesteś widziany przez mnie.
-> **tu vidu da mi.** - Jesteś widziany przez mnie.
+> **te vidu me.** - Jesteś widziany przez mnie.
+> **te vidu da me.** - Jesteś widziany przez mnie.
 
 
 #### 7.4.2. Szyk VO
 
 W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
-> **wida tu.** - Widzenie cię.
+> **wida te.** - Widzenie cię.
 > **auda musike.** - Słuchanie muzyki.
 > **baka pang.** - Pieczenie chleba.
 
@@ -500,15 +500,15 @@ Jest sześc możliwych szyków zdania dla zdania przechodniego. W praktyce, wszy
 Różne części zdania stawiają nacisk na różne części zdania: podmiot, dopełnienie lub orzeczenie. Nacisk lub uwaga są skupione na pierwszej części zdania.
 
     1. Z czasownikiem kończący się na -a
-        - dopełnienie-podmiot-orzeczenie (OSV) : musike mi auda.
-        - podmiot-orzeczenie-dopełnienie (SVO) :        mi auda musike.
-        - orzeczenie-dopełnienie-podmiot (VOS) :           auda musike mi.
+        - dopełnienie-podmiot-orzeczenie (OSV) : musike me auda.
+        - podmiot-orzeczenie-dopełnienie (SVO) :        me auda musike.
+        - orzeczenie-dopełnienie-podmiot (VOS) :           auda musike me.
     2. Z czasownikiem kończącym się na -u
-        - podmiot-dopełnienie-orzeczenie (SOV) : mi musike audu.
-        - dopełnienie-orzeczenie-podmiot (OVS) :    musike audu mi.
-        - orzeczenie-podmiot-dopełnienie (VSO) :           audu mi musike.
+        - podmiot-dopełnienie-orzeczenie (SOV) : me musike audu.
+        - dopełnienie-orzeczenie-podmiot (OVS) :    musike audu me.
+        - orzeczenie-podmiot-dopełnienie (VSO) :           audu me musike.
 
-Część zdania, która jest dalej od czasownika, może zostać opuszczona. Na przykład **musike mi auda** (OSV) może być skrócone do **mi auda** (SV). Podobnie **mi musike audu** (SOV) może być skrócone do **musike audu** (OV).
+Część zdania, która jest dalej od czasownika, może zostać opuszczona. Na przykład **musike me auda** (OSV) może być skrócone do **me auda** (SV). Podobnie **me musike audu** (SOV) może być skrócone do **musike audu** (OV).
 
 Typowe szyki zdań w codziennej Panduni to SVO, SOV i OSV. Pozostałe szyki zdań mogą być słyszane w poezji i innych formach języka literackiego.
 
@@ -522,18 +522,18 @@ podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie
 
 Dopełnienie 1. spełnia podwójną rolę. Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-> **mi wanta tu nyama sabze.** - Ja chcę ty jesz warzywa.
+> **me wana te niama sabze.** - Ja chcę ty jesz warzywa.
 
-W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocześnie **tu** działa jako podmiot następnego predykatu, **nyama sabze**, więc **tu** jest _osią_ całego zdania.
+W powyższym przykładzie, **me wol** ma **te** jako swoje dopełnienie; jednocześnie **te** działa jako podmiot następnego predykatu, **niama sabze**, więc **te** jest _osią_ całego zdania.
 
 
 ### 7.7. Seryjne czsowniki
 
 Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot. Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
-1. **mi gowa dom.** - Idę do domu.
-2. **mi abla gowa dom.** - Mogę iśc do domu.
-3. **mi wanta abla gowa dom.** - Chcę móc iść do domu.
+1. **me gowa dom.** - Idę do domu.
+2. **me abla gowa dom.** - Mogę iśc do domu.
+3. **me wana abla gowa dom.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka
@@ -542,12 +542,12 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.1. Krótka struktura osiowa (VOVO)
 
-> **mi kia tu baxa pandunia.** - Pytam mówisz w Pandunia.
-> **kia tu baxa pandunia?** - Czy mówisz w Panduni?
+> **me kia te baxa pandunia.** - Pytam mówisz w Pandunia.
+> **kia te baxa pandunia?** - Czy mówisz w Panduni?
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
-> **mi plisa tu lay dom.** - Proszę cię, żebyś wrócił do domu.
+> **me plisa te lay dom.** - Proszę cię, żebyś wrócił do domu.
 > **plisa lay dom!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
@@ -562,9 +562,9 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 2. **u** lub (łączy dwa alternatywne słowa lub wyrażenia)
 3. **a** - ale (wprowadza słowo lub wyrażenie, które które kontrastuje lub zaprzecza poprzedzającemu słowu lub wyrażeniu)
 
-> **mi suku maw i waf.** - Lubię koty i psy.
-> **mi suku maw u waf.** - Lubię koty lub psy.
-> **mi suku maw a no waf.** - Lubię koty ale nie psy.
+> **me suku maw i waf.** - Lubię koty i psy.
+> **me suku maw u waf.** - Lubię koty lub psy.
+> **me suku maw a no waf.** - Lubię koty ale nie psy.
 
 --------------------------------------------------------------------------------
 
@@ -579,27 +579,27 @@ Partykuła **si** potwierdza, a **no** przeczy. Inaczej, **si** oznacza "być", 
 
 Wyrażenia są domyślnie twierdzące, więc słowo **si** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
 
-> **mi si ren.** - Ja jestem osobą.
-> **ye si novi meza.** - To jest nowy stół.
+> **me si ren.** - Ja jestem osobą.
+> **le si novi meza.** - To jest nowy stół.
 
 ### 9.1.2. Przeczenie
 
 Takie zdania mogą być prosto zaprzeczane przez **no**.
 
-> **mi no ren.** - Ja nie jestem osobą.
-> **ye no novi meza.** - To nie jest nowy stół.
+> **me no ren.** - Ja nie jestem osobą.
+> **le no novi meza.** - To nie jest nowy stół.
 
 Słowo **no** jest używane do zaprzeczania czegokolwiek. Działa zawsze na następne słowo.
 
-> **mi wida tu.** - Ja widzę cię.
-> **mi no wida tu.** - Ja nie widzę cię.
-> **mi wida no tu a yemen.** - Ja widzę nie ciebie,ale ich.
+> **me wida te.** - Ja widzę cię.
+> **me no wida te.** - Ja nie widzę cię.
+> **me wida no te a lole.** - Ja widzę nie ciebie,ale ich.
 
 Partykuły **si** i **no** są używane też do odpowiadania na pytania.
 
-> **kia tu wida mi?** - Czy widzisz mnie?
-> **si. (mi wida tu.)** - Tak. (Widzę się.)
-> **no. (mi no wida tu.)** - Nie. (Nie widzę cię.)
+> **kia te wida me?** - Czy widzisz mnie?
+> **si. (me wida te.)** - Tak. (Widzę się.)
+> **no. (me no wida te.)** - Nie. (Nie widzę cię.)
 
 
 
@@ -614,14 +614,14 @@ Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczow
 Przed **du** pojawia się posiadacz, a po nim posiadany obiekt.
 
 > **maria ya mama** - Marii matka
-> **mi ya dom** - mój dom
-> **mi ya pape ya dom** - mojego ojca dom
+> **me ya dom** - mój dom
+> **me ya pape ya dom** - mojego ojca dom
 
 Przed **du** pojawia się posiadany obiekt, a po nim posiadacz.
 
 > **mama da maria** - matka Marii
-> **dom da mi** - dom mój
-> **dom da pape da mi** - dom ojca mojego
+> **dom da me** - dom mój
+> **dom da pape da me** - dom ojca mojego
 
 #### 9.2.2. Nadawanie cech przymiotnikami
 
@@ -643,18 +643,18 @@ Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
 Tutaj **da** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-> **ye si man _da mi wida_.** - On jest człowiekiem_, którego widziałem_.
+> **le si man _da me wida_.** - On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-> **mi wida man _da nyama apel_.** - Widzę człowieka_, który je jabłka_.
+> **me wida man _da niama apel_.** - Widzę człowieka_, który je jabłka_.
 
 Można też tworzyć zdania podrzędne używają **du**. Wtedy zdanie podrzędne poprzedza rzeczownik opisywany. Czasownik jest zamieniane w imiesłów przez umieszczanie **du** od razu po nim.
 
-> **mi wida _apel nyamu du_ man.** - Widzę _jedzącego jabłka_ człowieka.
+> **me wida _apel niamu du_ man.** - Widzę _jedzącego jabłka_ człowieka.
 
 > **buke dugu ya ren na kamer.** = Czytająca książki osoba jest w pokoju.
-> **ye duga ya buke na meza.** = Przez niego/nią czytana książka jest na stole.
+> **le duga ya buke na meza.** = Przez niego/nią czytana książka jest na stole.
 
 
 ### 9.3. Partykuły modalne
@@ -665,10 +665,10 @@ W Panduni, partykuła modalna opisuje następne słowo lub całe zdanie, gdy par
 
 Partykuła **plus** _(też)_ jest dość dobrym przykładem.
 
-> **ye nyama bir plus.** - On/ona _też_ pije piwo.
-> **ye nyama plus bir.** - On/ona pije _też piwo_.
-> **ye plus nyama bir.** - On/Ona _też pije_ piwo.
-> **plus ye nyama bir.** - _Też on/ona_ pije piwo.
+> **le niama bir plus.** - On/ona _też_ pije piwo.
+> **le niama plus bir.** - On/ona pije _też piwo_.
+> **le plus niama bir.** - On/Ona _też pije_ piwo.
+> **plus le niama bir.** - _Też on/ona_ pije piwo.
 
 Partykuły modalne mogą działać na każde słowo, włączając w to zimki i liczebniki, których przymiotniki nie mogą opisywać.
 
@@ -677,9 +677,9 @@ Partykuły modalne mogą działać na każde słowo, włączając w to zimki i l
 
 W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zay** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
 
-> **mi tena maw pas.** - Miałem koty w przeszłości.
-> **a mi no tena maw zay.** - Ale nie mam kotów teraz.
-> **munkin mi tena maw futur.** - Może będę miał koty w przyszłości.
+> **me tena maw pas.** - Miałem koty w przeszłości.
+> **a me no tena maw zay.** - Ale nie mam kotów teraz.
+> **munkin me tena maw futur.** - Może będę miał koty w przyszłości.
 
 Uwaga! Czasowniki nie są odmieniane, dlatego czasownik **ada** pozostał taki sam w każdym czasie w powyższych przykładach.
 
@@ -703,30 +703,30 @@ Pandunia ma cztery przyimki miejsca i czasu.
 
 Przysłówek rozpoczyna wyrażenie przyimkowe. W prostym wyrażeniu przyimkowym przyimek jest uzupełniony zaimkiem lub rzeczownikiem.
 
-> **mi na hotel.** - Jestem w hotelu.
-> **mi sona na hotel.** - Śpię w hotelu.
-> **mi sona ze xam to suba.** - Śpię od wieczora do rana.
-> **mi safara ze london to paris.** - Podróżuję od Londynu do Paryża.
+> **me na hotel.** - Jestem w hotelu.
+> **me sona na hotel.** - Śpię w hotelu.
+> **me sona ze xam to suba.** - Śpię od wieczora do rana.
+> **me safara ze london to paris.** - Podróżuję od Londynu do Paryża.
 
 
 Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 
-> **mi denga ze tu enda.** - Czekam, od kiedy wyszłaś.
-> **mi denga to tu lay dom.** - Zaczekam, aż wrócisz do domu.
-> **mi denga na tu sona.** - Czekam, kiedy śpisz.
+> **me denga ze te enda.** - Czekam, od kiedy wyszłaś.
+> **me denga to te lay dom.** - Zaczekam, aż wrócisz do domu.
+> **me denga na te sona.** - Czekam, kiedy śpisz.
 
 #### 10.1.2. na
 
 **na** jest przyimkiem wszelkiego zastosowania. Jego podstawowym znaczeniem jest "przy".
 
-**mi stasa na dom.**
+**me stasa na dom.**
 _Stoję przy domu._
 
-**mi loga na pandunia.**
+**me loga na pandunia.**
 _Mówię przy Panduni._
 Mówię w Panduni.
 
-**mi loga na doste na pandunia na fon.**
+**me loga na doste na pandunia na fon.**
 _Mówię przy przyjaciołach przy Panduni przy telefonie._
 Mówię z przyjaciółmi w Panduni przez telefon.
 
@@ -734,10 +734,10 @@ Mówię z przyjaciółmi w Panduni przez telefon.
 
 W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
-> **mi kata pang.** - Kroję chleb.
-> **mi kata pang, uza caku.** - Kroję chleb, używam noża. (Kroję chleb nożem.)
+> **me kata pang.** - Kroję chleb.
+> **me kata pang, uza caku.** - Kroję chleb, używam noża. (Kroję chleb nożem.)
 
-> **mi denga dura do hor.** - Czekam, (to) trwa dwie godziny. (Czekam przez dwie godziny.)
+> **me denga dura do hor.** - Czekam, (to) trwa dwie godziny. (Czekam przez dwie godziny.)
 
 Oto kilka czasowników, których można użyć jak przyimków:
 
@@ -753,9 +753,9 @@ Oto kilka czasowników, których można użyć jak przyimków:
 
 Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
-> **mi laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
-> **tu sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
-> **ye lala sofa'.** - Leży na sofie. (Dosłownie: Leży sofę.)
+> **me laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
+> **te sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
+> **le lala sofah.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)
 > **jenger marca daw.** - Wojownicy maszerują na drodze. (Dosłownie: Wojownicy maszerują drogę.)
 
@@ -764,7 +764,7 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **mi jana pandunia ka guru.** - Znam Pandunię jak mistrz.
+> **me jana pandunia ka guru.** - Znam Pandunię jak mistrz.
 
 **ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
@@ -998,21 +998,21 @@ Formuła opisu nadal daje sensowne (choć oczywiste) zdania. Formuły wytwarzani
 
 Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
-Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **mi wida tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
+Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa - niżej. Na przykład, zdanie **me wida te** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
 
-    mi wida tu.
+    me wida te.
 
        wida
       ┌─┴─┐
-     mi   tu
+     me   te
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi wida sam jowan ren.
+    me wida sam jowan ren.
 
        wida
       ┌─┴──┐
-     mi   ren
+     me   ren
            |
          jowan
            |
@@ -1032,13 +1032,13 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **sarah**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i sarah wanta darsa pandunia, sabu ye si bon dunia bax.
+    yusef i sarah wana darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
-              wanta                   si
+              wana                   si
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ye    bax
+          i         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sarah       pandunia       dunia
                                         |
