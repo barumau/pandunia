@@ -3,13 +3,33 @@ Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| API: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
 
+Consonnes
+---------
+
+    p  b  f  v  m  w
+    t  d  s  z  n  l  r
+    c  j  x        y
+    k  g  h
+
+La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, v, z** est facile et habituelle.
+
+Les consonnes suivantes se prononcent différement en pandunia et en français :
+
+- **g** se prononce toujours comme dans _gâteau_.
+- **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
+- **s** est toujours léger comme dans _souris_. 
+- **x** se prononce toujours comme le « ch » de _chat_.
+- **c** se prononce comme le « tch » de _tchâo !_.
+- **j** est prononcé comme le « dj » dans _Djibouti_.
+- **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
+- **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
 
 Voyelles
 --------
@@ -25,27 +45,6 @@ Elles se prononcent comme suit : **a** comme dans _papa_, **e** comme le « é 
 Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
 
 
-Consonnes
----------
-
-    p  b  f     m  w
-    t  d  s  z  n  l  r
-    c  j  x        y
-    k  g  h
-
-La plupart des consonnes se prononcent comme en français. Ainsi, la prononciation de **b, d, f, k, l, m, n, p, t, z** est facile et habituelle.
-
-Les consonnes suivantes se prononcent différement en pandunia et en français :
-
-- **g** se prononce toujours comme dans _gâteau_.
-- **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
-- **s** est toujours léger comme dans _souris_. 
-- **x** se prononce toujours comme le « ch » de _chat_.
-- **c** se prononce comme le « tch » de _tchâo !_.
-- **j** est prononcé comme le « dj » dans _Djibouti_.
-- **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
-- **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
-
 
 ### Accent tonique
 
@@ -53,7 +52,7 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -102,9 +101,9 @@ Les majuscules sont utilisées dans les abréviations des standards internationa
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-**me wida te :)**
+**me vida te :)**
 = Je te vois.  
-**me ni wida te :(**
+**me ni vida te :(**
 = Je ne te vois pas.
 
 

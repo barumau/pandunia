@@ -3,9 +3,9 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -20,7 +20,7 @@ Pandunia tiene cinco vocales, que se pronuncian igual que en español.
 
 ## Sonidos de las consonantes
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -67,7 +67,7 @@ Ejemplos:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -126,9 +126,9 @@ Informalmente, las caritas felices, los emoticones y emojis pueden ser usados
 para indicar un estado de ánimo. Por ejemplo **:)** indica felicidad y **:(**
 indica tristeza.
 
-**me wida te :)**
+**me vida te :)**
 = Te veo.  
-**me ni wida te :(**
+**me ni vida te :(**
 = No te veo.
 
 ## Estructura de las palabras
@@ -145,7 +145,6 @@ Las consonantes iniciales están restringidas a:
 2. Una consonante oclusiva seguida de una líquida
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. ny
 
 El conjunto de consonantes medias están restringidas a:
 

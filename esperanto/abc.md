@@ -4,10 +4,10 @@ Pandunio uzas la bazan latinan alfabeton.  Jen la pandunia alfabeto, sekvata
 per la Esperanta prononco kaj la ekvivalenta simbolo de Internacia Fonetika
 Alfabeto (IFA):
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| ---|---|---|---|
 | Esperanto: | a | b | ĉ | d | e | f | g | h | i | ĝ | k | l | m | n | o | p | r | s | t | u | ŭ | ŝ | j | z |
-| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| IFA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.  Ne estas sensonaj
 literoj.
@@ -25,7 +25,7 @@ Esperantaj "j" kaj "ŭ".
 
 ## Konsonantoj
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -45,7 +45,7 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -100,9 +100,9 @@ ka-fe, yu-mor, pos-te.
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
 Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
 
-**me wida te :)**
+**me vida te :)**
 = Mi vidas vin.  
-**me ni wida te :(**
+**me ni vida te :(**
 = Mi ne vidas vin.
 
 
@@ -119,25 +119,6 @@ Komencaj konsonantoj povas esti nur jenaj:
 2. Oklusiva konsonanto kaj likva konsonanto
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. ny
-
-<!-- XXX TODO 2018-12-19: Fini tradukon. Marcos Cruz
-
-Envortaj konsonantaj kombinoj povas esti nur jenaj:
-
-1. Rezonanto (m, n, ŋ, l, r) + oclusiva o africada
-    - mp, mb, nt, nd, nk, ng, nc, nj
-    - lp, lb, lt, ld, lk, lg
-    - rp, rb, rt, rd, rk, rg
-2. Rezonanto + sibilanto
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
-3. Sibilanto + okluzivo
-    - st, sp, sk
-4. Ocluzivo + consonanto líquida (ver arriba)
-
--->
 
 La permesitaj vorto-finaj konsonantoj estas:
 h, l, m, n, ng, r, s, w, x, y

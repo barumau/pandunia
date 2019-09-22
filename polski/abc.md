@@ -1,34 +1,18 @@
-Pisownia Pandunii
-====================
+# Pisownia Pandunii
 
 Do zapisywania Pandunii używany jest podstawowy alfabet łaciński.
 Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu Fonetycznego (IPA).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 W Pandunii, podobnie jak w polskim, czyta się dokładnie jak się pisze. Żadna litera nie jest niema. Każdej literze odpowiada jedna głoska, zawsze ta sama.
 
 
-Samogłoski
-------------
+## Spółgłoski
 
-Pandunia ma pięć samogłosek.
-
-    i   u
-    e   o
-      a
-
-Wymawia się je praktycznie jak w języku polskim. To czyste samogłoski, więc ich cechy nie zmieniają się podczas długiej wymowy.
-
-Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w polskim.
-
-
-Spółgłoski
-----------------
-
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -43,6 +27,18 @@ Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polsk
 - **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
 - **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko. Na końcu słowa, **g** w **ng** może być nieme. Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
+
+## Samogłoski
+
+Pandunia ma pięć samogłosek.
+
+    i   u
+    e   o
+      a
+
+Wymawia się je praktycznie jak w języku polskim. To czyste samogłoski, więc ich cechy nie zmieniają się podczas długiej wymowy.
+
+Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w polskim.
 
 
 ### Akcent
@@ -99,8 +95,8 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-> **me wida te :)** = Ja widzę cię.  
-> **me ni wida te :(** = Ja nie widzę cię.
+> **me vida te :)** = Ja widzę cię.  
+> **me ni vida te :(** = Ja nie widzę cię.
 
 
 ## Struktura słów
@@ -115,7 +111,6 @@ Początkowe spółgłoski są ograniczone do:
 2. Spógłoski zwartej + płynnej
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. ny
 
 Środkowe skupienie spółgłosek są ograniczone do:
 

@@ -133,7 +133,7 @@ parenthesis.
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r y w     | l r y w       | l r y w (yü)    |
 | Sibilants  | s z x       | s z sh (zh)   | s z* sh (x)     |
-| Fricatives | f h         | f h (v th dh) | f h             |
+| Fricatives | f v h       | f v h (th dh) | f h             |
 | Affricates | c j         | ch j          | ch zh (q j c)   |
 
 

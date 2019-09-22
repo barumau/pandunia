@@ -11,7 +11,7 @@
     l   r
     y   w
 
-## leter ya nam
+## leter da nam
 
     i   e   a   o   u
     
@@ -22,9 +22,9 @@
     le  ro
     yay waw
 
-## abace na pol bax
+## abace sa pol bax
 
-|   | pandunia | engli | espan | fransi | indonesi | rusi | helen | arabi |
+|   | pandunia | engli | espani | fransi | indonesi | rusi | heleni | arabi |
 |---|-----|-----|-----|-----|-----|-----|-----|-----|
 | a | a   | ey  | a   | a   | a   | a   | alfa| alif|
 | b | ba  | bi  | be  | be  | be  | be  | beta| ba  |

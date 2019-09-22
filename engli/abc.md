@@ -3,9 +3,9 @@
 The Basic Latin alphabet is used for writing Pandunia.  Here is the alphabet of
 Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 
 Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is
@@ -13,13 +13,13 @@ silent. Every letter has one sound, always the same.
 
 ## Consonant Sounds
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
 
 Most consonants are pronounced same as in English. So pronunciation of
-**b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
+**b, d, f, h, j, k, l, m, n, p, t, v, w, z** is familiar and easy.
 
 The following consonants are pronounced differently in Pandunia than in English.
 
@@ -31,10 +31,10 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **x** is always pronounced like SH in _ship_.
 - **c** is pronounced like CH in _chip_.
 - **j** is pronounced like the English J.
-- **n** is pronounced with the tip of the tongue except in combinations **nk**
-  and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end
-  of a word, the **g** in **ng** can be silent. So the word **pang** can be
-  pronounced /paŋ/ as well as /paŋg/.
+- **n** is pronounced with the tip of the tongue except in combinations **nk** and **ng**,
+  where it is velar /ŋ/ like in _banker_ and _finger_.
+  In the end of a word, the **g** in **ng** can be silent.
+  So the word **pang** can be pronounced /paŋ/ as well as /paŋg/.
 
 
 ## Semivowels
@@ -80,7 +80,7 @@ Consider the following examples:
 
 - **maw** /máw/, beng /béng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
+- **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundar planete.  
@@ -138,9 +138,9 @@ uncertainty.
 In informal texts smileys, emoticons and emojis may be used to indicate mood.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-**me wida te :)**
+**me vida te :)**
 = I see you.  
-**me ni wida te :(**
+**me ni vida te :(**
 = I don't see you.
 
 
@@ -158,8 +158,6 @@ Initial consonants are restricted to:
 2. Stop + liquid
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. Consonant + semivowel
-   - f.ex. ny, py, sw
 
 Middle consonant clusters are restricted to:
 
