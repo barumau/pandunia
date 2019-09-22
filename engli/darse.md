@@ -198,9 +198,9 @@ answers are after the word list.
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
-☺: **plisa nyama kafe u cay.**
+☺: **plisa niama kafe o cay.**
 = Please have some coffee or tea.  
-☻: **me nyama cay. danke.**
+☻: **me niama cay. danke.**
 = I will have some tea, thank you.  
 ...  
 ☺: **plisa salama ti mame!**
@@ -260,7 +260,7 @@ for making polite requests.
 = Please give me some coffee.  
 **plisa dona cay.**
 = Please give me some tea.  
-**plisa nyama cay.**
+**plisa niama cay.**
 = Please have some tea.  
 **plisa safa kamar.**
 = Please clean the room.
@@ -297,23 +297,23 @@ Try translating these sentences from English to Pandunia.
 **plisa** to ask; please.
 **dona** to give.
 **danke** thanks.
-**i** and.
+**e** and.
 **kafe** coffee.
 **kamar** room.
 **komanda** to order, to command.
-**u** or.
+**o** or.
 **safa** to clean.
 **sida** to sit.
-**nyama** to eat or drink.
+**niama** to eat or drink.
 
 
 ### Answers to the Exercises
 
-1. le nyama cay.
+1. le niama cay.
 2. xefe plisa le sida.
-3. plisa nyama kafe u cay.
+3. plisa niama kafe o cay.
 4. mame plisa me safa kamar.
-5. xefe sida i nyama kafe.
+5. xefe sida e niama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -324,27 +324,27 @@ Yes or no questions
 
 ### Dialog
 
-☻: **salam! eska te nyama kafe u cay?**
+☻: **salam! eska te niama kafe o cay?**
 = Hello! Would you like to have coffee or tea?  
 ☺: **cay.**
 = Tea.  
-☻: **i te?**
+☻: **e te?**
 = And you?  
 ○: **me ni baxa pandunia...**
 = I don't speak Pandunia...  
-☻: **pardon! eska le nyama cay?**
+☻: **pardon! eska le niama cay?**
 = Pardon! Will he have tea?  
-☺: **ni. le ni nyama cay. le nyama kafe.**
+☺: **ni. le ni niama cay. le niama kafe.**
 = No, he won't. He would like to have coffee.  
-☻: **eska te nyama supe?**
+☻: **eska te niama supe?**
 = Would you like to have soup?  
-☺: **si, nyama.**
+☺: **si, niama.**
 = Yes. (_I eat._)  
-☻: **eska le nyama supe?**
+☻: **eska le niama supe?**
 = Would he like to have soup?  
-☺: **ni nyama.**
+☺: **ni niama.**
 = No.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade da des minute.**
+☻: **danke. me dona un cay e un kafe e un supe sa bade da des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -354,11 +354,11 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **plisa**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
-**me eska te nyama cay.**
+**me eska te niama cay.**
 = I ask (do) you drink tea.  
-**eska te nyama cay?**
+**eska te niama cay?**
 = Do you drink tea?  
-**eska nyama cay?**
+**eska niama cay?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -366,16 +366,16 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**eska le nyama cay?**
+**eska le niama cay?**
 = Does he or she drink tea?  
-**eska te nyama supe?**
+**eska te niama supe?**
 = Do you eat soup?  
-**eska mome nyama suy?**
+**eska mome niama suy?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-**eska xefe nyama kafe?**
+**eska xefe niama kafe?**
 = Does the chief drink coffee?  
 **eska pape safa kamar?**
 = Does the father clean the room?  
@@ -387,31 +387,31 @@ Of course common and proper nouns can also be used.
 
 Yes/no questions can be answered with **si** = yes, and **ni** = no.
 
-– **eska te nyama supe?**
+– **eska te niama supe?**
 = Do you eat soup?  
 – **si.**
 = Yes.  
-– **eska le nyama supe?**
+– **eska le niama supe?**
 = Does she eat soup?  
 – **ni.**
 = No.
 
 Also more complete answers can be given.
 
-– **eska te nyama kafe?**
+– **eska te niama kafe?**
 = Do you drink coffee?  
-– **si. me nyama kafe.**
+– **si. me niama kafe.**
 = Yes, I drink coffee.  
-– **eska le nyama kafe?**
+– **eska le niama kafe?**
 = Does he drink coffee?  
-– **ni. le ni nyama kafe.**
+– **ni. le ni niama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
-– **eska te nyama suy?**
+– **eska te niama suy?**
 = Do you drink water?  
-– **nyama.**
+– **niama.**
 = (Yes, I) drink.
 
 
@@ -447,10 +447,10 @@ Try translating these sentences from English to Pandunia.
 
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
-3. eska mame nyama kafe?
-4. ni. le ni nyama kafe.
-5. eska le nyama supe?
-6. (le) ni nyama.
+3. eska mame niama kafe?
+4. ni. le ni niama kafe.
+5. eska le niama supe?
+6. (le) ni niama.
 
 
 --------------------------------------------------------------------------------
@@ -524,9 +524,9 @@ is more than one correct answer.
 
 1. le ni safa kamar.
 2. un kupe ni hali.
-3. dul waf ni nyama supe.
-4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe nyama cay a ni kafe.
+3. dul waf ni niama supe.
+4. le ni tena waf e maw. / le tena ni waf e ni maw.
+5. xefe niama cay a ni kafe.
 6. mame tena ni waf a dul maw.
 
 
@@ -543,7 +543,7 @@ manner or thing if needed.
 = What is that? / Who is (s)he?  
 **ki ren laya?**
 = Who is coming? (**ren** = person)  
-**ki zaman te nyama?**
+**ki zaman te niama?**
 = When do you eat? (**zaman** = time)  
 **ki yang dansa?**
 = How to dance? (**yang** = manner, style)
@@ -596,8 +596,8 @@ something, even when not answering to a question.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade da des minute.
-5. ke saba le ni nyama?
-6. sabu le ni suku kafe u supe.
+5. ke saba le ni niama?
+6. sabu le ni suku kafe o supe.
 
 
 --------------------------------------------------------------------------------
@@ -613,13 +613,13 @@ such as "to hit", which is the same in all tenses.
 **me darba le.**
 = I hit it.
 
-In Pandunia all verbs are like that! For example, **me nyama pang**
+In Pandunia all verbs are like that! For example, **me niama pang**
 can mean both "I eat bread" and "I ate bread", but usually only one
 or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the
 sentence tells about the past time.
 
-**me nyama pang sa subi nyam.**
+**me niama pang sa subi niam.**
 = I ate bread for morning meal.
 
 There are also specific time words.
@@ -713,15 +713,15 @@ Try translating these sentences from English to Pandunia.
 **wil** future.
 **darba** to hit, to beat.
 **pang** bread.
-**subi nyam** morning meal, breakfast.
+**subi niam** morning meal, breakfast.
 
 ### Answers to the Exercises
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te nyama supe zay.
+3. te niama supe zay.
 4. le safa kamar sa predi den.
-5. maw nyama kafe sa badi den.
+5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
 

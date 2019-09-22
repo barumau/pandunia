@@ -73,7 +73,7 @@ They are described in more detail later in this document.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Words consist of a stem and one or more suffixes.
    The last suffix indicates the word class to which the word belongs.
-   - Modifiers end in **-i**, ex. **nowi** = new.
+   - Modifiers end in **-i**, ex. **novi** = new.
    - Forward verbs end in **-a**, ex. **me loga** = I speak.
    - Backward verbs end in **-u**, ex. **le logu** = It is spoken.
    - Nouns end in **-e**, **-ia** or zero.
@@ -157,7 +157,7 @@ for example good, bad, big, and fast.
 An adjective is a word that adds a particular quality for a noun.
 In Pandunia, an adjective is a modifier that is before a noun.
 
-**nowi kar**
+**novi kar**
 – new car(s)  
 **rapi kar**
 – fast car(s)  
@@ -171,14 +171,14 @@ In Pandunia, an adjective is a modifier that is before a noun.
 When adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-**kar nowi.**
+**kar novi.**
 – The car is new.  
 **bagre rapi.**
 – The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**nowi kar rapi.**
+**novi kar rapi.**
 – The new car is fast.
 
 ### 3.2 Modifying a verb
@@ -212,9 +212,9 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 **lil sundar ren**
 – somewhat beautiful person
 
-The modifiers can be separated by using **i** (and).
+The modifiers can be separated by using **e** (and).
 
-**lil i sundar ren**
+**lil e sundar ren**
 – a little and beautiful person
 
 ### 3.4. Comparison
@@ -351,30 +351,33 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 Note! The reflexive pronoun **ze** is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
 
-**me wida ze**
+**me vida ze**
 – I see myself.  
-**le wida ze**
+**le vida ze**
 – She sees herself. / He sees himself. / It sees itself.  
-**mome wida ze.**
+**mome vida ze.**
 – We see ourselves.
 
 ### 5.3. Demonstrative pronouns
 
-The demonstrative pronoun is:
+The demonstrative pronouns are:
 
-**ce**
-– this/that one
+**we**
+– this one  
+**we**
+– that one
 
-**me wana ce.**
+**me wana ye.**
 – I want this one.  
-**le wana ce.**
+**le wana we.**
 – He/she wants that one.
 
-It ends in **-i** when it functions as a modifier
-i.e. when it comes before a noun.
+They end in **-i** when they function as modifiers i.e. when they come before a noun.
 
-**ci maw**
-– This cat
+**yi maw**
+– This cat  
+**wi maw**
+– That cat
 
 ### 5.4. Interrogative pronouns
 
@@ -478,9 +481,9 @@ In this sentence structure the agent comes first, the verb second, and the recip
     A   R
 
 Examples:  
-**te wida ke?**
+**te vida ke?**
 – You see what?  
-**me wida lole.**
+**me vida lole.**
 – I see them.  
 **te beka pang.**
 – You bake bread.  
@@ -497,7 +500,7 @@ It is frequent in dependant clauses.
     A ← R
 
 Examples:  
-**ke te wida?**
+**ke te vida?**
 – What do you see?  
 **me niama pang, da te beka.**
 – I eat bread _that you baked._
@@ -558,7 +561,7 @@ The agent-recipient-verb order is commonly used alternative for the agent-verb-r
     R ← A
 
 Examples:  
-**me lole widu.** - _I them see._  
+**me lole vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
 #### 6.3.3. Order U3: Verb, agent and recipient
@@ -619,7 +622,7 @@ In the simplest sentences, the subject is a noun or a pronoun and the predicate 
 
 **me bon.**
 – I am good.  
-**le nowi.**
+**le novi.**
 – It is new.  
 **le sarah.**
 – She is Sarah.  
@@ -627,14 +630,14 @@ In the simplest sentences, the subject is a noun or a pronoun and the predicate 
 – Sarah is good.  
 **petre day.**
 – The stone is big.  
-**meze nowi.**
+**meze novi.**
 – The table is new.  
 
 The word **ni** is added to form the negative.
 
 **me ni bon.**
 – I'm not good.  
-**le ni nowi.**
+**le ni novi.**
 – It's not new.  
 **le ni sarah.**
 – She is not Sarah.
@@ -647,7 +650,7 @@ Then the structure is similar like in negative sentences.
 – Sarah is good.  
 **petre si day.**
 – The stone is big.  
-**meze si nowi.**
+**meze si novi.**
 – The table is new.  
 **meze ni law.**
 – The table is not old.
@@ -665,15 +668,15 @@ The same rule applies also for two adjectives.
 
 **jowan si sundar.**
 – Young is beautiful.  
-**nowi ni purani.**
+**novi ni purani.**
 – New is not old.  
 
 #### 7.2.3. With verb subject
 
 A verb can't be subject as such.
-So the verb is first, use **ce** to start a comment about the verb.
+So the verb is first, use **ye** to start a comment about the verb.
 
-**canta, ce bon.**
+**canta, ye bon.**
 – Singing, that is good. (Singing is good.)
 
 #### 7.2.4. To be
@@ -694,7 +697,7 @@ The following sentences are in SVO order.
 
 **me niama aple.**
 – I eat apples.  
-**me wida te.**
+**me vida te.**
 – I see you.  
 **me suku musike.**
 – I like music.
@@ -704,7 +707,7 @@ They can't be translated word-by-word into English becaues English doesn't reall
 
 **me aple niamu.**
 – _I apples eat._  
-**me te widu.**
+**me te vidu.**
 – _I at you look._
 
 Pandunia supports both SVO and SOV word orders.
@@ -722,7 +725,7 @@ Often the agent is not mentioned at all.
 
 Normally the passive is expressed with the verb ending in **-u** and the recipient-verb word order.
 
-**te widu.**
+**te vidu.**
 – You are seen.  
 **musike audu.**
 – Music is heard.  
@@ -733,8 +736,8 @@ Normally the passive is expressed with the verb ending in **-u** and the recipie
 
 The agent can be mentioned after the verb with or without the preposition **da**.
 
-**te widu me.** - You are seen by me.  
-**te widu da me.** - You are seen by me.
+**te vidu me.** - You are seen by me.  
+**te vidu da me.** - You are seen by me.
 
 
 ### 7.6. Pivot structure
@@ -793,14 +796,14 @@ This is done especially in commands and requests.
 
 ### 8.1. Basic conjunctions
 
-1. **i** and (connects two similar words or phrases)
-2. **u** or (connects two alternative words or phrases)
+1. **e** and (connects two similar words or phrases)
+2. **o** or (connects two alternative words or phrases)
 3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**me suku maw i waf.**
+**me suku maw e waf.**
 – I like cats and dogs.  
-**me suku maw u waf.**
+**me suku maw o waf.**
 – I like cats or dogs.  
 **me suku maw a ni waf.**
 – I like cats but not dogs.
@@ -822,7 +825,7 @@ However it is especially convenient in expressions of state.
 
 **me si ren.**
 – I am a person.  
-**le si nowi meze.**
+**le si novi meze.**
 – It is a new table.
 
 ### 9.1.2. Negative
@@ -831,18 +834,18 @@ Such sentences can be simply negated with **ni**.
 
 **me ni ren.**
 – I'm not a person.  
-**le ni nowi meze.**
+**le ni novi meze.**
 – It's not a new table.
 
 The word **ni** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**me wida te.**
+**me vida te.**
 – I see you.  
-**me ni wida te.**
+**me ni vida te.**
 – I don't see you.  
-**me wida ni te a lole.**
+**me vida ni te a lole.**
 – I see, not you, but them.
 
 **me plisa te safa kamar.**
@@ -854,20 +857,20 @@ Different scopes of negation may result depending on the location of the negativ
 
 The particles **si** and **ni** are used also for answering questions.
 
-**eska te wida me?**
+**eska te vida me?**
 – Do you see me?  
-**si. (me si wida te.)**
+**si. (me si vida te.)**
 – Yes. (I do see you.)  
-**ni. (me ni wida te.)**
+**ni. (me ni vida te.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that **si** and **ni** apply to the verb, not the whole question.
 
-**eska te ni wida me?**
+**eska te ni vida me?**
 – Don't you see me?  
-**si. (me si wida te.)**
+**si. (me si vida te.)**
 – Yes. (I do see you.)  
-**ni. (me ni wida te.)**
+**ni. (me ni vida te.)**
 – No. (I don't see you.)
 
 
@@ -907,9 +910,9 @@ but it's better to use the short possessive pronouns and say simply
 
 With **da** it's possible to move a modifier after the noun.
 
-**nowi idey**
+**novi idey**
 – a new idea  
-**idey da nowi**
+**idey da novi**
 – an idea of new
 
 #### 9.2.3. Modification with noun phrases
@@ -954,11 +957,11 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
 
 A declarative phrase:  
-**maw widu me.**
+**maw vidu me.**
 – A cat is seen by me.
 
 The corresponding modifying phrase:  
-**maw da widu me**
+**maw da vidu me**
 – the cat that is _seen by me_
 
 Note! Although **da** seems to have a similar role here as English relative pronouns _which_, _that_, _who_ and _whom_,
@@ -967,22 +970,22 @@ it's still nothing more than a particle connecting a modifier (in this case: a v
 The opposite word order is made with **du** and the verb ending in **-a**.
 
 A declarative phrase:  
-**me wida maw.**
+**me vida maw.**
 – I see a cat.
 
 The corresponding modifying phrase:  
-**me wida du maw**
+**me vida du maw**
 – _My seen_ cat i.e. the cat _that I see_
 
 Pay attention to the final vowels! They are crucial for the meaning!
 
-**maw da widu man**
+**maw da vidu man**
 – the cat that is seen by the man  
-**maw da wida man**
+**maw da vida man**
 – the cat that sees the man  
-**maw wida du man**
+**maw vida du man**
 – the _cat-seen_ man  
-**maw widu du man**
+**maw vidu du man**
 – the _cat-seeing_ man
 
 Note! In Pandunia, words can be put in many different orders.
@@ -1000,7 +1003,7 @@ With the modified noun at the beginning, we need to call into action the otherwi
 
 **site da pu me safara si teli.**
 – The city I’m traveling to is far away.  
-**ci kalam da su me zay kitaba si nowi.**
+**yi kalam da su me zay kitaba si novi.**
 – This pen, with which I’m writing now, is new.
 
 
@@ -1169,10 +1172,10 @@ a thing (noun), a description (modifier) and an action (verb).
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-- **e** marks nouns that are derived from action roots and description roots
-- **i** indicates modifiers
-- **a** indicates forward verbs
-- **u** indicates backward verbs
+- **-e** marks nouns that are derived from action roots and description roots
+- **-i** indicates modifiers
+- **-a** indicates forward verbs
+- **-u** indicates backward verbs
 
 The designated vowel endings enable easy derivation of one type of word from another.
 An ending is simply changed to another ending.
@@ -1219,9 +1222,9 @@ Here are a few examples of different types of ideas.
 **-a** and **-u** are the endings for verbs.
 
 1. If the stem's idea is an action, then its verb form will mean "to do the action".
-   For example from **wide** (_a look_) we get **wida** (_to look_).
+   For example from **vide** (_a look_) we get **vida** (_to look_).
 2. If the idea is a description then its verb form will mean "to turn into that quality".
-   For example from **nowi** (_new_) we get **nowa** (_to make new_ or _to renew_).
+   For example from **novi** (_new_) we get **nova** (_to make new_ or _to renew_).
 3. If the idea is a thing, then its verb form will mean "to apply it to".
    For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
 
@@ -1235,7 +1238,7 @@ For example from **kitaba** (_to write_) we get **kitabe** (_writing_ or _text_)
 
 
 If the idea is a description, then its noun form will mean a concrete instance of that quality.
-For example from **nowi** (_new_) we get **nowe** (_a novelty_ i.e. something new).
+For example from **novi** (_new_) we get **nove** (_a novelty_ i.e. something new).
 
 Additional noun suffixes are presented below.
 
@@ -1244,7 +1247,7 @@ Additional noun suffixes are presented below.
 **-i** is the ending for modifiers that include adjectives, adverbs and and adjectival verbs.
 
 If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
-For example from **now-** (_newness_), we get **nowi** (_new_ i.e. _that which is new_).
+For example from **nov-** (_newness_), we get **novi** (_new_ i.e. _that which is new_).
 
 If the idea is an action, then its adjectival form will mean the state that is produced by the action.
 For example from **loga** (_to speak_) we get **logi** (_spoken_).
@@ -1310,8 +1313,8 @@ The linking vowel -o- is not used when the second word begins with a vowel.
 
 Indicates possibility. It is attached after the verb root.
 
-**widabli** which can be seen, visible  
-**widubli** who/which can see
+**vidabli** which can be seen, visible  
+**vidubli** who/which can see
 
 #### 11.3.2. -er
 
@@ -1365,7 +1368,7 @@ are also a lot of country names that do not end in **-ia**.
 
 Also abstract nouns often end in **-ia**.
 
-**nowi** new, **nowia** newness, novelty  
+**novi** new, **novia** newness, novelty  
 **huri** free, **huria** freedom
 
 When it is added after -er, it means a place of work.
@@ -1424,9 +1427,17 @@ In Pandunia, function words have the following characteristics:
 | 3| 3rd person pronoun     |                        | **le**<br>he, she, it  | **li**<br>his, her, its|                        |
 | 4| Reflexive pronoun      |                        |**ze**<br>(him/her)self | **zi**<br>(his/her) own|                        |
 | 5| Interrogative          |                        | **ke**<br>what?        | **ki**<br>which?       |                        |
-| 6| Demonstrative          |                        | **ce**<br>this/that one| **ci**<br>this/that    |                        |
-| 7| Negation / absence     | **na**<br>without      |                        | **ni**<br>not          | **nu**<br>-less        |
-| 8| Affirmation / presence | **sa**<br>with, by, at |                        | **si**<br>yes          | **su**<br>-ed, -ful    |
-| 9| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
-|10| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
-|11| Origin                 | **ya**<br>from, since  |                        |                        | **yu**                 |
+| 6| Near demonstrative     |                        | **ye**<br>this/that one| **yi**<br>this/that    |                        |
+| 7| Far demonstrative      |                        | **we**<br>this/that one| **wi**<br>this/that    |                        |
+| 8| Negation / absence     | **na**<br>without      |                        | **ni**<br>not          | **nu**<br>-less        |
+| 9| Affirmation / presence | **sa**<br>with, by, at |                        | **si**<br>yes          | **su**<br>-ed, -ful    |
+|10| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
+|11| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
+|12| Origin                 | **ca**<br>from, since  |                        |                        | **cu**                 |
+
+
+B c d F G H J k l m n p R s t W X y z
+
+
+
+

@@ -1,6 +1,6 @@
 fata_liste() {
     #pandunia unordi
-    cat pandunia-lekse.tsv | awk -F "\t" "{print \$4 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    cat pandunia-lekse.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
     # alfobeta
@@ -12,7 +12,7 @@ fata_liste() {
     sed -i '/-...$/d' $2/pandunia-$2.md
 
     #ali bax unordi
-    cat pandunia-lekse.tsv | awk -F "\t" "{print \$$1 \" - \" \$4 \"  \"}" > $2/$2-pandunia.md
+    cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
     #morta unordi linye
     sed -i '1d' $2/$2-pandunia.md
     # alfobeta
@@ -26,7 +26,6 @@ fata_liste() {
 
 fata_leksasli_liste()
 {
-    #Cut Pandunia, colon and translation from the dictionary sheet
     cat pandunia-lekse.tsv | cut -f 1,4,5,$1 > temp/lekse.txt
     #Delete first line
     sed -i '1d' temp/lekse.txt
@@ -58,22 +57,22 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti i pandunia
-fata_liste 6 esperanto
+fata_liste 20 esperanto
 
 # suomi i pandunia
-fata_liste 7 suomi
+fata_liste 21 suomi
 
 # polski i pandunia
-fata_liste 8 polski
+fata_liste 22 polski
 
 # cini i pandunia
-fata_liste 12 cini
+fata_liste 11 cini
 
 # rusi i pandunia
-fata_liste 13 rusi
+fata_liste 9 rusi
 
 # fransi i pandunia
-fata_liste 11 frans
+fata_liste 6 frans
 
 #fata_lekse_asle
 

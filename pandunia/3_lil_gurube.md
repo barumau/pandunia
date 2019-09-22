@@ -8,9 +8,9 @@ sa pase law mam gurube tena tin lil gurube. a le ni tena bas nyam pa
 dona pa lole. sa den da lole bas law, le senda lole pa dunia pa
 lole serca zi kisme.
 
-gurube num un ni pol suku werke. le mey ni wanta werka i le bina ze
-ya dom ya suhi gras. gurube num dul werka lil max, a le plus lil ni
-suku werke, i le bina zi dom sa xake. badu ce, lole gana i dansa
+gurube num un ni pol suku werke. le mey ni wana werka i le bina ze
+ca dom ca suhi gras. gurube num dul werka lil max, a le plus lil ni
+suku werke, i le bina zi dom sa xake. badu ye, lole canta i dansa
 i mazu sa mey den.
 
 gurube num tin tez werka sa tot den, i le bina zi dom sa petre. le
@@ -42,8 +42,8 @@ nafasa i me nafasa i me parca ti dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
-le nafasa i le nafasa i le parca dom! wolfe wanta max ka bas, i le
-proba kaca dul gurube sa sam zaman, a le wanta max ka bas, i le kapa nol
+le nafasa i le nafasa i le parca dom! wolfe wana max ka bas, i le
+proba kaca dul gurube sa sam zaman, a le wana max ka bas, i le kapa nol
 gurube! li day boke kayulu sa nol xe minus hawa. dul lil gurube
 enda far sa maximi rape ka loli pede abla porta lole.
 
@@ -51,9 +51,9 @@ wolfe proba kaca lole sa lil daw. le jino kaca lole. a lole laya
 pa petri dom i keleli kayula mun sa pice da ze sa ante da wolfe ken
 kaca lole.
 
-tin lil gurube fobu. lole jana wolfe wanta nyama lole. ce si day day
-fobi. wolfe ni gon nyama sa tot den i max max wanta nyama sa dur yu
-proba kaca gurube. sa ci mar le abla nos nota tot tin lole sa jung.
+tin lil gurube fobu. lole jana wolfe wana nyama lole. we si day day
+fobi. wolfe ni gon nyama sa tot den i max max wana nyama sa dur yu
+proba kaca gurube. sa yi mar le abla nos nota tot tin lole sa jung.
 le jana tin lil gurube si bon nyam.
 
 wolfe darba mun, i loga: "lil gurube! lil gurube! plisa me laya
@@ -66,7 +66,7 @@ nafasa, i le nafasa, a le ni abla parca dom. sa fin, le day fatigi
 nafasa. sun le ni abla nafasa max. le tingu pa sona i le lil
 fikra.
 
-ce si max ka bas. wolfe kina sa wen sa furia i loga le laya ya duman
+ye si max ka bas. wolfe kina sa wen sa furia i loga le laya ca duman
 tube i le nyama lil gurube sa xam nyam. a sa dur da le gowa pa cate yu
 dom, lil gurube fata garmi garmi fay i loka day pote da suy pa fay.
 bada, sa sam zaman da wolfe gowa pa tal da fay kan, lil gurube kaya

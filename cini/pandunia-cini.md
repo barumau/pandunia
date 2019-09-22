@@ -12,7 +12,7 @@ adulte - 成年人
 agres - 攻击  
 airoporte - 飞机场  
 ais - 冰  
-aisokrem - 冰淇淋   
+aisokrem - 冰淇淋  
 ajil - 灵活的  
 akse - 轴线  
 alge - 藻类  
@@ -25,18 +25,16 @@ ama - 爱
 analis - 分析  
 analisa - 分析  
 anime - 活跃  
-anjil - 福音  
 anker - 锚  
 anten - 天线  
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
+ar - 面积  
 arane - 蜘蛛  
-aranje - 橙子  
 arbe - 树  
 arbuze - 西瓜  
-are - 面积  
-arize - 米   
+arize - 米  
 arme - 武器  
 arte - 美术  
 arter - 美术家  
@@ -46,142 +44,236 @@ asme - 气喘
 aspirin - 阿司匹林  
 ##b
 babe - 章  
-badam - 杏仁  
+bace - 小孩  
+badam - لَوْز  
 badan - 身体  
 bagaje - 行李  
 bagre - 虎  
 bah - 呸  
+baki - 白  
+bakocoy - 白菜 (小白菜)  
 balkon - 阳台  
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
-banke - 银行   
+banke - 银行  
+banse - 竹子  
 banye - 洗澡  
 banyokamar - 浴室  
 banyu - 游泳  
 banze - 板子  
 bari - 重型的  
-barxe - 雨   
+barxe - 雨  
 barxi - 多雨  
 barxocate - 伞  
 barxokote - 雨衣  
+bas - 够  
 baskobol - 篮球  
+batre - 电池  
 bax - 语言  
 baxolojia - 白色  
 bazar - 市场  
 baze - 底部  
-bere - 浆果  
-bil - 帐单   
+bebe - 宝宝  
+bere - 浆果 (莓)  
+bil - 帐单  
+bina - 建设  
+bir - 啤酒  
+bol - كورة  
 bombe - 炸弹  
+bon - 好  
 bon rupi - 好看  
+bote - 船 (艇)  
 botolefte - 左舷  
 boton - 扣子  
-botoraite - 右舷   
+botoraite - 右舷  
+bruni - 棕色 (色)  
 buke - 书  
-buze - 山羊   
+buze - 山羊  
 ##c
+ca - 从  
 cay - 茶  
+cayokupe - 茶碗  
 ceng - 层  
+cerni - 黑色  
 cini - 汉族  
+cis - 酪 (起司)  
 ##d
-date - 数据   
+date - 数据  
 datobanke - 数据库  
 dayosamude - 大洋  
 destin - 目的地 (命運)  
-ding - 钉子   
+dew - 神  
+ding - 钉子  
 dom - 房子  
+dul - 二  
+dunia - 世界  
 ##e
 esa - 对  
+ewanjil - 福音  
 ##f
 fem - 女  
 firuze - 绿松石  
 fitolojia - 植物学  
 fotografe - 照片  
 ##g
+galte - 错误  
+gar - 如果 (要是)  
+gol - 目的  
 gunodarme - 道德  
 ##h
 habar - 消息  
 haime - 帐篷  
+hami - 重要  
 hamili - 怀孕  
+hate - 手  
+hay - 生命  
 helis - 螺旋  
 helpa - 帮助  
 hewanoparke - 动物园  
+hijabe - 面纱  
+hisaba - 计算  
+hoke - 曲棍球  
+hor - 小时  
+hule - 狐狸  
 ##i
+insan - 人类  
+insanistia - 人文主义  
 ##j
 jana - 知道  
 janger - 工匠 (匠人)  
+jinse - 属  
+jiraf - 长颈鹿  
+jul - 焦耳 (J)  
+jung - 中心  
+jungogia - 中国  
+jus - 汁  
 ##k
+kafas - 笼  
 kafe - 咖啡  
-kalangi - 黑色  
+kamar - 房间  
+kamis - 衬衫  
+kanape - 沙发  
+kance - 玻璃  
 kande - 糖果  
+karde - 牌  
 karte - 地图  
 kartografia - 地图学  
 kata - 切  
-ke - 什么，谁  
+ke - 什么  
 keci - 客气  
+kirmi - 红  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
 komputer - 计算机  
 kosmi - 宇宙的  
 kosmia - 宇宙  
+kuan - 宽  
+kube - 立方体  
+kupe - 杯子  
 ##l
 laskeria - 军队  
 laya - 来  
+lazanye - 千层面  
 le - 他，她，它  
 leze - 梨  
 lider - 领导  
 limon - 柠檬  
 liste - 单子  
+loga - 说话 (讲)  
+loke - 地方  
 lole - 他们  
-luta - 掠夺   
+lugi - 绿色  
+luta - 掠夺  
 ##m
 mame - 妈妈  
-manihayistia - 摩尼教   
+marmar - 大理石  
+masal - 香料  
 maste - 桅  
 maturi fem - 女人  
 maturi man - 男人  
-maye - 蚂蚁   
+maye - 蚂蚁  
 me - 我  
 mece - 比赛  
+medi - 中型  
+megam - 云  
+mem - 记忆 (记性)  
+mema - 记得 (回忆)  
+memula - 忘记  
 mene - 意义  
 metalojanger - 铁匠  
+meze - 桌子  
+migra - 搬家  
 moke - 木材  
 mokojanger - 木匠  
 mome - 我们  
 ##n
+nade - 河 (江)  
 ni - 不  
 nida - 需要  
+nidi - 必要的  
+nili - أَزْرَق  
+nixe - 壁龛  
 noce - 夜  
 note - 便条  
+novi - 新  
+o - 或  
 ##o
+oranje - 橙子  
+oranji - 橙色  
+orti - 直  
 ##p
 pa - 到  
 pace - 和平  
 paciste - 和平主义者  
 pacistia - 和平主义  
+pang - 面包  
 papagay - 鹉鹦  
 parke - 园  
 patojener - 病原体  
 patolojia - 病理学  
 pay - 馅饼  
-pelmen - 饺子   
+pelmen - 饺子  
+pese - 钱  
 pesodiske - 硬币  
+pir - 火  
+pira - 燃烧  
+piru - 烧  
 plisa - 请  
-porte - 港   
+porte - 港  
 pote - 坭  
+puding - 布丁  
+pul - 花  
 pulte - 桥  
+putong - 普通  
 ##r
+reste - 其余  
+retra - 返回 (回来)  
+retrotikete - 往返票  
 ##s
-sal - 盐   
+sabun - 肥皂  
+safar - 旅行  
+sahi - 正确  
+sal - 盐  
+salame - 迎接  
+saman - 天空  
 samoray - 一致  
 samude - 海  
+sanwice - 三明治 (三文治)  
+sapate - 鞋  
+sar - 头  
+sekse - 性别  
+selolojia - 细胞学  
 si - 对 (是)  
 sol - 太阳  
 solosistem - 太阳系  
+sosis - 香肠  
+sukar - 糖  
 supris - 惊奇  
-susan - 百合花   
+susan - 百合花  
 ##t
+tami - 贪婪的  
 tarje - 翻译  
 tazi - 新鲜的  
 te - 你  
@@ -202,24 +294,34 @@ toca - 接触
 tomate - 西红柿  
 tote - 你们  
 ##u
-ura - 好哇   
+umur - 年岁  
+ura - 好哇  
 ##v
+vagin - 阴道  
+veje - 蔬菜  
+vejoniamiste - 素食主义者  
+vente - 问题 (难题)  
+vida - 看  
+vulve - 外阴 (陰门)  
 ##w
-wanta - 想要  
-weje - 蔬菜  
-wida - 看  
+wana - 想要 (愿意)  
+werka - 工作  
+werke - 工作  
+werker - 工人 (工作者)  
 ##x
 xam - 晚上  
+xatan - 撒但  
 xaw - 少  
-xey - 事物 (东西)   
-xite - 粪 (屎)   
+xey - 事物 (东西)  
+xite - 粪 (屎)  
 xofa - 开车  
-xofer - 司机   
+xofer - 司机  
 xute - 技术  
 ##y
 yoge - 瑜伽功  
 yuke - 玉  
 ##z
-zebre - 斑马   
-zime - 冬天   
+zebre - 斑马  
+zime - 冬天  
+zinje - 姜  
 zumrude - 绿宝石  

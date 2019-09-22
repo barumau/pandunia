@@ -328,40 +328,58 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ce <small>this, that</small>
+### ye <small>this</small>
 
-**ce ke? / ke ce?**
+**ye ke? / ke ye?**
 What's this?
 
-**ce aple.**
+**ye aple.**
 This is an apple.
 
-**ce ros aple.**
+**ye ros aple.**
 This is a red apple.
 
-**ci aple ros.**
+**yi aple ros.**
 This apple is red.
 
 Note: When an adjective, like **ros**, is placed before a noun, it works as a
 modifier. When it follows the noun, it works as an adjectival verb.
 
-**ce ros.**
+**ye ros.**
 This is red.
+
+
+### we <small>that</small>
+
+**we ke? / ke we?**
+What's that?
+
+**we aple.**
+That is an apple.
+
+**we ros aple.**
+That is a red apple.
+
+**wi aple ros.**
+That apple is red.
+
+**we ros.**
+That is red.
 
 
 
 ### du <small>'s (possessive particle)</small>
 
-**ce ke?**
+**ye ke?**
 What's this?
 
-**ce me du fon.**
+**ye me du fon.**
 It's my phone.
 
-**ce ke du?**
+**ye ke du?**
 Whose is this?
 
-**ce me du.**
+**ye me du.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
@@ -407,7 +425,7 @@ I have a good house.
 **le ni tena pese.**
 He/she doesn't have money.
 
-**me wana tena nowi fon.**
+**me wana tena novi fon.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -421,7 +439,7 @@ I have two children.
 **me jana le.**
 I know him/her.
 
-**eska te jana ci ren?**
+**eska te jana wi ren?**
 Do you know that person?
 
 **eska tote jana unale?**
@@ -472,7 +490,7 @@ Tip: Meaning of **niama** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**me niama kafe i pang.**
+**me niama kafe e pang.**
 I'm having coffee and bread.
 
 
@@ -497,7 +515,7 @@ No, I don't want tea. I want coffee.
 
 **te wana ki aple?**
 Which apple do you want?  
-**ci ros.**
+**yi ros.**
 This red one.
 
 
@@ -561,7 +579,7 @@ Are you thirsty?
 **pardon! me ni aha.**
 Sorry, I don't understand.
 
-**pardon! ce ke?**
+**pardon! ye ke?**
 Excuse me, what's this?
 
 **pardon. ti nam ke?**
@@ -652,24 +670,24 @@ I listen to music.
 What kind of music do you listen to?
 
 
-### wida <small>to see</small>
+### vida <small>to see</small>
 
-**suku wida te.**
+**suku vida te.**
 Pleased to see you!
 
-**wida te repi!**
+**vida te repi!**
 See you again!
 
-**wida te badi den!**
+**vida te badi den!**
 See you tomorrow!
 
-**me wida le predi den.**
+**me vida le predi den.**
 I saw him/her yesterday.
 
 
 ### mena <small>to mean</small>
 
-**ci loge mena ke?**
+**yi loge mena ke?**
 What does this word mean?
 
 **"maw" mena ke?**
@@ -687,7 +705,7 @@ I don't understand what it means.
 **plisa kitaba ti adres.**
 Please, write your address.
 
-**plisa kitaba le sa ce.**
+**plisa kitaba le sa ye.**
 Please, write it here!
 
 
@@ -770,7 +788,7 @@ The voyage is very long.
 **hotel sa ke?**
 Where is the hotel?
 
-**hotel sa ci daw.**
+**hotel sa wi daw.**
 The hotel is on that road.
 
 **te sa ke?**
@@ -799,7 +817,7 @@ Where do you live?
 **me domu singapur.**
 I live in Singapore.
 
-**eska te domu ci hotel?**
+**eska te domu yi hotel?**
 Do you live in this hotel?
 
 Tip: It is also okay to say **te domu sa ke?** instead of **te domu ke**.  However
@@ -829,7 +847,7 @@ I wait for you in the hotel.
 **me zay salama te du doste.**  
 I am greeting your friend.
 
-**man zay wida fem.**  
+**man zay vida fem.**  
 The man is looking at the woman.
 
 **le zay xefe.**  
@@ -844,7 +862,7 @@ He or she is currently at home.
 **me pas salama te du doste.**  
 I greeted your friend.
 
-**man pas wida fem.**  
+**man pas vida fem.**  
 The man looked at the woman.
 
 **le pas xefe.**  
@@ -859,7 +877,7 @@ He or she was at home.
 **me lew salama te du doste.**  
 I have greeted your friend.
 
-**man lew wida fem.**  
+**man lew vida fem.**  
 The man has looked at the woman.
 
 **le lew xefe.**  
@@ -874,7 +892,7 @@ He or she has been at home.
 **me wil salama te du doste.**  
 I will greet your friend.
 
-**man wil wida fem.**  
+**man wil vida fem.**  
 The man will see the woman.
 
 **le wil xefe.**  
@@ -896,7 +914,7 @@ Please give some money.
 **plisa dona le pa me.**
 Please give it to me.
 
-**me dona ce pa te.**
+**me dona ye pa te.**
 I give this to you.
 
 **me dona buke pa lole.**
@@ -964,7 +982,7 @@ Is it new?
 **ke si max bon?**
 Which is better?
 
-**ce si maxim bon (da pan).**
+**ye si maxim bon (da pan).**
 This is the best (of all).
 
 **le kosta ke?**
@@ -1018,7 +1036,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**plisa sida sa ce!**
+**plisa sida sa ye!**
 Please, sit here!
 
 **me suku stasa.**
