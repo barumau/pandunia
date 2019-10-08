@@ -30,7 +30,7 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)
-    - [Luettelo sanojen alkuperästä](../pandunia/loge_asle.md) (vain panduniaksi)
+    - [Luettelo sanojen alkuperästä](leksaslia.md) (lähdekielet on merkitty [kielikoodeilla](http://jkorpela.fi/kielet/nimet.html))
 - [Tarinoita ja sarjakuvia panduniaksi](http://www.pandunia.info/pandunia/index.html)
 
 

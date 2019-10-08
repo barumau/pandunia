@@ -1,5 +1,4 @@
 # pandunia-polski
- - misa, kubek bez ucha  
 -a - przyrostek dla czasowników z szykiem zdania SVO  
 -e - przyrostek dla (wyniku) działania  
 -i - przyrostek dla przymiotnika  

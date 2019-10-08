@@ -27,6 +27,7 @@ Niektóre zauważalne cechy Panduni:
 <!--- [Słownik z możliwością wyszukiwania](tiddly.html)
 - słownik [polski-Pandunia](polski-pandunia.md)-->
 - słownik [Pandunia-polski](pandunia-polski.md)
+- [Etymologia](leksaslia.md)
 
 ## Artykuły
 

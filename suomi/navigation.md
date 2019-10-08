@@ -14,6 +14,7 @@
   * [Maailman sanastot](dunia_loge.md)
   * [Pandunia-suomi](pandunia-suomi.md)
   * [Suomi-pandunia](suomi-pandunia.md)
+  * [Alkuperäsanasto](leksaslia.md)
 
 [Kielioppi](kanun.md)
 

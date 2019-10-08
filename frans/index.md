@@ -20,9 +20,10 @@ Quelques traits remarquables du pandunia :
 - [Recueil d’expressions](fraze.md)
 - [Leçon en dialogues](darse.md)
 - [Grammaire](kanun.md)
-- Dictionnaire [dynamique](http://www.pandunia.info/english/tiddly.html) (en anglais)
 - Dictionnaire [français → pandunia](frans-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-frans.md)
+- Dictionnaire [étymologique](leksaslia.md)
+- Dictionnaire [dynamique](http://www.pandunia.info/english/tiddly.html) (en anglais)
 
 ## À propos du dialecte sans flexion
 

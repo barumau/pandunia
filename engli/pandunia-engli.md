@@ -1,5 +1,4 @@
 # pandunia-engli
- - bowl (earless cup)  
 -a - suffix for verbs with SVO word order  
 -e - suffix for derived nouns  
 -es - -ness (-ity)  

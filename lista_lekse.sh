@@ -1,4 +1,4 @@
-fata_liste() {
+fata_liste_x_pandunia() {
     #pandunia unordi
     cat pandunia-lekse.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
@@ -10,7 +10,9 @@ fata_liste() {
     sed -i "1s/^/# pandunia-$2\n/" $2/pandunia-$2.md
     #Delete empty translations
     sed -i '/-...$/d' $2/pandunia-$2.md
+}
 
+fata_liste_pandunia_x() {
     #ali bax unordi
     cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
     #morta unordi linye
@@ -24,13 +26,25 @@ fata_liste() {
     sed -i '/^.-/d' $2/$2-pandunia.md
 }
 
-fata_leksasli_liste()
-{
-    cat pandunia-lekse.tsv | cut -f 1,4,5,$1 > temp/lekse.txt
-    #Delete first line
-    sed -i '1d' temp/lekse.txt
+fata_leksasli_liste() {
+#    cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
+    cat pandunia-lekse.csv | awk -F "|" "{print \"|\" \$$1 \"|\" \$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    #morta unordi linye
+    sed -i '1d' $2/leksaslia.md
+    #Sort
+    LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
+    #Add header row
+    sed -i "1s/^/|$2 | pandunia | leksasle |\n/" $2/leksaslia.md
+    #Add header
+    sed -i "1s/^/# $2-pandunia sa leksasle\n/" $2/leksaslia.md
     #Delete empty translations
-    sed -i '/\t$/d' temp/lekse.txt
+    sed -i '/||/d' $2/leksaslia.md
+}
+
+fata_liste() {
+    fata_liste_x_pandunia $1 $2
+    fata_liste_pandunia_x $1 $2
+    fata_leksasli_liste $1 $2
 }
 
 fata_lekse_asle() {
@@ -46,10 +60,11 @@ fata_lekse_asle() {
     cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/loge_asle.md
 }
 
-dos2unix pandunia-lekse.tsv
+#dos2unix pandunia-lekse.csv
 
 # engli i pandunia
 fata_liste 5 engli
+fata_leksasli_liste 5 engli
 
 #Tiddly dictionary
 cp engli/pandunia-engli.md temp/temp.txt
@@ -73,6 +88,7 @@ fata_liste 9 rusi
 
 # fransi i pandunia
 fata_liste 6 frans
+
 
 #fata_lekse_asle
 

@@ -908,7 +908,6 @@ kuka? - ki ren
 kukka - pul  
 kukkaruukku - pulowaze  
 kukkia - pula  
-kulho -   
 kuljetus - transeria  
 kulkea poikki, läpi tai yli - transa  
 kulma (nurkka) - gon  

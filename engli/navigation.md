@@ -22,6 +22,7 @@
   * [Word building](lekse_lojia.md)
   * [Pandunia-English](pandunia-engli.md)
   * [English-Pandunia](engli-pandunia.md)
+  * [Origins or words](leksaslia.md)
   * [Search](tiddly.html)
 
 [Grammar](kanun.md)

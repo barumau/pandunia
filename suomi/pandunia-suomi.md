@@ -1,5 +1,4 @@
 # pandunia-suomi
- - kulho  
 -a - pääte: SVO-sanajärjestyksen verbi  
 -e - pääte: substantiivi  
 -es - -us (-uus)  

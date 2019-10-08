@@ -1058,7 +1058,6 @@ ministry - ministeria
 minuta - minut  
 minąć, mijać (czas) - duru  
 minąć, mijać, przeminąć, przemijać - pasa  
-misa, kubek bez ucha -   
 misja - misia  
 mistrz (ekspert) - mester  
 mit, boska opowieść - dewi sage  

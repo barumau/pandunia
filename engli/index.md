@@ -30,7 +30,7 @@ Some remarkable features of Pandunia:
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary
 - [Pandunia-English](pandunia-engli.md) dictionary
-- [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
+- [Origins of words](leksaslia.md) (with [language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 
 - [Your name in Pandunia](ren_da_nam.md)
 

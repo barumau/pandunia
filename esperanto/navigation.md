@@ -12,6 +12,7 @@
   * [Mondaj vortaroj](loga.md)
   * [Pandunia-esperanto](pandunia-esperanto.md)
   * [Esperanto-pandunia](esperanto-pandunia.md)
+  * [Etimologia listo](leksaslia.md)
 
 [💬]()
 

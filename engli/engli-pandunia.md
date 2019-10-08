@@ -295,7 +295,6 @@ Botswana - tsuania
 bottle - botol  
 bottom - tal  
 bow instrument (violin, etc.) - ticin  
-bowl (earless cup) -   
 box (chest) - sanduke  
 boy - jovani man  
 boycott - boikote  
