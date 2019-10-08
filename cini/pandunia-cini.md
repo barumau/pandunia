@@ -30,10 +30,10 @@ anten - 天线
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
-ar - 面积  
 arane - 蜘蛛  
 arbe - 树  
 arbuze - 西瓜  
+are - 面积  
 arize - 米  
 arme - 武器  
 arte - 美术  
@@ -120,6 +120,7 @@ fotografe - 照片
 galte - 错误  
 gar - 如果 (要是)  
 gol - 目的  
+gunden - 宫殿  
 gunodarme - 道德  
 ##h
 habar - 消息  
@@ -231,15 +232,24 @@ pa - 到
 pace - 和平  
 paciste - 和平主义者  
 pacistia - 和平主义  
+pagre - 包头  
 pang - 面包  
 papagay - 鹉鹦  
+papay - 木瓜  
+papir - 纸  
 parke - 园  
+pasporte - 护照  
 patojener - 病原体  
 patolojia - 病理学  
 pay - 馅饼  
+peda - 放屁  
+pede - 屁  
 pelmen - 饺子  
 pese - 钱  
 pesodiske - 硬币  
+piaze - 洋葱  
+pil - 皮  
+pin - 别针  
 pir - 火  
 pira - 燃烧  
 piru - 烧  
@@ -270,6 +280,7 @@ sar - 头
 sekse - 性别  
 selolojia - 细胞学  
 si - 对 (是)  
+sikliste - 骑自行车的人  
 sol - 太阳  
 solosistem - 太阳系  
 sosis - 香肠  
@@ -321,6 +332,8 @@ xey - 事物 (东西)
 xite - 粪 (屎)  
 xofa - 开车  
 xofer - 司机  
+xopa - 买  
+xope - 购物 (血拼)  
 xute - 技术  
 ##y
 yoge - 瑜伽功  

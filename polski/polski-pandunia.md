@@ -499,7 +499,7 @@ ghul - gul
 Gibraltar - jibraltar  
 gitara - gitar  
 glin (aluminium) - alumin  
-globalny (światowy) - panoduni  
+globalny (światowy) - panduni  
 globalny - duni  
 glutaminian sodu - micin  
 gluten - gluten  
@@ -704,7 +704,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisaba  
 Kambodża - kambudia  
-kamera, aparat fotograficzny - fotografal  
+kamera, aparat fotograficzny - fotomaxin  
 Kamerun - kamerunia  
 kamień - petre  
 Kanada - kanadia  
@@ -873,7 +873,7 @@ kuchnia - kukeria
 kukurydza - mais  
 kultura - kultur  
 kumin, kmin - ziran  
-kupić - baya  
+kupić - xopa  
 kupon - kupon  
 kura, kogut, kurczak - kokode  
 kurtka - jake  
@@ -1133,7 +1133,7 @@ młot, młotek - hamar
 młynarz - moler  
 ##n
 nabardziej, maksymalnie - maxim  
-nabywca (kupiec) - bayer  
+nabywca (kupiec) - xoper  
 naciskać, zostawiać ślad - capa  
 nacjonalista - nasiste  
 nacjonalizm - nasistia  
@@ -1307,7 +1307,7 @@ osioł - gade
 osm - osmium  
 osoba biznesu, biznesman - bizneser  
 osoba dorosła - adulte  
-osoba mówiąca w Panduni - panduner  
+osoba mówiąca w Panduni - panduniste  
 osoba; ludzie - ren  
 osobisty, intymny, prywatny - tani  
 ostatni, końcowy - fini  
@@ -1341,13 +1341,13 @@ Panama - panamia
 panamerykański - panameriki  
 panazjatycki - panasi  
 panda - pande  
-pandemiczny - panodemi  
-pandemonium - panodemonia  
+pandemiczny - pandemi  
+pandemonium - pandemonia  
 Pandunia - pandunia  
 paneuropejski - paneuropi  
 panika - panike  
-panteizm - panodewistia  
-panteon - panodewia  
+panteizm - pandewistia  
+panteon - pandewia  
 papaja - papay  
 papier - papir  
 papieros (cygar) - sigar  
@@ -1370,9 +1370,9 @@ patogen - patojener
 patologia - patolojia  
 patrzeć (oglądać) - kana  
 patrzeć, widzieć - vida  
-pauza, przerwa - paus  
+pauza, przerwa - pauze  
 paznokieć - nahun  
-pałac - palas  
+pałac - gunden  
 paść, padać, upaść, upadać - padu  
 październik - mes 7 (mes sem)  
 pchnąć, pchać - puxa  
@@ -1397,8 +1397,8 @@ piekło - narake
 pielęgnować, leczyć - kura  
 pieniądze - pese  
 pieprz - pimente  
-pierdnięcie - perde  
-pierdzieć - perda  
+pierdnięcie - pede  
+pierdzieć - peda  
 pierwszy, numer jeden - nume un  
 pierwszy, początkowy - muli  
 pierś - sine  
@@ -1479,7 +1479,7 @@ pokrycie; pokrywa, wieko, dekiel; pokład - deke
 pokój rozmów, chat - blableria  
 pokój, sala - kamar  
 pole widzenia - vidomaidan  
-pole, powierzchnia - ar  
+pole, powierzchnia - are  
 policja - polis  
 policzyć, liczyć, przetwarzać dane - komputa  
 Polinezja Francuska - fransi polinesia  
@@ -1609,7 +1609,7 @@ przejść, przechodzić, przejechać, przejeżdżać - transa
 przekroczyć, przekraczać, przejść nad, iść nad - supra  
 przekąska - lil niam  
 przepraszam! - pardon  
-przerwać, przerywać - pausa  
+przerwać, przerywać - pauza  
 przesilenie - solestas  
 przestępstwo - krim  
 przeszkodzić, przeszkadzać, robić kłopot - mafana  
@@ -1731,6 +1731,7 @@ rosyjski - rusi
 rotor, wirnik - roter  
 rower - sikle  
 rower z pedałami - pedalosikle  
+rowerzysta - sikliste  
 rozdział, sekcja - babe  
 rozjaśnić - minga  
 rozkaz, komenda - komande  

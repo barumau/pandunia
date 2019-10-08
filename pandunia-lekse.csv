@@ -91,13 +91,13 @@ anusi||||anal|||||||||||||||anusa|anaalinen|analny, odbytni
 aple|||eng:apple. deu:Apfel. ind:apel. ben:আেপল (apôl). zul:ihhabhula.|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
 aplika||||apply (put to use for a purpose)|appliquer|emplear|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
 aplike|||eng:fra:application. spa:aplicación. por:aplicação. pol:aplikacja.|application||||||||||||||||sovellus|zastosowanie, aplikacja
-ar|||eng:area. por:spa:área. pol:areał. fra:aire.|area (extent of surface)|aire (superficie)|||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia
 arabi||||Arabic|arabe||||||||||||||araba|arabialainen|arabski
 arane|||fra:araignee. por:aranha. spa:araña. eng:arachnid.|spider|araignée|araña|aranha|паук||蜘蛛|オレンジ|||मकड़ी||labah-labah||örümcek|araneo|hämähäkki|pająk
 aranofobia||||arachnophobia|arachnophobie||||||||||||||araneofobio|araknofobia (hämähäkkikammo)|arachnofobia
 arbe|||fra:arbre. spa:árbol. por:árvore.|tree|arbre|árbol|árvore|дерево||树||||पेड़||pohon (pokok)||ağaç|arbo|puu|drzewo
 arboparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
 arbuze|||rus:арбуз (arbuz). pol:arbuz. tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).|watermelon|pastèque|sandía|melancia|арбуз||西瓜||||तरबूज||semangka||karpuz|akvomelono|vesimeloni|arbuz
+are|||eng:area. por:spa:área. pol:areał. fra:aire.|area (extent of surface)|aire (superficie)|||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia
 argentin|dex|AR||Argentina|Argentine||||||||||||||Argentino|Argentiina|Argentyna
 argon|made|Ar||argon|argon||||||||||||||argono|argon|argon
 aria||||area (region)|||||||||||||||ejo|alue (seutu)|powierzchnia, region, teren
@@ -169,6 +169,7 @@ banyu||||bathe|se baigner|||купаться||游泳|||||||||bana|kylpeä|kąpa�
 banze|||zho:板子 (bǎnzi). mon:банз (banz). kor:판자 (panja). yue:板 (baan2). jpn:板 (ban). vie:bảng. + swa:bao.|board (plank)||||доска||板子||||||||||lauta (lankku)|deska
 banzogem||||board game||||||||||||||||lautapeli|gra planszowa
 bar|||ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.|weight|||||||||||||||pezo|paino|waga (ciężkość)
+bar|||eng:fra:spa:por:ind:tur:bar. rus:бар (bar). zho:酒吧 (jiǔbā). jpn:バー (bā). hin:बार (bār). Ben:বার (bar).|bar|||||||||||||||||
 barbados|dex|BB||Barbados||||||||||||||||Barbados|Barbados
 barbar|||deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).|barbarian|||||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 barde|||fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.|beard|||||||||||||||barbo|parta|broda
@@ -203,8 +204,6 @@ baxa||||speak (communicate)|||||||||||||||paroli (komuniki)|puhua (kommunikoida)
 baxokanun||||grammar|||||||||||||||gramatiko|kielioppi|
 baxokanuni||||grammatical|||||||||||||||gramatika|kieliopillinen|
 baxolojia||||linguistics||||||白色|||||||||lingvistiko|kielitiede (lingvistiikka)|językoznastwo
-baya|||eng:buy.|buy (purchase)|acheter|comprar|||||||||||||aĉeti|ostaa|kupić
-bayer||||buyer|||||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
 baza||||found||||||||||||||||perustaa|
 bazar|||fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:bazar. eng:bazaar. rus:базар (bazar). ind: pasar. khm:ផ្សារ (psar).|market (bazaar)|marché (bazar)||mercado (bazar)|рынок (базар)|سُوق|市场|市場 (マーケット, バザー)|||बाज़ार||pasar|soko||merkato (bazaro)|tori (basaari)|rynek, bazar
 bazarohuristia||||market liberalism||||||||||||||||markkinaliberalismi|liberalizm rynkowy
@@ -240,7 +239,7 @@ biblia||||Bible|||||||||||||||Biblio|Raamattu|Biblia
 bil|||eng:bill. hin:बिल (bil).|bill (invoice)||||счёт||帐单||||||||||lasku (faktuura)|rachunek (faktura)
 bina|||ara:(banā). hin: बनाना (banānā). urd:(banānā). fas:(banā). tur: bina. jpn:ビル (biru).|build (construct)|construire||construir|строить|بَنَى‎ |建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
 binde|||hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi).|dot (spot)|||||||||||||||punkto|täplä (läiskä)|punkt
-bir|||eng: beer. tur: bira.|beer|bière|cerveza (birra)|cerveja|пиво|بيرة|啤酒|ビール|||बियर||bir|bia||biero|olut (kalja)|piwo
+bir|||eng:beer. tur:bira. fra:bière. ara: بيرة (bīra). ind:bir. hin:बियर (biyar). swa:bia. zho:啤(酒) pí(jiǔ). jpn:ビール (bīru).|beer|bière|cerveza (birra)|cerveja|пиво|بيرة|啤酒|ビール|||बियर||bir|bia||biero|olut (kalja)|piwo
 bireria|||eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).|bar (pub, beer house)|||||||||||||||drinkejo|baari (kapakka)|bar, knajpa
 bis|||bug:bissu.|genderqueer (non-binary)||||||||||||||||muunsukupuolinen|genderqueer, niebinarny
 bisawi ginia|dex|GW||Guinea-Bissau||||||||||||||||Guinea-Bissau|Guinea Bissau
@@ -268,7 +267,7 @@ bora||||drill (bore)|||||||||||||||taladro|porata|wiercić, borować
 borium|made|Bh||bohrium|||||||||||||||borio|bohrium|bohr
 boron|made|B||boron|||||||||||||||boro|boori|bor
 bosnia|dex|BA||Bosnia and Herzegovina||||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
-bote|||spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.|boat (ship)|bateau||barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||ŝipo|vene (laiva)|łódź, statek
+bote|||spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|boat (ship)|bateau||barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||ŝipo|vene (laiva)|łódź, statek
 botokaper||||privateer (buccaneer)||||||||||||||||laivakaappari|kaper (korsarz)
 botol|||eng:bottle. ind:botol.|bottle|||||||||||||||botelo|pullo|butelka
 botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
@@ -292,7 +291,7 @@ budistia||||Buddhism|||||||||||||||budhismo|buddhalaisuus (buddhismi)|Buddyzm
 bufon|||spa:bufón. eng:buffoon. fra:bouffon.|fool (buffoon)|||||||||||||||pajaco|hölmö (narri)|głupiec, bufon
 buge|||eng:bugle. ara:(būq). fas:(buq). kat:ბუკი (buḳi).|bugle (horn instrument)||||||||||||||||torvi (torvisoitin)|róg
 bujete||||budget|||||||||||||||buĝeto|budjetti|budżet
-buke|||eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.|book|livre|libro|livro|книга||书||||पुस्तक (किताब)||buku (pustaka, kitab)||kitap|libro|kirja|książka
+buke|||eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|book|livre|libro|livro|книга||书||||पुस्तक (किताब)||buku (pustaka, kitab)||kitap|libro|kirja|książka
 buking|||eng:booking. deu:Buchung. hin:(buking).|booking (reservation)|||||||||||||||rezervo|varaus (ennakkovaraus)|rezerwacja
 bula||||boil (cook)|||||||||||||||boligi|keittää (kiehuttaa)|zapomnieć, zapominać
 bulbul|||ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).|nightingale|||||||||||||||najtingalo|satakieli|słowik
@@ -578,7 +577,7 @@ faxon|||eng:fashion. hin:फैशन (faiśan). jpn:ファッション (fasshon
 faxoni||||popular (trendy)||||||||||||||||suosittu (trendikäs)|popularny, modny
 faze|||spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).|stage (phase)||etapa (fase)||||||||||||||vaihe (etappi)|etap, faza
 febre|||por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.|fiever|||||||||||||||febro|kuume|gorączka
-fem||||female||||||女|||||||||ino|naaras|kobieta; kobiecy
+fem|||fra:femme. por:fêmea. eng:female.|female||||||女|||||||||ino|naaras|kobieta; kobiecy
 femi bace||||daughter|||||||||||||||filino|tyttölapsi|córka
 femi rajer||||queen||||||||||||||||kuningatar|królowa
 fen|||zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).|part (fraction)|||||||||||||||parto (frakcio)|osa (pala)|część, ułamek
@@ -641,11 +640,11 @@ fos||||pit (excavation)|||||||||||||||foso|kuoppa (kolo)|dół, jama, wydobycie,
 fosa||||dig (excavate)|||||||||||||||fosi|kaivaa|wykopać, kopać, wydobyć, wydobywać, wykopywać
 fosfor||||phosphorus|||||||||||||||fosforo|fosfori|fosfor
 fotograf||||photograph|||||||||||||||foto|valokuva (foto)|zdjęcie, fotografia
-fotografal||||camera|||||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fotografe|||eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|photograph|photo (photographie)|foto (fotografía)|foto (fotografia)|фотокарточка||照片||||फ़ोटो||foto||fotoğraf|foto (fotografaĵo)|valokuva|
 fotografer||||photographer|||||||||||||||fotisto|valokuvaaja|
 fotografia||||photography||||||||||||||||valokuvaus|fotografia
 fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|
+fotomaxin||||camera|||||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fransi polinesia|dex|PF||French Polynesia||||||||||||||||Ranskan Polynesia|Polinezja Francuska
 fransia|dex|FR||France|||||||||||||||Francio|Ranska|Francja
 fransium|made|Fr||francium|||||||||||||||franciumo|fransium|frans
@@ -750,6 +749,7 @@ guhe|||ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha
 gujarati|nas|||Gujarati||||||||||||||||gujarati (eräs intialainen kieli)|Gudżarat
 gul||||ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||ghouli|ghul
 gula|||ben:গেলা (gela). por:engolir. rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir.|swallow||||глотать|||||||||||gluti|niellä|połknąć (połykać)
+gunden|||zho:宫殿 (gōngdiàn). viecung điện. jpn:宮殿 (j yūden). kor:궁전 (gungjeon).|palace|palais|palacio|palácio|дворец|قَصْر‎|宫殿|宮殿|궁 (궁전)|cung điện|महल|প্রাসাদ|istana|kasri|saray|palaco|palatsi|pałac
 gune|||hin:गुण (guṇ). ben:গুণ (guṇ). tel:(guṇamu). mya:ဂုဏ် (gun). ind:guna. tha:คุณ (kun).|quality (excellence, virtue, merit)|||||||||||||||eco|laatu (laadukkuus, erinomaisuus, hyvyys)|cecha, atrybut, własność; -ość
 guni||||excellent||||||||||||||||laadukas (hyvä)|
 gunodarme|||tha:คุณธรรม (gunnadam). hin: urd: tam: tel: mya: ind:|virtue (morals)||||||道德||||||||||hyve|
@@ -761,7 +761,7 @@ gusta||||taste (sense flavor)|||||||||||||||gustumi|maistaa|smakować, próbowa�
 guste||||taste (flavor)|||||||||||||||gusto|maku|smak
 gustu ka||||taste like|||||||||||||||gusti kiel|maistua|smakować jak
 guy|||zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).|ogre (troll, goblin)|||||||||||||||ogro (trolo)|peikko|ogr (trol, goblin)
-habar|||ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.|news||||новости||消息||||ख़बर||kabar||haber|novaĵoj|uutinen|wiadomość, nius
+habar|||ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.|news||||новости||消息||||ख़बर||kabar|habari|haber|novaĵoj|uutinen|wiadomość, nius
 habarobaw||||newspaper (gazette)|||||||||||||||gazeto|sanomalehti|gazeta
 habaxi||||Abyssinian||||||||||||||||abyssinialainen|
 habaxia||||Abyssinia||||||||||||||||abyssinia|
@@ -1258,6 +1258,7 @@ lazanye|||fra:lasagne. eng:lasagna. spa:lasaña. por:lasanha. rus:лазанья
 le||||he or she or it||||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
 lefte|||eng:left.|left||||||||||||||||vasen|lewa strona
 leftiste||||leftist (left-winger)||||||||||||||||vasemmistolainen|lewicowiec (lewak)
+lekin|||ara: لكن (lākin). hin:लेकिन (lekin). Swa:lakini.|however|||||||||||||||tamen|kuitenkin|
 lekse||||word|||||||||||||||vorto|sana|słowo
 leksem||||lexeme||||||||||||||||lekseemi|leksem
 leksia||||vocabulary (lexicon)|||||||||||||||vortaro|sanasto|słownictwo
@@ -1746,21 +1747,20 @@ osme||||osmosis||||осмос|||||||||||osmozo|osmoosi|
 osmium|made|Os||osmium|||||||||||||||osmio|osmium|osm
 oste|badan||eng:deu:osteo-. rus:остео- (osteo-). ita:por:osso. fra:os. hin:अस्थि (asthi-).|bone|||||||||||||||osto|luu|kość
 osteria|dex|AT||Austria||||||||||||||||Itävalta|Austria
-oton|mosim||fra:automne. otoño. por:outono. eng:autumn.|autumn (fall)|||||||||||||||aŭtuno|syksy (syys)|jesień
+oton|mosim||fra:automne. spa:otoño. por:outono. eng:autumn.|autumn (fall)|automne|otoño|outono||||||||||||aŭtuno|syksy (syys)|jesień
 pa||||to (toward, till, until, for)||||||到|||||||||al (ĝis, por)|luokse (tykö, kohti, asti)|do, dopóki, dla
-pace|||ita:pace. eng:peace. spa:por:paz. fra:paix.|peace|paix|paz||||和平|||||||||paco|rauha|
+pace|||ita:pace. eng:peace. spa:por:paz. fra:paix.|peace|paix|paz|paz|||和平|||||||||paco|rauha|
 paciste||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|
 pacistia||||pacifism||||||和平主义|||||||||pacifismo|rauhanaate (pasifismi)|
 pada||||drop (let fall)||||||||||||||||pudottaa|upuścić, upuszczać
 padu|||tel:(paḍu). rus:падать (padat'). hin: पड़ना (paṛnā).|fall||||||||||||||||pudota (tipahtaa)|paść, padać, upaść, upadać
-pagre|||hin:mar:पगड़ी (pagṛī). urd:(pagṛī). ben:পাগড়ি (pagri).|turban||||||||||||||||turbaani|turban
+pagre|||hin:mar:पगड़ी (pagṛī). urd:(pagṛī). ben:পাগড়ি (pagri).|turban|turban|turbante|turbante|чалма||包头||||पगड़ी|পাগড়ি|||||turbaani|turban
 paka||||pack||||||||||||||||pakata|zapakować, pakować
-pake|||eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|pack (package)|||||||||||||||pako|pakkaus (paketti)|paczka, paka
+pake|||eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|pack (package)|paquet|paquete|pacote|пакет||||||पैकेट||||paket|pako|pakkaus (paketti)|paczka, paka
 pakistan||||Pakistan||||||||||||||||Pakistan|Pakistan
-pakse|||hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pnb:ਪੰਖੀ (paṅkhī).|bird|||||||||||||||birdo|lintu|ptak
-pal|||hin:फल (phal). pnb:ਫਲ (phal). ben:ফল (phal). tam: பழம் (palam). tel:(phalamu). tha:ผน-ละ- (phon-la).|fruit|||||||||||||||frukto (rezulto)|hedelmä|owoc
+pakse|||hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pnb:ਪੰਖੀ (paṅkhī).|bird|oiseau|||||||||पक्षी|পাখী||||birdo|lintu|ptak
+pal|||hin:फल (phal). pnb:ਫਲ (phal). ben:ফল (phal). tam: பழம் (palam). tel:(phalamu). tha:ผน-ละ- (phon-la).|fruit||||||||||फल|ফল||||frukto (rezulto)|hedelmä|owoc
 paladium|made|Pd||palladium|||||||||||||||paladio|palladium|pallad
-palas||||palace||||||||||||||||palatsi|pałac
 palaw|dex|PW||Palau||||||||||||||||Palau|Palau
 palme|||deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).|palm tree|||||||||||||||palmo|palmu|palma, drzewo palmowe
 pan||||all|||||||||||||||ĉiu|kaikki|wszyscy, wszystkie, wszystko; każdy
@@ -1772,35 +1772,35 @@ panameriki||||pan-American||||||||||||||||panamerikkalainen|panamerykański
 panamia|dex|PA||Panama|||||||||||||||Panamo|Panama|Panama
 panasi||||pan-Asian||||||||||||||||panaasialainen|panazjatycki
 pande||||panda|||||||||||||||pando|panda|panda
-panduner||||Pandunia speaker||||||||||||||||pandunian puhuja|osoba mówiąca w Panduni
+pandemi||||pandemic||||||||||||||||pandeeminen (koko väestöä koskeva)|pandemiczny
+pandemonia||||pandemonium||||||||||||||||pandemonio|pandemonium
+pandewia||||pantheon||||||||||||||||pantheon|panteon
+pandewistia||||pantheism||||||||||||||||monijumalisuus (panteismi)|panteizm
+panduni||||global (concerning the whole world)|||||||||||||||tuttera|maailmanlaajuinen (globaali)|globalny (światowy)
 pandunia||||Pandunia|||||||||||||||pandunia|pandunia|Pandunia
+panduniste||||Pandunia speaker||||||||||||||||pandunian puhuja|osoba mówiąca w Panduni
 paneuropi||||pan-European||||||||||||||||paneurooppalainen|paneuropejski
 pang|||tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.|bread|pain||pão|хлеб|خُبْز|面包|パン|||रोटी (नान)||roti|mkate||pano|leipä|chleb
 panike||||panic|||||||||||||||paniko|hätä (paniikki)|panika
 panir|||hin:पनीर (panīr). pnb:ਪਨੀਰ (panīr). ben:পনির (pônir). tur:peynir. eng:paneer.:|quark (paneer)|fromage blanc|queso fresco|queijo fresco|творог|||クワルク|||||||||rahka|
 panjabi|nas|||Punjabi||||||||||||||||pandžabi (eräs intialainen kieli)|pendżabski
 panke|||hin:पंखा (paṅkhā). urd:(pankhā). mya:ပန်ကာ (panka). fas:(panke). + eng:punkah. fra:panka. deu:Pankha.|fan (ventilator)|||||||||||||||ventumilo|viuhka (tuuletin)|wiatrak (wentylator)
-panodemi||||pandemic||||||||||||||||pandeeminen (koko väestöä koskeva)|pandemiczny
-panodemonia||||pandemonium||||||||||||||||pandemonio|pandemonium
-panodewia||||pantheon||||||||||||||||pantheon|panteon
-panodewistia||||pantheism||||||||||||||||monijumalisuus (panteismi)|panteizm
-panoduni||||global (concerning the whole world)|||||||||||||||tuttera|maailmanlaajuinen (globaali)|globalny (światowy)
 pantalon||||pants (trousers)|||||||||||||||pantalonoj|housut|spodnie, pantalony, portki
 papagay|||ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).|parrot (parakeet)|perroquet|||попугай||鹉鹦|||||||||papago|papukaija|papuga
-papay||||papaya|||||||||||||||papajo|papaija|papaja
+papay|||eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|papaya|papaye|papaya|mamão (papaia)|папайя||木瓜|パパイヤ|파파야|đu đủ|पपीता|পেঁপে|pepaya (betik)|papai|papaya|papajo|papaija|papaja
 pape|||eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).|father|||||||||||||||patro|isä|ojciec
-papir|||deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|paper|||||||||||||||papero|paperi|papier
+papir|||deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|paper|papier|papel|papel|бумага|وَرَق|纸|紙|종이|giấy|काग़ज़|কাগজ|kertas|karatasi|kâğıt|papero|paperi|papier
 papua nowi ginia|dex|PG||Papua New Guinea||||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea
 par||||equal (peer)||||||||||||||||vertainen|równy
 paraguayia|dex|PY||Paraguay||||||||||||||||Paraguai|Paragwaj
 paraya||||despise (scorn)||||||||||||||||halveksia (hyljeksiä)|gardzić (pogardzać)
 paraye|||hin:पराया (parāyā). eng:pariah. rus:пария (pariya). spa:paria.|outcast (pariah)||||||||||||||||hylkiö (paaria)|wyrzutek
 parca||||shatter (break into pieces)||||||||||||||||hajottaa (särkeä, repiä, sirpaloida)|stłuc się (rozpaść się na kawałki)
-parce|||fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|piece (fragment, shred, morsel, crumb)|||||||||||||||ero|palanen (murunen, riekale, sirpale)|część (fragment, strzęp, kawałek, okruch)
-parci||||broken (shattered)||||||||||||||||hajonnut (sirpaleina)|stłuczony (pęknięty)
-parde|||ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).|curtain|||||||||||||||kurteno|verhot|zasłona, kurtyna
+parce|||fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|piece (fragment, shred, morsel, crumb)|fragment|fragmento|fragmento|кусок|||||||||||ero|palanen (murunen, riekale, sirpale)|część (fragment, strzęp, kawałek, okruch)
+parci||||broken (shattered)||||||||||||||||rikki (palasina)|stłuczony (pęknięty)
+parde|||ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).|curtain||||||||||पर्दा|পরদা|||perde|kurteno|verhot|zasłona, kurtyna
 pardon|||fra:eng:tur:ron:hun:pardon. spa:perdón. por:perdão. bul:rus:пардон (pardon).|sorry (pardon)||||||||||||||||anteeksi|przepraszam!
-parke|||eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).|park (garden)||||||园|||||||||parko (ĝardeno)|tarha (puisto)|park (ogród)
+parke|||eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).|park (garden)|parc|parque|parque|парк||园|||||||||parko (ĝardeno)|tarha (puisto)|park (ogród)
 parta||||participate (attend, partake, take part)|||||||||||||||partopreni|osallistua|uczestniczyć, wziąć udział, brać udział
 parter||||participant||participante||||||||||||||osallistuja|uczestnik
 partia|||eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).|party|||||||||||||||partio|osapuoli|partia
@@ -1809,7 +1809,7 @@ pasa||||pass (go by, go past)||||||||||||||||kuluttaa aikaa|minąć, mijać, prz
 pase|||eng:past. spa:pasado. por:passado. fra: passé.|past times||||||||||||||||menneisyys|przeszłość
 paskal||||pascal (Pa)||||||||||||||||pascal (Pa)|paskal (Pa)
 paske||||Easter||||||||||||||||pääsiäinen|Wielkanoc
-pasporte|||eng:passport. por:passaporte. rus:паспорт (pasport). ind:paspor.|passport|||||||||||||||pasporto|passi|paszport
+pasporte|||eng:passport. fra:passeport. spa:pasaporte. Por:passaporte. rus:паспорт (pasport). hin:पासपोर्ट (pāsporṭ). ben:পাসপোর্ট (pasporṭ). Ind:paspor. swa:paspoti. Jpn:パスポート pasupōto).|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 paste|||eng:deu:paste. rus:(pasta). spa:por:pasta.|paste||||||||||||||||tahna (tahdas)|pasta
 patate|||fra:patate. spa:patata. por:batata. tur:patates. ara:(baṭāṭis). eng:potato. tgl:patatas.|potato|||||||||||||||terpomo|peruna (potaatti)|ziemniak
 pati||||ill (sick)|||||||||||||||malsana|sairas|chory
@@ -1817,41 +1817,41 @@ patia|||deu:eng:fra:patho-. spa:por:pol:tur:ind:pato-. rus:пато- (pato-).|si
 patojener||||pathogen|agent pathogène|patógeno|patógeno|патоген||病原体||||||||patojen||patogeeni|patogen
 patolojia||||pathology|pathologie|patología|patologia|патология||病理学||||विकृतिविज्ञान||patologi||patoloji|patologio|patologia (tautioppi)|patologia
 paunde||||pound (£)||||||||||||||||punta|funt (£)
-paus||||pause (break, interruption)||||||||||||||||tauko (paussi)|pauza, przerwa
-pausa||||pause (interrupt)||||||||||||||||keskeyttää (tauottaa)|przerwać, przerywać
+pauza||||pause (interrupt)||||||||||||||||keskeyttää (tauottaa)|przerwać, przerywać
+pauze|||eng:deu:fra:pause. spa:por:pausa. rus:пауза (pauza).|pause (break, interruption)|pause|pausa|pausa|пауза||||||||||||tauko (paussi)|pauza, przerwa
 paxa||||hurt||||||||||||||||satuttaa|sprawić ból, sprawiać ból
 paxi||||painful||||||||||||||||kivulias (tuskallinen)|bolesny
 paxia|||kon:mpasi. por:paixão. eng:passion.|suffering||||||||||||||||kipu (tuska)|cierpienie, ból
 paxu||||suffer (get hurt)||||||||||||||||sattua (käydä kipeää)|cierpieć
 pay|||eng:pie. spa:pay. ind:pai. hin:पाई (pāī). urd:(pāī). ben:পাই (pai). jpn:パイ (pai). kor:파이 (pai). zho:排 (pái). yue:批 (pai1). fas:(pây).|pie (pastry)|tarte|pastel (pay)|torta|пирог||馅饼||||||kue pai||turta|torto|piirakka (piiras)|placek, ciasto
+peda||||fart (flatulate)|péter|peer|peidar|пердеть||放屁|おならをする|방귀뀌다||पादना|পাদা|||||pierrä (pieraista)|pierdzieć
 pedal|||deu:eng:spa:por:tur:pedal. fra:pédale. rus:педаль (pedal'). pol:pedał. jpn:ペダル (pedaru). kor:페달 (pedal).|pedal|||||||||||||||pedalo|poljin (pedaali)|pedał
 pedalosikle||||bicycle (pedal bike)||||||||||||||||polkupyörä|rower z pedałami
+pede|||ben:পাদ (pad). hin:पाद (pād). spa:pedo. por:peido. fra:pet. rus:пердение (perdeniye).|fart (flatulence)|pet (vesse)|pedo|peido|пердение||屁|屁|방귀|đánh rắm|पाद||kentut|shuzi|osuruk|furzo|pieru|pierdnięcie
 pelmen|||rus:пельмень (pel'men'). pol:pielmeni. eng:pelmeni.|dumpling (ravioli, pelmeni)||empanadilla (pelmeni)||||饺子||||||||||myky (pelmeni, ravioli)|kluska, knedel, pieróg; ravioli, pelmeni
-pelpel|||kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.|butterfly|||||||||||||||papilio|perhonen|motyl
+pelpel|||kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.|butterfly|||||||||||||kipepeo||papilio|perhonen|motyl
 penda||||hang (dangle)||||||||||||||||roikuttaa|powiesić, wieszać
 penis||||penis (phallus)|||||||||||||||peniso|siitin (penis)|penis
 penta|||eng:paint. fra:peintre.|paint|||||||||||||||pentri|maalata|namalować, malować
 penter||||painter||||||||||||||||maalari|malarz
 pepin|||spa:por:pepino. tgl:pipino. sin:පිපිඤ්ඤා (pipiññā).|cucumber|||||||||||||||kukumo|kurkku|ogórek
-per|||hin:पर (par). fas:urd:(par). kur:perr. rus:перо (pero).|feather|||||||||||||||plumo|sulka|pióro
-perda||||fart (flatulate)||||||||||||||||pierrä (pieraista)|pierdzieć
-perde||||fart (flatulence)||||||||||||||||pieru|pierdnięcie
+per|||hin:पर (par). fas:urd:(par). kur:perr. rus:перо (pero).|feather||||перо||||||पर्दा|||||plumo|sulka|pióro
 peruwia|dex|PE||Peru||||||||||||||||Peru|Peru
 pese|||hin:पैसा (paisā). mar:पैसा (paisā). pnb:ਪੈਸਾ (pēsā). guj:પૈસો (paiso). ara:(bēzāt). swa:pesa. (spa:peso).|money|argent||dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze
 pesodiske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
-petre|||hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.|stone|||||||||||||||ŝtono|kivi (murikka)|kamień
-pexe|||fas:(piše). hin:पेशा (peśā). ben:পেশা (peśa).|profession (occupation)|||||||||||||||metiero|ammatti|profesja, zajęcie, zawód
+petre|||hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.|stone||piedra|pedra|||||||पत्थर|||||ŝtono|kivi (murikka)|kamień
+pexe|||fas:(piše). hin:पेशा (peśā). ben:পেশা (peśa).|profession (occupation)||||||||||पेशा|পেশা||||metiero|ammatti|profesja, zajęcie, zawód
 pey|||eng:pay. fra:paye. + zho:费 (fèi).|payment||||||||||||||||maksu|zapłata, opłata
 peya||||pay||||||||||||||||maksaa|zapłacić, opłacić, płacić
 pian||||piano|||||||||||||||piano|piano|pianino
-piaze|||kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.|onion||||||||||||||||sipuli|cebula
+piaze|||kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.|onion|oignon|cebolla|cebola|лук|بَصَل|洋葱|玉葱|양파|hành tây|प्याज|পেঁয়াজ|bawang|kitunguu|soğan|cepo|sipuli|cebula
 pijin||||pidgin (contact language)|||||||||||||||piĝino|kontaktikieli (pidgin)|pidżin, język pomocniczy
 pike|||eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.|top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина||||||||||||huippu|szczyt (wierzchołek)
 piknike||||picnic||||||||||||||||piknik (retki)|piknik
-pil|||eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).|skin (peel)|||||||||||||||haŭto|nahka (kuori, iho)|skóra
+pil|||eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).|skin (peel)||piel|pele|||皮|||||||||haŭto|nahka (kuori, iho)|skóra
 piloter||||pilot||||||||||||||||ohjaaja (pilotti, luotsi)|pilot
 pimente|||spa:pimienta. tgl:pamenta.|pepper (Piper nigrum)|||||||||||||||pipro|pippuri|pieprz
-pin|||eng:pin. jpn:(pin). kor:(pin).|needle (pin)|||||||||||||||nadlo (pinglo)|neula|igła, szpilka
+pin|||eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|needle (pin)|épingle|alfiler (aguja)|alfinete|булавка||别针|ピン|핀|ghim|पिन|||||nadlo (pinglo)|neula|igła, szpilka
 ping|||zho:平 (píng).|flat||||||||||||||||litteä|płaski
 pinguin||||penguin|||||||||||||||pingveno|pingviini|pingwin
 pinser|||eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).|pliers (pincers)||alicate|||||||||||||pinĉilo|pihdit|obcęgi, kleszcze, szczypce
@@ -1873,7 +1873,7 @@ pistol||||pistol||||||||||||||||pistooli|pistolet
 pitkerne|dex|PN||Pitcairn||||||||||||||||Pitcairn|Pitcairn
 pix|||eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipis.|piss (urine)|||||||||||||||piso (urino)|virtsa (pissa, kusi)|siki
 pixa||||piss (urinate)|||||||||||||||pisi (urini)|virtsata (kusta)|sikać, szczać, oddawać mocz
-pize|||ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|pizza|||||||||||||||pico|pitsa (pizza)|pizza
+pize|||ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|pizza|pizza|||пицца|||||||||||pico|pitsa (pizza)|pizza
 pizeria||||pizzeria|||||||||||||||picejo|pitseria|pizzeria
 plan||||plan||||||||||||||||suunnitelma|plan
 plana||||intend (plan)||||||||||||||||suunnitella|planować
@@ -2188,7 +2188,8 @@ sifolekse||||adjective|||||||||||||||adjektivo|adjektiivi (laatusana)|przymiotni
 sigar|||tur:sigara. amh:ሲጃራ (siǧara). ara:(sījāra). eng:cigar(ette). zho:雪茄 (xǔejiā). wuu:雪茄 (xi'gá).|cigarette (cigar)||||||||||||||||savuke tai sikari|papieros (cygar)
 sikiste||||Sikh||||||||||||||||sikhi|sikh
 sikistia||||Sikhism||||||||||||||||sikhiläisyys|sikhizm
-sikle|||eng:bicycle. fra:bicyclette. tur:bisiklet. spa:bicicleta. tgl:bisikleta. ben:সাইকেল (saikel). hin:साइकिल (sāikil).|bike||||||||||||||||pyörä (polkupyörä, moottoripyörä)|rower
+sikle|||eng:bicycle. fra:bicyclette. tur:bisiklet. spa:bicicleta. tgl:bisikleta. ben:সাইকেল (saikel). hin:साइकिल (sāikil).|bike (cycle)|bicyclette|bicicleta||||||||||||bisiklet||pyörä (polkupyörä, moottoripyörä)|rower
+sikliste||||cyclist|cycliste|ciclista|ciclista|велосипедист||骑自行车的人|チャリダー|||||||bisikletçi|biciklisto|pyöräilyn harrastaja|rowerzysta
 silike|made|Si||silicon|||||||||||||||silicio|pii|krzem
 silsil|||hin:सिलसिला (silsilā). ara:(silsila). tur:silsile. swa:silisili.|chain||||||||||||||||ketju|łańcuch
 simpli||||simple (not complicated)|||||||||||||||simpla|yksinkertainen (mutkaton)|prosty, nieskomplikowany
@@ -2207,6 +2208,8 @@ sisogon||||hexagon||||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 sistem||||system|||||||||||||||sistemo|järjestelmä (systeemi)|system
 sistemi||||systemic|||||||||||||||||systemowy
 site|||eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).|city|||||||||||||||urbego|suurkaupunki|miast, miasteczko
+sivili|||eng:civil. por:civil. hin:सिविल (sivil). ind:sipil.|civilized (civil)||||||||||||||||sivistynyt|
+sivilia||||civilization||||||||||||||||sivilisaatio|
 skandium|made|Sc||scandium|||||||||||||||skandio|skandium|skand
 slawi||||Slavic||eslavo|eslavo|славянский||||||||||||slaavilainen|
 slowakia|dex|SK||Slovakia||||||||||||||||Slovakia|Słowacja
@@ -2384,7 +2387,7 @@ tokse||||poison (venom)||||||||||||||||myrkky|trucizna (toksyna)
 toksi|||eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.|toxic (poisonous, venomous)||||||||||||||||myrkyllinen|toksyczny (trujący)
 tolera||||tolerate||||||||||||||||sallia|tolerować
 tolo||||top (spinning top)||||||||||||||||hyrrä|bąk, bączek
-tomate|||eng:tomato. spa:tomate. rus: (tomat).|tomato|tomate|||помидор (томат)||西红柿|||||||||tomato|tomaatti|pomidor
+tomate|||eng:tomato. por:spa:tomate. rus:томат (tomat). ind:tomat. hin:टमाटर (ṭamāṭar).|tomato|tomate|tomate|tomate|помидор (томат)||西红柿||||टमाटर|||||tomato|tomaatti|pomidor
 ton|||eng:tone. swa:kitone. rus:тон (ton). deu:Ton. spa:tono.|tone (note, pitch, shade)|||||||||||||||tono|sävel (sävy)|ton, dźwięk, nuta, tonacja
 tong|||zho:桶 (tǒng). khm:តុង (tong). tha:ถัง (tǎng). kor:통 (tong). vie:thùng. ind:mal:tong. + fra:tonneau. spa:tonel. ned:ton.|barrel (can, cask)||||||||||||||||tynnyri (tölkki)|beczka
 tope|||ind:topi. hin: टोपी (ṭopī). ben:টুপি (ṭupi). tam:(toppi).|hat (cap)|||||||||||||||ĉapelo|lakki (hattu)|kapelusz, czapka
@@ -2397,7 +2400,7 @@ towal|||eng:towel. spa:toalla. por:toalha. hin:तौलिया (tauliyā). be
 transa||||transit (pass through or across)||||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 transe|||eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).|transit (passage)||||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 transeria||||transportation||||||||||||||||kuljetus|
-tren|||eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren).|train|||||||||||||||trajno (vagonaro)|juna|pociąg
+tren|||eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren). por:trem.|train|||||||||||||||trajno (vagonaro)|juna|pociąg
 trenodaw||||railway (railroad)|||||||||||||||fervojo|junarata (rautatie)|kolej
 trenokaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
 tribe|||fra:spa:tribu. por:tgl:tribo. eng:tribe.|tribe|||||||||||||||tribo|heimo|plemię
@@ -2565,6 +2568,7 @@ xef|||fra:chef. por:chefe. gal:xefe. spa:jefe. rus:шеф (šef). eng:chief. sw
 xefi||||main (principal)||||||||||||||||pää-|główny
 xefi minister||||prime minister|||||||||||||||ĉefministro|pääministeri (suurvisiiri)|premier
 xenon|made|Xe||xenon|||||||||||||||ksenono|ksenon|ksenon
+xense|||jpn:先生 (sensei). ind:sinse. zho:先生 (xiānshēng). eng:sensei.|master (sensei)|||||||||||||||||
 xey|||ara:(šayʾ). tur:şey. + zho:事 (shì). yue:事 (si6).|thing|chose|cosa|coisa|вещь||事物 (东西)||||वस्तू (चीज़)||benda||şey||asia|rzecz
 xibay|||zho:失败 (shībài). jpn:失敗 (shippai). kor:실패 (šilpæ). vie:thất bại.|failure (flop)|||||||||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa)
 xiki||||elegant (chic)||||||||||||||||elegantti|elegancki, szykowny
@@ -2583,6 +2587,9 @@ xixi||||silent|||||||||||||||silenta|hiljainen|cichy
 xofa||||drive||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
 xofer|||fra:eng:deu:chauffeur. spa:por:chofer. rus:шофёр (šofjor). pol:szofer. tha: โชเฟอร์ (chofoe). tur:şoför. fas:(šofer).|chauffeur (driver)||conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
 xoke||||shock (collision)||||||||||||||||isku (šokki)|szokwstrząs; kolizja
+xopa||||buy (purchase)|acheter|comprar|comprar|покупать (купить)|اِشْتَرَى‎|买|買う|사다|mua|मोल लेना (ख़रीदना)|কেনা|membeli|kununua|satın almak|aĉeti|ostaa|kupić
+xope|||eng:fra:spa:shopping. jpn:ショッピング (shoppingu). kor:쇼핑 (syoping). tha:ชอปปิ้ง (chop-bing). rus:шоппинг (šopping). zho:血拼 (xuèpīn).|shopping|shopping|compras (shopping)|compras|покупка (шоппинг)||购物 (血拼)||||||||||ostokset|
+xoper||||buyer|||||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
 xow|||eng:deu:fra:spa:por:show. rus:шоу (šou). tur:şov. swa:shoo. tha:โชว์ (choo). kor:쇼 (syo). jpn:ショー (shō). zho:秀 (xiù).|show (display, exhibition)|||||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
 xowa||||show (display)||||||||||||||||näyttää|pokazać, pokazywać, wystawić, wystawiać
 xudu|||eng:should.|should (ought)|||||||||||||||devus|pitäisi|powinien
@@ -2655,7 +2662,7 @@ ziper|||eng:zipper. ben:জিপার (jipar). hin:ज़िपर (zipar). jp
 ziran|||ben:জিরা (zīra). hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. fas:(zire). zho:孜然 (zīrán).|cumin (jeera)||||тмин|||||||||||kumino|juustokumina (jeera)|kumin, kmin
 zirkonium|made|Zr||zirconium|||||||||||||||zirkonio|zirkonium|cyrkon
 ziza|||zho:zizi eng:sizzle|sizzle||||||||||||||||sihistä|skwierczeć
-zombe||||zombie|zombi|||||||||||||||zombi|zombie, zombi
+zombe|||kon:nzambi. Por:zumbi. eng:zombi. ind:zombi. hin:ज़ोंबी (zombī).|zombie|zombi||zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zone|||"ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona).
 "|belt (zone)||||пояс (зона)|||||||||||zono|vyö|pas, strefa
 zukam||||cold (illness)||||||||||||||||vilustuminen|przeziębienie, katar

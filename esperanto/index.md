@@ -26,7 +26,7 @@ Rimarkindaj trajtoj de pandunio estas:
 
 - [Vortaro Esperanto-Pandunio](esperanto-pandunio.md)
 - [Vortaro Pandunio-Esperanto](pandunio-esperanto.md)
-- [Etimologia vorto-listo](../pandunia/loge_asle.md) (nur pandunie)
+- [Etimologia vortaro](leksaslia.md)
 
 ## Artikoloj
 

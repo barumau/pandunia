@@ -90,13 +90,13 @@ anusi - anal
 aple - apple  
 aplika - apply (put to use for a purpose)  
 aplike - application  
-ar - area (extent of surface)  
 arabi - Arabic  
 arane - spider  
 aranofobia - arachnophobia  
 arbe - tree  
 arboparke - arboretum  
 arbuze - watermelon  
+are - area (extent of surface)  
 argentin - Argentina  
 argon - argon  
 aria - area (region)  
@@ -168,6 +168,7 @@ banyokamar - bathroom
 banyu - bathe  
 banze - board (plank)  
 banzogem - board game  
+bar - bar  
 bar - weight  
 barbados - Barbados  
 barbar - barbarian  
@@ -203,8 +204,6 @@ baxa - speak (communicate)
 baxokanun - grammar  
 baxokanuni - grammatical  
 baxolojia - linguistics  
-baya - buy (purchase)  
-bayer - buyer  
 baza - found  
 bazar - market (bazaar)  
 bazarohuristia - market liberalism  
@@ -642,11 +641,11 @@ fos - pit (excavation)
 fosa - dig (excavate)  
 fosfor - phosphorus  
 fotograf - photograph  
-fotografal - camera  
 fotografe - photograph  
 fotografer - photographer  
 fotografia - photography  
 fotografia - photography  
+fotomaxin - camera  
 fransi polinesia - French Polynesia  
 fransia - France  
 fransium - francium  
@@ -751,6 +750,7 @@ guhe - cave
 gujarati - Gujarati  
 gul - ghoul  
 gula - swallow  
+gunden - palace  
 gune - quality (excellence, virtue, merit)  
 guni - excellent  
 gunodarme - virtue (morals)  
@@ -1259,6 +1259,7 @@ lazanye - lasagna
 le - he or she or it  
 lefte - left  
 leftiste - leftist (left-winger)  
+lekin - however  
 lekse - word  
 leksem - lexeme  
 leksia - vocabulary (lexicon)  
@@ -1753,7 +1754,6 @@ pakistan - Pakistan
 pakse - bird  
 pal - fruit  
 paladium - palladium  
-palas - palace  
 palaw - Palau  
 palme - palm tree  
 pan - all  
@@ -1765,19 +1765,19 @@ panameriki - pan-American
 panamia - Panama  
 panasi - pan-Asian  
 pande - panda  
-panduner - Pandunia speaker  
+pandemi - pandemic  
+pandemonia - pandemonium  
+pandewia - pantheon  
+pandewistia - pantheism  
+panduni - global (concerning the whole world)  
 pandunia - Pandunia  
+panduniste - Pandunia speaker  
 paneuropi - pan-European  
 pang - bread  
 panike - panic  
 panir - quark (paneer)  
 panjabi - Punjabi  
 panke - fan (ventilator)  
-panodemi - pandemic  
-panodemonia - pandemonium  
-panodewia - pantheon  
-panodewistia - pantheism  
-panoduni - global (concerning the whole world)  
 pantalon - pants (trousers)  
 papagay - parrot (parakeet)  
 papay - papaya  
@@ -1810,15 +1810,17 @@ patia - sickness (illness, disease)
 patojener - pathogen  
 patolojia - pathology  
 paunde - pound (£)  
-paus - pause (break, interruption)  
-pausa - pause (interrupt)  
+pauza - pause (interrupt)  
+pauze - pause (break, interruption)  
 paxa - hurt  
 paxi - painful  
 paxia - suffering  
 paxu - suffer (get hurt)  
 pay - pie (pastry)  
+peda - fart (flatulate)  
 pedal - pedal  
 pedalosikle - bicycle (pedal bike)  
+pede - fart (flatulence)  
 pelmen - dumpling (ravioli, pelmeni)  
 pelpel - butterfly  
 penda - hang (dangle)  
@@ -1827,8 +1829,6 @@ penta - paint
 penter - painter  
 pepin - cucumber  
 per - feather  
-perda - fart (flatulate)  
-perde - fart (flatulence)  
 peruwia - Peru  
 pese - money  
 pesodiske - coin  
@@ -2178,7 +2178,8 @@ sifolekse - adjective
 sigar - cigarette (cigar)  
 sikiste - Sikh  
 sikistia - Sikhism  
-sikle - bike  
+sikle - bike (cycle)  
+sikliste - cyclist  
 silike - silicon  
 silsil - chain  
 simpli - simple (not complicated)  
@@ -2197,6 +2198,8 @@ sisogon - hexagon
 sistem - system  
 sistemi - systemic  
 site - city  
+sivili - civilized (civil)  
+sivilia - civilization  
 skandium - scandium  
 slawi - Slavic  
 slowakia - Slovakia  
@@ -2556,6 +2559,7 @@ xef - chief (boss)
 xefi - main (principal)  
 xefi minister - prime minister  
 xenon - xenon  
+xense - master (sensei)  
 xey - thing  
 xibay - failure (flop)  
 xiki - elegant (chic)  
@@ -2572,6 +2576,9 @@ xixi - silent
 xofa - drive  
 xofer - chauffeur (driver)  
 xoke - shock (collision)  
+xopa - buy (purchase)  
+xope - shopping  
+xoper - buyer  
 xow - show (display, exhibition)  
 xowa - show (display)  
 xudu - should (ought)  

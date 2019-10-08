@@ -89,13 +89,13 @@ anusi - anaalinen
 aple - omena  
 aplika - soveltaa  
 aplike - sovellus  
-ar - ala (pinta-ala)  
 arabi - arabialainen  
 arane - hämähäkki  
 aranofobia - araknofobia (hämähäkkikammo)  
 arbe - puu  
 arboparke - arboretum (puulajipuisto)  
 arbuze - vesimeloni  
+are - ala (pinta-ala)  
 argentin - Argentiina  
 argon - argon  
 aria - alue (seutu)  
@@ -198,8 +198,6 @@ baxa - puhua (kommunikoida)
 baxokanun - kielioppi  
 baxokanuni - kieliopillinen  
 baxolojia - kielitiede (lingvistiikka)  
-baya - ostaa  
-bayer - ostaja  
 baza - perustaa  
 bazar - tori (basaari)  
 bazarohuristia - markkinaliberalismi  
@@ -633,11 +631,11 @@ fos - kuoppa (kolo)
 fosa - kaivaa  
 fosfor - fosfori  
 fotograf - valokuva (foto)  
-fotografal - kamera  
 fotografe - valokuva  
 fotografer - valokuvaaja  
 fotografia - valokuvaus  
 fotografia - valokuvaus  
+fotomaxin - kamera  
 fransi polinesia - Ranskan Polynesia  
 fransia - Ranska  
 fransium - fransium  
@@ -742,6 +740,7 @@ guhe - luola
 gujarati - gujarati (eräs intialainen kieli)  
 gul - ghouli  
 gula - niellä  
+gunden - palatsi  
 gune - laatu (laadukkuus, erinomaisuus, hyvyys)  
 guni - laadukas (hyvä)  
 gunodarme - hyve  
@@ -1248,6 +1247,7 @@ lazanye - lasagne
 le - hän (se)  
 lefte - vasen  
 leftiste - vasemmistolainen  
+lekin - kuitenkin  
 lekse - sana  
 leksem - lekseemi  
 leksia - sanasto  
@@ -1735,7 +1735,6 @@ pakistan - Pakistan
 pakse - lintu  
 pal - hedelmä  
 paladium - palladium  
-palas - palatsi  
 palaw - Palau  
 palme - palmu  
 pan - kaikki  
@@ -1747,19 +1746,19 @@ panameriki - panamerikkalainen
 panamia - Panama  
 panasi - panaasialainen  
 pande - panda  
-panduner - pandunian puhuja  
+pandemi - pandeeminen (koko väestöä koskeva)  
+pandemonia - pandemonio  
+pandewia - pantheon  
+pandewistia - monijumalisuus (panteismi)  
+panduni - maailmanlaajuinen (globaali)  
 pandunia - pandunia  
+panduniste - pandunian puhuja  
 paneuropi - paneurooppalainen  
 pang - leipä  
 panike - hätä (paniikki)  
 panir - rahka  
 panjabi - pandžabi (eräs intialainen kieli)  
 panke - viuhka (tuuletin)  
-panodemi - pandeeminen (koko väestöä koskeva)  
-panodemonia - pandemonio  
-panodewia - pantheon  
-panodewistia - monijumalisuus (panteismi)  
-panoduni - maailmanlaajuinen (globaali)  
 pantalon - housut  
 papagay - papukaija  
 papay - papaija  
@@ -1772,7 +1771,7 @@ paraya - halveksia (hyljeksiä)
 paraye - hylkiö (paaria)  
 parca - hajottaa (särkeä, repiä, sirpaloida)  
 parce - palanen (murunen, riekale, sirpale)  
-parci - hajonnut (sirpaleina)  
+parci - rikki (palasina)  
 parde - verhot  
 pardon - anteeksi  
 parke - tarha (puisto)  
@@ -1792,15 +1791,17 @@ patia - sairaus
 patojener - patogeeni  
 patolojia - patologia (tautioppi)  
 paunde - punta  
-paus - tauko (paussi)  
-pausa - keskeyttää (tauottaa)  
+pauza - keskeyttää (tauottaa)  
+pauze - tauko (paussi)  
 paxa - satuttaa  
 paxi - kivulias (tuskallinen)  
 paxia - kipu (tuska)  
 paxu - sattua (käydä kipeää)  
 pay - piirakka (piiras)  
+peda - pierrä (pieraista)  
 pedal - poljin (pedaali)  
 pedalosikle - polkupyörä  
+pede - pieru  
 pelmen - myky (pelmeni, ravioli)  
 pelpel - perhonen  
 penda - roikuttaa  
@@ -1809,8 +1810,6 @@ penta - maalata
 penter - maalari  
 pepin - kurkku  
 per - sulka  
-perda - pierrä (pieraista)  
-perde - pieru  
 peruwia - Peru  
 pese - raha  
 pesodiske - kolikko  
@@ -2145,6 +2144,7 @@ sigar - savuke tai sikari
 sikiste - sikhi  
 sikistia - sikhiläisyys  
 sikle - pyörä (polkupyörä, moottoripyörä)  
+sikliste - pyöräilyn harrastaja  
 silike - pii  
 silsil - ketju  
 simpli - yksinkertainen (mutkaton)  
@@ -2162,6 +2162,8 @@ sisofas - kuutio (kuusitahokas)
 sisogon - kuusikulmio  
 sistem - järjestelmä (systeemi)  
 site - suurkaupunki  
+sivili - sivistynyt  
+sivilia - sivilisaatio  
 skandium - skandium  
 slawi - slaavilainen  
 slowakia - Slovakia  
@@ -2512,6 +2514,9 @@ xixi - hiljainen
 xofa - ajaa (kuskata)  
 xofer - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  
+xopa - ostaa  
+xope - ostokset  
+xoper - ostaja  
 xow - näytös (esitys, show)  
 xowa - näyttää  
 xudu - pitäisi  

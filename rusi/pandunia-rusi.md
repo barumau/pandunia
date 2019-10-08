@@ -27,10 +27,10 @@ anker - якорь
 anten - антенна  
 anus - анус  
 aple - яблоко  
-ar - площадь  
 arane - паук  
 arbe - дерево  
 arbuze - арбуз  
+are - площадь  
 arize - рис  
 arte - искусство  
 asan - поза  
@@ -114,6 +114,7 @@ gas - газ
 gol - цель  
 gul - гуль (вурдалак)  
 gula - глотать  
+gunden - дворец  
 ##h
 habar - новости  
 haime - палатка (шатёр)  
@@ -220,17 +221,31 @@ orti - прямой
 ortogoni - ортогона́льный  
 osme - осмос  
 ##p
+pagre - чалма  
+pake - пакет  
 pang - хлеб  
 panir - творог  
 papagay - попугай  
+papay - папайя  
+papir - бумага  
+parce - кусок  
+parke - парк  
+pasporte - паспорт  
 patojener - патоген  
 patolojia - патология  
+pauze - пауза  
 pay - пирог  
+peda - пердеть  
+pede - пердение  
+per - перо  
 pese - деньги  
 pesodiske - монета  
+piaze - лук  
 pike - вершина  
+pin - булавка  
 pir - огонь  
 pira - жечь (палить)  
+pize - пицца  
 porte - порт  
 pote - болото  
 pul - цветок  
@@ -255,6 +270,7 @@ sar - голова
 sekse - пол  
 selolojia - цитология  
 si - да  
+sikliste - велосипедист  
 slawi - славянский  
 sol - солнце  
 solocate - зонтик от солнца  
@@ -311,6 +327,8 @@ xaw - мало
 xey - вещь  
 xite - говно (дерьмо)  
 xofer - шофёр  
+xopa - покупать (купить)  
+xope - покупка (шоппинг)  
 ##y
 yemenia - Йемен  
 yesus - Иисус  

@@ -43,7 +43,7 @@ akku (paristo) - batre
 akseli - akse  
 aktinium - acinium  
 akvaario - fixotanke  
-ala (pinta-ala) - ar  
+ala (pinta-ala) - are  
 ala- - nici  
 Alankomaat (Hollanti) - nederlandia  
 Alankomaiden Antillit - nederlandi antilia  
@@ -344,7 +344,6 @@ hafnium - hafnium
 hahmo (figuuri) - figur  
 Haiti - haitia  
 hajauttaa - jamula  
-hajonnut (sirpaleina) - parci  
 hajottaa (särkeä, repiä, sirpaloida) - parca  
 hallinto (hallinnointi) - nomia  
 hallita yksinvaltaisesti - impera  
@@ -672,7 +671,7 @@ kalkyyli - kalkulia
 kalsium - kalsium  
 Kambodja - kambudia  
 kameli - gamel  
-kamera - fotografal  
+kamera - fotomaxin  
 Kamerun - kamerunia  
 kammo (fobia) - fobia  
 kampa - kange  
@@ -756,7 +755,7 @@ kerta (vuoro) - ban
 kertoa - saga  
 kertomus (tarina, saaga) - sage  
 kerubi - kerube  
-keskeyttää (tauottaa) - pausa  
+keskeyttää (tauottaa) - pauza  
 Keski-Afrikan Tasavalta - jungafrikia  
 keskittyminen (keskittymä) - fokus  
 keskittyä (olla keskellä) - jungu  
@@ -902,6 +901,7 @@ kuin (kuten, niin kuin) - ja
 kuin - ka  
 kuisti (terassi, veranta) - berande  
 kuitata - resida  
+kuitenkin - lekin  
 kuitti (kuittaus) - reside  
 kuiva - gan  
 kuka? - ki ren  
@@ -1150,7 +1150,7 @@ maa (valtio) - dex
 maailma - dunia  
 maailman- - duni  
 maailmankieli - dunobax  
-maailmanlaajuinen (globaali) - panoduni  
+maailmanlaajuinen (globaali) - panduni  
 maalais- - rusti  
 maalari - penter  
 maalata - penta  
@@ -1292,7 +1292,7 @@ monarkki (kuningas, kuningatar) - rajer
 mongoli - mongol  
 Mongolia - mongolia  
 moni- (poly-, multi-) - poli  
-monijumalisuus (panteismi) - panodewistia  
+monijumalisuus (panteismi) - pandewistia  
 monikulmio (polygoni) - pologon  
 monimerkityksinen - polomeni  
 monismi - monistia  
@@ -1498,8 +1498,9 @@ osmoosi - osme
 osoite - adres  
 osoitin (viisari) - ponter  
 osoittaa (näyttää) - ponta  
-ostaa - baya  
-ostaja - bayer  
+ostaa - xopa  
+ostaja - xoper  
+ostokset - xope  
 otella - meca  
 ottaa kantaa (olla jtk mieltä) - raya  
 ottaa kiinni (napata, kaapata) - kapa  
@@ -1535,7 +1536,7 @@ pala - tike
 palaa - piru  
 palanen (murunen, riekale, sirpale) - parce  
 palata - retra  
-palatsi - palas  
+palatsi - gunden  
 Palau - palaw  
 palauttaa - fuga  
 Palestiina - filistinia  
@@ -1555,10 +1556,10 @@ panafrikkalainen - panafriki
 Panama - panamia  
 panamerikkalainen - panameriki  
 panda - pande  
-pandeeminen (koko väestöä koskeva) - panodemi  
-pandemonio - panodemonia  
+pandeeminen (koko väestöä koskeva) - pandemi  
+pandemonio - pandemonia  
 pandunia - pandunia  
-pandunian puhuja - panduner  
+pandunian puhuja - panduniste  
 pandžabi (eräs intialainen kieli) - panjabi  
 paneurooppalainen - paneuropi  
 pankki - banke  
@@ -1566,7 +1567,7 @@ pankkiiri - banker
 panna (asettaa) - poza  
 panna (asettaa, sijoittaa) - loka  
 pannu (paistinpannu) - tawe  
-pantheon - panodewia  
+pantheon - pandewia  
 papaija - papay  
 paperi - papir  
 pappi - dinogur  
@@ -1617,8 +1618,8 @@ piano - pian
 pidentää - longa  
 pieni (pienesti, vähän) - lil  
 pienin erottuva yksikkö - em  
-pierrä (pieraista) - perda  
-pieru - perde  
+pierrä (pieraista) - peda  
+pieru - pede  
 pihdit - pinser  
 pihka (hartsi) - rezin  
 pii - silike  
@@ -1751,6 +1752,7 @@ pyöreä - cirki
 pyörittää - rota  
 pyöriä - rotu  
 pyörä (polkupyörä, moottoripyörä) - sikle  
+pyöräilyn harrastaja - sikliste  
 päivä - den  
 päivämäärä - nenomesoden  
 päivänseisaus - solestas  
@@ -1820,6 +1822,7 @@ riippumatto - hamake
 riisi - arize  
 riitti (rituaali, seremonia) - rite  
 rikas - rici  
+rikki (palasina) - parci  
 rikki - sulfe  
 rikos - krim  
 rikos- (rikollinen) - krimi  
@@ -1991,6 +1994,8 @@ sisältö - tene
 sisäsyntyinen - indojeni  
 sitoa - benda  
 sitruuna - limon  
+sivilisaatio - sivilia  
+sivistynyt - sivili  
 skandium - skandium  
 slaavilainen - slawi  
 Slovakia - slowakia  
@@ -2150,7 +2155,7 @@ tarvita - nida
 tasapuolinen (reilu) - egal  
 tasku - jebe  
 tatuointi - tataw  
-tauko (paussi) - paus  
+tauko (paussi) - pauze  
 taulukko - table  
 taulukoida - tabla  
 tavallinen - adi  

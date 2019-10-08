@@ -76,7 +76,7 @@ araneofobio - aranofobia
 arbaro - jangal  
 arbo - arbe  
 arboĝardeno - arboparke  
-areo - ar  
+areo - are  
 Argentino - argentin  
 argono - argon  
 armeo - laskeria  
@@ -100,8 +100,8 @@ avokado - awakate
 azeno - gade  
 azia - asi  
 Azio - asia  
-aĉetanto (aĉetisto) - bayer  
-aĉeti - baya  
+aĉetanto (aĉetisto) - xoper  
+aĉeti - xopa  
 aĝo - umur  
 aŭ - o  
 aŭdi (aŭskulti) - auda  
@@ -161,6 +161,7 @@ besto - hewan
 betono - beton  
 bezoni - nida  
 Biblio - biblia  
+biciklisto - sikliste  
 biero - bir  
 bildo (desegnaĵo) - graf  
 biologio - biyolojia  
@@ -212,6 +213,7 @@ celo (golo) - gol
 cent - hon  
 centono - centi  
 centro - jung  
+cepo - piaze  
 cerbo - serebre  
 Cereso - seres  
 cerio - cerium  
@@ -409,7 +411,7 @@ fosforo - fosfor
 fosforo - pospor  
 fosi - fosa  
 foso - fos  
-fotilo - fotografal  
+fotilo - fotomaxin  
 fotisto - fotografer  
 foto (fotografaĵo) - fotografe  
 foto - fotograf  
@@ -428,6 +430,7 @@ fumo - duman
 fungo - funge  
 funkcii - funca  
 furo - furete  
+furzo - pede  
 fusilo - bunduke  
 fuĝi - bega  
 ##g
@@ -1003,6 +1006,7 @@ paco - pace
 pajaco - bufon  
 pakaĵo - bagaje  
 pako - pake  
+palaco - gunden  
 paladio - paladium  
 palmo - palme  
 palto - kote  
@@ -1305,6 +1309,7 @@ tajpilo - kitabomaxin
 taladro - bora  
 talio - talium  
 tamburo - tambur  
+tamen - lekin  
 tantalo - tantalum  
 Tanzanio - tanzania  
 taso - kupe  
@@ -1374,7 +1379,7 @@ Turkio - turkia
 turkiso - firuze  
 turo - minar  
 tuso - kos  
-tuttera - panoduni  
+tuttera - panduni  
 tuŝi - toca  
 ##u
 uniono - unia  

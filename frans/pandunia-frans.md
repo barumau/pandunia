@@ -62,13 +62,13 @@ anter - opposant (antagoniste)
 anus - anus  
 aple - pomme  
 aplika - appliquer  
-ar - aire (superficie)  
 arabi - arabe  
 arane - araignée  
 aranofobia - arachnophobie  
 arbe - arbre  
 arboparke - arboretum, pépinière  
 arbuze - pastèque  
+are - aire (superficie)  
 argentin - Argentine  
 argon - argon  
 arize - riz  
@@ -112,7 +112,6 @@ bas - assez
 baskobol - basketball  
 batre - pile (batterie)  
 bax - langue  
-baya - acheter  
 bazar - marché (bazar)  
 baze - base  
 bebe - bébé  
@@ -166,6 +165,7 @@ gar - si
 gas - gaz  
 gol - but  
 gul - goule  
+gunden - palais  
 ##h
 haime - tente  
 hami - important  
@@ -269,21 +269,36 @@ oranje - orange (fruit)
 oranji - orange (couleur)  
 orti - droit (rectiligne)  
 ortogoni - orthogonal  
+oton - automne  
 ##p
 pace - paix  
 paciste - pacifiste  
+pagre - turban  
+pake - paquet  
+pakse - oiseau  
 pang - pain  
 panir - fromage blanc  
 papagay - perroquet  
+papay - papaye  
+papir - papier  
+parce - fragment  
+parke - parc  
+pasporte - passeport  
 patojener - agent pathogène  
 patolojia - pathologie  
+pauze - pause  
 pay - tarte  
+peda - péter  
+pede - pet (vesse)  
 pese - argent  
 pesodiske - monnaie (pièce)  
+piaze - oignon  
 pike - cime (pic, sommet)  
+pin - épingle  
 pir - feu  
 pira - brûler  
 piratia - piraterie  
+pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
 pul - fleur  
@@ -311,6 +326,8 @@ sar - tête
 sekse - sexe  
 selolojia - cytologie  
 si - oui  
+sikle - bicyclette  
+sikliste - cycliste  
 sol - soleil  
 solocate - ombrelle (parasol)  
 sosis - saucisse  
@@ -368,6 +385,8 @@ xaw - peu
 xey - chose  
 xing - étoile  
 xite - merde  
+xopa - acheter  
+xope - shopping  
 ##y
 yesus - Jésus  
 yuke - jade  

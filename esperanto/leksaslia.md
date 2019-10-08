@@ -35,7 +35,7 @@
 |araneo|arane|fra:araignee. por:aranha. spa:araña. eng:arachnid.|
 |arbaro|jangal|hin:जंगल (jangal). ben:জঙ্গল (jônggôl). urd:(jangal). por:jângal. eng:jungle. rus: джу́нгли (džúngli). deu:Dschungel.|
 |arbo|arbe|fra:arbre. spa:árbol. por:árvore.|
-|areo|ar|eng:area. por:spa:área. pol:areał. fra:aire.|
+|areo|are|eng:area. por:spa:área. pol:areał. fra:aire.|
 |armilo|arme|fra:arme. eng:arms. spa:por:arma.|
 |arto|arte|spa:por:arte. eng:fra:art. jpn:アート (āto).|
 |aspekto|rupe|hin:रूप (rūp). ind: rupa. tha: รูป /rūp/. khm:រូប (rūp).|
@@ -46,10 +46,9 @@
 |avida|tami|ara: طَمَّاع‎ (ṭammāʿ). zho:贪 (tān). kor:탐욕 (tamyok). vie:tham.|
 |avokado|awakate|nah:ahuakatl. spa:aguacate. por:abacate. tgl:abokado. jpn:アボカド (abokado). kor:아보카도 (abokado). fra:avocat. pol:awokado. kon:zavoká.|
 |azeno|gade|hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.|
-|aĉeti|baya|eng:buy.|
 |aĝo|umur|ara:عُمْر‎ (ʿumr). hin:उमर (umar). ind:umur. swa:umri.|
 |aŭto (ĉaro)|kar|eng:car. por:spa:carro. deu:Karre. tel:(kāru). + hin:गाड़ी (gāṛī). swa:gari.|
-|aŭtuno|oton|fra:automne. otoño. por:outono. eng:autumn.|
+|aŭtuno|oton|fra:automne. spa:otoño. por:outono. eng:autumn.|
 |aŭ|o|spa:o. tgl:o. eng:or. zho:或 (huò). ara:(ʾaw).|
 |babili|blabla|fra:blablater. eng:babble. spa:blablablá.|
 |badem|badam|ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam). zho:巴旦木 (bādànmù).|
@@ -73,7 +72,7 @@
 |bereto|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
 |besto|hewan|ind:kewan. ara:(haywān). hin:(hEvān).|
 |bezoni|nida|eng: need.|
-|biero|bir|eng: beer. tur: bira.|
+|biero|bir|eng:beer. tur:bira. fra:bière. ara: بيرة (bīra). ind:bir. hin:बियर (biyar). swa:bia. zho:啤(酒) pí(jiǔ). jpn:ビール (bīru).|
 |bildo (desegnaĵo)|graf|eng:graphic. fra:graphique.|
 |biologio|biyolojia|tur:biyoloji. fra:biologie. eng:biology.|
 |birdo|pakse|hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pnb:ਪੰਖੀ (paṅkhī).|
@@ -97,6 +96,7 @@
 |buŝo|boke|spa:por:boca.|
 |celo (golo)|gol|por:spa:gol. eng:goal. jpn:ゴール (gōru). kor:골 (gol). hin:गोल (gola). tel:గోలు (gōlu). rus:гол (gol).|
 |centro|jung|zho:中 (zhōng). yue:中 (zung). kor:중 (jung). jpn:中 (chuu-).|
+|cepo|piaze|kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.|
 |certa|amen|ara:(ʾāmin). tur:amin,emin. heb:hbo:אמן. ell:ἀμήν (ámén). eng:deu:fra:pol:spa:amen. zho:阿门 (āmén). kor:아멘 (amen). jpn:アーメン (āmen).|
 |citrono|limon|fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).|
 |damaĝo|damaje|eng:damage. fra:dommage.|
@@ -174,6 +174,7 @@
 |fumo|duman|hin:धूआँ (dhuã). tur:duman. rus:дым (dym). kan:(dhūma). ben:ধোঁয়া (dhõẇa).|
 |fungo|funge|eng:fungus. fra:fongus. por:fungo. spa:hongo.|
 |furo|furete|fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:(feretto). swa:fereti.|
+|furzo|pede|ben:পাদ (pad). hin:पाद (pād). spa:pedo. por:peido. fra:pet. rus:пердение (perdeniye).|
 |fusilo|bunduke|ara:(bunduqiyya). hin:बंदूक (bandūk). swa:bunduki.|
 |fuĝi|bega|rus:убегать (ubegat'). hin:भागना (bhāgnā).|
 |gardisto|garder|eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).|
@@ -220,6 +221,7 @@
 |ilo|tul|eng: tool. kor: 툴 (tul). jpn: ツール (tsūru). Zulu: ithuluzi.|
 |infekto|infekse|cze:infekce. ita:infezione. eng:infection. por:infecção. tur:enfeksiyon. rus:инфекция (infektsiya).|
 |inko|moge|zho:墨 (mò). vie:mực. tha:หมึก (muk).|
+|ino|fem|fra:femme. por:fêmea. eng:female.|
 |insulto|ninde|hin:mar:निन्द् (nind).|
 |interŝanĝi|badala|ara:(badala). hin:बदला (badlā). hau:badali. swa:badili.|
 |iono|ion|eng:fra:spa:ion. rus:ион (ion). tur:iyon.|
@@ -317,7 +319,7 @@
 |lego|kanun|ara:(qānūn). tur:kanun. swa:kanuni. hin:क़ानून (qānūn). + eng:fra:canon. por:cânone. rus:канон (kanon).|
 |leono|sing|ind:singa. hin:सिंघ (singh). ben:সিংহ (singh). tam:சிங்கம் (sinkam). tha:สิง (sing). zho:狮 (shī). jpn:獅子 (shishi). + swa:simba.|
 |libereco|huria|ara:(ḥurriyya). tur:hürriyet. swa:uhuru. som:xorriyad. bam:hɔrɔnya.|
-|libro|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.|
+|libro|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|
 |ligno|moke|zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).|
 |liki|lowa|zho:漏 (lòu).|
 |lineo|linye|por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).|
@@ -383,7 +385,7 @@
 |muso|mux|pol:mysz. rus:мышь (myś). fas:(muš).|
 |muziko|musike|eng:music. spa:música. rus:музика (muzika). ara:(mūsīqā).|
 |muŝo|zeze|tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.|
-|nadlo (pinglo)|pin|eng:pin. jpn:(pin). kor:(pin).|
+|nadlo (pinglo)|pin|eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|
 |najlo|ding|zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|
 |najtingalo|bulbul|ind:bulbul. tur:bülbül. hin:बुलबुल (bulbul). urd:(bulbul). fas:(bolbol). kaz:бұлбұл (bulbul).|
 |nasko|jen|hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.|
@@ -422,18 +424,20 @@
 |paco|pace|ita:pace. eng:peace. spa:por:paz. fra:paix.|
 |pajaco|bufon|spa:bufón. eng:buffoon. fra:bouffon.|
 |pako|pake|eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|
+|palaco|gunden|zho:宫殿 (gōngdiàn). viecung điện. jpn:宮殿 (j yūden). kor:궁전 (gungjeon).|
 |palmo|palme|deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).|
 |palto|kote|eng:coat. swa:koti. orm:koota. jpn:コート (kōto). fas:(kot). hin:कोट (kot).|
 |pano|pang|tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.|
 |pantoflo|babuce|arai: بَابُوج‎ (bābūj). spa:babucha. fra:babouche. eng:babouche.|
 |papago|papagay|ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).|
+|papajo|papay|eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|
 |papero|papir|deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|
 |papilio|pelpel|kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.|
 |parko (ĝardeno)|parke|eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).|
 |parolo (vortoj)|loge|ell:λόγος (logos). eng:-logue. fas:(loğat). ara:(luğa). swa:lugha. tur:lügat. ind:logat.|
 |partio|partia|eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).|
 |parto (frakcio)|fen|zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).|
-|pasporto|pasporte|eng:passport. por:passaporte. rus:паспорт (pasport). ind:paspor.|
+|pasporto|pasporte|eng:passport. fra:passeport. spa:pasaporte. Por:passaporte. rus:паспорт (pasport). hin:पासपोर्ट (pāsporṭ). ben:পাসপোর্ট (pasporṭ). Ind:paspor. swa:paspoti. Jpn:パスポート pasupōto).|
 |pato|tawe|hin:तवा (tavā). tur:tava. fas:(tābe).|
 |patrino|mame|spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).|
 |patro|pape|eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).|
@@ -445,7 +449,7 @@
 |peti (bonvolu)|plisa|eng:please.|
 |peza|bari|ben:ভারী (bharī). hin:भारा (bhārā). urd:(bhārā). tel:బరువు (baruvu). ind:berat. ell: βαρύς (barýs).|
 |pezo|bar|ell:βάρος (báros). hin:भार (bhār). tel:భారము (bhāramu). may:ind:berat.|
-|pico|pize|ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
+|pico|pize|ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
 |piedpilko|futobol|eng:fra:football. spa:fútbol. por:futebol. deu:Fußball. hin:फ़ुटबॉल (fuṭbŏl). urd:(fuṭ bāl). ben:ফুটবল (phuṭbôl). rus:футбол (futbol). tha:ฟุตบอล (th) (fút-bɔn). jpn:フットボール (futtobōru). zul:ibhola.|
 |pilko|bol|eng:ball. spa:por:ind:tgl:bola. tha:บอล (bɔl). jpn:ボール (bōru). kor:볼 (bol). khm:បាល់ (bal). ben:বল (bôl). deu:Ball. fra:boule,balle.|
 |pino|song|zho:松 (sōng). wuu:(son). tha:สน (sǒn). kor:솔 (sol). vie:thông. + rus:сосна (sosna).|
@@ -579,6 +583,7 @@
 |tablo|meze|tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.|
 |tago|den|hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).|
 |tamburo|tambur|swa:sna:kon:ngoma. nya:ng'oma. + zho:鼓 (gǔ).|
+|tamen|lekin|ara: لكن (lākin). hin:लेकिन (lekin). Swa:lakini.|
 |taso|kupe|fra:coupe. tur:kupa. ara:(kūb). spa:copa. eng:cup. hin:कप (kap). jpn:コップ (koppu). kor:컵 (keop).|
 |tatuo|tataw|sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).|
 |tekniko|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
@@ -591,7 +596,7 @@
 |tigro|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
 |tiri|tira|spa:por:tirar. fra:tirer. eng:tear. tur:tire.|
 |tiu|wi|hin:वह (wo). ben:ওই (oi).|
-|tomato|tomate|eng:tomato. spa:tomate. rus: (tomat).|
+|tomato|tomate|eng:tomato. por:spa:tomate. rus:томат (tomat). ind:tomat. hin:टमाटर (ṭamāṭar).|
 |tombo|gabre|ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).|
 |tondilo|makas|ara:(maqaṣ). tur:makas. swa:mkasi. orm:maqasii. hau:almakashi. yor:àlùmogàjí. scr:makaze.|
 |tondro|grom|rus:гром (grom). pol:grom.|
@@ -599,7 +604,7 @@
 |torso|torse|fra:torse. rus:торс (tors). deu:eng:spa:ind:torso.|
 |torto|pay|eng:pie. spa:pay. ind:pai. hin:पाई (pāī). urd:(pāī). ben:পাই (pai). jpn:パイ (pai). kor:파이 (pai). zho:排 (pái). yue:批 (pai1). fas:(pây).|
 |traduko|tarje|ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.|
-|trajno (vagonaro)|tren|eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren).|
+|trajno (vagonaro)|tren|eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren). por:trem.|
 |tranĉilo|cake|hin:चाक़ू (cāqū). fas:(čâqu). nep:चक्कु (cakku). kan:ಚಾಕು (cāku).|
 |tranĉi|kata|eng: cut. hin: काटना /kāṭnā/. swa: -kata.|
 |tri (3)|tin|hin:तीन (tīn). ben:তিন (tin). urd:(tīn).|
@@ -678,7 +683,7 @@
 |ŝampuo|kexosabun|por:xampu. spa:champú. eng:shampoo. jpn:シャンプー (shanpū). vie:xà bông. hin:शैंपू (śaimpū). tur:şampuan.|
 |ŝanco|canse|fra:eng:chance. jpn:チャンス (chansu). kor:찬스 (chanseu). rus:шанс (šans). tur:şans.|
 |ŝati|suku|jpn:好く (suku). ind: suka.|
-|ŝipo|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.|
+|ŝipo|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|
 |ŝlosilo|cabe|por:chave. hin:(cābi). kon:nsapi.|
 |ŝoforo (kondukisto)|xofer|fra:eng:deu:chauffeur. spa:por:chofer. rus:шофёр (šofjor). pol:szofer. tha: โชเฟอร์ (chofoe). tur:şoför. fas:(šofer).|
 |ŝranko|almar|hin:अलमारी (almārī). ben:আলমারি (almari). ind:lemari. spa:armario. por:armário.|

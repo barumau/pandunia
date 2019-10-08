@@ -66,13 +66,13 @@ anti - kotraŭa
 anus - anuso  
 anusi - anusa  
 aple - pomo  
-ar - areo  
 arabi - araba  
 arane - araneo  
 aranofobia - araneofobio  
 arbe - arbo  
 arboparke - arboĝardeno  
 arbuze - akvomelono  
+are - areo  
 argentin - Argentino  
 argon - argono  
 aria - ejo  
@@ -154,8 +154,6 @@ baxa - paroli (komuniki)
 baxokanun - gramatiko  
 baxokanuni - gramatika  
 baxolojia - lingvistiko  
-baya - aĉeti  
-bayer - aĉetanto (aĉetisto)  
 bazar - merkato (bazaro)  
 baze - bazo  
 bazi - baza  
@@ -485,10 +483,10 @@ fos - foso
 fosa - fosi  
 fosfor - fosforo  
 fotograf - foto  
-fotografal - fotilo  
 fotografe - foto (fotografaĵo)  
 fotografer - fotisto  
 fotografia - fotografio  
+fotomaxin - fotilo  
 fransia - Francio  
 fransium - franciumo  
 fuka - vesti  
@@ -563,6 +561,7 @@ gubuh - hipopotamo
 gude - ĉevalo  
 guhe - kaverno  
 gula - gluti  
+gunden - palaco  
 gune - eco  
 gur - guruo (instruisto)  
 gurube - porko  
@@ -857,6 +856,7 @@ latwia - Latvio
 laurensium - laŭrencio  
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  
+lekin - tamen  
 lekse - vorto  
 leksia - vortaro  
 leksoliste - vortaro  
@@ -1096,11 +1096,11 @@ pan - ĉiu
 pan sate - ĉiam  
 panamia - Panamo  
 pande - pando  
+panduni - tuttera  
 pandunia - pandunia  
 pang - pano  
 panike - paniko  
 panke - ventumilo  
-panoduni - tuttera  
 pantalon - pantalonoj  
 papagay - papago  
 papay - papajo  
@@ -1117,6 +1117,7 @@ pati - malsana
 patolojia - patologio  
 pay - torto  
 pedal - pedalo  
+pede - furzo  
 pelpel - papilio  
 penis - peniso  
 penta - pentri  
@@ -1127,6 +1128,7 @@ pesodiske - monero
 petre - ŝtono  
 pexe - metiero  
 pian - piano  
+piaze - cepo  
 pijin - piĝino  
 pil - haŭto  
 pimente - pipro  
@@ -1286,6 +1288,7 @@ serpe - serpento
 si - jes  
 sida - sidi  
 sifolekse - adjektivo  
+sikliste - biciklisto  
 silike - silicio  
 simpli - simpla  
 sine - brusto  
@@ -1481,6 +1484,8 @@ xite - merdo
 xixi - silenta  
 xofa - konduki  
 xofer - ŝoforo (kondukisto)  
+xopa - aĉeti  
+xoper - aĉetanto (aĉetisto)  
 xow - montri (ekspozicii)  
 xudu - devus  
 xula - ripari  

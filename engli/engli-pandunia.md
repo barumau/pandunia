@@ -105,7 +105,7 @@ Arabic - arabi
 arachnophobia - aranofobia  
 arboretum - arboparke  
 archipelago - nesia  
-area (extent of surface) - ar  
+area (extent of surface) - are  
 area (region) - aria  
 area of thinking or being - -ia  
 Argentina - argentin  
@@ -190,6 +190,7 @@ baobab - buy
 bar (obstruct) - barya  
 bar (pub, beer house) - bireria  
 bar (rod, stick) - baton  
+bar - bar  
 Barbados - barbados  
 barbarian - barbar  
 barium - barium  
@@ -253,7 +254,7 @@ Bhutan - butan
 Bible - biblia  
 bicycle (pedal bike) - pedalosikle  
 big (greatly) - day  
-bike - sikle  
+bike (cycle) - sikle  
 bill (invoice) - bil  
 billion (giga-) - gigo-  
 biology (study of life) - biyolojia  
@@ -336,8 +337,8 @@ butter - makan
 butterfly - pelpel  
 buttocks (bum, butt, ass) - bum  
 button - boton  
-buy (purchase) - baya  
-buyer - bayer  
+buy (purchase) - xopa  
+buyer - xoper  
 ##c
 cabin (booth) - kabin  
 cadmium - kadomium  
@@ -355,7 +356,7 @@ call (name) - namisa
 calm (peaceful) - xanti  
 Cambodia - kambudia  
 camel - gamel  
-camera - fotografal  
+camera - fotomaxin  
 Cameroon - kamerunia  
 camp - kampe  
 camper - kamper  
@@ -453,6 +454,8 @@ cigarette (cigar) - sigar
 circle (round) - cirke  
 citrus fruit - migan  
 city - site  
+civilization - sivilia  
+civilized (civil) - sivili  
 clarify - klara  
 class (category) - klas  
 classify (categorize) - klasa  
@@ -586,6 +589,7 @@ cushion (pillow) - kusen
 custom (tradition, practice, convention) - rasme  
 cut - kata  
 cute (sweet) - kaway  
+cyclist - sikliste  
 Cyprus - kipris  
 Cyrillic alphabet - kirili abace  
 cytology - selolojia  
@@ -798,8 +802,8 @@ fantasy (imagination) - fantaze
 far (distant) - teli  
 farewell - salam cute  
 farmer - nonger  
-fart (flatulate) - perda  
-fart (flatulence) - perde  
+fart (flatulate) - peda  
+fart (flatulence) - pede  
 fascination - fasin  
 fascism - faxistia  
 fascist - faxiste  
@@ -936,7 +940,7 @@ girl - jovani fem
 give - dona  
 give birth (procreate, generate) - jena  
 glass - kance  
-global (concerning the whole world) - panoduni  
+global (concerning the whole world) - panduni  
 global - duni  
 glue - glute  
 gluten - gluten  
@@ -1078,6 +1082,7 @@ hotel - hotel
 hour - hor  
 how many? - ki nume  
 how? - ki yang?  
+however - lekin  
 howl - ulula  
 howling - ulul  
 huh? (pardon?) - he  
@@ -1394,6 +1399,7 @@ massage - masaje
 mast - maste  
 master (be an expert at sth) - mesta  
 master (expert) - mester  
+master (sensei) - xense  
 match (contest) - mece  
 match (fit, suit, conform) - maca  
 material - mati  
@@ -1678,7 +1684,7 @@ painful - paxi
 paint - penta  
 painter - penter  
 Pakistan - pakistan  
-palace - palas  
+palace - gunden  
 Palau - palaw  
 Palestinian Territory - filistinia  
 palladium - paladium  
@@ -1689,13 +1695,13 @@ pan-Asian - panasi
 pan-European - paneuropi  
 Panama - panamia  
 panda - pande  
-pandemic - panodemi  
-pandemonium - panodemonia  
+pandemic - pandemi  
+pandemonium - pandemonia  
 Pandunia - pandunia  
-Pandunia speaker - panduner  
+Pandunia speaker - panduniste  
 panic - panike  
-pantheism - panodewistia  
-pantheon - panodewia  
+pantheism - pandewistia  
+pantheon - pandewia  
 pants (trousers) - pantalon  
 papaya - papay  
 paper - papir  
@@ -1718,8 +1724,8 @@ past times - pase
 paste - paste  
 pathogen - patojener  
 pathology - patolojia  
-pause (break, interruption) - paus  
-pause (interrupt) - pausa  
+pause (break, interruption) - pauze  
+pause (interrupt) - pauza  
 pay - peya  
 payment - pey  
 peace - pace  
@@ -2129,6 +2135,7 @@ shock (collision) - xoke
 shoemaker - sapater  
 shoemaker's shop - sapateria  
 shop (workshop, place of doing) - eria  
+shopping - xope  
 short (brief) - korti  
 shorten - korta  
 should (ought) - xudu  

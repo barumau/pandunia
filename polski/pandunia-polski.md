@@ -74,13 +74,13 @@ anusi - analny, odbytni
 aple - jabłko  
 aplika - zastosować, stosować  
 aplike - zastosowanie, aplikacja  
-ar - pole, powierzchnia  
 arabi - arabski  
 arane - pająk  
 aranofobia - arachnofobia  
 arbe - drzewo  
 arboparke - arboretum  
 arbuze - arbuz  
+are - pole, powierzchnia  
 argentin - Argentyna  
 argon - argon  
 aria - powierzchnia, region, teren  
@@ -175,8 +175,6 @@ bawer - dziennikarz
 bax - język; komunikacja  
 baxa - mówić; komunikować  
 baxolojia - językoznastwo  
-baya - kupić  
-bayer - nabywca (kupiec)  
 bazar - rynek, bazar  
 bazarohuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
@@ -597,8 +595,8 @@ fos - dół, jama, wydobycie, wykop, wykopalisko
 fosa - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 fosfor - fosfor  
 fotograf - zdjęcie, fotografia  
-fotografal - kamera, aparat fotograficzny  
 fotografia - fotografia  
+fotomaxin - kamera, aparat fotograficzny  
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
 fransium - frans  
@@ -697,6 +695,7 @@ guhe - jaskinia
 gujarati - Gudżarat  
 gul - ghul  
 gula - połknąć (połykać)  
+gunden - pałac  
 gune - cecha, atrybut, własność; -ość  
 gur - guru, mistrz  
 gurube - świnia  
@@ -1636,7 +1635,6 @@ pakistan - Pakistan
 pakse - ptak  
 pal - owoc  
 paladium - pallad  
-palas - pałac  
 palaw - Palau  
 palme - palma, drzewo palmowe  
 pan - wszyscy, wszystkie, wszystko; każdy  
@@ -1648,18 +1646,18 @@ panameriki - panamerykański
 panamia - Panama  
 panasi - panazjatycki  
 pande - panda  
-panduner - osoba mówiąca w Panduni  
+pandemi - pandemiczny  
+pandemonia - pandemonium  
+pandewia - panteon  
+pandewistia - panteizm  
+panduni - globalny (światowy)  
 pandunia - Pandunia  
+panduniste - osoba mówiąca w Panduni  
 paneuropi - paneuropejski  
 pang - chleb  
 panike - panika  
 panjabi - pendżabski  
 panke - wiatrak (wentylator)  
-panodemi - pandemiczny  
-panodemonia - pandemonium  
-panodewia - panteon  
-panodewistia - panteizm  
-panoduni - globalny (światowy)  
 pantalon - spodnie, pantalony, portki  
 papagay - papuga  
 papay - papaja  
@@ -1692,15 +1690,17 @@ patia - choroba
 patojener - patogen  
 patolojia - patologia  
 paunde - funt (£)  
-paus - pauza, przerwa  
-pausa - przerwać, przerywać  
+pauza - przerwać, przerywać  
+pauze - pauza, przerwa  
 paxa - sprawić ból, sprawiać ból  
 paxi - bolesny  
 paxia - cierpienie, ból  
 paxu - cierpieć  
 pay - placek, ciasto  
+peda - pierdzieć  
 pedal - pedał  
 pedalosikle - rower z pedałami  
+pede - pierdnięcie  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
 penda - powiesić, wieszać  
@@ -1709,8 +1709,6 @@ penta - namalować, malować
 penter - malarz  
 pepin - ogórek  
 per - pióro  
-perda - pierdzieć  
-perde - pierdnięcie  
 peruwia - Peru  
 pese - pieniądze  
 pesodiske - moneta  
@@ -2051,6 +2049,7 @@ sigar - papieros (cygar)
 sikiste - sikh  
 sikistia - sikhizm  
 sikle - rower  
+sikliste - rowerzysta  
 silike - krzem  
 silsil - łańcuch  
 simpli - prosty, nieskomplikowany  
@@ -2419,6 +2418,8 @@ xixi - cichy
 xofa - prowadzić pojazd  
 xofer - szofer (kierowca)  
 xoke - szokwstrząs; kolizja  
+xopa - kupić  
+xoper - nabywca (kupiec)  
 xow - pokaz, ekspozycja, wystawa  
 xowa - pokazać, pokazywać, wystawić, wystawiać  
 xudu - powinien  

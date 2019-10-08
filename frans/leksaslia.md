@@ -2,10 +2,9 @@
 |frans | pandunia | leksasle |
 |----------|----------|----------|
 |accent|acente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
-|acheter|baya|eng:buy.|
 |Afrique|afrike|ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.|
 |agression (attaque)|agres|eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão. ind:agresif.|
-|aire (superficie)|ar|eng:area. por:spa:área. pol:areał. fra:aire.|
+|aire (superficie)|are|eng:area. por:spa:área. pol:areał. fra:aire.|
 |alcool|alkol|fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul). rus:алкоголь (alkohol). pol:alkohol.|
 |algue|alge|deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.|
 |almond|badam|ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam). zho:巴旦木 (bādànmù).|
@@ -22,6 +21,7 @@
 |assez|bas|fas:urd:س (bas). ara:(bass). hin:(bas). swa:basi. spa:por:ita:basta.|
 |asthme|asme|fra:asthme. eng:asthma. spa:por:ind:asma. pol:astma.|
 |autel|altar|eng:por:spa:ind:altar. rus: алтарь (altar'). swa:altare. pol:ołtarz.|
+|automne|oton|fra:automne. spa:otoño. por:outono. eng:autumn.|
 |autre|ali|ell:άλλος (állos). ltn:alius. eng:allo-. por:spa:alo-.|
 |aventure|abentur|deu:Abenteuer. spa:aventura. fra:aventure. rus:авантюра (avantyura). tur:avantür. eng:adventure.|
 |avoir besoin de|nida|eng: need.|
@@ -34,9 +34,10 @@
 |bande|bande|zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).|
 |banque|banke|eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).|
 |base|baze|eng:fra:por:spa:base. deu:Basis. rus:база (baza).|
-|bateau|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.|
+|bateau|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|
+|bicyclette|sikle|eng:bicycle. fra:bicyclette. tur:bisiklet. spa:bicicleta. tgl:bisikleta. ben:সাইকেল (saikel). hin:साइकिल (sāikil).|
 |billet|tikete|eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).|
-|bière|bir|eng: beer. tur: bira.|
+|bière|bir|eng:beer. tur:bira. fra:bière. ara: بيرة (bīra). ind:bir. hin:बियर (biyar). swa:bia. zho:啤(酒) pí(jiǔ). jpn:ビール (bīru).|
 |blanc|baki|yue:白 (baak6). vie:bạch. Zho:白 (bái). jpn:白 (haku). kor:백 (baek). + fra:blanc. spa:blanco. por:branco.|
 |blue|nili|ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).|
 |bombe|bombe|pol:por:spa:tur:bomba. rus:бомба (bomba). deu:fra:bombe. fas:(bomb). eng:bomb. ben:বোমা (boma). hin:बम (bam). urd:(bam). jpn:ボム (bomu). kor:봄 (bom). ind:bom.|
@@ -89,6 +90,7 @@
 |fils ou fille|pute|tha:บุตร (but). hin:पूत (pūt), पुत्र (putra). ben:পুত্র (putr). Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar). may:putera. tel:పుత్రుడు (putruḍu).|
 |fleur|pul|hin:फूल (phul). ben:ফুল (phul).|
 |fourmi|maye|zho:蚂蚁 (mǎyǐ). yue:螞蟻 (maa5 ngai5).|
+|fragment|parce|fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|
 |frais|tazi|tur:taze. hin:ताज़ा (tāzā). ben:তাজা (taja). kaz:таза (taza). fas:(tâze).|
 |fromage blanc|panir|hin:पनीर (panīr). pnb:ਪਨੀਰ (panīr). ben:পনির (pônir). tur:peynir. eng:paneer.:|
 |fromage|cis|eng: cheese. zho: 起司 (qǐsī). swa: chizi. jpn:チーズ (chīzu). kor:치즈 (chijeu).|
@@ -112,7 +114,7 @@
 |lasagne|lazanye|fra:lasagne. eng:lasagna. spa:lasaña. por:lasanha. rus:лазанья (lazanya). ara:(lazanyā). jpn:ラザニア (razania). kor:라자냐 (lajanya). hin:लज़ैन्या (lazenyā).|
 |lieu|loke|eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.|
 |liste|liste|eng:list. spa:por:lista. rus:(lista). deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).|
-|livre|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.|
+|livre|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|
 |loup|wolfe|deu:ned:eng:wolf. rus:волк (volk).|
 |lourd|bari|ben:ভারী (bharī). hin:भारा (bhārā). urd:(bhārā). tel:బరువు (baruvu). ind:berat. ell: βαρύς (barýs).|
 |lys|susan|fas:sousan. ara:(sawsan). heb:(šōšān). + eng:Susan. por:spa:Susana. fra:Suzanne. pol:Zuzana. rus:Сусанна (Susanna).|
@@ -142,18 +144,29 @@
 |nuage|megam|hin:मेघ (megh). ben:মেঘ (megh). tam:மேகம் (mēgam). tel:మేఘము (mēghamu). ind:mega. tha:เมฆ (mek).|
 |océan|dayosamude|vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).|
 |oeuf|ande|hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).|
+|oignon|piaze|kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.|
+|oiseau|pakse|hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pnb:ਪੰਖੀ (paṅkhī).|
 |orange (fruit)|oranje|eng:orange. spa:naranja. por:laranja. hin:नारंगी (narangi). jpn:(orenji). + fra:orange. Rus:оранжевый (oranževiy).|
 |origine|asle|ara:(ʾaṣl). tur:asl. ind:asal. hin:असल (asl). swa:asili.|
 |oui|si|spa:sí. por:sim. + zho:是 (shí). wuu:是 (sí).|
 |ou|o|spa:o. tgl:o. eng:or. zho:或 (huò). ara:(ʾaw).|
 |pain|pang|tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.|
 |paix|pace|ita:pace. eng:peace. spa:por:paz. fra:paix.|
+|palais|gunden|zho:宫殿 (gōngdiàn). viecung điện. jpn:宮殿 (j yūden). kor:궁전 (gungjeon).|
 |pantoufle (babouche)|babuce|arai: بَابُوج‎ (bābūj). spa:babucha. fra:babouche. eng:babouche.|
+|papaye|papay|eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|
+|papier|papir|deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|
+|paquet|pake|eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|
+|parc|parke|eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).|
+|passeport|pasporte|eng:passport. fra:passeport. spa:pasaporte. Por:passaporte. rus:паспорт (pasport). hin:पासपोर्ट (pāsporṭ). ben:পাসপোর্ট (pasporṭ). Ind:paspor. swa:paspoti. Jpn:パスポート pasupōto).|
 |pastèque|arbuze|rus:арбуз (arbuz). pol:arbuz. tur:karpuz. ell:καρπούζι (karpuzi). hin:तरबूज़ (tarbūz). ben:তরমুজ (tôrmuj).|
+|pause|pauze|eng:deu:fra:pause. spa:por:pausa. rus:пауза (pauza).|
 |perroquet|papagay|ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).|
+|pet (vesse)|pede|ben:পাদ (pad). hin:पाद (pād). spa:pedo. por:peido. fra:pet. rus:пердение (perdeniye).|
 |peu|xaw|zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).|
 |photo (photographie)|fotografe|eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|
 |pile (batterie)|batre|eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ben:ব্যাটারি (byaṭari). ara:(baṭṭāriyya). jpn:バッテリー (batterī). kor:배터리 (baeteori). rus:батарея (batareya). spa:por:bateria. may:bateri.|
+|pizza|pize|ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
 |pièce (chambre)|kamar|ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer. rus:камера (kamera).|
 |placard|almar|hin:अलमारी (almārī). ben:আলমারি (almari). ind:lemari. spa:armario. por:armário.|
 |pluie|barxe|hin:बारिश (bāriś),वर्षा (varṣā). urd:(bāriś). mar:वर्षा (varṣā). guj:વરસાદ (varsād). tel:వర్షము (varṣamu). fas:(bārān). jav:warsa.|
@@ -181,6 +194,7 @@
 |saucisse|sosis|fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.|
 |sel|sal|por:spa:sal. eng:salt. rus:соль (solʹ).|
 |sexe|sekse|eng:sex. fra:sexe. spa:por:sexo.|
+|shopping|xope|eng:fra:spa:shopping. jpn:ショッピング (shoppingu). kor:쇼핑 (syoping). tha:ชอปปิ้ง (chop-bing). rus:шоппинг (šopping). zho:血拼 (xuèpīn).|
 |si|gar|fas:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. kaz:егер (eger). + yue:假 (gaa1). wuu:假 (ga).|
 |soldat|lasker|tur:asker. may:uzb:askar. swa:askari. ara:(ʿaskariy). bul:аскер (asker). + fas:(laškar). urd:(laśkar). hin:लष्कर (laśkar). guj:લશ્કર (laśkar). ind:laskar.|
 |soleil|sol|spa:por:sol. fra:soleil. + hin:सौर (sOr). tel:(saur).|
@@ -194,9 +208,10 @@
 |tente|haime|ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).|
 |thé|cay|zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).|
 |tigre|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
-|tomate|tomate|eng:tomato. spa:tomate. rus: (tomat).|
+|tomate|tomate|eng:tomato. por:spa:tomate. rus:томат (tomat). ind:tomat. hin:टमाटर (ṭamāṭar).|
 |toucher|toca|eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 (chù).|
 |traduction|tarje|ara:(tarjama). hin:तर्जुमा (tarjuma). urd:(tarjuma). ben:তর্জমা (tôrjôma). ind:terjemah. tur:tercüme.|
+|turban|pagre|hin:mar:पगड़ी (pagṛī). urd:(pagṛī). ben:পাগড়ি (pagri).|
 |tu|te|fra:por:spa:tu. hin:तू (tū). rus:ты (ty).|
 |tête|sar|fas:(sar). hin:सिर (sir). ara:(raʾs).|
 |vagine|vagin|eng:fra:vagina. por:spa:vagina. rus:вагина (vagina). jpn:ワギナ (wagina). kor:바기나 (bagina). tur:vajina. may:vagina.|
@@ -211,11 +226,13 @@
 |vrai|veri|eng:very. ita:vero. rus:верный (verniy). spa:verdadero. por:verdadeiro. deu:wahr. fra:vrai.|
 |vulve|vulve|fra:vulve. eng:por:spa:tur:vulva. rus:вульва (vul’va).|
 |végétarien|vejoniamiste|eng:vegetarian. fra:végétarien. por:spa:vegetariano. rus:вегетарианец  (vegetarianets). tur:vejetaryen. jpn:ベジタリアン (bejitarian).|
+|zombi|zombe|kon:nzambi. Por:zumbi. eng:zombi. ind:zombi. hin:ज़ोंबी (zombī).|
 |âge|umur|ara:عُمْر‎ (ʿumr). hin:उमर (umar). ind:umur. swa:umri.|
 |écriture|kitabe|ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).|
 |électricité|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|
 |émeraude|zumrude|ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.|
 |épices|masal|hin:मसाला (masālā). urd:(masālā). ben:মসলা (môsla). bur:(masʰala).|
+|épingle|pin|eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|
 |épreuve (test)|teste|eng:fra:test. rus: тест (test). por:teste. tur:test.|
 |étoile|xing|zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).|
 |être humain|insan|ara:(ʔinsan). hin:इंसान (insān). tur:insan. urd:(insān). fas:(ensān).|

@@ -15,7 +15,7 @@
 |ajatus|fikre|ara:(fikr). fas:(fekr). tur:fikir. ind:pikir. hin:(fikr).|
 |akku (paristo)|batre|eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ben:ব্যাটারি (byaṭari). ara:(baṭṭāriyya). jpn:バッテリー (batterī). kor:배터리 (baeteori). rus:батарея (batareya). spa:por:bateria. may:bateri.|
 |akseli|akse|eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.|
-|ala (pinta-ala)|ar|eng:area. por:spa:área. pol:areał. fra:aire.|
+|ala (pinta-ala)|are|eng:area. por:spa:área. pol:areał. fra:aire.|
 |algebra|jebria|ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.|
 |alistuminen (antautuminen)|islam|ara:(ʾislām). fas:(taslim). tur:teslim.|
 |alkoholi|alkol|fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul). rus:алкоголь (alkohol). pol:alkohol.|
@@ -188,7 +188,7 @@
 |joulu|kristojen|ell:Χριστούγεννα (Christoúgenna).|
 |juhlat|feste|por:festa. spa:fiesta. fra:fête. deu:Fest. eng:festival. rus:фестиваль (festival').|
 |jumala|dew|por:deus. ind:dewa. hin:देवता (devtā). kan:(dēva).|
-|juna|tren|eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren).|
+|juna|tren|eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren). por:trem.|
 |jutella (höpistä)|blabla|fra:blablater. eng:babble. spa:blablablá.|
 |juuri|rize|ell:ρίζα (riza). eng:fra:rhizo-. por:spa:rizo-. rus:ризо- (rizo-).|
 |juustokumina (jeera)|ziran|ben:জিরা (zīra). hin:ज़ीरा (zīrā). tam:சீரகம் (sīrakam). swa:mjira. fas:(zire). zho:孜然 (zīrán).|
@@ -263,7 +263,7 @@
 |kipu|tung|zho:疼 (téng),痛 (tòng). yue:痛 (tung3).|
 |kirahvi|jiraf|ara:(zarāfa). Eng:fra:giraffe. por:girafa. spa:jirafa. rus:жираф (žiraf).ind:jerapah. tur:zürafa. kor:지라프 (jirapeu). hin: जिराफ़ (jirāf). ben:জরৈফ (jôrôph).|
 |kirjain|harfe|ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.|
-|kirja|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin.|
+|kirja|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|
 |kirjoitus (teksti)|kitabe|ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).|
 |kirkas (selkeä)|ming|zho:wuu:明 (míng). yue:明 (ming4). vie:minh. kor:명 (myeong).|
 |kirkko|eglis|fas:(kelisā). tur:kilise. ind:gereja. por:igreja. hin:गिरजा (girjā). ara:(kanisā). fra:église.|
@@ -292,6 +292,7 @@
 |kruunu|koron|fra:couronne. eng:crown. spa:corona. jpn:クラウン (kuraun). rus:корона (korona). por:coroa.|
 |kuin|ka|ibo:kà. ara:(ka-). swa:kama.|
 |kuisti (terassi, veranta)|berande|hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).|
+|kuitenkin|lekin|ara: لكن (lākin). hin:लेकिन (lekin). Swa:lakini.|
 |kuitti (kuittaus)|reside|fas:(resid). hin:रसीद (rasīd). urd:(rasīd). guj:રસીદ (rasīd). tel:రసీదు (rasīdu). + eng:receipt. swa:resiti. mal:resit.|
 |kuiva|gan|zho:干 (gān). yue:乾 (gon1). kor:건 (geon).|
 |kukka|pul|hin:फूल (phul). ben:ফুল (phul).|
@@ -453,6 +454,7 @@
 |mänty|song|zho:松 (sōng). wuu:(son). tha:สน (sǒn). kor:솔 (sol). vie:thông. + rus:сосна (sosna).|
 |määrä (päämäärä, kohtalo)|destin|eng:destination, destiny. fra:destin. spa:por:destino.|
 |naamio (maski)|maske|eng:mask. fra:masque. spa:por:máscara. rus:маска (maska). hin:मास्क (māsk). jpn:マスク (masuku). kor:마스크 (maseukeu). ind:masker. Tur:maske.|
+|naaras|fem|fra:femme. por:fêmea. eng:female.|
 |nahka (kuori, iho)|pil|eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).|
 |naimisissa|mari|eng:married. fra:marié. spa:por:marido.|
 |nappi (näppäin, kytkin)|buton|eng:button. hin:बटन (baṭan). ben:বোতাম (botam). jpn:ボタン (botan). kor:버튼 (beoteun).|
@@ -462,7 +464,7 @@
 |naula (piikki)|ding|zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|
 |nauta (lehmä)|muh|(onom.) eng:moo. deu:muh. rus:му (mu). tha:มอ (mo). hin:(mū). jpn:モーモー (mō mō). zho:哞 (mōu). tur:mö.|
 |nauttia (syödä, juoda)|niama|khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.|
-|neula|pin|eng:pin. jpn:(pin). kor:(pin).|
+|neula|pin|eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|
 |neuvontantaja (mentori)|menter|scr:मन्त्रिन् (mantrin). hin:मंत्री (mantrī). tha:มนตรี (mon-tri). ind:menteri. eng:deu:fra:por:spa:mentor. jpn:メンター (mentā). kor:멘토 (mento). rus:ментор (mentor).|
 |niellä|gula|ben:গেলা (gela). por:engolir. rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir.|
 |nilviäinen|moluske|eng:mollusk. deu:Molluske. fra:mollusque. rus:моллюск (mollyusk). spa:por:molusco. ind:moluska. hin:urd:(molask).|
@@ -490,7 +492,7 @@
 |oliivi|zaitun|ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).|
 |olkapää (hartia)|kante|hin:कंधा (kandhā). urd:(kandhā). ben:কাঁধ (kandhô). + jpn:肩 (kata). + ara:(kataf). + min:肩頭 (keng-thâu).|
 |olla|esa|spa:es. fas:(ast). por:estar. rus:есть (yest').|
-|olut (kalja)|bir|eng: beer. tur: bira.|
+|olut (kalja)|bir|eng:beer. tur:bira. fra:bière. ara: بيرة (bīra). ind:bir. hin:बियर (biyar). swa:bia. zho:啤(酒) pí(jiǔ). jpn:ビール (bīru).|
 |omaisuus|malke|ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. fas:melk. + pas:urd:(mālik). pnb:ਮਾਲਕ (mālik).|
 |omena|aple|eng:apple. deu:Apfel. ind:apel. ben:আেপল (apôl). zul:ihhabhula.|
 |omistetun omistajaan liittävä partikkeli|du|fra:de,du. por:de,do,da. pas:د‎ (də). arm:דְּ‎ (də).|
@@ -503,7 +505,7 @@
 |osa (pala)|fen|zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).|
 |osapuoli|partia|eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).|
 |osoittaa (näyttää)|ponta|eng:point. por:apontar. spa:apuntar. fra:pointer.|
-|ostaa|baya|eng:buy.|
+|ostokset|xope|eng:fra:spa:shopping. jpn:ショッピング (shoppingu). kor:쇼핑 (syoping). tha:ชอปปิ้ง (chop-bing). rus:шоппинг (šopping). zho:血拼 (xuèpīn).|
 |ottaa kiinni (napata, kaapata)|kapa|tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).|
 |ottelu (matsi)|mece|eng:fra:match. hin:मैच (mɛc). swa:meci. Pol:mecz. rus:матч (matč). tur:maç.|
 |outo (kummallinen)|bizari|eng:fra:bizarre. por:bizarro. deu:bizarr.|
@@ -522,6 +524,7 @@
 |pakkaus (paketti)|pake|eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|
 |paksu|grosi|fra:gros. por:grosso. spa:grueso.|
 |palanen (murunen, riekale, sirpale)|parce|fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|
+|palatsi|gunden|zho:宫殿 (gōngdiàn). viecung điện. jpn:宮殿 (j yūden). kor:궁전 (gungjeon).|
 |palauttaa|fuga|zho:复 (fù). yue:(fuk). vie:phục.|
 |pala|tike|fas:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).|
 |paljon (monta)|pol|ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:поли- (poli-).|
@@ -531,11 +534,12 @@
 |palvonta|puje|hin:पूजा (pūjā). urd:(pūjā). tha:บูชา (bucha). ind:puja.|
 |pankki|banke|eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).|
 |pannu (paistinpannu)|tawe|hin:तवा (tavā). tur:tava. fas:(tābe).|
+|papaija|papay|eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|
 |paperi|papir|deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|
 |papukaija|papagay|ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).|
 |parta|barde|fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.|
 |paska (sonta)|xite|eng:shit. zho:屎 (shǐ). yue:屎 (si2).|
-|passi|pasporte|eng:passport. por:passaporte. rus:паспорт (pasport). ind:paspor.|
+|passi|pasporte|eng:passport. fra:passeport. spa:pasaporte. Por:passaporte. rus:паспорт (pasport). hin:पासपोर्ट (pāsporṭ). ben:পাসপোর্ট (pasporṭ). Ind:paspor. swa:paspoti. Jpn:パスポート pasupōto).|
 |peikko|guy|zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).|
 |peili|mirer|eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.|
 |peite (kansi)|deke|hin:ढकना (dhaknā). deu:decken. eng:deck.|
@@ -549,6 +553,7 @@
 |pestä|waxa|eng:wash. deu:waschen. zho:洗 (xǐ).|
 |pian|sun|eng:soon.|
 |pieni (pienesti, vähän)|lil|eng:little.|
+|pieru|pede|ben:পাদ (pad). hin:पाद (pād). spa:pedo. por:peido. fra:pet. rus:пердение (perdeniye).|
 |pihdit|pinser|eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).|
 |pihka (hartsi)|rezin|eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.|
 |piippu|pipe|spa:ind:pipa. eng:fra:pipe. fas:(pip). vie:píp.|
@@ -563,7 +568,7 @@
 |pippuri|pimente|spa:pimienta. tgl:pamenta.|
 |pisara (tippa)|yote|tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).|
 |piste (täplä)|punte|spa:punto. rus:пункт (punkt). eng:point.|
-|pitsa (pizza)|pize|ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
+|pitsa (pizza)|pize|ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
 |pitäisi|xudu|eng:should.|
 |pitää (pitää hallussa)|tena|spa:tener. fra:tenir. eng:contain.|
 |pitää (tykätä)|suku|jpn:好く (suku). ind: suka.|
@@ -692,6 +697,7 @@
 |sisarus (veli tai sisko)|saudar|ind:saudara. hin:सहोदर (sahodar). ben:সহোদর (sôhodôr).|
 |sisus (sisäpuoli)|inde|eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.|
 |sitruuna|limon|fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).|
+|sivistynyt|sivili|eng:civil. por:civil. hin:सिविल (sivil). ind:sipil.|
 |smaragdi|zumrude|ara:(zumurrud). fas:(zomorrod). tur:zümrüt. ind:zamrud. rus:изумруд (izumrud). swa:zumaridi.|
 |sohva|kanape|fra:por:spa:canapé. deu:Kanapee. rus:канапе (kanape). tur:kanepe. fas:(kânâpe). ara:(kanaba).|
 |sokeri|sukar|ara:(sukkar). swa:sukari. por:açúcar. spa:azúcar. kon:sukadi. hin:शक्कर (śakkar). tam:சக்கரை (cakkarai).|
@@ -717,7 +723,7 @@
 |suurkaupunki|site|eng:city. fra:cité. + zho:市 (shì). kor:시 (si). jpn:都市 (toshi).|
 |suu|boke|spa:por:boca.|
 |sydän|xim|kor: 심 (shim). zho:心 (xīn). jpn:心 (shin). yue:心 (sam1). hak:心 (sîm). vie:tim.|
-|syksy (syys)|oton|fra:automne. otoño. por:outono. eng:autumn.|
+|syksy (syys)|oton|fra:automne. spa:otoño. por:outono. eng:autumn.|
 |sylkeä|tuha|hin: थूकना (thūknā). zho: 吐 (tǔ). tur:tükürmek.|
 |synty (syntymä)|jen|hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.|
 |syreeni|lilake|tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).|
@@ -754,6 +760,7 @@
 |tasapuolinen (reilu)|egal|fra:égal. spa:por:igual. eng:equal.|
 |tasku|jebe|hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.|
 |tatuointi|tataw|sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).|
+|tauko (paussi)|pauze|eng:deu:fra:pause. spa:por:pausa. rus:пауза (pauza).|
 |taulukko|table|eng:table. fra:tableau. spa:tabla. rus:таблица (tablitsa). ind:tabel.|
 |tee|cay|zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).|
 |tehdä (valmistaa)|fata|ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.|
@@ -776,7 +783,7 @@
 |toiminta (tekeminen, karma)|karme|hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).|
 |toisiaan (keskenään)|unale|eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).|
 |toisto|repe|eng:rep(etition). spa:repetición. + vie:lặp.|
-|tomaatti|tomate|eng:tomato. spa:tomate. rus: (tomat).|
+|tomaatti|tomate|eng:tomato. por:spa:tomate. rus:томат (tomat). ind:tomat. hin:टमाटर (ṭamāṭar).|
 |tontti (maakaistale)|lote|por:lote. eng:fra:lot. spa:loteo.|
 |tori (basaari)|bazar|fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:bazar. eng:bazaar. rus:базар (bazar). ind: pasar. khm:ផ្សារ (psar).|
 |torni|minar|swa: mnara. tur: minare. + eng:minaret.|
@@ -856,7 +863,7 @@
 |vaurio (vahinko)|damaje|eng:damage. fra:dommage.|
 |vauva|bebe|fra:bébé. por:bebê. spa:bebé. tur:bebek. eng:baby. yue:BB (bibi).|
 |veitsi (puukko)|cake|hin:चाक़ू (cāqū). fas:(čâqu). nep:चक्कु (cakku). kan:ಚಾಕು (cāku).|
-|vene (laiva)|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti.|
+|vene (laiva)|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|
 |verho (huntu, peite)|hijabe|ara:(ḥijāb). fas:(hejâb). swa:hijabu. hau:hijabi. hin:हिजाब (hijāb). ben:হিজাব (hijab). eng:por:hijab. fra:hidjab. spa:hiyab. rus:хиджаб (xidžab).|
 |verhot|parde|ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).|
 |veri|sang|fra:sang. spa:sangre. por:sangue.|
@@ -919,6 +926,7 @@
 |ystävä (kaveri)|doste|tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).|
 |yö|noce|spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.|
 |zikkurat|zikur|ara:(ziqqūra). deu:Zikkurat. rus:зиккурат (zikkurat).|
+|zombi|zombe|kon:nzambi. Por:zumbi. eng:zombi. ind:zombi. hin:ज़ोंबी (zombī).|
 |äiti (emä)|mame|spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).|
 |ärsyttää (häiritä)|irita|eng:irritate. fra:irriter. spa:por:irritar. deu:irritieren. jpn:いらいらさせる (iraira saseru)|
 |ääni (äänestyksessä)|vote|eng:vote. spa:por:voto. hin:वोट (voṭ). rus:вотум (votum).|

@@ -2,7 +2,7 @@
 ##a
 accent - acente  
 accord - samoray  
-acheter - baya  
+acheter - xopa  
 actinium - acinium  
 adresse - adres  
 adulte - adulte  
@@ -15,7 +15,7 @@ agent pathogène - patojener
 agile - ajil  
 agression (attaque) - agres  
 aimer - ama  
-aire (superficie) - ar  
+aire (superficie) - are  
 alcool - alkol  
 alcoolique - alkoli  
 algue - alge  
@@ -62,6 +62,7 @@ aspirine - aspirin
 assez - bas  
 asthme - asme  
 autel - altar  
+automne - oton  
 autre - ali  
 aventure - abentur  
 aventurier - abenturer  
@@ -88,6 +89,7 @@ basketball - baskobol
 bateau - bote  
 besoin - nide  
 bibliothèque - kitabia  
+bicyclette - sikle  
 billet - tikete  
 bière - bir  
 blanc - baki  
@@ -132,6 +134,7 @@ croix - krus
 crème - krem  
 crème glacée - aisokrem  
 cube - kube  
+cycliste - sikliste  
 cytologie - selolojia  
 ##d
 dance - danse  
@@ -160,6 +163,7 @@ feu - pir
 fils ou fille - pute  
 fleur - pul  
 fourmi - maye  
+fragment - parce  
 frais - tazi  
 fromage - cis  
 fromage blanc - panir  
@@ -240,6 +244,8 @@ nécessaire - nidi
 ##o
 océan - dayosamude  
 oeuf - ande  
+oignon - piaze  
+oiseau - pakse  
 ombrelle (parasol) - solocate  
 opposant (antagoniste) - anter  
 orange (couleur) - oranji  
@@ -256,17 +262,26 @@ oxyde - okside
 pacifiste - paciste  
 pain - pang  
 paix - pace  
+palais - gunden  
 pantoufle (babouche) - babuce  
+papaye - papay  
+papier - papir  
+paquet - pake  
 parapluie - barxocate  
+parc - parke  
 parler - loga  
+passeport - pasporte  
 pastèque - arbuze  
 pathologie - patolojia  
+pause - pauze  
 perroquet - papagay  
+pet (vesse) - pede  
 peu - xaw  
 photo (photographie) - fotografe  
 photographie - fotografia  
 pile (batterie) - batre  
 piraterie - piratia  
+pizza - pize  
 pièce (chambre) - kamar  
 placard - almar  
 pluie - barxe  
@@ -282,6 +297,7 @@ problématique - venti
 propriété (possession, bien) - malke  
 psychologie - ruholojia  
 psyché - ruhe  
+péter - peda  
 que (quoi) - ke  
 ##r
 racine - rize  
@@ -305,6 +321,7 @@ se baigner - banyu
 se rappeler (se remémorer) - mema  
 sel - sal  
 sexe - sekse  
+shopping - xope  
 si - gar  
 soldat - lasker  
 soleil - sol  
@@ -335,6 +352,7 @@ travailleur (ouvrier) - werker
 tribord - botoraite  
 tu - te  
 Tunisie - tunisia  
+turban - pagre  
 téléphone - telofon  
 téléviseur - telowide  
 tête - sar  
@@ -375,6 +393,7 @@ zèbre - zebre
 électricité - eletre  
 émeraude - zumrude  
 épices - masal  
+épingle - pin  
 épreuve (test) - teste  
 équipe - tim  
 étoile - xing  
