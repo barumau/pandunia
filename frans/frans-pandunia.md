@@ -111,6 +111,7 @@ carte - karde
 carte - karte  
 cartographie - kartografia  
 centre - jung  
+changement climatique - klimomute  
 chapitre - babe  
 chemise - kamis  
 Chine - jungogia  
@@ -139,6 +140,7 @@ destin (destination) - destin
 deux - dul  
 diamant - almas  
 dieu - dew  
+dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
 domestique - domi  
 dommage - damaje  
@@ -147,7 +149,6 @@ drapeau - bandir
 droit (rectiligne) - orti  
 ##e
 Einsteinium - ainstainium  
-Einsteinium - binde  
 enfant - bace  
 erroné - galti  
 Europe - europe  
@@ -168,6 +169,7 @@ gaz - gas
 genre (espèc) - jinse  
 gingembre - zinje  
 giraffe - jiraf  
+goule - gul  
 ##h
 heure - hor  
 hiver - zime  
@@ -249,6 +251,7 @@ orthogonal - ortogoni
 ou - o  
 oublier - memula  
 oui - si  
+oxyde - okside  
 ##p
 pacifiste - paciste  
 pain - pang  
@@ -281,6 +284,7 @@ psychologie - ruholojia
 psyché - ruhe  
 que (quoi) - ke  
 ##r
+racine - rize  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
@@ -339,6 +343,7 @@ unité fondamentale - em
 uranium - uranium  
 ##v
 vagine - vagin  
+vampire - vampir  
 vase - vaze  
 Venezuela - venezolia  
 ver - verme  

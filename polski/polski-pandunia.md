@@ -1,7 +1,5 @@
 # polski-pandunia
  być umiejscowionym (być ulokowanym, stać) - loku  
-"migracja - migre  
-"sztuka - arte  
 ##a
 adres - adres  
 Afganistan - afgania  
@@ -362,6 +360,7 @@ dusza, duch, umysł - ruhe
 duży; bardzo - day  
 dwa (2) - dul  
 dwukrotnie (dwa razy) - dul ban  
+dwutlenek węgla - karbonodulokside  
 dym - duman  
 dyrektor szkoły - darsoxef  
 dysk - diske  
@@ -496,6 +495,7 @@ genderqueer, niebinarny - bis
 german - germanium  
 gest - jeste  
 Ghana - gania  
+ghul - gul  
 Gibraltar - jibraltar  
 gitara - gitar  
 glin (aluminium) - alumin  
@@ -813,7 +813,7 @@ Koran - kuran
 Korea Południowa - hangogia  
 korek, zatyczka, szpunt - tape  
 korona - koron  
-korzeń - gen  
+korzeń - rize  
 kosmiczny - kosmi  
 kosmos, wszechświat - kosmia  
 Kostaryka - kostarikia  
@@ -1041,6 +1041,7 @@ mieć (partykuła posiadania) - da
 mieć (posiadać) - malka  
 mieć (trzymać) - tena  
 migdał - badam  
+migracja - migre  
 mikro- - mikro-  
 Mikronezja - mikronesia  
 mikser, blender, robot kuchenny - mixer  
@@ -1280,6 +1281,7 @@ ojciec - pape
 okej, spoko, akceptowalny - okey  
 okno - janel  
 oko - kan  
+około; przybliżony - yagi  
 okrągły - cirki  
 oliwka - zaitun  
 Oman - omania  
@@ -1543,8 +1545,7 @@ pozdrowienie - salame
 pozdrowić, pozdrawiać - salama  
 pozostałość, reszta - reste  
 pozować, ustawiać się - poza  
-pozwolenie, zezwolenie - permis  
-pozwolić, pozwalać, zezwolić, zezwalać - permisa  
+pozwolić, pozwalać, zezwolić, zezwalać - halala  
 połknąć (połykać) - gula  
 południe - sude  
 Południowa Afryka - sudafrikia  
@@ -1964,6 +1965,7 @@ szokwstrząs; kolizja - xoke
 szparag; szparagia - lusun  
 szron - himorose  
 sztuczny - sani  
+sztuka - arte  
 sztuka walki - jengoxute  
 sztylet (puginał) - kanjar  
 szukać - serca  
@@ -2047,6 +2049,7 @@ też, również - plus
 tikka - tike  
 tikka masala - masali tike  
 tlen - okse  
+tlenek - okside  
 toczyć, turlać - rula  
 togijski - togoli  
 Togo - togolia  
@@ -2186,7 +2189,6 @@ wersja (wariacja, edycja, wydanie) - version
 wesoły, ucieszony - suki  
 wewnętrzny - indi  
 wewnętrzny - indojeni  
-wiadomość -   
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notis  
 wiadomy, znany - jani  
@@ -2256,7 +2258,6 @@ wow!, łoł!, jej! - waw
 wołowina - muhomanse  
 wrzesień - mes 6 (mes sis)  
 wrócić, wracać, wycofać się, wycofywać się - retra  
-wróżka, skrzydlaty duszek - peri  
 wsad, partia, porcja, seria - lote  
 wschód - dong  
 wskazać, wskazywać - ponta  
@@ -2343,7 +2344,6 @@ zagraniczny - way dexi
 zagrożenie, niebezpieczeństwo - hatre  
 zainteresowanie, zaciekawienie; interesujący - interes  
 zajęty - bizi  
-zakomunikować (zanieść wieści, poinformować) -   
 zakrzywiony - kurbi  
 Zambia - zambia  
 zamek błyskawiczny - ziper  
@@ -2403,6 +2403,7 @@ Zimbabwe - zimbabia
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
 zjednoczony - uni  
+zmiana klimatu - klimomute  
 zmienić, zmieniać - muta  
 zmierzyć - meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  

@@ -156,6 +156,7 @@ kamis - 衬衫
 kanape - 沙发  
 kance - 玻璃  
 kande - 糖果  
+karbonodulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
 kartografia - 地图学  
@@ -166,6 +167,7 @@ kirmi - 红
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
+klimomute - 气候变化  
 komputer - 计算机  
 kosmi - 宇宙的  
 kosmia - 宇宙  
@@ -220,6 +222,7 @@ note - 便条
 novi - 新  
 o - 或  
 ##o
+okside - 氧化物  
 oranje - 橙子  
 oranji - 橙色  
 orti - 直  
@@ -251,6 +254,7 @@ putong - 普通
 reste - 其余  
 retra - 返回 (回来)  
 retrotikete - 往返票  
+rize - 根  
 ##s
 sabun - 肥皂  
 safar - 旅行  
@@ -298,6 +302,7 @@ umur - 年岁
 ura - 好哇  
 ##v
 vagin - 阴道  
+vampir - 吸血鬼  
 veje - 蔬菜  
 vejoniamiste - 素食主义者  
 vente - 问题 (难题)  

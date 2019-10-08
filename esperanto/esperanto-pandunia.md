@@ -619,6 +619,7 @@ kapro - buze
 kapti - kapa  
 karateo - karate  
 karavano - karwan  
+karbona dioksido - karbonodulokside  
 karbono - karbon  
 Karibio - karibia  
 karoto - karote  
@@ -859,7 +860,6 @@ memoro - mem
 merdo - xite  
 merkato (bazaro) - bazar  
 Merkuro - budan  
-mesaĝo -   
 mesaĝo - anjil  
 metalo - metal  
 metiero - pexe  
@@ -974,6 +974,7 @@ ofte - cang
 oganesono - oganeson  
 ogro (trolo) - guy  
 ok (8) - bal  
+oksido - okside  
 oksigeno - okse  
 okulo - kan  
 okulumi - kana  
@@ -1125,7 +1126,7 @@ purigisto - safer
 racismo - rasistia  
 racisto - rasiste  
 raco - ras  
-radiko - gen  
+radiko - rize  
 radio - radi geter  
 radiumo - radium  
 rado - cakre  

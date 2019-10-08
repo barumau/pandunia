@@ -711,7 +711,6 @@ gazel - gazelle
 gem - game  
 gema - play a game  
 gemer - player (gamer)  
-gen - root  
 genca - examine (inspect, check)  
 genzia - Guernsey  
 germanium - germanium  
@@ -751,6 +750,7 @@ gubuh - hippopotamus
 gude - horse  
 guhe - cave  
 gujarati - Gujarati  
+gul - ghoul  
 gula - swallow  
 gune - quality (excellence, virtue, merit)  
 guni - excellent  
@@ -779,6 +779,7 @@ hake - right (justification, privilege)
 hakim - judgment (sentence)  
 hakimer - judge (referee)  
 halal - permissible (allowed, halal)  
+halala - allow (permit)  
 halela - praise (commend, exalt)  
 hali - empty  
 halif - caliph  
@@ -838,7 +839,7 @@ himorose - frost
 hindiste - Hindu  
 hindistia - Hinduism  
 hisaba - calculate  
-hisabia - arithmetic  
+hisabia - arithmetics  
 histor - history (annals)  
 historer - historian  
 historia - history (study of history)  
@@ -1040,6 +1041,7 @@ karaoke - karaoke
 karate - karate  
 karawe - caraway  
 karbon - carbon (coal)  
+karbonodulokside - carbon dioxide  
 karbu - approach (get near)  
 karde - card  
 karibia - Caribbean  
@@ -1121,6 +1123,7 @@ klas - class (category)
 klasa - classify (categorize)  
 klime - climate  
 klimolojia - climatology  
+klimomute - climate change  
 klon - clone (replica)  
 klona - clone (replicate)  
 klor - chlorine  
@@ -1712,6 +1715,7 @@ oganeson - oganesson
 okey - okay (acceptable)  
 okeya - accept (to say okay)  
 okse - oxygen  
+okside - oxide  
 olandia - Aland Islands  
 omania - Oman  
 onor - respect (honor, esteem)  
@@ -1826,9 +1830,6 @@ pepin - cucumber
 per - feather  
 perda - fart (flatulate)  
 perde - fart (flatulence)  
-peri - fairy  
-permis - permission  
-permisa - allow (permit)  
 peruwia - Peru  
 pese - money  
 pesodiske - coin  
@@ -2017,6 +2018,7 @@ riske - risk
 riski - risky  
 rite - ritual (ceremony)  
 ritme - rhythm (beat)  
+rize - root  
 robote - robot  
 rodium - rhodium  
 rokete - rocket  
@@ -2441,6 +2443,7 @@ uzer - user
 vagin - vagina  
 vaksin - vaccine  
 vale - valley  
+vampir - vampire  
 vanil - vanilla  
 vanuatia - Vanuatu  
 vatikania - Holy See (Vatican City State)  
@@ -2581,6 +2584,7 @@ xuti - skillful
 xuxe - rest (relief)  
 ##y
 yaga - estimate (approximate)  
+yagi - about (approximately)  
 yake - yak  
 yala - hurry (hasten)  
 yang - kind (type, style)  

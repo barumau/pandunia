@@ -1,7 +1,5 @@
 # pandunia-polski
  - misa, kubek bez ucha  
- - wiadomość  
- - zakomunikować (zanieść wieści, poinformować)  
 -a - przyrostek dla czasowników z szykiem zdania SVO  
 -e - przyrostek dla (wyniku) działania  
 -i - przyrostek dla przymiotnika  
@@ -89,7 +87,7 @@ argon - argon
 aria - powierzchnia, region, teren  
 arize - ryż  
 arsen - arsen  
-arte - "sztuka  
+arte - sztuka  
 arter - artysta  
 arubia - Aruba  
 asan - postawa ciała; asana  
@@ -658,7 +656,6 @@ gazel - gazela
 gem - gra  
 gema - grać w grę  
 gemer - gracz  
-gen - korzeń  
 genca - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 genzia - Guernsey  
 germanium - german  
@@ -699,6 +696,7 @@ gubuh - hipopotam
 gude - koń  
 guhe - jaskinia  
 gujarati - Gudżarat  
+gul - ghul  
 gula - połknąć (połykać)  
 gune - cecha, atrybut, własność; -ość  
 gur - guru, mistrz  
@@ -722,6 +720,7 @@ hake - prawo, przywilej
 hakim - wyrok  
 hakimer - sędzia  
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
+halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halela - chwalić (wychwalać)  
 hali - pusty  
 halif - kalif  
@@ -967,6 +966,7 @@ karaoke - karaoke
 karate - karate  
 karawe - kminek  
 karbon - węgiel  
+karbonodulokside - dwutlenek węgla  
 karde - karta  
 karibia - Karaiby  
 karite - masłosz Parka  
@@ -1040,6 +1040,7 @@ klas - klasa, kategoria
 klasa - klasyfikować, kategoryzować  
 klime - klimat  
 klimolojia - klimatologia  
+klimomute - zmiana klimatu  
 klon - klon, replika  
 klona - klonować, repilikować  
 klor - chlor  
@@ -1390,7 +1391,7 @@ mianmia - Mjanma, Birma
 micin - glutaminian sodu  
 mien - makaron  
 migan - mandarynka  
-migre - "migracja  
+migre - migracja  
 mikro- - mikro-  
 mikronesia - Mikronezja  
 milke - mleko  
@@ -1605,6 +1606,7 @@ oganeson - oganesson
 okey - okej, spoko, akceptowalny  
 okeya - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okse - tlen  
+okside - tlenek  
 olandia - Wyspy Alandzkie  
 omania - Oman  
 onor - respekt, honor, szacunek, poważanie  
@@ -1710,9 +1712,6 @@ pepin - ogórek
 per - pióro  
 perda - pierdzieć  
 perde - pierdnięcie  
-peri - wróżka, skrzydlaty duszek  
-permis - pozwolenie, zezwolenie  
-permisa - pozwolić, pozwalać, zezwolić, zezwalać  
 peruwia - Peru  
 pese - pieniądze  
 pesodiske - moneta  
@@ -1895,6 +1894,7 @@ riske - ryzyko
 riski - ryzykowny  
 rite - rytuał, ceremonia, ryt  
 ritme - rytm, bit  
+rize - korzeń  
 robote - robot  
 rodium - rod  
 rokete - rakieta  
@@ -2431,6 +2431,7 @@ xuti - umiejętny (wprawny)
 xuxe - zostawić, zostawiać  
 ##y
 yaga - oszacować, szacować, przybliżyć, przybliżać  
+yagi - około; przybliżony  
 yake - jak (zwierzę)  
 yala - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 yang - rodzaj, typ, styl  

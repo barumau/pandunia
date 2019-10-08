@@ -320,6 +320,7 @@ garam masala - garmi masal
 gaselli - gazel  
 germanium - germanium  
 Ghana - gania  
+ghouli - gul  
 Gibraltar - jibraltar  
 ginseng - jenxen  
 gluteeni - gluten  
@@ -405,6 +406,7 @@ hiekka - rege
 hieno (hienojakoinen) - fain  
 hieronta - masaje  
 hiili - karbon  
+hiilidioksidi - karbonodulokside  
 hiiri - mux  
 hiiva - hamir  
 hiki - suede  
@@ -515,6 +517,7 @@ ilmanpaine - airobar
 ilmapallo - balon  
 ilmapuntari (ilmanpainemittari, barometri) - airobarometer  
 ilmasto - klime  
+ilmastonmuutos - klimomute  
 ilmastotiede (klimatologia) - klimolojia  
 ilmavoimat - airolaskeria  
 ilmiasu (ulkonäkö) - rupe  
@@ -616,7 +619,7 @@ junakaappari - trenokaper
 junarata (rautatie) - trenodaw  
 Jupiter - muxing  
 jutella (höpistä) - blabla  
-juuri - gen  
+juuri - rize  
 juusto - cis  
 juustokumina (jeera) - ziran  
 juutalainen - yehudi  
@@ -727,7 +730,6 @@ kebab (varrasliha) - kababe
 kehitys - fajan  
 keho (ruumis) - badan  
 keidas - wase  
-keiju - peri  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - sani  
 keinotekoinen kieli (tekokieli, keinokieli) - sanobax  
@@ -1110,7 +1112,6 @@ luokka (kategoria) - klas
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luonto - ekia  
-lupa - permis  
 lusikka - camce  
 luterilainen - lutaristi  
 luterilaisuus - lutaristia  
@@ -1400,6 +1401,7 @@ niobium - niobium
 nisäkäs - mamal  
 Niue - niwia  
 nobelium - nobelium  
+noin (arviolta, suunnilleen) - yagi  
 nolla (ei yhtään) - nol  
 nopea (pikainen, vauhdikas) - rapi  
 nopeus (vauhti) - rape  
@@ -1450,6 +1452,7 @@ oikeus (oikeutus) - hake
 oikeus - adalia  
 oivaltaa (tajuta) - aha  
 oksa (haara) - xake  
+oksidi - okside  
 oliivi - zaitun  
 olkapää (hartia) - kante  
 olla - esa  
@@ -1882,7 +1885,7 @@ saksalainen - doici
 sakset - makas  
 salaatti - salade  
 salainen - sir  
-sallia (antaa lupa) - permisa  
+sallia (antaa lupa) - halala  
 sallia - tolera  
 sallittu (hyväksytty) - halal  
 Salomon-saaret - solomon da nesia  
@@ -2445,10 +2448,8 @@ vielä (yhä) - hay
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  
-viesti -   
 viesti - anjil  
 viestintuoja (airut) - anjiler  
-viestiä (kommunikoida) -   
 Vietnam - vietia  
 vietnamilainen - vieti  
 viha (suuttumus, raivo) - furia  

@@ -118,7 +118,6 @@ baze - base
 bebe - bébé  
 bere - baie  
 bina - construire  
-binde - Einsteinium  
 bir - bière  
 bol - ball  
 bombe - bombe  
@@ -166,6 +165,7 @@ galti - erroné
 gar - si  
 gas - gaz  
 gol - but  
+gul - goule  
 ##h
 haime - tente  
 hami - important  
@@ -196,6 +196,7 @@ kamar - pièce (chambre)
 kamis - chemise  
 kanape - canapé (sofa)  
 kance - verre  
+karbonodulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
 kartografia - cartographie  
@@ -205,6 +206,7 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
+klimomute - changement climatique  
 komputer - ordinateur  
 koron - couronne  
 kosmi - cosmique  
@@ -262,6 +264,7 @@ note - note
 novi - nouveau  
 o - ou  
 ##o
+okside - oxyde  
 oranje - orange (fruit)  
 oranji - orange (couleur)  
 orti - droit (rectiligne)  
@@ -291,6 +294,7 @@ reste - reste
 retra - retourner (revenir)  
 retrotikete - Aller-retour  
 rim - rime  
+rize - racine  
 ruhe - psyché  
 ruholojia - psychologie  
 ##s
@@ -340,6 +344,7 @@ ura - hourra
 uranium - uranium  
 ##v
 vagin - vagine  
+vampir - vampire  
 vaze - vase  
 vejoniamiste - végétarien  
 venezolia - Venezuela  

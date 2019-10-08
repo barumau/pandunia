@@ -1,7 +1,5 @@
 # pandunia-suomi
  - kulho  
- - viesti  
- - viestiä (kommunikoida)  
 -a - pääte: SVO-sanajärjestyksen verbi  
 -e - pääte: substantiivi  
 -es - -us (-uus)  
@@ -704,7 +702,6 @@ gazel - gaselli
 gem - peli  
 gema - pelata  
 gemer - pelaaja  
-gen - juuri  
 genca - tutkia  
 genzia - Guernsey  
 germanium - germanium  
@@ -744,6 +741,7 @@ gubuh - virtahepo
 gude - hevonen  
 guhe - luola  
 gujarati - gujarati (eräs intialainen kieli)  
+gul - ghouli  
 gula - niellä  
 gune - laatu (laadukkuus, erinomaisuus, hyvyys)  
 guni - laadukas (hyvä)  
@@ -772,6 +770,7 @@ hake - oikeus (oikeutus)
 hakim - tuomio  
 hakimer - tuomari  
 halal - sallittu (hyväksytty)  
+halala - sallia (antaa lupa)  
 halela - ylistää  
 hali - tyhjä  
 halif - kalifi  
@@ -1033,6 +1032,7 @@ karaoke - karaoke
 karate - karate  
 karawe - kumina  
 karbon - hiili  
+karbonodulokside - hiilidioksidi  
 karbu - lähestyä  
 karde - kortti  
 karibia - Karibia  
@@ -1113,6 +1113,7 @@ klas - luokka (kategoria)
 klasa - luokitella (kategorisoida)  
 klime - ilmasto  
 klimolojia - ilmastotiede (klimatologia)  
+klimomute - ilmastonmuutos  
 klon - klooni (identtinen kopio)  
 klona - kloonata (monistaa)  
 klor - kloori  
@@ -1696,6 +1697,7 @@ oganeson - oganesson
 okey - kelpo (okei)  
 okeya - hyväksyä  
 okse - happi  
+okside - oksidi  
 olandia - Ahvenanmaa (Oolanti)  
 omania - Oman  
 onor - kunnioitus (arvostus)  
@@ -1810,9 +1812,6 @@ pepin - kurkku
 per - sulka  
 perda - pierrä (pieraista)  
 perde - pieru  
-peri - keiju  
-permis - lupa  
-permisa - sallia (antaa lupa)  
 peruwia - Peru  
 pese - raha  
 pesodiske - kolikko  
@@ -2000,6 +1999,7 @@ riske - riski
 riski - riskialtis  
 rite - riitti (rituaali, seremonia)  
 ritme - rytmi  
+rize - juuri  
 robote - robotti  
 rodium - rhodium  
 rokete - raketti  
@@ -2524,6 +2524,7 @@ xuti - taitava
 xuxe - lepo  
 ##y
 yaga - arvioida  
+yagi - noin (arviolta, suunnilleen)  
 yake - jakki  
 yala - kiirehtiä  
 yang - laji (tyyppi, tyyli)  

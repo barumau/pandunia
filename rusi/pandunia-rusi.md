@@ -112,6 +112,7 @@ fotografia - фотография
 gar - если  
 gas - газ  
 gol - цель  
+gul - гуль (вурдалак)  
 gula - глотать  
 ##h
 habar - новости  
@@ -147,6 +148,7 @@ kamis - рубашка
 kanape - канапе  
 kance - стекло  
 kanjar - кинжал  
+karbonodulokside - двуокись углерода  
 karde - карта  
 karte - карта  
 kartografia - картография  
@@ -158,6 +160,7 @@ kitabe - письмо
 kitabia - библиотека  
 kitabomaxin - пишущая машинка  
 klime - климат  
+klimomute - изменение климата  
 komputer - компьютер  
 kor - хор  
 koron - корона  
@@ -210,6 +213,7 @@ note - запись (заметка)
 novi - новый  
 o - или  
 ##o
+okside - окись (оксид)  
 oranje - апельсин  
 oranji - оранжевый  
 orti - прямой  
@@ -234,6 +238,7 @@ pul - цветок
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
+rize - корень  
 ruhe - душа (дух)  
 ##s
 safran - шафран  
@@ -282,6 +287,7 @@ umur - возраст
 ura - ура  
 ##v
 vagin - влагалище (вагина)  
+vampir - вампир (упырь)  
 vaze - ваза  
 vejoniamiste - вегетарианец  
 vente - проблема  

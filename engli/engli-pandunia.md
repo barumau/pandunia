@@ -5,6 +5,7 @@
 a couple of - dul u tin  
 ##a
 ability (skill) - able  
+about (approximately) - yagi  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
 accent (stress) - acente  
@@ -51,7 +52,7 @@ algebra - jebria
 Algeria - jayeria  
 all - pan  
 allophone - alofone  
-allow (permit) - permisa  
+allow (permit) - halala  
 alphabet - abace  
 already (completed action) - lew  
 also (plus, too) - plus  
@@ -111,7 +112,7 @@ Argentina - argentin
 argon - argon  
 argue (claim) - tesa  
 argument (thesis) - tese  
-arithmetic - hisabia  
+arithmetics - hisabia  
 army - laskeria  
 arsenic - arsen  
 art - arte  
@@ -374,6 +375,7 @@ carat - kirate
 caravan (convoy) - karwan  
 caraway - karawe  
 carbon (coal) - karbon  
+carbon dioxide - karbonodulokside  
 card - karde  
 care (cure) - kura  
 Caribbean - karibia  
@@ -460,6 +462,7 @@ clean (purify) - safa
 cleaner - safer  
 clear (not obscured) - klar  
 climate - klime  
+climate change - klimomute  
 climatology - klimolojia  
 clone (replica) - klon  
 clone (replicate) - klona  
@@ -785,7 +788,6 @@ face - muke
 face powder - mukofun  
 factory - fateria  
 failure (flop) - xibay  
-fairy - peri  
 Falkland Islands (Malvinas) - malbinas da nesia  
 fall - padu  
 false (fake) - falsi  
@@ -925,6 +927,7 @@ get (receive, obtain, take) - geta
 getter (receiver, recipient) - geter  
 Ghana - gania  
 ghost (fantom) - fantom  
+ghoul - gul  
 Gibraltar - jibraltar  
 gift - don  
 ginger - zinje  
@@ -1665,6 +1668,7 @@ overpass - supre
 own (particle of possession) - da  
 own - malka  
 owner (proprietor) - malker  
+oxide - okside  
 oxygen - okse  
 ##p
 pacifism - pacistia  
@@ -1734,7 +1738,6 @@ people (population) - deme
 pepper (Piper nigrum) - pimente  
 perfect - kamili  
 permissible (allowed, halal) - halal  
-permission - permis  
 Persian (Farsi) - farsi  
 person (people) - ren  
 personal (intimate, private) - tani  
@@ -2015,7 +2018,7 @@ romantic - romansi
 Rome - rome  
 roof - cate  
 room (chamber) - kamar  
-root - gen  
+root - rize  
 rose - roze  
 rotate (make spin) - rota  
 rotate (spin, turn on an axis) - rotu  
@@ -2494,6 +2497,7 @@ vacuum cleaner - funocuper
 vagina - vagin  
 valley - vale  
 valve (tap, faucet) - kran  
+vampire - vampir  
 vanilla - vanil  
 Vanuatu - vanuatia  
 vapour - suyogas  

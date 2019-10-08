@@ -1,5 +1,4 @@
 # pandunia-esperanto
- - mesaĝo  
 -a - -i (-igi)  
 -e - -o (-aĵo)  
 -es - -eco  
@@ -537,7 +536,6 @@ gazel - gazelo
 gem - ludo  
 gema - ludi  
 gemer - ludanto  
-gen - radiko  
 germanium - germaniumo  
 geta - akiri (ricevi, preni)  
 gey - samseksema  
@@ -753,6 +751,7 @@ kar - aŭto (ĉaro)
 karate - karateo  
 karawe - karvio  
 karbon - karbono  
+karbonodulokside - karbona dioksido  
 karde - karto  
 karibia - Karibio  
 karma - agi  
@@ -1071,6 +1070,7 @@ o - ho!
 oganeson - oganesono  
 okey - akceptebla (okej)  
 okse - oksigeno  
+okside - oksido  
 onor - honoro (respekto)  
 onori - respektinda  
 or - orelo  
@@ -1207,6 +1207,7 @@ retre - reiro
 rezin - rezino  
 riske - risko  
 riski - riska  
+rize - radiko  
 robote - roboto  
 rodium - rodio  
 rola - ludi rolon  
