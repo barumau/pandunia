@@ -19,7 +19,7 @@
   * [English](../engli/index.md)
   * [español](../espani/index.md)
   * [Esperanto](../esperanto/index.md)
-  * [français](../frans/index.md)
+  * [français](../fransi/index.md)
   * [indonesia](../malayu/index.md)
   * [日本語](../nipon/index.md)
   * [pandunia](../pandunia/index.md)
