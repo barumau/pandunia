@@ -32,43 +32,41 @@ taivutukset, sija- ja persoonamuodot, jne.
 
 ## Yksinkertaisia lauseita
 
-Pandunian lauseet perustuvat sanoihin ja muutamaan yksinkertaiseen
-sanajärjestyssääntöön. Siinä kaikki! Lauseenosien järjestys on sama
-kuin englannissa eli tekijä, teonsana ja teon kohde (eli subjekti,
-verbi ja objekti).
+Pandunian lauseet perustuvat sanoihin ja muutamaan yksinkertaiseen sanajärjestyssääntöön.
+Siinä kaikki! Lauseenosien järjestys on sama kuin englannissa
+eli tekijä, teonsana ja teon kohde (eli subjekti, verbi ja objekti).
 
-**mi nyama pal.** - Minä syön hedelmää. (tai) Minä söin hedelmiä.
+**me niama pal.** - Minä syön hedelmää. (tai) Minä söin hedelmiä.
 
 Tässä lauseessa on kolme huomionarvoista seikkaa, jotka poikkeavat
 suomen kielestä ja eurooppalaisista kielistä yleensä.
 
-1. Verbi on taipumaton eli verbillä ei ole aikamuotoa. Sana **nyama**
-   tarkoittaa syömistä yleensä.
-2. Yksikköä ja monikkoa ei eroteta. Niinpä **pal** voi tarkoittaa
-   yhtä tai useampaa hedelmää.
-3. Määräistä ja epäämääräistä artikkelia ei käytetä. Tässä suhteessa
-   pandunia muistuttaa mm. suomea, venäjää, turkkia, kiinaa ja hindiä,
+1. Verbi on taipumaton eli verbillä ei ole aikamuotoa.
+   Sana **niama** tarkoittaa syömistä yleensä.
+2. Yksikköä ja monikkoa ei eroteta.
+   Niinpä **pal** voi tarkoittaa yhtä tai useampaa hedelmää.
+3. Määräistä ja epäämääräistä artikkelia ei käytetä.
+   Tässä suhteessa pandunia muistuttaa mm. suomea, venäjää, turkkia, kiinaa ja hindiä,
    joissa ei myöskään käytetä artikkeleita.
 
-Kannattaa huomata vielä yksi seikka. Panduniassa aktiiviset verbit
-päättyvät useimmiten a-kirjaimeen. Vastaava substantiivi päättyy
-e:hen. Niinpä sana **nyama** tarkoittaa syöntiä ja **nyam**
-tarkoittaa ruokaa eli syömistä. Lause **mi nyama nyam.** tarkoittaa
-siis "Minä syön ruokaa." Vastaavasti **mi canta cante.** tarkoittaa
-"Minä laulan lauluja."
+Kannattaa huomata vielä yksi seikka.
+Panduniassa aktiiviset verbit päättyvät useimmiten a-kirjaimeen.
+Vastaava substantiivi päättyy e:hen.
+Niinpä sana **niama** tarkoittaa syöntiä ja **niam** tarkoittaa ruokaa eli syömistä.
+Lause **me niama niam.** tarkoittaa siis "Minä syön ruokaa."
+Vastaavasti **me canta cante.** tarkoittaa "Minä laulan lauluja."
 
 
 
 ## Yksi sana = yksi käsite
 
-Pandunian sanat ovat yksinkertaisia. Ne nimeävät yhden esineen,
-asian, teon tai laadun ja ei mitään muuta.
+Pandunian sanat ovat yksinkertaisia.
+Ne nimeävät yhden esineen, asian, teon tai laadun ja ei mitään muuta.
 
-Yksi tämän periaatteen ilmenemismuoto on se, että substantiiveihin
-ei kuulu lukua. Kuten edellä mainittiin, sana **pal** tarkoittaa
-hedelmiä yleensä. Se siis kattaa suomen sanat _hedelmä, hedelmät_ ja
-_hedelmiä_. Määrä ilmaistaan erillisellä lukusanalla tai muulla
-määrää ilmaisevalla sanalla.
+Yksi tämän periaatteen ilmenemismuoto on se, että substantiiveihin ei sisälly lukua.
+Kuten edellä mainittiin, sana **pal** tarkoittaa hedelmiä yleensä.
+Se siis kattaa suomen sanat _hedelmä, hedelmät_ ja _hedelmiä_.
+Määrä ilmaistaan erillisellä lukusanalla tai muulla määrää ilmaisevalla sanalla.
 
 **pal** - hedelmä, hedelmiä, hedelmät  
 **un pal** - yksi hedelmä  
@@ -76,16 +74,12 @@ määrää ilmaisevalla sanalla.
 **xaw pal** - vähän hedelmiä  
 **pol pal** - paljon hedelmiä
 
-Lisäksi paljoutta voi ilmaista toistamalla sanan.  
-**pal pal** - paljon hedelmiä
-
-Pandunia ei ole ensimmäinen kieli, jossa ei eroteta yksikköä ja
-monikkoa. Monessa muussa kielessä toimitaan samalla tavalla, mukaan
-lukien turkki, japani, kiina ja indonesia. Erillisten sanojen käyttö
-on helpompaa kuin sanojen taivuttaminen. Mieti, miltä ulkomaalaisesta
-tuntuu opetella monikkomuotoja kuten
+Pandunia ei ole ensimmäinen kieli, jossa ei eroteta yksikköä ja monikkoa.
+Monessa muussa kielessä toimitaan samalla tavalla, mukaan lukien turkki, japani, kiina ja malaiji.
+Erillisten sanojen käyttö on helpompaa kuin sanojen taivuttaminen.
+Mieti, miltä ulkomaalaisesta tuntuu opetella monikkomuotoja kuten
 _mies–miehet, nainen–naiset, poika–pojat_.
-Jopa englannin kieli on hankala tältä osalta, katso esim. näitä:
+Jopa englannin kieli on hankala tältä osalta, ajattele esim. näitä:
 _man–men, mouse–mice, sheep–sheep, dog–dogs, alga–algae, phenomenon–phenomena_.
 
 
@@ -93,26 +87,24 @@ _man–men, mouse–mice, sheep–sheep, dog–dogs, alga–algae, phenomenon–
 ## Helpot pronominit
 
 Pandunian yksikölliset persoonapronominit ovat:  
-**mi** : minä  
-**tu** : sinä  
-**ye** : hän/se
+**me** : minä  
+**te** : sinä  
+**le** : hän/se
 
-Nämä ovat todellakin yksikkömuotoja! Lähes kaikissa maailman kielissä
-on eri persoonapronominit yksikölle ja monikolle, vaikka kielessä ei
-muuten erotettaisi yksikköä ja monikkoa.
+Nämä ovat todellakin yksikkömuotoja!
+Lähes kaikissa maailman kielissä on eri persoonapronominit yksikölle ja monikolle,
+vaikka kielessä ei muuten erotettaisikaan yksikköä ja monikkoa.
 
-Panduniassa käytetään suomen kielen tapaan kaikki sukupuolet kattavia
-pronomineja. Ne ovat toimivia ja yksinkertaisempia kuin esimerkiksi
-arabian pronominit, joissa kaikissa persoonissa on käytössä sekä
-maskuliiniset että feminiiniset muodot. Kolmannessa persoonassa
-käytetään vain yhtä sanaa, kuten suomen murteissa käytetään sanaa
-"se".
+Panduniassa käytetään suomen kielen tapaan kaikki sukupuolet kattavia pronomineja.
+Ne ovat toimivia ja yksinkertaisempia kuin esimerkiksi arabian pronominit,
+joissa kaikissa persoonissa on käytössä sekä maskuliiniset että feminiiniset muodot.
+Kolmannessa persoonassa käytetään vain yhtä sanaa, kuten suomen murteissa käytetään sanaa "se".
 
-Monikon persoonapronominit muodostetaan lisäämällä loppuun **-men**.
+Monikon persoonapronominit muodostetaan seuraavasti:
 
-**mimen** : me  
-**tumen** : te  
-**yemen** : he/ne
+**mome** : me  
+**tote** : te  
+**lole** : he/ne
 
 
 
@@ -122,45 +114,46 @@ Panduniassa ei käytetä olla-verbiä.
 
 Lauseen tekijä ilmaisee persoonan.
 
-**mi doste.** - Minä olen ystävä.  
-**tu doste.** - Sinä olet ystävä.
+**me doste.** - Minä olen ystävä.  
+**te doste.** - Sinä olet ystävä.
 
 Lauseen tekijä ilmaisee myös luvun (yksikön ja monikon).
 
-**ye doste.** - Hän on ystävä.  
-**yemen doste.** - He ovat ystäviä.
+**le doste.** - Hän on ystävä.  
+**lole doste.** - He ovat ystäviä.
 
 Kieltomuoto muodostetaan sanalla **no**.
 
-**ye no doste.** - Hän ei ole ystävä.  
-**tamen no doste.** - He eivät ole ystäviä.
+**le no doste.** - Hän ei ole ystävä.  
+**lole no doste.** - He eivät ole ystäviä.
 
 
 Myöskään adjektiivien kanssa ei tarvitse käyttää olla-verbiä.
 
-**mi suki.** - Minä olen iloinen.  
+**me suki.** - Minä olen iloinen.  
 **doste suki.** - Ystävä on iloinen.
 
 
 
 ## Ajan ilmaiseminen
 
-Panduniassa verbit ovat taipumattomia. Samaa sanaa käytetään kaikissa
-aikamuodoissa.
+Panduniassa verbit ovat taipumattomia.
+Samaa sanaa käytetään kaikissa aikamuodoissa.
 
-**yer den mi laya restoran i nyama bon nyam.**
+**yer den me laya restoran i niama bon niam.**
 
-Yllä olevan lauseen voi suomentaa kahdella tavalla. Ensimmäinen tapa
-on käyttää imperfektiä: "Eilen minä tulin ravintolaan ja söin hyvää
-ruokaa." Toinen tapa on käyttää _historiallista preesensiä_: "Eilen
-minä tulen ravintolaan ja syön hyvää ruokaa." Jälkimmäinen tapa
-saattaa kuulostaa omituiselta – mutta lauseen merkitys on yhtä selvä!
+Yllä olevan lauseen voi suomentaa kahdella tavalla.
+Ensimmäinen tapa on käyttää imperfektiä:
+"Eilen minä tulin ravintolaan ja söin hyvää ruokaa."
+Toinen tapa on käyttää _historiallista preesensiä_:
+"Eilen minä tulen ravintolaan ja syön hyvää ruokaa."
+Jälkimmäinen tapa saattaa kuulostaa omituiselta – mutta lauseen merkitys on yhtä selvä!
 
-Kuten näemme, aikamuotoja ei välttämättä tarvita ja monessa kielessä
-niitä ei ole olemassakaan. Aikamuotojen sijasta käytetään jotakin
-aikaa ilmaisevaa sanaa kuten eilen, tänään, huomenna, nyt ja
-myöhemmin. Näitä sanoja ei kuitenkaan tarvitse käyttää koko ajan.
-Riittää, kun ajankohta mainitaan kerran alussa ja vain tarpeen tullen.
+Kuten näemme, aikamuotoja ei välttämättä tarvita ja monessa kielessä niitä ei ole olemassakaan.
+Aikamuotojen sijasta käytetään jotakin aikaa ilmaisevaa sanaa kuten eilen, tänään, huomenna, nyt ja
+myöhemmin.
+Näitä sanoja ei kuitenkaan tarvitse käyttää koko ajan.
+Riittää, kun ajankohta mainitaan kerran alussa ja sen jälkeen vain tarpeen tullen.
 
 
 <!--
@@ -172,48 +165,47 @@ Riittää, kun ajankohta mainitaan kerran alussa ja vain tarpeen tullen.
 
 ## Prepositiot
 
-Panduniassa on vain neljä prepositiota. Koska niitä on niin vähän,
-niillä on laaja merkitys.
+Panduniassa on vain neljä prepositiota.
+Koska niitä on niin vähän, niillä on laaja merkitys.
 
-**na** : kanssa, luona, -ssa, -lla, aikana, kun  
-**be** : ilman, poissa  
-**ze** : luota, lähtien, koska, -sta, -lta  
-**to** : luokse, kohti, asti, kunnes, jotta, -lle  
+**sa** : kanssa, luona, -ssa, -lla, aikana, kun  
+**na** : ilman, poissa  
+**ca** : luota, lähtien, koska, -sta, -lta  
+**pa** : luokse, kohti, asti, kunnes, jotta, -lle  
 
 Prepositioita voi käyttää yksinään, ilman verbiä.
 
-**mi na dom.** - Minä (olen) talossa/talolla.  
-**mi to dom.** - Minä (menen) taloon/talolle.  
-**mi ze dom.** - Minä (tulen) talosta/talolta.  
-**mi be dom.** - Minä (olen) poissa talolta.
+**me sa dom.** - Minä (olen) talossa/talolla.  
+**me pa dom.** - Minä (menen) taloon/talolle.  
+**me ca dom.** - Minä (tulen) talosta/talolta.  
+**me na dom.** - Minä (olen) poissa talolta.
 
 Kuitenkin yleensä prepositioita käytetään verbin ohella.
 
-**mi nyama supe | na camce | na mama | na nyam kamar.**  
+**me niama supe | sa camce | sa mame | sa niam kamar.**  
 Minä syön soppaa | lusikalla | mamman kanssa | ruokahuoneessa.
 
-Preposition tarkka merkitys riippuu sen kohteesta. Sen vuoksi **na**
-tarkoittaa eri asiaa lausekkeissa **na camce** (lusikalla) ja
-**na kamar** (huoneessa).
+Preposition tarkka merkitys riippuu sen kohteesta.
+Sen vuoksi **sa** tarkoittaa eri asiaa lausekkeissa
+**sa camce** (lusikalla) ja **sa kamar** (huoneessa).
 
-Totta puhuen, muihin kieliin verrattuna, pandunian prepositioiden
-merkitys ei ole poikkeuksellisen laaja. Tarkastellaan vertailun
-vuoksi sijapäätteen -lla käyttöä: "Hän syö jäätelöä lusikaLLA
-lattiaLLA illaLLA suureLLA haluLLA." Sama sijamuoto ilmaisee siis
-välinettä, paikkaa, aikaa ja tapaa. Se on suunnilleen sama kuin
-preposition **na** käyttöala panduniassa.
+Totta puhuen, muihin kieliin verrattuna, pandunian prepositioiden merkitys ei ole poikkeuksellisen laaja.
+Tarkastellaan vertailun vuoksi sijapäätteen -lla käyttöä suomessa:
+"Hän syö jäätelöä innoLLA lusikaLLA lattiaLLA illaLLA."
+Sama sijamuoto ilmaisee siis välinettä, paikkaa, aikaa ja tapaa.
+Se on suunnilleen sama kuin preposition **sa** käyttöala panduniassa.
 
 
 ### Prepositio ja verbi
 
 Prepositioiden käyttöä voi välttää puhumalla lyhyin lausein.
 
-**ye kata nan. ye uza caku.** - Hän leikkaa leipää. Hän käyttää
-veistä.
+**le kata pang. le uza caku.**
+– Hän leikkaa leipää. Hän käyttää veistä.
 
-Lauseen subjektin toistamisen sijasta voi pitää pienen tauon, jota
-merkitään pilkulla.
+Lauseen subjektin toistamisen sijasta voi pitää pienen tauon, jota merkitään pilkulla.
 
-**ye kata nan, uza caku.** - Hän leikkaa leipää, käyttäen veistä.
+**le kata pang, uza caku.**
+– Hän leikkaa leipää, käyttäen veistä.
 
 

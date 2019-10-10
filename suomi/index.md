@@ -21,12 +21,13 @@ Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido
 
 Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.
 
-- [Kuvallinen oppikurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Tässä pieni aivopähkinä! Opi panduniaa pelkkien kuvien avulla!
+- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Kokeile oppia panduniaa pelkkien kuvien avulla!
 - [Tulkkisanakirja](fraze.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
 - [Kielioppi](kanun.md)
 - [Ääntäminen](abc.md)
 - [Lauseita](fraze.md)
 - [Oppitunteja](darse.md)
+- [Helppo kurssi](gide.md)
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)

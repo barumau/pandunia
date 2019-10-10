@@ -1,26 +1,116 @@
-Kielioppi
-=========
+# Pandunian kielioppia
+
+## 1. Yleiskatsaus
+
+### 1.1. Johdanto
+
+Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä. 
+Se on tarkoitettu oppimisen tueksi,
+mutta parhaiten kielen oppii opettelemalla fraaseja ja keskusteluja.
+
+Opittava on kieli on sitä vaikeampi
+mitä enemmän siinä on sellaisia piirteitä, jotka ovat kielen oppijalle vieraita.
+Oppijalle vaikeuksia aiheuttavat mm.
+epäsäännöllinen kirjoitus, taivutussijat, aikamuodot, toonit, substantiivin ja adjektiivin yhteistaivutus,
+kunnioitusmuodot, vokaaliharmonia ja kieliopillinen suku.
+
+Pandunian oppiminen ei ole vaikeaa.
+Siinä ei ole ainoatakaan edellä luetelluista hankaluuksista,
+vaan sen sijaan sen kielioppi on helppo ja säännöllinen, sen sanasto on suhteellisen yksinkertainen, ja sitä kirjoitetaan äänteenmukaisesti.
+
+### 1.2. Sanaluokat
+
+Sanaluokka on joukko sanoja, joilla on samanlaiset (taivutus)muodot ja joita käytetään lauseissa samalla tavalla.
+Panduniassa sanat koostuvat vartalosta ja loppuvokaalista, joka osoittaa sanan sanaluokan.
+Esimerkiksi suurin osa sanoista, joiden loppuna on **-a**, ovat verbejä.
+
+Sanaluokkien yliluokkia ovat sisältösanat ja funktiosanat.
+Sisältösanojen tehtävä on viitata kielen ulkopuolisiin asioihin, joista puhuttaviin.
+Niillä sanotaan suurin osa tiedosta.
+Funktiosanoilla on kielessä lähinnä kieliopillinen tai keskustelun kulkuun liittyvä tehtävä.
+Ne ylläpitävät lauseiden rakennetta,
+mutta ne eivät useinkaan tarkoita mitään.
+Esimerkiksi sana "että" on funktiosana.
+
+Panduniassa sisältösanoihin kuuluvat substantiivit, verbit ja määritteet;
+ja funktiosanoihin kuuluvat pronominit, tarkenteet, konjunktiot ja suhdesanat.
+
+Loppuvokaalit osoittavat sisältösanojen luokat seuraavasti:
+
+- **-e** tarkoittaa substantiivia
+- **-i** tarkoittaa adjektiivia
+- **-a** tarkoittaa myötäpäiväistä verbiä
+- **-u** tarkoittaa vastapäiväistä verbiä
+
+(Selitämme myöhemmin, mitä myötäpäiväinen ja vastapäiväinen tarkoittavat tässä yhteydessä.)
+
+Esimerkiksi, sanavartalosta **log-** saadaan substantiivi **loge** (_puhe_), adjektiivi **logi** (_puhuttu_ tai _suullinen_),
+myötäpäiväinen verbi **(le) loga** (_(se) puhuu_), ja vastapäiväinen verbi **(le) logu** (_sitä puhutaan_).
+
+Samoja loppuvokaaleita käytetään myös funktiosanoissa,
+ja ne osoittavat seuraavia sanaluokkia:
+
+- **-e** tarkoittaa pronominia
+- **-i** tarkoittaa tarkennetta
+- **-a** tarkoittaa prepositiota
+- **-u** tarkoittaa postpositiota
+
+Esimerkiksi sanavartalosta **m-** johdetaan pronomini **me** (_minä_) ja tarkenne **mi** (_minun_).
+
+Perusluvuilla ei ole loppuvokaalia.
+<!--
+Järjestyslukujen lopussa on **-ordi**.
+Esim. **un** (_yksi_), **unordi** (_ensimmäinen_);
+**dul** (_kaksi_), **dulordi** (_toinen_).
+-->
+
+Erisnimet ovat riippumattomia pandunian loppuvokaalikäytännöstä
+ja ne voivat päättyä mihin tahansa kirjaimeen.
+Esimerkiksi nimi _Mari_ voi olla **mari** myös panduniaksi,
+ja se toimii substantiivina toisin kuin loppuvokaalista voisi päätellä.
+Luonnollisesti tämä saattaa aiheuttaa sekaannuksia.
+Sen vuoksi on suositeltavaa että nimet mukautetaan pandunian rakenteen mukaisiksi
+tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mari-san**.
 
 
-Perussäännöt
-------------
 
-1. Kaikki sanat luetaan äänteenmukaisesti. Kaikki sanat voidaan kirjoittaa pienillä kirjaimilla.
+### 1.3. Perussäännöt
+
+1. Kaikki sanat luetaan äänteenmukaisesti.
+   Kaikki sanat voidaan kirjoittaa pienillä kirjaimilla.
 2. Sanan painollinen tavu on ennen viimeistä konsonanttia.
-3. Substantiivit (asiansanat) ovat taipumattomia. Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
-4. Adjektiivin (laatusanan) paikka on asiansanan edessä tai jäljessä. Adjektiivien yleinen pääte on **-i**.
-    - esim. **bon pang** = Hyvää leipää. **pang bon** = Leipää hyvää.
-5. Yhdyssanat muodostetaan asettamalla kaksi tai useampia sanavartaloita peräkkäin siten, että välissä on -o-. Viimeinen sana on merkittävin ja se myös määrää sanan sanaluokan.
-    - esim. **poste** (posti) + **sanduke** (laatikko) → **postosanduke** (postilaatikko)
-6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti. Tällöin verbin pääte on **-a**.
+3. Sanat koostuvat vartalosta ja yhdestä tai useammasta liitteestä.
+   Viimeinen liite on loppuvokaali, joka osoittaa sanan sanaluokan.
+   - Määritteet loppuvat **-i**:hin, esim. **novi** = uusi.
+   - Myötäpäiväiset verbit loppuvat **-a**:han, esim. **me loga** = Minä puhun.
+   - Vastapäiväiset verbit loppuvat **-u**:hun, esim. **le logu** = Sitä puhutaan.
+   - Substantiivien lopussa on **-e**, **-ia** tai ei mitään.
+4. Substantiivit ovat taipumattomia.
+   Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
+5. Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
+   Niitä sanotaan yhteisesti määritteiksi.
+   Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
+   Kaikki määritteet, lukuun ottamatta muutamaa yleisintä sanaa, loppuvat kirjaimeen **-i**.
+    - esim. 1. **rapi loge** = Nopea puhe.
+    - esim. 2. **te rapi loga.** = Sinä nopeasti puhut.
+6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
+   Tällöin verbin pääte on **-a**.
     - esim. **me penta meze.** = Minä maalaan pöytiä.
-7. Passiivisessa lauseessa on vain subjekti ja verbi. Tällöin verbin pääte on **-u**.
+7. Passiivisessa lauseessa on vain subjekti ja verbi.
+   Tällöin verbin pääte on **-u**.
     - esim. **meze pentu.** = Pöytä maalataan.
-8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina. Tämä on ns. _saranarakenne_.
+8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
+   Tämä on ns. _saranarakenne_.
     - esim. **me plisa te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Puhutko sinä panduniaa?
-    - **me plisa te loga ming.** →  **plisa loga ming.** = Pyydän, puhu selvästi.
+    - **me eska te baxa pandunia?** → **eska te baxa pandunia?**
+      = Puhutko sinä panduniaa?
+    - **me plisa te loga ming.** →  **plisa loga ming.**
+      = Pyydän, puhu selvästi.
+10. Yhdyssanat muodostetaan asettamalla kaksi tai useampia sanavartaloita peräkkäin.
+    Sanojen välissä välissä on yhdysvokaali **-o-**.
+    Viimeinen sana on merkittävin ja se myös määrää sanan sanaluokan.
+    - esim. **poste** (posti) + **sanduke** (laatikko) → **postosanduke** (postilaatikko)
 
 
 
@@ -83,8 +173,10 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**day petre**
-= iso kivi  
+**novi kar**
+– uusi auto  
+**rapi kar**
+– nopea auto  
 **day meze**
 = iso pöytä  
 **gaw meze**
@@ -92,17 +184,18 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 **bon kurse**
 = hyvä tuoli
 
-Adjektiivi voi olla myös substantiivin jälkeen. Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
+Adjektiivi voi olla myös substantiivin jälkeen.
+Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**petre day**
-= kivi iso _tai_ Kivi on iso.  
-**meze gaw**
-= pöytä korkea _tai_ Pöytä on korkea.
+**kar novi.**
+– Auto on uusi.  
+**bagre rapi.**
+– Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-**day meze gaw.**
-= Iso pöytä on korkea.
+**novi kar rapi.**
+= Uusi auto on nopea.
 
 ### 3.3 Verbin määrite
 
@@ -136,7 +229,7 @@ Määrite voi määritellä myös toista määritettä. Esimerkiksi **day** (suu
 
 Kun halutaan käyttää kahta määritettä erikseen, pannaan niiden väliin **i** (ja).
 
-**lil i sundar ren**
+**lil e sundar ren**
 = pieni ja kaunis henkilö
 
 
@@ -148,21 +241,25 @@ Sekä adjektiiveja että adverbeja voi verrata.
 - **maxim** : eniten
 - **min** : vähemmän
 - **minim** : vähiten
-- **sem** : yhtä
+- **sam** : yhtä
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
 **me si max bon ka te.**
 = Minä olen parempi kuin sinä.  
-**te loga sem bon ka me.**
+**te loga sam bon ka me.**
 = Sinä puhut yhtä hyvin kuin minä.
 
 
 ## 3.6. Määritteen pääte
 
-Määritteen tunnus on **-i**. Tätä päätettä käytetään aina, kun adjektiivi on johdettu teonsanaa tai asiansanaa tarkoittavasta sanavartalosta. Eism. **logi** _puhuttu_, **suki** _tyytyväinen_, **kitabi** _kirjallinen_.
+Määritteen tunnus on **-i**.
+Tätä päätettä käytetään aina, kun adjektiivi on johdettu verbiä tai substantiivia tarkoittavasta sanavartalosta.
+Esim. **logi** _puhuttu_, **suki** _tyytyväinen_, **kitabi** _kirjallinen_.
 
-Päätettä ei käytetä sellaisten sanavartaloiden kanssa, jotka ilmaisevat laatua ja jotka päättyvät helposti äännettävään konsonanttiin. Esim. **bon** _hyvä_, **sundar** _kaunis_.
+Päätettä ei käytetä eräiden sellaisten sanavartaloiden kanssa,
+jotka ilmaisevat laatua ja jotka päättyvät helposti äännettävään konsonanttiin.
+Esim. **bon** (_hyvä_), **day** (_suuri_), **lil** (_pieni_).
 
 
 --------------------------------------------------------------------------------
@@ -183,11 +280,11 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = paljon tähtiä
 
 
-**un day meze**
-= yksi iso pöytä  
+**un day kurse**
+= yksi iso tuoli  
 **dul day kurse**
 = kaksi isoa tuolia  
-**sam bon kurse**
+**tin bon kurse**
 = kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan perään.
