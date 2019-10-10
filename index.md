@@ -11,7 +11,7 @@
 
 #### [español](espani/index.md) 🇲🇽 🇨🇴 🇪🇸 🇦🇷 🇵🇪 🇻🇪 🇨🇱 🇪🇨 🇬🇹 🇨🇺 🇧🇴 🇭🇳
 
-#### [Esperanto](esperanto/index.md) ![](http://pandunia.info/bandir/eo.png)
+#### [Esperanto](esperanti/index.md) ![](http://pandunia.info/bandir/eo.png)
 
 #### [français](fransi/index.md) 🇫🇷 🇧🇪 🇨🇦 🇨🇩 🇲🇬 🇨🇲 🇨🇮 🇳🇪 🇧🇫 🇲🇱 🇸🇳 🇹🇩 🇬🇳 🇨🇫 🇨🇬 🇭🇹
 

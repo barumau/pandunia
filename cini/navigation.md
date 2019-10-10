@@ -14,7 +14,7 @@
 
   * [English](../engli/index.md)
   * [español](../espani/index.md)
-  * [Esperanto](../esperanto/index.md)
+  * [Esperanto](../esperanti/index.md)
   * [français](../fransi/index.md)
   * [indonesia](../malayu/index.md)
   * [日本語](../nipon/index.md)
