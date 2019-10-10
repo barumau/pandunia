@@ -20,8 +20,8 @@ Quelques traits remarquables du pandunia :
 - [Recueil d’expressions](fraze.md)
 - [Leçon en dialogues](darse.md)
 - [Grammaire](kanun.md)
-- Dictionnaire [français → pandunia](frans-pandunia.md)
-- Dictionnaire [pandunia → français](pandunia-frans.md)
+- Dictionnaire [français → pandunia](fransi-pandunia.md)
+- Dictionnaire [pandunia → français](pandunia-fransi.md)
 - Dictionnaire [étymologique](leksaslia.md)
 - Dictionnaire [dynamique](http://www.pandunia.info/english/tiddly.html) (en anglais)
 

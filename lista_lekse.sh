@@ -72,7 +72,7 @@ sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
 # esperanti i pandunia
-fata_liste 20 esperanto
+fata_liste 20 esperanti
 
 # suomi i pandunia
 fata_liste 21 suomi
@@ -87,7 +87,7 @@ fata_liste 11 cini
 fata_liste 9 rusi
 
 # fransi i pandunia
-fata_liste 6 frans
+fata_liste 6 fransi
 
 
 #fata_lekse_asle

@@ -19,8 +19,8 @@
 
 [Vocabulaire]()
 
-  * [Pandunia → français](pandunia-frans.md)
-  * [Français → pandunia](frans-pandunia.md)
+  * [Pandunia → français](pandunia-fransi.md)
+  * [Français → pandunia](fransi-pandunia.md)
   * [Etymologie](leksaslia.md)
 
 [Grammaire](kanun.md)

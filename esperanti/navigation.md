@@ -10,8 +10,8 @@
 [Vortaro]()
 
   * [Mondaj vortaroj](loga.md)
-  * [Pandunia-esperanto](pandunia-esperanto.md)
-  * [Esperanto-pandunia](esperanto-pandunia.md)
+  * [Pandunia-esperanto](pandunia-esperanti.md)
+  * [Esperanto-pandunia](esperanti-pandunia.md)
   * [Etimologia vortaro](leksaslia.md)
 
 [💬]()
