@@ -1,4 +1,4 @@
-# pandunia-frans
+# pandunia-fransi
 " - пояс (зона)  
 -a - suffixe pour les verbes avec ordre des mots SVO  
 -e - suffixe pour dériver les noms  
@@ -12,7 +12,6 @@ abenturer - aventurier
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
 abli - possible (peut-être)  
-acente - accent  
 acinium - actinium  
 adali - juste  
 adalia - justice  
@@ -27,9 +26,11 @@ agres - agression (attaque)
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
 airoporte - aéroport  
+aisohoke - hockey sur glace  
 aisokrem - crème glacée  
 ajil - agile  
 akse - axe  
+aksente - accent  
 alge - algue  
 ali - autre  
 alkol - alcool  
@@ -108,7 +109,9 @@ barxe - pluie
 barxi - pluvieux  
 barxocate - parapluie  
 barxokote - imperméable  
+baryer - barrière  
 bas - assez  
+basen - bassin  
 baskobol - basketball  
 batre - pile (batterie)  
 bax - langue  
@@ -181,6 +184,8 @@ hule - renard
 ##i
 insan - être humain  
 insanistia - humanisme  
+iva - avoir tendance à  
+ive - tendance  
 ##j
 jeinistia - jaïnisme  
 jinse - genre (espèc)  
@@ -219,10 +224,18 @@ kupe - coupe (tasse, verre)
 lasker - soldat  
 laskeria - armée  
 lazanye - lasagne  
+leksaslia - étymologie  
+lekse - mot  
+leksi - lexical  
+leksia - vocabulaire (lexique)  
+lete - été  
+letis - laitue  
+libel - libellule  
 lider - dirigeant (leader)  
 limon - citron  
 liste - liste  
 loga - parler  
+logivi - loquace  
 loke - lieu  
 loki - local  
 lugi - vert  

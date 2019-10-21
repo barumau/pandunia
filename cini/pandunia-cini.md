@@ -4,7 +4,6 @@ abace - 字母表
 abentur - 冒险  
 abenturer - 冒险者  
 abla - 会  
-acente - 重音符号  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -12,9 +11,11 @@ adulte - 成年人
 agres - 攻击  
 airoporte - 飞机场  
 ais - 冰  
+aisohoke - 冰球  
 aisokrem - 冰淇淋  
 ajil - 灵活的  
 akse - 轴线  
+aksente - 重音符号  
 alge - 藻类  
 ali - 另一  
 alkol - 酒  
@@ -140,6 +141,7 @@ hule - 狐狸
 ##i
 insan - 人类  
 insanistia - 人文主义  
+ive - 趋势  
 ##j
 jana - 知道  
 janger - 工匠 (匠人)  
@@ -180,7 +182,10 @@ laskeria - 军队
 laya - 来  
 lazanye - 千层面  
 le - 他，她，它  
+lekse - 词  
+letis - 莴苣  
 leze - 梨  
+libel - 蜻蜓  
 lider - 领导  
 limon - 柠檬  
 liste - 单子  

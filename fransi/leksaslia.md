@@ -1,7 +1,9 @@
-# frans-pandunia sa leksasle
-|frans | pandunia | leksasle |
+# fransi-pandunia sa leksasle
+|fransi | pandunia | leksasle |
 |----------|----------|----------|
-|accent|acente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
+|accent|aksente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
+|adresse|adres|eng:address. fra:deu:adresse. rus:адрес (adres). por:endereço.|
+|adulte|adulte|eng:adult. fra:adulte. por:spa:adulto.|
 |Afrique|afrike|ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.|
 |agression (attaque)|agres|eng:deu:fra:agression. pol:agresja. rus:агрессия (agressiya). spa:agresión. por:agressão. ind:agresif.|
 |aire (superficie)|are|eng:area. por:spa:área. pol:areał. fra:aire.|
@@ -11,6 +13,7 @@
 |alphabet|abace|gre:(alphabētos). spa:abecedario. fas:(alefbâ). ara:(abjad). scr:slk:abeceda. hun:ábécé.|
 |amour (affection)|am|fra:amour. spa:por:amor.|
 |ampoule (fiole)|ampul|fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).|
+|analyse|analis|eng:analysis. fra:analyse. por:análise. spa:análisis. rus:анализ (analiz). tur:analiz.|
 |ancre|anker|eng:anchor. fra:ancre. por:âncora. ind:jangkar. rus:якорь. ara:(ʾanjar). hin:लंगर (laṅgar). urd:(laṅgar). tel:లంగరు (laṅgaru).|
 |araignée|arane|fra:araignee. por:aranha. spa:araña. eng:arachnid.|
 |arbre|arbe|fra:arbre. spa:árbol. por:árvore.|
@@ -33,7 +36,9 @@
 |banane|banan|wol:banaana. rus:банан (banan). pol:banan. fra:deu:banane. por:spa:eng:banana. jpn:バナナ (banana). kor:바나나 (banana).|
 |bande|bande|zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).|
 |banque|banke|eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).|
+|barrière|baryer|eng:barrier. fra:barrière. por:barreira. spa:barrera. rus:барьер (baryer).|
 |base|baze|eng:fra:por:spa:base. deu:Basis. rus:база (baza).|
+|bassin|basen|eng:basin. fra:bassin. rus:бассейн (basseyn). por:bacia.|
 |bateau|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|
 |bicyclette|sikle|eng:bicycle. fra:bicyclette. tur:bisiklet. spa:bicicleta. tgl:bisikleta. ben:সাইকেল (saikel). hin:साइकिल (sāikil).|
 |billet|tikete|eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).|
@@ -109,9 +114,11 @@
 |je (me)|me|eng:me. fra:por:spa:me. hindi:मैं (mẽ). swa:mimi.|
 |justice|adalia|ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). fas:urd:('adālat).|
 |jus|jus|eng:juice. swa:jusi. tam:ஜூஸ் (jūs). jpn:ジュース (jūsu). kor:주스 (juseu).|
+|laitue|letis|eng:lettuce. jpn:レタス (retasu). hau:latas. hin:लेटिष (leṭiṣ). ben:লেটুস (leṭus). fra:laitue.|
 |langue|bax|hin:भाषा (bhāṣā). urd:(bhāṣā). ben:ভাষা (bhaṣa). pnb:ਭਾਸ਼ਾ (bhāshā). tel:భాష (bhāṣa). tam:பாசை (pāsai). tha:ภาษา (phasa). ind:bahasa. jav:basa.|
 |lapin, lièvre|tuze|zho:兔子 (tùzi). yue:兔仔 (tou3zai2).|
 |lasagne|lazanye|fra:lasagne. eng:lasagna. spa:lasaña. por:lasanha. rus:лазанья (lazanya). ara:(lazanyā). jpn:ラザニア (razania). kor:라자냐 (lajanya). hin:लज़ैन्या (lazenyā).|
+|lexical|leksi|eng:fra:lexical. spa:por:léxico. rus:лексический (leksičeskiy).|
 |lieu|loke|eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.|
 |liste|liste|eng:list. spa:por:lista. rus:(lista). deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).|
 |livre|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|
@@ -205,6 +212,7 @@
 |table|meze|tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.|
 |tarte|pay|eng:pie. spa:pay. ind:pai. hin:पाई (pāī). urd:(pāī). ben:পাই (pai). jpn:パイ (pai). kor:파이 (pai). zho:排 (pái). yue:批 (pai1). fas:(pây).|
 |technique|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
+|tendance|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |tente|haime|ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).|
 |thé|cay|zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).|
 |tigre|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
@@ -235,5 +243,6 @@
 |épingle|pin|eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|
 |épreuve (test)|teste|eng:fra:test. rus: тест (test). por:teste. tur:test.|
 |étoile|xing|zho:星 (xīng). wuu:星 (xing). yue:星 (sing1). jpn:星 (sei). kor:성 (seong).|
+|été|lete|fra:l'été. rus:лето (leto). cze:léto. scr:leto.|
 |être humain|insan|ara:(ʔinsan). hin:इंसान (insān). tur:insan. urd:(insān). fas:(ensān).|
 |être|esa|spa:es. fas:(ast). por:estar. rus:есть (yest').|

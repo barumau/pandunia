@@ -3,16 +3,17 @@
 abace - алфавит  
 abentur - авантюра  
 abenturer - авантюрист  
-acente - ударение  
 adali - справедливый  
 adalia - справедливость  
 adres - адрес  
 adulte - взрослый  
 agres - нападение (атака)  
 airoporte - аэропорт  
+aisohoke - хокке́й с ша́йбой  
 aisokrem - мороженое  
 ajil - подвижный  
 akse - ось  
+aksente - ударение  
 alge - водоросли  
 ali - другой (второй)  
 alkol - алкоголь  
@@ -60,7 +61,9 @@ barxe - дождь
 barxi - дождливый  
 barxocate - зонтик  
 barxokote - плащ (дождевик)  
+baryer - барьер  
 bas - достаточно (довольно)  
+basen - бассейн  
 baskobol - баскетбол  
 batre - батарея  
 bax - язык  
@@ -133,6 +136,7 @@ hule - лиса
 ##i
 insan - человек  
 insanistia - гуманизм  
+ive - тенденция  
 ##j
 je - который  
 jinse - род  
@@ -175,8 +179,16 @@ kupe - чаша (чашка, стакан)
 lasker - солдат  
 laskeria - армия  
 lazanye - лазанья  
+leksaslia - этимология  
+lekse - слово  
+leksi - лексический  
+leksia - словарь  
+lete - лето  
+letis - салат-латук  
+libel - стрекоза  
 lider - руководитель (лидер)  
 limon - лимон  
+liste - список  
 loga - говорить  
 loke - место  
 lugi - зелёный  

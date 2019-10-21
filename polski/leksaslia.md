@@ -1,15 +1,17 @@
 # polski-pandunia sa leksasle
 |polski | pandunia | leksasle |
 |----------|----------|----------|
+|adres|adres|eng:address. fra:deu:adresse. rus:адрес (adres). por:endereço.|
 |Afryka|afrike|ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.|
 |aj!, ał!|ay|spa:ay. por:ai. fra:aïe. zho:哎 (ai). kor:아야 (aya). fas:(ây). rus:ай (ay).|
-|akcent, nacisk|acente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
+|akcent, nacisk|aksente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
 |ale, lecz|a|rus:а (a). ukr:а (a). pol:a. + zho:啊 (ā). + eng:ah.|
 |alfabet, abecadło|abace|gre:(alphabētos). spa:abecedario. fas:(alefbâ). ara:(abjad). scr:slk:abeceda. hun:ábécé.|
 |alga (wodorost)|alge|deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.|
 |algebra|jebria|ara:fas:(jabr). tur:cebir. urd:(aljabrā). eng:algebra. fra:algèbre.|
 |alkohol|alkol|fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul). rus:алкоголь (alkohol). pol:alkohol.|
 |ampułka|ampul|fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).|
+|analiza|analis|eng:analysis. fra:analyse. por:análise. spa:análisis. rus:анализ (analiz). tur:analiz.|
 |ananans|nanas|ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (ananas).|
 |animal|hewan|ind:kewan. ara:(haywān). hin:(hEvān).|
 |antonim|antonim|eng:deu:antonym. fra:antonyme. spa:por:antónimo. rus:антоним (antonim). ind:tur:antonim.|
@@ -31,8 +33,9 @@
 |bar, knajpa|bireria|eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).|
 |barbarzyńca|barbar|deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).|
 |bardziej|max|spa: mas. por: mais. eng: max-.|
-|bariera|baryer|spa:barrera. eng:barrier. rus:барьер (baryer).|
+|bariera|baryer|eng:barrier. fra:barrière. por:barreira. spa:barrera. rus:барьер (baryer).|
 |bark (ramię)|kante|hin:कंधा (kandhā). urd:(kandhā). ben:কাঁধ (kandhô). + jpn:肩 (kata). + ara:(kataf). + min:肩頭 (keng-thâu).|
+|basen|basen|eng:basin. fra:bassin. rus:бассейн (basseyn). por:bacia.|
 |bateria|batre|eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ben:ব্যাটারি (byaṭari). ara:(baṭṭāriyya). jpn:バッテリー (batterī). kor:배터리 (baeteori). rus:батарея (batareya). spa:por:bateria. may:bateri.|
 |bawełna|goton|ara:(quṭun). spa:algodón. fra:coton. eng:cotton.|
 |bańka|bubul|eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).|
@@ -364,6 +367,7 @@
 |miłośnik (fan, -fil)|filer|eng:fra:-phile. por:spa:-filo.|
 |miłość (afekt)|am|fra:amour. spa:por:amor.|
 |miłość romantyczna|romanse|fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).|
+|miły, przyjemny, uroczy|kuxi|ben:খুশি (khuśi). hin:ख़ुश (xuś). eng:cushy.|
 |mleko|milke|eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).|
 |mniejszościowy|minor|eng: minor.|
 |mniejszość|minoria|spa: minoría.|
@@ -425,6 +429,7 @@
 |ocean|dayosamude|vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).|
 |ocenić, oceniać, recenzować, komentować, krytykować|pipinga|zho:批评 (pīpíng). vie:phê bình. kor:비평 (bipyeong).|
 |ocet|sirke|tur:sirke. fas:(serke). hin:सिरका (sirkā). pnb:ਸਿਰਕਾ (sirkā).|
+|odcisk, ślad; stempel, pieczęć|cape|hin:छाप (chāp). may:cap. eng:chop.|
 |oddech|nafas|ara:fas:(nafas). ind:napas. tur:nefes. hau:numfashi.|
 |odkurzacz|funocuper|zho:吸尘器 (xīchénqì). deu:Staubsauger.|
 |odmówić (odrzucić)|nega|spa:por:negar. eng:negate.|
@@ -442,6 +447,7 @@
 |opłata, taryfa|tarif|eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).|
 |osiem (8)|bal|zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.|
 |osioł|gade|hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.|
+|osoba dorosła|adulte|eng:adult. fra:adulte. por:spa:adulto.|
 |osoba; ludzie|ren|zho: 人 (rén).|
 |otwarty, niezamknięty|kay|zho:开 (kāi). vie:-khai-.|
 |owca|meh|kur:mî,mîh. hin:मेष (meṣ). fas:(miš). tha:เมษ (met). + lin:kon:meme. + (onom.) jpn:メーメー (mē mē). por:meh. ara:(maa'). tur:mee.|
@@ -594,7 +600,7 @@
 |rejestr|defte|tur:scr:defter. ell:τεφτέρι (tefteri). ind:daftar. ara:fas:(daftar).|
 |religia, wyznanie|din|ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).|
 |respekt, honor, szacunek, poważanie|onor|eng:pol:spa:honor. fra:honneur. por:honra. ita:onore. tur:onur.|
-|rezerwacja|buking|eng:booking. deu:Buchung. hin:(buking).|
+|rezerwacja|rezerve|eng:reservation. fra:réservation. por:spa:reserva. tur:rezerve. rus:резервирование (rezervirovaniye).|
 |robak|verme|eng:worm. por:verme. fra:ver. deu:Wurm.|
 |robot|robote|eng:robot;robo-. por:robô. fra:robot. tam:ரோபோ (rōpō). rus:робот (robot).|
 |rodzaj, typ, styl|yang|zho: 样 (yàng). tha: อย่าง (yàang). khm: យ៉ាង (yaang).|
@@ -631,6 +637,7 @@
 |sam, siebie|ze|zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.|
 |samochód (automobil)|motokar|eng:motorcar. sna:motokari. sot:motokara. swa:motokaa. zul:imoto. hau:mota.|
 |sauna|saune|fin:deu:eng:fra:por:spa:ind:tur:sauna. rus:сауна (sauna). zho:桑拿 (sāngná). jpn:サウナ (sauna). kor:사우나 (sauna). hin:सॉना (sonā). fas:urd:(sonā). tha:ซาวน่า (saona).|
+|sałata|letis|eng:lettuce. jpn:レタス (retasu). hau:latas. hin:लेटिष (leṭiṣ). ben:লেটুস (leṭus). fra:laitue.|
 |sałatka|salade|fra:salade. end:ind:salad. deu:Salat. rus:салат (salat). tur:salata. fas:urd:(salād). hin:सलाद (salād). yue:沙律 (saa1 leot62).  zho:沙拉 (shālā). por:salada. spa:ensalado. kor:샐러드 (saelleodeu). jpn:サラダ (sarada). tha:สลัด (salat). khm:សាលាដ (saalaat).|
 |scena|sen|fra:scène. spa:escena. rus:сцена (scena). deu:Szene. tur:sahne. fas:(sahne).|
 |schody (drabina)|eskal|fra:escalier. spa:escalera. por:escada. + eng:scale. deu:Skale. rus:шкала (škala).|
@@ -716,6 +723,7 @@
 |technika, technologia|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
 |temat, motyw|teme|fra: thème. spa: tema. rus: тема (tema). deu:Thema.|
 |ten, te|yi|hin:यह (ye). ben:এই (ei). tel:ఈ (ī). tam:இது (itu). kor:이 (i). |
+|tendencja|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |test, wyzwanie, próba|teste|eng:fra:test. rus: тест (test). por:teste. tur:test.|
 |tikka|tike|fas:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).|
 |toksyczny (trujący)|toksi|eng:toxic. fra:toxique. spa:por:tóxico. rus:токсичний (toksicniy). ind:toksik.|

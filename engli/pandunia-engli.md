@@ -12,8 +12,7 @@ abentur - adventure (venture)
 abenturer - adventurer  
 abla - can (know, be able)  
 able - ability (skill)  
-abli - possible (possibly, maybe, perhaphs)  
-acente - accent (stress)  
+abli - possible (possibly, maybe, perhaps)  
 acinium - actinium  
 adali - just (fair)  
 adalia - justice  
@@ -46,6 +45,7 @@ ajabi - amazing (astonishing)
 ajabu - wonder (be amazed)  
 ajil - agile  
 akse - axis (axle)  
+aksente - accent (stress)  
 alge - alga  
 ali - other  
 alkol - alcohol  
@@ -258,7 +258,7 @@ boikote - boycott
 boke - mouth  
 bol - ball  
 bolgaria - Bulgaria  
-bolibia - Bolivia  
+bolivia - Bolivia  
 bombe - bomb  
 bon - good  
 bon rupi - good-looking  
@@ -273,7 +273,7 @@ botol - bottle
 botolefte - port (left side of a ship)  
 boton - button  
 botoraite - starboard (right side of a ship)  
-brazawil kongolia - Congo (Brazzaville)  
+brazavili kongolia - Congo (Brazzaville)  
 brazilia - Brazil  
 britania - United Kingdom  
 brom - bromine  
@@ -292,7 +292,6 @@ bufon - fool (buffoon)
 buge - bugle (horn instrument)  
 bujete - budget  
 buke - book  
-buking - booking (reservation)  
 bula - boil (cook)  
 bulbul - nightingale  
 bulu - boil (be boiled)  
@@ -922,6 +921,8 @@ istan - region
 iste - proponent (supporter, activist, -ist)  
 istia - ism (doctrine, ideology, religion, etc)  
 italia - Italy  
+iva - tend to  
+ive - tendency(inclination)  
 izi - easy  
 ##j
 ja - like (similarly)  
@@ -1233,6 +1234,7 @@ kurium - curium
 kurse - chair  
 kusen - cushion (pillow)  
 kuwaitia - Kuwait  
+kuxi - nice (pleasant, comfortable, cushy)  
 ##l
 labe - lip  
 lada - load (to charge)  
@@ -1249,7 +1251,6 @@ lasker - soldier
 laskeria - army  
 lasti - elastic  
 lasun - garlic  
-latif - nice (pleasant, lovely)  
 latini abace - Latin alphabet  
 latwia - Latvia  
 laurensium - lawrencium  
@@ -1260,8 +1261,10 @@ le - he or she or it
 lefte - left  
 leftiste - leftist (left-winger)  
 lekin - however  
+leksaslia - etymology  
 lekse - word  
 leksem - lexeme  
+leksi - lexical  
 leksia - vocabulary (lexicon)  
 leksoliste - word list  
 lengi - cold  
@@ -1306,6 +1309,7 @@ loga - talk (say, speak)
 loge - speech (word)  
 logike - logic (deduction)  
 logiki - logical  
+logivi - talkative  
 logofiler - logophile (word buff)  
 loja - research (to study)  
 lojia - science (study, research)  
@@ -2009,6 +2013,8 @@ restu - remain (stay)
 retra - return (go back)  
 retrotikete - return ticket  
 reunion - Réunion  
+rezerva - reserve (book)  
+rezerve - reservation (booking, withholding)  
 rezin - resin  
 rezulte - result  
 rici - rich  

@@ -8,7 +8,7 @@ ability (skill) - able
 about (approximately) - yagi  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
-accent (stress) - acente  
+accent (stress) - aksente  
 accept (to say okay) - okeya  
 accommodate - doma  
 acknowledge - resida  
@@ -281,13 +281,12 @@ boil (be boiled) - bulu
 boil (cook) - bula  
 bok choy - bakocoy  
 bold letter - grosi harfe  
-Bolivia - bolibia  
+Bolivia - bolivia  
 bomb - bombe  
 bon appetit! - salam niam  
 bonaty (phytology) - fitolojia  
 bone - oste  
 book - buke  
-booking (reservation) - buking  
 border (edge, rim, fringe) - kenar  
 boron - boron  
 Bosnia and Herzegovina - bosnia  
@@ -521,7 +520,7 @@ condition (requirement) - xarte
 cone - konus  
 Confucianism - konfuzistia  
 Confucious - konfuze  
-Congo (Brazzaville) - brazawil kongolia  
+Congo (Brazzaville) - brazavili kongolia  
 Congo Kinshasa - kinsasi kongolia  
 Congolese - kongoli  
 congratulate (bless) - barka  
@@ -758,6 +757,7 @@ estimate (approximate) - yaga
 Estonia - estia  
 ethics - darmoloji  
 Ethiopia - etiopia  
+etymology - leksaslia  
 Eurasia - eurasia  
 euro (€) - europese  
 Europe - europe  
@@ -1279,6 +1279,7 @@ let's - haida
 letter (character, written symbol) - harfe  
 lettuce - letis  
 lexeme - leksem  
+lexical - leksi  
 liberal - huristi  
 liberalism - huristia  
 liberalist - huriste  
@@ -1572,7 +1573,7 @@ newspaper (gazette) - habarobaw
 newton (N) - nuton  
 next (following) - badi  
 Nicaragua - nikaragia  
-nice (pleasant, lovely) - latif  
+nice (pleasant, comfortable, cushy) - kuxi  
 niche (recess, alcove) - nixe  
 nickel - nikel  
 Niger - nijeria  
@@ -1845,7 +1846,7 @@ portion (dose) - doze
 Portugal - portugalia  
 pose (position) - poze  
 pose (set) - poza  
-possible (possibly, maybe, perhaphs) - abli  
+possible (possibly, maybe, perhaps) - abli  
 post office - postokan  
 postal stamp - postocape  
 posture (asana) - asan  
@@ -1979,6 +1980,8 @@ represent - wakila
 Republic of Macedonia - makedonia  
 research (to study) - loja  
 resemble (be like) - samu  
+reservation (booking, withholding) - rezerve  
+reserve (book) - rezerva  
 resin - rezin  
 respect (honor, esteem) - onor  
 respond (give an answer) - jawaba  
@@ -2321,6 +2324,7 @@ Taiwan (Republic of China) - taiwania
 Tajikistan - tajikia  
 tale (legend, saga) - sage  
 talk (say, speak) - loga  
+talkative - logivi  
 Tamil - tamili  
 Tanakh (Jewish Bible) - tanah  
 tank (container) - tanke  
@@ -2353,6 +2357,8 @@ Telugu - telugi
 temple - mandir  
 tempt (entice) - tenta  
 ten (10) - des  
+tend to - iva  
+tendency(inclination) - ive  
 tennessine - tenesin  
 tennis - tenis  
 tent - haime  

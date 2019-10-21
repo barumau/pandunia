@@ -1,4 +1,4 @@
-# esperanto-pandunia
+# esperanti-pandunia
 -a (-e) - -i  
 -eco - -es  
 -i (-igi) - -a  
@@ -19,7 +19,7 @@ agado (karmo) - karme
 agi - karma  
 agresema - agresi  
 aj (alas) - ay  
-akcento - acente  
+akcento - aksente  
 akceptebla (okej) - okey  
 akiri (gajni) - ganya  
 akiri (ricevi, preni) - geta  
@@ -175,7 +175,7 @@ bobelo - bubul
 bojkoto - boikote  
 boli - bulu  
 boligi - bula  
-Bolivio - bolibia  
+Bolivio - bolivia  
 bombo - bombe  
 bombono - kande  
 bona (en salutoj) - salam  
@@ -311,6 +311,8 @@ elektrono - eletron
 elirejo - cutomun  
 eliri - cuta  
 eliro - cute  
+emi - iva  
+emo (inklino, tendenco) - ive  
 emocii - gama  
 emocio - gam  
 ena - indi  
@@ -333,6 +335,7 @@ estonoteco - wile
 estonte - wil  
 estro (ĉefulo) - xef  
 eta - mini  
+etimologio - leksaslia  
 Etiopio - etiopia  
 evangelio - ewanjil  
 eĉ - hati  
@@ -747,6 +750,7 @@ kvin (5) - lim
 laboristo - werker  
 laboro - werke  
 lakto - milke  
+laktuko - letis  
 lamenti - duka  
 lampo - lampe  
 lando - dex  
@@ -765,6 +769,7 @@ lernejo - darsia
 lerni (studi) - darsa  
 lerta - ajil  
 li aŭ ŝi aŭ ĝi - le  
+libelo - libel  
 libera - huri  
 libereco - huria  
 liberigi - hura  
@@ -1022,6 +1027,7 @@ papajo - papay
 papero - papir  
 papilio - pelpel  
 parko (ĝardeno) - parke  
+parolema - logivi  
 paroli (komuniki) - baxa  
 paroli - loga  
 parolo (vortoj) - loge  
@@ -1162,7 +1168,7 @@ respondi - jawaba
 respondo - jawabe  
 restaŭracio - restoran  
 reto - nete  
-rezervo - buking  
+rezervo - rezerve  
 rezino - rezin  
 reĝo aŭ reĝino - rajer  
 ridi - haha  

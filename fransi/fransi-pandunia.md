@@ -1,6 +1,6 @@
-# frans-pandunia
+# fransi-pandunia
 ##a
-accent - acente  
+accent - aksente  
 accord - samoray  
 acheter - xopa  
 actinium - acinium  
@@ -68,6 +68,7 @@ aventure - abentur
 aventurier - abenturer  
 avoir - tena  
 avoir besoin de - nida  
+avoir tendance à - iva  
 axe - akse  
 aéroport - airoporte  
 ##b
@@ -82,10 +83,12 @@ banane - banan
 bande - bande  
 banque - banke  
 banquier - banker  
+barrière - baryer  
 baryum - barium  
 base - baze  
 base de données - datobanke  
 basketball - baskobol  
+bassin - basen  
 bateau - bote  
 besoin - nide  
 bibliothèque - kitabia  
@@ -179,6 +182,7 @@ heure - hor
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
+hockey sur glace - aisohoke  
 hourra - ura  
 humanisme - insanistia  
 hétérosexuel - alojinsokami  
@@ -196,13 +200,17 @@ justice - adalia
 Jésus - yesus  
 ##k
 ##l
+laitue - letis  
 langue - bax  
 lapin, lièvre - tuze  
 lasagne - lazanye  
+lexical - leksi  
+libellule - libel  
 lieu - loke  
 liste - liste  
 livre - buke  
 local - loki  
+loquace - logivi  
 loup - wolfe  
 lourd - bari  
 luthéranisme - lutaristia  
@@ -226,6 +234,7 @@ miel - mel
 migration - migre  
 monde - dunia  
 monnaie (pièce) - pesodiske  
+mot - lekse  
 mouche - zeze  
 mât - maste  
 mémoire - mem  
@@ -337,6 +346,7 @@ tarte - pay
 tasse à thé - cayokupe  
 technique - tekne  
 technologie - teknolojia  
+tendance - ive  
 tente - haime  
 terrorisme - teroristia  
 thé - cay  
@@ -370,6 +380,7 @@ vert - lugi
 vie - hay  
 virus - virus  
 vivre (habiter) - domu  
+vocabulaire (lexique) - leksia  
 voile - hijabe  
 voir - vida  
 vouloir - wana  
@@ -397,6 +408,8 @@ zèbre - zebre
 épreuve (test) - teste  
 équipe - tim  
 étoile - xing  
+étymologie - leksaslia  
+été - lete  
 évangile - ewanjil  
 éveillé - weki  
 être - esa  

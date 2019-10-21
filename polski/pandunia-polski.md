@@ -10,7 +10,6 @@ abace - alfabet, abecadło
 abla - móc, umieć  
 able - możliwość, umiejętność  
 abli - prawdopodobnie, możliwie  
-acente - akcent, nacisk  
 acinium - aktyn  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  
@@ -36,6 +35,7 @@ aisohoke - hokej na lodzie
 aisokrem - lody  
 ajil - zwinny, sprawny  
 akse - oś  
+aksente - akcent, nacisk  
 alge - alga (wodorost)  
 ali - inny  
 alkol - alkohol  
@@ -226,7 +226,7 @@ boikote - bojkot
 boke - usta  
 bol - piłka  
 bolgaria - Bułgaria  
-bolibia - Boliwia  
+bolivia - Boliwia  
 bombe - bomba  
 bon - dobry  
 bon rupi - przystojny, atrakcyjny, ładny  
@@ -241,7 +241,7 @@ botol - butelka
 botolefte - bakburta (lewa burta)  
 boton - guzik  
 botoraite - sterburta (prawa burta)  
-brazawil kongolia - Republika Konga  
+brazavili kongolia - Republika Konga  
 brazilia - Brazyla  
 britania - Zjednoczone Królestwo  
 brom - brom  
@@ -260,7 +260,6 @@ bufon - głupiec, bufon
 buge - róg  
 bujete - budżet  
 buke - książka  
-buking - rezerwacja  
 bula - zapomnieć, zapominać  
 bulbul - słowik  
 bulu - ugotować się, gotować się  
@@ -851,6 +850,7 @@ istan - region
 iste - przyrostek dla wsperającego ideę  
 istia - przyrostek dla ideologii  
 italia - Italia, Włochy  
+ive - tendencja  
 izi - łatwy, prosty  
 ##j
 jake - kurtka  
@@ -1145,6 +1145,7 @@ kurium - kiur
 kurse - kszesło, fotel  
 kusen - poduszka  
 kuwaitia - Kuwejt  
+kuxi - miły, przyjemny, uroczy  
 ##l
 labe - warga  
 lada - naładować, załadować, obładować, ładować  
@@ -1160,7 +1161,6 @@ larwe - larwa, czerw, gąsienica
 laskeria - armia  
 lasti - elastyczny  
 lasun - larwa, czerw, gąsienica  
-latif - miły, przyjemny, uroczy  
 latini abace - alfabet łaciński, łacinka, alfabet rzymski  
 latwia - Łotwa  
 laurensium - lorens  
@@ -1883,6 +1883,7 @@ restoran - restauracja
 restu - zostać, zostawać  
 retra - wrócić, wracać, wycofać się, wycofywać się  
 reunion - Reunion  
+rezerve - rezerwacja  
 rezin - żywica  
 rezulte - rezult, wynik  
 rici - bogaty  

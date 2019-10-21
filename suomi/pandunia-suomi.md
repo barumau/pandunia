@@ -13,7 +13,6 @@ abenturer - seikkailija
 abla - voida (osata, pystyä)  
 able - taito (kyky)  
 abli - mahdollinen (mahdollisesti, ehkä)  
-acente - painotus (aksentti)  
 acinium - aktinium  
 adali - oikeudenmukainen  
 adalia - oikeus  
@@ -46,6 +45,7 @@ ajabi - ihmeellinen (ällistyttävä, merkillinen)
 ajabu - ihmetellä (olla ihmeissään)  
 ajil - ketterä  
 akse - akseli  
+aksente - painotus (aksentti)  
 alge - levä  
 ali - muu (toinen)  
 alkol - alkoholi  
@@ -252,7 +252,7 @@ boikote - boikotti
 boke - suu  
 bol - pallo  
 bolgaria - Bulgaria  
-bolibia - Bolivia  
+bolivia - Bolivia  
 bombe - pommi  
 bon - hyvä  
 bon rupi - hyvännäköinen  
@@ -267,7 +267,7 @@ botol - pullo
 botolefte - paapuuri  
 boton - nappi  
 botoraite - tyyrpuuri  
-brazawil kongolia - Brazzavillen Kongo  
+brazavili kongolia - Brazzavillen Kongo  
 brazilia - Brasilia  
 britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
 brom - bromi  
@@ -286,7 +286,6 @@ bufon - hölmö (narri)
 buge - torvi (torvisoitin)  
 bujete - budjetti  
 buke - kirja  
-buking - varaus (ennakkovaraus)  
 bula - keittää (kiehuttaa)  
 bulbul - satakieli  
 bulu - kiehua  
@@ -913,6 +912,8 @@ istan - seutu (maa)
 iste - aatteen kannattaja  
 istia - aate (ismi, ideologia, uskonto, jne)  
 italia - Italia  
+iva - olla taipuvainen  
+ive - taipumus  
 izi - helppo  
 ##j
 ja - kuin (kuten, niin kuin)  
@@ -1221,6 +1222,7 @@ kurium - curium
 kurse - tuoli  
 kusen - tyyny  
 kuwaitia - Kuwait  
+kuxi - mukava (kiva, miellyttävä)  
 ##l
 labe - huuli  
 lada - ladata  
@@ -1237,7 +1239,6 @@ lasker - sotilas
 laskeria - armeija (sotajoukko)  
 lasti - joustava (elastinen)  
 lasun - valkosipuli  
-latif - mukava (kiva)  
 latini abace - latinalaiset aakkoset  
 latwia - Latvia  
 laurensium - lawrensium  
@@ -1248,6 +1249,7 @@ le - hän (se)
 lefte - vasen  
 leftiste - vasemmistolainen  
 lekin - kuitenkin  
+leksaslia - etymologia  
 lekse - sana  
 leksem - lekseemi  
 leksia - sanasto  
@@ -1294,6 +1296,7 @@ loga - puhua (sanoa)
 loge - puhe (sanat)  
 logike - logiikka  
 logiki - looginen  
+logivi - puhelias  
 logofiler - logofiili  
 loja - tutkia (opiskella)  
 lojia - tiede (tutkimus)  
@@ -1989,6 +1992,7 @@ retra - palata
 retre - paluu  
 retrotikete - menopaluulippu  
 reunion - Reunion  
+rezerve - varaus (ennakkovaraus)  
 rezin - pihka (hartsi)  
 rezulte - tulos  
 rici - rikas  

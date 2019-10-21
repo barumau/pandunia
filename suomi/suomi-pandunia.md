@@ -172,12 +172,12 @@ biologia - biyolojia
 blogi (nettikolumni) - bloge  
 bohrium - borium  
 boikotti - boikote  
-Bolivia - bolibia  
+Bolivia - bolivia  
 boori - boron  
 Bosnia ja Hertsegovina - bosnia  
 Botswana - tsuania  
 Brasilia - brazilia  
-Brazzavillen Kongo - brazawil kongolia  
+Brazzavillen Kongo - brazavili kongolia  
 bromi - brom  
 Brunei - bruney  
 Buddha - bude  
@@ -280,6 +280,7 @@ Etelä-Sudan - sudi sudania
 etiikka (moraalioppi) - darmoloji  
 etikka - sirke  
 Etiopia - etiopia  
+etymologia - leksaslia  
 etäisyys (kaukaisuus) - tele  
 Euraasia - eurasia  
 euro (€) - europese  
@@ -1312,7 +1313,7 @@ muinainen Egypti - kemia
 muistaa - mema  
 muisti - mem  
 muistikirja - notobuke  
-mukava (kiva) - latif  
+mukava (kiva, miellyttävä) - kuxi  
 muna - ande  
 munakoiso - bedinjan  
 muoti - mode  
@@ -1459,6 +1460,7 @@ olla hereillä - weki
 olla nimeltään - namu  
 olla olemassa - zayu  
 olla samaa mieltä - samoraya  
+olla taipuvainen - iva  
 olla väliä (olla tärkeä) - hamu  
 olo (oleminen) - ese  
 olut (kalja) - bir  
@@ -1520,7 +1522,7 @@ painaa (leimata) - capa
 painava - bari  
 paino - bar  
 painos (leima) - cape  
-painotus (aksentti) - acente  
+painotus (aksentti) - aksente  
 paita - kamis  
 paitsi (miinus) - minus  
 paitsi (poislukien) - cula  
@@ -1716,6 +1718,7 @@ Puerto Rico - portorikia
 puhdas (siivo, siisti) - safi  
 puhdistaa (siivota) - safa  
 puhe (sanat) - loge  
+puhelias - logivi  
 puhelin - telofon  
 puhua (kommunikoida) - baxa  
 puhua (sanoa) - loga  
@@ -2108,6 +2111,7 @@ taiga - taige
 taika (taikuus, magia) - magia  
 taikuri - mager  
 Taipei - taibey  
+taipumus - ive  
 taistelu (sota) - jeng  
 taitaa (olla mestari jskn) - mesta  
 taitava - xuti  
@@ -2402,7 +2406,7 @@ vara- (korvike-) - visi
 varapresidentti - visoprezidente  
 varas - corer  
 varastaa - cora  
-varaus (ennakkovaraus) - buking  
+varaus (ennakkovaraus) - rezerve  
 varjo - saye  
 varkaus - core  
 varmistaa - amena  

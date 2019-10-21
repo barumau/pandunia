@@ -9,7 +9,7 @@ Afryka - afrike
 afrykański, Afrykanin - afriki  
 agresywny - agresi  
 aj!, ał! - ay  
-akcent, nacisk - acente  
+akcent, nacisk - aksente  
 akt, scena - roler  
 aktyn - acinium  
 akwarela, farba wodna - suyang  
@@ -156,7 +156,7 @@ bohaterski, heroiczny, odważny, brawurowy - wiri
 bohr - borium  
 bojkot - boikote  
 bolesny - paxi  
-Boliwia - bolibia  
+Boliwia - bolivia  
 bomba - bombe  
 bor - boron  
 boski - dewi  
@@ -1069,7 +1069,7 @@ mięso - manse
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - am  
 miłość romantyczna - romanse  
-miły, przyjemny, uroczy - latif  
+miły, przyjemny, uroczy - kuxi  
 Mjanma, Birma - mianmia  
 mleko - milke  
 mniej - min  
@@ -1703,13 +1703,13 @@ religia, wyznanie - din
 ren - renium  
 reprezentować - wakila  
 Republika Czeska, Czechy - cehia  
-Republika Konga - brazawil kongolia  
+Republika Konga - brazavili kongolia  
 Republika Macedonii, Macedonia - makedonia  
 Republika Środkowoafrykańska - jungafrikia  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restoran  
 Reunion - reunion  
-rezerwacja - buking  
+rezerwacja - rezerve  
 rezult, wynik - rezulte  
 robak - verme  
 robot - robote  
@@ -2032,6 +2032,7 @@ telugu - telugi
 temat, motyw - teme  
 ten konkretny - ye  
 ten, te - yi  
+tendencja - ive  
 tenesyn, tennessine - tenesin  
 tenis - tenis  
 teokracja - dewokratia  

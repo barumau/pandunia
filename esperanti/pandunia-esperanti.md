@@ -1,4 +1,4 @@
-# pandunia-esperanto
+# pandunia-esperanti
 -a - -i (-igi)  
 -e - -o (-aĵo)  
 -es - -eco  
@@ -13,7 +13,6 @@ abenturer - aventuristo
 abla - povi  
 able - povo  
 abli - ebla (eble)  
-acente - akcento  
 acinium - aktinio  
 adali - justa  
 adalia - justeco  
@@ -35,6 +34,7 @@ aisi - glacia
 aisokrem - glaciaĵo  
 ajil - lerta  
 akse - akso  
+aksente - akcento  
 alge - algo  
 ali - alia  
 alkol - alkoholo  
@@ -195,7 +195,7 @@ boikote - bojkoto
 boke - buŝo  
 bol - pilko  
 bolgaria - Bulgario  
-bolibia - Bolivio  
+bolivia - Bolivio  
 bombe - bombo  
 bon - bona  
 bon rupi - bonaspekta  
@@ -221,7 +221,6 @@ budistia - budhismo
 bufon - pajaco  
 bujete - buĝeto  
 buke - libro  
-buking - rezervo  
 bula - boligi  
 bulbul - najtingalo  
 bulu - boli  
@@ -674,6 +673,8 @@ istan - regiono
 iste - isto de ismo  
 istia - ismo  
 italia - Italio  
+iva - emi  
+ive - emo (inklino, tendenco)  
 izi - facila  
 ##j
 ja - kiel  
@@ -857,6 +858,7 @@ laurensium - laŭrencio
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  
 lekin - tamen  
+leksaslia - etimologio  
 lekse - vorto  
 leksia - vortaro  
 leksoliste - vortaro  
@@ -864,8 +866,10 @@ lengi - malvarma
 lenxa - ekzerci  
 lenxe - ekzerco  
 lete - somero  
+letis - laktuko  
 lew - jam (esti farita)  
 leze - piro  
+libel - libelo  
 liga - aligi  
 lil - malgranda  
 lim - kvin (5)  
@@ -880,6 +884,7 @@ loga - paroli
 loge - parolo (vortoj)  
 logike - logiko  
 logiki - logika  
+logivi - parolema  
 lojia - scienco  
 loka - lokigi  
 loke - loko  
@@ -1206,6 +1211,7 @@ repi - denove (ripete)
 restoran - restaŭracio  
 retra - reiri  
 retre - reiro  
+rezerve - rezervo  
 rezin - rezino  
 riske - risko  
 riski - riska  

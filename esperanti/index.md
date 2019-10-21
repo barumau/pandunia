@@ -25,7 +25,7 @@ Rimarkindaj trajtoj de pandunio estas:
 - [Gramatiko](kanun.md)
 
 - [Vortaro Esperanto-Pandunio](esperanti-pandunia.md)
-- [Vortaro Pandunio-Esperanto](pandunia-esperant.md)
+- [Vortaro Pandunio-Esperanto](pandunia-esperanti.md)
 - [Etimologia vortaro](leksaslia.md)
 
 ## Artikoloj

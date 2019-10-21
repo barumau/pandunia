@@ -1,15 +1,16 @@
-# esperanto-pandunia sa leksasle
-|esperanto | pandunia | leksasle |
+# esperanti-pandunia sa leksasle
+|esperanti | pandunia | leksasle |
 |----------|----------|----------|
 |-a (-e)|-i|ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.|
 |-i (-iĝi)|-u|hau:wol:-u. swa:-wa.|
 |acida|suan|zho:酸 (suān).|
+|adreso|adres|eng:address. fra:deu:adresse. rus:адрес (adres). por:endereço.|
 |aero|air|eng:fra:spa:air. por:ar.|
 |Afriko|afrike|ara:(ʾafrīqiyā). wol:Afrig. ful:Afirik. amh:(ʾäfriḳa). hau:Afirka. yor:Afirika. orm:Afrikaa. swa:Afrika.|
 |agaci (tedi, malamuzi)|irita|eng:irritate. fra:irriter. spa:por:irritar. deu:irritieren. jpn:いらいらさせる (iraira saseru)|
 |agado (karmo)|karme|hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).|
 |aj (alas)|ay|spa:ay. por:ai. fra:aïe. zho:哎 (ai). kor:아야 (aya). fas:(ây). rus:ай (ay).|
-|akcento|acente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
+|akcento|aksente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
 |akiri (gajni)|ganya|fra:gagner. por:ganhar. spa:ganar. eng:gain.|
 |akiri (ricevi, preni)|geta|eng:get.|
 |akso|akse|eng:axis. fra:axe. hin:अक्ष (akṣ). tur:eksen.|
@@ -25,6 +26,7 @@
 |amiko|doste|tur:tkm:dost. uzb:doʻst. hin:दोस्त (dost). guj:દોસ્ત (dost). urd:(dost). fas:(dust). taj:дӯст (düst).|
 |amo|am|fra:amour. spa:por:amor.|
 |amuzo|fan|eng:fun.|
+|analizo|analis|eng:analysis. fra:analyse. por:análise. spa:análisis. rus:анализ (analiz). tur:analiz.|
 |ananaso|nanas|ind:nanas. swa:nanasi. hin:अनन्नास (anānnas). rus:ананас (ananas).|
 |anaso|bate|mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). fas:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)|
 |angulo|gon|hin:कोण (koṇ). tel:(kōnamu). swa:kona. eng:corner. hau:kwana.|
@@ -62,7 +64,8 @@
 |Barata|barti|hin:भारतीय (bhārtīy). urd:(bhārtīy). mar:(bhārtīya). tel:(bhāratīya).|
 |barbaro|barbar|deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).|
 |barbo|barde|fra:barbe. spa:por:barba. deu:Bart. eng:beard. rus:борода (boroda). pol:broda.|
-|barilo|baryer|spa:barrera. eng:barrier. rus:барьер (baryer).|
+|barilo|baryer|eng:barrier. fra:barrière. por:barreira. spa:barrera. rus:барьер (baryer).|
+|baseno|basen|eng:basin. fra:bassin. rus:бассейн (basseyn). por:bacia.|
 |batato|kamote|spa:camote. tgl:kamote.|
 |baterio (pilo)|batre|eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ben:ব্যাটারি (byaṭari). ara:(baṭṭāriyya). jpn:バッテリー (batterī). kor:배터리 (baeteori). rus:батарея (batareya). spa:por:bateria. may:bateri.|
 |bazo|baze|eng:fra:por:spa:base. deu:Basis. rus:база (baza).|
@@ -136,6 +139,7 @@
 |elefanto|gaje|hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.|
 |elekti|cuza|eng:choose. + hin:चुनना (cunnā). + vie:chọn.|
 |eliro|cute|zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).|
+|emo (inklino, tendenco)|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |emocio|gam|yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).|
 |eno|inde|eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.|
 |eraro (miso)|galte|ara:(ğalṭa). hin:ग़लती (ġaltī). urd:(ġalatī). fas:(ğalat). tur:galat.|
@@ -310,6 +314,7 @@
 |kurteno|parde|ben:পরদা (pôrda). hin:पर्दा (pardā). tur:perde. kaz:перде (perde).|
 |kuŝi|lala|swa:-lala.|
 |lakto|milke|eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).|
+|laktuko|letis|eng:lettuce. jpn:レタス (retasu). hau:latas. hin:लेटिष (leṭiṣ). ben:লেটুস (leṭus). fra:laitue.|
 |lampo|lampe|fra:deu:lampe. eng:lamp. ind:lampu.|
 |lando|dex|hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).|
 |lanterno|lanten|eng:lantern. hin:लालटेन (lālṭen). jpn:ランタン (rantan). kor:랜턴 (raenteon). + zho:灯笼 (dēnglóng). vie:đèn lồng. may:tanglung.|
@@ -460,6 +465,7 @@
 |piso (urino)|pix|eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipis.|
 |planto|fite|eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).|
 |plena|ful|eng:full. deu:voll.|
+|plenaĝa|adulte|eng:adult. fra:adulte. por:spa:adulto.|
 |pli|max|spa: mas. por: mais. eng: max-.|
 |plori|kuga|zho:哭 (kū). yue:哭 (huk1). vie:khóc.|
 |plumo|kalam|ara:fas:urd:(qalam). hau:alƙalami. yor:swa:kalamu. tur:kalem. hin:क़लम (qalam). ben:কলম (kôlôm). spa:por:cálamo.|
@@ -478,6 +484,7 @@
 |posteno|asan|hin:आसन (āsan). eng:asana. rus:асана (asana).|
 |povi|abla|eng:able. spa:hábil. fra:habile. ron:abil.|
 |poŝo|jebe|hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.|
+|presaĵo|cape|hin:छाप (chāp). may:cap. eng:chop.|
 |preĝejo|eglis|fas:(kelisā). tur:kilise. ind:gereja. por:igreja. hin:गिरजा (girjā). ara:(kanisā). fra:église.|
 |preĝi|duwa|tur: dua. swa: dua. ind: doa. ara: دُعَاء‏ /duʿāʾ/.|
 |printempo|cune|zho:春 (chūn). yue:(ceon1). jpn:春季 (shunki). kor:춘계 (chun-gye). vie:xuân.|
@@ -503,7 +510,7 @@
 |religio|din|ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).|
 |respondo|jawabe|ara:(jawāb). swa:jibu,jawabu. tur:cevap. fas:(javāb). hin:जवाब (javāb). ind:jawab.|
 |reto|nete|eng: net. deu: Netz.|
-|rezervo|buking|eng:booking. deu:Buchung. hin:(buking).|
+|rezervo|rezerve|eng:reservation. fra:réservation. por:spa:reserva. tur:rezerve. rus:резервирование (rezervirovaniye).|
 |rezino|rezin|eng:resin. fra:résine. fas:(rezin). por:spa:resina. tur:reçine.|
 |rigardi ia|konsida|eng:consider. spa:considerar.|
 |rilato|guanxe|zho:关系 (guānxi). vie:quan hệ. kor:관계 (gwangye). jpn:関係 (kankei).|
@@ -583,7 +590,7 @@
 |tablo|meze|tam:மேசை (mesei). fas: میز‏‎ /miz/. hin: मेज़ /mez/. por: mesa. swa: meza. ind: meja.|
 |tago|den|hin:दिन (din). ben:দিন (din). rus:день (deń). yue:天 (tin). zho:天 (tiān).|
 |tamburo|tambur|swa:sna:kon:ngoma. nya:ng'oma. + zho:鼓 (gǔ).|
-|tamen|lekin|ara: لكن (lākin). hin:लेकिन (lekin). Swa:lakini.|
+|tamen|lekin|ara: لكن (lākin). hin:लेकिन (lekin). swa:lakini.|
 |taso|kupe|fra:coupe. tur:kupa. ara:(kūb). spa:copa. eng:cup. hin:कप (kap). jpn:コップ (koppu). kor:컵 (keop).|
 |tatuo|tataw|sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).|
 |tekniko|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
