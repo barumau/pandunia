@@ -19,7 +19,7 @@
   * [日本語](../nipon/index.md)
   * [pandunia](../pandunia/index.md)
   * [polski](../polski/index.md)
-  * [português](../portugal/index.md)
+  * [português](../portugali/index.md)
   * [русский](../rusi/index.md)
   * [suomi](../suomi/index.md)
   * [中文](../cini/index.md)
