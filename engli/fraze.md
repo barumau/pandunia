@@ -88,7 +88,7 @@ Thanks a lot!
 **si, danke.**
 Yes, thank you.
 
-**ni, danke.**
+**no, danke.**
 No, thank you.
 
 **danka te.**
@@ -208,7 +208,7 @@ How are you? (Literally: _Are you good?_)
 I'm good.  
 **eska te?**
 And you?  
-**me ni bon.**
+**me no bon.**
 I'm not good.
 
 <small>Etymology. **eska**
@@ -247,14 +247,14 @@ The apple is a fruit.
 "shì", Shanghaiese: 是 "sí".</small>
 
 
-### ni <small>no, not</small>
+### no <small>no, not</small>
 
 <p style="font-size:5em">👎</p>
 
-**me ni sarah.**
+**me no sarah.**
 I'm not Sarah.
 
-**me ni dotor.**
+**me no dotor.**
 I'm not a doctor.
 
 **eska te bon?**
@@ -264,17 +264,17 @@ Yes, I'm well.
 
 **eska te bon?**
 Are you well?  
-**ni. me ni bon.**
+**no. me no bon.**
 No, I'm not well.
 
-You can use **ni** to deny anything. It is placed before the word that is
+You can use **no** to deny anything. It is placed before the word that is
 denied.
 
-**le ni salama me.**
+**le no salama me.**
 He/she doesn't greet me.
 
-<small>Etymology. **ni**
-is from Ukrainian: ні (ni), Afrikaans: nie, Polish: nie, Spanish: ni, French: ni.</small>
+<small>Etymology. **no**
+is from Spanish: no, English no, French: non.</small>
 
 
 ### Plurals
@@ -422,7 +422,7 @@ Name, English: name.</small>
 **me tena bon dom.**
 I have a good house.
 
-**le ni tena pese.**
+**le no tena pese.**
 He/she doesn't have money.
 
 **me wana tena novi fon.**
@@ -510,7 +510,7 @@ I want to drink coffee.
 
 **eska te wana niama cay?**
 Would you like to drink tea?  
-**ni. me ni wana cay. me wana kafe.**
+**no. me no wana cay. me wana kafe.**
 No, I don't want tea. I want coffee.
 
 **te wana ki aple?**
@@ -576,7 +576,7 @@ Are you thirsty?
 
 ### pardon <small>sorry, pardon</small>
 
-**pardon! me ni aha.**
+**pardon! me no aha.**
 Sorry, I don't understand.
 
 **pardon! ye ke?**
@@ -594,10 +594,10 @@ Do you understand me?
 **me aha.**
 I understand.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Sorry. I don't understand you.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 I didn't quite understand you.
 
 **me aha nol.**
@@ -609,7 +609,7 @@ I don't understand at all.
 **me abla gida kar.**
 I can drive a car.
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 He/she doesn't know how to drive a car.
 
 **eska te abla xula le?**
@@ -624,10 +624,10 @@ I can speak Pandunia.
 **me abla lil pandunia.**
 I can speak a little Pandunia.
 
-**me ni abla engli.**
+**me no abla engli.**
 I can't speak English.
 
-**pardon. me ni abla te du bax.**
+**pardon. me no abla te du bax.**
 Sorry, I can't speak your language.
 
 
@@ -657,7 +657,7 @@ Cat says meow.
 **auda me!**
 Listen to me!
 
-**me ni abla auda te.**
+**me no abla auda te.**
 I can't hear you.
 
 **plisa loga forti.**
@@ -696,7 +696,7 @@ What does "maw" mean?
 **le mena yang da hewan.**
 It means a kind of animal.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 I don't understand what it means.
 
 
@@ -920,7 +920,7 @@ I give this to you.
 **me dona buke pa lole.**
 I give a book to them.
 
-**le ni wana dona le pa me.**
+**le no wana dona le pa me.**
 He/she doesn't want to give it to me.
 
 
@@ -944,7 +944,7 @@ I will take a beer.
 **kire si 500 dolar sa mes.**  
 The rent is 500 dollars in a month.
 
-**le ni abla peya kire.**  
+**le no abla peya kire.**  
 He/she can't pay the rent.
 
 **me wana kapa un kar sa kire.**  
@@ -1009,7 +1009,7 @@ I study Pandunia.
 
 **xowa le pa me sa leksobuke!**
 Show me in the dictionary!
-**me ni yada.**
+**me no yada.**
 I don't remember.
 
 ****

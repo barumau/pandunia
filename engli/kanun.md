@@ -36,11 +36,13 @@ and the main classes of function words are: pronouns, determiners, prepositions 
 The vowel endings indicate the classes of content words as follows:
 
 - **-e** indicates a noun
-- **-i** indicates a modifier
+- **-i** indicates an adjective
+- **-o** indicates an adverb
 - **-a** indicates an active verb
 - **-u** indicates a passive verb
 
-For example, **log-** is the stem for the noun **loge** (_speech_), the modifier **logi** (_spoken_ or _oral_ or _orally_),
+For example, **log-** is the stem for the noun **loge** (_speech_),
+the adjective **logi** (_spoken_ or _oral_), the adverb **logo** (_orally_),
 the active verb **loga** (_to speak_), and the passive verb **logu** (_to be spoken_).
 
 The same vowel endings are used also in function words,
@@ -48,10 +50,12 @@ and they indicate the classes of function words as follows:
 
 - **-e** indicates a pronoun
 - **-i** indicates a determiner
+- **-o** indicates an adverb
 - **-a** indicates a preposition
 - **-u** indicates a postposition
 
-For example, **m-** is the stem for the pronoun **me** (_I_) and the determiner **mi** (_my_).
+For example, **k-** is the stem for the interrogative pronoun **ke** (_what_),
+the adverb **ko** (_how_) and the determiner **ki** (_which_).
 
 Cardinal numerals don't have any vowel ending.
 
@@ -73,34 +77,40 @@ They are described in more detail later in this document.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Words consist of a stem and one or more suffixes.
    The last suffix indicates the word class to which the word belongs.
-   - Modifiers end in **-i**, ex. **novi** = new.
+   - Adjectives end in **-i**, ex. **novi** = new.
+   - Adverbs end in **-o**, ex. **novo** = newly.
    - Active verbs end in **-a**, ex. **me loga** = I speak.
    - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
    - Nouns end in **-e**, **-ia** or zero.
-4. Nouns have a single, unchanging form.
-5. The adjectives and the adverb have the same form.
-   Together they are called modifiers.
-   They come before the word that they modify.
-   All modifiers, except the most common few, end in **-i**.
+4. Nouns have a single, unchangeable form.
+5. Adjectives come before the word that they modify.
+   All adjectives, except the most common few, end in **-i**.
     - ex. 1. **rapi loge** = A fast talk.
     - ex. 2. **te rapi loga.** = You talk fast.
-6. The verb ending **-a** indicates that the verb is active
+6. Adverbs modify verbs, adjectives, other adverbs and complete sentences.
+   They come before the word that they modify or very last in the sentence.
+   All adverbs, except the most common few, end in **-o**.
+    - ex. 1. **vero rapi loge** = A very fast talk.
+    - ex. 2. **te loga bono.** = You talk well.
+7. The verb ending **-a** indicates that the verb is active
    and the agent of the action is immediately before the verb.
     - ex. **me niama aple.** = I eat apples.
-7. The verb ending -u indicates that the verb is passive
+8. The verb ending -u indicates that the verb is passive
    and the recipient of the action is immediately before the verb.
     - ex. **aple niamu.** = Apples are eaten.
-8. In the _pivot structure_, the object of the transitive verb
+9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
     - ex. **me plisa te dona pes.** = I ask you to give money.
-9. Pronouns can be left out when they are obvious and redundant.
+10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
-    - **me plisa te loga ming.** →  **plisa loga ming.** = Please speak
-      clearly.
-10. Compound words are created by putting the element words side by side.
-   The linking vowel **-o-** is inserted between the elements.
-    - ex. **poste** (mail) + **sanduke** (box) → **postosanduke** (mailbox)
+    - **me plisa te loga mingo.** →  **plisa loga mingo.**
+      = Please speak clearly.
+11. Compound words are created by putting the word stems side by side.
+    The padding vowel **-e-** is inserted between the stems
+    if the resulting word would be otherwise too difficult to pronounce.
+    - ex. **hur-** (freedom) + **ist-** (proponent) → **huriste** (liberalist)
+    - ex. **post-** (mail) + **sanduk-** (box) → **postesanduke** (mailbox)
 
 --------------------------------------------------------------------------------
 
@@ -158,7 +168,7 @@ for example good, bad, big, and fast.
 ### 3.1. Modifying a noun
 
 An adjective is a word that adds a particular quality for a noun.
-In Pandunia, an adjective is a modifier that is before a noun.
+In Pandunia, adjectives typically end in **-i** and their place is before a noun.
 
 **novi kar**
 – new car(s)  
@@ -166,12 +176,17 @@ In Pandunia, an adjective is a modifier that is before a noun.
 – fast car(s)  
 **day meze**
 – big table(s)  
-**gaw meze**
+**gawi meze**
 – high table(s)  
 **bon kurse**
 – good chair(s)
 
-When adjective can be also after the noun.
+Two or more adjectives can modify the same word.
+
+**lil novi kar**
+– a little, new car
+
+Adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
 **kar novi.**
@@ -188,14 +203,14 @@ Naturally there can be modifiers on both sides of the noun as well.
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Pandunia an adverb is a modifier that is before a verb or at the
-end of the sentence.
+In Pandunia adverbs end in **-o** and their place is before a verb
+or at the end of the sentence.
 
-**me _bon_ sona.**
+**me _bono_ sona.**
 – I well sleep.  
-**me sona _bon_.**
+**me sona _bono_.**
 – I sleep _well_.  
-**te baxa pandunia _bon_.**
+**te baxa pandunia _bono_.**
 – You speak Pandunia _well_.
 
 ### 3.3. Modifying another modifier
@@ -207,18 +222,14 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 – a big person  
 **lil ren**
 – a little person  
-**sundar ren**
+**sundari ren**
 – a beautiful person
 
-**day sundar ren**
+**dayo sundari ren**
 – very beautiful person  
-**lil sundar ren**
+**lilo sundari ren**
 – somewhat beautiful person
 
-The modifiers can be separated by using **e** (and).
-
-**lil e sundar ren**
-– a little and beautiful person
 
 ### 3.4. Comparison
 
@@ -230,23 +241,13 @@ Modifiers can be compared.
 - **minim** (least) indicates the superlative of inferiority
 - **sam** (as) indicates the comparison of equality
 
-Particle **ka** relates the adverbs of comparison to the point of
-comparison.
+Particle **ka** relates the adverbs of comparison to the point of comparison.
 
 **me si max bon ka te.**
 = I am better than you.  
-**te loga sam bon ka me.**
+**te loga sam bono ka me.**
 = You speak as well as me.
 
-#### 3.6. Modifier ending
-
-Adjectives end in **-i** by default.
-The ending is used always with words that are derived from action roots and thing roots.
-Ex. **logi** _oral, spoken_, **suki** _happy_, **kitabi** _written, textual_.
-
-The ending is not used in a handful of description roots that end in a single consonant
-that is easy to pronounce.
-Ex. **bon** (_good_), **day** (_big_), and **lil** (_small_).
 
 --------------------------------------------------------------------------------
 
@@ -391,7 +392,7 @@ It does the job of English words _who_ and _what_.
 – Who or what?  
 
 The adjectival interrogative pronoun is **ki**
-and it means the same as English _which_ and _how_.
+and it means the same as English _which_.
 
 **ki xey?**
 – What? (Which thing?)  
@@ -402,18 +403,23 @@ and it means the same as English _which_ and _how_.
 **ki yang?**
 – How? (What manner?)
 
+The adverbial interrogative pronoun is **ko**
+and it means the same as English _how_.
+
 Also adjectives are questioned with **ki**.
 
-**ki pol?**
+**ko novi?**
+– How new?  
+**ko kosti?**
+– How costy?  
+**ko pol?**
 – How many?  
-**ki long?**
-– How long?  
-**ki day?**
+**ko day?**
 – How big?  
-**ki lil?**
+**ko lil?**
 – How small?
 
-**ki day du maw te tena?**
+**te tena ko day maw?**
 – How big cat do you have?
 
 --------------------------------------------------------------------------------
@@ -529,13 +535,13 @@ In the simplest sentences, the subject is a noun or a pronoun and the predicate 
 **meze novi.**
 – The table is new.  
 
-The word **ni** is added to form the negative.
+The word **no** is added to form the negative.
 
-**me ni bon.**
+**me no bon.**
 – I'm not good.  
-**le ni novi.**
+**le no novi.**
 – It's not new.  
-**le ni sarah.**
+**le no sarah.**
 – She is not Sarah.
 
 It is possible to add the word **si** (yes) before the predicate in positive sentences,
@@ -548,14 +554,14 @@ Then the structure is similar like in negative sentences.
 – The stone is big.  
 **meze si novi.**
 – The table is new.  
-**meze ni law.**
+**meze no law.**
 – The table is not old.
 
-Also two personal pronouns can be combined with **si** and **ni**.
+Also two personal pronouns can be combined with **si** and **no**.
 
 **me si le.**
 – I am he/she.  
-**me ni te.**
+**me no te.**
 – I'm not you.
 
 #### 7.2.2. With adjective subject
@@ -564,7 +570,7 @@ The same rule applies also for two adjectives.
 
 **jowan si sundar.**
 – Young is beautiful.  
-**novi ni purani.**
+**novi no purani.**
 – New is not old.  
 
 #### 7.2.3. With verb subject
@@ -695,7 +701,7 @@ This is done especially in commands and requests.
 – I like cats and dogs.  
 **me suku maw o waf.**
 – I like cats or dogs.  
-**me suku maw a ni waf.**
+**me suku maw a no waf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -706,9 +712,9 @@ This is done especially in commands and requests.
 
 ### 9.1.1. Affirmative
 
-Particle **si** is affirmative and **ni** is negative.
-**si** affirms the existence of something, whereas **ni** denies it.
-In other words **si** means "to be" or "there is" and **ni** means "not to be" or "there is not".
+Particle **si** is affirmative and **no** is negative.
+**si** affirms the existence of something, whereas **no** denies it.
+In other words **si** means "to be" or "there is" and **no** means "not to be" or "there is not".
 
 Expressions are affirmative by default, so the word **si** is not always necessary.
 However it is especially convenient in expressions of state.
@@ -720,47 +726,47 @@ However it is especially convenient in expressions of state.
 
 ### 9.1.2. Negative
 
-Such sentences can be simply negated with **ni**.
+Such sentences can be simply negated with **no**.
 
-**me ni ren.**
+**me no ren.**
 – I'm not a person.  
-**le ni novi meze.**
+**le no novi meze.**
 – It's not a new table.
 
-The word **ni** is used for denying anything.
+The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
 **me vida te.**
 – I see you.  
-**me ni vida te.**
+**me no vida te.**
 – I don't see you.  
-**me vida ni te a lole.**
+**me vida no te a lole.**
 – I see, not you, but them.
 
 **me plisa te safa kamar.**
 – I ask you to clean the room.  
-**me ni plisa te safa kamar.**
+**me no plisa te safa kamar.**
 – I do NOT ask you to clean the room.  
-**me plisa te ni safa kamar.**
+**me plisa te no safa kamar.**
 – I ask you NOT to clean the room.
 
-The particles **si** and **ni** are used also for answering questions.
+The particles **si** and **no** are used also for answering questions.
 
 **eska te vida me?**
 – Do you see me?  
 **si. (me si vida te.)**
 – Yes. (I do see you.)  
-**ni. (me ni vida te.)**
+**no. (me no vida te.)**
 – No. (I don't see you.)
 
-Negative questions are answered so that **si** and **ni** apply to the verb, not the whole question.
+Negative questions are answered so that **si** and **no** apply to the verb, not the whole question.
 
-**eska te ni vida me?**
+**eska te no vida me?**
 – Don't you see me?  
 **si. (me si vida te.)**
 – Yes. (I do see you.)  
-**ni. (me ni vida te.)**
+**no. (me no vida te.)**
 – No. (I don't see you.)
 
 
@@ -928,7 +934,7 @@ They function like adjectives and adverbs, so typically their place is before th
 
 **me pas tena maw.**
 – I had cats.  
-**a me ni zay tena maw.**
+**a me no zay tena maw.**
 – But I now don't have cats.  
 **abli me wil tena maw.**
 – Maybe I will have cats.
@@ -937,7 +943,7 @@ It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 
 **me tena maw sa pase.**
 – I had cats in the past.  
-**a me ni tena maw sa zaye.**
+**a me no tena maw sa zaye.**
 – But I don't have cats at present.  
 **munkin me tena maw sa wile.**
 – Maybe I will have cats in the future.
@@ -1175,20 +1181,21 @@ It is an artistic choice by the authors of Pandunia to not require them on noun 
 Two or more nouns can be put together to make a _compound word_.
 The last word is the most meaningful word in the compound and the words that come before it only modify its meaning.
 
-Compound words are created by putting two words together and by inserting the linking vowel **-o-** between them
-(in place of the original word class marker).
+The way to create compound words is to put two or more word stems together,
+insert the padding vowel **-e-** between them if necessary,
+and add the word class marker, if applicable.
 
-Example: Creating **termometer** from **terme** and **meter**.  
+Example: Creating **termemeter** from **terme** and **meter**.  
 First the word class marker **-e** is removed from **terme**, leaving **term**.
-Then the linking vowel **-o-** is added and then the second word **meter**,
-resulting into **term-o-meter** i.e. **termometer**.
+Then the linking vowel **-e-** is added and then the second word **meter**,
+resulting into **term-e-meter** i.e. **termemeter**.
 
          terme      (temperature)  
        + meter      (measuring device)
     ____________
-    = termometer    (thermometer)
+    = termemeter    (thermometer)
 
-The linking vowel -o- is not used when the second word begins with a vowel.
+The padding vowel -e- is not used when the second word begins with a vowel.
 (So there is the so called _null morpheme_ -∅- instead.)
 
           dew       (god)  
@@ -1319,7 +1326,7 @@ In Pandunia, function words have the following characteristics:
 | 5| Interrogative          |                        | **ke**<br>what?        | **ki**<br>which?       |                        |
 | 6| Near demonstrative     |                        | **ye**<br>this/that one| **yi**<br>this/that    |                        |
 | 7| Far demonstrative      |                        | **we**<br>this/that one| **wi**<br>this/that    |                        |
-| 8| Negation / absence     | **na**<br>without      |                        | **ni**<br>not          | **nu**<br>-less        |
+| 8| Negation / absence     | **na**<br>without      |                        | **no**<br>not          | **nu**<br>-less        |
 | 9| Affirmation / presence | **sa**<br>with, by, at |                        | **si**<br>yes          | **su**<br>-ed, -ful    |
 |10| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
 |11| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
