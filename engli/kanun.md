@@ -84,11 +84,14 @@ They are described in more detail later in this document.
    All modifiers, except the most common few, end in **-i**.
     - ex. 1. **rapi loge** = A fast talk.
     - ex. 2. **te rapi loga.** = You talk fast.
-6. The verb ending **-a** indicates that the agent of the action is immediately before the verb.
+6. The verb ending **-a** indicates that the verb is active
+   and the agent of the action is immediately before the verb.
     - ex. **me niama aple.** = I eat apples.
-7. The verb ending -u indicates that the recipient of the action is immediately before the verb.
+7. The verb ending -u indicates that the verb is passive
+   and the recipient of the action is immediately before the verb.
     - ex. **aple niamu.** = Apples are eaten.
-8. In the _pivot structure_, the object of the transitive verb functions as the subject of the next verb.
+8. In the _pivot structure_, the object of the transitive verb
+   functions as the subject of the next verb.
     - ex. **me plisa te dona pes.** = I ask you to give money.
 9. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
