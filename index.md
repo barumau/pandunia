@@ -1,5 +1,5 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia ya bandir")
+![](http://www.pandunia.info/bandir/bandir.png "pandunia da bandir")
 
 #pandunia - egal dunia bax
 
@@ -27,3 +27,4 @@
 
 #### [中文](cini/index.md) 🇨🇳 🇹🇼 🇭🇰 🇸🇬
 
+<small><br><br>[info & license](README.md)</small>
