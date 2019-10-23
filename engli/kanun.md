@@ -37,11 +37,11 @@ The vowel endings indicate the classes of content words as follows:
 
 - **-e** indicates a noun
 - **-i** indicates a modifier
-- **-a** indicates a forward verb
-- **-u** indicates a backward verb
+- **-a** indicates an active verb
+- **-u** indicates a passive verb
 
 For example, **log-** is the stem for the noun **loge** (_speech_), the modifier **logi** (_spoken_ or _oral_ or _orally_),
-the forward verb **loga** (_to speak_), and the backward verb **logu** (_to be spoken_).
+the active verb **loga** (_to speak_), and the passive verb **logu** (_to be spoken_).
 
 The same vowel endings are used also in function words,
 and they indicate the classes of function words as follows:
@@ -74,8 +74,8 @@ They are described in more detail later in this document.
 3. Words consist of a stem and one or more suffixes.
    The last suffix indicates the word class to which the word belongs.
    - Modifiers end in **-i**, ex. **novi** = new.
-   - Forward verbs end in **-a**, ex. **me loga** = I speak.
-   - Backward verbs end in **-u**, ex. **le logu** = It is spoken.
+   - Active verbs end in **-a**, ex. **me loga** = I speak.
+   - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
    - Nouns end in **-e**, **-ia** or zero.
 4. Nouns have a single, unchanging form.
 5. The adjectives and the adverb have the same form.
@@ -449,36 +449,18 @@ Consider the following examples:
 – Room is cleaned by me.
 
 As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
-That's why verbs with **-a** are called _forward verbs_
-and verbs with **-u** are called _backward verbs_.
+Verbs that end in **-a** are active
+and verbs that end in **-u** are called passive.
 
-What follows is a theoretical explanation of how verbs work in Pandunia.
-It is not necessary to understand the triangular patterns completely.
-You can even skip them at first and go directly to chapter 7.
+### 6.2. Active verbs
 
-### 6.2. Forward verbs
+Verbs that end in **-a** are called _active verbs_.
+The sentence word order is subject–verb–object.
 
-Verbs that end in **-a** are called _forward verbs_
-because the word orders go _forward_ from the agent via the verb to the recipient.
-
-Verbs that end in **-a** use this triangular pattern.
-
-    Word order triangle for verbs that end in -a
-    
-      V
-     ↗ ↘
-    A ← R
-
-#### 6.2.1. Order A1: Agent, verb and recipient
-
-The most common word order in Pandunia is agent-verb-recipient.
-In this sentence structure the agent comes first, the verb second, and the recipient third.
-
-    agent-verb-recipient
-    
-      V
-     ↗ ↘
-    A   R
+The subject of an active verb does the action that the verb indicates.
+So it is the doer or the agent of the action.
+The action is done to the object,
+so the object is the passive recipient of the action.
 
 Examples:  
 **te vida ke?**
@@ -488,58 +470,17 @@ Examples:
 **te beka pang.**
 – You bake bread.  
 
-#### 6.2.2. Order A2: Recipient, agent and verb
+### 6.3. Passive verbs
 
-The second structure in this triangle is recipient-agent-verb.
-It is frequent in dependant clauses.
+Verbs that end in **-u** are called _passive verbs_.
+The sentence word order is again subject–verb–object,
+but the actual roles of subject and object are different than with active verbs.
 
-    recipient-agent-verb
-    
-      V
-     ↗ 
-    A ← R
+The subject of a passive verb receives or "suffers" the action, which is done to it,
+and the object is the source of the action.
 
-Examples:  
-**ke te vida?**
-– What do you see?  
-**me niama pang, da te beka.**
-– I eat bread _that you baked._
-
-#### 6.2.3. Order A3: Verb, recipient and agent
-
-The third structure of this triangle is the verb-recipient-agent, which is rarely used.
-It is described here only for the sake of completeness.
-
-    verb-recipient-agent
-    
-      V
-       ↘
-    A ← R
-
-### 6.3.Backward verbs
-
-Verbs that end in **-u** are called _backward verbs_
-because the word orders go _backward_ from the recipient via the verb to the agent.
-
-Verbs that end in **-u** use this triangular pattern.
-
-    Word order triangle for verbs that end in -u
-    
-      V
-     ↗ ↘
-    R ← A
-
-#### 6.3.1. Order U1: Recipient, verb and agent
-
-The recipient-verb-agent order is common in sentences where the subject is a passive recipient.
-
-    recipient-verb-agent
-    
-      V
-     ↗ ↘
-    R   A
-
-Often they can be translated to English by using the passive voice or an intransitive verb
+Often passive sentences in Pandunia can be translated to English
+by using the passive voice or an intransitive verb
 but sometimes a transitive verb can be used too.
 
 Examples:  
@@ -549,54 +490,6 @@ Examples:
 – Birds live (in) trees.  
 **te suku me.**
 – You are pleased by me. (Or: You like me.)
-
-#### 6.3.2. Order U2: Agent, recipient and verb
-
-The agent-recipient-verb order is commonly used alternative for the agent-verb-recipient order.
-
-    agent-recipient-verb
-    
-      V
-     ↗ 
-    R ← A
-
-Examples:  
-**me lole vidu.** - _I them see._  
-**te pang beku.** - _You bread bake._
-
-#### 6.3.3. Order U3: Verb, agent and recipient
-
-The verb-agent-recipient order is very rare but possible.
-It is described here only for the sake of completeness.
-
-    verb-agent-recipient
-    
-      V
-       ↘
-    R ← A
-
-### 6.4. Summary of word orders
-
-In theory there are six possible word orders for transitive verbs.
-In practice, all of them are possible in Pandunia.
-They are made possible by the two verb endings, which decide the order of the agent and the recipient.
-
-Different orders put the focus on different constituents: the agent, the recipient or the verb.
-The focus or emphasis is on the first constituent in the sentence.
-
-    1. With the verb ending in -a
-        - recipient–agent–verb : musike me auda.
-        - agent–verb–recipient :        me auda musike.
-        - verb–recipient–agent :           auda musike me.
-    2. With the verb ending in -u
-        - agent-recipient-verb : me musike audu.
-        - recipient-verb-agent :    musike audu me.
-        - verb-agent-recipient :           audu me musike.
-
-The constituent, which is further away from the verb, can be left out.
-So for example **musike me auda** can be truncated to **me auda**.
-Likewise **me musike audu** can be truncated to **musike audu**.
-Then it is possible to say something about either the agent or the recipient only.
 
 
 --------------------------------------------------------------------------------
@@ -686,34 +579,19 @@ Pandunia doesn't use a verb like "to be" in English.
 
 ### 7.3. Active Sentences
 
-In predicates of action, the main word in the predicate is a verb (i.e. an action-word).
-In Pandunia, verbs are easy to identify because all of them end in **-a** or **-u**.
+An active sentence is a sentence where the subject does the action denoted by the verb to the object.
+The focus is on the subject as the active counterpart.
+The correct word order is subject-verb-object (SVO).
 
-In Pandunia, two word orders are commonly used in active sentences:
-subject-verb-object (SVO) and subject-object-verb (SOV).
-A subject can be the agent or the recipient of the action.
+In Pandunia, active verbs are easy to identify because all of them end in **-a**.
+
 
 The following sentences are in SVO order.
 
 **me niama aple.**
 – I eat apples.  
 **me vida te.**
-– I see you.  
-**me suku musike.**
-– I like music.
-
-The following sentences are in SOV order.
-They can't be translated word-by-word into English becaues English doesn't really support the SOV word order.
-
-**me aple niamu.**
-– _I apples eat._  
-**me te vidu.**
-– _I at you look._
-
-Pandunia supports both SVO and SOV word orders.
-The are the most common word orders in the languages of the world.
-SOV is used in many languages, including Hindi, Urdu, Bengali, Tamil, Turkish, Japanese and Korean.
-SVO is used in English, French, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
+– I see you.
 
 
 ### 7.4. Passive Sentences
@@ -723,7 +601,9 @@ that is a passive recipient that undergoes the action.
 So the recipient is the subject of the sentence.
 Often the agent is not mentioned at all.
 
-Normally the passive is expressed with the verb ending in **-u** and the recipient-verb word order.
+In Pandunia, the passive voice is expressed with the verb ending in **-u**.
+The word order is subject–verb–(optional object) or, more precisely,
+recipient–verb–(optional agent).
 
 **te vidu.**
 – You are seen.  
@@ -739,6 +619,13 @@ The agent can be mentioned after the verb with or without the preposition **da**
 **te vidu me.** - You are seen by me.  
 **te vidu da me.** - You are seen by me.
 
+Sometimes a passive verb can be translated with an active verb in English.
+That is sometimes the case with **suku**, which means _to be pleased by_ (a passive verb) or _to like_ (an active verb).
+That is because the direction of pleasing is from the active doer to the passive recipient.
+
+**me suku musike.**
+– I am pleased by music. / I like music.
+
 
 ### 7.6. Pivot structure
 
@@ -753,7 +640,7 @@ It is at the same time the object for verb 1 and the subject for verb 2.
 **me wana te niama sabze.**
 – I want you eat vegetables.
 
-In the example above, **me wanta** has **te** as its object.
+In the example above, **me wana** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **niama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
@@ -1174,8 +1061,8 @@ Pandunia uses the following vowel endings to mark parts of speech.
 
 - **-e** marks nouns that are derived from action roots and description roots
 - **-i** indicates modifiers
-- **-a** indicates forward verbs
-- **-u** indicates backward verbs
+- **-a** indicates active verbs
+- **-u** indicates passive verbs
 
 The designated vowel endings enable easy derivation of one type of word from another.
 An ending is simply changed to another ending.
@@ -1198,23 +1085,23 @@ Here are a few examples of different types of ideas.
 - concrete action
     - **kitabe** a writing (noun)
     - **kitabi** written, textual (modifier)
-    - **kitaba** to write (forward verb)
-	- **kitabu** to be written (backward verb)
+    - **kitaba** to write (active verb)
+	- **kitabu** to be written (passive verb)
 - abstract action
     - **fikre** a thought (noun)
     - **fikri** thinking (modifier)
-    - **fikra** to think (forward verb)
-	- **fikru** to be thought (backward verb)
+    - **fikra** to think (active verb)
+	- **fikru** to be thought (passive verb)
 - description
     - **longe** length (noun)
     - **longi** long (modifier)
-    - **longa** to make long, to lengthen (forward verb)
-	- **longu** to get long (backward verb)
+    - **longa** to make long, to lengthen (active verb)
+	- **longu** to get long (passive verb)
 - tool
     - **hamar** a hammer (noun)
     - **hamari** "hammery", hammerlike (modifier)
-    - **hamara** to hammer, to apply hammer on sth (forward verb)
-	- **hamaru** to be hammered (backward verb)
+    - **hamara** to hammer, to apply hammer on sth (active verb)
+	- **hamaru** to be hammered (passive verb)
 
 
 #### 11.1.2. Deriving verbs
@@ -1434,10 +1321,5 @@ In Pandunia, function words have the following characteristics:
 |10| Possession             | **da**<br>of           |                        |                        | **du**<br>'s           |
 |11| Destination            | **pa**<br>to, for      |                        |                        | **pu**<br>-ward, -bound|
 |12| Origin                 | **ca**<br>from, since  |                        |                        | **cu**                 |
-
-
-B c d F G H J k l m n p R s t W X y z
-
-
 
 
