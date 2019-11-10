@@ -10,7 +10,7 @@ This website is available online at http://www.pandunia.info
 
 All pure text files are stored in a version control repository in GitHub at https://github.com/barumau/pandunia
 
-#### Multilintual documentation
+#### Multilingual documentation
 
 The documentation is in many languages. The first language of the documentation is currently English. (It may be changed to Pandunia in the future.) All other language versions are translated and adapted from the first language.
 
