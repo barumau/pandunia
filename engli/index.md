@@ -13,11 +13,11 @@ Some remarkable features of Pandunia:
 
 - Pandunia is simpler and easier than naturally evolved international languages
   like English, Chinese, French and Arabic.
-- As a constructed language, Pandunia is completely regular – there are no
-  exceptions.
-- Pandunia is truly international! Words of Pandunia are world words, which are
-  borrowed from many languages all across the globe, including the top-10 most
-  widely spoken languages of the world.
+- As a constructed language, Pandunia is completely regular
+  – there are no exceptions.
+- Pandunia is truly international!
+  Words of Pandunia are world words, which are borrowed from many languages around the world,
+  including (but not restricted to) the top-10 most widely spoken languages of the world.
 
 ## Learning material
 
@@ -49,7 +49,6 @@ Some remarkable features of Pandunia:
 ## Presentations (in PDF format)
 
 - [General Presentation](Pandunia-presentation.pdf)
-- [Word orders](word-orders.pdf)
 
 ## Join Others
 
