@@ -19,32 +19,32 @@ adres - adres
 adulte - osoba dorosła  
 afgania - Afganistan  
 afrike - Afryka  
+afrikefiler - afrofil  
+afrikefilia - afrofilia  
 afriki - afrykański, Afrykanin  
-afrikofiler - afrofil  
-afrikofilia - afrofilia  
 agres - atak (agresja, napaść)  
 agresi - agresywny  
 aha - rozumieć, pojmować  
 ainstainium - einstein  
 air - powietrze  
-airobar - ciśnienie atmosferyczne  
-airobarometer - barometr  
+airbare - ciśnienie atmosferyczne  
+airbaremeter - barometr  
 ais - lód  
+aisehoke - hokej na lodzie  
+aisekrem - lody  
 aisi - lodowy  
-aisohoke - hokej na lodzie  
-aisokrem - lody  
 ajil - zwinny, sprawny  
 akse - oś  
 aksente - akcent, nacisk  
+alefone - alofon  
+alenami - innymi słowy  
+aleseksekami - heteroseksualny  
 alge - alga (wodorost)  
 ali - inny  
 alkol - alkohol  
 alkoli - alkoholowy  
 almar - kredens (szafa, szafka)  
 almas - diament  
-alofone - alofon  
-alojinsokami - heteroseksualny  
-alonami - innymi słowy  
 altar - ołtarz  
 alumin - glin (aluminium)  
 am - miłość (afekt)  
@@ -78,7 +78,7 @@ arabi - arabski
 arane - pająk  
 aranofobia - arachnofobia  
 arbe - drzewo  
-arboparke - arboretum  
+arbeparke - arboretum  
 arbuze - arbuz  
 are - pole, powierzchnia  
 argentin - Argentyna  
@@ -87,7 +87,7 @@ aria - powierzchnia, region, teren
 arize - ryż  
 arsen - arsen  
 arte - sztuka  
-arter - artysta  
+artiste - artysta  
 arubia - Aruba  
 asan - postawa ciała; asana  
 asi - azjatycki  
@@ -101,9 +101,9 @@ ate - jabłko cukrowe
 atom - atom  
 auda - usłyszeć, słyszeć; słuchać  
 australia - Australia  
-automoti - samobieżny  
-autonomi - autonomiczny  
-autonomia - autonomia  
+autemoti - samobieżny  
+autenomi - autonomiczny  
+autenomia - autonomia  
 awakate - awokado  
 axur - Aszur  
 axuria - Asyria  
@@ -231,7 +231,6 @@ bombe - bomba
 bon - dobry  
 bon rupi - przystojny, atrakcyjny, ładny  
 bon zar - dobry los, szczęście  
-bora - wiercić, borować  
 borium - bohr  
 boron - bor  
 bosnia - Bośnia i Harcegowina  
@@ -361,8 +360,8 @@ darwinistia - darwinizm
 daw - droga, szosa, ulica  
 dawiste - taoista  
 dawistia - taoizm  
-day - duży; bardzo  
-dayosamude - ocean  
+day - duży  
+daysamude - ocean  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
 deci - decy-, dziesiąta część  
 defa - obronić (chronić)  
@@ -370,8 +369,8 @@ defe - obrona
 defer - obrońca  
 defta - zapisać (zarejestrować)  
 defte - rejestr  
+deftebuke - dziennik pokładowy (notatnik)  
 deftia - register  
-deftobuke - dziennik pokładowy (notatnik)  
 deka - przykryć, przykrywać, ukryć, ukrywać  
 deke - pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula - odsłonić, odsłaniać  
@@ -584,6 +583,7 @@ fone - głoska
 foneme - fonem  
 fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
+fora  - wiercić, borować  
 forke - widelec  
 forma - ukształtować, kształtować, urzeźbić, rzeźbić  
 forme - forma, kształt  
@@ -702,6 +702,7 @@ gurubomanse - wieprzowina
 gusta - smakować, próbować smaku  
 guste - smak  
 gustu ka - smakować jak  
+gute - kolano  
 guy - ogr (trol, goblin)  
 ##h
 habar - wiadomość, nius  
@@ -925,6 +926,7 @@ kafe - kawa
 kaferia - kawiarnia  
 kafir - niewierny (poganin, niewierzący)  
 kafokupe - filiżanka do kawy  
+kagaze - papier  
 kaka - defekować, srać  
 kakaw - kakao  
 kake - ekskrement, gówno  
@@ -1236,10 +1238,10 @@ lul - perła
 lun - księżyc  
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
-lutaristi - luterański  
-lutaristia - luteranizm  
 luter - rabuś (grabieżca)  
 lutetium - lutet  
+lutheristi - luterański  
+lutheristia - luteranizm  
 luza - przegrać, przegrywać  
 luzer - przegrany, pokonany  
 ##m
@@ -1474,9 +1476,7 @@ mumia - mumia
 mumonur - świeca  
 mun - drzwi, brama, portal  
 mungus - mangusta  
-mur - mur, ściana  
 muritania - Mauretania  
-muropapir - tapeta  
 musa - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać  
 muse - przymus  
 musika - grać muzykę  
@@ -1529,12 +1529,11 @@ neptunium - neptun
 nes - wyspa  
 nesia - archipelag  
 nete - sieć  
-netoloke - witryna internetowa (portal internetowy)  
-ni - nie  
+neteloke - witryna internetowa (portal internetowy)  
 niam - jedzenie, posiłek  
 niama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 niami - pyszny  
-niamokamar - jadalnia  
+niamkamar - jadalnia  
 nica - pod, poniżej; iść w dół, iść pod spód, iść na dno  
 nici - poniższy  
 nida - potrzebować  
@@ -1552,6 +1551,7 @@ niponium - nihonium
 nitre - azot  
 niwia - Niue  
 nixe - nisza, alkowa  
+no - nie  
 nobelium - nobel  
 noce - noc  
 node - węzeł, zupeł  
@@ -1559,7 +1559,7 @@ nol - zero, nic, żaden
 nol ban - nigdy  
 nol ren - nikt, żadna osoba  
 nol xey - nic, żadna rzecz  
-nolodewiste - ateista  
+noldewiste - ateista  
 noma - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
 nonga - uprawić, uprawiać  
@@ -1662,7 +1662,6 @@ pantalon - spodnie, pantalony, portki
 papagay - papuga  
 papay - papaja  
 pape - ojciec  
-papir - papier  
 papua nowi ginia - Papua Nowa Gwinea  
 par - równy  
 paraguayia - Paragwaj  
@@ -1685,10 +1684,10 @@ paske - Wielkanoc
 pasporte - paszport  
 paste - pasta  
 patate - ziemniak  
+patejener - patogen  
+patelojia - patologia  
 pati - chory  
 patia - choroba  
-patojener - patogen  
-patolojia - patologia  
 paunde - funt (£)  
 pauza - przerwać, przerywać  
 pauze - pauza, przerwa  
@@ -1699,7 +1698,7 @@ paxu - cierpieć
 pay - placek, ciasto  
 peda - pierdzieć  
 pedal - pedał  
-pedalosikle - rower z pedałami  
+pedalsikle - rower z pedałami  
 pede - pierdnięcie  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
@@ -1709,9 +1708,9 @@ penta - namalować, malować
 penter - malarz  
 pepin - ogórek  
 per - pióro  
-peruwia - Peru  
+peruvia - Peru  
 pese - pieniądze  
-pesodiske - moneta  
+pesediske - moneta  
 petre - kamień  
 pexe - profesja, zajęcie, zawód  
 pey - zapłata, opłata  
@@ -1807,7 +1806,7 @@ prizonia - więzienie, zakład karny
 profesor - profesor  
 program - program  
 programer - programista, koder  
-proje - projekt, planowane przedsięwzięcie  
+projete - projekt, planowane przedsięwzięcie  
 prometium - promet  
 proses - proces, procedura  
 protacinium - protaktyn  
@@ -1844,11 +1843,11 @@ rajia - królestwo
 ramazan - Ramadan  
 rampe - rampa  
 randa - heblować  
-randal - hebel, strug  
+rander - hebel, strug  
 rang - kolor  
-rape - prędkość (szybkość)  
-rapi - szybki, prędki  
-rapometer - prędkościomierz  
+rapide - prędkość (szybkość)  
+rapidemeter - prędkościomierz  
+rapido - szybki, prędki  
 ras - rasa  
 rasiste - rasista  
 rasistia - rasizm  
@@ -1901,7 +1900,6 @@ rola - grać, odgrywać rolę
 roler - akt, scena  
 romania - Rumunia  
 romansa - kochać romantycznie  
-romanse - miłość romantyczna  
 romansi - romantyczny  
 rome - Rzym  
 romi empiria - Imperium Rzymskie  
@@ -2017,7 +2015,7 @@ sekse - seks, stosunek płciowy
 seksi - płciowy  
 seksi - seksowny, ponętny  
 sekunde - sekunda  
-sekundometer - stoper  
+sekundemeter - stoper  
 sekur - bezpieczny  
 sekura - chronić (ratować)  
 sel - komórka (biologia)  
@@ -2089,8 +2087,8 @@ son - sen
 sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
 sonde - dźwięk, brzmienie  
 song - sosna  
-soni - spać  
-sonokamar - sypialnia  
+sonkamar - sypialnia  
+sonu - spać  
 sos - sos  
 sosis - kiełbasa  
 sotia - Lesotho  
@@ -2112,8 +2110,6 @@ suisia - Szwajcaria
 suja - sugerować, proponować  
 suje - sugestia, propozycja  
 suka - cieszyć, podobać się  
-sukar - cukier  
-sukari - słodki  
 suki - wesoły, ucieszony  
 suku - lubić, cieszyć się  
 sulfe - siarka  
@@ -2123,7 +2119,7 @@ sultaner - władca
 sum - suma  
 suma - zsumować, sumować, dodać, dodawać  
 sun - wkrótce  
-sundar - piękny, przystojny  
+sundari - piękny, przystojny  
 suomi - fiński  
 suomia - Finlandia  
 supe - zupa  
@@ -2151,7 +2147,7 @@ taige - tajga
 taiwania - Tajwan, Republika Chińska  
 tajikia - Tadżykistan  
 takse - podatek, opłata  
-taksokar - taxi, taksówka  
+taksekar - taxi, taksówka  
 tal - dół, spód  
 talium - tal  
 tamar - daktyl  
@@ -2181,12 +2177,11 @@ tayia - Tajlandia
 tazi - świeży  
 te - ty, ciebie  
 tekne - technika, technologia  
+teknelojia - technologia, nauka o technikach  
 teknetium - technet  
-teknokratia - technokracja  
-teknolojia - technologia, nauka o technikach  
 tele - dystans  
+telefon - telefon  
 teli - daleki, odległy  
-telofon - telefon  
 telowide - telewizja  
 telugi - telugu  
 telurium - tellur  
@@ -2198,13 +2193,14 @@ tener - uchwyt (pojemnik)
 tenesin - tenesyn, tennessine  
 tenis - tenis  
 tenke - pogoda  
-tenoliste - spis treści (tabela zawartości)  
+tenknekratia - technokracja  
+tenliste - spis treści (tabela zawartości)  
 tenta - kusić, nakłonić, nakłaniać  
 tenu - należeć  
 teoria - teoria  
 tepe - taśma  
 terbium - terb  
-termometer - termometr  
+termemeter - termometr  
 teror - terror  
 teroriste - terrorysta  
 teroristia - terroryzm  
@@ -2261,15 +2257,15 @@ tulium - tul
 tulpan - tulipan  
 tundar - tundra  
 tunel - tunel  
-tunelotren - metro  
+tuneltren - metro  
 tung - ból  
 tunike - tunika, toga  
 tunisia - Tunezja  
 tupay - wiewiórka  
+turkemenia - Turkmenistan  
 turki - turecki  
 turkia - Turcja  
-turkomenia - Turkmenistan  
-tuwalia - Tuwalu  
+tuvalia - Tuwalu  
 tuze - królik, zając  
 ##u
 ukrainia - Ukraina  
@@ -2290,7 +2286,6 @@ uran - Uran
 uranium - uran  
 urdi - urdu  
 urdunia - Jordan  
-urse - niedźwiedź  
 urse - niedźwiedź  
 uruguayia - Urugwaj  
 usameriki samoa - Amerykańska Samoa  
@@ -2319,16 +2314,16 @@ vidomaidan - pole widzenia
 vidu - być widzianym  
 vietia - Wietnam  
 viman - samolot  
-vimanokaper - porywacz samolotu  
+vimankaper - porywacz samolotu  
 vin - wino  
 vineria - winiarnia  
 vinil - winyl  
 vinsente i grenadin - Saint Vincent and Grenadines  
 virus - wirus  
-virusolojia - wirusologia  
+viruslojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
+viseprezidente - wiceprezydent  
 visi - wice-  
-visoprezidente - wiceprezydent  
 vize - wiza  
 vizita - odwiedzić, odwiedzać  
 vizite - wizyta  
@@ -2343,7 +2338,9 @@ vulve - srom
 wada - obiecać, angażować się  
 waf - pies  
 wakila - reprezentować  
+wal - mur, ściana  
 walis i futun da nesia - Saint Vincent i Grenadyny  
+walpapir - tapeta  
 wana - chcieć, pragnąć  
 war - dzień tygodnia  
 war 1 (war un) - poniedziałek  
@@ -2368,8 +2365,8 @@ weka - obudzić, budzić
 weki - przebudzony, przytomny  
 werka - pracować  
 werke - praca, zjęcie, zadanie  
+werkemeze - biurko  
 werker - pracownik  
-werkomeze - biurko  
 weste - zachód  
 westi - zachodni  
 wikia - wiki  
@@ -2388,8 +2385,8 @@ xake - gałąź, konar
 xal - szal, szalik  
 xam - wieczór  
 xaman - szaman  
-xamoden - popołudnie  
-xamoniam - kolacja  
+xamden - popołudnie  
+xamniam - kolacja  
 xan - góra, wzgórze  
 xanti - spokojny  
 xarme - wstyd (hańba, kompromitacja)  
@@ -2424,6 +2421,8 @@ xoper - nabywca (kupiec)
 xow - pokaz, ekspozycja, wystawa  
 xowa - pokazać, pokazywać, wystawić, wystawiać  
 xudu - powinien  
+xukar - cukier  
+xukari - słodki  
 xula - naprawić, naprawiać  
 xule - naprawa  
 xuler - naprawiacz  
@@ -2438,7 +2437,7 @@ yala - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
-yatimodom - sierociniec, dom dziecka  
+yatimdom - sierociniec, dom dziecka  
 ye - ten konkretny  
 yehudi - żydowski  
 yehudistia - judaizm  
@@ -2468,19 +2467,19 @@ zarduxiste - zaratrustianin
 zarduxistia - zaratusztrianizm  
 zari - losowy  
 zay - obecny, teraźniejszy, aktualny, bieżący, współczesny  
+zay den - dziś, dzisiaj  
 zayia - teraźniejszość, współczesność  
-zayoden - dziś, dzisiaj  
 zayu - istnieć (być obecnym)  
 ze - sam, siebie  
 zebre - zebra  
 zeme - ziemia, grunt, gleba  
+zemedow - orzech ziemny  
+zemelaskeria - wosko lądowe (armia)  
 zemia - Ziemia  
-zemodow - orzech ziemny  
-zemolaskeria - wosko lądowe (armia)  
 zeze - mucha  
 zigzage - zygzag  
 zikur - ziggurat  
-zimbabia - Zimbabwe  
+zimbabwia - Zimbabwe  
 zime - zima  
 zine - zdrada małżeńska, cudzołóstwo  
 zinje - imbir  

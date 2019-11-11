@@ -20,30 +20,31 @@ adres - adreso
 adulte - plenaĝa  
 afgania - Afganujo, Afganio  
 afrike - Afriko  
+afrikefiler - afrikamanto  
+afrikefilia - afrikamanteco  
 afriki - afrika  
-afrikofiler - afrikamanto  
-afrikofilia - afrikamanteco  
 agres - atako (agreso)  
 agresi - agresema  
 aha - kompreni  
 ainstainium - ejnŝtejnio  
 air - aero  
-airoporte - flughaveno  
+airporte - flughaveno  
 ais - glacio  
+aisekrem - glaciaĵo  
 aisi - glacia  
-aisokrem - glaciaĵo  
 ajil - lerta  
 akse - akso  
 aksente - akcento  
+alefone - alofono  
+alenami - tio estas (alivorte)  
+aleseksekami - samseksema  
 alge - algo  
 ali - alia  
 alkol - alkoholo  
 alkoli - alkohola  
 almar - ŝranko  
 almas - diamanto  
-alofone - alofono  
-alojinsokami - samseksema  
-alonami - tio estas (alivorte)  
+alo - alie  
 altar - altaro  
 alumin - aluminio  
 am - amo  
@@ -70,7 +71,7 @@ arabi - araba
 arane - araneo  
 aranofobia - araneofobio  
 arbe - arbo  
-arboparke - arboĝardeno  
+arbeparke - arboĝardeno  
 arbuze - akvomelono  
 are - areo  
 argentin - Argentino  
@@ -80,7 +81,7 @@ arize - rizo
 arme - armilo  
 arsen - arseno  
 arte - arto  
-arter - artisto  
+artiste - artisto  
 asan - posteno  
 asi - azia  
 asia - Azio  
@@ -92,7 +93,7 @@ aspirin - aspirino
 atom - atomo  
 auda - aŭdi (aŭskulti)  
 australia - Aŭstralio  
-automoti - memmova  
+autemoti - memmova  
 awakate - avokado  
 ay - aj (alas)  
 ##b
@@ -199,7 +200,6 @@ bolivia - Bolivio
 bombe - bombo  
 bon - bona  
 bon rupi - bonaspekta  
-bora - taladro  
 borium - borio  
 boron - boro  
 bote - ŝipo  
@@ -300,7 +300,7 @@ date - datumo
 datobanke - datumbanko  
 daw - vojo  
 day - granda  
-dayosamude - oceano  
+daysamude - oceano  
 deci - dekono  
 defa - defendi  
 defe - defendo  
@@ -472,6 +472,7 @@ fokus - koncentriĝo
 fokusa - koncentri  
 foli - freneza  
 folia - frenezeco  
+fora  - taladro  
 forke - forko  
 forma - formigi  
 forme - formo  
@@ -568,6 +569,7 @@ gurubomanse - porkaĵo
 gusta - gustumi  
 guste - gusto  
 gustu ka - gusti kiel  
+gute - genuo  
 guy - ogro (trolo)  
 ##h
 habar - novaĵoj  
@@ -722,6 +724,7 @@ kadomium - kadmio
 kafe - kafo  
 kaferia - kafejo  
 kafokupe - kaftaso  
+kagaze - papero  
 kakaw - kakao  
 kake - feko  
 kalam - plumo  
@@ -891,11 +894,14 @@ loke - loko
 loki - loka  
 lole - ili  
 long - longa  
+longa - longigi  
 lowa - liki  
 lowa sang - sangi  
 lugi - verda  
 lul - perlo  
 lun - luno  
+luta - rabi  
+luter - rabisto  
 lutetium - lutecio  
 ##m
 maca - kongrui  
@@ -911,6 +917,7 @@ malker - havanto
 mame - patrino  
 man - viro  
 mangan - mangano  
+manir - maniero (konduto)  
 manse - viando  
 mara - edzigi  
 maraton - maratono  
@@ -1037,11 +1044,10 @@ neptun - Neptuno
 neptunium - neptunio  
 nete - reto  
 neure - nervo  
+neuresel - neŭrono  
 neuri - nerva  
-neurosel - neŭrono  
-ni - ne  
 niama - manĝi (trinki)  
-niamokamar - manĝoĉambro  
+niamkamar - manĝoĉambro  
 nida - bezoni  
 nijeria - Niĝero  
 nikaragia - Nikaragvo  
@@ -1053,10 +1059,11 @@ niobium - niobo
 niponia - Japanio  
 niponium - nihonio  
 nitre - nitrogeno  
+no - ne  
 nobelium - nobelio  
 noce - nokto  
 node - nodo  
-nolodewiste - ateisto  
+noldewiste - ateisto  
 norgi - norvega  
 norgia - Norvegio  
 nota - rimarki  
@@ -1110,7 +1117,6 @@ pantalon - pantalonoj
 papagay - papago  
 papay - papajo  
 pape - patro  
-papir - papero  
 parce - ero  
 parde - kurteno  
 parke - parko (ĝardeno)  
@@ -1118,8 +1124,8 @@ parta - partopreni
 partia - partio  
 pasporte - pasporto  
 patate - terpomo  
+patelojia - patologio  
 pati - malsana  
-patolojia - patologio  
 pay - torto  
 pedal - pedalo  
 pede - furzo  
@@ -1129,7 +1135,7 @@ penta - pentri
 pepin - kukumo  
 per - plumo  
 pese - mono  
-pesodiske - monero  
+pesediske - monero  
 petre - ŝtono  
 pexe - metiero  
 pian - piano  
@@ -1191,8 +1197,8 @@ rajer - reĝo aŭ reĝino
 rampe - ramplo  
 rang - koloro  
 rangi - kolora  
-rape - rapideco  
-rapi - rapidi  
+rapide - rapideco  
+rapido - rapida  
 ras - raco  
 rasiste - racisto  
 rasistia - racismo  
@@ -1282,8 +1288,8 @@ seaborgium - seborgio
 sekse - sekso  
 sekse - sekso  
 sel - ĉelo  
+selelojia - citologio  
 selen - seleno  
-selolojia - citologio  
 sem - sep (7)  
 seman - semajno  
 senta - senti  
@@ -1315,18 +1321,20 @@ solosistem - sunsistemo
 son - dormo  
 sonde - sono  
 song - pino  
-sonokamar - dormoĉambro  
+sonkamar - dormoĉambro  
+sonu - dormi  
 sos - saŭco  
 sosis - kolbaso  
 suahili - sŭahili  
 suan - acida  
 sube - mateno  
 sude - sudo  
-sukar - sukero  
+suki - feliĉa  
 suku - ŝati  
 sulfe - sulfuro  
 sum - sumo  
-sundar - bela  
+sundari - bela  
+sundaria - beleco  
 suomi - finna  
 suomia - Finnlando  
 supe - supo  
@@ -1335,7 +1343,7 @@ supra - superiri
 supris - surprizo  
 suxe - suŝio  
 suy - akvo  
-suyoporte - haveno  
+suyporte - haveno  
 ##t
 tabake - tabako  
 table - tabelo  
@@ -1358,11 +1366,11 @@ tayia - Tajlando
 tazi - freŝa  
 te - vi (ci)  
 tekne - tekniko  
+teknelojia - teknologio  
 teknetium - teknecio  
-teknolojia - teknologio  
 tele - malproksimeco  
+telefon - telefono  
 teli - malproksima  
-telofon - telefono  
 telowide - televidilo  
 telurium - teluro  
 tema - esti pri; pridiskuti  
@@ -1375,7 +1383,7 @@ tenu - aparteni
 teoria - teorio  
 tepe - bendo  
 terbium - terbio  
-termometer - termometro  
+termemeter - termometro  
 teror - teroro  
 teroriste - teroristo  
 teroristia - terorismo  
@@ -1406,7 +1414,7 @@ tul - ilo
 tulium - tulio  
 tundar - tundro  
 tunel - tunelo  
-tunelotren - metroo  
+tuneltren - metroo  
 tunike - robo  
 tupay - sciuro  
 turkia - Turkio  
@@ -1419,7 +1427,6 @@ unali - reciproka
 unia - uniono  
 uranium - uranio  
 urse - urso  
-urse - urso  
 uza - uzi  
 ##v
 vagin - vagino  
@@ -1431,14 +1438,15 @@ veri - vera
 version - versio (toisinto)  
 vida - vidi (rigardi)  
 vin - vino  
+viselekse - pronomo  
 visi - vic-  
-visolekse - pronomo  
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
 vulve - vulvo  
 ##w
 wada - promesi  
+walpapir - tapeto  
 wan - volo  
 wana - voli  
 wase - oazo  
@@ -1467,8 +1475,8 @@ xake - branĉo
 xal - koltuko  
 xam - vespero  
 xaman - ŝamano  
-xamoden - posttagmeze  
-xamoniam - vespermanĝo  
+xamden - posttagmeze  
+xamniam - vespermanĝo  
 xan - monto  
 xanti - trankvila  
 xarme - honto  
@@ -1494,6 +1502,7 @@ xopa - aĉeti
 xoper - aĉetanto (aĉetisto)  
 xow - montri (ekspozicii)  
 xudu - devus  
+xukar - sukero  
 xula - ripari  
 xule - riparo  
 xuler - riparisto  
@@ -1520,8 +1529,8 @@ zarduxiste - zoroastristo
 zarduxistia - zoroastrismo  
 zari - hazarda  
 zay - ĉeestanta (nuna, ekzistanta)  
+zay den - hodiaŭ  
 zayia - ĉeestanteco (ekzisto)  
-zayoden - hodiaŭ  
 ze - si  
 zebre - zebro  
 zeze - muŝo  

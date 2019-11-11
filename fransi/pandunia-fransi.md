@@ -19,26 +19,27 @@ adres - adresse
 adulte - adulte  
 afgania - Afghanistan  
 afrike - Afrique  
+afrikefiler - afrophile  
+afrikefilia - afrophilie  
 afriki - africain  
-afrikofiler - afrophile  
-afrikofilia - afrophilie  
 agres - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
-airoporte - aéroport  
-aisohoke - hockey sur glace  
-aisokrem - crème glacée  
+airporte - aéroport  
+aisehoke - hockey sur glace  
+aisekrem - crème glacée  
 ajil - agile  
 akse - axe  
 aksente - accent  
+alefone - allophone  
+aleseksekami - hétérosexuel  
 alge - algue  
 ali - autre  
 alkol - alcool  
 alkoli - alcoolique  
 almar - placard  
 almas - diamant  
-alofone - allophone  
-alojinsokami - hétérosexuel  
+alo - autrement  
 altar - autel  
 alumin - aluminium  
 am - amour (affection)  
@@ -67,7 +68,7 @@ arabi - arabe
 arane - araignée  
 aranofobia - arachnophobie  
 arbe - arbre  
-arboparke - arboretum, pépinière  
+arbeparke - arboretum, pépinière  
 arbuze - pastèque  
 are - aire (superficie)  
 argentin - Argentine  
@@ -76,13 +77,14 @@ arize - riz
 arme - arme  
 arsen - arsenic  
 arte - art  
-arter - artiste  
+artiste - artiste  
 asi - asiatique  
 asia - Asie  
 asle - origine  
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+ay - aïe!  
 ##b
 babe - chapitre  
 babuce - pantoufle (babouche)  
@@ -142,7 +144,7 @@ damaje - dommage
 danse - dance  
 date - données  
 datobanke - base de données  
-dayosamude - océan  
+daysamude - océan  
 destin - destin (destination)  
 dew - dieu  
 domi - domestique  
@@ -159,6 +161,7 @@ ewanjil - évangile
 ##f
 fata - faire  
 fitolojia - botanique  
+fora  - forer (percer)  
 fotografe - photo (photographie)  
 fotografia - photographie  
 ##g
@@ -166,20 +169,25 @@ galte - faute (erreur)
 galti - erroné  
 gar - si  
 gas - gaz  
+gitar - guitare  
 gol - but  
 gul - goule  
 gunden - palais  
+gute - genou  
 ##h
 haime - tente  
+halow - allô  
 hami - important  
 hate - main  
 hay - vie  
+hewan - animal (bête)  
 hewanoparke - zoo  
 hijabe - voile  
 him - neige  
 hisaba - calculer  
 hoke - hockey  
 hor - heure  
+hotel - hôtel  
 hule - renard  
 ##i
 insan - être humain  
@@ -197,6 +205,7 @@ jus - jus
 ##k
 kafas - cage  
 kafe - café  
+kagaze - papier  
 kamar - pièce (chambre)  
 kamis - chemise  
 kanape - canapé (sofa)  
@@ -213,6 +222,7 @@ kitabia - bibliothèque
 kitabomaxin - machine à écrire  
 klimomute - changement climatique  
 komputer - ordinateur  
+koncung - insecte  
 koron - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
@@ -236,15 +246,21 @@ limon - citron
 liste - liste  
 loga - parler  
 logivi - loquace  
+loka - mettre (placer)  
 loke - lieu  
 loki - local  
+long - long  
 lugi - vert  
-lutaristi - luthérien  
-lutaristia - luthéranisme  
+luter - brigand (bandit)  
+lutheristi - luthérien  
+lutheristia - luthéranisme  
+luzer - perdant  
 ##m
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
 manihayistia - manichéisme  
+manir - comportement (manière)  
+manse - viande  
 maria - mariage  
 marmar - marbre  
 masal - épices  
@@ -265,13 +281,13 @@ migru - s'installer (déménager)
 mome - nous  
 ##n
 nade - rivière (fleuve)  
-neurosel - neurone  
-ni - non (ne...pas)  
+neuresel - neurone  
 nida - avoir besoin de  
 nide - besoin  
 nidi - nécessaire  
 nili - blue  
 nixe - niche  
+no - non (ne...pas)  
 noce - noit  
 note - note  
 novi - nouveau  
@@ -280,8 +296,8 @@ o - ou
 okside - oxyde  
 oranje - orange (fruit)  
 oranji - orange (couleur)  
+ortegoni - orthogonal  
 orti - droit (rectiligne)  
-ortogoni - orthogonal  
 oton - automne  
 ##p
 pace - paix  
@@ -293,18 +309,17 @@ pang - pain
 panir - fromage blanc  
 papagay - perroquet  
 papay - papaye  
-papir - papier  
 parce - fragment  
 parke - parc  
 pasporte - passeport  
-patojener - agent pathogène  
-patolojia - pathologie  
+patejener - agent pathogène  
+patelojia - pathologie  
 pauze - pause  
 pay - tarte  
 peda - péter  
 pede - pet (vesse)  
 pese - argent  
-pesodiske - monnaie (pièce)  
+pesediske - monnaie (pièce)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pin - épingle  
@@ -314,13 +329,17 @@ piratia - piraterie
 pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
+program - programme  
+projete - projet  
 pul - fleur  
 pute - fils ou fille  
 ##r
 rang - couleur  
+rapido - vite (rapide)  
+ras - race  
 reste - reste  
 retra - retourner (revenir)  
-retrotikete - Aller-retour  
+retretikete - Aller-retour  
 rim - rime  
 rize - racine  
 ruhe - psyché  
@@ -334,25 +353,31 @@ salame - salut (salam)
 saman - ciel  
 samoray - accord  
 samude - mer  
+sang - sang  
 sanwice - sandwich  
 sar - tête  
 sekse - sexe  
-selolojia - cytologie  
+selelojia - cytologie  
 si - oui  
 sikle - bicyclette  
 sikliste - cycliste  
 sol - soleil  
 solocate - ombrelle (parasol)  
+sonkamar - chambre à coucher  
+sonu - dormir  
+sos - sauce  
 sosis - saucisse  
-sukar - sucre  
+suki - heureux  
+sundari - beau  
+sundaria - beauté  
 susan - lys  
 ##t
 tarje - traduction  
 tazi - frais  
 te - tu  
 tekne - technique  
-teknolojia - technologie  
-telofon - téléphone  
+teknelojia - technologie  
+telefon - téléphone  
 telowide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
@@ -367,16 +392,17 @@ tira milke - tirer
 toca - toucher  
 tomate - tomate  
 tunisia - Tunisie  
-tuze - lapin, lièvre  
+tuze - lapin (lièvre)  
 ##u
 umur - âge  
 ura - hourra  
 uranium - uranium  
+urse - ours  
 ##v
 vagin - vagine  
 vampir - vampire  
 vaze - vase  
-vejoniamiste - végétarien  
+vejeniamiste - végétarien  
 venezolia - Venezuela  
 vente - problème  
 venti - problématique  
@@ -386,6 +412,8 @@ vida - voir
 virus - virus  
 vulve - vulve  
 ##w
+wal - mur  
+walpapir - papier peint  
 wana - vouloir  
 weki - éveillé  
 werka - travailler  
@@ -400,6 +428,7 @@ xing - étoile
 xite - merde  
 xopa - acheter  
 xope - shopping  
+xukar - sucre  
 ##y
 yesus - Jésus  
 yuke - jade  

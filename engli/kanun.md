@@ -85,12 +85,11 @@ They are described in more detail later in this document.
 4. Nouns have a single, unchangeable form.
 5. Adjectives come before the word that they modify.
    All adjectives, except the most common few, end in **-i**.
-    - ex. 1. **rapi loge** = A fast talk.
-    - ex. 2. **te rapi loga.** = You talk fast.
+    - ex. **rapidi loge** = A fast talk.
 6. Adverbs modify verbs, adjectives, other adverbs and complete sentences.
    They come before the word that they modify or very last in the sentence.
    All adverbs, except the most common few, end in **-o**.
-    - ex. 1. **vero rapi loge** = A very fast talk.
+    - ex. 1. **vero rapidi loge** = A very fast talk.
     - ex. 2. **te loga bono.** = You talk well.
 7. The verb ending **-a** indicates that the verb is active
    and the agent of the action is immediately before the verb.
@@ -172,7 +171,7 @@ In Pandunia, adjectives typically end in **-i** and their place is before a noun
 
 **novi kar**
 – new car(s)  
-**rapi kar**
+**rapidi kar**
 – fast car(s)  
 **day meze**
 – big table(s)  
@@ -191,12 +190,12 @@ Often this type of phrases can be read as complete sentences, where the verb _to
 
 **kar novi.**
 – The car is new.  
-**bagre rapi.**
+**bagre rapidi.**
 – The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**novi kar rapi.**
+**novi kar rapidi.**
 – The new car is fast.
 
 ### 3.2 Modifying a verb

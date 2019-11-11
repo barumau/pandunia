@@ -11,8 +11,8 @@ adreso - adres
 aero - air  
 Afganujo, Afganio - afgania  
 afrika - afriki  
-afrikamanteco - afrikofilia  
-afrikamanto - afrikofiler  
+afrikamanteco - afrikefilia  
+afrikamanto - afrikefiler  
 Afriko - afrike  
 agaci (tedi, malamuzi) - irita  
 agado (karmo) - karme  
@@ -32,11 +32,12 @@ al (ĝis, por) - pa
 alfabeto - abace  
 algo - alge  
 alia - ali  
+alie - alo  
 aligi - liga  
 aliigi - muta  
 alkohola - alkoli  
 alkoholo - alkol  
-alofono - alofone  
+alofono - alefone  
 alta - gawi  
 altaro - altar  
 aluminio - alumin  
@@ -75,7 +76,7 @@ araneo - arane
 araneofobio - aranofobia  
 arbaro - jangal  
 arbo - arbe  
-arboĝardeno - arboparke  
+arboĝardeno - arbeparke  
 areo - are  
 Argentino - argentin  
 argono - argon  
@@ -83,14 +84,14 @@ armeo - laskeria
 armilo - arme  
 arseno - arsen  
 artefarita lingvo - sanobax  
-artisto - arter  
+artisto - artiste  
 arto - arte  
 ascetiko - askete  
 aspekto - rupe  
 aspirino - aspirin  
 astmo - asme  
 atako (agreso) - agres  
-ateisto - nolodewiste  
+ateisto - noldewiste  
 atendi - denga  
 atomo - atom  
 aventuristo - abenturer  
@@ -147,7 +148,8 @@ baza - bazi
 bazo - baze  
 bebo - bebe  
 beduino (nomado) - badawi  
-bela - sundar  
+bela - sundari  
+beleco - sundaria  
 Belgio - belgia  
 Beliceo - belizia  
 Belorusio - belorusia  
@@ -221,7 +223,7 @@ certa - amen
 certigi - amena  
 cezio - cesium  
 citi - cita  
-citologio - selolojia  
+citologio - selelojia  
 citrono - limon  
 ##d
 damaĝa - damaji  
@@ -277,8 +279,9 @@ doktoro - dotor
 dolaro - dolar  
 donaco - don  
 doni - dona  
+dormi - sonu  
 dormo - son  
-dormoĉambro - sonokamar  
+dormoĉambro - sonkamar  
 dorso - ruke  
 dramo - drame  
 drinkejo - bireria  
@@ -368,6 +371,7 @@ faŝismo - faxistia
 faŝisto - faxiste  
 febro - febre  
 feko - kake  
+feliĉa - suki  
 fenestro - janel  
 fermio - fermium  
 fero - fer  
@@ -397,7 +401,7 @@ fiŝo - fix
 flago - bandir  
 flava - limonangi  
 floro - pul  
-flughaveno - airoporte  
+flughaveno - airporte  
 flugi - feya  
 fluoro - flur  
 fojo - ban  
@@ -452,10 +456,11 @@ gazo - gaze
 geedzeco - maria  
 generala (universala) - putong  
 genro - jinse  
+genuo - gute  
 germaniumo - germanium  
 gitaro - gitar  
 glacia - aisi  
-glaciaĵo - aisokrem  
+glaciaĵo - aisekrem  
 glacio - ais  
 glata - lisi  
 glavo - katan  
@@ -498,7 +503,7 @@ haro - kex
 hasio - hasium  
 havanto - malker  
 haveno - porte  
-haveno - suyoporte  
+haveno - suyporte  
 havi (teni) - tena  
 hazarda - zari  
 hazardo - zar  
@@ -523,7 +528,7 @@ historio - histor
 hm - hem  
 ho! - o  
 hobio - hobe  
-hodiaŭ - zayoden  
+hodiaŭ - zay den  
 hokeo - hoke  
 holmio - holmium  
 homaro - insania  
@@ -792,6 +797,7 @@ loka - loki
 lokigi - loka  
 loko - loke  
 longa - long  
+longigi - longa  
 loĝi - domu  
 loĝigi - doma  
 ludanto - gemer  
@@ -839,9 +845,10 @@ mana - hati
 mandarino - migan  
 mandarinĉina - putong cini  
 mangano - mangan  
+maniero (konduto) - manir  
 mano - hate  
 manĝi (trinki) - niama  
-manĝoĉambro - niamokamar  
+manĝoĉambro - niamkamar  
 maratono - maraton  
 margarino - margarin  
 marmoro - marmar  
@@ -862,7 +869,7 @@ melki - tira milke
 melodio - melodia  
 melongeno - bedinjan  
 membro - member  
-memmova - automoti  
+memmova - autemoti  
 memori - mema  
 memoro - mem  
 merdo - xite  
@@ -873,7 +880,7 @@ metalo - metal
 metiero - pexe  
 metiisto - janger  
 metodo - metode  
-metroo - tunelotren  
+metroo - tuneltren  
 mezo - medi  
 mezuri - meta  
 mezuro - mete  
@@ -902,7 +909,7 @@ molusko - moluske
 monato - mes  
 mondlingvo - dunobax  
 mondo - dunia  
-monero - pesodiske  
+monero - pesediske  
 mongola - mongol  
 Mongolio - mongolia  
 monismo - monistia  
@@ -939,7 +946,7 @@ nasko - jen
 natrio - natre  
 naturo - ekia  
 naūatla - nawati  
-ne - ni  
+ne - no  
 negoco - biznes  
 neono - neon  
 Nepalo - nepalia  
@@ -949,7 +956,7 @@ nerva - neuri
 nervo - neure  
 newtono (N) - nuton  
 neĝo - him  
-neŭrono - neurosel  
+neŭrono - neuresel  
 ni - mome  
 ni faru... - haida  
 nigra - cerni  
@@ -977,7 +984,7 @@ nur - mon
 oazo - wase  
 obrelo - barxocate  
 Oceanio - oseania  
-oceano - dayosamude  
+oceano - daysamude  
 ofte - cang  
 oganesono - oganeson  
 ogro (trolo) - guy  
@@ -1024,7 +1031,7 @@ pantalonoj - pantalon
 pantoflo - babuce  
 papago - papagay  
 papajo - papay  
-papero - papir  
+papero - kagaze  
 papilio - pelpel  
 parko (ĝardeno) - parke  
 parolema - logivi  
@@ -1037,7 +1044,7 @@ partopreni - parta
 pasporto - pasporte  
 pastro - dinogur  
 pato - tawe  
-patologio - patolojia  
+patologio - patelojia  
 patrino - mame  
 patro - pape  
 pedalo - pedal  
@@ -1098,7 +1105,7 @@ pordo - mun
 porkaĵo - gurubomanse  
 porko - gurube  
 posteno - asan  
-posttagmeze - xamoden  
+posttagmeze - xamden  
 povi - abla  
 povo - able  
 poŝo - jebe  
@@ -1121,7 +1128,7 @@ programo - program
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  
-pronomo - visolekse  
+pronomo - viselekse  
 propra (partiklo de posedo) - da  
 protaktinio - protacinium  
 psikologio - ruholojia  
@@ -1133,6 +1140,8 @@ pura - safi
 purigi - safa  
 purigisto - safer  
 ##r
+rabi - luta  
+rabisto - luter  
 racismo - rasistia  
 racisto - rasiste  
 raco - ras  
@@ -1147,8 +1156,8 @@ rakonti - saga
 rakonto - sage  
 ramplo - rampe  
 rando (orlo) - kenar  
-rapideco - rape  
-rapidi - rapi  
+rapida - rapido  
+rapideco - rapide  
 rapidigi - yala  
 reciproka - unali  
 regi - kratia  
@@ -1212,7 +1221,7 @@ sama - sam
 samario - samarium  
 samlandano - samodexi  
 samopinii (interkonsenti) - samoraya  
-samseksema - alojinsokami  
+samseksema - aleseksekami  
 samseksema - gey  
 samseksema - samojinsokami  
 sangi - lowa sang  
@@ -1288,7 +1297,7 @@ studento (lernanto) - darser
 Sudkoreio - hangogia  
 sudo - sude  
 sufiĉa - bas  
-sukero - sukar  
+sukero - xukar  
 suko - jus  
 sulfuro - sulfe  
 sumo - sum  
@@ -1312,19 +1321,20 @@ tajgo - taige
 tajlanda - tayi  
 Tajlando - tayia  
 tajpilo - kitabomaxin  
-taladro - bora  
+taladro - fora   
 talio - talium  
 tamburo - tambur  
 tamen - lekin  
 tantalo - tantalum  
 Tanzanio - tanzania  
+tapeto - walpapir  
 taso - kupe  
 tatuo - tataw  
 teknecio - teknetium  
 tekniko - tekne  
-teknologio - teknolojia  
+teknologio - teknelojia  
 tekto - cate  
-telefono - telofon  
+telefono - telefon  
 televidilo - telowide  
 teluro - telurium  
 temo - teme  
@@ -1337,7 +1347,7 @@ teologio - dewolojia
 teorio - teoria  
 tera - duni  
 terbio - terbium  
-termometro - termometer  
+termometro - termemeter  
 terorismo - teroristia  
 teroristo - teroriste  
 teroro - teror  
@@ -1347,7 +1357,7 @@ testo - teste
 tie - sa ce  
 tigro - bagre  
 timo (fobio) - fobia  
-tio estas (alivorte) - alonami  
+tio estas (alivorte) - alenami  
 tiri - tira  
 titanio - titan  
 tiu - we  
@@ -1396,7 +1406,6 @@ urba - nagri
 urbego - site  
 urbo - nagre  
 urso - urse  
-urso - urse  
 utila - faidi  
 utileco - faide  
 uzi - uza  
@@ -1419,7 +1428,7 @@ verando - berande
 verbo - fatolekse  
 verda - lugi  
 versio (toisinto) - version  
-vespermanĝo - xamoniam  
+vespermanĝo - xamniam  
 vespero - xam  
 vesti - fuka  
 vesto - fuke  

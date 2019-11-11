@@ -3,8 +3,8 @@
 ##a
 adres - adres  
 Afganistan - afgania  
-afrofil - afrikofiler  
-afrofilia - afrikofilia  
+afrofil - afrikefiler  
+afrofilia - afrikefilia  
 Afryka - afrike  
 afrykański, Afrykanin - afriki  
 agresywny - agresi  
@@ -23,7 +23,7 @@ algebra - jebria
 Algieria - jayeria  
 alkohol - alkol  
 alkoholowy - alkoli  
-alofon - alofone  
+alofon - alefone  
 ambasada - daixeria  
 ambasador - daixer  
 ameryk - amerikium  
@@ -52,7 +52,7 @@ Antyle Holenderskie - nederlandi antilia
 Arabia Saudyjska - saudi arabia  
 arabski - arabi  
 arachnofobia - aranofobia  
-arboretum - arboparke  
+arboretum - arbeparke  
 arbuz - arbuze  
 archipelag - nesia  
 Argentyna - argentin  
@@ -61,7 +61,7 @@ argument, teza - tese
 armia - laskeria  
 arsen - arsen  
 artykuł, tekst - makale  
-artysta - arter  
+artysta - artiste  
 Aruba - arubia  
 arytmetyka - hisabia  
 asceta - askete  
@@ -70,14 +70,14 @@ astma - asme
 Asyria - axuria  
 Aszur - axur  
 atak (agresja, napaść) - agres  
-ateista - nolodewiste  
+ateista - noldewiste  
 atleta, sportowiec - kelele  
 atom - atom  
 Australia - australia  
 Austria - osteria  
 autobus, autokar - bus  
-autonomia - autonomia  
-autonomiczny - autonomi  
+autonomia - autenomia  
+autonomiczny - autenomi  
 awokado - awakate  
 Azerbejdżan - azeria  
 Azja - asia  
@@ -110,7 +110,7 @@ barbarzyńca - barbar
 bardziej - max  
 bariera - baryer  
 bark (ramię) - kante  
-barometr - airobarometer  
+barometr - airbaremeter  
 basen - basen  
 bateria - batre  
 baton czekoladowy - cokolobaton  
@@ -142,7 +142,7 @@ bilet - tikete
 bilion, giga- - gigo-  
 biologia, nauka o życiu - biyolojia  
 biszkopt, ciastko - biskute  
-biurko - werkomeze  
+biurko - werkemeze  
 biuro, urząd - ofisia  
 biust - buste  
 bizmut - bismute  
@@ -250,13 +250,13 @@ ciągnąć - tira
 ciąć - kata  
 ciężarny (w ciąży) - hamili  
 ciężki (masywny) - bari  
-ciśnienie atmosferyczne - airobar  
+ciśnienie atmosferyczne - airbare  
 cmentarz - gabristan  
 co? - ke  
 co? - ki ren  
 cofnąć (anulować, usunąć skutki) - ula  
 coś - koy xey  
-cukier - sukar  
+cukier - xukar  
 cukierek, słodycze - kande  
 cynk - zinke  
 Cypr - kipris  
@@ -357,7 +357,7 @@ dubn - dubnium
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się - hema  
 dusza, duch, umysł - ruhe  
-duży; bardzo - day  
+duży - day  
 dwa (2) - dul  
 dwukrotnie (dwa razy) - dul ban  
 dwutlenek węgla - karbonodulokside  
@@ -375,7 +375,7 @@ działo - kanon
 dziecko, potomek - pute  
 dzielić (współdzielić) - komuna  
 dzielić - fena  
-dziennik pokładowy (notatnik) - deftobuke  
+dziennik pokładowy (notatnik) - deftebuke  
 dziennikarz - bawer  
 dziesięć (10) - des  
 dziewczyna - jovani fem  
@@ -390,7 +390,7 @@ dziura - kong
 dziwny - bizari  
 dzięki, dzięki ci - danke  
 dziękować - danka  
-dziś, dzisiaj - zayoden  
+dziś, dzisiaj - zay den  
 dół, jama, wydobycie, wykop, wykopalisko - fos  
 dół, spód - tal  
 długi - long  
@@ -566,14 +566,14 @@ harmonia - harmonia
 harmoniczny - harmoni  
 has - hasium  
 hałas - keler  
-hebel, strug - randal  
+hebel, strug - rander  
 heblować - randa  
 hebrajski - ibri  
 hel - helium  
 helisa - helis  
 herbaciarnia - cayeria  
 herbata - cay  
-heteroseksualny - alojinsokami  
+heteroseksualny - aleseksekami  
 hełm - helme  
 Himalaje - himalia  
 hinduistyczny - hindiste  
@@ -586,7 +586,7 @@ Hiszpania - espania
 hmm - hem  
 hobby - hobe  
 hokej - hoke  
-hokej na lodzie - aisohoke  
+hokej na lodzie - aisehoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
 homoseksualny - samojinsokami  
@@ -627,7 +627,7 @@ indyk - totol
 infekcja (zakażenie) - infekse  
 informacja - informe  
 inny - ali  
-innymi słowy - alonami  
+innymi słowy - alenami  
 inspirować; inspiracja - inspira  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
 internet - internete  
@@ -650,7 +650,7 @@ iść, maszerować - marca
 ja, mnie - me  
 jabłko - aple  
 jabłko cukrowe - ate  
-jadalnia - niamokamar  
+jadalnia - niamkamar  
 jagoda - bere  
 jajko (jajo) - ande  
 jak (zwierzę) - yake  
@@ -774,7 +774,8 @@ kodować - koda
 koka - koke  
 kokos - yeze  
 kola, napój gazowany - kola  
-kolacja - xamoniam  
+kolacja - xamniam  
+kolano - gute  
 kolec - ding  
 kolej - trenodaw  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
@@ -930,7 +931,7 @@ lit - litium
 litera, znak - harfe  
 litr - litre  
 lodowy - aisi  
-lody - aisokrem  
+lody - aisekrem  
 logika, dedukcja - logike  
 logofil (miłośnik słów) - logofiler  
 lorens - laurensium  
@@ -942,8 +943,8 @@ lud, społeczeństwo - deme
 ludzkość, rodzaj ludzki - insania  
 Luksemburg - luksemburgia  
 lustro - mirer  
-luteranizm - lutaristia  
-luterański - lutaristi  
+luteranizm - lutheristia  
+luterański - lutheristi  
 lutet - lutetium  
 luty - mes 10 (mes des)  
 luźna rozmowa, gadanina - blabla  
@@ -1027,7 +1028,7 @@ metal - metal
 metal ciężki - barometal  
 metoda, sposób - metode  
 metr - metre  
-metro - tunelotren  
+metro - tuneltren  
 miara - mete  
 miast, miasteczko - site  
 miecz - katan  
@@ -1068,7 +1069,6 @@ miękki - komal
 mięso - manse  
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - am  
-miłość romantyczna - romanse  
 miły, przyjemny, uroczy - kuxi  
 Mjanma, Birma - mianmia  
 mleko - milke  
@@ -1083,7 +1083,7 @@ molibden - molidenum
 moment - sate  
 Monako - monakia  
 monarchia - monokratia  
-moneta - pesodiske  
+moneta - pesediske  
 Mongolia - mongolia  
 Mongolski - mongol  
 monizm - monistia  
@@ -1104,7 +1104,7 @@ możliwość, umiejętność - able
 mrówka - maye  
 mucha - zeze  
 mumia - mumia  
-mur, ściana - mur  
+mur, ściana - wal  
 musieć - bixu  
 muskuł, mięsień - muskul  
 muszkiet - muskete  
@@ -1179,7 +1179,7 @@ Nepal - nepalia
 Neptun - neptun  
 neptun - neptunium  
 nic, żadna rzecz - nol xey  
-nie - ni  
+nie - no  
 nie ruszać się - estasa  
 niebezpieczeństwo, ryzyko, szansa - zar  
 niebezpieczny - hatri  
@@ -1188,7 +1188,6 @@ niebieski, niebiański, podniebny - samani
 niebo - saman  
 niech my, hajda - haida  
 niedziela - war 7 (war sem)  
-niedźwiedź - urse  
 niedźwiedź - urse  
 Niemcy - doicia  
 niemiecki - doici  
@@ -1251,7 +1250,7 @@ obrócić się (kręcić się) - rotu
 obudzić, budzić - weka  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - rasme  
 obóz - kamper  
-ocean - dayosamude  
+ocean - daysamude  
 Oceania - oseania  
 ocena, krytyka - piping  
 ocenić, oceniać, recenzować, komentować, krytykować - pipinga  
@@ -1301,7 +1300,7 @@ orientalny smok - rong
 orija - odisi  
 Oromia - oromia  
 oromo - oromi  
-orzech ziemny - zemodow  
+orzech ziemny - zemedow  
 osiem (8) - bal  
 osioł - gade  
 osm - osmium  
@@ -1349,7 +1348,7 @@ panika - panike
 panteizm - pandewistia  
 panteon - pandewia  
 papaja - papay  
-papier - papir  
+papier - kagaze  
 papieros (cygar) - sigar  
 Papua Nowa Gwinea - papua nowi ginia  
 papuga - papagay  
@@ -1366,8 +1365,8 @@ pasować - maca
 pasta - paste  
 paszport - pasporte  
 patelnia - tawe  
-patogen - patojener  
-patologia - patolojia  
+patogen - patejener  
+patologia - patelojia  
 patrzeć (oglądać) - kana  
 patrzeć, widzieć - vida  
 pauza, przerwa - pauze  
@@ -1381,7 +1380,7 @@ Pekin - beijing
 pendżabski - panjabi  
 penis - penis  
 Pers; perski, farsi - farsi  
-Peru - peruwia  
+Peru - peruvia  
 perła - lul  
 pełny - ful  
 pfuj (fuj) - bah  
@@ -1426,7 +1425,7 @@ pióro, długopis - kalam
 piątek - war 5 (war lim)  
 pięciokąt (pentagon) - limogon  
 pięciościan (pryzmat) - limofas  
-piękny, przystojny - sundar  
+piękny, przystojny - sundari  
 pięć (5) - lim  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baskobol  
@@ -1501,7 +1500,7 @@ pomóc, pomagać, asystować - helpa
 poniedziałek - war 1 (war un)  
 ponieważ, bo - sa sabu  
 poniższy - nici  
-popołudnie - xamoden  
+popołudnie - xamden  
 poprawić, poprawiać, prostować, korygować - saha  
 poprzedni - predi  
 poprzedzić, poprzedzać - preda  
@@ -1515,7 +1514,7 @@ pornografia - pornografia
 porozumienie - samoray  
 Portugalia - portugalia  
 porywacz pociągu - trenokaper  
-porywacz samolotu - vimanokaper  
+porywacz samolotu - vimankaper  
 porządek - ratibe  
 porządkować, organizować - ratiba  
 poręcz (balustrada) - langan  
@@ -1579,7 +1578,7 @@ profesja, zajęcie, zawód - pexe
 profesor - profesor  
 program - program  
 programista, koder - programer  
-projekt, planowane przedsięwzięcie - proje  
+projekt, planowane przedsięwzięcie - projete  
 promet - prometium  
 promieniowanie - radia  
 promieniować - rada  
@@ -1644,8 +1643,8 @@ przyrostek dla wsperającego ideę - iste
 przyrostek dla wykonawcy - er  
 przystojny, atrakcyjny, ładny - bon rupi  
 przyszłość - wile  
-prędkościomierz - rapometer  
-prędkość (szybkość) - rape  
+prędkościomierz - rapidemeter  
+prędkość (szybkość) - rapide  
 pręt, kij - baton  
 psychologia - ruholojia  
 ptak - pakse  
@@ -1730,7 +1729,7 @@ Rosja - rusia
 rosyjski - rusi  
 rotor, wirnik - roter  
 rower - sikle  
-rower z pedałami - pedalosikle  
+rower z pedałami - pedalsikle  
 rowerzysta - sikliste  
 rozdział, sekcja - babe  
 rozjaśnić - minga  
@@ -1792,7 +1791,7 @@ sam, osobiście - tan
 sam, siebie - ze  
 samar - samarium  
 Samoa - samoa  
-samobieżny - automoti  
+samobieżny - autemoti  
 samochód (automobil) - motokar  
 samolot - viman  
 sauna - saune  
@@ -1821,7 +1820,7 @@ siarka - sulfe
 siedem (7) - sem  
 siedzieć - sida  
 siekera, topór - futaw  
-sierociniec, dom dziecka - yatimodom  
+sierociniec, dom dziecka - yatimdom  
 sierota - yatim  
 sierpień - mes 5 (mes lim)  
 Sierra Leone - salonia  
@@ -1866,9 +1865,9 @@ sos - sos
 sosna - song  
 spadek, dziedzictwo, spuścizna, zapis - waris  
 spalić, palić - pira  
-spać - soni  
+spać - sonu  
 specjalny, wyraźny, wyrazisty - hasi  
-spis treści (tabela zawartości) - tenoliste  
+spis treści (tabela zawartości) - tenliste  
 spocony - suedi  
 spodnie, pantalony, portki - pantalon  
 spokojny - xanti  
@@ -1905,7 +1904,7 @@ sto (##) - hon
 stolarz - mokojanger  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
-stoper - sekundometer  
+stoper - sekundemeter  
 stopień, poziom, ranga, klasa - darje  
 stowarzyszać się (zrzeszać się) - liga  
 strach, fobia - fobia  
@@ -1929,7 +1928,7 @@ Surinam - surinamia
 sushi - suxe  
 Syberia - sibir  
 syn - mani ban  
-sypialnia - sonokamar  
+sypialnia - sonkamar  
 Syria - suria  
 syrop - xirope  
 system - sistem  
@@ -1971,7 +1970,7 @@ sztylet (puginał) - kanjar
 szukać - serca  
 Szwajcaria - suisia  
 Szwecja - suenia  
-szybki, prędki - rapi  
+szybki, prędki - rapido  
 szympans - cimpanze  
 szynszyla - cincil  
 szyszka - konus  
@@ -1979,7 +1978,7 @@ szyć - suta
 sód - natre  
 sól - sal  
 sędzia - hakimer  
-słodki - sukari  
+słodki - xukari  
 słodki ziemniak - kamote  
 słony - sali  
 Słowacja - slowakia  
@@ -2013,19 +2012,19 @@ tantal - tantalum
 Tanzania - tanzania  
 taoista - dawiste  
 taoizm - dawistia  
-tapeta - muropapir  
+tapeta - walpapir  
 tatuaż - tataw  
-taxi, taksówka - taksokar  
+taxi, taksówka - taksekar  
 taśma - tepe  
 taśma; bandaż - bende  
 tchórz, fretka - furete  
 technet - teknetium  
 technika, technologia - tekne  
-technokracja - teknokratia  
-technologia, nauka o technikach - teknolojia  
+technokracja - tenknekratia  
+technologia, nauka o technikach - teknelojia  
 teistyczny - dewiste  
 teizm - dewistia  
-telefon - telofon  
+telefon - telefon  
 telewizja - telowide  
 tellur - telurium  
 telugu - telugi  
@@ -2040,7 +2039,7 @@ teologia - dewolojia
 teoria - teoria  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
-termometr - termometer  
+termometr - termemeter  
 terror - teror  
 terrorysta - teroriste  
 terroryzm - teroristia  
@@ -2082,12 +2081,12 @@ turban - pagre
 Turcja - turkia  
 turecki - turki  
 Turek osmański - osman  
-Turkmenistan - turkomenia  
+Turkmenistan - turkemenia  
 turkus - firuze  
 turysta - safariste  
 turystyka - safaristia  
 tusz - moge  
-Tuwalu - tuwalia  
+Tuwalu - tuvalia  
 tułów - torse  
 twarz - muke  
 twój - ti  
@@ -2199,7 +2198,7 @@ wiara, wierzenie, kredo - xin
 wiatr - hawe  
 wiatrak (wentylator) - panke  
 wice- - visi  
-wiceprezydent - visoprezidente  
+wiceprezydent - viseprezidente  
 widelec - forke  
 widok, wzrok - vide  
 wieczór - xam  
@@ -2214,7 +2213,7 @@ wielo- (poli-, multi-) - poli
 wielokąt (wielościan) - pologon  
 wielościan - polofas  
 wieprzowina - gurubomanse  
-wiercić, borować - bora  
+wiercić, borować - fora   
 wierzyć - xina  
 Wietnam - vietia  
 wiewiórka - tupay  
@@ -2231,9 +2230,9 @@ winogrono - putaw
 winyl - vinil  
 wiosna - cune  
 wirus - virus  
-wirusologia - virusolojia  
+wirusologia - viruslojia  
 witaj, dobre przybycie - salam laye  
-witryna internetowa (portal internetowy) - netoloke  
+witryna internetowa (portal internetowy) - neteloke  
 wiwatować; hura - ura  
 wiza - vize  
 wizyta - vizite  
@@ -2254,7 +2253,7 @@ wolność, niepodległość, niezależność - huria
 wolny, niepodległy, niezależny - huri  
 wolt (V) - volte  
 wosk - mum  
-wosko lądowe (armia) - zemolaskeria  
+wosko lądowe (armia) - zemelaskeria  
 wow!, łoł!, jej! - waw  
 wołowina - muhomanse  
 wrzesień - mes 6 (mes sis)  
@@ -2400,7 +2399,7 @@ ziemia, grunt, gleba - zeme
 ziemniak - patate  
 ziggurat - zikur  
 zima - zime  
-Zimbabwe - zimbabia  
+Zimbabwe - zimbabwia  
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
 zjednoczony - uni  

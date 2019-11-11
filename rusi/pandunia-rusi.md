@@ -8,9 +8,9 @@ adalia - справедливость
 adres - адрес  
 adulte - взрослый  
 agres - нападение (атака)  
-airoporte - аэропорт  
-aisohoke - хокке́й с ша́йбой  
-aisokrem - мороженое  
+airporte - аэропорт  
+aisehoke - хокке́й с ша́йбой  
+aisekrem - мороженое  
 ajil - подвижный  
 akse - ось  
 aksente - ударение  
@@ -96,7 +96,7 @@ dalil - доказательство
 danse - танец  
 date - данные  
 datobanke - база данных  
-dayosamude - океан  
+daysamude - океан  
 destin - судьба  
 dew - бог  
 domi - домашний  
@@ -109,29 +109,35 @@ ewanjil - евангелие
 ##f
 firuze - бирюза  
 fitolojia - ботаника  
+fora  - сверлить (бурить)  
 fotografe - фотокарточка  
 fotografia - фотография  
 ##g
 gar - если  
 gas - газ  
+gitar - гитара  
 gol - цель  
 gul - гуль (вурдалак)  
 gula - глотать  
 gunden - дворец  
+gute - колено  
 ##h
 habar - новости  
 haime - палатка (шатёр)  
 hali - пустой  
+halow - алло  
 hami - важный (значимый)  
 hamili - беременный  
 hate - рука  
 hay - жизнь  
 hazin - сокровище (казна)  
+hewan - животное  
 hewanoparke - rus:зоопарк (zoopark).  
 hijabe - вуаль  
 hisaba - вычислять  
 hoke - хоккей  
 hor - час  
+hotel - гостиница (отель)  
 hule - лиса  
 ##i
 insan - человек  
@@ -148,6 +154,7 @@ jus - сок
 ##k
 kafas - клетка  
 kafe - кофе  
+kagaze - бумага  
 kamar - комната (камера)  
 kamis - рубашка  
 kanape - канапе  
@@ -167,6 +174,7 @@ kitabomaxin - пишущая машинка
 klime - климат  
 klimomute - изменение климата  
 komputer - компьютер  
+koncung - насекомое  
 kor - хор  
 koron - корона  
 kosmi - космический  
@@ -190,11 +198,15 @@ lider - руководитель (лидер)
 limon - лимон  
 liste - список  
 loga - говорить  
+loka - ставить  
 loke - место  
 lugi - зелёный  
-lutaristi - лютеранский  
-lutaristia - лютера́нство  
+luter - грабитель  
+lutheristi - лютеранский  
+lutheristia - лютера́нство  
 ##m
+manir - поведение (манера)  
+manse - мясо  
 marmar - мрамор  
 masal - пряность  
 maske - маска  
@@ -214,13 +226,13 @@ moluske - моллюск
 mome - мы  
 ##n
 nade - река  
-neurosel - нейрон  
-ni - нет (не)  
+neuresel - нейрон  
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
 nili - azul  
 nixe - ниша  
+no - нет (не)  
 noce - ночь  
 note - запись (заметка)  
 novi - новый  
@@ -229,8 +241,8 @@ o - или
 okside - окись (оксид)  
 oranje - апельсин  
 oranji - оранжевый  
+ortegoni - ортогона́льный  
 orti - прямой  
-ortogoni - ортогона́льный  
 osme - осмос  
 ##p
 pagre - чалма  
@@ -239,19 +251,18 @@ pang - хлеб
 panir - творог  
 papagay - попугай  
 papay - папайя  
-papir - бумага  
 parce - кусок  
 parke - парк  
 pasporte - паспорт  
-patojener - патоген  
-patolojia - патология  
+patejener - патоген  
+patelojia - патология  
 pauze - пауза  
 pay - пирог  
 peda - пердеть  
 pede - пердение  
 per - перо  
 pese - деньги  
-pesodiske - монета  
+pesediske - монета  
 piaze - лук  
 pike - вершина  
 pin - булавка  
@@ -260,8 +271,12 @@ pira - жечь (палить)
 pize - пицца  
 porte - порт  
 pote - болото  
+program - программа  
+projete - проект  
 pul - цветок  
 ##r
+rapido - быстрый  
+ras - раса  
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
@@ -276,18 +291,25 @@ saman - небо
 samoray - согласие  
 samude - море  
 samudi - "морской  
+sang - кровь  
 sanwice - сандвич  
 sapate - حِذَاء  
 sar - голова  
 sekse - пол  
-selolojia - цитология  
+selelojia - цитология  
+sen - сцена  
 si - да  
 sikliste - велосипедист  
 slawi - славянский  
 sol - солнце  
 solocate - зонтик от солнца  
+sonkamar - спальня  
+sonu - спать  
+sos - соус  
 sosis - колбаса (сосиска)  
-sukar - сахар  
+suki - счастливый (радостный)  
+sundari - красивый  
+sundaria - красота  
 susan - лилия  
 ##t
 tarje - перевод  
@@ -295,8 +317,8 @@ tas - блюдо (таз)
 tataw - татуировка (тату)  
 tazi - свежий  
 te - ты  
-teknolojia - технология  
-telofon - телефон  
+teknelojia - технология  
+telefon - телефон  
 telowide - телевизор  
 teme - тема  
 tena - иметь  
@@ -317,15 +339,18 @@ ura - ура
 vagin - влагалище (вагина)  
 vampir - вампир (упырь)  
 vaze - ваза  
-vejoniamiste - вегетарианец  
+vejeniamiste - вегетарианец  
 vente - проблема  
 venti - проблематичный  
 veri - верный  
 vida - видеть  
 virus - вирус  
-virusolojia - вирусология  
+viruslojia - вирусология  
+vize - виза  
 vulve - вульва  
 ##w
+wal - стена (вал)  
+walpapir - обои  
 wana - хотеть  
 waw - вау!  
 waxa - мыть  
@@ -341,6 +366,7 @@ xite - говно (дерьмо)
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
+xukar - сахар  
 ##y
 yemenia - Йемен  
 yesus - Иисус  
@@ -356,7 +382,7 @@ zardux - Зороастр
 zarduxiste - зороастризм  
 zebre - зебра  
 zeze - муха  
-zimbabia - Зимбабве  
+zimbabwia - Зимбабве  
 zime - зима  
 zimi - зимний  
 zinje - имбирь  

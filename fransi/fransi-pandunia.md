@@ -9,9 +9,9 @@ adulte - adulte
 Afghanistan - afgania  
 africain - afriki  
 Afrique - afrike  
-afrophile - afrikofiler  
-afrophilie - afrikofilia  
-agent pathogène - patojener  
+afrophile - afrikefiler  
+afrophilie - afrikefilia  
+agent pathogène - patejener  
 agile - ajil  
 agression (attaque) - agres  
 aimer - ama  
@@ -19,8 +19,9 @@ aire (superficie) - are
 alcool - alkol  
 alcoolique - alkoli  
 algue - alge  
-Aller-retour - retrotikete  
-allophone - alofone  
+Aller-retour - retretikete  
+allophone - alefone  
+allô - halow  
 almond - badam  
 alphabet - abace  
 aluminium - alumin  
@@ -35,6 +36,7 @@ analyser - analisa
 ancre - anker  
 Andes - andes  
 Angola - angolia  
+animal (bête) - hewan  
 animation - anime  
 animer - anima  
 Antarctique - antartia  
@@ -45,7 +47,7 @@ appliquer - aplika
 arabe - arabi  
 arachnophobie - aranofobia  
 araignée - arane  
-arboretum, pépinière - arboparke  
+arboretum, pépinière - arbeparke  
 arbre - arbe  
 argent - pese  
 Argentine - argentin  
@@ -55,7 +57,7 @@ arme - arme
 armée - laskeria  
 arsenic - arsen  
 art - arte  
-artiste - arter  
+artiste - artiste  
 asiatique - asi  
 Asie - asia  
 aspirine - aspirin  
@@ -64,13 +66,15 @@ asthme - asme
 autel - altar  
 automne - oton  
 autre - ali  
+autrement - alo  
 aventure - abentur  
 aventurier - abenturer  
 avoir - tena  
 avoir besoin de - nida  
 avoir tendance à - iva  
 axe - akse  
-aéroport - airoporte  
+aéroport - airporte  
+aïe! - ay  
 ##b
 babord - botolefte  
 bagage - bagaje  
@@ -90,6 +94,8 @@ base de données - datobanke
 basketball - baskobol  
 bassin - basen  
 bateau - bote  
+beau - sundari  
+beauté - sundaria  
 besoin - nide  
 bibliothèque - kitabia  
 bicyclette - sikle  
@@ -102,6 +108,7 @@ bon - bon
 botanique - fitolojia  
 boue (fange, bourbe, gadoue) - pote  
 bouton - boton  
+brigand (bandit) - luter  
 brun (marron) - bruni  
 brûler - pira  
 but - gol  
@@ -116,6 +123,7 @@ carte - karde
 carte - karte  
 cartographie - kartografia  
 centre - jung  
+chambre à coucher - sonkamar  
 changement climatique - klimomute  
 chapitre - babe  
 chemise - kamis  
@@ -124,6 +132,7 @@ chose - xey
 ciel - saman  
 cime (pic, sommet) - pike  
 citron - limon  
+comportement (manière) - manir  
 comprendre (réaliser) - aha  
 construire - bina  
 corps - badan  
@@ -135,10 +144,10 @@ coupe (tasse, verre) - kupe
 couronne - koron  
 croix - krus  
 crème - krem  
-crème glacée - aisokrem  
+crème glacée - aisekrem  
 cube - kube  
 cycliste - sikliste  
-cytologie - selolojia  
+cytologie - selelojia  
 ##d
 dance - danse  
 de - ca  
@@ -151,6 +160,7 @@ dirigeant (leader) - lider
 domestique - domi  
 dommage - damaje  
 données - date  
+dormir - sonu  
 drapeau - bandir  
 droit (rectiligne) - orti  
 ##e
@@ -165,6 +175,7 @@ faute (erreur) - galte
 feu - pir  
 fils ou fille - pute  
 fleur - pul  
+forer (percer) - fora   
 fourmi - maye  
 fragment - parce  
 frais - tazi  
@@ -173,22 +184,27 @@ fromage blanc - panir
 féliciter - barka  
 ##g
 gaz - gas  
+genou - gute  
 genre (espèc) - jinse  
 gingembre - zinje  
 giraffe - jiraf  
 goule - gul  
+guitare - gitar  
 ##h
 heure - hor  
+heureux - suki  
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
-hockey sur glace - aisohoke  
+hockey sur glace - aisehoke  
 hourra - ura  
 humanisme - insanistia  
-hétérosexuel - alojinsokami  
+hétérosexuel - aleseksekami  
+hôtel - hotel  
 ##i
 imperméable - barxokote  
 important - hami  
+insecte - koncung  
 ##j
 jade - yuke  
 jaïnisme - jeinistia  
@@ -202,7 +218,7 @@ Jésus - yesus
 ##l
 laitue - letis  
 langue - bax  
-lapin, lièvre - tuze  
+lapin (lièvre) - tuze  
 lasagne - lazanye  
 lexical - leksi  
 libellule - libel  
@@ -210,11 +226,12 @@ lieu - loke
 liste - liste  
 livre - buke  
 local - loki  
+long - long  
 loquace - logivi  
 loup - wolfe  
 lourd - bari  
-luthéranisme - lutaristia  
-luthérien - lutaristi  
+luthéranisme - lutheristia  
+luthérien - lutheristi  
 lys - susan  
 ##m
 machine à écrire - kitabomaxin  
@@ -230,28 +247,30 @@ medio - medi
 mer - samude  
 merde - xite  
 message - anjil  
+mettre (placer) - loka  
 miel - mel  
 migration - migre  
 monde - dunia  
-monnaie (pièce) - pesodiske  
+monnaie (pièce) - pesediske  
 mot - lekse  
 mouche - zeze  
+mur - wal  
 mât - maste  
 mémoire - mem  
 ##n
 neige - him  
-neurone - neurosel  
+neurone - neuresel  
 niche - nixe  
 noir - cerni  
 noit - noce  
-non (ne...pas) - ni  
+non (ne...pas) - no  
 note - note  
 nous - mome  
 nouveau - novi  
 nuage - megam  
 nécessaire - nidi  
 ##o
-océan - dayosamude  
+océan - daysamude  
 oeuf - ande  
 oignon - piaze  
 oiseau - pakse  
@@ -262,10 +281,11 @@ orange (fruit) - oranje
 ordinateur - komputer  
 origine - asle  
 originel - asli  
-orthogonal - ortogoni  
+orthogonal - ortegoni  
 ou - o  
 oublier - memula  
 oui - si  
+ours - urse  
 oxyde - okside  
 ##p
 pacifiste - paciste  
@@ -274,15 +294,17 @@ paix - pace
 palais - gunden  
 pantoufle (babouche) - babuce  
 papaye - papay  
-papier - papir  
+papier - kagaze  
+papier peint - walpapir  
 paquet - pake  
 parapluie - barxocate  
 parc - parke  
 parler - loga  
 passeport - pasporte  
 pastèque - arbuze  
-pathologie - patolojia  
+pathologie - patelojia  
 pause - pauze  
+perdant - luzer  
 perroquet - papagay  
 pet (vesse) - pede  
 peu - xaw  
@@ -303,12 +325,15 @@ pouvoir (être capable) - abla
 preuve - dalil  
 problème - vente  
 problématique - venti  
+programme - program  
+projet - projete  
 propriété (possession, bien) - malke  
 psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
 que (quoi) - ke  
 ##r
+race - ras  
 racine - rize  
 renard - hule  
 reste - reste  
@@ -324,7 +349,9 @@ sac - sake
 salle de bains - banyokamar  
 salut (salam) - salame  
 sandwich - sanwice  
+sang - sang  
 Satan - xatan  
+sauce - sos  
 saucisse - sosis  
 se baigner - banyu  
 se rappeler (se remémorer) - mema  
@@ -334,7 +361,7 @@ shopping - xope
 si - gar  
 soldat - lasker  
 soleil - sol  
-sucre - sukar  
+sucre - xukar  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour les verbes avec ordre des mots OVS - -u  
@@ -345,7 +372,7 @@ table - meze
 tarte - pay  
 tasse à thé - cayokupe  
 technique - tekne  
-technologie - teknolojia  
+technologie - teknelojia  
 tendance - ive  
 tente - haime  
 terrorisme - teroristia  
@@ -363,7 +390,7 @@ tribord - botoraite
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-téléphone - telofon  
+téléphone - telefon  
 téléviseur - telowide  
 tête - sar  
 ##u
@@ -377,8 +404,10 @@ Venezuela - venezolia
 ver - verme  
 verre - kance  
 vert - lugi  
+viande - manse  
 vie - hay  
 virus - virus  
+vite (rapide) - rapido  
 vivre (habiter) - domu  
 vocabulaire (lexique) - leksia  
 voile - hijabe  
@@ -386,7 +415,7 @@ voir - vida
 vouloir - wana  
 vrai - veri  
 vulve - vulve  
-végétarien - vejoniamiste  
+végétarien - vejeniamiste  
 ##w
 ##x
 ##y
