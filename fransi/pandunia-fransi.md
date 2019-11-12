@@ -102,7 +102,7 @@ banke - banque
 banker - banquier  
 banse - bambou  
 banye - bain  
-banyokamar - salle de bains  
+banyekamar - salle de bains  
 banyu - se baigner  
 bari - lourd  
 barium - baryum  
@@ -215,12 +215,15 @@ karde - carte
 karte - carte  
 kartografia - cartographie  
 ke - que (quoi)  
+kimia - chimie  
 kirmi - rouge  
 kitaba - écrire  
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
 klimomute - changement climatique  
+ko - que (comme)  
+ko? - comment  
 komputer - ordinateur  
 koncung - insecte  
 koron - couronne  
@@ -266,6 +269,9 @@ marmar - marbre
 masal - épices  
 maske - masque  
 maste - mât  
+maw - chat  
+max - plus  
+maxime - maximum  
 maye - fourmi  
 me - je (me)  
 mece - match  
@@ -275,9 +281,12 @@ mel - miel
 mem - mémoire  
 mema - se rappeler (se remémorer)  
 memula - oublier  
+mes - mois  
+mester - maître  
 meze - table  
 migre - migration  
 migru - s'installer (déménager)  
+milke - lait  
 mome - nous  
 ##n
 nade - rivière (fleuve)  
@@ -289,6 +298,7 @@ nili - blue
 nixe - niche  
 no - non (ne...pas)  
 noce - noit  
+nostalgia - nostalgie  
 note - note  
 novi - nouveau  
 o - ou  

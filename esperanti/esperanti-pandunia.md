@@ -131,7 +131,7 @@ Bangladeŝo - banglodexia
 bankisto - banker  
 banko - banke  
 bano - banye  
-banĉambro - banyokamar  
+banĉambro - banyekamar  
 baobabo - buy  
 Barata - barti  
 Baratio - bartia  
@@ -265,7 +265,7 @@ devigi - musa
 devo - muse  
 devus - xudu  
 dezerto - registan  
-deziro - kam  
+deziro - kamia  
 dia - dewi  
 diablo (Satano) - xatan  
 diamanto - almas  
@@ -321,6 +321,8 @@ emocio - gam
 ena - indi  
 energio - energe  
 eno - inde  
+enui - bori  
+enuo - boria  
 erara - galti  
 eraro (miso) - galte  
 erbio - erbium  
@@ -649,13 +651,12 @@ kial? - ki yangi
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  
-kiel (ol) - ka  
 kiel - ja  
-kiel? - ki yang?  
+kiel? - ko?  
 kilometro - kilometre  
 kio? - ke  
 kio? - ki xey  
-kiom? - ki nume  
+kiom? - ko multo  
 kiso - cum  
 kiu (rilativa pronomo) - je  
 kiu? - ki ren  
@@ -837,7 +838,7 @@ malproksima - teli
 malproksimeco - tele  
 malsana - pati  
 malsukceso - xibay  
-maltro - min ka bas  
+maltro - min ko bas  
 malvarma - lengi  
 malĝoja - duki  
 malĝojo - duke  
@@ -893,9 +894,9 @@ miksi - mixa
 miksilo - mixer  
 miksulo - hibride  
 mil - kil  
-mili- - milo-  
+mili- - mili-  
 miliardo (giga-) - gigo-  
-milimetro - milometre  
+milimetro - milimetre  
 miliono - megi  
 milita - jengi  
 milito (batalo) - jeng  
@@ -975,6 +976,7 @@ nombro - nume
 nomo - nam  
 norvega - norgi  
 Norvegio - norgia  
+nostalgio (saudado) - nostalgia  
 noto (rimarko, komento) - note  
 nova - novi  
 novaĵoj - habar  
@@ -994,6 +996,7 @@ oksigeno - okse
 okulo - kan  
 okulumi - kana  
 okupata - bizi  
+ol (kiel) - ko  
 olivo - zaitun  
 ombro - saye  
 opinii - raya  
@@ -1385,7 +1388,7 @@ trezoro - hazin
 tri (3) - tin  
 tribo - tribe  
 tribordo - botoraite  
-tro - max ka bas  
+tro - max ko bas  
 trovi - eureka  
 tubo - tube  
 tulio - tulium  
@@ -1517,6 +1520,7 @@ zuluo - zuluh
 ĝentila - keci  
 ĝirafo - jiraf  
 ĝusta (prava) - sahi  
+ĥemio (kemio) - kimia  
 ĵeti (lanĉi) - lanca  
 ĵetkubo - dade  
 ĵudo - judo  

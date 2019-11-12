@@ -142,7 +142,7 @@ banke - bank
 banker - bankier  
 banse - bambus  
 banye - kąpiel  
-banyokamar - łazienka  
+banyekamar - łazienka  
 banyu - kąpać się  
 banze - deska  
 banzogem - gra planszowa  
@@ -916,7 +916,6 @@ jus - sok
 juxa - wstrzyknąć, wstrzykiwać  
 juxe - zastrzyk  
 ##k
-ka - jak, niż, od  
 kababe - kebab  
 kabaw - bawół domowy  
 kabin - kabina, budka  
@@ -935,11 +934,11 @@ kalifornium - kaliforn
 kalium - potas  
 kalkulia - rachunek (formalny system obliczeń)  
 kalsium - wapń  
-kam - pożądanie, żadza  
 kamar - pokój, sala  
-kamarotal - podłoga  
+kamartal - podłoga  
 kambudia - Kambodża  
 kamerunia - Kamerun  
+kamia - pożądanie, żadza  
 kamis - koszula  
 kamote - słodki ziemniak  
 kampe - obozowicz  
@@ -1007,11 +1006,9 @@ kex - włos
 kexobende - opaska do włosów  
 kexosabun - szampon  
 ki - który?  
-ki nume - ile?  
 ki ren - co?  
 ki sate - zapytać, pytać  
 ki xey - jak?  
-ki yang? - kiedy?  
 kil - tysiąc  
 kilogram - kilogram (kg)  
 kilometre - kilometr  
@@ -1045,6 +1042,9 @@ klon - klon, replika
 klona - klonować, repilikować  
 klor - chlor  
 klube - klub  
+ko - jak, niż, od  
+ko multo - ile?  
+ko? - kiedy?  
 kobalte - kobalt  
 koda - kodować  
 kode - kod, szyfr  
@@ -1326,7 +1326,7 @@ maturi fem - kobieta, dorosła samica
 maturi man - mężczyzna, dorosły samiec  
 maw - kot  
 max - bardziej  
-max ka bas - zbyt  
+max ko bas - zbyt  
 maxi - dodatkowy  
 maxim - nabardziej, maksymalnie  
 maximi - maksymalny  
@@ -1379,7 +1379,7 @@ mesta - być mistrzem (być ekspertem)
 mester - mistrz (ekspert)  
 meta - zmierzyć  
 metal - metal  
-metalojanger - kowal  
+metaljanger - kowal  
 mete - miara  
 metode - metoda, sposób  
 metre - metr  
@@ -1388,17 +1388,16 @@ mey - każdy, wszyscy
 meze - stół  
 mi - mój  
 mianmia - Mjanma, Birma  
-micin - glutaminian sodu  
 mien - makaron  
 migan - mandarynka  
 migre - migracja  
 mikro- - mikro-  
 mikronesia - Mikronezja  
+mili- - mili-  
+milimetre - milimetr  
 milke - mleko  
-milo- - mili-  
-milometre - milimetr  
 min - mniej  
-min ka bas - zbyt mało  
+min ko bas - zbyt mało  
 minar - wieża  
 ming - jasny, czysty  
 minga - rozjaśnić  
@@ -1901,6 +1900,7 @@ roler - akt, scena
 romania - Rumunia  
 romansa - kochać romantycznie  
 romansi - romantyczny  
+romansia - miłość romantyczna  
 rome - Rzym  
 romi empiria - Imperium Rzymskie  
 rong - orientalny smok  
@@ -2313,6 +2313,7 @@ vide - widok, wzrok
 vidomaidan - pole widzenia  
 vidu - być widzianym  
 vietia - Wietnam  
+vijin - glutaminian sodu  
 viman - samolot  
 vimankaper - porywacz samolotu  
 vin - wino  

@@ -126,7 +126,7 @@ banke - banko
 banker - bankisto  
 banse - bambuo  
 banye - bano  
-banyokamar - banĉambro  
+banyekamar - banĉambro  
 banyu - bana  
 bar - pezo  
 barbar - barbaro  
@@ -200,6 +200,8 @@ bolivia - Bolivio
 bombe - bombo  
 bon - bona  
 bon rupi - bonaspekta  
+bori - enui  
+boria - enuo  
 borium - borio  
 boron - boro  
 bote - ŝipo  
@@ -719,7 +721,6 @@ jungogia - Ĉinio
 jupe - jupo  
 jus - suko  
 ##k
-ka - kiel (ol)  
 kadomium - kadmio  
 kafe - kafo  
 kaferia - kafejo  
@@ -731,9 +732,9 @@ kalam - plumo
 kalifornium - kaliforniumo  
 kalium - kalio  
 kalsium - kalcio  
-kam - deziro  
 kamar - ĉambro  
 kambudia - Kamboĝo  
+kamia - deziro  
 kamis - ĉemizo  
 kamote - batato  
 kan - okulo  
@@ -778,14 +779,13 @@ kel - sporto
 kenar - rando (orlo)  
 kex - haro  
 kexosabun - ŝampuo  
-ki nume - kiom?  
 ki ren - kiu?  
 ki sate - kiam?  
 ki xey - kio?  
-ki yang? - kiel?  
 ki yangi - kial?  
 kil - mil  
 kilometre - kilometro  
+kimia - ĥemio (kemio)  
 kirmi - ruĝa  
 kitabe - skribo  
 kitabia - librejo  
@@ -799,6 +799,9 @@ klon - klono
 klona - kloni  
 klor - kloro  
 klube - klubo  
+ko - ol (kiel)  
+ko multo - kiom?  
+ko? - kiel?  
 kobalte - kobalto  
 kode - kodo  
 kokode - koko  
@@ -936,7 +939,7 @@ maturi fem - virino
 maturi man - viro  
 maw - kato  
 max - pli  
-max ka bas - tro  
+max ko bas - tro  
 maxim - plej  
 maxin - maŝino  
 mayan - majao  
@@ -969,11 +972,11 @@ mien - nudelo
 migan - mandarino  
 migre - migrado  
 mikro- - mikro-  
+mili- - mili-  
+milimetre - milimetro  
 milke - lakto  
-milo- - mili-  
-milometre - milimetro  
 min - malpli  
-min ka bas - maltro  
+min ko bas - maltro  
 minar - turo  
 mini - eta  
 minim - malplej  
@@ -1066,6 +1069,7 @@ node - nodo
 noldewiste - ateisto  
 norgi - norvega  
 norgia - Norvegio  
+nostalgia - nostalgio (saudado)  
 nota - rimarki  
 note - noto (rimarko, komento)  
 notobuke - kajero  

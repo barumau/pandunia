@@ -107,6 +107,7 @@
 |bone|oste|eng:deu:osteo-. rus:остео- (osteo-). ita:por:osso. fra:os. hin:अस्थि (asthi-).|
 |book|buke|eng:book. deu:Buch. ind:buku. swa:buku. fra:bouquin. hin:बुक (buk).|
 |border (edge, rim, fringe)|kenar|tur:kenar. hin:किनारा (kinārā). urd:(kanārā).|
+|bored|bori|eng:bored. hin:(bhorī).|
 |bottle|botol|eng:bottle. ind:botol.|
 |box (chest)|sanduke|swa:sanduku. tur:sandık. rus:сундук (sunduk). ara:صُنْدُوق‎ (ṣundūq). fas:urd:صندوق‎ (sanduq).|
 |branch (bough)|xake|ben:শাখা (śakha). hin:शाखा (śākhā). urd:(śāx). fas:(šax).|
@@ -144,7 +145,7 @@
 |cash box|kaxe|deu:Kasse. rus:(kassa). eng:case,cash. swa:kasha. por:caixa. spa:caja.|
 |castle (fortress, stronghold)|burge|deu:Burg. egy:(burg). ara:urd:(burj). hin:बुर्ज (burj). ind:puri. + hin:दुर्ग (durg). ben:দুর্গ (durg).|
 |catch (capture, seize, snatch, intercept)|kapa|tur:kapmak. hun:kap. sve:kapa. fin:kaapata. ned:kapen. spa:por:capturar. eng:capture. spa:por:caber. khm:ចាប់ (cap).|
-|cat|maw|zho: 猫 (māo). yue: 貓 (maau). vie: mèo.|
+|cat|maw|zho:猫 (māo). yue:貓 (maau). vie:mèo. swa:nyau.|
 |cave|guhe|ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.|
 |cell (biology)|sel|ind:sel. fas:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.|
 |cement|semente|eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).|
@@ -160,6 +161,7 @@
 |checkers (draughts)|damogem|fra:jeu de dames. ara:(dāmā). ind:dam. spa:por:damas. deu:Damespiel.|
 |cheer (hurrah, hooray)|ura|rus:ура (ura). ita:urrà. deu:spa:hurra. fra:hourra. eng:hurrah. ind:hore. fas:(hurâ).|
 |cheese|cis|eng: cheese. zho: 起司 (qǐsī). swa: chizi. jpn:チーズ (chīzu). kor:치즈 (chijeu).|
+|chemistry|kimia|ara:(kīmiyāʾ). may:kimia. swa:kemia. tur:kimya. fra:chimie. spa:por:química. rus:химия (himiya).|
 |chess|xatranje|hin:शतरंज (śatrañj). urd:(śatrañj). fas:(šatranj). tur:satranç. ara:(šaṭranj). swa:sataranji. tel:చతురంగము (caturaṅgamu). tam:சதுரங்கம் (caturaṅkam). ind:catur. khm:ចត្រង្គ (caʾtrɑng). por:xadrez.|
 |chest (breast)|sine|fas:(sine). tur:sine. hin:सीना (sīnā). spa:seno. fra:sein. ltn:sinus.|
 |chestnut|kastan|spa:castaňa. ara:(kastanāʾ). tur:kestane. rus:каштан (kaštan).|
@@ -197,7 +199,6 @@
 |comma|kome|eng:comma. deu:Komma. jpn:コンマ (konma). kor:콤마 (komma). ind:koma.|
 |common (general, universal)|putong|zho:普通 (pǔtōng). yue:普通 (pou2tung1). vie:phổ thông. kor:보통 (botong).|
 |company (corporation)|kompania|eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.|
-|compared to (as, than)|ka|ibo:kà. ara:(ka-). swa:kama.|
 |compute (to process data)|komputa|eng:compute.|
 |condition (requirement)|xarte|tur:şart. ara:fas:(šart). swa:sharuti. hin:शर्त (śart).|
 |Confucious|konfuze|zho:孔夫子 (Kǒng Fūzǐ).|
@@ -242,7 +243,6 @@
 |debate (discuss)|lona|zho:论 (lùn). yue:論 (lœn6). kor:론 (ron). jpn:論 (ron). vie:luận.|
 |defense (defence)|defe|ara:(difāʿ). fas:(defâ'). hin:दफ़ा (dafā). urd:(difā'). + fra:eng:defense. spa:defensa. por:defesa. tur:defans.|
 |democracy|demokratia|eng:democracy. rus:демократия (demokratiya). spa:democracia. fra: por: deu: ara:(dīmukratiya). swa:demokrasia.|
-|desire (lust)|kam|hin:काम (kām). tha:กาม (gaam). eng:kama.|
 |destination (destiny, fate)|destin|eng:destination, destiny. fra:destin. spa:por:destino.|
 |development|fajan|zho:发展 (fāzhǎn). vie:phát triển. kor:발전 (bajjeon).|
 |devil (Satan)|xatan|ara:(šayṭān). hin:शैतान (śaitān). tur:şeytan. fas:(šaytān). swa:Shetani. eng:fra:deu:vie:Satan. spa:Satán. por:Satã. rus:Сатана (Satana). zho:撒但 (Sādàn). tha:ซาตาน (satan). kor:사탄 (satan). jpn:サタン (satan). ind:Setan.|
@@ -527,6 +527,7 @@
 |mathematics (math)|matike|deu:Mathe(matik). eng:math(ematics). spa:matemática. rus:(matika).|
 |matter (substance)|mate|eng:matter. spa:por:materia. fra:matière. rus:материя (materiya). deu:Materie. ind:materi. + ara:(mādda). urd:(māda). tur:madde. fas:(mādde). + yue:物 (mat). vie:vật.|
 |mature (ripe, adult)|matur|eng:fra:mature. spa:por:maduro.|
+|maximum|maxime|eng:fra:maximum. por:spa:máximo. rus:максимум (maksimum). may:maksimum.|
 |mean (cruel)|zalim|ara:(ẓālim). tur:zalim. urd:hin:(zālim). fas:(zālem). swa:dhalimu.|
 |meaning (signification)|mene|ara:(maʿnā). fas:urd:(ma'ni). hin:मअनी (maani). swa:maana. haw:manao. eng:meaning. deu:Meinung.|
 |measurement|mete|eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.|
@@ -550,7 +551,7 @@
 |month|mes|por:mês. spa:mez. rus:месяц (mesyats). ben:মাস (mas). swa:mwezi.|
 |moon|lun|fra:lune. spa:luna. eng:lunar. rus:луна (luná).|
 |morality (ethics)|darme|hin:धर्म (dharm). urd:(dharm). ben:ধর্ম (dhôrmô). guj:ધર્મ (dharma). tel:ధర్మము (dharmamu). tam:தருமம் (tarumam). tha:ธรรม (tam). mya:ဓမ္မ (dhamma). ind:derma. zho:達摩 (dámó). kor:달마 (dalma). eng:deu:fra:spa:dharma. por:darma. rus:дхарма (dharma).|
-|more|max|spa: mas. por: mais. eng: max-.|
+|more|max|spa:mas. por:mais. eng: max-.|
 |morning (dawn)|sube|ara:(ṣabāḥ). tur:sabah. fas:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.|
 |mother (mom)|mame|spa:mamá. fra:maman. eng:mama. zho: 妈妈 (māma). ben:মা (ma). hin:मां (mã).|
 |motion (movement)|mote|ita:moto. eng:motion.|
@@ -559,6 +560,7 @@
 |mountain (hill)|xan|zho: 山 (shān). kor: 산 (san). vie:sơn.|
 |mouse|mux|pol:mysz. rus:мышь (myś). fas:(muš).|
 |mouth|boke|spa:por:boca.|
+|MSG (monosodium glutamate)|vijin|zho:味精 (wèijīng). yue:味精 (mei6 zing1). vie:mì chính. may:vetsin,micin. tgl:bitsin.|
 |mud (mire)|pote|ijo:pọtọ. ibo:potọ potọ. Lin:pɔtɔpɔ́tɔ. kon:pcm:fra:poto-poto.|
 |music|musike|eng:music. spa:música. rus:музика (muzika). ara:(mūsīqā).|
 |must|bixu|zho:必须 (bìxū).|
@@ -577,6 +579,7 @@
 |nine (9)|naw|hin:नौ (nau). urd:(nau).|
 |noise|kelele|swa:kon:makelele.|
 |noodle|mien|zho:面 (miàn). ind:mie. jpn:麺 (men). tha:หมี่ (mii). khm:មី (mi).|
+|nostalgia (longing)|nostalgia|eng:por:spa:nostalgia. fra:nostalgie. deu:Nostalgie. rus:ностальгия (nostalʹgiya). jpn:ノスタルジー (nosutarujī). fas:(nostâlži).|
 |not (no)|no|eng:spa:no. fra:non. por:não. ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).|
 |note (observation, remark, comment)|note|deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:노트 (noteu). fas:(not).|
 |number|nume|deu:Nummer. eng:number. tur:numara. fra:numéro.|
@@ -720,6 +723,7 @@
 |roast|rosta|fra:rôtir. eng:roast. deu:rösten. ita:arrostare.|
 |rob (loot, plunder, pillage, ransack)|luta|hin:लूटना (lūṭnā). urd:(lūṭnā). ben:লুটা (luṭā). pnb:ਲੁੱਟ (luṭ). eng:loot. + zho:掠夺 (lüèduó). yue:掠 (loek6).|
 |robot|robote|eng:robot;robo-. por:robô. fra:robot. tam:ரோபோ (rōpō). rus:робот (robot).|
+|romance (romantic love)|romansia|fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).|
 |roof|cate|hin: छत (chat). ben: ছাদ (chad). tur:çatı. kyr:чатыр (čatyr).|
 |room (chamber)|kamar|ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer. rus:камера (kamera).|
 |root|rize|ell:ρίζα (riza). eng:fra:rhizo-. por:spa:rizo-. rus:ризо- (rizo-).|
@@ -737,6 +741,7 @@
 |sauce|sos|eng:fra:sauce. rus:соус (sous). hin:सॉस (sos). deu:Soße. vie:xốt. jpn:ソース (sōsu). that:ซอส (soot). kor:소스 (soseu). ind:saus.|
 |sauna|saune|fin:deu:eng:fra:por:spa:ind:tur:sauna. rus:сауна (sauna). zho:桑拿 (sāngná). jpn:サウナ (sauna). kor:사우나 (sauna). hin:सॉना (sonā). fas:urd:(sonā). tha:ซาวน่า (saona).|
 |sausage|sosis|fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.|
+|savory (umami)|umami|jpn:旨味 (umami). kor:우마미 (umami). eng:fra:por:spa:may:umami. rus:умами (umami).|
 |scarf (shawl)|xal|fra:châle. rus:шаль (šal). por:xaile. eng:shawl. tur:şal.|
 |science (study, research)|lojia|eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.|
 |scissors|makas|ara:(maqaṣ). tur:makas. swa:mkasi. orm:maqasii. hau:almakashi. yor:àlùmogàjí. scr:makaze.|
@@ -750,6 +755,7 @@
 |sesame|sesam|tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).|
 |seven (7)|sem|rus:семь (semʹ).|
 |sew|suta|hin:सीना (sīnā). rus:шить (šit'). cze:šít. eng:sew.|
+|sexual desire (lust)|kamia|hin:काम (kām). tha:กาม (gaam). eng:kama.|
 |shadow|saye|fas:(sāye). urd:(sāyā). pas:(sāyá). hin:साया (sāyā), छाया (chāyā). ben:ছায়া (chaya). tha:ฉายา (chāyā).|
 |shaman|xaman|rus:шаман (šaman). eng:shaman.|
 |shame (disgrace)|xarme|fas:(šarm).  urd:(śarma). hin:शर्म (śarma). deu:Scham. eng:shame. rus:срам (sram).|

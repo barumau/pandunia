@@ -126,12 +126,15 @@ centre - jung
 chambre à coucher - sonkamar  
 changement climatique - klimomute  
 chapitre - babe  
+chat - maw  
 chemise - kamis  
+chimie - kimia  
 Chine - jungogia  
 chose - xey  
 ciel - saman  
 cime (pic, sommet) - pike  
 citron - limon  
+comment - ko?  
 comportement (manière) - manir  
 comprendre (réaliser) - aha  
 construire - bina  
@@ -216,6 +219,7 @@ justice - adalia
 Jésus - yesus  
 ##k
 ##l
+lait - milke  
 laitue - letis  
 langue - bax  
 lapin (lièvre) - tuze  
@@ -243,6 +247,8 @@ marché (bazar) - bazar
 mariage - maria  
 masque - maske  
 match - mece  
+maximum - maxime  
+maître - mester  
 medio - medi  
 mer - samude  
 merde - xite  
@@ -250,6 +256,7 @@ message - anjil
 mettre (placer) - loka  
 miel - mel  
 migration - migre  
+mois - mes  
 monde - dunia  
 monnaie (pièce) - pesediske  
 mot - lekse  
@@ -264,6 +271,7 @@ niche - nixe
 noir - cerni  
 noit - noce  
 non (ne...pas) - no  
+nostalgie - nostalgia  
 note - note  
 nous - mome  
 nouveau - novi  
@@ -316,6 +324,7 @@ pizza - pize
 pièce (chambre) - kamar  
 placard - almar  
 pluie - barxe  
+plus - max  
 pluvieux - barxi  
 pomme - aple  
 porte - porte  
@@ -331,6 +340,7 @@ propriété (possession, bien) - malke
 psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
+que (comme) - ko  
 que (quoi) - ke  
 ##r
 race - ras  
@@ -346,7 +356,7 @@ ruban (bande) - tepe
 s'installer (déménager) - migru  
 ##s
 sac - sake  
-salle de bains - banyokamar  
+salle de bains - banyekamar  
 salut (salam) - salame  
 sandwich - sanwice  
 sang - sang  

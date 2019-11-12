@@ -42,6 +42,7 @@ aisi - icy
 ajaba - amaze  
 ajabe - marvel (wonder)  
 ajabi - amazing (astonishing)  
+ajabia - awe (wonder)  
 ajabu - wonder (be amazed)  
 ajil - agile  
 akse - axis (axle)  
@@ -165,7 +166,7 @@ banke - bank (depository)
 banker - banker  
 banse - bamboo  
 banye - bath  
-banyokamar - bathroom  
+banyekamar - bathroom  
 banyu - bathe  
 banze - board (plank)  
 banzogem - board game  
@@ -264,6 +265,8 @@ bombe - bomb
 bon - good  
 bon rupi - good-looking  
 bon zar - good luck  
+bori - bored  
+boria - boredom  
 borium - bohrium  
 boron - boron  
 bosnia - Bosnia and Herzegovina  
@@ -992,7 +995,6 @@ jus - juice
 juxa - inject  
 juxe - injection  
 ##k
-ka - compared to (as, than)  
 kababe - kebab (skewer meat)  
 kabaw - water buffalo  
 kabin - cabin (booth)  
@@ -1011,11 +1013,11 @@ kalifornium - californium
 kalium - potassium  
 kalkulia - calculus (manipulation of symbolic expressions)  
 kalsium - calcium (Ca)  
-kam - desire (lust)  
 kamar - room (chamber)  
-kamarotal - floor  
+kamartal - floor  
 kambudia - Cambodia  
 kamerunia - Cameroon  
+kamia - sexual desire (lust)  
 kamili - perfect  
 kamis - shirt  
 kamote - sweet potato  
@@ -1091,11 +1093,9 @@ kex - hair
 kexobende - hairband (headband)  
 kexosabun - shampoo  
 ki - which?  
-ki nume - how many?  
 ki ren - who?  
 ki sate - when?  
 ki xey - what thing?  
-ki yang? - how?  
 ki yangi - what kind of?  
 kil - thousand  
 kilogram - kilogram (kg)  
@@ -1131,6 +1131,9 @@ klon - clone (replica)
 klona - clone (replicate)  
 klor - chlorine  
 klube - club  
+ko - than (as, compared to)  
+ko multo - how many?  
+ko? - how?  
 kobalte - cobalt  
 koda - encode  
 kode - code (cipher)  
@@ -1429,9 +1432,10 @@ maturi fem - woman (adult female)
 maturi man - man (adult male)  
 maw - cat  
 max - more  
-max ka bas - too much  
+max ko bas - too much  
 maxi - additional  
 maxim - most (maximally)  
+maxime - maximum  
 maximi - maximal  
 maxin - machine  
 maxor - major (not minor)  
@@ -1449,8 +1453,8 @@ media - medium (media)
 medika - heal (cure)  
 mediker - doctor (physician, healer)  
 medikia - medicine (field of study)  
+medileti den - Midsummer Day  
 medita - meditate (ponder)  
-medoleti den - Midsummer Day  
 megam - cloud  
 megi - million  
 mego- - mega-  
@@ -1463,7 +1467,7 @@ mem - memory (recollection)
 mema - remember (recall)  
 memba - belong (be a member)  
 member - member (component)  
-memonote - memorandum (memo)  
+memnote - memorandum (memo)  
 memula - forget  
 mena - mean (signify)  
 mene - meaning (signification)  
@@ -1486,7 +1490,7 @@ mesta - master (be an expert at sth)
 mester - master (expert)  
 meta - measure (take measurements)  
 metal - metal  
-metalojanger - blacksmith (iron forger)  
+metaljanger - blacksmith (iron forger)  
 mete - measurement  
 metode - method (way, manner)  
 metre - meter (## cm)  
@@ -1495,7 +1499,6 @@ mey - every (each)
 meze - table  
 mi - my  
 mianmia - Myanmar (Burma)  
-micin - MSG (monosodium glutamate)  
 mien - noodle  
 migan - citrus fruit  
 migra - move (migrate, relocate)  
@@ -1503,11 +1506,11 @@ migre - migration (moving)
 migru - move (migrate, relocate oneself)  
 mikro- - micro-  
 mikronesia - Micronesia  
+mili- - milli-  
+milimetre - millimeter  
 milke - milk  
-milo- - milli-  
-milometre - millimeter  
 min - less  
-min ka bas - too little  
+min ko bas - too little  
 minar - tower  
 ming - bright (brilliant, clear)  
 minga - brighten  
@@ -1691,6 +1694,8 @@ norgia - Norway
 norme - norm (standard)  
 normi - normal  
 nos - nose  
+nostalgi - nostalgic  
+nostalgia - nostalgia (longing)  
 nota - note (observe, notice)  
 note - note (observation, remark, comment)  
 notis - notice (notification)  
@@ -2037,6 +2042,7 @@ roler - actor (actress)
 romania - Romania  
 romansa - love romantically  
 romansi - romantic  
+romansia - romance (romantic love)  
 rome - Rome  
 romi empiria - Roman Empire  
 rong - oriental dragon  
@@ -2424,6 +2430,7 @@ ukrainia - Ukraine
 ula - reverse (undo)  
 ulul - howling  
 ulula - howl  
+umami - savory (umami)  
 umur - age  
 un - one (1)  
 un ban - once  
@@ -2471,6 +2478,7 @@ vidomaidan - visual field (field of vision)
 vidu - be seen  
 vieti - Vietnamese (Viet)  
 vietia - Viet Nam  
+vijin - MSG (monosodium glutamate)  
 viman - airplane  
 vimankaper - plane hijacker  
 vin - wine  

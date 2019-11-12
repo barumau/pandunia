@@ -415,7 +415,7 @@ hikinen - suedi
 hiljainen (hys, shhh) - xix  
 hiljainen - xixi  
 Himalaja - himalia  
-himo (halu) - kam  
+himo (halu) - kamia  
 hindu - hindiste  
 hindulaisuus (hinduismi) - hindistia  
 hinta (maksu) - koste  
@@ -608,7 +608,7 @@ joulukuu - mes 12 (mes des dul)
 jousisoitin - ticin  
 joustava (elastinen) - lasti  
 judo - judo  
-juhannus (keskikesä, mittumaari) - medoleti den  
+juhannus (keskikesä, mittumaari) - medileti den  
 juhannus (kristillinen juhla) - yohani feste  
 juhlapäivä - festoden  
 juhlat - feste  
@@ -660,6 +660,7 @@ kahvila - kaferia
 kaide (reelinki) - langan  
 kaikki - pan  
 kaiku - mirosonde  
+kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa - fosa  
 kakku (keksi) - keke  
 kaksi (2) - dul  
@@ -902,7 +903,7 @@ kruunu - koron
 kryptoni - kriton  
 ksenon - xenon  
 kuin (kuten, niin kuin) - ja  
-kuin - ka  
+kuin (verrattuna) - ko  
 kuisti (terassi, veranta) - berande  
 kuitata - resida  
 kuitenkin - lekin  
@@ -970,7 +971,7 @@ kyllä - si
 kylmä - lengi  
 kylpeä - banyu  
 kylpy - banye  
-kylpyhuone - banyokamar  
+kylpyhuone - banyekamar  
 kylä - ruste  
 kymmenen (10) - des  
 kynsi - nahun  
@@ -1030,7 +1031,7 @@ laskea (tehdä laskutoimitus) - hisaba
 lasku (faktuura) - bil  
 laskuoppi (aritmetiikka) - hisabia  
 latinalaiset aakkoset - latini abace  
-lattia - kamarotal  
+lattia - kamartal  
 Latvia - latwia  
 lauantai - war 6 (war sis)  
 laulaa - canta  
@@ -1052,6 +1053,7 @@ leipuri - beker
 leipä - pang  
 leiri - kampe  
 lekseemi - leksem  
+lempi (romanssi, rakkaus) - romansia  
 lentoasema (lentokenttä) - airporte  
 lentokone - viman  
 lentokonekaappari - vimankaper  
@@ -1070,8 +1072,8 @@ Liechtenstein - lixtenxtain
 liha - manse  
 lihas - muskul  
 lihavoitu kirjain - grosi harfe  
-liian vähän - min ka bas  
-liikaa - max ka bas  
+liian vähän - min ko bas  
+liikaa - max ko bas  
 liike - kine  
 liike - mote  
 liikemies - bizneser  
@@ -1185,6 +1187,7 @@ makeinen (karkki, karamelli) - kande
 makkara - sosis  
 maksaa (olla hintana) - kosta  
 maksaa - peya  
+maksimi (enimmäismäärä) - maxime  
 maksu - pey  
 maku - guste  
 makuuhuone - sonkamar  
@@ -1273,8 +1276,8 @@ mikä? (mitä?) - ki xey
 miljardi (giga-) - gigo-  
 miljoona - megi  
 millainen? - ki yangi  
-milli- - milo-  
-millimetri - milometre  
+milli- - mili-  
+millimetri - milimetre  
 milloin? (koska?) - ki sate  
 minimalismi - minimalistia  
 ministeri - minister  
@@ -1285,7 +1288,7 @@ minä - me
 missä? - sa ke  
 mitali - medal  
 mitata - meta  
-miten? - ki yang?  
+miten? - ko?  
 mitta (koko, määrä) - mete  
 Moldova - moldowia  
 molemminpuolinen (keskinäinen) - unali  
@@ -1302,7 +1305,7 @@ monimerkityksinen - polomeni
 monismi - monistia  
 monitahokas - polofas  
 monoteismi (yksijumalisuus) - monodewistia  
-montako? (paljonko?) - ki nume  
+montako? (paljonko?) - ko multo  
 Montenegro - cernogoria  
 moottori - moter  
 moottoripyörä - motosikle  
@@ -1371,7 +1374,7 @@ nappi (näppäin, kytkin) - buton
 nappi - boton  
 nationalisti - nasiste  
 natrium - natre  
-natriumglutamaatti - micin  
+natriumglutamaatti - vijin  
 natsi - naciste  
 natsismi - nacistia  
 nauha (side) - bende  
@@ -1656,6 +1659,7 @@ piste (täplä) - punte
 pistooli - pistol  
 Pitcairn - pitkerne  
 pitkä - long  
+pitkästynyt - bori  
 pitsa (pizza) - pize  
 pitseria - pizeria  
 pituus - longia  
@@ -1953,7 +1957,7 @@ selvä (selkeä) - klar
 sementti - semente  
 Senegal - senegalia  
 sentti - centi  
-seppä - metalojanger  
+seppä - metaljanger  
 Serbia - serbia  
 seura - socia  
 seuraava - badi  
@@ -2297,6 +2301,7 @@ tykki (pyssy) - kanon
 tykkimies - kanoner  
 tykkääminen - filia  
 tykätä (pitää) - fila  
+tylsyys (pitkästys) - boria  
 tynnyri (tölkki) - tong  
 typerys (idiootti) - idiote  
 typpi - nitre  
@@ -2338,6 +2343,7 @@ ulostaa (kakata) - kaka
 uloste (kakka) - kake  
 ulvoa - ulula  
 ulvonta - ulul  
+umami (ruokaisanmakuinen) - umami  
 Unkari - madiaria  
 unohtaa - memula  
 upea (hieno) - kul  

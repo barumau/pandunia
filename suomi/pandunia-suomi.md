@@ -161,7 +161,7 @@ banke - pankki
 banker - pankkiiri  
 banse - bambu  
 banye - kylpy  
-banyokamar - kylpyhuone  
+banyekamar - kylpyhuone  
 banyu - kylpeä  
 banze - lauta (lankku)  
 banzogem - lautapeli  
@@ -258,6 +258,8 @@ bombe - pommi
 bon - hyvä  
 bon rupi - hyvännäköinen  
 bon zar - hyvä onni (tuuri, säkä, lykky)  
+bori - pitkästynyt  
+boria - tylsyys (pitkästys)  
 borium - bohrium  
 boron - boori  
 bosnia - Bosnia ja Hertsegovina  
@@ -983,7 +985,6 @@ jus - mehu
 juxa - ruiskuttaa  
 juxe - ruiske (injektio)  
 ##k
-ka - kuin  
 kababe - kebab (varrasliha)  
 kabaw - vesipuhveli  
 kabin - koppi (maja)  
@@ -1002,11 +1003,11 @@ kalifornium - kalifornium
 kalium - kalium  
 kalkulia - kalkyyli  
 kalsium - kalsium  
-kam - himo (halu)  
 kamar - huone  
-kamarotal - lattia  
+kamartal - lattia  
 kambudia - Kambodja  
 kamerunia - Kamerun  
+kamia - himo (halu)  
 kamis - paita  
 kamote - bataatti  
 kampe - leiri  
@@ -1081,11 +1082,9 @@ kex - hius (karva, tukka, hiukset)
 kexobende - hiuspanta  
 kexosabun - šampoo  
 ki - mikä? (kumpi?)  
-ki nume - montako? (paljonko?)  
 ki ren - kuka?  
 ki sate - milloin? (koska?)  
 ki xey - mikä? (mitä?)  
-ki yang? - miten?  
 ki yangi - millainen?  
 kil - tuhat  
 kilogram - kilogramma  
@@ -1120,6 +1119,9 @@ klon - klooni (identtinen kopio)
 klona - kloonata (monistaa)  
 klor - kloori  
 klube - kerho (klubi)  
+ko - kuin (verrattuna)  
+ko multo - montako? (paljonko?)  
+ko? - miten?  
 kobalte - kobaltti  
 koda - koodata  
 kode - koodi  
@@ -1414,9 +1416,10 @@ maturi fem - nainen
 maturi man - mies  
 maw - kissa  
 max - enemmän  
-max ka bas - liikaa  
+max ko bas - liikaa  
 maxi - lisä-  
 maxim - eniten  
+maxime - maksimi (enimmäismäärä)  
 maximi - enimmäis-  
 maxin - kone  
 maxor - enemmistö-  
@@ -1433,8 +1436,8 @@ media - media
 medika - hoitaa (lääkitä)  
 mediker - lääkäri (tohtori)  
 medikia - lääketiede  
+medileti den - juhannus (keskikesä, mittumaari)  
 medita - pohtia (meditoida)  
-medoleti den - juhannus (keskikesä, mittumaari)  
 megam - pilvi  
 megi - miljoona  
 mego- - mega-  
@@ -1469,7 +1472,7 @@ mesta - taitaa (olla mestari jskn)
 mester - mestari (asiantuntija)  
 meta - mitata  
 metal - metalli  
-metalojanger - seppä  
+metaljanger - seppä  
 mete - mitta (koko, määrä)  
 metode - keino (menetelmä, metodi)  
 metre - metri  
@@ -1478,7 +1481,6 @@ mey - joka (jokainen)
 meze - pöytä  
 mi - minun  
 mianmia - Myanmar (Burma)  
-micin - natriumglutamaatti  
 mien - nuudeli  
 migan - mandariini  
 migra - muuttaa (siirtää)  
@@ -1486,11 +1488,11 @@ migre - muutto (migraatio)
 migru - muuttaa (siirtyä)  
 mikro- - mikro-  
 mikronesia - Mikronesia  
+mili- - milli-  
+milimetre - millimetri  
 milke - maito  
-milo- - milli-  
-milometre - millimetri  
 min - vähemmän  
-min ka bas - liian vähän  
+min ko bas - liian vähän  
 minar - torni  
 ming - kirkas (selkeä)  
 minga - kirkastaa (valaista)  
@@ -1669,6 +1671,7 @@ norgia - Norja
 norme - normi  
 normi - normaali  
 nos - nenä  
+nostalgia - kaipuu (ikävä, nostalgia)  
 nota - huomata (hoksata)  
 note - huomio (kommentti, merkintä)  
 notis - huomautus  
@@ -2012,6 +2015,7 @@ roler - näyttelijä
 romania - Romania  
 romansa - rakastaa romanttisesti  
 romansi - romanttinen  
+romansia - lempi (romanssi, rakkaus)  
 rome - Rooma  
 romi empiria - Rooman valtakunta  
 rong - itämainen lohikäärme  
@@ -2370,6 +2374,7 @@ ukrainia - Ukraina
 ula - perua  
 ulul - ulvonta  
 ulula - ulvoa  
+umami - umami (ruokaisanmakuinen)  
 umur - ikä  
 un - yksi  
 un ban - kerran  
@@ -2414,6 +2419,7 @@ vidomaidan - näkökenttä
 vidu - näkyä  
 vieti - vietnamilainen  
 vietia - Vietnam  
+vijin - natriumglutamaatti  
 viman - lentokone  
 vimankaper - lentokonekaappari  
 vin - viini  

@@ -64,7 +64,9 @@
 |carte|karte|deu:Karte. rus:карта (karta). fra:carte. ita:por:carta. ara:(xarīṭa). tur:harita. fas:(xarite). som:khariiddo.|
 |centre|jung|zho:中 (zhōng). yue:中 (zung). kor:중 (jung). jpn:中 (chuu-).|
 |chapitre|babe|ind:bab. ara:urd:fas:(bāb).|
+|chat|maw|zho:猫 (māo). yue:貓 (maau). vie:mèo. swa:nyau.|
 |chemise|kamis|spa:por:camisa. ara:(qamīṣ). hin:क़मीज़ (kāmīz). ind:kemeja.|
+|chimie|kimia|ara:(kīmiyāʾ). may:kimia. swa:kemia. tur:kimya. fra:chimie. spa:por:química. rus:химия (himiya).|
 |chose|xey|ara:(šayʾ). tur:şey. + zho:事 (shì). yue:事 (si6).|
 |ciel|saman|ara:(samāʾ). amh:ሰማይ (sämay). orm:samii. hau:sama. yor:sánmà. hin:आसमान (āsmān). fas:pnb:urd:(āsmān).|
 |cime (pic, sommet)|pike|eng:peak. rus:пик (pik). fra:pic. spa:por:pico. que:pikchu.|
@@ -124,6 +126,7 @@
 |justice|adalia|ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). fas:urd:('adālat).|
 |jus|jus|eng:juice. swa:jusi. tam:ஜூஸ் (jūs). jpn:ジュース (jūsu). kor:주스 (juseu).|
 |laitue|letis|eng:lettuce. jpn:レタス (retasu). hau:latas. hin:लेटिष (leṭiṣ). ben:লেটুস (leṭus). fra:laitue.|
+|lait|milke|eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).|
 |langue|bax|hin:भाषा (bhāṣā). urd:(bhāṣā). ben:ভাষা (bhaṣa). pnb:ਭਾਸ਼ਾ (bhāshā). tel:భాష (bhāṣa). tam:பாசை (pāsai). tha:ภาษา (phasa). ind:bahasa. jav:basa.|
 |lapin (lièvre)|tuze|zho:兔子 (tùzi). yue:兔仔 (tou3zai2).|
 |lasagne|lazanye|fra:lasagne. eng:lasagna. spa:lasaña. por:lasanha. rus:лазанья (lazanya). ara:(lazanyā). jpn:ラザニア (razania). kor:라자냐 (lajanya). hin:लज़ैन्या (lazenyā).|
@@ -141,12 +144,15 @@
 |marché (bazar)|bazar|fas:urd: بازار (bāzār). hin:बाज़ार (bāzār). fra:spa:por:bazar. eng:bazaar. rus:базар (bazar). ind: pasar. khm:ផ្សារ (psar).|
 |masque|maske|eng:mask. fra:masque. spa:por:máscara. rus:маска (maska). hin:मास्क (māsk). jpn:マスク (masuku). kor:마스크 (maseukeu). ind:masker. Tur:maske.|
 |match|mece|eng:fra:match. hin:मैच (mɛc). swa:meci. Pol:mecz. rus:матч (matč). tur:maç.|
+|maximum|maxime|eng:fra:maximum. por:spa:máximo. rus:максимум (maksimum). may:maksimum.|
+|maître|mester|por:mestre. fra:maître. pol:mistrz. eng:master. rus:мастер (master). spa:maestro. deu:Meister.|
 |medio|medi|spa:medio. eng:medium. hin:माद्धयम (mādhyam).|
 |merde|xite|eng:shit. zho:屎 (shǐ). yue:屎 (si2).|
 |mer|samude|khm:សមុទ្រ (saʾmot). tha:สมุทร (samut). hin:समुद्र (samudra). urd:(samandar). ind:samudra. ben:সমুদ্র (sômudr). guj:સમુદ્ર (samudra). tel:సముద్రము (samudramu). mya:သမုဒ္ဒရာ (samuddara).|
 |message|anjil|ell:ἀγγελία (angelía). ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). rus:евангелие (evangeliye). fra:évangile. por:evangelho.|
 |miel|mel|por:mel. fra:spa:miel. ell:μέλι (méli).|
 |migration|migre|fra:eng:migration. spa:migración. por:migração. rus:миграция (migratsiya).|
+|mois|mes|por:mês. spa:mez. rus:месяц (mesyats). ben:মাস (mas). swa:mwezi.|
 |monde|dunia|ind:swa:dunia. ara:(dunyā). hindi:दुनिया (duniyā). urd:(duniyā). hau:duniya. fas:(donya).|
 |mouche|zeze|tsw:sot:tsetse. lin:kon:nzinzi. swa:nzi. ber:izi. sna:nhunzi. ibo:ijiji. yor:eṣinṣin.|
 |mur|wal|eng:wall. rus:вал (val). por:valo.|
@@ -157,6 +163,7 @@
 |noir|cerni|rus:чёрный (čornyy). pol:czarny.|
 |noit|noce|spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.|
 |non (ne...pas)|no|eng:spa:no. fra:non. por:não. ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).|
+|nostalgie|nostalgia|eng:por:spa:nostalgia. fra:nostalgie. deu:Nostalgie. rus:ностальгия (nostalʹgiya). jpn:ノスタルジー (nosutarujī). fas:(nostâlži).|
 |note|note|deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:노트 (noteu). fas:(not).|
 |nouveau|novi|rus:новый (novyy). por:novo. spa:nuevo. hin:नव (nav). eng:novel. fra:nouveau.|
 |nuage|megam|hin:मेघ (megh). ben:মেঘ (megh). tam:மேகம் (mēgam). tel:మేఘము (mēghamu). ind:mega. tha:เมฆ (mek).|
@@ -189,6 +196,7 @@
 |pièce (chambre)|kamar|ind:kamar. por:câmara. hin:कमरा. (kamrā). deu:Kammer. rus:камера (kamera).|
 |placard|almar|hin:अलमारी (almārī). ben:আলমারি (almari). ind:lemari. spa:armario. por:armário.|
 |pluie|barxe|hin:बारिश (bāriś),वर्षा (varṣā). urd:(bāriś). mar:वर्षा (varṣā). guj:વરસાદ (varsād). tel:వర్షము (varṣamu). fas:(bārān). jav:warsa.|
+|plus|max|spa:mas. por:mais. eng: max-.|
 |pomme|aple|eng:apple. deu:Apfel. ind:apel. ben:আেপল (apôl). zul:ihhabhula.|
 |porte|porte|eng:port. fra:porte. spa:por:porto. rus:порт (port). hin:पोर्ट (porṭ). urd:(porṭ). ben:পোর্ট (porṭ). tha:พอร์ต (phot).|
 |pouvoir (être capable)|abla|eng:able. spa:hábil. fra:habile. ron:abil.|

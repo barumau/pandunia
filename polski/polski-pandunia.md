@@ -501,7 +501,7 @@ gitara - gitar
 glin (aluminium) - alumin  
 globalny (światowy) - panduni  
 globalny - duni  
-glutaminian sodu - micin  
+glutaminian sodu - vijin  
 gluten - gluten  
 gniew, furia - furia  
 godzina - hor  
@@ -609,7 +609,7 @@ idea, pomysł - idey
 idiota - idiote  
 idiotyzm (głupota) - idiotia  
 igła, szpilka - pin  
-ile? - ki nume  
+ile? - ko multo  
 ilustrator, grafik - grafer  
 imbir - zinje  
 imię, nazwa - nam  
@@ -654,7 +654,7 @@ jadalnia - niamkamar
 jagoda - bere  
 jajko (jajo) - ande  
 jak (zwierzę) - yake  
-jak, niż, od - ka  
+jak, niż, od - ko  
 jak? - ki xey  
 jakikolwiek, którykolwiek - eni  
 jakiś - koy  
@@ -737,7 +737,7 @@ każdy, wszyscy - mey
 kebab - kababe  
 keczup - kecape  
 Kenia - kenia  
-kiedy? - ki yang?  
+kiedy? - ko?  
 kierunek - dixe  
 kieszeń - jebe  
 kiełbasa - sosis  
@@ -823,7 +823,7 @@ koszt, cena - koste
 kosztować - kosta  
 koszula - kamis  
 kot - maw  
-kowal - metalojanger  
+kowal - metaljanger  
 koza - buze  
 koło - cakre  
 koło, okrąg - cirke  
@@ -1047,8 +1047,8 @@ mikro- - mikro-
 Mikronezja - mikronesia  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
-mili- - milo-  
-milimetr - milometre  
+mili- - mili-  
+milimetr - milimetre  
 milion - megi  
 militarny, wojskowy, wojenny - jengi  
 minerał, ruda - kuang  
@@ -1069,6 +1069,7 @@ miękki - komal
 mięso - manse  
 miłośnik (fan, -fil) - filer  
 miłość (afekt) - am  
+miłość romantyczna - romansia  
 miły, przyjemny, uroczy - kuxi  
 Mjanma, Birma - mianmia  
 mleko - milke  
@@ -1465,7 +1466,7 @@ podstawa, baza, fundament - baze
 poduszka - kusen  
 podwójny (dwójkowy) - duli  
 podążać - bada  
-podłoga - kamarotal  
+podłoga - kamartal  
 poeta - xirer  
 pogoda - tenke  
 pogrubiona litera - grosi harfe  
@@ -1549,7 +1550,7 @@ południe - sude
 Południowa Afryka - sudafrikia  
 połączenie, złącze, styk - samun  
 pośladki, pupa, tyłek, zadek - bum  
-pożądanie, żadza - kam  
+pożądanie, żadza - kamia  
 praca, zjęcie, zadanie - werke  
 pracować - werka  
 pracownik - werker  
@@ -2382,8 +2383,8 @@ zbiornik (pojemnik, rezerwuar) - tanke
 zbiornik, cysterna - tanke  
 zbiorowy, zbiorczy - jami  
 zbudować, budować, konstruować - bina  
-zbyt - max ka bas  
-zbyt mało - min ka bas  
+zbyt - max ko bas  
+zbyt mało - min ko bas  
 zdanie, zwrot, wyrażenie - fraze  
 zdjęcie, fotografia - fotograf  
 zdrada małżeńska, cudzołóstwo - zine  
@@ -2449,7 +2450,7 @@ zły, zrujnowany, zepsuty - harabi
 Łotwa - latwia  
 łatwy, prosty - izi  
 ławka - bence  
-łazienka - banyokamar  
+łazienka - banyekamar  
 łańcuch - silsil  
 łyżka - camce  
 łódź, statek - bote  

@@ -118,7 +118,7 @@
 |demokratio|demokratia|eng:democracy. rus:демократия (demokratiya). spa:democracia. fra: por: deu: ara:(dīmukratiya). swa:demokrasia.|
 |devi|bixu|zho:必须 (bìxū).|
 |devus|xudu|eng:should.|
-|deziro|kam|hin:काम (kām). tha:กาม (gaam). eng:kama.|
+|deziro|kamia|hin:काम (kām). tha:กาม (gaam). eng:kama.|
 |diablo (Satano)|xatan|ara:(šayṭān). hin:शैतान (śaitān). tur:şeytan. fas:(šaytān). swa:Shetani. eng:fra:deu:vie:Satan. spa:Satán. por:Satã. rus:Сатана (Satana). zho:撒但 (Sādàn). tha:ซาตาน (satan). kor:사탄 (satan). jpn:サタン (satan). ind:Setan.|
 |diamanto|almas|swa:almasi. rus:алмаз (almaz). tkm:almaz. ara:(ʾalmāsa). fas:(almâs). tur:elmas.|
 |dio|dew|por:deus. ind:dewa. hin:देवता (devtā). kan:(dēva).|
@@ -143,6 +143,7 @@
 |emo (inklino, tendenco)|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |emocio|gam|yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).|
 |eno|inde|eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.|
+|enui|bori|eng:bored. hin:(bhorī).|
 |eraro (miso)|galte|ara:(ğalṭa). hin:ग़लती (ġaltī). urd:(ġalatī). fas:(ğalat). tur:galat.|
 |ero|parce|fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|
 |esti|esa|spa:es. fas:(ast). por:estar. rus:есть (yest').|
@@ -259,13 +260,12 @@
 |karto|karde|eng:card. jpn: カード (kādo). swa: kadi. zho:卡 (kǎ). deu:Karte. ind:kartu. fra:carte.|
 |karvio|karawe|ara:(karāwiya). eng:caraway. fra:carvi. spa:alcaravea. por:alcaravia.|
 |kastoro|kastor|fra:por:spa:castor. tgl:tur:kastor.|
-|kato|maw|zho: 猫 (māo). yue: 貓 (maau). vie: mèo.|
+|kato|maw|zho:猫 (māo). yue:貓 (maau). vie:mèo. swa:nyau.|
 |kaverno|guhe|ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.|
 |kaŝtano|kastan|spa:castaňa. ara:(kastanāʾ). tur:kestane. rus:каштан (kaštan).|
 |kaŭĉuko|gom|spa:tgl:goma. fra:gomme. jpn:ゴム (gomu). kor:고무 (gomu). deu:Gummi.|
 |keĉupo|kecape|yue:茄汁 (kezap). eng:ketchup. hin:केचप (kecap). rus:кетчуп (ketčup). jpn:ケチャップ (kechappu). tgl:ketsap.|
 |kialo|sabe|heb:(sibá). hau:sabo;sababi. kon:sambu. ara:urd:(sabab). tur:sebep. ind:sebab. swa:sababu.|
-|kiel (ol)|ka|ibo:kà. ara:(ka-). swa:kama.|
 |kio?|ke|spa:qué. por:fra:que. + ben:কে  (ke).|
 |kiso|cum|hin:चूमना (cūmnā). urd:(cūmnā). mal:ചുംബനം (cumbanaṃ). ind:cium. jpn:チュー (chū). tha:จูบ (cup).|
 |kiu (rilativa pronomo)|je|hin:जो (jo). urd:(jo).|
@@ -408,6 +408,7 @@
 |nokto|noce|spa:noche. por:noite. rus:ночь (nočʹ). pol:noc.|
 |nombro|nume|deu:Nummer. eng:number. tur:numara. fra:numéro.|
 |nomo|nam|hin:नाम (nām). fas:pnb:urd:(nām). tha:นาม (naam). ind:nama. deu:eng:name. jpn:名前 (namae). fra:nom.|
+|nostalgio (saudado)|nostalgia|eng:por:spa:nostalgia. fra:nostalgie. deu:Nostalgie. rus:ностальгия (nostalʹgiya). jpn:ノスタルジー (nosutarujī). fas:(nostâlži).|
 |noto (rimarko, komento)|note|deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:노트 (noteu). fas:(not).|
 |nova|novi|rus:новый (novyy). por:novo. spa:nuevo. hin:नव (nav). eng:novel. fra:nouveau.|
 |novaĵoj|habar|ara:(xabar). tur:haber. ind:kabar. swa:habari. hin:ख़बर (xabar). ben:খবর (khôbôr). yor:làbarè.|
@@ -472,7 +473,7 @@
 |planto|fite|eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).|
 |plena|ful|eng:full. deu:voll.|
 |plenaĝa|adulte|eng:adult. fra:adulte. por:spa:adulto.|
-|pli|max|spa: mas. por: mais. eng: max-.|
+|pli|max|spa:mas. por:mais. eng: max-.|
 |plori|kuga|zho:哭 (kū). yue:哭 (huk1). vie:khóc.|
 |plumo|kalam|ara:fas:urd:(qalam). hau:alƙalami. yor:swa:kalamu. tur:kalem. hin:क़लम (qalam). ben:কলম (kôlôm). spa:por:cálamo.|
 |plumo|per|hin:पर (par). fas:urd:(par). kur:perr. rus:перо (pero).|
@@ -691,6 +692,7 @@
 |ĝelo|jel|eng:gel. fra:gelée. rus:желе (žele). tur:jel. hin:जेल (jel). kor:젤 (jel). zho:啫哩 (zhělī).|
 |ĝirafo|jiraf|ara:(zarāfa). Eng:fra:giraffe. por:girafa. spa:jirafa. rus:жираф (žiraf).ind:jerapah. tur:zürafa. kor:지라프 (jirapeu). hin: जिराफ़ (jirāf). ben:জরৈফ (jôrôph).|
 |ĝusta (prava)|sahi|hin:सही (sahī). urd:(sahī). fas:(sahih). ara:(ṣaḥīḥ). swa:sahihi.|
+|ĥemio (kemio)|kimia|ara:(kīmiyāʾ). may:kimia. swa:kemia. tur:kimya. fra:chimie. spa:por:química. rus:химия (himiya).|
 |ĵeti (lanĉi)|lanca|eng:launch. ita:lanciare. por:lançar. fra:lancer. spa:lanzar. deu:lancieren.|
 |ĵetkubo|dade|spa:por:tgl:dado. ind:swa:dadu.|
 |ŝafo|meh|kur:mî,mîh. hin:मेष (meṣ). fas:(miš). tha:เมษ (met). + lin:kon:meme. + (onom.) jpn:メーメー (mē mē). por:meh. ara:(maa'). tur:mee.|

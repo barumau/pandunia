@@ -53,7 +53,7 @@ bandir - флаг
 banke - банк  
 banse - бамбук  
 banye - купание  
-banyokamar - ванная  
+banyekamar - ванная  
 banyu - купаться  
 banze - доска  
 bari - тяжёлый  
@@ -166,6 +166,7 @@ karte - карта
 kartografia - картография  
 katan - меч  
 ke - что  
+kimia - химия  
 kirmi - красный  
 kitaba - писать  
 kitabe - письмо  
@@ -173,6 +174,8 @@ kitabia - библиотека
 kitabomaxin - пишущая машинка  
 klime - климат  
 klimomute - изменение климата  
+ko - чем  
+ko? - как  
 komputer - компьютер  
 koncung - насекомое  
 kor - хор  
@@ -211,17 +214,22 @@ marmar - мрамор
 masal - пряность  
 maske - маска  
 maste - мачта  
+maw - кошка  
+maxime - максимум  
 me - я  
 mece - матч  
 medi - средний  
 megam - облако  
 mem - память  
 mema - помнить  
-memonote - "меморандум  
+memnote - "меморандум  
 memula - забывать  
+mes - месяц  
+mester - мастер  
 meze - стол  
 migre - миграция  
 migru - переезжать  
+milke - молоко  
 moluske - моллюск  
 mome - мы  
 ##n
@@ -234,6 +242,7 @@ nili - azul
 nixe - ниша  
 no - нет (не)  
 noce - ночь  
+nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 novi - новый  
 o - или  

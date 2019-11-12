@@ -32,7 +32,7 @@
 |baobab|buy|swa:mbuyu. wol:buy. sna:muuyu. zul:isimuhu.|
 |bar, knajpa|bireria|eng:bar. hin:बार (bār). spa:bar. zho:酒吧 (jiǔbā). rus:бар (bar).|
 |barbarzyńca|barbar|deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).|
-|bardziej|max|spa: mas. por: mais. eng: max-.|
+|bardziej|max|spa:mas. por:mais. eng: max-.|
 |bariera|baryer|eng:barrier. fra:barrière. por:barreira. spa:barrera. rus:барьер (baryer).|
 |bark (ramię)|kante|hin:कंधा (kandhā). urd:(kandhā). ben:কাঁধ (kandhô). + jpn:肩 (kata). + ara:(kataf). + min:肩頭 (keng-thâu).|
 |basen|basen|eng:basin. fra:bassin. rus:бассейн (basseyn). por:bacia.|
@@ -73,6 +73,7 @@
 |cecha, właściwość, parametr|sife|ara:(ṣifa). tur:sıfat. fas:(sefat). urd:(sifat). swa:sifa.|
 |cel|gol|por:spa:gol. eng:goal. jpn:ゴール (gōru). kor:골 (gol). hin:गोल (gola). tel:గోలు (gōlu). rus:гол (gol).|
 |cement|semente|eng:cement. ind:semen. spa:cemento. tur:çimento. vie:xi măng. hin:सीमेंट (siment). rus:цемент (tsement). ara:(ʾasmant). kor:시멘트 (simenteu).|
+|chemia|kimia|ara:(kīmiyāʾ). may:kimia. swa:kemia. tur:kimya. fra:chimie. spa:por:química. rus:химия (himiya).|
 |chleb|pang|tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.|
 |chmura|megam|hin:मेघ (megh). ben:মেঘ (megh). tam:மேகம் (mēgam). tel:మేఘము (mēghamu). ind:mega. tha:เมฆ (mek).|
 |choroba|patia|deu:eng:fra:patho-. spa:por:pol:tur:ind:pato-. rus:пато- (pato-).|
@@ -167,6 +168,7 @@
 |gejowski (homoseksualny)|gey|eng:fra:spa:gay. por:guei.|
 |genderqueer, niebinarny|bis|bug:bissu.|
 |gitara|gitar|eng:guitar. fra:guitare. spa:por:guitarra. rus:гитара (gitara). ara:(qīṯāra). hin:गिटार (giṭār). ben:গিটার (giṭar). zho:吉他 (jítā). jpn:ギター (gitā). kor:기타 (gita). swa:gitaa.|
+|glutaminian sodu|vijin|zho:味精 (wèijīng). yue:味精 (mei6 zing1). vie:mì chính. may:vetsin,micin. tgl:bitsin.|
 |gniew, furia|furia|eng:fury. spa:pol:furia. por:fúria.|
 |godzina|hor|fra:heure. eng:hour. spa:por:hora.|
 |gorączka|febre|por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.|
@@ -219,7 +221,6 @@
 |jagoda|bere|deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).|
 |jajko (jajo)|ande|hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).|
 |jak (zwierzę)|yake|eng:deu:fra:spa:tur:yak. por:iaque. hin:याक (yāk).|
-|jak, niż, od|ka|ibo:kà. ara:(ka-). swa:kama.|
 |jakiś|koy|hin:कोई (koī). urd:(koī). rus:кое- (koye-).|
 |jaskinia|guhe|ben:গুহা (guha). tha:คูหา (gūhā). tel:గుహ (tguha). hin:गुफ़ा (gufā). ind:gua.|
 |jasny, czysty|ming|zho:wuu:明 (míng). yue:明 (ming4). vie:minh. kor:명 (myeong).|
@@ -277,7 +278,7 @@
 |korzeń|rize|ell:ρίζα (riza). eng:fra:rhizo-. por:spa:rizo-. rus:ризо- (rizo-).|
 |kosmos, wszechświat|kosmia|rus:космос (kosmos). eng:fra:spa:cosmos.|
 |koszula|kamis|spa:por:camisa. ara:(qamīṣ). hin:क़मीज़ (kāmīz). ind:kemeja.|
-|kot|maw|zho: 猫 (māo). yue: 貓 (maau). vie: mèo.|
+|kot|maw|zho:猫 (māo). yue:貓 (maau). vie:mèo. swa:nyau.|
 |koza|buze|swa:mbuzi. sna:mbudzi. zul:imbuzi. tsw:bodi. por:bode. taj:буз (buz). fas:(boz).|
 |koło|cakre|ben:চাকা (caka). hin:चक्र (cakra).|
 |koń|gude|ind:kuda. kan:ಕುದುರೆ (kudure). tam:குதிரை (kutirai). tel:గుర్రము (gurramu). hin:घोड़ा (ghoṛā). urd:(ghoṛā). ben:ঘোড়া (ghoṛa). pnb:ਘੋੜਾ (ghōṛā).|
@@ -369,6 +370,7 @@
 |mięso|manse|hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.|
 |miłośnik (fan, -fil)|filer|eng:fra:-phile. por:spa:-filo.|
 |miłość (afekt)|am|fra:amour. spa:por:amor.|
+|miłość romantyczna|romansia|fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).|
 |miły, przyjemny, uroczy|kuxi|ben:খুশি (khuśi). hin:ख़ुश (xuś). eng:cushy.|
 |mleko|milke|eng:milk. deu:Milch. jpn:ミルク  (miruku). kor:밀크 (milkeu). lin:míliki. rus:молоко (moloko).|
 |mniejszościowy|minor|eng: minor.|
@@ -545,7 +547,7 @@
 |połknąć (połykać)|gula|ben:গেলা (gela). por:engolir. rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir.|
 |południe|sude|spa:sur. por:sul. fra:sud.|
 |pośladki, pupa, tyłek, zadek|bum|eng:bum. por:bumbum.|
-|pożądanie, żadza|kam|hin:काम (kām). tha:กาม (gaam). eng:kama.|
+|pożądanie, żadza|kamia|hin:काम (kām). tha:กาม (gaam). eng:kama.|
 |praktyka, aktualność|prate|eng:practice. fra:pratique. por:prática. tur:pratik. pol:praktyka. hin:प्रथा (prathā).|
 |prawa strona|raite|eng:right.|
 |prawdziwy (rzeczywisty, szczery)|veri|eng:very. ita:vero. rus:верный (verniy). spa:verdadero. por:verdadeiro. deu:wahr. fra:vrai.|

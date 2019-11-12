@@ -153,6 +153,7 @@ autumn (fall) - oton
 avocado - awakate  
 awake - weki  
 aware (enlightened) - budi  
+awe (wonder) - ajabia  
 axe (hatchet) - futaw  
 axis (axle) - akse  
 Azerbaijan - azeria  
@@ -204,7 +205,7 @@ basket ball - baskobol
 batch (lot) - lote  
 bath - banye  
 bathe - banyu  
-bathroom - banyokamar  
+bathroom - banyekamar  
 battery - batre  
 be - esa  
 be about (discuss as a subject) - tema  
@@ -264,7 +265,7 @@ birthday - jenoden
 biscuit (cookie) - biskute  
 bismuth - bismute  
 black - cerni  
-blacksmith (iron forger) - metalojanger  
+blacksmith (iron forger) - metaljanger  
 bleed - lowa sang  
 blog (web log) - bloge  
 blood - sang  
@@ -288,6 +289,8 @@ bonaty (phytology) - fitolojia
 bone - oste  
 book - buke  
 border (edge, rim, fringe) - kenar  
+bored - bori  
+boredom - boria  
 boron - boron  
 Bosnia and Herzegovina - bosnia  
 bother - mafana  
@@ -508,7 +511,6 @@ communism - komunistia
 communist - komuniste  
 Comoros - komori nesia  
 company (corporation) - kompania  
-compared to (as, than) - ka  
 compatriot - samodexi  
 compete (have a match) - meca  
 compute (to process data) - komputa  
@@ -630,7 +632,6 @@ Denmark - dania
 dentist - dantomediker  
 descriptive - sifi  
 desert - registan  
-desire (lust) - kam  
 desk - werkemeze  
 despise (scorn) - paraya  
 destination (destiny, fate) - destin  
@@ -849,7 +850,7 @@ fix (attach) - fiksa
 flag (banner) - bandir  
 flat - ping  
 flatbread (chapati, roti) - capate  
-floor - kamarotal  
+floor - kamartal  
 flow - liwu  
 flower - pul  
 fluorine - flur  
@@ -1081,8 +1082,8 @@ horn - korne
 horse - gude  
 hotel - hotel  
 hour - hor  
-how many? - ki nume  
-how? - ki yang?  
+how many? - ko multo  
+how? - ko?  
 however - lekin  
 howl - ulula  
 howling - ulul  
@@ -1416,6 +1417,7 @@ mature (ripe, adult) - matur
 Mauritania - muritania  
 Mauritius - morisia  
 maximal - maximi  
+maximum - maxime  
 May - mes 5 (mes lim)  
 Maya - mayan  
 Mayotte - mayotia  
@@ -1437,7 +1439,7 @@ meitnerium - maitnerium
 melodious (melodic) - melodi  
 melody - melodia  
 member (component) - member  
-memorandum (memo) - memonote  
+memorandum (memo) - memnote  
 memory (recollection) - mem  
 mental (psychic) - ruhi  
 Mercury - budan  
@@ -1452,14 +1454,14 @@ micro- - mikro-
 Micronesia - mikronesia  
 middle (center) - jung  
 middle (the part in between) - mede  
-Midsummer Day - medoleti den  
+Midsummer Day - medileti den  
 migration (moving) - migre  
 military (martial, warlike) - jengi  
 milk (draw milk) - tira milke  
 milk - milke  
 miller - moler  
-milli- - milo-  
-millimeter - milometre  
+milli- - mili-  
+millimeter - milimetre  
 million - megi  
 mineral (ore) - kuang  
 mineral water - kuang suy  
@@ -1520,7 +1522,7 @@ move (migrate, relocate) - migra
 move (transfer, change place) - kina  
 movement - kine  
 Mozambique - mozambikia  
-MSG (monosodium glutamate) - micin  
+MSG (monosodium glutamate) - vijin  
 mud (mire) - pote  
 muddy - poti  
 multicultural - multekulturi  
@@ -1603,6 +1605,8 @@ Northern Mariana Islands - marian da nesia
 Norway - norgia  
 Norwegian - norgi  
 nose - nos  
+nostalgia (longing) - nostalgia  
+nostalgic - nostalgi  
 not (no) - no  
 note (observation, remark, comment) - note  
 note (observe, notice) - nota  
@@ -2026,6 +2030,7 @@ role - rol
 roll (scroll, coil) - rul  
 roll (wrap in) - rula  
 Roman Empire - romi empiria  
+romance (romantic love) - romansia  
 Romania - romania  
 romantic - romansi  
 Rome - rome  
@@ -2083,6 +2088,7 @@ sauna - saune
 sausage - sosis  
 save (deposit, bank) - banka  
 save - sekura  
+savory (umami) - umami  
 scales (weighing device) - barometer  
 scandium - skandium  
 scarf (shawl) - xal  
@@ -2124,6 +2130,7 @@ seven (7) - sem
 sew - suta  
 sex (sexual intercourse) - sekse  
 sexual (relating to gender) - seksi  
+sexual desire (lust) - kamia  
 sexy (sexual) - seksi  
 Seychelles - sexel da nesia  
 shadow - saye  
@@ -2376,6 +2383,7 @@ test (try, attempt) - teste
 Thai - tayi  
 Thailand - tayia  
 thallium - talium  
+than (as, compared to) - ko  
 thank - danka  
 thanks (thank you) - danke  
 that (those) - wi  
@@ -2425,8 +2433,8 @@ tolerate - tolera
 tomato - tomate  
 tomorrow - badi den  
 tone (note, pitch, shade) - ton  
-too little - min ka bas  
-too much - max ka bas  
+too little - min ko bas  
+too much - max ko bas  
 tool - tul  
 tooth - dante  
 tooth brush - dantobrox  

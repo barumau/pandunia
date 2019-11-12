@@ -60,7 +60,7 @@ bandir - 旗
 banke - 银行  
 banse - 竹子  
 banye - 洗澡  
-banyokamar - 浴室  
+banyekamar - 浴室  
 banyu - 游泳  
 banze - 板子  
 bari - 重型的  
@@ -172,11 +172,14 @@ kartografia - 地图学
 kata - 切  
 ke - 什么  
 keci - 客气  
+kimia - 化学  
 kirmi - 红  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
 klimomute - 气候变化  
+ko - 比  
+ko? - 怎么  
 komputer - 计算机  
 koncung - 昆虫  
 kosmi - 宇宙的  
@@ -214,6 +217,8 @@ masal - 香料
 maste - 桅  
 maturi fem - 女人  
 maturi man - 男人  
+maw - 猫  
+maxim - 最  
 maye - 蚂蚁  
 me - 我  
 mece - 比赛  
@@ -223,7 +228,8 @@ mem - 记忆 (记性)
 mema - 记得 (回忆)  
 memula - 忘记  
 mene - 意义  
-metalojanger - 铁匠  
+metaljanger - 铁匠  
+mey - 每  
 meze - 桌子  
 migra - 搬家  
 moke - 木材  
@@ -237,6 +243,7 @@ nili - أَزْرَق
 nixe - 壁龛  
 no - 不  
 noce - 夜  
+nostalgia - 怀旧  
 note - 便条  
 novi - 新  
 o - 或  
@@ -335,6 +342,7 @@ toca - 接触
 tomate - 西红柿  
 tote - 你们  
 ##u
+umami - 鲜味  
 umur - 年岁  
 ura - 好哇  
 ##v
@@ -344,6 +352,7 @@ veje - 蔬菜
 vejeniamiste - 素食主义者  
 vente - 问题 (难题)  
 vida - 看  
+vijin - 味精  
 vulve - 外阴 (陰门)  
 ##w
 wal - 墙  

@@ -76,7 +76,7 @@
 |emätin (vagina)|vagin|eng:fra:vagina. por:spa:vagina. rus:вагина (vagina). jpn:ワギナ (wagina). kor:바기나 (bagina). tur:vajina. may:vagina.|
 |enemmistö-|maxor|fra: majeur. eng: major. spa: mayor.|
 |enemmistö|maxoria|spa: mayoría.|
-|enemmän|max|spa: mas. por: mais. eng: max-.|
+|enemmän|max|spa:mas. por:mais. eng: max-.|
 |epäilys|dute|fra:doute. eng:doubt. spa:tgl:duda.|
 |epäonnistuminen|xibay|zho:失败 (shībài). jpn:失敗 (shippai). kor:실패 (šilpæ). vie:thất bại.|
 |erikoinen (erityinen)|hasi|ara:(xāṣṣ). fas:urd:(xās). ind:ख़ास (xās). ind:khas.|
@@ -119,7 +119,7 @@
 |hiiri|mux|pol:mysz. rus:мышь (myś). fas:(muš).|
 |hiiva|hamir|ara:(xamīra). hin:ख़मीर (xamīr). tur:hamur. fas:(moxammer). + kor:효모 (hyomo).|
 |hiljainen (hys, shhh)|xix|eng:shh. zho: (xū). rus:ш-ш-ш. tur:sus.|
-|himo (halu)|kam|hin:काम (kām). tha:กาม (gaam). eng:kama.|
+|himo (halu)|kamia|hin:काम (kām). tha:กาม (gaam). eng:kama.|
 |hius (karva, tukka, hiukset)|kex|jpn:毛 (ke). hin:केश (keś). urd:(keś). pnb:ਕੇਸ਼ (keś). tel:(kēśamu). kan:(kēśa).|
 |hmm|hem|eng:hmm. rus:хм (hm), эм (em). kor:음 (eum).|
 |hockey (jääkiekko)|hoke|eng:fra:spa:hockey. por:hóquei. rus:хоккей (hokkey).  jpn:ホッケー (hokkē). hin:हाकी (hākī). ben:হকি (hôki). ara:(hūkī).|
@@ -210,6 +210,7 @@
 |kahista|xaxu|zho:(shasha).|
 |kahvi|kafe|deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue:咖啡 (gaa3 fe1). eng:coffee. hin:काफ़ी (kāfī). ben:কফি (kôphi). tur:kahve. tgl:kape. tha:กาแฟ (kafæ).|
 |kaide (reelinki)|langan|zho:栏杆 (lángān). jpn:欄干 (rankan). kor:난간 (nan-gan).|
+|kaipuu (ikävä, nostalgia)|nostalgia|eng:por:spa:nostalgia. fra:nostalgie. deu:Nostalgie. rus:ностальгия (nostalʹgiya). jpn:ノスタルジー (nosutarujī). fas:(nostâlži).|
 |kakku (keksi)|keke|swa:keki. jpn:ケーキ (kēki). eng:cake. ara:(kaʿka). tur:kek. hin:केक (kek). deu:Keks. rus:кекс (keks).|
 |kaksi (2)|dul|kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.|
 |kala|fix|eng:fish. deu:Fisch.|
@@ -241,6 +242,7 @@
 |keho (ruumis)|badan|ara:(badan). hin:बदन (badan). fas:urd:(badan). tur:beden. eng:body.|
 |keidas|wase|ara:(wāḥa). tur:vaha. fas:(vāhe). spa:oasis.|
 |keitto (soppa)|supe|spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп (sup). ind:sup. jpn:スープ (sūpu).|
+|kemia|kimia|ara:(kīmiyāʾ). may:kimia. swa:kemia. tur:kimya. fra:chimie. spa:por:química. rus:химия (himiya).|
 |kenkä|sapate|spa:zapato. por:sapato. ind:sepatu. swa:sapatu.|
 |kerma|krem|fra:crème. por:creme. spa:crema. eng:cream. jpn:クリーム (kurīmu).|
 |kerros|ceng|zho:层 (céng). yue:層 (cang4). kor:층 (chŭng). vie:tầng.|
@@ -273,7 +275,7 @@
 |kirkas (selkeä)|ming|zho:wuu:明 (míng). yue:明 (ming4). vie:minh. kor:명 (myeong).|
 |kirkko|eglis|fas:(kelisā). tur:kilise. ind:gereja. por:igreja. hin:गिरजा (girjā). ara:(kanisā). fra:église.|
 |kirves|futaw|tgl:puthaw. zho:斧头 (fǔtóu). yue:斧頭 (futau). nan:斧頭 (pú-thâu).|
-|kissa|maw|zho: 猫 (māo). yue: 貓 (maau). vie: mèo.|
+|kissa|maw|zho:猫 (māo). yue:貓 (maau). vie:mèo. swa:nyau.|
 |kitara|gitar|eng:guitar. fra:guitare. spa:por:guitarra. rus:гитара (gitara). ara:(qīṯāra). hin:गिटार (giṭār). ben:গিটার (giṭar). zho:吉他 (jítā). jpn:ギター (gitā). kor:기타 (gita). swa:gitaa.|
 |kivennäinen (mineraali)|kuang|zho:矿 (kuàng). vie:khoáng. kor:광 (guang).|
 |kivi (murikka)|petre|hin:पत्थर (patthar). urd:(patthar). ita:pietra. por:pedra. spa:piedra.|
@@ -296,7 +298,6 @@
 |koskea (koskettaa)|toca|eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 (chù).|
 |kriisi (käännekohta)|krize|eng:crisis. fra:por:crise. deu:Krise. rus:кризис (krizis). spa:crisis.|
 |kruunu|koron|fra:couronne. eng:crown. spa:corona. jpn:クラウン (kuraun). rus:корона (korona). por:coroa.|
-|kuin|ka|ibo:kà. ara:(ka-). swa:kama.|
 |kuisti (terassi, veranta)|berande|hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).|
 |kuitenkin|lekin|ara: لكن (lākin). hin:लेकिन (lekin). swa:lakini.|
 |kuitti (kuittaus)|reside|fas:(resid). hin:रसीद (rasīd). urd:(rasīd). guj:રસીદ (rasīd). tel:రసీదు (rasīdu). + eng:receipt. swa:resiti. mal:resit.|
@@ -365,6 +366,7 @@
 |leijona|sing|ind:singa. hin:सिंघ (singh). ben:সিংহ (singh). tam:சிங்கம் (sinkam). tha:สิง (sing). zho:狮 (shī). jpn:獅子 (shishi). + swa:simba.|
 |leipoa|beka|eng:bake. hin:पकाना (pakānā). rus:печь (peč). deu:backen.|
 |leipä|pang|tha:ปัง (pang). kor:빵 (ppang). khm:នំប៉័ង (numpang). jpn:パン (pan). por:pão. spa:pan. fra:pain.|
+|lempi (romanssi, rakkaus)|romansia|fra:eng:spa:por:romance. tur:romans. jpn:ロマンス (romansu). kor:로맨스 (romaenseu). rus:роман (roman).|
 |lepo|xuxe|zho:休息 (xiūxí). kor:휴식 (hyusig).|
 |leveä|kuan|zho:宽 (kuān). tha:กว้าง (kwang). vie:quảng.|
 |levä|alge|deu:Alge. fra:algue. tur:alg. fas:(âlg). eng:spa:por:pol:alga.|
@@ -413,6 +415,7 @@
 |majava|kastor|fra:por:spa:castor. tgl:tur:kastor.|
 |makeinen (karkki, karamelli)|kande|eng:candy. hin:कैंडी (kaiṇḍī). jpn:キャンデー (ja) (kyandē). tgl:kendi.|
 |makkara|sosis|fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.|
+|maksimi (enimmäismäärä)|maxime|eng:fra:maximum. por:spa:máximo. rus:максимум (maksimum). may:maksimum.|
 |maksu|pey|eng:pay. fra:paye. + zho:费 (fèi).|
 |mandariini|migan|jpn:蜜柑 (mikan). zho:蜜柑 (mìgān).|
 |mango|mange|ind:mangga. por:manga. eng:mango.|
@@ -467,6 +470,7 @@
 |naimisissa|mari|eng:married. fra:marié. spa:por:marido.|
 |nappi (näppäin, kytkin)|buton|eng:button. hin:बटन (baṭan). ben:বোতাম (botam). jpn:ボタン (botan). kor:버튼 (beoteun).|
 |nappi|boton|eng:button. spa:botón. por:botão. fra:bouton. jpn:ボタン (botan). tgl:butones. hin:बटन (baṭan). urd:(baṭan). ben;বোতাম (botam).|
+|natriumglutamaatti|vijin|zho:味精 (wèijīng). yue:味精 (mei6 zing1). vie:mì chính. may:vetsin,micin. tgl:bitsin.|
 |natsi|naciste|rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.|
 |nauha (side)|bende|ita:benda. swa:bendeji. spa:venda. fra:bande. eng:band. deu:Binde. rus:bul:kaz:kyr:бинт (bint). uzb:bint. hin:बाँधना (bāndhnā).|
 |naula (piikki)|ding|zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|
@@ -579,6 +583,7 @@
 |pippuri|pimente|spa:pimienta. tgl:pamenta.|
 |pisara (tippa)|yote|tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).|
 |piste (täplä)|punte|spa:punto. rus:пункт (punkt). eng:point.|
+|pitkästynyt|bori|eng:bored. hin:(bhorī).|
 |pitkä|long|eng:fra:long. deu:lang. Por:longo.|
 |pitsa (pizza)|pize|ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
 |pitäisi|xudu|eng:should.|
@@ -839,6 +844,7 @@
 |ulkomaalainen|way dexi|hin:(videśī). tel:(vidēśi). zho:外国的 (wàiguóde).|
 |ulkopuoli|waye|zho:外 (wài).|
 |uloste (kakka)|kake|spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).|
+|umami (ruokaisanmakuinen)|umami|jpn:旨味 (umami). kor:우마미 (umami). eng:fra:por:spa:may:umami. rus:умами (umami).|
 |upea (hieno)|kul|eng:deu:fra:cool. jpn:クール (kūru). zho:酷 (kù).|
 |urheilu|kel|hin:खेल (khel). ben:খেলা (khela). tha:กีฬา (kīlā). khm:កីឡា (keila).|
 |usein|cang|zho:常 (cáng).|
