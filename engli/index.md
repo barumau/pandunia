@@ -22,6 +22,7 @@ Some remarkable features of Pandunia:
 ## Learning material
 
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
+- [The basics](baze.md) in one short page
 - [Spelling](abc.md)
 - [Phrasebook](fraze.md)
 - [Lessons with Dialogs](darse.md)
