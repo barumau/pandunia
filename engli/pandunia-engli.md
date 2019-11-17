@@ -615,6 +615,7 @@ fina - finish (put an end to)
 finge - finger (toe)  
 fingowen - finger ring  
 fini - last (final)  
+fiorde - fjord  
 firuze - turquoise gem  
 fite - plant (vegetation)  
 fitolojia - bonaty (phytology)  
@@ -763,7 +764,7 @@ gurube - pig
 gurubomanse - pork  
 gusta - taste (sense flavor)  
 guste - taste (flavor)  
-gustu ka - taste like  
+gustu ko - taste like  
 gute - knee  
 guy - ogre (troll, goblin)  
 ##h

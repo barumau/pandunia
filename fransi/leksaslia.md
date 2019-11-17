@@ -100,6 +100,7 @@
 |faute (erreur)|galte|ara:(ğalṭa). hin:ग़लती (ġaltī). urd:(ġalatī). fas:(ğalat). tur:galat.|
 |feu|pir|eng:fra:pyro-. por:spa:piro-. rus:пиро- (piro-).|
 |fils ou fille|pute|tha:บุตร (but). hin:पूत (pūt), पुत्र (putra). ben:পুত্র (putr). Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar). may:putera. tel:పుత్రుడు (putruḍu).|
+|fiord|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |fleur|pul|hin:फूल (phul). ben:ফুল (phul).|
 |forer (percer)|fora |fra:forer. por:furar. eng:perforate. spa:perforar.|
 |fourmi|maye|zho:蚂蚁 (mǎyǐ). yue:螞蟻 (maa5 ngai5).|

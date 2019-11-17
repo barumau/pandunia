@@ -461,6 +461,7 @@ fina - fini
 finge - fingro  
 fingowen - ringo  
 fini - lasta  
+fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
 fitolojia - plantscienco (botaniko)  
@@ -570,7 +571,7 @@ gurube - porko
 gurubomanse - porkaĵo  
 gusta - gustumi  
 guste - gusto  
-gustu ka - gusti kiel  
+gustu ko - gusti kiel  
 gute - genuo  
 guy - ogro (trolo)  
 ##h

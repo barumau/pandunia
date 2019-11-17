@@ -400,6 +400,7 @@ fizikisto - fiziker
 fiziko - fizike  
 fiziko - fizikia  
 fiŝo - fix  
+fjordo - fiorde  
 flago - bandir  
 flava - limonangi  
 floro - pul  
@@ -486,7 +487,7 @@ grimaco - grimas
 grupo - grupe  
 Gujano - gayania  
 guruo (instruisto) - gur  
-gusti kiel - gustu ka  
+gusti kiel - gustu ko  
 gusto - guste  
 gustumi - gusta  
 Gvatemalo - guatemalia  

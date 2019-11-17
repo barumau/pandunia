@@ -453,6 +453,7 @@ filozofia - filosofia
 filozoficzny - filosofi  
 filtr - filter  
 Finlandia - suomia  
+fiord - fiorde  
 firma, kompania, korporacja - kompania  
 fizyk - fizikia  
 fizyka - fizike  
@@ -1851,7 +1852,7 @@ skóra - pil
 skłonić do (spowodować zrobienie) - isa  
 smacznego - salam niam  
 smak - guste  
-smakować jak - gustu ka  
+smakować jak - gustu ko  
 smakować, próbować smaku - gusta  
 smutny - duki  
 sobota - war 6 (war sis)  

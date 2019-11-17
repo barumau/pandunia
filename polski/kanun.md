@@ -135,12 +135,12 @@ Modyfikatory mogą być porównane.
 - **maxim** (najbardziej) oznacza stopień najwyższy
 - **min** (mniej) oznacz porónanie niższości
 - **minim** (najmniej) oznacza stopień najniższy
-- **sem** (jak) oznacza porównanie równości
+- **sam** (jak) oznacza porównanie równości
 
-Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
+Partykuła **ko** łączy przysłówki porównania z obiektem porównania.
 
-> **me si max bon ka te.** - Jestem lepszy od ciebie.
-> **te loga sem bon ka me.** - Mówisz tak dobrze, jak ja.
+> **me si max bon ko te.** - Jestem lepszy od ciebie.
+> **te loga sam bon ko me.** - Mówisz tak dobrze, jak ja.
 
 
 #### 3.6. Końcówki modyfikatorów
@@ -159,28 +159,28 @@ Czasem wiadomo z kontekstu, o ilu obiektach mowa. Na przykład, słowo **sol** (
 Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej. Są umieszczane przed słowem lub wyrażeniem, które opisują.
 
 > **un xing** - jedna gwiazda
-> **do xing** - dwie gwiazdy
-> **sam xing** - trzy gwiazdy
+> **dul xing** - dwie gwiazdy
+> **tin xing** - trzy gwiazdy
 > **xaw xing** - trochę gwiazd
 > **poli xing** - kilka gwiazd (dwie lub więcej)
 > **multi xing** - wiele gwiazd
 
 > **un day meze** - jeden duży stół
-> **do day kurse** - dwa duże krzesła
-> **sam bon kurse** - trzy dobre krzesła
+> **dul day kurse** - dwa duże krzesła
+> **tin bon kurse** - trzy dobre krzesła
 
 Liczbeniki porządkowe pojawiają się po słowach, które opisują.
 
 > **fen un** - pierwsza cząść
-> **fen do** - druga część
-> **fen sam** - trzecia część
+> **fen dul** - druga część
+> **fen tin** - trzecia część
 
 Podstawowe liczebniki to:
 
 - 0 **nul**
 - 1 **un**
-- 2 **do**
-- 3 **sam**
+- 2 **dul**
+- 3 **tin**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
@@ -192,14 +192,14 @@ Większe liczby są tworzone przez wstawianie kolejnych cyfr - dokładnie tak, j
 
 - 10 **un nul** lub **des**
 - 11 **un un**
-- 12 **un do**
-- 13 **un sam**
-- 20 **do nul**
-- 21 **do un**
-- 22 **do do**
+- 12 **un dul**
+- 13 **un tin**
+- 20 **dul nul**
+- 21 **dul un**
+- 22 **dul dul**
 - 100 **un nul nul** lub **hon**
 - 101 **un nul un** lub **hon un**
-- 200 **do nul nul** lub **do hon**
+- 200 **dul nul nul** lub **dul hon**
 
 
 Liczby większe od 999 mogą używać wielokrotności z Międzynarodwego Systemu Jednostek Miar. Na przykład kilo oznacza wielokrotność tysiąca.
@@ -737,7 +737,7 @@ W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w j�
 > **me kata pang.** - Kroję chleb.
 > **me kata pang, uza caku.** - Kroję chleb, używam noża. (Kroję chleb nożem.)
 
-> **me denga dura do hor.** - Czekam, (to) trwa dwie godziny. (Czekam przez dwie godziny.)
+> **me denga dura dul hor.** - Czekam, (to) trwa dwie godziny. (Czekam przez dwie godziny.)
 
 Oto kilka czasowników, których można użyć jak przyimków:
 
@@ -762,18 +762,18 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 ### 10.2. Przyimek relacji
 
-Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
+Przyimek **ko** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-> **me jana pandunia ka guru.** - Znam Pandunię jak mistrz.
+> **me jana pandunia ko guru.** - Znam Pandunię jak mistrz.
 
-**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
+**ko** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **jana** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
-**ka** jest też używany, gdy porównywane są przymiotniki.
+**ko** jest też używany, gdy porównywane są przymiotniki.
 
-> **bace si min day ka pape.** - Dziecko jest mniejsze niż ojciec.
-> **law pape si sem day ka pape.** - Dziadek jest tak duży jak ojciec.
+> **bace si min day ko pape.** - Dziecko jest mniejsze niż ojciec.
+> **law pape si sam day ko pape.** - Dziadek jest tak duży jak ojciec.
 
-**ka** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sem** (tak samo) – z punktem odniesienia, którym jest **pape** (ojciec) w powyższych przykładach.
+**ko** wiąże przysłówki porównania – **max** (bardziej), **min** (mniej) i **sam** (tak samo) – z punktem odniesienia, którym jest **pape** (ojciec) w powyższych przykładach.
 
 
 
@@ -1008,7 +1008,7 @@ Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są w
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    me wida sam jowan ren.
+    me wida tin jowan ren.
 
        wida
       ┌─┴──┐
@@ -1016,7 +1016,7 @@ Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
            |
          jowan
            |
-          sam
+          tin
 
 Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
 

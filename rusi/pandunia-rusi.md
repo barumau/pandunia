@@ -107,6 +107,7 @@ dunia - мир (свет)
 esa - быть  
 ewanjil - евангелие  
 ##f
+fiorde - фьорд  
 firuze - бирюза  
 fitolojia - ботаника  
 fora  - сверлить (бурить)  

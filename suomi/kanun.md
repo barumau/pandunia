@@ -243,11 +243,11 @@ Sekä adjektiiveja että adverbeja voi verrata.
 - **minim** : vähiten
 - **sam** : yhtä
 
-Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
+Pikkusana **ko** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**me si max bon ka te.**
+**me si max bon ko te.**
 = Minä olen parempi kuin sinä.  
-**te loga sam bon ka me.**
+**te loga sam bon ko me.**
 = Sinä puhut yhtä hyvin kuin minä.
 
 
@@ -272,7 +272,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = yksi tähti  
 **dul xing**
 = kaksi tähteä  
-**sam xing**
+**tin xing**
 = kolme tähteä  
 **xaw xing**
 = vähän tähtiä  
@@ -293,7 +293,7 @@ Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan asiansanan per�
 = Ensimmäinen osa.
 **fen dul.**
 = Toinen osa.
-**fen sam.**
+**fen tin.**
 = Kolmas osa.
 
 Perusluvut ovat:
@@ -301,7 +301,7 @@ Perusluvut ovat:
 - 0 **nol**
 - 1 **un**
 - 2 **dul**
-- 3 **sam**
+- 3 **tin**
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
@@ -314,7 +314,7 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 - 10 **un nol** tai **des**
 - 11 **un un**
 - 12 **un dul**
-- 13 **un sam**
+- 13 **un tin**
 - 20 **dul nol**
 - 21 **dul un**
 - 22 **dul dul**
@@ -1041,21 +1041,21 @@ Panduniassa prepositioita käytetään vähemmän kuin suomessa ja englannissa. 
 
 ### 10.2. Vertailun prepositio
 
-Prepositio **ka** ilmaisee tapaa. Se vastaa suomen sanoja _kuin_ ja _kuten_.
+Prepositio **ko** ilmaisee tapaa. Se vastaa suomen sanoja _kuin_ ja _kuten_.
 
-**me jana pandunia ka gur.**
+**me jana pandunia ko gur.**
 = Minä osaan panduniaa kuin/kuten mestari.
 
-**ka** muodostaa vertailusuhteen verbin tai adjektiivin ja vertailtavan asian kesken. Edellisessä esimerkissä **jana** (osata) on verbi ja **gur** (mestari) on vertailukohta.
+**ko** muodostaa vertailusuhteen verbin tai adjektiivin ja vertailtavan asian kesken. Edellisessä esimerkissä **jana** (osata) on verbi ja **gur** (mestari) on vertailukohta.
 
-Sanaa **ka** käytetään myös adjektiivien vertailemisessa.
+Sanaa **ko** käytetään myös adjektiivien vertailemisessa.
 
-**bace si min day ka pape.**
+**bace si min day ko pape.**
 = Lapsi on pienempi kuin isä.  
-**law pape si sem day ka pape.**
+**law pape si sam day ko pape.**
 = Isoisä on yhtä iso kuin isä.
 
-**ka** suhteuttaa vertailevia adverbeja – **max** (enemmän), **min** (vähemmän) ja **sem** (yhtä) – vertailtavaan asiaan, joka oli ylläolevissa esimerkeissä **pape** (isä).
+**ko** suhteuttaa vertailevia adverbeja – **max** (enemmän), **min** (vähemmän) ja **sam** (yhtä) – vertailtavaan asiaan, joka oli ylläolevissa esimerkeissä **pape** (isä).
 
 -----
 
@@ -1075,7 +1075,7 @@ Kaikki lauseet voidaan esittää puumaisina kaavioina, joissa keskeisemmät sana
 
 Laatusanat ja lukusanat riippuvat pääsanastaan.
 
-    me vida sam jowan ren. = Minä näen kolme nuorta ihmistä.
+    me vida tin jowan ren. = Minä näen kolme nuorta ihmistä.
 
        vida
       ┌─┴──┐
@@ -1083,7 +1083,7 @@ Laatusanat ja lukusanat riippuvat pääsanastaan.
            |
          jowan
            |
-          sam
+          tin
 
 Sanaluokkien arvojärjestys panduniassa:
 

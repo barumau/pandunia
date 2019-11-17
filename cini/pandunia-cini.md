@@ -114,6 +114,7 @@ esa - 对
 ewanjil - 福音  
 ##f
 fem - 女  
+fiorde - 峡湾  
 firuze - 绿松石  
 fitolojia - 植物学  
 fora  - 钻孔  

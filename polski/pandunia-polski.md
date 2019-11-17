@@ -565,6 +565,7 @@ fina - skończyć, kończyć
 finge - palec  
 fingowen - pierścień, pierścionek; obrączka  
 fini - ostatni, końcowy  
+fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
 fitolojia - botanika  
@@ -701,7 +702,7 @@ gurube - świnia
 gurubomanse - wieprzowina  
 gusta - smakować, próbować smaku  
 guste - smak  
-gustu ka - smakować jak  
+gustu ko - smakować jak  
 gute - kolano  
 guy - ogr (trol, goblin)  
 ##h

@@ -160,6 +160,7 @@ europi - européen
 ewanjil - évangile  
 ##f
 fata - faire  
+fiorde - fiord  
 fitolojia - botanique  
 fora  - forer (percer)  
 fotografe - photo (photographie)  

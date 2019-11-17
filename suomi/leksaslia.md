@@ -926,6 +926,7 @@
 |vuodenaika|mosim|hin:urd:(mOsam). ind:musim. ara:(mawsim). tur:mevsim. swa:msimu.|
 |vuohi|buze|swa:mbuzi. sna:mbudzi. zul:imbuzi. tsw:bodi. por:bode. taj:буз (buz). fas:(boz).|
 |vuokra|kire|ara:(kirāʾ). tur:kira. hin:किराया (kirāyā). urd:(kirāyā). fas:(kerāya). spa:alquiler.|
+|vuono|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |vuori (mäki)|xan|zho: 山 (shān). kor: 산 (san). vie:sơn.|
 |vuosi|nen|jpn:年 (nen). zho:年 (nián). yue:年 (nin4). kor:년 (nyeon). vie:năm,niên.|
 |vuotaa|lowa|zho:漏 (lòu).|

@@ -1179,7 +1179,7 @@ mahdollinen (mahdollisesti, ehkä) - abli
 mahdollisuus (tilaisuus) - canse  
 maissi - mais  
 maistaa - gusta  
-maistua - gustu ka  
+maistua - gustu ko  
 maito - milke  
 majava - kastor  
 Makedonia - makedonia  
@@ -2530,6 +2530,7 @@ vuodenaika - mosim
 vuohi - buze  
 vuokra - kire  
 vuokrata - kirisa  
+vuono - fiorde  
 vuori (mäki) - xan  
 vuosi - nen  
 vuosijuhla - nenofeste  

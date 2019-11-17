@@ -604,6 +604,7 @@ fina - lopettaa
 finge - sormi tai varvas  
 fingowen - sormus  
 fini - viimeinen  
+fiorde - vuono  
 firuze - turkoosi  
 fite - kasvi  
 fitolojia - kasvitiede  
@@ -752,7 +753,7 @@ gurube - sika (possu)
 gurubomanse - sianliha  
 gusta - maistaa  
 guste - maku  
-gustu ka - maistua  
+gustu ko - maistua  
 gute - polvi  
 guy - peikko  
 ##h

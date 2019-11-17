@@ -326,6 +326,7 @@
 |fight (war, battle, combat)|jeng|zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).|
 |fire (burning)|pir|eng:fra:pyro-. por:spa:piro-. rus:пиро- (piro-).|
 |fish|fix|eng:fish. deu:Fisch.|
+|fjord|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |flag (banner)|bandir|eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|
 |flatbread (chapati, roti)|capate|hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).|
 |flat|ping|zho:平 (píng).|

@@ -158,6 +158,7 @@
 |fascynacja|fasin|eng:fascination. spa:fascinación. deu:Faszination.|
 |fałszywy, nieprawdziwy|falsi|eng:false. spa:por:falso. fra:faux. deu:falsch.|
 |filozofia|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
+|fiord|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |firma, kompania, korporacja|kompania|eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.|
 |flaga, sztandar|bandir|eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|
 |fontanna (studnia, źródło)|fonte|por:fonte. spa:fuente. rus:фонтан (fontan). fra:fontaine. eng:fountain. uzb:fontan. jpn:噴水 (funsui).|

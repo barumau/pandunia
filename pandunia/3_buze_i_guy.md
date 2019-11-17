@@ -4,7 +4,7 @@
 
 
 sa mar, zayu guy da domu sa nice da pulte da transa suy.
-guy tena mal rupe. le tena yen – day ka plate, e nos – day ka warkobrox.
+guy tena mal rupe. le tena yen – day ko plate, e nos – day ko warkobrox.
 
 sa koy den, guy auda lil sonde sa supre da pulte.
 «ki ren marca sa me du pulte?» kritu guy.

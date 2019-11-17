@@ -180,11 +180,11 @@ Modifovortoj povas esti komparataj.
 - **minim** (malplej) signifas komparo de malplejeco
 - **sam** (same) signifas komparo de sameco
 
-Partiklo **ka** rilatas komparvortoj al la fonto de komparo.
+Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
 
-**me si max bon ka te.**
+**me si max bon ko te.**
 – Mi estas pli bona ol vi.  
-**te loga sem bon ka me.**
+**te loga sem bon ko me.**
 – Vi parolas same bone kiel mi.
 
 #### 3.6. Finaĵo de modifovortoj

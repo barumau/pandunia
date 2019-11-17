@@ -166,6 +166,7 @@
 |filozofio|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
 |fino|fin|spa: fin. fra: fin. por: fim.|
 |fiŝo|fix|eng:fish. deu:Fisch.|
+|fjordo|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |flago|bandir|eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|
 |floro|pul|hin:फूल (phul). ben:ফুল (phul).|
 |fojo|ban|kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार (bār). urd:fas:(bār). ben:বার (bar).|

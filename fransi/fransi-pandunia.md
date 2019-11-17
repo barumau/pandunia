@@ -177,6 +177,7 @@ faire - fata
 faute (erreur) - galte  
 feu - pir  
 fils ou fille - pute  
+fiord - fiorde  
 fleur - pul  
 forer (percer) - fora   
 fourmi - maye  

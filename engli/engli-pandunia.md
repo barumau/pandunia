@@ -847,6 +847,7 @@ fish - fix
 fish tank - fixotanke  
 five (5) - lim  
 fix (attach) - fiksa  
+fjord - fiorde  
 flag (banner) - bandir  
 flat - ping  
 flatbread (chapati, roti) - capate  
@@ -2348,7 +2349,7 @@ Taoist - dawiste
 tape - tepe  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
-taste like - gustu ka  
+taste like - gustu ko  
 tattoo - tataw  
 tax (fee, fare) - takse  
 taxi - taksekar  

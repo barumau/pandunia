@@ -240,11 +240,11 @@ Modifiers can be compared.
 - **minim** (least) indicates the superlative of inferiority
 - **sam** (as) indicates the comparison of equality
 
-Particle **ka** relates the adverbs of comparison to the point of comparison.
+Particle **ko** relates the adverbs of comparison to the point of comparison.
 
-**me si max bon ka te.**
+**me si max bon ko te.**
 = I am better than you.  
-**te loga sam bono ka me.**
+**te loga sam bono ko me.**
 = You speak as well as me.
 
 
@@ -1030,21 +1030,21 @@ many phrases, the verb says enough alone.
 
 ### 10.2. Preposition of relation
 
-Preposition **ka** indicates manner or style. It corresponds to
+Preposition **ko** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
 
-**me jana pandunia ka gur.** - I know Pandunia like a master.
+**me jana pandunia ko gur.** - I know Pandunia like a master.
 
-**ka** relates the verb or the adjective to a point of comparison. In
+**ko** relates the verb or the adjective to a point of comparison. In
 the above example **jana** (know) is the verb and **gur** (master) is
 the point of comparison.
 
-**ka** is also used when adjectives are compared.
+**ko** is also used when adjectives are compared.
 
-**bace si min day ka pape.** - The child is smaller than the father.  
-**law pape si sam day ka pape.** - Grandfather is as big as father.
+**bace si min day ko pape.** - The child is smaller than the father.  
+**law pape si sam day ko pape.** - Grandfather is as big as father.
 
-**ka** relates the adverbs of comparison – **max** (more), **min**
+**ko** relates the adverbs of comparison – **max** (more), **min**
 (less) and **sam** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
 
