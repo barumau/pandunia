@@ -3,7 +3,7 @@
 ![](http://www.pandunia.info/pandunia/barudant/baru_01.png)
 
 un sube urse mame wana gowa pa bazar.
-le loga pa lil urse: "ni niama kande i keke sa dura da me sa bazar."
+le loga pa lil urse: "no niama kande i keke sa dura da me sa bazar."
 lil urse loga: "si, si, mame! me jana le. me day urse. plisa gowa way!"
 urse mame loga "salam" i le gowa way.
 
@@ -14,7 +14,7 @@ lil urse sa mon. le fikra: "zay me abla fata eni xey da me wanta!"
 ![](http://www.pandunia.info/pandunia/barudant/baru_03.png)
 
 lil urse gowa pa wax kamar.
-le fikra "me ni wana waxa dante zay."
+le fikra "me no wana waxa dante zay."
 lil urse si mal.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_04.png)
@@ -22,12 +22,12 @@ lil urse si mal.
 lil urse joga lil kar sa mey kamar.
 le vida keke sanduke sa meza.
 le fikra "me wana niama keke!" a le yada: "a! mame harama me niama keke."
-lil urse ni niama keke.
+lil urse no niama keke.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_05.png)
 
 lil urse vida kande botol sa almari. le fikra "me wana niama kande!"
-a le yada: "a! mame harama me niama kande." lil urse ni niama kande.
+a le yada: "a! mame harama me niama kande." lil urse no niama kande.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_06.png)
 
@@ -41,7 +41,7 @@ lil urse niama pan mel.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_08.png)
 
-bade, lil urse senta ni jana du sente sa boke. li dante tungi!
+bade, lil urse senta no jana du sente sa boke. li dante tungi!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_09.png)
 
@@ -61,22 +61,22 @@ dotor plisa lil urse sidu sa kurse i kaya boke.
 ![](http://www.pandunia.info/pandunia/barudant/baru_12.png)
 
 dotor juxa medike pa dante manse sa jin da mal dante.
-lil urse ni senta tung ca zay.
+lil urse no senta tung ca zay.
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_13.png)
 
 dotor tira dante sa pinser.
-a dante ni laya!
+a dante no laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_14.png)
 
 waf laya helpa dotor.
-dotor i waf tira dante, a dante ni laya!
+dotor i waf tira dante, a dante no laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_15.png)
 
 maw laya helpa dotor i waf.
-dotor i waf i maw tira dante, a dante ni laya!
+dotor i waf i maw tira dante, a dante no laya!
 
 ![](http://www.pandunia.info/pandunia/barudant/baru_16.png)
 

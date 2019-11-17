@@ -14,8 +14,8 @@ le loga day fain, e kontina:
 
 «nun me kapa te!» logu guy.
 
-«ni, ni!», logu lil buze.
-«ni kapa me, sabu me si lil lil. mon denga lil, e jung buze wil marca, le si max day».
+«no, no!», logu lil buze.
+«no kapa me, sabu me si lil lil. mon denga lil, e jung buze wil marca, le si max day».
 «okey», logu guy.
 
 <p style="font-size:6em;text-align:center;">👺</p>
@@ -23,11 +23,11 @@ le loga day fain, e kontina:
 bada lil zaman, sonde audu sa supre da pulte.
 «ki ren marca sa me du pulte?», kritu guy.
 «o! si me, jung buze. me kina pa grasistan da me wil nyama pa me si feti», jung buze loga.
-le fuli ni loga fain.
+le fuli no loga fain.
 
 «nun me kapa te!» logu guy.
 
-«ni, ni! ni kapa me» logu jung buze.
+«no, no! no kapa me» logu jung buze.
 «denga lil, e day buze wil marca, le si day day».
 «okey» logu guy.
 
@@ -44,8 +44,8 @@ me tena dul day jengopetre, sa lole me wil parca te du oste.»
 
 e bada ye, day buze haraba guy du yen, e parca guy du oste, e lanca guy pa suy.
 bada ye, le marca pa grasistan.
-sa grasistan, pan buze fatu feti. lole karbi ni tena energe pa fuga pa dom.
-e gar lole ni kina ze hay, lole hay si feti.
+sa grasistan, pan buze fatu feti. lole karbi no tena energe pa fuga pa dom.
+e gar lole no kina ze hay, lole hay si feti.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>
 
