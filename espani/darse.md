@@ -165,9 +165,9 @@ Pidiendo
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **plisa niama kafe u cay.**
+☺: **plisa tena kafe u cay.**
 = Por favor tiene algo de café o té.  
-☻: **me niama cay. danke.**
+☻: **me tena cay. danke.**
 = Tengo té, gracias.  
 ...  
 ☺: **plisa salama ti mame!**
@@ -229,7 +229,7 @@ utilizado para hacer peticiones corteses.
 = Por favor me da un poco de café.  
 **plisa dona cay.**
 = Por favor me da un poco de té.  
-**plisa niama cay.**
+**plisa tena cay.**
 = Por favor tiene algo de té.  
 **plisa safa kamar.**
 = Por favor limpie la habitación.  
@@ -287,7 +287,7 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska te niama kafe u cay?**
+☻: **salam! eska te wana niama kafe u cay?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **cay.**
 = Té.  
@@ -297,13 +297,13 @@ Preguntas de Sí o No
 = Yo no hablo Pandunia...  
 ☻: **pardon! eska le niama cay?**
 = ¡Perdón! ¿Él toma té?  
-☺: **ni. le ni niama cay. le niama kafe.**
+☺: **ni. le ni niama cay. le wana niama kafe.**
 = No, él desea tomar café.  
-☻: **eska te niama supe?**
+☻: **eska te wana niama supe?**
 = ¿Quieren tomar sopa?  
 ☺: **si, niama.**
 = Sí.  
-☻: **eska le niama supe?**
+☻: **eska le wana niama supe?**
 = ¿Él quiere tomar sopa?  
 ☺: **ni niama.**
 = No.  
@@ -341,7 +341,7 @@ Las preguntas de sí o no se responden con **si** = sí, y **ni** = no.
 – **si.**
 = Sí.  
 – **eska le niama supe?**
-= ¿Comes ella sopa?  
+= ¿Come ella sopa?  
 – **ni.**
 
 También se puede dar una respuesta mas larga.
@@ -457,7 +457,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 **kupe** copa, vaso, taza.
 **hali** vacio.
-**ada** tener, poseer.
+**tena** tener, poseer.
 **maw** gato.
 **waf** perro.
 **dul** dos.
@@ -697,7 +697,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = empezar, comenzar.
 **wida**
 = ver, mirar.
-**wanta**
+**wana**
 = querer, necesitar.
 
 ### Respuestas
