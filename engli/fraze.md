@@ -606,7 +606,7 @@ I don't understand at all.
 
 ### abla <small>can</small>
 
-**me abla gida kar.**
+**me abla xofa kar.**
 I can drive a car.
 
 **le no abla gida kar.**
@@ -675,7 +675,7 @@ What kind of music do you listen to?
 **suku vida te.**
 Pleased to see you!
 
-**vida te repi!**
+**vida te repo!**
 See you again!
 
 **vida te badi den!**
@@ -761,7 +761,7 @@ Let's go by foot!
 **plisa laya!**
 Come here!
 
-**te laya ya ke?**
+**te laya ca ke?**
 Where do you come from?
 
 **me laya ya dubay.**

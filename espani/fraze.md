@@ -164,7 +164,7 @@ dotor** (Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
 Estoy bien.  
 **eska te?**
 ¿Y tú?  
-**me ni bon.**
+**me no bon.**
 No estoy bien.
 
 <small>Etimología. **eska**
@@ -201,12 +201,12 @@ La manzana es una fruta.
 "shì", shanghainés: 是 "sí".</small>
 
 
-### ni <small>no</small>
+### no <small>no</small>
 
-**me ni sarah.**
+**me no sarah.**
 No soy Sara.
 
-**me ni dotor.**
+**me no dotor.**
 No soy doctor/a.
 
 **eska te bon?**
@@ -216,16 +216,16 @@ Sí, estoy bien.
 
 **eska te bon?**
 ¿Estás bien?  
-**ni. me ni bon.**
+**no. me no bon.**
 No, no estoy bien.
 
 Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
 va a negar.
 
-**le ni salama me.**
+**le no salama me.**
 Él/ella no me saluda.
 
-<small>Etimología. **ni**
+<small>Etimología. **no**
 is from ucraniano: ні (ni), afrikáans: nie, polaco: nie, español: ni, francés: ni.</small>
 
 
@@ -280,38 +280,38 @@ che, bengalí: কী "ki".</small>
 
 ### ce <small>esto, eso, aquello</small>
 
-**ce ke? / ke ce?**
+**ye ke? / ke ye?**
 ¿Qué es esto?
 
-**ce aple.**
+**ye aple.**
 Esta es una manzana.
 
-**ce ros aple.**
+**ye ros aple.**
 Esa es una manzana roja.
 
-**ci aple ros.**
+**yi aple ros.**
 Esta manzana es roja.
 
 Nota: Cuando un adjetivo, como **ros**, se pone antes de un sustantivo, trabaja
 como modificador. Cuando se pone después de un sustantivo, trabaja como un
 verbo adjetival.
 
-**ce ros.**
+**ye ros.**
 Es rojo.
 
 
 ### du <small>(partícula posesiva)</small>
 
-**ce ke?**
+**ye ke?**
 ¿Qué es esto?
 
-**ce me du fon.**
+**ye me du fon.**
 Es mi teléfono.
 
-**ce ke du?**
+**ye ke du?**
 ¿De quién es esto?
 
-**ce me du.**
+**ye me du.**
 Es mío.
 
 Nota: La partícula posesiva **du** se pone entre el poseedor y la cosa poseída.
@@ -357,7 +357,7 @@ Name, inglés: name.</small>
 **me tena bon dom.**
 Tengo una buena casa.
 
-**le ni tena pese.**
+**le no tena pese.**
 Él/ella no tiene dinero.
 
 **me wana tena nowi fon.**
@@ -423,7 +423,7 @@ Ayuda: El significado de **niama** cubre tanto comer y beber. Puede parecer
 raro al inicio, pero pronto verás que es bastante útil. Normalmente el
 objeto del verbo dice si se trata de comer, beber o ambos.
 
-**me niama kafe i pang.**
+**me niama kafe e pang.**
 Estoy tomando café y pan.
 
 
@@ -443,12 +443,12 @@ Quiero beber café.
 
 **eska te wana niama cay?**
 ¿Te gustaría beber té? 
-**ni. me ni wana cay. me wana kafe.**
+**no. me no wana cay. me wana kafe.**
 No, no quiero té. Quiero café.
 
 **te wana ki aple?**
 ¿Qué manzana quieres?  
-**ci ros.**
+**yi ros.**
 Esa roja.
 
 
@@ -530,7 +530,7 @@ Estoy hambriento. (Literalmente: _Necesito comer._)
 
 ### pardon <small>lo siento, perdón</small>
 
-**pardon! me ni aha.**
+**pardon! me no aha.**
 Lo siento, no entiendo.
 
 **pardon! ce ke?**
@@ -548,10 +548,10 @@ Perdóname, ¿cómo te llamas?
 **me aha.**
 Entiendo.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Lo siento. No te entiendo.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 No te entiendo muy bien.
 
 **me aha nol.**
@@ -563,7 +563,7 @@ No entiendo nada.
 **me abla xofa kar.**
 Puedo conducir un auto.
 
-**le ni abla xofa kar.**
+**le no abla xofa kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
@@ -579,10 +579,10 @@ Puedo hablar pandunia.
 **me abla lil pandunia.**
 Puedo hablar un poco de pandunia.
 
-**me ni abla engli.**
+**me no abla engli.**
 No puedo hablar inglés.
 
-**pardon. me ni abla te du bax.**
+**pardon. me no abla te du bax.**
 Lo siento. No puedo hablar tu idioma.
 
 
@@ -609,7 +609,7 @@ El gato dice miau.
 
 ### auda <small>escuchar, oír</small>
 
-**me ni abla auda te.**
+**me no abla auda te.**
 No puedo oírte.
 
 **plisa loga forti.**
@@ -622,18 +622,18 @@ Escucho música.
 ¿Qué clase de música escuchas?
 
 
-### wida <small>ver</small>
+### vida <small>ver</small>
 
-**suku wida te.**
+**suku vida te.**
 Encantado de verte.
 
-**wida te repi!**
+**vida te repo!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**wida te badi den!**
+**vida te badi den!**
 ¡Te veo mañana!
 
-**me wida le predi den.**
+**me vida le predi den.**
 Lo/a vi a él/ella ayer.
 
 
@@ -648,7 +648,7 @@ Lo/a vi a él/ella ayer.
 **le mena yang da hewan.**
 Significa una clase de animal.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 No entiendo qué significa.
 
 
@@ -713,7 +713,7 @@ Vamos caminando.
 **plisa laya!**
 ¡Ven aquí! ¡Vengan aquí!
 
-**te laya ya ke?**
+**te laya ca ke?**
 ¿De dónde vienes?
 
 **me laya ya dubay.**
@@ -740,7 +740,7 @@ El viaje es muy largo.
 **hotel sa ke?**
 ¿Dónde está el hotel?
 
-**hotel sa ci daw.**
+**hotel sa wi daw.**
 El hotel está por ese camino.
 
 **te sa ke?**
@@ -799,13 +799,13 @@ Por favor da dinero.
 **plisa dona le pa me.**
 Por favor dame eso.
 
-**me dona ce pa te.**
+**me dona ye pa te.**
 Te doy esto.
 
 **me dona buke pa lole.**
 Le doy un libro a ellos/as.
 
-**le ni wana dona le pa me.**
+**le no wana dona le pa me.**
 Él/ella no quiere darme eso.
 
 
@@ -829,6 +829,6 @@ Voy a tomar una cerveza.
 **me wana kirokapa un kar.**
 Quiero rentar un auto.
 
-**ye kirodona kamar to safarer.**
+**le kirodona kamar pa safarer.**
 Él/ella vende habitaciones a los viajeros.
 

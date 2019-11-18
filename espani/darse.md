@@ -52,7 +52,7 @@ Intenta traducir estas frases de Español a Pandunia.
 **te** tú, usted. **ti** tu.  
 **le** él, ella, ello. **li** su.  
 **ke** quién? qué?  
-**si** sí. **ni** no.  
+**si** sí. **no** no.  
 **bon** bueno. **doste** amigo, amiga. **nam** nombre.
 **fem** mujer. **man** hombre.  
 **maw** gato. **hewan** animal.
@@ -165,10 +165,10 @@ Pidiendo
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **plisa tena kafe u cay.**
-= Por favor tiene algo de café o té.  
-☻: **me tena cay. danke.**
-= Tengo té, gracias.  
+☺: **plisa niama kafe o cay.**
+= Por favor beba algo de café o té.  
+☻: **me wana cay. danke.**
+= Quiero té, gracias.  
 ...  
 ☺: **plisa salama ti mame!**
 = Por favor llevale saludos a tu madre.  
@@ -229,8 +229,8 @@ utilizado para hacer peticiones corteses.
 = Por favor me da un poco de café.  
 **plisa dona cay.**
 = Por favor me da un poco de té.  
-**plisa tena cay.**
-= Por favor tiene algo de té.  
+**plisa niama cay.**
+= Por favor beba algo de té.  
 **plisa safa kamar.**
 = Por favor limpie la habitación.  
 
@@ -259,11 +259,11 @@ Intenta traducir estas oraciones de Español a Pandunia.
 **plisa** pedir, solicitar; por favor.
 **dona** dar.
 **danke** gracias.
-**i** y.
+**e** y.
 **kafe** café.
 **kamar** habitación.
 **komanda** to command.
-**u** o.
+**o** o.
 **safa** limpiar.
 **sida** estar sentado.
 **niama** beber, comer.
@@ -273,9 +273,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 1. le niama cay.
 2. xefe plisa le sida.
-3. plisa niama kafe u cay.
+3. plisa niama kafe o cay.
 4. mame plisa me safa kamar.
-5. xefe sida i niama kafe.
+5. xefe sida e niama kafe.
 
 
 ---------------------------------------------------------------------
@@ -287,17 +287,17 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-☻: **salam! eska te wana niama kafe u cay?**
+☻: **salam! eska te wana niama kafe o cay?**
 = ¡Hola! ¿ Qué desean tomar café o té?  
 ☺: **cay.**
 = Té.  
-☻: **i te?**
+☻: **e te?**
 = ¿ y Usted? 
-○: **me ni baxa pandunia...**
+○: **me no baxa pandunia...**
 = Yo no hablo Pandunia...  
 ☻: **pardon! eska le niama cay?**
 = ¡Perdón! ¿Él toma té?  
-☺: **ni. le ni niama cay. le wana niama kafe.**
+☺: **no. le no niama cay. le wana niama kafe.**
 = No, él desea tomar café.  
 ☻: **eska te wana niama supe?**
 = ¿Quieren tomar sopa?  
@@ -305,9 +305,9 @@ Preguntas de Sí o No
 = Sí.  
 ☻: **eska le wana niama supe?**
 = ¿Él quiere tomar sopa?  
-☺: **ni niama.**
+☺: **no niama.**
 = No.  
-☻: **danke. me dona un cay i un kafe i un supe sa bade yu des minute.**
+☻: **danke. me dona un cay e un kafe e un supe sa bade yu des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -334,7 +334,7 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 ### Respondiendo
 
-Las preguntas de sí o no se responden con **si** = sí, y **ni** = no.
+Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
 
 – **eska te niama supe?**
 = ¿Comes tú sopa?  
@@ -342,7 +342,7 @@ Las preguntas de sí o no se responden con **si** = sí, y **ni** = no.
 = Sí.  
 – **eska le niama supe?**
 = ¿Come ella sopa?  
-– **ni.**
+– **no.**
 
 También se puede dar una respuesta mas larga.
 
@@ -352,7 +352,7 @@ También se puede dar una respuesta mas larga.
 = Sí, yo bebo café.  
 – **eska le niama kafe?**
 = ¿Bebe él café?  
-– **ni. le ni niama kafe.**
+– **no. le no niama kafe.**
 = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
@@ -381,7 +381,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 **bade** despues.
 **pardon** perdón.
 **minute** minuto.
-**ni** no.
+**no** no.
 **baxa** hablar una língua.
 **suy** agua.
 **supe** sopa.
@@ -396,9 +396,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
 3. eska mame niama kafe?
-4. ni. le ni niama kafe.
+4. no. le no niama kafe.
 5. eska le niama supe?
-6. (le) ni niama.
+6. (le) no niama.
 
 
 ---------------------------------------------------------------------
@@ -407,37 +407,37 @@ Intenta traducir estas oraciones de Español a Pandunia.
 Negación
 --------
 
-En la lección anterios apredimos a responder con **si** y **ni**.
-La palabra **ni** es usada para negar algo. Si se pone **ni** antes
+En la lección anterios apredimos a responder con **si** y **no**.
+La palabra **no** es usada para negar algo. Si se pone **no** antes
 del verbo convertimos una oración afirmativa en negativa. 
 
 **me salama te.**
 = Yo saludarte.  
-**me ni salama te.**
+**me no salama te.**
 = Yo no saludar a usted. (No te salude.)
 
  Conceptualmente negación significa a ausencia de la palabra negada.
- En la frase **me ni salama te** la palabra **ni** niega la existencia
+ En la frase **me no salama te** la palabra **no** niega la existencia
  de **salama** (saludar). En Pandunia la palabra negativa ne se aplica
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
 **me plisa te safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**me ni plisa te safa kamar.**
+**me no plisa te safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me plisa te ni safa kamar.**
+**me plisa te no safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**le ni tena maw.**
+**le no tena maw.**
 = Ella no tiene gato.  
-**le tena ni maw, a waf.**
+**le tena no maw, a waf.**
 = Ella no tiene gatos sino perros.  
-**ni le, a me tena maw.**
+**no le, a me tena maw.**
 = Ella no, pero yo tengo gato.  
-**me tena ni un, a dul maw.**
+**me tena no un, a dul maw.**
 = Yo no tengo un gato sino dos gatos.  
 
 
@@ -467,12 +467,12 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. le ni safa kamar.
-2. un kupe ni hali.
-3. dul waf ni niama supe.
-4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe niama cay a ni kafe.
-6. mame tena ni waf a dul maw.
+1. le no safa kamar.
+2. un kupe no hali.
+3. dul waf no niama supe.
+4. le no tena waf e maw. / le tena no waf e no maw.
+5. xefe niama cay a no kafe.
+6. mame tena no waf a dul maw.
 
 
 ---------------------------------------------------------------------
@@ -663,20 +663,20 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me wana wida te.**
+**me wana vida te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**me foka wida te.**
+**me foka vida te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
 
 **me darsa pandunia.**
 = Yo aprendo pandunia.  
-**me mulu darsa pandunia.**
+**me mula darsa pandunia.**
 = Yo empiezo a aprender pandunia.  
-**me wana mulu darsa pandunia.**
+**me wana mula darsa pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**me wana mulu darsa loga pandunia.**
+**me wana mula darsa loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -695,7 +695,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = hablar, charlar
 **mula**
 = empezar, comenzar.
-**wida**
+**vida**
 = ver, mirar.
 **wana**
 = querer, necesitar.
@@ -704,5 +704,5 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 1. me wana dona kafe pa xefe.
 2. eska te wana niama suy?
-3. le ni wana safa zi kamar.
+3. le no wana safa zi kamar.
 
