@@ -764,7 +764,7 @@ Come here!
 **te laya ca ke?**
 Where do you come from?
 
-**me laya ya dubay.**
+**me laya ca dubay.**
 I come from Dubai.
 
 **me laya dom badi den.**
@@ -889,7 +889,7 @@ He or she has been at home.
 
 ### wil <small>(future action)</small>
 
-**me wil salama te du doste.**  
+**me wil salama ti doste.**  
 I will greet your friend.
 
 **man wil vida fem.**  

@@ -44,7 +44,7 @@ Bonan vesperon!
 **salam noce!**
 Bonan nokton!
 
-**salam nyam!**
+**salam niam!**
 Bonan apetiton!
 
 **salam lay!**
@@ -116,7 +116,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **salam te!**
 Saluton al vi!
 
-**me lova te.**
+**me ama te.**
 Mi amas vin.
 
 <small>Etimologio. **te**
@@ -161,7 +161,7 @@ Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)
 Mi fartas bone.  
 **eska te?**
 Kaj vi?  
-**me ni bon.**
+**me no bon.**
 Mi ne fartas bone.
 
 <small>Etimologio. **eska**
@@ -203,12 +203,12 @@ venas el hispana: sí, itala: sì, portugala: sim, mandarenĉina: 是
 "shì", ŝanghajĉina: 是 "sí".</small>
 
 
-### ni <small>ne</small>
+### no <small>ne</small>
 
-**me ni sarah.**
+**me no sarah.**
 Mi ne estas Sara.
 
-**me ni dotor.**
+**me no dotor.**
 Mi ne estas doktoro.
 
 **eska te bon?**
@@ -218,17 +218,17 @@ Jes, mi estas bone.
 
 **eska te bon?**
 Ĉu vi fartas bone?  
-**ni. me ni bon.**
+**no. me no bon.**
 Ne, mi ne estas bone.
 
-Vi povas uzi **ni**
+Vi povas uzi **no**
 por nei ĉion. Metu ĝin antaŭ la neitan vorton.
 
-**le ni salama me.**
-Li/ŝi ni salutas min.
+**le no salama me.**
+Li/ŝi no salutas min.
 
-<small>Etimologio. **ni**
-venas el ukrajna: ні (ni),, hispana: ni, franca: non.</small>
+<small>Etimologio. **no**
+venas el angla: no, hispana: no, franca: non.</small>
 
 ### men <small>homoj</small>
 
@@ -276,32 +276,32 @@ Kiuj vi estas?
 **lole ke?**
 Kiuj ili estas?
 
-### ce <small>cxi tiu</small>
+### ye <small>cxi tiu</small>
 
-**li si ke? / ke si sa?**
+**ye ke? / ke ye?**
 Kio estas tio?
 
-**ce aple.**
+**ye aple.**
 Tio estas pomo.
 
-**ce ros aple.**
+**ye ros aple.**
 Tio estas ruĝa pomo.
 
-**ci aple ros.**
+**yi aple ros.**
 Tiu pomo ruĝas.
 
 ### du <small>(poseda vorteto)</small>
 
-**ce ke?**
+**ye ke?**
 Kio estas tio?
 
-**ce mi da fon.**
+**ye mi fon.**
 Tio estas mia telefono.
 
-**ce ke yu?**
+**ye ke du?**
 Tio estas kies?
 
-**ce me yu.**
+**ye mi.**
 Tio estas mia.
 
 Noto: La posedan vorteton **yu** oni metas inter la posedanto kaj la
@@ -311,22 +311,22 @@ tiel plu.
 **le ke?**
 Who's he/she?
 
-**le si me da doste.**
+**le si me du doste.**
 Li/ŝi estas mia amiko.
 
 **me si sarah du doste.**
 Mi estas amiko de Sara.
 
-<small>Etimologio. **yu**
-venas el mandarencxina: 有 (yǒu), hakkacxina: 有 (yu).</small>
+<small>Etimologio. **du**
+venas el mandarena: 的 (de).</small>
 
 
 ### nam <small>nomo</small>
 
-**te du nam si ke?**
+**ti nam ke?**
 Kio estas via nomo?
 
-**me du nam si tomas.**
+**mi nam tomas.**
 Mia nomo estas Tomaso.
 
 **li nam ke?**
@@ -348,7 +348,7 @@ name.</small>
 **me tena bon dom.**
 Mi havas bonan domon.
 
-**le ni tena pese.**
+**le no tena pese.**
 Li/ŝi ne havas mono.
 
 **me wana tena novi fon.**
@@ -392,60 +392,60 @@ Mi volas helpu vin.
 
 ## 2a parto: Manĝado
 
-### nyama <small>manĝi, trinki</small>
+### niama <small>manĝi, trinki</small>
 
-**eska te wana nyama koy?**
+**eska te wana niama koy?**
 Ĉu vi volas manĝi ion?
 
-**le nyama aple.**
+**le niama aple.**
 Li/ŝi manĝas pomon.
 
-**lole nyama aple.**
+**lole niama aple.**
 Ili manĝas pomojn.
 
 Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo. Do vorto
 kiel **aple** indikas unu aŭ multajn pomojn.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 Ĉu vi trinkas kafon?
 
-**me nyama kafe.**
+**me niama kafe.**
 Mi trinkas kafon.
 
-Noto: Signifo de **nyam** kovras manĝadon kaj trinkadon.
+Noto: Signifo de **niam** kovras manĝadon kaj trinkadon.
 
-**me nyama kafe i pang.**
+**me niama kafe e pang.**
 Mi manĝas kafon kaj panon.
 
 
 ### wana <small>voli</small>
 
-**eska te wana nyama?**
+**eska te wana niama?**
 Ĉu vi volas manĝi?
 
-**te wana nyama ke?**
+**te wana niama ke?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
 frazoj. **Ke** ne ŝanĝas la vortordon.
 
-**me wana nyama kafe.**
+**me wana niama kafe.**
 Mi volas trinki kafon.
 
-**eska te wana nyama cay?**
+**eska te wana niama cay?**
 Ĉu vi volas trinki teon?  
-**ni. me ni wana cay. me wana kafe.**
+**no. me no wana cay. me wana kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **te wana ki aple?**
 Kiun pomon vi volas manĝi?  
-**ci ros.**
+**yi ros.**
 Tiun ruĝan.
 
 
 ### plisa <small>peti</small>
 
-**me plisa te nyama cay.**
+**me plisa te niama cay.**
 Mi petas ke vi trinku teon.
 
 **me plisa te laya dom.**
@@ -456,10 +456,10 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**plisa nyama cay.**
+**plisa niama cay.**
 Bonvolu trinki teon!
 
-**plisa nyama kafe.**
+**plisa niama kafe.**
 Bonvolu trinki kafon!
 
 **plisa laya dom.**
@@ -477,7 +477,7 @@ Dankon!
 **danka te.**
 Dankon al vi.
 
-**mi danka te.**
+**me danka te.**
 Mi dankas vin.
 
 **me danka te helpa me.**
@@ -492,10 +492,10 @@ Nedankinde. (Laŭvorte: Vi ĝentila._)
 
 ### haida <small>ni faru</small>
 
-**haida nyama!**
+**haida niama!**
 Ni manĝu!
 
-**haida gowa nyama!**
+**haida gowa niama!**
 Ni iru manĝi!
 
 **haida gowa dom.**
@@ -507,10 +507,10 @@ Ni iru hejmen.
 **me nida helpe.**
 Mi bezonas helpon.
 
-**me nida nyama.**
+**me nida niama.**
 Mi bezonas manĝi.
 
-**eska te nida nyama?**
+**eska te nida niama?**
 Ĉu vi bezonas manĝi?
 
 **eska te nida suy?**
@@ -521,8 +521,8 @@ Mi bezonas manĝi.
 
 ### pardon <small>pardono</small>
 
-**pardon! me ni aha.**
-Pardonon, mi ni komprenas.
+**pardon! me no aha.**
+Pardonon, mi ne komprenas.
 
 **pardon! ce ke?**
 Pardonon, kio estas tio?
@@ -538,10 +538,10 @@ Pardonon, kio estas via nomo?
 **me aha.**
 Mi komprenas.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Pardonon, mi ne komprenas vin.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 Mi ne sufiĉe komprenis vin.
 
 **me aha nol.**
@@ -553,7 +553,7 @@ Mi komprenas nenion.
 **me abla gida kar.**
 Mi povas konduki aŭton.
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 Ŝi/li ne povas konduki aŭton.
 
 **eska te abla xula le?**
@@ -568,10 +568,10 @@ Mi povas pandunion.
 **me abla lil pandunia.**
 Mi povas ete pandunion.
 
-**me ni abla engli.**
+**me no abla engli.**
 Mi ne povas paroli la anglan.
 
-**pardon. mi ni abla te da baxa.**
+**pardon. mi no abla ti baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -601,7 +601,7 @@ Kato diras mjaŭ.
 **auda me!**
 Aŭskulti min!
 
-**me ni abla auda te.**
+**me no abla auda te.**
 Mi ne povas aŭdi vin.
 
 **plisa loga forti.**
@@ -619,7 +619,7 @@ Kian muzikon vi aŭskultas?
 **suku vida te.**
 Mi ĝojas vidi vin!
 
-**vida te repi!**
+**vida te repo!**
 Ĝis la revido!
 
 **vida te badi den!**
@@ -639,7 +639,7 @@ Kion "maw" signifas?
 **le mena yang da hewan.**
 Ĝi signifas tipon de besto.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
@@ -691,7 +691,7 @@ Kien mi devas iri?
 **me bixu gowa pa ki ren?**
 Al kiu mi devas iri?
 
-**haida enda!**
+**haida gowa!**
 Ni iru!
 
 **haida gowa sa pede**
@@ -702,10 +702,10 @@ Ni iru piede!
 **plisa laya!**
 Bonvolu veni!
 
-**te laya ya ke?**
+**te laya ca ke?**
 Vi venas el kie?
 
-**me laya ya dubai.**
+**me laya ca dubai.**
 Mi venas el Dubai.
 
 **me laya dom badi den.**
@@ -731,7 +731,7 @@ Kie vi loĝas?
 **me domu singapur.**
 Mi loĝas en Singapuro.
 
-**eska te domu ci hotel?**
+**eska te domu yi hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
 
