@@ -11,6 +11,11 @@
 
 [Curso](darse.md)
 
+[Diccionarios]()
+
+  * [Pandunia-Español](pandunia-espani.md)
+  * [Español-Pandunia](espani-pandunia.md)
+
 [Vídeos](../pandunia/filme.md)
 
 [💬]()
