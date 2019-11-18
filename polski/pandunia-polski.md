@@ -457,6 +457,7 @@ ekia - natura, środowisko
 ekolojia - ekologia (nauka o środowisku)  
 ekran - ekran  
 ekuador - Ekwador  
+eletre - elektryczność  
 eletri - elektryczny  
 eletron - elektron  
 eletroposte (e-poste) - poczta elektroniczna  
@@ -1291,6 +1292,7 @@ mangus - mangostan
 mani ban - syn  
 mani rajer - król  
 manihay - prorok Mani  
+manihayistia - manicheizm  
 maninia - Wyspa Man  
 manioke - maniok  
 manir - zachowanie (maniery, kultura)  

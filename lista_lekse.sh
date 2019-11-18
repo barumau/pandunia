@@ -62,7 +62,7 @@ fata_lekse_asle() {
 
 #dos2unix pandunia-lekse.csv
 
-# engli i pandunia
+# engli e pandunia
 fata_liste 5 engli
 fata_leksasli_liste 5 engli
 
@@ -71,23 +71,26 @@ cp engli/pandunia-engli.md temp/temp.txt
 sed 's/_//g' -i temp/temp.txt
 cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > engli/tiddly.html
 
-# esperanti i pandunia
+# esperanti e pandunia
 fata_liste 20 esperanti
 
-# suomi i pandunia
+# suomi e pandunia
 fata_liste 21 suomi
 
-# polski i pandunia
+# polski e pandunia
 fata_liste 22 polski
 
-# cini i pandunia
+# cini e pandunia
 fata_liste 11 cini
 
-# rusi i pandunia
+# rusi e pandunia
 fata_liste 9 rusi
 
-# fransi i pandunia
+# fransi e pandunia
 fata_liste 6 fransi
+
+# espani e pandunia
+fata_liste 7 espani
 
 
 #fata_lekse_asle

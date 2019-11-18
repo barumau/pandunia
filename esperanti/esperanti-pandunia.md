@@ -310,6 +310,7 @@ elefanto - gaje
 elekti - cuza  
 elekto - cuze  
 elektra - eletri  
+elektro - eletre  
 elektrono - eletron  
 elirejo - cutomun  
 eliri - cuta  

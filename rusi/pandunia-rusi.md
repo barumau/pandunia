@@ -209,6 +209,7 @@ luter - грабитель
 lutheristi - лютеранский  
 lutheristia - лютера́нство  
 ##m
+manihayistia - манихейство  
 manir - поведение (манера)  
 manse - мясо  
 marmar - мрамор  

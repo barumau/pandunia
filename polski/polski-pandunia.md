@@ -412,6 +412,7 @@ Ekwador - ekuador
 elastyczny - lasti  
 elegancki, szykowny - xiki  
 elektron - eletron  
+elektryczność - eletre  
 elektryczny - eletri  
 emocja, uczucie - gam  
 energia - energe  
@@ -978,6 +979,7 @@ mangan - mangan
 mango - mange  
 mangostan - mangus  
 mangusta - mungus  
+manicheizm - manihayistia  
 maniok - manioke  
 marathi - marati  
 maraton - maraton  

@@ -211,6 +211,7 @@ luta - 掠夺
 luter - 强盗  
 ##m
 mame - 妈妈  
+manihayistia - 摩尼教  
 manir - 方式  
 manse - 肉  
 marmar - 大理石  

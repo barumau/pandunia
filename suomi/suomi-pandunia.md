@@ -1204,6 +1204,7 @@ mangaani - mangan
 mango - mange  
 mangostani - mangus  
 mangusti - mungus  
+manikealaisuus - manihayistia  
 Manin saari - maninia  
 manteli - badam  
 marathi (eräs intialainen kieli) - marati  
@@ -2094,6 +2095,7 @@ syyskuu - mes 9 (mes naw)
 säde - rade  
 sädekehä (halo) - nurocirke  
 säe (riimi) - rim  
+sähkö - eletre  
 sähköinen - eletri  
 sähköposti - eletroposte (e-poste)  
 säilyttäjä - hafizer  

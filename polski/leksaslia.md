@@ -152,6 +152,7 @@
 |dźwięk, brzmienie|sonde|eng:sound,sonic. fra:son. spa:son,sonido. ita:suono. + kor:소리 (sori).|
 |ekologia (nauka o środowisku)|ekolojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
 |ekskrement, gówno|kake|spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).|
+|elektryczność|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|
 |emocja, uczucie|gam|yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).|
 |etap, faza|faze|spa:por:ita:ind:fase. eng:fra:phase. rus:фаза (faza). pol:faza. fas:(fāz).|
 |fajka|pipe|spa:ind:pipa. eng:fra:pipe. fas:(pip). vie:píp.|

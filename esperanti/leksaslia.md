@@ -139,6 +139,7 @@
 |ekzerco|lenxe|zho:练习 (liànxí). jpn:練習 (renshū). kor:련습 (ryeonseup).|
 |elefanto|gaje|hin:गज (gaj). tel:గజము (gajamu). kan:ಗಜ (gaja). ind:gajah. tgl:gadya.|
 |elekti|cuza|eng:choose. + hin:चुनना (cunnā). + vie:chọn.|
+|elektro|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|
 |eliro|cute|zho:出 (chū). hak:(chut). kor:출 (chul). hin:छूटना (chūtnā).|
 |emo (inklino, tendenco)|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |emocio|gam|yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).|

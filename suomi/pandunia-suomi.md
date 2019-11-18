@@ -495,6 +495,7 @@ ekia - luonto
 ekolojia - ekologia (ympäristötiede)  
 ekran - kuvaruutu  
 ekuador - Ecuador  
+eletre - sähkö  
 eletri - sähköinen  
 eletron - elektroni  
 eletroposte (e-poste) - sähköposti  
@@ -1382,6 +1383,7 @@ mangus - mangostani
 mani ban - poika  
 mani rajer - kuningas  
 manihay - profeetta Mani  
+manihayistia - manikealaisuus  
 maninia - Manin saari  
 manioke - kassava (maniokki)  
 manir - käytös (käyttäytyminen, tapa, tavat)  

@@ -377,6 +377,7 @@ eglis - preĝejo
 ekia - naturo  
 ekran - ekrano  
 ekuador - Ekvadoro  
+eletre - elektro  
 eletri - elektra  
 eletron - elektrono  
 em - ero  

@@ -750,6 +750,7 @@
 |syreeni|lilake|tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).|
 |syy|sabe|heb:(sibá). hau:sabo;sababi. kon:sambu. ara:urd:(sabab). tur:sebep. ind:sebab. swa:sababu.|
 |säe (riimi)|rim|spa:por:rima. fra:rime. eng:rhyme. pol:rym. deu:Reim. ukr:рима (rima).|
+|sähkö|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|
 |säilyttää (varjella, säästää)|hafiza|ara:(ḥafiẓa). fas:urd:(hāfiz). tur:muhafaza.|
 |sävel (sävy)|ton|eng:tone. swa:kitone. rus:тон (ton). deu:Ton. spa:tono.|
 |sää|tenke|zho:天气 (tiǎnqì). jpn:天気 (tenki).|
