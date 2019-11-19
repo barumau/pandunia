@@ -312,7 +312,7 @@ exactly like they are written in the universal numerical language of mathematics
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
 
-- 1 000 **kili**
+- 1 000 **kil**
 - 1 000 000 **megi**
 - 1 000 000 000 **gigi**
 - 1 000 000 000 000 **teri**
