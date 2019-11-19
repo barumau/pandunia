@@ -312,7 +312,7 @@ exactly like they are written in the universal numerical language of mathematics
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
 
-- 1000 **kil**
+- 1 000 **kili**
 - 1 000 000 **megi**
 - 1 000 000 000 **gigi**
 - 1 000 000 000 000 **teri**
@@ -352,7 +352,7 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 – self
 
 Note! The reflexive pronoun **ze** is used for all persons,
-so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
+so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
 **me vida ze**
 – I see myself.  
@@ -365,7 +365,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 
 The demonstrative pronouns are:
 
-**we**
+**ye**
 – this one  
 **we**
 – that one
