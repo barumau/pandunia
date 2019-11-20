@@ -997,7 +997,7 @@ I speak in Pandunia.
  
 **me loga sa doste sa pandunia sa fon.**  
 _I speak with friends with Pandunia with telephone._  
-I speak with friends in Pandunia in telephone.
+I speak with friends in Pandunia by telephone.
 
 #### 10.1.3. Verbs as prepositions
 
