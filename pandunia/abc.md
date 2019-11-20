@@ -4,7 +4,7 @@
 
     i   e   a   o   u
     
-    p   b   m   f
+    p   b   m   f   v
     t   d   n   s   z
     c   j       x
     k   g       h
@@ -15,7 +15,7 @@
 
     i   e   a   o   u
     
-    pi  ba  mu  fo
+    pi  ba  mu  fo  ve
     te  do  ni  so  ze
     ce  ji      xa
     ka  gu      hax
@@ -46,9 +46,9 @@
 | r | ro  | ar  | ere | er  | er  | er  | ro  | ra  |
 | s | so  | es  | ese | es  | es  | es  |sigma| sin |
 | t | te  | ti  | te  | te  | te  | te  | taw | ta  |
-| u | u   | du  | u   | u   | u   | u   |upsilon|   |
-|(v)|     | vi  | ve  | ve  | fe  | ve  |     |     |
-| w | waw |dablyu|doble-ve| duble-ve | we | | | waw |
+| u | u   | yu  | u   | u   | u   | u   |upsilon|   |
+| v | ve  | vi  | ve  | ve  | fe  | ve  |     |     |
+| w | waw |dabl-yu|doble-ve| duble-ve | we | | | waw |
 | x | xa  | eks | ekis| iks | eks | xa  |     | xin |
 | y | yay | way |     |igrek| ye  |     |     | da  |
 | z | ze  | zed | seta| zed | zet | ze  | zeta| zayn|

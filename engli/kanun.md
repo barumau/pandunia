@@ -894,7 +894,7 @@ The modified noun can be part of an adposition phrase too.
 – My destination city is far away.
 
 With the modified noun at the beginning, we need to call into action the otherwise rarely used postpositions
-**nu**, **yu**, **su**, and **pu**.
+**nu**, **cu**, **su**, and **pu**.
 
 **site da pu me safara si teli.**
 – The city I’m traveling to is far away.  
@@ -944,7 +944,7 @@ It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 – I had cats in the past.  
 **a me no tena maw sa zaye.**
 – But I don't have cats at present.  
-**munkin me tena maw sa wile.**
+**abli me tena maw sa wile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
@@ -965,7 +965,7 @@ Pandunia has four prepositions of place and time.
 1. **sa** - presence, location or moment (in general): with, at, in,
    on, by, during, while
 2. **na** - absence or lack: without
-3. **ya** - origin, beginning or cause: from, since, because
+3. **ca** - origin, beginning or cause: from, since, because
 4. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -973,13 +973,13 @@ the preposition is complemented by a pronoun or a noun phrase.
 
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
-**me sona ya xam pa sube.** - I sleep since evening until morning.  
+**me sona ca xam pa sube.** - I sleep since evening until morning.  
 **me safara du london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ya te gowa.** - I have waited since you left.  
+**me denga ca te gowa.** - I have waited since you left.  
 **me denga pa te laya dom.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
@@ -997,7 +997,7 @@ I speak in Pandunia.
  
 **me loga sa doste sa pandunia sa fon.**  
 _I speak with friends with Pandunia with telephone._  
-I speak with friends in Pandunia in telephone.
+I speak with friends in Pandunia by telephone.
 
 #### 10.1.3. Verbs as prepositions
 
@@ -1152,7 +1152,7 @@ For example, from the noun **insan** (_human being_), we get the adjective **ins
 
 If the root is a place word, then its adjectival form will mean "that which is from that place".
 
-**iran** Iran, **irani** Iranian  
+**irania** Iran, **irani** Iranian  
 **pakistan** Pakistan, **pakistani** Pakistani  
 **amerike** America, **ameriki** American  
 **europe** Europe, **europi** European  
@@ -1219,7 +1219,7 @@ Creates agent nouns. It denotes a person or a tool which does the action.
 **loga** to speak; **loger** speaker, the one who speaks  
 **beka** to bake; **beker** baker, the one who bakes  
 **lida** to lead; **lider** leader, the one who leads  
-**filsofa** to think deeply; **filsofer** philosopher  
+**filosofa** to think deeply; **filosofer** philosopher  
 **komputa** to compute, to process data; **komputer** computer  
 **morta** to kill; **morter** killer  
 
@@ -1296,8 +1296,8 @@ certain way or to follow a certain ideology or religion.
 
 Creates verbs that reverse the meaning of the base verb.
 
-**liga** to tie; **ligula** to untie  
-**ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
+**noda** to tie; **nodula** to untie  
+**tapa** to plug, to close with a plug; **tapula** to unplug, to open the plug.  
 
 ### 11.4. Function Words
 

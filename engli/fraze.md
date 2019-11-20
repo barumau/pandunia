@@ -723,7 +723,7 @@ Can you speak English?
 **fransi, espani, portugali, rusi**
 French, Spanish, Portuguese, Russian
 
-**cini, nipon, indonesi**
+**cini, niponi, indonesi**
 Chinese, Japanese, Indonesian
 
 **arabi, turki, farsi, urdi, hindi**
