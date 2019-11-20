@@ -91,8 +91,9 @@ ewanjil - evangelio
 ##f
 fata - hacer  
 faze - etapa (fase)  
+filosofia - filosofía  
 fiorde - fiordo  
-fitolojia - botánica  
+fitelojia - botánica  
 fora  - perforar  
 fotografe - foto (fotografía)  
 fotografia - fotografía  
@@ -147,7 +148,7 @@ kitaba - escribir
 kitabe - escritura  
 kitabia - biblioteca  
 kitabomaxin - máquina de escribir  
-klimomute - cambio climático  
+klimemute - cambio climático  
 ko - que (como)  
 ko? - cómo  
 komputer - ordenador  
@@ -293,7 +294,7 @@ selelojia - citología
 si - sí  
 sikle - bicicleta  
 sikliste - ciclista  
-slawi - eslavo  
+slavi - eslavo  
 solocate - parasol  
 sonkamar - dormitorio  
 sonu - dormir  

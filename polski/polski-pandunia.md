@@ -160,7 +160,7 @@ Boliwia - bolivia
 bomba - bombe  
 bor - boron  
 boski - dewi  
-botanika - fitolojia  
+botanika - fitelojia  
 Botswana - tsuania  
 Bośnia i Harcegowina - bosnia  
 Boże Narodzenie - kristojen  
@@ -405,7 +405,7 @@ efekt halo - nurocirke
 egipski - misri  
 Egipt - misria  
 einstein - ainstainium  
-ekologia (nauka o środowisku) - ekolojia  
+ekologia (nauka o środowisku) - ekelojia  
 ekran - ekran  
 ekskrement, gówno - kake  
 Ekwador - ekuador  
@@ -417,7 +417,7 @@ elektryczny - eletri
 emocja, uczucie - gam  
 energia - energe  
 enzym - enzim  
-epistemologia - janolojia  
+epistemologia - janelojia  
 erb - erbium  
 Eris (planeta karłowata) - eris  
 Erytrea - eritria  
@@ -449,9 +449,9 @@ figura, reprezentacja - figur
 Filipiny - filipinia  
 filiżanka do kawy - kafokupe  
 film - filme  
-filozof - filosofer  
+filozof - filsofer  
 filozofia - filosofia  
-filozoficzny - filosofi  
+filozoficzny - filsofi  
 filtr - filter  
 Finlandia - suomia  
 fiord - fiorde  
@@ -463,7 +463,7 @@ fiński - suomi
 flaga, sztandar - bandir  
 fluor - flur  
 fonem - foneme  
-fonologia - fonolojia  
+fonologia - fonelojia  
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 forum - forum  
@@ -691,10 +691,10 @@ Jupiter - muxing
 jutro - badi den  
 już (skończona czynność) - lew  
 język surinamski - surinami bax  
-język sztuczny - sanobax  
-język świata, język ogólnoświatowy - dunobax  
+język sztuczny - sanebax  
+język świata, język ogólnoświatowy - duniabax  
 język; komunikacja - bax  
-językoznastwo - baxolojia  
+językoznastwo - baxlojia  
 ##k
 kabina, budka - kabin  
 kaczka - bate  
@@ -757,7 +757,7 @@ klawiatura - butonobanze
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
 klimat - klime  
-klimatologia - klimolojia  
+klimatologia - klimelojia  
 klon, replika - klon  
 klonować, repilikować - klona  
 klub - klube  
@@ -911,7 +911,7 @@ leżeć - lala
 Liban - libania  
 liberalista, wolnościowiec - huriste  
 liberalizm - huristia  
-liberalizm rynkowy - bazarohuristia  
+liberalizm rynkowy - bazarhuristia  
 liberalny, wolnościowy - huristi  
 Liberia - liberia  
 Libia - libia  
@@ -1405,7 +1405,7 @@ pierdzieć - peda
 pierwszy, numer jeden - nume un  
 pierwszy, początkowy - muli  
 pierś - sine  
-pierścień, pierścionek; obrączka - fingowen  
+pierścień, pierścionek; obrączka - fingewen  
 pies - waf  
 piknik - piknike  
 pilaw - polaw  
@@ -1486,8 +1486,8 @@ pole, powierzchnia - are
 policja - polis  
 policzyć, liczyć, przetwarzać dane - komputa  
 Polinezja Francuska - fransi polinesia  
-politeizm - polodewistia  
-politologia - politikolojia  
+politeizm - poldewistia  
+politologia - politikelojia  
 polityk - politiker  
 polityka - politike  
 polon - polon  
@@ -1650,7 +1650,7 @@ przyszłość - wile
 prędkościomierz - rapidemeter  
 prędkość (szybkość) - rapide  
 pręt, kij - baton  
-psychologia - ruholojia  
+psychologia - ruhelojia  
 ptak - pakse  
 puder - mukofun  
 pudełko, skrzynia - kaxe  
@@ -1804,7 +1804,7 @@ sałatka - salade
 scena - sen  
 schody (drabina) - eskal  
 seaborg - seaborgium  
-sejsmologia - sismolojia  
+sejsmologia - sismelojia  
 sekret - sir  
 sekretariat - sekreteria  
 sekretarz - sekreter  
@@ -1956,9 +1956,9 @@ szeleścić - xaxu
 szeroki - kuan  
 szew - sutur  
 szewc - sapater  
-sześcian (kostka) - sisofas  
+sześcian (kostka) - sisfas  
 sześcian - kube  
-sześciokąt (sześciobok) - sisogon  
+sześciokąt (sześciobok) - sisgon  
 sześć (6) - sis  
 szkoła (instytucja) - darsia  
 szkło - kance  
@@ -1985,8 +1985,8 @@ sędzia - hakimer
 słodki - xukari  
 słodki ziemniak - kamote  
 słony - sali  
-Słowacja - slowakia  
-Słowenia - slowenia  
+Słowacja - slovakia  
+Słowenia - slovenia  
 słowik - bulbul  
 słownictwo - leksia  
 słowo - lekse  
@@ -2039,7 +2039,7 @@ tendencja - ive
 tenesyn, tennessine - tenesin  
 tenis - tenis  
 teokracja - dewokratia  
-teologia - dewolojia  
+teologia - dewlojia  
 teoria - teoria  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
@@ -2214,7 +2214,7 @@ wielbłąd, wielbłądzica - gamel
 wiele - pol  
 Wielkanoc - paske  
 wielo- (poli-, multi-) - poli  
-wielokąt (wielościan) - pologon  
+wielokąt (wielościan) - polgon  
 wielościan - polofas  
 wieprzowina - gurubomanse  
 wiercić, borować - fora   
@@ -2407,7 +2407,7 @@ Zimbabwe - zimbabwia
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
 zjednoczony - uni  
-zmiana klimatu - klimomute  
+zmiana klimatu - klimemute  
 zmienić, zmieniać - muta  
 zmierzyć - meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  

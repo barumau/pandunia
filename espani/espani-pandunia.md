@@ -49,13 +49,13 @@ billete de ida y vuelta - retretikete
 blanco - baki  
 bleu - nili  
 bomba - bombe  
-botánica - fitolojia  
+botánica - fitelojia  
 botón - boton  
 ##c
 cabeza - sar  
 café - kafe  
 calcular - hisaba  
-cambio climático - klimomute  
+cambio climático - klimemute  
 camote (batata) - kamote  
 carcelero - prizoner  
 carne - manse  
@@ -115,7 +115,7 @@ error - galte
 erróneo - galti  
 escribir - kitaba  
 escritura - kitabe  
-eslavo - slawi  
+eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
 estribor - botoraite  
@@ -124,6 +124,7 @@ etimología - leksaslia
 evangelio - ewanjil  
 ##f
 feliz - suki  
+filosofía - filosofia  
 fiordo - fiorde  
 flor - pul  
 foto (fotografía) - fotografe  

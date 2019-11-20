@@ -70,7 +70,7 @@
 |edetä (edistyä)|jina|zho:進 (jìn). jpn:進 (shin, jin). kor:진 (jin). vie:tiến.|
 |ehdotus|suje|hin:सुझाव (sujhāv). tel:(sūcana). eng:suggestion. por:sugestão.|
 |ei|no|eng:spa:no. fra:non. por:não. ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).|
-|ekologia (ympäristötiede)|ekolojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
+|ekologia (ympäristötiede)|ekelojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
 |eläin|hewan|ind:kewan. ara:(haywān). hin:हैवान (haivān). tur:hayvan.|
 |elämä|hay|ara:حياة‎ (ḥaya). swa:uhai. hin:हयात (hayāt). Ind:hayat.|
 |emätin (vagina)|vagin|eng:fra:vagina. por:spa:vagina. rus:вагина (vagina). jpn:ワギナ (wagina). kor:바기나 (bagina). tur:vajina. may:vagina.|
@@ -87,7 +87,7 @@
 |etelä|sude|spa:sur. por:sul. fra:sud.|
 |etikka|sirke|tur:sirke. fas:(serke). hin:सिरका (sirkā). pnb:ਸਿਰਕਾ (sirkā).|
 |fani (-fiili)|filer|eng:fra:-phile. por:spa:-filo.|
-|filosofia|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
+|filosofia|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. hin:फ़लसफ़ा (falasfā). eng:philosophy. fra:philosophie.|
 |gaselli|gazel|ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼル (gazeru).|
 |guru (opettaja)|gur|hin:गुरु (guru). ben:গুরু (guru). guj:ગુરુ (guru). pnb:ਗੁਰੂ (gurū). tgl:guro. tha:ครู (gruu). ind:eng:por:guru. spa:gurú. rus:гуру (guru). fra:gourou. kor:구루 (guru). jpn:グル (guru).|
 |hallinto (hallinnointi)|nomia|eng:-nomy. deu:fra:-nomie. spa:por:-nomia. rus:-номия (-nomiya).|
@@ -602,7 +602,7 @@
 |portaat (rappuset, tikkaat)|eskal|fra:escalier. spa:escalera. por:escada. + eng:scale. deu:Skale. rus:шкала (škala).|
 |povi|buste|fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.|
 |profeetta|naber|ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. tur:nebi.|
-|psykologia|ruholojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
+|psykologia|ruhelojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
 |pudota (tipahtaa)|padu|tel:(paḍu). rus:падать (padat'). hin: पड़ना (paṛnā).|
 |puhdas (siivo, siisti)|safi|swa:safi. hin:साफ़ (sāf). urd:(sāf). ben:চাফা (sapha).|
 |puhe (sanat)|loge|ell:λόγος (logos). eng:-logue. fas:(loğat). ara:(luğa). swa:lugha. tur:lügat. ind:logat.|
@@ -726,6 +726,7 @@
 |solu|sel|ind:sel. fas:sellul. tha:เซลล์ (seel). swa:seli. tgl:selula. eng:cell. fra:cellule. spa:célula.|
 |solvata (loukata)|insulta|eng:insult. fra:insulter. spa:por:insultar.|
 |sopia|maca|eng:match. sve:matcha. kor:맞다 (matda).|
+|sormi tai varvas|finge|eng:finger.|
 |sorsa (ankka)|bate|mar:बदक (batak). urd:(batax). hin:बत्तख (battakh). tel:బాతు (bātu). fas:(bat). ara:(baṭṭa). swa:bata. spa:por:pato. tha:เป็ด  (pèt)|
 |sotilas|lasker|tur:asker. may:uzb:askar. swa:askari. ara:(ʿaskariy). bul:аскер (asker). + fas:(laškar). urd:(laśkar). hin:लष्कर (laśkar). guj:લશ્કર (laśkar). ind:laskar.|
 |sovellus|aplike|eng:fra:application. spa:aplicación. por:aplicação. pol:aplikacja.|

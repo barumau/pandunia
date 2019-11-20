@@ -196,12 +196,12 @@ baw - lehti (sanomalehti)
 bawer - toimittaja (journalisti, lehtimies)  
 bax - kieli (kommunikaatio)  
 baxa - puhua (kommunikoida)  
-baxokanun - kielioppi  
-baxokanuni - kieliopillinen  
-baxolojia - kielitiede (lingvistiikka)  
+baxkanun - kielioppi  
+baxkanuni - kieliopillinen  
+baxlojia - kielitiede (lingvistiikka)  
 baza - perustaa  
 bazar - tori (basaari)  
-bazarohuristia - markkinaliberalismi  
+bazarhuristia - markkinaliberalismi  
 baze - perusta (perustus)  
 bazer - perustaja  
 bazi - perus-  
@@ -430,8 +430,8 @@ dewi - jumalallinen
 dewi sage - jumaltaru (myytti)  
 dewiste - teisti  
 dewistia - teismi (jumalusko)  
+dewlojia - teologia  
 dewokratia - teokratia  
-dewolojia - teologia  
 dex - maa (valtio)  
 din - uskonto  
 ding - naula (piikki)  
@@ -479,7 +479,7 @@ dum - häntä
 duman - savu  
 duni - maailman-  
 dunia - maailma  
-dunobax - maailmankieli  
+duniabax - maailmankieli  
 dura - kestää (viedä aikaa)  
 dure - kesto (kestoaika)  
 duru - kulua (ajasta)  
@@ -491,8 +491,8 @@ e - ja
 ##e
 egal - tasapuolinen (reilu)  
 eglis - kirkko  
+ekelojia - ekologia (ympäristötiede)  
 ekia - luonto  
-ekolojia - ekologia (ympäristötiede)  
 ekran - kuvaruutu  
 ekuador - Ecuador  
 eletre - sähkö  
@@ -596,19 +596,19 @@ filia - tykkääminen
 filipinia - Filippiinit  
 filistinia - Palestiina  
 filme - filmi  
-filosofer - filosofi  
-filosofi - filosofinen  
 filosofia - filosofia  
+filsofer - filosofi  
+filsofi - filosofinen  
 filter - suodattaa  
 fin - loppu  
 fina - lopettaa  
 finge - sormi tai varvas  
-fingowen - sormus  
+fingewen - sormus  
 fini - viimeinen  
 fiorde - vuono  
 firuze - turkoosi  
 fite - kasvi  
-fitolojia - kasvitiede  
+fitelojia - kasvitiede  
 fix - kala  
 fixotanke - akvaario  
 fizike - fysiikka  
@@ -621,8 +621,8 @@ fokusa - keskittää
 foli - hullu (mieletön)  
 folia - hulluus (mielettömyys)  
 fone - äänne (fooni)  
+fonelojia - fonologia (äänneoppi)  
 foneme - äänne (foneemi)  
-fonolojia - fonologia (äänneoppi)  
 fonte - lähde (kaivo)  
 fora  - porata  
 forke - haarukka  
@@ -933,11 +933,11 @@ jamula - hajauttaa
 jan - tieto (tietämys)  
 jana - tietää  
 janel - ikkuna  
+janelojia - tietoteoria (epistemologia)  
 jangal - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
 jangi - kätevä  
 jani - tietty (tunnettu)  
-janolojia - tietoteoria (epistemologia)  
 jar - kannu (karahvi)  
 jawaba - vastata  
 jawabe - vastaus  
@@ -1115,8 +1115,8 @@ klara - selkeyttää (selittää)
 klas - luokka (kategoria)  
 klasa - luokitella (kategorisoida)  
 klime - ilmasto  
-klimolojia - ilmastotiede (klimatologia)  
-klimomute - ilmastonmuutos  
+klimelojia - ilmastotiede (klimatologia)  
+klimemute - ilmastonmuutos  
 klon - klooni (identtinen kopio)  
 klona - kloonata (monistaa)  
 klor - kloori  
@@ -1877,14 +1877,15 @@ plutonium - plutonium
 poke - pokeri  
 pol - paljon (monta)  
 polaw - pilahvi  
+poldewistia - polyteismi (monijumalisuus)  
+polgon - monikulmio (polygoni)  
 polis - poliisi  
 poliser - poliiisi (poliisimies)  
 politike - politiikka  
+politikelojia - politiikantutkimus  
 politiker - poliitikko  
-politikolojia - politiikantutkimus  
-polodewistia - polyteismi (monijumalisuus)  
+politiki - poliittinen  
 polofas - monitahokas  
-pologon - monikulmio (polygoni)  
 polomeni - monimerkityksinen  
 polon - polonium  
 polski - puolalainen  
@@ -2032,8 +2033,8 @@ rozangi - vaaleanpunainen
 roze - ruusu  
 ruandia - Ruanda  
 ruhe - henki (sielu, mieli, psyyke)  
+ruhelojia - psykologia  
 ruhi - henkinen (psyykkinen)  
-ruholojia - psykologia  
 ruke - selkä  
 rukosake - reppu (rinkka)  
 rul - käärö  
@@ -2100,9 +2101,9 @@ samun - yhdistys (sidos)
 samuna - yhdistää  
 sana - tehdä (valmistaa)  
 sanduke - laatikko  
+sanebax - keinotekoinen kieli (tekokieli, keinokieli)  
 sang - veri  
 sania - tuotanto  
-sanobax - keinotekoinen kieli (tekokieli, keinokieli)  
 santi - pyhä  
 santi helenia - Saint Helena  
 santi lusia - Saint Lucia  
@@ -2167,18 +2168,18 @@ sinye - merkki (signaali)
 sir - salainen  
 sirke - etikka  
 sis - kuusi (6)  
+sisfas - kuutio (kuusitahokas)  
+sisgon - kuusikulmio  
 sisme - maanjäristys  
-sismolojia - seismologia  
-sisofas - kuutio (kuusitahokas)  
-sisogon - kuusikulmio  
+sismelojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - suurkaupunki  
 sivili - sivistynyt  
 sivilia - sivilisaatio  
 skandium - skandium  
-slawi - slaavilainen  
-slowakia - Slovakia  
-slowenia - Slovenia  
+slavi - slaavilainen  
+slovakia - Slovakia  
+slovenia - Slovenia  
 soca - seurustella (toimia yhdessä)  
 soci - yhteiskunnallinen (sosiaalinen)  
 soci media - sosiaalinen media  

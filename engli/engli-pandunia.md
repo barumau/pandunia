@@ -118,7 +118,7 @@ arsenic - arsen
 art - arte  
 article (writing) - makale  
 artificial - sani  
-artificial language (conlang) - sanobax  
+artificial language (conlang) - sanebax  
 artisan (craftsman) - janger  
 artist - artiste  
 Aruba - arubia  
@@ -285,7 +285,7 @@ bold letter - grosi harfe
 Bolivia - bolivia  
 bomb - bombe  
 bon appetit! - salam niam  
-bonaty (phytology) - fitolojia  
+bonaty (phytology) - fitelojia  
 bone - oste  
 book - buke  
 border (edge, rim, fringe) - kenar  
@@ -466,8 +466,8 @@ clean (purify) - safa
 cleaner - safer  
 clear (not obscured) - klar  
 climate - klime  
-climate change - klimomute  
-climatology - klimolojia  
+climate change - klimemute  
+climatology - klimelojia  
 clone (replica) - klon  
 clone (replicate) - klona  
 clothing - fuke  
@@ -713,7 +713,7 @@ east - dong
 Easter - paske  
 easy - izi  
 echo - mirosonde  
-ecology (study of environment) - ekolojia  
+ecology (study of environment) - ekelojia  
 Ecuador - ekuador  
 egg - ande  
 eggplant (aubergine, brinjal) - bedinjan  
@@ -744,7 +744,7 @@ enough (sufficient) - bas
 environment (nature) - ekia  
 environmental (natural) - eki  
 enzyme - enzim  
-epistemology - janolojia  
+epistemology - janelojia  
 equal (fair) - egal  
 equal (peer) - par  
 erbium - erbium  
@@ -836,7 +836,7 @@ filter - filter
 find (discover) - eureka  
 fine (delicate) - fain  
 finger (toe) - finge  
-finger ring - fingowen  
+finger ring - fingewen  
 finish (put an end to) - fina  
 Finland - suomia  
 Finnish - suomi  
@@ -963,8 +963,8 @@ good-looking - bon rupi
 gospel (divine message) - ewanjil  
 grain (seed) - dan  
 gram - gram  
-grammar - baxokanun  
-grammatical - baxokanuni  
+grammar - baxkanun  
+grammatical - baxkanuni  
 grape - putaw  
 grapheme - grafem  
 graphic (pictorial) - grafi  
@@ -1051,8 +1051,8 @@ here (there) - sa ce
 heritage (legacy, bequest) - waris  
 hero - wir  
 heterosexual - aleseksekami  
-hexagon - sisogon  
-hexahedron (cube) - sisofas  
+hexagon - sisgon  
+hexahedron (cube) - sisfas  
 high - gawi  
 Himalayas - himalia  
 Hindu - hindiste  
@@ -1303,7 +1303,7 @@ lilac color - lilaki
 lily - susan  
 limit (boundary) - limite  
 line (stripe) - linye  
-linguistics - baxolojia  
+linguistics - baxlojia  
 lion - sing  
 lip - labe  
 list (listing, catalogue) - liste  
@@ -1391,7 +1391,7 @@ maritime - samudi
 mark (leave a mark) - marka  
 mark (trace) - marke  
 market (bazaar) - bazar  
-market liberalism - bazarohuristia  
+market liberalism - bazarhuristia  
 marriage (matrimony) - maria  
 married - mari  
 marry - mara  
@@ -1760,12 +1760,12 @@ person (people) - ren
 personal (intimate, private) - tani  
 Peru - peruvia  
 Philippines - filipinia  
-philosopher - filosofer  
-philosophic - filosofi  
+philosopher - filsofer  
+philosophic - filsofi  
 philosophy - filosofia  
 phone (speech sound) - fone  
 phoneme - foneme  
-phonology - fonolojia  
+phonology - fonelojia  
 phosphorus - fosfor  
 phosphorus - pospor  
 photograph - fotograf  
@@ -1836,14 +1836,15 @@ police - polis
 police officer - poliser  
 Polish - polski  
 polite - keci  
+political - politiki  
 politician - politiker  
 politics - politike  
-politocology - politikolojia  
+politocology - politikelojia  
 polonium - polon  
 poly- (multi-) - poli  
-polygon - pologon  
+polygon - polgon  
 polyhedron - polofas  
-polytheism - polodewistia  
+polytheism - poldewistia  
 ponder (think) - hema  
 pool (basin) - basen  
 poor (miserable) - miskin  
@@ -1909,7 +1910,7 @@ prophet Mani - manihay
 proponent (supporter, activist, -ist) - iste  
 protactinium - protacinium  
 prove (demonstrate, testify) - dalila  
-psychology - ruholojia  
+psychology - ruhelojia  
 public - demi  
 pudding - puding  
 Puerto Rico - portorikia  
@@ -2111,7 +2112,7 @@ secret - sir
 secretariat - sekreteria  
 secretary - sekreter  
 seem - rupu  
-seismology - sismolojia  
+seismology - sismelojia  
 selenium - selen  
 self - tan  
 self - ze  
@@ -2180,12 +2181,12 @@ skin (peel) - pil
 skirt - jupe  
 skull - saroste  
 sky (heaven) - saman  
-Slavic - slawi  
+Slavic - slavi  
 sleep (be asleep) - sonu  
 sleep - son  
 slipper - babuce  
-Slovakia - slowakia  
-Slovenia - slowenia  
+Slovakia - slovakia  
+Slovenia - slovenia  
 smoke - duman  
 smooth - lisi  
 smoothen with a plane - randa  
@@ -2394,7 +2395,7 @@ theft - core
 theism - dewistia  
 theist - dewiste  
 theocracy - dewokratia  
-theology - dewolojia  
+theology - dewlojia  
 theory - teoria  
 thermometer - termemeter  
 they - lole  
@@ -2633,7 +2634,7 @@ work (job, task) - werke
 work - werka  
 worker - werker  
 world - dunia  
-world language - dunobax  
+world language - duniabax  
 worm - verme  
 worship (reveration) - puje  
 worship (revere) - puja  

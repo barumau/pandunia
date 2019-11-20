@@ -203,12 +203,12 @@ baw - magazine (journal, gazette)
 bawer - journalist  
 bax - language (communication)  
 baxa - speak (communicate)  
-baxokanun - grammar  
-baxokanuni - grammatical  
-baxolojia - linguistics  
+baxkanun - grammar  
+baxkanuni - grammatical  
+baxlojia - linguistics  
 baza - found  
 bazar - market (bazaar)  
-bazarohuristia - market liberalism  
+bazarhuristia - market liberalism  
 baze - base (foundation)  
 bazer - founder  
 bazi - basic  
@@ -438,8 +438,8 @@ dewi - divine (godly)
 dewi sage - myth (divine story)  
 dewiste - theist  
 dewistia - theism  
+dewlojia - theology  
 dewokratia - theocracy  
-dewolojia - theology  
 dex - country (land)  
 din - religion (worship)  
 ding - nail (spike)  
@@ -487,7 +487,7 @@ dum - tail
 duman - smoke  
 duni - global  
 dunia - world  
-dunobax - world language  
+duniabax - world language  
 dura - last (take time, during)  
 dure - duration  
 duru - pass (of time)  
@@ -499,9 +499,9 @@ e - and
 ##e
 egal - equal (fair)  
 eglis - church  
+ekelojia - ecology (study of environment)  
 eki - environmental (natural)  
 ekia - environment (nature)  
-ekolojia - ecology (study of environment)  
 ekran - screen  
 ekuador - Ecuador  
 eletre - electricity  
@@ -606,19 +606,19 @@ filia - attraction (-philia)
 filipinia - Philippines  
 filistinia - Palestinian Territory  
 filme - film (video)  
-filosofer - philosopher  
-filosofi - philosophic  
 filosofia - philosophy  
+filsofer - philosopher  
+filsofi - philosophic  
 filter - filter  
 fin - end  
 fina - finish (put an end to)  
 finge - finger (toe)  
-fingowen - finger ring  
+fingewen - finger ring  
 fini - last (final)  
 fiorde - fjord  
 firuze - turquoise gem  
 fite - plant (vegetation)  
-fitolojia - bonaty (phytology)  
+fitelojia - bonaty (phytology)  
 fix - fish  
 fixotanke - fish tank  
 fizike - physics  
@@ -631,8 +631,8 @@ fokusa - concentrate
 foli - mad (insane, crazy)  
 folia - madness (insanity)  
 fone - phone (speech sound)  
+fonelojia - phonology  
 foneme - phoneme  
-fonolojia - phonology  
 fonte - fountain (spring, well)  
 fora  - drill (bore, perforate)  
 forke - fork  
@@ -942,11 +942,11 @@ jamula - disperse
 jan - knowledge  
 jana - know  
 janel - window  
+janelojia - epistemology  
 jangal - forest (jungle, woods)  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
 jani - known  
-janolojia - epistemology  
 jar - jug (jar, pitcher)  
 jawaba - respond (give an answer)  
 jawabe - answer (reply, response)  
@@ -1126,8 +1126,8 @@ klara - clarify
 klas - class (category)  
 klasa - classify (categorize)  
 klime - climate  
-klimolojia - climatology  
-klimomute - climate change  
+klimelojia - climatology  
+klimemute - climate change  
 klon - clone (replica)  
 klona - clone (replicate)  
 klor - chlorine  
@@ -1901,14 +1901,15 @@ plutonium - plutonium
 poke - poker  
 pol - many (much)  
 polaw - pilaf (pulao)  
+poldewistia - polytheism  
+polgon - polygon  
 polis - police  
 poliser - police officer  
 politike - politics  
+politikelojia - politocology  
 politiker - politician  
-politikolojia - politocology  
-polodewistia - polytheism  
+politiki - political  
 polofas - polyhedron  
-pologon - polygon  
 polomeni - ambiguous  
 polon - polonium  
 polski - Polish  
@@ -2058,8 +2059,8 @@ roze - rose
 ruandia - Rwanda  
 rubidium - rubidium  
 ruhe - soul (mind, psyche)  
+ruhelojia - psychology  
 ruhi - mental (psychic)  
-ruholojia - psychology  
 ruke - back  
 rukosake - backpack (rucksack)  
 rul - roll (scroll, coil)  
@@ -2133,10 +2134,10 @@ samun - joint
 samuna - connect (join, link)  
 sana - produce (create, make)  
 sanduke - box (chest)  
+sanebax - artificial language (conlang)  
 sang - blood  
 sani - artificial  
 sania - production  
-sanobax - artificial language (conlang)  
 santi - holy (sacred)  
 santi helenia - Saint Helena  
 santi lusia - Saint Lucia  
@@ -2207,19 +2208,19 @@ sinye - sign (signal)
 sir - secret  
 sirke - vinegar  
 sis - six (6)  
+sisfas - hexahedron (cube)  
+sisgon - hexagon  
 sisme - earthquake  
-sismolojia - seismology  
-sisofas - hexahedron (cube)  
-sisogon - hexagon  
+sismelojia - seismology  
 sistem - system  
 sistemi - systemic  
 site - city  
 sivili - civilized (civil)  
 sivilia - civilization  
 skandium - scandium  
-slawi - Slavic  
-slowakia - Slovakia  
-slowenia - Slovenia  
+slavi - Slavic  
+slovakia - Slovakia  
+slovenia - Slovenia  
 soca - socialize (interact)  
 soci - social  
 soci media - social media  

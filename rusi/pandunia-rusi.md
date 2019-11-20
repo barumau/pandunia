@@ -107,9 +107,10 @@ dunia - мир (свет)
 esa - быть  
 ewanjil - евангелие  
 ##f
+filosofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fitolojia - ботаника  
+fitelojia - ботаника  
 fora  - сверлить (бурить)  
 fotografe - фотокарточка  
 fotografia - фотография  
@@ -174,7 +175,7 @@ kitabe - письмо
 kitabia - библиотека  
 kitabomaxin - пишущая машинка  
 klime - климат  
-klimomute - изменение климата  
+klimemute - изменение климата  
 ko - чем  
 ko? - как  
 komputer - компьютер  
@@ -280,6 +281,7 @@ pin - булавка
 pir - огонь  
 pira - жечь (палить)  
 pize - пицца  
+polaw - плов  
 porte - порт  
 pote - болото  
 program - программа  
@@ -311,7 +313,7 @@ selelojia - цитология
 sen - сцена  
 si - да  
 sikliste - велосипедист  
-slawi - славянский  
+slavi - славянский  
 sol - солнце  
 solocate - зонтик от солнца  
 sonkamar - спальня  

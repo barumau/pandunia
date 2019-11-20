@@ -152,9 +152,9 @@ batre - baterio (pilo)
 baw - gazeto (revuo)  
 bax - lingvo  
 baxa - paroli (komuniki)  
-baxokanun - gramatiko  
-baxokanuni - gramatika  
-baxolojia - lingvistiko  
+baxkanun - gramatiko  
+baxkanuni - gramatika  
+baxlojia - lingvistiko  
 bazar - merkato (bazaro)  
 baze - bazo  
 bazi - baza  
@@ -326,8 +326,8 @@ detal - detalo
 dew - dio  
 dewi - dia  
 dewi sage - mito  
+dewlojia - teologio  
 dewokratia - teokratio  
-dewolojia - teologio  
 dex - lando  
 din - religio  
 ding - najlo  
@@ -363,7 +363,7 @@ dum - vosto
 duman - fumo  
 duni - tera  
 dunia - mondo  
-dunobax - mondlingvo  
+duniabax - mondlingvo  
 dura - daŭri (dum)  
 dure - daŭro  
 dute - dubo  
@@ -453,19 +453,19 @@ fikre - penso
 fiksa - fiksi  
 filipinia - Filipinoj  
 filme - filmo  
-filosofer - filozofo  
-filosofi - filozofia  
 filosofia - filozofio  
+filsofer - filozofo  
+filsofi - filozofia  
 filter - filtri  
 fin - fino  
 fina - fini  
 finge - fingro  
-fingowen - ringo  
+fingewen - ringo  
 fini - lasta  
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
-fitolojia - plantscienco (botaniko)  
+fitelojia - plantscienco (botaniko)  
 fix - fiŝo  
 fizike - fiziko  
 fiziker - fizikisto  
@@ -693,9 +693,9 @@ jamula - disigi
 jan - scio  
 jana - scii (koni)  
 janel - fenestro  
+janelojia - sciteorio (epistemologio)  
 jangal - arbaro  
 janger - metiisto  
-janolojia - sciteorio (epistemologio)  
 jawaba - respondi  
 jawabe - respondo  
 je - kiu (rilativa pronomo)  
@@ -796,7 +796,7 @@ kiwe - kivo
 klar - klara  
 klara - klarigi  
 klime - klimato  
-klimolojia - klimatscienco  
+klimelojia - klimatscienco  
 klon - klono  
 klona - kloni  
 klor - kloro  
@@ -1167,9 +1167,10 @@ plus - ankaŭ
 plutonium - plutonio  
 poke - pokero  
 pol - multe  
+polgon - poligono  
 politike - politiko  
 politiker - politikisto  
-pologon - poligono  
+politiki - politika  
 polon - polonio  
 ponta - montri  
 porte - haveno  
@@ -1236,7 +1237,7 @@ rose - roso
 roze - rozo  
 rubidium - rubidio  
 ruhe - animo (psiko)  
-ruholojia - psikologio  
+ruhelojia - psikologio  
 ruke - dorso  
 rupe - aspekto  
 ruste - vilaĝo  
@@ -1281,8 +1282,8 @@ samoraya - samopinii (interkonsenti)
 samude - maro  
 sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
+sanebax - artefarita lingvo  
 sang - sango  
-sanobax - artefarita lingvo  
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
@@ -1315,7 +1316,7 @@ singapur - Singapuro
 sinokase - torako  
 sirke - vinagro  
 sisme - tertremo  
-sismolojia - sismologio  
+sismelojia - sismologio  
 sistem - sistemo  
 site - urbego  
 skandium - skandio  

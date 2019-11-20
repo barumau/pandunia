@@ -150,7 +150,7 @@
 |długi|long|eng:fra:long. deu:lang. Por:longo.|
 |dźinizm, dżinizm|jeinistia|hin:mar:जैन (jain). tha:เชน (chen). eng:jainism. fra:jaïnisme. rus:джайнизм (džaynizm).|
 |dźwięk, brzmienie|sonde|eng:sound,sonic. fra:son. spa:son,sonido. ita:suono. + kor:소리 (sori).|
-|ekologia (nauka o środowisku)|ekolojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
+|ekologia (nauka o środowisku)|ekelojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
 |ekskrement, gówno|kake|spa:por:fra:caca. deu:Kacke. ara:(kākā). tur:kaka. rus:кака (kaka). fas:(kake).|
 |elektryczność|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|
 |emocja, uczucie|gam|yue:感 (gam2). zho:感 (gǎn). kor:감 (gam). vie:cảm xúc. jpn:感情 (kanjō).|
@@ -158,7 +158,7 @@
 |fajka|pipe|spa:ind:pipa. eng:fra:pipe. fas:(pip). vie:píp.|
 |fascynacja|fasin|eng:fascination. spa:fascinación. deu:Faszination.|
 |fałszywy, nieprawdziwy|falsi|eng:false. spa:por:falso. fra:faux. deu:falsch.|
-|filozofia|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
+|filozofia|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. hin:फ़लसफ़ा (falasfā). eng:philosophy. fra:philosophie.|
 |fiord|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
 |firma, kompania, korporacja|kompania|eng:company. hin:कंपनी (kampanī). rus:компания (kompaniya). tgl:kompanya. pol:kompania.|
 |flaga, sztandar|bandir|eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|
@@ -464,6 +464,7 @@
 |ożeniony, zamężny, w związku małżeńskim|mari|eng:married. fra:marié. spa:por:marido.|
 |paczka, paka|pake|eng:pack. rus:пакет (paket). hin:पैकेट (pækeṭ). deu:tur:paket. fra:paquet. spa:paquete. por:pacote.|
 |pająk|arane|fra:araignee. por:aranha. spa:araña. eng:arachnid.|
+|palec|finge|eng:finger.|
 |palma, drzewo palmowe|palme|deu:Palme. eng:palm. por:spa:palma. rus:пальма (palma). tur:palmiye. ind:palem. tha:ปาล์ม (pām).|
 |pamięć|mem|eng:memory. fra:mémoire. spa:memoria. por:memória.|
 |papaja|papay|eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|
@@ -587,7 +588,7 @@
 |przystojny, atrakcyjny, ładny|bon rupi|zho:好看 (hǎokàn). eng:good-looking.|
 |przyszłość|wile|eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).|
 |pręt, kij|baton|eng:baton. fra:bâton. zho:棒 (bàng). jpn:棒 (bō).|
-|psychologia|ruholojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
+|psychologia|ruhelojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
 |ptak|pakse|hin:mar:पक्षी (pakṣī). mal:പക്ഷി (pakṣi). tel:(pakṣi). kh:បក្សី (baksəy). tha:ปักษา (pak-sa). ben:পাখী (pakhī). pnb:ਪੰਖੀ (paṅkhī).|
 |pudełko, skrzynia|kaxe|deu:Kasse. rus:(kassa). eng:case,cash. swa:kasha. por:caixa. spa:caja.|
 |puding|puding|eng:pudding. zho:布丁 (bùdīng).|

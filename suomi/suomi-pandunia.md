@@ -231,7 +231,7 @@ ei kukaan - nol ren
 ei mitään - nol xey  
 eilinen - predi den  
 einsteinium - ainstainium  
-ekologia (ympäristötiede) - ekolojia  
+ekologia (ympäristötiede) - ekelojia  
 El Salvador - salbadoria  
 ele - jeste  
 elegantti - xiki  
@@ -298,11 +298,11 @@ fermium - fermium
 Fidži - fijia  
 Filippiinit - filipinia  
 filmi - filme  
-filosofi - filosofer  
+filosofi - filsofer  
 filosofia - filosofia  
-filosofinen - filosofi  
+filosofinen - filsofi  
 fluori - flur  
-fonologia (äänneoppi) - fonolojia  
+fonologia (äänneoppi) - fonelojia  
 foorumi - forum  
 fosfor - pospor  
 fosfori - fosfor  
@@ -518,8 +518,8 @@ ilmanpaine - airbare
 ilmapallo - balon  
 ilmapuntari (ilmanpainemittari, barometri) - airbaremeter  
 ilmasto - klime  
-ilmastonmuutos - klimomute  
-ilmastotiede (klimatologia) - klimolojia  
+ilmastonmuutos - klimemute  
+ilmastotiede (klimatologia) - klimelojia  
 ilmavoimat - airlaskeria  
 ilmiasu (ulkonäkö) - rupe  
 iloinen (tyytyväinen) - suki  
@@ -716,7 +716,7 @@ kasvaa - rastu
 kasvi - fite  
 kasvis - veje  
 kasvissyöjä - vejeniamiste  
-kasvitiede - fitolojia  
+kasvitiede - fitelojia  
 kasvot (naama) - muke  
 kasvu - raste  
 Katalonia - katalunia  
@@ -736,7 +736,7 @@ keho (ruumis) - badan
 keidas - wase  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - sani  
-keinotekoinen kieli (tekokieli, keinokieli) - sanobax  
+keinotekoinen kieli (tekokieli, keinokieli) - sanebax  
 keisari - imperer  
 keisarikunta - imperia  
 keittiö - kukeria  
@@ -784,9 +784,9 @@ kevät - cune
 kiehua - bulu  
 kiekko (levy) - diske  
 kieli (kommunikaatio) - bax  
-kieliopillinen - baxokanuni  
-kielioppi - baxokanun  
-kielitiede (lingvistiikka) - baxolojia  
+kieliopillinen - baxkanuni  
+kielioppi - baxkanun  
+kielitiede (lingvistiikka) - baxlojia  
 kielletty - haram  
 kieltää - harama  
 kieltää - nega  
@@ -958,8 +958,8 @@ kuume - febre
 kuunnella - ora  
 kuura - himorose  
 kuusi (6) - sis  
-kuusikulmio - sisogon  
-kuutio (kuusitahokas) - sisofas  
+kuusikulmio - sisgon  
+kuutio (kuusitahokas) - sisfas  
 kuutio - kube  
 kuvaileva (määrittelevä) - sifi  
 kuvakirja - grafobuke  
@@ -1154,7 +1154,7 @@ maa (multa) - darte
 maa (valtio) - dex  
 maailma - dunia  
 maailman- - duni  
-maailmankieli - dunobax  
+maailmankieli - duniabax  
 maailmanlaajuinen (globaali) - panduni  
 maalais- - rusti  
 maalari - penter  
@@ -1211,7 +1211,7 @@ marathi (eräs intialainen kieli) - marati
 maratoni - maraton  
 margariini - margarin  
 marja - bere  
-markkinaliberalismi - bazarohuristia  
+markkinaliberalismi - bazarhuristia  
 marmori - marmar  
 Marokko - magribia  
 marraskuu - mes 11 (mes des un)  
@@ -1301,7 +1301,7 @@ Mongolia - mongolia
 moni (usea) - multi  
 moni- (poly-, multi-) - poli  
 monijumalisuus (panteismi) - pandewistia  
-monikulmio (polygoni) - pologon  
+monikulmio (polygoni) - polgon  
 monimerkityksinen - polomeni  
 monismi - monistia  
 monitahokas - polofas  
@@ -1690,7 +1690,8 @@ pokeri - poke
 poliiisi (poliisimies) - poliser  
 poliisi - polis  
 poliitikko - politiker  
-politiikantutkimus - politikolojia  
+poliittinen - politiki  
+politiikantutkimus - politikelojia  
 politiikka - politike  
 poljin (pedaali) - pedal  
 polku (reitti, kurssi) - rute  
@@ -1698,7 +1699,7 @@ polkupyörä - pedalsikle
 polonium - polon  
 polttaa - pira  
 polvi - gute  
-polyteismi (monijumalisuus) - polodewistia  
+polyteismi (monijumalisuus) - poldewistia  
 pommi - bombe  
 porata - fora   
 porkkana - karote  
@@ -1720,7 +1721,7 @@ profetia - nabe
 pronomini - viselekse  
 prosessi (proseduuri) - proses  
 protaktinium - protacinium  
-psykologia - ruholojia  
+psykologia - ruhelojia  
 pudota (tipahtaa) - padu  
 pudottaa - pada  
 Puerto Rico - portorikia  
@@ -1941,7 +1942,7 @@ seikkailija - abenturer
 seikkailu - abentur  
 seinä (muuri) - wal  
 seisahtaa - estasa  
-seismologia - sismolojia  
+seismologia - sismelojia  
 seisova (staattinen) - estasi  
 seistä (seisoa) - libu  
 seitsemän (7) - sem  
@@ -2009,9 +2010,9 @@ sitruuna - limon
 sivilisaatio - sivilia  
 sivistynyt - sivili  
 skandium - skandium  
-slaavilainen - slawi  
-Slovakia - slowakia  
-Slovenia - slowenia  
+slaavilainen - slavi  
+Slovakia - slovakia  
+Slovenia - slovenia  
 smaragdi - zumrude  
 sohva - kanape  
 soihtu - nurobaton  
@@ -2026,7 +2027,7 @@ solvata (loukata) - insulta
 Somalia - somalia  
 sopia - maca  
 sormi tai varvas - finge  
-sormus - fingowen  
+sormus - fingewen  
 sorsa (ankka) - bate  
 sosiaalinen media - soci media  
 sosialismi - socistia  
@@ -2203,7 +2204,7 @@ telugu (eräs intialainen kieli) - telugi
 temppeli - mandir  
 tennis - tenis  
 teokratia - dewokratia  
-teologia - dewolojia  
+teologia - dewlojia  
 teoria - teoria  
 tera- - tero-  
 terrorismi - teroristia  
@@ -2220,7 +2221,7 @@ tieto (info) - informe
 tieto (tietämys) - jan  
 tietokanta - datobanke  
 tietokone - komputer  
-tietoteoria (epistemologia) - janolojia  
+tietoteoria (epistemologia) - janelojia  
 tietty (tunnettu) - jani  
 tietää - jana  
 tiikeri - bagre  

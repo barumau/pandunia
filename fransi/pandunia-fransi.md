@@ -160,8 +160,9 @@ europi - européen
 ewanjil - évangile  
 ##f
 fata - faire  
+filosofia - philosophie  
 fiorde - fiord  
-fitolojia - botanique  
+fitelojia - botanique  
 fora  - forer (percer)  
 fotografe - photo (photographie)  
 fotografia - photographie  
@@ -222,7 +223,7 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
-klimomute - changement climatique  
+klimemute - changement climatique  
 ko - que (comme)  
 ko? - comment  
 komputer - ordinateur  
@@ -354,7 +355,7 @@ retretikete - Aller-retour
 rim - rime  
 rize - racine  
 ruhe - psyché  
-ruholojia - psychologie  
+ruhelojia - psychologie  
 ##s
 safariste - touriste  
 sahi - correct (juste)  

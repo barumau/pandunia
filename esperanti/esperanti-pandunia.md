@@ -83,7 +83,7 @@ argono - argon
 armeo - laskeria  
 armilo - arme  
 arseno - arsen  
-artefarita lingvo - sanobax  
+artefarita lingvo - sanebax  
 artisto - artiste  
 arto - arte  
 ascetiko - askete  
@@ -388,9 +388,9 @@ fiksi - fiksa
 filino - femi bace  
 Filipinoj - filipinia  
 filmo - filme  
-filozofia - filosofi  
+filozofia - filsofi  
 filozofio - filosofia  
-filozofo - filosofer  
+filozofo - filsofer  
 filtri - filter  
 fingro - finge  
 fini - fina  
@@ -472,8 +472,8 @@ gluo - glute
 gluteno - gluten  
 gluti - gula  
 grafika (bilda) - grafi  
-gramatika - baxokanuni  
-gramatiko - baxokanun  
+gramatika - baxkanuni  
+gramatiko - baxkanun  
 gramo - gram  
 granda - day  
 grasa - feti  
@@ -668,7 +668,7 @@ klarigi - klara
 klavaro - butonobanze  
 klavo - buton  
 klimato - klime  
-klimatscienco - klimolojia  
+klimatscienco - klimelojia  
 kloni - klona  
 klono - klon  
 kloro - klor  
@@ -787,7 +787,7 @@ ligi - benda
 ligno - moke  
 liki - lowa  
 lineo - linye  
-lingvistiko - baxolojia  
+lingvistiko - baxlojia  
 lingvo - bax  
 lipo - labe  
 listo - liste  
@@ -910,7 +910,7 @@ mola - komal
 molibdeno - molidenum  
 molusko - moluske  
 monato - mes  
-mondlingvo - dunobax  
+mondlingvo - duniabax  
 mondo - dunia  
 monero - pesediske  
 mongola - mongol  
@@ -1081,7 +1081,7 @@ piso (urino) - pix
 piĝino - pijin  
 plado - tas  
 planto - fite  
-plantscienco (botaniko) - fitolojia  
+plantscienco (botaniko) - fitelojia  
 plateno - platin  
 plej - maxim  
 plena - ful  
@@ -1096,7 +1096,8 @@ plutonio - plutonium
 pluva - barxi  
 pluvo - barxe  
 pokero - poke  
-poligono - pologon  
+poligono - polgon  
+politika - politiki  
 politikisto - politiker  
 politiko - politike  
 polonio - polon  
@@ -1136,7 +1137,7 @@ prometio - prometium
 pronomo - viselekse  
 propra (partiklo de posedo) - da  
 protaktinio - protacinium  
-psikologio - ruholojia  
+psikologio - ruhelojia  
 pulmo - pulmon  
 pulvo - barude  
 punkto - binde  
@@ -1189,7 +1190,7 @@ ridi - haha
 rigardi ia - konsida  
 rilato - guanxe  
 rimarki - nota  
-ringo - fingowen  
+ringo - fingewen  
 rinocero - faru  
 ripari - xula  
 riparisto - xuler  
@@ -1240,7 +1241,7 @@ saŭno - saune
 scienco - lojia  
 scii (koni) - jana  
 scio - jan  
-sciteorio (epistemologio) - janolojia  
+sciteorio (epistemologio) - janelojia  
 sciuro - tupay  
 se - gar  
 seborgio - seaborgium  
@@ -1270,7 +1271,7 @@ silicio - silike
 simpla - simpli  
 Singapuro - singapur  
 siropo - xirope  
-sismologio - sismolojia  
+sismologio - sismelojia  
 sistemo - sistem  
 sitelo - balde  
 skandio - skandium  
@@ -1348,7 +1349,7 @@ teneso - tenesin
 teniso - tenis  
 teo - cay  
 teokratio - dewokratia  
-teologio - dewolojia  
+teologio - dewlojia  
 teorio - teoria  
 tera - duni  
 terbio - terbium  

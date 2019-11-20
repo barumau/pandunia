@@ -278,7 +278,7 @@
 |ear|or|zho:耳 (ěr). eng:ear. deu:Ohr. fra:oreille. por:orelha. spa:oreja.|
 |east|dong|zho:东 (dōng). yue:東 (dōng). vie:đông. kor:동 (dong).|
 |easy|izi|eng:easy. fra:aisée.|
-|ecology (study of environment)|ekolojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
+|ecology (study of environment)|ekelojia|deu:Ökologie. eng:ecology. fra:écologie. rus:экология (ekologiya). ind:ekologi. tur:ekoloji. swa:ikolojia.|
 |eggplant (aubergine, brinjal)|bedinjan|hin:बैंगन (bEngān). ara:(bādinjān). por:berinjela. fra:aubergine. spa:berenjena. tur:badincan, patlıcan. rus:баклажан (baklažan). swa:mbilingani.|
 |egg|ande|hin:अंडा (aṇḍā). ben:আণ্ডা (aṇḍa). urd:(aṇḍā). pnb:ਆਂਡਾ (āṇḍā). tel:(aṇḍamu). zul:xho:iqanda. mon:өндөг (öndög).|
 |eight (8)|bal|zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.|
@@ -324,6 +324,7 @@
 |female|fem|fra:femme. por:fêmea. eng:female.|
 |fiever|febre|por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.|
 |fight (war, battle, combat)|jeng|zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).|
+|finger (toe)|finge|eng:finger.|
 |fire (burning)|pir|eng:fra:pyro-. por:spa:piro-. rus:пиро- (piro-).|
 |fish|fix|eng:fish. deu:Fisch.|
 |fjord|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
@@ -636,7 +637,7 @@
 |perfect|kamili|ara:(kāmil). fas:(kâmel). urd:(kāmil). swa:kamili.|
 |permissible (allowed, halal)|halal|ara:(ḥalāl). fas:urd:(halāl). eng:spa:fra:por:ind:halal. tur:helal. rus:халяльный (xaljalʹniy). hin:हलाल (halāl). swa:halali. kor:할랄 (hallal).|
 |person (people)|ren|zho: 人 (rén).|
-|philosophy|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
+|philosophy|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. hin:फ़लसफ़ा (falasfā). eng:philosophy. fra:philosophie.|
 |photograph|fotografe|eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|
 |pie (pastry)|pay|eng:pie. spa:pay. ind:pai. hin:पाई (pāī). urd:(pāī). ben:পাই (pai). jpn:パイ (pai). kor:파이 (pai). zho:排 (pái). yue:批 (pai1). fas:(pây).|
 |piece (fragment, shred, morsel, crumb)|parce|fas:(parče). tur:parça. hin:पारचा (pārcā). eng:part. por:spa:parte.|
@@ -681,7 +682,7 @@
 |proof (evidence, proof, demonstration, testimony)|dalil|ara:(dalil). ben:দলিল (dôlil). swa:dalili. tur:delil.|
 |property (belongings, possessions)|malke|ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. fas:melk. + pas:urd:(mālik). pnb:ਮਾਲਕ (mālik).|
 |prophet|naber|ara:(nabiy). hin:नबी (nabī). ind:nabi. swa:nabii. hau:annabi. tur:nebi.|
-|psychology|ruholojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
+|psychology|ruhelojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
 |pudding|puding|eng:pudding. zho:布丁 (bùdīng).|
 |pull (draw, drag)|tira|spa:por:tirar. fra:tirer. eng:tear. tur:tire.|
 |pyramid|piram|eng:pyramid. + ara:(haram).|

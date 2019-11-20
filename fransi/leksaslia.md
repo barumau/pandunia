@@ -191,6 +191,7 @@
 |perroquet|papagay|ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papagei. hun:papagáj. rus:попугай (popugay).|
 |pet (vesse)|pede|ben:পাদ (pad). hin:पाद (pād). spa:pedo. por:peido. fra:pet. rus:пердение (perdeniye).|
 |peu|xaw|zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).|
+|philosophie|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. hin:फ़लसफ़ा (falasfā). eng:philosophy. fra:philosophie.|
 |photo (photographie)|fotografe|eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|
 |pile (batterie)|batre|eng:battery. hat:batri. fas:(bātri). swa:betri. hin:बैटरी (baiṭrī). ben:ব্যাটারি (byaṭari). ara:(baṭṭāriyya). jpn:バッテリー (batterī). kor:배터리 (baeteori). rus:батарея (batareya). spa:por:bateria. may:bateri.|
 |pizza|pize|ita:eng:fra:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).|
@@ -206,7 +207,7 @@
 |programme|program|eng:ind:tur:program. fra:programme. por:spa:programa. rus:программа (programma). jpn:プログラム (puroguramu). kor:프로그램 (peurogeuraem). hin:प्रोग्राम (progrām). swa:programu.|
 |projet|projete|fra:projet. por:projeto. eng:project. spa:proyecto. rus:проект (proyekt). hin:प्रोजैक्ट (projaikṭ). Ben:প্রজেক্ট (prôjekṭ). jpn:プロジェクト (purojekuto). kor:프로젝트 (peurojekteu). tur:proje.|
 |propriété (possession, bien)|malke|ara:(mulk). tur:mal. swa:mali,miliki. ind:milik. fas:melk. + pas:urd:(mālik). pnb:ਮਾਲਕ (mālik).|
-|psychologie|ruholojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
+|psychologie|ruhelojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
 |psyché|ruhe|ara:(rūħ). ind:ruh. tur:ruh. hin:रूह (rūh). swa:roho. hau:ruhu. som:ruux. + rus:дух (duh).|
 |que (quoi)|ke|spa:qué. por:fra:que. + ben:কে  (ke).|
 |race|ras|eng:fra:race. spa:raza. por:raça. rus:раса (rasa). may:ras.|

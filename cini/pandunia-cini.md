@@ -72,7 +72,7 @@ bas - 够
 baskobol - 篮球  
 batre - 电池  
 bax - 语言  
-baxolojia - 白色  
+baxlojia - 白色  
 bazar - 市场  
 baze - 底部  
 bebe - 宝宝  
@@ -114,9 +114,10 @@ esa - 对
 ewanjil - 福音  
 ##f
 fem - 女  
+filosofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
-fitolojia - 植物学  
+fitelojia - 植物学  
 fora  - 钻孔  
 fotografe - 照片  
 ##g
@@ -178,7 +179,7 @@ kirmi - 红
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
-klimomute - 气候变化  
+klimemute - 气候变化  
 ko - 比  
 ko? - 怎么  
 komputer - 计算机  

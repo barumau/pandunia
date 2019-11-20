@@ -105,7 +105,7 @@ blanc - baki
 blue - nili  
 bombe - bombe  
 bon - bon  
-botanique - fitolojia  
+botanique - fitelojia  
 boue (fange, bourbe, gadoue) - pote  
 bouton - boton  
 brigand (bandit) - luter  
@@ -124,7 +124,7 @@ carte - karte
 cartographie - kartografia  
 centre - jung  
 chambre à coucher - sonkamar  
-changement climatique - klimomute  
+changement climatique - klimemute  
 chapitre - babe  
 chat - maw  
 chemise - kamis  
@@ -317,6 +317,7 @@ perdant - luzer
 perroquet - papagay  
 pet (vesse) - pede  
 peu - xaw  
+philosophie - filosofia  
 photo (photographie) - fotografe  
 photographie - fotografia  
 pile (batterie) - batre  
@@ -338,7 +339,7 @@ problématique - venti
 programme - program  
 projet - projete  
 propriété (possession, bien) - malke  
-psychologie - ruholojia  
+psychologie - ruhelojia  
 psyché - ruhe  
 péter - peda  
 que (comme) - ko  

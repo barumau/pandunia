@@ -174,9 +174,9 @@ baw - magazyn, dziennik, gazeta
 bawer - dziennikarz  
 bax - język; komunikacja  
 baxa - mówić; komunikować  
-baxolojia - językoznastwo  
+baxlojia - językoznastwo  
 bazar - rynek, bazar  
-bazarohuristia - liberalizm rynkowy  
+bazarhuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
 bazi - bazowy, podstawowy  
 bebe - niemowlę  
@@ -393,8 +393,8 @@ dewi - boski
 dewi sage - mit, boska opowieść  
 dewiste - teistyczny  
 dewistia - teizm  
+dewlojia - teologia  
 dewokratia - teokracja  
-dewolojia - teologia  
 dex - kraj, ziemia  
 din - religia, wyznanie  
 ding - kolec  
@@ -440,7 +440,7 @@ dum - ogon
 duman - dym  
 duni - globalny  
 dunia - świat  
-dunobax - język świata, język ogólnoświatowy  
+duniabax - język świata, język ogólnoświatowy  
 dura - trwać, zająć czas; przez  
 dure - trwanie  
 duru - minąć, mijać (czas)  
@@ -452,9 +452,9 @@ e - i, oraz
 ##e
 egal - prawy, sprawiedliwy, słuszny, uczciwy, fair  
 eglis - kościół  
+ekelojia - ekologia (nauka o środowisku)  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
-ekolojia - ekologia (nauka o środowisku)  
 ekran - ekran  
 ekuador - Ekwador  
 eletre - elektryczność  
@@ -557,19 +557,19 @@ filia - zamiłowanie (-filia)
 filipinia - Filipiny  
 filistinia - Terytorium Palestyńskie  
 filme - film  
-filosofer - filozof  
-filosofi - filozoficzny  
 filosofia - filozofia  
+filsofer - filozof  
+filsofi - filozoficzny  
 filter - filtr  
 fin - koniec  
 fina - skończyć, kończyć  
 finge - palec  
-fingowen - pierścień, pierścionek; obrączka  
+fingewen - pierścień, pierścionek; obrączka  
 fini - ostatni, końcowy  
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
-fitolojia - botanika  
+fitelojia - botanika  
 fix - ryba  
 fixotanke - akwarium  
 fizike - fizyka  
@@ -582,8 +582,8 @@ fokusa - skupić, się, skoncentrować się
 foli - szalony  
 folia - szaleństwo  
 fone - głoska  
+fonelojia - fonologia  
 foneme - fonem  
-fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
 fora  - wiercić, borować  
 forke - widelec  
@@ -866,11 +866,11 @@ jamula - rozproszyć, rozpraszać
 jan - wiedza  
 jana - wiedzieć  
 janel - okno  
+janelojia - epistemologia  
 jangal - las, dżungla, zagajnik  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
 jani - wiadomy, znany  
-janolojia - epistemologia  
 jar - dzban, dzbanek; słój, słoik  
 jawaba - odpowiedzieć, odpowiadać  
 jawabe - odpowiedź, odzew  
@@ -1038,8 +1038,8 @@ klara - wyklarować (rozjaśnić)
 klas - klasa, kategoria  
 klasa - klasyfikować, kategoryzować  
 klime - klimat  
-klimolojia - klimatologia  
-klimomute - zmiana klimatu  
+klimelojia - klimatologia  
+klimemute - zmiana klimatu  
 klon - klon, replika  
 klona - klonować, repilikować  
 klor - chlor  
@@ -1766,14 +1766,14 @@ plutonium - pluton
 poke - poker  
 pol - wiele  
 polaw - pilaw  
+poldewistia - politeizm  
+polgon - wielokąt (wielościan)  
 polis - policja  
 poliser - oficer policji, policjant  
 politike - polityka  
+politikelojia - politologia  
 politiker - polityk  
-politikolojia - politologia  
-polodewistia - politeizm  
 polofas - wielościan  
-pologon - wielokąt (wielościan)  
 polon - polon  
 polski - polski  
 polskia - Polska  
@@ -1918,8 +1918,8 @@ roze - róża
 ruandia - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
+ruhelojia - psychologia  
 ruhi - umysłowy (psychiczny)  
-ruholojia - psychologia  
 ruke - placy  
 rukosake - plecak  
 rul - rulon (rolka, zwój)  
@@ -1991,10 +1991,10 @@ samun - połączenie, złącze, styk
 samuna - łączyć, wiązać, złączyć  
 sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke - pudło, skrzynia  
+sanebax - język sztuczny  
 sang - krew  
 sani - sztuczny  
 sania - produkcja  
-sanobax - język sztuczny  
 santi - święty  
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  
@@ -2063,16 +2063,16 @@ sinye - znak, sygnał
 sir - sekret  
 sirke - ocet  
 sis - sześć (6)  
+sisfas - sześcian (kostka)  
+sisgon - sześciokąt (sześciobok)  
 sisme - trzęsienie Ziemi  
-sismolojia - sejsmologia  
-sisofas - sześcian (kostka)  
-sisogon - sześciokąt (sześciobok)  
+sismelojia - sejsmologia  
 sistem - system  
 sistemi - systemowy  
 site - miast, miasteczko  
 skandium - skand  
-slowakia - Słowacja  
-slowenia - Słowenia  
+slovakia - Słowacja  
+slovenia - Słowenia  
 soca - socjalizować się  
 soci - społeczny  
 soci media - media społecznościowe  

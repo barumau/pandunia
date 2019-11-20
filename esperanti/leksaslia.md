@@ -164,7 +164,8 @@
 |festo|feste|por:festa. spa:fiesta. fra:fête. deu:Fest. eng:festival. rus:фестиваль (festival').|
 |feĉo|hamir|ara:(xamīra). hin:ख़मीर (xamīr). tur:hamur. fas:(moxammer). + kor:효모 (hyomo).|
 |fiki|coda|ben:চোদা (coda). hin:चोदना (codnā).|
-|filozofio|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. eng:philosophy. fra:philosophie.|
+|filozofio|filosofia|spa:filosofia. rus:философия (filosofiya). ind:filsafat. ara:(falsafa). swa:falsafa. tur:felsefe. hin:फ़लसफ़ा (falasfā). eng:philosophy. fra:philosophie.|
+|fingro|finge|eng:finger.|
 |fino|fin|spa: fin. fra: fin. por: fim.|
 |fiŝo|fix|eng:fish. deu:Fisch.|
 |fjordo|fiorde|nor:eng:fjord. fra:may:fiord. por:fiorde. spa:fiordo. rus:фьорд (f’ord). jpn:フィヨルド (fiyorudo).|
@@ -502,7 +503,7 @@
 |programo|program|eng:ind:tur:program. fra:programme. por:spa:programa. rus:программа (programma). jpn:プログラム (puroguramu). kor:프로그램 (peurogeuraem). hin:प्रोग्राम (progrām). swa:programu.|
 |promeni (marŝi)|marca|eng:march. fra:marche. spa:marcha. rus:марш (marš).|
 |propra (partiklo de posedo)|da|zho:的 (de).|
-|psikologio|ruholojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
+|psikologio|ruhelojia|tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|
 |pulmo|pulmon|spa:pulmón. fra:poumon. por:pulmão. eng:pulmonic.|
 |pulvo|barude|ara:fas:urd:(bārūd). hin:बारूद (bārūd). pnb:ਬਾਰੂਦ (bārūd). swa:baruti. tur:barut. bul:барут (barut).|
 |punkto|binde|hin:बिंदु (bindu). tha:พินทุ (pintu). eng:bindi (holy dot). rus:бинди (bindi).|

@@ -5,7 +5,7 @@
 
 #### [pandunia](pandunia/index.md) ![](http://pandunia.info/bandir/qpn.png) 🌎🌍🌏
 
-#### [bahasa Melayu](malay/index.md) 🇮🇩 🇲🇾 🇧🇳 🇸🇬
+#### [bahasa Melayu](malayi/index.md) 🇮🇩 🇲🇾 🇧🇳 🇸🇬
 
 #### [English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺 🇳🇿 🇳🇬 🇿🇦 🇬🇭
 
