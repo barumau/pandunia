@@ -9,7 +9,7 @@ a - ale, lecz
 abace - alfabet, abecadło  
 abla - móc, umieć  
 able - możliwość, umiejętność  
-abli - prawdopodobnie, możliwie  
+ablo - prawdopodobnie (możliwie)  
 acinium - aktyn  
 adali - sprawiedliwy  
 adalia - sprawiedliwość  

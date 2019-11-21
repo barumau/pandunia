@@ -290,7 +290,8 @@ dubnio - dubnium
 dubo - dute  
 duŝo - dux  
 ##e
-ebla (eble) - abli  
+ebla - abli  
+eble - ablo  
 eco - gune  
 edzigi - mara  
 egala - egal  

@@ -12,7 +12,8 @@ abentur - seikkailu
 abenturer - seikkailija  
 abla - voida (osata, pystyä)  
 able - taito (kyky)  
-abli - mahdollinen (mahdollisesti, ehkä)  
+abli - mahdollinen  
+ablo - ehkä (mahdollisesti)  
 acinium - aktinium  
 adali - oikeudenmukainen  
 adalia - oikeus  

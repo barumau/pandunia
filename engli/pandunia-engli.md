@@ -12,7 +12,8 @@ abentur - adventure (venture)
 abenturer - adventurer  
 abla - can (know, be able)  
 able - ability (skill)  
-abli - possible (possibly, maybe, perhaps)  
+abli - possible  
+ablo - maybe (perhaps, possibly)  
 acinium - actinium  
 adali - just (fair)  
 adalia - justice  

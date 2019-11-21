@@ -319,6 +319,7 @@ perdant - luzer
 perroquet - papagay  
 pet (vesse) - pede  
 peu - xaw  
+Peut-être - ablo  
 philosophie - filosofia  
 photo (photographie) - fotografe  
 photographie - fotografia  
@@ -332,7 +333,7 @@ plus - max
 pluvieux - barxi  
 pomme - aple  
 porte - porte  
-possible (peut-être) - abli  
+possible - abli  
 possédant (propriétaire) - malker  
 pouvoir (être capable) - abla  
 preuve - dalil  

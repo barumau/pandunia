@@ -224,6 +224,7 @@ Egypti - misria
 egyptiläinen - misri  
 ehdottaa - suja  
 ehdotus - suje  
+ehkä (mahdollisesti) - ablo  
 ei - no  
 ei koskaan (ei kertaakaan) - nol ban  
 ei kukaan - nol ren  
@@ -1180,7 +1181,7 @@ magneetti - magnete
 magneettinen - magneti  
 magnesium - magnes  
 maha (vatsa) - bung  
-mahdollinen (mahdollisesti, ehkä) - abli  
+mahdollinen - abli  
 mahdollisuus (tilaisuus) - canse  
 maissi - mais  
 maistaa - gusta  

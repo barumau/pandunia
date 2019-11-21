@@ -12,7 +12,8 @@ abentur - aventuro
 abenturer - aventuristo  
 abla - povi  
 able - povo  
-abli - ebla (eble)  
+abli - ebla  
+ablo - eble  
 acinium - aktinio  
 adali - justa  
 adalia - justeco  

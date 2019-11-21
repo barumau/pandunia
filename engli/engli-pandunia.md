@@ -1423,6 +1423,7 @@ maximal - maximi
 maximum - maxime  
 May - mes 5 (mes lim)  
 Maya - mayan  
+maybe (perhaps, possibly) - ablo  
 Mayotte - mayotia  
 mean (cruel) - zalim  
 mean (signify) - mena  
@@ -1866,7 +1867,7 @@ portion (dose) - doze
 Portugal - portugalia  
 pose (position) - poze  
 pose (set) - poza  
-possible (possibly, maybe, perhaps) - abli  
+possible - abli  
 post office - postokan  
 postal stamp - postocape  
 posture (asana) - asan  

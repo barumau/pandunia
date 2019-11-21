@@ -935,7 +935,7 @@ They function like adjectives and adverbs, so typically their place is before th
 – I had cats.  
 **a me no zay tena maw.**
 – But I now don't have cats.  
-**abli me wil tena maw.**
+**ablo me wil tena maw.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **sa pase** (in the past) etc.
@@ -944,7 +944,7 @@ It's also possible to say it in a longer way like **sa pase** (in the past) etc.
 – I had cats in the past.  
 **a me no tena maw sa zaye.**
 – But I don't have cats at present.  
-**abli me tena maw sa wile.**
+**ablo me tena maw sa wile.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

@@ -1567,7 +1567,7 @@ praktyka, aktualność - prate
 pralka - waxomaxin  
 prawa autorskie - kopohake  
 prawa strona - raite  
-prawdopodobnie, możliwie - abli  
+prawdopodobnie (możliwie) - ablo  
 prawdziwy (rzeczywisty, szczery) - veri  
 prawicowiec (prawak) - raitiste  
 prawo - kanun  

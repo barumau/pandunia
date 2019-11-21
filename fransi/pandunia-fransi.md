@@ -10,7 +10,8 @@ abentur - aventure
 abenturer - aventurier  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
-abli - possible (peut-être)  
+abli - possible  
+ablo - Peut-être  
 acinium - actinium  
 adali - juste  
 adalia - justice  
