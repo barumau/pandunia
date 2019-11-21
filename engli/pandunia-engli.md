@@ -528,6 +528,7 @@ eske - question
 eski - interrogative  
 eskulta - sculpt  
 eskulte - sculpture (statue)  
+eskulter - sculptor  
 eskultia - sculpture (art of sculpting)  
 espania - Spain  
 esperanti - Esperanto  
@@ -1037,6 +1038,8 @@ kanjar - dagger
 kanokex - eyelash  
 kanon - gun (cannon)  
 kanoner - cannoneer  
+kansuy - tear drop  
+kansuygas - tear gas  
 kante - shoulder  
 kanuh - canoe  
 kanun - law  
@@ -1046,8 +1049,9 @@ kar - car (cart, carriage, wagon, automobile)
 karaoke - karaoke  
 karate - karate  
 karawe - caraway  
+karbi - near (close)  
 karbon - carbon (coal)  
-karbonodulokside - carbon dioxide  
+karbondulokside - carbon dioxide  
 karbu - approach (get near)  
 karde - card  
 karibia - Caribbean  
@@ -1261,6 +1265,9 @@ lasun - garlic
 latini abace - Latin alphabet  
 latwia - Latvia  
 laurensium - lawrencium  
+lawi - old (aged, elderly)  
+lawmame - grandmother  
+lawpape - grandfather  
 laxa - release (let, let go)  
 laya - come  
 lazanye - lasagna  
@@ -1534,6 +1541,7 @@ misia - mission (transmission, emission)
 miskin - poor (miserable)  
 misri - Egyptian  
 misria - Egypt  
+mita - meet  
 mite - meeting (gathering)  
 mixa - mix (blend)  
 mixer - mixer (blender)  
@@ -1618,11 +1626,13 @@ naijiria - Nigeria
 nam - name  
 namibia - Namibia  
 namisa - call (name)  
+namlekse - noun  
 namu - be called (be named)  
 nanas - pineapple  
 nano - nano-  
 nanometre - nanometer  
 narake - hell  
+nas - people (folk)  
 nasi - national  
 nasi socistia - national socialism  
 nasia - nation  
@@ -1656,6 +1666,7 @@ niama - consume (eat or drink)
 niami - delicious (yummy)  
 niamkamar - dining room  
 nica - under (go under)  
+nice - underside (underneath)  
 nici - lower  
 nida - need  
 nide - need  
@@ -2183,6 +2194,7 @@ serpe - snake (serpent)
 serwa - serve (give service)  
 serwe - service  
 serwer - servant  
+serye - series (sequence)  
 sesam - sesame  
 sexel da nesia - Seychelles  
 si - yes  
@@ -2229,6 +2241,7 @@ sociste - socialist
 socistia - socialism  
 sofi - wise  
 sofia - wisdom  
+soke - sock (stocking)  
 sol - sun  
 solestas - solstice  
 solocate - parasol  
@@ -2357,6 +2370,7 @@ tenu - belong
 teoria - theory  
 tepe - tape  
 terbium - terbium  
+terme - temperature  
 termemeter - thermometer  
 tero- - tera-  
 teror - terror  
@@ -2587,6 +2601,7 @@ xin - belief (faith, creed)
 xina - believe  
 xindawistia - Shintoism  
 xing - star  
+xir - poem  
 xirer - poet  
 xirope - syrup  
 xite - shit (feces)  
@@ -2649,7 +2664,7 @@ zarduxistia - Zoroastrianism
 zari - random  
 zay - present (current, existing)  
 zay den - today  
-zaye - "present time (now)  
+zaye - present time (now)  
 zayia - presence (existence)  
 zayu - exist (be present)  
 ze - self  
@@ -2673,6 +2688,7 @@ ziran - cumin (jeera)
 zirkonium - zirconium  
 ziza - sizzle  
 zombe - zombie  
+zone - belt (zone)  
 zukam - cold (illness)  
 zuluh - Zulu  
 zumrude - emerald  

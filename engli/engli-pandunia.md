@@ -1,5 +1,4 @@
 # engli-pandunia
-"present time (now) - zaye  
 -ness (-ity) - -es  
 @ symbol - adresesimbol (@)  
 a couple of - dul u tin  
@@ -241,6 +240,7 @@ Belize - belizia
 belly (abdomen) - bung  
 belong (be a member) - memba  
 belong - tenu  
+belt (zone) - zone  
 bench - bence  
 beneficial (good) - ewi  
 Bengali (Bangla) - bangli  
@@ -377,7 +377,7 @@ carat - kirate
 caravan (convoy) - karwan  
 caraway - karawe  
 carbon (coal) - karbon  
-carbon dioxide - karbonodulokside  
+carbon dioxide - karbondulokside  
 card - karde  
 care (cure) - kura  
 Caribbean - karibia  
@@ -965,6 +965,8 @@ grain (seed) - dan
 gram - gram  
 grammar - baxkanun  
 grammatical - baxkanuni  
+grandfather - lawpape  
+grandmother - lawmame  
 grape - putaw  
 grapheme - grafem  
 graphic (pictorial) - grafi  
@@ -1433,6 +1435,7 @@ medicine (field of study) - medikia
 meditate (ponder) - medita  
 medium (intermediate, mean) - medi  
 medium (media) - media  
+meet - mita  
 meeting (gathering) - mite  
 mega- - mego-  
 megawat (MW) - megowate  
@@ -1557,6 +1560,7 @@ nationalist - nasiste
 Nauru - nauru  
 Nazi - naciste  
 Nazism - nacistia  
+near (close) - karbi  
 necessary (needed) - nidi  
 need - nida  
 need - nide  
@@ -1615,6 +1619,7 @@ notebook - notobuke
 nothing - nol xey  
 notice (notification) - notis  
 notify - notisa  
+noun - namlekse  
 November - mes 11 (mes des un)  
 nudism - nudistia  
 nudist - nudiste  
@@ -1637,6 +1642,7 @@ oganesson - oganeson
 ogre (troll, goblin) - guy  
 oh! - o  
 okay (acceptable) - okey  
+old (aged, elderly) - lawi  
 old (ancient) - purani  
 olive - zaitun  
 Oman - omania  
@@ -1751,6 +1757,7 @@ penis (phallus) - penis
 pentagon - limogon  
 pentahedron (prism) - limofas  
 peony - mudan  
+people (folk) - nas  
 people (population) - deme  
 pepper (Piper nigrum) - pimente  
 perfect - kamili  
@@ -1824,6 +1831,7 @@ plug (stop with a plug) - tapa
 Pluto (dwarf planet) - pluto  
 plutonium - plutonium  
 pocket - jebe  
+poem - xir  
 poet - xirer  
 point (full stop) - punte  
 point at (indicate) - ponta  
@@ -1879,6 +1887,7 @@ pregnant - hamili
 prepare (make ready) - reda  
 presence (existence) - zayia  
 present (current, existing) - zay  
+present time (now) - zaye  
 preserve (conserve, retain, spare) - hafiza  
 president - prezidente  
 press (imprint) - capa  
@@ -2100,6 +2109,7 @@ scissors - makas
 screen - ekran  
 screw - lose  
 sculpt - eskulta  
+sculptor - eskulter  
 sculpture (art of sculpting) - eskultia  
 sculpture (statue) - eskulte  
 sea - samude  
@@ -2124,6 +2134,7 @@ sense - sense
 sentence (phrase) - fraze  
 September - mes 9 (mes naw)  
 Serbia - serbia  
+series (sequence) - serye  
 servant - serwer  
 serve (give service) - serwa  
 service - serwe  
@@ -2200,6 +2211,7 @@ socialism - socistia
 socialist - sociste  
 socialize (interact) - soca  
 society (association) - socia  
+sock (stocking) - soke  
 sodium - natre  
 sofa (couch) - kanape  
 soft - komal  
@@ -2359,6 +2371,8 @@ tea cup - cayokupe
 tea house - cayeria  
 teacher - darsogur  
 team - tim  
+tear drop - kansuy  
+tear gas - kansuygas  
 technetium - teknetium  
 technique (technology) - tekne  
 technocracy - tenknekratia  
@@ -2368,6 +2382,7 @@ television - telowide
 tell (narrate) - saga  
 tellurium - telurium  
 Telugu - telugi  
+temperature - terme  
 temple - mandir  
 tempt (entice) - tenta  
 ten (10) - des  
@@ -2499,6 +2514,7 @@ unambiguous - unmeni
 uncover (reveal) - dekula  
 under (go under) - nica  
 undergo (passivizing verb) - beyu  
+underside (underneath) - nice  
 understand (realize) - aha  
 union - unia  
 unite - una  

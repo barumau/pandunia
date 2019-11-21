@@ -159,6 +159,7 @@
 |mur|wal|eng:wall. rus:вал (val). por:valo.|
 |mât|maste|eng:deu:mast. hin:मस्तूल (mastūl). jpn:マスト (masuto). rus:мачта (mačta). pol:maszt. por:mastro. spa:mástil.|
 |mémoire|mem|eng:memory. fra:mémoire. spa:memoria. por:memória.|
+|nation|nasia|ara:(nās). + eng:fra:nation. deu:Nazion. por:nação. spa:nación. pol:nacja. rus:нация (natsiya).|
 |neige|him|hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).|
 |niche|nixe|fra:eng:niche. por:nicho. rus:ниша (niša).|
 |noir|cerni|rus:чёрный (čornyy). pol:czarny.|
@@ -226,6 +227,7 @@
 |Satan|xatan|ara:(šayṭān). hin:शैतान (śaitān). tur:şeytan. fas:(šaytān). swa:Shetani. eng:fra:deu:vie:Satan. spa:Satán. por:Satã. rus:Сатана (Satana). zho:撒但 (Sādàn). tha:ซาตาน (satan). kor:사탄 (satan). jpn:サタン (satan). ind:Setan.|
 |sauce|sos|eng:fra:sauce. rus:соус (sous). hin:सॉस (sos). deu:Soße. vie:xốt. jpn:ソース (sōsu). that:ซอส (soot). kor:소스 (soseu). ind:saus.|
 |saucisse|sosis|fra:saucisse. tur:ind:sosis. fas:(sosis). rus:сосиска  (sosiska). jpn:ソーセージ (sosēji). hin:सॉसेज (sosej). ben:সসেজ (sôsej). eng:sausage.|
+|sculpteur|eskulter|spa:por:escultor. fra:sculpteur. eng:sculptor. rus:скульптор (skulptor).|
 |sel|sal|por:spa:sal. eng:salt. rus:соль (solʹ).|
 |sexe|sekse|eng:sex. fra:sexe. spa:por:sexo.|
 |shopping|xope|eng:fra:spa:shopping. jpn:ショッピング (shoppingu). kor:쇼핑 (syoping). tha:ชอปปิ้ง (chop-bing). rus:шоппинг (šopping). zho:血拼 (xuèpīn).|
@@ -236,6 +238,7 @@
 |suffixe pour l'adjectif|-i|ara:(-i). fas:(-i). hin:-ई (-ī). ben:-ই (-i). eng:-y. jpn:-i. hun:-i.|
 |suffixe pour les verbes avec ordre des mots OVS|-u|hau:wol:-u. swa:-wa.|
 |sujet (thème)|teme|fra: thème. spa: tema. rus: тема (tema). deu:Thema.|
+|série|serye|tur:seri. fra:série. spa:serie. rus:серия (seriya). eng:series. zho:系列 (xìliè).|
 |table|meze|por:spa:mesa. hin:मेज़ (mez). swa:meza. ind:meja. tam:மேசை (mesei). fas: میز‏‎ (miz). tur:masa.|
 |tarte|pay|eng:pie. spa:pay. ind:pai. hin:पाई (pāī). urd:(pāī). ben:পাই (pai). jpn:パイ (pai). kor:파이 (pai). zho:排 (pái). yue:批 (pai1). fas:(pây).|
 |technique|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
@@ -255,6 +258,7 @@
 |vert|lugi|zho:绿 (lǜ). yue:綠 (luk6). vie:lục. kor:록/녹 (rok/nok). jpn: 緑色 (ryokushoku).|
 |ver|verme|eng:worm. por:verme. fra:ver. deu:Wurm.|
 |viande|manse|hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.|
+|vieux (âgé, ancien)|lawi|zho:老 (lǎo). vie:lão.|
 |vie|hay|ara:حياة‎ (ḥaya). swa:uhai. hin:हयात (hayāt). Ind:hayat.|
 |virus|virus|eng:virus. rus:вирус (virus).|
 |vite (rapide)|rapido|spa:por:rápido. eng:rapid. fra:rapide.|
@@ -264,6 +268,7 @@
 |vulve|vulve|fra:vulve. eng:por:spa:tur:vulva. rus:вульва (vul’va).|
 |végétarien|vejeniamiste|eng:vegetarian. fra:végétarien. por:spa:vegetariano. rus:вегетарианец  (vegetarianets). tur:vejetaryen. jpn:ベジタリアン (bejitarian).|
 |zombi|zombe|kon:nzambi. Por:zumbi. eng:zombi. ind:zombi. hin:ज़ोंबी (zombī).|
+|zone|zone|ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona).|
 |âge|umur|ara:عُمْر‎ (ʿumr). hin:उमर (umar). ind:umur. swa:umri.|
 |écriture|kitabe|ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).|
 |électricité|eletre|por:eletricidade. ita:elettricità. eng:electricity. rus:электричество (električestvo). fra:électricité. spa:electricidad. tur:elektrik.|

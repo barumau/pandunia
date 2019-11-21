@@ -167,7 +167,8 @@ kamis - 衬衫
 kanape - 沙发  
 kance - 玻璃  
 kande - 糖果  
-karbonodulokside - 二氧化碳  
+kansuygas - 催泪瓦斯  
+karbondulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
 kartografia - 地图学  
@@ -191,6 +192,7 @@ kube - 立方体
 kupe - 杯子  
 ##l
 laskeria - 军队  
+lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  
 le - 他，她，它  
@@ -235,6 +237,8 @@ metaljanger - 铁匠
 mey - 每  
 meze - 桌子  
 migra - 搬家  
+mita - 聚会  
+mite - 会议  
 moke - 木材  
 mokojanger - 木匠  
 mome - 我们  
@@ -310,6 +314,7 @@ sapate - 鞋
 sar - 头  
 sekse - 性别  
 selelojia - 细胞学  
+serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  
 sol - 太阳  
@@ -370,6 +375,7 @@ xatan - 撒但
 xaw - 少  
 xey - 事物 (东西)  
 xim - 心  
+xir - 诗  
 xite - 粪 (屎)  
 xofa - 开车  
 xofer - 司机  

@@ -148,6 +148,7 @@ biust - buste
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
 bić, uderzyć, uderzać - darba  
+bliski - karbi  
 blog - bloge  
 blokować, hamować - barya  
 bogaty - rici  
@@ -360,7 +361,7 @@ dusza, duch, umysł - ruhe
 duży - day  
 dwa (2) - dul  
 dwukrotnie (dwa razy) - dul ban  
-dwutlenek węgla - karbonodulokside  
+dwutlenek węgla - karbondulokside  
 dym - duman  
 dyrektor szkoły - darsoxef  
 dysk - diske  
@@ -942,6 +943,7 @@ lub, albo - o
 lubić - fila  
 lubić, cieszyć się - suku  
 lud, społeczeństwo - deme  
+ludzie (lud, ludność) - nas  
 ludzkość, rodzaj ludzki - insania  
 Luksemburg - luksemburgia  
 lustro - mirer  
@@ -1220,6 +1222,7 @@ norweski - norgi
 nos - nos  
 nosić ubrania - fuka  
 nosorożec - faru  
+notatka, memo - memnote  
 notatnik - notobuke  
 notować, obserwować, zauważyć, zauważać - nota  
 Nowa Kaledonia - novi kaledonia  
@@ -1364,6 +1367,7 @@ parking - karoparke
 partia - partia  
 Partia Piratów - piratisti partia  
 parę - dul u tin  
+pas, strefa - zone  
 paskal (Pa) - paskal  
 pasować - maca  
 pasta - paste  
@@ -1470,6 +1474,7 @@ poduszka - kusen
 podwójny (dwójkowy) - duli  
 podążać - bada  
 podłoga - kamartal  
+poemat - xir  
 poeta - xirer  
 pogoda - tenke  
 pogrubiona litera - grosi harfe  
@@ -1768,10 +1773,12 @@ ryzyko - riske
 ryzykowny - riski  
 ryż - arize  
 rzecz - xey  
+rzeczownik - namlekse  
 rzeka - nade  
 rzemieślnik - janger  
 rzeźba - eskulte  
 rzeźbiarstwo - eskultia  
+rzeźbiarz - eskulter  
 rzeźbić - eskulta  
 rzodkiewka - lobake  
 rzucić, rzucać, miotać, cisnąć, ciskać - lanca  
@@ -1817,6 +1824,7 @@ Senegal - senegalia
 ser - cis  
 Serbia - serbia  
 serce - xim  
+seria, szereg - serye  
 Seszele - sexel da nesia  
 sezam - sesam  
 shintoizm, sintoizm - xindawistia  
@@ -1841,6 +1849,7 @@ siła - fortia
 siła, autorytet, władza - sultan  
 skand - skandium  
 skarb; skrabiec - hazin  
+skarpeta, skarpetka, pończocha - soke  
 skoczyć, skakać - jampa  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - niama  
 skończyć, kończyć - fina  
@@ -1877,6 +1886,7 @@ spodnie, pantalony, portki - pantalon
 spokojny - xanti  
 sport, lekkoatletyka - kel  
 spotkanie, zebranie - mite  
+spotkać - mita  
 spowodować, powodować - saba  
 społeczeństwo, system społeczny - socia  
 społeczny - soci  
@@ -1888,6 +1898,7 @@ sprawić ból, sprawiać ból - paxa
 sprzeciwiać się (opierać się) - anta  
 sprzątacz, sprzątacz - safer  
 spróbować, próbować - testa  
+spód - nice  
 spódnica - jupe  
 spółgłoska - konson  
 spłonąć, płonąć - piru  
@@ -2033,6 +2044,7 @@ telewizja - telowide
 tellur - telurium  
 telugu - telugi  
 temat, motyw - teme  
+temperatura - terme  
 ten konkretny - ye  
 ten, te - yi  
 tendencja - ive  
@@ -2041,6 +2053,7 @@ tenis - tenis
 teokracja - dewokratia  
 teologia - dewlojia  
 teoria - teoria  
+teraźniejszość, współczesność (teraz) - zaye  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
 termometr - termemeter  
@@ -2456,6 +2469,7 @@ zły, zrujnowany, zepsuty - harabi
 łazienka - banyekamar  
 łańcuch - silsil  
 łyżka - camce  
+łza - kansuy  
 łódź, statek - bote  
 łóżko - bede  
 łączyć, wiązać, złączyć - samuna  

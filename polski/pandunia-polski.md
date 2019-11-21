@@ -480,6 +480,7 @@ eske - pytanie
 eski - pytajny, związany z pytaniem  
 eskulta - rzeźbić  
 eskulte - rzeźba  
+eskulter - rzeźbiarz  
 eskultia - rzeźbiarstwo  
 espania - Hiszpania  
 esperanti - Esperanto  
@@ -957,6 +958,7 @@ kangur - kangur
 kanjar - sztylet (puginał)  
 kanon - działo  
 kanoner - kanonier  
+kansuy - łza  
 kante - bark (ramię)  
 kanuh - kanoe  
 kanun - prawo  
@@ -966,8 +968,9 @@ kar - wóz, wózek
 karaoke - karaoke  
 karate - karate  
 karawe - kminek  
+karbi - bliski  
 karbon - węgiel  
-karbonodulokside - dwutlenek węgla  
+karbondulokside - dwutlenek węgla  
 karde - karta  
 karibia - Karaiby  
 karite - masłosz Parka  
@@ -1361,6 +1364,7 @@ mem - pamięć
 mema - pamiętać  
 memba - należeć (być członkiem)  
 member - członek  
+memnote - notatka, memo  
 mena - znaczyć  
 mene - znaczenie  
 mente - rada, porada  
@@ -1424,6 +1428,7 @@ misia - misja
 miskin - biedny, mizerny  
 misri - egipski  
 misria - Egipt  
+mita - spotkać  
 mite - spotkanie, zebranie  
 mixa - miksować, mieszać  
 mixer - mikser, blender, robot kuchenny  
@@ -1503,11 +1508,13 @@ naijiria - Nigeria
 nam - imię, nazwa  
 namibia - Namibia  
 namisa - nazwać, nazywać, wezwać, wzywać  
+namlekse - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 nanas - ananans  
 nano - nano-  
 nanometre - nanometr  
 narake - piekło  
+nas - ludzie (lud, ludność)  
 nasi - narodowy (ludowy)  
 nasi socistia - narodowy socjalizm  
 nasia - naród, narodowość  
@@ -1537,6 +1544,7 @@ niama - skonsumować, konsumować, zjeść, jeść, wypić, pić)
 niami - pyszny  
 niamkamar - jadalnia  
 nica - pod, poniżej; iść w dół, iść pod spód, iść na dno  
+nice - spód  
 nici - poniższy  
 nida - potrzebować  
 nidi - potrzebny  
@@ -2038,6 +2046,7 @@ serpe - wąż
 serwa - służyć  
 serwe - służba  
 serwer - sługa  
+serye - seria, szereg  
 sesam - sezam  
 sexel da nesia - Seszele  
 si - tak  
@@ -2081,6 +2090,7 @@ sociste - socjalista
 socistia - socjalizm  
 sofi - mądry  
 sofia - mądrość  
+soke - skarpeta, skarpetka, pończocha  
 sol - słońce  
 solestas - przesilenie  
 solomon da nesia - Wyspy Salomona  
@@ -2203,6 +2213,7 @@ tenu - należeć
 teoria - teoria  
 tepe - taśma  
 terbium - terb  
+terme - temperatura  
 termemeter - termometr  
 teror - terror  
 teroriste - terrorysta  
@@ -2413,6 +2424,7 @@ xin - wiara, wierzenie, kredo
 xina - wierzyć  
 xindawistia - shintoizm, sintoizm  
 xing - gwiazda  
+xir - poemat  
 xirer - poeta  
 xirope - syrop  
 xix - ćsi  
@@ -2472,6 +2484,7 @@ zarduxistia - zaratusztrianizm
 zari - losowy  
 zay - obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zay den - dziś, dzisiaj  
+zaye - teraźniejszość, współczesność (teraz)  
 zayia - teraźniejszość, współczesność  
 zayu - istnieć (być obecnym)  
 ze - sam, siebie  
@@ -2494,6 +2507,7 @@ ziran - kumin, kmin
 zirkonium - cyrkon  
 ziza - skwierczeć  
 zombe - zombie, zombi  
+zone - pas, strefa  
 zukam - przeziębienie, katar  
 zuluh - zulu  
 zumrude - szmaragd  

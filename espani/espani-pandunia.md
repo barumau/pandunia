@@ -13,6 +13,7 @@ altar - altar
 aló - halow  
 amande - badam  
 anaranjado - oranji  
+anciano - lawi  
 ancla - anker  
 animal (bestia) - hewan  
 análisis - analis  
@@ -70,6 +71,7 @@ chinelo (pantufa) - babuce
 ciclista - sikliste  
 cielo - saman  
 cima (pico, cumbre, vértice) - pike  
+cinturón (zona) - zone  
 citología - selelojia  
 colocar (poner) - loka  
 color - rang  
@@ -110,11 +112,13 @@ embarazado (preñado) - hamili
 empanadilla (pelmeni) - pelmen  
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
+encontrar - mita  
 equipaje - bagaje  
 error - galte  
 erróneo - galti  
 escribir - kitaba  
 escritura - kitabe  
+escultor - eskulter  
 eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
@@ -133,6 +137,7 @@ fragmento - parce
 fuego - pir  
 ##g
 gas - gas  
+gas lacrimógeno - kansuygas  
 gato - maw  
 gengibre - zinje  
 guitarra - gitar  
@@ -217,6 +222,7 @@ mástil - maste
 máximo - maxime  
 médio - medi  
 ##n
+nación - nasia  
 naranja - oranje  
 necesario - nidi  
 necesidad - nide  
@@ -292,6 +298,7 @@ química - kimia
 raiz - rize  
 raza - ras  
 recto - orti  
+reunión (junta, mitin) - mite  
 rima - rim  
 rodilla - gute  
 rojo - kirmi  
@@ -308,6 +315,7 @@ sapato - sapate
 Satanás - xatan  
 ser (estar) - esa  
 ser humano - insan  
+serie - serye  
 sexo - sekse  
 sin - na  
 soldado - lasker  

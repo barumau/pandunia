@@ -85,6 +85,7 @@
 |behavior (manners)|manir|fra:manière. eng:manner. rus:манера (manyera). jpn:マナー (manā). spa:manera. por:maneira. deu:Manieren. scr:manir.|
 |belief (faith, creed)|xin|zho:信 (xìn). yue:信 (seon3). jpn:信 (shin). vie:tin.|
 |belly (abdomen)|bung|vie:bụng. khm:ពុង (pung). tha:พุง (pung).|
+|belt (zone)|zone|ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona).|
 |bench|bence|eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤치 (benchi).|
 |beneficial (good)|ewi|eng:fra:spa:por:eu-.|
 |beret|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
@@ -535,6 +536,7 @@
 |measurement|mete|eng:meter. hin:मात्रा (mātrā). ben:মাত্রা (matra). ind:matra.|
 |meat (flesh)|manse|hin:मांस (māns). urd:(māns). ben:মাংস (maŋs). tel:(māṃsamu). rus:мясо (myaso). pol:mięso.|
 |medium (intermediate, mean)|medi|spa:medio. eng:medium. hin:माद्धयम (mādhyam).|
+|meeting (gathering)|mite|eng:meet. fra:meeting. spa:mitin. jpn:ミーティング (mītingu). hin:मीटिंग (mīṭiṅg).|
 |memory (recollection)|mem|eng:memory. fra:mémoire. spa:memoria. por:memória.|
 |message|anjil|ell:ἀγγελία (angelía). ara:(ʾinjīl). swa:injili. ind:injil. tur:incil. hin:इंजील (iñjīl). rus:евангелие (evangeliye). fra:évangile. por:evangelho.|
 |middle (center)|jung|zho:中 (zhōng). yue:中 (zung). kor:중 (jung). jpn:中 (chuu-).|
@@ -568,7 +570,9 @@
 |must|bixu|zho:必须 (bìxū).|
 |nail (spike)|ding|zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|
 |name|nam|hin:नाम (nām). fas:pnb:urd:(nām). tha:นาม (naam). ind:nama. deu:eng:name. jpn:名前 (namae). fra:nom.|
+|nation|nasia|ara:(nās). + eng:fra:nation. deu:Nazion. por:nação. spa:nación. pol:nacja. rus:нация (natsiya).|
 |Nazi|naciste|rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.|
+|near (close)|karbi|ara:fas:urd:(qarīb). swa:karibu. tur:takribi.|
 |needle (pin)|pin|eng:pin. jpn:ピン (pin). kor:핀 (pin). hin:पिन (pin).|
 |need|nida|eng: need.|
 |net|nete|eng: net. deu: Netz.|
@@ -584,6 +588,7 @@
 |nostalgia (longing)|nostalgia|eng:por:spa:nostalgia. fra:nostalgie. deu:Nostalgie. rus:ностальгия (nostalʹgiya). jpn:ノスタルジー (nosutarujī). fas:(nostâlži).|
 |not (no)|no|eng:spa:no. fra:non. por:não. ben:না (na). rus:не (nye). hin:नहीं (nahī̃). kor:아니 (ani). jpn:-ない (-nai).|
 |note (observation, remark, comment)|note|deu:eng:fra:note. spa:por:nota. tur:not. jpn:ノート (nōto). kor:노트 (noteu). fas:(not).|
+|noun|namlekse|zho:名词 (míngcí). yue:名詞 (ming4 ci4). jpn:名詞 (meishi). kor:명사 (myeongsa). hin:नाम (nām). fra:nom. spa:nombre. por:nome. rus:имя (imya). ara:(ism). per:(esm). swa:nomino.|
 |number|nume|deu:Nummer. eng:number. tur:numara. fra:numéro.|
 |oasis|wase|ara:(wāḥa). tur:vaha. fas:(vāhe). spa:oasis.|
 |ocean|daysamude|vie:đại dương. kor:대양 (daeyang). jpn:大洋 (taiyō). zho:大洋 (dàyáng). tha:มหาสมุทร (mahasamut). hin:महासागर (mahāsāgar).|
@@ -591,6 +596,7 @@
 |of (particle of possession)|du|fra:de,du. por:de,do,da. pas:د‎ (də). arm:דְּ‎ (də).|
 |often (frequently)|cang|zho:常 (cáng).|
 |ogre (troll, goblin)|guy|zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).|
+|old (aged, elderly)|lawi|zho:老 (lǎo). vie:lão.|
 |old (ancient)|purani|hin:पुराना (purānā). urd:(purānā). ben:পুৰণা (puron). pnb:ਪੁਰਾਣਾ (purāṇā).|
 |olive|zaitun|ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).|
 |onion|piaze|kaz:kir:пияз (piyaz). tgk:пиёз (piyoz). fas:urd:پیاز (piaz). hin:प्याज (pyaz). ben:পেঁয়াজ (peadz). kur:pîvaz.|
@@ -654,6 +660,7 @@
 |plant (vegetation)|fite|eng:phyto-, -phyte. deu:fra:phyto-. spa:por:fito-. rus:фито- (fito-).|
 |pliers (pincers)|pinser|eng:pincers. fra:pinces. tur:pense. jpn:ペンチ (penchi).|
 |pocket|jebe|hin:जेब (jeb). pnb:ਜੇਬ (jeb). urd:(jeb). tel:(jēbu). ara:(jayb). tur:cep. wol:jiba.|
+|poem|xir|heb:שיר (šir). ara:(šiʿr). tur:şiir. fas:(še'r). swa:shairi. zho:诗 (shī). yue:詩 (si1). jpn:詩 (shi). kor:시 (shi).|
 |point (full stop)|punte|spa:punto. rus:пункт (punkt). eng:point.|
 |point at (indicate)|ponta|eng:point. por:apontar. spa:apuntar. fra:pointer.|
 |poker|poke|eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).|
@@ -748,11 +755,13 @@
 |science (study, research)|lojia|eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.|
 |scissors|makas|ara:(maqaṣ). tur:makas. swa:mkasi. orm:maqasii. hau:almakashi. yor:àlùmogàjí. scr:makaze.|
 |screw|lose|zho:螺丝 (luòsī). yue:螺絲 (lo4 si1).|
+|sculptor|eskulter|spa:por:escultor. fra:sculpteur. eng:sculptor. rus:скульптор (skulptor).|
 |search|serca|eng:search. fra:chercher.|
 |season|mosim|hin:urd:(mOsam). ind:musim. ara:(mawsim). tur:mevsim. swa:msimu.|
 |sea|samude|khm:សមុទ្រ (saʾmot). tha:สมุทร (samut). hin:समुद्र (samudra). urd:(samandar). ind:samudra. ben:সমুদ্র (sômudr). guj:સમુદ્ર (samudra). tel:సముద్రము (samudramu). mya:သမုဒ္ဒရာ (samuddara).|
 |self|tan|hin:mar:तन (tan). fas:urd:(tan). taj:тан (tan). tha:ตน (ton). vie:thân. yue:親 (can3).|
 |self|ze|zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.|
+|series (sequence)|serye|tur:seri. fra:série. spa:serie. rus:серия (seriya). eng:series. zho:系列 (xìliè).|
 |service|serwe|eng:fra:service. por:serviço. rus:сервис (servis). tur:servis. hin:(sevâ).|
 |sesame|sesam|tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).|
 |seven (7)|sem|rus:семь (semʹ).|
@@ -789,6 +798,7 @@
 |snow|him|hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).|
 |soap|sabun|ara:(ṣābūn). tur:sabun. swa:sabuni. hin:साबुन (sābun). por:sabão. spa:jabón. fra:savon.|
 |society (association)|socia|rus:социум (socium). eng:society. spa:sociedad.|
+|sock (stocking)|soke|deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). rus:носок (nosok).|
 |sofa (couch)|kanape|fra:por:spa:canapé. deu:Kanapee. rus:канапе (kanape). tur:kanepe. fas:(kânâpe). ara:(kanaba).|
 |soil (dirt)|darte|eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.|
 |soldier|lasker|tur:asker. may:uzb:askar. swa:askari. ara:(ʿaskariy). bul:аскер (asker). + fas:(laškar). urd:(laśkar). hin:लष्कर (laśkar). guj:લશ્કર (laśkar). ind:laskar.|
@@ -854,8 +864,10 @@
 |tape|tepe|eng:tape. swa:tepu. jpn:(tēpu). tur:teyp.|
 |tattoo|tataw|sam:tah:tatau. haw:kākau. ind:tato. eng:tattoo. fra:tatouage. spa:tatuaje. rus:тату (tatu).|
 |tax (fee, fare)|takse|eng:tax. por:taxa. spa:tasa. hin:टैक्स (ṭEks).|
+|tear drop|kansuy|tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.|
 |tea|cay|zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).|
 |technique (technology)|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
+|temperature|terme|deu:eng:fra:thermo-. spa:por:termo-. rus:термо- (termo-).|
 |ten (10)|des|por:dez. spa:diez. fra:dix. rus:десять (desyat'). pol:dziesięć. hin:दस (das). urd:(das). ben:দশ (dôś). + eng:deci-. ind:desi-. jpn:デシ- (deshi). deu:dezi-.|
 |tendency(inclination)|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |tent|haime|ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah. may:khemah. mng:майхан (mayhan).|
@@ -902,6 +914,7 @@
 |two (2)|dul|kor:둘 (dul). ben:দুই (dui). ind:dua. + eng:fra:por:spa:dual.|
 |ugly|mal rupi|zho:难看 (nánkàn). hin:बदसूरत (badsūrat).|
 |undergo (passivizing verb)|beyu|zho:被 (bèi).|
+|underside (underneath)|nice|ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).|
 |understand (realize)|aha|rus:ага (aha). kor: 아하 (aha). eng: uh-huh. pol:aha.|
 |use (employ, apply)|uza|eng:use. spa:usar. pol:używać.|
 |use (utility, benefit, gain, advantage)|faide|ara:(fāʾida). tur:fayda.|

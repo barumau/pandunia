@@ -519,6 +519,7 @@ eske - kysymys
 eski - kysyvä  
 eskulta - veistää kuvaa  
 eskulte - veistos (patsas)  
+eskulter - kuvanveistäjä  
 eskultia - kuvanveisto  
 espania - Espanja  
 esperanti - esperanto  
@@ -1027,6 +1028,7 @@ kanjar - tikari
 kanokex - silmäripsi  
 kanon - tykki (pyssy)  
 kanoner - tykkimies  
+kansuy - kyynel  
 kante - olkapää (hartia)  
 kanuh - kanootti  
 kanun - laki  
@@ -1036,8 +1038,9 @@ kar - kärry (vaunu, auto, jne)
 karaoke - karaoke  
 karate - karate  
 karawe - kumina  
+karbi - läheinen  
 karbon - hiili  
-karbonodulokside - hiilidioksidi  
+karbondulokside - hiilidioksidi  
 karbu - lähestyä  
 karde - kortti  
 karibia - Karibia  
@@ -1453,6 +1456,7 @@ mem - muisti
 mema - muistaa  
 memba - kuulua (olla jäsenenä)  
 member - jäsen (osatekijä, komponentti)  
+memnote - muistio (muistiinmerkintä)  
 memula - unohtaa  
 mena - merkitä (tarkoittaa)  
 mene - merkitys  
@@ -1518,6 +1522,7 @@ misia - lähetys
 miskin - kurja (raukka)  
 misri - egyptiläinen  
 misria - Egypti  
+mita - tavata  
 mite - tapaaminen (kokous)  
 mixa - sekoittaa  
 mixer - sekoitin  
@@ -1598,11 +1603,13 @@ naijiria - Nigeria
 nam - nimi  
 namibia - Namibia  
 namisa - nimittää (kutsua)  
+namlekse - substantiivi (nimisana)  
 namu - olla nimeltään  
 nanas - ananas  
 nano - nano-  
 nanometre - nanometri  
 narake - helvetti  
+nas - kansa  
 nasi - kansallinen  
 nasi socistia - kansallissosialismi  
 nasia - kansakunta  
@@ -1636,6 +1643,7 @@ niama - nauttia (syödä, juoda)
 niami - herkullinen (nami)  
 niamkamar - ruokasali  
 nica - alittaa (alla)  
+nice - alapuoli  
 nici - ala-  
 nida - tarvita  
 nidi - tarpeellinen  
@@ -2097,6 +2105,7 @@ samoray - yhteisymmärrys
 samoraya - olla samaa mieltä  
 samude - meri  
 samudelaskeria - merivoimat  
+samudi - meri- (merellinen)  
 samun - yhdistys (sidos)  
 samuna - yhdistää  
 sana - tehdä (valmistaa)  
@@ -2143,6 +2152,7 @@ serpe - käärme
 serwa - palvella (tarjoilla)  
 serwe - palvelu (palvelus)  
 serwer - palvelija (tarjoilija)  
+serye - sarja  
 sesam - seesami  
 sexel da nesia - Seychellit  
 si - kyllä  
@@ -2188,6 +2198,7 @@ sociste - sosialisti
 socistia - sosialismi  
 sofi - viisas  
 sofia - viisaus  
+soke - sukka  
 sol - aurinko  
 solestas - päivänseisaus  
 solocate - aurinkovarjo  
@@ -2305,6 +2316,7 @@ tenta - houkutella
 tenu - kuulua (olla jkn hallussa)  
 teoria - teoria  
 tepe - teippi (nauha)  
+terme - lämpötila  
 termemeter - lämpömittari  
 tero- - tera-  
 teror - kauhu (terrori)  
@@ -2396,8 +2408,8 @@ urdi - urdu
 urdunia - Jordania  
 urse - karhu  
 uruguayia - Uruguai  
-usameriki - "yhdysvaltalainen (""amerikkalainen"")"  
-usamerikia - "Yhdysvallat (""Amerikka"")"  
+usameriki - yhdysvaltalainen (ns. Amerikkalainen)  
+usamerikia - Yhdysvallat (ns. Amerikka)  
 uza - käyttää  
 uzbekia - Uzbekistan  
 uzer - käyttäjä  
@@ -2526,6 +2538,7 @@ xin - usko (luottamus)
 xina - uskoa (luottaa)  
 xindawistia - sintolaisuus  
 xing - tähti  
+xir - runo  
 xirer - runoilija  
 xirope - siirappi  
 xite - paska (sonta)  
@@ -2569,6 +2582,7 @@ yoga - joogata
 yoge - jooga  
 yohani feste - juhannus (kristillinen juhla)  
 yote - pisara (tippa)  
+yuke - jade  
 yumor - huumori  
 yumori - koominen (hauska)  
 yumoriste - humoristi  
@@ -2586,6 +2600,7 @@ zarduxistia - zarathustralaisuus
 zari - sattumanvarainen  
 zay - kuluva (tämänhetkinen)  
 zay den - tänään  
+zaye - tämä hetki (nyt)  
 zayia - läsnäolo  
 zayu - olla olemassa  
 ze - itse  
@@ -2609,6 +2624,7 @@ ziran - juustokumina (jeera)
 zirkonium - zirkonium  
 ziza - sihistä  
 zombe - zombi  
+zone - vyö  
 zukam - vilustuminen  
 zuluh - zulu  
 zumrude - smaragdi  

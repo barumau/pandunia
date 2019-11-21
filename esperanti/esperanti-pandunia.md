@@ -587,6 +587,7 @@ iu - koy
 iu ajn - eni  
 iu persono - koy ren  
 ##j
+jado - yuke  
 jako - jake  
 jam (esti farita) - lew  
 Jamajko - jamaikia  
@@ -634,7 +635,7 @@ kapro - buze
 kapti - kapa  
 karateo - karate  
 karavano - karwan  
-karbona dioksido - karbonodulokside  
+karbona dioksido - karbondulokside  
 karbono - karbon  
 Karibio - karibia  
 karoto - karote  
@@ -852,6 +853,7 @@ maniero (konduto) - manir
 mano - hate  
 manĝi (trinki) - niama  
 manĝoĉambro - niamkamar  
+mara - samudi  
 maratono - maraton  
 margarino - margarin  
 marmoro - marmar  
@@ -983,6 +985,7 @@ noto (rimarko, komento) - note
 nova - novi  
 novaĵoj - habar  
 nudelo - mien  
+nuno - zaye  
 nur - mon  
 ##o
 oazo - wase  
@@ -1095,6 +1098,7 @@ plumo - per
 plutonio - plutonium  
 pluva - barxi  
 pluvo - barxe  
+poemo - xir  
 pokero - poke  
 poligono - polgon  
 politika - politiki  
@@ -1131,6 +1135,7 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
+proksima - karbi  
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  
@@ -1260,6 +1265,7 @@ sen - na
 senti - senta  
 sep (7) - sem  
 Serbio - serbia  
+serio - serye  
 serpento - serpe  
 sezono - mosim  
 seĝo - kurse  
@@ -1278,6 +1284,7 @@ skandio - skandium
 skatolo (kesto) - sanduke  
 skribo - kitabe  
 skulti - eskulta  
+skultisto - eskulter  
 smeraldo - zumrude  
 sofo - kanape  
 soldato - lasker  
@@ -1300,6 +1307,7 @@ stiri - gida
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
+substantivo - namlekse  
 Sudkoreio - hangogia  
 sudo - sude  
 sufiĉa - bas  
@@ -1486,6 +1494,7 @@ zebro - zebre
 zingibro - zinje  
 zinko - zinke  
 zirkonio - zirkonium  
+zono - zone  
 zoo (bestoĝardeno) - hewanoparke  
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
@@ -1545,6 +1554,7 @@ zuluo - zuluh
 ŝtelo - core  
 ŝtono - petre  
 ŝtormo - tafun  
+ŝtrumpo - soke  
 ŝtuparo - eskal  
 ŝuistejo - sapateria  
 ŝuisto - sapater  

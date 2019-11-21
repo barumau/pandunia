@@ -395,6 +395,7 @@ eske - demando
 eski - demanda  
 eskulta - skulti  
 eskulte - statuo (skultaĵo)  
+eskulter - skultisto  
 espania - Hispanio  
 esperanti - Esperanto  
 estadia - stadiono (areno)  
@@ -756,8 +757,9 @@ kapa - kapti
 kar - aŭto (ĉaro)  
 karate - karateo  
 karawe - karvio  
+karbi - proksima  
 karbon - karbono  
-karbonodulokside - karbona dioksido  
+karbondulokside - karbona dioksido  
 karde - karto  
 karibia - Karibio  
 karma - agi  
@@ -1038,6 +1040,7 @@ nagri - urba
 naijiria - Niĝerio  
 nam - nomo  
 namibia - Namibio  
+namlekse - substantivo  
 nanas - ananaso  
 natre - natrio  
 nawati - naūatla  
@@ -1280,6 +1283,7 @@ samojinsokami - samseksema
 samoray - interkonsento  
 samoraya - samopinii (interkonsenti)  
 samude - maro  
+samudi - mara  
 sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
 sanebax - artefarita lingvo  
@@ -1304,6 +1308,7 @@ serbia - Serbio
 serebre - cerbo  
 seres - Cereso  
 serpe - serpento  
+serye - serio  
 si - jes  
 sida - sidi  
 sifolekse - adjektivo  
@@ -1322,6 +1327,7 @@ site - urbego
 skandium - skandio  
 sofi - saĝa  
 sofia - saga  
+soke - ŝtrumpo  
 sol - suno  
 solocate - sunombrelo  
 solosistem - sunsistemo  
@@ -1500,6 +1506,7 @@ xim - koro
 xin - kredo  
 xina - kreda  
 xing - stelo  
+xir - poemo  
 xirope - siropo  
 xite - merdo  
 xixi - silenta  
@@ -1522,6 +1529,7 @@ yesus - Jesuo
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  
+yuke - jado  
 yumor - humuro  
 yumori - humura  
 yumoriste - humuristo  
@@ -1537,6 +1545,7 @@ zarduxistia - zoroastrismo
 zari - hazarda  
 zay - ĉeestanta (nuna, ekzistanta)  
 zay den - hodiaŭ  
+zaye - nuno  
 zayia - ĉeestanteco (ekzisto)  
 ze - si  
 zebre - zebro  
@@ -1548,5 +1557,6 @@ zinje - zingibro
 zinke - zinko  
 ziran - kumino  
 zirkonium - zirkonio  
+zone - zono  
 zuluh - zuluo  
 zumrude - smeraldo  

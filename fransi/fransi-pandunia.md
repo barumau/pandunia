@@ -158,7 +158,7 @@ destin (destination) - destin
 deux - dul  
 diamant - almas  
 dieu - dew  
-dioxyde de carbone - karbonodulokside  
+dioxyde de carbone - karbondulokside  
 dirigeant (leader) - lider  
 domestique - domi  
 dommage - damaje  
@@ -188,6 +188,7 @@ fromage blanc - panir
 féliciter - barka  
 ##g
 gaz - gas  
+gaz lacrymogène - kansuygas  
 genou - gute  
 genre (espèc) - jinse  
 gingembre - zinje  
@@ -266,6 +267,7 @@ mur - wal
 mât - maste  
 mémoire - mem  
 ##n
+nation - nasia  
 neige - him  
 neurone - neuresel  
 niche - nixe  
@@ -365,6 +367,7 @@ sang - sang
 Satan - xatan  
 sauce - sos  
 saucisse - sosis  
+sculpteur - eskulter  
 se baigner - banyu  
 se rappeler (se remémorer) - mema  
 sel - sal  
@@ -379,6 +382,7 @@ suffixe pour l'adjectif - -i
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - teme  
+série - serye  
 ##t
 table - meze  
 tarte - pay  
@@ -418,6 +422,7 @@ verre - kance
 vert - lugi  
 viande - manse  
 vie - hay  
+vieux (âgé, ancien) - lawi  
 virus - virus  
 vite (rapide) - rapido  
 vivre (habiter) - domu  
@@ -433,6 +438,7 @@ végétarien - vejeniamiste
 ##y
 ##z
 zombi - zombe  
+zone - zone  
 zoo - hewanoparke  
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
@@ -455,4 +461,3 @@ zèbre - zebre
 éveillé - weki  
 être - esa  
 être humain - insan  
-пояс (зона) - "  

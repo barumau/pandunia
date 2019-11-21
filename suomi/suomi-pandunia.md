@@ -1,6 +1,4 @@
 # suomi-pandunia
-"Yhdysvallat (""Amerikka"")" - usamerikia  
-"yhdysvaltalainen (""amerikkalainen"")" - usameriki  
 -n (oma) - da  
 -us (-uus) - -es  
 ##a
@@ -47,6 +45,7 @@ ala (pinta-ala) - are
 ala- - nici  
 Alankomaat (Hollanti) - nederlandia  
 Alankomaiden Antillit - nederlandi antilia  
+alapuoli - nice  
 alaston (paljas, naku) - nudi  
 Albania - cipia  
 algebra - jebria  
@@ -407,7 +406,7 @@ hiekka - rege
 hieno (hienojakoinen) - fain  
 hieronta - masaje  
 hiili - karbon  
-hiilidioksidi - karbonodulokside  
+hiilidioksidi - karbondulokside  
 hiiri - mux  
 hiiva - hamir  
 hiki - suede  
@@ -564,6 +563,7 @@ itämainen lohikäärme - rong
 Itävalta - osteria  
 ##j
 ja - e  
+jade - yuke  
 jainalaisuus - jeinistia  
 jakaa (jaella) - fada  
 jakaa (paloitella) - fena  
@@ -688,6 +688,7 @@ kannabis (marihuana, hamppu) - ganje
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jar  
 kanootti - kanuh  
+kansa - nas  
 kansakunta - nasia  
 kansallinen - nasi  
 kansallissosialismi - nasi socistia  
@@ -964,6 +965,7 @@ kuutio - kube
 kuvaileva (määrittelevä) - sifi  
 kuvakirja - grafobuke  
 kuvanveisto - eskultia  
+kuvanveistäjä - eskulter  
 kuvaruutu - ekran  
 kuvitella - fantaza  
 Kuwait - kuwaitia  
@@ -984,6 +986,7 @@ kyrilliset aakkoset - kirili abace
 kysymys - eske  
 kysyvä - eski  
 kysyä - eska  
+kyynel - kansuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
 kärry (vaunu, auto, jne) - kar  
@@ -1131,6 +1134,7 @@ lymfa - limfe
 lypsää maitoa - tira milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
+läheinen - karbi  
 lähestyä - karbu  
 lähettiläs - daixer  
 lähettäjä (lähetin) - miser  
@@ -1140,6 +1144,7 @@ lähetystö - daixeria
 lähtien (-sta, -lta) - ca  
 lämmin - garmi  
 lämpömittari - termemeter  
+lämpötila - terme  
 länsi - weste  
 läntinen - westi  
 läpikulku - transe  
@@ -1245,6 +1250,7 @@ mennyt - pas
 mennä - gowa  
 menopaluulippu - retretikete  
 meri - samude  
+meri- (merellinen) - samudi  
 merirosvo (piraatti) - pirater  
 merirosvous - piratia  
 merivoimat - samudelaskeria  
@@ -1320,6 +1326,7 @@ muinainen Egypti - kemia
 muistaa - mema  
 muisti - mem  
 muistikirja - notobuke  
+muistio (muistiinmerkintä) - memnote  
 mukava (kiva, miellyttävä) - kuxi  
 muna - ande  
 munakoiso - bedinjan  
@@ -1865,6 +1872,7 @@ rukoilla - duwa
 rukous - duwe  
 ruma (pahannäköinen) - mal rupi  
 rumpu - tambur  
+runo - xir  
 runoilija - xirer  
 ruoho - gras  
 ruoka - niam  
@@ -1918,6 +1926,7 @@ sanomalehti - habarobaw
 Sao Tome ja Principe - santi tome i prinsipe  
 sapatti - sabate  
 sarana - xarnir  
+sarja - serye  
 sarjakuva - kartun  
 sarvi - korne  
 sarvikuono - faru  
@@ -2042,10 +2051,12 @@ Sri Lanka - lankia
 stadioni (areena) - estadia  
 strontium - estrontium  
 suahili - suahili  
+substantiivi (nimisana) - namlekse  
 Sudan - sudania  
 sudenkorento - libel  
 suhde (yhteys) - guanxe  
 suihku - dux  
+sukka - soke  
 suklaa - cokol  
 suklaapatukka - cokolobaton  
 sukunimi - familonam  
@@ -2178,6 +2189,7 @@ taulukko - table
 taulukoida - tabla  
 tavallinen - adi  
 tavanomainen (perinteinen) - rasmi  
+tavata - mita  
 te - tote  
 tee - cay  
 teehuone (kahvila) - cayeria  
@@ -2323,6 +2335,7 @@ työskennellä - werka
 tähti - xing  
 tämä (nämä) - yi  
 tämä - ye  
+tämä hetki (nyt) - zaye  
 tänään - zay den  
 täplä (läiskä) - binde  
 tärkeä - hami  
@@ -2539,6 +2552,7 @@ vuosi - nen
 vuosijuhla - nenofeste  
 vuotaa - lowa  
 vuotaa verta - lowa sang  
+vyö - zone  
 väestö (kansa) - deme  
 väestötiede (demografia) - demografia  
 vähemmistö - minoria  
@@ -2567,6 +2581,8 @@ yhdeksän - naw
 yhdistys (sidos) - samun  
 yhdistää - samuna  
 yhdistää - una  
+Yhdysvallat (ns. Amerikka) - usamerikia  
+yhdysvaltalainen (ns. Amerikkalainen) - usameriki  
 yhteinen - komun  
 yhteiskunnallinen (sosiaalinen) - soci  
 yhteisymmärrys - samoray  

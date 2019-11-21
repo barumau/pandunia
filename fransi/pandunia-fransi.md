@@ -1,5 +1,4 @@
 # pandunia-fransi
-" - пояс (зона)  
 -a - suffixe pour les verbes avec ordre des mots SVO  
 -e - suffixe pour dériver les noms  
 -i - suffixe pour l'adjectif  
@@ -155,6 +154,7 @@ dunia - monde
 eletre - électricité  
 em - unité fondamentale  
 esa - être  
+eskulter - sculpteur  
 europe - Europe  
 europi - européen  
 ewanjil - évangile  
@@ -212,7 +212,8 @@ kamar - pièce (chambre)
 kamis - chemise  
 kanape - canapé (sofa)  
 kance - verre  
-karbonodulokside - dioxyde de carbone  
+kansuygas - gaz lacrymogène  
+karbondulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
 kartografia - cartographie  
@@ -238,6 +239,7 @@ kupe - coupe (tasse, verre)
 ##l
 lasker - soldat  
 laskeria - armée  
+lawi - vieux (âgé, ancien)  
 lazanye - lasagne  
 leksaslia - étymologie  
 lekse - mot  
@@ -292,6 +294,7 @@ milke - lait
 mome - nous  
 ##n
 nade - rivière (fleuve)  
+nasia - nation  
 neuresel - neurone  
 nida - avoir besoin de  
 nide - besoin  
@@ -370,6 +373,7 @@ sanwice - sandwich
 sar - tête  
 sekse - sexe  
 selelojia - cytologie  
+serye - série  
 si - oui  
 sikle - bicyclette  
 sikliste - cycliste  
@@ -454,5 +458,6 @@ zime - hiver
 zimi - hivernal (hibernal)  
 zinje - gingembre  
 zombe - zombi  
+zone - zone  
 zuluh - zoulou  
 zumrude - émeraude  
