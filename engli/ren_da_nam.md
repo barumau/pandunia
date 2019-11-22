@@ -38,16 +38,16 @@ widely used for girls or boys.
 **benyam** : Benjamin, Benny  
 **boris** : Boris  
 **daniel** : Daniel, Danny, Daniil  
-**dawide** : Dadid, Davido  
+**davide** : Dadid, Davido  
 **denis** : Dennis, Denise, Deniz  
 **dimitre** : Dmitry  
 **dipake** : Deepak  
 **donalde** : Donald, Donaldo  
-**edwarde** : Edward, Eduardo, Eduard  
+**eduarde** : Edward, Eduardo, Eduard  
 **emil** : Emil, Emilio, Emilia  
 **erike** : Eric, Erik, Erkki  
 **estefan** : Stephen, Steven, Stephanie, Esteban, Stepan  
-**ewah** : Eve, Eva  
+**evah** : Eve, Eva  
 **fatim** : Fatima  
 **federike** : Frederic, Fredrick, Friedrich, Federico  
 **filipe** : Philip, Philipe, Felipe  
@@ -66,6 +66,7 @@ widely used for girls or boys.
 **ixan** : Ishaan  
 **jafar** : Jafar  
 **jamal** : Jamal, Jamaal  
+**jastin** : Justin, Justine, Justinian  
 **jorje** : George, Giorgi, Jorje  
 **kabir** : Kabir  
 **karim** : Karim, Kareem, Kerem  
@@ -116,10 +117,10 @@ widely used for girls or boys.
 **sidarte** : Siddhartha  
 **tania** : Tanya  
 **tomas** : Thomas, Tomaso, Tom, Tommy  
-**waleria** : Valery, Valeria  
-**walade** : Vlad, Vladimir, Waldemar  
-**witor** : Victor, Victoria, Viktor  
-**wijay** : Vijay  
+**valeria** : Valery, Valeria  
+**valade** : Vlad, Vladimir, Waldemar  
+**vitor** : Victor, Victoria, Viktor  
+**vijay** : Vijay  
 **yakobe** : Jacob, Yakub, Jakub, Yakov  
 **yesuh** : Jesus, Yesu, Isa  
 **yohan** : John, Joan, Johan, Johannes, Juan, Giovanni, Ivan  
