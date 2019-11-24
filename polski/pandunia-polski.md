@@ -9,6 +9,7 @@ a - ale, lecz
 abace - alfabet, abecadło  
 abla - móc, umieć  
 able - możliwość, umiejętność  
+abli - możliwy  
 ablo - prawdopodobnie (możliwie)  
 acinium - aktyn  
 adali - sprawiedliwy  
@@ -145,7 +146,7 @@ banye - kąpiel
 banyekamar - łazienka  
 banyu - kąpać się  
 banze - deska  
-banzogem - gra planszowa  
+banzegem - gra planszowa  
 bar - waga (ciężkość)  
 barbados - Barbados  
 barbar - barbarzyńca  
@@ -269,9 +270,8 @@ burge - zamek, forteca, twierdza
 burkinia - Burkina Faso  
 bus - autobus, autokar  
 buste - biust  
-butan - Bhutan  
 buton - klawisz, przycisk, przełącznik  
-butonobanze - klawiatura  
+butonbanze - klawiatura  
 buy - baobab  
 buze - koza  
 ##c
@@ -425,6 +425,7 @@ doxi - winny
 doze - porcja, dawka  
 drame - dramat  
 droge - narkotyk  
+drugia - Bhutan  
 du - z (partykuła posiadania)  
 dubnium - dubn  
 duga - czytać  
@@ -627,6 +628,7 @@ gabunia - Gabon
 gade - osioł  
 gadolinium - gadolin  
 gaje - słoń  
+galaksia - galaktyka  
 galeria - galeria, sala wystawowa  
 galium - gal  
 gam - emocja, uczucie  
@@ -993,11 +995,11 @@ kaxer - kasjer
 kay - otwarty, niezamknięty  
 kaya - otworzyć, otwierać  
 kayu - otworzyć się, otwierać się  
-kazahia - Kazachstan  
+kazakia - Kazachstan  
 ke - co?  
 kecape - keczup  
 keci - uprzejmy  
-keiman da nesia - Kajmany  
+keiman nesia - Kajmany  
 keke - ciasto, ciastko  
 kel - sport, lekkoatletyka  
 kelele - atleta, sportowiec  
@@ -1055,7 +1057,7 @@ koda - kodować
 kode - kod, szyfr  
 koke - koka  
 kokode - kura, kogut, kurczak  
-kokos da nesia - Wyspy Kokosowe  
+kokos nesia - Wyspy Kokosowe  
 kola - kola, napój gazowany  
 koler - cholera  
 kolombia - Kolumbia  
@@ -1134,7 +1136,7 @@ kube - sześcian
 kubia - Kuba  
 kuga - płakać, łkać  
 kuka - gotować, szykować jedzenie  
-kuke da nesia - Wyspy Cooka  
+kuke nesia - Wyspy Cooka  
 kuker - kucharz  
 kukeria - kuchnia  
 kul - świetny  
@@ -1241,6 +1243,7 @@ lugi - zielony
 luksemburgia - Luksemburg  
 lul - perła  
 lun - księżyc  
+lung - orientalny smok  
 lusun - szparag; szparagia  
 luta - obrabować, splądrować  
 luter - rabuś (grabieżca)  
@@ -1278,13 +1281,13 @@ malaisia - Malezja
 malaria - malaria  
 malawia - Malawi  
 malayali - malajski  
-malbinas da nesia - Falklandy, Malwiny  
 malia - Mali  
 malike - jaśmin  
 malka - mieć (posiadać)  
 malke - własność (mienie)  
 malker - właściciel (posiadacz)  
 maltia - Malta  
+malvinas nesia - Falklandy, Malwiny  
 mamal - ssak  
 mame - matka, mama  
 man - męski  
@@ -1309,7 +1312,7 @@ marca - iść, maszerować
 margarin - margaryna  
 mari - ożeniony, zamężny, w związku małżeńskim  
 maria - małżeństwo, związek małżeński  
-marian da nesia - Mariany Północne  
+marian nesia - Mariany Północne  
 marka - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 marmar - marmur  
@@ -1438,7 +1441,7 @@ moge - tusz
 moke - drewno  
 mokojanger - stolarz  
 mola - zemleć, mleć, mielić  
-moldowia - Mołdawia  
+moldovia - Mołdawia  
 moler - młynarz  
 molidenum - molibden  
 moluske - mięczak (morski bezkręgowiec)  
@@ -1914,7 +1917,6 @@ romansi - romantyczny
 romansia - miłość romantyczna  
 rome - Rzym  
 romi empiria - Imperium Rzymskie  
-rong - orientalny smok  
 rose - rosa  
 rosta - piec  
 rosti pang - tost  
@@ -1980,10 +1982,10 @@ salam sube - dobry ranek
 salam xam - dobry wieczór  
 salama - pozdrowić, pozdrawiać  
 salame - pozdrowienie  
-salbadoria - Salwador  
 sali - słony  
 salima - poddać się, poddawać się  
 salonia - Sierra Leone  
+salvadoria - Salwador  
 sam - taki sam  
 saman - niebo  
 samani - niebieski, niebiański, podniebny  
@@ -2048,7 +2050,7 @@ serwe - służba
 serwer - sługa  
 serye - seria, szereg  
 sesam - sezam  
-sexel da nesia - Seszele  
+sexel nesia - Seszele  
 si - tak  
 sibir - Syberia  
 sida - siedzieć  
@@ -2092,9 +2094,9 @@ sofi - mądry
 sofia - mądrość  
 soke - skarpeta, skarpetka, pończocha  
 sol - słońce  
+solesistem - układ słoneczny  
 solestas - przesilenie  
-solomon da nesia - Wyspy Salomona  
-solosistem - układ słoneczny  
+solomon nesia - Wyspy Salomona  
 somalia - Somalia  
 son - sen  
 sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
@@ -2107,7 +2109,7 @@ sosis - kiełbasa
 sotia - Lesotho  
 suahili - suahili  
 suan - kwaśny  
-suazia - Suazi  
+suatia - Suazi  
 sube - ranek, rano, poranek  
 suboden - przedpołudnie  
 suboniam - śniadanie  
@@ -2354,7 +2356,7 @@ wada - obiecać, angażować się
 waf - pies  
 wakila - reprezentować  
 wal - mur, ściana  
-walis i futun da nesia - Saint Vincent i Grenadyny  
+walis i futun nesia - Saint Vincent i Grenadyny  
 walpapir - tapeta  
 wana - chcieć, pragnąć  
 war - dzień tygodnia  
@@ -2447,7 +2449,7 @@ xuti - umiejętny (wprawny)
 xuxe - zostawić, zostawiać  
 ##y
 yaga - oszacować, szacować, przybliżyć, przybliżać  
-yagi - około; przybliżony  
+yago - około; przybliżony  
 yake - jak (zwierzę)  
 yala - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 yang - rodzaj, typ, styl  

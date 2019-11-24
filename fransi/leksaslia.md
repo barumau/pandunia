@@ -95,6 +95,7 @@
 |données|date|eng:ind:data. vie:đa ta. deu:Daten. spa:tgl:datos. por:dados. fas:(dâde-hâ). hin:डेटा (ḍeṭā). urd:(ḍeṭā). jpn:データ (dēta).|
 |drapeau|bandir|eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|
 |droit (rectiligne)|orti|eng:fra:ortho-. spa:por:orto-. rus:орто- (orto-).|
+|dur|gati|tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|
 |enfant|bace|fas:(bačče). urd:(baccā). hin:बच्चा (baccā). guj: બચ્ચું (baccũ). tgl: bata.|
 |faire|fata|ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.|
 |faute (erreur)|galte|ara:(ğalṭa). hin:ग़लती (ġaltī). urd:(ġalatī). fas:(ğalat). tur:galat.|
@@ -109,6 +110,7 @@
 |fromage blanc|panir|hin:पनीर (panīr). pnb:ਪਨੀਰ (panīr). ben:পনির (pônir). tur:peynir. eng:paneer.:|
 |fromage|cis|eng: cheese. zho: 起司 (qǐsī). swa: chizi. jpn:チーズ (chīzu). kor:치즈 (chijeu).|
 |féliciter|barka|hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubarika.|
+|gazelle|gazel|ara:(ḡazāl). eng:fra:gazelle. rus:газель (gazel'). jpn:ガゼル (gazeru).|
 |gaz|gas|deu:eng:spa:ind:gas. por:gás. ben:গ্যাস (gyas). jpn:ガス (gasu). kor:가스 (gaseu). hin:गैस (gais). fra:tur:gaz. rus:газ (gaz). ara:(ḡāz).|
 |genou|gute|swa:goti. guj:ઘૂંટણ (ghū̃ṭaṇ). Hin:घुटना (ghuṭnā). mar:गुडघा (guḍghā).|
 |genre (espèc)|jinse|ara:urd:(jins). fas:(jens). swa:jinsi. tur:cins. por:gênero. eng:gender.|

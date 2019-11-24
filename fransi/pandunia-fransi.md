@@ -168,10 +168,13 @@ fora  - forer (percer)
 fotografe - photo (photographie)  
 fotografia - photographie  
 ##g
+galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
 gar - si  
 gas - gaz  
+gati - dur  
+gazel - gazelle  
 gitar - guitare  
 gol - but  
 gul - goule  

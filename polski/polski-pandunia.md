@@ -132,7 +132,7 @@ beryl - beril
 beton - beton  
 bez - na  
 bezpieczny - sekur  
-Bhutan - butan  
+Bhutan - drugia  
 Białoruś - belorusia  
 biały - baki  
 Biblia - biblia  
@@ -436,7 +436,7 @@ ewangelia - ewanjil
 ##f
 fabryka, manufaktura - fateria  
 fajka - pipe  
-Falklandy, Malwiny - malbinas da nesia  
+Falklandy, Malwiny - malvinas nesia  
 fantastyczny, fantazyjny - fantazi  
 fantazja (wyobrażenie, wyobraźnia) - fantaze  
 fascynacja - fasin  
@@ -481,6 +481,7 @@ funt (£) - paunde
 Gabon - gabunia  
 gadolin - gadolinium  
 gal - galium  
+galaktyka - galaksia  
 galeria, sala wystawowa - galeria  
 Gambia - gambia  
 Ganges - ganga  
@@ -513,7 +514,7 @@ gorączka - febre
 gotować, szykować jedzenie - kuka  
 gotowy - redi  
 gra - gem  
-gra planszowa - banzogem  
+gra planszowa - banzegem  
 gracki, helleński; Grek - helen  
 gracz - gemer  
 grafem - grafem  
@@ -700,7 +701,7 @@ językoznastwo - baxlojia
 kabina, budka - kabin  
 kaczka - bate  
 kadm - kadomium  
-Kajmany - keiman da nesia  
+Kajmany - keiman nesia  
 kakao - kakaw  
 kalif - halif  
 kalifat - halifia  
@@ -734,7 +735,7 @@ Katalonia - katalunia
 Katar - kataria  
 kawa - kafe  
 kawiarnia - kaferia  
-Kazachstan - kazahia  
+Kazachstan - kazakia  
 każdy człowiek, wszyscy - pan ren  
 każdy, wszyscy - mey  
 kebab - kababe  
@@ -754,7 +755,7 @@ klasa, kategoria - klas
 klasyfikować, kategoryzować - klasa  
 klatka - kafas  
 klatka piersiowa - sinokase  
-klawiatura - butonobanze  
+klawiatura - butonbanze  
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
 klimat - klime  
@@ -987,7 +988,7 @@ marathi - marati
 maraton - maraton  
 marchew - karote  
 margaryna - margarin  
-Mariany Północne - marian da nesia  
+Mariany Północne - marian nesia  
 marmur - marmar  
 Maroko - magribia  
 Mars - marse  
@@ -1104,9 +1105,10 @@ motocykl (motor) - motosikle
 motyl - pelpel  
 mowa; słowo - loge  
 Mozambik - mozambikia  
-Mołdawia - moldowia  
+Mołdawia - moldovia  
 może - samude  
 możliwość, umiejętność - able  
+możliwy - abli  
 mrówka - maye  
 mucha - zeze  
 mumia - mumia  
@@ -1286,7 +1288,7 @@ ojciec - pape
 okej, spoko, akceptowalny - okey  
 okno - janel  
 oko - kan  
-około; przybliżony - yagi  
+około; przybliżony - yago  
 okrągły - cirki  
 oliwka - zaitun  
 Oman - omania  
@@ -1303,7 +1305,7 @@ opowiedzieć, opowiadać - saga
 oprócz, minus - minus  
 opłata, taryfa - tarif  
 orgazm - orgazme  
-orientalny smok - rong  
+orientalny smok - lung  
 orija - odisi  
 Oromia - oromia  
 oromo - oromi  
@@ -1796,8 +1798,8 @@ ręka, dłoń - hate
 ##s
 Saint Lucia - santi lusia  
 Saint Vincent and Grenadines - vinsente i grenadin  
-Saint Vincent i Grenadyny - walis i futun da nesia  
-Salwador - salbadoria  
+Saint Vincent i Grenadyny - walis i futun nesia  
+Salwador - salvadoria  
 sam, osobiście - tan  
 sam, siebie - ze  
 samar - samarium  
@@ -1825,7 +1827,7 @@ ser - cis
 Serbia - serbia  
 serce - xim  
 seria, szereg - serye  
-Seszele - sexel da nesia  
+Seszele - sexel nesia  
 sezam - sesam  
 shintoizm, sintoizm - xindawistia  
 siarka - sulfe  
@@ -1932,7 +1934,7 @@ stół - meze
 stłuc się (rozpaść się na kawałki) - parca  
 stłuczony (pęknięty) - parci  
 suahili - suahili  
-Suazi - suazia  
+Suazi - suatia  
 suchy - gan  
 Sudan - sudania  
 Sudan Południowy - sudi sudania  
@@ -2134,7 +2136,7 @@ ugotować się, gotować się - bulu
 Ukraina - ukrainia  
 ukraść, kraść - cora  
 ukształtować, kształtować, urzeźbić, rzeźbić - forma  
-układ słoneczny - solosistem  
+układ słoneczny - solesistem  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - jangi  
@@ -2312,11 +2314,11 @@ wysoki - gawi
 wyspa - nes  
 Wyspa Man - maninia  
 Wyspy Alandzkie - olandia  
-Wyspy Cooka - kuke da nesia  
+Wyspy Cooka - kuke nesia  
 Wyspy Dziewicze USA - usameriki wirjin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy - sudi jorjia i sudi sanwice nesia  
-Wyspy Kokosowe - kokos da nesia  
-Wyspy Salomona - solomon da nesia  
+Wyspy Kokosowe - kokos nesia  
+Wyspy Salomona - solomon nesia  
 Wyspy Świętego Tomasza i Książęca - santi tome i prinsipe  
 wystarczający - bas  
 wysłać (wyemitować) - misa  

@@ -344,7 +344,7 @@
 |logiko|logike|eng:logic. spa:por:lógica. rus:логика (logika). zho:逻辑 (luóji).|
 |loko|loke|eng:location. spa:lugar. fra:localisation. + deu:tur:lokal. pol:lokalny.|
 |longa|long|eng:fra:long. deu:lang. Por:longo.|
-|ludo|gem|eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
+|ludo|gem|eng:game. tha:เกม (geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
 |lumo|nur|ara:fas:(nūr). swa:nuru. taj:uzb:нур (nur).|
 |luno|lun|fra:lune. spa:luna. eng:lunar. rus:луна (luná).|
 |lupo|wolfe|deu:ned:eng:wolf. rus:волк (volk).|
@@ -354,6 +354,7 @@
 |malfideleco|zine|ara:(zināʾ). ind:tur:zina. swa:zinaa. urd:(zinā). fas:(zenā).|
 |malgranda|lil|eng:little.|
 |mallonga|korti|spa:corto. rus:короткий (korotkiy). por:curto. fra:court. deu:kurz. eng:short.|
+|malmola|gati|tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|
 |malmulte|xaw|zho:少 (shǎo). yue:少 (siu2). jpn:少 (shō). kor:소 (so).|
 |malnova|purani|hin:पुराना (purānā). urd:(purānā). ben:পুৰণা (puron). pnb:ਪੁਰਾਣਾ (purāṇā).|
 |malplena|hali|ben:খালি (khali). hin:ख़ाली (xālī). tel:ఖాళీ (khāḷī) tam:(kali). urd:(xālī). fas:(xāli). ara:(xāliy). jpn:空 (kara).|
@@ -620,6 +621,7 @@
 |teo|cay|zho: 茶 (chá). jpn: (cha). tur:çay. swa:chai. rus:чай (čay). hin:चाय (cāy). ara:(šāy).|
 |terpomo|patate|fra:patate. spa:patata. por:batata. tur:patates. ara:(baṭāṭis). eng:potato. tgl:patatas.|
 |testo|teste|eng:fra:test. rus: тест (test). por:teste. tur:test.|
+|Tibeto|podia|tib:བོད (bod, phØ).|
 |tigro|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
 |tiri|tira|spa:por:tirar. fra:tirer. eng:tear. tur:tire.|
 |tiu|wi|hin:वह (wo). ben:ওই (oi).|

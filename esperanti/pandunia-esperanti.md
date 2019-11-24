@@ -232,7 +232,7 @@ bunduke - fusilo
 bung - ventro  
 bus - buso  
 buton - klavo  
-butonobanze - klavaro  
+butonbanze - klavaro  
 buy - baobabo  
 buze - kapro  
 ##c
@@ -514,6 +514,7 @@ gabristan - tombejo
 gade - azeno  
 gadolinium - gadolinio  
 gaje - elefanto  
+galaksia - galaksio  
 galeria - galerio (ekspozicio)  
 galium - galiumo  
 galte - eraro (miso)  
@@ -533,6 +534,7 @@ garda - gardi
 garder - gardisto  
 garmi - varma  
 gas - gaso  
+gati - malmola  
 gawi - alta  
 gayania - Gujano  
 gaze - gazo  
@@ -685,7 +687,6 @@ iva - emi
 ive - emo (inklino, tendenco)  
 izi - facila  
 ##j
-ja - kiel  
 jake - jako  
 jama - kolekti (kunigi)  
 jamaikia - Jamajko  
@@ -1169,6 +1170,7 @@ plisa laya - inviti
 plumbe - plumbo  
 plus - ankaŭ  
 plutonium - plutonio  
+podia - Tibeto  
 poke - pokero  
 pol - multe  
 polgon - poligono  
@@ -1330,8 +1332,8 @@ sofi - saĝa
 sofia - saga  
 soke - ŝtrumpo  
 sol - suno  
+solesistem - sunsistemo  
 solocate - sunombrelo  
-solosistem - sunsistemo  
 son - dormo  
 sonde - sono  
 song - pino  

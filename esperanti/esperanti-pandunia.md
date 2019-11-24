@@ -447,6 +447,7 @@ fusilo - bunduke
 fuĝi - bega  
 ##g
 gadolinio - gadolinium  
+galaksio - galaksia  
 galerio (ekspozicio) - galeria  
 galiumo - galium  
 Gangoj - ganga  
@@ -655,7 +656,6 @@ kial? - ki yangi
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  
-kiel - ja  
 kiel? - ko?  
 kilometro - kilometre  
 kio? - ke  
@@ -667,7 +667,7 @@ kiu? - ki ren
 kivo - kiwe  
 klara - klar  
 klarigi - klara  
-klavaro - butonobanze  
+klavaro - butonbanze  
 klavo - buton  
 klimato - klime  
 klimatscienco - klimelojia  
@@ -833,6 +833,7 @@ malliberejo - prizonia
 malliberigi - prizona  
 mallonga - korti  
 mallongigi - korta  
+malmola - gati  
 malmulte - xaw  
 malnova - purani  
 malplej - minim  
@@ -1318,7 +1319,7 @@ sulfuro - sulfe
 sumo - sum  
 suno - sol  
 sunombrelo - solocate  
-sunsistemo - solosistem  
+sunsistemo - solesistem  
 superiri - supra  
 supo - supe  
 surfaco - fas  
@@ -1369,6 +1370,7 @@ teroro - teror
 terpomo - patate  
 tertremo - sisme  
 testo - teste  
+Tibeto - podia  
 tie - sa ce  
 tigro - bagre  
 timo (fobio) - fobia  

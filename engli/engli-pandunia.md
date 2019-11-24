@@ -4,7 +4,7 @@
 a couple of - dul u tin  
 ##a
 ability (skill) - able  
-about (approximately) - yagi  
+about (approximately) - yago  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
 accent (stress) - aksente  
@@ -251,7 +251,7 @@ Bermuda - bermudia
 berry - bere  
 beryllium - beril  
 between - inter  
-Bhutan - butan  
+Bhutan - drugia  
 Bible - biblia  
 bicycle (pedal bike) - pedalsikle  
 big (great) - day  
@@ -273,7 +273,7 @@ blossom (bloom) - pula
 blow - hawa  
 blue - nili  
 board (plank) - banze  
-board game - banzogem  
+board game - banzegem  
 boat (ship) - bote  
 bodily (corporal) - badani  
 body - badan  
@@ -396,7 +396,7 @@ Caucasia - kaukasia
 cause (be the cause for) - saba  
 cause to make - isa  
 cave - guhe  
-Cayman Islands - keiman da nesia  
+Cayman Islands - keiman nesia  
 celebrate (party) - festa  
 celestial (heavenly) - samani  
 cell (biology) - sel  
@@ -478,7 +478,7 @@ cobalt - kobalte
 coca - koke  
 coco - yeze  
 cocoa - kakaw  
-Cocos (Keeling) Islands - kokos da nesia  
+Cocos (Keeling) Islands - kokos nesia  
 code (cipher) - kode  
 coerce (force, compel) - musa  
 coercion - muse  
@@ -539,7 +539,7 @@ contribute - fenodona
 conventional (customary, traditional) - rasmi  
 cook (chef) - kuker  
 cook (prepare food) - kuka  
-Cook Islands - kuke da nesia  
+Cook Islands - kuke nesia  
 cool - kul  
 copernicium - kopernikium  
 copper - kuper  
@@ -721,7 +721,7 @@ Egypt - misria
 Egyptian - misri  
 eight (8) - bal  
 einsteinium - ainstainium  
-El Salvador - salbadoria  
+El Salvador - salvadoria  
 elastic - lasti  
 electric - eletri  
 electricity - eletre  
@@ -757,6 +757,7 @@ Esperanto - esperanti
 essay - esey  
 estimate (approximate) - yaga  
 Estonia - estia  
+Eswatini (Swaziland) - suatia  
 ethics - darmoloji  
 Ethiopia - etiopia  
 etymology - leksaslia  
@@ -793,7 +794,7 @@ face - muke
 face powder - mukofun  
 factory - fateria  
 failure (flop) - xibay  
-Falkland Islands (Malvinas) - malbinas da nesia  
+Falkland Islands (Malvinas) - malvinas nesia  
 fall - padu  
 false (fake) - falsi  
 family - famil  
@@ -907,6 +908,7 @@ future time - wile
 ##g
 Gabon - gabunia  
 gadolinium - gadolinium  
+galaxy - galaksia  
 gallery (exhibition hall) - galeria  
 gallium - galium  
 Gambia - gambia  
@@ -1022,6 +1024,7 @@ hand - hate
 hang (dangle) - penda  
 happy (delighted) - suki  
 harbor (seaport) - suyporte  
+hard (tough) - gati  
 hardship (difficulty) - kunan  
 harmful (damaging) - damaji  
 harmonius - harmoni  
@@ -1210,7 +1213,7 @@ Kannada - karnadi
 karaoke - karaoke  
 karate - karate  
 Karnataka - karnadia  
-Kazakhstan - kazahia  
+Kazakhstan - kazakia  
 kebab (skewer meat) - kababe  
 keeper (possessor) - tener  
 keeper (preserver) - hafizer  
@@ -1219,7 +1222,7 @@ ketchup - kecape
 kettle - ketel  
 key (push-button, switch) - buton  
 key - cabe  
-keyboard - butonobanze  
+keyboard - butonbanze  
 kill - morta  
 killer - morter  
 kilogram (kg) - kilogram  
@@ -1298,7 +1301,6 @@ life - hay
 light (bright) - nuri  
 light (illumination) - nur  
 like (enjoy, be fond of) - suku  
-like (similarly) - ja  
 like - fila  
 lilac - lilake  
 lilac color - lilaki  
@@ -1485,7 +1487,7 @@ misunderstand - galti buda
 mix (blend) - mixa  
 mixer (blender) - mixer  
 model (design) - model  
-Moldova - moldowia  
+Moldova - moldovia  
 mole (burrowing animal) - krote  
 mollusk - moluske  
 molybdenum - molidenum  
@@ -1607,7 +1609,7 @@ norm (standard) - norme
 normal - normi  
 north - norde  
 northern - nordi  
-Northern Mariana Islands - marian da nesia  
+Northern Mariana Islands - marian nesia  
 Norway - norgia  
 Norwegian - norgi  
 nose - nos  
@@ -1668,7 +1670,7 @@ order (command) - komande
 order (issue a command) - komanda  
 ordinary (routine, normal) - adi  
 orgasm - orgazme  
-oriental dragon - rong  
+oriental dragon - lung  
 origin (source) - asle  
 original (authentic) - asli  
 Oromia - oromia  
@@ -2146,7 +2148,7 @@ sex (sexual intercourse) - sekse
 sexual (relating to gender) - seksi  
 sexual desire (lust) - kamia  
 sexy (sexual) - seksi  
-Seychelles - sexel da nesia  
+Seychelles - sexel nesia  
 shadow - saye  
 shaman - xaman  
 shame (disgrace) - xarme  
@@ -2217,9 +2219,9 @@ sodium - natre
 sofa (couch) - kanape  
 soft - komal  
 soil (dirt) - darte  
-solar system - solosistem  
+solar system - solesistem  
 soldier - lasker  
-Solomon Islands - solomon da nesia  
+Solomon Islands - solomon nesia  
 solstice - solestas  
 Somalia - somalia  
 some - koy  
@@ -2327,7 +2329,6 @@ sushi - suxe
 suture (seam) - sutur  
 Swahili - suahili  
 swallow - gula  
-Swaziland - suazia  
 sweat (perspiration) - suede  
 sweaty - suedi  
 Sweden - suenia  
@@ -2429,6 +2430,7 @@ throw (launch) - lanca
 thulium - tulium  
 thunder (roaring) - grom  
 Thursday - war 4 (war car)  
+Tibet - podia  
 ticket - tikete  
 tie (fasten, bind) - benda  
 tie a knot - noda  
@@ -2584,7 +2586,7 @@ wait - denga
 wake (make awake) - weka  
 walk (march) - marca  
 wall - wal  
-Wallis and Futuna Islands - walis i futun da nesia  
+Wallis and Futuna Islands - walis i futun nesia  
 wallpaper - walpapir  
 want (desire, longing) - wan  
 want (desire, wish) - wana  

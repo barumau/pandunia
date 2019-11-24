@@ -3,6 +3,7 @@
 abace - алфавит  
 abentur - авантюра  
 abenturer - авантюрист  
+abli - возможный  
 adali - справедливый  
 adalia - справедливость  
 adres - адрес  
@@ -116,8 +117,12 @@ fora  - сверлить (бурить)
 fotografe - фотокарточка  
 fotografia - фотография  
 ##g
+galaksia - галактика  
 gar - если  
 gas - газ  
+gati - твёрдый  
+gazel - газель  
+gemer - игрок (геймер)  
 gitar - гитара  
 gol - цель  
 gul - гуль (вурдалак)  

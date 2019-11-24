@@ -170,7 +170,7 @@ banye - bath
 banyekamar - bathroom  
 banyu - bathe  
 banze - board (plank)  
-banzogem - board game  
+banzegem - board game  
 bar - bar  
 bar - weight  
 barbados - Barbados  
@@ -306,9 +306,8 @@ burge - castle (fortress, stronghold)
 burkinia - Burkina Faso  
 bus - bus  
 buste - bust (bosom)  
-butan - Bhutan  
 buton - key (push-button, switch)  
-butonobanze - keyboard  
+butonbanze - keyboard  
 buy - baobab  
 buze - goat  
 ##c
@@ -472,6 +471,7 @@ doxi - guilty
 doze - portion (dose)  
 drame - drama  
 droge - drug (intoxicating substance)  
+drugia - Bhutan  
 du - of (particle of possession)  
 dubnium - dubnium  
 duga - read  
@@ -680,6 +680,7 @@ gabunia - Gabon
 gade - donkey (ass)  
 gadolinium - gadolinium  
 gaje - elephant  
+galaksia - galaxy  
 galeria - gallery (exhibition hall)  
 galium - gallium  
 galta - make a mistake  
@@ -707,6 +708,7 @@ garmi masal - garam masala
 gas - gas  
 gasi - gaseous  
 gasu - gasify (become gas)  
+gati - hard (tough)  
 gawa - raise (lift)  
 gawi - high  
 gayania - Guyana  
@@ -933,7 +935,6 @@ iva - tend to
 ive - tendency(inclination)  
 izi - easy  
 ##j
-ja - like (similarly)  
 jake - jacket  
 jama - collect (gather, bring together)  
 jamaikia - Jamaica  
@@ -1081,11 +1082,11 @@ kaxer - cashier
 kay - open (not closed)  
 kaya - open  
 kayu - become open  
-kazahia - Kazakhstan  
+kazakia - Kazakhstan  
 ke - what?  
 kecape - ketchup  
 keci - polite  
-keiman da nesia - Cayman Islands  
+keiman nesia - Cayman Islands  
 keke - cake (cookie)  
 kel - sport (athletics)  
 kelele - noise  
@@ -1145,7 +1146,7 @@ koda - encode
 kode - code (cipher)  
 koke - coca  
 kokode - chicken  
-kokos da nesia - Cocos (Keeling) Islands  
+kokos nesia - Cocos (Keeling) Islands  
 kola - cola  
 koler - cholera  
 kolombia - Colombia  
@@ -1226,7 +1227,7 @@ kube - cube
 kubia - Cuba  
 kuga - weep (cry)  
 kuka - cook (prepare food)  
-kuke da nesia - Cook Islands  
+kuke nesia - Cook Islands  
 kuker - cook (chef)  
 kukeria - kitchen  
 kul - cool  
@@ -1347,6 +1348,7 @@ lugi - green
 luksemburgia - Luxembourg  
 lul - pearl  
 lun - moon  
+lung - oriental dragon  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
 luter - robber (plunderer)  
@@ -1386,7 +1388,6 @@ malaisia - Malaysia
 malaria - malaria  
 malawia - Malawi  
 malayali - Malayali (Malayalam)  
-malbinas da nesia - Falkland Islands (Malvinas)  
 malia - Mali  
 malike - jasmine  
 malka - own  
@@ -1394,6 +1395,7 @@ malke - property (belongings, possessions)
 malker - owner (proprietor)  
 malofunce - malfunction  
 maltia - Malta  
+malvinas nesia - Falkland Islands (Malvinas)  
 mamal - mammal  
 mame - mother (mom)  
 man - male  
@@ -1418,7 +1420,7 @@ marca - walk (march)
 margarin - margarine  
 mari - married  
 maria - marriage (matrimony)  
-marian da nesia - Northern Mariana Islands  
+marian nesia - Northern Mariana Islands  
 marka - mark (leave a mark)  
 marke - mark (trace)  
 marmar - marble  
@@ -1552,7 +1554,7 @@ moge - ink
 moke - wood (timber)  
 mokojanger - carpenter  
 mola - grind (grind in mill)  
-moldowia - Moldova  
+moldovia - Moldova  
 moler - miller  
 molidenum - molybdenum  
 moluske - mollusk  
@@ -1910,6 +1912,7 @@ plumbe - lead
 plus - also (plus, too)  
 pluto - Pluto (dwarf planet)  
 plutonium - plutonium  
+podia - Tibet  
 poke - poker  
 pol - many (much)  
 polaw - pilaf (pulao)  
@@ -2059,7 +2062,6 @@ romansi - romantic
 romansia - romance (romantic love)  
 rome - Rome  
 romi empiria - Roman Empire  
-rong - oriental dragon  
 rose - dew  
 rosta - roast  
 rosti pang - toast (toasted bread)  
@@ -2125,10 +2127,10 @@ salam sube - Good morning
 salam xam - Good evening  
 salama - greet  
 salame - greeting (hello)  
-salbadoria - El Salvador  
 sali - salty (saline)  
 salima - surrender (to give up)  
 salonia - Sierra Leone  
+salvadoria - El Salvador  
 sam - same  
 saman - sky (heaven)  
 samani - celestial (heavenly)  
@@ -2197,7 +2199,7 @@ serwe - service
 serwer - servant  
 serye - series (sequence)  
 sesam - sesame  
-sexel da nesia - Seychelles  
+sexel nesia - Seychelles  
 si - yes  
 sibir - Siberia  
 sida - sit  
@@ -2244,10 +2246,10 @@ sofi - wise
 sofia - wisdom  
 soke - sock (stocking)  
 sol - sun  
+solesistem - solar system  
 solestas - solstice  
 solocate - parasol  
-solomon da nesia - Solomon Islands  
-solosistem - solar system  
+solomon nesia - Solomon Islands  
 somalia - Somalia  
 son - sleep  
 sonda - sound (make a sound)  
@@ -2260,7 +2262,7 @@ sosis - sausage
 sotia - Lesotho  
 suahili - Swahili  
 suan - sour  
-suazia - Swaziland  
+suatia - Eswatini (Swaziland)  
 sube - morning (dawn)  
 suboden - forenoon  
 suboniam - breakfast  
@@ -2523,7 +2525,7 @@ wada - promise (commit)
 waf - dog  
 wakila - represent  
 wal - wall  
-walis i futun da nesia - Wallis and Futuna Islands  
+walis i futun nesia - Wallis and Futuna Islands  
 walpapir - wallpaper  
 wan - want (desire, longing)  
 wana - want (desire, wish)  
@@ -2627,7 +2629,7 @@ xuti - skillful
 xuxe - rest (relief)  
 ##y
 yaga - estimate (approximate)  
-yagi - about (approximately)  
+yago - about (approximately)  
 yake - yak  
 yala - hurry (hasten)  
 yang - kind (type, style)  

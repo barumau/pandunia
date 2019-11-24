@@ -1,7 +1,7 @@
 # engli-pandunia sa leksasle
 |engli | pandunia | leksasle |
 |----------|----------|----------|
-|about (approximately)|yagi|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
+|about (approximately)|yago|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
 |accent (stress)|aksente|ita:accento. spa:por:acento. pol:akcent. eng:fra:accent.|
 |action (deed, performance, karma)|karme|hin:कर्म (karma). urd:(karm). pnb:ਕਰਮ (karm). kan:tam:tel:(karma). eng:deu:fra:spa:por:karma. khm:កម្ម (kam). mya:ကံ (kam). tha:กรรม (kam). rus:карма (karma).|
 |address|adres|eng:address. fra:deu:adresse. rus:адрес (adres). por:endereço.|
@@ -91,6 +91,7 @@
 |beret|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
 |berry|bere|deu:Beere. eng:berry. ind:beri. hin:बेरी (berī). ben:বেরি (beri). jpn: ベリー (berī).|
 |be|esa|spa:es. fas:(ast). por:estar. rus:есть (yest').|
+|Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩.yː˩). tib:འབྲུག་ཡུལ་ (drugyul).|
 |big (great)|day|yue:大 (daai). zho:大 (dá). vie:đại. jpn:(dai,tai). kor:대— (dae-).|
 |bike (cycle)|sikle|eng:bicycle. fra:bicyclette. tur:bisiklet. spa:bicicleta. tgl:bisikleta. ben:সাইকেল (saikel). hin:साइकिल (sāikil).|
 |bill (invoice)|bil|eng:bill. hin:बिल (bil).|
@@ -353,7 +354,7 @@
 |fun (amusement)|fan|eng:fun.|
 |fungus|funge|eng:fungus. fra:fongus. por:fungo. spa:hongo.|
 |future time|wile|eng:will + wuu:未来 (víle). zho:未来 (wèilái). kor:미래 (miræ). jpn:未来 (mirai).|
-|game|gem|eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
+|game|gem|eng:game. tha:เกม (geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
 |garbage (rubbish, trash)|laje|zho:垃圾 (lājī).|
 |gas|gas|deu:eng:spa:ind:gas. por:gás. ben:গ্যাস (gyas). jpn:ガス (gasu). kor:가스 (gaseu). hin:गैस (gais). fra:tur:gaz. rus:газ (gaz). ara:(ḡāz).|
 |gauze|gaze|deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.|
@@ -395,6 +396,7 @@
 |Han Chinese|cini|hin:चीनी (cīnī). tur:Çin. ara:(ṣiniy). spa:chino. eng:Chinese. tha:จีน (chin). zho:秦 (qín).|
 |hand|hate|hin:हाथ (hāth). ben:হাত (hat). eng:hand.|
 |happy (delighted)|suki|hin:सुखी (sukhī). jpn:好き (suki). tha:สุข (suk).|
+|hard (tough)|gati|tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|
 |hardship (difficulty)|kunan|zho:困难 (kùnnán). jpn:困難 (konan). vie:khốn nạn. kor:곤란 (gollan).|
 |harness|harnes|fra:harnais. eng:harness. spa:arnés. por:arnês.|
 |hat (cap)|tope|ind:topi. hin: टोपी (ṭopī). ben:টুপি (ṭupi). tam:(toppi).|
@@ -607,6 +609,7 @@
 |opposite (anti-)|anti|eng:fra:spa:por:deu:anti-. rus:анти- (anti-). jpn:反対 (hantai-). pol:anty-.|
 |orange (fruit)|oranje|eng:orange. spa:naranja. por:laranja. hin:नारंगी (narangi). jpn:(orenji). + fra:orange. Rus:оранжевый (oranževiy).|
 |order (command)|komande|eng:command. fra:commandement. rus:команда (komanda). spa:mandato.|
+|oriental dragon|lung|zho:龙 (lóng). yue:龍 (lung4). vie:rồng,long. kor:용 (yong), 룡 (ryong). jon:竜 (ryū).|
 |origin (source)|asle|ara:(ʾaṣl). tur:asl. ind:asal. hin:असल (asl). swa:asili.|
 |orphan|yatim|ara:fas:(yatim). tur:yetim. swa:yatima. hin:यतीम (yatīm).|
 |or|o|spa:o. tgl:o. eng:or. zho:或 (huò). ara:(ʾaw).|
@@ -882,6 +885,7 @@
 |three (3)|tin|hin:तीन (tīn). ben:তিন (tin). urd:(tīn).|
 |throw (launch)|lanca|eng:launch. ita:lanciare. por:lançar. fra:lancer. spa:lanzar. deu:lancieren.|
 |thunder (roaring)|grom|rus:гром (grom). pol:grom.|
+|Tibet|podia|tib:བོད (bod, phØ).|
 |ticket|tikete|eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).|
 |tiger|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
 |tikka (piece)|tike|fas:(tekke). arm:թիքա (tʿikʿa). hin:टिक्का (ṭikkā).|

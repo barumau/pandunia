@@ -103,6 +103,7 @@ dirigente (líder) - lider
 doméstico - domi  
 dormir - sonu  
 dormitorio - sonkamar  
+duro - gati  
 día de San Juan - yohani feste  
 ##e
 eje - akse  
@@ -136,6 +137,7 @@ fotografía - fotografia
 fragmento - parce  
 fuego - pir  
 ##g
+galaxia - galaksia  
 gas - gas  
 gas lacrimógeno - kansuygas  
 gato - maw  
@@ -150,6 +152,7 @@ hermoso (bello, lindo) - sundari
 hijo o hija - pute  
 hockey - hoke  
 hockey sobre hielo - aisehoke  
+hongo - funge  
 hora - hor  
 hormigo - maye  
 hornacina - nixe  
@@ -281,6 +284,7 @@ piña - nanas
 plátano (banana) - banan  
 pocos - xaw  
 porto - porte  
+posible - abli  
 problema - vente  
 programa - program  
 proyecto - projete  

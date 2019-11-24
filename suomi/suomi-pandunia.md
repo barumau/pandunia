@@ -129,7 +129,7 @@ aueta (avautua) - kayu
 aukaista (avata) - kaya  
 auki (avoin) - kay  
 aurinko - sol  
-aurinkokunta - solosistem  
+aurinkokunta - solesistem  
 aurinkovarjo - solocate  
 Australia - australia  
 auto (automobiili) - motokar  
@@ -166,7 +166,7 @@ berkelium - berkelium
 Bermuda - bermudia  
 berylli - beril  
 betoni - beton  
-Bhutan - butan  
+Bhutan - drugia  
 biologia - biyolojia  
 blogi (nettikolumni) - bloge  
 bohrium - borium  
@@ -187,7 +187,7 @@ Bulgaria - bolgaria
 Burkina Faso - burkinia  
 Burundi - rundia  
 ##c
-Cayman-saaret - keiman da nesia  
+Cayman-saaret - keiman nesia  
 Ceres - seres  
 cerium - cerium  
 cesium - cesium  
@@ -195,7 +195,7 @@ chapati - capate
 Chile - cilia  
 chinchilla - cincil  
 cola - kola  
-Cookin saaret - kuke da nesia  
+Cookin saaret - kuke nesia  
 Costa Rica - kostarikia  
 curium - kurium  
 ##d
@@ -232,7 +232,7 @@ ei mitään - nol xey
 eilinen - predi den  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekelojia  
-El Salvador - salbadoria  
+El Salvador - salvadoria  
 ele - jeste  
 elegantti - xiki  
 elektroni - eletron  
@@ -290,7 +290,7 @@ eurooppalainen - europi
 europium - europium  
 evankeliumi(hyvä sana) - ewanjil  
 ##f
-Falklandin saaret - malbinas da nesia  
+Falklandin saaret - malvinas nesia  
 fani (-fiili) - filer  
 fasismi - faxistia  
 fasisti - faxiste  
@@ -313,6 +313,7 @@ fyysikko - fiziker
 ##g
 Gabon - gabunia  
 gadolinium - gadolinium  
+galaksi - galaksia  
 galleria - galeria  
 gallium - galium  
 Gambia - gambia  
@@ -560,7 +561,7 @@ itse - ze
 itsehallinto (autonomia) - autenomia  
 itseliikkuva - autemoti  
 itä - dong  
-itämainen lohikäärme - rong  
+itämainen lohikäärme - lung  
 Itävalta - osteria  
 ##j
 ja - e  
@@ -731,7 +732,7 @@ Kaukasia - kaukasia
 kauneus - sundaria  
 kaunis (komea, sievä) - sundari  
 kaupunki - nagre  
-Kazakstan - kazahia  
+Kazakstan - kazakia  
 kebab (varrasliha) - kababe  
 kehitys - fajan  
 keho (ruumis) - badan  
@@ -865,7 +866,7 @@ koodata - koda
 koodi - kode  
 kooka - koke  
 kookos - yeze  
-Kookossaaret - kokos da nesia  
+Kookossaaret - kokos nesia  
 koominen (hauska) - yumori  
 koota (kerätä) - jama  
 kopernikium - kopernikium  
@@ -892,6 +893,7 @@ koskea (koskettaa) - toca
 kosminen - kosmi  
 koti- - domi  
 koulu (opisto) - darsia  
+kova - gati  
 Kreikka - helenia  
 kreikkalainen - helen  
 kriisi (käännekohta) - krize  
@@ -904,7 +906,6 @@ kromi - krom
 kruunu - koron  
 kryptoni - kriton  
 ksenon - xenon  
-kuin (kuten, niin kuin) - ja  
 kuin (verrattuna) - ko  
 kuisti (terassi, veranta) - berande  
 kuitata - resida  
@@ -1043,7 +1044,7 @@ laulu - cante
 lause (fraasi) - fraze  
 lauta (lankku) - banze  
 lautanen - plate  
-lautapeli - banzogem  
+lautapeli - banzegem  
 lava (näyttämö) - sen  
 lawrensium - laurensium  
 lehmän liha - muhomanse  
@@ -1298,7 +1299,7 @@ mitali - medal
 mitata - meta  
 miten? - ko?  
 mitta (koko, määrä) - mete  
-Moldova - moldowia  
+Moldova - moldovia  
 molemminpuolinen (keskinäinen) - unali  
 molybdeeni - molidenum  
 Monaco - monakia  
@@ -1379,7 +1380,7 @@ nainen - maturi fem
 Namibia - namibia  
 nano- - nano  
 nanometri - nanometre  
-nappi (näppäin, kytkin) - buton  
+nappi (näppäin, kytkin, nappula) - buton  
 nappi - boton  
 nationalisti - nasiste  
 natrium - natre  
@@ -1417,7 +1418,7 @@ niobium - niobium
 nisäkäs - mamal  
 Niue - niwia  
 nobelium - nobelium  
-noin (arviolta, suunnilleen) - yagi  
+noin (arviolta, suunnilleen) - yago  
 nolla (ei yhtään) - nol  
 nopea (pikainen, vauhdikas) - rapido  
 nopeus (vauhti) - rapide  
@@ -1445,7 +1446,7 @@ nähdä - vida
 näkymä - vide  
 näkyä - vidu  
 näkökenttä - vidomaidan  
-näppäimistö - butonobanze  
+näppäimistö - butonbanze  
 näytellä - rola  
 näyttelijä - roler  
 näyttää - xowa  
@@ -1912,7 +1913,7 @@ salainen - sir
 sallia (antaa lupa) - halala  
 sallia - tolera  
 sallittu (hyväksytty) - halal  
-Salomon-saaret - solomon da nesia  
+Salomon-saaret - solomon nesia  
 sama - sam  
 samanmaalainen (maanmies) - samodexi  
 Sambia - zambia  
@@ -1977,7 +1978,7 @@ seurata (tulla perässä, tulla jäljessä) - bada
 seuraus - bade  
 seurustella (toimia yhdessä) - soca  
 seutu (maa) - istan  
-Seychellit - sexel da nesia  
+Seychellit - sexel nesia  
 sianliha - gurubomanse  
 side (remmi) - faxe  
 siemen - dan  
@@ -2092,7 +2093,7 @@ suurkaupunki - site
 suutari - sapater  
 suutarin paja - sapateria  
 Sveitsi - suisia  
-Swazimaa - suazia  
+Swazimaa - suatia  
 sydän - xim  
 syksy (syys) - oton  
 sylkeä - tuha  
@@ -2237,6 +2238,7 @@ tietokone - komputer
 tietoteoria (epistemologia) - janelojia  
 tietty (tunnettu) - jani  
 tietää - jana  
+Tiibet - podia  
 tiikeri - bagre  
 tiistai - war 2 (war dul)  
 tikari - kanjar  

@@ -166,6 +166,7 @@ données - date
 dormir - sonu  
 drapeau - bandir  
 droit (rectiligne) - orti  
+dur - gati  
 ##e
 Einsteinium - ainstainium  
 enfant - bace  
@@ -187,8 +188,10 @@ fromage - cis
 fromage blanc - panir  
 féliciter - barka  
 ##g
+galaxie - galaksia  
 gaz - gas  
 gaz lacrymogène - kansuygas  
+gazelle - gazel  
 genou - gute  
 genre (espèc) - jinse  
 gingembre - zinje  

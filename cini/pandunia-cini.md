@@ -4,6 +4,7 @@ abace - 字母表
 abentur - 冒险  
 abenturer - 冒险者  
 abla - 会  
+abli - 可能  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -121,8 +122,10 @@ fitelojia - 植物学
 fora  - 钻孔  
 fotografe - 照片  
 ##g
+galaksia - 恆星系  
 galte - 错误  
 gar - 如果 (要是)  
+gati - 硬  
 gitar - 吉他  
 gol - 目的  
 gunden - 宫殿  
@@ -210,6 +213,7 @@ lole - 他们
 lon - 论  
 long - 长  
 lugi - 绿色  
+lung - 龙  
 luta - 掠夺  
 luter - 强盗  
 ##m
@@ -318,7 +322,7 @@ serye - 系列
 si - 对 (是)  
 sikliste - 骑自行车的人  
 sol - 太阳  
-solosistem - 太阳系  
+solesistem - 太阳系  
 sonkamar - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sosis - 香肠  

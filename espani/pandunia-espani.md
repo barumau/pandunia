@@ -3,6 +3,7 @@ a - pero
 ##a
 abentur - aventura  
 abenturer - aventurero  
+abli - posible  
 adali - justo  
 adalia - justicia  
 afrike - África  
@@ -98,10 +99,13 @@ fitelojia - botánica
 fora  - perforar  
 fotografe - foto (fotografía)  
 fotografia - fotografía  
+funge - hongo  
 ##g
+galaksia - galaxia  
 galte - error  
 galti - erróneo  
 gas - gas  
+gati - duro  
 gitar - guitarra  
 gol - meta (gol)  
 gul - gul  

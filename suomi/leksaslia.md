@@ -62,6 +62,7 @@
 |barbaari (raakalainen)|barbar|deu:tur:barbar. fra:barbare. fas:(barbar). spa:barbaro. eng:barbarian. rus:варвар (varvar).|
 |baskeri (baretti)|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
 |bataatti|kamote|spa:camote. tgl:kamote.|
+|Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩.yː˩). tib:འབྲུག་ཡུལ་ (drugyul).|
 |biologia|biyolojia|tur:biyoloji. fra:biologie. eng:biology.|
 |Buddha|bude|hin:बुद्ध (buddh).|
 |chapati|capate|hin:चपाती (ćapātī). urd:(ćapātī). eng:swa:chapati. rus:чапати (čapati). mya:ချပါတီ (kyapati).|
@@ -175,6 +176,7 @@
 |itkeä|kuga|zho:哭 (kū). yue:哭 (huk1). vie:khóc.|
 |itse|tan|hin:mar:तन (tan). fas:urd:(tan). taj:тан (tan). tha:ตน (ton). vie:thân. yue:親 (can3).|
 |itse|ze|zho:自 (zì). ned:zich. deu:sich. fra:por:spa:se.|
+|itämainen lohikäärme|lung|zho:龙 (lóng). yue:龍 (lung4). vie:rồng,long. kor:용 (yong), 룡 (ryong). jon:竜 (ryū).|
 |itä|dong|zho:东 (dōng). yue:東 (dōng). vie:đông. kor:동 (dong).|
 |jade|yuke|zho:玉 (yù). yue:玉 (yuk6). ind:giok.|
 |jainalaisuus|jeinistia|hin:mar:जैन (jain). tha:เชน (chen). eng:jainism. fra:jaïnisme. rus:джайнизм (džaynizm).|
@@ -299,6 +301,7 @@
 |koruton (tavanomainen, pelkkä)|sadi|tur:sade. fas:(sāde). hin:सादा (sādā).|
 |korva|or|zho:耳 (ěr). eng:ear. deu:Ohr. fra:oreille. por:orelha. spa:oreja.|
 |koskea (koskettaa)|toca|eng:touch. spa: tocar. + hin: छूना /chūnā/. zho: 触 (chù).|
+|kova|gati|tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|
 |kriisi (käännekohta)|krize|eng:crisis. fra:por:crise. deu:Krise. rus:кризис (krizis). spa:crisis.|
 |kruunu|koron|fra:couronne. eng:crown. spa:corona. jpn:クラウン (kuraun). rus:корона (korona). por:coroa.|
 |kuisti (terassi, veranta)|berande|hin:बरामदा (barāmd). por:varanda. ind:beranda. eng:veranda. rus:веранда (veranda). jpn:ベランダ (beranda). kor:베란다 (beranda).|
@@ -475,7 +478,7 @@
 |naaras|fem|fra:femme. por:fêmea. eng:female.|
 |nahka (kuori, iho)|pil|eng:peel. spa:piel. por:pele. zho:皮 (pí). wuu:皮 (bí). yue:皮 (pei4).|
 |naimisissa|mari|eng:married. fra:marié. spa:por:marido.|
-|nappi (näppäin, kytkin)|buton|eng:button. hin:बटन (baṭan). ben:বোতাম (botam). jpn:ボタン (botan). kor:버튼 (beoteun).|
+|nappi (näppäin, kytkin, nappula)|buton|eng:button. hin:बटन (baṭan). ben:বোতাম (botam). jpn:ボタン (botan). kor:버튼 (beoteun).|
 |nappi|boton|eng:button. spa:botón. por:botão. fra:bouton. jpn:ボタン (botan). tgl:butones. hin:बटन (baṭan). urd:(baṭan). ben;বোতাম (botam).|
 |natriumglutamaatti|vijin|zho:味精 (wèijīng). yue:味精 (mei6 zing1). vie:mì chính. may:vetsin,micin. tgl:bitsin.|
 |natsi|naciste|rus:нацист (natsist). cze:slk:nacista. jpn:ナチ (nachi). kor:나치 (nachi). por:ita:nazista.|
@@ -488,7 +491,7 @@
 |niellä|gula|ben:গেলা (gela). por:engolir. rus:глотать (glotat'). tha:กลืน (glʉʉn). spa:deglutir. fra:déglutir.|
 |nilviäinen|moluske|eng:mollusk. deu:Molluske. fra:mollusque. rus:моллюск (mollyusk). spa:por:molusco. ind:moluska. hin:urd:(molask).|
 |nimi|nam|hin:नाम (nām). fas:pnb:urd:(nām). tha:นาม (naam). ind:nama. deu:eng:name. jpn:名前 (namae). fra:nom.|
-|noin (arviolta, suunnilleen)|yagi|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
+|noin (arviolta, suunnilleen)|yago|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
 |nolla (ei yhtään)|nol|rus:ноль (nol'). ind:tkm:nol. deu:null. eng:null.|
 |nopea (pikainen, vauhdikas)|rapido|spa:por:rápido. eng:rapid. fra:rapide.|
 |noppa (arpakuutio)|dade|spa:por:tgl:dado. ind:swa:dadu.|
@@ -565,7 +568,7 @@
 |peikko|guy|zho:鬼 (guǐ). vie:quỷ. + tha:กุ๊ย (gui).|
 |peili|mirer|eng:mirror. fra:miroir. ara:mirʾāh. arz:mirāya.|
 |peite (kansi)|deke|hin:ढकना (dhaknā). deu:decken. eng:deck.|
-|peli|gem|eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
+|peli|gem|eng:game. tha:เกม (geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
 |penkki|bence|eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤치 (benchi).|
 |perhe|famil|eng:family. spa:familia. por:família. fra:famille.|
 |perhonen|pelpel|kat:პეპელა (ṗeṗela). mao:pēpepe. swa:kipepeo. bul:пеперуда (peperuda). yor:labalábá.|
@@ -810,6 +813,7 @@
 |tiede (tutkimus)|lojia|eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.|
 |tieto (tietämys)|jan|hin:जान (jān). ben:জ্ঞান (gyan), জানা (jana). pnb:ਜਾਣ (jāṇ). tha:ญาณ (yaan).|
 |tie|daw|zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.|
+|Tiibet|podia|tib:བོད (bod, phØ).|
 |tiikeri|bagre|hin:बाघ (bāgh). ben:বাঘ (bagh). + fas:(babr). + spa:por:tigre. rus:(tigr).|
 |tikari|kanjar|fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).|
 |timantti|almas|swa:almasi. rus:алмаз (almaz). tkm:almaz. ara:(ʾalmāsa). fas:(almâs). tur:elmas.|

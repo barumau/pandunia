@@ -41,6 +41,7 @@
 |bańka|bubul|eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).|
 |beczka|tong|zho:桶 (tǒng). khm:តុង (tong). tha:ถัง (tǎng). kor:통 (tong). vie:thùng. ind:mal:tong. + fra:tonneau. spa:tonel. ned:ton.|
 |beret|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
+|Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩.yː˩). tib:འབྲུག་ཡུལ་ (drugyul).|
 |biały|baki|yue:白 (baak6). vie:bạch. Zho:白 (bái). jpn:白 (haku). kor:백 (baek). + fra:blanc. spa:blanco. por:branco.|
 |bilet|tikete|eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).|
 |biologia, nauka o życiu|biyolojia|tur:biyoloji. fra:biologie. eng:biology.|
@@ -178,7 +179,7 @@
 |gotować, szykować jedzenie|kuka|eng:cook. deu:Kock. ita:cuoco. ind:koki. tha:กุ๊ก (kuk). sango:kuku.|
 |granica, skraj, brzeg|kenar|tur:kenar. hin:किनारा (kinārā). urd:(kanārā).|
 |gratulować; błogosławić|barka|hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubarika.|
-|gra|gem|eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
+|gra|gem|eng:game. tha:เกม (geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
 |grom, huk|grom|rus:гром (grom). pol:grom.|
 |gruby|grosi|fra:gros. por:grosso. spa:grueso.|
 |grunt (ziemia, próchnica)|darte|eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.|
@@ -448,11 +449,12 @@
 |ojciec|pape|eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).|
 |okno|janel|por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.|
 |oko|kan|tam:கண் (kaṇ). tel:(kannu). kan:(kaṇṇu). mal:കണ്ണ് (kaṇṇu).|
-|około; przybliżony|yagi|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
+|około; przybliżony|yago|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
 |oliwka|zaitun|ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).|
 |opinia, pogląd|ray|ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.|
 |opis, przedstawienie; wykres|graf|eng:graphic. fra:graphique.|
 |opłata, taryfa|tarif|eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).|
+|orientalny smok|lung|zho:龙 (lóng). yue:龍 (lung4). vie:rồng,long. kor:용 (yong), 룡 (ryong). jon:竜 (ryū).|
 |osiem (8)|bal|zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.|
 |osioł|gade|hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.|
 |osoba dorosła|adulte|eng:adult. fra:adulte. por:spa:adulto.|

@@ -165,7 +165,7 @@ banye - kylpy
 banyekamar - kylpyhuone  
 banyu - kylpeä  
 banze - lauta (lankku)  
-banzogem - lautapeli  
+banzegem - lautapeli  
 bar - paino  
 barbados - Barbados  
 barbar - barbaari (raakalainen)  
@@ -299,9 +299,8 @@ burge - linna (linnake, linnoitus)
 burkinia - Burkina Faso  
 bus - linja-auto (bussi)  
 buste - povi  
-butan - Bhutan  
-buton - nappi (näppäin, kytkin)  
-butonobanze - näppäimistö  
+buton - nappi (näppäin, kytkin, nappula)  
+butonbanze - näppäimistö  
 buy - apinanleipäpuu (baobab)  
 buze - vuohi  
 ##c
@@ -464,6 +463,7 @@ doxi - syyllinen
 doze - annos  
 drame - draama  
 droge - huume  
+drugia - Bhutan  
 du - omistetun omistajaan liittävä partikkeli  
 dubnium - dubnium  
 duga - lukea  
@@ -670,6 +670,7 @@ gabunia - Gabon
 gade - aasi  
 gadolinium - gadolinium  
 gaje - norsu (elefantti)  
+galaksia - galaksi  
 galeria - galleria  
 galium - gallium  
 galta - erehtyä (tehdä virhe)  
@@ -697,6 +698,7 @@ garmi masal - garam masala
 gas - kaasu  
 gasi - kaasumainen  
 gasu - kaasuuntua  
+gati - kova  
 gawa - nostaa  
 gawi - korkea  
 gayania - Guyana  
@@ -924,7 +926,6 @@ iva - olla taipuvainen
 ive - taipumus  
 izi - helppo  
 ##j
-ja - kuin (kuten, niin kuin)  
 jake - pikkutakki (jakku)  
 jama - koota (kerätä)  
 jamaikia - Jamaika  
@@ -1070,11 +1071,11 @@ kaxer - kassanhoitaja
 kay - auki (avoin)  
 kaya - aukaista (avata)  
 kayu - aueta (avautua)  
-kazahia - Kazakstan  
+kazakia - Kazakstan  
 ke - mikä? (mitä?)  
 kecape - ketsuppi  
 keci - kohtelias (kiltti)  
-keiman da nesia - Cayman-saaret  
+keiman nesia - Cayman-saaret  
 keke - kakku (keksi)  
 kel - urheilu  
 kelele - meteli  
@@ -1133,7 +1134,7 @@ koda - koodata
 kode - koodi  
 koke - kooka  
 kokode - kana  
-kokos da nesia - Kookossaaret  
+kokos nesia - Kookossaaret  
 kola - cola  
 koler - kolera  
 kolombia - Kolumbia  
@@ -1213,7 +1214,7 @@ kube - kuutio
 kubia - Kuuba  
 kuga - itkeä  
 kuka - kokata (laittaa ruokaa)  
-kuke da nesia - Cookin saaret  
+kuke nesia - Cookin saaret  
 kuker - kokki  
 kukeria - keittiö  
 kul - upea (hieno)  
@@ -1330,6 +1331,7 @@ lugi - vihreä
 luksemburgia - Luxemburg  
 lul - helmi  
 lun - kuu  
+lung - itämainen lohikäärme  
 lusun - parsa  
 luta - ryöstää (ryövätä)  
 luter - ryöväri (rosvo)  
@@ -1369,7 +1371,6 @@ malaisia - Malesia
 malaria - malaria  
 malawia - Malawi  
 malayali - malajalam (eräs intialainen kieli)  
-malbinas da nesia - Falklandin saaret  
 malia - Mali  
 malike - jasmiini  
 malka - omistaa  
@@ -1377,6 +1378,7 @@ malke - omaisuus
 malker - omistaja  
 malofunce - toimintahäiriö  
 maltia - Malta  
+malvinas nesia - Falklandin saaret  
 mamal - nisäkäs  
 mame - äiti (emä)  
 man - uros (mies)  
@@ -1533,7 +1535,7 @@ moge - muste
 moke - puu (puutavara)  
 mokojanger - puuseppä  
 mola - jauhaa myllyssä  
-moldowia - Moldova  
+moldovia - Moldova  
 moler - mylläri  
 molidenum - molybdeeni  
 moluske - nilviäinen  
@@ -1883,6 +1885,7 @@ plumbe - lyijy
 plus - myös (lisäksi, plus)  
 pluto - Pluto (kääpiöplaneetta)  
 plutonium - plutonium  
+podia - Tiibet  
 poke - pokeri  
 pol - paljon (monta)  
 polaw - pilahvi  
@@ -2031,7 +2034,6 @@ romansi - romanttinen
 romansia - lempi (romanssi, rakkaus)  
 rome - Rooma  
 romi empiria - Rooman valtakunta  
-rong - itämainen lohikäärme  
 rose - kaste  
 rosta - paahtaa (paistaa)  
 rosti pang - paahtoleipä  
@@ -2094,9 +2096,9 @@ salam sube - Huomenta!
 salam xam - Hyvää iltaa  
 salama - tervehtiä  
 salame - tervehdys (terve!)  
-salbadoria - El Salvador  
 sali - suolainen  
 salonia - Sierra Leone  
+salvadoria - El Salvador  
 sam - sama  
 saman - taivas  
 samoa - Samoa  
@@ -2155,7 +2157,7 @@ serwe - palvelu (palvelus)
 serwer - palvelija (tarjoilija)  
 serye - sarja  
 sesam - seesami  
-sexel da nesia - Seychellit  
+sexel nesia - Seychellit  
 si - kyllä  
 sibir - Siperia  
 sida - istua  
@@ -2201,10 +2203,10 @@ sofi - viisas
 sofia - viisaus  
 soke - sukka  
 sol - aurinko  
+solesistem - aurinkokunta  
 solestas - päivänseisaus  
 solocate - aurinkovarjo  
-solomon da nesia - Salomon-saaret  
-solosistem - aurinkokunta  
+solomon nesia - Salomon-saaret  
 somalia - Somalia  
 son - nukkuminen (uni)  
 sonda - ääntää  
@@ -2217,7 +2219,7 @@ sosis - makkara
 sotia - Lesoto  
 suahili - suahili  
 suan - hapan (kirpeä)  
-suazia - Swazimaa  
+suatia - Swazimaa  
 sube - aamu  
 suboniam - aamiainen  
 sudafrikia - Etelä-Afrikka  
@@ -2564,7 +2566,7 @@ xuti - taitava
 xuxe - lepo  
 ##y
 yaga - arvioida  
-yagi - noin (arviolta, suunnilleen)  
+yago - noin (arviolta, suunnilleen)  
 yake - jakki  
 yala - kiirehtiä  
 yang - laji (tyyppi, tyyli)  
