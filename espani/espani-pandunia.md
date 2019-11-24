@@ -13,6 +13,7 @@ altar - altar
 aló - halow  
 amande - badam  
 anaranjado - oranji  
+anciano - lawi  
 ancla - anker  
 animal (bestia) - hewan  
 análisis - analis  
@@ -70,6 +71,7 @@ chinelo (pantufa) - babuce
 ciclista - sikliste  
 cielo - saman  
 cima (pico, cumbre, vértice) - pike  
+cinturón (zona) - zone  
 citología - selelojia  
 colocar (poner) - loka  
 color - rang  
@@ -101,6 +103,7 @@ dirigente (líder) - lider
 doméstico - domi  
 dormir - sonu  
 dormitorio - sonkamar  
+duro - gati  
 día de San Juan - yohani feste  
 ##e
 eje - akse  
@@ -110,11 +113,13 @@ embarazado (preñado) - hamili
 empanadilla (pelmeni) - pelmen  
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
+encontrar - mita  
 equipaje - bagaje  
 error - galte  
 erróneo - galti  
 escribir - kitaba  
 escritura - kitabe  
+escultor - eskulter  
 eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
@@ -132,7 +137,9 @@ fotografía - fotografia
 fragmento - parce  
 fuego - pir  
 ##g
+galaxia - galaksia  
 gas - gas  
+gas lacrimógeno - kansuygas  
 gato - maw  
 gengibre - zinje  
 guitarra - gitar  
@@ -145,6 +152,7 @@ hermoso (bello, lindo) - sundari
 hijo o hija - pute  
 hockey - hoke  
 hockey sobre hielo - aisehoke  
+hongo - funge  
 hora - hor  
 hormigo - maye  
 hornacina - nixe  
@@ -217,6 +225,7 @@ mástil - maste
 máximo - maxime  
 médio - medi  
 ##n
+nación - nasia  
 naranja - oranje  
 necesario - nidi  
 necesidad - nide  
@@ -275,6 +284,7 @@ piña - nanas
 plátano (banana) - banan  
 pocos - xaw  
 porto - porte  
+posible - abli  
 problema - vente  
 programa - program  
 proyecto - projete  
@@ -292,6 +302,7 @@ química - kimia
 raiz - rize  
 raza - ras  
 recto - orti  
+reunión (junta, mitin) - mite  
 rima - rim  
 rodilla - gute  
 rojo - kirmi  
@@ -308,6 +319,7 @@ sapato - sapate
 Satanás - xatan  
 ser (estar) - esa  
 ser humano - insan  
+serie - serye  
 sexo - sekse  
 sin - na  
 soldado - lasker  

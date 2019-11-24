@@ -3,6 +3,7 @@ a - pero
 ##a
 abentur - aventura  
 abenturer - aventurero  
+abli - posible  
 adali - justo  
 adalia - justicia  
 afrike - África  
@@ -87,6 +88,7 @@ domi - doméstico
 ##e
 eletre - electricidad  
 esa - ser (estar)  
+eskulter - escultor  
 ewanjil - evangelio  
 ##f
 fata - hacer  
@@ -97,10 +99,13 @@ fitelojia - botánica
 fora  - perforar  
 fotografe - foto (fotografía)  
 fotografia - fotografía  
+funge - hongo  
 ##g
+galaksia - galaxia  
 galte - error  
 galti - erróneo  
 gas - gas  
+gati - duro  
 gitar - guitarra  
 gol - meta (gol)  
 gul - gul  
@@ -138,6 +143,7 @@ kafe - café
 kagaze - papel  
 kamote - camote (batata)  
 kance - vidrio (cristal)  
+kansuygas - gas lacrimógeno  
 karawe - carvis (alcaravea)  
 karte - mapa  
 kartografia - cartografía  
@@ -163,6 +169,7 @@ kupe - copa (vaso)
 ##l
 lasker - soldado  
 laskeria - ejército  
+lawi - anciano  
 lazanye - lasaña  
 leksaslia - etimología  
 lekse - palabra (vocablo)  
@@ -205,11 +212,14 @@ mester - maestro
 meze - mesa  
 migre - migración  
 milke - leche  
+mita - encontrar  
+mite - reunión (junta, mitin)  
 mome - nosotros  
 monistia - monismo  
 ##n
 na - sin  
 nanas - piña  
+nasia - nación  
 neuresel - neurona  
 nida - necesitar  
 nide - necesidad  
@@ -291,6 +301,7 @@ sapate - sapato
 sar - cabeza  
 sekse - sexo  
 selelojia - citología  
+serye - serie  
 si - sí  
 sikle - bicicleta  
 sikliste - ciclista  
@@ -351,4 +362,5 @@ zeze - mosco
 zime - invierno  
 zimi - invernal  
 zinje - gengibre  
+zone - cinturón (zona)  
 zumrude - esmeralda  

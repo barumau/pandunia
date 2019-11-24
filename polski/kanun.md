@@ -677,9 +677,12 @@ Partykuły modalne mogą działać na każde słowo, włączając w to zimki i l
 
 W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zay** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
 
-> **me tena maw pas.** - Miałem koty w przeszłości.
-> **a me no tena maw zay.** - Ale nie mam kotów teraz.
-> **munkin me tena maw futur.** - Może będę miał koty w przyszłości.
+**me tena maw pas.**
+– Miałem koty w przeszłości.
+**a me no tena maw zay.**
+– Ale nie mam kotów teraz.
+**ablo me tena maw futur.**
+– Może będę miał koty w przyszłości.
 
 Uwaga! Czasowniki nie są odmieniane, dlatego czasownik **ada** pozostał taki sam w każdym czasie w powyższych przykładach.
 

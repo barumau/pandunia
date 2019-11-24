@@ -41,11 +41,13 @@
 |bańka|bubul|eng:bubble. snh:බුබුළු (bubuḷu). hun:buborék. cze:bublina. hin:बुल्ला (bullā). tgl:bula. fra:bulle. pnb:ਬੁਲਬੁਲਾ (bulabulā).|
 |beczka|tong|zho:桶 (tǒng). khm:តុង (tong). tha:ถัง (tǎng). kor:통 (tong). vie:thùng. ind:mal:tong. + fra:tonneau. spa:tonel. ned:ton.|
 |beret|berete|fra:béret. tur:bere. eng:beret. jpn:ベレー帽 (berē bō). zho:贝雷帽 (zh) (bèiléimào). rus:берет (beret).|
+|Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩.yː˩). tib:འབྲུག་ཡུལ་ (drugyul).|
 |biały|baki|yue:白 (baak6). vie:bạch. Zho:白 (bái). jpn:白 (haku). kor:백 (baek). + fra:blanc. spa:blanco. por:branco.|
 |bilet|tikete|eng:deu:ticket. ind:tiket. hin:टिकट (ṭikaṭ). urd:(ṭikaṭ). ben:টিকিট (ṭikiṭ). amh:ቲኬት (tiket). kor:티켓 (tiket). jpn:チケット (chiketto).|
 |biologia, nauka o życiu|biyolojia|tur:biyoloji. fra:biologie. eng:biology.|
 |biust|buste|fra:buste. eng:bust. spa:por:busto. rus:бюст (byust). deu:Büste.|
 |biznes, interes (aktywność komercyjna)|biznes|eng:business. rus:бизнес (biznes).|
+|bliski|karbi|ara:fas:urd:(qarīb). swa:karibu. tur:takribi.|
 |bogaty|rici|eng:rich. fra:riche. por:spa:rico.|
 |bohater, heros|wir|hin:वीर (vīr). urd:(vīr). ben:বীর (bīr). tam:வீரன் (vīraṉ). tel:వీరుడు (vīruḍu). mal:ind:wira. tha:วีร (wi-ra). + fra:por:spa:viril. eng:virile.|
 |bomba|bombe|pol:por:spa:tur:bomba. rus:бомба (bomba). deu:fra:bombe. fas:(bomb). eng:bomb. ben:বোমা (boma). hin:बम (bam). urd:(bam). jpn:ボム (bomu). kor:봄 (bom). ind:bom.|
@@ -177,7 +179,7 @@
 |gotować, szykować jedzenie|kuka|eng:cook. deu:Kock. ita:cuoco. ind:koki. tha:กุ๊ก (kuk). sango:kuku.|
 |granica, skraj, brzeg|kenar|tur:kenar. hin:किनारा (kinārā). urd:(kanārā).|
 |gratulować; błogosławić|barka|hau:barka. ind:berkah. tur:tebrik. fas:(tabrik). ara:urd:(mubārak). yor:alubarika.|
-|gra|gem|eng:game. tha:(geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
+|gra|gem|eng:game. tha:เกม (geem). jpn:ゲーム (gēmu). kor:게임 (geim).|
 |grom, huk|grom|rus:гром (grom). pol:grom.|
 |gruby|grosi|fra:gros. por:grosso. spa:grueso.|
 |grunt (ziemia, próchnica)|darte|eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.|
@@ -402,6 +404,7 @@
 |narkotyk|droge|eng:drug. spa:droga. fra:drogue. deu:Droge.|
 |narodziny|jen|hin:जन्म (janma). mal:ജനനം (jananaṃ). ell: γέννα (génna). eng:genesis. fra:genèse.|
 |narzędzie|tul|eng: tool. kor: 툴 (tul). jpn: ツール (tsūru). Zulu: ithuluzi.|
+|naród, narodowość|nasia|ara:(nās). + eng:fra:nation. deu:Nazion. por:nação. spa:nación. pol:nacja. rus:нация (natsiya).|
 |nauka, badanie, studiowanie|lojia|eng:-ology. spa:-ología. fra:-ologie. rus:(-logiya). tur:-loji.|
 |nawet|hati|por:até. ara:(ḥatta). spa:hasta. swa:hata.|
 |nawyk (przyzwyczajenie)|ade|ara:(ʿāda). fas:urd:('âdat). hin:आदत (ādat). pnb:ਆਦਤ (ādat). tur:adet.|
@@ -446,11 +449,12 @@
 |ojciec|pape|eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).|
 |okno|janel|por:janela. tam:சன்னல் (sannal). ben:জানালা (janala). ind:jendela. nya:zenera. kon:nêla.|
 |oko|kan|tam:கண் (kaṇ). tel:(kannu). kan:(kaṇṇu). mal:കണ്ണ് (kaṇṇu).|
-|około; przybliżony|yagi|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
+|około; przybliżony|yago|kor:약 (yag). jpn:約 (yaku). yue:約 (yœk). tur:yaklaşık. zho:约 (yuē).|
 |oliwka|zaitun|ara:(zaitūn). spa:aceituna. ind:zaitun. swa:zaituni. hin:urd:(zaitūn).|
 |opinia, pogląd|ray|ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.|
 |opis, przedstawienie; wykres|graf|eng:graphic. fra:graphique.|
 |opłata, taryfa|tarif|eng:tariff. spa:por:tarifa. deu:fra:tur:tarif. ara:(taʿrīf). rus:тариф (tarif). hin:टैरिफ़ (ṭairif).|
+|orientalny smok|lung|zho:龙 (lóng). yue:龍 (lung4). vie:rồng,long. kor:용 (yong), 룡 (ryong). jon:竜 (ryū).|
 |osiem (8)|bal|zho:八 (bā). kor:팔 (pal). tgl:walo. haw:walu.|
 |osioł|gade|hin:गधा (gadhā). ben:গাধা (gadha). guj:ગધેડો (gadheḍo). tel:(gāḍida). tam:(kaḻutai). ind:keledai. + yor:ké̩té̩ké̩té̩.|
 |osoba dorosła|adulte|eng:adult. fra:adulte. por:spa:adulto.|
@@ -474,6 +478,7 @@
 |paragon, pokwitowanie|reside|fas:(resid). hin:रसीद (rasīd). urd:(rasīd). guj:રસીદ (rasīd). tel:రసీదు (rasīdu). + eng:receipt. swa:resiti. mal:resit.|
 |park (ogród)|parke|eng:deu:tur:pol:park. spa:por:parque. fra:parc. rus:парк (park). hin:पार्क (pārk).|
 |partia|partia|eng:party. deu:Partei. spa:por:partido. fra:partie. tur:parti. pol:partia. rus:партия (partiya).|
+|pas, strefa|zone|ell:ζώνη (zónē). eng:fra:zone. spa:por:zona. rus:зона (zona).|
 |pasować|maca|eng:match. sve:matcha. kor:맞다 (matda).|
 |pasta|paste|eng:deu:paste. rus:(pasta). spa:por:pasta.|
 |paszport|pasporte|eng:passport. fra:passeport. spa:pasaporte. Por:passaporte. rus:паспорт (pasport). hin:पासपोर्ट (pāsporṭ). ben:পাসপোর্ট (pasporṭ). Ind:paspor. swa:paspoti. Jpn:パスポート pasupōto).|
@@ -519,6 +524,7 @@
 |poddanie się, uległość, pokora, posłuszeństwo|islam|ara:(ʾislām). fas:(taslim). tur:teslim.|
 |podróż|safar|ara:(safar). hin:सफ़र (safar). Tur:sefer. swa:safari. eng:fra:spa:por:deu:safari.|
 |podstawa, baza, fundament|baze|eng:fra:por:spa:base. deu:Basis. rus:база (baza).|
+|poemat|xir|heb:שיר (šir). ara:(šiʿr). tur:şiir. fas:(še'r). swa:shairi. zho:诗 (shī). yue:詩 (si1). jpn:詩 (shi). kor:시 (shi).|
 |pogoda|tenke|zho:天气 (tiǎnqì). jpn:天気 (tenki).|
 |pokaz, ekspozycja, wystawa|xow|eng:deu:fra:spa:por:show. rus:шоу (šou). tur:şov. swa:shoo. tha:โชว์ (choo). kor:쇼 (syo). jpn:ショー (shō). zho:秀 (xiù).|
 |poker|poke|eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).|
@@ -635,9 +641,11 @@
 |rytuał, ceremonia, ryt|rite|eng:fra:rite. spa:por:rito. ben:রীতি (rīti). hin:urd:(rīti).|
 |ryzyko|riske|fra:risque. eng:tur:risk. por:risco. rus:риск (risk). jpn:リスク (ja) (risuku). deu:ind:risiko.|
 |ryż|arize|tam:அரிசி (arisi). ara:(ʾaruzz). spa:por:arroz. oro:ruuzii. fra:riz. rus:рис (ris). eng:rice. deu:Reis.|
+|rzeczownik|namlekse|zho:名词 (míngcí). yue:名詞 (ming4 ci4). jpn:名詞 (meishi). kor:명사 (myeongsa). hin:नाम (nām). fra:nom. spa:nombre. por:nome. rus:имя (imya). ara:(ism). per:(esm). swa:nomino.|
 |rzecz|xey|ara:(šayʾ). tur:şey. + zho:事 (shì). yue:事 (si6).|
 |rzeka|nade|hin:mar:नदी (nadī) (nadī). urd:(nadī). ben:নদী (nôdī). pnb:ਨਦੀ (nadī). guj:નદી (nadī). kan:ನದಿ (nadi). tel:నది (nadi). tam:நதி (nati).|
 |rzemieślnik|janger|zho:匠 (jiàng). tha:ช่าง (jang). khm:ជាង (ciəng).|
+|rzeźbiarz|eskulter|spa:por:escultor. fra:sculpteur. eng:sculptor. rus:скульптор (skulptor).|
 |rzodkiewka|lobake|zho:萝卜 (luóbo). yue:蘿蔔 (lobaak). ind:lobak.|
 |rzucić, rzucać, miotać, cisnąć, ciskać|lanca|eng:launch. ita:lanciare. por:lançar. fra:lancer. spa:lanzar. deu:lancieren.|
 |róg|buge|eng:bugle. ara:(būq). fas:(buq). kat:ბუკი (buḳi).|
@@ -654,6 +662,7 @@
 |schody (drabina)|eskal|fra:escalier. spa:escalera. por:escada. + eng:scale. deu:Skale. rus:шкала (škala).|
 |sen|son|rus:сон (son). por:sono. hin:सोना (sonā). ben:শোয়া (śoya).|
 |serce|xim|kor: 심 (shim). zho:心 (xīn). jpn:心 (shin). yue:心 (sam1). hak:心 (sîm). vie:tim.|
+|seria, szereg|serye|tur:seri. fra:série. spa:serie. rus:серия (seriya). eng:series. zho:系列 (xìliè).|
 |ser|cis|eng: cheese. zho: 起司 (qǐsī). swa: chizi. jpn:チーズ (chīzu). kor:치즈 (chijeu).|
 |sezam|sesam|tur:susam. eng:sesame. rus:сезам (sezam). spa:sésamo. ara:(simsim).|
 |shintoizm, sintoizm|xindawistia|jpn:神道 (shintō). kor:신도 (sindo). zho:神道 (shéndào).|
@@ -665,6 +674,7 @@
 |siki|pix|eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipis.|
 |silny|forti|fra:fort. spa:fuerte. por:forte. eng:force.|
 |się (nawzajem, wzajemnie)|unale|eng:one another. ita:l’una, l’altra. fra: l'un l'autre. spa:el uno al otro. por:um ao outro. tur:birbirine. zho:彼此 (bǐcǐ).|
+|skarpeta, skarpetka, pończocha|soke|deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). rus:носок (nosok).|
 |skoczyć, skakać|jampa|eng:jump. jpn:ジャンプ (janpu). kor:점프 (jŏmp). ben:ঝাঁপ (jhãpô). ass:জাঁপ (zãp).|
 |skonsumować, konsumować, zjeść, jeść, wypić, pić)|niama|khm:ញ៉ាំ (nyam). jam:nyam. srn:nyan. ful:nyami. + spa:ñam. rus:ням (nyam). ita:gnam. eng:yum. kor:냠냠 (nyamnyam). hun:nyam.|
 |skwierczeć|ziza|zho:zizi eng:sizzle|
@@ -676,10 +686,12 @@
 |spadek, dziedzictwo, spuścizna, zapis|waris|ind:waris. ara:(wariþ). swa:urithi. tur:varis,miras.|
 |specjalny, wyraźny, wyrazisty|hasi|ara:(xāṣṣ). fas:urd:(xās). ind:ख़ास (xās). ind:khas.|
 |sport, lekkoatletyka|kel|hin:खेल (khel). ben:খেলা (khela). tha:กีฬา (kīlā). khm:កីឡា (keila).|
+|spotkanie, zebranie|mite|eng:meet. fra:meeting. spa:mitin. jpn:ミーティング (mītingu). hin:मीटिंग (mīṭiṅg).|
 |społeczeństwo, system społeczny|socia|rus:социум (socium). eng:society. spa:sociedad.|
 |sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać|genca|zho:检查 (jiǎnchá). yue:檢查 (gimcaa). vie:kiểm tra. jpn.検査 (kensa).|
 |sprawiedliwość|adalia|ara:(ʿadl). tur:adalet. ind:may:tkm:adalat. ben:আদালত (adalôt). fas:urd:('adālat).|
 |spódnica|jupe|fra:jupe. ara:(jūb). rus:юбка (yubka).|
+|spód|nice|ben:নিচে (nice). hin:नीचे (nīce). urd:(nīce). rus:ниже (niže).|
 |spółgłoska|konson|fra:consonne. eng:consonant.|
 |srom|vulve|fra:vulve. eng:por:spa:tur:vulva. rus:вульва (vul’va).|
 |ssać|cupa|spa:por:chupar. khm:ជប់ (cup).|
@@ -733,6 +745,7 @@
 |tchórz, fretka|furete|fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:(feretto). swa:fereti.|
 |technika, technologia|tekne|eng:technique. por:técnica. hin:तकनीक (taknīk). ind:teknik.|
 |temat, motyw|teme|fra: thème. spa: tema. rus: тема (tema). deu:Thema.|
+|temperatura|terme|deu:eng:fra:thermo-. spa:por:termo-. rus:термо- (termo-).|
 |ten, te|yi|hin:यह (ye). ben:এই (ei). tel:ఈ (ī). tam:இது (itu). kor:이 (i). |
 |tendencja|ive|eng:-ive. deu:-iv. Fra:-if,-ive. por:spa:-ivo. rus:-ивный (-ivnyj).|
 |test, wyzwanie, próba|teste|eng:fra:test. rus: тест (test). por:teste. tur:test.|
@@ -897,6 +910,7 @@
 |ławka|bence|eng:bench. swa:benchi. hin:बेंच (bẽc). jpn:ベンチ (benchi). kor:벤치 (benchi).|
 |łańcuch|silsil|hin:सिलसिला (silsilā). ara:(silsila). tur:silsile. swa:silisili.|
 |łyżka|camce|fas:(čamče). pnb:ਚਮਚਾ (camcā). ben:চামচ (camôc). hin:चम्मच (cammac). tha:ช้อน (chon).|
+|łza|kansuy|tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.|
 |łódź, statek|bote|spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|
 |łóżko|bede|eng:bed. deu:Bett. jpn:ベッド (beddo). zul:umbhede.|
 |łączyć, wiązać, złączyć|samuna|isl:sameina. deu:vereinigen.|

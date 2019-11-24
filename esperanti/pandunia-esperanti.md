@@ -12,7 +12,8 @@ abentur - aventuro
 abenturer - aventuristo  
 abla - povi  
 able - povo  
-abli - ebla (eble)  
+abli - ebla  
+ablo - eble  
 acinium - aktinio  
 adali - justa  
 adalia - justeco  
@@ -231,7 +232,7 @@ bunduke - fusilo
 bung - ventro  
 bus - buso  
 buton - klavo  
-butonobanze - klavaro  
+butonbanze - klavaro  
 buy - baobabo  
 buze - kapro  
 ##c
@@ -395,6 +396,7 @@ eske - demando
 eski - demanda  
 eskulta - skulti  
 eskulte - statuo (skultaĵo)  
+eskulter - skultisto  
 espania - Hispanio  
 esperanti - Esperanto  
 estadia - stadiono (areno)  
@@ -512,6 +514,7 @@ gabristan - tombejo
 gade - azeno  
 gadolinium - gadolinio  
 gaje - elefanto  
+galaksia - galaksio  
 galeria - galerio (ekspozicio)  
 galium - galiumo  
 galte - eraro (miso)  
@@ -531,6 +534,7 @@ garda - gardi
 garder - gardisto  
 garmi - varma  
 gas - gaso  
+gati - malmola  
 gawi - alta  
 gayania - Gujano  
 gaze - gazo  
@@ -683,7 +687,6 @@ iva - emi
 ive - emo (inklino, tendenco)  
 izi - facila  
 ##j
-ja - kiel  
 jake - jako  
 jama - kolekti (kunigi)  
 jamaikia - Jamajko  
@@ -756,8 +759,9 @@ kapa - kapti
 kar - aŭto (ĉaro)  
 karate - karateo  
 karawe - karvio  
+karbi - proksima  
 karbon - karbono  
-karbonodulokside - karbona dioksido  
+karbondulokside - karbona dioksido  
 karde - karto  
 karibia - Karibio  
 karma - agi  
@@ -1038,6 +1042,7 @@ nagri - urba
 naijiria - Niĝerio  
 nam - nomo  
 namibia - Namibio  
+namlekse - substantivo  
 nanas - ananaso  
 natre - natrio  
 nawati - naūatla  
@@ -1165,6 +1170,7 @@ plisa laya - inviti
 plumbe - plumbo  
 plus - ankaŭ  
 plutonium - plutonio  
+podia - Tibeto  
 poke - pokero  
 pol - multe  
 polgon - poligono  
@@ -1280,6 +1286,7 @@ samojinsokami - samseksema
 samoray - interkonsento  
 samoraya - samopinii (interkonsenti)  
 samude - maro  
+samudi - mara  
 sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
 sanebax - artefarita lingvo  
@@ -1304,6 +1311,7 @@ serbia - Serbio
 serebre - cerbo  
 seres - Cereso  
 serpe - serpento  
+serye - serio  
 si - jes  
 sida - sidi  
 sifolekse - adjektivo  
@@ -1322,9 +1330,10 @@ site - urbego
 skandium - skandio  
 sofi - saĝa  
 sofia - saga  
+soke - ŝtrumpo  
 sol - suno  
+solesistem - sunsistemo  
 solocate - sunombrelo  
-solosistem - sunsistemo  
 son - dormo  
 sonde - sono  
 song - pino  
@@ -1500,6 +1509,7 @@ xim - koro
 xin - kredo  
 xina - kreda  
 xing - stelo  
+xir - poemo  
 xirope - siropo  
 xite - merdo  
 xixi - silenta  
@@ -1522,6 +1532,7 @@ yesus - Jesuo
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  
+yuke - jado  
 yumor - humuro  
 yumori - humura  
 yumoriste - humuristo  
@@ -1537,6 +1548,7 @@ zarduxistia - zoroastrismo
 zari - hazarda  
 zay - ĉeestanta (nuna, ekzistanta)  
 zay den - hodiaŭ  
+zaye - nuno  
 zayia - ĉeestanteco (ekzisto)  
 ze - si  
 zebre - zebro  
@@ -1548,5 +1560,6 @@ zinje - zingibro
 zinke - zinko  
 ziran - kumino  
 zirkonium - zirkonio  
+zone - zono  
 zuluh - zuluo  
 zumrude - smeraldo  

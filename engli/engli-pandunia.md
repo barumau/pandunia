@@ -1,11 +1,10 @@
 # engli-pandunia
-"present time (now) - zaye  
 -ness (-ity) - -es  
 @ symbol - adresesimbol (@)  
 a couple of - dul u tin  
 ##a
 ability (skill) - able  
-about (approximately) - yagi  
+about (approximately) - yago  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
 accent (stress) - aksente  
@@ -241,6 +240,7 @@ Belize - belizia
 belly (abdomen) - bung  
 belong (be a member) - memba  
 belong - tenu  
+belt (zone) - zone  
 bench - bence  
 beneficial (good) - ewi  
 Bengali (Bangla) - bangli  
@@ -251,7 +251,7 @@ Bermuda - bermudia
 berry - bere  
 beryllium - beril  
 between - inter  
-Bhutan - butan  
+Bhutan - drugia  
 Bible - biblia  
 bicycle (pedal bike) - pedalsikle  
 big (great) - day  
@@ -273,7 +273,7 @@ blossom (bloom) - pula
 blow - hawa  
 blue - nili  
 board (plank) - banze  
-board game - banzogem  
+board game - banzegem  
 boat (ship) - bote  
 bodily (corporal) - badani  
 body - badan  
@@ -377,7 +377,7 @@ carat - kirate
 caravan (convoy) - karwan  
 caraway - karawe  
 carbon (coal) - karbon  
-carbon dioxide - karbonodulokside  
+carbon dioxide - karbondulokside  
 card - karde  
 care (cure) - kura  
 Caribbean - karibia  
@@ -396,7 +396,7 @@ Caucasia - kaukasia
 cause (be the cause for) - saba  
 cause to make - isa  
 cave - guhe  
-Cayman Islands - keiman da nesia  
+Cayman Islands - keiman nesia  
 celebrate (party) - festa  
 celestial (heavenly) - samani  
 cell (biology) - sel  
@@ -478,7 +478,7 @@ cobalt - kobalte
 coca - koke  
 coco - yeze  
 cocoa - kakaw  
-Cocos (Keeling) Islands - kokos da nesia  
+Cocos (Keeling) Islands - kokos nesia  
 code (cipher) - kode  
 coerce (force, compel) - musa  
 coercion - muse  
@@ -539,7 +539,7 @@ contribute - fenodona
 conventional (customary, traditional) - rasmi  
 cook (chef) - kuker  
 cook (prepare food) - kuka  
-Cook Islands - kuke da nesia  
+Cook Islands - kuke nesia  
 cool - kul  
 copernicium - kopernikium  
 copper - kuper  
@@ -721,7 +721,7 @@ Egypt - misria
 Egyptian - misri  
 eight (8) - bal  
 einsteinium - ainstainium  
-El Salvador - salbadoria  
+El Salvador - salvadoria  
 elastic - lasti  
 electric - eletri  
 electricity - eletre  
@@ -757,6 +757,7 @@ Esperanto - esperanti
 essay - esey  
 estimate (approximate) - yaga  
 Estonia - estia  
+Eswatini (Swaziland) - suatia  
 ethics - darmoloji  
 Ethiopia - etiopia  
 etymology - leksaslia  
@@ -793,7 +794,7 @@ face - muke
 face powder - mukofun  
 factory - fateria  
 failure (flop) - xibay  
-Falkland Islands (Malvinas) - malbinas da nesia  
+Falkland Islands (Malvinas) - malvinas nesia  
 fall - padu  
 false (fake) - falsi  
 family - famil  
@@ -907,6 +908,7 @@ future time - wile
 ##g
 Gabon - gabunia  
 gadolinium - gadolinium  
+galaxy - galaksia  
 gallery (exhibition hall) - galeria  
 gallium - galium  
 Gambia - gambia  
@@ -965,6 +967,8 @@ grain (seed) - dan
 gram - gram  
 grammar - baxkanun  
 grammatical - baxkanuni  
+grandfather - lawpape  
+grandmother - lawmame  
 grape - putaw  
 grapheme - grafem  
 graphic (pictorial) - grafi  
@@ -1020,6 +1024,7 @@ hand - hate
 hang (dangle) - penda  
 happy (delighted) - suki  
 harbor (seaport) - suyporte  
+hard (tough) - gati  
 hardship (difficulty) - kunan  
 harmful (damaging) - damaji  
 harmonius - harmoni  
@@ -1208,7 +1213,7 @@ Kannada - karnadi
 karaoke - karaoke  
 karate - karate  
 Karnataka - karnadia  
-Kazakhstan - kazahia  
+Kazakhstan - kazakia  
 kebab (skewer meat) - kababe  
 keeper (possessor) - tener  
 keeper (preserver) - hafizer  
@@ -1217,7 +1222,7 @@ ketchup - kecape
 kettle - ketel  
 key (push-button, switch) - buton  
 key - cabe  
-keyboard - butonobanze  
+keyboard - butonbanze  
 kill - morta  
 killer - morter  
 kilogram (kg) - kilogram  
@@ -1296,7 +1301,6 @@ life - hay
 light (bright) - nuri  
 light (illumination) - nur  
 like (enjoy, be fond of) - suku  
-like (similarly) - ja  
 like - fila  
 lilac - lilake  
 lilac color - lilaki  
@@ -1421,6 +1425,7 @@ maximal - maximi
 maximum - maxime  
 May - mes 5 (mes lim)  
 Maya - mayan  
+maybe (perhaps, possibly) - ablo  
 Mayotte - mayotia  
 mean (cruel) - zalim  
 mean (signify) - mena  
@@ -1433,6 +1438,7 @@ medicine (field of study) - medikia
 meditate (ponder) - medita  
 medium (intermediate, mean) - medi  
 medium (media) - media  
+meet - mita  
 meeting (gathering) - mite  
 mega- - mego-  
 megawat (MW) - megowate  
@@ -1481,7 +1487,7 @@ misunderstand - galti buda
 mix (blend) - mixa  
 mixer (blender) - mixer  
 model (design) - model  
-Moldova - moldowia  
+Moldova - moldovia  
 mole (burrowing animal) - krote  
 mollusk - moluske  
 molybdenum - molidenum  
@@ -1557,6 +1563,7 @@ nationalist - nasiste
 Nauru - nauru  
 Nazi - naciste  
 Nazism - nacistia  
+near (close) - karbi  
 necessary (needed) - nidi  
 need - nida  
 need - nide  
@@ -1602,7 +1609,7 @@ norm (standard) - norme
 normal - normi  
 north - norde  
 northern - nordi  
-Northern Mariana Islands - marian da nesia  
+Northern Mariana Islands - marian nesia  
 Norway - norgia  
 Norwegian - norgi  
 nose - nos  
@@ -1615,6 +1622,7 @@ notebook - notobuke
 nothing - nol xey  
 notice (notification) - notis  
 notify - notisa  
+noun - namlekse  
 November - mes 11 (mes des un)  
 nudism - nudistia  
 nudist - nudiste  
@@ -1637,6 +1645,7 @@ oganesson - oganeson
 ogre (troll, goblin) - guy  
 oh! - o  
 okay (acceptable) - okey  
+old (aged, elderly) - lawi  
 old (ancient) - purani  
 olive - zaitun  
 Oman - omania  
@@ -1661,7 +1670,7 @@ order (command) - komande
 order (issue a command) - komanda  
 ordinary (routine, normal) - adi  
 orgasm - orgazme  
-oriental dragon - rong  
+oriental dragon - lung  
 origin (source) - asle  
 original (authentic) - asli  
 Oromia - oromia  
@@ -1751,6 +1760,7 @@ penis (phallus) - penis
 pentagon - limogon  
 pentahedron (prism) - limofas  
 peony - mudan  
+people (folk) - nas  
 people (population) - deme  
 pepper (Piper nigrum) - pimente  
 perfect - kamili  
@@ -1824,6 +1834,7 @@ plug (stop with a plug) - tapa
 Pluto (dwarf planet) - pluto  
 plutonium - plutonium  
 pocket - jebe  
+poem - xir  
 poet - xirer  
 point (full stop) - punte  
 point at (indicate) - ponta  
@@ -1858,7 +1869,7 @@ portion (dose) - doze
 Portugal - portugalia  
 pose (position) - poze  
 pose (set) - poza  
-possible (possibly, maybe, perhaps) - abli  
+possible - abli  
 post office - postokan  
 postal stamp - postocape  
 posture (asana) - asan  
@@ -1879,6 +1890,7 @@ pregnant - hamili
 prepare (make ready) - reda  
 presence (existence) - zayia  
 present (current, existing) - zay  
+present time (now) - zaye  
 preserve (conserve, retain, spare) - hafiza  
 president - prezidente  
 press (imprint) - capa  
@@ -2100,6 +2112,7 @@ scissors - makas
 screen - ekran  
 screw - lose  
 sculpt - eskulta  
+sculptor - eskulter  
 sculpture (art of sculpting) - eskultia  
 sculpture (statue) - eskulte  
 sea - samude  
@@ -2124,6 +2137,7 @@ sense - sense
 sentence (phrase) - fraze  
 September - mes 9 (mes naw)  
 Serbia - serbia  
+series (sequence) - serye  
 servant - serwer  
 serve (give service) - serwa  
 service - serwe  
@@ -2134,7 +2148,7 @@ sex (sexual intercourse) - sekse
 sexual (relating to gender) - seksi  
 sexual desire (lust) - kamia  
 sexy (sexual) - seksi  
-Seychelles - sexel da nesia  
+Seychelles - sexel nesia  
 shadow - saye  
 shaman - xaman  
 shame (disgrace) - xarme  
@@ -2200,13 +2214,14 @@ socialism - socistia
 socialist - sociste  
 socialize (interact) - soca  
 society (association) - socia  
+sock (stocking) - soke  
 sodium - natre  
 sofa (couch) - kanape  
 soft - komal  
 soil (dirt) - darte  
-solar system - solosistem  
+solar system - solesistem  
 soldier - lasker  
-Solomon Islands - solomon da nesia  
+Solomon Islands - solomon nesia  
 solstice - solestas  
 Somalia - somalia  
 some - koy  
@@ -2314,7 +2329,6 @@ sushi - suxe
 suture (seam) - sutur  
 Swahili - suahili  
 swallow - gula  
-Swaziland - suazia  
 sweat (perspiration) - suede  
 sweaty - suedi  
 Sweden - suenia  
@@ -2359,6 +2373,8 @@ tea cup - cayokupe
 tea house - cayeria  
 teacher - darsogur  
 team - tim  
+tear drop - kansuy  
+tear gas - kansuygas  
 technetium - teknetium  
 technique (technology) - tekne  
 technocracy - tenknekratia  
@@ -2368,6 +2384,7 @@ television - telowide
 tell (narrate) - saga  
 tellurium - telurium  
 Telugu - telugi  
+temperature - terme  
 temple - mandir  
 tempt (entice) - tenta  
 ten (10) - des  
@@ -2413,6 +2430,7 @@ throw (launch) - lanca
 thulium - tulium  
 thunder (roaring) - grom  
 Thursday - war 4 (war car)  
+Tibet - podia  
 ticket - tikete  
 tie (fasten, bind) - benda  
 tie a knot - noda  
@@ -2499,6 +2517,7 @@ unambiguous - unmeni
 uncover (reveal) - dekula  
 under (go under) - nica  
 undergo (passivizing verb) - beyu  
+underside (underneath) - nice  
 understand (realize) - aha  
 union - unia  
 unite - una  
@@ -2567,7 +2586,7 @@ wait - denga
 wake (make awake) - weka  
 walk (march) - marca  
 wall - wal  
-Wallis and Futuna Islands - walis i futun da nesia  
+Wallis and Futuna Islands - walis i futun nesia  
 wallpaper - walpapir  
 want (desire, longing) - wan  
 want (desire, wish) - wana  

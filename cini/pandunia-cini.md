@@ -4,6 +4,7 @@ abace - 字母表
 abentur - 冒险  
 abenturer - 冒险者  
 abla - 会  
+abli - 可能  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -121,8 +122,10 @@ fitelojia - 植物学
 fora  - 钻孔  
 fotografe - 照片  
 ##g
+galaksia - 恆星系  
 galte - 错误  
 gar - 如果 (要是)  
+gati - 硬  
 gitar - 吉他  
 gol - 目的  
 gunden - 宫殿  
@@ -167,7 +170,8 @@ kamis - 衬衫
 kanape - 沙发  
 kance - 玻璃  
 kande - 糖果  
-karbonodulokside - 二氧化碳  
+kansuygas - 催泪瓦斯  
+karbondulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
 kartografia - 地图学  
@@ -191,6 +195,7 @@ kube - 立方体
 kupe - 杯子  
 ##l
 laskeria - 军队  
+lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  
 le - 他，她，它  
@@ -208,6 +213,7 @@ lole - 他们
 lon - 论  
 long - 长  
 lugi - 绿色  
+lung - 龙  
 luta - 掠夺  
 luter - 强盗  
 ##m
@@ -235,6 +241,8 @@ metaljanger - 铁匠
 mey - 每  
 meze - 桌子  
 migra - 搬家  
+mita - 聚会  
+mite - 会议  
 moke - 木材  
 mokojanger - 木匠  
 mome - 我们  
@@ -310,10 +318,11 @@ sapate - 鞋
 sar - 头  
 sekse - 性别  
 selelojia - 细胞学  
+serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  
 sol - 太阳  
-solosistem - 太阳系  
+solesistem - 太阳系  
 sonkamar - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sosis - 香肠  
@@ -370,6 +379,7 @@ xatan - 撒但
 xaw - 少  
 xey - 事物 (东西)  
 xim - 心  
+xir - 诗  
 xite - 粪 (屎)  
 xofa - 开车  
 xofer - 司机  

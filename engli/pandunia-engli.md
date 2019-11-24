@@ -12,7 +12,8 @@ abentur - adventure (venture)
 abenturer - adventurer  
 abla - can (know, be able)  
 able - ability (skill)  
-abli - possible (possibly, maybe, perhaps)  
+abli - possible  
+ablo - maybe (perhaps, possibly)  
 acinium - actinium  
 adali - just (fair)  
 adalia - justice  
@@ -169,7 +170,7 @@ banye - bath
 banyekamar - bathroom  
 banyu - bathe  
 banze - board (plank)  
-banzogem - board game  
+banzegem - board game  
 bar - bar  
 bar - weight  
 barbados - Barbados  
@@ -305,9 +306,8 @@ burge - castle (fortress, stronghold)
 burkinia - Burkina Faso  
 bus - bus  
 buste - bust (bosom)  
-butan - Bhutan  
 buton - key (push-button, switch)  
-butonobanze - keyboard  
+butonbanze - keyboard  
 buy - baobab  
 buze - goat  
 ##c
@@ -471,6 +471,7 @@ doxi - guilty
 doze - portion (dose)  
 drame - drama  
 droge - drug (intoxicating substance)  
+drugia - Bhutan  
 du - of (particle of possession)  
 dubnium - dubnium  
 duga - read  
@@ -528,6 +529,7 @@ eske - question
 eski - interrogative  
 eskulta - sculpt  
 eskulte - sculpture (statue)  
+eskulter - sculptor  
 eskultia - sculpture (art of sculpting)  
 espania - Spain  
 esperanti - Esperanto  
@@ -678,6 +680,7 @@ gabunia - Gabon
 gade - donkey (ass)  
 gadolinium - gadolinium  
 gaje - elephant  
+galaksia - galaxy  
 galeria - gallery (exhibition hall)  
 galium - gallium  
 galta - make a mistake  
@@ -705,6 +708,7 @@ garmi masal - garam masala
 gas - gas  
 gasi - gaseous  
 gasu - gasify (become gas)  
+gati - hard (tough)  
 gawa - raise (lift)  
 gawi - high  
 gayania - Guyana  
@@ -931,7 +935,6 @@ iva - tend to
 ive - tendency(inclination)  
 izi - easy  
 ##j
-ja - like (similarly)  
 jake - jacket  
 jama - collect (gather, bring together)  
 jamaikia - Jamaica  
@@ -1037,6 +1040,8 @@ kanjar - dagger
 kanokex - eyelash  
 kanon - gun (cannon)  
 kanoner - cannoneer  
+kansuy - tear drop  
+kansuygas - tear gas  
 kante - shoulder  
 kanuh - canoe  
 kanun - law  
@@ -1046,8 +1051,9 @@ kar - car (cart, carriage, wagon, automobile)
 karaoke - karaoke  
 karate - karate  
 karawe - caraway  
+karbi - near (close)  
 karbon - carbon (coal)  
-karbonodulokside - carbon dioxide  
+karbondulokside - carbon dioxide  
 karbu - approach (get near)  
 karde - card  
 karibia - Caribbean  
@@ -1076,11 +1082,11 @@ kaxer - cashier
 kay - open (not closed)  
 kaya - open  
 kayu - become open  
-kazahia - Kazakhstan  
+kazakia - Kazakhstan  
 ke - what?  
 kecape - ketchup  
 keci - polite  
-keiman da nesia - Cayman Islands  
+keiman nesia - Cayman Islands  
 keke - cake (cookie)  
 kel - sport (athletics)  
 kelele - noise  
@@ -1140,7 +1146,7 @@ koda - encode
 kode - code (cipher)  
 koke - coca  
 kokode - chicken  
-kokos da nesia - Cocos (Keeling) Islands  
+kokos nesia - Cocos (Keeling) Islands  
 kola - cola  
 koler - cholera  
 kolombia - Colombia  
@@ -1221,7 +1227,7 @@ kube - cube
 kubia - Cuba  
 kuga - weep (cry)  
 kuka - cook (prepare food)  
-kuke da nesia - Cook Islands  
+kuke nesia - Cook Islands  
 kuker - cook (chef)  
 kukeria - kitchen  
 kul - cool  
@@ -1261,6 +1267,9 @@ lasun - garlic
 latini abace - Latin alphabet  
 latwia - Latvia  
 laurensium - lawrencium  
+lawi - old (aged, elderly)  
+lawmame - grandmother  
+lawpape - grandfather  
 laxa - release (let, let go)  
 laya - come  
 lazanye - lasagna  
@@ -1339,6 +1348,7 @@ lugi - green
 luksemburgia - Luxembourg  
 lul - pearl  
 lun - moon  
+lung - oriental dragon  
 lusun - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
 luter - robber (plunderer)  
@@ -1378,7 +1388,6 @@ malaisia - Malaysia
 malaria - malaria  
 malawia - Malawi  
 malayali - Malayali (Malayalam)  
-malbinas da nesia - Falkland Islands (Malvinas)  
 malia - Mali  
 malike - jasmine  
 malka - own  
@@ -1386,6 +1395,7 @@ malke - property (belongings, possessions)
 malker - owner (proprietor)  
 malofunce - malfunction  
 maltia - Malta  
+malvinas nesia - Falkland Islands (Malvinas)  
 mamal - mammal  
 mame - mother (mom)  
 man - male  
@@ -1410,7 +1420,7 @@ marca - walk (march)
 margarin - margarine  
 mari - married  
 maria - marriage (matrimony)  
-marian da nesia - Northern Mariana Islands  
+marian nesia - Northern Mariana Islands  
 marka - mark (leave a mark)  
 marke - mark (trace)  
 marmar - marble  
@@ -1534,6 +1544,7 @@ misia - mission (transmission, emission)
 miskin - poor (miserable)  
 misri - Egyptian  
 misria - Egypt  
+mita - meet  
 mite - meeting (gathering)  
 mixa - mix (blend)  
 mixer - mixer (blender)  
@@ -1543,7 +1554,7 @@ moge - ink
 moke - wood (timber)  
 mokojanger - carpenter  
 mola - grind (grind in mill)  
-moldowia - Moldova  
+moldovia - Moldova  
 moler - miller  
 molidenum - molybdenum  
 moluske - mollusk  
@@ -1618,11 +1629,13 @@ naijiria - Nigeria
 nam - name  
 namibia - Namibia  
 namisa - call (name)  
+namlekse - noun  
 namu - be called (be named)  
 nanas - pineapple  
 nano - nano-  
 nanometre - nanometer  
 narake - hell  
+nas - people (folk)  
 nasi - national  
 nasi socistia - national socialism  
 nasia - nation  
@@ -1656,6 +1669,7 @@ niama - consume (eat or drink)
 niami - delicious (yummy)  
 niamkamar - dining room  
 nica - under (go under)  
+nice - underside (underneath)  
 nici - lower  
 nida - need  
 nide - need  
@@ -1898,6 +1912,7 @@ plumbe - lead
 plus - also (plus, too)  
 pluto - Pluto (dwarf planet)  
 plutonium - plutonium  
+podia - Tibet  
 poke - poker  
 pol - many (much)  
 polaw - pilaf (pulao)  
@@ -2047,7 +2062,6 @@ romansi - romantic
 romansia - romance (romantic love)  
 rome - Rome  
 romi empiria - Roman Empire  
-rong - oriental dragon  
 rose - dew  
 rosta - roast  
 rosti pang - toast (toasted bread)  
@@ -2113,10 +2127,10 @@ salam sube - Good morning
 salam xam - Good evening  
 salama - greet  
 salame - greeting (hello)  
-salbadoria - El Salvador  
 sali - salty (saline)  
 salima - surrender (to give up)  
 salonia - Sierra Leone  
+salvadoria - El Salvador  
 sam - same  
 saman - sky (heaven)  
 samani - celestial (heavenly)  
@@ -2183,8 +2197,9 @@ serpe - snake (serpent)
 serwa - serve (give service)  
 serwe - service  
 serwer - servant  
+serye - series (sequence)  
 sesam - sesame  
-sexel da nesia - Seychelles  
+sexel nesia - Seychelles  
 si - yes  
 sibir - Siberia  
 sida - sit  
@@ -2229,11 +2244,12 @@ sociste - socialist
 socistia - socialism  
 sofi - wise  
 sofia - wisdom  
+soke - sock (stocking)  
 sol - sun  
+solesistem - solar system  
 solestas - solstice  
 solocate - parasol  
-solomon da nesia - Solomon Islands  
-solosistem - solar system  
+solomon nesia - Solomon Islands  
 somalia - Somalia  
 son - sleep  
 sonda - sound (make a sound)  
@@ -2246,7 +2262,7 @@ sosis - sausage
 sotia - Lesotho  
 suahili - Swahili  
 suan - sour  
-suazia - Swaziland  
+suatia - Eswatini (Swaziland)  
 sube - morning (dawn)  
 suboden - forenoon  
 suboniam - breakfast  
@@ -2357,6 +2373,7 @@ tenu - belong
 teoria - theory  
 tepe - tape  
 terbium - terbium  
+terme - temperature  
 termemeter - thermometer  
 tero- - tera-  
 teror - terror  
@@ -2508,7 +2525,7 @@ wada - promise (commit)
 waf - dog  
 wakila - represent  
 wal - wall  
-walis i futun da nesia - Wallis and Futuna Islands  
+walis i futun nesia - Wallis and Futuna Islands  
 walpapir - wallpaper  
 wan - want (desire, longing)  
 wana - want (desire, wish)  
@@ -2587,6 +2604,7 @@ xin - belief (faith, creed)
 xina - believe  
 xindawistia - Shintoism  
 xing - star  
+xir - poem  
 xirer - poet  
 xirope - syrup  
 xite - shit (feces)  
@@ -2611,7 +2629,7 @@ xuti - skillful
 xuxe - rest (relief)  
 ##y
 yaga - estimate (approximate)  
-yagi - about (approximately)  
+yago - about (approximately)  
 yake - yak  
 yala - hurry (hasten)  
 yang - kind (type, style)  
@@ -2649,7 +2667,7 @@ zarduxistia - Zoroastrianism
 zari - random  
 zay - present (current, existing)  
 zay den - today  
-zaye - "present time (now)  
+zaye - present time (now)  
 zayia - presence (existence)  
 zayu - exist (be present)  
 ze - self  
@@ -2673,6 +2691,7 @@ ziran - cumin (jeera)
 zirkonium - zirconium  
 ziza - sizzle  
 zombe - zombie  
+zone - belt (zone)  
 zukam - cold (illness)  
 zuluh - Zulu  
 zumrude - emerald  

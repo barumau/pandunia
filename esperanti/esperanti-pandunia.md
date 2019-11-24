@@ -290,7 +290,8 @@ dubnio - dubnium
 dubo - dute  
 duŝo - dux  
 ##e
-ebla (eble) - abli  
+ebla - abli  
+eble - ablo  
 eco - gune  
 edzigi - mara  
 egala - egal  
@@ -446,6 +447,7 @@ fusilo - bunduke
 fuĝi - bega  
 ##g
 gadolinio - gadolinium  
+galaksio - galaksia  
 galerio (ekspozicio) - galeria  
 galiumo - galium  
 Gangoj - ganga  
@@ -587,6 +589,7 @@ iu - koy
 iu ajn - eni  
 iu persono - koy ren  
 ##j
+jado - yuke  
 jako - jake  
 jam (esti farita) - lew  
 Jamajko - jamaikia  
@@ -634,7 +637,7 @@ kapro - buze
 kapti - kapa  
 karateo - karate  
 karavano - karwan  
-karbona dioksido - karbonodulokside  
+karbona dioksido - karbondulokside  
 karbono - karbon  
 Karibio - karibia  
 karoto - karote  
@@ -653,7 +656,6 @@ kial? - ki yangi
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  
-kiel - ja  
 kiel? - ko?  
 kilometro - kilometre  
 kio? - ke  
@@ -665,7 +667,7 @@ kiu? - ki ren
 kivo - kiwe  
 klara - klar  
 klarigi - klara  
-klavaro - butonobanze  
+klavaro - butonbanze  
 klavo - buton  
 klimato - klime  
 klimatscienco - klimelojia  
@@ -831,6 +833,7 @@ malliberejo - prizonia
 malliberigi - prizona  
 mallonga - korti  
 mallongigi - korta  
+malmola - gati  
 malmulte - xaw  
 malnova - purani  
 malplej - minim  
@@ -852,6 +855,7 @@ maniero (konduto) - manir
 mano - hate  
 manĝi (trinki) - niama  
 manĝoĉambro - niamkamar  
+mara - samudi  
 maratono - maraton  
 margarino - margarin  
 marmoro - marmar  
@@ -983,6 +987,7 @@ noto (rimarko, komento) - note
 nova - novi  
 novaĵoj - habar  
 nudelo - mien  
+nuno - zaye  
 nur - mon  
 ##o
 oazo - wase  
@@ -1095,6 +1100,7 @@ plumo - per
 plutonio - plutonium  
 pluva - barxi  
 pluvo - barxe  
+poemo - xir  
 pokero - poke  
 poligono - polgon  
 politika - politiki  
@@ -1131,6 +1137,7 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
+proksima - karbi  
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  
@@ -1260,6 +1267,7 @@ sen - na
 senti - senta  
 sep (7) - sem  
 Serbio - serbia  
+serio - serye  
 serpento - serpe  
 sezono - mosim  
 seĝo - kurse  
@@ -1278,6 +1286,7 @@ skandio - skandium
 skatolo (kesto) - sanduke  
 skribo - kitabe  
 skulti - eskulta  
+skultisto - eskulter  
 smeraldo - zumrude  
 sofo - kanape  
 soldato - lasker  
@@ -1300,6 +1309,7 @@ stiri - gida
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
+substantivo - namlekse  
 Sudkoreio - hangogia  
 sudo - sude  
 sufiĉa - bas  
@@ -1309,7 +1319,7 @@ sulfuro - sulfe
 sumo - sum  
 suno - sol  
 sunombrelo - solocate  
-sunsistemo - solosistem  
+sunsistemo - solesistem  
 superiri - supra  
 supo - supe  
 surfaco - fas  
@@ -1360,6 +1370,7 @@ teroro - teror
 terpomo - patate  
 tertremo - sisme  
 testo - teste  
+Tibeto - podia  
 tie - sa ce  
 tigro - bagre  
 timo (fobio) - fobia  
@@ -1486,6 +1497,7 @@ zebro - zebre
 zingibro - zinje  
 zinko - zinke  
 zirkonio - zirkonium  
+zono - zone  
 zoo (bestoĝardeno) - hewanoparke  
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
@@ -1545,6 +1557,7 @@ zuluo - zuluh
 ŝtelo - core  
 ŝtono - petre  
 ŝtormo - tafun  
+ŝtrumpo - soke  
 ŝtuparo - eskal  
 ŝuistejo - sapateria  
 ŝuisto - sapater  

@@ -3,6 +3,7 @@
 abace - алфавит  
 abentur - авантюра  
 abenturer - авантюрист  
+abli - возможный  
 adali - справедливый  
 adalia - справедливость  
 adres - адрес  
@@ -105,6 +106,7 @@ dul u tin - пара
 dunia - мир (свет)  
 ##e
 esa - быть  
+eskulter - скульптор  
 ewanjil - евангелие  
 ##f
 filosofia - философия  
@@ -115,8 +117,12 @@ fora  - сверлить (бурить)
 fotografe - фотокарточка  
 fotografia - фотография  
 ##g
+galaksia - галактика  
 gar - если  
 gas - газ  
+gati - твёрдый  
+gazel - газель  
+gemer - игрок (геймер)  
 gitar - гитара  
 gol - цель  
 gul - гуль (вурдалак)  
@@ -162,7 +168,8 @@ kamis - рубашка
 kanape - канапе  
 kance - стекло  
 kanjar - кинжал  
-karbonodulokside - двуокись углерода  
+kansuygas - слезоточи́вый газ  
+karbondulokside - двуокись углерода  
 karde - карта  
 karte - карта  
 kartografia - картография  
@@ -191,6 +198,7 @@ kupe - чаша (чашка, стакан)
 ##l
 lasker - солдат  
 laskeria - армия  
+lawi - пожилой  
 lazanye - лазанья  
 leksaslia - этимология  
 lekse - слово  
@@ -225,7 +233,7 @@ medi - средний
 megam - облако  
 mem - память  
 mema - помнить  
-memnote - "меморандум  
+memnote - меморандум  
 memula - забывать  
 mes - месяц  
 mester - мастер  
@@ -237,6 +245,7 @@ moluske - моллюск
 mome - мы  
 ##n
 nade - река  
+nasia - нация  
 neuresel - нейрон  
 nida - нуждаться  
 nide - нужда  
@@ -303,7 +312,7 @@ salame - приветствие
 saman - небо  
 samoray - согласие  
 samude - море  
-samudi - "морской  
+samudi - морской  
 sang - кровь  
 sanwice - сандвич  
 sapate - حِذَاء  
@@ -311,9 +320,11 @@ sar - голова
 sekse - пол  
 selelojia - цитология  
 sen - сцена  
+serye - серия  
 si - да  
 sikliste - велосипедист  
 slavi - славянский  
+soke - носок  
 sol - солнце  
 solocate - зонтик от солнца  
 sonkamar - спальня  
@@ -401,5 +412,6 @@ zimi - зимний
 zinje - имбирь  
 zinke - цинк  
 ziran - тмин  
+zone - пояс (зона)  
 zuluh - зулус  
 zumrude - изумруд  
