@@ -438,7 +438,7 @@ dewiste||||theist||||||||||||||||teisti|teistyczny
 dewistia||||theism||||||||||||||||teismi (jumalusko)|teizm
 dewokratia||||theocracy|||||||||||||||teokratio|teokratia|teokracja
 dewlojia||||theology|||||||||||||||teologio|teologia|teologia
-dex|||hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).|country (land)|||||||||||||||lando|maa (valtio)|kraj, ziemia
+dex|||hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).|country (land, state)|||||||||||||||lando|maa (valtio)|kraj, ziemia
 din|||ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).|religion (worship)|||||||||||||||religio|uskonto|religia, wyznanie
 ding|||zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|nail (spike)||||||钉子|||||||||najlo|naula (piikki)|kolec
 dini||||religious|||||||||||||||religia|uskonnollinen|
@@ -448,7 +448,7 @@ disprosium|made|Dy||dysprosium|||||||||||||||disprozio|dysprosium|dysproz
 dixe|||hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).|direction||||||||||||||||suunta|kierunek
 doici||||German||||||||||||||||saksalainen|niemiecki
 doicia|dex|DE||Germany||||||||||||||||Saksa|Niemcy
-dokum|||eng:fra:document. rus:документ (dokument).|document (record)||||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
+dokum|||eng:fra:document. rus:документ (dokument).|document (record, file)||||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
 dolar||||dollar|||||||||||||||dolaro|dollari|dolar
 dom|||rus:дом (dom). pol:dom. ltn:domus. + eng:domestic. fra:domestique. spa:por:doméstico.|home (residence)||||||房子|||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
 doma||||accommodate|||||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
@@ -580,6 +580,8 @@ febre|||por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.|fiever|||||||
 fem|||fra:femme. por:fêmea. eng:female.|female||||||女|||||||||ino|naaras|kobieta; kobiecy
 femi bace||||daughter|||||||||||||||filino|tyttölapsi|córka
 femi rajer||||queen||||||||||||||||kuningatar|królowa
+femiste||||feminist|||||||||||||||||
+femistia||||feminism|||||||||||||||||
 fen|||zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).|part (fraction)|||||||||||||||parto (frakcio)|osa (pala)|część, ułamek
 fena||||divide (to partition)|||||||||||||||dividi|jakaa (paloitella)|dzielić
 fenodona||||contribute||||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
@@ -696,11 +698,11 @@ gar|||fas:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. ka
 garante||||guarantee (warranty)|||||||||||||||garantio|takuu|gwarancja
 garda||||guard (watch)|||||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
 garder|||eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).|guardian (watchman)|||||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
-garmi|||hin:गरम (garm). urd:fas:گرم‎‎ (garm). kur:germ. deu:eng:warm.|warm|||||||||||||||varma|lämmin|ciepły
+garmi|||hin:गरम (garm). urd:fas:گرم‎‎ (garm). kur:germ. deu:eng:warm.|warm (hot)|||||||||||||||varma|lämmin|ciepły
 garmi masal||||garam masala||||||||||||||||garam masala|garam masala
 gas|||deu:eng:spa:ind:gas. por:gás. ben:গ্যাস (gyas). jpn:ガス (gasu). kor:가스 (gaseu). hin:गैस (gais). fra:tur:gaz. rus:газ (gaz). ara:(ḡāz).|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gasi||||gaseous||||||||||||||||kaasumainen|
-gasu||||gasify (become gas)||||||||||||||||kaasuuntua|
+gasu||||gasify (vaporize)||||||||||||||||kaasuuntua|
 gawa||||raise (lift)||||||||||||||||nostaa|
 gawi|||zho:高 (gāo). vie:cao.|high|||||||||||||||alta|korkea|wysoki
 gayania|dex|GY||Guyana|||||||||||||||Gujano|Guyana|Gujana
@@ -798,7 +800,7 @@ harabi|||ara:fas:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খ�
 haram|||ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:харамный (xaramniy).|forbidden (illicit, haram, taboo)||||||||||||||||kielletty|zabroniony (wzbroniony, nielegalny, haram, tabu)
 harama||||forbid (ban, disallow)||||||||||||||||kieltää|zabronić (wzbronić, zakazać)
 harfe|||ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.|letter (character, written symbol)|||||||||||||herufi|harf|litero|kirjain|litera, znak
-harmoni||||harmonius|||||||||||||||harmonia|harmoninen|harmoniczny
+harmoni||||harmonious|||||||||||||||harmonia|harmoninen|harmoniczny
 harmonia||||harmony|||||||||||||||harmonio|harmonia|harmonia
 harnes|||fra:harnais. eng:harness. spa:arnés. por:arnês.|harness||||||||||||||||valjaat|zaprzęc, zaprzęgać
 hasa||||distinguish||||||||||||||||erottaa (nähdä ero)|
@@ -1266,6 +1268,7 @@ leftiste||||leftist (left-winger)||||||||||||||||vasemmistolainen|lewicowiec (le
 lekin|||ara: لكن (lākin). hin:लेकिन (lekin). swa:lakini.|however|||||||||||||||tamen|kuitenkin|
 leksaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|
 lekse||||word|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
+lekseliste||||dictionary (word list)||disionario|||||辞書||||||||vortaro||
 leksem||||lexeme||||||||||||||||lekseemi|leksem
 leksi|||eng:fra:lexical. spa:por:léxico. rus:лексический (leksičeskiy).|lexical|lexical|léxico|léxico|лексический|||||||||||||
 leksia||||vocabulary (lexicon)|vocabulaire (lexique)|||словарь|||||||||||vortaro|sanasto|słownictwo
@@ -1344,6 +1347,7 @@ lutheristia||||Lutheranism|luthéranisme|luteranismo|luteranismo|лютера́�
 luza||||lose (fail to win)||||||||||||||||hävitä (kärsiä tappio)|przegrać, przegrywać
 luzer||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
 maca|||eng:match. sve:matcha. kor:맞다 (matda).|match (fit, suit, conform)|||||||||||||||kongrui|sopia|pasować
+macia||||consistency|||||||||||||||||
 madagasi||||Malagasy||||||||||||||||malagassi|madagaskarski; malagaski
 madagasia|dex|MG||Madagascar||||||||||||||||Madagaskar|Madagaskar
 madiaria|dex|HU||Hungary||||||||||||||||Unkari|Węgry
@@ -1668,6 +1672,7 @@ ninde|||hin:mar:निन्द् (nind).|insult (offence)|||||||||||||||insult
 nindi||||rude (offensive)||||||||||||||||törkeä|obraźliwy, niemiły, obelżywy
 niobium|made|Nb||niobium|||||||||||||||niobo|niobium|niob
 niponia|dex|JP||Japan|||||||||||||||Japanio|Japani|Japonia
+niponi||||Japanese|||||||||||||||||
 niponium|made|Nh||nihonium|||||||||||||||nihonio|nihonium|nihonium
 nitre|made|N||nitrogen|||||||||||||||nitrogeno|typpi|azot
 niwia|dex|NU||Niue||||||||||||||||Niue|Niue
@@ -1688,6 +1693,7 @@ nonga||||cultivate (farm)||||||||||||||||viljellä|uprawić, uprawiać
 nonger||||farmer||||||||||||||||maanviljelijä|rolnik, farmer
 norde||||north||||||||||||||||pohjoinen|północ
 nordi||||northern||||||||||||||||pohjoinen|północny
+nordi amerike||||North America|||||||||||||||||
 norfolke|dex|NF||Norfolk Island||||||||||||||||Norfolkin saaret|Norfolk
 norgi||||Norwegian|||||||||||||||norvega|norjalainen|norweski
 norgia|dex|NO||Norway|||||||||||||||Norvegio|Norja|Norwegia
@@ -1992,7 +1998,7 @@ rasistia||||racism|||||||||||||||racismo|rasismi (rotuoppi)|rasizm
 rasme|||ara:(rasm). hin:रस्म (rasma). ind:resmi.|custom (tradition, practice, convention)||||||||||||||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
 rasmi||||conventional (customary, traditional)||||||||||||||||tavanomainen (perinteinen)|konwencjonalny, zwyczajowy, tradycyjny
 raste||||growth||||||||||||||||kasvu|wzrost
-rastu||||grow|||||||||||||||kreski|kasvaa|wzrastać
+rastu||||grow (grow up, expand)|||||||||||||||kreski|kasvaa|wzrastać
 ratiba||||order (arrange)||||||||||||||||järjestää (järjestellä)|porządkować, organizować
 ratibe||||order (arrangement)||||||||||||||||järjestys|porządek
 ray|||ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.|opinion (view)|||||||||||||||opinio|mielipide (näkemys)|opinia, pogląd
@@ -2252,6 +2258,7 @@ suboniam||||breakfast||||||||||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||||||||||||||||Sudan|Sudan
 sude|||spa:sur. por:sul. fra:sud.|south|||||||||||||||sudo|etelä|południe
+sudi amerike||||South America|||||||||||||||||
 sudi jorjia i sudi sanwice nesia|dex|GS||South Georgia and the South Sandwich Islands|||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 sudi sudania|dex|SS||South Sudan||||||||||||||||Etelä-Sudan|Sudan Południowy
 suede||||sweat (perspiration)||||||||||||||||hiki|pot
@@ -2483,6 +2490,8 @@ vimankaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
 vin|||fra:vin. spa:vino. rus:вино (vino). eng:wine. deu:Wein. hin:वाइन (vāin). jpn:ワイン (wain).|wine|||||||||||||||vino|viini|wino
 vineria||||winery||||||||||||||||viinipanimo|winiarnia
 vinil||||vinyl||||||||||||||||vinyyli|winyl
+santi vinsente||||Saint Vincent
+grenadin||||the Grenadines
 vinsente e grenadin|dex|VC||Saint Vincent and the Grenadines|||||||||||||||||Saint Vincent and Grenadines
 virus|||eng:virus. rus:вирус (virus).|virus|virus|||вирус||||||||||||virus|wirus
 viruslojia|||pol:wirusologia. rus:вирусология (virusologiya).|virology||||вирусология||||||||||||virologia|wirusologia
