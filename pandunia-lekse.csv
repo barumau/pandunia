@@ -159,9 +159,9 @@ ban|||kor:번 (beon). vie:bận. jpn:番 (ban). zho:遍 (biàn). + hin:बार
 banan|||wol:banaana. rus:банан (banan). pol:banan. fra:deu:banane. por:spa:eng:banana. jpn:バナナ (banana). kor:바나나 (banana).|banana|banane|plátano (banana)|banana|банан||香蕉||||केला||pisang||muz|banano|banaani|banan
 bande|||zho:班 (bān). vie:ban. kor:반 (ban). + eng:deu:band. fra:bande. rus:банда (banda). spa:por:tgl:pol:banda. jpn:バンド (bando).|band (squad, group)|bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)
 bandir|||eng:banner. fra:bannière. spa:bandera. por:bandeira. ind:bendera. tgl:bandila. swa:bendera.|flag (banner)|drapeau|||флаг||旗|||||||||flago|lippu|flaga, sztandar
+bangledexi||||Bangladeshi|||||||||||||||bangladeŝa|bangladeshilainen|
+bangledexia|dex|BD||Bangladesh|||||||||||||||Bangladeŝo|Bangladesh|Bangladesz
 bangli||||Bengali (Bangla)||||||||||||||||bengali|
-banglodexi||||Bangladeshi|||||||||||||||bangladeŝa|bangladeshilainen|
-banglodexia|dex|BD||Bangladesh|||||||||||||||Bangladeŝo|Bangladesh|Bangladesz
 banka||||save (deposit, bank)||||||||||||||||tallettaa (tallentaa)|oszczędzać, deponować
 banke|||eng:deu:pol:ind:bank. tur:banka. rus:банк (bank). fra:banque. spa:por:banco. fas:(bânk). hin:बैंक (baiṅk). urd:(baiṅk). tel:బ్యాంకు (byāṅku). tam:(vaṅki).|bank (depository)|banque|banco|banco|банк||银行||||बैंक||bank||banka|banko|pankki|bank
 banker||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkiiri|bankier
@@ -380,8 +380,8 @@ danka||||thank|||||||||||||||danki|kiittää|dziękować
 danke|||eng:thank. deu:Danke. + hin:धन्यवाद (dhanyavād).|thanks (thank you)|||||||||||||||danko|kiitos|dzięki, dzięki ci
 danse|||eng:fra:dance. spa:danza. por:dança. deu:Tanz. rus:танец (taněc). tur:dans. jpn:ダンス (dansu). kor:댄스 (daenseu). swa:dansi.|dance|dance|dança (baile)|baile (danza)|танец||||||||tari||dans|danco|tanssi|
 dante||||tooth|||||||||||||||dento|hammas|ząb
-dantobrox||||tooth brush|||||||||||||||dentbroso|hammasharja|szczoteczka do zębów
-dantomediker||||dentist|||||||||||||||dentisto|hammaslääkäri|dentysta
+dantebrox||||tooth brush|||||||||||||||dentbroso|hammasharja|szczoteczka do zębów
+dantemediker||||dentist|||||||||||||||dentisto|hammaslääkäri|dentysta
 darba||||strike (punch)|||||||||||||||bati|lyödä (iskeä)|bić, uderzyć, uderzać
 darje|||ara:(daraja). hin:दर्जा (darjā). swa:daraja. tur:derece. fas:(dareje). ind:derajat. + zho:阶 (jiē).|step (degree, rank, grade, level, class)||||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 darme|||hin:धर्म (dharm). urd:(dharm). ben:ধর্ম (dhôrmô). guj:ધર્મ (dharma). tel:ధర్మము (dharmamu). tam:தருமம் (tarumam). tha:ธรรม (tam). mya:ဓမ္မ (dhamma). ind:derma. zho:達摩 (dámó). kor:달마 (dalma). eng:deu:fra:spa:dharma. por:darma. rus:дхарма (dharma).|morality (ethics)||||||||||||||||moraali|moralność, etyka
@@ -397,7 +397,7 @@ darte|||eng:dirt. hin:धरती (dhartī). urd:(dhartī). vie:đất.|soil (d
 darwiniste||||Darwinist||||||||||||||||darwinisti|darwinista
 darwinistia||||Darwinism||||||||||||||||darwinismi|darwinizm
 date|||eng:ind:data. vie:đa ta. deu:Daten. spa:tgl:datos. por:dados. fas:(dâde-hâ). hin:डेटा (ḍeṭā). urd:(ḍeṭā). jpn:データ (dēta).|data (numeric information)|données|datos|dados|данные||数据||||डेटा||data||veri|datumo|data (numeerinen tieto)|
-datobanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|
+datebanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|
 daw|||zho:道 (dào). yue:道 (dou6). jpn:道 (dō). kor:도 (do). vie:đạo.|way (road)|||||||||||||||vojo|tie|droga, szosa, ulica
 dawiste||||Taoist||||||||||||||||taolainen|taoista
 dawistia||||Taoism (Daoism)||||||||||||||||taolaisuus|taoizm
@@ -438,7 +438,7 @@ dewiste||||theist||||||||||||||||teisti|teistyczny
 dewistia||||theism||||||||||||||||teismi (jumalusko)|teizm
 dewlojia||||theology|||||||||||||||teologio|teologia|teologia
 dewokratia||||theocracy|||||||||||||||teokratio|teokratia|teokracja
-dex|||hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).|country (land)|||||||||||||||lando|maa (valtio)|kraj, ziemia
+dex|||hin:देश (deś). ben:দেশ (deś). tel:(dēśamu).|country (land, state)|||||||||||||||lando|maa (valtio)|kraj, ziemia
 din|||ara:urd:(dīn). fas:(din). tur:ind:din. swa:dini. hau:addini. hin:दीन (dīn).|religion (worship)|||||||||||||||religio|uskonto|religia, wyznanie
 ding|||zho:钉 (dīng). yue:釘 (deng1). vie:đinh.|nail (spike)||||||钉子|||||||||najlo|naula (piikki)|kolec
 dini||||religious|||||||||||||||religia|uskonnollinen|
@@ -448,7 +448,7 @@ disprosium|made|Dy||dysprosium|||||||||||||||disprozio|dysprosium|dysproz
 dixe|||hin:mar:दिशा (diśā). urd:(diśā). mal:ദിശ (diśa). khm:ទិស (tɨh). tha:ทิศทาง (tit-taang).|direction||||||||||||||||suunta|kierunek
 doici||||German||||||||||||||||saksalainen|niemiecki
 doicia|dex|DE||Germany||||||||||||||||Saksa|Niemcy
-dokum|||eng:fra:document. rus:документ (dokument).|document (record)||||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
+dokum|||eng:fra:document. rus:документ (dokument).|document (record, file)||||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
 dolar||||dollar|||||||||||||||dolaro|dollari|dolar
 dom|||rus:дом (dom). pol:dom. ltn:domus. + eng:domestic. fra:domestique. spa:por:doméstico.|home (residence)||||||房子|||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
 doma||||accommodate|||||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
@@ -570,7 +570,7 @@ fata|||ita:fare. fra:faire. por:fazer. + ara:(faʿala). + swa:kufanya.|make (man
 fate||||deed|||||||||||||||faro|teko|czyn, uczynek
 fater|||por:fator. ita: fattore. eng: factor. rus: фактор (faktor).|maker (manufacturer, factor)|||fator||||||||||||fabrikisto|tekijä (valmistaja)|twórca, kreator, czynnik
 fateria||||factory|||||||||||||||fabriko|tehdas|fabryka, manufaktura
-fatolekse||||verb|||||||||||||||verbo|verbi (teonsana)|czasownik
+fatelekse||||verb|||||||||||||||verbo|verbi (teonsana)|czasownik
 faxe|||ita:fascia. por:faixa. spa:faja.|bandage (strip, ribbon)||||||||||||||||side (remmi)|bandaż, taśma, wstążka
 faxiste||||fascist|||||||||||||||faŝisto|fasisti|faszysta
 faxistia||||fascism|||||||||||||||faŝismo|fasismi|faszyzm
@@ -581,6 +581,8 @@ febre|||por:febre. spa:fiebre. deu:Fieber. eng:fever. fra:fièvre.|fiever|||||||
 fem|||fra:femme. por:fêmea. eng:female.|female||||||女|||||||||ino|naaras|kobieta; kobiecy
 femi bace||||daughter|||||||||||||||filino|tyttölapsi|córka
 femi rajer||||queen||||||||||||||||kuningatar|królowa
+femiste||||feminist|||||||||||||||||
+femistia||||feminism|||||||||||||||||
 fen|||zho:分 (fèn). wuu:(fén). yue:(fan). vie:phần. tha:ปัน (pan). jpn:分 (bun). kor:분 (bun).|part (fraction)|||||||||||||||parto (frakcio)|osa (pala)|część, ułamek
 fena||||divide (to partition)|||||||||||||||dividi|jakaa (paloitella)|dzielić
 fenodona||||contribute||||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
@@ -642,12 +644,10 @@ forum||||forum (public space)|||||||||||||||forumo|foorumi|forum
 fos||||pit (excavation)|||||||||||||||foso|kuoppa (kolo)|dół, jama, wydobycie, wykop, wykopalisko
 fosa||||dig (excavate)|||||||||||||||fosi|kaivaa|wykopać, kopać, wydobyć, wydobywać, wykopywać
 fosfor||||phosphorus|||||||||||||||fosforo|fosfori|fosfor
-fotograf||||photograph|||||||||||||||foto|valokuva (foto)|zdjęcie, fotografia
-fotografe|||eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|photograph|photo (photographie)|foto (fotografía)|foto (fotografia)|фотокарточка||照片||||फ़ोटो||foto||fotoğraf|foto (fotografaĵo)|valokuva|
+fotografe|||eng:photograph. fra:photographie. spa:por:fotografia. rus:фотография (fotografiya). tur:fotoğraf. hin:फ़ोटो (foto). may:foto.|photograph|photo (photographie)|foto (fotografía)|foto (fotografia)|фотокарточка||照片||||फ़ोटो||foto||fotoğraf|foto (fotografaĵo)|valokuva|zdjęcie, fotografia
 fotografer||||photographer|||||||||||||||fotisto|valokuvaaja|
-fotografia||||photography||||||||||||||||valokuvaus|fotografia
-fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|
-fotomaxin||||camera|||||||||||||||fotilo|kamera|kamera, aparat fotograficzny
+fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
+fotemaxin||||camera|||||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fransi polinesia|dex|PF||French Polynesia||||||||||||||||Ranskan Polynesia|Polinezja Francuska
 fransia|dex|FR||France|||||||||||||||Francio|Ranska|Francja
 fransium|made|Fr||francium|||||||||||||||franciumo|fransium|frans
@@ -661,13 +661,13 @@ fulani|||swa:fulani. ara:(fulan). tur:falan.|certain (indefinite, indeterminate,
 fun|||zho:粉 (fěn). hak:粉 (fun). tha:ฝุ่น (fùn).|dust (powder)|||||||||||||||polvo|pöly (tomu)|pył
 funca||||function (work)|||||||||||||||funkcii|toiminta (funktio)|funkcja, stanowisko
 funge|||eng:fungus. fra:fongus. por:fungo. spa:hongo.|fungus||hongo|fungo||||||||||||fungo|sieni|grzyb
-funocuper|||zho:吸尘器 (xīchénqì). deu:Staubsauger.|vacuum cleaner||||||||||||||||pölynimuri|odkurzacz
+funcuper|||zho:吸尘器 (xīchénqì). deu:Staubsauger.|vacuum cleaner||||||||||||||||pölynimuri|odkurzacz
 furete|||fra:furet. eng:ferret. por:furrão. ita:furetto. spa:hurón. jpn:(feretto). swa:fereti.|polecat (ferret)|||||||||||||||furo|kärppä (fretti)|tchórz, fretka
 furi||||angry (furious)||||||||||||||||vihainen (suuttunut)|zły (wsciekły, gniewny)
 furia|||eng:fury. spa:pol:furia. por:fúria.|anger (fury, rage, wrath)|||||||||||||||kolero (furiozo)|viha (suuttumus, raivo)|gniew, furia
 futaw|||tgl:puthaw. zho:斧头 (fǔtóu). yue:斧頭 (futau). nan:斧頭 (pú-thâu).|axe (hatchet)||||||||||||||||kirves|siekera, topór
 fute|badan|||foot|||||||||||||||piedo|jalka (jalkaterä)|stopa
-futobol|||eng:fra:football. spa:fútbol. por:futebol. deu:Fußball. hin:फ़ुटबॉल (fuṭbŏl). urd:(fuṭ bāl). ben:ফুটবল (phuṭbôl). rus:футбол (futbol). tha:ฟุตบอล (th) (fút-bɔn). jpn:フットボール (futtobōru). zul:ibhola.|football|||||||||||||||piedpilko|jalkapallo|piłka nożna
+futebol|||eng:fra:football. spa:fútbol. por:futebol. deu:Fußball. hin:फ़ुटबॉल (fuṭbŏl). urd:(fuṭ bāl). ben:ফুটবল (phuṭbôl). rus:футбол (futbol). tha:ฟุตบอล (th) (fút-bɔn). jpn:フットボール (futtobōru). zul:ibhola.|football|||||||||||||||piedpilko|jalkapallo|piłka nożna
 fuy||||bah! (yuck!)|||||||||||||||bah!|hyi! (pyh!)|fu, fuj
 gabre|||ara:(qabr). hin:क़ब्र (qabra). ind:kubur. deu:Grab. pol:grób. rus:гроб (grob).|grave (tomb)|||||||||||||||tombo|hauta|grób, mogiła, grobowiec
 gabristan||||graveyard|||||||||||||||tombejo|hautausmaa|cmentarz
@@ -698,11 +698,11 @@ gar|||fas:urd:اگر‎‎ (agar). hin:अगर (agar). tur:eğer. tkm:eger. ka
 garante||||guarantee (warranty)|||||||||||||||garantio|takuu|gwarancja
 garda||||guard (watch)|||||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
 garder|||eng:guard. fra:garde. spa:por:guarda. jpn:ガード (gādo). kor:가드 (gadeu).|guardian (watchman)|||||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
-garmi|||hin:गरम (garm). urd:fas:گرم‎‎ (garm). kur:germ. deu:eng:warm.|warm|||||||||||||||varma|lämmin|ciepły
+garmi|||hin:गरम (garm). urd:fas:گرم‎‎ (garm). kur:germ. deu:eng:warm.|warm (hot)|||||||||||||||varma|lämmin|ciepły
 garmi masal||||garam masala||||||||||||||||garam masala|garam masala
 gas|||deu:eng:spa:ind:gas. por:gás. ben:গ্যাস (gyas). jpn:ガス (gasu). kor:가스 (gaseu). hin:गैस (gais). fra:tur:gaz. rus:газ (gaz). ara:(ḡāz).|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gasi||||gaseous||||||||||||||||kaasumainen|
-gasu||||gasify (become gas)||||||||||||||||kaasuuntua|
+gasu||||gasify (vaporize)||||||||||||||||kaasuuntua|
 gati|||tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|hard (tough)|dur|duro|duro|твёрдый||硬|硬い||cứng (rắn)|कड़ा (सख़्त)||||sert (katı)|malmola|kova|
 gawa||||raise (lift)||||||||||||||||nostaa|
 gawi|||zho:高 (gāo). vie:cao.|high|||||||||||||||alta|korkea|wysoki
@@ -794,14 +794,14 @@ hami|||ara: هَامّ (hāmm). hin:अहम (aham). urd: اہم (aham). tur:m�
 hamili|||ara:(ḥāmil). ind:hamil. tur:hamile. urd:(hāmila). fas:(hâmele).|pregnant||embarazado (preñado)|grávida (prenhe)|беременный||怀孕||||||hamil||gebe (hamile)|graveda|raskaana (odottava)|ciężarny (w ciąży)
 hamir|||ara:(xamīra). hin:ख़मीर (xamīr). tur:hamur. fas:(moxammer). + kor:효모 (hyomo).|yeast|||||||||||||||feĉo|hiiva|drożdże
 hamu||||matter (be important)|||||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
-hangogia|dex|KR||Korea (South)|||||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
+hangugia|dex|KR||Korea (South)|||||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
 haos||||chaos (disorder, turmoil)|||||||||||||||kaoso (malordo)|kaaos|chaos, nieporządek; wrzawa, zgiełk
 haraba||||ruin (destroy, devastate, demolish)||||||||||||||||pilata (tuhota)|rujnować, dewastwować, burzyć
 harabi|||ara:fas:urd:(xarāb). tur:harap. hin:ख़राब (xarāb). ben:খারাপ (kharap).|bad (ruined, destroyed)|||||||||||||||ruinigita|pilalla (raunioina)|zły, zrujnowany, zepsuty
 haram|||ara:(ḥarām). hau:ind:tur:eng:deu:haram. hin:हराम (harām). kor:하람 (haram). fas:urd:(harām). swa:haramu. zho:哈拉姆 (hālāmǔ). rus:харамный (xaramniy).|forbidden (illicit, haram, taboo)||||||||||||||||kielletty|zabroniony (wzbroniony, nielegalny, haram, tabu)
 harama||||forbid (ban, disallow)||||||||||||||||kieltää|zabronić (wzbronić, zakazać)
 harfe|||ara:(ḥarf). tur:harf. fas:urd:(harf). hau:harafi. swa:herufi. ind:huruf.|letter (character, written symbol)|||||||||||||herufi|harf|litero|kirjain|litera, znak
-harmoni||||harmonius|||||||||||||||harmonia|harmoninen|harmoniczny
+harmoni||||harmonious|||||||||||||||harmonia|harmoninen|harmoniczny
 harmonia||||harmony|||||||||||||||harmonio|harmonia|harmonia
 harnes|||fra:harnais. eng:harness. spa:arnés. por:arnês.|harness||||||||||||||||valjaat|zaprzęc, zaprzęgać
 hasa||||distinguish||||||||||||||||erottaa (nähdä ero)|
@@ -832,13 +832,13 @@ hem|||eng:hmm. rus:хм (hm), эм (em). kor:음 (eum).|hmm|||||||||||||||hm|hmm
 hema||||ponder (think)|||||||||||||||pripensi|miettiä (pohtia)|dumać, rozmyślać, zastanawiać się
 hen|||zho:(hen). fra:(haine).|hate|||||||||||||||malamo|viha|nienawidzić
 hewan|||ind:kewan. ara:(haywān). hin:हैवान (haivān). tur:hayvan.|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
-hewanoparke||||zoo (zoological garden)|zoo|zoo|zoológico|rus:зоопарк (zoopark).||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|
+hewaneparke||||zoo (zoological garden)|zoo|zoo|zoológico|rus:зоопарк (zoopark).||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|
 hibride||||hybrid (mongrel)|||||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
 hidre|made|H||hydrogen|||||||||||||||hidrogeno|vety|wodór
 hijabe|||ara:(ḥijāb). fas:(hejâb). swa:hijabu. hau:hijabi. hin:हिजाब (hijāb). ben:হিজাব (hijab). eng:por:hijab. fra:hidjab. spa:hiyab. rus:хиджаб (xidžab).|veil (cover, screen)|voile|velo|véu|вуаль|حِجَاب|面纱||||||||hijabu (veli, shela)||verho (huntu, peite)|
 him|||hin:हिमपात (himpāt). tha:หิมะ (hima). tel:(himamu).|snow|neige|neve|neve||||||||||||neĝo|lumi|śnieg
 himalia||||Himalayas|||||||||||||||Himalajo|Himalaja|Himalaje
-himorose||||frost|||||||||||||||frosto|kuura|szron
+himerose||||frost|||||||||||||||frosto|kuura|szron
 hindiste||||Hindu|||||||||||||||hinduo|hindu|hinduistyczny
 hindistia||||Hinduism|||||||||||||||hinduismo|hindulaisuus (hinduismi)|hinduizm
 hisaba|||ara:(hasaba). tur:hesap. orm:hisaaba. swa:hisabu.|calculate|calculer|calcular|calcular|вычислять|حَسَبَ|计算|計算する|계산하다||||||||laskea (tehdä laskutoimitus)|kalkulować
@@ -868,13 +868,13 @@ huriste||||liberalist||||||||||||||||liberalisti|liberalista, wolnościowiec
 huristi||||liberal||||||||||||||||liberaali (vapaamielinen)|liberalny, wolnościowy
 huristia||||liberalism||||||||||||||||liberalismi|liberalizm
 huy|||zho:灰 (huĭ). yue:灰 (fui). jpn:灰 (hai). + kor:회색 (hoesaeg).|ash (ashes)||||||||||||||||tuhka|
-huyangi|ang|||grey (gray, ashy)||||||||||||||||harmaa|
+huyrangi|rang|||grey (gray, ashy)||||||||||||||||harmaa|
 ibri||||Hebrew|||||||||||||||Hebrea|heprea|hebrajski
 ica||||||||||||||||||||tahtoa|
 ice|||vie:ý chí. zho:意志 (yìzhì). kor:(uiji). jpn:(ishi). + hin:इच्छा (icchā). tel:ఇచ్చ (icca).|will (volition, desire)|||||||||||||||volo|tahto|wola, chęć
 idey|||fra:idée. deu:Idee. hat:ind:ide. fas:(ide). por:ideia. rus:идея (ideya). vie:ý định.|idea (concept, notion)|||||||||||||||ideo|käsite (idea)|idea, pomysł
 ideyi||||conceptual||||||||||||||||käsitteellinen|pojęciowy
-ideyograf||||ideogram||||||||||||||||ideogrammi|
+ideygraf||||ideogram||||||||||||||||ideogrammi|
 idiote|||eng:deu:fra:ind:idiot. spa:por:idiota. rus:идиот (idiot).|idiot||||||||||||||||typerys (idiootti)|idiota
 idioti||||stupid (idiotic)||||||||||||||||tyhmä (hölmö)|głupi (idiotyczny)
 idiotia||||idiocy (stupidity)||||||||||||||||tyhmyys (typeryys)|idiotyzm (głupota)
@@ -886,7 +886,7 @@ imperistia||||imperialism||||||||||||||||imperialismi|imperializm
 inde|||eng:in. zho:内 (nèi). hin:अंदर (andar). kor:안 (an). ell:εντός (entós). spa:por:dentro.|inside (interior)|||||||||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 indi||||inner (internal)|||||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 indium|made|In||indium|||||||||||||||indio|indium|ind
-indojeni||||innate (endogenous, indigenous, inborn)||||||||||||||||sisäsyntyinen|wewnętrzny
+indejeni||||innate (endogenous, indigenous, inborn)||||||||||||||||sisäsyntyinen|wewnętrzny
 indonesia|dex|ID||Indonesia|||||||||||||||Indonezio|Indonesia|Indonezja
 infekse|||cze:infekce. ita:infezione. eng:infection. por:infecção. tur:enfeksiyon. rus:инфекция (infektsiya).|infection|||infecção|||||||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
 informa||||inform (communicate)||||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
@@ -960,9 +960,9 @@ jena||||give birth (procreate, generate)|||||||||||||||naskigi|synnyttää|urodz
 jeng|||zho:爭 (zhēng). vie:tranh. kor:전쟁 (jeonjaeng). tur:kur:ceng. fas:urd:(jang). hin:जंग (jang).|fight (war, battle, combat)|||||||||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jenger||||warrior (fighter)||||||||||||||||soturi (taistelija)|wojownik, bojownik
 jengi||||military (martial, warlike)|||||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
-jengoxute|||zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.|martial art||||||||||||||||kamppailulaji|sztuka walki
-jenoden||||birthday|||||||||||||||naskiĝtago|syntymäpäivä|urodziny
-jenoklas||||caste||||||||||||||||sääty (kasti)|kasta
+jengexute|||zho:武术 (wǔshù). jpn:武術 (bujutsu). vie:võ thuật. kor:무술 (musul). eng:martial art.|martial art||||||||||||||||kamppailulaji|sztuka walki
+jenden||||birthday|||||||||||||||naskiĝtago|syntymäpäivä|urodziny
+jenklas||||caste||||||||||||||||sääty (kasti)|kasta
 jentil||||kind (nice, gentle)|||||||||||||||bonkora|kiltti|uprzejmy, miły
 jenu||||be born|||||||||||||||naski|syntyä|urodzić się, rodzić się
 jenxen||||ginseng||||||||||||||||ginseng|żeń-szeń
@@ -1000,7 +1000,7 @@ kafas|||ara:(qafaṣ). fas:urd:(qafas). hin:क़फ़स (qafas). pnb:ਕਫ
 kafe|||deu:Kaffee. fra:spa:por:café. rus:кофе. zho: 咖啡 (kāfēi). yue:咖啡 (gaa3 fe1). eng:coffee. hin:काफ़ी (kāfī). ben:কফি (kôphi). tur:kahve. tgl:kape. tha:กาแฟ (kafæ).|coffee|café|café|café|кофе|قَهْوَة|咖啡|コーヒー|||काफ़ी (क़हवा)||kopi|kahawa|kahve|kafo|kahvi|kawa
 kaferia||||cafe (coffee shop)|||||||||||||||kafejo|kahvila|kawiarnia
 kafir|||ara:(kāfir). fas:(kāfer). tur:fra:kâfir. yor:kaferi. swa:kafiri. ind:kafir. rus:кафир (kafir). hin:काफ़िर (kāfir).|infidel (pagan, heathen, unbeliever)||||||||||||||||pakana|niewierny (poganin, niewierzący)
-kafokupe||||coffee cup|||||||||||||||kaftaso|kahvikuppi|filiżanka do kawy
+kafekupe||||coffee cup|||||||||||||||kaftaso|kahvikuppi|filiżanka do kawy
 kagaze|||zho:榖纸 (gǔzhǐ). yue:榖紙 (guk1zi2). jpn:榖紙 (kokushi). + fas:(kâğaz). hin:काग़ज़ (kāġaz). ben:কাগজ (kagôj). tur:kâğıt. ara:(kāḡid). kan:ಕಾಗದ (kāgada). tel:కాగితము (kāgitamu). tam:காகிதம் (kākitam). wol:keyit. uig:(qeghez).|paper (material)|papier|papel|papel|бумага|وَرَق|纸|紙|종이|giấy|काग़ज़|কাগজ|kertas|karatasi|kâğıt|papero|paperi|papier
 kaka||||defecate (shit)||||||||||||||||ulostaa (kakata)|defekować, srać
 kakaw|||por:cacau. ara:(kākāw). spa:cacao. eng:cocoa. vie:cacao. jpn:カカオ (kakao). zho:可可 (kěkě). rus:какао (kakao).|cocoa|||||||||||||||kakao|kaakao|kakao
@@ -1030,7 +1030,7 @@ kande|||eng:candy. hin:कैंडी (kaiṇḍī). jpn:キャンデー (ja) 
 kange|||hin:कंघी (kaṅghī). urd:(kaṅghī). mar:कंगवा (kaṅgvā). pnb:ਕੰਘਾ (kaṅghā).|comb||||||||||||||||kampa|grzebień
 kangur||||cangaroo|||||||||||||||kangaro|kenguru|kangur
 kanjar|||fas:(xanjar). tur:haner. kaz:қанжар (qanjar). rus:кинжал (kinžal).|dagger||||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
-kanokex||||eyelash||||||||||||||||silmäripsi|
+kankex||||eyelash||||||||||||||||silmäripsi|
 kanon|||eng:cannon. spa:cañón. zho:加农 (jiānóng). jpn:(kyanon). kor:캐넌 (kaeneon).|gun (cannon)|||||||||||||||kanono|tykki (pyssy)|działo
 kanoner||||cannoneer|||||||||||||||kanonisto|tykkimies|kanonier
 kansuy|||tam:கண்ணீர் (kaṇṇīr). mal:കണ്ണുനീർ (kaṇṇunīr). tel:(kannīru). kor:눈물 (nunmul). vie:nước mắt. ind:air mata. tha:น้ำตา.|tear drop||||||||||||||||kyynel|łza
@@ -1118,7 +1118,7 @@ kirmi|rang||arm:կարմիր (karmir). tur: kırmızı. fas(qermez). ara:(qirmiz
 kitaba||||write|écrire|escribir|escrevere|писать||写||||लिखना||menulis||yazmak||kirjoittaa|napisać, pisać
 kitabe|||ara:urd:(kitāb). fas:(ketâb). tur:kitap. ind:kitab. swa:kitabu. hin:किताब (kitāb).|writing (text)|écriture|escritura|escrita|письмо||||||||tulisan||yazı|skribo|kirjoitus (teksti)|pismo, tekst
 kitabia||||library|bibliothèque|biblioteca|biblioteca|библиотека||图书馆||||पुस्तकालय||perpustakaan||kütüphane|librejo|kirjasto|biblioteka
-kitabomaxin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
+kitabemaxin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kiwe|||eng:kiwi.|kiwi fruit|||||||||||||||kivo|kiivi|owoc kiwi
 klar|||deu:klar. spa:por:claro. eng:clear. fra:clair.|clear (not obscured)|||||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
 klara||||clarify|||||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
@@ -1271,6 +1271,7 @@ leftiste||||leftist (left-winger)||||||||||||||||vasemmistolainen|lewicowiec (le
 lekin|||ara: لكن (lākin). hin:लेकिन (lekin). swa:lakini.|however|||||||||||||||tamen|kuitenkin|
 leksaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|
 lekse||||word|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
+lekseliste||||dictionary (word list)||disionario|||||辞書||||||||vortaro||
 leksem||||lexeme||||||||||||||||lekseemi|leksem
 leksi|||eng:fra:lexical. spa:por:léxico. rus:лексический (leksičeskiy).|lexical|lexical|léxico|léxico|лексический|||||||||||||
 leksia||||vocabulary (lexicon)|vocabulaire (lexique)|||словарь|||||||||||vortaro|sanasto|słownictwo
@@ -1297,14 +1298,14 @@ lige|||fra:ligue. deu:spa:pol:por:liga. eng: league. rus: лига (liga). tur:l
 lil|||eng:little.|little (small; a little, somewhat)|||||||||||||||malgranda|pieni (pienesti, vähän)|mały; mało, trochę, nieco
 lil niam||||snack||||||||||||||||välipala (naposteltava)|przekąska
 lilake|||tur:leylak. ara:(laylak). eng:lilac. fra:lilas. por:lilás. spa:tgl:lila. jpn:ライラック (rairakku).|lilac||||||||||||||||syreeni|lilak
-lilaki|ang|||lilac color||||||||||||||||violetti (liila)|
+lilaki|rang|||lilac color||||||||||||||||violetti (liila)|
 lim||||five (5)|||||||||||||||kvin (5)|viisi (5)|pięć (5)
 limfe||||lymph||||||||||||||||lymfa|limfa
 limite||||limit (boundary)||||||||||||||||raja|limit, granica
 limofas||||pentahedron (prism)||||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
 limogon||||pentagon||||||||||||||||viisikulmio|pięciokąt (pentagon)
 limon|||fas:(limun). eng:lemon. tur:limon. rus:лимон (limon). spa:limón. por:limão. hin:नींबू (nīmbū). urd:(nībū). zho:柠檬 (níngméng). jpn:檸檬 (remon). kor:레몬 (remon). swa:ndimu,limau. ben:লেবু (lebu).|lemon|citron|limón|limão|лимон||柠檬||||नींबू||jeruk lemon||limon|citrono|sitruuna|cytryna
-limonangi|ang|||yellow|||||||||||||||flava|keltainen|żółty
+limonerangi|rang|||yellow|||||||||||||||flava|keltainen|żółty
 linye|||por:linha. eng:line. fra:ligne. spa:línea. pol:linia. rus:линия (liniya).|line (stripe)|||||||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
 lisi|||fra:lisse. spa:por:liso. fas:(liz). ind:licin.|smooth|||||||||||||||glata|sileä|gładki
 liste|||eng:list. spa:por:lista. rus:(lista). deu:fra:liste. fas:(list). hin:लिस्ट (lisṭ). urd:(lisṭ). jpn:リスト (risuto).|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
@@ -1350,6 +1351,7 @@ lutheristia||||Lutheranism|luthéranisme|luteranismo|luteranismo|лютера́�
 luza||||lose (fail to win)||||||||||||||||hävitä (kärsiä tappio)|przegrać, przegrywać
 luzer||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
 maca|||eng:match. sve:matcha. kor:맞다 (matda).|match (fit, suit, conform)|||||||||||||||kongrui|sopia|pasować
+macia||||consistency|||||||||||||||||
 madagasi||||Malagasy||||||||||||||||malagassi|madagaskarski; malagaski
 madagasia|dex|MG||Madagascar||||||||||||||||Madagaskar|Madagaskar
 madiaria|dex|HU||Hungary||||||||||||||||Unkari|Węgry
@@ -1543,8 +1545,8 @@ mixer||||mixer (blender)|||||||||||||||miksilo|sekoitin|mikser, blender, robot k
 mode||||fashion (trend)|||||||||||||||fasono|muoti|moda, trend
 model||||model (design)||||||||||||||||malli (esikuva)|model, wzór, wzorzec, projekt
 moge|||zho:墨 (mò). vie:mực. tha:หมึก (muk).|ink|||||||||||||||inko|muste|tusz
-moke|||zho:目 (mù). yue:目 (muk). vie:mục. jpn:目 (-moku). kor:목 (mok).|wood (timber)||||||木材|||||||||ligno|puu (puutavara)|drewno
-mokojanger||||carpenter||||||木匠||||||||||puuseppä|stolarz
+moke|||zho:木 (mù). yue:木 (muk). vie:mục. jpn:木 (-moku). kor:목 (mok).|wood (timber)||||||木材|||||||||ligno|puu (puutavara)|drewno
+mokejanger||||carpenter||||||木匠||||||||||puuseppä|stolarz
 mola||||grind (grind in mill)||||||||||||||||jauhaa myllyssä|zemleć, mleć, mielić
 moldovia|dex|MD||Moldova||||||||||||||||Moldova|Mołdawia
 moler||||miller||||||||||||||||mylläri|młynarz
@@ -1640,8 +1642,8 @@ nederlandi antilia|dex|AN||Netherlands Antilles||||||||||||||||Alankomaiden Anti
 nederlandia|dex|NL||Netherlands||||||||||||||||Alankomaat (Hollanti)|Holandia (Królestwo Niderlandów)
 nega|||spa:por:negar. eng:negate.|refuse (deny, decline)||||||||||||||||kieltää|odmówić (odrzucić)
 nen|||jpn:年 (nen). zho:年 (nián). yue:年 (nin4). kor:년 (nyeon). vie:năm,niên.|year|||||||||||||||jaro|vuosi|rok
-nenofeste||||anniversary||||||||||||||||vuosijuhla|rocznica
-nenomesoden|||zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).|date|||||||||||||||dato|päivämäärä|data
+nenfeste||||anniversary||||||||||||||||vuosijuhla|rocznica
+nenmesden|||zho:年月日 (niányuèrì). jpn:年月日 (nengappi). kor:연월일 (yeonworil).|date|||||||||||||||dato|päivämäärä|data
 nenufar||||water lily (nenuphar)||||||||||||||||lumme|lilia wodna, nenufar
 neon|made|Ne||neon|||||||||||||||neono|neon|neon
 nepalia|dex|NP||Nepal|||||||||||||||Nepalo|Nepal|Nepal
@@ -1668,12 +1670,13 @@ nidi||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَر
 nijeria|dex|NE||Niger|||||||||||||||Niĝero|Niger|Niger
 nikaragia|dex|NI||Nicaragua|||||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikel|made|Ni||nickel|||||||||||||||nikelo|nikkeli|nikiel
-nili|ang||ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).|blue|blue|bleu|azur|azul|синий (голубой)|أَزْرَق|蓝色|青い||नीला|নীল||biru|buluu|blua|sininen|niebieski
+nili|rang||ben:নীল (nīl). hin:नीला (nīlā). urd:(nīlā). tam:நீலம் (nīlam).|blue|blue|bleu|azur|azul|синий (голубой)|أَزْرَق|蓝色|青い||नीला|নীল||biru|buluu|blua|sininen|niebieski
 nilon||||nylon|||||||||||||||nilono|nailon|nylon
 ninde|||hin:mar:निन्द् (nind).|insult (offence)|||||||||||||||insulto|loukkaus (törkeys)|obraza, obelga
 nindi||||rude (offensive)||||||||||||||||törkeä|obraźliwy, niemiły, obelżywy
 niobium|made|Nb||niobium|||||||||||||||niobo|niobium|niob
 niponia|dex|JP||Japan|||||||||||||||Japanio|Japani|Japonia
+niponi||||Japanese|||||||||||||||||
 niponium|made|Nh||nihonium|||||||||||||||nihonio|nihonium|nihonium
 nitre|made|N||nitrogen|||||||||||||||nitrogeno|typpi|azot
 niwia|dex|NU||Niue||||||||||||||||Niue|Niue
@@ -1694,6 +1697,7 @@ nonga||||cultivate (farm)||||||||||||||||viljellä|uprawić, uprawiać
 nonger||||farmer||||||||||||||||maanviljelijä|rolnik, farmer
 norde||||north||||||||||||||||pohjoinen|północ
 nordi||||northern||||||||||||||||pohjoinen|północny
+nordi amerike||||North America|||||||||||||||||
 norfolke|dex|NF||Norfolk Island||||||||||||||||Norfolkin saaret|Norfolk
 norgi||||Norwegian|||||||||||||||norvega|norjalainen|norweski
 norgia|dex|NO||Norway|||||||||||||||Norvegio|Norja|Norwegia
@@ -1718,8 +1722,8 @@ nume|||deu:Nummer. eng:number. tur:numara. fra:numéro.|number|||||||||||||||nom
 nume un||||first (number one)||||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 nur|||ara:fas:(nūr). swa:nuru. taj:uzb:нур (nur).|light (illumination)|||||||||||||||lumo|valo|światło, oświetlenie
 nuri||||light (bright)|||||||||||||||luma|valoisa|jasny, świetlny
-nurobaton||||torch|||||||||||||||torĉo|soihtu|pochochodnia (latarka)
-nurocirke||||halo (aureola)|||||||||||||||halo|sädekehä (halo)|efekt halo
+nurbaton||||torch|||||||||||||||torĉo|soihtu|pochochodnia (latarka)
+nurcirke||||halo (aureola)|||||||||||||||halo|sädekehä (halo)|efekt halo
 nurorade||||ray of light||||||||||||||||valonsäde|promień światła
 nuton||||newton (N)|||||||||||||||newtono (N)|newton (N)|niuton (N)
 o||||oh!|||||||||||||||ho!|oi!|o!
@@ -1800,7 +1804,7 @@ papagay|||ara:(babbaḡāʾ). tur:papağan. spa:papagayo. por:papagaio. deu:Papa
 papay|||eng:spa:tur:papaya. fra:papaye. swa:papai. por:papaia. rus:папайя (papayya). jpn:パパイヤ (papaiya). kor:파파야 (papaya). Hin:पपीता (papītā). ben:পেঁপে (pẽpe).|papaya|papaye|papaya|mamão (papaia)|папайя||木瓜|パパイヤ|파파야|đu đủ|पपीता|পেঁপে|pepaya (betik)|papai|papaya|papajo|papaija|papaja
 pape|||eng:papa. spa:papá. rus:папа (papa). zho:爸爸 (bàba).|father|||||||||||||||patro|isä|ojciec
 papir|||deu:Papier. eng:paper. spa:por:papel. fra:pol:papier.|document (paper)|||||||||||||||||
-papua nowi ginia|dex|PG||Papua New Guinea||||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea
+papua novi ginia|dex|PG||Papua New Guinea||||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea
 par||||equal (peer)||||||||||||||||vertainen|równy
 paraguayia|dex|PY||Paraguay||||||||||||||||Paraguai|Paragwaj
 paraya||||despise (scorn)||||||||||||||||halveksia (hyljeksiä)|gardzić (pogardzać)
@@ -1923,15 +1927,15 @@ pompa||||pump||||||||||||||||pumppu|pompować
 ponta|||eng:point. por:apontar. spa:apuntar. fra:pointer.|point at (indicate)|||||||||||||||montri|osoittaa (näyttää)|wskazać, wskazywać
 ponter||||pointer (indicator)||||||||||||||||osoitin (viisari)|wskaźnik
 porne||||porn||||||||||||||||porno|porno, film erotyczny
-pornografia||||pornography||||||||||||||||pornografia|pornografia
+pornegrafia||||pornography||||||||||||||||pornografia|pornografia
 porte|||eng:port. fra:porte. spa:por:porto. rus:порт (port). hin:पोर्ट (porṭ). urd:(porṭ). ben:পোর্ট (porṭ). tha:พอร์ต (phot).|port (station)|porte|porto|porto|порт||港||||||bandar||liman|haveno|asema (satama, lentokenttä)|
 portorikia|dex|PR||Puerto Rico||||||||||||||||Puerto Rico|Puerto Rico
 portugalia|dex|PT||Portugal||||||||||||||||Portugali|Portugalia
 pospor|made|P||phosphorus|||||||||||||||fosforo|fosfor|fosfor
 posta||||mail (send by mail)||||||||||||||||postittaa|nadać, wysłać pocztą
 poste||||mail||||||||||||||||posti (postilähetys)|poczta
-postocape||||postal stamp||||||||||||||||postileima|znaczek pocztowy
-postokan||||post office|||||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
+postecape||||postal stamp||||||||||||||||postileima|znaczek pocztowy
+postekan||||post office|||||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
 pote|||ijo:pọtọ. ibo:potọ potọ. Lin:pɔtɔpɔ́tɔ. kon:pcm:fra:poto-poto.|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama|болото||坭||||कीचड़||lumpur||çamur|koto|muta (kura, lieju)|błoto
 poti||||muddy|||||||||||||||kota|kurainen (mutainen)|błotnisty
 potistan||||marsh (bog, swamp, morass)||||||||||||||||suo (räme)|bagno
@@ -1961,7 +1965,7 @@ puje|||hin:पूजा (pūjā). urd:(pūjā). tha:บูชา (bucha). ind:pu
 pul|||hin:फूल (phul). ben:ফুল (phul).|flower|fleur|flor|flor|цветок|زَهْرَة|花|花|꽃 (화)||फूल (पुष्प)|ফুল|bunga|ua||floro|kukka|kwiat
 pula||||blossom (bloom)||||||||||||||||kukkia|kwitnąć, rozkwitnąć, rozkwitać
 pulmon|||spa:pulmón. fra:poumon. por:pulmão. eng:pulmonic.|lung|||||||||||||||pulmo|keuhko|płuco
-pulowaze||||vase (flower pot)|||||||||||||||vazo (florpoto)|kukkaruukku|wazon; donica, doniczka
+pulvaze||||vase (flower pot)|||||||||||||||vazo (florpoto)|kukkaruukku|wazon; donica, doniczka
 pulte|||hin:पुल (pul). ben:পুল (pul). urd:(pul). fas:(pol). por:ponte. fra:pont. spa:puente.|bridge||||||桥|||||||||ponto|silta|most
 punte|||spa:punto. rus:пункт (punkt). eng:point.|point (full stop)|||||||||||||||punkto|piste (täplä)|kropka (znak interpunkcyjny)
 pupe|||fra:poupée. deu:Puppe. eng:puppet. vie:búp bê. ktu:popi. heb:(bubá).|doll (puppet)||||||||||||||||nukke|lalka, kukiełka, pacynka, marionetka
@@ -1992,14 +1996,14 @@ rang|||ben:রং (rông). hin:रंग (raṅg). urd:(raṅg). fas:(rang). te
 rangi||||colored|||||||||||||||kolora|värilline|
 rapide||||speed (velocity)|||||||||||||||rapideco|nopeus (vauhti)|prędkość (szybkość)
 rapidemeter||||speedometer||||||||||||||||nopeusmittari|prędkościomierz
-rapido|||spa:por:rápido. eng:rapid. fra:rapide.|fast (quick, rapid, speedy)|vite (rapide)|rápido|rápido|быстрый||快|速い|빠르다|Mau (nhanh)|तेज़ (तीव्र)||cepat|haraka|hızlı|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
+rapidi|||spa:por:rápido. eng:rapid. fra:rapide.|fast (quick, rapid, speedy)|vite (rapide)|rápido|rápido|быстрый||快|速い|빠르다|Mau (nhanh)|तेज़ (तीव्र)||cepat|haraka|hızlı|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
 ras|||eng:fra:race. spa:raza. por:raça. rus:раса (rasa). may:ras.|race (breed)|race|raza|raça|раса||种族|人種|인종|chủng tộc|वंश (जाति)||bangsa (ras)||ırk|raco|rotu|rasa
 rasiste||||racist|||||||||||||||racisto|rasisti|rasista
 rasistia||||racism|||||||||||||||racismo|rasismi (rotuoppi)|rasizm
 rasme|||ara:(rasm). hin:रस्म (rasma). ind:resmi.|custom (tradition, practice, convention)||||||||||||||||tapa (perinne)|obyczaj, zwyczaj, tradycja, praktyka, konwencja
 rasmi||||conventional (customary, traditional)||||||||||||||||tavanomainen (perinteinen)|konwencjonalny, zwyczajowy, tradycyjny
 raste||||growth||||||||||||||||kasvu|wzrost
-rastu||||grow|||||||||||||||kreski|kasvaa|wzrastać
+rastu||||grow (grow up, expand)|||||||||||||||kreski|kasvaa|wzrastać
 ratiba||||order (arrange)||||||||||||||||järjestää (järjestellä)|porządkować, organizować
 ratibe||||order (arrangement)||||||||||||||||järjestys|porządek
 ray|||ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.|opinion (view)|||||||||||||||opinio|mielipide (näkemys)|opinia, pogląd
@@ -2058,7 +2062,7 @@ rosti pang||||toast (toasted bread)||||||||||||||||paahtoleipä|tost
 rota||||rotate (make spin)||||||||||||||||pyörittää|obrócić (kręcić)
 roter||||rotor (rotator)||||||||||||||||roottori (propelli)|rotor, wirnik
 rotu|||eng:rotate. deu:rotieren. spa:rotar. por:rodar. ind:rotasi. tur:rotasyon.|rotate (spin, turn on an axis)||||||||||||||||pyöriä|obrócić się (kręcić się)
-rozangi|ang|||pink (rosy)||||||||||||||||vaaleanpunainen|różowy, różany
+rozrangi|rang|||pink (rosy)||||||||||||||||vaaleanpunainen|różowy, różany
 roze||||rose|||||||||||||||rozo|ruusu|róża
 ruandia|dex|RW||Rwanda||||||||||||||||Ruanda|Rwanda
 rubidium|made|Rb||rubidium|||||||||||||||rubidio||rubid
@@ -2066,7 +2070,7 @@ ruhe|||ara:(rūħ). ind:ruh. tur:ruh. hin:रूह (rūh). swa:roho. hau:ruhu. 
 ruhelojia|||tur:ruh bilimi. hin:मनोविज्ञान (manovigyān). ben:মনোবিজ্ঞান (mônobiggan). may:ilmu jiwa. ara:(ʿilm an-nafs). deu:Seelenkunde. eng:psychology. spa:psicológia.|psychology|psychologie||||||||||||||psikologio|psykologia|psychologia
 ruhi||||mental (psychic)||||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
 ruke|||deu:Rücken.|back|||||||||||||||dorso|selkä|placy
-rukosake|||deu:eng:rucksack. cze:ruksak. rus:рюкзак (rjukzak). jpn: リュックサック (ryukkusakku). kor:륙색 (ryuksaek).|backpack (rucksack)||||||||||||||||reppu (rinkka)|plecak
+ruksake|||deu:eng:rucksack. cze:ruksak. rus:рюкзак (rjukzak). jpn: リュックサック (ryukkusakku). kor:륙색 (ryuksaek).|backpack (rucksack)||||||||||||||||reppu (rinkka)|plecak
 rul||||roll (scroll, coil)||||||||||||||||käärö|rulon (rolka, zwój)
 rula||||roll (wrap in)||||||||||||||||kääriä|toczyć, turlać
 rum|||eng:rum. spa:ron. hin:रम (ram). rus:ром (rom).|rum||||||||||||||||rommi|rum
@@ -2125,10 +2129,10 @@ saman|||ara:(samāʾ). amh:ሰማይ (sämay). orm:samii. hau:sama. yor:sánmà.
 samani||||celestial (heavenly)|||||||||||||||||niebieski, niebiański, podniebny
 samarium|made|Sm||samarium|||||||||||||||samario||samar
 samoa|dex|WS||Samoa||||||||||||||||Samoa|Samoa
-samodexi||||compatriot|||||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
-samojinsokami||||homosexual|||||||||||||||samseksema|homoseksuaali|homoseksualny
-samoray||||agreement (consent)|accord|acuerdo|acordo|согласие||一致||||सहमति||persetujuan||anlaşma|interkonsento|yhteisymmärrys|porozumienie
-samoraya||||agree (concur)|||||||||||||||samopinii (interkonsenti)|olla samaa mieltä|potwierdzić, potwierdzać, zgodzić się, zgadzać się
+samedexi||||compatriot|||||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
+samejinsekami||||homosexual|||||||||||||||samseksema|homoseksuaali|homoseksualny
+sameray||||agreement (consent)|accord|acuerdo|acordo|согласие||一致||||सहमति||persetujuan||anlaşma|interkonsento|yhteisymmärrys|porozumienie
+sameraya||||agree (concur)|||||||||||||||samopinii (interkonsenti)|olla samaa mieltä|potwierdzić, potwierdzać, zgodzić się, zgadzać się
 samu||||resemble (be like)|||||||||||||||||być podobnym, być jak
 samude|||khm:សមុទ្រ (saʾmot). tha:สมุทร (samut). hin:समुद्र (samudra). urd:(samandar). ind:samudra. ben:সমুদ্র (sômudr). guj:સમુદ્ર (samudra). tel:సముద్రము (samudramu). mya:သမုဒ္ဒရာ (samuddara).|sea|mer|mar|mar|море||海||||समन्दर (समुद्र)||laut (samudera)||deniz|maro|meri|może
 samudelaskeria||||sea force (navy)||||||||||||||||merivoimat|
@@ -2195,7 +2199,7 @@ sida|||rus:сидеть (sidet'). eng:sit. deu:sitzen. ita:sedere.|sit||||||||||
 sifa||||qualify (describe)||||||||||||||||määritellä (luonnehtia)|opisać (zakwalifikować)
 sife|||ara:(ṣifa). tur:sıfat. fas:(sefat). urd:(sifat). swa:sifa.|attribute (charasteristic, quality, feature, description)||||||||||||||||laatu (ominaisuus, ominaispiirre, määrite)|cecha, właściwość, parametr
 sifi||||descriptive||||||||||||||||kuvaileva (määrittelevä)|opisowy
-sifolekse||||adjective|||||||||||||||adjektivo|adjektiivi (laatusana)|przymiotnik
+siflekse||||adjective|||||||||||||||adjektivo|adjektiivi (laatusana)|przymiotnik
 sigar|||tur:sigara. amh:ሲጃራ (siǧara). ara:(sījāra). eng:cigar(ette). zho:雪茄 (xǔejiā). wuu:雪茄 (xi'gá).|cigarette (cigar)||||||||||||||||savuke tai sikari|papieros (cygar)
 sikiste||||Sikh||||||||||||||||sikhi|sikh
 sikistia||||Sikhism||||||||||||||||sikhiläisyys|sikhizm
@@ -2205,9 +2209,9 @@ silike|made|Si||silicon|||||||||||||||silicio|pii|krzem
 silsil|||hin:सिलसिला (silsilā). ara:(silsila). tur:silsile. swa:silisili.|chain||||||||||||||||ketju|łańcuch
 simpli||||simple (not complicated)|||||||||||||||simpla|yksinkertainen (mutkaton)|prosty, nieskomplikowany
 sine|||fas:(sine). tur:sine. hin:सीना (sīnā). spa:seno. fra:sein. ltn:sinus.|chest (breast)|||||||||||||||brusto|rinta|pierś
+sinekase||||rib cage|||||||||||||||torako|rintakehä|klatka piersiowa
 sing|||ind:singa. hin:सिंघ (singh). ben:সিংহ (singh). tam:சிங்கம் (sinkam). tha:สิง (sing). zho:狮 (shī). jpn:獅子 (shishi). + swa:simba.|lion|||||||||||||||leono|leijona|lew
 singapur|dex|SG||Singapore|||||||||||||||Singapuro|Singapore|Singapur
-sinokase||||rib cage|||||||||||||||torako|rintakehä|klatka piersiowa
 sinye||||sign (signal)||||||||||||||||merkki (signaali)|znak, sygnał
 sir||||secret||||||||||||||||salainen|sekret
 sirke|||tur:sirke. fas:(serke). hin:सिरका (sirkā). pnb:ਸਿਰਕਾ (sirkā).|vinegar|||||||||||||||vinagro|etikka|ocet
@@ -2237,7 +2241,7 @@ soke|||deu:Socke. eng:sock. swa:soksi. zul:isokisi. jpn:ソックス (sokkusu). 
 sol|||spa:por:sol. fra:soleil. + hin:सौर (sOr). tel:(saur).|sun|soleil||sol|солнце|شَمْس|太阳|太陽|해 (태양)||सूरज|সূর্য|matahari|jua||suno|aurinko|słońce
 solesistem||||solar system||||||太阳系|||||||||sunsistemo|aurinkokunta|układ słoneczny
 solestas||||solstice||||||||||||||||päivänseisaus|przesilenie
-solocate||||parasol|ombrelle (parasol)|parasol|sombrinha|зонтик от солнца|||||||||||sunombrelo|aurinkovarjo|
+solecate||||parasol|ombrelle (parasol)|parasol|sombrinha|зонтик от солнца|||||||||||sunombrelo|aurinkovarjo|
 solomon nesia|dex|SB||Solomon Islands||||||||||||||||Salomon-saaret|Wyspy Salomona
 somalia|dex|SO||Somalia||||||||||||||||Somalia|Somalia
 son|||rus:сон (son). por:sono. hin:सोना (sonā). ben:শোয়া (śoya).|sleep|||||||||||||||dormo|nukkuminen (uni)|sen
@@ -2253,11 +2257,12 @@ suahili||||Swahili|||||||||||||||sŭahili|suahili|suahili
 suan|||zho:酸 (suān).|sour|||||||||||||||acida|hapan (kirpeä)|kwaśny
 suatia|dex|SZ||Eswatini (Swaziland)||||||||||||||||Swazimaa|Suazi
 sube|||ara:(ṣabāḥ). tur:sabah. fas:(sobh). urd:(subah). hin:सुबह (subah). swa:asubuhi. hau:asuba.|morning (dawn)|||||||||||||||mateno|aamu|ranek, rano, poranek
-suboden||||forenoon|||||||||||||||||przedpołudnie
-suboniam||||breakfast||||||||||||||||aamiainen|śniadanie
+subeden||||forenoon|||||||||||||||||przedpołudnie
+subeniam||||breakfast||||||||||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||||||||||||||||Sudan|Sudan
 sude|||spa:sur. por:sul. fra:sud.|south|||||||||||||||sudo|etelä|południe
+sudi amerike||||South America|||||||||||||||||
 sudi jorjia i sudi sanwice nesia|dex|GS||South Georgia and the South Sandwich Islands|||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 sudi sudania|dex|SS||South Sudan||||||||||||||||Etelä-Sudan|Sudan Południowy
 suede||||sweat (perspiration)||||||||||||||||hiki|pot
@@ -2343,7 +2348,7 @@ teknetium|made|Tc||technetium|||||||||||||||teknecio||technet
 tele||||distance|||||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 telefon||||telephone|téléphone|||телефон||电话机|||||||||telefono|puhelin|telefon
 teli||||far (distant)|||||||||||||||malproksima|kaukainen|daleki, odległy
-telowide||||television|téléviseur|||телевизор||电视机|||||||||televidilo|televisio|telewizja
+televide||||television|téléviseur|||телевизор||电视机|||||||||televidilo|televisio|telewizja
 telugi|nas|||Telugu||||||||||||||||telugu (eräs intialainen kieli)|telugu
 telurium|made|Te||tellurium|||||||||||||||teluro||tellur
 tema||||be about (discuss as a subject)|||||||||||||||esti pri; pridiskuti|aiheesta (-sta)|być o; dyskutować o
@@ -2409,8 +2414,8 @@ transa||||transit (pass through or across)||||||||||||||||kulkea poikki, läpi t
 transe|||eng:fra:spa:por:deu:ind:trans-. rus:транс- (trans-).|transit (passage)||||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 transeria||||transportation||||||||||||||||kuljetus|
 tren|||eng:fra:train. spa:tur:tren. hin:ट्रेन (ṭren). por:trem.|train|||||||||||||||trajno (vagonaro)|juna|pociąg
-trenodaw||||railway (railroad)|||||||||||||||fervojo|junarata (rautatie)|kolej
-trenokaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
+trendaw||||railway (railroad)|||||||||||||||fervojo|junarata (rautatie)|kolej
+trenkaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu
 tribe|||fra:spa:tribu. por:tgl:tribo. eng:tribe.|tribe|||||||||||||||tribo|heimo|plemię
 trinidade i tobage|dex|TT||Trinidad and Tobago||||||||||||||||Trinidad ja Tobago|Trynidad i Tobago
 tsuania|dex|BW||Botswana||||||||||||||||Botswana|Botswana
@@ -2489,7 +2494,9 @@ vimankaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
 vin|||fra:vin. spa:vino. rus:вино (vino). eng:wine. deu:Wein. hin:वाइन (vāin). jpn:ワイン (wain).|wine|||||||||||||||vino|viini|wino
 vineria||||winery||||||||||||||||viinipanimo|winiarnia
 vinil||||vinyl||||||||||||||||vinyyli|winyl
-vinsente i grenadin|dex|VC||Saint Vincent and Grenadines|||||||||||||||||Saint Vincent and Grenadines
+santi vinsente||||Saint Vincent
+grenadin||||the Grenadines
+vinsente e grenadin|dex|VC||Saint Vincent and the Grenadines|||||||||||||||||Saint Vincent and Grenadines
 virus|||eng:virus. rus:вирус (virus).|virus|virus|||вирус||||||||||||virus|wirus
 viruslojia|||pol:wirusologia. rus:вирусология (virusologiya).|virology||||вирусология||||||||||||virologia|wirusologia
 visa||||substitute (replace)||||||||||||||||korvata|zastąpić (podstawić, zamienić)
@@ -2510,7 +2517,7 @@ wada||||promise (commit)|||||||||||||||promesi|luvata|obiecać, angażować się
 waf||||dog||||||||||||||||koira|pies
 wakila||||represent||||||||||||||||edustaa|reprezentować
 wal|||eng:wall. rus:вал (val). por:valo.|wall|mur|muro (muralha)|muto (muralha)|стена (вал)||墙||||दीवार||||||seinä (muuri)|mur, ściana
-walis i futun nesia|dex|WF||Wallis and Futuna Islands|||||||||||||||||Saint Vincent i Grenadyny
+walis e futun nesia|dex|WF||Wallis and Futuna Islands|||||||||||||||||Saint Vincent i Grenadyny
 walpapir||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지||||||duvar kâğıdı|tapeto|tapetti|tapeta
 wan|||eng:want. kor:원하다 (wonhada).|want (desire, longing)||deseo|vontade|||||소원|||||||volo|halu (toive)|
 wana||||want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
@@ -2528,7 +2535,7 @@ wase|||ara:(wāḥa). tur:vaha. fas:(vāhe). spa:oasis.|oasis|||||||||||||||oazo
 wate||||watt|||||||||||||||vato|watti|wat
 waw|||zho:哇 (wā). eng:wow.|wow! (gee!)||||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 waxa|||eng:wash. deu:waschen. zho:洗 (xǐ).|wash||||мыть|||||||||||lavi|pestä|prać, umyć, myć
-waxomaxin||||washing machine||||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
+waxmaxin||||washing machine||||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 way||||outer (external)|||||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
 way dexi|||hin:(videśī). tel:(vidēśi). zho:外国的 (wàiguóde).|foreign||||||||||||||||ulkomaalainen|zagraniczny
 way dexia||||foreign country|||||||||||||||fremda lando|ulkomaa|zagranica
@@ -2630,6 +2637,7 @@ yi|||hin:यह (ye). ben:এই (ei). tel:ఈ (ī). tam:இது (itu). kor:�
 yode||||iodine||||йод||||||||||||jodi|jod; jodyna
 yoga||||do yoga||||||||||||||||joogata|uprawiać jogę
 yoge|||hin:योग (yog). pnb:ਯੋਗ (yog). urd:(yog). ben:যোগ (jog). tel:యోగా (yōgā). tha:โยคะ (yōga). eng:spa:ind:tur:yoga. por:ioga. rus:йога (yoga). zho:瑜伽 (yújiā). jpn:ヨーガ (yōga). kor:요가 (yoga).|yoga||||йога||瑜伽功|||||||||jogo|jooga|joga
+yogiste||||yogi|||||||||||||||||
 yohani feste||||Saint John's Day||día de San Juan||Иванов день||||||||||||juhannus (kristillinen juhla)|dzień świętego Jana
 yote|||tha:หยด (yòt). lao:ຢອດ (yǭt). vie:giọt. + eng:iota. rus:йота (yota).|drop (droplet)||||||||||||||||pisara (tippa)|kropla
 yuke|||zho:玉 (yù). yue:玉 (yuk6). ind:giok.|jade|jade|jade|jade|нефрит (жад)||玉||||||giok||yeşim|jado|jade|
