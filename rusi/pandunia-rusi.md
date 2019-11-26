@@ -86,6 +86,7 @@ bruni - коричневый
 buke - книга  
 ##c
 ca - из (от)  
+canse - возможность (шанс)  
 cay - чай  
 cayokupe - чайная чашка  
 cerni - чёрный  
@@ -96,7 +97,7 @@ coy - зелень
 dalil - доказательство  
 danse - танец  
 date - данные  
-datobanke - база данных  
+datebanke - база данных  
 daysamude - океан  
 destin - судьба  
 dew - бог  
@@ -114,8 +115,8 @@ fiorde - фьорд
 firuze - бирюза  
 fitelojia - ботаника  
 fora  - сверлить (бурить)  
-fotografe - фотокарточка  
-fotografia - фотография  
+fotegrafia - фотография  
+futebol - футбол  
 ##g
 galaksia - галактика  
 gar - если  
@@ -140,7 +141,7 @@ hate - рука
 hay - жизнь  
 hazin - сокровище (казна)  
 hewan - животное  
-hewanoparke - rus:зоопарк (zoopark).  
+hewanparke - rus:зоопарк (zoopark).  
 hijabe - вуаль  
 hisaba - вычислять  
 hoke - хоккей  
@@ -179,8 +180,8 @@ kimia - химия
 kirmi - красный  
 kitaba - писать  
 kitabe - письмо  
+kitabemaxin - пишущая машинка  
 kitabia - библиотека  
-kitabomaxin - пишущая машинка  
 klime - климат  
 klimemute - изменение климата  
 ko - чем  
@@ -241,6 +242,7 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+molia - мельница  
 moluske - моллюск  
 mome - мы  
 ##n
@@ -251,6 +253,7 @@ nida - нуждаться
 nide - нужда  
 nidi - нужный  
 nili - azul  
+niponia - Япония  
 nixe - ниша  
 no - нет (не)  
 noce - ночь  
@@ -297,20 +300,21 @@ program - программа
 projete - проект  
 pul - цветок  
 ##r
-rapido - быстрый  
+rapidi - быстрый  
 ras - раса  
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
 rize - корень  
 ruhe - душа (дух)  
+ruksake - рюкзак  
 ##s
 safran - шафран  
 sahi - правильный  
 sal - соль  
 salame - приветствие  
 saman - небо  
-samoray - согласие  
+samray - согласие  
 samude - море  
 samudi - морской  
 sang - кровь  
@@ -326,7 +330,7 @@ sikliste - велосипедист
 slavi - славянский  
 soke - носок  
 sol - солнце  
-solocate - зонтик от солнца  
+solcate - зонтик от солнца  
 sonkamar - спальня  
 sonu - спать  
 sos - соус  
@@ -343,7 +347,7 @@ tazi - свежий
 te - ты  
 teknelojia - технология  
 telefon - телефон  
-telowide - телевизор  
+televide - телевизор  
 teme - тема  
 tena - иметь  
 tenu - принадлежать  
@@ -378,7 +382,7 @@ walpapir - обои
 wana - хотеть  
 waw - вау!  
 waxa - мыть  
-waxomaxin - стиральная машина  
+waxmaxin - стиральная машина  
 werka - работать  
 werke - работа  
 werker - работник  

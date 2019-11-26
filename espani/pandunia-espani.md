@@ -74,6 +74,7 @@ bruni - marrón
 buke - libro  
 ##c
 ca - de  
+canse - oportunidad (chance)  
 cerni - negro  
 cis - queso  
 coy - verduras  
@@ -81,10 +82,12 @@ coy - verduras
 dalil - prueba  
 danse - dança (baile)  
 date - datos  
-datobanke - banco de datos (base de datos)  
+datebanke - banco de datos (base de datos)  
 daysamude - océano  
 destin - destino  
 domi - doméstico  
+dominikania - Dominicana  
+dominikia - Dominica  
 ##e
 eletre - electricidad  
 esa - ser (estar)  
@@ -97,9 +100,9 @@ filosofia - filosofía
 fiorde - fiordo  
 fitelojia - botánica  
 fora  - perforar  
-fotografe - foto (fotografía)  
-fotografia - fotografía  
+fotegrafia - fotografía  
 funge - hongo  
+futebol - fútbol  
 ##g
 galaksia - galaxia  
 galte - error  
@@ -118,7 +121,7 @@ hamili - embarazado (preñado)
 hate - mano  
 hay - vida  
 hewan - animal (bestia)  
-hewanoparke - zoo  
+hewanparke - zoo  
 hijabe - velo  
 him - neve  
 hisaba - calcular  
@@ -152,8 +155,8 @@ kimia - química
 kirmi - rojo  
 kitaba - escribir  
 kitabe - escritura  
+kitabemaxin - máquina de escribir  
 kitabia - biblioteca  
-kitabomaxin - máquina de escribir  
 klimemute - cambio climático  
 ko - que (como)  
 ko? - cómo  
@@ -214,6 +217,7 @@ migre - migración
 milke - leche  
 mita - encontrar  
 mite - reunión (junta, mitin)  
+molia - molino  
 mome - nosotros  
 monistia - monismo  
 ##n
@@ -225,6 +229,7 @@ nida - necesitar
 nide - necesidad  
 nidi - necesario  
 nili - bleu  
+niponia - Japón  
 nixe - hornacina  
 no - no  
 noce - noche  
@@ -279,7 +284,7 @@ pul - flor
 pute - hijo o hija  
 ##r
 rang - color  
-rapido - rápido  
+rapidi - rápido  
 ras - raza  
 retra - volver  
 retretikete - billete de ida y vuelta  
@@ -293,7 +298,7 @@ sal - sal
 salame - saludo  
 sali - salino  
 saman - cielo  
-samoray - acuerdo  
+samray - acuerdo  
 samude - mar  
 samudi - marítimo  
 sang - sangre  
@@ -306,7 +311,7 @@ si - sí
 sikle - bicicleta  
 sikliste - ciclista  
 slavi - eslavo  
-solocate - parasol  
+solcate - parasol  
 sonkamar - dormitorio  
 sonu - dormir  
 suki - feliz  

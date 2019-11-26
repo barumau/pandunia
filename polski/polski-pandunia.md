@@ -55,7 +55,7 @@ arachnofobia - aranofobia
 arboretum - arbeparke  
 arbuz - arbuze  
 archipelag - nesia  
-Argentyna - argentin  
+Argentyna - argentinia  
 argon - argon  
 argument, teza - tese  
 armia - laskeria  
@@ -99,7 +99,7 @@ balon - balon
 bambus - banse  
 banan - banan  
 bandaż, taśma, wstążka - faxe  
-Bangladesz - banglodexia  
+Bangladesz - bangledexia  
 bank - banke  
 bankier - banker  
 baobab - buy  
@@ -271,7 +271,7 @@ Czarnogóra - cernogoria
 czarny - cerni  
 czas (epoka, era) - zaman  
 czas; okazja - ban  
-czasownik - fatolekse  
+czasownik - fatelekse  
 czaszka - saroste  
 czcić, szanować - puja  
 czekać - denga  
@@ -300,7 +300,7 @@ Dania - dania
 danie - tas  
 darwinista - darwiniste  
 darwinizm - darwinistia  
-data - nenomesoden  
+data - nenmesden  
 dać mieszkanie (zakwaterować) - doma  
 dać, dawać - dona  
 debatować, prowadzić dyskurs - lona  
@@ -313,7 +313,7 @@ demokrata - demokratiste
 Demokratyczna Republika Konga - kinsasi kongolia  
 demokratyczny - demokrati  
 demon - demon  
-dentysta - dantomediker  
+dentysta - dantemediker  
 deska - banze  
 detal, szczegół - detal  
 diabelski, szatański - xatani  
@@ -402,7 +402,7 @@ Dżibuti - jibutia
 dżul (J) - jul  
 ##e
 echo - mirosonde  
-efekt halo - nurocirke  
+efekt halo - nurcirke  
 egipski - misri  
 Egipt - misria  
 einstein - ainstainium  
@@ -448,7 +448,7 @@ ferm - fermium
 Fidżi - fijia  
 figura, reprezentacja - figur  
 Filipiny - filipinia  
-filiżanka do kawy - kafokupe  
+filiżanka do kawy - kafekupe  
 film - filme  
 filozof - filsofer  
 filozofia - filosofia  
@@ -470,7 +470,7 @@ forma, kształt - forme
 forum - forum  
 fosfor - fosfor  
 fosfor - pospor  
-fotografia - fotografia  
+fotografia - fotegrafia  
 Francja - fransia  
 frans - fransium  
 fu, fuj - fuy  
@@ -593,7 +593,7 @@ hokej - hoke
 hokej na lodzie - aisehoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
-homoseksualny - samojinsokami  
+homoseksualny - samjinsekami  
 Honduras - hondurasia  
 Hong Kong - hongong  
 honorowy - onori  
@@ -708,7 +708,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisaba  
 Kambodża - kambudia  
-kamera, aparat fotograficzny - fotomaxin  
+kamera, aparat fotograficzny - fotemaxin  
 Kamerun - kamerunia  
 kamień - petre  
 Kanada - kanadia  
@@ -728,7 +728,7 @@ karawana - karwan
 karta - karde  
 kartka (dokument) - warke  
 kasjer - kaxer  
-kasta - jenoklas  
+kasta - jenklas  
 kaszel; kaszlnięcie - kos  
 kasztan - kastan  
 Katalonia - katalunia  
@@ -754,7 +754,7 @@ kiur - kurium
 klasa, kategoria - klas  
 klasyfikować, kategoryzować - klasa  
 klatka - kafas  
-klatka piersiowa - sinokase  
+klatka piersiowa - sinkase  
 klawiatura - butonbanze  
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
@@ -781,7 +781,7 @@ kola, napój gazowany - kola
 kolacja - xamniam  
 kolano - gute  
 kolec - ding  
-kolej - trenodaw  
+kolej - trendaw  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
 kolekcjonować, zebrać, zbierać - jama  
 kolonia, osada - kolonia  
@@ -815,7 +815,7 @@ kopia, replika - kope
 kopiować, replikować - kopa  
 kopuła - kupol  
 Koran - kuran  
-Korea Południowa - hangogia  
+Korea Południowa - sudi cosenia  
 korek, zatyczka, szpunt - tape  
 korona - koron  
 korzeń - rize  
@@ -884,7 +884,7 @@ kura, kogut, kurczak - kokode
 kurtka - jake  
 kusić, nakłonić, nakłaniać - tenta  
 Kuwejt - kuwaitia  
-kwadrat (czworokąt, czworobok, tetragon) - carogon  
+kwadrat (czworokąt, czworobok, tetragon) - cargon  
 kwaśny - suan  
 kwestia, problem - masle  
 kwiat - pul  
@@ -1000,7 +1000,7 @@ maska, kamuflaż - maske
 mass (dough, lump) - mas  
 maszt - maste  
 maszyna - maxin  
-maszyna do pisania - kitabomaxin  
+maszyna do pisania - kitabemaxin  
 masło - makan  
 masłosz Parka - karite  
 matematyk - matiker  
@@ -1270,7 +1270,7 @@ odbyt - anus
 odcisk, ślad; stempel, pieczęć - cape  
 oddech - nafas  
 odetkać, odtykać - tapula  
-odkurzacz - funocuper  
+odkurzacz - funcuper  
 odmówić (odrzucić) - nega  
 odnowić, odnawiać, uczynić nowym - nova  
 odpowiedzieć, odpowiadać - jawaba  
@@ -1359,7 +1359,7 @@ panteon - pandewia
 papaja - papay  
 papier - kagaze  
 papieros (cygar) - sigar  
-Papua Nowa Gwinea - papua nowi ginia  
+Papua Nowa Gwinea - papua novi ginia  
 papuga - papagay  
 paragon, pokwitowanie - reside  
 Paragwaj - paraguayia  
@@ -1439,7 +1439,7 @@ piękny, przystojny - sundari
 pięć (5) - lim  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baskobol  
-piłka nożna - futobol  
+piłka nożna - futebol  
 placek, ciasto - pay  
 placy - ruke  
 plan - plan  
@@ -1451,16 +1451,16 @@ platoniczne - platonisti
 platonizm - platonistia  
 platończyk - platoniste  
 platyna - platin  
-plecak - rukosake  
+plecak - ruksake  
 plemię - tribe  
 Pluton (planeta karłowata) - pluto  
 pluton - plutonium  
 pluć - tuha  
-pochochodnia (latarka) - nurobaton  
+pochochodnia (latarka) - nurbaton  
 pociąg - tren  
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
-poczta, budynek poczty - postokan  
+poczta, budynek poczty - postia  
 początek - mul  
 pod, poniżej; iść w dół, iść pod spód, iść na dno - nica  
 podarunek, dar, prezent - don  
@@ -1521,10 +1521,10 @@ pora roku - mosim
 porażka (niepowodzenie, klapa) - xibay  
 porcja, dawka - doze  
 porno, film erotyczny - porne  
-pornografia - pornografia  
-porozumienie - samoray  
+pornografia - pornegrafia  
+porozumienie - samray  
 Portugalia - portugalia  
-porywacz pociągu - trenokaper  
+porywacz pociągu - trenkaper  
 porywacz samolotu - vimankaper  
 porządek - ratibe  
 porządkować, organizować - ratiba  
@@ -1537,7 +1537,7 @@ pot - suede
 potas - kalium  
 potrzebny - nidi  
 potrzebować - nida  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się - samoraya  
+potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notisa  
 powierzchnia - fas  
@@ -1566,7 +1566,7 @@ pracować - werka
 pracownik - werker  
 practyczny, pragmatyczny - prati  
 praktyka, aktualność - prate  
-pralka - waxomaxin  
+pralka - waxmaxin  
 prawa autorskie - kopohake  
 prawa strona - raite  
 prawdopodobnie (możliwie) - ablo  
@@ -1594,7 +1594,7 @@ promet - prometium
 promieniowanie - radia  
 promieniować - rada  
 promień - rade  
-promień światła - nurorade  
+promień światła - nurerade  
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - manihay  
@@ -1610,7 +1610,7 @@ przeciekać, ciec - lowa
 przecinek - kome  
 przeciwnik (antagonista) - anter  
 przeciwstawny (naprzeciw, naprzeciwko, anty-) - anti  
-przedpołudnie - suboden  
+przedpołudnie - subeden  
 przedłużyć, przedłużać - longa  
 przegrany, pokonany - luzer  
 przegrać, przegrywać - luza  
@@ -1640,7 +1640,7 @@ przyjęcie, święto, festiwal - feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - laya  
 przykryć, przykrywać, ukryć, ukrywać - deka  
 przykład - misal  
-przymiotnik - sifolekse  
+przymiotnik - siflekse  
 przymus - muse  
 przyprawa - masal  
 przyrostek dla (wyniku) działania - -e  
@@ -1714,7 +1714,7 @@ ren - renium
 reprezentować - wakila  
 Republika Czeska, Czechy - cehia  
 Republika Konga - brazavili kongolia  
-Republika Macedonii, Macedonia - makedonia  
+Republika Macedonii, Macedonia - nordi makedonia  
 Republika Środkowoafrykańska - jungafrikia  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restoran  
@@ -1723,9 +1723,9 @@ rezerwacja - rezerve
 rezult, wynik - rezulte  
 robak - verme  
 robot - robote  
-rocznica - nenofeste  
+rocznica - nenfeste  
 rod - rodium  
-rodak, ziomek, krajan - samodexi  
+rodak, ziomek, krajan - samdexi  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - saudar  
 rodzina - famil  
@@ -1791,13 +1791,13 @@ róg - buge
 róg - korne  
 równy - par  
 róża - roze  
-różowy, różany - rozangi  
+różowy, różany - rozrangi  
 ręcznik - towal  
 ręczny - hati  
 ręka, dłoń - hate  
 ##s
 Saint Lucia - santi lusia  
-Saint Vincent and Grenadines - vinsente i grenadin  
+Saint Vincent and Grenadines - santi vinsente e grenadin  
 Saint Vincent i Grenadyny - walis i futun nesia  
 Salwador - salvadoria  
 sam, osobiście - tan  
@@ -1918,7 +1918,7 @@ stać - libu
 sterburta (prawa burta) - botoraite  
 sterować - gida  
 sto (##) - hon  
-stolarz - mokojanger  
+stolarz - mokejanger  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
 stoper - sekundemeter  
@@ -1961,7 +1961,7 @@ szampon - kexosabun
 szansa - canse  
 szariat - islamisti xaria  
 szczepionka - vaksin  
-szczoteczka do zębów - dantobrox  
+szczoteczka do zębów - dantebrox  
 szczotka - brox  
 szczyt (wierzchołek) - pike  
 szef, kierownik - xef  
@@ -1979,15 +1979,15 @@ szmaragd - zumrude
 szofer (kierowca) - xofer  
 szokwstrząs; kolizja - xoke  
 szparag; szparagia - lusun  
-szron - himorose  
+szron - himrose  
 sztuczny - sani  
 sztuka - arte  
-sztuka walki - jengoxute  
+sztuka walki - jengexute  
 sztylet (puginał) - kanjar  
 szukać - serca  
 Szwajcaria - suisia  
 Szwecja - suenia  
-szybki, prędki - rapido  
+szybki, prędki - rapidi  
 szympans - cimpanze  
 szynszyla - cincil  
 szyszka - konus  
@@ -2042,7 +2042,7 @@ technologia, nauka o technikach - teknelojia
 teistyczny - dewiste  
 teizm - dewistia  
 telefon - telefon  
-telewizja - telowide  
+telewizja - televide  
 tellur - telurium  
 telugu - telugi  
 temat, motyw - teme  
@@ -2136,7 +2136,7 @@ ugotować się, gotować się - bulu
 Ukraina - ukrainia  
 ukraść, kraść - cora  
 ukształtować, kształtować, urzeźbić, rzeźbić - forma  
-układ słoneczny - solesistem  
+układ słoneczny - solsistem  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - jangi  
@@ -2155,7 +2155,7 @@ Uran - uran
 uran - uranium  
 urdu - urdi  
 uroczy, słodki - kaway  
-urodziny - jenoden  
+urodziny - jenden  
 urodzić się, rodzić się - jenu  
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - jena  
 urosnąć, rosnąć, wzrosnąć, wzrastać - dayu  
@@ -2196,7 +2196,7 @@ warzywo - veje
 wat - wate  
 Watykan, Państwo Watykańskie - vatikania  
 waza, garnek, pojemnik, słoik, dzban - vaze  
-wazon; donica, doniczka - pulowaze  
+wazon; donica, doniczka - pulvaze  
 ważka - libel  
 ważny - hami  
 wciąż, nadal - hay  
@@ -2206,8 +2206,8 @@ Wenezuela - venezolia
 weranda, balkon, taras, ganek - berande  
 wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suki  
+wewnętrzny - indejeni  
 wewnętrzny - indi  
-wewnętrzny - indojeni  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notis  
 wiadomy, znany - jani  
@@ -2404,7 +2404,6 @@ zbudować, budować, konstruować - bina
 zbyt - max ko bas  
 zbyt mało - min ko bas  
 zdanie, zwrot, wyrażenie - fraze  
-zdjęcie, fotografia - fotograf  
 zdrada małżeńska, cudzołóstwo - zine  
 zebra - zebre  
 zemleć, mleć, mielić - mola  
@@ -2427,7 +2426,7 @@ zmienić, zmieniać - muta
 zmierzyć - meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  
 zmysł - sense  
-znaczek pocztowy - postocape  
+znaczek pocztowy - postecape  
 znaczenie - mene  
 znaczyć (liczyć się, być ważnym) - hamu  
 znaczyć - mena  
@@ -2480,7 +2479,7 @@ zły, zrujnowany, zepsuty - harabi
 śmiać się - haha  
 śmierć - morte  
 śmieć, odpadek - laje  
-śniadanie - suboniam  
+śniadanie - subeniam  
 śnieg - him  
 śpiewać - canta  
 średni - medi  
@@ -2513,5 +2512,5 @@ zły, zrujnowany, zepsuty - harabi
 żyrafa - jiraf  
 żywica - rezin  
 żyć (żywy, żyjący) - hayi  
-żółty - limonangi  
+żółty - limonrangi  
 żółw - tortuge  

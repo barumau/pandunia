@@ -75,7 +75,7 @@ arbe - arbo
 arbeparke - arboĝardeno  
 arbuze - akvomelono  
 are - areo  
-argentin - Argentino  
+argentinia - Argentino  
 argon - argono  
 aria - ejo  
 arize - rizo  
@@ -121,8 +121,8 @@ balon - balono
 ban - fojo  
 banan - banano  
 bandir - flago  
-banglodexi - bangladeŝa  
-banglodexia - Bangladeŝo  
+bangledexi - bangladeŝa  
+bangledexia - Bangladeŝo  
 banke - banko  
 banker - bankisto  
 banse - bambuo  
@@ -291,8 +291,8 @@ danka - danki
 danke - danko  
 danse - danco  
 dante - dento  
-dantobrox - dentbroso  
-dantomediker - dentisto  
+dantebrox - dentbroso  
+dantemediker - dentisto  
 darba - bati  
 darsa - lerni (studi)  
 darse - leciono  
@@ -300,7 +300,7 @@ darser - studento (lernanto)
 darsia - lernejo  
 darsogur - instruisto  
 date - datumo  
-datobanke - datumbanko  
+datebanke - datumbanko  
 daw - vojo  
 day - granda  
 daysamude - oceano  
@@ -432,9 +432,9 @@ fas - surfaco
 fasin - fascinado  
 fata - fari  
 fate - faro  
+fatelekse - verbo  
 fater - fabrikisto  
 fateria - fabriko  
-fatolekse - verbo  
 faxiste - faŝisto  
 faxistia - faŝismo  
 febre - febro  
@@ -488,11 +488,10 @@ forum - forumo
 fos - foso  
 fosa - fosi  
 fosfor - fosforo  
-fotograf - foto  
-fotografe - foto (fotografaĵo)  
-fotografer - fotisto  
-fotografia - fotografio  
-fotomaxin - fotilo  
+fotegraf - foto  
+fotegrafer - fotisto  
+fotegrafia - fotografio  
+fotemaxin - fotilo  
 fransia - Francio  
 fransium - franciumo  
 fuka - vesti  
@@ -506,7 +505,7 @@ funge - fungo
 furete - furo  
 furia - kolero (furiozo)  
 fute - piedo  
-futobol - piedpilko  
+futebol - piedpilko  
 fuy - bah!  
 ##g
 gabre - tombo  
@@ -599,7 +598,6 @@ hami - grava
 hamili - graveda  
 hamir - feĉo  
 hamu - gravi  
-hangogia - Sudkoreio  
 haos - kaoso (malordo)  
 harabi - ruinigita  
 harfe - litero  
@@ -628,12 +626,12 @@ hem - hm
 hema - pripensi  
 hen - malamo  
 hewan - besto  
-hewanoparke - zoo (bestoĝardeno)  
+hewanparke - zoo (bestoĝardeno)  
 hibride - miksulo  
 hidre - hidrogeno  
 him - neĝo  
 himalia - Himalajo  
-himorose - frosto  
+himrose - frosto  
 hindiste - hinduo  
 hindistia - hinduismo  
 histor - historio  
@@ -707,9 +705,9 @@ jeinistia - Ĝajnismo
 jel - ĝelo  
 jen - nasko  
 jena - naskigi  
+jenden - naskiĝtago  
 jeng - milito (batalo)  
 jengi - milita  
-jenoden - naskiĝtago  
 jentil - bonkora  
 jenu - naski  
 jinse - genro  
@@ -728,8 +726,8 @@ jus - suko
 ##k
 kadomium - kadmio  
 kafe - kafo  
+kafekupe - kaftaso  
 kaferia - kafejo  
-kafokupe - kaftaso  
 kagaze - papero  
 kakaw - kakao  
 kake - feko  
@@ -794,8 +792,8 @@ kilometre - kilometro
 kimia - ĥemio (kemio)  
 kirmi - ruĝa  
 kitabe - skribo  
+kitabemaxin - tajpilo  
 kitabia - librejo  
-kitabomaxin - tajpilo  
 kiwe - kivo  
 klar - klara  
 klara - klarigi  
@@ -872,6 +870,7 @@ le - li aŭ ŝi aŭ ĝi
 lekin - tamen  
 leksaslia - etimologio  
 lekse - vorto  
+lekseliste - vortaro  
 leksia - vortaro  
 leksoliste - vortaro  
 lengi - malvarma  
@@ -886,7 +885,7 @@ liga - aligi
 lil - malgranda  
 lim - kvin (5)  
 limon - citrono  
-limonangi - flava  
+limonrangi - flava  
 linye - lineo  
 lisi - glata  
 liste - listo  
@@ -1047,7 +1046,7 @@ nanas - ananaso
 natre - natrio  
 nawati - naūatla  
 nen - jaro  
-nenomesoden - dato  
+nenmesden - dato  
 neon - neono  
 nepalia - Nepalo  
 neptun - Neptuno  
@@ -1066,6 +1065,7 @@ nili - blua
 nilon - nilono  
 ninde - insulto  
 niobium - niobo  
+niponi - japana  
 niponia - Japanio  
 niponium - nihonio  
 nitre - nitrogeno  
@@ -1083,9 +1083,9 @@ notobuke - kajero
 novi - nova  
 nume - nombro  
 nur - lumo  
+nurbaton - torĉo  
+nurcirke - halo  
 nuri - luma  
-nurobaton - torĉo  
-nurocirke - halo  
 nuton - newtono (N)  
 o - aŭ  
 o - ho!  
@@ -1181,7 +1181,7 @@ polon - polonio
 ponta - montri  
 porte - haveno  
 pospor - fosforo  
-postokan - poŝtejo  
+postia - poŝtejo  
 pote - koto  
 poti - kota  
 preda - antaŭiri  
@@ -1194,8 +1194,8 @@ prometium - prometio
 protacinium - protaktinio  
 pul - floro  
 pulmon - pulmo  
-pulowaze - vazo (florpoto)  
 pulte - ponto  
+pulvaze - vazo (florpoto)  
 punte - punkto  
 purani - malnova  
 putaw - vinbero  
@@ -1211,7 +1211,7 @@ rampe - ramplo
 rang - koloro  
 rangi - kolora  
 rapide - rapideco  
-rapido - rapida  
+rapidi - rapida  
 ras - raco  
 rasiste - racisto  
 rasistia - racismo  
@@ -1281,10 +1281,10 @@ sali - sala
 sam - sama  
 saman - ĉielo  
 samarium - samario  
-samodexi - samlandano  
-samojinsokami - samseksema  
-samoray - interkonsento  
-samoraya - samopinii (interkonsenti)  
+samdexi - samlandano  
+samjinsekami - samseksema  
+samray - interkonsento  
+samraya - samopinii (interkonsenti)  
 samude - maro  
 samudi - mara  
 sana - produkti (fabriki)  
@@ -1314,14 +1314,14 @@ serpe - serpento
 serye - serio  
 si - jes  
 sida - sidi  
-sifolekse - adjektivo  
+siflekse - adjektivo  
 sikliste - biciklisto  
 silike - silicio  
 simpli - simpla  
 sine - brusto  
 sing - leono  
 singapur - Singapuro  
-sinokase - torako  
+sinkase - torako  
 sirke - vinagro  
 sisme - tertremo  
 sismelojia - sismologio  
@@ -1332,8 +1332,8 @@ sofi - saĝa
 sofia - saga  
 soke - ŝtrumpo  
 sol - suno  
-solesistem - sunsistemo  
-solocate - sunombrelo  
+solcate - sunombrelo  
+solsistem - sunsistemo  
 son - dormo  
 sonde - sono  
 song - pino  
@@ -1345,6 +1345,7 @@ suahili - sŭahili
 suan - acida  
 sube - mateno  
 sude - sudo  
+sudi cosenia - Sudkoreio  
 suki - feliĉa  
 suku - ŝati  
 sulfe - sulfuro  
@@ -1386,8 +1387,8 @@ teknelojia - teknologio
 teknetium - teknecio  
 tele - malproksimeco  
 telefon - telefono  
+televide - televidilo  
 teli - malproksima  
-telowide - televidilo  
 telurium - teluro  
 tema - esti pri; pridiskuti  
 teme - temo  
@@ -1422,7 +1423,7 @@ torse - torso
 tote - vi ĉiu  
 towal - viŝilo  
 tren - trajno (vagonaro)  
-trenodaw - fervojo  
+trendaw - fervojo  
 tribe - tribo  
 tube - tubo  
 tuha - sputi  
@@ -1469,7 +1470,7 @@ wase - oazo
 wate - vato  
 waw - ŭaŭ!  
 waxa - lavi  
-waxomaxin - lavmaŝino  
+waxmaxin - lavmaŝino  
 way - ekstera  
 way dexia - fremda lando  
 waye - ekstero  
