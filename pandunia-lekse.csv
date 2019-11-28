@@ -72,8 +72,8 @@ amen|||ara:(ʾāmin). tur:amin,emin. heb:hbo:אמן. ell:ἀμήν (ámén). eng
 amena||||assure (affirm)|||||||||||||||certigi|varmistaa|
 amerike||||America (continent)|Amérique||||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
 ameriki||||American|américain||||||||||||||amerika|amerikkalainen|amerykański
-amper||||ampere|ampère||||||||||||||ampero|ampeeri|amper
 amerikium|mate|Am||americium|||||||||||||||americio|amerikium|ameryk
+amper||||ampere (amp)|ampère||||||||||||||ampero|ampeeri|amper
 ampul|||fra:eng:ampoule. zho:安瓿 (ānbù). jpn:アンプル (anpuru). rus:ампула (ámpula). ara:(ʾambūla).|ampoule (vial)|ampoule (fiole)|||||||||||||||ampulli|ampułka
 analis|||eng:analysis. fra:analyse. por:análise. spa:análisis. rus:анализ (analiz). tur:analiz.|analysis|analyse|análisis|análise|анализ||分析||||||||analiz|analizo|analyysi|analiza
 analisa||||analyse|analyser|||анализировать||分析|||||||||analizi|analysoida|analizować
@@ -280,7 +280,9 @@ boria||27 emotions||boredom||||||||||बोरियत|||||enuo|tylsyys (pitkä
 borium|mate|Bh||bohrium|||||||||||||||borio|bohrium|bohr
 boron|mate|B||boron|||||||||||||||boro|boori|bor
 bosnia|dex|BA||Bosnia and Herzegovina||||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
+bota||||sail|||||||||||||||||
 bote|||spa:bote. eng:boat. hin:बोट (boṭ). swa:boti. rus:бот (bot). jpn:ボート (bōto).|boat (ship)|bateau||barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||ŝipo|vene (laiva)|łódź, statek
+boter||||sailor|||||||||||||||||
 botokaper||||privateer (buccaneer)||||||||||||||||laivakaappari|kaper (korsarz)
 botol|||eng:bottle. ind:botol.|bottle|||||||||||||||botelo|pullo|butelka
 botolefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
@@ -723,7 +725,7 @@ gas|||deu:eng:spa:ind:gas. por:gás. ben:গ্যাস (gyas). jpn:ガス (ga
 gasi||||gaseous||||||||||||||||kaasumainen|
 gasu||||gasify (vaporize)||||||||||||||||kaasuuntua|
 gati|||tel:గట్టి (gaṭṭi). tkm:gaty. tur:katı. hin:कड़ा (kaṛā). jpn:硬い (katai).|hard (tough)|dur|duro|duro|твёрдый||硬|硬い||cứng (rắn)|कड़ा (सख़्त)||||sert (katı)|malmola|kova|
-gawa||||raise (lift)||||||||||||||||nostaa|
+gawa||||raise (lift, go up)||||||||||||||||nostaa|
 gawi|||zho:高 (gāo). vie:cao.|high|||||||||||||||alta|korkea|wysoki
 gayania|dex|GY||Guyana|||||||||||||||Gujano|Guyana|Gujana
 gaze|||deu:fra:por:gaze. jpn:ガーゼ (gāze). rus:газ (gaz). eng:gauze.|gauze|||||||||||||||gazo|harso|gaza
@@ -799,6 +801,7 @@ haime|||ara:(xayma). hau:laima. hin:ख़ैमा (xEmā). swa:hema. ind:kemah
 haitia|dex|HT||Haiti|||||||||||||||Haitio|Haiti|Haiti
 hake|||ara: /haqq/. tur: hak. ind: hak. swa: haki. hau: hakki.|right (justification, privilege)|||||||||||||||rajto|oikeus (oikeutus)|prawo, przywilej
 hakim|||ara:(qāḍin). hau:alƙali. fas:(qāzi). eng:qadi. swa:kadhi.|judgment (sentence)|||||||||||||||juĝo|tuomio|wyrok
+hakima||||judge
 hakimer||||judge (referee)|||||||||||||||juĝisto|tuomari|sędzia
 halal|||ara:(ḥalāl). fas:urd:(halāl). eng:spa:fra:por:ind:halal. tur:helal. rus:халяльный (xaljalʹniy). hin:हलाल (halāl). swa:halali. kor:할랄 (hallal).|permissible (allowed, halal)||||||||||||||||sallittu (hyväksytty)|dozwolony (dopuszczalny, zezwolony, halal)
 halala||||allow (permit)||||||||||||||||sallia (antaa lupa)|pozwolić, pozwalać, zezwolić, zezwalać
@@ -1138,7 +1141,7 @@ kinsasi kongolia|dex|CD||Congo Kinshasa||||||||||||||||Kinshasan Kongo|Demokraty
 kioske||||kiosk||||||||||||||||kioski|kiosk
 kipris|dex|CY||Cyprus||||||||||||||||Kypros|Cypr
 kirate||||carat||||||||||||||||karaatti|karat
-kire|||ara:(kirāʾ). tur:kira. hin:किराया (kirāyā). urd:(kirāyā). fas:(kerāya). spa:alquiler.|rent (hire, lease)||||||||||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
+kire|||ara:(kirāʾ). tur:kira. hin:किराया (kirāyā). urd:(kirāyā). fas:(kerāya). spa:alquiler.|rent (hire, lease, loan)||||||||||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
 kirgizia|dex|KG||Kyrgyzstan||||||||||||||||Kirgistan (Kirgisia)|Kirgistan
 kiribatia|dex|KI||Kiribati||||||||||||||||Kiribati|Kiribati
 kirili abace||||Cyrillic alphabet||||||||||||||||kyrilliset aakkoset|cyrylica
@@ -1417,6 +1420,7 @@ malaisia|dex|MY||Malaysia||||||||||||||||Malesia|Malezja
 malaria||||malaria||||||||||||||||malaria|malaria
 malawia|dex|MW||Malawi||||||||||||||||Malawi|Malawi
 malayali|nas|||Malayali (Malayalam)||||||||||||||||malajalam (eräs intialainen kieli)|malajski
+malayi||||Malay|||||||||||||||||
 malia|dex|ML||Mali|||||||||||||||Malio|Mali|Mali
 malike|||kan:(mallige). tam:(mallikai). tel:(malla). ind:melati.  kor:말리 (malli). tha:มะลิ (mali). zho:茉莉 (mòlì).|jasmine|||||||||||||||jasmeno|jasmiini|jaśmin
 malka||||own||||||||||||||||omistaa|mieć (posiadać)
@@ -1793,7 +1797,7 @@ oromi||||Oromo (an Ethiopian ethnic group and language)||||||||||||||||oromo (et
 oromia|dex|||Oromia||||||||||||||||Oromia|Oromia
 orta||||straighten||||||||||||||||suoristaa (ojentaa)|
 ortegon||||right angle||||||||||||||||suorakulma (oikokulma)|
-ortegoni||||orthogonal|orthogonal|ortogonal|ortogonal|ортогона́льный||||||||||||suorakulmainen|
+ortegoni||||orthogonal (perpendicular)|orthogonal|ortogonal|ortogonal|ортогона́льный||||||||||||suorakulmainen|
 orti|||eng:fra:ortho-. spa:por:orto-. rus:орто- (orto-).|straight|droit (rectiligne)|recto|reto|прямой||直|まっすぐな|||सीधा|||||rekta|suora|
 oseania||||Oceania|||||||||||||||Oceanio|Oseania|Oceania
 oskur||||dark (dim)||||||||||||||||pimeä (hämärä)|ciemny, słabo oświetlony
@@ -2052,6 +2056,7 @@ ray|||ara:(raʾy). fas:(ra'y). hin:राय (rāy). tur:rey.|opinion (view)||||
 raya||||deem (think that)|||||||||||||||opinii|ottaa kantaa (olla jtk mieltä)|uważać (sądzić)
 razon||||reason (rational thinking)||||||||||||||||järki (järkeily, päättely)|rozum, rozsądek
 razoni||||rational (reasonable)||||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
+razonu||||make sense||tener sentido|||||||||||||||
 rebel||||rebellion||||||||||||||||kapina|rebelia, powstanie
 recete|||ita:ricetta. rus:рецепт (retsept). deu:Rezept. spa:receta. por:receita. fra:recette. ind:resep.|instructions (recipe)||||||||||||||||resepti (ohje)|recepta, receptura, przepis
 reda||||prepare (make ready)||||||||||||||||tehdä valmiiksi|przygotować, przygotowywać
@@ -2072,7 +2077,7 @@ reste|||fra:reste. eng:deu:Rest. pol:reszta. spa:por:resto.|rest (remainder)|res
 restoran||||restaurant|||||||||||||||restaŭracio|ravintola|restauracja
 restu||||remain (stay)||||||||||||||||jäädä jäljelle|zostać, zostawać
 retra||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
-retre|||||||||||||||||||reiro|paluu|
+retre||||return (way back)|||||||||||||||reiro|paluu|
 retretikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|
 reunion|dex|RE||Réunion||||||||||||||||Reunion|Reunion
 rezerva||||reserve (book)||||||||||||||rezerve ettirmek|||
@@ -2337,7 +2342,7 @@ suomi||||Finnish|||||||||||||||finna|suomalainen|fiński
 suomia|dex|FI||Finland|||||||||||||||Finnlando|Suomi|Finlandia
 supe|||spa:sopa. eng: soup. fra: soupe. deu: Suppe. swa: supu. rus:суп (sup). ind:sup. jpn:スープ (sūpu).|soup|||||||||||||||supo|keitto (soppa)|zupa
 super||||superb (wonderful, super)|||||||||||||||bonega|upea (mahtava)|wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super
-supra|coverb|||surpass (go over)|||||||||||||||superiri|ylittää (yllä, päällä)|przekroczyć, przekraczać, przejść nad, iść nad
+supra|coverb|||surpass (above, go over)|||||||||||||||superiri|ylittää (yllä, päällä)|przekroczyć, przekraczać, przejść nad, iść nad
 supre||||overpass||||||||||||||||ylitys|wiadukt, przejście powyżej
 supri||||upper||||||||||||||||ylä- (yli-)|górny
 supris|||eng:surprise. tur:sürpriz. fas:(surpris). rus::сюрприз (siurpriz). por:surpresa. spa:sorpresa.|surprise||||||惊奇|||||||||surprizo|yllätys|zaskoczenie
