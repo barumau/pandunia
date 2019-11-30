@@ -86,9 +86,9 @@ bombe - 炸弹
 bon - 好  
 bon rupi - 好看  
 bote - 船 (艇)  
+boteraite - 右舷  
 botolefte - 左舷  
 boton - 扣子  
-botoraite - 右舷  
 bruni - 棕色 (色)  
 buke - 书  
 buze - 山羊  
@@ -110,6 +110,7 @@ ding - 钉子
 dom - 房子  
 dul - 二  
 dunia - 世界  
+e - 和  
 ##e
 esa - 对  
 ewanjil - 福音  
@@ -152,7 +153,7 @@ insan - 人类
 insanistia - 人文主义  
 ive - 趋势  
 ##j
-jana - 知道  
+jana - 知る  
 janger - 工匠 (匠人)  
 jinse - 属  
 jiraf - 长颈鹿  
@@ -173,7 +174,7 @@ kansuygas - 催泪瓦斯
 karbondulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
-kartografia - 地图学  
+kartegrafia - 地图学  
 kata - 切  
 ke - 什么  
 keci - 客气  
@@ -203,6 +204,7 @@ letis - 莴苣
 leze - 梨  
 libel - 蜻蜓  
 lider - 领导  
+lil - 小  
 limon - 柠檬  
 liste - 单子  
 loga - 说话 (讲)  
@@ -273,6 +275,7 @@ pagre - 包头
 pang - 面包  
 papagay - 鹉鹦  
 papay - 木瓜  
+pape - 爸爸  
 parke - 园  
 pasporte - 护照  
 patejener - 病原体  
@@ -322,6 +325,7 @@ selelojia - 细胞学
 serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  
+socia - 社会  
 sol - 太阳  
 solsistem - 太阳系  
 sonkamar - 卧室 (寝室)  
@@ -332,6 +336,7 @@ sundari - 漂亮 (美)
 sundaria - 美丽  
 supris - 惊奇  
 susan - 百合花  
+suy - 水  
 ##t
 tami - 贪婪的  
 tarje - 翻译  

@@ -99,7 +99,7 @@ aplika - soveltaa
 aplike - sovellus  
 arabi - arabialainen  
 arane - hämähäkki  
-aranofobia - araknofobia (hämähäkkikammo)  
+aranfobia - araknofobia (hämähäkkikammo)  
 arbe - puu  
 arbeparke - arboretum (puulajipuisto)  
 arbuze - vesimeloni  
@@ -136,6 +136,7 @@ azeria - Azerbaidžan
 ##b
 babe - luku (kirjan osa)  
 babuce - tohveli  
+bace - lapsi  
 bada - seurata (tulla perässä, tulla jäljessä)  
 badala - vaihtaa  
 badam - manteli  
@@ -272,12 +273,14 @@ boria - tylsyys (pitkästys)
 borium - bohrium  
 boron - boori  
 bosnia - Bosnia ja Hertsegovina  
+bota - veneillä  
 bote - vene (laiva)  
-botokaper - laivakaappari  
+botekaper - laivakaappari  
+boter - veneilijä  
+boteraite - tyyrpuuri  
 botol - pullo  
 botolefte - paapuuri  
 boton - nappi  
-botoraite - tyyrpuuri  
 brazavili kongolia - Brazzavillen Kongo  
 brazilia - Brasilia  
 britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
@@ -422,14 +425,14 @@ deka - peittää
 deke - peite (kansi)  
 dekula - paljastaa  
 deme - väestö (kansa)  
+demekrati - demokraattinen  
+demekratia - demokratia  
+demekratiste - demokraatti  
 demografia - väestötiede (demografia)  
-demokrati - demokraattinen  
-demokratia - demokratia  
-demokratiste - demokraatti  
 demon - demoni (piru)  
 den - päivä  
+deneniam - lounas  
 denga - odottaa  
-denoniam - lounas  
 des - kymmenen (10)  
 desen - piirustus  
 destin - määrä (päämäärä, kohtalo)  
@@ -440,8 +443,8 @@ dewi - jumalallinen
 dewi sage - jumaltaru (myytti)  
 dewiste - teisti  
 dewistia - teismi (jumalusko)  
+dewkratia - teokratia  
 dewlojia - teologia  
-dewokratia - teokratia  
 dex - maa (valtio)  
 din - uskonto  
 ding - naula (piikki)  
@@ -486,7 +489,7 @@ duke - suru (murhe)
 duki - surullinen  
 dul - kaksi (2)  
 dul ban - kahdesti (kaksi kertaa)  
-dul u tin - muutama (pari-kolme)  
+dul o tin - muutama (pari-kolme)  
 duli - kaksois- (duaalinen)  
 dulistia - dualismi  
 dulomeni - kaksimielinen (kaksimerkityksinen)  
@@ -520,9 +523,9 @@ em - pienin erottuva yksikkö
 emir - emiiri  
 emiria - emiirikunta  
 energe - energia  
+englefiler - anglofiili  
 engli - englanti  
 englia - Englanti  
-englofiler - anglofiili  
 eni - mikä tahansa  
 enzim - entsyymi  
 er - tekijä (aikaansaaja)  
@@ -585,6 +588,7 @@ fate - teko
 fatelekse - verbi (teonsana)  
 fater - tekijä (valmistaja)  
 fateria - tehdas  
+favori - suosikki (suosittu)  
 faxe - side (remmi)  
 faxiste - fasisti  
 faxistia - fasismi  
@@ -719,6 +723,7 @@ gasu - kaasuuntua
 gati - kova  
 gawa - nostaa  
 gawi - korkea  
+gawu - nousta  
 gayania - Guyana  
 gaze - harso  
 gazel - gaselli  
@@ -793,6 +798,7 @@ haime - teltta
 haitia - Haiti  
 hake - oikeus (oikeutus)  
 hakim - tuomio  
+hakima - tuomita  
 hakimer - tuomari  
 halal - sallittu (hyväksytty)  
 halala - sallia (antaa lupa)  
@@ -931,11 +937,11 @@ iridium - iridium
 irita - ärsyttää (häiritä)  
 isa - teettää  
 islam - alistuminen (antautuminen)  
+islamfobia - islamofobia (islamin pelko)  
 islamiste - muslimi (islaminuskoinen)  
 islamisti - islamilainen  
 islamisti xaria - šaria  
 islamistia - islam  
-islamofobia - islamofobia (islamin pelko)  
 islamu - alistua (antautua)  
 islandia - Islanti  
 israel - Israel  
@@ -955,7 +961,7 @@ jamia - yhteisö (kokoontuminen, kollektiivi)
 jampa - hypätä (hyppiä)  
 jamula - hajauttaa  
 jan - tieto (tietämys)  
-jana - tietää  
+jana - wiedzieć  
 janel - ikkuna  
 janelojia - tietoteoria (epistemologia)  
 jangal - metsä (viidakko)  
@@ -1079,7 +1085,7 @@ karnadia - Karnataka (Intian osavaltio)
 karoparke - parkkipaikka  
 karote - porkkana  
 karte - kartta  
-kartografia - kartogratia  
+kartegrafia - kartogratia  
 kartuelia - Georgia  
 kartun - sarjakuva  
 karwan - karavaani (saattue)  
@@ -1339,10 +1345,10 @@ lixtenxtain - Liechtenstein
 lobake - retikka (retiisi)  
 loga - puhua (sanoa)  
 loge - puhe (sanat)  
+logefiler - logofiili  
 logike - logiikka  
 logiki - looginen  
 logivi - puhelias  
-logofiler - logofiili  
 loja - tutkia (opiskella)  
 lojia - tiede (tutkimus)  
 loka - panna (asettaa, sijoittaa)  
@@ -1388,8 +1394,8 @@ magnete - magneetti
 magneti - magneettinen  
 magribia - Marokko  
 maidan - kenttä (aukio)  
+maidanfobia - agorafobia (avoimen paikan kammo)  
 maidani - avara (aava)  
-maidanofobia - agorafobia (avoimen paikan kammo)  
 mais - maissi  
 maitnerium - meitnerium  
 makale - artikkeli (kirjoitus)  
@@ -1403,6 +1409,7 @@ malaisia - Malesia
 malaria - malaria  
 malawia - Malawi  
 malayali - malajalam (eräs intialainen kieli)  
+malayi - malaiji  
 malia - Mali  
 malike - jasmiini  
 malka - omistaa  
@@ -1576,13 +1583,13 @@ moluske - nilviäinen
 mome - me  
 mon - vain (ainoastaan)  
 monakia - Monaco  
+monekratia - yksinvaltius (autokratia, monarkia)  
+moneloge - yksinpuhelu (monologi)  
+monevejeniamiste - vegaani  
 mongol - mongoli  
 mongolia - Mongolia  
 monistia - monismi  
 monodewistia - monoteismi (yksijumalisuus)  
-monokratia - yksinvaltius (autokratia, monarkia)  
-monologe - yksinpuhelu (monologi)  
-monovejoniamiste - vegaani  
 monster - hirviö  
 morfe - morfi  
 morfem - morfeemi  
@@ -2105,9 +2112,9 @@ rute - polku (reitti, kurssi)
 rutin - tapa (rutiini)  
 ##s
 sa - kanssa (luona, -lla, -ssa)  
-sa ce - täällä (tuolla)  
 sa ke - missä?  
 sa sabu - koska (johdosta, takia)  
+sa ye - täällä (tuolla)  
 saba - aiheuttaa  
 sabate - sapatti  
 sabe - syy  

@@ -73,7 +73,7 @@ anuso - anus
 aparteni - tenu  
 araba - arabi  
 araneo - arane  
-araneofobio - aranofobia  
+araneofobio - aranfobia  
 arbaro - jangal  
 arbo - arbe  
 arboĝardeno - arbeparke  
@@ -173,6 +173,8 @@ biskvito (kuketo) - biskute
 bismuto - bismute  
 blanka - baki  
 blua - nili  
+boato (ŝipo) - bote  
+boatumi - bota  
 bobelo - bubul  
 bojkoto - boikote  
 boli - bulu  
@@ -250,8 +252,8 @@ demanda - eski
 demandi (ĉu) - eska  
 demando - eske  
 demografio - demografia  
-demokratia - demokrati  
-demokratio - demokratia  
+demokratia - demekrati  
+demokratio - demekratia  
 demono - demon  
 denove (ripete) - repi  
 dentbroso - dantebrox  
@@ -557,6 +559,7 @@ ili - lole
 ilo - tul  
 indio - indium  
 Indonezio - indonesia  
+infano - bace  
 infekto - infekse  
 informacio - informe  
 inko - moge  
@@ -1246,7 +1249,6 @@ saĝa - sofi
 saŭco - sos  
 saŭno - saune  
 scienco - lojia  
-scii (koni) - jana  
 scio - jan  
 sciteorio (epistemologio) - janelojia  
 sciuro - tupay  
@@ -1288,6 +1290,7 @@ skribo - kitabe
 skulti - eskulta  
 skultisto - eskulter  
 smeraldo - zumrude  
+socio - socia  
 sofo - kanape  
 soldato - lasker  
 somero - lete  
@@ -1331,7 +1334,7 @@ sŭahili - suahili
 tabako - tabake  
 tabelo - table  
 tablo - meze  
-tagmanĝo - denoniam  
+tagmanĝo - deneniam  
 tago - den  
 tajgo - taige  
 tajlanda - tayi  
@@ -1358,7 +1361,7 @@ tendo - haime
 teneso - tenesin  
 teniso - tenis  
 teo - cay  
-teokratio - dewokratia  
+teokratio - dewkratia  
 teologio - dewlojia  
 teorio - teoria  
 tera - duni  
@@ -1371,7 +1374,8 @@ terpomo - patate
 tertremo - sisme  
 testo - teste  
 Tibeto - podia  
-tie - sa ce  
+tie - sa ye  
+tietää (tuntea) - jana  
 tigro - bagre  
 timo (fobio) - fobia  
 tio estas (alivorte) - alenami  
@@ -1401,7 +1405,7 @@ tranĉilo - cake
 trezoro - hazin  
 tri (3) - tin  
 tribo - tribe  
-tribordo - botoraite  
+tribordo - boteraite  
 tro - max ko bas  
 trovi - eureka  
 tubo - tube  
@@ -1549,7 +1553,6 @@ zuluo - zuluh
 ŝanco - canse  
 ŝario - islamisti xaria  
 ŝati - suku  
-ŝipo - bote  
 ŝlosilo - cabe  
 ŝoforo (kondukisto) - xofer  
 ŝranko - almar  

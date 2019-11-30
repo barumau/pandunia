@@ -35,6 +35,7 @@ arbuze - арбуз
 are - площадь  
 arize - рис  
 arte - искусство  
+artiste - художник (артист)  
 asan - поза  
 asle - начало (причина)  
 asme - астма  
@@ -79,9 +80,9 @@ bol - bola
 bombe - бомба  
 bon - хороший  
 bote - лодка (бот)  
+boteraite - правый борт  
 botolefte - левый борт  
 boton - пуговица  
-botoraite - правый борт  
 bruni - коричневый  
 buke - книга  
 ##c
@@ -103,13 +104,14 @@ destin - судьба
 dew - бог  
 domi - домашний  
 dul - два  
-dul u tin - пара  
+dul o tin - пара  
 dunia - мир (свет)  
 ##e
 esa - быть  
 eskulter - скульптор  
 ewanjil - евангелие  
 ##f
+favori - любимый  
 filosofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
@@ -173,7 +175,7 @@ kansuygas - слезоточи́вый газ
 karbondulokside - двуокись углерода  
 karde - карта  
 karte - карта  
-kartografia - картография  
+kartegrafia - картография  
 katan - меч  
 ke - что  
 kimia - химия  
@@ -209,6 +211,7 @@ lete - лето
 letis - салат-латук  
 libel - стрекоза  
 lider - руководитель (лидер)  
+lil - маленький (малый)  
 limon - лимон  
 liste - список  
 loga - говорить  
@@ -219,6 +222,7 @@ luter - грабитель
 lutheristi - лютеранский  
 lutheristia - лютера́нство  
 ##m
+mame - мать (мама)  
 manihayistia - манихейство  
 manir - поведение (манера)  
 manse - мясо  
@@ -275,6 +279,7 @@ pang - хлеб
 panir - творог  
 papagay - попугай  
 papay - папайя  
+pape - отец (папа)  
 parce - кусок  
 parke - парк  
 pasporte - паспорт  
@@ -328,6 +333,7 @@ serye - серия
 si - да  
 sikliste - велосипедист  
 slavi - славянский  
+socia - общество (социум)  
 soke - носок  
 sol - солнце  
 solcate - зонтик от солнца  
@@ -339,6 +345,7 @@ suki - счастливый (радостный)
 sundari - красивый  
 sundaria - красота  
 susan - лилия  
+suy - вода  
 ##t
 tarje - перевод  
 tas - блюдо (таз)  
@@ -389,6 +396,7 @@ werker - работник
 ##x
 xatan - Сатана  
 xaw - мало  
+xef - шеф  
 xey - вещь  
 xite - говно (дерьмо)  
 xofer - шофёр  

@@ -39,7 +39,7 @@ analny, odbytni - anusi
 ananans - nanas  
 Andy - andes  
 Anglik; angielski - engli  
-anglofil - englofiler  
+anglofil - englefiler  
 Angola - angolia  
 animacja - anime  
 animal - hewan  
@@ -51,7 +51,7 @@ antychryst - antokriste
 Antyle Holenderskie - nederlandi antilia  
 Arabia Saudyjska - saudi arabia  
 arabski - arabi  
-arachnofobia - aranofobia  
+arachnofobia - aranfobia  
 arboretum - arbeparke  
 arbuz - arbuze  
 archipelag - nesia  
@@ -308,10 +308,10 @@ decy-, dziesiąta część - deci
 defekować, srać - kaka  
 delikatny, cienki, lekki - fain  
 demografia - demografia  
-demokracja - demokratia  
-demokrata - demokratiste  
+demokracja - demekratia  
+demokrata - demekratiste  
 Demokratyczna Republika Konga - kinsasi kongolia  
-demokratyczny - demokrati  
+demokratyczny - demekrati  
 demon - demon  
 dentysta - dantemediker  
 deska - banze  
@@ -640,7 +640,7 @@ Irak - irakia
 Iran - irania  
 iryd - iridium  
 Islam - islamistia  
-islamofobia - islamofobia  
+islamofobia - islamfobia  
 islamski - islamisti  
 Islandia - islandia  
 istnieć (być obecnym) - zayu  
@@ -718,7 +718,7 @@ kannada - karnadi
 kanoe - kanuh  
 kanonier - kanoner  
 kapelusz, czapka - tope  
-kaper (korsarz) - botokaper  
+kaper (korsarz) - botekaper  
 kapitan - kapitan  
 Karaiby - karibia  
 karaoke - karaoke  
@@ -937,7 +937,7 @@ litr - litre
 lodowy - aisi  
 lody - aisekrem  
 logika, dedukcja - logike  
-logofil (miłośnik słów) - logofiler  
+logofil (miłośnik słów) - logefiler  
 lorens - laurensium  
 losowy - zari  
 lub, albo - o  
@@ -1089,12 +1089,12 @@ modlitwa - duwe
 molibden - molidenum  
 moment - sate  
 Monako - monakia  
-monarchia - monokratia  
+monarchia - monekratia  
 moneta - pesediske  
 Mongolia - mongolia  
 Mongolski - mongol  
 monizm - monistia  
-monolog - monologe  
+monolog - moneloge  
 monoteizm - monodewistia  
 moralność, etyka - darme  
 morf - morfe  
@@ -1241,7 +1241,7 @@ o! - o
 oaza - wase  
 obcęgi, kleszcze, szczypce - pinser  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zay  
-obiad, lunch - denoniam  
+obiad, lunch - deneniam  
 obiecać, angażować się - wada  
 obozowicz - kampe  
 obrabować, splądrować - luta  
@@ -1368,7 +1368,7 @@ park (ogród) - parke
 parking - karoparke  
 partia - partia  
 Partia Piratów - piratisti partia  
-parę - dul u tin  
+parę - dul o tin  
 pas, strefa - zone  
 paskal (Pa) - paskal  
 pasować - maca  
@@ -1915,7 +1915,7 @@ Starożytny Egipt (Kemet) - kemia
 stary, starożytny - purani  
 statyczny, stacjonarny, nieruchomy - estasi  
 stać - libu  
-sterburta (prawa burta) - botoraite  
+sterburta (prawa burta) - boteraite  
 sterować - gida  
 sto (##) - hon  
 stolarz - mokejanger  
@@ -2052,7 +2052,7 @@ ten, te - yi
 tendencja - ive  
 tenesyn, tennessine - tenesin  
 tenis - tenis  
-teokracja - dewokratia  
+teokracja - dewkratia  
 teologia - dewlojia  
 teoria - teoria  
 teraźniejszość, współczesność (teraz) - zaye  
@@ -2088,7 +2088,7 @@ Trynidad i Tobago - trinidade i tobage
 trzy (3) - tin  
 trzęsienie Ziemi - sisme  
 trójkąt - tinogon  
-tu (tutaj, tam) - sa ce  
+tu (tutaj, tam) - sa ye  
 tuba, rura - tube  
 tul - tulium  
 tulipan - tulpan  
@@ -2201,7 +2201,7 @@ ważka - libel
 ważny - hami  
 wciąż, nadal - hay  
 wczoraj - predi den  
-weganin (weganka) - monovejoniamiste  
+weganin (weganka) - monevejeniamiste  
 Wenezuela - venezolia  
 weranda, balkon, taras, ganek - berande  
 wersja (wariacja, edycja, wydanie) - version  

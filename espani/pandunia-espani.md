@@ -67,9 +67,9 @@ baze - base
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
+boteraite - estribor  
 botolefte - babor  
 boton - botón  
-botoraite - estribor  
 bruni - marrón  
 buke - libro  
 ##c
@@ -88,6 +88,7 @@ destin - destino
 domi - doméstico  
 dominikania - Dominicana  
 dominikia - Dominica  
+e - y  
 ##e
 eletre - electricidad  
 esa - ser (estar)  
@@ -95,6 +96,7 @@ eskulter - escultor
 ewanjil - evangelio  
 ##f
 fata - hacer  
+favori - favorito (preferido)  
 faze - etapa (fase)  
 filosofia - filosofía  
 fiorde - fiordo  
@@ -135,6 +137,7 @@ insanistia - humanismo
 iva - tender  
 ive - tendencia  
 ##j
+jana - saber (conhecer)  
 jinse - género  
 jiraf - jirafa  
 jul - joule (J)  
@@ -149,7 +152,7 @@ kance - vidrio (cristal)
 kansuygas - gas lacrimógeno  
 karawe - carvis (alcaravea)  
 karte - mapa  
-kartografia - cartografía  
+kartegrafia - cartografía  
 kecape - kétchup  
 kimia - química  
 kirmi - rojo  
@@ -180,6 +183,7 @@ leksi - léxico
 letis - lechuga  
 libel - libélula  
 lider - dirigente (líder)  
+lil - pequeño  
 limon - limón  
 liste - lista  
 loka - colocar (poner)  
@@ -192,6 +196,7 @@ lutheristi - luterano
 lutheristia - luteranismo  
 luzer - perdedor  
 ##m
+mame - madre (mamá)  
 manihayistia - maniqueísmo  
 manir - comportamiento (conducta)  
 manse - carne  
@@ -251,6 +256,7 @@ pagre - turbante
 pake - paquete  
 panir - queso fresco  
 papay - papaya  
+pape - padre (papá)  
 parce - fragmento  
 parke - parque  
 parter - participante  
@@ -310,7 +316,9 @@ serye - serie
 si - sí  
 sikle - bicicleta  
 sikliste - ciclista  
+site - ciudad  
 slavi - eslavo  
+socia - sociedad  
 solcate - parasol  
 sonkamar - dormitorio  
 sonu - dormir  
@@ -318,6 +326,7 @@ suki - feliz
 sundari - hermoso (bello, lindo)  
 sundaria - belleza (hermosura)  
 susan - lirio  
+suy - agua  
 suyporte - puerto marítimo  
 ##t
 tape - tapón (tapa)  
@@ -352,6 +361,7 @@ werker - trabajador (obrero)
 ##x
 xatan - Satanás  
 xaw - pocos  
+xef - jefe  
 xey - cosa  
 xite - mierda  
 xofa - conducir  

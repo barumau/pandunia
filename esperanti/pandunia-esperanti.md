@@ -70,7 +70,7 @@ anusi - anusa
 aple - pomo  
 arabi - araba  
 arane - araneo  
-aranofobia - araneofobio  
+aranfobia - araneofobio  
 arbe - arbo  
 arbeparke - arboĝardeno  
 arbuze - akvomelono  
@@ -100,6 +100,7 @@ ay - aj (alas)
 ##b
 babe - ĉapitro  
 babuce - pantoflo  
+bace - infano  
 bada - sekvi  
 badala - interŝanĝi  
 badam - badem  
@@ -205,11 +206,12 @@ bori - enui
 boria - enuo  
 borium - borio  
 boron - boro  
-bote - ŝipo  
+bota - boatumi  
+bote - boato (ŝipo)  
+boteraite - tribordo  
 botol - botelo  
 botolefte - babordo  
 boton - butono  
-botoraite - tribordo  
 brazilia - Brazilo  
 brom - bromo  
 brox - broso  
@@ -314,21 +316,21 @@ deftia - registro (konto)
 deka - kovri  
 deke - kovrilo  
 deme - popolo  
+demekrati - demokratia  
+demekratia - demokratio  
 demografia - demografio  
-demokrati - demokratia  
-demokratia - demokratio  
 demon - demono  
 den - tago  
+deneniam - tagmanĝo  
 denga - atendi  
-denoniam - tagmanĝo  
 des - dek (10)  
 desen - desegno  
 detal - detalo  
 dew - dio  
 dewi - dia  
 dewi sage - mito  
+dewkratia - teokratio  
 dewlojia - teologio  
-dewokratia - teokratio  
 dex - lando  
 din - religio  
 ding - najlo  
@@ -692,7 +694,7 @@ jami - kolekta
 jampa - salti  
 jamula - disigi  
 jan - scio  
-jana - scii (koni)  
+jana - tietää (tuntea)  
 janel - fenestro  
 janelojia - sciteorio (epistemologio)  
 jangal - arbaro  
@@ -1251,9 +1253,9 @@ rutenium - rutenio
 ruterfordium - ruterfordio  
 rutin - rutino (kutimo)  
 ##s
-sa ce - tie  
 sa ke - kie  
 sa sabu - ĉar  
+sa ye - tie  
 sabe - kialo  
 sabun - sapo  
 safa - purigi  
@@ -1328,6 +1330,7 @@ sismelojia - sismologio
 sistem - sistemo  
 site - urbego  
 skandium - skandio  
+socia - socio  
 sofi - saĝa  
 sofia - saga  
 soke - ŝtrumpo  

@@ -21,7 +21,7 @@ Afrikka - afrike
 afrikkalainen - afriki  
 afrofiili - afrikefiler  
 afrofilia - afrikefilia  
-agorafobia (avoimen paikan kammo) - maidanofobia  
+agorafobia (avoimen paikan kammo) - maidanfobia  
 ahne - tami  
 Ahvenanmaa (Oolanti) - olandia  
 ai! (au!) - ay  
@@ -80,7 +80,7 @@ analyysi - analis
 ananas - nanas  
 Andit - andes  
 Andorra - andoria  
-anglofiili - englofiler  
+anglofiili - englefiler  
 Angola - angolia  
 animaatio (piirretty) - anime  
 animoida - anima  
@@ -97,7 +97,7 @@ apinanleipäpuu (baobab) - buy
 appelsiini - oranje  
 apu - helpe  
 arabialainen - arabi  
-araknofobia (hämähäkkikammo) - aranofobia  
+araknofobia (hämähäkkikammo) - aranfobia  
 arboretum (puulajipuisto) - arbeparke  
 Argentiina - argentinia  
 argon - argon  
@@ -211,9 +211,9 @@ curium - kurium
 darwinismi - darwinistia  
 darwinisti - darwiniste  
 data (numeerinen tieto) - date  
-demokraatti - demokratiste  
-demokraattinen - demokrati  
-demokratia - demokratia  
+demokraatti - demekratiste  
+demokraattinen - demekrati  
+demokratia - demekratia  
 demoni (piru) - demon  
 desi - deci  
 Djiboutia - jibutia  
@@ -569,7 +569,7 @@ irvistys - grimas
 isku (šokki) - xoke  
 islam - islamistia  
 islamilainen - islamisti  
-islamofobia (islamin pelko) - islamofobia  
+islamofobia (islamin pelko) - islamfobia  
 Islanti - islandia  
 iso (suuri) - day  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - britania  
@@ -731,7 +731,7 @@ karhu - urse
 Karibia - karibia  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
-kartogratia - kartografia  
+kartogratia - kartegrafia  
 kartta - karte  
 kassa - kaxe  
 kassanhoitaja - kaxer  
@@ -1048,7 +1048,7 @@ laatu (ominaisuus, ominaispiirre, määrite) - sife
 ladata - lada  
 lahja - don  
 lainata (siteerata) - cita  
-laivakaappari - botokaper  
+laivakaappari - botekaper  
 laji (sortti) - jinse  
 laji (tyyppi, tyyli) - yang  
 laji - jong  
@@ -1060,6 +1060,7 @@ lamppu - lampe
 Laos - lawia  
 laoslainen - lawi  
 lapsi (jälkeläinen) - pute  
+lapsi - bace  
 lasagne - lazanye  
 lasi - kance  
 laskea (tehdä laskutoimitus) - hisaba  
@@ -1133,7 +1134,7 @@ litra - litre
 litteä - ping  
 litši - lice  
 logiikka - logike  
-logofiili - logofiler  
+logofiili - logefiler  
 lokakuu - mes 10 (mes des)  
 lokikirja - deftebuke  
 looginen - logiki  
@@ -1141,7 +1142,7 @@ lopettaa - fina
 loppu - fin  
 loukkaus (herja) - insulte  
 loukkaus (törkeys) - ninde  
-lounas - denoniam  
+lounas - deneniam  
 luiska (ramppi) - rampe  
 lukea - duga  
 luku (kirjan osa) - babe  
@@ -1231,6 +1232,7 @@ maksu - pey
 maku - guste  
 makuuhuone - sonkamar  
 malagassi - madagasi  
+malaiji - malayi  
 malajalam (eräs intialainen kieli) - malayali  
 malaria - malaria  
 Malawi - malawia  
@@ -1385,7 +1387,7 @@ muumio - mumia
 muunsukupuolinen - bis  
 muurahainen - maye  
 muusikko - musiker  
-muutama (pari-kolme) - dul u tin  
+muutama (pari-kolme) - dul o tin  
 muuten (toisin) - alo  
 muuttaa (muuntaa) - muta  
 muuttaa (siirtyä) - migru  
@@ -1469,6 +1471,7 @@ norsu (elefantti) - gaje
 Norsunluurannikko - kotedivuaria  
 nostaa - gawa  
 nostaa pystyyn - liba  
+nousta - gawu  
 nudismi - nudistia  
 nudisti - nudiste  
 nukke - pupe  
@@ -2126,6 +2129,7 @@ suora - orti
 suorakulma (oikokulma) - ortegon  
 suorakulmainen - ortegoni  
 suoristaa (ojentaa) - orta  
+suosikki (suosittu) - favori  
 suosittu (trendikäs) - faxoni  
 Surinam - surinamia  
 surra (murehtia) - duka  
@@ -2267,7 +2271,7 @@ teltta - haime
 telugu (eräs intialainen kieli) - telugi  
 temppeli - mandir  
 tennis - tenis  
-teokratia - dewokratia  
+teokratia - dewkratia  
 teologia - dewlojia  
 teoria - teoria  
 tera- - tero-  
@@ -2287,7 +2291,6 @@ tietokanta - datebanke
 tietokone - komputer  
 tietoteoria (epistemologia) - janelojia  
 tietty (tunnettu) - jani  
-tietää - jana  
 Tiibet - podia  
 tiikeri - bagre  
 tiistai - war 2 (war dul)  
@@ -2348,6 +2351,7 @@ tuo - we
 tuoli - kurse  
 tuomari - hakimer  
 tuomio - hakim  
+tuomita - hakima  
 tuore (raikas) - tazi  
 tuotanto - sania  
 tupakka - tabake  
@@ -2381,7 +2385,7 @@ tyrannia - tirania
 tyttö (nuori neito) - jovani fem  
 tyttölapsi - femi bace  
 tyyny - kusen  
-tyyrpuuri - botoraite  
+tyyrpuuri - boteraite  
 työ (tehtävä) - werke  
 työkalu - tul  
 työntekijä (työläinen) - werker  
@@ -2399,7 +2403,7 @@ täysi - ful
 täytetty pulla - mante  
 täyttää - fula  
 täytyä (olla pakko) - bixu  
-täällä (tuolla) - sa ce  
+täällä (tuolla) - sa ye  
 törkeä - nindi  
 Tšad - cadia  
 Tšekki - cehia  
@@ -2510,12 +2514,14 @@ vastustaja - anter
 Vatikaanivaltio - vatikania  
 vaurio (vahinko) - damaje  
 vauva - bebe  
-vegaani - monovejoniamiste  
+vegaani - monevejeniamiste  
 veistos (patsas) - eskulte  
 veistää kuvaa - eskulta  
 veitsi (puukko) - cake  
 veloittaa (verottaa) - taksa  
 vene (laiva) - bote  
+veneilijä - boter  
+veneillä - bota  
 Venezuela - venezolia  
 Venäjä - rusia  
 venäläinen - rusi  
@@ -2629,6 +2635,7 @@ väärä (virheellinen) - galti
 Wales - kamria  
 walesilainen - kamri  
 watti - wate  
+wiedzieć - jana  
 wiki - wikia  
 wikikirjoitus - wike  
 ##x
@@ -2648,8 +2655,8 @@ yhtenäinen - uni
 yksi - un  
 yksimerkityksinen - unmeni  
 yksinkertainen (mutkaton) - simpli  
-yksinpuhelu (monologi) - monologe  
-yksinvaltius (autokratia, monarkia) - monokratia  
+yksinpuhelu (monologi) - moneloge  
+yksinvaltius (autokratia, monarkia) - monekratia  
 yksityiskohta (detalji) - detal  
 yksivärinen - unangi  
 yleinen (universaali) - putong  
