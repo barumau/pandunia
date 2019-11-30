@@ -6,7 +6,7 @@
 -o (-aĵo) - -e  
 ##a
 acida - suan  
-adjektivo - sifolekse  
+adjektivo - siflekse  
 adreso - adres  
 aero - air  
 Afganujo, Afganio - afgania  
@@ -78,7 +78,7 @@ arbaro - jangal
 arbo - arbe  
 arboĝardeno - arbeparke  
 areo - are  
-Argentino - argentin  
+Argentino - argentinia  
 argono - argon  
 armeo - laskeria  
 armilo - arme  
@@ -126,8 +126,8 @@ bambuo - banse
 bana - banyu  
 banano - banan  
 bandaĝo (vindo) - bende  
-bangladeŝa - banglodexi  
-Bangladeŝo - banglodexia  
+bangladeŝa - bangledexi  
+Bangladeŝo - bangledexia  
 bankisto - banker  
 banko - banke  
 bano - banye  
@@ -234,8 +234,8 @@ danki - danka
 danko - danke  
 danĝera - hatri  
 danĝero - hatre  
-dato - nenomesoden  
-datumbanko - datobanke  
+dato - nenmesden  
+datumbanko - datebanke  
 datumo - date  
 daŭri (dum) - dura  
 daŭro - dure  
@@ -254,8 +254,8 @@ demokratia - demokrati
 demokratio - demokratia  
 demono - demon  
 denove (ripete) - repi  
-dentbroso - dantobrox  
-dentisto - dantomediker  
+dentbroso - dantebrox  
+dentisto - dantemediker  
 dento - dante  
 desegni - grafa  
 desegno - desen  
@@ -379,7 +379,7 @@ feliĉa - suki
 fenestro - janel  
 fermio - fermium  
 fero - fer  
-fervojo - trenodaw  
+fervojo - trendaw  
 festi - festa  
 festo - feste  
 feĉo - hamir  
@@ -404,7 +404,7 @@ fiziko - fizikia
 fiŝo - fix  
 fjordo - fiorde  
 flago - bandir  
-flava - limonangi  
+flava - limonrangi  
 floro - pul  
 flughaveno - airporte  
 flugi - feya  
@@ -423,11 +423,10 @@ fosforo - fosfor
 fosforo - pospor  
 fosi - fosa  
 foso - fos  
-fotilo - fotomaxin  
-fotisto - fotografer  
-foto (fotografaĵo) - fotografe  
-foto - fotograf  
-fotografio - fotografia  
+fotilo - fotemaxin  
+fotisto - fotegrafer  
+foto - fotegraf  
+fotografio - fotegrafia  
 Francio - fransia  
 franciumo - fransium  
 frato aŭ fratino - saudar  
@@ -436,7 +435,7 @@ freneza - foli
 frenezeco - folia  
 freŝa - tazi  
 fromaĝo - cis  
-frosto - himorose  
+frosto - himrose  
 frukto (rezulto) - pal  
 fumo - duman  
 fungo - funge  
@@ -497,7 +496,7 @@ Gvatemalo - guatemalia
 ##h
 hafnio - hafnium  
 Haitio - haitia  
-halo - nurocirke  
+halo - nurcirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -565,7 +564,7 @@ ino - fem
 instruisto - darsogur  
 insulto - ninde  
 interesa - interes  
-interkonsento - samoray  
+interkonsento - samray  
 interŝanĝi - badala  
 inviti - plisa laya  
 io - koy xey  
@@ -593,6 +592,7 @@ jado - yuke
 jako - jake  
 jam (esti farita) - lew  
 Jamajko - jamaikia  
+japana - niponi  
 Japanio - niponia  
 jaro - nen  
 jasmeno - malike  
@@ -613,7 +613,7 @@ juĝo - hakim
 kadmio - kadomium  
 kafejo - kaferia  
 kafo - kafe  
-kaftaso - kafokupe  
+kaftaso - kafekupe  
 kaj - e  
 kajero - notobuke  
 kakao - kakaw  
@@ -768,7 +768,7 @@ lanterno - lanten
 lasta - fini  
 Latvio - latwia  
 lavi - waxa  
-lavmaŝino - waxomaxin  
+lavmaŝino - waxmaxin  
 laŭrencio - laurensium  
 leciono - darse  
 legi - duga  
@@ -948,7 +948,7 @@ najtingalo - bulbul
 Namibio - namibia  
 naski - jenu  
 naskigi - jena  
-naskiĝtago - jenoden  
+naskiĝtago - jenden  
 nasko - jen  
 natrio - natre  
 naturo - ekia  
@@ -1073,7 +1073,7 @@ piano - pian
 picejo - pizeria  
 pico - pize  
 piedo - fute  
-piedpilko - futobol  
+piedpilko - futebol  
 pilko - bol  
 pingveno - pinguin  
 pino - song  
@@ -1121,7 +1121,7 @@ posttagmeze - xamden
 povi - abla  
 povo - able  
 poŝo - jebe  
-poŝtejo - postokan  
+poŝtejo - postia  
 pravigi - saha  
 presaĵo - cape  
 presi - capa  
@@ -1169,7 +1169,7 @@ rakonti - saga
 rakonto - sage  
 ramplo - rampe  
 rando (orlo) - kenar  
-rapida - rapido  
+rapida - rapidi  
 rapideco - rapide  
 rapidigi - yala  
 reciproka - unali  
@@ -1232,11 +1232,11 @@ saluto - salame
 saluton! - halow  
 sama - sam  
 samario - samarium  
-samlandano - samodexi  
-samopinii (interkonsenti) - samoraya  
+samlandano - samdexi  
+samopinii (interkonsenti) - samraya  
 samseksema - aleseksekami  
 samseksema - gey  
-samseksema - samojinsokami  
+samseksema - samjinsekami  
 sangi - lowa sang  
 sango - sang  
 sanigi (kuraci) - medika  
@@ -1310,7 +1310,7 @@ stranga - bizari
 stroncio - estrontium  
 studento (lernanto) - darser  
 substantivo - namlekse  
-Sudkoreio - hangogia  
+Sudkoreio - sudi cosenia  
 sudo - sude  
 sufiĉa - bas  
 sukero - xukar  
@@ -1318,8 +1318,8 @@ suko - jus
 sulfuro - sulfe  
 sumo - sum  
 suno - sol  
-sunombrelo - solocate  
-sunsistemo - solesistem  
+sunombrelo - solcate  
+sunsistemo - solsistem  
 superiri - supra  
 supo - supe  
 surfaco - fas  
@@ -1336,7 +1336,7 @@ tago - den
 tajgo - taige  
 tajlanda - tayi  
 Tajlando - tayia  
-tajpilo - kitabomaxin  
+tajpilo - kitabemaxin  
 taladro - fora   
 talio - talium  
 tamburo - tambur  
@@ -1351,7 +1351,7 @@ tekniko - tekne
 teknologio - teknelojia  
 tekto - cate  
 telefono - telefon  
-televidilo - telowide  
+televidilo - televide  
 teluro - telurium  
 temo - teme  
 tendo - haime  
@@ -1386,11 +1386,11 @@ tombo - gabre
 tondilo - makas  
 tondro - grom  
 tono - ton  
-torako - sinokase  
+torako - sinkase  
 torio - torium  
 torso - torse  
 torto - pay  
-torĉo - nurobaton  
+torĉo - nurbaton  
 traduki - tarja  
 tradukisto - tarjer  
 traduko - tarje  
@@ -1431,7 +1431,7 @@ vagino - vagin
 valo - vale  
 varma - garmi  
 vato - wate  
-vazo (florpoto) - pulowaze  
+vazo (florpoto) - pulvaze  
 vazo - vaze  
 veni - laya  
 venki - wina  
@@ -1442,7 +1442,7 @@ ventro - bung
 ventumilo - panke  
 vera - veri  
 verando - berande  
-verbo - fatolekse  
+verbo - fatelekse  
 verda - lugi  
 versio (toisinto) - version  
 vespermanĝo - xamniam  
@@ -1482,6 +1482,7 @@ vojo - daw
 voli - wana  
 volo - ice  
 volo - wan  
+vortaro - lekseliste  
 vortaro - leksia  
 vortaro - leksoliste  
 vorto - lekse  
@@ -1498,7 +1499,7 @@ zingibro - zinje
 zinko - zinke  
 zirkonio - zirkonium  
 zono - zone  
-zoo (bestoĝardeno) - hewanoparke  
+zoo (bestoĝardeno) - hewanparke  
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
 Zoroastro - zardux  

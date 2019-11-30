@@ -2,7 +2,7 @@
 ##a
 acento - aksente  
 acordarse - mema  
-acuerdo - samoray  
+acuerdo - samray  
 aeropuerto - airporte  
 alcohol - alkol  
 alcohólico - alkoli  
@@ -37,7 +37,7 @@ balle (boule) - bol
 baloncesto - baskobol  
 bambú - banse  
 banco - banke  
-banco de datos (base de datos) - datobanke  
+banco de datos (base de datos) - datebanke  
 banda - bande  
 banquero - banker  
 barrera - baryer  
@@ -100,6 +100,8 @@ deseo - wan
 destino - destin  
 diamante - almas  
 dirigente (líder) - lider  
+Dominica - dominikia  
+Dominicana - dominikania  
 doméstico - domi  
 dormir - sonu  
 dormitorio - sonkamar  
@@ -132,10 +134,10 @@ feliz - suki
 filosofía - filosofia  
 fiordo - fiorde  
 flor - pul  
-foto (fotografía) - fotografe  
-fotografía - fotografia  
+fotografía - fotegrafia  
 fragmento - parce  
 fuego - pir  
+fútbol - futebol  
 ##g
 galaxia - galaksia  
 gas - gas  
@@ -169,6 +171,7 @@ invernal - zimi
 invierno - zime  
 ##j
 jade - yuke  
+Japón - niponia  
 jirafa - jiraf  
 joule (J) - jul  
 jugo (zumo) - jus  
@@ -215,11 +218,12 @@ mez - mes
 miel - mel  
 mierda - xite  
 migración - migre  
+molino - molia  
 moneda - pesediske  
 monismo - monistia  
 mosco - zeze  
 muro (muralha) - wal  
-máquina de escribir - kitabomaxin  
+máquina de escribir - kitabemaxin  
 máscara - maske  
 mástil - maste  
 máximo - maxime  
@@ -245,6 +249,7 @@ o - o
 ##o
 océano - daysamude  
 olvidar - memula  
+oportunidad (chance) - canse  
 ordenador - komputer  
 origen - asle  
 original - asli  
@@ -261,7 +266,7 @@ papel - kagaze
 papel tapiz - walpapir  
 paquete - pake  
 parasol - barxocate  
-parasol - solocate  
+parasol - solcate  
 parque - parke  
 participante - parter  
 pasaporte - pasporte  
@@ -306,7 +311,7 @@ reunión (junta, mitin) - mite
 rima - rim  
 rodilla - gute  
 rojo - kirmi  
-rápido - rapido  
+rápido - rapidi  
 réservation - rezerve  
 ##s
 saco - sake  
@@ -358,7 +363,7 @@ vulva - vulve
 ##x
 ##y
 ##z
-zoo - hewanoparke  
+zoo - hewanparke  
 zorro - hule  
 África - afrike  
 ágil - ajil  

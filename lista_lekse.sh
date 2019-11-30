@@ -3,7 +3,7 @@ fata_liste_x_pandunia() {
     cat pandunia-lekse.csv | awk -F "|" "{print \$1 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
     #morta unordi linye
     sed -i '1d' $2/pandunia-$2.md
-    # alfobeta
+    # alfebete
     cat temp/abace.txt $2/pandunia-$2.md | LC_ALL=C sort -f > temp/temp.txt
     sed 's/.00/##/g' temp/temp.txt > $2/pandunia-$2.md
     #Add header

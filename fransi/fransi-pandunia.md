@@ -1,7 +1,7 @@
 # fransi-pandunia
 ##a
 accent - aksente  
-accord - samoray  
+accord - samray  
 acheter - xopa  
 actinium - acinium  
 adresse - adres  
@@ -50,7 +50,7 @@ araignée - arane
 arboretum, pépinière - arbeparke  
 arbre - arbe  
 argent - pese  
-Argentine - argentin  
+Argentine - argentinia  
 argon - argon  
 argument - tese  
 arme - arme  
@@ -90,7 +90,7 @@ banquier - banker
 barrière - baryer  
 baryum - barium  
 base - baze  
-base de données - datobanke  
+base de données - datebanke  
 basketball - baskobol  
 bassin - basen  
 bateau - bote  
@@ -124,6 +124,7 @@ carte - karte
 cartographie - kartografia  
 centre - jung  
 chambre à coucher - sonkamar  
+chance - canse  
 changement climatique - klimemute  
 chapitre - babe  
 chat - maw  
@@ -160,6 +161,7 @@ diamant - almas
 dieu - dew  
 dioxyde de carbone - karbondulokside  
 dirigeant (leader) - lider  
+document (dossier) - dokum  
 domestique - domi  
 dommage - damaje  
 données - date  
@@ -180,6 +182,7 @@ feu - pir
 fils ou fille - pute  
 fiord - fiorde  
 fleur - pul  
+football - futebol  
 forer (percer) - fora   
 fourmi - maye  
 fragment - parce  
@@ -215,6 +218,7 @@ important - hami
 insecte - koncung  
 ##j
 jade - yuke  
+Japon - niponia  
 jaïnisme - jeinistia  
 je (me) - me  
 joule (J) - jul  
@@ -243,7 +247,7 @@ luthéranisme - lutheristia
 luthérien - lutheristi  
 lys - susan  
 ##m
-machine à écrire - kitabomaxin  
+machine à écrire - kitabemaxin  
 main - hate  
 mais (bien que) - a  
 manichéisme - manihayistia  
@@ -266,6 +270,7 @@ monde - dunia
 monnaie (pièce) - pesediske  
 mot - lekse  
 mouche - zeze  
+moulin - molia  
 mur - wal  
 mât - maste  
 mémoire - mem  
@@ -288,7 +293,7 @@ océan - daysamude
 oeuf - ande  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solocate  
+ombrelle (parasol) - solcate  
 opposant (antagoniste) - anter  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
@@ -322,10 +327,9 @@ perdant - luzer
 perroquet - papagay  
 pet (vesse) - pede  
 peu - xaw  
-Peut-être - ablo  
+peut-être - ablo  
 philosophie - filosofia  
-photo (photographie) - fotografe  
-photographie - fotografia  
+photographie - fotegrafia  
 pile (batterie) - batre  
 piraterie - piratia  
 pizza - pize  
@@ -411,7 +415,7 @@ tu - te
 Tunisie - tunisia  
 turban - pagre  
 téléphone - telefon  
-téléviseur - telowide  
+téléviseur - televide  
 tête - sar  
 ##u
 unité fondamentale - em  
@@ -428,7 +432,7 @@ viande - manse
 vie - hay  
 vieux (âgé, ancien) - lawi  
 virus - virus  
-vite (rapide) - rapido  
+vite (rapide) - rapidi  
 vivre (habiter) - domu  
 vocabulaire (lexique) - leksia  
 voile - hijabe  
@@ -443,7 +447,7 @@ végétarien - vejeniamiste
 ##z
 zombi - zombe  
 zone - zone  
-zoo - hewanoparke  
+zoo - hewanparke  
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  

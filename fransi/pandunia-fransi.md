@@ -11,7 +11,7 @@ abenturer - aventurier
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
 abli - possible  
-ablo - Peut-être  
+ablo - peut-être  
 acinium - actinium  
 adali - juste  
 adalia - justice  
@@ -71,7 +71,7 @@ arbe - arbre
 arbeparke - arboretum, pépinière  
 arbuze - pastèque  
 are - aire (superficie)  
-argentin - Argentine  
+argentinia - Argentine  
 argon - argon  
 arize - riz  
 arme - arme  
@@ -134,6 +134,7 @@ bruni - brun (marron)
 buke - livre  
 ##c
 ca - de  
+canse - chance  
 cay - thé  
 cayokupe - tasse à thé  
 cerni - noir  
@@ -143,10 +144,11 @@ dalil - preuve
 damaje - dommage  
 danse - dance  
 date - données  
-datobanke - base de données  
+datebanke - base de données  
 daysamude - océan  
 destin - destin (destination)  
 dew - dieu  
+dokum - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
 dul - deux  
@@ -165,8 +167,8 @@ filosofia - philosophie
 fiorde - fiord  
 fitelojia - botanique  
 fora  - forer (percer)  
-fotografe - photo (photographie)  
-fotografia - photographie  
+fotegrafia - photographie  
+futebol - football  
 ##g
 galaksia - galaxie  
 galte - faute (erreur)  
@@ -187,7 +189,7 @@ hami - important
 hate - main  
 hay - vie  
 hewan - animal (bête)  
-hewanoparke - zoo  
+hewanparke - zoo  
 hijabe - voile  
 him - neige  
 hisaba - calculer  
@@ -226,8 +228,8 @@ kimia - chimie
 kirmi - rouge  
 kitaba - écrire  
 kitabe - écriture  
+kitabemaxin - machine à écrire  
 kitabia - bibliothèque  
-kitabomaxin - machine à écrire  
 klimemute - changement climatique  
 ko - que (comme)  
 ko? - comment  
@@ -295,6 +297,7 @@ meze - table
 migre - migration  
 migru - s'installer (déménager)  
 milke - lait  
+molia - moulin  
 mome - nous  
 ##n
 nade - rivière (fleuve)  
@@ -304,6 +307,7 @@ nida - avoir besoin de
 nide - besoin  
 nidi - nécessaire  
 nili - blue  
+niponia - Japon  
 nixe - niche  
 no - non (ne...pas)  
 noce - noit  
@@ -354,7 +358,7 @@ pul - fleur
 pute - fils ou fille  
 ##r
 rang - couleur  
-rapido - vite (rapide)  
+rapidi - vite (rapide)  
 ras - race  
 reste - reste  
 retra - retourner (revenir)  
@@ -370,7 +374,7 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
-samoray - accord  
+samray - accord  
 samude - mer  
 sang - sang  
 sanwice - sandwich  
@@ -382,7 +386,7 @@ si - oui
 sikle - bicyclette  
 sikliste - cycliste  
 sol - soleil  
-solocate - ombrelle (parasol)  
+solcate - ombrelle (parasol)  
 sonkamar - chambre à coucher  
 sonu - dormir  
 sos - sauce  
@@ -398,7 +402,7 @@ te - tu
 tekne - technique  
 teknelojia - technologie  
 telefon - téléphone  
-telowide - téléviseur  
+televide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
 tenu - appartenir à  

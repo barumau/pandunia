@@ -102,7 +102,7 @@ cini - 汉族
 cis - 酪 (起司)  
 ##d
 date - 数据  
-datobanke - 数据库  
+datebanke - 数据库  
 daysamude - 大洋  
 destin - 目的地 (命運)  
 dew - 神  
@@ -120,7 +120,6 @@ fiorde - 峡湾
 firuze - 绿松石  
 fitelojia - 植物学  
 fora  - 钻孔  
-fotografe - 照片  
 ##g
 galaksia - 恆星系  
 galte - 错误  
@@ -141,7 +140,7 @@ hay - 生命
 helis - 螺旋  
 helpa - 帮助  
 hewan - 动物  
-hewanoparke - 动物园  
+hewanparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
 hoke - 曲棍球  
@@ -181,8 +180,8 @@ keci - 客气
 kimia - 化学  
 kirmi - 红  
 kitaba - 写  
+kitabemaxin - 打字机  
 kitabia - 图书馆  
-kitabomaxin - 打字机  
 klimemute - 气候变化  
 ko - 比  
 ko? - 怎么  
@@ -244,13 +243,15 @@ migra - 搬家
 mita - 聚会  
 mite - 会议  
 moke - 木材  
-mokojanger - 木匠  
+mokejanger - 木匠  
+molia - 磨坊  
 mome - 我们  
 ##n
 nade - 河 (江)  
 nida - 需要  
 nidi - 必要的  
 nili - أَزْرَق  
+niponia - 日本  
 nixe - 壁龛  
 no - 不  
 noce - 夜  
@@ -297,7 +298,7 @@ pul - 花
 pulte - 桥  
 putong - 普通  
 ##r
-rapido - 快  
+rapidi - 快  
 ras - 种族  
 reste - 其余  
 retra - 返回 (回来)  
@@ -310,7 +311,7 @@ sahi - 正确
 sal - 盐  
 salame - 迎接  
 saman - 天空  
-samoray - 一致  
+samray - 一致  
 samude - 海  
 sang - 血  
 sanwice - 三明治 (三文治)  
@@ -322,7 +323,7 @@ serye - 系列
 si - 对 (是)  
 sikliste - 骑自行车的人  
 sol - 太阳  
-solesistem - 太阳系  
+solsistem - 太阳系  
 sonkamar - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sosis - 香肠  
@@ -339,7 +340,7 @@ te - 你
 tekne - 技术  
 teknelojia - 工艺学  
 telefon - 电话机  
-telowide - 电视机  
+televide - 电视机  
 teme - 主题目  
 tena - 有  
 tenke - 天气  

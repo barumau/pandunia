@@ -82,7 +82,7 @@ arbe - drzewo
 arbeparke - arboretum  
 arbuze - arbuz  
 are - pole, powierzchnia  
-argentin - Argentyna  
+argentinia - Argentyna  
 argon - argon  
 aria - powierzchnia, region, teren  
 arize - ryż  
@@ -137,7 +137,7 @@ ban - czas; okazja
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
-banglodexia - Bangladesz  
+bangledexia - Bangladesz  
 banka - oszczędzać, deponować  
 banke - bank  
 banker - bankier  
@@ -290,7 +290,7 @@ capa - naciskać, zostawiać ślad
 capate - płaski chleb, ćapati  
 cape - odcisk, ślad; stempel, pieczęć  
 car - cztery (4)  
-carogon - kwadrat (czworokąt, czworobok, tetragon)  
+cargon - kwadrat (czworokąt, czworobok, tetragon)  
 cate - dach  
 cay - herbata  
 cayeria - herbaciarnia  
@@ -343,8 +343,8 @@ dania - Dania
 danka - dziękować  
 danke - dzięki, dzięki ci  
 dante - ząb  
-dantobrox - szczoteczka do zębów  
-dantomediker - dentysta  
+dantebrox - szczoteczka do zębów  
+dantemediker - dentysta  
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darme - moralność, etyka  
@@ -523,9 +523,9 @@ fas - powierzchnia
 fasin - fascynacja  
 fata - zrobić (stworzyć, wykreować)  
 fate - czyn, uczynek  
+fatelekse - czasownik  
 fater - twórca, kreator, czynnik  
 fateria - fabryka, manufaktura  
-fatolekse - czasownik  
 faxe - bandaż, taśma, wstążka  
 faxiste - faszysta  
 faxistia - faszyzm  
@@ -597,9 +597,8 @@ forum - forum
 fos - dół, jama, wydobycie, wykop, wykopalisko  
 fosa - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 fosfor - fosfor  
-fotograf - zdjęcie, fotografia  
-fotografia - fotografia  
-fotomaxin - kamera, aparat fotograficzny  
+fotegrafia - fotografia  
+fotemaxin - kamera, aparat fotograficzny  
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
 fransium - frans  
@@ -612,14 +611,14 @@ fula - wypełnić, wypełniać
 fulani - trochę; nieokreślony, nieograniczony, nieokreślony  
 fun - pył  
 funca - funkcja, stanowisko  
+funcuper - odkurzacz  
 funge - grzyb  
-funocuper - odkurzacz  
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furia - gniew, furia  
 futaw - siekera, topór  
 fute - stopa  
-futobol - piłka nożna  
+futebol - piłka nożna  
 fuy - fu, fuj  
 ##g
 gabre - grób, mogiła, grobowiec  
@@ -735,7 +734,6 @@ hami - ważny
 hamili - ciężarny (w ciąży)  
 hamir - drożdże  
 hamu - znaczyć (liczyć się, być ważnym)  
-hangogia - Korea Południowa  
 haos - chaos, nieporządek; wrzawa, zgiełk  
 haraba - rujnować, dewastwować, burzyć  
 harabi - zły, zrujnowany, zepsuty  
@@ -774,7 +772,7 @@ hibride - hybryda; kundel
 hidre - wodór  
 him - śnieg  
 himalia - Himalaje  
-himorose - szron  
+himrose - szron  
 hindiste - hinduistyczny  
 hindistia - hinduizm  
 hisaba - kalkulować  
@@ -815,9 +813,9 @@ imperia - imperium
 imperiste - imperialista  
 imperistia - imperializm  
 inde - wnętrze (środek)  
+indejeni - wewnętrzny  
 indi - wewnętrzny  
 indium - ind  
-indojeni - wewnętrzny  
 indonesia - Indonezja  
 infekse - infekcja (zakażenie)  
 informa - poinformować, informować, zakomunikować, komunikować  
@@ -886,12 +884,12 @@ jel - żel, galareta
 jelos - zazdrosny  
 jen - narodziny  
 jena - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
+jenden - urodziny  
 jeng - walka, wojna  
 jenger - wojownik, bojownik  
+jengexute - sztuka walki  
 jengi - militarny, wojskowy, wojenny  
-jengoxute - sztuka walki  
-jenoden - urodziny  
-jenoklas - kasta  
+jenklas - kasta  
 jentil - uprzejmy, miły  
 jenu - urodzić się, rodzić się  
 jenxen - żeń-szeń  
@@ -927,9 +925,9 @@ kabin - kabina, budka
 kadomium - kadm  
 kafas - klatka  
 kafe - kawa  
+kafekupe - filiżanka do kawy  
 kaferia - kawiarnia  
 kafir - niewierny (poganin, niewierzący)  
-kafokupe - filiżanka do kawy  
 kagaze - papier  
 kaka - defekować, srać  
 kakaw - kakao  
@@ -1035,8 +1033,8 @@ kirili abace - cyrylica
 kirisa - wynająć, oddać w najem  
 kitaba - napisać, pisać  
 kitabe - pismo, tekst  
+kitabemaxin - maszyna do pisania  
 kitabia - biblioteka  
-kitabomaxin - maszyna do pisania  
 kiwe - owoc kiwi  
 klar - przeźroczysty, jasny  
 klara - wyklarować (rozjaśnić)  
@@ -1210,7 +1208,7 @@ limite - limit, granica
 limofas - pięciościan (pryzmat)  
 limogon - pięciokąt (pentagon)  
 limon - cytryna  
-limonangi - żółty  
+limonrangi - żółty  
 linye - linia, pas, pręga, smuga  
 lisi - gładki  
 liste - lista, spis, wykaz  
@@ -1273,7 +1271,6 @@ makale - artykuł, tekst
 makan - masło  
 makas - nożyce, nożyczki  
 makaw - Makau  
-makedonia - Republika Macedonii, Macedonia  
 mal - zły  
 mal rupi - brzydki  
 mal zar - zły los  
@@ -1439,7 +1436,7 @@ mode - moda, trend
 model - model, wzór, wzorzec, projekt  
 moge - tusz  
 moke - drewno  
-mokojanger - stolarz  
+mokejanger - stolarz  
 mola - zemleć, mleć, mielić  
 moldovia - Mołdawia  
 moler - młynarz  
@@ -1531,8 +1528,8 @@ nederlandi antilia - Antyle Holenderskie
 nederlandia - Holandia (Królestwo Niderlandów)  
 nega - odmówić (odrzucić)  
 nen - rok  
-nenofeste - rocznica  
-nenomesoden - data  
+nenfeste - rocznica  
+nenmesden - data  
 nenufar - lilia wodna, nenufar  
 neon - neon  
 nepalia - Nepal  
@@ -1579,6 +1576,7 @@ nonga - uprawić, uprawiać
 nonger - rolnik, farmer  
 norde - północ  
 nordi - północny  
+nordi makedonia - Republika Macedonii, Macedonia  
 norfolke - Norfolk  
 norgi - norweski  
 norgia - Norwegia  
@@ -1600,10 +1598,10 @@ nudistia - nudyzm
 nume - numer  
 nume un - pierwszy, numer jeden  
 nur - światło, oświetlenie  
+nurbaton - pochochodnia (latarka)  
+nurcirke - efekt halo  
+nurerade - promień światła  
 nuri - jasny, świetlny  
-nurobaton - pochochodnia (latarka)  
-nurocirke - efekt halo  
-nurorade - promień światła  
 nuton - niuton (N)  
 o - lub, albo  
 o - o!  
@@ -1675,7 +1673,7 @@ pantalon - spodnie, pantalony, portki
 papagay - papuga  
 papay - papaja  
 pape - ojciec  
-papua nowi ginia - Papua Nowa Gwinea  
+papua novi ginia - Papua Nowa Gwinea  
 par - równy  
 paraguayia - Paragwaj  
 paraya - gardzić (pogardzać)  
@@ -1792,14 +1790,14 @@ pompa - pompować
 ponta - wskazać, wskazywać  
 ponter - wskaźnik  
 porne - porno, film erotyczny  
-pornografia - pornografia  
+pornegrafia - pornografia  
 portorikia - Puerto Rico  
 portugalia - Portugalia  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
-postocape - znaczek pocztowy  
-postokan - poczta, budynek poczty  
+postecape - znaczek pocztowy  
+postia - poczta, budynek poczty  
 pote - błoto  
 poti - błotnisty  
 potistan - bagno  
@@ -1829,8 +1827,8 @@ puje - cześć, szacunek
 pul - kwiat  
 pula - kwitnąć, rozkwitnąć, rozkwitać  
 pulmon - płuco  
-pulowaze - wazon; donica, doniczka  
 pulte - most  
+pulvaze - wazon; donica, doniczka  
 punte - kropka (znak interpunkcyjny)  
 pupe - lalka, kukiełka, pacynka, marionetka  
 purani - stary, starożytny  
@@ -1860,7 +1858,7 @@ rander - hebel, strug
 rang - kolor  
 rapide - prędkość (szybkość)  
 rapidemeter - prędkościomierz  
-rapido - szybki, prędki  
+rapidi - szybki, prędki  
 ras - rasa  
 rasiste - rasista  
 rasistia - rasizm  
@@ -1923,15 +1921,15 @@ rosti pang - tost
 rota - obrócić (kręcić)  
 roter - rotor, wirnik  
 rotu - obrócić się (kręcić się)  
-rozangi - różowy, różany  
 roze - róża  
+rozrangi - różowy, różany  
 ruandia - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
 ruhelojia - psychologia  
 ruhi - umysłowy (psychiczny)  
 ruke - placy  
-rukosake - plecak  
+ruksake - plecak  
 rul - rulon (rolka, zwój)  
 rula - toczyć, turlać  
 rum - rum  
@@ -1990,11 +1988,11 @@ sam - taki sam
 saman - niebo  
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
+samdexi - rodak, ziomek, krajan  
+samjinsekami - homoseksualny  
 samoa - Samoa  
-samodexi - rodak, ziomek, krajan  
-samojinsokami - homoseksualny  
-samoray - porozumienie  
-samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+samray - porozumienie  
+samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samu - być podobnym, być jak  
 samude - może  
 samun - połączenie, złącze, styk  
@@ -2009,6 +2007,7 @@ santi - święty
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  
 santi tome i prinsipe - Wyspy Świętego Tomasza i Książęca  
+santi vinsente e grenadin - Saint Vincent and Grenadines  
 sapate - but  
 sapater - szewc  
 sapateria - warsztat szewski  
@@ -2057,7 +2056,7 @@ sida - siedzieć
 sifa - opisać (zakwalifikować)  
 sife - cecha, właściwość, parametr  
 sifi - opisowy  
-sifolekse - przymiotnik  
+siflekse - przymiotnik  
 sigar - papieros (cygar)  
 sikiste - sikh  
 sikistia - sikhizm  
@@ -2069,7 +2068,7 @@ simpli - prosty, nieskomplikowany
 sine - pierś  
 sing - lew  
 singapur - Singapur  
-sinokase - klatka piersiowa  
+sinkase - klatka piersiowa  
 sinye - znak, sygnał  
 sir - sekret  
 sirke - ocet  
@@ -2094,9 +2093,9 @@ sofi - mądry
 sofia - mądrość  
 soke - skarpeta, skarpetka, pończocha  
 sol - słońce  
-solesistem - układ słoneczny  
 solestas - przesilenie  
 solomon nesia - Wyspy Salomona  
+solsistem - układ słoneczny  
 somalia - Somalia  
 son - sen  
 sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
@@ -2111,11 +2110,12 @@ suahili - suahili
 suan - kwaśny  
 suatia - Suazi  
 sube - ranek, rano, poranek  
-suboden - przedpołudnie  
-suboniam - śniadanie  
+subeden - przedpołudnie  
+subeniam - śniadanie  
 sudafrikia - Południowa Afryka  
 sudania - Sudan  
 sude - południe  
+sudi cosenia - Korea Południowa  
 sudi jorjia i sudi sanwice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 sudi sudania - Sudan Południowy  
 suede - pot  
@@ -2196,8 +2196,8 @@ teknelojia - technologia, nauka o technikach
 teknetium - technet  
 tele - dystans  
 telefon - telefon  
+televide - telewizja  
 teli - daleki, odległy  
-telowide - telewizja  
 telugi - telugu  
 telurium - tellur  
 tema - być o; dyskutować o  
@@ -2260,8 +2260,8 @@ towal - ręcznik
 transa - przejść, przechodzić, przejechać, przejeżdżać  
 transe - przejazd, przewóz, tranzyt  
 tren - pociąg  
-trenodaw - kolej  
-trenokaper - porywacz pociągu  
+trendaw - kolej  
+trenkaper - porywacz pociągu  
 tribe - plemię  
 trinidade i tobage - Trynidad i Tobago  
 tsuania - Botswana  
@@ -2335,7 +2335,6 @@ vimankaper - porywacz samolotu
 vin - wino  
 vineria - winiarnia  
 vinil - winyl  
-vinsente i grenadin - Saint Vincent and Grenadines  
 virus - wirus  
 viruslojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
@@ -2373,7 +2372,7 @@ wase - oaza
 wate - wat  
 waw - wow!, łoł!, jej!  
 waxa - prać, umyć, myć  
-waxomaxin - pralka  
+waxmaxin - pralka  
 way - zewnętrzny  
 way dexi - zagraniczny  
 way dexia - zagranica  
