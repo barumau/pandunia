@@ -66,7 +66,7 @@ aple - pomme
 aplika - appliquer  
 arabi - arabe  
 arane - araignée  
-aranofobia - arachnophobie  
+aranfobia - arachnophobie  
 arbe - arbre  
 arbeparke - arboretum, pépinière  
 arbuze - pastèque  
@@ -127,9 +127,9 @@ bol - ball
 bombe - bombe  
 bon - bon  
 bote - bateau  
+boteraite - tribord  
 botolefte - babord  
 boton - bouton  
-botoraite - tribord  
 bruni - brun (marron)  
 buke - livre  
 ##c
@@ -153,6 +153,7 @@ domi - domestique
 domu - vivre (habiter)  
 dul - deux  
 dunia - monde  
+e - et  
 ##e
 eletre - électricité  
 em - unité fondamentale  
@@ -163,6 +164,7 @@ europi - européen
 ewanjil - évangile  
 ##f
 fata - faire  
+favori - favori (préféré)  
 filosofia - philosophie  
 fiorde - fiord  
 fitelojia - botanique  
@@ -203,6 +205,7 @@ insanistia - humanisme
 iva - avoir tendance à  
 ive - tendance  
 ##j
+jana - saber (conocer)  
 jeinistia - jaïnisme  
 jinse - genre (espèc)  
 jiraf - giraffe  
@@ -222,7 +225,7 @@ kansuygas - gaz lacrymogène
 karbondulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
-kartografia - cartographie  
+kartegrafia - cartographie  
 ke - que (quoi)  
 kimia - chimie  
 kirmi - rouge  
@@ -255,6 +258,7 @@ lete - été
 letis - laitue  
 libel - libellule  
 lider - dirigeant (leader)  
+lil - petit  
 limon - citron  
 liste - liste  
 loga - parler  
@@ -271,6 +275,7 @@ luzer - perdant
 ##m
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
+mame - mère (maman)  
 manihayistia - manichéisme  
 manir - comportement (manière)  
 manse - viande  
@@ -332,6 +337,7 @@ pang - pain
 panir - fromage blanc  
 papagay - perroquet  
 papay - papaye  
+pape - pere (papa)  
 parce - fragment  
 parke - parc  
 pasporte - passeport  
@@ -360,6 +366,7 @@ pute - fils ou fille
 rang - couleur  
 rapidi - vite (rapide)  
 ras - race  
+razonu - tener sentido  
 reste - reste  
 retra - retourner (revenir)  
 retretikete - Aller-retour  
@@ -385,6 +392,8 @@ serye - série
 si - oui  
 sikle - bicyclette  
 sikliste - cycliste  
+site - ville  
+socia - société  
 sol - soleil  
 solcate - ombrelle (parasol)  
 sonkamar - chambre à coucher  
@@ -395,6 +404,7 @@ suki - heureux
 sundari - beau  
 sundaria - beauté  
 susan - lys  
+suy - eau  
 ##t
 tarje - traduction  
 tazi - frais  
@@ -447,6 +457,7 @@ wolfe - loup
 ##x
 xatan - Satan  
 xaw - peu  
+xef - chef  
 xey - chose  
 xing - étoile  
 xite - merde  

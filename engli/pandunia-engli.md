@@ -73,7 +73,7 @@ amena - assure (affirm)
 amerike - America (continent)  
 ameriki - American  
 amerikium - americium  
-amper - ampere  
+amper - ampere (amp)  
 ampul - ampoule (vial)  
 analis - analysis  
 analisa - analyse  
@@ -101,7 +101,7 @@ aplika - apply (put to use for a purpose)
 aplike - application  
 arabi - Arabic  
 arane - spider  
-aranofobia - arachnophobia  
+aranfobia - arachnophobia  
 arbe - tree  
 arbeparke - arboretum  
 arbuze - watermelon  
@@ -280,12 +280,14 @@ boria - boredom
 borium - bohrium  
 boron - boron  
 bosnia - Bosnia and Herzegovina  
+bota - sail  
 bote - boat (ship)  
-botokaper - privateer (buccaneer)  
+botekaper - privateer (buccaneer)  
+boter - sailer  
+boteraite - starboard (right side of a ship)  
 botol - bottle  
 botolefte - port (left side of a ship)  
 boton - button  
-botoraite - starboard (right side of a ship)  
 brazavili kongolia - Congo (Brazzaville)  
 brazilia - Brazil  
 britania - United Kingdom  
@@ -430,15 +432,15 @@ deka - cover (conceal)
 deke - cover (lid, cap, deck)  
 dekula - uncover (reveal)  
 deme - people (population)  
+demekrati - democratic  
+demekratia - democracy  
+demekratiste - democrati  
 demi - public  
 demografia - demography  
-demokrati - democratic  
-demokratia - democracy  
-demokratiste - democrati  
 demon - demon  
 den - day (daytime)  
+deneniam - lunch  
 denga - wait  
-denoniam - lunch  
 des - ten (10)  
 desen - drawing (picture)  
 destin - destination (destiny, fate)  
@@ -449,8 +451,8 @@ dewi - divine (godly)
 dewi sage - myth (divine story)  
 dewiste - theist  
 dewistia - theism  
+dewkratia - theocracy  
 dewlojia - theology  
-dewokratia - theocracy  
 dex - country (land, state)  
 din - religion (worship)  
 ding - nail (spike)  
@@ -495,7 +497,7 @@ duke - grief (sorrow)
 duki - sad  
 dul - two (2)  
 dul ban - twice  
-dul u tin - a couple of  
+dul o tin - a couple of  
 duli - dual (double)  
 dulistia - dualism  
 dulomeni - double entendre  
@@ -530,9 +532,9 @@ em - least distinguishable unit
 emir - emir  
 emiria - emirate  
 energe - energy  
+englefiler - anglophile  
 engli - English  
 englia - England  
-englofiler - anglophile  
 eni - any (no matter which)  
 enzim - enzyme  
 er - doer (agent, actor)  
@@ -596,6 +598,8 @@ fate - deed
 fatelekse - verb  
 fater - maker (manufacturer, factor)  
 fateria - factory  
+favora - prefer  
+favori - favorite (preferred)  
 faxe - bandage (strip, ribbon)  
 faxiste - fascist  
 faxistia - fascism  
@@ -732,6 +736,7 @@ gasu - gasify (vaporize)
 gati - hard (tough)  
 gawa - raise (lift)  
 gawi - high  
+gawu - rise (go up)  
 gayania - Guyana  
 gaze - gauze  
 gazel - gazelle  
@@ -807,6 +812,7 @@ haime - tent
 haitia - Haiti  
 hake - right (justification, privilege)  
 hakim - judgment (sentence)  
+hakima - judge  
 hakimer - judge (referee)  
 halal - permissible (allowed, halal)  
 halala - allow (permit)  
@@ -944,11 +950,11 @@ iridium - iridium
 irita - irritate (annoy, disturb)  
 isa - cause to make  
 islam - submission (surrender)  
+islamfobia - islamophobia  
 islamiste - muslim (moslem)  
 islamisti - Islamic  
 islamisti xaria - shari'a  
 islamistia - Islam  
-islamofobia - islamophobia  
 islamu - surrender (submit)  
 islandia - Iceland  
 israel - Israel  
@@ -968,7 +974,7 @@ jamia - collection (congregation, assembly)
 jampa - jump  
 jamula - disperse  
 jan - knowledge  
-jana - know  
+jana - savoir (connaître)  
 janel - window  
 janelojia - epistemology  
 jangal - forest (jungle, woods)  
@@ -1094,7 +1100,7 @@ karnadia - Karnataka
 karoparke - car park (parking lot)  
 karote - carrot  
 karte - map (chart)  
-kartografia - cartography  
+kartegrafia - cartography  
 kartuelia - Georgia (Republic of Georgia)  
 kartun - comic (cartoon)  
 karwan - caravan (convoy)  
@@ -1146,7 +1152,7 @@ kinsasi kongolia - Congo Kinshasa
 kioske - kiosk  
 kipris - Cyprus  
 kirate - carat  
-kire - rent (hire, lease)  
+kire - carat  
 kirgizia - Kyrgyzstan  
 kiribatia - Kiribati  
 kirili abace - Cyrillic alphabet  
@@ -1360,10 +1366,10 @@ lixtenxtain - Liechtenstein
 lobake - radish  
 loga - talk (say, speak)  
 loge - speech (word)  
+logefiler - logophile (word buff)  
 logike - logic (deduction)  
 logiki - logical  
 logivi - talkative  
-logofiler - logophile (word buff)  
 loja - research (to study)  
 lojia - science (study, research)  
 loka - put (place, set)  
@@ -1409,8 +1415,8 @@ magnete - magnet
 magneti - magnetic  
 magribia - Morocco  
 maidan - field (square, plaza)  
+maidanfobia - agoraphobia  
 maidani - open (wide, spacious)  
-maidanofobia - agoraphobia  
 mais - corn (maize)  
 maitnerium - meitnerium  
 makale - article (writing)  
@@ -1424,6 +1430,7 @@ malaisia - Malaysia
 malaria - malaria  
 malawia - Malawi  
 malayali - Malayali (Malayalam)  
+malayi - Malay  
 malia - Mali  
 malike - jasmine  
 malka - own  
@@ -1433,7 +1440,7 @@ malofunce - malfunction
 maltia - Malta  
 malvinas nesia - Falkland Islands (Malvinas)  
 mamal - mammal  
-mame - mother (mom)  
+mame - mother (mom, mama)  
 man - male  
 mandir - temple  
 mangan - manganese  
@@ -1599,13 +1606,13 @@ moluske - mollusk
 mome - we  
 mon - only (alone, solely, just)  
 monakia - Monaco  
+monekratia - autocracy (monarchy)  
+moneloge - monolog  
+monevejeniamiste - vegan  
 mongol - Mongol  
 mongolia - Mongolia  
 monistia - monism  
 monodewistia - monotheism  
-monokratia - autocracy (monarchy)  
-monologe - monolog  
-monovejoniamiste - vegan  
 monster - monster  
 morfe - morph  
 morfem - morpheme  
@@ -1803,7 +1810,7 @@ oromi - Oromo (an Ethiopian ethnic group and language)
 oromia - Oromia  
 orta - straighten  
 ortegon - right angle  
-ortegoni - orthogonal  
+ortegoni - orthogonal (perpendicular)  
 orti - straight  
 oseania - Oceania  
 oskur - dark (dim)  
@@ -1855,7 +1862,7 @@ panke - fan (ventilator)
 pantalon - pants (trousers)  
 papagay - parrot (parakeet)  
 papay - papaya  
-pape - father  
+pape - father (dad, papa)  
 papir - document (paper)  
 papua novi ginia - Papua New Guinea  
 par - equal (peer)  
@@ -2063,6 +2070,7 @@ ray - opinion (view)
 raya - deem (think that)  
 razon - reason (rational thinking)  
 razoni - rational (reasonable)  
+razonu - make sense  
 rebel - rebellion  
 recete - instructions (recipe)  
 reda - prepare (make ready)  
@@ -2083,6 +2091,7 @@ reste - rest (remainder)
 restoran - restaurant  
 restu - remain (stay)  
 retra - return (go back)  
+retre - return (way back)  
 retretikete - return ticket  
 reunion - Réunion  
 rezerva - reserve (book)  
@@ -2140,9 +2149,9 @@ ruterfordium - rutherfordium
 rutin - routine (habit)  
 ##s
 sa - with (by, at, in, on)  
-sa ce - here (there)  
 sa ke - where  
 sa sabu - because  
+sa ye - here (there)  
 saba - cause (be the cause for)  
 sabate - Sabbath  
 sabe - reason (cause)  
@@ -2350,7 +2359,7 @@ suomi - Finnish
 suomia - Finland  
 supe - soup  
 super - superb (wonderful, super)  
-supra - surpass (go over)  
+supra - surpass (above, go over)  
 supre - overpass  
 supri - upper  
 supris - surprise  

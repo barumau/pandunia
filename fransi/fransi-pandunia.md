@@ -45,7 +45,7 @@ anus - anus
 appartenir à - tenu  
 appliquer - aplika  
 arabe - arabi  
-arachnophobie - aranofobia  
+arachnophobie - aranfobia  
 araignée - arane  
 arboretum, pépinière - arbeparke  
 arbre - arbe  
@@ -121,13 +121,14 @@ canapé (sofa) - kanape
 capacité (compétence) - able  
 carte - karde  
 carte - karte  
-cartographie - kartografia  
+cartographie - kartegrafia  
 centre - jung  
 chambre à coucher - sonkamar  
 chance - canse  
 changement climatique - klimemute  
 chapitre - babe  
 chat - maw  
+chef - xef  
 chemise - kamis  
 chimie - kimia  
 Chine - jungogia  
@@ -170,14 +171,17 @@ drapeau - bandir
 droit (rectiligne) - orti  
 dur - gati  
 ##e
+eau - suy  
 Einsteinium - ainstainium  
 enfant - bace  
 erroné - galti  
+et - e  
 Europe - europe  
 européen - europi  
 ##f
 faire - fata  
 faute (erreur) - galte  
+favori (préféré) - favori  
 feu - pir  
 fils ou fille - pute  
 fiord - fiorde  
@@ -273,6 +277,7 @@ mouche - zeze
 moulin - molia  
 mur - wal  
 mât - maste  
+mère (maman) - mame  
 mémoire - mem  
 ##n
 nation - nasia  
@@ -324,8 +329,10 @@ pastèque - arbuze
 pathologie - patelojia  
 pause - pauze  
 perdant - luzer  
+pere (papa) - pape  
 perroquet - papagay  
 pet (vesse) - pede  
+petit - lil  
 peu - xaw  
 peut-être - ablo  
 philosophie - filosofia  
@@ -367,6 +374,7 @@ rouge - kirmi
 ruban (bande) - tepe  
 s'installer (déménager) - migru  
 ##s
+saber (conocer) - jana  
 sac - sake  
 salle de bains - banyekamar  
 salut (salam) - salame  
@@ -382,6 +390,7 @@ sel - sal
 sexe - sekse  
 shopping - xope  
 si - gar  
+société - socia  
 soldat - lasker  
 soleil - sol  
 sucre - xukar  
@@ -398,6 +407,7 @@ tasse à thé - cayokupe
 technique - tekne  
 technologie - teknelojia  
 tendance - ive  
+tener sentido - razonu  
 tente - haime  
 terrorisme - teroristia  
 thé - cay  
@@ -410,7 +420,7 @@ traduction - tarje
 travail - werke  
 travailler - werka  
 travailleur (ouvrier) - werker  
-tribord - botoraite  
+tribord - boteraite  
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
@@ -431,6 +441,7 @@ vert - lugi
 viande - manse  
 vie - hay  
 vieux (âgé, ancien) - lawi  
+ville - site  
 virus - virus  
 vite (rapide) - rapidi  
 vivre (habiter) - domu  

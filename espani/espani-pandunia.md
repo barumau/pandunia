@@ -4,6 +4,7 @@ acento - aksente
 acordarse - mema  
 acuerdo - samray  
 aeropuerto - airporte  
+agua - suy  
 alcohol - alkol  
 alcohólico - alkoli  
 alfiler (aguja) - pin  
@@ -60,7 +61,7 @@ cambio climático - klimemute
 camote (batata) - kamote  
 carcelero - prizoner  
 carne - manse  
-cartografía - kartografia  
+cartografía - kartegrafia  
 carvis (alcaravea) - karawe  
 cebolla - piaze  
 cebra - zebre  
@@ -73,6 +74,7 @@ cielo - saman
 cima (pico, cumbre, vértice) - pike  
 cinturón (zona) - zone  
 citología - selelojia  
+ciudad - site  
 colocar (poner) - loka  
 color - rang  
 comportamiento (conducta) - manir  
@@ -125,11 +127,12 @@ escultor - eskulter
 eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
-estribor - botoraite  
+estribor - boteraite  
 etapa (fase) - faze  
 etimología - leksaslia  
 evangelio - ewanjil  
 ##f
+favorito (preferido) - favori  
 feliz - suki  
 filosofía - filosofia  
 fiordo - fiorde  
@@ -172,6 +175,7 @@ invierno - zime
 ##j
 jade - yuke  
 Japón - niponia  
+jefe - xef  
 jirafa - jiraf  
 joule (J) - jul  
 jugo (zumo) - jus  
@@ -200,6 +204,7 @@ luteranismo - lutheristia
 luterano - lutheristi  
 léxico - leksi  
 ##m
+madre (mamá) - mame  
 maestro - mester  
 maniqueísmo - manihayistia  
 mano - hate  
@@ -259,6 +264,7 @@ otoño - oton
 otro - ali  
 ##p
 pacifista - paciste  
+padre (papá) - pape  
 palabra (vocablo) - lekse  
 palacio - gunden  
 papaya - papay  
@@ -277,6 +283,7 @@ pausa - pauze
 paz - pace  
 pedo - pede  
 peer - peda  
+pequeño - lil  
 perdedor - luzer  
 perforar - fora   
 pero - a  
@@ -314,6 +321,7 @@ rojo - kirmi
 rápido - rapidi  
 réservation - rezerve  
 ##s
+saber (conhecer) - jana  
 saco - sake  
 sal - sal  
 salino - sali  
@@ -327,6 +335,7 @@ ser humano - insan
 serie - serye  
 sexo - sekse  
 sin - na  
+sociedad - socia  
 soldado - lasker  
 sí - si  
 ##t
@@ -361,6 +370,7 @@ voto - vote
 vulva - vulve  
 ##w
 ##x
+y - e  
 ##y
 ##z
 zoo - hewanparke  

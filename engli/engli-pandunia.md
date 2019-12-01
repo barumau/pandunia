@@ -1,7 +1,7 @@
 # engli-pandunia
 -ness (-ity) - -es  
 @ symbol - adresesimbol (@)  
-a couple of - dul u tin  
+a couple of - dul o tin  
 ##a
 ability (skill) - able  
 Abkhazia - abhasia  
@@ -36,7 +36,7 @@ again (repeatedly) - repi
 age - umur  
 aggressive - agresi  
 agile - ajil  
-agoraphobia - maidanofobia  
+agoraphobia - maidanfobia  
 agree (concur) - samraya  
 agreement (consent) - samray  
 air - air  
@@ -70,7 +70,7 @@ American - ameriki
 American Samoa - usameriki samoa  
 americium - amerikium  
 Amhara (an Ethiopian ethnic group and language) - amari  
-ampere - amper  
+ampere (amp) - amper  
 ampoule (vial) - ampul  
 amuse (entertain) - fana  
 anal - anusi  
@@ -82,7 +82,7 @@ and - e
 Andes - andes  
 Andorra - andoria  
 anger (fury, rage, wrath) - furia  
-anglophile - englofiler  
+anglophile - englefiler  
 Angola - angolia  
 angry (furious) - furi  
 animal - hewan  
@@ -106,7 +106,7 @@ apply (put to use for a purpose) - aplika
 approach (get near) - karbu  
 April - mes 4 (mes car)  
 Arabic - arabi  
-arachnophobia - aranofobia  
+arachnophobia - aranfobia  
 arboretum - arbeparke  
 archipelago - nesia  
 Arctic - artia  
@@ -153,7 +153,7 @@ attribute (charasteristic, quality, feature, description) - sife
 August - mes 8 (mes bal)  
 Australia - australia  
 Austria - osteria  
-autocracy (monarchy) - monokratia  
+autocracy (monarchy) - monekratia  
 autonomous - autenomi  
 autonomy - autenomia  
 autumn (fall) - oton  
@@ -384,6 +384,7 @@ captain - kapitan
 car (cart, carriage, wagon, automobile) - kar  
 car park (parking lot) - karoparke  
 carat - kirate  
+carat - kire  
 caravan (convoy) - karwan  
 caraway - karawe  
 carbon (coal) - karbon  
@@ -393,7 +394,7 @@ care (cure) - kura
 Caribbean - karibia  
 carpenter - mokejanger  
 carrot - karote  
-cartography - kartografia  
+cartography - kartegrafia  
 cash box - kaxe  
 cashier - kaxer  
 cassava (manioc) - manioke  
@@ -634,9 +635,9 @@ defend - defa
 defender - defer  
 defense (defence) - defe  
 delicious (yummy) - niami  
-democracy - demokratia  
-democrati - demokratiste  
-democratic - demokrati  
+democracy - demekratia  
+democrati - demekratiste  
+democratic - demekrati  
 demography - demografia  
 demon - demon  
 Denmark - dania  
@@ -834,9 +835,10 @@ fashion (trend) - faxon
 fashion (trend) - mode  
 fast (quick, rapid, speedy) - rapidi  
 fat (grease) - fete  
-father - pape  
+father (dad, papa) - pape  
 fatty (greasy) - feti  
 fault (sin, blame, defect, guilt) - dox  
+favorite (preferred) - favori  
 fear (phobia) - fobia  
 feather - per  
 February - mes 2 (mes dul)  
@@ -1079,7 +1081,7 @@ hello (hi) - halow
 helmet - helme  
 help (aid, assistance) - helpe  
 help (assist) - helpa  
-here (there) - sa ce  
+here (there) - sa ye  
 heritage (legacy, bequest) - waris  
 hero - wir  
 heterosexual - aleseksekami  
@@ -1195,7 +1197,7 @@ iron - fer
 irritate (annoy, disturb) - irita  
 Islam - islamistia  
 Islamic - islamisti  
-islamophobia - islamofobia  
+islamophobia - islamfobia  
 island - nes  
 Isle of Man - maninia  
 ism (doctrine, ideology, religion, etc) - istia  
@@ -1226,6 +1228,7 @@ joule (J) - jul
 journalist - bawer  
 Judaism - yehudistia  
 judge (referee) - hakimer  
+judge - hakima  
 judgment (sentence) - hakim  
 judo - judo  
 jug (jar, pitcher) - jar  
@@ -1271,7 +1274,6 @@ knead (massage) - masaja
 knee - gute  
 knife - cake  
 knot (node) - node  
-know - jana  
 knowledge - jan  
 known - jani  
 Konkani - konkani  
@@ -1358,7 +1360,7 @@ local - loki
 logbook - deftebuke  
 logic (deduction) - logike  
 logical - logiki  
-logophile (word buff) - logofiler  
+logophile (word buff) - logefiler  
 long (lengthy) - long  
 look (see) - vida  
 lose (fail to win) - luza  
@@ -1369,7 +1371,7 @@ love (to be in love with) - ama
 love romantically - romansa  
 lower - nici  
 luggage (baggage) - bagaje  
-lunch - denoniam  
+lunch - deneniam  
 lung - pulmon  
 lutetium - lutetium  
 Lutheran - lutheristi  
@@ -1397,10 +1399,12 @@ major (not minor) - maxor
 majority - maxoria  
 make (manufacture) - fata  
 make a mistake - galta  
+make sense - razonu  
 maker (manufacturer, factor) - fater  
 Malagasy - madagasi  
 malaria - malaria  
 Malawi - malawia  
+Malay - malayi  
 Malayali (Malayalam) - malayali  
 Malaysia - malaisia  
 Maldives - divehia  
@@ -1538,7 +1542,7 @@ Mongolia - mongolia
 mongoose - mungus  
 monism - monistia  
 monochrome - unangi  
-monolog - monologe  
+monolog - moneloge  
 monotheism - monodewistia  
 monster - monster  
 Montenegro - cernogoria  
@@ -1555,7 +1559,7 @@ moscovium - moskowium
 mosquito - moskite  
 moss - mos  
 most (maximally) - maxim  
-mother (mom) - mame  
+mother (mom, mama) - mame  
 motion (movement) - mote  
 motorcar (automobile) - motokar  
 motorcycle - motosikle  
@@ -1720,7 +1724,7 @@ Oromia - oromia
 Oromo (an Ethiopian ethnic group and language) - oromi  
 orphan - yatim  
 orphanage - yatimdom  
-orthogonal - ortegoni  
+orthogonal (perpendicular) - ortegoni  
 osmium - osmium  
 osmosis - osme  
 other - ali  
@@ -1927,6 +1931,7 @@ pray - duwa
 prayer - duwe  
 precede (come before) - preda  
 precise (exact, accurate) - presis  
+prefer - favora  
 pregnant - hamili  
 prepare (make ready) - reda  
 presence (existence) - zayia  
@@ -1941,7 +1946,7 @@ prime minister - xefi minister
 print (stamp) - cape  
 prison (imprisonment) - prizon  
 prison - prizonia  
-privateer (buccaneer) - botokaper  
+privateer (buccaneer) - botekaper  
 problem (issue) - vente  
 problematic - venti  
 process (procedure) - proses  
@@ -2032,7 +2037,6 @@ religious - dini
 remain (stay) - restu  
 remember (recall) - mema  
 renew (make new, renovate) - nova  
-rent (hire, lease) - kire  
 rent out (let, lease) - kirisa  
 repair (fix) - xula  
 repair (fix) - xule  
@@ -2056,6 +2060,7 @@ restaurant - restoran
 result - rezulte  
 return (go back) - retra  
 return (restore, recover, resume) - fuga  
+return (way back) - retre  
 return ticket - retretikete  
 reverse (undo) - ula  
 rhenium - renium  
@@ -2071,6 +2076,7 @@ right (justification, privilege) - hake
 right angle - ortegon  
 right hand side - raite  
 rightist (right-winger) - raitiste  
+rise (go up) - gawu  
 risk - riske  
 risky - riski  
 ritual (ceremony) - rite  
@@ -2122,6 +2128,8 @@ sad - duki
 safe (secure) - sekur  
 saffron - safran  
 Sahrawi Arab Democratic Republic - sahrawia  
+sail - bota  
+sailer - boter  
 Saint Helena - santi helenia  
 Saint John's Day - yohani feste  
 Saint Kitts - santi kitse  
@@ -2148,6 +2156,7 @@ sauna - saune
 sausage - sosis  
 save (deposit, bank) - banka  
 save - sekura  
+savoir (connaître) - jana  
 savory (umami) - umami  
 scales (weighing device) - barometer  
 scandium - skandium  
@@ -2320,7 +2329,7 @@ stairs (ladder) - eskal
 stand - libu  
 stand still - estasa  
 star - xing  
-starboard (right side of a ship) - botoraite  
+starboard (right side of a ship) - boteraite  
 static (stationary) - estasi  
 station - estasia  
 steal - cora  
@@ -2371,7 +2380,7 @@ supply (dispense, issue, put out) - fada
 surface - fas  
 Suriname - surinamia  
 surname (family name) - familonam  
-surpass (go over) - supra  
+surpass (above, go over) - supra  
 surprise - supris  
 surrender (submit) - islamu  
 surrender (to give up) - salima  
@@ -2464,7 +2473,7 @@ the Grenadines - grenadi
 theft - core  
 theism - dewistia  
 theist - dewiste  
-theocracy - dewokratia  
+theocracy - dewkratia  
 theology - dewlojia  
 theory - teoria  
 thermometer - termemeter  
@@ -2605,7 +2614,7 @@ vanilla - vanil
 Vanuatu - vanuatia  
 vapour - suygas  
 vase (flower pot) - pulvaze  
-vegan - monovejoniamiste  
+vegan - monevejeniamiste  
 vegetable - veje  
 vegetarian - vejeniamiste  
 veil (cover, screen) - hijabe  

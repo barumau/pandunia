@@ -77,7 +77,7 @@ aplika - zastosować, stosować
 aplike - zastosowanie, aplikacja  
 arabi - arabski  
 arane - pająk  
-aranofobia - arachnofobia  
+aranfobia - arachnofobia  
 arbe - drzewo  
 arbeparke - arboretum  
 arbuze - arbuz  
@@ -236,11 +236,11 @@ borium - bohr
 boron - bor  
 bosnia - Bośnia i Harcegowina  
 bote - łódź, statek  
-botokaper - kaper (korsarz)  
+botekaper - kaper (korsarz)  
+boteraite - sterburta (prawa burta)  
 botol - butelka  
 botolefte - bakburta (lewa burta)  
 boton - guzik  
-botoraite - sterburta (prawa burta)  
 brazavili kongolia - Republika Konga  
 brazilia - Brazyla  
 britania - Zjednoczone Królestwo  
@@ -375,14 +375,14 @@ deka - przykryć, przykrywać, ukryć, ukrywać
 deke - pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula - odsłonić, odsłaniać  
 deme - lud, społeczeństwo  
+demekrati - demokratyczny  
+demekratia - demokracja  
+demekratiste - demokrata  
 demografia - demografia  
-demokrati - demokratyczny  
-demokratia - demokracja  
-demokratiste - demokrata  
 demon - demon  
 den - dzień  
+deneniam - obiad, lunch  
 denga - czekać  
-denoniam - obiad, lunch  
 des - dziesięć (10)  
 desen - rysunek, obraz  
 destin - przeznaczenie, los  
@@ -393,8 +393,8 @@ dewi - boski
 dewi sage - mit, boska opowieść  
 dewiste - teistyczny  
 dewistia - teizm  
+dewkratia - teokracja  
 dewlojia - teologia  
-dewokratia - teokracja  
 dex - kraj, ziemia  
 din - religia, wyznanie  
 ding - kolec  
@@ -434,7 +434,7 @@ duke - żal, smutek
 duki - smutny  
 dul - dwa (2)  
 dul ban - dwukrotnie (dwa razy)  
-dul u tin - parę  
+dul o tin - parę  
 duli - podwójny (dwójkowy)  
 dulistia - dualizm  
 dum - ogon  
@@ -464,8 +464,8 @@ eletron - elektron
 eletroposte (e-poste) - poczta elektroniczna  
 em - jednostki podstawowej  
 energe - energia  
+englefiler - anglofil  
 engli - Anglik; angielski  
-englofiler - anglofil  
 eni - jakikolwiek, którykolwiek  
 enzim - enzym  
 er - przyrostek dla wykonawcy  
@@ -842,11 +842,11 @@ irania - Iran
 iridium - iryd  
 isa - skłonić do (spowodować zrobienie)  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
+islamfobia - islamofobia  
 islamiste - muzułman, muzułmanin  
 islamisti - islamski  
 islamisti xaria - szariat  
 islamistia - Islam  
-islamofobia - islamofobia  
 islamu - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 islandia - Islandia  
 israel - Izrael  
@@ -1218,8 +1218,8 @@ lixtenxtain - Liechtenstein
 lobake - rzodkiewka  
 loga - mówić, rozmawiać  
 loge - mowa; słowo  
+logefiler - logofil (miłośnik słów)  
 logike - logika, dedukcja  
-logofiler - logofil (miłośnik słów)  
 loja - badać, studiować  
 lojia - nauka, badanie, studiowanie  
 loka - umieścić (postawić)  
@@ -1445,13 +1445,13 @@ moluske - mięczak (morski bezkręgowiec)
 mome - my  
 mon - tylko  
 monakia - Monako  
+monekratia - monarchia  
+moneloge - monolog  
+monevejeniamiste - weganin (weganka)  
 mongol - Mongolski  
 mongolia - Mongolia  
 monistia - monizm  
 monodewistia - monoteizm  
-monokratia - monarchia  
-monologe - monolog  
-monovejoniamiste - weganin (weganka)  
 monster - potwór, monstrum  
 morfe - morf  
 morfem - morfem  
@@ -1947,9 +1947,9 @@ ruterfordium - rutherford
 rutin - rutyna, nawyk, zwyczaj  
 ##s
 sa - przy, z, na, w, u  
-sa ce - tu (tutaj, tam)  
 sa ke - gdzie  
 sa sabu - ponieważ, bo  
+sa ye - tu (tutaj, tam)  
 saba - spowodować, powodować  
 sabate - szabat, szabas  
 sabe - powód, przyczyna  
