@@ -905,7 +905,7 @@ helpe|||eng:help, deu:Hilfe|help (aid, assistance)|||||||||||||||helpo|apu|pomoc
 hem|||eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|hmm|||||||||||||||hm|hmm|hmm
 hema||||ponder (think)|||||||||||||||pripensi|miettiä (pohtia)|dumać, rozmyślać, zastanawiać się
 hen|||zho:(hen), fra:(haine)|hate|||||||||||||||malamo|viha|nienawidzić
-herze|unmete|Hz||hertz (unit)|||||||||||||||||||
+herze|unmete|Hz||hertz|||||||||||||||||||
 hewan|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 hewanparke||||zoo (zoological garden)|zoo|zoo|zoológico|rus:зоопарк (zoopark)||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|
 hibride||||hybrid (mongrel)|||||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
@@ -1061,7 +1061,7 @@ jovani fem||||girl|||||||||||||||knabino|tyttö (nuori neito)|dziewczyna
 jovani man||||boy|||||||||||||||knabo|poika (nuori mies)|chłopak
 jovania||||youth (young age)|||||||||||||||juneco|nuoruus|młodość
 judo||||judo|||||||||||||||ĵudo|judo|judo
-jul||||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
+jul|unmete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
 jung|||zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
 junga||||center (concentrate)||||||||||||||||keskittää|centrować, skupić, skupiać
 jungafrikia|dex|CF||Central African Republic||||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
@@ -1191,8 +1191,8 @@ ki xey||||what thing?|||||||||||||||kio?|mikä? (mitä?)|jak?
 ki yangi||||what kind of?|||||||||||||||kial?|millainen?|
 kil||||thousand|||||||||||||||mil|tuhat|tysiąc
 kil-||||kilo-|||||||||||||||||
-kilegram|unmete|kg||kilogram (kg)||||||||||||||||kilogramma|kilogram (kg)
-kilemetre||||kilometer|||||||||||||||kilometro|kilometri|kilometr
+kilgram|unmete|kg||kilogram (kg)||||||||||||||||kilogramma|kilogram (kg)
+kilmetre|unmete|kg||kilometer|||||||||||||||kilometro|kilometri|kilometr
 kimi||||chemical||||||||||||||||kemikaali|chemiczny
 kimia|||ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|chemistry|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|ĥemio (kemio)|kemia|chemia
 kina||||move (transfer, change place)||||||||||||||||liikuttaa|ruszać, przenościć, zmieniać miejsce
@@ -1631,7 +1631,7 @@ mikr-||||micro-|||||||||||||||mikro-|mikro-|mikro-
 mikronesia|dex|FM||Micronesia||||||||||||||||Mikronesia|Mikronezja
 mil-||||milli-|||||||||||||||mili-|milli-|mili-
 milgram|unmete|mg||milligram|||||||||||||||||||
-milmetre||||millimeter|||||||||||||||milimetro|millimetri|milimetr
+milmetre|unmete|mm||millimeter|||||||||||||||milimetro|millimetri|milimetr
 milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|milk|lait|leche|leite|молоко|||||||||||lakto|maito|mleko
 min||||less|||||||||||||||malpli|vähemmän|mniej
 min ko bas||||too little|||||||||||||||maltro|liian vähän|zbyt mało
@@ -1858,7 +1858,7 @@ nurbaton||||torch|||||||||||||||torĉo|soihtu|pochochodnia (latarka)
 nurcirke||||halo (aureola)|||||||||||||||halo|sädekehä (halo)|efekt halo
 nurerade||||ray of light||||||||||||||||valonsäde|promień światła
 nuri||||light (bright)|||||||||||||||luma|valoisa|jasny, świetlny
-nuton||||newton (N)|||||||||||||||newtono (N)|newton (N)|niuton (N)
+nuton|unmete|N||newton (N)|||||||||||||||newtono (N)|newton (N)|niuton (N)
 o||||oh!|||||||||||||||ho!|oi!|o!
 o|funce||spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
 obliki|||eng:fra:oblique, spa:oblicuo, por:oblíquo, ita:obliquo|diagonal (oblique, askew)|obilque|oblicuo (torcido)|oblíquo|||斜|斜め||||||||||||
@@ -1961,7 +1961,7 @@ partia|||eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:part
 pas||||past (bygone)||||||||||||||||mennyt|przeszły, miniony
 pasa||||pass (go by, go past)||||||||||||||||kuluttaa aikaa|minąć, mijać, przeminąć, przemijać
 pase|||eng:past, spa:pasado, por:passado, fra: passé|past times||||||||||||||||menneisyys|przeszłość
-paskal||||pascal (Pa)||||||||||||||||pascal (Pa)|paskal (Pa)
+paskal|unmete|Pa||pascal (Pa)||||||||||||||||pascal (Pa)|paskal (Pa)
 paske||||Easter||||||||||||||||pääsiäinen|Wielkanoc
 pasporte|||eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 paste|||eng:deu:paste, rus:(pasta), spa:por:pasta|paste||||||||||||||||tahna (tahdas)|pasta
@@ -2539,7 +2539,7 @@ teroriste||||terrorist|||||||||||||||teroristo|terroristi|terrorysta
 teroristia||||terrorism|terrorisme|||терроризм||恐怖行为|||||||||terorismo|terrorismi|terroryzm
 tesa||||argue (claim)||||||||||||||||väittää|dyskutoać, twierdzić
 tese|||eng:thesis, fra:thèse, spa:tesis|argument (thesis)|argument|||довод||论据||||||||||väite (teesi)|argument, teza
-tesla|unmete|T||telsa (unit)|||||||||||||||||||
+tesla|unmete|T||telsa|||||||||||||||||||
 testa||||try (attempt)||intentar (probar)|tentar (provar)|||||||कोशिश करना|চেষ্টা করা|||||yrittää (kokeilla)|spróbować, próbować
 teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try, attempt)|épreuve (test)|prueba|teste|проба (тест)||化验||||||||test|testo|koe (testi, yritys)|test, wyzwanie, próba
 tezi|||hin:तेज़ (tez), urd:(tez), fas:(tiz), aze:uzb:tez, kaz:тез (tez)|intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)||||||||||||||||kiihkeä (väkevä, voimakas, vahva, kova)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
