@@ -97,7 +97,6 @@ anti|||eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), p
 antigia|dex|||Antigua||||||||||||||||Antigua|
 antigia e barbudia|dex|AG||Antigua and Barbuda||||||||||||||||Antigua ja Barbuda|
 antekriste||||antichrist||||||||||||||||antikristus|antychryst
-antimon|mate|Sb||antimony||||||锑|アンチモン||||||||||||
 antenam|||eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|antonym||||||||||||||||vastakohta (antonyymi)|antonim
 anus||||anus|anus|||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
 anusi||||anal|||||||||||||||anusa|anaalinen|analny, odbytni
@@ -112,6 +111,7 @@ arbeparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|
 arbuze|||rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|watermelon|pastèque|sandía|melancia|арбуз||西瓜||||तरबूज||semangka||karpuz|akvomelono|vesimeloni|arbuz
 arcahia|dex|||Artsakh|||||||||||||||||
 are|||eng:area, por:spa:área, pol:areał, fra:aire|area (extent of surface)|aire (superficie)|||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia
+argente|mate|Ag||silver|argent|plata|prata|||银|銀||||||||||||
 argentinia|dex|AR||Argentina|Argentine||||||||||||||Argentino|Argentiina|Argentyna
 argon|mate|Ar||argon|argon||||||||||||||argono|argon|argon
 argumente|||eng:fra:argument. spa:argumento.|argument (linguistics)|argument (actant)|argumento||||论元|項 (言語学) (kou)|논항 (nonhang)|||||||||||
@@ -141,6 +141,7 @@ australia|dex|AU||Australia|||||||||||||||Aŭstralio|Australia|Australia
 autemoti||||self-moving (automotive, automobile)|||||||||||||||memmova|itseliikkuva|samobieżny
 autenomi||||autonomous||||||||||||||||autonominen|autonomiczny
 autenomia||||autonomy||||||||||||||||itsehallinto (autonomia)|autonomia
+aur|mate|Au||gold|||||||||||||||oro|kulta|złoto
 avogadre|unmete|mol||mole (unit)|||||||||||||||||||
 awakate|||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado|||||||||||||||avokado|avokado|awokado
 axur|site|||Assur||||||||||||||||Assur|Aszur
@@ -589,6 +590,7 @@ estasi||||static (stationary)||||||||||||||||seisova (staattinen)|statyczny, sta
 estasia|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station|||||||||||||||stacio|asema|stacja
 esten|mate|Sn|spa:estaño. por:estanho. fra:étain. ita:stagno. eng:tin.|tin|étain|estaño|estanho|||锡|珍||||||||||||
 estia|dex|EE||Estonia|||||||||||||||Estonio|Viro (Eesti)|Estonia
+estibium|mate|Sb||antimony||||||锑|アンチモン||||||||||||
 estrontium|mate|Sr||strontium|||||||||||||||stroncio|strontium|stront
 estudia|||rus:студия (studiya), spa:estudio, por:estúdio|studio||||||||||||||||ateljee (studio)|studio (pracownia)
 etiopia|dex|ET||Ethiopia|||||||||||||||Etiopio|Etiopia|Etiopia
@@ -788,7 +790,6 @@ geter||||getter (receiver, recipient)||||||||||||||||saaja (vastaanottaja)|odbio
 gey|||eng:fra:spa:gay, por:guei|gay (homosexual)|||||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
 gida||||steer|||||||||||||||stiri|ohjata (ohjastaa)|sterować
 gig-||||billion (giga-)|||||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
-gim|mate|AU|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|gold|||||||||||||||oro|kulta|złoto
 gitar|||eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|guitar|guitare|guitarra|guitarra|гитара||吉他|ギター|기타|ghi-ta|गिटार|গিটার|gitar|gitaa|gitar|gitaro|kitara|gitara
 giyania|dex|GF||French Guiana||||||||||||||||Ranskan Guiana|Gujana Francuska
 glute|||eng:glue, swa:gluu, + fra:glutineux|glue|||||||||||||||gluo|liima|klej
@@ -2603,7 +2604,6 @@ tuneltren||||subway (metro)|||||||||||||||metroo|metrojuna (maanalainen)|metro
 tung|||zho:疼 (téng),痛 (tòng), yue:痛 (tung3)|hurt (pain)||||||||||||||||kipu|ból
 tunike|||spa:túnica, eng:tunic, rus:туника (tunika)|tunic (gown)|||||||||||||||robo|mekko (tunika)|tunika, toga
 tunisia|dex|TN||Tunisia|Tunisie|||||||||||||||Tunisia|Tunezja
-tunsten|mate|W||tungsten (wolfram)|tungstène|tungsteno|tungstênio|||钨|タングステン||||||||||||
 tupay|||may:may:tupai|squirrel|||||||||||||||sciuro|orava|wiewiórka
 turkemenia|dex|TM||Turkmenistan||||||||||||||||Turkmenistan|Turkmenistan
 turki||||Turkish||||||||||||||||turkkilainen|turecki
@@ -2738,6 +2738,7 @@ wing||||wing||||||||||||||||siipi|skrzydło
 wir|||hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|hero|||||||||||||||heroo|sankari (urho)|bohater, heros
 wiri||||brave (bold, heroic)|||||||||||||||heroa|urhea (sankarillinen)|bohaterski, heroiczny, odważny, brawurowy
 wolfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup||||||||||||||lupo|susi (hukka)|wilk
+wolfram|mate|W||tungsten (wolfram)|tungstène|tungsteno|tungstênio|||钨|タングステン||||||||||||
 xakal||||jackal||||||||||||||||šakaali|szakal
 xake|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)|||||||||||||||branĉo|oksa (haara)|gałąź, konar
 xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)|||||||||||||||koltuko|huivi (šaali)|szal, szalik
