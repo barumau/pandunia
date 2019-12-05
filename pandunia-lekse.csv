@@ -36,7 +36,6 @@ air|||eng:fra:spa:air, por:ar|air||||||||||हवा (वायु)|||||aero|ilm
 airbare||||atmospheric pressure||||||||||||||||ilmanpaine|ciśnienie atmosferyczne
 airbaremeter||||barometer||||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
 airia|dex|IE|gle:Éire, eng:Ireland|Ireland||||||||||||||||Irlanti|
-airgasu||||evaporate|||||||||||||||||||
 airlaskeria||||air force||||||||||||||||ilmavoimat|
 airporte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|
 ais|||eng:ice, deu:Eis, may:és|ice||||||冰|||||||||glacio|jää|lód
@@ -2460,7 +2459,8 @@ sutur|||fra:eng:suture, por:spa:sutura|suture (seam)||||||||||||||||sauma (ommel
 suxe||||sushi|||||||||||||||suŝio|sushi|sushi
 suy|||zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|water|eau|agua|água|вода||水|水|물 (수)|nước|पानी|জল (পানি)|air|maji|su|akvo|vesi|woda
 suyang||||watercolor||||||||||||||||vesiväri (akvarelliväri)|akwarela, farba wodna
-suygas||||vapour||||||||||||||||höyry|
+suygas||||vapor||||||||||||||||höyry|
+suygasu||||evaporate|||||||||||||||||
 suyporte||||harbor (seaport)||puerto marítimo|porto marítimo||||||||||||haveno|satama|
 tabake|||deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco|||||||||||||||tabako|tupakka|tytoń
 tabla||||tabulate||||||||||||||||taulukoida|ułożyć w trabelę
