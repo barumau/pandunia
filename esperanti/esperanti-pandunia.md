@@ -5,6 +5,7 @@
 -i (-iĝi) - -u  
 -o (-aĵo) - -e  
 ##a
+abelo aŭ vespo - vespe  
 acida - suan  
 adjektivo - siflekse  
 adreso - adres  
@@ -86,6 +87,7 @@ arseno - arsen
 artefarita lingvo - sanebax  
 artisto - artiste  
 arto - arte  
+arĝento - argente  
 ascetiko - askete  
 aspekto - rupe  
 aspirino - aspirin  
@@ -94,8 +96,8 @@ atako (agreso) - agres
 ateisto - noldewiste  
 atendi - denga  
 atomo - atom  
-aventuristo - abenturer  
-aventuro - abentur  
+aventuristo - aventurer  
+aventuro - aventur  
 avida - tami  
 avokado - awakate  
 azeno - gade  
@@ -113,7 +115,6 @@ aŭtuno - oton
 babilejo - blableria  
 babili - blabla  
 babordo - botolefte  
-badem - badam  
 bah! - fuy  
 bahaismo - bahayistia  
 bahaisto - bahayiste  
@@ -215,7 +216,7 @@ buŝo - boke
 ##c
 celo (golo) - gol  
 cent - hon  
-centono - centi  
+centono - cent-  
 centro - jung  
 cepo - piaze  
 cerbo - serebre  
@@ -247,11 +248,11 @@ defendanto (defendisto) - defer
 defendi - defa  
 defendo - defe  
 dek (10) - des  
-dekono - deci  
+dekono - dec-  
 demanda - eski  
 demandi (ĉu) - eska  
 demando - eske  
-demografio - demografia  
+demografio - demegrafia  
 demokratia - demekrati  
 demokratio - demekratia  
 demono - demon  
@@ -315,7 +316,7 @@ elekto - cuze
 elektra - eletri  
 elektro - eletre  
 elektrono - eletron  
-elirejo - cutomun  
+elirejo - cutmun  
 eliri - cuta  
 eliro - cute  
 emi - iva  
@@ -406,6 +407,8 @@ fiziko - fizikia
 fiŝo - fix  
 fjordo - fiorde  
 flago - bandir  
+flanka (latera) - beni  
+flanko (latero) - ben  
 flava - limonrangi  
 floro - pul  
 flughaveno - airporte  
@@ -423,8 +426,8 @@ forto - fortia
 forumo - forum  
 fosforo - fosfor  
 fosforo - pospor  
-fosi - fosa  
-foso - fos  
+fosi - kava  
+foso - kave  
 fotilo - fotemaxin  
 fotisto - fotegrafer  
 foto - fotegraf  
@@ -628,7 +631,7 @@ Kamboĝo - kambudia
 kamelo - gamel  
 kanabo - ganje  
 kanalo - kanal  
-kandelo - mumonur  
+kandelo - mumnur  
 kangaro - kangur  
 kanonisto - kanoner  
 kanono - kanon  
@@ -654,13 +657,14 @@ kato - maw
 kaverno - guhe  
 kaŝtano - kastan  
 kaŭĉuko - gom  
+kerno (koro) - kerne  
 keĉupo - kecape  
 kial? - ki yangi  
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  
 kiel? - ko?  
-kilometro - kilometre  
+kilometro - kilmetre  
 kio? - ke  
 kio? - ki xey  
 kiom? - ko multo  
@@ -692,6 +696,7 @@ kolono - kolum
 kolora - rangi  
 koloro - rang  
 koltuko - xal  
+komenci - mula  
 komenco - mul  
 komercisto - bizneser  
 kompanio (firmao) - kompania  
@@ -872,7 +877,7 @@ matematiko - matike
 mateno - sube  
 matura (plenkreska) - matur  
 maŝino - maxin  
-mega- - mego-  
+mega- - meg-  
 mejtnerio - maitnerium  
 Meksikio - mexikia  
 melki - tira milke  
@@ -898,14 +903,14 @@ mi - me
 mia - mi  
 mielo - mel  
 migrado - migre  
-mikro- - mikro-  
+mikro- - mikr-  
 miksi - mixa  
 miksilo - mixer  
 miksulo - hibride  
 mil - kil  
-mili- - mili-  
-miliardo (giga-) - gigo-  
-milimetro - milimetre  
+mili- - mil-  
+miliardo (giga-) - gig-  
+milimetro - milmetre  
 miliono - megi  
 milita - jengi  
 milito (batalo) - jeng  
@@ -933,7 +938,7 @@ morta - morti
 mortigi - morta  
 mortigisto - morter  
 morto - morte  
-moskovio - moskowium  
+moskovio - moskovium  
 motoro - moter  
 movo - mote  
 multe - pol  
@@ -1009,6 +1014,7 @@ okupata - bizi
 ol (kiel) - ko  
 olivo - zaitun  
 ombro - saye  
+ondo - onde  
 opinii - raya  
 opinio - ray  
 oranĝa - oranji  
@@ -1023,6 +1029,7 @@ oro - gim
 osmio - osmium  
 osmozo - osme  
 osto - oste  
+otito - oritis  
 ovo - ande  
 ##p
 pacifismo - pacistia  
@@ -1070,7 +1077,7 @@ persa - farsi
 persono - ren  
 peti (bonvolu) - plisa  
 peza - bari  
-pezmetalo - barometal  
+pezmetalo - barmetal  
 pezo - bar  
 piano - pian  
 picejo - pizeria  
@@ -1187,6 +1194,7 @@ rekta - orti
 religia - dini  
 religio - din  
 renio - renium  
+reno - nefre  
 rentgenio - rengenium  
 respektinda - onori  
 respondi - jawaba  
@@ -1293,6 +1301,7 @@ smeraldo - zumrude
 socio - socia  
 sofo - kanape  
 soldato - lasker  
+solido - gatemate  
 somero - lete  
 sono - sonde  
 speciala - hasi  
@@ -1431,8 +1440,10 @@ utila - faidi
 utileco - faide  
 uzi - uza  
 ##v
+vaginito - vaginitis  
 vagino - vagin  
 valo - vale  
+vaporo - suygas  
 varma - garmi  
 vato - wate  
 vazo (florpoto) - pulvaze  
@@ -1483,6 +1494,7 @@ vojaĝanto - safarer
 vojaĝi - safara  
 vojaĝo - safar  
 vojo - daw  
+vokalo - vokal  
 voli - wana  
 volo - ice  
 volo - wan  
@@ -1496,6 +1508,11 @@ vulvo - vulve
 ##w
 ##x
 ##y
+ydinase - kerni arme  
+ydinenergia - kerni energe  
+ydinfissio - kerni fenia  
+ydinfuusio - kerni liwunia  
+ydinfysiikka - kerni fizikia  
 ##z
 Zambio - zambia  
 zebro - zebre  

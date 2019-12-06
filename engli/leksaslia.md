@@ -4,11 +4,12 @@
 |about (approximately)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |accent (stress)|aksente|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
 |action (deed, performance, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
+|action|acion|fra:eng:action, spa:acción, por:ação, may:aksi|
 |address|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |adultery (infidelity)|zine|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |adult|adulte|eng:adult, fra:adulte, por:spa:adulto|
 |advance (progress, enter)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
-|adventure (venture)|abentur|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
+|adventure (venture)|aventur|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
 |advisor (counselor, mentor)|menter|scr:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)|
 |Africa|afrike|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|
 |age|umur|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
@@ -16,6 +17,7 @@
 |alcohol|alkol|fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|
 |alga|alge|deu:Alge, fra:algue, tur:alg, fas:(âlg), eng:spa:por:pol:alga|
 |algebra|jebria|ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre|
+|almond|badam|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |alphabet|abace|gre:(alphabētos), spa:abecedario, fas:(alefbâ), ara:(abjad), scr:slk:abeceda, hun:ábécé|
 |already (completed action)|lew|tha:แล้ว /lɛːw/, zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|
 |altar|altar|eng:por:spa:may:altar, rus: алтарь (altar'), swa:altare, pol:ołtarz|
@@ -27,13 +29,14 @@
 |anger (fury, rage, wrath)|furia|eng:fury, spa:pol:furia, por:fúria|
 |animal|hewan|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |answer (reply, response)|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
-|antonym|antonim|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|antonym|antenam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |ant|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
 |appearance (looks)|rupe|hin:रूप (rūp), may: rupa, tha: รูป /rūp/, khm:រូប (rūp)|
 |apple|aple|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
 |application|aplike|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |area (extent of surface)|are|eng:area, por:spa:área, pol:areał, fra:aire|
 |area of thinking or being|-ia|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
+|argument (rationale, grounds)|argum|eng:fra:argument, spa:por:argumento, rus:аргумент (argument)|
 |argument (thesis)|tese|eng:thesis, fra:thèse, spa:tesis|
 |artisan (craftsman)|janger|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |art|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
@@ -80,6 +83,7 @@
 |beautiful (handsome, pretty)|sundari|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar), |
 |beaver|kastor|fra:por:spa:castor, tgl:tur:kastor|
 |bed|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
+|bee or wasp|vespe|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |beer|bir|eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|
 |beginning|mul|hin:मूल (mūl), may:tgl:mula, khm:មូល (mul)|
 |behavior (manners)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
@@ -94,7 +98,7 @@
 |Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |big (great)|day|yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|
 |bike (cycle)|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
-|bill (invoice)|bil|eng:bill, hin:बिल (bil)|
+|bill (invoice)|bil|eng:bill, hin:बिल (bil), may:bil|
 |biology (study of life)|biyolojia|tur:biyoloji, fra:biologie, eng:biology|
 |bird|pakse|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|
 |birth|jen|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
@@ -214,6 +218,7 @@
 |cook (prepare food)|kuka|eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku|
 |cool|kul|eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)|
 |copy (replica)|kope|eng:copy, zho:拷貝 (kǎobèi)|
+|core (nucleus, kernel)|kerne|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
 |corner (angle)|gon|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|
 |cotton|goton|ara:(quṭun), spa:algodón, fra:coton, eng:cotton|
 |cough|kos|rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)|
@@ -252,6 +257,7 @@
 |dew|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |diamond|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |die (dice)|dade|spa:por:tgl:dado, may:swa:dadu|
+|dig (excavate)|kava|spa:por:cavar, eng:excavar, fra:excaver|
 |direction|dixe|hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|
 |discussion (debate, discourse)|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
 |doctor (scholar who has attained doctorate)|dotor|por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)|
@@ -421,7 +427,7 @@
 |honey|mel|por:mel, fra:spa:miel, ell:μέλι (méli)|
 |horn|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |horse|gude|may:kuda, kan:ಕುದುರೆ (kudure), tam:குதிரை (kutirai), tel:గుర్రము (gurramu), hin:घोड़ा (ghoṛā), urd:(ghoṛā), ben:ঘোড়া (ghoṛa), pnb:ਘੋੜਾ (ghōṛā)|
-|hotel|hotel|eng:deu:spa:por:may:hotel. fra:hôtel. hin:होटल (hoṭal). ben:হোটেল (hoṭel). jpn:ホテル (hoteru). kor:호텔 (hotel). rus:отель (otel).|
+|hotel|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |hour|hor|fra:heure, eng:hour, spa:por:hora|
 |however|lekin|ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|
 |huh? (pardon?)|he|fra:por:hein, jpn:e|
@@ -436,10 +442,10 @@
 |idiot|idiote|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
 |if (suppose, assume)|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |important|hami|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
-|ind:badam. tur:badem. hin:बादाम (bādām). ben:বাদাম (badam). zho:巴旦木 (bādànmù).|badam|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |Indian|barti|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |infection|infekse|cze:infekce, ita:infezione, eng:infection, por:infecção, tur:enfeksiyon, rus:инфекция (infektsiya)|
 |infidel (pagan, heathen, unbeliever)|kafir|ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)|
+|inflammation (-itis)|itis |eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
 |injection|juxe|zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)|
 |ink|moge|zho:墨 (mò), vie:mực, tha:หมึก (muk)|
 |inside (interior)|inde|eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|
@@ -465,6 +471,7 @@
 |ketchup|kecape|yue:茄汁 (kezap), eng:ketchup, hin:केचप (kecap), rus:кетчуп (ketčup), jpn:ケチャップ (kechappu), tgl:ketsap|
 |key (push-button, switch)|buton|eng:button, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|
 |key|cabe|por:chave, hin:(cābi), kon:nsapi|
+|kidney|nefre|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |kind (type, style)|yang|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |kingdom|rajia|hin:राज्य (rājya), ben:রাজ্য (rajyô)|
 |kiss|cum|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
@@ -528,7 +535,7 @@
 |married|mari|eng:married, fra:marié, spa:por:marido|
 |martial art|jengexute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |mask (camouflage)|maske|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, Tur:maske|
-|master (expert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister|
+|master (expert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |master (sensei)|xense|jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|
 |mast|maste|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
 |match (contest)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
@@ -614,6 +621,7 @@
 |opposite (anti-)|anti|eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), pol:anty-|
 |orange (fruit)|oranje|eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, Rus:оранжевый (oranževiy)|
 |order (command)|komande|eng:command, fra:commandement, rus:команда (komanda), spa:mandato|
+|organic life|biye|eng:fra:spa:por:may:bio-, rus:био- (bio-), tur:biyo-|
 |oriental dragon|lung|zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|
 |origin (source)|asle|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |orphan|yatim|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
@@ -630,6 +638,7 @@
 |palm tree|palme|deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|
 |papaya|papay|eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), Hin:पपीता (papītā), ben:পেঁপে (pẽpe)|
 |paper (material)|kagaze|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
+|parameter (argument, input variable)|param|eng:parameter, fra:paramètre, spa:por:parametro, jpn:パラメーター (paramētā), kor:파라미터 (paramiteo)|
 |park (garden)|parke|eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|
 |parrot (parakeet)|papagay|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|
 |part (fraction)|fen|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
@@ -767,6 +776,8 @@
 |sea|samude|khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|
 |self|tan|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
 |self|ze|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
+|sentence (phrase)|fraze|fra:eng:phrase, por:frase, rus:фраза (fraza)|
+|sentence (phrase)|jumle|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |series (sequence)|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
 |service|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |sesame|sesam|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|
@@ -782,6 +793,7 @@
 |Shintoism|xindawistia|jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|
 |shirt|kamis|spa:por:camisa, ara:(qamīṣ), hin:क़मीज़ (kāmīz), may:kemeja|
 |shit (feces)|xite|eng:shit, zho:屎 (shǐ), yue:屎 (si2)|
+|shogun|xogun|jpn:将軍 (shōgun), eng:shogun|
 |shopping|xope|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |short (brief)|korti|spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|
 |should (ought)|xudu|eng:should|
@@ -790,6 +802,7 @@
 |shower|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |sibling (brother or sister)|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |sickness (illness, disease)|patia|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
+|side (periphery, accompaniment)|ben|zho:边 (biān), vie:bên|
 |sit|sida|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
 |sizzle|ziza|zho:zizi eng:sizzle|
 |skill (art, competence)|xute|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
@@ -894,6 +907,7 @@
 |tikka (piece)|tike|fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|
 |time (period, epoch, era)|zaman|tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hin:समय (samay)|
 |time (turn, occasion)|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
+|tin|esten|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
 |tobacco|tabake|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|
 |tomato|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
 |tone (note, pitch, shade)|ton|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
@@ -944,6 +958,7 @@
 |visitation (visit)|vizite|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
 |voodoo|vodun|ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|
 |vote (ballot)|vote|eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|
+|vowel|vokal|spa:vocal. por:vogal. may:vokal.|
 |vulva|vulve|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
 |wait|denga|zho:等 (děng),  yue:等 (dang2)|
 |walk (march)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
@@ -953,6 +968,7 @@
 |wash|waxa|eng:wash, deu:waschen, zho:洗 (xǐ)|
 |watermelon|arbuze|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |water|suy|zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|
+|wave|onde|spa:por:ita:onda, fra:onde, may:ombak|
 |wax|mum|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |way (road)|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
 |weapon (arms)|arme|fra:arme, eng:arms, spa:por:arma|

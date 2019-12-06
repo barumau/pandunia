@@ -3,6 +3,7 @@
 |----------|----------|----------|
 |-a (-e)|-i|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-i, hun:-i|
 |-i (-iĝi)|-u|hau:wol:-u, swa:-wa|
+|abelo aŭ vespo|vespe|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |acida|suan|zho:酸 (suān)|
 |adreso|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
 |aero|air|eng:fra:spa:air, por:ar|
@@ -44,7 +45,7 @@
 |astmo|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |atako (agreso)|agres|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
 |atendi|denga|zho:等 (děng),  yue:等 (dang2)|
-|aventuro|abentur|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
+|aventuro|aventur|deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|
 |avida|tami|ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|
 |avokado|awakate|nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|
 |azeno|gade|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|
@@ -53,7 +54,6 @@
 |aŭtuno|oton|fra:automne, spa:otoño, por:outono, eng:autumn|
 |aŭ|o|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|
 |babili|blabla|fra:blablater, eng:babble, spa:blablablá|
-|badem|badam|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |baki|beka|eng:bake, hin:पकाना (pakānā), rus:печь (peč), deu:backen|
 |balono|balon|fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân|
 |bambuo|banse|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|
@@ -171,11 +171,13 @@
 |fiŝo|fix|eng:fish, deu:Fisch|
 |fjordo|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |flago|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
+|flanko (latero)|ben|zho:边 (biān), vie:bên|
 |floro|pul|hin:फूल (phul), ben:ফুল (phul)|
 |fojo|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
 |formiko|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
 |forno|tanur|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |forta|forti|fra:fort, spa:fuerte, por:forte, eng:force|
+|fosi|kava|spa:por:cavar, eng:excavar, fra:excaver|
 |frato aŭ fratino|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |frenezeco|folia|eng:folly, fra:folie, ita:follia|
 |freŝa|tazi|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), kaz:таза (taza), fas:(tâze)|
@@ -227,7 +229,7 @@
 |honoro (respekto)|onor|eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|
 |honto|xarme|fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
 |horo|hor|fra:heure, eng:hour, spa:por:hora|
-|hotelo|hotel|eng:deu:spa:por:may:hotel. fra:hôtel. hin:होटल (hoṭal). ben:হোটেল (hoṭel). jpn:ホテル (hoteru). kor:호텔 (hotel). rus:отель (otel).|
+|hotelo|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |humuro|yumor|rus:юмор (yumor), uzb:yumor, spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |ideo|idey|fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|
 |ido (infano)|pute|tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|
@@ -270,6 +272,7 @@
 |kaverno|guhe|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (tguha), hin:गुफ़ा (gufā), may:gua|
 |kaŝtano|kastan|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|
 |kaŭĉuko|gom|spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|
+|kerno (koro)|kerne|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
 |keĉupo|kecape|yue:茄汁 (kezap), eng:ketchup, hin:केचप (kecap), rus:кетчуп (ketčup), jpn:ケチャップ (kechappu), tgl:ketsap|
 |kialo|sabe|heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|
 |kio?|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
@@ -431,6 +434,7 @@
 |okupata|bizi|eng:busy|
 |olivo|zaitun|ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|
 |ombro|saye|fas:(sāye), urd:(sāyā), pas:(sāyá), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
+|ondo|onde|spa:por:ita:onda, fra:onde, may:ombak|
 |opinio|ray|ara:(raʾy), fas:(ra'y), hin:राय (rāy), tur:rey|
 |oranĝo|oranje|eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, Rus:оранжевый (oranževiy)|
 |ordono|komande|eng:command, fra:commandement, rus:команда (komanda), spa:mandato|
@@ -527,6 +531,7 @@
 |registraĵo|defte|tur:scr:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
 |rekta|orti|eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|
 |religio|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|reno|nefre|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |respondo|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
 |reto|nete|eng: net, deu: Netz|
 |rezervo|rezerve|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
@@ -683,6 +688,7 @@
 |viŝilo|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |vojaĝo|safar|ara:(safar), hin:सफ़र (safar), Tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|
 |vojo|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
+|vokalo|vokal|spa:vocal. por:vogal. may:vokal.|
 |volo|ice|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
 |volo|wan|eng:want, kor:원하다 (wonhada)|
 |vulpo|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|

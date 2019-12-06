@@ -8,8 +8,6 @@
 a - sed  
 ##a
 abace - alfabeto  
-abentur - aventuro  
-abenturer - aventuristo  
 abla - povi  
 able - povo  
 abli - ebla  
@@ -75,6 +73,7 @@ arbe - arbo
 arbeparke - arboĝardeno  
 arbuze - akvomelono  
 are - areo  
+argente - arĝento  
 argentinia - Argentino  
 argon - argono  
 aria - ejo  
@@ -95,6 +94,8 @@ atom - atomo
 auda - aŭdi (aŭskulti)  
 australia - Aŭstralio  
 autemoti - memmova  
+aventur - aventuro  
+aventurer - aventuristo  
 awakate - avokado  
 ay - aj (alas)  
 ##b
@@ -103,7 +104,6 @@ babuce - pantoflo
 bace - infano  
 bada - sekvi  
 badala - interŝanĝi  
-badam - badem  
 badan - korpo  
 badani - korpa  
 badawi - beduino (nomado)  
@@ -136,7 +136,7 @@ barde - barbo
 bari - peza  
 barium - bario  
 barka - gratuli  
-barometal - pezmetalo  
+barmetal - pezmetalo  
 barti - Barata  
 bartia - Baratio  
 barude - pulvo  
@@ -170,9 +170,11 @@ bekeria - bakejo
 belgia - Belgio  
 belizia - Beliceo  
 belorusia - Belorusio  
+ben - flanko (latero)  
 bence - benko  
 benda - ligi  
 bende - bandaĝo (vindo)  
+beni - flanka (latera)  
 benzin - benzino  
 berande - verando  
 berete - bereto  
@@ -254,7 +256,7 @@ car - kvar (4)
 cate - tekto  
 cay - teo  
 ceka - kontroli  
-centi - centono  
+cent- - centono  
 cerium - cerio  
 cerni - nigra  
 cesium - cezio  
@@ -277,7 +279,7 @@ cune - printempo
 cupa - suĉi  
 cuta - eliri  
 cute - eliro  
-cutomun - elirejo  
+cutmun - elirejo  
 cuza - elekti  
 cuze - elekto  
 ##d
@@ -306,7 +308,7 @@ datebanke - datumbanko
 daw - vojo  
 day - granda  
 daysamude - oceano  
-deci - dekono  
+dec- - dekono  
 defa - defendi  
 defe - defendo  
 defer - defendanto (defendisto)  
@@ -316,9 +318,9 @@ deftia - registro (konto)
 deka - kovri  
 deke - kovrilo  
 deme - popolo  
+demegrafia - demografio  
 demekrati - demokratia  
 demekratia - demokratio  
-demografia - demografio  
 demon - demono  
 den - tago  
 deneniam - tagmanĝo  
@@ -487,8 +489,6 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum - forumo  
-fos - foso  
-fosa - fosi  
 fosfor - fosforo  
 fotegraf - foto  
 fotegrafer - fotisto  
@@ -535,6 +535,7 @@ garda - gardi
 garder - gardisto  
 garmi - varma  
 gas - gaso  
+gatemate - solido  
 gati - malmola  
 gawi - alta  
 gayania - Gujano  
@@ -773,6 +774,8 @@ kastor - kastoro
 kata - tranĉi  
 katalunia - Katalunio  
 katan - glavo  
+kava - fosi  
+kave - foso  
 kaway - ĉarma  
 kay - malferma  
 kaya - malfermi  
@@ -783,6 +786,12 @@ keci - ĝentila
 keke - kuko  
 kel - sporto  
 kenar - rando (orlo)  
+kerne - kerno (koro)  
+kerni arme - ydinase  
+kerni energe - ydinenergia  
+kerni fenia - ydinfissio  
+kerni fizikia - ydinfysiikka  
+kerni liwunia - ydinfuusio  
 kex - haro  
 kexosabun - ŝampuo  
 ki ren - kiu?  
@@ -790,7 +799,7 @@ ki sate - kiam?
 ki xey - kio?  
 ki yangi - kial?  
 kil - mil  
-kilometre - kilometro  
+kilmetre - kilometro  
 kimia - ĥemio (kemio)  
 kirmi - ruĝa  
 kitabe - skribo  
@@ -955,8 +964,8 @@ me - mi
 medi - mezo  
 medika - sanigi (kuraci)  
 mediker - kuracisto  
+meg- - mega-  
 megi - miliono  
-mego- - mega-  
 meh - ŝafo  
 mel - mielo  
 melodia - melodio  
@@ -978,10 +987,10 @@ mianmia - Birmo
 mien - nudelo  
 migan - mandarino  
 migre - migrado  
-mikro- - mikro-  
-mili- - mili-  
-milimetre - milimetro  
+mikr- - mikro-  
+mil- - mili-  
 milke - lakto  
+milmetre - milimetro  
 min - malpli  
 min ko bas - maltro  
 minar - turo  
@@ -1015,15 +1024,16 @@ morte - morto
 morter - mortigisto  
 morti - morta  
 mosim - sezono  
-moskowium - moskovio  
+moskovium - moskovio  
 mote - movo  
 moter - motoro  
 muh - bovo  
 muhomanse - bovaĵo  
 muke - vizaĝo  
 mul - komenco  
+mula - komenci  
 mumia - mumio  
-mumonur - kandelo  
+mumnur - kandelo  
 mun - pordo  
 musa - devigi  
 muse - devo  
@@ -1047,6 +1057,7 @@ namlekse - substantivo
 nanas - ananaso  
 natre - natrio  
 nawati - naūatla  
+nefre - reno  
 nen - jaro  
 nenmesden - dato  
 neon - neono  
@@ -1096,11 +1107,13 @@ oganeson - oganesono
 okey - akceptebla (okej)  
 okse - oksigeno  
 okside - oksido  
+onde - ondo  
 onor - honoro (respekto)  
 onori - respektinda  
 or - orelo  
 oranje - oranĝo  
 oranji - oranĝa  
+oritis - otito  
 orti - rekta  
 oseania - Oceanio  
 osme - osmozo  
@@ -1363,6 +1376,7 @@ supra - superiri
 supris - surprizo  
 suxe - suŝio  
 suy - akvo  
+suygas - vaporo  
 suyporte - haveno  
 ##t
 tabake - tabako  
@@ -1450,12 +1464,14 @@ urse - urso
 uza - uzi  
 ##v
 vagin - vagino  
+vaginitis - vaginito  
 vale - valo  
 vaze - vazo  
 veje - legomo  
 vente - problemo  
 veri - vera  
 version - versio (toisinto)  
+vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
 vin - vino  
 viselekse - pronomo  
@@ -1463,6 +1479,7 @@ visi - vic-
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
+vokal - vokalo  
 vulve - vulvo  
 ##w
 wada - promesi  

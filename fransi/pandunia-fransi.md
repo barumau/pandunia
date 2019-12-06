@@ -6,13 +6,12 @@
 a - mais (bien que)  
 ##a
 abace - alphabet  
-abentur - aventure  
-abenturer - aventurier  
 abla - pouvoir (être capable)  
 able - capacité (compétence)  
 abli - possible  
 ablo - peut-être  
 acinium - actinium  
+acion - action  
 adali - juste  
 adalia - justice  
 adres - adresse  
@@ -71,8 +70,10 @@ arbe - arbre
 arbeparke - arboretum, pépinière  
 arbuze - pastèque  
 are - aire (superficie)  
+argente - argent  
 argentinia - Argentine  
 argon - argon  
+argum - argument  
 arize - riz  
 arme - arme  
 arsen - arsenic  
@@ -84,12 +85,14 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+aventur - aventure  
+aventurer - aventurier  
 ay - aïe!  
 ##b
 babe - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
-badam - almond  
+badam - amande  
 badan - corps  
 bagaje - bagage  
 bagre - tigre  
@@ -120,6 +123,7 @@ bax - langue
 bazar - marché (bazar)  
 baze - base  
 bebe - bébé  
+ben - coté  
 bere - baie  
 bina - construire  
 bir - bière  
@@ -136,7 +140,7 @@ buke - livre
 ca - de  
 canse - chance  
 cay - thé  
-cayokupe - tasse à thé  
+caykupe - tasse à thé  
 cerni - noir  
 cis - fromage  
 ##d
@@ -151,6 +155,7 @@ dew - dieu
 dokum - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
+duga - lire  
 dul - deux  
 dunia - monde  
 e - et  
@@ -159,6 +164,7 @@ eletre - électricité
 em - unité fondamentale  
 esa - être  
 eskulter - sculpteur  
+esten - étain  
 europe - Europe  
 europi - européen  
 ewanjil - évangile  
@@ -179,8 +185,10 @@ gar - si
 gas - gaz  
 gati - dur  
 gazel - gazelle  
+gim - or  
 gitar - guitare  
 gol - but  
+grupe - groupe  
 gul - goule  
 gunden - palais  
 gute - genou  
@@ -202,6 +210,7 @@ hule - renard
 ##i
 insan - être humain  
 insanistia - humanisme  
+itis  - inflammation  
 iva - avoir tendance à  
 ive - tendance  
 ##j
@@ -226,7 +235,10 @@ karbondulokside - dioxyde de carbone
 karde - carte  
 karte - carte  
 kartegrafia - cartographie  
+kava - creuser  
+kave - fosse  
 ke - que (quoi)  
+kerne - coeur  
 kimia - chimie  
 kirmi - rouge  
 kitaba - écrire  
@@ -296,6 +308,7 @@ mel - miel
 mem - mémoire  
 mema - se rappeler (se remémorer)  
 memula - oublier  
+mening - méninge  
 mes - mois  
 mester - maître  
 meze - table  
@@ -307,6 +320,7 @@ mome - nous
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
+nefre - rein  
 neuresel - neurone  
 nida - avoir besoin de  
 nide - besoin  
@@ -322,8 +336,11 @@ novi - nouveau
 o - ou  
 ##o
 okside - oxyde  
+onde - onde  
+or - oreille  
 oranje - orange (fruit)  
 oranji - orange (couleur)  
+oritis - otite  
 ortegoni - orthogonal  
 orti - droit (rectiligne)  
 oton - automne  
@@ -338,6 +355,7 @@ panir - fromage blanc
 papagay - perroquet  
 papay - papaye  
 pape - pere (papa)  
+param - paramètre  
 parce - fragment  
 parke - parc  
 pasporte - passeport  
@@ -370,8 +388,10 @@ razonu - tener sentido
 reste - reste  
 retra - retourner (revenir)  
 retretikete - Aller-retour  
+rici - riche  
 rim - rime  
 rize - racine  
+robote - robot  
 ruhe - psyché  
 ruhelojia - psychologie  
 ##s
@@ -405,6 +425,7 @@ sundari - beau
 sundaria - beauté  
 susan - lys  
 suy - eau  
+suygas - vapeur d’eau  
 ##t
 tarje - traduction  
 tazi - frais  
@@ -434,6 +455,7 @@ uranium - uranium
 urse - ours  
 ##v
 vagin - vagine  
+vaginitis - vaginite  
 vampir - vampire  
 vaze - vase  
 vejeniamiste - végétarien  
@@ -442,8 +464,10 @@ vente - problème
 venti - problématique  
 veri - vrai  
 verme - ver  
+vespe - abeille ou guêpe  
 vida - voir  
 virus - virus  
+vokal - voyelle  
 vulve - vulve  
 ##w
 wal - mur  

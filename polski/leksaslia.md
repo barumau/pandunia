@@ -14,7 +14,7 @@
 |analiza|analis|eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|
 |ananans|nanas|may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|
 |animal|hewan|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
-|antonim|antonim|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|antonim|antenam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |arbuz|arbuze|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |argument, teza|tese|eng:thesis, fra:thèse, spa:tesis|
 |astma|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
@@ -205,7 +205,7 @@
 |hipopotam|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
 |hmm|hem|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |hokej|hoke|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
-|hotel|hotel|eng:deu:spa:por:may:hotel. fra:hôtel. hin:होटल (hoṭal). ben:হোটেল (hoṭel). jpn:ホテル (hoteru). kor:호텔 (hotel). rus:отель (otel).|
+|hotel|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |humor|yumor|rus:юмор (yumor), uzb:yumor, spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |hę?, co?, pardon?|he|fra:por:hein, jpn:e|
 |i, oraz|e|fra:et, por:e, zho:和 (hé)|
@@ -369,7 +369,7 @@
 |migracja|migre|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
 |miksować, mieszać|mixa|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
 |minerał, ruda|kuang|zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|
-|mistrz (ekspert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister|
+|mistrz (ekspert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |miód|mel|por:mel, fra:spa:miel, ell:μέλι (méli)|
 |mięczak (morski bezkręgowiec)|moluske|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|
 |mięso|manse|hin:मांस (māns), urd:(māns), ben:মাংস (maŋs), tel:(māṃsamu), rus:мясо (myaso), pol:mięso|
@@ -609,7 +609,7 @@
 |płaszcz|kote|eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|
 |płeć|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |płuco|pulmon|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
-|rachunek (faktura)|bil|eng:bill, hin:बिल (bil)|
+|rachunek (faktura)|bil|eng:bill, hin:बिल (bil), may:bil|
 |rachunek (formalny system obliczeń)|kalkulia|fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|
 |rampa|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |ranek, rano, poranek|sube|ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|
@@ -840,6 +840,7 @@
 |wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać|kurbe|fra:courbe spa:por:curva, eng:curve, eus:kurba|
 |wygląd|rupe|hin:रूप (rūp), may: rupa, tha: รูป /rūp/, khm:រូប (rūp)|
 |wyjśćie, opuszczenie|cute|zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā)|
+|wykopać, kopać, wydobyć, wydobywać, wykopywać|kava|spa:por:cavar, eng:excavar, fra:excaver|
 |wymieniać, wymienić, zamieniać, zamienić|badala|ara:(badala), hin:बदला (badlā), hau:badali, swa:badili|
 |wynająć, wynajmować, zatrudnić, zatrudniać|kire|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
 |wyrok|hakim|ara:(qāḍin), hau:alƙali, fas:(qāzi), eng:qadi, swa:kadhi|
@@ -878,6 +879,7 @@
 |zawias, oś|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |zbiornik (pojemnik, rezerwuar)|tanke|eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|
 |zbudować, budować, konstruować|bina|ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|
+|zdanie, zwrot, wyrażenie|fraze|fra:eng:phrase, por:frase, rus:фраза (fraza)|
 |zdrada małżeńska, cudzołóstwo|zine|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |zero, nic, żaden|nol|rus:ноль (nol'), may:tkm:nol, deu:null, eng:null|
 |zespół (drużyna, grupa)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|

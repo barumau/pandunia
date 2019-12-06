@@ -1,8 +1,6 @@
 # pandunia-rusi
 ##a
 abace - алфавит  
-abentur - авантюра  
-abenturer - авантюрист  
 abli - возможный  
 adali - справедливый  
 adalia - справедливость  
@@ -33,6 +31,7 @@ arane - паук
 arbe - дерево  
 arbuze - арбуз  
 are - площадь  
+argum - аргумент (обосновани)  
 arize - рис  
 arte - искусство  
 artiste - художник (артист)  
@@ -40,10 +39,12 @@ asan - поза
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
+aventur - авантюра  
+aventurer - авантюрист  
 ##b
 babe - глава  
 bace - ребёнок  
-badam - amêndoa  
+badam - миндаль  
 badan - тело  
 bagaje - багаж  
 bagre - тигр  
@@ -89,7 +90,7 @@ buke - книга
 ca - из (от)  
 canse - возможность (шанс)  
 cay - чай  
-cayokupe - чайная чашка  
+caykupe - чайная чашка  
 cerni - чёрный  
 cini - хань  
 cis - сыр  
@@ -103,6 +104,7 @@ daysamude - океан
 destin - судьба  
 dew - бог  
 domi - домашний  
+duga - читать  
 dul - два  
 dul o tin - пара  
 dunia - мир (свет)  
@@ -118,6 +120,7 @@ firuze - бирюза
 fitelojia - ботаника  
 fora  - сверлить (бурить)  
 fotegrafia - фотография  
+fraze - фраза  
 futebol - футбол  
 ##g
 galaksia - галактика  
@@ -126,8 +129,11 @@ gas - газ
 gati - твёрдый  
 gazel - газель  
 gemer - игрок (геймер)  
+gim - золото (аурум)  
 gitar - гитара  
 gol - цель  
+grom - гром  
+grupe - группа  
 gul - гуль (вурдалак)  
 gula - глотать  
 gunden - дворец  
@@ -143,7 +149,7 @@ hate - рука
 hay - жизнь  
 hazin - сокровище (казна)  
 hewan - животное  
-hewanparke - rus:зоопарк (zoopark).  
+hewanparke - зоопарк  
 hijabe - вуаль  
 hisaba - вычислять  
 hoke - хоккей  
@@ -153,12 +159,14 @@ hule - лиса
 ##i
 insan - человек  
 insanistia - гуманизм  
+itis  - воспаление  
 ive - тенденция  
 ##j
 je - который  
 jinse - род  
 jiraf - жираф  
 jul - джоуль (J)  
+jumle - фраза  
 jung - центр  
 jungogia - Китай  
 jus - сок  
@@ -177,6 +185,8 @@ karde - карта
 karte - карта  
 kartegrafia - картография  
 katan - меч  
+kava - копать  
+kave - яма  
 ke - что  
 kimia - химия  
 kirmi - красный  
@@ -246,12 +256,14 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+mixa - мешать  
 molia - мельница  
 moluske - моллюск  
 mome - мы  
 ##n
 nade - река  
 nasia - нация  
+nefre - почка  
 neuresel - нейрон  
 nida - нуждаться  
 nide - нужда  
@@ -269,6 +281,7 @@ o - или
 okside - окись (оксид)  
 oranje - апельсин  
 oranji - оранжевый  
+oritis - отит  
 ortegoni - ортогона́льный  
 orti - прямой  
 osme - осмос  
@@ -280,6 +293,7 @@ panir - творог
 papagay - попугай  
 papay - папайя  
 pape - отец (папа)  
+param - параметр (аргумент)  
 parce - кусок  
 parke - парк  
 pasporte - паспорт  
@@ -311,6 +325,7 @@ reste - остаток
 retra - возвращаться  
 rim - рифма  
 rize - корень  
+robote - робот  
 ruhe - душа (дух)  
 ruksake - рюкзак  
 ##s
@@ -346,6 +361,7 @@ sundari - красивый
 sundaria - красота  
 susan - лилия  
 suy - вода  
+suygas - пар  
 ##t
 tarje - перевод  
 tas - блюдо (таз)  
@@ -372,6 +388,7 @@ umur - возраст
 ura - ура  
 ##v
 vagin - влагалище (вагина)  
+vaginitis - вагинит  
 vampir - вампир (упырь)  
 vaze - ваза  
 vejeniamiste - вегетарианец  
@@ -382,6 +399,7 @@ vida - видеть
 virus - вирус  
 viruslojia - вирусология  
 vize - виза  
+vokal - гласный  
 vulve - вульва  
 ##w
 wal - стена (вал)  

@@ -1,5 +1,7 @@
 # espani-pandunia
 ##a
+abeja o avispa - vespe  
+acción - acion  
 acento - aksente  
 acordarse - mema  
 acuerdo - samray  
@@ -10,9 +12,9 @@ alcohólico - alkoli
 alfiler (aguja) - pin  
 alga - alge  
 alicate - pinser  
+almendra - badam  
 altar - altar  
 aló - halow  
-amande - badam  
 anaranjado - oranji  
 anciano - lawi  
 ancla - anker  
@@ -20,6 +22,7 @@ animal (bestia) - hewan
 análisis - analis  
 araña - arane  
 arboreto - arbeparke  
+argumento - argum  
 arma - arme  
 armario - almar  
 arroz - arize  
@@ -28,8 +31,8 @@ artista - artiste
 asma - asme  
 aspirina - aspirin  
 ataque - agres  
-aventura - abentur  
-aventurero - abenturer  
+aventura - aventur  
+aventurero - aventurer  
 ay! - ay  
 ##b
 babor - botolefte  
@@ -63,6 +66,7 @@ carcelero - prizoner
 carne - manse  
 cartografía - kartegrafia  
 carvis (alcaravea) - karawe  
+cavar (excavar) - kava  
 cebolla - piaze  
 cebra - zebre  
 centro - jung  
@@ -77,12 +81,14 @@ citología - selelojia
 ciudad - site  
 colocar (poner) - loka  
 color - rang  
+comenzar (iniciar, empezar) - mula  
 comportamiento (conducta) - manir  
 comprar - xopa  
 compras (shopping) - xope  
 conducir - xofa  
 conductor (chofer) - xofer  
 copa (vaso) - kupe  
+corazón (núcleo) - kerne  
 corona - koron  
 correcto (justo) - sahi  
 cosa - xey  
@@ -127,6 +133,7 @@ escultor - eskulter
 eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
+estaño - esten  
 estribor - boteraite  
 etapa (fase) - faze  
 etimología - leksaslia  
@@ -137,6 +144,7 @@ feliz - suki
 filosofía - filosofia  
 fiordo - fiorde  
 flor - pul  
+fosa - kave  
 fotografía - fotegrafia  
 fragmento - parce  
 fuego - pir  
@@ -147,6 +155,7 @@ gas - gas
 gas lacrimógeno - kansuygas  
 gato - maw  
 gengibre - zinje  
+grupo - grupe  
 guitarra - gitar  
 gul - gul  
 género - jinse  
@@ -168,6 +177,7 @@ hurra - ura
 ##i
 impermeable - barxokote  
 importante - hami  
+inflamación - itis   
 insecto - koncung  
 intentar (probar) - testa  
 invernal - zimi  
@@ -184,11 +194,13 @@ justo - adali
 ##k
 kétchup - kecape  
 ##l
+lado - ben  
 ladrón - luter  
 largo - long  
 lasaña - lazanye  
 leche - milke  
 lechuga - letis  
+leer - duga  
 lengua (idioma) - bax  
 libro - buke  
 libélula - libel  
@@ -217,6 +229,7 @@ marítimo - samudi
 mas - max  
 medio - mede  
 memoria - mem  
+meninge - mening  
 mesa - meze  
 meta (gol) - gol  
 mez - mes  
@@ -254,12 +267,16 @@ o - o
 ##o
 océano - daysamude  
 olvidar - memula  
+onda - onde  
 oportunidad (chance) - canse  
 ordenador - komputer  
+oreja - or  
 origen - asle  
 original - asli  
+oro - gim  
 ortogonal - ortegoni  
 oso - urse  
+otitis - oritis  
 otoño - oton  
 otro - ali  
 ##p
@@ -275,6 +292,7 @@ parasol - barxocate
 parasol - solcate  
 parque - parke  
 participante - parter  
+parámetro - param  
 pasaporte - pasporte  
 pastel (pay) - pay  
 patología - patelojia  
@@ -293,6 +311,7 @@ piel - pil
 pila (batería) - batre  
 piratería - piratia  
 piña - nanas  
+plata - argente  
 plátano (banana) - banan  
 pocos - xaw  
 porto - porte  
@@ -315,7 +334,9 @@ raiz - rize
 raza - ras  
 recto - orti  
 reunión (junta, mitin) - mite  
+rico - rici  
 rima - rim  
+riñon - nefre  
 rodilla - gute  
 rojo - kirmi  
 rápido - rapidi  
@@ -338,6 +359,7 @@ sin - na
 sociedad - socia  
 soldado - lasker  
 sí - si  
+sólido - gatemate  
 ##t
 tapón (tapa) - tape  
 tendencia - ive  
@@ -345,6 +367,7 @@ tender - iva
 tigre - bagre  
 toalla - towal  
 tomate - tomate  
+tonelada - megegram  
 trabajador (obrero) - werker  
 trabajar - werka  
 trabajo - werke  
@@ -353,8 +376,10 @@ tú - te
 ##u
 ##v
 vagina - vagin  
+vaginitis - vaginitis  
 valle - vale  
 vampiro - vampir  
+vapor - suygas  
 vegetariano - vejeniamiste  
 velo - hijabe  
 ver - vida  
@@ -364,6 +389,7 @@ verduras - coy
 verme - verme  
 vida - hay  
 vidrio (cristal) - kance  
+vocal - vokal  
 volver - retra  
 votar - vota  
 voto - vote  

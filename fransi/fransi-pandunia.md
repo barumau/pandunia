@@ -1,9 +1,11 @@
 # fransi-pandunia
 ##a
+abeille ou guêpe - vespe  
 accent - aksente  
 accord - samray  
 acheter - xopa  
 actinium - acinium  
+action - acion  
 adresse - adres  
 adulte - adulte  
 Afghanistan - afgania  
@@ -22,9 +24,9 @@ algue - alge
 Aller-retour - retretikete  
 allophone - alefone  
 allô - halow  
-almond - badam  
 alphabet - abace  
 aluminium - alumin  
+amande - badam  
 Amhara (groupe ethnique et langue éthiopienne) - amari  
 amour (affection) - am  
 ampoule (fiole) - ampul  
@@ -49,9 +51,11 @@ arachnophobie - aranfobia
 araignée - arane  
 arboretum, pépinière - arbeparke  
 arbre - arbe  
+argent - argente  
 argent - pese  
 Argentine - argentinia  
 argon - argon  
+argument - argum  
 argument - tese  
 arme - arme  
 armée - laskeria  
@@ -67,8 +71,8 @@ autel - altar
 automne - oton  
 autre - ali  
 autrement - alo  
-aventure - abentur  
-aventurier - abenturer  
+aventure - aventur  
+aventurier - aventurer  
 avoir - tena  
 avoir besoin de - nida  
 avoir tendance à - iva  
@@ -136,6 +140,7 @@ chose - xey
 ciel - saman  
 cime (pic, sommet) - pike  
 citron - limon  
+coeur - kerne  
 comment - ko?  
 comportement (manière) - manir  
 comprendre (réaliser) - aha  
@@ -144,9 +149,11 @@ corps - badan
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
+coté - ben  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
+creuser - kava  
 croix - krus  
 crème - krem  
 crème glacée - aisekrem  
@@ -188,6 +195,7 @@ fiord - fiorde
 fleur - pul  
 football - futebol  
 forer (percer) - fora   
+fosse - kave  
 fourmi - maye  
 fragment - parce  
 frais - tazi  
@@ -204,6 +212,7 @@ genre (espèc) - jinse
 gingembre - zinje  
 giraffe - jiraf  
 goule - gul  
+groupe - grupe  
 guitare - gitar  
 ##h
 heure - hor  
@@ -219,6 +228,7 @@ hôtel - hotel
 ##i
 imperméable - barxokote  
 important - hami  
+inflammation - itis   
 insecte - koncung  
 ##j
 jade - yuke  
@@ -240,6 +250,7 @@ lasagne - lazanye
 lexical - leksi  
 libellule - libel  
 lieu - loke  
+lire - duga  
 liste - liste  
 livre - buke  
 local - loki  
@@ -279,6 +290,7 @@ mur - wal
 mât - maste  
 mère (maman) - mame  
 mémoire - mem  
+méninge - mening  
 ##n
 nation - nasia  
 neige - him  
@@ -299,13 +311,17 @@ oeuf - ande
 oignon - piaze  
 oiseau - pakse  
 ombrelle (parasol) - solcate  
+onde - onde  
 opposant (antagoniste) - anter  
+or - gim  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 ordinateur - komputer  
+oreille - or  
 origine - asle  
 originel - asli  
 orthogonal - ortegoni  
+otite - oritis  
 ou - o  
 oublier - memula  
 oui - si  
@@ -321,6 +337,7 @@ papaye - papay
 papier - kagaze  
 papier peint - walpapir  
 paquet - pake  
+paramètre - param  
 parapluie - barxocate  
 parc - parke  
 parler - loga  
@@ -364,12 +381,15 @@ que (quoi) - ke
 ##r
 race - ras  
 racine - rize  
+rein - nefre  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
+riche - rici  
 rime - rim  
 rivière (fleuve) - nade  
 riz - arize  
+robot - robote  
 rouge - kirmi  
 ruban (bande) - tepe  
 s'installer (déménager) - migru  
@@ -403,7 +423,7 @@ série - serye
 ##t
 table - meze  
 tarte - pay  
-tasse à thé - cayokupe  
+tasse à thé - caykupe  
 technique - tekne  
 technologie - teknelojia  
 tendance - ive  
@@ -432,7 +452,9 @@ unité fondamentale - em
 uranium - uranium  
 ##v
 vagine - vagin  
+vaginite - vaginitis  
 vampire - vampir  
+vapeur d’eau - suygas  
 vase - vaze  
 Venezuela - venezolia  
 ver - verme  
@@ -449,6 +471,7 @@ vocabulaire (lexique) - leksia
 voile - hijabe  
 voir - vida  
 vouloir - wana  
+voyelle - vokal  
 vrai - veri  
 vulve - vulve  
 végétarien - vejeniamiste  
@@ -473,6 +496,7 @@ zèbre - zebre
 épingle - pin  
 épreuve (test) - teste  
 équipe - tim  
+étain - esten  
 étoile - xing  
 étymologie - leksaslia  
 été - lete  

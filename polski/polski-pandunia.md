@@ -46,8 +46,8 @@ animal - hewan
 animować - anima  
 Antarktyka - antartia  
 antena - anten  
-antonim - antonim  
-antychryst - antokriste  
+antonim - antenam  
+antychryst - antekriste  
 Antyle Holenderskie - nederlandi antilia  
 Arabia Saudyjska - saudi arabia  
 arabski - arabi  
@@ -139,7 +139,7 @@ Biblia - biblia
 biblioteka - kitabia  
 biedny, mizerny - miskin  
 bilet - tikete  
-bilion, giga- - gigo-  
+bilion, giga- - gig-  
 biologia, nauka o życiu - biyolojia  
 biszkopt, ciastko - biskute  
 biurko - werkemeze  
@@ -208,7 +208,7 @@ cecha, właściwość, parametr - sife
 cel - gol  
 cement - semente  
 centrować, skupić, skupiać - junga  
-centy-, procent, na sto, setna część - centi  
+centy-, procent, na sto, setna część - cent-  
 cer - cerium  
 Ceres (planeta karłowata) - seres  
 cez - cesium  
@@ -304,10 +304,10 @@ data - nenmesden
 dać mieszkanie (zakwaterować) - doma  
 dać, dawać - dona  
 debatować, prowadzić dyskurs - lona  
-decy-, dziesiąta część - deci  
+decy-, dziesiąta część - dec-  
 defekować, srać - kaka  
 delikatny, cienki, lekki - fain  
-demografia - demografia  
+demografia - demegrafia  
 demokracja - demekratia  
 demokrata - demekratiste  
 Demokratyczna Republika Konga - kinsasi kongolia  
@@ -351,7 +351,7 @@ droga, szosa, ulica - daw
 drożdże - hamir  
 drużyna - tim  
 drzewo - arbe  
-drzwi wyjściowe - cutomun  
+drzwi wyjściowe - cutmun  
 drzwi, brama, portal - mun  
 dualizm - dulistia  
 dubn - dubnium  
@@ -392,7 +392,7 @@ dziwny - bizari
 dzięki, dzięki ci - danke  
 dziękować - danka  
 dziś, dzisiaj - zay den  
-dół, jama, wydobycie, wykop, wykopalisko - fos  
+dół, jama, wydobycie, wykop, wykopalisko - kave  
 dół, spód - tal  
 długi - long  
 długość - longia  
@@ -509,7 +509,7 @@ glutaminian sodu - vijin
 gluten - gluten  
 gniew, furia - furia  
 godzina - hor  
-goniometr (kątomierz) - konometer  
+goniometr (kątomierz) - gonmeter  
 gorączka - febre  
 gotować, szykować jedzenie - kuka  
 gotowy - redi  
@@ -745,8 +745,8 @@ kiedy? - ko?
 kierunek - dixe  
 kieszeń - jebe  
 kiełbasa - sosis  
-kilogram (kg) - kilogram  
-kilometr - kilometre  
+kilogram (kg) - kilgram  
+kilometr - kilmetre  
 kiosk - kioske  
 Kirgistan - kirgizia  
 Kiribati - kiribatia  
@@ -872,7 +872,7 @@ ktoś - koy ren
 który? - ki  
 Kuba - kubia  
 kubek - kupe  
-kubek do herbaty - cayokupe  
+kubek do herbaty - caykupe  
 kucharz - kuker  
 kuchnia - kukeria  
 kukurydza - mais  
@@ -1022,8 +1022,8 @@ media - media
 media społecznościowe - soci media  
 medycyna - medikia  
 medytować; dumać, rozmyślać, zastanawiać się - medita  
-mega- - mego-  
-megawat - megowate  
+mega- - meg-  
+megawat - megwate  
 meitner - maitnerium  
 Meksyk - mexikia  
 melodia - melodia  
@@ -1031,7 +1031,7 @@ melodyczny - melodi
 Merkury - budan  
 mesjański - kristi  
 metal - metal  
-metal ciężki - barometal  
+metal ciężki - barmetal  
 metoda, sposób - metode  
 metr - metre  
 metro - tuneltren  
@@ -1049,12 +1049,12 @@ mieć (posiadać) - malka
 mieć (trzymać) - tena  
 migdał - badam  
 migracja - migre  
-mikro- - mikro-  
+mikro- - mikr-  
 Mikronezja - mikronesia  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
-mili- - mili-  
-milimetr - milimetre  
+mili- - mil-  
+milimetr - milmetre  
 milion - megi  
 militarny, wojskowy, wojenny - jengi  
 minerał, ruda - kuang  
@@ -1099,7 +1099,7 @@ monoteizm - monodewistia
 moralność, etyka - darme  
 morf - morfe  
 morfem - morfem  
-moskovium - moskowium  
+moskovium - moskovium  
 most - pulte  
 motocykl (motor) - motosikle  
 motyl - pelpel  
@@ -1157,8 +1157,8 @@ należeć - tenu
 namalować, malować - penta  
 Namibia - namibia  
 namiot - haime  
-nano- - nano  
-nanometr - nanometre  
+nano- - nan-  
+nanometr - nanemetre  
 napisać, pisać - kitaba  
 naprawa - xule  
 naprawiacz - xuler  
@@ -1361,6 +1361,7 @@ papier - kagaze
 papieros (cygar) - sigar  
 Papua Nowa Gwinea - papua novi ginia  
 papuga - papagay  
+para wodna - suygas  
 paragon, pokwitowanie - reside  
 Paragwaj - paraguayia  
 parasol - barxocate  
@@ -1433,8 +1434,8 @@ pizzeria - pizeria
 pióro - per  
 pióro, długopis - kalam  
 piątek - war 5 (war lim)  
-pięciokąt (pentagon) - limogon  
-pięciościan (pryzmat) - limofas  
+pięciokąt (pentagon) - limegon  
+pięciościan (pryzmat) - limefas  
 piękny, przystojny - sundari  
 pięć (5) - lim  
 piłka - bol  
@@ -1659,7 +1660,7 @@ prędkość (szybkość) - rapide
 pręt, kij - baton  
 psychologia - ruhelojia  
 ptak - pakse  
-puder - mukofun  
+puder - mukefun  
 pudełko, skrzynia - kaxe  
 puding - puding  
 pudło, skrzynia - sanduke  
@@ -1798,7 +1799,7 @@ ręka, dłoń - hate
 ##s
 Saint Lucia - santi lusia  
 Saint Vincent and Grenadines - santi vinsente e grenadin  
-Saint Vincent i Grenadyny - walis i futun nesia  
+Saint Vincent i Grenadyny - walis e futun nesia  
 Salwador - salvadoria  
 sam, osobiście - tan  
 sam, siebie - ze  
@@ -2084,10 +2085,10 @@ trochę; nieokreślony, nieograniczony, nieokreślony - fulani
 trucizna (toksyna) - tokse  
 trwanie - dure  
 trwać, zająć czas; przez - dura  
-Trynidad i Tobago - trinidade i tobage  
+Trynidad i Tobago - trinidade e tobage  
 trzy (3) - tin  
 trzęsienie Ziemi - sisme  
-trójkąt - tinogon  
+trójkąt - tingon  
 tu (tutaj, tam) - sa ye  
 tuba, rura - tube  
 tul - tulium  
@@ -2182,7 +2183,7 @@ voodoo - vodun
 w przyszłości - wil  
 ##w
 waga (ciężkość) - bar  
-waga (urządzenie ważące) - barometer  
+waga (urządzenie ważące) - barmeter  
 wagina - vagin  
 walka, wojna - jeng  
 wanilia - vanil  
@@ -2301,7 +2302,7 @@ wyglądać (wydawać się) - rupu
 wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - cuta  
 wyjśćie, opuszczenie - cute  
 wyklarować (rozjaśnić) - klara  
-wykopać, kopać, wydobyć, wydobywać, wykopywać - fosa  
+wykopać, kopać, wydobyć, wydobywać, wykopywać - kava  
 wymagać, przewidywać - xarta  
 wymieniać, wymienić, zamieniać, zamienić - badala  
 wynająć, oddać w najem - kirisa  
@@ -2316,10 +2317,10 @@ Wyspa Man - maninia
 Wyspy Alandzkie - olandia  
 Wyspy Cooka - kuke nesia  
 Wyspy Dziewicze USA - usameriki wirjin nesia  
-Wyspy Georgia Południowa i Sandwich Południowy - sudi jorjia i sudi sanwice nesia  
+Wyspy Georgia Południowa i Sandwich Południowy - sudi jorjia e sudi sanwice nesia  
 Wyspy Kokosowe - kokos nesia  
 Wyspy Salomona - solomon nesia  
-Wyspy Świętego Tomasza i Książęca - santi tome i prinsipe  
+Wyspy Świętego Tomasza i Książęca - santi tome e prinsipe  
 wystarczający - bas  
 wysłać (wyemitować) - misa  
 wyć - ulula  
@@ -2490,7 +2491,7 @@ zły, zrujnowany, zepsuty - harabi
 świadomy; oświecony - budi  
 świat - dunia  
 światło, oświetlenie - nur  
-świeca - mumonur  
+świeca - mumnur  
 świetny - kul  
 świeży - tazi  
 świnia - gurube  

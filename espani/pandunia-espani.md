@@ -1,9 +1,8 @@
 # pandunia-espani
 a - pero  
 ##a
-abentur - aventura  
-abenturer - aventurero  
 abli - posible  
+acion - acción  
 adali - justo  
 adalia - justicia  
 afrike - África  
@@ -30,6 +29,8 @@ arane - araña
 arbe - árbol  
 arbeparke - arboreto  
 arbuze - sandía  
+argente - plata  
+argum - argumento  
 arize - arroz  
 arme - arma  
 arte - arte  
@@ -38,11 +39,13 @@ asle - origen
 asli - original  
 asme - asma  
 aspirin - aspirina  
+aventur - aventura  
+aventurer - aventurero  
 ay - ay!  
 ##b
 babuce - chinelo (pantufa)  
 bace - niño o niña  
-badam - amande  
+badam - almendra  
 badan - cuerpo  
 bagaje - equipaje  
 bagre - tigre  
@@ -64,6 +67,7 @@ baskobol - baloncesto
 batre - pila (batería)  
 bax - lengua (idioma)  
 baze - base  
+ben - lado  
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
@@ -88,11 +92,13 @@ destin - destino
 domi - doméstico  
 dominikania - Dominicana  
 dominikia - Dominica  
+duga - leer  
 e - y  
 ##e
 eletre - electricidad  
 esa - ser (estar)  
 eskulter - escultor  
+esten - estaño  
 ewanjil - evangelio  
 ##f
 fata - hacer  
@@ -110,9 +116,12 @@ galaksia - galaxia
 galte - error  
 galti - erróneo  
 gas - gas  
+gatemate - sólido  
 gati - duro  
+gim - oro  
 gitar - guitarra  
 gol - meta (gol)  
+grupe - grupo  
 gul - gul  
 gunden - palacio  
 gute - rodilla  
@@ -134,6 +143,7 @@ hule - zorro
 ##i
 insan - ser humano  
 insanistia - humanismo  
+itis  - inflamación  
 iva - tender  
 ive - tendencia  
 ##j
@@ -153,7 +163,10 @@ kansuygas - gas lacrimógeno
 karawe - carvis (alcaravea)  
 karte - mapa  
 kartegrafia - cartografía  
+kava - cavar (excavar)  
+kave - fosa  
 kecape - kétchup  
+kerne - corazón (núcleo)  
 kimia - química  
 kirmi - rojo  
 kitaba - escribir  
@@ -211,10 +224,12 @@ maye - hormigo
 mede - medio  
 medi - médio  
 megam - nube  
+megegram - tonelada  
 mel - miel  
 mem - memoria  
 mema - acordarse  
 memula - olvidar  
+mening - meninge  
 mes - mez  
 mester - maestro  
 meze - mesa  
@@ -225,10 +240,12 @@ mite - reunión (junta, mitin)
 molia - molino  
 mome - nosotros  
 monistia - monismo  
+mula - comenzar (iniciar, empezar)  
 ##n
 na - sin  
 nanas - piña  
 nasia - nación  
+nefre - riñon  
 neuresel - neurona  
 nida - necesitar  
 nide - necesidad  
@@ -244,8 +261,11 @@ novi - nuevo
 o - o  
 ##o
 okside - óxide  
+onde - onda  
+or - oreja  
 oranje - naranja  
 oranji - anaranjado  
+oritis - otitis  
 ortegoni - ortogonal  
 orti - recto  
 oton - otoño  
@@ -257,6 +277,7 @@ pake - paquete
 panir - queso fresco  
 papay - papaya  
 pape - padre (papá)  
+param - parámetro  
 parce - fragmento  
 parke - parque  
 parter - participante  
@@ -295,6 +316,7 @@ ras - raza
 retra - volver  
 retretikete - billete de ida y vuelta  
 rezerve - réservation  
+rici - rico  
 rim - rima  
 rize - raiz  
 ##s
@@ -327,6 +349,7 @@ sundari - hermoso (bello, lindo)
 sundaria - belleza (hermosura)  
 susan - lirio  
 suy - agua  
+suygas - vapor  
 suyporte - puerto marítimo  
 ##t
 tape - tapón (tapa)  
@@ -340,13 +363,16 @@ ura - hurra
 urse - oso  
 ##v
 vagin - vagina  
+vaginitis - vaginitis  
 vale - valle  
 vampir - vampiro  
 vejeniamiste - vegetariano  
 vente - problema  
 veri - verdadero  
 verme - verme  
+vespe - abeja o avispa  
 vida - ver  
+vokal - vocal  
 vota - votar  
 vote - voto  
 vulve - vulva  

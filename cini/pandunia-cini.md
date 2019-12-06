@@ -1,8 +1,6 @@
 # pandunia-cini
 ##a
 abace - 字母表  
-abentur - 冒险  
-abenturer - 冒险者  
 abla - 会  
 abli - 可能  
 adali - 公正地  
@@ -36,6 +34,7 @@ arane - 蜘蛛
 arbe - 树  
 arbuze - 西瓜  
 are - 面积  
+argente - 银  
 arize - 米  
 arme - 武器  
 arte - 美术  
@@ -44,10 +43,12 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
+aventur - 冒险  
+aventurer - 冒险者  
 ##b
 babe - 章  
 bace - 小孩  
-badam - لَوْز  
+badam - 杏仁 (巴旦木)  
 badan - 身体  
 bagaje - 行李  
 bagre - 虎  
@@ -77,6 +78,7 @@ baxlojia - 白色
 bazar - 市场  
 baze - 底部  
 bebe - 宝宝  
+ben - 边 (坡)  
 bere - 浆果 (莓)  
 bil - 帐单  
 bina - 建设  
@@ -95,7 +97,7 @@ buze - 山羊
 ##c
 ca - 从  
 cay - 茶  
-cayokupe - 茶碗  
+caykupe - 茶碗  
 ceng - 层  
 cerni - 黑色  
 cini - 汉族  
@@ -108,11 +110,13 @@ destin - 目的地 (命運)
 dew - 神  
 ding - 钉子  
 dom - 房子  
+duga - 读 (看)  
 dul - 二  
 dunia - 世界  
 e - 和  
 ##e
 esa - 对  
+esten - 锡  
 ewanjil - 福音  
 ##f
 fem - 女  
@@ -121,11 +125,15 @@ fiorde - 峡湾
 firuze - 绿松石  
 fitelojia - 植物学  
 fora  - 钻孔  
+fraze - 句子  
 ##g
 galaksia - 恆星系  
 galte - 错误  
 gar - 如果 (要是)  
+gatemate - 固体  
 gati - 硬  
+genca - 检查  
+gim - 金  
 gitar - 吉他  
 gol - 目的  
 gunden - 宫殿  
@@ -151,6 +159,7 @@ hule - 狐狸
 ##i
 insan - 人类  
 insanistia - 人文主义  
+itis  - 炎症  
 ive - 趋势  
 ##j
 jana - 知る  
@@ -158,6 +167,7 @@ janger - 工匠 (匠人)
 jinse - 属  
 jiraf - 长颈鹿  
 jul - 焦耳 (J)  
+jumle - 句子  
 jung - 中心  
 jungogia - 中国  
 jus - 汁  
@@ -176,8 +186,11 @@ karde - 牌
 karte - 地图  
 kartegrafia - 地图学  
 kata - 切  
+kava - 挖  
+kave - 坑 (穴)  
 ke - 什么  
 keci - 客气  
+kerne - 核心  
 kimia - 化学  
 kirmi - 红  
 kitaba - 写  
@@ -194,6 +207,7 @@ kuan - 宽
 kube - 立方体  
 kupe - 杯子  
 ##l
+lantan - 鑭  
 laskeria - 军队  
 lawi - 老 (老年, 年歲大)  
 laya - 来  
@@ -238,6 +252,7 @@ mem - 记忆 (记性)
 mema - 记得 (回忆)  
 memula - 忘记  
 mene - 意义  
+mening - 脑脊膜  
 metaljanger - 铁匠  
 mey - 每  
 meze - 桌子  
@@ -248,8 +263,10 @@ moke - 木材
 mokejanger - 木匠  
 molia - 磨坊  
 mome - 我们  
+mula - 开始  
 ##n
 nade - 河 (江)  
+nefre - 肾脏  
 nida - 需要  
 nidi - 必要的  
 nili - أَزْرَق  
@@ -263,8 +280,11 @@ novi - 新
 o - 或  
 ##o
 okside - 氧化物  
+onde - 波浪  
+or - 耳  
 oranje - 橙子  
 oranji - 橙色  
+oritis - 耳炎  
 orti - 直  
 ##p
 pa - 到  
@@ -276,6 +296,7 @@ pang - 面包
 papagay - 鹉鹦  
 papay - 木瓜  
 pape - 爸爸  
+param - 参数  
 parke - 园  
 pasporte - 护照  
 patejener - 病原体  
@@ -337,6 +358,7 @@ sundaria - 美丽
 supris - 惊奇  
 susan - 百合花  
 suy - 水  
+suygas - 蒸汽  
 ##t
 tami - 贪婪的  
 tarje - 翻译  
@@ -369,6 +391,7 @@ vampir - 吸血鬼
 veje - 蔬菜  
 vejeniamiste - 素食主义者  
 vente - 问题 (难题)  
+vespe - 蜂  
 vida - 看  
 vijin - 味精  
 vulve - 外阴 (陰门)  
@@ -384,6 +407,7 @@ xam - 晚上
 xatan - 撒但  
 xaw - 少  
 xey - 事物 (东西)  
+xibay - 失败  
 xim - 心  
 xir - 诗  
 xite - 粪 (屎)  
@@ -400,4 +424,5 @@ yuke - 玉
 zebre - 斑马  
 zime - 冬天  
 zinje - 姜  
+ziran - 孜然  
 zumrude - 绿宝石  

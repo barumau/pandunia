@@ -66,10 +66,10 @@ anima - animować
 anime - animacja  
 anta - sprzeciwiać się (opierać się)  
 antartia - Antarktyka  
+antekriste - antychryst  
 anten - antena  
+antenam - antonim  
 anter - przeciwnik (antagonista)  
-antokriste - antychryst  
-antonim - antonim  
 anus - odbyt  
 anusi - analny, odbytni  
 aple - jabłko  
@@ -154,8 +154,8 @@ barde - broda
 bari - ciężki (masywny)  
 barium - bar  
 barka - gratulować; błogosławić  
-barometal - metal ciężki  
-barometer - waga (urządzenie ważące)  
+barmetal - metal ciężki  
+barmeter - waga (urządzenie ważące)  
 barti - Indyjski  
 bartia - Indie  
 barude - proch strzelniczy  
@@ -294,11 +294,11 @@ cargon - kwadrat (czworokąt, czworobok, tetragon)
 cate - dach  
 cay - herbata  
 cayeria - herbaciarnia  
-cayokupe - kubek do herbaty  
+caykupe - kubek do herbaty  
 cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 ceng - warstwa (poziom, piętro, kondygnacja)  
-centi - centy-, procent, na sto, setna część  
+cent- - centy-, procent, na sto, setna część  
 cerium - cer  
 cerni - czarny  
 cernogoria - Czarnogóra  
@@ -325,7 +325,7 @@ cune - wiosna
 cupa - ssać  
 cuta - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 cute - wyjśćie, opuszczenie  
-cutomun - drzwi wyjściowe  
+cutmun - drzwi wyjściowe  
 cuza - wybrać, wybierać, selekcjonować  
 cuze - wybór, elekcja, selekcja  
 ##d
@@ -363,7 +363,7 @@ dawistia - taoizm
 day - duży  
 daysamude - ocean  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
-deci - decy-, dziesiąta część  
+dec- - decy-, dziesiąta część  
 defa - obronić (chronić)  
 defe - obrona  
 defer - obrońca  
@@ -375,10 +375,10 @@ deka - przykryć, przykrywać, ukryć, ukrywać
 deke - pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula - odsłonić, odsłaniać  
 deme - lud, społeczeństwo  
+demegrafia - demografia  
 demekrati - demokratyczny  
 demekratia - demokracja  
 demekratiste - demokrata  
-demografia - demografia  
 demon - demon  
 den - dzień  
 deneniam - obiad, lunch  
@@ -594,8 +594,6 @@ forme - forma, kształt
 forti - silny  
 fortia - siła  
 forum - forum  
-fos - dół, jama, wydobycie, wykop, wykopalisko  
-fosa - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 fosfor - fosfor  
 fotegrafia - fotografia  
 fotemaxin - kamera, aparat fotograficzny  
@@ -663,7 +661,7 @@ geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
 geter - odbiorca  
 gey - gejowski (homoseksualny)  
 gida - sterować  
-gigo- - bilion, giga-  
+gig- - bilion, giga-  
 gim - złoto  
 gitar - gitara  
 giyania - Gujana Francuska  
@@ -672,6 +670,7 @@ gluten - gluten
 gol - cel  
 gom - guma  
 gon - kąt  
+gonmeter - goniometr (kątomierz)  
 goton - bawełna  
 gowa - iść (przemieścić się)  
 graf - opis, przedstawienie; wykres  
@@ -987,6 +986,8 @@ kata - ciąć
 katalunia - Katalonia  
 katan - miecz  
 kataria - Katar  
+kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
+kave - dół, jama, wydobycie, wykop, wykopalisko  
 kaway - uroczy, słodki  
 kaxe - pudełko, skrzynia  
 kaxer - kasjer  
@@ -1015,8 +1016,8 @@ ki ren - co?
 ki sate - zapytać, pytać  
 ki xey - jak?  
 kil - tysiąc  
-kilogram - kilogram (kg)  
-kilometre - kilometr  
+kilgram - kilogram (kg)  
+kilmetre - kilometr  
 kimi - chemiczny  
 kimia - chemia  
 kina - ruszać, przenościć, zmieniać miejsce  
@@ -1084,7 +1085,6 @@ konfuzistia - konfucjanizm
 kong - dziura  
 kongoli - kongijski  
 konkani - konkani  
-konometer - goniometr (kątomierz)  
 konsida - rozważać, brać pod uwagę  
 konson - spółgłoska  
 kontinu - kontynuować; wznawiać, ponawiać  
@@ -1203,10 +1203,10 @@ lil - mały; mało, trochę, nieco
 lil niam - przekąska  
 lilake - lilak  
 lim - pięć (5)  
+limefas - pięciościan (pryzmat)  
+limegon - pięciokąt (pentagon)  
 limfe - limfa  
 limite - limit, granica  
-limofas - pięciościan (pryzmat)  
-limogon - pięciokąt (pentagon)  
 limon - cytryna  
 limonrangi - żółty  
 linye - linia, pas, pręga, smuga  
@@ -1352,10 +1352,10 @@ medika - uleczyć, leczyć, uzdrowić, uzdrawiać
 mediker - doktor, lekarz, uzdrowiciel  
 medikia - medycyna  
 medita - medytować; dumać, rozmyślać, zastanawiać się  
+meg- - mega-  
 megam - chmura  
 megi - milion  
-mego- - mega-  
-megowate - megawat  
+megwate - megawat  
 meh - owca  
 mel - miód  
 melodi - melodyczny  
@@ -1398,11 +1398,11 @@ mianmia - Mjanma, Birma
 mien - makaron  
 migan - mandarynka  
 migre - migracja  
-mikro- - mikro-  
+mikr- - mikro-  
 mikronesia - Mikronezja  
-mili- - mili-  
-milimetre - milimetr  
+mil- - mili-  
 milke - mleko  
+milmetre - milimetr  
 min - mniej  
 min ko bas - zbyt mało  
 minar - wieża  
@@ -1464,7 +1464,7 @@ mortu - umrzeć, umierać
 mos - mech  
 mosim - pora roku  
 moskite - komar, moskit  
-moskowium - moskovium  
+moskovium - moskovium  
 mote - ruch  
 moter - silnik  
 motokar - samochód (automobil)  
@@ -1474,13 +1474,13 @@ mudan - piwonia
 muh - krowa  
 muhomanse - wołowina  
 muke - twarz  
-mukofun - puder  
+mukefun - puder  
 mul - początek  
 mula - zacząć, zaczynać  
 muli - pierwszy, początkowy  
 mum - wosk  
 mumia - mumia  
-mumonur - świeca  
+mumnur - świeca  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 muritania - Mauretania  
@@ -1510,9 +1510,9 @@ namibia - Namibia
 namisa - nazwać, nazywać, wezwać, wzywać  
 namlekse - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
+nan- - nano-  
 nanas - ananans  
-nano - nano-  
-nanometre - nanometr  
+nanemetre - nanometr  
 narake - piekło  
 nas - ludzie (lud, ludność)  
 nasi - narodowy (ludowy)  
@@ -2006,7 +2006,7 @@ sania - produkcja
 santi - święty  
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  
-santi tome i prinsipe - Wyspy Świętego Tomasza i Książęca  
+santi tome e prinsipe - Wyspy Świętego Tomasza i Książęca  
 santi vinsente e grenadin - Saint Vincent and Grenadines  
 sapate - but  
 sapater - szewc  
@@ -2116,7 +2116,7 @@ sudafrikia - Południowa Afryka
 sudania - Sudan  
 sude - południe  
 sudi cosenia - Korea Południowa  
-sudi jorjia i sudi sanwice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
+sudi jorjia e sudi sanwice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 sudi sudania - Sudan Południowy  
 suede - pot  
 suedi - spocony  
@@ -2152,6 +2152,7 @@ sutur - szew
 suxe - sushi  
 suy - woda  
 suyang - akwarela, farba wodna  
+suygas - para wodna  
 ##t
 tabake - tytoń  
 tabla - ułożyć w trabelę  
@@ -2233,8 +2234,8 @@ tim - drużyna
 tin - trzy (3)  
 ting - stop; przerwa, zatrzymanie  
 tinga - zatrzymać  
+tingon - trójkąt  
 tingu - zatrzymać się  
-tinogon - trójkąt  
 tira - ciągnąć  
 tira milke - wydoić, doić  
 tiran - tyran  
@@ -2263,7 +2264,7 @@ tren - pociąg
 trendaw - kolej  
 trenkaper - porywacz pociągu  
 tribe - plemię  
-trinidade i tobage - Trynidad i Tobago  
+trinidade e tobage - Trynidad i Tobago  
 tsuania - Botswana  
 tuale - taleta, WC  
 tube - tuba, rura  
@@ -2355,7 +2356,7 @@ wada - obiecać, angażować się
 waf - pies  
 wakila - reprezentować  
 wal - mur, ściana  
-walis i futun nesia - Saint Vincent i Grenadyny  
+walis e futun nesia - Saint Vincent i Grenadyny  
 walpapir - tapeta  
 wana - chcieć, pragnąć  
 war - dzień tygodnia  
