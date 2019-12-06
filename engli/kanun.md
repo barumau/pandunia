@@ -106,7 +106,7 @@ They are described in more detail later in this document.
     - **me plisa te loga mingo.** →  **plisa loga mingo.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.
-    The padding vowel **-e-** is inserted between the stems
+    The linking vowel **-o-** is inserted between the stems
     if the resulting word would be otherwise too difficult to pronounce.
     - ex. **hur-** (freedom) + **ist-** (proponent) → **huriste** (liberalist)
     - ex. **post-** (mail) + **sanduk-** (box) → **postesanduke** (mailbox)
@@ -1050,14 +1050,14 @@ the point of comparison.
 
 
 
-## 11. Word Building
+## 11. Word building
 
 It's possible to build new words in Pandunia. Pandunia has a
 productive system of word derivation. Most of the suffixes that are
 used in Pandunia are already in international use. Many of hem come
 from ancient Greek, Latin, Arabic and Persian.
 
-### 11.1. Part of speech markers
+### 11.1. Word class markers
 
 Pandunia uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
@@ -1177,30 +1177,45 @@ It is an artistic choice by the authors of Pandunia to not require them on noun 
 
 ### 11.2. Compound words
 
-Two or more nouns can be put together to make a _compound word_.
-The last word is the most meaningful word in the compound and the words that come before it only modify its meaning.
+Two or more words can be put together to make a _compound word_.
+The last word is the most meaningful word in the compound
+and the words that come before it only modify its meaning.
 
-The way to create compound words is to put two or more word stems together,
-insert the padding vowel **-e-** between them if necessary,
-and add the word class marker, if applicable.
+The simples compound words consist of bare word stems only.
+For example the word for tears, **kansuy**, is like that.
 
-Example: Creating **termemeter** from **terme** and **meter**.  
-First the word class marker **-e** is removed from **terme**, leaving **term**.
-Then the linking vowel **-e-** is added and then the second word **meter**,
-resulting into **term-e-meter** i.e. **termemeter**.
-
-         terme      (temperature)  
-       + meter      (measuring device)
+          kan       (eye)
+       +  suy       (water)
     ____________
-    = termemeter    (thermometer)
+    =  kansuy       (eyewater, tear)
 
-The padding vowel -e- is not used when the second word begins with a vowel.
-(So there is the so called _null morpheme_ -∅- instead.)
+One can add and swap the vowel endings of compound words normally.
+For example, **kansuyi** means _teary_.
 
-          dew       (god)  
+The vowel ending of the first word is always dropped when a compound word is made.
+
+         pace       (peace)
        + iste       (proponent, -ist)
     ____________
-    =  dewiste      (theist)
+    =  paciste      (proponent of peace, pacifist)
+
+If the resulting word would be too difficult to pronounce,
+the linking vowel **-o-** is put between the stems.
+For example **termmeter** and **servpaus** would be difficult to pronounce
+because of the consonant groups **rmm** and **rvp**.
+Then we use **-o-** to break the difficult consonant groups.
+
+         terme      (temperature)
+       + meter      (measuring device)
+    ____________
+    = termometer    (thermometer)
+
+&nbsp;
+
+         serve      (service)
+       +  paus      (pause, break)
+    ____________
+    =  servopaus    (servicebreak)
 
 
 ### 11.3. Common Suffixes
