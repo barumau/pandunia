@@ -2,6 +2,7 @@
 ##a
 abace - алфавит  
 abli - возможный  
+aciya - чихать  
 adali - справедливый  
 adalia - справедливость  
 adres - адрес  
@@ -56,7 +57,7 @@ bandir - флаг
 banke - банк  
 banse - бамбук  
 banye - купание  
-banyekamar - ванная  
+banyokamar - ванная  
 banyu - купаться  
 banze - доска  
 bari - тяжёлый  
@@ -81,9 +82,9 @@ bol - bola
 bombe - бомба  
 bon - хороший  
 bote - лодка (бот)  
-boteraite - правый борт  
 botolefte - левый борт  
 boton - пуговица  
+botoraite - правый борт  
 bruni - коричневый  
 buke - книга  
 ##c
@@ -99,7 +100,7 @@ coy - зелень
 dalil - доказательство  
 danse - танец  
 date - данные  
-datebanke - база данных  
+datobanke - база данных  
 daysamude - океан  
 destin - судьба  
 dew - бог  
@@ -114,16 +115,17 @@ eskulter - скульптор
 ewanjil - евангелие  
 ##f
 favori - любимый  
-filosofia - философия  
+filsofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
-fitelojia - ботаника  
+fitolojia - ботаника  
 fora  - сверлить (бурить)  
-fotegrafia - фотография  
+fotografia - фотография  
 fraze - фраза  
-futebol - футбол  
+futobol - футбол  
 ##g
 galaksia - галактика  
+gamohal - настроение  
 gar - если  
 gas - газ  
 gati - твёрдый  
@@ -140,12 +142,13 @@ gunden - дворец
 gute - колено  
 ##h
 habar - новости  
+haha - смеяться  
 haime - палатка (шатёр)  
-hali - пустой  
+hal - состояние (статус)  
 halow - алло  
 hami - важный (значимый)  
 hamili - беременный  
-hate - рука  
+hande - рука  
 hay - жизнь  
 hazin - сокровище (казна)  
 hewan - животное  
@@ -158,6 +161,7 @@ hotel - гостиница (отель)
 hule - лиса  
 ##i
 insan - человек  
+insani hake - права человека  
 insanistia - гуманизм  
 itis  - воспаление  
 ive - тенденция  
@@ -174,6 +178,7 @@ jus - сок
 kafas - клетка  
 kafe - кофе  
 kagaze - бумага  
+kali - пустой  
 kamar - комната (камера)  
 kamis - рубашка  
 kanape - канапе  
@@ -183,7 +188,7 @@ kansuygas - слезоточи́вый газ
 karbondulokside - двуокись углерода  
 karde - карта  
 karte - карта  
-kartegrafia - картография  
+kartografia - картография  
 katan - меч  
 kava - копать  
 kave - яма  
@@ -192,8 +197,8 @@ kimia - химия
 kirmi - красный  
 kitaba - писать  
 kitabe - письмо  
-kitabemaxin - пишущая машинка  
 kitabia - библиотека  
+kitabomaxin - пишущая машинка  
 klime - климат  
 klimemute - изменение климата  
 ko - чем  
@@ -256,6 +261,7 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+misria - Египет  
 mixa - мешать  
 molia - мельница  
 moluske - моллюск  
@@ -282,8 +288,8 @@ okside - окись (оксид)
 oranje - апельсин  
 oranji - оранжевый  
 oritis - отит  
-ortegoni - ортогона́льный  
 orti - прямой  
+ortogoni - ортогона́льный  
 osme - осмос  
 ##p
 pagre - чалма  
@@ -297,8 +303,8 @@ param - параметр (аргумент)
 parce - кусок  
 parke - парк  
 pasporte - паспорт  
-patejener - патоген  
-patelojia - патология  
+patojener - патоген  
+patolojia - патология  
 pauze - пауза  
 pay - пирог  
 peda - пердеть  
@@ -342,7 +348,7 @@ sanwice - сандвич
 sapate - حِذَاء  
 sar - голова  
 sekse - пол  
-selelojia - цитология  
+selolojia - цитология  
 sen - сцена  
 serye - серия  
 si - да  
@@ -369,8 +375,8 @@ tataw - татуировка (тату)
 tazi - свежий  
 te - ты  
 teknelojia - технология  
-telefon - телефон  
-televide - телевизор  
+telfon - телефон  
+telvide - телевизор  
 teme - тема  
 tena - иметь  
 tenu - принадлежать  
@@ -391,7 +397,7 @@ vagin - влагалище (вагина)
 vaginitis - вагинит  
 vampir - вампир (упырь)  
 vaze - ваза  
-vejeniamiste - вегетарианец  
+vejoniamiste - вегетарианец  
 vente - проблема  
 venti - проблематичный  
 veri - верный  
@@ -416,6 +422,7 @@ xatan - Сатана
 xaw - мало  
 xef - шеф  
 xey - вещь  
+xeyhal - положение (ситуация)  
 xite - говно (дерьмо)  
 xofer - шофёр  
 xopa - покупать (купить)  

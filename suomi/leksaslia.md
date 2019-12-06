@@ -51,6 +51,7 @@
 |astma|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |asunto (koti)|dom|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |ateljee (studio)|estudia|rus:студия (studiya), spa:estudio, por:estúdio|
+|atsii|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |auki (avoin)|kay|zho:开 (kāi), vie:-khai-|
 |aurinko|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |auto (automobiili)|motokar|eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|
@@ -69,9 +70,10 @@
 |Buddha|bude|hin:बुद्ध (buddh)|
 |chapati|capate|hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|
 |data (numeerinen tieto)|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
-|demokratia|demekratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
+|demokratia|demokratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
 |edeltää (tulla ennen)|preda|rus:п(е)ред (p(e)red), pol:przed, eng:spa:por:pre-, fra:pré-|
 |edetä (edistyä)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
+|Egypti|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |ehdotus|suje|hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|
 |ei|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |ekologia (ympäristötiede)|ekelojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
@@ -91,7 +93,7 @@
 |etelä|sude|spa:sur, por:sul, fra:sud|
 |etikka|sirke|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |fani (-fiili)|filer|eng:fra:-phile, por:spa:-filo|
-|filosofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filosofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |gaselli|gazel|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
 |guru (opettaja)|gur|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |hallinto (hallinnointi)|nomia|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
@@ -143,7 +145,7 @@
 |huvi (hauskuus)|fan|eng:fun|
 |hylkiö (paaria)|paraye|hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|
 |hypätä (hyppiä)|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|hyve|gunodarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
+|hyve|gundarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
 |hyvä (eettisesti hyvä)|ewi|eng:fra:spa:por:eu-|
 |hyvännäköinen|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |hyvä|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
@@ -186,7 +188,7 @@
 |jainalaisuus|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |jakaa (jaella)|fada|zho:发 (fā), vie:phát|
 |jakki|yake|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
-|jalkapallo|futebol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
+|jalkapallo|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |jasmiini|malike|kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|
 |ja|e|fra:et, por:e, zho:和 (hé)|
 |jo (tehty teko)|lew|tha:แล้ว /lɛːw/, zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|
@@ -196,7 +198,7 @@
 |joki (virta)|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |jokin (joku)|koy|hin:कोई (koī), urd:(koī), rus:кое- (koye-)|
 |jooga|yoge|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
-|jopa|hati|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|jopa|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |jos (olettaa)|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |joulu|kristojen|ell:Χριστούγεννα (Christoúgenna)|
 |juhlat|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
@@ -240,7 +242,7 @@
 |kastanja|kastan|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|
 |kaste|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |kastike (soosi)|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
-|kasvissyöjä|vejeniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
+|kasvissyöjä|vejoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |kasvi|fite|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
 |kasvot (naama)|muke|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
 |katkaista (leikata)|kata|eng: cut, hin: काटना /kāṭnā/, swa: -kata|
@@ -313,7 +315,7 @@
 |kuisti (terassi, veranta)|berande|hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda)|
 |kuitenkin|lekin|ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|
 |kuitti (kuittaus)|reside|fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:રસીદ (rasīd), tel:రసీదు (rasīdu), + eng:receipt, swa:resiti, mal:resit|
-|kuiva|gan|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
+|kuiva|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |kukka|pul|hin:फूल (phul), ben:ফুল (phul)|
 |kulma (nurkka)|gon|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|
 |kulta|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
@@ -349,7 +351,7 @@
 |kärry (vaunu, auto, jne)|kar|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
 |käsite (idea)|idey|fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|
 |käsitellä dataa|komputa|eng:compute|
-|käsi|hate|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|käsi|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |käsky (komento)|komande|eng:command, fra:commandement, rus:команда (komanda), spa:mandato|
 |kävely (marssi)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
 |käyttää|uza|eng:use, spa:usar, pol:używać|
@@ -421,7 +423,7 @@
 |lämpötila|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
 |läpikulku|transe|eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|
 |läpikäydä (passiivin muodostava verbi)|beyu|zho:被 (bèi)|
-|maa (maaperä)|zeme|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
+|maa (maaperä)|zem|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |maa (multa)|darte|eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất|
 |maa (valtio)|dex|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |maailma|dunia|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
@@ -496,6 +498,7 @@
 |natsi|naciste|rus:нацист (natsist), cze:slk:nacista, jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |nauha (side)|bende|ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:bul:kaz:kyr:бинт (bint), uzb:bint, hin:बाँधना (bāndhnā)|
 |naula (piikki)|ding|zho:钉 (dīng), yue:釘 (deng1), vie:đinh|
+|nauraa|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |nauta (lehmä)|muh|(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|
 |nauttia (syödä, juoda)|niama|khm:ញ៉ាំ (nyam), jam:nyam, srn:nyan, ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
 |neula|pin|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
@@ -520,7 +523,7 @@
 |oho (vau)|waw|zho:哇 (wā), eng:wow|
 |oikea (paikkansapitävä)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |oikea puoli|raite|eng:right|
-|oikeus (oikeutus)|hake|ara: /haqq/, tur: hak, may: hak, swa: haki, hau: hakki|
+|oikeus (oikeutus)|hake|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |oikeus|adalia|ara:(ʿadl), tur:adalet, may:may:tkm:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |oivaltaa (tajuta)|aha|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
 |oksa (haara)|xake|ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|
@@ -687,7 +690,7 @@
 |rumpu|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
 |runo|xir|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |ruoho|gras|eng:grass, hin:घास (ghās)|
-|rusina|gan putaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rusina|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ruskea|bruni|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |ruukku (maljakko, vaasi)|vaze|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|
 |ruuti|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
@@ -783,7 +786,7 @@
 |säilyttää (varjella, säästää)|hafiza|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|
 |sävel (sävy)|ton|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
 |sää|tenke|zho:天气 (tiǎnqì), jpn:天気 (tenki)|
-|söpö (suloinen)|kaway|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
+|söpö (suloinen)|kawayi|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
 |taateli|tamar|por:tamara, ara:(tamar)|
 |tahna (tahdas)|paste|eng:deu:paste, rus:(pasta), spa:por:pasta|
 |tahto|ice|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
@@ -807,6 +810,7 @@
 |tapaaminen (kokous)|mite|eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|
 |tapaus (seikka)|kase|eng:case, fra:cas, spa:por:caso, deu:Kasus|
 |tapa|ade|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
+|tapa|mode|fra:eng:mode, spa:por:modo|
 |tarha (puisto)|parke|eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|
 |tarpeeksi (riittävästi)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |tarvita|nida|eng: need|
@@ -830,6 +834,8 @@
 |Tiibet|podia|tib:བོད (bod, phØ)|
 |tiikeri|bagre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |tikari|kanjar|fas:(xanjar), tur:haner, kaz:қанжар (qanjar), rus:кинжал (kinžal)|
+|tila (tilanne, seikka)|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
+|tilanne (asiaintila)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |timantti|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |tina|esten|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
 |todiste (todistus, osoitus, demonstraatio)|dalil|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
@@ -864,7 +870,7 @@
 |turkoosi|firuze|per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|
 |tutkia|genca|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |tuuli (puhallus)|hawe|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
-|tyhjä|hali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|tyhjä|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |tykki (pyssy)|kanon|eng:cannon, spa:cañón, zho:加农 (jiānóng), jpn:(kyanon), kor:캐넌 (kaeneon)|
 |tynnyri (tölkki)|tong|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:mal:tong, + fra:tonneau, spa:tonel, ned:ton|
 |typerys (idiootti)|idiote|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
@@ -888,7 +894,7 @@
 |uuni|tanur|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |uusi|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |uutinen|habar|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|
-|vaara|hatre|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
+|vaara|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |vaate (puku)|fuke|zho:衣服 (yīfu), yue:(yifuk), jpn:衣服 (ifuku), kor:의복 (uibog)|
 |vaatimus (edellytys)|xarte|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart)|
 |vaha|mum|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
@@ -915,7 +921,7 @@
 |vasen|lefte|eng:left|
 |vasta- (anti-)|anti|eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), pol:anty-|
 |vastaan (vasten)|kontra|spa:por:contra, fra:contre, eng:counter-, gre:κόντρα (kontra)|
-|vastakohta (antonyymi)|antenam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|vastakohta (antonyymi)|antonam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |vastaus|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
 |vaurio (vahinko)|damaje|eng:damage, fra:dommage|
 |vauva|bebe|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|

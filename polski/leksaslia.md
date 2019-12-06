@@ -14,7 +14,7 @@
 |analiza|analis|eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|
 |ananans|nanas|may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|
 |animal|hewan|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
-|antonim|antenam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|antonim|antonam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |arbuz|arbuze|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |argument, teza|tese|eng:thesis, fra:thèse, spa:tesis|
 |astma|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
@@ -111,7 +111,7 @@
 |data|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |dać, dawać|dona|eng:dan:give, deu:geben, zho:给 (gěi)|
 |debatować, prowadzić dyskurs|lona|zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|
-|demokracja|demekratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
+|demokracja|demokratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
 |deska|banze|zho:板子 (bǎnzi), mon:банз (banz), kor:판자 (panja), yue:板 (baan2), jpn:板 (ban), vie:bảng, + swa:bao|
 |diabeł, szatan|xatan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|
 |diament|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
@@ -152,6 +152,7 @@
 |długi|long|eng:fra:long, deu:lang, Por:longo|
 |dźinizm, dżinizm|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |dźwięk, brzmienie|sonde|eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|
+|Egipt|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |ekologia (nauka o środowisku)|ekelojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |ekskrement, gówno|kake|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |elektryczność|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
@@ -160,7 +161,7 @@
 |fajka|pipe|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |fascynacja|fasin|eng:fascination, spa:fascinación, deu:Faszination|
 |fałszywy, nieprawdziwy|falsi|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|filozofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filozofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |fiord|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |firma, kompania, korporacja|kompania|eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|
 |flaga, sztandar|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
@@ -407,7 +408,7 @@
 |narzędzie|tul|eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|
 |naród, narodowość|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |nauka, badanie, studiowanie|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
-|nawet|hati|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|nawet|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |nawyk (przyzwyczajenie)|ade|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |nazista|naciste|rus:нацист (natsist), cze:slk:nacista, jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |niebezpieczeństwo, ryzyko, szansa|zar|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
@@ -512,7 +513,7 @@
 |pióro, długopis|kalam|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
 |pióro|per|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |piękny, przystojny|sundari|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar), |
-|piłka nożna|futebol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
+|piłka nożna|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |piłka|bol|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |placek, ciasto|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |placy|ruke|deu:Rücken|
@@ -561,7 +562,7 @@
 |praktyka, aktualność|prate|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
 |prawa strona|raite|eng:right|
 |prawdziwy (rzeczywisty, szczery)|veri|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
-|prawo, przywilej|hake|ara: /haqq/, tur: hak, may: hak, swa: haki, hau: hakki|
+|prawo, przywilej|hake|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |prawo|kanun|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
 |prawy, sprawiedliwy, słuszny, uczciwy, fair|egal|fra:égal, spa:por:igual, eng:equal|
 |prać, umyć, myć|waxa|eng:wash, deu:waschen, zho:洗 (xǐ)|
@@ -601,7 +602,7 @@
 |puding|puding|eng:pudding, zho:布丁 (bùdīng)|
 |pudło, skrzynia|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
 |punkt|binde|hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
-|pusty|hali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|pusty|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |pył|fun|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
 |płakać, łkać|kuga|zho:哭 (kū), yue:哭 (huk1), vie:khóc|
 |płaski chleb, ćapati|capate|hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|
@@ -624,7 +625,7 @@
 |rodzaj, typ, styl|yang|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |rodzeństwo, brat lub siostra|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |rodzina|famil|eng:family, spa:familia, por:família, fra:famille|
-|rodzynka|gan putaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rodzynka|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |rok|nen|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|
 |rosa|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |rower|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
@@ -652,7 +653,7 @@
 |róg|buge|eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|
 |róg|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |ręcznik|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
-|ręka, dłoń|hate|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|ręka, dłoń|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |sam, osobiście|tan|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
 |sam, siebie|ze|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
 |samochód (automobil)|motokar|eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota|
@@ -705,7 +706,7 @@
 |strażnik, ochroniarz|garder|eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|
 |studio (pracownia)|estudia|rus:студия (studiya), spa:estudio, por:estúdio|
 |stół|meze|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
-|suchy|gan|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
+|suchy|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |sugestia, propozycja|suje|hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|
 |syrop|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
 |szafran|safran|ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|
@@ -778,7 +779,7 @@
 |uciec, uciekać|bega|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |ugotować się, gotować się|bulu|eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|
 |umiejętność (kompetencja)|xute|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
-|uroczy, słodki|kaway|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
+|uroczy, słodki|kawayi|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
 |usta|boke|spa:por:boca|
 |uwaga, obserwacja|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |uświadomienie, świadomość; oświecenie, bodhi|bude|scr:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|
@@ -863,7 +864,7 @@
 |zachowanie (maniery, kultura)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |zachować, zakonserwować, zachować, utrzymać|hafiza|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|
 |zagraniczny|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
-|zagrożenie, niebezpieczeństwo|hatre|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
+|zagrożenie, niebezpieczeństwo|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |zajęty|bizi|eng:busy|
 |zamek błyskawiczny|ziper|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
 |zamek, forteca, twierdza|burge|deu:Burg, egy:(burg), ara:urd:(burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|
@@ -885,7 +886,7 @@
 |zespół (drużyna, grupa)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |ziarno, nasienie|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
 |zielony|lugi|zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|
-|ziemia, grunt, gleba|zeme|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
+|ziemia, grunt, gleba|zem|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |ziemniak|patate|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
 |ziggurat|zikur|ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|
 |zima|zime|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
@@ -918,6 +919,7 @@
 |łóżko|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
 |łączyć, wiązać, złączyć|samuna|isl:sameina, deu:vereinigen|
 |ścieżka (droga, szlak, kurs)|rute|eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|
+|śmiać się|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |śmieć, odpadek|laje|zho:垃圾 (lājī)|
 |śnieg|him|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |średni|medi|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|

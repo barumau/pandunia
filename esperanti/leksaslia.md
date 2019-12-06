@@ -107,7 +107,7 @@
 |damaĝo|damaje|eng:damage, fra:dommage|
 |danco|danse|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |danko|danke|eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|
-|danĝero|hatre|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
+|danĝero|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |dato|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |datumo|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |daŭro|dure|eng:duration, fra:durée, spa:por:durar, deu:dauer|
@@ -116,7 +116,7 @@
 |defendo|defe|ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|
 |dek (10)|des|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|
 |demandi (ĉu)|eska|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
-|demokratio|demekratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
+|demokratio|demokratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
 |devi|bixu|zho:必须 (bìxū)|
 |devus|xudu|eng:should|
 |deziro|kamia|hin:काम (kām), tha:กาม (gaam), eng:kama|
@@ -134,6 +134,7 @@
 |duŝo|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |eco|gune|hin:गुण (guṇ), ben:গুণ (guṇ), tel:(guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun)|
 |egala|egal|fra:égal, spa:por:igual, eng:equal|
+|Egipto|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |ejo (ujo, io)|-ia|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
 |ekstero|waye|zho:外 (wài)|
 |ekzemplo|misal|hin:मिसाल (misāl), ara:(mithāl)|
@@ -151,7 +152,7 @@
 |esti|esa|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |estonoteco|wile|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
 |estro (ĉefulo)|xef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
-|eĉ|hati|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|eĉ|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |fabrikisto|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
 |facila|izi|eng:easy, fra:aisée|
 |fajro|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
@@ -165,7 +166,7 @@
 |festo|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
 |feĉo|hamir|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
 |fiki|coda|ben:চোদা (coda), hin:चोदना (codnā)|
-|filozofio|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filozofio|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |fingro|finge|eng:finger|
 |fino|fin|spa: fin, fra: fin, por: fim|
 |fiŝo|fix|eng:fish, deu:Fisch|
@@ -362,13 +363,13 @@
 |malmola|gati|tel:గట్టి (gaṭṭi), tkm:gaty, tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |malmulte|xaw|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |malnova|purani|hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|
-|malplena|hali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|malplena|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |malsukceso|xibay|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
 |malvarma|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |malĝojo|duke|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
 |mandarino|migan|jpn:蜜柑 (mikan), zho:蜜柑 (mìgān)|
 |maniero (konduto)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
-|mano|hate|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|mano|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |manĝi (trinki)|niama|khm:ញ៉ាំ (nyam), jam:nyam, srn:nyan, ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
 |marmoro|marmar|hin:संगमरमर (saṅgmarmar), spa:marmól, por:mármore, Rus:мрамор (mramor), may:marmer, Tur:mermer|
 |maro|samude|khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|
@@ -473,7 +474,7 @@
 |peza|bari|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |pezo|bar|ell:βάρος (báros), hin:भार (bhār), tel:భారము (bhāramu), may:may:berat|
 |pico|pize|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
-|piedpilko|futebol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
+|piedpilko|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |pilko|bol|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |pino|song|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|
 |pinĉilo|pinser|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
@@ -524,7 +525,7 @@
 |radiko|rize|ell:ρίζα (riza), eng:fra:rhizo-, por:spa:rizo-, rus:ризо- (rizo-)|
 |rado|cakre|ben:চাকা (caka), hin:चक्र (cakra)|
 |rafaneto|lobake|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
-|rajto|hake|ara: /haqq/, tur: hak, may: hak, swa: haki, hau: hakki|
+|rajto|hake|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |ramplo|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |rando (orlo)|kenar|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
 |rapida|rapidi|spa:por:rápido, eng:rapid, fra:rapide|
@@ -536,6 +537,7 @@
 |reto|nete|eng: net, deu: Netz|
 |rezervo|rezerve|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
 |rezino|rezin|eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine|
+|ridi|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |rigardi ia|konsida|eng:consider, spa:considerar|
 |rilato|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |rinocero|faru|swa:kifaru, kon:kifalu|
@@ -567,9 +569,9 @@
 |scio|jan|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
 |sciuro|tupay|may:may:tupai|
 |sed|a|rus:а (a), ukr:а (a), pol:a, + zho:啊 (ā), + eng:ah|
-|seka|gan|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
+|seka|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |sekso|sekse|eng:sex, fra:sexe, spa:por:sexo|
-|sekvinbero|gan putaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|sekvinbero|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |semajno|seman|spa:por:semana, fra:semaine|
 |semo|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
 |sep (7)|sem|rus:семь (semʹ)|
@@ -582,6 +584,7 @@
 |signifo|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
 |siropo|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
 |sitelo|balde|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
+|situacio (aferstato)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |si|ze|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
 |skatolo (kesto)|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
 |skribo|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
@@ -602,6 +605,7 @@
 |stacio|estasia|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
 |stadiono (areno)|estadia|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
 |stango|baton|eng:baton, fra:bâton, zho:棒 (bàng), jpn:棒 (bō)|
+|stato|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |stelo|xing|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
 |stranga|bizari|eng:fra:bizarre, por:bizarro, deu:bizarr|
 |substantivo|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
@@ -698,7 +702,7 @@
 |ĉambro|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |ĉapelo|tope|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
 |ĉapitro|babe|may:bab, ara:urd:fas:(bāb)|
-|ĉarma|kaway|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
+|ĉarma|kawayi|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
 |ĉarniro (pivoto)|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |ĉeestanta (nuna, ekzistanta)|zay|zho:在 (zài), jpn:在 (zai), vie:tại|
 |ĉelo|sel|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|

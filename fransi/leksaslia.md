@@ -28,6 +28,7 @@
 |art|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
 |assez|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |asthme|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
+|atchoum|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |autel|altar|eng:por:spa:may:altar, rus: алтарь (altar'), swa:altare, pol:ołtarz|
 |automne|oton|fra:automne, spa:otoño, por:outono, eng:autumn|
 |autre|ali|ell:άλλος (állos), ltn:alius, eng:allo-, por:spa:alo-|
@@ -104,6 +105,7 @@
 |données|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |drapeau|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
 |droit (rectiligne)|orti|eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|
+|droit|hake|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |dur|gati|tel:గట్టి (gaṭṭi), tkm:gaty, tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |eau|suy|zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|
 |enfant|bace|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
@@ -114,7 +116,7 @@
 |fils ou fille|pute|tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|
 |fiord|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |fleur|pul|hin:फूल (phul), ben:ফুল (phul)|
-|football|futebol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
+|football|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |forer (percer)|fora |fra:forer, por:furar, eng:perforate, spa:perforar|
 |fourmi|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
 |fragment|parce|fas:(parče), tur:parça, hin:पारचा (pārcā), eng:part, por:spa:parte|
@@ -157,7 +159,7 @@
 |loup|wolfe|deu:ned:eng:wolf, rus:волк (volk)|
 |lourd|bari|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |lys|susan|fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|
-|main|hate|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|main|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |mais (bien que)|a|rus:а (a), ukr:а (a), pol:a, + zho:啊 (ā), + eng:ah|
 |marbre|marmar|hin:संगमरमर (saṅgmarmar), spa:marmól, por:mármore, Rus:мрамор (mramor), may:marmer, Tur:mermer|
 |marché (bazar)|bazar|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)|
@@ -171,6 +173,7 @@
 |message|anjil|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |miel|mel|por:mel, fra:spa:miel, ell:μέλι (méli)|
 |migration|migre|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
+|mode (façon, manière)|mode|fra:eng:mode, spa:por:modo|
 |mois|mes|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |monde|dunia|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |mouche|zeze|tsw:sot:tsetse, lin:kon:nzinzi, swa:nzi, ber:izi, sna:nhunzi, ibo:ijiji, yor:eṣinṣin|
@@ -218,7 +221,7 @@
 |pet (vesse)|pede|ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|
 |petit|lil|eng:little|
 |peu|xaw|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
-|philosophie|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|philosophie|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |pile (batterie)|batre|eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|
 |pizza|pize|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
 |pièce (chambre)|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
@@ -243,6 +246,7 @@
 |reste|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |riche|rici|eng:rich, fra:riche, por:spa:rico|
 |rime|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
+|rire|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |rivière (fleuve)|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |riz|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |robot|robote|eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|
@@ -259,6 +263,7 @@
 |sel|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
 |sexe|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |shopping|xope|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
+|situation (état de choses)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |si|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |société|socia|rus:социум (socium), eng:society, spa:sociedad|
 |soldat|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
@@ -297,9 +302,10 @@
 |voyelle|vokal|spa:vocal. por:vogal. may:vokal.|
 |vrai|veri|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
 |vulve|vulve|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
-|végétarien|vejeniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
+|végétarien|vejoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zone|zone|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
+|Égypte|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |âge|umur|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
 |écriture|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
 |électricité|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
@@ -308,6 +314,7 @@
 |épingle|pin|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |épreuve (test)|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |étain|esten|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
+|état|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |étoile|xing|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
 |été|lete|fra:l'été, rus:лето (leto), cze:léto, scr:leto|
 |être humain|insan|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|
