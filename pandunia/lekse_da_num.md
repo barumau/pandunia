@@ -1,4 +1,4 @@
-#lekse da num sa bax
+#num da panduni lekse ca ali bax
 
 | bax | num | fen |
 |-----|-----|-----|

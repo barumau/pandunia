@@ -1,5 +1,5 @@
 kitaba_pike() {
-   echo "#lekse da num sa bax" > pandunia/lekse_da_num.md
+   echo "#num da panduni lekse ca ali bax" > pandunia/lekse_da_num.md
    echo "" >> pandunia/lekse_da_num.md
    echo "| bax | num | fen |" >> pandunia/lekse_da_num.md
    echo "|-----|-----|-----|" >> pandunia/lekse_da_num.md
