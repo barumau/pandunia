@@ -3,6 +3,8 @@ a - pero
 ##a
 abli - posible  
 acion - acción  
+aciy - achís  
+aciya - estornudar  
 adali - justo  
 adalia - justicia  
 afrike - África  
@@ -27,7 +29,7 @@ aple - manzana
 aplika - emplear  
 arane - araña  
 arbe - árbol  
-arbeparke - arboreto  
+arboparke - arboreto  
 arbuze - sandía  
 argente - plata  
 argum - argumento  
@@ -71,9 +73,9 @@ ben - lado
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
-boteraite - estribor  
 botolefte - babor  
 boton - botón  
+botoraite - estribor  
 bruni - marrón  
 buke - libro  
 ##c
@@ -86,7 +88,7 @@ coy - verduras
 dalil - prueba  
 danse - dança (baile)  
 date - datos  
-datebanke - banco de datos (base de datos)  
+datobanke - banco de datos (base de datos)  
 daysamude - océano  
 destin - destino  
 domi - doméstico  
@@ -104,20 +106,21 @@ ewanjil - evangelio
 fata - hacer  
 favori - favorito (preferido)  
 faze - etapa (fase)  
-filosofia - filosofía  
+filsofia - filosofía  
 fiorde - fiordo  
-fitelojia - botánica  
+fitolojia - botánica  
 fora  - perforar  
-fotegrafia - fotografía  
+fotografia - fotografía  
 funge - hongo  
-futebol - fútbol  
+futobol - fútbol  
 ##g
 galaksia - galaxia  
 galte - error  
 galti - erróneo  
+gamohal - humor  
 gas - gas  
-gatemate - sólido  
 gati - duro  
+gatomate - sólido  
 gim - oro  
 gitar - guitarra  
 gol - meta (gol)  
@@ -126,10 +129,13 @@ gul - gul
 gunden - palacio  
 gute - rodilla  
 ##h
+haha - reír  
+hake - derecho  
+hal - estado  
 halow - aló  
 hami - importante  
 hamili - embarazado (preñado)  
-hate - mano  
+hande - mano  
 hay - vida  
 hewan - animal (bestia)  
 hewanparke - zoo  
@@ -142,6 +148,7 @@ hotel - hotel (albergue)
 hule - zorro  
 ##i
 insan - ser humano  
+insani hake - derechos humanos  
 insanistia - humanismo  
 itis  - inflamación  
 iva - tender  
@@ -162,7 +169,7 @@ kance - vidrio (cristal)
 kansuygas - gas lacrimógeno  
 karawe - carvis (alcaravea)  
 karte - mapa  
-kartegrafia - cartografía  
+kartografia - cartografía  
 kava - cavar (excavar)  
 kave - fosa  
 kecape - kétchup  
@@ -171,8 +178,8 @@ kimia - química
 kirmi - rojo  
 kitaba - escribir  
 kitabe - escritura  
-kitabemaxin - máquina de escribir  
 kitabia - biblioteca  
+kitabomaxin - máquina de escribir  
 klimemute - cambio climático  
 ko - que (como)  
 ko? - cómo  
@@ -235,8 +242,10 @@ mester - maestro
 meze - mesa  
 migre - migración  
 milke - leche  
+misria - Egipto  
 mita - encontrar  
 mite - reunión (junta, mitin)  
+mode - modo (manera, forma)  
 molia - molino  
 mome - nosotros  
 monistia - monismo  
@@ -266,8 +275,8 @@ or - oreja
 oranje - naranja  
 oranji - anaranjado  
 oritis - otitis  
-ortegoni - ortogonal  
 orti - recto  
+ortogoni - ortogonal  
 oton - otoño  
 ##p
 pace - paz  
@@ -282,8 +291,8 @@ parce - fragmento
 parke - parque  
 parter - participante  
 pasporte - pasaporte  
-patejener - patógeno  
-patelojia - patología  
+patojener - patógeno  
+patolojia - patología  
 pauze - pausa  
 pay - pastel (pay)  
 peda - peer  
@@ -314,7 +323,7 @@ rang - color
 rapidi - rápido  
 ras - raza  
 retra - volver  
-retretikete - billete de ida y vuelta  
+retrotikete - billete de ida y vuelta  
 rezerve - réservation  
 rici - rico  
 rim - rima  
@@ -333,7 +342,7 @@ sang - sangre
 sapate - sapato  
 sar - cabeza  
 sekse - sexo  
-selelojia - citología  
+selolojia - citología  
 serye - serie  
 si - sí  
 sikle - bicicleta  
@@ -366,7 +375,7 @@ vagin - vagina
 vaginitis - vaginitis  
 vale - valle  
 vampir - vampiro  
-vejeniamiste - vegetariano  
+vejoniamiste - vegetariano  
 vente - problema  
 veri - verdadero  
 verme - verme  
@@ -389,6 +398,7 @@ xatan - Satanás
 xaw - pocos  
 xef - jefe  
 xey - cosa  
+xeyhal - situación  
 xite - mierda  
 xofa - conducir  
 xofer - conductor (chofer)  

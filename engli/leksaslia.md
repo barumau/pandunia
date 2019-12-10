@@ -3,6 +3,7 @@
 |----------|----------|----------|
 |about (approximately)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |accent (stress)|aksente|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
+|achoo|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |action (deed, performance, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
 |action|acion|fra:eng:action, spa:acción, por:ação, may:aksi|
 |address|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
@@ -29,7 +30,7 @@
 |anger (fury, rage, wrath)|furia|eng:fury, spa:pol:furia, por:fúria|
 |animal|hewan|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |answer (reply, response)|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
-|antonym|antenam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
+|antonym|antonam|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
 |ant|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
 |appearance (looks)|rupe|hin:रूप (rūp), may: rupa, tha: รูป /rūp/, khm:រូប (rūp)|
 |apple|aple|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
@@ -237,12 +238,12 @@
 |curtain|parde|ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde, kaz:перде (perde)|
 |curve (bend)|kurbe|fra:courbe spa:por:curva, eng:curve, eus:kurba|
 |custom (tradition, practice, convention)|rasme|ara:(rasm), hin:रस्म (rasma), may:resmi|
-|cute (sweet)|kaway|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
+|cute (sweet)|kawayi|jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|
 |cut|kata|eng: cut, hin: काटना /kāṭnā/, swa: -kata|
 |dagger|kanjar|fas:(xanjar), tur:haner, kaz:қанжар (qanjar), rus:кинжал (kinžal)|
 |damage (injury, harm)|damaje|eng:damage, fra:dommage|
 |dance|danse|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
-|danger (peril)|hatre|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
+|danger (peril)|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |data (numeric information)|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |date fruit|tamar|por:tamara, ara:(tamar)|
 |date|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
@@ -250,7 +251,7 @@
 |dead (deceased)|morti|por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|
 |debate (discuss)|lona|zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|
 |defense (defence)|defe|ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|
-|democracy|demekratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
+|democracy|demokratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
 |destination (destiny, fate)|destin|eng:destination, destiny, fra:destin, spa:por:destino|
 |development|fajan|zho:发展 (fāzhǎn), vie:phát triển, kor:발전 (bajjeon)|
 |devil (Satan)|xatan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|
@@ -276,32 +277,33 @@
 |drop (droplet)|yote|tha:หยด (yòt), lao:ຢອດ (yǭt), vie:giọt, + eng:iota, rus:йота (yota)|
 |drug (intoxicating substance)|droge|eng:drug, spa:droga, fra:drogue, deu:Droge|
 |drum|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
-|dry|gan|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
+|dry|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |duck|bate|mar:बदक (batak), urd:(batax), hin:बत्तख (battakh), tel:బాతు (bātu), fas:(bat), ara:(baṭṭa), swa:bata, spa:por:pato, tha:เป็ด  (pèt)|
 |dumpling (ravioli, pelmeni)|pelmen|rus:пельмень (pel'men'), pol:pielmeni, eng:pelmeni|
 |duration|dure|eng:duration, fra:durée, spa:por:durar, deu:dauer|
 |dust (powder)|fun|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
 |each other (one another, mutually)|unale|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |earn (gain)|ganya|fra:gagner, por:ganhar, spa:ganar, eng:gain|
-|earth (ground)|zeme|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
+|earth (ground)|zem|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |ear|or|zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|
 |east|dong|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|
 |easy|izi|eng:easy, fra:aisée|
 |ecology (study of environment)|ekelojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |eggplant (aubergine, brinjal)|bedinjan|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |egg|ande|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
+|Egypt|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |eight (8)|bal|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|
 |electricity|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |elephant|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |emerald|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
 |emotion (feeling)|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
-|empty|hali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|empty|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |end|fin|spa: fin, fra: fin, por: fim|
 |enough (sufficient)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |equal (fair)|egal|fra:égal, spa:por:igual, eng:equal|
 |escape (flee, run away)|bega|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |evaluate (review, criticise)|pipinga|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
-|even (intensifier)|hati|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|even (intensifier)|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |evening|xam|hin: शाम (śām), fas:(šām), tur:akşam|
 |event (case, instance)|kase|eng:case, fra:cas, spa:por:caso, deu:Kasus|
 |every (each)|mey|zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|
@@ -344,7 +346,7 @@
 |flow|liwu|zho:流 (liú), jpn:流 (ryū)|
 |fly (housefly)|zeze|tsw:sot:tsetse, lin:kon:nzinzi, swa:nzi, ber:izi, sna:nhunzi, ibo:ijiji, yor:eṣinṣin|
 |fool (buffoon)|bufon|spa:bufón, eng:buffoon, fra:bouffon|
-|football (soccer)|futebol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
+|football (soccer)|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |forbidden (illicit, haram, taboo)|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |foreign|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |forest (jungle, woods)|jangal|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
@@ -401,7 +403,7 @@
 |hair|kex|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
 |hammer|hamar|eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|
 |Han Chinese|cini|hin:चीनी (cīnī), tur:Çin, ara:(ṣiniy), spa:chino, eng:Chinese, tha:จีน (chin), zho:秦 (qín)|
-|hand|hate|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|hand|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |happy (delighted)|suki|hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk)|
 |hard (tough)|gati|tel:గట్టి (gaṭṭi), tkm:gaty, tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |hardship (difficulty)|kunan|zho:困难 (kùnnán), jpn:困難 (konan), vie:khốn nạn, kor:곤란 (gollan)|
@@ -486,6 +488,7 @@
 |lantern|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |larva (maggot, caterpillar)|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |lasagna|lazanye|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
+|laugh|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |law|kanun|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
 |layer (level, storey, floor, stratum)|ceng|zho:层 (céng), yue:層 (cang4), kor:층 (chŭng), vie:tầng|
 |leader (director)|lider|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
@@ -660,7 +663,7 @@
 |perfect|kamili|ara:(kāmil), fas:(kâmel), urd:(kāmil), swa:kamili|
 |permissible (allowed, halal)|halal|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
 |person (people)|ren|zho: 人 (rén)|
-|philosophy|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|philosophy|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |pie (pastry)|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |piece (fragment, shred, morsel, crumb)|parce|fas:(parče), tur:parça, hin:पारचा (pārcā), eng:part, por:spa:parte|
 |pig|gurube|rwa:gurube, sna:guruve, swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, kat:ღორი (ğori), + (onom,) jpn:(gorogoro) ron:groh, scr:grok, eng:grunt|
@@ -715,7 +718,7 @@
 |race (breed)|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |radish|lobake|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
 |rain|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
-|raisin|gan putaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|raisin|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ramp (incline)|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |read|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |realization (awareness, enlightenment, bodhi)|bude|scr:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|
@@ -739,7 +742,7 @@
 |rice|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |rich|rici|eng:rich, fra:riche, por:spa:rico|
 |right (correct, accurate)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
-|right (justification, privilege)|hake|ara: /haqq/, tur: hak, may: hak, swa: haki, hau: hakki|
+|right (entitlement)|hake|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|
 |right hand side|raite|eng:right|
 |risk|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |ritual (ceremony)|rite|eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|
@@ -803,6 +806,7 @@
 |sibling (brother or sister)|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |sickness (illness, disease)|patia|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
 |side (periphery, accompaniment)|ben|zho:边 (biān), vie:bên|
+|situation (circumstances, state of affairs)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |sit|sida|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
 |sizzle|ziza|zho:zizi eng:sizzle|
 |skill (art, competence)|xute|zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|
@@ -848,6 +852,7 @@
 |stairs (ladder)|eskal|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
 |stand|libu|zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib)|
 |star|xing|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
+|state (condition, status, situation)|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |station|estasia|tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|
 |steamed bun (mantou, manti)|mante|tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|
 |step (degree, rank, grade, level, class)|darje|ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|
@@ -943,7 +948,7 @@
 |vagina|vagin|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
 |valley|vale|por:vale, eng:valley, fra:vallée, spa:valle|
 |valve (tap, faucet)|kran|ned:kraan, rus:taj:kaz:кран (kran), pol:aze:kran, may:keran|
-|vegetarian|vejeniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
+|vegetarian|vejoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |veil (cover, screen)|hijabe|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |veranda (balcony, terrace, porch)|berande|hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda)|
 |version (variation, edition)|version|eng:fra:version, por:versão, rus:версия (versiya), may:versi|
@@ -952,7 +957,7 @@
 |village|ruste|fas:روستا‎ (rustâ), + eng:rustic, por:spa:rustico, fra:rustique|
 |vinegar|sirke|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |virology|viruslojia|pol:wirusologia, rus:вирусология (virusologiya)|
-|virtue (morals)|gunodarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
+|virtue (morals)|gundarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
 |virus|virus|eng:virus, rus:вирус (virus)|
 |visa|vize|tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|
 |visitation (visit)|vizite|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
@@ -970,6 +975,7 @@
 |water|suy|zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|
 |wave|onde|spa:por:ita:onda, fra:onde, may:ombak|
 |wax|mum|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
+|way (manner, mode)|mode|fra:eng:mode, spa:por:modo|
 |way (road)|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
 |weapon (arms)|arme|fra:arme, eng:arms, spa:por:arma|
 |weather|tenke|zho:天气 (tiǎnqì), jpn:天気 (tenki)|

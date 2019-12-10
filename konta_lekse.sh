@@ -1,8 +1,8 @@
 kitaba_pike() {
-   echo "#lekse da num sa bax" > pandunia/lekse_da_num.md
+   echo "#num da panduni lekse ca ali bax" > pandunia/lekse_da_num.md
    echo "" >> pandunia/lekse_da_num.md
-   echo "| bax | num |" >> pandunia/lekse_da_num.md
-   echo "|-----|-----|" >> pandunia/lekse_da_num.md
+   echo "| bax | num | fen |" >> pandunia/lekse_da_num.md
+   echo "|-----|-----|-----|" >> pandunia/lekse_da_num.md
    cat temp/stats.txt >> pandunia/lekse_da_num.md
 }
 
@@ -13,8 +13,9 @@ fata_leksasli_liste() {
 }
 
 konta_bax() {
-   echo "$2 " >> temp/stats.txt
-   cat temp/lekse.txt | grep -c "$1:" >> temp/stats.txt
+#   echo "$2 " >> temp/stats.txt
+   bax=$(cat temp/lekse.txt | grep -c "$1:")
+   echo "$2 $bax $((($bax*100)/$3))%" >> temp/stats.txt
 }
 
 konta_baxi_aria()
@@ -41,31 +42,30 @@ fata_table() {
 fata_leksasli_liste
 
 rm temp/stats.txt
+pan=$(cat temp/lekse.txt | grep -c ":" )
+echo "pan $pan 100%" >> temp/stats.txt
 
-echo "pan " >> temp/stats.txt
-cat temp/lekse.txt | grep -c ":" >> temp/stats.txt
+konta_bax eng engli $pan
+konta_bax fra fransi $pan
+konta_bax spa espani $pan
+konta_bax por portugali $pan
+konta_bax rus rusi $pan
 
-konta_bax eng engli
-konta_bax fra fransi
-konta_bax spa espani
-konta_bax por portugali
-konta_bax rus rusi
+konta_bax hin hindustani $pan
+konta_bax ben bangli $pan
+konta_bax fas farsi $pan
+konta_bax tur turki $pan
 
-konta_bax hin hindustani
-konta_bax ben bangli
-konta_bax fas farsi
-konta_bax tur turki
+konta_bax zho cini $pan
+konta_bax jpn niponi $pan
+konta_bax kor coseni $pan
+konta_bax vie vieti $pan
 
-konta_bax zho cini
-konta_bax jpn niponi
-konta_bax kor coseni
-konta_bax vie vieti
+konta_bax may malayi $pan
+konta_bax tgl filipini $pan
 
-konta_bax may malayi
-konta_bax tgl filipini
-
-konta_bax ara arabi
-konta_bax swa swahili
+konta_bax ara arabi $pan
+konta_bax swa swahili $pan
 
 #kina nam e num pa sam linye
 perl -pi -e 's/ \n/ /' temp/stats.txt

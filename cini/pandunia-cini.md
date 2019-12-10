@@ -3,6 +3,8 @@
 abace - 字母表  
 abla - 会  
 abli - 可能  
+aciy - 阿嚏  
+aciya - 打喷嚏  
 adali - 公正地  
 adalia - 正义  
 adres - 地址  
@@ -62,7 +64,7 @@ bandir - 旗
 banke - 银行  
 banse - 竹子  
 banye - 洗澡  
-banyekamar - 浴室  
+banyokamar - 浴室  
 banyu - 游泳  
 banze - 板子  
 bari - 重型的  
@@ -74,7 +76,7 @@ bas - 够
 baskobol - 篮球  
 batre - 电池  
 bax - 语言  
-baxlojia - 白色  
+baxolojia - 白色  
 bazar - 市场  
 baze - 底部  
 bebe - 宝宝  
@@ -88,9 +90,9 @@ bombe - 炸弹
 bon - 好  
 bon rupi - 好看  
 bote - 船 (艇)  
-boteraite - 右舷  
 botolefte - 左舷  
 boton - 扣子  
+botoraite - 右舷  
 bruni - 棕色 (色)  
 buke - 书  
 buze - 山羊  
@@ -104,7 +106,7 @@ cini - 汉族
 cis - 酪 (起司)  
 ##d
 date - 数据  
-datebanke - 数据库  
+datobanke - 数据库  
 daysamude - 大洋  
 destin - 目的地 (命運)  
 dew - 神  
@@ -120,31 +122,35 @@ esten - 锡
 ewanjil - 福音  
 ##f
 fem - 女  
-filosofia - 哲学  
+filsofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
-fitelojia - 植物学  
+fitolojia - 植物学  
 fora  - 钻孔  
 fraze - 句子  
 ##g
 galaksia - 恆星系  
 galte - 错误  
+gamohal - 心情  
 gar - 如果 (要是)  
-gatemate - 固体  
 gati - 硬  
+gatomate - 固体  
 genca - 检查  
 gim - 金  
 gitar - 吉他  
 gol - 目的  
+gundarme - 道德  
 gunden - 宫殿  
-gunodarme - 道德  
 gute - 膝  
 ##h
 habar - 消息  
+haha - 笑  
 haime - 帐篷  
+hake - 权利  
+hal - 状态  
 hami - 重要  
 hamili - 怀孕  
-hate - 手  
+hande - 手  
 hay - 生命  
 helis - 螺旋  
 helpa - 帮助  
@@ -158,6 +164,7 @@ hotel - 旅馆
 hule - 狐狸  
 ##i
 insan - 人类  
+insani hake - 人权  
 insanistia - 人文主义  
 itis  - 炎症  
 ive - 趋势  
@@ -184,7 +191,7 @@ kansuygas - 催泪瓦斯
 karbondulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
-kartegrafia - 地图学  
+kartografia - 地图学  
 kata - 切  
 kava - 挖  
 kave - 坑 (穴)  
@@ -194,8 +201,8 @@ kerne - 核心
 kimia - 化学  
 kirmi - 红  
 kitaba - 写  
-kitabemaxin - 打字机  
 kitabia - 图书馆  
+kitabomaxin - 打字机  
 klimemute - 气候变化  
 ko - 比  
 ko? - 怎么  
@@ -257,6 +264,7 @@ metaljanger - 铁匠
 mey - 每  
 meze - 桌子  
 migra - 搬家  
+misria - 埃及  
 mita - 聚会  
 mite - 会议  
 moke - 木材  
@@ -299,8 +307,8 @@ pape - 爸爸
 param - 参数  
 parke - 园  
 pasporte - 护照  
-patejener - 病原体  
-patelojia - 病理学  
+patojener - 病原体  
+patolojia - 病理学  
 pay - 馅饼  
 peda - 放屁  
 pede - 屁  
@@ -326,7 +334,7 @@ rapidi - 快
 ras - 种族  
 reste - 其余  
 retra - 返回 (回来)  
-retretikete - 往返票  
+retrotikete - 往返票  
 rize - 根  
 ##s
 sabun - 肥皂  
@@ -342,7 +350,7 @@ sanwice - 三明治 (三文治)
 sapate - 鞋  
 sar - 头  
 sekse - 性别  
-selelojia - 细胞学  
+selolojia - 细胞学  
 serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  
@@ -366,8 +374,8 @@ tazi - 新鲜的
 te - 你  
 tekne - 技术  
 teknelojia - 工艺学  
-telefon - 电话机  
-televide - 电视机  
+telfon - 电话机  
+telvide - 电视机  
 teme - 主题目  
 tena - 有  
 tenke - 天气  
@@ -389,7 +397,7 @@ ura - 好哇
 vagin - 阴道  
 vampir - 吸血鬼  
 veje - 蔬菜  
-vejeniamiste - 素食主义者  
+vejoniamiste - 素食主义者  
 vente - 问题 (难题)  
 vespe - 蜂  
 vida - 看  
@@ -407,6 +415,7 @@ xam - 晚上
 xatan - 撒但  
 xaw - 少  
 xey - 事物 (东西)  
+xeyhal - 事态  
 xibay - 失败  
 xim - 心  
 xir - 诗  

@@ -20,16 +20,16 @@ adres - adres
 adulte - osoba dorosła  
 afgania - Afganistan  
 afrike - Afryka  
-afrikefiler - afrofil  
-afrikefilia - afrofilia  
 afriki - afrykański, Afrykanin  
+afrikofiler - afrofil  
+afrikofilia - afrofilia  
 agres - atak (agresja, napaść)  
 agresi - agresywny  
 aha - rozumieć, pojmować  
 ainstainium - einstein  
 air - powietrze  
 airbare - ciśnienie atmosferyczne  
-airbaremeter - barometr  
+airbarmeter - barometr  
 ais - lód  
 aisehoke - hokej na lodzie  
 aisekrem - lody  
@@ -37,15 +37,15 @@ aisi - lodowy
 ajil - zwinny, sprawny  
 akse - oś  
 aksente - akcent, nacisk  
-alefone - alofon  
-alenami - innymi słowy  
-aleseksekami - heteroseksualny  
 alge - alga (wodorost)  
 ali - inny  
 alkol - alkohol  
 alkoli - alkoholowy  
 almar - kredens (szafa, szafka)  
 almas - diament  
+alofone - alofon  
+alonami - innymi słowy  
+aloseksi - heteroseksualny  
 altar - ołtarz  
 alumin - glin (aluminium)  
 am - miłość (afekt)  
@@ -66,10 +66,10 @@ anima - animować
 anime - animacja  
 anta - sprzeciwiać się (opierać się)  
 antartia - Antarktyka  
-antekriste - antychryst  
 anten - antena  
-antenam - antonim  
 anter - przeciwnik (antagonista)  
+antokriste - antychryst  
+antonam - antonim  
 anus - odbyt  
 anusi - analny, odbytni  
 aple - jabłko  
@@ -77,9 +77,9 @@ aplika - zastosować, stosować
 aplike - zastosowanie, aplikacja  
 arabi - arabski  
 arane - pająk  
-aranfobia - arachnofobia  
+aranofobia - arachnofobia  
 arbe - drzewo  
-arbeparke - arboretum  
+arboparke - arboretum  
 arbuze - arbuz  
 are - pole, powierzchnia  
 argentinia - Argentyna  
@@ -102,9 +102,9 @@ ate - jabłko cukrowe
 atom - atom  
 auda - usłyszeć, słyszeć; słuchać  
 australia - Australia  
-autemoti - samobieżny  
-autenomi - autonomiczny  
-autenomia - autonomia  
+automoti - samobieżny  
+autonomi - autonomiczny  
+autonomia - autonomia  
 awakate - awokado  
 axur - Aszur  
 axuria - Asyria  
@@ -143,10 +143,10 @@ banke - bank
 banker - bankier  
 banse - bambus  
 banye - kąpiel  
-banyekamar - łazienka  
+banyokamar - łazienka  
 banyu - kąpać się  
 banze - deska  
-banzegem - gra planszowa  
+banzogem - gra planszowa  
 bar - waga (ciężkość)  
 barbados - Barbados  
 barbar - barbarzyńca  
@@ -169,13 +169,13 @@ baskobol - piłka do koszykówki (koszykówka)
 bate - kaczka  
 batokrote - dziobak  
 baton - pręt, kij  
-batonopang - bagietka  
+batonpang - bagietka  
 batre - bateria  
 baw - magazyn, dziennik, gazeta  
 bawer - dziennikarz  
 bax - język; komunikacja  
 baxa - mówić; komunikować  
-baxlojia - językoznastwo  
+baxolojia - językoznastwo  
 bazar - rynek, bazar  
 bazarhuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
@@ -236,11 +236,11 @@ borium - bohr
 boron - bor  
 bosnia - Bośnia i Harcegowina  
 bote - łódź, statek  
-botekaper - kaper (korsarz)  
-boteraite - sterburta (prawa burta)  
+botokaper - kaper (korsarz)  
 botol - butelka  
 botolefte - bakburta (lewa burta)  
 boton - guzik  
+botoraite - sterburta (prawa burta)  
 brazavili kongolia - Republika Konga  
 brazilia - Brazyla  
 britania - Zjednoczone Królestwo  
@@ -290,7 +290,7 @@ capa - naciskać, zostawiać ślad
 capate - płaski chleb, ćapati  
 cape - odcisk, ślad; stempel, pieczęć  
 car - cztery (4)  
-cargon - kwadrat (czworokąt, czworobok, tetragon)  
+carogon - kwadrat (czworokąt, czworobok, tetragon)  
 cate - dach  
 cay - herbata  
 cayeria - herbaciarnia  
@@ -315,7 +315,7 @@ cis - ser
 cita - cytować  
 coda - jebać, kopulować  
 cokol - czekolada  
-cokolobaton - baton czekoladowy  
+cokolbaton - baton czekoladowy  
 cora - ukraść, kraść  
 core - kradzież  
 corer - złodziej  
@@ -325,7 +325,7 @@ cune - wiosna
 cupa - ssać  
 cuta - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 cute - wyjśćie, opuszczenie  
-cutmun - drzwi wyjściowe  
+cutomun - drzwi wyjściowe  
 cuza - wybrać, wybierać, selekcjonować  
 cuze - wybór, elekcja, selekcja  
 ##d
@@ -343,8 +343,8 @@ dania - Dania
 danka - dziękować  
 danke - dzięki, dzięki ci  
 dante - ząb  
-dantebrox - szczoteczka do zębów  
-dantemediker - dentysta  
+dantobrox - szczoteczka do zębów  
+dantomediker - dentysta  
 darba - bić, uderzyć, uderzać  
 darje - stopień, poziom, ranga, klasa  
 darme - moralność, etyka  
@@ -363,26 +363,26 @@ dawistia - taoizm
 day - duży  
 daysamude - ocean  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
-dec- - decy-, dziesiąta część  
+deco- - decy-, dziesiąta część  
 defa - obronić (chronić)  
 defe - obrona  
 defer - obrońca  
 defta - zapisać (zarejestrować)  
 defte - rejestr  
-deftebuke - dziennik pokładowy (notatnik)  
 deftia - register  
+deftobuke - dziennik pokładowy (notatnik)  
 deka - przykryć, przykrywać, ukryć, ukrywać  
 deke - pokrycie; pokrywa, wieko, dekiel; pokład  
 dekula - odsłonić, odsłaniać  
 deme - lud, społeczeństwo  
-demegrafia - demografia  
-demekrati - demokratyczny  
-demekratia - demokracja  
-demekratiste - demokrata  
+demografia - demografia  
+demokrati - demokratyczny  
+demokratia - demokracja  
+demokratiste - demokrata  
 demon - demon  
 den - dzień  
-deneniam - obiad, lunch  
 denga - czekać  
+denoniam - obiad, lunch  
 des - dziesięć (10)  
 desen - rysunek, obraz  
 destin - przeznaczenie, los  
@@ -441,7 +441,7 @@ dum - ogon
 duman - dym  
 duni - globalny  
 dunia - świat  
-duniabax - język świata, język ogólnoświatowy  
+dunia bax - język świata, język ogólnoświatowy  
 dura - trwać, zająć czas; przez  
 dure - trwanie  
 duru - minąć, mijać (czas)  
@@ -464,8 +464,8 @@ eletron - elektron
 eletroposte (e-poste) - poczta elektroniczna  
 em - jednostki podstawowej  
 energe - energia  
-englefiler - anglofil  
 engli - Anglik; angielski  
+englofiler - anglofil  
 eni - jakikolwiek, którykolwiek  
 enzim - enzym  
 er - przyrostek dla wykonawcy  
@@ -509,7 +509,7 @@ fain - delikatny, cienki, lekki
 fajan - rozwój  
 falsi - fałszywy, nieprawdziwy  
 famil - rodzina  
-familonam - nazwisko, imię rodziny  
+familnam - nazwisko, imię rodziny  
 fan - zabawa, rozrywka  
 fana - bawić, zabawiać  
 fani - zabawny  
@@ -523,9 +523,9 @@ fas - powierzchnia
 fasin - fascynacja  
 fata - zrobić (stworzyć, wykreować)  
 fate - czyn, uczynek  
-fatelekse - czasownik  
 fater - twórca, kreator, czynnik  
 fateria - fabryka, manufaktura  
+fatolekse - czasownik  
 faxe - bandaż, taśma, wstążka  
 faxiste - faszysta  
 faxistia - faszyzm  
@@ -559,9 +559,9 @@ filia - zamiłowanie (-filia)
 filipinia - Filipiny  
 filistinia - Terytorium Palestyńskie  
 filme - film  
-filosofia - filozofia  
 filsofer - filozof  
 filsofi - filozoficzny  
+filsofia - filozofia  
 filter - filtr  
 fin - koniec  
 fina - skończyć, kończyć  
@@ -571,7 +571,7 @@ fini - ostatni, końcowy
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
-fitelojia - botanika  
+fitolojia - botanika  
 fix - ryba  
 fixotanke - akwarium  
 fizike - fizyka  
@@ -584,8 +584,8 @@ fokusa - skupić, się, skoncentrować się
 foli - szalony  
 folia - szaleństwo  
 fone - głoska  
-fonelojia - fonologia  
 foneme - fonem  
+fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
 fora  - wiercić, borować  
 forke - widelec  
@@ -595,8 +595,8 @@ forti - silny
 fortia - siła  
 forum - forum  
 fosfor - fosfor  
-fotegrafia - fotografia  
-fotemaxin - kamera, aparat fotograficzny  
+fotografia - fotografia  
+fotomaxin - kamera, aparat fotograficzny  
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
 fransium - frans  
@@ -616,7 +616,7 @@ furi - zły (wsciekły, gniewny)
 furia - gniew, furia  
 futaw - siekera, topór  
 fute - stopa  
-futebol - piłka nożna  
+futobol - piłka nożna  
 fuy - fu, fuj  
 ##g
 gabre - grób, mogiła, grobowiec  
@@ -632,13 +632,13 @@ gam - emocja, uczucie
 gama - czuć, odczuć, odczuwać  
 gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
-gan - suchy  
-gan putaw - rodzynka  
 gandia - Uganda  
 gang - właśnie, dopiero co, ostatnio, niedawno  
 ganga - Ganges  
+gani - suchy  
 gania - Ghana  
 ganje - konopie  
+ganputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
@@ -661,7 +661,7 @@ geta - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
 geter - odbiorca  
 gey - gejowski (homoseksualny)  
 gida - sterować  
-gig- - bilion, giga-  
+gigo- - bilion, giga-  
 gim - złoto  
 gitar - gitara  
 giyania - Gujana Francuska  
@@ -670,7 +670,7 @@ gluten - gluten
 gol - cel  
 gom - guma  
 gon - kąt  
-gonmeter - goniometr (kątomierz)  
+gonometer - goniometr (kątomierz)  
 goton - bawełna  
 gowa - iść (przemieścić się)  
 graf - opis, przedstawienie; wykres  
@@ -709,7 +709,7 @@ gute - kolano
 guy - ogr (trol, goblin)  
 ##h
 habar - wiadomość, nius  
-habarobaw - gazeta  
+habarbaw - gazeta  
 hafiza - zachować, zakonserwować, zachować, utrzymać  
 hafizer - przechowawca, kustosz, opiekun  
 hafnium - hafn  
@@ -723,7 +723,6 @@ hakimer - sędzia
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halela - chwalić (wychwalać)  
-hali - pusty  
 halif - kalif  
 halifia - kalifat  
 halow - halo, cześć  
@@ -733,6 +732,8 @@ hami - ważny
 hamili - ciężarny (w ciąży)  
 hamir - drożdże  
 hamu - znaczyć (liczyć się, być ważnym)  
+hande - ręka, dłoń  
+handi - ręczny  
 haos - chaos, nieporządek; wrzawa, zgiełk  
 haraba - rujnować, dewastwować, burzyć  
 harabi - zły, zrujnowany, zepsuty  
@@ -744,11 +745,9 @@ harmonia - harmonia
 harnes - zaprzęc, zaprzęgać  
 hasi - specjalny, wyraźny, wyrazisty  
 hasium - has  
-hate - ręka, dłoń  
-hati - nawet  
-hati - ręczny  
-hatre - zagrożenie, niebezpieczeństwo  
-hatri - niebezpieczny  
+hatar - zagrożenie, niebezpieczeństwo  
+hatari - niebezpieczny  
+hato - nawet  
 hawa - dmuchać  
 hawe - wiatr  
 hay - wciąż, nadal  
@@ -812,15 +811,16 @@ imperia - imperium
 imperiste - imperialista  
 imperistia - imperializm  
 inde - wnętrze (środek)  
-indejeni - wewnętrzny  
 indi - wewnętrzny  
 indium - ind  
+indojeni - wewnętrzny  
 indonesia - Indonezja  
 infekse - infekcja (zakażenie)  
 informa - poinformować, informować, zakomunikować, komunikować  
 informe - informacja  
 injener - inżynier  
 insan - człowiek, istota ludzka  
+insani hake - prawa człowieka  
 insania - ludzkość, rodzaj ludzki  
 insaniste - humanista  
 insanisti - humanistyczny  
@@ -866,11 +866,11 @@ jamula - rozproszyć, rozpraszać
 jan - wiedza  
 jana - wiedzieć  
 janel - okno  
-janelojia - epistemologia  
 jangal - las, dżungla, zagajnik  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
 jani - wiadomy, znany  
+janolojia - epistemologia  
 jar - dzban, dzbanek; słój, słoik  
 jawaba - odpowiedzieć, odpowiadać  
 jawabe - odpowiedź, odzew  
@@ -932,6 +932,7 @@ kaka - defekować, srać
 kakaw - kakao  
 kake - ekskrement, gówno  
 kalam - pióro, długopis  
+kali - pusty  
 kalifornium - kaliforn  
 kalium - potas  
 kalkulia - rachunek (formalny system obliczeń)  
@@ -988,7 +989,7 @@ katan - miecz
 kataria - Katar  
 kava - wykopać, kopać, wydobyć, wydobywać, wykopywać  
 kave - dół, jama, wydobycie, wykop, wykopalisko  
-kaway - uroczy, słodki  
+kawayi - uroczy, słodki  
 kaxe - pudełko, skrzynia  
 kaxer - kasjer  
 kay - otwarty, niezamknięty  
@@ -1016,8 +1017,8 @@ ki ren - co?
 ki sate - zapytać, pytać  
 ki xey - jak?  
 kil - tysiąc  
-kilgram - kilogram (kg)  
-kilmetre - kilometr  
+kilogram - kilogram (kg)  
+kilometre - kilometr  
 kimi - chemiczny  
 kimia - chemia  
 kina - ruszać, przenościć, zmieniać miejsce  
@@ -1034,8 +1035,8 @@ kirili abace - cyrylica
 kirisa - wynająć, oddać w najem  
 kitaba - napisać, pisać  
 kitabe - pismo, tekst  
-kitabemaxin - maszyna do pisania  
 kitabia - biblioteka  
+kitabomaxin - maszyna do pisania  
 kiwe - owoc kiwi  
 klar - przeźroczysty, jasny  
 klara - wyklarować (rozjaśnić)  
@@ -1169,7 +1170,7 @@ laskeria - armia
 lasti - elastyczny  
 lasun - larwa, czerw, gąsienica  
 latini abace - alfabet łaciński, łacinka, alfabet rzymski  
-latwia - Łotwa  
+latvia - Łotwa  
 laurensium - lorens  
 laxa - puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1203,10 +1204,10 @@ lil - mały; mało, trochę, nieco
 lil niam - przekąska  
 lilake - lilak  
 lim - pięć (5)  
-limefas - pięciościan (pryzmat)  
-limegon - pięciokąt (pentagon)  
 limfe - limfa  
 limite - limit, granica  
+limofas - pięciościan (pryzmat)  
+limogon - pięciokąt (pentagon)  
 limon - cytryna  
 limonrangi - żółty  
 linye - linia, pas, pręga, smuga  
@@ -1218,8 +1219,8 @@ lixtenxtain - Liechtenstein
 lobake - rzodkiewka  
 loga - mówić, rozmawiać  
 loge - mowa; słowo  
-logefiler - logofil (miłośnik słów)  
 logike - logika, dedukcja  
+logofiler - logofil (miłośnik słów)  
 loja - badać, studiować  
 lojia - nauka, badanie, studiowanie  
 loka - umieścić (postawić)  
@@ -1292,7 +1293,7 @@ mandir - świątynia
 mangan - mangan  
 mange - mango  
 mangus - mangostan  
-mani ban - syn  
+mani bace - syn  
 mani rajer - król  
 manihay - prorok Mani  
 manihayistia - manicheizm  
@@ -1352,10 +1353,10 @@ medika - uleczyć, leczyć, uzdrowić, uzdrawiać
 mediker - doktor, lekarz, uzdrowiciel  
 medikia - medycyna  
 medita - medytować; dumać, rozmyślać, zastanawiać się  
-meg- - mega-  
 megam - chmura  
 megi - milion  
-megwate - megawat  
+mego- - mega-  
+megowate - megawat  
 meh - owca  
 mel - miód  
 melodi - melodyczny  
@@ -1400,9 +1401,9 @@ migan - mandarynka
 migre - migracja  
 mikr- - mikro-  
 mikronesia - Mikronezja  
-mil- - mili-  
 milke - mleko  
-milmetre - milimetr  
+milo- - mili-  
+milometre - milimetr  
 min - mniej  
 min ko bas - zbyt mało  
 minar - wieża  
@@ -1432,7 +1433,6 @@ mita - spotkać
 mite - spotkanie, zebranie  
 mixa - miksować, mieszać  
 mixer - mikser, blender, robot kuchenny  
-mode - moda, trend  
 model - model, wzór, wzorzec, projekt  
 moge - tusz  
 moke - drewno  
@@ -1445,13 +1445,13 @@ moluske - mięczak (morski bezkręgowiec)
 mome - my  
 mon - tylko  
 monakia - Monako  
-monekratia - monarchia  
-moneloge - monolog  
-monevejeniamiste - weganin (weganka)  
 mongol - Mongolski  
 mongolia - Mongolia  
 monistia - monizm  
 monodewistia - monoteizm  
+monokratia - monarchia  
+monologe - monolog  
+monovejeniamiste - weganin (weganka)  
 monster - potwór, monstrum  
 morfe - morf  
 morfem - morfem  
@@ -1510,9 +1510,9 @@ namibia - Namibia
 namisa - nazwać, nazywać, wezwać, wzywać  
 namlekse - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
-nan- - nano-  
 nanas - ananans  
-nanemetre - nanometr  
+nano- - nano-  
+nanometre - nanometr  
 narake - piekło  
 nas - ludzie (lud, ludność)  
 nasi - narodowy (ludowy)  
@@ -1695,10 +1695,10 @@ paske - Wielkanoc
 pasporte - paszport  
 paste - pasta  
 patate - ziemniak  
-patejener - patogen  
-patelojia - patologia  
 pati - chory  
 patia - choroba  
+patojener - patogen  
+patolojia - patologia  
 paunde - funt (£)  
 pauza - przerwać, przerywać  
 pauze - pauza, przerwa  
@@ -1790,14 +1790,14 @@ pompa - pompować
 ponta - wskazać, wskazywać  
 ponter - wskaźnik  
 porne - porno, film erotyczny  
-pornegrafia - pornografia  
+pornografia - pornografia  
 portorikia - Puerto Rico  
 portugalia - Portugalia  
 pospor - fosfor  
 posta - nadać, wysłać pocztą  
 poste - poczta  
-postecape - znaczek pocztowy  
 postia - poczta, budynek poczty  
+postocape - znaczek pocztowy  
 pote - błoto  
 poti - błotnisty  
 potistan - bagno  
@@ -1989,7 +1989,7 @@ saman - niebo
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
 samdexi - rodak, ziomek, krajan  
-samjinsekami - homoseksualny  
+samjinsokami - homoseksualny  
 samoa - Samoa  
 samray - porozumienie  
 samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
@@ -2027,7 +2027,7 @@ sekse - seks, stosunek płciowy
 seksi - płciowy  
 seksi - seksowny, ponętny  
 sekunde - sekunda  
-sekundemeter - stoper  
+sekundometer - stoper  
 sekur - bezpieczny  
 sekura - chronić (ratować)  
 sel - komórka (biologia)  
@@ -2163,7 +2163,7 @@ taige - tajga
 taiwania - Tajwan, Republika Chińska  
 tajikia - Tadżykistan  
 takse - podatek, opłata  
-taksekar - taxi, taksówka  
+taksokar - taxi, taksówka  
 tal - dół, spód  
 talium - tal  
 tamar - daktyl  
@@ -2195,12 +2195,13 @@ te - ty, ciebie
 tekne - technika, technologia  
 teknelojia - technologia, nauka o technikach  
 teknetium - technet  
+teknokratia - technokracja  
 tele - dystans  
-telefon - telefon  
-televide - telewizja  
+telfon - telefon  
 teli - daleki, odległy  
 telugi - telugu  
 telurium - tellur  
+telvide - telewizja  
 tema - być o; dyskutować o  
 teme - temat, motyw  
 tena - mieć (trzymać)  
@@ -2209,7 +2210,6 @@ tener - uchwyt (pojemnik)
 tenesin - tenesyn, tennessine  
 tenis - tenis  
 tenke - pogoda  
-tenknekratia - technokracja  
 tenliste - spis treści (tabela zawartości)  
 tenta - kusić, nakłonić, nakłaniać  
 tenu - należeć  
@@ -2339,8 +2339,8 @@ vinil - winyl
 virus - wirus  
 viruslojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
-viseprezidente - wiceprezydent  
 visi - wice-  
+visprezidente - wiceprezydent  
 vize - wiza  
 vizita - odwiedzić, odwiedzać  
 vizite - wizyta  
@@ -2382,8 +2382,8 @@ weka - obudzić, budzić
 weki - przebudzony, przytomny  
 werka - pracować  
 werke - praca, zjęcie, zadanie  
-werkemeze - biurko  
 werker - pracownik  
+werkomeze - biurko  
 weste - zachód  
 westi - zachodni  
 wikia - wiki  
@@ -2491,10 +2491,10 @@ zayia - teraźniejszość, współczesność
 zayu - istnieć (być obecnym)  
 ze - sam, siebie  
 zebre - zebra  
-zeme - ziemia, grunt, gleba  
-zemedow - orzech ziemny  
-zemelaskeria - wosko lądowe (armia)  
+zem - ziemia, grunt, gleba  
+zemdow - orzech ziemny  
 zemia - Ziemia  
+zemlaskeria - wosko lądowe (armia)  
 zeze - mucha  
 zigzage - zygzag  
 zikur - ziggurat  

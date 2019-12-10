@@ -13,15 +13,16 @@ able - povo
 abli - ebla  
 ablo - eble  
 acinium - aktinio  
+aciya - terni  
 adali - justa  
 adalia - justeco  
 adres - adreso  
 adulte - plenaĝa  
 afgania - Afganujo, Afganio  
 afrike - Afriko  
-afrikefiler - afrikamanto  
-afrikefilia - afrikamanteco  
 afriki - afrika  
+afrikofiler - afrikamanto  
+afrikofilia - afrikamanteco  
 agres - atako (agreso)  
 agresi - agresema  
 aha - kompreni  
@@ -34,9 +35,6 @@ aisi - glacia
 ajil - lerta  
 akse - akso  
 aksente - akcento  
-alefone - alofono  
-alenami - tio estas (alivorte)  
-aleseksekami - samseksema  
 alge - algo  
 ali - alia  
 alkol - alkoholo  
@@ -44,6 +42,9 @@ alkoli - alkohola
 almar - ŝranko  
 almas - diamanto  
 alo - alie  
+alofone - alofono  
+alonami - tio estas (alivorte)  
+aloseksi - samseksema  
 altar - altaro  
 alumin - aluminio  
 am - amo  
@@ -68,9 +69,9 @@ anusi - anusa
 aple - pomo  
 arabi - araba  
 arane - araneo  
-aranfobia - araneofobio  
+aranofobia - araneofobio  
 arbe - arbo  
-arbeparke - arboĝardeno  
+arboparke - arboĝardeno  
 arbuze - akvomelono  
 are - areo  
 argente - arĝento  
@@ -93,7 +94,7 @@ aspirin - aspirino
 atom - atomo  
 auda - aŭdi (aŭskulti)  
 australia - Aŭstralio  
-autemoti - memmova  
+automoti - memmova  
 aventur - aventuro  
 aventurer - aventuristo  
 awakate - avokado  
@@ -128,7 +129,7 @@ banke - banko
 banker - bankisto  
 banse - bambuo  
 banye - bano  
-banyekamar - banĉambro  
+banyokamar - banĉambro  
 banyu - bana  
 bar - pezo  
 barbar - barbaro  
@@ -154,9 +155,9 @@ batre - baterio (pilo)
 baw - gazeto (revuo)  
 bax - lingvo  
 baxa - paroli (komuniki)  
-baxkanun - gramatiko  
-baxkanuni - gramatika  
-baxlojia - lingvistiko  
+baxokanun - gramatiko  
+baxokanuni - gramatika  
+baxolojia - lingvistiko  
 bazar - merkato (bazaro)  
 baze - bazo  
 bazi - baza  
@@ -210,10 +211,10 @@ borium - borio
 boron - boro  
 bota - boatumi  
 bote - boato (ŝipo)  
-boteraite - tribordo  
 botol - botelo  
 botolefte - babordo  
 boton - butono  
+botoraite - tribordo  
 brazilia - Brazilo  
 brom - bromo  
 brox - broso  
@@ -269,7 +270,7 @@ cis - fromaĝo
 cita - citi  
 coda - fiki  
 cokol - ĉokolado  
-cokolobaton - ĉokolado  
+cokolbaton - ĉokolado  
 cora - ŝteli  
 core - ŝtelo  
 corer - ŝtelisto  
@@ -279,7 +280,7 @@ cune - printempo
 cupa - suĉi  
 cuta - eliri  
 cute - eliro  
-cutmun - elirejo  
+cutomun - elirejo  
 cuza - elekti  
 cuze - elekto  
 ##d
@@ -295,8 +296,8 @@ danka - danki
 danke - danko  
 danse - danco  
 dante - dento  
-dantebrox - dentbroso  
-dantemediker - dentisto  
+dantobrox - dentbroso  
+dantomediker - dentisto  
 darba - bati  
 darsa - lerni (studi)  
 darse - leciono  
@@ -304,11 +305,11 @@ darser - studento (lernanto)
 darsia - lernejo  
 darsogur - instruisto  
 date - datumo  
-datebanke - datumbanko  
+datobanke - datumbanko  
 daw - vojo  
 day - granda  
 daysamude - oceano  
-dec- - dekono  
+deco- - dekono  
 defa - defendi  
 defe - defendo  
 defer - defendanto (defendisto)  
@@ -318,13 +319,13 @@ deftia - registro (konto)
 deka - kovri  
 deke - kovrilo  
 deme - popolo  
-demegrafia - demografio  
-demekrati - demokratia  
-demekratia - demokratio  
+demografia - demografio  
+demokrati - demokratia  
+demokratia - demokratio  
 demon - demono  
 den - tago  
-deneniam - tagmanĝo  
 denga - atendi  
+denoniam - tagmanĝo  
 des - dek (10)  
 desen - desegno  
 detal - detalo  
@@ -368,7 +369,7 @@ dum - vosto
 duman - fumo  
 duni - tera  
 dunia - mondo  
-duniabax - mondlingvo  
+dunia bax - mondlingvo  
 dura - daŭri (dum)  
 dure - daŭro  
 dute - dubo  
@@ -422,7 +423,7 @@ faidi - utila
 fain - fajna  
 fajan - disvolvi  
 famil - familio  
-familonam - familinomo  
+familnam - familinomo  
 fan - amuzo  
 fana - amuzi  
 fani - amuza  
@@ -436,9 +437,9 @@ fas - surfaco
 fasin - fascinado  
 fata - fari  
 fate - faro  
-fatelekse - verbo  
 fater - fabrikisto  
 fateria - fabriko  
+fatolekse - verbo  
 faxiste - faŝisto  
 faxistia - faŝismo  
 febre - febro  
@@ -459,9 +460,9 @@ fikre - penso
 fiksa - fiksi  
 filipinia - Filipinoj  
 filme - filmo  
-filosofia - filozofio  
 filsofer - filozofo  
 filsofi - filozofia  
+filsofia - filozofio  
 filter - filtri  
 fin - fino  
 fina - fini  
@@ -471,7 +472,7 @@ fini - lasta
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
-fitelojia - plantscienco (botaniko)  
+fitolojia - plantscienco (botaniko)  
 fix - fiŝo  
 fizike - fiziko  
 fiziker - fizikisto  
@@ -490,10 +491,10 @@ forti - forta
 fortia - forto  
 forum - forumo  
 fosfor - fosforo  
-fotegraf - foto  
-fotegrafer - fotisto  
-fotegrafia - fotografio  
-fotemaxin - fotilo  
+fotograf - foto  
+fotografer - fotisto  
+fotografia - fotografio  
+fotomaxin - fotilo  
 fransia - Francio  
 fransium - franciumo  
 fuka - vesti  
@@ -507,7 +508,7 @@ funge - fungo
 furete - furo  
 furia - kolero (furiozo)  
 fute - piedo  
-futebol - piedpilko  
+futobol - piedpilko  
 fuy - bah!  
 ##g
 gabre - tombo  
@@ -523,11 +524,12 @@ galti - erara
 gam - emocio  
 gama - emocii  
 gamel - kamelo  
-gan - seka  
-gan putaw - sekvinbero  
+gamohal - animstato  
 gang - ĵus  
 ganga - Gangoj  
+gani - seka  
 ganje - kanabo  
+ganputaw - sekvinbero  
 ganya - akiri (gajni)  
 gar - se  
 garante - garantio  
@@ -535,8 +537,8 @@ garda - gardi
 garder - gardisto  
 garmi - varma  
 gas - gaso  
-gatemate - solido  
 gati - malmola  
+gatomate - solido  
 gawi - alta  
 gayania - Gujano  
 gaze - gazo  
@@ -583,7 +585,7 @@ gute - genuo
 guy - ogro (trolo)  
 ##h
 habar - novaĵoj  
-habarobaw - gazeto  
+habarbaw - gazeto  
 hafnium - hafnio  
 haha - ridi  
 haida - ni faru...  
@@ -592,7 +594,7 @@ haitia - Haitio
 hake - rajto  
 hakim - juĝo  
 hakimer - juĝisto  
-hali - malplena  
+hal - stato  
 halif - kalifo  
 halow - saluton!  
 hamake - hamako  
@@ -601,6 +603,8 @@ hami - grava
 hamili - graveda  
 hamir - feĉo  
 hamu - gravi  
+hande - mano  
+handi - mana  
 haos - kaoso (malordo)  
 harabi - ruinigita  
 harfe - litero  
@@ -608,11 +612,9 @@ harmoni - harmonia
 harmonia - harmonio  
 hasi - speciala  
 hasium - hasio  
-hate - mano  
-hati - eĉ  
-hati - mana  
-hatre - danĝero  
-hatri - danĝera  
+hatar - danĝero  
+hatari - danĝera  
+hato - eĉ  
 hawa - venti  
 hawe - vento  
 hay - ankoraŭ  
@@ -664,6 +666,7 @@ indonesia - Indonezio
 infekse - infekto  
 informe - informacio  
 insan - homo  
+insani hake - homaj rajtoj  
 insania - homaro  
 insanistia - homismo  
 interes - interesa  
@@ -697,9 +700,9 @@ jamula - disigi
 jan - scio  
 jana - tietää (tuntea)  
 janel - fenestro  
-janelojia - sciteorio (epistemologio)  
 jangal - arbaro  
 janger - metiisto  
+janolojia - sciteorio (epistemologio)  
 jawaba - respondi  
 jawabe - respondo  
 je - kiu (rilativa pronomo)  
@@ -735,6 +738,7 @@ kagaze - papero
 kakaw - kakao  
 kake - feko  
 kalam - plumo  
+kali - malplena  
 kalifornium - kaliforniumo  
 kalium - kalio  
 kalsium - kalcio  
@@ -776,7 +780,7 @@ katalunia - Katalunio
 katan - glavo  
 kava - fosi  
 kave - foso  
-kaway - ĉarma  
+kawayi - ĉarma  
 kay - malferma  
 kaya - malfermi  
 kayu - malfermiĝi  
@@ -799,12 +803,12 @@ ki sate - kiam?
 ki xey - kio?  
 ki yangi - kial?  
 kil - mil  
-kilmetre - kilometro  
+kilometre - kilometro  
 kimia - ĥemio (kemio)  
 kirmi - ruĝa  
 kitabe - skribo  
-kitabemaxin - tajpilo  
 kitabia - librejo  
+kitabomaxin - tajpilo  
 kiwe - kivo  
 klar - klara  
 klara - klarigi  
@@ -874,7 +878,7 @@ lanca - ĵeti (lanĉi)
 lanten - lanterno  
 lasker - soldato  
 laskeria - armeo  
-latwia - Latvio  
+latvia - Latvio  
 laurensium - laŭrencio  
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  
@@ -964,8 +968,8 @@ me - mi
 medi - mezo  
 medika - sanigi (kuraci)  
 mediker - kuracisto  
-meg- - mega-  
 megi - miliono  
+mego- - mega-  
 meh - ŝafo  
 mel - mielo  
 melodia - melodio  
@@ -988,9 +992,9 @@ mien - nudelo
 migan - mandarino  
 migre - migrado  
 mikr- - mikro-  
-mil- - mili-  
 milke - lakto  
-milmetre - milimetro  
+milo- - mili-  
+milometre - milimetro  
 min - malpli  
 min ko bas - maltro  
 minar - turo  
@@ -1008,7 +1012,6 @@ misri - egipta
 misria - Egipto  
 mixa - miksi  
 mixer - miksilo  
-mode - fasono  
 moge - inko  
 moke - ligno  
 molidenum - molibdeno  
@@ -1150,8 +1153,8 @@ parta - partopreni
 partia - partio  
 pasporte - pasporto  
 patate - terpomo  
-patelojia - patologio  
 pati - malsana  
+patolojia - patologio  
 pay - torto  
 pedal - pedalo  
 pede - furzo  
@@ -1297,7 +1300,7 @@ sam - sama
 saman - ĉielo  
 samarium - samario  
 samdexi - samlandano  
-samjinsekami - samseksema  
+samjinsokami - samseksema  
 samray - interkonsento  
 samraya - samopinii (interkonsenti)  
 samude - maro  
@@ -1317,8 +1320,8 @@ seaborgium - seborgio
 sekse - sekso  
 sekse - sekso  
 sel - ĉelo  
-selelojia - citologio  
 selen - seleno  
+selolojia - citologio  
 sem - sep (7)  
 seman - semajno  
 senta - senti  
@@ -1403,10 +1406,10 @@ tekne - tekniko
 teknelojia - teknologio  
 teknetium - teknecio  
 tele - malproksimeco  
-telefon - telefono  
-televide - televidilo  
+telfon - telefono  
 teli - malproksima  
 telurium - teluro  
+telvide - televidilo  
 tema - esti pri; pridiskuti  
 teme - temo  
 tena - havi (teni)  
@@ -1474,8 +1477,8 @@ version - versio (toisinto)
 vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
 vin - vino  
-viselekse - pronomo  
 visi - vic-  
+vislekse - pronomo  
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
@@ -1525,6 +1528,7 @@ xaw - malmulte
 xef - estro (ĉefulo)  
 xefi minister - ĉefministro  
 xenon - ksenono  
+xeyhal - situacio (aferstato)  
 xibay - malsukceso  
 xim - koro  
 xin - kredo  

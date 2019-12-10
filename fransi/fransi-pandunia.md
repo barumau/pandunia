@@ -11,9 +11,9 @@ adulte - adulte
 Afghanistan - afgania  
 africain - afriki  
 Afrique - afrike  
-afrophile - afrikefiler  
-afrophilie - afrikefilia  
-agent pathogène - patejener  
+afrophile - afrikofiler  
+afrophilie - afrikofilia  
+agent pathogène - patojener  
 agile - ajil  
 agression (attaque) - agres  
 aimer - ama  
@@ -21,8 +21,8 @@ aire (superficie) - are
 alcool - alkol  
 alcoolique - alkoli  
 algue - alge  
-Aller-retour - retretikete  
-allophone - alefone  
+Aller-retour - retrotikete  
+allophone - alofone  
 allô - halow  
 alphabet - abace  
 aluminium - alumin  
@@ -47,9 +47,9 @@ anus - anus
 appartenir à - tenu  
 appliquer - aplika  
 arabe - arabi  
-arachnophobie - aranfobia  
+arachnophobie - aranofobia  
 araignée - arane  
-arboretum, pépinière - arbeparke  
+arboretum, pépinière - arboparke  
 arbre - arbe  
 argent - argente  
 argent - pese  
@@ -67,6 +67,7 @@ Asie - asia
 aspirine - aspirin  
 assez - bas  
 asthme - asme  
+atchoum - aciy  
 autel - altar  
 automne - oton  
 autre - ali  
@@ -94,7 +95,7 @@ banquier - banker
 barrière - baryer  
 baryum - barium  
 base - baze  
-base de données - datebanke  
+base de données - datobanke  
 basketball - baskobol  
 bassin - basen  
 bateau - bote  
@@ -109,7 +110,7 @@ blanc - baki
 blue - nili  
 bombe - bombe  
 bon - bon  
-botanique - fitelojia  
+botanique - fitolojia  
 boue (fange, bourbe, gadoue) - pote  
 bouton - boton  
 brigand (bandit) - luter  
@@ -125,7 +126,7 @@ canapé (sofa) - kanape
 capacité (compétence) - able  
 carte - karde  
 carte - karte  
-cartographie - kartegrafia  
+cartographie - kartografia  
 centre - jung  
 chambre à coucher - sonkamar  
 chance - canse  
@@ -159,7 +160,7 @@ crème - krem
 crème glacée - aisekrem  
 cube - kube  
 cycliste - sikliste  
-cytologie - selelojia  
+cytologie - selolojia  
 ##d
 dance - danse  
 de - ca  
@@ -176,6 +177,8 @@ données - date
 dormir - sonu  
 drapeau - bandir  
 droit (rectiligne) - orti  
+droit - hake  
+droits de l'homme - insani hake  
 dur - gati  
 ##e
 eau - suy  
@@ -193,7 +196,7 @@ feu - pir
 fils ou fille - pute  
 fiord - fiorde  
 fleur - pul  
-football - futebol  
+football - futobol  
 forer (percer) - fora   
 fosse - kave  
 fourmi - maye  
@@ -223,7 +226,8 @@ hockey - hoke
 hockey sur glace - aisehoke  
 hourra - ura  
 humanisme - insanistia  
-hétérosexuel - aleseksekami  
+humeur - gamohal  
+hétérosexuel - aloseksi  
 hôtel - hotel  
 ##i
 imperméable - barxokote  
@@ -262,8 +266,8 @@ luthéranisme - lutheristia
 luthérien - lutheristi  
 lys - susan  
 ##m
-machine à écrire - kitabemaxin  
-main - hate  
+machine à écrire - kitabomaxin  
+main - hande  
 mais (bien que) - a  
 manichéisme - manihayistia  
 marbre - marmar  
@@ -280,6 +284,7 @@ message - anjil
 mettre (placer) - loka  
 miel - mel  
 migration - migre  
+mode (façon, manière) - mode  
 mois - mes  
 monde - dunia  
 monnaie (pièce) - pesediske  
@@ -320,7 +325,7 @@ ordinateur - komputer
 oreille - or  
 origine - asle  
 originel - asli  
-orthogonal - ortegoni  
+orthogonal - ortogoni  
 otite - oritis  
 ou - o  
 oublier - memula  
@@ -343,7 +348,7 @@ parc - parke
 parler - loga  
 passeport - pasporte  
 pastèque - arbuze  
-pathologie - patelojia  
+pathologie - patolojia  
 pause - pauze  
 perdant - luzer  
 pere (papa) - pape  
@@ -352,8 +357,8 @@ pet (vesse) - pede
 petit - lil  
 peu - xaw  
 peut-être - ablo  
-philosophie - filosofia  
-photographie - fotegrafia  
+philosophie - filsofia  
+photographie - fotografia  
 pile (batterie) - batre  
 piraterie - piratia  
 pizza - pize  
@@ -387,6 +392,7 @@ reste - reste
 retourner (revenir) - retra  
 riche - rici  
 rime - rim  
+rire - haha  
 rivière (fleuve) - nade  
 riz - arize  
 robot - robote  
@@ -396,7 +402,7 @@ s'installer (déménager) - migru
 ##s
 saber (conocer) - jana  
 sac - sake  
-salle de bains - banyekamar  
+salle de bains - banyokamar  
 salut (salam) - salame  
 sandwich - sanwice  
 sang - sang  
@@ -410,6 +416,7 @@ sel - sal
 sexe - sekse  
 shopping - xope  
 si - gar  
+situation (état de choses) - xeyhal  
 société - socia  
 soldat - lasker  
 soleil - sol  
@@ -440,12 +447,12 @@ traduction - tarje
 travail - werke  
 travailler - werka  
 travailleur (ouvrier) - werker  
-tribord - boteraite  
+tribord - botoraite  
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-téléphone - telefon  
-téléviseur - televide  
+téléphone - telfon  
+téléviseur - telvide  
 tête - sar  
 ##u
 unité fondamentale - em  
@@ -474,7 +481,7 @@ vouloir - wana
 voyelle - vokal  
 vrai - veri  
 vulve - vulve  
-végétarien - vejeniamiste  
+végétarien - vejoniamiste  
 ##w
 ##x
 ##y
@@ -487,6 +494,7 @@ zoroastrien - zarduxiste
 zoroastrisme - zarduxistia  
 zoulou - zuluh  
 zèbre - zebre  
+Égypte - misria  
 âge - umur  
 écrire - kitaba  
 écriture - kitabe  
@@ -497,6 +505,8 @@ zèbre - zebre
 épreuve (test) - teste  
 équipe - tim  
 étain - esten  
+état - hal  
+éternuer - aciya  
 étoile - xing  
 étymologie - leksaslia  
 été - lete  

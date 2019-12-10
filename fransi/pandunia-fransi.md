@@ -12,15 +12,17 @@ abli - possible
 ablo - peut-être  
 acinium - actinium  
 acion - action  
+aciy - atchoum  
+aciya - éternuer  
 adali - juste  
 adalia - justice  
 adres - adresse  
 adulte - adulte  
 afgania - Afghanistan  
 afrike - Afrique  
-afrikefiler - afrophile  
-afrikefilia - afrophilie  
 afriki - africain  
+afrikofiler - afrophile  
+afrikofilia - afrophilie  
 agres - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
@@ -30,8 +32,6 @@ aisekrem - crème glacée
 ajil - agile  
 akse - axe  
 aksente - accent  
-alefone - allophone  
-aleseksekami - hétérosexuel  
 alge - algue  
 ali - autre  
 alkol - alcool  
@@ -39,6 +39,8 @@ alkoli - alcoolique
 almar - placard  
 almas - diamant  
 alo - autrement  
+alofone - allophone  
+aloseksi - hétérosexuel  
 altar - autel  
 alumin - aluminium  
 am - amour (affection)  
@@ -65,9 +67,9 @@ aple - pomme
 aplika - appliquer  
 arabi - arabe  
 arane - araignée  
-aranfobia - arachnophobie  
+aranofobia - arachnophobie  
 arbe - arbre  
-arbeparke - arboretum, pépinière  
+arboparke - arboretum, pépinière  
 arbuze - pastèque  
 are - aire (superficie)  
 argente - argent  
@@ -105,7 +107,7 @@ banke - banque
 banker - banquier  
 banse - bambou  
 banye - bain  
-banyekamar - salle de bains  
+banyokamar - salle de bains  
 banyu - se baigner  
 bari - lourd  
 barium - baryum  
@@ -131,9 +133,9 @@ bol - ball
 bombe - bombe  
 bon - bon  
 bote - bateau  
-boteraite - tribord  
 botolefte - babord  
 boton - bouton  
+botoraite - tribord  
 bruni - brun (marron)  
 buke - livre  
 ##c
@@ -148,7 +150,7 @@ dalil - preuve
 damaje - dommage  
 danse - dance  
 date - données  
-datebanke - base de données  
+datobanke - base de données  
 daysamude - océan  
 destin - destin (destination)  
 dew - dieu  
@@ -171,16 +173,17 @@ ewanjil - évangile
 ##f
 fata - faire  
 favori - favori (préféré)  
-filosofia - philosophie  
+filsofia - philosophie  
 fiorde - fiord  
-fitelojia - botanique  
+fitolojia - botanique  
 fora  - forer (percer)  
-fotegrafia - photographie  
-futebol - football  
+fotografia - photographie  
+futobol - football  
 ##g
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
+gamohal - humeur  
 gar - si  
 gas - gaz  
 gati - dur  
@@ -193,10 +196,13 @@ gul - goule
 gunden - palais  
 gute - genou  
 ##h
+haha - rire  
 haime - tente  
+hake - droit  
+hal - état  
 halow - allô  
 hami - important  
-hate - main  
+hande - main  
 hay - vie  
 hewan - animal (bête)  
 hewanparke - zoo  
@@ -209,6 +215,7 @@ hotel - hôtel
 hule - renard  
 ##i
 insan - être humain  
+insani hake - droits de l'homme  
 insanistia - humanisme  
 itis  - inflammation  
 iva - avoir tendance à  
@@ -234,7 +241,7 @@ kansuygas - gaz lacrymogène
 karbondulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
-kartegrafia - cartographie  
+kartografia - cartographie  
 kava - creuser  
 kave - fosse  
 ke - que (quoi)  
@@ -243,8 +250,8 @@ kimia - chimie
 kirmi - rouge  
 kitaba - écrire  
 kitabe - écriture  
-kitabemaxin - machine à écrire  
 kitabia - bibliothèque  
+kitabomaxin - machine à écrire  
 klimemute - changement climatique  
 ko - que (comme)  
 ko? - comment  
@@ -315,6 +322,8 @@ meze - table
 migre - migration  
 migru - s'installer (déménager)  
 milke - lait  
+misria - Égypte  
+mode - mode (façon, manière)  
 molia - moulin  
 mome - nous  
 ##n
@@ -341,8 +350,8 @@ or - oreille
 oranje - orange (fruit)  
 oranji - orange (couleur)  
 oritis - otite  
-ortegoni - orthogonal  
 orti - droit (rectiligne)  
+ortogoni - orthogonal  
 oton - automne  
 ##p
 pace - paix  
@@ -359,8 +368,8 @@ param - paramètre
 parce - fragment  
 parke - parc  
 pasporte - passeport  
-patejener - agent pathogène  
-patelojia - pathologie  
+patojener - agent pathogène  
+patolojia - pathologie  
 pauze - pause  
 pay - tarte  
 peda - péter  
@@ -387,7 +396,7 @@ ras - race
 razonu - tener sentido  
 reste - reste  
 retra - retourner (revenir)  
-retretikete - Aller-retour  
+retrotikete - Aller-retour  
 rici - riche  
 rim - rime  
 rize - racine  
@@ -407,7 +416,7 @@ sang - sang
 sanwice - sandwich  
 sar - tête  
 sekse - sexe  
-selelojia - cytologie  
+selolojia - cytologie  
 serye - série  
 si - oui  
 sikle - bicyclette  
@@ -432,8 +441,8 @@ tazi - frais
 te - tu  
 tekne - technique  
 teknelojia - technologie  
-telefon - téléphone  
-televide - téléviseur  
+telfon - téléphone  
+telvide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
 tenu - appartenir à  
@@ -458,7 +467,7 @@ vagin - vagine
 vaginitis - vaginite  
 vampir - vampire  
 vaze - vase  
-vejeniamiste - végétarien  
+vejoniamiste - végétarien  
 venezolia - Venezuela  
 vente - problème  
 venti - problématique  
@@ -483,6 +492,7 @@ xatan - Satan
 xaw - peu  
 xef - chef  
 xey - chose  
+xeyhal - situation (état de choses)  
 xing - étoile  
 xite - merde  
 xopa - acheter  

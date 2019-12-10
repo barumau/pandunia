@@ -3,6 +3,7 @@
 abeja o avispa - vespe  
 acción - acion  
 acento - aksente  
+achís - aciy  
 acordarse - mema  
 acuerdo - samray  
 aeropuerto - airporte  
@@ -21,7 +22,7 @@ ancla - anker
 animal (bestia) - hewan  
 análisis - analis  
 araña - arane  
-arboreto - arbeparke  
+arboreto - arboparke  
 argumento - argum  
 arma - arme  
 armario - almar  
@@ -41,7 +42,7 @@ balle (boule) - bol
 baloncesto - baskobol  
 bambú - banse  
 banco - banke  
-banco de datos (base de datos) - datebanke  
+banco de datos (base de datos) - datobanke  
 banda - bande  
 banquero - banker  
 barrera - baryer  
@@ -50,11 +51,11 @@ bastante - bas
 belleza (hermosura) - sundaria  
 biblioteca - kitabia  
 bicicleta - sikle  
-billete de ida y vuelta - retretikete  
+billete de ida y vuelta - retrotikete  
 blanco - baki  
 bleu - nili  
 bomba - bombe  
-botánica - fitelojia  
+botánica - fitolojia  
 botón - boton  
 ##c
 cabeza - sar  
@@ -64,7 +65,7 @@ cambio climático - klimemute
 camote (batata) - kamote  
 carcelero - prizoner  
 carne - manse  
-cartografía - kartegrafia  
+cartografía - kartografia  
 carvis (alcaravea) - karawe  
 cavar (excavar) - kava  
 cebolla - piaze  
@@ -77,7 +78,7 @@ ciclista - sikliste
 cielo - saman  
 cima (pico, cumbre, vértice) - pike  
 cinturón (zona) - zone  
-citología - selelojia  
+citología - selolojia  
 ciudad - site  
 colocar (poner) - loka  
 color - rang  
@@ -104,6 +105,8 @@ cósmico - kosmi
 dança (baile) - danse  
 datos - date  
 de - ca  
+derecho - hake  
+derechos humanos - insani hake  
 deseo - wan  
 destino - destin  
 diamante - almas  
@@ -116,6 +119,7 @@ dormitorio - sonkamar
 duro - gati  
 día de San Juan - yohani feste  
 ##e
+Egipto - misria  
 eje - akse  
 ejército - laskeria  
 electricidad - eletre  
@@ -133,22 +137,24 @@ escultor - eskulter
 eslavo - slavi  
 esmeralda - zumrude  
 especia - masal  
+estado - hal  
 estaño - esten  
-estribor - boteraite  
+estornudar - aciya  
+estribor - botoraite  
 etapa (fase) - faze  
 etimología - leksaslia  
 evangelio - ewanjil  
 ##f
 favorito (preferido) - favori  
 feliz - suki  
-filosofía - filosofia  
+filosofía - filsofia  
 fiordo - fiorde  
 flor - pul  
 fosa - kave  
-fotografía - fotegrafia  
+fotografía - fotografia  
 fragmento - parce  
 fuego - pir  
-fútbol - futebol  
+fútbol - futobol  
 ##g
 galaxia - galaksia  
 gas - gas  
@@ -173,6 +179,7 @@ hornacina - nixe
 hotel (albergue) - hotel  
 huevo - ande  
 humanismo - insanistia  
+humor - gamohal  
 hurra - ura  
 ##i
 impermeable - barxokote  
@@ -219,7 +226,7 @@ léxico - leksi
 madre (mamá) - mame  
 maestro - mester  
 maniqueísmo - manihayistia  
-mano - hate  
+mano - hande  
 manzana - aple  
 mapa - karte  
 mar - samude  
@@ -236,12 +243,13 @@ mez - mes
 miel - mel  
 mierda - xite  
 migración - migre  
+modo (manera, forma) - mode  
 molino - molia  
 moneda - pesediske  
 monismo - monistia  
 mosco - zeze  
 muro (muralha) - wal  
-máquina de escribir - kitabemaxin  
+máquina de escribir - kitabomaxin  
 máscara - maske  
 mástil - maste  
 máximo - maxime  
@@ -274,7 +282,7 @@ oreja - or
 origen - asle  
 original - asli  
 oro - gim  
-ortogonal - ortegoni  
+ortogonal - ortogoni  
 oso - urse  
 otitis - oritis  
 otoño - oton  
@@ -295,8 +303,8 @@ participante - parter
 parámetro - param  
 pasaporte - pasporte  
 pastel (pay) - pay  
-patología - patelojia  
-patógeno - patejener  
+patología - patolojia  
+patógeno - patojener  
 pausa - pauze  
 paz - pace  
 pedo - pede  
@@ -334,6 +342,7 @@ raiz - rize
 raza - ras  
 recto - orti  
 reunión (junta, mitin) - mite  
+reír - haha  
 rico - rici  
 rima - rim  
 riñon - nefre  
@@ -356,10 +365,11 @@ ser humano - insan
 serie - serye  
 sexo - sekse  
 sin - na  
+situación - xeyhal  
 sociedad - socia  
 soldado - lasker  
 sí - si  
-sólido - gatemate  
+sólido - gatomate  
 ##t
 tapón (tapa) - tape  
 tendencia - ive  
@@ -380,7 +390,7 @@ vaginitis - vaginitis
 valle - vale  
 vampiro - vampir  
 vapor - suygas  
-vegetariano - vejeniamiste  
+vegetariano - vejoniamiste  
 velo - hijabe  
 ver - vida  
 verdadero - veri  
