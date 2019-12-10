@@ -85,11 +85,11 @@ They are described in more detail later in this document.
 4. Nouns have a single, unchangeable form.
 5. Adjectives come before the word that they modify.
    All adjectives, except the most common few, end in **-i**.
-    - ex. **rapidi loge** = A fast talk.
+    - ex. **rapidi loge** = Fast speech.
 6. Adverbs modify verbs, adjectives, other adverbs and complete sentences.
    They come before the word that they modify or very last in the sentence.
    All adverbs, except the most common few, end in **-o**.
-    - ex. 1. **vero rapidi loge** = A very fast talk.
+    - ex. 1. **vero rapidi loge** = Very fast speech.
     - ex. 2. **te loga bono.** = You talk well.
 7. The verb ending **-a** indicates that the verb is active
    and the agent of the action is immediately before the verb.
@@ -109,7 +109,7 @@ They are described in more detail later in this document.
     The linking vowel **-o-** is inserted between the stems
     if the resulting word would be otherwise too difficult to pronounce.
     - ex. **hur-** (freedom) + **ist-** (proponent) → **huriste** (liberalist)
-    - ex. **post-** (mail) + **sanduk-** (box) → **postesanduke** (mailbox)
+    - ex. **post-** (mail) + **sanduk-** (box) → **postosanduke** (mailbox)
 
 --------------------------------------------------------------------------------
 
@@ -1068,7 +1068,8 @@ a thing (noun), a description (modifier) and an action (verb).
 Pandunia uses the following vowel endings to mark parts of speech.
 
 - **-e** marks nouns that are derived from action roots and description roots
-- **-i** indicates modifiers
+- **-i** indicates adjectives
+- **-o** indicates adverbs
 - **-a** indicates active verbs
 - **-u** indicates passive verbs
 
@@ -1234,7 +1235,7 @@ Creates agent nouns. It denotes a person or a tool which does the action.
 **loga** to speak; **loger** speaker, the one who speaks  
 **beka** to bake; **beker** baker, the one who bakes  
 **lida** to lead; **lider** leader, the one who leads  
-**filosofa** to think deeply; **filosofer** philosopher  
+**filsofa** to think deeply; **filsofer** philosopher  
 **komputa** to compute, to process data; **komputer** computer  
 **morta** to kill; **morter** killer  
 
