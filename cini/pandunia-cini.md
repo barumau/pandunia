@@ -12,8 +12,8 @@ adulte - 成年人
 agres - 攻击  
 airporte - 飞机场  
 ais - 冰  
-aisehoke - 冰球  
-aisekrem - 冰淇淋  
+aisohoke - 冰球  
+aisokrem - 冰淇淋  
 ajil - 灵活的  
 akse - 轴线  
 aksente - 重音符号  
@@ -203,7 +203,7 @@ kirmi - 红
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
-klimemute - 气候变化  
+klimomute - 气候变化  
 ko - 比  
 ko? - 怎么  
 komputer - 计算机  
@@ -268,7 +268,7 @@ misria - 埃及
 mita - 聚会  
 mite - 会议  
 moke - 木材  
-mokejanger - 木匠  
+mokojanger - 木匠  
 molia - 磨坊  
 mome - 我们  
 mula - 开始  
@@ -314,7 +314,7 @@ peda - 放屁
 pede - 屁  
 pelmen - 饺子  
 pese - 钱  
-pesediske - 硬币  
+pesodiske - 硬币  
 piaze - 洋葱  
 pil - 皮  
 pin - 别针  
@@ -377,7 +377,7 @@ tarje - 翻译
 tazi - 新鲜的  
 te - 你  
 tekne - 技术  
-teknelojia - 工艺学  
+teknolojia - 工艺学  
 telfon - 电话机  
 telvide - 电视机  
 teme - 主题目  

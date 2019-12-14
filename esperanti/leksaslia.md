@@ -199,7 +199,7 @@
 |genro|jinse|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|
 |genuo|gute|swa:goti, guj:ઘૂંટણ (ghū̃ṭaṇ), Hin:घुटना (ghuṭnā), mar:गुडघा (guḍghā)|
 |gitaro|gitar|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
-|glaciaĵo|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|glaciaĵo|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |glacio|ais|eng:ice, deu:Eis, may:és|
 |glata|lisi|fra:lisse, spa:por:liso, fas:(liz), may:licin|
 |glavo|katan|jpn:刀 (katana)|
@@ -572,7 +572,7 @@
 |sed|a|rus:а (a), ukr:а (a), pol:a, + zho:啊 (ā), + eng:ah|
 |seka|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |sekso|sekse|eng:sex, fra:sexe, spa:por:sexo|
-|sekvinbero|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|sekvinbero|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |semajno|seman|spa:por:semana, fra:semaine|
 |semo|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sep (7)|sem|rus:семь (semʹ)|

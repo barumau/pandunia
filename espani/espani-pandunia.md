@@ -61,7 +61,7 @@ botón - boton
 cabeza - sar  
 café - kafe  
 calcular - hisaba  
-cambio climático - klimemute  
+cambio climático - klimomute  
 camote (batata) - kamote  
 cara (rosto) - muke  
 carcelero - prizoner  
@@ -168,11 +168,11 @@ gul - gul
 género - jinse  
 ##h
 hacer - fata  
-helado - aisekrem  
+helado - aisokrem  
 hermoso (bello, lindo) - sundari  
 hijo o hija - pute  
 hockey - hoke  
-hockey sobre hielo - aisehoke  
+hockey sobre hielo - aisohoke  
 hongo - funge  
 hora - hor  
 hormigo - maye  
@@ -246,7 +246,7 @@ mierda - xite
 migración - migre  
 modo (manera, forma) - mode  
 molino - molia  
-moneda - pesediske  
+moneda - pesodiske  
 monismo - monistia  
 mosco - zeze  
 muro (muralha) - wal  
@@ -262,7 +262,7 @@ necesario - nidi
 necesidad - nide  
 necesitar - nida  
 negro - cerni  
-neurona - neuresel  
+neurona - neurosel  
 neve - him  
 niño o niña - bace  
 no - no  
@@ -384,7 +384,7 @@ tender - iva
 tigre - bagre  
 toalla - towal  
 tomate - tomate  
-tonelada - megegram  
+tonelada - megogram  
 trabajador (obrero) - werker  
 trabajar - werka  
 trabajo - werke  

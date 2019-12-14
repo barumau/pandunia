@@ -212,7 +212,7 @@
 |jyvä (luoti)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |jänis|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |jäännös (loput)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
-|jäätelö|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|jäätelö|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |jää|ais|eng:ice, deu:Eis, may:és|
 |kaakao|kakaw|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|
 |kaappi|almar|hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, spa:armario, por:armário|
@@ -691,7 +691,7 @@
 |rumpu|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
 |runo|xir|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |ruoho|gras|eng:grass, hin:घास (ghās)|
-|rusina|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rusina|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ruskea|bruni|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |ruukku (maljakko, vaasi)|vaze|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|
 |ruusu|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|

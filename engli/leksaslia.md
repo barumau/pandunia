@@ -1,7 +1,7 @@
 # engli-pandunia sa leksasle
 |engli | pandunia | leksasle |
 |----------|----------|----------|
-|about (approximately)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
+|about (approximately, nearly)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |accent (stress)|aksente|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
 |achoo|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |action (deed, performance, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
@@ -197,7 +197,7 @@
 |coco|yeze|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |coffee|kafe|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
 |cold|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
-|collect (gather, bring together)|jama|ara: جمع /jamaʕa/|
+|collect (gather, bring together, assemble)|jama|ara: جمع /jamaʕa/|
 |collection (congregation, assembly)|jamia|ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|
 |color|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |column (pillar)|kolum|eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|
@@ -437,7 +437,7 @@
 |hurt (pain)|tung|zho:疼 (téng),痛 (tòng), yue:痛 (tung3)|
 |hush (shh)|xix|eng:shh, zho: (xū), rus:ш-ш-ш, tur:sus|
 |I (me)|me|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
-|ice cream|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|ice cream|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |ice|ais|eng:ice, deu:Eis, may:és|
 |idea (concept, notion)|idey|fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|
 |idiot|idiote|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
@@ -680,7 +680,7 @@
 |pliers (pincers)|pinser|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
 |pocket|jebe|hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|
 |poem|xir|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
-|point (full stop)|punte|spa:punto, rus:пункт (punkt), eng:point|
+|point (period, full stop)|punte|spa:punto, rus:пункт (punkt), eng:point|
 |point at (indicate)|ponta|eng:point, por:apontar, spa:apuntar, fra:pointer|
 |poker|poke|eng:poker, zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|
 |polecat (ferret)|furete|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
@@ -718,7 +718,7 @@
 |race (breed)|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |radish|lobake|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
 |rain|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
-|raisin|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|raisin|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ramp (incline)|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |read|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |realization (awareness, enlightenment, bodhi)|bude|scr:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|
@@ -896,7 +896,7 @@
 |technique (technology)|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
 |temperature|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
 |ten (10)|des|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|
-|tendency(inclination)|ive|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
+|tendency (inclination)|ive|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
 |tent|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |test (try, attempt)|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |thanks (thank you)|danke|eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|

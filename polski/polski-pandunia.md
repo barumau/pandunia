@@ -99,7 +99,7 @@ balon - balon
 bambus - banse  
 banan - banan  
 bandaż, taśma, wstążka - faxe  
-Bangladesz - bangledexia  
+Bangladesz - banglodexia  
 bank - banke  
 bankier - banker  
 baobab - buy  
@@ -448,7 +448,7 @@ ferm - fermium
 Fidżi - fijia  
 figura, reprezentacja - figur  
 Filipiny - filipinia  
-filiżanka do kawy - kafekupe  
+filiżanka do kawy - kafokupe  
 film - filme  
 filozof - filsofer  
 filozofia - filsofia  
@@ -590,7 +590,7 @@ Hiszpania - espania
 hmm - hem  
 hobby - hobe  
 hokej - hoke  
-hokej na lodzie - aisehoke  
+hokej na lodzie - aisohoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
 homoseksualny - samjinsokami  
@@ -693,7 +693,7 @@ Jupiter - muxing
 jutro - badi den  
 już (skończona czynność) - lew  
 język surinamski - surinami bax  
-język sztuczny - sanebax  
+język sztuczny - sanobax  
 język świata, język ogólnoświatowy - dunia bax  
 język; komunikacja - bax  
 językoznastwo - baxolojia  
@@ -759,7 +759,7 @@ klawiatura - butonbanze
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
 klimat - klime  
-klimatologia - klimelojia  
+klimatologia - klimolojia  
 klon, replika - klon  
 klonować, repilikować - klona  
 klub - klube  
@@ -935,7 +935,7 @@ lit - litium
 litera, znak - harfe  
 litr - litre  
 lodowy - aisi  
-lody - aisekrem  
+lody - aisokrem  
 logika, dedukcja - logike  
 logofil (miłośnik słów) - logofiler  
 lorens - laurensium  
@@ -1049,7 +1049,7 @@ mieć (posiadać) - malka
 mieć (trzymać) - tena  
 migdał - badam  
 migracja - migre  
-mikro- - mikr-  
+mikro- - mikro-  
 Mikronezja - mikronesia  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
@@ -1062,7 +1062,7 @@ minimal - minimi
 minimalizm - minimalistia  
 minister - minister  
 ministry - ministeria  
-minuta - minut  
+minuta - minute  
 minąć, mijać (czas) - duru  
 minąć, mijać, przeminąć, przemijać - pasa  
 misja - misia  
@@ -1089,7 +1089,7 @@ molibden - molidenum
 moment - sate  
 Monako - monakia  
 monarchia - monokratia  
-moneta - pesediske  
+moneta - pesodiske  
 Mongolia - mongolia  
 Mongolski - mongol  
 monizm - monistia  
@@ -1411,7 +1411,7 @@ pierdzieć - peda
 pierwszy, numer jeden - nume un  
 pierwszy, początkowy - muli  
 pierś - sine  
-pierścień, pierścionek; obrączka - fingewen  
+pierścień, pierścionek; obrączka - fingowen  
 pies - waf  
 piknik - piknike  
 pilaw - polaw  
@@ -1611,7 +1611,7 @@ przeciekać, ciec - lowa
 przecinek - kome  
 przeciwnik (antagonista) - anter  
 przeciwstawny (naprzeciw, naprzeciwko, anty-) - anti  
-przedpołudnie - subeden  
+przedpołudnie - suboden  
 przedłużyć, przedłużać - longa  
 przegrany, pokonany - luzer  
 przegrać, przegrywać - luza  
@@ -1655,7 +1655,7 @@ przyrostek dla wsperającego ideę - iste
 przyrostek dla wykonawcy - er  
 przystojny, atrakcyjny, ładny - bon rupi  
 przyszłość - wile  
-prędkościomierz - rapidemeter  
+prędkościomierz - rapidometer  
 prędkość (szybkość) - rapide  
 pręt, kij - baton  
 psychologia - ruholojia  
@@ -1693,7 +1693,7 @@ rada, porada - mente
 radio - radi geter  
 radioaktywność - ioni radia  
 radioaktywny - ioni radi  
-radoiometr - radiometer  
+radoiometr - radometer  
 radon - radon  
 rakieta - rokete  
 Ramadan - ramazan  
@@ -1730,7 +1730,7 @@ rodak, ziomek, krajan - samdexi
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - saudar  
 rodzina - famil  
-rodzynka - ganputaw  
+rodzynka - ganoputaw  
 roentgen - rengenium  
 rok - nen  
 rola - rol  
@@ -1814,7 +1814,7 @@ sałatka - salade
 scena - sen  
 schody (drabina) - eskal  
 seaborg - seaborgium  
-sejsmologia - sismelojia  
+sejsmologia - sismolojia  
 sekret - sir  
 sekretariat - sekreteria  
 sekretarz - sekreter  
@@ -1919,7 +1919,7 @@ stać - libu
 sterburta (prawa burta) - botoraite  
 sterować - gida  
 sto (##) - hon  
-stolarz - mokejanger  
+stolarz - mokojanger  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
 stoper - sekundometer  
@@ -2039,7 +2039,7 @@ tchórz, fretka - furete
 technet - teknetium  
 technika, technologia - tekne  
 technokracja - teknokratia  
-technologia, nauka o technikach - teknelojia  
+technologia, nauka o technikach - teknolojia  
 teistyczny - dewiste  
 teizm - dewistia  
 telefon - telfon  
@@ -2059,7 +2059,7 @@ teoria - teoria
 teraźniejszość, współczesność (teraz) - zaye  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
-termometr - termemeter  
+termometr - termometer  
 terror - teror  
 terrorysta - teroriste  
 terroryzm - teroristia  
@@ -2101,7 +2101,7 @@ turban - pagre
 Turcja - turkia  
 turecki - turki  
 Turek osmański - osman  
-Turkmenistan - turkemenia  
+Turkmenistan - turkomenia  
 turkus - firuze  
 turysta - safariste  
 turystyka - safaristia  
@@ -2252,7 +2252,7 @@ wiosna - cune
 wirus - virus  
 wirusologia - viruslojia  
 witaj, dobre przybycie - salam laye  
-witryna internetowa (portal internetowy) - neteloke  
+witryna internetowa (portal internetowy) - netoloke  
 wiwatować; hura - ura  
 wiza - vize  
 wizyta - vizite  
@@ -2422,7 +2422,7 @@ Zimbabwe - zimbabwia
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
 zjednoczony - uni  
-zmiana klimatu - klimemute  
+zmiana klimatu - klimomute  
 zmienić, zmieniać - muta  
 zmierzyć - meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  
@@ -2480,7 +2480,7 @@ zły, zrujnowany, zepsuty - harabi
 śmiać się - haha  
 śmierć - morte  
 śmieć, odpadek - laje  
-śniadanie - subeniam  
+śniadanie - suboniam  
 śnieg - him  
 śpiewać - canta  
 średni - medi  

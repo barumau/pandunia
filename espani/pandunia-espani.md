@@ -10,8 +10,8 @@ adalia - justicia
 afrike - África  
 agres - ataque  
 airporte - aeropuerto  
-aisehoke - hockey sobre hielo  
-aisekrem - helado  
+aisohoke - hockey sobre hielo  
+aisokrem - helado  
 ajil - ágil  
 akse - eje  
 aksente - acento  
@@ -181,7 +181,7 @@ kitaba - escribir
 kitabe - escritura  
 kitabia - biblioteca  
 kitabomaxin - máquina de escribir  
-klimemute - cambio climático  
+klimomute - cambio climático  
 ko - que (como)  
 ko? - cómo  
 komputer - ordenador  
@@ -232,7 +232,7 @@ maye - hormigo
 mede - medio  
 medi - médio  
 megam - nube  
-megegram - tonelada  
+megogram - tonelada  
 mel - miel  
 mem - memoria  
 mema - acordarse  
@@ -257,7 +257,7 @@ na - sin
 nanas - piña  
 nasia - nación  
 nefre - riñon  
-neuresel - neurona  
+neurosel - neurona  
 nida - necesitar  
 nide - necesidad  
 nidi - necesario  
@@ -300,7 +300,7 @@ pay - pastel (pay)
 peda - peer  
 pede - pedo  
 pelmen - empanadilla (pelmeni)  
-pesediske - moneda  
+pesodiske - moneda  
 petre - piedra  
 piaze - cebolla  
 pike - cima (pico, cumbre, vértice)  

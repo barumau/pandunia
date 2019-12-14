@@ -85,7 +85,7 @@ argono - argon
 armeo - laskeria  
 armilo - arme  
 arseno - arsen  
-artefarita lingvo - sanebax  
+artefarita lingvo - sanobax  
 artisto - artiste  
 arto - arte  
 arĝento - argente  
@@ -128,8 +128,8 @@ bambuo - banse
 bana - banyu  
 banano - banan  
 bandaĝo (vindo) - bende  
-bangladeŝa - bangledexi  
-Bangladeŝo - bangledexia  
+bangladeŝa - banglodexi  
+Bangladeŝo - banglodexia  
 bankisto - banker  
 banko - banke  
 bano - banye  
@@ -470,7 +470,7 @@ genuo - gute
 germaniumo - germanium  
 gitaro - gitar  
 glacia - aisi  
-glaciaĵo - aisekrem  
+glaciaĵo - aisokrem  
 glacio - ais  
 glata - lisi  
 glavo - katan  
@@ -620,7 +620,7 @@ juĝo - hakim
 kadmio - kadomium  
 kafejo - kaferia  
 kafo - kafe  
-kaftaso - kafekupe  
+kaftaso - kafokupe  
 kaj - e  
 kajero - notobuke  
 kakao - kakaw  
@@ -678,7 +678,7 @@ klarigi - klara
 klavaro - butonbanze  
 klavo - buton  
 klimato - klime  
-klimatscienco - klimelojia  
+klimatscienco - klimolojia  
 kloni - klona  
 klono - klon  
 kloro - klor  
@@ -904,7 +904,7 @@ mi - me
 mia - mi  
 mielo - mel  
 migrado - migre  
-mikro- - mikr-  
+mikro- - mikro-  
 miksi - mixa  
 miksilo - mixer  
 miksulo - hibride  
@@ -916,7 +916,7 @@ miliono - megi
 milita - jengi  
 milito (batalo) - jeng  
 ministro - minister  
-minuto - minut  
+minuto - minute  
 mito - dewi sage  
 mizera - miskin  
 mola - komal  
@@ -925,7 +925,7 @@ molusko - moluske
 monato - mes  
 mondlingvo - dunia bax  
 mondo - dunia  
-monero - pesediske  
+monero - pesodiske  
 mongola - mongol  
 Mongolio - mongolia  
 monismo - monistia  
@@ -972,7 +972,7 @@ nerva - neuri
 nervo - neure  
 newtono (N) - nuton  
 neĝo - him  
-neŭrono - neuresel  
+neŭrono - neurosel  
 ni - mome  
 ni faru... - haida  
 nigra - cerni  
@@ -1209,7 +1209,7 @@ ridi - haha
 rigardi ia - konsida  
 rilato - guanxe  
 rimarki - nota  
-ringo - fingewen  
+ringo - fingowen  
 rinocero - faru  
 ripari - xula  
 riparisto - xuler  
@@ -1269,7 +1269,7 @@ sekso - sekse
 sekso - sekse  
 sekva - badi  
 sekvi - bada  
-sekvinbero - ganputaw  
+sekvinbero - ganoputaw  
 sekvo - bade  
 seleno - selen  
 sema - semi  
@@ -1291,7 +1291,7 @@ silicio - silike
 simpla - simpli  
 Singapuro - singapur  
 siropo - xirope  
-sismologio - sismelojia  
+sismologio - sismolojia  
 sistemo - sistem  
 sitelo - balde  
 situacio (aferstato) - xeyhal  
@@ -1364,7 +1364,7 @@ taso - kupe
 tatuo - tataw  
 teknecio - teknetium  
 tekniko - tekne  
-teknologio - teknelojia  
+teknologio - teknolojia  
 tekto - cate  
 telefono - telfon  
 televidilo - telvide  
@@ -1379,7 +1379,7 @@ teologio - dewlojia
 teorio - teoria  
 tera - duni  
 terbio - terbium  
-termometro - termemeter  
+termometro - termometer  
 terni - aciya  
 terorismo - teroristia  
 teroristo - teroriste  
@@ -1503,7 +1503,6 @@ vokalo - vokal
 voli - wana  
 volo - ice  
 volo - wan  
-vortaro - lekseliste  
 vortaro - leksia  
 vortaro - leksoliste  
 vorto - lekse  

@@ -131,7 +131,7 @@ cartographie - kartografia
 centre - jung  
 chambre à coucher - sonkamar  
 chance - canse  
-changement climatique - klimemute  
+changement climatique - klimomute  
 chapitre - babe  
 chat - maw  
 chef - xef  
@@ -158,7 +158,7 @@ couronne - koron
 creuser - kava  
 croix - krus  
 crème - krem  
-crème glacée - aisekrem  
+crème glacée - aisokrem  
 cube - kube  
 cycliste - sikliste  
 cytologie - selolojia  
@@ -224,7 +224,7 @@ heureux - suki
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
-hockey sur glace - aisehoke  
+hockey sur glace - aisohoke  
 hourra - ura  
 humanisme - insanistia  
 humeur - gamohal  
@@ -288,7 +288,7 @@ migration - migre
 mode (façon, manière) - mode  
 mois - mes  
 monde - dunia  
-monnaie (pièce) - pesediske  
+monnaie (pièce) - pesodiske  
 mot - lekse  
 mouche - zeze  
 moulin - molia  
@@ -300,7 +300,7 @@ méninge - mening
 ##n
 nation - nasia  
 neige - him  
-neurone - neuresel  
+neurone - neurosel  
 niche - nixe  
 noir - cerni  
 noit - noce  
@@ -439,7 +439,7 @@ table - meze
 tarte - pay  
 tasse à thé - caykupe  
 technique - tekne  
-technologie - teknelojia  
+technologie - teknolojia  
 tendance - ive  
 tener sentido - razonu  
 tente - haime  

@@ -40,9 +40,9 @@ airia - Irlanti
 airlaskeria - ilmavoimat  
 airporte - lentoasema (lentokenttä)  
 ais - jää  
-aisehoke - jääkiekko  
-aisekrem - jäätelö  
 aisi - jäinen  
+aisohoke - jääkiekko  
+aisokrem - jäätelö  
 ajaba - ällistyttää  
 ajabe - ihme  
 ajabi - ihmeellinen (ällistyttävä, merkillinen)  
@@ -172,9 +172,9 @@ ban - kerta (vuoro)
 banan - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
-bangledexi - bangladeshilainen  
-bangledexia - Bangladesh  
 bangli - bengali  
+banglodexi - bangladeshilainen  
+banglodexia - Bangladesh  
 banka - tallettaa (tallentaa)  
 banke - pankki  
 banker - pankkiiri  
@@ -531,8 +531,8 @@ dux - suihku
 e - ja  
 ##e
 egal - tasapuolinen (reilu)  
-egalelinye - päiväntasaaja  
-egalelinyi ginia - Päiväntasaajan Guinea  
+egalolinye - päiväntasaaja  
+egalolinyi ginia - Päiväntasaajan Guinea  
 eglis - kirkko  
 ekelojia - ekologia (ympäristötiede)  
 ekia - luonto  
@@ -654,7 +654,7 @@ filter - suodattaa
 fin - loppu  
 fina - lopettaa  
 finge - sormi tai varvas  
-fingewen - sormus  
+fingowen - sormus  
 fini - viimeinen  
 fiorde - vuono  
 firuze - turkoosi  
@@ -729,13 +729,14 @@ gama - tuntea (kokea tunteita)
 gambia - Gambia  
 gamel - kameli  
 gamohal - tunnetila (tuuli)  
+gana - kuivata (kuivattaa)  
 gandia - Uganda  
 gang - äsken (vasta, juuri)  
 ganga - Ganges  
 gani - kuiva  
 gania - Ghana  
 ganje - kannabis (marihuana, hamppu)  
-ganputaw - rusina  
+ganoputaw - rusina  
 ganya - hankkia (ansaita)  
 gar - jos (olettaa)  
 garante - takuu  
@@ -1058,9 +1059,9 @@ kabuverdia - Cabo Verde
 kadomium - kadmium  
 kafas - häkki  
 kafe - kahvi  
-kafekupe - kahvikuppi  
 kaferia - kahvila  
 kafir - pakana  
+kafokupe - kahvikuppi  
 kagaze - paperi  
 kaka - ulostaa (kakata)  
 kakaw - kaakao  
@@ -1193,8 +1194,8 @@ klara - selkeyttää (selittää)
 klas - luokka (kategoria)  
 klasa - luokitella (kategorisoida)  
 klime - ilmasto  
-klimelojia - ilmastotiede (klimatologia)  
-klimemute - ilmastonmuutos  
+klimolojia - ilmastotiede (klimatologia)  
+klimomute - ilmastonmuutos  
 klon - klooni (identtinen kopio)  
 klona - kloonata (monistaa)  
 klor - kloori  
@@ -1342,7 +1343,6 @@ leftiste - vasemmistolainen
 lekin - kuitenkin  
 leksaslia - etymologia  
 lekse - sana  
-lekseliste - sanasto  
 leksem - lekseemi  
 leksia - sanasto  
 leksoliste - sanaluettelo  
@@ -1537,9 +1537,9 @@ medikia - lääketiede
 medileti den - juhannus (keskikesä, mittumaari)  
 medita - pohtia (meditoida)  
 megam - pilvi  
-megegram - tonni (##0 kg)  
 megi - miljoona  
 mego- - mega-  
+megogram - tonni (##0 kg)  
 megowate - megawatti (MW)  
 meh - lammas  
 mel - hunaja  
@@ -1589,7 +1589,7 @@ migan - mandariini
 migra - muuttaa (siirtää)  
 migre - muutto (migraatio)  
 migru - muuttaa (siirtyä)  
-mikr- - mikro-  
+mikro- - mikro-  
 mikronesia - Mikronesia  
 milke - maito  
 milo- - milli-  
@@ -1608,7 +1608,7 @@ ministeria - ministeriö
 minor - vähäinen  
 minoria - vähemmistö  
 minus - paitsi (miinus)  
-minut - minuutti  
+minute - minuutti  
 mira - heijastaa (peilata)  
 mirer - peili  
 mirosonde - kaiku  
@@ -1629,7 +1629,7 @@ modela - mallintaa
 modolekse - adverbi  
 moge - muste  
 moke - puu (puutavara)  
-mokejanger - puuseppä  
+mokojanger - puuseppä  
 mola - jauhaa myllyssä  
 moldovia - Moldova  
 moler - mylläri  
@@ -1736,11 +1736,11 @@ neptunium - neptunium
 nes - saari  
 nesia - saaristo  
 nete - verkko  
-neteloke - nettisivu  
+netoloke - nettisivu  
 neure - hermo  
-neurepatia - hermosairaus (neuropatia)  
-neuresel - hermosolu (neuroni)  
 neuri - hermostollinen  
+neuropatia - hermosairaus (neuropatia)  
+neurosel - hermosolu (neuroni)  
 nevis - Nevis  
 niam - ruoka  
 niama - nauttia (syödä, juoda)  
@@ -1946,7 +1946,7 @@ pepin - kurkku
 per - sulka  
 peruvia - Peru  
 pese - raha  
-pesediske - kolikko  
+pesodiske - kolikko  
 petre - kivi (murikka)  
 pexe - ammatti  
 pey - maksu  
@@ -2074,8 +2074,8 @@ rade - säde
 radi geter - radiovastaanotin  
 radi miser - radiolähetin  
 radia - säteily  
-radiometer - säteilymittari  
 radium - radium  
+radometer - säteilymittari  
 radon - radon  
 raite - oikea puoli  
 raitiste - oikeistolainen  
@@ -2089,8 +2089,8 @@ rander - höylä
 rang - väri  
 rangi - värilline  
 rapide - nopeus (vauhti)  
-rapidemeter - nopeusmittari  
 rapidi - nopea (pikainen, vauhdikas)  
+rapidometer - nopeusmittari  
 ras - rotu  
 rasiste - rasisti  
 rasistia - rasismi (rotuoppi)  
@@ -2228,9 +2228,9 @@ samun - yhdistys (sidos)
 samuna - yhdistää  
 sana - tehdä (valmistaa)  
 sanduke - laatikko  
-sanebax - keinotekoinen kieli (tekokieli, keinokieli)  
 sang - veri  
 sania - tuotanto  
+sanobax - keinotekoinen kieli (tekokieli, keinokieli)  
 santi - pyhä  
 santi helenia - Saint Helena  
 santi kitse - Saint Kitts  
@@ -2305,7 +2305,7 @@ sis - kuusi (6)
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
 sisme - maanjäristys  
-sismelojia - seismologia  
+sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - suurkaupunki  
 sivili - sivistynyt  
@@ -2344,7 +2344,7 @@ sualbardia - Svalbard
 suan - hapan (kirpeä)  
 suatia - Swazimaa  
 sube - aamu  
-subeniam - aamiainen  
+suboniam - aamiainen  
 sudafrikia - Etelä-Afrikka  
 sudania - Sudan  
 sude - etelä  
@@ -2383,7 +2383,6 @@ sutur - sauma (ommel)
 suxe - sushi  
 suy - vesi  
 suyang - vesiväri (akvarelliväri)  
-suygas - höyry  
 suygas - höyry (vesihöyry)  
 suyosekuri - vesitiivis  
 suyporte - satama  
@@ -2428,8 +2427,8 @@ tayia - Thaimaa
 tazi - tuore (raikas)  
 te - sinä  
 tekne - tekniikka (keino, menetelmä)  
-teknelojia - tekniikka (teknologia)  
 teknokratia - teknokratia  
+teknolojia - tekniikka (teknologia)  
 tele - etäisyys (kaukaisuus)  
 telfon - puhelin  
 teli - kaukainen  
@@ -2447,9 +2446,9 @@ tenta - houkutella
 tenu - kuulua (olla jkn hallussa)  
 teoria - teoria  
 tepe - teippi (nauha)  
-ter- - tera-  
 terme - lämpötila  
-termemeter - lämpömittari  
+termometer - lämpömittari  
+tero- - tera-  
 teror - kauhu (terrori)  
 teroriste - terroristi  
 teroristia - terrorismi  
@@ -2514,9 +2513,9 @@ tung - kipu
 tunike - mekko (tunika)  
 tunisia - Tunisia  
 tupay - orava  
-turkemenia - Turkmenistan  
 turki - turkkilainen  
 turkia - Turkki  
+turkomenia - Turkmenistan  
 tuvalia - Tuvalu  
 tuze - jänis  
 ##u

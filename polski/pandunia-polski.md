@@ -31,9 +31,9 @@ air - powietrze
 airbare - ciśnienie atmosferyczne  
 airbarmeter - barometr  
 ais - lód  
-aisehoke - hokej na lodzie  
-aisekrem - lody  
 aisi - lodowy  
+aisohoke - hokej na lodzie  
+aisokrem - lody  
 ajil - zwinny, sprawny  
 akse - oś  
 aksente - akcent, nacisk  
@@ -137,7 +137,7 @@ ban - czas; okazja
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
-bangledexia - Bangladesz  
+banglodexia - Bangladesz  
 banka - oszczędzać, deponować  
 banke - bank  
 banker - bankier  
@@ -565,7 +565,7 @@ filter - filtr
 fin - koniec  
 fina - skończyć, kończyć  
 finge - palec  
-fingewen - pierścień, pierścionek; obrączka  
+fingowen - pierścień, pierścionek; obrączka  
 fini - ostatni, końcowy  
 fiorde - fiord  
 firuze - turkus  
@@ -637,7 +637,7 @@ ganga - Ganges
 gani - suchy  
 gania - Ghana  
 ganje - konopie  
-ganputaw - rodzynka  
+ganoputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
@@ -923,9 +923,9 @@ kabin - kabina, budka
 kadomium - kadm  
 kafas - klatka  
 kafe - kawa  
-kafekupe - filiżanka do kawy  
 kaferia - kawiarnia  
 kafir - niewierny (poganin, niewierzący)  
+kafokupe - filiżanka do kawy  
 kagaze - papier  
 kaka - defekować, srać  
 kakaw - kakao  
@@ -1042,8 +1042,8 @@ klara - wyklarować (rozjaśnić)
 klas - klasa, kategoria  
 klasa - klasyfikować, kategoryzować  
 klime - klimat  
-klimelojia - klimatologia  
-klimemute - zmiana klimatu  
+klimolojia - klimatologia  
+klimomute - zmiana klimatu  
 klon - klon, replika  
 klona - klonować, repilikować  
 klor - chlor  
@@ -1398,7 +1398,7 @@ mianmia - Mjanma, Birma
 mien - makaron  
 migan - mandarynka  
 migre - migracja  
-mikr- - mikro-  
+mikro- - mikro-  
 mikronesia - Mikronezja  
 milke - mleko  
 milo- - mili-  
@@ -1417,7 +1417,7 @@ ministeria - ministry
 minor - mniejszościowy  
 minoria - mniejszość  
 minus - oprócz, minus  
-minut - minuta  
+minute - minuta  
 mira - odbić, odbijać  
 mirer - lustro  
 mirosonde - echo  
@@ -1435,7 +1435,7 @@ mixer - mikser, blender, robot kuchenny
 model - model, wzór, wzorzec, projekt  
 moge - tusz  
 moke - drewno  
-mokejanger - stolarz  
+mokojanger - stolarz  
 mola - zemleć, mleć, mielić  
 moldovia - Mołdawia  
 moler - młynarz  
@@ -1537,7 +1537,7 @@ neptunium - neptun
 nes - wyspa  
 nesia - archipelag  
 nete - sieć  
-neteloke - witryna internetowa (portal internetowy)  
+netoloke - witryna internetowa (portal internetowy)  
 niam - jedzenie, posiłek  
 niama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 niami - pyszny  
@@ -1720,7 +1720,7 @@ pepin - ogórek
 per - pióro  
 peruvia - Peru  
 pese - pieniądze  
-pesediske - moneta  
+pesodiske - moneta  
 petre - kamień  
 pexe - profesja, zajęcie, zawód  
 pey - zapłata, opłata  
@@ -1842,8 +1842,8 @@ rade - promień
 radi geter - radio  
 radi miser - nadajnik radiowy  
 radia - promieniowanie  
-radiometer - radoiometr  
 radium - rad  
+radometer - radoiometr  
 radon - radon  
 raite - prawa strona  
 raitiste - prawicowiec (prawak)  
@@ -1856,8 +1856,8 @@ randa - heblować
 rander - hebel, strug  
 rang - kolor  
 rapide - prędkość (szybkość)  
-rapidemeter - prędkościomierz  
 rapidi - szybki, prędki  
+rapidometer - prędkościomierz  
 ras - rasa  
 rasiste - rasista  
 rasistia - rasizm  
@@ -1998,10 +1998,10 @@ samun - połączenie, złącze, styk
 samuna - łączyć, wiązać, złączyć  
 sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke - pudło, skrzynia  
-sanebax - język sztuczny  
 sang - krew  
 sani - sztuczny  
 sania - produkcja  
+sanobax - język sztuczny  
 santi - święty  
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  
@@ -2076,7 +2076,7 @@ sis - sześć (6)
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
 sisme - trzęsienie Ziemi  
-sismelojia - sejsmologia  
+sismolojia - sejsmologia  
 sistem - system  
 sistemi - systemowy  
 site - miast, miasteczko  
@@ -2110,8 +2110,8 @@ suahili - suahili
 suan - kwaśny  
 suatia - Suazi  
 sube - ranek, rano, poranek  
-subeden - przedpołudnie  
-subeniam - śniadanie  
+suboden - przedpołudnie  
+suboniam - śniadanie  
 sudafrikia - Południowa Afryka  
 sudania - Sudan  
 sude - południe  
@@ -2193,9 +2193,9 @@ tayia - Tajlandia
 tazi - świeży  
 te - ty, ciebie  
 tekne - technika, technologia  
-teknelojia - technologia, nauka o technikach  
 teknetium - technet  
 teknokratia - technokracja  
+teknolojia - technologia, nauka o technikach  
 tele - dystans  
 telfon - telefon  
 teli - daleki, odległy  
@@ -2217,7 +2217,7 @@ teoria - teoria
 tepe - taśma  
 terbium - terb  
 terme - temperatura  
-termemeter - termometr  
+termometer - termometr  
 teror - terror  
 teroriste - terrorysta  
 teroristia - terroryzm  
@@ -2279,9 +2279,9 @@ tung - ból
 tunike - tunika, toga  
 tunisia - Tunezja  
 tupay - wiewiórka  
-turkemenia - Turkmenistan  
 turki - turecki  
 turkia - Turcja  
+turkomenia - Turkmenistan  
 tuvalia - Tuwalu  
 tuze - królik, zając  
 ##u

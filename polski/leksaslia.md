@@ -337,7 +337,7 @@
 |lista, spis, wykaz|liste|eng:list, spa:por:lista, rus:(lista), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|
 |lis|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
 |litera, znak|harfe|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
-|lody|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|lody|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |logika, dedukcja|logike|eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|
 |lub, albo|o|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|
 |lubić, cieszyć się|suku|jpn:好く (suku), may: suka|
@@ -626,7 +626,7 @@
 |rodzaj, typ, styl|yang|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |rodzeństwo, brat lub siostra|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |rodzina|famil|eng:family, spa:familia, por:família, fra:famille|
-|rodzynka|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rodzynka|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |rok|nen|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|
 |rosa|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |rower|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|

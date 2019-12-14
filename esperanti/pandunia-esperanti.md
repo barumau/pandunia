@@ -30,8 +30,8 @@ ainstainium - ejnŝtejnio
 air - aero  
 airporte - flughaveno  
 ais - glacio  
-aisekrem - glaciaĵo  
 aisi - glacia  
+aisokrem - glaciaĵo  
 ajil - lerta  
 akse - akso  
 aksente - akcento  
@@ -123,8 +123,8 @@ balon - balono
 ban - fojo  
 banan - banano  
 bandir - flago  
-bangledexi - bangladeŝa  
-bangledexia - Bangladeŝo  
+banglodexi - bangladeŝa  
+banglodexia - Bangladeŝo  
 banke - banko  
 banker - bankisto  
 banse - bambuo  
@@ -466,7 +466,7 @@ filter - filtri
 fin - fino  
 fina - fini  
 finge - fingro  
-fingewen - ringo  
+fingowen - ringo  
 fini - lasta  
 fiorde - fjordo  
 firuze - turkiso  
@@ -528,7 +528,7 @@ gang - ĵus
 ganga - Gangoj  
 gani - seka  
 ganje - kanabo  
-ganputaw - sekvinbero  
+ganoputaw - sekvinbero  
 ganya - akiri (gajni)  
 gar - se  
 garante - garantio  
@@ -731,8 +731,8 @@ jus - suko
 ##k
 kadomium - kadmio  
 kafe - kafo  
-kafekupe - kaftaso  
 kaferia - kafejo  
+kafokupe - kaftaso  
 kagaze - papero  
 kakaw - kakao  
 kake - feko  
@@ -812,7 +812,7 @@ kiwe - kivo
 klar - klara  
 klara - klarigi  
 klime - klimato  
-klimelojia - klimatscienco  
+klimolojia - klimatscienco  
 klon - klono  
 klona - kloni  
 klor - kloro  
@@ -884,7 +884,6 @@ le - li aŭ ŝi aŭ ĝi
 lekin - tamen  
 leksaslia - etimologio  
 lekse - vorto  
-lekseliste - vortaro  
 leksia - vortaro  
 leksoliste - vortaro  
 lengi - malvarma  
@@ -990,7 +989,7 @@ mianmia - Birmo
 mien - nudelo  
 migan - mandarino  
 migre - migrado  
-mikr- - mikro-  
+mikro- - mikro-  
 milke - lakto  
 milo- - mili-  
 milometre - milimetro  
@@ -1001,7 +1000,7 @@ mini - eta
 minim - malplej  
 minister - ministro  
 minus - escepte  
-minut - minuto  
+minute - minuto  
 mira - speguli  
 mirer - spegulo  
 mirosonde - eĥo  
@@ -1068,8 +1067,8 @@ neptun - Neptuno
 neptunium - neptunio  
 nete - reto  
 neure - nervo  
-neuresel - neŭrono  
 neuri - nerva  
+neurosel - neŭrono  
 niama - manĝi (trinki)  
 niamkamar - manĝoĉambro  
 nida - bezoni  
@@ -1163,7 +1162,7 @@ penta - pentri
 pepin - kukumo  
 per - plumo  
 pese - mono  
-pesediske - monero  
+pesodiske - monero  
 petre - ŝtono  
 pexe - metiero  
 pian - piano  
@@ -1306,8 +1305,8 @@ samude - maro
 samudi - mara  
 sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
-sanebax - artefarita lingvo  
 sang - sango  
+sanobax - artefarita lingvo  
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
@@ -1343,7 +1342,7 @@ singapur - Singapuro
 sinkase - torako  
 sirke - vinagro  
 sisme - tertremo  
-sismelojia - sismologio  
+sismolojia - sismologio  
 sistem - sistemo  
 site - urbego  
 skandium - skandio  
@@ -1404,8 +1403,8 @@ tayia - Tajlando
 tazi - freŝa  
 te - vi (ci)  
 tekne - tekniko  
-teknelojia - teknologio  
 teknetium - teknecio  
+teknolojia - teknologio  
 tele - malproksimeco  
 telfon - telefono  
 teli - malproksima  
@@ -1421,7 +1420,7 @@ tenu - aparteni
 teoria - teorio  
 tepe - bendo  
 terbium - terbio  
-termemeter - termometro  
+termometer - termometro  
 teror - teroro  
 teroriste - teroristo  
 teroristia - terorismo  

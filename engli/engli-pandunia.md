@@ -5,7 +5,7 @@ a couple of - dul o tin
 ##a
 ability (skill) - able  
 Abkhazia - abhasia  
-about (approximately) - yago  
+about (approximately, nearly) - yago  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
 accent (stress) - aksente  
@@ -128,12 +128,12 @@ argument (thesis) - tese
 arithmetics - hisabia  
 Armenia - hayakia  
 army - laskeria  
-aromantic - noleromansi  
+aromantic - noloromansi  
 arsenic - arsen  
 art - arte  
 article (writing) - makale  
 artificial - sani  
-artificial language (conlang) - sanebax  
+artificial language (conlang) - sanobax  
 artisan (craftsman) - janger  
 artist - artiste  
 Artsakh - arcahia  
@@ -202,8 +202,8 @@ banana - banan
 band (squad, group) - bande  
 band (tape, bandage) - bende  
 bandage (strip, ribbon) - faxe  
-Bangladesh - bangledexia  
-Bangladeshi - bangledexi  
+Bangladesh - banglodexia  
+Bangladeshi - banglodexi  
 banister (handrail) - langan  
 bank (depository) - banke  
 banker - banker  
@@ -331,7 +331,7 @@ branch (bough) - xake
 brave (bold, heroic) - wiri  
 Brazil - brazilia  
 bread - pang  
-breakfast - subeniam  
+breakfast - suboniam  
 breath - nafas  
 bridge - pulte  
 bright (brilliant, clear) - ming  
@@ -410,7 +410,7 @@ carbon dioxide - karbondulokside
 card - karde  
 care (cure) - kura  
 Caribbean - karibia  
-carpenter - mokejanger  
+carpenter - mokojanger  
 carrot - karote  
 cartography - kartografia  
 cash box - kaxe  
@@ -496,8 +496,8 @@ clean (purify) - safa
 cleaner - safer  
 clear (not obscured) - klar  
 climate - klime  
-climate change - klimemute  
-climatology - klimelojia  
+climate change - klimomute  
+climatology - klimolojia  
 clone (replica) - klon  
 clone (replicate) - klona  
 clothing - fuke  
@@ -513,12 +513,12 @@ code (cipher) - kode
 coerce (force, compel) - musa  
 coercion - muse  
 coffee - kafe  
-coffee cup - kafekupe  
-coin - pesediske  
+coffee cup - kafokupe  
+coin - pesodiske  
 cola - kola  
 cold (illness) - zukam  
 cold - lengi  
-collect (gather, bring together) - jama  
+collect (gather, bring together, assemble) - jama  
 collect fees or taxes - taksa  
 collection (congregation, assembly) - jamia  
 collective - jami  
@@ -680,7 +680,7 @@ devilish (satanic) - xatani
 dew - rose  
 diagonal - transogoni  
 diamond - almas  
-dictionary (word list) - lekseliste  
+dictionary (word list) - leksoliste  
 die (dice) - dade  
 die - mortu  
 difference - alosifia  
@@ -736,6 +736,7 @@ drop (let fall) - pada
 drug (intoxicating substance) - droge  
 drum - tambur  
 dry - gani  
+dry out - gana  
 dual (double) - duli  
 dualism - dulistia  
 dubnium - dubnium  
@@ -794,8 +795,8 @@ enzyme - enzim
 epistemology - janolojia  
 equal (fair) - egal  
 equal (peer) - par  
-equator - egalelinye  
-Equatorial Guinea - egalelinyi ginia  
+equator - egalolinye  
+Equatorial Guinea - egalolinyi ginia  
 erbium - erbium  
 erect (standing) - libi  
 erect - liba  
@@ -890,7 +891,7 @@ filter - filter
 find (discover) - eureka  
 fine (delicate) - fain  
 finger (toe) - finge  
-finger ring - fingewen  
+finger ring - fingowen  
 finish (put an end to) - fina  
 Finland - suomia  
 Finnish - suomi  
@@ -924,7 +925,7 @@ forbidden (illicit, haram, taboo) - haram
 force (strength) - fortia  
 foreign - way dexi  
 foreign country - way dexia  
-forenoon - subeden  
+forenoon - suboden  
 forest (jungle, woods) - jangal  
 forget - memula  
 fork - forke  
@@ -1182,8 +1183,8 @@ hydrogen - hidre
 I (me) - me  
 ##i
 ice - ais  
-ice cream - aisekrem  
-ice hockey - aisehoke  
+ice cream - aisokrem  
+ice hockey - aisohoke  
 Iceland - islandia  
 icy - aisi  
 idea (concept, notion) - idey  
@@ -1553,7 +1554,7 @@ metal - metal
 meter (## cm) - metre  
 method (means) - metode  
 Mexico - mexikia  
-micro- - mikr-  
+micro- - mikro-  
 Micronesia - mikronesia  
 middle (center) - jung  
 middle (the part in between) - mede  
@@ -1576,7 +1577,7 @@ minister - minister
 ministry - ministeria  
 minor (not major) - minor  
 minority - minoria  
-minute - minut  
+minute - minute  
 mirror - mirer  
 misfortune (bad luck) - mal zar  
 mission (transmission, emission) - misia  
@@ -1678,8 +1679,8 @@ net - nete
 Netherlands - nederlandia  
 Netherlands Antilles - nederlandi antilia  
 neural - neuri  
-neuron - neuresel  
-neuropathy - neurepatia  
+neuron - neurosel  
+neuropathy - neuropatia  
 never - nol ban  
 Nevis - nevis  
 new (recent) - novi  
@@ -1955,7 +1956,7 @@ plutonium - plutonium
 pocket - jebe  
 poem - xir  
 poet - xirer  
-point (full stop) - punte  
+point (period, full stop) - punte  
 point at (indicate) - ponta  
 pointer (indicator) - ponter  
 poison (venom) - tokse  
@@ -2076,7 +2077,7 @@ radiation - radia
 radio receiver - radi geter  
 radioactive - ioni radi  
 radioactivity (ionizing radiation) - ioni radia  
-radiometer - radiometer  
+radiometer - radometer  
 radiotransmitter - radi miser  
 radish - lobake  
 radium - radium  
@@ -2086,7 +2087,7 @@ rain - barxe
 raincoat - barxokote  
 rainy - barxi  
 raise (lift) - gawa  
-raisin - ganputaw  
+raisin - ganoputaw  
 Ramadan - ramazan  
 ramp (incline) - rampe  
 random - zari  
@@ -2263,7 +2264,7 @@ secretary - sekreter
 seed (fertilized grain) - semodan  
 seed (semen) - seme  
 seem - rupu  
-seismology - sismelojia  
+seismology - sismolojia  
 selenium - selen  
 self - tan  
 self - ze  
@@ -2401,7 +2402,7 @@ special (distinct) - hasi
 species - jong  
 speech (word) - loge  
 speed (velocity) - rapide  
-speedometer - rapidemeter  
+speedometer - rapidometer  
 spice (seasoning) - masal  
 spider - arane  
 spiral (helix, corkscrew, twist) - helis  
@@ -2534,7 +2535,7 @@ tear gas - kansuygas
 technetium - teknetium  
 technique (technology) - tekne  
 technocracy - teknokratia  
-technology (study of techniques) - teknelojia  
+technology (study of techniques) - teknolojia  
 telephone - telfon  
 television - telvide  
 tell (narrate) - saga  
@@ -2545,11 +2546,11 @@ temple - mandir
 tempt (entice) - tenta  
 ten (10) - des  
 tend to - iva  
-tendency(inclination) - ive  
+tendency (inclination) - ive  
 tennessine - tenesin  
 tennis - tenis  
 tent - haime  
-tera- - ter-  
+tera- - tero-  
 terbium - terbium  
 terror - teror  
 terrorism - teroristia  
@@ -2572,7 +2573,7 @@ theist - dewiste
 theocracy - dewkratia  
 theology - dewlojia  
 theory - teoria  
-thermometer - termemeter  
+thermometer - termometer  
 they - lole  
 thick - grosi  
 thief - corer  
@@ -2614,7 +2615,7 @@ tomato - tomate
 tomorrow - badi den  
 tone (note, pitch, shade) - ton  
 Tonga - tongia  
-tonne (metric ton) - megegram  
+tonne (metric ton) - megogram  
 too little - min ko bas  
 too much - max ko bas  
 tool - tul  
@@ -2663,7 +2664,7 @@ turban - pagre
 turkey - totol  
 Turkey - turkia  
 Turkish - turki  
-Turkmenistan - turkemenia  
+Turkmenistan - turkomenia  
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - tuvalia  
@@ -2714,7 +2715,6 @@ vampire - vampir
 vanadium - vanadium  
 vanilla - vanil  
 Vanuatu - vanuatia  
-vapour - suygas  
 vase (flower pot) - pulvaze  
 vegan - monovejeniamiste  
 vegetable - veje  
@@ -2779,7 +2779,7 @@ we - mome
 weapon (arms) - arme  
 wear clothes - fuka  
 weather - tenke  
-website - neteloke  
+website - netoloke  
 Wednesday - war 3 (war tin)  
 week - seman  
 weep (cry) - kuga  
@@ -2822,7 +2822,6 @@ woman (adult female) - maturi fem
 wonder (be amazed) - ajabu  
 wood (timber) - moke  
 word - lekse  
-word list - leksoliste  
 work (job, task) - werke  
 work - werka  
 worker - werker  

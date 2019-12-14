@@ -9,8 +9,8 @@ adres - адрес
 adulte - взрослый  
 agres - нападение (атака)  
 airporte - аэропорт  
-aisehoke - хокке́й с ша́йбой  
-aisekrem - мороженое  
+aisohoke - хокке́й с ша́йбой  
+aisokrem - мороженое  
 ajil - подвижный  
 akse - ось  
 aksente - ударение  
@@ -201,7 +201,7 @@ kitabe - письмо
 kitabia - библиотека  
 kitabomaxin - пишущая машинка  
 klime - климат  
-klimemute - изменение климата  
+klimomute - изменение климата  
 ko - чем  
 ko? - как  
 komputer - компьютер  
@@ -271,7 +271,7 @@ mome - мы
 nade - река  
 nasia - нация  
 nefre - почка  
-neuresel - нейрон  
+neurosel - нейрон  
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
@@ -312,7 +312,7 @@ peda - пердеть
 pede - пердение  
 per - перо  
 pese - деньги  
-pesediske - монета  
+pesodiske - монета  
 piaze - лук  
 pike - вершина  
 pin - булавка  
@@ -379,7 +379,7 @@ tas - блюдо (таз)
 tataw - татуировка (тату)  
 tazi - свежий  
 te - ты  
-teknelojia - технология  
+teknolojia - технология  
 telfon - телефон  
 telvide - телевизор  
 teme - тема  

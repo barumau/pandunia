@@ -27,8 +27,8 @@ agres - agression (attaque)
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
 airporte - aéroport  
-aisehoke - hockey sur glace  
-aisekrem - crème glacée  
+aisohoke - hockey sur glace  
+aisokrem - crème glacée  
 ajil - agile  
 akse - axe  
 aksente - accent  
@@ -253,7 +253,7 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
-klimemute - changement climatique  
+klimomute - changement climatique  
 ko - que (comme)  
 ko? - comment  
 komputer - ordinateur  
@@ -332,7 +332,7 @@ muke - visage
 nade - rivière (fleuve)  
 nasia - nation  
 nefre - rein  
-neuresel - neurone  
+neurosel - neurone  
 nida - avoir besoin de  
 nide - besoin  
 nidi - nécessaire  
@@ -377,7 +377,7 @@ pay - tarte
 peda - péter  
 pede - pet (vesse)  
 pese - argent  
-pesediske - monnaie (pièce)  
+pesodiske - monnaie (pièce)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pin - épingle  
@@ -448,7 +448,7 @@ tarje - traduction
 tazi - frais  
 te - tu  
 tekne - technique  
-teknelojia - technologie  
+teknolojia - technologie  
 telfon - téléphone  
 telvide - téléviseur  
 teme - sujet (thème)  
