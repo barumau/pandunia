@@ -131,7 +131,7 @@ Bermudy - bermudia
 beryl - beril  
 beton - beton  
 bez - na  
-bezpieczny - sekur  
+bezpieczny - sekuri  
 Bhutan - drugia  
 Białoruś - belorusia  
 biały - baki  
@@ -1658,9 +1658,9 @@ przyszłość - wile
 prędkościomierz - rapidemeter  
 prędkość (szybkość) - rapide  
 pręt, kij - baton  
-psychologia - ruhelojia  
+psychologia - ruholojia  
 ptak - pakse  
-puder - mukefun  
+puder - mukofun  
 pudełko, skrzynia - kaxe  
 puding - puding  
 pudło, skrzynia - sanduke  
@@ -2411,7 +2411,7 @@ zemleć, mleć, mielić - mola
 zero, nic, żaden - nol  
 zespół (drużyna, grupa) - bande  
 zewnętrzny - way  
-ziarno, nasienie - dan  
+ziarno, nasienie - semodan  
 zielony - lugi  
 Ziemia - zemia  
 ziemia, grunt, gleba - zem  

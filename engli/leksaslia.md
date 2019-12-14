@@ -384,7 +384,6 @@
 |gold|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
 |good-looking|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |good|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
-|grain (seed)|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
 |grass|gras|eng:grass, hin:घास (ghās)|
 |grave (tomb)|gabre|ara:(qabr), hin:क़ब्र (qabra), may:kubur, deu:Grab, pol:grób, rus:гроб (grob)|
 |greedy|tami|ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|
@@ -645,6 +644,7 @@
 |park (garden)|parke|eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|
 |parrot (parakeet)|papagay|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|
 |part (fraction)|fen|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
+|particle (grain, bullet)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |party (celebration, festival)|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
 |party|partia|eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|
 |passport|pasporte|eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|
@@ -708,7 +708,7 @@
 |proof (evidence, proof, demonstration, testimony)|dalil|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
 |property (belongings, possessions)|malke|ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|
 |prophet|naber|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|psychology|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psychology|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |pudding|puding|eng:pudding, zho:布丁 (bùdīng)|
 |pull (draw, drag)|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |pyramid|piram|eng:pyramid, + ara:(haram)|
@@ -754,11 +754,13 @@
 |roof|cate|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
 |room (chamber)|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |root|rize|ell:ρίζα (riza), eng:fra:rhizo-, por:spa:rizo-, rus:ризо- (rizo-)|
+|rose|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |rotate (spin, turn on an axis)|rotu|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |route (path, trail, course, itinerary)|rute|eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|
 |rubber|gom|spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|
 |rum|rum|eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)|
 |rustle|xaxu|zho:(shasha)|
+|safe (secure, protected)|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |saffron|safran|ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|
 |salad|salade|fra:salade, end:may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |salt|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
@@ -777,6 +779,7 @@
 |search|serca|eng:search, fra:chercher|
 |season|mosim|hin:urd:(mOsam), may:musim, ara:(mawsim), tur:mevsim, swa:msimu|
 |sea|samude|khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|
+|seed (semen)|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |self|tan|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
 |self|ze|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
 |sentence (phrase)|fraze|fra:eng:phrase, por:frase, rus:фраза (fraza)|

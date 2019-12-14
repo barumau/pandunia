@@ -69,6 +69,7 @@ baskobol - baloncesto
 batre - pila (batería)  
 bax - lengua (idioma)  
 baze - base  
+beker - panadero  
 ben - lado  
 bir - cerveza (birra)  
 bol - balle (boule)  
@@ -249,6 +250,7 @@ mode - modo (manera, forma)
 molia - molino  
 mome - nosotros  
 monistia - monismo  
+muke - cara (rosto)  
 mula - comenzar (iniciar, empezar)  
 ##n
 na - sin  
@@ -328,6 +330,8 @@ rezerve - réservation
 rici - rico  
 rim - rima  
 rize - raiz  
+rose - rocío  
+roze - rosa  
 ##s
 sahi - correcto (justo)  
 sake - saco  
@@ -342,7 +346,10 @@ sang - sangre
 sapate - sapato  
 sar - cabeza  
 sekse - sexo  
+sekuri - seguro  
 selolojia - citología  
+seme - semilla  
+semi - seminal  
 serye - serie  
 si - sí  
 sikle - bicicleta  

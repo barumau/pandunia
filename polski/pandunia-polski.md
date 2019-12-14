@@ -338,7 +338,6 @@ dalila - dowieść, dowodzić; zeznać, zeznawać
 damaje - obrażenia (rana, krzywda)  
 damaji - krzywdzący (szkodliwy)  
 damogem - warcaby  
-dan - ziarno, nasienie  
 dania - Dania  
 danka - dziękować  
 danke - dzięki, dzięki ci  
@@ -1474,7 +1473,7 @@ mudan - piwonia
 muh - krowa  
 muhomanse - wołowina  
 muke - twarz  
-mukefun - puder  
+mukofun - puder  
 mul - początek  
 mula - zacząć, zaczynać  
 muli - pierwszy, początkowy  
@@ -1926,8 +1925,8 @@ rozrangi - różowy, różany
 ruandia - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
-ruhelojia - psychologia  
 ruhi - umysłowy (psychiczny)  
+ruholojia - psychologia  
 ruke - placy  
 ruksake - plecak  
 rul - rulon (rolka, zwój)  
@@ -2028,13 +2027,14 @@ seksi - płciowy
 seksi - seksowny, ponętny  
 sekunde - sekunda  
 sekundometer - stoper  
-sekur - bezpieczny  
 sekura - chronić (ratować)  
+sekuri - bezpieczny  
 sel - komórka (biologia)  
 selen - selen  
 sem - siedem (7)  
 seman - tydzień  
 semente - cement  
+semodan - ziarno, nasienie  
 sen - scena  
 senegalia - Senegal  
 sense - zmysł  

@@ -1155,7 +1155,7 @@ prometio - prometium
 pronomo - vislekse  
 propra (partiklo de posedo) - da  
 protaktinio - protacinium  
-psikologio - ruhelojia  
+psikologio - ruholojia  
 pulmo - pulmon  
 pulvo - barude  
 punkto - binde  
@@ -1272,8 +1272,9 @@ sekvi - bada
 sekvinbero - ganputaw  
 sekvo - bade  
 seleno - selen  
+sema - semi  
 semajno - seman  
-semo - dan  
+semo - seme  
 sen - na  
 senti - senta  
 sep (7) - sem  

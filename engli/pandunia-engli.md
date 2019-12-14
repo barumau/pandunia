@@ -409,10 +409,11 @@ dalila - prove (demonstrate, testify)
 damaje - damage (injury, harm)  
 damaji - harmful (damaging)  
 damogem - checkers (draughts)  
-dan - grain (seed)  
+dan - particle (grain, bullet)  
 dania - Denmark  
 danka - thank  
 danke - thanks (thank you)  
+danosekuri - bulletproof  
 danse - dance  
 dante - tooth  
 dantobrox - tooth brush  
@@ -1702,7 +1703,7 @@ mudan - peony
 muh - cow  
 muhomanse - beef  
 muke - face  
-mukefun - face powder  
+mukofun - face powder  
 mul - beginning  
 mula - begin (commence, start)  
 muli - first (beginning)  
@@ -2212,8 +2213,8 @@ rozrangi - pink (rosy)
 ruandia - Rwanda  
 rubidium - rubidium  
 ruhe - soul (mind, psyche)  
-ruhelojia - psychology  
 ruhi - mental (psychic)  
+ruholojia - psychology  
 ruke - back  
 ruksake - backpack (rucksack)  
 rul - roll (scroll, coil)  
@@ -2324,14 +2325,17 @@ seksi - sexual (relating to gender)
 seksi - sexy (sexual)  
 sekunde - second(s)  
 sekundometer - stop watch  
-sekur - safe (secure)  
-sekura - save  
+sekura - protect (secure, save)  
+sekuri - safe (secure, protected)  
 sel - cell (biology)  
 selen - selenium  
 selolojia - cytology  
 sem - seven (7)  
 seman - week  
+seme - seed (semen)  
 semente - cement  
+semi - seminal  
+semodan - seed (fertilized grain)  
 sen - stage (scene)  
 senegalia - Senegal  
 sense - sense  
@@ -2460,6 +2464,7 @@ suy - water
 suyang - watercolor  
 suygas - steam (vapor)  
 suygas - vapour  
+suyosekuri - waterproof  
 suyporte - harbor (seaport)  
 ##t
 tabake - tobacco  
@@ -2575,8 +2580,8 @@ totol - turkey
 towal - towel  
 transa - transit (pass through or across)  
 transe - transit (passage)  
-transegoni - diagonal  
 transeria - transportation  
+transogoni - diagonal  
 tren - train  
 trendaw - railway (railroad)  
 trenkaper - train hijacker  

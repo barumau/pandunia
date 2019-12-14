@@ -74,6 +74,7 @@ bax - язык
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 bebe - младенец  
+beker - хлебопёк (пекарь)  
 bere - ягода  
 bil - счёт  
 bina - строить  
@@ -332,6 +333,8 @@ retra - возвращаться
 rim - рифма  
 rize - корень  
 robote - робот  
+rose - роса  
+roze - роза  
 ruhe - душа (дух)  
 ruksake - рюкзак  
 ##s
@@ -349,6 +352,8 @@ sapate - حِذَاء
 sar - голова  
 sekse - пол  
 selolojia - цитология  
+seme - семя  
+semi - семенной  
 sen - сцена  
 serye - серия  
 si - да  

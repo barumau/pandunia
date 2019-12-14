@@ -350,6 +350,7 @@ budget - bujete
 bugle (horn instrument) - buge  
 build (construct) - bina  
 Bulgaria - bolgaria  
+bulletproof - danosekuri  
 Burkina Faso - burkinia  
 burn (be burned) - piru  
 burn (cause to burn) - pira  
@@ -677,7 +678,7 @@ development - fajan
 devil (Satan) - xatan  
 devilish (satanic) - xatani  
 dew - rose  
-diagonal - transegoni  
+diagonal - transogoni  
 diamond - almas  
 dictionary (word list) - lekseliste  
 die (dice) - dade  
@@ -841,7 +842,7 @@ eye - kan
 eyelash - kankex  
 ##f
 face - muke  
-face powder - mukefun  
+face powder - mukofun  
 factory - fateria  
 failure (flop) - xibay  
 Falkland Islands (Malvinas) - malvinas nesia  
@@ -1021,7 +1022,6 @@ good luck - bon zar
 Good morning - salam sube  
 good-looking - bon rupi  
 gospel (divine message) - ewanjil  
-grain (seed) - dan  
 gram (g) - gram  
 grammar - baxokanun  
 grammatical - baxokanuni  
@@ -1853,6 +1853,7 @@ parrot (parakeet) - papagay
 part (fraction) - fen  
 participant - parter  
 participate (attend, partake, take part) - parta  
+particle (grain, bullet) - dan  
 party (celebration, festival) - feste  
 party - partia  
 pascal (Pa) - paskal  
@@ -2043,8 +2044,9 @@ prophet - naber
 prophet Mani - manihay  
 proponent (supporter, activist, -ist) - iste  
 protactinium - protacinium  
+protect (secure, save) - sekura  
 prove (demonstrate, testify) - dalila  
-psychology - ruhelojia  
+psychology - ruholojia  
 public - demi  
 pudding - puding  
 Puerto Rico - portorikia  
@@ -2204,7 +2206,7 @@ Réunion - reunion
 ##s
 Sabbath - sabate  
 sad - duki  
-safe (secure) - sekur  
+safe (secure, protected) - sekuri  
 saffron - safran  
 Sahrawi Arab Democratic Republic - sahrawia  
 sail - bota  
@@ -2234,7 +2236,6 @@ Saudi Arabia - saudi arabia
 sauna - saune  
 sausage - sosis  
 save (deposit, bank) - banka  
-save - sekura  
 savoir (connaître) - jana  
 savory (umami) - umami  
 scales (weighing device) - barmeter  
@@ -2259,12 +2260,15 @@ second(s) - sekunde
 secret - sir  
 secretariat - sekreteria  
 secretary - sekreter  
+seed (fertilized grain) - semodan  
+seed (semen) - seme  
 seem - rupu  
 seismology - sismelojia  
 selenium - selen  
 self - tan  
 self - ze  
 self-moving (automotive, automobile) - automoti  
+seminal - semi  
 send (emit, transmit) - misa  
 sender (transmitter) - miser  
 Senegal - senegalia  
@@ -2765,6 +2769,7 @@ water buffalo - kabaw
 water lily (nenuphar) - nenufar  
 watercolor - suyang  
 watermelon - arbuze  
+waterproof - suyosekuri  
 watt - wate  
 wave - onde  
 wax - mum  

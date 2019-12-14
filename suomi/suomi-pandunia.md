@@ -681,6 +681,7 @@ juustokumina (jeera) - ziran
 juutalainen - yehudi  
 juutalaisuus - yehudistia  
 jyrinä (ukkonen) - grom  
+jyvä (luoti) - dan  
 jäinen - aisi  
 jänis - tuze  
 järjellinen (järkiperäinen, rationaalinen) - razoni  
@@ -1188,6 +1189,7 @@ luku (kirjan osa) - babe
 lukumäärä (luku, numero) - nume  
 lumi - him  
 lumme - nenufar  
+luodinkestävä - danosekuri  
 luokitella (kategorisoida) - klasa  
 luokka (kategoria) - klas  
 luokse (tykö, kohti, asti) - pa  
@@ -1825,7 +1827,7 @@ profetia - nabe
 pronomini - vislekse  
 prosessi (proseduuri) - proses  
 protaktinium - protacinium  
-psykologia - ruhelojia  
+psykologia - ruholojia  
 pudota (tipahtaa) - padu  
 pudottaa - pada  
 Puerto Rico - portorikia  
@@ -1852,7 +1854,7 @@ putki (tuubi) - tube
 puu (puutavara) - moke  
 puu - arbe  
 puuseppä - mokejanger  
-puuteri - mukefun  
+puuteri - mukofun  
 puuvilla - goton  
 pyhä - santi  
 pylly (takapuoli, pakarat) - bum  
@@ -2085,7 +2087,9 @@ seutu (maa) - istan
 Seychellit - sexel nesia  
 sianliha - gurubomanse  
 side (remmi) - faxe  
-siemen - dan  
+siemen - seme  
+siemen- - semi  
+siemenjyvä - semodan  
 sieni - funge  
 Sierra Leone - salonia  
 sihistä - ziza  
@@ -2177,6 +2181,7 @@ summa - sum
 sunnuntai - war 7 (war sem)  
 suo (räme) - potistan  
 suodattaa - filter  
+suojella (suojata, turvata) - sekura  
 suola - sal  
 suolainen - sali  
 suomalainen - suomi  
@@ -2429,8 +2434,7 @@ Turkki - turkia
 turkkilainen - turki  
 Turkmenistan - turkemenia  
 turkoosi - firuze  
-turvallinen - sekur  
-turvata (suojata, pelastaa) - sekura  
+turvallinen (varma) - sekuri  
 tutkia (opiskella) - loja  
 tutkia - genca  
 tuuli (puhallus) - hawe  
@@ -2605,6 +2609,7 @@ vesi - suy
 vesimeloni - arbuze  
 vesinokkaeläin - batokrote  
 vesipuhveli - kabaw  
+vesitiivis - suyosekuri  
 vesiväri (akvarelliväri) - suyang  
 vessa - tuale  
 vetoketju - ziper  

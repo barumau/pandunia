@@ -125,6 +125,7 @@ bax - langue
 bazar - marché (bazar)  
 baze - base  
 bebe - bébé  
+beker - boulanger  
 ben - coté  
 bere - baie  
 bina - construire  
@@ -326,6 +327,7 @@ misria - Égypte
 mode - mode (façon, manière)  
 molia - moulin  
 mome - nous  
+muke - visage  
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
@@ -401,8 +403,11 @@ rici - riche
 rim - rime  
 rize - racine  
 robote - robot  
+rose - rosée  
+rosta - rôtir  
+roze - rose  
 ruhe - psyché  
-ruhelojia - psychologie  
+ruholojia - psychologie  
 ##s
 safariste - touriste  
 sahi - correct (juste)  
@@ -416,7 +421,10 @@ sang - sang
 sanwice - sandwich  
 sar - tête  
 sekse - sexe  
+sekuri - sûr  
 selolojia - cytologie  
+seme - semence  
+semi - séminal  
 serye - série  
 si - oui  
 sikle - bicyclette  

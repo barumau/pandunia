@@ -63,6 +63,7 @@ café - kafe
 calcular - hisaba  
 cambio climático - klimemute  
 camote (batata) - kamote  
+cara (rosto) - muke  
 carcelero - prizoner  
 carne - manse  
 cartografía - kartografia  
@@ -292,6 +293,7 @@ pacifista - paciste
 padre (papá) - pape  
 palabra (vocablo) - lekse  
 palacio - gunden  
+panadero - beker  
 papaya - papay  
 papel - kagaze  
 papel tapiz - walpapir  
@@ -346,8 +348,10 @@ reír - haha
 rico - rici  
 rima - rim  
 riñon - nefre  
+rocío - rose  
 rodilla - gute  
 rojo - kirmi  
+rosa - roze  
 rápido - rapidi  
 réservation - rezerve  
 ##s
@@ -360,6 +364,9 @@ sandía - arbuze
 sangre - sang  
 sapato - sapate  
 Satanás - xatan  
+seguro - sekuri  
+semilla - seme  
+seminal - semi  
 ser (estar) - esa  
 ser humano - insan  
 serie - serye  

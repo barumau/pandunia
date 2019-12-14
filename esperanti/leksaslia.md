@@ -514,7 +514,7 @@
 |proksima|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |promeni (marŝi)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
 |propra (partiklo de posedo)|da|zho:的 (de)|
-|psikologio|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psikologio|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |pulmo|pulmon|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
 |pulvo|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |punkto|binde|hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
@@ -549,6 +549,7 @@
 |roboto|robote|eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|
 |robo|tunike|spa:túnica, eng:tunic, rus:туника (tunika)|
 |roso|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
+|rozo|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |rubo|laje|zho:垃圾 (lājī)|
 |ruinigita|harabi|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
 |ruĝa|kirmi|arm:կարմիր (karmir), tur: kırmızı, fas(qermez), ara:(qirmiz), + eng:crimson, fra:carmin, por:carmim, spa:carmín, hin:क़िरमिज़ (qirmiz)|
@@ -573,7 +574,7 @@
 |sekso|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |sekvinbero|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |semajno|seman|spa:por:semana, fra:semaine|
-|semo|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
+|semo|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sep (7)|sem|rus:семь (semʹ)|
 |serio|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
 |serpento|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|

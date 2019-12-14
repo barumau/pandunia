@@ -112,6 +112,7 @@ bombe - bombe
 bon - bon  
 botanique - fitolojia  
 boue (fange, bourbe, gadoue) - pote  
+boulanger - beker  
 bouton - boton  
 brigand (bandit) - luter  
 brun (marron) - bruni  
@@ -378,7 +379,7 @@ problématique - venti
 programme - program  
 projet - projete  
 propriété (possession, bien) - malke  
-psychologie - ruhelojia  
+psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
 que (comme) - ko  
@@ -396,8 +397,11 @@ rire - haha
 rivière (fleuve) - nade  
 riz - arize  
 robot - robote  
+rose - roze  
+rosée - rose  
 rouge - kirmi  
 ruban (bande) - tepe  
+rôtir - rosta  
 s'installer (déménager) - migru  
 ##s
 saber (conocer) - jana  
@@ -413,6 +417,7 @@ sculpteur - eskulter
 se baigner - banyu  
 se rappeler (se remémorer) - mema  
 sel - sal  
+semence - seme  
 sexe - sekse  
 shopping - xope  
 si - gar  
@@ -426,7 +431,9 @@ suffixe pour l'adjectif - -i
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - teme  
+séminal - semi  
 série - serye  
+sûr - sekuri  
 ##t
 table - meze  
 tarte - pay  
@@ -472,6 +479,7 @@ vie - hay
 vieux (âgé, ancien) - lawi  
 ville - site  
 virus - virus  
+visage - muke  
 vite (rapide) - rapidi  
 vivre (habiter) - domu  
 vocabulaire (lexique) - leksia  

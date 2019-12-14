@@ -242,7 +242,7 @@ bedinjan|||hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:a
 bega|||rus:убегать (ubegat'), hin:भागना (bhāgnā)|escape (flee, run away)|||||||||||||||fuĝi|paeta (karata)|uciec, uciekać
 beijing||||Beijing (Peking)||||||||||||||||Peking (Beijing)|Pekin
 beka|||eng:bake, hin:पकाना (pakānā), rus:печь (peč), deu:backen|bake|||||||||||||||baki|leipoa|piec
-beker||||baker|||||||||||||||bakisto|leipuri|piekarz
+beker||||baker|boulanger|panadero|padeiro|хлебопёк (пекарь)|||||||||||bakisto|leipuri|piekarz
 bekeria||||bakery|||||||||||||||bakejo|leipomo|piekarnia
 bel|unmete|B||bel (unit)||||||||||||||||beli (B)|
 belgia|dex|BE||Belgium|||||||||||||||Belgio|Belgia|Belgia
@@ -407,10 +407,11 @@ dalila||||prove (demonstrate, testify)||||||||||||||||todistaa|dowieść, dowodz
 damaje|||eng:damage, fra:dommage|damage (injury, harm)|dommage||||||||||||||damaĝo|vaurio (vahinko)|obrażenia (rana, krzywda)
 damaji||||harmful (damaging)|||||||||||||||damaĝa|vahingollinen|krzywdzący (szkodliwy)
 damogem|||fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|checkers (draughts)||||||||||||||||tammipeli|warcaby
-dan|||hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|grain (seed)|||||||||||||||semo|siemen|ziarno, nasienie
+dan|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||||||||||||||tane||jyvä (luoti)|
 dania|dex|DK||Denmark|||||||||||||||Danio|Tanska|Dania
 danka||||thank|||||||||||||||danki|kiittää|dziękować
 danke|||eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|thanks (thank you)|||||||||||||||danko|kiitos|dzięki, dzięki ci
+danosekuri||||bulletproof||||||||||||||||luodinkestävä|
 danse|||eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance|dance|dança (baile)|baile (danza)|танец||||||||tari||dans|danco|tanssi|
 dante||||tooth|||||||||||||||dento|hammas|ząb
 dantobrox||||tooth brush|||||||||||||||dentbroso|hammasharja|szczoteczka do zębów
@@ -1694,8 +1695,8 @@ mozambikia|dex|MZ||Mozambique||||||||||||||||Mosambik|Mozambik
 mudan|||zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|peony||||||||||||||||pioni|piwonia
 muh|||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|cow|||||||||||||||bovo|nauta (lehmä)|krowa
 muhomanse||||beef|||||||||||||||bovaĵo|lehmän liha|wołowina
-muke|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face|||||||||||||||vizaĝo|kasvot (naama)|twarz
-mukefun||||face powder||||||||||||||||puuteri|puder
+muke|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face|visage|cara (rosto)||||||||||muka|||vizaĝo|kasvot (naama)|twarz
+mukofun||||face powder||||||||||||||||puuteri|puder
 mul|||hin:मूल (mūl), may:tgl:mula, khm:មូល (mul)|beginning||||||||||शुरू|শুরু||||komenco|alku|początek
 mula||||begin (commence, start)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
 muli||||first (beginning)||||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
@@ -2191,19 +2192,19 @@ romansi||||romantic||||||||||||||||romanttinen|romantyczny
 romansia||27 emotions|fra:eng:spa:por:romance, tur:romans, jpn:ロマンス (romansu), kor:로맨스 (romaenseu), rus:роман (roman)|romance (romantic love)||||||||||||||||lempi (romanssi, rakkaus)|miłość romantyczna
 rome||||Rome||||||||||||||||Rooma|Rzym
 romi empiria||||Roman Empire||||||||||||||||Rooman valtakunta|Imperium Rzymskie
-rose|||fra:rosée, spa:rocío, rus:роса (rosa)|dew|||||||||||||||roso|kaste|rosa
-rosta|||fra:rôtir, eng:roast, deu:rösten, ita:arrostare|roast||||||||||||||||paahtaa (paistaa)|piec
+rose|||fra:rosée, spa:rocío, rus:роса (rosa)|dew|rosée|rocío||роса|||||||||||roso|kaste|rosa
+rosta|||fra:rôtir, eng:roast, deu:rösten, ita:arrostare|roast|rôtir|||||||||||||||paahtaa (paistaa)|piec
 rosti pang||||toast (toasted bread)||||||||||||||||paahtoleipä|tost
 rota||||rotate (make spin)||||||||||||||||pyörittää|obrócić (kręcić)
 roter||||rotor (rotator)||||||||||||||||roottori (propelli)|rotor, wirnik
 rotu|||eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|rotate (spin, turn on an axis)||||||||||||||||pyöriä|obrócić się (kręcić się)
-roze||||rose|||||||||||||||rozo|ruusu|róża
+roze|||fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|rose|rose|rosa|rosa|роза||玫瑰|バラ|장미|hoa hồng|गुलाब|গোলাপ|mawar (ros)|waridi|gül|rozo|ruusu|róża
 rozrangi|rang|||pink (rosy)||||||||||||||||vaaleanpunainen|różowy, różany
 ruandia|dex|RW||Rwanda||||||||||||||||Ruanda|Rwanda
 rubidium|mate|Rb||rubidium|||||||||||||||rubidio||rubid
 ruhe|||ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|soul (mind, psyche)|psyché|||душа (дух)|||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
-ruhelojia|||tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|psychology|psychologie||||||||||||||psikologio|psykologia|psychologia
 ruhi||||mental (psychic)||||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
+ruholojia|||tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|psychology|psychologie||||||||||||||psikologio|psykologia|psychologia
 ruke|||deu:Rücken|back|||||||||||||||dorso|selkä|placy
 ruksake|||deu:eng:rucksack, cze:ruksak, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|backpack (rucksack)||||рюкзак|||リュックサック|||||||||reppu (rinkka)|plecak
 rul||||roll (scroll, coil)||||||||||||||||käärö|rulon (rolka, zwój)
@@ -2313,14 +2314,17 @@ seksi||||sexual (relating to gender)||||||||||||||||seksuaalinen (sukupuoli-)|p�
 seksi||||sexy (sexual)|||||||||||||||||seksowny, ponętny
 sekunde||||second(s)||||||||||||||||sekunti|sekunda
 sekundometer||||stop watch||||||||||||||||sekuntikello|stoper
-sekur||||safe (secure)||||||||||||||||turvallinen|bezpieczny
-sekura||||save||||||||||||||||turvata (suojata, pelastaa)|chronić (ratować)
+sekura||||protect (secure, save)||||||||||||||||suojella (suojata, turvata)|chronić (ratować)
+sekuri|||eng:secure, deu:sicher, spa:por:seguro|safe (secure, protected)|sûr|seguro|seguro|||||||||||||turvallinen (varma)|bezpieczny
 sel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|cell (biology)|||||||||||||||ĉelo|solu|komórka (biologia)
 selen|mate|Se||selenium|||||||||||||||seleno|seleeni|selen
 selolojia||||cytology|cytologie|citología|citologia|цитология||细胞学|||||||||citologio|soluoppi (sytologia)|
 sem|||rus:семь (semʹ)|seven (7)|||||||||||||||sep (7)|seitsemän (7)|siedem (7)
 seman|||spa:por:semana, fra:semaine|week|||||||||||||||semajno|viikko|tydzień
+seme|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|seed (semen)|semence|semilla|semente|семя||种||||बीज|বীজ|biji||tohum|semo|siemen|
 semente|||eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||||||||||||||||sementti|cement
+semi||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|
+semodan||||seed (fertilized grain)||||||种子|種|||||biji benih||||siemenjyvä|ziarno, nasienie
 sen|||fra:scène, spa:escena, rus:сцена (scena), deu:Szene, tur:sahne, fas:(sahne)|stage (scene)||||сцена||||||||||||lava (näyttämö)|scena
 senegalia|dex|SN||Senegal||||||||||||||||Senegal|Senegal
 sense||||sense|||||||||||||||||zmysł
@@ -2449,6 +2453,7 @@ suy|||zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|water|eau|agua|água|во
 suyang||||watercolor||||||||||||||||vesiväri (akvarelliväri)|akwarela, farba wodna
 suygas||||vapour||||||||||||||||höyry|
 suygas||||steam (vapor)|vapeur d’eau|vapor|vapor|пар||蒸汽|湯気|||भाप|ভাপ|kukus (uap, wap)||buhar|vaporo|höyry (vesihöyry)|para wodna
+suyosekuri||||waterproof||||||||||||||||vesitiivis|
 suyporte||||harbor (seaport)||puerto marítimo|porto marítimo||||||||||||haveno|satama|
 tabake|||deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco|||||||||||||||tabako|tupakka|tytoń
 tabla||||tabulate||||||||||||||||taulukoida|ułożyć w trabelę
@@ -2563,8 +2568,8 @@ totol|||nah:totolin, spa:totol, yor:tòlótòló, ibo:torotoro|turkey|||||||||||
 towal|||eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|towel||toalla|toalha|||||||तौलिया|||||viŝilo|pyyhe|ręcznik
 transa||||transit (pass through or across)||||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||||||||||||||||läpikulku|przejazd, przewóz, tranzyt
-transegoni||||diagonal|||||||||||||||||
 transeria||||transportation||||||||||||||||kuljetus|
+transogoni||||diagonal|||||||||||||||||
 tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train|||||||||||||||trajno (vagonaro)|juna|pociąg
 trendaw||||railway (railroad)|||||||||||||||fervojo|junarata (rautatie)|kolej
 trenkaper||||train hijacker||||||||||||||||junakaappari|porywacz pociągu

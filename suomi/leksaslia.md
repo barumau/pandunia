@@ -209,6 +209,7 @@
 |juustokumina (jeera)|ziran|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
 |juusto|cis|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |jyrinä (ukkonen)|grom|rus:гром (grom), pol:grom|
+|jyvä (luoti)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |jänis|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |jäännös (loput)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |jäätelö|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
@@ -629,7 +630,7 @@
 |portaat (rappuset, tikkaat)|eskal|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
 |povi|buste|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
 |profeetta|naber|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|psykologia|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psykologia|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |pudota (tipahtaa)|padu|tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|
 |puhdas (siivo, siisti)|safi|swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
 |puhe (sanat)|loge|ell:λόγος (logos), eng:-logue, fas:(loğat), ara:(luğa), swa:lugha, tur:lügat, may:logat|
@@ -693,6 +694,7 @@
 |rusina|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ruskea|bruni|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |ruukku (maljakko, vaasi)|vaze|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|
+|ruusu|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |ruuti|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |ruuvi|lose|zho:螺丝 (luòsī), yue:螺絲 (lo4 si1)|
 |ryhmä (työryhmä, yhtye, bändi)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
@@ -731,7 +733,7 @@
 |sementti|semente|eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|
 |seura|socia|rus:социум (socium), eng:society, spa:sociedad|
 |side (remmi)|faxe|ita:fascia, por:faixa, spa:faja|
-|siemen|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
+|siemen|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sieni|funge|eng:fungus, fra:fongus, por:fungo, spa:hongo|
 |sihistä|ziza|zho:zizi eng:sizzle|
 |siirappi|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
@@ -868,6 +870,7 @@
 |tupakka|tabake|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|
 |turbaani|pagre|hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)|
 |turkoosi|firuze|per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|
+|turvallinen (varma)|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |tutkia|genca|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |tuuli (puhallus)|hawe|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
 |tyhjä|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|

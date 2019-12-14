@@ -400,10 +400,11 @@ dalila - todistaa
 damaje - vaurio (vahinko)  
 damaji - vahingollinen  
 damogem - tammipeli  
-dan - siemen  
+dan - jyvä (luoti)  
 dania - Tanska  
 danka - kiittää  
 danke - kiitos  
+danosekuri - luodinkestävä  
 danse - tanssi  
 dante - hammas  
 dantobrox - hammasharja  
@@ -1667,7 +1668,7 @@ mudan - pioni
 muh - nauta (lehmä)  
 muhomanse - lehmän liha  
 muke - kasvot (naama)  
-mukefun - puuteri  
+mukofun - puuteri  
 mul - alku  
 mula - aloittaa  
 multi - moni (usea)  
@@ -2158,8 +2159,8 @@ roze - ruusu
 rozrangi - vaaleanpunainen  
 ruandia - Ruanda  
 ruhe - henki (sielu, mieli, psyyke)  
-ruhelojia - psykologia  
 ruhi - henkinen (psyykkinen)  
+ruholojia - psykologia  
 ruke - selkä  
 ruksake - reppu (rinkka)  
 rul - käärö  
@@ -2254,14 +2255,17 @@ sekse - seksi (sukupuolinen kanssakäyminen)
 sekse - sukupuoli  
 sekunde - sekunti  
 sekundometer - sekuntikello  
-sekur - turvallinen  
-sekura - turvata (suojata, pelastaa)  
+sekura - suojella (suojata, turvata)  
+sekuri - turvallinen (varma)  
 sel - solu  
 selen - seleeni  
 selolojia - soluoppi (sytologia)  
 sem - seitsemän (7)  
 seman - viikko  
+seme - siemen  
 semente - sementti  
+semi - siemen-  
+semodan - siemenjyvä  
 sen - lava (näyttämö)  
 senegalia - Senegal  
 senta - tuntea  
@@ -2381,6 +2385,7 @@ suy - vesi
 suyang - vesiväri (akvarelliväri)  
 suygas - höyry  
 suygas - höyry (vesihöyry)  
+suyosekuri - vesitiivis  
 suyporte - satama  
 ##t
 tabake - tupakka  

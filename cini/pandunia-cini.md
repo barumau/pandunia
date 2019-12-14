@@ -336,6 +336,7 @@ reste - 其余
 retra - 返回 (回来)  
 retrotikete - 往返票  
 rize - 根  
+roze - 玫瑰  
 ##s
 sabun - 肥皂  
 safar - 旅行  
@@ -351,6 +352,9 @@ sapate - 鞋
 sar - 头  
 sekse - 性别  
 selolojia - 细胞学  
+seme - 种  
+semi - 种子的  
+semodan - 种子  
 serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  

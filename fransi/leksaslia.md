@@ -236,7 +236,7 @@
 |programme|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |projet|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |propriété (possession, bien)|malke|ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|
-|psychologie|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psychologie|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |psyché|ruhe|ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|
 |que (quoi)|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
 |race|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
@@ -250,8 +250,11 @@
 |rivière (fleuve)|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |riz|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |robot|robote|eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|
+|rose|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
+|rosée|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |rouge|kirmi|arm:կարմիր (karmir), tur: kırmızı, fas(qermez), ara:(qirmiz), + eng:crimson, fra:carmin, por:carmim, spa:carmín, hin:क़िरमिज़ (qirmiz)|
 |ruban (bande)|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
+|rôtir|rosta|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
 |sac|sake|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |salut (salam)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |sandwich|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
@@ -261,6 +264,7 @@
 |saucisse|sosis|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
 |sculpteur|eskulter|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |sel|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
+|semence|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sexe|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |shopping|xope|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |situation (état de choses)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
@@ -273,6 +277,7 @@
 |suffixe pour les verbes avec ordre des mots OVS|-u|hau:wol:-u, swa:-wa|
 |sujet (thème)|teme|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |série|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
+|sûr|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |table|meze|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |tarte|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |technique|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
@@ -296,6 +301,7 @@
 |vie|hay|ara:حياة‎ (ḥaya), swa:uhai, hin:हयात (hayāt), may:hayat|
 |ville|site|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |virus|virus|eng:virus, rus:вирус (virus)|
+|visage|muke|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
 |vite (rapide)|rapidi|spa:por:rápido, eng:rapid, fra:rapide|
 |voile|hijabe|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |voir|vida|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, cze:vidět, eng:vide|

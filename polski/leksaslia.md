@@ -41,6 +41,7 @@
 |bańka|bubul|eng:bubble, snh:බුබුළු (bubuḷu), hun:buborék, cze:bublina, hin:बुल्ला (bullā), tgl:bula, fra:bulle, pnb:ਬੁਲਬੁਲਾ (bulabulā)|
 |beczka|tong|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:mal:tong, + fra:tonneau, spa:tonel, ned:ton|
 |beret|berete|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|
+|bezpieczny|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |biały|baki|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
 |bilet|tikete|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
@@ -596,7 +597,7 @@
 |przystojny, atrakcyjny, ładny|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |przyszłość|wile|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
 |pręt, kij|baton|eng:baton, fra:bâton, zho:棒 (bàng), jpn:棒 (bō)|
-|psychologia|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psychologia|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |ptak|pakse|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|
 |pudełko, skrzynia|kaxe|deu:Kasse, rus:(kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|
 |puding|puding|eng:pudding, zho:布丁 (bùdīng)|
@@ -652,6 +653,7 @@
 |rzucić, rzucać, miotać, cisnąć, ciskać|lanca|eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|
 |róg|buge|eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|
 |róg|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
+|róża|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |ręcznik|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |ręka, dłoń|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |sam, osobiście|tan|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
@@ -884,7 +886,6 @@
 |zdrada małżeńska, cudzołóstwo|zine|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |zero, nic, żaden|nol|rus:ноль (nol'), may:tkm:nol, deu:null, eng:null|
 |zespół (drużyna, grupa)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
-|ziarno, nasienie|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
 |zielony|lugi|zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|
 |ziemia, grunt, gleba|zem|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |ziemniak|patate|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|

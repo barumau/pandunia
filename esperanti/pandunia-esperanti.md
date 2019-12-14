@@ -290,7 +290,6 @@ daixer - ambasadoro
 daixeria - ambasado  
 damaje - damaĝo  
 damaji - damaĝa  
-dan - semo  
 dania - Danio  
 danka - danki  
 danke - danko  
@@ -1261,7 +1260,7 @@ rose - roso
 roze - rozo  
 rubidium - rubidio  
 ruhe - animo (psiko)  
-ruhelojia - psikologio  
+ruholojia - psikologio  
 ruke - dorso  
 rupe - aspekto  
 ruste - vilaĝo  
@@ -1324,6 +1323,8 @@ selen - seleno
 selolojia - citologio  
 sem - sep (7)  
 seman - semajno  
+seme - semo  
+semi - sema  
 senta - senti  
 serbia - Serbio  
 serebre - cerbo  
