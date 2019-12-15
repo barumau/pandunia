@@ -753,10 +753,10 @@ kance - vitro
 kande - bombono  
 kangur - kangaro  
 kanjar - ponardo  
+kanoe - kanuo (kanoto)  
 kanon - kanono  
 kanoner - kanonisto  
 kante - ŝultro  
-kanuh - kanuo (kanoto)  
 kanun - lego  
 kapa - kapti  
 kar - aŭto (ĉaro)  
@@ -764,7 +764,7 @@ karate - karateo
 karawe - karvio  
 karbi - proksima  
 karbon - karbono  
-karbondulokside - karbona dioksido  
+karbonodulokside - karbona dioksido  
 karde - karto  
 karibia - Karibio  
 karma - agi  

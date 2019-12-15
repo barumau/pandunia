@@ -243,7 +243,7 @@
 |kakao|kakaw|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|
 |kalkulować|hisaba|ara:(hasaba), tur:hesap, orm:hisaaba, swa:hisabu|
 |kamień|petre|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra|
-|kanoe|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapelusz, czapka|tope|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
 |karawana|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karta|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
@@ -915,7 +915,7 @@
 |ławka|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |łańcuch|silsil|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili|
 |łyżka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
-|łza|kansuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|łza|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |łódź, statek|bote|spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|
 |łóżko|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
 |łączyć, wiązać, złączyć|samuna|isl:sameina, deu:vereinigen|

@@ -188,8 +188,8 @@ kamis - 衬衫
 kanape - 沙发  
 kance - 玻璃  
 kande - 糖果  
-kansuygas - 催泪瓦斯  
-karbondulokside - 二氧化碳  
+kanosuyogas - 催泪瓦斯  
+karbonodulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
 kartografia - 地图学  

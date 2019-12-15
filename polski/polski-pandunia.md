@@ -361,7 +361,7 @@ dusza, duch, umysł - ruhe
 duży - day  
 dwa (2) - dul  
 dwukrotnie (dwa razy) - dul ban  
-dwutlenek węgla - karbondulokside  
+dwutlenek węgla - karbonodulokside  
 dym - duman  
 dyrektor szkoły - darsoxef  
 dysk - diske  
@@ -715,7 +715,7 @@ Kanada - kanadia
 kanał - kanal  
 kangur - kangur  
 kannada - karnadi  
-kanoe - kanuh  
+kanoe - kanoe  
 kanonier - kanoner  
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
@@ -2471,7 +2471,7 @@ zły, zrujnowany, zepsuty - harabi
 łazienka - banyokamar  
 łańcuch - silsil  
 łyżka - camce  
-łza - kansuy  
+łza - kanosuy  
 łódź, statek - bote  
 łóżko - bede  
 łączyć, wiązać, złączyć - samuna  

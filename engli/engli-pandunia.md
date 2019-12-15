@@ -397,7 +397,7 @@ candy (sweets) - kande
 cangaroo - kangur  
 cannabis (marijuana, ganja, pot, weed) - ganje  
 cannoneer - kanoner  
-canoe - kanuh  
+canoe - kanoe  
 captain - kapitan  
 car (cart, carriage, wagon, automobile) - kar  
 car park (parking lot) - karoparke  
@@ -406,7 +406,7 @@ carat - kire
 caravan (convoy) - karwan  
 caraway - karawe  
 carbon (coal) - karbon  
-carbon dioxide - karbondulokside  
+carbon dioxide - karbonodulokside  
 card - karde  
 care (cure) - kura  
 Caribbean - karibia  
@@ -2535,8 +2535,8 @@ tea cup - caykupe
 tea house - cayeria  
 teacher - darsogur  
 team - tim  
-tear drop - kansuy  
-tear gas - kansuygas  
+tear drop - kanosuy  
+tear gas - kanosuyogas  
 technetium - teknetium  
 technique (technology) - tekne  
 technocracy - teknokratia  

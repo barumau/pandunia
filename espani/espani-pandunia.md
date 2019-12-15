@@ -63,6 +63,7 @@ café - kafe
 calcular - hisaba  
 cambio climático - klimomute  
 camote (batata) - kamote  
+canoa - kanoe  
 cara (rosto) - muke  
 carcelero - prizoner  
 carne - manse  
@@ -161,7 +162,7 @@ fútbol - futobol
 ##g
 galaxia - galaksia  
 gas - gas  
-gas lacrimógeno - kansuygas  
+gas lacrimógeno - kanosuyogas  
 gato - maw  
 gengibre - zinje  
 grupo - grupe  

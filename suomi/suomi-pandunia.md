@@ -451,7 +451,7 @@ hiekka - rege
 hieno (hienojakoinen) - fain  
 hieronta - masaje  
 hiili - karbon  
-hiilidioksidi - karbondulokside  
+hiilidioksidi - karbonodulokside  
 hiiri - mux  
 hiiva - hamir  
 hiki - suede  
@@ -743,7 +743,7 @@ kandela - kandel
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jar  
-kanootti - kanuh  
+kanootti - kanoe  
 kansa - nas  
 kansakunta - nasia  
 kansallinen - nasi  
@@ -1051,7 +1051,7 @@ kyrilliset aakkoset - kirili abace
 kysymys - eske  
 kysyvä - eski  
 kysyä - eska  
-kyynel - kansuy  
+kyynel - kanosuy  
 kärppä (fretti) - furete  
 kärpänen - zeze  
 kärry (vaunu, auto, jne) - kar  

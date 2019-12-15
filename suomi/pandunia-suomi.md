@@ -1095,11 +1095,11 @@ kange - kampa
 kangur - kenguru  
 kanjar - tikari  
 kankex - silmäripsi  
+kanoe - kanootti  
 kanon - tykki (pyssy)  
 kanoner - tykkimies  
-kansuy - kyynel  
+kanosuy - kyynel  
 kante - olkapää (hartia)  
-kanuh - kanootti  
 kanun - laki  
 kapa - ottaa kiinni (napata, kaapata)  
 kapitan - kapteeni  
@@ -1109,7 +1109,7 @@ karate - karate
 karawe - kumina  
 karbi - läheinen  
 karbon - hiili  
-karbondulokside - hiilidioksidi  
+karbonodulokside - hiilidioksidi  
 karbu - lähestyä  
 karde - kortti  
 karibia - Karibia  

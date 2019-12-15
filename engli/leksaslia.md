@@ -144,7 +144,7 @@
 |can (know, be able)|abla|eng:able, spa:hábil, fra:habile, ron:abil|
 |candy (sweets)|kande|eng:candy, hin:कैंडी (kaiṇḍī), jpn:キャンデー (ja) (kyandē), tgl:kendi|
 |cannabis (marijuana, ganja, pot, weed)|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
-|canoe|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|canoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |car (cart, carriage, wagon, automobile)|kar|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
 |carat|kire|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
 |caravan (convoy)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
@@ -891,7 +891,7 @@
 |tape|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tattoo|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |tax (fee, fare)|takse|eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|
-|tear drop|kansuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|tear drop|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |tea|cay|zho: 茶 (chá), jpn: (cha), tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy)|
 |technique (technology)|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
 |temperature|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|

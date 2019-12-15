@@ -233,7 +233,7 @@
 |kana|kokode|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + scr:kokoš, bul:кокош (kokoš), swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
 |kannabis (marihuana, hamppu)|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |kannu (karahvi)|jar|eng:jar, ara:(jara), por:spa:jarra|
-|kanootti|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanootti|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kansakunta|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |kanssa (luona, -lla, -ssa)|sa|swa:na, lin:kon:na, rus:на (na)|
 |karavaani (saattue)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
@@ -345,7 +345,7 @@
 |kynä|kalam|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
 |kypsä (aikuinen)|matur|eng:fra:mature, spa:por:maduro|
 |kysyä|eska|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
-|kyynel|kansuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|kyynel|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |kärppä (fretti)|furete|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
 |kärpänen|zeze|tsw:sot:tsetse, lin:kon:nzinzi, swa:nzi, ber:izi, sna:nhunzi, ibo:ijiji, yor:eṣinṣin|
 |kärry (vaunu, auto, jne)|kar|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|

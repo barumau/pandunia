@@ -186,8 +186,9 @@ kamis - рубашка
 kanape - канапе  
 kance - стекло  
 kanjar - кинжал  
-kansuygas - слезоточи́вый газ  
-karbondulokside - двуокись углерода  
+kanoe - каноэ  
+kanosuyogas - слезоточи́вый газ  
+karbonodulokside - двуокись углерода  
 karde - карта  
 karte - карта  
 kartografia - картография  

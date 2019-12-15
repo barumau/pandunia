@@ -954,11 +954,11 @@ kande - cukierek, słodycze
 kange - grzebień  
 kangur - kangur  
 kanjar - sztylet (puginał)  
+kanoe - kanoe  
 kanon - działo  
 kanoner - kanonier  
-kansuy - łza  
+kanosuy - łza  
 kante - bark (ramię)  
-kanuh - kanoe  
 kanun - prawo  
 kapa - złapać, łapać, schwytać, chwytać  
 kapitan - kapitan  
@@ -968,7 +968,7 @@ karate - karate
 karawe - kminek  
 karbi - bliski  
 karbon - węgiel  
-karbondulokside - dwutlenek węgla  
+karbonodulokside - dwutlenek węgla  
 karde - karta  
 karibia - Karaiby  
 karite - masłosz Parka  

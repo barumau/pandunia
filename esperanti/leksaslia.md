@@ -262,7 +262,7 @@
 |kanabo|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |kanono|kanon|eng:cannon, spa:cañón, zho:加农 (jiānóng), jpn:(kyanon), kor:캐넌 (kaeneon)|
 |kanto|cante|fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|
-|kanuo (kanoto)|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanuo (kanoto)|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapro|buze|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|
 |kapti|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
 |karavano|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|

@@ -64,6 +64,7 @@
 |cage|kafas|ara:(qafaṣ), fas:urd:(qafas), hin:क़फ़स (qafas), pnb:ਕਫ਼ਸ (kafas), tur:kafes|
 |calculer|hisaba|ara:(hasaba), tur:hesap, orm:hisaaba, swa:hisabu|
 |canapé (sofa)|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
+|canoë|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |carte|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |carte|karte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
 |centre|jung|zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|

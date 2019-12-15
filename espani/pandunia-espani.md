@@ -168,7 +168,8 @@ kafe - café
 kagaze - papel  
 kamote - camote (batata)  
 kance - vidrio (cristal)  
-kansuygas - gas lacrimógeno  
+kanoe - canoa  
+kanosuyogas - gas lacrimógeno  
 karawe - carvis (alcaravea)  
 karte - mapa  
 kartografia - cartografía  

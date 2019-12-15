@@ -238,8 +238,9 @@ kamar - pièce (chambre)
 kamis - chemise  
 kanape - canapé (sofa)  
 kance - verre  
-kansuygas - gaz lacrymogène  
-karbondulokside - dioxyde de carbone  
+kanoe - canoë  
+kanosuyogas - gaz lacrymogène  
+karbonodulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
 kartografia - cartographie  

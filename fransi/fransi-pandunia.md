@@ -124,6 +124,7 @@ café - kafe
 cage - kafas  
 calculer - hisaba  
 canapé (sofa) - kanape  
+canoë - kanoe  
 capacité (compétence) - able  
 carte - karde  
 carte - karte  
@@ -170,7 +171,7 @@ destin (destination) - destin
 deux - dul  
 diamant - almas  
 dieu - dew  
-dioxyde de carbone - karbondulokside  
+dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
 document (dossier) - dokum  
 domestique - domi  
@@ -211,7 +212,7 @@ féliciter - barka
 ##g
 galaxie - galaksia  
 gaz - gas  
-gaz lacrymogène - kansuygas  
+gaz lacrymogène - kanosuyogas  
 gazelle - gazel  
 genou - gute  
 genre (espèc) - jinse  

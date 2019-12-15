@@ -639,13 +639,13 @@ kanonisto - kanoner
 kanono - kanon  
 kanti - canta  
 kanto - cante  
-kanuo (kanoto) - kanuh  
+kanuo (kanoto) - kanoe  
 kaoso (malordo) - haos  
 kapro - buze  
 kapti - kapa  
 karateo - karate  
 karavano - karwan  
-karbona dioksido - karbondulokside  
+karbona dioksido - karbonodulokside  
 karbono - karbon  
 Karibio - karibia  
 karoto - karote  

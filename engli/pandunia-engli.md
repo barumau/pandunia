@@ -1116,12 +1116,12 @@ kange - comb
 kangur - cangaroo  
 kanjar - dagger  
 kankex - eyelash  
+kanoe - canoe  
 kanon - gun (cannon)  
 kanoner - cannoneer  
-kansuy - tear drop  
-kansuygas - tear gas  
+kanosuy - tear drop  
+kanosuyogas - tear gas  
 kante - shoulder  
-kanuh - canoe  
 kanun - law  
 kapa - catch (capture, seize, snatch, intercept)  
 kapitan - captain  
@@ -1131,7 +1131,7 @@ karate - karate
 karawe - caraway  
 karbi - near (close)  
 karbon - carbon (coal)  
-karbondulokside - carbon dioxide  
+karbonodulokside - carbon dioxide  
 karbu - approach (get near)  
 karde - card  
 karibia - Caribbean  
