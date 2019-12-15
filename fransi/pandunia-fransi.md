@@ -87,6 +87,7 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+aur - or  
 aventur - aventure  
 aventurer - aventurier  
 ay - aïe!  
@@ -126,7 +127,6 @@ bazar - marché (bazar)
 baze - base  
 bebe - bébé  
 beker - boulanger  
-ben - coté  
 bere - baie  
 bina - construire  
 bir - bière  
@@ -172,6 +172,7 @@ europe - Europe
 europi - européen  
 ewanjil - évangile  
 ##f
+fase - face (facette)  
 fata - faire  
 favori - favori (préféré)  
 filsofia - philosophie  
@@ -189,7 +190,6 @@ gar - si
 gas - gaz  
 gati - dur  
 gazel - gazelle  
-gim - or  
 gitar - guitare  
 gol - but  
 grupe - groupe  
@@ -258,6 +258,7 @@ ko - que (comme)
 ko? - comment  
 komputer - ordinateur  
 koncung - insecte  
+korne - corne  
 koron - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
@@ -268,6 +269,8 @@ kupe - coupe (tasse, verre)
 ##l
 lasker - soldat  
 laskeria - armée  
+late - côté  
+lati - latéral  
 lawi - vieux (âgé, ancien)  
 lazanye - lasagne  
 leksaslia - étymologie  
@@ -415,7 +418,7 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
-samray - accord  
+samoray - accord  
 samude - mer  
 sang - sang  
 sanwice - sandwich  
@@ -490,6 +493,7 @@ vulve - vulve
 wal - mur  
 walpapir - papier peint  
 wana - vouloir  
+warkolate - page  
 weki - éveillé  
 werka - travailler  
 werke - travail  

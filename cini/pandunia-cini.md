@@ -22,6 +22,7 @@ ali - 另一
 alkol - 酒  
 almar - 碗碟橱  
 almas - 钻石  
+aloraya - 不同意  
 altar - 圣坛  
 ama - 爱  
 analis - 分析  
@@ -45,6 +46,7 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
+aur - 金  
 aventur - 冒险  
 aventurer - 冒险者  
 ##b
@@ -80,7 +82,6 @@ baxolojia - 白色
 bazar - 市场  
 baze - 底部  
 bebe - 宝宝  
-ben - 边 (坡)  
 bere - 浆果 (莓)  
 bil - 帐单  
 bina - 建设  
@@ -121,6 +122,7 @@ esa - 对
 esten - 锡  
 ewanjil - 福音  
 ##f
+fase - 面  
 fem - 女  
 filsofia - 哲学  
 fiorde - 峡湾  
@@ -136,7 +138,6 @@ gar - 如果 (要是)
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
-gim - 金  
 gitar - 吉他  
 gol - 目的  
 gundarme - 道德  
@@ -197,6 +198,7 @@ kava - 挖
 kave - 坑 (穴)  
 ke - 什么  
 keci - 客气  
+kenar - 边  
 kerne - 核心  
 kimia - 化学  
 kirmi - 红  
@@ -216,6 +218,7 @@ kupe - 杯子
 ##l
 lantan - 鑭  
 laskeria - 军队  
+late - 侧面 (旁边)  
 lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  
@@ -344,7 +347,7 @@ sahi - 正确
 sal - 盐  
 salame - 迎接  
 saman - 天空  
-samray - 一致  
+samoray - 一致  
 samude - 海  
 sang - 血  
 sanwice - 三明治 (三文治)  

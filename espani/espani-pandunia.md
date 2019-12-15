@@ -5,7 +5,7 @@ acción - acion
 acento - aksente  
 achís - aciy  
 acordarse - mema  
-acuerdo - samray  
+acuerdo - samoray  
 aeropuerto - airporte  
 agua - suy  
 alcohol - alkol  
@@ -91,6 +91,7 @@ conducir - xofa
 conductor (chofer) - xofer  
 copa (vaso) - kupe  
 corazón (núcleo) - kerne  
+corno - korne  
 corona - koron  
 correcto (justo) - sahi  
 cosa - xey  
@@ -147,6 +148,7 @@ etimología - leksaslia
 evangelio - ewanjil  
 ##f
 favorito (preferido) - favori  
+faz (faceta) - fase  
 feliz - suki  
 filosofía - filsofia  
 fiordo - fiorde  
@@ -202,10 +204,11 @@ justo - adali
 ##k
 kétchup - kecape  
 ##l
-lado - ben  
+lado (flanco) - late  
 ladrón - luter  
 largo - long  
 lasaña - lazanye  
+lateral - lati  
 leche - milke  
 lechuga - letis  
 leer - duga  
@@ -266,6 +269,7 @@ neurona - neurosel
 neve - him  
 niño o niña - bace  
 no - no  
+no estar de acuerdo - aloraya  
 noche - noce  
 nosotros - mome  
 nostalgia - nostalgia  
@@ -282,7 +286,7 @@ ordenador - komputer
 oreja - or  
 origen - asle  
 original - asli  
-oro - gim  
+oro - aur  
 ortogonal - ortogoni  
 oso - urse  
 otitis - oritis  
@@ -332,6 +336,7 @@ proyecto - projete
 prueba - dalil  
 prueba - teste  
 puerto marítimo - suyporte  
+página - warkolate  
 que (como) - ko  
 quemar - pira  
 quemarse - piru  

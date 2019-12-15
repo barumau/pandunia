@@ -2,7 +2,7 @@
 ##a
 abeille ou guêpe - vespe  
 accent - aksente  
-accord - samray  
+accord - samoray  
 acheter - xopa  
 actinium - acinium  
 action - acion  
@@ -147,11 +147,11 @@ comment - ko?
 comportement (manière) - manir  
 comprendre (réaliser) - aha  
 construire - bina  
+corne - korne  
 corps - badan  
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
-coté - ben  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
@@ -162,6 +162,7 @@ crème glacée - aisokrem
 cube - kube  
 cycliste - sikliste  
 cytologie - selolojia  
+côté - late  
 ##d
 dance - danse  
 de - ca  
@@ -190,6 +191,7 @@ et - e
 Europe - europe  
 européen - europi  
 ##f
+face (facette) - fase  
 faire - fata  
 faute (erreur) - galte  
 favori (préféré) - favori  
@@ -252,6 +254,7 @@ laitue - letis
 langue - bax  
 lapin (lièvre) - tuze  
 lasagne - lazanye  
+latéral - lati  
 lexical - leksi  
 libellule - libel  
 lieu - loke  
@@ -319,7 +322,7 @@ oiseau - pakse
 ombrelle (parasol) - solcate  
 onde - onde  
 opposant (antagoniste) - anter  
-or - gim  
+or - aur  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 ordinateur - komputer  
@@ -335,6 +338,7 @@ ours - urse
 oxyde - okside  
 ##p
 pacifiste - paciste  
+page - warkolate  
 pain - pang  
 paix - pace  
 palais - gunden  

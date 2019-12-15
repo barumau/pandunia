@@ -113,7 +113,7 @@
 |bomb|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
 |bone|oste|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |book|buke|eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|
-|border (edge, rim, fringe)|kenar|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
+|border (edge, fringe, margin, rim, side, shore, periphery)|kenar|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
 |bored|bori|eng:bored, hin:(bhorī)|
 |bottle|botol|eng:bottle, may:botol|
 |box (chest)|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
@@ -381,7 +381,7 @@
 |goal|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |goat|buze|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|
 |god (deity)|dew|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|
-|gold|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|gold|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |good-looking|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |good|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
 |grass|gras|eng:grass, hin:घास (ghās)|
@@ -737,7 +737,6 @@
 |rest (relief)|xuxe|zho:休息 (xiūxí), kor:휴식 (hyusig)|
 |rest (remainder)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |return (restore, recover, resume)|fuga|zho:复 (fù), yue:(fuk), vie:phục|
-|rhinoceros|faru|swa:kifaru, kon:kifalu|
 |rhyme (verse)|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
 |rice|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |rich|rici|eng:rich, fra:riche, por:spa:rico|
@@ -764,7 +763,7 @@
 |saffron|safran|ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|
 |salad|salade|fra:salade, end:may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |salt|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
-|same|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|same|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |sandwich|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |sand|rege|fas:(rig), hin:रेग (reg), urd:(reg)|
 |sauce|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
@@ -808,7 +807,7 @@
 |shower|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |sibling (brother or sister)|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |sickness (illness, disease)|patia|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
-|side (periphery, accompaniment)|ben|zho:边 (biān), vie:bên|
+|side (flank)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |situation (circumstances, state of affairs)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |sit|sida|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
 |sizzle|ziza|zho:zizi eng:sizzle|
@@ -878,6 +877,7 @@
 |summer|lete|fra:l'été, rus:лето (leto), cze:léto, scr:leto|
 |sun|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |supply (dispense, issue, put out)|fada|zho:发 (fā), vie:phát|
+|surface (face)|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |surprise|supris|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |suture (seam)|sutur|fra:eng:suture, por:spa:sutura|
 |swallow|gula|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|

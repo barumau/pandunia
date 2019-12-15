@@ -21,6 +21,7 @@ alkol - alcohol
 alkoli - alcohólico  
 almar - armario  
 almas - diamante  
+aloraya - no estar de acuerdo  
 altar - altar  
 analis - análisis  
 ande - huevo  
@@ -41,6 +42,7 @@ asle - origen
 asli - original  
 asme - asma  
 aspirin - aspirina  
+aur - oro  
 aventur - aventura  
 aventurer - aventurero  
 ay - ay!  
@@ -70,7 +72,6 @@ batre - pila (batería)
 bax - lengua (idioma)  
 baze - base  
 beker - panadero  
-ben - lado  
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
@@ -104,6 +105,7 @@ eskulter - escultor
 esten - estaño  
 ewanjil - evangelio  
 ##f
+fase - faz (faceta)  
 fata - hacer  
 favori - favorito (preferido)  
 faze - etapa (fase)  
@@ -122,7 +124,6 @@ gamohal - humor
 gas - gas  
 gati - duro  
 gatomate - sólido  
-gim - oro  
 gitar - guitarra  
 gol - meta (gol)  
 grupe - grupo  
@@ -186,6 +187,7 @@ ko - que (como)
 ko? - cómo  
 komputer - ordenador  
 koncung - insecto  
+korne - corno  
 koron - corona  
 kosmi - cósmico  
 kosmia - cosmos  
@@ -196,6 +198,8 @@ kupe - copa (vaso)
 ##l
 lasker - soldado  
 laskeria - ejército  
+late - lado (flanco)  
+lati - lateral  
 lawi - anciano  
 lazanye - lasaña  
 leksaslia - etimología  
@@ -339,7 +343,7 @@ sal - sal
 salame - saludo  
 sali - salino  
 saman - cielo  
-samray - acuerdo  
+samoray - acuerdo  
 samude - mar  
 samudi - marítimo  
 sang - sangre  
@@ -397,6 +401,7 @@ wal - muro (muralha)
 walpapir - papel tapiz  
 wan - deseo  
 wana - querer (desear)  
+warkolate - página  
 werka - trabajar  
 werke - trabajo  
 werker - trabajador (obrero)  

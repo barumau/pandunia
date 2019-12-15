@@ -43,6 +43,7 @@ ais - ice
 aisi - icy  
 aisohoke - ice hockey  
 aisokrem - ice cream  
+aisu - feeze (get frozen)  
 ajaba - amaze  
 ajabe - marvel (wonder)  
 ajabi - amazing (astonishing)  
@@ -61,6 +62,7 @@ almas - diamond
 alo - otherwise (else)  
 alofone - allophone  
 alonami - that is (in other words, i.e., alias)  
+aloraya - disagree  
 aloromansi - heteroromantic  
 aloseksi - heterosexual  
 alosifi - different  
@@ -136,6 +138,7 @@ ate - sugar-apple (sweetsop)
 atlanti samude - Atlantic Ocean  
 atom - atom  
 auda - hear (listen)  
+aur - gold  
 australia - Australia  
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
@@ -248,11 +251,9 @@ bel - bel (unit)
 belgia - Belgium  
 belizia - Belize  
 belorusia - Belarus  
-ben - side (periphery, accompaniment)  
 bence - bench  
 benda - tie (fasten, bind)  
 bende - band (tape, bandage)  
-beni - lateral (peripheral)  
 benin - Benin  
 benzin - gasoline (petrol)  
 berande - veranda (balcony, terrace, porch)  
@@ -422,8 +423,8 @@ darba - strike (punch)
 darje - step (degree, rank, grade, level, class)  
 darme - morality (ethics)  
 darmi - moral  
-darmium - darmstadtium  
 darmoloji - ethics  
+darmositium - darmstadtium  
 darsa - learn (study)  
 darse - lesson  
 darser - student (pupil, learner)  
@@ -619,8 +620,7 @@ fantaze - fantasy (imagination)
 fantazi - fantastic (imaginary)  
 fantom - ghost (fantom)  
 farsi - Persian (Farsi)  
-faru - rhinoceros  
-fas - surface  
+fase - surface (face)  
 fasin - fascination  
 fata - make (manufacture)  
 fate - deed  
@@ -784,7 +784,6 @@ geta - get (receive, obtain, take)
 geter - getter (receiver, recipient)  
 gey - gay (homosexual)  
 gida - steer  
-gim - gold  
 gitar - guitar  
 giyania - French Guiana  
 glute - glue  
@@ -1175,7 +1174,8 @@ kelele - noise
 keler - athlete (sportsman)  
 kelvin - kelvin  
 kemia - Ancient Egypt (Kemet)  
-kenar - border (edge, rim, fringe)  
+kenar - border (edge, fringe, margin, rim, side, shore, periphery)  
+kenari - peripheral  
 kenia - Kenya  
 kerne - core (nucleus, kernel)  
 kerni arme - nuclear weapon (nuke)  
@@ -1277,6 +1277,7 @@ kopernikium - copernicium
 kopohake - copyright  
 kor - choir (chorus)  
 korne - horn  
+kornonos - rhinoceros  
 koron - crown  
 korta - shorten  
 korti - short (brief)  
@@ -1358,6 +1359,8 @@ lasker - soldier
 laskeria - army  
 lasti - elastic  
 lasun - garlic  
+late - side (flank)  
+lati - lateral  
 latini abace - Latin alphabet  
 latinokitaba - romanize  
 latvia - Latvia  
@@ -1835,7 +1838,8 @@ norgi - Norwegian
 norgia - Norway  
 norme - norm (standard)  
 normi - normal  
-nos - nose  
+nose - nose  
+nosi - nasal  
 nostalgi - nostalgic  
 nostalgia - nostalgia (longing)  
 nota - note (observe, notice)  
@@ -2272,17 +2276,17 @@ sali - salty (saline)
 salima - surrender (to give up)  
 salonia - Sierra Leone  
 salvadoria - El Salvador  
-sam - same  
 saman - sky (heaven)  
 samani - celestial (heavenly)  
 samarium - samarium  
-samdexi - compatriot  
+sami - same  
 samjinsokami - homosexual  
 samoa - Samoa  
-samray - agreement (consent)  
-samraya - agree (concur)  
+samodexi - compatriot  
+samoray - agreement (consent)  
+samoraya - agree (concur)  
+samoseksi - homosexual  
 samromansi - homoromantic  
-samseksi - homosexual  
 samu - resemble (be like)  
 samude - sea  
 samudelaskeria - sea force (navy)  
@@ -2705,6 +2709,7 @@ war 6 (war sis) - Saturday
 war 7 (war sem) - Sunday  
 waris - heritage (legacy, bequest)  
 warke - leaf (sheet)  
+warkolate - page (side of a leaf of a book)  
 wase - oasis  
 wate - watt  
 waw - wow! (gee!)  

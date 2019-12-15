@@ -32,6 +32,7 @@ airporte - flughaveno
 ais - glacio  
 aisi - glacia  
 aisokrem - glaciaĵo  
+aisu - glaciiĝi (frostiĝi)  
 ajil - lerta  
 akse - akso  
 aksente - akcento  
@@ -44,6 +45,7 @@ almas - diamanto
 alo - alie  
 alofone - alofono  
 alonami - tio estas (alivorte)  
+aloraya - malkonsenti  
 aloseksi - samseksema  
 altar - altaro  
 alumin - aluminio  
@@ -93,6 +95,7 @@ asme - astmo
 aspirin - aspirino  
 atom - atomo  
 auda - aŭdi (aŭskulti)  
+aur - oro  
 australia - Aŭstralio  
 automoti - memmova  
 aventur - aventuro  
@@ -171,11 +174,9 @@ bekeria - bakejo
 belgia - Belgio  
 belizia - Beliceo  
 belorusia - Belorusio  
-ben - flanko (latero)  
 bence - benko  
 benda - ligi  
 bende - bandaĝo (vindo)  
-beni - flanka (latera)  
 benzin - benzino  
 berande - verando  
 berete - bereto  
@@ -431,8 +432,7 @@ fantaze - fantazio
 fantazi - fantazia  
 fantom - fantomo  
 farsi - persa  
-faru - rinocero  
-fas - surfaco  
+fase - surfaco  
 fasin - fascinado  
 fata - fari  
 fate - faro  
@@ -549,7 +549,6 @@ germanium - germaniumo
 geta - akiri (ricevi, preni)  
 gey - samseksema  
 gida - stiri  
-gim - oro  
 gitar - gitaro  
 glute - gluo  
 gluten - gluteno  
@@ -838,6 +837,7 @@ kontra - kontraŭ
 kope - kopio  
 kopernikium - kopernicio  
 korne - korno  
+kornonos - rinocero  
 koron - krono  
 korta - mallongigi  
 korti - mallonga  
@@ -877,6 +877,8 @@ lanca - ĵeti (lanĉi)
 lanten - lanterno  
 lasker - soldato  
 laskeria - armeo  
+late - flanko (latero)  
+lati - flanka (latera)  
 latvia - Latvio  
 laurensium - laŭrencio  
 laya - veni  
@@ -1294,13 +1296,13 @@ salam xam - Bonan vesperon
 salama - saluti  
 salame - saluto  
 sali - sala  
-sam - sama  
 saman - ĉielo  
 samarium - samario  
-samdexi - samlandano  
+sami - sama  
 samjinsokami - samseksema  
-samray - interkonsento  
-samraya - samopinii (interkonsenti)  
+samodexi - samlandano  
+samoray - interkonsento  
+samoraya - samopinii (interkonsenti)  
 samude - maro  
 samudi - mara  
 sana - produkti (fabriki)  
@@ -1489,6 +1491,7 @@ wada - promesi
 walpapir - tapeto  
 wan - volo  
 wana - voli  
+warkolate - paĝo  
 wase - oazo  
 wate - vato  
 waw - ŭaŭ!  

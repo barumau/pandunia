@@ -219,7 +219,7 @@ Cookin saaret - kuke nesia
 Costa Rica - kostarikia  
 curium - kurium  
 ##d
-darmstadtium - darmium  
+darmstadtium - darmositium  
 darwinismi - darwinistia  
 darwinisti - darwiniste  
 data (numeerinen tieto) - date  
@@ -696,6 +696,7 @@ jääkiekko - aisohoke
 Jäämeri - arti samude  
 jäännös (loput) - reste  
 jäätelö - aisokrem  
+jäätyä - aisu  
 ##k
 kaakao - kakaw  
 kaaos - haos  
@@ -982,7 +983,7 @@ kulkea poikki, läpi tai yli - transa
 kulma (nurkka) - gon  
 kulmamitta (goniometri) - gonometer  
 kulombi (mittayksikkö C) - kulom  
-kulta - gim  
+kulta - aur  
 kulttuuri - kultur  
 kulua (ajasta) - duru  
 kuluttaa aikaa - pasa  
@@ -1033,7 +1034,6 @@ kuvanveistäjä - eskulter
 kuvaruutu - ekran  
 kuvitella - fantaza  
 Kuwait - kuwaitia  
-kylki (sivu) - ben  
 kyllä - si  
 kylmä - lengi  
 kylpeä - banyu  
@@ -1478,7 +1478,8 @@ nauta (lehmä) - muh
 nauttia (syödä, juoda) - niama  
 neliö - carogon  
 neljä (4) - car  
-nenä - nos  
+nenä - nose  
+nenä- (nasaali) - nosi  
 neodyymi - neodimium  
 neon - neon  
 Nepal - nepalia  
@@ -1562,10 +1563,11 @@ oksidi - okside
 oliivi - zaitun  
 olkapää (hartia) - kante  
 olla - esa  
+olla eri mieltä - aloraya  
 olla hereillä - weki  
 olla nimeltään - namu  
 olla olemassa - zayu  
-olla samaa mieltä - samraya  
+olla samaa mieltä - samoraya  
 olla taipuvainen - iva  
 olla väliä (olla tärkeä) - hamu  
 olo (oleminen) - ese  
@@ -1750,7 +1752,7 @@ pilkku - kome
 pilvi - megam  
 pimeä (hämärä) - oskur  
 pingviini - pinguin  
-pinta - fas  
+pinta (tahko) - fase  
 pioni - mudan  
 pippuri - pimente  
 piraatti (joka ei kunnioita tekijänoikeuksia) - piratiste  
@@ -1937,6 +1939,7 @@ resepti (ohje) - recete
 retikka (retiisi) - lobake  
 retkeilijä - kamper  
 reuna (ääri) - kenar  
+reuna- - kenari  
 Reunion - reunion  
 rhenium - renium  
 rhodium - rodium  
@@ -2017,8 +2020,8 @@ sallia (antaa lupa) - halala
 sallia - tolera  
 sallittu (hyväksytty) - halal  
 Salomon-saaret - solomon nesia  
-sama - sam  
-samanmaalainen (maanmies) - samdexi  
+sama - sami  
+samanmaalainen (maanmies) - samodexi  
 Sambia - zambia  
 sammal - mos  
 Samoa - samoa  
@@ -2035,7 +2038,7 @@ sarana - xarnir
 sarja - serye  
 sarjakuva - kartun  
 sarvi - korne  
-sarvikuono - faru  
+sarvikuono - kornonos  
 sata (##) - hon  
 satakieli - bulbul  
 satama - suyporte  
@@ -2127,7 +2130,9 @@ sitoa - benda
 sitruuna - limon  
 sivilisaatio - sivilia  
 sivistynyt - sivili  
-sivu- - beni  
+sivu (kirjassa) - warkolate  
+sivu (kylki, puoli) - late  
+sivu- - lati  
 skandium - skandium  
 Skotlanti - eskotia  
 slaavilainen - slavi  
@@ -2725,7 +2730,7 @@ Yhdysvallat (ns. Amerikka) - usamerikia
 yhdysvaltalainen (ns. Amerikkalainen) - usameriki  
 yhteinen - komun  
 yhteiskunnallinen (sosiaalinen) - soci  
-yhteisymmärrys - samray  
+yhteisymmärrys - samoray  
 yhteisö (kokoontuminen, kollektiivi) - jamia  
 yhtenäinen - uni  
 yksi - un  

@@ -40,6 +40,7 @@ asan - поза
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
+aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
 ##b
@@ -115,6 +116,7 @@ esa - быть
 eskulter - скульптор  
 ewanjil - евангелие  
 ##f
+fase - грань  
 favori - любимый  
 filsofia - философия  
 fiorde - фьорд  
@@ -132,7 +134,6 @@ gas - газ
 gati - твёрдый  
 gazel - газель  
 gemer - игрок (геймер)  
-gim - золото (аурум)  
 gitar - гитара  
 gol - цель  
 grom - гром  
@@ -207,6 +208,7 @@ ko? - как
 komputer - компьютер  
 koncung - насекомое  
 kor - хор  
+kornonos - носорог  
 koron - корона  
 kosmi - космический  
 kosmia - космос  
@@ -217,6 +219,8 @@ kupe - чаша (чашка, стакан)
 ##l
 lasker - солдат  
 laskeria - армия  
+late - сторона (бок)  
+lati -  боковой (латеральный)  
 lawi - пожилой  
 lazanye - лазанья  
 leksaslia - этимология  
@@ -343,7 +347,7 @@ sahi - правильный
 sal - соль  
 salame - приветствие  
 saman - небо  
-samray - согласие  
+samoray - согласие  
 samude - море  
 samudi - морской  
 sang - кровь  

@@ -407,8 +407,8 @@ fiziko - fizikia
 fiŝo - fix  
 fjordo - fiorde  
 flago - bandir  
-flanka (latera) - beni  
-flanko (latero) - ben  
+flanka (latera) - lati  
+flanko (latero) - late  
 flava - limonrangi  
 floro - pul  
 flughaveno - airporte  
@@ -471,6 +471,7 @@ germaniumo - germanium
 gitaro - gitar  
 glacia - aisi  
 glaciaĵo - aisokrem  
+glaciiĝi (frostiĝi) - aisu  
 glacio - ais  
 glata - lisi  
 glavo - katan  
@@ -571,7 +572,7 @@ ino - fem
 instruisto - darsogur  
 insulto - ninde  
 interesa - interes  
-interkonsento - samray  
+interkonsento - samoray  
 interŝanĝi - badala  
 inviti - plisa laya  
 io - koy xey  
@@ -838,6 +839,7 @@ malfermiĝi - kayu
 malfideleco - zine  
 malgranda - lil  
 Malio - malia  
+malkonsenti - aloraya  
 malliberejo - prizonia  
 malliberigi - prizona  
 mallonga - korti  
@@ -1026,7 +1028,7 @@ orelo - or
 oriento - dong  
 origina - asli  
 origino - asle  
-oro - gim  
+oro - aur  
 osmio - osmium  
 osmozo - osme  
 osto - oste  
@@ -1068,6 +1070,7 @@ pato - tawe
 patologio - patolojia  
 patrino - mame  
 patro - pape  
+paĝo - warkolate  
 pedalo - pedal  
 peniso - penis  
 pensi - fikra  
@@ -1210,7 +1213,7 @@ rigardi ia - konsida
 rilato - guanxe  
 rimarki - nota  
 ringo - fingowen  
-rinocero - faru  
+rinocero - kornonos  
 ripari - xula  
 riparisto - xuler  
 riparo - xule  
@@ -1242,10 +1245,10 @@ salti - jampa
 saluti - salama  
 saluto - salame  
 saluton! - halow  
-sama - sam  
+sama - sami  
 samario - samarium  
-samlandano - samdexi  
-samopinii (interkonsenti) - samraya  
+samlandano - samodexi  
+samopinii (interkonsenti) - samoraya  
 samseksema - aloseksi  
 samseksema - gey  
 samseksema - samjinsokami  
@@ -1338,7 +1341,7 @@ sunombrelo - solcate
 sunsistemo - solsistem  
 superiri - supra  
 supo - supe  
-surfaco - fas  
+surfaco - fase  
 surprizo - supris  
 suĉi - cupa  
 suŝio - suxe  

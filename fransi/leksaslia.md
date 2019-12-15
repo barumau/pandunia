@@ -81,10 +81,10 @@
 |comportement (manière)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |comprendre (réaliser)|aha|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
 |construire|bina|ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|
+|corne|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |corps|badan|ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden, eng:body|
 |correct (juste)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |cosmos|kosmia|rus:космос (kosmos), eng:fra:spa:cosmos|
-|coté|ben|zho:边 (biān), vie:bên|
 |couleur|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |coupe (tasse, verre)|kupe|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
 |couronne|koron|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
@@ -93,6 +93,7 @@
 |crème glacée|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |crème|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |cube|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
+|côté|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |dance|danse|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |destin (destination)|destin|eng:destination, destiny, fra:destin, spa:por:destino|
 |deux|dul|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
@@ -110,6 +111,7 @@
 |eau|suy|zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|
 |enfant|bace|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |et|e|fra:et, por:e, zho:和 (hé)|
+|face (facette)|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |faire|fata|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
 |faute (erreur)|galte|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
 |feu|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
@@ -200,7 +202,7 @@
 |orange (fruit)|oranje|eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, Rus:оранжевый (oranževiy)|
 |oreille|or|zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|
 |origine|asle|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
-|or|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|or|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |oui|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |ours|urse|fra:ours, por:urso, spa:oso, fas:(xers)|
 |ou|o|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|

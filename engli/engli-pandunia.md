@@ -40,8 +40,8 @@ age - umur
 aggressive - agresi  
 agile - ajil  
 agoraphobia - maidanfobia  
-agree (concur) - samraya  
-agreement (consent) - samray  
+agree (concur) - samoraya  
+agreement (consent) - samoray  
 air - air  
 air force - airlaskeria  
 airplane - viman  
@@ -312,7 +312,7 @@ bomb - bombe
 bon appetit! - salam niam  
 bone - oste  
 book - buke  
-border (edge, rim, fringe) - kenar  
+border (edge, fringe, margin, rim, side, shore, periphery) - kenar  
 bored - bori  
 boredom - boria  
 boron - boron  
@@ -541,7 +541,7 @@ communism - komunistia
 communist - komuniste  
 Comoros - komori nesia  
 company (corporation) - kompania  
-compatriot - samdexi  
+compatriot - samodexi  
 compete (have a match) - meca  
 compute (to process data) - komputa  
 computer - komputer  
@@ -635,7 +635,7 @@ dance - danse
 danger (peril) - hatar  
 dangerous (perilous) - hatari  
 dark (dim) - oskur  
-darmstadtium - darmium  
+darmstadtium - darmositium  
 Darwinism - darwinistia  
 Darwinist - darwiniste  
 data (numeric information) - date  
@@ -690,6 +690,7 @@ dig (excavate) - kava
 dining room - niamkamar  
 dinner - xamniam  
 direction - dixe  
+disagree - aloraya  
 disc (disk) - diske  
 discussion (debate, discourse) - lon  
 dish - tas  
@@ -875,6 +876,7 @@ February - mes 2 (mes dul)
 fee (fare, tariff, rate) - tarif  
 feel (sense by touch) - senta  
 feel - gama  
+feeze (get frozen) - aisu  
 female - fem  
 feminism - femistia  
 feminist - femiste  
@@ -1013,7 +1015,7 @@ go along - pargowa
 goal - gol  
 goat - buze  
 god (deity) - dew  
-gold - gim  
+gold - aur  
 goniometer - gonometer  
 good (in greetings) - salam  
 good - bon  
@@ -1145,7 +1147,7 @@ Holy See (Vatican City State) - vatikania
 home (residence) - dom  
 homoromantic - samromansi  
 homosexual - samjinsokami  
-homosexual - samseksi  
+homosexual - samoseksi  
 Honduras - hondurasia  
 honey - mel  
 honeybee - melvespe  
@@ -1342,7 +1344,7 @@ lasagna - lazanye
 last (final) - fini  
 last (take time, during) - dura  
 later (after) - bado  
-lateral (peripheral) - beni  
+lateral - lati  
 Latin alphabet - latini abace  
 Latvia - latvia  
 laugh - haha  
@@ -1655,6 +1657,7 @@ name - nam
 Namibia - namibia  
 nano- - nano-  
 nanometer - nanometre  
+nasal - nosi  
 nation - nasia  
 national - nasi  
 national socialism - nasi socistia  
@@ -1720,7 +1723,7 @@ Northern Ireland - nordi airia
 Northern Mariana Islands - marian nesia  
 Norway - norgia  
 Norwegian - norgi  
-nose - nos  
+nose - nose  
 nostalgia (longing) - nostalgia  
 nostalgic - nostalgi  
 not (no) - no  
@@ -1817,6 +1820,7 @@ pacifism - pacistia
 pacifist - paciste  
 pack (package) - pake  
 pack - paka  
+page (side of a leaf of a book) - warkolate  
 painful - paxi  
 paint - penta  
 painter - penter  
@@ -1885,6 +1889,7 @@ people (folk) - nas
 people (population) - deme  
 pepper (Piper nigrum) - pimente  
 perfect - kamili  
+peripheral - kenari  
 permissible (allowed, halal) - halal  
 Persian (Farsi) - farsi  
 person (people) - ren  
@@ -2144,7 +2149,7 @@ return (way back) - retre
 return ticket - retrotikete  
 reverse (undo) - ula  
 rhenium - renium  
-rhinoceros - faru  
+rhinoceros - kornonos  
 rhodium - rodium  
 rhyme (verse) - rim  
 rhythm (beat) - ritme  
@@ -2223,7 +2228,7 @@ salad - salade
 salt - sal  
 salty (saline) - sali  
 samarium - samarium  
-same - sam  
+same - sami  
 Samoa - samoa  
 sand - rege  
 sandwich - sanwice  
@@ -2320,7 +2325,7 @@ shower - dux
 Siberia - sibir  
 sibling (brother or sister) - saudar  
 sickness (illness, disease) - patia  
-side (periphery, accompaniment) - ben  
+side (flank) - late  
 Sierra Leone - salonia  
 sign (signal) - sinye  
 Sikh - sikiste  
@@ -2473,7 +2478,7 @@ sun - sol
 Sunday - war 7 (war sem)  
 superb (wonderful, super) - super  
 supply (dispense, issue, put out) - fada  
-surface - fas  
+surface (face) - fase  
 Suriname - surinamia  
 surname (family name) - familnam  
 surpass (above, go over) - supra  

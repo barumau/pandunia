@@ -1220,9 +1220,9 @@ norma, standard - norme
 normalny, standardowy - normi  
 Norwegia - norgia  
 norweski - norgi  
-nos - nos  
+nos - nose  
 nosić ubrania - fuka  
-nosorożec - faru  
+nosorożec - kornonos  
 notatka, memo - memnote  
 notatnik - notobuke  
 notować, obserwować, zauważyć, zauważać - nota  
@@ -1522,7 +1522,7 @@ porażka (niepowodzenie, klapa) - xibay
 porcja, dawka - doze  
 porno, film erotyczny - porne  
 pornografia - pornografia  
-porozumienie - samray  
+porozumienie - samoray  
 Portugalia - portugalia  
 porywacz pociągu - trenkaper  
 porywacz samolotu - vimankaper  
@@ -1537,10 +1537,10 @@ pot - suede
 potas - kalium  
 potrzebny - nidi  
 potrzebować - nida  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
+potwierdzić, potwierdzać, zgodzić się, zgadzać się - samoraya  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notisa  
-powierzchnia - fas  
+powierzchnia - fase  
 powierzchnia, region, teren - aria  
 powiesić, wieszać - penda  
 powietrze - air  
@@ -1726,7 +1726,7 @@ robak - verme
 robot - robote  
 rocznica - nenfeste  
 rod - rodium  
-rodak, ziomek, krajan - samdexi  
+rodak, ziomek, krajan - samodexi  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - saudar  
 rodzina - famil  
@@ -2019,7 +2019,7 @@ Tajpej - taibey
 tajski - tayi  
 Tajwan, Republika Chińska - taiwania  
 tak - si  
-taki sam - sam  
+taki sam - sami  
 taktyka, strategia - tatike  
 tal - talium  
 talerz - plate  
@@ -2456,7 +2456,7 @@ ząb - dante
 zęwnętrzny - waye  
 złapać, łapać, schwytać, chwytać - kapa  
 złodziej - corer  
-złoto - gim  
+złoto - aur  
 złośliwy, okrutny - zalim  
 zły (wsciekły, gniewny) - furi  
 zły - mal  

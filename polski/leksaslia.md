@@ -423,7 +423,6 @@
 |nie|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |nisza, alkowa|nixe|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |noc|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
-|nosorożec|faru|swa:kifaru, kon:kifalu|
 |nowy|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nożyce, nożyczki|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
 |numer|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
@@ -549,6 +548,7 @@
 |postawa ciała; asana|asan|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |posuwać się do przodu (dokonywać postępu, wejść)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |potrzebować|nida|eng: need|
+|powierzchnia|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |powietrze|air|eng:fra:spa:air, por:ar|
 |powinien|xudu|eng:should|
 |powszechny, uniwersalny|putong|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
@@ -740,7 +740,7 @@
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |służba|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
-|taki sam|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
 |tak|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |tatuaż|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
@@ -906,7 +906,7 @@
 |zyskać, zyskiwać, zarobić, zarabiać|ganya|fra:gagner, por:ganhar, spa:ganar, eng:gain|
 |zęwnętrzny|waye|zho:外 (wài)|
 |złapać, łapać, schwytać, chwytać|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
-|złoto|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|złoto|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |złośliwy, okrutny|zalim|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
 |zły, zrujnowany, zepsuty|harabi|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
 |ćsi|xix|eng:shh, zho: (xū), rus:ш-ш-ш, tur:sus|

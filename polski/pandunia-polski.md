@@ -101,6 +101,7 @@ aspirin - aspiryna
 ate - jabłko cukrowe  
 atom - atom  
 auda - usłyszeć, słyszeć; słuchać  
+aur - złoto  
 australia - Australia  
 automoti - samobieżny  
 autonomi - autonomiczny  
@@ -517,8 +518,7 @@ fantaze - fantazja (wyobrażenie, wyobraźnia)
 fantazi - fantastyczny, fantazyjny  
 fantom - duch, fantom  
 farsi - Pers; perski, farsi  
-faru - nosorożec  
-fas - powierzchnia  
+fase - powierzchnia  
 fasin - fascynacja  
 fata - zrobić (stworzyć, wykreować)  
 fate - czyn, uczynek  
@@ -661,7 +661,6 @@ geter - odbiorca
 gey - gejowski (homoseksualny)  
 gida - sterować  
 gigo- - bilion, giga-  
-gim - złoto  
 gitar - gitara  
 giyania - Gujana Francuska  
 glute - klej  
@@ -1096,6 +1095,7 @@ kopernikium - kopernik
 kopohake - prawa autorskie  
 kor - chór  
 korne - róg  
+kornonos - nosorożec  
 koron - korona  
 korta - skrócić, skracać  
 korti - krótki  
@@ -1581,7 +1581,7 @@ norgi - norweski
 norgia - Norwegia  
 norme - norma, standard  
 normi - normalny, standardowy  
-nos - nos  
+nose - nos  
 nota - notować, obserwować, zauważyć, zauważać  
 note - uwaga, obserwacja  
 notis - wiadomość, zawiadomienie, powiadomienie  
@@ -1983,15 +1983,15 @@ sali - słony
 salima - poddać się, poddawać się  
 salonia - Sierra Leone  
 salvadoria - Salwador  
-sam - taki sam  
 saman - niebo  
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
-samdexi - rodak, ziomek, krajan  
+sami - taki sam  
 samjinsokami - homoseksualny  
 samoa - Samoa  
-samray - porozumienie  
-samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+samodexi - rodak, ziomek, krajan  
+samoray - porozumienie  
+samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samu - być podobnym, być jak  
 samude - może  
 samun - połączenie, złącze, styk  

@@ -43,6 +43,7 @@ ais - jää
 aisi - jäinen  
 aisohoke - jääkiekko  
 aisokrem - jäätelö  
+aisu - jäätyä  
 ajaba - ällistyttää  
 ajabe - ihme  
 ajabi - ihmeellinen (ällistyttävä, merkillinen)  
@@ -60,6 +61,7 @@ almas - timantti
 alo - muuten (toisin)  
 alofone - allofoni (vaihtoehtoinen ääntämys)  
 alonami - eli (toisin sanoen)  
+aloraya - olla eri mieltä  
 aloromansi - heteroromanttinen  
 aloseksi - heteroseksuaali  
 alosifi - erilainen  
@@ -131,6 +133,7 @@ astatin - astatiini
 atlanti samude - Atlantin valtameri  
 atom - atomi  
 auda - kuulla (kuunnella)  
+aur - kulta  
 australia - Australia  
 automoti - itseliikkuva  
 autonomi - autonominen  
@@ -239,11 +242,9 @@ bel - beli (B)
 belgia - Belgia  
 belizia - Belize  
 belorusia - Valkovenäjä  
-ben - kylki (sivu)  
 bence - penkki  
 benda - sitoa  
 bende - nauha (side)  
-beni - sivu-  
 benin - Benin  
 benzin - bensiini (bensa)  
 berande - kuisti (terassi, veranta)  
@@ -413,8 +414,8 @@ darba - lyödä (iskeä)
 darje - porras (aste, taso)  
 darme - moraali  
 darmi - moraalinen  
-darmium - darmstadtium  
 darmoloji - etiikka (moraalioppi)  
+darmositium - darmstadtium  
 darsa - oppia (opiskella)  
 darse - oppi (opetus)  
 darser - oppilas  
@@ -605,8 +606,7 @@ fantaze - mielikuvitus (fantasia)
 fantazi - mielikuvituksekas (fantastinen)  
 fantom - kummitus (aave)  
 farsi - persia (farsi)  
-faru - sarvikuono  
-fas - pinta  
+fase - pinta (tahko)  
 fasin - hurma (lumo, tenho)  
 fata - tehdä (valmistaa)  
 fate - teko  
@@ -766,7 +766,6 @@ geta - hankkia (saada)
 geter - saaja (vastaanottaja)  
 gey - homo (homoseksuaali)  
 gida - ohjata (ohjastaa)  
-gim - kulta  
 gitar - kitara  
 giyania - Ranskan Guiana  
 glute - liima  
@@ -1154,6 +1153,7 @@ keler - urheilija
 kelvin - kelvin (K)  
 kemia - muinainen Egypti  
 kenar - reuna (ääri)  
+kenari - reuna-  
 kenia - Kenia  
 kerne - ydin (sydän)  
 kerube - kerubi  
@@ -1248,6 +1248,7 @@ kopernikium - kopernikium
 kopohake - kopiointioikeus (tekijänoikeus)  
 kor - kuoro  
 korne - sarvi  
+kornonos - sarvikuono  
 koron - kruunu  
 korta - lyhentää  
 korti - lyhyt  
@@ -1328,6 +1329,8 @@ lasker - sotilas
 laskeria - armeija (sotajoukko)  
 lasti - joustava (elastinen)  
 lasun - valkosipuli  
+late - sivu (kylki, puoli)  
+lati - sivu-  
 latini abace - latinalaiset aakkoset  
 latinokitaba - latinoida  
 latvia - Latvia  
@@ -1793,7 +1796,8 @@ norgi - norjalainen
 norgia - Norja  
 norme - normi  
 normi - normaali  
-nos - nenä  
+nose - nenä  
+nosi - nenä- (nasaali)  
 nostalgia - kaipuu (ikävä, nostalgia)  
 nota - huomata (hoksata)  
 note - huomio (kommentti, merkintä)  
@@ -2214,13 +2218,13 @@ salame - tervehdys (terve!)
 sali - suolainen  
 salonia - Sierra Leone  
 salvadoria - El Salvador  
-sam - sama  
 saman - taivas  
-samdexi - samanmaalainen (maanmies)  
+sami - sama  
 samjinsokami - homoseksuaali  
 samoa - Samoa  
-samray - yhteisymmärrys  
-samraya - olla samaa mieltä  
+samodexi - samanmaalainen (maanmies)  
+samoray - yhteisymmärrys  
+samoraya - olla samaa mieltä  
 samude - meri  
 samudelaskeria - merivoimat  
 samudi - meri- (merellinen)  
@@ -2612,6 +2616,7 @@ war 6 (war sis) - lauantai
 war 7 (war sem) - sunnuntai  
 waris - perintö  
 warke - lehti (arkki, levy)  
+warkolate - sivu (kirjassa)  
 wase - keidas  
 wate - watti  
 waw - oho (vau)  

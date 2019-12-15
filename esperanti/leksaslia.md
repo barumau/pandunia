@@ -172,7 +172,7 @@
 |fiŝo|fix|eng:fish, deu:Fisch|
 |fjordo|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |flago|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
-|flanko (latero)|ben|zho:边 (biān), vie:bên|
+|flanko (latero)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |floro|pul|hin:फूल (phul), ben:ফুল (phul)|
 |fojo|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
 |formiko|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
@@ -442,7 +442,7 @@
 |orelo|or|zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|
 |oriento|dong|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|
 |origino|asle|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
-|oro|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|oro|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |osto|oste|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |ovo|ande|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |paco|pace|ita:pace, eng:peace, spa:por:paz, fra:paix|
@@ -540,7 +540,6 @@
 |ridi|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |rigardi ia|konsida|eng:consider, spa:considerar|
 |rilato|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
-|rinocero|faru|swa:kifaru, kon:kifalu|
 |riparo|xule|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
 |ripetado|repe|eng:rep(etition), spa:repetición, + vie:lặp|
 |risko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
@@ -559,7 +558,7 @@
 |salti|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |saluton!|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |saluto|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
-|sama|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|sama|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |samseksema|gey|eng:fra:spa:gay, por:guei|
 |sango|sang|fra:sang, spa:sangre, por:sangue|
 |sankta|santi|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|
@@ -616,6 +615,7 @@
 |suko|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |suno|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |supo|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
+|surfaco|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |surprizo|supris|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |suĉi|cupa|spa:por:chupar, khm:ជប់ (cup)|
 |tabako|tabake|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|
