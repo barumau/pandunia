@@ -41,6 +41,7 @@
 |bańka|bubul|eng:bubble, snh:බුබුළු (bubuḷu), hun:buborék, cze:bublina, hin:बुल्ला (bullā), tgl:bula, fra:bulle, pnb:ਬੁਲਬੁਲਾ (bulabulā)|
 |beczka|tong|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:mal:tong, + fra:tonneau, spa:tonel, ned:ton|
 |beret|berete|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|
+|bezpieczny|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |Bhutan|drugia|bhuའབྲུག་ཡུལ (ʈuk̚˩,yː˩), tib:འབྲུག་ཡུལ་ (drugyul)|
 |biały|baki|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
 |bilet|tikete|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
@@ -242,7 +243,7 @@
 |kakao|kakaw|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|
 |kalkulować|hisaba|ara:(hasaba), tur:hesap, orm:hisaaba, swa:hisabu|
 |kamień|petre|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra|
-|kanoe|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapelusz, czapka|tope|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
 |karawana|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karta|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
@@ -336,7 +337,7 @@
 |lista, spis, wykaz|liste|eng:list, spa:por:lista, rus:(lista), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|
 |lis|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
 |litera, znak|harfe|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
-|lody|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|lody|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |logika, dedukcja|logike|eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)|
 |lub, albo|o|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|
 |lubić, cieszyć się|suku|jpn:好く (suku), may: suka|
@@ -422,7 +423,6 @@
 |nie|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |nisza, alkowa|nixe|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |noc|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
-|nosorożec|faru|swa:kifaru, kon:kifalu|
 |nowy|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nożyce, nożyczki|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
 |numer|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
@@ -548,6 +548,7 @@
 |postawa ciała; asana|asan|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |posuwać się do przodu (dokonywać postępu, wejść)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |potrzebować|nida|eng: need|
+|powierzchnia|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |powietrze|air|eng:fra:spa:air, por:ar|
 |powinien|xudu|eng:should|
 |powszechny, uniwersalny|putong|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
@@ -596,7 +597,7 @@
 |przystojny, atrakcyjny, ładny|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |przyszłość|wile|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
 |pręt, kij|baton|eng:baton, fra:bâton, zho:棒 (bàng), jpn:棒 (bō)|
-|psychologia|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psychologia|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |ptak|pakse|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|
 |pudełko, skrzynia|kaxe|deu:Kasse, rus:(kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|
 |puding|puding|eng:pudding, zho:布丁 (bùdīng)|
@@ -625,7 +626,7 @@
 |rodzaj, typ, styl|yang|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |rodzeństwo, brat lub siostra|saudar|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |rodzina|famil|eng:family, spa:familia, por:família, fra:famille|
-|rodzynka|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rodzynka|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |rok|nen|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|
 |rosa|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |rower|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
@@ -652,6 +653,7 @@
 |rzucić, rzucać, miotać, cisnąć, ciskać|lanca|eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|
 |róg|buge|eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|
 |róg|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
+|róża|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |ręcznik|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |ręka, dłoń|hande|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
 |sam, osobiście|tan|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
@@ -738,7 +740,7 @@
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |służba|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
-|taki sam|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
 |tak|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |tatuaż|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
@@ -884,7 +886,6 @@
 |zdrada małżeńska, cudzołóstwo|zine|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |zero, nic, żaden|nol|rus:ноль (nol'), may:tkm:nol, deu:null, eng:null|
 |zespół (drużyna, grupa)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
-|ziarno, nasienie|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
 |zielony|lugi|zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|
 |ziemia, grunt, gleba|zem|slk:zem, cze:země, pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |ziemniak|patate|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
@@ -905,7 +906,7 @@
 |zyskać, zyskiwać, zarobić, zarabiać|ganya|fra:gagner, por:ganhar, spa:ganar, eng:gain|
 |zęwnętrzny|waye|zho:外 (wài)|
 |złapać, łapać, schwytać, chwytać|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
-|złoto|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|złoto|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |złośliwy, okrutny|zalim|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
 |zły, zrujnowany, zepsuty|harabi|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
 |ćsi|xix|eng:shh, zho: (xū), rus:ш-ш-ш, tur:sus|
@@ -914,7 +915,7 @@
 |ławka|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |łańcuch|silsil|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili|
 |łyżka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
-|łza|kansuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|łza|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |łódź, statek|bote|spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|
 |łóżko|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
 |łączyć, wiązać, złączyć|samuna|isl:sameina, deu:vereinigen|

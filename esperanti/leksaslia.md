@@ -172,7 +172,7 @@
 |fiŝo|fix|eng:fish, deu:Fisch|
 |fjordo|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |flago|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
-|flanko (latero)|ben|zho:边 (biān), vie:bên|
+|flanko (latero)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |floro|pul|hin:फूल (phul), ben:ফুল (phul)|
 |fojo|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
 |formiko|maye|zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|
@@ -199,7 +199,7 @@
 |genro|jinse|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|
 |genuo|gute|swa:goti, guj:ઘૂંટણ (ghū̃ṭaṇ), Hin:घुटना (ghuṭnā), mar:गुडघा (guḍghā)|
 |gitaro|gitar|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
-|glaciaĵo|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|glaciaĵo|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |glacio|ais|eng:ice, deu:Eis, may:és|
 |glata|lisi|fra:lisse, spa:por:liso, fas:(liz), may:licin|
 |glavo|katan|jpn:刀 (katana)|
@@ -262,7 +262,7 @@
 |kanabo|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |kanono|kanon|eng:cannon, spa:cañón, zho:加农 (jiānóng), jpn:(kyanon), kor:캐넌 (kaeneon)|
 |kanto|cante|fra:chanter, eng:chant, por:spa:cantar, + zho:唱 (chàng), kor:창 (chang)|
-|kanuo (kanoto)|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanuo (kanoto)|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapro|buze|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|
 |kapti|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
 |karavano|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
@@ -442,7 +442,7 @@
 |orelo|or|zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|
 |oriento|dong|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|
 |origino|asle|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
-|oro|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|oro|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |osto|oste|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |ovo|ande|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |paco|pace|ita:pace, eng:peace, spa:por:paz, fra:paix|
@@ -514,7 +514,7 @@
 |proksima|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |promeni (marŝi)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
 |propra (partiklo de posedo)|da|zho:的 (de)|
-|psikologio|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psikologio|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |pulmo|pulmon|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
 |pulvo|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |punkto|binde|hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
@@ -540,7 +540,6 @@
 |ridi|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |rigardi ia|konsida|eng:consider, spa:considerar|
 |rilato|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
-|rinocero|faru|swa:kifaru, kon:kifalu|
 |riparo|xule|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
 |ripetado|repe|eng:rep(etition), spa:repetición, + vie:lặp|
 |risko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
@@ -549,6 +548,7 @@
 |roboto|robote|eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|
 |robo|tunike|spa:túnica, eng:tunic, rus:туника (tunika)|
 |roso|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
+|rozo|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |rubo|laje|zho:垃圾 (lājī)|
 |ruinigita|harabi|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
 |ruĝa|kirmi|arm:կարմիր (karmir), tur: kırmızı, fas(qermez), ara:(qirmiz), + eng:crimson, fra:carmin, por:carmim, spa:carmín, hin:क़िरमिज़ (qirmiz)|
@@ -558,7 +558,7 @@
 |salti|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |saluton!|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |saluto|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
-|sama|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|sama|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |samseksema|gey|eng:fra:spa:gay, por:guei|
 |sango|sang|fra:sang, spa:sangre, por:sangue|
 |sankta|santi|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|
@@ -571,9 +571,9 @@
 |sed|a|rus:а (a), ukr:а (a), pol:a, + zho:啊 (ā), + eng:ah|
 |seka|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |sekso|sekse|eng:sex, fra:sexe, spa:por:sexo|
-|sekvinbero|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|sekvinbero|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |semajno|seman|spa:por:semana, fra:semaine|
-|semo|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
+|semo|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sep (7)|sem|rus:семь (semʹ)|
 |serio|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
 |serpento|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
@@ -615,6 +615,7 @@
 |suko|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |suno|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |supo|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
+|surfaco|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |surprizo|supris|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |suĉi|cupa|spa:por:chupar, khm:ជប់ (cup)|
 |tabako|tabake|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|

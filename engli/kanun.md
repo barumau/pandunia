@@ -1176,47 +1176,43 @@ Likewise we normally say **bon** (_good_) instead of **boni**.
 Note that it is always acceptable to use the vowel endings on every word.
 It is an artistic choice by the authors of Pandunia to not require them on noun stems that end in soft vowels.
 
+
 ### 11.2. Compound words
 
 Two or more words can be put together to make a _compound word_.
 The last word is the most meaningful word in the compound
 and the words that come before it only modify its meaning.
 
-The simples compound words consist of bare word stems only.
-For example the word for tears, **kansuy**, is like that.
+Compound words are made of bare word stems,
+which are joined together by the linking vowel **-o-**.
+
+For example, this is how **kanosuy** (_tears_) is made:
 
           kan       (eye)
        +  suy       (water)
     ____________
-    =  kansuy       (eyewater, tear)
+    = kanosuy       (eyewater, tear)
 
-One can add and swap the vowel endings of compound words normally.
-For example, **kansuyi** means _teary_.
+And this is how **termometer** (_thermometer_) is made:
 
-The vowel ending of the first word is always dropped when a compound word is made.
+         terme      (temperature)  
+       + meter      (measuring device)
+    ____________
+    = termometer    (thermometer)
+
+The linking vowel **-o-** is not used when the second word begins with a vowel.
+
+          dew       (god)  
+       + iste       (proponent, -ist)
+    ____________
+    =  dewiste      (theist)
+
+The ending vowel of the first word is always dropped when a compound word is made.
 
          pace       (peace)
        + iste       (proponent, -ist)
     ____________
     =  paciste      (proponent of peace, pacifist)
-
-If the resulting word would be too difficult to pronounce,
-the linking vowel **-o-** is put between the stems.
-For example **termmeter** and **servpaus** would be difficult to pronounce
-because of the consonant groups **rmm** and **rvp**.
-Then we use **-o-** to break the difficult consonant groups.
-
-         terme      (temperature)
-       + meter      (measuring device)
-    ____________
-    = termometer    (thermometer)
-
-&nbsp;
-
-         serve      (service)
-       +  paus      (pause, break)
-    ____________
-    =  servopaus    (servicebreak)
 
 
 ### 11.3. Common Suffixes

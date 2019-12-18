@@ -2,7 +2,7 @@
 ##a
 abeille ou guêpe - vespe  
 accent - aksente  
-accord - samray  
+accord - samoray  
 acheter - xopa  
 actinium - acinium  
 action - acion  
@@ -112,6 +112,7 @@ bombe - bombe
 bon - bon  
 botanique - fitolojia  
 boue (fange, bourbe, gadoue) - pote  
+boulanger - beker  
 bouton - boton  
 brigand (bandit) - luter  
 brun (marron) - bruni  
@@ -123,6 +124,7 @@ café - kafe
 cage - kafas  
 calculer - hisaba  
 canapé (sofa) - kanape  
+canoë - kanoe  
 capacité (compétence) - able  
 carte - karde  
 carte - karte  
@@ -130,7 +132,7 @@ cartographie - kartografia
 centre - jung  
 chambre à coucher - sonkamar  
 chance - canse  
-changement climatique - klimemute  
+changement climatique - klimomute  
 chapitre - babe  
 chat - maw  
 chef - xef  
@@ -146,21 +148,22 @@ comment - ko?
 comportement (manière) - manir  
 comprendre (réaliser) - aha  
 construire - bina  
+corne - korne  
 corps - badan  
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
-coté - ben  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
 creuser - kava  
 croix - krus  
 crème - krem  
-crème glacée - aisekrem  
+crème glacée - aisokrem  
 cube - kube  
 cycliste - sikliste  
 cytologie - selolojia  
+côté - late  
 ##d
 dance - danse  
 de - ca  
@@ -168,7 +171,7 @@ destin (destination) - destin
 deux - dul  
 diamant - almas  
 dieu - dew  
-dioxyde de carbone - karbondulokside  
+dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
 document (dossier) - dokum  
 domestique - domi  
@@ -189,6 +192,7 @@ et - e
 Europe - europe  
 européen - europi  
 ##f
+face (facette) - fase  
 faire - fata  
 faute (erreur) - galte  
 favori (préféré) - favori  
@@ -208,7 +212,7 @@ féliciter - barka
 ##g
 galaxie - galaksia  
 gaz - gas  
-gaz lacrymogène - kansuygas  
+gaz lacrymogène - kanosuyogas  
 gazelle - gazel  
 genou - gute  
 genre (espèc) - jinse  
@@ -223,7 +227,7 @@ heureux - suki
 hiver - zime  
 hivernal (hibernal) - zimi  
 hockey - hoke  
-hockey sur glace - aisehoke  
+hockey sur glace - aisohoke  
 hourra - ura  
 humanisme - insanistia  
 humeur - gamohal  
@@ -251,6 +255,7 @@ laitue - letis
 langue - bax  
 lapin (lièvre) - tuze  
 lasagne - lazanye  
+latéral - lati  
 lexical - leksi  
 libellule - libel  
 lieu - loke  
@@ -287,7 +292,7 @@ migration - migre
 mode (façon, manière) - mode  
 mois - mes  
 monde - dunia  
-monnaie (pièce) - pesediske  
+monnaie (pièce) - pesodiske  
 mot - lekse  
 mouche - zeze  
 moulin - molia  
@@ -299,7 +304,7 @@ méninge - mening
 ##n
 nation - nasia  
 neige - him  
-neurone - neuresel  
+neurone - neurosel  
 niche - nixe  
 noir - cerni  
 noit - noce  
@@ -318,7 +323,7 @@ oiseau - pakse
 ombrelle (parasol) - solcate  
 onde - onde  
 opposant (antagoniste) - anter  
-or - gim  
+or - aur  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
 ordinateur - komputer  
@@ -334,6 +339,7 @@ ours - urse
 oxyde - okside  
 ##p
 pacifiste - paciste  
+page - warkolate  
 pain - pang  
 paix - pace  
 palais - gunden  
@@ -378,7 +384,7 @@ problématique - venti
 programme - program  
 projet - projete  
 propriété (possession, bien) - malke  
-psychologie - ruhelojia  
+psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
 que (comme) - ko  
@@ -396,8 +402,11 @@ rire - haha
 rivière (fleuve) - nade  
 riz - arize  
 robot - robote  
+rose - roze  
+rosée - rose  
 rouge - kirmi  
 ruban (bande) - tepe  
+rôtir - rosta  
 s'installer (déménager) - migru  
 ##s
 saber (conocer) - jana  
@@ -413,6 +422,7 @@ sculpteur - eskulter
 se baigner - banyu  
 se rappeler (se remémorer) - mema  
 sel - sal  
+semence - seme  
 sexe - sekse  
 shopping - xope  
 si - gar  
@@ -426,13 +436,15 @@ suffixe pour l'adjectif - -i
 suffixe pour les verbes avec ordre des mots OVS - -u  
 suffixe pour les verbes avec ordre des mots SVO - -a  
 sujet (thème) - teme  
+séminal - semi  
 série - serye  
+sûr - sekuri  
 ##t
 table - meze  
 tarte - pay  
 tasse à thé - caykupe  
 technique - tekne  
-technologie - teknelojia  
+technologie - teknolojia  
 tendance - ive  
 tener sentido - razonu  
 tente - haime  
@@ -472,6 +484,7 @@ vie - hay
 vieux (âgé, ancien) - lawi  
 ville - site  
 virus - virus  
+visage - muke  
 vite (rapide) - rapidi  
 vivre (habiter) - domu  
 vocabulaire (lexique) - leksia  

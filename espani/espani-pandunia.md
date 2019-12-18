@@ -5,7 +5,7 @@ acción - acion
 acento - aksente  
 achís - aciy  
 acordarse - mema  
-acuerdo - samray  
+acuerdo - samoray  
 aeropuerto - airporte  
 agua - suy  
 alcohol - alkol  
@@ -61,8 +61,10 @@ botón - boton
 cabeza - sar  
 café - kafe  
 calcular - hisaba  
-cambio climático - klimemute  
+cambio climático - klimomute  
 camote (batata) - kamote  
+canoa - kanoe  
+cara (rosto) - muke  
 carcelero - prizoner  
 carne - manse  
 cartografía - kartografia  
@@ -90,6 +92,7 @@ conducir - xofa
 conductor (chofer) - xofer  
 copa (vaso) - kupe  
 corazón (núcleo) - kerne  
+corno - korne  
 corona - koron  
 correcto (justo) - sahi  
 cosa - xey  
@@ -146,6 +149,7 @@ etimología - leksaslia
 evangelio - ewanjil  
 ##f
 favorito (preferido) - favori  
+faz (faceta) - fase  
 feliz - suki  
 filosofía - filsofia  
 fiordo - fiorde  
@@ -158,7 +162,7 @@ fútbol - futobol
 ##g
 galaxia - galaksia  
 gas - gas  
-gas lacrimógeno - kansuygas  
+gas lacrimógeno - kanosuyogas  
 gato - maw  
 gengibre - zinje  
 grupo - grupe  
@@ -167,11 +171,11 @@ gul - gul
 género - jinse  
 ##h
 hacer - fata  
-helado - aisekrem  
+helado - aisokrem  
 hermoso (bello, lindo) - sundari  
 hijo o hija - pute  
 hockey - hoke  
-hockey sobre hielo - aisehoke  
+hockey sobre hielo - aisohoke  
 hongo - funge  
 hora - hor  
 hormigo - maye  
@@ -201,10 +205,11 @@ justo - adali
 ##k
 kétchup - kecape  
 ##l
-lado - ben  
+lado (flanco) - late  
 ladrón - luter  
 largo - long  
 lasaña - lazanye  
+lateral - lati  
 leche - milke  
 lechuga - letis  
 leer - duga  
@@ -245,7 +250,7 @@ mierda - xite
 migración - migre  
 modo (manera, forma) - mode  
 molino - molia  
-moneda - pesediske  
+moneda - pesodiske  
 monismo - monistia  
 mosco - zeze  
 muro (muralha) - wal  
@@ -261,10 +266,11 @@ necesario - nidi
 necesidad - nide  
 necesitar - nida  
 negro - cerni  
-neurona - neuresel  
+neurona - neurosel  
 neve - him  
 niño o niña - bace  
 no - no  
+no estar de acuerdo - aloraya  
 noche - noce  
 nosotros - mome  
 nostalgia - nostalgia  
@@ -281,7 +287,7 @@ ordenador - komputer
 oreja - or  
 origen - asle  
 original - asli  
-oro - gim  
+oro - aur  
 ortogonal - ortogoni  
 oso - urse  
 otitis - oritis  
@@ -292,6 +298,7 @@ pacifista - paciste
 padre (papá) - pape  
 palabra (vocablo) - lekse  
 palacio - gunden  
+panadero - beker  
 papaya - papay  
 papel - kagaze  
 papel tapiz - walpapir  
@@ -330,6 +337,7 @@ proyecto - projete
 prueba - dalil  
 prueba - teste  
 puerto marítimo - suyporte  
+página - warkolate  
 que (como) - ko  
 quemar - pira  
 quemarse - piru  
@@ -346,8 +354,10 @@ reír - haha
 rico - rici  
 rima - rim  
 riñon - nefre  
+rocío - rose  
 rodilla - gute  
 rojo - kirmi  
+rosa - roze  
 rápido - rapidi  
 réservation - rezerve  
 ##s
@@ -360,6 +370,9 @@ sandía - arbuze
 sangre - sang  
 sapato - sapate  
 Satanás - xatan  
+seguro - sekuri  
+semilla - seme  
+seminal - semi  
 ser (estar) - esa  
 ser humano - insan  
 serie - serye  
@@ -377,7 +390,7 @@ tender - iva
 tigre - bagre  
 toalla - towal  
 tomate - tomate  
-tonelada - megegram  
+tonelada - megogram  
 trabajador (obrero) - werker  
 trabajar - werka  
 trabajo - werke  

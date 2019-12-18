@@ -209,9 +209,10 @@
 |juustokumina (jeera)|ziran|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
 |juusto|cis|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |jyrinä (ukkonen)|grom|rus:гром (grom), pol:grom|
+|jyvä (luoti)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |jänis|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |jäännös (loput)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
-|jäätelö|aisekrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
+|jäätelö|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |jää|ais|eng:ice, deu:Eis, may:és|
 |kaakao|kakaw|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|
 |kaappi|almar|hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, spa:armario, por:armário|
@@ -232,7 +233,7 @@
 |kana|kokode|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + scr:kokoš, bul:кокош (kokoš), swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
 |kannabis (marihuana, hamppu)|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |kannu (karahvi)|jar|eng:jar, ara:(jara), por:spa:jarra|
-|kanootti|kanuh|eng:canoe, deu:Kanu, tur:kano, spa:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|kanootti|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kansakunta|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |kanssa (luona, -lla, -ssa)|sa|swa:na, lin:kon:na, rus:на (na)|
 |karavaani (saattue)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
@@ -318,7 +319,7 @@
 |kuiva|gani|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |kukka|pul|hin:फूल (phul), ben:ফুল (phul)|
 |kulma (nurkka)|gon|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|
-|kulta|gim|zho:金 (jīn), yue:(gam), zhu:gim, jpn:金 (kin), kor:금 (geum), vie:kim, tgl:ginto, tha:คำ (kam)|
+|kulta|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |kuluva (tämänhetkinen)|zay|zho:在 (zài), jpn:在 (zai), vie:tại|
 |kumina|karawe|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |kumi|gom|spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|
@@ -337,7 +338,6 @@
 |kuutio|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |kuu|lun|fra:lune, spa:luna, eng:lunar, rus:луна (luná)|
 |kuvanveistäjä|eskulter|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
-|kylki (sivu)|ben|zho:边 (biān), vie:bên|
 |kyllä|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |kylmä|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |kylä|ruste|fas:روستا‎ (rustâ), + eng:rustic, por:spa:rustico, fra:rustique|
@@ -345,7 +345,7 @@
 |kynä|kalam|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
 |kypsä (aikuinen)|matur|eng:fra:mature, spa:por:maduro|
 |kysyä|eska|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
-|kyynel|kansuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|kyynel|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |kärppä (fretti)|furete|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
 |kärpänen|zeze|tsw:sot:tsetse, lin:kon:nzinzi, swa:nzi, ber:izi, sna:nhunzi, ibo:ijiji, yor:eṣinṣin|
 |kärry (vaunu, auto, jne)|kar|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
@@ -606,6 +606,7 @@
 |pilalla (raunioina)|harabi|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
 |pilkku|kome|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|
 |pilvi|megam|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek)|
+|pinta (tahko)|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |pioni|mudan|zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn|
 |pippuri|pimente|spa:pimienta, tgl:pamenta|
 |pisara (tippa)|yote|tha:หยด (yòt), lao:ຢອດ (yǭt), vie:giọt, + eng:iota, rus:йота (yota)|
@@ -629,7 +630,7 @@
 |portaat (rappuset, tikkaat)|eskal|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
 |povi|buste|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
 |profeetta|naber|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|psykologia|ruhelojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|psykologia|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |pudota (tipahtaa)|padu|tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|
 |puhdas (siivo, siisti)|safi|swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
 |puhe (sanat)|loge|ell:λόγος (logos), eng:-logue, fas:(loğat), ara:(luğa), swa:lugha, tur:lügat, may:logat|
@@ -690,9 +691,10 @@
 |rumpu|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
 |runo|xir|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |ruoho|gras|eng:grass, hin:घास (ghās)|
-|rusina|ganputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
+|rusina|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |ruskea|bruni|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |ruukku (maljakko, vaasi)|vaze|deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|
+|ruusu|roze|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|
 |ruuti|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |ruuvi|lose|zho:螺丝 (luòsī), yue:螺絲 (lo4 si1)|
 |ryhmä (työryhmä, yhtye, bändi)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
@@ -706,13 +708,12 @@
 |sakset|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
 |salaatti|salade|fra:salade, end:may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |sallittu (hyväksytty)|halal|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
-|sama|sam|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|sama|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |sankari (urho)|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |sanko (ämpäri)|balde|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
 |sarana|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |sarjakuva|kartun|eng:cartoon, por:cartum, zho:卡通 (kǎtōng)|
 |sarja|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
-|sarvikuono|faru|swa:kifaru, kon:kifalu|
 |sarvi|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |satakieli|bulbul|may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol), kaz:бұлбұл (bulbul)|
 |sattuma (onni)|zar|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
@@ -731,7 +732,7 @@
 |sementti|semente|eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|
 |seura|socia|rus:социум (socium), eng:society, spa:sociedad|
 |side (remmi)|faxe|ita:fascia, por:faixa, spa:faja|
-|siemen|dan|hin:(dānā), tur:tane, jpn:(tane), + zho:列 (dàn), vie:đạn|
+|siemen|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sieni|funge|eng:fungus, fra:fongus, por:fungo, spa:hongo|
 |sihistä|ziza|zho:zizi eng:sizzle|
 |siirappi|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
@@ -748,6 +749,7 @@
 |sisus (sisäpuoli)|inde|eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|
 |sitruuna|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
 |sivistynyt|sivili|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
+|sivu (kylki, puoli)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |smaragdi|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
 |sohva|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |sokeri|xukar|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
@@ -868,6 +870,7 @@
 |tupakka|tabake|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|
 |turbaani|pagre|hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)|
 |turkoosi|firuze|per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|
+|turvallinen (varma)|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |tutkia|genca|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
 |tuuli (puhallus)|hawe|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
 |tyhjä|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|

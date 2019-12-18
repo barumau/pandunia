@@ -99,7 +99,7 @@ balon - balon
 bambus - banse  
 banan - banan  
 bandaż, taśma, wstążka - faxe  
-Bangladesz - bangledexia  
+Bangladesz - banglodexia  
 bank - banke  
 bankier - banker  
 baobab - buy  
@@ -131,7 +131,7 @@ Bermudy - bermudia
 beryl - beril  
 beton - beton  
 bez - na  
-bezpieczny - sekur  
+bezpieczny - sekuri  
 Bhutan - drugia  
 Białoruś - belorusia  
 biały - baki  
@@ -361,7 +361,7 @@ dusza, duch, umysł - ruhe
 duży - day  
 dwa (2) - dul  
 dwukrotnie (dwa razy) - dul ban  
-dwutlenek węgla - karbondulokside  
+dwutlenek węgla - karbonodulokside  
 dym - duman  
 dyrektor szkoły - darsoxef  
 dysk - diske  
@@ -448,7 +448,7 @@ ferm - fermium
 Fidżi - fijia  
 figura, reprezentacja - figur  
 Filipiny - filipinia  
-filiżanka do kawy - kafekupe  
+filiżanka do kawy - kafokupe  
 film - filme  
 filozof - filsofer  
 filozofia - filsofia  
@@ -590,7 +590,7 @@ Hiszpania - espania
 hmm - hem  
 hobby - hobe  
 hokej - hoke  
-hokej na lodzie - aisehoke  
+hokej na lodzie - aisohoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
 homoseksualny - samjinsokami  
@@ -693,7 +693,7 @@ Jupiter - muxing
 jutro - badi den  
 już (skończona czynność) - lew  
 język surinamski - surinami bax  
-język sztuczny - sanebax  
+język sztuczny - sanobax  
 język świata, język ogólnoświatowy - dunia bax  
 język; komunikacja - bax  
 językoznastwo - baxolojia  
@@ -715,7 +715,7 @@ Kanada - kanadia
 kanał - kanal  
 kangur - kangur  
 kannada - karnadi  
-kanoe - kanuh  
+kanoe - kanoe  
 kanonier - kanoner  
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
@@ -759,7 +759,7 @@ klawiatura - butonbanze
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
 klimat - klime  
-klimatologia - klimelojia  
+klimatologia - klimolojia  
 klon, replika - klon  
 klonować, repilikować - klona  
 klub - klube  
@@ -935,7 +935,7 @@ lit - litium
 litera, znak - harfe  
 litr - litre  
 lodowy - aisi  
-lody - aisekrem  
+lody - aisokrem  
 logika, dedukcja - logike  
 logofil (miłośnik słów) - logofiler  
 lorens - laurensium  
@@ -1049,7 +1049,7 @@ mieć (posiadać) - malka
 mieć (trzymać) - tena  
 migdał - badam  
 migracja - migre  
-mikro- - mikr-  
+mikro- - mikro-  
 Mikronezja - mikronesia  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixa  
@@ -1062,7 +1062,7 @@ minimal - minimi
 minimalizm - minimalistia  
 minister - minister  
 ministry - ministeria  
-minuta - minut  
+minuta - minute  
 minąć, mijać (czas) - duru  
 minąć, mijać, przeminąć, przemijać - pasa  
 misja - misia  
@@ -1089,7 +1089,7 @@ molibden - molidenum
 moment - sate  
 Monako - monakia  
 monarchia - monokratia  
-moneta - pesediske  
+moneta - pesodiske  
 Mongolia - mongolia  
 Mongolski - mongol  
 monizm - monistia  
@@ -1220,9 +1220,9 @@ norma, standard - norme
 normalny, standardowy - normi  
 Norwegia - norgia  
 norweski - norgi  
-nos - nos  
+nos - nose  
 nosić ubrania - fuka  
-nosorożec - faru  
+nosorożec - kornonos  
 notatka, memo - memnote  
 notatnik - notobuke  
 notować, obserwować, zauważyć, zauważać - nota  
@@ -1411,7 +1411,7 @@ pierdzieć - peda
 pierwszy, numer jeden - nume un  
 pierwszy, początkowy - muli  
 pierś - sine  
-pierścień, pierścionek; obrączka - fingewen  
+pierścień, pierścionek; obrączka - fingowen  
 pies - waf  
 piknik - piknike  
 pilaw - polaw  
@@ -1522,7 +1522,7 @@ porażka (niepowodzenie, klapa) - xibay
 porcja, dawka - doze  
 porno, film erotyczny - porne  
 pornografia - pornografia  
-porozumienie - samray  
+porozumienie - samoray  
 Portugalia - portugalia  
 porywacz pociągu - trenkaper  
 porywacz samolotu - vimankaper  
@@ -1537,10 +1537,10 @@ pot - suede
 potas - kalium  
 potrzebny - nidi  
 potrzebować - nida  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraya  
+potwierdzić, potwierdzać, zgodzić się, zgadzać się - samoraya  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notisa  
-powierzchnia - fas  
+powierzchnia - fase  
 powierzchnia, region, teren - aria  
 powiesić, wieszać - penda  
 powietrze - air  
@@ -1611,7 +1611,7 @@ przeciekać, ciec - lowa
 przecinek - kome  
 przeciwnik (antagonista) - anter  
 przeciwstawny (naprzeciw, naprzeciwko, anty-) - anti  
-przedpołudnie - subeden  
+przedpołudnie - suboden  
 przedłużyć, przedłużać - longa  
 przegrany, pokonany - luzer  
 przegrać, przegrywać - luza  
@@ -1655,12 +1655,12 @@ przyrostek dla wsperającego ideę - iste
 przyrostek dla wykonawcy - er  
 przystojny, atrakcyjny, ładny - bon rupi  
 przyszłość - wile  
-prędkościomierz - rapidemeter  
+prędkościomierz - rapidometer  
 prędkość (szybkość) - rapide  
 pręt, kij - baton  
-psychologia - ruhelojia  
+psychologia - ruholojia  
 ptak - pakse  
-puder - mukefun  
+puder - mukofun  
 pudełko, skrzynia - kaxe  
 puding - puding  
 pudło, skrzynia - sanduke  
@@ -1693,7 +1693,7 @@ rada, porada - mente
 radio - radi geter  
 radioaktywność - ioni radia  
 radioaktywny - ioni radi  
-radoiometr - radiometer  
+radoiometr - radometer  
 radon - radon  
 rakieta - rokete  
 Ramadan - ramazan  
@@ -1726,11 +1726,11 @@ robak - verme
 robot - robote  
 rocznica - nenfeste  
 rod - rodium  
-rodak, ziomek, krajan - samdexi  
+rodak, ziomek, krajan - samodexi  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - saudar  
 rodzina - famil  
-rodzynka - ganputaw  
+rodzynka - ganoputaw  
 roentgen - rengenium  
 rok - nen  
 rola - rol  
@@ -1814,7 +1814,7 @@ sałatka - salade
 scena - sen  
 schody (drabina) - eskal  
 seaborg - seaborgium  
-sejsmologia - sismelojia  
+sejsmologia - sismolojia  
 sekret - sir  
 sekretariat - sekreteria  
 sekretarz - sekreter  
@@ -1919,7 +1919,7 @@ stać - libu
 sterburta (prawa burta) - botoraite  
 sterować - gida  
 sto (##) - hon  
-stolarz - mokejanger  
+stolarz - mokojanger  
 stop; przerwa, zatrzymanie - ting  
 stopa - fute  
 stoper - sekundometer  
@@ -2019,7 +2019,7 @@ Tajpej - taibey
 tajski - tayi  
 Tajwan, Republika Chińska - taiwania  
 tak - si  
-taki sam - sam  
+taki sam - sami  
 taktyka, strategia - tatike  
 tal - talium  
 talerz - plate  
@@ -2039,7 +2039,7 @@ tchórz, fretka - furete
 technet - teknetium  
 technika, technologia - tekne  
 technokracja - teknokratia  
-technologia, nauka o technikach - teknelojia  
+technologia, nauka o technikach - teknolojia  
 teistyczny - dewiste  
 teizm - dewistia  
 telefon - telfon  
@@ -2059,7 +2059,7 @@ teoria - teoria
 teraźniejszość, współczesność (teraz) - zaye  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
-termometr - termemeter  
+termometr - termometer  
 terror - teror  
 terrorysta - teroriste  
 terroryzm - teroristia  
@@ -2101,7 +2101,7 @@ turban - pagre
 Turcja - turkia  
 turecki - turki  
 Turek osmański - osman  
-Turkmenistan - turkemenia  
+Turkmenistan - turkomenia  
 turkus - firuze  
 turysta - safariste  
 turystyka - safaristia  
@@ -2252,7 +2252,7 @@ wiosna - cune
 wirus - virus  
 wirusologia - viruslojia  
 witaj, dobre przybycie - salam laye  
-witryna internetowa (portal internetowy) - neteloke  
+witryna internetowa (portal internetowy) - netoloke  
 wiwatować; hura - ura  
 wiza - vize  
 wizyta - vizite  
@@ -2411,7 +2411,7 @@ zemleć, mleć, mielić - mola
 zero, nic, żaden - nol  
 zespół (drużyna, grupa) - bande  
 zewnętrzny - way  
-ziarno, nasienie - dan  
+ziarno, nasienie - semodan  
 zielony - lugi  
 Ziemia - zemia  
 ziemia, grunt, gleba - zem  
@@ -2422,7 +2422,7 @@ Zimbabwe - zimbabwia
 zimny, chłodny - lengi  
 Zjednoczone Królestwo - britania  
 zjednoczony - uni  
-zmiana klimatu - klimemute  
+zmiana klimatu - klimomute  
 zmienić, zmieniać - muta  
 zmierzyć - meta  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - musa  
@@ -2456,7 +2456,7 @@ ząb - dante
 zęwnętrzny - waye  
 złapać, łapać, schwytać, chwytać - kapa  
 złodziej - corer  
-złoto - gim  
+złoto - aur  
 złośliwy, okrutny - zalim  
 zły (wsciekły, gniewny) - furi  
 zły - mal  
@@ -2471,7 +2471,7 @@ zły, zrujnowany, zepsuty - harabi
 łazienka - banyokamar  
 łańcuch - silsil  
 łyżka - camce  
-łza - kansuy  
+łza - kanosuy  
 łódź, statek - bote  
 łóżko - bede  
 łączyć, wiązać, złączyć - samuna  
@@ -2480,7 +2480,7 @@ zły, zrujnowany, zepsuty - harabi
 śmiać się - haha  
 śmierć - morte  
 śmieć, odpadek - laje  
-śniadanie - subeniam  
+śniadanie - suboniam  
 śnieg - him  
 śpiewać - canta  
 średni - medi  

@@ -10,8 +10,8 @@ adalia - justicia
 afrike - África  
 agres - ataque  
 airporte - aeropuerto  
-aisehoke - hockey sobre hielo  
-aisekrem - helado  
+aisohoke - hockey sobre hielo  
+aisokrem - helado  
 ajil - ágil  
 akse - eje  
 aksente - acento  
@@ -21,6 +21,7 @@ alkol - alcohol
 alkoli - alcohólico  
 almar - armario  
 almas - diamante  
+aloraya - no estar de acuerdo  
 altar - altar  
 analis - análisis  
 ande - huevo  
@@ -41,6 +42,7 @@ asle - origen
 asli - original  
 asme - asma  
 aspirin - aspirina  
+aur - oro  
 aventur - aventura  
 aventurer - aventurero  
 ay - ay!  
@@ -69,7 +71,7 @@ baskobol - baloncesto
 batre - pila (batería)  
 bax - lengua (idioma)  
 baze - base  
-ben - lado  
+beker - panadero  
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
@@ -103,6 +105,7 @@ eskulter - escultor
 esten - estaño  
 ewanjil - evangelio  
 ##f
+fase - faz (faceta)  
 fata - hacer  
 favori - favorito (preferido)  
 faze - etapa (fase)  
@@ -121,7 +124,6 @@ gamohal - humor
 gas - gas  
 gati - duro  
 gatomate - sólido  
-gim - oro  
 gitar - guitarra  
 gol - meta (gol)  
 grupe - grupo  
@@ -166,7 +168,8 @@ kafe - café
 kagaze - papel  
 kamote - camote (batata)  
 kance - vidrio (cristal)  
-kansuygas - gas lacrimógeno  
+kanoe - canoa  
+kanosuyogas - gas lacrimógeno  
 karawe - carvis (alcaravea)  
 karte - mapa  
 kartografia - cartografía  
@@ -180,11 +183,12 @@ kitaba - escribir
 kitabe - escritura  
 kitabia - biblioteca  
 kitabomaxin - máquina de escribir  
-klimemute - cambio climático  
+klimomute - cambio climático  
 ko - que (como)  
 ko? - cómo  
 komputer - ordenador  
 koncung - insecto  
+korne - corno  
 koron - corona  
 kosmi - cósmico  
 kosmia - cosmos  
@@ -195,6 +199,8 @@ kupe - copa (vaso)
 ##l
 lasker - soldado  
 laskeria - ejército  
+late - lado (flanco)  
+lati - lateral  
 lawi - anciano  
 lazanye - lasaña  
 leksaslia - etimología  
@@ -231,7 +237,7 @@ maye - hormigo
 mede - medio  
 medi - médio  
 megam - nube  
-megegram - tonelada  
+megogram - tonelada  
 mel - miel  
 mem - memoria  
 mema - acordarse  
@@ -249,13 +255,14 @@ mode - modo (manera, forma)
 molia - molino  
 mome - nosotros  
 monistia - monismo  
+muke - cara (rosto)  
 mula - comenzar (iniciar, empezar)  
 ##n
 na - sin  
 nanas - piña  
 nasia - nación  
 nefre - riñon  
-neuresel - neurona  
+neurosel - neurona  
 nida - necesitar  
 nide - necesidad  
 nidi - necesario  
@@ -298,7 +305,7 @@ pay - pastel (pay)
 peda - peer  
 pede - pedo  
 pelmen - empanadilla (pelmeni)  
-pesediske - moneda  
+pesodiske - moneda  
 petre - piedra  
 piaze - cebolla  
 pike - cima (pico, cumbre, vértice)  
@@ -328,6 +335,8 @@ rezerve - réservation
 rici - rico  
 rim - rima  
 rize - raiz  
+rose - rocío  
+roze - rosa  
 ##s
 sahi - correcto (justo)  
 sake - saco  
@@ -335,14 +344,17 @@ sal - sal
 salame - saludo  
 sali - salino  
 saman - cielo  
-samray - acuerdo  
+samoray - acuerdo  
 samude - mar  
 samudi - marítimo  
 sang - sangre  
 sapate - sapato  
 sar - cabeza  
 sekse - sexo  
+sekuri - seguro  
 selolojia - citología  
+seme - semilla  
+semi - seminal  
 serye - serie  
 si - sí  
 sikle - bicicleta  
@@ -390,6 +402,7 @@ wal - muro (muralha)
 walpapir - papel tapiz  
 wan - deseo  
 wana - querer (desear)  
+warkolate - página  
 werka - trabajar  
 werke - trabajo  
 werker - trabajador (obrero)  

@@ -27,8 +27,8 @@ agres - agression (attaque)
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
 airporte - aéroport  
-aisehoke - hockey sur glace  
-aisekrem - crème glacée  
+aisohoke - hockey sur glace  
+aisokrem - crème glacée  
 ajil - agile  
 akse - axe  
 aksente - accent  
@@ -87,6 +87,7 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+aur - or  
 aventur - aventure  
 aventurer - aventurier  
 ay - aïe!  
@@ -125,7 +126,7 @@ bax - langue
 bazar - marché (bazar)  
 baze - base  
 bebe - bébé  
-ben - coté  
+beker - boulanger  
 bere - baie  
 bina - construire  
 bir - bière  
@@ -171,6 +172,7 @@ europe - Europe
 europi - européen  
 ewanjil - évangile  
 ##f
+fase - face (facette)  
 fata - faire  
 favori - favori (préféré)  
 filsofia - philosophie  
@@ -188,7 +190,6 @@ gar - si
 gas - gaz  
 gati - dur  
 gazel - gazelle  
-gim - or  
 gitar - guitare  
 gol - but  
 grupe - groupe  
@@ -237,8 +238,9 @@ kamar - pièce (chambre)
 kamis - chemise  
 kanape - canapé (sofa)  
 kance - verre  
-kansuygas - gaz lacrymogène  
-karbondulokside - dioxyde de carbone  
+kanoe - canoë  
+kanosuyogas - gaz lacrymogène  
+karbonodulokside - dioxyde de carbone  
 karde - carte  
 karte - carte  
 kartografia - cartographie  
@@ -252,11 +254,12 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
-klimemute - changement climatique  
+klimomute - changement climatique  
 ko - que (comme)  
 ko? - comment  
 komputer - ordinateur  
 koncung - insecte  
+korne - corne  
 koron - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
@@ -267,6 +270,8 @@ kupe - coupe (tasse, verre)
 ##l
 lasker - soldat  
 laskeria - armée  
+late - côté  
+lati - latéral  
 lawi - vieux (âgé, ancien)  
 lazanye - lasagne  
 leksaslia - étymologie  
@@ -326,11 +331,12 @@ misria - Égypte
 mode - mode (façon, manière)  
 molia - moulin  
 mome - nous  
+muke - visage  
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
 nefre - rein  
-neuresel - neurone  
+neurosel - neurone  
 nida - avoir besoin de  
 nide - besoin  
 nidi - nécessaire  
@@ -375,7 +381,7 @@ pay - tarte
 peda - péter  
 pede - pet (vesse)  
 pese - argent  
-pesediske - monnaie (pièce)  
+pesodiske - monnaie (pièce)  
 piaze - oignon  
 pike - cime (pic, sommet)  
 pin - épingle  
@@ -401,8 +407,11 @@ rici - riche
 rim - rime  
 rize - racine  
 robote - robot  
+rose - rosée  
+rosta - rôtir  
+roze - rose  
 ruhe - psyché  
-ruhelojia - psychologie  
+ruholojia - psychologie  
 ##s
 safariste - touriste  
 sahi - correct (juste)  
@@ -410,13 +419,16 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
-samray - accord  
+samoray - accord  
 samude - mer  
 sang - sang  
 sanwice - sandwich  
 sar - tête  
 sekse - sexe  
+sekuri - sûr  
 selolojia - cytologie  
+seme - semence  
+semi - séminal  
 serye - série  
 si - oui  
 sikle - bicyclette  
@@ -440,7 +452,7 @@ tarje - traduction
 tazi - frais  
 te - tu  
 tekne - technique  
-teknelojia - technologie  
+teknolojia - technologie  
 telfon - téléphone  
 telvide - téléviseur  
 teme - sujet (thème)  
@@ -482,6 +494,7 @@ vulve - vulve
 wal - mur  
 walpapir - papier peint  
 wana - vouloir  
+warkolate - page  
 weki - éveillé  
 werka - travailler  
 werke - travail  

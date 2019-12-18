@@ -12,8 +12,8 @@ adulte - 成年人
 agres - 攻击  
 airporte - 飞机场  
 ais - 冰  
-aisehoke - 冰球  
-aisekrem - 冰淇淋  
+aisohoke - 冰球  
+aisokrem - 冰淇淋  
 ajil - 灵活的  
 akse - 轴线  
 aksente - 重音符号  
@@ -22,6 +22,7 @@ ali - 另一
 alkol - 酒  
 almar - 碗碟橱  
 almas - 钻石  
+aloraya - 不同意  
 altar - 圣坛  
 ama - 爱  
 analis - 分析  
@@ -45,6 +46,7 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
+aur - 金  
 aventur - 冒险  
 aventurer - 冒险者  
 ##b
@@ -80,7 +82,6 @@ baxolojia - 白色
 bazar - 市场  
 baze - 底部  
 bebe - 宝宝  
-ben - 边 (坡)  
 bere - 浆果 (莓)  
 bil - 帐单  
 bina - 建设  
@@ -121,6 +122,7 @@ esa - 对
 esten - 锡  
 ewanjil - 福音  
 ##f
+fase - 面  
 fem - 女  
 filsofia - 哲学  
 fiorde - 峡湾  
@@ -136,7 +138,6 @@ gar - 如果 (要是)
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
-gim - 金  
 gitar - 吉他  
 gol - 目的  
 gundarme - 道德  
@@ -187,8 +188,8 @@ kamis - 衬衫
 kanape - 沙发  
 kance - 玻璃  
 kande - 糖果  
-kansuygas - 催泪瓦斯  
-karbondulokside - 二氧化碳  
+kanosuyogas - 催泪瓦斯  
+karbonodulokside - 二氧化碳  
 karde - 牌  
 karte - 地图  
 kartografia - 地图学  
@@ -197,13 +198,14 @@ kava - 挖
 kave - 坑 (穴)  
 ke - 什么  
 keci - 客气  
+kenar - 边  
 kerne - 核心  
 kimia - 化学  
 kirmi - 红  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
-klimemute - 气候变化  
+klimomute - 气候变化  
 ko - 比  
 ko? - 怎么  
 komputer - 计算机  
@@ -216,6 +218,7 @@ kupe - 杯子
 ##l
 lantan - 鑭  
 laskeria - 军队  
+late - 侧面 (旁边)  
 lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  
@@ -268,7 +271,7 @@ misria - 埃及
 mita - 聚会  
 mite - 会议  
 moke - 木材  
-mokejanger - 木匠  
+mokojanger - 木匠  
 molia - 磨坊  
 mome - 我们  
 mula - 开始  
@@ -314,7 +317,7 @@ peda - 放屁
 pede - 屁  
 pelmen - 饺子  
 pese - 钱  
-pesediske - 硬币  
+pesodiske - 硬币  
 piaze - 洋葱  
 pil - 皮  
 pin - 别针  
@@ -336,6 +339,7 @@ reste - 其余
 retra - 返回 (回来)  
 retrotikete - 往返票  
 rize - 根  
+roze - 玫瑰  
 ##s
 sabun - 肥皂  
 safar - 旅行  
@@ -343,7 +347,7 @@ sahi - 正确
 sal - 盐  
 salame - 迎接  
 saman - 天空  
-samray - 一致  
+samoray - 一致  
 samude - 海  
 sang - 血  
 sanwice - 三明治 (三文治)  
@@ -351,6 +355,9 @@ sapate - 鞋
 sar - 头  
 sekse - 性别  
 selolojia - 细胞学  
+seme - 种  
+semi - 种子的  
+semodan - 种子  
 serye - 系列  
 si - 对 (是)  
 sikliste - 骑自行车的人  
@@ -373,7 +380,7 @@ tarje - 翻译
 tazi - 新鲜的  
 te - 你  
 tekne - 技术  
-teknelojia - 工艺学  
+teknolojia - 工艺学  
 telfon - 电话机  
 telvide - 电视机  
 teme - 主题目  

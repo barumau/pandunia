@@ -30,8 +30,9 @@ ainstainium - ejnŝtejnio
 air - aero  
 airporte - flughaveno  
 ais - glacio  
-aisekrem - glaciaĵo  
 aisi - glacia  
+aisokrem - glaciaĵo  
+aisu - glaciiĝi (frostiĝi)  
 ajil - lerta  
 akse - akso  
 aksente - akcento  
@@ -44,6 +45,7 @@ almas - diamanto
 alo - alie  
 alofone - alofono  
 alonami - tio estas (alivorte)  
+aloraya - malkonsenti  
 aloseksi - samseksema  
 altar - altaro  
 alumin - aluminio  
@@ -93,6 +95,7 @@ asme - astmo
 aspirin - aspirino  
 atom - atomo  
 auda - aŭdi (aŭskulti)  
+aur - oro  
 australia - Aŭstralio  
 automoti - memmova  
 aventur - aventuro  
@@ -123,8 +126,8 @@ balon - balono
 ban - fojo  
 banan - banano  
 bandir - flago  
-bangledexi - bangladeŝa  
-bangledexia - Bangladeŝo  
+banglodexi - bangladeŝa  
+banglodexia - Bangladeŝo  
 banke - banko  
 banker - bankisto  
 banse - bambuo  
@@ -171,11 +174,9 @@ bekeria - bakejo
 belgia - Belgio  
 belizia - Beliceo  
 belorusia - Belorusio  
-ben - flanko (latero)  
 bence - benko  
 benda - ligi  
 bende - bandaĝo (vindo)  
-beni - flanka (latera)  
 benzin - benzino  
 berande - verando  
 berete - bereto  
@@ -290,7 +291,6 @@ daixer - ambasadoro
 daixeria - ambasado  
 damaje - damaĝo  
 damaji - damaĝa  
-dan - semo  
 dania - Danio  
 danka - danki  
 danke - danko  
@@ -432,8 +432,7 @@ fantaze - fantazio
 fantazi - fantazia  
 fantom - fantomo  
 farsi - persa  
-faru - rinocero  
-fas - surfaco  
+fase - surfaco  
 fasin - fascinado  
 fata - fari  
 fate - faro  
@@ -467,7 +466,7 @@ filter - filtri
 fin - fino  
 fina - fini  
 finge - fingro  
-fingewen - ringo  
+fingowen - ringo  
 fini - lasta  
 fiorde - fjordo  
 firuze - turkiso  
@@ -529,7 +528,7 @@ gang - ĵus
 ganga - Gangoj  
 gani - seka  
 ganje - kanabo  
-ganputaw - sekvinbero  
+ganoputaw - sekvinbero  
 ganya - akiri (gajni)  
 gar - se  
 garante - garantio  
@@ -550,7 +549,6 @@ germanium - germaniumo
 geta - akiri (ricevi, preni)  
 gey - samseksema  
 gida - stiri  
-gim - oro  
 gitar - gitaro  
 glute - gluo  
 gluten - gluteno  
@@ -732,8 +730,8 @@ jus - suko
 ##k
 kadomium - kadmio  
 kafe - kafo  
-kafekupe - kaftaso  
 kaferia - kafejo  
+kafokupe - kaftaso  
 kagaze - papero  
 kakaw - kakao  
 kake - feko  
@@ -755,10 +753,10 @@ kance - vitro
 kande - bombono  
 kangur - kangaro  
 kanjar - ponardo  
+kanoe - kanuo (kanoto)  
 kanon - kanono  
 kanoner - kanonisto  
 kante - ŝultro  
-kanuh - kanuo (kanoto)  
 kanun - lego  
 kapa - kapti  
 kar - aŭto (ĉaro)  
@@ -766,7 +764,7 @@ karate - karateo
 karawe - karvio  
 karbi - proksima  
 karbon - karbono  
-karbondulokside - karbona dioksido  
+karbonodulokside - karbona dioksido  
 karde - karto  
 karibia - Karibio  
 karma - agi  
@@ -813,7 +811,7 @@ kiwe - kivo
 klar - klara  
 klara - klarigi  
 klime - klimato  
-klimelojia - klimatscienco  
+klimolojia - klimatscienco  
 klon - klono  
 klona - kloni  
 klor - kloro  
@@ -839,6 +837,7 @@ kontra - kontraŭ
 kope - kopio  
 kopernikium - kopernicio  
 korne - korno  
+kornonos - rinocero  
 koron - krono  
 korta - mallongigi  
 korti - mallonga  
@@ -878,6 +877,8 @@ lanca - ĵeti (lanĉi)
 lanten - lanterno  
 lasker - soldato  
 laskeria - armeo  
+late - flanko (latero)  
+lati - flanka (latera)  
 latvia - Latvio  
 laurensium - laŭrencio  
 laya - veni  
@@ -885,7 +886,6 @@ le - li aŭ ŝi aŭ ĝi
 lekin - tamen  
 leksaslia - etimologio  
 lekse - vorto  
-lekseliste - vortaro  
 leksia - vortaro  
 leksoliste - vortaro  
 lengi - malvarma  
@@ -991,7 +991,7 @@ mianmia - Birmo
 mien - nudelo  
 migan - mandarino  
 migre - migrado  
-mikr- - mikro-  
+mikro- - mikro-  
 milke - lakto  
 milo- - mili-  
 milometre - milimetro  
@@ -1002,7 +1002,7 @@ mini - eta
 minim - malplej  
 minister - ministro  
 minus - escepte  
-minut - minuto  
+minute - minuto  
 mira - speguli  
 mirer - spegulo  
 mirosonde - eĥo  
@@ -1069,8 +1069,8 @@ neptun - Neptuno
 neptunium - neptunio  
 nete - reto  
 neure - nervo  
-neuresel - neŭrono  
 neuri - nerva  
+neurosel - neŭrono  
 niama - manĝi (trinki)  
 niamkamar - manĝoĉambro  
 nida - bezoni  
@@ -1164,7 +1164,7 @@ penta - pentri
 pepin - kukumo  
 per - plumo  
 pese - mono  
-pesediske - monero  
+pesodiske - monero  
 petre - ŝtono  
 pexe - metiero  
 pian - piano  
@@ -1261,7 +1261,7 @@ rose - roso
 roze - rozo  
 rubidium - rubidio  
 ruhe - animo (psiko)  
-ruhelojia - psikologio  
+ruholojia - psikologio  
 ruke - dorso  
 rupe - aspekto  
 ruste - vilaĝo  
@@ -1296,19 +1296,19 @@ salam xam - Bonan vesperon
 salama - saluti  
 salame - saluto  
 sali - sala  
-sam - sama  
 saman - ĉielo  
 samarium - samario  
-samdexi - samlandano  
+sami - sama  
 samjinsokami - samseksema  
-samray - interkonsento  
-samraya - samopinii (interkonsenti)  
+samodexi - samlandano  
+samoray - interkonsento  
+samoraya - samopinii (interkonsenti)  
 samude - maro  
 samudi - mara  
 sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
-sanebax - artefarita lingvo  
 sang - sango  
+sanobax - artefarita lingvo  
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
@@ -1324,6 +1324,8 @@ selen - seleno
 selolojia - citologio  
 sem - sep (7)  
 seman - semajno  
+seme - semo  
+semi - sema  
 senta - senti  
 serbia - Serbio  
 serebre - cerbo  
@@ -1342,7 +1344,7 @@ singapur - Singapuro
 sinkase - torako  
 sirke - vinagro  
 sisme - tertremo  
-sismelojia - sismologio  
+sismolojia - sismologio  
 sistem - sistemo  
 site - urbego  
 skandium - skandio  
@@ -1403,8 +1405,8 @@ tayia - Tajlando
 tazi - freŝa  
 te - vi (ci)  
 tekne - tekniko  
-teknelojia - teknologio  
 teknetium - teknecio  
+teknolojia - teknologio  
 tele - malproksimeco  
 telfon - telefono  
 teli - malproksima  
@@ -1420,7 +1422,7 @@ tenu - aparteni
 teoria - teorio  
 tepe - bendo  
 terbium - terbio  
-termemeter - termometro  
+termometer - termometro  
 teror - teroro  
 teroriste - teroristo  
 teroristia - terorismo  
@@ -1489,6 +1491,7 @@ wada - promesi
 walpapir - tapeto  
 wan - volo  
 wana - voli  
+warkolate - paĝo  
 wase - oazo  
 wate - vato  
 waw - ŭaŭ!  

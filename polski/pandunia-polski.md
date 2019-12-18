@@ -31,9 +31,9 @@ air - powietrze
 airbare - ciśnienie atmosferyczne  
 airbarmeter - barometr  
 ais - lód  
-aisehoke - hokej na lodzie  
-aisekrem - lody  
 aisi - lodowy  
+aisohoke - hokej na lodzie  
+aisokrem - lody  
 ajil - zwinny, sprawny  
 akse - oś  
 aksente - akcent, nacisk  
@@ -101,6 +101,7 @@ aspirin - aspiryna
 ate - jabłko cukrowe  
 atom - atom  
 auda - usłyszeć, słyszeć; słuchać  
+aur - złoto  
 australia - Australia  
 automoti - samobieżny  
 autonomi - autonomiczny  
@@ -137,7 +138,7 @@ ban - czas; okazja
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
-bangledexia - Bangladesz  
+banglodexia - Bangladesz  
 banka - oszczędzać, deponować  
 banke - bank  
 banker - bankier  
@@ -338,7 +339,6 @@ dalila - dowieść, dowodzić; zeznać, zeznawać
 damaje - obrażenia (rana, krzywda)  
 damaji - krzywdzący (szkodliwy)  
 damogem - warcaby  
-dan - ziarno, nasienie  
 dania - Dania  
 danka - dziękować  
 danke - dzięki, dzięki ci  
@@ -518,8 +518,7 @@ fantaze - fantazja (wyobrażenie, wyobraźnia)
 fantazi - fantastyczny, fantazyjny  
 fantom - duch, fantom  
 farsi - Pers; perski, farsi  
-faru - nosorożec  
-fas - powierzchnia  
+fase - powierzchnia  
 fasin - fascynacja  
 fata - zrobić (stworzyć, wykreować)  
 fate - czyn, uczynek  
@@ -566,7 +565,7 @@ filter - filtr
 fin - koniec  
 fina - skończyć, kończyć  
 finge - palec  
-fingewen - pierścień, pierścionek; obrączka  
+fingowen - pierścień, pierścionek; obrączka  
 fini - ostatni, końcowy  
 fiorde - fiord  
 firuze - turkus  
@@ -638,7 +637,7 @@ ganga - Ganges
 gani - suchy  
 gania - Ghana  
 ganje - konopie  
-ganputaw - rodzynka  
+ganoputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
@@ -662,7 +661,6 @@ geter - odbiorca
 gey - gejowski (homoseksualny)  
 gida - sterować  
 gigo- - bilion, giga-  
-gim - złoto  
 gitar - gitara  
 giyania - Gujana Francuska  
 glute - klej  
@@ -924,9 +922,9 @@ kabin - kabina, budka
 kadomium - kadm  
 kafas - klatka  
 kafe - kawa  
-kafekupe - filiżanka do kawy  
 kaferia - kawiarnia  
 kafir - niewierny (poganin, niewierzący)  
+kafokupe - filiżanka do kawy  
 kagaze - papier  
 kaka - defekować, srać  
 kakaw - kakao  
@@ -956,11 +954,11 @@ kande - cukierek, słodycze
 kange - grzebień  
 kangur - kangur  
 kanjar - sztylet (puginał)  
+kanoe - kanoe  
 kanon - działo  
 kanoner - kanonier  
-kansuy - łza  
+kanosuy - łza  
 kante - bark (ramię)  
-kanuh - kanoe  
 kanun - prawo  
 kapa - złapać, łapać, schwytać, chwytać  
 kapitan - kapitan  
@@ -970,7 +968,7 @@ karate - karate
 karawe - kminek  
 karbi - bliski  
 karbon - węgiel  
-karbondulokside - dwutlenek węgla  
+karbonodulokside - dwutlenek węgla  
 karde - karta  
 karibia - Karaiby  
 karite - masłosz Parka  
@@ -1043,8 +1041,8 @@ klara - wyklarować (rozjaśnić)
 klas - klasa, kategoria  
 klasa - klasyfikować, kategoryzować  
 klime - klimat  
-klimelojia - klimatologia  
-klimemute - zmiana klimatu  
+klimolojia - klimatologia  
+klimomute - zmiana klimatu  
 klon - klon, replika  
 klona - klonować, repilikować  
 klor - chlor  
@@ -1097,6 +1095,7 @@ kopernikium - kopernik
 kopohake - prawa autorskie  
 kor - chór  
 korne - róg  
+kornonos - nosorożec  
 koron - korona  
 korta - skrócić, skracać  
 korti - krótki  
@@ -1399,7 +1398,7 @@ mianmia - Mjanma, Birma
 mien - makaron  
 migan - mandarynka  
 migre - migracja  
-mikr- - mikro-  
+mikro- - mikro-  
 mikronesia - Mikronezja  
 milke - mleko  
 milo- - mili-  
@@ -1418,7 +1417,7 @@ ministeria - ministry
 minor - mniejszościowy  
 minoria - mniejszość  
 minus - oprócz, minus  
-minut - minuta  
+minute - minuta  
 mira - odbić, odbijać  
 mirer - lustro  
 mirosonde - echo  
@@ -1436,7 +1435,7 @@ mixer - mikser, blender, robot kuchenny
 model - model, wzór, wzorzec, projekt  
 moge - tusz  
 moke - drewno  
-mokejanger - stolarz  
+mokojanger - stolarz  
 mola - zemleć, mleć, mielić  
 moldovia - Mołdawia  
 moler - młynarz  
@@ -1474,7 +1473,7 @@ mudan - piwonia
 muh - krowa  
 muhomanse - wołowina  
 muke - twarz  
-mukefun - puder  
+mukofun - puder  
 mul - początek  
 mula - zacząć, zaczynać  
 muli - pierwszy, początkowy  
@@ -1538,7 +1537,7 @@ neptunium - neptun
 nes - wyspa  
 nesia - archipelag  
 nete - sieć  
-neteloke - witryna internetowa (portal internetowy)  
+netoloke - witryna internetowa (portal internetowy)  
 niam - jedzenie, posiłek  
 niama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 niami - pyszny  
@@ -1582,7 +1581,7 @@ norgi - norweski
 norgia - Norwegia  
 norme - norma, standard  
 normi - normalny, standardowy  
-nos - nos  
+nose - nos  
 nota - notować, obserwować, zauważyć, zauważać  
 note - uwaga, obserwacja  
 notis - wiadomość, zawiadomienie, powiadomienie  
@@ -1721,7 +1720,7 @@ pepin - ogórek
 per - pióro  
 peruvia - Peru  
 pese - pieniądze  
-pesediske - moneta  
+pesodiske - moneta  
 petre - kamień  
 pexe - profesja, zajęcie, zawód  
 pey - zapłata, opłata  
@@ -1843,8 +1842,8 @@ rade - promień
 radi geter - radio  
 radi miser - nadajnik radiowy  
 radia - promieniowanie  
-radiometer - radoiometr  
 radium - rad  
+radometer - radoiometr  
 radon - radon  
 raite - prawa strona  
 raitiste - prawicowiec (prawak)  
@@ -1857,8 +1856,8 @@ randa - heblować
 rander - hebel, strug  
 rang - kolor  
 rapide - prędkość (szybkość)  
-rapidemeter - prędkościomierz  
 rapidi - szybki, prędki  
+rapidometer - prędkościomierz  
 ras - rasa  
 rasiste - rasista  
 rasistia - rasizm  
@@ -1926,8 +1925,8 @@ rozrangi - różowy, różany
 ruandia - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
-ruhelojia - psychologia  
 ruhi - umysłowy (psychiczny)  
+ruholojia - psychologia  
 ruke - placy  
 ruksake - plecak  
 rul - rulon (rolka, zwój)  
@@ -1984,25 +1983,25 @@ sali - słony
 salima - poddać się, poddawać się  
 salonia - Sierra Leone  
 salvadoria - Salwador  
-sam - taki sam  
 saman - niebo  
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
-samdexi - rodak, ziomek, krajan  
+sami - taki sam  
 samjinsokami - homoseksualny  
 samoa - Samoa  
-samray - porozumienie  
-samraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+samodexi - rodak, ziomek, krajan  
+samoray - porozumienie  
+samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samu - być podobnym, być jak  
 samude - może  
 samun - połączenie, złącze, styk  
 samuna - łączyć, wiązać, złączyć  
 sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke - pudło, skrzynia  
-sanebax - język sztuczny  
 sang - krew  
 sani - sztuczny  
 sania - produkcja  
+sanobax - język sztuczny  
 santi - święty  
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  
@@ -2028,13 +2027,14 @@ seksi - płciowy
 seksi - seksowny, ponętny  
 sekunde - sekunda  
 sekundometer - stoper  
-sekur - bezpieczny  
 sekura - chronić (ratować)  
+sekuri - bezpieczny  
 sel - komórka (biologia)  
 selen - selen  
 sem - siedem (7)  
 seman - tydzień  
 semente - cement  
+semodan - ziarno, nasienie  
 sen - scena  
 senegalia - Senegal  
 sense - zmysł  
@@ -2076,7 +2076,7 @@ sis - sześć (6)
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
 sisme - trzęsienie Ziemi  
-sismelojia - sejsmologia  
+sismolojia - sejsmologia  
 sistem - system  
 sistemi - systemowy  
 site - miast, miasteczko  
@@ -2110,8 +2110,8 @@ suahili - suahili
 suan - kwaśny  
 suatia - Suazi  
 sube - ranek, rano, poranek  
-subeden - przedpołudnie  
-subeniam - śniadanie  
+suboden - przedpołudnie  
+suboniam - śniadanie  
 sudafrikia - Południowa Afryka  
 sudania - Sudan  
 sude - południe  
@@ -2193,9 +2193,9 @@ tayia - Tajlandia
 tazi - świeży  
 te - ty, ciebie  
 tekne - technika, technologia  
-teknelojia - technologia, nauka o technikach  
 teknetium - technet  
 teknokratia - technokracja  
+teknolojia - technologia, nauka o technikach  
 tele - dystans  
 telfon - telefon  
 teli - daleki, odległy  
@@ -2217,7 +2217,7 @@ teoria - teoria
 tepe - taśma  
 terbium - terb  
 terme - temperatura  
-termemeter - termometr  
+termometer - termometr  
 teror - terror  
 teroriste - terrorysta  
 teroristia - terroryzm  
@@ -2279,9 +2279,9 @@ tung - ból
 tunike - tunika, toga  
 tunisia - Tunezja  
 tupay - wiewiórka  
-turkemenia - Turkmenistan  
 turki - turecki  
 turkia - Turcja  
+turkomenia - Turkmenistan  
 tuvalia - Tuwalu  
 tuze - królik, zając  
 ##u

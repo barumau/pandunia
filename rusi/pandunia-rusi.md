@@ -9,8 +9,8 @@ adres - адрес
 adulte - взрослый  
 agres - нападение (атака)  
 airporte - аэропорт  
-aisehoke - хокке́й с ша́йбой  
-aisekrem - мороженое  
+aisohoke - хокке́й с ша́йбой  
+aisokrem - мороженое  
 ajil - подвижный  
 akse - ось  
 aksente - ударение  
@@ -40,6 +40,7 @@ asan - поза
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
+aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
 ##b
@@ -74,6 +75,7 @@ bax - язык
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 bebe - младенец  
+beker - хлебопёк (пекарь)  
 bere - ягода  
 bil - счёт  
 bina - строить  
@@ -114,6 +116,7 @@ esa - быть
 eskulter - скульптор  
 ewanjil - евангелие  
 ##f
+fase - грань  
 favori - любимый  
 filsofia - философия  
 fiorde - фьорд  
@@ -131,7 +134,6 @@ gas - газ
 gati - твёрдый  
 gazel - газель  
 gemer - игрок (геймер)  
-gim - золото (аурум)  
 gitar - гитара  
 gol - цель  
 grom - гром  
@@ -184,8 +186,9 @@ kamis - рубашка
 kanape - канапе  
 kance - стекло  
 kanjar - кинжал  
-kansuygas - слезоточи́вый газ  
-karbondulokside - двуокись углерода  
+kanoe - каноэ  
+kanosuyogas - слезоточи́вый газ  
+karbonodulokside - двуокись углерода  
 karde - карта  
 karte - карта  
 kartografia - картография  
@@ -200,12 +203,13 @@ kitabe - письмо
 kitabia - библиотека  
 kitabomaxin - пишущая машинка  
 klime - климат  
-klimemute - изменение климата  
+klimomute - изменение климата  
 ko - чем  
 ko? - как  
 komputer - компьютер  
 koncung - насекомое  
 kor - хор  
+kornonos - носорог  
 koron - корона  
 kosmi - космический  
 kosmia - космос  
@@ -216,6 +220,8 @@ kupe - чаша (чашка, стакан)
 ##l
 lasker - солдат  
 laskeria - армия  
+late - сторона (бок)  
+lati -  боковой (латеральный)  
 lawi - пожилой  
 lazanye - лазанья  
 leksaslia - этимология  
@@ -270,7 +276,7 @@ mome - мы
 nade - река  
 nasia - нация  
 nefre - почка  
-neuresel - нейрон  
+neurosel - нейрон  
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
@@ -311,7 +317,7 @@ peda - пердеть
 pede - пердение  
 per - перо  
 pese - деньги  
-pesediske - монета  
+pesodiske - монета  
 piaze - лук  
 pike - вершина  
 pin - булавка  
@@ -332,6 +338,8 @@ retra - возвращаться
 rim - рифма  
 rize - корень  
 robote - робот  
+rose - роса  
+roze - роза  
 ruhe - душа (дух)  
 ruksake - рюкзак  
 ##s
@@ -340,7 +348,7 @@ sahi - правильный
 sal - соль  
 salame - приветствие  
 saman - небо  
-samray - согласие  
+samoray - согласие  
 samude - море  
 samudi - морской  
 sang - кровь  
@@ -349,6 +357,8 @@ sapate - حِذَاء
 sar - голова  
 sekse - пол  
 selolojia - цитология  
+seme - семя  
+semi - семенной  
 sen - сцена  
 serye - серия  
 si - да  
@@ -374,7 +384,7 @@ tas - блюдо (таз)
 tataw - татуировка (тату)  
 tazi - свежий  
 te - ты  
-teknelojia - технология  
+teknolojia - технология  
 telfon - телефон  
 telvide - телевизор  
 teme - тема  
