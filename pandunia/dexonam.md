@@ -1,14 +1,22 @@
 # dexonami liste
 
-ce si liste da dexonam ca pandunia pa engli.
+ye si liste da dexonam ca pandunia pa engli.
 pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/).
 
 |kode| panduni | engli       |
 |----|---------|-------------|
+|  | abhasia | Abkhazia |
 | AF | afgania | Afghanistan |
+| IE | airia | Ireland |
+|  | alaskia | Alaska |
+| AD | andoria | Andorra |
 | AO | angolia | Angola |
 | AQ | antartia | Antarctica |
-| AR | argentin | Argentina |
+|  | antigia | Antigua |
+| AG | antigia e barbudia | Antigua and Barbuda |
+|  | arcahia | Artsakh |
+| AR | argentinia | Argentina |
+|  | artia | Arctic |
 | AW | arubia | Aruba |
 | AU | australia | Australia |
 | AZ | azeria | Azerbaijan |
@@ -16,29 +24,38 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | BH | bahrain | Bahrain |
 | BD | banglodexia | Bangladesh |
 | BB | barbados | Barbados |
+|  | barbudia | Barbuda |
 | IN | bartia | India |
-| BY | belorusia | Belarus |
 | BE | belgia | Belgium |
 | BZ | belizia | Belize |
+| BY | belorusia | Belarus |
 | BJ | benin | Benin |
 | BM | bermudia | Bermuda |
 | GW | bisawi ginia | Guinea-Bissau |
 | BG | bolgaria | Bulgaria |
 | BA | bosnia | Bosnia and Herzegovina |
-| CG | brazawili kongolia | Congo (Brazzaville) |
+| CG | brazavili kongolia | Congo (Brazzaville) |
 | BR | brazilia | Brazil |
 | GB | britania | United Kingdom |
 | BN | bruney | Brunei Darussalam |
 | BF | burkinia | Burkina Faso |
-| BT | butan | Bhutan |
 | TD | cadia | Chad |
 | CZ | cehia | Czech Republic |
-| ME | cernagoria | Montenegro |
+| ME | cernogoria | Montenegro |
 | CL | cilia | Chile |
 | AL | cipia | Albania |
+|  | cosenia | Korea |
 | DK | dania | Denmark |
+| MV | divehia | Maldives |
 | DE | doicia | Germany |
+| DO | dominikania | Dominican Republic |
+| DM | dominikia | Dominica |
+| TL | dongi timoria | East Timor (Timor-Leste) |
+| BT | drugia | Bhutan |
+| GQ | egalolinyi ginia | Equatorial Guinea |
+|  | englia | England |
 | ER | eritria | Eritrea |
+|  | eskotia | Scotland |
 | ES | espania | Spain |
 | EE | estia | Estonia |
 | ET | etiopia | Ethiopia |
@@ -59,11 +76,12 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | GU | guamia | Guam |
 | GT | guatemalia | Guatemala |
 | HT | haitia | Haiti |
-| KR | hangogia | Korea (South) |
+|  | hawayia | Hawaii |
+| AM | hayakia | Armenia |
 | GR | helenia | Greece |
 | HN | hondurasia | Honduras |
 | HK | hongong | Hong Kong, SAR China |
-| HR | horwatia | Croatia |
+| HR | horvatia | Croatia |
 | ID | indonesia | Indonesia |
 | IQ | irakia | Iraq |
 | IR | irania | Iran |
@@ -77,50 +95,58 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | DJ | jibutia | Djibouti |
 | CF | jungafrikia | Central African Republic |
 | CN | jungogia | China |
+| CV | kabuverdia | Cabo Verde (Cape Verde) |
+| GL | kalalia | Greenland |
 | KH | kambudia | Cambodia |
 | CM | kamerunia | Cameroon |
+|  | kamria | Wales (Cambria) |
 | CA | kanadia | Canada |
+| GE | kartuelia | Georgia (Republic of Georgia) |
 | QA | kataria | Qatar |
-| KZ | kazahia | Kazakhstan |
-| KY | keiman da nesia | Cayman Islands |
+| KZ | kazakia | Kazakhstan |
+| KY | keiman nesia | Cayman Islands |
 | KE | kenia | Kenya |
 | CD | kinsasi kongolia | Congo Kinshasa |
 | CY | kipris | Cyprus |
 | KG | kirgizia | Kyrgyzstan |
 | KI | kiribatia | Kiribati |
-| CC | kokos da nesia | Cocos (Keeling) Islands |
+| CC | kokos nesia | Cocos (Keeling) Islands |
 | CO | kolombia | Colombia |
 | KM | komori nesia | Comoros |
 | GN | konakri ginia | Guinea |
+| KV | kosovia | Kosovo |
 | CR | kostarikia | Costa Rica |
+| CI | kotedivuaria | Côte d’Ivoire (Ivory Coast) |
 | CU | kubia | Cuba |
-| CK | kuke da nesia | Cook Islands |
+| CK | kuke nesia | Cook Islands |
 | KW | kuwaitia | Kuwait |
 | LK | lankia | Sri Lanka (Ceylon) |
-| LV | latwia | Latvia |
+| LV | latvia | Latvia |
+| LA | lawia | Laos |
+| LB | libania | Lebanon |
 | LR | liberia | Liberia |
 | LY | libia | Libya |
-| LB | libania | Lebanon |
+| LT | lietuvia | Lithuania |
 | LI | lixtenxtain | Liechtenstein |
 | LU | luksemburgia | Luxembourg |
 | MG | madagasia | Madagascar |
 | HU | madiaria | Hungary |
 | MA | magribia | Morocco |
 | MO | makaw | Macao |
-| MK | makedonia | Republic of Macedonia |
 | MY | malaisia | Malaysia |
 | MW | malawia | Malawi |
-| FK | malbinas da nesia | Falkland Islands (Malvinas) |
 | ML | malia | Mali |
 | MT | maltia | Malta |
+| FK | malvinas nesia | Falkland Islands (Malvinas) |
 | IM | maninia | Isle of Man |
-| MP | marian da nesia | Northern Mariana Islands |
+| MP | marian nesia | Northern Mariana Islands |
+| MH | maxel nesia | Marshall Islands |
 | YT | mayotia | Mayotte |
 | MX | mexikia | Mexico |
 | MM | mianmia | Myanmar (Burma) |
 | FM | mikronesia | Micronesia |
 | EG | misria | Egypt |
-| MD | moldowia | Moldova |
+| MD | moldovia | Moldova |
 | MC | monakia | Monaco |
 | MN | mongolia | Mongolia |
 | MU | morisia | Mauritius |
@@ -132,23 +158,29 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | AN | nederlandi antilia | Netherlands Antilles |
 | NL | nederlandia | Netherlands |
 | NP | nepalia | Nepal |
+|  | nevis | Nevis |
 | NE | nijeria | Niger |
 | NI | nikaragia | Nicaragua |
 | JP | niponia | Japan |
+|  | nistria | Transnistria |
 | NU | niwia | Niue |
+|  | nordi airia | Northern Ireland |
+| KP | nordi cosenia | North Korea (Democratic People’s Republic of Korea) |
+|  | nordi kipris | Northen Cyprus |
+| MK | nordi makedonia | Republic of North Macedonia |
 | NF | norfolke | Norfolk Island |
 | NO | norgia | Norway |
-| NC | nowi kaledonia | New Caledonia |
-| NZ | nowi zilandia | New Zealand |
+| NC | novi kaledonia | New Caledonia |
+| NZ | novi zilandia | New Zealand |
 | AX | olandia | Aland Islands |
 | OM | omania | Oman |
 |  | oromia | Oromia |
 | AT | osteria | Austria |
 | PW | palaw | Palau |
 | PA | panamia | Panama |
-| PG | papua nowi ginia | Papua New Guinea |
+| PG | papua novi ginia | Papua New Guinea |
 | PY | paraguayia | Paraguay |
-| PE | peruwia | Peru |
+| PE | peruvia | Peru |
 | PN | pitkerne | Pitcairn |
 | PL | polskia | Poland |
 | PR | portorikia | Puerto Rico |
@@ -158,26 +190,35 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | RW | ruandia | Rwanda |
 | BI | rundia | Burundi |
 | RU | rusia | Russia |
-| SV | salbadoria | El Salvador |
+|  | sahrawia | Sahrawi Arab Democratic Republic |
 | SL | salonia | Sierra Leone |
+| SV | salvadoria | El Salvador |
 | WS | samoa | Samoa |
 | SH | santi helenia | Saint Helena |
+|  | santi kitse | Saint Kitts |
+| KN | santi kitse e nevis | Saint Kitts and Nevis |
 | LC | santi lusia | Saint Lucia |
-| ST | santi tome i prinsipe | Sao Tome and Principe |
+| SM | santi marinia | Sanmarino |
+| ST | santi tome e prinsipe | Sao Tome and Principe |
+| VC | santi vinsente e grenadin | Saint Vincent and Grenadines |
 | SA | saudi arabia | Saudi Arabia |
 | SN | senegalia | Senegal |
 | RS | serbia | Serbia |
-| SC | sexel da nesia | Seychelles |
+| SC | sexel nesia | Seychelles |
 | SG | singapur | Singapore |
-| SK | slowakia | Slovakia |
-| SI | slowenia | Slovenia |
-| SB | solomon da nesia | Solomon Islands |
+| SK | slovakia | Slovakia |
+| SI | slovenia | Slovenia |
+| SB | solomon nesia | Solomon Islands |
 | SO | somalia | Somalia |
+|  | somalilandia | Somaliland |
 | LS | sotia | Lesotho |
-| SZ | suazia | Swaziland |
+|  | sualbardia | Svalbard |
+| SZ | suatia | Eswatini (Swaziland) |
 | ZA | sudafrikia | South Africa |
 | SD | sudania | Sudan |
-| GS | sudi jorjia i sudi sanwice nesia | South Georgia and the South Sandwich Islands |
+| KR | sudi cosenia | South Korea (Republic of Korea) |
+|  | sudi iria, alonia | South Ossetia (Alania) |
+| GS | sudi jorjia e sudi sanwice nesia | South Georgia and the South Sandwich Islands |
 | SS | sudi sudania | South Sudan |
 | SE | suenia | Sweden |
 | CH | suisia | Switzerland |
@@ -187,26 +228,28 @@ pandunia kapa dexonam ca [dexi ren du zi bax](http://www.omniglot.com/countries/
 | TW | taiwania | Taiwan (Republic of China) |
 | TJ | tajikia | Tajikistan |
 | TZ | tanzania | Tanzania |
+|  | timor | Timor |
 | TG | togolia | Togo |
-| TT | trinidade i tobage | Trinidad and Tobago |
+| TO | tongia | Tonga |
+| TT | trinidade e tobage | Trinidad and Tobago |
 | BW | tsuania | Botswana |
 | TN | tunisia | Tunisia |
 | TR | turkia | Turkey |
-| TM | turkmenia | Turkmenistan |
-| TV | tuwalia | Tuvalu |
+| TM | turkomenia | Turkmenistan |
+| TV | tuvalia | Tuvalu |
 | UA | ukrainia | Ukraine |
+| AE | uni arabi emiria | United Arab Emirates |
 | JO | urdunia | Jordan |
 | UY | uruguayia | Uruguay |
 | AS | usameriki samoa | American Samoa |
 | VI | usameriki wirjin nesia | Virgin Islands, US |
-| US | usamerikia | United States of America |
+| US | usamerikia | United States of America (USA) |
 | UZ | uzbekia | Uzbekistan |
-| WF | walis i futun da nesia | Wallis and Futuna Islands |
-| VU | wanuatia | Vanuatu |
-| VA | watikania | Holy See (Vatican City State) |
-| VE | wenezolia | Venezuela |
-| VN | wietia | Viet Nam |
-| VC | winsi i grenadin | Saint Vincent and Grenadines |
+| VU | vanuatia | Vanuatu |
+| VA | vatikania | Holy See (Vatican City State) |
+| VE | venezolia | Venezuela |
+| VN | vietia | Viet Nam |
+| WF | walis e futun nesia | Wallis and Futuna Islands |
 | ZM | zambia | Zambia |
-| ZW | zimbabia | Zimbabwe |
+| ZW | zimbabwia | Zimbabwe |
 
