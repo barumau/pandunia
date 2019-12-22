@@ -28,7 +28,7 @@ agresi - agresema
 aha - kompreni  
 ainstainium - ejnŝtejnio  
 air - aero  
-airporte - flughaveno  
+airoporte - flughaveno  
 ais - glacio  
 aisi - glacia  
 aisokrem - glaciaĵo  
@@ -140,7 +140,7 @@ barde - barbo
 bari - peza  
 barium - bario  
 barka - gratuli  
-barmetal - pezmetalo  
+barometal - pezmetalo  
 barti - Barata  
 bartia - Baratio  
 barude - pulvo  
@@ -238,7 +238,7 @@ bunduke - fusilo
 bung - ventro  
 bus - buso  
 buton - klavo  
-butonbanze - klavaro  
+butonobanze - klavaro  
 buy - baobabo  
 buze - kapro  
 ##c
@@ -270,8 +270,8 @@ cirka - ĉirkaŭi
 cis - fromaĝo  
 cita - citi  
 coda - fiki  
-cokol - ĉokolado  
-cokolbaton - ĉokolado  
+cokolate - ĉokolado  
+cokolatobaton - ĉokolado  
 cora - ŝteli  
 core - ŝtelo  
 corer - ŝtelisto  
@@ -308,7 +308,7 @@ date - datumo
 datobanke - datumbanko  
 daw - vojo  
 day - granda  
-daysamude - oceano  
+dayosamude - oceano  
 deco- - dekono  
 defa - defendi  
 defe - defendo  
@@ -482,7 +482,7 @@ fokus - koncentriĝo
 fokusa - koncentri  
 foli - freneza  
 folia - frenezeco  
-fora  - taladro  
+fora  - taladri  
 forke - forko  
 forma - formigi  
 forme - formo  
@@ -629,12 +629,12 @@ hem - hm
 hema - pripensi  
 hen - malamo  
 hewan - besto  
-hewanparke - zoo (bestoĝardeno)  
+hewanoparke - zoo (bestoĝardeno)  
 hibride - miksulo  
 hidre - hidrogeno  
 him - neĝo  
 himalia - Himalajo  
-himrose - frosto  
+himorose - frosto  
 hindiste - hinduo  
 hindistia - hinduismo  
 histor - historio  
@@ -709,9 +709,9 @@ jeinistia - Ĝajnismo
 jel - ĝelo  
 jen - nasko  
 jena - naskigi  
-jenden - naskiĝtago  
 jeng - milito (batalo)  
 jengi - milita  
+jenoden - naskiĝtago  
 jentil - bonkora  
 jenu - naski  
 jinse - genro  
@@ -900,7 +900,7 @@ liga - aligi
 lil - malgranda  
 lim - kvin (5)  
 limon - citrono  
-limonrangi - flava  
+limonorangi - flava  
 linye - lineo  
 lisi - glata  
 liste - listo  
@@ -933,10 +933,10 @@ magnes - magnezio
 maitnerium - mejtnerio  
 makas - tondilo  
 mal - malbona  
-mal rupi - malbonaspekta  
 malia - Malio  
 malike - jasmeno  
 malker - havanto  
+malorupi - malbonaspekta  
 mame - patrino  
 man - viro  
 mangan - mangano  
@@ -1036,7 +1036,7 @@ muke - vizaĝo
 mul - komenco  
 mula - komenci  
 mumia - mumio  
-mumnur - kandelo  
+mumonur - kandelo  
 mun - pordo  
 musa - devigi  
 muse - devo  
@@ -1062,7 +1062,7 @@ natre - natrio
 nawati - naūatla  
 nefre - reno  
 nen - jaro  
-nenmesden - dato  
+nenomesoden - dato  
 neon - neono  
 nepalia - Nepalo  
 neptun - Neptuno  
@@ -1089,7 +1089,7 @@ no - ne
 nobelium - nobelio  
 noce - nokto  
 node - nodo  
-noldewiste - ateisto  
+nolodewiste - ateisto  
 norgi - norvega  
 norgia - Norvegio  
 nostalgia - nostalgio (saudado)  
@@ -1099,9 +1099,9 @@ notobuke - kajero
 novi - nova  
 nume - nombro  
 nur - lumo  
-nurbaton - torĉo  
-nurcirke - halo  
 nuri - luma  
+nurobaton - torĉo  
+nurocirke - halo  
 nuton - newtono (N)  
 o - aŭ  
 o - ho!  
@@ -1137,11 +1137,11 @@ pan - ĉiu
 pan sate - ĉiam  
 panamia - Panamo  
 pande - pando  
-panduni - tuttera  
 pandunia - pandunia  
 pang - pano  
 panike - paniko  
 panke - ventumilo  
+panoduni - tuttera  
 pantalon - pantalonoj  
 papagay - papago  
 papay - papajo  
@@ -1191,10 +1191,10 @@ plutonium - plutonio
 podia - Tibeto  
 poke - pokero  
 pol - multe  
-polgon - poligono  
 politike - politiko  
 politiker - politikisto  
 politiki - politika  
+pologon - poligono  
 polon - polonio  
 ponta - montri  
 porte - haveno  
@@ -1206,14 +1206,15 @@ preda - antaŭiri
 prezidente - prezidento  
 prizona - malliberigi  
 prizonia - malliberejo  
+problem - problemo  
 profesor - profesoro  
 program - programo  
 prometium - prometio  
 protacinium - protaktinio  
 pul - floro  
 pulmon - pulmo  
+pulovaze - vazo (florpoto)  
 pulte - ponto  
-pulvaze - vazo (florpoto)  
 punte - punkto  
 purani - malnova  
 putaw - vinbero  
@@ -1299,8 +1300,8 @@ sali - sala
 saman - ĉielo  
 samarium - samario  
 sami - sama  
-samjinsokami - samseksema  
 samodexi - samlandano  
+samojinsokami - samseksema  
 samoray - interkonsento  
 samoraya - samopinii (interkonsenti)  
 samude - maro  
@@ -1334,7 +1335,7 @@ serpe - serpento
 serye - serio  
 si - jes  
 sida - sidi  
-siflekse - adjektivo  
+sifolekse - adjektivo  
 sikliste - biciklisto  
 silike - silicio  
 simpli - simpla  
@@ -1353,12 +1354,12 @@ sofi - saĝa
 sofia - saga  
 soke - ŝtrumpo  
 sol - suno  
-solcate - sunombrelo  
-solsistem - sunsistemo  
+solocate - sunombrelo  
+solosistem - sunsistemo  
 son - dormo  
 sonde - sono  
 song - pino  
-sonkamar - dormoĉambro  
+sonokamar - dormoĉambro  
 sonu - dormi  
 sos - saŭco  
 sosis - kolbaso  
@@ -1381,8 +1382,8 @@ supra - superiri
 supris - surprizo  
 suxe - suŝio  
 suy - akvo  
-suygas - vaporo  
-suyporte - haveno  
+suyogas - vaporo  
+suyoporte - haveno  
 ##t
 tabake - tabako  
 table - tabelo  
@@ -1445,7 +1446,7 @@ torse - torso
 tote - vi ĉiu  
 towal - viŝilo  
 tren - trajno (vagonaro)  
-trendaw - fervojo  
+trenodaw - fervojo  
 tribe - tribo  
 tube - tubo  
 tuha - sputi  
@@ -1453,7 +1454,7 @@ tul - ilo
 tulium - tulio  
 tundar - tundro  
 tunel - tunelo  
-tuneltren - metroo  
+tunelotren - metroo  
 tunike - robo  
 tupay - sciuro  
 turkia - Turkio  
@@ -1472,15 +1473,14 @@ vagin - vagino
 vaginitis - vaginito  
 vale - valo  
 vaze - vazo  
-veje - legomo  
-vente - problemo  
+vejete - legomo  
 veri - vera  
 version - versio (toisinto)  
 vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
 vin - vino  
 visi - vic-  
-vislekse - pronomo  
+visolekse - pronomo  
 vizita - vizito  
 vizite - viziti  
 viziter - vizitanto  
@@ -1488,7 +1488,7 @@ vokal - vokalo
 vulve - vulvo  
 ##w
 wada - promesi  
-walpapir - tapeto  
+walopapir - tapeto  
 wan - volo  
 wana - voli  
 warkolate - paĝo  
@@ -1496,7 +1496,7 @@ wase - oazo
 wate - vato  
 waw - ŭaŭ!  
 waxa - lavi  
-waxmaxin - lavmaŝino  
+waxomaxin - lavmaŝino  
 way - ekstera  
 way dexia - fremda lando  
 waye - ekstero  
@@ -1518,8 +1518,8 @@ xake - branĉo
 xal - koltuko  
 xam - vespero  
 xaman - ŝamano  
-xamden - posttagmeze  
-xamniam - vespermanĝo  
+xamoden - posttagmeze  
+xamoniam - vespermanĝo  
 xan - monto  
 xanti - trankvila  
 xarme - honto  
@@ -1531,7 +1531,7 @@ xaw - malmulte
 xef - estro (ĉefulo)  
 xefi minister - ĉefministro  
 xenon - ksenono  
-xeyhal - situacio (aferstato)  
+xeyohal - situacio (aferstato)  
 xibay - malsukceso  
 xim - koro  
 xin - kredo  

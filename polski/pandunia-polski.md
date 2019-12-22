@@ -28,8 +28,8 @@ agresi - agresywny
 aha - rozumieć, pojmować  
 ainstainium - einstein  
 air - powietrze  
-airbare - ciśnienie atmosferyczne  
-airbarmeter - barometr  
+airobare - ciśnienie atmosferyczne  
+airobarometer - barometr  
 ais - lód  
 aisi - lodowy  
 aisohoke - hokej na lodzie  
@@ -155,8 +155,8 @@ barde - broda
 bari - ciężki (masywny)  
 barium - bar  
 barka - gratulować; błogosławić  
-barmetal - metal ciężki  
-barmeter - waga (urządzenie ważące)  
+barometal - metal ciężki  
+barometer - waga (urządzenie ważące)  
 barti - Indyjski  
 bartia - Indie  
 barude - proch strzelniczy  
@@ -170,7 +170,7 @@ baskobol - piłka do koszykówki (koszykówka)
 bate - kaczka  
 batokrote - dziobak  
 baton - pręt, kij  
-batonpang - bagietka  
+batonopang - bagietka  
 batre - bateria  
 baw - magazyn, dziennik, gazeta  
 bawer - dziennikarz  
@@ -178,7 +178,7 @@ bax - język; komunikacja
 baxa - mówić; komunikować  
 baxolojia - językoznastwo  
 bazar - rynek, bazar  
-bazarhuristia - liberalizm rynkowy  
+bazarohuristia - liberalizm rynkowy  
 baze - podstawa, baza, fundament  
 bazi - bazowy, podstawowy  
 bebe - niemowlę  
@@ -272,7 +272,7 @@ burkinia - Burkina Faso
 bus - autobus, autokar  
 buste - biust  
 buton - klawisz, przycisk, przełącznik  
-butonbanze - klawiatura  
+butonobanze - klawiatura  
 buy - baobab  
 buze - koza  
 ##c
@@ -295,7 +295,7 @@ carogon - kwadrat (czworokąt, czworobok, tetragon)
 cate - dach  
 cay - herbata  
 cayeria - herbaciarnia  
-caykupe - kubek do herbaty  
+cayokupe - kubek do herbaty  
 cehia - Republika Czeska, Czechy  
 ceka - sprawdzić, sprawdzać, skontrolować  
 ceng - warstwa (poziom, piętro, kondygnacja)  
@@ -315,8 +315,8 @@ cirki - okrągły
 cis - ser  
 cita - cytować  
 coda - jebać, kopulować  
-cokol - czekolada  
-cokolbaton - baton czekoladowy  
+cokolate - czekolada  
+cokolatobaton - baton czekoladowy  
 cora - ukraść, kraść  
 core - kradzież  
 corer - złodziej  
@@ -361,7 +361,7 @@ daw - droga, szosa, ulica
 dawiste - taoista  
 dawistia - taoizm  
 day - duży  
-daysamude - ocean  
+dayosamude - ocean  
 dayu - urosnąć, rosnąć, wzrosnąć, wzrastać  
 deco- - decy-, dziesiąta część  
 defa - obronić (chronić)  
@@ -453,9 +453,9 @@ e - i, oraz
 ##e
 egal - prawy, sprawiedliwy, słuszny, uczciwy, fair  
 eglis - kościół  
-ekelojia - ekologia (nauka o środowisku)  
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
+ekolojia - ekologia (nauka o środowisku)  
 ekran - ekran  
 ekuador - Ekwador  
 eletre - elektryczność  
@@ -583,7 +583,7 @@ fokusa - skupić, się, skoncentrować się
 foli - szalony  
 folia - szaleństwo  
 fone - głoska  
-foneme - fonem  
+fonem - fonem  
 fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
 fora  - wiercić, borować  
@@ -608,8 +608,8 @@ fula - wypełnić, wypełniać
 fulani - trochę; nieokreślony, nieograniczony, nieokreślony  
 fun - pył  
 funca - funkcja, stanowisko  
-funcuper - odkurzacz  
 funge - grzyb  
+funocuper - odkurzacz  
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furia - gniew, furia  
@@ -768,7 +768,7 @@ hibride - hybryda; kundel
 hidre - wodór  
 him - śnieg  
 himalia - Himalaje  
-himrose - szron  
+himorose - szron  
 hindiste - hinduistyczny  
 hindistia - hinduizm  
 hisaba - kalkulować  
@@ -839,11 +839,11 @@ irania - Iran
 iridium - iryd  
 isa - skłonić do (spowodować zrobienie)  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
-islamfobia - islamofobia  
 islamiste - muzułman, muzułmanin  
 islamisti - islamski  
 islamisti xaria - szariat  
 islamistia - Islam  
+islamofobia - islamofobia  
 islamu - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 islandia - Islandia  
 israel - Izrael  
@@ -881,12 +881,13 @@ jel - żel, galareta
 jelos - zazdrosny  
 jen - narodziny  
 jena - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
-jenden - urodziny  
 jeng - walka, wojna  
 jenger - wojownik, bojownik  
-jengexute - sztuka walki  
 jengi - militarny, wojskowy, wojenny  
-jenklas - kasta  
+jengoxute - sztuka walki  
+jenoden - urodziny  
+jenoklas - kasta  
+jenotipe - genotyp  
 jentil - uprzejmy, miły  
 jenu - urodzić się, rodzić się  
 jenxen - żeń-szeń  
@@ -1129,7 +1130,7 @@ krote - kret
 krus - krzyż  
 kuan - szeroki  
 kuang - minerał, ruda  
-kuang suy - woda mineralna  
+kuangosuy - woda mineralna  
 kube - sześcian  
 kubia - Kuba  
 kuga - płakać, łkać  
@@ -1208,7 +1209,7 @@ limite - limit, granica
 limofas - pięciościan (pryzmat)  
 limogon - pięciokąt (pentagon)  
 limon - cytryna  
-limonrangi - żółty  
+limonorangi - żółty  
 linye - linia, pas, pręga, smuga  
 lisi - gładki  
 liste - lista, spis, wykaz  
@@ -1272,7 +1273,6 @@ makan - masło
 makas - nożyce, nożyczki  
 makaw - Makau  
 mal - zły  
-mal rupi - brzydki  
 mal zar - zły los  
 malaisia - Malezja  
 malaria - malaria  
@@ -1283,6 +1283,7 @@ malike - jaśmin
 malka - mieć (posiadać)  
 malke - własność (mienie)  
 malker - właściciel (posiadacz)  
+malorupi - brzydki  
 maltia - Malta  
 malvinas nesia - Falklandy, Malwiny  
 mamal - ssak  
@@ -1364,7 +1365,7 @@ mem - pamięć
 mema - pamiętać  
 memba - należeć (być członkiem)  
 member - członek  
-memnote - notatka, memo  
+memonote - notatka, memo  
 mena - znaczyć  
 mene - znaczenie  
 mente - rada, porada  
@@ -1386,7 +1387,7 @@ mesta - być mistrzem (być ekspertem)
 mester - mistrz (ekspert)  
 meta - zmierzyć  
 metal - metal  
-metaljanger - kowal  
+metalojanger - kowal  
 mete - miara  
 metode - metoda, sposób  
 metre - metr  
@@ -1450,7 +1451,7 @@ monistia - monizm
 monodewistia - monoteizm  
 monokratia - monarchia  
 monologe - monolog  
-monovejeniamiste - weganin (weganka)  
+monovejoniamiste - weganin (weganka)  
 monster - potwór, monstrum  
 morfe - morf  
 morfem - morfem  
@@ -1479,7 +1480,7 @@ mula - zacząć, zaczynać
 muli - pierwszy, początkowy  
 mum - wosk  
 mumia - mumia  
-mumnur - świeca  
+mumonur - świeca  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 muritania - Mauretania  
@@ -1527,8 +1528,8 @@ nederlandi antilia - Antyle Holenderskie
 nederlandia - Holandia (Królestwo Niderlandów)  
 nega - odmówić (odrzucić)  
 nen - rok  
-nenfeste - rocznica  
-nenmesden - data  
+nenofeste - rocznica  
+nenomesoden - data  
 nenufar - lilia wodna, nenufar  
 neon - neon  
 nepalia - Nepal  
@@ -1568,7 +1569,7 @@ nol - zero, nic, żaden
 nol ban - nigdy  
 nol ren - nikt, żadna osoba  
 nol xey - nic, żadna rzecz  
-noldewiste - ateista  
+nolodewiste - ateista  
 noma - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
 nonga - uprawić, uprawiać  
@@ -1597,10 +1598,10 @@ nudistia - nudyzm
 nume - numer  
 nume un - pierwszy, numer jeden  
 nur - światło, oświetlenie  
-nurbaton - pochochodnia (latarka)  
-nurcirke - efekt halo  
-nurerade - promień światła  
 nuri - jasny, świetlny  
+nurobaton - pochochodnia (latarka)  
+nurocirke - efekt halo  
+nurorade - promień światła  
 nuton - niuton (N)  
 o - lub, albo  
 o - o!  
@@ -1656,11 +1657,6 @@ panameriki - panamerykański
 panamia - Panama  
 panasi - panazjatycki  
 pande - panda  
-pandemi - pandemiczny  
-pandemonia - pandemonium  
-pandewia - panteon  
-pandewistia - panteizm  
-panduni - globalny (światowy)  
 pandunia - Pandunia  
 panduniste - osoba mówiąca w Panduni  
 paneuropi - paneuropejski  
@@ -1668,6 +1664,11 @@ pang - chleb
 panike - panika  
 panjabi - pendżabski  
 panke - wiatrak (wentylator)  
+panodemi - pandemiczny  
+panodemonia - pandemonium  
+panodewia - panteon  
+panodewistia - panteizm  
+panoduni - globalny (światowy)  
 pantalon - spodnie, pantalony, portki  
 papagay - papuga  
 papay - papaja  
@@ -1708,7 +1709,7 @@ paxu - cierpieć
 pay - placek, ciasto  
 peda - pierdzieć  
 pedal - pedał  
-pedalsikle - rower z pedałami  
+pedalosikle - rower z pedałami  
 pede - pierdnięcie  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
@@ -1774,14 +1775,14 @@ plutonium - pluton
 poke - poker  
 pol - wiele  
 polaw - pilaw  
-poldewistia - politeizm  
-polgon - wielokąt (wielościan)  
 polis - policja  
 poliser - oficer policji, policjant  
 politike - polityka  
-politikelojia - politologia  
 politiker - polityk  
+politikolojia - politologia  
+polodewistia - politeizm  
 polofas - wielościan  
+pologon - wielokąt (wielościan)  
 polon - polon  
 polski - polski  
 polskia - Polska  
@@ -1813,6 +1814,7 @@ prizon - więzienie, kara więzienia, kara pozbawienia wolności
 prizona - uwięzić, więzić, pozbawić wolności  
 prizoner - strażnik więzienny  
 prizonia - więzienie, zakład karny  
+problem - problem  
 profesor - profesor  
 program - program  
 programer - programista, koder  
@@ -1826,8 +1828,8 @@ puje - cześć, szacunek
 pul - kwiat  
 pula - kwitnąć, rozkwitnąć, rozkwitać  
 pulmon - płuco  
+pulovaze - wazon; donica, doniczka  
 pulte - most  
-pulvaze - wazon; donica, doniczka  
 punte - kropka (znak interpunkcyjny)  
 pupe - lalka, kukiełka, pacynka, marionetka  
 purani - stary, starożytny  
@@ -1921,14 +1923,14 @@ rota - obrócić (kręcić)
 roter - rotor, wirnik  
 rotu - obrócić się (kręcić się)  
 roze - róża  
-rozrangi - różowy, różany  
+rozorangi - różowy, różany  
 ruandia - Rwanda  
 rubidium - rubid  
 ruhe - dusza, duch, umysł  
 ruhi - umysłowy (psychiczny)  
 ruholojia - psychologia  
 ruke - placy  
-ruksake - plecak  
+rukosake - plecak  
 rul - rulon (rolka, zwój)  
 rula - toczyć, turlać  
 rum - rum  
@@ -1987,9 +1989,9 @@ saman - niebo
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
 sami - taki sam  
-samjinsokami - homoseksualny  
 samoa - Samoa  
 samodexi - rodak, ziomek, krajan  
+samojinsokami - homoseksualny  
 samoray - porozumienie  
 samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samu - być podobnym, być jak  
@@ -2056,7 +2058,7 @@ sida - siedzieć
 sifa - opisać (zakwalifikować)  
 sife - cecha, właściwość, parametr  
 sifi - opisowy  
-siflekse - przymiotnik  
+sifolekse - przymiotnik  
 sigar - papieros (cygar)  
 sikiste - sikh  
 sikistia - sikhizm  
@@ -2073,10 +2075,10 @@ sinye - znak, sygnał
 sir - sekret  
 sirke - ocet  
 sis - sześć (6)  
-sisfas - sześcian (kostka)  
-sisgon - sześciokąt (sześciobok)  
 sisme - trzęsienie Ziemi  
 sismolojia - sejsmologia  
+sisofas - sześcian (kostka)  
+sisogon - sześciokąt (sześciobok)  
 sistem - system  
 sistemi - systemowy  
 site - miast, miasteczko  
@@ -2095,13 +2097,13 @@ soke - skarpeta, skarpetka, pończocha
 sol - słońce  
 solestas - przesilenie  
 solomon nesia - Wyspy Salomona  
-solsistem - układ słoneczny  
+solosistem - układ słoneczny  
 somalia - Somalia  
 son - sen  
 sonda - brzmieć, wydać dźwięk, wydawać dźwięk  
 sonde - dźwięk, brzmienie  
 song - sosna  
-sonkamar - sypialnia  
+sonokamar - sypialnia  
 sonu - spać  
 sos - sos  
 sosis - kiełbasa  
@@ -2151,8 +2153,8 @@ suta - szyć
 sutur - szew  
 suxe - sushi  
 suy - woda  
-suyang - akwarela, farba wodna  
-suygas - para wodna  
+suyogas - para wodna  
+suyorang - akwarela, farba wodna  
 ##t
 tabake - tytoń  
 tabla - ułożyć w trabelę  
@@ -2210,7 +2212,7 @@ tener - uchwyt (pojemnik)
 tenesin - tenesyn, tennessine  
 tenis - tenis  
 tenke - pogoda  
-tenliste - spis treści (tabela zawartości)  
+tenoliste - spis treści (tabela zawartości)  
 tenta - kusić, nakłonić, nakłaniać  
 tenu - należeć  
 teoria - teoria  
@@ -2234,8 +2236,8 @@ tim - drużyna
 tin - trzy (3)  
 ting - stop; przerwa, zatrzymanie  
 tinga - zatrzymać  
-tingon - trójkąt  
 tingu - zatrzymać się  
+tinogon - trójkąt  
 tira - ciągnąć  
 tira milke - wydoić, doić  
 tiran - tyran  
@@ -2261,8 +2263,8 @@ towal - ręcznik
 transa - przejść, przechodzić, przejechać, przejeżdżać  
 transe - przejazd, przewóz, tranzyt  
 tren - pociąg  
-trendaw - kolej  
-trenkaper - porywacz pociągu  
+trenodaw - kolej  
+trenokaper - porywacz pociągu  
 tribe - plemię  
 trinidade e tobage - Trynidad i Tobago  
 tsuania - Botswana  
@@ -2274,7 +2276,7 @@ tulium - tul
 tulpan - tulipan  
 tundar - tundra  
 tunel - tunel  
-tuneltren - metro  
+tunelotren - metro  
 tung - ból  
 tunike - tunika, toga  
 tunisia - Tunezja  
@@ -2319,9 +2321,8 @@ vanil - wanilia
 vanuatia - Vanuatu  
 vatikania - Watykan, Państwo Watykańskie  
 vaze - waza, garnek, pojemnik, słoik, dzban  
-veje - warzywo  
+vejete - warzywo  
 venezolia - Wenezuela  
-vente - problem  
 veri - prawdziwy (rzeczywisty, szczery)  
 verme - robak  
 version - wersja (wariacja, edycja, wydanie)  
@@ -2332,15 +2333,15 @@ vidu - być widzianym
 vietia - Wietnam  
 vijin - glutaminian sodu  
 viman - samolot  
-vimankaper - porywacz samolotu  
+vimanokaper - porywacz samolotu  
 vin - wino  
 vineria - winiarnia  
 vinil - winyl  
 virus - wirus  
-viruslojia - wirusologia  
+virusolojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
 visi - wice-  
-visprezidente - wiceprezydent  
+visoprezidente - wiceprezydent  
 vize - wiza  
 vizita - odwiedzić, odwiedzać  
 vizite - wizyta  
@@ -2357,7 +2358,7 @@ waf - pies
 wakila - reprezentować  
 wal - mur, ściana  
 walis e futun nesia - Saint Vincent i Grenadyny  
-walpapir - tapeta  
+walopapir - tapeta  
 wana - chcieć, pragnąć  
 war - dzień tygodnia  
 war 1 (war un) - poniedziałek  
@@ -2373,7 +2374,7 @@ wase - oaza
 wate - wat  
 waw - wow!, łoł!, jej!  
 waxa - prać, umyć, myć  
-waxmaxin - pralka  
+waxomaxin - pralka  
 way - zewnętrzny  
 way dexi - zagraniczny  
 way dexia - zagranica  
@@ -2402,8 +2403,8 @@ xake - gałąź, konar
 xal - szal, szalik  
 xam - wieczór  
 xaman - szaman  
-xamden - popołudnie  
-xamniam - kolacja  
+xamoden - popołudnie  
+xamoniam - kolacja  
 xan - góra, wzgórze  
 xanti - spokojny  
 xarme - wstyd (hańba, kompromitacja)  
@@ -2455,7 +2456,7 @@ yala - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
-yatimdom - sierociniec, dom dziecka  
+yatimodom - sierociniec, dom dziecka  
 ye - ten konkretny  
 yehudi - żydowski  
 yehudistia - judaizm  
@@ -2464,7 +2465,6 @@ yesus - Jezus
 yey - jej  
 yeze - kokos  
 yi - ten, te  
-yode - jod; jodyna  
 yoga - uprawiać jogę  
 yoge - joga  
 yohani feste - dzień świętego Jana  
@@ -2492,9 +2492,9 @@ zayu - istnieć (być obecnym)
 ze - sam, siebie  
 zebre - zebra  
 zem - ziemia, grunt, gleba  
-zemdow - orzech ziemny  
 zemia - Ziemia  
-zemlaskeria - wosko lądowe (armia)  
+zemodow - orzech ziemny  
+zemolaskeria - wosko lądowe (armia)  
 zeze - mucha  
 zigzage - zygzag  
 zikur - ziggurat  

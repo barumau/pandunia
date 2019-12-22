@@ -74,6 +74,7 @@
 |chef|xef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
 |chemise|kamis|spa:por:camisa, ara:(qamīṣ), hin:क़मीज़ (kāmīz), may:kemeja|
 |chimie|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
+|chocolat|cokolate|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
 |chose|xey|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |ciel|saman|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |cime (pic, sommet)|pike|eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|
@@ -86,6 +87,7 @@
 |corps|badan|ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden, eng:body|
 |correct (juste)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |cosmos|kosmia|rus:космос (kosmos), eng:fra:spa:cosmos|
+|coton|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |couleur|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |coupe (tasse, verre)|kupe|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
 |couronne|koron|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
@@ -195,7 +197,7 @@
 |note|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |nouveau|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nuage|megam|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek)|
-|océan|daysamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
+|océan|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |oeuf|ande|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |oignon|piaze|kaz:kir:пияз (piyaz), tgk:пиёз (piyoz), fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz), kur:pîvaz|
 |oiseau|pakse|hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)|
@@ -209,7 +211,7 @@
 |ou|o|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|
 |pain|pang|tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain|
 |paix|pace|ita:pace, eng:peace, spa:por:paz, fra:paix|
-|palais|gunden|zho:宫殿 (gōngdiàn), viecung điện, jpn:宮殿 (j yūden), kor:궁전 (gungjeon)|
+|palais|gunden|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |pantoufle (babouche)|babuce|arai: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
 |papaye|papay|eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), Hin:पपीता (papītā), ben:পেঁপে (pẽpe)|
 |papier|kagaze|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
@@ -230,12 +232,13 @@
 |pièce (chambre)|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |placard|almar|hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, spa:armario, por:armário|
 |pluie|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
+|plume|kalam|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
 |plus|max|spa:mas, por:mais, eng: max-|
 |pomme|aple|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
 |porte|porte|eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|
 |pouvoir (être capable)|abla|eng:able, spa:hábil, fra:habile, ron:abil|
 |preuve|dalil|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
-|problème|vente|zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|
+|problème|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |programme|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |projet|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |propriété (possession, bien)|malke|ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|
@@ -270,7 +273,7 @@
 |semence|seme|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |sexe|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |shopping|xope|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
-|situation (état de choses)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
+|situation (état de choses)|xeyohal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |si|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |société|socia|rus:социум (socium), eng:society, spa:sociedad|
 |soldat|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
@@ -308,10 +311,10 @@
 |vite (rapide)|rapidi|spa:por:rápido, eng:rapid, fra:rapide|
 |voile|hijabe|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |voir|vida|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, cze:vidět, eng:vide|
-|voyelle|vokal|spa:vocal. por:vogal. may:vokal.|
+|voyelle|vokal|spa:vocal, por:vogal, may:vokal|
 |vrai|veri|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
 |vulve|vulve|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
-|végétarien|vejoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
+|végétarien|vejetoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zone|zone|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |Égypte|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|

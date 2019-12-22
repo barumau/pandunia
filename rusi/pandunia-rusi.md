@@ -8,7 +8,7 @@ adalia - справедливость
 adres - адрес  
 adulte - взрослый  
 agres - нападение (атака)  
-airporte - аэропорт  
+airoporte - аэропорт  
 aisohoke - хокке́й с ша́йбой  
 aisokrem - мороженое  
 ajil - подвижный  
@@ -93,17 +93,18 @@ buke - книга
 ca - из (от)  
 canse - возможность (шанс)  
 cay - чай  
-caykupe - чайная чашка  
+cayokupe - чайная чашка  
 cerni - чёрный  
 cini - хань  
 cis - сыр  
+cokolate - шоколад  
 coy - зелень  
 ##d
 dalil - доказательство  
 danse - танец  
 date - данные  
 datobanke - база данных  
-daysamude - океан  
+dayosamude - океан  
 destin - судьба  
 dew - бог  
 domi - домашний  
@@ -136,6 +137,7 @@ gazel - газель
 gemer - игрок (геймер)  
 gitar - гитара  
 gol - цель  
+goton - хлопок  
 grom - гром  
 grupe - группа  
 gul - гуль (вурдалак)  
@@ -154,7 +156,7 @@ hande - рука
 hay - жизнь  
 hazin - сокровище (казна)  
 hewan - животное  
-hewanparke - зоопарк  
+hewanoparke - зоопарк  
 hijabe - вуаль  
 hisaba - вычислять  
 hoke - хоккей  
@@ -165,10 +167,12 @@ hule - лиса
 insan - человек  
 insani hake - права человека  
 insanistia - гуманизм  
+iode - йод  
 itis  - воспаление  
 ive - тенденция  
 ##j
 je - который  
+jenotipe - генотип  
 jinse - род  
 jiraf - жираф  
 jul - джоуль (J)  
@@ -180,6 +184,7 @@ jus - сок
 kafas - клетка  
 kafe - кофе  
 kagaze - бумага  
+kalam - ручка  
 kali - пустой  
 kamar - комната (камера)  
 kamis - рубашка  
@@ -259,7 +264,7 @@ medi - средний
 megam - облако  
 mem - память  
 mema - помнить  
-memnote - меморандум  
+memonote - меморандум  
 memula - забывать  
 mes - месяц  
 mester - мастер  
@@ -327,6 +332,8 @@ pize - пицца
 polaw - плов  
 porte - порт  
 pote - болото  
+problem - проблема  
+problemi - проблематичный  
 program - программа  
 projete - проект  
 pul - цветок  
@@ -341,7 +348,7 @@ robote - робот
 rose - роса  
 roze - роза  
 ruhe - душа (дух)  
-ruksake - рюкзак  
+rukosake - рюкзак  
 ##s
 safran - шафран  
 sahi - правильный  
@@ -367,8 +374,8 @@ slavi - славянский
 socia - общество (социум)  
 soke - носок  
 sol - солнце  
-solcate - зонтик от солнца  
-sonkamar - спальня  
+solocate - зонтик от солнца  
+sonokamar - спальня  
 sonu - спать  
 sos - соус  
 sosis - колбаса (сосиска)  
@@ -377,7 +384,7 @@ sundari - красивый
 sundaria - красота  
 susan - лилия  
 suy - вода  
-suygas - пар  
+suyogas - пар  
 ##t
 tarje - перевод  
 tas - блюдо (таз)  
@@ -407,23 +414,21 @@ vagin - влагалище (вагина)
 vaginitis - вагинит  
 vampir - вампир (упырь)  
 vaze - ваза  
-vejoniamiste - вегетарианец  
-vente - проблема  
-venti - проблематичный  
+vejetoniamiste - вегетарианец  
 veri - верный  
 vida - видеть  
 virus - вирус  
-viruslojia - вирусология  
+virusolojia - вирусология  
 vize - виза  
 vokal - гласный  
 vulve - вульва  
 ##w
 wal - стена (вал)  
-walpapir - обои  
+walopapir - обои  
 wana - хотеть  
 waw - вау!  
 waxa - мыть  
-waxmaxin - стиральная машина  
+waxomaxin - стиральная машина  
 werka - работать  
 werke - работа  
 werker - работник  
@@ -432,7 +437,7 @@ xatan - Сатана
 xaw - мало  
 xef - шеф  
 xey - вещь  
-xeyhal - положение (ситуация)  
+xeyohal - положение (ситуация)  
 xite - говно (дерьмо)  
 xofer - шофёр  
 xopa - покупать (купить)  
@@ -441,7 +446,6 @@ xukar - сахар
 ##y
 yemenia - Йемен  
 yesus - Иисус  
-yode - йод  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  

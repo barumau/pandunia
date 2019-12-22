@@ -382,8 +382,8 @@ cis|||eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor
 cita||||quote (cite)|||||||||||||||citi|lainata (siteerata)|cytować
 citi marke||||quotation mark||||||||||||||||lainausmerkki|
 coda|||ben:চোদা (coda), hin:चोदना (codnā)|fuck (copulate)|||||||||||||||fiki|nussia (panna)|jebać, kopulować
-cokol|||eng:chocolate, hin:चाकलेट (cāklet), zho:巧克力 (qiǎokèlì), spa:chocolate, may:cokelat|chocolate|||||||||||||||ĉokolado|suklaa|czekolada
-cokolobaton||||chocolate bar|||||||||||||||ĉokolado|suklaapatukka|baton czekoladowy
+cokolate|||spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|chocolate|chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada
+cokolatobaton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
 cora||||steal|||||||||||||||ŝteli|varastaa|ukraść, kraść
 core|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|theft|||||||||||||||ŝtelo|varkaus|kradzież
 corer||||thief|||||||||||||||ŝtelisto|varas|złodziej
@@ -788,7 +788,7 @@ gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल
 gom|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber|||||||||||||||kaŭĉuko|kumi|guma
 gon|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|corner (angle)||||||||||कोण|||||angulo|kulma (nurkka)|kąt
 gonometer||||goniometer||||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
-goton|||ara:(quṭun), spa:algodón, fra:coton, eng:cotton|cotton|||||||||||||||kotono|puuvilla|bawełna
+goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna
 gowa||||go|||||||||||||||iri|mennä|iść (przemieścić się)
 graf|||eng:graphic, fra:graphique|drawing (graph, image)|||||||||||||||bildo (desegnaĵo)|piirros (graafi)|opis, przedstawienie; wykres
 grafa||||draw|||||||||||||||desegni|piirtää|opisywać, ilustorawć; przedstawiać
@@ -1034,6 +1034,7 @@ jengi||||military (martial, warlike)|||||||||||||||milita|sotilaallinen|militarn
 jengoxute|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||||||||||||||||kamppailulaji|sztuka walki
 jenoden||||birthday|||||||||||||||naskiĝtago|syntymäpäivä|urodziny
 jenoklas||||caste||||||||||||||||sääty (kasti)|kasta
+jenotipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 jentil||||kind (nice, gentle)|||||||||||||||bonkora|kiltti|uprzejmy, miły
 jenu||||be born|||||||||||||||naski|syntyä|urodzić się, rodzić się
 jenxen||||ginseng||||||||||||||||ginseng|żeń-szeń
@@ -1079,7 +1080,7 @@ kaka||||defecate (shit)||||||||||||||||ulostaa (kakata)|defekować, srać
 kakaw|||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|cocoa|||||||||||||||kakao|kaakao|kakao
 kake|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|excrement (shit)|||||||||||||||feko|uloste (kakka)|ekskrement, gówno
 kalalia|dex|GL||Greenland||||||||||||||||Grönlanti|
-kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|||||||||||||||plumo|kynä|pióro, długopis
+kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|pluma|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
 kali|||ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|empty||||пустой|||空|||ख़ाली|খালি||||malplena|tyhjä|pusty
 kalifornium|mate|Cf||californium|||||||||||||||kaliforniumo|kalifornium|kaliforn
 kalium|mate|K||potassium|||||||||||||||kalio|kalium|potas
@@ -1097,7 +1098,7 @@ kampe||||camp||||||||||||||||leiri|obozowicz
 kamper||||camper||||||||||||||||retkeilijä|obóz
 kamri||||Welsh||||||||||||||||walesilainen|
 kamria|dex|||Wales (Cambria)||||||||||||||||Wales|
-kan|badan||tam:கண் (kaṇ), tel:(kannu), kan:(kaṇṇu), mal:കണ്ണ് (kaṇṇu)|eye|||||||||||||||okulo|silmä|oko
+kan|badan||tam:கண் (kaṇ), tel:(kannu), kan:(kaṇṇu), mal:കണ്ണ് (kaṇṇu)|eye||ojo|olho||||||||||||okulo|silmä|oko
 kana|||zho:看 (kàn), min:khàn|eye (look, watch)|||||||||||||||okulumi|silmäillä (katsoa)|patrzeć (oglądać)
 kanadia|dex|CA||Canada||||||||||||||||Kanada|Kanada
 kanal||||channel|||||||||||||||kanalo|kanava (kanaali)|kanał
@@ -1143,7 +1144,7 @@ karwan|||fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), en
 kase|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)||||||||||||||||tapaus (seikka)|wydarzenie, przypadek, sytuacja
 kastan|||spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut|||||||||||||||kaŝtano|kastanja|kasztan
 kastor|||fra:por:spa:castor, tgl:tur:kastor|beaver|||||||||||||||kastoro|majava|bóbr
-kata|||eng: cut, hin: काटना /kāṭnā/, swa: -kata|cut||||||切|||||||||tranĉi|katkaista (leikata)|ciąć
+kata|||eng: cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|cut||||||切|||cắt|काटना|কাটা||kata||tranĉi|katkaista (leikata)|ciąć
 katalunia||||Catalonia|||||||||||||||Katalunio|Katalonia|Katalonia
 katan|||jpn:刀 (katana)|sword||||меч|||||||||||glavo|miekka|miecz
 kataria|dex|QA||Qatar||||||||||||||||Qatar|Katar
@@ -2091,6 +2092,8 @@ prizon|||eng:fra:prison, spa:prisión, por:prisão|prison (imprisonment)||||||||
 prizona||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 prizoner||||jailer (imprisoner)||carcelero||||||||||||||vanginvartija|strażnik więzienny
 prizonia||||prison||cárcel|||||||||||||malliberejo|vankila|więzienie, zakład karny
+problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|problem (issue)|problème|problema|problema|проблема||问题 (难题)|問題|문제|vấn đề|समस्या (मसला)|প্রব্লেম|masalah|tatizo|sorun (problem)|problemo|ongelma|problem
+problemi||||problematic|problématique|||проблематичный||||||||||||ongelmallinen|
 profesor||||professor|||||||||||||||profesoro|professori|profesor
 program|||eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|program (set of structured activities)|programme|programa|programa|программа||计划|次第 (計画, プログラム)|계획 (프로그램)|kế hoạch|प्रोग्राम||program|programu|program|programo|ohjelma|program
 programer||||programmer (coder)||||||||||||||||ohjelmoija|programista, koder
@@ -2639,11 +2642,9 @@ vanil||||vanilla||||||||||||||||vanilja|wanilia
 vanuatia|dex|VU||Vanuatu||||||||||||||||Vanuatu|Vanuatu
 vatikania|dex|VA||Holy See (Vatican City State)||||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|pot (vase, bin, jar, jug)|vase|||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
-veje||||vegetable||||||蔬菜|||||||||legomo|kasvis|warzywo
-vejoniamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|
+vejete||||vegetable||||||蔬菜|||||||||legomo|kasvis|warzywo
+vejetoniamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|
 venezolia|dex|VE||Venezuela|Venezuela|||||||||||||||Venezuela|Wenezuela
-vente|||zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|problem (issue)|problème|problema|problema|проблема||问题 (难题)|問題|문제|vấn đề|समस्या (मसला)|প্রব্লেম|masalah|tatizo|sorun (problem)|problemo|ongelma|problem
-venti||||problematic|problématique|||проблематичный||||||||||||ongelmallinen|
 veri|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, very, indeed)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak
 version|||eng:fra:version, por:versão, rus:версия (versiya), may:versi|version (variation, edition)|||||||||||||||versio (toisinto)|versio|wersja (wariacja, edycja, wydanie)

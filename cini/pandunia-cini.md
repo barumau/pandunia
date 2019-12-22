@@ -10,10 +10,11 @@ adalia - 正义
 adres - 地址  
 adulte - 成年人  
 agres - 攻击  
-airporte - 飞机场  
+airoporte - 飞机场  
 ais - 冰  
 aisohoke - 冰球  
 aisokrem - 冰淇淋  
+aisu - 结冰  
 ajil - 灵活的  
 akse - 轴线  
 aksente - 重音符号  
@@ -100,15 +101,17 @@ buze - 山羊
 ##c
 ca - 从  
 cay - 茶  
-caykupe - 茶碗  
+cayokupe - 茶碗  
 ceng - 层  
 cerni - 黑色  
 cini - 汉族  
 cis - 酪 (起司)  
+cokolate - 巧克力  
+cokolatobaton - 巧克力棒  
 ##d
 date - 数据  
 datobanke - 数据库  
-daysamude - 大洋  
+dayosamude - 大洋  
 destin - 目的地 (命運)  
 dew - 神  
 ding - 钉子  
@@ -140,8 +143,9 @@ gatomate - 固体
 genca - 检查  
 gitar - 吉他  
 gol - 目的  
-gundarme - 道德  
+goton - 棉  
 gunden - 宫殿  
+gunodarme - 道德  
 gute - 膝  
 ##h
 habar - 消息  
@@ -156,7 +160,7 @@ hay - 生命
 helis - 螺旋  
 helpa - 帮助  
 hewan - 动物  
-hewanparke - 动物园  
+hewanoparke - 动物园  
 hijabe - 面纱  
 hisaba - 计算  
 hoke - 曲棍球  
@@ -172,6 +176,7 @@ ive - 趋势
 ##j
 jana - 知る  
 janger - 工匠 (匠人)  
+jenotipe - 基因型  
 jinse - 属  
 jiraf - 长颈鹿  
 jul - 焦耳 (J)  
@@ -183,6 +188,7 @@ jus - 汁
 kafas - 笼  
 kafe - 咖啡  
 kagaze - 纸  
+kalam - 笔  
 kamar - 房间  
 kamis - 衬衫  
 kanape - 沙发  
@@ -263,7 +269,7 @@ mema - 记得 (回忆)
 memula - 忘记  
 mene - 意义  
 mening - 脑脊膜  
-metaljanger - 铁匠  
+metalojanger - 铁匠  
 mey - 每  
 meze - 桌子  
 migra - 搬家  
@@ -327,6 +333,7 @@ piru - 烧
 plisa - 请  
 porte - 港  
 pote - 坭  
+problem - 问题 (难题)  
 program - 计划  
 puding - 布丁  
 pul - 花  
@@ -363,8 +370,8 @@ si - 对 (是)
 sikliste - 骑自行车的人  
 socia - 社会  
 sol - 太阳  
-solsistem - 太阳系  
-sonkamar - 卧室 (寝室)  
+solosistem - 太阳系  
+sonokamar - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sosis - 香肠  
 suki - 高兴  
@@ -373,7 +380,7 @@ sundaria - 美丽
 supris - 惊奇  
 susan - 百合花  
 suy - 水  
-suygas - 蒸汽  
+suyogas - 蒸汽  
 ##t
 tami - 贪婪的  
 tarje - 翻译  
@@ -403,16 +410,15 @@ ura - 好哇
 ##v
 vagin - 阴道  
 vampir - 吸血鬼  
-veje - 蔬菜  
-vejoniamiste - 素食主义者  
-vente - 问题 (难题)  
+vejete - 蔬菜  
+vejetoniamiste - 素食主义者  
 vespe - 蜂  
 vida - 看  
 vijin - 味精  
 vulve - 外阴 (陰门)  
 ##w
 wal - 墙  
-walpapir - 壁纸 (墙纸)  
+walopapir - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
 werka - 工作  
 werke - 工作  
@@ -422,7 +428,7 @@ xam - 晚上
 xatan - 撒但  
 xaw - 少  
 xey - 事物 (东西)  
-xeyhal - 事态  
+xeyohal - 事态  
 xibay - 失败  
 xim - 心  
 xir - 诗  
