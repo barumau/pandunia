@@ -78,7 +78,7 @@ avoir - tena
 avoir besoin de - nida  
 avoir tendance à - iva  
 axe - akse  
-aéroport - airporte  
+aéroport - airoporte  
 aïe! - ay  
 ##b
 babord - botolefte  
@@ -130,7 +130,7 @@ carte - karde
 carte - karte  
 cartographie - kartografia  
 centre - jung  
-chambre à coucher - sonkamar  
+chambre à coucher - sonokamar  
 chance - canse  
 changement climatique - klimomute  
 chapitre - babe  
@@ -139,6 +139,7 @@ chef - xef
 chemise - kamis  
 chimie - kimia  
 Chine - jungogia  
+chocolat - cokolate  
 chose - xey  
 ciel - saman  
 cime (pic, sommet) - pike  
@@ -153,6 +154,7 @@ corps - badan
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
+coton - goton  
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
@@ -214,6 +216,7 @@ galaxie - galaksia
 gaz - gas  
 gaz lacrymogène - kanosuyogas  
 gazelle - gazel  
+geler (glacer) - aisu  
 genou - gute  
 genre (espèc) - jinse  
 gingembre - zinje  
@@ -221,6 +224,7 @@ giraffe - jiraf
 goule - gul  
 groupe - grupe  
 guitare - gitar  
+génotype - jenotipe  
 ##h
 heure - hor  
 heureux - suki  
@@ -316,11 +320,11 @@ nouveau - novi
 nuage - megam  
 nécessaire - nidi  
 ##o
-océan - daysamude  
+océan - dayosamude  
 oeuf - ande  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solcate  
+ombrelle (parasol) - solocate  
 onde - onde  
 opposant (antagoniste) - anter  
 or - aur  
@@ -346,7 +350,7 @@ palais - gunden
 pantoufle (babouche) - babuce  
 papaye - papay  
 papier - kagaze  
-papier peint - walpapir  
+papier peint - walopapir  
 paquet - pake  
 paramètre - param  
 parapluie - barxocate  
@@ -371,6 +375,7 @@ pizza - pize
 pièce (chambre) - kamar  
 placard - almar  
 pluie - barxe  
+plume - kalam  
 plus - max  
 pluvieux - barxi  
 pomme - aple  
@@ -379,8 +384,8 @@ possible - abli
 possédant (propriétaire) - malker  
 pouvoir (être capable) - abla  
 preuve - dalil  
-problème - vente  
-problématique - venti  
+problème - problem  
+problématique - problemi  
 programme - program  
 projet - projete  
 propriété (possession, bien) - malke  
@@ -426,7 +431,7 @@ semence - seme
 sexe - sekse  
 shopping - xope  
 si - gar  
-situation (état de choses) - xeyhal  
+situation (état de choses) - xeyohal  
 société - socia  
 soldat - lasker  
 soleil - sol  
@@ -441,8 +446,9 @@ série - serye
 sûr - sekuri  
 ##t
 table - meze  
+tablette de chocolat - cokolatobaton  
 tarte - pay  
-tasse à thé - caykupe  
+tasse à thé - cayokupe  
 technique - tekne  
 technologie - teknolojia  
 tendance - ive  
@@ -473,7 +479,7 @@ uranium - uranium
 vagine - vagin  
 vaginite - vaginitis  
 vampire - vampir  
-vapeur d’eau - suygas  
+vapeur d’eau - suyogas  
 vase - vaze  
 Venezuela - venezolia  
 ver - verme  
@@ -494,14 +500,14 @@ vouloir - wana
 voyelle - vokal  
 vrai - veri  
 vulve - vulve  
-végétarien - vejoniamiste  
+végétarien - vejetoniamiste  
 ##w
 ##x
 ##y
 ##z
 zombi - zombe  
 zone - zone  
-zoo - hewanparke  
+zoo - hewanoparke  
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  

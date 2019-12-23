@@ -76,7 +76,7 @@
 |Egypti|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
 |ehdotus|suje|hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|
 |ei|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
-|ekologia (ympäristötiede)|ekelojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
+|ekologia (ympäristötiede)|ekolojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |eläin|hewan|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |elämä|hay|ara:حياة‎ (ḥaya), swa:uhai, hin:हयात (hayāt), may:hayat|
 |emätin (vagina)|vagin|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
@@ -145,7 +145,7 @@
 |huvi (hauskuus)|fan|eng:fun|
 |hylkiö (paaria)|paraye|hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|
 |hypätä (hyppiä)|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|hyve|gundarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
+|hyve|gunodarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
 |hyvä (eettisesti hyvä)|ewi|eng:fra:spa:por:eu-|
 |hyvännäköinen|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |hyvä|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
@@ -229,7 +229,7 @@
 |kalkkuna|totol|nah:totolin, spa:totol, yor:tòlótòló, ibo:torotoro|
 |kalkyyli|kalkulia|fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|
 |kampa|kange|hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā)|
-|kamppailulaji|jengexute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
+|kamppailulaji|jengoxute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |kana|kokode|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + scr:kokoš, bul:кокош (kokoš), swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
 |kannabis (marihuana, hamppu)|ganje|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |kannu (karahvi)|jar|eng:jar, ara:(jara), por:spa:jarra|
@@ -243,10 +243,10 @@
 |kastanja|kastan|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|
 |kaste|rose|fra:rosée, spa:rocío, rus:роса (rosa)|
 |kastike (soosi)|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
-|kasvissyöjä|vejoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
+|kasvissyöjä|vejetoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |kasvi|fite|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
 |kasvot (naama)|muke|ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|
-|katkaista (leikata)|kata|eng: cut, hin: काटना /kāṭnā/, swa: -kata|
+|katkaista (leikata)|kata|eng: cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|
 |katto (katos)|cate|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
 |kaunis (komea, sievä)|sundari|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar), |
 |kaupunki|nagre|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
@@ -535,7 +535,7 @@
 |omena|aple|eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|
 |omistetun omistajaan liittävä partikkeli|du|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |ommella|suta|hin:सीना (sīnā), rus:шить (šit'), cze:šít, eng:sew|
-|ongelma|vente|zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|
+|ongelma|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |onnitella (siunata)|barka|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |oppi (opetus)|darse|ara:fas:urd:(dars), tur:ders|
 |orava|tupay|may:may:tupai|
@@ -564,7 +564,7 @@
 |pakkaus (paketti)|pake|eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), deu:tur:paket, fra:paquet, spa:paquete, por:pacote|
 |paksu|grosi|fra:gros, por:grosso, spa:grueso|
 |palanen (murunen, riekale, sirpale)|parce|fas:(parče), tur:parça, hin:पारचा (pārcā), eng:part, por:spa:parte|
-|palatsi|gunden|zho:宫殿 (gōngdiàn), viecung điện, jpn:宮殿 (j yūden), kor:궁전 (gungjeon)|
+|palatsi|gunden|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |palauttaa|fuga|zho:复 (fù), yue:(fuk), vie:phục|
 |pala|tike|fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|
 |paljon (monta)|pol|ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)|
@@ -640,7 +640,7 @@
 |pussi (säkki, kassi, laukku)|sake|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |putki (tuubi)|tube|spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu|
 |puu (puutavara)|moke|zho:木 (mù), yue:木 (muk), vie:mục, jpn:木 (-moku), kor:목 (mok)|
-|puuvilla|goton|ara:(quṭun), spa:algodón, fra:coton, eng:cotton|
+|puuvilla|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |puu|arbe|fra:arbre, spa:árbol, por:árvore|
 |pyhä|santi|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|
 |pylly (takapuoli, pakarat)|bum|eng:bum, por:bumbum|
@@ -652,7 +652,7 @@
 |pyytää|plisa|eng:please|
 |pyöriä|rotu|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |pyörä (polkupyörä, moottoripyörä)|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
-|päivämäärä|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
+|päivämäärä|nenomesoden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |päivä|den|hin:दिन (din), ben:দিন (din), rus:день (deń), yue:天 (tin), zho:天 (tiān)|
 |päällikkö (pomo)|xef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
 |päärynä|leze|zho:梨子 (lízi), yue:梨 (lei42), vie:lê, |
@@ -660,7 +660,7 @@
 |pääte: OVS-sanajärjestyksen verbi|-u|hau:wol:-u, swa:-wa|
 |pää|sar|fas:(sar), hin:सिर (sir), ara:(raʾs)|
 |pöly (tomu)|fun|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
-|pölynimuri|funcuper|zho:吸尘器 (xīchénqì), deu:Staubsauger|
+|pölynimuri|funocuper|zho:吸尘器 (xīchénqì), deu:Staubsauger|
 |pöytä|meze|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |raha|pese|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
 |rahka|panir|hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer,:|
@@ -670,7 +670,7 @@
 |rasva (öljy)|fete|swa:mafuta, rwa:mavuta, kon:mafuta|
 |ratas|cakre|ben:চাকা (caka), hin:चक्र (cakra)|
 |rauha|pace|ita:pace, eng:peace, spa:por:paz, fra:paix|
-|reppu (rinkka)|ruksake|deu:eng:rucksack, cze:ruksak, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|
+|reppu (rinkka)|rukosake|deu:eng:rucksack, cze:ruksak, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|
 |resepti (ohje)|recete|ita:ricetta, rus:рецепт (retsept), deu:Rezept, spa:receta, por:receita, fra:recette, may:resep|
 |retikka (retiisi)|lobake|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
 |reuna (ääri)|kenar|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
@@ -687,7 +687,7 @@
 |rotu|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |ruiske (injektio)|juxe|zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)|
 |rukoilla|duwa|tur: dua, swa: dua, may: doa, ara: دُعَاء‏ /duʿāʾ/|
-|ruma (pahannäköinen)|mal rupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
+|ruma (pahannäköinen)|malorupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
 |rumpu|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
 |runo|xir|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |ruoho|gras|eng:grass, hin:घास (ghās)|
@@ -766,7 +766,7 @@
 |suhde (yhteys)|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |suihku|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |sukka|soke|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
-|suklaa|cokol|eng:chocolate, hin:चाकलेट (cāklet), zho:巧克力 (qiǎokèlì), spa:chocolate, may:cokelat|
+|suklaa|cokolate|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
 |sukupuoli|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |sulka|per|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |suola|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
@@ -837,7 +837,7 @@
 |tiikeri|bagre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |tikari|kanjar|fas:(xanjar), tur:haner, kaz:қанжар (qanjar), rus:кинжал (kinžal)|
 |tila (tilanne, seikka)|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
-|tilanne (asiaintila)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
+|tilanne (asiaintila)|xeyohal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |timantti|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |tina|esten|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|
 |todiste (todistus, osoitus, demonstraatio)|dalil|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
@@ -909,7 +909,7 @@
 |valjaat|harnes|fra:harnais, eng:harness, spa:arnés, por:arnês|
 |valkoinen (valkea)|baki|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
 |valo|nur|ara:fas:(nūr), swa:nuru, taj:uzb:нур (nur)|
-|valtameri|daysamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
+|valtameri|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |vanha (muinainen)|purani|hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|
 |vankeus|prizon|eng:fra:prison, spa:prisión, por:prisão|
 |vanukas|puding|eng:pudding, zho:布丁 (bùdīng)|
@@ -953,7 +953,7 @@
 |vika (synti)|dox|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
 |villi (kesytön)|wildi|deu:eng:ned:wild, sve:vild|
 |virhe (erhe)|galte|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
-|virologia|viruslojia|pol:wirusologia, rus:вирусология (virusologiya)|
+|virologia|virusolojia|pol:wirusologia, rus:вирусология (virusologiya)|
 |virrata|liwu|zho:流 (liú), jpn:流 (ryū)|
 |virtahepo|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
 |virtsa (pissa, kusi)|pix|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
@@ -964,7 +964,7 @@
 |voimakas (vahva)|forti|fra:fort, spa:fuerte, por:forte, eng:force|
 |voipuu|karite|wol:kaarite, jul:karite, fra:spa:karité, pul:kaare, ful:kareje, hau:kaɗanya|
 |voitto|win|eng:win, deu:gewinnen|
-|vokaali|vokal|spa:vocal. por:vogal. may:vokal.|
+|vokaali|vokal|spa:vocal, por:vogal, may:vokal|
 |voodoo|vodun|ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|
 |vuode (sänky, peti)|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|
 |vuodenaika|mosim|hin:urd:(mOsam), may:musim, ara:(mawsim), tur:mevsim, swa:msimu|
@@ -1003,4 +1003,3 @@
 |ääni|sonde|eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|
 |šakki|xatranje|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
 |šamaani|xaman|rus:шаман (šaman), eng:shaman|
-|šampoo|kexosabun|por:xampu, spa:champú, eng:shampoo, jpn:シャンプー (shanpū), vie:xà bông, hin:शैंपू (śaimpū), tur:şampuan|

@@ -6,12 +6,13 @@ acento - aksente
 achís - aciy  
 acordarse - mema  
 acuerdo - samoray  
-aeropuerto - airporte  
+aeropuerto - airoporte  
 agua - suy  
 alcohol - alkol  
 alcohólico - alkoli  
 alfiler (aguja) - pin  
 alga - alge  
+algodón - goton  
 alicate - pinser  
 almendra - badam  
 altar - altar  
@@ -45,6 +46,7 @@ banco - banke
 banco de datos (base de datos) - datobanke  
 banda - bande  
 banquero - banker  
+barra de chocolate - cokolatobaton  
 barrera - baryer  
 base - baze  
 bastante - bas  
@@ -76,6 +78,7 @@ centro - jung
 cerveza (birra) - bir  
 China - jungogia  
 chinelo (pantufa) - babuce  
+chocolate - cokolate  
 ciclista - sikliste  
 cielo - saman  
 cima (pico, cumbre, vértice) - pike  
@@ -90,6 +93,7 @@ comprar - xopa
 compras (shopping) - xope  
 conducir - xofa  
 conductor (chofer) - xofer  
+congelar (helar) - aisu  
 copa (vaso) - kupe  
 corazón (núcleo) - kerne  
 corno - korne  
@@ -114,11 +118,11 @@ deseo - wan
 destino - destin  
 diamante - almas  
 dirigente (líder) - lider  
+disentir (no estar de acuerdo) - aloraya  
 Dominica - dominikia  
-Dominicana - dominikania  
 doméstico - domi  
 dormir - sonu  
-dormitorio - sonkamar  
+dormitorio - sonokamar  
 duro - gati  
 día de San Juan - yohani feste  
 ##e
@@ -165,6 +169,7 @@ gas - gas
 gas lacrimógeno - kanosuyogas  
 gato - maw  
 gengibre - zinje  
+genotipo - jenotipe  
 grupo - grupe  
 guitarra - gitar  
 gul - gul  
@@ -270,7 +275,6 @@ neurona - neurosel
 neve - him  
 niño o niña - bace  
 no - no  
-no estar de acuerdo - aloraya  
 noche - noce  
 nosotros - mome  
 nostalgia - nostalgia  
@@ -279,7 +283,8 @@ nube - megam
 nuevo - novi  
 o - o  
 ##o
-océano - daysamude  
+océano - dayosamude  
+ojo - kan  
 olvidar - memula  
 onda - onde  
 oportunidad (chance) - canse  
@@ -301,10 +306,10 @@ palacio - gunden
 panadero - beker  
 papaya - papay  
 papel - kagaze  
-papel tapiz - walpapir  
+papel tapiz - walopapir  
 paquete - pake  
 parasol - barxocate  
-parasol - solcate  
+parasol - solocate  
 parque - parke  
 participante - parter  
 parámetro - param  
@@ -327,16 +332,17 @@ pila (batería) - batre
 piratería - piratia  
 piña - nanas  
 plata - argente  
+pluma - kalam  
 plátano (banana) - banan  
 pocos - xaw  
 porto - porte  
 posible - abli  
-problema - vente  
+problema - problem  
 programa - program  
 proyecto - projete  
 prueba - dalil  
 prueba - teste  
-puerto marítimo - suyporte  
+puerto marítimo - suyoporte  
 página - warkolate  
 que (como) - ko  
 quemar - pira  
@@ -349,6 +355,7 @@ química - kimia
 raiz - rize  
 raza - ras  
 recto - orti  
+Republica Dominicana - dominikania  
 reunión (junta, mitin) - mite  
 reír - haha  
 rico - rici  
@@ -378,7 +385,7 @@ ser humano - insan
 serie - serye  
 sexo - sekse  
 sin - na  
-situación - xeyhal  
+situación - xeyohal  
 sociedad - socia  
 soldado - lasker  
 sí - si  
@@ -402,8 +409,8 @@ vagina - vagin
 vaginitis - vaginitis  
 valle - vale  
 vampiro - vampir  
-vapor - suygas  
-vegetariano - vejoniamiste  
+vapor - suyogas  
+vegetariano - vejetoniamiste  
 velo - hijabe  
 ver - vida  
 verdadero - veri  
@@ -422,7 +429,7 @@ vulva - vulve
 y - e  
 ##y
 ##z
-zoo - hewanparke  
+zoo - hewanoparke  
 zorro - hule  
 África - afrike  
 ágil - ajil  

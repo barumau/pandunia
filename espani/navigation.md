@@ -25,7 +25,7 @@
   * [Esperanto](../esperanti/index.md)
   * [français](../fransi/index.md)
   * [indonesia](../malayu/index.md)
-  * [日本語](../nipon/index.md)
+  * [日本語](../niponi/index.md)
   * [pandunia](../pandunia/index.md)
   * [polski](../polski/index.md)
   * [português](../portugali/index.md)

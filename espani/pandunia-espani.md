@@ -9,9 +9,10 @@ adali - justo
 adalia - justicia  
 afrike - África  
 agres - ataque  
-airporte - aeropuerto  
+airoporte - aeropuerto  
 aisohoke - hockey sobre hielo  
 aisokrem - helado  
+aisu - congelar (helar)  
 ajil - ágil  
 akse - eje  
 aksente - acento  
@@ -21,7 +22,7 @@ alkol - alcohol
 alkoli - alcohólico  
 almar - armario  
 almas - diamante  
-aloraya - no estar de acuerdo  
+aloraya - disentir (no estar de acuerdo)  
 altar - altar  
 analis - análisis  
 ande - huevo  
@@ -85,16 +86,18 @@ ca - de
 canse - oportunidad (chance)  
 cerni - negro  
 cis - queso  
+cokolate - chocolate  
+cokolatobaton - barra de chocolate  
 coy - verduras  
 ##d
 dalil - prueba  
 danse - dança (baile)  
 date - datos  
 datobanke - banco de datos (base de datos)  
-daysamude - océano  
+dayosamude - océano  
 destin - destino  
 domi - doméstico  
-dominikania - Dominicana  
+dominikania - Republica Dominicana  
 dominikia - Dominica  
 duga - leer  
 e - y  
@@ -126,6 +129,7 @@ gati - duro
 gatomate - sólido  
 gitar - guitarra  
 gol - meta (gol)  
+goton - algodón  
 grupe - grupo  
 gul - gul  
 gunden - palacio  
@@ -140,7 +144,7 @@ hamili - embarazado (preñado)
 hande - mano  
 hay - vida  
 hewan - animal (bestia)  
-hewanparke - zoo  
+hewanoparke - zoo  
 hijabe - velo  
 him - neve  
 hisaba - calcular  
@@ -157,6 +161,7 @@ iva - tender
 ive - tendencia  
 ##j
 jana - saber (conhecer)  
+jenotipe - genotipo  
 jinse - género  
 jiraf - jirafa  
 jul - joule (J)  
@@ -166,7 +171,9 @@ jus - jugo (zumo)
 ##k
 kafe - café  
 kagaze - papel  
+kalam - pluma  
 kamote - camote (batata)  
+kan - ojo  
 kance - vidrio (cristal)  
 kanoe - canoa  
 kanosuyogas - gas lacrimógeno  
@@ -321,6 +328,7 @@ pote - lodo (barro, fango)
 prizona - encarcelar (aprisionar)  
 prizoner - carcelero  
 prizonia - cárcel  
+problem - problema  
 program - programa  
 projete - proyecto  
 pul - flor  
@@ -362,16 +370,16 @@ sikliste - ciclista
 site - ciudad  
 slavi - eslavo  
 socia - sociedad  
-solcate - parasol  
-sonkamar - dormitorio  
+solocate - parasol  
+sonokamar - dormitorio  
 sonu - dormir  
 suki - feliz  
 sundari - hermoso (bello, lindo)  
 sundaria - belleza (hermosura)  
 susan - lirio  
 suy - agua  
-suygas - vapor  
-suyporte - puerto marítimo  
+suyogas - vapor  
+suyoporte - puerto marítimo  
 ##t
 tape - tapón (tapa)  
 te - tú  
@@ -387,8 +395,7 @@ vagin - vagina
 vaginitis - vaginitis  
 vale - valle  
 vampir - vampiro  
-vejoniamiste - vegetariano  
-vente - problema  
+vejetoniamiste - vegetariano  
 veri - verdadero  
 verme - verme  
 vespe - abeja o avispa  
@@ -399,7 +406,7 @@ vote - voto
 vulve - vulva  
 ##w
 wal - muro (muralha)  
-walpapir - papel tapiz  
+walopapir - papel tapiz  
 wan - deseo  
 wana - querer (desear)  
 warkolate - página  
@@ -411,7 +418,7 @@ xatan - Satanás
 xaw - pocos  
 xef - jefe  
 xey - cosa  
-xeyhal - situación  
+xeyohal - situación  
 xite - mierda  
 xofa - conducir  
 xofer - conductor (chofer)  

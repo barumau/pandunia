@@ -108,7 +108,7 @@
 |danco|danse|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |danko|danke|eng:thank, deu:Danke, + hin:धन्यवाद (dhanyavād)|
 |danĝero|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
-|dato|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
+|dato|nenomesoden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |datumo|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
 |daŭro|dure|eng:duration, fra:durée, spa:por:durar, deu:dauer|
 |de (el, pro)|ca|zho:从 (cóng),出于 (chū), yue:從 (cung4)|
@@ -304,7 +304,7 @@
 |korno|korne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |koro|xim|kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|
 |korpo|badan|ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden, eng:body|
-|kotono|goton|ara:(quṭun), spa:algodón, fra:coton, eng:cotton|
+|kotono|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |koto|pote|ijo:pọtọ, ibo:potọ potọ, Lin:pɔtɔpɔ́tɔ, kon:pcm:fra:poto-poto|
 |kotraŭa|anti|eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), pol:anty-|
 |kovrilo|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
@@ -355,7 +355,7 @@
 |luno|lun|fra:lune, spa:luna, eng:lunar, rus:луна (luná)|
 |lupo|wolfe|deu:ned:eng:wolf, rus:волк (volk)|
 |malamo|hen|zho:(hen), fra:(haine)|
-|malbonaspekta|mal rupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
+|malbonaspekta|malorupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
 |malferma|kay|zho:开 (kāi), vie:-khai-|
 |malfideleco|zine|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |malgranda|lil|eng:little|
@@ -426,7 +426,7 @@
 |nudelo|mien|zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|
 |nur|mon|ell:μόνος (monos), eng:deu:fra:por:spa:mono-|
 |oazo|wase|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
-|oceano|daysamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
+|oceano|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |ofte|cang|zho:常 (cáng)|
 |ogro (trolo)|guy|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |ok (8)|bal|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|
@@ -448,7 +448,7 @@
 |paco|pace|ita:pace, eng:peace, spa:por:paz, fra:paix|
 |pajaco|bufon|spa:bufón, eng:buffoon, fra:bouffon|
 |pako|pake|eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), deu:tur:paket, fra:paquet, spa:paquete, por:pacote|
-|palaco|gunden|zho:宫殿 (gōngdiàn), viecung điện, jpn:宮殿 (j yūden), kor:궁전 (gungjeon)|
+|palaco|gunden|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |palmo|palme|deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|
 |palto|kote|eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|
 |pano|pang|tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain|
@@ -508,7 +508,7 @@
 |preĝejo|eglis|fas:(kelisā), tur:kilise, may:gereja, por:igreja, hin:गिरजा (girjā), ara:(kanisā), fra:église|
 |preĝi|duwa|tur: dua, swa: dua, may: doa, ara: دُعَاء‏ /duʿāʾ/|
 |printempo|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
-|problemo|vente|zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|
+|problemo|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |produkti (fabriki)|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
 |programo|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |proksima|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
@@ -584,7 +584,7 @@
 |signifo|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
 |siropo|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
 |sitelo|balde|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
-|situacio (aferstato)|xeyhal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
+|situacio (aferstato)|xeyohal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |si|ze|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
 |skatolo (kesto)|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
 |skribo|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
@@ -622,7 +622,7 @@
 |tabelo|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
 |tablo|meze|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |tago|den|hin:दिन (din), ben:দিন (din), rus:день (deń), yue:天 (tin), zho:天 (tiān)|
-|taladro|fora |fra:forer, por:furar, eng:perforate, spa:perforar|
+|taladri|fora |fra:forer, por:furar, eng:perforate, spa:perforar|
 |tamburo|tambur|swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|
 |tamen|lekin|ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|
 |taso|kupe|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
@@ -648,7 +648,7 @@
 |traduko|tarje|ara:(tarjama), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, tur:tercüme|
 |trajno (vagonaro)|tren|eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|
 |tranĉilo|cake|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
-|tranĉi|kata|eng: cut, hin: काटना /kāṭnā/, swa: -kata|
+|tranĉi|kata|eng: cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|
 |tri (3)|tin|hin:तीन (tīn), ben:তিন (tin), urd:(tīn)|
 |tribo|tribe|fra:spa:tribu, por:tgl:tribo, eng:tribe|
 |tubo|tube|spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu|
@@ -693,7 +693,7 @@
 |viŝilo|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
 |vojaĝo|safar|ara:(safar), hin:सफ़र (safar), Tur:sefer, swa:safari, eng:fra:spa:por:deu:safari|
 |vojo|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
-|vokalo|vokal|spa:vocal. por:vogal. may:vokal.|
+|vokalo|vokal|spa:vocal, por:vogal, may:vokal|
 |volo|ice|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
 |volo|wan|eng:want, kor:원하다 (wonhada)|
 |vulpo|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
@@ -712,7 +712,7 @@
 |ĉi tiu|yi|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i), |
 |ĉielo|saman|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |ĉiu(j)|mey|zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|
-|ĉokolado|cokol|eng:chocolate, hin:चाकलेट (cāklet), zho:巧克力 (qiǎokèlì), spa:chocolate, may:cokelat|
+|ĉokolado|cokolate|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
 |ĉu?|he|fra:por:hein, jpn:e|
 |Ĝajnismo|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |ĝelo|jel|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
@@ -724,7 +724,6 @@
 |ŝafo|meh|kur:mî,mîh, hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, + (onom,) jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee|
 |ŝako|xatranje|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
 |ŝamano|xaman|rus:шаман (šaman), eng:shaman|
-|ŝampuo|kexosabun|por:xampu, spa:champú, eng:shampoo, jpn:シャンプー (shanpū), vie:xà bông, hin:शैंपू (śaimpū), tur:şampuan|
 |ŝanco|canse|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |ŝati|suku|jpn:好く (suku), may: suka|
 |ŝlosilo|cabe|por:chave, hin:(cābi), kon:nsapi|

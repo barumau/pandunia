@@ -37,7 +37,7 @@
 |bark (ramię)|kante|hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|
 |basen|basen|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |bateria|batre|eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|
-|bawełna|goton|ara:(quṭun), spa:algodón, fra:coton, eng:cotton|
+|bawełna|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |bańka|bubul|eng:bubble, snh:බුබුළු (bubuḷu), hun:buborék, cze:bublina, hin:बुल्ला (bullā), tgl:bula, fra:bulle, pnb:ਬੁਲਬੁਲਾ (bulabulā)|
 |beczka|tong|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:mal:tong, + fra:tonneau, spa:tonel, ned:ton|
 |beret|berete|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|
@@ -55,7 +55,7 @@
 |Boże Narodzenie|kristojen|ell:Χριστούγεννα (Christoúgenna)|
 |broda|barde|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |brzuch|bung|vie:bụng, khm:ពុង (pung), tha:พุง (pung)|
-|brzydki|mal rupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
+|brzydki|malorupi|zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|
 |brązowy, koloru kawy|bruni|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |Budda|bude|hin:बुद्ध (buddh)|
 |burza, sztorm, tajfun|tafun|zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), pnb:ਤੂਫ਼ਾਨ (tūfān), por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)|
@@ -88,7 +88,7 @@
 |cierpienie, ból|paxia|kon:mpasi, por:paixão, eng:passion|
 |cień|saye|fas:(sāye), urd:(sāyā), pas:(sāyá), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
 |ciągnąć|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
-|ciąć|kata|eng: cut, hin: काटना /kāṭnā/, swa: -kata|
+|ciąć|kata|eng: cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|
 |ciężarny (w ciąży)|hamili|ara:(ḥāmil), may:hamil, tur:hamile, urd:(hāmila), fas:(hâmele)|
 |ciężki (masywny)|bari|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |co?|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
@@ -99,7 +99,7 @@
 |czas (epoka, era)|zaman|tur:zaman, may:jaman, swa:zamani, ara:(zaman), fas:(zamān), + hin:समय (samay)|
 |czas; okazja|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
 |czekać|denga|zho:等 (děng),  yue:等 (dang2)|
-|czekolada|cokol|eng:chocolate, hin:चाकलेट (cāklet), zho:巧克力 (qiǎokèlì), spa:chocolate, may:cokelat|
+|czekolada|cokolate|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|
 |cześć, szacunek|puje|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
 |czysty|safi|swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
 |czytać|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
@@ -109,7 +109,7 @@
 |człowiek, istota ludzka|insan|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|
 |dach|cate|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
 |daktyl|tamar|por:tamara, ara:(tamar)|
-|data|nenmesden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
+|data|nenomesoden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
 |dać, dawać|dona|eng:dan:give, deu:geben, zho:给 (gěi)|
 |debatować, prowadzić dyskurs|lona|zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|
 |demokracja|demokratia|eng:democracy, rus:демократия (demokratiya), spa:democracia, fra: por: deu: ara:(dīmukratiya), swa:demokrasia|
@@ -154,7 +154,7 @@
 |dźinizm, dżinizm|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |dźwięk, brzmienie|sonde|eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|
 |Egipt|misria|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|
-|ekologia (nauka o środowisku)|ekelojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
+|ekologia (nauka o środowisku)|ekolojia|deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|
 |ekskrement, gówno|kake|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |elektryczność|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |emocja, uczucie|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
@@ -437,12 +437,12 @@
 |obrona|defe|ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans|
 |obrócić się (kręcić się)|rotu|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |obyczaj, zwyczaj, tradycja, praktyka, konwencja|rasme|ara:(rasm), hin:रस्म (rasma), may:resmi|
-|ocean|daysamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
+|ocean|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |ocenić, oceniać, recenzować, komentować, krytykować|pipinga|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
 |ocet|sirke|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |odcisk, ślad; stempel, pieczęć|cape|hin:छाप (chāp), may:cap, eng:chop|
 |oddech|nafas|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
-|odkurzacz|funcuper|zho:吸尘器 (xīchénqì), deu:Staubsauger|
+|odkurzacz|funocuper|zho:吸尘器 (xīchénqì), deu:Staubsauger|
 |odmówić (odrzucić)|nega|spa:por:negar, eng:negate|
 |odpowiedź, odzew|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
 |ogień|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
@@ -488,7 +488,7 @@
 |patrzeć (oglądać)|kana|zho:看 (kàn), min:khàn|
 |patrzeć, widzieć|vida|rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, cze:vidět, eng:vide|
 |pauza, przerwa|pauze|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
-|pałac|gunden|zho:宫殿 (gōngdiàn), viecung điện, jpn:宮殿 (j yūden), kor:궁전 (gungjeon)|
+|pałac|gunden|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |paść, padać, upaść, upadać|padu|tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|
 |pedał|pedal|deu:eng:spa:por:tur:pedal, fra:pédale, rus:педаль (pedal'), pol:pedał, jpn:ペダル (pedaru), kor:페달 (pedal)|
 |perła|lul|amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|
@@ -517,7 +517,7 @@
 |piłka|bol|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |placek, ciasto|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |placy|ruke|deu:Rücken|
-|plecak|ruksake|deu:eng:rucksack, cze:ruksak, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|
+|plecak|rukosake|deu:eng:rucksack, cze:ruksak, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|
 |plemię|tribe|fra:spa:tribu, por:tgl:tribo, eng:tribe|
 |pluć|tuha|hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|
 |pociąg|tren|eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|
@@ -567,7 +567,7 @@
 |prawo|kanun|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
 |prawy, sprawiedliwy, słuszny, uczciwy, fair|egal|fra:égal, spa:por:igual, eng:equal|
 |prać, umyć, myć|waxa|eng:wash, deu:waschen, zho:洗 (xǐ)|
-|problem|vente|zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|
+|problem|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |proch strzelniczy|barude|ara:fas:urd:(bārūd), hin:बारूद (bārūd), pnb:ਬਾਰੂਦ (bārūd), swa:baruti, tur:barut, bul:барут (barut)|
 |profesja, zajęcie, zawód|pexe|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
 |program|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
@@ -715,7 +715,6 @@
 |szal, szalik|xal|fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|
 |szaleństwo|folia|eng:folly, fra:folie, ita:follia|
 |szaman|xaman|rus:шаман (šaman), eng:shaman|
-|szampon|kexosabun|por:xampu, spa:champú, eng:shampoo, jpn:シャンプー (shanpū), vie:xà bông, hin:शैंपू (śaimpū), tur:şampuan|
 |szansa|canse|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
 |szczotka|brox|eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), mal:berus|
 |szczyt (wierzchołek)|pike|eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|
@@ -727,7 +726,7 @@
 |szkło|kance|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:may:kaca, tel:గాజు (gāju)|
 |szmaragd|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
 |szofer (kierowca)|xofer|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
-|sztuka walki|jengexute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
+|sztuka walki|jengoxute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |sztuka|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
 |sztylet (puginał)|kanjar|fas:(xanjar), tur:haner, kaz:қанжар (qanjar), rus:кинжал (kinžal)|
 |szukać|serca|eng:search, fra:chercher|
@@ -819,7 +818,7 @@
 |wina, grzech; defekt, wada|dox|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
 |wino|vin|fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain)|
 |wiosna|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
-|wirusologia|viruslojia|pol:wirusologia, rus:вирусология (virusologiya)|
+|wirusologia|virusolojia|pol:wirusologia, rus:вирусология (virusologiya)|
 |wirus|virus|eng:virus, rus:вирус (virus)|
 |wiwatować; hura|ura|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |wiza|vize|tur:vize, eng:visa, rus:виза (viza), hin:वीज़ा (vīzā)|

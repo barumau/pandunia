@@ -36,14 +36,14 @@ ainstainium|mate|Es||einsteinium|Einsteinium||||||||||||||ejnŝtejnio|einsteiniu
 air|||eng:fra:spa:air, por:ar|air||||||||||हवा (वायु)|||||aero|ilma|powietrze
 airia|dex|IE|gle:Éire, eng:Ireland|Ireland||||||||||||||||Irlanti|
 airobare||||atmospheric pressure||||||||||||||||ilmanpaine|ciśnienie atmosferyczne
-airobarmeter||||barometer||||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
+airobarometer||||barometer||||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
 airolaskeria||||air force||||||||||||||||ilmavoimat|
 airoporte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|
 ais|||eng:ice, deu:Eis, may:és|ice||||||冰|||||||||glacio|jää|lód
 aisi||||icy|||||||||||||||glacia|jäinen|lodowy
 aisohoke||||ice hockey|hockey sur glace|hockey sobre hielo|hóquei no gelo|хокке́й с ша́йбой||冰球| アイスホッケー|아이스하키||||||buz hokeyi||jääkiekko|hokej na lodzie
 aisokrem|||eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|ice cream|crème glacée|helado|sorvete (gelado)|мороженое||冰淇淋|アイスクリーム|아이스크림||आइसक्रीम|আইসক্রীম|es krim|||glaciaĵo|jäätelö|lody
-aisu||||freeze (get frozen)|geler|congelar (helar)|gelar|||结冰|凍る (凍結する)||||||||glaciiĝi (frostiĝi)|jäätyä|
+aisu||||feeze (get frozen)|geler (glacer)|congelar (helar)|gelar|||结冰|凍る (凍結する)||||||||glaciiĝi (frostiĝi)|jäätyä|
 ajaba||||amaze||||||||||||||||ällistyttää|
 ajabe||||marvel (wonder)|||maravilha|||||||||||||ihme|
 ajabi|||ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|amazing (astonishing)||||||||||||||||ihmeellinen (ällistyttävä, merkillinen)|
@@ -386,8 +386,8 @@ cis|||eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor
 cita||||quote (cite)|||||||||||||||citi|lainata (siteerata)|cytować
 citi marke||||quotation mark||||||||||||||||lainausmerkki|
 coda|||ben:চোদা (coda), hin:चोदना (codnā)|fuck (copulate)|||||||||||||||fiki|nussia (panna)|jebać, kopulować
-cokol|||eng:chocolate, hin:चाकलेट (cāklet), zho:巧克力 (qiǎokèlì), spa:chocolate, may:cokelat|chocolate|||||||||||||||ĉokolado|suklaa|czekolada
-cokolobaton||||chocolate bar|||||||||||||||ĉokolado|suklaapatukka|baton czekoladowy
+cokolate|||spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|chocolate|chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada
+cokolatobaton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
 cora||||steal|||||||||||||||ŝteli|varastaa|ukraść, kraść
 core|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|theft|||||||||||||||ŝtelo|varkaus|kradzież
 corer||||thief|||||||||||||||ŝtelisto|varas|złodziej
@@ -699,7 +699,7 @@ fone||||phone (speech sound)||||||||||||||||äänne (fooni)|głoska
 fonem||||phoneme||||||||||||||||äänne (foneemi)|fonem
 fonolojia||||phonology||||||||||||||||fonologia (äänneoppi)|fonologia
 fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, uzb:fontan, jpn:噴水 (funsui)|fountain (spring, well)||||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
-fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)|forer (percer)|perforar|furar (perfurar)|сверлить (бурить)||钻孔|||||||||taladro|porata|wiercić, borować
+fora |||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)|forer (percer)|perforar|furar (perfurar)|сверлить (бурить)||钻孔|||||||||taladri|porata|wiercić, borować
 forke||||fork|||||||||||||||forko|haarukka|widelec
 forma||||shape (sculpt)|||||||||||||||formigi|muotoilla (muovata)|ukształtować, kształtować, urzeźbić, rzeźbić
 forme||||form (shape)|||||||||||||||formo|muoto|forma, kształt
@@ -796,7 +796,7 @@ gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल
 gom|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber|||||||||||||||kaŭĉuko|kumi|guma
 gon|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|corner (angle)||||||||||कोण|||||angulo|kulma (nurkka)|kąt
 gonometer||||goniometer||||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
-goton|||ara:(quṭun), spa:algodón, fra:coton, eng:cotton|cotton|||||||||||||||kotono|puuvilla|bawełna
+goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton|coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna
 governa||||govern||gobernar|||||治める (司る)||||||||||
 governe|||eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|government|gouvernement|gobierno|governo|||政府|政府||||||||||
 gowa||||go|||||||||||||||iri|mennä|iść (przemieścić się)
@@ -825,7 +825,7 @@ guhe|||ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (tguha
 gujarati|nas|||Gujarati||||||||||||||||gujarati (eräs intialainen kieli)|Gudżarat
 gul||||ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||ghouli|ghul
 gula|||ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|swallow||||глотать|||||||||||gluti|niellä|połknąć (połykać)
-gunden|||zho:宫殿 (gōngdiàn), viecung điện, jpn:宮殿 (kyūden), kor:궁전 (gungjeon)|palace|palais|palacio|palácio|дворец|قَصْر‎|宫殿|宮殿|궁 (궁전)|cung điện|महल|প্রাসাদ|istana|kasri|saray|palaco|palatsi|pałac
+gunden|||zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|palace|palais|palacio|palácio|дворец|قَصْر‎|宫殿|宮殿|궁 (궁전)|cung điện|महल|প্রাসাদ|istana|kasri|saray|palaco|palatsi|pałac
 gune|||hin:गुण (guṇ), ben:গুণ (guṇ), tel:(guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun)|quality (excellence, virtue, merit)|||||||||||||||eco|laatu (laadukkuus, erinomaisuus, hyvyys)|cecha, atrybut, własność; -ość
 guni||||excellent||||||||||||||||laadukas (hyvä)|
 gunodarme|||tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|virtue (morals)||||||道德||||||||||hyve|
@@ -1042,10 +1042,11 @@ jener||||parent (mother, father)||parente (madre, padre)|||||||||||||||
 jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)|||||||||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jenger||||warrior (fighter)||||||||||||||||soturi (taistelija)|wojownik, bojownik
 jengi||||military (martial, warlike)|||||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
-jengoxute||||martial art||||||||||||||||kamppailulaji|sztuka walki
-jentil||||kind (nice, gentle)|||||||||||||||bonkora|kiltti|uprzejmy, miły
+jengoxute|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||||||||||||||||kamppailulaji|sztuka walki
 jenoden||||birthday|||||||||||||||naskiĝtago|syntymäpäivä|urodziny
 jenoklas||||caste||||||||||||||||sääty (kasti)|kasta
+jenotipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
+jentil||||kind (nice, gentle)|||||||||||||||bonkora|kiltti|uprzejmy, miły
 jenu||||be born|||||||||||||||naski|syntyä|urodzić się, rodzić się
 jenxen||||ginseng||||||||||||||||ginseng|żeń-szeń
 jersia|dex|JE||Jersey||||||||||||||||Jersey|Jersey
@@ -1091,7 +1092,7 @@ kakaw|||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ
 kake|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|excrement (shit)|||||||||||||||feko|uloste (kakka)|ekskrement, gówno
 kal||||space (separation)||espacio (separación)|||||||||||||||
 kalalia|dex|GL||Greenland||||||||||||||||Grönlanti|
-kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|||||||||||||||plumo|kynä|pióro, długopis
+kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|pluma|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
 kali|||ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|empty||||пустой|||空|||ख़ाली|খালি||||malplena|tyhjä|pusty
 kali harfe||||whitespace|espace|espacio (texto)|espaço|||空隙|間隔||||||||||
 kalifornium|mate|Cf||californium|||||||||||||||kaliforniumo|kalifornium|kaliforn
@@ -1110,7 +1111,7 @@ kampe||||camp||||||||||||||||leiri|obozowicz
 kamper||||camper||||||||||||||||retkeilijä|obóz
 kamri||||Welsh||||||||||||||||walesilainen|
 kamria|dex|||Wales (Cambria)||||||||||||||||Wales|
-kan|badan||tam:கண் (kaṇ), tel:(kannu), kan:(kaṇṇu), mal:കണ്ണ് (kaṇṇu)|eye|||||||||||||||okulo|silmä|oko
+kan|badan||tam:கண் (kaṇ), tel:(kannu), kan:(kaṇṇu), mal:കണ്ണ് (kaṇṇu)|eye||ojo|olho||||||||||||okulo|silmä|oko
 kana|||zho:看 (kàn), min:khàn|eye (look, watch)|||||||||||||||okulumi|silmäillä (katsoa)|patrzeć (oglądać)
 kanadia|dex|CA||Canada||||||||||||||||Kanada|Kanada
 kanal||||channel|||||||||||||||kanalo|kanava (kanaali)|kanał
@@ -1121,8 +1122,8 @@ kandel|unomete|cd||candela||||||||||||||||kandela|
 kange|||hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā)|comb||||||||||||||||kampa|grzebień
 kangur||||cangaroo|||||||||||||||kangaro|kenguru|kangur
 kanjar|||fas:(xanjar), tur:haner, kaz:қанжар (qanjar), rus:кинжал (kinžal)|dagger||||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
-kanokex||||eyelash||||||||||||||||silmäripsi|
 kanoe|||eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
+kanokex||||eyelash||||||||||||||||silmäripsi|
 kanon|||eng:cannon, spa:cañón, zho:加农 (jiānóng), jpn:(kyanon), kor:캐넌 (kaeneon)|gun (cannon)|||||||||||||||kanono|tykki (pyssy)|działo
 kanoner||||cannoneer|||||||||||||||kanonisto|tykkimies|kanonier
 kanosuy|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop||||||||||||||||kyynel|łza
@@ -1156,7 +1157,7 @@ karwan|||fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), en
 kase|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)||||||||||||||||tapaus (seikka)|wydarzenie, przypadek, sytuacja
 kastan|||spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut|||||||||||||||kaŝtano|kastanja|kasztan
 kastor|||fra:por:spa:castor, tgl:tur:kastor|beaver|||||||||||||||kastoro|majava|bóbr
-kata|||eng: cut, hin: काटना /kāṭnā/, swa: -kata|cut||||||切|||||||||tranĉi|katkaista (leikata)|ciąć
+kata|||eng: cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|cut||||||切|||cắt|काटना|কাটা||kata||tranĉi|katkaista (leikata)|ciąć
 katalunia||||Catalonia|||||||||||||||Katalunio|Katalonia|Katalonia
 katan|||jpn:刀 (katana)|sword||||меч|||||||||||glavo|miekka|miecz
 kataria|dex|QA||Qatar||||||||||||||||Qatar|Katar
@@ -1502,19 +1503,19 @@ makan||||butter||||||||||||||||voi|masło
 makas|||ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|scissors|||||||||||||||tondilo|sakset|nożyce, nożyczki
 makaw|dex|MO||Macao||||||||||||||||Macao|Makau
 mal||||bad|||||||||||||||malbona|huono|zły
-malo rupi|||zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|ugly|||||||||||||||malbonaspekta|ruma (pahannäköinen)|brzydki
 mal zar||||misfortune (bad luck)||||||||||||||||epäonni|zły los
 malaisia|dex|MY||Malaysia||||||||||||||||Malesia|Malezja
 malaria||||malaria||||||||||||||||malaria|malaria
 malawia|dex|MW||Malawi||||||||||||||||Malawi|Malawi
 malayali|nas|||Malayali (Malayalam)||||||||||||||||malajalam (eräs intialainen kieli)|malajski
 malayi||||Malay||||||||||||||||malaiji|
-malofunce||||malfunction||||||||||||||||toimintahäiriö|
 malia|dex|ML||Mali|||||||||||||||Malio|Mali|Mali
 malike|||kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|jasmine|||||||||||||||jasmeno|jasmiini|jaśmin
 malka||||own||||||||||||||||omistaa|mieć (posiadać)
 malke|||ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|property (belongings, possessions)|propriété (possession, bien)|||||||||||||||omaisuus|własność (mienie)
 malker||||owner (proprietor)|possédant (propriétaire)||||||||||||||havanto|omistaja|właściciel (posiadacz)
+malofunce||||malfunction||||||||||||||||toimintahäiriö|
+malorupi|||zho:难看 (nánkàn), hin:बदसूरत (badsūrat)|ugly|||||||||||||||malbonaspekta|ruma (pahannäköinen)|brzydki
 maltia|dex|MT||Malta||||||||||||||||Malta|Malta
 malvinas nesia|dex|FK||Falkland Islands (Malvinas)||||||||||||||||Falklandin saaret|Falklandy, Malwiny
 mamal||||mammal||||||||||||||||nisäkäs|ssak
@@ -1572,7 +1573,7 @@ maxime|||eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:
 maximi||||maximal||||||||||||||||enimmäis-|maksymalny
 maxin|||fra: machine, eng: machine, deu: Maschine, may: mesin|machine|||||||||||||||maŝino|kone|maszyna
 maxor|||fra: majeur, eng: major, spa: mayor|major (not minor)||||||||||||||||enemmistö-|większościowy, wiodący, główny
-maxoria|||spa: mayoría|majority (most)||||||||||||||||enemmistö|większość
+maxoria|||spa: mayoría|majority||||||||||||||||enemmistö|większość
 mayan||||Maya|||||||||||||||majao|maya (mayaintiaani)|Maya
 maye|||zho:蚂蚁 (mǎyǐ), yue:螞蟻 (maa5 ngai5)|ant|fourmi|hormigo||||蚂蚁|||||||||formiko|muurahainen|mrówka
 mayotia|dex|YT||Mayotte||||||||||||||||Mayotte|Majotta
@@ -1942,6 +1943,8 @@ panameriki||||pan-American||||||||||||||||panamerikkalainen|panamerykański
 panamia|dex|PA||Panama|||||||||||||||Panamo|Panama|Panama
 panasi||||pan-Asian||||||||||||||||panaasialainen|panazjatycki
 pande||||panda|||||||||||||||pando|panda|panda
+pandunia||||Pandunia|||||||||||||||pandunia|pandunia|Pandunia
+panduniste||||Pandunia speaker||||||||||||||||pandunian puhuja|osoba mówiąca w Panduni
 paneuropi||||pan-European||||||||||||||||paneurooppalainen|paneuropejski
 pang|||tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain|bread|pain||pão|хлеб|خُبْز|面包|パン|||रोटी (नान)||roti|mkate||pano|leipä|chleb
 panike||||panic|||||||||||||||paniko|hätä (paniikki)|panika
@@ -1955,8 +1958,6 @@ panodewistia||||pantheism||||||||||||||||monijumalisuus (panteismi)|panteizm
 panoduni||||global (concerning the whole world)|||||||||||||||tuttera|maailmanlaajuinen (globaali)|globalny (światowy)
 panoromansi||||panromantic|||||||||||||||||
 panoseksi||||pansexual|||||||||||||||||
-pandunia||||Pandunia|||||||||||||||pandunia|pandunia|Pandunia
-panduniste||||Pandunia speaker||||||||||||||||pandunian puhuja|osoba mówiąca w Panduni
 pantalon||||pants (trousers)|||||||||||||||pantalonoj|housut|spodnie, pantalony, portki
 papagay|||ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|parrot (parakeet)|perroquet|||попугай||鹉鹦|||||||||papago|papukaija|papuga
 papay|||eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), Hin:पपीता (papītā), ben:পেঁপে (pẽpe)|papaya|papaye|papaya|mamão (papaia)|папайя||木瓜|パパイヤ|파파야|đu đủ|पपीता|পেঁপে|pepaya (betik)|papai|papaya|papajo|papaija|papaja
@@ -1984,7 +1985,7 @@ pasa||||pass (go by, go past)||||||||||||||||kuluttaa aikaa|minąć, mijać, prz
 pase|||eng:past, spa:pasado, por:passado, fra: passé|past times||||||||||||||||menneisyys|przeszłość
 paskal|unomete|Pa||pascal (Pa)||||||||||||||||pascal (Pa)|paskal (Pa)
 paske||||Easter||||||||||||||||pääsiäinen|Wielkanoc
-pasoporte|||eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
+pasporte|||eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 paste|||eng:deu:paste, rus:(pasta), spa:por:pasta|paste||||||||||||||||tahna (tahdas)|pasta
 patate|||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|potato|||||||||||||||terpomo|peruna (potaatti)|ziemniak
 pati||||ill (sick)|||||||||||||||malsana|sairas|chory
@@ -2079,8 +2080,8 @@ politiker||||politician|||||||||||||||politikisto|poliitikko|polityk
 politiki||||political|||||||||||||||politika|poliittinen|
 politikolojia||||politocology||||||||||||||||politiikantutkimus|politologia
 polodewistia||||polytheism||||||||||||||||polyteismi (monijumalisuus)|politeizm
-pologon||||polygon|||||||||||||||poligono|monikulmio (polygoni)|wielokąt (wielościan)
 polofas||||polyhedron||||||||||||||||monitahokas|wielościan
+pologon||||polygon|||||||||||||||poligono|monikulmio (polygoni)|wielokąt (wielościan)
 polomeni||||ambiguous||||||||||||||||monimerkityksinen|
 polon|mate|Po||polonium|||||||||||||||polonio|polonium|polon
 polski||||Polish||||||||||||||||puolalainen|polski
@@ -2120,6 +2121,8 @@ prizon|||eng:fra:prison, spa:prisión, por:prisão|prison (imprisonment)||||||||
 prizona||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 prizoner||||jailer (imprisoner)||carcelero||||||||||||||vanginvartija|strażnik więzienny
 prizonia||||prison||cárcel|||||||||||||malliberejo|vankila|więzienie, zakład karny
+problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|problem (issue)|problème|problema|problema|проблема||问题 (难题)|問題|문제|vấn đề|समस्या (मसला)|প্রব্লেম|masalah|tatizo|sorun (problem)|problemo|ongelma|problem
+problemi||||problematic|problématique|||проблематичный||||||||||||ongelmallinen|
 profesor||||professor|||||||||||||||profesoro|professori|profesor
 program|||eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|program (set of structured activities)|programme|programa|programa|программа||计划|次第 (計画, プログラム)|계획 (프로그램)|kế hoạch|प्रोग्राम||program|programu|program|programo|ohjelma|program
 programer||||programmer (coder)||||||||||||||||ohjelmoija|programista, koder
@@ -2304,15 +2307,16 @@ samoa|dex|WS||Samoa||||||||||||||||Samoa|Samoa
 samodexi||||compatriot|||||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
 samojinsokami||||homosexual|||||||||||||||samseksema|homoseksuaali|homoseksualny
 samoray||||agreement (consent)|accord|acuerdo|acordo|согласие||一致||||सहमति||persetujuan||anlaşma|interkonsento|yhteisymmärrys|porozumienie
+samoraya|||||||||||||||||||||
 samoraya||||agree (concur)|||||||||||||||samopinii (interkonsenti)|olla samaa mieltä|potwierdzić, potwierdzać, zgodzić się, zgadzać się
-samoseksi||||homosexual|||||||||||||||||
 samoromansi||||homoromantic|||||||||||||||||
+samoseksi||||homosexual|||||||||||||||||
 samu||||resemble (be like)|||||||||||||||||być podobnym, być jak
 samude|||khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|sea|mer|mar|mar|море||海||||समन्दर (समुद्र)||laut (samudera)||deniz|maro|meri|może
-samudojel||||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||
-samudolaskeria||||sea force (navy)||||||||||||||||merivoimat|
-samudotate||||coast (beach)|côte|costa|costa|||海岸|海岸||||||||||
 samudi||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|
+samudojel||||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||
+samudotate||||coast (beach)|côte|costa|costa|||海岸|海岸||||||||||
+samudolaskeria||||sea force (navy)||||||||||||||||merivoimat|
 samun||||joint||||||||||||||||yhdistys (sidos)|połączenie, złącze, styk
 samuna|||isl:sameina, deu:vereinigen|connect (join, link)||||||||||||||||yhdistää|łączyć, wiązać, złączyć
 sana|||vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|produce (create, make)|||||||||||||||produkti (fabriki)|tehdä (valmistaa)|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
@@ -2451,9 +2455,9 @@ suboniam||||breakfast||||||||||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||||||||||||||||Sudan|Sudan
 sude|||spa:sur, por:sul, fra:sud|south|||||||||||||||sudo|etelä|południe
-sudi iria, alonia|dex|||South Ossetia (Alania)||||||||||||||||Etelä-Ossetia|
 sudi amerike||||South America||||||||||||||||Etelä-Amerikka|
 sudi cosenia|dex|KR||South Korea (Republic of Korea)|||||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
+sudi iria, alonia|dex|||South Ossetia (Alania)||||||||||||||||Etelä-Ossetia|
 sudi jorjia e sudi sanwice nesia|dex|GS||South Georgia and the South Sandwich Islands|||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 sudi sudania|dex|SS||South Sudan||||||||||||||||Etelä-Sudan|Sudan Południowy
 suede||||sweat (perspiration)||||||||||||||||hiki|pot
@@ -2490,10 +2494,9 @@ suta|||hin:सीना (sīnā), rus:шить (šit'), cze:šít, eng:sew|sew||
 sutur|||fra:eng:suture, por:spa:sutura|suture (seam)||||||||||||||||sauma (ommel)|szew
 suxe||||sushi|||||||||||||||suŝio|sushi|sushi
 suy|||zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|water|eau|agua|água|вода||水|水|물 (수)|nước|पानी|জল (পানি)|air|maji|su|akvo|vesi|woda
-suyorang||||watercolor||||||||||||||||vesiväri (akvarelliväri)|akwarela, farba wodna
-suyogas||||vapor||||||||||||||||höyry|
 suyogas||||steam (vapor)|vapeur d’eau|vapor|vapor|пар||蒸汽|湯気|||भाप|ভাপ|kukus (uap, wap)||buhar|vaporo|höyry (vesihöyry)|para wodna
 suyoporte||||harbor (seaport)||puerto marítimo|porto marítimo||||||||||||haveno|satama|
+suyorang||||watercolor||||||||||||||||vesiväri (akvarelliväri)|akwarela, farba wodna
 suyosekuri||||waterproof||||||||||||||||vesitiivis|
 tabake|||deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco|||||||||||||||tabako|tupakka|tytoń
 tabla||||tabulate||||||||||||||||taulukoida|ułożyć w trabelę
@@ -2676,11 +2679,9 @@ vanil||||vanilla||||||||||||||||vanilja|wanilia
 vanuatia|dex|VU||Vanuatu||||||||||||||||Vanuatu|Vanuatu
 vatikania|dex|VA||Holy See (Vatican City State)||||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo, tkm:waza|pot (vase, bin, jar, jug)|vase|||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
-veje||||vegetable||||||蔬菜|||||||||legomo|kasvis|warzywo
-vejoniamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|
+vejete||||vegetable||||||蔬菜|||||||||legomo|kasvis|warzywo
+vejetoniamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|
 venezolia|dex|VE||Venezuela|Venezuela|||||||||||||||Venezuela|Wenezuela
-vente|||zho:问题 (wèntí), wuu:问题 (véndí), vie:vấn đề, yue:問題 (man6tai4), jpn:問題 (mondai), kor:문제 (munje)|problem (issue)|problème|problema|problema|проблема||问题 (难题)|問題|문제|vấn đề|समस्या (मसला)|প্রব্লেম|masalah|tatizo|sorun (problem)|problemo|ongelma|problem
-venti||||problematic|problématique|||проблематичный||||||||||||ongelmallinen|
 venus||||Venus||Venus|||||||||||||||
 veri|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, very, indeed)|vrai|verdadero|verdadeiro|верный|||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm|ver|verme|verme|||||||||||||mato|robak

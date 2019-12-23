@@ -26,9 +26,10 @@ afrikofilia - afrophilie
 agres - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
-airporte - aéroport  
+airoporte - aéroport  
 aisohoke - hockey sur glace  
 aisokrem - crème glacée  
+aisu - geler (glacer)  
 ajil - agile  
 akse - axe  
 aksente - accent  
@@ -143,16 +144,18 @@ buke - livre
 ca - de  
 canse - chance  
 cay - thé  
-caykupe - tasse à thé  
+cayokupe - tasse à thé  
 cerni - noir  
 cis - fromage  
+cokolate - chocolat  
+cokolatobaton - tablette de chocolat  
 ##d
 dalil - preuve  
 damaje - dommage  
 danse - dance  
 date - données  
 datobanke - base de données  
-daysamude - océan  
+dayosamude - océan  
 destin - destin (destination)  
 dew - dieu  
 dokum - document (dossier)  
@@ -192,6 +195,7 @@ gati - dur
 gazel - gazelle  
 gitar - guitare  
 gol - but  
+goton - coton  
 grupe - groupe  
 gul - goule  
 gunden - palais  
@@ -206,7 +210,7 @@ hami - important
 hande - main  
 hay - vie  
 hewan - animal (bête)  
-hewanparke - zoo  
+hewanoparke - zoo  
 hijabe - voile  
 him - neige  
 hisaba - calculer  
@@ -224,6 +228,7 @@ ive - tendance
 ##j
 jana - saber (conocer)  
 jeinistia - jaïnisme  
+jenotipe - génotype  
 jinse - genre (espèc)  
 jiraf - giraffe  
 jul - joule (J)  
@@ -234,6 +239,7 @@ jus - jus
 kafas - cage  
 kafe - café  
 kagaze - papier  
+kalam - plume  
 kamar - pièce (chambre)  
 kamis - chemise  
 kanape - canapé (sofa)  
@@ -391,6 +397,8 @@ piratia - piraterie
 pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
+problem - problème  
+problemi - problématique  
 program - programme  
 projete - projet  
 pul - fleur  
@@ -436,8 +444,8 @@ sikliste - cycliste
 site - ville  
 socia - société  
 sol - soleil  
-solcate - ombrelle (parasol)  
-sonkamar - chambre à coucher  
+solocate - ombrelle (parasol)  
+sonokamar - chambre à coucher  
 sonu - dormir  
 sos - sauce  
 sosis - saucisse  
@@ -446,7 +454,7 @@ sundari - beau
 sundaria - beauté  
 susan - lys  
 suy - eau  
-suygas - vapeur d’eau  
+suyogas - vapeur d’eau  
 ##t
 tarje - traduction  
 tazi - frais  
@@ -479,10 +487,8 @@ vagin - vagine
 vaginitis - vaginite  
 vampir - vampire  
 vaze - vase  
-vejoniamiste - végétarien  
+vejetoniamiste - végétarien  
 venezolia - Venezuela  
-vente - problème  
-venti - problématique  
 veri - vrai  
 verme - ver  
 vespe - abeille ou guêpe  
@@ -492,7 +498,7 @@ vokal - voyelle
 vulve - vulve  
 ##w
 wal - mur  
-walpapir - papier peint  
+walopapir - papier peint  
 wana - vouloir  
 warkolate - page  
 weki - éveillé  
@@ -505,7 +511,7 @@ xatan - Satan
 xaw - peu  
 xef - chef  
 xey - chose  
-xeyhal - situation (état de choses)  
+xeyohal - situation (état de choses)  
 xing - étoile  
 xite - merde  
 xopa - acheter  
