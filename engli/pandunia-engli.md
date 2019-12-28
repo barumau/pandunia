@@ -8,7 +8,6 @@
 a - but (whereas)  
 ##a
 abace - alphabet  
-abhasia - Abkhazia  
 abla - can (know, be able)  
 able - ability (skill)  
 abli - possible  
@@ -101,6 +100,7 @@ antokriste - antichrist
 antonam - antonym  
 anus - anus  
 anusi - anal  
+aphazia - Abkhazia  
 aple - apple  
 aplika - apply (put to use for a purpose)  
 aplike - application  
@@ -391,6 +391,7 @@ corer - thief
 coseni - Korean  
 cosenia - Korea  
 coy - greens  
+cuania - Botswana  
 cula - exclude (except, save)  
 cum - kiss  
 cune - spring (springtime)  
@@ -2593,7 +2594,6 @@ trenodaw - railway (railroad)
 trenokaper - train hijacker  
 tribe - tribe  
 trinidade e tobage - Trinidad and Tobago  
-tsuania - Botswana  
 tuale - toilet (WC)  
 tube - tube (pipe)  
 tuha - spit  

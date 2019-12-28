@@ -13,7 +13,7 @@ aasialainen - asi
 aate (ismi, ideologia, uskonto, jne) - istia  
 aatteen kannattaja - iste  
 aavikko (hiekkaerämaa) - registan  
-Abhaasia - abhasia  
+Abhaasia - aphazia  
 abyssinia - habaxia  
 abyssinialainen - habaxi  
 adjektiivi (laatusana) - sifolekse  
@@ -192,7 +192,7 @@ boikotti - boikote
 Bolivia - bolivia  
 boori - boron  
 Bosnia ja Hertsegovina - bosnia  
-Botswana - tsuania  
+Botswana - cuania  
 Brasilia - brazilia  
 Brazzavillen Kongo - brazavili kongolia  
 bromi - brom  

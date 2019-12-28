@@ -162,7 +162,7 @@ bomba - bombe
 bor - boron  
 boski - dewi  
 botanika - fitolojia  
-Botswana - tsuania  
+Botswana - cuania  
 Bośnia i Harcegowina - bosnia  
 Boże Narodzenie - kristojen  
 Brazyla - brazilia  

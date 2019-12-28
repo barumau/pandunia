@@ -8,7 +8,6 @@
 a - mutta  
 ##a
 abace - aakkoset (ABC)  
-abhasia - Abhaasia  
 abla - voida (osata, pystyä)  
 able - taito (kyky)  
 abli - mahdollinen  
@@ -98,6 +97,7 @@ antokriste - antikristus
 antonam - vastakohta (antonyymi)  
 anus - peräaukko (anus)  
 anusi - anaalinen  
+aphazia - Abhaasia  
 aple - omena  
 aplika - soveltaa  
 aplike - sovellus  
@@ -382,6 +382,7 @@ corer - varas
 coseni - korealainen  
 cosenia - Korea  
 coy - vihannes  
+cuania - Botswana  
 cula - paitsi (poislukien)  
 cum - suukko (pusu)  
 cune - kevät  
@@ -2507,7 +2508,6 @@ trenodaw - junarata (rautatie)
 trenokaper - junakaappari  
 tribe - heimo  
 trinidade e tobage - Trinidad ja Tobago  
-tsuania - Botswana  
 tuale - vessa  
 tube - putki (tuubi)  
 tuha - sylkeä  

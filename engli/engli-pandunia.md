@@ -4,7 +4,7 @@
 a couple of - dul o tin  
 ##a
 ability (skill) - able  
-Abkhazia - abhasia  
+Abkhazia - aphazia  
 about (approximately, nearly) - yago  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
@@ -319,7 +319,7 @@ boron - boron
 Bosnia and Herzegovina - bosnia  
 botany (phytology) - fitolojia  
 bother - mafana  
-Botswana - tsuania  
+Botswana - cuania  
 bottle - botol  
 bottom - tal  
 bow instrument (violin, etc.) - ticin  

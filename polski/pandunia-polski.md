@@ -320,6 +320,7 @@ cokolatobaton - baton czekoladowy
 cora - ukraść, kraść  
 core - kradzież  
 corer - złodziej  
+cuania - Botswana  
 cula - pominąć, wyłączyć; poza, oprócz  
 cum - całus  
 cune - wiosna  
@@ -2267,7 +2268,6 @@ trenodaw - kolej
 trenokaper - porywacz pociągu  
 tribe - plemię  
 trinidade e tobage - Trynidad i Tobago  
-tsuania - Botswana  
 tuale - taleta, WC  
 tube - tuba, rura  
 tuha - pluć  

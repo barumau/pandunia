@@ -27,6 +27,7 @@ anime - оживление
 anker - якорь  
 anten - антенна  
 anus - анус  
+aphazia - Абхазия  
 aple - яблоко  
 arane - паук  
 arbe - дерево  
