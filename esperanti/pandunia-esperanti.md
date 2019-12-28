@@ -930,7 +930,6 @@ lutetium - lutecio
 ##m
 maca - kongrui  
 magia - magio  
-magnes - magnezio  
 maitnerium - mejtnerio  
 makas - tondilo  
 mal - malbona  
@@ -941,6 +940,7 @@ malorupi - malbonaspekta
 mame - patrino  
 man - viro  
 mangan - mangano  
+manges - magnezio  
 manir - maniero (konduto)  
 manse - viando  
 mara - edzigi  

@@ -333,6 +333,7 @@
 |feather|per|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |fee (fare, tariff, rate)|tarif|eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|
 |female|fem|fra:femme, por:fêmea, eng:female|
+|field (square, plaza, maidan)|maidan|ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|
 |fiever|febre|por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|
 |fight (war, battle, combat)|jeng|zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|
 |finger (toe)|finge|eng:finger|

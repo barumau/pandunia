@@ -1481,13 +1481,10 @@ mafana - bother
 mager - magician (sorcerer)  
 magi - magical  
 magia - magic  
-magnes - magnesium  
-magnete - magnet  
-magneti - magnetic  
 magribia - Morocco  
-maidan - field (square, plaza)  
-maidanfobia - agoraphobia  
+maidan - field (square, plaza, maidan)  
 maidani - open (wide, spacious)  
+maidanofobia - agoraphobia  
 mais - corn (maize)  
 maitnerium - meitnerium  
 makale - article (writing)  
@@ -1516,6 +1513,9 @@ man - male
 mandir - temple  
 mangan - manganese  
 mange - mango  
+manges - magnesium  
+mangete - magnet  
+mangeti - magnetic  
 mangus - mangosteen  
 mani bace - son  
 mani rajer - king  

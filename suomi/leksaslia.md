@@ -257,6 +257,7 @@
 |keitto (soppa)|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
 |kemia|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |kenkä|sapate|spa:zapato, por:sapato, may:sepatu, swa:sapatu|
+|kenttä (aukio)|maidan|ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|
 |kerma|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |kerros|ceng|zho:层 (céng), yue:層 (cang4), kor:층 (chŭng), vie:tầng|
 |kerta (vuoro)|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|

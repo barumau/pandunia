@@ -281,12 +281,14 @@ luthérien - lutheristi
 lys - susan  
 ##m
 machine à écrire - kitabomaxin  
+magnésium - manges  
 main - hande  
 mais (bien que) - a  
 manichéisme - manihayistia  
 marbre - marmar  
 marché (bazar) - bazar  
 mariage - maria  
+Maroc - magribia  
 masque - maske  
 match - mece  
 maximum - maxime  
@@ -379,6 +381,7 @@ piraterie - piratia
 pizza - pize  
 pièce (chambre) - kamar  
 placard - almar  
+place - maidan  
 pluie - barxe  
 plume - kalam  
 plus - max  

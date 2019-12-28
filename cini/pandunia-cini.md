@@ -250,7 +250,10 @@ lung - 龙
 luta - 掠夺  
 luter - 强盗  
 ##m
+magribia - 摩洛哥  
+maidan - 广场  
 mame - 妈妈  
+manges - 镁  
 manihayistia - 摩尼教  
 manir - 方式  
 manse - 肉  

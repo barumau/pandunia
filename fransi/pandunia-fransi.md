@@ -308,9 +308,12 @@ lutheristi - luthérien
 lutheristia - luthéranisme  
 luzer - perdant  
 ##m
+magribia - Maroc  
+maidan - place  
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
 mame - mère (maman)  
+manges - magnésium  
 manihayistia - manichéisme  
 manir - comportement (manière)  
 manse - viande  

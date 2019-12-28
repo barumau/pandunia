@@ -1262,9 +1262,6 @@ mafana - przeszkodzić, przeszkadzać, robić kłopot
 mager - magik, czarownik  
 magi - magiczny  
 magia - magia  
-magnes - magnez  
-magnete - magnes  
-magneti - magnetyczny  
 magribia - Maroko  
 maidan - skwer, plac  
 mais - kukurydza  
@@ -1293,6 +1290,9 @@ man - męski
 mandir - świątynia  
 mangan - mangan  
 mange - mango  
+manges - magnez  
+mangete - magnes  
+mangeti - magnetyczny  
 mangus - mangostan  
 mani bace - syn  
 mani rajer - król  

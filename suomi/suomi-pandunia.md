@@ -24,7 +24,7 @@ Afrikka - afrike
 afrikkalainen - afriki  
 afrofiili - afrikofiler  
 afrofilia - afrikofilia  
-agorafobia (avoimen paikan kammo) - maidanfobia  
+agorafobia (avoimen paikan kammo) - maidanofobia  
 ahne - tami  
 Ahvenanmaa (Oolanti) - olandia  
 ai! (au!) - ay  
@@ -1254,9 +1254,9 @@ maata (makoilla) - lala
 maavoimat - zemolaskeria  
 Macao - makaw  
 Madagaskar - madagasia  
-magneetti - magnete  
-magneettinen - magneti  
-magnesium - magnes  
+magneetti - mangete  
+magneettinen - mangeti  
+magnesium - manges  
 maha (vatsa) - bung  
 mahdollinen - abli  
 mahdollisuus (tilaisuus) - canse  

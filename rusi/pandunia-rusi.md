@@ -252,7 +252,10 @@ luter - грабитель
 lutheristi - лютеранский  
 lutheristia - лютера́нство  
 ##m
+magribia - Марокко  
+maidan - площадь (сквер, майдан)  
 mame - мать (мама)  
+manges - магний  
 manihayistia - манихейство  
 manir - поведение (манера)  
 manse - мясо  

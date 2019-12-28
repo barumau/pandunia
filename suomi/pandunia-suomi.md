@@ -1447,13 +1447,10 @@ mafana - vaivata
 mager - taikuri  
 magi - taianomainen (maaginen)  
 magia - taika (taikuus, magia)  
-magnes - magnesium  
-magnete - magneetti  
-magneti - magneettinen  
 magribia - Marokko  
 maidan - kenttä (aukio)  
-maidanfobia - agorafobia (avoimen paikan kammo)  
 maidani - avara (aava)  
+maidanofobia - agorafobia (avoimen paikan kammo)  
 mais - maissi  
 maitnerium - meitnerium  
 makale - artikkeli (kirjoitus)  
@@ -1482,6 +1479,9 @@ man - uros (mies)
 mandir - temppeli  
 mangan - mangaani  
 mange - mango  
+manges - magnesium  
+mangete - magneetti  
+mangeti - magneettinen  
 mangus - mangostani  
 mani bace - poika  
 mani rajer - kuningas  

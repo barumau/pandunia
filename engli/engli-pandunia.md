@@ -40,7 +40,7 @@ again (repeatedly) - repi
 age - umur  
 aggressive - agresi  
 agile - ajil  
-agoraphobia - maidanfobia  
+agoraphobia - maidanofobia  
 agree (concur) - samoraya  
 agreement (consent) - samoray  
 air - air  
@@ -882,7 +882,7 @@ female - fem
 feminism - femistia  
 feminist - femiste  
 fermium - fermium  
-field (square, plaza) - maidan  
+field (square, plaza, maidan) - maidan  
 fiery - piri  
 fiever - febre  
 fight (war, battle, combat) - jeng  
@@ -1446,9 +1446,9 @@ magazine (journal, gazette) - baw
 magic - magia  
 magical - magi  
 magician (sorcerer) - mager  
-magnesium - magnes  
-magnet - magnete  
-magnetic - magneti  
+magnesium - manges  
+magnet - mangete  
+magnetic - mangeti  
 mail (send by mail) - posta  
 mail - poste  
 main (principal) - xefi  

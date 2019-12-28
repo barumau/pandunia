@@ -92,6 +92,7 @@ cokolate - chocolate
 cokolatobaton - barra de chocolate  
 coy - verduras  
 ##d
+dade - dado  
 dalil - prueba  
 danse - dança (baile)  
 date - datos  
@@ -235,7 +236,10 @@ lutheristi - luterano
 lutheristia - luteranismo  
 luzer - perdedor  
 ##m
+magribia - Marruecos  
+maidan - plaza  
 mame - madre (mamá)  
+manges - magnesio  
 manihayistia - maniqueísmo  
 manir - comportamiento (conducta)  
 manse - carne  

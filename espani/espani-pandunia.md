@@ -112,6 +112,7 @@ cárcel - prizonia
 cómo - ko?  
 cósmico - kosmi  
 ##d
+dado - dade  
 dança (baile) - danse  
 datos - date  
 de - ca  
@@ -241,12 +242,14 @@ léxico - leksi
 ##m
 madre (mamá) - mame  
 maestro - mester  
+magnesio - manges  
 maniqueísmo - manihayistia  
 mano - hande  
 manzana - aple  
 mapa - karte  
 mar - samude  
 marmól - marmar  
+Marruecos - magribia  
 marrón - bruni  
 marítimo - samudi  
 mas - max  
@@ -338,6 +341,7 @@ pila (batería) - batre
 piratería - piratia  
 piña - nanas  
 plata - argente  
+plaza - maidan  
 pluma - kalam  
 plátano (banana) - banan  
 pocos - xaw  

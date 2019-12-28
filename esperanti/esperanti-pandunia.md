@@ -827,7 +827,7 @@ lupo - wolfe
 lutecio - lutetium  
 ##m
 magio - magia  
-magnezio - magnes  
+magnezio - manges  
 majao - mayan  
 malamo - hen  
 malbona - mal  

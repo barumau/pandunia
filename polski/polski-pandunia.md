@@ -961,9 +961,9 @@ magazyn, dziennik, gazeta - baw
 magia - magia  
 magiczny - magi  
 magik, czarownik - mager  
-magnes - magnete  
-magnetyczny - magneti  
-magnez - magnes  
+magnes - mangete  
+magnetyczny - mangeti  
+magnez - manges  
 maj - mes 2 (mes dul)  
 Majotta - mayotia  
 makaron - mien  
