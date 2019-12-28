@@ -23,7 +23,6 @@ adi - tavallinen
 adres - osoite  
 adresosimbol (@) - @-merkki  
 adulte - aikuinen  
-afgania - Afganistan  
 afrike - Afrikka  
 afriki - afrikkalainen  
 afrikofiler - afrofiili  
@@ -140,6 +139,8 @@ autonomi - autonominen
 autonomia - itsehallinto (autonomia)  
 aventur - seikkailu  
 aventurer - seikkailija  
+avgani - afgaani  
+avgania - Afganistan  
 awakate - avokado  
 axur - Assur  
 axuria - Assyria  
@@ -1335,7 +1336,7 @@ late - sivu (kylki, puoli)
 lati - sivu-  
 latini abace - latinalaiset aakkoset  
 latinokitaba - latinoida  
-latvia - Latvia  
+latovia - Latvia  
 laurensium - lawrensium  
 lawi - laoslainen  
 lawia - Laos  

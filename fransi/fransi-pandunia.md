@@ -8,7 +8,8 @@ actinium - acinium
 action - acion  
 adresse - adres  
 adulte - adulte  
-Afghanistan - afgania  
+afghan - avgani  
+Afghanistan - avgania  
 africain - afriki  
 Afrique - afrike  
 afrophile - afrikofiler  
@@ -260,6 +261,7 @@ langue - bax
 lapin (lièvre) - tuze  
 lasagne - lazanye  
 latéral - lati  
+Lettonie - latovia  
 lexical - leksi  
 libellule - libel  
 lieu - loke  

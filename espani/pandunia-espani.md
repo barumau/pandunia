@@ -46,6 +46,8 @@ aspirin - aspirina
 aur - oro  
 aventur - aventura  
 aventurer - aventurero  
+avgani - afgano  
+avgania - Afganistán  
 ay - ay!  
 ##b
 babuce - chinelo (pantufa)  
@@ -208,6 +210,7 @@ lasker - soldado
 laskeria - ejército  
 late - lado (flanco)  
 lati - lateral  
+latovia - Letonia  
 lawi - anciano  
 lazanye - lasaña  
 leksaslia - etimología  

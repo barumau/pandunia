@@ -50,6 +50,7 @@ aspirin - 阿司匹林
 aur - 金  
 aventur - 冒险  
 aventurer - 冒险者  
+avgania - 阿富汗  
 ##b
 babe - 章  
 bace - 小孩  
@@ -225,6 +226,7 @@ kupe - 杯子
 lantan - 鑭  
 laskeria - 军队  
 late - 侧面 (旁边)  
+latovia - 拉脱维亚  
 lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  

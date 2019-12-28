@@ -18,7 +18,6 @@ adali - justa
 adalia - justeco  
 adres - adreso  
 adulte - plenaĝa  
-afgania - Afganujo, Afganio  
 afrike - Afriko  
 afriki - afrika  
 afrikofiler - afrikamanto  
@@ -100,6 +99,8 @@ australia - Aŭstralio
 automoti - memmova  
 aventur - aventuro  
 aventurer - aventuristo  
+avgani - afgana  
+avgania - Afganujo, Afganio  
 awakate - avokado  
 ay - aj (alas)  
 ##b
@@ -879,7 +880,7 @@ lasker - soldato
 laskeria - armeo  
 late - flanko (latero)  
 lati - flanka (latera)  
-latvia - Latvio  
+latovia - Latvio  
 laurensium - laŭrencio  
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  

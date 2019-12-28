@@ -10,7 +10,8 @@ acida - suan
 adjektivo - sifolekse  
 adreso - adres  
 aero - air  
-Afganujo, Afganio - afgania  
+afgana - avgani  
+Afganujo, Afganio - avgania  
 afrika - afriki  
 afrikamanteco - afrikofilia  
 afrikamanto - afrikofiler  
@@ -776,7 +777,7 @@ lampo - lampe
 lando - dex  
 lanterno - lanten  
 lasta - fini  
-Latvio - latvia  
+Latvio - latovia  
 lavi - waxa  
 lavmaŝino - waxomaxin  
 laŭrencio - laurensium  

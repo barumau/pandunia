@@ -18,7 +18,6 @@ adali - juste
 adalia - justice  
 adres - adresse  
 adulte - adulte  
-afgania - Afghanistan  
 afrike - Afrique  
 afriki - africain  
 afrikofiler - afrophile  
@@ -91,6 +90,8 @@ aspirin - aspirine
 aur - or  
 aventur - aventure  
 aventurer - aventurier  
+avgani - afghan  
+avgania - Afghanistan  
 ay - aïe!  
 ##b
 babe - chapitre  
@@ -278,6 +279,7 @@ lasker - soldat
 laskeria - armée  
 late - côté  
 lati - latéral  
+latovia - Lettonie  
 lawi - vieux (âgé, ancien)  
 lazanye - lasagne  
 leksaslia - étymologie  

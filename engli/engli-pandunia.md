@@ -29,7 +29,8 @@ adventurer - aventurer
 adverb - modolekse  
 advice (counsel) - mente  
 advisor (counselor, mentor) - menter  
-Afghanistan - afgania  
+Afghan - avgani  
+Afghanistan - avgania  
 Africa - afrike  
 African - afriki  
 afrophile - afrikofiler  
@@ -1346,7 +1347,7 @@ last (take time, during) - dura
 later (after) - bado  
 lateral - lati  
 Latin alphabet - latini abace  
-Latvia - latvia  
+Latvia - latovia  
 laugh - haha  
 law - kanun  
 lawrencium - laurensium  

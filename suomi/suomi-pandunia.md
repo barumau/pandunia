@@ -18,7 +18,8 @@ abyssinia - habaxia
 abyssinialainen - habaxi  
 adjektiivi (laatusana) - sifolekse  
 adverbi - modolekse  
-Afganistan - afgania  
+afgaani - avgani  
+Afganistan - avgania  
 Afrikka - afrike  
 afrikkalainen - afriki  
 afrofiili - afrikofiler  
@@ -1105,7 +1106,7 @@ laskuoppi (aritmetiikka) - hisabia
 latinalaiset aakkoset - latini abace  
 latinoida - latinokitaba  
 lattia - kamartal  
-Latvia - latvia  
+Latvia - latovia  
 lauantai - war 6 (war sis)  
 laulaa - canta  
 laulu - cante  

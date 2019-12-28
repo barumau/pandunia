@@ -7,6 +7,8 @@ achís - aciy
 acordarse - mema  
 acuerdo - samoray  
 aeropuerto - airoporte  
+Afganistán - avgania  
+afgano - avgani  
 agua - suy  
 alcohol - alkol  
 alcohólico - alkoli  
@@ -219,6 +221,7 @@ leche - milke
 lechuga - letis  
 leer - duga  
 lengua (idioma) - bax  
+Letonia - latovia  
 libro - buke  
 libélula - libel  
 limón - limon  

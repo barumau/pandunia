@@ -44,6 +44,8 @@ aspirin - аспирин
 aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
+avgani - афганский  
+avgania - Афганистан  
 ##b
 babe - глава  
 bace - ребёнок  
@@ -228,6 +230,7 @@ lasker - солдат
 laskeria - армия  
 late - сторона (бок)  
 lati -  боковой (латеральный)  
+latovia - Латвия  
 lawi - пожилой  
 lazanye - лазанья  
 leksaslia - этимология  

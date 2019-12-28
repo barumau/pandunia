@@ -2,7 +2,7 @@
  być umiejscowionym (być ulokowanym, stać) - loku  
 ##a
 adres - adres  
-Afganistan - afgania  
+Afganistan - avgania  
 afrofil - afrikofiler  
 afrofilia - afrikofilia  
 Afryka - afrike  
@@ -2465,7 +2465,7 @@ zły, zrujnowany, zepsuty - harabi
 ćsi - xix  
 ćwiczenie - lenxe  
 ćwiczyć - lenxa  
-Łotwa - latvia  
+Łotwa - latovia  
 łatwy, prosty - izi  
 ławka - bence  
 łazienka - banyokamar  

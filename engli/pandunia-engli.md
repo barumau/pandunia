@@ -23,7 +23,6 @@ adi - ordinary (routine, normal)
 adres - address  
 adresosimbol (@) - @ symbol  
 adulte - adult  
-afgania - Afghanistan  
 afrike - Africa  
 afriki - African  
 afrikofiler - afrophile  
@@ -145,6 +144,8 @@ autonomi - autonomous
 autonomia - autonomy  
 aventur - adventure (venture)  
 aventurer - adventurer  
+avgani - Afghan  
+avgania - Afghanistan  
 awakate - avocado  
 axur - Assur  
 axuria - Assyria  
@@ -1365,7 +1366,7 @@ late - side (flank)
 lati - lateral  
 latini abace - Latin alphabet  
 latinokitaba - romanize  
-latvia - Latvia  
+latovia - Latvia  
 laurensium - lawrencium  
 lawi - Lao (Laotian)  
 lawi - old (aged, elderly)  

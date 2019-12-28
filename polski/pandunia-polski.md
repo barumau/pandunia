@@ -18,7 +18,6 @@ ade - nawyk (przyzwyczajenie)
 adi - zwyczajny (rutynowy, normalny)  
 adres - adres  
 adulte - osoba dorosła  
-afgania - Afganistan  
 afrike - Afryka  
 afriki - afrykański, Afrykanin  
 afrikofiler - afrofil  
@@ -106,6 +105,7 @@ australia - Australia
 automoti - samobieżny  
 autonomi - autonomiczny  
 autonomia - autonomia  
+avgania - Afganistan  
 awakate - awokado  
 axur - Aszur  
 axuria - Asyria  
@@ -1171,7 +1171,7 @@ laskeria - armia
 lasti - elastyczny  
 lasun - larwa, czerw, gąsienica  
 latini abace - alfabet łaciński, łacinka, alfabet rzymski  
-latvia - Łotwa  
+latovia - Łotwa  
 laurensium - lorens  
 laxa - puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
