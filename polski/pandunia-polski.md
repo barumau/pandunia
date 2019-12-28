@@ -965,14 +965,14 @@ kanun - prawo
 kapa - złapać, łapać, schwytać, chwytać  
 kapitan - kapitan  
 kar - wóz, wózek  
+karaibia - Karaiby  
 karaoke - karaoke  
 karate - karate  
 karawe - kminek  
-karbi - bliski  
 karbon - węgiel  
 karbonodulokside - dwutlenek węgla  
 karde - karta  
-karibia - Karaiby  
+karibi - bliski  
 karite - masłosz Parka  
 karme - działanie (zachowanie, karma)  
 karnadi - kannada  

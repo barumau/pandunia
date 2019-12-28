@@ -179,7 +179,10 @@ kan - ojo
 kance - vidrio (cristal)  
 kanoe - canoa  
 kanosuyogas - gas lacrimógeno  
+karaibia - Caribe  
 karawe - carvis (alcaravea)  
+karimi - generoso (dadivoso, caritativo)  
+karimia - generosidad (caridad)  
 karte - mapa  
 kartografia - cartografía  
 kava - cavar (excavar)  

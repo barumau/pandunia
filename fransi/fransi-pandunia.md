@@ -127,6 +127,7 @@ calculer - hisaba
 canapé (sofa) - kanape  
 canoë - kanoe  
 capacité (compétence) - able  
+Caraïbes - karaibia  
 carte - karde  
 carte - karte  
 cartographie - kartografia  
@@ -226,6 +227,8 @@ goule - gul
 groupe - grupe  
 guitare - gitar  
 génotype - jenotipe  
+généreux - karimi  
+générosité (charité) - karimia  
 ##h
 heure - hor  
 heureux - suki  

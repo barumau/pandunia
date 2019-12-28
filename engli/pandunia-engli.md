@@ -1129,15 +1129,18 @@ kanun - law
 kapa - catch (capture, seize, snatch, intercept)  
 kapitan - captain  
 kar - car (cart, carriage, wagon, automobile)  
+karaibia - Caribbean  
 karaoke - karaoke  
 karate - karate  
 karawe - caraway  
-karbi - near (close)  
 karbon - carbon (coal)  
 karbonodulokside - carbon dioxide  
-karbu - approach (get near)  
 karde - card  
-karibia - Caribbean  
+karibi - near (close)  
+karibo - nearly (closely, almost)  
+karibu - approach (get near)  
+karimi - generous (charitable)  
+karimia - generosity (charity)  
 karite - shea  
 karma - do (act, perform)  
 karme - action (deed, performance, karma)  

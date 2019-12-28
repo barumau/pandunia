@@ -110,7 +110,7 @@ appearance (looks) - rupe
 apple - aple  
 application - aplike  
 apply (put to use for a purpose) - aplika  
-approach (get near) - karbu  
+approach (get near) - karibu  
 April - mes 4 (mes car)  
 Arabic - arabi  
 arachnophobia - aranofobia  
@@ -410,7 +410,7 @@ carbon (coal) - karbon
 carbon dioxide - karbonodulokside  
 card - karde  
 care (cure) - kura  
-Caribbean - karibia  
+Caribbean - karaibia  
 carpenter - mokojanger  
 carrot - karote  
 cartography - kartografia  
@@ -988,6 +988,8 @@ gazelle - gazel
 gel (jelly) - jel  
 gender (biological sex) - sekse  
 genderqueer (non-binary) - bis  
+generosity (charity) - karimia  
+generous (charitable) - karimi  
 genotype - jenotipe  
 Georgia (Republic of Georgia) - kartuelia  
 German - doici  
@@ -1667,7 +1669,8 @@ nationalist - nasiste
 Nauru - nauru  
 Nazi - naciste  
 Nazism - nacistia  
-near (close) - karbi  
+near (close) - karibi  
+nearly (closely, almost) - karibo  
 necessary (needed) - nidi  
 need - nida  
 need - nide  

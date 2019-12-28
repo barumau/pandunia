@@ -95,6 +95,7 @@ annos - doze
 antaa - dona  
 Antarktis - antartia  
 anteeksi - pardon  
+anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karimia  
 antenni - anten  
 Antigua - antigia  
 Antigua ja Barbuda - antigia e barbudia  
@@ -757,7 +758,7 @@ karaoke - karaoke
 karate - karate  
 karavaani (saattue) - karwan  
 karhu - urse  
-Karibia - karibia  
+Karibia - karaibia  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
 kartogratia - kartografia  
@@ -1210,8 +1211,9 @@ lymfa - limfe
 lypsää maitoa - tira milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
-läheinen - karbi  
-lähestyä - karbu  
+läheinen - karibi  
+lähes (melkein) - karibo  
+lähestyä - karibu  
 lähettiläs - daixer  
 lähettäjä (lähetin) - miser  
 lähettää - misa  
@@ -2622,6 +2624,7 @@ vetolaatikko - tirosanduke
 vety - hidre  
 vetää (kiskoa) - tira  
 vielä (yhä) - hay  
+vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  

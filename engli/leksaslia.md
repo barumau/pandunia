@@ -372,6 +372,7 @@
 |gel (jelly)|jel|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |gender (biological sex)|sekse|eng:sex, fra:sexe, spa:por:sexo|
 |genderqueer (non-binary)|bis|bug:bissu|
+|generous (charitable)|karimi|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |get (receive, obtain, take)|geta|eng:get|
 |ginger|zinje|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
 |giraffe|jiraf|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
@@ -588,7 +589,7 @@
 |name|nam|hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|
 |nation|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |Nazi|naciste|rus:нацист (natsist), cze:slk:nacista, jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
-|near (close)|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|near (close)|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |needle (pin)|pin|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |need|nida|eng: need|
 |net|nete|eng: net, deu: Netz|

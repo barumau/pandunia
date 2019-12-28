@@ -761,13 +761,13 @@ kante - ŝultro
 kanun - lego  
 kapa - kapti  
 kar - aŭto (ĉaro)  
+karaibia - Karibio  
 karate - karateo  
 karawe - karvio  
-karbi - proksima  
 karbon - karbono  
 karbonodulokside - karbona dioksido  
 karde - karto  
-karibia - Karibio  
+karibi - proksima  
 karma - agi  
 karme - agado (karmo)  
 karote - karoto  

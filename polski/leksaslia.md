@@ -48,7 +48,7 @@
 |biologia, nauka o życiu|biyolojia|tur:biyoloji, fra:biologie, eng:biology|
 |biust|buste|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
 |biznes, interes (aktywność komercyjna)|biznes|eng:business, rus:бизнес (biznes)|
-|bliski|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|bliski|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |bogaty|rici|eng:rich, fra:riche, por:spa:rico|
 |bohater, heros|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |bomba|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|

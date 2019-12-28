@@ -511,7 +511,7 @@
 |problemo|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |produkti (fabriki)|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
 |programo|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
-|proksima|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|proksima|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |promeni (marŝi)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
 |propra (partiklo de posedo)|da|zho:的 (de)|
 |psikologio|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|

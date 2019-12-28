@@ -148,7 +148,7 @@ biust - buste
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
 bić, uderzyć, uderzać - darba  
-bliski - karbi  
+bliski - karibi  
 blog - bloge  
 blokować, hamować - barya  
 bogaty - rici  
@@ -720,7 +720,7 @@ kanonier - kanoner
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
 kapitan - kapitan  
-Karaiby - karibia  
+Karaiby - karaibia  
 karaoke - karaoke  
 karat - kirate  
 karate - karate  

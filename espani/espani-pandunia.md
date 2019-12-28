@@ -70,6 +70,7 @@ camote (batata) - kamote
 canoa - kanoe  
 cara (rosto) - muke  
 carcelero - prizoner  
+Caribe - karaibia  
 carne - manse  
 cartografía - kartografia  
 carvis (alcaravea) - karawe  
@@ -170,6 +171,8 @@ galaxia - galaksia
 gas - gas  
 gas lacrimógeno - kanosuyogas  
 gato - maw  
+generosidad (caridad) - karimia  
+generoso (dadivoso, caritativo) - karimi  
 gengibre - zinje  
 genotipo - jenotipe  
 grupo - grupe  

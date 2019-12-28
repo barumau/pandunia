@@ -648,7 +648,7 @@ karateo - karate
 karavano - karwan  
 karbona dioksido - karbonodulokside  
 karbono - karbon  
-Karibio - karibia  
+Karibio - karaibia  
 karoto - karote  
 karto - karde  
 kartuno - anime  
@@ -1152,7 +1152,7 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
-proksima - karbi  
+proksima - karibi  
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  

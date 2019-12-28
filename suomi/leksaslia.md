@@ -417,7 +417,7 @@
 |lyhty|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |lyhyt|korti|spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|
 |lähde (kaivo)|fonte|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, uzb:fontan, jpn:噴水 (funsui)|
-|läheinen|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|läheinen|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |lähtien (-sta, -lta)|ca|zho:从 (cóng),出于 (chū), yue:從 (cung4)|
 |lämmin|garmi|hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|
 |lämpötila|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
@@ -940,6 +940,7 @@
 |vetoketju|ziper|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
 |vetää (kiskoa)|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |vielä (yhä)|hay|zho:还 (hai)|
+|vieraanvarainen (antelias, hyväntahtoinen)|karimi|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |vierailu (visiitti)|vizite|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
 |viesti|anjil|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |viha (suuttumus, raivo)|furia|eng:fury, spa:pol:furia, por:fúria|

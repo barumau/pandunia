@@ -247,8 +247,11 @@ kanape - canapé (sofa)
 kance - verre  
 kanoe - canoë  
 kanosuyogas - gaz lacrymogène  
+karaibia - Caraïbes  
 karbonodulokside - dioxyde de carbone  
 karde - carte  
+karimi - généreux  
+karimia - générosité (charité)  
 karte - carte  
 kartografia - cartographie  
 kava - creuser  

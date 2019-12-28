@@ -1107,15 +1107,18 @@ kanun - laki
 kapa - ottaa kiinni (napata, kaapata)  
 kapitan - kapteeni  
 kar - kärry (vaunu, auto, jne)  
+karaibia - Karibia  
 karaoke - karaoke  
 karate - karate  
 karawe - kumina  
-karbi - läheinen  
 karbon - hiili  
 karbonodulokside - hiilidioksidi  
-karbu - lähestyä  
 karde - kortti  
-karibia - Karibia  
+karibi - läheinen  
+karibo - lähes (melkein)  
+karibu - lähestyä  
+karimi - vieraanvarainen (antelias, hyväntahtoinen)  
+karimia - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karite - voipuu  
 karma - tehdä (toimia)  
 karme - toiminta (tekeminen, karma)  

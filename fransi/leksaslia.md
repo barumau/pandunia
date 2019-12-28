@@ -137,6 +137,7 @@
 |giraffe|jiraf|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
 |groupe|grupe|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
 |guitare|gitar|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
+|généreux|karimi|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |heureux|suki|hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk)|
 |heure|hor|fra:heure, eng:hour, spa:por:hora|
 |hiver|zime|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
