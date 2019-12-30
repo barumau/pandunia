@@ -10,7 +10,8 @@ acida - suan
 adjektivo - sifolekse  
 adreso - adres  
 aero - air  
-Afganujo, Afganio - afgania  
+afgana - avgani  
+Afganujo, Afganio - avgania  
 afrika - afriki  
 afrikamanteco - afrikofilia  
 afrikamanto - afrikofiler  
@@ -215,7 +216,7 @@ butono - boton
 buĝeto - bujete  
 buŝo - boke  
 ##c
-celo (golo) - gol  
+celo - dike  
 cent - hon  
 centono - cent-  
 centro - jung  
@@ -478,6 +479,7 @@ glavo - katan
 gluo - glute  
 gluteno - gluten  
 gluti - gula  
+golo - gol  
 grafika (bilda) - grafi  
 gramatika - baxokanuni  
 gramatiko - baxokanun  
@@ -647,7 +649,7 @@ karateo - karate
 karavano - karwan  
 karbona dioksido - karbonodulokside  
 karbono - karbon  
-Karibio - karibia  
+Karibio - karaibia  
 karoto - karote  
 karto - karde  
 kartuno - anime  
@@ -730,8 +732,8 @@ kota - poti
 koto - pote  
 kotono - goton  
 kotraŭa - anti  
-kovri - deka  
-kovrilo - deke  
+kovri - daka  
+kovrilo - dake  
 krano (valvo) - kran  
 kreda - xina  
 kredo - xin  
@@ -752,7 +754,7 @@ ksenono - xenon
 kubo - kube  
 kuko - keke  
 kukumo - pepin  
-kulero - camce  
+kulero - camace  
 kulo - bum  
 kulpa - doxi  
 kulpo - dox  
@@ -776,7 +778,7 @@ lampo - lampe
 lando - dex  
 lanterno - lanten  
 lasta - fini  
-Latvio - latvia  
+Latvio - latovia  
 lavi - waxa  
 lavmaŝino - waxomaxin  
 laŭrencio - laurensium  
@@ -826,7 +828,7 @@ lupo - wolfe
 lutecio - lutetium  
 ##m
 magio - magia  
-magnezio - magnes  
+magnezio - manges  
 majao - mayan  
 malamo - hen  
 malbona - mal  
@@ -1151,7 +1153,7 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
-proksima - karbi  
+proksima - karibi  
 promeni (marŝi) - marca  
 promesi - wada  
 prometio - prometium  
@@ -1221,6 +1223,7 @@ ripetado - repe
 ripeti (refari) - repa  
 riska - riski  
 risko - riske  
+ritmo - ritim  
 rivero - nade  
 rizo - arize  
 robo - tunike  
@@ -1303,7 +1306,7 @@ skatolo (kesto) - sanduke
 skribo - kitabe  
 skulti - eskulta  
 skultisto - eskulter  
-smeraldo - zumrude  
+smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
 soldato - lasker  
@@ -1365,11 +1368,11 @@ Tanzanio - tanzania
 tapeto - walopapir  
 taso - kupe  
 tatuo - tataw  
-teknecio - teknetium  
-tekniko - tekne  
-teknologio - teknolojia  
+teknecio - tehnetium  
+tekniko - tehne  
+teknologio - tehnolojia  
 tekto - cate  
-telefono - telfon  
+telefono - telofon  
 televidilo - telvide  
 teluro - telurium  
 temo - teme  

@@ -1,4 +1,5 @@
 # suomi-pandunia
+-lainen - deki  
 -n (oma) - da  
 -us (-uus) - -es  
 ##a
@@ -13,17 +14,18 @@ aasialainen - asi
 aate (ismi, ideologia, uskonto, jne) - istia  
 aatteen kannattaja - iste  
 aavikko (hiekkaerämaa) - registan  
-Abhaasia - abhasia  
+Abhaasia - aphazia  
 abyssinia - habaxia  
 abyssinialainen - habaxi  
 adjektiivi (laatusana) - sifolekse  
 adverbi - modolekse  
-Afganistan - afgania  
+afgaani - avgani  
+Afganistan - avgania  
 Afrikka - afrike  
 afrikkalainen - afriki  
 afrofiili - afrikofiler  
 afrofilia - afrikofilia  
-agorafobia (avoimen paikan kammo) - maidanfobia  
+agorafobia (avoimen paikan kammo) - maidanofobia  
 ahne - tami  
 Ahvenanmaa (Oolanti) - olandia  
 ai! (au!) - ay  
@@ -94,6 +96,7 @@ annos - doze
 antaa - dona  
 Antarktis - antartia  
 anteeksi - pardon  
+anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karimia  
 antenni - anten  
 Antigua - antigia  
 Antigua ja Barbuda - antigia e barbudia  
@@ -192,7 +195,7 @@ boikotti - boikote
 Bolivia - bolivia  
 boori - boron  
 Bosnia ja Hertsegovina - bosnia  
-Botswana - tsuania  
+Botswana - cuania  
 Brasilia - brazilia  
 Brazzavillen Kongo - brazavili kongolia  
 bromi - brom  
@@ -323,6 +326,7 @@ Eurooppa - europe
 eurooppalainen - europi  
 europium - europium  
 evankeliumi(hyvä sana) - ewanjil  
+eväsretki (piknik) - wayoniam  
 ##f
 Falklandin saaret - malvinas nesia  
 fani (-fiili) - filer  
@@ -756,7 +760,7 @@ karaoke - karaoke
 karate - karate  
 karavaani (saattue) - karwan  
 karhu - urse  
-Karibia - karibia  
+Karibia - karaibia  
 Karnataka (Intian osavaltio) - karnadia  
 kartio (keila) - konus  
 kartogratia - kartografia  
@@ -1070,6 +1074,8 @@ käytännöllinen (pragmaattinen) - prati
 käytäntö (pragmatia) - prate  
 käytös (käyttäytyminen, tapa, tavat) - manir  
 käännös (tulkinta) - tarje  
+kääre (kuori) - lifaf  
+kääriä (panna kääröön) - lifafa  
 kääriä - rula  
 käärme - serpe  
 käärö - rul  
@@ -1105,7 +1111,7 @@ laskuoppi (aritmetiikka) - hisabia
 latinalaiset aakkoset - latini abace  
 latinoida - latinokitaba  
 lattia - kamartal  
-Latvia - latvia  
+Latvia - latovia  
 lauantai - war 6 (war sis)  
 laulaa - canta  
 laulu - cante  
@@ -1194,7 +1200,7 @@ luokka (kategoria) - klas
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luonto - ekia  
-lusikka - camce  
+lusikka - camace  
 luterilainen - lutheristi  
 luterilaisuus - lutheristia  
 lutetium - lutetium  
@@ -1209,8 +1215,9 @@ lymfa - limfe
 lypsää maitoa - tira milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
-läheinen - karbi  
-lähestyä - karbu  
+läheinen - karibi  
+lähes (melkein) - karibo  
+lähestyä - karibu  
 lähettiläs - daixer  
 lähettäjä (lähetin) - miser  
 lähettää - misa  
@@ -1239,7 +1246,8 @@ maailmanlaajuinen (globaali) - panoduni
 maalais- - rusti  
 maalari - penter  
 maalata - penta  
-maali (päämäärä) - gol  
+maali (maalitaulu, kohde) - dike  
+maali (pelissä) - gol  
 maaliskuu - mes 3 (mes tin)  
 maanantai - war 1 (war un)  
 maanjäristys - sisme  
@@ -1251,9 +1259,9 @@ maata (makoilla) - lala
 maavoimat - zemolaskeria  
 Macao - makaw  
 Madagaskar - madagasia  
-magneetti - magnete  
-magneettinen - magneti  
-magnesium - magnes  
+magneetti - mangete  
+magneettinen - mangeti  
+magnesium - manges  
 maha (vatsa) - bung  
 mahdollinen - abli  
 mahdollisuus (tilaisuus) - canse  
@@ -1649,7 +1657,7 @@ palatsi - gunden
 Palau - palaw  
 palauttaa - fuga  
 Palestiina - filistinia  
-paljastaa - dekula  
+paljastaa - dakula  
 paljon (monta) - pol  
 palladium - paladium  
 pallo - bol  
@@ -1701,8 +1709,8 @@ patonki (ranskanleipä) - batonopang
 pehmeä - komal  
 peikko - guy  
 peili - mirer  
-peite (kansi) - deke  
-peittää - deka  
+peite (kansi) - dake  
+peittää - daka  
 Peking (Beijing) - beijing  
 pelaaja - gemer  
 pelata - gema  
@@ -1744,7 +1752,6 @@ piirtää - grafa
 piirustus - desen  
 pikkuruinen (mini-) - mini  
 pikkutakki (jakku) - jake  
-piknik (retki) - piknike  
 pilahvi - polaw  
 pilalla (raunioina) - harabi  
 pilata (tuhota) - haraba  
@@ -1837,7 +1844,7 @@ puhdas (siivo, siisti) - safi
 puhdistaa (siivota) - safa  
 puhe (sanat) - loge  
 puhelias - logivi  
-puhelin - telfon  
+puhelin - telofon  
 puhua (kommunikoida) - baxa  
 puhua (sanoa) - loga  
 pukea - fuka  
@@ -1993,7 +2000,7 @@ ruuti - barude
 ruuvi - lose  
 ryhmä (työryhmä, yhtye, bändi) - bande  
 ryhmä - grupe  
-rytmi - ritme  
+rytmi - ritim  
 ryöstää (ryövätä) - luta  
 ryöväri (rosvo) - luter  
 röntgenium - rengenium  
@@ -2138,7 +2145,7 @@ Skotlanti - eskotia
 slaavilainen - slavi  
 Slovakia - slovakia  
 Slovenia - slovenia  
-smaragdi - zumrude  
+smaragdi - zumurude  
 sohva - kanape  
 soihtu - nurobaton  
 soittaa (musisoida) - musika  
@@ -2328,9 +2335,9 @@ teismi (jumalusko) - dewistia
 teisti - dewiste  
 tekijä (aikaansaaja) - er  
 tekijä (valmistaja) - fater  
-tekniikka (keino, menetelmä) - tekne  
-tekniikka (teknologia) - teknolojia  
-teknokratia - teknokratia  
+tekniikka (keino, menetelmä) - tehne  
+tekniikka (teknologia) - tehnolojia  
+teknokratia - tehnokratia  
 teko - fate  
 tekstin muotoilu - kitaborupe  
 televisio - telvide  
@@ -2621,6 +2628,7 @@ vetolaatikko - tirosanduke
 vety - hidre  
 vetää (kiskoa) - tira  
 vielä (yhä) - hay  
+vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  

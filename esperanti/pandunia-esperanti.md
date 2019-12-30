@@ -18,7 +18,6 @@ adali - justa
 adalia - justeco  
 adres - adreso  
 adulte - plenaĝa  
-afgania - Afganujo, Afganio  
 afrike - Afriko  
 afriki - afrika  
 afrikofiler - afrikamanto  
@@ -100,6 +99,8 @@ australia - Aŭstralio
 automoti - memmova  
 aventur - aventuro  
 aventurer - aventuristo  
+avgani - afgana  
+avgania - Afganujo, Afganio  
 awakate - avokado  
 ay - aj (alas)  
 ##b
@@ -246,7 +247,7 @@ ca - de (el, pro)
 cabe - ŝlosilo  
 cake - tranĉilo  
 cakre - rado  
-camce - kulero  
+camace - kulero  
 campion - ĉampiono  
 cang - ofte  
 canse - ŝanco  
@@ -289,6 +290,8 @@ da - propra (partiklo de posedo)
 dade - ĵetkubo  
 daixer - ambasadoro  
 daixeria - ambasado  
+daka - kovri  
+dake - kovrilo  
 damaje - damaĝo  
 damaji - damaĝa  
 dania - Danio  
@@ -316,8 +319,6 @@ defer - defendanto (defendisto)
 defta - registri  
 defte - registraĵo  
 deftia - registro (konto)  
-deka - kovri  
-deke - kovrilo  
 deme - popolo  
 demografia - demografio  
 demokrati - demokratia  
@@ -335,6 +336,7 @@ dewi sage - mito
 dewkratia - teokratio  
 dewlojia - teologio  
 dex - lando  
+dike - celo  
 din - religio  
 ding - najlo  
 dini - religia  
@@ -552,7 +554,7 @@ gida - stiri
 gitar - gitaro  
 glute - gluo  
 gluten - gluteno  
-gol - celo (golo)  
+gol - golo  
 gom - kaŭĉuko  
 gon - angulo  
 goton - kotono  
@@ -760,13 +762,13 @@ kante - ŝultro
 kanun - lego  
 kapa - kapti  
 kar - aŭto (ĉaro)  
+karaibia - Karibio  
 karate - karateo  
 karawe - karvio  
-karbi - proksima  
 karbon - karbono  
 karbonodulokside - karbona dioksido  
 karde - karto  
-karibia - Karibio  
+karibi - proksima  
 karma - agi  
 karme - agado (karmo)  
 karote - karoto  
@@ -879,7 +881,7 @@ lasker - soldato
 laskeria - armeo  
 late - flanko (latero)  
 lati - flanka (latera)  
-latvia - Latvio  
+latovia - Latvio  
 laurensium - laŭrencio  
 laya - veni  
 le - li aŭ ŝi aŭ ĝi  
@@ -929,7 +931,6 @@ lutetium - lutecio
 ##m
 maca - kongrui  
 magia - magio  
-magnes - magnezio  
 maitnerium - mejtnerio  
 makas - tondilo  
 mal - malbona  
@@ -940,6 +941,7 @@ malorupi - malbonaspekta
 mame - patrino  
 man - viro  
 mangan - mangano  
+manges - magnezio  
 manir - maniero (konduto)  
 manse - viando  
 mara - edzigi  
@@ -1253,6 +1255,7 @@ rezerve - rezervo
 rezin - rezino  
 riske - risko  
 riski - riska  
+ritim - ritmo  
 rize - radiko  
 robote - roboto  
 rodium - rodio  
@@ -1405,12 +1408,12 @@ tayi - tajlanda
 tayia - Tajlando  
 tazi - freŝa  
 te - vi (ci)  
-tekne - tekniko  
-teknetium - teknecio  
-teknolojia - teknologio  
+tehne - tekniko  
+tehnetium - teknecio  
+tehnolojia - teknologio  
 tele - malproksimeco  
-telfon - telefono  
 teli - malproksima  
+telofon - telefono  
 telurium - teluro  
 telvide - televidilo  
 tema - esti pri; pridiskuti  
@@ -1590,4 +1593,4 @@ ziran - kumino
 zirkonium - zirkonio  
 zone - zono  
 zuluh - zuluo  
-zumrude - smeraldo  
+zumurude - smeraldo  

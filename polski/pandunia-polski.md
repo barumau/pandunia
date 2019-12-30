@@ -18,7 +18,6 @@ ade - nawyk (przyzwyczajenie)
 adi - zwyczajny (rutynowy, normalny)  
 adres - adres  
 adulte - osoba dorosła  
-afgania - Afganistan  
 afrike - Afryka  
 afriki - afrykański, Afrykanin  
 afrikofiler - afrofil  
@@ -106,6 +105,7 @@ australia - Australia
 automoti - samobieżny  
 autonomi - autonomiczny  
 autonomia - autonomia  
+avgania - Afganistan  
 awakate - awokado  
 axur - Aszur  
 axuria - Asyria  
@@ -281,7 +281,7 @@ cabe - klucz
 cadia - Czad  
 cake - nóż  
 cakre - koło  
-camce - łyżka  
+camace - łyżka  
 campion - czempion  
 cang - często  
 canse - szansa  
@@ -320,6 +320,7 @@ cokolatobaton - baton czekoladowy
 cora - ukraść, kraść  
 core - kradzież  
 corer - złodziej  
+cuania - Botswana  
 cula - pominąć, wyłączyć; poza, oprócz  
 cum - całus  
 cune - wiosna  
@@ -334,6 +335,9 @@ da - mieć (partykuła posiadania)
 dade - kość do gry  
 daixer - ambasador  
 daixeria - ambasada  
+daka - przykryć, przykrywać, ukryć, ukrywać  
+dake - pokrycie; pokrywa, wieko, dekiel; pokład  
+dakula - odsłonić, odsłaniać  
 dalil - dowód; zeznanie  
 dalila - dowieść, dowodzić; zeznać, zeznawać  
 damaje - obrażenia (rana, krzywda)  
@@ -371,9 +375,6 @@ defta - zapisać (zarejestrować)
 defte - rejestr  
 deftia - register  
 deftobuke - dziennik pokładowy (notatnik)  
-deka - przykryć, przykrywać, ukryć, ukrywać  
-deke - pokrycie; pokrywa, wieko, dekiel; pokład  
-dekula - odsłonić, odsłaniać  
 deme - lud, społeczeństwo  
 demografia - demografia  
 demokrati - demokratyczny  
@@ -396,6 +397,7 @@ dewistia - teizm
 dewkratia - teokracja  
 dewlojia - teologia  
 dex - kraj, ziemia  
+dike - cel  
 din - religia, wyznanie  
 ding - kolec  
 dinogur - ksiądz, kleryk, kaznodzieja  
@@ -964,14 +966,14 @@ kanun - prawo
 kapa - złapać, łapać, schwytać, chwytać  
 kapitan - kapitan  
 kar - wóz, wózek  
+karaibia - Karaiby  
 karaoke - karaoke  
 karate - karate  
 karawe - kminek  
-karbi - bliski  
 karbon - węgiel  
 karbonodulokside - dwutlenek węgla  
 karde - karta  
-karibia - Karaiby  
+karibi - bliski  
 karite - masłosz Parka  
 karme - działanie (zachowanie, karma)  
 karnadi - kannada  
@@ -1170,7 +1172,7 @@ laskeria - armia
 lasti - elastyczny  
 lasun - larwa, czerw, gąsienica  
 latini abace - alfabet łaciński, łacinka, alfabet rzymski  
-latvia - Łotwa  
+latovia - Łotwa  
 laurensium - lorens  
 laxa - puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1261,9 +1263,6 @@ mafana - przeszkodzić, przeszkadzać, robić kłopot
 mager - magik, czarownik  
 magi - magiczny  
 magia - magia  
-magnes - magnez  
-magnete - magnes  
-magneti - magnetyczny  
 magribia - Maroko  
 maidan - skwer, plac  
 mais - kukurydza  
@@ -1292,6 +1291,9 @@ man - męski
 mandir - świątynia  
 mangan - mangan  
 mange - mango  
+manges - magnez  
+mangete - magnes  
+mangeti - magnetyczny  
 mangus - mangostan  
 mani bace - syn  
 mani rajer - król  
@@ -1730,7 +1732,6 @@ pian - pianino
 piaze - cebula  
 pijin - pidżin, język pomocniczy  
 pike - szczyt (wierzchołek)  
-piknike - piknik  
 pil - skóra  
 piloter - pilot  
 pimente - pieprz  
@@ -1902,7 +1903,7 @@ rim - rym (wers)
 riske - ryzyko  
 riski - ryzykowny  
 rite - rytuał, ceremonia, ryt  
-ritme - rytm, bit  
+ritim - rytm, bit  
 rize - korzeń  
 robote - robot  
 rodium - rod  
@@ -2194,13 +2195,13 @@ tayi - tajski
 tayia - Tajlandia  
 tazi - świeży  
 te - ty, ciebie  
-tekne - technika, technologia  
-teknetium - technet  
-teknokratia - technokracja  
-teknolojia - technologia, nauka o technikach  
+tehne - technika, technologia  
+tehnetium - technet  
+tehnokratia - technokracja  
+tehnolojia - technologia, nauka o technikach  
 tele - dystans  
-telfon - telefon  
 teli - daleki, odległy  
+telofon - telefon  
 telugi - telugu  
 telurium - tellur  
 telvide - telewizja  
@@ -2267,7 +2268,6 @@ trenodaw - kolej
 trenokaper - porywacz pociągu  
 tribe - plemię  
 trinidade e tobage - Trynidad i Tobago  
-tsuania - Botswana  
 tuale - taleta, WC  
 tube - tuba, rura  
 tuha - pluć  
@@ -2379,6 +2379,7 @@ way - zewnętrzny
 way dexi - zagraniczny  
 way dexia - zagranica  
 waye - zęwnętrzny  
+wayoniam - piknik  
 weka - obudzić, budzić  
 weki - przebudzony, przytomny  
 werka - pracować  
@@ -2512,4 +2513,4 @@ zombe - zombie, zombi
 zone - pas, strefa  
 zukam - przeziębienie, katar  
 zuluh - zulu  
-zumrude - szmaragd  
+zumurude - szmaragd  

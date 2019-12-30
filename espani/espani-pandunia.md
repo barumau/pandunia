@@ -7,6 +7,8 @@ achís - aciy
 acordarse - mema  
 acuerdo - samoray  
 aeropuerto - airoporte  
+Afganistán - avgania  
+afgano - avgani  
 agua - suy  
 alcohol - alkol  
 alcohólico - alkoli  
@@ -68,6 +70,7 @@ camote (batata) - kamote
 canoa - kanoe  
 cara (rosto) - muke  
 carcelero - prizoner  
+Caribe - karaibia  
 carne - manse  
 cartografía - kartografia  
 carvis (alcaravea) - karawe  
@@ -104,11 +107,13 @@ cosmos - kosmia
 crema - krem  
 cruz - krus  
 cubo - kube  
+cuchara - camace  
 cuerpo - badan  
 cárcel - prizonia  
 cómo - ko?  
 cósmico - kosmi  
 ##d
+dado - dade  
 dança (baile) - danse  
 datos - date  
 de - ca  
@@ -118,6 +123,7 @@ deseo - wan
 destino - destin  
 diamante - almas  
 dirigente (líder) - lider  
+disco - diske  
 disentir (no estar de acuerdo) - aloraya  
 Dominica - dominikia  
 doméstico - domi  
@@ -135,6 +141,7 @@ empanadilla (pelmeni) - pelmen
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
+envolver - lifafa  
 equipaje - bagaje  
 error - galte  
 erróneo - galti  
@@ -142,7 +149,7 @@ escribir - kitaba
 escritura - kitabe  
 escultor - eskulter  
 eslavo - slavi  
-esmeralda - zumrude  
+esmeralda - zumurude  
 especia - masal  
 estado - hal  
 estaño - esten  
@@ -168,6 +175,8 @@ galaxia - galaksia
 gas - gas  
 gas lacrimógeno - kanosuyogas  
 gato - maw  
+generosidad (caridad) - karimia  
+generoso (dadivoso, caritativo) - karimi  
 gengibre - zinje  
 genotipo - jenotipe  
 grupo - grupe  
@@ -202,6 +211,7 @@ invierno - zime
 jade - yuke  
 Japón - niponia  
 jefe - xef  
+jira (pícnic) - wayoniam  
 jirafa - jiraf  
 joule (J) - jul  
 jugo (zumo) - jus  
@@ -219,6 +229,7 @@ leche - milke
 lechuga - letis  
 leer - duga  
 lengua (idioma) - bax  
+Letonia - latovia  
 libro - buke  
 libélula - libel  
 limón - limon  
@@ -235,12 +246,14 @@ léxico - leksi
 ##m
 madre (mamá) - mame  
 maestro - mester  
+magnesio - manges  
 maniqueísmo - manihayistia  
 mano - hande  
 manzana - aple  
 mapa - karte  
 mar - samude  
 marmól - marmar  
+Marruecos - magribia  
 marrón - bruni  
 marítimo - samudi  
 mas - max  
@@ -283,6 +296,7 @@ nube - megam
 nuevo - novi  
 o - o  
 ##o
+objetivo - dike  
 océano - dayosamude  
 ojo - kan  
 olvidar - memula  
@@ -332,6 +346,7 @@ pila (batería) - batre
 piratería - piratia  
 piña - nanas  
 plata - argente  
+plaza - maidan  
 pluma - kalam  
 plátano (banana) - banan  
 pocos - xaw  
@@ -355,11 +370,13 @@ química - kimia
 raiz - rize  
 raza - ras  
 recto - orti  
+religión - din  
 Republica Dominicana - dominikania  
 reunión (junta, mitin) - mite  
 reír - haha  
 rico - rici  
 rima - rim  
+ritmo - ritim  
 riñon - nefre  
 rocío - rose  
 rodilla - gute  

@@ -18,7 +18,6 @@ adali - juste
 adalia - justice  
 adres - adresse  
 adulte - adulte  
-afgania - Afghanistan  
 afrike - Afrique  
 afriki - africain  
 afrikofiler - afrophile  
@@ -91,6 +90,8 @@ aspirin - aspirine
 aur - or  
 aventur - aventure  
 aventurer - aventurier  
+avgani - afghan  
+avgania - Afghanistan  
 ay - aïe!  
 ##b
 babe - chapitre  
@@ -142,6 +143,7 @@ bruni - brun (marron)
 buke - livre  
 ##c
 ca - de  
+camace - cuiller  
 canse - chance  
 cay - thé  
 cayokupe - tasse à thé  
@@ -150,6 +152,7 @@ cis - fromage
 cokolate - chocolat  
 cokolatobaton - tablette de chocolat  
 ##d
+daka - couvrir  
 dalil - preuve  
 damaje - dommage  
 danse - dance  
@@ -158,6 +161,9 @@ datobanke - base de données
 dayosamude - océan  
 destin - destin (destination)  
 dew - dieu  
+dike - objectif (cible)  
+din - religion  
+diske - disque  
 dokum - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
@@ -246,8 +252,11 @@ kanape - canapé (sofa)
 kance - verre  
 kanoe - canoë  
 kanosuyogas - gaz lacrymogène  
+karaibia - Caraïbes  
 karbonodulokside - dioxyde de carbone  
 karde - carte  
+karimi - généreux  
+karimia - générosité (charité)  
 karte - carte  
 kartografia - cartographie  
 kava - creuser  
@@ -278,6 +287,7 @@ lasker - soldat
 laskeria - armée  
 late - côté  
 lati - latéral  
+latovia - Lettonie  
 lawi - vieux (âgé, ancien)  
 lazanye - lasagne  
 leksaslia - étymologie  
@@ -288,6 +298,7 @@ lete - été
 letis - laitue  
 libel - libellule  
 lider - dirigeant (leader)  
+lifafa - envelopper (emballer)  
 lil - petit  
 limon - citron  
 liste - liste  
@@ -303,9 +314,12 @@ lutheristi - luthérien
 lutheristia - luthéranisme  
 luzer - perdant  
 ##m
+magribia - Maroc  
+maidan - place  
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
 mame - mère (maman)  
+manges - magnésium  
 manihayistia - manichéisme  
 manir - comportement (manière)  
 manse - viande  
@@ -413,6 +427,7 @@ retra - retourner (revenir)
 retrotikete - Aller-retour  
 rici - riche  
 rim - rime  
+ritim - rhythme  
 rize - racine  
 robote - robot  
 rose - rosée  
@@ -459,9 +474,9 @@ suyogas - vapeur d’eau
 tarje - traduction  
 tazi - frais  
 te - tu  
-tekne - technique  
-teknolojia - technologie  
-telfon - téléphone  
+tehne - technique  
+tehnolojia - technologie  
+telofon - téléphone  
 telvide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
@@ -501,6 +516,7 @@ wal - mur
 walopapir - papier peint  
 wana - vouloir  
 warkolate - page  
+wayoniam - piquenique  
 weki - éveillé  
 werka - travailler  
 werke - travail  
@@ -532,4 +548,4 @@ zinje - gingembre
 zombe - zombi  
 zone - zone  
 zuluh - zoulou  
-zumrude - émeraude  
+zumurude - émeraude  

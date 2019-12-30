@@ -8,7 +8,6 @@
 a - but (whereas)  
 ##a
 abace - alphabet  
-abhasia - Abkhazia  
 abla - can (know, be able)  
 able - ability (skill)  
 abli - possible  
@@ -24,7 +23,6 @@ adi - ordinary (routine, normal)
 adres - address  
 adresosimbol (@) - @ symbol  
 adulte - adult  
-afgania - Afghanistan  
 afrike - Africa  
 afriki - African  
 afrikofiler - afrophile  
@@ -101,6 +99,7 @@ antokriste - antichrist
 antonam - antonym  
 anus - anus  
 anusi - anal  
+aphazia - Abkhazia  
 aple - apple  
 aplika - apply (put to use for a purpose)  
 aplike - application  
@@ -145,6 +144,8 @@ autonomi - autonomous
 autonomia - autonomy  
 aventur - adventure (venture)  
 aventurer - adventurer  
+avgani - Afghan  
+avgania - Afghanistan  
 awakate - avocado  
 axur - Assur  
 axuria - Assyria  
@@ -345,7 +346,7 @@ cabe - key
 cadia - Chad  
 cake - knife  
 cakre - wheel  
-camce - spoon  
+camace - spoon  
 campion - champion  
 cang - often (frequently)  
 cangia - frequency  
@@ -391,6 +392,7 @@ corer - thief
 coseni - Korean  
 cosenia - Korea  
 coy - greens  
+cuania - Botswana  
 cula - exclude (except, save)  
 cum - kiss  
 cune - spring (springtime)  
@@ -405,6 +407,9 @@ da - own (particle of possession)
 dade - die (dice)  
 daixer - ambassador  
 daixeria - embassy  
+daka - cover (conceal)  
+dake - cover (lid, cap, deck)  
+dakula - uncover (reveal)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dalila - prove (demonstrate, testify)  
 damaje - damage (injury, harm)  
@@ -453,9 +458,7 @@ defta - register (record, log)
 defte - register (record, log)  
 deftia - registry (account)  
 deftobuke - logbook  
-deka - cover (conceal)  
-deke - cover (lid, cap, deck)  
-dekula - uncover (reveal)  
+deki - -al (exhibiting a property)  
 deme - people (population)  
 demi - public  
 demografia - demography  
@@ -479,6 +482,7 @@ dewistia - theism
 dewkratia - theocracy  
 dewlojia - theology  
 dex - country (land, state)  
+dike - target (aim, objective)  
 din - religion (worship)  
 ding - nail (spike)  
 dini - religious  
@@ -1127,15 +1131,18 @@ kanun - law
 kapa - catch (capture, seize, snatch, intercept)  
 kapitan - captain  
 kar - car (cart, carriage, wagon, automobile)  
+karaibia - Caribbean  
 karaoke - karaoke  
 karate - karate  
 karawe - caraway  
-karbi - near (close)  
 karbon - carbon (coal)  
 karbonodulokside - carbon dioxide  
-karbu - approach (get near)  
 karde - card  
-karibia - Caribbean  
+karibi - near (close)  
+karibo - nearly (closely, almost)  
+karibu - approach (get near)  
+karimi - generous (charitable)  
+karimia - generosity (charity)  
 karite - shea  
 karma - do (act, perform)  
 karme - action (deed, performance, karma)  
@@ -1364,7 +1371,7 @@ late - side (flank)
 lati - lateral  
 latini abace - Latin alphabet  
 latinokitaba - romanize  
-latvia - Latvia  
+latovia - Latvia  
 laurensium - lawrencium  
 lawi - Lao (Laotian)  
 lawi - old (aged, elderly)  
@@ -1403,6 +1410,8 @@ lida - lead (direct)
 lider - leader (director)  
 lietuvi - Lithuanian  
 lietuvia - Lithuania  
+lifaf - wrapping (envelope, covering)  
+lifafa - wrap  
 liga - associate  
 lige - league (association)  
 lil - little (small; a little, somewhat)  
@@ -1476,13 +1485,10 @@ mafana - bother
 mager - magician (sorcerer)  
 magi - magical  
 magia - magic  
-magnes - magnesium  
-magnete - magnet  
-magneti - magnetic  
 magribia - Morocco  
-maidan - field (square, plaza)  
-maidanfobia - agoraphobia  
+maidan - field (square, plaza, maidan)  
 maidani - open (wide, spacious)  
+maidanofobia - agoraphobia  
 mais - corn (maize)  
 maitnerium - meitnerium  
 makale - article (writing)  
@@ -1511,6 +1517,9 @@ man - male
 mandir - temple  
 mangan - manganese  
 mange - mango  
+manges - magnesium  
+mangete - magnet  
+mangeti - magnetic  
 mangus - mangosteen  
 mani bace - son  
 mani rajer - king  
@@ -2008,7 +2017,6 @@ pian - piano
 piaze - onion  
 pijin - pidgin (contact language)  
 pike - top (peak, pinnacle, summit, apex, vertex)  
-piknike - picnic  
 pil - skin (peel)  
 piloter - pilot  
 pimente - pepper (Piper nigrum)  
@@ -2195,7 +2203,7 @@ rim - rhyme (verse)
 riske - risk  
 riski - risky  
 rite - ritual (ceremony)  
-ritme - rhythm (beat)  
+ritim - rhythm (beat)  
 rize - root  
 robote - robot  
 rodium - rhodium  
@@ -2513,13 +2521,13 @@ tayi - Thai
 tayia - Thailand  
 tazi - fresh  
 te - you (singular)  
-tekne - technique (technology)  
-teknetium - technetium  
-teknokratia - technocracy  
-teknolojia - technology (study of techniques)  
+tehne - technique (technology)  
+tehnetium - technetium  
+tehnokratia - technocracy  
+tehnolojia - technology (study of techniques)  
 tele - distance  
-telfon - telephone  
 teli - far (distant)  
+telofon - telephone  
 telugi - Telugu  
 telurium - tellurium  
 telvide - television  
@@ -2593,7 +2601,6 @@ trenodaw - railway (railroad)
 trenokaper - train hijacker  
 tribe - tribe  
 trinidade e tobage - Trinidad and Tobago  
-tsuania - Botswana  
 tuale - toilet (WC)  
 tube - tube (pipe)  
 tuha - spit  
@@ -2723,6 +2730,7 @@ waya - oust (expel)
 waye - outside (exterior)  
 wayomisa - export  
 wayonam - exonym  
+wayoniam - picnic  
 we - that one  
 weka - wake (make awake)  
 weki - awake  
@@ -2873,4 +2881,4 @@ zombe - zombie
 zone - belt (zone)  
 zukam - cold (illness)  
 zuluh - Zulu  
-zumrude - emerald  
+zumurude - emerald  

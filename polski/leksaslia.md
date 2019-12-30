@@ -48,7 +48,7 @@
 |biologia, nauka o życiu|biyolojia|tur:biyoloji, fra:biologie, eng:biology|
 |biust|buste|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
 |biznes, interes (aktywność komercyjna)|biznes|eng:business, rus:бизнес (biznes)|
-|bliski|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|bliski|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |bogaty|rici|eng:rich, fra:riche, por:spa:rico|
 |bohater, heros|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |bomba|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
@@ -74,6 +74,7 @@
 |cebula|piaze|kaz:kir:пияз (piyaz), tgk:пиёз (piyoz), fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz), kur:pîvaz|
 |cecha, atrybut, własność; -ość|gune|hin:गुण (guṇ), ben:গুণ (guṇ), tel:(guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun)|
 |cecha, właściwość, parametr|sife|ara:(ṣifa), tur:sıfat, fas:(sefat), urd:(sifat), swa:sifa|
+|cel|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |cel|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |cement|semente|eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|
 |chemia|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
@@ -139,6 +140,7 @@
 |dwa (2)|dul|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
 |dym|duman|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |dyskusja, debata, dyskurs|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
+|dysk|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |dzban, dzbanek; słój, słoik|jar|eng:jar, ara:(jara), por:spa:jarra|
 |działanie (zachowanie, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
 |działka (teren)|lote|por:lote, eng:fra:lot, spa:loteo|
@@ -530,7 +532,6 @@
 |pogoda|tenke|zho:天气 (tiǎnqì), jpn:天気 (tenki)|
 |pokaz, ekspozycja, wystawa|xow|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
 |poker|poke|eng:poker, zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|
-|pokrycie; pokrywa, wieko, dekiel; pokład|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
 |pokój, sala|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |pole, powierzchnia|are|eng:area, por:spa:área, pol:areał, fra:aire|
 |policzyć, liczyć, przetwarzać dane|komputa|eng:compute|
@@ -588,6 +589,7 @@
 |przyjaciel|doste|tur:tkm:dost, uzb:doʻst, hin:दोस्त (dost), guj:દોસ્ત (dost), urd:(dost), fas:(dust), taj:дӯст (düst)|
 |przyjęcie, święto, festiwal|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
 |przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać|laya|vie: lại, zho: 来 (lái)|
+|przykryć, przykrywać, ukryć, ukrywać|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |przykład|misal|hin:मिसाल (misāl), ara:(mithāl)|
 |przyprawa|masal|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |przyrostek dla czasowników z szykiem zdania OVS|-u|hau:wol:-u, swa:-wa|
@@ -618,7 +620,7 @@
 |rasa|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |recepta, receptura, przepis|recete|ita:ricetta, rus:рецепт (retsept), deu:Rezept, spa:receta, por:receita, fra:recette, may:resep|
 |rejestr|defte|tur:scr:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
-|religia, wyznanie|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|religia, wyznanie|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |respekt, honor, szacunek, poważanie|onor|eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|
 |rezerwacja|rezerve|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
 |robak|verme|eng:worm, por:verme, fra:ver, deu:Wurm|
@@ -641,6 +643,7 @@
 |ryba|fix|eng:fish, deu:Fisch|
 |rym (wers)|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
 |rynek, bazar|bazar|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)|
+|rytm, bit|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |rytuał, ceremonia, ryt|rite|eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|
 |ryzyko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |ryż|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
@@ -681,6 +684,7 @@
 |skarpeta, skarpetka, pończocha|soke|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
 |skoczyć, skakać|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |skonsumować, konsumować, zjeść, jeść, wypić, pić)|niama|khm:ញ៉ាំ (nyam), jam:nyam, srn:nyan, ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
+|skwer, plac|maidan|ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|
 |skwierczeć|ziza|zho:zizi eng:sizzle|
 |skóra|pil|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
 |sofa, kanapa|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
@@ -724,7 +728,7 @@
 |szew|sutur|fra:eng:suture, por:spa:sutura|
 |sześcian|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |szkło|kance|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:may:kaca, tel:గాజు (gāju)|
-|szmaragd|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|szmaragd|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |szofer (kierowca)|xofer|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |sztuka walki|jengoxute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |sztuka|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
@@ -746,7 +750,7 @@
 |taśma; bandaż|bende|ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:bul:kaz:kyr:бинт (bint), uzb:bint, hin:बाँधना (bāndhnā)|
 |taśma|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tchórz, fretka|furete|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
-|technika, technologia|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|technika, technologia|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |temat, motyw|teme|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |temperatura|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
 |ten, te|yi|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i), |
@@ -913,7 +917,7 @@
 |łatwy, prosty|izi|eng:easy, fra:aisée|
 |ławka|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |łańcuch|silsil|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili|
-|łyżka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|łyżka|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |łza|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |łódź, statek|bote|spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|
 |łóżko|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|

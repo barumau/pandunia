@@ -27,6 +27,7 @@ anime - оживление
 anker - якорь  
 anten - антенна  
 anus - анус  
+aphazia - Абхазия  
 aple - яблоко  
 arane - паук  
 arbe - дерево  
@@ -43,6 +44,8 @@ aspirin - аспирин
 aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
+avgani - афганский  
+avgania - Афганистан  
 ##b
 babe - глава  
 bace - ребёнок  
@@ -91,6 +94,7 @@ bruni - коричневый
 buke - книга  
 ##c
 ca - из (от)  
+camace - ложка  
 canse - возможность (шанс)  
 cay - чай  
 cayokupe - чайная чашка  
@@ -107,6 +111,9 @@ datobanke - база данных
 dayosamude - океан  
 destin - судьба  
 dew - бог  
+dike - цель  
+din - религия (вера)  
+diske - диск  
 domi - домашний  
 duga - читать  
 dul - два  
@@ -227,6 +234,7 @@ lasker - солдат
 laskeria - армия  
 late - сторона (бок)  
 lati -  боковой (латеральный)  
+latovia - Латвия  
 lawi - пожилой  
 lazanye - лазанья  
 leksaslia - этимология  
@@ -248,7 +256,10 @@ luter - грабитель
 lutheristi - лютеранский  
 lutheristia - лютера́нство  
 ##m
+magribia - Марокко  
+maidan - площадь (сквер, майдан)  
 mame - мать (мама)  
+manges - магний  
 manihayistia - манихейство  
 manir - поведение (манера)  
 manse - мясо  
@@ -343,6 +354,7 @@ ras - раса
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
+ritim - ритм (такт)  
 rize - корень  
 robote - робот  
 rose - роса  
@@ -391,11 +403,13 @@ tas - блюдо (таз)
 tataw - татуировка (тату)  
 tazi - свежий  
 te - ты  
-teknolojia - технология  
-telfon - телефон  
+tehne - техника  
+tehnolojia - технология  
+telofon - телефон  
 telvide - телевизор  
 teme - тема  
 tena - иметь  
+tenke - погода  
 tenu - принадлежать  
 tepe - лента  
 teroristia - терроризм  
@@ -429,6 +443,7 @@ wana - хотеть
 waw - вау!  
 waxa - мыть  
 waxomaxin - стиральная машина  
+wayoniam - пикник  
 werka - работать  
 werke - работа  
 werker - работник  
@@ -465,4 +480,4 @@ zinke - цинк
 ziran - тмин  
 zone - пояс (зона)  
 zuluh - зулус  
-zumrude - изумруд  
+zumurude - изумруд  

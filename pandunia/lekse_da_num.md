@@ -2,21 +2,21 @@
 
 | bax | num | fen |
 |-----|-----|-----|
-| pan | 1013 | 100% |
-| engli | 555 | 54% |
-| espani | 425 | 41% |
-| fransi | 407 | 40% |
-| portugali | 385 | 38% |
-| hindustani | 373 | 36% |
-| rusi | 321 | 31% |
-| turki | 248 | 24% |
-| cini | 219 | 21% |
-| niponi | 214 | 21% |
+| pan | 1019 | 100% |
+| engli | 556 | 54% |
+| espani | 428 | 42% |
+| fransi | 409 | 40% |
+| portugali | 387 | 37% |
+| hindustani | 376 | 36% |
+| rusi | 324 | 31% |
+| turki | 251 | 24% |
+| cini | 221 | 21% |
+| niponi | 217 | 21% |
 | malayi | 212 | 20% |
-| arabi | 205 | 20% |
-| farsi | 172 | 16% |
-| coseni | 164 | 16% |
-| swahili | 158 | 15% |
-| bangli | 136 | 13% |
-| vieti | 86 | 8% |
+| arabi | 208 | 20% |
+| farsi | 174 | 17% |
+| coseni | 166 | 16% |
+| swahili | 160 | 15% |
+| bangli | 139 | 13% |
+| vieti | 87 | 8% |
 | filipini | 42 | 4% |

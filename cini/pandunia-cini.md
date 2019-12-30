@@ -50,6 +50,7 @@ aspirin - 阿司匹林
 aur - 金  
 aventur - 冒险  
 aventurer - 冒险者  
+avgania - 阿富汗  
 ##b
 babe - 章  
 bace - 小孩  
@@ -100,6 +101,7 @@ buke - 书
 buze - 山羊  
 ##c
 ca - 从  
+camace - 匙子  
 cay - 茶  
 cayokupe - 茶碗  
 ceng - 层  
@@ -112,9 +114,13 @@ cokolatobaton - 巧克力棒
 date - 数据  
 datobanke - 数据库  
 dayosamude - 大洋  
+deki - 的  
 destin - 目的地 (命運)  
 dew - 神  
+dike - 目的 (目标)  
+din - 宗教  
 ding - 钉子  
+diske - 圆盘  
 dom - 房子  
 duga - 读 (看)  
 dul - 二  
@@ -225,6 +231,7 @@ kupe - 杯子
 lantan - 鑭  
 laskeria - 军队  
 late - 侧面 (旁边)  
+latovia - 拉脱维亚  
 lawi - 老 (老年, 年歲大)  
 laya - 来  
 lazanye - 千层面  
@@ -248,7 +255,10 @@ lung - 龙
 luta - 掠夺  
 luter - 强盗  
 ##m
+magribia - 摩洛哥  
+maidan - 广场  
 mame - 妈妈  
+manges - 镁  
 manihayistia - 摩尼教  
 manir - 方式  
 manse - 肉  
@@ -345,6 +355,7 @@ ras - 种族
 reste - 其余  
 retra - 返回 (回来)  
 retrotikete - 往返票  
+ritim - 节奏  
 rize - 根  
 roze - 玫瑰  
 ##s
@@ -386,9 +397,9 @@ tami - 贪婪的
 tarje - 翻译  
 tazi - 新鲜的  
 te - 你  
-tekne - 技术  
-teknolojia - 工艺学  
-telfon - 电话机  
+tehne - 技术  
+tehnolojia - 工艺学  
+telofon - 电话机  
 telvide - 电视机  
 teme - 主题目  
 tena - 有  
@@ -420,6 +431,7 @@ vulve - 外阴 (陰门)
 wal - 墙  
 walopapir - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
+wayoniam - 野餐  
 werka - 工作  
 werke - 工作  
 werker - 工人 (工作者)  
@@ -447,4 +459,4 @@ zebre - 斑马
 zime - 冬天  
 zinje - 姜  
 ziran - 孜然  
-zumrude - 绿宝石  
+zumurude - 绿宝石 (祖母绿)  

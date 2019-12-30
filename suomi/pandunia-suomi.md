@@ -8,7 +8,6 @@
 a - mutta  
 ##a
 abace - aakkoset (ABC)  
-abhasia - Abhaasia  
 abla - voida (osata, pystyä)  
 able - taito (kyky)  
 abli - mahdollinen  
@@ -24,7 +23,6 @@ adi - tavallinen
 adres - osoite  
 adresosimbol (@) - @-merkki  
 adulte - aikuinen  
-afgania - Afganistan  
 afrike - Afrikka  
 afriki - afrikkalainen  
 afrikofiler - afrofiili  
@@ -98,6 +96,7 @@ antokriste - antikristus
 antonam - vastakohta (antonyymi)  
 anus - peräaukko (anus)  
 anusi - anaalinen  
+aphazia - Abhaasia  
 aple - omena  
 aplika - soveltaa  
 aplike - sovellus  
@@ -140,6 +139,8 @@ autonomi - autonominen
 autonomia - itsehallinto (autonomia)  
 aventur - seikkailu  
 aventurer - seikkailija  
+avgani - afgaani  
+avgania - Afganistan  
 awakate - avokado  
 axur - Assur  
 axuria - Assyria  
@@ -336,7 +337,7 @@ cabe - avain
 cadia - Tšad  
 cake - veitsi (puukko)  
 cakre - ratas  
-camce - lusikka  
+camace - lusikka  
 campion - mestari (voittaja)  
 cang - usein  
 cangia - taajuus (tiheys)  
@@ -382,6 +383,7 @@ corer - varas
 coseni - korealainen  
 cosenia - Korea  
 coy - vihannes  
+cuania - Botswana  
 cula - paitsi (poislukien)  
 cum - suukko (pusu)  
 cune - kevät  
@@ -396,6 +398,9 @@ da - -n (oma)
 dade - noppa (arpakuutio)  
 daixer - lähettiläs  
 daixeria - lähetystö  
+daka - peittää  
+dake - peite (kansi)  
+dakula - paljastaa  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dalila - todistaa  
 damaje - vaurio (vahinko)  
@@ -443,9 +448,7 @@ defta - tallentaa (rekisteröidä, kirjata)
 defte - tallenne (rekisteri)  
 deftia - rekisteri (tili)  
 deftobuke - lokikirja  
-deka - peittää  
-deke - peite (kansi)  
-dekula - paljastaa  
+deki - -lainen  
 deme - väestö (kansa)  
 demografia - väestötiede (demografia)  
 demokrati - demokraattinen  
@@ -468,6 +471,7 @@ dewistia - teismi (jumalusko)
 dewkratia - teokratia  
 dewlojia - teologia  
 dex - maa (valtio)  
+dike - maali (maalitaulu, kohde)  
 din - uskonto  
 ding - naula (piikki)  
 dini - uskonnollinen  
@@ -770,7 +774,7 @@ gitar - kitara
 giyania - Ranskan Guiana  
 glute - liima  
 gluten - gluteeni  
-gol - maali (päämäärä)  
+gol - maali (pelissä)  
 gom - kumi  
 gon - kulma (nurkka)  
 gonometer - kulmamitta (goniometri)  
@@ -1105,15 +1109,18 @@ kanun - laki
 kapa - ottaa kiinni (napata, kaapata)  
 kapitan - kapteeni  
 kar - kärry (vaunu, auto, jne)  
+karaibia - Karibia  
 karaoke - karaoke  
 karate - karate  
 karawe - kumina  
-karbi - läheinen  
 karbon - hiili  
 karbonodulokside - hiilidioksidi  
-karbu - lähestyä  
 karde - kortti  
-karibia - Karibia  
+karibi - läheinen  
+karibo - lähes (melkein)  
+karibu - lähestyä  
+karimi - vieraanvarainen (antelias, hyväntahtoinen)  
+karimia - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karite - voipuu  
 karma - tehdä (toimia)  
 karme - toiminta (tekeminen, karma)  
@@ -1334,7 +1341,7 @@ late - sivu (kylki, puoli)
 lati - sivu-  
 latini abace - latinalaiset aakkoset  
 latinokitaba - latinoida  
-latvia - Latvia  
+latovia - Latvia  
 laurensium - lawrensium  
 lawi - laoslainen  
 lawia - Laos  
@@ -1369,6 +1376,8 @@ lida - johtaa
 lider - johtaja (pomo)  
 lietuvi - liettualainen  
 lietuvia - Liettua  
+lifaf - kääre (kuori)  
+lifafa - kääriä (panna kääröön)  
 liga - liittää  
 lige - liitto (liittouma, liiga)  
 lil - pieni (pienesti, vähän)  
@@ -1442,13 +1451,10 @@ mafana - vaivata
 mager - taikuri  
 magi - taianomainen (maaginen)  
 magia - taika (taikuus, magia)  
-magnes - magnesium  
-magnete - magneetti  
-magneti - magneettinen  
 magribia - Marokko  
 maidan - kenttä (aukio)  
-maidanfobia - agorafobia (avoimen paikan kammo)  
 maidani - avara (aava)  
+maidanofobia - agorafobia (avoimen paikan kammo)  
 mais - maissi  
 maitnerium - meitnerium  
 makale - artikkeli (kirjoitus)  
@@ -1477,6 +1483,9 @@ man - uros (mies)
 mandir - temppeli  
 mangan - mangaani  
 mange - mango  
+manges - magnesium  
+mangete - magneetti  
+mangeti - magneettinen  
 mangus - mangostani  
 mani bace - poika  
 mani rajer - kuningas  
@@ -1960,7 +1969,6 @@ pian - piano
 piaze - sipuli  
 pijin - kontaktikieli (pidgin)  
 pike - huippu  
-piknike - piknik (retki)  
 pil - nahka (kuori, iho)  
 piloter - ohjaaja (pilotti, luotsi)  
 pimente - pippuri  
@@ -2142,7 +2150,7 @@ rim - säe (riimi)
 riske - riski  
 riski - riskialtis  
 rite - riitti (rituaali, seremonia)  
-ritme - rytmi  
+ritim - rytmi  
 rize - juuri  
 robote - robotti  
 rodium - rhodium  
@@ -2433,12 +2441,12 @@ tayi - thai
 tayia - Thaimaa  
 tazi - tuore (raikas)  
 te - sinä  
-tekne - tekniikka (keino, menetelmä)  
-teknokratia - teknokratia  
-teknolojia - tekniikka (teknologia)  
+tehne - tekniikka (keino, menetelmä)  
+tehnokratia - teknokratia  
+tehnolojia - tekniikka (teknologia)  
 tele - etäisyys (kaukaisuus)  
-telfon - puhelin  
 teli - kaukainen  
+telofon - puhelin  
 telugi - telugu (eräs intialainen kieli)  
 telvide - televisio  
 tema - aiheesta (-sta)  
@@ -2507,7 +2515,6 @@ trenodaw - junarata (rautatie)
 trenokaper - junakaappari  
 tribe - heimo  
 trinidade e tobage - Trinidad ja Tobago  
-tsuania - Botswana  
 tuale - vessa  
 tube - putki (tuubi)  
 tuha - sylkeä  
@@ -2628,6 +2635,7 @@ way dexi - ulkomaalainen
 way dexia - ulkomaa  
 waya - poistaa  
 waye - ulkopuoli  
+wayoniam - eväsretki (piknik)  
 we - tuo  
 weka - herättää  
 weki - olla hereillä  
@@ -2774,4 +2782,4 @@ zombe - zombi
 zone - vyö  
 zukam - vilustuminen  
 zuluh - zulu  
-zumrude - smaragdi  
+zumurude - smaragdi  

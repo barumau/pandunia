@@ -8,7 +8,8 @@ actinium - acinium
 action - acion  
 adresse - adres  
 adulte - adulte  
-Afghanistan - afgania  
+afghan - avgani  
+Afghanistan - avgania  
 africain - afriki  
 Afrique - afrike  
 afrophile - afrikofiler  
@@ -126,6 +127,7 @@ calculer - hisaba
 canapé (sofa) - kanape  
 canoë - kanoe  
 capacité (compétence) - able  
+Caraïbes - karaibia  
 carte - karde  
 carte - karte  
 cartographie - kartografia  
@@ -158,11 +160,13 @@ coton - goton
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
+couvrir - daka  
 creuser - kava  
 croix - krus  
 crème - krem  
 crème glacée - aisokrem  
 cube - kube  
+cuiller - camace  
 cycliste - sikliste  
 cytologie - selolojia  
 côté - late  
@@ -175,6 +179,7 @@ diamant - almas
 dieu - dew  
 dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
+disque - diske  
 document (dossier) - dokum  
 domestique - domi  
 dommage - damaje  
@@ -189,6 +194,7 @@ dur - gati
 eau - suy  
 Einsteinium - ainstainium  
 enfant - bace  
+envelopper (emballer) - lifafa  
 erroné - galti  
 et - e  
 Europe - europe  
@@ -225,6 +231,8 @@ goule - gul
 groupe - grupe  
 guitare - gitar  
 génotype - jenotipe  
+généreux - karimi  
+générosité (charité) - karimia  
 ##h
 heure - hor  
 heureux - suki  
@@ -260,6 +268,7 @@ langue - bax
 lapin (lièvre) - tuze  
 lasagne - lazanye  
 latéral - lati  
+Lettonie - latovia  
 lexical - leksi  
 libellule - libel  
 lieu - loke  
@@ -276,12 +285,14 @@ luthérien - lutheristi
 lys - susan  
 ##m
 machine à écrire - kitabomaxin  
+magnésium - manges  
 main - hande  
 mais (bien que) - a  
 manichéisme - manihayistia  
 marbre - marmar  
 marché (bazar) - bazar  
 mariage - maria  
+Maroc - magribia  
 masque - maske  
 match - mece  
 maximum - maxime  
@@ -320,6 +331,7 @@ nouveau - novi
 nuage - megam  
 nécessaire - nidi  
 ##o
+objectif (cible) - dike  
 océan - dayosamude  
 oeuf - ande  
 oignon - piaze  
@@ -370,10 +382,12 @@ peut-être - ablo
 philosophie - filsofia  
 photographie - fotografia  
 pile (batterie) - batre  
+piquenique - wayoniam  
 piraterie - piratia  
 pizza - pize  
 pièce (chambre) - kamar  
 placard - almar  
+place - maidan  
 pluie - barxe  
 plume - kalam  
 plus - max  
@@ -398,9 +412,11 @@ que (quoi) - ke
 race - ras  
 racine - rize  
 rein - nefre  
+religion - din  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
+rhythme - ritim  
 riche - rici  
 rime - rim  
 rire - haha  
@@ -449,8 +465,8 @@ table - meze
 tablette de chocolat - cokolatobaton  
 tarte - pay  
 tasse à thé - cayokupe  
-technique - tekne  
-technologie - teknolojia  
+technique - tehne  
+technologie - tehnolojia  
 tendance - ive  
 tener sentido - razonu  
 tente - haime  
@@ -469,7 +485,7 @@ tribord - botoraite
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-téléphone - telfon  
+téléphone - telofon  
 téléviseur - telvide  
 tête - sar  
 ##u
@@ -518,7 +534,7 @@ zèbre - zebre
 écrire - kitaba  
 écriture - kitabe  
 électricité - eletre  
-émeraude - zumrude  
+émeraude - zumurude  
 épices - masal  
 épingle - pin  
 épreuve (test) - teste  

@@ -1,10 +1,11 @@
 # engli-pandunia
+-al (exhibiting a property) - deki  
 -ness (-ity) - -es  
 @ symbol - adresosimbol (@)  
 a couple of - dul o tin  
 ##a
 ability (skill) - able  
-Abkhazia - abhasia  
+Abkhazia - aphazia  
 about (approximately, nearly) - yago  
 Abyssinia - habaxia  
 Abyssinian - habaxi  
@@ -29,7 +30,8 @@ adventurer - aventurer
 adverb - modolekse  
 advice (counsel) - mente  
 advisor (counselor, mentor) - menter  
-Afghanistan - afgania  
+Afghan - avgani  
+Afghanistan - avgania  
 Africa - afrike  
 African - afriki  
 afrophile - afrikofiler  
@@ -39,7 +41,7 @@ again (repeatedly) - repi
 age - umur  
 aggressive - agresi  
 agile - ajil  
-agoraphobia - maidanfobia  
+agoraphobia - maidanofobia  
 agree (concur) - samoraya  
 agreement (consent) - samoray  
 air - air  
@@ -109,7 +111,7 @@ appearance (looks) - rupe
 apple - aple  
 application - aplike  
 apply (put to use for a purpose) - aplika  
-approach (get near) - karbu  
+approach (get near) - karibu  
 April - mes 4 (mes car)  
 Arabic - arabi  
 arachnophobia - aranofobia  
@@ -319,7 +321,7 @@ boron - boron
 Bosnia and Herzegovina - bosnia  
 botany (phytology) - fitolojia  
 bother - mafana  
-Botswana - tsuania  
+Botswana - cuania  
 bottle - botol  
 bottom - tal  
 bow instrument (violin, etc.) - ticin  
@@ -409,7 +411,7 @@ carbon (coal) - karbon
 carbon dioxide - karbonodulokside  
 card - karde  
 care (cure) - kura  
-Caribbean - karibia  
+Caribbean - karaibia  
 carpenter - mokojanger  
 carrot - karote  
 cartography - kartografia  
@@ -591,8 +593,8 @@ coulomb (unit) - kulom
 country (land, state) - dex  
 countryside - rustia  
 coupon - kupon  
-cover (conceal) - deka  
-cover (lid, cap, deck) - deke  
+cover (conceal) - daka  
+cover (lid, cap, deck) - dake  
 cow - muh  
 crafty (dexterous) - jangi  
 cream - krem  
@@ -774,7 +776,7 @@ electron - eletron
 elegant (chic) - xiki  
 elephant - gaje  
 embassy - daixeria  
-emerald - zumrude  
+emerald - zumurude  
 emir - emir  
 emirate - emiria  
 emotion (feeling) - gam  
@@ -881,7 +883,7 @@ female - fem
 feminism - femistia  
 feminist - femiste  
 fermium - fermium  
-field (square, plaza) - maidan  
+field (square, plaza, maidan) - maidan  
 fiery - piri  
 fiever - febre  
 fight (war, battle, combat) - jeng  
@@ -987,6 +989,8 @@ gazelle - gazel
 gel (jelly) - jel  
 gender (biological sex) - sekse  
 genderqueer (non-binary) - bis  
+generosity (charity) - karimia  
+generous (charitable) - karimi  
 genotype - jenotipe  
 Georgia (Republic of Georgia) - kartuelia  
 German - doici  
@@ -1346,7 +1350,7 @@ last (take time, during) - dura
 later (after) - bado  
 lateral - lati  
 Latin alphabet - latini abace  
-Latvia - latvia  
+Latvia - latovia  
 laugh - haha  
 law - kanun  
 lawrencium - laurensium  
@@ -1443,9 +1447,9 @@ magazine (journal, gazette) - baw
 magic - magia  
 magical - magi  
 magician (sorcerer) - mager  
-magnesium - magnes  
-magnet - magnete  
-magnetic - magneti  
+magnesium - manges  
+magnet - mangete  
+magnetic - mangeti  
 mail (send by mail) - posta  
 mail - poste  
 main (principal) - xefi  
@@ -1666,7 +1670,8 @@ nationalist - nasiste
 Nauru - nauru  
 Nazi - naciste  
 Nazism - nacistia  
-near (close) - karbi  
+near (close) - karibi  
+nearly (closely, almost) - karibo  
 necessary (needed) - nidi  
 need - nida  
 need - nide  
@@ -1911,7 +1916,7 @@ physicist - fiziker
 physics - fizike  
 physics - fizikia  
 piano - pian  
-picnic - piknike  
+picnic - wayoniam  
 picture book - grafobuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pay  
@@ -2152,7 +2157,7 @@ rhenium - renium
 rhinoceros - kornonos  
 rhodium - rodium  
 rhyme (verse) - rim  
-rhythm (beat) - ritme  
+rhythm (beat) - ritim  
 rib cage - sinkase  
 rice - arize  
 rich - rici  
@@ -2413,7 +2418,7 @@ spider - arane
 spiral (helix, corkscrew, twist) - helis  
 spit - tuha  
 split (fall apart) - fenu  
-spoon - camce  
+spoon - camace  
 sport (athletics) - kel  
 spring (springtime) - cune  
 square (tetragon) - carogon  
@@ -2524,6 +2529,7 @@ Tanzania - tanzania
 Taoism (Daoism) - dawistia  
 Taoist - dawiste  
 tape - tepe  
+target (aim, objective) - dike  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
 taste like - gustu ko  
@@ -2537,11 +2543,11 @@ teacher - darsogur
 team - tim  
 tear drop - kanosuy  
 tear gas - kanosuyogas  
-technetium - teknetium  
-technique (technology) - tekne  
-technocracy - teknokratia  
-technology (study of techniques) - teknolojia  
-telephone - telfon  
+technetium - tehnetium  
+technique (technology) - tehne  
+technocracy - tehnokratia  
+technology (study of techniques) - tehnolojia  
+telephone - telofon  
 television - telvide  
 tell (narrate) - saga  
 tellurium - telurium  
@@ -2684,7 +2690,7 @@ ugly - malorupi
 Ukraine - ukrainia  
 umbrella - barxocate  
 unambiguous - unomeni  
-uncover (reveal) - dekula  
+uncover (reveal) - dakula  
 under (go under) - nica  
 undergo (passivizing verb) - beyu  
 underside (underneath) - nice  
@@ -2836,6 +2842,8 @@ worm - verme
 worship (reveration) - puje  
 worship (revere) - puja  
 wow! (gee!) - waw  
+wrap - lifafa  
+wrapping (envelope, covering) - lifaf  
 write - kitaba  
 writing (text) - kitabe  
 wrong (incorrect, erroneous, faulty) - galti  

@@ -1,6 +1,7 @@
 # suomi-pandunia sa leksasle
 |suomi | pandunia | leksasle |
 |----------|----------|----------|
+|-lainen|deki|zho:的 (de), jpn:-的 (-teki), kor:—적 (-jeok)|
 |-n (oma)|da|zho:的 (de)|
 |aakkoset (ABC)|abace|gre:(alphabētos), spa:abecedario, fas:(alefbâ), ara:(abjad), scr:slk:abeceda, hun:ábécé|
 |aalto (laine)|onde|spa:por:ita:onda, fra:onde, may:ombak|
@@ -257,6 +258,7 @@
 |keitto (soppa)|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
 |kemia|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |kenkä|sapate|spa:zapato, por:sapato, may:sepatu, swa:sapatu|
+|kenttä (aukio)|maidan|ara:(maydān), fas:(meydan), hin:मैदान (maidān), tur:meydan, swa:medani, rus:майдан (maydan)|
 |kerma|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |kerros|ceng|zho:层 (céng), yue:層 (cang4), kor:층 (chŭng), vie:tầng|
 |kerta (vuoro)|ban|kor:번 (beon), vie:bận, jpn:番 (ban), zho:遍 (biàn), + hin:बार (bār), urd:fas:(bār), ben:বার (bar)|
@@ -271,6 +273,7 @@
 |keuhko|pulmon|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
 |kevät|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
 |kiehua|bulu|eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|
+|kiekko (levy)|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |kieli (kommunikaatio)|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |kielletty|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |kieltää|nega|spa:por:negar, eng:negate|
@@ -358,6 +361,7 @@
 |käytäntö (pragmatia)|prate|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
 |käytös (käyttäytyminen, tapa, tavat)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |käännös (tulkinta)|tarje|ara:(tarjama), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, tur:tercüme|
+|kääre (kuori)|lifaf|ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|
 |käärme|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
 |laakso|vale|por:vale, eng:valley, fra:vallée, spa:valle|
 |laatikko|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
@@ -412,12 +416,12 @@
 |lukumäärä (luku, numero)|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
 |lumi|him|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |luola|guhe|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (tguha), hin:गुफ़ा (gufā), may:gua|
-|lusikka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|lusikka|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |luu|oste|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |lyhty|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |lyhyt|korti|spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|
 |lähde (kaivo)|fonte|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, uzb:fontan, jpn:噴水 (funsui)|
-|läheinen|karbi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
+|läheinen|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |lähtien (-sta, -lta)|ca|zho:从 (cóng),出于 (chū), yue:從 (cung4)|
 |lämmin|garmi|hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|
 |lämpötila|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
@@ -428,7 +432,8 @@
 |maa (valtio)|dex|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |maailma|dunia|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |maalata|penta|eng:paint, fra:peintre|
-|maali (päämäärä)|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
+|maali (maalitaulu, kohde)|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
+|maali (pelissä)|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |maata (makoilla)|lala|swa:-lala|
 |maha (vatsa)|bung|vie:bụng, khm:ពុង (pung), tha:พุง (pung)|
 |mahdollisuus (tilaisuus)|canse|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
@@ -583,7 +588,7 @@
 |passi|pasporte|eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|
 |peikko|guy|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |peili|mirer|eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|
-|peite (kansi)|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
+|peittää|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |peli|gem|eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|
 |penkki|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |perhe|famil|eng:family, spa:familia, por:família, fra:famille|
@@ -699,6 +704,7 @@
 |ruuvi|lose|zho:螺丝 (luòsī), yue:螺絲 (lo4 si1)|
 |ryhmä (työryhmä, yhtye, bändi)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |ryhmä|grupe|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
+|rytmi|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |ryöstää (ryövätä)|luta|hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|
 |saari|nes|ell:νήσος (nēsos), may:nusa, mlg:nosy|
 |sade|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
@@ -750,7 +756,7 @@
 |sitruuna|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
 |sivistynyt|sivili|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |sivu (kylki, puoli)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
-|smaragdi|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|smaragdi|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |sohva|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |sokeri|xukar|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
 |solmu|node|eng:node, spa:nudo, por:nó, fra:nœud|
@@ -827,7 +833,7 @@
 |teippi (nauha)|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tekijä (aikaansaaja)|er|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |tekijä (valmistaja)|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
-|tekniikka (keino, menetelmä)|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|tekniikka (keino, menetelmä)|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |teltta|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |tervehdys (terve!)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |tiede (tutkimus)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
@@ -893,7 +899,7 @@
 |urheilu|kel|hin:खेल (khel), ben:খেলা (khela), tha:กีฬา (kīlā), khm:កីឡា (keila)|
 |usein|cang|zho:常 (cáng)|
 |usko (luottamus)|xin|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
-|uskonto|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|uskonto|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |uuni|tanur|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |uusi|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |uutinen|habar|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|
@@ -940,6 +946,7 @@
 |vetoketju|ziper|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
 |vetää (kiskoa)|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |vielä (yhä)|hay|zho:还 (hai)|
+|vieraanvarainen (antelias, hyväntahtoinen)|karimi|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |vierailu (visiitti)|vizite|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|
 |viesti|anjil|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |viha (suuttumus, raivo)|furia|eng:fury, spa:pol:furia, por:fúria|

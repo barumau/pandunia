@@ -2,7 +2,7 @@
  być umiejscowionym (być ulokowanym, stać) - loku  
 ##a
 adres - adres  
-Afganistan - afgania  
+Afganistan - avgania  
 afrofil - afrikofiler  
 afrofilia - afrikofilia  
 Afryka - afrike  
@@ -148,7 +148,7 @@ biust - buste
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
 bić, uderzyć, uderzać - darba  
-bliski - karbi  
+bliski - karibi  
 blog - bloge  
 blokować, hamować - barya  
 bogaty - rici  
@@ -162,7 +162,7 @@ bomba - bombe
 bor - boron  
 boski - dewi  
 botanika - fitolojia  
-Botswana - tsuania  
+Botswana - cuania  
 Bośnia i Harcegowina - bosnia  
 Boże Narodzenie - kristojen  
 Brazyla - brazilia  
@@ -205,6 +205,7 @@ całus - cum
 cebula - piaze  
 cecha, atrybut, własność; -ość - gune  
 cecha, właściwość, parametr - sife  
+cel - dike  
 cel - gol  
 cement - semente  
 centrować, skupić, skupiać - junga  
@@ -720,7 +721,7 @@ kanonier - kanoner
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
 kapitan - kapitan  
-Karaiby - karibia  
+Karaiby - karaibia  
 karaoke - karaoke  
 karat - kirate  
 karate - karate  
@@ -961,9 +962,9 @@ magazyn, dziennik, gazeta - baw
 magia - magia  
 magiczny - magi  
 magik, czarownik - mager  
-magnes - magnete  
-magnetyczny - magneti  
-magnez - magnes  
+magnes - mangete  
+magnetyczny - mangeti  
+magnez - manges  
 maj - mes 2 (mes dul)  
 Majotta - mayotia  
 makaron - mien  
@@ -1274,7 +1275,7 @@ odmówić (odrzucić) - nega
 odnowić, odnawiać, uczynić nowym - nova  
 odpowiedzieć, odpowiadać - jawaba  
 odpowiedź, odzew - jawabe  
-odsłonić, odsłaniać - dekula  
+odsłonić, odsłaniać - dakula  
 odwiedzić, odwiedzać - vizita  
 oficer policji, policjant - poliser  
 oficjalny - ofisi  
@@ -1413,7 +1414,7 @@ pierwszy, początkowy - muli
 pierś - sine  
 pierścień, pierścionek; obrączka - fingowen  
 pies - waf  
-piknik - piknike  
+piknik - wayoniam  
 pilaw - polaw  
 pilot - piloter  
 pingwin - pinguin  
@@ -1485,7 +1486,7 @@ pojęciowy - ideyi
 pokaz, ekspozycja, wystawa - xow  
 pokazać, pokazywać, wystawić, wystawiać - xowa  
 poker - poke  
-pokrycie; pokrywa, wieko, dekiel; pokład - deke  
+pokrycie; pokrywa, wieko, dekiel; pokład - dake  
 pokój rozmów, chat - blableria  
 pokój, sala - kamar  
 pole widzenia - vidomaidan  
@@ -1639,7 +1640,7 @@ przyjacielski - dosti
 przyjaźń - dostia  
 przyjęcie, święto, festiwal - feste  
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - laya  
-przykryć, przykrywać, ukryć, ukrywać - deka  
+przykryć, przykrywać, ukryć, ukrywać - daka  
 przykład - misal  
 przymiotnik - sifolekse  
 przymus - muse  
@@ -1770,7 +1771,7 @@ ryba - fix
 rym (wers) - rim  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
-rytm, bit - ritme  
+rytm, bit - ritim  
 rytuał, ceremonia, ryt - rite  
 ryzyko - riske  
 ryzykowny - riski  
@@ -1976,7 +1977,7 @@ sześciokąt (sześciobok) - sisogon
 sześć (6) - sis  
 szkoła (instytucja) - darsia  
 szkło - kance  
-szmaragd - zumrude  
+szmaragd - zumurude  
 szofer (kierowca) - xofer  
 szokwstrząs; kolizja - xoke  
 szparag; szparagia - lusun  
@@ -2036,13 +2037,13 @@ taxi, taksówka - taksokar
 taśma - tepe  
 taśma; bandaż - bende  
 tchórz, fretka - furete  
-technet - teknetium  
-technika, technologia - tekne  
-technokracja - teknokratia  
-technologia, nauka o technikach - teknolojia  
+technet - tehnetium  
+technika, technologia - tehne  
+technokracja - tehnokratia  
+technologia, nauka o technikach - tehnolojia  
 teistyczny - dewiste  
 teizm - dewistia  
-telefon - telfon  
+telefon - telofon  
 telewizja - telvide  
 tellur - telurium  
 telugu - telugi  
@@ -2465,12 +2466,12 @@ zły, zrujnowany, zepsuty - harabi
 ćsi - xix  
 ćwiczenie - lenxe  
 ćwiczyć - lenxa  
-Łotwa - latvia  
+Łotwa - latovia  
 łatwy, prosty - izi  
 ławka - bence  
 łazienka - banyokamar  
 łańcuch - silsil  
-łyżka - camce  
+łyżka - camace  
 łza - kanosuy  
 łódź, statek - bote  
 łóżko - bede  

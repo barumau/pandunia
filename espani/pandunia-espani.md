@@ -46,6 +46,8 @@ aspirin - aspirina
 aur - oro  
 aventur - aventura  
 aventurer - aventurero  
+avgani - afgano  
+avgania - Afganistán  
 ay - ay!  
 ##b
 babuce - chinelo (pantufa)  
@@ -83,6 +85,7 @@ bruni - marrón
 buke - libro  
 ##c
 ca - de  
+camace - cuchara  
 canse - oportunidad (chance)  
 cerni - negro  
 cis - queso  
@@ -90,12 +93,16 @@ cokolate - chocolate
 cokolatobaton - barra de chocolate  
 coy - verduras  
 ##d
+dade - dado  
 dalil - prueba  
 danse - dança (baile)  
 date - datos  
 datobanke - banco de datos (base de datos)  
 dayosamude - océano  
 destin - destino  
+dike - objetivo  
+din - religión  
+diske - disco  
 domi - doméstico  
 dominikania - Republica Dominicana  
 dominikia - Dominica  
@@ -177,7 +184,10 @@ kan - ojo
 kance - vidrio (cristal)  
 kanoe - canoa  
 kanosuyogas - gas lacrimógeno  
+karaibia - Caribe  
 karawe - carvis (alcaravea)  
+karimi - generoso (dadivoso, caritativo)  
+karimia - generosidad (caridad)  
 karte - mapa  
 kartografia - cartografía  
 kava - cavar (excavar)  
@@ -208,6 +218,7 @@ lasker - soldado
 laskeria - ejército  
 late - lado (flanco)  
 lati - lateral  
+latovia - Letonia  
 lawi - anciano  
 lazanye - lasaña  
 leksaslia - etimología  
@@ -216,6 +227,7 @@ leksi - léxico
 letis - lechuga  
 libel - libélula  
 lider - dirigente (líder)  
+lifafa - envolver  
 lil - pequeño  
 limon - limón  
 liste - lista  
@@ -229,7 +241,10 @@ lutheristi - luterano
 lutheristia - luteranismo  
 luzer - perdedor  
 ##m
+magribia - Marruecos  
+maidan - plaza  
 mame - madre (mamá)  
+manges - magnesio  
 manihayistia - maniqueísmo  
 manir - comportamiento (conducta)  
 manse - carne  
@@ -342,6 +357,7 @@ retrotikete - billete de ida y vuelta
 rezerve - réservation  
 rici - rico  
 rim - rima  
+ritim - ritmo  
 rize - raiz  
 rose - rocío  
 roze - rosa  
@@ -410,6 +426,7 @@ walopapir - papel tapiz
 wan - deseo  
 wana - querer (desear)  
 warkolate - página  
+wayoniam - jira (pícnic)  
 werka - trabajar  
 werke - trabajo  
 werker - trabajador (obrero)  
@@ -434,4 +451,4 @@ zime - invierno
 zimi - invernal  
 zinje - gengibre  
 zone - cinturón (zona)  
-zumrude - esmeralda  
+zumurude - esmeralda  
