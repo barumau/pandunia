@@ -107,6 +107,7 @@ cosmos - kosmia
 crema - krem  
 cruz - krus  
 cubo - kube  
+cuchara - camace  
 cuerpo - badan  
 cárcel - prizonia  
 cómo - ko?  
@@ -148,7 +149,7 @@ escribir - kitaba
 escritura - kitabe  
 escultor - eskulter  
 eslavo - slavi  
-esmeralda - zumrude  
+esmeralda - zumurude  
 especia - masal  
 estado - hal  
 estaño - esten  
@@ -375,6 +376,7 @@ reunión (junta, mitin) - mite
 reír - haha  
 rico - rici  
 rima - rim  
+ritmo - ritim  
 riñon - nefre  
 rocío - rose  
 rodilla - gute  

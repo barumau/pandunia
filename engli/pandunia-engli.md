@@ -346,7 +346,7 @@ cabe - key
 cadia - Chad  
 cake - knife  
 cakre - wheel  
-camce - spoon  
+camace - spoon  
 campion - champion  
 cang - often (frequently)  
 cangia - frequency  
@@ -2203,7 +2203,7 @@ rim - rhyme (verse)
 riske - risk  
 riski - risky  
 rite - ritual (ceremony)  
-ritme - rhythm (beat)  
+ritim - rhythm (beat)  
 rize - root  
 robote - robot  
 rodium - rhodium  
@@ -2881,4 +2881,4 @@ zombe - zombie
 zone - belt (zone)  
 zukam - cold (illness)  
 zuluh - Zulu  
-zumrude - emerald  
+zumurude - emerald  

@@ -416,7 +416,7 @@
 |lukumäärä (luku, numero)|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
 |lumi|him|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |luola|guhe|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (tguha), hin:गुफ़ा (gufā), may:gua|
-|lusikka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|lusikka|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |luu|oste|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |lyhty|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |lyhyt|korti|spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|
@@ -704,6 +704,7 @@
 |ruuvi|lose|zho:螺丝 (luòsī), yue:螺絲 (lo4 si1)|
 |ryhmä (työryhmä, yhtye, bändi)|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |ryhmä|grupe|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
+|rytmi|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |ryöstää (ryövätä)|luta|hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|
 |saari|nes|ell:νήσος (nēsos), may:nusa, mlg:nosy|
 |sade|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
@@ -755,7 +756,7 @@
 |sitruuna|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
 |sivistynyt|sivili|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |sivu (kylki, puoli)|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
-|smaragdi|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|smaragdi|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |sohva|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |sokeri|xukar|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
 |solmu|node|eng:node, spa:nudo, por:nó, fra:nœud|

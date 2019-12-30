@@ -247,7 +247,7 @@ ca - de (el, pro)
 cabe - ŝlosilo  
 cake - tranĉilo  
 cakre - rado  
-camce - kulero  
+camace - kulero  
 campion - ĉampiono  
 cang - ofte  
 canse - ŝanco  
@@ -1255,6 +1255,7 @@ rezerve - rezervo
 rezin - rezino  
 riske - risko  
 riski - riska  
+ritim - ritmo  
 rize - radiko  
 robote - roboto  
 rodium - rodio  
@@ -1592,4 +1593,4 @@ ziran - kumino
 zirkonium - zirkonio  
 zone - zono  
 zuluh - zuluo  
-zumrude - smeraldo  
+zumurude - smeraldo  

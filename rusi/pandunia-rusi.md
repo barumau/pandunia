@@ -94,6 +94,7 @@ bruni - коричневый
 buke - книга  
 ##c
 ca - из (от)  
+camace - ложка  
 canse - возможность (шанс)  
 cay - чай  
 cayokupe - чайная чашка  
@@ -353,6 +354,7 @@ ras - раса
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
+ritim - ритм (такт)  
 rize - корень  
 robote - робот  
 rose - роса  
@@ -478,4 +480,4 @@ zinke - цинк
 ziran - тмин  
 zone - пояс (зона)  
 zuluh - зулус  
-zumrude - изумруд  
+zumurude - изумруд  

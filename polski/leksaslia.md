@@ -643,6 +643,7 @@
 |ryba|fix|eng:fish, deu:Fisch|
 |rym (wers)|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
 |rynek, bazar|bazar|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)|
+|rytm, bit|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |rytuał, ceremonia, ryt|rite|eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|
 |ryzyko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |ryż|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
@@ -727,7 +728,7 @@
 |szew|sutur|fra:eng:suture, por:spa:sutura|
 |sześcian|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |szkło|kance|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:may:kaca, tel:గాజు (gāju)|
-|szmaragd|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|szmaragd|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |szofer (kierowca)|xofer|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |sztuka walki|jengoxute|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |sztuka|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
@@ -916,7 +917,7 @@
 |łatwy, prosty|izi|eng:easy, fra:aisée|
 |ławka|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |łańcuch|silsil|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili|
-|łyżka|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|łyżka|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |łza|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |łódź, statek|bote|spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|
 |łóżko|bede|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|

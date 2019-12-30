@@ -166,6 +166,7 @@ croix - krus
 crème - krem  
 crème glacée - aisokrem  
 cube - kube  
+cuiller - camace  
 cycliste - sikliste  
 cytologie - selolojia  
 côté - late  
@@ -415,6 +416,7 @@ religion - din
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
+rhythme - ritim  
 riche - rici  
 rime - rim  
 rire - haha  
@@ -532,7 +534,7 @@ zèbre - zebre
 écrire - kitaba  
 écriture - kitabe  
 électricité - eletre  
-émeraude - zumrude  
+émeraude - zumurude  
 épices - masal  
 épingle - pin  
 épreuve (test) - teste  

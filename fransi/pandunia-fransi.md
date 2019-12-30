@@ -143,6 +143,7 @@ bruni - brun (marron)
 buke - livre  
 ##c
 ca - de  
+camace - cuiller  
 canse - chance  
 cay - thé  
 cayokupe - tasse à thé  
@@ -426,6 +427,7 @@ retra - retourner (revenir)
 retrotikete - Aller-retour  
 rici - riche  
 rim - rime  
+ritim - rhythme  
 rize - racine  
 robote - robot  
 rose - rosée  
@@ -546,4 +548,4 @@ zinje - gingembre
 zombe - zombi  
 zone - zone  
 zuluh - zoulou  
-zumrude - émeraude  
+zumurude - émeraude  

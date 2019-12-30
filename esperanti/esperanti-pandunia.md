@@ -754,7 +754,7 @@ ksenono - xenon
 kubo - kube  
 kuko - keke  
 kukumo - pepin  
-kulero - camce  
+kulero - camace  
 kulo - bum  
 kulpa - doxi  
 kulpo - dox  
@@ -1223,6 +1223,7 @@ ripetado - repe
 ripeti (refari) - repa  
 riska - riski  
 risko - riske  
+ritmo - ritim  
 rivero - nade  
 rizo - arize  
 robo - tunike  
@@ -1305,7 +1306,7 @@ skatolo (kesto) - sanduke
 skribo - kitabe  
 skulti - eskulta  
 skultisto - eskulter  
-smeraldo - zumrude  
+smeraldo - zumurude  
 socio - socia  
 sofo - kanape  
 soldato - lasker  

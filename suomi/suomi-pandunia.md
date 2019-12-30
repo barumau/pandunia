@@ -1200,7 +1200,7 @@ luokka (kategoria) - klas
 luokse (tykö, kohti, asti) - pa  
 luola - guhe  
 luonto - ekia  
-lusikka - camce  
+lusikka - camace  
 luterilainen - lutheristi  
 luterilaisuus - lutheristia  
 lutetium - lutetium  
@@ -2000,7 +2000,7 @@ ruuti - barude
 ruuvi - lose  
 ryhmä (työryhmä, yhtye, bändi) - bande  
 ryhmä - grupe  
-rytmi - ritme  
+rytmi - ritim  
 ryöstää (ryövätä) - luta  
 ryöväri (rosvo) - luter  
 röntgenium - rengenium  
@@ -2145,7 +2145,7 @@ Skotlanti - eskotia
 slaavilainen - slavi  
 Slovakia - slovakia  
 Slovenia - slovenia  
-smaragdi - zumrude  
+smaragdi - zumurude  
 sohva - kanape  
 soihtu - nurobaton  
 soittaa (musisoida) - musika  

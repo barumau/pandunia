@@ -297,7 +297,7 @@
 |eight (8)|bal|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|
 |electricity|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |elephant|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
-|emerald|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|emerald|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |emotion (feeling)|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
 |empty|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |end|fin|spa: fin, fra: fin, por: fim|
@@ -742,6 +742,7 @@
 |rest (remainder)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |return (restore, recover, resume)|fuga|zho:复 (fù), yue:(fuk), vie:phục|
 |rhyme (verse)|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
+|rhythm (beat)|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |rice|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |rich|rici|eng:rich, fra:riche, por:spa:rico|
 |right (correct, accurate)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
@@ -847,7 +848,7 @@
 |spider|arane|fra:araignee, por:aranha, spa:araña, eng:arachnid|
 |spiral (helix, corkscrew, twist)|helis|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
 |spit|tuha|hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|
-|spoon|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|spoon|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |sport (athletics)|kel|hin:खेल (khel), ben:খেলা (khela), tha:กีฬา (kīlā), khm:កីឡា (keila)|
 |spring (springtime)|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
 |squirrel|tupay|may:may:tupai|

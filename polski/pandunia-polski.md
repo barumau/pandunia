@@ -281,7 +281,7 @@ cabe - klucz
 cadia - Czad  
 cake - nóż  
 cakre - koło  
-camce - łyżka  
+camace - łyżka  
 campion - czempion  
 cang - często  
 canse - szansa  
@@ -1903,7 +1903,7 @@ rim - rym (wers)
 riske - ryzyko  
 riski - ryzykowny  
 rite - rytuał, ceremonia, ryt  
-ritme - rytm, bit  
+ritim - rytm, bit  
 rize - korzeń  
 robote - robot  
 rodium - rod  
@@ -2513,4 +2513,4 @@ zombe - zombie, zombi
 zone - pas, strefa  
 zukam - przeziębienie, katar  
 zuluh - zulu  
-zumrude - szmaragd  
+zumurude - szmaragd  

@@ -776,7 +776,7 @@ electron - eletron
 elegant (chic) - xiki  
 elephant - gaje  
 embassy - daixeria  
-emerald - zumrude  
+emerald - zumurude  
 emir - emir  
 emirate - emiria  
 emotion (feeling) - gam  
@@ -2157,7 +2157,7 @@ rhenium - renium
 rhinoceros - kornonos  
 rhodium - rodium  
 rhyme (verse) - rim  
-rhythm (beat) - ritme  
+rhythm (beat) - ritim  
 rib cage - sinkase  
 rice - arize  
 rich - rici  
@@ -2418,7 +2418,7 @@ spider - arane
 spiral (helix, corkscrew, twist) - helis  
 spit - tuha  
 split (fall apart) - fenu  
-spoon - camce  
+spoon - camace  
 sport (athletics) - kel  
 spring (springtime) - cune  
 square (tetragon) - carogon  

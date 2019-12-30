@@ -85,6 +85,7 @@ bruni - marrón
 buke - libro  
 ##c
 ca - de  
+camace - cuchara  
 canse - oportunidad (chance)  
 cerni - negro  
 cis - queso  
@@ -356,6 +357,7 @@ retrotikete - billete de ida y vuelta
 rezerve - réservation  
 rici - rico  
 rim - rima  
+ritim - ritmo  
 rize - raiz  
 rose - rocío  
 roze - rosa  
@@ -449,4 +451,4 @@ zime - invierno
 zimi - invernal  
 zinje - gengibre  
 zone - cinturón (zona)  
-zumrude - esmeralda  
+zumurude - esmeralda  

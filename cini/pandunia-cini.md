@@ -101,6 +101,7 @@ buke - 书
 buze - 山羊  
 ##c
 ca - 从  
+camace - 匙子  
 cay - 茶  
 cayokupe - 茶碗  
 ceng - 层  
@@ -354,6 +355,7 @@ ras - 种族
 reste - 其余  
 retra - 返回 (回来)  
 retrotikete - 往返票  
+ritim - 节奏  
 rize - 根  
 roze - 玫瑰  
 ##s
@@ -457,4 +459,4 @@ zebre - 斑马
 zime - 冬天  
 zinje - 姜  
 ziran - 孜然  
-zumrude - 绿宝石  
+zumurude - 绿宝石 (祖母绿)  

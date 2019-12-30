@@ -337,7 +337,7 @@ cabe - avain
 cadia - Tšad  
 cake - veitsi (puukko)  
 cakre - ratas  
-camce - lusikka  
+camace - lusikka  
 campion - mestari (voittaja)  
 cang - usein  
 cangia - taajuus (tiheys)  
@@ -2150,7 +2150,7 @@ rim - säe (riimi)
 riske - riski  
 riski - riskialtis  
 rite - riitti (rituaali, seremonia)  
-ritme - rytmi  
+ritim - rytmi  
 rize - juuri  
 robote - robotti  
 rodium - rhodium  
@@ -2782,4 +2782,4 @@ zombe - zombi
 zone - vyö  
 zukam - vilustuminen  
 zuluh - zulu  
-zumrude - smaragdi  
+zumurude - smaragdi  

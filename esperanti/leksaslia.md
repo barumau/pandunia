@@ -322,7 +322,7 @@
 |kubo|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |kuko|keke|swa:keki, jpn:ケーキ (kēki), eng:cake, ara:(kaʿka), tur:kek, hin:केक (kek), deu:Keks, rus:кекс (keks)|
 |kukumo|pepin|spa:por:pepino, tgl:pipino, sin:පිපිඤ්ඤා (pipiññā)|
-|kulero|camce|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), tha:ช้อน (chon)|
+|kulero|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |kulo|bum|eng:bum, por:bumbum|
 |kulpo|dox|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
 |kumino|ziran|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|
@@ -545,6 +545,7 @@
 |riparo|xule|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
 |ripetado|repe|eng:rep(etition), spa:repetición, + vie:lặp|
 |risko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
+|ritmo|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |rivero|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |rizo|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |roboto|robote|eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|
@@ -591,7 +592,7 @@
 |skatolo (kesto)|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
 |skribo|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
 |skultisto|eskulter|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
-|smeraldo|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|smeraldo|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |socio|socia|rus:социум (socium), eng:society, spa:sociedad|
 |sofo|kanape|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |soldato|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|

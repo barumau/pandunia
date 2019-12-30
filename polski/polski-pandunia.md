@@ -1771,7 +1771,7 @@ ryba - fix
 rym (wers) - rim  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
-rytm, bit - ritme  
+rytm, bit - ritim  
 rytuał, ceremonia, ryt - rite  
 ryzyko - riske  
 ryzykowny - riski  
@@ -1977,7 +1977,7 @@ sześciokąt (sześciobok) - sisogon
 sześć (6) - sis  
 szkoła (instytucja) - darsia  
 szkło - kance  
-szmaragd - zumrude  
+szmaragd - zumurude  
 szofer (kierowca) - xofer  
 szokwstrząs; kolizja - xoke  
 szparag; szparagia - lusun  
@@ -2471,7 +2471,7 @@ zły, zrujnowany, zepsuty - harabi
 ławka - bence  
 łazienka - banyokamar  
 łańcuch - silsil  
-łyżka - camce  
+łyżka - camace  
 łza - kanosuy  
 łódź, statek - bote  
 łóżko - bede  

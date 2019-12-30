@@ -97,6 +97,7 @@
 |crème glacée|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |crème|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |cube|kube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
+|cuiller|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |côté|late|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
 |dance|danse|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |destin (destination)|destin|eng:destination, destiny, fra:destin, spa:por:destino|
@@ -256,6 +257,7 @@
 |religion|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |renard|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
 |reste|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
+|rhythme|ritim|tur:ritim, eng:rhythm, fra:rhythme, spa:por:ritmo, rus:ритм (ritm), kor:리듬 (rideum), may:ritme|
 |riche|rici|eng:rich, fra:riche, por:spa:rico|
 |rime|rim|spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim, ukr:рима (rima)|
 |rire|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
@@ -327,7 +329,7 @@
 |âge|umur|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
 |écriture|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
 |électricité|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
-|émeraude|zumrude|ara:(zumurrud), fas:(zomorrod), tur:zümrüt, may:zamrud, rus:изумруд (izumrud), swa:zumaridi|
+|émeraude|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |épices|masal|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |épingle|pin|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |épreuve (test)|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
