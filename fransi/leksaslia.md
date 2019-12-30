@@ -91,6 +91,7 @@
 |couleur|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |coupe (tasse, verre)|kupe|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
 |couronne|koron|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
+|couvrir|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |creuser|kava|spa:por:cavar, eng:excavar, fra:excaver|
 |croix|krus|eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|
 |crème glacée|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
@@ -104,6 +105,7 @@
 |diamant|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |dieu|dew|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|
 |dirigeant (leader)|lider|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
+|disque|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |document (dossier)|dokum|eng:fra:document, rus:документ (dokument)|
 |dommage|damaje|eng:damage, fra:dommage|
 |données|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
@@ -198,6 +200,7 @@
 |note|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |nouveau|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nuage|megam|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek)|
+|objectif (cible)|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |océan|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |oeuf|ande|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |oignon|piaze|kaz:kir:пияз (piyaz), tgk:пиёз (piyoz), fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz), kur:pîvaz|
@@ -250,6 +253,7 @@
 |race|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |racine|rize|ell:ρίζα (riza), eng:fra:rhizo-, por:spa:rizo-, rus:ризо- (rizo-)|
 |rein|nefre|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
+|religion|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |renard|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
 |reste|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |riche|rici|eng:rich, fra:riche, por:spa:rico|
@@ -288,7 +292,7 @@
 |sûr|sekuri|eng:secure, deu:sicher, spa:por:seguro|
 |table|meze|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |tarte|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
-|technique|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|technique|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |tendance|ive|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
 |tente|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |thé|cay|zho: 茶 (chá), jpn: (cha), tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy)|

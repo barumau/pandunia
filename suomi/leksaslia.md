@@ -1,6 +1,7 @@
 # suomi-pandunia sa leksasle
 |suomi | pandunia | leksasle |
 |----------|----------|----------|
+|-lainen|deki|zho:的 (de), jpn:-的 (-teki), kor:—적 (-jeok)|
 |-n (oma)|da|zho:的 (de)|
 |aakkoset (ABC)|abace|gre:(alphabētos), spa:abecedario, fas:(alefbâ), ara:(abjad), scr:slk:abeceda, hun:ábécé|
 |aalto (laine)|onde|spa:por:ita:onda, fra:onde, may:ombak|
@@ -272,6 +273,7 @@
 |keuhko|pulmon|spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|
 |kevät|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
 |kiehua|bulu|eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|
+|kiekko (levy)|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |kieli (kommunikaatio)|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |kielletty|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |kieltää|nega|spa:por:negar, eng:negate|
@@ -359,6 +361,7 @@
 |käytäntö (pragmatia)|prate|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
 |käytös (käyttäytyminen, tapa, tavat)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |käännös (tulkinta)|tarje|ara:(tarjama), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, tur:tercüme|
+|kääre (kuori)|lifaf|ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|
 |käärme|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
 |laakso|vale|por:vale, eng:valley, fra:vallée, spa:valle|
 |laatikko|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
@@ -429,7 +432,8 @@
 |maa (valtio)|dex|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |maailma|dunia|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |maalata|penta|eng:paint, fra:peintre|
-|maali (päämäärä)|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
+|maali (maalitaulu, kohde)|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
+|maali (pelissä)|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |maata (makoilla)|lala|swa:-lala|
 |maha (vatsa)|bung|vie:bụng, khm:ពុង (pung), tha:พุง (pung)|
 |mahdollisuus (tilaisuus)|canse|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
@@ -584,7 +588,7 @@
 |passi|pasporte|eng:passport, fra:passeport, spa:pasaporte, Por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, Jpn:パスポート pasupōto)|
 |peikko|guy|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |peili|mirer|eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|
-|peite (kansi)|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
+|peittää|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |peli|gem|eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|
 |penkki|bence|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |perhe|famil|eng:family, spa:familia, por:família, fra:famille|
@@ -828,7 +832,7 @@
 |teippi (nauha)|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tekijä (aikaansaaja)|er|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |tekijä (valmistaja)|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
-|tekniikka (keino, menetelmä)|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|tekniikka (keino, menetelmä)|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |teltta|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |tervehdys (terve!)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |tiede (tutkimus)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
@@ -894,7 +898,7 @@
 |urheilu|kel|hin:खेल (khel), ben:খেলা (khela), tha:กีฬา (kīlā), khm:កីឡា (keila)|
 |usein|cang|zho:常 (cáng)|
 |usko (luottamus)|xin|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
-|uskonto|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|uskonto|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |uuni|tanur|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |uusi|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |uutinen|habar|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|

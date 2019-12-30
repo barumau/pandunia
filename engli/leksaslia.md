@@ -1,6 +1,7 @@
 # engli-pandunia sa leksasle
 |engli | pandunia | leksasle |
 |----------|----------|----------|
+|-al (exhibiting a property)|deki|zho:的 (de), jpn:-的 (-teki), kor:—적 (-jeok)|
 |about (approximately, nearly)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |accent (stress)|aksente|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
 |achoo|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
@@ -224,7 +225,7 @@
 |cotton|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |cough|kos|rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)|
 |country (land, state)|dex|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
-|cover (lid, cap, deck)|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
+|cover (conceal)|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |cow|muh|(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|
 |cream|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |crime|krim|eng:fra:por:crime, spa:crimen, tgl:krimen|
@@ -260,6 +261,7 @@
 |die (dice)|dade|spa:por:tgl:dado, may:swa:dadu|
 |dig (excavate)|kava|spa:por:cavar, eng:excavar, fra:excaver|
 |direction|dixe|hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|
+|disc (disk)|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |discussion (debate, discourse)|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
 |doctor (scholar who has attained doctorate)|dotor|por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)|
 |document (paper)|papir|deu:Papier, eng:paper, spa:por:papel, fra:pol:papier|
@@ -730,7 +732,7 @@
 |refuse (deny, decline)|nega|spa:por:negar, eng:negate|
 |register (record, log)|defte|tur:scr:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
 |relationship (association, connection)|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
-|religion (worship)|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|religion (worship)|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |repair (fix)|xule|zho:修理 (xiūlǐ), jpn:修理 (shūri), kor:수리 (suri)|
 |repetition (rep)|repe|eng:rep(etition), spa:repetición, + vie:lặp|
 |reservation (booking, withholding)|rezerve|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
@@ -890,11 +892,12 @@
 |tactics (strategy)|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
 |tank (reservoir)|tanke|eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|
 |tape|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
+|target (aim, objective)|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |tattoo|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
 |tax (fee, fare)|takse|eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|
 |tear drop|kanosuy|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |tea|cay|zho: 茶 (chá), jpn: (cha), tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy)|
-|technique (technology)|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|technique (technology)|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |temperature|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
 |ten (10)|des|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|
 |tendency (inclination)|ive|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
@@ -1004,6 +1007,7 @@
 |worm|verme|eng:worm, por:verme, fra:ver, deu:Wurm|
 |worship (reveration)|puje|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
 |wow! (gee!)|waw|zho:哇 (wā), eng:wow|
+|wrapping (envelope, covering)|lifaf|ara:(lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā)|
 |writing (text)|kitabe|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
 |yak|yake|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |year|nen|jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm,niên|

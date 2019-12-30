@@ -74,6 +74,7 @@
 |cebula|piaze|kaz:kir:пияз (piyaz), tgk:пиёз (piyoz), fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz), kur:pîvaz|
 |cecha, atrybut, własność; -ość|gune|hin:गुण (guṇ), ben:গুণ (guṇ), tel:(guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun)|
 |cecha, właściwość, parametr|sife|ara:(ṣifa), tur:sıfat, fas:(sefat), urd:(sifat), swa:sifa|
+|cel|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |cel|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |cement|semente|eng:cement, may:semen, spa:cemento, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|
 |chemia|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
@@ -139,6 +140,7 @@
 |dwa (2)|dul|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
 |dym|duman|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |dyskusja, debata, dyskurs|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
+|dysk|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |dzban, dzbanek; słój, słoik|jar|eng:jar, ara:(jara), por:spa:jarra|
 |działanie (zachowanie, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
 |działka (teren)|lote|por:lote, eng:fra:lot, spa:loteo|
@@ -530,7 +532,6 @@
 |pogoda|tenke|zho:天气 (tiǎnqì), jpn:天気 (tenki)|
 |pokaz, ekspozycja, wystawa|xow|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
 |poker|poke|eng:poker, zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|
-|pokrycie; pokrywa, wieko, dekiel; pokład|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
 |pokój, sala|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |pole, powierzchnia|are|eng:area, por:spa:área, pol:areał, fra:aire|
 |policzyć, liczyć, przetwarzać dane|komputa|eng:compute|
@@ -588,6 +589,7 @@
 |przyjaciel|doste|tur:tkm:dost, uzb:doʻst, hin:दोस्त (dost), guj:દોસ્ત (dost), urd:(dost), fas:(dust), taj:дӯст (düst)|
 |przyjęcie, święto, festiwal|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
 |przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać|laya|vie: lại, zho: 来 (lái)|
+|przykryć, przykrywać, ukryć, ukrywać|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |przykład|misal|hin:मिसाल (misāl), ara:(mithāl)|
 |przyprawa|masal|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), bur:(masʰala)|
 |przyrostek dla czasowników z szykiem zdania OVS|-u|hau:wol:-u, swa:-wa|
@@ -618,7 +620,7 @@
 |rasa|ras|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |recepta, receptura, przepis|recete|ita:ricetta, rus:рецепт (retsept), deu:Rezept, spa:receta, por:receita, fra:recette, may:resep|
 |rejestr|defte|tur:scr:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
-|religia, wyznanie|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|religia, wyznanie|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |respekt, honor, szacunek, poważanie|onor|eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|
 |rezerwacja|rezerve|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|
 |robak|verme|eng:worm, por:verme, fra:ver, deu:Wurm|
@@ -747,7 +749,7 @@
 |taśma; bandaż|bende|ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:bul:kaz:kyr:бинт (bint), uzb:bint, hin:बाँधना (bāndhnā)|
 |taśma|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tchórz, fretka|furete|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
-|technika, technologia|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|technika, technologia|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |temat, motyw|teme|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |temperatura|terme|deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|
 |ten, te|yi|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i), |

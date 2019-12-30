@@ -398,6 +398,9 @@ da - -n (oma)
 dade - noppa (arpakuutio)  
 daixer - lähettiläs  
 daixeria - lähetystö  
+daka - peittää  
+dake - peite (kansi)  
+dakula - paljastaa  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dalila - todistaa  
 damaje - vaurio (vahinko)  
@@ -445,9 +448,7 @@ defta - tallentaa (rekisteröidä, kirjata)
 defte - tallenne (rekisteri)  
 deftia - rekisteri (tili)  
 deftobuke - lokikirja  
-deka - peittää  
-deke - peite (kansi)  
-dekula - paljastaa  
+deki - -lainen  
 deme - väestö (kansa)  
 demografia - väestötiede (demografia)  
 demokrati - demokraattinen  
@@ -470,6 +471,7 @@ dewistia - teismi (jumalusko)
 dewkratia - teokratia  
 dewlojia - teologia  
 dex - maa (valtio)  
+dike - maali (maalitaulu, kohde)  
 din - uskonto  
 ding - naula (piikki)  
 dini - uskonnollinen  
@@ -772,7 +774,7 @@ gitar - kitara
 giyania - Ranskan Guiana  
 glute - liima  
 gluten - gluteeni  
-gol - maali (päämäärä)  
+gol - maali (pelissä)  
 gom - kumi  
 gon - kulma (nurkka)  
 gonometer - kulmamitta (goniometri)  
@@ -1374,6 +1376,8 @@ lida - johtaa
 lider - johtaja (pomo)  
 lietuvi - liettualainen  
 lietuvia - Liettua  
+lifaf - kääre (kuori)  
+lifafa - kääriä (panna kääröön)  
 liga - liittää  
 lige - liitto (liittouma, liiga)  
 lil - pieni (pienesti, vähän)  
@@ -1965,7 +1969,6 @@ pian - piano
 piaze - sipuli  
 pijin - kontaktikieli (pidgin)  
 pike - huippu  
-piknike - piknik (retki)  
 pil - nahka (kuori, iho)  
 piloter - ohjaaja (pilotti, luotsi)  
 pimente - pippuri  
@@ -2438,12 +2441,12 @@ tayi - thai
 tayia - Thaimaa  
 tazi - tuore (raikas)  
 te - sinä  
-tekne - tekniikka (keino, menetelmä)  
-teknokratia - teknokratia  
-teknolojia - tekniikka (teknologia)  
+tehne - tekniikka (keino, menetelmä)  
+tehnokratia - teknokratia  
+tehnolojia - tekniikka (teknologia)  
 tele - etäisyys (kaukaisuus)  
-telfon - puhelin  
 teli - kaukainen  
+telofon - puhelin  
 telugi - telugu (eräs intialainen kieli)  
 telvide - televisio  
 tema - aiheesta (-sta)  
@@ -2632,6 +2635,7 @@ way dexi - ulkomaalainen
 way dexia - ulkomaa  
 waya - poistaa  
 waye - ulkopuoli  
+wayoniam - eväsretki (piknik)  
 we - tuo  
 weka - herättää  
 weki - olla hereillä  

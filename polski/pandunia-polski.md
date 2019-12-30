@@ -335,6 +335,9 @@ da - mieć (partykuła posiadania)
 dade - kość do gry  
 daixer - ambasador  
 daixeria - ambasada  
+daka - przykryć, przykrywać, ukryć, ukrywać  
+dake - pokrycie; pokrywa, wieko, dekiel; pokład  
+dakula - odsłonić, odsłaniać  
 dalil - dowód; zeznanie  
 dalila - dowieść, dowodzić; zeznać, zeznawać  
 damaje - obrażenia (rana, krzywda)  
@@ -372,9 +375,6 @@ defta - zapisać (zarejestrować)
 defte - rejestr  
 deftia - register  
 deftobuke - dziennik pokładowy (notatnik)  
-deka - przykryć, przykrywać, ukryć, ukrywać  
-deke - pokrycie; pokrywa, wieko, dekiel; pokład  
-dekula - odsłonić, odsłaniać  
 deme - lud, społeczeństwo  
 demografia - demografia  
 demokrati - demokratyczny  
@@ -397,6 +397,7 @@ dewistia - teizm
 dewkratia - teokracja  
 dewlojia - teologia  
 dex - kraj, ziemia  
+dike - cel  
 din - religia, wyznanie  
 ding - kolec  
 dinogur - ksiądz, kleryk, kaznodzieja  
@@ -1731,7 +1732,6 @@ pian - pianino
 piaze - cebula  
 pijin - pidżin, język pomocniczy  
 pike - szczyt (wierzchołek)  
-piknike - piknik  
 pil - skóra  
 piloter - pilot  
 pimente - pieprz  
@@ -2195,13 +2195,13 @@ tayi - tajski
 tayia - Tajlandia  
 tazi - świeży  
 te - ty, ciebie  
-tekne - technika, technologia  
-teknetium - technet  
-teknokratia - technokracja  
-teknolojia - technologia, nauka o technikach  
+tehne - technika, technologia  
+tehnetium - technet  
+tehnokratia - technokracja  
+tehnolojia - technologia, nauka o technikach  
 tele - dystans  
-telfon - telefon  
 teli - daleki, odległy  
+telofon - telefon  
 telugi - telugu  
 telurium - tellur  
 telvide - telewizja  
@@ -2379,6 +2379,7 @@ way - zewnętrzny
 way dexi - zagraniczny  
 way dexia - zagranica  
 waye - zęwnętrzny  
+wayoniam - piknik  
 weka - obudzić, budzić  
 weki - przebudzony, przytomny  
 werka - pracować  

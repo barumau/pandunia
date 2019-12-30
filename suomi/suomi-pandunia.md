@@ -1,4 +1,5 @@
 # suomi-pandunia
+-lainen - deki  
 -n (oma) - da  
 -us (-uus) - -es  
 ##a
@@ -325,6 +326,7 @@ Eurooppa - europe
 eurooppalainen - europi  
 europium - europium  
 evankeliumi(hyvä sana) - ewanjil  
+eväsretki (piknik) - wayoniam  
 ##f
 Falklandin saaret - malvinas nesia  
 fani (-fiili) - filer  
@@ -1072,6 +1074,8 @@ käytännöllinen (pragmaattinen) - prati
 käytäntö (pragmatia) - prate  
 käytös (käyttäytyminen, tapa, tavat) - manir  
 käännös (tulkinta) - tarje  
+kääre (kuori) - lifaf  
+kääriä (panna kääröön) - lifafa  
 kääriä - rula  
 käärme - serpe  
 käärö - rul  
@@ -1242,7 +1246,8 @@ maailmanlaajuinen (globaali) - panoduni
 maalais- - rusti  
 maalari - penter  
 maalata - penta  
-maali (päämäärä) - gol  
+maali (maalitaulu, kohde) - dike  
+maali (pelissä) - gol  
 maaliskuu - mes 3 (mes tin)  
 maanantai - war 1 (war un)  
 maanjäristys - sisme  
@@ -1652,7 +1657,7 @@ palatsi - gunden
 Palau - palaw  
 palauttaa - fuga  
 Palestiina - filistinia  
-paljastaa - dekula  
+paljastaa - dakula  
 paljon (monta) - pol  
 palladium - paladium  
 pallo - bol  
@@ -1704,8 +1709,8 @@ patonki (ranskanleipä) - batonopang
 pehmeä - komal  
 peikko - guy  
 peili - mirer  
-peite (kansi) - deke  
-peittää - deka  
+peite (kansi) - dake  
+peittää - daka  
 Peking (Beijing) - beijing  
 pelaaja - gemer  
 pelata - gema  
@@ -1747,7 +1752,6 @@ piirtää - grafa
 piirustus - desen  
 pikkuruinen (mini-) - mini  
 pikkutakki (jakku) - jake  
-piknik (retki) - piknike  
 pilahvi - polaw  
 pilalla (raunioina) - harabi  
 pilata (tuhota) - haraba  
@@ -1840,7 +1844,7 @@ puhdas (siivo, siisti) - safi
 puhdistaa (siivota) - safa  
 puhe (sanat) - loge  
 puhelias - logivi  
-puhelin - telfon  
+puhelin - telofon  
 puhua (kommunikoida) - baxa  
 puhua (sanoa) - loga  
 pukea - fuka  
@@ -2331,9 +2335,9 @@ teismi (jumalusko) - dewistia
 teisti - dewiste  
 tekijä (aikaansaaja) - er  
 tekijä (valmistaja) - fater  
-tekniikka (keino, menetelmä) - tekne  
-tekniikka (teknologia) - teknolojia  
-teknokratia - teknokratia  
+tekniikka (keino, menetelmä) - tehne  
+tekniikka (teknologia) - tehnolojia  
+teknokratia - tehnokratia  
 teko - fate  
 tekstin muotoilu - kitaborupe  
 televisio - telvide  

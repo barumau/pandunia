@@ -160,6 +160,7 @@ coton - goton
 couleur - rang  
 coupe (tasse, verre) - kupe  
 couronne - koron  
+couvrir - daka  
 creuser - kava  
 croix - krus  
 crème - krem  
@@ -177,6 +178,7 @@ diamant - almas
 dieu - dew  
 dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
+disque - diske  
 document (dossier) - dokum  
 domestique - domi  
 dommage - damaje  
@@ -191,6 +193,7 @@ dur - gati
 eau - suy  
 Einsteinium - ainstainium  
 enfant - bace  
+envelopper (emballer) - lifafa  
 erroné - galti  
 et - e  
 Europe - europe  
@@ -327,6 +330,7 @@ nouveau - novi
 nuage - megam  
 nécessaire - nidi  
 ##o
+objectif (cible) - dike  
 océan - dayosamude  
 oeuf - ande  
 oignon - piaze  
@@ -377,6 +381,7 @@ peut-être - ablo
 philosophie - filsofia  
 photographie - fotografia  
 pile (batterie) - batre  
+piquenique - wayoniam  
 piraterie - piratia  
 pizza - pize  
 pièce (chambre) - kamar  
@@ -406,6 +411,7 @@ que (quoi) - ke
 race - ras  
 racine - rize  
 rein - nefre  
+religion - din  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
@@ -457,8 +463,8 @@ table - meze
 tablette de chocolat - cokolatobaton  
 tarte - pay  
 tasse à thé - cayokupe  
-technique - tekne  
-technologie - teknolojia  
+technique - tehne  
+technologie - tehnolojia  
 tendance - ive  
 tener sentido - razonu  
 tente - haime  
@@ -477,7 +483,7 @@ tribord - botoraite
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-téléphone - telfon  
+téléphone - telofon  
 téléviseur - telvide  
 tête - sar  
 ##u

@@ -205,6 +205,7 @@ całus - cum
 cebula - piaze  
 cecha, atrybut, własność; -ość - gune  
 cecha, właściwość, parametr - sife  
+cel - dike  
 cel - gol  
 cement - semente  
 centrować, skupić, skupiać - junga  
@@ -1274,7 +1275,7 @@ odmówić (odrzucić) - nega
 odnowić, odnawiać, uczynić nowym - nova  
 odpowiedzieć, odpowiadać - jawaba  
 odpowiedź, odzew - jawabe  
-odsłonić, odsłaniać - dekula  
+odsłonić, odsłaniać - dakula  
 odwiedzić, odwiedzać - vizita  
 oficer policji, policjant - poliser  
 oficjalny - ofisi  
@@ -1413,7 +1414,7 @@ pierwszy, początkowy - muli
 pierś - sine  
 pierścień, pierścionek; obrączka - fingowen  
 pies - waf  
-piknik - piknike  
+piknik - wayoniam  
 pilaw - polaw  
 pilot - piloter  
 pingwin - pinguin  
@@ -1485,7 +1486,7 @@ pojęciowy - ideyi
 pokaz, ekspozycja, wystawa - xow  
 pokazać, pokazywać, wystawić, wystawiać - xowa  
 poker - poke  
-pokrycie; pokrywa, wieko, dekiel; pokład - deke  
+pokrycie; pokrywa, wieko, dekiel; pokład - dake  
 pokój rozmów, chat - blableria  
 pokój, sala - kamar  
 pole widzenia - vidomaidan  
@@ -1639,7 +1640,7 @@ przyjacielski - dosti
 przyjaźń - dostia  
 przyjęcie, święto, festiwal - feste  
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - laya  
-przykryć, przykrywać, ukryć, ukrywać - deka  
+przykryć, przykrywać, ukryć, ukrywać - daka  
 przykład - misal  
 przymiotnik - sifolekse  
 przymus - muse  
@@ -2036,13 +2037,13 @@ taxi, taksówka - taksokar
 taśma - tepe  
 taśma; bandaż - bende  
 tchórz, fretka - furete  
-technet - teknetium  
-technika, technologia - tekne  
-technokracja - teknokratia  
-technologia, nauka o technikach - teknolojia  
+technet - tehnetium  
+technika, technologia - tehne  
+technokracja - tehnokratia  
+technologia, nauka o technikach - tehnolojia  
 teistyczny - dewiste  
 teizm - dewistia  
-telefon - telfon  
+telefon - telofon  
 telewizja - telvide  
 tellur - telurium  
 telugu - telugi  

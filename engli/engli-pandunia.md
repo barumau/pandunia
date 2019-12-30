@@ -1,4 +1,5 @@
 # engli-pandunia
+-al (exhibiting a property) - deki  
 -ness (-ity) - -es  
 @ symbol - adresosimbol (@)  
 a couple of - dul o tin  
@@ -592,8 +593,8 @@ coulomb (unit) - kulom
 country (land, state) - dex  
 countryside - rustia  
 coupon - kupon  
-cover (conceal) - deka  
-cover (lid, cap, deck) - deke  
+cover (conceal) - daka  
+cover (lid, cap, deck) - dake  
 cow - muh  
 crafty (dexterous) - jangi  
 cream - krem  
@@ -1915,7 +1916,7 @@ physicist - fiziker
 physics - fizike  
 physics - fizikia  
 piano - pian  
-picnic - piknike  
+picnic - wayoniam  
 picture book - grafobuke  
 pidgin (contact language) - pijin  
 pie (pastry) - pay  
@@ -2528,6 +2529,7 @@ Tanzania - tanzania
 Taoism (Daoism) - dawistia  
 Taoist - dawiste  
 tape - tepe  
+target (aim, objective) - dike  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
 taste like - gustu ko  
@@ -2541,11 +2543,11 @@ teacher - darsogur
 team - tim  
 tear drop - kanosuy  
 tear gas - kanosuyogas  
-technetium - teknetium  
-technique (technology) - tekne  
-technocracy - teknokratia  
-technology (study of techniques) - teknolojia  
-telephone - telfon  
+technetium - tehnetium  
+technique (technology) - tehne  
+technocracy - tehnokratia  
+technology (study of techniques) - tehnolojia  
+telephone - telofon  
 television - telvide  
 tell (narrate) - saga  
 tellurium - telurium  
@@ -2688,7 +2690,7 @@ ugly - malorupi
 Ukraine - ukrainia  
 umbrella - barxocate  
 unambiguous - unomeni  
-uncover (reveal) - dekula  
+uncover (reveal) - dakula  
 under (go under) - nica  
 undergo (passivizing verb) - beyu  
 underside (underneath) - nice  
@@ -2840,6 +2842,8 @@ worm - verme
 worship (reveration) - puje  
 worship (revere) - puja  
 wow! (gee!) - waw  
+wrap - lifafa  
+wrapping (envelope, covering) - lifaf  
 write - kitaba  
 writing (text) - kitabe  
 wrong (incorrect, erroneous, faulty) - galti  

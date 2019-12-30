@@ -151,6 +151,7 @@ cis - fromage
 cokolate - chocolat  
 cokolatobaton - tablette de chocolat  
 ##d
+daka - couvrir  
 dalil - preuve  
 damaje - dommage  
 danse - dance  
@@ -159,6 +160,9 @@ datobanke - base de données
 dayosamude - océan  
 destin - destin (destination)  
 dew - dieu  
+dike - objectif (cible)  
+din - religion  
+diske - disque  
 dokum - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
@@ -293,6 +297,7 @@ lete - été
 letis - laitue  
 libel - libellule  
 lider - dirigeant (leader)  
+lifafa - envelopper (emballer)  
 lil - petit  
 limon - citron  
 liste - liste  
@@ -467,9 +472,9 @@ suyogas - vapeur d’eau
 tarje - traduction  
 tazi - frais  
 te - tu  
-tekne - technique  
-teknolojia - technologie  
-telfon - téléphone  
+tehne - technique  
+tehnolojia - technologie  
+telofon - téléphone  
 telvide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
@@ -509,6 +514,7 @@ wal - mur
 walopapir - papier peint  
 wana - vouloir  
 warkolate - page  
+wayoniam - piquenique  
 weki - éveillé  
 werka - travailler  
 werke - travail  

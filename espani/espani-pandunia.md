@@ -122,6 +122,7 @@ deseo - wan
 destino - destin  
 diamante - almas  
 dirigente (líder) - lider  
+disco - diske  
 disentir (no estar de acuerdo) - aloraya  
 Dominica - dominikia  
 doméstico - domi  
@@ -139,6 +140,7 @@ empanadilla (pelmeni) - pelmen
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
+envolver - lifafa  
 equipaje - bagaje  
 error - galte  
 erróneo - galti  
@@ -208,6 +210,7 @@ invierno - zime
 jade - yuke  
 Japón - niponia  
 jefe - xef  
+jira (pícnic) - wayoniam  
 jirafa - jiraf  
 joule (J) - jul  
 jugo (zumo) - jus  
@@ -292,6 +295,7 @@ nube - megam
 nuevo - novi  
 o - o  
 ##o
+objetivo - dike  
 océano - dayosamude  
 ojo - kan  
 olvidar - memula  
@@ -365,6 +369,7 @@ química - kimia
 raiz - rize  
 raza - ras  
 recto - orti  
+religión - din  
 Republica Dominicana - dominikania  
 reunión (junta, mitin) - mite  
 reír - haha  

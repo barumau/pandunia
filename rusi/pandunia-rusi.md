@@ -110,6 +110,9 @@ datobanke - база данных
 dayosamude - океан  
 destin - судьба  
 dew - бог  
+dike - цель  
+din - религия (вера)  
+diske - диск  
 domi - домашний  
 duga - читать  
 dul - два  
@@ -398,11 +401,13 @@ tas - блюдо (таз)
 tataw - татуировка (тату)  
 tazi - свежий  
 te - ты  
-teknolojia - технология  
-telfon - телефон  
+tehne - техника  
+tehnolojia - технология  
+telofon - телефон  
 telvide - телевизор  
 teme - тема  
 tena - иметь  
+tenke - погода  
 tenu - принадлежать  
 tepe - лента  
 teroristia - терроризм  
@@ -436,6 +441,7 @@ wana - хотеть
 waw - вау!  
 waxa - мыть  
 waxomaxin - стиральная машина  
+wayoniam - пикник  
 werka - работать  
 werke - работа  
 werker - работник  

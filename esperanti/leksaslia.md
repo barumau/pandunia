@@ -99,7 +99,7 @@
 |buso|bus|deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)|
 |butono|boton|eng:button, spa:botón, por:botão, fra:bouton, jpn:ボタン (botan), tgl:butones, hin:बटन (baṭan), urd:(baṭan), ben;বোতাম (botam)|
 |buŝo|boke|spa:por:boca|
-|celo (golo)|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
+|celo|dike|zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |centro|jung|zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|
 |cepo|piaze|kaz:kir:пияз (piyaz), tgk:пиёз (piyoz), fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz), kur:pîvaz|
 |certa|amen|ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|
@@ -123,6 +123,7 @@
 |diablo (Satano)|xatan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|
 |diamanto|almas|swa:almasi, rus:алмаз (almaz), tkm:almaz, ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |dio|dew|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|
+|disko|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |disvolvi|fajan|zho:发展 (fāzhǎn), vie:phát triển, kor:발전 (bajjeon)|
 |doktoro|dotor|por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)|
 |doni|dona|eng:dan:give, deu:geben, zho:给 (gěi)|
@@ -205,6 +206,7 @@
 |glavo|katan|jpn:刀 (katana)|
 |gluo|glute|eng:glue, swa:gluu, + fra:glutineux|
 |gluti|gula|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|golo|gol|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |granda|day|yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|
 |graso|fete|swa:mafuta, rwa:mavuta, kon:mafuta|
 |gratuli|barka|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
@@ -307,7 +309,7 @@
 |kotono|goton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |koto|pote|ijo:pọtọ, ibo:potọ potọ, Lin:pɔtɔpɔ́tɔ, kon:pcm:fra:poto-poto|
 |kotraŭa|anti|eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), pol:anty-|
-|kovrilo|deke|hin:ढकना (dhaknā), deu:decken, eng:deck|
+|kovri|daka|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |krano (valvo)|kran|ned:kraan, rus:taj:kaz:кран (kran), pol:aze:kran, may:keran|
 |kredo|xin|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
 |kremo|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
@@ -531,7 +533,7 @@
 |rapida|rapidi|spa:por:rápido, eng:rapid, fra:rapide|
 |registraĵo|defte|tur:scr:defter, ell:τεφτέρι (tefteri), may:daftar, ara:fas:(daftar)|
 |rekta|orti|eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|
-|religio|din|ara:urd:(dīn), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
+|religio|din|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |reno|nefre|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |respondo|jawabe|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|
 |reto|nete|eng: net, deu: Netz|
@@ -627,7 +629,7 @@
 |tamen|lekin|ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|
 |taso|kupe|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
 |tatuo|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
-|tekniko|tekne|eng:technique, por:técnica, hin:तकनीक (taknīk), may:teknik|
+|tekniko|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |tekto|cate|hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|
 |temo|teme|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |tendo|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|

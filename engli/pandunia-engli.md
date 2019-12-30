@@ -407,6 +407,9 @@ da - own (particle of possession)
 dade - die (dice)  
 daixer - ambassador  
 daixeria - embassy  
+daka - cover (conceal)  
+dake - cover (lid, cap, deck)  
+dakula - uncover (reveal)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dalila - prove (demonstrate, testify)  
 damaje - damage (injury, harm)  
@@ -455,9 +458,7 @@ defta - register (record, log)
 defte - register (record, log)  
 deftia - registry (account)  
 deftobuke - logbook  
-deka - cover (conceal)  
-deke - cover (lid, cap, deck)  
-dekula - uncover (reveal)  
+deki - -al (exhibiting a property)  
 deme - people (population)  
 demi - public  
 demografia - demography  
@@ -481,6 +482,7 @@ dewistia - theism
 dewkratia - theocracy  
 dewlojia - theology  
 dex - country (land, state)  
+dike - target (aim, objective)  
 din - religion (worship)  
 ding - nail (spike)  
 dini - religious  
@@ -1408,6 +1410,8 @@ lida - lead (direct)
 lider - leader (director)  
 lietuvi - Lithuanian  
 lietuvia - Lithuania  
+lifaf - wrapping (envelope, covering)  
+lifafa - wrap  
 liga - associate  
 lige - league (association)  
 lil - little (small; a little, somewhat)  
@@ -2013,7 +2017,6 @@ pian - piano
 piaze - onion  
 pijin - pidgin (contact language)  
 pike - top (peak, pinnacle, summit, apex, vertex)  
-piknike - picnic  
 pil - skin (peel)  
 piloter - pilot  
 pimente - pepper (Piper nigrum)  
@@ -2518,13 +2521,13 @@ tayi - Thai
 tayia - Thailand  
 tazi - fresh  
 te - you (singular)  
-tekne - technique (technology)  
-teknetium - technetium  
-teknokratia - technocracy  
-teknolojia - technology (study of techniques)  
+tehne - technique (technology)  
+tehnetium - technetium  
+tehnokratia - technocracy  
+tehnolojia - technology (study of techniques)  
 tele - distance  
-telfon - telephone  
 teli - far (distant)  
+telofon - telephone  
 telugi - Telugu  
 telurium - tellurium  
 telvide - television  
@@ -2727,6 +2730,7 @@ waya - oust (expel)
 waye - outside (exterior)  
 wayomisa - export  
 wayonam - exonym  
+wayoniam - picnic  
 we - that one  
 weka - wake (make awake)  
 weki - awake  

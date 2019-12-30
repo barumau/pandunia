@@ -216,7 +216,7 @@ butono - boton
 buĝeto - bujete  
 buŝo - boke  
 ##c
-celo (golo) - gol  
+celo - dike  
 cent - hon  
 centono - cent-  
 centro - jung  
@@ -479,6 +479,7 @@ glavo - katan
 gluo - glute  
 gluteno - gluten  
 gluti - gula  
+golo - gol  
 grafika (bilda) - grafi  
 gramatika - baxokanuni  
 gramatiko - baxokanun  
@@ -731,8 +732,8 @@ kota - poti
 koto - pote  
 kotono - goton  
 kotraŭa - anti  
-kovri - deka  
-kovrilo - deke  
+kovri - daka  
+kovrilo - dake  
 krano (valvo) - kran  
 kreda - xina  
 kredo - xin  
@@ -1366,11 +1367,11 @@ Tanzanio - tanzania
 tapeto - walopapir  
 taso - kupe  
 tatuo - tataw  
-teknecio - teknetium  
-tekniko - tekne  
-teknologio - teknolojia  
+teknecio - tehnetium  
+tekniko - tehne  
+teknologio - tehnolojia  
 tekto - cate  
-telefono - telfon  
+telefono - telofon  
 televidilo - telvide  
 teluro - telurium  
 temo - teme  

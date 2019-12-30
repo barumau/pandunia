@@ -290,6 +290,8 @@ da - propra (partiklo de posedo)
 dade - ĵetkubo  
 daixer - ambasadoro  
 daixeria - ambasado  
+daka - kovri  
+dake - kovrilo  
 damaje - damaĝo  
 damaji - damaĝa  
 dania - Danio  
@@ -317,8 +319,6 @@ defer - defendanto (defendisto)
 defta - registri  
 defte - registraĵo  
 deftia - registro (konto)  
-deka - kovri  
-deke - kovrilo  
 deme - popolo  
 demografia - demografio  
 demokrati - demokratia  
@@ -336,6 +336,7 @@ dewi sage - mito
 dewkratia - teokratio  
 dewlojia - teologio  
 dex - lando  
+dike - celo  
 din - religio  
 ding - najlo  
 dini - religia  
@@ -553,7 +554,7 @@ gida - stiri
 gitar - gitaro  
 glute - gluo  
 gluten - gluteno  
-gol - celo (golo)  
+gol - golo  
 gom - kaŭĉuko  
 gon - angulo  
 goton - kotono  
@@ -1406,12 +1407,12 @@ tayi - tajlanda
 tayia - Tajlando  
 tazi - freŝa  
 te - vi (ci)  
-tekne - tekniko  
-teknetium - teknecio  
-teknolojia - teknologio  
+tehne - tekniko  
+tehnetium - teknecio  
+tehnolojia - teknologio  
 tele - malproksimeco  
-telfon - telefono  
 teli - malproksima  
+telofon - telefono  
 telurium - teluro  
 telvide - televidilo  
 tema - esti pri; pridiskuti  

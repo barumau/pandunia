@@ -113,9 +113,13 @@ cokolatobaton - 巧克力棒
 date - 数据  
 datobanke - 数据库  
 dayosamude - 大洋  
+deki - 的  
 destin - 目的地 (命運)  
 dew - 神  
+dike - 目的 (目标)  
+din - 宗教  
 ding - 钉子  
+diske - 圆盘  
 dom - 房子  
 duga - 读 (看)  
 dul - 二  
@@ -391,9 +395,9 @@ tami - 贪婪的
 tarje - 翻译  
 tazi - 新鲜的  
 te - 你  
-tekne - 技术  
-teknolojia - 工艺学  
-telfon - 电话机  
+tehne - 技术  
+tehnolojia - 工艺学  
+telofon - 电话机  
 telvide - 电视机  
 teme - 主题目  
 tena - 有  
@@ -425,6 +429,7 @@ vulve - 外阴 (陰门)
 wal - 墙  
 walopapir - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
+wayoniam - 野餐  
 werka - 工作  
 werke - 工作  
 werker - 工人 (工作者)  

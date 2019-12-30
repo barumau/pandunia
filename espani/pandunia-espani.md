@@ -99,6 +99,9 @@ date - datos
 datobanke - banco de datos (base de datos)  
 dayosamude - océano  
 destin - destino  
+dike - objetivo  
+din - religión  
+diske - disco  
 domi - doméstico  
 dominikania - Republica Dominicana  
 dominikia - Dominica  
@@ -223,6 +226,7 @@ leksi - léxico
 letis - lechuga  
 libel - libélula  
 lider - dirigente (líder)  
+lifafa - envolver  
 lil - pequeño  
 limon - limón  
 liste - lista  
@@ -420,6 +424,7 @@ walopapir - papel tapiz
 wan - deseo  
 wana - querer (desear)  
 warkolate - página  
+wayoniam - jira (pícnic)  
 werka - trabajar  
 werke - trabajo  
 werker - trabajador (obrero)  
