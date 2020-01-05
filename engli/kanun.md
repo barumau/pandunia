@@ -106,8 +106,7 @@ They are described in more detail later in this document.
     - **me plisa te loga mingo.** →  **plisa loga mingo.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.
-    The linking vowel **-o-** is inserted between the stems
-    if the resulting word would be otherwise too difficult to pronounce.
+    The linking vowel **-o-** is inserted between the stems.
     - ex. **hur-** (freedom) + **ist-** (proponent) → **huriste** (liberalist)
     - ex. **post-** (mail) + **sanduk-** (box) → **postosanduke** (mailbox)
 

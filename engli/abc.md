@@ -67,7 +67,7 @@ the duration of the vowel.
 When two vowels are next to each other, they will glide together and
 form a _diphthong_ i.e. a gliding vowel.
 
-For example **a** and **u** form a gliding vowel in the word **paus**.
+For example **a** and **u** form a gliding vowel in the word **pauze**.
 So the vowel begins in **a** and glides gradually to **u**.
 There is a similar gliding vowel in **paw**.
 
