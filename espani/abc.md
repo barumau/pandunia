@@ -139,7 +139,8 @@ La estructura de palabras más común en pandunia es CVCV, en donde C es una
 consonante y V es una vocal.
 
 La palabra más difícil posible es CLVCCLVC, en donde L es una consonante líquida
-(l o r), pero en realidad no hay palabras así.
+(l o r), pero en realidad no hay palabras así. Algunas de las palabras más difícil
+actuales son **kristal** y **simpli**.
 
 Las consonantes iniciales están restringidas a:
 
