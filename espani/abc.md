@@ -153,7 +153,7 @@ Las consonantes iniciales están restringidas a:
 
 El conjunto de consonantes medias están restringidas a:
 
-1. Resonante (m, n, ŋ, l, r) + oclusiva o africada
+1. Resonante (m, n, l, r) + oclusiva o africada
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg

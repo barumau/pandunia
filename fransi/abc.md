@@ -111,31 +111,50 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 La structure la plus commune en Pandunia est CVCV (C = consonne, V = voyelle).
 
-La combinaison de syllabes la plus lourde est CLVCCVC, où L est une consonne liquide (l ou r). Le mot **kristal** en est un exemple.
+La combinaison de syllabes la plus lourde est CLVCCLVC, où L est une consonne liquide (l ou r).
 
 Les consonnes initiales sont limitées à :
 
-1. N'importe quelle consonne simple excepté /ŋ/
+1. N'importe quelle consonne simple
 2. Occlusive + liquide
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
-3. ny
+3. Fricative + liquide
+    - fl, sl, zl, xl
+    - fr
 
-Les groupes de consonnes centrales sont limitées à :
+Les groupes de consonnes centrales sont limitées à:
 
-1. Sonante (m, n, ŋ, l, r) + occlusive or affriquée
+1. Sonante (m, n, l, r) + occlusive or affriquée
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Sonante + silibante
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
+2. Sonante + fricative
+    - nf, nv, ns, nz, nx
+    - lf, lv, ls, ls, lx
+    - rf, rv, rs, rz, rx
 3. Silibante + occlusive
+    - ft, fk
     - st, sp, sk
-4. Occlusive + liquide (voir ci-dessus)
+4. Fricative + resonante
+    - sm, zm, xm, hm
+    - fn, sn, zn, xn, hn
+    - fl, sl, zl, xl, hl
+    - fr, hr
+5. Occlusive + sibilante
+    - ps, bz, px
+    - ks, gz, kx
+6. Sonante + sibilante + occlusive
+    - par ex. lsk
+7. Sonante + occlusive + liquide
+    - par ex. ngl
+8. Sonante + fricative + liquide
+    - par ex. lfr
+9. Silibante + occlusive + liquide
+    - par ex. str
+10. Occlusive + liquide (voir ci-dessus)
 
-Les consonnes finales autorisées sont:  
+Les consonnes finales autorisées sont:
 h, l, m, n, ng, r, s, w, x, y
 
 

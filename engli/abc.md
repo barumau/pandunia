@@ -149,7 +149,9 @@ For example **:)** indicates happiness and **:(** indicates sadness.
 The most common word structure in Pandunia is CVCV, where C is a consonant and
 V is a vowel.
 
-The heaviest possible word is CLVCCLVC, where L is a liquid consonant (l or r), but no such words actually exist. Some of the heaviest words in practice are **kristal** and **simpli**.
+The heaviest possible word is CLVCCLVC, where L is a liquid consonant (l or r),
+but no such words actually exist. Some of the heaviest words in practice are
+**kristal** and **simpli**.
 
 Initial consonants are restricted to:
 
@@ -163,7 +165,7 @@ Initial consonants are restricted to:
 
 Middle consonant clusters are restricted to:
 
-1. These resonant (m, n, ŋ, l, r) + stop or affricate clusters
+1. These resonant (m, n, l, r) + stop or affricate clusters
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
@@ -195,7 +197,9 @@ Middle consonant clusters are restricted to:
 Allowed final consonants and clusters are:  
 h, l, m, n, ng, r, s, w, x, y
 
-In addition, any proper name of a person, place, or cultural concept, as well as words derived from them, may contain any two- or three-consonant cluster in the middle of a word so long as it does not contain:
+In addition, any proper name of a person, place, or cultural concept, as well
+as words derived from them, may contain any two- or three-consonant cluster in
+the middle of a word so long as it does not contain:
 
 1. Two consecutive stops, affricates, or fricatives of different voicings
     - e.g. fg
