@@ -182,18 +182,18 @@ Middle consonant clusters are restricted to:
 5. These stop + sibilant clusters
     - ps, bz, px
     - ks, gz, kx
-6. Resonant + sibilant + stop cluster
+6. Resonant + sibilant + stop clusters
     - e.g. lsk
-7. Resonant + stop + liquid cluster
+7. Resonant + stop + liquid clusters
     - e.g. ngl
-8. Fricative + stop + liquid cluster
+8. Fricative + stop + liquid clusters
     - e.g. str
 9. Stop + liquid (see above)
 
 Allowed final consonants and clusters are:  
 h, l, m, n, ng, r, s, w, x, y
 
-In addition, an proper name of a person, place, or cultural concept, as well as words derived from them, may contain any two- or three-consonant cluster in the middle of a word so long as it does not contain:
+In addition, any proper name of a person, place, or cultural concept, as well as words derived from them, may contain any two- or three-consonant cluster in the middle of a word so long as it does not contain:
 
 1. Two consecutive stops, affricates, or fricatives of different voicings
     - e.g. fg

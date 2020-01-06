@@ -138,15 +138,18 @@ indica tristeza.
 La estructura de palabras más común en pandunia es CVCV, en donde C es una
 consonante y V es una vocal.
 
-La palabra más difícil posible es CLVLCCVC, en donde L es una consonante líquida
-(l o r). Por ejemplo **kristal** es una palabra así.
+La palabra más difícil posible es CLVCCLVC, en donde L es una consonante líquida
+(l o r), pero en realidad no hay palabras así.
 
 Las consonantes iniciales están restringidas a:
 
-1. Cualquier consonante sola, excepto /ŋ/
-2. Una consonante oclusiva seguida de una líquida
+1. Cualquier consonante sola
+2. Oclusiva + líquida
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
+3. Fricativa + líquida
+    - fl, sl, zl, xl
+    - fr
 
 El conjunto de consonantes medias están restringidas a:
 
@@ -154,14 +157,38 @@ El conjunto de consonantes medias están restringidas a:
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Resonante + sibilante
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
+2. Resonante + fricativa
+    - nf, nv, ns, nz, nx
+    - lf, lv, ls, ls, lx
+    - rf, rv, rs, rz, rx
 3. Sibilante + oclusiva
+    - ft, fk
     - st, sp, sk
-4. Oclusiva + consonante líquida (ver arriba)
+4. Fricativa + resonante
+    - sm, zm, xm, hm
+    - fn, sn, zn, xn, hn
+    - fl, sl, zl, xl, hl
+    - fr, hr
+5. Oclusiva + sibilante
+    - ps, bz, px
+    - ks, gz, kx
+6. Resonante + sibilante + oclusiva
+    - p. ej. lsk
+7. Resonante + oclusiva + líquida
+    - p. ej. ngl
+8. Sibilante + oclusiva + líquida
+    - p. ej. str
+9. Oclusiva + líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
 h, l, m, n, ng, r, s, w, x, y
 
+Además, nombres de los personos, locaciónes, y conceptos culturales pueden contener
+cada conjuntos de dos o tres consonantes en el medio de una palabra que no tiene:
+
+1. Dos oclusivas, africadas, o fricativas consecutivos de voces diferentes
+    - p. ej. fg
+2. Dos sibilantes o africadas consecutivos
+    - p. ej. sc
+3. Dos consonantes idénticos consecutivos
+    - p. ej. mm
