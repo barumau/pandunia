@@ -45,7 +45,7 @@ As semivowels **y** is close to **i** sound and **w** is close to
 
 Semivowels **y** and **w** are always followed by a full vowel or
 a word break (when the bare word stem is used). For example:  
-**maw tena naw jiwe.** = The cat has nine lives.
+**maw tena naw hay.** = The cat has nine lives.
 
 
 ## Vowel Sounds
@@ -67,9 +67,9 @@ the duration of the vowel.
 When two vowels are next to each other, they will glide together and
 form a _diphthong_ i.e. a gliding vowel.
 
-For example **a** and **u** form a gliding vowel in the word **pauze**.
+For example **a** and **u** form a gliding vowel in the word **mais**.
 So the vowel begins in **a** and glides gradually to **u**.
-There is a similar gliding vowel in **paw**.
+There is a similar gliding vowel in **may**.
 
 
 ## Stress Accent
@@ -78,13 +78,13 @@ The stress is on the syllable, which is before the last consonant.
 
 Consider the following examples:
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
      me wana loga komun bax, le si pandunia.  
     /mé wána lóga komún báx, lé sí pandúnia./
@@ -140,7 +140,7 @@ For example **:)** indicates happiness and **:(** indicates sadness.
 
 **me vida te :)**
 = I see you.  
-**me ni vida te :(**
+**me no vida te :(**
 = I don't see you.
 
 

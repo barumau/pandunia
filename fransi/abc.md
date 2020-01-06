@@ -50,7 +50,7 @@ Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
@@ -77,7 +77,7 @@ Il y a trois raisons pour lesquelles les majuscules ne sont pas nécessaires :
 
 Remarque ! Ce n’est pas une erreur d’utiliser des majuscules. Certaines personnes le font machinalement parce qu’elles y ont été habituées dans d’autres langues. Mais les majuscules ne sont quand même pas nécessaires et pas recommandées.
 
-Les majuscules sont utilisées dans les abréviations des standards internationaux. Par exemple : 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
+Les majuscules sont utilisées dans les abréviations des standards internationaux. Par exemple : 10 Mb (des megobite), 100 Gb (hon gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
 
 ## Mise en évidence des syllabes
@@ -103,7 +103,7 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 **me vida te :)**
 = Je te vois.  
-**me ni vida te :(**
+**me no vida te :(**
 = Je ne te vois pas.
 
 

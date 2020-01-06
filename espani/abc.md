@@ -3,9 +3,9 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c  | d | e | f | g | h   | i | j  | k  | l | m | n | o | p  | r   | s | t  | u | v | w | x | y | z |
+|-----------|---|---|----|---|---|---|---|-----|---|----|----|---|---|---|---|----|-----|---|----|---|---|---|---|---|---|
+| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -65,13 +65,13 @@ consonante.
 
 Ejemplos:
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
      me wana loga komun bax, le si pandunia.  
     /mé wána lóga komún báx, lé sí pandúnia./
@@ -99,8 +99,8 @@ porque están acostumbradas a ello en otros idiomas. Aun así, las mayúsculas s
 innecesarias y no se recomiendan..
 
 En pandunia, se usan las letras mayúsculas en los acrónimos y símbolos
-internacionales estándar. Por ejemplo: 10 Mb (des mega bit), 100 Gb (hon giga
-bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
+internacionales estándar. Por ejemplo: 10 Mb (des megobite), 100 Gb (hon
+gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
 ## Sílabas
 
@@ -128,7 +128,7 @@ indica tristeza.
 
 **me vida te :)**
 = Te veo.  
-**me ni vida te :(**
+**me no vida te :(**
 = No te veo.
 
 ## Estructura de las palabras
@@ -136,7 +136,7 @@ indica tristeza.
 La estructura de palabras más común en pandunia es CVCV, en donde C es una
 consonante y V es una vocal.
 
-La palabra más difícil posible es CLVCCVC, en donde L es una consonante líquida
+La palabra más difícil posible es CLVLCCVC, en donde L es una consonante líquida
 (l o r). Por ejemplo **kristal** es una palabra así.
 
 Las consonantes iniciales están restringidas a:
