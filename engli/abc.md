@@ -186,9 +186,11 @@ Middle consonant clusters are restricted to:
     - e.g. lsk
 7. Resonant + stop + liquid clusters
     - e.g. ngl
-8. Fricative + stop + liquid clusters
+8. Resonant + fricative + liquid clusters
+    - e.g. lfr
+9. Sibilant + stop + liquid clusters
     - e.g. str
-9. Stop + liquid (see above)
+10. Stop + liquid (see above)
 
 Allowed final consonants and clusters are:  
 h, l, m, n, ng, r, s, w, x, y

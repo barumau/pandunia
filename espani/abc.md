@@ -176,9 +176,11 @@ El conjunto de consonantes medias están restringidas a:
     - p. ej. lsk
 7. Resonante + oclusiva + líquida
     - p. ej. ngl
-8. Sibilante + oclusiva + líquida
+8. Resonante + fricativa + líquida
+    - p. ej. lfr
+9. Sibilante + oclusiva + líquida
     - p. ej. str
-9. Oclusiva + líquida (ver arriba)
+10. Oclusiva + líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
 h, l, m, n, ng, r, s, w, x, y
