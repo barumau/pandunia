@@ -40,6 +40,8 @@ grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
 - **y** representa el sonido breve diptongado de I, y equivale por tanto
   siempre (también ante vocal) a la Y en "ley", a la I en "aire".
 - **h** es como el sonido de la J española.
+- **v** es como el sonido de la B o V española despues de una vocal, como en
+  "abrevar".
 
 Las consonantes siguientes representan fonemas que no existen en español:
 
