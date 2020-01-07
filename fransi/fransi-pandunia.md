@@ -457,7 +457,7 @@ sac - sake
 sain - sihati  
 salle de bains - banyokamar  
 salut (salam) - salame  
-sandwich - sanwice  
+sandwich - sanduice  
 sang - sang  
 santé - sihate  
 Satan - xatan  

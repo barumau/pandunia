@@ -466,8 +466,8 @@ samoray - accord
 samude - mer  
 samudojel - méduse  
 samudotate - côte  
+sanduice - sandwich  
 sang - sang  
-sanwice - sandwich  
 sar - tête  
 saturne - Saturne  
 sekse - sexe  

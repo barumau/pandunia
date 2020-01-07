@@ -2342,6 +2342,7 @@ samudotate - coast (beach)
 samun - joint  
 samuna - connect (join, link)  
 sana - produce (create, make)  
+sanduice - sandwich  
 sanduke - box (chest)  
 sang - blood  
 sani - artificial  
@@ -2356,7 +2357,6 @@ santi marinia - Sanmarino
 santi tome e prinsipe - Sao Tome and Principe  
 santi vinsente - Saint Vincent  
 santi vinsente e grenadin - Saint Vincent and Grenadines  
-sanwice - sandwich  
 sapate - chaussure  
 sapater - shoemaker  
 sapateria - shoemaker's shop  

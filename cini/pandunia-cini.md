@@ -390,8 +390,8 @@ samoray - 一致
 samude - 海  
 samudojel - 海蜇  
 samudotate - 海岸  
+sanduice - 三明治 (三文治)  
 sang - 血  
-sanwice - 三明治 (三文治)  
 sapate - 鞋  
 sar - 头  
 saturne - 土星  

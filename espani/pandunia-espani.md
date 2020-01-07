@@ -409,6 +409,7 @@ samude - mar
 samudi - marítimo  
 samudojel - medusa  
 samudotate - costa  
+sanduice - sándwich (sánduche)  
 sang - sangre  
 sapate - sapato  
 sar - cabeza  

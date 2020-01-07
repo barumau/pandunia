@@ -2249,6 +2249,7 @@ samudolaskeria - merivoimat
 samun - yhdistys (sidos)  
 samuna - yhdistää  
 sana - tehdä (valmistaa)  
+sanduice - voileipä  
 sanduke - laatikko  
 sang - veri  
 sania - tuotanto  
@@ -2260,7 +2261,6 @@ santi kitse e nevis - Saint Kitts ja Nevis
 santi lusia - Saint Lucia  
 santi marinia - San Marino  
 santi tome e prinsipe - Sao Tome ja Principe  
-sanwice - voileipä  
 sapate - kenkä  
 sapater - suutari  
 sapateria - suutarin paja  

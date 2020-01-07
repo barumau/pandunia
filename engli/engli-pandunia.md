@@ -2272,7 +2272,7 @@ samarium - samarium
 same - sami  
 Samoa - samoa  
 sand - rege  
-sandwich - sanwice  
+sandwich - sanduice  
 Sanmarino - santi marinia  
 Sao Tome and Principe - santi tome e prinsipe  
 Satanism (devil worship) - xatanistia  

@@ -281,7 +281,7 @@
 |rôtir|rosta|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
 |sac|sake|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |salut (salam)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
-|sandwich|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
+|sandwich|sanduice|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |sang|sang|fra:sang, spa:sangre, por:sangue|
 |santé|sihate|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |Satan|xatan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|

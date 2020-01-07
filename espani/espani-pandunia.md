@@ -449,6 +449,7 @@ sin - na
 situación - xeyohal  
 sociedad - socia  
 soldado - lasker  
+sándwich (sánduche) - sanduice  
 sí - si  
 sólido - gatomate  
 ##t

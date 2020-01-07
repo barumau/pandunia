@@ -374,8 +374,9 @@ saman - небо
 samoray - согласие  
 samude - море  
 samudi - морской  
+sanduice - сандвич  
+sanduke - сундук  
 sang - кровь  
-sanwice - сандвич  
 sapate - حِذَاء  
 sar - голова  
 sekse - пол  

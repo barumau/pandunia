@@ -2691,7 +2691,7 @@ vitsiniekka - joker
 viuhka (tuuletin) - panke  
 voi - makan  
 voida (osata, pystyä) - abla  
-voileipä - sanwice  
+voileipä - sanduice  
 voima - fortia  
 voimakas (vahva) - forti  
 voipuu - karite  

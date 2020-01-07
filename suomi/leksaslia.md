@@ -970,7 +970,7 @@
 |virus|virus|eng:virus, rus:вирус (virus)|
 |viuhka (tuuletin)|panke|hin:पंखा (paṅkhā), urd:(pankhā), mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha|
 |voida (osata, pystyä)|abla|eng:able, spa:hábil, fra:habile, ron:abil|
-|voileipä|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
+|voileipä|sanduice|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |voimakas (vahva)|forti|fra:fort, spa:fuerte, por:forte, eng:force|
 |voipuu|karite|wol:kaarite, jul:karite, fra:spa:karité, pul:kaare, ful:kareje, hau:kaɗanya|
 |voitto|win|eng:win, deu:gewinnen|
