@@ -33,6 +33,7 @@ amour (affection) - am
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
+amérindien (indien) - aslameriki  
 Amérique - amerike  
 analyse - analis  
 analyser - analisa  

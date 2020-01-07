@@ -83,6 +83,7 @@ arte - art
 artiste - artiste  
 asi - asiatique  
 asia - Asie  
+aslameriki - amérindien (indien)  
 asle - origine  
 asli - originel  
 asme - asthme  

@@ -219,6 +219,7 @@ hurra - ura
 ##i
 impermeable - barxokote  
 importante - hami  
+indígena (indio) - aslameriki  
 inflamación - itis   
 innecesario - nolonidi  
 insecto - koncung  

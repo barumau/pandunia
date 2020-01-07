@@ -88,6 +88,7 @@ asan - posteno
 asi - azia  
 asia - Azio  
 askete - ascetiko  
+aslaustrali - aborigeno  
 asle - origino  
 asli - origina  
 asme - astmo  

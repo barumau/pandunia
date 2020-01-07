@@ -129,6 +129,8 @@ asan - posture (asana)
 asi - Asian  
 asia - Asia  
 askete - ascetic  
+aslameriki - Amerindian (Native American)  
+aslaustrali - Australian Aboriginal  
 asle - origin (source)  
 asli - original (authentic)  
 asme - asthma  
@@ -1746,6 +1748,7 @@ muli - first (beginning)
 multi - many  
 multokulturi - multicultural  
 multokulturistia - multiculturalism  
+multonasi - multinational  
 mum - wax  
 mumia - mummy  
 mumonur - candle  
@@ -2906,6 +2909,7 @@ zem - earth (ground)
 zemia - Earth (Terra)  
 zemodow - peanut (groundnut)  
 zemolaskeria - ground force (army)  
+zemomedi samude - Mediterranean  
 zeze - fly (housefly)  
 zigzage - zigzag  
 zikur - ziggurat  

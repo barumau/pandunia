@@ -15,6 +15,7 @@ aate (ismi, ideologia, uskonto, jne) - istia
 aatteen kannattaja - iste  
 aavikko (hiekkaerämaa) - registan  
 Abhaasia - aphazia  
+aboriginaali (Australian alkuperäisasukas) - aslaustrali  
 abyssinia - habaxia  
 abyssinialainen - habaxi  
 adjektiivi (laatusana) - sifolekse  
@@ -588,6 +589,7 @@ innoittaa (inspiroida) - inspira
 insinööri - injener  
 internet - interonete  
 Intia - bartia  
+intiaani (Amerikan alkuperäisasukas) - aslameriki  
 intialainen - barti  
 Intian valtameri - barti samude  
 ioni - ion  
@@ -1401,6 +1403,7 @@ Mongolia - mongolia
 moni (usea) - multi  
 moni- (poly-, multi-) - poli  
 monijumalisuus (panteismi) - panodewistia  
+monikansallinen - multonasi  
 monikulmio (polygoni) - pologon  
 monimerkityksinen - polomeni  
 monismi - monistia  
@@ -2722,6 +2725,7 @@ väittely (debatti) - lon
 väittää - tesa  
 väli - inter  
 väli - mede  
+Välimeri - zemomedi samude  
 välipala (naposteltava) - lil niam  
 väri - rang  
 värilline - rangi  

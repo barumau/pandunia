@@ -124,6 +124,8 @@ asan - asento
 asi - aasialainen  
 asia - Aasia  
 askete - askeett  
+aslameriki - intiaani (Amerikan alkuperäisasukas)  
+aslaustrali - aboriginaali (Australian alkuperäisasukas)  
 asle - alkuperä  
 asli - alkuperäinen  
 asme - astma  
@@ -1687,6 +1689,7 @@ mukofun - puuteri
 mul - alku  
 mula - aloittaa  
 multi - moni (usea)  
+multonasi - monikansallinen  
 mum - vaha  
 mumia - muumio  
 mumonur - kynttilä  
@@ -2772,6 +2775,7 @@ zem - maa (maaperä)
 zemia - Maapallo  
 zemodow - maapähkinä  
 zemolaskeria - maavoimat  
+zemomedi samude - Välimeri  
 zeze - kärpänen  
 zigzage - siksakki  
 zikur - zikkurat  

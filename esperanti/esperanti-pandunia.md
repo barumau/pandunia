@@ -6,6 +6,7 @@
 -o (-aĵo) - -e  
 ##a
 abelo aŭ vespo - vespe  
+aborigeno - aslaustrali  
 acida - suan  
 adjektivo - sifolekse  
 adreso - adres  

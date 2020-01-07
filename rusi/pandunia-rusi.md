@@ -38,6 +38,7 @@ arize - рис
 arte - искусство  
 artiste - художник (артист)  
 asan - поза  
+aslameriki - инде́йский  
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  

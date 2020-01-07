@@ -40,6 +40,7 @@ arize - arroz
 arme - arma  
 arte - arte  
 artiste - artista  
+aslameriki - indígena (indio)  
 asle - origen  
 asli - original  
 asme - asma  

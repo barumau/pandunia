@@ -75,6 +75,7 @@ American (US) - usameriki
 American - ameriki  
 American Samoa - usameriki samoa  
 americium - amerikium  
+Amerindian (Native American) - aslameriki  
 Amhara (an Ethiopian ethnic group and language) - amari  
 ampere (amp) - amper  
 ampoule (vial) - ampul  
@@ -170,6 +171,7 @@ attraction (-philia) - filia
 attribute (charasteristic, quality, feature, description) - sife  
 August - mes 8 (mes bal)  
 Australia - australia  
+Australian Aboriginal - aslaustrali  
 Austria - osteria  
 autocracy (monarchy) - monokratia  
 autonomous - autonomi  
@@ -1560,6 +1562,7 @@ meat (flesh) - manse
 medallion (medal) - medal  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
+Mediterranean - zemomedi samude  
 medium (intermediate, mean) - medi  
 medium (media) - media  
 meet - mita  
@@ -1667,6 +1670,7 @@ mud (mire) - pote
 muddy - poti  
 multicultural - multokulturi  
 multiculturalism - multokulturistia  
+multinational - multonasi  
 mummy - mumia  
 muscle - muskul  
 music - musike  
