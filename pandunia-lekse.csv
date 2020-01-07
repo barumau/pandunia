@@ -2472,7 +2472,7 @@ sudi cosenia|dex|KR||South Korea (Republic of Korea)|||||||||||||||Sudkoreio|Ete
 sudi iria, alonia|dex|||South Ossetia (Alania)||||||||||||||||Etelä-Ossetia|
 sudi jorjia e sudi sanwice nesia|dex|GS||South Georgia and the South Sandwich Islands|||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 sudi sudania|dex|SS||South Sudan||||||||||||||||Etelä-Sudan|Sudan Południowy
-suede||||sweat (perspiration)||||||||||||||||hiki|pot
+suede|||eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|sweat (perspiration)|sueur|sudor|suor|||||||||||||hiki|pot
 suedi||||sweaty||||||||||||||||hikinen|spocony
 suenia|dex|SE||Sweden||||||||||||||||Ruotsi|Szwecja
 suisia|dex|CH||Switzerland||||||||||||||||Sveitsi|Szwajcaria
@@ -2710,6 +2710,8 @@ vimanokaper||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
 vin|||fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain)|wine|||||||||||||||vino|viini|wino
 vineria||||winery||||||||||||||||viinipanimo|winiarnia
 vinil||||vinyl||||||||||||||||vinyyli|winyl
+vir|||hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|hero|||||||||||||||heroo|sankari (urho)|bohater, heros
+viri||||brave (bold, heroic)|||||||||||||||heroa|urhea (sankarillinen)|bohaterski, heroiczny, odważny, brawurowy
 virus|||eng:virus, rus:вирус (virus)|virus|virus|||вирус||||||||||||virus|wirus
 virusolojia|||pol:wirusologia, rus:вирусология (virusologiya)|virology||||вирусология||||||||||||virologia|wirusologia
 visa||||substitute (replace)||||||||||||||||korvata|zastąpić (podstawić, zamienić)
@@ -2777,8 +2779,6 @@ wile|||eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ),
 win|||eng:win, deu:gewinnen|victory (win)|||||||||||||||venko|voitto|zwycięstwo, wygrana
 wina||||win (defeat)|||||||||||||||venki|voittaa (kukistaa)|zwyciężyć, wygrać
 wing||||wing||||||||||||||||siipi|skrzydło
-wir|||hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|hero|||||||||||||||heroo|sankari (urho)|bohater, heros
-wiri||||brave (bold, heroic)|||||||||||||||heroa|urhea (sankarillinen)|bohaterski, heroiczny, odważny, brawurowy
 wolfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup||||||||||||||lupo|susi (hukka)|wilk
 wolfram|mate|W||tungsten (wolfram)||||||||||||||||wolframi|
 xakal||||jackal||||||||||||||||šakaali|szakal
