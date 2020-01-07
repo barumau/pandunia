@@ -1027,7 +1027,7 @@ jamia - collection (congregation, assembly)
 jampa - jump  
 jamula - disperse  
 jan - knowledge  
-jana - savoir (connaître)  
+jana - know (recognize)  
 janel - window  
 jangal - forest (jungle, woods)  
 janger - artisan (craftsman)  
@@ -1047,7 +1047,7 @@ jel - gel (jelly)
 jelos - jealous  
 jen - birth  
 jena - give birth (beget, generate)  
-jener - parent (mother, father)  
+jener - parent (mother or father)  
 jeng - fight (war, battle, combat)  
 jenger - warrior (fighter)  
 jengi - military (martial, warlike)  
@@ -1100,10 +1100,10 @@ kagaze - paper (material)
 kaka - defecate (shit)  
 kakaw - cocoa  
 kake - excrement (shit)  
-kal - space (separation)  
+kal - void (empty space)  
 kalalia - Greenland  
 kalam - pen (writing tool)  
-kali - empty  
+kali - empty (void)  
 kali harfe - space (character)  
 kalifornium - californium  
 kalium - potassium  
@@ -1375,6 +1375,7 @@ lampe - lamp
 lanca - throw (launch)  
 lancograf - projection (image)  
 lancografa - project (cast)  
+lancografer - image projector  
 langan - banister (handrail)  
 lankia - Sri Lanka (Ceylon)  
 lantan - lanthanum  
@@ -1396,7 +1397,8 @@ lawi - old (aged, elderly)
 lawia - Laos  
 lawomame - grandmother  
 lawopape - grandfather  
-laxa - release (let, let go)  
+laxa - leave behind (abandon, let go)  
+laxe - leftover (residue, vestige)  
 laya - come  
 lazanye - lasagna  
 le - he or she or it  
@@ -1416,8 +1418,6 @@ lenxe - exercise
 lete - summer  
 letis - lettuce  
 lew - already (completed action)  
-lex - leftover (residue, vestige)  
-lexa - leave behind (abandon)  
 leze - pear  
 liba - erect  
 libania - Lebanon  
@@ -1790,6 +1790,7 @@ nasi socistia - national socialism
 nasia - nation  
 nasiste - nationalist  
 nasistia - nationalism  
+nasomedi - international  
 natre - sodium  
 nauru - Nauru  
 naw - nine (9)  
@@ -2238,6 +2239,7 @@ rize - root
 robote - robot  
 rodium - rhodium  
 rokete - rocket  
+roketolancer - rocket launcher  
 rol - role  
 rola - act (play a role)  
 roler - actor (actress)  
@@ -2761,10 +2763,10 @@ waw - wow! (gee!)
 waxa - wash  
 waxomaxin - washing machine  
 way - outer (external)  
-way dexi - foreign  
-way dexia - foreign country  
 waya - oust (expel)  
 waye - outside (exterior)  
+wayodexi - foreign  
+wayodexia - foreign country  
 wayomisa - export  
 wayonam - exonym  
 wayoniam - picnic  

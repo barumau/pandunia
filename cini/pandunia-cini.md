@@ -188,7 +188,7 @@ insanistia - 人文主义
 itis  - 炎症  
 ive - 趋势  
 ##j
-jana - 知る  
+jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
 jenotipe - 基因型  
 jinse - 属  
@@ -246,13 +246,13 @@ laskeria - 军队
 late - 侧面 (旁边)  
 latovia - 拉脱维亚  
 lawi - 老 (老年, 年歲大)  
+laxa - 落 (留下)  
 laya - 来  
 lazanye - 千层面  
 le - 他，她，它  
 lekse - 词  
 lenti - 慢  
 letis - 莴苣  
-lexa - 落 (留下)  
 leze - 梨  
 libel - 蜻蜓  
 lider - 领导  
@@ -310,6 +310,7 @@ mome - 我们
 mula - 开始  
 ##n
 nade - 河 (江)  
+nasomedi - 国际  
 nefre - 肾脏  
 nida - 需要  
 nidi - 必要的  
@@ -376,6 +377,7 @@ retra - 返回 (回来)
 retrotikete - 往返票  
 ritim - 节奏  
 rize - 根  
+roketolancer - 火箭筒  
 roze - 玫瑰  
 ##s
 sabun - 肥皂  

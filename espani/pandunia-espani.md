@@ -178,8 +178,8 @@ itis  - inflamación
 iva - tender  
 ive - tendencia  
 ##j
-jana - saber (conhecer)  
-jener - parente (madre, padre)  
+jana - saber (conocer)  
+jener - parente (madre o padre)  
 jenotipe - genotipo  
 jinse - género  
 jiraf - jirafa  
@@ -240,14 +240,14 @@ lati - lateral
 latoren - compañero (compinche)  
 latovia - Letonia  
 lawi - anciano  
+laxa - dejar  
+laxe - vestigio (sobrante, residuo)  
 lazanye - lasaña  
 leksaslia - etimología  
 lekse - palabra (vocablo)  
 leksi - léxico  
 lenti - lento (despacio)  
 letis - lechuga  
-lex - vestigio (sobrante, residuo)  
-lexa - dejar  
 libel - libélula  
 lider - dirigente (líder)  
 lifafa - envolver  
@@ -309,6 +309,7 @@ mula - comenzar (iniciar, empezar)
 na - sin  
 nanas - piña  
 nasia - nación  
+nasomedi - internacional  
 nefre - riñon  
 neurosel - neurona  
 nida - necesitar  
@@ -392,6 +393,7 @@ rici - rico
 rim - rima  
 ritim - ritmo  
 rize - raiz  
+roketolancer - lanzamisiles  
 rose - rocío  
 roze - rosa  
 ##s

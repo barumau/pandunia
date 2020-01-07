@@ -258,6 +258,7 @@ imperméable - barxokote
 important - hami  
 inflammation - itis   
 insecte - koncung  
+international - nasomedi  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -271,9 +272,10 @@ Jésus - yesus
 ##k
 ##l
 lac - lage  
-laisser - lexa  
+laisser - laxa  
 lait - milke  
 laitue - letis  
+Lance-roquettes - roketolancer  
 langue - bax  
 lapin (lièvre) - tuze  
 lasagne - lazanye  
@@ -450,7 +452,6 @@ ruban (bande) - tepe
 rôtir - rosta  
 s'installer (déménager) - migru  
 ##s
-saber (conocer) - jana  
 sac - sake  
 sain - sihati  
 salle de bains - banyokamar  
@@ -462,6 +463,7 @@ Satan - xatan
 Saturne - saturne  
 sauce - sos  
 saucisse - sosis  
+savoir (connaître) - jana  
 sculpteur - eskulter  
 se baigner - banyu  
 se rappeler (se remémorer) - mema  

@@ -868,7 +868,7 @@
 |zabroniony (wzbroniony, nielegalny, haram, tabu)|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |zachowanie (maniery, kultura)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |zachować, zakonserwować, zachować, utrzymać|hafiza|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|
-|zagraniczny|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
+|zagraniczny|wayodexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |zagrożenie, niebezpieczeństwo|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |zajęty|bizi|eng:busy|
 |zamek błyskawiczny|ziper|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|

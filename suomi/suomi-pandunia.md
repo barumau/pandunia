@@ -259,6 +259,7 @@ ei mitään - nol xey
 eilinen - predi den  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekolojia  
+eksonyymi - wayonam  
 El Salvador - salvadoria  
 ele - jeste  
 elegantti - xiki  
@@ -450,6 +451,7 @@ heteroromanttinen - aloromansi
 heteroseksuaali - aloseksi  
 hetki (kotva) - sate  
 hevonen - gude  
+hidas - lenti  
 hiekka - rege  
 hieno (hienojakoinen) - fain  
 hieronta - masaje  
@@ -692,6 +694,8 @@ järjestys - ratibe
 järjestää (järjestellä) - ratiba  
 järki (järkeily, päättely) - razon  
 jäsen (osatekijä, komponentti) - member  
+jäte (hylkytavara) - laxe  
+jättää (hylätä) - laxa  
 jää - ais  
 jäädä jäljelle - restu  
 jääkiekko - aisohoke  
@@ -747,6 +751,7 @@ kannada (eräs intialainen kieli) - karnadi
 kannu (karahvi) - jar  
 kanootti - kanoe  
 kansa - nas  
+kansainvälinen - nasomedi  
 kansakunta - nasia  
 kansallinen - nasi  
 kansallissosialismi - nasi socistia  
@@ -1894,7 +1899,6 @@ päällikkö (pomo) - xef
 pääministeri (suurvisiiri) - xefi minister  
 päärynä - leze  
 pääsiäinen - paske  
-päästää (sallia) - laxa  
 pääte: adjektiivi tai adverbi - -i  
 pääte: OVS-sanajärjestyksen verbi - -u  
 pääte: substantiivi - -e  
@@ -2121,6 +2125,7 @@ simpanssi - cimpanze
 Singapore - singapur  
 sininen - nili  
 sinkki - zinke  
+sinko (raketinheitin) - roketolancer  
 sintolaisuus - xindawistia  
 sinun - ti  
 sinä - te  
@@ -2350,9 +2355,11 @@ teoria - teoria
 tera- - tero-  
 terrorismi - teroristia  
 terroristi - teroriste  
+terve - sihati  
 tervehdys (terve!) - salame  
 tervehtiä - salama  
 tervetuloa! - salam laye  
+terveys - sihate  
 tesla (T) - tesle  
 thai - tayi  
 Thaimaa - tayia  
@@ -2365,6 +2372,7 @@ tietokanta - datobanke
 tietokone - komputer  
 tietoteoria (epistemologia) - janolojia  
 tietty (tunnettu) - jani  
+tietää (tuntea) - jana  
 Tiibet - podia  
 tiikeri - bagre  
 tiistai - war 2 (war dul)  
@@ -2493,8 +2501,8 @@ Tšekki - cehia
 Uganda - gandia  
 Ukraina - ukrainia  
 ulko- (ulkoinen) - way  
-ulkomaa - way dexia  
-ulkomaalainen - way dexi  
+ulkomaa - wayodexia  
+ulkomaalainen - wayodexi  
 ulkopuoli - waye  
 uloskäynti - cutomun  
 ulostaa (kakata) - kaka  
@@ -2565,6 +2573,7 @@ vanadiini - vanadium
 vanginvartija - prizoner  
 vangita - prizona  
 vanha (muinainen) - purani  
+vanhempi (isä tai äiti) - jener  
 vanilja - vanil  
 vankeus - prizon  
 vankila - prizonia  
@@ -2626,6 +2635,7 @@ vetoketju - ziper
 vetolaatikko - tirosanduke  
 vety - hidre  
 vetää (kiskoa) - tira  
+viedä pois (viedä maasta) - wayomisa  
 vielä (yhä) - hay  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
@@ -2721,7 +2731,6 @@ väärä (virheellinen) - galti
 Wales - kamria  
 walesilainen - kamri  
 watti - wate  
-wiedzieć - jana  
 wiki - wikia  
 wikikirjoitus - wike  
 wolframi - wolfram  

@@ -125,7 +125,7 @@ dança (baile) - danse
 darmstatio - darmositium  
 datos - date  
 de - ca  
-dejar - lexa  
+dejar - laxa  
 derecho - hake  
 derechos humanos - insani hake  
 desacuerdo - aloray  
@@ -223,6 +223,7 @@ inflamación - itis
 innecesario - nolonidi  
 insecto - koncung  
 intentar (probar) - testa  
+internacional - nasomedi  
 invernal - zimi  
 invierno - zime  
 ##j
@@ -241,6 +242,7 @@ kétchup - kecape
 lado (flanco) - late  
 ladrón - luter  
 lago - lage  
+lanzamisiles - roketolancer  
 largo - long  
 lasaña - lazanye  
 lateral - lati  
@@ -352,7 +354,7 @@ papel tapiz - walopapir
 paquete - pake  
 parasol - barxocate  
 parasol - solocate  
-parente (madre, padre) - jener  
+parente (madre o padre) - jener  
 parque - parke  
 participante - parter  
 parámetro - param  
@@ -423,7 +425,7 @@ rosa - roze
 rápido - rapidi  
 réservation - rezerve  
 ##s
-saber (conhecer) - jana  
+saber (conocer) - jana  
 saco - sake  
 sal - sal  
 salino - sali  
@@ -477,7 +479,7 @@ verdadero - veri
 verde - lugi  
 verduras - coy  
 verme - verme  
-vestigio (sobrante, residuo) - lex  
+vestigio (sobrante, residuo) - laxe  
 vida - hay  
 vidrio (cristal) - kance  
 vocal - vokal  

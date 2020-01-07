@@ -1021,7 +1021,7 @@ jamia|||ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|collection (congrega
 jampa|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump|||||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
 jamula||||disperse|||||||||||||||disigi|hajauttaa|rozproszyć, rozpraszać
 jan|||hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|knowledge|||||||||||||||scio|tieto (tietämys)|wiedza
-jana|||know (recognize)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
+jana||||know (recognize)|savoir (connaître)|saber (conocer)|saber (conhecer)|знать||知道 (晓得)|知る|알다|biết|जानना|জানা (চেনা)|tahu|kujua|bilmek|scii (koni)|tietää (tuntea)|wiedzieć
 janel|||por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|window|||||||||||||||fenestro|ikkuna|okno
 jangal|||hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|forest (jungle, woods)|||||||||||||||arbaro|metsä (viidakko)|las, dżungla, zagajnik
 janger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
@@ -1041,7 +1041,7 @@ jel|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), k
 jelos||||jealous||||||||||||||||kade (kateellinen)|zazdrosny
 jen|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth|||||||||||||||nasko|synty (syntymä)|narodziny
 jena||||give birth (beget, generate)|||||||||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
-jener||||parent (mother, father)||parente (madre, padre)|||||||||||||||
+jener||||parent (mother or father)||parente (madre o padre)||||||||||||||vanhempi (isä tai äiti)|
 jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)|||||||||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jenger||||warrior (fighter)||||||||||||||||soturi (taistelija)|wojownik, bojownik
 jengi||||military (martial, warlike)|||||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
@@ -1093,10 +1093,10 @@ kagaze|||zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas
 kaka||||defecate (shit)||||||||||||||||ulostaa (kakata)|defekować, srać
 kakaw|||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, vie:cacao, jpn:カカオ (kakao), zho:可可 (kěkě), rus:какао (kakao)|cocoa|||||||||||||||kakao|kaakao|kakao
 kake|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|excrement (shit)|||||||||||||||feko|uloste (kakka)|ekskrement, gówno
-kal||||space (separation)||espacio (separación)|||||||||||||||
+kal||||void (empty space)||espacio (separación)|||||||||||||||
 kalalia|dex|GL||Greenland||||||||||||||||Grönlanti|
 kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|pluma|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
-kali|||ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|empty||||пустой|||空|||ख़ाली|খালি||||malplena|tyhjä|pusty
+kali|||ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|empty (void)||||пустой|||空|||ख़ाली|খালি||||malplena|tyhjä|pusty
 kali harfe||||space (character)|espace|espacio (texto)|espaço|||空隙|間隔||||||||||
 kalifornium|mate|Cf||californium|||||||||||||||kaliforniumo|kalifornium|kaliforn
 kalium|mate|K||potassium|||||||||||||||kalio|kalium|potas
@@ -1365,8 +1365,9 @@ lake||||lacquer (varnish)||||||||||||||||lakka|lakier
 lala|||swa:-lala|lie (lie down)|||||||||||||||kuŝi|maata (makoilla)|leżeć
 lampe|||fra:deu:lampe, eng:lamp, may:lampu|lamp|||||||||||||||lampo|lamppu|lampa
 lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)|||||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
-lancograf||||projection (image)|projection|proyección|projeção|||投影|投影 ||||||||||
-lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||||
+lancograf||||projection (image)|projection|proyección|projeção|||投影|投影 ||||||||projektio (diakuva)||
+lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||
+lancografer||||image projector||||||| ||||||||projektori (videotykki, piirtoheitin)||
 langan|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||||||||||||||||kaide (reelinki)|poręcz (balustrada)
 lankia|dex|LK||Sri Lanka (Ceylon)||||||||||||||||Sri Lanka|Sri Lanka
 lantan|mate|La||lanthanum||||||鑭|ランタン|||||||||lantaani|
@@ -1388,7 +1389,8 @@ lawi||||Lao (Laotian)||||||||||||||||laoslainen|
 lawia|dex|LA||Laos||||||||||||||||Laos|
 lawomame||||grandmother|||||||||||||||||
 lawopape||||grandfather|||||||||||||||||
-laxa||||release (let, let go)||||||||||||||||päästää (sallia)|puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać
+laxa|||fra:laisser,lâcher, ita:lasciare, deu:lassen|leave behind (abandon, let go)|laisser|dejar|deixar|||落 (留下)|残す|||||||||jättää (hylätä)|
+laxe||||leftover (residue, vestige)||vestigio (sobrante, residuo)||||||||||||||jäte (hylkytavara)|
 laya|||vie: lại, zho: 来 (lái)|come||||||来|||||||||veni|tulla|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
 lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|
 le||||he or she or it||||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
@@ -1402,14 +1404,12 @@ leksi|||eng:fra:lexical, spa:por:léxico, rus:лексический (leksičesk
 leksia||||vocabulary (lexicon)|vocabulaire (lexique)|||словарь|||||||||||vortaro|sanasto|słownictwo
 leksoliste||||dictionary (word list)|||||||||||||||vortaro|sanaluettelo|lista słów
 lengi|||zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|cold|||||||||||||||malvarma|kylmä|zimny, chłodny
-lenti|||fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida||
+lenti|||fra:lent, spa:por:lento|slow (lethargic)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|
 lenxa||||practice (to exercise)|||||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
 lenxe|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise|||||||||||||||ekzerco|harjoitus|ćwiczenie
 lete|mosim||fra:l'été, rus:лето (leto), cze:léto, scr:leto|summer|été|||лето|||||||||||somero|kesä (suvi)|lato
 letis|||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce|laitue|lechuga|alface|салат-латук||莴苣|レタス|||लेटिष|লেটুস||||laktuko|lehtisalaatti|sałata
 lew|||tha:แล้ว /lɛːw/, zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|already (completed action)|||||||||||||||jam (esti farita)|jo (tehty teko)|już (skończona czynność)
-lex||||leftover (residue, vestige)||vestigio (sobrante, residuo)|||||||||||||||
-lexa|||spa:dejar, por:deixar, fra:laisser, ita:lasciare|leave behind (abandon)|laisser|dejar|deixar|||落 (留下)|残す||||||||||
 leze|||zho:梨子 (lízi), yue:梨 (lei42), vie:lê, |pear||||||梨|||||||||piro|päärynä|gruszka
 liba||||erect||||||||||||||||nostaa pystyyn|postawić (stawiać)
 libania|dex|LB||Lebanon||||||||||||||||Libanon|Liban
@@ -1782,6 +1782,7 @@ nasi socistia||||national socialism||||||||||||||||kansallissosialismi|narodowy 
 nasia|||ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
 nasiste||||nationalist||||||||||||||||nationalisti|nacjonalista
 nasistia||||nationalism||||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
+nasomedi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
 natre|mate|Na||sodium|||||||||||||||natrio|natrium|sód
 nauru|dex|NR||Nauru||||||||||||||||Nauru|Nauru
 naw|||hin:नौ (nau), urd:(nau)|nine (9)||||||||||||||||yhdeksän|dziewięć (9)
@@ -2228,6 +2229,7 @@ rize|||ell:ρίζα (riza), eng:fra:rhizo-, por:spa:rizo-, rus:ризо- (rizo-)
 robote|||eng:robot;robo-, por:robô, fra:robot, tam:ரோபோ (rōpō), rus:робот (robot)|robot|robot||robô|робот|||||||||||roboto|robotti|robot
 rodium|mate|Rh||rhodium|||||||||||||||rodio|rhodium|rod
 rokete||||rocket||||||||||||||||raketti|rakieta
+roketolancer||||rocket launcher|Lance-roquettes|lanzamisiles|lançador de foguetes|ракетная установка||火箭筒|ロケット発射器|||||||||sinko (raketinheitin)|
 rol||||role||||||||||||||||rooli (osa)|rola
 rola||||act (play a role)|||||||||||||||ludi rolon|näytellä|grać, odgrywać rolę
 roler||||actor (actress)|||||||||||||||aktoro (aktorino)|näyttelijä|akt, scena
@@ -2397,8 +2399,8 @@ sife|||ara:(ṣifa), tur:sıfat, fas:(sefat), urd:(sifat), swa:sifa|attribute (c
 sifi||||descriptive||||||||||||||||kuvaileva (määrittelevä)|opisowy
 sifolekse||||adjective|||||||||||||||adjektivo|adjektiivi (laatusana)|przymiotnik
 sigar|||tur:sigara, amh:ሲጃራ (siǧara), ara:(sījāra), eng:cigar(ette), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá)|cigarette (cigar)||||||||||||||||savuke tai sikari|papieros (cygar)
-sihate|||ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|health|santé|salud|saúde|||健康|健康||||||||||
-sihati||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana||
+sihate|||ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|health|santé|salud|saúde|||健康|健康|||||||||terveys|
+sihati||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|
 sikiste||||Sikh||||||||||||||||sikhi|sikh
 sikistia||||Sikhism||||||||||||||||sikhiläisyys|sikhizm
 sikle|||eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|bike (cycle)|bicyclette|bicicleta||||||||||||bisiklet||pyörä (polkupyörä, moottoripyörä)|rower
@@ -2747,12 +2749,12 @@ waw|||zho:哇 (wā), eng:wow|wow! (gee!)||||вау!|||||||||||ŭaŭ!|oho (vau)|w
 waxa|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||||мыть|||||||||||lavi|pestä|prać, umyć, myć
 waxomaxin||||washing machine||||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 way||||outer (external)|||||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-way dexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||||||||||||||||ulkomaalainen|zagraniczny
-way dexia||||foreign country|||||||||||||||fremda lando|ulkomaa|zagranica
 waya||||oust (expel)||||||||||||||||poistaa|
 waye|||zho:外 (wài)|outside (exterior)|||||||||||||||ekstero|ulkopuoli|zęwnętrzny
-wayomisa||||export|||||||||||||||||
-wayonam||||exonym|||||||||||||||||
+wayodexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||||||||||||||||ulkomaalainen|zagraniczny
+wayodexia||||foreign country|||||||||||||||fremda lando|ulkomaa|zagranica
+wayomisa||||export||||||||||||||||viedä pois (viedä maasta)|
+wayonam||||exonym||||||||||||||||eksonyymi|
 wayoniam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
 we||||that one|||||||||||||||tiu|tuo|
 weka||||wake (make awake)||||||||||||||||herättää|obudzić, budzić

@@ -1071,6 +1071,7 @@ mit, boska opowieść - dewi sage
 miód - mel  
 mięczak (morski bezkręgowiec) - moluske  
 między - inter  
+międzynarodowy - nasomedi  
 miękki - komal  
 mięso - manse  
 miłośnik (fan, -fil) - filer  
@@ -1668,7 +1669,6 @@ Puerto Rico - portorikia
 punkt - binde  
 pusty - kali  
 pustynia - registan  
-puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać - laxa  
 pyszny - niami  
 pytajny, związany z pytaniem - eski  
 pytanie - eske  
@@ -2223,6 +2223,7 @@ widelec - forke
 widok, wzrok - vide  
 wieczór - xam  
 wiedza - jan  
+wiedzieć - jana  
 wiejski, rustykalny - rusti  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
@@ -2358,8 +2359,8 @@ zachować, zakonserwować, zachować, utrzymać - hafiza
 zachowywać się (działać) - manira  
 zachód - weste  
 zacząć, zaczynać - mula  
-zagranica - way dexia  
-zagraniczny - way dexi  
+zagranica - wayodexia  
+zagraniczny - wayodexi  
 zagrożenie, niebezpieczeństwo - hatar  
 zainteresowanie, zaciekawienie; interesujący - interes  
 zajęty - bizi  

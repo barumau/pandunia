@@ -238,7 +238,7 @@ itis  - inflammation
 iva - avoir tendance à  
 ive - tendance  
 ##j
-jana - saber (conocer)  
+jana - savoir (connaître)  
 jeinistia - jaïnisme  
 jenotipe - génotype  
 jinse - genre (espèc)  
@@ -300,6 +300,7 @@ late - côté
 lati - latéral  
 latovia - Lettonie  
 lawi - vieux (âgé, ancien)  
+laxa - laisser  
 lazanye - lasagne  
 leksaslia - étymologie  
 lekse - mot  
@@ -308,7 +309,6 @@ leksia - vocabulaire (lexique)
 lenti - lent  
 lete - été  
 letis - laitue  
-lexa - laisser  
 libel - libellule  
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
@@ -369,6 +369,7 @@ muke - visage
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
+nasomedi - international  
 nefre - rein  
 neurosel - neurone  
 nida - avoir besoin de  
@@ -447,6 +448,7 @@ rim - rime
 ritim - rhythme  
 rize - racine  
 robote - robot  
+roketolancer - Lance-roquettes  
 rose - rosée  
 rosta - rôtir  
 roze - rose  

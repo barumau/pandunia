@@ -178,6 +178,7 @@ iode - йод
 itis  - воспаление  
 ive - тенденция  
 ##j
+jana - знать  
 je - который  
 jenotipe - генотип  
 jinse - род  
@@ -291,6 +292,7 @@ mome - мы
 ##n
 nade - река  
 nasia - нация  
+nasomedi - междунаро́дный  
 nefre - почка  
 neurosel - нейрон  
 nida - нуждаться  
@@ -357,6 +359,7 @@ rim - рифма
 ritim - ритм (такт)  
 rize - корень  
 robote - робот  
+roketolancer - ракетная установка  
 rose - роса  
 roze - роза  
 ruhe - душа (дух)  

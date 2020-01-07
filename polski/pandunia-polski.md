@@ -863,6 +863,7 @@ jamia - kolekcja, zbiór; zgromadzenie, zebranie
 jampa - skoczyć, skakać  
 jamula - rozproszyć, rozpraszać  
 jan - wiedza  
+jana - wiedzieć  
 janel - okno  
 jangal - las, dżungla, zagajnik  
 janger - rzemieślnik  
@@ -1172,7 +1173,6 @@ lasun - larwa, czerw, gąsienica
 latini abace - alfabet łaciński, łacinka, alfabet rzymski  
 latovia - Łotwa  
 laurensium - lorens  
-laxa - puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać  
 laya - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 le - on, ona, ono  
 lefte - lewa strona  
@@ -1520,6 +1520,7 @@ nasi socistia - narodowy socjalizm
 nasia - naród, narodowość  
 nasiste - nacjonalista  
 nasistia - nacjonalizm  
+nasomedi - międzynarodowy  
 natre - sód  
 nauru - Nauru  
 naw - dziewięć (9)  
@@ -2374,9 +2375,9 @@ waw - wow!, łoł!, jej!
 waxa - prać, umyć, myć  
 waxomaxin - pralka  
 way - zewnętrzny  
-way dexi - zagraniczny  
-way dexia - zagranica  
 waye - zęwnętrzny  
+wayodexi - zagraniczny  
+wayodexia - zagranica  
 wayoniam - piknik  
 weka - obudzić, budzić  
 weki - przebudzony, przytomny  

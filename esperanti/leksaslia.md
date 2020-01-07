@@ -367,7 +367,7 @@
 |malmulte|xaw|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |malnova|purani|hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|
 |malplena|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
-|malrapida|lenti|fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|
+|malrapida|lenti|fra:lent, spa:por:lento|
 |malsukceso|xibay|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
 |malvarma|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |malĝojo|duke|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
@@ -640,7 +640,6 @@
 |terpomo|patate|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
 |testo|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |Tibeto|podia|tib:བོད (bod, phØ)|
-|tietää (tuntea)|jana|know (recognize)|
 |tigro|bagre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |tiri|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |tiu|wi|hin:वह (wo), ben:ওই (oi)|

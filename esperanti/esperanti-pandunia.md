@@ -435,7 +435,7 @@ fotografio - fotografia
 Francio - fransia  
 franciumo - fransium  
 frato aŭ fratino - saudar  
-fremda lando - way dexia  
+fremda lando - wayodexia  
 freneza - foli  
 frenezeco - folia  
 freŝa - tazi  
@@ -521,6 +521,7 @@ hazarda - zari
 hazardo - zar  
 haŭto - pil  
 Hebrea - ibri  
+heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmo (loĝejo) - dom  
 helio - helium  
@@ -575,6 +576,7 @@ instruisto - darsogur
 insulto - ninde  
 interesa - interes  
 interkonsento - samoray  
+internacia - nasomedi  
 interŝanĝi - badala  
 inviti - plisa laya  
 io - koy xey  
@@ -1154,6 +1156,8 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
+projektio (diakuva) - lancograf  
+projektori (videotykki, piirtoheitin) - lancografer  
 proksima - karibi  
 promeni (marŝi) - marca  
 promesi - wada  
@@ -1266,6 +1270,7 @@ saĝa - sofi
 saŭco - sos  
 saŭno - saune  
 scienco - lojia  
+scii (koni) - jana  
 scio - jan  
 sciteorio (epistemologio) - janolojia  
 sciuro - tupay  
@@ -1397,7 +1402,6 @@ tertremo - sisme
 testo - teste  
 Tibeto - podia  
 tie - sa ye  
-tietää (tuntea) - jana  
 tigro - bagre  
 timo (fobio) - fobia  
 tio estas (alivorte) - alonami  

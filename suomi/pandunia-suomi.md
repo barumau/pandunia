@@ -998,7 +998,7 @@ jamia - yhteisö (kokoontuminen, kollektiivi)
 jampa - hypätä (hyppiä)  
 jamula - hajauttaa  
 jan - tieto (tietämys)  
-jana - wiedzieć  
+jana - tietää (tuntea)  
 janel - ikkuna  
 jangal - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
@@ -1018,6 +1018,7 @@ jel - hyytelö
 jelos - kade (kateellinen)  
 jen - synty (syntymä)  
 jena - synnyttää  
+jener - vanhempi (isä tai äiti)  
 jeng - taistelu (sota)  
 jenger - soturi (taistelija)  
 jengi - sotilaallinen  
@@ -1344,7 +1345,8 @@ latovia - Latvia
 laurensium - lawrensium  
 lawi - laoslainen  
 lawia - Laos  
-laxa - päästää (sallia)  
+laxa - jättää (hylätä)  
+laxe - jäte (hylkytavara)  
 laya - tulla  
 lazanye - lasagne  
 le - hän (se)  
@@ -1357,6 +1359,7 @@ leksem - lekseemi
 leksia - sanasto  
 leksoliste - sanaluettelo  
 lengi - kylmä  
+lenti - hidas  
 lenxa - harjoitella (treenata)  
 lenxe - harjoitus  
 lete - kesä (suvi)  
@@ -1727,6 +1730,7 @@ nasi socistia - kansallissosialismi
 nasia - kansakunta  
 nasiste - nationalisti  
 nasistia - kansallisuusaate (nationalismi)  
+nasomedi - kansainvälinen  
 natre - natrium  
 nauru - Nauru  
 naw - yhdeksän  
@@ -2154,6 +2158,7 @@ rize - juuri
 robote - robotti  
 rodium - rhodium  
 rokete - raketti  
+roketolancer - sinko (raketinheitin)  
 rol - rooli (osa)  
 rola - näytellä  
 roler - näyttelijä  
@@ -2301,6 +2306,8 @@ sife - laatu (ominaisuus, ominaispiirre, määrite)
 sifi - kuvaileva (määrittelevä)  
 sifolekse - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
+sihate - terveys  
+sihati - terve  
 sikiste - sikhi  
 sikistia - sikhiläisyys  
 sikle - pyörä (polkupyörä, moottoripyörä)  
@@ -2630,10 +2637,12 @@ waw - oho (vau)
 waxa - pestä  
 waxomaxin - pesukone  
 way - ulko- (ulkoinen)  
-way dexi - ulkomaalainen  
-way dexia - ulkomaa  
 waya - poistaa  
 waye - ulkopuoli  
+wayodexi - ulkomaalainen  
+wayodexia - ulkomaa  
+wayomisa - viedä pois (viedä maasta)  
+wayonam - eksonyymi  
 wayoniam - eväsretki (piknik)  
 we - tuo  
 weka - herättää  

@@ -301,7 +301,7 @@
 |elephant|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |emerald|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
 |emotion (feeling)|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
-|empty|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|empty (void)|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |end|fin|spa: fin, fra: fin, por: fim|
 |enough (sufficient)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |equal (fair)|egal|fra:égal, spa:por:igual, eng:equal|
@@ -353,7 +353,7 @@
 |fool (buffoon)|bufon|spa:bufón, eng:buffoon, fra:bouffon|
 |football (soccer)|futobol|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |forbidden (illicit, haram, taboo)|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
-|foreign|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
+|foreign|wayodexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |forest (jungle, woods)|jangal|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |fountain (spring, well)|fonte|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, uzb:fontan, jpn:噴水 (funsui)|
 |fox|hule|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2)|
@@ -503,7 +503,7 @@
 |leaf (sheet)|warke|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |league (association)|lige|fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|
 |leak|lowa|zho:漏 (lòu)|
-|leave behind (abandon)|lexa|spa:dejar, por:deixar, fra:laisser, ita:lasciare|
+|leave behind (abandon, let go)|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |left|lefte|eng:left|
 |lemon|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
 |lend|presta|spa:prestar, por:emprestar, fra:prêter|
@@ -782,7 +782,6 @@
 |sauce|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
 |sauna|saune|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |sausage|sosis|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
-|savoir (connaître)|jana|know (recognize)|
 |savory (umami)|umami|jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|
 |scarf (shawl)|xal|fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|
 |science (study, research)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
@@ -830,7 +829,7 @@
 |sky (heaven)|saman|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |sleep|son|rus:сон (son), por:sono, hin:सोना (sonā), ben:শোয়া (śoya)|
 |slipper|babuce|arai: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
-|slow (lethargic)|lenti|fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|
+|slow (lethargic)|lenti|fra:lent, spa:por:lento|
 |smoke|duman|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |smooth|lisi|fra:lisse, spa:por:liso, fas:(liz), may:licin|
 |snake (serpent)|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|

@@ -159,13 +159,13 @@
 |justice|adalia|ara:(ʿadl), tur:adalet, may:may:tkm:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |jus|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |lac|lage|eng:lake, spa:por:ita:lago, fra:lac|
-|laisser|lexa|spa:dejar, por:deixar, fra:laisser, ita:lasciare|
+|laisser|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |laitue|letis|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |lait|milke|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
 |langue|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |lapin (lièvre)|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |lasagne|lazanye|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
-|lent|lenti|fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|
+|lent|lenti|fra:lent, spa:por:lento|
 |lexical|leksi|eng:fra:lexical, spa:por:léxico, rus:лексический (leksičeskiy)|
 |lieu|loke|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|
 |lire|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
@@ -279,7 +279,6 @@
 |rouge|kirmi|arm:կարմիր (karmir), tur: kırmızı, fas(qermez), ara:(qirmiz), + eng:crimson, fra:carmin, por:carmim, spa:carmín, hin:क़िरमिज़ (qirmiz)|
 |ruban (bande)|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |rôtir|rosta|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
-|saber (conocer)|jana|know (recognize)|
 |sac|sake|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |salut (salam)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |sandwich|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|

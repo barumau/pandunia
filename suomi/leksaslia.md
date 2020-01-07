@@ -122,6 +122,7 @@
 |henkilö|ren|zho: 人 (rén)|
 |hetki (kotva)|sate|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa, lin:sâ, som:saacad, scr:sat|
 |hevonen|gude|may:kuda, kan:ಕುದುರೆ (kudure), tam:குதிரை (kutirai), tel:గుర్రము (gurramu), hin:घोड़ा (ghoṛā), urd:(ghoṛā), ben:ঘোড়া (ghoṛa), pnb:ਘੋੜਾ (ghōṛā)|
+|hidas|lenti|fra:lent, spa:por:lento|
 |hiekka|rege|fas:(rig), hin:रेग (reg), urd:(reg)|
 |hiiri|mux|pol:mysz, rus:мышь (myś), fas:(muš)|
 |hiiva|hamir|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
@@ -212,6 +213,7 @@
 |jyrinä (ukkonen)|grom|rus:гром (grom), pol:grom|
 |jyvä (luoti)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |jänis|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
+|jättää (hylätä)|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |jäännös (loput)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |jäätelö|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |jää|ais|eng:ice, deu:Eis, may:és|
@@ -836,6 +838,7 @@
 |tekniikka (keino, menetelmä)|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |teltta|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |tervehdys (terve!)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
+|terveys|sihate|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |tiede (tutkimus)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
 |tieto (tietämys)|jan|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
 |tie|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
@@ -891,7 +894,7 @@
 |täysi|ful|eng:full, deu:voll|
 |täytetty pulla|mante|tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|
 |täytyä (olla pakko)|bixu|zho:必须 (bìxū)|
-|ulkomaalainen|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
+|ulkomaalainen|wayodexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |ulkopuoli|waye|zho:外 (wài)|
 |uloste (kakka)|kake|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |umami (ruokaisanmakuinen)|umami|jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|
@@ -990,7 +993,6 @@
 |väittely (debatti)|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
 |väri|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |väärä (epätosi, vale-)|falsi|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|wiedzieć|jana|know (recognize)|
 |ydin (sydän)|kerne|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
 |yhdeksän|naw|hin:नौ (nau), urd:(nau)|
 |yhdistää|samuna|isl:sameina, deu:vereinigen|

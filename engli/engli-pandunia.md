@@ -794,7 +794,7 @@ emirate - emiria
 emotion (feeling) - gam  
 emperor - imperer  
 empire - imperia  
-empty - kali  
+empty (void) - kali  
 encode - koda  
 end - fin  
 endonym - indonam  
@@ -939,8 +939,8 @@ football (soccer) - futobol
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - haram  
 force (strength) - fortia  
-foreign - way dexi  
-foreign country - way dexia  
+foreign - wayodexi  
+foreign country - wayodexia  
 forenoon - suboden  
 forest (jungle, woods) - jangal  
 forget - memula  
@@ -1217,6 +1217,7 @@ idiot - idiote
 if (suppose, assume) - gar  
 ill (sick) - pati  
 illustrator (graphic artist) - grafer  
+image projector - lancografer  
 imagine (fantasize) - fantaza  
 imperialism - imperistia  
 imperialist - imperiste  
@@ -1248,6 +1249,7 @@ insult (offense) - insulte
 intend (plan) - plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
 interest (interesting) - interes  
+international - nasomedi  
 internet - interonete  
 interpreter (translator) - tarjer  
 interrogative - eski  
@@ -1343,6 +1345,7 @@ knead (massage) - masaja
 knee - gute  
 knife - cake  
 knot (node) - node  
+know (recognize) - jana  
 knowledge - jan  
 known - jani  
 Konkani - konkani  
@@ -1383,11 +1386,11 @@ learn (study) - darsa
 least (minimally) - minim  
 least distinguishable unit - em  
 leave (go out, exit) - cuta  
-leave behind (abandon) - lexa  
+leave behind (abandon, let go) - laxa  
 Lebanon - libania  
 left - lefte  
 leftist (left-winger) - leftiste  
-leftover (residue, vestige) - lex  
+leftover (residue, vestige) - laxe  
 lemon - limon  
 lend - presta  
 length - longia  
@@ -1883,7 +1886,7 @@ Paraguay - paraguayia
 parallel (longitudinal) - parogowi  
 parameter (argument, input variable) - param  
 parasol - solocate  
-parent (mother, father) - jener  
+parent (mother or father) - jener  
 park (garden) - parke  
 parrot (parakeet) - papagay  
 part (fraction) - fen  
@@ -2149,7 +2152,6 @@ register (record, log) - defte
 registry (account) - deftia  
 reign (rule as an emperor) - impera  
 relationship (association, connection) - guanxe  
-release (let, let go) - laxa  
 religion (worship) - din  
 religious - dini  
 remain (stay) - restu  
@@ -2206,6 +2208,7 @@ rob (loot, plunder, pillage, ransack) - luta
 robber (plunderer) - luter  
 robot - robote  
 rocket - rokete  
+rocket launcher - roketolancer  
 roentgenium - rengenium  
 role - rol  
 roll (scroll, coil) - rul  
@@ -2277,7 +2280,6 @@ Saudi Arabia - saudi arabia
 sauna - saune  
 sausage - sosis  
 save (deposit, bank) - banka  
-savoir (connaître) - jana  
 savory (umami) - umami  
 scales (weighing device) - barometer  
 scandium - skandium  
@@ -2439,7 +2441,6 @@ South Ossetia (Alania) - sudi iria, alonia
 South Sudan - sudi sudania  
 space (character) - kali harfe  
 space (cosmos, universe) - kosmia  
-space (separation) - kal  
 Spain - espania  
 speak (communicate) - baxa  
 special (distinct) - hasi  
@@ -2793,6 +2794,7 @@ visitation (visit) - vizite
 visitor (guest) - viziter  
 visual field (field of vision) - vidomaidan  
 vocabulary (lexicon) - leksia  
+void (empty space) - kal  
 volt (V) - volte  
 voodoo - vodun  
 vote (ballot) - vote  

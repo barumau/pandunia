@@ -697,7 +697,7 @@ jami - kolekta
 jampa - salti  
 jamula - disigi  
 jan - scio  
-jana - tietää (tuntea)  
+jana - scii (koni)  
 janel - fenestro  
 jangal - arbaro  
 janger - metiisto  
@@ -875,6 +875,9 @@ laje - rubo
 lala - kuŝi  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
+lancograf - projektio (diakuva)  
+lancografa - heijastaa kuvia (projisoida)  
+lancografer - projektori (videotykki, piirtoheitin)  
 lanten - lanterno  
 lasker - soldato  
 laskeria - armeo  
@@ -1060,6 +1063,7 @@ nam - nomo
 namibia - Namibio  
 namolekse - substantivo  
 nanas - ananaso  
+nasomedi - internacia  
 natre - natrio  
 nawati - naūatla  
 nefre - reno  
@@ -1503,8 +1507,8 @@ waw - ŭaŭ!
 waxa - lavi  
 waxomaxin - lavmaŝino  
 way - ekstera  
-way dexia - fremda lando  
 waye - ekstero  
+wayodexia - fremda lando  
 we - tiu  
 werke - laboro  
 werker - laboristo  
