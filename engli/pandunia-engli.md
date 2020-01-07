@@ -60,6 +60,7 @@ almas - diamond
 alo - otherwise (else)  
 alofone - allophone  
 alonami - that is (in other words, i.e., alias)  
+aloray - disagreement (disconsent)  
 aloraya - disagree  
 aloromansi - heteroromantic  
 aloseksi - heterosexual  
@@ -177,6 +178,7 @@ baki - white
 bakocoy - bok choy  
 bal - eight (8)  
 balde - bucket  
+balibali - various (diverse, miscellaneous)  
 balkon - balcony (porch)  
 balon - balloon  
 ban - time (turn, occasion)  
@@ -266,6 +268,8 @@ bermudia - Bermuda
 beton - concrete (material with cement)  
 beyu - undergo (passivizing verb)  
 biblia - Bible  
+biga - wet (moisten)  
+bigi - wet (moist)  
 bil - bill (invoice)  
 bina - build (construct)  
 binde - dot (spot)  
@@ -401,6 +405,7 @@ cuta - leave (go out, exit)
 cute - exit (leaving)  
 cutomun - exit door  
 cuza - choose (elect, select)  
+cuzable - option (choice)  
 cuze - choice (election, selection)  
 ##d
 da - own (particle of possession)  
@@ -449,6 +454,7 @@ day - big (great)
 dayodarsia - university  
 dayosamude - ocean  
 dayu - grow (get bigger)  
+debili - weak  
 deco- - deci-  
 decobel - decibel  
 defa - defend  
@@ -479,9 +485,10 @@ dewi - divine (godly)
 dewi sage - myth (divine story)  
 dewiste - theist  
 dewistia - theism  
-dewkratia - theocracy  
-dewlojia - theology  
+dewokratia - theocracy  
+dewolojia - theology  
 dex - country (land, state)  
+dexoren - citizen  
 dike - target (aim, objective)  
 din - religion (worship)  
 ding - nail (spike)  
@@ -595,6 +602,7 @@ estasi - static (stationary)
 estasia - station  
 esten - tin  
 estia - Estonia  
+estibium - antimony  
 estrontium - strontium  
 estudia - studio  
 etiopia - Ethiopia  
@@ -615,7 +623,7 @@ fain - fine (delicate)
 fajan - development  
 falsi - false (fake)  
 famil - family  
-familnam - surname (family name)  
+familonam - surname (family name)  
 fan - fun (amusement)  
 fana - amuse (entertain)  
 fani - funny (amusing)  
@@ -669,9 +677,9 @@ filia - attraction (-philia)
 filipinia - Philippines  
 filistinia - Palestinian Territory  
 filme - film (video)  
-filsofer - philosopher  
-filsofi - philosophic  
-filsofia - philosophy  
+filosofer - philosopher  
+filosofi - philosophic  
+filosofia - philosophy  
 filter - filter  
 fin - end  
 fina - finish (put an end to)  
@@ -706,7 +714,6 @@ forme - form (shape)
 forti - strong  
 fortia - force (strength)  
 forum - forum (public space)  
-fosfor - phosphorus  
 fotograf - photograph  
 fotografer - photographer  
 fotografia - photography  
@@ -797,6 +804,8 @@ gom - rubber
 gon - corner (angle)  
 gonometer - goniometer  
 goton - cotton  
+governa - govern  
+governe - government  
 gowa - go  
 graf - drawing (graph, image)  
 grafa - draw  
@@ -838,7 +847,7 @@ gute - knee
 guy - ogre (troll, goblin)  
 ##h
 habar - news  
-habarbaw - newspaper (gazette)  
+habarobaw - newspaper (gazette)  
 habaxi - Abyssinian  
 habaxia - Abyssinia  
 hafiza - preserve (conserve, retain, spare)  
@@ -981,7 +990,7 @@ insulta - insult (offend)
 insulte - insult (offense)  
 inter - between  
 interes - interest (interesting)  
-internete - internet  
+interonete - internet  
 inxala - hope (wish)  
 iode - iodine  
 ion - ion  
@@ -1038,6 +1047,7 @@ jel - gel (jelly)
 jelos - jealous  
 jen - birth  
 jena - give birth (beget, generate)  
+jener - parent (mother, father)  
 jeng - fight (war, battle, combat)  
 jenger - warrior (fighter)  
 jengi - military (martial, warlike)  
@@ -1090,9 +1100,11 @@ kagaze - paper (material)
 kaka - defecate (shit)  
 kakaw - cocoa  
 kake - excrement (shit)  
+kal - space (separation)  
 kalalia - Greenland  
 kalam - pen (writing tool)  
 kali - empty  
+kali harfe - space (character)  
 kalifornium - californium  
 kalium - potassium  
 kalkulia - calculus (manipulation of symbolic expressions)  
@@ -1269,6 +1281,8 @@ komuniste - communist
 komunistia - communism  
 konakri ginia - Guinea  
 koncung - insect  
+konfusi - confused  
+konfusu - confuse (perplex)  
 konfuze - Confucious  
 konfuzistia - Confucianism  
 kong - hole  
@@ -1353,11 +1367,14 @@ kuxi - nice (pleasant, comfortable, cushy)
 ##l
 labe - lip  
 lada - load (to charge)  
+lage - lake  
 laje - garbage (rubbish, trash)  
 lake - lacquer (varnish)  
 lala - lie (lie down)  
 lampe - lamp  
 lanca - throw (launch)  
+lancograf - projection (image)  
+lancografa - project (cast)  
 langan - banister (handrail)  
 lankia - Sri Lanka (Ceylon)  
 lantan - lanthanum  
@@ -1371,6 +1388,7 @@ late - side (flank)
 lati - lateral  
 latini abace - Latin alphabet  
 latinokitaba - romanize  
+latoren - companion (partner, sidekick)  
 latovia - Latvia  
 laurensium - lawrencium  
 lawi - Lao (Laotian)  
@@ -1392,11 +1410,14 @@ leksi - lexical
 leksia - vocabulary (lexicon)  
 leksoliste - dictionary (word list)  
 lengi - cold  
+lenti - slow (lethargic)  
 lenxa - practice (to exercise)  
 lenxe - exercise  
 lete - summer  
 letis - lettuce  
 lew - already (completed action)  
+lex - leftover (residue, vestige)  
+lexa - leave behind (abandon)  
 leze - pear  
 liba - erect  
 libania - Lebanon  
@@ -1419,12 +1440,12 @@ lil niam - snack
 lilake - lilac  
 lilaki - lilac color  
 lim - five (5)  
-limfe - lymph  
 limite - limit (boundary)  
 limofas - pentahedron (prism)  
 limogon - pentagon  
 limon - lemon  
 limonorangi - yellow  
+linfe - lymph  
 linye - line (stripe)  
 linyoparce - line break (newline)  
 lisi - smooth  
@@ -1432,8 +1453,8 @@ liste - list (listing, catalogue)
 litium - lithium  
 litre - liter (litre)  
 livermorium - livermorium  
-liwmate - liquid  
-liwmati - fluid (liquid)  
+liwomate - liquid  
+liwomati - fluid (liquid)  
 liwu - flow  
 liwun - fusion (amalgamation)  
 liwunu - merge (fuse)  
@@ -1678,8 +1699,10 @@ modolekse - adverb
 moge - ink  
 moke - wood (timber)  
 mokojanger - carpenter  
+mol - mole (unit)  
 mola - grind (grind in mill)  
 moldovia - Moldova  
+molekul - molecule  
 moler - miller  
 molia - mill  
 molidenum - molybdenum  
@@ -1755,7 +1778,7 @@ naijiria - Nigeria
 nam - name  
 namibia - Namibia  
 namisa - call (name)  
-namlekse - noun  
+namolekse - noun  
 namu - be called (be named)  
 nanas - pineapple  
 nano- - nano-  
@@ -1830,6 +1853,7 @@ nol ban - never
 nol ren - nobody (no-one)  
 nol xey - nothing  
 nolodewiste - atheist  
+nolonidi - unnecessary (extraneous)  
 noloromansi - aromantic  
 noloseksi - asexual  
 noma - manage (organize, direct)  
@@ -2103,7 +2127,11 @@ preda - precede (come before)
 predi - previous  
 predi den - yesterday  
 predofikse - prefix  
+predogara - assume (presuppose)  
 presis - precise (exact, accurate)  
+presta - lend  
+prestogeta - borrow  
+prestolekse - loanword  
 prezidente - president  
 prizon - prison (imprisonment)  
 prizona - imprison (jail)  
@@ -2149,7 +2177,7 @@ rajer - king or queen
 raji - royal  
 rajia - kingdom  
 ramazan - Ramadan  
-rampe - ramp (incline)  
+rampe - ramp (incline, slope)  
 randa - smoothen with a plane  
 rander - plane (tool for making a smooth surface)  
 rang - color  
@@ -2177,6 +2205,8 @@ reda - prepare (make ready)
 redi - ready  
 rege - sand  
 registan - desert  
+reloje - clock (watch)  
+relojominar - clocktower  
 ren - person (people)  
 rengenium - roentgenium  
 renium - rhenium  
@@ -2301,7 +2331,9 @@ samoseksi - homosexual
 samu - resemble (be like)  
 samude - sea  
 samudi - maritime  
+samudojel - jellyfish (seajelly)  
 samudolaskeria - sea force (navy)  
+samudotate - coast (beach)  
 samun - joint  
 samuna - connect (join, link)  
 sana - produce (create, make)  
@@ -2326,6 +2358,7 @@ sapateria - shoemaker's shop
 sar - head  
 saroste - skull  
 sate - moment (while, short time)  
+saturne - Saturn  
 saudar - sibling (brother or sister)  
 saudi arabia - Saudi Arabia  
 saune - sauna  
@@ -2374,6 +2407,8 @@ sife - attribute (charasteristic, quality, feature, description)
 sifi - descriptive  
 sifolekse - adjective  
 sigar - cigarette (cigar)  
+sihate - health  
+sihati - healthy  
 sikiste - Sikh  
 sikistia - Sikhism  
 sikle - bike (cycle)  
@@ -2384,7 +2419,7 @@ simpli - simple (not complicated)
 sine - chest (breast)  
 sing - lion  
 singapur - Singapore  
-sinkase - rib cage  
+sinokase - rib cage  
 sinye - sign (signal)  
 sir - secret  
 sirke - vinegar  
@@ -2515,6 +2550,7 @@ tarje - translation (interpretation)
 tarjer - interpreter (translator)  
 tas - dish  
 tataw - tattoo  
+tate - shore (bank, edge)  
 tatike - tactics (strategy)  
 tawe - frying pan  
 tayi - Thai  
@@ -2528,9 +2564,9 @@ tehnolojia - technology (study of techniques)
 tele - distance  
 teli - far (distant)  
 telofon - telephone  
+telovide - television  
 telugi - Telugu  
 telurium - tellurium  
-telvide - television  
 tema - be about (discuss as a subject)  
 teme - topic (subject, theme)  
 tena - have (keep, possess)  
@@ -2631,12 +2667,12 @@ un ban - once
 una - unite  
 unale - each other (one another, mutually)  
 unali - mutual  
-unangi - monochrome  
 uni - united  
 uni arabi emiria - United Arab Emirates  
 unia - union  
 unomeni - unambiguous  
 unomete - unit (measurement)  
+unorangi - monochrome  
 ura - cheer (hurrah, hooray)  
 uran - Uranus  
 uranium - uranium  
@@ -2665,6 +2701,7 @@ vaze - pot (vase, bin, jar, jug)
 vejete - vegetable  
 vejetoniamiste - vegetarian  
 venezolia - Venezuela  
+venus - Venus  
 veri - true (real, genuine, very, indeed)  
 verme - worm  
 version - version (variation, edition)  
@@ -2816,7 +2853,8 @@ xuti - skillful
 xuxe - rest (relief)  
 ##y
 yaga - estimate (approximate)  
-yago - about (approximately, nearly)  
+yago - about (approximately, nearly, almost)  
+yagones - peninsula  
 yake - yak  
 yala - hurry (hasten)  
 yang - kind (type, style)  
@@ -2856,6 +2894,9 @@ zay - present (current, existing)
 zay den - today  
 zaye - present time (now)  
 zayia - presence (existence)  
+zayisa - summon (add, spawn)  
+zayisu - appear  
+zayisula - remove (delete, dispose, erase)  
 zayu - exist (be present)  
 ze - self  
 zebre - zebra  

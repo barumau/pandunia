@@ -23,7 +23,9 @@ anaranjado - oranji
 anciano - lawi  
 ancla - anker  
 animal (bestia) - hewan  
+antimonio - estibium  
 análisis - analis  
+aparecer - zayisu  
 araña - arane  
 arboreto - arboparke  
 argumento - argum  
@@ -88,14 +90,18 @@ cima (pico, cumbre, vértice) - pike
 cinturón (zona) - zone  
 citología - selolojia  
 ciudad - site  
+ciudadano - dexoren  
 colocar (poner) - loka  
 color - rang  
 comenzar (iniciar, empezar) - mula  
+compañero (compinche) - latoren  
 comportamiento (conducta) - manir  
 comprar - xopa  
 compras (shopping) - xope  
 conducir - xofa  
 conductor (chofer) - xofer  
+confundido - konfusi  
+confundir - konfusu  
 congelar (helar) - aisu  
 copa (vaso) - kupe  
 corazón (núcleo) - kerne  
@@ -104,6 +110,7 @@ corona - koron
 correcto (justo) - sahi  
 cosa - xey  
 cosmos - kosmia  
+costa - samudotate  
 crema - krem  
 cruz - krus  
 cubo - kube  
@@ -115,21 +122,26 @@ cósmico - kosmi
 ##d
 dado - dade  
 dança (baile) - danse  
+darmstatio - darmositium  
 datos - date  
 de - ca  
+dejar - lexa  
 derecho - hake  
 derechos humanos - insani hake  
+desacuerdo - aloray  
 deseo - wan  
 destino - destin  
 diamante - almas  
 dirigente (líder) - lider  
 disco - diske  
 disentir (no estar de acuerdo) - aloraya  
+distintos (diversos) - balibali  
 Dominica - dominikia  
 doméstico - domi  
 dormir - sonu  
 dormitorio - sonokamar  
 duro - gati  
+débil - debili  
 día de San Juan - yohani feste  
 ##e
 Egipto - misria  
@@ -150,6 +162,8 @@ escritura - kitabe
 escultor - eskulter  
 eslavo - slavi  
 esmeralda - zumurude  
+espacio (separación) - kal  
+espacio (texto) - kali harfe  
 especia - masal  
 estado - hal  
 estaño - esten  
@@ -162,7 +176,7 @@ evangelio - ewanjil
 favorito (preferido) - favori  
 faz (faceta) - fase  
 feliz - suki  
-filosofía - filsofia  
+filosofía - filosofia  
 fiordo - fiorde  
 flor - pul  
 fosa - kave  
@@ -175,10 +189,13 @@ galaxia - galaksia
 gas - gas  
 gas lacrimógeno - kanosuyogas  
 gato - maw  
+generar (añadir) - zayisa  
 generosidad (caridad) - karimia  
 generoso (dadivoso, caritativo) - karimi  
 gengibre - zinje  
 genotipo - jenotipe  
+gobernar - governa  
+gobierno - governe  
 grupo - grupe  
 guitarra - gitar  
 gul - gul  
@@ -203,6 +220,7 @@ hurra - ura
 impermeable - barxokote  
 importante - hami  
 inflamación - itis   
+innecesario - nolonidi  
 insecto - koncung  
 intentar (probar) - testa  
 invernal - zimi  
@@ -222,6 +240,7 @@ kétchup - kecape
 ##l
 lado (flanco) - late  
 ladrón - luter  
+lago - lage  
 largo - long  
 lasaña - lazanye  
 lateral - lati  
@@ -229,10 +248,12 @@ leche - milke
 lechuga - letis  
 leer - duga  
 lengua (idioma) - bax  
+lento (despacio) - lenti  
 Letonia - latovia  
 libro - buke  
 libélula - libel  
 limón - limon  
+linfa - linfe  
 lirio - susan  
 lista - liste  
 lluvia - barxe  
@@ -258,6 +279,7 @@ marrón - bruni
 marítimo - samudi  
 mas - max  
 medio - mede  
+medusa - samudojel  
 memoria - mem  
 meninge - mening  
 mesa - meze  
@@ -267,7 +289,11 @@ miel - mel
 mierda - xite  
 migración - migre  
 modo (manera, forma) - mode  
+mojado - bigi  
+mojar - biga  
+mol - mol  
 molino - molia  
+molécula - molekul  
 moneda - pesodiske  
 monismo - monistia  
 mosco - zeze  
@@ -301,11 +327,13 @@ océano - dayosamude
 ojo - kan  
 olvidar - memula  
 onda - onde  
+opción - cuzable  
 oportunidad (chance) - canse  
 ordenador - komputer  
 oreja - or  
 origen - asle  
 original - asli  
+orilla (ribera) - tate  
 oro - aur  
 ortogonal - ortogoni  
 oso - urse  
@@ -324,6 +352,7 @@ papel tapiz - walopapir
 paquete - pake  
 parasol - barxocate  
 parasol - solocate  
+parente (madre, padre) - jener  
 parque - parke  
 participante - parter  
 parámetro - param  
@@ -333,8 +362,10 @@ patología - patolojia
 patógeno - patojener  
 pausa - pauze  
 paz - pace  
+pedir prestado - prestogeta  
 pedo - pede  
 peer - peda  
+península - yagones  
 pequeño - lil  
 perdedor - luzer  
 perforar - fora   
@@ -352,11 +383,16 @@ plátano (banana) - banan
 pocos - xaw  
 porto - porte  
 posible - abli  
+prestar - presta  
+presuponer - predogara  
 problema - problem  
 programa - program  
+proyección - lancograf  
+proyectar - lancografa  
 proyecto - projete  
 prueba - dalil  
 prueba - teste  
+préstamo lingüístico - prestolekse  
 puerto marítimo - suyoporte  
 página - warkolate  
 que (como) - ko  
@@ -365,12 +401,14 @@ quemarse - piru
 querer (desear) - wana  
 queso - cis  
 queso fresco - panir  
+quitar (eliminar, borrar) - zayisula  
 química - kimia  
 ##r
 raiz - rize  
 raza - ras  
 recto - orti  
 religión - din  
+reloj - reloje  
 Republica Dominicana - dominikania  
 reunión (junta, mitin) - mite  
 reír - haha  
@@ -389,11 +427,14 @@ saber (conhecer) - jana
 saco - sake  
 sal - sal  
 salino - sali  
+salud - sihate  
+saludable - sihati  
 saludo - salame  
 sandía - arbuze  
 sangre - sang  
 sapato - sapate  
 Satanás - xatan  
+Saturno - saturne  
 seguro - sekuri  
 semilla - seme  
 seminal - semi  
@@ -415,6 +456,7 @@ tigre - bagre
 toalla - towal  
 tomate - tomate  
 tonelada - megogram  
+torre del reloj - relojominar  
 trabajador (obrero) - werker  
 trabajar - werka  
 trabajo - werke  
@@ -429,11 +471,13 @@ vampiro - vampir
 vapor - suyogas  
 vegetariano - vejetoniamiste  
 velo - hijabe  
+Venus - venus  
 ver - vida  
 verdadero - veri  
 verde - lugi  
 verduras - coy  
 verme - verme  
+vestigio (sobrante, residuo) - lex  
 vida - hay  
 vidrio (cristal) - kance  
 vocal - vokal  

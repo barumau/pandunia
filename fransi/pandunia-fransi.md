@@ -102,6 +102,7 @@ badan - corps
 bagaje - bagage  
 bagre - tigre  
 baki - blanc  
+balibali - divers (plusieurs)  
 balkon - balcon  
 banan - banane  
 bande - bande  
@@ -130,6 +131,8 @@ baze - base
 bebe - bébé  
 beker - boulanger  
 bere - baie  
+biga - mouiller  
+bigi - mouillé  
 bina - construire  
 bir - bière  
 bol - ball  
@@ -151,6 +154,7 @@ cerni - noir
 cis - fromage  
 cokolate - chocolat  
 cokolatobaton - tablette de chocolat  
+cuzable - option  
 ##d
 daka - couvrir  
 dalil - preuve  
@@ -159,6 +163,7 @@ danse - dance
 date - données  
 datobanke - base de données  
 dayosamude - océan  
+debili - faible  
 destin - destin (destination)  
 dew - dieu  
 dike - objectif (cible)  
@@ -184,7 +189,7 @@ ewanjil - évangile
 fase - face (facette)  
 fata - faire  
 favori - favori (préféré)  
-filsofia - philosophie  
+filosofia - philosophie  
 fiorde - fiord  
 fitolojia - botanique  
 fora  - forer (percer)  
@@ -202,6 +207,7 @@ gazel - gazelle
 gitar - guitare  
 gol - but  
 goton - coton  
+governe - gouvernement  
 grupe - groupe  
 gul - goule  
 gunden - palais  
@@ -246,6 +252,7 @@ kafas - cage
 kafe - café  
 kagaze - papier  
 kalam - plume  
+kali harfe - espace  
 kamar - pièce (chambre)  
 kamis - chemise  
 kanape - canapé (sofa)  
@@ -274,6 +281,7 @@ ko - que (comme)
 ko? - comment  
 komputer - ordinateur  
 koncung - insecte  
+konfusi - perplexe (désorienté)  
 korne - corne  
 koron - couronne  
 kosmi - cosmique  
@@ -283,6 +291,9 @@ krus - croix
 kube - cube  
 kupe - coupe (tasse, verre)  
 ##l
+lage - lac  
+lancograf - projection  
+lancografa - projeter (donner)  
 lasker - soldat  
 laskeria - armée  
 late - côté  
@@ -294,8 +305,10 @@ leksaslia - étymologie
 lekse - mot  
 leksi - lexical  
 leksia - vocabulaire (lexique)  
+lenti - lent  
 lete - été  
 letis - laitue  
+lexa - laisser  
 libel - libellule  
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
@@ -349,6 +362,7 @@ migru - s'installer (déménager)
 milke - lait  
 misria - Égypte  
 mode - mode (façon, manière)  
+mol - mole (unité)  
 molia - moulin  
 mome - nous  
 muke - visage  
@@ -411,6 +425,8 @@ piratia - piraterie
 pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
+presta - prêter  
+prestogeta - empruntre  
 problem - problème  
 problemi - problématique  
 program - programme  
@@ -422,6 +438,7 @@ rang - couleur
 rapidi - vite (rapide)  
 ras - race  
 razonu - tener sentido  
+reloje - horloge  
 reste - reste  
 retra - retourner (revenir)  
 retrotikete - Aller-retour  
@@ -444,9 +461,12 @@ salame - salut (salam)
 saman - ciel  
 samoray - accord  
 samude - mer  
+samudojel - méduse  
+samudotate - côte  
 sang - sang  
 sanwice - sandwich  
 sar - tête  
+saturne - Saturne  
 sekse - sexe  
 sekuri - sûr  
 selolojia - cytologie  
@@ -454,6 +474,8 @@ seme - semence
 semi - séminal  
 serye - série  
 si - oui  
+sihate - santé  
+sihati - sain  
 sikle - bicyclette  
 sikliste - cycliste  
 site - ville  
@@ -472,12 +494,13 @@ suy - eau
 suyogas - vapeur d’eau  
 ##t
 tarje - traduction  
+tate - bord (rive)  
 tazi - frais  
 te - tu  
 tehne - technique  
 tehnolojia - technologie  
 telofon - téléphone  
-telvide - téléviseur  
+telovide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
 tenu - appartenir à  

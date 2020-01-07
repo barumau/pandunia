@@ -94,7 +94,7 @@
 |etelä|sude|spa:sur, por:sul, fra:sud|
 |etikka|sirke|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |fani (-fiili)|filer|eng:fra:-phile, por:spa:-filo|
-|filosofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filosofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |gaselli|gazel|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
 |guru (opettaja)|gur|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |hallinto (hallinnointi)|nomia|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
@@ -458,7 +458,7 @@
 |mekko (tunika)|tunike|spa:túnica, eng:tunic, rus:туника (tunika)|
 |menneisyys|pase|eng:past, spa:pasado, por:passado, fra: passé|
 |meri|samude|khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|
-|merkitys|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|merkitys|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |merkki (jälki)|marke|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |mestari (asiantuntija)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |meteli|kelele|swa:kon:makelele|
@@ -768,7 +768,7 @@
 |sotilas|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
 |sovellus|aplike|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |stadioni (areena)|estadia|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
-|substantiivi (nimisana)|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|substantiivi (nimisana)|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |suhde (yhteys)|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |suihku|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |sukka|soke|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
@@ -990,6 +990,7 @@
 |väittely (debatti)|lon|zho:论 (lùn), jpn:論 (ron), vie:luận, kor:논 (non)|
 |väri|rang|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |väärä (epätosi, vale-)|falsi|eng:false, spa:por:falso, fra:faux, deu:falsch|
+|wiedzieć|jana|know (recognize)|
 |ydin (sydän)|kerne|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
 |yhdeksän|naw|hin:नौ (nau), urd:(nau)|
 |yhdistää|samuna|isl:sameina, deu:vereinigen|

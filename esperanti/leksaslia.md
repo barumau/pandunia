@@ -167,7 +167,7 @@
 |festo|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
 |feĉo|hamir|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
 |fiki|coda|ben:চোদা (coda), hin:चोदना (codnā)|
-|filozofio|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filozofio|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |fingro|finge|eng:finger|
 |fino|fin|spa: fin, fra: fin, por: fim|
 |fiŝo|fix|eng:fish, deu:Fisch|
@@ -231,6 +231,7 @@
 |homo|insan|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|
 |honoro (respekto)|onor|eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|
 |honto|xarme|fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
+|horloĝo|reloje|spa:reloj. por:relógio. fra:horloge. ita:orologio. msa:ind:arloji.|
 |horo|hor|fra:heure, eng:hour, spa:por:hora|
 |hotelo|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |humuro|yumor|rus:юмор (yumor), uzb:yumor, spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
@@ -366,6 +367,7 @@
 |malmulte|xaw|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |malnova|purani|hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|
 |malplena|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
+|malrapida|lenti|fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|
 |malsukceso|xibay|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
 |malvarma|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |malĝojo|duke|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
@@ -584,7 +586,7 @@
 |se|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |seĝo|kurse|ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)|
 |sidi|sida|rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|
-|signifo|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|signifo|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |siropo|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
 |sitelo|balde|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
 |situacio (aferstato)|xeyohal|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
@@ -611,7 +613,7 @@
 |stato|hal|ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl|
 |stelo|xing|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
 |stranga|bizari|eng:fra:bizarre, por:bizarro, deu:bizarr|
-|substantivo|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|substantivo|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |sudo|sude|spa:sur, por:sul, fra:sud|
 |sufiĉa|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |sukero|xukar|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
@@ -638,6 +640,7 @@
 |terpomo|patate|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|
 |testo|teste|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |Tibeto|podia|tib:བོད (bod, phØ)|
+|tietää (tuntea)|jana|know (recognize)|
 |tigro|bagre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |tiri|tira|spa:por:tirar, fra:tirer, eng:tear, tur:tire|
 |tiu|wi|hin:वह (wo), ben:ওই (oi)|

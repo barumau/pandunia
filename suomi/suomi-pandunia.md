@@ -336,15 +336,14 @@ fermium - fermium
 Fidži - fijia  
 Filippiinit - filipinia  
 filmi - filme  
-filosofi - filsofer  
-filosofia - filsofia  
-filosofinen - filsofi  
+filosofi - filosofer  
+filosofia - filosofia  
+filosofinen - filosofi  
 flerovium - flerovium  
 fluori - flur  
 fonologia (äänneoppi) - fonolojia  
 foorumi - forum  
 fosfor - pospor  
-fosfori - fosfor  
 fransium - fransium  
 fuusio (yhteensulautuminen) - liwun  
 fysiikka - fizike  
@@ -585,7 +584,7 @@ infektio (tartunta) - infekse
 inkivääri - zinje  
 innoittaa (inspiroida) - inspira  
 insinööri - injener  
-internet - internete  
+internet - interonete  
 Intia - bartia  
 intialainen - barti  
 Intian valtameri - barti samude  
@@ -1211,7 +1210,7 @@ lyhentää - korta
 lyhty - lanten  
 lyhyt - korti  
 lyijy - plumbe  
-lymfa - limfe  
+lymfa - linfe  
 lypsää maitoa - tira milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
@@ -1492,8 +1491,8 @@ neon - neon
 Nepal - nepalia  
 neptunium - neptunium  
 Neptunus - neptun  
-neste - liwmate  
-nestemäinen - liwmati  
+neste - liwomate  
+nestemäinen - liwomati  
 nettisivu - netoloke  
 neula - pin  
 neuvo - mente  
@@ -1959,7 +1958,7 @@ rikki - sulfe
 rikos - krim  
 rikos- (rikollinen) - krimi  
 rinta - sine  
-rintakehä - sinkase  
+rintakehä - sinokase  
 riski - riske  
 riskialtis - riski  
 risteytys (hybridi) - hibride  
@@ -2038,7 +2037,7 @@ sanaluettelo - leksoliste
 sanasto - leksia  
 sankari (urho) - wir  
 sanko (ämpäri) - balde  
-sanomalehti - habarbaw  
+sanomalehti - habarobaw  
 Sao Tome ja Principe - santi tome e prinsipe  
 sapatti - sabate  
 sarana - xarnir  
@@ -2175,7 +2174,7 @@ Sri Lanka - lankia
 stadioni (areena) - estadia  
 strontium - estrontium  
 suahili - suahili  
-substantiivi (nimisana) - namlekse  
+substantiivi (nimisana) - namolekse  
 Sudan - sudania  
 sudenkorento - libel  
 suhde (yhteys) - guanxe  
@@ -2183,7 +2182,7 @@ suihku - dux
 sukka - soke  
 suklaa - cokolate  
 suklaapatukka - cokolatobaton  
-sukunimi - familnam  
+sukunimi - familonam  
 sukupuoli - sekse  
 sulaa yhteen (fuusioitua) - liwunu  
 sulka - per  
@@ -2340,13 +2339,13 @@ tekniikka (teknologia) - tehnolojia
 teknokratia - tehnokratia  
 teko - fate  
 tekstin muotoilu - kitaborupe  
-televisio - telvide  
+televisio - telovide  
 teltta - haime  
 telugu (eräs intialainen kieli) - telugi  
 temppeli - mandir  
 tennis - tenis  
-teokratia - dewkratia  
-teologia - dewlojia  
+teokratia - dewokratia  
+teologia - dewolojia  
 teoria - teoria  
 tera- - tero-  
 terrorismi - teroristia  
@@ -2747,7 +2746,7 @@ yksinkertainen (mutkaton) - simpli
 yksinpuhelu (monologi) - monologe  
 yksinvaltius (autokratia, monarkia) - monokratia  
 yksityiskohta (detalji) - detal  
-yksivärinen - unangi  
+yksivärinen - unorangi  
 yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - putong cini  
 yliopisto - dayodarsia  

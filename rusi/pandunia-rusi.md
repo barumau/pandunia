@@ -126,7 +126,7 @@ ewanjil - евангелие
 ##f
 fase - грань  
 favori - любимый  
-filsofia - философия  
+filosofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
 fitolojia - ботаника  
@@ -406,7 +406,7 @@ te - ты
 tehne - техника  
 tehnolojia - технология  
 telofon - телефон  
-telvide - телевизор  
+telovide - телевизор  
 teme - тема  
 tena - иметь  
 tenke - погода  

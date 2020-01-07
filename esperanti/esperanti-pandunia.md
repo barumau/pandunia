@@ -366,7 +366,7 @@ facila - izi
 fajna - fain  
 fajra - piri  
 fajro - pir  
-familinomo - familnam  
+familinomo - familonam  
 familio - famil  
 fantaci - fantaza  
 fantazia - fantazi  
@@ -393,9 +393,9 @@ fiksi - fiksa
 filino - femi bace  
 Filipinoj - filipinia  
 filmo - filme  
-filozofia - filsofi  
-filozofio - filsofia  
-filozofo - filsofer  
+filozofia - filosofi  
+filozofio - filosofia  
+filozofo - filosofer  
 filtri - filter  
 fingro - finge  
 fini - fina  
@@ -425,7 +425,6 @@ forno - tanur
 forta - forti  
 forto - fortia  
 forumo - forum  
-fosforo - fosfor  
 fosforo - pospor  
 fosi - kava  
 foso - kave  
@@ -462,7 +461,7 @@ gardisto - garder
 gaso - gas  
 gazelo - gazel  
 gazeto (revuo) - baw  
-gazeto - habarbaw  
+gazeto - habarobaw  
 gazo - gaze  
 geedzeco - maria  
 generala (universala) - putong  
@@ -551,6 +550,7 @@ homo - insan
 Honduro - hondurasia  
 honoro (respekto) - onor  
 honto - xarme  
+horloĝo - reloje  
 hormono - hormon  
 horo - hor  
 hotelo - hotel  
@@ -854,6 +854,7 @@ malplena - kali
 malpli - min  
 malproksima - teli  
 malproksimeco - tele  
+malrapida - lenti  
 malsana - pati  
 malsukceso - xibay  
 maltro - min ko bas  
@@ -1255,6 +1256,7 @@ samopinii (interkonsenti) - samoraya
 samseksema - aloseksi  
 samseksema - gey  
 samseksema - samojinsokami  
+sana - sihati  
 sangi - lowa sang  
 sango - sang  
 sanigi (kuraci) - medika  
@@ -1331,7 +1333,7 @@ stiri - gida
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
-substantivo - namlekse  
+substantivo - namolekse  
 Sudkoreio - sudi cosenia  
 sudo - sude  
 sufiĉa - bas  
@@ -1373,15 +1375,15 @@ tekniko - tehne
 teknologio - tehnolojia  
 tekto - cate  
 telefono - telofon  
-televidilo - telvide  
+televidilo - telovide  
 teluro - telurium  
 temo - teme  
 tendo - haime  
 teneso - tenesin  
 teniso - tenis  
 teo - cay  
-teokratio - dewkratia  
-teologio - dewlojia  
+teokratio - dewokratia  
+teologio - dewolojia  
 teorio - teoria  
 tera - duni  
 terbio - terbium  
@@ -1410,7 +1412,7 @@ tombo - gabre
 tondilo - makas  
 tondro - grom  
 tono - ton  
-torako - sinkase  
+torako - sinokase  
 torio - torium  
 torso - torse  
 torto - pay  

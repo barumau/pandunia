@@ -61,6 +61,7 @@ bagre - 虎
 bah - 呸  
 baki - 白  
 bakocoy - 白菜 (小白菜)  
+balibali - 各种各样  
 balkon - 阳台  
 banan - 香蕉  
 bande - 班  (一帮)  
@@ -85,6 +86,8 @@ bazar - 市场
 baze - 底部  
 bebe - 宝宝  
 bere - 浆果 (莓)  
+biga - 弄湿  
+bigi - 湿  
 bil - 帐单  
 bina - 建设  
 bir - 啤酒  
@@ -110,13 +113,16 @@ cini - 汉族
 cis - 酪 (起司)  
 cokolate - 巧克力  
 cokolatobaton - 巧克力棒  
+cuzable - 选择 (买卖权)  
 ##d
 date - 数据  
 datobanke - 数据库  
 dayosamude - 大洋  
+debili - 虚弱 (易坏)  
 deki - 的  
 destin - 目的地 (命運)  
 dew - 神  
+dexoren - 公民  
 dike - 目的 (目标)  
 din - 宗教  
 ding - 钉子  
@@ -129,11 +135,12 @@ e - 和
 ##e
 esa - 对  
 esten - 锡  
+estibium - 锑  
 ewanjil - 福音  
 ##f
 fase - 面  
 fem - 女  
-filsofia - 哲学  
+filosofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
 fitolojia - 植物学  
@@ -150,6 +157,7 @@ genca - 检查
 gitar - 吉他  
 gol - 目的  
 goton - 棉  
+governe - 政府  
 gunden - 宫殿  
 gunodarme - 道德  
 gute - 膝  
@@ -195,6 +203,7 @@ kafas - 笼
 kafe - 咖啡  
 kagaze - 纸  
 kalam - 笔  
+kali harfe - 空隙  
 kamar - 房间  
 kamis - 衬衫  
 kanape - 沙发  
@@ -222,12 +231,16 @@ ko - 比
 ko? - 怎么  
 komputer - 计算机  
 koncung - 昆虫  
+konfusi - 困惑 (混乱)  
 kosmi - 宇宙的  
 kosmia - 宇宙  
 kuan - 宽  
 kube - 立方体  
 kupe - 杯子  
 ##l
+lage - 湖  
+lancograf - 投影  
+lancografa - 投射  
 lantan - 鑭  
 laskeria - 军队  
 late - 侧面 (旁边)  
@@ -237,7 +250,9 @@ laya - 来
 lazanye - 千层面  
 le - 他，她，它  
 lekse - 词  
+lenti - 慢  
 letis - 莴苣  
+lexa - 落 (留下)  
 leze - 梨  
 libel - 蜻蜓  
 lider - 领导  
@@ -288,6 +303,8 @@ mita - 聚会
 mite - 会议  
 moke - 木材  
 mokojanger - 木匠  
+mol - 摩尔 (单位)  
+molekul - 分子  
 molia - 磨坊  
 mome - 我们  
 mula - 开始  
@@ -343,6 +360,7 @@ piru - 烧
 plisa - 请  
 porte - 港  
 pote - 坭  
+prestogeta - 借  
 problem - 问题 (难题)  
 program - 计划  
 puding - 布丁  
@@ -352,6 +370,7 @@ putong - 普通
 ##r
 rapidi - 快  
 ras - 种族  
+reloje - 钟  
 reste - 其余  
 retra - 返回 (回来)  
 retrotikete - 往返票  
@@ -367,10 +386,13 @@ salame - 迎接
 saman - 天空  
 samoray - 一致  
 samude - 海  
+samudojel - 海蜇  
+samudotate - 海岸  
 sang - 血  
 sanwice - 三明治 (三文治)  
 sapate - 鞋  
 sar - 头  
+saturne - 土星  
 sekse - 性别  
 selolojia - 细胞学  
 seme - 种  
@@ -378,6 +400,8 @@ semi - 种子的
 semodan - 种子  
 serye - 系列  
 si - 对 (是)  
+sihate - 健康  
+sihati - 健康  
 sikliste - 骑自行车的人  
 socia - 社会  
 sol - 太阳  
@@ -395,12 +419,13 @@ suyogas - 蒸汽
 ##t
 tami - 贪婪的  
 tarje - 翻译  
+tate - 岸  
 tazi - 新鲜的  
 te - 你  
 tehne - 技术  
 tehnolojia - 工艺学  
 telofon - 电话机  
-telvide - 电视机  
+telovide - 电视机  
 teme - 主题目  
 tena - 有  
 tenke - 天气  

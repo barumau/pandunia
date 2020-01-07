@@ -164,7 +164,7 @@
 |fajka|pipe|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |fascynacja|fasin|eng:fascination, spa:fascinación, deu:Faszination|
 |fałszywy, nieprawdziwy|falsi|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|filozofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filozofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |fiord|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |firma, kompania, korporacja|kompania|eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|
 |flaga, sztandar|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
@@ -647,7 +647,7 @@
 |rytuał, ceremonia, ryt|rite|eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|
 |ryzyko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |ryż|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
-|rzeczownik|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|rzeczownik|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |rzecz|xey|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |rzeka|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |rzemieślnik|janger|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
@@ -896,7 +896,7 @@
 |zima|zime|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
 |zimny, chłodny|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |zmienić, zmieniać|muta|spa:mudar, eng:mutate, fra:muter|
-|znaczenie|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|znaczenie|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |znak, trop|marke|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |zombie, zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zostawić, zostawiać|xuxe|zho:休息 (xiūxí), kor:휴식 (hyusig)|

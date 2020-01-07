@@ -2,7 +2,7 @@
 |engli | pandunia | leksasle |
 |----------|----------|----------|
 |-al (exhibiting a property)|deki|zho:的 (de), jpn:-的 (-teki), kor:—적 (-jeok)|
-|about (approximately, nearly)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
+|about (approximately, nearly, almost)|yago|kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |accent (stress)|aksente|ita:accento, spa:por:acento, pol:akcent, eng:fra:accent|
 |achoo|aciy|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |action (deed, performance, karma)|karme|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
@@ -190,6 +190,7 @@
 |clean (pure)|safi|swa:safi, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|
 |clear (not obscured)|klar|deu:klar, spa:por:claro, eng:clear, fra:clair|
 |climate|klime|ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|
+|clock (watch)|reloje|spa:reloj. por:relógio. fra:horloge. ita:orologio. msa:ind:arloji.|
 |clothing|fuke|zho:衣服 (yīfu), yue:(yifuk), jpn:衣服 (ifuku), kor:의복 (uibog)|
 |cloud|megam|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek)|
 |coat|kote|eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|
@@ -211,6 +212,7 @@
 |compute (to process data)|komputa|eng:compute|
 |condition (requirement)|xarte|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart)|
 |Confucious|konfuze|zho:孔夫子 (Kǒng Fūzǐ)|
+|confused|konfusi|eng:confused, spa:confundido, por:confuso, zho:困惑 (kùnhuò)|
 |congratulate (bless)|barka|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |connect (join, link)|samuna|isl:sameina, deu:vereinigen|
 |consider (regard)|konsida|eng:consider, spa:considerar|
@@ -388,6 +390,7 @@
 |gold|aur|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|
 |good-looking|bon rupi|zho:好看 (hǎokàn), eng:good-looking|
 |good|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
+|government|governe|eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|
 |grass|gras|eng:grass, hin:घास (ghās)|
 |grave (tomb)|gabre|ara:(qabr), hin:क़ब्र (qabra), may:kubur, deu:Grab, pol:grób, rus:гроб (grob)|
 |greedy|tami|ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|
@@ -416,6 +419,7 @@
 |have (keep, possess)|tena|spa:tener, fra:tenir, eng:contain|
 |hazard (chance)|zar|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
 |head|sar|fas:(sar), hin:सिर (sir), ara:(raʾs)|
+|health|sihate|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |heart|xim|kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|
 |heavy|bari|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |hello (hi)|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
@@ -486,6 +490,7 @@
 |knot (node)|node|eng:node, spa:nudo, por:nó, fra:nœud|
 |knowledge|jan|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
 |Korea|cosenia|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
+|lake|lage|eng:lake, spa:por:ita:lago, fra:lac|
 |lamp|lampe|fra:deu:lampe, eng:lamp, may:lampu|
 |language (communication)|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |lantern|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
@@ -498,8 +503,10 @@
 |leaf (sheet)|warke|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |league (association)|lige|fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)|
 |leak|lowa|zho:漏 (lòu)|
+|leave behind (abandon)|lexa|spa:dejar, por:deixar, fra:laisser, ita:lasciare|
 |left|lefte|eng:left|
 |lemon|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
+|lend|presta|spa:prestar, por:emprestar, fra:prêter|
 |lesson|darse|ara:fas:urd:(dars), tur:ders|
 |letter (character, written symbol)|harfe|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
 |lettuce|letis|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
@@ -551,7 +558,7 @@
 |mature (ripe, adult)|matur|eng:fra:mature, spa:por:maduro|
 |maximum|maxime|eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|
 |mean (cruel)|zalim|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
-|meaning (signification)|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|meaning (signification)|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |measurement|mete|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |meat (flesh)|manse|hin:मांस (māns), urd:(māns), ben:মাংস (maŋs), tel:(māṃsamu), rus:мясо (myaso), pol:mięso|
 |medium (intermediate, mean)|medi|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|
@@ -569,6 +576,7 @@
 |mistake (error, fault)|galte|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
 |mix (blend)|mixa|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
 |mole (burrowing animal)|krote|rus:крот (krot), cze:slk:krt|
+|molecule|molekul|eng:molecule, spa:por:molécula, fra:molécule|
 |mollusk|moluske|eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)|
 |moment (while, short time)|sate|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa, lin:sâ, som:saacad, scr:sat|
 |money|pese|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa, (spa:peso)|
@@ -608,7 +616,7 @@
 |nostalgia (longing)|nostalgia|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |not (no)|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |note (observation, remark, comment)|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
-|noun|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|noun|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |number|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
 |oasis|wase|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
 |ocean|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
@@ -667,7 +675,7 @@
 |perfect|kamili|ara:(kāmil), fas:(kâmel), urd:(kāmil), swa:kamili|
 |permissible (allowed, halal)|halal|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
 |person (people)|ren|zho: 人 (rén)|
-|philosophy|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|philosophy|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |pie (pastry)|pay|eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|
 |piece (fragment, shred, morsel, crumb)|parce|fas:(parče), tur:parça, hin:पारचा (pārcā), eng:part, por:spa:parte|
 |pig|gurube|rwa:gurube, sna:guruve, swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, kat:ღორი (ğori), + (onom,) jpn:(gorogoro) ron:groh, scr:grok, eng:grunt|
@@ -723,7 +731,7 @@
 |radish|lobake|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
 |rain|barxe|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
 |raisin|ganoputaw|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
-|ramp (incline)|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
+|ramp (incline, slope)|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |read|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |realization (awareness, enlightenment, bodhi)|bude|scr:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|
 |reason (cause)|sabe|heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|
@@ -774,6 +782,7 @@
 |sauce|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
 |sauna|saune|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |sausage|sosis|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|
+|savoir (connaître)|jana|know (recognize)|
 |savory (umami)|umami|jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|
 |scarf (shawl)|xal|fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|
 |science (study, research)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
@@ -821,6 +830,7 @@
 |sky (heaven)|saman|ara:(samāʾ), amh:ሰማይ (sämay), orm:samii, hau:sama, yor:sánmà, hin:आसमान (āsmān), fas:pnb:urd:(āsmān)|
 |sleep|son|rus:сон (son), por:sono, hin:सोना (sonā), ben:শোয়া (śoya)|
 |slipper|babuce|arai: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
+|slow (lethargic)|lenti|fra:lent, spa:por:lento, rus:медленно (medlenno), kor:느린 (neulin), msa:lambat.|
 |smoke|duman|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |smooth|lisi|fra:lisse, spa:por:liso, fas:(liz), may:licin|
 |snake (serpent)|serpe|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
@@ -956,6 +966,7 @@
 |vagina|vagin|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
 |valley|vale|por:vale, eng:valley, fra:vallée, spa:valle|
 |valve (tap, faucet)|kran|ned:kraan, rus:taj:kaz:кран (kran), pol:aze:kran, may:keran|
+|various (diverse, miscellaneous)|balibali|eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|
 |vegetarian|vejetoniamiste|eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|
 |veil (cover, screen)|hijabe|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
 |veranda (balcony, terrace, porch)|berande|hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda)|
@@ -985,11 +996,13 @@
 |wax|mum|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |way (manner, mode)|mode|fra:eng:mode, spa:por:modo|
 |way (road)|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
+|weak|debili|eng:debilitated, spa:por:débil, hin:दुर्बल, ben:দুর্বল, mar:दुबळा|
 |weapon (arms)|arme|fra:arme, eng:arms, spa:por:arma|
 |weather|tenke|zho:天气 (tiǎnqì), jpn:天気 (tenki)|
 |week|seman|spa:por:semana, fra:semaine|
 |weep (cry)|kuga|zho:哭 (kū), yue:哭 (huk1), vie:khóc|
 |weight|bar|ell:βάρος (báros), hin:भार (bhār), tel:భారము (bhāramu), may:may:berat|
+|wet (moist)|bigi|hin:भीगा (bhīgā), ben:ভিজা (bhijā)|
 |what?|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
 |wheel|cakre|ben:চাকা (caka), hin:चक्र (cakra)|
 |which (relative pronoun)|je|hin:जो (jo), urd:(jo)|

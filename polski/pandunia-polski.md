@@ -394,8 +394,8 @@ dewi - boski
 dewi sage - mit, boska opowieść  
 dewiste - teistyczny  
 dewistia - teizm  
-dewkratia - teokracja  
-dewlojia - teologia  
+dewokratia - teokracja  
+dewolojia - teologia  
 dex - kraj, ziemia  
 dike - cel  
 din - religia, wyznanie  
@@ -511,7 +511,7 @@ fain - delikatny, cienki, lekki
 fajan - rozwój  
 falsi - fałszywy, nieprawdziwy  
 famil - rodzina  
-familnam - nazwisko, imię rodziny  
+familonam - nazwisko, imię rodziny  
 fan - zabawa, rozrywka  
 fana - bawić, zabawiać  
 fani - zabawny  
@@ -560,9 +560,9 @@ filia - zamiłowanie (-filia)
 filipinia - Filipiny  
 filistinia - Terytorium Palestyńskie  
 filme - film  
-filsofer - filozof  
-filsofi - filozoficzny  
-filsofia - filozofia  
+filosofer - filozof  
+filosofi - filozoficzny  
+filosofia - filozofia  
 filter - filtr  
 fin - koniec  
 fina - skończyć, kończyć  
@@ -595,7 +595,6 @@ forme - forma, kształt
 forti - silny  
 fortia - siła  
 forum - forum  
-fosfor - fosfor  
 fotografia - fotografia  
 fotomaxin - kamera, aparat fotograficzny  
 fransi polinesia - Polinezja Francuska  
@@ -709,7 +708,7 @@ gute - kolano
 guy - ogr (trol, goblin)  
 ##h
 habar - wiadomość, nius  
-habarbaw - gazeta  
+habarobaw - gazeta  
 hafiza - zachować, zakonserwować, zachować, utrzymać  
 hafizer - przechowawca, kustosz, opiekun  
 hafnium - hafn  
@@ -830,7 +829,7 @@ insulta - obrazić
 insulte - obraza (obelga)  
 inter - między  
 interes - zainteresowanie, zaciekawienie; interesujący  
-internete - internet  
+interonete - internet  
 inxala - nadzieja, życzenie  
 iode - jod; jodyna  
 ion - jon  
@@ -864,7 +863,6 @@ jamia - kolekcja, zbiór; zgromadzenie, zebranie
 jampa - skoczyć, skakać  
 jamula - rozproszyć, rozpraszać  
 jan - wiedza  
-jana - wiedzieć  
 janel - okno  
 jangal - las, dżungla, zagajnik  
 janger - rzemieślnik  
@@ -1206,12 +1204,12 @@ lil - mały; mało, trochę, nieco
 lil niam - przekąska  
 lilake - lilak  
 lim - pięć (5)  
-limfe - limfa  
 limite - limit, granica  
 limofas - pięciościan (pryzmat)  
 limogon - pięciokąt (pentagon)  
 limon - cytryna  
 limonorangi - żółty  
+linfe - limfa  
 linye - linia, pas, pręga, smuga  
 lisi - gładki  
 liste - lista, spis, wykaz  
@@ -1510,7 +1508,7 @@ naijiria - Nigeria
 nam - imię, nazwa  
 namibia - Namibia  
 namisa - nazwać, nazywać, wezwać, wzywać  
-namlekse - rzeczownik  
+namolekse - rzeczownik  
 namu - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 nanas - ananans  
 nano- - nano-  
@@ -2071,7 +2069,7 @@ simpli - prosty, nieskomplikowany
 sine - pierś  
 sing - lew  
 singapur - Singapur  
-sinkase - klatka piersiowa  
+sinokase - klatka piersiowa  
 sinye - znak, sygnał  
 sir - sekret  
 sirke - ocet  
@@ -2202,9 +2200,9 @@ tehnolojia - technologia, nauka o technikach
 tele - dystans  
 teli - daleki, odległy  
 telofon - telefon  
+telovide - telewizja  
 telugi - telugu  
 telurium - tellur  
-telvide - telewizja  
 tema - być o; dyskutować o  
 teme - temat, motyw  
 tena - mieć (trzymać)  
@@ -2297,9 +2295,9 @@ un ban - raz (jeden raz)
 una - jednoczyć  
 unale - się (nawzajem, wzajemnie)  
 unali - wzajemny  
-unangi - jednokolorowy (monochromatyczny)  
 uni - zjednoczony  
 unia - unia  
+unorangi - jednokolorowy (monochromatyczny)  
 ura - wiwatować; hura  
 uran - Uran  
 uranium - uran  

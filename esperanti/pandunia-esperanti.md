@@ -333,8 +333,8 @@ detal - detalo
 dew - dio  
 dewi - dia  
 dewi sage - mito  
-dewkratia - teokratio  
-dewlojia - teologio  
+dewokratia - teokratio  
+dewolojia - teologio  
 dex - lando  
 dike - celo  
 din - religio  
@@ -425,7 +425,7 @@ faidi - utila
 fain - fajna  
 fajan - disvolvi  
 famil - familio  
-familnam - familinomo  
+familonam - familinomo  
 fan - amuzo  
 fana - amuzi  
 fani - amuza  
@@ -461,9 +461,9 @@ fikre - penso
 fiksa - fiksi  
 filipinia - Filipinoj  
 filme - filmo  
-filsofer - filozofo  
-filsofi - filozofia  
-filsofia - filozofio  
+filosofer - filozofo  
+filosofi - filozofia  
+filosofia - filozofio  
 filter - filtri  
 fin - fino  
 fina - fini  
@@ -491,7 +491,6 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum - forumo  
-fosfor - fosforo  
 fotograf - foto  
 fotografer - fotisto  
 fotografia - fotografio  
@@ -585,7 +584,7 @@ gute - genuo
 guy - ogro (trolo)  
 ##h
 habar - novaĵoj  
-habarbaw - gazeto  
+habarobaw - gazeto  
 hafnium - hafnio  
 haha - ridi  
 haida - ni faru...  
@@ -891,6 +890,7 @@ lekse - vorto
 leksia - vortaro  
 leksoliste - vortaro  
 lengi - malvarma  
+lenti - malrapida  
 lenxa - ekzerci  
 lenxe - ekzerco  
 lete - somero  
@@ -1058,7 +1058,7 @@ nagri - urba
 naijiria - Niĝerio  
 nam - nomo  
 namibia - Namibio  
-namlekse - substantivo  
+namolekse - substantivo  
 nanas - ananaso  
 natre - natrio  
 nawati - naūatla  
@@ -1242,6 +1242,7 @@ raya - opinii
 redi - preta  
 rege - sablo  
 registan - dezerto  
+reloje - horloĝo  
 ren - persono  
 rengenium - rentgenio  
 renium - renio  
@@ -1339,13 +1340,14 @@ serye - serio
 si - jes  
 sida - sidi  
 sifolekse - adjektivo  
+sihati - sana  
 sikliste - biciklisto  
 silike - silicio  
 simpli - simpla  
 sine - brusto  
 sing - leono  
 singapur - Singapuro  
-sinkase - torako  
+sinokase - torako  
 sirke - vinagro  
 sisme - tertremo  
 sismolojia - sismologio  
@@ -1414,8 +1416,8 @@ tehnolojia - teknologio
 tele - malproksimeco  
 teli - malproksima  
 telofon - telefono  
+telovide - televidilo  
 telurium - teluro  
-telvide - televidilo  
 tema - esti pri; pridiskuti  
 teme - temo  
 tena - havi (teni)  

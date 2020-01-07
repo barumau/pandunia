@@ -468,8 +468,8 @@ dewi - jumalallinen
 dewi sage - jumaltaru (myytti)  
 dewiste - teisti  
 dewistia - teismi (jumalusko)  
-dewkratia - teokratia  
-dewlojia - teologia  
+dewokratia - teokratia  
+dewolojia - teologia  
 dex - maa (valtio)  
 dike - maali (maalitaulu, kohde)  
 din - uskonto  
@@ -601,7 +601,7 @@ faidi - hyödyllinen
 fain - hieno (hienojakoinen)  
 fajan - kehitys  
 famil - perhe  
-familnam - sukunimi  
+familonam - sukunimi  
 fan - huvi (hauskuus)  
 fana - viihdyttää (huvittaa)  
 fani - hauska (huvittava)  
@@ -651,9 +651,9 @@ filia - tykkääminen
 filipinia - Filippiinit  
 filistinia - Palestiina  
 filme - filmi  
-filsofer - filosofi  
-filsofi - filosofinen  
-filsofia - filosofia  
+filosofer - filosofi  
+filosofi - filosofinen  
+filosofia - filosofia  
 filter - suodattaa  
 fin - loppu  
 fina - lopettaa  
@@ -688,7 +688,6 @@ forme - muoto
 forti - voimakas (vahva)  
 fortia - voima  
 forum - foorumi  
-fosfor - fosfori  
 fotograf - valokuva (foto)  
 fotografer - valokuvaaja  
 fotografia - valokuvaus  
@@ -819,7 +818,7 @@ gute - polvi
 guy - peikko  
 ##h
 habar - uutinen  
-habarbaw - sanomalehti  
+habarobaw - sanomalehti  
 habaxi - abyssinialainen  
 habaxia - abyssinia  
 hafiza - säilyttää (varjella, säästää)  
@@ -962,7 +961,7 @@ insulta - solvata (loukata)
 insulte - loukkaus (herja)  
 inter - väli  
 interes - kiinnostus (mielenkiinto)  
-internete - internet  
+interonete - internet  
 inxala - toivoa  
 iode - jodi  
 ion - ioni  
@@ -1385,12 +1384,12 @@ lil niam - välipala (naposteltava)
 lilake - syreeni  
 lilaki - violetti (liila)  
 lim - viisi (5)  
-limfe - lymfa  
 limite - raja  
 limofas - viisitahokas (prisma)  
 limogon - viisikulmio  
 limon - sitruuna  
 limonorangi - keltainen  
+linfe - lymfa  
 linye - viiva (linja)  
 linyoparce - rivinvaihto  
 lisi - sileä  
@@ -1398,8 +1397,8 @@ liste - lista (luettelo)
 litium - litium  
 litre - litra  
 livermorium - livermorium  
-liwmate - neste  
-liwmati - nestemäinen  
+liwomate - neste  
+liwomati - nestemäinen  
 liwu - virrata  
 liwun - fuusio (yhteensulautuminen)  
 liwunu - sulaa yhteen (fuusioitua)  
@@ -1716,7 +1715,7 @@ naijiria - Nigeria
 nam - nimi  
 namibia - Namibia  
 namisa - nimittää (kutsua)  
-namlekse - substantiivi (nimisana)  
+namolekse - substantiivi (nimisana)  
 namu - olla nimeltään  
 nanas - ananas  
 nano- - nano-  
@@ -2312,7 +2311,7 @@ simpli - yksinkertainen (mutkaton)
 sine - rinta  
 sing - leijona  
 singapur - Singapore  
-sinkase - rintakehä  
+sinokase - rintakehä  
 sinye - merkki (signaali)  
 sir - salainen  
 sirke - etikka  
@@ -2447,8 +2446,8 @@ tehnolojia - tekniikka (teknologia)
 tele - etäisyys (kaukaisuus)  
 teli - kaukainen  
 telofon - puhelin  
+telovide - televisio  
 telugi - telugu (eräs intialainen kieli)  
-telvide - televisio  
 tema - aiheesta (-sta)  
 teme - aihe (teema)  
 tena - pitää (pitää hallussa)  
@@ -2544,11 +2543,11 @@ un ban - kerran
 una - yhdistää  
 unale - toisiaan (keskenään)  
 unali - molemminpuolinen (keskinäinen)  
-unangi - yksivärinen  
 uni - yhtenäinen  
 uni arabi emiria - Yhdistyneet Arabiemiirikunnat  
 unia - liitto (unioni)  
 unomeni - yksimerkityksinen  
+unorangi - yksivärinen  
 ura - hurraa (hurrata)  
 uran - Uranus  
 uranium - uraani  
