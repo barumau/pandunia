@@ -46,7 +46,7 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 Esimerkkejä:
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
@@ -73,7 +73,7 @@ Isot alkukirjaimet ovat tarpeettomia kolmesta syystä.
 
 Huom! Isojen alkukirjainten käyttö ei ole väärin, sitä ei vaadita eikä siitä ole erityistä hyötyä.
 
-Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (des mega bit), 100 Gb (hon giga bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
+Suuraakkosia käytetään kansainvälisissä lyhenteissä. Esimerkkejä: 10 Mb (des megobite), 100 Gb (hon gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
 
 ## Tavuttaminen
@@ -100,6 +100,6 @@ Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunn
 
 **me vida te :)**
 = Minä näen sinut.  
-**me ni vida te :(**
+**me no vida te :(**
 = Minä en näe sinua.
 

@@ -3,9 +3,9 @@
 Pandunia utiliza el alfabeto latino básico que se muestra a continuación junto
 con los símbolos del Alfabeto Fonético Internacional (AFI) correspondientes:
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AFI: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
+| Pandunia: | a | b | c  | d | e | f | g | h   | i | j  | k  | l | m | n | o | p  | r   | s | t  | u | v | w | x | y | z |
+|-----------|---|---|----|---|---|---|---|-----|---|----|----|---|---|---|---|----|-----|---|----|---|---|---|---|---|---|
+| AFI:      | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ʃ | j | z~dz |
 
 En pandunia cada letra representa siempre el mismo sonido y ninguna letra es
 muda.
@@ -40,6 +40,8 @@ grafía, o bajo la misma grafía pero con sólo una parte de su valor fonético:
 - **y** representa el sonido breve diptongado de I, y equivale por tanto
   siempre (también ante vocal) a la Y en "ley", a la I en "aire".
 - **h** es como el sonido de la J española.
+- **v** es como el sonido de la B o V española despues de una vocal, como en
+  "abrevar".
 
 Las consonantes siguientes representan fonemas que no existen en español:
 
@@ -65,13 +67,13 @@ consonante.
 
 Ejemplos:
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
      me wana loga komun bax, le si pandunia.  
     /mé wána lóga komún báx, lé sí pandúnia./
@@ -99,8 +101,8 @@ porque están acostumbradas a ello en otros idiomas. Aun así, las mayúsculas s
 innecesarias y no se recomiendan..
 
 En pandunia, se usan las letras mayúsculas en los acrónimos y símbolos
-internacionales estándar. Por ejemplo: 10 Mb (des mega bit), 100 Gb (hon giga
-bit), 2 mm (du mili metre), 1 kJ (un kilo jul).
+internacionales estándar. Por ejemplo: 10 Mb (des megobite), 100 Gb (hon
+gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
 ## Sílabas
 
@@ -128,7 +130,7 @@ indica tristeza.
 
 **me vida te :)**
 = Te veo.  
-**me ni vida te :(**
+**me no vida te :(**
 = No te veo.
 
 ## Estructura de las palabras
@@ -136,30 +138,60 @@ indica tristeza.
 La estructura de palabras más común en pandunia es CVCV, en donde C es una
 consonante y V es una vocal.
 
-La palabra más difícil posible es CLVCCVC, en donde L es una consonante líquida
-(l o r). Por ejemplo **kristal** es una palabra así.
+La palabra más difícil posible es CLVCCLVC, en donde L es una consonante líquida
+(l o r), pero en realidad no hay palabras así. Algunas de las palabras más difícil
+actuales son **kristal** y **simpli**.
 
 Las consonantes iniciales están restringidas a:
 
-1. Cualquier consonante sola, excepto /ŋ/
-2. Una consonante oclusiva seguida de una líquida
+1. Cualquier consonante sola
+2. Oclusiva + líquida
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
+3. Fricativa + líquida
+    - fl, sl, zl, xl
+    - fr
 
 El conjunto de consonantes medias están restringidas a:
 
-1. Resonante (m, n, ŋ, l, r) + oclusiva o africada
+1. Resonante (m, n, l, r) + oclusiva o africada
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Resonante + sibilante
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
+2. Resonante + fricativa
+    - nf, nv, ns, nz, nx
+    - lf, lv, ls, ls, lx
+    - rf, rv, rs, rz, rx
 3. Sibilante + oclusiva
+    - ft, fk
     - st, sp, sk
-4. Oclusiva + consonante líquida (ver arriba)
+4. Fricativa + resonante
+    - sm, zm, xm, hm
+    - fn, sn, zn, xn, hn
+    - fl, sl, zl, xl, hl
+    - fr, hr
+5. Oclusiva + sibilante
+    - ps, bz, px
+    - ks, gz, kx
+6. Resonante + sibilante + oclusiva
+    - p. ej. lsk
+7. Resonante + oclusiva + líquida
+    - p. ej. ngl
+8. Resonante + fricativa + líquida
+    - p. ej. lfr
+9. Sibilante + oclusiva + líquida
+    - p. ej. str
+10. Oclusiva + líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
 h, l, m, n, ng, r, s, w, x, y
 
+Además, nombres de los personos, locaciónes, y conceptos culturales pueden contener
+cada conjuntos de dos o tres consonantes en el medio de una palabra que no tiene:
+
+1. Dos oclusivas, africadas, o fricativas consecutivos de voces diferentes
+    - p. ej. fg
+2. Dos sibilantes o africadas consecutivos
+    - p. ej. sc
+3. Dos consonantes idénticos consecutivos
+    - p. ej. mm

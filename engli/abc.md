@@ -45,7 +45,7 @@ As semivowels **y** is close to **i** sound and **w** is close to
 
 Semivowels **y** and **w** are always followed by a full vowel or
 a word break (when the bare word stem is used). For example:  
-**maw tena naw jiwe.** = The cat has nine lives.
+**maw tena naw hay.** = The cat has nine lives.
 
 
 ## Vowel Sounds
@@ -67,9 +67,9 @@ the duration of the vowel.
 When two vowels are next to each other, they will glide together and
 form a _diphthong_ i.e. a gliding vowel.
 
-For example **a** and **u** form a gliding vowel in the word **pauze**.
+For example **a** and **u** form a gliding vowel in the word **mais**.
 So the vowel begins in **a** and glides gradually to **u**.
-There is a similar gliding vowel in **paw**.
+There is a similar gliding vowel in **may**.
 
 
 ## Stress Accent
@@ -78,13 +78,13 @@ The stress is on the syllable, which is before the last consonant.
 
 Consider the following examples:
 
-- **maw** /máw/, beng /béng/
+- **maw** /máw/, **ding** /díng/
 - **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
      me wana loga komun bax, le si pandunia.  
     /mé wána lóga komún báx, lé sí pandúnia./
@@ -140,7 +140,7 @@ For example **:)** indicates happiness and **:(** indicates sadness.
 
 **me vida te :)**
 = I see you.  
-**me ni vida te :(**
+**me no vida te :(**
 = I don't see you.
 
 
@@ -149,32 +149,61 @@ For example **:)** indicates happiness and **:(** indicates sadness.
 The most common word structure in Pandunia is CVCV, where C is a consonant and
 V is a vowel.
 
-The heaviest possible word is CLVCCVC, where L is a liquid consonant (l or r).
-For example **kristal** is such a word.
+The heaviest possible word is CLVCCLVC, where L is a liquid consonant (l or r),
+but no such words actually exist. Some of the heaviest words in practice are
+**kristal** and **simpli**.
 
 Initial consonants are restricted to:
 
-1. Any single consonant except /ŋ/
-2. Stop + liquid
+1. Any single consonant
+2. These stop + liquid clusters
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
+3. These fricative + liquid clusters
+    - fl, sl, zl, xl
+    - fr
 
 Middle consonant clusters are restricted to:
 
-1. Resonant (m, n, ŋ, l, r) + stop or affricate
+1. These resonant (m, n, l, r) + stop or affricate clusters
     - mp, mb, nt, nd, nk, ng, nc, nj
     - lp, lb, lt, ld, lk, lg
     - rp, rb, rt, rd, rk, rg
-2. Resonant + sibilant
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
-3. Sibilant + stop
+2. These resonant + fricative clusters
+    - nf, nv, ns, nz, nx
+    - lf, lv, ls, ls, lx
+    - rf, rv, rs, rz, rx
+3. These fricative + stop clusters
+    - ft, fk
     - st, sp, sk
-4. Resonant + sibilant + stop
-    - f.ex. lsk
-5. Stop + liquid (see above)
+4. These fricative + resonant clusters
+    - sm, zm, xm, hm
+    - fn, sn, zn, xn, hn
+    - fl, sl, zl, xl, hl
+    - fr, hr
+5. These stop + sibilant clusters
+    - ps, bz, px
+    - ks, gz, kx
+6. Resonant + sibilant + stop clusters
+    - e.g. lsk
+7. Resonant + stop + liquid clusters
+    - e.g. ngl
+8. Resonant + fricative + liquid clusters
+    - e.g. lfr
+9. Sibilant + stop + liquid clusters
+    - e.g. str
+10. Stop + liquid (see above)
 
-Allowed final consonants are:  
+Allowed final consonants and clusters are:  
 h, l, m, n, ng, r, s, w, x, y
 
+In addition, any proper name of a person, place, or cultural concept, as well
+as words derived from them, may contain any two- or three-consonant cluster in
+the middle of a word so long as it does not contain:
+
+1. Two consecutive stops, affricates, or fricatives of different voicings
+    - e.g. fg
+2. Two consecutive sibilants or affricates
+    - e.g. sc
+3. Two consecutive identical consonants
+    - e.g. mm
