@@ -247,7 +247,7 @@
 |kamień|petre|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra|
 |kanoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapelusz, czapka|tope|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
-|karawana|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|karawana|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karta|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |kartka (dokument)|warke|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |kaszel; kaszlnięcie|kos|rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)|
@@ -323,7 +323,7 @@
 |kąt|gon|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|
 |lalka, kukiełka, pacynka, marionetka|pupe|fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|
 |lampa|lampe|fra:deu:lampe, eng:lamp, may:lampu|
-|larwa, czerw, gąsienica|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
+|larwa, czerw, gąsienica|larve|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |las, dżungla, zagajnik|jangal|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |latarnia|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |lato|lete|fra:l'été, rus:лето (leto), cze:léto, scr:leto|
@@ -574,7 +574,7 @@
 |program|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |projekt, planowane przedsięwzięcie|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |prorok|naber|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|prosić|plisa|eng:please|
+|prosić|pliza|eng:please|
 |prysznic|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |przeciekać, ciec|lowa|zho:漏 (lòu)|
 |przecinek|kome|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|
@@ -741,7 +741,7 @@
 |słowik|bulbul|may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol), kaz:бұлбұл (bulbul)|
 |słońce|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
-|służba|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|służba|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
 |taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|

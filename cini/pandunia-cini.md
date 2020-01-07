@@ -358,7 +358,7 @@ pin - 别针
 pir - 火  
 pira - 燃烧  
 piru - 烧  
-plisa - 请  
+pliza - 请  
 porte - 港  
 pote - 坭  
 prestogeta - 借  

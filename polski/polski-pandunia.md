@@ -724,7 +724,7 @@ Karaiby - karaibia
 karaoke - karaoke  
 karat - kirate  
 karate - karate  
-karawana - karwan  
+karawana - karvan  
 karta - karde  
 kartka (dokument) - warke  
 kasjer - kaxer  
@@ -897,7 +897,7 @@ kąt - gon
 lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lampa - lampe  
-larwa, czerw, gąsienica - larwe  
+larwa, czerw, gąsienica - larve  
 larwa, czerw, gąsienica - lasun  
 las, dżungla, zagajnik - jangal  
 latarnia - lanten  
@@ -1600,7 +1600,7 @@ promień światła - nurorade
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - manihay  
-prosić - plisa  
+prosić - pliza  
 prosty, nieskomplikowany - simpli  
 protaktyn - protacinium  
 prowadzić pojazd - xofa  
@@ -2007,9 +2007,9 @@ słowo - lekse
 słoń - gaje  
 słońce - sol  
 słuchać - ora  
-sługa - serwer  
-służba - serwe  
-służyć - serwa  
+sługa - server  
+służba - serve  
+służyć - serva  
 ##t
 tablioca, macierz - table  
 Tadżykistan - tajikia  
@@ -2373,7 +2373,7 @@ zamknąć zamkiem błyskawicznym - zipa
 zapakować, pakować - paka  
 zapisać (zarejestrować) - defta  
 zapomnieć, zapominać - bula  
-zaprosić, zapraszać - plisa laya  
+zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
 zapytać, spytać, pytać - eska  

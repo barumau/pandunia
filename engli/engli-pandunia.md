@@ -150,7 +150,7 @@ ash tree - yasen
 Asia - asia  
 Asian - asi  
 ask (inquire) - eska  
-ask (request, beg; please) - plisa  
+ask (request, beg; please) - pliza  
 asparagus - lusun  
 aspirin - aspirin  
 associate - liga  
@@ -411,7 +411,7 @@ car (cart, carriage, wagon, automobile) - kar
 car park (parking lot) - karoparke  
 carat - kirate  
 carat - kire  
-caravan (convoy) - karwan  
+caravan (convoy) - karvan  
 caraway - karawe  
 carbon (coal) - karbon  
 carbon dioxide - karbonodulokside  
@@ -1255,7 +1255,7 @@ international - nasomedi
 internet - interonete  
 interpreter (translator) - tarjer  
 interrogative - eski  
-invite - plisa laya  
+invite - pliza laya  
 iodine - iode  
 ion - ion  
 Iran - irania  
@@ -1366,7 +1366,7 @@ lantern - lanten
 lanthanum - lantan  
 Lao (Laotian) - lawi  
 Laos - lawia  
-larva (maggot, caterpillar) - larwe  
+larva (maggot, caterpillar) - larve  
 lasagna - lazanye  
 last (final) - fini  
 last (take time, during) - dura  
@@ -2325,9 +2325,9 @@ sentence (phrase) - jumle
 September - mes 9 (mes naw)  
 Serbia - serbia  
 series (sequence) - serye  
-servant - serwer  
-serve (give service) - serwa  
-service - serwe  
+servant - server  
+serve (give service) - serva  
+service - serve  
 sesame - sesam  
 seven (7) - sem  
 sew - suta  

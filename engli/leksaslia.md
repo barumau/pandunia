@@ -44,7 +44,7 @@
 |art|arte|spa:por:arte, eng:fra:art, jpn:アート (āto)|
 |ash (ashes)|huy|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
 |ask (inquire)|eska|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
-|ask (request, beg; please)|plisa|eng:please|
+|ask (request, beg; please)|pliza|eng:please|
 |Assyria|axuria|akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|
 |asthma|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |attack (assault, aggression)|agres|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
@@ -148,7 +148,7 @@
 |canoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |car (cart, carriage, wagon, automobile)|kar|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
 |carat|kire|ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|
-|caravan (convoy)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|caravan (convoy)|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |caraway|karawe|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |card|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |cash box|kaxe|deu:Kasse, rus:(kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|
@@ -494,7 +494,7 @@
 |lamp|lampe|fra:deu:lampe, eng:lamp, may:lampu|
 |language (communication)|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |lantern|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
-|larva (maggot, caterpillar)|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
+|larva (maggot, caterpillar)|larve|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |lasagna|lazanye|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
 |laugh|haha|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |law|kanun|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
@@ -797,7 +797,7 @@
 |sentence (phrase)|fraze|fra:eng:phrase, por:frase, rus:фраза (fraza)|
 |sentence (phrase)|jumle|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |series (sequence)|serye|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
-|service|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|service|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |sesame|sesam|tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim)|
 |seven (7)|sem|rus:семь (semʹ)|
 |sew|suta|hin:सीना (sīnā), rus:шить (šit'), cze:šít, eng:sew|

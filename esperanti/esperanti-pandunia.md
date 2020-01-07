@@ -579,7 +579,7 @@ interesa - interes
 interkonsento - samoray  
 internacia - nasomedi  
 interŝanĝi - badala  
-inviti - plisa laya  
+inviti - pliza laya  
 io - koy xey  
 iono - ion  
 Irakio - irakia  
@@ -649,7 +649,7 @@ kaoso (malordo) - haos
 kapro - buze  
 kapti - kapa  
 karateo - karate  
-karavano - karwan  
+karavano - karvan  
 karbona dioksido - karbonodulokside  
 karbono - karbon  
 Karibio - karaibia  
@@ -1085,7 +1085,7 @@ pentri - penta
 perlo - lul  
 persa - farsi  
 persono - ren  
-peti (bonvolu) - plisa  
+peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barometal  
 pezo - bar  

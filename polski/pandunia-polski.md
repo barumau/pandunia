@@ -979,7 +979,7 @@ karnadi - kannada
 karoparke - parking  
 karote - marchew  
 kartun - komiks; kreskówka  
-karwan - karawana  
+karvan - karawana  
 kase - wydarzenie, przypadek, sytuacja  
 kastan - kasztan  
 kastor - bóbr  
@@ -1166,7 +1166,7 @@ lanca - rzucić, rzucać, miotać, cisnąć, ciskać
 langan - poręcz (balustrada)  
 lankia - Sri Lanka  
 lanten - latarnia  
-larwe - larwa, czerw, gąsienica  
+larve - larwa, czerw, gąsienica  
 laskeria - armia  
 lasti - elastyczny  
 lasun - larwa, czerw, gąsienica  
@@ -1766,8 +1766,8 @@ platon - Platon
 platoniste - platończyk  
 platonisti - platoniczne  
 platonistia - platonizm  
-plisa - prosić  
-plisa laya - zaprosić, zapraszać  
+pliza - prosić  
+pliza laya - zaprosić, zapraszać  
 plumbe - ołów  
 plus - też, również  
 pluto - Pluton (planeta karłowata)  
@@ -2046,9 +2046,9 @@ serca - szukać
 serebre - mózg  
 seres - Ceres (planeta karłowata)  
 serpe - wąż  
-serwa - służyć  
-serwe - służba  
-serwer - sługa  
+serva - służyć  
+serve - służba  
+server - sługa  
 serye - seria, szereg  
 sesam - sezam  
 sexel nesia - Seszele  

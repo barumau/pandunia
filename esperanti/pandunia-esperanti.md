@@ -772,7 +772,7 @@ karibi - proksima
 karma - agi  
 karme - agado (karmo)  
 karote - karoto  
-karwan - karavano  
+karvan - karavano  
 kastan - kaŝtano  
 kastor - kastoro  
 kata - tranĉi  
@@ -1190,8 +1190,8 @@ pixa - pisi (urini)
 pize - pico  
 pizeria - picejo  
 platin - plateno  
-plisa - peti (bonvolu)  
-plisa laya - inviti  
+pliza - peti (bonvolu)  
+pliza laya - inviti  
 plumbe - plumbo  
 plus - ankaŭ  
 plutonium - plutonio  

@@ -239,7 +239,7 @@
 |kanootti|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kansakunta|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |kanssa (luona, -lla, -ssa)|sa|swa:na, lin:kon:na, rus:на (na)|
-|karavaani (saattue)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|karavaani (saattue)|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karhu|urse|fra:ours, por:urso, spa:oso, fas:(xers)|
 |kartta|karte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
 |kassa|kaxe|deu:Kasse, rus:(kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|
@@ -577,7 +577,7 @@
 |paljon (monta)|pol|ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)|
 |pallo|bol|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |palmu|palme|deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|
-|palvelu (palvelus)|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|palvelu (palvelus)|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |palvonta|puje|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
 |pankki|banke|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
 |pannu (paistinpannu)|tawe|hin:तवा (tavā), tur:tava, fas:(tābe)|
@@ -656,7 +656,7 @@
 |pyssy|bunduke|ara:(bunduqiyya), hin:बंदूक (bandūk), swa:bunduki|
 |pysähdys|ting|zho:停 (tíng), yue:停 (ting4)|
 |pyyhe|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
-|pyytää|plisa|eng:please|
+|pyytää|pliza|eng:please|
 |pyöriä|rotu|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |pyörä (polkupyörä, moottoripyörä)|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
 |päivämäärä|nenomesoden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
@@ -862,7 +862,7 @@
 |torni|minar|swa: mnara, tur: minare, + eng:minaret|
 |torvi (torvisoitin)|buge|eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|
 |tosi (aito)|veri|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
-|toukka|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
+|toukka|larve|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |trendi|faxon|eng:fashion, hin:फैशन (faiśan), jpn:ファッション (fasshon), kor:패션 (pæsyeon), tha:แฟชั่น (feechan), ben:ফ্যাশন (phaśôn)|
 |tuhka|huy|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
 |tulehdus|itis |eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|

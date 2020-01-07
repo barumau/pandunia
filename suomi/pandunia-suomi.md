@@ -1134,7 +1134,7 @@ karte - kartta
 kartografia - kartogratia  
 kartuelia - Georgia  
 kartun - sarjakuva  
-karwan - karavaani (saattue)  
+karvan - karavaani (saattue)  
 kase - tapaus (seikka)  
 kastan - kastanja  
 kastor - majava  
@@ -1334,7 +1334,7 @@ langan - kaide (reelinki)
 lankia - Sri Lanka  
 lantan - lantaani  
 lanten - lyhty  
-larwe - toukka  
+larve - toukka  
 lasker - sotilas  
 laskeria - armeija (sotajoukko)  
 lasti - joustava (elastinen)  
@@ -2011,8 +2011,8 @@ platon - Platon
 platoniste - platonisti  
 platonisti - platoninen  
 platonistia - platonismi  
-plisa - pyytää  
-plisa laya - pyytää tulemaan  
+pliza - pyytää  
+pliza laya - pyytää tulemaan  
 plumbe - lyijy  
 plus - myös (lisäksi, plus)  
 pluto - Pluto (kääpiöplaneetta)  
@@ -2295,9 +2295,9 @@ serbia - Serbia
 serebre - aivot  
 seres - Ceres  
 serpe - käärme  
-serwa - palvella (tarjoilla)  
-serwe - palvelu (palvelus)  
-serwer - palvelija (tarjoilija)  
+serva - palvella (tarjoilla)  
+serve - palvelu (palvelus)  
+server - palvelija (tarjoilija)  
 serye - sarja  
 sesam - seesami  
 sexel nesia - Seychellit  

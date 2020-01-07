@@ -764,7 +764,7 @@ kapteeni - kapitan
 karaatti - kirate  
 karaoke - karaoke  
 karate - karate  
-karavaani (saattue) - karwan  
+karavaani (saattue) - karvan  
 karhu - urse  
 Karibia - karaibia  
 Karnataka (Intian osavaltio) - karnadia  
@@ -1670,9 +1670,9 @@ palladium - paladium
 pallo - bol  
 palmu - palme  
 paluu - retre  
-palvelija (tarjoilija) - serwer  
-palvella (tarjoilla) - serwa  
-palvelu (palvelus) - serwe  
+palvelija (tarjoilija) - server  
+palvella (tarjoilla) - serva  
+palvelu (palvelus) - serve  
 palvoa - puja  
 palvonta - puje  
 panaasialainen - panasi  
@@ -1882,8 +1882,8 @@ pysähdys - ting
 pysähtyä - tingu  
 pysäyttää - tinga  
 pyyhe - towal  
-pyytää - plisa  
-pyytää tulemaan - plisa laya  
+pyytää - pliza  
+pyytää tulemaan - pliza laya  
 pyöreä - cirki  
 pyörittää - rota  
 pyöriä - rotu  
@@ -2412,7 +2412,7 @@ torni - minar
 torstai - war 4 (war car)  
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
-toukka - larwe  
+toukka - larve  
 toukokuu - mes 5 (mes lim)  
 Transdnistria - nistria  
 trendi - faxon  

@@ -1168,7 +1168,7 @@ karte - map (chart)
 kartografia - cartography  
 kartuelia - Georgia (Republic of Georgia)  
 kartun - comic (cartoon)  
-karwan - caravan (convoy)  
+karvan - caravan (convoy)  
 kase - event (case, instance)  
 kastan - chestnut  
 kastor - beaver  
@@ -1382,7 +1382,7 @@ langan - banister (handrail)
 lankia - Sri Lanka (Ceylon)  
 lantan - lanthanum  
 lanten - lantern  
-larwe - larva (maggot, caterpillar)  
+larve - larva (maggot, caterpillar)  
 lasker - soldier  
 laskeria - army  
 lasti - elastic  
@@ -2083,8 +2083,8 @@ platon - Plato
 platoniste - Platonist  
 platonisti - Platonic  
 platonistia - Platonism  
-plisa - ask (request, beg; please)  
-plisa laya - invite  
+pliza - ask (request, beg; please)  
+pliza laya - invite  
 plumbe - lead  
 plus - also (plus, too)  
 pluto - Pluto (dwarf planet)  
@@ -2398,9 +2398,9 @@ serca - search
 serebre - brain  
 seres - Ceres (dwarf planet)  
 serpe - snake (serpent)  
-serwa - serve (give service)  
-serwe - service  
-serwer - servant  
+serva - serve (give service)  
+serve - service  
+server - servant  
 serye - series (sequence)  
 sesam - sesame  
 sexel nesia - Seychelles  

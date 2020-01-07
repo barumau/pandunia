@@ -268,7 +268,7 @@
 |kanuo (kanoto)|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapro|buze|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|
 |kapti|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
-|karavano|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|karavano|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karto|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |karvio|karawe|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |kastoro|kastor|fra:por:spa:castor, tgl:tur:kastor|
@@ -474,7 +474,7 @@
 |pentri|penta|eng:paint, fra:peintre|
 |perlo|lul|amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|
 |persono|ren|zho: 人 (rén)|
-|peti (bonvolu)|plisa|eng:please|
+|peti (bonvolu)|pliza|eng:please|
 |peza|bari|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |pezo|bar|ell:βάρος (báros), hin:भार (bhār), tel:భారము (bhāramu), may:may:berat|
 |pico|pize|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
