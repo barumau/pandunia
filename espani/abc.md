@@ -156,8 +156,8 @@ El conjunto de consonantes medias están restringidas a:
 
 1. Resonante (m, n, l, r) + oclusiva o africada
     - mp, mb, nt, nd, nk, ng, nc, nj
-    - lp, lb, lt, ld, lk, lg
-    - rp, rb, rt, rd, rk, rg
+    - lp, lb, lt, ld, lk, lg, lc, lj
+    - rp, rb, rt, rd, rk, rg, rc, rj
 2. Resonante + fricativa
     - nf, nv, ns, nz, nx
     - lf, lv, ls, ls, lx
@@ -173,15 +173,19 @@ El conjunto de consonantes medias están restringidas a:
 5. Oclusiva + sibilante
     - ps, bz, px
     - ks, gz, kx
-6. Resonante + sibilante + oclusiva
+6. Resonante + resonante o semivocal
+    - ml, ny
+    - lm, ln, ly
+    - rm, rn, ry
+7. Resonante + sibilante + oclusiva
     - p. ej. lsk
-7. Resonante + oclusiva + líquida
+8. Resonante + oclusiva + líquida
     - p. ej. ngl
-8. Resonante + fricativa + líquida
+9. Resonante + fricativa + líquida
     - p. ej. lfr
-9. Sibilante + oclusiva + líquida
+10. Sibilante + oclusiva + líquida
     - p. ej. str
-10. Oclusiva + líquida (ver arriba)
+11. Oclusiva + líquida (ver arriba)
 
 Las consonantes finales permitidas son:  
 h, l, m, n, ng, r, s, w, x, y

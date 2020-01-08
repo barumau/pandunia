@@ -167,8 +167,8 @@ Middle consonant clusters are restricted to:
 
 1. These resonant (m, n, l, r) + stop or affricate clusters
     - mp, mb, nt, nd, nk, ng, nc, nj
-    - lp, lb, lt, ld, lk, lg
-    - rp, rb, rt, rd, rk, rg
+    - lp, lb, lt, ld, lk, lg, lc, lj
+    - rp, rb, rt, rd, rk, rg, rc, rj
 2. These resonant + fricative clusters
     - nf, nv, ns, nz, nx
     - lf, lv, ls, ls, lx
@@ -184,15 +184,19 @@ Middle consonant clusters are restricted to:
 5. These stop + sibilant clusters
     - ps, bz, px
     - ks, gz, kx
-6. Resonant + sibilant + stop clusters
+6. These resonant + resonant or semivowel clusters
+    - ml, ny
+    - lm, ln, ly
+    - rm, rn, ry
+7. Resonant + sibilant + stop clusters
     - e.g. lsk
-7. Resonant + stop + liquid clusters
+8. Resonant + stop + liquid clusters
     - e.g. ngl
-8. Resonant + fricative + liquid clusters
+9. Resonant + fricative + liquid clusters
     - e.g. lfr
-9. Sibilant + stop + liquid clusters
+10. Sibilant + stop + liquid clusters
     - e.g. str
-10. Stop + liquid (see above)
+11. Stop + liquid (see above)
 
 Allowed final consonants and clusters are:  
 h, l, m, n, ng, r, s, w, x, y

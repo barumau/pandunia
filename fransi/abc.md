@@ -127,8 +127,8 @@ Les groupes de consonnes centrales sont limitées à:
 
 1. Sonante (m, n, l, r) + occlusive or affriquée
     - mp, mb, nt, nd, nk, ng, nc, nj
-    - lp, lb, lt, ld, lk, lg
-    - rp, rb, rt, rd, rk, rg
+    - lp, lb, lt, ld, lk, lg, lc, lj
+    - rp, rb, rt, rd, rk, rg, rc, rj
 2. Sonante + fricative
     - nf, nv, ns, nz, nx
     - lf, lv, ls, ls, lx
@@ -144,15 +144,19 @@ Les groupes de consonnes centrales sont limitées à:
 5. Occlusive + sibilante
     - ps, bz, px
     - ks, gz, kx
-6. Sonante + sibilante + occlusive
+6. Resonante + resonante or semi-voyelle
+    - ml, ny
+    - lm, ln, ly
+    - rm, rn, ry
+7. Sonante + sibilante + occlusive
     - par ex. lsk
-7. Sonante + occlusive + liquide
+8. Sonante + occlusive + liquide
     - par ex. ngl
-8. Sonante + fricative + liquide
+9. Sonante + fricative + liquide
     - par ex. lfr
-9. Silibante + occlusive + liquide
+10. Silibante + occlusive + liquide
     - par ex. str
-10. Occlusive + liquide (voir ci-dessus)
+11. Occlusive + liquide (voir ci-dessus)
 
 Les consonnes finales autorisées sont:
 h, l, m, n, ng, r, s, w, x, y
