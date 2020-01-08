@@ -33,6 +33,7 @@ amour (affection) - am
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - ameriki  
+amérindien (indien) - aslameriki  
 Amérique - amerike  
 analyse - analis  
 analyser - analisa  
@@ -111,6 +112,7 @@ blanc - baki
 blue - nili  
 bombe - bombe  
 bon - bon  
+bord (rive) - tate  
 botanique - fitolojia  
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
@@ -169,6 +171,7 @@ cube - kube
 cuiller - camace  
 cycliste - sikliste  
 cytologie - selolojia  
+côte - samudotate  
 côté - late  
 ##d
 dance - danse  
@@ -180,6 +183,7 @@ dieu - dew
 dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
 disque - diske  
+divers (plusieurs) - balibali  
 document (dossier) - dokum  
 domestique - domi  
 dommage - damaje  
@@ -193,14 +197,17 @@ dur - gati
 ##e
 eau - suy  
 Einsteinium - ainstainium  
+empruntre - prestogeta  
 enfant - bace  
 envelopper (emballer) - lifafa  
 erroné - galti  
+espace - kali harfe  
 et - e  
 Europe - europe  
 européen - europi  
 ##f
 face (facette) - fase  
+faible - debili  
 faire - fata  
 faute (erreur) - galte  
 favori (préféré) - favori  
@@ -228,6 +235,7 @@ genre (espèc) - jinse
 gingembre - zinje  
 giraffe - jiraf  
 goule - gul  
+gouvernement - governe  
 groupe - grupe  
 guitare - gitar  
 génotype - jenotipe  
@@ -240,6 +248,7 @@ hiver - zime
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aisohoke  
+horloge - reloje  
 hourra - ura  
 humanisme - insanistia  
 humeur - gamohal  
@@ -250,6 +259,7 @@ imperméable - barxokote
 important - hami  
 inflammation - itis   
 insecte - koncung  
+international - nasomedi  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -262,12 +272,16 @@ justice - adalia
 Jésus - yesus  
 ##k
 ##l
+lac - lage  
+laisser - laxa  
 lait - milke  
 laitue - letis  
+Lance-roquettes - roketolancer  
 langue - bax  
 lapin (lièvre) - tuze  
 lasagne - lazanye  
 latéral - lati  
+lent - lenti  
 Lettonie - latovia  
 lexical - leksi  
 libellule - libel  
@@ -306,14 +320,18 @@ miel - mel
 migration - migre  
 mode (façon, manière) - mode  
 mois - mes  
+mole (unité) - mol  
 monde - dunia  
 monnaie (pièce) - pesodiske  
 mot - lekse  
 mouche - zeze  
+mouiller - biga  
+mouillé - bigi  
 moulin - molia  
 mur - wal  
 mât - maste  
 mère (maman) - mame  
+méduse - samudojel  
 mémoire - mem  
 méninge - mening  
 ##n
@@ -339,6 +357,7 @@ oiseau - pakse
 ombrelle (parasol) - solocate  
 onde - onde  
 opposant (antagoniste) - anter  
+option - cuzable  
 or - aur  
 orange (couleur) - oranji  
 orange (fruit) - oranje  
@@ -374,12 +393,13 @@ pathologie - patolojia
 pause - pauze  
 perdant - luzer  
 pere (papa) - pape  
+perplexe (désorienté) - konfusi  
 perroquet - papagay  
 pet (vesse) - pede  
 petit - lil  
 peu - xaw  
 peut-être - ablo  
-philosophie - filsofia  
+philosophie - filosofia  
 photographie - fotografia  
 pile (batterie) - batre  
 piquenique - wayoniam  
@@ -401,8 +421,11 @@ preuve - dalil
 problème - problem  
 problématique - problemi  
 programme - program  
+projection - lancograf  
 projet - projete  
+projeter (donner) - lancografa  
 propriété (possession, bien) - malke  
+prêter - presta  
 psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
@@ -430,15 +453,18 @@ ruban (bande) - tepe
 rôtir - rosta  
 s'installer (déménager) - migru  
 ##s
-saber (conocer) - jana  
 sac - sake  
+sain - sihati  
 salle de bains - banyokamar  
 salut (salam) - salame  
-sandwich - sanwice  
+sandwich - sanduice  
 sang - sang  
+santé - sihate  
 Satan - xatan  
+Saturne - saturne  
 sauce - sos  
 saucisse - sosis  
+savoir (connaître) - jana  
 sculpteur - eskulter  
 se baigner - banyu  
 se rappeler (se remémorer) - mema  
@@ -486,7 +512,7 @@ tu - te
 Tunisie - tunisia  
 turban - pagre  
 téléphone - telofon  
-téléviseur - telvide  
+téléviseur - telovide  
 tête - sar  
 ##u
 unité fondamentale - em  

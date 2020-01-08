@@ -6,6 +6,7 @@
 -o (-aĵo) - -e  
 ##a
 abelo aŭ vespo - vespe  
+aborigeno - aslaustrali  
 acida - suan  
 adjektivo - sifolekse  
 adreso - adres  
@@ -366,7 +367,7 @@ facila - izi
 fajna - fain  
 fajra - piri  
 fajro - pir  
-familinomo - familnam  
+familinomo - familonam  
 familio - famil  
 fantaci - fantaza  
 fantazia - fantazi  
@@ -393,9 +394,9 @@ fiksi - fiksa
 filino - femi bace  
 Filipinoj - filipinia  
 filmo - filme  
-filozofia - filsofi  
-filozofio - filsofia  
-filozofo - filsofer  
+filozofia - filosofi  
+filozofio - filosofia  
+filozofo - filosofer  
 filtri - filter  
 fingro - finge  
 fini - fina  
@@ -425,7 +426,6 @@ forno - tanur
 forta - forti  
 forto - fortia  
 forumo - forum  
-fosforo - fosfor  
 fosforo - pospor  
 fosi - kava  
 foso - kave  
@@ -436,7 +436,7 @@ fotografio - fotografia
 Francio - fransia  
 franciumo - fransium  
 frato aŭ fratino - saudar  
-fremda lando - way dexia  
+fremda lando - wayodexia  
 freneza - foli  
 frenezeco - folia  
 freŝa - tazi  
@@ -462,7 +462,7 @@ gardisto - garder
 gaso - gas  
 gazelo - gazel  
 gazeto (revuo) - baw  
-gazeto - habarbaw  
+gazeto - habarobaw  
 gazo - gaze  
 geedzeco - maria  
 generala (universala) - putong  
@@ -522,6 +522,7 @@ hazarda - zari
 hazardo - zar  
 haŭto - pil  
 Hebrea - ibri  
+heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmo (loĝejo) - dom  
 helio - helium  
@@ -551,6 +552,7 @@ homo - insan
 Honduro - hondurasia  
 honoro (respekto) - onor  
 honto - xarme  
+horloĝo - reloje  
 hormono - hormon  
 horo - hor  
 hotelo - hotel  
@@ -575,8 +577,9 @@ instruisto - darsogur
 insulto - ninde  
 interesa - interes  
 interkonsento - samoray  
+internacia - nasomedi  
 interŝanĝi - badala  
-inviti - plisa laya  
+inviti - pliza laya  
 io - koy xey  
 iono - ion  
 Irakio - irakia  
@@ -646,7 +649,7 @@ kaoso (malordo) - haos
 kapro - buze  
 kapti - kapa  
 karateo - karate  
-karavano - karwan  
+karavano - karvan  
 karbona dioksido - karbonodulokside  
 karbono - karbon  
 Karibio - karaibia  
@@ -854,6 +857,7 @@ malplena - kali
 malpli - min  
 malproksima - teli  
 malproksimeco - tele  
+malrapida - lenti  
 malsana - pati  
 malsukceso - xibay  
 maltro - min ko bas  
@@ -1081,7 +1085,7 @@ pentri - penta
 perlo - lul  
 persa - farsi  
 persono - ren  
-peti (bonvolu) - plisa  
+peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barometal  
 pezo - bar  
@@ -1153,6 +1157,8 @@ produkti (fabriki) - sana
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
+projektio (diakuva) - lancograf  
+projektori (videotykki, piirtoheitin) - lancografer  
 proksima - karibi  
 promeni (marŝi) - marca  
 promesi - wada  
@@ -1255,6 +1261,7 @@ samopinii (interkonsenti) - samoraya
 samseksema - aloseksi  
 samseksema - gey  
 samseksema - samojinsokami  
+sana - sihati  
 sangi - lowa sang  
 sango - sang  
 sanigi (kuraci) - medika  
@@ -1264,6 +1271,7 @@ saĝa - sofi
 saŭco - sos  
 saŭno - saune  
 scienco - lojia  
+scii (koni) - jana  
 scio - jan  
 sciteorio (epistemologio) - janolojia  
 sciuro - tupay  
@@ -1331,7 +1339,7 @@ stiri - gida
 stranga - bizari  
 stroncio - estrontium  
 studento (lernanto) - darser  
-substantivo - namlekse  
+substantivo - namolekse  
 Sudkoreio - sudi cosenia  
 sudo - sude  
 sufiĉa - bas  
@@ -1373,15 +1381,15 @@ tekniko - tehne
 teknologio - tehnolojia  
 tekto - cate  
 telefono - telofon  
-televidilo - telvide  
+televidilo - telovide  
 teluro - telurium  
 temo - teme  
 tendo - haime  
 teneso - tenesin  
 teniso - tenis  
 teo - cay  
-teokratio - dewkratia  
-teologio - dewlojia  
+teokratio - dewokratia  
+teologio - dewolojia  
 teorio - teoria  
 tera - duni  
 terbio - terbium  
@@ -1395,7 +1403,6 @@ tertremo - sisme
 testo - teste  
 Tibeto - podia  
 tie - sa ye  
-tietää (tuntea) - jana  
 tigro - bagre  
 timo (fobio) - fobia  
 tio estas (alivorte) - alonami  
@@ -1410,7 +1417,7 @@ tombo - gabre
 tondilo - makas  
 tondro - grom  
 tono - ton  
-torako - sinkase  
+torako - sinokase  
 torio - torium  
 torso - torse  
 torto - pay  

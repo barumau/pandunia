@@ -164,7 +164,7 @@
 |fajka|pipe|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |fascynacja|fasin|eng:fascination, spa:fascinación, deu:Faszination|
 |fałszywy, nieprawdziwy|falsi|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|filozofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filozofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |fiord|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |firma, kompania, korporacja|kompania|eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|
 |flaga, sztandar|bandir|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
@@ -247,7 +247,7 @@
 |kamień|petre|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra|
 |kanoe|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kapelusz, czapka|tope|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
-|karawana|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|karawana|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karta|karde|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |kartka (dokument)|warke|ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|
 |kaszel; kaszlnięcie|kos|rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)|
@@ -323,7 +323,7 @@
 |kąt|gon|hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana|
 |lalka, kukiełka, pacynka, marionetka|pupe|fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|
 |lampa|lampe|fra:deu:lampe, eng:lamp, may:lampu|
-|larwa, czerw, gąsienica|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
+|larwa, czerw, gąsienica|larve|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |las, dżungla, zagajnik|jangal|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |latarnia|lanten|eng:lantern, hin:लालटेन (lālṭen), jpn:ランタン (rantan), kor:랜턴 (raenteon), + zho:灯笼 (dēnglóng), vie:đèn lồng, may:tanglung|
 |lato|lete|fra:l'été, rus:лето (leto), cze:léto, scr:leto|
@@ -574,7 +574,7 @@
 |program|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |projekt, planowane przedsięwzięcie|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |prorok|naber|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|prosić|plisa|eng:please|
+|prosić|pliza|eng:please|
 |prysznic|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |przeciekać, ciec|lowa|zho:漏 (lòu)|
 |przecinek|kome|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|
@@ -647,7 +647,7 @@
 |rytuał, ceremonia, ryt|rite|eng:fra:rite, spa:por:rito, ben:রীতি (rīti), hin:urd:(rīti)|
 |ryzyko|riske|fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|
 |ryż|arize|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, oro:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
-|rzeczownik|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|rzeczownik|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |rzecz|xey|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |rzeka|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |rzemieślnik|janger|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
@@ -741,7 +741,7 @@
 |słowik|bulbul|may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol), kaz:бұлбұл (bulbul)|
 |słońce|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
-|służba|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|służba|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
 |taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
@@ -868,7 +868,7 @@
 |zabroniony (wzbroniony, nielegalny, haram, tabu)|haram|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |zachowanie (maniery, kultura)|manir|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren, scr:manir|
 |zachować, zakonserwować, zachować, utrzymać|hafiza|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|
-|zagraniczny|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
+|zagraniczny|wayodexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |zagrożenie, niebezpieczeństwo|hatar|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |zajęty|bizi|eng:busy|
 |zamek błyskawiczny|ziper|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
@@ -896,7 +896,7 @@
 |zima|zime|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
 |zimny, chłodny|lengi|zho: 冷 (lěng), vie: lạnh, yue:冷 (laang5)|
 |zmienić, zmieniać|muta|spa:mudar, eng:mutate, fra:muter|
-|znaczenie|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|znaczenie|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |znak, trop|marke|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |zombie, zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zostawić, zostawiać|xuxe|zho:休息 (xiūxí), kor:휴식 (hyusig)|

@@ -94,7 +94,7 @@
 |etelä|sude|spa:sur, por:sul, fra:sud|
 |etikka|sirke|tur:sirke, fas:(serke), hin:सिरका (sirkā), pnb:ਸਿਰਕਾ (sirkā)|
 |fani (-fiili)|filer|eng:fra:-phile, por:spa:-filo|
-|filosofia|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|filosofia|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |gaselli|gazel|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
 |guru (opettaja)|gur|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |hallinto (hallinnointi)|nomia|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
@@ -122,6 +122,7 @@
 |henkilö|ren|zho: 人 (rén)|
 |hetki (kotva)|sate|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa, lin:sâ, som:saacad, scr:sat|
 |hevonen|gude|may:kuda, kan:ಕುದುರೆ (kudure), tam:குதிரை (kutirai), tel:గుర్రము (gurramu), hin:घोड़ा (ghoṛā), urd:(ghoṛā), ben:ঘোড়া (ghoṛa), pnb:ਘੋੜਾ (ghōṛā)|
+|hidas|lenti|fra:lent, spa:por:lento|
 |hiekka|rege|fas:(rig), hin:रेग (reg), urd:(reg)|
 |hiiri|mux|pol:mysz, rus:мышь (myś), fas:(muš)|
 |hiiva|hamir|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
@@ -212,6 +213,7 @@
 |jyrinä (ukkonen)|grom|rus:гром (grom), pol:grom|
 |jyvä (luoti)|dan|hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |jänis|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
+|jättää (hylätä)|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |jäännös (loput)|reste|fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|
 |jäätelö|aisokrem|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), urd:(āisakrīm), ben:আইসক্রীম (aisôkrīm), tha:ไอศกรีม (ai-sà-griim), may:es krim, swa:aiskrimu, tam:ஐஸ் கிரீம் (ais kirīm), tel:(ais krīm)|
 |jää|ais|eng:ice, deu:Eis, may:és|
@@ -237,7 +239,7 @@
 |kanootti|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kansakunta|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |kanssa (luona, -lla, -ssa)|sa|swa:na, lin:kon:na, rus:на (na)|
-|karavaani (saattue)|karwan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
+|karavaani (saattue)|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karhu|urse|fra:ours, por:urso, spa:oso, fas:(xers)|
 |kartta|karte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
 |kassa|kaxe|deu:Kasse, rus:(kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|
@@ -458,7 +460,7 @@
 |mekko (tunika)|tunike|spa:túnica, eng:tunic, rus:туника (tunika)|
 |menneisyys|pase|eng:past, spa:pasado, por:passado, fra: passé|
 |meri|samude|khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|
-|merkitys|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manao, eng:meaning, deu:Meinung|
+|merkitys|mene|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |merkki (jälki)|marke|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
 |mestari (asiantuntija)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |meteli|kelele|swa:kon:makelele|
@@ -575,7 +577,7 @@
 |paljon (monta)|pol|ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)|
 |pallo|bol|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |palmu|palme|deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|
-|palvelu (palvelus)|serwe|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|palvelu (palvelus)|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |palvonta|puje|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|
 |pankki|banke|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
 |pannu (paistinpannu)|tawe|hin:तवा (tavā), tur:tava, fas:(tābe)|
@@ -654,7 +656,7 @@
 |pyssy|bunduke|ara:(bunduqiyya), hin:बंदूक (bandūk), swa:bunduki|
 |pysähdys|ting|zho:停 (tíng), yue:停 (ting4)|
 |pyyhe|towal|eng:towel, spa:toalla, por:toalha, hin:तौलिया (tauliyā), ben:তোয়ালে (toyale), tgl:tuwalya, jpn:タオル (taoru)|
-|pyytää|plisa|eng:please|
+|pyytää|pliza|eng:please|
 |pyöriä|rotu|eng:rotate, deu:rotieren, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|
 |pyörä (polkupyörä, moottoripyörä)|sikle|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
 |päivämäärä|nenomesoden|zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)|
@@ -768,7 +770,7 @@
 |sotilas|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
 |sovellus|aplike|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |stadioni (areena)|estadia|fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|
-|substantiivi (nimisana)|namlekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|substantiivi (nimisana)|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |suhde (yhteys)|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |suihku|dux|fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|
 |sukka|soke|deu:Socke, eng:sock, swa:soksi, zul:isokisi, jpn:ソックス (sokkusu), rus:носок (nosok)|
@@ -836,6 +838,7 @@
 |tekniikka (keino, menetelmä)|tehne|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |teltta|haime|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |tervehdys (terve!)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
+|terveys|sihate|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |tiede (tutkimus)|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
 |tieto (tietämys)|jan|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
 |tie|daw|zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|
@@ -859,7 +862,7 @@
 |torni|minar|swa: mnara, tur: minare, + eng:minaret|
 |torvi (torvisoitin)|buge|eng:bugle, ara:(būq), fas:(buq), kat:ბუკი (buḳi)|
 |tosi (aito)|veri|eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|
-|toukka|larwe|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
+|toukka|larve|deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa|
 |trendi|faxon|eng:fashion, hin:फैशन (faiśan), jpn:ファッション (fasshon), kor:패션 (pæsyeon), tha:แฟชั่น (feechan), ben:ফ্যাশন (phaśôn)|
 |tuhka|huy|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
 |tulehdus|itis |eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
@@ -891,7 +894,7 @@
 |täysi|ful|eng:full, deu:voll|
 |täytetty pulla|mante|tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|
 |täytyä (olla pakko)|bixu|zho:必须 (bìxū)|
-|ulkomaalainen|way dexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
+|ulkomaalainen|wayodexi|hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|
 |ulkopuoli|waye|zho:外 (wài)|
 |uloste (kakka)|kake|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |umami (ruokaisanmakuinen)|umami|jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|
@@ -967,7 +970,7 @@
 |virus|virus|eng:virus, rus:вирус (virus)|
 |viuhka (tuuletin)|panke|hin:पंखा (paṅkhā), urd:(pankhā), mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha|
 |voida (osata, pystyä)|abla|eng:able, spa:hábil, fra:habile, ron:abil|
-|voileipä|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
+|voileipä|sanduice|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |voimakas (vahva)|forti|fra:fort, spa:fuerte, por:forte, eng:force|
 |voipuu|karite|wol:kaarite, jul:karite, fra:spa:karité, pul:kaare, ful:kareje, hau:kaɗanya|
 |voitto|win|eng:win, deu:gewinnen|

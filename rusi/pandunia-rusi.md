@@ -38,6 +38,7 @@ arize - рис
 arte - искусство  
 artiste - художник (артист)  
 asan - поза  
+aslameriki - инде́йский  
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
@@ -126,7 +127,7 @@ ewanjil - евангелие
 ##f
 fase - грань  
 favori - любимый  
-filsofia - философия  
+filosofia - философия  
 fiorde - фьорд  
 firuze - бирюза  
 fitolojia - ботаника  
@@ -178,6 +179,7 @@ iode - йод
 itis  - воспаление  
 ive - тенденция  
 ##j
+jana - знать  
 je - который  
 jenotipe - генотип  
 jinse - род  
@@ -291,6 +293,7 @@ mome - мы
 ##n
 nade - река  
 nasia - нация  
+nasomedi - междунаро́дный  
 nefre - почка  
 neurosel - нейрон  
 nida - нуждаться  
@@ -357,6 +360,7 @@ rim - рифма
 ritim - ритм (такт)  
 rize - корень  
 robote - робот  
+roketolancer - ракетная установка  
 rose - роса  
 roze - роза  
 ruhe - душа (дух)  
@@ -370,8 +374,9 @@ saman - небо
 samoray - согласие  
 samude - море  
 samudi - морской  
+sanduice - сандвич  
+sanduke - сундук  
 sang - кровь  
-sanwice - сандвич  
 sapate - حِذَاء  
 sar - голова  
 sekse - пол  
@@ -406,7 +411,7 @@ te - ты
 tehne - техника  
 tehnolojia - технология  
 telofon - телефон  
-telvide - телевизор  
+telovide - телевизор  
 teme - тема  
 tena - иметь  
 tenke - погода  

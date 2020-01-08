@@ -88,6 +88,7 @@ asan - posteno
 asi - azia  
 asia - Azio  
 askete - ascetiko  
+aslaustrali - aborigeno  
 asle - origino  
 asli - origina  
 asme - astmo  
@@ -333,8 +334,8 @@ detal - detalo
 dew - dio  
 dewi - dia  
 dewi sage - mito  
-dewkratia - teokratio  
-dewlojia - teologio  
+dewokratia - teokratio  
+dewolojia - teologio  
 dex - lando  
 dike - celo  
 din - religio  
@@ -425,7 +426,7 @@ faidi - utila
 fain - fajna  
 fajan - disvolvi  
 famil - familio  
-familnam - familinomo  
+familonam - familinomo  
 fan - amuzo  
 fana - amuzi  
 fani - amuza  
@@ -461,9 +462,9 @@ fikre - penso
 fiksa - fiksi  
 filipinia - Filipinoj  
 filme - filmo  
-filsofer - filozofo  
-filsofi - filozofia  
-filsofia - filozofio  
+filosofer - filozofo  
+filosofi - filozofia  
+filosofia - filozofio  
 filter - filtri  
 fin - fino  
 fina - fini  
@@ -491,7 +492,6 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum - forumo  
-fosfor - fosforo  
 fotograf - foto  
 fotografer - fotisto  
 fotografia - fotografio  
@@ -585,7 +585,7 @@ gute - genuo
 guy - ogro (trolo)  
 ##h
 habar - novaĵoj  
-habarbaw - gazeto  
+habarobaw - gazeto  
 hafnium - hafnio  
 haha - ridi  
 haida - ni faru...  
@@ -698,7 +698,7 @@ jami - kolekta
 jampa - salti  
 jamula - disigi  
 jan - scio  
-jana - tietää (tuntea)  
+jana - scii (koni)  
 janel - fenestro  
 jangal - arbaro  
 janger - metiisto  
@@ -772,7 +772,7 @@ karibi - proksima
 karma - agi  
 karme - agado (karmo)  
 karote - karoto  
-karwan - karavano  
+karvan - karavano  
 kastan - kaŝtano  
 kastor - kastoro  
 kata - tranĉi  
@@ -876,6 +876,9 @@ laje - rubo
 lala - kuŝi  
 lampe - lampo  
 lanca - ĵeti (lanĉi)  
+lancograf - projektio (diakuva)  
+lancografa - heijastaa kuvia (projisoida)  
+lancografer - projektori (videotykki, piirtoheitin)  
 lanten - lanterno  
 lasker - soldato  
 laskeria - armeo  
@@ -891,6 +894,7 @@ lekse - vorto
 leksia - vortaro  
 leksoliste - vortaro  
 lengi - malvarma  
+lenti - malrapida  
 lenxa - ekzerci  
 lenxe - ekzerco  
 lete - somero  
@@ -1058,8 +1062,9 @@ nagri - urba
 naijiria - Niĝerio  
 nam - nomo  
 namibia - Namibio  
-namlekse - substantivo  
+namolekse - substantivo  
 nanas - ananaso  
+nasomedi - internacia  
 natre - natrio  
 nawati - naūatla  
 nefre - reno  
@@ -1185,8 +1190,8 @@ pixa - pisi (urini)
 pize - pico  
 pizeria - picejo  
 platin - plateno  
-plisa - peti (bonvolu)  
-plisa laya - inviti  
+pliza - peti (bonvolu)  
+pliza laya - inviti  
 plumbe - plumbo  
 plus - ankaŭ  
 plutonium - plutonio  
@@ -1242,6 +1247,7 @@ raya - opinii
 redi - preta  
 rege - sablo  
 registan - dezerto  
+reloje - horloĝo  
 ren - persono  
 rengenium - rentgenio  
 renium - renio  
@@ -1339,13 +1345,14 @@ serye - serio
 si - jes  
 sida - sidi  
 sifolekse - adjektivo  
+sihati - sana  
 sikliste - biciklisto  
 silike - silicio  
 simpli - simpla  
 sine - brusto  
 sing - leono  
 singapur - Singapuro  
-sinkase - torako  
+sinokase - torako  
 sirke - vinagro  
 sisme - tertremo  
 sismolojia - sismologio  
@@ -1414,8 +1421,8 @@ tehnolojia - teknologio
 tele - malproksimeco  
 teli - malproksima  
 telofon - telefono  
+telovide - televidilo  
 telurium - teluro  
-telvide - televidilo  
 tema - esti pri; pridiskuti  
 teme - temo  
 tena - havi (teni)  
@@ -1501,8 +1508,8 @@ waw - ŭaŭ!
 waxa - lavi  
 waxomaxin - lavmaŝino  
 way - ekstera  
-way dexia - fremda lando  
 waye - ekstero  
+wayodexia - fremda lando  
 we - tiu  
 werke - laboro  
 werker - laboristo  

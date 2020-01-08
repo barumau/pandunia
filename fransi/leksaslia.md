@@ -107,6 +107,7 @@
 |dieu|dew|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|
 |dirigeant (leader)|lider|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
 |disque|diske|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
+|divers (plusieurs)|balibali|eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|
 |document (dossier)|dokum|eng:fra:document, rus:документ (dokument)|
 |dommage|damaje|eng:damage, fra:dommage|
 |données|date|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
@@ -118,6 +119,7 @@
 |enfant|bace|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |et|e|fra:et, por:e, zho:和 (hé)|
 |face (facette)|fase|eng:fra:por:face, spa:faz, deu:Facette|
+|faible|debili|eng:debilitated, spa:por:débil, hin:दुर्बल, ben:দুর্বল, mar:दुबळा|
 |faire|fata|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
 |faute (erreur)|galte|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
 |feu|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
@@ -138,6 +140,7 @@
 |genre (espèc)|jinse|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|
 |gingembre|zinje|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
 |giraffe|jiraf|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
+|gouvernement|governe|eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|
 |groupe|grupe|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
 |guitare|gitar|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
 |généreux|karimi|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
@@ -145,6 +148,7 @@
 |heure|hor|fra:heure, eng:hour, spa:por:hora|
 |hiver|zime|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|
 |hockey|hoke|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
+|horloge|reloje|spa:reloj. por:relógio. fra:horloge. ita:orologio. msa:ind:arloji.|
 |hourra|ura|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |hôtel|hotel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |important|hami|ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), tur:mühim, fas:(mohemm)|
@@ -154,11 +158,14 @@
 |je (me)|me|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
 |justice|adalia|ara:(ʿadl), tur:adalet, may:may:tkm:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |jus|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
+|lac|lage|eng:lake, spa:por:ita:lago, fra:lac|
+|laisser|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |laitue|letis|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |lait|milke|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
 |langue|bax|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |lapin (lièvre)|tuze|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |lasagne|lazanye|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
+|lent|lenti|fra:lent, spa:por:lento|
 |lexical|leksi|eng:fra:lexical, spa:por:léxico, rus:лексический (leksičeskiy)|
 |lieu|loke|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|
 |lire|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
@@ -186,6 +193,7 @@
 |mois|mes|por:mês, spa:mez, rus:месяц (mesyats), ben:মাস (mas), swa:mwezi|
 |monde|dunia|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |mouche|zeze|tsw:sot:tsetse, lin:kon:nzinzi, swa:nzi, ber:izi, sna:nhunzi, ibo:ijiji, yor:eṣinṣin|
+|mouillé|bigi|hin:भीगा (bhīgā), ben:ভিজা (bhijā)|
 |moulin|molia|zho:磨 (mò), fra:moulin, spa:molino|
 |mur|wal|eng:wall, rus:вал (val), por:valo|
 |mât|maste|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
@@ -227,11 +235,12 @@
 |pastèque|arbuze|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |pause|pauze|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
 |pere (papa)|pape|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|
+|perplexe (désorienté)|konfusi|eng:confused, spa:confundido, por:confuso, zho:困惑 (kùnhuò)|
 |perroquet|papagay|ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)|
 |pet (vesse)|pede|ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|
 |petit|lil|eng:little|
 |peu|xaw|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
-|philosophie|filsofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
+|philosophie|filosofia|spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|
 |pile (batterie)|batre|eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|
 |pizza|pize|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
 |pièce (chambre)|kamar|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
@@ -248,6 +257,7 @@
 |programme|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |projet|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |propriété (possession, bien)|malke|ara:(mulk), tur:mal, swa:mali,miliki, may:milik, fas:melk, + pas:urd:(mālik), pnb:ਮਾਲਕ (mālik)|
+|prêter|presta|spa:prestar, por:emprestar, fra:prêter|
 |psychologie|ruholojia|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |psyché|ruhe|ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|
 |que (quoi)|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
@@ -271,8 +281,9 @@
 |rôtir|rosta|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
 |sac|sake|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |salut (salam)|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
-|sandwich|sanwice|eng:fra:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), Putong zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
+|sandwich|sanduice|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |sang|sang|fra:sang, spa:sangre, por:sangue|
+|santé|sihate|ara:صحة (siha), hin:सेहत (sehata), ben:সুস্থ (sustha), pan:ਸਿਹਤ (sihata), tur:sıhhat, may:sihat|
 |Satan|xatan|ara:(šayṭān), hin:शैतान (śaitān), tur:şeytan, fas:(šaytān), swa:Shetani, eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), tha:ซาตาน (satan), kor:사탄 (satan), jpn:サタン (satan), may:Setan|
 |sauce|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
 |saucisse|sosis|fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|

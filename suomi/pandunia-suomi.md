@@ -124,6 +124,8 @@ asan - asento
 asi - aasialainen  
 asia - Aasia  
 askete - askeett  
+aslameriki - intiaani (Amerikan alkuperäisasukas)  
+aslaustrali - aboriginaali (Australian alkuperäisasukas)  
 asle - alkuperä  
 asli - alkuperäinen  
 asme - astma  
@@ -468,8 +470,8 @@ dewi - jumalallinen
 dewi sage - jumaltaru (myytti)  
 dewiste - teisti  
 dewistia - teismi (jumalusko)  
-dewkratia - teokratia  
-dewlojia - teologia  
+dewokratia - teokratia  
+dewolojia - teologia  
 dex - maa (valtio)  
 dike - maali (maalitaulu, kohde)  
 din - uskonto  
@@ -601,7 +603,7 @@ faidi - hyödyllinen
 fain - hieno (hienojakoinen)  
 fajan - kehitys  
 famil - perhe  
-familnam - sukunimi  
+familonam - sukunimi  
 fan - huvi (hauskuus)  
 fana - viihdyttää (huvittaa)  
 fani - hauska (huvittava)  
@@ -651,9 +653,9 @@ filia - tykkääminen
 filipinia - Filippiinit  
 filistinia - Palestiina  
 filme - filmi  
-filsofer - filosofi  
-filsofi - filosofinen  
-filsofia - filosofia  
+filosofer - filosofi  
+filosofi - filosofinen  
+filosofia - filosofia  
 filter - suodattaa  
 fin - loppu  
 fina - lopettaa  
@@ -688,7 +690,6 @@ forme - muoto
 forti - voimakas (vahva)  
 fortia - voima  
 forum - foorumi  
-fosfor - fosfori  
 fotograf - valokuva (foto)  
 fotografer - valokuvaaja  
 fotografia - valokuvaus  
@@ -819,7 +820,7 @@ gute - polvi
 guy - peikko  
 ##h
 habar - uutinen  
-habarbaw - sanomalehti  
+habarobaw - sanomalehti  
 habaxi - abyssinialainen  
 habaxia - abyssinia  
 hafiza - säilyttää (varjella, säästää)  
@@ -962,7 +963,7 @@ insulta - solvata (loukata)
 insulte - loukkaus (herja)  
 inter - väli  
 interes - kiinnostus (mielenkiinto)  
-internete - internet  
+interonete - internet  
 inxala - toivoa  
 iode - jodi  
 ion - ioni  
@@ -999,7 +1000,7 @@ jamia - yhteisö (kokoontuminen, kollektiivi)
 jampa - hypätä (hyppiä)  
 jamula - hajauttaa  
 jan - tieto (tietämys)  
-jana - wiedzieć  
+jana - tietää (tuntea)  
 janel - ikkuna  
 jangal - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
@@ -1019,6 +1020,7 @@ jel - hyytelö
 jelos - kade (kateellinen)  
 jen - synty (syntymä)  
 jena - synnyttää  
+jener - vanhempi (isä tai äiti)  
 jeng - taistelu (sota)  
 jenger - soturi (taistelija)  
 jengi - sotilaallinen  
@@ -1132,7 +1134,7 @@ karte - kartta
 kartografia - kartogratia  
 kartuelia - Georgia  
 kartun - sarjakuva  
-karwan - karavaani (saattue)  
+karvan - karavaani (saattue)  
 kase - tapaus (seikka)  
 kastan - kastanja  
 kastor - majava  
@@ -1332,7 +1334,7 @@ langan - kaide (reelinki)
 lankia - Sri Lanka  
 lantan - lantaani  
 lanten - lyhty  
-larwe - toukka  
+larve - toukka  
 lasker - sotilas  
 laskeria - armeija (sotajoukko)  
 lasti - joustava (elastinen)  
@@ -1345,7 +1347,8 @@ latovia - Latvia
 laurensium - lawrensium  
 lawi - laoslainen  
 lawia - Laos  
-laxa - päästää (sallia)  
+laxa - jättää (hylätä)  
+laxe - jäte (hylkytavara)  
 laya - tulla  
 lazanye - lasagne  
 le - hän (se)  
@@ -1358,6 +1361,7 @@ leksem - lekseemi
 leksia - sanasto  
 leksoliste - sanaluettelo  
 lengi - kylmä  
+lenti - hidas  
 lenxa - harjoitella (treenata)  
 lenxe - harjoitus  
 lete - kesä (suvi)  
@@ -1385,12 +1389,12 @@ lil niam - välipala (naposteltava)
 lilake - syreeni  
 lilaki - violetti (liila)  
 lim - viisi (5)  
-limfe - lymfa  
 limite - raja  
 limofas - viisitahokas (prisma)  
 limogon - viisikulmio  
 limon - sitruuna  
 limonorangi - keltainen  
+linfe - lymfa  
 linye - viiva (linja)  
 linyoparce - rivinvaihto  
 lisi - sileä  
@@ -1398,8 +1402,8 @@ liste - lista (luettelo)
 litium - litium  
 litre - litra  
 livermorium - livermorium  
-liwmate - neste  
-liwmati - nestemäinen  
+liwomate - neste  
+liwomati - nestemäinen  
 liwu - virrata  
 liwun - fuusio (yhteensulautuminen)  
 liwunu - sulaa yhteen (fuusioitua)  
@@ -1685,6 +1689,7 @@ mukofun - puuteri
 mul - alku  
 mula - aloittaa  
 multi - moni (usea)  
+multonasi - monikansallinen  
 mum - vaha  
 mumia - muumio  
 mumonur - kynttilä  
@@ -1716,7 +1721,7 @@ naijiria - Nigeria
 nam - nimi  
 namibia - Namibia  
 namisa - nimittää (kutsua)  
-namlekse - substantiivi (nimisana)  
+namolekse - substantiivi (nimisana)  
 namu - olla nimeltään  
 nanas - ananas  
 nano- - nano-  
@@ -1728,6 +1733,7 @@ nasi socistia - kansallissosialismi
 nasia - kansakunta  
 nasiste - nationalisti  
 nasistia - kansallisuusaate (nationalismi)  
+nasomedi - kansainvälinen  
 natre - natrium  
 nauru - Nauru  
 naw - yhdeksän  
@@ -2005,8 +2011,8 @@ platon - Platon
 platoniste - platonisti  
 platonisti - platoninen  
 platonistia - platonismi  
-plisa - pyytää  
-plisa laya - pyytää tulemaan  
+pliza - pyytää  
+pliza laya - pyytää tulemaan  
 plumbe - lyijy  
 plus - myös (lisäksi, plus)  
 pluto - Pluto (kääpiöplaneetta)  
@@ -2155,6 +2161,7 @@ rize - juuri
 robote - robotti  
 rodium - rhodium  
 rokete - raketti  
+roketolancer - sinko (raketinheitin)  
 rol - rooli (osa)  
 rola - näytellä  
 roler - näyttelijä  
@@ -2242,6 +2249,7 @@ samudolaskeria - merivoimat
 samun - yhdistys (sidos)  
 samuna - yhdistää  
 sana - tehdä (valmistaa)  
+sanduice - voileipä  
 sanduke - laatikko  
 sang - veri  
 sania - tuotanto  
@@ -2253,7 +2261,6 @@ santi kitse e nevis - Saint Kitts ja Nevis
 santi lusia - Saint Lucia  
 santi marinia - San Marino  
 santi tome e prinsipe - Sao Tome ja Principe  
-sanwice - voileipä  
 sapate - kenkä  
 sapater - suutari  
 sapateria - suutarin paja  
@@ -2288,9 +2295,9 @@ serbia - Serbia
 serebre - aivot  
 seres - Ceres  
 serpe - käärme  
-serwa - palvella (tarjoilla)  
-serwe - palvelu (palvelus)  
-serwer - palvelija (tarjoilija)  
+serva - palvella (tarjoilla)  
+serve - palvelu (palvelus)  
+server - palvelija (tarjoilija)  
 serye - sarja  
 sesam - seesami  
 sexel nesia - Seychellit  
@@ -2302,6 +2309,8 @@ sife - laatu (ominaisuus, ominaispiirre, määrite)
 sifi - kuvaileva (määrittelevä)  
 sifolekse - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
+sihate - terveys  
+sihati - terve  
 sikiste - sikhi  
 sikistia - sikhiläisyys  
 sikle - pyörä (polkupyörä, moottoripyörä)  
@@ -2312,7 +2321,7 @@ simpli - yksinkertainen (mutkaton)
 sine - rinta  
 sing - leijona  
 singapur - Singapore  
-sinkase - rintakehä  
+sinokase - rintakehä  
 sinye - merkki (signaali)  
 sir - salainen  
 sirke - etikka  
@@ -2447,8 +2456,8 @@ tehnolojia - tekniikka (teknologia)
 tele - etäisyys (kaukaisuus)  
 teli - kaukainen  
 telofon - puhelin  
+telovide - televisio  
 telugi - telugu (eräs intialainen kieli)  
-telvide - televisio  
 tema - aiheesta (-sta)  
 teme - aihe (teema)  
 tena - pitää (pitää hallussa)  
@@ -2544,11 +2553,11 @@ un ban - kerran
 una - yhdistää  
 unale - toisiaan (keskenään)  
 unali - molemminpuolinen (keskinäinen)  
-unangi - yksivärinen  
 uni - yhtenäinen  
 uni arabi emiria - Yhdistyneet Arabiemiirikunnat  
 unia - liitto (unioni)  
 unomeni - yksimerkityksinen  
+unorangi - yksivärinen  
 ura - hurraa (hurrata)  
 uran - Uranus  
 uranium - uraani  
@@ -2631,10 +2640,12 @@ waw - oho (vau)
 waxa - pestä  
 waxomaxin - pesukone  
 way - ulko- (ulkoinen)  
-way dexi - ulkomaalainen  
-way dexia - ulkomaa  
 waya - poistaa  
 waye - ulkopuoli  
+wayodexi - ulkomaalainen  
+wayodexia - ulkomaa  
+wayomisa - viedä pois (viedä maasta)  
+wayonam - eksonyymi  
 wayoniam - eväsretki (piknik)  
 we - tuo  
 weka - herättää  
@@ -2764,6 +2775,7 @@ zem - maa (maaperä)
 zemia - Maapallo  
 zemodow - maapähkinä  
 zemolaskeria - maavoimat  
+zemomedi samude - Välimeri  
 zeze - kärpänen  
 zigzage - siksakki  
 zikur - zikkurat  

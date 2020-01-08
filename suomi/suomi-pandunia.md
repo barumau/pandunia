@@ -15,6 +15,7 @@ aate (ismi, ideologia, uskonto, jne) - istia
 aatteen kannattaja - iste  
 aavikko (hiekkaerämaa) - registan  
 Abhaasia - aphazia  
+aboriginaali (Australian alkuperäisasukas) - aslaustrali  
 abyssinia - habaxia  
 abyssinialainen - habaxi  
 adjektiivi (laatusana) - sifolekse  
@@ -259,6 +260,7 @@ ei mitään - nol xey
 eilinen - predi den  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekolojia  
+eksonyymi - wayonam  
 El Salvador - salvadoria  
 ele - jeste  
 elegantti - xiki  
@@ -336,15 +338,14 @@ fermium - fermium
 Fidži - fijia  
 Filippiinit - filipinia  
 filmi - filme  
-filosofi - filsofer  
-filosofia - filsofia  
-filosofinen - filsofi  
+filosofi - filosofer  
+filosofia - filosofia  
+filosofinen - filosofi  
 flerovium - flerovium  
 fluori - flur  
 fonologia (äänneoppi) - fonolojia  
 foorumi - forum  
 fosfor - pospor  
-fosfori - fosfor  
 fransium - fransium  
 fuusio (yhteensulautuminen) - liwun  
 fysiikka - fizike  
@@ -451,6 +452,7 @@ heteroromanttinen - aloromansi
 heteroseksuaali - aloseksi  
 hetki (kotva) - sate  
 hevonen - gude  
+hidas - lenti  
 hiekka - rege  
 hieno (hienojakoinen) - fain  
 hieronta - masaje  
@@ -585,8 +587,9 @@ infektio (tartunta) - infekse
 inkivääri - zinje  
 innoittaa (inspiroida) - inspira  
 insinööri - injener  
-internet - internete  
+internet - interonete  
 Intia - bartia  
+intiaani (Amerikan alkuperäisasukas) - aslameriki  
 intialainen - barti  
 Intian valtameri - barti samude  
 ioni - ion  
@@ -693,6 +696,8 @@ järjestys - ratibe
 järjestää (järjestellä) - ratiba  
 järki (järkeily, päättely) - razon  
 jäsen (osatekijä, komponentti) - member  
+jäte (hylkytavara) - laxe  
+jättää (hylätä) - laxa  
 jää - ais  
 jäädä jäljelle - restu  
 jääkiekko - aisohoke  
@@ -748,6 +753,7 @@ kannada (eräs intialainen kieli) - karnadi
 kannu (karahvi) - jar  
 kanootti - kanoe  
 kansa - nas  
+kansainvälinen - nasomedi  
 kansakunta - nasia  
 kansallinen - nasi  
 kansallissosialismi - nasi socistia  
@@ -758,7 +764,7 @@ kapteeni - kapitan
 karaatti - kirate  
 karaoke - karaoke  
 karate - karate  
-karavaani (saattue) - karwan  
+karavaani (saattue) - karvan  
 karhu - urse  
 Karibia - karaibia  
 Karnataka (Intian osavaltio) - karnadia  
@@ -1211,7 +1217,7 @@ lyhentää - korta
 lyhty - lanten  
 lyhyt - korti  
 lyijy - plumbe  
-lymfa - limfe  
+lymfa - linfe  
 lypsää maitoa - tira milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
@@ -1397,6 +1403,7 @@ Mongolia - mongolia
 moni (usea) - multi  
 moni- (poly-, multi-) - poli  
 monijumalisuus (panteismi) - panodewistia  
+monikansallinen - multonasi  
 monikulmio (polygoni) - pologon  
 monimerkityksinen - polomeni  
 monismi - monistia  
@@ -1492,8 +1499,8 @@ neon - neon
 Nepal - nepalia  
 neptunium - neptunium  
 Neptunus - neptun  
-neste - liwmate  
-nestemäinen - liwmati  
+neste - liwomate  
+nestemäinen - liwomati  
 nettisivu - netoloke  
 neula - pin  
 neuvo - mente  
@@ -1663,9 +1670,9 @@ palladium - paladium
 pallo - bol  
 palmu - palme  
 paluu - retre  
-palvelija (tarjoilija) - serwer  
-palvella (tarjoilla) - serwa  
-palvelu (palvelus) - serwe  
+palvelija (tarjoilija) - server  
+palvella (tarjoilla) - serva  
+palvelu (palvelus) - serve  
 palvoa - puja  
 palvonta - puje  
 panaasialainen - panasi  
@@ -1875,8 +1882,8 @@ pysähdys - ting
 pysähtyä - tingu  
 pysäyttää - tinga  
 pyyhe - towal  
-pyytää - plisa  
-pyytää tulemaan - plisa laya  
+pyytää - pliza  
+pyytää tulemaan - pliza laya  
 pyöreä - cirki  
 pyörittää - rota  
 pyöriä - rotu  
@@ -1895,7 +1902,6 @@ päällikkö (pomo) - xef
 pääministeri (suurvisiiri) - xefi minister  
 päärynä - leze  
 pääsiäinen - paske  
-päästää (sallia) - laxa  
 pääte: adjektiivi tai adverbi - -i  
 pääte: OVS-sanajärjestyksen verbi - -u  
 pääte: substantiivi - -e  
@@ -1959,7 +1965,7 @@ rikki - sulfe
 rikos - krim  
 rikos- (rikollinen) - krimi  
 rinta - sine  
-rintakehä - sinkase  
+rintakehä - sinokase  
 riski - riske  
 riskialtis - riski  
 risteytys (hybridi) - hibride  
@@ -2038,7 +2044,7 @@ sanaluettelo - leksoliste
 sanasto - leksia  
 sankari (urho) - wir  
 sanko (ämpäri) - balde  
-sanomalehti - habarbaw  
+sanomalehti - habarobaw  
 Sao Tome ja Principe - santi tome e prinsipe  
 sapatti - sabate  
 sarana - xarnir  
@@ -2122,6 +2128,7 @@ simpanssi - cimpanze
 Singapore - singapur  
 sininen - nili  
 sinkki - zinke  
+sinko (raketinheitin) - roketolancer  
 sintolaisuus - xindawistia  
 sinun - ti  
 sinä - te  
@@ -2175,7 +2182,7 @@ Sri Lanka - lankia
 stadioni (areena) - estadia  
 strontium - estrontium  
 suahili - suahili  
-substantiivi (nimisana) - namlekse  
+substantiivi (nimisana) - namolekse  
 Sudan - sudania  
 sudenkorento - libel  
 suhde (yhteys) - guanxe  
@@ -2183,7 +2190,7 @@ suihku - dux
 sukka - soke  
 suklaa - cokolate  
 suklaapatukka - cokolatobaton  
-sukunimi - familnam  
+sukunimi - familonam  
 sukupuoli - sekse  
 sulaa yhteen (fuusioitua) - liwunu  
 sulka - per  
@@ -2340,20 +2347,22 @@ tekniikka (teknologia) - tehnolojia
 teknokratia - tehnokratia  
 teko - fate  
 tekstin muotoilu - kitaborupe  
-televisio - telvide  
+televisio - telovide  
 teltta - haime  
 telugu (eräs intialainen kieli) - telugi  
 temppeli - mandir  
 tennis - tenis  
-teokratia - dewkratia  
-teologia - dewlojia  
+teokratia - dewokratia  
+teologia - dewolojia  
 teoria - teoria  
 tera- - tero-  
 terrorismi - teroristia  
 terroristi - teroriste  
+terve - sihati  
 tervehdys (terve!) - salame  
 tervehtiä - salama  
 tervetuloa! - salam laye  
+terveys - sihate  
 tesla (T) - tesle  
 thai - tayi  
 Thaimaa - tayia  
@@ -2366,6 +2375,7 @@ tietokanta - datobanke
 tietokone - komputer  
 tietoteoria (epistemologia) - janolojia  
 tietty (tunnettu) - jani  
+tietää (tuntea) - jana  
 Tiibet - podia  
 tiikeri - bagre  
 tiistai - war 2 (war dul)  
@@ -2402,7 +2412,7 @@ torni - minar
 torstai - war 4 (war car)  
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
-toukka - larwe  
+toukka - larve  
 toukokuu - mes 5 (mes lim)  
 Transdnistria - nistria  
 trendi - faxon  
@@ -2494,8 +2504,8 @@ Tšekki - cehia
 Uganda - gandia  
 Ukraina - ukrainia  
 ulko- (ulkoinen) - way  
-ulkomaa - way dexia  
-ulkomaalainen - way dexi  
+ulkomaa - wayodexia  
+ulkomaalainen - wayodexi  
 ulkopuoli - waye  
 uloskäynti - cutomun  
 ulostaa (kakata) - kaka  
@@ -2566,6 +2576,7 @@ vanadiini - vanadium
 vanginvartija - prizoner  
 vangita - prizona  
 vanha (muinainen) - purani  
+vanhempi (isä tai äiti) - jener  
 vanilja - vanil  
 vankeus - prizon  
 vankila - prizonia  
@@ -2627,6 +2638,7 @@ vetoketju - ziper
 vetolaatikko - tirosanduke  
 vety - hidre  
 vetää (kiskoa) - tira  
+viedä pois (viedä maasta) - wayomisa  
 vielä (yhä) - hay  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
@@ -2679,7 +2691,7 @@ vitsiniekka - joker
 viuhka (tuuletin) - panke  
 voi - makan  
 voida (osata, pystyä) - abla  
-voileipä - sanwice  
+voileipä - sanduice  
 voima - fortia  
 voimakas (vahva) - forti  
 voipuu - karite  
@@ -2713,6 +2725,7 @@ väittely (debatti) - lon
 väittää - tesa  
 väli - inter  
 väli - mede  
+Välimeri - zemomedi samude  
 välipala (naposteltava) - lil niam  
 väri - rang  
 värilline - rangi  
@@ -2722,7 +2735,6 @@ väärä (virheellinen) - galti
 Wales - kamria  
 walesilainen - kamri  
 watti - wate  
-wiedzieć - jana  
 wiki - wikia  
 wikikirjoitus - wike  
 wolframi - wolfram  
@@ -2747,7 +2759,7 @@ yksinkertainen (mutkaton) - simpli
 yksinpuhelu (monologi) - monologe  
 yksinvaltius (autokratia, monarkia) - monokratia  
 yksityiskohta (detalji) - detal  
-yksivärinen - unangi  
+yksivärinen - unorangi  
 yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - putong cini  
 yliopisto - dayodarsia  

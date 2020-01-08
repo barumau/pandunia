@@ -451,9 +451,9 @@ figura, reprezentacja - figur
 Filipiny - filipinia  
 filiżanka do kawy - kafokupe  
 film - filme  
-filozof - filsofer  
-filozofia - filsofia  
-filozoficzny - filsofi  
+filozof - filosofer  
+filozofia - filosofia  
+filozoficzny - filosofi  
 filtr - filter  
 Finlandia - suomia  
 fiord - fiorde  
@@ -469,7 +469,6 @@ fonologia - fonolojia
 fontanna (studnia, źródło) - fonte  
 forma, kształt - forme  
 forum - forum  
-fosfor - fosfor  
 fosfor - pospor  
 fotografia - fotografia  
 Francja - fransia  
@@ -492,7 +491,7 @@ gatunek - jong
 gaz - gas  
 gaza - gaze  
 gazela - gazel  
-gazeta - habarbaw  
+gazeta - habarobaw  
 gałąź, konar - xake  
 gdzie - sa ke  
 gejowski (homoseksualny) - gey  
@@ -636,7 +635,7 @@ inny - ali
 innymi słowy - alonami  
 inspirować; inspiracja - inspira  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
-internet - internete  
+internet - interonete  
 inżynier - injener  
 Irak - irakia  
 Iran - irania  
@@ -674,7 +673,7 @@ jaśmin - malike
 jebać, kopulować - coda  
 jeden (1) - un  
 jednoczyć - una  
-jednokolorowy (monochromatyczny) - unangi  
+jednokolorowy (monochromatyczny) - unorangi  
 jednostki podstawowej - em  
 jedzenie, posiłek - niam  
 jej - yey  
@@ -725,7 +724,7 @@ Karaiby - karaibia
 karaoke - karaoke  
 karat - kirate  
 karate - karate  
-karawana - karwan  
+karawana - karvan  
 karta - karde  
 kartka (dokument) - warke  
 kasjer - kaxer  
@@ -755,7 +754,7 @@ kiur - kurium
 klasa, kategoria - klas  
 klasyfikować, kategoryzować - klasa  
 klatka - kafas  
-klatka piersiowa - sinkase  
+klatka piersiowa - sinokase  
 klawiatura - butonobanze  
 klawisz, przycisk, przełącznik - buton  
 klej - glute  
@@ -898,7 +897,7 @@ kąt - gon
 lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lampa - lampe  
-larwa, czerw, gąsienica - larwe  
+larwa, czerw, gąsienica - larve  
 larwa, czerw, gąsienica - lasun  
 las, dżungla, zagajnik - jangal  
 latarnia - lanten  
@@ -924,7 +923,7 @@ liga (stowarzyszenie) - lige
 lilak - lilake  
 lilia - susan  
 lilia wodna, nenufar - nenufar  
-limfa - limfe  
+limfa - linfe  
 limit, granica - limite  
 linia, pas, pręga, smuga - linye  
 lipiec - mes 4 (mes car)  
@@ -1072,6 +1071,7 @@ mit, boska opowieść - dewi sage
 miód - mel  
 mięczak (morski bezkręgowiec) - moluske  
 między - inter  
+międzynarodowy - nasomedi  
 miękki - komal  
 mięso - manse  
 miłośnik (fan, -fil) - filer  
@@ -1180,7 +1180,7 @@ nawyk (przyzwyczajenie) - ade
 nazista - naciste  
 nazizm - nacistia  
 nazwać, nazywać, wezwać, wzywać - namisa  
-nazwisko, imię rodziny - familnam  
+nazwisko, imię rodziny - familonam  
 naładować, załadować, obładować, ładować - lada  
 neon - neon  
 Nepal - nepalia  
@@ -1600,7 +1600,7 @@ promień światła - nurorade
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - manihay  
-prosić - plisa  
+prosić - pliza  
 prosty, nieskomplikowany - simpli  
 protaktyn - protacinium  
 prowadzić pojazd - xofa  
@@ -1669,7 +1669,6 @@ Puerto Rico - portorikia
 punkt - binde  
 pusty - kali  
 pustynia - registan  
-puścić, puszczać, wypuścić, wypuszczać, uwolnić, uwalniać - laxa  
 pyszny - niami  
 pytajny, związany z pytaniem - eski  
 pytanie - eske  
@@ -1777,7 +1776,7 @@ ryzyko - riske
 ryzykowny - riski  
 ryż - arize  
 rzecz - xey  
-rzeczownik - namlekse  
+rzeczownik - namolekse  
 rzeka - nade  
 rzemieślnik - janger  
 rzeźba - eskulte  
@@ -2008,9 +2007,9 @@ słowo - lekse
 słoń - gaje  
 słońce - sol  
 słuchać - ora  
-sługa - serwer  
-służba - serwe  
-służyć - serwa  
+sługa - server  
+służba - serve  
+służyć - serva  
 ##t
 tablioca, macierz - table  
 Tadżykistan - tajikia  
@@ -2044,7 +2043,7 @@ technologia, nauka o technikach - tehnolojia
 teistyczny - dewiste  
 teizm - dewistia  
 telefon - telofon  
-telewizja - telvide  
+telewizja - telovide  
 tellur - telurium  
 telugu - telugi  
 temat, motyw - teme  
@@ -2054,8 +2053,8 @@ ten, te - yi
 tendencja - ive  
 tenesyn, tennessine - tenesin  
 tenis - tenis  
-teokracja - dewkratia  
-teologia - dewlojia  
+teokracja - dewokratia  
+teologia - dewolojia  
 teoria - teoria  
 teraźniejszość, współczesność (teraz) - zaye  
 teraźniejszość, współczesność - zayia  
@@ -2360,8 +2359,8 @@ zachować, zakonserwować, zachować, utrzymać - hafiza
 zachowywać się (działać) - manira  
 zachód - weste  
 zacząć, zaczynać - mula  
-zagranica - way dexia  
-zagraniczny - way dexi  
+zagranica - wayodexia  
+zagraniczny - wayodexi  
 zagrożenie, niebezpieczeństwo - hatar  
 zainteresowanie, zaciekawienie; interesujący - interes  
 zajęty - bizi  
@@ -2374,7 +2373,7 @@ zamknąć zamkiem błyskawicznym - zipa
 zapakować, pakować - paka  
 zapisać (zarejestrować) - defta  
 zapomnieć, zapominać - bula  
-zaprosić, zapraszać - plisa laya  
+zaprosić, zapraszać - pliza laya  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ki sate  
 zapytać, spytać, pytać - eska  

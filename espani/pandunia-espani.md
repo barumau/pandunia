@@ -22,6 +22,7 @@ alkol - alcohol
 alkoli - alcohólico  
 almar - armario  
 almas - diamante  
+aloray - desacuerdo  
 aloraya - disentir (no estar de acuerdo)  
 altar - altar  
 analis - análisis  
@@ -39,6 +40,7 @@ arize - arroz
 arme - arma  
 arte - arte  
 artiste - artista  
+aslameriki - indígena (indio)  
 asle - origen  
 asli - original  
 asme - asma  
@@ -57,6 +59,7 @@ badan - cuerpo
 bagaje - equipaje  
 bagre - tigre  
 baki - blanco  
+balibali - distintos (diversos)  
 balkon - balcón  
 banan - plátano (banana)  
 bande - banda  
@@ -75,6 +78,8 @@ batre - pila (batería)
 bax - lengua (idioma)  
 baze - base  
 beker - panadero  
+biga - mojar  
+bigi - mojado  
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
@@ -92,14 +97,18 @@ cis - queso
 cokolate - chocolate  
 cokolatobaton - barra de chocolate  
 coy - verduras  
+cuzable - opción  
 ##d
 dade - dado  
 dalil - prueba  
 danse - dança (baile)  
+darmositium - darmstatio  
 date - datos  
 datobanke - banco de datos (base de datos)  
 dayosamude - océano  
+debili - débil  
 destin - destino  
+dexoren - ciudadano  
 dike - objetivo  
 din - religión  
 diske - disco  
@@ -113,13 +122,14 @@ eletre - electricidad
 esa - ser (estar)  
 eskulter - escultor  
 esten - estaño  
+estibium - antimonio  
 ewanjil - evangelio  
 ##f
 fase - faz (faceta)  
 fata - hacer  
 favori - favorito (preferido)  
 faze - etapa (fase)  
-filsofia - filosofía  
+filosofia - filosofía  
 fiorde - fiordo  
 fitolojia - botánica  
 fora  - perforar  
@@ -137,6 +147,8 @@ gatomate - sólido
 gitar - guitarra  
 gol - meta (gol)  
 goton - algodón  
+governa - gobernar  
+governe - gobierno  
 grupe - grupo  
 gul - gul  
 gunden - palacio  
@@ -167,7 +179,8 @@ itis  - inflamación
 iva - tender  
 ive - tendencia  
 ##j
-jana - saber (conhecer)  
+jana - saber (conocer)  
+jener - parente (madre o padre)  
 jenotipe - genotipo  
 jinse - género  
 jiraf - jirafa  
@@ -178,7 +191,9 @@ jus - jugo (zumo)
 ##k
 kafe - café  
 kagaze - papel  
+kal - espacio (separación)  
 kalam - pluma  
+kali harfe - espacio (texto)  
 kamote - camote (batata)  
 kan - ojo  
 kance - vidrio (cristal)  
@@ -205,6 +220,8 @@ ko - que (como)
 ko? - cómo  
 komputer - ordenador  
 koncung - insecto  
+konfusi - confundido  
+konfusu - confundir  
 korne - corno  
 koron - corona  
 kosmi - cósmico  
@@ -214,22 +231,30 @@ krus - cruz
 kube - cubo  
 kupe - copa (vaso)  
 ##l
+lage - lago  
+lancograf - proyección  
+lancografa - proyectar  
 lasker - soldado  
 laskeria - ejército  
 late - lado (flanco)  
 lati - lateral  
+latoren - compañero (compinche)  
 latovia - Letonia  
 lawi - anciano  
+laxa - dejar  
+laxe - vestigio (sobrante, residuo)  
 lazanye - lasaña  
 leksaslia - etimología  
 lekse - palabra (vocablo)  
 leksi - léxico  
+lenti - lento (despacio)  
 letis - lechuga  
 libel - libélula  
 lider - dirigente (líder)  
 lifafa - envolver  
 lil - pequeño  
 limon - limón  
+linfe - linfa  
 liste - lista  
 loka - colocar (poner)  
 loke - lugar  
@@ -274,6 +299,8 @@ misria - Egipto
 mita - encontrar  
 mite - reunión (junta, mitin)  
 mode - modo (manera, forma)  
+mol - mol  
+molekul - molécula  
 molia - molino  
 mome - nosotros  
 monistia - monismo  
@@ -283,6 +310,7 @@ mula - comenzar (iniciar, empezar)
 na - sin  
 nanas - piña  
 nasia - nación  
+nasomedi - internacional  
 nefre - riñon  
 neurosel - neurona  
 nida - necesitar  
@@ -293,6 +321,7 @@ niponia - Japón
 nixe - hornacina  
 no - no  
 noce - noche  
+nolonidi - innecesario  
 nostalgia - nostalgia  
 note - nota  
 novi - nuevo  
@@ -340,6 +369,10 @@ piratia - piratería
 piru - quemarse  
 porte - porto  
 pote - lodo (barro, fango)  
+predogara - presuponer  
+presta - prestar  
+prestogeta - pedir prestado  
+prestolekse - préstamo lingüístico  
 prizona - encarcelar (aprisionar)  
 prizoner - carcelero  
 prizonia - cárcel  
@@ -352,6 +385,8 @@ pute - hijo o hija
 rang - color  
 rapidi - rápido  
 ras - raza  
+reloje - reloj  
+relojominar - torre del reloj  
 retra - volver  
 retrotikete - billete de ida y vuelta  
 rezerve - réservation  
@@ -359,6 +394,7 @@ rici - rico
 rim - rima  
 ritim - ritmo  
 rize - raiz  
+roketolancer - lanzamisiles  
 rose - rocío  
 roze - rosa  
 ##s
@@ -371,9 +407,13 @@ saman - cielo
 samoray - acuerdo  
 samude - mar  
 samudi - marítimo  
+samudojel - medusa  
+samudotate - costa  
+sanduice - sándwich (sánduche)  
 sang - sangre  
 sapate - sapato  
 sar - cabeza  
+saturne - Saturno  
 sekse - sexo  
 sekuri - seguro  
 selolojia - citología  
@@ -381,6 +421,8 @@ seme - semilla
 semi - seminal  
 serye - serie  
 si - sí  
+sihate - salud  
+sihati - saludable  
 sikle - bicicleta  
 sikliste - ciclista  
 site - ciudad  
@@ -398,6 +440,7 @@ suyogas - vapor
 suyoporte - puerto marítimo  
 ##t
 tape - tapón (tapa)  
+tate - orilla (ribera)  
 te - tú  
 testa - intentar (probar)  
 teste - prueba  
@@ -412,6 +455,7 @@ vaginitis - vaginitis
 vale - valle  
 vampir - vampiro  
 vejetoniamiste - vegetariano  
+venus - Venus  
 veri - verdadero  
 verme - verme  
 vespe - abeja o avispa  
@@ -442,9 +486,13 @@ xofer - conductor (chofer)
 xopa - comprar  
 xope - compras (shopping)  
 ##y
+yagones - península  
 yohani feste - día de San Juan  
 yuke - jade  
 ##z
+zayisa - generar (añadir)  
+zayisu - aparecer  
+zayisula - quitar (eliminar, borrar)  
 zebre - cebra  
 zeze - mosco  
 zime - invierno  
