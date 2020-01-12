@@ -42,6 +42,7 @@ aslameriki - инде́йский
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
+ata - до  
 aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
@@ -304,6 +305,7 @@ niponia - Япония
 nixe - ниша  
 no - нет (не)  
 noce - ночь  
+nombre - число  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 novi - новый  

@@ -693,7 +693,7 @@ Jupiter - muxing
 jutro - badi den  
 już (skończona czynność) - lew  
 język surinamski - surinami bax  
-język sztuczny - sanobax  
+język sztuczny - canobax  
 język świata, język ogólnoświatowy - dunia bax  
 język; komunikacja - bax  
 językoznastwo - baxolojia  
@@ -1175,7 +1175,7 @@ nauczyciel - darsogur
 nauczyć się, uczyć się, studiować - darsa  
 nauka, badanie, studiowanie - lojia  
 Nauru - nauru  
-nawet - hato  
+nawet - ato  
 nawyk (przyzwyczajenie) - ade  
 nazista - naciste  
 nazizm - nacistia  
@@ -1233,7 +1233,7 @@ nowy - novi
 nożyce, nożyczki - makas  
 nudysta - nudiste  
 nudyzm - nudistia  
-numer - nume  
+numer - nombre  
 nylon - nilon  
 nóż - cake  
 o! - o  
@@ -1409,7 +1409,7 @@ pieniądze - pese
 pieprz - pimente  
 pierdnięcie - pede  
 pierdzieć - peda  
-pierwszy, numer jeden - nume un  
+pierwszy, numer jeden - nombre un  
 pierwszy, początkowy - muli  
 pierś - sine  
 pierścień, pierścionek; obrączka - fingowen  
@@ -1586,7 +1586,7 @@ problem - problem
 problem, kłopot, zakłócenie - mafan  
 proces, procedura - proses  
 proch strzelniczy - barude  
-produkcja - sania  
+produkcja - cania  
 profesja, zajęcie, zawód - pexe  
 profesor - profesor  
 program - program  
@@ -1981,7 +1981,7 @@ szofer (kierowca) - xofer
 szokwstrząs; kolizja - xoke  
 szparag; szparagia - lusun  
 szron - himorose  
-sztuczny - sani  
+sztuczny - cani  
 sztuka - arte  
 sztuka walki - jengoxute  
 sztylet (puginał) - kanjar  
@@ -2439,7 +2439,7 @@ zombie, zombi - zombe
 zostawić, zostawiać - xuxe  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  
-zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - sana  
+zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - cana  
 zsumować, sumować, dodać, dodawać - suma  
 zuluh - zukomedi  
 zupa - supe  

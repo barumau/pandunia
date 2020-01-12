@@ -138,8 +138,8 @@ aromantic - noloromansi
 arsenic - arsen  
 art - arte  
 article (writing) - makale  
-artificial - sani  
-artificial language (conlang) - sanobax  
+artificial - cani  
+artificial language (conlang) - canobax  
 artisan (craftsman) - janger  
 artist - artiste  
 Artsakh - arcahia  
@@ -839,7 +839,7 @@ European Union (EU) - europi unia
 europium - europium  
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - piping  
-even (intensifier) - hato  
+even (implying extreme example) - ato  
 evening - xam  
 event (case, instance) - kase  
 every (each) - mey  
@@ -918,7 +918,7 @@ Finland - suomia
 Finnish - suomi  
 fire (burning) - pir  
 first (beginning) - muli  
-first (number one) - nume un  
+first (number one) - nombre un  
 fish - fix  
 fish tank - fixotanke  
 five (5) - lim  
@@ -1783,7 +1783,7 @@ nuclear physics - kerni fizikia
 nuclear weapon (nuke) - kerni arme  
 nudism - nudistia  
 nudist - nudiste  
-number - nume  
+number - nombre  
 nylon - nilon  
 ##o
 oasis - wase  
@@ -2075,8 +2075,8 @@ privateer (buccaneer) - botokaper
 problem (issue) - problem  
 problematic - problemi  
 process (procedure) - proses  
-produce (create, make) - sana  
-production - sania  
+produce (create, make) - cana  
+production - cania  
 profession (occupation) - pexe  
 professor - profesor  
 program (set of structured activities) - program  
@@ -2274,7 +2274,7 @@ salad - salade
 salt - sal  
 salty (saline) - sali  
 samarium - samarium  
-same - sami  
+same (similar) - sami  
 Samoa - samoa  
 sand - rege  
 sandwich - sanduice  
@@ -2750,6 +2750,7 @@ United States of America (USA) - usamerikia
 university - dayodarsia  
 unnecessary (extraneous) - nolonidi  
 unplug (uncork) - tapula  
+until (til, up to) - ata  
 upper - supri  
 uranium - uranium  
 Uranus - uran  

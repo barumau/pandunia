@@ -93,6 +93,8 @@ asle - origino
 asli - origina  
 asme - astmo  
 aspirin - aspirino  
+ata - ĝis  
+ato - eĉ  
 atom - atomo  
 auda - aŭdi (aŭskulti)  
 aur - oro  
@@ -250,7 +252,9 @@ cake - tranĉilo
 cakre - rado  
 camace - kulero  
 campion - ĉampiono  
+cana - produkti (fabriki)  
 cang - ofte  
+canobax - artefarita lingvo  
 canse - ŝanco  
 canta - kanti  
 cante - kanto  
@@ -614,7 +618,6 @@ hasi - speciala
 hasium - hasio  
 hatar - danĝero  
 hatari - danĝera  
-hato - eĉ  
 hawa - venti  
 hawe - vento  
 hay - ankoraŭ  
@@ -1098,6 +1101,7 @@ nobelium - nobelio
 noce - nokto  
 node - nodo  
 nolodewiste - ateisto  
+nombre - nombro  
 norgi - norvega  
 norgia - Norvegio  
 nostalgia - nostalgio (saudado)  
@@ -1105,7 +1109,6 @@ nota - rimarki
 note - noto (rimarko, komento)  
 notobuke - kajero  
 novi - nova  
-nume - nombro  
 nur - lumo  
 nuri - luma  
 nurobaton - torĉo  
@@ -1317,10 +1320,8 @@ samoray - interkonsento
 samoraya - samopinii (interkonsenti)  
 samude - maro  
 samudi - mara  
-sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
 sang - sango  
-sanobax - artefarita lingvo  
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  

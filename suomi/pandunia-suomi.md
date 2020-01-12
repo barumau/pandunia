@@ -131,7 +131,9 @@ asli - alkuperäinen
 asme - astma  
 aspirin - aspiriini  
 astatin - astatiini  
+ata - asti (saakka)  
 atlanti samude - Atlantin valtameri  
+ato - jopa  
 atom - atomi  
 auda - kuulla (kuunnella)  
 aur - kulta  
@@ -341,8 +343,11 @@ cake - veitsi (puukko)
 cakre - ratas  
 camace - lusikka  
 campion - mestari (voittaja)  
+cana - tehdä (valmistaa)  
 cang - usein  
 cangia - taajuus (tiheys)  
+cania - tuotanto  
+canobax - keinotekoinen kieli (tekokieli, keinokieli)  
 canse - mahdollisuus (tilaisuus)  
 canta - laulaa  
 cante - laulu  
@@ -864,7 +869,6 @@ hasia - erikoisuus
 hasium - hasium  
 hatar - vaara  
 hatari - vaarallinen  
-hato - jopa  
 hawa - tuulla (puhaltaa)  
 hawayi - havaijilainen  
 hawayi nesia - Havaijin saaret  
@@ -1798,6 +1802,8 @@ nol ren - ei kukaan
 nol xey - ei mitään  
 nolodewiste - ateisti (jumalankieltäjä)  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
+nombre - lukumäärä (luku, numero)  
+nombre un - ensimmäinen (numero yksi)  
 nomia - hallinto (hallinnointi)  
 nonga - viljellä  
 nonger - maanviljelijä  
@@ -1828,8 +1834,6 @@ novi zilandia - Uusi-Seelanti
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
-nume - lukumäärä (luku, numero)  
-nume un - ensimmäinen (numero yksi)  
 nur - valo  
 nuri - valoisa  
 nurobaton - soihtu  
@@ -2243,6 +2247,7 @@ sami - sama
 samoa - Samoa  
 samodexi - samanmaalainen (maanmies)  
 samojinsokami - homoseksuaali  
+samonam - homonyymi  
 samoray - yhteisymmärrys  
 samoraya - olla samaa mieltä  
 samude - meri  
@@ -2250,12 +2255,9 @@ samudi - meri- (merellinen)
 samudolaskeria - merivoimat  
 samun - yhdistys (sidos)  
 samuna - yhdistää  
-sana - tehdä (valmistaa)  
 sanduice - voileipä  
 sanduke - laatikko  
 sang - veri  
-sania - tuotanto  
-sanobax - keinotekoinen kieli (tekokieli, keinokieli)  
 santi - pyhä  
 santi helenia - Saint Helena  
 santi kitse - Saint Kitts  

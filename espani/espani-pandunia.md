@@ -203,6 +203,7 @@ gul - gul
 género - jinse  
 ##h
 hacer - fata  
+hasta - ata  
 helado - aisokrem  
 hermoso (bello, lindo) - sundari  
 hijo o hija - pute  
@@ -324,6 +325,7 @@ nostalgia - nostalgia
 nota - note  
 nube - megam  
 nuevo - novi  
+número - nombre  
 o - o  
 ##o
 objetivo - dike  

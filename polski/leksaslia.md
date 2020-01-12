@@ -411,7 +411,6 @@
 |narzędzie|tul|eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|
 |naród, narodowość|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |nauka, badanie, studiowanie|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
-|nawet|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |nawyk (przyzwyczajenie)|ade|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |nazista|naciste|rus:нацист (natsist), cze:slk:nacista, jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |niebezpieczeństwo, ryzyko, szansa|zar|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
@@ -427,7 +426,7 @@
 |noc|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |nowy|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nożyce, nożyczki|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
-|numer|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
+|numer|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |nóż|cake|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
 |oaza|wase|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
 |obcęgi, kleszcze, szczypce|pinser|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
@@ -744,7 +743,7 @@
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |służba|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
-|taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|taki sam|sami|may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
 |tak|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |tatuaż|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
@@ -902,7 +901,7 @@
 |zombie, zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zostawić, zostawiać|xuxe|zho:休息 (xiūxí), kor:휴식 (hyusig)|
 |zrobić (stworzyć, wykreować)|fata|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
-|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
+|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać|cana|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|
 |zupa|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
 |związek, powiązanie, połączenie|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |zwycięstwo, wygrana|win|eng:win, deu:gewinnen|

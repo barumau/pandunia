@@ -136,8 +136,10 @@ asli - original (authentic)
 asme - asthma  
 aspirin - aspirin  
 astatin - astatine  
+ata - until (til, up to)  
 ate - sugar-apple (sweetsop)  
 atlanti samude - Atlantic Ocean  
+ato - even (implying extreme example)  
 atom - atom  
 auda - hear (listen)  
 aur - gold  
@@ -354,8 +356,12 @@ cake - knife
 cakre - wheel  
 camace - spoon  
 campion - champion  
+cana - produce (create, make)  
 cang - often (frequently)  
 cangia - frequency  
+cani - artificial  
+cania - production  
+canobax - artificial language (conlang)  
 canse - opportunity (chance)  
 canta - sing  
 cante - song  
@@ -893,7 +899,6 @@ hasia - distinction (specialty)
 hasium - hassium  
 hatar - danger (peril)  
 hatari - dangerous (perilous)  
-hato - even (intensifier)  
 hawa - blow  
 hawayi - Hawaiian  
 hawayi nesia - Hawaiian archipelago  
@@ -1862,6 +1867,8 @@ nolonidi - unnecessary (extraneous)
 noloromansi - aromantic  
 noloseksi - asexual  
 noma - manage (organize, direct)  
+nombre - number  
+nombre un - first (number one)  
 nomia - management (-nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  
@@ -1893,8 +1900,6 @@ novi zilandia - New Zealand
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
-nume - number  
-nume un - first (number one)  
 nur - light (illumination)  
 nuri - light (bright)  
 nurobaton - torch  
@@ -2327,7 +2332,7 @@ salvadoria - El Salvador
 saman - sky (heaven)  
 samani - celestial (heavenly)  
 samarium - samarium  
-sami - same  
+sami - same (similar)  
 samoa - Samoa  
 samodexi - compatriot  
 samojinsokami - homosexual  
@@ -2343,13 +2348,9 @@ samudolaskeria - sea force (navy)
 samudotate - coast (beach)  
 samun - joint  
 samuna - connect (join, link)  
-sana - produce (create, make)  
 sanduice - sandwich  
 sanduke - box (chest)  
 sang - blood  
-sani - artificial  
-sania - production  
-sanobax - artificial language (conlang)  
 santi - holy (sacred)  
 santi helenia - Saint Helena  
 santi kitse - Saint Kitts  

@@ -88,7 +88,7 @@ argono - argon
 armeo - laskeria  
 armilo - arme  
 arseno - arsen  
-artefarita lingvo - sanobax  
+artefarita lingvo - canobax  
 artisto - artiste  
 arto - arte  
 arĝento - argente  
@@ -354,7 +354,7 @@ Etiopio - etiopia
 etna - zuki  
 etno - zuke  
 evangelio - ewanjil  
-eĉ - hato  
+eĉ - ato  
 eĥo - mirosonde  
 Eŭrazio - eurasia  
 eŭro - europese  
@@ -1001,7 +1001,7 @@ Niĝero - nijeria
 nobelio - nobelium  
 nodo - node  
 nokto - noce  
-nombro - nume  
+nombro - nombre  
 nomo - nam  
 norvega - norgi  
 Norvegio - norgia  
@@ -1159,7 +1159,7 @@ preĝo - duwe
 printempo - cune  
 pripensi - hema  
 problemo - problem  
-produkti (fabriki) - sana  
+produkti (fabriki) - cana  
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
@@ -1578,6 +1578,7 @@ Zoroastro - zardux
 ĝelo - jel  
 ĝentila - keci  
 ĝirafo - jiraf  
+ĝis - ata  
 ĝusta (prava) - sahi  
 ĥemio (kemio) - kimia  
 ĵeti (lanĉi) - lanca  

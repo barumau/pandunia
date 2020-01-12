@@ -157,6 +157,7 @@
 |jade|yuke|zho:玉 (yù), yue:玉 (yuk6), may:giok|
 |jaïnisme|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |je (me)|me|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
+|jusque (jusqu’à)|ata|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |justice|adalia|ara:(ʿadl), tur:adalet, may:may:tkm:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |jus|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |lac|lage|eng:lake, spa:por:ita:lago, fra:lac|
@@ -205,6 +206,7 @@
 |niche|nixe|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |noir|cerni|rus:чёрный (čornyy), pol:czarny|
 |noit|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
+|nombre (numéro)|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |non (ne...pas)|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |nostalgie|nostalgia|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |note|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|

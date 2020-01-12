@@ -250,6 +250,7 @@ hiver - zime
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aisohoke  
+homonym - samonam  
 horloge - reloje  
 hourra - ura  
 humanisme - insanistia  
@@ -270,6 +271,7 @@ jaïnisme - jeinistia
 je (me) - me  
 joule (J) - jul  
 jus - jus  
+jusque (jusqu’à) - ata  
 juste - adali  
 justice - adalia  
 Jésus - yesus  
@@ -344,6 +346,7 @@ neurone - neurosel
 niche - nixe  
 noir - cerni  
 noit - noce  
+nombre (numéro) - nombre  
 non (ne...pas) - no  
 nostalgie - nostalgia  
 note - note  
@@ -542,6 +545,7 @@ vivre (habiter) - domu
 vocabulaire (lexique) - leksia  
 voile - hijabe  
 voir - vida  
+voire (même) - ato  
 vouloir - wana  
 voyelle - vokal  
 vrai - veri  

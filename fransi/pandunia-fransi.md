@@ -88,6 +88,8 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+ata - jusque (jusqu’à)  
+ato - voire (même)  
 aur - or  
 aventur - aventure  
 aventurer - aventurier  
@@ -381,6 +383,7 @@ niponia - Japon
 nixe - niche  
 no - non (ne...pas)  
 noce - noit  
+nombre - nombre (numéro)  
 nostalgia - nostalgie  
 note - note  
 novi - nouveau  
@@ -463,6 +466,7 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
+samonam - homonym  
 samoray - accord  
 samude - mer  
 samudojel - méduse  

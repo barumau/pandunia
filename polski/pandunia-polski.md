@@ -98,6 +98,7 @@ asli - źródłowy, początkowy, oryginalny
 asme - astma  
 aspirin - aspiryna  
 ate - jabłko cukrowe  
+ato - nawet  
 atom - atom  
 auda - usłyszeć, słyszeć; słuchać  
 aur - złoto  
@@ -283,7 +284,11 @@ cake - nóż
 cakre - koło  
 camace - łyżka  
 campion - czempion  
+cana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 cang - często  
+cani - sztuczny  
+cania - produkcja  
+canobax - język sztuczny  
 canse - szansa  
 canta - śpiewać  
 cante - piosenka, pieśń  
@@ -746,7 +751,6 @@ hasi - specjalny, wyraźny, wyrazisty
 hasium - has  
 hatar - zagrożenie, niebezpieczeństwo  
 hatari - niebezpieczny  
-hato - nawet  
 hawa - dmuchać  
 hawe - wiatr  
 hay - wciąż, nadal  
@@ -1572,6 +1576,8 @@ nol ren - nikt, żadna osoba
 nol xey - nic, żadna rzecz  
 nolodewiste - ateista  
 noma - zarządzać (organizować, kierować)  
+nombre - numer  
+nombre un - pierwszy, numer jeden  
 nomia - zarządzanie (-nomia)  
 nonga - uprawić, uprawiać  
 nonger - rolnik, farmer  
@@ -1596,8 +1602,6 @@ novi zilandia - Nowa Zelandia
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
-nume - numer  
-nume un - pierwszy, numer jeden  
 nur - światło, oświetlenie  
 nuri - jasny, świetlny  
 nurobaton - pochochodnia (latarka)  
@@ -1998,12 +2002,8 @@ samu - być podobnym, być jak
 samude - może  
 samun - połączenie, złącze, styk  
 samuna - łączyć, wiązać, złączyć  
-sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 sanduke - pudło, skrzynia  
 sang - krew  
-sani - sztuczny  
-sania - produkcja  
-sanobax - język sztuczny  
 santi - święty  
 santi helenia - Święta Helena  
 santi lusia - Saint Lucia  

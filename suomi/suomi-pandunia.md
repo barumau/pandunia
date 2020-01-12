@@ -134,6 +134,7 @@ aspiriini - aspirin
 Assur - axur  
 Assyria - axuria  
 astatiini - astatin  
+asti (saakka) - ata  
 astia (kulho) - tas  
 astma - asme  
 asua - domu  
@@ -287,7 +288,7 @@ Englanti - englia
 enimmäis- - maximi  
 eniten - maxim  
 ensimmäinen (alku-) - muli  
-ensimmäinen (numero yksi) - nume un  
+ensimmäinen (numero yksi) - nombre un  
 entsyymi - enzim  
 epäilys - dute  
 epäonni - mal zar  
@@ -483,6 +484,7 @@ hoitaa (pitää huolta) - kura
 holmium - holmium  
 hologrammi - hologram  
 homo (homoseksuaali) - gey  
+homonyymi - samonam  
 homoseksuaali - samojinsokami  
 Honduras - hondurasia  
 Hong Kong - hongong  
@@ -656,7 +658,7 @@ joku - koy ren
 jooga - yoge  
 joogata - yoga  
 joogi - yogiste  
-jopa - hato  
+jopa - ato  
 Jordania - urdunia  
 jos (olettaa) - gar  
 joskus - koy sate  
@@ -804,8 +806,8 @@ kehitys - fajan
 keho (ruumis) - badan  
 keidas - wase  
 keino (menetelmä, metodi) - metode  
-keinotekoinen (teko-, keino-) - sani  
-keinotekoinen kieli (tekokieli, keinokieli) - sanobax  
+keinotekoinen (teko-, keino-) - cani  
+keinotekoinen kieli (tekokieli, keinokieli) - canobax  
 keisari - imperer  
 keisarikunta - imperia  
 keittiö - kukeria  
@@ -1200,7 +1202,7 @@ lounas - denoniam
 luiska (ramppi) - rampe  
 lukea - duga  
 luku (kirjan osa) - babe  
-lukumäärä (luku, numero) - nume  
+lukumäärä (luku, numero) - nombre  
 lumi - him  
 lumme - nenufar  
 luodinkestävä - danosekuri  
@@ -2337,8 +2339,8 @@ teekuppi - cayokupe
 teettää - isa  
 tehdas - fateria  
 tehdä (toimia) - karma  
+tehdä (valmistaa) - cana  
 tehdä (valmistaa) - fata  
-tehdä (valmistaa) - sana  
 tehdä valmiiksi - reda  
 tehkäämme - haida  
 teippi (nauha) - tepe  
@@ -2449,7 +2451,7 @@ tuomari - hakimer
 tuomio - hakim  
 tuomita - hakima  
 tuore (raikas) - tazi  
-tuotanto - sania  
+tuotanto - cania  
 tupakka - tabake  
 tuplata (kertoa kahdella) - dulo multa  
 turbaani - pagre  
