@@ -519,29 +519,29 @@ Which apple do you want?
 This red one.
 
 
-### plisa <small>request, please</small>
+### pliza <small>request, please</small>
 
-**me plisa te niama cay.**
+**me pliza te niama cay.**
 I ask you to drink tea.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 I ask you to come home.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**plisa niama cay.**
+**pliza niama cay.**
 Please, have some tea!
 
-**plisa niama kafe.**
+**pliza niama kafe.**
 Please, have some coffee!
 
-**plisa laya dom.**
+**pliza laya dom.**
 Please, come home!
 
-**plisa helpa me.**
+**pliza helpa me.**
 Please, help me.
 
 
@@ -660,7 +660,7 @@ Listen to me!
 **me no abla auda te.**
 I can't hear you.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Please speak louder.
 
 **me auda musike.**
@@ -702,10 +702,10 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Please, write your address.
 
-**plisa kitaba le sa ye.**
+**pliza kitaba le sa ye.**
 Please, write it here!
 
 
@@ -758,7 +758,7 @@ Let's go by foot!
 
 ### laya <small>to come</small>
 
-**plisa laya!**
+**pliza laya!**
 Come here!
 
 **te laya ca ke?**
@@ -827,7 +827,7 @@ necessary.
 
 ### denga <small>to wait</small>
 
-**plisa denga!**
+**pliza denga!**
 Please wait!
 
 **denga me!**
@@ -908,10 +908,10 @@ He or she will be at home.
 
 ### dona <small>give</small>
 
-**plisa dona pese.**
+**pliza dona pese.**
 Please give some money.
 
-**plisa dona le pa me.**
+**pliza dona le pa me.**
 Please give it to me.
 
 **me dona ye pa te.**
@@ -929,7 +929,7 @@ He/she doesn't want to give it to me.
 **me kapa un kafe.**
 I will take a coffee.
 
-**plisa kapa un kafe pa me.**
+**pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
 **te pas kapa pese ya me.**
@@ -1036,7 +1036,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**plisa sida sa ye!**
+**pliza sida sa ye!**
 Please, sit here!
 
 **me suku stasa.**

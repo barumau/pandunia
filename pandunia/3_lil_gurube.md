@@ -23,8 +23,8 @@ bon niam, i li boke mulu sana suy.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
-wolfe darba mun, i loga: "lil gurube! lil gurube! plisa me laya jung!
-plisa me laya jung!" a lil gurube vida wolfe du day han sa cabi kong.
+wolfe darba mun, i loga: "lil gurube! lil gurube! pliza me laya jung!
+pliza me laya jung!" a lil gurube vida wolfe du day han sa cabi kong.
 a le jawaba: "no! no! no!" sa bada, wolfe xowa zi dante i loga:
 "me nafasa i me nafasa i me parca ti dom!"
 
@@ -35,8 +35,8 @@ wolfe kontinu sa lil daw. le pasa dom num dul, da fatu sa xake. le
 vida dom. le sa nos nota gurube, da sa jung. li boke mulu bina suy
 sa dur da le fikra lole si bon niam.
 
-le darba mun, i loga: "lil gurube! lil gurube! plisa me laya jung!
-plisa me laya jung!" a lil gurube vida wolfe du koni or sa cabi kong.
+le darba mun, i loga: "lil gurube! lil gurube! pliza me laya jung!
+pliza me laya jung!" a lil gurube vida wolfe du koni or sa cabi kong.
 a lole jawaba: "no! no! no!" wolfe xowa zi dante i loga: "me
 nafasa i me nafasa i me parca ti dom!"
 
@@ -56,8 +56,8 @@ fobi. wolfe no lew niama sa tot den i max max wana niama sa dur yu
 proba kaca gurube. sa yi mar le abla nos nota tot tin lole sa jung.
 le jana tin lil gurube si bon niam.
 
-wolfe darba mun, i loga: "lil gurube! lil gurube! plisa me laya
-jung! plisa me laya jung!" a lil gurube vida wolfe du lil wang yen sa
+wolfe darba mun, i loga: "lil gurube! lil gurube! pliza me laya
+jung! pliza me laya jung!" a lil gurube vida wolfe du lil wang yen sa
 cabi kong. a lole   : "no! no! no!" wolfe xowa zi dante i
 loga: "me nafasa i me nafasa i me parca tote du dom!"
 

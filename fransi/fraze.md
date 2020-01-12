@@ -502,29 +502,29 @@ La rouge. (mot à mot _cette rouge_)
 
 
 
-### plisa <small>demander, s’il vous plait</small>
+### pliza <small>demander, s’il vous plait</small>
 
-**me plisa te nyama cay.**
+**me pliza te nyama cay.**
 Je te demande si tu veux du thé.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Je te demande de venir à la maison.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**plisa nyama cay.**
+**pliza nyama cay.**
 Un thé, s’il vous plait !
 
-**plisa nyama kafe.**
+**pliza nyama kafe.**
 Un café, s’il vous plait!
 
-**plisa laya dom.**
+**pliza laya dom.**
 Viens à la maison, s’il te plait !
 
-**plisa helpa me.**
+**pliza helpa me.**
 Aide moi, s’il te plait.
 
 
@@ -669,7 +669,7 @@ Un chat dit miaou.
 **me ni abla auda te.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**plisa loga forti.**
+**pliza loga forti.**
 Parlez plus fort, s’il vous plait.
 
 **me auda musike.**
@@ -711,10 +711,10 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitaba <small>écrire</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 S’il te plait, écris ton adresse.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 S’il te plait, écris-le là !
 
 
@@ -768,7 +768,7 @@ On y va à pied !
 
 ### laya <small>venir</small>
 
-**plisa laya!**
+**pliza laya!**
 Viens ici !
 
 **te laya ya ke?**
@@ -837,7 +837,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### denga <small>attendre</small>
 
-**plisa denga!**
+**pliza denga!**
 Veuillez attendre !
 
 **lole denga mome.**
@@ -854,10 +854,10 @@ Je t’attends à l’hôtel.
 
 ### dona <small>donner</small>
 
-**plisa dona pese.**
+**pliza dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**plisa dona le pa me.**
+**pliza dona le pa me.**
 Donne-le moi, s’il te plait.
 
 **me dona ce pa te.**
@@ -875,7 +875,7 @@ Il/elle ne veut pas me le donner.
 **me kapa un kafe.**
 Je vais prendre un café.
 
-**plisa kapa un kafe pa me.**
+**pliza kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
 **te pas kapa pese ya me.**
@@ -977,7 +977,7 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-**plisa sida sa ce!**
+**pliza sida sa ce!**
 Assieds-toi là, s’il te plait !
 
 **me suku stasa.**

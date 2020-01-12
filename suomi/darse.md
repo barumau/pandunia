@@ -166,16 +166,16 @@ pomo, päällikkö.
 
 ☻: **salam!**
 = Hei!  
-☺: **salam! plisa sida.**
+☺: **salam! pliza sida.**
 = Hei! Istu, ole hyvä!  
 ☻: **danke.**
 = Kiitos.  
-☺: **plisa nyama kafe u cay.**
+☺: **pliza nyama kafe u cay.**
 = Joisitko kahvia tai teetä?  
 ☻: **me nyama cay. danke.**
 = Minä juon teetä. Kiitos.  
 ...  
-☺: **plisa salama ti mame!**
+☺: **pliza salama ti mame!**
 = Kerropa terveisiä äidillesi!  
 ☻: **me salama le. salam!**
 = Min kerron. Hei hei!  
@@ -190,7 +190,7 @@ Pandunian persoonapronominit ovat: **me** = minä, **te** = sinä, ja
 ei jaotella sukupuolta. Kaikkia edellä mainittuja persoonapronomineja
 käytettään seuraavassa esimerkkilauseessa.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi, **plisa**
@@ -210,9 +210,9 @@ mielin olettaa, että kuulijat tietävät mistä tai kenestä hän puhuu,
 eikä hänen tarvitse jatkuvasti toistaa niitä. Tällä tavalla lauseista
 voi tehdä lyhyempiä.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Minä pyydän sinua tervehtimään häntä.  
-**plisa salama le.**
+**pliza salama le.**
 = (Pyydän,) tervehdi häntä.
 
 Huomasitko miten sanan **plisa** rooli muuttui hieman kahdessa
@@ -223,18 +223,18 @@ Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa. Sen
 sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa
 verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
-Lauseen **plisa salama le** rakennetta voi hyödyntää kaikenlaisten
+Lauseen **pliza salama le** rakennetta voi hyödyntää kaikenlaisten
 kohteliaiden pyyntöjen ilmaisemiseen.
 
-**plisa sida.**
+**pliza sida.**
 = Istu, ole hyvä.  
-**plisa dona kafe.**
+**pliza dona kafe.**
 = Antaisitko kahvia.  
-**plisa dona cay.**
+**pliza dona cay.**
 = Antaisitko teetä.  
-**plisa nyama cay.**
+**pliza nyama cay.**
 = Ottaisitko teetä.  
-**plisa safa kamar.**
+**pliza safa kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla **komanda** = käskeä, komentaa.
@@ -283,9 +283,9 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 ### Harjoitusten vastaukset
 
 1. le nyama cay.
-2. xefe plisa le sida.
-3. plisa nyama kafe u cay.
-4. mame plisa me safa kamar.
+2. xefe pliza le sida.
+3. pliza nyama kafe u cay.
+4. mame pliza me safa kamar.
 5. xefe sida i nyama kafe.
 6. (komanda) salama xefe!
 
@@ -442,11 +442,11 @@ tervehtimisen olemassaolon. Panduniassa kieltosana vaikuttaa aina
 seuraavaan sanaan. Siis eri asiat tulevat kielletyksi, kun kieltosanan
 paikka lauseessa muuttuu.
 
-**me plisa te safa kamar.**
+**me pliza te safa kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**me ni plisa te safa kamar.**
+**me ni pliza te safa kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**me plisa te ni safa kamar.**
+**me pliza te ni safa kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,

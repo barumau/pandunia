@@ -161,16 +161,16 @@ Pidiendo
 
 ☻: **salam!**
 = ¡Hola!  
-☺: **salam! plisa sida.**
+☺: **salam! pliza sida.**
 = ¡ Hola!¡ Por favor sientese!  
 ☻: **danke.**
 = ¡Gracias!  
-☺: **plisa niama kafe o cay.**
+☺: **pliza niama kafe o cay.**
 = Por favor beba algo de café o té.  
 ☻: **me wana cay. danke.**
 = Quiero té, gracias.  
 ...  
-☺: **plisa salama ti mame!**
+☺: **pliza salama ti mame!**
 = Por favor llevale saludos a tu madre.  
 ☻: **me salama le. salam!**
 = Yo la saludo. ¡Adiós!  
@@ -186,7 +186,7 @@ Pidiendo
  o en otros pronombres. Todos los pronombres personales son usados en
  la siguiente oración.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo, **plisa** = pedir,
@@ -206,9 +206,9 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Yo te pido digas hola a él.
-**plisa salama le.**
+**pliza salama le.**
 = Por favor dile hola.
 
 ¿Vea cómo la traducción de **plisa** ha cambiado entre las dos frases?
@@ -220,18 +220,18 @@ principio en Pandunia que siempre hay exactamente una palabra para un
 concepto. Diferentes palabras no se crean sólo por el papel gramatical
 de algunos cambios de concepto.
 
-La frase **plisa salama ye** tiene un patrón útil que puede ser
+La frase **pliza salama ye** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**plisa sida.**
+**pliza sida.**
 = Por favor sientese.  
-**plisa dona kafe.**
+**pliza dona kafe.**
 = Por favor me da un poco de café.  
-**plisa dona cay.**
+**pliza dona cay.**
 = Por favor me da un poco de té.  
-**plisa niama cay.**
+**pliza niama cay.**
 = Por favor beba algo de té.  
-**plisa safa kamar.**
+**pliza safa kamar.**
 = Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **komanda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
@@ -272,9 +272,9 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Respuestas
 
 1. le niama cay.
-2. xefe plisa le sida.
-3. plisa niama kafe o cay.
-4. mame plisa me safa kamar.
+2. xefe pliza le sida.
+3. pliza niama kafe o cay.
+4. mame pliza me safa kamar.
 5. xefe sida e niama kafe.
 
 
@@ -422,11 +422,11 @@ del verbo convertimos una oración afirmativa en negativa.
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
-**me plisa te safa kamar.**
+**me pliza te safa kamar.**
 = Yo te pedi limpiar la habitación.  
-**me no plisa te safa kamar.**
+**me no pliza te safa kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me plisa te no safa kamar.**
+**me pliza te no safa kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 

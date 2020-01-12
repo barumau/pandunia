@@ -4,7 +4,7 @@
 
 un sube urse mame wana gowa pa bazar.
 le loga pa lil urse: "no niama kande e keke sa dura da me sa bazar."
-lil urse loga: "si, si, mame! me jana le. me day urse. plisa gowa way!"
+lil urse loga: "si, si, mame! me jana le. me day urse. pliza gowa way!"
 urse mame loga "salam" e le gowa way.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
@@ -45,7 +45,7 @@ bado, lil urse senta no jana du sente sa boke. li dante tungi!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
 
-le kapa telofon. le loga: "halow! eska te si dantodotor? plisa laya pa me! me tena tungi dante!"
+le kapa telofon. le loga: "halow! eska te si dantodotor? pliza laya pa me! me tena tungi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_10.png)
 
@@ -55,7 +55,7 @@ lil urse loga: "si! me tena tungi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
-dotor plisa lil urse sidu sa kurse e kaya boke.
+dotor pliza lil urse sidu sa kurse e kaya boke.
 "aha! un dante day mal! me bixu kapa le pa way."
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
@@ -89,7 +89,7 @@ dante laya pa way!
 ![](http://www.pandunia.info/grafe/urse_dante/urse_18.png)
 
 dotor loga pa lil urse: "mal dante zayo sa way.
-plisa mema uza dantobrox sa mey sube e sa mey xam!"
+pliza mema uza dantobrox sa mey sube e sa mey xam!"
 lil urse wada mema.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_19.png)

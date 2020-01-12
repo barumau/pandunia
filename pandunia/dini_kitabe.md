@@ -7,10 +7,10 @@ santa ti nam,
 layu ti rajia,
 fatu ti wole  
 sa zemia i sa saman.  
-plisa dona momi pan den du pang pa mome.  
-plisa pardona momi dox,  
+pliza dona momi pan den du pang pa mome.  
+pliza pardona momi dox,  
 ka mome pardona momi doxer.  
-plisa ni lida mome pa tentia  
+pliza ni lida mome pa tentia  
 a garda mome kontra malia.  
 te tena rajia, fortia e onoria sa pan zaman.  
 amen.

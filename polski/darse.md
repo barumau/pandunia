@@ -156,16 +156,16 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ☻: **salam!**
 = Cześć!  
-☺: **salam! plisa sida.**
+☺: **salam! pliza sida.**
 = Cześć! Proszę, usiądź!  
 ☻: **danke.**
 = Dziękuję.  
-☺: **plisa niama kafe u cay.**
+☺: **pliza niama kafe u cay.**
 = Proszę, napij się kawy lub herbaty.  
 ☻: **me niama cay. danke.**
 = Napiję się herbaty, dziękuję.  
 ...  
-☺: **plisa salama ti mame!**
+☺: **pliza salama ti mame!**
 = Proszę pozdrów twoją matkę.  
 ☻: **me salama le. salam!**
 = Pozdrowię ją. Cześć!  
@@ -177,7 +177,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
 
 Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **plisa** = prosić, odnosi się do **te** jako swojego dopełnienia. Jednocześnie **te** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **le**. Tak więc **te** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
@@ -188,22 +188,22 @@ Struktura osiowa jest powszechną strukturą w Panduni.
 
 Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Ja proszę cię, żebyś pozdrowił go/ją.  
-**plisa salama le.**
+**pliza salama le.**
 = Proszę, pozdrów go/ją.
 
-Zdanie **plisa salama le** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+Zdanie **pliza salama le** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-**plisa sida.**
+**pliza sida.**
 = Proszę, usiąść.  
-**plisa dona kafe.**
+**pliza dona kafe.**
 = Proszę, podaj kawę.  
-**plisa dona cay.**
+**pliza dona cay.**
 = Proszę, podaj herbatę.  
-**plisa niama cay.**
+**pliza niama cay.**
 = Proszę, pij herbatę.  
-**plisa safa kamar.**
+**pliza safa kamar.**
 = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
@@ -238,9 +238,9 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 ### Odpowiedzi do Ćwiczeń
 
 1. le niama cay.
-2. xefe plisa le sida.
-3. plisa niama kafe u cay.
-4. mame plisa me safa kamar.
+2. xefe pliza le sida.
+3. pliza niama kafe u cay.
+4. mame pliza me safa kamar.
 5. xefe sida i niama kafe.
 
 
@@ -349,9 +349,9 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **ni** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me ni salama te**, przeczące słowo **ni** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **me plisa te safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **me ni plisa te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **me plisa te ni safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **me pliza te safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **me ni pliza te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **me pliza te ni safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.

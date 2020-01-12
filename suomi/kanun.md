@@ -101,11 +101,11 @@ tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mar
     - esim. **meze pentu.** = Pöytä maalataan.
 8. Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
    Tämä on ns. _saranarakenne_.
-    - esim. **me plisa te dona pese.** = Minä pyydän sinua antamaan rahaa.
+    - esim. **me pliza te dona pese.** = Minä pyydän sinua antamaan rahaa.
 9. Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?**
       = Puhutko sinä panduniaa?
-    - **me plisa te loga ming.** →  **plisa loga ming.**
+    - **me pliza te loga ming.** →  **pliza loga ming.**
       = Pyydän, puhu selvästi.
 10. Yhdyssanat muodostetaan asettamalla kaksi tai useampia sanavartaloita peräkkäin.
     Sanojen välissä välissä on yhdysvokaali **-o-**.
@@ -755,9 +755,9 @@ Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lausei
 
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 = Minä pyydän sinua tulemaan kotiin.  
-**plisa laya dom!**
+**pliza laya dom!**
 = Pyydän, tule kotiin!
 
  

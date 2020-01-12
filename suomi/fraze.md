@@ -474,29 +474,29 @@ Tuon punaisen.
 
 
 
-### plisa <small>pyytää</small>
+### pliza <small>pyytää</small>
 
-**me plisa te nyama cay.**
+**me pliza te nyama cay.**
 Minä pyydän sinua juomaan teetä.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**plisa nyama cay.**
+**pliza nyama cay.**
 Juopa teetä.
 
-**plisa nyama kafe.**
+**pliza nyama kafe.**
 Juopa kahvia.
 
-**plisa laya dom.**
+**pliza laya dom.**
 Tulepa kotiin.
 
-**plisa helpa me.**
+**pliza helpa me.**
 Autapa minua.
 
 
@@ -641,7 +641,7 @@ Kissa sanoo miau.
 **me ni abla auda te.**
 En voi kuulla sinua.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Puhuisitko kovempaa.
 
 **me auda musike.**
@@ -686,10 +686,10 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Kirjoittaisitko osoitteesi.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 Kirjoittaisitko sen tähän!
 
 
@@ -745,7 +745,7 @@ Menkäämme jalan!
 
 ### laya <small>tulla</small>
 
-**plisa laya!**
+**pliza laya!**
 Tule tänne!
 
 **te laya ya ke?**
@@ -817,7 +817,7 @@ ei välttämättä tarvita.
 
 ### denga <small>odottaa</small>
 
-**plisa denga!**
+**pliza denga!**
 Odota!
 
 **lole denga mome.**

@@ -460,29 +460,29 @@ Te czerwone.
 
 
 
-### plisa <small>prosić</small>
+### pliza <small>prosić</small>
 
-**me plisa te niama cay.**
+**me pliza te niama cay.**
 Proszę, żebyś napił się herbaty.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Proszę, żebyś przyszedł do domu.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**plisa niama cay.**
+**pliza niama cay.**
 Proszę, napij się herbaty!
 
-**plisa niama kafe.**
+**pliza niama kafe.**
 Proszę, napij się kawy!
 
-**plisa laya dom.**
+**pliza laya dom.**
 Proszę, przyjdź do domu!
 
-**plisa helpa me.**
+**pliza helpa me.**
 Proszę, pomóż mi.
 
 
@@ -628,7 +628,7 @@ Kot mówi miau.
 **me ni abla auda te.**
 Nie mogę cię usłyszeć.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Proszę, mów głośniej.
 
 **me auda musike.**
@@ -674,10 +674,10 @@ Nie rozumiem, co to znaczy.
 
 ### kitaba <small>pisać</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Proszę, napisz swój adres.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 Proszę, napisz to tutaj!
 
 
@@ -734,7 +734,7 @@ Pójdźmy pieszo!
 
 ### laya <small>przybywać, przychodzić</small>
 
-**plisa laya!**
+**pliza laya!**
 Przyjdź tu!
 
 **te laya ya ke?**
@@ -808,7 +808,7 @@ nie jest potrzebne.
 
 ### denga <small>czekać</small>
 
-**plisa denga!**
+**pliza denga!**
 Proszę, czekaj!
 
 **lole denga mome.**
@@ -824,10 +824,10 @@ Czekam na ciebie w hotelu.
 
 ### dona <small>dać</small>
 
-**plisa dona pese.**
+**pliza dona pese.**
 Proszę, daj trochę pieniędzy.
 
-**plisa dona le pa me.**
+**pliza dona le pa me.**
 Proszę, daj mi to.
 
 **me dona ce pa te.**
@@ -845,7 +845,7 @@ Nie chce dać mi tego.
 **me kapa un kafe.**
 Wezmę kawę.
 
-**plisa kapa un kafe pa me.**
+**pliza kapa un kafe pa me.**
 Proszę, weź kawę dla mnie.
 
 **te pas kapa pese ya me.**

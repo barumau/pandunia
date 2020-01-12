@@ -187,16 +187,16 @@ Les réponses correctes sont données plus bas.
 
 ☻: **salam!**
 = Bonjour !  
-☺: **salam! plisa sida.**
+☺: **salam! pliza sida.**
 = Bonjour ! Asseyez-vous je vous prie !  
 ☻: **danke.**
 = Merci.  
-☺: **plisa niama kafe u cay.**
+☺: **pliza niama kafe u cay.**
 = Prenez du thé ou du café, je vous prie
 ☻: **me niama cay. danke.**
 = Je prends du thé, merci.  
 ...
-☺: **plisa salama ti mame!**
+☺: **pliza salama ti mame!**
 = S'il te plaît, salut ta mère.  
 ☻: **me salama le. salam!**
 = Je la saluerai. Au revoir !  
@@ -213,7 +213,7 @@ sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_. Le premier verbe **plisa**
@@ -233,9 +233,9 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = Je te demande de le/la saluer.  
-**plisa salama le.**
+**pliza salama le.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de **plisa** a changé entre les
@@ -247,18 +247,18 @@ des mots différents. C'est un principe en Pandunia qu'il y ait
 toujours exactement un mot pour un concept. On ne crée pas différents
 mots simplement parce que le rôle grammatical d'un concept change.
 
-La phrase **plisa salama le** est un modèle très utile pour les
+La phrase **pliza salama le** est un modèle très utile pour les
 formules de politesses.
 
-**plisa sida.**
+**pliza sida.**
 = Asseyez-vous s'il vous plaît..  
-**plisa dona kafe.**
+**pliza dona kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**plisa dona cay.**
+**pliza dona cay.**
 = S'il vous plaît, donnez-moi du thé. 
-**plisa niama cay.**
+**pliza niama cay.**
 = S'il vous plaît, prenez un peu de thé.  
-**plisa safa kamar.**
+**pliza safa kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec **komanda** = ordonner. Ils utilisent la
@@ -306,9 +306,9 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ### Réponses aux exercices
 
 1. le niama cay.
-2. xefe plisa le sida.
-3. plisa niama kafe u cay.
-4. mame plisa me safa kamar.
+2. xefe pliza le sida.
+3. pliza niama kafe u cay.
+4. mame pliza me safa kamar.
 5. xefe sida i niama kafe.
 
 
@@ -348,7 +348,7 @@ Note: **sa bade yu** est une expression qui signifie "dans (tant de temps)"
 
 ### Poser des questions
 
-Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **plisa **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
+Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **pliza **que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
 **me eska te niama cay.**
 = Je vous demande si vous buvez du thé.  
@@ -472,11 +472,11 @@ Conceptuellement, la négation signifie l'absence ou la non-existence du mot ni�
 l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **ni**.
 
-**me plisa te safa kamar.**
+**me pliza te safa kamar.**
 = Je te demande de nettoyer la chambre.  
-**me ni plisa te safa kamar.**
+**me ni pliza te safa kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**me plisa te ni safa kamar.**
+**me pliza te ni safa kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
