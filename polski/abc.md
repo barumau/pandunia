@@ -96,7 +96,7 @@ Wielkie litery są używane w standardowych międzynarodowych akronimach. Na prz
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
 > **me vida te :)** = Ja widzę cię.  
-> **me ni vida te :(** = Ja nie widzę cię.
+> **me no vida te :(** = Ja nie widzę cię.
 
 
 ## Struktura słów

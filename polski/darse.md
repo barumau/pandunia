@@ -23,16 +23,16 @@ Przedstawianie się
 
 Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **le si mi doste** tematem jest zaimek **le** (on, ona, ono), za którym podąrza komentarz **si mi doste** (jest moim przyjacielem).
 
-Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **ni** (które jest słowem na _nie_).
+Słowo **si** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
 **le si sarah.**
 = Ona jest Sarą.  
-**le ni sarah.**
+**le no sarah.**
 = Ona nie jest Sarą.
 
 **maw si hewan.**
 = Kot jest zwierzęciem.  
-**dom ni hewan.**
+**dom no hewan.**
 = Dom nie jest zwierzęciem.  
 
 
@@ -55,7 +55,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **le** on, ona lub ono. **li** jego lub jej.  
 **ke** co lub kto.  
 **si** być (jestem, jesteś, jest, itd)
-**si** tak. **ni** nie.  
+**si** tak. **no** nie.  
 **bon** dobry, dobrze. **doste** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
 **maw** kot. **hewan** zwierzę.
@@ -255,13 +255,13 @@ Pytania "tak lub nie"
 ☻: **salam! eska te niama kafe u cay?** = Witam! Czy chce pan kawę albo herbatę?  
 ☺: **cay.** = Herbatę.  
 ☻: **i te?** = A pan?  
-○: **me ni baxa pandunia...** = Nie mówię w Panduni...  
+○: **me no baxa pandunia...** = Nie mówię w Panduni...  
 ☻: **pardon! eska le niama cay?** = Przepraszam! Czy napije się herbaty?  
-☺: **ni. le ni niama cay. le niama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
+☺: **no. le no niama cay. le niama kafe.** = Nie, on nie pije herbaty. On pije kawę.  
 ☻: **eska te niama supe?** = Czy zje pan zupę?  
 ☺: **niama.** = Tak. (_Jem._)  
 ☻: **eska le niama supe?** = Czy on zje zupę?  
-☺: **ni niama.** = Nie.  
+☺: **no niama.** = Nie.  
 ☻: **danke. me dona un cay i un kafe i un supe na bade da des minut.**
  = Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
@@ -289,19 +289,19 @@ Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używan
 
 ### Dawanie odpowiedzi
 
-Na pytania tak/nie można odpowiadać słowami **si** = tak, i **ni** = nie.
+Na pytania tak/nie można odpowiadać słowami **si** = tak, i **no** = nie.
 
 > – **eska te niama supe?** = Czy jesz zupę?  
 > – **si.** = Tak.  
 > – **eska le niama supe?** = Czy ona je zupę?  
-> – **ni.** = Nie.
+> – **no.** = Nie.
 
 Można odpowiadać też bardziej złożenie.
 
 > – **eska te niama kafe?** = Czy pijesz kawę?  
 > – **si. me niama kafe.** = Tak, piję kawę.  
 > – **eska le niama kafe?** = Czy on pije kawę?  
-> – **ni. le ni niama kafe.** = Nie, on nie pije kawy.
+> – **no. le no niama kafe.** = Nie, on nie pije kawy.
 
 Można też odpowiadadać twierdząco powtarzając główny czasownik z pytania.
 
@@ -324,7 +324,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista Słów
 
-**bada** po. **pardon** przepraszam, pardon. **minut** minuta. **ni** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **eska** zapytać, pytać. **si** tak.
+**bada** po. **pardon** przepraszam, pardon. **minut** minuta. **no** nie. **baxa** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **eska** zapytać, pytać. **si** tak.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -332,9 +332,9 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
 3. eska mamá niama kafe?
-4. ni. le ni niama kafe.
+4. no. le no niama kafe.
 5. eska le niama supe?
-6. (le) ni niama.
+6. (le) no niama.
 
 
 --------------------------------------------------------------------------------
@@ -342,24 +342,24 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 Mówienie nie
 ---------
 
-W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **ni** na pytania. Słowo **ni** jest używane do przeczenia. Dodawanie **ni** przed czasownikiem zamienia zdanie twierdzące w przeczące.
+W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. Słowo **no** jest używane do przeczenia. Dodawanie **no** przed czasownikiem zamienia zdanie twierdzące w przeczące.
 
 > **me salama te.** = Pozdrawiam cię.  
-> **me ni salama te.** = Nie pozdrawiam cię.
+> **me no salama te.** = Nie pozdrawiam cię.
 
-Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me ni salama te**, przeczące słowo **ni** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
+Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me no salama te**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
 > **me pliza te safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **me ni pliza te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **me pliza te ni safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **me no pliza te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **me pliza te no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-> **le ni tena maw.** = Ona nie ma koty.  
-> **le tena ni maw, lova waf.** = Ona ma nie koty, ale psy.  
-> **ni le, a me tena maw.** = Nie ona, ale ja mam koty.  
-> **me tena ni un, a do maw.** = Ja nie mam jednego, ale dwa koty.
+> **le no tena maw.** = Ona nie ma koty.  
+> **le tena no maw, lova waf.** = Ona ma nie koty, ale psy.  
+> **no le, a me tena maw.** = Nie ona, ale ja mam koty.  
+> **me tena no un, a do maw.** = Ja nie mam jednego, ale dwa koty.
 
 
 ### Ćwiczenia
@@ -381,12 +381,12 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Odpowiedzi do Ćwiczeń
 
-1. le ni safa kamar.
-2. un kupe ni hali.
-3. dua waf ni niama supe.
-4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe niama cay a ni kafe.
-6. mamá tena ni waf a do maw.
+1. le no safa kamar.
+2. un kupe no hali.
+3. dua waf no niama supe.
+4. le no tena waf i maw. / le tena no waf i no maw.
+5. xefe niama cay a no kafe.
+6. mamá tena no waf a do maw.
 
 
 <!--
@@ -438,8 +438,8 @@ Oczywiście **koz** może być też yżywane do wyrażania przyczyny lub powodu 
 2. papá suku.
 3. ke zam le lai?
 4. na des minut bada.
-5. le ni niama koz ke?
-6. koz (le) ni suku kafe u supe.
+5. le no niama koz ke?
+6. koz (le) no suku kafe u supe.
 
 -->
 

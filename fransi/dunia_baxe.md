@@ -309,7 +309,7 @@ Le verbe **bey** est utilisé lorsque l'objet d'une action vient en premier dans
 Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me pliza le nyama kafe.
+    Pandunia:  me pliza le niama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon le contexte.

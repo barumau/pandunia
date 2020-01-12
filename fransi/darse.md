@@ -35,16 +35,16 @@ le sujet est le pronom **le** (il, elle, il neutre), suivi du
 commentaire **si mi doste** (est mon amie).
 
 Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
-Et pour dire le contraire, remplacez le simplement avec un **ni** (qui signifie à la fois _ne pas_ et _non_)
+Et pour dire le contraire, remplacez le simplement avec un **no** (qui signifie à la fois _ne pas_ et _non_)
 
 **le si sarah.**
 = C'est Sara.  
-**le ni sarah.**
+**le no sarah.**
 = Ce n'est pas Sara.
 
 **maw si hewan**
 = Le chat est un animal.  
-**dom ni hewan**
+**dom no hewan**
 = La maison n'est pas un animal.  
 
 
@@ -67,7 +67,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 **le** il, elle ou il neutre. **li** son, sa, ses.  
 **ke** qui ou quoi.  
 **si** être (je suis, tu es, nous sommes, etc.)
-**si** oui. **ni** non.  
+**si** oui. **no** non.  
 **bon** bon. **doste** ami. **nam** nom.
 **fem** femme. **man** homme.
 **maw** chat. **hewan** animal.
@@ -326,11 +326,11 @@ Questions par oui ou par non
 = Du thé.  
 ☻: **i te?**
 = Et vous ?  
-○: **me ni baxa pandunia...**
+○: **me no baxa pandunia...**
 = Je ne parle pas le Pandunia...  
 ☻: **pardon! eska le niama cay?**
 = Pardon ! prend-il du thé ?  
-☺: **ni. le ni niama cay. le niama kafe.**
+☺: **no. le no niama cay. le niama kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
 ☻: **eska te niama supe?**
 = Prenez-vous de la soupe ?  
@@ -338,7 +338,7 @@ Questions par oui ou par non
 = Oui. (_J'en prends._)  
 ☻: **eska le niama supe?**
 = Prend-il de la soupe ?  
-☺: **ni niama.**
+☺: **no niama.**
 = Non.  
 ☻: **danke. me dona un cay i un kafe i un supe sa bade da des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
@@ -383,7 +383,7 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 ### Apporter des réponses
 
 On peut répondre aux questions fermées (deux réponses possibles oui
-ou non) par **si** = oui et **ni** = non.
+ou non) par **si** = oui et **no** = non.
 
 – **eska te niama supe?**
 = Manges-tu de la soupe ?  
@@ -391,7 +391,7 @@ ou non) par **si** = oui et **ni** = non.
 = Oui.  
 – **eska le niama supe?**
 = Mange-t-elle de la soupe ?  
-– **ni.**
+– **no.**
 = Non.
 
 Des réponses plus complètes peuvent également être apportées.
@@ -402,7 +402,7 @@ Des réponses plus complètes peuvent également être apportées.
 = Oui, je bois du café .  
 – **eska le niama kafe?**
 = Boit-il du café ?  
-– **ni. le ni niama kafe.**
+– **no. le no niama kafe.**
 = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant
@@ -432,7 +432,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 **bade** après.
 **pardon** pardon, désolé.
 **minute** minute.
-**ni** non, pas.
+**no** non, pas.
 **baxa** parler (une langue).
 **suy** eau.
 **supe** soupe.
@@ -447,9 +447,9 @@ Essayez de traduire ces phrases du Français au Pandunia.
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
 3. eska mame niama kafe?
-4. ni. le ni niama kafe.
+4. no. le no niama kafe.
 5. eska le niama supe?
-6. (le) ni niama.
+6. (le) no niama.
 
 
 --------------------------------------------------------------------------------
@@ -457,38 +457,38 @@ Essayez de traduire ces phrases du Français au Pandunia.
 Dire non
 ---------
 
-Dans la leçon précédente, vous avez appris à répondre **si** et **ni**
-aux questions. Le mot **ni** est utilisé pour répondre par la
-négative. L'ajout du **ni** devant le verbe transforme donc une
+Dans la leçon précédente, vous avez appris à répondre **si** et **no**
+aux questions. Le mot **no** est utilisé pour répondre par la
+négative. L'ajout du **no** devant le verbe transforme donc une
 phrase affirmative en phrase négative.
 
 **me salama te.**
 = Je vous salue.  
-**me ni salama te.**
+**me no salama te.**
 = Je ne vous salue pas.
 
 Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié
-(ne pas y avoir). Dans la phrase **me ni salama te** le mot **ni** nie
+(ne pas y avoir). Dans la phrase **me no salama te** le mot **no** nie
 l'existence de la salutation. En Pandunia, la négation affecte le mot qui le suit ;
-le sens de la phrase change donc selon l'emplacement du **ni**.
+le sens de la phrase change donc selon l'emplacement du **no**.
 
 **me pliza te safa kamar.**
 = Je te demande de nettoyer la chambre.  
-**me ni pliza te safa kamar.**
+**me no pliza te safa kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**me pliza te ni safa kamar.**
+**me pliza te no safa kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**le ni tena maw.**
+**le no tena maw.**
 = Elle n'a pas de chat.  
-**le tena ni maw, a waf.**
+**le tena no maw, a waf.**
 = Elle n'a pas de chats, mais des chiens.  
-**ni le, a me tena maw.**
+**no le, a me tena maw.**
 = Pas elle, mais j'ai des chats.  
-**me tena ni un, a dul maw.**
+**me tena no un, a dul maw.**
 = Je n'ai pas un, mais deux chats.
 
 
@@ -500,7 +500,7 @@ Parfois, il y a plus d'une bonne réponse.
 1. Il ne nettoie pas la chambre.
 2. Une tasse n'est pas vide
 3. Deux chiens ne mangent pas de soupe.
-4. Elle n'a ni chiens ni chats.
+4. Elle n'a no chiens no chats.
 5. Le chef boit du thé, mais pas de café.
 6. La mère n'a pas de chiens, mais (elle a) deux chats.
 
@@ -519,12 +519,12 @@ Parfois, il y a plus d'une bonne réponse.
 
 ### Réponses aux exercices
 
-1. le ni safa kamar.
-2. un kupe ni hali.
-3. dul waf ni niama supe.
-4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe niama cay a ni kafe.
-6. mame tena ni waf a dul maw.
+1. le no safa kamar.
+2. un kupe no hali.
+3. dul waf no niama supe.
+4. le no tena waf i maw. / le tena no waf i no maw.
+5. xefe niama cay a no kafe.
+6. mame tena no waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -595,8 +595,8 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade du des minute.
-5. ke saba le ni niama?
-6. sabu le ni suku kafe u supe.
+5. ke saba le no niama?
+6. sabu le no suku kafe u supe.
 
 --------------------------------------------------------------------------------
 

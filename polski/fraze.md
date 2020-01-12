@@ -158,7 +158,7 @@ Jak się czujesz? (Dosłownie: _Czy ty jesteś dobry?_)
 Ja czuję się dobrze.
 **eska te?**
 A ty?
-**me ni bon.**
+**me no bon.**
 Ja nie czuję się dobrze.
 
 <small>Etymologia. **eska**
@@ -201,12 +201,12 @@ pochodzi z języków: hiszpańskiego: si, portugalskiego: sim, mandaryńskiego: 
 
 
 
-### ni <small>nie</small>
+### no <small>nie</small>
 
-**me ni sarah.**
+**me no sarah.**
 Nie jestem Sara.
 
-**me ni dotor.**
+**me no dotor.**
 Nie jestem lekarzem.
 
 **eska te bon?**
@@ -216,16 +216,16 @@ Tak, czuję się dobrze.
 
 **eska te bon?**
 Czy czujesz się dobrze?
-**ni. me ni bon.**
+**no. me no bon.**
 Nie, nie czuję się dobrze.
 
-Możesz używać **ni**
+Możesz używać **no**
 do zaprzeczania czegokolwiek. Jest umieszczane przed słowem zaprzeczanym.
 
-**le ni salama me.**
+**le no salama me.**
 Nie pozdrawia mnie.
 
-<small>Etymologi. **ni**
+<small>Etymologi. **no**
 pochodzi z języków: angielskiego: no, hiszpańskiego: no, francuskiego: non.</small>
 
 
@@ -359,7 +359,7 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 **me tena bon dom.**
 Mam dobry dom.
 
-**le ni tena pese.**
+**le no tena pese.**
 Nie ma pieniędzy.
 
 **me wana tena novi fon.**
@@ -449,7 +449,7 @@ Chcę pić kawę.
 **eska te wana niama cay?**
 Czy chcesz napić się herbaty?
 
-**ni. me ni wana cay. me wana kafe.**
+**no. me no wana cay. me wana kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
 **te wana ki aple?**
@@ -543,7 +543,7 @@ Czy jesteś spragniony?
 
 ### pardon <small>przepraszam, pardon, sory</small>
 
-**pardon! me ni aha.**
+**pardon! me no aha.**
 Przepraszam, nie rozumiem.
 
 **pardon! ce ke?**
@@ -562,10 +562,10 @@ Czy rozumiesz mnie?
 **me aha.**
 Rozumiem.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Przepraszam., nie rozumiem cię.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 Niezbyt zrozumiałem cię.
 
 **me aha nol.**
@@ -578,7 +578,7 @@ Nic nie rozumiem.
 **me abla gida kar.**
 Umiem kierować samochodem.
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 Nie umie kierować samochodem.
 
 **eska te abla xula le?**
@@ -593,10 +593,10 @@ Umiem mówić w Panduni.
 **me abla lil pandunia.**
 Umiem trochę mówić w Panduni.
 
-**me ni abla engli.**
+**me no abla engli.**
 Nie znam języka angielskiego.
 
-**pardon. me ni abla te du bax.**
+**pardon. me no abla te du bax.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -625,7 +625,7 @@ Kot mówi miau.
 
 ### auda <small>słuchać, słyszeć</small>
 
-**me ni abla auda te.**
+**me no abla auda te.**
 Nie mogę cię usłyszeć.
 
 **pliza loga forti.**
@@ -667,7 +667,7 @@ Co znaczy "maw"?
 **le mena yang da hewan.**
 To oznacza rodzaj zwierzęcia.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 Nie rozumiem, co to znaczy.
 
 
@@ -836,7 +836,7 @@ Daję ci to.
 **me dona buke pa lole.**
 Daję im książkę.
 
-**le ni wana dona le pa me.**
+**le no wana dona le pa me.**
 Nie chce dać mi tego.
 
 

@@ -452,7 +452,7 @@ Kolmion toinen sanajärjestys on OSV. Se on yleinen kysymyslauseissa ja sivulaus
 Esimerkkejä:  
 **ke te vida?**
 = Mitä sinä näet?  
-**me nyama pang, jo te beka.**
+**me niama pang, jo te beka.**
 = Minä syön leipää _jonka sinä leivoit._
 
 #### 6.2.3. VOS-järjestys
@@ -466,7 +466,7 @@ Kolmion kolmas sanajärjestys on VOS, jota käytetään harvoin.
     S ← O
 
 Esimerkkejä:  
-**nyama pang me.**
+**niama pang me.**
 = Syön leipää minä.  
 **vida me te.**
 = Näet minut sinä.
@@ -569,13 +569,13 @@ Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa s
 **le sarah.**
 = Hän on Sara.
 
-Kieltolauseessa käytetään sanaa **ni**.
+Kieltolauseessa käytetään sanaa **no**.
 
-**me ni bon.**
+**me no bon.**
 = Minä en ole hyvä.  
-**le ni novi.**
+**le no novi.**
 = Se ei ole uusi.  
-**le ni sarah.**
+**le no sarah.**
 = Hän ei ole Sara.
 
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
@@ -583,7 +583,7 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 **me si le.**
 = Minä olen se.  
-**me ni te.**
+**me no te.**
 = Minä en ole sinä.
 
 #### 7.2.2. Substantiivi subjektina
@@ -596,17 +596,17 @@ Samoin kuin edellä.
 = Kivi on suuri.  
 **meze si novi.**
 = Pöytä on uusi.  
-**meze ni law.**
+**meze no law.**
 = Pöytä ei ole vanha.
 
 
 #### 7.2.3. Adjektiivi subjektina
 
-Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **ni** kuten edelläkin.
+Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
 **jowan si sundar.**
 = Nuori on kaunista.  
-**novi ni law.**
+**novi no law.**
 = Uusi ei ole vanha.  
 
 #### 7.2.4. Olla-verbi
@@ -621,7 +621,7 @@ Aktiivilauseissa predikaatin pääsana on verbi eli teonsana. Panduniassa verbit
 
 A-päätteistä verbiä käyttävän aktiivilauseen sanajärjestys on subjekti–verbi–objekti (SVO).
 
-**me nyama aple.**
+**me niama aple.**
 = Minä syön omenoita.  
 **me auda musike.**
 = Minä kuuntelen musiikkia.  
@@ -704,10 +704,10 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**me wana te nyama sabze.**
+**me wana te niama sabze.**
 = Minä haluan sinun syövän vihanneksia.
 
-Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **nyama sabze**. Näin ollen **te** on lauseen _sarana_.
+Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **niama sabze**. Näin ollen **te** on lauseen _sarana_.
 
 
 ### 7.7. Verbiketju
@@ -776,7 +776,7 @@ Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pr
 = Minä pidän kissoista ja koirista.  
 **me suku maw u waf.**
 = Minä pidän kissoista tai koirista.  
-**me suku maw a ni waf.**
+**me suku maw a no waf.**
 = Minä pidän kissoista mutta en koirista.
 
 --------------------------------------------------------------------------------
@@ -788,7 +788,7 @@ Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pr
 
 ### 9.1.1. Myöntäminen
 
-Partikkeli **si** on myöntävä ja ni** on kieltävä. **si** myöntää jonkin asian olemassaolon, kun taas **ni** kieltää sen. Tästä seuraa, että **si** tarkoitta olemista ja **ni** tarkoittaa olemisen puutetta.
+Partikkeli **si** on myöntävä ja no** on kieltävä. **si** myöntää jonkin asian olemassaolon, kun taas **no** kieltää sen. Tästä seuraa, että **si** tarkoitta olemista ja **no** tarkoittaa olemisen puutetta.
 
 Lauseet ovat lähtökohtaisesti myöntäviä, joten sanaa **si** ei yleensä tarvita. Kuitenkin se on hyödyllinen tilaa ilmaisevissa lauseissa, joissa se erottaa subjektin predikaatista.
 
@@ -799,38 +799,38 @@ Lauseet ovat lähtökohtaisesti myöntäviä, joten sanaa **si** ei yleensä tar
 
 ### 9.1.2. Kieltäminen
 
-Edellisen kaltaiset lauseet kielletään sanalla **ni**.
+Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**me ni ren.**
+**me no ren.**
 = Minä en ole henkilö.  
-**le ni novi meze.**
+**le no novi meze.**
 = Tämä ei ole uusi pöytä.
 
-Sanaa **ni** käytetään myös toisten sanojen kieltämiseen. Se vaikuttaa vain seuraavaan sanaan.
+Sanaa **no** käytetään myös toisten sanojen kieltämiseen. Se vaikuttaa vain seuraavaan sanaan.
 
 **me vida te.**
 = Minä näen sinut.  
-**me ni vida te.**
+**me no vida te.**
 = Minä en näe sinua.  
-**me vida ni te a lole.**
+**me vida no te a lole.**
 = Minä näen, en sinua, vaan heidät.
 
-Partikkelit **si** ja **ni** vastaavat myös kysymyksiin.
+Partikkelit **si** ja **no** vastaavat myös kysymyksiin.
 
 **eska te vida me?**
 = Näetkö sinä minut?  
 **si. (me si vida te.)**
 = Kyllä. (Minä näen sinut.)  
-**ni. (me ni vida te.)**
+**no. (me no vida te.)**
 = En. (Minä en näe sinua.)
 
-Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **ni** koskevat verbiä eivätkö koko kysymyslausetta.
+Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **no** koskevat verbiä eivätkö koko kysymyslausetta.
 
-**eska te ni vida me?**
+**eska te no vida me?**
 = Etkö sinä näe minua  
 **si. (me si vida te.)**
 = Kyllä. (Minä kyllä näen sinut.)  
-**ni. (me ni vida te.)**
+**no. (me no vida te.)**
 = Ei. (Minä en näe sinua.)
 
 
@@ -911,7 +911,7 @@ Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
 
 Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
 
-**me vida man _ya nyama aple_.**
+**me vida man _ya niama aple_.**
 = Minä näen miehen, _joka syö omenoita_.  
 **me vida _aple nyamu yu_ man.**
 = Minä näen _omenia syövän_ miehen.
@@ -926,13 +926,13 @@ Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lausee
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-**le nyama bir plus.**
+**le niama bir plus.**
 = Hän juo olutta, myös.  
-**le nyama plus bir.**
+**le niama plus bir.**
 = Hän juo _myös olutta_.  
-**le plus nyama bir.**
+**le plus niama bir.**
 = Hän _myös juo_ olutta.  
-**plus le nyama bir.**
+**plus le niama bir.**
 = _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.

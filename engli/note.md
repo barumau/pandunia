@@ -84,7 +84,7 @@ There is a similar reason behind the two forms of demonstrative pronouns (**ce/c
 
 So here the first sentence uses object–verb word order, where **ci apel** (this apple) is the object. But in the second sentence the word order is subject–object–verb and **ce** is the subject and only **apel** is the object.
 
-You can even say **ce ci apel nyamu.** = This eats this apple. The same sentence in the more common SVO word order would be **ce nyama ci apel.**
+You can even say **ce ci apel nyamu.** = This eats this apple. The same sentence in the more common SVO word order would be **ce niama ci apel.**
 
 
 ### Titles

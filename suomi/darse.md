@@ -23,16 +23,16 @@ Esittäytyminen
 
 Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta. Teema osoittaa kenestä tai mistä puhutaan. Kommentti kertoo jotakin uutta teemasta. Esimerkiksi lauseessa **le si me ya doste** teema on **le** (hän), ja sitä seuraa kommentti **si me ya doste** (on minun ystäväni).
 
-Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaan kaikissa persoonissa. Kieltomuodossa käytetään sen sijasta sanaa **ni**, joka tarkoittaa _ei_.
+Sanan **si** voi kääntää olla-verbiksi. Samaa sanaa käytetään sellaisenaan kaikissa persoonissa. Kieltomuodossa käytetään sen sijasta sanaa **no**, joka tarkoittaa _ei_.
 
 **le si sarah.**
 = Hän on Sara.  
-**le ni sarah.**
+**le no sarah.**
 = Hän ei ole Sara.  
 
 **maw si hewan.**
 = Kissa on eläin.  
-**dom ni hewan.**
+**dom no hewan.**
 = Talo ei ole eläin.  
 
 
@@ -54,7 +54,7 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 **te** sinä. **ti** sinun.  
 **le** hän tai se. **li** hänen, sen.  
 **ke** mikä tai kuka.  
-**si** kyllä. **ni** ei.  
+**si** kyllä. **no** ei.  
 **bon** hyvä. **doste** ystävä. **nam** nimi.  
 **fem** nainen. **man** mies.  
 **maw** kissa. **hewan** eläin
@@ -170,9 +170,9 @@ pomo, päällikkö.
 = Hei! Istu, ole hyvä!  
 ☻: **danke.**
 = Kiitos.  
-☺: **pliza nyama kafe u cay.**
+☺: **pliza niama kafe u cay.**
 = Joisitko kahvia tai teetä?  
-☻: **me nyama cay. danke.**
+☻: **me niama cay. danke.**
 = Minä juon teetä. Kiitos.  
 ...  
 ☺: **pliza salama ti mame!**
@@ -232,7 +232,7 @@ kohteliaiden pyyntöjen ilmaisemiseen.
 = Antaisitko kahvia.  
 **pliza dona cay.**
 = Antaisitko teetä.  
-**pliza nyama cay.**
+**pliza niama cay.**
 = Ottaisitko teetä.  
 **pliza safa kamar.**
 = Siivoaisitko huoneen.
@@ -277,16 +277,16 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 **u** tai, vai.
 **safa** siivota.
 **sida** istua.
-**nyama** syödä tai juoda.
+**niama** syödä tai juoda.
 
 
 ### Harjoitusten vastaukset
 
-1. le nyama cay.
+1. le niama cay.
 2. xefe pliza le sida.
-3. pliza nyama kafe u cay.
+3. pliza niama kafe u cay.
 4. mame pliza me safa kamar.
-5. xefe sida i nyama kafe.
+5. xefe sida i niama kafe.
 6. (komanda) salama xefe!
 
 
@@ -297,25 +297,25 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 ### Keskustelu
 
-☻: **salam! eska te nyama kafe u cay?**
+☻: **salam! eska te niama kafe u cay?**
 = Terve! Joisitteko kahvia vai teetä?  
 ☺: **cay.**
 = Teetä.  
 ☻: **i te?**
 = Entä sinä?  
-○: **me ni baxa pandunia...**
+○: **me no baxa pandunia...**
 = En osaa panduniaa...  
-☻: **pardon! eska le nyama cay?**
+☻: **pardon! eska le niama cay?**
 = Anteeksi! Haluaisiko hän teetä?  
-☺: **ni. le ni nyama cay. le nyama kafe.**
+☺: **no. le no niama cay. le niama kafe.**
 = Ei, hän ei juo teetä. Hän juo kahvia.  
-☻: **eska te nyama supe?**
+☻: **eska te niama supe?**
 = Saisiko olla keittoa?  
 ☺: **si.**
 = Kyllä.  
-☻: **eska le nyama supe?**
+☻: **eska le niama supe?**
 = Haluaisiko hän keittoa?  
-☺: **ni.**
+☺: **no.**
 = Ei.  
 ☻: **danke. me dona un cay i un kafe i un supe sa bade da des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
@@ -327,11 +327,11 @@ Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla
 saranarakenteella kuin pyynnöt, joissa käytetään sanaa **plisa**.
 Kysymyslauseet aloitetaan sanalla **eska** = kysyä.
 
-**me eska te nyama cay.**
+**me eska te niama cay.**
 = Minä kysyn, juotko sinä teetä. 
-**eska te nyama cay?**
+**eska te niama cay?**
 = Juotko sinä teetä?  
-**eska nyama cay?**
+**eska niama cay?**
 = Juotko teetä?
 
 Pyynnöt on yleensä osoitettu ihmiselle, joille puhutaan, mutta
@@ -339,16 +339,16 @@ kysymykset usein koskettavat muita ihmisiä. Sen vuoksi
 kysymyslauseeseen jätetään yleensä jälkimmäinen pronomini jäljelle.
 Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
-**eska le nyama cay?**
+**eska le niama cay?**
 = Juoko hän teetä?  
-**eska te nyama supe?**
+**eska te niama supe?**
 = Syötkö sinä keittoa?  
-**eska mome nyama suy?**
+**eska mome niama suy?**
 = Juommeko me vettä?
 
 Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
-**eska xefe nyama kafe?**
+**eska xefe niama kafe?**
 = Juoko päällikkö kahvia?  
 **eska pape safa kamar?**
 = Siivoaako isä huoneen?  
@@ -358,33 +358,33 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
 ### Vastaaminen
 
-Kyllä-vai-ei kysymyksiin vastaan **si** = kyllä, tai **ni** = ei.
+Kyllä-vai-ei kysymyksiin vastaan **si** = kyllä, tai **no** = ei.
 
-– **eska te nyama supe?**
+– **eska te niama supe?**
 = Syötkö sinä keittoa?  
 – **si.**
 = Kyllä.  
-– **eska le nyama supe?**
+– **eska le niama supe?**
 = Syökö hän keittoa?  
-– **ni.**
+– **no.**
 = Ei.
 
 Vastata voi myös perusteellisemmin.
 
-– **eska te nyama kafe?**
+– **eska te niama kafe?**
 = Juotko sinä kahvia?  
-– **si. me nyama kafe.**
+– **si. me niama kafe.**
 = Kyllä. Minä juon kahvia.  
-– **eska le nyama kafe?**
+– **eska le niama kafe?**
 = Juoko hän kahvia?  
-– **ni. le ni nyama kafe.**
+– **no. le no niama kafe.**
 = Ei. Hän ei juo kahvia.
 
 Toinen tapa vastata myöntävästi on kysymyksen verbin toistaminen.
 
-– **eska te nyama suy?**
+– **eska te niama suy?**
 = Juotko sinä vettä?  
-– **nyama.**
+– **niama.**
 = Juon.
 
 
@@ -404,7 +404,7 @@ Käännä seuraavat lauseet panduniaksi.
 **bade** jälkeen.
 **pardon** anteeksi.
 **minute** minuutti.
-**ni** ei.
+**no** ei.
 **baxa** puhua kieltä.
 **suy** vesi.
 **supe** keitto, soppa.
@@ -417,48 +417,48 @@ Käännä seuraavat lauseet panduniaksi.
 
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
-3. eska mame nyama kafe?
-4. ni. le ni nyama kafe.
-5. eska le nyama supe?
-6. (le) ni nyama.
+3. eska mame niama kafe?
+4. no. le no niama kafe.
+5. eska le niama supe?
+6. (le) no niama.
 
 --------------------------------------------------------------------------------
 
 ## Ein sanominen
 
 
-Edellisellä tunnilla opitte vastaamaan kysymyksiin **si** ja **ni**.
-on siis kieltosana. Kun verbin eteen lisätään **ni**, myöntölauseesta
+Edellisellä tunnilla opitte vastaamaan kysymyksiin **si** ja **no**.
+on siis kieltosana. Kun verbin eteen lisätään **no**, myöntölauseesta
 tulee kieltolause.
 
 **me salama te.**
 = Minä tervehdin sinua.  
-**me ni salama te.**
+**me no salama te.**
 = Minä en tervehdi sinua.
 
 Käsitteellisesti kieltäminen tarkoittaa kielletyn sanan olemattomaksi
-toteamista. Lauseessa **me ni salama te** kieltosana **ni** kieltää
+toteamista. Lauseessa **me no salama te** kieltosana **no** kieltää
 tervehtimisen olemassaolon. Panduniassa kieltosana vaikuttaa aina
 seuraavaan sanaan. Siis eri asiat tulevat kielletyksi, kun kieltosanan
 paikka lauseessa muuttuu.
 
 **me pliza te safa kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**me ni pliza te safa kamar.**
+**me no pliza te safa kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**me pliza te ni safa kamar.**
+**me pliza te no safa kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
 substantiivi, adjektiivi tai jopa lukusana.
 
-**le ni tena maw.**
+**le no tena maw.**
 = Hän ei omista kissaa.  
-**le tena ni maw, a waf.**
+**le tena no maw, a waf.**
 = Hän ei omista kissaa vaan koiran.  
-**ni le, a me tena maw.**
+**no le, a me tena maw.**
 = Ei hän vaan minä omistan kissan.  
-**me tena ni un, a dul maw.**
+**me tena no un, a dul maw.**
 = Minula ei ole yhtä vaan kaksi kissaa.
 
 
@@ -488,12 +488,12 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Harjoitusten vastaukset
 
-1. le ni safa kamar.
-2. un kupe ni hali.
-3. dul waf ni nyama supe.
-4. le ni tena waf i maw. / le tena ni waf i ni maw.
-5. xefe nyama cay a ni kafe.
-6. mame tena ni waf a dul maw.
+1. le no safa kamar.
+2. un kupe no hali.
+3. dul waf no niama supe.
+4. le no tena waf i maw. / le tena no waf i no maw.
+5. xefe niama cay a no kafe.
+6. mame tena no waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -512,7 +512,7 @@ tarkennetaan muilla sanoilla.
 
 **ki ren laya?**
 = Kuka tulee? (**ren** = henkilö)  
-**ki zaman te nyama?**
+**ki zaman te niama?**
 = Mihin aikaan sinä syöt? (**zaman** = aika)  
 **ki yang se dansa?**
 = Miten tanssitaan? (**yang** = tapa)
@@ -564,8 +564,8 @@ vastata kysymykseen.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade da des minute.
-5. ke saba le ni nyama?
-6. sabu le ni suku kafe.
+5. ke saba le no niama?
+6. sabu le no suku kafe.
 
 
 --------------------------------------------------------------------------------
@@ -583,12 +583,12 @@ jotka ovat kaikissa aikamuodoissa samoja tietyissä persoonissa.
 = Minä imuroin (äsken/nyt/pian).
 
 Ero on siinä, että kaikki pandunian verbit ovat sellaisia! Esimerkiksi
-**me nyama pang**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
+**me niama pang**  voi tarkoittaa sekä "Minä söin leipää" että "Minä
 syön leipää", mutta tavallisesti vain toinen merkitys sopii
 asiayhteyteen. Esimerkiksi kun on päivä ja puhe on aamiaisesta,
 lause viittaa luonnollisesti menneeseen aikaan.
 
-**me nyama pang sa subi nyam.**
+**me niama pang sa subi nyam.**
 = Minä söin leipää aamiaisella.
 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zay**
@@ -678,8 +678,8 @@ Käännä seuraavat lauseet panduniaksi.
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
-3. te nyama kafe zay.
+3. te niama kafe zay.
 4. le safa kamar sa predi den.
-5. maw nyama milke sa badi den.
+5. maw niama milke sa badi den.
 6. ti mame festa sa predi noce.
 
