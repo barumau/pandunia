@@ -318,6 +318,7 @@ Etelä-Sudan - sudi sudania
 etiikka (moraalioppi) - darmoloji  
 etikka - sirke  
 Etiopia - etiopia  
+etninen - zuki  
 etuliite (prefiksi) - predofikse  
 etymologia - leksaslia  
 etäisyys (kaukaisuus) - tele  
@@ -758,6 +759,8 @@ kansakunta - nasia
 kansallinen - nasi  
 kansallissosialismi - nasi socistia  
 kansallisuusaate (nationalismi) - nasistia  
+kansanryhmien välinen - zukomedi  
+kansanryhmä (etninen ryhmä) - zuke  
 kanssa (luona, -lla, -ssa) - sa  
 kapina - rebel  
 kapteeni - kapitan  
@@ -1984,6 +1987,7 @@ Rooman valtakunta - romi empiria
 roottori (propelli) - roter  
 roska - laje  
 rotu - ras  
+rotujen välinen - rasomedi  
 Ruanda - ruandia  
 ruiske (injektio) - juxe  
 ruiskuttaa - juxa  
@@ -2042,7 +2046,7 @@ San Marino - santi marinia
 sana - lekse  
 sanaluettelo - leksoliste  
 sanasto - leksia  
-sankari (urho) - wir  
+sankari (urho) - vir  
 sanko (ämpäri) - balde  
 sanomalehti - habarobaw  
 Sao Tome ja Principe - santi tome e prinsipe  
@@ -2521,7 +2525,7 @@ uraani - uranium
 Uranus - uran  
 urbaani (kaupunkilais-) - nagri  
 urdu - urdi  
-urhea (sankarillinen) - wiri  
+urhea (sankarillinen) - viri  
 urheilija - keler  
 urheilu - kel  
 uros (mies) - man  
@@ -2634,6 +2638,7 @@ vesipuhveli - kabaw
 vesitiivis - suyosekuri  
 vesiväri (akvarelliväri) - suyorang  
 vessa - tuale  
+vetinen - suyi  
 vetoketju - ziper  
 vetolaatikko - tirosanduke  
 vety - hidre  
@@ -2727,6 +2732,7 @@ väli - inter
 väli - mede  
 Välimeri - zemomedi samude  
 välipala (naposteltava) - lil niam  
+välissä - medu  
 väri - rang  
 värilline - rangi  
 väärä (epätosi, vale-) - falsi  
@@ -2792,7 +2798,6 @@ zikkurat - zikur
 Zimbabwe - zimbabwia  
 zirkonium - zirkonium  
 zombi - zombe  
-zulu - zuluh  
 äiti (emä) - mame  
 ällistyttää - ajaba  
 ärsyttää (häiritä) - irita  

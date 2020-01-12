@@ -306,6 +306,7 @@
 |enough (sufficient)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |equal (fair)|egal|fra:égal, spa:por:igual, eng:equal|
 |escape (flee, run away)|bega|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
+|ethnic group|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |evaluate (review, criticise)|pipinga|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
 |even (intensifier)|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |evening|xam|hin: शाम (śām), fas:(šām), tur:akşam|
@@ -425,7 +426,7 @@
 |hello (hi)|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |help (aid, assistance)|helpe|eng:help, deu:Hilfe|
 |heritage (legacy, bequest)|waris|may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|
-|hero|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|hero|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |high|gawi|zho:高 (gāo), vie:cao|
 |hinge (pivot)|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |hippopotamus|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
@@ -551,7 +552,7 @@
 |master (expert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |master (sensei)|xense|jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|
 |mast|maste|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
-|match (contest)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|match (contest)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |match (fit, suit, conform)|maca|eng:match, sve:matcha, kor:맞다 (matda)|
 |mathematics (math)|matike|deu:Mathe(matik), eng:math(ematics), spa:matemática, rus:(matika)|
 |matter (substance)|mate|eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|
@@ -894,6 +895,7 @@
 |surprise|supris|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |suture (seam)|sutur|fra:eng:suture, por:spa:sutura|
 |swallow|gula|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|sweat (perspiration)|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |sweet potato|kamote|spa:camote, tgl:kamote|
 |sword|katan|jpn:刀 (katana)|
 |syrup|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|

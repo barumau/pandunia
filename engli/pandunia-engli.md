@@ -1608,6 +1608,7 @@ mediker - doctor (physician, healer)
 medikia - medicine (field of study)  
 medileti den - Midsummer Day  
 medita - meditate (ponder)  
+medu - among (amid, between)  
 megam - cloud  
 megi - million  
 mego- - mega-  
@@ -2194,6 +2195,7 @@ rasiste - racist
 rasistia - racism  
 rasme - custom (tradition, practice, convention)  
 rasmi - conventional (customary, traditional)  
+rasomedi - interracial  
 raste - growth  
 rastu - grow (grow up, expand)  
 ratiba - order (arrange)  
@@ -2516,6 +2518,7 @@ suta - sew
 sutur - suture (seam)  
 suxe - sushi  
 suy - water  
+suyi - watery  
 suyogas - steam (vapor)  
 suyoporte - harbor (seaport)  
 suyorang - watercolor  
@@ -2723,6 +2726,8 @@ vimanokaper - plane hijacker
 vin - wine  
 vineria - winery  
 vinil - vinyl  
+vir - hero  
+viri - brave (bold, heroic)  
 virus - virus  
 virusolojia - virology  
 visa - substitute (replace)  
@@ -2791,8 +2796,6 @@ wile - future time
 win - victory (win)  
 wina - win (defeat)  
 wing - wing  
-wir - hero  
-wiri - brave (bold, heroic)  
 wolfe - wolf  
 wolfram - tungsten (wolfram)  
 ##x
@@ -2927,5 +2930,7 @@ ziza - sizzle
 zombe - zombie  
 zone - belt (zone)  
 zukam - cold (illness)  
-zuluh - Zulu  
+zuke - ethnic group  
+zuki - ethnic  
+zukomedi - interethnic  
 zumurude - emerald  

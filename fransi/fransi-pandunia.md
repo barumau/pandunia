@@ -203,6 +203,8 @@ envelopper (emballer) - lifafa
 erroné - galti  
 espace - kali harfe  
 et - e  
+ethnie - zuke  
+ethnique - zuki  
 Europe - europe  
 européen - europi  
 ##f
@@ -260,6 +262,7 @@ important - hami
 inflammation - itis   
 insecte - koncung  
 international - nasomedi  
+interracial - rasomedi  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -478,6 +481,7 @@ société - socia
 soldat - lasker  
 soleil - sol  
 sucre - xukar  
+sueur - suede  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour les verbes avec ordre des mots OVS - -u  
@@ -553,7 +557,6 @@ zoo - hewanoparke
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
-zoulou - zuluh  
 zèbre - zebre  
 Égypte - misria  
 âge - umur  

@@ -974,6 +974,7 @@ me - mi
 medi - mezo  
 medika - sanigi (kuraci)  
 mediker - kuracisto  
+medu - inter  
 megi - miliono  
 mego- - mega-  
 meh - ŝafo  
@@ -1241,6 +1242,7 @@ rapidi - rapida
 ras - raco  
 rasiste - racisto  
 rasistia - racismo  
+rasomedi - interrasa  
 rastu - kreski  
 ray - opinio  
 raya - opinii  
@@ -1392,6 +1394,7 @@ supra - superiri
 supris - surprizo  
 suxe - suŝio  
 suy - akvo  
+suyi - akva  
 suyogas - vaporo  
 suyoporte - haveno  
 ##t
@@ -1489,6 +1492,8 @@ version - versio (toisinto)
 vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
 vin - vino  
+vir - heroo  
+viri - heroa  
 visi - vic-  
 visolekse - pronomo  
 vizita - vizito  
@@ -1520,8 +1525,6 @@ wil - estonte
 wile - estonoteco  
 win - venko  
 wina - venki  
-wir - heroo  
-wiri - heroa  
 wolfe - lupo  
 ##x
 xake - branĉo  
@@ -1599,5 +1602,7 @@ zinke - zinko
 ziran - kumino  
 zirkonium - zirkonio  
 zone - zono  
-zuluh - zuluo  
+zuke - etno  
+zuki - etna  
+zukomedi - interetna  
 zumurude - smeraldo  

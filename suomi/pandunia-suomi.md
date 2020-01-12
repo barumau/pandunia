@@ -1553,6 +1553,7 @@ mediker - lääkäri (tohtori)
 medikia - lääketiede  
 medileti den - juhannus (keskikesä, mittumaari)  
 medita - pohtia (meditoida)  
+medu - välissä  
 megam - pilvi  
 megi - miljoona  
 mego- - mega-  
@@ -2117,6 +2118,7 @@ rasiste - rasisti
 rasistia - rasismi (rotuoppi)  
 rasme - tapa (perinne)  
 rasmi - tavanomainen (perinteinen)  
+rasomedi - rotujen välinen  
 raste - kasvu  
 rastu - kasvaa  
 ratiba - järjestää (järjestellä)  
@@ -2406,6 +2408,7 @@ suta - ommella
 sutur - sauma (ommel)  
 suxe - sushi  
 suy - vesi  
+suyi - vetinen  
 suyogas - höyry (vesihöyry)  
 suyoporte - satama  
 suyorang - vesiväri (akvarelliväri)  
@@ -2599,6 +2602,8 @@ vimanokaper - lentokonekaappari
 vin - viini  
 vineria - viinipanimo  
 vinil - vinyyli  
+vir - sankari (urho)  
+viri - urhea (sankarillinen)  
 virus - virus  
 virusolojia - virologia  
 visa - korvata  
@@ -2665,8 +2670,6 @@ wile - tulevaisuus
 win - voitto  
 wina - voittaa (kukistaa)  
 wing - siipi  
-wir - sankari (urho)  
-wiri - urhea (sankarillinen)  
 wolfe - susi (hukka)  
 wolfram - wolframi  
 ##x
@@ -2793,5 +2796,7 @@ ziza - sihistä
 zombe - zombi  
 zone - vyö  
 zukam - vilustuminen  
-zuluh - zulu  
+zuke - kansanryhmä (etninen ryhmä)  
+zuki - etninen  
+zukomedi - kansanryhmien välinen  
 zumurude - smaragdi  

@@ -2336,6 +2336,8 @@ vimanokaper - porywacz samolotu
 vin - wino  
 vineria - winiarnia  
 vinil - winyl  
+vir - bohater, heros  
+viri - bohaterski, heroiczny, odważny, brawurowy  
 virus - wirus  
 virusolojia - wirusologia  
 visa - zastąpić (podstawić, zamienić)  
@@ -2394,8 +2396,6 @@ wile - przyszłość
 win - zwycięstwo, wygrana  
 wina - zwyciężyć, wygrać  
 wing - skrzydło  
-wir - bohater, heros  
-wiri - bohaterski, heroiczny, odważny, brawurowy  
 wolfe - wilk  
 ##x
 xakal - szakal  
@@ -2511,5 +2511,5 @@ ziza - skwierczeć
 zombe - zombie, zombi  
 zone - pas, strefa  
 zukam - przeziębienie, katar  
-zuluh - zulu  
+zukomedi - zuluh  
 zumurude - szmaragd  

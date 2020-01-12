@@ -354,6 +354,7 @@ pul - цветок
 ##r
 rapidi - быстрый  
 ras - раса  
+rasomedi - межрасовый  
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
@@ -484,5 +485,7 @@ zinje - имбирь
 zinke - цинк  
 ziran - тмин  
 zone - пояс (зона)  
-zuluh - зулус  
+zuke - этнос  
+zuki - этнический  
+zukomedi - межэтнический  
 zumurude - изумруд  

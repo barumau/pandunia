@@ -431,6 +431,7 @@ socia - sociedad
 solocate - parasol  
 sonokamar - dormitorio  
 sonu - dormir  
+suede - sudor  
 suki - feliz  
 sundari - hermoso (bello, lindo)  
 sundaria - belleza (hermosura)  
@@ -499,4 +500,6 @@ zime - invierno
 zimi - invernal  
 zinje - gengibre  
 zone - cinturón (zona)  
+zuke - etnia  
+zuki - étnico  
 zumurude - esmeralda  

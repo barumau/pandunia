@@ -50,7 +50,7 @@
 |biznes, interes (aktywność komercyjna)|biznes|eng:business, rus:бизнес (biznes)|
 |bliski|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |bogaty|rici|eng:rich, fra:riche, por:spa:rico|
-|bohater, heros|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|bohater, heros|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |bomba|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
 |Boże Narodzenie|kristojen|ell:Χριστούγεννα (Christoúgenna)|
 |broda|barde|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
@@ -361,7 +361,7 @@
 |materia, substancja|mate|eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|
 |matka, mama|mame|spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|
 |mały; mało, trochę, nieco|lil|eng:little|
-|mecz, rywalizacja|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|mecz, rywalizacja|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |miara|mete|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |miast, miasteczko|site|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |miecz|katan|jpn:刀 (katana)|
@@ -549,6 +549,7 @@
 |postawa ciała; asana|asan|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |posuwać się do przodu (dokonywać postępu, wejść)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |potrzebować|nida|eng: need|
+|pot|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |powierzchnia|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |powietrze|air|eng:fra:spa:air, por:ar|
 |powinien|xudu|eng:should|

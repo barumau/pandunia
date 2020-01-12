@@ -153,6 +153,7 @@
 |esti|esa|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |estonoteco|wile|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
 |estro (ĉefulo)|xef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
+|etno|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |eĉ|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |fabrikisto|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
 |facila|izi|eng:easy, fra:aisée|
@@ -224,7 +225,7 @@
 |hejmo (loĝejo)|dom|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |helpo|helpe|eng:help, deu:Hilfe|
 |herbo|gras|eng:grass, hin:घास (ghās)|
-|heroo|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|heroo|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |hipopotamo|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
 |hm|hem|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |hokeo|hoke|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|

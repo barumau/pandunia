@@ -486,4 +486,5 @@ zebre - 斑马
 zime - 冬天  
 zinje - 姜  
 ziran - 孜然  
+zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  

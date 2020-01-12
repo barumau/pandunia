@@ -171,6 +171,7 @@ estornudar - aciya
 estribor - botoraite  
 etapa (fase) - faze  
 etimología - leksaslia  
+etnia - zuke  
 evangelio - ewanjil  
 ##f
 favorito (preferido) - favori  
@@ -449,6 +450,7 @@ sin - na
 situación - xeyohal  
 sociedad - socia  
 soldado - lasker  
+sudor - suede  
 sándwich (sánduche) - sanduice  
 sí - si  
 sólido - gatomate  
@@ -499,4 +501,5 @@ zorro - hule
 África - afrike  
 ágil - ajil  
 árbol - arbe  
+étnico - zuki  
 óxide - okside  

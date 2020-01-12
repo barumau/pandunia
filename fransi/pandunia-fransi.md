@@ -439,6 +439,7 @@ pute - fils ou fille
 rang - couleur  
 rapidi - vite (rapide)  
 ras - race  
+rasomedi - interracial  
 razonu - tener sentido  
 reloje - horloge  
 reste - reste  
@@ -489,6 +490,7 @@ sonokamar - chambre à coucher
 sonu - dormir  
 sos - sauce  
 sosis - saucisse  
+suede - sueur  
 suki - heureux  
 sundari - beau  
 sundaria - beauté  
@@ -573,5 +575,6 @@ zimi - hivernal (hibernal)
 zinje - gingembre  
 zombe - zombi  
 zone - zone  
-zuluh - zoulou  
+zuke - ethnie  
+zuki - ethnique  
 zumurude - émeraude  

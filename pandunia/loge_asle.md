@@ -697,7 +697,7 @@ pipinga ← zho:批评 "pīpíng". vie:phê bình. kor:비평 "bipyeong".
 piram ← eng:pyramid. + ara:(haram).  
 pix ← eng:piss. fra:pisse. ita:piscia. hin:पेशाब (pešāb). ind:pipis.  
 pize ← ita:pizza. zho:比萨 (bǐsà). rus:пицца (pitsa). jpn:ピザ (piza). kor:피자 (pija).  
-plisa ← eng:please.  
+pliza ← eng:please.  
 poke ← eng:poker. zho:扑克 (pūkè). jpn:ポーカー (pōkā). kor:포커 (pokeo).  
 pol ← ell:πολλοί (polloí). eng:fra:deu:poly-. spa:por:poli-. rus:поли- (poli-).  
 polaw ← fas:(polou). hin:पुलाव (pulav). tur:pilav. rus:плов (plov).  

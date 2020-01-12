@@ -152,8 +152,8 @@ bliski - karibi
 blog - bloge  
 blokować, hamować - barya  
 bogaty - rici  
-bohater, heros - wir  
-bohaterski, heroiczny, odważny, brawurowy - wiri  
+bohater, heros - vir  
+bohaterski, heroiczny, odważny, brawurowy - viri  
 bohr - borium  
 bojkot - boikote  
 bolesny - paxi  
@@ -2441,7 +2441,7 @@ zostać, zostawać - restu
 zrobić (stworzyć, wykreować) - fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - sana  
 zsumować, sumować, dodać, dodawać - suma  
-zulu - zuluh  
+zuluh - zukomedi  
 zupa - supe  
 zwinny, sprawny - ajil  
 związać, wiązać; zapiąć, zapinać - benda  

@@ -29,6 +29,7 @@ akiri (ricevi, preni) - geta
 akso - akse  
 aktinio - acinium  
 aktoro (aktorino) - roler  
+akva - suyi  
 akvo - suy  
 akvomelono - arbuze  
 al (ĝis, por) - pa  
@@ -350,6 +351,8 @@ estro (ĉefulo) - xef
 eta - mini  
 etimologio - leksaslia  
 Etiopio - etiopia  
+etna - zuki  
+etno - zuke  
 evangelio - ewanjil  
 eĉ - hato  
 eĥo - mirosonde  
@@ -528,8 +531,8 @@ hejmo (loĝejo) - dom
 helio - helium  
 helpo - helpe  
 herbo - gras  
-heroa - wiri  
-heroo - wir  
+heroa - viri  
+heroo - vir  
 hidrogeno - hidre  
 Himalajo - himalia  
 hinduismo - hindistia  
@@ -575,9 +578,12 @@ inko - moge
 ino - fem  
 instruisto - darsogur  
 insulto - ninde  
+inter - medu  
 interesa - interes  
+interetna - zukomedi  
 interkonsento - samoray  
 internacia - nasomedi  
+interrasa - rasomedi  
 interŝanĝi - badala  
 inviti - pliza laya  
 io - koy xey  
@@ -1541,7 +1547,6 @@ zoo (bestoĝardeno) - hewanoparke
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
 Zoroastro - zardux  
-zuluo - zuluh  
 Ĉilio - cilia  
 Ĉinio - jungogia  
 ĉambro - kamar  

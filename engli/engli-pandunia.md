@@ -77,6 +77,7 @@ American Samoa - usameriki samoa
 americium - amerikium  
 Amerindian (Native American) - aslameriki  
 Amhara (an Ethiopian ethnic group and language) - amari  
+among (amid, between) - medu  
 ampere (amp) - amper  
 ampoule (vial) - ampul  
 amuse (entertain) - fana  
@@ -336,7 +337,7 @@ boy - jovani man
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
-brave (bold, heroic) - wiri  
+brave (bold, heroic) - viri  
 Brazil - brazilia  
 bread - pang  
 breakfast - suboniam  
@@ -827,6 +828,8 @@ Estonia - estia
 Eswatini (Swaziland) - suatia  
 ethics - darmoloji  
 Ethiopia - etiopia  
+ethnic - zuki  
+ethnic group - zuke  
 etymology - leksaslia  
 Eurasia - eurasia  
 euro (€) - europese  
@@ -1143,7 +1146,7 @@ help (aid, assistance) - helpe
 help (assist) - helpa  
 here (there) - sa ye  
 heritage (legacy, bequest) - waris  
-hero - wir  
+hero - vir  
 hertz (Hz) - herze  
 heteroromantic - aloromansi  
 heterosexual - aloseksi  
@@ -1251,9 +1254,11 @@ insult (offense) - insulte
 intend (plan) - plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
 interest (interesting) - interes  
+interethnic - zukomedi  
 international - nasomedi  
 internet - interonete  
 interpreter (translator) - tarjer  
+interracial - rasomedi  
 interrogative - eski  
 invite - pliza laya  
 iodine - iode  
@@ -2825,6 +2830,7 @@ water lily (nenuphar) - nenufar
 watercolor - suyorang  
 watermelon - arbuze  
 waterproof - suyosekuri  
+watery - suyi  
 watt - wate  
 wave - onde  
 wax - mum  
@@ -2931,4 +2937,3 @@ zoo (zoological garden) - hewanoparke
 Zoroaster - zardux  
 Zoroastrian - zarduxiste  
 Zoroastrianism - zarduxistia  
-Zulu - zuluh  
