@@ -306,8 +306,8 @@
 |enough (sufficient)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |equal (fair)|egal|fra:égal, spa:por:igual, eng:equal|
 |escape (flee, run away)|bega|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
+|ethnic group|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |evaluate (review, criticise)|pipinga|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
-|even (intensifier)|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |evening|xam|hin: शाम (śām), fas:(šām), tur:akşam|
 |event (case, instance)|kase|eng:case, fra:cas, spa:por:caso, deu:Kasus|
 |every (each)|mey|zho:每 (měi), wuu:每 (me), vie:mọi, kor:매 (mae)|
@@ -425,7 +425,7 @@
 |hello (hi)|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |help (aid, assistance)|helpe|eng:help, deu:Hilfe|
 |heritage (legacy, bequest)|waris|may:waris, ara:(wariþ), swa:urithi, tur:varis,miras|
-|hero|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|hero|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |high|gawi|zho:高 (gāo), vie:cao|
 |hinge (pivot)|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |hippopotamus|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
@@ -551,7 +551,7 @@
 |master (expert)|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |master (sensei)|xense|jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|
 |mast|maste|eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|
-|match (contest)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|match (contest)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |match (fit, suit, conform)|maca|eng:match, sve:matcha, kor:맞다 (matda)|
 |mathematics (math)|matike|deu:Mathe(matik), eng:math(ematics), spa:matemática, rus:(matika)|
 |matter (substance)|mate|eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|
@@ -617,7 +617,7 @@
 |not (no)|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |note (observation, remark, comment)|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |noun|namolekse|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
-|number|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
+|number|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |oasis|wase|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
 |ocean|dayosamude|vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|
 |odd (strange, weird)|bizari|eng:fra:bizarre, por:bizarro, deu:bizarr|
@@ -713,7 +713,7 @@
 |print (stamp)|cape|hin:छाप (chāp), may:cap, eng:chop|
 |prison (imprisonment)|prizon|eng:fra:prison, spa:prisión, por:prisão|
 |problem (issue)|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
-|produce (create, make)|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
+|produce (create, make)|cana|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|
 |profession (occupation)|pexe|fas:(piše), hin:पेशा (peśā), ben:পেশা (peśa)|
 |program (set of structured activities)|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |project (endeavour)|projete|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
@@ -776,7 +776,7 @@
 |saffron|safran|ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|
 |salad|salade|fra:salade, end:may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |salt|sal|por:spa:sal, eng:salt, rus:соль (solʹ)|
-|same|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|same (similar)|sami|may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|
 |sandwich|sanduice|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |sand|rege|fas:(rig), hin:रेग (reg), urd:(reg)|
 |sauce|sos|eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|
@@ -894,6 +894,7 @@
 |surprise|supris|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
 |suture (seam)|sutur|fra:eng:suture, por:spa:sutura|
 |swallow|gula|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|sweat (perspiration)|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |sweet potato|kamote|spa:camote, tgl:kamote|
 |sword|katan|jpn:刀 (katana)|
 |syrup|xirope|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu)|
@@ -959,6 +960,7 @@
 |undergo (passivizing verb)|beyu|zho:被 (bèi)|
 |underside (underneath)|nice|ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|
 |understand (realize)|aha|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
+|until (til, up to)|ata|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |use (employ, apply)|uza|eng:use, spa:usar, pol:używać|
 |use (utility, benefit, gain, advantage)|faide|ara:(fāʾida), tur:fayda|
 |vacuum cleaner|funocuper|zho:吸尘器 (xīchénqì), deu:Staubsauger|

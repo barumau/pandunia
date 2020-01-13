@@ -88,6 +88,8 @@ asle - origine
 asli - originel  
 asme - asthme  
 aspirin - aspirine  
+ata - jusque (jusqu’à)  
+ato - voire (même)  
 aur - or  
 aventur - aventure  
 aventurer - aventurier  
@@ -381,6 +383,7 @@ niponia - Japon
 nixe - niche  
 no - non (ne...pas)  
 noce - noit  
+nombre - nombre (numéro)  
 nostalgia - nostalgie  
 note - note  
 novi - nouveau  
@@ -439,6 +442,7 @@ pute - fils ou fille
 rang - couleur  
 rapidi - vite (rapide)  
 ras - race  
+rasomedi - interracial  
 razonu - tener sentido  
 reloje - horloge  
 reste - reste  
@@ -462,6 +466,7 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
+samonam - homonym  
 samoray - accord  
 samude - mer  
 samudojel - méduse  
@@ -489,6 +494,7 @@ sonokamar - chambre à coucher
 sonu - dormir  
 sos - sauce  
 sosis - saucisse  
+suede - sueur  
 suki - heureux  
 sundari - beau  
 sundaria - beauté  
@@ -573,5 +579,6 @@ zimi - hivernal (hibernal)
 zinje - gingembre  
 zombe - zombi  
 zone - zone  
-zuluh - zoulou  
+zuke - ethnie  
+zuki - ethnique  
 zumurude - émeraude  

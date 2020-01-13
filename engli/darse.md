@@ -29,16 +29,16 @@ the comment **si mi doste** (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
-simply replace it with **ni** (which is the word for _no_).
+simply replace it with **no** (which is the word for _no_).
 
 **le si sarah.**
 = She is Sarah.  
-**le ni sarah.**
+**le no sarah.**
 = She is not Sarah.
 
 **maw si hewan.**
 = The cat is an animal.  
-**dom ni hewan.**
+**dom no hewan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying **me** and a word
@@ -71,8 +71,7 @@ answers are after the word list.
 **te** you. **ti** your.  
 **le** he, she or it. **li** his, her, its.  
 **ke** who or what.  
-**si** to be (am, is, are, etc)  
-**si** yes. **ni** no, not.  
+**si** yes. **no** no, not.  
 **bon** good. **doste** friend. **nam** name.  
 **fem** woman. **man** man.  
 **maw** cat. **hewan** animal.
@@ -194,16 +193,16 @@ answers are after the word list.
 
 ☻: **salam!**
 = Hello!  
-☺: **salam! plisa sida.**
+☺: **salam! pliza sida.**
 = Hello! Please sit!  
 ☻: **danke.**
 = Thank you.  
-☺: **plisa niama kafe o cay.**
+☺: **pliza niama kafe o cay.**
 = Please have some coffee or tea.  
 ☻: **me niama cay. danke.**
 = I will have some tea, thank you.  
 ...  
-☺: **plisa salama ti mame!**
+☺: **pliza salama ti mame!**
 = Please tell greetings to your mother.  
 ☻: **me salama le. salam!**
 = I will. Bye!  
@@ -219,7 +218,7 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_. The first verb, **plisa** = to
@@ -238,9 +237,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**me plisa te salama le.**
+**me pliza te salama le.**
 = I ask you to say hello to him/her.  
-**plisa salama le.**
+**pliza salama le.**
 = Please say hello to him/her.
 
 See how the translation of **plisa** changed between the two sentences?
@@ -251,18 +250,18 @@ words. It is a principle in Pandunia that there is always exactly one
 word for one concept. Different words are not created just because the
 grammatical role of a concept changes.
 
-The phrase **plisa salama le** has a useful pattern that can be used
+The phrase **pliza salama le** has a useful pattern that can be used
 for making polite requests.
 
-**plisa sida.**
+**pliza sida.**
 = Please be seated.  
-**plisa dona kafe.**
+**pliza dona kafe.**
 = Please give me some coffee.  
-**plisa dona cay.**
+**pliza dona cay.**
 = Please give me some tea.  
-**plisa niama cay.**
+**pliza niama cay.**
 = Please have some tea.  
-**plisa safa kamar.**
+**pliza safa kamar.**
 = Please clean the room.
 
 Commands are introduced with **komanda** = to command. They employ the
@@ -310,9 +309,9 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. le niama cay.
-2. xefe plisa le sida.
-3. plisa niama kafe o cay.
-4. mame plisa me safa kamar.
+2. xefe pliza le sida.
+3. pliza niama kafe o cay.
+4. mame pliza me safa kamar.
 5. xefe sida e niama kafe.
 
 
@@ -330,11 +329,11 @@ Yes or no questions
 = Tea.  
 ☻: **e te?**
 = And you?  
-○: **me ni baxa pandunia...**
+○: **me no baxa pandunia...**
 = I don't speak Pandunia...  
 ☻: **pardon! eska le niama cay?**
 = Pardon! Will he have tea?  
-☺: **ni. le ni niama cay. le niama kafe.**
+☺: **no. le no niama cay. le niama kafe.**
 = No, he won't. He would like to have coffee.  
 ☻: **eska te niama supe?**
 = Would you like to have soup?  
@@ -342,7 +341,7 @@ Yes or no questions
 = Yes. (_I eat._)  
 ☻: **eska le niama supe?**
 = Would he like to have soup?  
-☺: **ni niama.**
+☺: **no niama.**
 = No.  
 ☻: **danke. me dona un cay e un kafe e un supe sa bade da des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
@@ -385,7 +384,7 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **si** = yes, and **ni** = no.
+Yes/no questions can be answered with **si** = yes, and **no** = no.
 
 – **eska te niama supe?**
 = Do you eat soup?  
@@ -393,7 +392,7 @@ Yes/no questions can be answered with **si** = yes, and **ni** = no.
 = Yes.  
 – **eska le niama supe?**
 = Does she eat soup?  
-– **ni.**
+– **no.**
 = No.
 
 Also more complete answers can be given.
@@ -404,7 +403,7 @@ Also more complete answers can be given.
 = Yes, I drink coffee.  
 – **eska le niama kafe?**
 = Does he drink coffee?  
-– **ni. le ni niama kafe.**
+– **no. le no niama kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
@@ -433,7 +432,7 @@ Try translating these sentences from English to Pandunia.
 **bade** after.
 **pardon** pardon, sorry.
 **minute** minute.
-**ni** not.
+**no** not.
 **baxa** speak a language.
 **suy** water.
 **supe** soup.
@@ -448,9 +447,9 @@ Try translating these sentences from English to Pandunia.
 1. eska te baxa pandunia?
 2. si. me baxa pandunia.
 3. eska mame niama kafe?
-4. ni. le ni niama kafe.
+4. no. le no niama kafe.
 5. eska le niama supe?
-6. (le) ni niama.
+6. (le) no niama.
 
 
 --------------------------------------------------------------------------------
@@ -458,40 +457,40 @@ Try translating these sentences from English to Pandunia.
 Saying no
 ---------
 
-In the previous lesson you learned to answer **si** and **ni** to
-questions. The word **ni** is used for denying something. Adding
-**ni** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer **si** and **no** to
+questions. The word **no** is used for denying something. Adding
+**no** in front of the verb turns an affirmative sentence to negative.
 
 **me salama te.**
 = I greet you.  
-**me ni salama te.**
+**me no salama te.**
 = I do not greet you.
 
 Conceptually negation means the absence or non-existence of the
-negated word. In the phrase **me ni salama te** the negative word
-**ni** denies the existence of greeting.
+negated word. In the phrase **me no salama te** the negative word
+**no** denies the existence of greeting.
 
 In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**me plisa te safa kamar.**
+**me pliza te safa kamar.**
 = I ask you to clean the room.  
-**me ni plisa te safa kamar.**
+**me no pliza te safa kamar.**
 = I do NOT ask you to clean the room.  
-**me plisa te ni safa kamar.**
+**me pliza te no safa kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**le ni tena maw.**
+**le no tena maw.**
 = She doesn't have a cat.  
-**le tena ni maw, a waf.**
+**le tena no maw, a waf.**
 = She has no cats but dogs.  
-**ni le, a me tena maw.**
+**no le, a me tena maw.**
 = Not she but I have cats.  
-**me tena ni un, a dul maw.**
+**me tena no un, a dul maw.**
 = I have not one but two cats.
 
 
@@ -522,12 +521,12 @@ is more than one correct answer.
 
 ### Answers to the Exercises
 
-1. le ni safa kamar.
-2. un kupe ni hali.
-3. dul waf ni niama supe.
-4. le ni tena waf e maw. / le tena ni waf e ni maw.
-5. xefe niama cay a ni kafe.
-6. mame tena ni waf a dul maw.
+1. le no safa kamar.
+2. un kupe no hali.
+3. dul waf no niama supe.
+4. le no tena waf e maw. / le tena no waf e no maw.
+5. xefe niama cay a no kafe.
+6. mame tena no waf a dul maw.
 
 
 --------------------------------------------------------------------------------
@@ -596,8 +595,8 @@ something, even when not answering to a question.
 2. pape suku.
 3. ki zaman le laya?
 4. sa bade da des minute.
-5. ke saba le ni niama?
-6. sabu le ni suku kafe o supe.
+5. ke saba le no niama?
+6. sabu le no suku kafe o supe.
 
 
 --------------------------------------------------------------------------------

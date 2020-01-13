@@ -29,16 +29,16 @@ precizigas.
    vorto ĉiam staras je la fino. Liga vokalo -o- estas metita en centron.
     - ekz. **poste** (poŝto) + **sanduke** (kesto) → **postosanduke** (leterkesto)
 6. Verboj kiuj finiĝas je -a uzas la vortordon subjekto-verbo-objekto.
-    - ekz.  **me nyama pang.** = Mi manĝas panon.
+    - ekz.  **me niama pang.** = Mi manĝas panon.
 7. Verboj kiuj finiĝas je -u uzas vortordon objekto-verbo-subjekto.
     - ekz.  **pang nyamu.** = Pano estas manĝata.
 8. Verboj ne ŝanĝiĝas laŭ persono aŭ nombro.
 9. La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo. Tia strukturo nomiĝas la _ĉarnira strukturo_
-    - ekz. **me plisa te dona pese.** = Mi petas vin (por) doni monon.
+    - ekz. **me pliza te dona pese.** = Mi petas vin (por) doni monon.
 10. Eblas forigi pronomon kiam ĝia senco estas evidenta.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** =
       Ĉu vi parolas pandunion?
-    - **me plisa te loga ming.** →  **plisa loga ming.** = Bonvolu
+    - **me pliza te loga ming.** →  **pliza loga ming.** = Bonvolu
       paroli klare.
 11. Derivitaj vortoj portas finaĵon. Mofidovortoj finiĝas je -i,
     substantivoj je -e, kaj verboj je -a aŭ -u.
@@ -400,7 +400,7 @@ Ekzemploj:
 Ekzemploj:  
 **ke te vida?**
 = Kion vi vidas?  
-**me nyama pang, da te beka.**
+**me niama pang, da te beka.**
 = Mi manĝas panon, kiun vi bakis._
 
 #### 6.2.3. VOS-vortordo
@@ -551,7 +551,7 @@ Post -er, -ia signifas verkejo.
 
 #### 11.3.4 -is-
 
-**nyama** - manĝi; **nyamisa** - manĝigi  
+**niama** - manĝi; **nyamisa** - manĝigi  
 **jana** - koni/scii; **janisa** - konigi/sciigi  
 
 ##### 11.3.5 -ul-

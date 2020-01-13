@@ -443,29 +443,29 @@ Kiun pomon vi volas manĝi?
 Tiun ruĝan.
 
 
-### plisa <small>peti</small>
+### pliza <small>peti</small>
 
-**me plisa te niama cay.**
+**me pliza te niama cay.**
 Mi petas ke vi trinku teon.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Mi petas ke vi venu hejmen.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**plisa niama cay.**
+**pliza niama cay.**
 Bonvolu trinki teon!
 
-**plisa niama kafe.**
+**pliza niama kafe.**
 Bonvolu trinki kafon!
 
-**plisa laya dom.**
+**pliza laya dom.**
 Bonvolu veni hejmen!
 
-**plisa helpa me.**
+**pliza helpa me.**
 Bonvolu helpi min.
 
 
@@ -604,7 +604,7 @@ Aŭskulti min!
 **me no abla auda te.**
 Mi ne povas aŭdi vin.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Bonvolu paroli pli forte.
 
 **me auda musike.**
@@ -644,10 +644,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Bonvolu skribi vian adreson.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 Bonvolu skribi ĝin tie!
 
 
@@ -699,7 +699,7 @@ Ni iru piede!
 
 ### laya <small>veni</small>
 
-**plisa laya!**
+**pliza laya!**
 Bonvolu veni!
 
 **te laya ca ke?**
@@ -737,7 +737,7 @@ Mi loĝas en Singapuro.
 
 ### denga <small>to wait</small>
 
-**plisa denga!**
+**pliza denga!**
 Bonvolu, atendu!
 
 **denga me!**

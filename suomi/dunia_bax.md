@@ -188,19 +188,19 @@ Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös 
 Objektin voi siirtää lauseen alkun verbin **bey** avulla.
 
     Englanti:  The apples were eaten.
-    Pandunia:  aple bey nyama.
+    Pandunia:  aple bey niama.
     Kiina:     Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  ye no abla bey nyama.
+    Pandunia:  ye no abla bey niama.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Pandunia:  mi plisa ye nyama kafe.
+    Pandunia:  mi pliza ye niama kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.

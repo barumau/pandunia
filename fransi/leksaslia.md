@@ -117,6 +117,7 @@
 |dur|gati|tel:గట్టి (gaṭṭi), tkm:gaty, tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |eau|suy|zho:水 (shuǐ), jpn:(sui), vie:thuỷ, + tur:su|
 |enfant|bace|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
+|ethnie|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |et|e|fra:et, por:e, zho:和 (hé)|
 |face (facette)|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |faible|debili|eng:debilitated, spa:por:débil, hin:दुर्बल, ben:দুর্বল, mar:दुबळा|
@@ -156,6 +157,7 @@
 |jade|yuke|zho:玉 (yù), yue:玉 (yuk6), may:giok|
 |jaïnisme|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |je (me)|me|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
+|jusque (jusqu’à)|ata|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |justice|adalia|ara:(ʿadl), tur:adalet, may:may:tkm:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |jus|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |lac|lage|eng:lake, spa:por:ita:lago, fra:lac|
@@ -180,7 +182,7 @@
 |marbre|marmar|hin:संगमरमर (saṅgmarmar), spa:marmól, por:mármore, Rus:мрамор (mramor), may:marmer, Tur:mermer|
 |marché (bazar)|bazar|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)|
 |masque|maske|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, Tur:maske|
-|match|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|match|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |maximum|maxime|eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|
 |maître|mester|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |medio|medi|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|
@@ -204,6 +206,7 @@
 |niche|nixe|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |noir|cerni|rus:чёрный (čornyy), pol:czarny|
 |noit|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
+|nombre (numéro)|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |non (ne...pas)|no|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |nostalgie|nostalgia|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |note|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
@@ -298,6 +301,7 @@
 |soldat|lasker|tur:asker, may:uzb:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
 |soleil|sol|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|
 |sucre|xukar|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
+|sueur|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |suffixe pour l'adjectif|-i|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-i, hun:-i|
 |suffixe pour les verbes avec ordre des mots OVS|-u|hau:wol:-u, swa:-wa|
 |sujet (thème)|teme|fra: thème, spa: tema, rus: тема (tema), deu:Thema|

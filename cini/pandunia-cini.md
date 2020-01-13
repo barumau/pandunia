@@ -47,6 +47,8 @@ asle - 起源
 asli - 原始的  
 asme - 气喘  
 aspirin - 阿司匹林  
+ata - 直到  
+ato - 连  
 aur - 金  
 aventur - 冒险  
 aventurer - 冒险者  
@@ -319,6 +321,7 @@ niponia - 日本
 nixe - 壁龛  
 no - 不  
 noce - 夜  
+nombre - 数  
 nostalgia - 怀旧  
 note - 便条  
 novi - 新  
@@ -486,4 +489,5 @@ zebre - 斑马
 zime - 冬天  
 zinje - 姜  
 ziran - 孜然  
+zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  

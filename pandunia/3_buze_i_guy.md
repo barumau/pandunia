@@ -10,7 +10,7 @@ sa koy den, guy auda lil sonde sa supre da pulte.
 «ki ren marca sa me du pulte?» kritu guy.
 «o! mon me, lil buze» logu lil buze.
 le loga day fain, e kontina:
-«me marca pa gras loke da me wil nyama pa me si feti».
+«me marca pa gras loke da me wil niama pa me si feti».
 
 «nun me kapa te!» logu guy.
 
@@ -22,7 +22,7 @@ le loga day fain, e kontina:
 
 bada lil zaman, sonde audu sa supre da pulte.
 «ki ren marca sa me du pulte?», kritu guy.
-«o! si me, jung buze. me kina pa grasistan da me wil nyama pa me si feti», jung buze loga.
+«o! si me, jung buze. me kina pa grasistan da me wil niama pa me si feti», jung buze loga.
 le fuli no loga fain.
 
 «nun me kapa te!» logu guy.

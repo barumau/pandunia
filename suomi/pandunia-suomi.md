@@ -131,7 +131,9 @@ asli - alkuperäinen
 asme - astma  
 aspirin - aspiriini  
 astatin - astatiini  
+ata - asti (saakka)  
 atlanti samude - Atlantin valtameri  
+ato - jopa  
 atom - atomi  
 auda - kuulla (kuunnella)  
 aur - kulta  
@@ -341,8 +343,11 @@ cake - veitsi (puukko)
 cakre - ratas  
 camace - lusikka  
 campion - mestari (voittaja)  
+cana - tehdä (valmistaa)  
 cang - usein  
 cangia - taajuus (tiheys)  
+cania - tuotanto  
+canobax - keinotekoinen kieli (tekokieli, keinokieli)  
 canse - mahdollisuus (tilaisuus)  
 canta - laulaa  
 cante - laulu  
@@ -864,7 +869,6 @@ hasia - erikoisuus
 hasium - hasium  
 hatar - vaara  
 hatari - vaarallinen  
-hato - jopa  
 hawa - tuulla (puhaltaa)  
 hawayi - havaijilainen  
 hawayi nesia - Havaijin saaret  
@@ -1553,6 +1557,7 @@ mediker - lääkäri (tohtori)
 medikia - lääketiede  
 medileti den - juhannus (keskikesä, mittumaari)  
 medita - pohtia (meditoida)  
+medu - välissä  
 megam - pilvi  
 megi - miljoona  
 mego- - mega-  
@@ -1797,6 +1802,8 @@ nol ren - ei kukaan
 nol xey - ei mitään  
 nolodewiste - ateisti (jumalankieltäjä)  
 noma - järjestellä (hallinnoida, organisoida, manageroida)  
+nombre - lukumäärä (luku, numero)  
+nombre un - ensimmäinen (numero yksi)  
 nomia - hallinto (hallinnointi)  
 nonga - viljellä  
 nonger - maanviljelijä  
@@ -1827,8 +1834,6 @@ novi zilandia - Uusi-Seelanti
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
-nume - lukumäärä (luku, numero)  
-nume un - ensimmäinen (numero yksi)  
 nur - valo  
 nuri - valoisa  
 nurobaton - soihtu  
@@ -2117,6 +2122,7 @@ rasiste - rasisti
 rasistia - rasismi (rotuoppi)  
 rasme - tapa (perinne)  
 rasmi - tavanomainen (perinteinen)  
+rasomedi - rotujen välinen  
 raste - kasvu  
 rastu - kasvaa  
 ratiba - järjestää (järjestellä)  
@@ -2241,6 +2247,7 @@ sami - sama
 samoa - Samoa  
 samodexi - samanmaalainen (maanmies)  
 samojinsokami - homoseksuaali  
+samonam - homonyymi  
 samoray - yhteisymmärrys  
 samoraya - olla samaa mieltä  
 samude - meri  
@@ -2248,12 +2255,9 @@ samudi - meri- (merellinen)
 samudolaskeria - merivoimat  
 samun - yhdistys (sidos)  
 samuna - yhdistää  
-sana - tehdä (valmistaa)  
 sanduice - voileipä  
 sanduke - laatikko  
 sang - veri  
-sania - tuotanto  
-sanobax - keinotekoinen kieli (tekokieli, keinokieli)  
 santi - pyhä  
 santi helenia - Saint Helena  
 santi kitse - Saint Kitts  
@@ -2406,6 +2410,7 @@ suta - ommella
 sutur - sauma (ommel)  
 suxe - sushi  
 suy - vesi  
+suyi - vetinen  
 suyogas - höyry (vesihöyry)  
 suyoporte - satama  
 suyorang - vesiväri (akvarelliväri)  
@@ -2599,6 +2604,8 @@ vimanokaper - lentokonekaappari
 vin - viini  
 vineria - viinipanimo  
 vinil - vinyyli  
+vir - sankari (urho)  
+viri - urhea (sankarillinen)  
 virus - virus  
 virusolojia - virologia  
 visa - korvata  
@@ -2665,8 +2672,6 @@ wile - tulevaisuus
 win - voitto  
 wina - voittaa (kukistaa)  
 wing - siipi  
-wir - sankari (urho)  
-wiri - urhea (sankarillinen)  
 wolfe - susi (hukka)  
 wolfram - wolframi  
 ##x
@@ -2793,5 +2798,7 @@ ziza - sihistä
 zombe - zombi  
 zone - vyö  
 zukam - vilustuminen  
-zuluh - zulu  
+zuke - kansanryhmä (etninen ryhmä)  
+zuki - etninen  
+zukomedi - kansanryhmien välinen  
 zumurude - smaragdi  

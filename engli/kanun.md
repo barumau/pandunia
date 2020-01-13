@@ -99,11 +99,11 @@ They are described in more detail later in this document.
     - ex. **aple niamu.** = Apples are eaten.
 9. In the _pivot structure_, the object of the transitive verb
    functions as the subject of the next verb.
-    - ex. **me plisa te dona pes.** = I ask you to give money.
+    - ex. **me pliza te dona pes.** = I ask you to give money.
 10. Pronouns can be left out when they are obvious and redundant.
     - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Do
       you speak Pandunia?
-    - **me plisa te loga mingo.** →  **plisa loga mingo.**
+    - **me pliza te loga mingo.** →  **pliza loga mingo.**
       = Please speak clearly.
 11. Compound words are created by putting the word stems side by side.
     The linking vowel **-o-** is inserted between the stems.
@@ -678,9 +678,9 @@ This is done especially in commands and requests.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 – I ask you to come home.  
-**plisa laya dom!**
+**pliza laya dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -742,11 +742,11 @@ Different scopes of negation may result depending on the location of the negativ
 **me vida no te a lole.**
 – I see, not you, but them.
 
-**me plisa te safa kamar.**
+**me pliza te safa kamar.**
 – I ask you to clean the room.  
-**me no plisa te safa kamar.**
+**me no pliza te safa kamar.**
 – I do NOT ask you to clean the room.  
-**me plisa te no safa kamar.**
+**me pliza te no safa kamar.**
 – I ask you NOT to clean the room.
 
 The particles **si** and **no** are used also for answering questions.

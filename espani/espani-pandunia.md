@@ -171,6 +171,7 @@ estornudar - aciya
 estribor - botoraite  
 etapa (fase) - faze  
 etimología - leksaslia  
+etnia - zuke  
 evangelio - ewanjil  
 ##f
 favorito (preferido) - favori  
@@ -202,6 +203,7 @@ gul - gul
 género - jinse  
 ##h
 hacer - fata  
+hasta - ata  
 helado - aisokrem  
 hermoso (bello, lindo) - sundari  
 hijo o hija - pute  
@@ -323,6 +325,7 @@ nostalgia - nostalgia
 nota - note  
 nube - megam  
 nuevo - novi  
+número - nombre  
 o - o  
 ##o
 objetivo - dike  
@@ -449,6 +452,7 @@ sin - na
 situación - xeyohal  
 sociedad - socia  
 soldado - lasker  
+sudor - suede  
 sándwich (sánduche) - sanduice  
 sí - si  
 sólido - gatomate  
@@ -499,4 +503,5 @@ zorro - hule
 África - afrike  
 ágil - ajil  
 árbol - arbe  
+étnico - zuki  
 óxide - okside  

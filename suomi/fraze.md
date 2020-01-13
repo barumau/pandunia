@@ -163,7 +163,7 @@ Miten voit? (Sananmukaisesti: _Voitko hyvin?_)
 Minä voin hyvin.  
 **eska te?**
 Entä sinä?  
-**me ni bon.**
+**me no bon.**
 Minä en voi hyvin.
 
 <small>Sanan **eska**
@@ -202,12 +202,12 @@ lähteitä: espanja: si, portugali: sim, yleiskiina: 是 "shì", shanghainkiina:
 
 
 
-### ni <small>ei</small>
+### no <small>ei</small>
 
-**me ni sarah.**
+**me no sarah.**
 Minä en ole Sara.
 
-**me ni dotor.**
+**me no dotor.**
 Minä en ole lääkäri.
 
 **eska te bon?**
@@ -217,17 +217,17 @@ Kyllä, minä voin hyvin.
 
 **eska te bon.**
 Voitko hyvin?  
-**ni. me ni bon.**
+**no. me no bon.**
 Ei, minä en voi hyvin.
 
-Sanalla **ni**
+Sanalla **no**
 voi kiistää mitä tahansa. Sen paikka on kiistetyn sanan edellä.
 
-**le ni salama me.**
+**le no salama me.**
 Hän ei tervehdi minua.
 
-<small>Sanan **ni**
-lähteitä: ukraina: ні (ni), afrikaans: nie, puola: nie, espanja: ni, ranska: ni.</small>
+<small>Sanan **no**
+lähteitä: ukraina: ні (no), afrikaans: nie, puola: nie, espanja: no, ranska: no.</small>
 
 
 
@@ -375,7 +375,7 @@ saksa: Name, englanti: name.</small>
 **me tena bon dom.**
 Minulla on hyvä talo.
 
-**le ni tena pese.**
+**le no tena pese.**
 Hänellä ei ole rahaa.
 
 **me wana tena novi fon.**
@@ -420,51 +420,51 @@ Voinko auttaa sinua?
 ## Osa 2: Ruokailu
 
 
-### nyama <small>syödä, juoda</small>
+### niama <small>syödä, juoda</small>
 
-**eska te wana nyama koy?**
+**eska te wana niama koy?**
 Haluaisitko syödä jotakin?
 
-**le nyama aple.**
+**le niama aple.**
 Hän syö omenaa.
 
-**lole nyama aple.**
+**lole niama aple.**
 He syövät omenoita.
 
 Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **aple**
 voi tarkoittaa yhtä tai useampaa omenaa.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 Juotko kahvia?
 
-**me nyama kafe.**
+**me niama kafe.**
 Minä juon kahvia.
 
 Vinkki: Sana **kana**
 sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**me nyama kafe i pang.**
+**me niama kafe i pang.**
 Minä nautin kahvia ja leipää.
 
 
 
 ### wana <small>haluta</small>
 
-**eska te wana nyama?**
+**eska te wana niama?**
 Haluaisitko syödä?
 
-**te wana nyama ke?**
+**te wana niama ke?**
 Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
-**me wana nyama kafe.**
+**me wana niama kafe.**
 Minä haluan juoda kahvia.
 
-**eska te wana nyama cay?**
+**eska te wana niama cay?**
 Haluaisitko juoda teetä.
-**ni. me ni wana cay. me wana kafe.**
+**no. me no wana cay. me wana kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
 **te wana ki aple?**
@@ -474,29 +474,29 @@ Tuon punaisen.
 
 
 
-### plisa <small>pyytää</small>
+### pliza <small>pyytää</small>
 
-**me plisa te nyama cay.**
+**me pliza te niama cay.**
 Minä pyydän sinua juomaan teetä.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**plisa nyama cay.**
+**pliza niama cay.**
 Juopa teetä.
 
-**plisa nyama kafe.**
+**pliza niama kafe.**
 Juopa kahvia.
 
-**plisa laya dom.**
+**pliza laya dom.**
 Tulepa kotiin.
 
-**plisa helpa me.**
+**pliza helpa me.**
 Autapa minua.
 
 
@@ -525,10 +525,10 @@ Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
 
 ### haida <small>tehkäämme</small>
 
-**haida nyama!**
+**haida niama!**
 Syökäämme!
 
-**haida gowa nyama!**
+**haida gowa niama!**
 Menkäämme syömään!
 
 **haida gowa dom.**
@@ -541,10 +541,10 @@ Menkäämme kotiin.
 **me nida helpe.**
 Tarvitsen apua.
 
-**me nida nyama.**
+**me nida niama.**
 Minulla on nälkä. (Tarvitsen ruokaa.)
 
-**eska te nida nyama?**
+**eska te nida niama?**
 Onko sinulla nälkä?
 
 **eska te nida suy?**
@@ -557,7 +557,7 @@ Onko sinulla jano?
 
 ### pardon <small>anteeksi</small>
 
-**pardon! me ni aha.**
+**pardon! me no aha.**
 Anteeksi, minä en ymmärrä.
 
 **pardon! ce ke?**
@@ -576,10 +576,10 @@ Ymmärrätkö minua?
 **me aha.**
 Minä ymmärrän.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Anteeksi, minä en ymmärrä sinua.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 En aivan ymmärtänyt sinua.
 
 **me aha nol.**
@@ -592,7 +592,7 @@ En ymmärrä yhtään.
 **me abla gida kar.**
 Osaan ajaa autolla.
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 Hän ei osaa ajaa autolla.
 
 **eska te abla xula le?**
@@ -607,10 +607,10 @@ Minä osaan panduniaa.
 **me abla lil pandunia.**
 Minä osaan vähän panduniaa.
 
-**me ni abla engli.**
+**me no abla engli.**
 Minä en osaa englantia.
 
-**pardon. me ni abla te du bax.**
+**pardon. me no abla te du bax.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -638,10 +638,10 @@ Kissa sanoo miau.
 
 ### auda <small>kuulla, kuunnella</small>
 
-**me ni abla auda te.**
+**me no abla auda te.**
 En voi kuulla sinua.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Puhuisitko kovempaa.
 
 **me auda musike.**
@@ -679,17 +679,17 @@ Mitä "maw" tarkoittaa?
 **le mena yang da hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 Minä en ymmärrä mitä se tarkoittaa.
 
 
 
 ### kitaba <small>kirjoittaa</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Kirjoittaisitko osoitteesi.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 Kirjoittaisitko sen tähän!
 
 
@@ -745,7 +745,7 @@ Menkäämme jalan!
 
 ### laya <small>tulla</small>
 
-**plisa laya!**
+**pliza laya!**
 Tule tänne!
 
 **te laya ya ke?**
@@ -817,7 +817,7 @@ ei välttämättä tarvita.
 
 ### denga <small>odottaa</small>
 
-**plisa denga!**
+**pliza denga!**
 Odota!
 
 **lole denga mome.**

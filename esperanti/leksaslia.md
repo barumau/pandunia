@@ -153,7 +153,7 @@
 |esti|esa|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |estonoteco|wile|eng:will + wuu:未来 (víle), zho:未来 (wèilái), kor:미래 (miræ), jpn:未来 (mirai)|
 |estro (ĉefulo)|xef|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
-|eĉ|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
+|etno|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |fabrikisto|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
 |facila|izi|eng:easy, fra:aisée|
 |fajro|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
@@ -224,7 +224,7 @@
 |hejmo (loĝejo)|dom|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |helpo|helpe|eng:help, deu:Hilfe|
 |herbo|gras|eng:grass, hin:घास (ghās)|
-|heroo|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|heroo|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |hipopotamo|gubuh|ful:ngabu sot:kubu lub:gubu kon:ngubu/mvubu, gan:envubu zul:rwa:imvubu, sna:mvuu, amh:gumarre|
 |hm|hem|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |hokeo|hoke|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
@@ -421,7 +421,7 @@
 |nigra|cerni|rus:чёрный (čornyy), pol:czarny|
 |nodo|node|eng:node, spa:nudo, por:nó, fra:nœud|
 |nokto|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
-|nombro|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
+|nombro|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |nomo|nam|hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|
 |nostalgio (saudado)|nostalgia|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |noto (rimarko, komento)|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
@@ -513,7 +513,7 @@
 |preĝi|duwa|tur: dua, swa: dua, may: doa, ara: دُعَاء‏ /duʿāʾ/|
 |printempo|cune|zho:春 (chūn), yue:(ceon1), jpn:春季 (shunki), kor:춘계 (chun-gye), vie:xuân|
 |problemo|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
-|produkti (fabriki)|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
+|produkti (fabriki)|cana|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|
 |programo|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |proksima|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |promeni (marŝi)|marca|eng:march, fra:marche, spa:marcha, rus:марш (marš)|
@@ -563,7 +563,7 @@
 |salti|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |saluton!|halow|eng:hello,hullo, fra:allô, spa:aló, por:alô, rus:алло (allo), tur:alo, hin:हेलो (helo), zho:哈啰 (hāluō)|
 |saluto|salame|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
-|sama|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|sama|sami|may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|
 |samseksema|gey|eng:fra:spa:gay, por:guei|
 |sango|sang|fra:sang, spa:sangre, por:sangue|
 |sankta|santi|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)|
@@ -722,6 +722,7 @@
 |Ĝajnismo|jeinistia|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |ĝelo|jel|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |ĝirafo|jiraf|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
+|ĝis|ata|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |ĝusta (prava)|sahi|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |ĥemio (kemio)|kimia|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |ĵeti (lanĉi)|lanca|eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|

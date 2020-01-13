@@ -49,6 +49,7 @@
 |asiakirja (dokumentti, tiedosto)|dokum|eng:fra:document, rus:документ (dokument)|
 |asia|xey|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
 |Assyria|axuria|akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr)|
+|asti (saakka)|ata|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |astma|asme|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |asunto (koti)|dom|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |ateljee (studio)|estudia|rus:студия (studiya), spa:estudio, por:estúdio|
@@ -126,6 +127,7 @@
 |hiekka|rege|fas:(rig), hin:रेग (reg), urd:(reg)|
 |hiiri|mux|pol:mysz, rus:мышь (myś), fas:(muš)|
 |hiiva|hamir|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
+|hiki|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |hiljainen (hys, shhh)|xix|eng:shh, zho: (xū), rus:ш-ш-ш, tur:sus|
 |himo (halu)|kamia|hin:काम (kām), tha:กาม (gaam), eng:kama|
 |hius (karva, tukka, hiukset)|kex|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
@@ -200,7 +202,6 @@
 |joki (virta)|nade|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |jokin (joku)|koy|hin:कोई (koī), urd:(koī), rus:кое- (koye-)|
 |jooga|yoge|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
-|jopa|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |jos (olettaa)|gar|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, tkm:eger, kaz:егер (eger), + yue:假 (gaa1), wuu:假 (ga)|
 |joulu|kristojen|ell:Χριστούγεννα (Christoúgenna)|
 |juhlat|feste|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
@@ -238,6 +239,7 @@
 |kannu (karahvi)|jar|eng:jar, ara:(jara), por:spa:jarra|
 |kanootti|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |kansakunta|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
+|kansanryhmä (etninen ryhmä)|zuke|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |kanssa (luona, -lla, -ssa)|sa|swa:na, lin:kon:na, rus:на (na)|
 |karavaani (saattue)|karvan|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
 |karhu|urse|fra:ours, por:urso, spa:oso, fas:(xers)|
@@ -415,7 +417,7 @@
 |luiska (ramppi)|rampe|fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|
 |lukea|duga|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |luku (kirjan osa)|babe|may:bab, ara:urd:fas:(bāb)|
-|lukumäärä (luku, numero)|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
+|lukumäärä (luku, numero)|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |lumi|him|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |luola|guhe|ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (tguha), hin:गुफ़ा (gufā), may:gua|
 |lusikka|camace|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
@@ -553,7 +555,7 @@
 |osoittaa (näyttää)|ponta|eng:point, por:apontar, spa:apuntar, fra:pointer|
 |ostokset|xope|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |ottaa kiinni (napata, kaapata)|kapa|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
-|ottelu (matsi)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|ottelu (matsi)|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |outo (kummallinen)|bizari|eng:fra:bizarre, por:bizarro, deu:bizarr|
 |ovi (portti, veräjä)|mun|kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|
 |paahtaa (paistaa)|rosta|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
@@ -716,8 +718,8 @@
 |sakset|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
 |salaatti|salade|fra:salade, end:may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
 |sallittu (hyväksytty)|halal|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
-|sama|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
-|sankari (urho)|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|sama|sami|may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|
+|sankari (urho)|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |sanko (ämpäri)|balde|spa:por:balde, hin:बाल्टी (bālṭī), ben:(balti)|
 |sarana|xarnir|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |sarjakuva|kartun|eng:cartoon, por:cartum, zho:卡通 (kǎtōng)|
@@ -830,8 +832,8 @@
 |tauko (paussi)|pauze|eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)|
 |taulukko|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
 |tee|cay|zho: 茶 (chá), jpn: (cha), tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy)|
+|tehdä (valmistaa)|cana|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|
 |tehdä (valmistaa)|fata|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
-|tehdä (valmistaa)|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
 |teippi (nauha)|tepe|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
 |tekijä (aikaansaaja)|er|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |tekijä (valmistaja)|fater|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|

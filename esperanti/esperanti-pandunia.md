@@ -29,6 +29,7 @@ akiri (ricevi, preni) - geta
 akso - akse  
 aktinio - acinium  
 aktoro (aktorino) - roler  
+akva - suyi  
 akvo - suy  
 akvomelono - arbuze  
 al (ĝis, por) - pa  
@@ -87,7 +88,7 @@ argono - argon
 armeo - laskeria  
 armilo - arme  
 arseno - arsen  
-artefarita lingvo - sanobax  
+artefarita lingvo - canobax  
 artisto - artiste  
 arto - arte  
 arĝento - argente  
@@ -350,8 +351,10 @@ estro (ĉefulo) - xef
 eta - mini  
 etimologio - leksaslia  
 Etiopio - etiopia  
+etna - zuki  
+etno - zuke  
 evangelio - ewanjil  
-eĉ - hato  
+eĉ - ato  
 eĥo - mirosonde  
 Eŭrazio - eurasia  
 eŭro - europese  
@@ -528,8 +531,8 @@ hejmo (loĝejo) - dom
 helio - helium  
 helpo - helpe  
 herbo - gras  
-heroa - wiri  
-heroo - wir  
+heroa - viri  
+heroo - vir  
 hidrogeno - hidre  
 Himalajo - himalia  
 hinduismo - hindistia  
@@ -575,9 +578,12 @@ inko - moge
 ino - fem  
 instruisto - darsogur  
 insulto - ninde  
+inter - medu  
 interesa - interes  
+interetna - zukomedi  
 interkonsento - samoray  
 internacia - nasomedi  
+interrasa - rasomedi  
 interŝanĝi - badala  
 inviti - pliza laya  
 io - koy xey  
@@ -995,7 +1001,7 @@ Niĝero - nijeria
 nobelio - nobelium  
 nodo - node  
 nokto - noce  
-nombro - nume  
+nombro - nombre  
 nomo - nam  
 norvega - norgi  
 Norvegio - norgia  
@@ -1153,7 +1159,7 @@ preĝo - duwe
 printempo - cune  
 pripensi - hema  
 problemo - problem  
-produkti (fabriki) - sana  
+produkti (fabriki) - cana  
 profesoro - profesor  
 profetaĵo - nabe  
 programo - program  
@@ -1541,7 +1547,6 @@ zoo (bestoĝardeno) - hewanoparke
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
 Zoroastro - zardux  
-zuluo - zuluh  
 Ĉilio - cilia  
 Ĉinio - jungogia  
 ĉambro - kamar  
@@ -1573,6 +1578,7 @@ zuluo - zuluh
 ĝelo - jel  
 ĝentila - keci  
 ĝirafo - jiraf  
+ĝis - ata  
 ĝusta (prava) - sahi  
 ĥemio (kemio) - kimia  
 ĵeti (lanĉi) - lanca  

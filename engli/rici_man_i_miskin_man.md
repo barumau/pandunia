@@ -16,7 +16,7 @@ un rici man tena bekeria.
 </td><td>
 A rich man owned the bakery.
 </td></tr><tr><td>
-miskin man nosa nyami pang mey den, a ni abla peya.
+miskin man nosa nyami pang mey den, a no abla peya.
 </td><td>
 The poor man smelled the delicious bread every day, but could not afford it.
 </td></tr><tr><td>
@@ -48,11 +48,11 @@ gimi parce da pese sonda.
 </td><td>
 The coins jingled.
 </td></tr><tr><td>
-hakimer loga, "miskin man nosa pang, a ni nyama le.
+hakimer loga, "miskin man nosa pang, a no niama le.
 </td><td>
 The judge said, "The poor man smelled the bread, but did not eat it.
 </td></tr><tr><td>
-"rici man auda pese, a ni tena le."
+"rici man auda pese, a no tena le."
 </td><td>
 "The rich man hears the money, but does not get to keep it."
 </td></tr>

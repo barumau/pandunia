@@ -176,7 +176,7 @@ Comment vas-tu ? (litérallement : _Est-ce que tu vas bien_)
 Ça va. | Je vais bien.  
 **eska te?**
 Et toi ?  
-**me ni bon.**
+**me no bon.**
 Ça ne vas pas | Je ne vais pas bien.
 
 <small>Étymologie : **eska**
@@ -219,12 +219,12 @@ vient de l'Espagnol "si", en Portugais il se dit "sim".</small>
 
 
 
-### ni <small>Ne pas</small>
+### no <small>Ne pas</small>
 
-**me ni sarah.**
+**me no sarah.**
 Je ne suis pas Sara.
 
-**me ni dotor.**
+**me no dotor.**
 Je ne suis pas doctor.
 
 **eska te bon?**
@@ -234,17 +234,17 @@ Oui, je vais bien.
 
 **eska te bon?**
 Est-ce que tu vas bien ?  
-**ne, me ni bon.**
+**ne, me no bon.**
 Non, je ne vais pas bien.
 
 Vous pouvez utiliser **no**
 pour mettre une phrase à la forme negative.
 
-**le ni salama me.**
+**le no salama me.**
 Il/elle ne me salue pas.
 
-<small>Étymologie : **ni**
-vient de l'Afrikaans nie, l'Ukraïnien ні (ni).</small>
+<small>Étymologie : **no**
+vient de l'Afrikaans nie, l'Ukraïnien ні (no).</small>
 
 
 
@@ -375,7 +375,7 @@ Comment ça va ? (Mot à mot : _Est-ce que tu bien ?_)
 Je vais bien.  
 **eska te?**
 Et toi ?  
-**me ni bon.**
+**me no bon.**
 Je ne vais pas bien.
 
 
@@ -385,7 +385,7 @@ Je ne vais pas bien.
 **me tena bon dom.**
 J’ai une bonne maison.
 
-**le ni tena pese.**
+**le no tena pese.**
 Il/elle n’a pas d’argent.
 
 **me wana tena nowi fon.**
@@ -449,50 +449,50 @@ Est-ce que je peux t’aider ?
 ## 2e partie : Manger
 
 
-### nyama <small>consommer, manger, boire</small>
+### niama <small>consommer, manger, boire</small>
 
-**eska te wana nyama koy?**
+**eska te wana niama koy?**
 Est-ce que tu veux manger quelque chose ?
 
-**le nyama aple.**
+**le niama aple.**
 Il/elle mange une pomme.
 
-**lole nyama aple.**
+**lole niama aple.**
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées. Ainsi, un mot comme **aple**
 peut signifier une ou plusieurs pommes.
 
-**eska te nyama kafe?**
+**eska te niama kafe?**
 Est-ce que tu bois du café ?
 
-**me nyama kafe.**
+**me niama kafe.**
 Je bois du café.
 
-Astuce : Le sens de **nyama**
+Astuce : Le sens de **niama**
 regroupe à la fois l’idée de manger et de boire. Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique ! Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**me nyama kafe i pang.**
+**me niama kafe i pang.**
 Je prends mon café avec du pain.
 
 
 
 ### wana <small>vouloir</small>
 
-**eska te wana nyama?**
+**eska te wana niama?**
 Est-ce que tu veux manger ?
 
-**te wana nyama ke?**
+**te wana niama ke?**
 _Qu’_est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia, l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
-**me wana nyama kafe.**
+**me wana niama kafe.**
 Je veux boire un café.
 
-**eska te wana nyama cay?**
+**eska te wana niama cay?**
 Est-ce que tu veux (boire) du thé ?  
-**ne. me ni wana cay. me wana kafe.**
+**ne. me no wana cay. me wana kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **te wana ki aple?**
@@ -502,29 +502,29 @@ La rouge. (mot à mot _cette rouge_)
 
 
 
-### plisa <small>demander, s’il vous plait</small>
+### pliza <small>demander, s’il vous plait</small>
 
-**me plisa te nyama cay.**
+**me pliza te niama cay.**
 Je te demande si tu veux du thé.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Je te demande de venir à la maison.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**plisa nyama cay.**
+**pliza niama cay.**
 Un thé, s’il vous plait !
 
-**plisa nyama kafe.**
+**pliza niama kafe.**
 Un café, s’il vous plait!
 
-**plisa laya dom.**
+**pliza laya dom.**
 Viens à la maison, s’il te plait !
 
-**plisa helpa me.**
+**pliza helpa me.**
 Aide moi, s’il te plait.
 
 
@@ -553,10 +553,10 @@ De rien. (mot à mot : _tu es poli._)
 
 ### haida <small>hortatif (impératif avec « nous »)</small>
 
-**haida nyama!**
+**haida niama!**
 Mangeons !
 
-**haida gowa nyama!**
+**haida gowa niama!**
 Allons manger !
 
 **haida gowa dom.**
@@ -569,10 +569,10 @@ Allons à la maison.
 **me nida helpe.**
 J’ai besoin d’aide.
 
-**me nida nyama.**
+**me nida niama.**
 J’ai faim.
 
-**eska te nida nyama?**
+**eska te nida niama?**
 Est-ce que tu as faim ?
 
 **eska te nida suy?**
@@ -585,7 +585,7 @@ Est-ce que tu as soif ?
 
 ### pardon <small>désolé, pardon, excuse</small>
 
-**pardon! me ni aha.**
+**pardon! me no aha.**
 Désolé, je ne comprends pas.
 
 **pardon! ce ke?**
@@ -604,10 +604,10 @@ Est-ce que tu me comprends ?
 **me aha.**
 Je comprends.
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 Désolé, je ne t’ai pas compris.
 
-**me ni bas aha te.**
+**me no bas aha te.**
 Je ne t’ai pas trop compris.
 
 **me aha nol.**
@@ -620,7 +620,7 @@ Je n’ai rien compris du tout.
 **me abla gida kar.**
 Je sais conduire une voiture.
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 Il/elle ne sait pas conduire une voiture.
 
 **eska te abla xula le?**
@@ -635,10 +635,10 @@ Je peux parler pandunia.
 **me abla lil pandunia.**
 Je peux parler un peu pandunia.
 
-**me ni abla engli.**
+**me no abla engli.**
 Je ne parle pas anglais.
 
-**pardon. me ni abla te du bax.**
+**pardon. me no abla te du bax.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -666,10 +666,10 @@ Un chat dit miaou.
 
 ### auda <small>écouter, entendre</small>
 
-**me ni abla auda te.**
+**me no abla auda te.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**plisa loga forti.**
+**pliza loga forti.**
 Parlez plus fort, s’il vous plait.
 
 **me auda musike.**
@@ -705,16 +705,16 @@ Que signifie « maw » ?
 **le mena yang da hewan.**
 Ça signifie un genre d’animal.
 
-**me ni aha le mena ke.**
+**me no aha le mena ke.**
 Je ne comprend pas ce que cela signifie.
 
 
 ### kitaba <small>écrire</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 S’il te plait, écris ton adresse.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 S’il te plait, écris-le là !
 
 
@@ -768,7 +768,7 @@ On y va à pied !
 
 ### laya <small>venir</small>
 
-**plisa laya!**
+**pliza laya!**
 Viens ici !
 
 **te laya ya ke?**
@@ -837,7 +837,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### denga <small>attendre</small>
 
-**plisa denga!**
+**pliza denga!**
 Veuillez attendre !
 
 **lole denga mome.**
@@ -854,10 +854,10 @@ Je t’attends à l’hôtel.
 
 ### dona <small>donner</small>
 
-**plisa dona pese.**
+**pliza dona pese.**
 Donne-moi de l’argent, s’il te plait.
 
-**plisa dona le pa me.**
+**pliza dona le pa me.**
 Donne-le moi, s’il te plait.
 
 **me dona ce pa te.**
@@ -866,7 +866,7 @@ Je te donne ceci.
 **me dona buke pa lole.**
 Je leur donne un livre.
 
-**le ni wana dona le pa me.**
+**le no wana dona le pa me.**
 Il/elle ne veut pas me le donner.
 
 
@@ -875,7 +875,7 @@ Il/elle ne veut pas me le donner.
 **me kapa un kafe.**
 Je vais prendre un café.
 
-**plisa kapa un kafe pa me.**
+**pliza kapa un kafe pa me.**
 Prends-moi un café, s’il te plait.
 
 **te pas kapa pese ya me.**
@@ -949,7 +949,7 @@ J’étudie le pandunia.
 
 ****
 Montre-moi dans le dictionnaire !
-**me ni yada.**
+**me no yada.**
 Je ne me souviens pas.
 
 ****
@@ -977,7 +977,7 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-**plisa sida sa ce!**
+**pliza sida sa ce!**
 Assieds-toi là, s’il te plait !
 
 **me suku stasa.**

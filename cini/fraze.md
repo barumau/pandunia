@@ -108,7 +108,7 @@
 我很好。  
 **eska te?**
  你呢？  
-**me ni bon.**
+**me no bon.**
 我不好。
 
 
@@ -181,10 +181,10 @@ We greet you.
 **me aha.**
 我明白。
 
-**pardon. me ni aha te.**
+**pardon. me no aha te.**
 对不起，我不明白你。
 
-**me ni bas aha te.**
+**me no bas aha te.**
 我不太明白你。
 
 **me aha nol.**
@@ -197,7 +197,7 @@ We greet you.
 **me abla gida kar.**
 我会开车。
 
-**le ni abla gida kar.**
+**le no abla gida kar.**
 他不知道怎么开车。
 
 **eska te abla xula le?**
@@ -212,10 +212,10 @@ We greet you.
 **me abla lil pandunia.**
 我会一点泛世界语。
 
-**me ni abla engli.**
+**me no abla engli.**
 我不会英语。
 
-**pardon. me ni abla te da bax.**
+**pardon. me no abla te da bax.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>

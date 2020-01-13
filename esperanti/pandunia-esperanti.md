@@ -93,6 +93,8 @@ asle - origino
 asli - origina  
 asme - astmo  
 aspirin - aspirino  
+ata - ĝis  
+ato - eĉ  
 atom - atomo  
 auda - aŭdi (aŭskulti)  
 aur - oro  
@@ -250,7 +252,9 @@ cake - tranĉilo
 cakre - rado  
 camace - kulero  
 campion - ĉampiono  
+cana - produkti (fabriki)  
 cang - ofte  
+canobax - artefarita lingvo  
 canse - ŝanco  
 canta - kanti  
 cante - kanto  
@@ -614,7 +618,6 @@ hasi - speciala
 hasium - hasio  
 hatar - danĝero  
 hatari - danĝera  
-hato - eĉ  
 hawa - venti  
 hawe - vento  
 hay - ankoraŭ  
@@ -974,6 +977,7 @@ me - mi
 medi - mezo  
 medika - sanigi (kuraci)  
 mediker - kuracisto  
+medu - inter  
 megi - miliono  
 mego- - mega-  
 meh - ŝafo  
@@ -1097,6 +1101,7 @@ nobelium - nobelio
 noce - nokto  
 node - nodo  
 nolodewiste - ateisto  
+nombre - nombro  
 norgi - norvega  
 norgia - Norvegio  
 nostalgia - nostalgio (saudado)  
@@ -1104,7 +1109,6 @@ nota - rimarki
 note - noto (rimarko, komento)  
 notobuke - kajero  
 novi - nova  
-nume - nombro  
 nur - lumo  
 nuri - luma  
 nurobaton - torĉo  
@@ -1241,6 +1245,7 @@ rapidi - rapida
 ras - raco  
 rasiste - racisto  
 rasistia - racismo  
+rasomedi - interrasa  
 rastu - kreski  
 ray - opinio  
 raya - opinii  
@@ -1315,10 +1320,8 @@ samoray - interkonsento
 samoraya - samopinii (interkonsenti)  
 samude - maro  
 samudi - mara  
-sana - produkti (fabriki)  
 sanduke - skatolo (kesto)  
 sang - sango  
-sanobax - artefarita lingvo  
 santi - sankta  
 sapate - ŝuo  
 sapater - ŝuisto  
@@ -1392,6 +1395,7 @@ supra - superiri
 supris - surprizo  
 suxe - suŝio  
 suy - akvo  
+suyi - akva  
 suyogas - vaporo  
 suyoporte - haveno  
 ##t
@@ -1489,6 +1493,8 @@ version - versio (toisinto)
 vespe - abelo aŭ vespo  
 vida - vidi (rigardi)  
 vin - vino  
+vir - heroo  
+viri - heroa  
 visi - vic-  
 visolekse - pronomo  
 vizita - vizito  
@@ -1520,8 +1526,6 @@ wil - estonte
 wile - estonoteco  
 win - venko  
 wina - venki  
-wir - heroo  
-wiri - heroa  
 wolfe - lupo  
 ##x
 xake - branĉo  
@@ -1599,5 +1603,7 @@ zinke - zinko
 ziran - kumino  
 zirkonium - zirkonio  
 zone - zono  
-zuluh - zuluo  
+zuke - etno  
+zuki - etna  
+zukomedi - interetna  
 zumurude - smeraldo  

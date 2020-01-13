@@ -42,6 +42,7 @@ aslameriki - инде́йский
 asle - начало (причина)  
 asme - астма  
 aspirin - аспирин  
+ata - до  
 aur - золото (аурум)  
 aventur - авантюра  
 aventurer - авантюрист  
@@ -304,6 +305,7 @@ niponia - Япония
 nixe - ниша  
 no - нет (не)  
 noce - ночь  
+nombre - число  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 novi - новый  
@@ -354,6 +356,7 @@ pul - цветок
 ##r
 rapidi - быстрый  
 ras - раса  
+rasomedi - межрасовый  
 reste - остаток  
 retra - возвращаться  
 rim - рифма  
@@ -484,5 +487,7 @@ zinje - имбирь
 zinke - цинк  
 ziran - тмин  
 zone - пояс (зона)  
-zuluh - зулус  
+zuke - этнос  
+zuki - этнический  
+zukomedi - межэтнический  
 zumurude - изумруд  

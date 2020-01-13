@@ -5,19 +5,19 @@
 momi samani pape,  
 santa ti nam,  
 layu ti rajia,
-fatu ti wole  
+fatu ti vole  
 sa zemia i sa saman.  
-plisa dona momi pan den du pang pa mome.  
-plisa pardona momi dox,  
+pliza dona momi pan den du pang pa mome.  
+pliza pardona momi dox,  
 ka mome pardona momi doxer.  
-plisa ni lida mome pa tentia  
+pliza no lida mome pa tentia  
 a garda mome kontra malia.  
 te tena rajia, fortia e onoria sa pan zaman.  
 amen.
 
 <p style="font-size:6em;">🕌</p>
 
-ali dew ni zayu ka dew,  
+ali dew no zayu ko dew,  
 i muhamad si li naber.
 
 <p style="font-size:6em;">🏛</p>

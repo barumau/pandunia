@@ -50,7 +50,7 @@
 |biznes, interes (aktywność komercyjna)|biznes|eng:business, rus:бизнес (biznes)|
 |bliski|karibi|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |bogaty|rici|eng:rich, fra:riche, por:spa:rico|
-|bohater, heros|wir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
+|bohater, heros|vir|hin:वीर (vīr), urd:(vīr), ben:বীর (bīr), tam:வீரன் (vīraṉ), tel:వీరుడు (vīruḍu), mal:may:wira, tha:วีร (wi-ra), + fra:por:spa:viril, eng:virile|
 |bomba|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
 |Boże Narodzenie|kristojen|ell:Χριστούγεννα (Christoúgenna)|
 |broda|barde|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
@@ -361,7 +361,7 @@
 |materia, substancja|mate|eng:matter, spa:por:materia, fra:matière, rus:материя (materiya), deu:Materie, may:materi, + ara:(mādda), urd:(māda), tur:madde, fas:(mādde), + yue:物 (mat), vie:vật|
 |matka, mama|mame|spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|
 |mały; mało, trochę, nieco|lil|eng:little|
-|mecz, rywalizacja|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, Pol:mecz, rus:матч (matč), tur:maç|
+|mecz, rywalizacja|mece|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |miara|mete|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
 |miast, miasteczko|site|eng:city, fra:cité, + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)|
 |miecz|katan|jpn:刀 (katana)|
@@ -411,7 +411,6 @@
 |narzędzie|tul|eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|
 |naród, narodowość|nasia|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |nauka, badanie, studiowanie|lojia|eng:-ology, spa:-ología, fra:-ologie, rus:(-logiya), tur:-loji|
-|nawet|hato|por:até, ara:(ḥatta), spa:hasta, swa:hata|
 |nawyk (przyzwyczajenie)|ade|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |nazista|naciste|rus:нацист (natsist), cze:slk:nacista, jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
 |niebezpieczeństwo, ryzyko, szansa|zar|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
@@ -427,7 +426,7 @@
 |noc|noce|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |nowy|novi|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
 |nożyce, nożyczki|makas|ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí, scr:makaze|
-|numer|nume|deu:Nummer, eng:number, tur:numara, fra:numéro|
+|numer|nombre|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |nóż|cake|hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|
 |oaza|wase|ara:(wāḥa), tur:vaha, fas:(vāhe), spa:oasis|
 |obcęgi, kleszcze, szczypce|pinser|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
@@ -549,6 +548,7 @@
 |postawa ciała; asana|asan|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |posuwać się do przodu (dokonywać postępu, wejść)|jina|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
 |potrzebować|nida|eng: need|
+|pot|suede|eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|
 |powierzchnia|fase|eng:fra:por:face, spa:faz, deu:Facette|
 |powietrze|air|eng:fra:spa:air, por:ar|
 |powinien|xudu|eng:should|
@@ -743,7 +743,7 @@
 |słoń|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |służba|serve|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
 |tablioca, macierz|table|eng:table, fra:tableau, spa:tabla, rus:таблица (tablitsa), may:tabel|
-|taki sam|sami|may:sama, hin:urd: ”saman”, eng:same, fra:semblable|
+|taki sam|sami|may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|
 |taktyka, strategia|tatike|por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|
 |tak|si|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
 |tatuaż|tataw|sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|
@@ -901,7 +901,7 @@
 |zombie, zombi|zombe|kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|
 |zostawić, zostawiać|xuxe|zho:休息 (xiūxí), kor:휴식 (hyusig)|
 |zrobić (stworzyć, wykreować)|fata|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
-|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać|sana|vie:sản, jpn:產 (-san-), kor:산 (-san-), hak:產 (sán), zho:產 (chǎn), ara:(ṣanaʿa), tur:sanat|
+|zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać|cana|zho:產 (chǎn), yue:產 (caan2), vie:sản, jpn:產 (san), kor:산 (-san-), hak:產 (sán), ara:(ṣanaʿa), tur:sanat|
 |zupa|supe|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
 |związek, powiązanie, połączenie|guanxe|zho:关系 (guānxi), vie:quan hệ, kor:관계 (gwangye), jpn:関係 (kankei)|
 |zwycięstwo, wygrana|win|eng:win, deu:gewinnen|

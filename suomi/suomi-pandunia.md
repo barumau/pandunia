@@ -134,6 +134,7 @@ aspiriini - aspirin
 Assur - axur  
 Assyria - axuria  
 astatiini - astatin  
+asti (saakka) - ata  
 astia (kulho) - tas  
 astma - asme  
 asua - domu  
@@ -287,7 +288,7 @@ Englanti - englia
 enimmäis- - maximi  
 eniten - maxim  
 ensimmäinen (alku-) - muli  
-ensimmäinen (numero yksi) - nume un  
+ensimmäinen (numero yksi) - nombre un  
 entsyymi - enzim  
 epäilys - dute  
 epäonni - mal zar  
@@ -318,6 +319,7 @@ Etelä-Sudan - sudi sudania
 etiikka (moraalioppi) - darmoloji  
 etikka - sirke  
 Etiopia - etiopia  
+etninen - zuki  
 etuliite (prefiksi) - predofikse  
 etymologia - leksaslia  
 etäisyys (kaukaisuus) - tele  
@@ -482,6 +484,7 @@ hoitaa (pitää huolta) - kura
 holmium - holmium  
 hologrammi - hologram  
 homo (homoseksuaali) - gey  
+homonyymi - samonam  
 homoseksuaali - samojinsokami  
 Honduras - hondurasia  
 Hong Kong - hongong  
@@ -655,7 +658,7 @@ joku - koy ren
 jooga - yoge  
 joogata - yoga  
 joogi - yogiste  
-jopa - hato  
+jopa - ato  
 Jordania - urdunia  
 jos (olettaa) - gar  
 joskus - koy sate  
@@ -758,6 +761,8 @@ kansakunta - nasia
 kansallinen - nasi  
 kansallissosialismi - nasi socistia  
 kansallisuusaate (nationalismi) - nasistia  
+kansanryhmien välinen - zukomedi  
+kansanryhmä (etninen ryhmä) - zuke  
 kanssa (luona, -lla, -ssa) - sa  
 kapina - rebel  
 kapteeni - kapitan  
@@ -801,8 +806,8 @@ kehitys - fajan
 keho (ruumis) - badan  
 keidas - wase  
 keino (menetelmä, metodi) - metode  
-keinotekoinen (teko-, keino-) - sani  
-keinotekoinen kieli (tekokieli, keinokieli) - sanobax  
+keinotekoinen (teko-, keino-) - cani  
+keinotekoinen kieli (tekokieli, keinokieli) - canobax  
 keisari - imperer  
 keisarikunta - imperia  
 keittiö - kukeria  
@@ -1197,7 +1202,7 @@ lounas - denoniam
 luiska (ramppi) - rampe  
 lukea - duga  
 luku (kirjan osa) - babe  
-lukumäärä (luku, numero) - nume  
+lukumäärä (luku, numero) - nombre  
 lumi - him  
 lumme - nenufar  
 luodinkestävä - danosekuri  
@@ -1984,6 +1989,7 @@ Rooman valtakunta - romi empiria
 roottori (propelli) - roter  
 roska - laje  
 rotu - ras  
+rotujen välinen - rasomedi  
 Ruanda - ruandia  
 ruiske (injektio) - juxe  
 ruiskuttaa - juxa  
@@ -2042,7 +2048,7 @@ San Marino - santi marinia
 sana - lekse  
 sanaluettelo - leksoliste  
 sanasto - leksia  
-sankari (urho) - wir  
+sankari (urho) - vir  
 sanko (ämpäri) - balde  
 sanomalehti - habarobaw  
 Sao Tome ja Principe - santi tome e prinsipe  
@@ -2333,8 +2339,8 @@ teekuppi - cayokupe
 teettää - isa  
 tehdas - fateria  
 tehdä (toimia) - karma  
+tehdä (valmistaa) - cana  
 tehdä (valmistaa) - fata  
-tehdä (valmistaa) - sana  
 tehdä valmiiksi - reda  
 tehkäämme - haida  
 teippi (nauha) - tepe  
@@ -2445,7 +2451,7 @@ tuomari - hakimer
 tuomio - hakim  
 tuomita - hakima  
 tuore (raikas) - tazi  
-tuotanto - sania  
+tuotanto - cania  
 tupakka - tabake  
 tuplata (kertoa kahdella) - dulo multa  
 turbaani - pagre  
@@ -2521,7 +2527,7 @@ uraani - uranium
 Uranus - uran  
 urbaani (kaupunkilais-) - nagri  
 urdu - urdi  
-urhea (sankarillinen) - wiri  
+urhea (sankarillinen) - viri  
 urheilija - keler  
 urheilu - kel  
 uros (mies) - man  
@@ -2634,6 +2640,7 @@ vesipuhveli - kabaw
 vesitiivis - suyosekuri  
 vesiväri (akvarelliväri) - suyorang  
 vessa - tuale  
+vetinen - suyi  
 vetoketju - ziper  
 vetolaatikko - tirosanduke  
 vety - hidre  
@@ -2727,6 +2734,7 @@ väli - inter
 väli - mede  
 Välimeri - zemomedi samude  
 välipala (naposteltava) - lil niam  
+välissä - medu  
 väri - rang  
 värilline - rangi  
 väärä (epätosi, vale-) - falsi  
@@ -2792,7 +2800,6 @@ zikkurat - zikur
 Zimbabwe - zimbabwia  
 zirkonium - zirkonium  
 zombi - zombe  
-zulu - zuluh  
 äiti (emä) - mame  
 ällistyttää - ajaba  
 ärsyttää (häiritä) - irita  

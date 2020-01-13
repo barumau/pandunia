@@ -452,29 +452,29 @@ No, no quiero té. Quiero café.
 Esa roja.
 
 
-### plisa <small>pedir, solicitud, por favor</small>
+### pliza <small>pedir, solicitud, por favor</small>
 
-**me plisa te niama cay.**
+**me pliza te niama cay.**
 Te pido que bebas té.
 
-**me plisa te laya dom.**
+**me pliza te laya dom.**
 Te pido que vengas a casa.
 
-**me plisa te helpa me.**
+**me pliza te helpa me.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**plisa niama cay.**
+**pliza niama cay.**
 Por favor, bebe/beban té.
 
-**plisa niama kafe.**
+**pliza niama kafe.**
 Por favor, bebe/beban café.
 
-**plisa laya dom.**
+**pliza laya dom.**
 Por favor, ven/vengan a casa.
 
-**plisa helpa me.**
+**pliza helpa me.**
 Por favor, ayúdame/ayúdenme.
 
 
@@ -612,7 +612,7 @@ El gato dice miau.
 **me no abla auda te.**
 No puedo oírte.
 
-**plisa loga forti.**
+**pliza loga forti.**
 Por favor, hablar más fuerte.
 
 **me auda musike.**
@@ -654,10 +654,10 @@ No entiendo qué significa.
 
 ### kitaba <small>escribir</small>
 
-**plisa kitaba ti adres.**
+**pliza kitaba ti adres.**
 Por favor, escribe tu dirección.
 
-**plisa kitaba le sa ce.**
+**pliza kitaba le sa ce.**
 Por favor, escríbelo aquí.
 
 
@@ -710,7 +710,7 @@ Vamos caminando.
 
 ### laya <small>venir</small>
 
-**plisa laya!**
+**pliza laya!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **te laya ca ke?**
@@ -780,7 +780,7 @@ es necesario.
 
 ### denga <small>esperar</small>
 
-**plisa denga!**
+**pliza denga!**
 ¡Por favor, espera!
 
 **lole denga mome.**
@@ -793,10 +793,10 @@ Te espero en el hotel.
 
 ### dona <small>dar</small>
 
-**plisa dona pese.**
+**pliza dona pese.**
 Por favor da dinero.
 
-**plisa dona le pa me.**
+**pliza dona le pa me.**
 Por favor dame eso.
 
 **me dona ye pa te.**
@@ -814,7 +814,7 @@ Le doy un libro a ellos/as.
 **me kapa un kafe.**
 Voy a tomar un café.
 
-**plisa kapa un kafe pa me.**
+**pliza kapa un kafe pa me.**
 Por favor toma un café para mí.
 
 **te pas kapa pese da me.**

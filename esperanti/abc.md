@@ -102,7 +102,7 @@ Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
 
 **me vida te :)**
 = Mi vidas vin.  
-**me ni vida te :(**
+**me no vida te :(**
 = Mi ne vidas vin.
 
 

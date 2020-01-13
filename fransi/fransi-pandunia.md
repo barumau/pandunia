@@ -203,6 +203,8 @@ envelopper (emballer) - lifafa
 erroné - galti  
 espace - kali harfe  
 et - e  
+ethnie - zuke  
+ethnique - zuki  
 Europe - europe  
 européen - europi  
 ##f
@@ -248,6 +250,7 @@ hiver - zime
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aisohoke  
+homonym - samonam  
 horloge - reloje  
 hourra - ura  
 humanisme - insanistia  
@@ -260,6 +263,7 @@ important - hami
 inflammation - itis   
 insecte - koncung  
 international - nasomedi  
+interracial - rasomedi  
 ##j
 jade - yuke  
 Japon - niponia  
@@ -267,6 +271,7 @@ jaïnisme - jeinistia
 je (me) - me  
 joule (J) - jul  
 jus - jus  
+jusque (jusqu’à) - ata  
 juste - adali  
 justice - adalia  
 Jésus - yesus  
@@ -341,6 +346,7 @@ neurone - neurosel
 niche - nixe  
 noir - cerni  
 noit - noce  
+nombre (numéro) - nombre  
 non (ne...pas) - no  
 nostalgie - nostalgia  
 note - note  
@@ -478,6 +484,7 @@ société - socia
 soldat - lasker  
 soleil - sol  
 sucre - xukar  
+sueur - suede  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
 suffixe pour les verbes avec ordre des mots OVS - -u  
@@ -538,6 +545,7 @@ vivre (habiter) - domu
 vocabulaire (lexique) - leksia  
 voile - hijabe  
 voir - vida  
+voire (même) - ato  
 vouloir - wana  
 voyelle - vokal  
 vrai - veri  
@@ -553,7 +561,6 @@ zoo - hewanoparke
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
-zoulou - zuluh  
 zèbre - zebre  
 Égypte - misria  
 âge - umur  

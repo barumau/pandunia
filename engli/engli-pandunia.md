@@ -77,6 +77,7 @@ American Samoa - usameriki samoa
 americium - amerikium  
 Amerindian (Native American) - aslameriki  
 Amhara (an Ethiopian ethnic group and language) - amari  
+among (amid, between) - medu  
 ampere (amp) - amper  
 ampoule (vial) - ampul  
 amuse (entertain) - fana  
@@ -137,8 +138,8 @@ aromantic - noloromansi
 arsenic - arsen  
 art - arte  
 article (writing) - makale  
-artificial - sani  
-artificial language (conlang) - sanobax  
+artificial - cani  
+artificial language (conlang) - canobax  
 artisan (craftsman) - janger  
 artist - artiste  
 Artsakh - arcahia  
@@ -336,7 +337,7 @@ boy - jovani man
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
-brave (bold, heroic) - wiri  
+brave (bold, heroic) - viri  
 Brazil - brazilia  
 bread - pang  
 breakfast - suboniam  
@@ -827,6 +828,8 @@ Estonia - estia
 Eswatini (Swaziland) - suatia  
 ethics - darmoloji  
 Ethiopia - etiopia  
+ethnic - zuki  
+ethnic group - zuke  
 etymology - leksaslia  
 Eurasia - eurasia  
 euro (€) - europese  
@@ -836,7 +839,7 @@ European Union (EU) - europi unia
 europium - europium  
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - piping  
-even (intensifier) - hato  
+even (implying extreme example) - ato  
 evening - xam  
 event (case, instance) - kase  
 every (each) - mey  
@@ -915,7 +918,7 @@ Finland - suomia
 Finnish - suomi  
 fire (burning) - pir  
 first (beginning) - muli  
-first (number one) - nume un  
+first (number one) - nombre un  
 fish - fix  
 fish tank - fixotanke  
 five (5) - lim  
@@ -1143,7 +1146,7 @@ help (aid, assistance) - helpe
 help (assist) - helpa  
 here (there) - sa ye  
 heritage (legacy, bequest) - waris  
-hero - wir  
+hero - vir  
 hertz (Hz) - herze  
 heteroromantic - aloromansi  
 heterosexual - aloseksi  
@@ -1251,9 +1254,11 @@ insult (offense) - insulte
 intend (plan) - plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
 interest (interesting) - interes  
+interethnic - zukomedi  
 international - nasomedi  
 internet - interonete  
 interpreter (translator) - tarjer  
+interracial - rasomedi  
 interrogative - eski  
 invite - pliza laya  
 iodine - iode  
@@ -1778,7 +1783,7 @@ nuclear physics - kerni fizikia
 nuclear weapon (nuke) - kerni arme  
 nudism - nudistia  
 nudist - nudiste  
-number - nume  
+number - nombre  
 nylon - nilon  
 ##o
 oasis - wase  
@@ -2070,8 +2075,8 @@ privateer (buccaneer) - botokaper
 problem (issue) - problem  
 problematic - problemi  
 process (procedure) - proses  
-produce (create, make) - sana  
-production - sania  
+produce (create, make) - cana  
+production - cania  
 profession (occupation) - pexe  
 professor - profesor  
 program (set of structured activities) - program  
@@ -2269,7 +2274,7 @@ salad - salade
 salt - sal  
 salty (saline) - sali  
 samarium - samarium  
-same - sami  
+same (similar) - sami  
 Samoa - samoa  
 sand - rege  
 sandwich - sanduice  
@@ -2745,6 +2750,7 @@ United States of America (USA) - usamerikia
 university - dayodarsia  
 unnecessary (extraneous) - nolonidi  
 unplug (uncork) - tapula  
+until (til, up to) - ata  
 upper - supri  
 uranium - uranium  
 Uranus - uran  
@@ -2825,6 +2831,7 @@ water lily (nenuphar) - nenufar
 watercolor - suyorang  
 watermelon - arbuze  
 waterproof - suyosekuri  
+watery - suyi  
 watt - wate  
 wave - onde  
 wax - mum  
@@ -2931,4 +2938,3 @@ zoo (zoological garden) - hewanoparke
 Zoroaster - zardux  
 Zoroastrian - zarduxiste  
 Zoroastrianism - zarduxistia  
-Zulu - zuluh  

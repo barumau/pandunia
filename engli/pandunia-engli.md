@@ -136,8 +136,10 @@ asli - original (authentic)
 asme - asthma  
 aspirin - aspirin  
 astatin - astatine  
+ata - until (til, up to)  
 ate - sugar-apple (sweetsop)  
 atlanti samude - Atlantic Ocean  
+ato - even (implying extreme example)  
 atom - atom  
 auda - hear (listen)  
 aur - gold  
@@ -354,8 +356,12 @@ cake - knife
 cakre - wheel  
 camace - spoon  
 campion - champion  
+cana - produce (create, make)  
 cang - often (frequently)  
 cangia - frequency  
+cani - artificial  
+cania - production  
+canobax - artificial language (conlang)  
 canse - opportunity (chance)  
 canta - sing  
 cante - song  
@@ -893,7 +899,6 @@ hasia - distinction (specialty)
 hasium - hassium  
 hatar - danger (peril)  
 hatari - dangerous (perilous)  
-hato - even (intensifier)  
 hawa - blow  
 hawayi - Hawaiian  
 hawayi nesia - Hawaiian archipelago  
@@ -1608,6 +1613,7 @@ mediker - doctor (physician, healer)
 medikia - medicine (field of study)  
 medileti den - Midsummer Day  
 medita - meditate (ponder)  
+medu - among (amid, between)  
 megam - cloud  
 megi - million  
 mego- - mega-  
@@ -1861,6 +1867,8 @@ nolonidi - unnecessary (extraneous)
 noloromansi - aromantic  
 noloseksi - asexual  
 noma - manage (organize, direct)  
+nombre - number  
+nombre un - first (number one)  
 nomia - management (-nomy)  
 nonga - cultivate (farm)  
 nonger - farmer  
@@ -1892,8 +1900,6 @@ novi zilandia - New Zealand
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
-nume - number  
-nume un - first (number one)  
 nur - light (illumination)  
 nuri - light (bright)  
 nurobaton - torch  
@@ -2194,6 +2200,7 @@ rasiste - racist
 rasistia - racism  
 rasme - custom (tradition, practice, convention)  
 rasmi - conventional (customary, traditional)  
+rasomedi - interracial  
 raste - growth  
 rastu - grow (grow up, expand)  
 ratiba - order (arrange)  
@@ -2325,7 +2332,7 @@ salvadoria - El Salvador
 saman - sky (heaven)  
 samani - celestial (heavenly)  
 samarium - samarium  
-sami - same  
+sami - same (similar)  
 samoa - Samoa  
 samodexi - compatriot  
 samojinsokami - homosexual  
@@ -2341,13 +2348,9 @@ samudolaskeria - sea force (navy)
 samudotate - coast (beach)  
 samun - joint  
 samuna - connect (join, link)  
-sana - produce (create, make)  
 sanduice - sandwich  
 sanduke - box (chest)  
 sang - blood  
-sani - artificial  
-sania - production  
-sanobax - artificial language (conlang)  
 santi - holy (sacred)  
 santi helenia - Saint Helena  
 santi kitse - Saint Kitts  
@@ -2516,6 +2519,7 @@ suta - sew
 sutur - suture (seam)  
 suxe - sushi  
 suy - water  
+suyi - watery  
 suyogas - steam (vapor)  
 suyoporte - harbor (seaport)  
 suyorang - watercolor  
@@ -2723,6 +2727,8 @@ vimanokaper - plane hijacker
 vin - wine  
 vineria - winery  
 vinil - vinyl  
+vir - hero  
+viri - brave (bold, heroic)  
 virus - virus  
 virusolojia - virology  
 visa - substitute (replace)  
@@ -2791,8 +2797,6 @@ wile - future time
 win - victory (win)  
 wina - win (defeat)  
 wing - wing  
-wir - hero  
-wiri - brave (bold, heroic)  
 wolfe - wolf  
 wolfram - tungsten (wolfram)  
 ##x
@@ -2927,5 +2931,7 @@ ziza - sizzle
 zombe - zombie  
 zone - belt (zone)  
 zukam - cold (illness)  
-zuluh - Zulu  
+zuke - ethnic group  
+zuki - ethnic  
+zukomedi - interethnic  
 zumurude - emerald  
