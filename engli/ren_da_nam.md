@@ -1,5 +1,27 @@
 # Your name in Pandunia
 
+## What kinds of names are acceptable?
+
+Proper names belong to the category of nouns, so ideally they should be identifiable as nouns by their ending in Pandunia.
+Also the adjective ending can work, because adjective can occupy the same position as nouns in phrases.
+For example, one can say **mono viri helpa debili** (Only the brave help the weak).
+
+So, proper names can end in:
+
+- The basic noun ending -e
+- The adjective ending -i
+- Any of the 20 consonants: b c d f g h j k l m n p r s t v w x y z
+- Diphthongs like -ia in **maria** and -ua in **fransua**
+  (the French name _François_ written in the Pandunia way)
+
+Names that end in -a, -u and -o could be misunderstood as verbs (**-a** and **-u**) or adverbs (**-o**).
+So you should be careful with them.
+But don't worry, common names like "amanda", "sara" and "fatima" are normally recognized as names
+because they don't sound like any Pandunia word.
+
+
+## List of common names
+
 This is a list of suggested standard Pandunia versions of common
 given names, based on the following criteria: as close as possible
 to the original name in the original language and/or the version
