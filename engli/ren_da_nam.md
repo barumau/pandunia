@@ -59,12 +59,15 @@ widely used for girls or boys.
 **beatris** : Beatrice, Beatrix  
 **benyam** : Benjamin, Benny  
 **boris** : Boris  
-**daniel** : Daniel, Danny, Daniil  
+**daniel** : Daniel, Daniela, Danny, Daniil  
+**daria** : Daria, Darya  
+**dariux** : Darius, Dariusz  
 **davide** : Dadid, Davido  
 **denis** : Dennis, Denise, Deniz  
 **dimitre** : Dmitry  
 **dipake** : Deepak  
 **donalde** : Donald, Donaldo  
+**dorote** : Dorothy, Dorothée, Dorothea  
 **eduarde** : Edward, Eduardo, Eduard  
 **emil** : Emil, Emilio, Emilia  
 **erike** : Eric, Erik, Erkki  
@@ -73,12 +76,15 @@ widely used for girls or boys.
 **fatim** : Fatima  
 **federike** : Frederic, Fredrick, Friedrich, Federico  
 **filipe** : Philip, Philipe, Felipe  
+**franke** : Frank, Franklin  
+**franses** : Frances, Francesco, Francesca, François  
+**gustave** : Gustav, Gustavo  
 **hamide** : Hamid, Hameed  
 **hanah** : Hannah  
 **hasan** : Hassan, Hasani  
-**henre** : Henry, Henrick  
+**henrike** : Henry, Henrick, Henrique, Enrico  
 **herman** : Herman, German  
-**husain** : Hussein  
+**husain** : Hussein, Hossain  
 **idris** : Idris, Idiris  
 **igor** : Igor  
 **ilia** : Ilia, Ilya  
@@ -110,7 +116,7 @@ widely used for girls or boys.
 **maria** : Maria, Mary  
 **marke** : Marcus, Marcos, Mark, Marc  
 **marte** : Martin, Martha, Marta, Mert  
-**maryam** : Meryem  
+**maryam** : Maryam, Meryem  
 **matew** : Matthew, Matt, Matteo, Matvei  
 **mihael** : Michael, Michel, Mihayl  
 **moseh** : Moses, Moshe, Musa  
@@ -138,11 +144,13 @@ widely used for girls or boys.
 **sesil** : Cecil, Cécile  
 **sidarte** : Siddhartha  
 **tania** : Tanya  
+**tea** : Thea, Tea  
 **tomas** : Thomas, Tomaso, Tom, Tommy  
 **valeria** : Valery, Valeria  
 **valade** : Vlad, Vladimir, Waldemar  
 **vitor** : Victor, Victoria, Viktor  
 **vijay** : Vijay  
+**wilem** : Wilhelm, William, Willem  
 **yakobe** : Jacob, Yakub, Jakub, Yakov  
 **yesuh** : Jesus, Yesu, Isa  
 **yohan** : John, Joan, Johan, Johannes, Juan, Giovanni, Ivan  
