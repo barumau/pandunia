@@ -324,7 +324,7 @@ border (edge, fringe, margin, rim, side, shore, periphery) - kenar
 bored - bori  
 boredom - boria  
 boron - boron  
-borrow - prestogeta  
+borrow - jeka  
 Bosnia and Herzegovina - bosnia  
 botany (phytology) - fitolojia  
 bother - mafana  
@@ -555,6 +555,7 @@ communist - komuniste
 Comoros - komori nesia  
 companion (partner, sidekick) - latoren  
 company (corporation) - kompania  
+compassion (sympathy) - samemos  
 compatriot - samodexi  
 compete (have a match) - meca  
 compute (to process data) - komputa  
@@ -794,7 +795,9 @@ embassy - daixeria
 emerald - zumurude  
 emir - emir  
 emirate - emiria  
-emotion (feeling) - gam  
+emoji (smiley, emoticon) - emoje  
+emotion (feeling) - emos  
+emotional (emotive) - emosi  
 emperor - imperer  
 empire - imperia  
 empty (void) - kali  
@@ -894,7 +897,7 @@ feather - per
 February - mes 2 (mes dul)  
 fee (fare, tariff, rate) - tarif  
 feel (sense by touch) - senta  
-feel - gama  
+feel - emosa  
 feeze (get frozen) - aisu  
 female - fem  
 feminism - femistia  
@@ -1138,6 +1141,7 @@ heart - xim
 heavy - bari  
 heavy metal - barometal  
 Hebrew - ibri  
+helicopter - helisoviman  
 helium - helium  
 hell - narake  
 hello (hi) - halow  
@@ -1399,7 +1403,7 @@ left - lefte
 leftist (left-winger) - leftiste  
 leftover (residue, vestige) - laxe  
 lemon - limon  
-lend - presta  
+lend - jekodona  
 length - longia  
 lengthen (prolong) - longa  
 Lesotho - sotia  
@@ -1445,7 +1449,7 @@ live (be alive, living) - hayi
 live (dwell, reside) - domu  
 livermorium - livermorium  
 load (to charge) - lada  
-loanword - prestolekse  
+loanword - jekolekse  
 local - loki  
 logbook - deftobuke  
 logic (deduction) - logike  
@@ -1645,7 +1649,7 @@ monotheism - monodewistia
 monster - monster  
 Montenegro - cernogoria  
 month - mes  
-mood (emotional state) - gamohal  
+mood (emotional state) - emosohal  
 moon - lun  
 moral - darmi  
 morality (ethics) - darme  
@@ -2533,7 +2537,7 @@ Suriname - surinamia
 surname (family name) - familonam  
 surpass (above, go over) - supra  
 surprise - supris  
-surrender (submit) - islamu  
+surrender (submit, yield) - islamu  
 surrender (to give up) - salima  
 surround (encircle) - cirka  
 sushi - suxe  
@@ -2851,8 +2855,8 @@ welcome! - salam laye
 Welsh - kamri  
 west - weste  
 western - westi  
-wet (moist) - bigi  
-wet (moisten) - biga  
+wet (moist) - xipi  
+wet (moisten) - xipa  
 what kind of? - ki yangi  
 what thing? - ki xey  
 what? - ke  

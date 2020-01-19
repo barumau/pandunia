@@ -432,6 +432,7 @@ heijastaa (peilata) - mira
 heimo - tribe  
 heinäkuu - mes 7 (mes sem)  
 heittää (paiskata) - lanca  
+helikopteri - helisoviman  
 helium - helium  
 helmi - lul  
 helmikuu - mes 2 (mes dul)  
@@ -521,6 +522,7 @@ huutaa - krita
 huvi (hauskuus) - fan  
 hyi! (pyh!) - fuy  
 hylkiö (paaria) - paraye  
+hymiö (emoji) - emoje  
 hypätä (hyppiä) - jampa  
 hyrrä - tolo  
 hyttynen (sääski) - moskite  
@@ -1466,6 +1468,7 @@ myrkky - tokse
 myrkyllinen - toksi  
 myrsky - tafun  
 myös (lisäksi, plus) - plus  
+myötätunto (sympatia) - samemos  
 mänty - song  
 määritellä (luonnehtia) - sifa  
 määrä (päämäärä, kohtalo) - destin  
@@ -2438,11 +2441,12 @@ tulppa (tappi, korkki) - tape
 tulppaani - tulpan  
 tundra - tundar  
 Tunisia - tunisia  
-tunne (mielenliikutus) - gam  
+tunne (mielenliikutus) - emos  
 tunneli - tunel  
-tunnetila (tuuli) - gamohal  
-tuntea (kokea tunteita) - gama  
+tunnetila (tuuli) - emosohal  
+tuntea (kokea tunteita) - emosa  
 tuntea - senta  
+tunteellinen (tunne-) - emosi  
 tunti - hor  
 tuo (nuo) - wi  
 tuo - we  

@@ -7,6 +7,7 @@ achís - aciy
 acordarse - mema  
 acuerdo - samoray  
 aeropuerto - airoporte  
+afecto (emoción) - emos  
 Afganistán - avgania  
 afgano - avgani  
 agua - suy  
@@ -94,6 +95,7 @@ ciudadano - dexoren
 colocar (poner) - loka  
 color - rang  
 comenzar (iniciar, empezar) - mula  
+compasión - samemos  
 compañero (compinche) - latoren  
 comportamiento (conducta) - manir  
 comprar - xopa  
@@ -149,6 +151,8 @@ eje - akse
 ejército - laskeria  
 electricidad - eletre  
 embarazado (preñado) - hamili  
+emoticón (emoyi) - emoje  
+emotivo - emosi  
 empanadilla (pelmeni) - pelmen  
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
@@ -216,8 +220,9 @@ hornacina - nixe
 hotel (albergue) - hotel  
 huevo - ande  
 humanismo - insanistia  
-humor - gamohal  
+humor - emosohal  
 hurra - ura  
+hélicoptero - helisoviman  
 ##i
 impermeable - barxokote  
 importante - hami  
@@ -294,8 +299,8 @@ miel - mel
 mierda - xite  
 migración - migre  
 modo (manera, forma) - mode  
-mojado - bigi  
-mojar - biga  
+mojado - xipi  
+mojar - xipa  
 mol - mol  
 molino - molia  
 molécula - molekul  
@@ -363,12 +368,13 @@ parque - parke
 participante - parter  
 parámetro - param  
 pasaporte - pasporte  
+pasta - paste  
 pastel (pay) - pay  
 patología - patolojia  
 patógeno - patojener  
 pausa - pauze  
 paz - pace  
-pedir prestado - prestogeta  
+pedir prestado - jeka  
 pedo - pede  
 peer - peda  
 península - yagones  
@@ -389,7 +395,7 @@ plátano (banana) - banan
 pocos - xaw  
 porto - porte  
 posible - abli  
-prestar - presta  
+prestar - jekodona  
 presuponer - predogara  
 problema - problem  
 programa - program  
@@ -398,7 +404,7 @@ proyectar - lancografa
 proyecto - projete  
 prueba - dalil  
 prueba - teste  
-préstamo lingüístico - prestolekse  
+préstamo lingüístico - jekolekse  
 puerto marítimo - suyoporte  
 página - warkolate  
 que (como) - ko  

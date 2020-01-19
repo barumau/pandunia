@@ -282,7 +282,7 @@ czerwiec - mes 3 (mes tin)
 cześć, szacunek - puje  
 cztery (4) - car  
 czuć - senta  
-czuć, odczuć, odczuwać - gama  
+czuć, odczuć, odczuwać - emosa  
 czwartek - war 4 (war car)  
 czyn, uczynek - fate  
 czysty - safi  
@@ -416,7 +416,7 @@ elegancki, szykowny - xiki
 elektron - eletron  
 elektryczność - eletre  
 elektryczny - eletri  
-emocja, uczucie - gam  
+emocja, uczucie - emos  
 energia - energe  
 enzym - enzim  
 epistemologia - janolojia  

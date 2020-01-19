@@ -79,8 +79,6 @@ batre - pila (batería)
 bax - lengua (idioma)  
 baze - base  
 beker - panadero  
-biga - mojar  
-bigi - mojado  
 bir - cerveza (birra)  
 bol - balle (boule)  
 bombe - bomba  
@@ -120,6 +118,10 @@ duga - leer
 e - y  
 ##e
 eletre - electricidad  
+emoje - emoticón (emoyi)  
+emos - afecto (emoción)  
+emosi - emotivo  
+emosohal - humor  
 esa - ser (estar)  
 eskulter - escultor  
 esten - estaño  
@@ -141,7 +143,6 @@ futobol - fútbol
 galaksia - galaxia  
 galte - error  
 galti - erróneo  
-gamohal - humor  
 gas - gas  
 gati - duro  
 gatomate - sólido  
@@ -163,6 +164,7 @@ hami - importante
 hamili - embarazado (preñado)  
 hande - mano  
 hay - vida  
+helisoviman - hélicoptero  
 hewan - animal (bestia)  
 hewanoparke - zoo  
 hijabe - velo  
@@ -181,6 +183,9 @@ iva - tender
 ive - tendencia  
 ##j
 jana - saber (conocer)  
+jeka - pedir prestado  
+jekodona - prestar  
+jekolekse - préstamo lingüístico  
 jener - parente (madre o padre)  
 jenotipe - genotipo  
 jinse - género  
@@ -351,6 +356,7 @@ parce - fragmento
 parke - parque  
 parter - participante  
 pasporte - pasaporte  
+paste - pasta  
 patojener - patógeno  
 patolojia - patología  
 pauze - pausa  
@@ -372,9 +378,6 @@ piru - quemarse
 porte - porto  
 pote - lodo (barro, fango)  
 predogara - presuponer  
-presta - prestar  
-prestogeta - pedir prestado  
-prestolekse - préstamo lingüístico  
 prizona - encarcelar (aprisionar)  
 prizoner - carcelero  
 prizonia - cárcel  
@@ -406,6 +409,7 @@ sal - sal
 salame - saludo  
 sali - salino  
 saman - cielo  
+samemos - compasión  
 samoray - acuerdo  
 samude - mar  
 samudi - marítimo  
@@ -483,6 +487,8 @@ xaw - pocos
 xef - jefe  
 xey - cosa  
 xeyohal - situación  
+xipa - mojar  
+xipi - mojado  
 xite - mierda  
 xofa - conducir  
 xofer - conductor (chofer)  

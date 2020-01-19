@@ -122,6 +122,10 @@ dul - два
 dul o tin - пара  
 dunia - мир (свет)  
 ##e
+emoje - смайлик (эмодзи)  
+emos - эмоция (чувство)  
+emosi - эмоциональный  
+emosohal - настроение  
 esa - быть  
 eskulter - скульптор  
 ewanjil - евангелие  
@@ -138,7 +142,6 @@ fraze - фраза
 futobol - футбол  
 ##g
 galaksia - галактика  
-gamohal - настроение  
 gar - если  
 gas - газ  
 gati - твёрдый  
@@ -164,6 +167,7 @@ hamili - беременный
 hande - рука  
 hay - жизнь  
 hazin - сокровище (казна)  
+helisoviman - вертолёт  
 hewan - животное  
 hewanoparke - зоопарк  
 hijabe - вуаль  
@@ -374,6 +378,7 @@ sahi - правильный
 sal - соль  
 salame - приветствие  
 saman - небо  
+samemos - сострадание  
 samoray - согласие  
 samude - море  
 samudi - морской  

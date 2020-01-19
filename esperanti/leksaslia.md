@@ -145,7 +145,7 @@
 |elektro|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |eliro|cute|zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā)|
 |emo (inklino, tendenco)|ive|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
-|emocio|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
+|emocio|emos|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), ind:emosi, tgl:emosyon|
 |eno|inde|eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|
 |enui|bori|eng:bored, hin:(bhorī)|
 |eraro (miso)|galte|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|

@@ -470,6 +470,8 @@ eletri - elektryczny
 eletron - elektron  
 eletroposte (e-poste) - poczta elektroniczna  
 em - jednostki podstawowej  
+emos - emocja, uczucie  
+emosa - czuć, odczuć, odczuwać  
 energe - energia  
 engli - Anglik; angielski  
 englofiler - anglofil  
@@ -633,8 +635,6 @@ gaje - słoń
 galaksia - galaktyka  
 galeria - galeria, sala wystawowa  
 galium - gal  
-gam - emocja, uczucie  
-gama - czuć, odczuć, odczuwać  
 gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
 gandia - Uganda  

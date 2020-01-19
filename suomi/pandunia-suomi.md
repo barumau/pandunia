@@ -557,6 +557,10 @@ eletroposte (e-poste) - sähköposti
 em - pienin erottuva yksikkö  
 emir - emiiri  
 emiria - emiirikunta  
+emoje - hymiö (emoji)  
+emos - tunne (mielenliikutus)  
+emosa - tuntea (kokea tunteita)  
+emosohal - tunnetila (tuuli)  
 energe - energia  
 engli - englanti  
 englia - Englanti  
@@ -734,11 +738,8 @@ galta - erehtyä (tehdä virhe)
 galte - virhe (erhe)  
 galti - väärä (virheellinen)  
 galti buda - ymmärtää väärin  
-gam - tunne (mielenliikutus)  
-gama - tuntea (kokea tunteita)  
 gambia - Gambia  
 gamel - kameli  
-gamohal - tunnetila (tuuli)  
 gana - kuivata (kuivattaa)  
 gandia - Uganda  
 gang - äsken (vasta, juuri)  
@@ -884,6 +885,7 @@ he - häh?
 helen - kreikkalainen  
 helenia - Kreikka  
 helis - kierre (spiraali)  
+helisoviman - helikopteri  
 helium - helium  
 helme - kypärä  
 helpa - auttaa (avustaa)  
@@ -2243,6 +2245,7 @@ sali - suolainen
 salonia - Sierra Leone  
 salvadoria - El Salvador  
 saman - taivas  
+samemos - myötätunto (sympatia)  
 sami - sama  
 samoa - Samoa  
 samodexi - samanmaalainen (maanmies)  

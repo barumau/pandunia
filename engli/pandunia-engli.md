@@ -272,8 +272,6 @@ bermudia - Bermuda
 beton - concrete (material with cement)  
 beyu - undergo (passivizing verb)  
 biblia - Bible  
-biga - wet (moisten)  
-bigi - wet (moist)  
 bil - bill (invoice)  
 bina - build (construct)  
 binde - dot (spot)  
@@ -578,6 +576,11 @@ eletroposte (e-poste) - e-mail
 em - least distinguishable unit  
 emir - emir  
 emiria - emirate  
+emoje - emoji (smiley, emoticon)  
+emos - emotion (feeling)  
+emosa - feel  
+emosi - emotional (emotive)  
+emosohal - mood (emotional state)  
 energe - energy  
 engli - English  
 englia - England  
@@ -761,11 +764,8 @@ galta - make a mistake
 galte - mistake (error, fault)  
 galti - wrong (incorrect, erroneous, faulty)  
 galti buda - misunderstand  
-gam - emotion (feeling)  
-gama - feel  
 gambia - Gambia  
 gamel - camel  
-gamohal - mood (emotional state)  
 gana - dry out  
 gandia - Uganda  
 gang - just (recently)  
@@ -914,6 +914,7 @@ he - huh? (pardon?)
 helen - Greek (Hellenic)  
 helenia - Greece  
 helis - spiral (helix, corkscrew, twist)  
+helisoviman - helicopter  
 helium - helium  
 helme - helmet  
 helpa - help (assist)  
@@ -1014,7 +1015,7 @@ islamisti - Islamic
 islamisti xaria - shari'a  
 islamistia - Islam  
 islamofobia - islamophobia  
-islamu - surrender (submit)  
+islamu - surrender (submit, yield)  
 islandia - Iceland  
 israel - Israel  
 istan - region  
@@ -1050,6 +1051,9 @@ je - which (relative pronoun)
 jebe - pocket  
 jebria - algebra  
 jeinistia - Jainism  
+jeka - borrow  
+jekodona - lend  
+jekolekse - loanword  
 jel - gel (jelly)  
 jelos - jealous  
 jen - birth  
@@ -2139,9 +2143,6 @@ predi den - yesterday
 predofikse - prefix  
 predogara - assume (presuppose)  
 presis - precise (exact, accurate)  
-presta - lend  
-prestogeta - borrow  
-prestolekse - loanword  
 prezidente - president  
 prizon - prison (imprisonment)  
 prizona - imprison (jail)  
@@ -2332,6 +2333,7 @@ salvadoria - El Salvador
 saman - sky (heaven)  
 samani - celestial (heavenly)  
 samarium - samarium  
+samemos - compassion (sympathy)  
 sami - same (similar)  
 samoa - Samoa  
 samodexi - compatriot  
@@ -2834,6 +2836,8 @@ xin - belief (faith, creed)
 xina - believe  
 xindawistia - Shintoism  
 xing - star  
+xipa - wet (moisten)  
+xipi - wet (moist)  
 xir - poem  
 xirer - poet  
 xirope - syrup  

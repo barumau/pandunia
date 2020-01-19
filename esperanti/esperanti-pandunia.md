@@ -67,7 +67,7 @@ Andoj - andes
 angla - engli  
 angulo - gon  
 animo (psiko) - ruhe  
-animstato - gamohal  
+animstato - emosohal  
 ankaŭ - plus  
 ankoraŭ - hay  
 ankro - anker  
@@ -325,8 +325,9 @@ eliri - cuta
 eliro - cute  
 emi - iva  
 emo (inklino, tendenco) - ive  
-emocii - gama  
-emocio - gam  
+emocia - emosi  
+emocii - emosa  
+emocio - emos  
 ena - indi  
 energio - energe  
 eno - inde  
@@ -528,6 +529,7 @@ Hebrea - ibri
 heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmo (loĝejo) - dom  
+helikoptero - helisoviman  
 helio - helium  
 helpo - helpe  
 herbo - gras  
@@ -713,6 +715,7 @@ komenci - mula
 komenco - mul  
 komercisto - bizneser  
 kompanio (firmao) - kompania  
+kompato - samemos  
 kompreni - aha  
 kompreni - buda  
 kompreno - bude  

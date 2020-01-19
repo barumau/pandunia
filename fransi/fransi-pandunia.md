@@ -150,6 +150,7 @@ cime (pic, sommet) - pike
 citron - limon  
 coeur - kerne  
 comment - ko?  
+compassion - samemos  
 comportement (manière) - manir  
 comprendre (réaliser) - aha  
 construire - bina  
@@ -197,7 +198,7 @@ dur - gati
 ##e
 eau - suy  
 Einsteinium - ainstainium  
-empruntre - prestogeta  
+empruntre - jeka  
 enfant - bace  
 envelopper (emballer) - lifafa  
 erroné - galti  
@@ -254,7 +255,8 @@ homonym - samonam
 horloge - reloje  
 hourra - ura  
 humanisme - insanistia  
-humeur - gamohal  
+humeur - emosohal  
+hélicoptère - helisoviman  
 hétérosexuel - aloseksi  
 hôtel - hotel  
 ##i
@@ -330,8 +332,8 @@ monde - dunia
 monnaie (pièce) - pesodiske  
 mot - lekse  
 mouche - zeze  
-mouiller - biga  
-mouillé - bigi  
+mouiller - xipa  
+mouillé - xipi  
 moulin - molia  
 mur - wal  
 mât - maste  
@@ -431,7 +433,7 @@ projection - lancograf
 projet - projete  
 projeter (donner) - lancografa  
 propriété (possession, bien) - malke  
-prêter - presta  
+prêter - jekodona  
 psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
@@ -568,6 +570,8 @@ zèbre - zebre
 écriture - kitabe  
 électricité - eletre  
 émeraude - zumurude  
+émoticône (emoji) - emoje  
+émotion - emos  
 épices - masal  
 épingle - pin  
 épreuve (test) - teste  

@@ -394,6 +394,10 @@ eletre - elektro
 eletri - elektra  
 eletron - elektrono  
 em - ero  
+emos - emocio  
+emosa - emocii  
+emosi - emocia  
+emosohal - animstato  
 energe - energio  
 engli - angla  
 eni - iu ajn  
@@ -526,10 +530,7 @@ galeria - galerio (ekspozicio)
 galium - galiumo  
 galte - eraro (miso)  
 galti - erara  
-gam - emocio  
-gama - emocii  
 gamel - kamelo  
-gamohal - animstato  
 gang - ĵus  
 ganga - Gangoj  
 gani - seka  
@@ -627,6 +628,7 @@ hazin - trezoro
 he - ĉu?  
 helen - greka  
 helenia - Grekio  
+helisoviman - helikoptero  
 helium - helio  
 helme - kasko  
 helpe - helpo  
@@ -1313,6 +1315,7 @@ salame - saluto
 sali - sala  
 saman - ĉielo  
 samarium - samario  
+samemos - kompato  
 sami - sama  
 samodexi - samlandano  
 samojinsokami - samseksema  

@@ -148,6 +148,7 @@
 |huumori|yumor|rus:юмор (yumor), uzb:yumor, spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |huvi (hauskuus)|fan|eng:fun|
 |hylkiö (paaria)|paraye|hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|
+|hymiö (emoji)|emoje|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |hypätä (hyppiä)|jampa|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |hyve|gunodarme|tha:คุณธรรม (gunnadam), hin: urd: tam: tel: mya: may:|
 |hyvä (eettisesti hyvä)|ewi|eng:fra:spa:por:eu-|
@@ -872,7 +873,7 @@
 |tuli|pir|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
 |tulla|laya|vie: lại, zho: 来 (lái)|
 |tulppa (tappi, korkki)|tape|spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|
-|tunne (mielenliikutus)|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
+|tunne (mielenliikutus)|emos|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), ind:emosi, tgl:emosyon|
 |tunti|hor|fra:heure, eng:hour, spa:por:hora|
 |tuo (nuo)|wi|hin:वह (wo), ben:ওই (oi)|
 |tuoli|kurse|ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)|

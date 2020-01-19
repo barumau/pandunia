@@ -116,6 +116,7 @@
 |book|buke|eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|
 |border (edge, fringe, margin, rim, side, shore, periphery)|kenar|tur:kenar, hin:किनारा (kinārā), urd:(kanārā)|
 |bored|bori|eng:bored, hin:(bhorī)|
+|borrow|jeka|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |bottle|botol|eng:bottle, may:botol|
 |box (chest)|sanduke|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
 |branch (bough)|xake|ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|
@@ -300,7 +301,8 @@
 |electricity|eletre|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |elephant|gaje|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |emerald|zumurude|fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|
-|emotion (feeling)|gam|yue:感 (gam2), zho:感 (gǎn), kor:감 (gam), vie:cảm xúc, jpn:感情 (kanjō)|
+|emoji (smiley, emoticon)|emoje|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
+|emotion (feeling)|emos|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), ind:emosi, tgl:emosyon|
 |empty (void)|kali|ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī) tam:(kali), urd:(xālī), fas:(xāli), ara:(xāliy), jpn:空 (kara)|
 |end|fin|spa: fin, fra: fin, por: fim|
 |enough (sufficient)|bas|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
@@ -506,7 +508,6 @@
 |leave behind (abandon, let go)|laxa|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |left|lefte|eng:left|
 |lemon|limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
-|lend|presta|spa:prestar, por:emprestar, fra:prêter|
 |lesson|darse|ara:fas:urd:(dars), tur:ders|
 |letter (character, written symbol)|harfe|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
 |lettuce|letis|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
@@ -1003,7 +1004,7 @@
 |week|seman|spa:por:semana, fra:semaine|
 |weep (cry)|kuga|zho:哭 (kū), yue:哭 (huk1), vie:khóc|
 |weight|bar|ell:βάρος (báros), hin:भार (bhār), tel:భారము (bhāramu), may:may:berat|
-|wet (moist)|bigi|hin:भीगा (bhīgā), ben:ভিজা (bhijā)|
+|wet (moist)|xipi|zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|
 |what?|ke|spa:qué, por:fra:que, + ben:কে  (ke)|
 |wheel|cakre|ben:চাকা (caka), hin:चक्र (cakra)|
 |which (relative pronoun)|je|hin:जो (jo), urd:(jo)|

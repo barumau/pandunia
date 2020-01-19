@@ -134,8 +134,6 @@ baze - base
 bebe - bébé  
 beker - boulanger  
 bere - baie  
-biga - mouiller  
-bigi - mouillé  
 bina - construire  
 bir - bière  
 bol - ball  
@@ -182,6 +180,9 @@ e - et
 ##e
 eletre - électricité  
 em - unité fondamentale  
+emoje - émoticône (emoji)  
+emos - émotion  
+emosohal - humeur  
 esa - être  
 eskulter - sculpteur  
 esten - étain  
@@ -202,7 +203,6 @@ futobol - football
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
-gamohal - humeur  
 gar - si  
 gas - gaz  
 gati - dur  
@@ -224,6 +224,7 @@ halow - allô
 hami - important  
 hande - main  
 hay - vie  
+helisoviman - hélicoptère  
 hewan - animal (bête)  
 hewanoparke - zoo  
 hijabe - voile  
@@ -243,6 +244,8 @@ ive - tendance
 ##j
 jana - savoir (connaître)  
 jeinistia - jaïnisme  
+jeka - empruntre  
+jekodona - prêter  
 jenotipe - génotype  
 jinse - genre (espèc)  
 jiraf - giraffe  
@@ -430,8 +433,6 @@ piratia - piraterie
 pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
-presta - prêter  
-prestogeta - empruntre  
 problem - problème  
 problemi - problématique  
 program - programme  
@@ -466,6 +467,7 @@ sake - sac
 sal - sel  
 salame - salut (salam)  
 saman - ciel  
+samemos - compassion  
 samonam - homonym  
 samoray - accord  
 samude - mer  
@@ -561,6 +563,8 @@ xef - chef
 xey - chose  
 xeyohal - situation (état de choses)  
 xing - étoile  
+xipa - mouiller  
+xipi - mouillé  
 xite - merde  
 xopa - acheter  
 xope - shopping  

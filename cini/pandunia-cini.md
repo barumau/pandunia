@@ -88,8 +88,6 @@ bazar - 市场
 baze - 底部  
 bebe - 宝宝  
 bere - 浆果 (莓)  
-biga - 弄湿  
-bigi - 湿  
 bil - 帐单  
 bina - 建设  
 bir - 啤酒  
@@ -135,6 +133,8 @@ dul - 二
 dunia - 世界  
 e - 和  
 ##e
+emoje - 绘文字  
+emosohal - 心情  
 esa - 对  
 esten - 锡  
 estibium - 锑  
@@ -151,7 +151,6 @@ fraze - 句子
 ##g
 galaksia - 恆星系  
 galte - 错误  
-gamohal - 心情  
 gar - 如果 (要是)  
 gati - 硬  
 gatomate - 固体  
@@ -174,6 +173,7 @@ hamili - 怀孕
 hande - 手  
 hay - 生命  
 helis - 螺旋  
+helisoviman - 直升机  
 helpa - 帮助  
 hewan - 动物  
 hewanoparke - 动物园  
@@ -192,6 +192,7 @@ ive - 趋势
 ##j
 jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
+jeka - 借  
 jenotipe - 基因型  
 jinse - 属  
 jiraf - 长颈鹿  
@@ -364,7 +365,6 @@ piru - 烧
 pliza - 请  
 porte - 港  
 pote - 坭  
-prestogeta - 借  
 problem - 问题 (难题)  
 program - 计划  
 puding - 布丁  
@@ -473,6 +473,8 @@ xey - 事物 (东西)
 xeyohal - 事态  
 xibay - 失败  
 xim - 心  
+xipa - 弄湿  
+xipi - 湿  
 xir - 诗  
 xite - 粪 (屎)  
 xofa - 开车  
