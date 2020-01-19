@@ -30,18 +30,18 @@ The alphabet of Esperanto is as follows:
 
 People often criticize the letters with "hats" because they are not
 included in the standard keyboards of typewriters, computers and smart
-devices. The hatted letters are a hindrance indeed.
+devices. The letters with hats really are a problem that could have been avoided.
 
 What is often overlooked is that there are two sets of letters: big
-letters and small letters. Both do the same task: they represent spoken
-language in writing. So it's like using two hammers to hit one nail.
-Latin, Greek and Cyrillic alphabets have developed this kind of double
-character set, while most other writing systems get by with only one
-set of letter-forms.
+letters and small letters. Both do the same basic task: they represent spoken
+language in writing. It's like using two different hammers to hit one nail.
+Most writing systems in the world get by with only one type of letters.
+For example the writing systems of Arabia, India, China, Korea, Japan and Ethiopia
+don't differentiate large and small letters.
 
 The alphabet of Pandunia uses logically only the small Basic Latin letters.
 
-    a b c d e f g h i j k l m n o p r s t u w x y z '
+    a b c d e f g h i j k l m n o p r s t u v w x y z
 
 
 
