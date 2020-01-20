@@ -5,28 +5,26 @@ Pandunia - a simple world language
 
 ## What's Pandunia?
 
-Pandunia is a constructed global interlanguage. In other words, it is a
-man-made language that is designed to serve in international communication
-everywhere in the world as a supplement to other languages.
+Pandunia is a helping language for world-wide use.
+It is an easy language that people can use to talk with each other
+when they don't talk any other common language.
+It is meant to supplement other languages in our multilingual world.
 
-Some remarkable features of Pandunia:
+Pandunia is a constructed language.
+It is simpler, more regular and easier to learn than natural world languages,
+like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
+Learning Pandunia is equally easy for everybody.
+Its words have been borrowed from many languages on all continents and all cultures of the world.
 
-- Pandunia is simpler and easier than naturally evolved international languages
-  like English, Chinese, French and Arabic.
-- As a constructed language, Pandunia is completely regular
-  – there are no exceptions.
-- Pandunia is truly international!
-  Words of Pandunia are world words, which are borrowed from many languages around the world,
-  including (but not restricted to) the top-10 most widely spoken languages of the world.
 
 ## Learning material
 
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [The basics](baze.md) in one short page
-- [Spelling](abc.md)
-- [Phrasebook](fraze.md)
 - [Lessons with Dialogs](darse.md)
-- [Grammar](kanun.md)
+- [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
+- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Phrasebook](fraze.md)
+- [Spelling](abc.md) and [grammar](kanun.md)
 
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary
