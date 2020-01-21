@@ -73,6 +73,7 @@ tarja_leksaslia_pa_angli() {
     sed 's/eng:/English:/' -i leksaslia.md
     sed 's/fas:/Persian:/' -i leksaslia.md
     sed 's/fra:/French:/' -i leksaslia.md
+    sed 's/ful:/Fulani:/' -i leksaslia.md
     sed 's/guj:/Gujarati:/' -i leksaslia.md
     sed 's/hak:/Hakka-Chinese:/' -i leksaslia.md
     sed 's/hau:/Hausa:/' -i leksaslia.md
@@ -83,7 +84,9 @@ tarja_leksaslia_pa_angli() {
     sed 's/jpn:/Japanese:/' -i leksaslia.md
     sed 's/kan:/Kannada:/' -i leksaslia.md
     sed 's/khm:/Khmer:/' -i leksaslia.md
+    sed 's/kon:/Kongo:/' -i leksaslia.md
     sed 's/kor:/Korean:/' -i leksaslia.md
+    sed 's/lin:/Lingala:/' -i leksaslia.md
     sed 's/ltn:/Latin:/' -i leksaslia.md
     sed 's/mal:/Malayalam:/' -i leksaslia.md
     sed 's/mar:/Marathi:/' -i leksaslia.md
@@ -105,10 +108,12 @@ tarja_leksaslia_pa_angli() {
     sed 's/tur:/Turkish:/' -i leksaslia.md
     sed 's/urd:/Urdu:/' -i leksaslia.md
     sed 's/vie:/Vietnamese:/' -i leksaslia.md
+    sed 's/wol:/Wolof:/' -i leksaslia.md
     sed 's/wuu:/Wu-Chinese:/' -i leksaslia.md
     sed 's/yor:/Yoruba:/' -i leksaslia.md
     sed 's/yue:/Cantonese:/' -i leksaslia.md
     sed 's/zho:/Mandarin:/' -i leksaslia.md
+    sed 's/zul:/Zulu:/' -i leksaslia.md
     cd ..
 }
 
@@ -122,6 +127,7 @@ tarja_leksaslia_pa_suomi() {
     sed 's/eng:/englanti:/' -i leksaslia.md
     sed 's/fas:/persia:/' -i leksaslia.md
     sed 's/fra:/ranska:/' -i leksaslia.md
+    sed 's/ful:/fulani:/' -i leksaslia.md
     sed 's/guj:/gujarati:/' -i leksaslia.md
     sed 's/hak:/hakkakiina:/' -i leksaslia.md
     sed 's/hau:/hausa:/' -i leksaslia.md
@@ -132,7 +138,9 @@ tarja_leksaslia_pa_suomi() {
     sed 's/jpn:/japani:/' -i leksaslia.md
     sed 's/kan:/kannada:/' -i leksaslia.md
     sed 's/khm:/khmer:/' -i leksaslia.md
+    sed 's/kon:/Kongo:/' -i leksaslia.md
     sed 's/kor:/korea:/' -i leksaslia.md
+    sed 's/lin:/lingala:/' -i leksaslia.md
     sed 's/ltn:/latina:/' -i leksaslia.md
     sed 's/mal:/malayalam:/' -i leksaslia.md
     sed 's/mar:/marathi:/' -i leksaslia.md
@@ -154,10 +162,12 @@ tarja_leksaslia_pa_suomi() {
     sed 's/tur:/turkki:/' -i leksaslia.md
     sed 's/urd:/urdu:/' -i leksaslia.md
     sed 's/vie:/vietnami:/' -i leksaslia.md
+    sed 's/wol:/wolof:/' -i leksaslia.md
     sed 's/wuu:/wu-kiina:/' -i leksaslia.md
     sed 's/yor:/yoruba:/' -i leksaslia.md
     sed 's/yue:/kantoninkiina:/' -i leksaslia.md
     sed 's/zho:/yleiskiina:/' -i leksaslia.md
+    sed 's/zul:/zulu:/' -i leksaslia.md
     cd ..
 }
 
@@ -171,6 +181,7 @@ tarja_leksaslia_pa_esperanti() {
     sed 's/eng:/angla:/' -i leksaslia.md
     sed 's/fas:/persa:/' -i leksaslia.md
     sed 's/fra:/franca:/' -i leksaslia.md
+    sed 's/ful:/fula:/' -i leksaslia.md
     sed 's/guj:/guĝarata:/' -i leksaslia.md
     sed 's/hak:/hakaa:/' -i leksaslia.md
     sed 's/hau:/haŭsa:/' -i leksaslia.md
@@ -181,7 +192,9 @@ tarja_leksaslia_pa_esperanti() {
     sed 's/jpn:/japana:/' -i leksaslia.md
     sed 's/kan:/kanara:/' -i leksaslia.md
     sed 's/khm:/kmera:/' -i leksaslia.md
+    sed 's/kon:/konga:/' -i leksaslia.md
     sed 's/kor:/korea:/' -i leksaslia.md
+    sed 's/lin:/lingala:/' -i leksaslia.md
     sed 's/ltn:/latina:/' -i leksaslia.md
     sed 's/mal:/malajala:/' -i leksaslia.md
     sed 's/mar:/maratha:/' -i leksaslia.md
@@ -203,10 +216,12 @@ tarja_leksaslia_pa_esperanti() {
     sed 's/tur:/turka:/' -i leksaslia.md
     sed 's/urd:/urdua:/' -i leksaslia.md
     sed 's/vie:/vjetnama:/' -i leksaslia.md
+    sed 's/wol:/volofa:/' -i leksaslia.md
     sed 's/wuu:/vua:/' -i leksaslia.md
     sed 's/yor:/joruba:/' -i leksaslia.md
     sed 's/yue:/kantona:/' -i leksaslia.md
     sed 's/zho:/mandarena:/' -i leksaslia.md
+    sed 's/zul:/zulua:/' -i leksaslia.md
     cd ..
 }
 
