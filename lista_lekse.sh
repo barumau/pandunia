@@ -74,7 +74,7 @@ tarja_leksaslia_pa_angli() {
     sed 's/hak:/Hakka-Chinese:/' -i leksaslia.md
     sed 's/hau:/Hausa:/' -i leksaslia.md
     sed 's/hin:/Hindi:/' -i leksaslia.md
-    sed 's/hun:/Hungarian:/' leksaslia.md
+    sed 's/hun:/Hungarian:/' -i leksaslia.md
     sed 's/ibo:/Igbo:/' -i leksaslia.md
     sed 's/ita:/Italian:/' -i leksaslia.md
     sed 's/jpn:/Japanese:/' -i leksaslia.md
@@ -123,7 +123,7 @@ tarja_leksaslia_pa_suomi() {
     sed 's/hak:/hakkakiina:/' -i leksaslia.md
     sed 's/hau:/hausa:/' -i leksaslia.md
     sed 's/hin:/hindi:/' -i leksaslia.md
-    sed 's/hun:/unkari:/' leksaslia.md
+    sed 's/hun:/unkari:/' -i leksaslia.md
     sed 's/ibo:/igbo:/' -i leksaslia.md
     sed 's/ita:/italia:/' -i leksaslia.md
     sed 's/jpn:/japani:/' -i leksaslia.md
@@ -172,7 +172,7 @@ tarja_leksaslia_pa_esperanti() {
     sed 's/hak:/hakaa:/' -i leksaslia.md
     sed 's/hau:/haŭsa:/' -i leksaslia.md
     sed 's/hin:/hindia:/' -i leksaslia.md
-    sed 's/hun:/hungara:/' leksaslia.md
+    sed 's/hun:/hungara:/' -i leksaslia.md
     sed 's/ibo:/igba:/' -i leksaslia.md
     sed 's/ita:/itala:/' -i leksaslia.md
     sed 's/jpn:/japana:/' -i leksaslia.md
