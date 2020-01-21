@@ -28,17 +28,20 @@ fata_liste_pandunia_x() {
 
 fata_leksasli_liste() {
 #    cat pandunia-lekse.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-lekse.csv | awk -F "|" "{print \"|\" \$$1 \"|\" \$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    cat pandunia-lekse.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
     #morta unordi linye
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
     #Add header row
-    sed -i "1s/^/|$2 | pandunia | leksasle |\n/" $2/leksaslia.md
+    sed -i "1s/^/| pandunia | $2 | leksasle |\n/" $2/leksaslia.md
     #Add header
-    sed -i "1s/^/# $2-pandunia sa leksasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# pandunia-$2 sa leksasle\n/" $2/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' $2/leksaslia.md
+    #xula linye 2
+    sed 's/|\*\*--/|--/' -i $2/leksaslia.md
+    sed 's/--\*\*|/--|/' -i $2/leksaslia.md
 }
 
 fata_liste() {
