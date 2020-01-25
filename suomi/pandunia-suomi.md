@@ -100,6 +100,7 @@ aphazia - Abhaasia
 aple - omena  
 aplika - soveltaa  
 aplike - sovellus  
+aplosose - omenasose  
 arabi - arabialainen  
 arane - hämähäkki  
 aranofobia - araknofobia (hämähäkkikammo)  
@@ -234,6 +235,7 @@ bazarohuristia - markkinaliberalismi
 baze - perusta (perustus)  
 bazer - perustaja  
 bazi - perus-  
+bazobol - baseball (amerikkalainen pesäpallo)  
 bazokanun - perustuslaki  
 bebe - vauva  
 bede - vuode (sänky, peti)  

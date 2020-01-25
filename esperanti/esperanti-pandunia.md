@@ -145,6 +145,7 @@ barbo - barde
 bari - barya  
 barilo - baryer  
 bario - barium  
+basbalo - bazobol  
 baseno - basen  
 batato - kamote  
 baterio (pilo) - batre  

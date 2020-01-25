@@ -175,6 +175,7 @@ barbaari (raakalainen) - barbar
 Barbados - barbados  
 Barbuda - barbudia  
 barium - barium  
+baseball (amerikkalainen pesäpallo) - bazobol  
 baskeri (baretti) - berete  
 bataatti - kamote  
 beduiini - badawi  
@@ -1597,6 +1598,7 @@ olut (kalja) - bir
 omaisuus - malke  
 Oman - omania  
 omena - aple  
+omenasose - aplosose  
 omistaa - malka  
 omistaja - malker  
 omistetun omistajaan liittävä partikkeli - du  

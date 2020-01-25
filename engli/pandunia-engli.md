@@ -104,6 +104,7 @@ aphazia - Abkhazia
 aple - apple  
 aplika - apply (put to use for a purpose)  
 aplike - application  
+aplosose - applesauce  
 arabi - Arabic  
 arane - spider  
 aranofobia - arachnophobia  
@@ -245,6 +246,7 @@ bazarohuristia - market liberalism
 baze - base (foundation)  
 bazer - founder  
 bazi - basic  
+bazobol - baseball  
 bazokanun - consitution  
 bebe - baby (infant)  
 bede - bed  

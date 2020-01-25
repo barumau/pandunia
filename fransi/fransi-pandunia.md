@@ -98,6 +98,7 @@ barrière - baryer
 baryum - barium  
 base - baze  
 base de données - datobanke  
+baseball - bazobol  
 basketball - baskobol  
 bassin - basen  
 bateau - bote  
@@ -152,6 +153,7 @@ coeur - kerne
 comment - ko?  
 compassion - samemos  
 comportement (manière) - manir  
+compote de pommes - aplosose  
 comprendre (réaliser) - aha  
 construire - bina  
 corne - korne  

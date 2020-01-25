@@ -65,6 +65,7 @@ anter - opposant (antagoniste)
 anus - anus  
 aple - pomme  
 aplika - appliquer  
+aplosose - compote de pommes  
 arabi - arabe  
 arane - araignée  
 aranofobia - arachnophobie  
@@ -131,6 +132,7 @@ batre - pile (batterie)
 bax - langue  
 bazar - marché (bazar)  
 baze - base  
+bazobol - baseball  
 bebe - bébé  
 beker - boulanger  
 bere - baie  

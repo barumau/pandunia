@@ -64,6 +64,7 @@ bleu - nili
 bomba - bombe  
 botánica - fitolojia  
 botón - boton  
+béisbol - bazobol  
 ##c
 cabeza - sar  
 café - kafe  
@@ -98,6 +99,7 @@ comenzar (iniciar, empezar) - mula
 compasión - samemos  
 compañero (compinche) - latoren  
 comportamiento (conducta) - manir  
+compota de manzanas - aplosose  
 comprar - xopa  
 compras (shopping) - xope  
 conducir - xofa  

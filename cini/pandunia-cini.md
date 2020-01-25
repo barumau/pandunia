@@ -86,6 +86,7 @@ bax - 语言
 baxolojia - 白色  
 bazar - 市场  
 baze - 底部  
+bazobol - 棒球  
 bebe - 宝宝  
 bere - 浆果 (莓)  
 bil - 帐单  

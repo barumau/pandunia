@@ -168,6 +168,7 @@ baxolojia - lingvistiko
 bazar - merkato (bazaro)  
 baze - bazo  
 bazi - baza  
+bazobol - basbalo  
 bebe - bebo  
 bede - lito  
 bedinjan - melongeno  

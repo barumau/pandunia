@@ -113,6 +113,7 @@ any (no matter which) - eni
 appear - zayisu  
 appearance (looks) - rupe  
 apple - aple  
+applesauce - aplosose  
 application - aplike  
 apply (put to use for a purpose) - aplika  
 approach (get near) - karibu  
@@ -228,6 +229,7 @@ barometer - airobarometer
 barrel (can, cask) - tong  
 barrier - baryer  
 base (foundation) - baze  
+baseball - bazobol  
 basic - bazi  
 basket (basketball hoop) - baske  
 basket ball - baskobol  

@@ -30,6 +30,7 @@ ande - huevo
 anker - ancla  
 aple - manzana  
 aplika - emplear  
+aplosose - compota de manzanas  
 arane - araña  
 arbe - árbol  
 arboparke - arboreto  
@@ -78,6 +79,7 @@ baskobol - baloncesto
 batre - pila (batería)  
 bax - lengua (idioma)  
 baze - base  
+bazobol - béisbol  
 beker - panadero  
 bir - cerveza (birra)  
 bol - balle (boule)  

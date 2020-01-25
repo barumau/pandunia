@@ -29,6 +29,7 @@ anten - антенна
 anus - анус  
 aphazia - Абхазия  
 aple - яблоко  
+aplosose - яблочное пюре  
 arane - паук  
 arbe - дерево  
 arbuze - арбуз  
@@ -79,6 +80,7 @@ batre - батарея
 bax - язык  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
+bazobol - бейсбол  
 bebe - младенец  
 beker - хлебопёк (пекарь)  
 bere - ягода  
