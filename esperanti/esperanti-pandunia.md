@@ -1459,6 +1459,7 @@ tuŝi - toca
 uniono - unia  
 unu - un  
 unu la alian (reciproke) - unale  
+uragano (tajfuno) - rototufane  
 uranio - uranium  
 urba - nagri  
 urbego - site  

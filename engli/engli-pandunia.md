@@ -642,6 +642,7 @@ custom (tradition, practice, convention) - rasme
 cut - kata  
 cute (sweet) - kawayi  
 cyclist - sikliste  
+cyclone (hurrican, tornado, typhoon) - rototufane  
 Cyprus - kipris  
 Cyrillic alphabet - kirili abace  
 cytology - selolojia  
@@ -2650,6 +2651,7 @@ three (3) - tin
 throw (launch) - lanca  
 thulium - tulium  
 thunder (roaring) - grom  
+thunderstorm - gromotufane  
 Thursday - war 4 (war car)  
 Tibet - podia  
 ticket - tikete  

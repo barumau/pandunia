@@ -800,6 +800,7 @@ gras - ruoho
 grenadia - Grenada  
 grimas - irvistys  
 grom - jyrinä (ukkonen)  
+gromotufane - ukkosmyrsky  
 grosi - paksu  
 grosi harfe - lihavoitu kirjain  
 grupe - ryhmä  
@@ -2186,6 +2187,7 @@ rosta - paahtaa (paistaa)
 rosti pang - paahtoleipä  
 rota - pyörittää  
 roter - roottori (propelli)  
+rototufane - pyörremyrsky (hurrikaani, taifuuni, tornado)  
 rotu - pyöriä  
 roze - ruusu  
 rozorangi - vaaleanpunainen  

@@ -1897,6 +1897,7 @@ pyytää tulemaan - pliza laya
 pyöreä - cirki  
 pyörittää - rota  
 pyöriä - rotu  
+pyörremyrsky (hurrikaani, taifuuni, tornado) - rototufane  
 pyörä (polkupyörä, moottoripyörä) - sikle  
 pyöräilyn harrastaja - sikliste  
 päivä - den  
@@ -2514,6 +2515,7 @@ Tšad - cadia
 Tšekki - cehia  
 ##u
 Uganda - gandia  
+ukkosmyrsky - gromotufane  
 Ukraina - ukrainia  
 ulko- (ulkoinen) - way  
 ulkomaa - wayodexia  

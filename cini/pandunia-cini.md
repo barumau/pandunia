@@ -382,6 +382,7 @@ retrotikete - 往返票
 ritim - 节奏  
 rize - 根  
 roketolancer - 火箭筒  
+rototufane - 飓风 (台风)  
 roze - 玫瑰  
 ##s
 sabun - 肥皂  

@@ -829,6 +829,7 @@ grenadia - Grenada
 grenadin - the Grenadines  
 grimas - grimace  
 grom - thunder (roaring)  
+gromotufane - thunderstorm  
 grosi - thick  
 grosi harfe - bold letter  
 grupe - group  
@@ -2267,6 +2268,7 @@ rosta - roast
 rosti pang - toast (toasted bread)  
 rota - rotate (make spin)  
 roter - rotor (rotator)  
+rototufane - cyclone (hurrican, tornado, typhoon)  
 rotu - rotate (spin, turn on an axis)  
 roze - rose  
 rozorangi - pink (rosy)  

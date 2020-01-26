@@ -1276,6 +1276,7 @@ rodium - rodio
 rola - ludi rolon  
 roler - aktoro (aktorino)  
 rose - roso  
+rototufane - uragano (tajfuno)  
 roze - rozo  
 rubidium - rubidio  
 ruhe - animo (psiko)  
