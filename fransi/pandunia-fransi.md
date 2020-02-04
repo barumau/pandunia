@@ -16,53 +16,53 @@ aciy - atchoum
 aciya - éternuer  
 adali - juste  
 adalia - justice  
-adres - adresse  
+adrese - adresse  
 adulte - adulte  
 afrike - Afrique  
 afriki - africain  
 afrikofiler - afrophile  
 afrikofilia - afrophilie  
-agres - agression (attaque)  
+agrese - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
 airoporte - aéroport  
 aisohoke - hockey sur glace  
 aisokrem - crème glacée  
 aisu - geler (glacer)  
-ajil - agile  
+ajili - agile  
 akse - axe  
 aksente - accent  
 alge - algue  
 ali - autre  
-alkol - alcool  
+alkole - alcool  
 alkoli - alcoolique  
 almar - placard  
-almas - diamant  
+almase - diamant  
 alo - autrement  
 alofone - allophone  
 aloseksi - hétérosexuel  
-altar - autel  
+altare - autel  
 alumin - aluminium  
-am - amour (affection)  
 ama - aimer  
 amari - Amhara (groupe ethnique et langue éthiopienne)  
+ame - amour (affection)  
 amerike - Amérique  
 ameriki - américain  
-amper - ampère  
-ampul - ampoule (fiole)  
-analis - analyse  
-analisa - analyser  
+ampere - ampère  
+ampule - ampoule (fiole)  
+analiza - analyser  
+analize - analyse  
 ande - oeuf  
 andes - Andes  
 angolia - Angola  
 anima - animer  
 anime - animation  
-anjil - message  
+anjile - message  
 anker - ancre  
 antartia - Antarctique  
-anten - antenne  
+antene - antenne  
 anter - opposant (antagoniste)  
-anus - anus  
+anuse - anus  
 aple - pomme  
 aplika - appliquer  
 aplosose - compote de pommes  
@@ -91,8 +91,8 @@ asme - asthme
 aspirin - aspirine  
 ata - jusque (jusqu’à)  
 ato - voire (même)  
-aur - or  
-aventur - aventure  
+aure - or  
+aventure - aventure  
 aventurer - aventurier  
 avgani - afghan  
 avgania - Afghanistan  
@@ -101,16 +101,15 @@ ay - aïe!
 babe - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
-badam - amande  
-badan - corps  
+badame - amande  
 bagaje - bagage  
 bagre - tigre  
 baki - blanc  
 balibali - divers (plusieurs)  
-balkon - balcon  
-banan - banane  
+balkone - balcon  
+banane - banane  
 bande - bande  
-bandir - drapeau  
+bandere - drapeau  
 banke - banque  
 banker - banquier  
 banse - bambou  
@@ -125,11 +124,11 @@ barxi - pluvieux
 barxocate - parapluie  
 barxokote - imperméable  
 baryer - barrière  
-bas - assez  
-basen - bassin  
+basene - bassin  
+basi - assez  
 baskobol - basketball  
 batre - pile (batterie)  
-bax - langue  
+baxe - langue  
 bazar - marché (bazar)  
 baze - base  
 bazobol - baseball  
@@ -137,13 +136,14 @@ bebe - bébé
 beker - boulanger  
 bere - baie  
 bina - construire  
-bir - bière  
-bol - ball  
+bire - bière  
+bode - corps  
+bol (bole) - ball  
 bombe - bombe  
-bon - bon  
+bon (boni) - bon  
 bote - bateau  
 botolefte - babord  
-boton - bouton  
+botone - bouton  
 botoraite - tribord  
 bruni - brun (marron)  
 buke - livre  
@@ -151,10 +151,10 @@ buke - livre
 ca - de  
 camace - cuiller  
 canse - chance  
-cay - thé  
+cay (caye) - thé  
 cayokupe - tasse à thé  
 cerni - noir  
-cis - fromage  
+cise - fromage  
 cokolate - chocolat  
 cokolatobaton - tablette de chocolat  
 cuzable - option  
@@ -167,12 +167,12 @@ date - données
 datobanke - base de données  
 dayosamude - océan  
 debili - faible  
-destin - destin (destination)  
-dew - dieu  
+destine - destin (destination)  
+dew (dewe) - dieu  
 dike - objectif (cible)  
-din - religion  
+dine - religion  
 diske - disque  
-dokum - document (dossier)  
+dokume - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
 duga - lire  
@@ -181,16 +181,16 @@ dunia - monde
 e - et  
 ##e
 eletre - électricité  
-em - unité fondamentale  
+eme - unité fondamentale  
 emoje - émoticône (emoji)  
 emos - émotion  
 emosohal - humeur  
 esa - être  
 eskulter - sculpteur  
-esten - étain  
+estane - étain  
 europe - Europe  
 europi - européen  
-ewanjil - évangile  
+ewanjile - évangile  
 ##f
 fase - face (facette)  
 fata - faire  
@@ -200,44 +200,45 @@ fiorde - fiord
 fitolojia - botanique  
 fora  - forer (percer)  
 fotografia - photographie  
+fule - fleur  
 futobol - football  
 ##g
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
 gar - si  
-gas - gaz  
+gase - gaz  
 gati - dur  
-gazel - gazelle  
-gitar - guitare  
-gol - but  
-goton - coton  
+gazele - gazelle  
+gitare - guitare  
+gole - but  
+gotone - coton  
 governe - gouvernement  
 grupe - groupe  
-gul - goule  
+gule - goule  
 gunden - palais  
 gute - genou  
 ##h
 haha - rire  
 haime - tente  
 hake - droit  
-hal - état  
+hale - état  
 halow - allô  
 hami - important  
 hande - main  
-hay - vie  
+haye - vie  
 helisoviman - hélicoptère  
-hewan - animal (bête)  
+hewane - animal (bête)  
 hewanoparke - zoo  
 hijabe - voile  
-him - neige  
+hime - neige  
 hisaba - calculer  
 hoke - hockey  
-hor - heure  
-hotel - hôtel  
+hore - heure  
+hotel (hotele) - hôtel  
 hule - renard  
 ##i
-insan - être humain  
+insane (insan) - être humain  
 insani hake - droits de l'homme  
 insanistia - humanisme  
 itis  - inflammation  
@@ -250,19 +251,20 @@ jeka - empruntre
 jekodona - prêter  
 jenotipe - génotype  
 jinse - genre (espèc)  
-jiraf - giraffe  
-jul - joule (J)  
-jung - centre  
+jirafe - giraffe  
+jule - joule (J)  
+junge - centre  
 jungogia - Chine  
-jus - jus  
+juse - jus  
+justi - exact (précis)  
 ##k
-kafas - cage  
+kafase - cage  
 kafe - café  
 kagaze - papier  
 kalam - plume  
 kali harfe - espace  
-kamar - pièce (chambre)  
-kamis - chemise  
+kamare - pièce (chambre)  
+kamise - chemise  
 kanape - canapé (sofa)  
 kance - verre  
 kanoe - canoë  
@@ -288,20 +290,20 @@ klimomute - changement climatique
 ko - que (comme)  
 ko? - comment  
 komputer - ordinateur  
-koncung - insecte  
+koncunge - insecte  
 konfusi - perplexe (désorienté)  
+kope - coupe (tasse, verre)  
 korne - corne  
-koron - couronne  
+korone - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
-krem - crème  
-krus - croix  
+kreme - crème  
+kruse - croix  
 kube - cube  
-kupe - coupe (tasse, verre)  
 ##l
 lage - lac  
-lancograf - projection  
 lancografa - projeter (donner)  
+lancografe - projection  
 lasker - soldat  
 laskeria - armée  
 late - côté  
@@ -316,19 +318,19 @@ leksi - lexical
 leksia - vocabulaire (lexique)  
 lenti - lent  
 lete - été  
-letis - laitue  
-libel - libellule  
+letise - laitue  
+libele - libellule  
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
-lil - petit  
-limon - citron  
+lil (lili) - petit  
+limone - citron  
 liste - liste  
 loga - parler  
 logivi - loquace  
 loka - mettre (placer)  
 loke - lieu  
 loki - local  
-long - long  
+longi - long  
 lugi - vert  
 luter - brigand (bandit)  
 lutheristi - luthérien  
@@ -336,33 +338,33 @@ lutheristia - luthéranisme
 luzer - perdant  
 ##m
 magribia - Maroc  
-maidan - place  
+maidane - place  
 malke - propriété (possession, bien)  
 malker - possédant (propriétaire)  
 mame - mère (maman)  
-manges - magnésium  
+mangese - magnésium  
 manihayistia - manichéisme  
-manir - comportement (manière)  
+manire - comportement (manière)  
 manse - viande  
 maria - mariage  
-marmar - marbre  
-masal - épices  
+marmare - marbre  
+masale - épices  
 maske - masque  
 maste - mât  
-maw - chat  
-max - plus  
+maw (mawe) - chat  
+max (maxo) - plus  
 maxime - maximum  
 maye - fourmi  
 me - je (me)  
 mece - match  
 medi - medio  
-megam - nuage  
-mel - miel  
-mem - mémoire  
+megame - nuage  
+mele - miel  
 mema - se rappeler (se remémorer)  
+meme - mémoire  
 memula - oublier  
 mening - méninge  
-mes - mois  
+mes (mese) - mois  
 mester - maître  
 meze - table  
 migre - migration  
@@ -370,10 +372,11 @@ migru - s'installer (déménager)
 milke - lait  
 misria - Égypte  
 mode - mode (façon, manière)  
-mol - mole (unité)  
+mole - mole (unité)  
 molia - moulin  
 mome - nous  
 muke - visage  
+mule - racine  
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
@@ -396,9 +399,9 @@ o - ou
 ##o
 okside - oxyde  
 onde - onde  
-or - oreille  
 oranje - orange (fruit)  
 oranji - orange (couleur)  
+ore - oreille  
 oritis - otite  
 orti - droit (rectiligne)  
 ortogoni - orthogonal  
@@ -409,42 +412,42 @@ paciste - pacifiste
 pagre - turban  
 pake - paquet  
 pakse - oiseau  
-pang - pain  
-panir - fromage blanc  
-papagay - perroquet  
-papay - papaye  
+pang (pange) - pain  
+panire - fromage blanc  
+papagaye - perroquet  
+papaye - papaye  
 pape - pere (papa)  
-param - paramètre  
+parame - paramètre  
 parce - fragment  
 parke - parc  
 pasporte - passeport  
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
-pay - tarte  
+pay (paye) - tarte  
 peda - péter  
 pede - pet (vesse)  
 pese - argent  
 pesodiske - monnaie (pièce)  
 piaze - oignon  
 pike - cime (pic, sommet)  
-pin - épingle  
-pir - feu  
+pine - épingle  
 pira - brûler  
 piratia - piraterie  
+pire - feu  
 pize - pizza  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
-problem - problème  
+probleme - problème  
 problemi - problématique  
-program - programme  
+programe - programme  
 projete - projet  
-pul - fleur  
+pule - pont  
 pute - fils ou fille  
 ##r
-rang - couleur  
+rang (range) - couleur  
 rapidi - vite (rapide)  
-ras - race  
+rase - race  
 rasomedi - interracial  
 razonu - tener sentido  
 reloje - horloge  
@@ -452,9 +455,8 @@ reste - reste
 retra - retourner (revenir)  
 retrotikete - Aller-retour  
 rici - riche  
-rim - rime  
-ritim - rhythme  
-rize - racine  
+rime - rime  
+ritime - rhythme  
 robote - robot  
 roketolancer - Lance-roquettes  
 rose - rosée  
@@ -466,18 +468,18 @@ ruholojia - psychologie
 safariste - touriste  
 sahi - correct (juste)  
 sake - sac  
-sal - sel  
 salame - salut (salam)  
-saman - ciel  
-samemos - compassion  
+sale - sel  
+samane - ciel  
+samemose - compassion  
 samonam - homonym  
-samoray - accord  
+samoraye - accord  
 samude - mer  
 samudojel - méduse  
 samudotate - côte  
 sanduice - sandwich  
-sang - sang  
-sar - tête  
+sange - sang  
+sare - tête  
 saturne - Saturne  
 sekse - sexe  
 sekuri - sûr  
@@ -486,24 +488,24 @@ seme - semence
 semi - séminal  
 serye - série  
 si - oui  
-sihate - santé  
-sihati - sain  
+sihe - santé  
+sihi - sain  
 sikle - bicyclette  
 sikliste - cycliste  
 site - ville  
 socia - société  
-sol - soleil  
+sole - soleil  
 solocate - ombrelle (parasol)  
 sonokamar - chambre à coucher  
 sonu - dormir  
-sos - sauce  
-sosis - saucisse  
+sose - sauce  
+sosise - saucisse  
 suede - sueur  
 suki - heureux  
 sundari - beau  
 sundaria - beauté  
-susan - lys  
-suy - eau  
+susane - lys  
+suy (suye) - eau  
 suyogas - vapeur d’eau  
 ##t
 tarje - traduction  
@@ -512,7 +514,7 @@ tazi - frais
 te - tu  
 tehne - technique  
 tehnolojia - technologie  
-telofon - téléphone  
+telofone - téléphone  
 telovide - téléviseur  
 teme - sujet (thème)  
 tena - avoir  
@@ -522,21 +524,21 @@ teroristia - terrorisme
 tese - argument  
 teste - épreuve (test)  
 tikete - billet  
-tim - équipe  
+time - équipe  
 tira milke - tirer  
 toca - toucher  
 tomate - tomate  
 tunisia - Tunisie  
 tuze - lapin (lièvre)  
 ##u
-umur - âge  
+umure - âge  
 ura - hourra  
 uranium - uranium  
 urse - ours  
 ##v
 vagin - vagine  
 vaginitis - vaginite  
-vampir - vampire  
+vampire - vampire  
 vaze - vase  
 vejetoniamiste - végétarien  
 venezolia - Venezuela  
@@ -548,23 +550,23 @@ virus - virus
 vokal - voyelle  
 vulve - vulve  
 ##w
-wal - mur  
+wale - mur  
 walopapir - papier peint  
 wana - vouloir  
 warkolate - page  
-wayoniam - piquenique  
+wayoniame - piquenique  
 weki - éveillé  
 werka - travailler  
 werke - travail  
 werker - travailleur (ouvrier)  
 wolfe - loup  
 ##x
-xatan - Satan  
+xatan (xatane) - Satan  
 xaw - peu  
-xef - chef  
-xey - chose  
-xeyohal - situation (état de choses)  
-xing - étoile  
+xefe - chef  
+xey (xeye) - chose  
+xeyohale - situation (état de choses)  
+xinge - étoile  
 xipa - mouiller  
 xipi - mouillé  
 xite - merde  

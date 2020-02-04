@@ -8,24 +8,24 @@ aciya - estornudar
 adali - justo  
 adalia - justicia  
 afrike - África  
-agres - ataque  
+agrese - ataque  
 airoporte - aeropuerto  
 aisohoke - hockey sobre hielo  
 aisokrem - helado  
 aisu - congelar (helar)  
-ajil - ágil  
+ajili - ágil  
 akse - eje  
 aksente - acento  
 alge - alga  
 ali - otro  
-alkol - alcohol  
+alkole - alcohol  
 alkoli - alcohólico  
 almar - armario  
-almas - diamante  
-aloray - desacuerdo  
+almase - diamante  
 aloraya - disentir (no estar de acuerdo)  
-altar - altar  
-analis - análisis  
+aloraye - desacuerdo  
+altare - altar  
+analize - análisis  
 ande - huevo  
 anker - ancla  
 aple - manzana  
@@ -47,8 +47,8 @@ asli - original
 asme - asma  
 aspirin - aspirina  
 ata - hasta  
-aur - oro  
-aventur - aventura  
+aure - oro  
+aventure - aventura  
 aventurer - aventurero  
 avgani - afgano  
 avgania - Afganistán  
@@ -56,14 +56,13 @@ ay - ay!
 ##b
 babuce - chinelo (pantufa)  
 bace - niño o niña  
-badam - almendra  
-badan - cuerpo  
+badame - almendra  
 bagaje - equipaje  
 bagre - tigre  
 baki - blanco  
 balibali - distintos (diversos)  
-balkon - balcón  
-banan - plátano (banana)  
+balkone - balcón  
+banane - plátano (banana)  
 bande - banda  
 banke - banco  
 banker - banquero  
@@ -74,18 +73,19 @@ barxi - lluvioso (pluvioso)
 barxocate - parasol  
 barxokote - impermeable  
 baryer - barrera  
-bas - bastante  
+basi - bastante  
 baskobol - baloncesto  
 batre - pila (batería)  
-bax - lengua (idioma)  
+baxe - lengua (idioma)  
 baze - base  
 bazobol - béisbol  
 beker - panadero  
-bir - cerveza (birra)  
-bol - balle (boule)  
+bire - cerveza (birra)  
+bode - cuerpo  
+bol (bole) - balle (boule)  
 bombe - bomba  
 botolefte - babor  
-boton - botón  
+botone - botón  
 botoraite - estribor  
 bruni - marrón  
 buke - libro  
@@ -93,11 +93,12 @@ buke - libro
 ca - de  
 camace - cuchara  
 canse - oportunidad (chance)  
+cay (caye) - té  
 cerni - negro  
-cis - queso  
+cise - queso  
 cokolate - chocolate  
 cokolatobaton - barra de chocolate  
-coy - verduras  
+coye - verduras  
 cuzable - opción  
 ##d
 dade - dado  
@@ -108,10 +109,10 @@ date - datos
 datobanke - banco de datos (base de datos)  
 dayosamude - océano  
 debili - débil  
-destin - destino  
+destine - destino  
 dexoren - ciudadano  
 dike - objetivo  
-din - religión  
+dine - religión  
 diske - disco  
 domi - doméstico  
 dominikania - Republica Dominicana  
@@ -126,9 +127,9 @@ emosi - emotivo
 emosohal - humor  
 esa - ser (estar)  
 eskulter - escultor  
-esten - estaño  
+estane - estaño  
 estibium - antimonio  
-ewanjil - evangelio  
+ewanjile - evangelio  
 ##f
 fase - faz (faceta)  
 fata - hacer  
@@ -139,45 +140,46 @@ fiorde - fiordo
 fitolojia - botánica  
 fora  - perforar  
 fotografia - fotografía  
+fule - flor  
 funge - hongo  
 futobol - fútbol  
 ##g
 galaksia - galaxia  
 galte - error  
 galti - erróneo  
-gas - gas  
+gase - gas  
 gati - duro  
 gatomate - sólido  
-gitar - guitarra  
-gol - meta (gol)  
-goton - algodón  
+gitare - guitarra  
+gole - meta (gol)  
+gotone - algodón  
 governa - gobernar  
 governe - gobierno  
 grupe - grupo  
-gul - gul  
+gule - gul  
 gunden - palacio  
 gute - rodilla  
 ##h
 haha - reír  
 hake - derecho  
-hal - estado  
+hale - estado  
 halow - aló  
 hami - importante  
 hamili - embarazado (preñado)  
 hande - mano  
-hay - vida  
+haye - vida  
 helisoviman - hélicoptero  
-hewan - animal (bestia)  
+hewane - animal (bestia)  
 hewanoparke - zoo  
 hijabe - velo  
-him - neve  
+hime - neve  
 hisaba - calcular  
 hoke - hockey  
-hor - hora  
-hotel - hotel (albergue)  
+hore - hora  
+hotel (hotele) - hotel (albergue)  
 hule - zorro  
 ##i
-insan - ser humano  
+insane (insan) - ser humano  
 insani hake - derechos humanos  
 insanistia - humanismo  
 itis  - inflamación  
@@ -191,19 +193,22 @@ jekolekse - préstamo lingüístico
 jener - parente (madre o padre)  
 jenotipe - genotipo  
 jinse - género  
-jiraf - jirafa  
-jul - joule (J)  
-jung - centro  
+jirafe - jirafa  
+jule - joule (J)  
+junge - centro  
 jungogia - China  
-jus - jugo (zumo)  
+juse - jugo (zumo)  
+justi - exacto (preciso)  
 ##k
 kafe - café  
 kagaze - papel  
-kal - espacio (separación)  
+kaixa - comenzar (iniciar, empezar)  
+kaixu - comenzar (iniciar, empezar)  
 kalam - pluma  
+kale - espacio (separación)  
 kali harfe - espacio (texto)  
 kamote - camote (batata)  
-kan - ojo  
+kan (kane) - ojo  
 kance - vidrio (cristal)  
 kanoe - canoa  
 kanosuyogas - gas lacrimógeno  
@@ -227,21 +232,21 @@ klimomute - cambio climático
 ko - que (como)  
 ko? - cómo  
 komputer - ordenador  
-koncung - insecto  
+koncunge - insecto  
 konfusi - confundido  
 konfusu - confundir  
+kope - copa (vaso)  
 korne - corno  
-koron - corona  
+korone - corona  
 kosmi - cósmico  
 kosmia - cosmos  
-krem - crema  
-krus - cruz  
+kreme - crema  
+kruse - cruz  
 kube - cubo  
-kupe - copa (vaso)  
 ##l
 lage - lago  
-lancograf - proyección  
 lancografa - proyectar  
+lancografe - proyección  
 lasker - soldado  
 laskeria - ejército  
 late - lado (flanco)  
@@ -256,18 +261,18 @@ leksaslia - etimología
 lekse - palabra (vocablo)  
 leksi - léxico  
 lenti - lento (despacio)  
-letis - lechuga  
-libel - libélula  
+letise - lechuga  
+libele - libélula  
 lider - dirigente (líder)  
 lifafa - envolver  
-lil - pequeño  
-limon - limón  
+lil (lili) - pequeño  
+limone - limón  
 linfe - linfa  
 liste - lista  
 loka - colocar (poner)  
 loke - lugar  
 loki - local  
-long - largo  
+longi - largo  
 lugi - verde  
 luter - ladrón  
 lutheristi - luterano  
@@ -275,30 +280,30 @@ lutheristia - luteranismo
 luzer - perdedor  
 ##m
 magribia - Marruecos  
-maidan - plaza  
+maidane - plaza  
 mame - madre (mamá)  
-manges - magnesio  
+mangese - magnesio  
 manihayistia - maniqueísmo  
-manir - comportamiento (conducta)  
+manire - comportamiento (conducta)  
 manse - carne  
-marmar - marmól  
-masal - especia  
+marmare - marmól  
+masale - especia  
 maske - máscara  
 maste - mástil  
-maw - gato  
-max - mas  
+maw (mawe) - gato  
+max (maxo) - mas  
 maxime - máximo  
 maye - hormigo  
 mede - medio  
 medi - médio  
-megam - nube  
-megogram - tonelada  
-mel - miel  
-mem - memoria  
+megame - nube  
+megograme - tonelada  
+mele - miel  
 mema - acordarse  
+meme - memoria  
 memula - olvidar  
 mening - meninge  
-mes - mez  
+mes (mese) - mez  
 mester - maestro  
 meze - mesa  
 migre - migración  
@@ -307,16 +312,16 @@ misria - Egipto
 mita - encontrar  
 mite - reunión (junta, mitin)  
 mode - modo (manera, forma)  
-mol - mol  
+mole - mol  
 molekul - molécula  
 molia - molino  
 mome - nosotros  
 monistia - monismo  
 muke - cara (rosto)  
-mula - comenzar (iniciar, empezar)  
+mule - raiz  
 ##n
 na - sin  
-nanas - piña  
+nanase - piña  
 nasia - nación  
 nasomedi - internacional  
 nefre - riñon  
@@ -338,9 +343,9 @@ o - o
 ##o
 okside - óxide  
 onde - onda  
-or - oreja  
 oranje - naranja  
 oranji - anaranjado  
+ore - oreja  
 oritis - otitis  
 orti - recto  
 ortogoni - ortogonal  
@@ -350,10 +355,10 @@ pace - paz
 paciste - pacifista  
 pagre - turbante  
 pake - paquete  
-panir - queso fresco  
-papay - papaya  
+panire - queso fresco  
+papaye - papaya  
 pape - padre (papá)  
-param - parámetro  
+parame - parámetro  
 parce - fragmento  
 parke - parque  
 parter - participante  
@@ -362,20 +367,20 @@ paste - pasta
 patojener - patógeno  
 patolojia - patología  
 pauze - pausa  
-pay - pastel (pay)  
+pay (paye) - pastel (pay)  
 peda - peer  
 pede - pedo  
-pelmen - empanadilla (pelmeni)  
+pelmene - empanadilla (pelmeni)  
 pesodiske - moneda  
 petre - piedra  
 piaze - cebolla  
 pike - cima (pico, cumbre, vértice)  
-pil - piel  
-pin - alfiler (aguja)  
+pile - piel  
+pine - alfiler (aguja)  
 pinser - alicate  
-pir - fuego  
 pira - quemar  
 piratia - piratería  
+pire - fuego  
 piru - quemarse  
 porte - porto  
 pote - lodo (barro, fango)  
@@ -383,44 +388,43 @@ predogara - presuponer
 prizona - encarcelar (aprisionar)  
 prizoner - carcelero  
 prizonia - cárcel  
-problem - problema  
-program - programa  
+probleme - problema  
+programe - programa  
 projete - proyecto  
-pul - flor  
+pule - puente  
 pute - hijo o hija  
 ##r
-rang - color  
+rang (range) - color  
 rapidi - rápido  
-ras - raza  
+rase - raza  
 reloje - reloj  
-relojominar - torre del reloj  
+relojominare - torre del reloj  
 retra - volver  
 retrotikete - billete de ida y vuelta  
 rezerve - réservation  
 rici - rico  
-rim - rima  
-ritim - ritmo  
-rize - raiz  
+rime - rima  
+ritime - ritmo  
 roketolancer - lanzamisiles  
 rose - rocío  
 roze - rosa  
 ##s
 sahi - correcto (justo)  
 sake - saco  
-sal - sal  
 salame - saludo  
+sale - sal  
 sali - salino  
-saman - cielo  
-samemos - compasión  
-samoray - acuerdo  
+samane - cielo  
+samemose - compasión  
+samoraye - acuerdo  
 samude - mar  
 samudi - marítimo  
 samudojel - medusa  
 samudotate - costa  
 sanduice - sándwich (sánduche)  
-sang - sangre  
+sange - sangre  
 sapate - sapato  
-sar - cabeza  
+sare - cabeza  
 saturne - Saturno  
 sekse - sexo  
 sekuri - seguro  
@@ -429,8 +433,8 @@ seme - semilla
 semi - seminal  
 serye - serie  
 si - sí  
-sihate - salud  
-sihati - saludable  
+sihe - salud  
+sihi - saludable  
 sikle - bicicleta  
 sikliste - ciclista  
 site - ciudad  
@@ -443,8 +447,8 @@ suede - sudor
 suki - feliz  
 sundari - hermoso (bello, lindo)  
 sundaria - belleza (hermosura)  
-susan - lirio  
-suy - agua  
+susane - lirio  
+suy (suye) - agua  
 suyogas - vapor  
 suyoporte - puerto marítimo  
 ##t
@@ -462,7 +466,7 @@ urse - oso
 vagin - vagina  
 vaginitis - vaginitis  
 vale - valle  
-vampir - vampiro  
+vampire - vampiro  
 vejetoniamiste - vegetariano  
 venus - Venus  
 veri - verdadero  
@@ -474,21 +478,21 @@ vota - votar
 vote - voto  
 vulve - vulva  
 ##w
-wal - muro (muralha)  
+wale - muro (muralha)  
 walopapir - papel tapiz  
-wan - deseo  
 wana - querer (desear)  
+wane - deseo  
 warkolate - página  
-wayoniam - jira (pícnic)  
+wayoniame - jira (pícnic)  
 werka - trabajar  
 werke - trabajo  
 werker - trabajador (obrero)  
 ##x
-xatan - Satanás  
+xatan (xatane) - Satanás  
 xaw - pocos  
-xef - jefe  
-xey - cosa  
-xeyohal - situación  
+xefe - jefe  
+xey (xeye) - cosa  
+xeyohale - situación  
 xipa - mojar  
 xipi - mojado  
 xite - mierda  
@@ -497,7 +501,7 @@ xofer - conductor (chofer)
 xopa - comprar  
 xope - compras (shopping)  
 ##y
-yagones - península  
+yagonese - península  
 yohani feste - día de San Juan  
 yuke - jade  
 ##z

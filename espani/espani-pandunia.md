@@ -5,27 +5,27 @@ acción - acion
 acento - aksente  
 achís - aciy  
 acordarse - mema  
-acuerdo - samoray  
+acuerdo - samoraye  
 aeropuerto - airoporte  
 afecto (emoción) - emos  
 Afganistán - avgania  
 afgano - avgani  
-agua - suy  
-alcohol - alkol  
+agua - suy (suye)  
+alcohol - alkole  
 alcohólico - alkoli  
-alfiler (aguja) - pin  
+alfiler (aguja) - pine  
 alga - alge  
-algodón - goton  
+algodón - gotone  
 alicate - pinser  
-almendra - badam  
-altar - altar  
+almendra - badame  
+altar - altare  
 aló - halow  
 anaranjado - oranji  
 anciano - lawi  
 ancla - anker  
-animal (bestia) - hewan  
+animal (bestia) - hewane  
 antimonio - estibium  
-análisis - analis  
+análisis - analize  
 aparecer - zayisu  
 araña - arane  
 arboreto - arboparke  
@@ -37,14 +37,14 @@ arte - arte
 artista - artiste  
 asma - asme  
 aspirina - aspirin  
-ataque - agres  
-aventura - aventur  
+ataque - agrese  
+aventura - aventure  
 aventurero - aventurer  
 ay! - ay  
 ##b
 babor - botolefte  
-balcón - balkon  
-balle (boule) - bol  
+balcón - balkone  
+balle (boule) - bol (bole)  
 baloncesto - baskobol  
 bambú - banse  
 banco - banke  
@@ -54,7 +54,7 @@ banquero - banker
 barra de chocolate - cokolatobaton  
 barrera - baryer  
 base - baze  
-bastante - bas  
+bastante - basi  
 belleza (hermosura) - sundaria  
 biblioteca - kitabia  
 bicicleta - sikle  
@@ -63,10 +63,10 @@ blanco - baki
 bleu - nili  
 bomba - bombe  
 botánica - fitolojia  
-botón - boton  
+botón - botone  
 béisbol - bazobol  
 ##c
-cabeza - sar  
+cabeza - sare  
 café - kafe  
 calcular - hisaba  
 cambio climático - klimomute  
@@ -81,24 +81,25 @@ carvis (alcaravea) - karawe
 cavar (excavar) - kava  
 cebolla - piaze  
 cebra - zebre  
-centro - jung  
-cerveza (birra) - bir  
+centro - junge  
+cerveza (birra) - bire  
 China - jungogia  
 chinelo (pantufa) - babuce  
 chocolate - cokolate  
 ciclista - sikliste  
-cielo - saman  
+cielo - samane  
 cima (pico, cumbre, vértice) - pike  
 cinturón (zona) - zone  
 citología - selolojia  
 ciudad - site  
 ciudadano - dexoren  
 colocar (poner) - loka  
-color - rang  
-comenzar (iniciar, empezar) - mula  
-compasión - samemos  
+color - rang (range)  
+comenzar (iniciar, empezar) - kaixa  
+comenzar (iniciar, empezar) - kaixu  
+compasión - samemose  
 compañero (compinche) - latoren  
-comportamiento (conducta) - manir  
+comportamiento (conducta) - manire  
 compota de manzanas - aplosose  
 comprar - xopa  
 compras (shopping) - xope  
@@ -107,19 +108,19 @@ conductor (chofer) - xofer
 confundido - konfusi  
 confundir - konfusu  
 congelar (helar) - aisu  
-copa (vaso) - kupe  
+copa (vaso) - kope  
 corazón (núcleo) - kerne  
 corno - korne  
-corona - koron  
+corona - korone  
 correcto (justo) - sahi  
-cosa - xey  
+cosa - xey (xeye)  
 cosmos - kosmia  
 costa - samudotate  
-crema - krem  
-cruz - krus  
+crema - kreme  
+cruz - kruse  
 cubo - kube  
 cuchara - camace  
-cuerpo - badan  
+cuerpo - bode  
 cárcel - prizonia  
 cómo - ko?  
 cósmico - kosmi  
@@ -132,10 +133,10 @@ de - ca
 dejar - laxa  
 derecho - hake  
 derechos humanos - insani hake  
-desacuerdo - aloray  
-deseo - wan  
-destino - destin  
-diamante - almas  
+desacuerdo - aloraye  
+deseo - wane  
+destino - destine  
+diamante - almase  
 dirigente (líder) - lider  
 disco - diske  
 disentir (no estar de acuerdo) - aloraya  
@@ -155,7 +156,7 @@ electricidad - eletre
 embarazado (preñado) - hamili  
 emoticón (emoyi) - emoje  
 emotivo - emosi  
-empanadilla (pelmeni) - pelmen  
+empanadilla (pelmeni) - pelmene  
 emplear - aplika  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
@@ -168,34 +169,35 @@ escritura - kitabe
 escultor - eskulter  
 eslavo - slavi  
 esmeralda - zumurude  
-espacio (separación) - kal  
+espacio (separación) - kale  
 espacio (texto) - kali harfe  
-especia - masal  
-estado - hal  
-estaño - esten  
+especia - masale  
+estado - hale  
+estaño - estane  
 estornudar - aciya  
 estribor - botoraite  
 etapa (fase) - faze  
 etimología - leksaslia  
 etnia - zuke  
-evangelio - ewanjil  
+evangelio - ewanjile  
+exacto (preciso) - justi  
 ##f
 favorito (preferido) - favori  
 faz (faceta) - fase  
 feliz - suki  
 filosofía - filosofia  
 fiordo - fiorde  
-flor - pul  
+flor - fule  
 fosa - kave  
 fotografía - fotografia  
 fragmento - parce  
-fuego - pir  
+fuego - pire  
 fútbol - futobol  
 ##g
 galaxia - galaksia  
-gas - gas  
+gas - gase  
 gas lacrimógeno - kanosuyogas  
-gato - maw  
+gato - maw (mawe)  
 generar (añadir) - zayisa  
 generosidad (caridad) - karimia  
 generoso (dadivoso, caritativo) - karimi  
@@ -204,8 +206,8 @@ genotipo - jenotipe
 gobernar - governa  
 gobierno - governe  
 grupo - grupe  
-guitarra - gitar  
-gul - gul  
+guitarra - gitare  
+gul - gule  
 género - jinse  
 ##h
 hacer - fata  
@@ -216,10 +218,10 @@ hijo o hija - pute
 hockey - hoke  
 hockey sobre hielo - aisohoke  
 hongo - funge  
-hora - hor  
+hora - hore  
 hormigo - maye  
 hornacina - nixe  
-hotel (albergue) - hotel  
+hotel (albergue) - hotel (hotele)  
 huevo - ande  
 humanismo - insanistia  
 humor - emosohal  
@@ -231,7 +233,7 @@ importante - hami
 indígena (indio) - aslameriki  
 inflamación - itis   
 innecesario - nolonidi  
-insecto - koncung  
+insecto - koncunge  
 intentar (probar) - testa  
 internacional - nasomedi  
 invernal - zimi  
@@ -239,11 +241,11 @@ invierno - zime
 ##j
 jade - yuke  
 Japón - niponia  
-jefe - xef  
-jira (pícnic) - wayoniam  
-jirafa - jiraf  
-joule (J) - jul  
-jugo (zumo) - jus  
+jefe - xefe  
+jira (pícnic) - wayoniame  
+jirafa - jirafe  
+joule (J) - jule  
+jugo (zumo) - juse  
 justicia - adalia  
 justo - adali  
 ##k
@@ -253,20 +255,20 @@ lado (flanco) - late
 ladrón - luter  
 lago - lage  
 lanzamisiles - roketolancer  
-largo - long  
+largo - longi  
 lasaña - lazanye  
 lateral - lati  
 leche - milke  
-lechuga - letis  
+lechuga - letise  
 leer - duga  
-lengua (idioma) - bax  
+lengua (idioma) - baxe  
 lento (despacio) - lenti  
 Letonia - latovia  
 libro - buke  
-libélula - libel  
-limón - limon  
+libélula - libele  
+limón - limone  
 linfa - linfe  
-lirio - susan  
+lirio - susane  
 lista - liste  
 lluvia - barxe  
 lluvioso (pluvioso) - barxi  
@@ -279,37 +281,37 @@ léxico - leksi
 ##m
 madre (mamá) - mame  
 maestro - mester  
-magnesio - manges  
+magnesio - mangese  
 maniqueísmo - manihayistia  
 mano - hande  
 manzana - aple  
 mapa - karte  
 mar - samude  
-marmól - marmar  
+marmól - marmare  
 Marruecos - magribia  
 marrón - bruni  
 marítimo - samudi  
-mas - max  
+mas - max (maxo)  
 medio - mede  
 medusa - samudojel  
-memoria - mem  
+memoria - meme  
 meninge - mening  
 mesa - meze  
-meta (gol) - gol  
-mez - mes  
-miel - mel  
+meta (gol) - gole  
+mez - mes (mese)  
+miel - mele  
 mierda - xite  
 migración - migre  
 modo (manera, forma) - mode  
 mojado - xipi  
 mojar - xipa  
-mol - mol  
+mol - mole  
 molino - molia  
 molécula - molekul  
 moneda - pesodiske  
 monismo - monistia  
 mosco - zeze  
-muro (muralha) - wal  
+muro (muralha) - wale  
 máquina de escribir - kitabomaxin  
 máscara - maske  
 mástil - maste  
@@ -323,31 +325,31 @@ necesidad - nide
 necesitar - nida  
 negro - cerni  
 neurona - neurosel  
-neve - him  
+neve - hime  
 niño o niña - bace  
 no - no  
 noche - noce  
 nosotros - mome  
 nostalgia - nostalgia  
 nota - note  
-nube - megam  
+nube - megame  
 nuevo - novi  
 número - nombre  
 o - o  
 ##o
 objetivo - dike  
 océano - dayosamude  
-ojo - kan  
+ojo - kan (kane)  
 olvidar - memula  
 onda - onde  
 opción - cuzable  
 oportunidad (chance) - canse  
 ordenador - komputer  
-oreja - or  
+oreja - ore  
 origen - asle  
 original - asli  
 orilla (ribera) - tate  
-oro - aur  
+oro - aure  
 ortogonal - ortogoni  
 oso - urse  
 otitis - oritis  
@@ -359,7 +361,7 @@ padre (papá) - pape
 palabra (vocablo) - lekse  
 palacio - gunden  
 panadero - beker  
-papaya - papay  
+papaya - papaye  
 papel - kagaze  
 papel tapiz - walopapir  
 paquete - pake  
@@ -368,10 +370,10 @@ parasol - solocate
 parente (madre o padre) - jener  
 parque - parke  
 participante - parter  
-parámetro - param  
+parámetro - parame  
 pasaporte - pasporte  
 pasta - paste  
-pastel (pay) - pay  
+pastel (pay) - pay (paye)  
 patología - patolojia  
 patógeno - patojener  
 pausa - pauze  
@@ -379,56 +381,57 @@ paz - pace
 pedir prestado - jeka  
 pedo - pede  
 peer - peda  
-península - yagones  
-pequeño - lil  
+península - yagonese  
+pequeño - lil (lili)  
 perdedor - luzer  
 perforar - fora   
 pero - a  
 pesado - bari  
 piedra - petre  
-piel - pil  
+piel - pile  
 pila (batería) - batre  
 piratería - piratia  
-piña - nanas  
+piña - nanase  
 plata - argente  
-plaza - maidan  
+plaza - maidane  
 pluma - kalam  
-plátano (banana) - banan  
+plátano (banana) - banane  
 pocos - xaw  
 porto - porte  
 posible - abli  
 prestar - jekodona  
 presuponer - predogara  
-problema - problem  
-programa - program  
-proyección - lancograf  
+problema - probleme  
+programa - programe  
+proyección - lancografe  
 proyectar - lancografa  
 proyecto - projete  
 prueba - dalil  
 prueba - teste  
 préstamo lingüístico - jekolekse  
+puente - pule  
 puerto marítimo - suyoporte  
 página - warkolate  
 que (como) - ko  
 quemar - pira  
 quemarse - piru  
 querer (desear) - wana  
-queso - cis  
-queso fresco - panir  
+queso - cise  
+queso fresco - panire  
 quitar (eliminar, borrar) - zayisula  
 química - kimia  
 ##r
-raiz - rize  
-raza - ras  
+raiz - mule  
+raza - rase  
 recto - orti  
-religión - din  
+religión - dine  
 reloj - reloje  
 Republica Dominicana - dominikania  
 reunión (junta, mitin) - mite  
 reír - haha  
 rico - rici  
-rima - rim  
-ritmo - ritim  
+rima - rime  
+ritmo - ritime  
 riñon - nefre  
 rocío - rose  
 rodilla - gute  
@@ -439,25 +442,25 @@ réservation - rezerve
 ##s
 saber (conocer) - jana  
 saco - sake  
-sal - sal  
+sal - sale  
 salino - sali  
-salud - sihate  
-saludable - sihati  
+salud - sihe  
+saludable - sihi  
 saludo - salame  
 sandía - arbuze  
-sangre - sang  
+sangre - sange  
 sapato - sapate  
-Satanás - xatan  
+Satanás - xatan (xatane)  
 Saturno - saturne  
 seguro - sekuri  
 semilla - seme  
 seminal - semi  
 ser (estar) - esa  
-ser humano - insan  
+ser humano - insane (insan)  
 serie - serye  
 sexo - sekse  
 sin - na  
-situación - xeyohal  
+situación - xeyohale  
 sociedad - socia  
 soldado - lasker  
 sudor - suede  
@@ -471,19 +474,20 @@ tender - iva
 tigre - bagre  
 toalla - towal  
 tomate - tomate  
-tonelada - megogram  
-torre del reloj - relojominar  
+tonelada - megograme  
+torre del reloj - relojominare  
 trabajador (obrero) - werker  
 trabajar - werka  
 trabajo - werke  
 turbante - pagre  
+té - cay (caye)  
 tú - te  
 ##u
 ##v
 vagina - vagin  
 vaginitis - vaginitis  
 valle - vale  
-vampiro - vampir  
+vampiro - vampire  
 vapor - suyogas  
 vegetariano - vejetoniamiste  
 velo - hijabe  
@@ -491,10 +495,10 @@ Venus - venus
 ver - vida  
 verdadero - veri  
 verde - lugi  
-verduras - coy  
+verduras - coye  
 verme - verme  
 vestigio (sobrante, residuo) - laxe  
-vida - hay  
+vida - haye  
 vidrio (cristal) - kance  
 vocal - vokal  
 volver - retra  
@@ -509,7 +513,7 @@ y - e
 zoo - hewanoparke  
 zorro - hule  
 África - afrike  
-ágil - ajil  
+ágil - ajili  
 árbol - arbe  
 étnico - zuki  
 óxide - okside  
