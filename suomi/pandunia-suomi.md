@@ -188,7 +188,7 @@ banke - pankki
 banker - pankkiiri  
 banse - bambu  
 banye - kylpy  
-banyokamar - kylpyhuone  
+banyokamare - kylpyhuone  
 banyu - kylpeä  
 banze - lauta (lankku)  
 banzogem - lautapeli  
@@ -608,7 +608,7 @@ ewi - hyvä (eettisesti hyvä)
 fada - jakaa (jaella)  
 faide - hyöty (etu)  
 faidi - hyödyllinen  
-fain - hieno (hienojakoinen)  
+faini - hieno (hienojakoinen)  
 fajan - kehitys  
 famile - perhe  
 familonam - sukunimi  
@@ -691,7 +691,7 @@ fone - äänne (fooni)
 foneme - äänne (foneemi)  
 fonolojia - fonologia (äänneoppi)  
 fonte - lähde (kaivo)  
-fora  - porata  
+fora - porata  
 forke - haarukka  
 forma - muotoilla (muovata)  
 forme - muoto  
@@ -713,6 +713,7 @@ fula - täyttää
 fulani - eräs (muuan, joku, jokin)  
 fule - kukka  
 fuli - täysi  
+fulovaze - kukkaruukku  
 fulu - kukkia  
 funca - toiminta (funktio)  
 fune - pöly (tomu)  
@@ -738,7 +739,7 @@ galium - gallium
 galta - erehtyä (tehdä virhe)  
 galte - virhe (erhe)  
 galti - väärä (virheellinen)  
-galti buda - ymmärtää väärin  
+galto buda - ymmärtää väärin  
 gambia - Gambia  
 gamel - kameli  
 gana - kuivata (kuivattaa)  
@@ -750,7 +751,7 @@ gania - Ghana
 ganje - kannabis (marihuana, hamppu)  
 ganoputaw - rusina  
 ganya - hankkia (ansaita)  
-gar - jos (olettaa)  
+gara - jos (olettaa)  
 garante - takuu  
 garda - vartioida (vahtia)  
 garder - vartija (vahti)  
@@ -833,7 +834,7 @@ gute - polvi
 guye - peikko  
 ##h
 habare - uutinen  
-habarobaw - sanomalehti  
+habarogazete - sanomalehti  
 habaxi - abyssinialainen  
 habaxia - abyssinia  
 hafiza - säilyttää (varjella, säästää)  
@@ -999,7 +1000,7 @@ istane - seutu (maa)
 iste - aatteen kannattaja  
 istia - aate (ismi, ideologia, uskonto, jne)  
 italia - Italia  
-itis  - tulehdus  
+itis - tulehdus  
 iva - olla taipuvainen  
 ive - taipumus  
 izi - helppo  
@@ -1012,8 +1013,8 @@ jamia - yhteisö (kokoontuminen, kollektiivi)
 jampa - hypätä (hyppiä)  
 jamula - hajauttaa  
 jana - tietää (tuntea)  
-janel - ikkuna  
-janele - tieto (tietämys)  
+jane - tieto (tietämys)  
+janele - ikkuna  
 jangale - metsä (viidakko)  
 janger - artesaani (käsityöläinen)  
 jangi - kätevä  
@@ -1399,9 +1400,9 @@ liga - liittää
 lige - liitto (liittouma, liiga)  
 lihtextainia - Liechtenstein  
 lil (lili) - pieni (pienesti, vähän)  
-lil niame - välipala (naposteltava)  
 lilake - syreeni  
 lilaki - violetti (liila)  
+lili niame - välipala (naposteltava)  
 lim - viisi (5)  
 limite - raja  
 limofas - viisitahokas (prisma)  
@@ -1777,7 +1778,7 @@ nevis - Nevis
 niam (niame) - ruoka  
 niama - nauttia (syödä, juoda)  
 niami - herkullinen (nami)  
-niamokamar - ruokasali  
+niamokamare - ruokasali  
 nica - alittaa (alla)  
 nice - alapuoli  
 nici - ala-  
@@ -2091,7 +2092,6 @@ puja - palvoa
 puje - palvonta  
 pule - silta  
 pulmone - keuhko  
-pulovaze - kukkaruukku  
 punte - piste (täplä)  
 pupe - nukke  
 purani - vanha (muinainen)  
@@ -2148,7 +2148,7 @@ rengenium - röntgenium
 renium - rhenium  
 repa - toistaa  
 repe - toisto  
-repi - taas (uudestaan)  
+repo - taas (uudestaan)  
 reporta - raportoida (selostaa)  
 reporte - raportti (selostus, selonteko)  
 resida - kuitata  
@@ -2370,7 +2370,7 @@ sonda - ääntää
 sonde - ääni  
 sone - nukkuminen (uni)  
 songe - mänty  
-sonokamar - makuuhuone  
+sonokamare - makuuhuone  
 sonu - nukkua  
 sose - kastike (soosi)  
 sosise - makkara  
@@ -2518,7 +2518,7 @@ toksi - myrkyllinen
 tolera - sallia  
 tolo - hyrrä  
 tomate - tomaatti  
-ton - sävel (sävy)  
+tone - sävel (sävy)  
 tong - tynnyri (tölkki)  
 tongia - Tonga  
 tope - lakki (hattu)  
@@ -2782,7 +2782,7 @@ zayoden - tänään
 zayu - olla olemassa  
 ze - itse  
 zebre - seepra  
-zem - maa (maaperä)  
+zeme - maa (maaperä)  
 zemia - Maapallo  
 zemodow - maapähkinä  
 zemolaskeria - maavoimat  
@@ -2807,4 +2807,5 @@ zukam - vilustuminen
 zuke - kansanryhmä (etninen ryhmä)  
 zuki - etninen  
 zukomedi - kansanryhmien välinen  
+zuli - zulu  
 zumurude - smaragdi  

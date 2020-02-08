@@ -135,7 +135,7 @@ banke - banko
 banker - bankisto  
 banse - bambuo  
 banye - bano  
-banyokamar - banĉambro  
+banyokamare - banĉambro  
 banyu - bana  
 bar - pezo  
 barbare - barbaro  
@@ -429,7 +429,7 @@ ewanjile - evangelio
 ##f
 faide - utileco  
 faidi - utila  
-fain - fajna  
+faini - fajna  
 fajan - disvolvi  
 famile - familio  
 familonam - familinomo  
@@ -491,7 +491,7 @@ fokusa - koncentri
 fokuse - koncentriĝo  
 foli - freneza  
 folia - frenezeco  
-fora  - taladri  
+fora - taladri  
 forke - forko  
 forma - formigi  
 forme - formo  
@@ -510,6 +510,7 @@ fula - plenigi
 fulani - iu  
 fule - floro  
 fuli - plena  
+fulovaze - vazo (florpoto)  
 funca - funkcii  
 fune - polvo  
 funge - fungo  
@@ -536,7 +537,7 @@ gani - seka
 ganje - kanabo  
 ganoputaw - sekvinbero  
 ganya - akiri (gajni)  
-gar - se  
+gara - se  
 garante - garantio  
 garda - gardi  
 garder - gardisto  
@@ -592,7 +593,7 @@ gute - genuo
 guye - ogro (trolo)  
 ##h
 habare - novaĵoj  
-habarobaw - gazeto  
+habarogazete - gazeto  
 hafnium - hafnio  
 haha - ridi  
 haida - ni faru...  
@@ -705,8 +706,8 @@ jami - kolekta
 jampa - salti  
 jamula - disigi  
 jana - scii (koni)  
-janel - fenestro  
-janele - scio  
+jane - scio  
+janele - fenestro  
 jangale - arbaro  
 janger - metiisto  
 janolojia - sciteorio (epistemologio)  
@@ -1090,7 +1091,7 @@ neure - nervo
 neuri - nerva  
 neurosel - neŭrono  
 niama - manĝi (trinki)  
-niamokamar - manĝoĉambro  
+niamokamare - manĝoĉambro  
 nida - bezoni  
 nijeria - Niĝero  
 nikaragia - Nikaragvo  
@@ -1234,7 +1235,6 @@ prometium - prometio
 protacinium - protaktinio  
 pule - ponto  
 pulmone - pulmo  
-pulovaze - vazo (florpoto)  
 punte - punkto  
 purani - malnova  
 putaw - vinbero  
@@ -1267,7 +1267,7 @@ rengenium - rentgenio
 renium - renio  
 repa - ripeti (refari)  
 repe - ripetado  
-repi - denove (ripete)  
+repo - denove (ripete)  
 restoran - restaŭracio  
 retra - reiri  
 retre - reiro  
@@ -1383,7 +1383,7 @@ solosistem - sunsistemo
 sonde - sono  
 sone - dormo  
 songe - pino  
-sonokamar - dormoĉambro  
+sonokamare - dormoĉambro  
 sonu - dormi  
 sose - saŭco  
 sosise - kolbaso  
@@ -1463,7 +1463,7 @@ titan - titanio
 toca - tuŝi  
 togolia - Toglando  
 tomate - tomato  
-ton - tono  
+tone - tono  
 tope - ĉapelo  
 torium - torio  
 torse - torso  
@@ -1616,4 +1616,5 @@ zone - zono
 zuke - etno  
 zuki - etna  
 zukomedi - interetna  
+zuli - zuluo  
 zumurude - smeraldo  

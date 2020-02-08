@@ -114,7 +114,7 @@ banke - banque
 banker - banquier  
 banse - bambou  
 banye - bain  
-banyokamar - salle de bains  
+banyokamare - salle de bains  
 banyu - se baigner  
 bari - lourd  
 barium - baryum  
@@ -198,7 +198,7 @@ favori - favori (préféré)
 filosofia - philosophie  
 fiorde - fiord  
 fitolojia - botanique  
-fora  - forer (percer)  
+fora - forer (percer)  
 fotografia - photographie  
 fule - fleur  
 futobol - football  
@@ -206,7 +206,7 @@ futobol - football
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
-gar - si  
+gara - si  
 gase - gaz  
 gati - dur  
 gazele - gazelle  
@@ -241,7 +241,7 @@ hule - renard
 insane (insan) - être humain  
 insani hake - droits de l'homme  
 insanistia - humanisme  
-itis  - inflammation  
+itis - inflammation  
 iva - avoir tendance à  
 ive - tendance  
 ##j
@@ -386,7 +386,7 @@ neurosel - neurone
 nida - avoir besoin de  
 nide - besoin  
 nidi - nécessaire  
-nili - blue  
+nili - bleu  
 niponia - Japon  
 nixe - niche  
 no - non (ne...pas)  
@@ -449,7 +449,6 @@ rang (range) - couleur
 rapidi - vite (rapide)  
 rase - race  
 rasomedi - interracial  
-razonu - tener sentido  
 reloje - horloge  
 reste - reste  
 retra - retourner (revenir)  
@@ -472,7 +471,6 @@ salame - salut (salam)
 sale - sel  
 samane - ciel  
 samemose - compassion  
-samonam - homonym  
 samoraye - accord  
 samude - mer  
 samudojel - méduse  
@@ -496,7 +494,7 @@ site - ville
 socia - société  
 sole - soleil  
 solocate - ombrelle (parasol)  
-sonokamar - chambre à coucher  
+sonokamare - chambre à coucher  
 sonu - dormir  
 sose - sauce  
 sosise - saucisse  
@@ -589,4 +587,5 @@ zombe - zombi
 zone - zone  
 zuke - ethnie  
 zuki - ethnique  
+zuli - zoulou  
 zumurude - émeraude  

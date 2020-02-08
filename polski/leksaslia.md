@@ -247,7 +247,7 @@
 |**fixe**|ryba|eng:fish, deu:Fisch|
 |**folia**|szaleństwo|eng:folly, fra:folie, ita:follia|
 |**fonte**|fontanna (studnia, źródło)|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
-|**fora **|wiercić, borować|fra:forer, por:furar, eng:perforate, spa:perforar|
+|**fora**|wiercić, borować|fra:forer, por:furar, eng:perforate, spa:perforar|
 |**forti**|silny|fra:fort, spa:fuerte, por:forte, eng:force|
 |**fraze**|zdanie, zwrot, wyrażenie|fra:eng:phrase, por:frase, rus:фраза (fraza)|
 |**fuga**|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać|zho:复 (fù), yue:(fuk), vie:phục|
@@ -269,7 +269,7 @@
 |**ganje**|konopie|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |**ganoputaw**|rodzynka|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |**ganya**|zyskać, zyskiwać, zarobić, zarabiać|fra:gagner, por:ganhar, spa:ganar, eng:gain|
-|**gar**|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|
+|**gara**|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|
 |**garder**|strażnik, ochroniarz|eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|
 |**gare**|wóz, wózek|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
 |**garmi**|ciepły|hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|
@@ -355,8 +355,8 @@
 |**jama**|kolekcjonować, zebrać, zbierać|ara: جمع /jamaʕa/|
 |**jamia**|kolekcja, zbiór; zgromadzenie, zebranie|ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|
 |**jampa**|skoczyć, skakać|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**janel**|okno|por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|
-|**janele**|wiedza|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
+|**jane**|wiedza|hin:जान (jān), ben:জ্ঞান (gyan), জানা (jana), pnb:ਜਾਣ (jāṇ), tha:ญาณ (yaan)|
+|**janele**|okno|por:janela, tam:சன்னல் (sannal), ben:জানালা (janala), may:jendela, nya:zenera, kon:nêla|
 |**jangale**|las, dżungla, zagajnik|hin:जंगल (jangal), ben:জঙ্গল (jônggôl), urd:(jangal), por:jângal, eng:jungle, rus: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|rzemieślnik|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |**jare**|dzban, dzbanek; słój, słoik|eng:jar, ara:(jara), por:spa:jarra|
@@ -487,7 +487,7 @@
 |**lete**|lato|fra:l'été, rus:лето (leto)|
 |**letise**|sałata|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |**lewo**|już (skończona czynność)|tha:แล้ว /lɛːw/, zho:了 (le), wuu:了 (lə'), hak:了 (le), yue:了 (liu)|
-|**leze**|gruszka|zho:梨子 (lízi), yue:梨 (lei42), vie:lê, |
+|**leze**|gruszka|zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|
 |**libu**|stać|zho:立 (lì), yue:(lip), vie:lập, kor:립 (rib)|
 |**lice**|liczi|zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|
 |**lider**|dowódca, kierownik|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
@@ -793,7 +793,7 @@
 |**suje**|sugestia, propozycja|hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão|
 |**suki**|wesoły, ucieszony|hin:सुखी (sukhī), jpn:好き (suki), tha:สุข (suk)|
 |**suku**|lubić, cieszyć się|jpn:好く (suku), may: suka|
-|**sundari**|piękny, przystojny|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar), |
+|**sundari**|piękny, przystojny|hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar),|
 |**suno**|wkrótce|eng:soon|
 |**supe**|zupa|spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|
 |**suprize**|zaskoczenie|eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|
@@ -834,7 +834,7 @@
 |**toca**|dotyczyć|eng:touch, spa: tocar, + hin: छूना /chūnā/, zho: 触 (chù)|
 |**toksi**|toksyczny (trujący)|eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik|
 |**tomate**|pomidor|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
-|**ton**|ton, dźwięk, nuta, tonacja|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
+|**tone**|ton, dźwięk, nuta, tonacja|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
 |**tong**|beczka|zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|
 |**tope**|kapelusz, czapka|may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|
 |**torse**|tułów|fra:torse, rus:торс (tors), deu:eng:spa:may:torso|
@@ -918,7 +918,7 @@
 |**yange**|rodzaj, typ, styl|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |**yatime**|sierota|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
 |**yeze**|kokos|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
-|**yi**|ten, te|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i), |
+|**yi**|ten, te|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i),|
 |**yoge**|joga|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
 |**yote**|kropla|tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota)|
 |**yumor**|humor|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
@@ -928,7 +928,7 @@
 |**zare**|niebezpieczeństwo, ryzyko, szansa|ara:(zahr), + eng:hazard, spa:por:azar, + tur:zar, ell:ζάρι (zári), bul:зар (zar)|
 |**zay (zayi)**|obecny, teraźniejszy, aktualny, bieżący, współczesny|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**ze**|sam, siebie|zho:自 (zì), ned:zich, deu:sich, fra:por:spa:se|
-|**zem**|ziemia, grunt, gleba|pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
+|**zeme**|ziemia, grunt, gleba|pol:ziemia, rus:земля (zemlya), fas:urd:(zamīn), hin:ज़मीन (zamīn)|
 |**zeze**|mucha|lin:kon:nzinzi, swa:nzi, ibo:ijiji, yor:eṣinṣin|
 |**zikur**|ziggurat|ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|
 |**zime**|zima|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|

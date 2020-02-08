@@ -219,7 +219,7 @@
 |**fite**|planto|angla:phyto-, -phyte, deu:franca:phyto-, hispana:portugala:fito-, rusa:фито- (fito-)|
 |**fixe**|fiŝo|angla:fish, deu:Fisch|
 |**folia**|frenezeco|angla:folly, franca:folie, itala:follia|
-|**fora **|taladri|franca:forer, portugala:furar, angla:perforate, hispana:perforar|
+|**fora**|taladri|franca:forer, portugala:furar, angla:perforate, hispana:perforar|
 |**forti**|forta|franca:fort, hispana:fuerte, portugala:forte, angla:force|
 |**fuke**|vesto|mandarena:衣服 (yīfu), kantona:(yifuk), japana:衣服 (ifuku), korea:의복 (uibog)|
 |**fulani**|iu|svahila:fulani, araba:(fulan), turka:falan|
@@ -238,7 +238,7 @@
 |**ganje**|kanabo|hindia:गांजा (gāñjā), urdua:(gānjā), panĝaba:ਗਾਂਜਾ (gāñjā), bengala:গাঁজা (gañja), teluga:గంజాయి (gañjāyi), tamila:கஞ்சா (kañcā), kmera:កញ្ឆា (kɑñchaa), taja:กัญชา (gan-chaa), vjetnama:cần sa, angla:portugala:malaja:ganja, japana:ガンジャ (gānjya)|
 |**ganoputaw**|sekvinbero|korea:건포도 (geonpodo), mandarena:葡萄干 (pútáogān)|
 |**ganya**|akiri (gajni)|franca:gagner, portugala:ganhar, hispana:ganar, angla:gain|
-|**gar**|se|persa:urdua:اگر‎‎ (agar), hindia:अगर (agar), turka:eğer, + kantona:假 (gaa1), vua:假 (ga)|
+|**gara**|se|persa:urdua:اگر‎‎ (agar), hindia:अगर (agar), turka:eğer, + kantona:假 (gaa1), vua:假 (ga)|
 |**garder**|gardisto|angla:guard, franca:garde, hispana:portugala:guarda, japana:ガード (gādo), korea:가드 (gadeu)|
 |**gare**|aŭto (ĉaro)|angla:car, portugala:hispana:carro, deu:Karre, teluga:(kāru), + hindia:गाड़ी (gāṛī), svahila:gari|
 |**garmi**|varma|hindia:गरम (garm), urdua:persa:گرم‎‎ (garm), kur:germ, deu:angla:warm|
@@ -314,8 +314,8 @@
 |**jake**|jako|angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta|
 |**jama**|kolekti (kunigi)|araba: جمع /jamaʕa/|
 |**jampa**|salti|angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**janel**|fenestro|portugala:janela, tamila:சன்னல் (sannal), bengala:জানালা (janala), malaja:jendela, nya:zenera, konga:nêla|
-|**janele**|scio|hindia:जान (jān), bengala:জ্ঞান (gyan), জানা (jana), panĝaba:ਜਾਣ (jāṇ), taja:ญาณ (yaan)|
+|**jane**|scio|hindia:जान (jān), bengala:জ্ঞান (gyan), জানা (jana), panĝaba:ਜਾਣ (jāṇ), taja:ญาณ (yaan)|
+|**janele**|fenestro|portugala:janela, tamila:சன்னல் (sannal), bengala:জানালা (janala), malaja:jendela, nya:zenera, konga:nêla|
 |**jangale**|arbaro|hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), urdua:(jangal), portugala:jângal, angla:jungle, rusa: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|metiisto|mandarena:匠 (jiàng), taja:ช่าง (jang), kmera:ជាង (ciəng)|
 |**jawabe**|respondo|araba:(jawāb), svahila:jibu,jawabu, turka:cevap, persa:(javāb), hindia:जवाब (javāb), malaja:jawab|
@@ -421,7 +421,7 @@
 |**lete**|somero|franca:l'été, rusa:лето (leto)|
 |**letise**|laktuko|angla:lettuce, japana:レタス (retasu), haŭsa:latas, hindia:लेटिष (leṭiṣ), bengala:লেটুস (leṭus), franca:laitue|
 |**lewo**|jam (esti farita)|taja:แล้ว /lɛːw/, mandarena:了 (le), vua:了 (lə'), hakaa:了 (le), kantona:了 (liu)|
-|**leze**|piro|mandarena:梨子 (lízi), kantona:梨 (lei42), vjetnama:lê, |
+|**leze**|piro|mandarena:梨子 (lízi), kantona:梨 (lei42), vjetnama:lê,|
 |**lil (lili)**|malgranda|angla:little|
 |**limone**|citrono|persa:(limun), angla:lemon, turka:limon, rusa:лимон (limon), hispana:limón, portugala:limão, hindia:नींबू (nīmbū), urdua:(nībū), mandarena:柠檬 (níngméng), japana:檸檬 (remon), korea:레몬 (remon), svahila:ndimu,limau, bengala:লেবু (lebu)|
 |**linye**|lineo|portugala:linha, angla:line, franca:ligne, hispana:línea, polona:linia, rusa:линия (liniya)|
@@ -639,7 +639,7 @@
 |**sude**|sudo|hispana:sur, portugala:sul, franca:sud|
 |**suki**|feliĉa|hindia:सुखी (sukhī), japana:好き (suki), taja:สุข (suk)|
 |**suku**|ŝati|japana:好く (suku), malaja: suka|
-|**sundari**|bela|hindia:सुन्दर (sundar), bengala:সুন্দর (sundôr), guĝarata:સુંદર (sundar), |
+|**sundari**|bela|hindia:सुन्दर (sundar), bengala:সুন্দর (sundôr), guĝarata:સુંદર (sundar),|
 |**supe**|supo|hispana:sopa, angla: soup, franca: soupe, deu: Suppe, svahila: supu, rusa:суп (sup), malaja:sup, japana:スープ (sūpu)|
 |**suprize**|surprizo|angla:surprise, turka:sürpriz, persa:(surpris), rusa::сюрприз (siurpriz), portugala:surpresa, hispana:sorpresa|
 |**suy (suye)**|akvo|mandarena:水 (shuǐ), japana:(sui), vjetnama:thuỷ, + turka:su|
@@ -664,7 +664,7 @@
 |**tira**|tiri|hispana:portugala:tirar, franca:tirer, angla:tear, turka:tire|
 |**toca**|tuŝi|angla:touch, hispana: tocar, + hindia: छूना /chūnā/, mandarena: 触 (chù)|
 |**tomate**|tomato|angla:tomato, portugala:hispana:tomate, rusa:томат (tomat), malaja:tomat, hindia:टमाटर (ṭamāṭar)|
-|**ton**|tono|angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono|
+|**tone**|tono|angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono|
 |**tope**|ĉapelo|malaja:topi, hindia: टोपी (ṭopī), bengala:টুপি (ṭupi), tamila:(toppi)|
 |**torse**|torso|franca:torse, rusa:торс (tors), deu:angla:hispana:malaja:torso|
 |**towal**|viŝilo|angla:towel, hispana:toalla, portugala:toalha, hindia:तौलिया (tauliyā), bengala:তোয়ালে (toyale), filipina:tuwalya, japana:タオル (taoru)|
@@ -728,7 +728,7 @@
 |**xule**|riparo|mandarena:修理 (xiūlǐ), japana:修理 (shūri), korea:수리 (suri)|
 |**yange**|speco (tipo, stilo)|mandarena: 样 (yàng), taja: อย่าง (yàang), kmera: យ៉ាង (yaang)|
 |**yeze**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
-|**yi**|ĉi tiu|hindia:यह (ye), bengala:এই (ei), teluga:ఈ (ī), tamila:இது (itu), korea:이 (i), |
+|**yi**|ĉi tiu|hindia:यह (ye), bengala:এই (ei), teluga:ఈ (ī), tamila:இது (itu), korea:이 (i),|
 |**yoge**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|
 |**yuke**|jado|mandarena:玉 (yù), kantona:玉 (yuk6), malaja:giok|
 |**yumor**|humuro|rusa:юмор (yumor), hispana:angla:humor, franca:humour, japana:ユーモア (yūmoa), korea:유머 (yumeo), mandarena:幽默 (yōumò)|

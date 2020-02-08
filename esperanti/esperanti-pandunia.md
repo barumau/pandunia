@@ -137,7 +137,7 @@ Bangladeŝo - banglodexia
 bankisto - banker  
 banko - banke  
 bano - banye  
-banĉambro - banyokamar  
+banĉambro - banyokamare  
 baobabo - buye  
 Barata - barti  
 Baratio - bartia  
@@ -262,7 +262,7 @@ demografio - demografia
 demokratia - demokrati  
 demokratio - demokratia  
 demono - demon  
-denove (ripete) - repi  
+denove (ripete) - repo  
 dentbroso - dantobrox  
 dentisto - dantomediker  
 dento - dante  
@@ -290,7 +290,7 @@ donaco - done
 doni - dona  
 dormi - sonu  
 dormo - sone  
-dormoĉambro - sonokamar  
+dormoĉambro - sonokamare  
 dorso - ruke  
 dramo - drame  
 drinkejo - bireria  
@@ -370,7 +370,7 @@ fabo aŭ pizo - dowe
 fabrikisto - fater  
 fabriko - fateria  
 facila - izi  
-fajna - fain  
+fajna - faini  
 fajra - piri  
 fajro - pire  
 familinomo - familonam  
@@ -387,7 +387,7 @@ faŝisto - faxiste
 febro - febre  
 feko - kake  
 feliĉa - suki  
-fenestro - janel  
+fenestro - janele  
 fermio - fermium  
 fero - fere  
 fervojo - trenodaw  
@@ -468,7 +468,7 @@ gardisto - garder
 gaso - gase  
 gazelo - gazele  
 gazeto (revuo) - gazete  
-gazeto - habarobaw  
+gazeto - habarogazete  
 gazo - gaze  
 geedzeco - maria  
 generala (universala) - putong  
@@ -882,7 +882,7 @@ mangano - mangane
 maniero (konduto) - manire  
 mano - hande  
 manĝi (trinki) - niama  
-manĝoĉambro - niamokamar  
+manĝoĉambro - niamokamare  
 mara - samudi  
 maratono - maratone  
 margarino - margarine  
@@ -1286,10 +1286,10 @@ saŭco - sose
 saŭno - saune  
 scienco - lojia  
 scii (koni) - jana  
-scio - janele  
+scio - jane  
 sciteorio (epistemologio) - janolojia  
 sciuro - tupay  
-se - gar  
+se - gara  
 seborgio - seaborgium  
 sed - a  
 seka - gani  
@@ -1381,7 +1381,7 @@ tajgo - taige
 tajlanda - tayi  
 Tajlando - tayia  
 tajpilo - kitabomaxin  
-taladri - fora   
+taladri - fora  
 talio - talium  
 tamburo - gume  
 tamen - lekin  
@@ -1430,7 +1430,7 @@ tombejo - gabristan
 tombo - gabre  
 tondilo - makase  
 tondro - grome  
-tono - ton  
+tono - tone  
 torako - sinokase  
 torio - torium  
 torso - torse  
@@ -1479,7 +1479,7 @@ valo - vale
 vaporo - suyogas  
 varma - garmi  
 vato - wate  
-vazo (florpoto) - pulovaze  
+vazo (florpoto) - fulovaze  
 vazo - vaze  
 veni - laya  
 venki - wina  
@@ -1556,6 +1556,7 @@ zoo (bestoĝardeno) - hewanoparke
 zoroastrismo - zarduxistia  
 zoroastristo - zarduxiste  
 Zoroastro - zardux  
+zuluo - zuli  
 Ĉilio - cilia  
 Ĉinio - jungogia  
 ĉambro - kamare  

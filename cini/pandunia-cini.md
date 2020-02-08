@@ -70,7 +70,7 @@ bandere - 旗
 banke - 银行  
 banse - 竹子  
 banye - 洗澡  
-banyokamar - 浴室  
+banyokamare - 浴室  
 banyu - 游泳  
 banze - 板子  
 bari - 重型的  
@@ -146,13 +146,13 @@ filosofia - 哲学
 fiorde - 峡湾  
 firuze - 绿松石  
 fitolojia - 植物学  
-fora  - 钻孔  
+fora - 钻孔  
 fraze - 句子  
 fule - 花  
 ##g
 galaksia - 恆星系  
 galte - 错误  
-gar - 如果 (要是)  
+gara - 如果 (要是)  
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
@@ -188,7 +188,7 @@ hule - 狐狸
 insane (insan) - 人类  
 insani hake - 人权  
 insanistia - 人文主义  
-itis  - 炎症  
+itis - 炎症  
 ive - 趋势  
 ##j
 jana - 知道 (晓得)  
@@ -319,7 +319,7 @@ nasomedi - 国际
 nefre - 肾脏  
 nida - 需要  
 nidi - 必要的  
-nili - أَزْرَق  
+nili - 蓝色  
 niponia - 日本  
 nixe - 壁龛  
 no - 不  
@@ -413,7 +413,7 @@ sikliste - 骑自行车的人
 socia - 社会  
 sole - 太阳  
 solosistem - 太阳系  
-sonokamar - 卧室 (寝室)  
+sonokamare - 卧室 (寝室)  
 sonu - 睡觉 (困觉)  
 sosise - 香肠  
 suki - 高兴  

@@ -110,7 +110,7 @@ bicyclette - sikle
 billet - tikete  
 bière - bire  
 blanc - baki  
-blue - nili  
+bleu - nili  
 bombe - bombe  
 bon - bon (boni)  
 bord (rive) - tate  
@@ -135,7 +135,7 @@ carte - karde
 carte - karte  
 cartographie - kartografia  
 centre - junge  
-chambre à coucher - sonokamar  
+chambre à coucher - sonokamare  
 chance - canse  
 changement climatique - klimomute  
 chapitre - babe  
@@ -222,7 +222,7 @@ fils ou fille - pute
 fiord - fiorde  
 fleur - fule  
 football - futobol  
-forer (percer) - fora   
+forer (percer) - fora  
 fosse - kave  
 fourmi - maye  
 fragment - parce  
@@ -254,7 +254,6 @@ hiver - zime
 hivernal (hibernal) - zimi  
 hockey - hoke  
 hockey sur glace - aisohoke  
-homonym - samonam  
 horloge - reloje  
 hourra - ura  
 humanisme - insanistia  
@@ -265,7 +264,7 @@ hôtel - hotel (hotele)
 ##i
 imperméable - barxokote  
 important - hami  
-inflammation - itis   
+inflammation - itis  
 insecte - koncunge  
 international - nasomedi  
 interracial - rasomedi  
@@ -467,7 +466,7 @@ s'installer (déménager) - migru
 ##s
 sac - sake  
 sain - sihi  
-salle de bains - banyokamar  
+salle de bains - banyokamare  
 salut (salam) - salame  
 sandwich - sanduice  
 sang - sange  
@@ -484,7 +483,7 @@ sel - sale
 semence - seme  
 sexe - sekse  
 shopping - xope  
-si - gar  
+si - gara  
 situation (état de choses) - xeyohale  
 société - socia  
 soldat - lasker  
@@ -507,7 +506,6 @@ tasse à thé - cayokupe
 technique - tehne  
 technologie - tehnolojia  
 tendance - ive  
-tener sentido - razonu  
 tente - haime  
 terrorisme - teroristia  
 thé - cay (caye)  
@@ -567,6 +565,7 @@ zoo - hewanoparke
 Zoroastre - zardux  
 zoroastrien - zarduxiste  
 zoroastrisme - zarduxistia  
+zoulou - zuli  
 zèbre - zebre  
 Égypte - misria  
 âge - umure  

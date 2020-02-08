@@ -63,7 +63,7 @@ bandere - флаг
 banke - банк  
 banse - бамбук  
 banye - купание  
-banyokamar - ванная  
+banyokamare - ванная  
 banyu - купаться  
 banze - доска  
 bari - тяжёлый  
@@ -138,14 +138,14 @@ filosofia - философия
 fiorde - фьорд  
 firuze - бирюза  
 fitolojia - ботаника  
-fora  - сверлить (бурить)  
+fora - сверлить (бурить)  
 fotografia - фотография  
 fraze - фраза  
 fule - цветок  
 futobol - футбол  
 ##g
 galaksia - галактика  
-gar - если  
+gara - если  
 gase - газ  
 gati - твёрдый  
 gazele - газель  
@@ -185,7 +185,7 @@ insane (insan) - человек
 insani hake - права человека  
 insanistia - гуманизм  
 iode - йод  
-itis  - воспаление  
+itis - воспаление  
 ive - тенденция  
 ##j
 jana - знать  
@@ -245,7 +245,7 @@ kube - куб
 lasker - солдат  
 laskeria - армия  
 late - сторона (бок)  
-lati -  боковой (латеральный)  
+lati - боковой (латеральный)  
 latovia - Латвия  
 lawi - пожилой  
 lazanye - лазанья  
@@ -310,7 +310,7 @@ neurosel - нейрон
 nida - нуждаться  
 nide - нужда  
 nidi - нужный  
-nili - azul  
+nili - синий (голубой)  
 niponia - Япония  
 nixe - ниша  
 no - нет (не)  
@@ -404,7 +404,7 @@ socia - общество (социум)
 soke - носок  
 sole - солнце  
 solocate - зонтик от солнца  
-sonokamar - спальня  
+sonokamare - спальня  
 sonu - спать  
 sose - соус  
 sosise - колбаса (сосиска)  
@@ -483,7 +483,7 @@ yohani feste - Иванов день
 yuke - нефрит (жад)  
 yumor - юмор  
 ##z
-zamane - период (эпоха)   
+zamane - период (эпоха)  
 zambia - Замбия  
 zardux - Зороастр  
 zarduxiste - зороастризм  
@@ -499,4 +499,5 @@ zone - пояс (зона)
 zuke - этнос  
 zuki - этнический  
 zukomedi - межэтнический  
+zuli - зулус  
 zumurude - изумруд  

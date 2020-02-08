@@ -274,7 +274,7 @@
 |**fixe**|fish|English:fish, deu:Fisch|
 |**folia**|madness (insanity)|English:folly, French:folie, Italian:follia|
 |**fonte**|fountain (spring, well)|Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)|
-|**fora **|drill (bore, perforate)|French:forer, Portuguese:furar, English:perforate, Spanish:perforar|
+|**fora**|drill (bore, perforate)|French:forer, Portuguese:furar, English:perforate, Spanish:perforar|
 |**forti**|strong|French:fort, Spanish:fuerte, Portuguese:forte, English:force|
 |**fraze**|sentence (phrase)|French:English:phrase, Portuguese:frase, Russian:фраза (fraza)|
 |**fuga**|return (restore, recover, resume)|Mandarin:复 (fù), Cantonese:(fuk), Vietnamese:phục|
@@ -297,7 +297,7 @@
 |**ganje**|cannabis (marijuana, ganja, pot, weed)|Hindi:गांजा (gāñjā), Urdu:(gānjā), Punjabi:ਗਾਂਜਾ (gāñjā), Bengali:গাঁজা (gañja), Telugu:గంజాయి (gañjāyi), Tamil:கஞ்சா (kañcā), Khmer:កញ្ឆា (kɑñchaa), Thai:กัญชา (gan-chaa), Vietnamese:cần sa, English:Portuguese:Malay:ganja, Japanese:ガンジャ (gānjya)|
 |**ganoputaw**|raisin|Korean:건포도 (geonpodo), Mandarin:葡萄干 (pútáogān)|
 |**ganya**|earn (gain)|French:gagner, Portuguese:ganhar, Spanish:ganar, English:gain|
-|**gar**|if (suppose, assume)|Persian:Urdu:اگر‎‎ (agar), Hindi:अगर (agar), Turkish:eğer, + Cantonese:假 (gaa1), Wu-Chinese:假 (ga)|
+|**gara**|if (suppose, assume)|Persian:Urdu:اگر‎‎ (agar), Hindi:अगर (agar), Turkish:eğer, + Cantonese:假 (gaa1), Wu-Chinese:假 (ga)|
 |**garder**|guardian (watchman)|English:guard, French:garde, Spanish:Portuguese:guarda, Japanese:ガード (gādo), Korean:가드 (gadeu)|
 |**gare**|car (cart, carriage, wagon, automobile)|English:car, Portuguese:Spanish:carro, deu:Karre, Telugu:(kāru), + Hindi:गाड़ी (gāṛī), Swahili:gari|
 |**garmi**|warm (hot)|Hindi:गरम (garm), Urdu:Persian:گرم‎‎ (garm), kur:germ, deu:English:warm|
@@ -384,15 +384,15 @@
 |**ione**|ion|English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon|
 |**irita**|irritate (annoy, disturb)|English:irritate, French:irriter, Spanish:Portuguese:irritar, deu:irritieren, Japanese:いらいらさせる (iraira saseru)|
 |**islame**|submission (surrender)|Arabic:(ʾislām), Persian:(taslim), Turkish:teslim|
-|**itis **|inflammation (-itis)|English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)|
+|**itis**|inflammation (-itis)|English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)|
 |**ive**|tendency (inclination)|English:-ive, deu:-iv, Fra:-if,-ive, Portuguese:Spanish:-ivo, Russian:-ивный (-ivnyj)|
 |**izi**|easy|English:easy, French:aisée|
 |**jake**|jacket|English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta|
 |**jama**|collect (gather, bring together, assemble)|Arabic: جمع /jamaʕa/|
 |**jamia**|collection (congregation, assembly)|Arabic:(jamʿiyya), Hausa:jam'iyya, Swahili:jamii, Turkish:camia|
 |**jampa**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**janel**|window|Portuguese:janela, Tamil:சன்னல் (sannal), Bengali:জানালা (janala), Malay:jendela, nya:zenera, Kongo:nêla|
-|**janele**|knowledge|Hindi:जान (jān), Bengali:জ্ঞান (gyan), জানা (jana), Punjabi:ਜਾਣ (jāṇ), Thai:ญาณ (yaan)|
+|**jane**|knowledge|Hindi:जान (jān), Bengali:জ্ঞান (gyan), জানা (jana), Punjabi:ਜਾਣ (jāṇ), Thai:ญาณ (yaan)|
+|**janele**|window|Portuguese:janela, Tamil:சன்னல் (sannal), Bengali:জানালা (janala), Malay:jendela, nya:zenera, Kongo:nêla|
 |**jangale**|forest (jungle, woods)|Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Urdu:(jangal), Portuguese:jângal, English:jungle, Russian: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|artisan (craftsman)|Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)|
 |**jare**|jug (jar, pitcher)|English:jar, Arabic:(jara), Portuguese:Spanish:jarra|
@@ -449,7 +449,7 @@
 |**karde**|card|English:card, Japanese: カード (kādo), Swahili: kadi, Mandarin:卡 (kǎ), deu:Karte, Malay:kartu, French:carte|
 |**karibi**|near (close)|Arabic:Persian:Urdu:(qarīb), Swahili:karibu, Turkish:takribi|
 |**karimi**|generous (charitable)|Arabic:(karīm), Swahili:-karimu, Turkish:kerim, Spanish:Portuguese:caritativo|
-|**karite**|shea|Wolof:kaarite, French:Spanish:karité, Fulani:kaare, kareje, Hausa:kaɗanya|
+|**karite**|shea (vitellaria)|Wolof:kaarite, French:Spanish:karité, Fulani:kaare, kareje, Hausa:kaɗanya|
 |**karme**|action (deed, performance, karma)|Hindi:कर्म (karma), Urdu:(karm), Punjabi:ਕਰਮ (karm), Kannada:Tamil:Telugu:(karma), English:deu:French:Spanish:Portuguese:karma, Khmer:កម្ម (kam), Burmese:ကံ (kam), Thai:กรรม (kam), Russian:карма (karma)|
 |**karte**|map (chart)|deu:Karte, Russian:карта (karta), French:carte, Italian:Portuguese:carta, Arabic:(xarīṭa), Turkish:harita, Persian:(xarite), som:khariiddo|
 |**kartune**|comic (cartoon)|English:cartoon, Portuguese:cartum, Mandarin:卡通 (kǎtōng)|
@@ -543,7 +543,7 @@
 |**lete**|summer|French:l'été, Russian:лето (leto)|
 |**letise**|lettuce|English:lettuce, Japanese:レタス (retasu), Hausa:latas, Hindi:लेटिष (leṭiṣ), Bengali:লেটুস (leṭus), French:laitue|
 |**lewo**|already (completed action)|Thai:แล้ว /lɛːw/, Mandarin:了 (le), Wu-Chinese:了 (lə'), Hakka-Chinese:了 (le), Cantonese:了 (liu)|
-|**leze**|pear|Mandarin:梨子 (lízi), Cantonese:梨 (lei42), Vietnamese:lê, |
+|**leze**|pear|Mandarin:梨子 (lízi), Cantonese:梨 (lei42), Vietnamese:lê,|
 |**libu**|stand|Mandarin:立 (lì), Cantonese:(lip), Vietnamese:lập, Korean:립 (rib)|
 |**lice**|lychee (litchi)|Mandarin:荔枝 (lìzhī), Hindi:लीची (līcī), English:lychee, Russian:личи (liči), Malay:leci, Vietnamese:lệ chi|
 |**lider**|leader (director)|English:French:leader, Spanish:Portuguese:líder, Russian:лидер (lider), Turkish:lider, Hindi:लीडर (līdar), Japanese:リーダー (rīdā), Korean:리더 (rideo)|
@@ -710,7 +710,7 @@
 |**parde**|curtain|Bengali:পরদা (pôrda), Hindi:पर्दा (pardā), Turkish:perde|
 |**pardon (pardone)**|sorry (pardon)|French:English:Turkish:ron:Hungarian:pardon, Spanish:perdón, Portuguese:perdão, bul:Russian:пардон (pardon)|
 |**parke**|park (garden)|English:deu:Turkish:Polish:park, Spanish:Portuguese:parque, French:parc, Russian:парк (park), Hindi:पार्क (pārk)|
-|**partia**|party|English:party, deu:Partei, Spanish:Portuguese:partido, French:partie, Turkish:parti, Polish:partia, Russian:партия (partiya)|
+|**partia**|party (group)|English:party, deu:Partei, Spanish:Portuguese:partido, French:partie, Turkish:parti, Polish:partia, Russian:партия (partiya)|
 |**pase**|past times|English:past, Spanish:pasado, Portuguese:passado, French: passé|
 |**pasporte**|passport|English:passport, French:passeport, Spanish:pasaporte, Por:passaporte, Russian:паспорт (pasport), Hindi:पासपोर्ट (pāsporṭ), Bengali:পাসপোর্ট (pasporṭ), Malay:paspor, Swahili:paspoti, Jpn:パスポート pasupōto)|
 |**paste**|paste|English:deu:paste, Russian:(pasta), Spanish:Portuguese:pasta|
@@ -744,6 +744,7 @@
 |**pire**|fire (burning)|English:French:pyro-, Portuguese:Spanish:piro-, Russian:пиро- (piro-)|
 |**pixe**|piss (urine)|English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis|
 |**pize**|pizza|Italian:English:French:pizza, Mandarin:比萨 (bǐsà), Russian:пицца (pitsa), Japanese:ピザ (piza), Korean:피자 (pija)|
+|**plazme**|plasma (ionized gas)|English:plasma, Spanish:plasma, Russian:плазма (plazma), Arabic:بلازما (balazima), Hindi:प्लाज़्मा (plaazma), Japanese:プラズマ (purazuma), ind:plasma|
 |**pliza**|ask (request, beg; please)|English:please|
 |**podia**|Tibet|tib:བོད (bod, phØ)|
 |**poke**|poker|English:poker, Mandarin:扑克 (pūkè), Japanese:ポーカー (pōkā), Korean:포커 (pokeo)|
@@ -872,7 +873,7 @@
 |**suje**|suggestion (proposal)|Hindi:सुझाव (sujhāv), Telugu:(sūcana), English:suggestion, Portuguese:sugestão|
 |**suki**|happy (delighted)|Hindi:सुखी (sukhī), Japanese:好き (suki), Thai:สุข (suk)|
 |**suku**|like (enjoy, be fond of)|Japanese:好く (suku), Malay: suka|
-|**sundari**|beautiful (handsome, pretty)|Hindi:सुन्दर (sundar), Bengali:সুন্দর (sundôr), Gujarati:સુંદર (sundar), |
+|**sundari**|beautiful (handsome, pretty)|Hindi:सुन्दर (sundar), Bengali:সুন্দর (sundôr), Gujarati:સુંદર (sundar),|
 |**suno**|soon|English:soon|
 |**supe**|soup|Spanish:sopa, English: soup, French: soupe, deu: Suppe, Swahili: supu, Russian:суп (sup), Malay:sup, Japanese:スープ (sūpu)|
 |**suprize**|surprise|English:surprise, Turkish:sürpriz, Persian:(surpris), Russian::сюрприз (siurpriz), Portuguese:surpresa, Spanish:sorpresa|
@@ -914,7 +915,7 @@
 |**toca**|touch|English:touch, Spanish: tocar, + Hindi: छूना /chūnā/, Mandarin: 触 (chù)|
 |**toksi**|toxic (poisonous, venomous)|English:toxic, French:toxique, Spanish:Portuguese:tóxico, Russian:токсичний (toksicniy), Malay:toksik|
 |**tomate**|tomato|English:tomato, Portuguese:Spanish:tomate, Russian:томат (tomat), Malay:tomat, Hindi:टमाटर (ṭamāṭar)|
-|**ton**|tone (note, pitch, shade)|English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono|
+|**tone**|tone (note, pitch, shade)|English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono|
 |**tong**|barrel (can, cask)|Mandarin:桶 (tǒng), Khmer:តុង (tong), Thai:ถัง (tǎng), Korean:통 (tong), Vietnamese:thùng, Malay:tong, + French:tonneau, Spanish:tonel, ned:ton|
 |**tope**|hat (cap)|Malay:topi, Hindi: टोपी (ṭopī), Bengali:টুপি (ṭupi), Tamil:(toppi)|
 |**torse**|trunk (torso)|French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso|
@@ -1010,8 +1011,8 @@
 |**yake**|yak|English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)|
 |**yange**|kind (type, style)|Mandarin: 样 (yàng), Thai: อย่าง (yàang), Khmer: យ៉ាង (yaang)|
 |**yatime**|orphan|Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)|
-|**yeze**|coco|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
-|**yi**|this (these)|Hindi:यह (ye), Bengali:এই (ei), Telugu:ఈ (ī), Tamil:இது (itu), Korean:이 (i), |
+|**yeze**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
+|**yi**|this (these)|Hindi:यह (ye), Bengali:এই (ei), Telugu:ఈ (ī), Tamil:இது (itu), Korean:이 (i),|
 |**yoge**|yoga|Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)|
 |**yote**|drop (droplet)|Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota)|
 |**yuke**|jade|Mandarin:玉 (yù), Cantonese:玉 (yuk6), Malay:giok|
@@ -1022,7 +1023,7 @@
 |**zare**|hazard (chance)|Arabic:(zahr), + English:hazard, Spanish:Portuguese:azar, + Turkish:zar, Greek:ζάρι (zári), bul:зар (zar)|
 |**zay (zayi)**|present (current, existing)|Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại|
 |**ze**|self|Mandarin:自 (zì), ned:zich, deu:sich, French:Portuguese:Spanish:se|
-|**zem**|earth (ground)|Polish:ziemia, Russian:земля (zemlya), Persian:Urdu:(zamīn), Hindi:ज़मीन (zamīn)|
+|**zeme**|earth (ground)|Polish:ziemia, Russian:земля (zemlya), Persian:Urdu:(zamīn), Hindi:ज़मीन (zamīn)|
 |**zeze**|fly (housefly)|Lingala:Kongo:nzinzi, Swahili:nzi, Igbo:ijiji, Yoruba:eṣinṣin|
 |**zikur**|ziggurat|Arabic:(ziqqūra), deu:Zikkurat, Russian:зиккурат (zikkurat)|
 |**zime**|winter|Russian:зима (zima), Polish:zima, Persian:(zemestân), Urdu:(zimastān)|

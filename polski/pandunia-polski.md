@@ -144,7 +144,7 @@ banke - bank
 banker - bankier  
 banse - bambus  
 banye - kąpiel  
-banyokamar - łazienka  
+banyokamare - łazienka  
 banyu - kąpać się  
 banze - deska  
 banzogem - gra planszowa  
@@ -388,7 +388,7 @@ denga - czekać
 denoniam - obiad, lunch  
 des - dziesięć (10)  
 desene - rysunek, obraz  
-destina - przeznaczyć   
+destina - przeznaczyć  
 destine - przeznaczenie, los  
 detale - detal, szczegół  
 dew (dewe) - bóg, bóstwo  
@@ -511,7 +511,7 @@ ewanjile - ewangelia
 fada - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faidi - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
-fain - delikatny, cienki, lekki  
+faini - delikatny, cienki, lekki  
 fajan - rozwój  
 falsi - fałszywy, nieprawdziwy  
 famile - rodzina  
@@ -592,7 +592,7 @@ fone - głoska
 foneme - fonem  
 fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
-fora  - wiercić, borować  
+fora - wiercić, borować  
 forke - widelec  
 forma - ukształtować, kształtować, urzeźbić, rzeźbić  
 forme - forma, kształt  
@@ -612,6 +612,7 @@ fula - wypełnić, wypełniać
 fulani - trochę; nieokreślony, nieograniczony, nieokreślony  
 fule - kwiat  
 fuli - pełny  
+fulovaze - wazon; donica, doniczka  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 funca - funkcja, stanowisko  
 fune - pył  
@@ -644,7 +645,7 @@ gania - Ghana
 ganje - konopie  
 ganoputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
-gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+gara - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
 garda - chronić, strzec,  osłaniać, bronić  
 garder - strażnik, ochroniarz  
@@ -717,7 +718,7 @@ gute - kolano
 guye - ogr (trol, goblin)  
 ##h
 habare - wiadomość, nius  
-habarobaw - gazeta  
+habarogazete - gazeta  
 hafiza - zachować, zakonserwować, zachować, utrzymać  
 hafizer - przechowawca, kustosz, opiekun  
 hafnium - hafn  
@@ -870,8 +871,8 @@ jamia - kolekcja, zbiór; zgromadzenie, zebranie
 jampa - skoczyć, skakać  
 jamula - rozproszyć, rozpraszać  
 jana - wiedzieć  
-janel - okno  
-janele - wiedza  
+jane - wiedza  
+janele - okno  
 jangale - las, dżungla, zagajnik  
 janger - rzemieślnik  
 jangi - umiejętny (sprawny, zręczny)  
@@ -1209,8 +1210,8 @@ liga - stowarzyszać się (zrzeszać się)
 lige - liga (stowarzyszenie)  
 lihtextainia - Liechtenstein  
 lil (lili) - mały; mało, trochę, nieco  
-lil niame - przekąska  
 lilake - lilak  
+lili niame - przekąska  
 lim - pięć (5)  
 limite - limit, granica  
 limofas - pięciościan (pryzmat)  
@@ -1233,7 +1234,7 @@ lojia - nauka, badanie, studiowanie
 loka - umieścić (postawić)  
 loke - miejsce, lokacja  
 loki - miejscowy, lokalny  
-loku -  być umiejscowionym (być ulokowanym, stać)  
+loku - być umiejscowionym (być ulokowanym, stać)  
 lole - oni  
 lona - debatować, prowadzić dyskurs  
 lone - dyskusja, debata, dyskurs  
@@ -1548,7 +1549,7 @@ netunium - neptun
 niam (niame) - jedzenie, posiłek  
 niama - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 niami - pyszny  
-niamokamar - jadalnia  
+niamokamare - jadalnia  
 nica - pod, poniżej; iść w dół, iść pod spód, iść na dno  
 nice - spód  
 nici - poniższy  
@@ -1831,7 +1832,6 @@ puja - czcić, szanować
 puje - cześć, szacunek  
 pule - most  
 pulmone - płuco  
-pulovaze - wazon; donica, doniczka  
 punte - kropka (znak interpunkcyjny)  
 pupe - lalka, kukiełka, pacynka, marionetka  
 purani - stary, starożytny  
@@ -1886,7 +1886,7 @@ rengenium - roentgen
 renium - ren  
 repa - powtórzyć, powtarzać  
 repe - powtarzanie, powtórka  
-repi - znowu (ponownie)  
+repo - znowu (ponownie)  
 reporta - raportować, relacjonować, opowiadać  
 reporte - raport  
 resida - uznać (przynać, przyjąć do wiadomości)  
@@ -2101,7 +2101,7 @@ sonda - brzmieć, wydać dźwięk, wydawać dźwięk
 sonde - dźwięk, brzmienie  
 sone - sen  
 songe - sosna  
-sonokamar - sypialnia  
+sonokamare - sypialnia  
 sonu - spać  
 sose - sos  
 sosise - kiełbasa  
@@ -2247,7 +2247,7 @@ toksi - toksyczny (trujący)
 tolera - tolerować  
 tolo - bąk, bączek  
 tomate - pomidor  
-ton - ton, dźwięk, nuta, tonacja  
+tone - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 tope - kapelusz, czapka  
 torium - tor  
@@ -2303,7 +2303,7 @@ urdunia - Jordan
 urse - niedźwiedź  
 uruguayia - Urugwaj  
 usameriki samoa - Amerykańska Samoa  
-usameriki wirjin nesia - Wyspy Dziewicze USA  
+usameriki virjin nesia - Wyspy Dziewicze USA  
 usamerikia - Stany Zjednoczone Ameryki  
 uza - użyć, używać, zatrudnić, stosować  
 uzbekia - Uzbekistan  
@@ -2487,7 +2487,7 @@ zayoden - dziś, dzisiaj
 zayu - istnieć (być obecnym)  
 ze - sam, siebie  
 zebre - zebra  
-zem - ziemia, grunt, gleba  
+zeme - ziemia, grunt, gleba  
 zemia - Ziemia  
 zemodow - orzech ziemny  
 zemolaskeria - wosko lądowe (armia)  
@@ -2508,4 +2508,5 @@ zombe - zombie, zombi
 zone - pas, strefa  
 zukam - przeziębienie, katar  
 zukomedi - zuluh  
+zuli - zulu  
 zumurude - szmaragd  

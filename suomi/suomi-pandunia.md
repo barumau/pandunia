@@ -460,7 +460,7 @@ hetki (kotva) - sate
 hevonen - gude  
 hidas - lenti  
 hiekka - rege  
-hieno (hienojakoinen) - fain  
+hieno (hienojakoinen) - faini  
 hieronta - masaje  
 hiili - karbone  
 hiilidioksidi - karbonodulokside  
@@ -568,7 +568,7 @@ ihmetellä (olla ihmeissään) - ajabu
 ihminen - insane (insan)  
 ihmiskunta - insania  
 ihmisoikeudet - insani hake  
-ikkuna - janel  
+ikkuna - janele  
 ikä - umure  
 ilkeä (julma) - zalimi  
 illallinen - xamoniame  
@@ -665,7 +665,7 @@ joogata - yoga
 joogi - yogiste  
 jopa - ato  
 Jordania - urdunia  
-jos (olettaa) - gar  
+jos (olettaa) - gara  
 joskus - koy sate  
 joukkue (tiimi) - time  
 joule (J) - jule  
@@ -996,7 +996,7 @@ kuiva - gani
 kuivata (kuivattaa) - gana  
 kuka? - ki ren  
 kukka - fule  
-kukkaruukku - pulovaze  
+kukkaruukku - fulovaze  
 kukkia - fulu  
 kuljetus - transeria  
 kulkea poikki, läpi tai yli - transa  
@@ -1057,7 +1057,7 @@ kyllä - si
 kylmä - lengi  
 kylpeä - banyu  
 kylpy - banye  
-kylpyhuone - banyokamar  
+kylpyhuone - banyokamare  
 kylä - ruste  
 kymmenen (10) - des  
 kynsi - nahun  
@@ -1252,7 +1252,7 @@ lääketiede - medikia
 lääkäri (tohtori) - mediker  
 löytää (keksiä) - eureka  
 ##m
-maa (maaperä) - zem  
+maa (maaperä) - zeme  
 maa (multa) - darte  
 maa (valtio) - dexe  
 maailma - dunia  
@@ -1294,7 +1294,7 @@ maksaa - peya
 maksimi (enimmäismäärä) - maxime  
 maksu - peye  
 maku - guste  
-makuuhuone - sonokamar  
+makuuhuone - sonokamare  
 malagassi - madagasi  
 malaiji - malayi  
 malajalam (eräs intialainen kieli) - malayali  
@@ -1833,7 +1833,7 @@ polttaa - pira
 polvi - gute  
 polyteismi (monijumalisuus) - polodewistia  
 pommi - bombe  
-porata - fora   
+porata - fora  
 porkkana - karote  
 porno - porne  
 pornografia - pornografia  
@@ -2008,7 +2008,7 @@ runo - xire
 runoilija - xirer  
 ruoho - grase  
 ruoka - niam (niame)  
-ruokasali - niamokamar  
+ruokasali - niamokamare  
 Ruotsi - suenia  
 rusina - ganoputaw  
 ruskea - bruni  
@@ -2057,7 +2057,7 @@ sanaluettelo - leksoliste
 sanasto - leksia  
 sankari (urho) - vire  
 sanko (ämpäri) - balde  
-sanomalehti - habarobaw  
+sanomalehti - habarogazete  
 Sao Tome ja Principe - santi tome e prinsipe  
 sapatti - sabate  
 sarana - xarnir  
@@ -2263,13 +2263,13 @@ säilyttää (varjella, säästää) - hafiza
 säteillä - rada  
 säteily - radia  
 säteilymittari - radometer  
-sävel (sävy) - ton  
+sävel (sävy) - tone  
 sää - tenke  
 sääty (kasti) - jenoklas  
 söpö (suloinen) - kawayi  
 ##t
 taajuus (tiheys) - cangia  
-taas (uudestaan) - repi  
+taas (uudestaan) - repo  
 taateli - tamare  
 Tadžikistan - tajikia  
 tahna (tahdas) - paste  
@@ -2382,7 +2382,7 @@ tie - daw (dawe)
 tiede (tutkimus) - lojia  
 tiedottaa (informoida) - informa  
 tieto (info) - informe  
-tieto (tietämys) - janele  
+tieto (tietämys) - jane  
 tietokanta - datobanke  
 tietokone - komputer  
 tietoteoria (epistemologia) - janolojia  
@@ -2431,7 +2431,7 @@ trendi - faxon
 Trinidad ja Tobago - trinidade e tobage  
 tuhat - kil  
 tuhka - huye  
-tulehdus - itis   
+tulehdus - itis  
 tuleva - wil  
 tulevaisuus - wile  
 tuli - pire  
@@ -2740,7 +2740,7 @@ väittely (debatti) - lone
 väittää - tesa  
 väli - mede  
 Välimeri - zemomedi samude  
-välipala (naposteltava) - lil niame  
+välipala (naposteltava) - lili niame  
 välissä - medu  
 väri - rang (range)  
 värilline - rangi  
@@ -2785,7 +2785,7 @@ yllätys - suprize
 ylä- (yli-) - supri  
 ymmärrys (taju, oivallus) - bude  
 ymmärtää (oivaltaa) - buda  
-ymmärtää väärin - galti buda  
+ymmärtää väärin - galto buda  
 ympäristö- (luonto-) - eki  
 ympäröidä (piirittää) - cirka  
 ynnätä (summata) - suma  
@@ -2807,6 +2807,7 @@ zikkurat - zikur
 Zimbabwe - zimbabwia  
 zirkonium - zirkonium  
 zombi - zombe  
+zulu - zuli  
 äiti (emä) - mame  
 ällistyttää - ajaba  
 ärsyttää (häiritä) - irita  

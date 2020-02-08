@@ -10,7 +10,7 @@ about (approximately, nearly, almost) - yago
 Abyssinia - habaxia  
 Abyssinian - habaxi  
 accent (stress) - aksente  
-accept (to say okay) - okeya  
+accept (say okay) - okeya  
 accommodate - doma  
 achoo - aciy  
 acknowledge - resida  
@@ -37,7 +37,7 @@ African - afriki
 afrophile - afrikofiler  
 Afrophilia - afrikofilia  
 afternoon - xamoden  
-again (repeatedly) - repi  
+again (repeatedly) - repo  
 age - umure  
 aggressive - agresi  
 agile - ajili  
@@ -236,7 +236,7 @@ basket ball - baskobol
 batch (lot) - lote  
 bath - banye  
 bathe - banyu  
-bathroom - banyokamar  
+bathroom - banyokamare  
 battery - batre  
 be - esa  
 be about (discuss as a subject) - tema  
@@ -255,7 +255,7 @@ because - sa sabu
 become open - kayu  
 bed - bede  
 bedouin (nomadic) - badawi  
-bedroom - sonokamar  
+bedroom - sonokamare  
 bee or wasp - vespe  
 beef - muhomanse  
 beer - bire  
@@ -295,7 +295,7 @@ bill (invoice) - bile
 billion (giga-) - gigo-  
 biology (study of life) - biyolojia  
 bird - pakse  
-biromantic - duleromansi  
+biromantic - duloromansi  
 birth - jene  
 birthday - jenoden  
 biscuit (cookie) - biskute  
@@ -522,8 +522,8 @@ coast (beach) - samudotate
 coat - kote  
 cobalt - kobalte  
 coca - koke  
-coco - yeze  
 cocoa - kakawe  
+coconut tree - yeze  
 Cocos (Keeling) Islands - kokos nesia  
 code (cipher) - kode  
 coerce (force, compel) - musa  
@@ -707,7 +707,7 @@ difference - alosifia
 different - alosifi  
 difficult (hard, tough) - kunani  
 dig (excavate) - kava  
-dining room - niamokamar  
+dining room - niamokamare  
 dinner - xamoniame  
 direction - dixe  
 disagree - aloraya  
@@ -750,7 +750,7 @@ draw - grafa
 drawer - tirosanduke  
 drawing (graph, image) - grafe  
 drawing (picture, design) - desene  
-drill (bore, perforate) - fora   
+drill (bore, perforate) - fora  
 drinking vessel (cup, glass, mug) - kope  
 drive - xofa  
 drop (droplet) - yote  
@@ -771,7 +771,7 @@ dysprosium - disprosium
 each other (one another, mutually) - unale  
 ear - ore  
 earn (gain) - ganya  
-earth (ground) - zem  
+earth (ground) - zeme  
 Earth (Terra) - zemia  
 earthquake - sisme  
 east - dong  
@@ -916,7 +916,7 @@ fill - fula
 film (video) - filme  
 filter - filter  
 find (discover) - eureka  
-fine (delicate) - fain  
+fine (delicate) - faini  
 finger (toe) - finge  
 finger ring - fingowen  
 finish (put an end to) - fina  
@@ -1177,6 +1177,7 @@ hologram - holograme
 holy (sacred) - santi  
 Holy See (Vatican City State) - vatikania  
 home (residence) - dom (dome)  
+homonym - samonam  
 homoromantic - samoromansi  
 homosexual - samojinsokami  
 homosexual - samoseksi  
@@ -1225,7 +1226,7 @@ idea (concept, notion) - ideye
 ideogram - ideyograf  
 idiocy (stupidity) - idiotia  
 idiot - idiote  
-if (suppose, assume) - gar  
+if (suppose, assume) - gara  
 ill (sick) - pati  
 illustrator (graphic artist) - grafer  
 image projector - lancografer  
@@ -1242,7 +1243,7 @@ indium - indium
 Indonesia - indonesia  
 infection - infekse  
 infidel (pagan, heathen, unbeliever) - kafire  
-inflammation (-itis) - itis   
+inflammation (-itis) - itis  
 inform (communicate) - informa  
 information - informe  
 initial (first) - kaixi  
@@ -1260,8 +1261,8 @@ insult (offend) - insulta
 insult (offense) - insulte  
 intend (plan) - plana  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tezi  
-interest - interesi  
-interesting - interese  
+interest - interese  
+interesting - interesi  
 interethnic - zukomedi  
 international - nasomedi  
 internet - internete  
@@ -1362,7 +1363,7 @@ knee - gute
 knife - cake  
 knot (node) - node  
 know (recognize) - jana  
-knowledge - janele  
+knowledge - jane  
 known - jani  
 Konkani - konkani  
 Korea - cosenia  
@@ -1630,9 +1631,10 @@ mirror - mirer
 misfortune (bad luck) - mal zare  
 mission (transmission, emission) - misia  
 mistake (error, fault) - galte  
-misunderstand - galti buda  
+misunderstand - galto buda  
 mix (blend) - mixa  
 mixer (blender) - mixer  
+model (design) - modela  
 model (design) - modele  
 Moldova - moldovia  
 mole (burrowing animal) - krote  
@@ -1740,7 +1742,7 @@ new (recent) - novi
 New Caledonia - novi kaledonia  
 New Zealand - novi zilandia  
 news - habare  
-newspaper (gazette) - habarobaw  
+newspaper (gazette) - habarogazete  
 newton (N) - nuton  
 next (following) - badi  
 Nicaragua - nikaragia  
@@ -1804,6 +1806,7 @@ Odia (Oriya) - odisi
 of (particle of possession) - du  
 office (bureau) - ofisia  
 office (position) - ofise  
+office (room) - ofiseria  
 officer - ofiser  
 official - ofisi  
 often (frequently) - cango  
@@ -1911,7 +1914,7 @@ participant - parter
 participate (attend, partake, take part) - parta  
 particle (grain, bullet) - dane  
 party (celebration, festival) - feste  
-party - partia  
+party (group) - partia  
 pascal (Pa) - paskale  
 pass (go by, go past) - pasa  
 pass (of time) - duru  
@@ -1992,7 +1995,7 @@ plane (tool for making a smooth surface) - rander
 plane hijacker - vimanokaper  
 planet - planete  
 plant (vegetation) - fite  
-plasma (physics) - plasme  
+plasma (ionized gas) - plazme  
 plastic - plastike  
 plate - plate  
 platinum - platinum  
@@ -2284,9 +2287,9 @@ salty (saline) - sali
 samarium - samarium  
 same (similar) - sami  
 Samoa - samoa  
+San Marino - santi marinia  
 sand - rege  
 sandwich - sanduice  
-Sanmarino - santi marinia  
 Sao Tome and Principe - santi tome e prinsipe  
 Satanism (devil worship) - xatanistia  
 Satanist - xataniste  
@@ -2357,7 +2360,7 @@ shape (sculpt) - forma
 share - komuna  
 shari'a - islamisti xaria  
 shatter (break into pieces) - parca  
-shea - karite  
+shea (vitellaria) - karite  
 sheep - meh  
 Shintoism - xindawistia  
 shirt - kamise  
@@ -2411,7 +2414,7 @@ slow (lethargic) - lenti
 smoke - duman  
 smooth - lisi  
 smoothen with a plane - randa  
-snack - lil niame  
+snack - lili niame  
 snake (serpent) - serpe  
 sneeze - aciya  
 snow - hime  
@@ -2570,7 +2573,7 @@ tail - dume
 Taipei - taibey  
 Taiwan (Republic of China) - taiwania  
 Tajikistan - tajikia  
-tale (legend, saga) - sage  
+tale (story, legend, saga) - sage  
 talk (say, speak) - loga  
 talkative - logivi  
 Tamil - tamili  
@@ -2677,7 +2680,7 @@ toilet (WC) - tuale
 tolerate - tolera  
 tomato - tomate  
 tomorrow - badi den  
-tone (note, pitch, shade) - ton  
+tone (note, pitch, shade) - tone  
 Tonga - tongia  
 tonne (metric ton) - megograme  
 too little - min ko bas  
@@ -2782,7 +2785,7 @@ vanadium - vanadium
 vanilla - vanile  
 Vanuatu - vanuatia  
 various (diverse, miscellaneous) - balibali  
-vase (flower pot) - pulovaze  
+vase (flower pot) - fulovaze  
 vegan - monovejoniamiste  
 vegetable - vejete  
 vegetarian - vejetoniamiste  
@@ -2801,7 +2804,7 @@ view (vision) - vide
 village - ruste  
 vinegar - sirke  
 vinyl - vinile  
-Virgin Islands, US - usameriki wirjin nesia  
+Virgin Islands, US - usameriki virjin nesia  
 virology - virusolojia  
 virtue (morals) - gunodarme  
 virtuous - gunodarmi  
@@ -2878,9 +2881,10 @@ wiki article - wike
 wild (savage) - wildi  
 will (in future) - wil  
 will (volition, desire) - ice  
+will (want) - ica  
 win (defeat) - wina  
 wind - hawe  
-window - janel  
+window - janele  
 wine - vine  
 winery - vineria  
 wing - winge  
@@ -2946,3 +2950,4 @@ zoo (zoological garden) - hewanoparke
 Zoroaster - zardux  
 Zoroastrian - zarduxiste  
 Zoroastrianism - zarduxistia  
+Zulu - zuli  

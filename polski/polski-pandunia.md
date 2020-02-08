@@ -1,5 +1,4 @@
 # polski-pandunia
- być umiejscowionym (być ulokowanym, stać) - loku  
 ##a
 adres - adrese  
 Afganistan - avgania  
@@ -190,6 +189,7 @@ być o; dyskutować o - tema
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - beyu  
 być podobnym, być jak - samu  
 być przeciw - kontra  
+być umiejscowionym (być ulokowanym, stać) - loku  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - namu  
 być widzianym - vidu  
 być wycentrowanym, być w środku - jungu  
@@ -307,7 +307,7 @@ dać, dawać - dona
 debatować, prowadzić dyskurs - lona  
 decy-, dziesiąta część - deco-  
 defekować, srać - kaka  
-delikatny, cienki, lekki - fain  
+delikatny, cienki, lekki - faini  
 demografia - demografia  
 demokracja - demokratia  
 demokrata - demokratiste  
@@ -491,7 +491,7 @@ gatunek - jonge
 gaz - gase  
 gaza - gaze  
 gazela - gazele  
-gazeta - habarobaw  
+gazeta - habarogazete  
 gałąź, konar - xake  
 gdzie - sa ke  
 gejowski (homoseksualny) - geyi  
@@ -655,7 +655,7 @@ iść, maszerować - marca
 ja, mnie - me  
 jabłko - aple  
 jabłko cukrowe - atis  
-jadalnia - niamokamar  
+jadalnia - niamokamare  
 jagoda - bere  
 jajko (jajo) - ande  
 jak (zwierzę) - yake  
@@ -682,7 +682,7 @@ Jersey - jersia
 jesień - oton  
 jesion - yasene  
 Jezus - yesus  
-jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - gar  
+jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - gara  
 jod; jodyna - iode  
 joga - yoge  
 jon - ione  
@@ -1283,7 +1283,7 @@ ogr (trol, goblin) - guye
 ogórek - pepine  
 ojciec - pape  
 okej, spoko, akceptowalny - okey (okeyi)  
-okno - janel  
+okno - janele  
 oko - kan (kane)  
 około; przybliżony - yago  
 okrągły - cirki  
@@ -1616,7 +1616,7 @@ przegrać, przegrywać - luza
 przejazd, przewóz, tranzyt - transe  
 przejść, przechodzić, przejechać, przejeżdżać - transa  
 przekroczyć, przekraczać, przejść nad, iść nad - supra  
-przekąska - lil niame  
+przekąska - lili niame  
 przepraszam! - pardon (pardone)  
 przerwać, przerywać - pauza  
 przesilenie - solestas  
@@ -1627,7 +1627,7 @@ przeszły, miniony - pasi
 przetłumaczyć, tłumaczyć, interpretować - tarja  
 przeziębienie, katar - zukam  
 przeznaczenie, los - destine  
-przeznaczyć  - destina  
+przeznaczyć - destina  
 przeźroczysty, jasny - klari  
 przy, z, na, w, u - sa  
 przyczepić, przymocować - fiksa  
@@ -1943,7 +1943,7 @@ Surinam - surinamia
 sushi - suxe  
 Syberia - sibir  
 syn - mani bace  
-sypialnia - sonokamar  
+sypialnia - sonokamare  
 Syria - suria  
 syrop - xirope  
 system - sistem  
@@ -2072,7 +2072,7 @@ togijski - togoli
 Togo - togolia  
 toksyczny (trujący) - toksi  
 tolerować - tolera  
-ton, dźwięk, nuta, tonacja - ton  
+ton, dźwięk, nuta, tonacja - tone  
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
 tost - rosti pang  
@@ -2194,7 +2194,7 @@ warzywo - vejete
 wat - wate  
 Watykan, Państwo Watykańskie - vatikania  
 waza, garnek, pojemnik, słoik, dzban - vaze  
-wazon; donica, doniczka - pulovaze  
+wazon; donica, doniczka - fulovaze  
 ważka - libele  
 ważny - hami  
 wciąż, nadal - hay  
@@ -2219,7 +2219,7 @@ wiceprezydent - visoprezidente
 widelec - forke  
 widok, wzrok - vide  
 wieczór - xame  
-wiedza - janele  
+wiedza - jane  
 wiedzieć - jana  
 wiejski, rustykalny - rusti  
 wiek - umure  
@@ -2230,7 +2230,7 @@ wielo- (poli-, multi-) - poli
 wielokąt (wielościan) - pologone  
 wielościan - polofase  
 wieprzowina - gurubomanse  
-wiercić, borować - fora   
+wiercić, borować - fora  
 wierzyć - xina  
 Wietnam - vietia  
 wiewiórka - tupay  
@@ -2313,7 +2313,7 @@ wyspa - nese
 Wyspa Man - maninia  
 Wyspy Alandzkie - olandia  
 Wyspy Cooka - kuke nesia  
-Wyspy Dziewicze USA - usameriki wirjin nesia  
+Wyspy Dziewicze USA - usameriki virjin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy - sudi jorjia e sudi sanwice nesia  
 Wyspy Kokosowe - kokos nesia  
 Wyspy Salomona - solomon nesia  
@@ -2410,7 +2410,7 @@ zewnętrzny - wayi
 ziarno, nasienie - semodan  
 zielony - lugi  
 Ziemia - zemia  
-ziemia, grunt, gleba - zem  
+ziemia, grunt, gleba - zeme  
 ziemniak - patate  
 ziggurat - zikur  
 zima - zime  
@@ -2430,13 +2430,14 @@ znaczyć - mena
 znak, sygnał - sinye  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
-znowu (ponownie) - repi  
+znowu (ponownie) - repo  
 zombie, zombi - zombe  
 zostawić, zostawiać - xuxe  
 zostać, zostawać - restu  
 zrobić (stworzyć, wykreować) - fata  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - cana  
 zsumować, sumować, dodać, dodawać - suma  
+zulu - zuli  
 zuluh - zukomedi  
 zupa - supe  
 zwinny, sprawny - ajili  
@@ -2464,7 +2465,7 @@ zły, zrujnowany, zepsuty - harabi
 Łotwa - latovia  
 łatwy, prosty - izi  
 ławka - bence  
-łazienka - banyokamar  
+łazienka - banyokamare  
 łańcuch - silsile  
 łyżka - camace  
 łza - kanosuy  

@@ -197,7 +197,7 @@ banke - bank (depository)
 banker - banker  
 banse - bamboo  
 banye - bath  
-banyokamar - bathroom  
+banyokamare - bathroom  
 banyu - bathe  
 banze - board (plank)  
 banzogem - board game  
@@ -539,12 +539,12 @@ duki - sad
 dul - two (2)  
 dul ban - twice  
 dul o tin - a couple of  
-duleromansi - biromantic  
 duli - dual (double)  
 dulistia - dualism  
 dulo fena - halve (divide by two)  
 dulo multa - double (multiply by two)  
 dulomeni - double entendre  
+duloromansi - biromantic  
 duman - smoke  
 dume - tail  
 duni - global  
@@ -629,7 +629,7 @@ ewi - beneficial (good)
 fada - supply (dispense, issue, put out)  
 faide - use (utility, benefit, gain, advantage)  
 faidi - useful (beneficial)  
-fain - fine (delicate)  
+faini - fine (delicate)  
 fajan - development  
 falsi - false (fake)  
 famile - family  
@@ -717,7 +717,7 @@ fone - phone (speech sound)
 foneme - phoneme  
 fonolojia - phonology  
 fonte - fountain (spring, well)  
-fora  - drill (bore, perforate)  
+fora - drill (bore, perforate)  
 forke - fork  
 forma - shape (sculpt)  
 forme - form (shape)  
@@ -739,6 +739,7 @@ fula - fill
 fulani - certain (indefinite, indeterminate, some, so-and-so)  
 fule - flower  
 fuli - full  
+fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
 funca - function (work)  
 fune - dust (powder)  
@@ -764,7 +765,7 @@ galium - gallium
 galta - make a mistake  
 galte - mistake (error, fault)  
 galti - wrong (incorrect, erroneous, faulty)  
-galti buda - misunderstand  
+galto buda - misunderstand  
 gambia - Gambia  
 gamel - camel  
 gana - dry out  
@@ -776,7 +777,7 @@ gania - Ghana
 ganje - cannabis (marijuana, ganja, pot, weed)  
 ganoputaw - raisin  
 ganya - earn (gain)  
-gar - if (suppose, assume)  
+gara - if (suppose, assume)  
 garante - guarantee (warranty)  
 garda - guard (watch)  
 garder - guardian (watchman)  
@@ -862,7 +863,7 @@ gute - knee
 guye - ogre (troll, goblin)  
 ##h
 habare - news  
-habarobaw - newspaper (gazette)  
+habarogazete - newspaper (gazette)  
 habaxi - Abyssinian  
 habaxia - Abyssinia  
 hafiza - preserve (conserve, retain, spare)  
@@ -971,6 +972,7 @@ huye - ash (ashes)
 huyorangi - grey (gray, ashy)  
 ##i
 ibri - Hebrew  
+ica - will (want)  
 ice - will (volition, desire)  
 ideye - idea (concept, notion)  
 ideyi - conceptual  
@@ -1003,8 +1005,8 @@ insanistia - humanism
 inspira - inspire  
 insulta - insult (offend)  
 insulte - insult (offense)  
-interese - interesting  
-interesi - interest  
+interese - interest  
+interesi - interesting  
 internete - internet  
 inxala - hope (wish)  
 iode - iodine  
@@ -1029,7 +1031,7 @@ istane - region
 iste - proponent (supporter, activist, -ist)  
 istia - ism (doctrine, ideology, religion, etc)  
 italia - Italy  
-itis  - inflammation (-itis)  
+itis - inflammation (-itis)  
 iva - tend to  
 ive - tendency (inclination)  
 izi - easy  
@@ -1042,8 +1044,8 @@ jamia - collection (congregation, assembly)
 jampa - jump  
 jamula - disperse  
 jana - know (recognize)  
-janel - window  
-janele - knowledge  
+jane - knowledge  
+janele - window  
 jangale - forest (jungle, woods)  
 janger - artisan (craftsman)  
 jangi - crafty (dexterous)  
@@ -1177,7 +1179,7 @@ karibo - nearly (closely, almost)
 karibu - approach (get near)  
 karimi - generous (charitable)  
 karimia - generosity (charity)  
-karite - shea  
+karite - shea (vitellaria)  
 karma - do (act, perform)  
 karme - action (deed, performance, karma)  
 karnadi - Kannada  
@@ -1457,9 +1459,9 @@ liga - associate
 lige - league (association)  
 lihtextainia - Liechtenstein  
 lil (lili) - little (small; a little, somewhat)  
-lil niame - snack  
 lilake - lilac  
 lilaki - lilac color  
+lili niame - snack  
 lim - five (5)  
 limite - limit (boundary)  
 limofas - pentahedron (prism)  
@@ -1715,6 +1717,7 @@ mite - meeting (gathering)
 mixa - mix (blend)  
 mixer - mixer (blender)  
 mode - way (manner, mode)  
+modela - model (design)  
 modele - model (design)  
 modolekse - adverb  
 moge - ink  
@@ -1841,7 +1844,7 @@ nevis - Nevis
 niam (niame) - food (meal)  
 niama - consume (eat or drink)  
 niami - delicious (yummy)  
-niamokamar - dining room  
+niamokamare - dining room  
 nica - under (go under)  
 nice - underside (underneath)  
 nici - lower  
@@ -1922,11 +1925,12 @@ o - or
 odisi - Odia (Oriya)  
 ofise - office (position)  
 ofiser - officer  
+ofiseria - office (room)  
 ofisi - official  
 ofisia - office (bureau)  
 oganeson - oganesson  
 okey (okeyi) - okay (acceptable)  
-okeya - accept (to say okay)  
+okeya - accept (say okay)  
 okse - oxygen  
 okside - oxide  
 olandia - Aland Islands  
@@ -2017,7 +2021,7 @@ parogowa - go along
 parogowi - parallel (longitudinal)  
 parta - participate (attend, partake, take part)  
 parter - participant  
-partia - party  
+partia - party (group)  
 pas (paso) - before (in the past)  
 pasa - pass (go by, go past)  
 pase - past times  
@@ -2093,7 +2097,6 @@ pizeria - pizzeria
 plan (plane) - plan  
 plana - intend (plan)  
 planete - planet  
-plasme - plasma (physics)  
 plastike - plastic  
 plate - plate  
 platinum - platinum  
@@ -2101,6 +2104,7 @@ platon - Plato
 platoniste - Platonist  
 platonisti - Platonic  
 platonistia - Platonism  
+plazme - plasma (ionized gas)  
 pliza - ask (request, beg; please)  
 pliza laya - invite  
 plumbe - lead  
@@ -2169,7 +2173,6 @@ puja - worship (revere)
 puje - worship (reveration)  
 pule - bridge  
 pulmone - lung  
-pulovaze - vase (flower pot)  
 punte - point (period, full stop)  
 pupe - doll (puppet)  
 purani - old (ancient)  
@@ -2229,7 +2232,7 @@ rengenium - roentgenium
 renium - rhenium  
 repa - repeat  
 repe - repetition (rep)  
-repi - again (repeatedly)  
+repo - again (repeatedly)  
 reporta - report (recount, relate)  
 reporte - report  
 resida - acknowledge  
@@ -2316,7 +2319,7 @@ safer - cleaner
 safi - clean (pure)  
 safrane - saffron  
 saga - tell (narrate)  
-sage - tale (legend, saga)  
+sage - tale (story, legend, saga)  
 saha - correct (make right)  
 sahi - right (correct, accurate)  
 sahrawia - Sahrawi Arab Democratic Republic  
@@ -2344,6 +2347,7 @@ sami - same (similar)
 samoa - Samoa  
 samodexi - compatriot  
 samojinsokami - homosexual  
+samonam - homonym  
 samoraya - agree (concur)  
 samoraye - agreement (consent)  
 samoromansi - homoromantic  
@@ -2364,7 +2368,7 @@ santi helenia - Saint Helena
 santi kitse - Saint Kitts  
 santi kitse e nevis - Saint Kitts and Nevis  
 santi lusia - Saint Lucia  
-santi marinia - Sanmarino  
+santi marinia - San Marino  
 santi tome e prinsipe - Sao Tome and Principe  
 santi vinsente - Saint Vincent  
 santi vinsente e grenadin - Saint Vincent and Grenadines  
@@ -2473,7 +2477,7 @@ sonda - sound (make a sound)
 sonde - sound (audio)  
 sone - sleep  
 songe - pine tree  
-sonokamar - bedroom  
+sonokamare - bedroom  
 sonu - sleep (be asleep)  
 sose - sauce  
 sosise - sausage  
@@ -2633,7 +2637,7 @@ toksi - toxic (poisonous, venomous)
 tolera - tolerate  
 tolo - top (spinning top)  
 tomate - tomato  
-ton - tone (note, pitch, shade)  
+tone - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 tongia - Tonga  
 tope - hat (cap)  
@@ -2697,7 +2701,7 @@ urse - bear
 uruguayia - Uruguay  
 usameriki - American (US)  
 usameriki samoa - American Samoa  
-usameriki wirjin nesia - Virgin Islands, US  
+usameriki virjin nesia - Virgin Islands, US  
 usamerikia - United States of America (USA)  
 uza - use (employ, apply)  
 uzbekia - Uzbekistan  
@@ -2884,7 +2888,7 @@ yehudistia - Judaism
 yemenia - Yemen  
 yesus - Jesus  
 yey - yay! (yeah!)  
-yeze - coco  
+yeze - coconut tree  
 yi - this (these)  
 yoga - do yoga  
 yoge - yoga  
@@ -2917,7 +2921,7 @@ zayoden - today
 zayu - exist (be present)  
 ze - self  
 zebre - zebra  
-zem - earth (ground)  
+zeme - earth (ground)  
 zemia - Earth (Terra)  
 zemodow - peanut (groundnut)  
 zemolaskeria - ground force (army)  
@@ -2942,4 +2946,5 @@ zukam - cold (illness)
 zuke - ethnic group  
 zuki - ethnic  
 zukomedi - interethnic  
+zuli - Zulu  
 zumurude - emerald  

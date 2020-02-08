@@ -988,7 +988,7 @@ Je préfère rester debout.
 ****
 Avec plaisir !
 
-**feste mulu sa ki zaman?**
+**feste kaixu sa ki zaman?**
 Quand commence la fête ?
 
 

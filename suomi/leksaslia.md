@@ -269,7 +269,7 @@
 |**fixe**|kala|englanti:fish, deu:Fisch|
 |**folia**|hulluus (mielettömyys)|englanti:folly, ranska:folie, italia:follia|
 |**fonte**|lähde (kaivo)|portugali:fonte, espanja:fuente, venäjä:фонтан (fontan), ranska:fontaine, englanti:fountain, japani:噴水 (funsui)|
-|**fora **|porata|ranska:forer, portugali:furar, englanti:perforate, espanja:perforar|
+|**fora**|porata|ranska:forer, portugali:furar, englanti:perforate, espanja:perforar|
 |**forti**|voimakas (vahva)|ranska:fort, espanja:fuerte, portugali:forte, englanti:force|
 |**fraze**|lause (fraasi)|ranska:englanti:phrase, portugali:frase, venäjä:фраза (fraza)|
 |**fuga**|palauttaa|yleiskiina:复 (fù), kantoninkiina:(fuk), vietnami:phục|
@@ -292,7 +292,7 @@
 |**ganje**|kannabis (marihuana, hamppu)|hindi:गांजा (gāñjā), urdu:(gānjā), pandzabi:ਗਾਂਜਾ (gāñjā), bangla:গাঁজা (gañja), telugu:గంజాయి (gañjāyi), tamili:கஞ்சா (kañcā), khmer:កញ្ឆា (kɑñchaa), thai:กัญชา (gan-chaa), vietnami:cần sa, englanti:portugali:malaiji:ganja, japani:ガンジャ (gānjya)|
 |**ganoputaw**|rusina|korea:건포도 (geonpodo), yleiskiina:葡萄干 (pútáogān)|
 |**ganya**|hankkia (ansaita)|ranska:gagner, portugali:ganhar, espanja:ganar, englanti:gain|
-|**gar**|jos (olettaa)|persia:urdu:اگر‎‎ (agar), hindi:अगर (agar), turkki:eğer, + kantoninkiina:假 (gaa1), wu-kiina:假 (ga)|
+|**gara**|jos (olettaa)|persia:urdu:اگر‎‎ (agar), hindi:अगर (agar), turkki:eğer, + kantoninkiina:假 (gaa1), wu-kiina:假 (ga)|
 |**garder**|vartija (vahti)|englanti:guard, ranska:garde, espanja:portugali:guarda, japani:ガード (gādo), korea:가드 (gadeu)|
 |**gare**|kärry (vaunu, auto, jne)|englanti:car, portugali:espanja:carro, deu:Karre, telugu:(kāru), + hindi:गाड़ी (gāṛī), suahili:gari|
 |**garmi**|lämmin|hindi:गरम (garm), urdu:persia:گرم‎‎ (garm), kur:germ, deu:englanti:warm|
@@ -378,15 +378,15 @@
 |**ione**|ioni|englanti:ranska:espanja:ion, venäjä:ион (ion), turkki:iyon|
 |**irita**|ärsyttää (häiritä)|englanti:irritate, ranska:irriter, espanja:portugali:irritar, deu:irritieren, japani:いらいらさせる (iraira saseru)|
 |**islame**|alistuminen (antautuminen)|arabia:(ʾislām), persia:(taslim), turkki:teslim|
-|**itis **|tulehdus|englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)|
+|**itis**|tulehdus|englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)|
 |**ive**|taipumus|englanti:-ive, deu:-iv, Fra:-if,-ive, portugali:espanja:-ivo, venäjä:-ивный (-ivnyj)|
 |**izi**|helppo|englanti:easy, ranska:aisée|
 |**jake**|pikkutakki (jakku)|englanti:jacket, yleiskiina:夹克 (jiākè), venäjä:жакет (žaket), deu:Jacke, portugali:jaqueta|
 |**jama**|koota (kerätä)|arabia: جمع /jamaʕa/|
 |**jamia**|yhteisö (kokoontuminen, kollektiivi)|arabia:(jamʿiyya), hausa:jam'iyya, suahili:jamii, turkki:camia|
 |**jampa**|hypätä (hyppiä)|englanti:jump, japani:ジャンプ (janpu), korea:점프 (jŏmp), bangla:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**janel**|ikkuna|portugali:janela, tamili:சன்னல் (sannal), bangla:জানালা (janala), malaiji:jendela, nya:zenera, Kongo:nêla|
-|**janele**|tieto (tietämys)|hindi:जान (jān), bangla:জ্ঞান (gyan), জানা (jana), pandzabi:ਜਾਣ (jāṇ), thai:ญาณ (yaan)|
+|**jane**|tieto (tietämys)|hindi:जान (jān), bangla:জ্ঞান (gyan), জানা (jana), pandzabi:ਜਾਣ (jāṇ), thai:ญาณ (yaan)|
+|**janele**|ikkuna|portugali:janela, tamili:சன்னல் (sannal), bangla:জানালা (janala), malaiji:jendela, nya:zenera, Kongo:nêla|
 |**jangale**|metsä (viidakko)|hindi:जंगल (jangal), bangla:জঙ্গল (jônggôl), urdu:(jangal), portugali:jângal, englanti:jungle, venäjä: джу́нгли (džúngli), deu:Dschungel|
 |**janger**|artesaani (käsityöläinen)|yleiskiina:匠 (jiàng), thai:ช่าง (jang), khmer:ជាង (ciəng)|
 |**jare**|kannu (karahvi)|englanti:jar, arabia:(jara), portugali:espanja:jarra|
@@ -530,7 +530,7 @@
 |**lete**|kesä (suvi)|ranska:l'été, venäjä:лето (leto)|
 |**letise**|lehtisalaatti|englanti:lettuce, japani:レタス (retasu), hausa:latas, hindi:लेटिष (leṭiṣ), bangla:লেটুস (leṭus), ranska:laitue|
 |**lewo**|jo (tehty teko)|thai:แล้ว /lɛːw/, yleiskiina:了 (le), wu-kiina:了 (lə'), hakkakiina:了 (le), kantoninkiina:了 (liu)|
-|**leze**|päärynä|yleiskiina:梨子 (lízi), kantoninkiina:梨 (lei42), vietnami:lê, |
+|**leze**|päärynä|yleiskiina:梨子 (lízi), kantoninkiina:梨 (lei42), vietnami:lê,|
 |**libu**|seistä (seisoa)|yleiskiina:立 (lì), kantoninkiina:(lip), vietnami:lập, korea:립 (rib)|
 |**lice**|litši|yleiskiina:荔枝 (lìzhī), hindi:लीची (līcī), englanti:lychee, venäjä:личи (liči), malaiji:leci, vietnami:lệ chi|
 |**lider**|johtaja (pomo)|englanti:ranska:leader, espanja:portugali:líder, venäjä:лидер (lider), turkki:lider, hindi:लीडर (līdar), japani:リーダー (rīdā), korea:리더 (rideo)|
@@ -855,7 +855,7 @@
 |**suje**|ehdotus|hindi:सुझाव (sujhāv), telugu:(sūcana), englanti:suggestion, portugali:sugestão|
 |**suki**|iloinen (tyytyväinen)|hindi:सुखी (sukhī), japani:好き (suki), thai:สุข (suk)|
 |**suku**|pitää (tykätä)|japani:好く (suku), malaiji: suka|
-|**sundari**|kaunis (komea, sievä)|hindi:सुन्दर (sundar), bangla:সুন্দর (sundôr), gujarati:સુંદર (sundar), |
+|**sundari**|kaunis (komea, sievä)|hindi:सुन्दर (sundar), bangla:সুন্দর (sundôr), gujarati:સુંદર (sundar),|
 |**suno**|pian|englanti:soon|
 |**supe**|keitto (soppa)|espanja:sopa, englanti: soup, ranska: soupe, deu: Suppe, suahili: supu, venäjä:суп (sup), malaiji:sup, japani:スープ (sūpu)|
 |**suprize**|yllätys|englanti:surprise, turkki:sürpriz, persia:(surpris), venäjä::сюрприз (siurpriz), portugali:surpresa, espanja:sorpresa|
@@ -897,7 +897,7 @@
 |**toca**|koskea (koskettaa)|englanti:touch, espanja: tocar, + hindi: छूना /chūnā/, yleiskiina: 触 (chù)|
 |**toksi**|myrkyllinen|englanti:toxic, ranska:toxique, espanja:portugali:tóxico, venäjä:токсичний (toksicniy), malaiji:toksik|
 |**tomate**|tomaatti|englanti:tomato, portugali:espanja:tomate, venäjä:томат (tomat), malaiji:tomat, hindi:टमाटर (ṭamāṭar)|
-|**ton**|sävel (sävy)|englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono|
+|**tone**|sävel (sävy)|englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono|
 |**tong**|tynnyri (tölkki)|yleiskiina:桶 (tǒng), khmer:តុង (tong), thai:ถัง (tǎng), korea:통 (tong), vietnami:thùng, malaiji:tong, + ranska:tonneau, espanja:tonel, ned:ton|
 |**tope**|lakki (hattu)|malaiji:topi, hindi: टोपी (ṭopī), bangla:টুপি (ṭupi), tamili:(toppi)|
 |**torse**|vartalo (varsi, torso)|ranska:torse, venäjä:торс (tors), deu:englanti:espanja:malaiji:torso|
@@ -991,7 +991,7 @@
 |**yange**|laji (tyyppi, tyyli)|yleiskiina: 样 (yàng), thai: อย่าง (yàang), khmer: យ៉ាង (yaang)|
 |**yatime**|orpo|arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)|
 |**yeze**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|
-|**yi**|tämä (nämä)|hindi:यह (ye), bangla:এই (ei), telugu:ఈ (ī), tamili:இது (itu), korea:이 (i), |
+|**yi**|tämä (nämä)|hindi:यह (ye), bangla:এই (ei), telugu:ఈ (ī), tamili:இது (itu), korea:이 (i),|
 |**yoge**|jooga|hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)|
 |**yote**|pisara (tippa)|thai:หยด (yòt), vietnami:giọt, + englanti:iota, venäjä:йота (yota)|
 |**yuke**|jade|yleiskiina:玉 (yù), kantoninkiina:玉 (yuk6), malaiji:giok|
@@ -1002,7 +1002,7 @@
 |**zare**|sattuma (onni)|arabia:(zahr), + englanti:hazard, espanja:portugali:azar, + turkki:zar, kreikka:ζάρι (zári), bul:зар (zar)|
 |**zay (zayi)**|kuluva (tämänhetkinen)|yleiskiina:在 (zài), japani:在 (zai), vietnami:tại|
 |**ze**|itse|yleiskiina:自 (zì), ned:zich, deu:sich, ranska:portugali:espanja:se|
-|**zem**|maa (maaperä)|puola:ziemia, venäjä:земля (zemlya), persia:urdu:(zamīn), hindi:ज़मीन (zamīn)|
+|**zeme**|maa (maaperä)|puola:ziemia, venäjä:земля (zemlya), persia:urdu:(zamīn), hindi:ज़मीन (zamīn)|
 |**zeze**|kärpänen|lingala:Kongo:nzinzi, suahili:nzi, igbo:ijiji, yoruba:eṣinṣin|
 |**zikur**|zikkurat|arabia:(ziqqūra), deu:Zikkurat, venäjä:зиккурат (zikkurat)|
 |**zime**|talvi|venäjä:зима (zima), puola:zima, persia:(zemestân), urdu:(zimastān)|
