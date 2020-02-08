@@ -1045,7 +1045,7 @@ I rather stand.
 ****
 With pleasure!
 
-**feste mulu sa ki zaman?**
+**feste kaixu sa ki zaman?**
 When does the party begin?
 
 **te sahi.**
