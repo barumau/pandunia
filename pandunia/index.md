@@ -1,38 +1,36 @@
-# pandunia - dunia du bax
+# pandunia - dunia du baxe
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia du bandir")
+![](http://www.pandunia.info/bandir/bandir.png "pandunia du bandere")
 
 salam dunia!
 
-pandunia si nowi dunia du bax! pandunia du lekse laya ca mey fen da
-dunia: afrike, amerike, asia, europe – ca dunia bax xudu wakila momi
-pan dunia!
+pandunia si novi dunia du baxe!
+pandunia du lekse laya ca mey fene da dunia:
+afrike, amerike, asia, europe
+– ca dunia baxe xudu wakila momi pan dunia!
 
-eska te jana pandunia? te abla darsa pandunia sa uza [mini darse](mini_darse.html).
+eska te jana pandunia?
+te abla darsa pandunia sa uza [mini darse](mini_darse.html).
 
 
 * [abace](abc.md)
 * kitabe
-  * [lil urse du danti tung](baru_dante.md)
+  * [lili urse du danti tunge](baru_dante.md)
   * [tin lil gurube](3_lil_gurube.md)
-  * [tin buze e guy](3_buze_i_guy.md)
-  * [piper e karote](piper_i_karot.md)
-  * [insan du putong hake](putong_hake.md)
+  * [tin buze e guye](3_buze_i_guy.md)
+  * [insan du putongi hake](putong_hake.md)
   * [dini kitabe](dini_kitabe.md)
-  * [makal tema pandunia sa ali bax](makal_tema_pandunia.md)
+  * [makale tema pandunia sa ali baxe](makal_tema_pandunia.md)
 * [filme](filme.md)
-* loge liste
-  * [dunia du loge](lekse/dunia_loge.html)
-  * [nam da hewan](lekse/hewan.html)
-  * [nam da pal](lekse/pal.html)
+* leksoliste
+  * [dunia du lekse](lekse/dunia_loge.html)
+  * [name da hewane](lekse/hewan.html)
+  * [name da pale](lekse/pal.html)
   * [range](lekse/ange.md)
-  * [nam da dex](dexonam.md)
-  * [leksi asle](loge_asle.md) e [lekse du num](lekse_da_num.md)
+  * [name da dexia](dexonam.md)
+  * [leksasle](loge_asle.md) e [lekse du nombre](lekse_da_num.md)
 * wikia
   * [pandunia wikia](https://pandunia.wikia.com/wiki/Pandunia_Wiki)
-  * [wikia da tema sani bax](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
-  * [max e max wikia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
-
-
-![](http://www.pandunia.info/grafe/pandunia_ge_waterman.png)
+  * [wikia da tema cani baxe](http://eo.sani-bax.wikia.com/wiki/Kategorio:Sani_bax)
+  * [ali wikia sa pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 
