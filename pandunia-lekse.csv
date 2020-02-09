@@ -100,6 +100,7 @@ antigia|dex|||Antigua||Antigua||||||||||||||Antigua|
 antigia e barbudia|dex|AG||Antigua and Barbuda||Antigua y Barbuda||||||||||||||Antigua ja Barbuda|
 antokriste||||antichrist||Anticristo||||||||||||||antikristus|antychryst
 antoname|||eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|antonym||antónimo||||||||||||||vastakohta (antonyymi)|antonim
+antorelojodixo||||counterclockwise (anticlockwise)||en el sentido contrario al las agujas del reloj|||||||||||||||
 anuse||||anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
 anusi||||anal||anal|||||||||||||anusa|anaalinen|analny, odbytni
 aphazia|dex|||Abkhazia||abjazia||Абхазия||||||||||||Abhaasia|
@@ -502,6 +503,7 @@ diske|||eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डि
 disprosium|mate|Dy||dysprosium||disprosio|||||||||||||disprozio|dysprosium|dysproz
 divehia|dex|MV||Maldives||Maldivas||||||||||||||Malediivit|
 dixe|||hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|direction||dirección||||||||||||||suunta|kierunek
+dixo||||directly||directamente|||||||||||||||
 doici||||German||alemán||||||||||||||saksalainen|niemiecki
 doicia|dex|DE||Germany||Alemania||||||||||||||Saksa|Niemcy
 dokume|||eng:fra:document, rus:документ (dokument)|document (record, file)|document (dossier)|documento (archivo, nota)||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
@@ -515,8 +517,11 @@ dominogem||||dominoes||dominó||||||||||||||dominopeli|domino
 domu||||live (dwell, reside)|vivre (habiter)|vivir (residir)|||||||||||||loĝi|asua|mieszkać
 dona|||eng:dan:give, deu:geben, zho:给 (gěi)|give||dar|||||||||||||doni|antaa|dać, dawać
 done||||gift||regalo (obsequio)|||||||||||||donaco|lahja|podarunek, dar, prezent
-dong|||zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|east||éste|||||||||||||oriento|itä|wschód
+donge|||zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|east||éste|||||||||||||oriento|itä|wschód
+dongi||||eastern||oriental|||||||||||||||
+dongia||||longitude||longitud|||||||||||||||
 dongi timoria|dex|TL||East Timor (Timor-Leste)||Timor Oriental||||||||||||||Itä-Timor|
+dongo||||eastward||al este|||||||||||||||
 doste|||tur:dost, hin:दोस्त (dost), guj:દોસ્ત (dost), urd:(dost), fas:(dust)|friend||amigo|||||||||||||amiko|ystävä (kaveri)|przyjaciel
 dosti||||friendly||simpático (amable)|||||||||||||amika|ystävällinen|przyjacielski
 dostia||||friendship||amistad (compañerismo)|||||||||||||amikeco|ystävyys|przyjaźń
@@ -785,7 +790,13 @@ gati|||tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), j
 gatomate||||solid||sólido||||固体|固体||||||||solido|kiinteä aine|
 gatomati||||rigid (solid)||rígido (sólido)||||||||||||||kiinteä|
 gawa||||raise (lift)||levantar (elevar)||||||||||||||nostaa|
+gawe||||top||alto (parte de arriba)|||||||||||||||
 gawi|||zho:高 (gāo), vie:cao|high||alto|||||||||||||alta|korkea|wysoki
+gawia||||height (altitude)||altura (altitud)|||||||||||||||
+gawo||||up||arriba|||||||||||||||
+gawodarja||||upgrade (level up)||mejorar|||||||||||||||
+gawolada||||upload||cargar (subir)|||||||||||||||
+gawotali||||vertical||vertical|||||||||||||||
 gawu||||rise (go up)||subir (alzar)||||||||||||||nousta|
 gayania|dex|GY||Guyana||Guyana|||||||||||||Gujano|Guyana|Gujana
 gaze|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|gauze||gasa|||||||||||||gazo|harso|gaza
@@ -976,13 +987,16 @@ imperer||||emperor||emperador||||||||||||||keisari|imperator
 imperia||||empire||imperio||||||||||||||keisarikunta|imperium
 imperiste||||imperialist||imperialista||||||||||||||imperialisti|imperialista
 imperistia||||imperialism||imperialismo||||||||||||||imperialismi|imperializm
+inda||||be inside (inside)||estar dentro (dentro)|||||||||||||||
 inde|||eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|inside (interior)||interior|||||||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 indium|mate|In||indium||indium|||||||||||||indio|indium|ind
+indo||||inward||hacia adentro|||||||||||||||
 indojeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 indomisa||||import||importar|||||||||||||||
 indoname||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|
 indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
+indu||||contain (include)||contener|||||||||||||||
 infekse|||ita:infezione, eng:infection, por:infecção, tur:enfeksiyon, rus:инфекция (infektsiya)|infection||infección|infecção|||||||||||enfeksiyon|infekto|infektio (tartunta)|infekcja (zakażenie)
 informa||||inform (communicate)||informar (comunicar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 informe||||information||información|||||||||||||informacio|tieto (info)|informacja
@@ -1073,6 +1087,10 @@ jeste||||gesture||gesto||||||||||||||ele|gest
 jibraltar|dex|GI||Gibraltar||Gibraltar||||||||||||||Gibraltar|Gibraltar
 jibutia|dex|DJ||Djibouti||Yibuti||||||||||||||Djiboutia|Dżibuti
 jina|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, enter)||avanzar (entrar, adelantar, progresar)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
+jine||||front||frente|||||||||||||||
+jini||||fore||delantero|||||||||||||||
+jino||||forward||adelante|||||||||||||||
+jinomun||||entrance||entrada|||||||||||||||
 jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|sort (kind, type, genus)|genre (espèc)|género|gênero|род|جِنْس|属|属|속||वंश|||jinsi|cins|genro|laji (sortti)|
 jirafe|||ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
 joke||||joke||broma (chiste)||||||||||||||vitsi|żart
@@ -1089,6 +1107,7 @@ jumle|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sen
 junga||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 jungafrikia|dex|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
 junge|||zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
+jungi||||central (middle)||central|||||||||||||||
 jungogia|dex|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
 jungu||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
 jupe|||fra:jupe, ara:(jūb), rus:юбка (yubka)|skirt||falda|||||||||||||jupo|hame|spódnica
@@ -1119,6 +1138,7 @@ kalium|mate|K||potassium||potasio|||||||||||||kalio|kalium|potas
 kalkulia|||fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|calculus (manipulation of symbolic expressions)||cálculo||||||||||||||kalkyyli|rachunek (formalny system obliczeń)
 kalsium|mate|Ca||calcium (Ca)||calcio|||||||||||||kalcio|kalsium|wapń
 kamare|||may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|room (chamber)|pièce (chambre)|habitación (cuarto, sala, pieza)|sala (câmara)|комната (камера)|قَمَرَة|房间|部屋|방||कमरा|কক্ষ|kamar|chumba||ĉambro|huone|pokój, sala
+kamarogawe||||ceiling
 kamarotale||||floor||piso (suelo)||||||||||||||lattia|podłoga
 kambudia|dex|KH||Cambodia||Camboya|||||||||||||Kamboĝo|Kambodja|Kambodża
 kamerunia|dex|CM||Cameroon||Camerún||||||||||||||Kamerun|Kamerun
@@ -1158,9 +1178,10 @@ karawe|||ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|c
 karbone|mate|C||carbon (coal)||carbón|||||||||||||karbono|hiili|węgiel
 karbonodulokside||||carbon dioxide|dioxyde de carbone|dióxido de carbono|dióxido de carbono|двуокись углерода||二氧化碳||||प्रांगार द्विजारेय|||||karbona dioksido|hiilidioksidi|dwutlenek węgla
 karde|||eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|card|carte|tarjeta (carta)|carta|карта||牌|カルタ|||ताश||kartu|karata||karto|kortti|karta
+kariba||||approach (get near)||axproximarse||||||||||||||lähestyä|
+karibe||||proximity||proximidad|||||||||||||||
 karibi|||ara:fas:urd:(qarīb), swa:karibu, tur:takribi|near (close)||cerca|||||||||||||proksima|läheinen|bliski
 karibo||||nearly (closely, almost)||casi (aproximadamente)||||||||||||||lähes (melkein)|
-karibu||||approach (get near)||axproximarse||||||||||||||lähestyä|
 karimi|||ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|generous (charitable)|généreux|generoso (dadivoso, caritativo)|||||||||||karimu|||vieraanvarainen (antelias, hyväntahtoinen)|
 karimia||||generosity (charity)|générosité (charité)|generosidad (caridad)|generosidade||||||||||ukarimu|||anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)|
 karite|||wol:kaarite, fra:spa:karité, ful:kaare, kareje, hau:kaɗanya|shea (vitellaria)||karité||||||||||||||voipuu|masłosz Parka
@@ -1341,6 +1362,7 @@ krize|||eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:cri
 krizi||||critical (pertaining to crisis)||crítico (fundamental)||||||||||||||kriittinen (kriisi-)|kryzysowy
 kromium|mate|Cr||chromium||cromo|||||||||||||kromo|kromi|chrom
 krote|||rus:крот (krot)|mole (burrowing animal)||topo||||||||||||||kontiainen (maamyyrä)|kret
+krusa||||cross||cruzar|||||||||||||||
 kruse|||eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|cross|croix|cruz|cruz|крест||||||||||çarpı (haç)|kruco|risti|krzyż
 krusofiksa||||crucify||crucificar||||||||||||||ristiinnaulita|
 kuange|||zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|mineral (ore)||ancho||||||||||||||kivennäinen (mineraali)|minerał, ruda
@@ -1390,10 +1412,12 @@ lasker|||tur:asker, may:askar, swa:askari, ara:(ʿaskariy), bul:аскер (aske
 laskeria||||army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
 lasti||||elastic||elástico (flexible)||||||||||||||joustava (elastinen)|elastyczny
 lasune||||garlic||ajo||||||||||||||valkosipuli|larwa, czerw, gąsienica
-late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|side (flank)|côté|lado (flanco)|lado|сторона (бок)||侧面 (旁边)|脇 (辺)||||||||flanko (latero)|sivu (kylki, puoli)|
+lata||||be beside (beside)||estar al lado de|||||||||||||||
+late|||spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)|side (flank)|côté|lado (flanco)|lado|сторона (бок)||侧面 (旁边)|脇 (辺)||||||||flanko (latero)|sivu (kylki, puoli)|
 lati||||lateral|latéral|lateral|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|
 latini abace||||Latin alphabet||alfabeto latino||||||||||||||latinalaiset aakkoset|alfabet łaciński, łacinka, alfabet rzymski
 latinokitaba||||romanize||romanizar||||||||||||||latinoida|
+lato||||sideways||de lado|||||||||||||||
 latoren||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||
 latovia|dex|LV||Latvia|Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa
 laurensium|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
@@ -1408,7 +1432,9 @@ laya|||vie: lại, zho: 来 (lái)|come||venir||||来|||||||||veni|tulla|przyjś
 lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|
 le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
 lefte|||eng:left|left||lado izquerdo||||||||||||||vasen|lewa strona
+lefti||||left hand||izquierdo|||||||||||||||
 leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
+lefto||||leftward||a la izquerda|||||||||||||||
 lekin|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|
 leksaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|
 lekse||||word|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
@@ -1878,6 +1904,8 @@ nordi amerike||||North America||Norteamérica||||||||||||||Pohjois-Amerikka|
 nordi cosenia|dex|KP||North Korea (Democratic People’s Republic of Korea)||Corea del Norte||||||||||||||Pohjois-Korea|
 nordi kipris|dex|||Northen Cyprus||Chipre del Norte||||||||||||||Pohjois-Kypros|
 nordi makedonia|dex|MK||Republic of North Macedonia||Macedonia del Norte||||||||||||||Makedonia|Republika Macedonii, Macedonia
+nordia||||latitude||latitud|||||||||||||||
+nordo||||northward||al norte|||||||||||||||
 norfolke|dex|NF||Norfolk Island||Isla Norfolk||||||||||||||Norfolkin saaret|Norfolk
 norgi||||Norwegian||noruego|||||||||||||norvega|norjalainen|norweski
 norgia|dex|NO||Norway||Noruega|||||||||||||Norvegio|Norja|Norwegia
@@ -2133,6 +2161,7 @@ prasedim|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|
 prate|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)||práctica||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
 prati||||practical (pragmatic)||práctico||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
 preda|coverb||rus:п(е)ред (p(e)red), pol:przed, eng:spa:por:pre-, fra:pré-|precede (come before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (tulla ennen)|poprzedzić, poprzedzać
+prede||||lead-up|||||||||||||||||
 predi||||previous||previo (anterior)||||||||||||||edellinen|poprzedni
 predoden||||yesterday||ayer||||||||||||||eilinen|wczoraj
 predofikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|
@@ -2178,7 +2207,10 @@ radium|mate|Ra||radium||radio|||||||||||||radiumo|radium|rad
 radometer||||radiometer||radiómetro||||||||||||||säteilymittari|radoiometr
 radon|mate|Rn||radon||radón|||||||||||||radono|radon|radon
 raite|||eng:right|right hand side||lado derecho||||||||||||||oikea puoli|prawa strona
+raiti||||right hand||derecho|||||||||||||||
 raitiste||||rightist (right-winger)||derechista||||||||||||||oikeistolainen|prawicowiec (prawak)
+raito||||rightward||a la derecha|||||||||||||||
+raitolefti||||horizontal (lateral)||horizontal|||||||||||||||
 rajer||||king or queen||rey o reina|||||||||||||reĝo aŭ reĝino|monarkki (kuningas, kuningatar)|król lub królowa
 raji||||royal||real (de realtad)||||||||||||||kuninkaallinen|królewski
 rajia|||hin:राज्य (rājya), ben:রাজ্য (rajyô)|kingdom||reino||||||||||||||kuningaskunta|królestwo
@@ -2213,6 +2245,7 @@ redi||||ready||listo (preparado)|||||||||||||preta|valmis|gotowy
 rege|||fas:(rig), hin:रेग (reg), urd:(reg)|sand||arena|||||||||||||sablo|hiekka|piasek, piach
 registan||||desert||desierto|||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 reloje|||spa:reloj. por:relógio. fra:horloge. ita:orologio. msa:ind:arloji.|clock (watch)|horloge|reloj|relógio|||钟|時計||||||||horloĝo||
+relojodixo||||clockwise||en el sentido del las agujas del reloj|||||||||||||||
 relojominare||||clocktower||torre del reloj|||||||||||||||
 ren (rene)|||zho: 人 (rén)|person (people)||persona (gente)|||||||||||||persono|henkilö|osoba; ludzie
 rengenium|mate|Rg||roentgenium||roentgenio|||||||||||||rentgenio|röntgenium|roentgen
@@ -2228,7 +2261,10 @@ reste|||fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto|rest (remainder)|rest
 restoran||||restaurant||restaurante|||||||||||||restaŭracio|ravintola|restauracja
 restu||||remain (stay)||quedarse||||||||||||||jäädä jäljelle|zostać, zostawać
 retra||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
-retre||||return (way back)||vuelta|||||||||||||reiro|paluu|
+retre||||back||dorso|||||||||||||||
+retri||||rear||trasero|||||||||||||||
+retro||||backward||hacia atrás|||||||||||||||
+retrodaw||||return (way back)||vuelta|||||||||||||reiro|paluu|
 retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|
 reunion|dex|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||
@@ -2478,11 +2514,13 @@ suboniam||||breakfast||desayuno||||||||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
 sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|południe
+sudi||||southern||sureño|||||||||||||||
 sudi amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|
 sudi cosenia|dex|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
 sudi iria, alonia|dex|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|
 sudi jorjia e sudi sanwice nesia|dex|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 sudi sudania|dex|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
+sudo||||southward||al sur|||||||||||||||
 suede|||eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|sweat (perspiration)|sueur|sudor|suor|||||||||||||hiki|pot
 suedi||||sweaty||sudoroso (sudado)||||||||||||||hikinen|spocony
 suenia|dex|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
@@ -2533,8 +2571,13 @@ tajikia|dex|TJ||Tajikistan||Tayikistán||||||||||||||Tadžikistan|Tadżykistan
 taksa||||collect fees or taxes||gravar (cobrar tasas)||||||||||||||veloittaa (verottaa)|
 takse|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|tax (fee, fare)||tasa (precio, impuesto, tarifa)||||||||||||||taksa (vero)|podatek, opłata
 taksokare||||taxi||taxi (cab)||||||||||||||taksi|taxi, taksówka
+tala||||lower (put down)||bajar|||||||||||||||
 tale||||bottom||fondo||||||||||||||pohja|dół, spód
+tali||||low||bajo|||||||||||||||
 talium|mate|Tl||thallium||talio|||||||||||||talio|tallium|tal
+talo||||down||abajo|||||||||||||||
+talodarja||||downgrade||degradar|||||||||||||||
+talolada||||download||descargar|||||||||||||||
 tamare|||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl
 gume|||swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
 tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|
@@ -2566,8 +2609,9 @@ tehne|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:tech
 tehnetium|mate|Tc||technetium||tecnetio|||||||||||||teknecio||technet
 tehnokratia||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
 tehnolojia||||technology (study of techniques)|technologie|tecnología||технология||工艺学|||||||||teknologio|tekniikka (teknologia)|technologia, nauka o technikach
-tele||||distance||distancia|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
+tele||||distance (far away)||lo lejos|||||||||||||||
 teli||||far (distant)||lejano (lejos)|||||||||||||malproksima|kaukainen|daleki, odległy
+telia||||distance (length)||distancia|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 telofone||||telephone|téléphone|telefono||телефон||电话机|||||||||telefono|puhelin|telefon
 telovide||||television|téléviseur|televisión||телевизор||电视机|||||||||televidilo|televisio|telewizja
 telugi|nas|||Telugu||télugu||||||||||||||telugu (eräs intialainen kieli)|telugu
@@ -2586,6 +2630,8 @@ tenu||||belong|appartenir à|ser de||принадлежать||属于|||||||||ap
 teoria||||theory||teoría|||||||||||||teorio|teoria|teoria
 tepe|||eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|tape|ruban (bande)|cinta adhesiva||лента|||||||||||bendo|teippi (nauha)|taśma
 terbium|mate|Tb||terbium||terbio|||||||||||||terbio||terb
+terka||||tilt (skew)||inclinar|||||||||||||||
+terki||||oblique (askew, tilted)|oblique (de travers)|oblicuo (torcido)|oblíquo (torto)|косой||斜的|斜め||||||||||
 terme|||deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|temperature||temperatura||||||||||||||lämpötila|temperatura
 termometer||||thermometer||termómetro|||||||||||||termometro|lämpömittari|termometr
 tero-||||tera-||tera-||||||||||||||tera-|
@@ -2764,14 +2810,16 @@ wate||||watt||vatio|||||||||||||vato|watti|wat
 waw|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 waxa|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||||lavi|pestä|prać, umyć, myć
 waxomaxin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
-wayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-waya||||oust (expel)||expulsar||||||||||||||poistaa|
+waya||||be outside of (go outside)||estar fuera de|||||||||||||||
 waye|||zho:外 (wài)|outside (exterior)||fuera (exterior)|||||||||||||ekstero|ulkopuoli|zęwnętrzny
+wayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
+wayo||||outward||hacia afuera|||||||||||||||
 wayodexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
 wayodexia||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
 wayomisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|
 wayonam||||exonym||exónimo||||||||||||||eksonyymi|
 wayoniame||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
+wayu||||oust (expel)||expulsar||||||||||||||poistaa|
 we||||that one||eso|||||||||||||tiu|tuo|
 weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki||||awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
@@ -2780,7 +2828,8 @@ werke||||work (job, task)|travail|trabajo|trabalho|работа|عَمَل|工�
 werker||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
 werkomeze||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
 weste||||west||oeste||||||||||||||länsi|zachód
-westi||||western||del oeste (occidental)||||||||||||||läntinen|zachodni
+westi||||western||occidental||||||||||||||läntinen|zachodni
+westo||||westward||al oeste|||||||||||||||
 wi|||hin:वह (wo), ben:ওই (oi)|that (those)||eso|||||||||||||tiu|tuo (nuo)|
 wike||||wiki article||página wiki|||||||||||||vikia artikulo|wikikirjoitus|
 wikia||||wiki||wiki|||||||||||||vikio|wiki|wiki
