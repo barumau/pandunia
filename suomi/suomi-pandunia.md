@@ -665,7 +665,7 @@ joogata - yoga
 joogi - yogiste  
 jopa - ato  
 Jordania - urdunia  
-jos (olettaa) - gara  
+jos (olettaa) - aga  
 joskus - koy sate  
 joukkue (tiimi) - time  
 joule (J) - jule  
@@ -1131,7 +1131,6 @@ Latvia - latovia
 lauantai - var 6 (var sis)  
 laulaa - canta  
 laulu - cante  
-lause (fraasi) - fraze  
 lauta (lankku) - banze  
 lautanen - plate  
 lautapeli - banzogem  
@@ -2079,7 +2078,7 @@ Saudi Arabia - saudi arabia
 sauma (ommel) - suture  
 sauna - saune  
 savu - duman  
-savuke tai sikari - sigar  
+savuke tai sikari - sigare  
 seepra - zebre  
 seesami - sesam  
 seikkailija - aventurer  

@@ -509,7 +509,7 @@ cien (##) - hon
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
 cierto (algún, unos) - fulani  
-cigarro - sigar  
+cigarro - sigare  
 cima (pico, cumbre, vértice) - pike  
 cinc - zinke  
 cinco (5) - lim  
@@ -1946,7 +1946,6 @@ opinar - raya
 opinión - raye  
 oponerse (resistir) - anta  
 oportunidad (chance) - canse  
-oración (frase) - fraze  
 oración - jumle  
 orden (mando, comando) - komande  
 orden - ratibe  
@@ -2518,7 +2517,7 @@ Seychelles - sexel nesia
 señal (letrero, indicio) - sinye  
 sharía - islamisti xaria  
 shogunato - xogunia  
-si (suponer) - gara  
+si (suponer) - aga  
 Siberia - sibir  
 siempre - pan sate  
 Sierra Leona - salonia  

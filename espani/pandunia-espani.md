@@ -25,6 +25,7 @@ adresosimbol (@) - arroba (@)
 adulte - adulto  
 afrike - África  
 afriki - africano  
+aga - si (suponer)  
 agrese - ataque  
 agresi - agresivo  
 aha - entender (comprender)  
@@ -725,7 +726,6 @@ fotomaxin - cámara
 fransi polinesia - Polinesia Francesa  
 fransia - Francia  
 fransium - francio  
-fraze - oración (frase)  
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - llevar (vestir)  
 fuke - ropa (vestimenta)  
@@ -771,7 +771,6 @@ gania - Ghana
 ganje - cannabis (hachís, marihuana)  
 ganoputaw - pasa (uva pasa)  
 ganya - ganar (cobrar)  
-gara - si (suponer)  
 garante - garantía  
 garda - vigilar (guardar)  
 garder - vigilante (guardia)  
@@ -2419,7 +2418,7 @@ sifa - definir
 sife - cualidad (atributo, descripción)  
 sifi - descriptivo  
 sifolekse - adjetivo  
-sigar - cigarro  
+sigare - cigarro  
 sihe - salud  
 sihi - saludable  
 sikiste - sij  

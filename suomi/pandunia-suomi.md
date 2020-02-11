@@ -27,6 +27,7 @@ afrike - Afrikka
 afriki - afrikkalainen  
 afrikofiler - afrofiili  
 afrikofilia - afrofilia  
+aga - jos (olettaa)  
 agrese - hyökkäys (aggressio)  
 agresi - hyökkäävä (aggressiivinen)  
 aha - oivaltaa (tajuta)  
@@ -705,7 +706,6 @@ fotomaxin - kamera
 fransi polinesia - Ranskan Polynesia  
 fransia - Ranska  
 fransium - fransium  
-fraze - lause (fraasi)  
 fuga - palauttaa  
 fuka - pukea  
 fuke - vaate (puku)  
@@ -751,7 +751,6 @@ gania - Ghana
 ganje - kannabis (marihuana, hamppu)  
 ganoputaw - rusina  
 ganya - hankkia (ansaita)  
-gara - jos (olettaa)  
 garante - takuu  
 garda - vartioida (vahtia)  
 garder - vartija (vahti)  
@@ -2320,7 +2319,7 @@ sifa - määritellä (luonnehtia)
 sife - laatu (ominaisuus, ominaispiirre, määrite)  
 sifi - kuvaileva (määrittelevä)  
 sifolekse - adjektiivi (laatusana)  
-sigar - savuke tai sikari  
+sigare - savuke tai sikari  
 sihe - terveys  
 sihi - terve  
 sikiste - sikhi  

@@ -22,6 +22,7 @@ afrike - Afriko
 afriki - afrika  
 afrikofiler - afrikamanto  
 afrikofilia - afrikamanteco  
+aga - se  
 agrese - atako (agreso)  
 agresi - agresema  
 aha - kompreni  
@@ -537,7 +538,6 @@ gani - seka
 ganje - kanabo  
 ganoputaw - sekvinbero  
 ganya - akiri (gajni)  
-gara - se  
 garante - garantio  
 garda - gardi  
 garder - gardisto  

@@ -27,6 +27,7 @@ afrike - Africa
 afriki - African  
 afrikofiler - afrophile  
 afrikofilia - Afrophilia  
+aga - if (suppose, assume)  
 agrese - attack (assault, aggression)  
 agresi - aggressive  
 aha - understand (realize)  
@@ -731,7 +732,6 @@ fotomaxin - camera
 fransi polinesia - French Polynesia  
 fransia - France  
 fransium - francium  
-fraze - sentence (phrase)  
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
@@ -777,7 +777,6 @@ gania - Ghana
 ganje - cannabis (marijuana, ganja, pot, weed)  
 ganoputaw - raisin  
 ganya - earn (gain)  
-gara - if (suppose, assume)  
 garante - guarantee (warranty)  
 garda - guard (watch)  
 garder - guardian (watchman)  
@@ -2426,7 +2425,7 @@ sifa - qualify (describe)
 sife - attribute (charasteristic, quality, feature, description)  
 sifi - descriptive  
 sifolekse - adjective  
-sigar - cigarette (cigar)  
+sigare - cigarette (cigar)  
 sihe - health  
 sihi - healthy  
 sikiste - Sikh  

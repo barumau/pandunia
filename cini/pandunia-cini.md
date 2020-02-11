@@ -9,6 +9,7 @@ adali - 公正地
 adalia - 正义  
 adrese - 地址  
 adulte - 成年人  
+aga - 如果 (要是)  
 agrese - 攻击  
 airoporte - 飞机场  
 aise - 冰  
@@ -147,12 +148,10 @@ fiorde - 峡湾
 firuze - 绿松石  
 fitolojia - 植物学  
 fora - 钻孔  
-fraze - 句子  
 fule - 花  
 ##g
 galaksia - 恆星系  
 galte - 错误  
-gara - 如果 (要是)  
 gati - 硬  
 gatomate - 固体  
 genca - 检查  

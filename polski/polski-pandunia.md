@@ -682,7 +682,7 @@ Jersey - jersia
 jesień - oton  
 jesion - yasene  
 Jezus - yesus  
-jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - gara  
+jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - aga  
 jod; jodyna - iode  
 joga - yoge  
 jon - ione  
@@ -1355,7 +1355,7 @@ panteizm - panodewistia
 panteon - panodewia  
 papaja - papaye  
 papier - kagaze  
-papieros (cygar) - sigar  
+papieros (cygar) - sigare  
 Papua Nowa Gwinea - papua novi ginia  
 papuga - papagaye  
 para wodna - suyogas  
@@ -2400,7 +2400,6 @@ zbiorowy, zbiorczy - jami
 zbudować, budować, konstruować - bina  
 zbyt - max ko bas  
 zbyt mało - min ko bas  
-zdanie, zwrot, wyrażenie - fraze  
 zdrada małżeńska, cudzołóstwo - zine  
 zebra - zebre  
 zemleć, mleć, mielić - mola  

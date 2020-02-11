@@ -22,6 +22,7 @@ afrike - Afryka
 afriki - afrykański, Afrykanin  
 afrikofiler - afrofil  
 afrikofilia - afrofilia  
+aga - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 agrese - atak (agresja, napaść)  
 agresi - agresywny  
 aha - rozumieć, pojmować  
@@ -604,7 +605,6 @@ fotomaxin - kamera, aparat fotograficzny
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
 fransium - frans  
-fraze - zdanie, zwrot, wyrażenie  
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuka - nosić ubrania  
 fuke - ubranie, ubiór, strój  
@@ -645,7 +645,6 @@ gania - Ghana
 ganje - konopie  
 ganoputaw - rodzynka  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
-gara - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
 garda - chronić, strzec,  osłaniać, bronić  
 garder - strażnik, ochroniarz  
@@ -2057,7 +2056,7 @@ sifa - opisać (zakwalifikować)
 sife - cecha, właściwość, parametr  
 sifi - opisowy  
 sifolekse - przymiotnik  
-sigar - papieros (cygar)  
+sigare - papieros (cygar)  
 sikiste - sikh  
 sikistia - sikhizm  
 sikle - rower  

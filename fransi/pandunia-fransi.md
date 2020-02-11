@@ -22,6 +22,7 @@ afrike - Afrique
 afriki - africain  
 afrikofiler - afrophile  
 afrikofilia - afrophilie  
+aga - si  
 agrese - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
@@ -206,7 +207,6 @@ futobol - football
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
-gara - si  
 gase - gaz  
 gati - dur  
 gazele - gazelle  

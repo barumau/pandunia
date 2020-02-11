@@ -494,7 +494,7 @@ Christianity - krististia
 Christmas - kristojen  
 chromium - kromium  
 church - eglise  
-cigarette (cigar) - sigar  
+cigarette (cigar) - sigare  
 circle (round) - cirke  
 citizen - dexoren  
 citrus fruit - migane  
@@ -1226,7 +1226,7 @@ idea (concept, notion) - ideye
 ideogram - ideyograf  
 idiocy (stupidity) - idiotia  
 idiot - idiote  
-if (suppose, assume) - gara  
+if (suppose, assume) - aga  
 ill (sick) - pati  
 illustrator (graphic artist) - grafer  
 image projector - lancografer  
@@ -2336,7 +2336,6 @@ send (emit, transmit) - misa
 sender (transmitter) - miser  
 Senegal - senegalia  
 sense - sense  
-sentence (phrase) - fraze  
 sentence (phrase) - jumle  
 September - mes 9 (mes naw)  
 Serbia - serbia  

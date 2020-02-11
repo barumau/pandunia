@@ -7,6 +7,7 @@ adali - справедливый
 adalia - справедливость  
 adrese - адрес  
 adulte - взрослый  
+aga - если  
 agrese - нападение (атака)  
 airoporte - аэропорт  
 aisohoke - хокке́й с ша́йбой  
@@ -140,12 +141,10 @@ firuze - бирюза
 fitolojia - ботаника  
 fora - сверлить (бурить)  
 fotografia - фотография  
-fraze - фраза  
 fule - цветок  
 futobol - футбол  
 ##g
 galaksia - галактика  
-gara - если  
 gase - газ  
 gati - твёрдый  
 gazele - газель  

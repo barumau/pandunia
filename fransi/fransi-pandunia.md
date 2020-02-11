@@ -483,7 +483,7 @@ sel - sale
 semence - seme  
 sexe - sekse  
 shopping - xope  
-si - gara  
+si - aga  
 situation (état de choses) - xeyohale  
 société - socia  
 soldat - lasker  

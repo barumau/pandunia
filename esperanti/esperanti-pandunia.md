@@ -1289,7 +1289,7 @@ scii (koni) - jana
 scio - jane  
 sciteorio (epistemologio) - janolojia  
 sciuro - tupay  
-se - gara  
+se - aga  
 seborgio - seaborgium  
 sed - a  
 seka - gani  
