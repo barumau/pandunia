@@ -209,8 +209,8 @@ S. So it makes sense to drop the H from CH.
 
 It is unique but not as odd as you might think. In fact,
 the majority of letters (19 in total) are pronounced in general in
-the way in Pandunia and English, 5 are different, and two (q and v)
-are missing from Pandunia.
+the way in Pandunia and English, 5 are different, and one (q)
+is missing from Pandunia.
 
 Most letters correspond to approximately similar sounds in Pandunia
 and in other languages that use the Latin alphabet in their spelling
@@ -229,21 +229,21 @@ used in other languages in the table below.
 - Letters that correspond usually to different sounds in Pandunia
   and in the compared language are listed under DIFFERENT.
 
-| ALPHABET         | SIMILAR                                         | MISSING |DIFFERENT    |
-|:-----------------|-------------------------------------------------|---------|-------------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u w x y z |         |             |
-| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
-| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
-| Hausa            | a b c d e f g h i j k l m n o p r s t u w   y z | x       |             |
-| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u w x y   |         | e z         |
-| Swahili          | a b   d e f g h i j k l m n o p r s t u w   y z | c x     |             |
-| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u w   y z | c x     | f r         |
-| Portuguese       | a b   d e f g   i   k l m n o p r s t u   x   z | y       | c h j       |
-| English          |   b   d   f g h i j k l m n o p r s t   w   y z |         | a c e u x   |
-| French           | a b   d e f g   i   k l m n o p   s t u w   y z |         | c h j r x   |
-| Spanish          | a b   d e f g   i   k l m n o p r s t u     y   |         | c h j x z   |
-| German           | a b   d e f g h i   k l m n o p r s t u         |         | c j w x y z |
-| Vietnamese       | a b     e   g h i   k l m n o p r   t u     y   | f j w z | c d s x     |
+| ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
+|:-----------------|---------------------------------------------------|---------|-------------|
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u v w x y z |         |             |
+| Malay/Indonesian | a b c d e f g h i j k l m n o p r s t u   w   y z | x       |             |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v     y z | w x     |             |
+| Hausa            | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
+| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   w x y   | v       | e z         |
+| Swahili          | a b   d e f g h i j k l m n o p r s t u v w   y z | c x     |             |
+| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u   w   y z | v c x   | f r         |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u v   x   z | w y     | c h j       |
+| English          |   b   d   f g h i j k l m n o p r s t   v w   y z |         | a c e u x   |
+| French           | a b   d e f g   i   k l m n o p   s t u v w   y z |         | c h j r x   |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u v     y   | w       | c h j x z   |
+| German           | a b   d e f g h i   k l m n o p r s t u v         |         | c j w x y z |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u v     y   | f j w z | c d s x     |
 
 
 ## Grammar
