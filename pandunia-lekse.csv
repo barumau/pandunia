@@ -793,7 +793,6 @@ gawa||||raise (lift)||levantar (elevar)||||||||||||||nostaa|
 gawe||||top||alto (parte de arriba)|||||||||||||||
 gawi|||zho:高 (gāo), vie:cao|high||alto|||||||||||||alta|korkea|wysoki
 gawia||||height (altitude)||altura (altitud)|||||||||||||||
-gawo||||up||arriba|||||||||||||||
 gawolada||||upload||cargar (subir)|||||||||||||||
 gawotali||||vertical||vertical|||||||||||||||
 gawu||||rise (go up)||subir (alzar)||||||||||||||nousta|
@@ -990,7 +989,6 @@ inda||||be inside (inside)||estar dentro (dentro)|||||||||||||||
 inde|||eng:in, zho:内 (nèi), hin:अंदर (andar), kor:안 (an), ell:εντός (entós), spa:por:dentro|inside (interior)||interior|||||||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 indium|mate|In||indium||indium|||||||||||||indio|indium|ind
-indo||||inward||hacia adentro|||||||||||||||
 indojeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 indomisa||||import||importar|||||||||||||||
 indoname||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|
@@ -1431,7 +1429,6 @@ le||||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|
 lefte|||eng:left|left||lado izquerdo||||||||||||||vasen|lewa strona
 lefti||||left hand||izquierdo|||||||||||||||
 leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
-lefto||||leftward||a la izquerda|||||||||||||||
 lekin|||ara: لكن (lākin), hin:लेकिन (lekin), swa:lakini|however||sin embargo|||||||||||||tamen|kuitenkin|
 leksaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|
 lekse||||word|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
@@ -2205,8 +2202,8 @@ radon|mate|Rn||radon||radón|||||||||||||radono|radon|radon
 raite|||eng:right|right hand side||lado derecho||||||||||||||oikea puoli|prawa strona
 raiti||||right hand||derecho|||||||||||||||
 raitiste||||rightist (right-winger)||derechista||||||||||||||oikeistolainen|prawicowiec (prawak)
-raito||||rightward||a la derecha|||||||||||||||
-raitolefti||||horizontal (lateral)||horizontal|||||||||||||||
+horizoni|eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|||horizontal (lateral)||horizontal|||||||||||||||
+horizone||||horizon||horizonte|||||||||||||||
 rajer||||king or queen||rey o reina|||||||||||||reĝo aŭ reĝino|monarkki (kuningas, kuningatar)|król lub królowa
 raji||||royal||real (de realtad)||||||||||||||kuninkaallinen|królewski
 rajia|||hin:राज्य (rājya), ben:রাজ্য (rajyô)|kingdom||reino||||||||||||||kuningaskunta|królestwo
@@ -2258,7 +2255,7 @@ restoran||||restaurant||restaurante|||||||||||||restaŭracio|ravintola|restaurac
 restu||||remain (stay)||quedarse||||||||||||||jäädä jäljelle|zostać, zostawać
 retra||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
 retre||||return (way back)||vuelta|||||||||||||reiro|paluu|
-retro||||backward||al revés|||||||||||||||
+retro||||backward (in reverse)||al revés|||||||||||||||
 retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|
 reunion|dex|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||
@@ -2569,7 +2566,6 @@ tala||||lower (put down)||bajar|||||||||||||||
 tale||||bottom||fondo||||||||||||||pohja|dół, spód
 tali||||low||bajo|||||||||||||||
 talium|mate|Tl||thallium||talio|||||||||||||talio|tallium|tal
-talo||||down||abajo|||||||||||||||
 talolada||||download||descargar|||||||||||||||
 tamare|||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl
 gume|||swa:sna:kon:ngoma, nya:ng'oma, + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
@@ -2623,8 +2619,8 @@ tenu||||belong|appartenir à|ser de||принадлежать||属于|||||||||ap
 teoria||||theory||teoría|||||||||||||teorio|teoria|teoria
 tepe|||eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|tape|ruban (bande)|cinta adhesiva||лента|||||||||||bendo|teippi (nauha)|taśma
 terbium|mate|Tb||terbium||terbio|||||||||||||terbio||terb
-terka||||tilt (skew)||inclinar|||||||||||||||
-terki|spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|||oblique (askew, tilted)|oblique (de travers)|oblicuo (torcido)|oblíquo (torto)|косой||斜的|斜め||||||||||
+terca||||tilt (skew)||inclinar|||||||||||||||
+terci|spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|||oblique (askew, tilted)|oblique (de travers)|oblicuo (torcido)|oblíquo (torto)|косой||斜的|斜め||||||||||
 terme|||deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|temperature||temperatura||||||||||||||lämpötila|temperatura
 termometer||||thermometer||termómetro|||||||||||||termometro|lämpömittari|termometr
 tero-||||tera-||tera-||||||||||||||tera-|
@@ -2806,7 +2802,6 @@ waxomaxin||||washing machine||lavadora||стиральная машина|||||||
 waya||||be outside of (go outside)||estar fuera de|||||||||||||||
 waye|||zho:外 (wài)|outside (exterior)||fuera (exterior)|||||||||||||ekstero|ulkopuoli|zęwnętrzny
 wayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-wayo||||outward||hacia afuera|||||||||||||||
 wayodexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
 wayodexia||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
 wayomisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|
