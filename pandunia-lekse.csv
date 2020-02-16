@@ -762,10 +762,10 @@ galte|||ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğal
 galti||||wrong (incorrect, erroneous, faulty)|erroné|erróneo|errôneo|||||||ग़लत||||yanlış|erara|väärä (virheellinen)|
 galto buda||||misunderstand||malinterpretar||||||||ग़लत समझना||||||ymmärtää väärin|
 gambia|dex|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
-gamel||||camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
+gamele||||camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gana||||dry out||secar||||||||||||||kuivata (kuivattaa)|
 gandia|dex|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
-gang||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
+novo||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
 ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
 gani|||zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|dry||seco (árido)|||||||||||||seka|kuiva|suchy
 gania|dex|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
@@ -775,9 +775,9 @@ ganya|||fra:gagner, por:ganhar, spa:ganar, eng:gain|earn (gain)||ganar (cobrar)|
 garante||||guarantee (warranty)||garantía|||||||||||||garantio|takuu|gwarancja
 garda||||guard (watch)||vigilar (guardar)|||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
 garder|||eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|guardian (watchman)||vigilante (guardia)|||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
-gare|||eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|car (cart, carriage, wagon, automobile)||coche (carruaje, auto, vagón)|||||||||||||aŭto (ĉaro)|kärry (vaunu, auto, jne)|wóz, wózek
+gare|||hin:गाड़ी (gāṛī), swa:gari, fas:(gâri), eng:car, por:spa:carro, deu:Karre, tel:(kāru)|car (cart, carriage, wagon, automobile)||coche (carruaje, auto, vagón)|||||||||||||aŭto (ĉaro)|kärry (vaunu, auto, jne)|wóz, wózek
 garmi|||hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|warm (hot)||caliente (cálido)|||||||||||||varma|lämmin|ciepły
-garmi masal||||garam masala||garam masala||||||||||||||garam masala|garam masala
+garmi masale||||garam masala||garam masala||||||||||||||garam masala|garam masala
 garoparke||||car park (parking lot)||estacionamiento (aparcamiento)||||||||||||||parkkipaikka|parking
 gase|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|gaz|gas|gás|газ||||||गैस||gas||gaz|gaso|kaasu|gaz
 gasi||||gaseous||gaseoso||||||||||||||kaasumainen|
@@ -826,7 +826,7 @@ grame|unomete|g||gram (g)||gramo (g)|||||||||||||gramo|gramma|gram
 grase|||eng:grass, hin:घास (ghās)|grass||césped (hierba)|||||||||||||herbo|ruoho|trawa
 grenadia|dex|GD||Grenada||Granada||||||||||||||Grenada|Grenada
 grenadin||||the Grenadines||Granadinas|||||||||||||||
-grimas||||grimace||mueca|||||||||||||grimaco|irvistys|grymas
+grimase|||eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)|grimace|grimace|mueca|careta (esgar)|гримаса||鬼脸|||||||||grimaco|irvistys|grymas
 grome|||rus:гром (grom), pol:grom|thunder (roaring)||truenos (estruendo)||гром|||||||||||tondro|jyrinä (ukkonen)|grom, huk
 gromotufane||||thunderstorm||tormenta||||||||||||||ukkosmyrsky|
 grosi|||fra:gros, por:grosso, spa:grueso|thick||grueso||||||||||||||paksu|gruby
@@ -860,7 +860,7 @@ habare|||ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar)
 habarogazete||||newspaper (gazette)||periódico (diario)|||||||||||||gazeto|sanomalehti|gazeta
 habaxi||||Abyssinian||abisinio||||||||||||||abyssinialainen|
 habaxia||||Abyssinia||Abisinia||||||||||||||abyssinia|
-hafiza|||ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|preserve (conserve, retain, spare)||conservar (preservar, mantener)||||||||||||||säilyttää (varjella, säästää)|zachować, zakonserwować, zachować, utrzymać
+hafiza|||ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza, hin:हाफ़िज़ (hāfīz)|keep (preserve, conserve, retain, spare)||conservar (preservar, mantener)||||||||||||||säilyttää (varjella, säästää)|zachować, zakonserwować, zachować, utrzymać
 hafizer||||keeper (preserver)||guarda (preservador, conservador)||||||||||||||säilyttäjä|przechowawca, kustosz, opiekun
 hafnium|mate|Hf||hafnium||hafnio|||||||||||||hafnio|hafnium|hafn
 haha|||eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|laugh|rire|reír|rir|смеяться||笑|笑う|웃다|cười|हँसना|হাসা|tawa|kuseka|gülmek|ridi|nauraa|śmiać się
@@ -1272,8 +1272,9 @@ kode||||code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
 koke|||spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|coca||coca||||||||||||||kooka|koka
 kokode|||fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|chicken||pollo|||||||||||||koko|kana|kura, kogut, kurczak
 kokos nesia|dex|CC||Cocos (Keeling) Islands||Islas Cocos (Islas Keeling)||||||||||||||Kookossaaret|Wyspy Kokosowe
-kola||||cola||cola (refresco de cola)||||||||||||||cola|kola, napój gazowany
-koler||||cholera||cólera||||||||||||||kolera|cholera
+kokokole||||Coca-Cola|||||||||||||||||
+kole||||cola||cola (refresco de cola)||||||||||||||cola|kola, napój gazowany
+holere||||cholera||cólera||||||||||||||kolera|cholera
 kolombia|dex|CO||Colombia||Colombia||||||||||||||Kolumbia|Kolumbia
 kolona||||colonize||colonizar||||||||||||||kolonisoida|kolonizować
 koloner||||colonist||colono||||||||||||||kolonialisti|kolonizator
@@ -2927,3 +2928,4 @@ zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족�
 zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|zuluh
 zuli||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|
