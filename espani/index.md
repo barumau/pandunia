@@ -28,7 +28,7 @@ Algunas características notables de Pandunia:
 
 <!-- - [Gramática](kanun.md) -->
 
-- Diccionario [Español-Pandunia](espani-panduni.md)
+- Diccionario [Español-Pandunia](espani-pandunia.md)
 - Diccionario [Pandunia-Español](pandunia-espani.md)
 - [Diccionario con buscador](tiddly.html) (en inglés)
 
