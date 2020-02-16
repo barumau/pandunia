@@ -223,7 +223,7 @@ Chiny - jungogia
 chleb - pang (pange)  
 chlor - klore  
 chmura - megame  
-cholera - koler  
+cholera - holere  
 chordofon, instrument strunowy - ticin  
 choroba - patia  
 Chorwacja - horvatia  
@@ -370,6 +370,7 @@ dyskusja, debata, dyskurs - lone
 dyskutoać, twierdzić - tesa  
 dysproz - disprosium  
 dystans - tele  
+dystans - telia  
 dzban, dzbanek; słój, słoik - jare  
 działanie (zachowanie, karma) - karme  
 działka (teren) - lote  
@@ -485,7 +486,7 @@ galaktyka - galaksia
 galeria, sala wystawowa - galeria  
 Gambia - gambia  
 Ganges - ganga  
-garam masala - garmi masal  
+garam masala - garmi masale  
 gardzić (pogardzać) - paraya  
 gatunek - jonge  
 gaz - gase  
@@ -533,7 +534,7 @@ grudzień - mes 9 (mes naw)
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 gruszka - leze  
-grymas - grimas  
+grymas - grimase  
 grzebień - kange  
 grzyb - funge  
 grób, mogiła, grobowiec - gabre  
@@ -777,7 +778,7 @@ kod, szyfr - kode
 kodować - koda  
 koka - koke  
 kokos - yeze  
-kola, napój gazowany - kola  
+kola, napój gazowany - kole  
 kolacja - xamoniame  
 kolano - gute  
 kolec - dinge  
@@ -1625,7 +1626,7 @@ przeszkodzić, przeszkadzać, robić kłopot - mafana
 przeszłość - pase  
 przeszły, miniony - pasi  
 przetłumaczyć, tłumaczyć, interpretować - tarja  
-przeziębienie, katar - zukam  
+przeziębienie, katar - zukame  
 przeznaczenie, los - destine  
 przeznaczyć - destina  
 przeźroczysty, jasny - klari  
@@ -2223,7 +2224,7 @@ wiedza - jane
 wiedzieć - jana  
 wiejski, rustykalny - rusti  
 wiek - umure  
-wielbłąd, wielbłądzica - gamel  
+wielbłąd, wielbłądzica - gamele  
 wiele - pol  
 Wielkanoc - paske  
 wielo- (poli-, multi-) - poli  
@@ -2276,7 +2277,7 @@ wołowina - muhomanse
 wrzesień - mes 6 (mes sis)  
 wrócić, wracać, wycofać się, wycofywać się - retra  
 wsad, partia, porcja, seria - lote  
-wschód - dong  
+wschód - donge  
 wskazać, wskazywać - ponta  
 wskaźnik - ponter  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
@@ -2336,7 +2337,7 @@ władca - sultaner
 własność (mienie) - malke  
 właściciel (posiadacz) - malker  
 właściwy, poprawny - sahi  
-właśnie, dopiero co, ostatnio, niedawno - gang  
+właśnie, dopiero co, ostatnio, niedawno - novo  
 włos - kexe  
 ##x
 ##y

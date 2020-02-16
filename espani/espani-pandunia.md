@@ -25,7 +25,7 @@ aceituna - zaitune
 acento - aksente  
 aceptar - okeya  
 achís - aciy  
-aclarar (clarificar) - klari  
+aclarar (clarificar) - klara  
 acontecimiento (caso, suceso, evento) - kase  
 acordar - samoraya  
 acordarse - mema  
@@ -39,6 +39,7 @@ acuario (pecera) - fixotanke
 acuerdo - samoraye  
 acuoso - suyi  
 acá (aquí) - sa ye  
+adelante - jino  
 además (más) - plus (pluso)  
 adicional (extra) - maxi  
 adiós - salam cute  
@@ -65,12 +66,13 @@ agua mineral - kuani
 aguacate - awakate  
 agujero (hueco) - konge  
 ahora (actualmente) - zay (zayi)  
-ahora mismo (justo) - gang  
+ahora mismo (justo) - novo  
 ahorrar (reservar, depositar) - banka  
 aire - aire  
 ajedrez - xatranje  
 ajo - lasune  
 ajonjolí (sésamo) - sesam  
+al revés - retro  
 ala - winge  
 alargar - longa  
 Alaska - alaskia  
@@ -99,7 +101,9 @@ alquilar - kirisa
 alquiler - kire  
 altar - altare  
 alternar (interactuar) - soca  
+alto (parte de arriba) - gawe  
 alto - gawi  
+altura (altitud) - gawia  
 aluminio - alumin  
 aló - halow  
 alófono - alofone  
@@ -227,7 +231,7 @@ aventura - aventure
 aventurero - aventurer  
 avisar (notificar) - notisa  
 aviso (notificación) - notise  
-axproximarse - karibu  
+axproximarse - kariba  
 ay! - ay  
 ayer - predoden  
 ayuda (asistencia) - helpe  
@@ -248,6 +252,8 @@ Bahamas - bahamia
 bahaísmo (fe bahá'i) - bahayistia  
 bahá'í - bahayiste  
 baile (danza) - danse  
+bajar - tala  
+bajo - tali  
 balcón - balkone  
 balde (cubo) - balde  
 balle (boule) - bol (bole)  
@@ -397,7 +403,7 @@ cama - bede
 cambiar - muta  
 cambio climático - klimomute  
 Camboya - kambudia  
-camello - gamel  
+camello - gamele  
 Camerún - kamerunia  
 caminar (marchar, andar) - marca  
 camino (calle) - daw (dawe)  
@@ -427,6 +433,7 @@ cararés - karnadi
 caravana - karvane  
 carbón - karbone  
 carcelero - prizoner  
+cargar (subir) - gawolada  
 cargar - lada  
 cargo - ofise  
 Caribe - karaibia  
@@ -464,6 +471,7 @@ cemento - semente
 cena - xamoniame  
 ceniza - huye  
 centi- (por ciento) - cent-  
+central - jungi  
 centrar (concentrar) - junga  
 centrarse (en el centro de) - jungu  
 centro - junge  
@@ -526,7 +534,7 @@ civilización - sivilia
 civilizado - sivili  
 ciénaga (pantano) - potistan  
 claro (luminoso) - nuri  
-claro - klara  
+claro - klari  
 clarín (corneta) - buge  
 clasificar - klase  
 clavo (pincho, punta) - dinge  
@@ -552,7 +560,7 @@ codificar (cifrar) - koda
 cohete (misil) - rokete  
 col china - bakocoy  
 cola (rabo) - dume  
-cola (refresco de cola) - kola  
+cola (refresco de cola) - kole  
 colchón - matras  
 colección (grupo, conjunto, montón) - jamia  
 colectivo - jami  
@@ -614,7 +622,7 @@ congelar (helar) - aisu
 congoleño - kongoli  
 cono - konuse  
 conocido - jani  
-consecuencia - bade  
+consecuencia (dorso) - bade  
 conseguir (obtener, recibir) - geta  
 consejero (asesor) - menter  
 consejo - mente  
@@ -624,6 +632,7 @@ considerar (reflexionar) - hema
 consonante - konson  
 constitución - bazokanun  
 construir (edificar) - bina  
+contener - inda  
 contenido - tene  
 continuar (reanudar) - kontinu  
 contrario (opuesto) - anti  
@@ -681,6 +690,7 @@ cromo - kromium
 cronómetro - sekundometer  
 crucificar - krusofiksa  
 cruz - kruse  
+cruzar - krusa  
 cráneo (calavera) - saroste  
 crítico (fundamental) - krizi  
 crítico - pipinger  
@@ -721,7 +731,7 @@ césped (hierba) - grase
 círculo - cirke  
 cítrico - migane  
 código (cifra) - kode  
-cólera - koler  
+cólera - holere  
 cómo - ko?  
 cómo? (eh?) - he  
 cómodo (lujoso) - kuxi  
@@ -742,6 +752,7 @@ daño - damaje
 de (desde) - ca  
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
+de lado - lato  
 de lo contrario (si no) - alo  
 debajo (estar debajo) - nica  
 debatir (discutir) - lone  
@@ -757,9 +768,9 @@ defender - defa
 defensa - defe  
 defensor - defer  
 definir - sifa  
+degradar - darjomala  
 dejar - laxa  
 dejar caer - pada  
-del oeste (occidental) - westi  
 delicioso - niami  
 demasiado - max ko bas  
 demasiado poco - min ko bas  
@@ -775,6 +786,7 @@ deporte - kele
 deportista - keler  
 derechista - raitiste  
 derecho - hake  
+derecho - raiti  
 derechos de autor (copyright) - kopiyohake  
 derechos humanos - insani hake  
 desacuerdo - aloraye  
@@ -782,6 +794,7 @@ desarrollo - fajan
 desatascar - tapula  
 desayuno - suboniam  
 descanso (alivio) - xuxe  
+descargar - talolada  
 descriptivo - sifi  
 deseo - wane  
 desierto - registan  
@@ -810,6 +823,7 @@ dinero (plata) - pese
 dios - dew (dewe)  
 dirección - adrese  
 dirección - dixe  
+directamente - dixo  
 director de colegio - darsoxef  
 dirigente (líder) - lider  
 dirigir (gestionar, administrar) - noma  
@@ -820,7 +834,7 @@ disentir (no estar de acuerdo) - aloraya
 disionario (lexicón) - leksoliste  
 dispersar (esparcir, desmontar) - jamula  
 disprosio - disprosium  
-distancia - tele  
+distancia - telia  
 distintos (diversos) - balibali  
 diversión - fana  
 divertido - fani  
@@ -914,6 +928,9 @@ emperador - imperer
 emplear (aplicar) - aplika  
 empresario - bizneser  
 empujar (presionar) - puxa  
+en el sentido contrario al las agujas del reloj - antorelojodixo  
+en el sentido del las agujas del reloj - relojodixo  
+encanto - carme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
 encontrarse (estar, situarse) - loku  
@@ -931,6 +948,7 @@ ensayo (ejercitio) - lenxe
 ensayo (redacción) - esey  
 entender (comprender) - aha  
 entero (todo) - holi  
+entrada - jinomun  
 entre - medu  
 enviar (transmitar) - misa  
 envoltura - lifafe  
@@ -995,6 +1013,7 @@ estadio (arena) - estadia
 estado (condición) - hale  
 Estados Unidos de América - usamerikia  
 estadounidense - usameriki  
+estar al lado de - lata  
 estar de pie - libu  
 estar en contra - kontra  
 estaño - estane  
@@ -1099,6 +1118,7 @@ Francia - fransia
 francio - fransium  
 frecuencia - cangia  
 frecuentemente - cango  
+frente - prede  
 fresco - tazi  
 fresno - yasene  
 frontera (límite, borde, periferia) - kenare  
@@ -1140,7 +1160,7 @@ Gambia - gambia
 ganar (cobrar) - ganya  
 ganar (derrotar) - wina  
 Ganges - ganga  
-garam masala - garmi masal  
+garam masala - garmi masale  
 garantía - garante  
 garbanzo - humuse  
 garlopa - rander  
@@ -1302,6 +1322,8 @@ Honduras - hondurasia
 Hong Kong - hongong  
 hongo - funge  
 hora - hore  
+horizontal - horizoni  
+horizonte - horizone  
 hormigo - maye  
 hormona - hormon  
 hornacina - nixe  
@@ -1356,6 +1378,7 @@ importar - hamu
 importar - indomisa  
 imprimir - capa  
 imán - mangete  
+inclinar - terca  
 India - bartia  
 indicador (cursor) - ponter  
 indio (hindú) - barti  
@@ -1436,6 +1459,7 @@ Italia - italia
 iterbio - yuterbium  
 itrio - yutrium  
 izquerdista - leftiste  
+izquierdo - lefti  
 ##j
 jabón - sabune  
 jade - yuke  
@@ -1514,6 +1538,7 @@ largo - longi
 larva - larve  
 lasaña - lazanye  
 lateral - lati  
+latitud - sudonordia  
 laurencio - laurensium  
 lavadora - waxomaxin  
 lavar - waxa  
@@ -1524,6 +1549,8 @@ leer - duga
 legumbre (frijol o arveja) - dowe  
 lejano (lejos) - teli  
 lengua (idioma) - baxe  
+lengua - lisane  
+lengua materna - jeni baxe  
 lengua mundial - dunia bax  
 lento (despacio) - lenti  
 Lesoto - sotowia  
@@ -1577,12 +1604,14 @@ llorar - duka
 llorar - kuga  
 lluvia - barxe  
 lluvioso (pluvioso) - barxi  
+lo lejos - tele  
 lo menos - minim (minimo)  
 lo más - maxim (maximo)  
 lobo - wolfe  
 local - loki  
 lodo (barro, fango) - pote  
 logical - logiki  
+longitud - westodongia  
 loro (papagayo) - papagaye  
 lote (grupo) - lote  
 luchador (guerrero) - jenger  
@@ -1699,6 +1728,7 @@ medusa - samudojel
 mega- - mego-  
 megavatio - megowate  
 meitnerio - maitnerium  
+mejorar - darjobona  
 melodioso - melodi  
 melodía - melodia  
 memoria - meme  
@@ -1802,7 +1832,7 @@ Mozambique - mozambikia
 mucho - poli  
 muchos - multi  
 mudar (transferir, traspasar, trasladar) - kina  
-mueca - grimas  
+mueca - grimase  
 muerte (fallecimiento) - morte  
 muerto - morti  
 mujer (hembra) - feme (fem)  
@@ -1819,6 +1849,7 @@ Myanmar (Birmania) - mianmia
 máquina - maxine  
 máquina de escribir - kitabomaxin  
 más tarde - bado  
+más temprano (antes) - predo  
 máscara - maske  
 mástil - maste  
 máximo - maxime  
@@ -1919,6 +1950,8 @@ o - o
 ##o
 oasis - wase  
 objetivo - dike  
+oblicuo (torcido) - terci  
+occidental - westi  
 Oceanía - oseania  
 ocho (8) - bal  
 octubre - mes 10 (mes des)  
@@ -1955,6 +1988,7 @@ ordinario (habitual) - adi
 oreja - ore  
 orfanato - yatimodom  
 orgasmo - orgazme  
+oriental - dongi  
 origen - asle  
 original - asli  
 orilla (ribera) - tate  
@@ -2239,6 +2273,7 @@ pronunciar (articular) - fona
 propiedad - malke  
 proponente (defensor, -ista) - iste  
 proteger (asegurar, guardar) - sekura  
+proximidad - karibe  
 proyección - lancografe  
 proyectar - lancografa  
 proyecto - projete  
@@ -2364,7 +2399,7 @@ República del Congo - brazavili kongolia
 República Democrática del Congo - kinsasi kongolia  
 República Árabe Saharaui Democrática - sahrawia  
 reservar - rezerva  
-resfriado (catarro) - zukam  
+resfriado (catarro) - zukame  
 resina - rezine  
 respetable (honorable) - onori  
 respeto (honor) - onor  
@@ -2524,7 +2559,7 @@ Sierra Leona - salonia
 siete (7) - sem  
 significado (acepción) - mene  
 significar - mena  
-siguiente - badi  
+siguiente (trasero) - badi  
 sij - sikiste  
 sijismo - sikistia  
 silencioso - xixi  
@@ -2600,6 +2635,7 @@ suministrar (dar, proveer, emitir) - fada
 sumisión (rendición) - islame  
 superior (más alto) - supri  
 sur - sude  
+sureño - sudi  
 surgéncia (propuesta) - suje  
 Surinam - surinamia  
 sushi - suxe  
@@ -2839,6 +2875,7 @@ verduras - coye
 vergüenza (pena) - xarme  
 verme - verme  
 versión (modelo) - version  
+vertical - gawotali  
 vestigio (sobrante, residuo) - laxe  
 vez - ban (bane)  
 viajar - safara  
@@ -2931,7 +2968,7 @@ zulú - zuli
 ástato - astatin  
 átomo - atome  
 él o ella - le  
-éste - dong  
+éste - donge  
 ética (filosofía moral) - darmoloji  
 étnico - zuki  
 índice de contenidos - tenoliste  

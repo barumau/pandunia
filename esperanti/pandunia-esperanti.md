@@ -354,7 +354,7 @@ domi - hejma
 domu - loĝi  
 dona - doni  
 done - donaco  
-dong - oriento  
+donge - oriento  
 doste - amiko  
 dosti - amika  
 dostia - amikeco  
@@ -531,8 +531,7 @@ galeria - galerio (ekspozicio)
 galium - galiumo  
 galte - eraro (miso)  
 galti - erara  
-gamel - kamelo  
-gang - ĵus  
+gamele - kamelo  
 ganga - Gangoj  
 gani - seka  
 ganje - kanabo  
@@ -571,7 +570,7 @@ grafe - bildo (desegnaĵo)
 grafi - grafika (bilda)  
 grame - gramo  
 grase - herbo  
-grimas - grimaco  
+grimase - grimaco  
 grome - tondro  
 grupe - grupo  
 guanxe - rilato  
@@ -721,6 +720,7 @@ jena - naskigi
 jene - nasko  
 jeng - milito (batalo)  
 jengi - milita  
+jeni baxe - hejmlingvo  
 jenoden - naskiĝtago  
 jentili - bonkora  
 jenu - naski  
@@ -824,6 +824,7 @@ kitabomaxin - tajpilo
 kiwe - kivo  
 klara - klarigi  
 klari - klara  
+klaro - kompreneble  
 klime - klimato  
 klimolojia - klimatscienco  
 klona - kloni  
@@ -920,6 +921,7 @@ lim - kvin (5)
 limone - citrono  
 limonorangi - flava  
 linye - lineo  
+lisane - lango  
 lisi - glata  
 liste - listo  
 litium - litio  
@@ -1117,6 +1119,7 @@ nota - rimarki
 note - noto (rimarko, komento)  
 notobuke - kajero  
 novi - nova  
+novo - ĵus  
 nure - lumo  
 nuri - luma  
 nurobaton - torĉo  
@@ -1434,6 +1437,7 @@ tehnetium - teknecio
 tehnolojia - teknologio  
 tele - malproksimeco  
 teli - malproksima  
+telia - malproksimeco  
 telofone - telefono  
 telovide - televidilo  
 telurium - teluro  

@@ -1,7 +1,7 @@
 
 ![](http://www.pandunia.info/bandir/bandir.png "bandir da pandunia")
 
-#pandunia - egal dunia bax
+#pandunia - multokulturi baxe
 
 #### [pandunia](pandunia/index.md) ![](http://pandunia.info/bandir/qpn.svg "pd") 🌎🌍🌏
 

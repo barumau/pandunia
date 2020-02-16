@@ -101,6 +101,7 @@ buke - книга
 ca - из (от)  
 camace - ложка  
 canse - возможность (шанс)  
+carme - шарм  
 cay (caye) - чай  
 cayokupe - чайная чашка  
 cerni - чёрный  
@@ -153,6 +154,7 @@ gemer - игрок (геймер)
 gitare - гитара  
 gole - цель  
 gotone - хлопок  
+grimase - гримаса  
 grome - гром  
 grupe - группа  
 gula - глотать  
@@ -189,6 +191,7 @@ ive - тенденция
 ##j
 jana - знать  
 je - который  
+jeni baxe - родной язык  
 jenotipe - генотип  
 jinse - род  
 jirafe - жираф  
@@ -258,6 +261,7 @@ libele - стрекоза
 lider - руководитель (лидер)  
 lil (lili) - маленький (малый)  
 limone - лимон  
+lisane - язык  
 liste - список  
 loga - говорить  
 loka - ставить  
@@ -428,6 +432,7 @@ tena - иметь
 tenke - погода  
 tenu - принадлежать  
 tepe - лента  
+terci - косой  
 teroristia - терроризм  
 tese - довод  
 teste - проба (тест)  

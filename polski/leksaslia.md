@@ -188,7 +188,7 @@
 |**dokume**|dokument|eng:fra:document, rus:документ (dokument)|
 |**dom (dome)**|dom, mieszkanie|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |**dona**|dać, dawać|eng:dan:give, deu:geben, zho:给 (gěi)|
-|**dong**|wschód|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|
+|**donge**|wschód|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong)|
 |**doste**|przyjaciel|tur:dost, hin:दोस्त (dost), guj:દોસ્ત (dost), urd:(dost), fas:(dust)|
 |**dotore**|doktor (uczony, który osiągnął doktorat)|por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)|
 |**doxe**|wina, grzech; defekt, wada|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
@@ -270,7 +270,7 @@
 |**ganoputaw**|rodzynka|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
 |**ganya**|zyskać, zyskiwać, zarobić, zarabiać|fra:gagner, por:ganhar, spa:ganar, eng:gain|
 |**garder**|strażnik, ochroniarz|eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|
-|**gare**|wóz, wózek|eng:car, por:spa:carro, deu:Karre, tel:(kāru), + hin:गाड़ी (gāṛī), swa:gari|
+|**gare**|wóz, wózek|hin:गाड़ी (gāṛī), swa:gari, fas:(gâri), eng:car, por:spa:carro, deu:Karre, tel:(kāru)|
 |**garmi**|ciepły|hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|
 |**gase**|gaz|deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|
 |**gawi**|wysoki|zho:高 (gāo), vie:cao|
@@ -289,6 +289,7 @@
 |**gotone**|bawełna|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |**grafe**|opis, przedstawienie; wykres|eng:graphic, fra:graphique|
 |**grase**|trawa|eng:grass, hin:घास (ghās)|
+|**grimase**|grymas|eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)|
 |**grome**|grom, huk|rus:гром (grom), pol:grom|
 |**grosi**|gruby|fra:gros, por:grosso, spa:grueso|
 |**grupe**|grupa|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
@@ -305,7 +306,7 @@
 |**gute**|kolano|swa:goti, guj:ઘૂંટણ (ghū̃ṭaṇ), Hin:घुटना (ghuṭnā), mar:गुडघा (guḍghā)|
 |**guye**|ogr (trol, goblin)|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |**habare**|wiadomość, nius|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|
-|**hafiza**|zachować, zakonserwować, zachować, utrzymać|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza|
+|**hafiza**|zachować, zakonserwować, zachować, utrzymać|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza, hin:हाफ़िज़ (hāfīz)|
 |**haha**|śmiać się|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |**haime**|namiot|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hake**|prawo, przywilej|ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|

@@ -355,6 +355,7 @@ capa - painaa (leimata)
 capate - chapati  
 cape - painos (leima)  
 car - neljä (4)  
+carme - vetovoima (šarmi)  
 carogone - neliö  
 cate - katto (katos)  
 cay (caye) - tee  
@@ -500,7 +501,7 @@ dominogem - dominopeli
 domu - asua  
 dona - antaa  
 done - lahja  
-dong - itä  
+donge - itä  
 dongi timoria - Itä-Timor  
 doste - ystävä (kaveri)  
 dosti - ystävällinen  
@@ -741,10 +742,9 @@ galte - virhe (erhe)
 galti - väärä (virheellinen)  
 galto buda - ymmärtää väärin  
 gambia - Gambia  
-gamel - kameli  
+gamele - kameli  
 gana - kuivata (kuivattaa)  
 gandia - Uganda  
-gang - äsken (vasta, juuri)  
 ganga - Ganges  
 gani - kuiva  
 gania - Ghana  
@@ -756,7 +756,7 @@ garda - vartioida (vahtia)
 garder - vartija (vahti)  
 gare - kärry (vaunu, auto, jne)  
 garmi - lämmin  
-garmi masal - garam masala  
+garmi masale - garam masala  
 garoparke - parkkipaikka  
 gase - kaasu  
 gasi - kaasumainen  
@@ -801,7 +801,7 @@ grafobuke - kuvakirja
 grame - gramma  
 grase - ruoho  
 grenadia - Grenada  
-grimas - irvistys  
+grimase - irvistys  
 grome - jyrinä (ukkonen)  
 gromotufane - ukkosmyrsky  
 grosi - paksu  
@@ -918,6 +918,7 @@ historer - historioitsija
 historia - historia (oppiaine)  
 hobe - harrastus  
 hoke - hockey (jääkiekko)  
+holere - kolera  
 holi - koko (kokonainen)  
 holmium - holmium  
 holograme - hologrammi  
@@ -1037,6 +1038,7 @@ jeng - taistelu (sota)
 jenger - soturi (taistelija)  
 jengi - sotilaallinen  
 jengoxute - kamppailulaji  
+jeni baxe - äidinkieli  
 jenoden - syntymäpäivä  
 jenoklas - sääty (kasti)  
 jenotipe - perimä (genotyyppi)  
@@ -1133,9 +1135,9 @@ karawe - kumina
 karbone - hiili  
 karbonodulokside - hiilidioksidi  
 karde - kortti  
+kariba - lähestyä  
 karibi - läheinen  
 karibo - lähes (melkein)  
-karibu - lähestyä  
 karimi - vieraanvarainen (antelias, hyväntahtoinen)  
 karimia - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karite - voipuu  
@@ -1215,6 +1217,7 @@ kitaborupe - tekstin muotoilu
 kiwe - kiivi  
 klara - selkeyttää (selittää)  
 klari - selvä (selkeä)  
+klaro - tietysti (selvästi)  
 klasa - luokitella (kategorisoida)  
 klase - luokka (kategoria)  
 klime - ilmasto  
@@ -1233,8 +1236,7 @@ kode - koodi
 koke - kooka  
 kokode - kana  
 kokos nesia - Kookossaaret  
-kola - cola  
-koler - kolera  
+kole - cola  
 kolombia - Kolumbia  
 kolona - kolonisoida  
 koloner - kolonialisti  
@@ -1411,6 +1413,7 @@ limonorangi - keltainen
 linfe - lymfa  
 linye - viiva (linja)  
 linyoparce - rivinvaihto  
+lisane - kieli (elin)  
 lisi - sileä  
 liste - lista (luettelo)  
 litium - litium  
@@ -1839,6 +1842,7 @@ nova - uudistaa
 novi - uusi  
 novi kaledonia - Uusi-Kaledonia  
 novi zilandia - Uusi-Seelanti  
+novo - äsken (vasta, juuri)  
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
@@ -2465,6 +2469,7 @@ tehnokratia - teknokratia
 tehnolojia - tekniikka (teknologia)  
 tele - etäisyys (kaukaisuus)  
 teli - kaukainen  
+telia - etäisyys (kaukaisuus)  
 telofone - puhelin  
 telovide - televisio  
 telugi - telugu (eräs intialainen kieli)  
@@ -2802,7 +2807,7 @@ zirkonium - zirkonium
 ziza - sihistä  
 zombe - zombi  
 zone - vyö  
-zukam - vilustuminen  
+zukame - vilustuminen  
 zuke - kansanryhmä (etninen ryhmä)  
 zuki - etninen  
 zukomedi - kansanryhmien välinen  

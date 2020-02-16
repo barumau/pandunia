@@ -171,7 +171,7 @@
 |**diske**|disko|angla:turka:disk, franca:disque, hispana:portugala:disco, rusa:диск (disk), hindia:डिस्क (ḍisk), bengala:ডিস্ক (ḑisk), japana:ディスク (disuku), korea:디스크 (diseukeu)|
 |**dom (dome)**|hejmo (loĝejo)|rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico|
 |**dona**|doni|angla:dan:give, deu:geben, mandarena:给 (gěi)|
-|**dong**|oriento|mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong)|
+|**donge**|oriento|mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong)|
 |**doste**|amiko|turka:dost, hindia:दोस्त (dost), guĝarata:દોસ્ત (dost), urdua:(dost), persa:(dust)|
 |**dotore**|doktoro|portugala:doutor, itala:dottore, angla:hispana:doctor, rusa:доктор (doktor)|
 |**doxe**|kulpo|malaja:dosa, hindia:दोष (doś), taja:โทษ (toot(sa))|
@@ -240,7 +240,7 @@
 |**ganoputaw**|sekvinbero|korea:건포도 (geonpodo), mandarena:葡萄干 (pútáogān)|
 |**ganya**|akiri (gajni)|franca:gagner, portugala:ganhar, hispana:ganar, angla:gain|
 |**garder**|gardisto|angla:guard, franca:garde, hispana:portugala:guarda, japana:ガード (gādo), korea:가드 (gadeu)|
-|**gare**|aŭto (ĉaro)|angla:car, portugala:hispana:carro, deu:Karre, teluga:(kāru), + hindia:गाड़ी (gāṛī), svahila:gari|
+|**gare**|aŭto (ĉaro)|hindia:गाड़ी (gāṛī), svahila:gari, persa:(gâri), angla:car, portugala:hispana:carro, deu:Karre, teluga:(kāru)|
 |**garmi**|varma|hindia:गरम (garm), urdua:persa:گرم‎‎ (garm), kur:germ, deu:angla:warm|
 |**gase**|gaso|deu:angla:hispana:malaja:gas, portugala:gás, bengala:গ্যাস (gyas), japana:ガス (gasu), korea:가스 (gaseu), hindia:गैस (gais), franca:turka:gaz, rusa:газ (gaz), araba:(ḡāz)|
 |**gati**|malmola|teluga:గట్టి (gaṭṭi), turka:katı, hindia:कड़ा (kaṛā), japana:硬い (katai)|
@@ -259,6 +259,7 @@
 |**gotone**|kotono|araba:(quṭun), hispana:algodón, portugala:algodão, franca:coton, angla:cotton|
 |**grafe**|bildo (desegnaĵo)|angla:graphic, franca:graphique|
 |**grase**|herbo|angla:grass, hindia:घास (ghās)|
+|**grimase**|grimaco|angla:franca:grimace, deu:Grimasse, rusa:гримаса (grimasa)|
 |**grome**|tondro|rusa:гром (grom), polona:grom|
 |**grupe**|grupo|deu:Gruppe, franca:groupe, angla:group, hispana:portugala:grupo, rusa:группа (gruppa), korea:그룹 (geurup), japana:グループ (gurūpu), turka:grup, hindia:ग्रूप (grūp)|
 |**guanxe**|rilato|mandarena:关系 (guānxi), vjetnama:quan hệ, korea:관계 (gwangye), japana:関係 (kankei)|
@@ -412,7 +413,7 @@
 |**lanca**|ĵeti (lanĉi)|angla:launch, itala:lanciare, portugala:lançar, franca:lancer, hispana:lanzar, deu:lancieren|
 |**lantene**|lanterno|angla:lantern, hindia:लालटेन (lālṭen), japana:ランタン (rantan), korea:랜턴 (raenteon), + mandarena:灯笼 (dēnglóng), vjetnama:đèn lồng, malaja:tanglung|
 |**lasker**|soldato|turka:asker, malaja:askar, svahila:askari, araba:(ʿaskariy), bul:аскер (asker), + persa:(laškar), urdua:(laśkar), hindia:लष्कर (laśkar), guĝarata:લશ્કર (laśkar), may:laskar|
-|**late**|flanko (latero)|hispana:portugala:lado, itala:lato, angla:lateral, franca:latéral, rusa:латеральный (lateraln’nyy)|
+|**late**|flanko (latero)|hispana:portugala:lado, itala:lato, angla:lateral, franca:latéral, rusa:латеральный (lateral’nyy)|
 |**laya**|veni|vjetnama: lại, mandarena: 来 (lái)|
 |**lekin**|tamen|araba: لكن (lākin), hindia:लेकिन (lekin), svahila:lakini|
 |**lengi**|malvarma|mandarena: 冷 (lěng), vjetnama: lạnh, kantona:冷 (laang5)|
@@ -425,6 +426,7 @@
 |**lil (lili)**|malgranda|angla:little|
 |**limone**|citrono|persa:(limun), angla:lemon, turka:limon, rusa:лимон (limon), hispana:limón, portugala:limão, hindia:नींबू (nīmbū), urdua:(nībū), mandarena:柠檬 (níngméng), japana:檸檬 (remon), korea:레몬 (remon), svahila:ndimu,limau, bengala:লেবু (lebu)|
 |**linye**|lineo|portugala:linha, angla:line, franca:ligne, hispana:línea, polona:linia, rusa:линия (liniya)|
+|**lisane**|lango|araba:(lisān), amhara:ልሳን (ləsan), malaja:turka:lisan, hindia:लिसान (lisān),|
 |**lisi**|glata|franca:lisse, hispana:portugala:liso, persa:(liz), malaja:licin|
 |**liste**|listo|angla:list, hispana:portugala:lista, rusa:(lista), deu:franca:liste, persa:(list), hindia:लिस्ट (lisṭ), urdua:(lisṭ), japana:リスト (risuto)|
 |**lobake**|rafaneto|mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak|

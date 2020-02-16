@@ -418,7 +418,7 @@ dominogem - domino
 domu - mieszkać  
 dona - dać, dawać  
 done - podarunek, dar, prezent  
-dong - wschód  
+donge - wschód  
 doste - przyjaciel  
 dosti - przyjacielski  
 dostia - przyjaźń  
@@ -636,9 +636,8 @@ galaksia - galaktyka
 galeria - galeria, sala wystawowa  
 galium - gal  
 gambia - Gambia  
-gamel - wielbłąd, wielbłądzica  
+gamele - wielbłąd, wielbłądzica  
 gandia - Uganda  
-gang - właśnie, dopiero co, ostatnio, niedawno  
 ganga - Ganges  
 gani - suchy  
 gania - Ghana  
@@ -650,7 +649,7 @@ garda - chronić, strzec,  osłaniać, bronić
 garder - strażnik, ochroniarz  
 gare - wóz, wózek  
 garmi - ciepły  
-garmi masal - garam masala  
+garmi masale - garam masala  
 garoparke - parking  
 gase - gaz  
 gawi - wysoki  
@@ -689,7 +688,7 @@ grafobuke - książka z obrazkami
 grame - gram  
 grase - trawa  
 grenadia - Grenada  
-grimas - grymas  
+grimase - grymas  
 grome - grom, huk  
 grosi - gruby  
 grosi harfe - pogrubiona litera  
@@ -787,6 +786,7 @@ historer - historyk
 historia - historia, badanie historii  
 hobe - hobby  
 hoke - hokej  
+holere - cholera  
 holmium - holm  
 hon - sto (##)  
 hondurasia - Honduras  
@@ -1066,8 +1066,7 @@ kode - kod, szyfr
 koke - koka  
 kokode - kura, kogut, kurczak  
 kokos nesia - Wyspy Kokosowe  
-kola - kola, napój gazowany  
-koler - cholera  
+kole - kola, napój gazowany  
 kolombia - Kolumbia  
 kolona - kolonizować  
 koloner - kolonizator  
@@ -1600,6 +1599,7 @@ nova - odnowić, odnawiać, uczynić nowym
 novi - nowy  
 novi kaledonia - Nowa Kaledonia  
 novi zilandia - Nowa Zelandia  
+novo - właśnie, dopiero co, ostatnio, niedawno  
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
@@ -2195,6 +2195,7 @@ tehnokratia - technokracja
 tehnolojia - technologia, nauka o technikach  
 tele - dystans  
 teli - daleki, odległy  
+telia - dystans  
 telofone - telefon  
 telovide - telewizja  
 telugi - telugu  
@@ -2505,7 +2506,7 @@ zirkonium - cyrkon
 ziza - skwierczeć  
 zombe - zombie, zombi  
 zone - pas, strefa  
-zukam - przeziębienie, katar  
+zukame - przeziębienie, katar  
 zukomedi - zuluh  
 zuli - zulu  
 zumurude - szmaragd  

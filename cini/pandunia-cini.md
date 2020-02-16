@@ -159,6 +159,7 @@ gitare - 吉他
 gole - 目的  
 gotone - 棉  
 governe - 政府  
+grimase - 鬼脸  
 gunden - 宫殿  
 gunodarme - 道德  
 gute - 膝  
@@ -193,6 +194,7 @@ ive - 趋势
 jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
 jeka - 借  
+jeni baxe - 母语  
 jenotipe - 基因型  
 jinse - 属  
 jirafe - 长颈鹿  
@@ -262,6 +264,7 @@ libele - 蜻蜓
 lider - 领导  
 lil (lili) - 小  
 limone - 柠檬  
+lisane - 舌头  
 liste - 单子  
 loga - 说话 (讲)  
 loka - 放置  
@@ -436,6 +439,7 @@ teme - 主题目
 tena - 有  
 tenke - 天气  
 tenu - 属于  
+terci - 斜的  
 teroristia - 恐怖行为  
 tese - 论据  
 teste - 化验  

@@ -499,7 +499,7 @@ graveda - hamili
 gravi - hamu  
 greka - heleni  
 Grekio - helenia  
-grimaco - grimas  
+grimaco - grimase  
 grupo - grupe  
 Gujano - gayania  
 guruo (instruisto) - gure  
@@ -530,6 +530,7 @@ haŭto - pile
 Hebrea - ibri  
 heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
+hejmlingvo - jeni baxe  
 hejmo (loĝejo) - dom (dome)  
 helikoptero - helisoviman  
 helio - helium  
@@ -644,7 +645,7 @@ kalifo - halife
 kaliforniumo - kalifornium  
 kalio - kalium  
 Kamboĝo - kambudia  
-kamelo - gamel  
+kamelo - gamele  
 kanabo - ganje  
 kanalo - kanale  
 kandelo - mumonur  
@@ -718,6 +719,7 @@ komenco - kaixe
 komercisto - bizneser  
 kompanio (firmao) - kompania  
 kompato - samemose  
+kompreneble - klaro  
 kompreni - aha  
 kompreni - buda  
 kompreno - bude  
@@ -790,6 +792,7 @@ laktuko - letise
 lamenti - duka  
 lampo - lampe  
 lando - dexe  
+lango - lisane  
 lanterno - lantene  
 lasta - fini  
 Latvio - latovia  
@@ -868,6 +871,7 @@ malplena - kali
 malpli - min (mino)  
 malproksima - teli  
 malproksimeco - tele  
+malproksimeco - telia  
 malrapida - lenti  
 malsana - pati  
 malsukceso - xibaye  
@@ -1042,7 +1046,7 @@ oranĝo - oranje
 ordoni - komanda  
 ordono - komande  
 orelo - ore  
-oriento - dong  
+oriento - donge  
 origina - asli  
 origino - asle  
 oro - aure  
@@ -1596,7 +1600,7 @@ zuluo - zuli
 ĵetkubo - dade  
 ĵudo - judaw  
 ĵulo (J) - jule  
-ĵus - gang  
+ĵus - novo  
 ŝafo - meh  
 ŝako - xatranje  
 ŝamano - xamane  

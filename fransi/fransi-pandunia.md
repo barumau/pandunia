@@ -139,6 +139,7 @@ chambre à coucher - sonokamare
 chance - canse  
 changement climatique - klimomute  
 chapitre - babe  
+charme - carme  
 chat - maw (mawe)  
 chef - xefe  
 chemise - kamise  
@@ -149,6 +150,7 @@ chose - xey (xeye)
 ciel - samane  
 cime (pic, sommet) - pike  
 citron - limone  
+clair - klari  
 coeur - kerne  
 comment - ko?  
 compassion - samemose  
@@ -242,6 +244,7 @@ gingembre - zinje
 giraffe - jirafe  
 goule - gule  
 gouvernement - governe  
+grimace - grimase  
 groupe - grupe  
 guitare - gitare  
 génotype - jenotipe  
@@ -287,6 +290,8 @@ lait - milke
 laitue - letise  
 Lance-roquettes - roketolancer  
 langue - baxe  
+langue - lisane  
+langue maternelle - jeni baxe  
 lapin (lièvre) - tuze  
 lasagne - lazanye  
 latéral - lati  
@@ -360,6 +365,7 @@ nuage - megame
 nécessaire - nidi  
 ##o
 objectif (cible) - dike  
+oblique (de travers) - terci  
 océan - dayosamude  
 oeuf - ande  
 oignon - piaze  

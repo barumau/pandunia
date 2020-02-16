@@ -82,6 +82,7 @@
 |**ca**|de|zho:从 (cóng),出于 (chū), yue:從 (cung4)|
 |**camace**|cuiller|fas:(čamče), pnb:ਚਮਚਾ (camcā), ben:চামচ (camôc), hin:चम्मच (cammac), kan:ಚಮಚ (camaca), tha:ช้อน (chon)|
 |**canse**|chance|fra:eng:spa:por:chance, jpn:チャンス (chansu), kor:찬스 (chanseu), rus:шанс (šans), tur:şans, hin:चांस (cāns)|
+|**carme**|charme|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**cay (caye)**|thé|zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|
 |**cerni**|noir|rus:чёрный (čornyy), pol:czarny|
 |**cise**|fromage|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
@@ -124,6 +125,7 @@
 |**gole**|but|por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|
 |**gotone**|coton|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|
 |**governe**|gouvernement|eng:government, spa:gobierno, por:ita:governo, fra:gouvernement|
+|**grimase**|grimace|eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)|
 |**grupe**|groupe|deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|
 |**gunden**|palais|zho:宫殿 (gōngdiàn), vie:cung điện, jpn:宮殿 (jyūden), kor:궁전 (gungjeon)|
 |**gute**|genou|swa:goti, guj:ઘૂંટણ (ghū̃ṭaṇ), Hin:घुटना (ghuṭnā), mar:गुडघा (guḍghā)|
@@ -171,6 +173,7 @@
 |**kimia**|chimie|ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya, fra:chimie, spa:por:química, rus:химия (himiya)|
 |**kirmi**|rouge|arm:կարմիր (karmir), tur: kırmızı, fas(qermez), ara:(qirmiz), + eng:crimson, fra:carmin, por:carmim, spa:carmín, hin:क़िरमिज़ (qirmiz)|
 |**kitabe**|écriture|ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)|
+|**klari**|clair|deu:klar, spa:por:claro, eng:clear, fra:clair|
 |**konfusi**|perplexe (désorienté)|eng:confused, spa:confundido, por:confuso, zho:困惑 (kùnhuò)|
 |**kope**|coupe (tasse, verre)|fra:coupe, tur:kupa, ara:(kūb), spa:copa, eng:cup, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop)|
 |**korne**|corne|fra:corne, por:corno, eng:horn, ara:(qarn)|
@@ -181,7 +184,7 @@
 |**kube**|cube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |**lage**|lac|eng:lake, spa:por:ita:lago, fra:lac|
 |**lasker**|soldat|tur:asker, may:askar, swa:askari, ara:(ʿaskariy), bul:аскер (asker), + fas:(laškar), urd:(laśkar), hin:लष्कर (laśkar), guj:લશ્કર (laśkar), may:laskar|
-|**late**|côté|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateraln’nyy)|
+|**late**|côté|spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)|
 |**lawi**|vieux (âgé, ancien)|zho:老 (lǎo), vie:lão|
 |**laxa**|laisser|fra:laisser,lâcher, ita:lasciare, deu:lassen|
 |**lazanye**|lasagne|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
@@ -192,6 +195,7 @@
 |**lider**|dirigeant (leader)|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
 |**lil (lili)**|petit|eng:little|
 |**limone**|citron|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|
+|**lisane**|langue|ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|
 |**liste**|liste|eng:list, spa:por:lista, rus:(lista), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|
 |**loke**|lieu|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|
 |**longi**|long|eng:fra:long, deu:lang, Por:longo|

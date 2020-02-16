@@ -154,6 +154,7 @@
 |**cante**|laulu|ranska:chanter, englanti:chant, portugali:espanja:cantar, + yleiskiina:唱 (chàng), korea:창 (chang)|
 |**capate**|chapati|hindi:चपाती (ćapātī), urdu:(ćapātī), englanti:suahili:chapati, venäjä:чапати (čapati), burma:ချပါတီ (kyapati)|
 |**cape**|painos (leima)|hindi:छाप (chāp), malaiji:cap, englanti:chop|
+|**carme**|vetovoima (šarmi)|ranska:portugali:charme, englanti:charm, venäjä:шарм (šarm)|
 |**cate**|katto (katos)|hindi: छत (chat), bangla: ছাদ (chad), turkki:çatı, kyr:чатыр (čatyr)|
 |**cay (caye)**|tee|yleiskiina: 茶 (chá), japani: (cha), korea:차 (cha), vietnami:trà, turkki:çay, suahili:chai, venäjä:чай (čay), hindi:चाय (cāy), arabia:(šāy), portugali:chá|
 |**cenge**|kerros|yleiskiina:层 (céng), kantoninkiina:層 (cang4), korea:층 (chŭng), vietnami:tầng|
@@ -207,7 +208,7 @@
 |**dokume**|asiakirja (dokumentti, tiedosto)|englanti:ranska:document, venäjä:документ (dokument)|
 |**dom (dome)**|asunto (koti)|venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico|
 |**dona**|antaa|englanti:dan:give, deu:geben, yleiskiina:给 (gěi)|
-|**dong**|itä|yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong)|
+|**donge**|itä|yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong)|
 |**doste**|ystävä (kaveri)|turkki:dost, hindi:दोस्त (dost), gujarati:દોસ્ત (dost), urdu:(dost), persia:(dust)|
 |**dotore**|tohtori|portugali:doutor, italia:dottore, englanti:espanja:doctor, venäjä:доктор (doktor)|
 |**doxe**|vika (synti)|malaiji:dosa, hindi:दोष (doś), thai:โทษ (toot(sa))|
@@ -293,7 +294,7 @@
 |**ganoputaw**|rusina|korea:건포도 (geonpodo), yleiskiina:葡萄干 (pútáogān)|
 |**ganya**|hankkia (ansaita)|ranska:gagner, portugali:ganhar, espanja:ganar, englanti:gain|
 |**garder**|vartija (vahti)|englanti:guard, ranska:garde, espanja:portugali:guarda, japani:ガード (gādo), korea:가드 (gadeu)|
-|**gare**|kärry (vaunu, auto, jne)|englanti:car, portugali:espanja:carro, deu:Karre, telugu:(kāru), + hindi:गाड़ी (gāṛī), suahili:gari|
+|**gare**|kärry (vaunu, auto, jne)|hindi:गाड़ी (gāṛī), suahili:gari, persia:(gâri), englanti:car, portugali:espanja:carro, deu:Karre, telugu:(kāru)|
 |**garmi**|lämmin|hindi:गरम (garm), urdu:persia:گرم‎‎ (garm), kur:germ, deu:englanti:warm|
 |**gase**|kaasu|deu:englanti:espanja:malaiji:gas, portugali:gás, bangla:গ্যাস (gyas), japani:ガス (gasu), korea:가스 (gaseu), hindi:गैस (gais), ranska:turkki:gaz, venäjä:газ (gaz), arabia:(ḡāz)|
 |**gati**|kova|telugu:గట్టి (gaṭṭi), turkki:katı, hindi:कड़ा (kaṛā), japani:硬い (katai)|
@@ -313,6 +314,7 @@
 |**gotone**|puuvilla|arabia:(quṭun), espanja:algodón, portugali:algodão, ranska:coton, englanti:cotton|
 |**grafe**|piirros (graafi)|englanti:graphic, ranska:graphique|
 |**grase**|ruoho|englanti:grass, hindi:घास (ghās)|
+|**grimase**|irvistys|englanti:ranska:grimace, deu:Grimasse, venäjä:гримаса (grimasa)|
 |**grome**|jyrinä (ukkonen)|venäjä:гром (grom), puola:grom|
 |**grosi**|paksu|ranska:gros, portugali:grosso, espanja:grueso|
 |**grupe**|ryhmä|deu:Gruppe, ranska:groupe, englanti:group, espanja:portugali:grupo, venäjä:группа (gruppa), korea:그룹 (geurup), japani:グループ (gurūpu), turkki:grup, hindi:ग्रूप (grūp)|
@@ -330,7 +332,7 @@
 |**gute**|polvi|suahili:goti, gujarati:ઘૂંટણ (ghū̃ṭaṇ), Hin:घुटना (ghuṭnā), marathi:गुडघा (guḍghā)|
 |**guye**|peikko|yleiskiina:鬼 (guǐ), vietnami:quỷ, + thai:กุ๊ย (gui)|
 |**habare**|uutinen|arabia:(xabar), turkki:haber, malaiji:kabar, suahili:habari, hindi:ख़बर (xabar), bangla:খবর (khôbôr), yoruba:làbarè|
-|**hafiza**|säilyttää (varjella, säästää)|arabia:(ḥafiẓa), persia:urdu:(hāfiz), turkki:muhafaza|
+|**hafiza**|säilyttää (varjella, säästää)|arabia:(ḥafiẓa), persia:urdu:(hāfiz), turkki:muhafaza, hindi:हाफ़िज़ (hāfīz)|
 |**haha**|nauraa|englanti:ranska:portugali:turkki:haha, espanja:jaja, venäjä:ха-ха (ha-ha), yleiskiina:哈哈 (hāhā), japani:わはは (wa-ha-ha), arabia:(hahah)|
 |**haime**|teltta|arabia:(xayma), hausa:laima, hindi:ख़ैमा (xEmā), suahili:hema, malaiji:kemah, may:khemah, mng:майхан (mayhan)|
 |**hake**|oikeus (oikeutus)|arabia:(ḥaq), hindi:हक़ (haq), turkki:malaiji:hak, suahili:haki, hausa:hakki|
@@ -517,7 +519,7 @@
 |**lantene**|lyhty|englanti:lantern, hindi:लालटेन (lālṭen), japani:ランタン (rantan), korea:랜턴 (raenteon), + yleiskiina:灯笼 (dēnglóng), vietnami:đèn lồng, malaiji:tanglung|
 |**larve**|toukka|deu:ranska:larve, englanti:turkki:larva, hindi:लार्वा (lārvā), urdu:(lārvā), puola:larwa|
 |**lasker**|sotilas|turkki:asker, malaiji:askar, suahili:askari, arabia:(ʿaskariy), bul:аскер (asker), + persia:(laškar), urdu:(laśkar), hindi:लष्कर (laśkar), gujarati:લશ્કર (laśkar), may:laskar|
-|**late**|sivu (kylki, puoli)|espanja:portugali:lado, italia:lato, englanti:lateral, ranska:latéral, venäjä:латеральный (lateraln’nyy)|
+|**late**|sivu (kylki, puoli)|espanja:portugali:lado, italia:lato, englanti:lateral, ranska:latéral, venäjä:латеральный (lateral’nyy)|
 |**laxa**|jättää (hylätä)|ranska:laisser,lâcher, italia:lasciare, deu:lassen|
 |**laya**|tulla|vietnami: lại, yleiskiina: 来 (lái)|
 |**lazanye**|lasagne|ranska:lasagne, englanti:lasagna, espanja:lasaña, portugali:lasanha, venäjä:лазанья (lazanya), arabia:(lazanyā), japani:ラザニア (razania), korea:라자냐 (lajanya), hindi:लज़ैन्या (lazenyā)|
@@ -539,6 +541,7 @@
 |**lilake**|syreeni|turkki:leylak, arabia:(laylak), englanti:lilac, ranska:lilas, portugali:lilás, espanja:filippiini:lila, japani:ライラック (rairakku)|
 |**limone**|sitruuna|persia:(limun), englanti:lemon, turkki:limon, venäjä:лимон (limon), espanja:limón, portugali:limão, hindi:नींबू (nīmbū), urdu:(nībū), yleiskiina:柠檬 (níngméng), japani:檸檬 (remon), korea:레몬 (remon), suahili:ndimu,limau, bangla:লেবু (lebu)|
 |**linye**|viiva (linja)|portugali:linha, englanti:line, ranska:ligne, espanja:línea, puola:linia, venäjä:линия (liniya)|
+|**lisane**|kieli (elin)|arabia:(lisān), amhara:ልሳን (ləsan), malaiji:turkki:lisan, hindi:लिसान (lisān),|
 |**lisi**|sileä|ranska:lisse, espanja:portugali:liso, persia:(liz), malaiji:licin|
 |**liste**|lista (luettelo)|englanti:list, espanja:portugali:lista, venäjä:(lista), deu:ranska:liste, persia:(list), hindi:लिस्ट (lisṭ), urdu:(lisṭ), japani:リスト (risuto)|
 |**liwu**|virrata|yleiskiina:流 (liú), japani:流 (ryū)|

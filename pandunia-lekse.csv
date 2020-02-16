@@ -367,6 +367,7 @@ capa||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, 
 capate|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus:чапати (čapati), mya:ချပါတီ (kyapati)|flatbread (chapati, roti)||chapati (pan sin levadura)||||||||||||||chapati|płaski chleb, ćapati
 cape|||hin:छाप (chāp), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)|||||||||||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 car||||four (4)||cuatro (4)|||||||||||||kvar (4)|neljä (4)|cztery (4)
+carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|
 carogone||||square (tetragon)||cuadro||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
 cate|||hin: छत (chat), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr)|roof||techo (tejado)|||||||||||||tekto|katto (katos)|dach
 cay (caye)|||zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá|tea|thé|té|chá|чай|شَاي|茶|茶|다 (차)|chè(trà)|चाय||teh|chai|çay|teo|tee|herbata
@@ -770,7 +771,6 @@ gambia|dex|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamele||||camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gana||||dry out||secar||||||||||||||kuivata (kuivattaa)|
 gandia|dex|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
-novo||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
 ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
 gani|||zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|dry||seco (árido)|||||||||||||seka|kuiva|suchy
 gania|dex|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
@@ -951,6 +951,7 @@ historer||||historian||historiador|||||||||||||historiisto|historioitsija|histor
 historia||||history (study of history)||historia (estudio de sucesos del pasado)|||||||||||||historio (studo de historio)|historia (oppiaine)|historia, badanie historii
 hobe||||hobby||pasatiempo (hobby, afición)|||||||||||||hobio|harrastus|hobby
 hoke|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|hockey|hockey|hockey|hóquei|хоккей||曲棍球|ホッケー|khúc côn cầu||हाकी|হকি|hoki||hokey|hokeo|hockey (jääkiekko)|hokej
+holere||||cholera||cólera||||||||||||||kolera|cholera
 holi||||whole (entire)||entero (todo)||||||||||||||koko (kokonainen)|
 holmium|mate|Ho||holmium||holmio|||||||||||||holmio|holmium|holm
 holograme||||hologram||holograma||||||||||||||hologrammi|
@@ -958,6 +959,8 @@ hon||||hundred (100)||cien (100)|||||||||||||cent|sata (100)|sto (100)
 hondurasia|dex|HN||Honduras||Honduras|||||||||||||Honduro|Honduras|Honduras
 hongong|dex|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong Kong|Hong Kong
 hore|||fra:heure, eng:hour, spa:por:hora|hour|heure|hora|hora|час|سَاعَة|小时|時|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina
+horizone||||horizon||horizonte|||||||||||||||
+horizoni|eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|||horizontal (lateral)||horizontal|||||||||||||||
 hormon||||hormone||hormona|||||||||||||hormono|hormoni|hormon
 horvatia|dex|HR||Croatia||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja
 hotel (hotele)|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
@@ -1074,6 +1077,7 @@ jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:u
 jenger||||warrior (fighter)||luchador (guerrero)||||||||||||||soturi (taistelija)|wojownik, bojownik
 jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
 jengoxute|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||arte marcial||||||||||||||kamppailulaji|sztuka walki
+jeni baxe||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|
 jenoden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
 jenoklas||||caste||casta||||||||||||||sääty (kasti)|kasta
 jenotipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
@@ -1140,7 +1144,7 @@ kalium|mate|K||potassium||potasio|||||||||||||kalio|kalium|potas
 kalkulia|||fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|calculus (manipulation of symbolic expressions)||cálculo||||||||||||||kalkyyli|rachunek (formalny system obliczeń)
 kalsium|mate|Ca||calcium (Ca)||calcio|||||||||||||kalcio|kalsium|wapń
 kamare|||may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|room (chamber)|pièce (chambre)|habitación (cuarto, sala, pieza)|sala (câmara)|комната (камера)|قَمَرَة|房间|部屋|방||कमरा|কক্ষ|kamar|chumba||ĉambro|huone|pokój, sala
-kamarogawe||||ceiling
+kamarogawe||||ceiling|||||||||||||||||
 kamarotale||||floor||piso (suelo)||||||||||||||lattia|podłoga
 kambudia|dex|KH||Cambodia||Camboya|||||||||||||Kamboĝo|Kambodja|Kambodża
 kamerunia|dex|CM||Cameroon||Camerún||||||||||||||Kamerun|Kamerun
@@ -1267,8 +1271,9 @@ kitabia||||library|bibliothèque|biblioteca|biblioteca|библиотека||图
 kitabomaxin||||typewriter|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania
 kitaborupe||||formatting||formateo||||||||||||||tekstin muotoilu|
 kiwe|||eng:kiwi|kiwi fruit||kiwi fruta|||||||||||||kivo|kiivi|owoc kiwi
-klara||||clarify||claro|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
-klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (not obscured)||aclarar (clarificar)|||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
+klara||||clarify||aclarar (clarificar)|||||||||||||klarigi|selkeyttää (selittää)|wyklarować (rozjaśnić)
+klari|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)|clair|claro|claro||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
+klaro||||of course (obviously)|||||||||||||||kompreneble|tietysti (selvästi)|
 klasa||||classify (categorize)||klase (tipo, categoría)||||||||||||||luokitella (kategorisoida)|klasyfikować, kategoryzować
 klase||||class (category)||clasificar||||||||||||||luokka (kategoria)|klasa, kategoria
 klime|||ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|climate||clima||климат|||||||||||klimato|ilmasto|klimat
@@ -1286,10 +1291,9 @@ koda||||encode||codificar (cifrar)||||||||||||||koodata|kodować
 kode||||code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
 koke|||spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|coca||coca||||||||||||||kooka|koka
 kokode|||fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu, + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|chicken||pollo|||||||||||||koko|kana|kura, kogut, kurczak
-kokos nesia|dex|CC||Cocos (Keeling) Islands||Islas Cocos (Islas Keeling)||||||||||||||Kookossaaret|Wyspy Kokosowe
 kokokole||||Coca-Cola|||||||||||||||||
+kokos nesia|dex|CC||Cocos (Keeling) Islands||Islas Cocos (Islas Keeling)||||||||||||||Kookossaaret|Wyspy Kokosowe
 kole||||cola||cola (refresco de cola)||||||||||||||cola|kola, napój gazowany
-holere||||cholera||cólera||||||||||||||kolera|cholera
 kolombia|dex|CO||Colombia||Colombia||||||||||||||Kolumbia|Kolumbia
 kolona||||colonize||colonizar||||||||||||||kolonisoida|kolonizować
 koloner||||colonist||colono||||||||||||||kolonialisti|kolonizator
@@ -1481,6 +1485,7 @@ limonorangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żółty
 linfe||||lymph||linfa||||||||||||||lymfa|limfa
 linye|||por:linha, eng:line, fra:ligne, spa:línea, pol:linia, rus:линия (liniya)|line (stripe)||raya (linea)|||||||||||||lineo|viiva (linja)|linia, pas, pręga, smuga
 linyoparce||||line break (newline)||nueva línea||||||||||||||rivinvaihto|
+lisane|||ara:(lisān), amh:ልሳን (ləsan), may:tur:lisan, hin:लिसान (lisān),|tongue|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|
 lisi|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
 liste|||eng:list, spa:por:lista, rus:(lista), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
 litium|mate|Li||lithium||litio|||||||||||||litio|litium|lit
@@ -1920,6 +1925,7 @@ nova||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odna
 novi|||rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|new (recent)|nouveau|nuevo|novo|новый|جَدِيد|新|新しい|||नया||baru|-pya||nova|uusi|nowy
 novi kaledonia|dex|NC||New Caledonia||Nueva Caledonia||||||||||||||Uusi-Kaledonia|Nowa Kaledonia
 novi zilandia|dex|NZ||New Zealand||Nueva Zelanda||||||||||||||Uusi-Seelanti|Nowa Zelandia
+novo||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
 nudi||||naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi, goły, obnażony
 nudiste||||nudist||nudista||||||||||||||nudisti|nudysta
 nudistia||||nudism||nudismo||||||||||||||nudismi|nudyzm
@@ -2202,8 +2208,6 @@ radon|mate|Rn||radon||radón|||||||||||||radono|radon|radon
 raite|||eng:right|right hand side||lado derecho||||||||||||||oikea puoli|prawa strona
 raiti||||right hand||derecho|||||||||||||||
 raitiste||||rightist (right-winger)||derechista||||||||||||||oikeistolainen|prawicowiec (prawak)
-horizoni|eng:spa:fra:por:horizontal, rus:горизонта́льный (gorizontal’nyy)|||horizontal (lateral)||horizontal|||||||||||||||
-horizone||||horizon||horizonte|||||||||||||||
 rajer||||king or queen||rey o reina|||||||||||||reĝo aŭ reĝino|monarkki (kuningas, kuningatar)|król lub królowa
 raji||||royal||real (de realtad)||||||||||||||kuninkaallinen|królewski
 rajia|||hin:राज्य (rājya), ben:রাজ্য (rajyô)|kingdom||reino||||||||||||||kuningaskunta|królestwo
@@ -2957,10 +2961,9 @@ zirkonium|mate|Zr||zirconium||circonio|||||||||||||zirkonio|zirkonium|cyrkon
 ziza|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
 zombe|||kon:nzambi, Por:zumbi, eng:zombi, may:zombi, hin:ज़ोंबी (zombī)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zone|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
-zukam||||cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
+zukame||||cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group|ethnie|etnia|etnia|этнос||民族|民族|민족|dân tộc||||||etno|kansanryhmä (etninen ryhmä)|
 zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민족의||||||etnik|etna|etninen|
 zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|zuluh
 zuli||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|
