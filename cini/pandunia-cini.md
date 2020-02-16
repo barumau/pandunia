@@ -9,6 +9,7 @@ adali - 公正地
 adalia - 正义  
 adrese - 地址  
 adulte - 成年人  
+aga - 如果 (要是)  
 agrese - 攻击  
 airoporte - 飞机场  
 aise - 冰  
@@ -147,12 +148,10 @@ fiorde - 峡湾
 firuze - 绿松石  
 fitolojia - 植物学  
 fora - 钻孔  
-fraze - 句子  
 fule - 花  
 ##g
 galaksia - 恆星系  
 galte - 错误  
-gara - 如果 (要是)  
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
@@ -160,6 +159,7 @@ gitare - 吉他
 gole - 目的  
 gotone - 棉  
 governe - 政府  
+grimase - 鬼脸  
 gunden - 宫殿  
 gunodarme - 道德  
 gute - 膝  
@@ -194,6 +194,7 @@ ive - 趋势
 jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
 jeka - 借  
+jeni baxe - 母语  
 jenotipe - 基因型  
 jinse - 属  
 jirafe - 长颈鹿  
@@ -263,6 +264,7 @@ libele - 蜻蜓
 lider - 领导  
 lil (lili) - 小  
 limone - 柠檬  
+lisane - 舌头  
 liste - 单子  
 loga - 说话 (讲)  
 loka - 放置  
@@ -437,6 +439,7 @@ teme - 主题目
 tena - 有  
 tenke - 天气  
 tenu - 属于  
+terci - 斜的  
 teroristia - 恐怖行为  
 tese - 论据  
 teste - 化验  

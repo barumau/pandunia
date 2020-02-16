@@ -27,6 +27,7 @@ afrike - Africa
 afriki - African  
 afrikofiler - afrophile  
 afrikofilia - Afrophilia  
+aga - if (suppose, assume)  
 agrese - attack (assault, aggression)  
 agresi - aggressive  
 aha - understand (realize)  
@@ -98,6 +99,7 @@ antigia - Antigua
 antigia e barbudia - Antigua and Barbuda  
 antokriste - antichrist  
 antoname - antonym  
+antorelojodixo - counterclockwise (anticlockwise)  
 anuse - anus  
 anusi - anal  
 aphazia - Abkhazia  
@@ -166,8 +168,8 @@ badala - exchange (swap, replace)
 badame - almond  
 badani - bodily (corporal)  
 badawi - bedouin (nomadic)  
-bade - consequence (follow-up)  
-badi - next (following)  
+bade - consequence (back, follow-up)  
+badi - next (following, back)  
 badi den - tomorrow  
 bado - later (after)  
 badofikse - suffix  
@@ -366,6 +368,7 @@ capa - press (imprint)
 capate - flatbread (chapati, roti)  
 cape - print (stamp)  
 car - four (4)  
+carme - charm (attraction)  
 carogone - square (tetragon)  
 cate - roof  
 cay (caye) - tea  
@@ -436,6 +439,8 @@ dantobrox - tooth brush
 dantomediker - dentist  
 darba - strike (punch)  
 darje - step (degree, rank, grade, level, class)  
+darjobona - upgrade (level up)  
+darjomala - downgrade  
 darme - morality (ethics)  
 darmi - moral  
 darmoloji - ethics  
@@ -503,6 +508,7 @@ diske - disc (disk)
 disprosium - dysprosium  
 divehia - Maldives  
 dixe - direction  
+dixo - directly  
 doici - German  
 doicia - Germany  
 dokume - document (record, file)  
@@ -516,7 +522,8 @@ dominogem - dominoes
 domu - live (dwell, reside)  
 dona - give  
 done - gift  
-dong - east  
+donge - east  
+dongi - eastern  
 dongi timoria - East Timor (Timor-Leste)  
 doste - friend  
 dosti - friendly  
@@ -731,7 +738,6 @@ fotomaxin - camera
 fransi polinesia - French Polynesia  
 fransia - France  
 fransium - francium  
-fraze - sentence (phrase)  
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
@@ -767,23 +773,21 @@ galte - mistake (error, fault)
 galti - wrong (incorrect, erroneous, faulty)  
 galto buda - misunderstand  
 gambia - Gambia  
-gamel - camel  
+gamele - camel  
 gana - dry out  
 gandia - Uganda  
-gang - just (recently)  
 ganga - Ganges  
 gani - dry  
 gania - Ghana  
 ganje - cannabis (marijuana, ganja, pot, weed)  
 ganoputaw - raisin  
 ganya - earn (gain)  
-gara - if (suppose, assume)  
 garante - guarantee (warranty)  
 garda - guard (watch)  
 garder - guardian (watchman)  
 gare - car (cart, carriage, wagon, automobile)  
 garmi - warm (hot)  
-garmi masal - garam masala  
+garmi masale - garam masala  
 garoparke - car park (parking lot)  
 gase - gas  
 gasi - gaseous  
@@ -792,7 +796,11 @@ gati - hard (tough)
 gatomate - solid  
 gatomati - rigid (solid)  
 gawa - raise (lift)  
+gawe - top  
 gawi - high  
+gawia - height (altitude)  
+gawolada - upload  
+gawotali - vertical  
 gawu - rise (go up)  
 gayania - Guyana  
 gaze - gauze  
@@ -831,7 +839,7 @@ grame - gram (g)
 grase - grass  
 grenadia - Grenada  
 grenadin - the Grenadines  
-grimas - grimace  
+grimase - grimace  
 grome - thunder (roaring)  
 gromotufane - thunderstorm  
 grosi - thick  
@@ -866,7 +874,7 @@ habare - news
 habarogazete - newspaper (gazette)  
 habaxi - Abyssinian  
 habaxia - Abyssinia  
-hafiza - preserve (conserve, retain, spare)  
+hafiza - keep (preserve, conserve, retain, spare)  
 hafizer - keeper (preserver)  
 hafnium - hafnium  
 haha - laugh  
@@ -948,6 +956,7 @@ historer - historian
 historia - history (study of history)  
 hobe - hobby  
 hoke - hockey  
+holere - cholera  
 holi - whole (entire)  
 holmium - holmium  
 holograme - hologram  
@@ -955,6 +964,8 @@ hon - hundred (##)
 hondurasia - Honduras  
 hongong - Hong Kong, SAR China  
 hore - hour  
+horizone - horizon  
+horizoni - horizontal (lateral)  
 hormon - hormone  
 horvatia - Croatia  
 hotel (hotele) - hotel  
@@ -985,6 +996,7 @@ imperer - emperor
 imperia - empire  
 imperiste - imperialist  
 imperistia - imperialism  
+inda - contain (include)  
 inde - inside (interior)  
 indi - inner (internal)  
 indium - indium  
@@ -1072,6 +1084,7 @@ jeng - fight (war, battle, combat)
 jenger - warrior (fighter)  
 jengi - military (martial, warlike)  
 jengoxute - martial art  
+jeni baxe - native language (mother tongue)  
 jenoden - birthday  
 jenoklas - caste  
 jenotipe - genotype  
@@ -1083,6 +1096,8 @@ jeste - gesture
 jibraltar - Gibraltar  
 jibutia - Djibouti  
 jina - advance (progress, enter)  
+jino - foreward  
+jinomun - entrance  
 jinse - sort (kind, type, genus)  
 jirafe - giraffe  
 joke - joke  
@@ -1099,6 +1114,7 @@ jumle - sentence (phrase)
 junga - center (concentrate)  
 jungafrikia - Central African Republic  
 junge - middle (center)  
+jungi - central (middle)  
 jungogia - China  
 jungu - to be centered (amid, in the middle)  
 jupe - skirt  
@@ -1136,6 +1152,7 @@ kalium - potassium
 kalkulia - calculus (manipulation of symbolic expressions)  
 kalsium - calcium (Ca)  
 kamare - room (chamber)  
+kamarogawe - ceiling  
 kamarotale - floor  
 kambudia - Cambodia  
 kamerunia - Cameroon  
@@ -1174,9 +1191,10 @@ karawe - caraway
 karbone - carbon (coal)  
 karbonodulokside - carbon dioxide  
 karde - card  
+kariba - approach (get near)  
+karibe - proximity  
 karibi - near (close)  
 karibo - nearly (closely, almost)  
-karibu - approach (get near)  
 karimi - generous (charitable)  
 karimia - generosity (charity)  
 karite - shea (vitellaria)  
@@ -1262,7 +1280,8 @@ kitabomaxin - typewriter
 kitaborupe - formatting  
 kiwe - kiwi fruit  
 klara - clarify  
-klari - clear (not obscured)  
+klari - clear (obvious)  
+klaro - of course (obviously)  
 klasa - classify (categorize)  
 klase - class (category)  
 klime - climate  
@@ -1280,9 +1299,9 @@ koda - encode
 kode - code (cipher)  
 koke - coca  
 kokode - chicken  
+kokokole - Coca-Cola  
 kokos nesia - Cocos (Keeling) Islands  
-kola - cola  
-koler - cholera  
+kole - cola  
 kolombia - Colombia  
 kolona - colonize  
 koloner - colonist  
@@ -1357,6 +1376,7 @@ krize - crisis
 krizi - critical (pertaining to crisis)  
 kromium - chromium  
 krote - mole (burrowing animal)  
+krusa - cross (go across)  
 kruse - cross  
 krusofiksa - crucify  
 kuange - mineral (ore)  
@@ -1407,10 +1427,12 @@ lasker - soldier
 laskeria - army  
 lasti - elastic  
 lasune - garlic  
+lata - be beside (beside)  
 late - side (flank)  
 lati - lateral  
 latini abace - Latin alphabet  
 latinokitaba - romanize  
+lato - sideways  
 latoren - companion (partner, sidekick)  
 latovia - Latvia  
 laurensium - lawrencium  
@@ -1425,6 +1447,7 @@ laya - come
 lazanye - lasagna  
 le - he or she or it  
 lefte - left  
+lefti - left hand  
 leftiste - leftist (left-winger)  
 lekin - however  
 leksaslia - etymology  
@@ -1471,6 +1494,7 @@ limonorangi - yellow
 linfe - lymph  
 linye - line (stripe)  
 linyoparce - line break (newline)  
+lisane - tongue  
 lisi - smooth  
 liste - list (listing, catalogue)  
 litium - lithium  
@@ -1911,6 +1935,7 @@ nova - renew (make new, renovate)
 novi - new (recent)  
 novi kaledonia - New Caledonia  
 novi zilandia - New Zealand  
+novo - just (recently)  
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
@@ -2150,7 +2175,9 @@ prasedim - praseodymium
 prate - practice (actuality)  
 prati - practical (pragmatic)  
 preda - precede (come before)  
-predi - previous  
+prede - front  
+predi - previous (fore)  
+predo - earlier (before)  
 predoden - yesterday  
 predofikse - prefix  
 predogara - assume (presuppose)  
@@ -2191,6 +2218,7 @@ radium - radium
 radometer - radiometer  
 radon - radon  
 raite - right hand side  
+raiti - right hand  
 raitiste - rightist (right-winger)  
 rajer - king or queen  
 raji - royal  
@@ -2226,6 +2254,7 @@ redi - ready
 rege - sand  
 registan - desert  
 reloje - clock (watch)  
+relojodixo - clockwise  
 relojominare - clocktower  
 ren (rene) - person (people)  
 rengenium - roentgenium  
@@ -2242,6 +2271,7 @@ restoran - restaurant
 restu - remain (stay)  
 retra - return (go back)  
 retre - return (way back)  
+retro - backward (in reverse)  
 retrotikete - return ticket  
 reunion - Réunion  
 rezerva - reserve (book)  
@@ -2426,7 +2456,7 @@ sifa - qualify (describe)
 sife - attribute (charasteristic, quality, feature, description)  
 sifi - descriptive  
 sifolekse - adjective  
-sigar - cigarette (cigar)  
+sigare - cigarette (cigar)  
 sihe - health  
 sihi - healthy  
 sikiste - Sikh  
@@ -2492,11 +2522,13 @@ suboniam - breakfast
 sudafrikia - South Africa  
 sudania - Sudan  
 sude - south  
+sudi - southern  
 sudi amerike - South America  
 sudi cosenia - South Korea (Republic of Korea)  
 sudi iria, alonia - South Ossetia (Alania)  
 sudi jorjia e sudi sanwice nesia - South Georgia and the South Sandwich Islands  
 sudi sudania - South Sudan  
+sudonordia - latitude  
 suede - sweat (perspiration)  
 suedi - sweaty  
 suenia - Sweden  
@@ -2548,8 +2580,11 @@ tajikia - Tajikistan
 taksa - collect fees or taxes  
 takse - tax (fee, fare)  
 taksokare - taxi  
+tala - lower (put down)  
 tale - bottom  
+tali - low  
 talium - thallium  
+talolada - download  
 tamare - date fruit  
 tami - greedy  
 tamili - Tamil  
@@ -2580,8 +2615,9 @@ tehne - technique (technology)
 tehnetium - technetium  
 tehnokratia - technocracy  
 tehnolojia - technology (study of techniques)  
-tele - distance  
+tele - distance (far away)  
 teli - far (distant)  
+telia - distance (length)  
 telofone - telephone  
 telovide - television  
 telugi - Telugu  
@@ -2600,6 +2636,8 @@ tenu - belong
 teoria - theory  
 tepe - tape  
 terbium - terbium  
+terca - tilt (skew)  
+terci - oblique (askew, tilted)  
 terme - temperature  
 termometer - thermometer  
 tero- - tera-  
@@ -2798,6 +2836,7 @@ werker - worker
 werkomeze - desk  
 weste - west  
 westi - western  
+westodongia - longitude  
 wi - that (those)  
 wike - wiki article  
 wikia - wiki  
@@ -2942,7 +2981,7 @@ zirkonium - zirconium
 ziza - sizzle  
 zombe - zombie  
 zone - belt (zone)  
-zukam - cold (illness)  
+zukame - cold (illness)  
 zuke - ethnic group  
 zuki - ethnic  
 zukomedi - interethnic  

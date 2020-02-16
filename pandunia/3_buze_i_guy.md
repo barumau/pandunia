@@ -45,7 +45,7 @@ me tena dul day jengopetre, sa lole me wil parca te du oste.»
 e bada ye, day buze haraba guy du yen, e parca guy du oste, e lanca guy pa suy.
 bada ye, le marca pa grasistan.
 sa grasistan, pan buze fatu feti. lole karbi no tena energe pa fuga pa dom.
-e gar lole no kina ze hay, lole hay si feti.
+e aga lole no kina ze hay, lole hay si feti.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>
 

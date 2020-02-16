@@ -221,7 +221,7 @@ cesium - cesium
 chapati - capate  
 Chile - cilia  
 chinchilla - cincile  
-cola - kola  
+cola - kole  
 Cookin saaret - kuke nesia  
 Costa Rica - kostarikia  
 curium - kurium  
@@ -326,6 +326,7 @@ etninen - zuki
 etuliite (prefiksi) - predofikse  
 etymologia - leksaslia  
 etäisyys (kaukaisuus) - tele  
+etäisyys (kaukaisuus) - telia  
 Euraasia - eurasia  
 euro (€) - europese  
 Euroopan unioni - europi unia  
@@ -364,7 +365,7 @@ galleria - galeria
 gallium - galium  
 Gambia - gambia  
 Ganges - ganga  
-garam masala - garmi masal  
+garam masala - garmi masale  
 gaselli - gazele  
 Georgia - kartuelia  
 germanium - germanium  
@@ -605,7 +606,7 @@ Irak - irakia
 Iran - irania  
 iridium - iridium  
 Irlanti - airia  
-irvistys - grimas  
+irvistys - grimase  
 isku (šokki) - xoke  
 islam - islamistia  
 islamilainen - islamisti  
@@ -622,7 +623,7 @@ itse - tane
 itse - ze  
 itsehallinto (autonomia) - autonomia  
 itseliikkuva - automoti  
-itä - dong  
+itä - donge  
 Itä-Timor - dongi timoria  
 itämainen lohikäärme - lunge  
 Itävalta - osteria  
@@ -665,7 +666,7 @@ joogata - yoga
 joogi - yogiste  
 jopa - ato  
 Jordania - urdunia  
-jos (olettaa) - gara  
+jos (olettaa) - aga  
 joskus - koy sate  
 joukkue (tiimi) - time  
 joule (J) - jule  
@@ -747,7 +748,7 @@ kalkkuna - totole
 kalkyyli - kalkulia  
 kalsium - kalsium  
 Kambodja - kambudia  
-kameli - gamel  
+kameli - gamele  
 kamera - fotomaxin  
 Kamerun - kamerunia  
 kammo (fobia) - fobia  
@@ -861,6 +862,7 @@ keuhko - pulmone
 kevät - cune  
 kiehua - bulu  
 kiekko (levy) - diske  
+kieli (elin) - lisane  
 kieli (kommunikaatio) - baxe  
 kieliopillinen - baxokanuni  
 kielioppi - baxokanun  
@@ -919,7 +921,7 @@ koira - waf (wafe)
 kokata (laittaa ruokaa) - kuka  
 kokki - kuker  
 koko (kokonainen) - holi  
-kolera - koler  
+kolera - holere  
 kolikko - pesodiske  
 kollektiivinen - jami  
 kolme (3) - tin  
@@ -1131,7 +1133,6 @@ Latvia - latovia
 lauantai - var 6 (var sis)  
 laulaa - canta  
 laulu - cante  
-lause (fraasi) - fraze  
 lauta (lankku) - banze  
 lautanen - plate  
 lautapeli - banzogem  
@@ -1233,7 +1234,7 @@ lyödä (iskeä) - darba
 lähde (kaivo) - fonte  
 läheinen - karibi  
 lähes (melkein) - karibo  
-lähestyä - karibu  
+lähestyä - kariba  
 lähettiläs - daixer  
 lähettäjä (lähetin) - miser  
 lähettää - misa  
@@ -2079,7 +2080,7 @@ Saudi Arabia - saudi arabia
 sauma (ommel) - suture  
 sauna - saune  
 savu - duman  
-savuke tai sikari - sigar  
+savuke tai sikari - sigare  
 seepra - zebre  
 seesami - sesam  
 seikkailija - aventurer  
@@ -2387,6 +2388,7 @@ tietokanta - datobanke
 tietokone - komputer  
 tietoteoria (epistemologia) - janolojia  
 tietty (tunnettu) - jani  
+tietysti (selvästi) - klaro  
 tietää (tuntea) - jana  
 Tiibet - podia  
 tiikeri - bagre  
@@ -2651,6 +2653,7 @@ vessa - tuale
 vetinen - suyi  
 vetoketju - ziper  
 vetolaatikko - tirosanduke  
+vetovoima (šarmi) - carme  
 vety - hidre  
 vetää (kiskoa) - tira  
 viedä pois (viedä maasta) - wayomisa  
@@ -2685,7 +2688,7 @@ viiva (linja) - linye
 vika (synti) - doxe  
 viljellä - nonga  
 villi (kesytön) - wildi  
-vilustuminen - zukam  
+vilustuminen - zukame  
 vinyyli - vinile  
 violetti (liila) - lilaki  
 virallinen - ofisi  
@@ -2808,10 +2811,11 @@ Zimbabwe - zimbabwia
 zirkonium - zirkonium  
 zombi - zombe  
 zulu - zuli  
+äidinkieli - jeni baxe  
 äiti (emä) - mame  
 ällistyttää - ajaba  
 ärsyttää (häiritä) - irita  
-äsken (vasta, juuri) - gang  
+äsken (vasta, juuri) - novo  
 äänestää - vota  
 ääni (äänestyksessä) - vote  
 ääni - sonde  

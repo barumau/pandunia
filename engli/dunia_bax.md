@@ -169,9 +169,9 @@ English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn
 _mai, sai, lai, rai_. It is as simple as that!
 
 Pandunia can be spelled regularly because it has fewer speech sounds
-(24) than there are letters in the basic Roman alphabet (26). The
+(25) than there are letters in the basic Roman alphabet (26). The
 alphabet of Pandunia is:  
-a b c d e f g h i j k l m n o p r s t u w x y z
+a b c d e f g h i j k l m n o p r s t u v w x y z
 
 Pandunia has perfect letter-to-sound correspondence. One letter
 stands for one sound only. One sound is represented by exactly one

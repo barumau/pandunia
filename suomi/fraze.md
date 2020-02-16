@@ -43,7 +43,7 @@ Iltaa!
 **salam noce!**
 Hyvää yötä!
 
-**salam nyam!**
+**salam niame!**
 Hyvää ruokahalua!
 
 **salam lay!**
@@ -52,10 +52,10 @@ Tervetuloa!
 **salam cute!**
 Hyvästi!
 
-**salam safar!**
+**salam safare!**
 Hyvää matkaa!
 
-**salam son!**
+**salam sone!**
 Nuku hyvin!
 
 Vinkki! Kuten huomaat, **salam**
@@ -151,7 +151,7 @@ lähteitä: ranska: elle, espanja: él.</small>
 **eska te tomas?**
 Oletko sinä Tomas?
 
-**eska te dotor?**
+**eska te dotore?**
 Oletko lääkäri?
 
 Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **eska**. Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö. Itse asiassa äskeinen kysymys on lyhennetty lauseesta **me eska te doktor.**
@@ -179,10 +179,10 @@ Oletko Tomas?
 **si, me tomas.**
 Kyllä, olen Tomas.
 
-**eska le dotor?**
+**eska le dotore?**
 Onko hän lääkäri?
 
-**si, le dotor.**
+**si, le dotore.**
 Kyllä, hän on lääkäri.
 
 Sanalla **si**
@@ -194,7 +194,7 @@ Minä kyllä olen Tomas.
 **te si sarah.**
 Sinä kyllä olet Sara.
 
-**aple si pal.**
+**aple si pale.**
 Omena kyllä on hedelmä.
 
 <small>Sanan **si**
@@ -283,23 +283,23 @@ Keitä he ovat?
 lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### ce <small>tämä, tuo</small>
+### ye <small>tämä, tuo</small>
 
-**ce ke? / ke ce?**
+**ye ke? / ke ye?**
 Mikä tämä on?
 
-**ce aple.**
+**ye aple.**
 Tämä on omena.
 
-**ce ros aple.**
+**ye ros aple.**
 Tämä on punainen omena.
 
-**ci aple ros.**
+**yi aple ros.**
 Tämä omena on punainen.
 
 Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
 
-**ce ros.**
+**ye ros.**
 Tämä on punainen.
 
 
@@ -310,29 +310,29 @@ määrittämään perässä olevaa substantiivia.
 **lole sa ke?**
 Missä he ovat?
 
-**lole sa ce.**
+**lole sa we.**
 He ovat tuolla.
 
-**mome sa ce.**
+**mome sa ye.**
 Me olemme täällä.
 
 
 ### du <small>-n (genetiivipartikkeli)</small>
 
-**ce ke?**
+**ye ke?**
 Mikä tämä on?
 
-**ce me du fon.**
+**ye me du fone.**
 Se on minun puhelin.
 
 **ce ke ya?**
 Kenen tämä on?
 
-**ce me ya.**
+**ye mi.**
 Se on minun.
 
-Genetiivipartikkeli **ya** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me ya**
-tarkoittaa "minun", **te ya** tarkoittaa "sinun" jne.
+Genetiivipartikkeli **du** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä. Joten **me du**
+tarkoittaa "minun", **te di** tarkoittaa "sinun" jne.
 
 **le ke?**
 Kuka hän on?
@@ -343,25 +343,25 @@ Hän on minun ystävä.
 **me si sarah du doste.**
 Minä olen Saran ystävä.
 
-<small>Sanan **ya**
+<small>Sanan **du**
 lähteitä: yleiskiina: 的 (de), pandžabi: ਦਾ "dā".</small>
 
 
-### nam <small>nimi</small>
+### name <small>nimi</small>
 
-**ti nam ke?**
+**ti name ke?**
 Mikä sinun nimesi on?
 
-**mi nam tomas.**
+**mi name tomas.**
 Minun nimeni on Tomas.
 
-**li nam ke?**
+**li name ke?**
 Mikä hänen nimensä on?
 
-**li nam sarah.**
+**li name sarah.**
 Hänen nimensä on Sara.
 
-<small>Sanan **nam**
+<small>Sanan **name**
 lähteitä: hindi: नाम  "nām", persia: نام‏‎ "nām",
 thai: นาม "naam", indonesia: nama, japanese: 名前 "namae",
 saksa: Name, englanti: name.</small>
@@ -372,13 +372,13 @@ saksa: Name, englanti: name.</small>
 
 ### tena <small>olla, omistaa</small>
 
-**me tena bon dom.**
+**me tena bon dome.**
 Minulla on hyvä talo.
 
 **le no tena pese.**
 Hänellä ei ole rahaa.
 
-**me wana tena novi fon.**
+**me wana tena novi fone.**
 Minä haluan saada uuden puhelimen.
 
 **eska te tena bace?**
@@ -393,13 +393,13 @@ Minulla on kaksi lasta.
 **me jana le.**
 Minä tunnen hänet.
 
-**eska te jana ci ren?**
+**eska te jana wi ren?**
 Tunnetko tuon henkilön?
 
 **eska tote jana unale?**
 Tunnetteko toisenne?
 
-**mome jana unale ya long.**
+**mome jana unale ca long.**
 Tunnemme toisemme jo vanhastaan.
 
 
@@ -443,7 +443,7 @@ Minä juon kahvia.
 Vinkki: Sana **kana**
 sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**me niama kafe i pang.**
+**me niama kafe e pang.**
 Minä nautin kahvia ja leipää.
 
 
@@ -469,7 +469,7 @@ Ei, minä en halua teetä. Minä haluan kahvia.
 
 **te wana ki aple?**
 Minkä omenan haluat?
-**ci ros.**
+**yi ros.**
 Tuon punaisen.
 
 
@@ -479,7 +479,7 @@ Tuon punaisen.
 **me pliza te niama cay.**
 Minä pyydän sinua juomaan teetä.
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 Minä pyydän sinua tulemaan kotiin.
 
 **me pliza te helpa me.**
@@ -493,7 +493,7 @@ Juopa teetä.
 **pliza niama kafe.**
 Juopa kahvia.
 
-**pliza laya dom.**
+**pliza laya dome.**
 Tulepa kotiin.
 
 **pliza helpa me.**
@@ -560,7 +560,7 @@ Onko sinulla jano?
 **pardon! me no aha.**
 Anteeksi, minä en ymmärrä.
 
-**pardon! ce ke?**
+**pardon! ye ke?**
 Anteeksi, mikä tämä on?
 
 **pardon. te namu ke?**
@@ -582,17 +582,17 @@ Anteeksi, minä en ymmärrä sinua.
 **me no bas aha te.**
 En aivan ymmärtänyt sinua.
 
-**me aha nol.**
+**me aha nole.**
 En ymmärrä yhtään.
 
 
 
 ### abla <small>osata</small>
 
-**me abla gida kar.**
+**me abla xofa gare.**
 Osaan ajaa autolla.
 
-**le no abla gida kar.**
+**le no abla xofa gare.**
 Hän ei osaa ajaa autolla.
 
 **eska te abla xula le?**
@@ -610,7 +610,7 @@ Minä osaan vähän panduniaa.
 **me no abla engli.**
 Minä en osaa englantia.
 
-**pardon. me no abla te du bax.**
+**pardon. me no abla ti baxe.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -626,7 +626,7 @@ Minä puhun sinulle.
 **mome loga pa unale.**
 Me puhumme toisillemme.
 
-**se loga "kissa" sa ki yang sa pandunia?**
+**ze loga "kissa" sa ki yange sa pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
 **"kissa" si ke sa pandunia?**
@@ -641,42 +641,42 @@ Kissa sanoo miau.
 **me no abla auda te.**
 En voi kuulla sinua.
 
-**pliza loga forti.**
+**pliza loga forto.**
 Puhuisitko kovempaa.
 
 **me auda musike.**
 Minä kuuntelen musiikkia.
 
-**te auda ki yang du musike?**
+**te auda ki yange du musike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
 
-### wida <small>nähdä</small>
+### vida <small>nähdä</small>
 
-**suku wida te.**
+**suku vida te.**
 Hauska nähdä sinua!
 
-**wida te repi!**
+**vida te repo!**
 Nähdään myöhemmin!
 
-**wida te badi den!**
+**vida te badoden!**
 Nähdään huomenna!
 
-**me wida le predi den.**
+**me vida le predoden.**
 Minä näin hänet eilen.
 
 
 
 ### mena <small>tarkoittaa</small>
 
-**ci loge mena ke?**
+**yi loge mena ke?**
 Mitä tämä sana tarkoittaa?
 
 **"maw" mena ke?**
 Mitä "maw" tarkoittaa?
 
-**le mena yang da hewan.**
+**le mena yange da hewan.**
 Se tarkoittaa eräänlaista eläintä.
 
 **me no aha le mena ke.**
@@ -686,10 +686,10 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**pliza kitaba ti adres.**
+**pliza kitaba ti adrese.**
 Kirjoittaisitko osoitteesi.
 
-**pliza kitaba le sa ce.**
+**pliza kitaba le sa ye.**
 Kirjoittaisitko sen tähän!
 
 
@@ -708,7 +708,7 @@ Osaatko puhua englantia?
 **fransi, espani, portugal, rusi**
 Ranskaa, espanjaa, portugalia, venäjää
 
-**cini, nipon, indonesi**
+**cini, niponi, indonesi**
 Kiinaa, japania, indonesiaa
 
 **arabi, turki, farsi, urdi, hindi**
@@ -726,7 +726,7 @@ Swahilia, hausaa, jorubaa, amharaa
 **te gowa ke?**
 Minne sinä menet?
 
-**me gowa dom.**
+**me gowa dome.**
 Minä menen kotiin.
 
 **me bixu gowa ke?**
@@ -748,13 +748,13 @@ Menkäämme jalan!
 **pliza laya!**
 Tule tänne!
 
-**te laya ya ke?**
+**te laya ca ke?**
 Mistä sinä tulet?
 
-**me laya ya dubay.**
+**me laya ca dubay.**
 Minä tulen Dubaista.
 
-**me laya dom ming den.**
+**me laya dome badoden.**
 Minä tulen kotiin huomenna.
 
 
@@ -763,10 +763,10 @@ Minä tulen kotiin huomenna.
 **eska te safara sa tren?**
 Matkustatko junalla?
 
-**mome safara ya london pa paris.**
+**mome safara ca london pa paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar day long.**
+**safar polo longi.**
 Matka on hyvin pitkä.
 
 
@@ -775,19 +775,19 @@ Matka on hyvin pitkä.
 **hotel sa ke?**
 Missä hotelli on?
 
-**hotel sa ci daw.**
+**hotel sa wi daw.**
 Hotelli on tuolla tiellä.
 
 **te sa ke?**
 Missä sinä olet?
 
-**me sa dom.**
+**me sa dome.**
 Olen kotona.
 
 **le sa ke?**
 Missä hän on?
 
-**le sida sa kamar.**
+**le sida sa kamare.**
 Hän istuu huoneessa.
 
 Panduniassa sanaa **sa**
@@ -806,7 +806,7 @@ Missä sinä asut?
 **me domu singapur.**
 Asun Singaporessa.
 
-**eska te domu ci hotel?**
+**eska te domu yi hotel?**
 Astuko tässä hotellissa?
 
 On oikein sanoa "te domu sa ke?" lyhyemmän muodon "te domu ke" sijasta. Kuitenkin **doma**
@@ -831,62 +831,62 @@ Minä odotan sinua hotellissa.
 
 ## Osa 5. Ajan ilmaiseminen
 
-### zay <small>parhaillaan</small>
+### zayo <small>parhaillaan</small>
 
-**me zay salama te du doste.**  
+**me zay salama ti doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
-**man zay wida fem.**  
+**man zayo vida fem.**  
 Mies on katsomassa naista.
 
 **le zay xefe.**  
 Hän on päällikkö (parhaillaan).
 
-**le zay sa dom.**  
+**le zayo sa dom.**  
 Hän on parhaillaan kotona.
 
 
-### pas <small>ennen</small>
+### paso <small>ennen</small>
 
-**me pas salama te du doste.**  
+**me paso salama te du doste.**  
 Minä tervehdin sinun ystävääsi.
 
-**man pas wida fem.**  
+**man paso vida fem.**  
 Mies katsoi naista.
 
 **le pas xefe.**  
 Hän oli ennen päällikkö.
 
-**le pas sa dom.**  
+**le paso sa dome.**  
 Hän oli kotona.
 
 
-### lew <small>jo, valmiiksi</small>
+### lewo <small>jo, valmiiksi</small>
 
-**me lew salama te du doste.**  
+**me lewo salama ti doste.**  
 Minä olen tervehtinyt ystävääsi.
 
-**man lew wida fem.**  
+**man lewo vida fem.**  
 Mies on katsonut naista.
 
-**le lew xefe.**  
+**le lewo xefe.**  
 Hän on ollut päällikkö.
 
-**le lew sa dom.**  
+**le lewo sa dome.**  
 Hän on ollut kotona.
 
 
-### wil <small>myöhemmin, jatkossa</small>
+### wilo <small>myöhemmin, jatkossa</small>
 
-**me wil salama te du doste.**  
+**me wilo salama ti doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**man wil wida fem.**  
+**man wilo vida fem.**  
 Mies tulee näkemään naisen.
 
-**le wil xefe.**  
+**le wilo xefe.**  
 Hän tulee olemaan päällikkö.
 
-**le wil sa dom.**  
+**le wilo sa dome.**  
 Hän tulee olemaan kotona.
 

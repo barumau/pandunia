@@ -22,6 +22,7 @@ afrike - Afrique
 afriki - africain  
 afrikofiler - afrophile  
 afrikofilia - afrophilie  
+aga - si  
 agrese - agression (attaque)  
 aha - comprendre (réaliser)  
 ainstainium - Einsteinium  
@@ -151,6 +152,7 @@ buke - livre
 ca - de  
 camace - cuiller  
 canse - chance  
+carme - charme  
 cay (caye) - thé  
 cayokupe - tasse à thé  
 cerni - noir  
@@ -206,7 +208,6 @@ futobol - football
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
-gara - si  
 gase - gaz  
 gati - dur  
 gazele - gazelle  
@@ -214,6 +215,7 @@ gitare - guitare
 gole - but  
 gotone - coton  
 governe - gouvernement  
+grimase - grimace  
 grupe - groupe  
 gule - goule  
 gunden - palais  
@@ -249,6 +251,7 @@ jana - savoir (connaître)
 jeinistia - jaïnisme  
 jeka - empruntre  
 jekodona - prêter  
+jeni baxe - langue maternelle  
 jenotipe - génotype  
 jinse - genre (espèc)  
 jirafe - giraffe  
@@ -286,6 +289,7 @@ kitaba - écrire
 kitabe - écriture  
 kitabia - bibliothèque  
 kitabomaxin - machine à écrire  
+klari - clair  
 klimomute - changement climatique  
 ko - que (comme)  
 ko? - comment  
@@ -324,6 +328,7 @@ lider - dirigeant (leader)
 lifafa - envelopper (emballer)  
 lil (lili) - petit  
 limone - citron  
+lisane - langue  
 liste - liste  
 loga - parler  
 logivi - loquace  
@@ -518,6 +523,7 @@ teme - sujet (thème)
 tena - avoir  
 tenu - appartenir à  
 tepe - ruban (bande)  
+terci - oblique (de travers)  
 teroristia - terrorisme  
 tese - argument  
 teste - épreuve (test)  

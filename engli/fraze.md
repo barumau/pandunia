@@ -49,7 +49,7 @@ Good evening!
 **salam noce!**
 Good night!
 
-**salam niam!**
+**salam niame!**
 Bon appetit!
 
 **salam lay!**
@@ -58,10 +58,10 @@ Welcome!
 **salam cute!**
 Goodbye!
 
-**salam safar!**
+**salam safare!**
 Have a safe journey!
 
-**salam son!**
+**salam sone!**
 Sleep well!
 
 As you can see from the range of expressions, **salam** is a general word for
@@ -194,7 +194,7 @@ I greet him/her.
 **eska te tomas?**
 Are you Thomas?
 
-**eska te dotor?**
+**eska te dotore?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**. It is just a regular
@@ -225,10 +225,10 @@ Are you Thomas.
 **si, me tomas.**
 Yes, I am Thomas.
 
-**eska le dotor?**
+**eska le dotore?**
 Is he/she a doctor?
 
-**si, le dotor.**
+**si, le dotore.**
 Yes, he is a doctor.
 
 The word **si** can be used also for stating something as a fact. Then it is
@@ -240,7 +240,7 @@ I am Thomas.
 **te si sarah.**
 You are Sarah.
 
-**aple si pal.**
+**aple si pale.**
 The apple is a fruit.
 
 <small>Etymology. **si** is from Spanish: sí, Portuguese: sim, Mandarin: 是
@@ -373,13 +373,13 @@ That is red.
 **ye ke?**
 What's this?
 
-**ye me du fon.**
+**ye me du fone.**
 It's my phone.
 
 **ye ke du?**
 Whose is this?
 
-**ye me du.**
+**ye mi.**
 It's mine.
 
 Note: Possessive particle **du** is put between the owner and the owned thing.
@@ -398,34 +398,34 @@ I am Sarah's friend.
 Mandarin: 的 (de).</small>
 
 
-### nam <small>name</small>
+### name <small>name</small>
 
-**ti nam ke?**
+**ti name ke?**
 What's your name?
 
-**mi nam tomas.**
+**mi name tomas.**
 My name is Thomas.
 
-**li nam ke?**
+**li name ke?**
 What is his/her name?
 
-**li nam sarah.**
+**li name sarah.**
 Her name is Sarah.
 
-<small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
+<small>Etymology. **name** is from Hindi: नाम  "nām", Farsi: نام‏‎
 "nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
 Name, English: name.</small>
 
 
 ### tena <small>have</small>
 
-**me tena bon dom.**
+**me tena bon dome.**
 I have a good house.
 
 **le no tena pese.**
 He/she doesn't have money.
 
-**me wana tena novi fon.**
+**me wana tena novi fone.**
 I want to have a new phone.
 
 **eska te tena bace?**
@@ -445,7 +445,7 @@ Do you know that person?
 **eska tote jana unale?**
 Do you know each other?
 
-**mome jana unale ya long.**
+**mome jana unale ca long.**
 We know each other for long.
 
 
@@ -524,7 +524,7 @@ This red one.
 **me pliza te niama cay.**
 I ask you to drink tea.
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 I ask you to come home.
 
 **me pliza te helpa me.**
@@ -538,7 +538,7 @@ Please, have some tea!
 **pliza niama kafe.**
 Please, have some coffee!
 
-**pliza laya dom.**
+**pliza laya dome.**
 Please, come home!
 
 **pliza helpa me.**
@@ -553,7 +553,7 @@ Let's eat!
 **haida gowa niama!**
 Let's go eat!
 
-**haida gowa dom.**
+**haida gowa dome.**
 Let's go home.
 
 
@@ -582,7 +582,7 @@ Sorry, I don't understand.
 **pardon! ye ke?**
 Excuse me, what's this?
 
-**pardon. ti nam ke?**
+**pardon. ti name ke?**
 Excuse me, what's your name?
 
 
@@ -600,16 +600,16 @@ Sorry. I don't understand you.
 **me no bas aha te.**
 I didn't quite understand you.
 
-**me aha nol.**
+**me aha nole.**
 I don't understand at all.
 
 
 ### abla <small>can</small>
 
-**me abla xofa kar.**
+**me abla xofa gare.**
 I can drive a car.
 
-**le no abla gida kar.**
+**le no abla gida gare.**
 He/she doesn't know how to drive a car.
 
 **eska te abla xula le?**
@@ -627,7 +627,7 @@ I can speak a little Pandunia.
 **me no abla engli.**
 I can't speak English.
 
-**pardon. me no abla te du bax.**
+**pardon. me no abla ti baxe.**
 Sorry, I can't speak your language.
 
 
@@ -642,7 +642,7 @@ I talk to you.
 **mome loga pa unale.**
 We talk to each other.
 
-**ze loga "cat" sa ki yang sa pandunia?**
+**ze loga "cat" sa ki yange sa pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" si ke sa pandunia?**
@@ -666,7 +666,7 @@ Please speak louder.
 **me auda musike.**
 I listen to music.
 
-**te auda ki yang du musike?**
+**te auda ki yange du musike?**
 What kind of music do you listen to?
 
 
@@ -678,10 +678,10 @@ Pleased to see you!
 **vida te repo!**
 See you again!
 
-**vida te badi den!**
+**vida te badoden!**
 See you tomorrow!
 
-**me vida le predi den.**
+**me vida le predoden.**
 I saw him/her yesterday.
 
 
@@ -693,7 +693,7 @@ What does this word mean?
 **"maw" mena ke?**
 What does "maw" mean?
 
-**le mena yang da hewan.**
+**le mena yange da hewan.**
 It means a kind of animal.
 
 **me no aha le mena ke.**
@@ -702,7 +702,7 @@ I don't understand what it means.
 
 ### kitaba <small>write</small>
 
-**pliza kitaba ti adres.**
+**pliza kitaba ti adrese.**
 Please, write your address.
 
 **pliza kitaba le sa ye.**
@@ -740,7 +740,7 @@ Swahili, Hausa, Yoruba, Amharic
 **te gowa ke?**
 Where are you going?
 
-**me gowa dom.**
+**me gowa dome.**
 I'm going home.
 
 **me bixu gowa ke?**
@@ -767,7 +767,7 @@ Where do you come from?
 **me laya ca dubay.**
 I come from Dubai.
 
-**me laya dom badi den.**
+**me laya dom badoden.**
 I will come home tomorrow.
 
 
@@ -776,10 +776,10 @@ I will come home tomorrow.
 **eska te safara sa tren?**
 Do you travel by train?
 
-**mome safara ya london pa paris.**
+**mome safara ca london pa paris.**
 We travel from London to Paris.
 
-**safar day long.**
+**safar polo longi.**
 The voyage is very long.
 
 
@@ -794,13 +794,13 @@ The hotel is on that road.
 **te sa ke?**
 Where are you?
 
-**me sa dom.**
+**me sa dome.**
 I'm at home.
 
 **le sa ke?**
 Where is he/she?
 
-**le sida sa kamar.**
+**le sida sa kamare.**
 He/she sits in the room.
 
 Tip! You can use **sa** as a preposition or alone as the verb.
@@ -842,63 +842,63 @@ I wait for you in the hotel.
 
 ## Part 5. Time expressions
 
-### zay <small>currently</small>
+### zayo <small>currently</small>
 
-**me zay salama te du doste.**  
+**me zay salama ti doste.**  
 I am greeting your friend.
 
-**man zay vida fem.**  
+**man zayo vida fem.**  
 The man is looking at the woman.
 
-**le zay xefe.**  
+**le zayo xefe.**  
 He or she is currently the chief.
 
-**le zay sa dom.**  
+**le zayo sa dom.**  
 He or she is currently at home.
 
 
-### pas <small>in the past</small>
+### paso <small>in the past</small>
 
-**me pas salama te du doste.**  
+**me paso salama te du doste.**  
 I greeted your friend.
 
 **man pas vida fem.**  
 The man looked at the woman.
 
-**le pas xefe.**  
+**le paso xefe.**  
 He or she was the chief.
 
-**le pas sa dom.**  
+**le paso sa dome.**  
 He or she was at home.
 
 
-### lew <small>already, completed</small>
+### lewo <small>already, completed</small>
 
-**me lew salama te du doste.**  
+**me lewo salama ti doste.**  
 I have greeted your friend.
 
-**man lew vida fem.**  
+**man lewo vida fem.**  
 The man has looked at the woman.
 
-**le lew xefe.**  
+**le lewo xefe.**  
 He or she has been the chief.
 
-**le lew sa dom.**  
+**le lewo sa dome.**  
 He or she has been at home.
 
 
-### wil <small>(future action)</small>
+### wilo <small>(future action)</small>
 
-**me wil salama ti doste.**  
+**me wilo salama ti doste.**  
 I will greet your friend.
 
-**man wil vida fem.**  
+**man wilo vida fem.**  
 The man will see the woman.
 
-**le wil xefe.**  
+**le wilo xefe.**  
 He or she will be the chief.
 
-**le wil sa dom.**  
+**le wilo sa dom.**  
 He or she will be at home.
 
 
@@ -947,13 +947,13 @@ The rent is 500 dollars in a month.
 **le no abla peya kire.**  
 He/she can't pay the rent.
 
-**me wana kapa un kar sa kire.**  
+**me wana kapa un gare sa kire.**  
 I want to take a car for rent.
 
-**me wana kirokapa un kar.**
+**me wana kirokapa un gare.**
 I want to rent a car.
 
-**le kirodona kamar pa safarer.**
+**le kirodona kamare pa safarer.**
 He/she rents rooms to travelers.
 
 

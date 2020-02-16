@@ -25,6 +25,7 @@ adresosimbol (@) - arroba (@)
 adulte - adulto  
 afrike - África  
 afriki - africano  
+aga - si (suponer)  
 agrese - ataque  
 agresi - agresivo  
 aha - entender (comprender)  
@@ -95,6 +96,7 @@ antigia - Antigua
 antigia e barbudia - Antigua y Barbuda  
 antokriste - Anticristo  
 antoname - antónimo  
+antorelojodixo - en el sentido contrario al las agujas del reloj  
 anuse - ano  
 anusi - anal  
 aphazia - abjazia  
@@ -163,8 +165,8 @@ badala - intercambiar (canjear)
 badame - almendra  
 badani - corpóreo  
 badawi - nómada  
-bade - consecuencia  
-badi - siguiente  
+bade - consecuencia (dorso)  
+badi - siguiente (trasero)  
 badi den - mañana  
 bado - más tarde  
 badofikse - sufijo  
@@ -362,6 +364,7 @@ capa - imprimir
 capate - chapati (pan sin levadura)  
 cape - grabado (sello, estampando)  
 car - cuatro (4)  
+carme - encanto  
 carogone - cuadro  
 cate - techo (tejado)  
 cay (caye) - té  
@@ -432,6 +435,8 @@ dantobrox - cepillo de dientes
 dantomediker - dentista (odontólogo)  
 darba - golpear (pegar)  
 darje - paso (grado, nivel, rango, calidad, categoría)  
+darjobona - mejorar  
+darjomala - degradar  
 darme - moralidad (ética)  
 darmi - moral (ético)  
 darmoloji - ética (filosofía moral)  
@@ -498,6 +503,7 @@ diske - disco
 disprosium - disprosio  
 divehia - Maldivas  
 dixe - dirección  
+dixo - directamente  
 doici - alemán  
 doicia - Alemania  
 dokume - documento (archivo, nota)  
@@ -511,7 +517,8 @@ dominogem - dominó
 domu - vivir (residir)  
 dona - dar  
 done - regalo (obsequio)  
-dong - éste  
+donge - éste  
+dongi - oriental  
 dongi timoria - Timor Oriental  
 doste - amigo  
 dosti - simpático (amable)  
@@ -725,7 +732,6 @@ fotomaxin - cámara
 fransi polinesia - Polinesia Francesa  
 fransia - Francia  
 fransium - francio  
-fraze - oración (frase)  
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - llevar (vestir)  
 fuke - ropa (vestimenta)  
@@ -761,23 +767,21 @@ galte - error
 galti - erróneo  
 galto buda - malinterpretar  
 gambia - Gambia  
-gamel - camello  
+gamele - camello  
 gana - secar  
 gandia - Uganda  
-gang - ahora mismo (justo)  
 ganga - Ganges  
 gani - seco (árido)  
 gania - Ghana  
 ganje - cannabis (hachís, marihuana)  
 ganoputaw - pasa (uva pasa)  
 ganya - ganar (cobrar)  
-gara - si (suponer)  
 garante - garantía  
 garda - vigilar (guardar)  
 garder - vigilante (guardia)  
 gare - coche (carruaje, auto, vagón)  
 garmi - caliente (cálido)  
-garmi masal - garam masala  
+garmi masale - garam masala  
 garoparke - estacionamiento (aparcamiento)  
 gase - gas  
 gasi - gaseoso  
@@ -786,7 +790,11 @@ gati - duro
 gatomate - sólido  
 gatomati - rígido (sólido)  
 gawa - levantar (elevar)  
+gawe - alto (parte de arriba)  
 gawi - alto  
+gawia - altura (altitud)  
+gawolada - cargar (subir)  
+gawotali - vertical  
 gawu - subir (alzar)  
 gayania - Guyana  
 gaze - gasa  
@@ -826,7 +834,7 @@ grame - gramo (g)
 grase - césped (hierba)  
 grenadia - Granada  
 grenadin - Granadinas  
-grimas - mueca  
+grimase - mueca  
 grome - truenos (estruendo)  
 gromotufane - tormenta  
 grosi - grueso  
@@ -943,6 +951,7 @@ historer - historiador
 historia - historia (estudio de sucesos del pasado)  
 hobe - pasatiempo (hobby, afición)  
 hoke - hockey  
+holere - cólera  
 holi - entero (todo)  
 holmium - holmio  
 holograme - holograma  
@@ -950,6 +959,8 @@ hon - cien (##)
 hondurasia - Honduras  
 hongong - Hong Kong  
 hore - hora  
+horizone - horizonte  
+horizoni - horizontal  
 hormon - hormona  
 horvatia - Croacia  
 hotel (hotele) - hotel (albergue)  
@@ -980,6 +991,7 @@ imperer - emperador
 imperia - imperio  
 imperiste - imperialista  
 imperistia - imperialismo  
+inda - contener  
 inde - interior  
 indi - interior (interno)  
 indium - indium  
@@ -1066,6 +1078,7 @@ jeng - pelea (guerra, batalla)
 jenger - luchador (guerrero)  
 jengi - macrial (militar)  
 jengoxute - arte marcial  
+jeni baxe - lengua materna  
 jenoden - cumpleaños  
 jenoklas - casta  
 jenotipe - genotipo  
@@ -1077,6 +1090,8 @@ jeste - gesto
 jibraltar - Gibraltar  
 jibutia - Yibuti  
 jina - avanzar (entrar, adelantar, progresar)  
+jino - adelante  
+jinomun - entrada  
 jinse - género  
 jirafe - jirafa  
 joke - broma (chiste)  
@@ -1093,6 +1108,7 @@ jumle - oración
 junga - centrar (concentrar)  
 jungafrikia - República Centroafricana  
 junge - centro  
+jungi - central  
 jungogia - China  
 jungu - centrarse (en el centro de)  
 jupe - falda  
@@ -1168,9 +1184,10 @@ karawe - carvis (alcaravea)
 karbone - carbón  
 karbonodulokside - dióxido de carbono  
 karde - tarjeta (carta)  
+kariba - axproximarse  
+karibe - proximidad  
 karibi - cerca  
 karibo - casi (aproximadamente)  
-karibu - axproximarse  
 karimi - generoso (dadivoso, caritativo)  
 karimia - generosidad (caridad)  
 karite - karité  
@@ -1255,8 +1272,8 @@ kitabia - biblioteca
 kitabomaxin - máquina de escribir  
 kitaborupe - formateo  
 kiwe - kiwi fruta  
-klara - claro  
-klari - aclarar (clarificar)  
+klara - aclarar (clarificar)  
+klari - claro  
 klasa - klase (tipo, categoría)  
 klase - clasificar  
 klime - clima  
@@ -1275,8 +1292,7 @@ kode - código (cifra)
 koke - coca  
 kokode - pollo  
 kokos nesia - Islas Cocos (Islas Keeling)  
-kola - cola (refresco de cola)  
-koler - cólera  
+kole - cola (refresco de cola)  
 kolombia - Colombia  
 kolona - colonizar  
 koloner - colono  
@@ -1351,6 +1367,7 @@ krize - crisis
 krizi - crítico (fundamental)  
 kromium - cromo  
 krote - topo  
+krusa - cruzar  
 kruse - cruz  
 krusofiksa - crucificar  
 kuange - ancho  
@@ -1400,10 +1417,12 @@ lasker - soldado
 laskeria - ejército  
 lasti - elástico (flexible)  
 lasune - ajo  
+lata - estar al lado de  
 late - lado (flanco)  
 lati - lateral  
 latini abace - alfabeto latino  
 latinokitaba - romanizar  
+lato - de lado  
 latoren - compañero (compinche)  
 latovia - Letonia  
 laurensium - laurencio  
@@ -1418,6 +1437,7 @@ laya - venir
 lazanye - lasaña  
 le - él o ella  
 lefte - lado izquerdo  
+lefti - izquierdo  
 leftiste - izquerdista  
 lekin - sin embargo  
 leksaslia - etimología  
@@ -1464,6 +1484,7 @@ limonorangi - amarillo
 linfe - linfa  
 linye - raya (linea)  
 linyoparce - nueva línea  
+lisane - lengua  
 lisi - suave (liso)  
 liste - lista  
 litium - litio  
@@ -1904,6 +1925,7 @@ nova - renovar
 novi - nuevo  
 novi kaledonia - Nueva Caledonia  
 novi zilandia - Nueva Zelanda  
+novo - ahora mismo (justo)  
 nudi - desnudo  
 nudiste - nudista  
 nudistia - nudismo  
@@ -2143,7 +2165,9 @@ prasedim - praseodimio
 prate - práctica  
 prati - práctico  
 preda - preceder (anteceder)  
+prede - frente  
 predi - previo (anterior)  
+predo - más temprano (antes)  
 predoden - ayer  
 predofikse - prefijo  
 predogara - presuponer  
@@ -2184,6 +2208,7 @@ radium - radio
 radometer - radiómetro  
 radon - radón  
 raite - lado derecho  
+raiti - derecho  
 raitiste - derechista  
 rajer - rey o reina  
 raji - real (de realtad)  
@@ -2219,6 +2244,7 @@ redi - listo (preparado)
 rege - arena  
 registan - desierto  
 reloje - reloj  
+relojodixo - en el sentido del las agujas del reloj  
 relojominare - torre del reloj  
 ren (rene) - persona (gente)  
 rengenium - roentgenio  
@@ -2235,6 +2261,7 @@ restoran - restaurante
 restu - quedarse  
 retra - volver  
 retre - vuelta  
+retro - al revés  
 retrotikete - billete de ida y vuelta  
 reunion - Reunión  
 rezerva - reservar  
@@ -2419,7 +2446,7 @@ sifa - definir
 sife - cualidad (atributo, descripción)  
 sifi - descriptivo  
 sifolekse - adjetivo  
-sigar - cigarro  
+sigare - cigarro  
 sihe - salud  
 sihi - saludable  
 sikiste - sij  
@@ -2485,11 +2512,13 @@ suboniam - desayuno
 sudafrikia - Sudáfrica  
 sudania - Sudán  
 sude - sur  
+sudi - sureño  
 sudi amerike - Sudamérica  
 sudi cosenia - Corea del Sur  
 sudi iria, alonia - Osetia del Sur  
 sudi jorjia e sudi sanwice nesia - Georgias del Sur y Sándwich del Sur  
 sudi sudania - Sudán del Sur  
+sudonordia - latitud  
 suede - sudor  
 suedi - sudoroso (sudado)  
 suenia - Suecia  
@@ -2541,8 +2570,11 @@ tajikia - Tayikistán
 taksa - gravar (cobrar tasas)  
 takse - tasa (precio, impuesto, tarifa)  
 taksokare - taxi (cab)  
+tala - bajar  
 tale - fondo  
+tali - bajo  
 talium - talio  
+talolada - descargar  
 tamare - dátil  
 tami - codicioso (avaro)  
 tamili - tamil  
@@ -2573,8 +2605,9 @@ tehne - técnica
 tehnetium - tecnetio  
 tehnokratia - tecnocracia  
 tehnolojia - tecnología  
-tele - distancia  
+tele - lo lejos  
 teli - lejano (lejos)  
+telia - distancia  
 telofone - telefono  
 telovide - televisión  
 telugi - télugu  
@@ -2593,6 +2626,8 @@ tenu - ser de
 teoria - teoría  
 tepe - cinta adhesiva  
 terbium - terbio  
+terca - inclinar  
+terci - oblicuo (torcido)  
 terme - temperatura  
 termometer - termómetro  
 tero- - tera-  
@@ -2788,7 +2823,8 @@ werke - trabajo
 werker - trabajador (obrero)  
 werkomeze - escritorio (mesa de trabajo)  
 weste - oeste  
-westi - del oeste (occidental)  
+westi - occidental  
+westodongia - longitud  
 wi - eso  
 wike - página wiki  
 wikia - wiki  
@@ -2933,7 +2969,7 @@ zirkonium - circonio
 ziza - chisporrotear  
 zombe - zombi  
 zone - cinturón (zona)  
-zukam - resfriado (catarro)  
+zukame - resfriado (catarro)  
 zuke - etnia  
 zuki - étnico  
 zukomedi - interétnica  
