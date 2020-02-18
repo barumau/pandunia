@@ -704,6 +704,7 @@ fotograf - valokuva (foto)
 fotografer - valokuvaaja  
 fotografia - valokuvaus  
 fotomaxin - kamera  
+fransi krepe - kreppi  
 fransi polinesia - Ranskan Polynesia  
 fransia - Ranska  
 fransium - fransium  
@@ -906,6 +907,8 @@ hewanoparke - eläintarha
 hibride - risteytys (hybridi)  
 hidre - vety  
 hijabe - verho (huntu, peite)  
+hijeni - hygieeninen  
+hijenia - hygienia (puhtaus)  
 himalia - Himalaja  
 hime - lumi  
 himorose - kuura  
@@ -1120,11 +1123,11 @@ kandele - kandela
 kange - kampa  
 kangur - kenguru  
 kanjare - tikari  
-kanoe - kanootti  
 kanokexe - silmäripsi  
 kanone - tykki (pyssy)  
 kanoner - tykkimies  
 kanosuy - kyynel  
+kanowe - kanootti  
 kante - olkapää (hartia)  
 kanune - laki  
 kapa - ottaa kiinni (napata, kaapata)  
@@ -1296,6 +1299,8 @@ krane - hana (venttiili, kraana)
 kratia - valta  
 kreme - kerma  
 kremi - kermankeltainen  
+krepe - lätty (räiskäle, pannukakku)  
+kreperia - kreppikoju  
 krime - rikos  
 krimi - rikos- (rikollinen)  
 kriste - kristus (messias)  
@@ -1308,6 +1313,7 @@ kriton - kryptoni
 krize - kriisi (käännekohta)  
 kromium - kromi  
 krote - kontiainen (maamyyrä)  
+kruasan - voisarvi (kroissantti)  
 kruse - risti  
 krusofiksa - ristiinnaulita  
 kuange - kivennäinen (mineraali)  
@@ -1751,7 +1757,7 @@ nasiste - nationalisti
 nasistia - kansallisuusaate (nationalismi)  
 nasomedi - kansainvälinen  
 natre - natrium  
-nauru - Nauru  
+nauria - Nauru  
 naw - yhdeksän  
 nawati - nahuatli  
 nederlandi antilia - Alankomaiden Antillit  
@@ -1933,7 +1939,7 @@ pantalone - housut
 papagaye - papukaija  
 papaye - papaija  
 pape - isä  
-papua novi ginia - Papua Uusi-Guinea  
+papuwi novi ginia - Papua Uusi-Guinea  
 paraguayia - Paraguai  
 parame - parametri (argumentti)  
 paraya - halveksia (hyljeksiä)  
@@ -2033,7 +2039,7 @@ pliza - pyytää
 pliza laya - pyytää tulemaan  
 plumbe - lyijy  
 plus (pluso) - myös (lisäksi, plus)  
-pluto - Pluto (kääpiöplaneetta)  
+pluton - Pluto (kääpiöplaneetta)  
 plutonium - plutonium  
 podia - Tiibet  
 poke - pokeri  
@@ -2208,6 +2214,7 @@ rupe - ilmiasu (ulkonäkö)
 rupoboni - hyvännäköinen  
 rupu - näyttää jltkn  
 rusi - venäläinen  
+rusi krepe - blini  
 rusia - Venäjä  
 ruste - kylä  
 rusti - maalais-  
@@ -2255,12 +2262,12 @@ salvadoria - El Salvador
 samane - taivas  
 samemose - myötätunto (sympatia)  
 sami - sama  
-samoa - Samoa  
 samodexi - samanmaalainen (maanmies)  
 samojinsokami - homoseksuaali  
 samonam - homonyymi  
 samoraya - olla samaa mieltä  
 samoraye - yhteisymmärrys  
+samowia - Samoa  
 samude - meri  
 samudi - meri- (merellinen)  
 samudolaskeria - merivoimat  
@@ -2684,6 +2691,7 @@ wine - voitto
 winge - siipi  
 wolfe - susi (hukka)  
 wolfram - wolframi  
+wolofi - wolofin kansa ja kieli  
 ##x
 xakale - šakaali  
 xake - oksa (haara)  
@@ -2762,6 +2770,7 @@ yoga - joogata
 yoge - jooga  
 yogiste - joogi  
 yohani feste - juhannus (kristillinen juhla)  
+yorubi - joruban kansa ja kieli  
 yote - pisara (tippa)  
 yuke - jade  
 yumor - huumori  

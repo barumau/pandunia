@@ -729,6 +729,7 @@ fotograf - foto (fotografía)
 fotografer - fotógrafo  
 fotografia - fotografía  
 fotomaxin - cámara  
+fransi krepe - crepa  
 fransi polinesia - Polinesia Francesa  
 fransia - Francia  
 fransium - francio  
@@ -939,6 +940,7 @@ hewanoparke - zoo
 hibride - híbrido (mestizo)  
 hidre - hidrógeno  
 hijabe - velo  
+hijenia - higiene  
 himalia - Himalaya  
 hime - nieve  
 himorose - escarcha  
@@ -1168,12 +1170,12 @@ kandele - candela (unidad de intensidad luminosa)
 kange - peine  
 kangur - canguro  
 kanjare - puñal (daga)  
-kanoe - canoa  
 kanokexe - pestaña  
 kanone - cañón  
 kanoner - cañonear  
 kanosuy - lágrima  
 kanosuyogas - gas lacrimógeno  
+kanowe - canoa  
 kante - hombro  
 kanune - regla (ley)  
 kapa - capturar (apresar)  
@@ -1354,6 +1356,7 @@ krane - válvula (llave, canilla)
 kratia - dominio (reinado)  
 kreme - crema  
 kremi - cremoso  
+krepe - panqueque (crepa)  
 krime - crimen (delito)  
 krimi - criminal  
 kriste - Cristo (mesías)  
@@ -1367,6 +1370,7 @@ krize - crisis
 krizi - crítico (fundamental)  
 kromium - cromo  
 krote - topo  
+kruasan - cruasán  
 krusa - cruzar  
 kruse - cruz  
 krusofiksa - crucificar  
@@ -1829,7 +1833,7 @@ nasiste - nacionalista
 nasistia - nacionalismo  
 nasomedi - internacional  
 natre - sodio  
-nauru - Naúru  
+nauria - Naúru  
 naw - nueve (9)  
 nawati - náhuatl (nahua)  
 nederlandi antilia - Antillas Neerlandesas  
@@ -2020,7 +2024,7 @@ papagaye - loro (papagayo)
 papaye - papaya  
 pape - padre (papá)  
 papire - artículo (documento)  
-papua novi ginia - Papúa Nueva Guinea  
+papuwi novi ginia - Papúa Nueva Guinea  
 paraguayia - Paraguay  
 parame - parámetro  
 paraya - despreciar (desdeñar)  
@@ -2123,7 +2127,7 @@ pliza - pedir (invitar)
 pliza laya - invitar  
 plumbe - plomo  
 plus (pluso) - además (más)  
-pluto - Plutón  
+pluton - Plutón  
 plutonium - plutonio  
 podia - Tíbet  
 poke - póquer  
@@ -2364,7 +2368,6 @@ samani - celeste (celestial)
 samarium - samario  
 samemose - compasión  
 sami - similar (mismo)  
-samoa - Samoa  
 samodexi - compatriota  
 samojinsokami - homosexual  
 samonam - homónimo  
@@ -2372,6 +2375,7 @@ samoraya - acordar
 samoraye - acuerdo  
 samoromansi - homorromántico  
 samoseksi - homosexual  
+samowia - Samoa  
 samu - parecerse a  
 samude - mar  
 samudi - marítimo  

@@ -735,6 +735,7 @@ fotograf - photograph
 fotografer - photographer  
 fotografia - photography  
 fotomaxin - camera  
+fransi krepe - crepe  
 fransi polinesia - French Polynesia  
 fransia - France  
 fransium - francium  
@@ -944,6 +945,8 @@ hewanoparke - zoo (zoological garden)
 hibride - hybrid (mongrel)  
 hidre - hydrogen  
 hijabe - veil (cover, screen)  
+hijeni - cleanly (hygienic, sanitary)  
+hijenia - hygiene (cleanliness)  
 himalia - Himalayas  
 hime - snow  
 himorose - frost  
@@ -1175,12 +1178,12 @@ kandele - candela
 kange - comb  
 kangur - cangaroo  
 kanjare - dagger  
-kanoe - canoe  
 kanokexe - eyelash  
 kanone - gun (cannon)  
 kanoner - cannoneer  
 kanosuy - tear drop  
 kanosuyogas - tear gas  
+kanowe - canoe  
 kante - shoulder  
 kanune - law  
 kapa - catch (capture, seize, snatch, intercept)  
@@ -1363,6 +1366,8 @@ krane - valve (tap, faucet)
 kratia - rule (reign)  
 kreme - cream  
 kremi - creamy (cream colored)  
+krepe - pancake  
+kreperia - crêperie  
 krime - crime  
 krimi - criminal  
 kriste - Christ (messiah)  
@@ -1376,6 +1381,7 @@ krize - crisis
 krizi - critical (pertaining to crisis)  
 kromium - chromium  
 krote - mole (burrowing animal)  
+kruasan - croissant  
 krusa - cross (go across)  
 kruse - cross  
 krusofiksa - crucify  
@@ -1839,7 +1845,7 @@ nasiste - nationalist
 nasistia - nationalism  
 nasomedi - international  
 natre - sodium  
-nauru - Nauru  
+nauria - Nauru  
 naw - nine (9)  
 nawati - Nahuatl (Nahua)  
 nederlandi antilia - Netherlands Antilles  
@@ -2030,7 +2036,7 @@ papagaye - parrot (parakeet)
 papaye - papaya  
 pape - father (dad, papa)  
 papire - document (paper)  
-papua novi ginia - Papua New Guinea  
+papuwi novi ginia - Papua New Guinea  
 paraguayia - Paraguay  
 parame - parameter (argument, input variable)  
 paraya - despise (scorn)  
@@ -2134,7 +2140,7 @@ pliza - ask (request, beg; please)
 pliza laya - invite  
 plumbe - lead  
 plus (pluso) - also (plus, too)  
-pluto - Pluto (dwarf planet)  
+pluton - Pluto (dwarf planet)  
 plutonium - plutonium  
 podia - Tibet  
 poke - poker  
@@ -2321,6 +2327,7 @@ rupe - appearance (looks)
 rupoboni - good-looking  
 rupu - seem  
 rusi - Russian  
+rusi krepe - blini  
 rusia - Russia  
 ruste - village  
 rusti - rural (rustic)  
@@ -2374,7 +2381,6 @@ samani - celestial (heavenly)
 samarium - samarium  
 samemose - compassion (sympathy)  
 sami - same (similar)  
-samoa - Samoa  
 samodexi - compatriot  
 samojinsokami - homosexual  
 samonam - homonym  
@@ -2382,6 +2388,7 @@ samoraya - agree (concur)
 samoraye - agreement (consent)  
 samoromansi - homoromantic  
 samoseksi - homosexual  
+samowia - Samoa  
 samu - resemble (be like)  
 samude - sea  
 samudi - maritime  
@@ -2848,6 +2855,7 @@ wine - victory (win)
 winge - wing  
 wolfe - wolf  
 wolfram - tungsten (wolfram)  
+wolofi - Wolof (language and people)  
 ##x
 xakale - jackal  
 xake - branch (bough)  
@@ -2933,6 +2941,7 @@ yoga - do yoga
 yoge - yoga  
 yogiste - yogi  
 yohani feste - Saint John's Day  
+yorubi - Yoruba (language and people)  
 yote - drop (droplet)  
 yuke - jade  
 yumor - humor  

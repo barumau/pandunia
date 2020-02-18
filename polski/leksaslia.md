@@ -398,9 +398,9 @@
 |**kande**|cukierek, słodycze|eng:candy, hin:कैंडी (kaiṇḍī), jpn:キャンデー (ja) (kyandē), tgl:kendi|
 |**kange**|grzebień|hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā)|
 |**kanjare**|sztylet (puginał)|fas:(xanjar), tur:haner, rus:кинжал (kinžal)|
-|**kanoe**|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |**kanone**|działo|eng:cannon, spa:cañón, zho:加农 (jiānóng), jpn:(kyanon), kor:캐넌 (kaeneon)|
 |**kanosuy**|łza|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|**kanowe**|kanoe|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |**kante**|bark (ramię)|hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|
 |**kanune**|prawo|ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|
 |**kapa**|złapać, łapać, schwytać, chwytać|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
@@ -456,10 +456,12 @@
 |**koy**|jakiś|hin:कोई (koī), urd:(koī), rus:кое- (koye-)|
 |**krane**|kran (zawór)|ned:kraan, rus:кран (kran), pol:kran, may:keran|
 |**kreme**|krem|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
+|**krepe**|naleśnik|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
 |**krime**|przestępstwo|eng:fra:por:crime, spa:crimen, tgl:krimen|
 |**kristojen**|Boże Narodzenie|ell:Χριστούγεννα (Christoúgenna)|
 |**krize**|kryzys|eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|
 |**krote**|kret|rus:крот (krot)|
+|**kruasan**|croissant|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
 |**kruse**|krzyż|eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|
 |**kuange**|minerał, ruda|zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|
 |**kuani**|szeroki|zho:宽 (kuān), tha:กว้าง (kwang), vie:quảng|

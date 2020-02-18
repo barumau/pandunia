@@ -503,6 +503,7 @@ fotograf - foto
 fotografer - fotisto  
 fotografia - fotografio  
 fotomaxin - fotilo  
+fransi krepe - franca krepo  
 fransia - Francio  
 fransium - franciumo  
 fuka - vesti  
@@ -768,9 +769,9 @@ kance - vitro
 kande - bombono  
 kangur - kangaro  
 kanjare - ponardo  
-kanoe - kanuo (kanoto)  
 kanone - kanono  
 kanoner - kanonisto  
+kanowe - kanuo (kanoto)  
 kante - ŝultro  
 kanune - lego  
 kapa - kapti  
@@ -866,6 +867,8 @@ koy xey - io
 krane - krano (valvo)  
 kratia - regi  
 kreme - kremo  
+krepe - krepo (patkuko)  
+kreperia - krepejo  
 krime - krimo  
 krimi - krima  
 kriste - kristo  
@@ -873,6 +876,7 @@ kristojen - kristnasko
 kriton - kriptono  
 krize - krizo  
 kromium - kromo  
+kruasan - korna bulko  
 kruse - kruco  
 kube - kubo  
 kuga - plori  
@@ -1292,6 +1296,7 @@ ruholojia - psikologio
 ruke - dorso  
 rupe - aspekto  
 rupoboni - bonaspekta  
+rusi krepe - rusa krepo  
 ruste - vilaĝo  
 rutenium - rutenio  
 ruterfordium - ruterfordio  

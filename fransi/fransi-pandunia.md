@@ -128,7 +128,7 @@ café - kafe
 cage - kafase  
 calculer - hisaba  
 canapé (sofa) - kanape  
-canoë - kanoe  
+canoë - kanowe  
 capacité (compétence) - able  
 Caraïbes - karaibia  
 carte - karde  
@@ -169,9 +169,13 @@ coupe (tasse, verre) - kope
 couronne - korone  
 couvrir - daka  
 creuser - kava  
+croissant - kruasan  
 croix - kruse  
 crème - kreme  
 crème glacée - aisokrem  
+crêpe - fransi krepe  
+crêpe - krepe  
+crêperie - kreperia  
 cube - kube  
 cuiller - camace  
 cycliste - sikliste  
@@ -261,6 +265,7 @@ horloge - reloje
 hourra - ura  
 humanisme - insanistia  
 humeur - emosohal  
+hygiène - hijenia  
 hélicoptère - helisoviman  
 hétérosexuel - aloseksi  
 hôtel - hotel (hotele)  
@@ -562,6 +567,7 @@ vrai - veri
 vulve - vulve  
 végétarien - vejetoniamiste  
 ##w
+wolof - wolofi  
 ##x
 ##y
 ##z

@@ -305,6 +305,7 @@ bismuth - bismute
 black - cerni  
 blacksmith (iron forger) - metalojanger  
 bleed - lowa sang  
+blini - rusi krepe  
 blog (web log) - bloge  
 blood - sange  
 blossom (bloom) - fulu  
@@ -411,7 +412,7 @@ candy (sweets) - kande
 cangaroo - kangur  
 cannabis (marijuana, ganja, pot, weed) - ganje  
 cannoneer - kanoner  
-canoe - kanoe  
+canoe - kanowe  
 captain - botoxefe  
 car (cart, carriage, wagon, automobile) - gare  
 car park (parking lot) - garoparke  
@@ -512,6 +513,7 @@ classify (categorize) - klasa
 clean (pure) - safi  
 clean (purify) - safa  
 cleaner - safer  
+cleanly (hygienic, sanitary) - hijeni  
 clear (obvious) - klari  
 climate - klime  
 climate change - klimomute  
@@ -625,17 +627,20 @@ cow - muh
 crafty (dexterous) - jangi  
 cream - kreme  
 creamy (cream colored) - kremi  
+crepe - fransi krepe  
 crime - krime  
 criminal - krimi  
 crisis - krize  
 critic - pipinger  
 critical (pertaining to crisis) - krizi  
 Croatia - horvatia  
+croissant - kruasan  
 cross (go across) - krusa  
 cross - kruse  
 crown - korone  
 crucify - krusofiksa  
 cry (shout) - krita  
+crêperie - kreperia  
 Cuba - kubia  
 cube - kube  
 cucumber - pepine  
@@ -1237,6 +1242,7 @@ hurt - paxa
 hush (shh) - xixo  
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
+hygiene (cleanliness) - hijenia  
 I (me) - me  
 ##i
 ice - aise  
@@ -1743,7 +1749,7 @@ national socialism - nasi socistia
 nationalism - nasistia  
 nationalist - nasiste  
 native language (mother tongue) - jeni baxe  
-Nauru - nauru  
+Nauru - nauria  
 Nazi - naciste  
 Nazism - nacistia  
 near (close) - karibi  
@@ -1919,6 +1925,7 @@ pan-American - panameriki
 pan-Asian - panasi  
 pan-European - paneuropi  
 Panama - panamia  
+pancake - krepe  
 panda - pande  
 pandemic - panodemi  
 pandemonium - panodemonia  
@@ -1932,7 +1939,7 @@ pantheon - panodewia
 pants (trousers) - pantalone  
 papaya - papaye  
 paper (material) - kagaze  
-Papua New Guinea - papua novi ginia  
+Papua New Guinea - papuwi novi ginia  
 Paraguay - paraguayia  
 parallel (longitudinal) - parogowi  
 parameter (argument, input variable) - parame  
@@ -2041,7 +2048,7 @@ player (gamer) - gemer
 please (delight, make happy) - suka  
 pliers (pincers) - pinser  
 plug (stop with a plug) - tapa  
-Pluto (dwarf planet) - pluto  
+Pluto (dwarf planet) - pluton  
 plutonium - plutonium  
 pocket - jebe  
 poem - xire  
@@ -2318,7 +2325,7 @@ salt - sale
 salty (saline) - sali  
 samarium - samarium  
 same (similar) - sami  
-Samoa - samoa  
+Samoa - samowia  
 San Marino - santi marinia  
 sand - rege  
 sandwich - sanduice  
@@ -2934,6 +2941,7 @@ wise - sofi
 with (by, at, in, on) - sa  
 without - na  
 wolf - wolfe  
+Wolof (language and people) - wolofi  
 woman (adult female) - maturi fem  
 wonder (be amazed) - ajabu  
 wood (timber) - moke  
@@ -2965,6 +2973,7 @@ yes - si
 yesterday - predoden  
 yoga - yoge  
 yogi - yogiste  
+Yoruba (language and people) - yorubi  
 you (singular) - te  
 you all - tote  
 young - jovani  

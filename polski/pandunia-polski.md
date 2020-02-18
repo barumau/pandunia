@@ -967,10 +967,10 @@ kande - cukierek, słodycze
 kange - grzebień  
 kangur - kangur  
 kanjare - sztylet (puginał)  
-kanoe - kanoe  
 kanone - działo  
 kanoner - kanonier  
 kanosuy - łza  
+kanowe - kanoe  
 kante - bark (ramię)  
 kanune - prawo  
 kapa - złapać, łapać, schwytać, chwytać  
@@ -1123,6 +1123,7 @@ koy xey - coś
 krane - kran (zawór)  
 kratia - rządzić, władać  
 kreme - krem  
+krepe - naleśnik  
 krime - przestępstwo  
 krimi - kryminalny, przestępczy  
 kriste - Chrystus, mesjasz  
@@ -1136,6 +1137,7 @@ krize - kryzys
 krizi - kryzysowy  
 kromium - chrom  
 krote - kret  
+kruasan - croissant  
 kruse - krzyż  
 kuange - minerał, ruda  
 kuangosuy - woda mineralna  
@@ -1526,7 +1528,7 @@ nasiste - nacjonalista
 nasistia - nacjonalizm  
 nasomedi - międzynarodowy  
 natre - sód  
-nauru - Nauru  
+nauria - Nauru  
 naw - dziewięć (9)  
 nawati - nahuatl  
 nederlandi antilia - Antyle Holenderskie  
@@ -1678,7 +1680,7 @@ pantalone - spodnie, pantalony, portki
 papagaye - papuga  
 papaye - papaja  
 pape - ojciec  
-papua novi ginia - Papua Nowa Gwinea  
+papuwi novi ginia - Papua Nowa Gwinea  
 paraguayia - Paragwaj  
 paraya - gardzić (pogardzać)  
 paraye - wyrzutek  
@@ -1775,7 +1777,7 @@ pliza - prosić
 pliza laya - zaprosić, zapraszać  
 plumbe - ołów  
 plus (pluso) - też, również  
-pluto - Pluton (planeta karłowata)  
+pluton - Pluton (planeta karłowata)  
 plutonium - pluton  
 poke - poker  
 pol - wiele  
@@ -1990,11 +1992,11 @@ samane - niebo
 samani - niebieski, niebiański, podniebny  
 samarium - samar  
 sami - taki sam  
-samoa - Samoa  
 samodexi - rodak, ziomek, krajan  
 samojinsokami - homoseksualny  
 samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samoraye - porozumienie  
+samowia - Samoa  
 samu - być podobnym, być jak  
 samude - może  
 samuna - łączyć, wiązać, złączyć  

@@ -258,6 +258,7 @@ co? - ke
 co? - ki ren  
 cofnąć (anulować, usunąć skutki) - ula  
 coś - koy xey  
+croissant - kruasan  
 cukier - xukar  
 cukierek, słodycze - kande  
 cynk - zinke  
@@ -716,7 +717,7 @@ Kanada - kanadia
 kanał - kanale  
 kangur - kangur  
 kannada - karnadi  
-kanoe - kanoe  
+kanoe - kanowe  
 kanonier - kanoner  
 kapelusz, czapka - tope  
 kaper (korsarz) - botokaper  
@@ -1151,6 +1152,7 @@ nadzieja, życzenie - inxala
 nagi, goły, obnażony - nudi  
 nahuatl - nawati  
 najmniej, minimalnie - minim (minimo)  
+naleśnik - krepe  
 należeć (być członkiem) - memba  
 należeć - tenu  
 namalować, malować - penta  
@@ -1173,7 +1175,7 @@ natura, środowisko - ekia
 nauczyciel - darsogur  
 nauczyć się, uczyć się, studiować - darsa  
 nauka, badanie, studiowanie - lojia  
-Nauru - nauru  
+Nauru - nauria  
 nawet - ato  
 nawyk (przyzwyczajenie) - ade  
 nazista - naciste  
@@ -1357,7 +1359,7 @@ panteon - panodewia
 papaja - papaye  
 papier - kagaze  
 papieros (cygar) - sigare  
-Papua Nowa Gwinea - papua novi ginia  
+Papua Nowa Gwinea - papuwi novi ginia  
 papuga - papagaye  
 para wodna - suyogas  
 paragon, pokwitowanie - reside  
@@ -1452,7 +1454,7 @@ platończyk - platoniste
 platyna - platinum  
 plecak - rukosake  
 plemię - tribe  
-Pluton (planeta karłowata) - pluto  
+Pluton (planeta karłowata) - pluton  
 pluton - plutonium  
 pluć - tuha  
 pochochodnia (latarka) - nurobaton  
@@ -1802,7 +1804,7 @@ Salwador - salvadoria
 sam, osobiście - tane  
 sam, siebie - ze  
 samar - samarium  
-Samoa - samoa  
+Samoa - samowia  
 samobieżny - automoti  
 samochód (automobil) - motokar  
 samolot - vimane  

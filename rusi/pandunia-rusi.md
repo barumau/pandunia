@@ -176,6 +176,7 @@ helisoviman - вертолёт
 hewane - животное  
 hewanoparke - зоопарк  
 hijabe - вуаль  
+hijenia - гигиена  
 hisaba - вычислять  
 hoke - хоккей  
 hore - час  
@@ -212,8 +213,8 @@ kamise - рубашка
 kanape - канапе  
 kance - стекло  
 kanjare - кинжал  
-kanoe - каноэ  
 kanosuyogas - слезоточи́вый газ  
+kanowe - каноэ  
 karbonodulokside - двуокись углерода  
 karde - карта  
 karte - карта  
@@ -241,6 +242,8 @@ korone - корона
 kosmi - космический  
 kosmia - космос  
 krane - кран  
+krepe - блин  
+kruasan - круассан  
 kruse - крест  
 kube - куб  
 ##l

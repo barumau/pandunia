@@ -241,6 +241,8 @@ konfusi - 困惑 (混乱)
 kope - 杯子  
 kosmi - 宇宙的  
 kosmia - 宇宙  
+krepe - 薄烤饼  
+kruasan - 牛角包  
 kuani - 宽  
 kube - 立方体  
 ##l

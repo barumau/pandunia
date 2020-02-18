@@ -193,6 +193,7 @@ betoni - betone
 Bhutan - drugia  
 biologia - biyolojia  
 biologinen elämä - biye  
+blini - rusi krepe  
 blogi (nettikolumni) - bloge  
 bohrium - borium  
 boikotti - boikote  
@@ -524,6 +525,8 @@ huume - droge
 huumori - yumor  
 huutaa - krita  
 huvi (hauskuus) - fane  
+hygieeninen - hijeni  
+hygienia (puhtaus) - hijenia  
 hyi! (pyh!) - fuy  
 hylkiö (paaria) - paraye  
 hymiö (emoji) - emoje  
@@ -666,6 +669,7 @@ joogata - yoga
 joogi - yogiste  
 jopa - ato  
 Jordania - urdunia  
+joruban kansa ja kieli - yorubi  
 jos (olettaa) - aga  
 joskus - koy sate  
 joukkue (tiimi) - time  
@@ -761,7 +765,7 @@ kandela - kandele
 kannabis (marihuana, hamppu) - ganje  
 kannada (eräs intialainen kieli) - karnadi  
 kannu (karahvi) - jare  
-kanootti - kanoe  
+kanootti - kanowe  
 kansa - nase  
 kansainvälinen - nasomedi  
 kansakunta - nasia  
@@ -979,6 +983,8 @@ koulu (opisto) - darsia
 kova - gati  
 Kreikka - helenia  
 kreikkalainen - heleni  
+kreppi - fransi krepe  
+kreppikoju - kreperia  
 kriisi (käännekohta) - krize  
 kriittinen (kriisi-) - krizi  
 kristinusko - krististia  
@@ -1249,6 +1255,7 @@ läntinen - westi
 läpikulku - transe  
 läpikäydä (passiivin muodostava verbi) - beyu  
 läsnäolo - zayia  
+lätty (räiskäle, pannukakku) - krepe  
 lääketiede - medikia  
 lääkäri (tohtori) - mediker  
 löytää (keksiä) - eureka  
@@ -1499,7 +1506,7 @@ natsismi - nacistia
 nauha (side) - bende  
 naula (piikki) - dinge  
 nauraa - haha  
-Nauru - nauru  
+Nauru - nauria  
 nauta (lehmä) - muh  
 nauttia (syödä, juoda) - niama  
 neliö - carogone  
@@ -1708,7 +1715,7 @@ papaija - papaye
 paperi - kagaze  
 pappi - dinogur  
 papu tai herne - dowe  
-Papua Uusi-Guinea - papua novi ginia  
+Papua Uusi-Guinea - papuwi novi ginia  
 papukaija - papagaye  
 Paraguai - paraguayia  
 parametri (argumentti) - parame  
@@ -1804,7 +1811,7 @@ Platon - platon
 platoninen - platonisti  
 platonismi - platonistia  
 platonisti - platoniste  
-Pluto (kääpiöplaneetta) - pluto  
+Pluto (kääpiöplaneetta) - pluton  
 plutonium - plutonium  
 pohja - tale  
 pohjoinen - norde  
@@ -2051,7 +2058,7 @@ sama - sami
 samanmaalainen (maanmies) - samodexi  
 Sambia - zambia  
 sammal - mose  
-Samoa - samoa  
+Samoa - samowia  
 San Marino - santi marinia  
 sana - lekse  
 sanaluettelo - leksoliste  
@@ -2713,6 +2720,7 @@ voileipä - sanduice
 voima - fortia  
 voimakas (vahva) - forti  
 voipuu - karite  
+voisarvi (kroissantti) - kruasan  
 voittaa (kukistaa) - wina  
 voitto - wine  
 vokaali - vokal  
@@ -2756,6 +2764,7 @@ watti - wate
 wiki - wikia  
 wikikirjoitus - wike  
 wolframi - wolfram  
+wolofin kansa ja kieli - wolofi  
 ##x
 ##y
 ydin (sydän) - kerne  

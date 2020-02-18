@@ -139,6 +139,7 @@
 |**haye**|vie|ara:حياة‎ (ḥaya), swa:uhai, hin:हयात (hayāt), may:hayat|
 |**hewane**|animal (bête)|may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|
 |**hijabe**|voile|ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|
+|**hijenia**|hygiène|deu:eng:hygiene, fra:hygiène, spa:por:higiene, rus:гигиена (gigiena), tur:hijyen|
 |**hime**|neige|hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|
 |**hisaba**|calculer|ara:(hasaba), tur:hesap, orm:hisaaba, swa:hisabu|
 |**hoke**|hockey|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī)|
@@ -163,7 +164,7 @@
 |**kamise**|chemise|spa:por:camisa, ara:(qamīṣ), hin:क़मीज़ (kāmīz), may:kemeja|
 |**kanape**|canapé (sofa)|fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|
 |**kance**|verre|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:may:kaca, tel:గాజు (gāju)|
-|**kanoe**|canoë|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
+|**kanowe**|canoë|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |**karde**|carte|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |**karimi**|généreux|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |**karte**|carte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
@@ -180,6 +181,8 @@
 |**korone**|couronne|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
 |**kosmia**|cosmos|rus:космос (kosmos), eng:fra:spa:cosmos|
 |**kreme**|crème|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
+|**krepe**|crêpe|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
+|**kruasan**|croissant|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
 |**kruse**|croix|eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|
 |**kube**|cube|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |**lage**|lac|eng:lake, spa:por:ita:lago, fra:lac|

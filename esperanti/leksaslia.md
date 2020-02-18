@@ -350,8 +350,8 @@
 |**kance**|vitro|hindia:काँच (kānc), bengala:কাঁচ (kãcô), marataja:काच (kāc), malaja:may:kaca, teluga:గాజు (gāju)|
 |**kande**|bombono|angla:candy, hindia:कैंडी (kaiṇḍī), japana:キャンデー (ja) (kyandē), filipina:kendi|
 |**kanjare**|ponardo|persa:(xanjar), turka:haner, rusa:кинжал (kinžal)|
-|**kanoe**|kanuo (kanoto)|angla:canoe, franca:canoë, turka:kano, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu)|
 |**kanone**|kanono|angla:cannon, hispana:cañón, mandarena:加农 (jiānóng), japana:(kyanon), korea:캐넌 (kaeneon)|
+|**kanowe**|kanuo (kanoto)|angla:canoe, franca:canoë, turka:kano, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu)|
 |**kante**|ŝultro|hindia:कंधा (kandhā), urdua:(kandhā), bengala:কাঁধ (kandhô), + japana:肩 (kata), + araba:(kataf), + mina:肩頭 (keng-thâu)|
 |**kanune**|lego|araba:(qānūn), turka:kanun, svahila:kanuni, hindia:क़ानून (qānūn), + angla:franca:canon, portugala:cânone, rusa:канон (kanon)|
 |**kapa**|kapti|turka:kapmak, hungara:kap, sve:kapa, fin:kaapata, ned:kapen, hispana:portugala:capturar, angla:capture, spa:por:caber, kmera:ចាប់ (cap)|
@@ -397,9 +397,11 @@
 |**koy**|iu|hindia:कोई (koī), urdua:(koī), rusa:кое- (koye-)|
 |**krane**|krano (valvo)|ned:kraan, rusa:кран (kran), polona:kran, malaja:keran|
 |**kreme**|kremo|franca:crème, portugala:creme, hispana:crema, angla:cream, japana:クリーム (kurīmu)|
+|**krepe**|krepo (patkuko)|franca:angla:crêpe, portugala:crepe, hispana:crepa, turka:krep, itala:crespella|
 |**krime**|krimo|angla:franca:portugala:crime, hispana:crimen, filipina:krimen|
 |**kristojen**|kristnasko|greka:Χριστούγεννα (Christoúgenna)|
 |**krize**|krizo|angla:crisis, franca:portugala:crise, deu:Krise, rusa:кризис (krizis), hispana:crisis|
+|**kruasan**|korna bulko|franca:angla:croissant, portugala:croassã, hispana:cruasán, rusa:круассан, japana:クロワッサン (kurowassan), korea:크루아상 (keruasang), hindia:क्रोइसैन (kroisain)|
 |**kruse**|kruco|angla:cross, portugala:hispana:cruz, deu:Kreuz, franca:croix, japana:クロス (kurosu), rusa:крест (krest), konga:kuluzi, hindia:क्रूश (krūś)|
 |**kube**|kubo|hispana:portugala:cubo, deu:Kubus, angla:franca:cube, rusa:куб (kub), araba:(kaʿba), malaja:kubus, turka:küp|
 |**kuga**|plori|mandarena:哭 (kū), kantona:哭 (huk1), vjetnama:khóc|

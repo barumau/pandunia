@@ -202,6 +202,7 @@ fiorde - fiord
 fitolojia - botanique  
 fora - forer (percer)  
 fotografia - photographie  
+fransi krepe - crêpe  
 fule - fleur  
 futobol - football  
 ##g
@@ -233,6 +234,7 @@ helisoviman - hélicoptère
 hewane - animal (bête)  
 hewanoparke - zoo  
 hijabe - voile  
+hijenia - hygiène  
 hime - neige  
 hisaba - calculer  
 hoke - hockey  
@@ -270,8 +272,8 @@ kamare - pièce (chambre)
 kamise - chemise  
 kanape - canapé (sofa)  
 kance - verre  
-kanoe - canoë  
 kanosuyogas - gaz lacrymogène  
+kanowe - canoë  
 karaibia - Caraïbes  
 karbonodulokside - dioxyde de carbone  
 karde - carte  
@@ -302,6 +304,9 @@ korone - couronne
 kosmi - cosmique  
 kosmia - cosmos  
 kreme - crème  
+krepe - crêpe  
+kreperia - crêperie  
+kruasan - croissant  
 kruse - croix  
 kube - cube  
 ##l
@@ -564,6 +569,7 @@ werka - travailler
 werke - travail  
 werker - travailleur (ouvrier)  
 wolfe - loup  
+wolofi - wolof  
 ##x
 xatan (xatane) - Satan  
 xaw - peu  

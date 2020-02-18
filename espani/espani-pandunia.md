@@ -420,7 +420,7 @@ canción - cante
 candela (unidad de intensidad luminosa) - kandele  
 canguro - kangur  
 cannabis (hachís, marihuana) - ganje  
-canoa - kanoe  
+canoa - kanowe  
 cantar - canta  
 caos (desorden) - haose  
 capa (piso, planta, estrato) - cenge  
@@ -676,6 +676,7 @@ creer - xindawistia
 crema - kreme  
 cremallera - ziper  
 cremoso - kremi  
+crepa - fransi krepe  
 criado (sirviente) - server  
 crimen (delito) - krime  
 criminal - krimi  
@@ -688,6 +689,7 @@ criticar (evaluar) - pipinga
 Croacia - horvatia  
 cromo - kromium  
 cronómetro - sekundometer  
+cruasán - kruasan  
 crucificar - krusofiksa  
 cruz - kruse  
 cruzar - krusa  
@@ -1294,6 +1296,7 @@ hexágono - sisogon
 hidrógeno - hidre  
 hielo - aise  
 hierro - fere  
+higiene - hijenia  
 hija - femi bace  
 hijo - mani bace  
 hijo o hija - pute  
@@ -1880,7 +1883,7 @@ navegar (ir en bote) - bota
 Navidad - kristojen  
 Nazi - naciste  
 nazismo - nacistia  
-Naúru - nauru  
+Naúru - nauria  
 necesario - nidi  
 necesidad - nide  
 necesitar - nida  
@@ -2038,6 +2041,7 @@ Pandunia - pandunia
 pandémico - panodemi  
 panecillos al vapor (mantou) - mante  
 paneuropeo - paneuropi  
+panqueque (crepa) - krepe  
 panrromántico - panoromansi  
 pansexual - panoseksi  
 pantalla - ekran  
@@ -2049,7 +2053,7 @@ papaya - papaye
 papel - kagaze  
 papel - role  
 papel tapiz - walopapir  
-Papúa Nueva Guinea - papua novi ginia  
+Papúa Nueva Guinea - papuwi novi ginia  
 paquete - pake  
 parada (alto) - ting  
 Paraguay - paraguayia  
@@ -2189,7 +2193,7 @@ plaza - maidane
 plomo - plumbe  
 pluma - pere  
 plutonio - plutonium  
-Plutón - pluto  
+Plutón - pluton  
 plástico - plastike  
 plátano (banana) - banane  
 pobre (miserable) - miskini  
@@ -2491,7 +2495,7 @@ saludo - salame
 salvaje - wildi  
 salón de té - cayeria  
 samario - samarium  
-Samoa - samoa  
+Samoa - samowia  
 Samoa Americana - usameriki samoa  
 San Cristóbal - santi kitse  
 San Cristóbal y Nieves - santi kitse e nevis  

@@ -367,6 +367,7 @@
 |**hene**|hate|Mandarin:(hen), French:(haine)|
 |**hewane**|animal|Malay:kewan, Arabic:(haywān), Hindi:हैवान (haivān), Turkish:hayvan|
 |**hijabe**|veil (cover, screen)|Arabic:(ḥijāb), Persian:(hejâb), Swahili:hijabu, Hausa:hijabi, Hindi:हिजाब (hijāb), Bengali:হিজাব (hijab), English:Portuguese:hijab, French:hidjab, Spanish:hiyab, Russian:хиджаб (xidžab)|
+|**hijenia**|hygiene (cleanliness)|deu:English:hygiene, French:hygiène, Spanish:Portuguese:higiene, Russian:гигиена (gigiena), Turkish:hijyen|
 |**hime**|snow|Hindi:हिमपात (himpāt), Thai:หิมะ (hima), Telugu:(himamu)|
 |**hisaba**|calculate|Arabic:(hasaba), Turkish:hesap, Oromo:hisaaba, Swahili:hisabu|
 |**hoke**|hockey|English:French:Spanish:hockey, Portuguese:hóquei, Russian:хоккей (hokkey),  Japanese:ホッケー (hokkē), Hindi:हाकी (hākī), Bengali:হকি (hôki), Arabic:(hūkī)|
@@ -440,9 +441,9 @@
 |**kande**|candy (sweets)|English:candy, Hindi:कैंडी (kaiṇḍī), Japanese:キャンデー (ja) (kyandē), Filipino:kendi|
 |**kange**|comb|Hindi:कंघी (kaṅghī), Urdu:(kaṅghī), Marathi:कंगवा (kaṅgvā), Punjabi:ਕੰਘਾ (kaṅghā)|
 |**kanjare**|dagger|Persian:(xanjar), Turkish:haner, Russian:кинжал (kinžal)|
-|**kanoe**|canoe|English:canoe, French:canoë, Turkish:kano, Spanish:Portuguese:canoa, Russian:каноэ (kanoe), Japanese:カヌー (kanū), Korean:카누 (kanu)|
 |**kanone**|gun (cannon)|English:cannon, Spanish:cañón, Mandarin:加农 (jiānóng), Japanese:(kyanon), Korean:캐넌 (kaeneon)|
 |**kanosuy**|tear drop|Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา|
+|**kanowe**|canoe|English:canoe, French:canoë, Turkish:kano, Spanish:Portuguese:canoa, Russian:каноэ (kanoe), Japanese:カヌー (kanū), Korean:카누 (kanu)|
 |**kante**|shoulder|Hindi:कंधा (kandhā), Urdu:(kandhā), Bengali:কাঁধ (kandhô), + Japanese:肩 (kata), + Arabic:(kataf), + Min-Chinese:肩頭 (keng-thâu)|
 |**kanune**|law|Arabic:(qānūn), Turkish:kanun, Swahili:kanuni, Hindi:क़ानून (qānūn), + English:French:canon, Portuguese:cânone, Russian:канон (kanon)|
 |**kapa**|catch (capture, seize, snatch, intercept)|Turkish:kapmak, Hungarian:kap, sve:kapa, fin:kaapata, ned:kapen, Spanish:Portuguese:capturar, English:capture, spa:por:caber, Khmer:ចាប់ (cap)|
@@ -503,10 +504,12 @@
 |**koy**|some|Hindi:कोई (koī), Urdu:(koī), Russian:кое- (koye-)|
 |**krane**|valve (tap, faucet)|ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran|
 |**kreme**|cream|French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)|
+|**krepe**|pancake|French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella|
 |**krime**|crime|English:French:Portuguese:crime, Spanish:crimen, Filipino:krimen|
 |**kristojen**|Christmas|Greek:Χριστούγεννα (Christoúgenna)|
 |**krize**|crisis|English:crisis, French:Portuguese:crise, deu:Krise, Russian:кризис (krizis), Spanish:crisis|
 |**krote**|mole (burrowing animal)|Russian:крот (krot)|
+|**kruasan**|croissant|French:English:croissant, Portuguese:croassã, Spanish:cruasán, Russian:круассан, Japanese:クロワッサン (kurowassan), Korean:크루아상 (keruasang), Hindi:क्रोइसैन (kroisain)|
 |**kruse**|cross|English:cross, Portuguese:Spanish:cruz, deu:Kreuz, French:croix, Japanese:クロス (kurosu), Russian:крест (krest), Kongo:kuluzi, Hindi:क्रूश (krūś)|
 |**kuange**|mineral (ore)|Mandarin:矿 (kuàng), Vietnamese:khoáng, Korean:광 (guang)|
 |**kuani**|wide (broad)|Mandarin:宽 (kuān), Thai:กว้าง (kwang), Vietnamese:quảng|

@@ -361,6 +361,7 @@
 |**hene**|viha|yleiskiina:(hen), ranska:(haine)|
 |**hewane**|eläin|malaiji:kewan, arabia:(haywān), hindi:हैवान (haivān), turkki:hayvan|
 |**hijabe**|verho (huntu, peite)|arabia:(ḥijāb), persia:(hejâb), suahili:hijabu, hausa:hijabi, hindi:हिजाब (hijāb), bangla:হিজাব (hijab), englanti:portugali:hijab, ranska:hidjab, espanja:hiyab, venäjä:хиджаб (xidžab)|
+|**hijenia**|hygienia (puhtaus)|deu:englanti:hygiene, ranska:hygiène, espanja:portugali:higiene, venäjä:гигиена (gigiena), turkki:hijyen|
 |**hime**|lumi|hindi:हिमपात (himpāt), thai:หิมะ (hima), telugu:(himamu)|
 |**hisaba**|laskea (tehdä laskutoimitus)|arabia:(hasaba), turkki:hesap, oromo:hisaaba, suahili:hisabu|
 |**hoke**|hockey (jääkiekko)|englanti:ranska:espanja:hockey, portugali:hóquei, venäjä:хоккей (hokkey),  japani:ホッケー (hokkē), hindi:हाकी (hākī), bangla:হকি (hôki), arabia:(hūkī)|
@@ -431,9 +432,9 @@
 |**kande**|makeinen (karkki, karamelli)|englanti:candy, hindi:कैंडी (kaiṇḍī), japani:キャンデー (ja) (kyandē), filippiini:kendi|
 |**kange**|kampa|hindi:कंघी (kaṅghī), urdu:(kaṅghī), marathi:कंगवा (kaṅgvā), pandzabi:ਕੰਘਾ (kaṅghā)|
 |**kanjare**|tikari|persia:(xanjar), turkki:haner, venäjä:кинжал (kinžal)|
-|**kanoe**|kanootti|englanti:canoe, ranska:canoë, turkki:kano, espanja:portugali:canoa, venäjä:каноэ (kanoe), japani:カヌー (kanū), korea:카누 (kanu)|
 |**kanone**|tykki (pyssy)|englanti:cannon, espanja:cañón, yleiskiina:加农 (jiānóng), japani:(kyanon), korea:캐넌 (kaeneon)|
 |**kanosuy**|kyynel|tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา|
+|**kanowe**|kanootti|englanti:canoe, ranska:canoë, turkki:kano, espanja:portugali:canoa, venäjä:каноэ (kanoe), japani:カヌー (kanū), korea:카누 (kanu)|
 |**kante**|olkapää (hartia)|hindi:कंधा (kandhā), urdu:(kandhā), bangla:কাঁধ (kandhô), + japani:肩 (kata), + arabia:(kataf), + min-kiina:肩頭 (keng-thâu)|
 |**kanune**|laki|arabia:(qānūn), turkki:kanun, suahili:kanuni, hindi:क़ानून (qānūn), + englanti:ranska:canon, portugali:cânone, venäjä:канон (kanon)|
 |**kapa**|ottaa kiinni (napata, kaapata)|turkki:kapmak, unkari:kap, sve:kapa, fin:kaapata, ned:kapen, espanja:portugali:capturar, englanti:capture, spa:por:caber, khmer:ចាប់ (cap)|
@@ -493,10 +494,12 @@
 |**koy**|jokin (joku)|hindi:कोई (koī), urdu:(koī), venäjä:кое- (koye-)|
 |**krane**|hana (venttiili, kraana)|ned:kraan, venäjä:кран (kran), puola:kran, malaiji:keran|
 |**kreme**|kerma|ranska:crème, portugali:creme, espanja:crema, englanti:cream, japani:クリーム (kurīmu)|
+|**krepe**|lätty (räiskäle, pannukakku)|ranska:englanti:crêpe, portugali:crepe, espanja:crepa, turkki:krep, italia:crespella|
 |**krime**|rikos|englanti:ranska:portugali:crime, espanja:crimen, filippiini:krimen|
 |**kristojen**|joulu|kreikka:Χριστούγεννα (Christoúgenna)|
 |**krize**|kriisi (käännekohta)|englanti:crisis, ranska:portugali:crise, deu:Krise, venäjä:кризис (krizis), espanja:crisis|
 |**krote**|kontiainen (maamyyrä)|venäjä:крот (krot)|
+|**kruasan**|voisarvi (kroissantti)|ranska:englanti:croissant, portugali:croassã, espanja:cruasán, venäjä:круассан, japani:クロワッサン (kurowassan), korea:크루아상 (keruasang), hindi:क्रोइसैन (kroisain)|
 |**kruse**|risti|englanti:cross, portugali:espanja:cruz, deu:Kreuz, ranska:croix, japani:クロス (kurosu), venäjä:крест (krest), Kongo:kuluzi, hindi:क्रूश (krūś)|
 |**kuange**|kivennäinen (mineraali)|yleiskiina:矿 (kuàng), vietnami:khoáng, korea:광 (guang)|
 |**kuani**|leveä|yleiskiina:宽 (kuān), thai:กว้าง (kwang), vietnami:quảng|
