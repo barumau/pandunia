@@ -77,6 +77,7 @@ amena - assure (affirm)
 amerike - America (continent)  
 ameriki - American  
 amerikium - americium  
+ami - dear (beloved)  
 ampere - ampere (amp)  
 ampule - ampoule (vial)  
 analiza - analyse  

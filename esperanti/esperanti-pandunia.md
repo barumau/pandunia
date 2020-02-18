@@ -659,6 +659,7 @@ kanuo (kanoto) - kanowe
 kaoso (malordo) - haose  
 kapro - buze  
 kapti - kapa  
+kara - ami  
 karateo - karate  
 karavano - karvane  
 karbona dioksido - karbonodulokside  

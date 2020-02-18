@@ -74,6 +74,7 @@ amena - varmistaa
 amerike - Amerikka  
 ameriki - amerikkalainen  
 amerikium - amerikium  
+ami - rakas (armas)  
 ampere - ampeeri  
 ampule - ampulli  
 analiza - analysoida  

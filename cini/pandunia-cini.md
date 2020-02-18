@@ -27,6 +27,7 @@ almase - 钻石
 aloraya - 不同意  
 altare - 圣坛  
 ama - 爱  
+ami - 亲爱的  
 analiza - 分析  
 analize - 分析  
 anime - 活跃  

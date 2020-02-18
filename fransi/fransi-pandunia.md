@@ -143,6 +143,7 @@ charme - carme
 chat - maw (mawe)  
 chef - xefe  
 chemise - kamise  
+cher - ami  
 chimie - kimia  
 Chine - jungogia  
 chocolat - cokolate  

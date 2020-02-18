@@ -2317,6 +2317,7 @@ quemar - pira
 quemarse - piru  
 querer (desear) - wana  
 querer (disponer) - ica  
+querido - ami  
 querubín - kerube  
 queso - cise  
 queso fresco - panire  

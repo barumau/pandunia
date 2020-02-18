@@ -49,6 +49,7 @@ amari - Amhara (groupe ethnique et langue éthiopienne)
 ame - amour (affection)  
 amerike - Amérique  
 ameriki - américain  
+ami - cher  
 ampere - ampère  
 ampule - ampoule (fiole)  
 analiza - analyser  

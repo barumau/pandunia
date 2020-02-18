@@ -56,6 +56,7 @@ amena - certigi
 amerike - Ameriko  
 ameriki - amerika  
 amerikium - americio  
+ami - kara  
 ampere - ampero  
 analiza - analizi  
 analize - analizo  

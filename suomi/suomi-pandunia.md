@@ -1941,6 +1941,7 @@ radon - radon
 raha - pese  
 rahka - panire  
 raja - limite  
+rakas (armas) - ami  
 rakastaa (pitää, tykätä) - ama  
 rakastaa romanttisesti - romansa  
 rakentaa - bina  

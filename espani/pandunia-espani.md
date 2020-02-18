@@ -73,6 +73,7 @@ amena - asegurar (confirmar)
 amerike - América  
 ameriki - americano  
 amerikium - americio  
+ami - querido  
 ampere - amperio  
 ampule - ampolla (vial)  
 analiza - analisar  

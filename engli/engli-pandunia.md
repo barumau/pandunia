@@ -681,6 +681,7 @@ daughter - femi bace
 day (daytime) - den (dene)  
 day of the week - var (vare)  
 dead (deceased) - morti  
+dear (beloved) - ami  
 death - morte  
 debate (discuss) - lona  
 December - mes 12 (mes des dul)  
