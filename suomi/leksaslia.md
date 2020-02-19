@@ -75,7 +75,6 @@
 |**banke**|pankki|englanti:deu:puola:malaiji:bank, turkki:banka, venäjä:банк (bank), ranska:banque, espanja:portugali:banco, persia:(bânk), hindi:बैंक (baiṅk), urdu:(baiṅk), telugu:బ్యాంకు (byāṅku), tamili:(vaṅki)|
 |**banse**|bambu|hindi:बांस (bāns), bangla:বাঁশ (bãśô), pandzabi:ਬਾਂਸ (bāns), suahili:mwanzi|
 |**banze**|lauta (lankku)|yleiskiina:板子 (bǎnzi), mon:банз (banz), korea:판자 (panja), kantoninkiina:板 (baan2), japani:板 (ban), vietnami:bảng, + suahili:bao|
-|**bar**|paino|kreikka:βάρος (báros), hindi:भार (bhār), telugu:భారము (bhāramu), malaiji:may:berat|
 |**barbare**|barbaari (raakalainen)|deu:turkki:barbar, ranska:barbare, persia:(barbar), espanja:barbaro, englanti:barbarian, venäjä:варвар (varvar)|
 |**barde**|parta|ranska:barbe, espanja:portugali:barba, deu:Bart, englanti:beard, venäjä:борода (boroda), puola:broda|
 |**bari**|painava|bangla:ভারী (bharī), hindi:भारा (bhārā), urdu:(bhārā), telugu:బరువు (baruvu), malaiji:berat, kreikka: βαρύς (barýs)|
@@ -229,6 +228,7 @@
 |**egali**|tasapuolinen (reilu)|ranska:égal, espanja:portugali:igual, englanti:equal|
 |**eglise**|kirkko|persia:(kelisā), turkki:kilise, malaiji:gereja, portugali:igreja, hindi:गिरजा (girjā), arabia:(kanisā), ranska:église|
 |**ekolojia**|ekologia (ympäristötiede)|deu:Ökologie, englanti:ecology, ranska:écologie, venäjä:экология (ekologiya), malaiji:ekologi, turkki:ekoloji, suahili:ikolojia|
+|**ekore**|orava|ranska:écureuil, yoruba:ọkẹrẹ, sve:ekorre, hausa:kurege|
 |**eletre**|sähkö|portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik|
 |**emoje**|hymiö (emoji)|japani:絵文字 (emoji), korea:에모지 (emoji), englanti:ranska:portugali:turkki:emoji, venäjä:эмодзи (emodzi), hindi:इमोजी (imojī)|
 |**emos**|tunne (mielenliikutus)|eng;emotion, ranska:émotion, espanja:emoción, por;emoção, venäjä:эмоция (emociya), ind:emosi, filippiini:emosyon|
@@ -428,7 +428,7 @@
 |**kan (kane)**|silmä|tamili:கண் (kaṇ), telugu:(kannu), kannada:(kaṇṇu), malayalam:കണ്ണ് (kaṇṇu)|
 |**kana**|silmäillä (katsoa)|yleiskiina:看 (kàn), min-kiina:khàn|
 |**kanape**|sohva|ranska:portugali:espanja:canapé, deu:Kanapee, venäjä:канапе (kanape), turkki:kanepe, persia:(kânâpe), arabia:(kanaba)|
-|**kance**|lasi|hindi:काँच (kānc), bangla:কাঁচ (kãcô), marathi:काच (kāc), malaiji:may:kaca, telugu:గాజు (gāju)|
+|**kance**|lasi|hindi:काँच (kānc), bangla:কাঁচ (kãcô), marathi:काच (kāc), malaiji:kaca, telugu:గాజు (gāju)|
 |**kande**|makeinen (karkki, karamelli)|englanti:candy, hindi:कैंडी (kaiṇḍī), japani:キャンデー (ja) (kyandē), filippiini:kendi|
 |**kange**|kampa|hindi:कंघी (kaṅghī), urdu:(kaṅghī), marathi:कंगवा (kaṅgvā), pandzabi:ਕੰਘਾ (kaṅghā)|
 |**kanjare**|tikari|persia:(xanjar), turkki:haner, venäjä:кинжал (kinžal)|
@@ -916,7 +916,6 @@
 |**tule**|työkalu|englanti: tool, korea: 툴 (tul), japani: ツール (tsūru), Zulu: ithuluzi|
 |**tunge**|kipu|yleiskiina:疼 (téng),痛 (tòng), kantoninkiina:痛 (tung3)|
 |**tunike**|mekko (tunika)|espanja:túnica, englanti:tunic, venäjä:туника (tunika)|
-|**tupay**|orava|malaiji:may:tupai|
 |**tuze**|jänis|yleiskiina:兔子 (tùzi), kantoninkiina:兔仔 (tou3zai2)|
 |**umami**|umami (ruokaisanmakuinen)|japani:旨味 (umami), korea:우마미 (umami), englanti:ranska:portugali:espanja:malaiji:umami, venäjä:умами (umami)|
 |**umure**|ikä|arabia:عُمْر‎ (ʿumr), hindi:उमर (umar), malaiji:umur, suahili:umri|

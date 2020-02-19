@@ -164,7 +164,7 @@ arboreto - arboparke
 archipiélago - nesia  
 archipiélago de Hawái - hawayi nesia  
 ardiente (encendido) - piri  
-ardilla - tupay  
+ardilla - ekore  
 arena - rege  
 Argelia - jayeria  
 Argentina - argentinia  
@@ -270,7 +270,7 @@ Bangladés - banglodexia
 banquero - banker  
 baobab - buye  
 bar (pub) - bireria  
-bar - bare  
+bar - bar  
 barandilla (pasamanos) - langane  
 Barbados - barbados  
 Barbados - barde  
@@ -2148,7 +2148,7 @@ pertenecer (ser miembro de) - memba
 Perú - peruvia  
 pesa (báscula, balanza) - barometer  
 pesado - bari  
-peso - bar  
+peso - bare  
 pestaña - kanokexe  
 pez (pescado) - fixe  
 piano - piane  

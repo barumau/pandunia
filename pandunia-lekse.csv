@@ -204,12 +204,12 @@ banyokamare||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉ
 banyu||||bathe|se baigner|bañarse||купаться||游泳|||||||||bana|kylpeä|kąpać się
 banze|||zho:板子 (bǎnzi), mon:банз (banz), kor:판자 (panja), yue:板 (baan2), jpn:板 (ban), vie:bảng, + swa:bao|board (plank)||tabla (tablón, tablero)||доска||板子||||||||||lauta (lankku)|deska
 banzogem||||board game||juego de mesa||||||||||||||lautapeli|gra planszowa
-bar|||ell:βάρος (báros), hin:भार (bhār), tel:భారము (bhāramu), may:may:berat|weight||peso|||||||||||||pezo|paino|waga (ciężkość)
+bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar|||||||||||||||
 barbados|dex|BB||Barbados||Barbados||||||||||||||Barbados|Barbados
 barbare|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian||bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 barbudia|dex|||Barbuda||Barbuda||||||||||||||Barbuda|
 barde|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard||Barbados|||||||||||||barbo|parta|broda
-bare|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), Ben:বার (bar)|bar||bar|||||||||||||||
+bare||||weight||peso|||||||||||||pezo|paino|waga (ciężkość)
 bari|||ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
 barium|mate|Ba||barium|baryum|bario|||||||||||||bario|barium|bar
 barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
@@ -571,6 +571,7 @@ eglise|||fas:(kelisā), tur:kilise, may:gereja, por:igreja, hin:गिरजा 
 eki||||environmental (natural)||ambiental (ecológico, natural)||||||||||||||ympäristö- (luonto-)|środowiskowy, naturalny
 ekia||||environment (nature)||medioambiente (naturaleza)|||||||||||||naturo|luonto|natura, środowisko
 ekolojia|||deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia|ecology (study of environment)||ecología||||||||||||||ekologia (ympäristötiede)|ekologia (nauka o środowisku)
+ekore|||fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|squirrel|écureuil|ardilla|esquilo|белка||松鼠|栗鼠|다람쥐||गिलहरी|কাঠবিড়াল|bajing (tupai)|kindi|sincap|sciuro|orava|wiewiórka
 ekran||||screen||pantalla|||||||||||||ekrano|kuvaruutu|ekran
 ekuador||||Ecuador||Ecuador|||||||||||||Ekvadoro|Ecuador|Ekwador
 eletre|||por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|electricity|électricité|electricidad|eletricidade|||||||||||cereyan (elektrik)|elektro|sähkö|elektryczność
@@ -1165,7 +1166,7 @@ kana|||zho:看 (kàn), min:khàn|eye (look, watch)||ojo|||||||||||||okulumi|silm
 kanadia|dex|CA||Canada||Canadá||||||||||||||Kanada|Kanada
 kanale||||channel||canal (cauce, acequia)|||||||||||||kanalo|kanava (kanaali)|kanał
 kanape|||fra:por:spa:canapé, deu:Kanapee, rus:канапе (kanape), tur:kanepe, fas:(kânâpe), ara:(kanaba)|sofa (couch)|canapé (sofa)|sofá||канапе||沙发|||||||||sofo|sohva|sofa, kanapa
-kance|||hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:may:kaca, tel:గాజు (gāju)|glass|verre|vidrio (cristal)|vidro|стекло|زُجَاج|玻璃|ガラス|유리|thuỷ tinh|काँच (शीशा)|কাঁচ|kaca (gelas)|glasi|cam|vitro|lasi|szkło
+kance|||hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|glass|verre|vidrio (cristal)|vidro|стекло|زُجَاج|玻璃|ガラス|유리|thuỷ tinh|काँच (शीशा)|কাঁচ|kaca (gelas)|glasi|cam|vitro|lasi|szkło
 kande|||eng:candy, hin:कैंडी (kaiṇḍī), jpn:キャンデー (ja) (kyandē), tgl:kendi|candy (sweets)||caramelo||||糖果|||||||||bombono|makeinen (karkki, karamelli)|cukierek, słodycze
 kandele|unomete|cd||candela||candela (unidad de intensidad luminosa)||||||||||||||kandela|
 kange|||hin:कंघी (kaṅghī), urd:(kaṅghī), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā)|comb||peine||||||||||||||kampa|grzebień
@@ -2700,7 +2701,6 @@ tunelotren||||subway (metro)||metro|||||||||||||metroo|metrojuna (maanalainen)|m
 tunge|||zho:疼 (téng),痛 (tòng), yue:痛 (tung3)|hurt (pain)||dolor||||||||||||||kipu|ból
 tunike|||spa:túnica, eng:tunic, rus:туника (tunika)|tunic (gown)||túnica|||||||||||||robo|mekko (tunika)|tunika, toga
 tunisia|dex|TN||Tunisia|Tunisie|Túnez||||||||||||||Tunisia|Tunezja
-tupay|||may:may:tupai|squirrel||ardilla|||||||||||||sciuro|orava|wiewiórka
 turki||||Turkish||turco||||||||||||||turkkilainen|turecki
 turkia|dex|TR||Turkey||Turquía|||||||||||||Turkio|Turkki|Turcja
 turkomenia|dex|TM||Turkmenistan||Turkmenistán||||||||||||||Turkmenistan|Turkmenistan

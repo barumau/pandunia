@@ -135,6 +135,7 @@ dul - 二
 dunia - 世界  
 e - 和  
 ##e
+ekore - 松鼠  
 emoje - 绘文字  
 emosohal - 心情  
 esa - 对  

@@ -1110,7 +1110,7 @@ persono - ren (rene)
 peti (bonvolu) - pliza  
 peza - bari  
 pezmetalo - barometal  
-pezo - bar  
+pezo - bare  
 piano - piane  
 picejo - pizeria  
 pico - pize  
@@ -1298,7 +1298,7 @@ scienco - lojia
 scii (koni) - jana  
 scio - jane  
 sciteorio (epistemologio) - janolojia  
-sciuro - tupay  
+sciuro - ekore  
 se - aga  
 seborgio - seaborgium  
 sed - a  

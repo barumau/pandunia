@@ -62,7 +62,6 @@
 |**bandere**|flago|angla:banner, franca:bannière, hispana:bandera, portugala:bandeira, malaja:bendera, filipina:bandila, svahila:bendera|
 |**banke**|banko|angla:deu:polona:malaja:bank, turka:banka, rusa:банк (bank), franca:banque, hispana:portugala:banco, persa:(bânk), hindia:बैंक (baiṅk), urdua:(baiṅk), teluga:బ్యాంకు (byāṅku), tamila:(vaṅki)|
 |**banse**|bambuo|hindia:बांस (bāns), bengala:বাঁশ (bãśô), panĝaba:ਬਾਂਸ (bāns), svahila:mwanzi|
-|**bar**|pezo|greka:βάρος (báros), hindia:भार (bhār), teluga:భారము (bhāramu), malaja:may:berat|
 |**barbare**|barbaro|deu:turka:barbar, franca:barbare, persa:(barbar), hispana:barbaro, angla:barbarian, rusa:варвар (varvar)|
 |**barde**|barbo|franca:barbe, hispana:portugala:barba, deu:Bart, angla:beard, rusa:борода (boroda), polona:broda|
 |**bari**|peza|bengala:ভারী (bharī), hindia:भारा (bhārā), urdua:(bhārā), teluga:బరువు (baruvu), malaja:berat, greka: βαρύς (barýs)|
@@ -189,6 +188,7 @@
 |**e**|kaj|franca:et, portugala:e, mandarena:和 (hé)|
 |**egali**|egala|franca:égal, hispana:portugala:igual, angla:equal|
 |**eglise**|preĝejo|persa:(kelisā), turka:kilise, malaja:gereja, portugala:igreja, hindia:गिरजा (girjā), araba:(kanisā), franca:église|
+|**ekore**|sciuro|franca:écureuil, joruba:ọkẹrẹ, sve:ekorre, haŭsa:kurege|
 |**eletre**|elektro|portugala:eletricidade, itala:elettricità, angla:electricity, rusa:электричество (električestvo), franca:électricité, hispana:electricidad, turka:elektrik|
 |**emos**|emocio|eng;emotion, franca:émotion, hispana:emoción, por;emoção, rusa:эмоция (emociya), ind:emosi, filipina:emosyon|
 |**er**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
@@ -347,7 +347,7 @@
 |**kan (kane)**|okulo|tamila:கண் (kaṇ), teluga:(kannu), kanara:(kaṇṇu), malajala:കണ്ണ് (kaṇṇu)|
 |**kana**|okulumi|mandarena:看 (kàn), mina:khàn|
 |**kanape**|sofo|franca:portugala:hispana:canapé, deu:Kanapee, rusa:канапе (kanape), turka:kanepe, persa:(kânâpe), araba:(kanaba)|
-|**kance**|vitro|hindia:काँच (kānc), bengala:কাঁচ (kãcô), marataja:काच (kāc), malaja:may:kaca, teluga:గాజు (gāju)|
+|**kance**|vitro|hindia:काँच (kānc), bengala:কাঁচ (kãcô), marataja:काच (kāc), malaja:kaca, teluga:గాజు (gāju)|
 |**kande**|bombono|angla:candy, hindia:कैंडी (kaiṇḍī), japana:キャンデー (ja) (kyandē), filipina:kendi|
 |**kanjare**|ponardo|persa:(xanjar), turka:haner, rusa:кинжал (kinžal)|
 |**kanone**|kanono|angla:cannon, hispana:cañón, mandarena:加农 (jiānóng), japana:(kyanon), korea:캐넌 (kaeneon)|
@@ -678,7 +678,6 @@
 |**tuha**|sputi|hindia: थूकना (thūknā), mandarena: 吐 (tǔ), turka:tükürmek|
 |**tule**|ilo|angla: tool, korea: 툴 (tul), japana: ツール (tsūru), Zulu: ithuluzi|
 |**tunike**|robo|hispana:túnica, angla:tunic, rusa:туника (tunika)|
-|**tupay**|sciuro|malaja:may:tupai|
 |**umure**|aĝo|araba:عُمْر‎ (ʿumr), hindia:उमर (umar), malaja:umur, svahila:umri|
 |**unale**|unu la alian (reciproke)|angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)|
 |**urse**|urso|franca:ours, portugala:urso, hispana:oso, persa:(xers)|

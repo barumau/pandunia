@@ -1,4 +1,4 @@
-# sam buze e guye
+# tin buze e guye
 
 <small>tarju da _Erjo_</small>
 
@@ -49,4 +49,4 @@ lole karibo no tena energe pa fuga pa dome.
 e aga lole no kina ze hayo, lole hayo si pangi.
 
 <p style="font-size:6em;text-align:center;">🏞️</p>
-
+	

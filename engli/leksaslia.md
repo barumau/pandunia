@@ -78,10 +78,9 @@
 |**banke**|bank (depository)|English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki)|
 |**banse**|bamboo|Hindi:बांस (bāns), Bengali:বাঁশ (bãśô), Punjabi:ਬਾਂਸ (bāns), Swahili:mwanzi|
 |**banze**|board (plank)|Mandarin:板子 (bǎnzi), mon:банз (banz), Korean:판자 (panja), Cantonese:板 (baan2), Japanese:板 (ban), Vietnamese:bảng, + Swahili:bao|
-|**bar**|weight|Greek:βάρος (báros), Hindi:भार (bhār), Telugu:భారము (bhāramu), Malay:may:berat|
+|**bar**|bar|English:French:Spanish:Portuguese:Malay:Turkish:bar, Russian:бар (bar), Mandarin:酒吧 (jiǔbā), Japanese:バー (bā), Hindi:बार (bār), Bengali:বার (bar)|
 |**barbare**|barbarian|deu:Turkish:barbar, French:barbare, Persian:(barbar), Spanish:barbaro, English:barbarian, Russian:варвар (varvar)|
 |**barde**|beard|French:barbe, Spanish:Portuguese:barba, deu:Bart, English:beard, Russian:борода (boroda), Polish:broda|
-|**bare**|bar|English:French:Spanish:Portuguese:Malay:Turkish:bar, Russian:бар (bar), Mandarin:酒吧 (jiǔbā), Japanese:バー (bā), Hindi:बार (bār), Ben:বার (bar)|
 |**bari**|heavy|Bengali:ভারী (bharī), Hindi:भारा (bhārā), Urdu:(bhārā), Telugu:బరువు (baruvu), Malay:berat, Greek: βαρύς (barýs)|
 |**barka**|congratulate (bless)|Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Yoruba:alubarika|
 |**barti**|Indian|Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)|
@@ -234,6 +233,7 @@
 |**egali**|equal (fair)|French:égal, Spanish:Portuguese:igual, English:equal|
 |**eglise**|church|Persian:(kelisā), Turkish:kilise, Malay:gereja, Portuguese:igreja, Hindi:गिरजा (girjā), Arabic:(kanisā), French:église|
 |**ekolojia**|ecology (study of environment)|deu:Ökologie, English:ecology, French:écologie, Russian:экология (ekologiya), Malay:ekologi, Turkish:ekoloji, Swahili:ikolojia|
+|**ekore**|squirrel|French:écureuil, Yoruba:ọkẹrẹ, sve:ekorre, Hausa:kurege|
 |**eletre**|electricity|Portuguese:eletricidade, Italian:elettricità, English:electricity, Russian:электричество (električestvo), French:électricité, Spanish:electricidad, Turkish:elektrik|
 |**emoje**|emoji (smiley, emoticon)|Japanese:絵文字 (emoji), Korean:에모지 (emoji), English:French:Portuguese:Turkish:emoji, Russian:эмодзи (emodzi), Hindi:इमोजी (imojī)|
 |**emos**|emotion (feeling)|eng;emotion, French:émotion, Spanish:emoción, por;emoção, Russian:эмоция (emociya), ind:emosi, Filipino:emosyon|
@@ -437,7 +437,7 @@
 |**kan (kane)**|eye|Tamil:கண் (kaṇ), Telugu:(kannu), Kannada:(kaṇṇu), Malayalam:കണ്ണ് (kaṇṇu)|
 |**kana**|eye (look, watch)|Mandarin:看 (kàn), Min-Chinese:khàn|
 |**kanape**|sofa (couch)|French:Portuguese:Spanish:canapé, deu:Kanapee, Russian:канапе (kanape), Turkish:kanepe, Persian:(kânâpe), Arabic:(kanaba)|
-|**kance**|glass|Hindi:काँच (kānc), Bengali:কাঁচ (kãcô), Marathi:काच (kāc), Malay:may:kaca, Telugu:గాజు (gāju)|
+|**kance**|glass|Hindi:काँच (kānc), Bengali:কাঁচ (kãcô), Marathi:काच (kāc), Malay:kaca, Telugu:గాజు (gāju)|
 |**kande**|candy (sweets)|English:candy, Hindi:कैंडी (kaiṇḍī), Japanese:キャンデー (ja) (kyandē), Filipino:kendi|
 |**kange**|comb|Hindi:कंघी (kaṅghī), Urdu:(kaṅghī), Marathi:कंगवा (kaṅgvā), Punjabi:ਕੰਘਾ (kaṅghā)|
 |**kanjare**|dagger|Persian:(xanjar), Turkish:haner, Russian:кинжал (kinžal)|
@@ -934,7 +934,6 @@
 |**tule**|tool|English: tool, Korean: 툴 (tul), Japanese: ツール (tsūru), Zulu: ithuluzi|
 |**tunge**|hurt (pain)|Mandarin:疼 (téng),痛 (tòng), Cantonese:痛 (tung3)|
 |**tunike**|tunic (gown)|Spanish:túnica, English:tunic, Russian:туника (tunika)|
-|**tupay**|squirrel|Malay:may:tupai|
 |**tuze**|rabbit (hare)|Mandarin:兔子 (tùzi), Cantonese:兔仔 (tou3zai2)|
 |**umami**|savory (umami)|Japanese:旨味 (umami), Korean:우마미 (umami), English:French:Portuguese:Spanish:Malay:umami, Russian:умами (umami)|
 |**umure**|age|Arabic:عُمْر‎ (ʿumr), Hindi:उमर (umar), Malay:umur, Swahili:umri|

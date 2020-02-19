@@ -149,10 +149,10 @@ banyokamare - łazienka
 banyu - kąpać się  
 banze - deska  
 banzogem - gra planszowa  
-bar - waga (ciężkość)  
 barbados - Barbados  
 barbare - barbarzyńca  
 barde - broda  
+bare - waga (ciężkość)  
 bari - ciężki (masywny)  
 barium - bar  
 barka - gratulować; błogosławić  
@@ -461,6 +461,7 @@ eglise - kościół
 eki - środowiskowy, naturalny  
 ekia - natura, środowisko  
 ekolojia - ekologia (nauka o środowisku)  
+ekore - wiewiórka  
 ekran - ekran  
 ekuador - Ekwador  
 eletre - elektryczność  
@@ -2277,7 +2278,6 @@ tunelotren - metro
 tunge - ból  
 tunike - tunika, toga  
 tunisia - Tunezja  
-tupay - wiewiórka  
 turki - turecki  
 turkia - Turcja  
 turkomenia - Turkmenistan  

@@ -204,12 +204,12 @@ banyokamare - bathroom
 banyu - bathe  
 banze - board (plank)  
 banzogem - board game  
-bar - weight  
+bar - bar  
 barbados - Barbados  
 barbare - barbarian  
 barbudia - Barbuda  
 barde - beard  
-bare - bar  
+bare - weight  
 bari - heavy  
 barium - barium  
 barka - congratulate (bless)  
@@ -574,6 +574,7 @@ eglise - church
 eki - environmental (natural)  
 ekia - environment (nature)  
 ekolojia - ecology (study of environment)  
+ekore - squirrel  
 ekran - screen  
 ekuador - Ecuador  
 eletre - electricity  
@@ -2714,7 +2715,6 @@ tunelotren - subway (metro)
 tunge - hurt (pain)  
 tunike - tunic (gown)  
 tunisia - Tunisia  
-tupay - squirrel  
 turki - Turkish  
 turkia - Turkey  
 turkomenia - Turkmenistan  

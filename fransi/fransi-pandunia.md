@@ -584,6 +584,7 @@ zèbre - zebre
 âge - umure  
 écrire - kitaba  
 écriture - kitabe  
+écureuil - ekore  
 électricité - eletre  
 émeraude - zumurude  
 émoticône (emoji) - emoje  

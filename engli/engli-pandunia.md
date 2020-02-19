@@ -221,7 +221,7 @@ baobab - buye
 bar (obstruct) - barya  
 bar (pub, beer house) - bireria  
 bar (rod, stick) - batone  
-bar - bare  
+bar - bar  
 Barbados - barbados  
 barbarian - barbare  
 Barbuda - barbudia  
@@ -2518,7 +2518,7 @@ spoon - camace
 sport (athletics) - kele  
 spring (springtime) - cune  
 square (tetragon) - carogone  
-squirrel - tupay  
+squirrel - ekore  
 Sranan Tongo - surinami bax  
 Sri Lanka (Ceylon) - lankia  
 stadium (arena) - estadia  
@@ -2904,7 +2904,7 @@ website - netoloke
 Wednesday - var 3 (var tin)  
 week - seman  
 weep (cry) - kuga  
-weight - bar  
+weight - bare  
 welcome! - salam laye  
 Welsh - kamri  
 west - weste  

@@ -183,6 +183,7 @@ dul - deux
 dunia - monde  
 e - et  
 ##e
+ekore - écureuil  
 eletre - électricité  
 eme - unité fondamentale  
 emoje - émoticône (emoji)  

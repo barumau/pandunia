@@ -1621,7 +1621,7 @@ oppi (opetus) - darse
 oppia (opiskella) - darsa  
 oppilas - darser  
 oranssi - oranji  
-orava - tupay  
+orava - ekore  
 orgasmi - orgazme  
 orija (eräs intialainen kieli) - odisi  
 Oromia - oromia  
@@ -1661,7 +1661,7 @@ paikallinen - loki
 paikka (sija, sijainti) - loke  
 painaa (leimata) - capa  
 painava - bari  
-paino - bar  
+paino - bare  
 painos (leima) - cape  
 painotus (aksentti) - aksente  
 paita - kamise  

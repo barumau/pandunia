@@ -194,11 +194,11 @@ banyokamare - kylpyhuone
 banyu - kylpeä  
 banze - lauta (lankku)  
 banzogem - lautapeli  
-bar - paino  
 barbados - Barbados  
 barbare - barbaari (raakalainen)  
 barbudia - Barbuda  
 barde - parta  
+bare - paino  
 bari - painava  
 barium - barium  
 barka - onnitella (siunata)  
@@ -550,6 +550,7 @@ egalolinyi ginia - Päiväntasaajan Guinea
 eglise - kirkko  
 ekia - luonto  
 ekolojia - ekologia (ympäristötiede)  
+ekore - orava  
 ekran - kuvaruutu  
 ekuador - Ecuador  
 eletre - sähkö  
@@ -2558,7 +2559,6 @@ tunelotren - metrojuna (maanalainen)
 tunge - kipu  
 tunike - mekko (tunika)  
 tunisia - Tunisia  
-tupay - orava  
 turki - turkkilainen  
 turkia - Turkki  
 turkomenia - Turkmenistan  

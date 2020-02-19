@@ -139,9 +139,9 @@ banse - bambuo
 banye - bano  
 banyokamare - banĉambro  
 banyu - bana  
-bar - pezo  
 barbare - barbaro  
 barde - barbo  
+bare - pezo  
 bari - peza  
 barium - bario  
 barka - gratuli  
@@ -388,6 +388,7 @@ e - kaj
 egali - egala  
 eglise - preĝejo  
 ekia - naturo  
+ekore - sciuro  
 ekran - ekrano  
 ekuador - Ekvadoro  
 eletre - elektro  
@@ -1490,7 +1491,6 @@ tundar - tundro
 tunele - tunelo  
 tunelotren - metroo  
 tunike - robo  
-tupay - sciuro  
 turkia - Turkio  
 ##u
 ula - malfari  

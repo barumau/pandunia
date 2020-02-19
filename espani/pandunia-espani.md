@@ -201,12 +201,12 @@ banyokamare - baño
 banyu - bañarse  
 banze - tabla (tablón, tablero)  
 banzogem - juego de mesa  
-bar - peso  
+bar - bar  
 barbados - Barbados  
 barbare - bárbaro  
 barbudia - Barbuda  
 barde - Barbados  
-bare - bar  
+bare - peso  
 bari - pesado  
 barium - bario  
 barka - felicitar  
@@ -568,6 +568,7 @@ eglise - iglesia
 eki - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
 ekolojia - ecología  
+ekore - ardilla  
 ekran - pantalla  
 ekuador - Ecuador  
 eletre - electricidad  
@@ -2700,7 +2701,6 @@ tunelotren - metro
 tunge - dolor  
 tunike - túnica  
 tunisia - Túnez  
-tupay - ardilla  
 turki - turco  
 turkia - Turquía  
 turkomenia - Turkmenistán  

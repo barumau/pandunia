@@ -2182,7 +2182,7 @@ varma (varmasti, totisesti, aamen) - amen
 voodoo - vodun  
 w przyszłości - wil  
 ##w
-waga (ciężkość) - bar  
+waga (ciężkość) - bare  
 waga (urządzenie ważące) - barometer  
 wagina - vagin  
 walka, wojna - jeng  
@@ -2236,7 +2236,7 @@ wieprzowina - gurubomanse
 wiercić, borować - fora  
 wierzyć - xina  
 Wietnam - vietia  
-wiewiórka - tupay  
+wiewiórka - ekore  
 wieś, tereny wiejskie - rustia  
 wieś, wioska - ruste  
 wieża - minare  
