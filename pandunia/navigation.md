@@ -8,21 +8,19 @@
 
 [histor]()
 
-  * [baru bace ya danti tung](baru_dante.md)
-  * [insan ya putong hake](putong_hake.md)
-  * [sam buze i guy](3_buze_i_guy.md)
-  * [sam lil gurube](3_lil_gurube.md)
-
-[piper i karot](piper_i_karot.md)
+  * [lili urse du danti tunge](baru_dante.md)
+  * [insan du putongi hake](putong_hake.md)
+  * [tin buze e guye](3_buze_i_guy.md)
+  * [tin lili gurube](3_lil_gurube.md)
 
 [dini kitabe](dini_kitabe.md)
 
 [filme](filme.md)
 
-[loge liste]()
+[leksoliste]()
 
-  * [dex nam](dex_nam.md)
-  * [loge asle](loge_asle.md)
+  * [dexoname](dex_nam.md)
+  * [leksaslia](loge_asle.md)
 
 [linke](link.md)
 
