@@ -168,7 +168,7 @@ badala|||ara:(badala), hin:बदला (badlā), hau:badali, swa:badili|exchang
 badame|||may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|almond|amande|almendra|amêndoa|миндаль|لَوْز|杏仁 (巴旦木)|アーモンド (扁桃)|아몬드 (편도)|hạnh nhân|बादाम|বাদাম|badam|lozi|badem||manteli|migdał
 badani||||bodily (corporal)||corpóreo|||||||||||||korpa|ruumiillinen|cielesny
 badawi||||bedouin (nomadic)||nómada|||||||||||||beduino (nomado)|beduiini|beduiński; nomadyczny
-bade||||consequence (back, follow-up)||consecuencia (dorso)|||||||||||||sekvo|seuraus|konsekwencja, skutek
+bade||||consequence (back, follow-up)|arrière|consecuencia (dorso)|||||||||||||sekvo|seuraus|konsekwencja, skutek
 badi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
 badi den||||tomorrow||mañana|||||||||||||morgaŭ|huominen|jutro
 bado||||later (after)||más tarde|||||||||||||||
@@ -791,7 +791,7 @@ gati|||tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), j
 gatomate||||solid||sólido||||固体|固体||||||||solido|kiinteä aine|
 gatomati||||rigid (solid)||rígido (sólido)||||||||||||||kiinteä|
 gawa||||raise (lift)||levantar (elevar)||||||||||||||nostaa|
-gawe||||top||alto (parte de arriba)|||||||||||||||
+gawe||||top|haut|cima (alto, parte de arriba)|||||||||||||||
 gawi|||zho:高 (gāo), vie:cao|high||alto|||||||||||||alta|korkea|wysoki
 gawia||||height (altitude)||altura (altitud)|||||||||||||||
 gawolada||||upload||cargar (subir)|||||||||||||||
@@ -1065,8 +1065,9 @@ je|||hin:जो (jo), urd:(jo)|which (relative pronoun)||que (pronombre de las c
 jebe|||hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|pocket||bolsillo|||||||||||||poŝo|tasku|kieszeń
 jebria|||ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre|algebra||álgebra||||||||||||||algebra|algebra
 jeinistia|||hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|Jainism|jaïnisme|jainismo|||||||||||||Ĝajnismo|jainalaisuus|dźinizm, dżinizm
-jeka|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|borrow|empruntre|pedir prestado|pedir emprestado|||借|借りる||||||||||
+jeka|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|loan (borrow, lend)|prêter (empruntre)|prestar (pedir prestado)|emprestar (pedir emprestado)|||借|貸す (借りる)||||||||||
 jekodona||||lend|prêter|prestar|emprestar||||貸す||||||||||
+jekogeta||||borrow|empruntre|pedir prestado|pedir emprestado|||借|借りる||||||||||
 jekolekse||||loanword||préstamo lingüístico|||||||||||||||
 jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)||gel (jalea, gelatina)|||||||||||||ĝelo|hyytelö|żel, galareta
 jelos||||jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
@@ -1246,7 +1247,7 @@ ki ren||||who?||quién|||||||||||||kiu?|kuka?|co?
 ki sate||||when?||cuándo|||||||||||||kiam?|milloin? (koska?)|zapytać, pytać
 ki xey||||what thing?||cuál cosa|||||||||||||kio?|mikä? (mitä?)|jak?
 ki yangi||||what kind of?||qué tipo de|||||||||||||kial?|millainen?|
-kil||||thousand||mil|||||||||||||mil|tuhat|tysiąc
+kil (kili)||||thousand||mil|||||||||||||mil|tuhat|tysiąc
 kilo-||||kilo-||kilo-|||||||||||||||
 kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
 kilometre|unomete|km||kilometer (km)||kilometre|||||||||||||kilometro|kilometri|kilometr
@@ -1860,7 +1861,7 @@ niama|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:g
 niami||||delicious (yummy)||delicioso||||||||||||||herkullinen (nami)|pyszny
 niamokamare||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 nica|coverb|||under (go under)||debajo (estar debajo)||||||||||||||alittaa (alla)|pod, poniżej; iść w dół, iść pod spód, iść na dno
-nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)||parte inferior||||||||||||||alapuoli|spód
+nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior||||||||||||||alapuoli|spód
 nici||||lower||inferior||||||||||||||ala-|poniższy
 nida|||eng: need|need|avoir besoin de|necesitar|necessitar|нуждаться||需要|||cần|ज़रूरत होना||perlu|kuhitaji||bezoni|tarvita|potrzebować
 nide||||need|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja||||
@@ -2164,8 +2165,8 @@ prasedim|mate|Pr||praseodymium||praseodimio||||||||||||||praseodyymi|
 prate|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)||práctica||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
 prati||||practical (pragmatic)||práctico||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
 preda|coverb||rus:п(е)ред (p(e)red), pol:przed, eng:spa:por:pre-, fra:pré-|precede (come before)||preceder (anteceder)|||||||||||||antaŭiri|edeltää (tulla ennen)|poprzedzić, poprzedzać
-prede||||front||frente|||||||||||||||
-predi||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
+prede||||front|devant|frente|||||||||||||||
+predi||||previous (fore)|avant|previo (anterior)||||||||||||||edellinen|poprzedni
 predo||||earlier (before)||más temprano (antes)|||||||||||||||
 predoden||||yesterday||ayer||||||||||||||eilinen|wczoraj
 predofikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|
@@ -2232,7 +2233,7 @@ ratiba||||order (arrange)||ordenar (arreglar)||||||||||||||järjestää (järjes
 ratibe||||order (arrangement)||orden||||||||||||||järjestys|porządek
 raya||||deem (think that)||opinar|||||||||||||opinii|ottaa kantaa (olla jtk mieltä)|uważać (sądzić)
 raye|||ara:(raʾy), fas:(ra'y), hin:राय (rāy), tur:rey|opinion (view)||opinión|||||||||||||opinio|mielipide (näkemys)|opinia, pogląd
-razon||||reason (rational thinking)||razón||||||||||||||järki (järkeily, päättely)|rozum, rozsądek
+razon (razone)||||reason (rational thinking)||razón||||||||||||||järki (järkeily, päättely)|rozum, rozsądek
 razoni||||rational (reasonable)||razonable||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
 razonu||||make sense||tener sentido|||||||||||||||
 rebele||||rebellion||rebelión (sublevación)||||||||||||||kapina|rebelia, powstanie
@@ -2259,7 +2260,7 @@ restoran||||restaurant||restaurante|||||||||||||restaŭracio|ravintola|restaurac
 restu||||remain (stay)||quedarse||||||||||||||jäädä jäljelle|zostać, zostawać
 retra||||return (go back)|retourner (revenir)|volver|voltar (retornar)|возвращаться||返回 (回来)||||लौटना|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
 retre||||return (way back)||vuelta|||||||||||||reiro|paluu|
-retro||||backward (in reverse)||al revés|||||||||||||||
+retro||||backward (in reverse)|en arrière|al revés|||||||||||||||
 retrotikete||||return ticket|Aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|
 reunion|dex|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||
@@ -2566,11 +2567,11 @@ tajikia|dex|TJ||Tajikistan||Tayikistán||||||||||||||Tadžikistan|Tadżykistan
 taksa||||collect fees or taxes||gravar (cobrar tasas)||||||||||||||veloittaa (verottaa)|
 takse|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|tax (fee, fare)||tasa (precio, impuesto, tarifa)||||||||||||||taksa (vero)|podatek, opłata
 taksokare||||taxi||taxi (cab)||||||||||||||taksi|taxi, taksówka
-tala||||lower (put down)||bajar|||||||||||||||
-tale||||bottom||fondo||||||||||||||pohja|dół, spód
-tali||||low||bajo|||||||||||||||
+tala||||lower (put down)|baisser|bajar|||||||||||||||
+tale||||bottom|bas|fondo||||||||||||||pohja|dół, spód
+tali||||low|bas|bajo|||||||||||||||
 talium|mate|Tl||thallium||talio|||||||||||||talio|tallium|tal
-talolada||||download||descargar|||||||||||||||
+talolada||||download|télécharger|descargar|||||||||||||||
 tamare|||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl
 tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|
 tamili|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
@@ -2907,7 +2908,7 @@ yehudi||||Jewish||judío||||||||||||||juutalainen|żydowski
 yehudistia||||Judaism||judaísmo||||||||||||||juutalaisuus|judaizm
 yemenia||||Yemen||Yemen||Йемен|||||||||||Jemeno|Jemen|Jemen
 yesus||||Jesus|Jésus|Jesús||Иисус|||||||||||Jesuo|Jeesus|Jezus
-yey||||yay! (yeah!)||yupi||||||||||||||jee! (hurraa!)|jej
+yey||||yay! (yeah!)||yupi||||イェイ||||||||||jee! (hurraa!)|jej
 yeze|||zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|coconut tree||coco|||||||||||||kokoso|kookos|kokos
 yi|||hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i),|this (these)||esto|||||||||||||ĉi tiu|tämä (nämä)|ten, te
 yoga||||do yoga||hacer yoga||||||||||||||joogata|uprawiać jogę
