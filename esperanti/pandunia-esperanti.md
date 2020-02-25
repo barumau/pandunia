@@ -445,12 +445,11 @@ fantazi - fantazia
 fantom - fantomo  
 farsi - persa  
 fase - surfaco  
-fasin - fascinado  
+fasine - fascinado  
 fata - fari  
 fate - faro  
 fater - fabrikisto  
 fateria - fabriko  
-fatolekse - verbo  
 faxiste - faŝisto  
 faxistia - faŝismo  
 febre - febro  
@@ -510,10 +509,8 @@ fransia - Francio
 fransium - franciumo  
 fuka - vesti  
 fuke - vesto  
-fula - plenigi  
 fulani - iu  
 fule - floro  
-fuli - plena  
 fulovaze - vazo (florpoto)  
 funca - funkcii  
 fune - polvo  
@@ -783,9 +780,10 @@ karawe - karvio
 karbone - karbono  
 karbonodulokside - karbona dioksido  
 karde - karto  
+kare - agado (karmo)  
 karibi - proksima  
 karma - agi  
-karme - agado (karmo)  
+karolekse - verbo  
 karote - karoto  
 karvane - karavano  
 kastane - kaŝtano  
@@ -866,6 +864,7 @@ koy - iu
 koy ren - iu persono  
 koy sate - iam  
 koy xey - io  
+krabe - krabo  
 krane - krano (valvo)  
 kratia - regi  
 kreme - kremo  
@@ -1245,7 +1244,10 @@ protacinium - protaktinio
 pule - ponto  
 pulmone - pulmo  
 punte - punkto  
+pura - plenigi  
 purani - malnova  
+puri - plena  
+puro - plene  
 putaw - vinbero  
 pute - ido (infano)  
 putong - generala (universala)  

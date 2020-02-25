@@ -254,7 +254,7 @@
 |**famile**|rodzina|eng:family, spa:familia, por:família, fra:famille|
 |**fane**|zabawa, rozrywka|eng:fun|
 |**fase**|powierzchnia|eng:fra:por:face, spa:faz, deu:Facette|
-|**fasin**|fascynacja|eng:fascination, spa:fascinación, deu:Faszination|
+|**fasine**|fascynacja|eng:fascination, spa:fascinación, deu:Faszination|
 |**fata**|zrobić (stworzyć, wykreować)|ita:fare, fra:faire, por:fazer, + ara:(faʿala), + swa:kufanya|
 |**fater**|twórca, kreator, czynnik|por:fator, ita: fattore, eng: factor, rus: фактор (faktor)|
 |**faxe**|bandaż, taśma, wstążka|ita:fascia, por:faixa, spa:faja|
@@ -282,7 +282,6 @@
 |**fuke**|ubranie, ubiór, strój|zho:衣服 (yīfu), yue:(yifuk), jpn:衣服 (ifuku), kor:의복 (uibog)|
 |**fulani**|trochę; nieokreślony, nieograniczony, nieokreślony|swa:fulani, ara:(fulan), tur:falan|
 |**fule**|kwiat|hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|
-|**fuli**|pełny|eng:full, deu:voll|
 |**fune**|pył|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
 |**funge**|grzyb|eng:fungus, fra:fongus, por:fungo, spa:hongo|
 |**funocuper**|odkurzacz|zho:吸尘器 (xīchénqì), deu:Staubsauger|
@@ -450,10 +449,11 @@
 |**kapa**|złapać, łapać, schwytać, chwytać|tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|
 |**karawe**|kminek|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|
 |**karde**|karta|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
+|**kare**|działanie (zachowanie, karma)|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
 |**karibi**|bliski|ara:fas:urd:(qarīb), swa:karibu, tur:takribi|
 |**karimi**|hojny (szczodry)|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |**karite**|masłosz Parka|wol:kaarite, fra:spa:karité, ful:kaare, kareje, hau:kaɗanya|
-|**karme**|działanie (zachowanie, karma)|hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)|
+|**karolekse**|czasownik|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
 |**karte**|mapa|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
 |**kartune**|komiks; kreskówka|eng:cartoon, por:cartum, zho:卡通 (kǎtōng)|
 |**karvane**|karawana|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
@@ -773,6 +773,7 @@
 |**punte**|kropka (znak interpunkcyjny)|spa:punto, rus:пункт (punkt), eng:point|
 |**pupe**|lalka, kukiełka, pacynka, marionetka|fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|
 |**purani**|stary, starożytny|hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|
+|**puri**|pełny|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
 |**pute**|dziecko, potomek|tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|
 |**putong**|powszechny, uniwersalny|zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|
 |**raite**|prawa strona|eng:right|

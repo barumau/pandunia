@@ -342,7 +342,7 @@ Czarnogóra - cernogoria
 czarny - cerni  
 czas (epoka, era) - zamane  
 czas; okazja - ban (bane)  
-czasownik - fatolekse  
+czasownik - karolekse  
 czaszka - saroste  
 czcić, szanować - puja  
 czekać - denga  
@@ -459,7 +459,7 @@ dystans - telia
 dzban, dzbanek; słój, słoik - jare  
 dziadek (dziad) - lawopape  
 działanie (akcja) - acion  
-działanie (zachowanie, karma) - karme  
+działanie (zachowanie, karma) - kare  
 działka (teren) - lote  
 działo - kanone  
 dziecko (nieletni) - bace  
@@ -543,7 +543,7 @@ fala - onde
 Falklandy, Malwiny - malvinas nesia  
 fantastyczny, fantazyjny - fantazi  
 fantazja (wyobrażenie, wyobraźnia) - fantaze  
-fascynacja - fasin  
+fascynacja - fasine  
 fasola lub groch, roślina strączkowa - dowe  
 faszysta - faxiste  
 faszyzm - faxistia  
@@ -1655,7 +1655,7 @@ Pers; perski, farsi - farsi
 Peru - peruvia  
 peryferyjny - kenari  
 perła - lule  
-pełny - fuli  
+pełny - puri  
 pfuj (fuj) - bah  
 pianino - piane  
 piasek, piach - rege  
@@ -2408,7 +2408,7 @@ taoista - dawiste
 taoizm - dawistia  
 tapeta - walopapir  
 tatuaż - tataw  
-taxi, taksówka - taksokare  
+taxi, taksówka - taksogare  
 taśma - tepe  
 taśma; bandaż - bende  
 tchórz, fretka - furete  
@@ -2737,7 +2737,7 @@ wymieniać, wymienić, zamieniać, zamienić - badala
 wynająć, oddać w najem - kirisa  
 wynająć, wynajmować, zatrudnić, zatrudniać - kire  
 wyobrazić, wyobrażać, fantazjować - fantaza  
-wypełnić, wypełniać - fula  
+wypełnić, wypełniać - pura  
 wyrok - hakimer  
 wyrzucać (wyrzucić, wydalać, wydalić) - waya  
 wyrzutek - paraye  

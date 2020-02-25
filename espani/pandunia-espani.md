@@ -646,12 +646,11 @@ fantazi - imaginario (fantástico)
 fantom - fantasma  
 farsi - farsi  
 fase - faz (faceta)  
-fasin - fascinación  
+fasine - fascinación  
 fata - hacer  
 fate - hecho  
 fater - farbicante  
 fateria - fábrica  
-fatolekse - verbo  
 favora - preferir (favorecer)  
 favori - favorito (preferido)  
 faxe - tira (faja, vendaje, cinta)  
@@ -738,10 +737,8 @@ fransium - francio
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - llevar (vestir)  
 fuke - ropa (vestimenta)  
-fula - llenar  
 fulani - cierto (algún, unos)  
 fule - flor  
-fuli - lleno (completo)  
 fulovaze - florero  
 fulu - florecer  
 funca - funcionar  
@@ -1188,6 +1185,7 @@ karawe - carvis (alcaravea)
 karbone - carbón  
 karbonodulokside - dióxido de carbono  
 karde - tarjeta (carta)  
+kare - acción (hecho, acto, obra, hazaña)  
 kariba - axproximarse  
 karibe - proximidad  
 karibi - cerca  
@@ -1196,9 +1194,9 @@ karimi - generoso (dadivoso, caritativo)
 karimia - generosidad (caridad)  
 karite - karité  
 karma - hacer (actuar, cometer)  
-karme - acción (hecho, acto, obra, hazaña)  
 karnadi - cararés  
 karnadia - Karnataka  
+karolekse - verbo  
 karote - zanahoria  
 karte - mapa  
 kartografia - cartografía  
@@ -2198,7 +2196,9 @@ pule - puente
 pulmone - pulmón  
 punte - punto  
 pupe - marioneta (títere)  
+pura - llenar  
 purani - viejo (antiguo)  
+puri - lleno (completo)  
 putaw - uva  
 pute - hijo o hija  
 putong - general (common)  
@@ -2575,7 +2575,7 @@ taiwania - Taiwán
 tajikia - Tayikistán  
 taksa - gravar (cobrar tasas)  
 takse - tasa (precio, impuesto, tarifa)  
-taksokare - taxi (cab)  
+taksogare - taxi (cab)  
 tala - bajar  
 tale - fondo  
 tali - bajo  

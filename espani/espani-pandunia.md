@@ -19,7 +19,7 @@ abuela - lawomame
 aburrido - bori  
 aburrimiento - boria  
 accesorio (afijo) - fikse  
-acción (hecho, acto, obra, hazaña) - karme  
+acción (hecho, acto, obra, hazaña) - kare  
 acción - acion  
 aceituna - zaitune  
 acento - aksente  
@@ -1068,7 +1068,7 @@ fantasma - fantom
 farbicante - fater  
 farol (linterna) - lantene  
 farsi - farsi  
-fascinación - fasin  
+fascinación - fasine  
 fascismo - faxistia  
 fascista - faxiste  
 favorito (preferido) - favori  
@@ -1600,8 +1600,8 @@ livermorio - livermorium
 llamar (poner) - namisa  
 llamarse - namu  
 llave - cabe  
-llenar - fula  
-lleno (completo) - fuli  
+llenar - pura  
+lleno (completo) - puri  
 llevar (vestir) - fuka  
 llorar - duka  
 llorar - kuga  
@@ -2680,7 +2680,7 @@ tarjeta (carta) - karde
 tasa (precio, impuesto, tarifa) - takse  
 tasa (precio, tarifa) - tarife  
 tatuaje - tataw  
-taxi (cab) - taksokare  
+taxi (cab) - taksogare  
 Tayikistán - tajikia  
 taza de café - kafokupe  
 taza de té - cayokupe  
@@ -2873,7 +2873,7 @@ Venus - venus
 ver (mirar) - vida  
 veranda (galería) - berande  
 verano - lete  
-verbo - fatolekse  
+verbo - karolekse  
 verdadero - veri  
 verde - lugi  
 verduras - coye  

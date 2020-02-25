@@ -281,6 +281,7 @@ karbonodulokside - dioxyde de carbone
 karde - carte  
 karimi - généreux  
 karimia - générosité (charité)  
+karolekse - verbe  
 karte - carte  
 kartografia - cartographie  
 kava - creuser  
@@ -305,6 +306,7 @@ korne - corne
 korone - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
+krabe - crabe  
 kreme - crème  
 krepe - crêpe  
 kreperia - crêperie  
@@ -455,6 +457,8 @@ problemi - problématique
 programe - programme  
 projete - projet  
 pule - pont  
+pura - remplir  
+puri - plein  
 pute - fils ou fille  
 ##r
 rang (range) - couleur  
@@ -518,6 +522,7 @@ susane - lys
 suy (suye) - eau  
 suyogas - vapeur d’eau  
 ##t
+taksometer - taximètre  
 tarje - traduction  
 tate - bord (rive)  
 tazi - frais  

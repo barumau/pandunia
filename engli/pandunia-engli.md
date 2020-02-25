@@ -652,12 +652,11 @@ fantazi - fantastic (imaginary)
 fantom - ghost (fantom)  
 farsi - Persian (Farsi)  
 fase - surface (face)  
-fasin - fascination  
+fasine - fascination  
 fata - make (manufacture)  
 fate - deed  
 fater - maker (manufacturer, factor)  
 fateria - factory  
-fatolekse - verb  
 favora - prefer  
 favori - favorite (preferred)  
 faxe - bandage (strip, ribbon)  
@@ -744,10 +743,8 @@ fransium - francium
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
-fula - fill  
 fulani - certain (indefinite, indeterminate, some, so-and-so)  
 fule - flower  
-fuli - full  
 fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
 funca - function (work)  
@@ -1195,6 +1192,7 @@ karawe - caraway
 karbone - carbon (coal)  
 karbonodulokside - carbon dioxide  
 karde - card  
+kare - action (deed, performance, karma)  
 kariba - approach (get near)  
 karibe - proximity  
 karibi - near (close)  
@@ -1203,9 +1201,9 @@ karimi - generous (charitable)
 karimia - generosity (charity)  
 karite - shea (vitellaria)  
 karma - do (act, perform)  
-karme - action (deed, performance, karma)  
 karnadi - Kannada  
 karnadia - Karnataka  
+karolekse - verb  
 karote - carrot  
 karte - map (chart)  
 kartografia - cartography  
@@ -1363,6 +1361,7 @@ koy - some
 koy ren - someone (somebody)  
 koy sate - sometime  
 koy xey - something  
+krabe - crab  
 krane - valve (tap, faucet)  
 kratia - rule (reign)  
 kreme - cream  
@@ -2209,7 +2208,10 @@ pule - bridge
 pulmone - lung  
 punte - point (period, full stop)  
 pupe - doll (puppet)  
+pura - fill  
 purani - old (ancient)  
+puri - full (complete)  
+puro - fully (completely)  
 putaw - grape  
 pute - child (son or daughter)  
 putong - common (general, universal)  
@@ -2284,7 +2286,8 @@ reunion - Réunion
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
 rezine - resin  
-rezulte - result  
+rezulta - lead to (bring about, result to)  
+rezulte - result (outcome)  
 rici - rich  
 rime - rhyme (verse)  
 riske - risk  
@@ -2587,7 +2590,8 @@ taiwania - Taiwan (Republic of China)
 tajikia - Tajikistan  
 taksa - collect fees or taxes  
 takse - tax (fee, fare)  
-taksokare - taxi  
+taksogare - taxi (cab)  
+taksometer - taximeter  
 tala - lower (put down)  
 tale - bottom  
 tali - low  

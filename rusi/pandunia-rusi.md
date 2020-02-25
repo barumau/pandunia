@@ -219,6 +219,7 @@ kanosuyogas - слезоточи́вый газ
 kanowe - каноэ  
 karbonodulokside - двуокись углерода  
 karde - карта  
+karolekse - глагол  
 karte - карта  
 kartografia - картография  
 katane - меч  
@@ -243,6 +244,7 @@ kornonose - носорог
 korone - корона  
 kosmi - космический  
 kosmia - космос  
+krabe - краб  
 krane - кран  
 krepe - блин  
 kruasan - круассан  
@@ -370,6 +372,8 @@ probleme - проблема
 problemi - проблематичный  
 programe - программа  
 projete - проект  
+pura - заполнять  
+puri - полный  
 ##r
 rapidi - быстрый  
 rase - раса  
@@ -423,6 +427,7 @@ susane - лилия
 suy (suye) - вода  
 suyogas - пар  
 ##t
+taksometer - таксометр  
 tarje - перевод  
 tase - блюдо (таз)  
 tataw - татуировка (тату)  

@@ -18,7 +18,7 @@ afrikamanteco - afrikofilia
 afrikamanto - afrikofiler  
 Afriko - afrike  
 agaci (tedi, malamuzi) - irita  
-agado (karmo) - karme  
+agado (karmo) - kare  
 agi - karma  
 agresema - agresi  
 aj (alas) - ay  
@@ -381,7 +381,7 @@ fantazio - fantaze
 fantomo - fantom  
 fari - fata  
 faro - fate  
-fascinado - fasin  
+fascinado - fasine  
 faŝismo - faxistia  
 faŝisto - faxiste  
 febro - febre  
@@ -753,6 +753,7 @@ kotono - gotone
 kotraŭa - anti  
 kovri - daka  
 kovrilo - dake  
+krabo - krabe  
 krano (valvo) - krane  
 kreda - xina  
 kredo - xine  
@@ -1131,9 +1132,10 @@ planto - fite
 plantscienco (botaniko) - fitolojia  
 plateno - platinum  
 plej - maxim (maximo)  
-plena - fuli  
+plena - puri  
 plenaĝa - adulte  
-plenigi - fula  
+plene - puro  
+plenigi - pura  
 pli - max (maxo)  
 plori - kuga  
 plumbo - plumbe  
@@ -1500,7 +1502,7 @@ ventro - pete
 ventumilo - panke  
 vera - veri  
 verando - berande  
-verbo - fatolekse  
+verbo - karolekse  
 verda - lugi  
 versio (toisinto) - version  
 vespermanĝo - xamoniame  

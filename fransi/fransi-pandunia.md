@@ -169,6 +169,7 @@ couleur - rang (range)
 coupe (tasse, verre) - kope  
 couronne - korone  
 couvrir - daka  
+crabe - krabe  
 creuser - kava  
 croissant - kruasan  
 croix - kruse  
@@ -430,6 +431,7 @@ pizza - pize
 pièce (chambre) - kamare  
 placard - almar  
 place - maidane  
+plein - puri  
 pluie - barxe  
 plume - kalam  
 plus - max (maxo)  
@@ -459,6 +461,7 @@ race - rase
 racine - mule  
 rein - nefre  
 religion - dine  
+remplir - pura  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
@@ -515,6 +518,7 @@ table - meze
 tablette de chocolat - cokolatobaton  
 tarte - pay (paye)  
 tasse à thé - cayokupe  
+taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
 tendance - ive  
@@ -548,6 +552,7 @@ vapeur d’eau - suyogas
 vase - vaze  
 Venezuela - venezolia  
 ver - verme  
+verbe - karolekse  
 verre - kance  
 vert - lugi  
 viande - manse  

@@ -652,12 +652,11 @@ fantazi - fantastyczny, fantazyjny
 fantom - duch, fantom  
 farsi - Pers; perski, farsi  
 fase - powierzchnia  
-fasin - fascynacja  
+fasine - fascynacja  
 fata - zrobić (stworzyć, wykreować)  
 fate - czyn, uczynek  
 fater - twórca, kreator, czynnik  
 fateria - fabryka, manufaktura  
-fatolekse - czasownik  
 favora - preferować (woleć)  
 favori - ulubiony   
 faxe - bandaż, taśma, wstążka  
@@ -744,10 +743,8 @@ fransium - frans
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuka - nosić ubrania  
 fuke - ubranie, ubiór, strój  
-fula - wypełnić, wypełniać  
 fulani - trochę; nieokreślony, nieograniczony, nieokreślony  
 fule - kwiat  
-fuli - pełny  
 fulovaze - wazon; donica, doniczka  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
 funca - funkcja, stanowisko  
@@ -1197,6 +1194,7 @@ karawe - kminek
 karbone - węgiel  
 karbonodulokside - dwutlenek węgla  
 karde - karta  
+kare - działanie (zachowanie, karma)  
 kariba - zbliżać się (zbliżyć się)  
 karibe - bliskość  
 karibi - bliski  
@@ -1205,9 +1203,9 @@ karimi - hojny (szczodry)
 karimia - hojność (szczodrość)  
 karite - masłosz Parka  
 karma - czynić (uczynić, wykonywać, wykonać)  
-karme - działanie (zachowanie, karma)  
 karnadi - kannada  
 karnadia - Karnataka  
+karolekse - czasownik  
 karote - marchew  
 karte - mapa  
 kartografia - kartografia  
@@ -2212,7 +2210,9 @@ pule - most
 pulmone - płuco  
 punte - kropka (znak interpunkcyjny)  
 pupe - lalka, kukiełka, pacynka, marionetka  
+pura - wypełnić, wypełniać  
 purani - stary, starożytny  
+puri - pełny  
 putaw - winogrono  
 pute - dziecko, potomek  
 putong - powszechny, uniwersalny  
@@ -2590,7 +2590,7 @@ taiwania - Tajwan, Republika Chińska
 tajikia - Tadżykistan  
 taksa - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
 takse - podatek, opłata  
-taksokare - taxi, taksówka  
+taksogare - taxi, taksówka  
 tala - obniżać (obniżyć)  
 tale - dół, spód  
 tali - niski  

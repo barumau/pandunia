@@ -32,7 +32,7 @@ Ahvenanmaa (Oolanti) - olandia
 ai! (au!) - ay  
 aihe (teema) - teme  
 aiheesta (-sta) - tema  
-aiheuttaa - saba  
+aiheuttaa (olla syynä) - saba  
 aikakausi - zamane  
 aikuinen - adulte  
 aina - pan sate  
@@ -518,7 +518,7 @@ huominen - badi den
 huomio (kommentti, merkintä) - note  
 huone - kamare  
 huono - mal (mali)  
-hurma (lumo, tenho) - fasin  
+hurma (lumo, tenho) - fasine  
 hurraa (hurrata) - ura  
 huuli - labe  
 huume - droge  
@@ -1953,6 +1953,7 @@ Ranskan Guiana - giyania
 Ranskan Polynesia - fransi polinesia  
 raportoida (selostaa) - reporta  
 raportti (selostus, selonteko) - reporte  
+rapu (taskurapu) - krabe  
 rasismi (rotuoppi) - rasistia  
 rasisti - rasiste  
 raskaana (odottava) - hamili  
@@ -2303,7 +2304,8 @@ Taiwan - taiwania
 takki - kote  
 taksa (tariffi) - tarife  
 taksa (vero) - takse  
-taksi - taksokare  
+taksamittari - taksometer  
+taksi - taksogare  
 taktiikka - tatike  
 takuu - garante  
 tallenne (rekisteri) - defte  
@@ -2417,7 +2419,7 @@ tohtori - dotore
 tohtorin tutkinto - dotoria  
 tohveli - babuce  
 toiminta (funktio) - funca  
-toiminta (tekeminen, karma) - karme  
+toiminta (tekeminen, karma) - kare  
 toiminta - acion  
 toimintahäiriö - malofunce  
 toimittaja (journalisti, lehtimies) - gazeter  
@@ -2469,6 +2471,7 @@ tuomio - hakimer
 tuomita - hakima  
 tuore (raikas) - tazi  
 tuotanto - cania  
+tuottaa (johtaa tulokseen) - rezulta  
 tupakka - tabake  
 tuplata (kertoa kahdella) - dulo multa  
 turbaani - pagre  
@@ -2515,9 +2518,10 @@ tämä hetki (nyt) - zaye
 tänään - zayoden  
 täplä (läiskä) - binde  
 tärkeä - hami  
-täysi - fuli  
+täysi - puri  
+täysin - puro  
 täytetty pulla - mante  
-täyttää - fula  
+täyttää - pura  
 täytyä (olla pakko) - bixu  
 täällä (tuolla) - sa ye  
 törkeä - nindi  
@@ -2644,7 +2648,7 @@ veneillä - bota
 Venezuela - venezolia  
 Venäjä - rusia  
 venäläinen - rusi  
-verbi (teonsana) - fatolekse  
+verbi (teonsana) - karolekse  
 verho (huntu, peite) - hijabe  
 verhot - parde  
 veri - sange  

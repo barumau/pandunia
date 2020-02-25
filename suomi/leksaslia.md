@@ -249,7 +249,7 @@
 |**famile**|perhe|englanti:family, espanja:familia, portugali:família, ranska:famille|
 |**fane**|huvi (hauskuus)|englanti:fun|
 |**fase**|pinta (tahko)|englanti:ranska:portugali:face, espanja:faz, deu:Facette|
-|**fasin**|hurma (lumo, tenho)|englanti:fascination, espanja:fascinación, deu:Faszination|
+|**fasine**|hurma (lumo, tenho)|englanti:fascination, espanja:fascinación, deu:Faszination|
 |**fata**|tehdä (valmistaa)|italia:fare, ranska:faire, portugali:fazer, + arabia:(faʿala), + suahili:kufanya|
 |**fater**|tekijä (valmistaja)|portugali:fator, italia: fattore, englanti: factor, venäjä: фактор (faktor)|
 |**faxe**|side (remmi)|italia:fascia, portugali:faixa, espanja:faja|
@@ -277,7 +277,6 @@
 |**fuke**|vaate (puku)|yleiskiina:衣服 (yīfu), kantoninkiina:(yifuk), japani:衣服 (ifuku), korea:의복 (uibog)|
 |**fulani**|eräs (muuan, joku, jokin)|suahili:fulani, arabia:(fulan), turkki:falan|
 |**fule**|kukka|hausa:fure, igbo:ifulu, lingala:folele, hindi:फूल (phul), bangla:ফুল (phul), ranska:fleur, portugali:espanja:flor, englanti:flower|
-|**fuli**|täysi|englanti:full, deu:voll|
 |**fune**|pöly (tomu)|yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)|
 |**funge**|sieni|englanti:fungus, ranska:fongus, portugali:fungo, espanja:hongo|
 |**funocuper**|pölynimuri|yleiskiina:吸尘器 (xīchénqì), deu:Staubsauger|
@@ -440,10 +439,11 @@
 |**kapa**|ottaa kiinni (napata, kaapata)|turkki:kapmak, unkari:kap, sve:kapa, fin:kaapata, ned:kapen, espanja:portugali:capturar, englanti:capture, spa:por:caber, khmer:ចាប់ (cap)|
 |**karawe**|kumina|arabia:(karāwiya), englanti:caraway, ranska:carvi, espanja:alcaravea, portugali:alcaravia|
 |**karde**|kortti|englanti:card, japani: カード (kādo), suahili: kadi, yleiskiina:卡 (kǎ), deu:Karte, malaiji:kartu, ranska:carte|
+|**kare**|toiminta (tekeminen, karma)|hindi:कर्म (karma), urdu:(karm), pandzabi:ਕਰਮ (karm), kannada:tamili:telugu:(karma), englanti:deu:ranska:espanja:portugali:karma, khmer:កម្ម (kam), burma:ကံ (kam), thai:กรรม (kam), venäjä:карма (karma)|
 |**karibi**|läheinen|arabia:persia:urdu:(qarīb), suahili:karibu, turkki:takribi|
 |**karimi**|vieraanvarainen (antelias, hyväntahtoinen)|arabia:(karīm), suahili:-karimu, turkki:kerim, espanja:portugali:caritativo|
 |**karite**|voipuu|wolof:kaarite, ranska:espanja:karité, fulani:kaare, kareje, hausa:kaɗanya|
-|**karme**|toiminta (tekeminen, karma)|hindi:कर्म (karma), urdu:(karm), pandzabi:ਕਰਮ (karm), kannada:tamili:telugu:(karma), englanti:deu:ranska:espanja:portugali:karma, khmer:កម្ម (kam), burma:ကံ (kam), thai:กรรม (kam), venäjä:карма (karma)|
+|**karolekse**|verbi (teonsana)|hindi:क्रिया (kriyā), bangla:ক্রিয়া (kriya), telugu:క్రియ (kriya), khmer:កិរិយា (keriyaa), thai:กริยา (grì-yaa), malaiji:kata kerja|
 |**karte**|kartta|deu:Karte, venäjä:карта (karta), ranska:carte, italia:portugali:carta, arabia:(xarīṭa), turkki:harita, persia:(xarite), som:khariiddo|
 |**kartune**|sarjakuva|englanti:cartoon, portugali:cartum, yleiskiina:卡通 (kǎtōng)|
 |**karvane**|karavaani (saattue)|persia:urdu:(kârvân), turkki:kervan, hindi:कारवाँ (kārvā̃), englanti:caravan, deu:Karawane, ranska:caraven, espanja:portugali:caravana, puola:karawana, venäjä:караван (karavan), filippiini:karabana, japani:キャラバン (kyaraban), korea:카라반 (karaban)|
@@ -492,6 +492,7 @@
 |**kosmia**|avaruus (kosmos)|venäjä:космос (kosmos), englanti:ranska:espanja:cosmos|
 |**kote**|takki|englanti:coat, suahili:koti, oromo:koota, japani:コート (kōto), persia:(kot), hindi:कोट (kot)|
 |**koy**|jokin (joku)|hindi:कोई (koī), urdu:(koī), venäjä:кое- (koye-)|
+|**krabe**|rapu (taskurapu)|englanti:crab, deu:Krebs, ranska:crabe, venäjä:краб (krab)|
 |**krane**|hana (venttiili, kraana)|ned:kraan, venäjä:кран (kran), puola:kran, malaiji:keran|
 |**kreme**|kerma|ranska:crème, portugali:creme, espanja:crema, englanti:cream, japani:クリーム (kurīmu)|
 |**krepe**|lätty (räiskäle, pannukakku)|ranska:englanti:crêpe, portugali:crepe, espanja:crepa, turkki:krep, italia:crespella|
@@ -756,6 +757,7 @@
 |**punte**|piste (täplä)|espanja:punto, venäjä:пункт (punkt), englanti:point|
 |**pupe**|nukke|ranska:poupée, deu:Puppe, englanti:puppet, vietnami:búp bê, ktu:popi, heb:(bubá)|
 |**purani**|vanha (muinainen)|hindi:पुराना (purānā), urdu:(purānā), bangla:পুৰণা (puron), pandzabi:ਪੁਰਾਣਾ (purāṇā)|
+|**puri**|täysi|hindi:पूर्ण (pūrn), bangla:পূর্ণ (pūrṇa), pandzabi:ਪੂਰਾ (pūrā), persia:(por)|
 |**pute**|lapsi (jälkeläinen)|thai:บุตร (but), hindi:पूत (pūt), पुत्र (putra), bangla:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), malaiji:putera, telugu:పుత్రుడు (putruḍu)|
 |**putong**|yleinen (universaali)|yleiskiina:普通 (pǔtōng), kantoninkiina:普通 (pou2tung1), vietnami:phổ thông, korea:보통 (botong)|
 |**raite**|oikea puoli|englanti:right|

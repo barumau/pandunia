@@ -16,7 +16,7 @@ achoo - aciy
 acknowledge - resida  
 act (play a role) - rola  
 actinium - acinium  
-action (deed, performance, karma) - karme  
+action (deed, performance, karma) - kare  
 action - acion  
 actor (actress) - roler  
 additional - maxi  
@@ -624,6 +624,7 @@ coupon - kupone
 cover (conceal) - daka  
 cover (lid, cap, deck) - dake  
 cow - muh  
+crab - krabe  
 crafty (dexterous) - jangi  
 cream - kreme  
 creamy (cream colored) - kremi  
@@ -908,7 +909,7 @@ farewell - salam cute
 farmer - nonger  
 fart (flatulate) - peda  
 fart (flatulence) - pede  
-fascination - fasin  
+fascination - fasine  
 fascism - faxistia  
 fascist - faxiste  
 fashion (trend) - faxon  
@@ -935,7 +936,7 @@ fiever - febre
 fight (war, battle, combat) - jeng  
 figure (representation) - figur  
 Fiji - fijia  
-fill - fula  
+fill - pura  
 film (video) - filme  
 filter - filter  
 find (discover) - eureka  
@@ -1007,7 +1008,8 @@ frost - himorose
 fruit - pale  
 frying pan - tawe  
 fuck (copulate) - coda  
-full - fuli  
+full (complete) - puri  
+fully (completely) - puro  
 fun (amusement) - fane  
 function (work) - funca  
 fungus - funge  
@@ -1425,6 +1427,7 @@ lawrencium - laurensium
 layer (level, storey, floor, stratum) - cenge  
 lead (direct) - lida  
 lead - plumbe  
+lead to (bring about, result to) - rezulta  
 leader (director) - lider  
 leaf (sheet) - warke  
 league (association) - lige  
@@ -2236,7 +2239,7 @@ respond (give an answer) - jawaba
 rest (relief) - xuxe  
 rest (remainder) - reste  
 restaurant - restoran  
-result - rezulte  
+result (outcome) - rezulte  
 return (go back) - retra  
 return (restore, recover, resume) - fuga  
 return (way back) - retre  
@@ -2630,7 +2633,8 @@ taste (sense flavor) - gusta
 taste like - gustu ko  
 tattoo - tataw  
 tax (fee, fare) - takse  
-taxi - taksokare  
+taxi (cab) - taksogare  
+taximeter - taksometer  
 tea - cay (caye)  
 tea cup - cayokupe  
 tea house - cayeria  
@@ -2838,7 +2842,7 @@ veil (cover, screen) - hijabe
 Venezuela - venezolia  
 Venus - venus  
 veranda (balcony, terrace, porch) - berande  
-verb - fatolekse  
+verb - karolekse  
 version (variation, edition) - version  
 vertical - gawotali  
 vice (deputy) - visi  
