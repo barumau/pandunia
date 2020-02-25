@@ -1325,7 +1325,7 @@ Honduras - hondurasia
 Hong Kong - hongong  
 hongo - funge  
 hora - hore  
-horizontal - horizoni  
+horizontal (lateral) - horizoni  
 horizonte - horizone  
 hormigo - maye  
 hormona - hormon  

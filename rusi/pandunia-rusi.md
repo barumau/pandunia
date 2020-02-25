@@ -181,6 +181,7 @@ hijenia - гигиена
 hisaba - вычислять  
 hoke - хоккей  
 hore - час  
+horizoni - horizontal  
 hotel (hotele) - гостиница (отель)  
 hule - лиса  
 ##i

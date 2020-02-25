@@ -964,7 +964,7 @@ hondurasia - Honduras
 hongong - Hong Kong  
 hore - hora  
 horizone - horizonte  
-horizoni - horizontal  
+horizoni - horizontal (lateral)  
 hormon - hormona  
 horvatia - Croacia  
 hotel (hotele) - hotel (albergue)  

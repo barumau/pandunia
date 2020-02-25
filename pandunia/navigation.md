@@ -6,7 +6,7 @@
 
 [abc](abc.md)
 
-[histor]()
+[sage]()
 
   * [lili urse du danti tunge](baru_dante.md)
   * [insan du putongi hake](putong_hake.md)

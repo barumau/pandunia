@@ -678,7 +678,7 @@ kaŝtano - kastane
 kaŭĉuko - gome  
 kerno (koro) - kerne  
 keĉupo - kecape  
-kial? - ki yangi  
+kia? - ki yangi  
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  

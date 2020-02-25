@@ -816,7 +816,7 @@ kexosabun - ŝampuo
 ki ren - kiu?  
 ki sate - kiam?  
 ki xey - kio?  
-ki yangi - kial?  
+ki yangi - kia?  
 kil - mil  
 kilometre - kilometro  
 kimia - ĥemio (kemio)  

@@ -970,7 +970,6 @@ hondurasia - Honduras
 hongong - Hong Kong, SAR China  
 hore - hour  
 horizone - horizon  
-horizoni - horizontal (lateral)  
 hormon - hormone  
 horvatia - Croatia  
 hotel (hotele) - hotel  

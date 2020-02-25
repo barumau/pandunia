@@ -1214,7 +1214,6 @@ Hong Kong, SAR China - hongong
 honorable (respectable) - onori  
 hope (wish) - inxala  
 horizon - horizone  
-horizontal (lateral) - horizoni  
 hormone - hormon  
 horn - korne  
 horse - gude  
