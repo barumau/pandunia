@@ -1,0 +1,12 @@
+site_name: 泛世界语
+site_url: http://www.pandunia.info/cini
+docs_dir: ../../cini
+site_dir: ../../html/cini
+theme: cerulean
+nav:
+    - Home: 'index.md'
+    - '字母表': abc.md
+    - '短语集': fraze.md
+    - '词典': pandunia-cini.md
+    - '语源': leksaslia.md
+
