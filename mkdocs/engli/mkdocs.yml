@@ -2,7 +2,7 @@ site_name: Pandunia
 site_url: http://www.pandunia.info/engli
 site_author: Risto Kupsala
 docs_dir: ../../engli
-site_dir: ../html/engli
+site_dir: ../../html/engli
 theme: cerulean
 nav:
     - Home: 'index.md'

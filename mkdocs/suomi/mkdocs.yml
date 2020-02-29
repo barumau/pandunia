@@ -2,7 +2,7 @@ site_name: Pandunia
 site_url: http://www.pandunia.info/suomi
 site_author: Risto Kupsala
 docs_dir: ../../suomi
-site_dir: ../html/suomi
+site_dir: ../../html/suomi
 theme: cerulean
 nav:
     - Kotisivu: 'index.md'

@@ -1,7 +1,7 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/engli
 docs_dir: ../../espani
-site_dir: ../html/espani
+site_dir: ../../html/espani
 theme: cerulean
 nav:
     - Inicio: 'index.md'

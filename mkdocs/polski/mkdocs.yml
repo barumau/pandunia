@@ -1,7 +1,7 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/polski
 docs_dir: ../../polski
-site_dir: ../html/polski
+site_dir: ../../html/polski
 theme: cerulean
 nav:
     - Dom: 'index.md'

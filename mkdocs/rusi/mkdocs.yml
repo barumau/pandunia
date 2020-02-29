@@ -1,7 +1,7 @@
 site_name: пандуния
 site_url: http://www.pandunia.info/rusi
 docs_dir: ../../rusi
-site_dir: ../html/rusi
+site_dir: ../../html/rusi
 theme: cerulean
 nav:
     - Дом: 'index.md'

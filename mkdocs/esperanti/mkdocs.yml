@@ -1,7 +1,7 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/engli
 docs_dir: ../../esperanti
-site_dir: ../html/esperanti
+site_dir: ../../html/esperanti
 theme: cerulean
 nav:
     - 'Ĉefpaĝo': 'index.md'

@@ -2,7 +2,7 @@ site_name: Pandunia
 site_url: http://www.pandunia.info/pandunia
 site_author: Risto Kupsala
 docs_dir: ../../pandunia
-site_dir: ../html/pandunia
+site_dir: ../../html/pandunia
 theme: cerulean
 nav:
     - dom: 'index.md'
