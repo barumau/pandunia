@@ -1,0 +1,25 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/engli
+site_author: Risto Kupsala
+docs_dir: ../../engli
+site_dir: ../html/engli
+theme: cerulean
+nav:
+    - Home: 'index.md'
+    - 'Info':
+        - 'Introduction': dunia_bax.md
+        - 'Principles': filsof.md
+        - 'World words': dunia_loge.md
+        - 'Questions & Answers': eske_i_jawabe.md
+        - 'Translate this site': tarja_netoloke.md
+    - 'Lessons':
+        - 'Sounds and letters': abc.md
+        - 'Basic Phrases': fraze.md
+        - 'Course': darse.md
+    - 'Words':
+        - 'Pandunia-English': pandunia-engli.md
+        - 'English-Pandunia': engli-pandunia.md
+        - 'Origins of words': leksaslia.md
+        - 'Search': tiddly.html
+    - 'Grammar': kanun.md
+

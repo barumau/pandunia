@@ -1,0 +1,18 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/engli
+docs_dir: ../../espani
+site_dir: ../html/espani
+theme: cerulean
+nav:
+    - Inicio: 'index.md'
+    - 'Info':
+        - 'Principios': filsofe.md
+    - 'Lessons':
+        - 'Ortografía': abc.md
+        - 'Frases básicas': fraze.md
+        - 'Curso': darse.md
+    - 'Diccionarios':
+        - 'Pandunia-Español': pandunia-espani.md
+        - 'Español-Pandunia': espani-pandunia.md
+        - 'Diccionario etimologico': leksaslia.md
+

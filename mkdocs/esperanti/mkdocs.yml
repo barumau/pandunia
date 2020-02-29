@@ -1,0 +1,19 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/engli
+docs_dir: ../../esperanti
+site_dir: ../html/esperanti
+theme: cerulean
+nav:
+    - 'Ĉefpaĝo': 'index.md'
+    - 'Info':
+        - 'Enkonduko': dunia_bax.md
+    - 'Lessons':
+        - 'Prononco': abc.md
+        - 'Utilaj frazoj': fraze.md
+    - 'Words':
+        - 'Internaciaj vortaroj': loga.md
+        - 'Pandunia-Esperanto': pandunia-esperanti.md
+        - 'Esperanto-Pandunia': esperanti-pandunia.md
+        - 'Etimologia vortaro': leksaslia.md
+    - 'Gramatiko': kanun.md
+
