@@ -775,7 +775,7 @@ indyk - totole
 infekcja (zakażenie) - infekse  
 informacja - informe  
 inny - ali  
-innymi słowy - alonami  
+innymi słowy - alonamo  
 inspirować; inspiracja - inspira  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tezi  
 interesujący - interesi  
@@ -922,7 +922,7 @@ kiur - kurium
 klasa, kategoria - klase  
 klasyfikować, kategoryzować - klasa  
 klatka - kafase  
-klatka piersiowa - sinokase  
+klatka piersiowa - sinokafase  
 klawiatura - butonobanze  
 klawisz, przycisk, przełącznik - butone  
 klej - glute  
@@ -2573,7 +2573,6 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - vanuatia  
-varma (varmasti, totisesti, aamen) - amen  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wil  

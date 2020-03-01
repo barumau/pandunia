@@ -310,6 +310,7 @@ metalojanger - 铁匠
 mey - 每  
 meze - 桌子  
 migra - 搬家  
+misalo - 比如  
 misria - 埃及  
 mita - 聚会  
 mite - 会议  

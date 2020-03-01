@@ -123,7 +123,7 @@ amperio - ampere
 ampolla (vial) - ampule  
 América - amerike  
 anal - anusi  
-analisar - analiza  
+analizar - analiza  
 anaranjado - oranji  
 ancho - kuange  
 ancla - anker  
@@ -254,6 +254,7 @@ bahá'í - bahayiste
 baile (danza) - danse  
 bajar - tala  
 bajo - tali  
+balcón (terraza, veranda) - berande  
 balcón - balkone  
 balde (cubo) - balde  
 balle (boule) - bol (bole)  
@@ -272,8 +273,8 @@ baobab - buye
 bar (pub) - bireria  
 bar - bar  
 barandilla (pasamanos) - langane  
+barba - barde  
 Barbados - barbados  
-Barbados - barde  
 Barbuda - barbudia  
 barco (bote) - bote  
 bario - barium  
@@ -387,7 +388,7 @@ café - kafe
 cagar - xita  
 caja (baúl, cofre, estuche) - sanduke  
 caja (caja registradora) - kaxe  
-caja torácica - sinokase  
+caja torácica - sinokafase  
 cajero - kaxer  
 cajón (gaveta) - tirosanduke  
 calcetín - soke  
@@ -495,7 +496,6 @@ champú - kexosabun
 chamán (brujo, hechicero) - xamane  
 chapati (pan sin levadura) - capate  
 chaqueta - jake  
-charca (ensenada) - basene  
 charlar (parlotear, chatear) - blabla  
 Chile - cilia  
 chimpancé - cimpanze  
@@ -618,7 +618,7 @@ confucio - konfuze
 confundido - konfusi  
 confundir - konfusu  
 confundirse (cometer un error) - galta  
-congelar (helar) - aisu  
+congelarse (helarse) - aisu  
 congoleño - kongoli  
 cono - konuse  
 conocido - jani  
@@ -755,7 +755,6 @@ de (desde) - ca
 de (posposición de posesión) - da  
 de (posposición de posesión) - du  
 de lado - lato  
-de lo contrario (si no) - alo  
 debajo (estar debajo) - nica  
 debatir (discutir) - lone  
 deber (necesitar) - bixu  
@@ -967,7 +966,7 @@ Eris (planeta enano) - eris
 Eritrea - eritria  
 error - galte  
 erróneo - galti  
-es decir (en otras palabras) - alonami  
+es decir (en otras palabras) - alonamo  
 escalera - eskal  
 escandio - skandium  
 escaparse (evitar, huir) - bega  
@@ -2169,6 +2168,7 @@ pirata - pirater
 piratería - piratia  
 pirámide - pirame  
 pis (meados) - pixe  
+piscina (alberca, lavadero) - basene  
 piso (suelo) - kamarotale  
 pistola (rifle) - bunduke  
 pistola - pistole  
@@ -2217,6 +2217,7 @@ polígono - pologone
 política - politike  
 político - politiker  
 político - politiki  
+por ejemplo - misalo  
 porno - porne  
 pornografía - pornografia  
 porque - sa sabu  
@@ -2241,7 +2242,7 @@ preparar (hacer listo) - reda
 presencia (existencia) - zayia  
 presente - zaye  
 presidente - prezidente  
-presión de la atmósfera - airobare  
+presión atmosférica - airobare  
 prestar - jekodona  
 presuponer - predogara  
 presupuesto - bujete  
@@ -2525,7 +2526,8 @@ secretaría - sekreteria
 secreto - siri  
 seguir - bada  
 segundo - sekunde  
-seguro (amén) - amen  
+seguramente (amén) - ameno  
+seguro - ameni  
 seguro - sekuri  
 seis (6) - sis  
 selenio - selenium  
@@ -2576,6 +2578,7 @@ simpático (amable) - dosti
 sin - na  
 sin embargo - lekin  
 Singapur - singapur  
+sino - alo  
 sintoísmo - xine  
 Siria - suria  
 sismología - sismolojia  
@@ -2871,7 +2874,6 @@ ventana - janele
 ventilador - panke  
 Venus - venus  
 ver (mirar) - vida  
-veranda (galería) - berande  
 verano - lete  
 verbo - karolekse  
 verdadero - veri  

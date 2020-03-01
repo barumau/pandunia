@@ -454,7 +454,8 @@ Central African Republic - jungafrikia
 Ceres (dwarf planet) - seres  
 cerium - cerium  
 certain (indefinite, indeterminate, some, so-and-so) - fulani  
-certain (sure, certainly, amen) - amen  
+certain (sure) - ameni  
+certainly (surely,amen) - ameno  
 Chad - cadia  
 chain - silsile  
 chair - kurse  
@@ -970,6 +971,7 @@ food (meal) - niam (niame)
 fool (buffoon) - bufone  
 foot - fute  
 football (soccer) - futobol  
+for example - misalo  
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
 force (strength) - fortia  
@@ -2250,7 +2252,7 @@ rhinoceros - kornonose
 rhodium - rodium  
 rhyme (verse) - rime  
 rhythm (beat) - ritime  
-rib cage - sinokase  
+rib cage - sinokafase  
 rice - arize  
 rich - rici  
 right (correct, accurate) - sahi  
@@ -2674,7 +2676,7 @@ than (as, compared to) - ko
 thank - danka  
 thanks (thank you) - danke  
 that (those) - wi  
-that is (in other words, i.e., alias) - alonami  
+that is (in other words, i.e., alias) - alonamo  
 that one - we  
 the Grenadines - grenadin  
 theft - core  

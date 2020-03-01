@@ -228,7 +228,8 @@ cepo - piaze
 cerbo - serebre  
 Cereso - seres  
 cerio - cerium  
-certa - amen  
+certa - ameni  
+certe - ameno  
 certigi - amena  
 cezio - cesium  
 citi - cita  
@@ -313,6 +314,7 @@ ekrano - ekran
 ekstera - wayi  
 ekstero - waye  
 Ekvadoro - ekuador  
+ekzemple - misalo  
 ekzemplo - misale  
 ekzerci - lenxa  
 ekzerco - lenxe  
@@ -1431,7 +1433,7 @@ Tibeto - podia
 tie - sa ye  
 tigro - bagre  
 timo (fobio) - fobia  
-tio estas (alivorte) - alonami  
+tio estas (alivorte) - alonamo  
 tiri - tira  
 titanio - titan  
 tiu - we  
@@ -1443,7 +1445,7 @@ tombo - gabre
 tondilo - makase  
 tondro - grome  
 tono - tone  
-torako - sinokase  
+torako - sinokafase  
 torio - torium  
 torso - torse  
 torto - pay (paye)  

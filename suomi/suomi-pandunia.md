@@ -269,7 +269,7 @@ El Salvador - salvadoria
 ele - jeste  
 elegantti - xiki  
 elektroni - eletron  
-eli (toisin sanoen) - alonami  
+eli (toisin sanoen) - alonamo  
 elohopea - hurargente  
 elokuu - mes 8 (mes bal)  
 eläin - hewane  
@@ -308,6 +308,7 @@ Eritrea - eritria
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
 eräs (muuan, joku, jokin) - fulani  
+esimerkiksi - misalo  
 esimerkki - misale  
 Espanja - espania  
 esperanto - esperanti  
@@ -1987,7 +1988,7 @@ rikki - sulfe
 rikos - krime  
 rikos- (rikollinen) - krimi  
 rinta - sine  
-rintakehä - sinokase  
+rintakehä - sinokafase  
 riski - riske  
 riskialtis - riski  
 risteytys (hybridi) - hibride  
@@ -2620,6 +2621,8 @@ varastaa - cora
 varaus (ennakkovaraus) - rezerve  
 varjo - saye  
 varkaus - core  
+varma - ameni  
+varmasti (totisesti, aamen) - ameno  
 varmistaa - amena  
 vartalo (varsi, torso) - torse  
 vartija (vahti) - garder  

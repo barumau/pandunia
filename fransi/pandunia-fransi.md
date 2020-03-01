@@ -47,6 +47,7 @@ alumin - aluminium
 ama - aimer  
 amari - Amhara (groupe ethnique et langue éthiopienne)  
 ame - amour (affection)  
+ameno - sûrement  
 amerike - Amérique  
 ameriki - américain  
 ami - cher  
@@ -118,6 +119,7 @@ banse - bambou
 banye - bain  
 banyokamare - salle de bains  
 banyu - se baigner  
+barde - barbe  
 bari - lourd  
 barium - baryum  
 barka - féliciter  
@@ -384,6 +386,7 @@ meze - table
 migre - migration  
 migru - s'installer (déménager)  
 milke - lait  
+misalo - par exemple  
 misria - Égypte  
 mode - mode (façon, manière)  
 mole - mole (unité)  

@@ -44,15 +44,16 @@ almar - ŝranko
 almase - diamanto  
 alo - alie  
 alofone - alofono  
-alonami - tio estas (alivorte)  
+alonamo - tio estas (alivorte)  
 aloraya - malkonsenti  
 aloseksi - samseksema  
 altare - altaro  
 alumin - aluminio  
 ama - ami (ŝati)  
 ame - amo  
-amen - certa  
 amena - certigi  
+ameni - certa  
+ameno - certe  
 amerike - Ameriko  
 ameriki - amerika  
 amerikium - americio  
@@ -1033,6 +1034,7 @@ mira - speguli
 mirer - spegulo  
 mirosonde - eĥo  
 misale - ekzemplo  
+misalo - ekzemple  
 miskini - mizera  
 misri - egipta  
 misria - Egipto  
@@ -1378,7 +1380,7 @@ simpli - simpla
 sine - brusto  
 singapur - Singapuro  
 singe - leono  
-sinokase - torako  
+sinokafase - torako  
 sirke - vinagro  
 sisme - tertremo  
 sismolojia - sismologio  

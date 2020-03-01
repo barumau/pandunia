@@ -60,7 +60,7 @@ almar - cupboard (closet, cabinet, wardrobe)
 almase - diamond  
 alo - otherwise (else)  
 alofone - allophone  
-alonami - that is (in other words, i.e., alias)  
+alonamo - that is (in other words, i.e., alias)  
 aloraya - disagree  
 aloraye - disagreement (disconsent)  
 aloromansi - heteroromantic  
@@ -72,8 +72,9 @@ alumin - aluminium
 ama - love (to be in love with)  
 amari - Amhara (an Ethiopian ethnic group and language)  
 ame - love (liking, affection)  
-amen - certain (sure, certainly, amen)  
 amena - assure (affirm)  
+ameni - certain (sure)  
+ameno - certainly (surely,amen)  
 amerike - America (continent)  
 ameriki - American  
 amerikium - americium  
@@ -1737,6 +1738,7 @@ mirer - mirror
 mirosonde - echo  
 misa - send (emit, transmit)  
 misale - example (instance of)  
+misalo - for example  
 miser - sender (transmitter)  
 misia - mission (transmission, emission)  
 miskini - poor (miserable)  
@@ -2480,7 +2482,7 @@ simpli - simple (not complicated)
 sine - chest (breast)  
 singapur - Singapore  
 singe - lion  
-sinokase - rib cage  
+sinokafase - rib cage  
 sinye - sign (signal)  
 siri - secret  
 sirke - vinegar  

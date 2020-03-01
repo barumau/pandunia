@@ -67,6 +67,7 @@ banye - купание
 banyokamare - ванная  
 banyu - купаться  
 banze - доска  
+barde - борода  
 bari - тяжёлый  
 barxe - дождь  
 barxi - дождливый  
@@ -305,6 +306,7 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+misalo - например  
 misria - Египет  
 mixa - мешать  
 molia - мельница  

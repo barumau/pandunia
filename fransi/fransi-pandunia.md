@@ -94,6 +94,7 @@ banane - banane
 bande - bande  
 banque - banke  
 banquier - banker  
+barbe - barde  
 barrière - baryer  
 baryum - barium  
 base - baze  
@@ -406,6 +407,7 @@ papaye - papaye
 papier - kagaze  
 papier peint - walopapir  
 paquet - pake  
+par exemple - misalo  
 paramètre - parame  
 parapluie - barxocate  
 parc - parke  
@@ -513,6 +515,7 @@ sujet (thème) - teme
 séminal - semi  
 série - serye  
 sûr - sekuri  
+sûrement - ameno  
 ##t
 table - meze  
 tablette de chocolat - cokolatobaton  

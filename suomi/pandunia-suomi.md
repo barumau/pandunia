@@ -59,7 +59,7 @@ almar - kaappi
 almase - timantti  
 alo - muuten (toisin)  
 alofone - allofoni (vaihtoehtoinen ääntämys)  
-alonami - eli (toisin sanoen)  
+alonamo - eli (toisin sanoen)  
 aloraya - olla eri mieltä  
 aloromansi - heteroromanttinen  
 aloseksi - heteroseksuaali  
@@ -71,6 +71,8 @@ ama - rakastaa (pitää, tykätä)
 amari - amhara (etiopialainen kansa ja kieli)  
 ame - rakkaus (tykkääminen)  
 amena - varmistaa  
+ameni - varma  
+ameno - varmasti (totisesti, aamen)  
 amerike - Amerikka  
 ameriki - amerikkalainen  
 amerikium - amerikium  
@@ -1655,6 +1657,7 @@ mirer - peili
 mirosonde - kaiku  
 misa - lähettää  
 misale - esimerkki  
+misalo - esimerkiksi  
 miser - lähettäjä (lähetin)  
 misia - lähetys  
 miskini - kurja (raukka)  
@@ -2348,7 +2351,7 @@ simpli - yksinkertainen (mutkaton)
 sine - rinta  
 singapur - Singapore  
 singe - leijona  
-sinokase - rintakehä  
+sinokafase - rintakehä  
 sinye - merkki (signaali)  
 siri - salainen  
 sirke - etikka  

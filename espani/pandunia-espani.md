@@ -32,7 +32,7 @@ aha - entender (comprender)
 ainstainium - einsteinium  
 aire - aire  
 airia - Irlanda  
-airobare - presión de la atmósfera  
+airobare - presión atmosférica  
 airobarometer - barómetro  
 airolaskeria - fuerza aérea  
 airoporte - aeropuerto  
@@ -40,7 +40,7 @@ aise - hielo
 aisi - cubierto de hielo  
 aisohoke - hockey sobre hielo  
 aisokrem - helado  
-aisu - congelar (helar)  
+aisu - congelarse (helarse)  
 ajaba - asombrar  
 ajabe - maravilla  
 ajabi - maravilloso (asombroso)  
@@ -55,9 +55,9 @@ alkole - alcohol
 alkoli - alcohólico  
 almar - armario  
 almase - diamante  
-alo - de lo contrario (si no)  
+alo - sino  
 alofone - alófono  
-alonami - es decir (en otras palabras)  
+alonamo - es decir (en otras palabras)  
 aloraya - disentir (no estar de acuerdo)  
 aloraye - desacuerdo  
 aloromansi - heterorromántico  
@@ -68,15 +68,16 @@ altare - altar
 alumin - aluminio  
 ama - amar  
 amari - amhara  
-amen - seguro (amén)  
 amena - asegurar (confirmar)  
+ameni - seguro  
+ameno - seguramente (amén)  
 amerike - América  
 ameriki - americano  
 amerikium - americio  
 ami - querido  
 ampere - amperio  
 ampule - ampolla (vial)  
-analiza - analisar  
+analiza - analizar  
 analize - análisis  
 ande - huevo  
 andes - Andes  
@@ -205,7 +206,7 @@ bar - bar
 barbados - Barbados  
 barbare - bárbaro  
 barbudia - Barbuda  
-barde - Barbados  
+barde - barba  
 bare - peso  
 bari - pesado  
 barium - bario  
@@ -223,7 +224,7 @@ barxocate - parasol
 barxokote - impermeable  
 barya - bloquear (obstruir)  
 baryer - barrera  
-basene - charca (ensenada)  
+basene - piscina (alberca, lavadero)  
 basi - bastante  
 baske - básquetbol  
 baskobol - baloncesto  
@@ -261,7 +262,7 @@ benda - atar (amarrar)
 bende - banda (cinta)  
 beninia - Benín  
 benzine - gasolina (bencina)  
-berande - veranda (galería)  
+berande - balcón (terraza, veranda)  
 bere - baya  
 berete - boina  
 berilium - berilio  
@@ -1725,6 +1726,7 @@ mirer - espejo (retrovisor)
 mirosonde - eco  
 misa - enviar (transmitar)  
 misale - ejemplo  
+misalo - por ejemplo  
 miser - remitente  
 misia - emisión  
 miskini - pobre (miserable)  
@@ -2465,7 +2467,7 @@ simpli - simple
 sine - pecho (seno, tórax)  
 singapur - Singapur  
 singe - león  
-sinokase - caja torácica  
+sinokafase - caja torácica  
 sinye - señal (letrero, indicio)  
 siri - secreto  
 sirke - vinagre  

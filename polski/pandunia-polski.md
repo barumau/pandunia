@@ -60,7 +60,7 @@ almar - kredens (szafa, szafka)
 almase - diament  
 alo - w innym wypadku (inaczej)  
 alofone - alofon  
-alonami - innymi słowy  
+alonamo - innymi słowy  
 aloraya - nie zgadzać się  
 aloraye - niezgoda  
 aloromansi - heteroromantyczny  
@@ -72,7 +72,6 @@ alumin - glin (aluminium)
 ama - kochać  
 amari - Amhara, amharski  
 ame - miłość (afekt)  
-amen - varma (varmasti, totisesti, aamen)  
 amena - zapewniać (zapewnić)  
 amerike - Ameryka (kontynent)  
 ameriki - amerykański  
@@ -2480,7 +2479,7 @@ simpli - prosty, nieskomplikowany
 sine - pierś  
 singapur - Singapur  
 singe - lew  
-sinokase - klatka piersiowa  
+sinokafase - klatka piersiowa  
 sinye - znak, sygnał  
 siri - sekret  
 sirke - ocet  
