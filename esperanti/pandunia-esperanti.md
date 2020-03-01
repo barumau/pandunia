@@ -222,6 +222,8 @@ botole - botelo
 botolefte - babordo  
 botone - butono  
 botoraite - tribordo  
+bravi - brava  
+bravo - brave!  
 brazilia - Brazilo  
 bromium - bromo  
 broxe - broso  

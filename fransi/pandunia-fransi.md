@@ -149,6 +149,8 @@ bote - bateau
 botolefte - babord  
 botone - bouton  
 botoraite - tribord  
+bravi - brave  
+bravo - bravo!  
 bruni - brun (marron)  
 buke - livre  
 ##c

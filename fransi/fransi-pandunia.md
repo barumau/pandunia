@@ -119,6 +119,8 @@ botanique - fitolojia
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouton - botone  
+brave - bravi  
+bravo! - bravo  
 brigand (bandit) - luter  
 brun (marron) - bruni  
 brûler - pira  

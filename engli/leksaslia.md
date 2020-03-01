@@ -128,6 +128,7 @@
 |**bote**|boat (ship)|Spanish:bote, English:boat, Hindi:बोट (boṭ), Swahili:boti, Russian:бот (bot), Japanese:ボート (bōto)|
 |**botole**|bottle|English:bottle, Malay:botol|
 |**botone**|button|English:button, Spanish:botón, Portuguese:botão, French:bouton, Japanese:ボタン (botan), Filipino:butones, Hindi:बटन (baṭan), Urdu:(baṭan), ben;বোতাম (botam)|
+|**bravi**|brave (gallant, valiant)|English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)|
 |**broxe**|brush|English:brush, French:brosse, Bengali:ব্রাশ (braś), Hindi:ब्रश (braś), Urdu:(braś), Hausa:Swahili:burashi, Japanese:ブラシ (burashi), Korean:브러시 (beureosi), Persian:(boros), Malay:berus|
 |**bruni**|brown|French:brun, Arabic:(bunniy), Hindi:भूरा (bhūrā), English:brown|
 |**bude**|Buddha|Hindi:बुद्ध (buddh)|

@@ -317,6 +317,8 @@ botolefte - port (left side of a ship)
 botone - button  
 botoraite - starboard (right side of a ship)  
 botoxefe - captain  
+bravi - brave (gallant, valiant)  
+bravo - bravo!  
 brazavili kongolia - Congo (Brazzaville)  
 brazilia - Brazil  
 britania - United Kingdom  
@@ -2797,7 +2799,7 @@ vine - wine
 vineria - winery  
 vinile - vinyl  
 vire - hero  
-viri - brave (bold, heroic)  
+viri - heroic  
 virus - virus  
 virusolojia - virology  
 visa - substitute (replace)  

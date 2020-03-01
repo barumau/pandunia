@@ -343,7 +343,8 @@ boy - jovani man
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
-brave (bold, heroic) - viri  
+brave (gallant, valiant) - bravi  
+bravo! - bravo  
 Brazil - brazilia  
 bread - pang (pange)  
 breakfast - suboniam  
@@ -1183,6 +1184,7 @@ help (assist) - helpa
 here (there) - sa ye  
 heritage (legacy, bequest) - warise  
 hero - vire  
+heroic - viri  
 hertz (Hz) - herze  
 heteroromantic - aloromansi  
 heterosexual - aloseksi  

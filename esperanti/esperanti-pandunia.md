@@ -207,6 +207,8 @@ botelo - botole
 bovaĵo - muhomanse  
 bovo - muh  
 branĉo - xake  
+brava - bravi  
+brave! - bravo  
 Brazilo - brazilia  
 bromo - bromium  
 broso - broxe  

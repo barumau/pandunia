@@ -96,6 +96,7 @@ bote - лодка (бот)
 botolefte - левый борт  
 botone - пуговица  
 botoraite - правый борт  
+bravo - браво  
 bruni - коричневый  
 buke - книга  
 ##c

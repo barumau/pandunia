@@ -313,6 +313,7 @@ botolefte - babor
 botone - botón  
 botoraite - estribor  
 botoxefe - capitán  
+bravo - bravo!  
 brazavili kongolia - República del Congo  
 brazilia - Brasil  
 britania - Reino Unido  

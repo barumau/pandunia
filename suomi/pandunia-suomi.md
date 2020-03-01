@@ -306,6 +306,8 @@ botolefte - paapuuri
 botone - nappi  
 botoraite - tyyrpuuri  
 botoxefe - kapteeni  
+bravi - rohkea (urhea, uljas)  
+bravo - bravo!  
 brazavili kongolia - Brazzavillen Kongo  
 brazilia - Brasilia  
 britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  

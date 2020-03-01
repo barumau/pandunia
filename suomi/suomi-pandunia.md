@@ -202,6 +202,7 @@ boori - boron
 Bosnia ja Hertsegovina - bosnia  
 Botswana - cuania  
 Brasilia - brazilia  
+bravo! - bravo  
 Brazzavillen Kongo - brazavili kongolia  
 bromi - bromium  
 Brunei - bruneyia  
@@ -1996,6 +1997,7 @@ risti - kruse
 ristiinnaulita - krusofiksa  
 rivinvaihto - linyoparce  
 robotti - robote  
+rohkea (urhea, uljas) - bravi  
 roikuttaa - penda  
 rokote - vaksine  
 Romania - romania  

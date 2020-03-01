@@ -125,6 +125,7 @@
 |**bote**|vene (laiva)|espanja:bote, englanti:boat, hindi:बोट (boṭ), suahili:boti, venäjä:бот (bot), japani:ボート (bōto)|
 |**botole**|pullo|englanti:bottle, malaiji:botol|
 |**botone**|nappi|englanti:button, espanja:botón, portugali:botão, ranska:bouton, japani:ボタン (botan), filippiini:butones, hindi:बटन (baṭan), urdu:(baṭan), ben;বোতাম (botam)|
+|**bravi**|rohkea (urhea, uljas)|englanti:ranska:brave, venäjä:бравый (braviy), portugali:bravo, arabia:(brāvo)|
 |**broxe**|harja|englanti:brush, ranska:brosse, bangla:ব্রাশ (braś), hindi:ब्रश (braś), urdu:(braś), hausa:suahili:burashi, japani:ブラシ (burashi), korea:브러시 (beureosi), persia:(boros), malaiji:berus|
 |**bruni**|ruskea|ranska:brun, arabia:(bunniy), hindi:भूरा (bhūrā), englanti:brown|
 |**bude**|Buddha|hindi:बुद्ध (buddh)|

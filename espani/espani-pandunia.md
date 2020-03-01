@@ -340,6 +340,7 @@ Botsuana - cuania
 botánica - fitolojia  
 botón - botone  
 Brasil - brazilia  
+bravo! - bravo  
 brillante (luminoso) - mingi  
 broma (chiste) - joke  
 bromista (chistoso) - joker  
