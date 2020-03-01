@@ -8,15 +8,15 @@ nav:
     - dom: 'index.md'
     - aboce: abc.md
     - sage:
-        - 'lili urse du tungi dante': baru_dante.md
-        - 'tin buze e guye': 3_buze_i_guy.md
+        - 'lili urse du tungi dante': urse_dante.md
+        - 'tin buze e guye': 3_buze_e_guye.md
         - 'tin lili gurube': 3_lil_gurube.md
     - kitabe:
         - 'insan du putongi hake': putong_hake.md
         - 'dini kitabe': dini_kitabe.md
     - leksoliste:
         - 'dexoname': dexonam.md
-        - 'leksaslia': loge_asle.md
+        - 'leksaslia': leksaslia.md
         - 'lekse da nombre': lekse_da_num.md
     - filme: filme.md
     - linke: linke.md
