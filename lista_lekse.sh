@@ -249,6 +249,11 @@ tarja_leksaslia_pa_suomi
 # polski e pandunia
 fata_liste 22 polski
 
+# Tiddly polski e pandunia
+cp polski/pandunia-polski.md temp/temp.txt
+sed 's/_//g' -i temp/temp.txt
+cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > polski/tiddly.html
+
 # cini e pandunia
 fata_liste 11 cini
 

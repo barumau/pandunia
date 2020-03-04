@@ -4,17 +4,18 @@ docs_dir: ../../polski
 site_dir: ../../html/polski
 theme: cerulean
 nav:
-    - Dom: 'index.md'
+    - Główna: 'index.md'
     - 'Info':
         - 'Wprowadzenie': dunia_baxe.md
         - 'Założenia': filsofe.md
     - 'Nauka':
-        - 'Pismo': abc.md
+        - 'Dźwięki i litery': abc.md
         - 'Rozmówki': fraze.md
         - 'Kurs': darse.md
     - 'Słownik':
         - 'Pandunia-polski': pandunia-polski.md
         - 'Polski-pandunia': polski-pandunia.md
         - 'Etymologia': leksaslia.md
+        - 'Wyszukaj': tiddly.html
     - 'Gramatyka': kanun.md
 
