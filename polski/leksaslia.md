@@ -48,7 +48,7 @@
 |**arize**|ryż|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**arme**|broń|fra:arme, eng:arms, spa:por:arma|
 |**arte**|sztuka|spa:por:arte, eng:fra:art, jpn:アート (āto)|
-|**asan**|postawa ciała; asana|hin:आसन (āsan), eng:asana, rus:асана (asana)|
+|**asane**|postawa ciała; asana|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |**asle**|źródło, początek, pochodzenie|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|astma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**ata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata|
@@ -63,6 +63,7 @@
 |**bace**|dziecko (nieletni)|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |**badala**|wymieniać, wymienić, zamieniać, zamienić|ara:(badala), hin:बदला (badlā), hau:badali, swa:badili|
 |**badame**|migdał|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
+|**badan (badane)**|ciało|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**bagre**|tygrys|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |**bah**|pfuj (fuj)|eng:spa:ita:bah, por:ba|
 |**baki**|biały|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
@@ -118,7 +119,6 @@
 |**bizi**|zajęty|eng:busy|
 |**biznese**|biznes, interes (aktywność komercyjna)|eng:business, rus:бизнес (biznes)|
 |**blabla**|luźna rozmowa, gadanina|fra:blablater, eng:babble, spa:blablablá|
-|**bode**|ciało|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**boke**|usta|spa:por:boca|
 |**bol (bole)**|piłka|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |**bombe**|bomba|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
@@ -236,7 +236,7 @@
 |**eletre**|elektryczność|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |**emoje**|emoji (emotkon)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|emocja, uczucie|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), ind:emosi, tgl:emosyon|
-|**er**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
+|**er (ere)**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esa**|być|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |**eska**|zapytać, spytać, pytać|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
 |**eskal**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|

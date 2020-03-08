@@ -111,7 +111,7 @@ arane - araña
 aranofobia - aracnofobia  
 arbe - árbol  
 arboparke - arboreto  
-arbuze - sandía  
+arbuze - sandía (patilla)  
 arcahia - Artsaj  
 are - área (superficie)  
 argente - plata  
@@ -127,7 +127,7 @@ arti samude - océano Ártico
 artia - Ártico  
 artiste - artista  
 arubia - Aruba  
-asan - postura (actitud)  
+asane - postura (posición)  
 asi - asiático  
 asia - Asia  
 askete - ascético  
@@ -165,9 +165,10 @@ bace - niño o niña
 bada - seguir  
 badala - intercambiar (canjear)  
 badame - almendra  
-badani - corpóreo  
+badan (badane) - cuerpo  
+badani - corporal (corpóreo)  
 badawi - nómada  
-bade - consecuencia (dorso)  
+bade - consecuencia (siguiente)  
 badi - siguiente (trasero)  
 badi den - mañana  
 bado - más tarde  
@@ -288,9 +289,8 @@ bizi - ocupado (atareado)
 biznese - negocios (comercio)  
 bizneser - empresario  
 blabla - charlar (parlotear, chatear)  
-blableria - sala de chat  
+blableria - sala de chat (tertuliadero)  
 bloge - blog  
-bode - cuerpo  
 boikote - boicot  
 boke - boca  
 bol (bole) - balle (boule)  
@@ -511,8 +511,8 @@ doici - alemán
 doicia - Alemania  
 dokume - documento (archivo, nota)  
 dolare - dolar  
-dom (dome) - alojar (hospedar)  
-doma - casa (hogar, residencia)  
+dom (dome) - casa (hogar, residencia)  
+doma - alojar (hospedar)  
 domi - doméstico  
 dominikania - Republica Dominicana  
 dominikia - Dominica  
@@ -538,9 +538,10 @@ drugia - Bután
 du - de (posposición de posesión)  
 dubnium - dubnio  
 duga - leer  
-duka - llorar  
+duka - entristecer (poner triste)  
 duke - pena (tristeza)  
 duki - triste  
+duku - llorar  
 dul - dos (2)  
 dul ban - dos veces  
 duli - doble (dual)  
@@ -592,7 +593,7 @@ englofiler - anglófilo
 englokitaba - anglicanizar  
 eni - qualquier  
 enzime - enzima  
-er - hacedor (perpetrador)  
+er (ere) - hacedor (perpetrador)  
 erbium - erbio  
 eria - taller  
 eris - Eris (planeta enano)  
@@ -692,22 +693,22 @@ filipinia - Filipinas
 filistinia - Palestina  
 filme - película (video)  
 filosofer - filósofo  
-filosofi - folosófico  
+filosofi - filosófico  
 filosofia - filosofía  
 filter - filtro  
 fina - terminar (acabar)  
-fine - fin  
+fine - fin (el final)  
 finge - dedo  
 fingowen - anillo (sortija)  
 fini - final (último)  
 fiorde - fiordo  
-firuze - turquesa  
+firuze - turquesa (piedra preciosa)  
 fite - planta (vegetación)  
 fitolojia - botánica  
 fixe - pez (pescado)  
 fixotanke - acuario (pecera)  
 fizike - física  
-fiziker - físico  
+fiziker - físico (científico)  
 fizikia - física  
 flerovium - flerovio  
 flure - flúor  
@@ -732,7 +733,7 @@ fotograf - foto (fotografía)
 fotografer - fotógrafo  
 fotografia - fotografía  
 fotomaxin - cámara  
-fransi krepe - crepa  
+fransi krepe - crepa (crep, tortilla de trigo)  
 fransi polinesia - Polinesia Francesa  
 fransia - Francia  
 fransium - francio  
@@ -764,7 +765,7 @@ gaje - elefante
 galaksia - galaxia  
 galeria - galería  
 galium - galio  
-galta - confundirse (cometer un error)  
+galta - errar (cometer un error)  
 galte - error  
 galti - erróneo  
 galto buda - malinterpretar  
@@ -785,9 +786,10 @@ gare - coche (carruaje, auto, vagón)
 garmi - caliente (cálido)  
 garmi masale - garam masala  
 garoparke - estacionamiento (aparcamiento)  
+gasa - gasificar  
 gase - gas  
 gasi - gaseoso  
-gasu - gasificar (convertir en gas)  
+gasu - gasificarse  
 gati - duro  
 gatomate - sólido  
 gatomati - rígido (sólido)  
@@ -1218,8 +1220,8 @@ kave - fosa
 kawayi - lindo (precioso)  
 kaxe - caja (caja registradora)  
 kaxer - cajero  
-kaya - abierto  
-kayi - abrir  
+kaya - abrir  
+kayi - abierto  
 kayu - abirse  
 kazakia - Kazajistán (Kazakistan)  
 ke - qué  
@@ -1804,6 +1806,7 @@ musiker - músico
 muskete - mosquete  
 musketer - mosquetero  
 muskule - músculo  
+muskulobine - fisicoculturismo (culturismo, musculación)  
 muta - cambiar  
 muxe - ratón  
 muxing - Jupiter  

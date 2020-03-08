@@ -315,7 +315,8 @@ board (plank) - banze
 board game - banzogem  
 boat (ship) - bote  
 bodily (corporal) - badani  
-body - bode  
+body - badan (badane)  
+bodybuilding - muskulobine  
 bohrium - borium  
 boil (be boiled) - bulu  
 boil (cook) - bula  
@@ -750,7 +751,7 @@ doctor (scholar who has attained doctorate) - dotore
 doctorate - dotoria  
 document (paper) - papire  
 document (record, file) - dokume  
-doer (agent, actor) - er  
+doer (agent, actor) - er (ere)  
 dog - waf (wafe)  
 doll (puppet) - pupe  
 dollar - dolare  
@@ -1106,7 +1107,7 @@ greeting (hello) - salame
 Grenada - grenadia  
 grey (gray, ashy) - huyorangi  
 grief (sorrow) - duke  
-grieve - duka  
+grieve - duku  
 grimace - grimase  
 grind (grind in mill) - mola  
 ground force (army) - zemolaskeria  
@@ -2007,8 +2008,8 @@ photograph - fotograf
 photographer - fotografer  
 photography - fotografia  
 physicist - fiziker  
+physics (science) - fizikia  
 physics - fizike  
-physics - fizikia  
 piano - piane  
 picnic - wayoniame  
 picture book - grafobuke  
@@ -2096,7 +2097,7 @@ pose (set) - poza
 possible - abli  
 post office - postia  
 postal stamp - postocape  
-posture (asana) - asan  
+posture (asana) - asane  
 pot (vase, bin, jar, jug) - vaze  
 potassium - kalium  
 potato - patate  
@@ -2315,6 +2316,7 @@ Réunion - reunion
 ##s
 Sabbath - sabate  
 sad - duki  
+sadden (make sad) - duka  
 safe (secure, protected) - sekuri  
 saffron - safrane  
 Sahrawi Arab Democratic Republic - sahrawia  

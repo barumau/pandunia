@@ -49,7 +49,7 @@
 |**arize**|riisi|tamili:அரிசி (arisi), arabia:(ʾaruzz), espanja:portugali:arroz, oromo:ruuzii, ranska:riz, venäjä:рис (ris), englanti:rice, deu:Reis|
 |**arme**|ase|ranska:arme, englanti:arms, espanja:portugali:arma|
 |**arte**|taide|espanja:portugali:arte, englanti:ranska:art, japani:アート (āto)|
-|**asan**|asento|hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)|
+|**asane**|asento|hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)|
 |**asle**|alkuperä|arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili|
 |**asme**|astma|ranska:asthme, englanti:asthma, espanja:portugali:malaiji:asma, puola:astma|
 |**ata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata|
@@ -63,6 +63,7 @@
 |**bace**|lapsi|persia:(bačče), urdu:(baccā), hindi:बच्चा (baccā), gujarati: બચ્ચું (baccũ), filippiini: bata|
 |**badala**|vaihtaa|arabia:(badala), hindi:बदला (badlā), hausa:badali, suahili:badili|
 |**badame**|manteli|malaiji:badam, turkki:badem, hindi:बादाम (bādām), bangla:বাদাম (badam), yleiskiina:巴旦木 (bādànmù)|
+|**badan (badane)**|keho (ruumis)|englanti:body, arabia:(badan), hindi:बदन (badan), persia:urdu:(badan), turkki:beden|
 |**bagre**|tiikeri|hindi:बाघ (bāgh), bangla:বাঘ (bagh), + persia:(babr), + espanja:portugali:tigre, venäjä:(tigr)|
 |**bah**|pah (pyh)|englanti:espanja:italia:bah, portugali:ba|
 |**baki**|valkoinen (valkea)|kantoninkiina:白 (baak6), vietnami:bạch, Zho:白 (bái), japani:白 (haku), korea:백 (baek), + ranska:blanc, espanja:blanco, portugali:branco|
@@ -116,7 +117,6 @@
 |**bizi**|kiireinen|englanti:busy|
 |**biznese**|liiketoiminta (bisnes)|englanti:business, venäjä:бизнес (biznes)|
 |**blabla**|jutella (höpistä)|ranska:blablater, englanti:babble, espanja:blablablá|
-|**bode**|keho (ruumis)|englanti:body, arabia:(badan), hindi:बदन (badan), persia:urdu:(badan), turkki:beden|
 |**boke**|suu|espanja:portugali:boca|
 |**bol (bole)**|pallo|englanti:ball, espanja:portugali:malaiji:filippiini:bola, thai:บอล (bɔl), japani:ボール (bōru), korea:볼 (bol), khmer:បាល់ (bal), bangla:বল (bôl), deu:Ball, ranska:boule,balle|
 |**bombe**|pommi|puola:portugali:espanja:turkki:bomba, venäjä:бомба (bomba), deu:ranska:bombe, persia:(bomb), englanti:bomb, bangla:বোমা (boma), hindi:बम (bam), urdu:(bam), japani:ボム (bomu), korea:봄 (bom), malaiji:bom|
@@ -234,7 +234,7 @@
 |**eletre**|sähkö|portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik|
 |**emoje**|hymiö (emoji)|japani:絵文字 (emoji), korea:에모지 (emoji), englanti:ranska:portugali:turkki:emoji, venäjä:эмодзи (emodzi), hindi:इमोजी (imojī)|
 |**emos**|tunne (mielenliikutus)|eng;emotion, ranska:émotion, espanja:emoción, por;emoção, venäjä:эмоция (emociya), ind:emosi, filippiini:emosyon|
-|**er**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
+|**er (ere)**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
 |**esa**|olla|espanja:es, persia:(ast), portugali:estar, venäjä:есть (yest')|
 |**eska**|kysyä|hat:èske, ranska:est-ce que [ɛskə], englanti:ask, rwa:ese|
 |**eskal**|portaat (rappuset, tikkaat)|ranska:escalier, espanja:escalera, portugali:escada, + englanti:scale, deu:Skale, venäjä:шкала (škala)|

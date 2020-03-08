@@ -105,6 +105,7 @@ babe - chapitre
 babuce - pantoufle (babouche)  
 bace - enfant  
 badame - amande  
+badan (badane) - corps  
 bagaje - bagage  
 bagre - tigre  
 baki - blanc  
@@ -141,7 +142,6 @@ beker - boulanger
 bere - baie  
 bina - construire  
 bire - bière  
-bode - corps  
 bol (bole) - ball  
 bombe - bombe  
 bon (boni) - bon  
@@ -396,6 +396,7 @@ molia - moulin
 mome - nous  
 muke - visage  
 mule - racine  
+muskulobine - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
 nasia - nation  

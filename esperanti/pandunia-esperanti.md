@@ -87,7 +87,7 @@ arme - armilo
 arsen - arseno  
 arte - arto  
 artiste - artisto  
-asan - posteno  
+asane - posteno  
 asi - azia  
 asia - Azio  
 askete - ascetiko  
@@ -115,6 +115,7 @@ babuce - pantoflo
 bace - infano  
 bada - sekvi  
 badala - interŝanĝi  
+badan (badane) - korpo  
 badani - korpa  
 badawi - beduino (nomado)  
 bade - sekvo  
@@ -204,7 +205,6 @@ biznese - negoco
 bizneser - komercisto  
 blabla - babili  
 blableria - babilejo  
-bode - korpo  
 boikote - bojkoto  
 boke - buŝo  
 bol (bole) - pilko  
@@ -371,9 +371,10 @@ drame - dramo
 du - de (partiklo de posedo)  
 dubnium - dubnio  
 duga - legi  
-duka - lamenti  
+duka - malĝojigi  
 duke - malĝojo  
 duki - malĝoja  
+duku - lamenti  
 dul - du (2)  
 duman - fumo  
 dume - vosto  
@@ -405,7 +406,7 @@ emosohal - animstato
 energe - energio  
 engli - angla  
 eni - iu ajn  
-er - isto (anto)  
+er (ere) - isto (anto)  
 erbium - erbio  
 eris - Eris (planedeto)  
 eritria - Eritreo  
@@ -1073,6 +1074,7 @@ musike - muziko
 musiker - muzikisto  
 muskete - muskedo  
 muskule - muskolo  
+muskulobine - korpokulturado  
 muta - aliigi  
 muxe - muso  
 ##n

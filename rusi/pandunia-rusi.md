@@ -39,7 +39,7 @@ argum - аргумент (обосновани)
 arize - рис  
 arte - искусство  
 artiste - художник (артист)  
-asan - поза  
+asane - поза  
 aslameriki - инде́йский  
 asle - начало (причина)  
 asme - астма  
@@ -54,6 +54,7 @@ avgania - Афганистан
 babe - глава  
 bace - ребёнок  
 badame - миндаль  
+badan (badane) - тело  
 bagaje - багаж  
 bagre - тигр  
 baki - белый  
@@ -88,7 +89,6 @@ bere - ягода
 bile - счёт  
 bina - строить  
 bire - пиво  
-bode - тело  
 bol (bole) - bola  
 bombe - бомба  
 bon (boni) - хороший  
@@ -314,6 +314,7 @@ molia - мельница
 moluske - моллюск  
 mome - мы  
 mule - корень  
+muskulobine - культуризм  
 ##n
 nade - река  
 nasia - нация  

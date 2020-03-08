@@ -163,7 +163,7 @@ compote de pommes - aplosose
 comprendre (réaliser) - aha  
 construire - bina  
 corne - korne  
-corps - bode  
+corps - badan (badane)  
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
@@ -183,6 +183,7 @@ crêpe - krepe
 crêperie - kreperia  
 cube - kube  
 cuiller - camace  
+culturisme (musculation) - muskulobine  
 cycliste - sikliste  
 cytologie - selolojia  
 côte - samudotate  

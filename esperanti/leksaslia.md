@@ -40,7 +40,7 @@
 |**arize**|rizo|tamila:அரிசி (arisi), araba:(ʾaruzz), hispana:portugala:arroz, oroma:ruuzii, franca:riz, rusa:рис (ris), angla:rice, deu:Reis|
 |**arme**|armilo|franca:arme, angla:arms, hispana:portugala:arma|
 |**arte**|arto|hispana:portugala:arte, angla:franca:art, japana:アート (āto)|
-|**asan**|posteno|hindia:आसन (āsan), angla:asana, rusa:асана (asana)|
+|**asane**|posteno|hindia:आसन (āsan), angla:asana, rusa:асана (asana)|
 |**asle**|origino|araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili|
 |**asme**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
 |**ata**|ĝis|portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata|
@@ -52,6 +52,7 @@
 |**babuce**|pantoflo|arai: بَابُوج‎ (bābūj), hispana:babucha, franca:babouche, angla:babouche|
 |**bace**|infano|persa:(bačče), urdua:(baccā), hindia:बच्चा (baccā), guĝarata: બચ્ચું (baccũ), filipina: bata|
 |**badala**|interŝanĝi|araba:(badala), hindia:बदला (badlā), haŭsa:badali, svahila:badili|
+|**badan (badane)**|korpo|angla:body, araba:(badan), hindia:बदन (badan), persa:urdua:(badan), turka:beden|
 |**bagre**|tigro|hindia:बाघ (bāgh), bengala:বাঘ (bagh), + persa:(babr), + hispana:portugala:tigre, rusa:(tigr)|
 |**baki**|blanka|kantona:白 (baak6), vjetnama:bạch, Zho:白 (bái), japana:白 (haku), korea:백 (baek), + franca:blanc, hispana:blanco, portugala:branco|
 |**bal**|ok (8)|mandarena:八 (bā), korea:팔 (pal), filipina:walo, haw:walu|
@@ -97,7 +98,6 @@
 |**bizi**|okupata|angla:busy|
 |**biznese**|negoco|angla:business, rusa:бизнес (biznes)|
 |**blabla**|babili|franca:blablater, angla:babble, hispana:blablablá|
-|**bode**|korpo|angla:body, araba:(badan), hindia:बदन (badan), persa:urdua:(badan), turka:beden|
 |**boke**|buŝo|hispana:portugala:boca|
 |**bol (bole)**|pilko|angla:ball, hispana:portugala:malaja:filipina:bola, taja:บอล (bɔl), japana:ボール (bōru), korea:볼 (bol), kmera:បាល់ (bal), bengala:বল (bôl), deu:Ball, franca:boule,balle|
 |**bombe**|bombo|polona:portugala:hispana:turka:bomba, rusa:бомба (bomba), deu:franca:bombe, persa:(bomb), angla:bomb, bengala:বোমা (boma), hindia:बम (bam), urdua:(bam), japana:ボム (bomu), korea:봄 (bom), malaja:bom|
@@ -192,7 +192,7 @@
 |**ekore**|sciuro|franca:écureuil, joruba:ọkẹrẹ, sve:ekorre, haŭsa:kurege|
 |**eletre**|elektro|portugala:eletricidade, itala:elettricità, angla:electricity, rusa:электричество (električestvo), franca:électricité, hispana:electricidad, turka:elektrik|
 |**emos**|emocio|eng;emotion, franca:émotion, hispana:emoción, por;emoção, rusa:эмоция (emociya), ind:emosi, filipina:emosyon|
-|**er**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
+|**er (ere)**|isto (anto)|angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro|
 |**esa**|esti|hispana:es, persa:(ast), portugala:estar, rusa:есть (yest')|
 |**eska**|demandi (ĉu)|hat:èske, franca:est-ce que [ɛskə], angla:ask, rwa:ese|
 |**eskal**|ŝtuparo|franca:escalier, hispana:escalera, portugala:escada, + angla:scale, deu:Skale, rusa:шкала (škala)|

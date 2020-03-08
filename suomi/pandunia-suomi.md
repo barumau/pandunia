@@ -125,7 +125,7 @@ arti samude - Jäämeri
 artia - Arktis  
 artiste - taiteilija  
 arubia - Aruba  
-asan - asento  
+asane - asento  
 asi - aasialainen  
 asia - Aasia  
 askete - askeett  
@@ -162,6 +162,7 @@ bace - lapsi
 bada - seurata (tulla perässä, tulla jäljessä)  
 badala - vaihtaa  
 badame - manteli  
+badan (badane) - keho (ruumis)  
 badani - ruumiillinen  
 badawi - beduiini  
 bade - seuraus  
@@ -283,7 +284,6 @@ bizneser - liikemies
 blabla - jutella (höpistä)  
 blableria - keskusteluhuone  
 bloge - blogi (nettikolumni)  
-bode - keho (ruumis)  
 boikote - boikotti  
 boke - suu  
 bol (bole) - pallo  
@@ -523,9 +523,10 @@ drugia - Bhutan
 du - omistetun omistajaan liittävä partikkeli  
 dubnium - dubnium  
 duga - lukea  
-duka - surra (murehtia)  
+duka - surettaa  
 duke - suru (murhe)  
 duki - surullinen  
+duku - surra (murehtia)  
 dul - kaksi (2)  
 dul ban - kahdesti (kaksi kertaa)  
 dul o tin - muutama (pari-kolme)  
@@ -575,7 +576,7 @@ englofiler - anglofiili
 englokitaba - englannistaa  
 eni - mikä tahansa  
 enzime - entsyymi  
-er - tekijä (aikaansaaja)  
+er (ere) - tekijä (aikaansaaja)  
 erbium - erbium  
 eria - paja (kauppa, tekimö)  
 eris - Eris (kääpiöplaneetta)  
@@ -762,6 +763,7 @@ gare - kärry (vaunu, auto, jne)
 garmi - lämmin  
 garmi masale - garam masala  
 garoparke - parkkipaikka  
+gasa - kaasuttaa  
 gase - kaasu  
 gasi - kaasumainen  
 gasu - kaasuuntua  
@@ -1732,6 +1734,7 @@ musiker - muusikko
 muskete - musketti  
 musketer - musketööri  
 muskule - lihas  
+muskulobine - kehonrakennus (bodaus)  
 muta - muuttaa (muuntaa)  
 muxe - hiiri  
 muxing - Jupiter  

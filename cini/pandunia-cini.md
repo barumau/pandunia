@@ -59,6 +59,7 @@ avgania - 阿富汗
 babe - 章  
 bace - 小孩  
 badame - 杏仁 (巴旦木)  
+badan (badane) - 身体  
 bagaje - 行李  
 bagre - 虎  
 bah - 呸  
@@ -93,7 +94,6 @@ bere - 浆果 (莓)
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
-bode - 身体  
 bol (bole) - كورة  
 bombe - 炸弹  
 bon (boni) - 好  
@@ -321,6 +321,7 @@ molekul - 分子
 molia - 磨坊  
 mome - 我们  
 mule - 根  
+muskulobine - 健美运动  
 ##n
 nade - 河 (江)  
 nasomedi - 国际  
