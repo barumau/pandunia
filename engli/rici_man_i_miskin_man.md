@@ -1,9 +1,11 @@
-# rici man e miskini man
-
 <p style="font-size:6em;text-align:center;">🍞</p>
 
 <table>
-<tr><td>
+<tr><th>
+rici man e miskini man
+</th><th>
+The rich man and the poor man
+</th></tr><tr><td>
 sa teli pase, zayu un miskini man.
 </td><td>
 Long time ago there was a poor man.
