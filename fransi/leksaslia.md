@@ -25,6 +25,7 @@
 |**almase**|diamant|swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|
 |**altare**|autel|eng:por:spa:may:altar, rus: алтарь (altar'), swa:altare, pol:ołtarz|
 |**ame**|amour (affection)|fra:amour, spa:por:amor|
+|**ameno**|sûrement|ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|
 |**ampule**|ampoule (fiole)|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**analize**|analyse|eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|
 |**ande**|oeuf|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
@@ -57,6 +58,7 @@
 |**bandere**|drapeau|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
 |**banke**|banque|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
 |**banse**|bambou|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|
+|**barde**|barbe|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |**bari**|lourd|ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|
 |**barka**|féliciter|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|
 |**barxe**|pluie|hin:बारिश (bāriś),वर्षा (varṣā), urd:(bāriś), mar:वर्षा (varṣā), guj:વરસાદ (varsād), tel:వర్షము (varṣamu), fas:(bārān), jav:warsa|
@@ -77,6 +79,7 @@
 |**bon (boni)**|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
 |**bote**|bateau|spa:bote, eng:boat, hin:बोट (boṭ), swa:boti, rus:бот (bot), jpn:ボート (bōto)|
 |**botone**|bouton|eng:button, spa:botón, por:botão, fra:bouton, jpn:ボタン (botan), tgl:butones, hin:बटन (baṭan), urd:(baṭan), ben;বোতাম (botam)|
+|**bravi**|brave|eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|
 |**bruni**|brun (marron)|fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|
 |**buke**|livre|eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|
 |**ca**|de|zho:从 (cóng),出于 (chū), yue:從 (cung4)|
@@ -168,6 +171,7 @@
 |**kanowe**|canoë|eng:canoe, fra:canoë, tur:kano, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu)|
 |**karde**|carte|eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|
 |**karimi**|généreux|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
+|**karolekse**|verbe|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
 |**karte**|carte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
 |**kava**|creuser|spa:por:cavar, eng:excavar, fra:excaver|
 |**ke**|que (quoi)|spa:qué, por:fra:que, + ben:কে  (ke)|
@@ -181,6 +185,7 @@
 |**korne**|corne|fra:corne, por:corno, eng:horn, ara:(qarn)|
 |**korone**|couronne|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
 |**kosmia**|cosmos|rus:космос (kosmos), eng:fra:spa:cosmos|
+|**krabe**|crabe|eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|
 |**kreme**|crème|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |**krepe**|crêpe|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
 |**kruasan**|croissant|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
@@ -279,6 +284,7 @@
 |**programe**|programme|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |**projete**|projet|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), Ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**pule**|pont|hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)|
+|**puri**|plein|hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|
 |**pute**|fils ou fille|tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|
 |**rang (range)**|couleur|ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|
 |**rapidi**|vite (rapide)|spa:por:rápido, eng:rapid, fra:rapide|
@@ -327,6 +333,7 @@
 |**teme**|sujet (thème)|fra: thème, spa: tema, rus: тема (tema), deu:Thema|
 |**tena**|avoir|spa:tener, fra:tenir, eng:contain|
 |**tepe**|ruban (bande)|eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|
+|**terci**|oblique (de travers)|spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|
 |**tese**|argument|eng:thesis, fra:thèse, spa:tesis|
 |**teste**|épreuve (test)|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |**tikete**|billet|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|

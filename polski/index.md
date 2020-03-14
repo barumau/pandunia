@@ -24,15 +24,15 @@ Niektóre zauważalne cechy Panduni:
 - [Lekcje z Dialogami](darse.md)
 - [Gramatyka](kanun.md)
 
-<!--- [Słownik z możliwością wyszukiwania](tiddly.html)
-- słownik [polski-Pandunia](polski-pandunia.md)-->
+- [Słownik z możliwością wyszukiwania](tiddly.html)
+- słownik [polski-Pandunia](polski-pandunia.md)
 - słownik [Pandunia-polski](pandunia-polski.md)
 - [Etymologia](leksaslia.md)
 
 ## Artykuły
 
 - [Pandunia - nowy międzynarodowy język](dunia_baxe.md)
-- [Prezentacja w formacie PDF (ang.)](Pandunia-presentation.pdf)
+- [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 - [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinie uczących się
 <!---- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)--->

@@ -1,0 +1,23 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/fransi
+docs_dir: ../../fransi
+site_dir: ../../html/fransi
+theme: cerulean
+nav:
+    - Accueil: 'index.md'
+    - 'Info':
+        - 'Présentation': dunia_baxe.md
+        - 'Principes de fonctionnement': filsofe.md
+        - 'Mots du monde': dunia_loge.md
+        - 'Questions et réponses': eske_i_jawabe.md
+        - 'Traduire ce site': tarja_netoloke.md
+    - 'Leçons':
+        - 'Écriture et prononciation': abc.md
+        - 'Phrases courantes': fraze.md
+        - 'Leçons': darse.md
+    - 'Vocabulaire':
+        - 'Pandunia → français': pandunia-fransi.md
+        - 'Français → pandunia': fransi-pandunia.md
+        - 'Etymologie': leksaslia.md
+    - 'Grammaire': kanun.md
+

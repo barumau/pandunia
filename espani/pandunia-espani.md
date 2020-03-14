@@ -32,7 +32,7 @@ aha - entender (comprender)
 ainstainium - einsteinium  
 aire - aire  
 airia - Irlanda  
-airobare - presión de la atmósfera  
+airobare - presión atmosférica  
 airobarometer - barómetro  
 airolaskeria - fuerza aérea  
 airoporte - aeropuerto  
@@ -40,7 +40,7 @@ aise - hielo
 aisi - cubierto de hielo  
 aisohoke - hockey sobre hielo  
 aisokrem - helado  
-aisu - congelar (helar)  
+aisu - congelarse (helarse)  
 ajaba - asombrar  
 ajabe - maravilla  
 ajabi - maravilloso (asombroso)  
@@ -55,9 +55,9 @@ alkole - alcohol
 alkoli - alcohólico  
 almar - armario  
 almase - diamante  
-alo - de lo contrario (si no)  
+alo - sino  
 alofone - alófono  
-alonami - es decir (en otras palabras)  
+alonamo - es decir (en otras palabras)  
 aloraya - disentir (no estar de acuerdo)  
 aloraye - desacuerdo  
 aloromansi - heterorromántico  
@@ -68,15 +68,16 @@ altare - altar
 alumin - aluminio  
 ama - amar  
 amari - amhara  
-amen - seguro (amén)  
 amena - asegurar (confirmar)  
+ameni - seguro  
+ameno - seguramente (amén)  
 amerike - América  
 ameriki - americano  
 amerikium - americio  
 ami - querido  
 ampere - amperio  
 ampule - ampolla (vial)  
-analiza - analisar  
+analiza - analizar  
 analize - análisis  
 ande - huevo  
 andes - Andes  
@@ -205,7 +206,7 @@ bar - bar
 barbados - Barbados  
 barbare - bárbaro  
 barbudia - Barbuda  
-barde - Barbados  
+barde - barba  
 bare - peso  
 bari - pesado  
 barium - bario  
@@ -223,7 +224,7 @@ barxocate - parasol
 barxokote - impermeable  
 barya - bloquear (obstruir)  
 baryer - barrera  
-basene - charca (ensenada)  
+basene - piscina (alberca, lavadero)  
 basi - bastante  
 baske - básquetbol  
 baskobol - baloncesto  
@@ -261,7 +262,7 @@ benda - atar (amarrar)
 bende - banda (cinta)  
 beninia - Benín  
 benzine - gasolina (bencina)  
-berande - veranda (galería)  
+berande - balcón (terraza, veranda)  
 bere - baya  
 berete - boina  
 berilium - berilio  
@@ -312,6 +313,7 @@ botolefte - babor
 botone - botón  
 botoraite - estribor  
 botoxefe - capitán  
+bravo - bravo!  
 brazavili kongolia - República del Congo  
 brazilia - Brasil  
 britania - Reino Unido  
@@ -646,12 +648,11 @@ fantazi - imaginario (fantástico)
 fantom - fantasma  
 farsi - farsi  
 fase - faz (faceta)  
-fasin - fascinación  
+fasine - fascinación  
 fata - hacer  
 fate - hecho  
 fater - farbicante  
 fateria - fábrica  
-fatolekse - verbo  
 favora - preferir (favorecer)  
 favori - favorito (preferido)  
 faxe - tira (faja, vendaje, cinta)  
@@ -738,10 +739,8 @@ fransium - francio
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - llevar (vestir)  
 fuke - ropa (vestimenta)  
-fula - llenar  
 fulani - cierto (algún, unos)  
 fule - flor  
-fuli - lleno (completo)  
 fulovaze - florero  
 fulu - florecer  
 funca - funcionar  
@@ -964,7 +963,7 @@ hondurasia - Honduras
 hongong - Hong Kong  
 hore - hora  
 horizone - horizonte  
-horizoni - horizontal  
+horizoni - horizontal (lateral)  
 hormon - hormona  
 horvatia - Croacia  
 hotel (hotele) - hotel (albergue)  
@@ -1188,6 +1187,7 @@ karawe - carvis (alcaravea)
 karbone - carbón  
 karbonodulokside - dióxido de carbono  
 karde - tarjeta (carta)  
+kare - acción (hecho, acto, obra, hazaña)  
 kariba - axproximarse  
 karibe - proximidad  
 karibi - cerca  
@@ -1196,9 +1196,9 @@ karimi - generoso (dadivoso, caritativo)
 karimia - generosidad (caridad)  
 karite - karité  
 karma - hacer (actuar, cometer)  
-karme - acción (hecho, acto, obra, hazaña)  
 karnadi - cararés  
 karnadia - Karnataka  
+karolekse - verbo  
 karote - zanahoria  
 karte - mapa  
 kartografia - cartografía  
@@ -1727,6 +1727,7 @@ mirer - espejo (retrovisor)
 mirosonde - eco  
 misa - enviar (transmitar)  
 misale - ejemplo  
+misalo - por ejemplo  
 miser - remitente  
 misia - emisión  
 miskini - pobre (miserable)  
@@ -2198,7 +2199,9 @@ pule - puente
 pulmone - pulmón  
 punte - punto  
 pupe - marioneta (títere)  
+pura - llenar  
 purani - viejo (antiguo)  
+puri - lleno (completo)  
 putaw - uva  
 pute - hijo o hija  
 putong - general (common)  
@@ -2465,7 +2468,7 @@ simpli - simple
 sine - pecho (seno, tórax)  
 singapur - Singapur  
 singe - león  
-sinokase - caja torácica  
+sinokafase - caja torácica  
 sinye - señal (letrero, indicio)  
 siri - secreto  
 sirke - vinagre  
@@ -2575,7 +2578,7 @@ taiwania - Taiwán
 tajikia - Tayikistán  
 taksa - gravar (cobrar tasas)  
 takse - tasa (precio, impuesto, tarifa)  
-taksokare - taxi (cab)  
+taksogare - taxi (cab)  
 tala - bajar  
 tale - fondo  
 tali - bajo  

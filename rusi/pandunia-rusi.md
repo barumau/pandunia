@@ -67,6 +67,7 @@ banye - купание
 banyokamare - ванная  
 banyu - купаться  
 banze - доска  
+barde - борода  
 bari - тяжёлый  
 barxe - дождь  
 barxi - дождливый  
@@ -95,6 +96,7 @@ bote - лодка (бот)
 botolefte - левый борт  
 botone - пуговица  
 botoraite - правый борт  
+bravo - браво  
 bruni - коричневый  
 buke - книга  
 ##c
@@ -181,6 +183,7 @@ hijenia - гигиена
 hisaba - вычислять  
 hoke - хоккей  
 hore - час  
+horizoni - horizontal  
 hotel (hotele) - гостиница (отель)  
 hule - лиса  
 ##i
@@ -218,6 +221,7 @@ kanosuyogas - слезоточи́вый газ
 kanowe - каноэ  
 karbonodulokside - двуокись углерода  
 karde - карта  
+karolekse - глагол  
 karte - карта  
 kartografia - картография  
 katane - меч  
@@ -242,6 +246,7 @@ kornonose - носорог
 korone - корона  
 kosmi - космический  
 kosmia - космос  
+krabe - краб  
 krane - кран  
 krepe - блин  
 kruasan - круассан  
@@ -302,6 +307,7 @@ meze - стол
 migre - миграция  
 migru - переезжать  
 milke - молоко  
+misalo - например  
 misria - Египет  
 mixa - мешать  
 molia - мельница  
@@ -369,6 +375,8 @@ probleme - проблема
 problemi - проблематичный  
 programe - программа  
 projete - проект  
+pura - заполнять  
+puri - полный  
 ##r
 rapidi - быстрый  
 rase - раса  
@@ -422,6 +430,7 @@ susane - лилия
 suy (suye) - вода  
 suyogas - пар  
 ##t
+taksometer - таксометр  
 tarje - перевод  
 tase - блюдо (таз)  
 tataw - татуировка (тату)  

@@ -94,6 +94,7 @@ banane - banane
 bande - bande  
 banque - banke  
 banquier - banker  
+barbe - barde  
 barrière - baryer  
 baryum - barium  
 base - baze  
@@ -118,6 +119,8 @@ botanique - fitolojia
 boue (fange, bourbe, gadoue) - pote  
 boulanger - beker  
 bouton - botone  
+brave - bravi  
+bravo! - bravo  
 brigand (bandit) - luter  
 brun (marron) - bruni  
 brûler - pira  
@@ -169,6 +172,7 @@ couleur - rang (range)
 coupe (tasse, verre) - kope  
 couronne - korone  
 couvrir - daka  
+crabe - krabe  
 creuser - kava  
 croissant - kruasan  
 croix - kruse  
@@ -405,6 +409,7 @@ papaye - papaye
 papier - kagaze  
 papier peint - walopapir  
 paquet - pake  
+par exemple - misalo  
 paramètre - parame  
 parapluie - barxocate  
 parc - parke  
@@ -430,6 +435,7 @@ pizza - pize
 pièce (chambre) - kamare  
 placard - almar  
 place - maidane  
+plein - puri  
 pluie - barxe  
 plume - kalam  
 plus - max (maxo)  
@@ -459,6 +465,7 @@ race - rase
 racine - mule  
 rein - nefre  
 religion - dine  
+remplir - pura  
 renard - hule  
 reste - reste  
 retourner (revenir) - retra  
@@ -510,11 +517,13 @@ sujet (thème) - teme
 séminal - semi  
 série - serye  
 sûr - sekuri  
+sûrement - ameno  
 ##t
 table - meze  
 tablette de chocolat - cokolatobaton  
 tarte - pay (paye)  
 tasse à thé - cayokupe  
+taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
 tendance - ive  
@@ -548,6 +557,7 @@ vapeur d’eau - suyogas
 vase - vaze  
 Venezuela - venezolia  
 ver - verme  
+verbe - karolekse  
 verre - kance  
 vert - lugi  
 viande - manse  

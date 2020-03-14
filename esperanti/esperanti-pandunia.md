@@ -18,7 +18,7 @@ afrikamanteco - afrikofilia
 afrikamanto - afrikofiler  
 Afriko - afrike  
 agaci (tedi, malamuzi) - irita  
-agado (karmo) - karme  
+agado (karmo) - kare  
 agi - karma  
 agresema - agresi  
 aj (alas) - ay  
@@ -207,6 +207,8 @@ botelo - botole
 bovaĵo - muhomanse  
 bovo - muh  
 branĉo - xake  
+brava - bravi  
+brave! - bravo  
 Brazilo - brazilia  
 bromo - bromium  
 broso - broxe  
@@ -228,7 +230,8 @@ cepo - piaze
 cerbo - serebre  
 Cereso - seres  
 cerio - cerium  
-certa - amen  
+certa - ameni  
+certe - ameno  
 certigi - amena  
 cezio - cesium  
 citi - cita  
@@ -313,6 +316,7 @@ ekrano - ekran
 ekstera - wayi  
 ekstero - waye  
 Ekvadoro - ekuador  
+ekzemple - misalo  
 ekzemplo - misale  
 ekzerci - lenxa  
 ekzerco - lenxe  
@@ -381,7 +385,7 @@ fantazio - fantaze
 fantomo - fantom  
 fari - fata  
 faro - fate  
-fascinado - fasin  
+fascinado - fasine  
 faŝismo - faxistia  
 faŝisto - faxiste  
 febro - febre  
@@ -678,7 +682,7 @@ kaŝtano - kastane
 kaŭĉuko - gome  
 kerno (koro) - kerne  
 keĉupo - kecape  
-kial? - ki yangi  
+kia? - ki yangi  
 kialo - sabe  
 kiam? - ki sate  
 kie - sa ke  
@@ -753,6 +757,7 @@ kotono - gotone
 kotraŭa - anti  
 kovri - daka  
 kovrilo - dake  
+krabo - krabe  
 krano (valvo) - krane  
 kreda - xina  
 kredo - xine  
@@ -1131,9 +1136,10 @@ planto - fite
 plantscienco (botaniko) - fitolojia  
 plateno - platinum  
 plej - maxim (maximo)  
-plena - fuli  
+plena - puri  
 plenaĝa - adulte  
-plenigi - fula  
+plene - puro  
+plenigi - pura  
 pli - max (maxo)  
 plori - kuga  
 plumbo - plumbe  
@@ -1429,7 +1435,7 @@ Tibeto - podia
 tie - sa ye  
 tigro - bagre  
 timo (fobio) - fobia  
-tio estas (alivorte) - alonami  
+tio estas (alivorte) - alonamo  
 tiri - tira  
 titanio - titan  
 tiu - we  
@@ -1441,7 +1447,7 @@ tombo - gabre
 tondilo - makase  
 tondro - grome  
 tono - tone  
-torako - sinokase  
+torako - sinokafase  
 torio - torium  
 torso - torse  
 torto - pay (paye)  
@@ -1500,7 +1506,7 @@ ventro - pete
 ventumilo - panke  
 vera - veri  
 verando - berande  
-verbo - fatolekse  
+verbo - karolekse  
 verda - lugi  
 versio (toisinto) - version  
 vespermanĝo - xamoniame  

@@ -31,7 +31,7 @@
 |**almase**|diamond|Swahili:almasi, Russian:алмаз (almaz), Arabic:(ʾalmāsa), Persian:(almâs), Turkish:elmas|
 |**altare**|altar|English:Portuguese:Spanish:Malay:altar, Russian: алтарь (altar'), Swahili:altare, Polish:ołtarz|
 |**ame**|love (liking, affection)|French:amour, Spanish:Portuguese:amor|
-|**amen**|certain (sure, certainly, amen)|Arabic:(ʾāmin), Turkish:amin,emin, heb:hbo:אמן, Greek:ἀμήν (ámén), English:deu:French:Polish:Spanish:amen, Mandarin:阿门 (āmén), Korean:아멘 (amen), Japanese:アーメン (āmen)|
+|**ameno**|certainly (surely,amen)|Arabic:(ʾāmin), Turkish:amin,emin, heb:hbo:אמן, Greek:ἀμήν (ámén), English:deu:French:Polish:Spanish:amen, Mandarin:阿门 (āmén), Korean:아멘 (amen), Japanese:アーメン (āmen)|
 |**ampule**|ampoule (vial)|French:English:ampoule, Mandarin:安瓿 (ānbù), Japanese:アンプル (anpuru), Russian:ампула (ámpula), Arabic:(ʾambūla)|
 |**analize**|analysis|English:analysis, French:analyse, Portuguese:análise, Spanish:análisis, Russian:анализ (analiz), Turkish:analiz|
 |**ande**|egg|Hindi:अंडा (aṇḍā), Bengali:আণ্ডা (aṇḍa), Urdu:(aṇḍā), Punjabi:ਆਂਡਾ (āṇḍā), Telugu:(aṇḍamu), Zulu:xho:iqanda, mon:өндөг (öndög)|
@@ -128,6 +128,7 @@
 |**bote**|boat (ship)|Spanish:bote, English:boat, Hindi:बोट (boṭ), Swahili:boti, Russian:бот (bot), Japanese:ボート (bōto)|
 |**botole**|bottle|English:bottle, Malay:botol|
 |**botone**|button|English:button, Spanish:botón, Portuguese:botão, French:bouton, Japanese:ボタン (botan), Filipino:butones, Hindi:बटन (baṭan), Urdu:(baṭan), ben;বোতাম (botam)|
+|**bravi**|brave (gallant, valiant)|English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)|
 |**broxe**|brush|English:brush, French:brosse, Bengali:ব্রাশ (braś), Hindi:ब्रश (braś), Urdu:(braś), Hausa:Swahili:burashi, Japanese:ブラシ (burashi), Korean:브러시 (beureosi), Persian:(boros), Malay:berus|
 |**bruni**|brown|French:brun, Arabic:(bunniy), Hindi:भूरा (bhūrā), English:brown|
 |**bude**|Buddha|Hindi:बुद्ध (buddh)|
@@ -254,7 +255,7 @@
 |**famile**|family|English:family, Spanish:familia, Portuguese:família, French:famille|
 |**fane**|fun (amusement)|English:fun|
 |**fase**|surface (face)|English:French:Portuguese:face, Spanish:faz, deu:Facette|
-|**fasin**|fascination|English:fascination, Spanish:fascinación, deu:Faszination|
+|**fasine**|fascination|English:fascination, Spanish:fascinación, deu:Faszination|
 |**fata**|make (manufacture)|Italian:fare, French:faire, Portuguese:fazer, + Arabic:(faʿala), + Swahili:kufanya|
 |**fater**|maker (manufacturer, factor)|Portuguese:fator, Italian: fattore, English: factor, Russian: фактор (faktor)|
 |**faxe**|bandage (strip, ribbon)|Italian:fascia, Portuguese:faixa, Spanish:faja|
@@ -282,7 +283,6 @@
 |**fuke**|clothing|Mandarin:衣服 (yīfu), Cantonese:(yifuk), Japanese:衣服 (ifuku), Korean:의복 (uibog)|
 |**fulani**|certain (indefinite, indeterminate, some, so-and-so)|Swahili:fulani, Arabic:(fulan), Turkish:falan|
 |**fule**|flower|Hausa:fure, Igbo:ifulu, Lingala:folele, Hindi:फूल (phul), Bengali:ফুল (phul), French:fleur, Portuguese:Spanish:flor, English:flower|
-|**fuli**|full|English:full, deu:voll|
 |**fune**|dust (powder)|Mandarin:粉 (fěn), Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)|
 |**funge**|fungus|English:fungus, French:fongus, Portuguese:fungo, Spanish:hongo|
 |**funocuper**|vacuum cleaner|Mandarin:吸尘器 (xīchénqì), deu:Staubsauger|
@@ -449,10 +449,11 @@
 |**kapa**|catch (capture, seize, snatch, intercept)|Turkish:kapmak, Hungarian:kap, sve:kapa, fin:kaapata, ned:kapen, Spanish:Portuguese:capturar, English:capture, spa:por:caber, Khmer:ចាប់ (cap)|
 |**karawe**|caraway|Arabic:(karāwiya), English:caraway, French:carvi, Spanish:alcaravea, Portuguese:alcaravia|
 |**karde**|card|English:card, Japanese: カード (kādo), Swahili: kadi, Mandarin:卡 (kǎ), deu:Karte, Malay:kartu, French:carte|
+|**kare**|action (deed, performance, karma)|Hindi:कर्म (karma), Urdu:(karm), Punjabi:ਕਰਮ (karm), Kannada:Tamil:Telugu:(karma), English:deu:French:Spanish:Portuguese:karma, Khmer:កម្ម (kam), Burmese:ကံ (kam), Thai:กรรม (kam), Russian:карма (karma)|
 |**karibi**|near (close)|Arabic:Persian:Urdu:(qarīb), Swahili:karibu, Turkish:takribi|
 |**karimi**|generous (charitable)|Arabic:(karīm), Swahili:-karimu, Turkish:kerim, Spanish:Portuguese:caritativo|
 |**karite**|shea (vitellaria)|Wolof:kaarite, French:Spanish:karité, Fulani:kaare, kareje, Hausa:kaɗanya|
-|**karme**|action (deed, performance, karma)|Hindi:कर्म (karma), Urdu:(karm), Punjabi:ਕਰਮ (karm), Kannada:Tamil:Telugu:(karma), English:deu:French:Spanish:Portuguese:karma, Khmer:កម្ម (kam), Burmese:ကံ (kam), Thai:กรรม (kam), Russian:карма (karma)|
+|**karolekse**|verb|Hindi:क्रिया (kriyā), Bengali:ক্রিয়া (kriya), Telugu:క్రియ (kriya), Khmer:កិរិយា (keriyaa), Thai:กริยา (grì-yaa), Malay:kata kerja|
 |**karte**|map (chart)|deu:Karte, Russian:карта (karta), French:carte, Italian:Portuguese:carta, Arabic:(xarīṭa), Turkish:harita, Persian:(xarite), som:khariiddo|
 |**kartune**|comic (cartoon)|English:cartoon, Portuguese:cartum, Mandarin:卡通 (kǎtōng)|
 |**karvane**|caravan (convoy)|Persian:Urdu:(kârvân), Turkish:kervan, Hindi:कारवाँ (kārvā̃), English:caravan, deu:Karawane, French:caraven, Spanish:Portuguese:caravana, Polish:karawana, Russian:караван (karavan), Filipino:karabana, Japanese:キャラバン (kyaraban), Korean:카라반 (karaban)|
@@ -502,6 +503,7 @@
 |**kosmia**|space (cosmos, universe)|Russian:космос (kosmos), English:French:Spanish:cosmos|
 |**kote**|coat|English:coat, Swahili:koti, Oromo:koota, Japanese:コート (kōto), Persian:(kot), Hindi:कोट (kot)|
 |**koy**|some|Hindi:कोई (koī), Urdu:(koī), Russian:кое- (koye-)|
+|**krabe**|crab|English:crab, deu:Krebs, French:crabe, Russian:краб (krab)|
 |**krane**|valve (tap, faucet)|ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran|
 |**kreme**|cream|French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)|
 |**krepe**|pancake|French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella|
@@ -629,7 +631,7 @@
 |**minori**|minor (not major)|English: minor|
 |**minoria**|minority|Spanish: minoría|
 |**mirer**|mirror|English:mirror, French:miroir, Arabic:mirʾāh, arz:mirāya|
-|**misale**|example (instance of)|Hindi:मिसाल (misāl), Arabic:(mithāl)|
+|**misale**|example (instance of)|Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Turkish:mesela|
 |**misria**|Egypt|Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)|
 |**mite**|meeting (gathering)|English:meet, French:meeting, Spanish:mitin, Japanese:ミーティング (mītingu), Hindi:मीटिंग (mīṭiṅg)|
 |**mixa**|mix (blend)|deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)|
@@ -772,6 +774,7 @@
 |**punte**|point (period, full stop)|Spanish:punto, Russian:пункт (punkt), English:point|
 |**pupe**|doll (puppet)|French:poupée, deu:Puppe, English:puppet, Vietnamese:búp bê, ktu:popi, heb:(bubá)|
 |**purani**|old (ancient)|Hindi:पुराना (purānā), Urdu:(purānā), Bengali:পুৰণা (puron), Punjabi:ਪੁਰਾਣਾ (purāṇā)|
+|**puri**|full (complete)|Hindi:पूर्ण (pūrn), Bengali:পূর্ণ (pūrṇa), Punjabi:ਪੂਰਾ (pūrā), Persian:(por)|
 |**pute**|child (son or daughter)|Thai:บุตร (but), Hindi:पूत (pūt), पुत्र (putra), Bengali:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), Malay:putera, Telugu:పుత్రుడు (putruḍu)|
 |**putong**|common (general, universal)|Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)|
 |**raite**|right hand side|English:right|
@@ -908,6 +911,7 @@
 |**tena**|have (keep, possess)|Spanish:tener, French:tenir, English:contain|
 |**tenke**|weather|Mandarin:天气 (tiǎnqì), Japanese:天気 (tenki)|
 |**tepe**|tape|English:tape, Swahili:tepu, Japanese:(tēpu), Turkish:teyp|
+|**terci**|oblique (askew, tilted)|Spanish:torcido, Portuguese:torto, Hindi:तिरछा (tirachha), Bengali:তেরছা (tērachā), pan:तिरकस (tirakasa)|
 |**terme**|temperature|deu:English:French:thermo-, Spanish:Portuguese:termo-, Russian:термо- (termo-)|
 |**tese**|argument (thesis)|English:thesis, French:thèse, Spanish:tesis|
 |**teste**|test (try, attempt)|English:French:test, Russian: тест (test), Portuguese:teste, Turkish:test|

@@ -59,7 +59,7 @@ almar - kaappi
 almase - timantti  
 alo - muuten (toisin)  
 alofone - allofoni (vaihtoehtoinen ääntämys)  
-alonami - eli (toisin sanoen)  
+alonamo - eli (toisin sanoen)  
 aloraya - olla eri mieltä  
 aloromansi - heteroromanttinen  
 aloseksi - heteroseksuaali  
@@ -71,6 +71,8 @@ ama - rakastaa (pitää, tykätä)
 amari - amhara (etiopialainen kansa ja kieli)  
 ame - rakkaus (tykkääminen)  
 amena - varmistaa  
+ameni - varma  
+ameno - varmasti (totisesti, aamen)  
 amerike - Amerikka  
 ameriki - amerikkalainen  
 amerikium - amerikium  
@@ -304,6 +306,8 @@ botolefte - paapuuri
 botone - nappi  
 botoraite - tyyrpuuri  
 botoxefe - kapteeni  
+bravi - rohkea (urhea, uljas)  
+bravo - bravo!  
 brazavili kongolia - Brazzavillen Kongo  
 brazilia - Brasilia  
 britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
@@ -625,12 +629,11 @@ fantazi - mielikuvituksekas (fantastinen)
 fantom - kummitus (aave)  
 farsi - persia (farsi)  
 fase - pinta (tahko)  
-fasin - hurma (lumo, tenho)  
+fasine - hurma (lumo, tenho)  
 fata - tehdä (valmistaa)  
 fate - teko  
 fater - tekijä (valmistaja)  
 fateria - tehdas  
-fatolekse - verbi (teonsana)  
 favori - suosikki (suosittu)  
 faxe - side (remmi)  
 faxiste - fasisti  
@@ -713,10 +716,8 @@ fransium - fransium
 fuga - palauttaa  
 fuka - pukea  
 fuke - vaate (puku)  
-fula - täyttää  
 fulani - eräs (muuan, joku, jokin)  
 fule - kukka  
-fuli - täysi  
 fulovaze - kukkaruukku  
 fulu - kukkia  
 funca - toiminta (funktio)  
@@ -1140,6 +1141,7 @@ karawe - kumina
 karbone - hiili  
 karbonodulokside - hiilidioksidi  
 karde - kortti  
+kare - toiminta (tekeminen, karma)  
 kariba - lähestyä  
 karibi - läheinen  
 karibo - lähes (melkein)  
@@ -1147,9 +1149,9 @@ karimi - vieraanvarainen (antelias, hyväntahtoinen)
 karimia - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karite - voipuu  
 karma - tehdä (toimia)  
-karme - toiminta (tekeminen, karma)  
 karnadi - kannada (eräs intialainen kieli)  
 karnadia - Karnataka (Intian osavaltio)  
+karolekse - verbi (teonsana)  
 karote - porkkana  
 karte - kartta  
 kartografia - kartogratia  
@@ -1297,6 +1299,7 @@ koy - jokin (joku)
 koy ren - joku  
 koy sate - joskus  
 koy xey - jokin  
+krabe - rapu (taskurapu)  
 krane - hana (venttiili, kraana)  
 kratia - valta  
 kreme - kerma  
@@ -1656,6 +1659,7 @@ mirer - peili
 mirosonde - kaiku  
 misa - lähettää  
 misale - esimerkki  
+misalo - esimerkiksi  
 miser - lähettäjä (lähetin)  
 misia - lähetys  
 miskini - kurja (raukka)  
@@ -2105,7 +2109,10 @@ pule - silta
 pulmone - keuhko  
 punte - piste (täplä)  
 pupe - nukke  
+pura - täyttää  
 purani - vanha (muinainen)  
+puri - täysi  
+puro - täysin  
 putaw - viinirypäle  
 pute - lapsi (jälkeläinen)  
 putong - yleinen (universaali)  
@@ -2173,6 +2180,7 @@ retrotikete - menopaluulippu
 reunion - Reunion  
 rezerve - varaus (ennakkovaraus)  
 rezine - pihka (hartsi)  
+rezulta - tuottaa (johtaa tulokseen)  
 rezulte - tulos  
 rici - rikas  
 rime - säe (riimi)  
@@ -2228,7 +2236,7 @@ sa - kanssa (luona, -lla, -ssa)
 sa ke - missä?  
 sa sabu - koska (johdosta, takia)  
 sa ye - täällä (tuolla)  
-saba - aiheuttaa  
+saba - aiheuttaa (olla syynä)  
 sabate - sapatti  
 sabe - syy  
 sabune - saippua  
@@ -2345,7 +2353,7 @@ simpli - yksinkertainen (mutkaton)
 sine - rinta  
 singapur - Singapore  
 singe - leijona  
-sinokase - rintakehä  
+sinokafase - rintakehä  
 sinye - merkki (signaali)  
 siri - salainen  
 sirke - etikka  
@@ -2446,7 +2454,8 @@ taiwania - Taiwan
 tajikia - Tadžikistan  
 taksa - veloittaa (verottaa)  
 takse - taksa (vero)  
-taksokare - taksi  
+taksogare - taksi  
+taksometer - taksamittari  
 tale - pohja  
 talium - tallium  
 tamare - taateli  

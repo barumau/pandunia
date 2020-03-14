@@ -1,0 +1,15 @@
+site_name: пандуния
+site_url: http://www.pandunia.info/rusi
+docs_dir: ../../rusi
+site_dir: ../../html/rusi
+theme: cerulean
+nav:
+    - Дом: 'index.md'
+    - 'Звучание': abc.md
+    - 'Уроки': darse.md
+    - 'Словарь':
+        - 'пандуния-русский': pandunia-rusi.md
+        - 'русский-пандуния': rusi-pandunia.md
+        - 'этимология': leksaslia.md
+    - 'Грамматика': kanun.md
+

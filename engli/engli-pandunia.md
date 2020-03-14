@@ -16,7 +16,7 @@ achoo - aciy
 acknowledge - resida  
 act (play a role) - rola  
 actinium - acinium  
-action (deed, performance, karma) - karme  
+action (deed, performance, karma) - kare  
 action - acion  
 actor (actress) - roler  
 additional - maxi  
@@ -343,7 +343,8 @@ boy - jovani man
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
-brave (bold, heroic) - viri  
+brave (gallant, valiant) - bravi  
+bravo! - bravo  
 Brazil - brazilia  
 bread - pang (pange)  
 breakfast - suboniam  
@@ -454,7 +455,8 @@ Central African Republic - jungafrikia
 Ceres (dwarf planet) - seres  
 cerium - cerium  
 certain (indefinite, indeterminate, some, so-and-so) - fulani  
-certain (sure, certainly, amen) - amen  
+certain (sure) - ameni  
+certainly (surely,amen) - ameno  
 Chad - cadia  
 chain - silsile  
 chair - kurse  
@@ -624,6 +626,7 @@ coupon - kupone
 cover (conceal) - daka  
 cover (lid, cap, deck) - dake  
 cow - muh  
+crab - krabe  
 crafty (dexterous) - jangi  
 cream - kreme  
 creamy (cream colored) - kremi  
@@ -908,7 +911,7 @@ farewell - salam cute
 farmer - nonger  
 fart (flatulate) - peda  
 fart (flatulence) - pede  
-fascination - fasin  
+fascination - fasine  
 fascism - faxistia  
 fascist - faxiste  
 fashion (trend) - faxon  
@@ -935,7 +938,7 @@ fiever - febre
 fight (war, battle, combat) - jeng  
 figure (representation) - figur  
 Fiji - fijia  
-fill - fula  
+fill - pura  
 film (video) - filme  
 filter - filter  
 find (discover) - eureka  
@@ -969,6 +972,7 @@ food (meal) - niam (niame)
 fool (buffoon) - bufone  
 foot - fute  
 football (soccer) - futobol  
+for example - misalo  
 forbid (ban, disallow) - harama  
 forbidden (illicit, haram, taboo) - harami  
 force (strength) - fortia  
@@ -1007,7 +1011,8 @@ frost - himorose
 fruit - pale  
 frying pan - tawe  
 fuck (copulate) - coda  
-full - fuli  
+full (complete) - puri  
+fully (completely) - puro  
 fun (amusement) - fane  
 function (work) - funca  
 fungus - funge  
@@ -1179,6 +1184,7 @@ help (assist) - helpa
 here (there) - sa ye  
 heritage (legacy, bequest) - warise  
 hero - vire  
+heroic - viri  
 hertz (Hz) - herze  
 heteroromantic - aloromansi  
 heterosexual - aloseksi  
@@ -1214,7 +1220,6 @@ Hong Kong, SAR China - hongong
 honorable (respectable) - onori  
 hope (wish) - inxala  
 horizon - horizone  
-horizontal (lateral) - horizoni  
 hormone - hormon  
 horn - korne  
 horse - gude  
@@ -1426,6 +1431,7 @@ lawrencium - laurensium
 layer (level, storey, floor, stratum) - cenge  
 lead (direct) - lida  
 lead - plumbe  
+lead to (bring about, result to) - rezulta  
 leader (director) - lider  
 leaf (sheet) - warke  
 league (association) - lige  
@@ -2237,7 +2243,7 @@ respond (give an answer) - jawaba
 rest (relief) - xuxe  
 rest (remainder) - reste  
 restaurant - restoran  
-result - rezulte  
+result (outcome) - rezulte  
 return (go back) - retra  
 return (restore, recover, resume) - fuga  
 return (way back) - retre  
@@ -2248,7 +2254,7 @@ rhinoceros - kornonose
 rhodium - rodium  
 rhyme (verse) - rime  
 rhythm (beat) - ritime  
-rib cage - sinokase  
+rib cage - sinokafase  
 rice - arize  
 rich - rici  
 right (correct, accurate) - sahi  
@@ -2631,7 +2637,8 @@ taste (sense flavor) - gusta
 taste like - gustu ko  
 tattoo - tataw  
 tax (fee, fare) - takse  
-taxi - taksokare  
+taxi (cab) - taksogare  
+taximeter - taksometer  
 tea - cay (caye)  
 tea cup - cayokupe  
 tea house - cayeria  
@@ -2671,7 +2678,7 @@ than (as, compared to) - ko
 thank - danka  
 thanks (thank you) - danke  
 that (those) - wi  
-that is (in other words, i.e., alias) - alonami  
+that is (in other words, i.e., alias) - alonamo  
 that one - we  
 the Grenadines - grenadin  
 theft - core  
@@ -2839,7 +2846,7 @@ veil (cover, screen) - hijabe
 Venezuela - venezolia  
 Venus - venus  
 veranda (balcony, terrace, porch) - berande  
-verb - fatolekse  
+verb - karolekse  
 version (variation, edition) - version  
 vertical - gawotali  
 vice (deputy) - visi  

@@ -26,7 +26,7 @@
 |**almase**|diamanto|svahila:almasi, rusa:алмаз (almaz), araba:(ʾalmāsa), persa:(almâs), turka:elmas|
 |**altare**|altaro|angla:portugala:hispana:malaja:altar, rusa: алтарь (altar'), svahila:altare, polona:ołtarz|
 |**ame**|amo|franca:amour, hispana:portugala:amor|
-|**amen**|certa|araba:(ʾāmin), turka:amin,emin, heb:hbo:אמן, greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen)|
+|**ameno**|certe|araba:(ʾāmin), turka:amin,emin, heb:hbo:אמן, greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen)|
 |**analize**|analizo|angla:analysis, franca:analyse, portugala:análise, hispana:análisis, rusa:анализ (analiz), turka:analiz|
 |**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
 |**anjile**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
@@ -106,6 +106,7 @@
 |**bote**|boato (ŝipo)|hispana:bote, angla:boat, hindia:बोट (boṭ), svahila:boti, rusa:бот (bot), japana:ボート (bōto)|
 |**botole**|botelo|angla:bottle, malaja:botol|
 |**botone**|butono|angla:button, hispana:botón, portugala:botão, franca:bouton, japana:ボタン (botan), filipina:butones, hindia:बटन (baṭan), urdua:(baṭan), ben;বোতাম (botam)|
+|**bravi**|brava|angla:franca:brave, rusa:бравый (braviy), portugala:bravo, araba:(brāvo)|
 |**broxe**|broso|angla:brush, franca:brosse, bengala:ব্রাশ (braś), hindia:ब्रश (braś), urdua:(braś), haŭsa:svahila:burashi, japana:ブラシ (burashi), korea:브러시 (beureosi), persa:(boros), malaja:berus|
 |**bruni**|bruna|franca:brun, araba:(bunniy), hindia:भूरा (bhūrā), angla:brown|
 |**bude**|kompreno|sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), taja:โพธิ (potí)|
@@ -203,7 +204,7 @@
 |**famile**|familio|angla:family, hispana:familia, portugala:família, franca:famille|
 |**fane**|amuzo|angla:fun|
 |**fase**|surfaco|angla:franca:portugala:face, hispana:faz, deu:Facette|
-|**fasin**|fascinado|angla:fascination, hispana:fascinación, deu:Faszination|
+|**fasine**|fascinado|angla:fascination, hispana:fascinación, deu:Faszination|
 |**fata**|fari|itala:fare, franca:faire, portugala:fazer, + araba:(faʿala), + svahila:kufanya|
 |**fater**|fabrikisto|portugala:fator, itala: fattore, angla: factor, rusa: фактор (faktor)|
 |**febre**|febro|portugala:febre, hispana:fiebre, deu:Fieber, angla:fever, franca:fièvre|
@@ -225,7 +226,6 @@
 |**fuke**|vesto|mandarena:衣服 (yīfu), kantona:(yifuk), japana:衣服 (ifuku), korea:의복 (uibog)|
 |**fulani**|iu|svahila:fulani, araba:(fulan), turka:falan|
 |**fule**|floro|haŭsa:fure, igba:ifulu, lingala:folele, hindia:फूल (phul), bengala:ফুল (phul), franca:fleur, portugala:hispana:flor, angla:flower|
-|**fuli**|plena|angla:full, deu:voll|
 |**fune**|polvo|mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)|
 |**funge**|fungo|angla:fungus, franca:fongus, portugala:fungo, hispana:hongo|
 |**furete**|furo|franca:furet, angla:ferret, portugala:furrão, itala:furetto, hispana:hurón, japana:(feretto), svahila:fereti|
@@ -357,8 +357,9 @@
 |**kapa**|kapti|turka:kapmak, hungara:kap, sve:kapa, fin:kaapata, ned:kapen, hispana:portugala:capturar, angla:capture, spa:por:caber, kmera:ចាប់ (cap)|
 |**karawe**|karvio|araba:(karāwiya), angla:caraway, franca:carvi, hispana:alcaravea, portugala:alcaravia|
 |**karde**|karto|angla:card, japana: カード (kādo), svahila: kadi, mandarena:卡 (kǎ), deu:Karte, malaja:kartu, franca:carte|
+|**kare**|agado (karmo)|hindia:कर्म (karma), urdua:(karm), panĝaba:ਕਰਮ (karm), kanara:tamila:teluga:(karma), angla:deu:franca:hispana:portugala:karma, kmera:កម្ម (kam), birma:ကံ (kam), taja:กรรม (kam), rusa:карма (karma)|
 |**karibi**|proksima|araba:persa:urdua:(qarīb), svahila:karibu, turka:takribi|
-|**karme**|agado (karmo)|hindia:कर्म (karma), urdua:(karm), panĝaba:ਕਰਮ (karm), kanara:tamila:teluga:(karma), angla:deu:franca:hispana:portugala:karma, kmera:កម្ម (kam), birma:ကံ (kam), taja:กรรม (kam), rusa:карма (karma)|
+|**karolekse**|verbo|hindia:क्रिया (kriyā), bengala:ক্রিয়া (kriya), teluga:క్రియ (kriya), kmera:កិរិយា (keriyaa), taja:กริยา (grì-yaa), malaja:kata kerja|
 |**karvane**|karavano|persa:urdua:(kârvân), turka:kervan, hindia:कारवाँ (kārvā̃), angla:caravan, deu:Karawane, franca:caraven, hispana:portugala:caravana, polona:karawana, rusa:караван (karavan), filipina:karabana, japana:キャラバン (kyaraban), korea:카라반 (karaban)|
 |**kastane**|kaŝtano|hispana:castaňa, araba:(kastanāʾ), turka:kestane, rusa:каштан (kaštan)|
 |**kastore**|kastoro|franca:portugala:hispana:castor, filipina:turka:kastor|
@@ -395,6 +396,7 @@
 |**kose**|tuso|rusa:кашель (kašel'), polona:kaszel, bengala:কাশা (kaśa), mandarena:咳嗽 (késou)|
 |**kote**|palto|angla:coat, svahila:koti, oroma:koota, japana:コート (kōto), persa:(kot), hindia:कोट (kot)|
 |**koy**|iu|hindia:कोई (koī), urdua:(koī), rusa:кое- (koye-)|
+|**krabe**|krabo|angla:crab, deu:Krebs, franca:crabe, rusa:краб (krab)|
 |**krane**|krano (valvo)|ned:kraan, rusa:кран (kran), polona:kran, malaja:keran|
 |**kreme**|kremo|franca:crème, portugala:creme, hispana:crema, angla:cream, japana:クリーム (kurīmu)|
 |**krepe**|krepo (patkuko)|franca:angla:crêpe, portugala:crepe, hispana:crepa, turka:krep, itala:crespella|
@@ -476,7 +478,7 @@
 |**milke**|lakto|angla:milk, deu:Milch, japana:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, rusa:молоко (moloko)|
 |**minare**|turo|svahila: mnara, turka: minare, + angla:minaret|
 |**mirer**|spegulo|angla:mirror, franca:miroir, araba:mirʾāh, arz:mirāya|
-|**misale**|ekzemplo|hindia:मिसाल (misāl), araba:(mithāl)|
+|**misale**|ekzemplo|hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, turka:mesela|
 |**misria**|Egipto|araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)|
 |**mixa**|miksi|deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)|
 |**moge**|inko|mandarena:墨 (mò), vjetnama:mực, taja:หมึก (muk)|
@@ -575,6 +577,7 @@
 |**pulmone**|pulmo|hispana:pulmón, franca:poumon, portugala:pulmão, angla:pulmonic|
 |**punte**|punkto|hispana:punto, rusa:пункт (punkt), angla:point|
 |**purani**|malnova|hindia:पुराना (purānā), urdua:(purānā), bengala:পুৰণা (puron), panĝaba:ਪੁਰਾਣਾ (purāṇā)|
+|**puri**|plena|hindia:पूर्ण (pūrn), bengala:পূর্ণ (pūrṇa), panĝaba:ਪੂਰਾ (pūrā), persa:(por)|
 |**pute**|ido (infano)|taja:บุตร (but), hindia:पूत (pūt), पुत्र (putra), bengala:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), malaja:putera, teluga:పుత్రుడు (putruḍu)|
 |**putong**|generala (universala)|mandarena:普通 (pǔtōng), kantona:普通 (pou2tung1), vjetnama:phổ thông, korea:보통 (botong)|
 |**rampe**|ramplo|franca:rampe, angla:ramp, portugala:hispana:rampa, japana:ランプ (ranpu)|

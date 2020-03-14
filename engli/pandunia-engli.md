@@ -60,7 +60,7 @@ almar - cupboard (closet, cabinet, wardrobe)
 almase - diamond  
 alo - otherwise (else)  
 alofone - allophone  
-alonami - that is (in other words, i.e., alias)  
+alonamo - that is (in other words, i.e., alias)  
 aloraya - disagree  
 aloraye - disagreement (disconsent)  
 aloromansi - heteroromantic  
@@ -72,8 +72,9 @@ alumin - aluminium
 ama - love (to be in love with)  
 amari - Amhara (an Ethiopian ethnic group and language)  
 ame - love (liking, affection)  
-amen - certain (sure, certainly, amen)  
 amena - assure (affirm)  
+ameni - certain (sure)  
+ameno - certainly (surely,amen)  
 amerike - America (continent)  
 ameriki - American  
 amerikium - americium  
@@ -316,6 +317,8 @@ botolefte - port (left side of a ship)
 botone - button  
 botoraite - starboard (right side of a ship)  
 botoxefe - captain  
+bravi - brave (gallant, valiant)  
+bravo - bravo!  
 brazavili kongolia - Congo (Brazzaville)  
 brazilia - Brazil  
 britania - United Kingdom  
@@ -652,12 +655,11 @@ fantazi - fantastic (imaginary)
 fantom - ghost (fantom)  
 farsi - Persian (Farsi)  
 fase - surface (face)  
-fasin - fascination  
+fasine - fascination  
 fata - make (manufacture)  
 fate - deed  
 fater - maker (manufacturer, factor)  
 fateria - factory  
-fatolekse - verb  
 favora - prefer  
 favori - favorite (preferred)  
 faxe - bandage (strip, ribbon)  
@@ -744,10 +746,8 @@ fransium - francium
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
-fula - fill  
 fulani - certain (indefinite, indeterminate, some, so-and-so)  
 fule - flower  
-fuli - full  
 fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
 funca - function (work)  
@@ -970,7 +970,6 @@ hondurasia - Honduras
 hongong - Hong Kong, SAR China  
 hore - hour  
 horizone - horizon  
-horizoni - horizontal (lateral)  
 hormon - hormone  
 horvatia - Croatia  
 hotel (hotele) - hotel  
@@ -1196,6 +1195,7 @@ karawe - caraway
 karbone - carbon (coal)  
 karbonodulokside - carbon dioxide  
 karde - card  
+kare - action (deed, performance, karma)  
 kariba - approach (get near)  
 karibe - proximity  
 karibi - near (close)  
@@ -1204,9 +1204,9 @@ karimi - generous (charitable)
 karimia - generosity (charity)  
 karite - shea (vitellaria)  
 karma - do (act, perform)  
-karme - action (deed, performance, karma)  
 karnadi - Kannada  
 karnadia - Karnataka  
+karolekse - verb  
 karote - carrot  
 karte - map (chart)  
 kartografia - cartography  
@@ -1364,6 +1364,7 @@ koy - some
 koy ren - someone (somebody)  
 koy sate - sometime  
 koy xey - something  
+krabe - crab  
 krane - valve (tap, faucet)  
 kratia - rule (reign)  
 kreme - cream  
@@ -1739,6 +1740,7 @@ mirer - mirror
 mirosonde - echo  
 misa - send (emit, transmit)  
 misale - example (instance of)  
+misalo - for example  
 miser - sender (transmitter)  
 misia - mission (transmission, emission)  
 miskini - poor (miserable)  
@@ -2210,7 +2212,10 @@ pule - bridge
 pulmone - lung  
 punte - point (period, full stop)  
 pupe - doll (puppet)  
+pura - fill  
 purani - old (ancient)  
+puri - full (complete)  
+puro - fully (completely)  
 putaw - grape  
 pute - child (son or daughter)  
 putong - common (general, universal)  
@@ -2285,7 +2290,8 @@ reunion - Réunion
 rezerva - reserve (book)  
 rezerve - reservation (booking, withholding)  
 rezine - resin  
-rezulte - result  
+rezulta - lead to (bring about, result to)  
+rezulte - result (outcome)  
 rici - rich  
 rime - rhyme (verse)  
 riske - risk  
@@ -2478,7 +2484,7 @@ simpli - simple (not complicated)
 sine - chest (breast)  
 singapur - Singapore  
 singe - lion  
-sinokase - rib cage  
+sinokafase - rib cage  
 sinye - sign (signal)  
 siri - secret  
 sirke - vinegar  
@@ -2588,7 +2594,8 @@ taiwania - Taiwan (Republic of China)
 tajikia - Tajikistan  
 taksa - collect fees or taxes  
 takse - tax (fee, fare)  
-taksokare - taxi  
+taksogare - taxi (cab)  
+taksometer - taximeter  
 tala - lower (put down)  
 tale - bottom  
 tali - low  
@@ -2792,7 +2799,7 @@ vine - wine
 vineria - winery  
 vinile - vinyl  
 vire - hero  
-viri - brave (bold, heroic)  
+viri - heroic  
 virus - virus  
 virusolojia - virology  
 visa - substitute (replace)  

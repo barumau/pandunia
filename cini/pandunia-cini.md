@@ -220,6 +220,7 @@ kande - 糖果
 kanosuyogas - 催泪瓦斯  
 karbonodulokside - 二氧化碳  
 karde - 牌  
+karolekse - 动词  
 karte - 地图  
 kartografia - 地图学  
 kata - 切  
@@ -309,6 +310,7 @@ metalojanger - 铁匠
 mey - 每  
 meze - 桌子  
 migra - 搬家  
+misalo - 比如  
 misria - 埃及  
 mita - 聚会  
 mite - 会议  
@@ -430,6 +432,7 @@ susane - 百合花
 suy (suye) - 水  
 suyogas - 蒸汽  
 ##t
+taksometer - 计程器  
 tami - 贪婪的  
 tarje - 翻译  
 tate - 岸  

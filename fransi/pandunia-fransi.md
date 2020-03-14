@@ -47,6 +47,7 @@ alumin - aluminium
 ama - aimer  
 amari - Amhara (groupe ethnique et langue éthiopienne)  
 ame - amour (affection)  
+ameno - sûrement  
 amerike - Amérique  
 ameriki - américain  
 ami - cher  
@@ -118,6 +119,7 @@ banse - bambou
 banye - bain  
 banyokamare - salle de bains  
 banyu - se baigner  
+barde - barbe  
 bari - lourd  
 barium - baryum  
 barka - féliciter  
@@ -147,6 +149,8 @@ bote - bateau
 botolefte - babord  
 botone - bouton  
 botoraite - tribord  
+bravi - brave  
+bravo - bravo!  
 bruni - brun (marron)  
 buke - livre  
 ##c
@@ -281,6 +285,7 @@ karbonodulokside - dioxyde de carbone
 karde - carte  
 karimi - généreux  
 karimia - générosité (charité)  
+karolekse - verbe  
 karte - carte  
 kartografia - cartographie  
 kava - creuser  
@@ -305,6 +310,7 @@ korne - corne
 korone - couronne  
 kosmi - cosmique  
 kosmia - cosmos  
+krabe - crabe  
 kreme - crème  
 krepe - crêpe  
 kreperia - crêperie  
@@ -382,6 +388,7 @@ meze - table
 migre - migration  
 migru - s'installer (déménager)  
 milke - lait  
+misalo - par exemple  
 misria - Égypte  
 mode - mode (façon, manière)  
 mole - mole (unité)  
@@ -455,6 +462,8 @@ problemi - problématique
 programe - programme  
 projete - projet  
 pule - pont  
+pura - remplir  
+puri - plein  
 pute - fils ou fille  
 ##r
 rang (range) - couleur  
@@ -518,6 +527,7 @@ susane - lys
 suy (suye) - eau  
 suyogas - vapeur d’eau  
 ##t
+taksometer - taximètre  
 tarje - traduction  
 tate - bord (rive)  
 tazi - frais  

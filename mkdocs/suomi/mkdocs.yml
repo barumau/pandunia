@@ -1,0 +1,22 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/suomi
+site_author: Risto Kupsala
+docs_dir: ../../suomi
+site_dir: ../../html/suomi
+theme: cerulean
+nav:
+    - Kotisivu: 'index.md'
+    - 'Opiskelu':
+        - 'Ääntäminen': abc.md
+        - 'Lauseita': fraze.md
+        - 'Kurssi': darse.md
+    - 'Sanasto':
+        - 'Maailman sanastot': dunia_loge.md
+        - 'Pandunia-suomi': pandunia-suomi.md
+        - 'Suomi-pandunia': suomi-pandunia.md
+        - 'Alkuperäsanasto': leksaslia.md
+    - 'Kielioppi': kanun.md
+    - 'Tietoa':
+        - 'Maailman yhteyskieli': dunia_bax.md
+        - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
+

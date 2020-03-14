@@ -32,7 +32,7 @@ Ahvenanmaa (Oolanti) - olandia
 ai! (au!) - ay  
 aihe (teema) - teme  
 aiheesta (-sta) - tema  
-aiheuttaa - saba  
+aiheuttaa (olla syynä) - saba  
 aikakausi - zamane  
 aikuinen - adulte  
 aina - pan sate  
@@ -202,6 +202,7 @@ boori - boron
 Bosnia ja Hertsegovina - bosnia  
 Botswana - cuania  
 Brasilia - brazilia  
+bravo! - bravo  
 Brazzavillen Kongo - brazavili kongolia  
 bromi - bromium  
 Brunei - bruneyia  
@@ -269,7 +270,7 @@ El Salvador - salvadoria
 ele - jeste  
 elegantti - xiki  
 elektroni - eletron  
-eli (toisin sanoen) - alonami  
+eli (toisin sanoen) - alonamo  
 elohopea - hurargente  
 elokuu - mes 8 (mes bal)  
 eläin - hewane  
@@ -308,6 +309,7 @@ Eritrea - eritria
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
 eräs (muuan, joku, jokin) - fulani  
+esimerkiksi - misalo  
 esimerkki - misale  
 Espanja - espania  
 esperanto - esperanti  
@@ -518,7 +520,7 @@ huominen - badi den
 huomio (kommentti, merkintä) - note  
 huone - kamare  
 huono - mal (mali)  
-hurma (lumo, tenho) - fasin  
+hurma (lumo, tenho) - fasine  
 hurraa (hurrata) - ura  
 huuli - labe  
 huume - droge  
@@ -1953,6 +1955,7 @@ Ranskan Guiana - giyania
 Ranskan Polynesia - fransi polinesia  
 raportoida (selostaa) - reporta  
 raportti (selostus, selonteko) - reporte  
+rapu (taskurapu) - krabe  
 rasismi (rotuoppi) - rasistia  
 rasisti - rasiste  
 raskaana (odottava) - hamili  
@@ -1986,7 +1989,7 @@ rikki - sulfe
 rikos - krime  
 rikos- (rikollinen) - krimi  
 rinta - sine  
-rintakehä - sinokase  
+rintakehä - sinokafase  
 riski - riske  
 riskialtis - riski  
 risteytys (hybridi) - hibride  
@@ -1994,6 +1997,7 @@ risti - kruse
 ristiinnaulita - krusofiksa  
 rivinvaihto - linyoparce  
 robotti - robote  
+rohkea (urhea, uljas) - bravi  
 roikuttaa - penda  
 rokote - vaksine  
 Romania - romania  
@@ -2303,7 +2307,8 @@ Taiwan - taiwania
 takki - kote  
 taksa (tariffi) - tarife  
 taksa (vero) - takse  
-taksi - taksokare  
+taksamittari - taksometer  
+taksi - taksogare  
 taktiikka - tatike  
 takuu - garante  
 tallenne (rekisteri) - defte  
@@ -2417,7 +2422,7 @@ tohtori - dotore
 tohtorin tutkinto - dotoria  
 tohveli - babuce  
 toiminta (funktio) - funca  
-toiminta (tekeminen, karma) - karme  
+toiminta (tekeminen, karma) - kare  
 toiminta - acion  
 toimintahäiriö - malofunce  
 toimittaja (journalisti, lehtimies) - gazeter  
@@ -2469,6 +2474,7 @@ tuomio - hakimer
 tuomita - hakima  
 tuore (raikas) - tazi  
 tuotanto - cania  
+tuottaa (johtaa tulokseen) - rezulta  
 tupakka - tabake  
 tuplata (kertoa kahdella) - dulo multa  
 turbaani - pagre  
@@ -2515,9 +2521,10 @@ tämä hetki (nyt) - zaye
 tänään - zayoden  
 täplä (läiskä) - binde  
 tärkeä - hami  
-täysi - fuli  
+täysi - puri  
+täysin - puro  
 täytetty pulla - mante  
-täyttää - fula  
+täyttää - pura  
 täytyä (olla pakko) - bixu  
 täällä (tuolla) - sa ye  
 törkeä - nindi  
@@ -2616,6 +2623,8 @@ varastaa - cora
 varaus (ennakkovaraus) - rezerve  
 varjo - saye  
 varkaus - core  
+varma - ameni  
+varmasti (totisesti, aamen) - ameno  
 varmistaa - amena  
 vartalo (varsi, torso) - torse  
 vartija (vahti) - garder  
@@ -2644,7 +2653,7 @@ veneillä - bota
 Venezuela - venezolia  
 Venäjä - rusia  
 venäläinen - rusi  
-verbi (teonsana) - fatolekse  
+verbi (teonsana) - karolekse  
 verho (huntu, peite) - hijabe  
 verhot - parde  
 veri - sange  

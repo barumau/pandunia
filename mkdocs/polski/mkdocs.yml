@@ -1,0 +1,21 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/polski
+docs_dir: ../../polski
+site_dir: ../../html/polski
+theme: cerulean
+nav:
+    - Główna: 'index.md'
+    - 'Info':
+        - 'Wprowadzenie': dunia_baxe.md
+        - 'Założenia': filsofe.md
+    - 'Nauka':
+        - 'Dźwięki i litery': abc.md
+        - 'Rozmówki': fraze.md
+        - 'Kurs': darse.md
+    - 'Słownik':
+        - 'Pandunia-polski': pandunia-polski.md
+        - 'Polski-pandunia': polski-pandunia.md
+        - 'Etymologia': leksaslia.md
+        - 'Wyszukaj': tiddly.html
+    - 'Gramatyka': kanun.md
+

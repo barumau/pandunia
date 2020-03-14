@@ -1,0 +1,23 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/pandunia
+site_author: Risto Kupsala
+docs_dir: ../../pandunia
+site_dir: ../../html/pandunia
+theme: cerulean
+nav:
+    - dom: 'index.md'
+    - aboce: abc.md
+    - sage:
+        - 'lili urse du tungi dante': urse_dante.md
+        - 'tin buze e guye': 3_buze_e_guye.md
+        - 'tin lili gurube': 3_lil_gurube.md
+    - kitabe:
+        - 'insan du putongi hake': putong_hake.md
+        - 'dini kitabe': dini_kitabe.md
+    - leksoliste:
+        - 'dexoname': dexonam.md
+        - 'leksaslia': leksaslia.md
+        - 'lekse da nombre': lekse_da_num.md
+    - filme: filme.md
+    - linke: linke.md
+

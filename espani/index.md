@@ -30,12 +30,11 @@ Algunas características notables de Pandunia:
 
 - Diccionario [Español-Pandunia](espani-pandunia.md)
 - Diccionario [Pandunia-Español](pandunia-espani.md)
-- [Diccionario con buscador](tiddly.html) (en inglés)
+- [Diccionario etimologico](leksaslia.md)
 
 ## Artículos
 
-<!-- - [Pandunia - un idioma nuevo](dunia_pijin.md) -->
-- [Presentación (PDF en inglés)](Pandunia-presentation.pdf)
+- [Presentación (PDF en inglés)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, un idioma de contacto
   global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
   un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)

@@ -44,15 +44,16 @@ almar - ŝranko
 almase - diamanto  
 alo - alie  
 alofone - alofono  
-alonami - tio estas (alivorte)  
+alonamo - tio estas (alivorte)  
 aloraya - malkonsenti  
 aloseksi - samseksema  
 altare - altaro  
 alumin - aluminio  
 ama - ami (ŝati)  
 ame - amo  
-amen - certa  
 amena - certigi  
+ameni - certa  
+ameno - certe  
 amerike - Ameriko  
 ameriki - amerika  
 amerikium - americio  
@@ -221,6 +222,8 @@ botole - botelo
 botolefte - babordo  
 botone - butono  
 botoraite - tribordo  
+bravi - brava  
+bravo - brave!  
 brazilia - Brazilo  
 bromium - bromo  
 broxe - broso  
@@ -445,12 +448,11 @@ fantazi - fantazia
 fantom - fantomo  
 farsi - persa  
 fase - surfaco  
-fasin - fascinado  
+fasine - fascinado  
 fata - fari  
 fate - faro  
 fater - fabrikisto  
 fateria - fabriko  
-fatolekse - verbo  
 faxiste - faŝisto  
 faxistia - faŝismo  
 febre - febro  
@@ -510,10 +512,8 @@ fransia - Francio
 fransium - franciumo  
 fuka - vesti  
 fuke - vesto  
-fula - plenigi  
 fulani - iu  
 fule - floro  
-fuli - plena  
 fulovaze - vazo (florpoto)  
 funca - funkcii  
 fune - polvo  
@@ -783,9 +783,10 @@ karawe - karvio
 karbone - karbono  
 karbonodulokside - karbona dioksido  
 karde - karto  
+kare - agado (karmo)  
 karibi - proksima  
 karma - agi  
-karme - agado (karmo)  
+karolekse - verbo  
 karote - karoto  
 karvane - karavano  
 kastane - kaŝtano  
@@ -816,7 +817,7 @@ kexosabun - ŝampuo
 ki ren - kiu?  
 ki sate - kiam?  
 ki xey - kio?  
-ki yangi - kial?  
+ki yangi - kia?  
 kil - mil  
 kilometre - kilometro  
 kimia - ĥemio (kemio)  
@@ -866,6 +867,7 @@ koy - iu
 koy ren - iu persono  
 koy sate - iam  
 koy xey - io  
+krabe - krabo  
 krane - krano (valvo)  
 kratia - regi  
 kreme - kremo  
@@ -1034,6 +1036,7 @@ mira - speguli
 mirer - spegulo  
 mirosonde - eĥo  
 misale - ekzemplo  
+misalo - ekzemple  
 miskini - mizera  
 misri - egipta  
 misria - Egipto  
@@ -1245,7 +1248,10 @@ protacinium - protaktinio
 pule - ponto  
 pulmone - pulmo  
 punte - punkto  
+pura - plenigi  
 purani - malnova  
+puri - plena  
+puro - plene  
 putaw - vinbero  
 pute - ido (infano)  
 putong - generala (universala)  
@@ -1376,7 +1382,7 @@ simpli - simpla
 sine - brusto  
 singapur - Singapuro  
 singe - leono  
-sinokase - torako  
+sinokafase - torako  
 sirke - vinagro  
 sisme - tertremo  
 sismolojia - sismologio  
