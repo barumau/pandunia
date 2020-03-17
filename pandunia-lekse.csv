@@ -901,8 +901,8 @@ hamu||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tä
 hande|badan||hin:हाथ (hāth), ben:হাত (hat), eng:hand|hand|main|mano|mão|рука|إيد|手|手|손|tay|हाथ|হাত|tangan (yad)|mkono|el|mano|käsi|ręka, dłoń
 handi||||manual||manual|||||||||||||mana|käsi-|ręczny
 haose||||chaos (disorder, turmoil)||caos (desorden)|||||||||||||kaoso (malordo)|kaaos|chaos, nieporządek; wrzawa, zgiełk
-haraba||||ruin (destroy, devastate, demolish)||arruinar (destruir, devastar, asolar)||||||||||||||pilata (tuhota)|rujnować, dewastwować, burzyć
-harabi|||ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|bad (ruined, destroyed)||arruinado (devastado, asolado)|||||||||||||ruinigita|pilalla (raunioina)|zły, zrujnowany, zepsuty
+haraba||||ruin (destroy, devastate, demolish)||arruinar (destruir, devastar, asolar)|||||||||||kuharibu|||pilata (tuhota)|rujnować, dewastwować, burzyć
+harabi|||ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu|bad (ruined, destroyed)||arruinado (devastado, asolado)|||||||||||||ruinigita|pilalla (raunioina)|zły, zrujnowany, zepsuty
 harama||||forbid (ban, disallow)||prohibir||||||||||||||kieltää|zabronić (wzbronić, zakazać)
 harami|||ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|forbidden (illicit, haram, taboo)||prohibido (tabú)||||||||||||||kielletty|zabroniony (wzbroniony, nielegalny, haram, tabu)
 harfe|||ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|letter (character, written symbol)||letra (carácter)|||||||||||herufi|harf|litero|kirjain|litera, znak
@@ -1098,7 +1098,8 @@ jibutia|dex|DJ||Djibouti||Yibuti||||||||||||||Djiboutia|Dżibuti
 jina|||zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|advance (progress, enter)||avanzar (entrar, adelantar, progresar)||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
 jino||||foreward||adelante|||||||||||||||naprzód
 jinomun||||entrance||entrada|||||||||||||||wejście
-jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|sort (kind, type, genus)|genre (espèc)|género|gênero|род|جِنْس|属|属|속||वंश|||jinsi|cins|genro|laji (sortti)|rodzaj (typ, g
+jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero|gender (biological sex)|sexe|sexo|sexo|пол|جِنْس|性别|性別|성별|giới tính|लिंग|লিঙ্গ|jenis kelamin|jinsia|cinsiyet|sekso|sukupuoli|płeć
+jinsi||||sexual (pertaining to gender)|||||||||||||||seksa|sukupuolinen|
 jirafe|||ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
 joke||||joke||broma (chiste)||||||||||||||vitsi|żart
 joker||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
@@ -1344,6 +1345,7 @@ kore|||spa:coro, tur:koro, eng:chorus, hin:कोरस (koras), ara:(korāl)|ch
 korne|||fra:corne, por:corno, eng:horn, ara:(qarn)|horn|corne|corno|||||||||||||korno|sarvi|róg
 kornonose||||rhinoceros||rinoceronte||носорог|||||||||||rinocero|sarvikuono|nosorożec
 korone|||fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|crown|couronne|corona||корона|||||||||||krono|kruunu|korona
+koronovirus||||corona virus|||||||||||||||krunviruso|koronavirus|
 korta||||shorten||acortar (abreviar)|||||||||||||mallongigi|lyhentää|skrócić, skracać
 korti|||spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|short (brief)||corto (breve)|||||||||||||mallonga|lyhyt|krótki
 kose|||rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)|cough||tos|||||||||||||tuso|yskä|kaszel; kaszlnięcie
@@ -2381,12 +2383,11 @@ samarium|mate|Sm||samarium||samario|||||||||||||samario||samar
 samemose||||compassion (sympathy)|compassion|compasión|compaixão|сострадание|||||||||||kompato|myötätunto (sympatia)|współczucie
 sami|||may:sama, hin:सम (sam), eng:same, rus:самый (samyy), fra:semblable|same (similar)||similar (mismo)||||||||||sama|||sama|sama|taki sam
 samodexi||||compatriot||compatriota|||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
-samojinsokami||||homosexual||homosexual|||||||||||||samseksema|homoseksuaali|homoseksualny
 samonam||||homonym||homónimo||||||||समनाम||||||homonyymi|homonim
 samoraya||||agree (concur)||acordar|||||||||||||samopinii (interkonsenti)|olla samaa mieltä|potwierdzić, potwierdzać, zgodzić się, zgadzać się
 samoraye||||agreement (consent)|accord|acuerdo|acordo|согласие||一致||||सहमति||persetujuan||anlaşma|interkonsento|yhteisymmärrys|porozumienie
 samoromansi||||homoromantic||homorromántico|||||||||||||||homoromantyczny
-samoseksi||||homosexual||homosexual|||||||||||||||homoseksualny
+samoseksi||||homosexual||homosexual|||||||||||||samseksema|homoseksuaali|homoseksualny
 samowia|dex|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
 samu||||resemble (be like)||parecerse a|||||||||||||||być podobnym, być jak
 samude|||khm:សមុទ្រ (saʾmot), tha:สมุทร (samut), hin:समुद्र (samudra), urd:(samandar), may:samudra, ben:সমুদ্র (sômudr), guj:સમુદ્ર (samudra), tel:సముద్రము (samudramu), mya:သမုဒ္ဒရာ (samuddara)|sea|mer|mar|mar|море||海||||समन्दर (समुद्र)||laut (samudera)||deniz|maro|meri|może
@@ -2423,10 +2424,8 @@ seaborgium|mate|Sg||seaborgium||seaborgio|||||||||||||seborgio||seaborg
 sekreter||||secretary||secretario||||||||||||||sihteeri|sekretarz
 sekreteria||||secretariat||secretaría||||||||||||||sihteeristö|sekretariat
 seksa||||have sex||tener sexo|||||||||||||||kochać się, uprawiać seks
-sekse|||eng:sex, fra:sexe, spa:por:sexo|gender (biological sex)|sexe|sexo|sexo|пол|جِنْس|性别|性別|성별|giới tính|लिंग|লিঙ্গ|jenis kelamin|jinsia|cinsiyet|sekso|sukupuoli|płeć
-sekse||||sex (sexual intercourse)||sexo|||||||||||||sekso|seksi (sukupuolinen kanssakäyminen)|seks, stosunek płciowy
-seksi||||sexual (relating to gender)||sexual||||||||||||||seksuaalinen (sukupuoli-)|płciowy
-seksi||||sexy (sexual)||sexy (sexual)|||||||||||||||seksowny, ponętny
+sekse|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
+seksi||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
 sekunde||||second(s)||segundo||||||||||||||sekunti|sekunda
 sekundometer||||stop watch||cronómetro||||||||||||||sekuntikello|stoper
 sekura||||protect (secure, save)||proteger (asegurar, guardar)||||||||||||||suojella (suojata, turvata)|chronić (ratować)

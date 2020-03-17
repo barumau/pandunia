@@ -731,7 +731,6 @@ holm - holmium
 hologram - holograme  
 homonim - samonam  
 homoromantyczny - samoromansi  
-homoseksualny - samojinsokami  
 homoseksualny - samoseksi  
 Honduras - hondurasia  
 Hong Kong - hongong  
@@ -1993,8 +1992,7 @@ płaski - pingi
 płaski chleb, ćapati - capate  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
-płciowy - seksi  
-płeć - sekse  
+płeć - jinse  
 płuco - pulmone  
 ##r
 rabuś (grabieżca) - luter  
@@ -2044,7 +2042,6 @@ robot - robote
 rocznica - nenofeste  
 rod - rodium  
 rodak, ziomek, krajan - samodexi  
-rodzaj (typ, g - jinse  
 rodzaj, typ, styl - yange  
 rodzeństwo, brat lub siostra - saudar  
 rodzic (matka lub ojciec) - jener  

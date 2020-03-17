@@ -612,6 +612,7 @@ copyright - kopiyohake
 core (nucleus, kernel) - kerne  
 corn (maize) - maise  
 corner (angle) - gone  
+corona virus - koronovirus  
 correct (make right) - saha  
 cosmic - kosmi  
 cost (price) - koste  
@@ -1040,7 +1041,7 @@ gauze - gaze
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gender (biological sex) - sekse  
+gender (biological sex) - jinse  
 genderqueer (non-binary) - bise  
 generosity (charity) - karimia  
 generous (charitable) - karimi  
@@ -1212,7 +1213,6 @@ Holy See (Vatican City State) - vatikania
 home (residence) - dom (dome)  
 homonym - samonam  
 homoromantic - samoromansi  
-homosexual - samojinsokami  
 homosexual - samoseksi  
 Honduras - hondurasia  
 honey - mele  
@@ -2394,10 +2394,10 @@ service - serve
 sesame - sesam  
 seven (7) - sem  
 sew - suta  
-sex (sexual intercourse) - sekse  
-sexual (relating to gender) - seksi  
+sex (sexual relation) - sekse  
+sexual (pertaining to gender) - jinsi  
 sexual desire (lust) - kamia  
-sexy (sexual) - seksi  
+sexy (sexually arousing) - seksi  
 Seychelles - sexel nesia  
 shadow - saye  
 shaman - xamane  
@@ -2494,7 +2494,6 @@ son - mani bace
 song - cante  
 soon - suno  
 sorry (pardon) - pardon (pardone)  
-sort (kind, type, genus) - jinse  
 soul (mind, psyche) - ruhe  
 sound (audio) - sonde  
 sound (make a sound) - sonda  

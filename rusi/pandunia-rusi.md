@@ -198,7 +198,7 @@ jana - знать
 je - который  
 jeni baxe - родной язык  
 jenotipe - генотип  
-jinse - род  
+jinse - пол  
 jirafe - жираф  
 jule - джоуль (J)  
 jumle - фраза  
@@ -407,7 +407,6 @@ sanduke - сундук
 sange - кровь  
 sapate - حِذَاء  
 sare - голова  
-sekse - пол  
 selolojia - цитология  
 seme - семя  
 semi - семенной  

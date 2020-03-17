@@ -1097,7 +1097,7 @@ jibutia - Yibuti
 jina - avanzar (entrar, adelantar, progresar)  
 jino - adelante  
 jinomun - entrada  
-jinse - género  
+jinse - sexo  
 jirafe - jirafa  
 joke - broma (chiste)  
 joker - bromista (chistoso)  
@@ -2377,7 +2377,6 @@ samarium - samario
 samemose - compasión  
 sami - similar (mismo)  
 samodexi - compatriota  
-samojinsokami - homosexual  
 samonam - homónimo  
 samoraya - acordar  
 samoraye - acuerdo  
@@ -2420,8 +2419,6 @@ sekreter - secretario
 sekreteria - secretaría  
 seksa - tener sexo  
 sekse - sexo  
-sekse - sexo  
-seksi - sexual  
 seksi - sexy (sexual)  
 sekunde - segundo  
 sekundometer - cronómetro  

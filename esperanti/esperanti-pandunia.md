@@ -477,7 +477,6 @@ gazeto - habarogazete
 gazo - gaze  
 geedzeco - maria  
 generala (universala) - putong  
-genro - jinse  
 genuo - gute  
 germaniumo - germanium  
 gitaro - gitare  
@@ -777,6 +776,7 @@ krom (escepti) - cula
 kromo - kromium  
 krono - korone  
 kruco - kruse  
+krunviruso - koronovirus  
 ksenono - xenon  
 kubo - kube  
 kuko - keke  
@@ -1292,7 +1292,7 @@ samlandano - samodexi
 samopinii (interkonsenti) - samoraya  
 samseksema - aloseksi  
 samseksema - geyi  
-samseksema - samojinsokami  
+samseksema - samoseksi  
 sana - sihi  
 sangi - lowa sang  
 sango - sange  
@@ -1311,7 +1311,8 @@ se - aga
 seborgio - seaborgium  
 sed - a  
 seka - gani  
-sekso - sekse  
+seksa - jinsi  
+sekso - jinse  
 sekso - sekse  
 sekva - badi  
 sekvi - bada  

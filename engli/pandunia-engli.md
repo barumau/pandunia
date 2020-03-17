@@ -1103,7 +1103,8 @@ jibutia - Djibouti
 jina - advance (progress, enter)  
 jino - foreward  
 jinomun - entrance  
-jinse - sort (kind, type, genus)  
+jinse - gender (biological sex)  
+jinsi - sexual (pertaining to gender)  
 jirafe - giraffe  
 joke - joke  
 joker - joker  
@@ -1350,6 +1351,7 @@ kore - choir (chorus)
 korne - horn  
 kornonose - rhinoceros  
 korone - crown  
+koronovirus - corona virus  
 korta - shorten  
 korti - short (brief)  
 kose - cough  
@@ -2392,7 +2394,6 @@ samarium - samarium
 samemose - compassion (sympathy)  
 sami - same (similar)  
 samodexi - compatriot  
-samojinsokami - homosexual  
 samonam - homonym  
 samoraya - agree (concur)  
 samoraye - agreement (consent)  
@@ -2434,10 +2435,8 @@ seaborgium - seaborgium
 sekreter - secretary  
 sekreteria - secretariat  
 seksa - have sex  
-sekse - gender (biological sex)  
-sekse - sex (sexual intercourse)  
-seksi - sexual (relating to gender)  
-seksi - sexy (sexual)  
+sekse - sex (sexual relation)  
+seksi - sexy (sexually arousing)  
 sekunde - second(s)  
 sekundometer - stop watch  
 sekura - protect (secure, save)  

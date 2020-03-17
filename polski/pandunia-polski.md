@@ -1100,7 +1100,7 @@ jibutia - Dżibuti
 jina - posuwać się do przodu (dokonywać postępu, wejść)  
 jino - naprzód  
 jinomun - wejście  
-jinse - rodzaj (typ, g  
+jinse - płeć  
 jirafe - żyrafa  
 joke - żart  
 joker - żartowniś, dowcipniś  
@@ -2385,7 +2385,6 @@ samarium - samar
 samemose - współczucie  
 sami - taki sam  
 samodexi - rodak, ziomek, krajan  
-samojinsokami - homoseksualny  
 samonam - homonim  
 samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samoraye - porozumienie  
@@ -2427,9 +2426,7 @@ seaborgium - seaborg
 sekreter - sekretarz  
 sekreteria - sekretariat  
 seksa - kochać się, uprawiać seks  
-sekse - płeć  
 sekse - seks, stosunek płciowy  
-seksi - płciowy  
 seksi - seksowny, ponętny  
 sekunde - sekunda  
 sekundometer - stoper  

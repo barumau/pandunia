@@ -728,7 +728,8 @@ jeni baxe - hejmlingvo
 jenoden - naskiĝtago  
 jentili - bonkora  
 jenu - naski  
-jinse - genro  
+jinse - sekso  
+jinsi - seksa  
 jirafe - ĝirafo  
 jovane - junulo  
 jovani - juna  
@@ -860,6 +861,7 @@ kopiye - kopio
 korne - korno  
 kornonose - rinocero  
 korone - krono  
+koronovirus - krunviruso  
 korta - mallongigi  
 korti - mallonga  
 kose - tuso  
@@ -1344,9 +1346,9 @@ samarium - samario
 samemose - kompato  
 sami - sama  
 samodexi - samlandano  
-samojinsokami - samseksema  
 samoraya - samopinii (interkonsenti)  
 samoraye - interkonsento  
+samoseksi - samseksema  
 samude - maro  
 samudi - mara  
 sanduke - skatolo (kesto)  
@@ -1359,7 +1361,6 @@ saudar - frato aŭ fratino
 saune - saŭno  
 saye - ombro  
 seaborgium - seborgio  
-sekse - sekso  
 sekse - sekso  
 sele - ĉelo  
 selenium - seleno  

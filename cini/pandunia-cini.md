@@ -198,7 +198,7 @@ janger - 工匠 (匠人)
 jeka - 借  
 jeni baxe - 母语  
 jenotipe - 基因型  
-jinse - 属  
+jinse - 性别  
 jirafe - 长颈鹿  
 jule - 焦耳 (J)  
 jumle - 句子  
@@ -409,7 +409,6 @@ sange - 血
 sapate - 鞋  
 sare - 头  
 saturne - 土星  
-sekse - 性别  
 selolojia - 细胞学  
 seme - 种  
 semi - 种子的  

@@ -1058,7 +1058,8 @@ jeste - ele
 jibraltar - Gibraltar  
 jibutia - Djiboutia  
 jina - edetä (edistyä)  
-jinse - laji (sortti)  
+jinse - sukupuoli  
+jinsi - sukupuolinen  
 jirafe - kirahvi  
 joke - vitsi  
 joker - vitsiniekka  
@@ -1286,6 +1287,7 @@ kore - kuoro
 korne - sarvi  
 kornonose - sarvikuono  
 korone - kruunu  
+koronovirus - koronavirus  
 korta - lyhentää  
 korti - lyhyt  
 kose - yskä  
@@ -2276,10 +2278,10 @@ samane - taivas
 samemose - myötätunto (sympatia)  
 sami - sama  
 samodexi - samanmaalainen (maanmies)  
-samojinsokami - homoseksuaali  
 samonam - homonyymi  
 samoraya - olla samaa mieltä  
 samoraye - yhteisymmärrys  
+samoseksi - homoseksuaali  
 samowia - Samoa  
 samude - meri  
 samudi - meri- (merellinen)  
@@ -2308,8 +2310,8 @@ saune - sauna
 saye - varjo  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
-sekse - seksi (sukupuolinen kanssakäyminen)  
-sekse - sukupuoli  
+sekse - seksi (sukupuolisuhde)  
+seksi - seksikäs  
 sekunde - sekunti  
 sekundometer - sekuntikello  
 sekura - suojella (suojata, turvata)  

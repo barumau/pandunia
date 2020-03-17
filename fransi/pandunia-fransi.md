@@ -261,7 +261,7 @@ jeka - empruntre
 jekodona - prêter  
 jeni baxe - langue maternelle  
 jenotipe - génotype  
-jinse - genre (espèc)  
+jinse - sexe  
 jirafe - giraffe  
 jule - joule (J)  
 junge - centre  
@@ -501,7 +501,6 @@ sanduice - sandwich
 sange - sang  
 sare - tête  
 saturne - Saturne  
-sekse - sexe  
 sekuri - sûr  
 selolojia - cytologie  
 seme - semence  

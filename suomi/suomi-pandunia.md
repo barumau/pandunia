@@ -493,7 +493,7 @@ holmium - holmium
 hologrammi - holograme  
 homo (homoseksuaali) - geyi  
 homonyymi - samonam  
-homoseksuaali - samojinsokami  
+homoseksuaali - samoseksi  
 Honduras - hondurasia  
 Hong Kong - hongong  
 hopea - argente  
@@ -973,6 +973,7 @@ korjaus - xule
 korkata - tapula  
 korkea - gawi  
 korkittaa (tukkia) - tapa  
+koronavirus - koronovirus  
 kortti - karde  
 koruton (tavanomainen, pelkkä) - sadi  
 korva - ore  
@@ -1118,7 +1119,6 @@ lahja - done
 lainata (siteerata) - cita  
 lainausmerkki - citi marke  
 laivakaappari - botokaper  
-laji (sortti) - jinse  
 laji (tyyppi, tyyli) - yange  
 laji - jonge  
 laki - kanune  
@@ -2107,8 +2107,8 @@ seistä (seisoa) - libu
 seitsemän (7) - sem  
 sekoitin - mixer  
 sekoittaa - mixa  
-seksi (sukupuolinen kanssakäyminen) - sekse  
-seksuaalinen (sukupuoli-) - seksi  
+seksi (sukupuolisuhde) - sekse  
+seksikäs - seksi  
 sekunti - sekunde  
 sekuntikello - sekundometer  
 seleeni - selenium  
@@ -2219,7 +2219,8 @@ sukka - soke
 suklaa - cokolate  
 suklaapatukka - cokolatobaton  
 sukunimi - familonam  
-sukupuoli - sekse  
+sukupuoli - jinse  
+sukupuolinen - jinsi  
 sulaa yhteen (fuusioitua) - liwunu  
 sulka - pere  
 sulkea vetoketjulla - zipa  

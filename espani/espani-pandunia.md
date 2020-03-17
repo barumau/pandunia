@@ -1250,7 +1250,6 @@ gustarse (querer) - fila
 gusto (sabor) - guste  
 Guyana - gayania  
 Guyana Francesa - giyania  
-género - jinse  
 ##h
 haber (en el pasado) - pas (paso)  
 habilidad - able  
@@ -1321,7 +1320,6 @@ holograma - holograme
 hombre (señor) - maturi man  
 hombro - kante  
 homorromántico - samoromansi  
-homosexual - samojinsokami  
 homosexual - samoseksi  
 homónimo - samonam  
 Honduras - hondurasia  
@@ -2555,9 +2553,8 @@ serie - serye
 serpiente (culebra) - serpe  
 servicio - serve  
 servir - serva  
+sexo - jinse  
 sexo - sekse  
-sexo - sekse  
-sexual - seksi  
 sexy (sexual) - seksi  
 Seychelles - sexel nesia  
 señal (letrero, indicio) - sinye  
