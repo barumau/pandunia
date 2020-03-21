@@ -77,12 +77,12 @@ They are described in more detail later in this document.
 2. The stress is placed on the syllable before the last consonant of the word.
 3. Words consist of a stem and one or more suffixes.
    The last suffix indicates the word class to which the word belongs.
-   - Adjectives end in **-i**, ex. **novi** = new.
-   - Adverbs end in **-o**, ex. **novo** = newly.
-   - Active verbs end in **-a**, ex. **me loga** = I speak.
-   - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
-   - Nouns end in **-e**, **-ia** or zero.
-4. Nouns have a single, unchangeable form.
+    - Adjectives end in **-i**, ex. **novi** = new.
+    - Adverbs end in **-o**, ex. **novo** = newly.
+    - Active verbs end in **-a**, ex. **me loga** = I speak.
+    - Passive verbs end in **-u**, ex. **le logu** = It is spoken.
+    - Nouns end in **-e**, **-ia** or a consonant.
+4. Nouns have a single, unchanging form.
 5. Adjectives come before the word that they modify.
    All adjectives, except the most common few, end in **-i**.
     - ex. **rapidi loge** = Fast speech.
