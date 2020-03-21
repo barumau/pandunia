@@ -70,7 +70,7 @@ or to take the honorary suffix **san** as in **mari-san**.
 
 ### 1.3. The basic rules
 
-These are the ten basic rules of Pandunia language.
+These are the basic rules of Pandunia language.
 They are described in more detail later in this document.
 
 1. The spelling follows the pronunciation exactly.
@@ -1137,9 +1137,9 @@ For example from **novi** (_new_) we get **nove** (_a novelty_ i.e. something ne
 
 Additional noun suffixes are presented below.
 
-#### 11.1.4. Deriving modifiers
+#### 11.1.4. Deriving adjectives
 
-**-i** is the ending for modifiers that include adjectives, adverbs and and adjectival verbs.
+**-i** is the ending for adjectives and adjectival verbs.
 
 If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
 For example from **nov-** (_newness_), we get **novi** (_new_ i.e. _that which is new_).
