@@ -5,7 +5,7 @@ a (hacia) - pa
 abeja - melovespe  
 abeja o avispa - vespe  
 abierto (extenso) - maidani  
-abierto - kaya  
+abierto - kayi  
 abirse - kayu  
 Abisinia - habaxia  
 abisinio - habaxi  
@@ -14,7 +14,7 @@ abluelo - lawopape
 aborigen - aslaustrali  
 abrigo (chaqueta) - kote  
 abril - mes 4 (mes car)  
-abrir - kayi  
+abrir - kaya  
 abuela - lawomame  
 aburrido - bori  
 aburrimiento - boria  
@@ -96,7 +96,7 @@ alicate - pinser
 almendra - badame  
 almohada - kuxene  
 almuerzo - denoniam  
-alojar (hospedar) - dom (dome)  
+alojar (hospedar) - doma  
 alquilar - kirisa  
 alquiler - kire  
 altar - altare  
@@ -446,7 +446,7 @@ carpa (toldo) - haime
 carpintero - mokojanger  
 cartografía - kartografia  
 carvis (alcaravea) - karawe  
-casa (hogar, residencia) - doma  
+casa (hogar, residencia) - dom (dome)  
 casado - mari  
 casamiento - maria  
 casar - mara  
@@ -618,12 +618,11 @@ confucianismo - konfuzistia
 confucio - konfuze  
 confundido - konfusi  
 confundir - konfusu  
-confundirse (cometer un error) - galta  
 congelarse (helarse) - aisu  
 congoleño - kongoli  
 cono - konuse  
 conocido - jani  
-consecuencia (dorso) - bade  
+consecuencia (siguiente) - bade  
 conseguir (obtener, recibir) - geta  
 consejero (asesor) - menter  
 consejo - mente  
@@ -650,7 +649,7 @@ coreano - coseni
 corno - korne  
 coro - kore  
 corona - korone  
-corpóreo - badani  
+corporal (corpóreo) - badani  
 correcto (justo) - sahi  
 corregir - saha  
 correo - poste  
@@ -677,7 +676,7 @@ creer - xindawistia
 crema - kreme  
 cremallera - ziper  
 cremoso - kremi  
-crepa - fransi krepe  
+crepa (crep, tortilla de trigo) - fransi krepe  
 criado (sirviente) - server  
 crimen (delito) - krime  
 criminal - krimi  
@@ -708,7 +707,7 @@ cubrir (tapar) - daka
 cuchara - camace  
 cuchillo - cake  
 cuenta (factura) - bile  
-cuerpo - bode  
+cuerpo - badan (badane)  
 cueva (caverna) - guhe  
 culombio - kulombe  
 culpa (defecto, crimen) - doxe  
@@ -952,6 +951,7 @@ entender (comprender) - aha
 entero (todo) - holi  
 entrada - jinomun  
 entre - medu  
+entristecer (poner triste) - duka  
 enviar (transmitar) - misa  
 envoltura - lifafe  
 envolver - lifafa  
@@ -965,6 +965,7 @@ erguido - libi
 erigir (montar, armar) - liba  
 Eris (planeta enano) - eris  
 Eritrea - eritria  
+errar (cometer un error) - galta  
 error - galte  
 erróneo - galti  
 es decir (en otras palabras) - alonamo  
@@ -1087,14 +1088,16 @@ fijar (pegar, asegurar) - fiksa
 Fiji - fijia  
 Filipinas - filipinia  
 filosofía - filosofia  
+filosófico - filosofi  
 filtro - filter  
 filósofo - filosofer  
-fin - fine  
+fin (el final) - fine  
 final (último) - fini  
 Finlandia - suomia  
 fino (delgado, delicado) - faini  
 finés - suomi  
 fiordo - fiorde  
+fisicoculturismo (culturismo, musculación) - muskulobine  
 fisión nuclear - kerni fenia  
 flerovio - flerovium  
 flor - fule  
@@ -1102,7 +1105,6 @@ florecer - fulu
 florero - fulovaze  
 fluir - liwu  
 flúor - flure  
-folosófico - filosofi  
 fondo - tale  
 fonema - foneme  
 fono (segmento acústico) - fone  
@@ -1145,7 +1147,7 @@ fácil - izi
 física - fizike  
 física - fizikia  
 física nuclear - kerni fizikia  
-físico - fiziker  
+físico (científico) - fiziker  
 fósforo - pospore  
 fútbol - futobol  
 ##g
@@ -1170,7 +1172,8 @@ gas - gase
 gas lacrimógeno - kanosuyogas  
 gasa - gaze  
 gaseoso - gasi  
-gasificar (convertir en gas) - gasu  
+gasificar - gasa  
+gasificarse - gasu  
 gasolina (bencina) - benzine  
 gato - maw (mawe)  
 gay (homosexual) - geyi  
@@ -1247,7 +1250,6 @@ gustarse (querer) - fila
 gusto (sabor) - guste  
 Guyana - gayania  
 Guyana Francesa - giyania  
-género - jinse  
 ##h
 haber (en el pasado) - pas (paso)  
 habilidad - able  
@@ -1257,7 +1259,7 @@ hablador (locuaz) - logivi
 hablante de Pandunia - panduniste  
 hablar (comunicarse) - baxa  
 hace girar (dar vueltas) - rota  
-hacedor (perpetrador) - er  
+hacedor (perpetrador) - er (ere)  
 hacer (actuar, cometer) - karma  
 hacer (verbo activo) - isa  
 hacer - fata  
@@ -1318,7 +1320,6 @@ holograma - holograme
 hombre (señor) - maturi man  
 hombro - kante  
 homorromántico - samoromansi  
-homosexual - samojinsokami  
 homosexual - samoseksi  
 homónimo - samonam  
 Honduras - hondurasia  
@@ -1603,7 +1604,7 @@ llave - cabe
 llenar - pura  
 lleno (completo) - puri  
 llevar (vestir) - fuka  
-llorar - duka  
+llorar - duku  
 llorar - kuga  
 lluvia - barxe  
 lluvioso (pluvioso) - barxi  
@@ -2229,7 +2230,7 @@ poseedor - tener
 poseer (ser dueño de) - malka  
 posible - abli  
 posiblemente - ablo  
-postura (actitud) - asan  
+postura (posición) - asane  
 potasio - kalium  
 practicar (ensayar, ejercitar) - lenxa  
 praseodimio - prasedim  
@@ -2484,7 +2485,7 @@ sacerdote (clérigo, eclesiástico) - dinogur
 saco - sake  
 sagrado (santo) - santi  
 sal - sale  
-sala de chat - blableria  
+sala de chat (tertuliadero) - blableria  
 salchicha - sosise  
 salida - cutomun  
 salino - sali  
@@ -2504,7 +2505,7 @@ San Cristóbal - santi kitse
 San Cristóbal y Nieves - santi kitse e nevis  
 San Marino - santi marinia  
 San Vicente y las Granadinas - santi vinsente e grenadin  
-sandía - arbuze  
+sandía (patilla) - arbuze  
 sangrar - lowa sang  
 sangre - sange  
 Santa Lucía - santi lusia  
@@ -2552,9 +2553,8 @@ serie - serye
 serpiente (culebra) - serpe  
 servicio - serve  
 servir - serva  
+sexo - jinse  
 sexo - sekse  
-sexo - sekse  
-sexual - seksi  
 sexy (sexual) - seksi  
 Seychelles - sexel nesia  
 señal (letrero, indicio) - sinye  
@@ -2805,7 +2805,7 @@ turco - turki
 turismo - safaristia  
 turista - safariste  
 Turkmenistán - turkomenia  
-turquesa - firuze  
+turquesa (piedra preciosa) - firuze  
 Turquía - turkia  
 Tuvalu - tuvalia  
 táctica (estrategia) - tatike  

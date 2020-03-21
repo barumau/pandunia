@@ -125,7 +125,7 @@ arvostelija (kriitikko) - pipinger
 ase - arme  
 asema (satama, lentokenttä) - porte  
 asema - estasia  
-asento - asan  
+asento - asane  
 asetelma - poze  
 asia (juttu) - masle  
 asia - xey (xeye)  
@@ -493,7 +493,7 @@ holmium - holmium
 hologrammi - holograme  
 homo (homoseksuaali) - geyi  
 homonyymi - samonam  
-homoseksuaali - samojinsokami  
+homoseksuaali - samoseksi  
 Honduras - hondurasia  
 Hong Kong - hongong  
 hopea - argente  
@@ -727,6 +727,7 @@ kaaos - haose
 kaappi - almar  
 kaasu - gase  
 kaasumainen - gasi  
+kaasuttaa - gasa  
 kaasuuntua - gasu  
 kade (kateellinen) - jelos  
 kadmium - kadomium  
@@ -816,7 +817,8 @@ kaupunki - nagre
 Kazakstan - kazakia  
 kebab (varrasliha) - kababe  
 kehitys - fajan  
-keho (ruumis) - bode  
+keho (ruumis) - badan (badane)  
+kehonrakennus (bodaus) - muskulobine  
 keidas - wase  
 keino (menetelmä, metodi) - metode  
 keinotekoinen (teko-, keino-) - cani  
@@ -971,6 +973,7 @@ korjaus - xule
 korkata - tapula  
 korkea - gawi  
 korkittaa (tukkia) - tapa  
+koronavirus - koronovirus  
 kortti - karde  
 koruton (tavanomainen, pelkkä) - sadi  
 korva - ore  
@@ -1116,7 +1119,6 @@ lahja - done
 lainata (siteerata) - cita  
 lainausmerkki - citi marke  
 laivakaappari - botokaper  
-laji (sortti) - jinse  
 laji (tyyppi, tyyli) - yange  
 laji - jonge  
 laki - kanune  
@@ -2105,8 +2107,8 @@ seistä (seisoa) - libu
 seitsemän (7) - sem  
 sekoitin - mixer  
 sekoittaa - mixa  
-seksi (sukupuolinen kanssakäyminen) - sekse  
-seksuaalinen (sukupuoli-) - seksi  
+seksi (sukupuolisuhde) - sekse  
+seksikäs - seksi  
 sekunti - sekunde  
 sekuntikello - sekundometer  
 seleeni - selenium  
@@ -2217,7 +2219,8 @@ sukka - soke
 suklaa - cokolate  
 suklaapatukka - cokolatobaton  
 sukunimi - familonam  
-sukupuoli - sekse  
+sukupuoli - jinse  
+sukupuolinen - jinsi  
 sulaa yhteen (fuusioitua) - liwunu  
 sulka - pere  
 sulkea vetoketjulla - zipa  
@@ -2236,8 +2239,9 @@ suorakulmainen - ortogoni
 suoristaa (ojentaa) - orta  
 suosikki (suosittu) - favori  
 suosittu (trendikäs) - faxoni  
+surettaa - duka  
 Surinam - surinamia  
-surra (murehtia) - duka  
+surra (murehtia) - duku  
 suru (murhe) - duke  
 surullinen - duki  
 sushi - suxe  
@@ -2366,7 +2370,7 @@ tehkäämme - haida
 teippi (nauha) - tepe  
 teismi (jumalusko) - dewistia  
 teisti - dewiste  
-tekijä (aikaansaaja) - er  
+tekijä (aikaansaaja) - er (ere)  
 tekijä (valmistaja) - fater  
 tekniikka (keino, menetelmä) - tehne  
 tekniikka (teknologia) - tehnolojia  

@@ -49,7 +49,7 @@
 |**arize**|riisi|tamili:அரிசி (arisi), arabia:(ʾaruzz), espanja:portugali:arroz, oromo:ruuzii, ranska:riz, venäjä:рис (ris), englanti:rice, deu:Reis|
 |**arme**|ase|ranska:arme, englanti:arms, espanja:portugali:arma|
 |**arte**|taide|espanja:portugali:arte, englanti:ranska:art, japani:アート (āto)|
-|**asan**|asento|hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)|
+|**asane**|asento|hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)|
 |**asle**|alkuperä|arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili|
 |**asme**|astma|ranska:asthme, englanti:asthma, espanja:portugali:malaiji:asma, puola:astma|
 |**ata**|asti (saakka)|portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata|
@@ -63,6 +63,7 @@
 |**bace**|lapsi|persia:(bačče), urdu:(baccā), hindi:बच्चा (baccā), gujarati: બચ્ચું (baccũ), filippiini: bata|
 |**badala**|vaihtaa|arabia:(badala), hindi:बदला (badlā), hausa:badali, suahili:badili|
 |**badame**|manteli|malaiji:badam, turkki:badem, hindi:बादाम (bādām), bangla:বাদাম (badam), yleiskiina:巴旦木 (bādànmù)|
+|**badan (badane)**|keho (ruumis)|englanti:body, arabia:(badan), hindi:बदन (badan), persia:urdu:(badan), turkki:beden|
 |**bagre**|tiikeri|hindi:बाघ (bāgh), bangla:বাঘ (bagh), + persia:(babr), + espanja:portugali:tigre, venäjä:(tigr)|
 |**bah**|pah (pyh)|englanti:espanja:italia:bah, portugali:ba|
 |**baki**|valkoinen (valkea)|kantoninkiina:白 (baak6), vietnami:bạch, Zho:白 (bái), japani:白 (haku), korea:백 (baek), + ranska:blanc, espanja:blanco, portugali:branco|
@@ -116,7 +117,6 @@
 |**bizi**|kiireinen|englanti:busy|
 |**biznese**|liiketoiminta (bisnes)|englanti:business, venäjä:бизнес (biznes)|
 |**blabla**|jutella (höpistä)|ranska:blablater, englanti:babble, espanja:blablablá|
-|**bode**|keho (ruumis)|englanti:body, arabia:(badan), hindi:बदन (badan), persia:urdu:(badan), turkki:beden|
 |**boke**|suu|espanja:portugali:boca|
 |**bol (bole)**|pallo|englanti:ball, espanja:portugali:malaiji:filippiini:bola, thai:บอล (bɔl), japani:ボール (bōru), korea:볼 (bol), khmer:បាល់ (bal), bangla:বল (bôl), deu:Ball, ranska:boule,balle|
 |**bombe**|pommi|puola:portugali:espanja:turkki:bomba, venäjä:бомба (bomba), deu:ranska:bombe, persia:(bomb), englanti:bomb, bangla:বোমা (boma), hindi:बम (bam), urdu:(bam), japani:ボム (bomu), korea:봄 (bom), malaiji:bom|
@@ -234,7 +234,7 @@
 |**eletre**|sähkö|portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik|
 |**emoje**|hymiö (emoji)|japani:絵文字 (emoji), korea:에모지 (emoji), englanti:ranska:portugali:turkki:emoji, venäjä:эмодзи (emodzi), hindi:इमोजी (imojī)|
 |**emos**|tunne (mielenliikutus)|eng;emotion, ranska:émotion, espanja:emoción, por;emoção, venäjä:эмоция (emociya), ind:emosi, filippiini:emosyon|
-|**er**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
+|**er (ere)**|tekijä (aikaansaaja)|englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro|
 |**esa**|olla|espanja:es, persia:(ast), portugali:estar, venäjä:есть (yest')|
 |**eska**|kysyä|hat:èske, ranska:est-ce que [ɛskə], englanti:ask, rwa:ese|
 |**eskal**|portaat (rappuset, tikkaat)|ranska:escalier, espanja:escalera, portugali:escada, + englanti:scale, deu:Skale, venäjä:шкала (škala)|
@@ -346,7 +346,7 @@
 |**hamili**|raskaana (odottava)|arabia:(ḥāmil), malaiji:hamil, turkki:hamile, urdu:(hāmila), persia:(hâmele)|
 |**hamire**|hiiva|arabia:(xamīra), hindi:ख़मीर (xamīr), turkki:hamur, persia:(moxammer), + korea:효모 (hyomo)|
 |**hande**|käsi|hindi:हाथ (hāth), bangla:হাত (hat), englanti:hand|
-|**harabi**|pilalla (raunioina)|arabia:persia:urdu:(xarāb), turkki:harap, hindi:ख़राब (xarāb), bangla:খারাপ (kharap)|
+|**harabi**|pilalla (raunioina)|arabia:persia:urdu:(xarāb), turkki:harap, hindi:ख़राब (xarāb), bangla:খারাপ (kharap), suahili:-haribu|
 |**harami**|kielletty|arabia:(ḥarām), hausa:malaiji:turkki:englanti:deu:haram, hindi:हराम (harām), korea:하람 (haram), persia:urdu:(harām), suahili:haramu, yleiskiina:哈拉姆 (hālāmǔ), venäjä:харамный (xaramniy)|
 |**harfe**|kirjain|arabia:(ḥarf), turkki:harf, persia:urdu:(harf), hausa:harafi, suahili:herufi, malaiji:huruf|
 |**harnese**|valjaat|ranska:harnais, englanti:harness, espanja:arnés, portugali:arnês|
@@ -403,7 +403,7 @@
 |**jeng**|taistelu (sota)|yleiskiina:爭 (zhēng), vietnami:tranh, korea:전쟁 (jeonjaeng), turkki:kur:ceng, persia:urdu:(jang), hindi:जंग (jang)|
 |**jengoxute**|kamppailulaji|yleiskiina:武术 (wǔshù), japani:武術 (bujutsu), vietnami:võ thuật, korea:무술 (musul), englanti:martial art|
 |**jina**|edetä (edistyä)|yleiskiina:進 (jìn), japani:進 (shin, jin), korea:진 (jin), vietnami:tiến|
-|**jinse**|laji (sortti)|arabia:urdu:(jins), persia:(jens), suahili:jinsi, turkki:cins, portugali:gênero, englanti:gender|
+|**jinse**|sukupuoli|arabia:urdu:(jins), persia:(jens), suahili:jinsi, turkki:cins, englanti:gender, portugali:gênero|
 |**jirafe**|kirahvi|arabia:(zarāfa), Eng:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf),malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)|
 |**jovani**|nuori|hindi:जवान (javān), persia:urdu:(javān), telugu:యువ (yuva), portugali:jovem, espanja:joven, italia:giovane|
 |**junge**|keskus (keskikohta)|yleiskiina:中 (zhōng), kantoninkiina:中 (zung), korea:중 (jung), japani:中 (chuu-)|
@@ -824,7 +824,7 @@
 |**saudar**|sisarus (veli tai sisko)|malaiji:saudara, hindi:सहोदर (sahodar), bangla:সহোদর (sôhodôr)|
 |**saune**|sauna|fin:deu:englanti:ranska:portugali:espanja:malaiji:turkki:sauna, venäjä:сауна (sauna), yleiskiina:桑拿 (sāngná), japani:サウナ (sauna), korea:사우나 (sauna), hindi:सॉना (sonā), persia:urdu:(sonā), thai:ซาวน่า (saona)|
 |**saye**|varjo|persia:(sāye), urdu:(sāyā), pas:(sāyá), hindi:साया (sāyā), छाया (chāyā), bangla:ছায়া (chaya), thai:ฉายา (chāyā)|
-|**sekse**|sukupuoli|englanti:sex, ranska:sexe, espanja:portugali:sexo|
+|**sekse**|seksi (sukupuolisuhde)|englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)|
 |**sekuri**|turvallinen (varma)|englanti:secure, deu:sicher, espanja:portugali:seguro|
 |**sele**|solu|malaiji:sel, persia:sellul, thai:เซลล์ (seel), suahili:seli, filippiini:selula, englanti:cell, ranska:cellule, espanja:célula|
 |**sem**|seitsemän (7)|venäjä:семь (semʹ)|

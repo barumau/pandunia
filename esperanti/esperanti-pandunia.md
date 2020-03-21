@@ -477,7 +477,6 @@ gazeto - habarogazete
 gazo - gaze  
 geedzeco - maria  
 generala (universala) - putong  
-genro - jinse  
 genuo - gute  
 germaniumo - germanium  
 gitaro - gitare  
@@ -606,7 +605,7 @@ islamo - islamistia
 Islando - islandia  
 ismo - istia  
 Israelo - israelia  
-isto (anto) - er  
+isto (anto) - er (ere)  
 isto de ismo - iste  
 Italio - italia  
 iterbio - yuterbium  
@@ -750,7 +749,8 @@ korna bulko - kruasan
 korno - korne  
 koro - xime  
 korpa - badani  
-korpo - bode  
+korpo - badan (badane)  
+korpokulturado - muskulobine  
 kota - poti  
 koto - pote  
 kotono - gotone  
@@ -776,6 +776,7 @@ krom (escepti) - cula
 kromo - kromium  
 krono - korone  
 kruco - kruse  
+krunviruso - koronovirus  
 ksenono - xenon  
 kubo - kube  
 kuko - keke  
@@ -799,7 +800,7 @@ laboristo - werker
 laboro - werke  
 lakto - milke  
 laktuko - letise  
-lamenti - duka  
+lamenti - duku  
 lampo - lampe  
 lando - dexe  
 lango - lisane  
@@ -888,6 +889,7 @@ malsukceso - xibaye
 maltro - min ko bas  
 malvarma - lengi  
 malĝoja - duki  
+malĝojigi - duka  
 malĝojo - duke  
 mana - handi  
 mandarino - migane  
@@ -1164,7 +1166,7 @@ porcio (dozo) - doze
 pordo - mun (mune)  
 porkaĵo - gurubomanse  
 porko - gurube  
-posteno - asan  
+posteno - asane  
 posttagmeze - xamoden  
 povi - abla  
 povo - able  
@@ -1290,7 +1292,7 @@ samlandano - samodexi
 samopinii (interkonsenti) - samoraya  
 samseksema - aloseksi  
 samseksema - geyi  
-samseksema - samojinsokami  
+samseksema - samoseksi  
 sana - sihi  
 sangi - lowa sang  
 sango - sange  
@@ -1309,7 +1311,8 @@ se - aga
 seborgio - seaborgium  
 sed - a  
 seka - gani  
-sekso - sekse  
+seksa - jinsi  
+sekso - jinse  
 sekso - sekse  
 sekva - badi  
 sekvi - bada  

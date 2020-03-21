@@ -130,7 +130,7 @@ arti samude - Arctic Ocean
 artia - Arctic  
 artiste - artist  
 arubia - Aruba  
-asan - posture (asana)  
+asane - posture (asana)  
 asi - Asian  
 asia - Asia  
 askete - ascetic  
@@ -168,6 +168,7 @@ bace - child (minor)
 bada - follow (come after)  
 badala - exchange (swap, replace)  
 badame - almond  
+badan (badane) - body  
 badani - bodily (corporal)  
 badawi - bedouin (nomadic)  
 bade - consequence (back, follow-up)  
@@ -294,7 +295,6 @@ bizneser - businessperson (businessman)
 blabla - chat (babble)  
 blableria - chat room  
 bloge - blog (web log)  
-bode - body  
 boikote - boycott  
 boke - mouth  
 bol (bole) - ball  
@@ -544,9 +544,10 @@ drugia - Bhutan
 du - of (particle of possession)  
 dubnium - dubnium  
 duga - read  
-duka - grieve  
+duka - sadden (make sad)  
 duke - grief (sorrow)  
 duki - sad  
+duku - grieve  
 dul - two (2)  
 dul ban - twice  
 dul o tin - a couple of  
@@ -599,7 +600,7 @@ englofiler - anglophile
 englokitaba - anglicize  
 eni - any (no matter which)  
 enzime - enzyme  
-er - doer (agent, actor)  
+er (ere) - doer (agent, actor)  
 erbium - erbium  
 eria - shop (workshop, place of doing)  
 eris - Eris (dwarf planet)  
@@ -715,7 +716,7 @@ fixe - fish
 fixotanke - fish tank  
 fizike - physics  
 fiziker - physicist  
-fizikia - physics  
+fizikia - physics (science)  
 flerovium - flerovium  
 flure - fluorine  
 fobia - fear (phobia)  
@@ -1102,7 +1103,8 @@ jibutia - Djibouti
 jina - advance (progress, enter)  
 jino - foreward  
 jinomun - entrance  
-jinse - sort (kind, type, genus)  
+jinse - gender (biological sex)  
+jinsi - sexual (pertaining to gender)  
 jirafe - giraffe  
 joke - joke  
 joker - joker  
@@ -1349,6 +1351,7 @@ kore - choir (chorus)
 korne - horn  
 kornonose - rhinoceros  
 korone - crown  
+koronovirus - corona virus  
 korta - shorten  
 korti - short (brief)  
 kose - cough  
@@ -1817,6 +1820,7 @@ musiker - musician
 muskete - musket  
 musketer - musketeer  
 muskule - muscle  
+muskulobine - bodybuilding  
 muta - change (alter, convert)  
 muxe - mouse  
 muxing - Jupiter  
@@ -2390,7 +2394,6 @@ samarium - samarium
 samemose - compassion (sympathy)  
 sami - same (similar)  
 samodexi - compatriot  
-samojinsokami - homosexual  
 samonam - homonym  
 samoraya - agree (concur)  
 samoraye - agreement (consent)  
@@ -2432,10 +2435,8 @@ seaborgium - seaborgium
 sekreter - secretary  
 sekreteria - secretariat  
 seksa - have sex  
-sekse - gender (biological sex)  
-sekse - sex (sexual intercourse)  
-seksi - sexual (relating to gender)  
-seksi - sexy (sexual)  
+sekse - sex (sexual relation)  
+seksi - sexy (sexually arousing)  
 sekunde - second(s)  
 sekundometer - stop watch  
 sekura - protect (secure, save)  

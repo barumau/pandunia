@@ -163,7 +163,7 @@ compote de pommes - aplosose
 comprendre (réaliser) - aha  
 construire - bina  
 corne - korne  
-corps - bode  
+corps - badan (badane)  
 correct (juste) - sahi  
 cosmique - kosmi  
 cosmos - kosmia  
@@ -183,6 +183,7 @@ crêpe - krepe
 crêperie - kreperia  
 cube - kube  
 cuiller - camace  
+culturisme (musculation) - muskulobine  
 cycliste - sikliste  
 cytologie - selolojia  
 côte - samudotate  
@@ -248,7 +249,6 @@ gaz lacrymogène - kanosuyogas
 gazelle - gazele  
 geler (glacer) - aisu  
 genou - gute  
-genre (espèc) - jinse  
 gingembre - zinje  
 giraffe - jirafe  
 goule - gule  
@@ -500,7 +500,7 @@ se baigner - banyu
 se rappeler (se remémorer) - mema  
 sel - sale  
 semence - seme  
-sexe - sekse  
+sexe - jinse  
 shopping - xope  
 si - aga  
 situation (état de choses) - xeyohale  

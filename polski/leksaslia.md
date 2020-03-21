@@ -48,7 +48,7 @@
 |**arize**|ryż|tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|
 |**arme**|broń|fra:arme, eng:arms, spa:por:arma|
 |**arte**|sztuka|spa:por:arte, eng:fra:art, jpn:アート (āto)|
-|**asan**|postawa ciała; asana|hin:आसन (āsan), eng:asana, rus:асана (asana)|
+|**asane**|postawa ciała; asana|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |**asle**|źródło, początek, pochodzenie|ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|
 |**asme**|astma|fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|
 |**ata**|aż do|por:até, ara:(ḥatta), spa:hasta, swa:hata|
@@ -63,6 +63,7 @@
 |**bace**|dziecko (nieletni)|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |**badala**|wymieniać, wymienić, zamieniać, zamienić|ara:(badala), hin:बदला (badlā), hau:badali, swa:badili|
 |**badame**|migdał|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
+|**badan (badane)**|ciało|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**bagre**|tygrys|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |**bah**|pfuj (fuj)|eng:spa:ita:bah, por:ba|
 |**baki**|biały|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
@@ -118,7 +119,6 @@
 |**bizi**|zajęty|eng:busy|
 |**biznese**|biznes, interes (aktywność komercyjna)|eng:business, rus:бизнес (biznes)|
 |**blabla**|luźna rozmowa, gadanina|fra:blablater, eng:babble, spa:blablablá|
-|**bode**|ciało|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**boke**|usta|spa:por:boca|
 |**bol (bole)**|piłka|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |**bombe**|bomba|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
@@ -236,7 +236,7 @@
 |**eletre**|elektryczność|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|
 |**emoje**|emoji (emotkon)|jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|
 |**emos**|emocja, uczucie|eng;emotion, fra:émotion, spa:emoción, por;emoção, rus:эмоция (emociya), ind:emosi, tgl:emosyon|
-|**er**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
+|**er (ere)**|przyrostek dla wykonawcy|eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro|
 |**esa**|być|spa:es, fas:(ast), por:estar, rus:есть (yest')|
 |**eska**|zapytać, spytać, pytać|hat:èske, fra:est-ce que [ɛskə], eng:ask, rwa:ese|
 |**eskal**|schody (drabina)|fra:escalier, spa:escalera, por:escada, + eng:scale, deu:Skale, rus:шкала (škala)|
@@ -349,7 +349,7 @@
 |**hamili**|ciężarny (w ciąży)|ara:(ḥāmil), may:hamil, tur:hamile, urd:(hāmila), fas:(hâmele)|
 |**hamire**|drożdże|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, fas:(moxammer), + kor:효모 (hyomo)|
 |**hande**|ręka, dłoń|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
-|**harabi**|zły, zrujnowany, zepsuty|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap)|
+|**harabi**|zły, zrujnowany, zepsuty|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu|
 |**harami**|zabroniony (wzbroniony, nielegalny, haram, tabu)|ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)|
 |**harfe**|litera, znak|ara:(ḥarf), tur:harf, fas:urd:(harf), hau:harafi, swa:herufi, may:huruf|
 |**harnese**|zaprzęc, zaprzęgać|fra:harnais, eng:harness, spa:arnés, por:arnês|
@@ -408,7 +408,7 @@
 |**jeng**|walka, wojna|zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|
 |**jengoxute**|sztuka walki|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**jina**|posuwać się do przodu (dokonywać postępu, wejść)|zho:進 (jìn), jpn:進 (shin, jin), kor:진 (jin), vie:tiến|
-|**jinse**|rodzaj (typ, g|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|
+|**jinse**|płeć|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero|
 |**jirafe**|żyrafa|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
 |**jovani**|młody|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane|
 |**jumle**|zdanie (fraza)|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
@@ -838,7 +838,7 @@
 |**saudar**|rodzeństwo, brat lub siostra|may:saudara, hin:सहोदर (sahodar), ben:সহোদর (sôhodôr)|
 |**saune**|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |**saye**|cień|fas:(sāye), urd:(sāyā), pas:(sāyá), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
-|**sekse**|płeć|eng:sex, fra:sexe, spa:por:sexo|
+|**sekse**|seks, stosunek płciowy|eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|
 |**sekuri**|bezpieczny|eng:secure, deu:sicher, spa:por:seguro|
 |**sele**|komórka (biologia)|may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula, eng:cell, fra:cellule, spa:célula|
 |**sem**|siedem (7)|rus:семь (semʹ)|

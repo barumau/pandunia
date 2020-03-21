@@ -50,6 +50,7 @@
 |**babuce**|pantoufle (babouche)|arai: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|
 |**bace**|enfant|fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl: bata|
 |**badame**|amande|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
+|**badan (badane)**|corps|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**bagre**|tigre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |**baki**|blanc|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
 |**balibali**|divers (plusieurs)|eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|
@@ -73,7 +74,6 @@
 |**bere**|baie|deu:Beere, eng:berry, may:beri, hin:बेरी (berī), ben:বেরি (beri), jpn: ベリー (berī)|
 |**bina**|construire|ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|
 |**bire**|bière|eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|
-|**bode**|corps|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**bol (bole)**|ball|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|
 |**bombe**|bombe|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
 |**bon (boni)**|bon|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
@@ -155,7 +155,7 @@
 |**ive**|tendance|eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|
 |**jeinistia**|jaïnisme|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |**jeka**|empruntre|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
-|**jinse**|genre (espèc)|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, por:gênero, eng:gender|
+|**jinse**|sexe|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero|
 |**jirafe**|giraffe|ara:(zarāfa), Eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
 |**junge**|centre|zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|
 |**juse**|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
@@ -309,7 +309,6 @@
 |**sanduice**|sandwich|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |**sange**|sang|fra:sang, spa:sangre, por:sangue|
 |**sare**|tête|fas:(sar), hin:सिर (sir), ara:(raʾs)|
-|**sekse**|sexe|eng:sex, fra:sexe, spa:por:sexo|
 |**sekuri**|sûr|eng:secure, deu:sicher, spa:por:seguro|
 |**seme**|semence|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |**serye**|série|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|

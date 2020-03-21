@@ -49,7 +49,7 @@
 |**arize**|rice|Tamil:அரிசி (arisi), Arabic:(ʾaruzz), Spanish:Portuguese:arroz, Oromo:ruuzii, French:riz, Russian:рис (ris), English:rice, deu:Reis|
 |**arme**|weapon (arms)|French:arme, English:arms, Spanish:Portuguese:arma|
 |**arte**|art|Spanish:Portuguese:arte, English:French:art, Japanese:アート (āto)|
-|**asan**|posture (asana)|Hindi:आसन (āsan), English:asana, Russian:асана (asana)|
+|**asane**|posture (asana)|Hindi:आसन (āsan), English:asana, Russian:асана (asana)|
 |**asle**|origin (source)|Arabic:(ʾaṣl), Turkish:asl, Malay:asal, Hindi:असल (asl), Swahili:asili|
 |**asme**|asthma|French:asthme, English:asthma, Spanish:Portuguese:Malay:asma, Polish:astma|
 |**ata**|until (til, up to)|Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata|
@@ -64,6 +64,7 @@
 |**bace**|child (minor)|Persian:(bačče), Urdu:(baccā), Hindi:बच्चा (baccā), Gujarati: બચ્ચું (baccũ), Filipino: bata|
 |**badala**|exchange (swap, replace)|Arabic:(badala), Hindi:बदला (badlā), Hausa:badali, Swahili:badili|
 |**badame**|almond|Malay:badam, Turkish:badem, Hindi:बादाम (bādām), Bengali:বাদাম (badam), Mandarin:巴旦木 (bādànmù)|
+|**badan (badane)**|body|English:body, Arabic:(badan), Hindi:बदन (badan), Persian:Urdu:(badan), Turkish:beden|
 |**bagre**|tiger|Hindi:बाघ (bāgh), Bengali:বাঘ (bagh), + Persian:(babr), + Spanish:Portuguese:tigre, Russian:(tigr)|
 |**bah**|bah|English:Spanish:Italian:bah, Portuguese:ba|
 |**baki**|white|Cantonese:白 (baak6), Vietnamese:bạch, Zho:白 (bái), Japanese:白 (haku), Korean:백 (baek), + French:blanc, Spanish:blanco, Portuguese:branco|
@@ -119,7 +120,6 @@
 |**bizi**|busy (occupied)|English:busy|
 |**biznese**|business (commercial activity)|English:business, Russian:бизнес (biznes)|
 |**blabla**|chat (babble)|French:blablater, English:babble, Spanish:blablablá|
-|**bode**|body|English:body, Arabic:(badan), Hindi:बदन (badan), Persian:Urdu:(badan), Turkish:beden|
 |**boke**|mouth|Spanish:Portuguese:boca|
 |**bol (bole)**|ball|English:ball, Spanish:Portuguese:Malay:Filipino:bola, Thai:บอล (bɔl), Japanese:ボール (bōru), Korean:볼 (bol), Khmer:បាល់ (bal), Bengali:বল (bôl), deu:Ball, French:boule,balle|
 |**bombe**|bomb|Polish:Portuguese:Spanish:Turkish:bomba, Russian:бомба (bomba), deu:French:bombe, Persian:(bomb), English:bomb, Bengali:বোমা (boma), Hindi:बम (bam), Urdu:(bam), Japanese:ボム (bomu), Korean:봄 (bom), Malay:bom|
@@ -238,7 +238,7 @@
 |**eletre**|electricity|Portuguese:eletricidade, Italian:elettricità, English:electricity, Russian:электричество (električestvo), French:électricité, Spanish:electricidad, Turkish:elektrik|
 |**emoje**|emoji (smiley, emoticon)|Japanese:絵文字 (emoji), Korean:에모지 (emoji), English:French:Portuguese:Turkish:emoji, Russian:эмодзи (emodzi), Hindi:इमोजी (imojī)|
 |**emos**|emotion (feeling)|eng;emotion, French:émotion, Spanish:emoción, por;emoção, Russian:эмоция (emociya), ind:emosi, Filipino:emosyon|
-|**er**|doer (agent, actor)|English: -er, deu: -er, French: -eur, Spanish: -ero, Portuguese: -eiro|
+|**er (ere)**|doer (agent, actor)|English: -er, deu: -er, French: -eur, Spanish: -ero, Portuguese: -eiro|
 |**esa**|be|Spanish:es, Persian:(ast), Portuguese:estar, Russian:есть (yest')|
 |**eska**|ask (inquire)|hat:èske, French:est-ce que [ɛskə], English:ask, rwa:ese|
 |**eskal**|stairs (ladder)|French:escalier, Spanish:escalera, Portuguese:escada, + English:scale, deu:Skale, Russian:шкала (škala)|
@@ -351,7 +351,7 @@
 |**hamili**|pregnant|Arabic:(ḥāmil), Malay:hamil, Turkish:hamile, Urdu:(hāmila), Persian:(hâmele)|
 |**hamire**|yeast|Arabic:(xamīra), Hindi:ख़मीर (xamīr), Turkish:hamur, Persian:(moxammer), + Korean:효모 (hyomo)|
 |**hande**|hand|Hindi:हाथ (hāth), Bengali:হাত (hat), English:hand|
-|**harabi**|bad (ruined, destroyed)|Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap)|
+|**harabi**|bad (ruined, destroyed)|Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap), Swahili:-haribu|
 |**harami**|forbidden (illicit, haram, taboo)|Arabic:(ḥarām), Hausa:Malay:Turkish:English:deu:haram, Hindi:हराम (harām), Korean:하람 (haram), Persian:Urdu:(harām), Swahili:haramu, Mandarin:哈拉姆 (hālāmǔ), Russian:харамный (xaramniy)|
 |**harfe**|letter (character, written symbol)|Arabic:(ḥarf), Turkish:harf, Persian:Urdu:(harf), Hausa:harafi, Swahili:herufi, Malay:huruf|
 |**harnese**|harness|French:harnais, English:harness, Spanish:arnés, Portuguese:arnês|
@@ -409,7 +409,7 @@
 |**jeng**|fight (war, battle, combat)|Mandarin:爭 (zhēng), Vietnamese:tranh, Korean:전쟁 (jeonjaeng), Turkish:kur:ceng, Persian:Urdu:(jang), Hindi:जंग (jang)|
 |**jengoxute**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
 |**jina**|advance (progress, enter)|Mandarin:進 (jìn), Japanese:進 (shin, jin), Korean:진 (jin), Vietnamese:tiến|
-|**jinse**|sort (kind, type, genus)|Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, Portuguese:gênero, English:gender|
+|**jinse**|gender (biological sex)|Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, English:gender, Portuguese:gênero|
 |**jirafe**|giraffe|Arabic:(zarāfa), Eng:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf),Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)|
 |**jovani**|young|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane|
 |**jumle**|sentence (phrase)|Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)|
@@ -840,7 +840,7 @@
 |**saudar**|sibling (brother or sister)|Malay:saudara, Hindi:सहोदर (sahodar), Bengali:সহোদর (sôhodôr)|
 |**saune**|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
 |**saye**|shadow|Persian:(sāye), Urdu:(sāyā), pas:(sāyá), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)|
-|**sekse**|gender (biological sex)|English:sex, French:sexe, Spanish:Portuguese:sexo|
+|**sekse**|sex (sexual relation)|English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)|
 |**sekuri**|safe (secure, protected)|English:secure, deu:sicher, Spanish:Portuguese:seguro|
 |**sele**|cell (biology)|Malay:sel, Persian:sellul, Thai:เซลล์ (seel), Swahili:seli, Filipino:selula, English:cell, French:cellule, Spanish:célula|
 |**sem**|seven (7)|Russian:семь (semʹ)|

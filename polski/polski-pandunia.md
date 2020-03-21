@@ -295,7 +295,7 @@ chwalić (wychwalać) - halela
 chór - kore  
 chłopak - jovani man  
 ciasto, ciastko - keke  
-ciało - bode  
+ciało - badan (badane)  
 ciało stałe - gatomate  
 cichy - xixi  
 ciecierzyca - humuse  
@@ -731,7 +731,6 @@ holm - holmium
 hologram - holograme  
 homonim - samonam  
 homoromantyczny - samoromansi  
-homoseksualny - samojinsokami  
 homoseksualny - samoseksi  
 Honduras - hondurasia  
 Hong Kong - hongong  
@@ -1192,7 +1191,7 @@ Mariany Północne - marian nesia
 marmur - marmare  
 Maroko - magribia  
 Mars - marse  
-martwić - duka  
+martwić - duku  
 martwy, nieżywy, zabity - morti  
 marynarka (flota) - samudolaskeria  
 marzec - mes 11 (mes des un)  
@@ -1805,7 +1804,7 @@ porywacz samolotu - vimanokaper
 porządek - ratibe  
 porządkować, organizować - ratiba  
 poręcz (balustrada) - langane  
-postawa ciała; asana - asan  
+postawa ciała; asana - asane  
 postawiony (stojący) - libi  
 postawić (stawiać) - liba  
 posuwać się do przodu (dokonywać postępu, wejść) - jina  
@@ -1957,7 +1956,7 @@ przyrostek dla miejsca - -ia
 przyrostek dla miejsca wykonywania - eria  
 przyrostek dla przymiotnika - -i  
 przyrostek dla wsperającego ideę - iste  
-przyrostek dla wykonawcy - er  
+przyrostek dla wykonawcy - er (ere)  
 przystojny, atrakcyjny, ładny - rupoboni  
 przyszłość - wile  
 przysłówek - modolekse  
@@ -1993,8 +1992,7 @@ płaski - pingi
 płaski chleb, ćapati - capate  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
-płciowy - seksi  
-płeć - sekse  
+płeć - jinse  
 płuco - pulmone  
 ##r
 rabuś (grabieżca) - luter  
@@ -2044,7 +2042,6 @@ robot - robote
 rocznica - nenofeste  
 rod - rodium  
 rodak, ziomek, krajan - samodexi  
-rodzaj (typ, g - jinse  
 rodzaj, typ, styl - yange  
 rodzeństwo, brat lub siostra - saudar  
 rodzic (matka lub ojciec) - jener  

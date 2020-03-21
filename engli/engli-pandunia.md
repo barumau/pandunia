@@ -315,7 +315,8 @@ board (plank) - banze
 board game - banzogem  
 boat (ship) - bote  
 bodily (corporal) - badani  
-body - bode  
+body - badan (badane)  
+bodybuilding - muskulobine  
 bohrium - borium  
 boil (be boiled) - bulu  
 boil (cook) - bula  
@@ -611,6 +612,7 @@ copyright - kopiyohake
 core (nucleus, kernel) - kerne  
 corn (maize) - maise  
 corner (angle) - gone  
+corona virus - koronovirus  
 correct (make right) - saha  
 cosmic - kosmi  
 cost (price) - koste  
@@ -750,7 +752,7 @@ doctor (scholar who has attained doctorate) - dotore
 doctorate - dotoria  
 document (paper) - papire  
 document (record, file) - dokume  
-doer (agent, actor) - er  
+doer (agent, actor) - er (ere)  
 dog - waf (wafe)  
 doll (puppet) - pupe  
 dollar - dolare  
@@ -1039,7 +1041,7 @@ gauze - gaze
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gender (biological sex) - sekse  
+gender (biological sex) - jinse  
 genderqueer (non-binary) - bise  
 generosity (charity) - karimia  
 generous (charitable) - karimi  
@@ -1106,7 +1108,7 @@ greeting (hello) - salame
 Grenada - grenadia  
 grey (gray, ashy) - huyorangi  
 grief (sorrow) - duke  
-grieve - duka  
+grieve - duku  
 grimace - grimase  
 grind (grind in mill) - mola  
 ground force (army) - zemolaskeria  
@@ -1211,7 +1213,6 @@ Holy See (Vatican City State) - vatikania
 home (residence) - dom (dome)  
 homonym - samonam  
 homoromantic - samoromansi  
-homosexual - samojinsokami  
 homosexual - samoseksi  
 Honduras - hondurasia  
 honey - mele  
@@ -2007,8 +2008,8 @@ photograph - fotograf
 photographer - fotografer  
 photography - fotografia  
 physicist - fiziker  
+physics (science) - fizikia  
 physics - fizike  
-physics - fizikia  
 piano - piane  
 picnic - wayoniame  
 picture book - grafobuke  
@@ -2096,7 +2097,7 @@ pose (set) - poza
 possible - abli  
 post office - postia  
 postal stamp - postocape  
-posture (asana) - asan  
+posture (asana) - asane  
 pot (vase, bin, jar, jug) - vaze  
 potassium - kalium  
 potato - patate  
@@ -2315,6 +2316,7 @@ Réunion - reunion
 ##s
 Sabbath - sabate  
 sad - duki  
+sadden (make sad) - duka  
 safe (secure, protected) - sekuri  
 saffron - safrane  
 Sahrawi Arab Democratic Republic - sahrawia  
@@ -2392,10 +2394,10 @@ service - serve
 sesame - sesam  
 seven (7) - sem  
 sew - suta  
-sex (sexual intercourse) - sekse  
-sexual (relating to gender) - seksi  
+sex (sexual relation) - sekse  
+sexual (pertaining to gender) - jinsi  
 sexual desire (lust) - kamia  
-sexy (sexual) - seksi  
+sexy (sexually arousing) - seksi  
 Seychelles - sexel nesia  
 shadow - saye  
 shaman - xamane  
@@ -2492,7 +2494,6 @@ son - mani bace
 song - cante  
 soon - suno  
 sorry (pardon) - pardon (pardone)  
-sort (kind, type, genus) - jinse  
 soul (mind, psyche) - ruhe  
 sound (audio) - sonde  
 sound (make a sound) - sonda  

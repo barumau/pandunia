@@ -128,7 +128,7 @@ arti samude - Ocean Arktyczny
 artia - Arktyka  
 artiste - artysta  
 arubia - Aruba  
-asan - postawa ciała; asana  
+asane - postawa ciała; asana  
 asi - azjatycki  
 asia - Azja  
 askete - asceta  
@@ -166,6 +166,7 @@ bace - dziecko (nieletni)
 bada - podążać  
 badala - wymieniać, wymienić, zamieniać, zamienić  
 badame - migdał  
+badan (badane) - ciało  
 badani - cielesny  
 badawi - beduiński; nomadyczny  
 bade - konsekwencja, skutek  
@@ -292,7 +293,6 @@ bizneser - osoba biznesu, biznesman
 blabla - luźna rozmowa, gadanina  
 blableria - pokój rozmów, chat  
 bloge - blog  
-bode - ciało  
 boikote - bojkot  
 boke - usta  
 bol (bole) - piłka  
@@ -540,9 +540,9 @@ drugia - Bhutan
 du - z (partykuła posiadania)  
 dubnium - dubn  
 duga - czytać  
-duka - martwić  
 duke - żal, smutek  
 duki - smutny  
+duku - martwić  
 dul - dwa (2)  
 dul ban - dwukrotnie (dwa razy)  
 dul o tin - parę  
@@ -595,7 +595,7 @@ englofiler - anglofil
 englokitaba - anglizować (zanglizować)  
 eni - jakikolwiek, którykolwiek  
 enzime - enzym  
-er - przyrostek dla wykonawcy  
+er (ere) - przyrostek dla wykonawcy  
 erbium - erb  
 eria - przyrostek dla miejsca wykonywania  
 eris - Eris (planeta karłowata)  
@@ -1100,7 +1100,7 @@ jibutia - Dżibuti
 jina - posuwać się do przodu (dokonywać postępu, wejść)  
 jino - naprzód  
 jinomun - wejście  
-jinse - rodzaj (typ, g  
+jinse - płeć  
 jirafe - żyrafa  
 joke - żart  
 joker - żartowniś, dowcipniś  
@@ -2385,7 +2385,6 @@ samarium - samar
 samemose - współczucie  
 sami - taki sam  
 samodexi - rodak, ziomek, krajan  
-samojinsokami - homoseksualny  
 samonam - homonim  
 samoraya - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 samoraye - porozumienie  
@@ -2427,9 +2426,7 @@ seaborgium - seaborg
 sekreter - sekretarz  
 sekreteria - sekretariat  
 seksa - kochać się, uprawiać seks  
-sekse - płeć  
 sekse - seks, stosunek płciowy  
-seksi - płciowy  
 seksi - seksowny, ponętny  
 sekunde - sekunda  
 sekundometer - stoper  

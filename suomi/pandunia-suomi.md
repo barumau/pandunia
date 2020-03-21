@@ -125,7 +125,7 @@ arti samude - Jäämeri
 artia - Arktis  
 artiste - taiteilija  
 arubia - Aruba  
-asan - asento  
+asane - asento  
 asi - aasialainen  
 asia - Aasia  
 askete - askeett  
@@ -162,6 +162,7 @@ bace - lapsi
 bada - seurata (tulla perässä, tulla jäljessä)  
 badala - vaihtaa  
 badame - manteli  
+badan (badane) - keho (ruumis)  
 badani - ruumiillinen  
 badawi - beduiini  
 bade - seuraus  
@@ -283,7 +284,6 @@ bizneser - liikemies
 blabla - jutella (höpistä)  
 blableria - keskusteluhuone  
 bloge - blogi (nettikolumni)  
-bode - keho (ruumis)  
 boikote - boikotti  
 boke - suu  
 bol (bole) - pallo  
@@ -523,9 +523,10 @@ drugia - Bhutan
 du - omistetun omistajaan liittävä partikkeli  
 dubnium - dubnium  
 duga - lukea  
-duka - surra (murehtia)  
+duka - surettaa  
 duke - suru (murhe)  
 duki - surullinen  
+duku - surra (murehtia)  
 dul - kaksi (2)  
 dul ban - kahdesti (kaksi kertaa)  
 dul o tin - muutama (pari-kolme)  
@@ -575,7 +576,7 @@ englofiler - anglofiili
 englokitaba - englannistaa  
 eni - mikä tahansa  
 enzime - entsyymi  
-er - tekijä (aikaansaaja)  
+er (ere) - tekijä (aikaansaaja)  
 erbium - erbium  
 eria - paja (kauppa, tekimö)  
 eris - Eris (kääpiöplaneetta)  
@@ -762,6 +763,7 @@ gare - kärry (vaunu, auto, jne)
 garmi - lämmin  
 garmi masale - garam masala  
 garoparke - parkkipaikka  
+gasa - kaasuttaa  
 gase - kaasu  
 gasi - kaasumainen  
 gasu - kaasuuntua  
@@ -1056,7 +1058,8 @@ jeste - ele
 jibraltar - Gibraltar  
 jibutia - Djiboutia  
 jina - edetä (edistyä)  
-jinse - laji (sortti)  
+jinse - sukupuoli  
+jinsi - sukupuolinen  
 jirafe - kirahvi  
 joke - vitsi  
 joker - vitsiniekka  
@@ -1284,6 +1287,7 @@ kore - kuoro
 korne - sarvi  
 kornonose - sarvikuono  
 korone - kruunu  
+koronovirus - koronavirus  
 korta - lyhentää  
 korti - lyhyt  
 kose - yskä  
@@ -1732,6 +1736,7 @@ musiker - muusikko
 muskete - musketti  
 musketer - musketööri  
 muskule - lihas  
+muskulobine - kehonrakennus (bodaus)  
 muta - muuttaa (muuntaa)  
 muxe - hiiri  
 muxing - Jupiter  
@@ -2273,10 +2278,10 @@ samane - taivas
 samemose - myötätunto (sympatia)  
 sami - sama  
 samodexi - samanmaalainen (maanmies)  
-samojinsokami - homoseksuaali  
 samonam - homonyymi  
 samoraya - olla samaa mieltä  
 samoraye - yhteisymmärrys  
+samoseksi - homoseksuaali  
 samowia - Samoa  
 samude - meri  
 samudi - meri- (merellinen)  
@@ -2305,8 +2310,8 @@ saune - sauna
 saye - varjo  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
-sekse - seksi (sukupuolinen kanssakäyminen)  
-sekse - sukupuoli  
+sekse - seksi (sukupuolisuhde)  
+seksi - seksikäs  
 sekunde - sekunti  
 sekundometer - sekuntikello  
 sekura - suojella (suojata, turvata)  

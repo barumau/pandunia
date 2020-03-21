@@ -105,6 +105,7 @@ babe - chapitre
 babuce - pantoufle (babouche)  
 bace - enfant  
 badame - amande  
+badan (badane) - corps  
 bagaje - bagage  
 bagre - tigre  
 baki - blanc  
@@ -141,7 +142,6 @@ beker - boulanger
 bere - baie  
 bina - construire  
 bire - bière  
-bode - corps  
 bol (bole) - ball  
 bombe - bombe  
 bon (boni) - bon  
@@ -261,7 +261,7 @@ jeka - empruntre
 jekodona - prêter  
 jeni baxe - langue maternelle  
 jenotipe - génotype  
-jinse - genre (espèc)  
+jinse - sexe  
 jirafe - giraffe  
 jule - joule (J)  
 junge - centre  
@@ -396,6 +396,7 @@ molia - moulin
 mome - nous  
 muke - visage  
 mule - racine  
+muskulobine - culturisme (musculation)  
 ##n
 nade - rivière (fleuve)  
 nasia - nation  
@@ -500,7 +501,6 @@ sanduice - sandwich
 sange - sang  
 sare - tête  
 saturne - Saturne  
-sekse - sexe  
 sekuri - sûr  
 selolojia - cytologie  
 seme - semence  

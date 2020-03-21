@@ -87,7 +87,7 @@ arme - armilo
 arsen - arseno  
 arte - arto  
 artiste - artisto  
-asan - posteno  
+asane - posteno  
 asi - azia  
 asia - Azio  
 askete - ascetiko  
@@ -115,6 +115,7 @@ babuce - pantoflo
 bace - infano  
 bada - sekvi  
 badala - interŝanĝi  
+badan (badane) - korpo  
 badani - korpa  
 badawi - beduino (nomado)  
 bade - sekvo  
@@ -204,7 +205,6 @@ biznese - negoco
 bizneser - komercisto  
 blabla - babili  
 blableria - babilejo  
-bode - korpo  
 boikote - bojkoto  
 boke - buŝo  
 bol (bole) - pilko  
@@ -371,9 +371,10 @@ drame - dramo
 du - de (partiklo de posedo)  
 dubnium - dubnio  
 duga - legi  
-duka - lamenti  
+duka - malĝojigi  
 duke - malĝojo  
 duki - malĝoja  
+duku - lamenti  
 dul - du (2)  
 duman - fumo  
 dume - vosto  
@@ -405,7 +406,7 @@ emosohal - animstato
 energe - energio  
 engli - angla  
 eni - iu ajn  
-er - isto (anto)  
+er (ere) - isto (anto)  
 erbium - erbio  
 eris - Eris (planedeto)  
 eritria - Eritreo  
@@ -727,7 +728,8 @@ jeni baxe - hejmlingvo
 jenoden - naskiĝtago  
 jentili - bonkora  
 jenu - naski  
-jinse - genro  
+jinse - sekso  
+jinsi - seksa  
 jirafe - ĝirafo  
 jovane - junulo  
 jovani - juna  
@@ -859,6 +861,7 @@ kopiye - kopio
 korne - korno  
 kornonose - rinocero  
 korone - krono  
+koronovirus - krunviruso  
 korta - mallongigi  
 korti - mallonga  
 kose - tuso  
@@ -1073,6 +1076,7 @@ musike - muziko
 musiker - muzikisto  
 muskete - muskedo  
 muskule - muskolo  
+muskulobine - korpokulturado  
 muta - aliigi  
 muxe - muso  
 ##n
@@ -1342,9 +1346,9 @@ samarium - samario
 samemose - kompato  
 sami - sama  
 samodexi - samlandano  
-samojinsokami - samseksema  
 samoraya - samopinii (interkonsenti)  
 samoraye - interkonsento  
+samoseksi - samseksema  
 samude - maro  
 samudi - mara  
 sanduke - skatolo (kesto)  
@@ -1357,7 +1361,6 @@ saudar - frato aŭ fratino
 saune - saŭno  
 saye - ombro  
 seaborgium - seborgio  
-sekse - sekso  
 sekse - sekso  
 sele - ĉelo  
 selenium - seleno  
