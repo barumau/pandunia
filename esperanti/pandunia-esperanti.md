@@ -64,7 +64,6 @@ analize - analizo
 ande - ovo  
 andes - Andoj  
 anime - kartuno  
-anjile - mesaĝo  
 anker - ankro  
 antene - anteno  
 anti - kotraŭa  
@@ -536,6 +535,7 @@ galium - galiumo
 galte - eraro (miso)  
 galti - erara  
 gamele - kamelo  
+gandume - tritiko  
 ganga - Gangoj  
 gani - seka  
 ganje - kanabo  
@@ -1125,6 +1125,7 @@ noce - nokto
 node - nodo  
 nolodewiste - ateisto  
 nombre - nombro  
+norde - nordo  
 norgi - norvega  
 norgia - Norvegio  
 nostalgia - nostalgio (saudado)  
@@ -1504,7 +1505,7 @@ turkia - Turkio
 ##u
 ula - malfari  
 umure - aĝo  
-un - unu  
+un - unu (1)  
 unale - unu la alian (reciproke)  
 unali - reciproka  
 unia - uniono  

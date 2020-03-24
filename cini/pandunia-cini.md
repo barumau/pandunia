@@ -31,6 +31,7 @@ ami - 亲爱的
 analiza - 分析  
 analize - 分析  
 anime - 活跃  
+anjile - رِسالة‎  
 anker - 锚  
 antene - 天线  
 anuse - 肛门  
@@ -65,6 +66,7 @@ bagre - 虎
 bah - 呸  
 baki - 白  
 bakocoy - 白菜 (小白菜)  
+bal - 八 (8)  
 balibali - 各种各样  
 balkone - 阳台  
 banane - 香蕉  
@@ -107,6 +109,7 @@ buze - 山羊
 ##c
 ca - 从  
 camace - 匙子  
+car - 四 (4)  
 cay (caye) - 茶  
 cayokupe - 茶碗  
 cenge - 层  
@@ -131,7 +134,7 @@ dinge - 钉子
 diske - 圆盘  
 dom (dome) - 房子  
 duga - 读 (看)  
-dul - 二  
+dul - 二 (2)  
 dunia - 世界  
 e - 和  
 ##e
@@ -154,6 +157,7 @@ fule - 花
 ##g
 galaksia - 恆星系  
 galte - 错误  
+gandume - 麦  
 gati - 硬  
 gatomate - 固体  
 genca - 检查  
@@ -268,6 +272,7 @@ leze - 梨
 libele - 蜻蜓  
 lider - 领导  
 lil (lili) - 小  
+lim - 五 (5)  
 limone - 柠檬  
 lisane - 舌头  
 liste - 单子  
@@ -325,6 +330,7 @@ muskulobine - 健美运动
 ##n
 nade - 河 (江)  
 nasomedi - 国际  
+naw - 九 (9)  
 nefre - 肾脏  
 nida - 需要  
 nidi - 必要的  
@@ -334,6 +340,7 @@ nixe - 壁龛
 no - 不  
 noce - 夜  
 nombre - 数  
+norde - 北  
 nostalgia - 怀旧  
 note - 便条  
 novi - 新  
@@ -410,6 +417,7 @@ sapate - 鞋
 sare - 头  
 saturne - 土星  
 selolojia - 细胞学  
+sem - 七 (7)  
 seme - 种  
 semi - 种子的  
 semodan - 种子  
@@ -418,6 +426,7 @@ si - 对 (是)
 sihe - 健康  
 sihi - 健康  
 sikliste - 骑自行车的人  
+sis - 六 (6)  
 socia - 社会  
 sole - 太阳  
 solosistem - 太阳系  
@@ -452,6 +461,7 @@ tese - 论据
 teste - 化验  
 tikete - 票  
 time - 队  
+tin - 三 (3)  
 tira milke - 拉  
 toca - 接触  
 tomate - 西红柿  
@@ -459,6 +469,7 @@ tote - 你们
 ##u
 umami - 鲜味  
 umure - 年岁  
+un - 一 (1)  
 ura - 好哇  
 ##v
 vagin - 阴道  

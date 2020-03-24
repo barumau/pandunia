@@ -25,6 +25,7 @@ ama - любить
 analiza - анализировать  
 analize - анализ  
 anime - оживление  
+anjile - mensagem  
 anker - якорь  
 antene - антенна  
 anuse - анус  
@@ -58,6 +59,7 @@ badan (badane) - тело
 bagaje - багаж  
 bagre - тигр  
 baki - белый  
+bal - восемь (8)  
 balkone - балкон  
 banane - банан  
 bande - банда  
@@ -103,6 +105,7 @@ buke - книга
 ca - из (от)  
 camace - ложка  
 canse - возможность (шанс)  
+car - четыре (4)  
 carme - шарм  
 cay (caye) - чай  
 cayokupe - чайная чашка  
@@ -124,7 +127,7 @@ dine - религия (вера)
 diske - диск  
 domi - домашний  
 duga - читать  
-dul - два  
+dul - два (2)  
 dul o tin - пара  
 dunia - мир (свет)  
 ##e
@@ -149,6 +152,7 @@ fule - цветок
 futobol - футбол  
 ##g
 galaksia - галактика  
+gandume - пшеница  
 gase - газ  
 gati - твёрдый  
 gazele - газель  
@@ -269,6 +273,7 @@ letise - салат-латук
 libele - стрекоза  
 lider - руководитель (лидер)  
 lil (lili) - маленький (малый)  
+lim - пять (5)  
 limone - лимон  
 lisane - язык  
 liste - список  
@@ -319,6 +324,7 @@ muskulobine - культуризм
 nade - река  
 nasia - нация  
 nasomedi - междунаро́дный  
+naw - девять (9)  
 nefre - почка  
 neurosel - нейрон  
 nida - нуждаться  
@@ -330,6 +336,7 @@ nixe - ниша
 no - нет (не)  
 noce - ночь  
 nombre - число  
+norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 novi - новый  
@@ -408,12 +415,14 @@ sange - кровь
 sapate - حِذَاء  
 sare - голова  
 selolojia - цитология  
+sem - семь (7)  
 seme - семя  
 semi - семенной  
 sene - сцена  
 serye - серия  
 si - да  
 sikliste - велосипедист  
+sis - шесть (6)  
 slavi - славянский  
 socia - общество (социум)  
 soke - носок  
@@ -451,11 +460,13 @@ tese - довод
 teste - проба (тест)  
 tikete - билет  
 time - команда  
+tin - три (3)  
 tira milke - тянуть  
 toca - касаться  
 tomate - помидор (томат)  
 ##u
 umure - возраст  
+un - один (1)  
 ura - ура  
 ##v
 vagin - влагалище (вагина)  

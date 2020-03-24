@@ -35,7 +35,7 @@
 |**ampule**|ampulli|ranska:englanti:ampoule, yleiskiina:安瓿 (ānbù), japani:アンプル (anpuru), venäjä:ампула (ámpula), arabia:(ʾambūla)|
 |**analize**|analyysi|englanti:analysis, ranska:analyse, portugali:análise, espanja:análisis, venäjä:анализ (analiz), turkki:analiz|
 |**ande**|muna|hindi:अंडा (aṇḍā), bangla:আণ্ডা (aṇḍa), urdu:(aṇḍā), pandzabi:ਆਂਡਾ (āṇḍā), telugu:(aṇḍamu), zulu:xho:iqanda, mon:өндөг (öndög)|
-|**anjile**|viesti|kreikka:ἀγγελία (angelía), arabia:(ʾinjīl), suahili:injili, malaiji:injil, turkki:incil, hindi:इंजील (iñjīl), venäjä:евангелие (evangeliye), ranska:évangile, portugali:evangelho|
+|**anjile**|mesaĝo|kreikka:ἀγγελία (angelía), arabia:(ʾinjīl), suahili:injili, malaiji:injil, turkki:incil, hindi:इंजील (iñjīl), venäjä:евангелие (evangeliye), ranska:évangile, portugali:evangelho|
 |**anker**|ankkuri|englanti:anchor, ranska:ancre, portugali:âncora, malaiji:jangkar, venäjä:якорь, arabia:(ʾanjar), hindi:लंगर (laṅgar), urdu:(laṅgar), telugu:లంగరు (laṅgaru)|
 |**anti**|vasta- (anti-)|englanti:ranska:espanja:portugali:deu:anti-, venäjä:анти- (anti-), japani:反対 (hantai-), puola:anty-|
 |**antoname**|vastakohta (antonyymi)|englanti:deu:antonym, ranska:antonyme, espanja:portugali:antónimo, venäjä:антоним (antonim), malaiji:turkki:antonim|
@@ -290,6 +290,7 @@
 |**gade**|aasi|hindi:गधा (gadhā), bangla:গাধা (gadha), gujarati:ગધેડો (gadheḍo), telugu:(gāḍida), tamili:(kaḻutai), malaiji:keledai, + yoruba:ké̩té̩ké̩té̩|
 |**gaje**|norsu (elefantti)|hindi:गज (gaj), telugu:గజము (gajamu), kannada:ಗಜ (gaja), malaiji:gajah, filippiini:gadya|
 |**galte**|virhe (erhe)|arabia:(ğalṭa), hindi:ग़लती (ġaltī), urdu:(ġalatī), persia:(ğalat), turkki:galat|
+|**gandume**|vehnä|ind:gandum, persia:گندم‎(gandom), urdu:گندم‎(gandum), telugu:గోధుమ (gōdhuma), suahili:ngano|
 |**gani**|kuiva|yleiskiina:干 (gān), kantoninkiina:乾 (gon1), korea:건 (geon)|
 |**ganje**|kannabis (marihuana, hamppu)|hindi:गांजा (gāñjā), urdu:(gānjā), pandzabi:ਗਾਂਜਾ (gāñjā), bangla:গাঁজা (gañja), telugu:గంజాయి (gañjāyi), tamili:கஞ்சா (kañcā), khmer:កញ្ឆា (kɑñchaa), thai:กัญชา (gan-chaa), vietnami:cần sa, englanti:portugali:malaiji:ganja, japani:ガンジャ (gānjya)|
 |**ganoputaw**|rusina|korea:건포도 (geonpodo), yleiskiina:葡萄干 (pútáogān)|
@@ -672,6 +673,7 @@
 |**nol**|nolla (ei yhtään)|venäjä:ноль (nol'), malaiji:nol, deu:null, englanti:null|
 |**nombre**|lukumäärä (luku, numero)|englanti:number, ranska:nombre, hindi:नंबर (nambar), bangla:নম্বর (nômbôr), malaiji:nombor, suahili:nambari|
 |**nomia**|hallinto (hallinnointi)|englanti:-nomy, deu:ranska:-nomie, espanja:portugali:-nomia, venäjä:-номия (-nomiya)|
+|**norde**|pohjoinen|englanti:north, espanja:portugali:norte, deu:Nord, ranska:nord, venäjä:норд (nord)|
 |**nostalgia**|kaipuu (ikävä, nostalgia)|englanti:portugali:espanja:nostalgia, ranska:nostalgie, deu:Nostalgie, venäjä:ностальгия (nostalʹgiya), japani:ノスタルジー (nosutarujī), persia:(nostâlži)|
 |**note**|huomio (kommentti, merkintä)|deu:englanti:ranska:note, espanja:portugali:nota, turkki:not, japani:ノート (nōto), korea:노트 (noteu), persia:(not)|
 |**novi**|uusi|venäjä:новый (novyy), portugali:novo, espanja:nuevo, hindi:नव (nav), englanti:novel, ranska:nouveau|
@@ -923,6 +925,7 @@
 |**tuze**|jänis|yleiskiina:兔子 (tùzi), kantoninkiina:兔仔 (tou3zai2)|
 |**umami**|umami (ruokaisanmakuinen)|japani:旨味 (umami), korea:우마미 (umami), englanti:ranska:portugali:espanja:malaiji:umami, venäjä:умами (umami)|
 |**umure**|ikä|arabia:عُمْر‎ (ʿumr), hindi:उमर (umar), malaiji:umur, suahili:umri|
+|**un**|yksi (1)|ranska:un, espanja:uno, portugali:um,una, englanti:one|
 |**unale**|toisiaan (keskenään)|englanti:one another, italia:l’una, l’altra, ranska: l'un l'autre, espanja:el uno al otro, portugali:um ao outro, turkki:birbirine, yleiskiina:彼此 (bǐcǐ)|
 |**ura**|hurraa (hurrata)|venäjä:ура (ura), italia:urrà, deu:espanja:hurra, ranska:hourra, englanti:hurrah, malaiji:hore, persia:(hurâ)|
 |**urse**|karhu|ranska:ours, portugali:urso, espanja:oso, persia:(xers)|

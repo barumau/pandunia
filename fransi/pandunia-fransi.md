@@ -109,6 +109,7 @@ badan (badane) - corps
 bagaje - bagage  
 bagre - tigre  
 baki - blanc  
+bal - huit (8)  
 balibali - divers (plusieurs)  
 balkone - balcon  
 banane - banane  
@@ -157,6 +158,7 @@ buke - livre
 ca - de  
 camace - cuiller  
 canse - chance  
+car - quatre (4)  
 carme - charme  
 cay (caye) - thé  
 cayokupe - tasse à thé  
@@ -183,7 +185,7 @@ dokume - document (dossier)
 domi - domestique  
 domu - vivre (habiter)  
 duga - lire  
-dul - deux  
+dul - deux (2)  
 dunia - monde  
 e - et  
 ##e
@@ -215,6 +217,7 @@ futobol - football
 galaksia - galaxie  
 galte - faute (erreur)  
 galti - erroné  
+gandume - blé  
 gase - gaz  
 gati - dur  
 gazele - gazelle  
@@ -340,6 +343,7 @@ libele - libellule
 lider - dirigeant (leader)  
 lifafa - envelopper (emballer)  
 lil (lili) - petit  
+lim - cinq (5)  
 limone - citron  
 lisane - langue  
 liste - liste  
@@ -401,6 +405,7 @@ muskulobine - culturisme (musculation)
 nade - rivière (fleuve)  
 nasia - nation  
 nasomedi - international  
+naw - neuf (9)  
 nefre - rein  
 neurosel - neurone  
 nida - avoir besoin de  
@@ -412,6 +417,7 @@ nixe - niche
 no - non (ne...pas)  
 noce - noit  
 nombre - nombre (numéro)  
+norde - nord  
 nostalgia - nostalgie  
 note - note  
 novi - nouveau  
@@ -503,6 +509,7 @@ sare - tête
 saturne - Saturne  
 sekuri - sûr  
 selolojia - cytologie  
+sem - sept (7)  
 seme - semence  
 semi - séminal  
 serye - série  
@@ -511,6 +518,7 @@ sihe - santé
 sihi - sain  
 sikle - bicyclette  
 sikliste - cycliste  
+sis - six (6)  
 site - ville  
 socia - société  
 sole - soleil  
@@ -546,6 +554,7 @@ tese - argument
 teste - épreuve (test)  
 tikete - billet  
 time - équipe  
+tin - trois (3)  
 tira milke - tirer  
 toca - toucher  
 tomate - tomate  
@@ -553,6 +562,7 @@ tunisia - Tunisie
 tuze - lapin (lièvre)  
 ##u
 umure - âge  
+un - un (1)  
 ura - hourra  
 uranium - uranium  
 urse - ours  

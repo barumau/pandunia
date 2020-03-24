@@ -29,7 +29,6 @@
 |**ameno**|certe|araba:(ʾāmin), turka:amin,emin, heb:hbo:אמן, greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen)|
 |**analize**|analizo|angla:analysis, franca:analyse, portugala:análise, hispana:análisis, rusa:анализ (analiz), turka:analiz|
 |**ande**|ovo|hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)|
-|**anjile**|mesaĝo|greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho|
 |**anker**|ankro|angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru)|
 |**anti**|kotraŭa|angla:franca:hispana:portugala:deu:anti-, rusa:анти- (anti-), japana:反対 (hantai-), polona:anty-|
 |**aple**|pomo|angla:apple, deu:Apfel, malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
@@ -235,6 +234,7 @@
 |**gade**|azeno|hindia:गधा (gadhā), bengala:গাধা (gadha), guĝarata:ગધેડો (gadheḍo), teluga:(gāḍida), tamila:(kaḻutai), malaja:keledai, + joruba:ké̩té̩ké̩té̩|
 |**gaje**|elefanto|hindia:गज (gaj), teluga:గజము (gajamu), kanara:ಗಜ (gaja), malaja:gajah, filipina:gadya|
 |**galte**|eraro (miso)|araba:(ğalṭa), hindia:ग़लती (ġaltī), urdua:(ġalatī), persa:(ğalat), turka:galat|
+|**gandume**|tritiko|ind:gandum, persa:گندم‎(gandom), urdua:گندم‎(gandum), teluga:గోధుమ (gōdhuma), svahila:ngano|
 |**gani**|seka|mandarena:干 (gān), kantona:乾 (gon1), korea:건 (geon)|
 |**ganje**|kanabo|hindia:गांजा (gāñjā), urdua:(gānjā), panĝaba:ਗਾਂਜਾ (gāñjā), bengala:গাঁজা (gañja), teluga:గంజాయి (gañjāyi), tamila:கஞ்சா (kañcā), kmera:កញ្ឆា (kɑñchaa), taja:กัญชา (gan-chaa), vjetnama:cần sa, angla:portugala:malaja:ganja, japana:ガンジャ (gānjya)|
 |**ganoputaw**|sekvinbero|korea:건포도 (geonpodo), mandarena:葡萄干 (pútáogān)|
@@ -513,6 +513,7 @@
 |**noce**|nokto|hispana:noche, portugala:noite, rusa:ночь (nočʹ), polona:noc|
 |**node**|nodo|angla:node, hispana:nudo, portugala:nó, franca:nœud|
 |**nombre**|nombro|angla:number, franca:nombre, hindia:नंबर (nambar), bengala:নম্বর (nômbôr), malaja:nombor, svahila:nambari|
+|**norde**|nordo|angla:north, hispana:portugala:norte, deu:Nord, franca:nord, rusa:норд (nord)|
 |**nostalgia**|nostalgio (saudado)|angla:portugala:hispana:nostalgia, franca:nostalgie, deu:Nostalgie, rusa:ностальгия (nostalʹgiya), japana:ノスタルジー (nosutarujī), persa:(nostâlži)|
 |**note**|noto (rimarko, komento)|deu:angla:franca:note, hispana:portugala:nota, turka:not, japana:ノート (nōto), korea:노트 (noteu), persa:(not)|
 |**novi**|nova|rusa:новый (novyy), portugala:novo, hispana:nuevo, hindia:नव (nav), angla:novel, franca:nouveau|
@@ -682,6 +683,7 @@
 |**tule**|ilo|angla: tool, korea: 툴 (tul), japana: ツール (tsūru), Zulu: ithuluzi|
 |**tunike**|robo|hispana:túnica, angla:tunic, rusa:туника (tunika)|
 |**umure**|aĝo|araba:عُمْر‎ (ʿumr), hindia:उमर (umar), malaja:umur, svahila:umri|
+|**un**|unu (1)|franca:un, hispana:uno, portugala:um,una, angla:one|
 |**unale**|unu la alian (reciproke)|angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)|
 |**urse**|urso|franca:ours, portugala:urso, hispana:oso, persa:(xers)|
 |**uza**|uzi|angla:use, hispana:usar, polona:używać|

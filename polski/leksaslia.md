@@ -34,7 +34,7 @@
 |**ampule**|ampułka|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**analize**|analiza|eng:analysis, fra:analyse, por:análise, spa:análisis, rus:анализ (analiz), tur:analiz|
 |**ande**|jajko (jajo)|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
-|**anjile**|wiadomość|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
+|**anjile**|viesti|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
 |**anker**|kotwica|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru)|
 |**anti**|przeciwstawny (naprzeciw, naprzeciwko, anty-)|eng:fra:spa:por:deu:anti-, rus:анти- (anti-), jpn:反対 (hantai-), pol:anty-|
 |**antoname**|antonim|eng:deu:antonym, fra:antonyme, spa:por:antónimo, rus:антоним (antonim), may:tur:antonim|
@@ -292,6 +292,7 @@
 |**gade**|osioł|hin:गधा (gadhā), ben:গাধা (gadha), guj:ગધેડો (gadheḍo), tel:(gāḍida), tam:(kaḻutai), may:keledai, + yor:ké̩té̩ké̩té̩|
 |**gaje**|słoń|hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |**galte**|błąd (pomyłka)|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
+|**gandume**|pszenica|ind:gandum, fas:گندم‎(gandom), urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|
 |**gani**|suchy|zho:干 (gān), yue:乾 (gon1), kor:건 (geon)|
 |**ganje**|konopie|hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|
 |**ganoputaw**|rodzynka|kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|
@@ -683,6 +684,7 @@
 |**nol**|zero, nic, żaden|rus:ноль (nol'), may:nol, deu:null, eng:null|
 |**nombre**|numer|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
 |**nomia**|zarządzanie (-nomia)|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya)|
+|**norde**|północ|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**nostalgia**|nostalgia (tęsknota)|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |**note**|uwaga, obserwacja|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|nowy|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
@@ -939,6 +941,7 @@
 |**tuze**|królik, zając|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |**umami**|mięsny (umami)|jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)|
 |**umure**|wiek|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
+|**un**|jeden (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**unale**|się (nawzajem, wzajemnie)|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |**ura**|wiwatować; hura|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|niedźwiedź|fra:ours, por:urso, spa:oso, fas:(xers)|

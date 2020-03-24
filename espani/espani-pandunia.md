@@ -1741,7 +1741,6 @@ meninge - mening
 meningitis - meningitis  
 menor (leve) - minori  
 menos - min (mino)  
-mensaje - anjile  
 mensajero - anjiler  
 mental (psíquico) - ruhi  
 mercado (bazar) - bazar  
@@ -1749,6 +1748,7 @@ Mercurio - budan
 mercurio - hurargente  
 mesa - meze  
 mesiánico - kristi  
+message - anjile  
 meta (gol) - gole  
 metal - metale  
 metal pesado - barometal  
@@ -2786,6 +2786,7 @@ tratar de - tema
 tren - tren (trene)  
 tres (3) - tin  
 tribu - tribe  
+trigo - gandume  
 Trinidad y Tobago - trinidade e tobage  
 triste - duki  
 triángulo - tinogon  

@@ -87,7 +87,7 @@ andoria - Andora
 angolia - Angola  
 anima - animować  
 anime - animacja  
-anjile - wiadomość  
+anjile - viesti  
 anjiler - posłaniec (wysłannik)  
 anker - kotwica  
 anta - sprzeciwiać się (opierać się)  
@@ -775,6 +775,7 @@ gambia - Gambia
 gamele - wielbłąd, wielbłądzica  
 gana - suszyć (wysuszyć)  
 gandia - Uganda  
+gandume - pszenica  
 ganga - Ganges  
 gani - suchy  
 gania - Ghana  

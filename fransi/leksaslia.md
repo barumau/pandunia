@@ -53,6 +53,7 @@
 |**badan (badane)**|corps|eng:body, ara:(badan), hin:बदन (badan), fas:urd:(badan), tur:beden|
 |**bagre**|tigre|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:(tigr)|
 |**baki**|blanc|yue:白 (baak6), vie:bạch, Zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
+|**bal**|huit (8)|zho:八 (bā), kor:팔 (pal), tgl:walo, haw:walu|
 |**balibali**|divers (plusieurs)|eng:various, spa:vario, por:vário, jpn:とりどり (toridori), ben:বিবিধ (bibidha), may:berbagai-bagai, swa:balimbali|
 |**banane**|banane|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
 |**bande**|bande|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
@@ -104,7 +105,7 @@
 |**diske**|disque|eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|
 |**dokume**|document (dossier)|eng:fra:document, rus:документ (dokument)|
 |**duga**|lire|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
-|**dul**|deux|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
+|**dul**|deux (2)|kor:둘 (dul), ben:দুই (dui), may:dua, + eng:fra:por:spa:dual|
 |**dunia**|monde|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|
 |**e**|et|fra:et, por:e, zho:和 (hé)|
 |**ekore**|écureuil|fra:écureuil, yor:ọkẹrẹ, sve:ekorre, hau:kurege|
@@ -122,6 +123,7 @@
 |**fule**|fleur|hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|
 |**futobol**|football|eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|
 |**galte**|faute (erreur)|ara:(ğalṭa), hin:ग़लती (ġaltī), urd:(ġalatī), fas:(ğalat), tur:galat|
+|**gandume**|blé|ind:gandum, fas:گندم‎(gandom), urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|
 |**gase**|gaz|deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|
 |**gati**|dur|tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |**gazele**|gazelle|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
@@ -240,6 +242,7 @@
 |**mule**|racine|hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|
 |**nade**|rivière (fleuve)|hin:mar:नदी (nadī) (nadī), urd:(nadī), ben:নদী (nôdī), pnb:ਨਦੀ (nadī), guj:નદી (nadī), kan:ನದಿ (nadi), tel:నది (nadi), tam:நதி (nati)|
 |**nasia**|nation|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
+|**naw**|neuf (9)|hin:नौ (nau), urd:(nau)|
 |**nefre**|rein|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |**nida**|avoir besoin de|eng: need|
 |**nili**|bleu|ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|
@@ -247,6 +250,7 @@
 |**no**|non (ne...pas)|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |**noce**|noit|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**nombre**|nombre (numéro)|eng:number, fra:nombre, hin:नंबर (nambar), ben:নম্বর (nômbôr), may:nombor, swa:nambari|
+|**norde**|nord|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**nostalgia**|nostalgie|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |**note**|note|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|nouveau|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
@@ -310,6 +314,7 @@
 |**sange**|sang|fra:sang, spa:sangre, por:sangue|
 |**sare**|tête|fas:(sar), hin:सिर (sir), ara:(raʾs)|
 |**sekuri**|sûr|eng:secure, deu:sicher, spa:por:seguro|
+|**sem**|sept (7)|rus:семь (semʹ)|
 |**seme**|semence|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |**serye**|série|tur:seri, fra:série, spa:serie, rus:серия (seriya), eng:series, zho:系列 (xìliè)|
 |**si**|oui|spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|
@@ -336,10 +341,12 @@
 |**tese**|argument|eng:thesis, fra:thèse, spa:tesis|
 |**teste**|épreuve (test)|eng:fra:test, rus: тест (test), por:teste, tur:test|
 |**tikete**|billet|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
+|**tin**|trois (3)|hin:तीन (tīn), ben:তিন (tin), urd:(tīn)|
 |**toca**|toucher|eng:touch, spa: tocar, + hin: छूना /chūnā/, zho: 触 (chù)|
 |**tomate**|tomate|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
 |**tuze**|lapin (lièvre)|zho:兔子 (tùzi), yue:兔仔 (tou3zai2)|
 |**umure**|âge|ara:عُمْر‎ (ʿumr), hin:उमर (umar), may:umur, swa:umri|
+|**un**|un (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**ura**|hourra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**urse**|ours|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**vagin**|vagine|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|

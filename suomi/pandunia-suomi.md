@@ -87,7 +87,7 @@ andoria - Andorra
 angolia - Angola  
 anima - animoida  
 anime - animaatio (piirretty)  
-anjile - viesti  
+anjile - mesaĝo  
 anjiler - viestintuoja (airut)  
 anker - ankkuri  
 anta - vastustaa  
@@ -750,6 +750,7 @@ gambia - Gambia
 gamele - kameli  
 gana - kuivata (kuivattaa)  
 gandia - Uganda  
+gandume - vehnä  
 ganga - Ganges  
 gani - kuiva  
 gania - Ghana  
@@ -2585,7 +2586,7 @@ ulula - ulvoa
 ulule - ulvonta  
 umami - umami (ruokaisanmakuinen)  
 umure - ikä  
-un - yksi  
+un - yksi (1)  
 un ban - kerran  
 una - yhdistää  
 unale - toisiaan (keskenään)  

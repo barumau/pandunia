@@ -1967,6 +1967,7 @@ pręt, kij - batone
 psychologia - ruholojia  
 pszczoła lub osa - vespe  
 pszczoła miodna - melovespe  
+pszenica - gandume  
 ptak - pakse  
 publiczny - demi  
 puder - mukofun  
@@ -2570,6 +2571,7 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - vanuatia  
+viesti - anjile  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wil  
@@ -2611,7 +2613,6 @@ wersja (wariacja, edycja, wydanie) - version
 wesoły, ucieszony - suki  
 wewnętrzny - indi  
 wewnętrzny - indojeni  
-wiadomość - anjile  
 wiadomość, nius - habare  
 wiadomość, zawiadomienie, powiadomienie - notise  
 wiadomy, znany - jani  

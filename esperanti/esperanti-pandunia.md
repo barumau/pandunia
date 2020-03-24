@@ -926,7 +926,6 @@ memoro - meme
 merdo - xite  
 merkato (bazaro) - bazar  
 Merkuro - budan  
-mesaĝo - anjile  
 metalo - metale  
 metiero - pexe  
 metiisto - janger  
@@ -1024,6 +1023,7 @@ nodo - node
 nokto - noce  
 nombro - nombre  
 nomo - nam (name)  
+nordo - norde  
 norvega - norgi  
 Norvegio - norgia  
 nostalgio (saudado) - nostalgia  
@@ -1466,6 +1466,7 @@ trezoro - hazine
 tri (3) - tin  
 tribo - tribe  
 tribordo - botoraite  
+tritiko - gandume  
 tro - max ko bas  
 trovi - eureka  
 tubo - tube  
@@ -1480,7 +1481,7 @@ tuttera - panoduni
 tuŝi - toca  
 ##u
 uniono - unia  
-unu - un  
+unu (1) - un  
 unu la alian (reciproke) - unale  
 uragano (tajfuno) - rototufane  
 uranio - uranium  

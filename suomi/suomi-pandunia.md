@@ -1377,6 +1377,7 @@ merkitä (tarkoittaa) - mena
 merkki (jälki) - marke  
 merkki (signaali) - sinye  
 Merkurius - budan  
+mesaĝo - anjile  
 messiaaninen - kristi  
 mestari (asiantuntija) - mester  
 mestari (voittaja) - campion  
@@ -2647,6 +2648,7 @@ Vatikaanivaltio - vatikania
 vaurio (vahinko) - damaje  
 vauva - bebe  
 vegaani - monovejoniamiste  
+vehnä - gandume  
 veistos (patsas) - eskulte  
 veistää kuvaa - eskulta  
 veitsi (puukko) - cake  
@@ -2683,7 +2685,6 @@ vieraanvarainen (antelias, hyväntahtoinen) - karimi
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  
-viesti - anjile  
 viestintuoja (airut) - anjiler  
 Vietnam - vietia  
 vietnamilainen - vieti  
@@ -2794,7 +2795,7 @@ yhteiskunnallinen (sosiaalinen) - soci
 yhteisymmärrys - samoraye  
 yhteisö (kokoontuminen, kollektiivi) - jamia  
 yhtenäinen - uni  
-yksi - un  
+yksi (1) - un  
 yksimerkityksinen - unomeni  
 yksinkertainen (mutkaton) - simpli  
 yksinpuhelu (monologi) - monologe  

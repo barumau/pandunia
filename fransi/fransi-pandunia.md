@@ -112,6 +112,7 @@ billet - tikete
 bière - bire  
 blanc - baki  
 bleu - nili  
+blé - gandume  
 bombe - bombe  
 bon - bon (boni)  
 bord (rive) - tate  
@@ -153,6 +154,7 @@ chocolat - cokolate
 chose - xey (xeye)  
 ciel - samane  
 cime (pic, sommet) - pike  
+cinq (5) - lim  
 citron - limone  
 clair - klari  
 coeur - kerne  
@@ -192,7 +194,7 @@ côté - late
 dance - danse  
 de - ca  
 destin (destination) - destine  
-deux - dul  
+deux (2) - dul  
 diamant - almase  
 dieu - dew (dewe)  
 dioxyde de carbone - karbonodulokside  
@@ -268,6 +270,7 @@ hockey - hoke
 hockey sur glace - aisohoke  
 horloge - reloje  
 hourra - ura  
+huit (8) - bal  
 humanisme - insanistia  
 humeur - emosohal  
 hygiène - hijenia  
@@ -361,12 +364,14 @@ méninge - mening
 ##n
 nation - nasia  
 neige - hime  
+neuf (9) - naw  
 neurone - neurosel  
 niche - nixe  
 noir - cerni  
 noit - noce  
 nombre (numéro) - nombre  
 non (ne...pas) - no  
+nord - norde  
 nostalgie - nostalgia  
 note - note  
 nous - mome  
@@ -458,6 +463,7 @@ prêter - jekodona
 psychologie - ruholojia  
 psyché - ruhe  
 péter - peda  
+quatre (4) - car  
 que (comme) - ko  
 que (quoi) - ke  
 ##r
@@ -500,10 +506,12 @@ se baigner - banyu
 se rappeler (se remémorer) - mema  
 sel - sale  
 semence - seme  
+sept (7) - sem  
 sexe - jinse  
 shopping - xope  
 si - aga  
 situation (état de choses) - xeyohale  
+six (6) - sis  
 société - socia  
 soldat - lasker  
 soleil - sole  
@@ -540,6 +548,7 @@ travail - werke
 travailler - werka  
 travailleur (ouvrier) - werker  
 tribord - botoraite  
+trois (3) - tin  
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
@@ -547,6 +556,7 @@ téléphone - telofone
 téléviseur - telovide  
 tête - sare  
 ##u
+un (1) - un  
 unité fondamentale - eme  
 uranium - uranium  
 ##v

@@ -780,6 +780,7 @@ gambia - Gambia
 gamele - camel  
 gana - dry out  
 gandia - Uganda  
+gandume - wheat  
 ganga - Ganges  
 gani - dry  
 gania - Ghana  

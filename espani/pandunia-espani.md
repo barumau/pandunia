@@ -85,7 +85,7 @@ andoria - Andorra
 angolia - Angola  
 anima - animar  
 anime - animación (dibujo animado)  
-anjile - mensaje  
+anjile - message  
 anjiler - mensajero  
 anker - ancla  
 anta - oponerse (resistir)  
@@ -773,6 +773,7 @@ gambia - Gambia
 gamele - camello  
 gana - secar  
 gandia - Uganda  
+gandume - trigo  
 ganga - Ganges  
 gani - seco (árido)  
 gania - Ghana  

@@ -2922,6 +2922,7 @@ wet (moisten) - xipa
 what kind of? - ki yangi  
 what thing? - ki xey  
 what? - ke  
+wheat - gandume  
 wheel - cakre  
 when? - ki sate  
 where - sa ke  

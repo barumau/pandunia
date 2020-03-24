@@ -294,6 +294,7 @@
 |**gade**|donkey (ass)|Hindi:गधा (gadhā), Bengali:গাধা (gadha), Gujarati:ગધેડો (gadheḍo), Telugu:(gāḍida), Tamil:(kaḻutai), Malay:keledai, + Yoruba:ké̩té̩ké̩té̩|
 |**gaje**|elephant|Hindi:गज (gaj), Telugu:గజము (gajamu), Kannada:ಗಜ (gaja), Malay:gajah, Filipino:gadya|
 |**galte**|mistake (error, fault)|Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Urdu:(ġalatī), Persian:(ğalat), Turkish:galat|
+|**gandume**|wheat|ind:gandum, Persian:گندم‎(gandom), Urdu:گندم‎(gandum), Telugu:గోధుమ (gōdhuma), Swahili:ngano|
 |**gani**|dry|Mandarin:干 (gān), Cantonese:乾 (gon1), Korean:건 (geon)|
 |**ganje**|cannabis (marijuana, ganja, pot, weed)|Hindi:गांजा (gāñjā), Urdu:(gānjā), Punjabi:ਗਾਂਜਾ (gāñjā), Bengali:গাঁজা (gañja), Telugu:గంజాయి (gañjāyi), Tamil:கஞ்சா (kañcā), Khmer:កញ្ឆា (kɑñchaa), Thai:กัญชา (gan-chaa), Vietnamese:cần sa, English:Portuguese:Malay:ganja, Japanese:ガンジャ (gānjya)|
 |**ganoputaw**|raisin|Korean:건포도 (geonpodo), Mandarin:葡萄干 (pútáogān)|
@@ -685,6 +686,7 @@
 |**nol**|zero (none)|Russian:ноль (nol'), Malay:nol, deu:null, English:null|
 |**nombre**|number|English:number, French:nombre, Hindi:नंबर (nambar), Bengali:নম্বর (nômbôr), Malay:nombor, Swahili:nambari|
 |**nomia**|management (-nomy)|English:-nomy, deu:French:-nomie, Spanish:Portuguese:-nomia, Russian:-номия (-nomiya)|
+|**norde**|north|English:north, Spanish:Portuguese:norte, deu:Nord, French:nord, Russian:норд (nord)|
 |**nostalgia**|nostalgia (longing)|English:Portuguese:Spanish:nostalgia, French:nostalgie, deu:Nostalgie, Russian:ностальгия (nostalʹgiya), Japanese:ノスタルジー (nosutarujī), Persian:(nostâlži)|
 |**note**|note (observation, remark, comment)|deu:English:French:note, Spanish:Portuguese:nota, Turkish:not, Japanese:ノート (nōto), Korean:노트 (noteu), Persian:(not)|
 |**novi**|new (recent)|Russian:новый (novyy), Portuguese:novo, Spanish:nuevo, Hindi:नव (nav), English:novel, French:nouveau|
@@ -941,6 +943,7 @@
 |**tuze**|rabbit (hare)|Mandarin:兔子 (tùzi), Cantonese:兔仔 (tou3zai2)|
 |**umami**|savory (umami)|Japanese:旨味 (umami), Korean:우마미 (umami), English:French:Portuguese:Spanish:Malay:umami, Russian:умами (umami)|
 |**umure**|age|Arabic:عُمْر‎ (ʿumr), Hindi:उमर (umar), Malay:umur, Swahili:umri|
+|**un**|one (1)|French:un, Spanish:uno, Portuguese:um,una, English:one|
 |**unale**|each other (one another, mutually)|English:one another, Italian:l’una, l’altra, French: l'un l'autre, Spanish:el uno al otro, Portuguese:um ao outro, Turkish:birbirine, Mandarin:彼此 (bǐcǐ)|
 |**ura**|cheer (hurrah, hooray)|Russian:ура (ura), Italian:urrà, deu:Spanish:hurra, French:hourra, English:hurrah, Malay:hore, Persian:(hurâ)|
 |**urse**|bear|French:ours, Portuguese:urso, Spanish:oso, Persian:(xers)|
