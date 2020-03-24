@@ -2104,7 +2104,6 @@ pile - skóra
 piloter - pilot  
 pimente - pieprz  
 pine - igła, szpilka  
-pingi - płaski  
 pinguine - pingwin  
 pinser - obcęgi, kleszcze, szczypce  
 pipe - fajka  
@@ -2131,12 +2130,13 @@ plan (plane) - plan
 plana - planować  
 planete - planeta  
 plastike - plastik  
-plate - talerz  
+plati - płaski  
 platinum - platyna  
 platon - Platon  
 platoniste - platończyk  
 platonisti - platoniczne  
 platonistia - platonizm  
+platotase - talerz  
 plazme - plazma (zjonizowany gaz)  
 pliza - prosić  
 pliza laya - zaprosić, zapraszać  

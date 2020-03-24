@@ -496,6 +496,7 @@ chocolate bar - cokolatobaton
 choice (election, selection) - cuze  
 choir (chorus) - kore  
 cholera - holere  
+Chongqing - cungcing  
 choose (elect, select) - cuza  
 Christ (messiah) - kriste  
 Christian - krististe  
@@ -629,6 +630,7 @@ cover (conceal) - daka
 cover (lid, cap, deck) - dake  
 cow - muh  
 crab - krabe  
+crack (rift) - krake  
 crafty (dexterous) - jangi  
 cream - kreme  
 creamy (cream colored) - kremi  
@@ -922,6 +924,7 @@ fat (grease) - fete
 father (dad, papa) - pape  
 fatty (greasy) - feti  
 fault (sin, blame, defect, guilt) - doxe  
+fault line - zemokaski krake  
 favorite (preferred) - favori  
 fear (phobia) - fobia  
 feather - pere  
@@ -958,7 +961,7 @@ five (5) - lim
 fix (attach) - fiksa  
 fjord - fiorde  
 flag (banner) - bandere  
-flat - pingi  
+flat (planar) - plati  
 flatbread (chapati, roti) - capate  
 flerovium - flerovium  
 floor - kamarotale  
@@ -1046,6 +1049,8 @@ genderqueer (non-binary) - bise
 generosity (charity) - karimia  
 generous (charitable) - karimi  
 genotype - jenotipe  
+geography - zemografia  
+geology - zemolojia  
 Georgia (Republic of Georgia) - kartuelia  
 German - doici  
 germanium - germanium  
@@ -1095,6 +1100,7 @@ grape - putaw
 grapheme - grafeme  
 graphic (pictorial) - grafi  
 grass - grase  
+grassland - grasistan  
 grave (tomb) - gabre  
 graveyard - gabristan  
 Greece - helenia  
@@ -1118,6 +1124,7 @@ grow (grow up, expand) - rastu
 growth - raste  
 Guadeloupe - guadelupia  
 Guam - guamia  
+Guangzhou (Canton) - guangjou  
 guarantee (warranty) - garante  
 guard (watch) - garda  
 guardian (watchman) - garder  
@@ -1202,6 +1209,7 @@ historian - historer
 history (annals) - histore  
 history (study of history) - historia  
 hmm - hem  
+Ho Chi Minh City (Saigon) - ho ci ming site  
 hobby - hobe  
 hockey - hoke  
 hole - konge  
@@ -1328,6 +1336,7 @@ jacket - jake
 jade - yuke  
 jailer (imprisoner) - prizoner  
 Jainism - jeinistia  
+Jakarta - jakarte  
 Jamaica - jamaikia  
 January - mes 1 (mes un)  
 Japan - niponia  
@@ -1337,6 +1346,7 @@ jazz - jaze
 jealous - jelos  
 jellyfish (seajelly) - samudojel  
 Jersey - jersia  
+Jerusalem - uruxalem  
 Jesus - yesus  
 Jewish - yehudi  
 joint - samune  
@@ -1410,6 +1420,7 @@ Kuwait - kuwaitia
 Kyrgyzstan - kirgizia  
 ##l
 lacquer (varnish) - lake  
+Lagos - legos  
 lake - lage  
 lamp - lampe  
 language (communication) - baxe  
@@ -1427,6 +1438,7 @@ Latin alphabet - latini abace
 latitude - sudonordia  
 Latvia - latovia  
 laugh - haha  
+lava - yongopetre  
 law - kanune  
 lawrencium - laurensium  
 layer (level, storey, floor, stratum) - cenge  
@@ -1500,6 +1512,7 @@ logbook - deftobuke
 logic (deduction) - logike  
 logical - logiki  
 logophile (word buff) - logofiler  
+London - london  
 long (lengthy) - longi  
 longitude - westodongia  
 look (see) - vida  
@@ -1531,6 +1544,7 @@ magazine (journal, gazette) - gazete
 magic - magia  
 magical - magi  
 magician (sorcerer) - mager  
+magma - pastopetre  
 magnesium - mangese  
 magnet - mangete  
 magnetic - mangeti  
@@ -1616,6 +1630,7 @@ meaning (signification) - mene
 measure (take measurements) - meta  
 measurement - mete  
 meat (flesh) - manse  
+Mecca - makah  
 medallion (medal) - medale  
 medicine (field of study) - medikia  
 meditate (ponder) - medita  
@@ -1629,6 +1644,7 @@ megawat (MW) - megowate
 meitnerium - maitnerium  
 melodious (melodic) - melodi  
 melody - melodia  
+melt (be liquified) - yongu  
 member (component) - member  
 memorandum (memo) - memonote  
 memory (recollection) - meme  
@@ -1645,6 +1661,7 @@ metal - metale
 meter (## cm) - metre  
 method (means) - metode  
 Mexico - mexikia  
+Mexico City - mexikia site  
 micro- - mikro-  
 Micronesia - mikronesia  
 middle (center) - junge  
@@ -1708,6 +1725,7 @@ Morocco - magribia
 morph - morfe  
 morpheme - morfem  
 moscovium - moskovium  
+Moscow - moskove  
 mosquito - moskite  
 moss - mose  
 most (maximally) - maxim (maximo)  
@@ -1729,6 +1747,7 @@ muddy - poti
 multicultural - multokulturi  
 multiculturalism - multokulturistia  
 multinational - multonasi  
+Mumbai (Bombay) - mumbai  
 mummy - mumia  
 muscle - muskule  
 music - musike  
@@ -1783,6 +1802,7 @@ never - nol ban
 Nevis - nevis  
 new (recent) - novi  
 New Caledonia - novi kaledonia  
+New York City - novi yorke site  
 New Zealand - novi zilandia  
 news - habare  
 newspaper (gazette) - habarogazete  
@@ -1953,6 +1973,7 @@ parallel (longitudinal) - parogowi
 parameter (argument, input variable) - parame  
 parasol - solocate  
 parent (mother or father) - jener  
+Paris - paris  
 park (garden) - parke  
 parrot (parakeet) - papagaye  
 part (fraction) - fene  
@@ -2036,14 +2057,19 @@ pizza - pize
 pizzeria - pizeria  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere) - sadi  
+plain (plateau, flat lands) - platistan  
 plan - plan (plane)  
+plane (plate) - plate  
 plane (tool for making a smooth surface) - rander  
 plane hijacker - vimanokaper  
 planet - planete  
 plant (vegetation) - fite  
 plasma (ionized gas) - plazme  
 plastic - plastike  
-plate - plate  
+plate - platotase  
+plate tectonics - plati zemokaskia  
+plateau (tableland) - mezistan  
+platform - platoforme  
 platinum - platinum  
 Plato - platon  
 Platonic - platonisti  
@@ -2085,6 +2111,7 @@ ponder (think) - hema
 pool (basin) - basene  
 poor (miserable) - miskini  
 popular (trendy) - faxoni  
+population - demomultia  
 pork - gurubomanse  
 porn - porne  
 pornography - pornografia  
@@ -2338,6 +2365,7 @@ Samoa - samowia
 San Marino - santi marinia  
 sand - rege  
 sandwich - sanduice  
+Sao Paulo - santi paule  
 Sao Tome and Principe - santi tome e prinsipe  
 Satanism (devil worship) - xatanistia  
 Satanist - xataniste  
@@ -2347,6 +2375,7 @@ sauce - sose
 Saudi Arabia - saudi arabia  
 sauna - saune  
 sausage - sosise  
+savannah - savane  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 scales (weighing device) - barometer  
@@ -2403,12 +2432,14 @@ shadow - saye
 shaman - xamane  
 shame (disgrace) - xarme  
 shampoo - kexosabun  
+Shanghai - xanghai  
 shape (sculpt) - forma  
 share - komuna  
 shari'a - islamisti xaria  
 shatter (break into pieces) - parca  
 shea (vitellaria) - karite  
 sheep - meh  
+shell (crust, carapace) - kaske  
 Shintoism - xindawistia  
 shirt - kamise  
 shit (feces) - xite  
@@ -2651,6 +2682,7 @@ technetium - tehnetium
 technique (technology) - tehne  
 technocracy - tehnokratia  
 technology (study of techniques) - tehnolojia  
+tectonic plate - zemokaski plate  
 telephone - telofone  
 television - telovide  
 tell (narrate) - saga  
@@ -2727,6 +2759,7 @@ today - zayoden
 Togo - togolia  
 Togolese - togoli  
 toilet (WC) - tuale  
+Tokyo - tokyo  
 tolerate - tolera  
 tomato - tomate  
 tomorrow - badi den  
@@ -2891,6 +2924,7 @@ warm (hot) - garmi
 warrior (fighter) - jenger  
 wash - waxa  
 washing machine - waxomaxin  
+Washington D.C. - waxington d c (do ce)  
 water - suy (suye)  
 water buffalo - kabawe  
 water lily (nenuphar) - nenufar  

@@ -2015,7 +2015,6 @@ pile - nahka (kuori, iho)
 piloter - ohjaaja (pilotti, luotsi)  
 pimente - pippuri  
 pine - neula  
-pingi - litteä  
 pinguine - pingviini  
 pinser - pihdit  
 pipe - piippu  
@@ -2041,12 +2040,13 @@ plan (plane) - suunnitelma
 plana - suunnitella  
 planete - planeetta  
 plastike - muovi  
-plate - lautanen  
+plati - litteä  
 platinum - platina  
 platon - Platon  
 platoniste - platonisti  
 platonisti - platoninen  
 platonistia - platonismi  
+platotase - lautanen  
 pliza - pyytää  
 pliza laya - pyytää tulemaan  
 plumbe - lyijy  

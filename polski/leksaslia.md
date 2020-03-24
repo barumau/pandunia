@@ -743,7 +743,6 @@
 |**pile**|skóra|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
 |**pimente**|pieprz|spa:pimienta, tgl:pamenta|
 |**pine**|igła, szpilka|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
-|**pingi**|płaski|zho:平 (píng)|
 |**pinser**|obcęgi, kleszcze, szczypce|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
 |**pipe**|fajka|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |**pipinga**|ocenić, oceniać, recenzować, komentować, krytykować|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|

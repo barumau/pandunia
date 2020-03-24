@@ -1144,7 +1144,7 @@ lauantai - var 6 (var sis)
 laulaa - canta  
 laulu - cante  
 lauta (lankku) - banze  
-lautanen - plate  
+lautanen - platotase  
 lautapeli - banzogem  
 lava (näyttämö) - sene  
 lawrensium - laurensium  
@@ -1201,7 +1201,7 @@ lista (luettelo) - liste
 lisä- - maxi  
 litium - litium  
 litra - litre  
-litteä - pingi  
+litteä - plati  
 litši - lice  
 livermorium - livermorium  
 logiikka - logike  

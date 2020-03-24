@@ -118,6 +118,7 @@ cini - 汉族
 cise - 酪 (起司)  
 cokolate - 巧克力  
 cokolatobaton - 巧克力棒  
+cungcing - 重庆  
 cuzable - 选择 (买卖权)  
 ##d
 date - 数据  
@@ -166,6 +167,7 @@ gole - 目的
 gotone - 棉  
 governe - 政府  
 grimase - 鬼脸  
+guangjou - 广州  
 gunden - 宫殿  
 gunodarme - 道德  
 gute - 膝  
@@ -227,6 +229,7 @@ karde - 牌
 karolekse - 动词  
 karte - 地图  
 kartografia - 地图学  
+kaske - 壳 (皮)  
 kata - 切  
 kava - 挖  
 kave - 坑 (穴)  
@@ -248,6 +251,7 @@ konfusi - 困惑 (混乱)
 kope - 杯子  
 kosmi - 宇宙的  
 kosmia - 宇宙  
+krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
 kruasan - 牛角包  
 kuani - 宽  
@@ -366,6 +370,7 @@ pape - 爸爸
 parame - 参数  
 parke - 园  
 pasporte - 护照  
+pastopetre - 岩漿  
 patojener - 病原体  
 patolojia - 病理学  
 pay (paye) - 馅饼  
@@ -380,6 +385,8 @@ pine - 别针
 pira - 燃烧  
 pire - 火  
 piru - 烧  
+plati zemokaskia - 板块构造论  
+platistan - 平原  
 pliza - 请  
 porte - 港  
 pote - 坭  
@@ -490,6 +497,7 @@ werke - 工作
 werker - 工人 (工作者)  
 ##x
 xame - 晚上  
+xanghai - 上海  
 xatan (xatane) - 撒但  
 xaw - 少  
 xey (xeye) - 事物 (东西)  
@@ -508,6 +516,8 @@ xukar - 糖
 xute - 技术  
 ##y
 yoge - 瑜伽功  
+yongopetre - 熔岩  
+yongu - 融化  
 yuke - 玉  
 ##z
 zebre - 斑马  

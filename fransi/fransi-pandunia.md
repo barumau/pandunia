@@ -87,6 +87,7 @@ babord - botolefte
 bagage - bagaje  
 baie - bere  
 bain - banye  
+baisser - tala  
 balcon - balkone  
 ball - bol (bole)  
 bambou - banse  
@@ -97,6 +98,8 @@ banquier - banker
 barbe - barde  
 barrière - baryer  
 baryum - barium  
+bas - tale  
+bas - tali  
 base - baze  
 base de données - datobanke  
 baseball - bazobol  
@@ -134,6 +137,7 @@ calculer - hisaba
 canapé (sofa) - kanape  
 canoë - kanowe  
 capacité (compétence) - able  
+carapace (coquille, coquillage, croûte) - kaske  
 Caraïbes - karaibia  
 carte - karde  
 carte - karte  
@@ -193,6 +197,7 @@ côté - late
 ##d
 dance - danse  
 de - ca  
+dessous - nice  
 destin (destination) - destine  
 deux (2) - dul  
 diamant - almase  
@@ -215,6 +220,8 @@ dur - gati
 eau - suy (suye)  
 Einsteinium - ainstainium  
 empruntre - jeka  
+en arrière - retro  
+en avant - jino  
 enfant - bace  
 envelopper (emballer) - lifafa  
 erroné - galti  
@@ -231,6 +238,7 @@ faible - debili
 faire - fata  
 faute (erreur) - galte  
 favori (préféré) - favori  
+fente (fissure, fêlure) - krake  
 feu - pire  
 fils ou fille - pute  
 fiord - fiorde  
@@ -251,6 +259,7 @@ gaz lacrymogène - kanosuyogas
 gazelle - gazele  
 geler (glacer) - aisu  
 genou - gute  
+geographie - zemografia  
 gingembre - zinje  
 giraffe - jirafe  
 goule - gule  
@@ -261,7 +270,9 @@ guitare - gitare
 génotype - jenotipe  
 généreux - karimi  
 générosité (charité) - karimia  
+géologie - zemolojia  
 ##h
+haut - gawe  
 heure - hore  
 heureux - suki  
 hiver - zime  
@@ -308,6 +319,7 @@ langue maternelle - jeni baxe
 lapin (lièvre) - tuze  
 lasagne - lazanye  
 latéral - lati  
+lave - yongopetre  
 lent - lenti  
 Lettonie - latovia  
 lexical - leksi  
@@ -326,6 +338,7 @@ luthérien - lutheristi
 lys - susane  
 ##m
 machine à écrire - kitabomaxin  
+magma - pastopetre  
 magnésium - mangese  
 main - hande  
 mais (bien que) - a  
@@ -339,6 +352,7 @@ match - mece
 maximum - maxime  
 maître - mester  
 medio - medi  
+melt - yongu  
 mer - samude  
 merde - xite  
 message - anjile  
@@ -418,6 +432,7 @@ par exemple - misalo
 paramètre - parame  
 parapluie - barxocate  
 parc - parke  
+Paris - paris  
 parler - loga  
 passeport - pasporte  
 pastèque - arbuze  
@@ -440,6 +455,8 @@ pizza - pize
 pièce (chambre) - kamare  
 placard - almar  
 place - maidane  
+plaine - platistan  
+plaque tectonique - zemokaski plate  
 plein - puri  
 pluie - barxe  
 plume - kalam  
@@ -500,6 +517,7 @@ Satan - xatan (xatane)
 Saturne - saturne  
 sauce - sose  
 saucisse - sosise  
+savane - savane  
 savoir (connaître) - jana  
 sculpteur - eskulter  
 se baigner - banyu  
@@ -534,6 +552,7 @@ tasse à thé - cayokupe
 taximètre - taksometer  
 technique - tehne  
 technologie - tehnolojia  
+tectonique des plaques - plati zemokaskia  
 tendance - ive  
 tente - haime  
 terrorisme - teroristia  
@@ -552,6 +571,7 @@ trois (3) - tin
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
+télécharger - talolada  
 téléphone - telofone  
 téléviseur - telovide  
 tête - sare  

@@ -228,6 +228,7 @@ karde - карта
 karolekse - глагол  
 karte - карта  
 kartografia - картография  
+kaske - оболочка (кора, панцирь)  
 katane - меч  
 kava - копать  
 kave - яма  
@@ -251,6 +252,7 @@ korone - корона
 kosmi - космический  
 kosmia - космос  
 krabe - краб  
+krake - щель (трещина)  
 krane - кран  
 krepe - блин  
 kruasan - круассан  
@@ -318,6 +320,7 @@ mixa - мешать
 molia - мельница  
 moluske - моллюск  
 mome - мы  
+moskove - Москва  
 mule - корень  
 muskulobine - культуризм  
 ##n

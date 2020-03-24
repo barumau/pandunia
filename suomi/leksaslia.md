@@ -731,7 +731,6 @@
 |**pile**|nahka (kuori, iho)|englanti:peel, espanja:piel, portugali:pele, yleiskiina:皮 (pí), wu-kiina:皮 (bí), kantoninkiina:皮 (pei4)|
 |**pimente**|pippuri|espanja:pimienta, filippiini:pamenta|
 |**pine**|neula|englanti:pin, japani:ピン (pin), korea:핀 (pin), hindi:पिन (pin)|
-|**pingi**|litteä|yleiskiina:平 (píng)|
 |**pinser**|pihdit|englanti:pincers, ranska:pinces, turkki:pense, japani:ペンチ (penchi)|
 |**pipe**|piippu|espanja:malaiji:pipa, englanti:ranska:pipe, persia:(pip), vietnami:píp|
 |**pipinga**|arvioida (arvostella, kritisoida)|yleiskiina:批评 (pīpíng), vietnami:phê bình, korea:비평 (bipyeong)|

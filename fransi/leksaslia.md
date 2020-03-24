@@ -175,6 +175,7 @@
 |**karimi**|généreux|ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|
 |**karolekse**|verbe|hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|
 |**karte**|carte|deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|
+|**kaske**|carapace (coquille, coquillage, croûte)|spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|
 |**kava**|creuser|spa:por:cavar, eng:excavar, fra:excaver|
 |**ke**|que (quoi)|spa:qué, por:fra:que, + ben:কে  (ke)|
 |**kerne**|coeur|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
@@ -188,6 +189,7 @@
 |**korone**|couronne|fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|
 |**kosmia**|cosmos|rus:космос (kosmos), eng:fra:spa:cosmos|
 |**krabe**|crabe|eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|
+|**krake**|fente (fissure, fêlure)|yue:隙 (gwik1), nan:隙 (kiah4), jpn:隙 (kyaku), vie: khích + eng:crack, fra:craquer, spa:crac|
 |**kreme**|crème|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |**krepe**|crêpe|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
 |**kruasan**|croissant|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
@@ -244,6 +246,7 @@
 |**nasia**|nation|ara:(nās), + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |**naw**|neuf (9)|hin:नौ (nau), urd:(nau)|
 |**nefre**|rein|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
+|**nice**|dessous|ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|
 |**nida**|avoir besoin de|eng: need|
 |**nili**|bleu|ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|
 |**nixe**|niche|fra:eng:niche, por:nicho, rus:ниша (niša)|
@@ -282,6 +285,7 @@
 |**pine**|épingle|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pire**|feu|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
 |**pize**|pizza|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
+|**plati zemokaskia**|tectonique des plaques|eng:tectonic, spa:tectónica, rus:тектоника (tektonika), ara:تكتونية (tuktunia), hin:टेक्टोनिक्स (tektoniks), ben:টেকটোনিক্স (ṭēkaṭōniksa), may:tektonik, jpn:テクトニクス (tekutonikusu)|
 |**porte**|porte|eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|
 |**pote**|boue (fange, bourbe, gadoue)|ibo:potọ potọ, lin:pɔtɔpɔ́tɔ, kon:fra:poto-poto|
 |**probleme**|problème|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
@@ -313,6 +317,7 @@
 |**sanduice**|sandwich|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |**sange**|sang|fra:sang, spa:sangre, por:sangue|
 |**sare**|tête|fas:(sar), hin:सिर (sir), ara:(raʾs)|
+|**savane**|savane|eng:savannah, spa:sabana, rus:саванна (savanna), ara:سافانا (safana), swa:savana, hin:सवाना (savaana), jpn:サバンナ (sabanna)|
 |**sekuri**|sûr|eng:secure, deu:sicher, spa:por:seguro|
 |**sem**|sept (7)|rus:семь (semʹ)|
 |**seme**|semence|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
@@ -371,6 +376,7 @@
 |**xite**|merde|eng:shit, zho:屎 (shǐ), yue:屎 (si2)|
 |**xope**|shopping|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |**xukar**|sucre|ara:(sukkar), swa:sukari, por:açúcar, spa:azúcar, Hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), tur:şeker, Tam:சக்கரை (cakkarai)|
+|**yongu**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
 |**yuke**|jade|zho:玉 (yù), yue:玉 (yuk6), may:giok|
 |**zeze**|mouche|lin:kon:nzinzi, swa:nzi, ibo:ijiji, yor:eṣinṣin|
 |**zime**|hiver|rus:зима (zima), pol:zima, fas:(zemestân), urd:(zimastān)|

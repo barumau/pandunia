@@ -1989,7 +1989,7 @@ półwysep - yagonese
 później - bado  
 pęknąć (rozpaść się) - fenu  
 płakać, łkać - kuga  
-płaski - pingi  
+płaski - plati  
 płaski chleb, ćapati - capate  
 płaszcz - kote  
 płaszcz nieprzemakalny - barxokote  
@@ -2393,7 +2393,7 @@ tak - si
 taki sam - sami  
 taktyka, strategia - tatike  
 tal - talium  
-talerz - plate  
+talerz - platotase  
 taleta, WC - tuale  
 tamilski - tamili  
 tamten (tamten) - wi  

@@ -837,6 +837,7 @@ grafi - gráfico (pictórico, ilustrado)
 grafobuke - libro de cuentos ilustrado  
 grame - gramo (g)  
 grase - césped (hierba)  
+grasistan - pradera (pastizal)  
 grenadia - Granada  
 grenadin - Granadinas  
 grimase - mueca  
@@ -1209,6 +1210,7 @@ kartuelia - Georgia (República de Georgia)
 kartune - historieta (caricaturas)  
 karvane - caravana  
 kase - acontecimiento (caso, suceso, evento)  
+kaske - carapacho (cáscara, concha, corteza, capa)  
 kastane - castaña  
 kastore - castor  
 kata - cortar  
@@ -1357,6 +1359,7 @@ koy - algún
 koy ren - algién  
 koy sate - algún día (algún vez)  
 koy xey - algo  
+krake - raja (grieta)  
 krane - válvula (llave, canilla)  
 kratia - dominio (reinado)  
 kreme - crema  
@@ -1695,8 +1698,10 @@ mete - medida
 metode - método  
 metre - metre  
 mexikia - México  
+mexikia site - Ciudad de México  
 mey - cada  
 meze - mesa  
+mezistan - meseta  
 mi - mi  
 mianmia - Myanmar (Birmania)  
 miene - fideo (tallarín)  
@@ -2056,6 +2061,7 @@ paskale - pascal (Pa)
 paske - Pascua  
 pasporte - pasaporte  
 paste - pasta  
+pastopetre - magma  
 patate - papa  
 pati - enfermo  
 patia - enfermedad  
@@ -2097,7 +2103,6 @@ pile - piel
 piloter - piloto  
 pimente - pimienta  
 pine - alfiler (aguja)  
-pingi - plana (llano, liso)  
 pinguine - pingüino  
 pinser - alicate  
 pipe - tubo (caño)  
@@ -2123,12 +2128,16 @@ plan (plane) - plan
 plana - planear (tener pensado)  
 planete - planeta  
 plastike - plástico  
-plate - plato (placa)  
+plate - plano (placa)  
+plati - plana (llano, liso)  
+plati zemokaskia - tectónica de placas  
 platinum - platino  
+platistan - llanura  
 platon - Platón  
 platoniste - platonista  
 platonisti - platónico  
 platonistia - platonismo  
+platotase - plato  
 plazme - plasma (gas ionizado)  
 pliza - pedir (invitar)  
 pliza laya - invitar  
@@ -2414,6 +2423,7 @@ saturne - Saturno
 saudar - hermano o hermana  
 saudi arabia - Arabia Saudita  
 saune - sauna  
+savane - sabana  
 saye - sombra  
 seaborgium - seaborgio  
 sekreter - secretario  
@@ -2930,6 +2940,8 @@ yoga - hacer yoga
 yoge - yoga  
 yogiste - yogui  
 yohani feste - día de San Juan  
+yongopetre - lava  
+yongu - derretirse  
 yote - gota  
 yuke - jade  
 yumor - humor (gracia)  
@@ -2960,7 +2972,10 @@ zebre - cebra
 zeme - tierra  
 zemia - Tierra  
 zemodow - maní  
+zemografia - geografía  
+zemokaski plate - placa tectónica  
 zemolaskeria - ejército  
+zemolojia - geología  
 zemomedi samude - Mediterráneo  
 zeze - mosco  
 zigzage - zigzag  

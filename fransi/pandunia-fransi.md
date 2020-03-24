@@ -220,6 +220,7 @@ galti - erroné
 gandume - blé  
 gase - gaz  
 gati - dur  
+gawe - haut  
 gazele - gazelle  
 gitare - guitare  
 gole - but  
@@ -264,6 +265,7 @@ jeka - empruntre
 jekodona - prêter  
 jeni baxe - langue maternelle  
 jenotipe - génotype  
+jino - en avant  
 jinse - sexe  
 jirafe - giraffe  
 jule - joule (J)  
@@ -291,6 +293,7 @@ karimia - générosité (charité)
 karolekse - verbe  
 karte - carte  
 kartografia - cartographie  
+kaske - carapace (coquille, coquillage, croûte)  
 kava - creuser  
 kave - fosse  
 ke - que (quoi)  
@@ -314,6 +317,7 @@ korone - couronne
 kosmi - cosmique  
 kosmia - cosmos  
 krabe - crabe  
+krake - fente (fissure, fêlure)  
 kreme - crème  
 krepe - crêpe  
 kreperia - crêperie  
@@ -408,6 +412,7 @@ nasomedi - international
 naw - neuf (9)  
 nefre - rein  
 neurosel - neurone  
+nice - dessous  
 nida - avoir besoin de  
 nide - besoin  
 nidi - nécessaire  
@@ -445,8 +450,10 @@ papaye - papaye
 pape - pere (papa)  
 parame - paramètre  
 parce - fragment  
+paris - Paris  
 parke - parc  
 pasporte - passeport  
+pastopetre - magma  
 patojener - agent pathogène  
 patolojia - pathologie  
 pauze - pause  
@@ -462,6 +469,8 @@ pira - brûler
 piratia - piraterie  
 pire - feu  
 pize - pizza  
+plati zemokaskia - tectonique des plaques  
+platistan - plaine  
 porte - porte  
 pote - boue (fange, bourbe, gadoue)  
 probleme - problème  
@@ -480,6 +489,7 @@ rasomedi - interracial
 reloje - horloge  
 reste - reste  
 retra - retourner (revenir)  
+retro - en arrière  
 retrotikete - Aller-retour  
 rici - riche  
 rime - rime  
@@ -507,6 +517,7 @@ sanduice - sandwich
 sange - sang  
 sare - tête  
 saturne - Saturne  
+savane - savane  
 sekuri - sûr  
 selolojia - cytologie  
 sem - sept (7)  
@@ -536,6 +547,10 @@ suy (suye) - eau
 suyogas - vapeur d’eau  
 ##t
 taksometer - taximètre  
+tala - baisser  
+tale - bas  
+tali - bas  
+talolada - télécharger  
 tarje - traduction  
 tate - bord (rive)  
 tazi - frais  
@@ -607,12 +622,17 @@ xope - shopping
 xukar - sucre  
 ##y
 yesus - Jésus  
+yongopetre - lave  
+yongu - melt  
 yuke - jade  
 ##z
 zardux - Zoroastre  
 zarduxiste - zoroastrien  
 zarduxistia - zoroastrisme  
 zebre - zèbre  
+zemografia - geographie  
+zemokaski plate - plaque tectonique  
+zemolojia - géologie  
 zeze - mouche  
 zime - hiver  
 zimi - hivernal (hibernal)  

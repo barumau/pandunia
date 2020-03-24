@@ -412,6 +412,7 @@ cuania - Botswana
 cula - exclude (except, save)  
 cume - kiss  
 cune - spring (springtime)  
+cungcing - Chongqing  
 cupa - suck  
 cuta - leave (go out, exit)  
 cute - exit (leaving)  
@@ -485,6 +486,7 @@ demografia - demography
 demokrati - democratic  
 demokratia - democracy  
 demokratiste - democrati  
+demomultia - population  
 demon - demon  
 den (dene) - day (daytime)  
 denga - wait  
@@ -842,6 +844,7 @@ grafi - graphic (pictorial)
 grafobuke - picture book  
 grame - gram (g)  
 grase - grass  
+grasistan - grassland  
 grenadia - Grenada  
 grenadin - the Grenadines  
 grimase - grimace  
@@ -852,6 +855,7 @@ grosi harfe - bold letter
 grupe - group  
 guadelupia - Guadeloupe  
 guamia - Guam  
+guangjou - Guangzhou (Canton)  
 guanxe - relationship (association, connection)  
 guatemalia - Guatemala  
 gubuh - hippopotamus  
@@ -961,6 +965,7 @@ hisabia - arithmetics
 histore - history (annals)  
 historer - historian  
 historia - history (study of history)  
+ho ci ming site - Ho Chi Minh City (Saigon)  
 hobe - hobby  
 hoke - hockey  
 holere - cholera  
@@ -1054,6 +1059,7 @@ iva - tend to
 ive - tendency (inclination)  
 izi - easy  
 ##j
+jakarte - Jakarta  
 jake - jacket  
 jama - collect (gather, bring together, assemble)  
 jamaikia - Jamaica  
@@ -1217,6 +1223,7 @@ kartuelia - Georgia (Republic of Georgia)
 kartune - comic (cartoon)  
 karvane - caravan (convoy)  
 kase - event (case, instance)  
+kaske - shell (crust, carapace)  
 kastane - chestnut  
 kastore - beaver  
 kata - cut  
@@ -1369,6 +1376,7 @@ koy ren - someone (somebody)
 koy sate - sometime  
 koy xey - something  
 krabe - crab  
+krake - crack (rift)  
 krane - valve (tap, faucet)  
 kratia - rule (reign)  
 kreme - cream  
@@ -1462,6 +1470,7 @@ le - he or she or it
 lefte - left  
 lefti - left hand  
 leftiste - leftist (left-winger)  
+legos - Lagos  
 lekin - however  
 leksaslia - etymology  
 lekse - word  
@@ -1533,6 +1542,7 @@ loki - local
 loku - be located (lie, be situated)  
 lole - they  
 lona - debate (discuss)  
+london - London  
 lone - discussion (debate, discourse)  
 longa - lengthen (prolong)  
 longi - long (lengthy)  
@@ -1571,6 +1581,7 @@ maidani - open (wide, spacious)
 maidanofobia - agoraphobia  
 maise - corn (maize)  
 maitnerium - meitnerium  
+makah - Mecca  
 makale - article (writing)  
 makane - butter  
 makase - scissors  
@@ -1710,8 +1721,10 @@ mete - measurement
 metode - method (means)  
 metre - meter (## cm)  
 mexikia - Mexico  
+mexikia site - Mexico City  
 mey - every (each)  
 meze - table  
+mezistan - plateau (tableland)  
 mi - my  
 mianmia - Myanmar (Burma)  
 miene - noodle  
@@ -1791,6 +1804,7 @@ mortu - die
 mose - moss  
 mosim - season  
 moskite - mosquito  
+moskove - Moscow  
 moskovium - moscovium  
 mote - motion (movement)  
 moter - engine (motor)  
@@ -1807,6 +1821,7 @@ multi - many
 multokulturi - multicultural  
 multokulturistia - multiculturalism  
 multonasi - multinational  
+mumbai - Mumbai (Bombay)  
 mume - wax  
 mumia - mummy  
 mumonur - candle  
@@ -1949,6 +1964,7 @@ notobuke - notebook
 nova - renew (make new, renovate)  
 novi - new (recent)  
 novi kaledonia - New Caledonia  
+novi yorke site - New York City  
 novi zilandia - New Zealand  
 novo - just (recently)  
 nudi - naked (bare, nude)  
@@ -2056,6 +2072,7 @@ parci - broken (shattered)
 parde - curtain  
 pardon (pardone) - sorry (pardon)  
 pari - equal (peer)  
+paris - Paris  
 parke - park (garden)  
 parogowa - go along  
 parogowi - parallel (longitudinal)  
@@ -2070,6 +2087,7 @@ paskale - pascal (Pa)
 paske - Easter  
 pasporte - passport  
 paste - paste  
+pastopetre - magma  
 patate - potato  
 pati - ill (sick)  
 patia - sickness (illness, disease)  
@@ -2111,7 +2129,6 @@ pile - skin (peel)
 piloter - pilot  
 pimente - pepper (Piper nigrum)  
 pine - needle (pin)  
-pingi - flat  
 pinguine - penguin  
 pinser - pliers (pincers)  
 pipe - pipe  
@@ -2138,12 +2155,17 @@ plan (plane) - plan
 plana - intend (plan)  
 planete - planet  
 plastike - plastic  
-plate - plate  
+plate - plane (plate)  
+plati - flat (planar)  
+plati zemokaskia - plate tectonics  
 platinum - platinum  
+platistan - plain (plateau, flat lands)  
+platoforme - platform  
 platon - Plato  
 platoniste - Platonist  
 platonisti - Platonic  
 platonistia - Platonism  
+platotase - plate  
 plazme - plasma (ionized gas)  
 pliza - ask (request, beg; please)  
 pliza laya - invite  
@@ -2418,6 +2440,7 @@ santi kitse - Saint Kitts
 santi kitse e nevis - Saint Kitts and Nevis  
 santi lusia - Saint Lucia  
 santi marinia - San Marino  
+santi paule - Sao Paulo  
 santi tome e prinsipe - Sao Tome and Principe  
 santi vinsente - Saint Vincent  
 santi vinsente e grenadin - Saint Vincent and Grenadines  
@@ -2431,6 +2454,7 @@ saturne - Saturn
 saudar - sibling (brother or sister)  
 saudi arabia - Saudi Arabia  
 saune - sauna  
+savane - savannah  
 saye - shadow  
 seaborgium - seaborgium  
 sekreter - secretary  
@@ -2690,6 +2714,7 @@ togoli - Togolese
 togolia - Togo  
 tokse - poison (venom)  
 toksi - toxic (poisonous, venomous)  
+tokyo - Tokyo  
 tolera - tolerate  
 tolo - top (spinning top)  
 tomate - tomato  
@@ -2754,6 +2779,7 @@ urdi - Urdu
 urdunia - Jordan  
 urse - bear  
 uruguayia - Uruguay  
+uruxalem - Jerusalem  
 usameriki - American (US)  
 usameriki samoa - American Samoa  
 usameriki virjin nesia - Virgin Islands, US  
@@ -2835,6 +2861,7 @@ wase - oasis
 wate - watt  
 waw - wow! (gee!)  
 waxa - wash  
+waxington d c (do ce) - Washington D.C.  
 waxomaxin - washing machine  
 waya - oust (expel)  
 waye - outside (exterior)  
@@ -2875,6 +2902,7 @@ xame - evening
 xamoden - afternoon  
 xamoniame - dinner  
 xane - mountain (hill)  
+xanghai - Shanghai  
 xanti - calm (peaceful)  
 xarme - shame (disgrace)  
 xarnir - hinge (pivot)  
@@ -2951,6 +2979,8 @@ yoga - do yoga
 yoge - yoga  
 yogiste - yogi  
 yohani feste - Saint John's Day  
+yongopetre - lava  
+yongu - melt (be liquified)  
 yorubi - Yoruba (language and people)  
 yote - drop (droplet)  
 yuke - jade  
@@ -2982,7 +3012,11 @@ zebre - zebra
 zeme - earth (ground)  
 zemia - Earth (Terra)  
 zemodow - peanut (groundnut)  
+zemografia - geography  
+zemokaski krake - fault line  
+zemokaski plate - tectonic plate  
 zemolaskeria - ground force (army)  
+zemolojia - geology  
 zemomedi samude - Mediterranean  
 zeze - fly (housefly)  
 zigzage - zigzag  

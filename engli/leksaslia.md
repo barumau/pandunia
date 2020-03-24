@@ -459,6 +459,7 @@
 |**kartune**|comic (cartoon)|English:cartoon, Portuguese:cartum, Mandarin:卡通 (kǎtōng)|
 |**karvane**|caravan (convoy)|Persian:Urdu:(kârvân), Turkish:kervan, Hindi:कारवाँ (kārvā̃), English:caravan, deu:Karawane, French:caraven, Spanish:Portuguese:caravana, Polish:karawana, Russian:караван (karavan), Filipino:karabana, Japanese:キャラバン (kyaraban), Korean:카라반 (karaban)|
 |**kase**|event (case, instance)|English:case, French:cas, Spanish:Portuguese:caso, deu:Kasus|
+|**kaske**|shell (crust, carapace)|Spanish:cáscara, Portuguese:casca + nan:殼 (kag4), Wu-Chinese:殼 (khoq4), Japanese:殻 (kaku)|
 |**kastane**|chestnut|Spanish:castaňa, Arabic:(kastanāʾ), Turkish:kestane, Russian:каштан (kaštan)|
 |**kastore**|beaver|French:Portuguese:Spanish:castor, Filipino:Turkish:kastor|
 |**kata**|cut|English: cut, Arabic:(qaṭa’a), Hindi:काटना (kāṭnā), Bengali:কাটা (kata), Swahili:kata, Vietnamese:cắt, Mandarin:割 (gē), Cantonese:割 (got3), Wu-Chinese:割 (ga’), Japanese:割 (katsu)|
@@ -505,6 +506,7 @@
 |**kote**|coat|English:coat, Swahili:koti, Oromo:koota, Japanese:コート (kōto), Persian:(kot), Hindi:कोट (kot)|
 |**koy**|some|Hindi:कोई (koī), Urdu:(koī), Russian:кое- (koye-)|
 |**krabe**|crab|English:crab, deu:Krebs, French:crabe, Russian:краб (krab)|
+|**krake**|crack (rift)|Cantonese:隙 (gwik1), nan:隙 (kiah4), Japanese:隙 (kyaku), Vietnamese: khích + English:crack, French:craquer, Spanish:crac|
 |**krane**|valve (tap, faucet)|ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran|
 |**kreme**|cream|French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)|
 |**krepe**|pancake|French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella|
@@ -745,7 +747,6 @@
 |**pile**|skin (peel)|English:peel, Spanish:piel, Portuguese:pele, Mandarin:皮 (pí), Wu-Chinese:皮 (bí), Cantonese:皮 (pei4)|
 |**pimente**|pepper (Piper nigrum)|Spanish:pimienta, Filipino:pamenta|
 |**pine**|needle (pin)|English:pin, Japanese:ピン (pin), Korean:핀 (pin), Hindi:पिन (pin)|
-|**pingi**|flat|Mandarin:平 (píng)|
 |**pinser**|pliers (pincers)|English:pincers, French:pinces, Turkish:pense, Japanese:ペンチ (penchi)|
 |**pipe**|pipe|Spanish:Malay:pipa, English:French:pipe, Persian:(pip), Vietnamese:píp|
 |**pipinga**|evaluate (review, criticise)|Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)|
@@ -753,6 +754,7 @@
 |**pire**|fire (burning)|English:French:pyro-, Portuguese:Spanish:piro-, Russian:пиро- (piro-)|
 |**pixe**|piss (urine)|English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis|
 |**pize**|pizza|Italian:English:French:pizza, Mandarin:比萨 (bǐsà), Russian:пицца (pitsa), Japanese:ピザ (piza), Korean:피자 (pija)|
+|**plati zemokaskia**|plate tectonics|English:tectonic, Spanish:tectónica, Russian:тектоника (tektonika), Arabic:تكتونية (tuktunia), Hindi:टेक्टोनिक्स (tektoniks), Bengali:টেকটোনিক্স (ṭēkaṭōniksa), Malay:tektonik, Japanese:テクトニクス (tekutonikusu)|
 |**plazme**|plasma (ionized gas)|English:plasma, Spanish:plasma, Russian:плазма (plazma), Arabic:بلازما (balazima), Hindi:प्लाज़्मा (plaazma), Japanese:プラズマ (purazuma), ind:plasma|
 |**pliza**|ask (request, beg; please)|English:please|
 |**podia**|Tibet|tib:བོད (bod, phØ)|
@@ -841,6 +843,7 @@
 |**sate**|moment (while, short time)|Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa|
 |**saudar**|sibling (brother or sister)|Malay:saudara, Hindi:सहोदर (sahodar), Bengali:সহোদর (sôhodôr)|
 |**saune**|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
+|**savane**|savannah|English:savannah, Spanish:sabana, Russian:саванна (savanna), Arabic:سافانا (safana), Swahili:savana, Hindi:सवाना (savaana), Japanese:サバンナ (sabanna)|
 |**saye**|shadow|Persian:(sāye), Urdu:(sāyā), pas:(sāyá), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)|
 |**sekse**|sex (sexual relation)|English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)|
 |**sekuri**|safe (secure, protected)|English:secure, deu:sicher, Spanish:Portuguese:seguro|
@@ -1025,6 +1028,7 @@
 |**yeze**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
 |**yi**|this (these)|Hindi:यह (ye), Bengali:এই (ei), Telugu:ఈ (ī), Tamil:இது (itu), Korean:이 (i),|
 |**yoge**|yoga|Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)|
+|**yongu**|melt (be liquified)|Mandarin:溶 (róng), Cantonese:溶 (jung4), Japanese:溶 (yō), Korean:용 (yong), Vietnamese:dung|
 |**yote**|drop (droplet)|Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota)|
 |**yuke**|jade|Mandarin:玉 (yù), Cantonese:玉 (yuk6), Malay:giok|
 |**yumor**|humor|Russian:юмор (yumor), Spanish:English:humor, French:humour, Japanese:ユーモア (yūmoa), Korean:유머 (yumeo), Mandarin:幽默 (yōumò)|

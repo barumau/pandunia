@@ -431,6 +431,7 @@ capturar (apresar) - kapa
 capítulo (sección) - babe  
 cara (rosto) - muke  
 caramelo - kande  
+carapacho (cáscara, concha, corteza, capa) - kaske  
 cararés - karnadi  
 caravana - karvane  
 carbón - karbone  
@@ -530,6 +531,7 @@ circonio - zirkonium
 citar - cita  
 citología - selolojia  
 ciudad - site  
+Ciudad de México - mexikia site  
 ciudadano - dexoren  
 civilización - sivilia  
 civilizado - sivili  
@@ -790,6 +792,7 @@ derecho - hake
 derecho - raiti  
 derechos de autor (copyright) - kopiyohake  
 derechos humanos - insani hake  
+derretirse - yongu  
 desacuerdo - aloraye  
 desarrollo - fajan  
 desatascar - tapula  
@@ -1186,6 +1189,8 @@ gengibre - zinje
 genial - kuli  
 genotipo - jenotipe  
 gente - nase  
+geografía - zemografia  
+geología - zemolojia  
 Georgia (República de Georgia) - kartuelia  
 Georgias del Sur y Sándwich del Sur - sudi jorjia e sudi sanwice nesia  
 gerencia (dirección) - nomia  
@@ -1544,6 +1549,7 @@ lasaña - lazanye
 lateral - lati  
 latitud - sudonordia  
 laurencio - laurensium  
+lava - yongopetre  
 lavadora - waxomaxin  
 lavar - waxa  
 lección - darse  
@@ -1600,6 +1606,7 @@ lituano - lietuvi
 livermorio - livermorium  
 llamar (poner) - namisa  
 llamarse - namu  
+llanura - platistan  
 llave - cabe  
 llenar - pura  
 lleno (completo) - puri  
@@ -1650,6 +1657,7 @@ maestro (profesor) - darsogur
 maestro (profesor) - xense  
 magia - magia  
 magical - magi  
+magma - pastopetre  
 magnesio - mangese  
 magnético - mangeti  
 mago - mager  
@@ -1747,6 +1755,7 @@ mercado (bazar) - bazar
 Mercurio - budan  
 mercurio - hurargente  
 mesa - meze  
+meseta - mezistan  
 mesiánico - kristi  
 message - anjile  
 meta (gol) - gole  
@@ -2177,15 +2186,17 @@ pistola - pistole
 pizza - pize  
 pizzería - pizeria  
 piña - nanase  
+placa tectónica - zemokaski plate  
 plan - plan (plane)  
-plana (llano, liso) - pingi  
+plana (llano, liso) - plati  
 planear (tener pensado) - plana  
 planeta - planete  
+plano (placa) - plate  
 planta (vegetación) - fite  
 plasma (gas ionizado) - plazme  
 plata - argente  
 platino - platinum  
-plato (placa) - plate  
+plato - platotase  
 plato - tase  
 platonismo - platonistia  
 platonista - platoniste  
@@ -2233,6 +2244,7 @@ posiblemente - ablo
 postura (posición) - asane  
 potasio - kalium  
 practicar (ensayar, ejercitar) - lenxa  
+pradera (pastizal) - grasistan  
 praseodimio - prasedim  
 preceder (anteceder) - preda  
 precio (coste) - koste  
@@ -2345,6 +2357,7 @@ radiotransmisor - radi miser
 radiómetro - radometer  
 radón - radon  
 raiz - mule  
+raja (grieta) - krake  
 rama - xake  
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
@@ -2475,6 +2488,7 @@ réservation - rezerve
 rígido (sólido) - gatomati  
 ##s
 sabado - var 6 (var sis)  
+sabana - savane  
 sabbat - sabate  
 saber (conocer) - jana  
 sabiduría (conocimiento) - jane  
@@ -2694,6 +2708,7 @@ teclado - butonobanze
 tecnetio - tehnetium  
 tecnocracia - tehnokratia  
 tecnología - tehnolojia  
+tectónica de placas - plati zemokaskia  
 telefono - telofone  
 televisión - telovide  
 telurio - telurium  
