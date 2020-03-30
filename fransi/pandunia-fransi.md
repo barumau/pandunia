@@ -11,7 +11,7 @@ able - capacité (compétence)
 abli - possible  
 ablo - peut-être  
 acinium - actinium  
-acion - action  
+acion (acione) - action  
 aciy - atchoum  
 aciya - éternuer  
 adali - juste  
@@ -37,13 +37,13 @@ alge - algue
 ali - autre  
 alkole - alcool  
 alkoli - alcoolique  
-almar - placard  
+almare - placard  
 almase - diamant  
 alo - autrement  
 alofone - allophone  
 aloseksi - hétérosexuel  
 altare - autel  
-alumin - aluminium  
+alumine - aluminium  
 ama - aimer  
 amari - Amhara (groupe ethnique et langue éthiopienne)  
 ame - amour (affection)  
@@ -79,10 +79,10 @@ are - aire (superficie)
 argente - argent  
 argentinia - Argentine  
 argon - argon  
-argum - argument  
+argume - argument  
 arize - riz  
 arme - arme  
-arsen - arsenic  
+arsene - arsenic  
 arte - art  
 artiste - artiste  
 asi - asiatique  
@@ -91,7 +91,7 @@ aslameriki - amérindien (indien)
 asle - origine  
 asli - originel  
 asme - asthme  
-aspirin - aspirine  
+aspirine - aspirine  
 ata - jusque (jusqu’à)  
 ato - voire (même)  
 aure - or  
@@ -169,7 +169,7 @@ cokolatobaton - tablette de chocolat
 cuzable - option  
 ##d
 daka - couvrir  
-dalil - preuve  
+dalile - preuve  
 damaje - dommage  
 danse - dance  
 date - données  
@@ -184,6 +184,7 @@ diske - disque
 dokume - document (dossier)  
 domi - domestique  
 domu - vivre (habiter)  
+donge - east (orient)  
 duga - lire  
 dul - deux (2)  
 dunia - monde  
@@ -193,7 +194,7 @@ ekore - écureuil
 eletre - électricité  
 eme - unité fondamentale  
 emoje - émoticône (emoji)  
-emos - émotion  
+emose - émotion  
 emosohal - humeur  
 esa - être  
 eskulter - sculpteur  
@@ -204,6 +205,7 @@ ewanjile - évangile
 ##f
 fase - face (facette)  
 fata - faire  
+fate - fait  
 favori - favori (préféré)  
 filosofia - philosophie  
 fiorde - fiord  
@@ -229,7 +231,7 @@ governe - gouvernement
 grimase - grimace  
 grupe - groupe  
 gule - goule  
-gunden - palais  
+gundene - palais  
 gute - genou  
 ##h
 haha - rire  
@@ -277,7 +279,7 @@ justi - exact (précis)
 kafase - cage  
 kafe - café  
 kagaze - papier  
-kalam - plume  
+kalame - plume  
 kali harfe - espace  
 kamare - pièce (chambre)  
 kamise - chemise  
@@ -321,7 +323,7 @@ krake - fente (fissure, fêlure)
 kreme - crème  
 krepe - crêpe  
 kreperia - crêperie  
-kruasan - croissant  
+kruasante - croissant  
 kruse - croix  
 kube - cube  
 ##l
@@ -436,7 +438,7 @@ ore - oreille
 oritis - otite  
 orti - droit (rectiligne)  
 ortogoni - orthogonal  
-oton - automne  
+otone - automne  
 ##p
 pace - paix  
 paciste - pacifiste  
@@ -582,7 +584,7 @@ ura - hourra
 uranium - uranium  
 urse - ours  
 ##v
-vagin - vagine  
+vagine - vagine  
 vaginitis - vaginite  
 vampire - vampire  
 vaze - vase  
@@ -592,8 +594,8 @@ veri - vrai
 verme - ver  
 vespe - abeille ou guêpe  
 vida - voir  
-virus - virus  
-vokal - voyelle  
+virus (viruse) - virus  
+vokale - voyelle  
 vulve - vulve  
 ##w
 wale - mur  
@@ -609,7 +611,7 @@ wolfe - loup
 wolofi - wolof  
 ##x
 xatan (xatane) - Satan  
-xaw - peu  
+xawi - peu  
 xefe - chef  
 xey (xeye) - chose  
 xeyohale - situation (état de choses)  
@@ -619,7 +621,7 @@ xipi - mouillé
 xite - merde  
 xopa - acheter  
 xope - shopping  
-xukar - sucre  
+xukare - sucre  
 ##y
 yesus - Jésus  
 yongopetre - lave  

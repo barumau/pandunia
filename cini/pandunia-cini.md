@@ -22,7 +22,7 @@ aksente - 重音符号
 alge - 藻类  
 ali - 另一  
 alkole - 酒  
-almar - 碗碟橱  
+almare - 碗碟橱  
 almase - 钻石  
 aloraya - 不同意  
 altare - 圣坛  
@@ -49,7 +49,7 @@ artiste - 美术家
 asle - 起源  
 asli - 原始的  
 asme - 气喘  
-aspirin - 阿司匹林  
+aspirine - 阿司匹林  
 ata - 直到  
 ato - 连  
 aure - 金  
@@ -134,6 +134,7 @@ dine - 宗教
 dinge - 钉子  
 diske - 圆盘  
 dom (dome) - 房子  
+donge - 东  
 duga - 读 (看)  
 dul - 二 (2)  
 dunia - 世界  
@@ -148,6 +149,7 @@ estibium - 锑
 ewanjile - 福音  
 ##f
 fase - 面  
+fate - 事实  
 feme (fem) - 女  
 filosofia - 哲学  
 fiorde - 峡湾  
@@ -168,7 +170,7 @@ gotone - 棉
 governe - 政府  
 grimase - 鬼脸  
 guangjou - 广州  
-gunden - 宫殿  
+gundene - 宫殿  
 gunodarme - 道德  
 gute - 膝  
 ##h
@@ -216,7 +218,7 @@ kafase - 笼
 kafe - 咖啡  
 kagaze - 纸  
 kaixa - 开始  
-kalam - 笔  
+kalame - 笔  
 kali harfe - 空隙  
 kamare - 房间  
 kamise - 衬衫  
@@ -253,7 +255,7 @@ kosmi - 宇宙的
 kosmia - 宇宙  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
-kruasan - 牛角包  
+kruasante - 牛角包  
 kuani - 宽  
 kube - 立方体  
 ##l
@@ -316,7 +318,7 @@ memula - 忘记
 mene - 意义  
 mening - 脑脊膜  
 metalojanger - 铁匠  
-mey - 每  
+mey (meyi) - 每  
 meze - 桌子  
 migra - 搬家  
 misalo - 比如  
@@ -326,7 +328,7 @@ mite - 会议
 moke - 木材  
 mokojanger - 木匠  
 mole - 摩尔 (单位)  
-molekul - 分子  
+molekule - 分子  
 molia - 磨坊  
 mome - 我们  
 mule - 根  
@@ -479,7 +481,7 @@ umure - 年岁
 un - 一 (1)  
 ura - 好哇  
 ##v
-vagin - 阴道  
+vagine - 阴道  
 vampire - 吸血鬼  
 vejete - 蔬菜  
 vejetoniamiste - 素食主义者  
@@ -499,7 +501,7 @@ werker - 工人 (工作者)
 xame - 晚上  
 xanghai - 上海  
 xatan (xatane) - 撒但  
-xaw - 少  
+xawi - 少  
 xey (xeye) - 事物 (东西)  
 xeyohale - 事态  
 xibaye - 失败  
@@ -512,7 +514,7 @@ xofa - 开车
 xofer - 司机  
 xopa - 买  
 xope - 购物 (血拼)  
-xukar - 糖  
+xukare - 糖  
 xute - 技术  
 ##y
 yoge - 瑜伽功  

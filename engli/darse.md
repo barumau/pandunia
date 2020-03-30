@@ -6,17 +6,22 @@ Introducing yourself
 
 ### Dialog
 
-☻: **te si ke?**
+<big>👩</big>
+**te si ke?**
 = Who are you?  
-☺: **me si yusef. te si ke?**
+<big>🧔</big>
+**me si yusef. te si ke?**
 = I am Yusef. Who are you?  
-☻: **me si maria. le si ke?**
+<big>👩</big>
+**me si maria. le si ke?**
 = I am Maria. Who is that?  
-☺: **le si mi doste.**
+<big>🧔</big> **le si mi doste.**
 = That is my friend.  
-☻: **li nam si ke?**
+<big>👩</big>
+**li nam si ke?**
 = What's her name?  
-☺: **li nam si sarah.**
+<big>🧔</big>
+**li nam si sarah.**
 = Her name is Sarah.
 
 ### Grammar
@@ -191,22 +196,30 @@ answers are after the word list.
 
 ### Dialog
 
-☻: **salam!**
+<big>🧒</big>
+**salam!**
 = Hello!  
-☺: **salam! pliza sida.**
+<big>🧓</big>
+**salam! pliza sida.**
 = Hello! Please sit!  
-☻: **danke.**
+<big>🧒</big>
+**danke.**
 = Thank you.  
-☺: **pliza niama kafe o cay.**
+<big>🧓</big>
+**pliza niama kafe o cay.**
 = Please have some coffee or tea.  
-☻: **me niama cay. danke.**
+<big>🧒</big>
+**me niama cay. danke.**
 = I will have some tea, thank you.  
 ...  
-☺: **pliza salama ti mame!**
+<big>🧓</big>
+**pliza salama ti mame!**
 = Please tell greetings to your mother.  
-☻: **me salama le. salam!**
+<big>🧒</big>
+**me salama le. salam!**
 = I will. Bye!  
-☺: **salam!**
+<big>🧓</big>
+**salam!**
 = Bye!
 
 

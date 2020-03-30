@@ -5,7 +5,7 @@ accent - aksente
 accord - samoraye  
 acheter - xopa  
 actinium - acinium  
-action - acion  
+action - acion (acione)  
 adresse - adrese  
 adulte - adulte  
 afghan - avgani  
@@ -26,7 +26,7 @@ Aller-retour - retrotikete
 allophone - alofone  
 allô - halow  
 alphabet - abace  
-aluminium - alumin  
+aluminium - alumine  
 amande - badame  
 Amhara (groupe ethnique et langue éthiopienne) - amari  
 amour (affection) - ame  
@@ -57,21 +57,21 @@ argent - argente
 argent - pese  
 Argentine - argentinia  
 argon - argon  
-argument - argum  
+argument - argume  
 argument - tese  
 arme - arme  
 armée - laskeria  
-arsenic - arsen  
+arsenic - arsene  
 art - arte  
 artiste - artiste  
 asiatique - asi  
 Asie - asia  
-aspirine - aspirin  
+aspirine - aspirine  
 assez - basi  
 asthme - asme  
 atchoum - aciy  
 autel - altare  
-automne - oton  
+automne - otone  
 autre - ali  
 autrement - alo  
 aventure - aventure  
@@ -180,7 +180,7 @@ couronne - korone
 couvrir - daka  
 crabe - krabe  
 creuser - kava  
-croissant - kruasan  
+croissant - kruasante  
 croix - kruse  
 crème - kreme  
 crème glacée - aisokrem  
@@ -217,6 +217,7 @@ droit - hake
 droits de l'homme - insani hake  
 dur - gati  
 ##e
+east (orient) - donge  
 eau - suy (suye)  
 Einsteinium - ainstainium  
 empruntre - jeka  
@@ -236,6 +237,7 @@ exact (précis) - justi
 face (facette) - fase  
 faible - debili  
 faire - fata  
+fait - fate  
 faute (erreur) - galte  
 favori (préféré) - favori  
 fente (fissure, fêlure) - krake  
@@ -422,7 +424,7 @@ pacifiste - paciste
 page - warkolate  
 pain - pang (pange)  
 paix - pace  
-palais - gunden  
+palais - gundene  
 pantoufle (babouche) - babuce  
 papaye - papaye  
 papier - kagaze  
@@ -444,7 +446,7 @@ perplexe (désorienté) - konfusi
 perroquet - papagaye  
 pet (vesse) - pede  
 petit - lil (lili)  
-peu - xaw  
+peu - xawi  
 peut-être - ablo  
 philosophie - filosofia  
 photographie - fotografia  
@@ -453,13 +455,13 @@ piquenique - wayoniame
 piraterie - piratia  
 pizza - pize  
 pièce (chambre) - kamare  
-placard - almar  
+placard - almare  
 place - maidane  
 plaine - platistan  
 plaque tectonique - zemokaski plate  
 plein - puri  
 pluie - barxe  
-plume - kalam  
+plume - kalame  
 plus - max (maxo)  
 pluvieux - barxi  
 pomme - aple  
@@ -468,7 +470,7 @@ porte - porte
 possible - abli  
 possédant (propriétaire) - malker  
 pouvoir (être capable) - abla  
-preuve - dalil  
+preuve - dalile  
 problème - probleme  
 problématique - problemi  
 programme - programe  
@@ -533,7 +535,7 @@ six (6) - sis
 société - socia  
 soldat - lasker  
 soleil - sole  
-sucre - xukar  
+sucre - xukare  
 sueur - suede  
 suffixe pour dériver les noms - -e  
 suffixe pour l'adjectif - -i  
@@ -580,7 +582,7 @@ un (1) - un
 unité fondamentale - eme  
 uranium - uranium  
 ##v
-vagine - vagin  
+vagine - vagine  
 vaginite - vaginitis  
 vampire - vampire  
 vapeur d’eau - suyogas  
@@ -594,7 +596,7 @@ viande - manse
 vie - haye  
 vieux (âgé, ancien) - lawi  
 ville - site  
-virus - virus  
+virus - virus (viruse)  
 visage - muke  
 vite (rapide) - rapidi  
 vivre (habiter) - domu  
@@ -603,7 +605,7 @@ voile - hijabe
 voir - vida  
 voire (même) - ato  
 vouloir - wana  
-voyelle - vokal  
+voyelle - vokale  
 vrai - veri  
 vulve - vulve  
 végétarien - vejetoniamiste  
@@ -628,7 +630,7 @@ zèbre - zebre
 électricité - eletre  
 émeraude - zumurude  
 émoticône (emoji) - emoje  
-émotion - emos  
+émotion - emose  
 épices - masale  
 épingle - pine  
 épreuve (test) - teste  

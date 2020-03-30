@@ -18,7 +18,7 @@ aksente - ударение
 alge - водоросли  
 ali - другой (второй)  
 alkole - алкоголь  
-almar - шкаф  
+almare - шкаф  
 almase - алмаз (бриллиант)  
 altare - алтарь  
 ama - любить  
@@ -36,7 +36,7 @@ arane - паук
 arbe - дерево  
 arbuze - арбуз  
 are - площадь  
-argum - аргумент (обосновани)  
+argume - аргумент (обосновани)  
 arize - рис  
 arte - искусство  
 artiste - художник (артист)  
@@ -44,7 +44,7 @@ asane - поза
 aslameriki - инде́йский  
 asle - начало (причина)  
 asme - астма  
-aspirin - аспирин  
+aspirine - аспирин  
 ata - до  
 aure - золото (аурум)  
 aventure - авантюра  
@@ -115,7 +115,7 @@ cise - сыр
 cokolate - шоколад  
 coye - зелень  
 ##d
-dalil - доказательство  
+dalile - доказательство  
 danse - танец  
 date - данные  
 datobanke - база данных  
@@ -126,6 +126,7 @@ dike - цель
 dine - религия (вера)  
 diske - диск  
 domi - домашний  
+donge - восток (ост)  
 duga - читать  
 dul - два (2)  
 dul o tin - пара  
@@ -133,7 +134,7 @@ dunia - мир (свет)
 ##e
 ekore - белка  
 emoje - смайлик (эмодзи)  
-emos - эмоция (чувство)  
+emose - эмоция (чувство)  
 emosi - эмоциональный  
 emosohal - настроение  
 esa - быть  
@@ -166,7 +167,7 @@ grome - гром
 grupe - группа  
 gula - глотать  
 gule - гуль (вурдалак)  
-gunden - дворец  
+gundene - дворец  
 gute - колено  
 ##h
 habare - новости  
@@ -214,7 +215,7 @@ justi - точный
 kafase - клетка  
 kafe - кофе  
 kagaze - бумага  
-kalam - ручка  
+kalame - ручка  
 kali - пустой  
 kamare - комната (камера)  
 kamise - рубашка  
@@ -255,7 +256,7 @@ krabe - краб
 krake - щель (трещина)  
 krane - кран  
 krepe - блин  
-kruasan - круассан  
+kruasante - круассан  
 kruse - крест  
 kube - куб  
 ##l
@@ -472,17 +473,17 @@ umure - возраст
 un - один (1)  
 ura - ура  
 ##v
-vagin - влагалище (вагина)  
+vagine - влагалище (вагина)  
 vaginitis - вагинит  
 vampire - вампир (упырь)  
 vaze - ваза  
 vejetoniamiste - вегетарианец  
 veri - верный  
 vida - видеть  
-virus - вирус  
+virus (viruse) - вирус  
 virusolojia - вирусология  
 vize - виза  
-vokal - гласный  
+vokale - гласный  
 vulve - вульва  
 ##w
 wale - стена (вал)  
@@ -497,7 +498,7 @@ werke - работа
 werker - работник  
 ##x
 xatan (xatane) - Сатана  
-xaw - мало  
+xawi - мало  
 xefe - шеф  
 xey (xeye) - вещь  
 xeyohale - положение (ситуация)  
@@ -505,14 +506,14 @@ xite - говно (дерьмо)
 xofer - шофёр  
 xopa - покупать (купить)  
 xope - покупка (шоппинг)  
-xukar - сахар  
+xukare - сахар  
 ##y
 yemenia - Йемен  
 yesus - Иисус  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  
-yumor - юмор  
+yumore - юмор  
 ##z
 zamane - период (эпоха)  
 zambia - Замбия  
