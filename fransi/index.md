@@ -1,4 +1,4 @@
-Pandunia - une langue simple pour le monde
+﻿Pandunia - une langue simple pour le monde
 =====================================
 
 ![](http://www.pandunia.info/bandir/bandir.png "Le drapeau du pandunia")
@@ -9,31 +9,38 @@ Le pandunia est une langue auxiliaire internationale construite. En d’autres t
 
 Quelques traits remarquables du pandunia :
 
-- Le pandunia est plus simple et facile que d’autres langues internationales qui ont évolué naturellement, comme l’anglais, le chinois, le français ou l’arabe ;
+- Le pandunia est plus simple et facile que d’autres langues internationales qui ont évolué naturellement, comme l’anglais, le chinois, le français, l'espagnol, l’arabe, le russe ou le hindi ;
 - En tant que langue construite, le pandunia est entièrement régulier : il n’y a pas d’exception ;
 - Le pandunia est réellement international ! Les mots en pandunia sont des mots empruntés dans le monde entier à des langues présentes aux quatre coins du globe, dont les dix langues les plus parlées du monde.
 
 ## Ressources pour apprendre
 
-- [Petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Orthographe](abc.md)
-- [Recueil d’expressions](fraze.md)
+- [L'essentiel](baze.md) en une seule page
 - [Leçon en dialogues](darse.md)
+- [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
+- [Petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Recueil d’expressions](fraze.md)
+- [Orthographe](abc.md)
 - [Grammaire](kanun.md)
 - Dictionnaire [français → pandunia](fransi-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fransi.md)
-- Dictionnaire [étymologique](leksaslia.md)
+- Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 - Dictionnaire [dynamique](http://www.pandunia.info/english/tiddly.html) (en anglais)
+- [Votre nom en Pandunia](http://pandunia.info/engli/ren_da_nam/) **
 
-## À propos du dialecte sans flexion
-
-- [Pandunia sans flexion](http://www.pandunia.info/english/simpli_pandunia.html) (en anglais)
-- [Phrases en pandunia sans flexion](http://www.pandunia.info/english/simpli_pandunia_da_fraze.md) (en anglais)
 
 ## Articles
 
-- [Le pandunia, une nouvelle langue de communication mondiale](dunia_baxe.md)
-- À suivre...
+- [Le pandunia, une nouvelle langue de communication mondiale](dunia_bax.md)
+- [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
+- [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
+- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
+- [Miscellaneous notes](note.md)
+
+
+## Présentation au format PDF (en anglais)
+
+- [Présentation générale](http://pandunia.info/engli/Pandunia-presentation.pdf)
 
 ## Rejoignez-nous
 
@@ -45,13 +52,19 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - Sujet "pandunia" sur [L'Atelier](http://www.ideolangues.org/t727-pandunia)
 - Liens et discussions sur [Reddit](https://www.reddit.com/r/pandunia/)
 - Les amis du Pandunia sur [Facebook](http://www.facebook.com/groups/pandunia)
+- Trouvez d'autres locuteurs du Pandunia avec l'appli [Amikumu](https://amikumu.com/)
 - Salon sur [Discord](https://discord.gg/FWavWeG)
 - QQ channel: 717549404
 - Et vous pouvez suivre l'actualité du pandunia sur [Twitter](https://twitter.com/pandunia_). Diffusez l’info !
 
-Des discussions à propos du pandunia ont également lieu par listes de diffusion. Vous pouvez rejoindre le [groupe pandunia](https://groups.yahoo.com/neo/groups/pandunia/info) officiel en envoyant un courriel vide [ici](mailto:pandunia-subscribe@yahoogroups.com). D’autres listes de diffusion incluent l’[Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([miroir](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) et le [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
 
+- Des discussions à propos du pandunia ont également lieu par listes de diffusion telles que l’[Auxlang](https://listserv.brown.edu/archives/auxlang.html) ([miroir](https://groups.yahoo.com/neo/groups/Auxlang/conversations/messages)) et le [Worldlang](https://groups.yahoo.com/neo/groups/Worldlanglist/conversations/messages).
+
+
+- Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
+- 
 Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
 
+Page mise à jour le 26 mars 2020
 
 

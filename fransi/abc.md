@@ -1,5 +1,4 @@
-Comment écrire en pandunia
-==========================
+﻿# Comment écrire en pandunia
 
 Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alphabet du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
@@ -10,8 +9,7 @@ Le pandunia utilise l’alphabet latin de base pour son écriture. Voici l’alp
 Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol. Il n’y a pas de lettre muette. Chaque lettre a un son, toujours le même.
 
 
-Consonnes
----------
+## Consonnes
 
     p  b  f  v  m  w
     t  d  s  z  n  l  r
@@ -24,15 +22,23 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 
 - **g** se prononce toujours comme dans _gâteau_.
 - **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
-- **s** est toujours léger comme dans _souris_. 
+- **s** est toujours sourd comme dans _souris_. 
 - **x** se prononce toujours comme le « ch » de _chat_.
-- **c** se prononce comme le « tch » de _tchâo !_.
+- **c** se prononce comme le « tch » de _tchâo !_.
 - **j** est prononcé comme le « dj » dans _Djibouti_.
 - **n** se prononce avec le bout de la langue sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/ comme dans les mots anglais _banker_ et _finger_. En fin de mot, le « g » de **ng** peut être muet. Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
 - **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
 
-Voyelles
---------
+## Semivoyelles
+
+- La semivoyelle **y** se prononce comme dans _youpi_. Elle est proche du son **i**.
+- La semivoyelle **w** se prononce comme dans _wapiti_. Elle est proche du son **u**.
+
+Les semivoyelles **y** and **w** sont toujours suivies d'une voyelle pleine (un suffixe) ou du début d'autre mot (quand elles se trouvent dans le mot racine nu). 
+**maw tena naw hay.** = Le chat a neuf vies.
+
+
+## Voyelles
 
 Le Pandunia a 5 voyelles.
 
@@ -40,13 +46,21 @@ Le Pandunia a 5 voyelles.
     e   o
       a
 
-Elles se prononcent comme suit : **a** comme dans _papa_, **e** comme le « é » de _café_, **i** comme dans _joli_, **o** comme le « eau » de _chapeau_ et **u** comme le « ou » de  _hibou_. Ce sont des voyelles pures, donc leur qualité ne change pas au cours de leur durée.
-
-Les semi-consonnes **y** et **w** se prononcent comme dans _youpi_ et _wapiti_.
+Elles se prononcent comme suit : **a** comme dans _papa_, **e** comme le « é » de _café_, **i** comme dans _joli_, **o** comme le « eau » de _chapeau_ et **u** comme le « ou » de  _hibou_. Ce sont des voyelles pures, donc leur qualité ne change pas au cours de leur durée.
 
 
+## Diphtongues
 
-### Accent tonique
+Quand deux voyelles sont proches l'une de l'autre, le son de la première glisse vers le son de la seconde et forme une  _diphthongue_.
+
+Par exemple **a** et **u** forment  une diphtongue dans le mot **mais**.
+Le son **a** glisse progressivement ves le son **u**.
+De façon similaire, il y a une diphtongue dans le mot **may**.
+
+
+
+
+## Accent tonique
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
@@ -67,15 +81,15 @@ L’accent est sur la syllabe qui est avant la dernière consonne :
 
 ## Majuscules
 
-Le pandunia s’écrit normalement en minuscules. Les lettres majuscules peuvent être au début des phrases et des noms propres, tels que les noms de personnes et d’endroits, mais ce n’est pas nécessaire.
+Le pandunia s’écrit normalement en minuscules. Les lettres majuscules peuvent être utilisées au début des phrases et des noms propres, tels que les noms de personnes et d’endroits, mais ce n’est pas nécessaire.
 
 Il y a trois raisons pour lesquelles les majuscules ne sont pas nécessaires :
 
-1. L’écriture représente un discours et il n’y a pas de « sons majuscules » dans un discours au début des noms propres et autres noms en majuscules ;
-2. La plupart des systèmes d’écriture et alphabets du monde n’ont pas de majuscules ;
+1. L’écriture représente un discours et il n’y a pas de « sons majuscules » dans un discours au début des noms propres et autres noms en majuscules ;
+2. La plupart des systèmes d’écriture et alphabets du monde n’ont pas de majuscules ;
 3. Il est plus simple d'utiliser seulement des minuscules.
 
-Remarque ! Ce n’est pas une erreur d’utiliser des majuscules. Certaines personnes le font machinalement parce qu’elles y ont été habituées dans d’autres langues. Mais les majuscules ne sont quand même pas nécessaires et pas recommandées.
+Remarque ! Ce n’est pas une erreur d’utiliser des majuscules. Certaines personnes le font machinalement parce qu’elles y ont été habituées dans d’autres langues. Mais les majuscules ne sont quand même pas nécessaires et pas recommandées.
 
 Les majuscules sont utilisées dans les abréviations des standards internationaux. Par exemple : 10 Mb (des megobite), 100 Gb (hon gigobite), 2 mm (du milometre), 1 kJ (un kilojul).
 
@@ -111,7 +125,8 @@ Lors de textes informels, des émoticones et des emojis peuvent être utilisés 
 
 La structure la plus commune en Pandunia est CVCV (C = consonne, V = voyelle).
 
-La combinaison de syllabes la plus lourde est CLVCCLVC, où L est une consonne liquide (l ou r).
+La combinaison de syllabes la plus lourde est CLVCCLVC, où L est une consonne liquide (l ou r), mais de tels mots n'existent pas, en fait. Parmi les mots les plus riches en consonnes, en pratique, se trouvent :  **kristal** et **simpli**.
+
 
 Les consonnes initiales sont limitées à :
 
@@ -161,4 +176,13 @@ Les groupes de consonnes centrales sont limitées à:
 Les consonnes finales autorisées sont:
 h, l, m, n, ng, r, s, w, x, y
 
+De plus, tout nom de personne, de lieu ou de concept culturel, ainsi que les mots qui en dérivent, peuvent contenir n'importe quel groupe de deux ou trois consonnes au milieu du mot, tant qu'il ne contient pas :
 
+1. deux occlusives, affriquées ou fricatives de voisement différent 
+    - par ex. fg
+2. deux sibilantes ou affriquées consécutives
+    - e.g. sc
+3. deux consonnes identiques consécutives
+    - e.g. mm
+
+Mis à jour le 27 mars 2020
