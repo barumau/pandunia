@@ -803,7 +803,6 @@ gawa||||raise (lift)||levantar (elevar)||||||||||||||nostaa|podnosić (podnieś�
 gawe||||top|haut|alto (parte de arriba)|||||||||||||||góra (szczyt)|
 gawi|||zho:高 (gāo), vie:cao|high||alto|||||||||||||alta|korkea|wysoki|
 gawia||||height (altitude)||altura (altitud)|||||||||||||||wysokość|
-gawolada||||upload||cargar (subir)|||||||||||||||wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)|
 gawotali||||vertical||vertical|||||||||||||||pionowy|
 gawu||||rise (go up)||subir (alzar)||||||||||||||nousta|wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)|
 gayania|dex|GY||Guyana||Guyana|||||||||||||Gujano|Guyana|Gujana|
@@ -968,7 +967,7 @@ hoke|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッ�
 holere||||cholera||cólera||||||||||||||kolera|cholera|
 holi||||whole (entire)||entero (todo)||||||||||||||koko (kokonainen)|cały|
 holmium|mate|Ho||holmium||holmio|||||||||||||holmio|holmium|holm|
-holograme||||hologram||holograma||||||||||||||hologrammi|hologram|
+holografe||||hologram||holograma||||||||||||||hologrammi|hologram|
 hon (honi)||||hundred (100)||cien (100)|||||||||||||cent|sata (100)|sto (100)|
 hondurasia|dex|HN||Honduras||Honduras|||||||||||||Honduro|Honduras|Honduras|
 hongong|dex|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong Kong|Hong Kong|
@@ -1053,7 +1052,7 @@ istia||||ism (doctrine, ideology, religion, etc)||ideología (doctrina, religió
 italia|dex|IT||Italy||Italia|||||||||||||Italio|Italia|Italia, Włochy|
 itis|||eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|inflammation (-itis)|inflammation|inflamación|inflamaçao|воспаление||炎症||||||||||tulehdus|zapalenie|
 iva||||tend to|avoir tendance à|tender|tender||||||||||||emi|olla taipuvainen|być skłonnym (mieć skłonność)|
-ive|||eng:-ive, deu:-iv, Fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|tendency (inclination)|tendance|tendencia|tendência|тенденция||趋势|傾向|경향|||||||emo (inklino, tendenco)|taipumus|tendencja|
+ive|||eng:-ive, deu:-iv, fra:-if,-ive, por:spa:-ivo, rus:-ивный (-ivnyj)|tendency (inclination)|tendance|tendencia|tendência|тенденция||趋势|傾向|경향|||||||emo (inklino, tendenco)|taipumus|tendencja|
 izi|||eng:easy, fra:aisée|easy||fácil|||||||||||||facila|helppo|łatwy, prosty|
 jakarte||||Jakarta||||||||||||Jakarta||||||
 jake|||eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|jacket||chaqueta|||||||||||||jako|pikkutakki (jakku)|kurtka|
@@ -1080,8 +1079,9 @@ je|||hin:जो (jo), urd:(jo)|which (relative pronoun)||que (pronombre de las c
 jebe|||hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba|pocket||bolsillo|||||||||||||poŝo|tasku|kieszeń|
 jebria|||ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre|algebra||álgebra||||||||||||||algebra|algebra|
 jeinistia|||hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|Jainism|jaïnisme|jainismo|||||||||||||Ĝajnismo|jainalaisuus|dźinizm, dżinizm|
-jeka|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|borrow|empruntre|pedir prestado|pedir emprestado|||借|借りる||||||||||pożyczać (pożyczyć)|
-jekodona||||lend|prêter|prestar|emprestar||||貸す||||||||||pożyczać komuś (pożyczyć komuś)|
+jeka||||borrow (lend)|prêter (empruntre)|prestar (pedir prestado)|emprestar (pedir emprestado)|||借|借用|||||||||||
+jekodona||||lend|prêter|prestar|emprestar|||借出|貸す||||||||||pożyczać komuś (pożyczyć komuś)|
+jekogeta|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|borrow|empruntre|pedir prestado|pedir emprestado|||借入|借りる||||||||||pożyczać (pożyczyć)|
 jekolekse||||loanword||préstamo lingüístico|||||||||||||||zapożyczenie (wyraz obcy)|
 jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)||gel (jalea, gelatina)|||||||||||||ĝelo|hyytelö|żel, galareta|
 jelosi||||jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny|
@@ -1392,7 +1392,8 @@ krita||||cry (shout)||gritar||||||||||||||huutaa|krzyknąć, krzyczeć|
 kriton|mate|Kr||krypton||criptón (kriptón)|||||||||||||kriptono|kryptoni|krypton|
 krize|||eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|crisis||crisis|||||||||||||krizo|kriisi (käännekohta)|kryzys|
 krizi||||critical (pertaining to crisis)||crítico (fundamental)||||||||||||||kriittinen (kriisi-)|kryzysowy|
-krokodile|||ell:κροκόδειλος, eng:crocodilian, fra:crocodilien, spa:crocodilio, por:crocodiliano, rus:крокодил (krokodil), jpn:クロコダイル, kor:크로커다일 (keulokeodail)|crocodillian|crocodilien|crocodilio|crocodiliano|крокодил||鳄 (e)|ワニ||||||||||krokroke|||eng:croak, deu:gribbit, spa:croac croac, fin:kurr kurr, jpn:ケロケロ (kero kero), tur:vrak vrak, ind:krok krok, tgl:kokak kokak|frog|grenouille|rana|rã|лягушка||蛙|蛙
+krokodile|||ell:κροκόδειλος, eng:crocodilian, fra:crocodilien, spa:crocodilio, por:crocodiliano, rus:крокодил (krokodil), jpn:クロコダイル, kor:크로커다일 (keulokeodail)|crocodillian|crocodilien|crocodilio|crocodiliano|крокодил||鳄|ワニ|||||||||||
+krokroke|||eng:croak, deu:gribbit, spa:croac croac, fin:kurr kurr, jpn:ケロケロ (kero kero), tur:vrak vrak, ind:krok krok, tgl:kokak kokak|frog|grenouille|rana|rã|лягушка||蛙|蛙|||||||||||
 kromium|mate|Cr||chromium||cromo|||||||||||||kromo|kromi|chrom|
 krote|||rus:крот (krot)|mole (burrowing animal)||topo||||||||||||||kontiainen (maamyyrä)|kret|
 kruasante|niame||fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|croissant|croissant|cruasán|croassã|круассан||牛角包|クロワッサン|크루아상|bánh sừng bò|क्रोइसैन||||kruvasan|korna bulko|voisarvi (kroissantti)|croissant|
@@ -1557,7 +1558,7 @@ lugi|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn:
 luksemburgia|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg|
 lule|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła|
 lune|||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon||luna|||||||||||||luno|kuu|księżyc|
-lunge|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|oriental dragon||dragón chino||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|orientalny smok|
+lunge|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok|
 lusune||||asparagus||espárrago||||||||||||||parsa|szparag; szparagia|
 luta|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)||saquear (desvalijar, robar)||||掠夺|||||||||rabi|ryöstää (ryövätä)|obrabować, splądrować|
 luter||||robber (plunderer)|brigand (bandit)|ladrón|ladrão|грабитель||强盗||||डाकू|||||rabisto|ryöväri (rosvo)|rabuś (grabieżca)|
@@ -1887,6 +1888,8 @@ nepalia|dex|NP||Nepal||Nepal|||||||||||||Nepalo|Nepal|Nepal|
 nese|||ell:νήσος (nēsos), may:nusa, mlg:nosy|island||isla||||||||||||||saari|wyspa|
 nesia||||archipelago||archipiélago||||||||||||||saaristo|archipelag|
 nete|||eng: net, deu: Netz|net||red|||||||||||||reto|verkko|sieć|
+netodona||||upload||cargar (subir)|||||||||||||||wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)|
+netogeta||||download|télécharger|descargar|||||||||||||||ściągać (ściągnąć, pobrać, pobierać)|
 netoloke||||website||sitio web||||||||||||||nettisivu|witryna internetowa (portal internetowy)|
 netune|planete|||Neptune||Neptuno|||||||||||||Neptuno|Neptunus|Neptun|
 netunium|mate|Np||neptunium||neptunio|||||||||||||neptunio|neptunium|neptun|
@@ -2155,7 +2158,7 @@ planete||||planet||planeta||||||||||||||planeetta|planeta|
 plastike||||plastic||plástico||||||||||||||muovi|plastik|
 plate||||plane (plate)||plano (placa)||||||||||||||||
 plati||||flat (planar)||plana (llano, liso)|||||平ら|||||||||litteä|płaski|
-plati zemokaskia|||eng:tectonic, spa:tectónica, rus:тектоника (tektonika), ara:تكتونية (tuktunia), hin:टेक्टोनिक्स (tektoniks), ben:টেকটোনিক্স (ṭēkaṭōniksa), may:tektonik, jpn:テクトニクス (tekutonikusu)|plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)|||||||||||
+plati zemokaskia||||plate tectonics|tectonique des plaques|tectónica de placas|tectónica de placas|||板块构造论|プレートテクトニクス (プレート理論)|||||||||||
 platistan||||plain (plateau, flat lands)|plaine|llanura||||平原|草原|||||||||||
 platoforme||||platform||||||||||||||||||
 platotase||||plate||plato||||||||||||||lautanen|talerz|
@@ -2244,7 +2247,7 @@ purani|||hin:पुराना (purānā), urd:(purānā), ben:পুৰণা 
 puri|||hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|full (complete)|plein|lleno (completo)|cheio|полный||||||पूर्ण|পূর্ণ||||plena|täysi|pełny|
 puro||||fully (completely)|||||||||||||||plene|täysin||
 putaw||||grape||uva|||||||||||||vinbero|viinirypäle|winogrono|
-pute|||tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|child (son or daughter)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek|
+pute|||tha:บุตร (but), hin:पूत (pūt), पुत्र (putra), ben:পুত্র (putr), Pnb:ਪੁੱਤ (putt), ਪੁੱਤਰ (puttar), may:putera, tel:పుత్రుడు (putruḍu)|child (son or daughter)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek|
 putong|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general, universal)||general (common)||||普通|||||||||generala (universala)|yleinen (universaali)|powszechny, uniwersalny|
 putong cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua|
 puxa||||push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać|
@@ -2623,7 +2626,6 @@ tala||||lower (put down)|baisser|bajar|||||||||||||||obniżać (obniżyć)|
 tale||||bottom|bas|fondo||||||||||||||pohja|dół, spód|
 tali||||low|bas|bajo|||||||||||||||niski|
 talium|mate|Tl||thallium||talio|||||||||||||talio|tallium|tal|
-talolada||||download|télécharger|descargar|||||||||||||||ściągać (ściągnąć, pobrać, pobierać)|
 tamare|||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl|
 tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)|
 tamili|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski|
@@ -2716,7 +2718,7 @@ tolera||||tolerate||tolerar||||||||||||||sallia|tolerować|
 tolo||||top (spinning top)||trompo||||||||||||||hyrrä|bąk, bączek|
 tomate|||eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|tomato|tomate|tomate|tomate|помидор (томат)||西红柿||||टमाटर|||||tomato|tomaatti|pomidor|
 tone|||eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|tone (note, pitch, shade)||tono|||||||||||||tono|sävel (sävy)|ton, dźwięk, nuta, tonacja|
-tong|||zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|barrel (can, cask)||barril (tonel)||||||||||||||tynnyri (tölkki)|beczka|
+tonge|||zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|barrel (can, cask)||barril (tonel)||||||||||||||tynnyri (tölkki)|beczka|
 tongia|dex|TO||Tonga||Tonga||||||||||||||Tonga|Tonga|
 tope|||may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)|hat (cap)||sombrero|||||||||||||ĉapelo|lakki (hattu)|kapelusz, czapka|
 torium|mate|Th||thorium||torio|||||||||||||torio||tor|
