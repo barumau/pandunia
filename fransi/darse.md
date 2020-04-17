@@ -264,15 +264,15 @@ formules de politesses.
 = S'il vous plaît, donnez-moi du thé. 
 **pliza niama cay.**
 = S'il vous plaît, prenez un peu de thé.  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec **komanda** = ordonner. Ils utilisent la
-même structure de pivot que les requêtes avec **plisa**.
+même structure de pivot que les requêtes avec **pliza**.
 
 **komanda dona cay.**
 = Donnez-moi du thé !  
-**komanda safa kamar.**
+**komanda safa kamare.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
@@ -301,7 +301,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 **danke** merci.
 **e** et.
 **kafe** café.
-**kamar** chambre, pièce.
+**kamare** chambre, pièce.
 **komanda** ordonner.
 **o** ou.
 **safa** nettoyer.
@@ -314,7 +314,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 1. le niama cay.
 2. xefe pliza le sida.
 3. pliza niama kafe o cay.
-4. mame pliza me safa kamar.
+4. mame pliza me safa kamare.
 5. xefe sida e niama kafe.
 
 
@@ -380,7 +380,7 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 **eska xefe niama kafe?**
 = Est-ce que le chef prend du café ?  
-**eska pape safa kamar?**
+**eska pape safa kamare?**
 = Le père nettoie-t-il la chambre ?  
 **eska niki baxa pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
@@ -477,11 +477,11 @@ Conceptuellement, la négation signifie l'absence ou la non-existence du mot ni�
 l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ; le sens de la phrase change donc selon l'emplacement du **no**.
 
-**me pliza te safa kamar.**
+**me pliza te safa kamare.**
 = Je te demande de nettoyer la chambre.  
-**me no pliza te safa kamar.**
+**me no pliza te safa kamare.**
 = Je ne te demande pas de nettoyer la chambre.  
-**me pliza te no safa kamar.**
+**me pliza te no safa kamare.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
@@ -524,7 +524,7 @@ Parfois, il y a plus d'une bonne réponse.
 
 ### Réponses aux exercices
 
-1. le no safa kamar.
+1. le no safa kamare.
 2. un kupe no hali.
 3. dul waf no niama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
@@ -685,7 +685,7 @@ marqueurs de temps ne sont pas nécessaires.
 
 **me jenu sa nen 2003.**
 = Je suis né en 2003.  
-**le safa kamar sa badi den.**
+**le safa kamare sa badi den.**
 = Il nettoiera la chambre demain.
 
 
@@ -719,7 +719,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
 3. te niama supe zay.
-4. le safa kamar sa predi den.
+4. le safa kamare sa predi den.
 5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 

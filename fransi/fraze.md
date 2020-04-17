@@ -71,7 +71,7 @@ Remarque : **Salam** est une salutation populaire qui est utilisée à la fois p
 
 **danke!** Thanks!
 
-**pol danke!** Merci beaucoup !
+**multo danke!** Merci beaucoup !
 
 **si, danke.** Oui, merci.
 
@@ -188,7 +188,7 @@ Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
 **me no sarah.** Je ne suis pas Sara.
 
-**me no dotor.** Je ne suis pas doctor.
+**me no dotore.** Je ne suis pas doctor.
 
 **eska te bon?** Est-ce que tu vas bien ?  
 **si. me bon.** Oui, je vais bien.
@@ -458,7 +458,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **me abla xofa gare.** Je sais conduire une voiture.
 
-**le no abla gida gare.** Il/elle ne sait pas conduire une voiture.
+**le no abla xofa gare.** Il/elle ne sait pas conduire une voiture.
 
 **eska te abla xula le?** Est-ce que tu sais réparer ça ?
 
@@ -583,7 +583,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **mome safara ca london pa paris.** Nous voyageons de Londres à Paris.
 
-**safar polo longi.** Le voyage est très long.
+**safare multo longi.** Le voyage est très long.
 
 
 ### sa <small>dans, sur, à</small>
@@ -776,7 +776,7 @@ C’est le meilleur (de tous).
  Combien ça coûte ? 
 **nol.**
 Rien.
-**le kosta lil / pol.**
+**le kosta lil / multo.**
 C'est bon marché. / C'est cher.  
 
 **mome plizu laya.**

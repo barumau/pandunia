@@ -173,7 +173,7 @@ Pandunia can be spelled regularly because it has fewer speech sounds
 alphabet of Pandunia is:  
 a b c d e f g h i j k l m n o p r s t u v w x y z
 
-Pandunia has perfect letter-to-sound correspondence. One letter
+Pandunia has almost perfect letter-to-sound correspondence. One letter
 stands for one sound only. One sound is represented by exactly one
 letter. Every word is pronounced as it is written.
 

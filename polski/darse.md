@@ -180,7 +180,7 @@ Zaimki osobowe w Panduni to: **me** = ja, **te** = ty, i **le** = on, ona, ono. 
 **me pliza te salama le.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
 
-Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **plisa** = prosić, odnosi się do **te** jako swojego dopełnienia. Jednocześnie **te** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **le**. Tak więc **te** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **pliza** = prosić, odnosi się do **te** jako swojego dopełnienia. Jednocześnie **te** służy też jak podmiot drugiego czasownika, **salama** = pozdrowić, którego dopełnienie to **le**. Tak więc **te** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
@@ -203,14 +203,14 @@ Zdanie **pliza salama le** ma użyteczny wzór, użyteczny przy grzecznych proś
 = Proszę, podaj herbatę.  
 **pliza niama cay.**
 = Proszę, pij herbatę.  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = Proszę, sprzątaj pokój.
 
-Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **plisa**.
+Rozkazy są wprowadzane z **manda** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **pliza**.
 
 **komanda dona cay.**
 = Daj (mi) herbatę!  
-**komanda safa kamar.**
+**komanda safa kamare.**
 = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
@@ -232,7 +232,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cay** herbata. **plisa** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **niama** jeść lub pić.
+**cay** herbata. **pliza** poprosić, prosić. **dona** dać, dawać. **danke** dzięki, dziękuję. **i** i. **kafe** kawa. **kamare** pokój. **manda** rozkazać, rozkazywać. **u** lub. **safa** posprzątać, sprzątać. **sida** siedzieć. **niama** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -240,7 +240,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 1. le niama cay.
 2. xefe pliza le sida.
 3. pliza niama kafe u cay.
-4. mame pliza me safa kamar.
+4. mame pliza me safa kamare.
 5. xefe sida i niama kafe.
 
 
@@ -268,7 +268,7 @@ Pytania "tak lub nie"
 
 ### Zadawanie pytań
 
-Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **plisa**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **pliza**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **eska** = pytać.
 
 > **me eska te niama cay.** = Ja pytam cię, czy napijesz się herbaty.  
 > **eska te niama cay?** = Czy pijesz herbatę?  
@@ -283,7 +283,7 @@ Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często do
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
 > **eska xefe niama kafe?** = Czy szef pije kawę?  
-> **eska papá safa kamar?** = Czy ojciec sprząta pokój?  
+> **eska papá safa kamare?** = Czy ojciec sprząta pokój?  
 > **eska niki baxa pandunia?** = Czy Nicky mówi Pandunia?
 
 
@@ -349,9 +349,9 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **si** i **no** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **me no salama te**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-> **me pliza te safa kamar.** = Ja proszę cię, żebyś sprzątał pokój.  
-> **me no pliza te safa kamar.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
-> **me pliza te no safa kamar.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
+> **me pliza te safa kamare.** = Ja proszę cię, żebyś sprzątał pokój.  
+> **me no pliza te safa kamare.** = Ja NIE proszę cię, żebyś sprzątał pokój.  
+> **me pliza te no safa kamare.** = Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
@@ -381,7 +381,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Odpowiedzi do Ćwiczeń
 
-1. le no safa kamar.
+1. le no safa kamare.
 2. un kupe no hali.
 3. dua waf no niama supe.
 4. le no tena waf i maw. / le tena no waf i no maw.
@@ -494,7 +494,7 @@ Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy o
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
 > **me jenu na nen 2003.** = Urodziłem się w 2003. roku.  
-> **le safa kamar na badi den.** = Posprząta pokój jutro.
+> **le safa kamare na badi den.** = Posprząta pokój jutro.
 
 
 ### Lista słów
@@ -517,7 +517,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 1. mi xefe festa futur.
 2. me tena dul waf pas.
 3. te niama supe zay.
-4. le safa kamar na befo den.
+4. le safa kamare na befo den.
 5. maw niama kafe na badi den.
 6. te ya mamá festa na befo noce.
 

@@ -34,7 +34,7 @@ hakimer loga, "dul tote laya badoden, e miskini man bixu jama sake da lim auri p
 </td><td>
 Le juge dit : "Venez tous les deux demain, et le pauvre doit apporter un sac de cinq pièces d'or !'
 </td></tr><tr><td>
-miskini man tena pol doste, da dona pan pese pa le.
+miskini man tena multi doste, da dona pan pese pa le.
 </td><td>
 Le pauvre avait beaucoup d'amis qui lui donnèrent l'argent.
 </td></tr><tr><td>

@@ -82,7 +82,7 @@ Indonesian: selamat.</small>
 **danke!**
 Thanks!
 
-**pol danke!**
+**multo danke!**
 Thanks a lot!
 
 **si, danke.**
@@ -199,7 +199,7 @@ Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**. It is just a regular
 verb, not a special _question tag_. In fact, the previous question is simply
-abbreviated from **me eska te dotor.** (I ask, you doctor?) by dropping out the
+abbreviated from **me eska te dotore.** (I ask, you doctor?) by dropping out the
 first word.
 
 **eska te bon?**
@@ -254,7 +254,7 @@ The apple is a fruit.
 **me no sarah.**
 I'm not Sarah.
 
-**me no dotor.**
+**me no dotore.**
 I'm not a doctor.
 
 **eska te bon?**
@@ -609,7 +609,7 @@ I don't understand at all.
 **me abla xofa gare.**
 I can drive a car.
 
-**le no abla gida gare.**
+**le no abla xofa gare.**
 He/she doesn't know how to drive a car.
 
 **eska te abla xula le?**
@@ -779,7 +779,7 @@ Do you travel by train?
 **mome safara ca london pa paris.**
 We travel from London to Paris.
 
-**safar polo longi.**
+**safare multo longi.**
 The voyage is very long.
 
 
@@ -989,10 +989,10 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**le kosta lil / pol.**
+**le kosta lil / multo.**
 It is cheap / expensive.  
 
-**mome plisu laya.**
+**mome plizu laya.**
 We are being called.
 
 **me serca tualete.**
