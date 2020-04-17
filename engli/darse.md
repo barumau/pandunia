@@ -15,7 +15,8 @@ Introducing yourself
 <big>👩</big>
 **me si maria. le si ke?**
 = I am Maria. Who is that?  
-<big>🧔</big> **le si mi doste.**
+<big>🧔</big>
+**le si mi doste.**
 = That is my friend.  
 <big>👩</big>
 **li nam si ke?**
@@ -216,10 +217,10 @@ answers are after the word list.
 **pliza salama ti mame!**
 = Please tell greetings to your mother.  
 <big>🧒</big>
-**me salama le. salam!**
+**me salama le. salam reste!**
 = I will. Bye!  
 <big>🧓</big>
-**salam!**
+**salam cute!**
 = Bye!
 
 
@@ -636,15 +637,15 @@ sentence tells about the past time.
 
 There are also specific time words.
 
-**gang**
+**gango**
 = just, recently  
-**zay**
+**zayo**
 = currently, at the moment  
-**hay**
+**hayo**
 = still  
-**sun**
+**suno**
 = soon  
-**wil**
+**wilo**
 = later, in the future
 
 
@@ -652,28 +653,28 @@ There are also specific time words.
 The adjectives for past, present and future are **pas, zay** and
 **wil**. They can be used for modifying nouns.
 
-**sarah si mi pas xefe.**
+**sarah si mi pasi xefe.**
 = Sarah is my former boss.  
-**yusef si mi zay xefe.**
+**yusef si mi zayi xefe.**
 = Yusef is my current boss.  
-**maria si mi wil xefe.**
+**maria si mi wili xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**me pas darba le.**
+**me paso darba le.**
 = I hit it (in the past).  
-**me zay darba le.**
+**me zayo darba le.**
 = I am hitting it (currently).  
-**me wil darba le.**
+**me wilo darba le.**
 = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
-**me darba le pas.**  
-**me darba le zay.**  
-**me darba le wil.**
+**me darba le paso.**  
+**me darba le zayo.**  
+**me darba le wilo.**
 
 It's also possible to use longer phrases like **sa pase** (in the past) etc.
 
@@ -691,11 +692,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me pas tena un maw.**
+**me paso tena un maw.**
 = I had a cat in the past.  
 **le bon maw.**
 = It was a good cat.  
-**me tena un waf zay.**
+**me tena un waf zayo.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -720,12 +721,12 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pas** past, former.
-**zay** present, current.
-**wil** future.
+**paso** in the past, formerly.
+**zayo** at present, currently.
+**wilo** in future.
 **darba** to hit, to beat.
 **pang** bread.
-**subi niam** morning meal, breakfast.
+**suboniam** morning meal, breakfast.
 
 ### Answers to the Exercises
 
