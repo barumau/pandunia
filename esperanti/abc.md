@@ -43,19 +43,16 @@ alimaniere:
 
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
-- **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
+- **maw** /máw/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
+     me wana loga komuni baxe, le si pandunia.  
+    /mé wána lóga komúni báxe, lé sí pandúnia./
 
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
 
 ## Uskleco
 

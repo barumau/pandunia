@@ -46,13 +46,12 @@ Paino on ennen viimeistä konsonanttia olevalla tavulla.
 
 Esimerkkejä:
 
-- **maw** /máw/, **ding** /díng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
+- **maw** /máw/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
      me wana loga komun bax, le si pandunia.  
     /mé wána lóga komún báx, lé sí pandúnia./

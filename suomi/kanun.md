@@ -91,8 +91,8 @@ tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mar
    Niitä sanotaan yhteisesti määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
    Kaikki määritteet, lukuun ottamatta muutamaa yleisintä sanaa, loppuvat kirjaimeen **-i**.
-    - esim. 1. **rapi loge** = Nopea puhe.
-    - esim. 2. **te rapi loga.** = Sinä nopeasti puhut.
+    - esim. 1. **rapidi loge** = Nopea puhe.
+    - esim. 2. **te rapido loga.** = Sinä nopeasti puhut.
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
    Tällöin verbin pääte on **-a**.
     - esim. **me penta meze.** = Minä maalaan pöytiä.
@@ -173,9 +173,9 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**novi kar**
+**novi gare**
 – uusi auto  
-**rapi kar**
+**rapidi gare**
 – nopea auto  
 **day meze**
 = iso pöytä  
@@ -187,14 +187,14 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**kar novi.**
+**gare novi.**
 – Auto on uusi.  
-**bagre rapi.**
+**bagre rapidi.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-**novi kar rapi.**
+**novi gare rapidi.**
 = Uusi auto on nopea.
 
 ### 3.3 Verbin määrite

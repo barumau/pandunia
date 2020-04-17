@@ -168,9 +168,9 @@ for example good, bad, big, and fast.
 An adjective is a word that adds a particular quality for a noun.
 In Pandunia, adjectives typically end in **-i** and their place is before a noun.
 
-**novi kar**
+**novi gare**
 – new car(s)  
-**rapidi kar**
+**rapidi gare**
 – fast car(s)  
 **day meze**
 – big table(s)  
@@ -181,20 +181,20 @@ In Pandunia, adjectives typically end in **-i** and their place is before a noun
 
 Two or more adjectives can modify the same word.
 
-**lil novi kar**
+**lil novi gare**
 – a little, new car
 
 Adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-**kar novi.**
+**gare novi.**
 – The car is new.  
 **bagre rapidi.**
 – The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**novi kar rapidi.**
+**novi gare rapidi.**
 – The new car is fast.
 
 ### 3.2 Modifying a verb
@@ -237,13 +237,13 @@ Modifiers can be compared.
 - **maxim** (most) indicates the superlative of superiority
 - **min** (less) indicates comparison of inferiority
 - **minim** (least) indicates the superlative of inferiority
-- **sam** (as) indicates the comparison of equality
+- **samo** (as) indicates the comparison of equality
 
 Particle **ko** relates the adverbs of comparison to the point of comparison.
 
 **me si max bon ko te.**
 = I am better than you.  
-**te loga sam bono ko me.**
+**te loga samo bono ko me.**
 = You speak as well as me.
 
 
@@ -552,7 +552,7 @@ Then the structure is similar like in negative sentences.
 – The stone is big.  
 **meze si novi.**
 – The table is new.  
-**meze no law.**
+**meze no purani.**
 – The table is not old.
 
 Also two personal pronouns can be combined with **si** and **no**.
@@ -566,7 +566,7 @@ Also two personal pronouns can be combined with **si** and **no**.
 
 The same rule applies also for two adjectives.
 
-**jowan si sundar.**
+**jowan si sundari.**
 – Young is beautiful.  
 **novi no purani.**
 – New is not old.  
@@ -587,7 +587,7 @@ Pandunia doesn't use a verb like "to be" in English.
 ### 7.3. Active Sentences
 
 An active sentence is a sentence where the subject does the action denoted by the verb to the object.
-The focus is on the subject as the active counterpart.
+The focus is on the subject as the active participant.
 The correct word order is subject-verb-object (SVO).
 
 In Pandunia, active verbs are easy to identify because all of them end in **-a**.
@@ -641,8 +641,8 @@ That is because the direction of pleasing is from the active doer to the passive
 In the _pivot structure_ the word order is:  
 subject – verb 1 – object 1 – verb 2 – object 2.
 
-Object 1 functions has dual role.
-It is at the same time the object for verb 1 and the subject for verb 2.
+Object 1 has two roles.
+It is at the same time the object for the verb 1 and the subject for the verb 2.
 
 **me wana te niama sabze.**
 – I want you eat vegetables.
@@ -800,16 +800,7 @@ so one can say things like
 but it's better to use the short possessive pronouns and say simply
 **mi dom** (_my house_).
 
-#### 9.2.2. Modification with adjectives
-
-With **da** it's possible to move a modifier after the noun.
-
-**novi idey**
-– a new idea  
-**idey da novi**
-– an idea of new
-
-#### 9.2.3. Modification with noun phrases
+#### 9.2.2. Modification with noun phrases
 
 Another way to use these particles is to connect an adjective or other words with a noun.
 It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
@@ -831,21 +822,21 @@ Or in the opposite order:
 The particles help in creating measure words too.
  
 **un sake du patate**
-– one sack of potatos  
+– one sack of potatoes  
 **dul sake du patate**
-– two sacks of potatos  
+– two sacks of potatoes  
 **max sake du patate**
-– more sacks of potatos
- 
+– more sacks of potatoes
+
 Note that **du** and **da** connect phrases together.
 So a modifier phrase with and without **du** can mean a different thing.
 
-**max sundar pul**
+**max sundari fule**
 – more beautiful flowers  
-**max du sundar pul**
+**max du sundari fule**
 – more of beautiful flowers
 
-#### 9.2.4. Modification with verb phrases
+#### 9.2.3. Modification with verb phrases
 
 Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
@@ -885,7 +876,7 @@ Pay attention to the final vowels! They are crucial for the meaning!
 Note! In Pandunia, words can be put in many different orders.
 That's why some translations sound clumsy in English although the original phrases are perfectly natural in Pandunia.
 
-#### 9.2.5. Modification with adposition phrases
+#### 9.2.4. Modification with adposition phrases
 
 The modified noun can be part of an adposition phrase too.
 
@@ -1041,20 +1032,20 @@ the point of comparison.
 **ko** is also used when adjectives are compared.
 
 **bace si min day ko pape.** - The child is smaller than the father.  
-**law pape si sam day ko pape.** - Grandfather is as big as father.
+**law pape si samo day ko pape.** - Grandfather is as big as father.
 
 **ko** relates the adverbs of comparison – **max** (more), **min**
-(less) and **sam** (same) – to the point of comparison, which is
+(less) and **samo** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
 
 
 
 ## 11. Word building
 
-It's possible to build new words in Pandunia. Pandunia has a
-productive system of word derivation. Most of the suffixes that are
-used in Pandunia are already in international use. Many of hem come
-from ancient Greek, Latin, Arabic and Persian.
+It's possible to build new words in Pandunia.
+Pandunia has a productive system of word derivation.
+Most of the suffixes that are used in Pandunia are already in international use.
+Many of them come from ancient Greek, Latin, Arabic and Persian.
 
 ### 11.1. Word class markers
 

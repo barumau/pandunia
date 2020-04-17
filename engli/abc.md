@@ -67,9 +67,9 @@ the duration of the vowel.
 When two vowels are next to each other, they will glide together and
 form a _diphthong_ i.e. a gliding vowel.
 
-For example **a** and **u** form a gliding vowel in the word **mais**.
-So the vowel begins in **a** and glides gradually to **u**.
-There is a similar gliding vowel in **may**.
+For example **a** and **i** form together a gliding vowel in the word **mais**.
+So the vowel begins in **a** and glides gradually to **i**.
+There is a similar gliding vowel in **day**.
 
 
 ## Stress Accent
@@ -78,19 +78,15 @@ The stress is on the syllable, which is before the last consonant.
 
 Consider the following examples:
 
-- **maw** /máw/, **ding** /díng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
+- **maw** /máw/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
-
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
+     me wana loga komuni baxe, le si pandunia.  
+    /mé wána lóga komúni báxe, lé sí pandúnia./
 
 
 ## Letter Case

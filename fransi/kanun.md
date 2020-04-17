@@ -156,9 +156,9 @@ Ainsi, **fem** (femme) est féminin et **man** (homme) est masculin.
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**novi kar** 
+**novi gare** 
 – voiture(s) neuve(s)
-**rapidi kar** 
+**rapidi gare** 
 – voiture(s) rapide(s)
 **day meze** 
 – grande(s) table(s)  
@@ -169,20 +169,20 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**lil novi kar** 
+**lil novi gare** 
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**kar novi.** 
+**gare novi.** 
 – La voiture est neuve.  
 **bagre rapidi.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**novi kar rapidi.** 
+**novi gare rapidi.** 
 – La voiture neuve est rapide.
 
 
@@ -224,13 +224,13 @@ Les modificateurs peuvent être comparés.
 - **maxim** (le plus) marque le superlatif de supériorité
 - **min** (moins) marque le comparatif d'infériorité
 - **minim** (le moins) marque le superlatif d'infériorité
-- **sam** (aussi, autant) marque le comparatif d'égalité
+- **samo** (aussi, autant) marque le comparatif d'égalité
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
 **me si max bon ko te.**
 = Je suis meilleur que toi.  
-**te loga sam bono ko me.**
+**te loga samo bono ko me.**
 = Tu parles aussi bien que moi.
 
 
@@ -547,7 +547,7 @@ De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jowan si sundar.** 
+**jowan si sundari.** 
 – (Être) jeune, c'est beau.  
 **novi no purani.** 
 – Neuf, ce n'est pas vieux.  
@@ -775,17 +775,7 @@ mais il est préférable d'utiliser des adjectifs possessifs et de dire simpleme
 **mi dom** (_ma maison_).
 
 
-#### 9.2.2. Modification par des adjectifs
-
-**da** rend possible de déplacer un modificateur après le nom.
-
-**novi idey** 
-– une nouvelle idée  
-**idey da novi** 
-– une idée neuve
-
-
-### 9.2.3. Modification par des groupes nominal
+### 9.2.2. Modification par des groupes nominal
 
 Une autre façon d'utiliser ces particules est de connecter un groupe nominal servant de complément au nom principal.
 Cela permet de préciser le nom, et la particule choisie montre clairement à quelle extrémité se trouve le nom principal.
@@ -816,12 +806,12 @@ Ces particules permettent également de créer des mots-mesures.
 Remarque : **du** and **da** connectent des propositions.
 Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans **du**.
 
-**max sundar pul** 
+**max sundari fule** 
 – des fleurs plus belles  
-**max du sundar pul** 
+**max du sundari fule** 
 – davantage de belles fleurs (de belles fleurs en plus grande quantité)
 
-#### 9.2.4. Modification par des propositions subordonnées (groupes verbaux)
+#### 9.2.3. Modification par des propositions subordonnées (groupes verbaux)
 
 On peut transformer des verbes et des groupes verbaux en plaçant **da** ou **du** juste à côté du verbe.
 Dans les subordonnées modificatrices, l'agent et l'objet se placent aux mêmes endroits que dans les phrases déclaratives.
@@ -862,7 +852,7 @@ Remarque : en pandunia, on peut utiliser beaucoup d'ordres de mots différents.
 C'est pourquoi certaines traductions semblent maladroites en français, bien que les phrases originales en pandunia soient parfaitement naturelles.
 
 
-#### 9.2.5. Modifications par des groupes de mots en adposition
+#### 9.2.4. Modifications par des groupes de mots en adposition
 
 Le nom modifié peut également faire partie d'une adposition.
 
@@ -1013,9 +1003,9 @@ La préposition **ko** indique la manière ou le style. Elle correspond en fran�
 **ko** est aussi utilisé quand on compare des adjectifs.
 
 **bace si min day ko pape.** – L'enfant est moins grand que le père.  
-**law pape si sam day ko pape.** – Grand-père est aussi grand que père.
+**law pape si samo day ko pape.** – Grand-père est aussi grand que père.
 
-**ko** met en relation les adverbes de comparaison - **max** (plus), **min** (moins) and **sam** (aussi, autant) - et l'élément comparé,
+**ko** met en relation les adverbes de comparaison - **max** (plus), **min** (moins) and **samo** (aussi, autant) - et l'élément comparé,
 **pape** (père) dans les exemples ci-dessus.
 
 ------------

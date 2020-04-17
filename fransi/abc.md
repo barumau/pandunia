@@ -53,9 +53,9 @@ Elles se prononcent comme suit : **a** comme dans _papa_, **e** comme le « é �
 
 Quand deux voyelles sont proches l'une de l'autre, le son de la première glisse vers le son de la seconde et forme une  _diphthongue_.
 
-Par exemple **a** et **u** forment  une diphtongue dans le mot **mais**.
-Le son **a** glisse progressivement ves le son **u**.
-De façon similaire, il y a une diphtongue dans le mot **may**.
+Par exemple **a** et **i** forment  une diphtongue dans le mot **mais**.
+Le son **a** glisse progressivement ves le son **i**.
+De façon similaire, il y a une diphtongue dans le mot **day**.
 
 
 
@@ -64,19 +64,15 @@ De façon similaire, il y a une diphtongue dans le mot **may**.
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
-- **maw** /máw/, **ding** /díng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
+- **maw** /máw/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
-
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
+     me wana loga komuni baxe, le si pandunia.  
+    /mé wána lóga komúni báxe, lé sí pandúnia./
 
 
 ## Majuscules
