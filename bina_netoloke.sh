@@ -1,0 +1,20 @@
+cd mkdocs
+cd cini
+mkdocs build
+cd ../engli
+mkdocs build
+cd ../espani
+mkdocs build
+cd ../esperanti
+mkdocs build
+cd ../fransi
+mkdocs build
+cd ../pandunia
+mkdocs build
+cd ../polski
+mkdocs build
+cd ../rusi
+mkdocs build
+cd ../suomi
+mkdocs build
+
