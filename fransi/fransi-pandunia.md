@@ -23,6 +23,7 @@ alcool - alkole
 alcoolique - alkoli  
 algue - alge  
 Aller-retour - retrotikete  
+alligator - kortokrokodile  
 allophone - alofone  
 allô - halow  
 alphabet - abace  
@@ -134,6 +135,7 @@ bébé - bebe
 café - kafe  
 cage - kafase  
 calculer - hisaba  
+calendrier - kalende  
 canapé (sofa) - kanape  
 canoë - kanowe  
 capacité (compétence) - able  
@@ -167,6 +169,7 @@ compassion - samemose
 comportement (manière) - manire  
 compote de pommes - aplosose  
 comprendre (réaliser) - aha  
+concert - konserte  
 construire - bina  
 corne - korne  
 corps - badan (badane)  
@@ -174,12 +177,16 @@ correct (juste) - sahi
 cosmique - kosmi  
 cosmos - kosmia  
 coton - gotone  
+couguar (puma) - pume  
 couleur - rang (range)  
 coupe (tasse, verre) - kope  
 couronne - korone  
 couvrir - daka  
 crabe - krabe  
 creuser - kava  
+crevette - krevete  
+crocodile - longokrokodile  
+crocodilien - krokodile  
 croissant - kruasante  
 croix - kruse  
 crème - kreme  
@@ -196,6 +203,7 @@ côte - samudotate
 côté - late  
 ##d
 dance - danse  
+dauphin - dolfine  
 de - ca  
 dessous - nice  
 destin (destination) - destine  
@@ -220,7 +228,7 @@ dur - gati
 east (orient) - donge  
 eau - suy (suye)  
 Einsteinium - ainstainium  
-empruntre - jeka  
+empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
 enfant - bace  
@@ -266,6 +274,7 @@ gingembre - zinje
 giraffe - jirafe  
 goule - gule  
 gouvernement - governe  
+grenouille - krokroke  
 grimace - grimase  
 groupe - grupe  
 guitare - gitare  
@@ -335,8 +344,10 @@ long - longi
 loquace - logivi  
 loup - wolfe  
 lourd - bari  
+loutre - lontre  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
+lynx - linse  
 lys - susane  
 ##m
 machine à écrire - kitabomaxin  
@@ -478,6 +489,7 @@ projection - lancografe
 projet - projete  
 projeter (donner) - lancografa  
 propriété (possession, bien) - malke  
+prêter (empruntre) - jeka  
 prêter - jekodona  
 psychologie - ruholojia  
 psyché - ruhe  
@@ -488,10 +500,12 @@ que (quoi) - ke
 ##r
 race - rase  
 racine - mule  
+raton laveur - waxurse  
 rein - nefre  
 religion - dine  
 remplir - pura  
 renard - hule  
+requin - xarke  
 reste - reste  
 retourner (revenir) - retra  
 rhythme - ritime  
@@ -573,7 +587,7 @@ trois (3) - tin
 tu - te  
 Tunisie - tunisia  
 turban - pagre  
-télécharger - talolada  
+télécharger - netogeta  
 téléphone - telofone  
 téléviseur - telovide  
 tête - sare  

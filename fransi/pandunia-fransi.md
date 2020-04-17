@@ -182,6 +182,7 @@ dike - objectif (cible)
 dine - religion  
 diske - disque  
 dokume - document (dossier)  
+dolfine - dauphin  
 domi - domestique  
 domu - vivre (habiter)  
 donge - east (orient)  
@@ -263,8 +264,9 @@ ive - tendance
 ##j
 jana - savoir (connaître)  
 jeinistia - jaïnisme  
-jeka - empruntre  
+jeka - prêter (empruntre)  
 jekodona - prêter  
+jekogeta - empruntre  
 jeni baxe - langue maternelle  
 jenotipe - génotype  
 jino - en avant  
@@ -280,6 +282,7 @@ kafase - cage
 kafe - café  
 kagaze - papier  
 kalame - plume  
+kalende - calendrier  
 kali harfe - espace  
 kamare - pièce (chambre)  
 kamise - chemise  
@@ -313,9 +316,11 @@ ko? - comment
 komputer - ordinateur  
 koncunge - insecte  
 konfusi - perplexe (désorienté)  
+konserte - concert  
 kope - coupe (tasse, verre)  
 korne - corne  
 korone - couronne  
+kortokrokodile - alligator  
 kosmi - cosmique  
 kosmia - cosmos  
 krabe - crabe  
@@ -323,6 +328,9 @@ krake - fente (fissure, fêlure)
 kreme - crème  
 krepe - crêpe  
 kreperia - crêperie  
+krevete - crevette  
+krokodile - crocodilien  
+krokroke - grenouille  
 kruasante - croissant  
 kruse - croix  
 kube - cube  
@@ -351,6 +359,7 @@ lifafa - envelopper (emballer)
 lil (lili) - petit  
 lim - cinq (5)  
 limone - citron  
+linse - lynx  
 lisane - langue  
 liste - liste  
 loga - parler  
@@ -359,6 +368,8 @@ loka - mettre (placer)
 loke - lieu  
 loki - local  
 longi - long  
+longokrokodile - crocodile  
+lontre - loutre  
 lugi - vert  
 luter - brigand (bandit)  
 lutheristi - luthérien  
@@ -413,6 +424,7 @@ nasia - nation
 nasomedi - international  
 naw - neuf (9)  
 nefre - rein  
+netogeta - télécharger  
 neurosel - neurone  
 nice - dessous  
 nida - avoir besoin de  
@@ -480,6 +492,7 @@ problemi - problématique
 programe - programme  
 projete - projet  
 pule - pont  
+pume - couguar (puma)  
 pura - remplir  
 puri - plein  
 pute - fils ou fille  
@@ -552,7 +565,6 @@ taksometer - taximètre
 tala - baisser  
 tale - bas  
 tali - bas  
-talolada - télécharger  
 tarje - traduction  
 tate - bord (rive)  
 tazi - frais  
@@ -602,6 +614,7 @@ wale - mur
 walopapir - papier peint  
 wana - vouloir  
 warkolate - page  
+waxurse - raton laveur  
 wayoniame - piquenique  
 weki - éveillé  
 werka - travailler  
@@ -610,6 +623,7 @@ werker - travailleur (ouvrier)
 wolfe - loup  
 wolofi - wolof  
 ##x
+xarke - requin  
 xatan (xatane) - Satan  
 xawi - peu  
 xefe - chef  

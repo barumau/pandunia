@@ -64,6 +64,7 @@ analize - analizo
 ande - ovo  
 andes - Andoj  
 anime - kartuno  
+anjile - mesaĝo  
 anker - ankro  
 antene - anteno  
 anti - kotraŭa  
@@ -351,6 +352,7 @@ dinogur - pastro
 diske - disko  
 disprosium - disprozio  
 dolare - dolaro  
+dolfine - delfeno  
 dom (dome) - hejmo (loĝejo)  
 doma - loĝigi  
 domi - hejma  
@@ -756,6 +758,7 @@ kaixu - komenciĝi
 kakawe - kakao  
 kake - feko  
 kalame - plumo  
+kalende - kalendaro  
 kali - malplena  
 kalifornium - kaliforniumo  
 kalium - kalio  
@@ -853,6 +856,7 @@ komuni - komuna
 komuniste - komunisto  
 komunistia - komunismo  
 konfuze - Konfuceo  
+konserte - koncerto  
 konsida - rigardi ia  
 kontra - kontraŭ  
 kope - taso  

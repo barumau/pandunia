@@ -57,6 +57,7 @@ alga - alge
 algebra - jebria  
 Algeria - jayeria  
 all - pan (pani)  
+alligator - kortokrokodile  
 allophone - alofone  
 allow (permit) - halala  
 almond - badame  
@@ -227,7 +228,7 @@ barbarian - barbare
 Barbuda - barbudia  
 barium - barium  
 barometer - airobarometer  
-barrel (can, cask) - tong  
+barrel (can, cask) - tonge  
 barrier - baryer  
 base (foundation) - baze  
 baseball - bazobol  
@@ -314,6 +315,7 @@ blue - nili
 board (plank) - banze  
 board game - banzogem  
 boat (ship) - bote  
+bobcat - kirmi linse  
 bodily (corporal) - badani  
 body - badan (badane)  
 bodybuilding - muskulobine  
@@ -331,7 +333,8 @@ border (edge, fringe, margin, rim, side, shore, periphery) - kenare
 bored - bori  
 boredom - boria  
 boron - boron  
-borrow - jeka  
+borrow (lend) - jeka  
+borrow - jekogeta  
 Bosnia and Herzegovina - bosnia  
 botany (phytology) - fitolojia  
 bother - mafana  
@@ -395,6 +398,7 @@ cake (cookie) - keke
 calcium (Ca) - kalsium  
 calculate - hisaba  
 calculus (manipulation of symbolic expressions) - kalkulia  
+calendar - kalende  
 californium - kalifornium  
 caliph - halife  
 caliphate - halifia  
@@ -578,6 +582,7 @@ compute (to process data) - komputa
 computer - komputer  
 concentrate - fokusa  
 conceptual - ideyi  
+concert - konserte  
 concrete (material with cement) - betone  
 condition (requirement) - xarte  
 cone - konuse  
@@ -620,6 +625,7 @@ cost (price) - koste
 cost - kosta  
 Costa Rica - kostarikia  
 cotton - gotone  
+cougar (puma, mountain lion) - pume  
 cough - kose  
 coulomb (unit) - kulombe  
 counterclockwise (anticlockwise) - antorelojodixo  
@@ -641,6 +647,8 @@ crisis - krize
 critic - pipinger  
 critical (pertaining to crisis) - krizi  
 Croatia - horvatia  
+crocodile - longokrokodile  
+crocodillian - krokodile  
 croissant - kruasante  
 cross (go across) - krusa  
 cross - kruse  
@@ -758,6 +766,7 @@ doer (agent, actor) - er (ere)
 dog - waf (wafe)  
 doll (puppet) - pupe  
 dollar - dolare  
+dolphin - dolfine  
 dome - kupe  
 domestic - domi  
 Dominica - dominikia  
@@ -770,7 +779,8 @@ double (multiply by two) - dulo multa
 double entendre - dulomeni  
 doubt (disbelief) - dute  
 downgrade - darjomala  
-download - talolada  
+download - netogeta  
+dragon - lunge  
 dragonfly - libele  
 drama - drame  
 draw - grafa  
@@ -1010,6 +1020,7 @@ Friday - var 5 (var lim)
 friend - doste  
 friendly - dosti  
 friendship - dostia  
+frog - krokroke  
 from (since, because) - ca  
 front - prede  
 frost - himorose  
@@ -1215,7 +1226,7 @@ hockey - hoke
 hole - konge  
 holiday - festoden  
 holmium - holmium  
-hologram - holograme  
+hologram - holografe  
 holy (sacred) - santi  
 Holy See (Vatican City State) - vatikania  
 home (residence) - dom (dome)  
@@ -1534,6 +1545,7 @@ Lutheranism - lutheristia
 Luxembourg - luksemburgia  
 lychee (litchi) - lice  
 lymph - linfe  
+lynx - linse  
 ##m
 Macao - makaw  
 machine - maxine  
@@ -1905,7 +1917,6 @@ order (issue a command) - komanda
 ordinary (routine, normal) - adi  
 organic life - biye  
 orgasm - orgazme  
-oriental dragon - lunge  
 origin (source) - asle  
 original (authentic) - asli  
 Oromia - oromia  
@@ -1918,6 +1929,7 @@ osmosis - osme
 other - ali  
 otherwise (else) - alo  
 otitis - oritis  
+otter - lontre  
 Ottoman - osmane  
 Ottoman Empire - osmania  
 ouch (ow, alas) - ay  
@@ -2203,6 +2215,7 @@ quote (cite) - cita
 Quran (Koran) - kuran  
 ##r
 rabbit (hare) - tuze  
+raccoon - waxurse  
 race (breed) - rase  
 racism - rasistia  
 racist - rasiste  
@@ -2436,6 +2449,7 @@ Shanghai - xanghai
 shape (sculpt) - forma  
 share - komuna  
 shari'a - islamisti xaria  
+shark - xarke  
 shatter (break into pieces) - parca  
 shea (vitellaria) - karite  
 sheep - mehe  
@@ -2458,6 +2472,7 @@ shoulder - kante
 show (display) - xowa  
 show (display, exhibition) - xowe  
 shower - duxe  
+shrimp (prawn) - krevete  
 Siberia - sibiria  
 sibling (brother or sister) - saudare  
 sickness (illness, disease) - patia  
@@ -2848,7 +2863,7 @@ unnecessary (extraneous) - nolonidi
 unplug (uncork) - tapula  
 until (til, up to) - ata  
 upgrade (level up) - darjobona  
-upload - gawolada  
+upload - netodona  
 upper - supri  
 uranium - uranium  
 Uranus - uran  

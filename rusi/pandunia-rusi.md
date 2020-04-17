@@ -25,7 +25,7 @@ ama - любить
 analiza - анализировать  
 analize - анализ  
 anime - оживление  
-anjile - mensagem  
+anjile - месседж  
 anker - якорь  
 antene - антенна  
 anuse - анус  
@@ -125,6 +125,7 @@ dew (dewe) - бог
 dike - цель  
 dine - религия (вера)  
 diske - диск  
+dolfine - дельфин  
 domi - домашний  
 donge - восток (ост)  
 duga - читать  
@@ -216,6 +217,7 @@ kafase - клетка
 kafe - кофе  
 kagaze - бумага  
 kalame - ручка  
+kalende - календарь  
 kali - пустой  
 kamare - комната (камера)  
 kamise - рубашка  
@@ -236,6 +238,7 @@ kave - яма
 ke - что  
 kimia - химия  
 kirmi - красный  
+kirmi linse - рыжая рысь  
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
@@ -246,16 +249,21 @@ ko - чем
 ko? - как  
 komputer - компьютер  
 koncunge - насекомое  
+konserte - концерт  
 kope - чаша (чашка, стакан)  
 kore - хор  
 kornonose - носорог  
 korone - корона  
+kortokrokodile - аллигатор  
 kosmi - космический  
 kosmia - космос  
 krabe - краб  
 krake - щель (трещина)  
 krane - кран  
 krepe - блин  
+krevete - креветка  
+krokodile - крокодил  
+krokroke - лягушка  
 kruasante - круассан  
 kruse - крест  
 kube - куб  
@@ -278,11 +286,13 @@ lider - руководитель (лидер)
 lil (lili) - маленький (малый)  
 lim - пять (5)  
 limone - лимон  
+linse - рысь  
 lisane - язык  
 liste - список  
 loga - говорить  
 loka - ставить  
 loke - место  
+lontre - выдра  
 lugi - зелёный  
 luter - грабитель  
 lutheristi - лютеранский  
@@ -387,6 +397,7 @@ probleme - проблема
 problemi - проблематичный  
 programe - программа  
 projete - проект  
+pume - пума (кугуар)  
 pura - заполнять  
 puri - полный  
 ##r
@@ -492,11 +503,13 @@ wana - хотеть
 waw - вау!  
 waxa - мыть  
 waxomaxin - стиральная машина  
+waxurse - енот  
 wayoniame - пикник  
 werka - работать  
 werke - работа  
 werker - работник  
 ##x
+xarke - акула  
 xatan (xatane) - Сатана  
 xawi - мало  
 xefe - шеф  

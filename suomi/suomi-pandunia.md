@@ -232,6 +232,7 @@ darmstadtium - darmositium
 darwinismi - darwinistia  
 darwinisti - darwiniste  
 data (numeerinen tieto) - date  
+delfiini - dolfine  
 demokraatti - demokratiste  
 demokraattinen - demokrati  
 demokratia - demokratia  
@@ -490,7 +491,7 @@ hockey (jääkiekko) - hoke
 hoitaa (lääkitä) - medika  
 hoitaa (pitää huolta) - kura  
 holmium - holmium  
-hologrammi - holograme  
+hologrammi - holografe  
 homo (homoseksuaali) - geyi  
 homonyymi - samonam  
 homoseksuaali - samoseksi  
@@ -747,6 +748,7 @@ kaksi (2) - dul
 kaksimielinen (kaksimerkityksinen) - dulomeni  
 kaksois- (duaalinen) - duli  
 kala - fixe  
+kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halife  
 kalifornium - kalifornium  
@@ -946,6 +948,7 @@ Komorit - komori nesia
 kone - maxine  
 kongolainen - kongoli  
 konkani (eräs intialainen kieli) - konkani  
+konsertti - konserte  
 konsonantti - konsone  
 kontaktikieli (pidgin) - pijine  
 kontiainen (maamyyrä) - krote  
@@ -1377,7 +1380,6 @@ merkitä (tarkoittaa) - mena
 merkki (jälki) - marke  
 merkki (signaali) - sinye  
 Merkurius - budan  
-mesaĝo - anjile  
 messiaaninen - kristi  
 mestari (asiantuntija) - mester  
 mestari (voittaja) - campion (campione)  
@@ -2503,7 +2505,7 @@ tykkimies - kanoner
 tykkääminen - filia  
 tykätä (pitää) - fila  
 tylsyys (pitkästys) - boria  
-tynnyri (tölkki) - tong  
+tynnyri (tölkki) - tonge  
 typerys (idiootti) - idiote  
 typpi - nitre  
 tyranni - tiran  
@@ -2685,6 +2687,7 @@ vieraanvarainen (antelias, hyväntahtoinen) - karimi
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  
+viesti - anjile  
 viestintuoja (airut) - anjiler  
 Vietnam - vietia  
 vietnamilainen - vieti  

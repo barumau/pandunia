@@ -258,6 +258,7 @@ defendi - defa
 defendo - defe  
 dek (10) - des  
 dekono - deco-  
+delfeno - dolfine  
 demanda - eski  
 demandi (ĉu) - eska  
 demando - eske  
@@ -645,6 +646,7 @@ kaj - e
 kajero - notobuke  
 kakao - kakawe  
 kalcio - kalsium  
+kalendaro - kalende  
 kalifo - halife  
 kaliforniumo - kalifornium  
 kalio - kalium  
@@ -734,6 +736,7 @@ komunismo - komunistia
 komunisto - komuniste  
 koncentri - fokusa  
 koncentriĝo - fokuse  
+koncerto - konserte  
 kondiĉo (postulo) - xarte  
 konduki - xofa  
 Konfuceo - konfuze  
@@ -926,6 +929,7 @@ memoro - meme
 merdo - xite  
 merkato (bazaro) - bazar  
 Merkuro - budan  
+mesaĝo - anjile  
 metalo - metale  
 metiero - pexe  
 metiisto - janger  

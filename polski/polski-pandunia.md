@@ -154,7 +154,7 @@ bawół domowy - kabawe
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - bazi  
 bańka - bule  
-beczka - tong  
+beczka - tonge  
 beduiński; nomadyczny - badawi  
 bejsbol (baseball) - bazobol  
 bel - bele  
@@ -728,7 +728,7 @@ hokej - hoke
 hokej na lodzie - aisohoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
-hologram - holograme  
+hologram - holografe  
 homonim - samonam  
 homoromantyczny - samoromansi  
 homoseksualny - samoseksi  
@@ -860,6 +860,7 @@ kaczka - bate
 kadm - kadomium  
 Kajmany - keiman nesia  
 kakao - kakawe  
+kalendarz - kalende  
 kalif - halife  
 kalifat - halifia  
 kaliforn - kalifornium  
@@ -970,6 +971,7 @@ komputer - komputer
 komunista - komuniste  
 komunizm - komunistia  
 komórka (biologia) - sele  
+koncert - konserte  
 konfucjanizm - konfuzistia  
 Konfucjusz - konfuze  
 kongijski - kongoli  
@@ -1554,7 +1556,6 @@ opowiedzieć, opowiadać - saga
 oprócz, minus - mina  
 opłata, taryfa - tarife  
 orgazm - orgazme  
-orientalny smok - lunge  
 orija - odisi  
 Oromia - oromia  
 oromo - oromi  
@@ -1845,7 +1846,7 @@ Południowa Afryka - sudafrikia
 południowy - sudi  
 połączenie, złącze, styk - samune  
 pośladki, pupa, tyłek, zadek - bume  
-pożyczać (pożyczyć) - jeka  
+pożyczać (pożyczyć) - jekogeta  
 pożyczać komuś (pożyczyć komuś) - jekodona  
 pożądanie, żadza - kamia  
 praca, zjęcie, zadanie - werke  
@@ -2213,6 +2214,7 @@ smak - guste
 smakować jak - gustu ko  
 smakować, próbować smaku - gusta  
 smieszany (skonfudowany) - konfusi  
+smok - lunge  
 smutny - duki  
 sobota - var 6 (var sis)  
 socjalista - sociste  
@@ -2571,7 +2573,6 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - vanuatia  
-viesti - anjile  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wil (wilo)  
@@ -2613,6 +2614,7 @@ wersja (wariacja, edycja, wydanie) - versione
 wesoły, ucieszony - suki  
 wewnętrzny - indi  
 wewnętrzny - indojeni  
+wiadomość - anjile  
 wiadomość, nius - habare  
 wiadomość, zawiadomienie, powiadomienie - notise  
 wiadomy, znany - jani  
@@ -2753,7 +2755,7 @@ Wyspy Salomona - solomon nesia
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - kabuverdia  
 Wyspy Świętego Tomasza i Książęca - santi tome e prinsipe  
 wystarczający - basi  
-wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - gawolada  
+wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodona  
 wysłać (wyemitować) - misa  
 wyć - ulula  
 wyświetlać - lancografa  
@@ -2952,7 +2954,7 @@ zły, zrujnowany, zepsuty - harabi
 łączyć, wiązać, złączyć - samuna  
 Święta Helena - santi helenia  
 ścieżka (droga, szlak, kurs) - rute  
-ściągać (ściągnąć, pobrać, pobierać) - talolada  
+ściągać (ściągnąć, pobrać, pobierać) - netogeta  
 śmiać się - haha  
 śmierć - morte  
 śmieć, odpadek - laje  

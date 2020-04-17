@@ -282,7 +282,7 @@ barra (vara, palo) - batone
 barra de chocolate - cokolatobaton  
 barrera - baryer  
 barriga (vientre, panza) - pete  
-barril (tonel) - tong  
+barril (tonel) - tonge  
 baréin - bahrain  
 barómetro - airobarometer  
 base - baze  
@@ -387,6 +387,7 @@ caer - padu
 café (cafetería) - kaferia  
 café - kafe  
 cagar - xita  
+caimán (aligátor, yacaré) - kortokrokodile  
 caja (baúl, cofre, estuche) - sanduke  
 caja (caja registradora) - kaxe  
 caja torácica - sinokafase  
@@ -396,12 +397,14 @@ calcetín - soke
 calcio - kalsium  
 calcular (computar) - komputa  
 calcular - hisaba  
+calendario - kalende  
 calidad (excelencia, mérito, virtud, ventaja) - gune  
 caliente (cálido) - garmi  
 califa - halife  
 califato - halifia  
 californio - kalifornium  
 cama - bede  
+camarón - krevete  
 cambiar - muta  
 cambio climático - klimomute  
 Camboya - kambudia  
@@ -436,7 +439,7 @@ cararés - karnadi
 caravana - karvane  
 carbón - karbone  
 carcelero - prizoner  
-cargar (subir) - gawolada  
+cargar (subir) - netodona  
 cargar - lada  
 cargo - ofise  
 Caribe - karaibia  
@@ -558,6 +561,7 @@ cocina - kukeria
 cocinar (preparar) - kuka  
 cocinero - kuker  
 coco - yeze  
+cocodrilo - longokrokodile  
 codicioso (avaro) - tami  
 codificar (cifrar) - koda  
 cohete (misil) - rokete  
@@ -610,6 +614,7 @@ concentración - fokusa
 concentrar (enfocarse) - fokuse  
 conceptual - ideyi  
 concienciado (iluminado) - budi  
+concierto - konserte  
 concreto (hormigón) - betone  
 condición (requisito, estipulación) - xarte  
 conducir - xofa  
@@ -689,6 +694,7 @@ cristiano - krististe
 Cristo (mesías) - kriste  
 criticar (evaluar) - pipinga  
 Croacia - horvatia  
+crocodilio - krokodile  
 cromo - kromium  
 cronómetro - sekundometer  
 cruasán - kruasante  
@@ -774,6 +780,7 @@ definir - sifa
 degradar - darjomala  
 dejar - laxa  
 dejar caer - pada  
+delfín - dolfine  
 delicioso - niami  
 demasiado - max ko bas  
 demasiado poco - min ko bas  
@@ -798,7 +805,7 @@ desarrollo - fajane
 desatascar - tapula  
 desayuno - suboniam  
 descanso (alivio) - xuxe  
-descargar - talolada  
+descargar - netogeta  
 descriptivo - sifi  
 deseo - wane  
 desierto - registan  
@@ -868,7 +875,7 @@ dormitorio - sonokamare
 dos (2) - dul  
 dos veces - dul ban  
 dotes (arte, habilidad) - xute  
-dragón chino - lunge  
+dragón - lunge  
 drama - drame  
 droga (narcótico) - droge  
 dualismo - dulistia  
@@ -1321,7 +1328,7 @@ hockey - hoke
 hockey sobre hielo - aisohoke  
 hoja - warke  
 holmio - holmium  
-holograma - holograme  
+holograma - holografe  
 hombre (señor) - maturi man  
 hombro - kante  
 homorromántico - samoromansi  
@@ -1593,6 +1600,8 @@ limpiador - safer
 limpiar - safa  
 limpio - safi  
 limón - limone  
+lince - linse  
+lince rojo (gato montés) - kirmi linse  
 lindo (precioso) - kawayi  
 linfa - linfe  
 lingüística - baxolojia  
@@ -1686,6 +1695,7 @@ manual - handi
 manzana - aple  
 maní - zemodow  
 mapa - karte  
+mapache - waxurse  
 mar - samude  
 maratí - marati  
 maratón - maratone  
@@ -1749,6 +1759,7 @@ meninge - mening
 meningitis - meningitis  
 menor (leve) - minori  
 menos - min (mino)  
+mensaje - anjile  
 mensajero - anjiler  
 mental (psíquico) - ruhi  
 mercado (bazar) - bazar  
@@ -1757,7 +1768,6 @@ mercurio - hurargente
 mesa - meze  
 meseta - mezistan  
 mesiánico - kristi  
-message - anjile  
 meta (gol) - gole  
 metal - metale  
 metal pesado - barometal  
@@ -1954,6 +1964,7 @@ Nueva Zelanda - novi zilandia
 nueve (9) - naw  
 nuevo - novi  
 nunca - nol ban  
+nutria - lontre  
 náhuatl (nahua) - nawati  
 Níger - nijeria  
 níquel - nikele  
@@ -2117,7 +2128,7 @@ pecho (seno, tórax) - sine
 pedal - pedale  
 pedazo - tike  
 pedir (invitar) - pliza  
-pedir prestado - jeka  
+pedir prestado - jekogeta  
 pedo - pede  
 peer - peda  
 pegamento (pega, goma) - glute  
@@ -2257,6 +2268,7 @@ presencia (existencia) - zayia
 presente - zaye  
 presidente - prezidente  
 presión atmosférica - airobare  
+prestar (pedir prestado) - jeka  
 prestar - jekodona  
 presuponer - predogara  
 presupuesto - bujete  
@@ -2313,6 +2325,7 @@ puerta - mun (mune)
 puerto marítimo - suyoporte  
 Puerto Rico - portorikia  
 pulmón - pulmone  
+puma - pume  
 punjabí - panjabi  
 punto (lunar) - binde  
 punto - punte  
@@ -2361,6 +2374,7 @@ raja (grieta) - krake
 rama - xake  
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
+rana - krokroke  
 rapidez (velocidad) - rapide  
 raro (extraño) - bizari  
 ratón - muxe  
@@ -2743,6 +2757,7 @@ tesla (T) - tesle
 tesoro - hazine  
 teísmo - dewistia  
 teísta - dewiste  
+tiburón - xarke  
 tiempo (periodo) - zamane  
 tierra (barro) - darte  
 tierra - zeme  

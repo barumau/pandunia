@@ -87,7 +87,7 @@ andoria - Andora
 angolia - Angola  
 anima - animować  
 anime - animacja  
-anjile - viesti  
+anjile - wiadomość  
 anjiler - posłaniec (wysłannik)  
 anker - kotwica  
 anta - sprzeciwiać się (opierać się)  
@@ -799,7 +799,6 @@ gawa - podnosić (podnieść)
 gawe - góra (szczyt)  
 gawi - wysoki  
 gawia - wysokość  
-gawolada - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 gawotali - pionowy  
 gawu - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
 gayania - Gujana  
@@ -962,7 +961,7 @@ hoke - hokej
 holere - cholera  
 holi - cały  
 holmium - holm  
-holograme - hologram  
+holografe - hologram  
 hon (honi) - sto (##)  
 hondurasia - Honduras  
 hongong - Hong Kong  
@@ -1075,8 +1074,8 @@ je - który (zaimek względny)
 jebe - kieszeń  
 jebria - algebra  
 jeinistia - dźinizm, dżinizm  
-jeka - pożyczać (pożyczyć)  
 jekodona - pożyczać komuś (pożyczyć komuś)  
+jekogeta - pożyczać (pożyczyć)  
 jekolekse - zapożyczenie (wyraz obcy)  
 jele - żel, galareta  
 jelosi - zazdrosny  
@@ -1148,6 +1147,7 @@ kake - ekskrement, gówno
 kalalia - Grenlandia  
 kalame - pióro, długopis  
 kale - pustka  
+kalende - kalendarz  
 kali - pusty  
 kali harfe - spacja  
 kalifornium - kaliforn  
@@ -1334,6 +1334,7 @@ konfuzistia - konfucjanizm
 konge - dziura  
 kongoli - kongijski  
 konkani - konkani  
+konserte - koncert  
 konsida - rozważać, brać pod uwagę  
 konsone - spółgłoska  
 kontinu - kontynuować; wznawiać, ponawiać  
@@ -1540,7 +1541,7 @@ lugi - zielony
 luksemburgia - Luksemburg  
 lule - perła  
 lune - księżyc  
-lunge - orientalny smok  
+lunge - smok  
 lusune - szparag; szparagia  
 luta - obrabować, splądrować  
 luter - rabuś (grabieżca)  
@@ -1865,6 +1866,8 @@ nepalia - Nepal
 nese - wyspa  
 nesia - archipelag  
 nete - sieć  
+netodona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
+netogeta - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
 netune - Neptun  
 netunium - neptun  
@@ -2592,7 +2595,6 @@ tala - obniżać (obniżyć)
 tale - dół, spód  
 tali - niski  
 talium - tal  
-talolada - ściągać (ściągnąć, pobrać, pobierać)  
 tamare - daktyl  
 tami - chciwy (żądny)  
 tamili - tamilski  
@@ -2684,7 +2686,7 @@ tolera - tolerować
 tolo - bąk, bączek  
 tomate - pomidor  
 tone - ton, dźwięk, nuta, tonacja  
-tong - beczka  
+tonge - beczka  
 tongia - Tonga  
 tope - kapelusz, czapka  
 torium - tor  

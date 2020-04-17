@@ -87,7 +87,7 @@ andoria - Andorra
 angolia - Angola  
 anima - animoida  
 anime - animaatio (piirretty)  
-anjile - mesaĝo  
+anjile - viesti  
 anjiler - viestintuoja (airut)  
 anker - ankkuri  
 anta - vastustaa  
@@ -497,6 +497,7 @@ doici - saksalainen
 doicia - Saksa  
 dokume - asiakirja (dokumentti, tiedosto)  
 dolare - dollari  
+dolfine - delfiini  
 dom (dome) - asunto (koti)  
 doma - asuttaa  
 domi - koti-  
@@ -930,7 +931,7 @@ hoke - hockey (jääkiekko)
 holere - kolera  
 holi - koko (kokonainen)  
 holmium - holmium  
-holograme - hologrammi  
+holografe - hologrammi  
 hon (honi) - sata (##)  
 hondurasia - Honduras  
 hongong - Hong Kong  
@@ -1103,6 +1104,7 @@ kakawe - kaakao
 kake - uloste (kakka)  
 kalalia - Grönlanti  
 kalame - kynä  
+kalende - kalenteri  
 kali - tyhjä  
 kalifornium - kalifornium  
 kalium - kalium  
@@ -1274,6 +1276,7 @@ konfuzistia - Kungfutselaisuus
 konge - reikä  
 kongoli - kongolainen  
 konkani - konkani (eräs intialainen kieli)  
+konserte - konsertti  
 konsida - pitää jonakin  
 konsone - konsonantti  
 kontinu - jatkua  
@@ -2547,7 +2550,7 @@ tolera - sallia
 tolo - hyrrä  
 tomate - tomaatti  
 tone - sävel (sävy)  
-tong - tynnyri (tölkki)  
+tonge - tynnyri (tölkki)  
 tongia - Tonga  
 tope - lakki (hattu)  
 torse - vartalo (varsi, torso)  

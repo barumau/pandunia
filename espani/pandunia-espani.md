@@ -85,7 +85,7 @@ andoria - Andorra
 angolia - Angola  
 anima - animar  
 anime - animación (dibujo animado)  
-anjile - message  
+anjile - mensaje  
 anjiler - mensajero  
 anker - ancla  
 anta - oponerse (resistir)  
@@ -511,6 +511,7 @@ doici - alemán
 doicia - Alemania  
 dokume - documento (archivo, nota)  
 dolare - dolar  
+dolfine - delfín  
 dom (dome) - casa (hogar, residencia)  
 doma - alojar (hospedar)  
 domi - doméstico  
@@ -798,7 +799,6 @@ gawa - levantar (elevar)
 gawe - alto (parte de arriba)  
 gawi - alto  
 gawia - altura (altitud)  
-gawolada - cargar (subir)  
 gawotali - vertical  
 gawu - subir (alzar)  
 gayania - Guyana  
@@ -961,7 +961,7 @@ hoke - hockey
 holere - cólera  
 holi - entero (todo)  
 holmium - holmio  
-holograme - holograma  
+holografe - holograma  
 hon (honi) - cien (##)  
 hondurasia - Honduras  
 hongong - Hong Kong  
@@ -1073,8 +1073,9 @@ je - que (pronombre de las cláusulas relativas)
 jebe - bolsillo  
 jebria - álgebra  
 jeinistia - jainismo  
-jeka - pedir prestado  
+jeka - prestar (pedir prestado)  
 jekodona - prestar  
+jekogeta - pedir prestado  
 jekolekse - préstamo lingüístico  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
@@ -1146,6 +1147,7 @@ kake - caca
 kalalia - Groenlandia  
 kalame - bolígrafo  
 kale - espacio (separación)  
+kalende - calendario  
 kali - vacío (desocupado)  
 kali harfe - espacio (texto)  
 kalifornium - californio  
@@ -1275,6 +1277,7 @@ kiribatia - Kiribati
 kirili abace - alfabeto cirílico  
 kirisa - alquilar  
 kirmi - rojo  
+kirmi linse - lince rojo (gato montés)  
 kitaba - escribir  
 kitabe - escritura  
 kitabia - biblioteca  
@@ -1330,6 +1333,7 @@ konfuzistia - confucianismo
 konge - agujero (hueco)  
 kongoli - congoleño  
 konkani - konkani  
+konserte - concierto  
 konsida - considerar (pensar en)  
 konsone - consonante  
 kontinu - continuar (reanudar)  
@@ -1346,6 +1350,7 @@ kornonose - rinoceronte
 korone - corona  
 korta - acortar (abreviar)  
 korti - corto (breve)  
+kortokrokodile - caimán (aligátor, yacaré)  
 kose - tos  
 kosmi - cósmico  
 kosmia - cosmos  
@@ -1365,6 +1370,7 @@ kratia - dominio (reinado)
 kreme - crema  
 kremi - cremoso  
 krepe - panqueque (crepa)  
+krevete - camarón  
 krime - crimen (delito)  
 krimi - criminal  
 kriste - Cristo (mesías)  
@@ -1376,6 +1382,8 @@ krita - gritar
 kriton - criptón (kriptón)  
 krize - crisis  
 krizi - crítico (fundamental)  
+krokodile - crocodilio  
+krokroke - rana  
 kromium - cromo  
 krote - topo  
 kruasante - cruasán  
@@ -1494,6 +1502,7 @@ limogon - pentágono
 limone - limón  
 limonorangi - amarillo  
 linfe - linfa  
+linse - lince  
 linye - raya (linea)  
 linyoparce - nueva línea  
 lisane - lengua  
@@ -1525,6 +1534,8 @@ lone - debatir (discutir)
 longa - alargar  
 longi - largo  
 longia - largo (longitud)  
+longokrokodile - cocodrilo  
+lontre - nutria  
 lose - tornillo  
 lote - lote (grupo)  
 lote - terreno (solar)  
@@ -1534,7 +1545,7 @@ lugi - verde
 luksemburgia - Luxemburgo  
 lule - perla  
 lune - luna  
-lunge - dragón chino  
+lunge - dragón  
 lusune - espárrago  
 luta - saquear (desvalijar, robar)  
 luter - ladrón  
@@ -1863,6 +1874,8 @@ nepalia - Nepal
 nese - isla  
 nesia - archipiélago  
 nete - red  
+netodona - cargar (subir)  
+netogeta - descargar  
 netoloke - sitio web  
 netune - Neptuno  
 netunium - neptunio  
@@ -2210,6 +2223,7 @@ puja - adorar (venerar)
 puje - adoración (veneración, culto)  
 pule - puente  
 pulmone - pulmón  
+pume - puma  
 punte - punto  
 pupe - marioneta (títere)  
 pura - llenar  
@@ -2594,7 +2608,6 @@ tala - bajar
 tale - fondo  
 tali - bajo  
 talium - talio  
-talolada - descargar  
 tamare - dátil  
 tami - codicioso (avaro)  
 tamili - tamil  
@@ -2686,7 +2699,7 @@ tolera - tolerar
 tolo - trompo  
 tomate - tomate  
 tone - tono  
-tong - barril (tonel)  
+tonge - barril (tonel)  
 tongia - Tonga  
 tope - sombrero  
 torium - torio  
@@ -2826,6 +2839,7 @@ wate - vatio
 waw - guau (vaya)  
 waxa - lavar  
 waxomaxin - lavadora  
+waxurse - mapache  
 waya - expulsar  
 waye - fuera (exterior)  
 wayi - exterior  
@@ -2865,6 +2879,7 @@ xamoden - tarde (después de mediodía)
 xamoniame - cena  
 xane - montaña (colina)  
 xanti - tranquilo (calmado)  
+xarke - tiburón  
 xarme - vergüenza (pena)  
 xarnir - bisagra (gozne)  
 xarta - espicificar (estipular)  

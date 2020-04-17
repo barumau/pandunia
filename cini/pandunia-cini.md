@@ -31,7 +31,7 @@ ami - 亲爱的
 analiza - 分析  
 analize - 分析  
 anime - 活跃  
-anjile - رِسالة‎  
+anjile - 信息  
 anker - 锚  
 antene - 天线  
 anuse - 肛门  
@@ -133,6 +133,7 @@ dike - 目的 (目标)
 dine - 宗教  
 dinge - 钉子  
 diske - 圆盘  
+dolfine - 海豚  
 dom (dome) - 房子  
 donge - 东  
 duga - 读 (看)  
@@ -204,6 +205,8 @@ ive - 趋势
 jana - 知道 (晓得)  
 janger - 工匠 (匠人)  
 jeka - 借  
+jekodona - 借出  
+jekogeta - 借入  
 jeni baxe - 母语  
 jenotipe - 基因型  
 jinse - 性别  
@@ -219,6 +222,7 @@ kafe - 咖啡
 kagaze - 纸  
 kaixa - 开始  
 kalame - 笔  
+kalende - 日历  
 kali harfe - 空隙  
 kamare - 房间  
 kamise - 衬衫  
@@ -241,6 +245,7 @@ kenare - 边
 kerne - 核心  
 kimia - 化学  
 kirmi - 红  
+kirmi linse - 短尾貓  
 kitaba - 写  
 kitabia - 图书馆  
 kitabomaxin - 打字机  
@@ -250,11 +255,16 @@ ko? - 怎么
 komputer - 计算机  
 koncunge - 昆虫  
 konfusi - 困惑 (混乱)  
+konserte - 音乐会  
 kope - 杯子  
+kortokrokodile - 短吻鳄  
 kosmi - 宇宙的  
 kosmia - 宇宙  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
+krevete - 虾 (xiā)  
+krokodile - 鳄  
+krokroke - 蛙  
 kruasante - 牛角包  
 kuani - 宽  
 kube - 立方体  
@@ -280,6 +290,7 @@ lider - 领导
 lil (lili) - 小  
 lim - 五 (5)  
 limone - 柠檬  
+linse - 猞猁 (山貓)  
 lisane - 舌头  
 liste - 单子  
 loga - 说话 (讲)  
@@ -288,6 +299,7 @@ loke - 地方
 lole - 他们  
 lone - 论  
 longi - 长  
+lontre - 獭  
 lugi - 绿色  
 lunge - 龙  
 luta - 掠夺  
@@ -396,6 +408,7 @@ probleme - 问题 (难题)
 programe - 计划  
 puding - 布丁  
 pule - 桥  
+pume - 美洲獅 (山狮)  
 putong - 普通  
 ##r
 rapidi - 快  
@@ -493,6 +506,7 @@ vulve - 外阴 (陰门)
 wale - 墙  
 walopapir - 壁纸 (墙纸)  
 wana - 想要 (愿意)  
+waxurse - 浣熊  
 wayoniame - 野餐  
 werka - 工作  
 werke - 工作  
@@ -500,6 +514,7 @@ werker - 工人 (工作者)
 ##x
 xame - 晚上  
 xanghai - 上海  
+xarke - 鲨鱼 (shayu)  
 xatan (xatane) - 撒但  
 xawi - 少  
 xey (xeye) - 事物 (东西)  
