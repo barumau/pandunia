@@ -6,17 +6,23 @@
 
 ### 対話
 
-☻: **te si ke?**
+<big>👩</big>
+**te si ke?**
 = あなたは誰ですか?  
-☺: **me si yusef. te si ke?**
+<big>🧔</big>
+**me si yusef. te si ke?**
 = 私はユセフです。あなたは(誰ですか)?  
-☻: **me si maria. le si ke?**
+<big>👩</big>
+**me si maria. le si ke?**
 = 私はマリアです。あの人は(誰ですか)?  
-☺: **le si mi doste.**
+<big>🧔</big>
+**le si mi doste.**
 = あの人は私の友人です。  
-☻: **li nam si ke?**
+<big>👩</big>
+**li nam si ke?**
 = 彼女の名前は?  
-☺: **li nam si sarah.**
+<big>🧔</big>
+**li nam si sarah.**
 = 彼女の名前はサラです。
 
 ### 文法
@@ -143,7 +149,7 @@ dom **no** hewan.
 = こんにちは、お母さん。  
 **salam pape!**
 = こんにちは、お父さん。  
-**salam darsogur!**
+**salam darsogure!**
 = こんにちは、先生。
 
 パンドゥニアにはもう一つ **halow** というあいさつがあります。
@@ -170,7 +176,7 @@ dom **no** hewan.
 **salama** あいさつする  
 **mame** 母、お母さん、ママ  
 **pape** 父、お父さん、パパ  
-**darsogur** 教師、先生
+**darsogure** 教師、先生
 
 
 ### 練習の答え
@@ -188,22 +194,29 @@ dom **no** hewan.
 
 ### 対話
 <!-- 状況が全く判らないため、日本で親しくない相手の家に初訪問する場合を想定 -->
-☻: **salam!**
+<big>🧒</big>
+**salam!**
 = こんにちは。  
-☺: **salam! pliza sida.**
+<big>🧓</big>
+**salam! pliza sida.**
 = こんにちは、おかけになってください。  
-☻: **danke.**
+<big>🧒</big>
+**danke.**
 = ありがとうございます。  
-☺: **pliza niama kafe o cay.**
+<big>🧓</big>
+**pliza niama kafe o cay.**
 = コーヒーとお茶、どちらになさいますか。 (訳注: **cay** はお茶全般を指します。紅茶も緑茶も烏龍茶もマテ茶も全部 **cay** です。特定の1つを指すにはコーヒー共々修飾語で補う必要がありますが、このページでは扱いません)  
 ☻: **me niama cay. danke.**
 = お茶をください(ありがとう)。  
 ...  
-☺: **pliza salama ti mame!**
+<big>🧓</big>
+**pliza salama ti mame!**
 = お母様によろしく言っておいてください。  
-☻: **me salama le. salam!**
+<big>🧒</big>
+**me salama le. salam reste!**
 = (かしこまりました、)伝えておきます。では。  
-☺: **salam!**
+<big>🧓</big>
+**salam cute!**
 = さようなら。
 
 
@@ -258,7 +271,7 @@ dom **no** hewan.
 = お茶をください。  
 **pliza niama cay.**
 = お茶をどうぞ。  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = 部屋の掃除をお願いします。
 
 命令は **komanda**(命令する) で表します。
@@ -266,7 +279,7 @@ dom **no** hewan.
 
 **komanda dona cay.**
 = お茶をくれ。  
-**komanda safa kamar.**
+**komanda safa kamare.**
 = 部屋を掃除して。
 
 実際には直接的な命令も
@@ -290,12 +303,12 @@ dom **no** hewan.
 ### 単語リスト
 
 **cay** お茶 (訳注:前述通り、厳密にはお茶全般を指します)  
-**plisa** お願いする、頼む  
+**pliza** お願いする、頼む  
 **dona** 与える、渡す  
 **danke** ありがとう  
 **e** と(_and_)  
 **kafe** コーヒー  
-**kamar** 部屋  
+**kamare** 部屋  
 **komanda** 命令する、注文する  
 **o** または(_or_)  
 **safa** 掃除する、きれいにする  
@@ -373,7 +386,7 @@ dom **no** hewan.
 
 **eska dorsogur niama kafe?**
 = 先生はコーヒーを飲みますか?  
-**eska pape safa kamar?**
+**eska pape safa kamare?**
 = 父は部屋を掃除しますか??  
 **eska niki baxa pandunia?**
 = ニキ(あるいはニッキー。人の名前)はパンドゥニアを話せますか?
@@ -470,11 +483,11 @@ me **no** salama te.
 否定の範囲は
 **no** の位置によって変わります
 
-me pliza te safa kamar.
+me pliza te safa kamare.
 = 私はあなたに部屋の掃除を頼みます。  
-me **no** pliza te safa kamar.
+me **no** pliza te safa kamare.
 = 私はあなたに部屋の掃除を頼み<u>ません</u>。  
-me pliza te **no** safa kamar.
+me pliza te **no** safa kamare.
 = 私はあなたに部屋の掃除を<u>しないこと</u>を頼みます。
 
 否定される側の単語の品詞には動詞、代名詞、名詞、形容詞、さらには数字など、
@@ -613,30 +626,30 @@ me suku maw **sabu** lole kaway
 **wil**
 = 未来
 
-sarah si mi **pas** doste.
+sarah si mi **pasi** doste.
 =  サラは私の友人**でした**。  
-yusef si mi **zay** doste.
+yusef si mi **zayi** doste.
 =  ユセフは私の**現在の**友人です。  
-maria si mi **wil** doste.
+maria si mi **wili** doste.
 = マリアは私の友人**になるでしょう**。  
 
 時間内の行動や出来事を語るときにも時制詞を使います。
 動詞の前に単語を置くだけです。
 
-me **pas** darba le.
+me **paso** darba le.
 = 私はそれを叩き**ました**。 (過去)  
-me **zay** darba le.
+me **zayo** darba le.
 = 私はそれを叩い**ています**。 (現在進行)  
-me **wil** darba le.
+me **wilo** darba le.
 = 私はそれを叩く**でしょう**。 (未来)
 
 時制詞を文末に置くこともできます。この場合、時制詞は副詞として文全体を修飾します。
 
-me darba le **pas**.
+me darba le **paso**.
 = 私は**前に**それを叩き<u>ました</u>。  
-me darba le **zay**.
+me darba le **zayo**.
 = 私は**今**それを叩い<u>ています</u>。  
-me darba le **wil**.
+me darba le **wilo**.
 = 私は**いずれ**それを叩く<u>でしょう</u>。
 
 **sa pase**(過去に) などの長いフレーズを使うことも可能です。 (訳注: **sa** \[前置詞\] ～に)
@@ -651,11 +664,11 @@ me darba le **sa wile**.
 
 時制表現は通常一度言えばすむはずです。時制が変わるか、時制を強調する必要がある場合を除いてそれで問題ありません。
 
-me **pas** tena un maw.
+me **paso** tena un maw.
 = 私は**かつて**(1匹の)猫を飼って<u>いました</u>。  
 le bon maw.
 = その猫は良い猫でした。 (過去の猫のことを語っているので過去形)  
-me tena un waf **zay**.
+me tena un waf **zayo**.
 = **今は**(私は1匹の)犬を飼って<u>います</u>。 (話が現在のことに変わっている)
 <!--
 時制表現は、それとわかればどの単語でも構いません。
@@ -681,19 +694,19 @@ le safa kamar sa **badi den**.
 
 ### 単語リスト
 
-**pas** 過去、前  
-**zay** 現在、今  
-**wil** 未来  
+**paso** 過去、前  
+**zayo** 現在、今  
+**wilo** 未来  
 **darba** 打つ、叩きのめす  
 **pang** パン  
 **suboniam** 朝食
 
 ### 練習の答え
 
-1. mi darsogur festa sa wile.
+1. mi darsogure festa sa wile.
 2. me tena dul waf sa pase.
 3. te niama supe zay.
-4. le safa kamar sa predi den.
+4. le safa kamare sa predi den.
 5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 

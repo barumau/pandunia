@@ -9,6 +9,8 @@ cd ../esperanti
 mkdocs build
 cd ../fransi
 mkdocs build
+cd ../niponi
+mkdocs build
 cd ../pandunia
 mkdocs build
 cd ../polski

@@ -79,19 +79,16 @@ ma**w** tena na**w** ha**y**. = 猫には9つの命がある。
 
 次の例を考えてみましょう。
 
-- **maw** /máw/, **ding** /díng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
+- **maw** /máw/, **hotel** /hotél/
 - **novi** /nóvi/, **musike** /musíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
      dunia si momi sundari planete.  
     /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
+     me wana loga komuni baxe, le si pandunia.  
+    /mé wána lóga komúni báxe, lé sí pandúnia./
 
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
 
 
 ## 小文字と大文字

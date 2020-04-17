@@ -82,7 +82,7 @@
 **danke!**
 ありがとう!
 
-**pol danke!**
+**multo danke!**
 どうもありがとう!
 
 **si, danke.**
@@ -388,7 +388,7 @@
 **le ke?**
 彼/彼女/その人は誰ですか?
 
-**le si me du doste.**
+**le si mi doste.**
 彼/彼女/その人は私の友達です。
 
 **me si sarah du doste.**
@@ -400,19 +400,19 @@
 
 ### nam <small>名前</small>
 
-**ti nam ke?**
+**ti name ke?**
 あなたの名前は(何ですか)?
 
-**mi nam tomas.**
+**mi name tomas.**
 私の名前はトーマスです。
 
-**li nam ke?**
+**li name ke?**
 彼/彼女/その人の名前は(何ですか)?
 
-**li nam sarah.**
+**li name sarah.**
 彼女の名前はサラです。
 
-<small>【語源】**nam**(नाम nām) はヒンディー語です。
+<small>【語源】**name**(नाम nām) はヒンディー語です。
 ペルシャ語: نام‏‎ nām、タイ語: นาม naam、インドネシア語: nama、日本語: 名前 namae、
 ドイツ語: Name、英語: name.</small>
 
@@ -524,7 +524,7 @@
 **me pliza te niama cay.**
 私はあなたにお茶を頼みます(=お茶をお願いします)。
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 私はあなたに(私の)家に来るよう頼みます(=私の家に来てください)。
 
 **me pliza te helpa me.**
@@ -597,10 +597,10 @@
 **pardon. me no aha te.**
 すみません、私には(あなたの言ったことが)解りません。
 
-**me no basi aha te.**
+**me no baso aha te.**
 私はあなたのことを十分に理解できていません。
 
-**me aha kamili.**
+**me aha kamilo.**
 私はあなたのことが全く理解できません。
 
 
@@ -609,7 +609,7 @@
 **me abla xofa gare.**
 私は車を運転できます。 (訳注:**gare** は車輪のある乗り物全般を指します)
 
-**le no abla gida gare.**
+**le no abla xofa gare.**
 彼/彼女/その人は車を運転できない。 (訳注:**gida** は自動車と船舶に限定した運転です。対して **xofa** は対象を限定しません)
 
 **eska te abla xula le?**
@@ -621,7 +621,7 @@
 **me abla pandunia.**
 (私は)パンドゥニアを話せます。
 
-**me abla lil pandunia.**
+**me abla lilo pandunia.**
 (私は)パンドゥニアを少し話せます。
 
 **me no abla engli.**
@@ -645,8 +645,8 @@
 **ze loga “cat” sa ki yange sa pandunia?**
 「猫」はパンドゥニアでどの分類で話しますか? (訳注:例文が文法的におかしい。正常に訳せない)
 
-**“猫” loga ke sa pandunia?**
-「猫」はパンドゥニアで何と言いますか? (訳注:答えは “猫” loga maw.)
+**“猫” logu ko sa pandunia?**
+「猫」はパンドゥニアで何と言いますか? (訳注:答えは “猫” logu maw.)
 
 **maw loga miaw.**
 猫は「ニャ～」と鳴いた。
@@ -681,7 +681,7 @@
 **vida te badoden!**
 私は明日あなたに会う(=また明日!)。 (訳注:**badoden**=badi den=明日)
 
-**me pas vida le predoden.**
+**me vida le predoden.**
 私は昨日彼/彼女/その人に会いました。
 
 
@@ -842,27 +842,27 @@ I work at ...
 
 ## 5. 時間表現
 
-### zay <small>現在(進行形)</small>
+### zayo <small>現在(進行形)</small>
 
-**me zay salama ti doste.**  
+**me zayo salama ti doste.**  
 私はあなたの友達にあいさつしています。
 
-**man zay vida fem.**  
+**man zayo vida fem.**  
 男は女を見ています。
 
-**le zay xefe.**  
+**le zayo xefe.**  
 彼/彼女/その人は今チーフです。
 
-**le zay sa dom.**  
+**le zayo sa dom.**  
 彼/彼女/その人は今家にいます。
 
 
-### pas <small>過去</small>
+### paso <small>過去</small>
 
-**me pas salama te du doste.**  
+**me paso salama te du doste.**  
 私はあなたの友達にあいさつしました。
 
-**man pas vida fem.**  
+**man paso vida fem.**  
 男は女を見ていました。
 
 **le paso xefe.**  
@@ -887,7 +887,7 @@ I work at ...
 彼/彼女/その人は既に家にいます。
 
 
-### wil <small>未来</small>
+### wilo <small>未来</small>
 
 **me wilo salama ti doste.**  
 私はあなたの友達にあいさつするでしょう。
@@ -935,7 +935,7 @@ I work at ...
 **te lewo kapa pese ca me.**
 あなたはすでに私からお金を得ました。
 
-**me kapa un bir.**
+**me kapa un bire.**
 私は一杯のビールを得ました。
 
 
@@ -989,10 +989,10 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**le kosta lil / pol.**
+**le kosta lil / multo.**
 It is cheap / expensive.  
 
-**mome plisu laya.**
+**mome plizu laya.**
 We are being called.
 
 **me serca tualete.**
