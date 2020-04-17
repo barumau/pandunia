@@ -379,7 +379,7 @@ darmsztadt - darmositium
 darwinista - darwiniste  
 darwinizm - darwinistia  
 data - nenomesoden  
-dać mieszkanie (zakwaterować) - doma  
+dać mieszkanie (zakwaterować) - domisa  
 dać, dawać - dona  
 debatować, prowadzić dyskurs - lona  
 decy-, dziesiąta część - deco-  
@@ -417,7 +417,7 @@ dokument - papire
 dokładnie (precyzyjnie, tylko) - justo  
 dolar - dolare  
 dolina - vale  
-dom, mieszkanie - dom (dome)  
+dom, mieszkanie - dome  
 Dominika (Wspólnota Dominiki) - dominikia  
 domino - dominogem  
 domowy - domi  
@@ -1250,7 +1250,7 @@ miejscowy, lokalny - loki
 miejski - nagri  
 mielić - molia  
 miesiąc - mes (mese)  
-mieszkać - domu  
+mieszkać - doma  
 mieć (partykuła posiadania) - da  
 mieć (posiadać) - malka  
 mieć (trzymać) - tena  

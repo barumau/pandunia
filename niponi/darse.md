@@ -619,11 +619,11 @@ me suku maw **sabu** lole kaway
 パンドゥニアの動詞には活用がありません。どの時制でも単語は同じです。
 時制を表すには時制を表す形容詞(時制詞)を動詞や名詞の前に置きます。
 <!-- この辺りに古い仕様の残骸が残っていたため全て削除しました -->
-**pas**
+**pase**
 = 過去  
-**zay**
+**zaye**
 = 現在(進行)  
-**wil**
+**wile**
 = 未来
 
 sarah si mi **pasi** doste.
@@ -699,7 +699,7 @@ le safa kamar sa **badi den**.
 **wilo** 未来  
 **darba** 打つ、叩きのめす  
 **pang** パン  
-**suboniam** 朝食
+**suboniame** 朝食
 
 ### 練習の答え
 

@@ -356,7 +356,7 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 ### tena <small>mieć</small>
 
-**me tena bon dom.**
+**me tena bon dome.**
 Mam dobry dom.
 
 **le no tena pese.**
@@ -465,7 +465,7 @@ Te czerwone.
 **me pliza te niama cay.**
 Proszę, żebyś napił się herbaty.
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 Proszę, żebyś przyszedł do domu.
 
 **me pliza te helpa me.**
@@ -517,7 +517,7 @@ Zjedzmy!
 **haida gowa niama!**
 Chodźmy jeść!
 
-**haida gowa dom.**
+**haida gowa dome.**
 Chodź do domu.
 
 
@@ -714,7 +714,7 @@ suahili, hausa, joruba, amharski
 **te gowa ke?**
 Dokąd idziesz?
 
-**me gowa dom.**
+**me gowa dome.**
 Idę do domu.
 
 **me bixu gowa ke?**
@@ -743,7 +743,7 @@ Skąd pochodzisz?
 **me laya ya dubay.**
 Pochodzę z Dubaju.
 
-**me laya dom badi den.**
+**me laya dome badi den.**
 Przyjdę do domu jutro.
 
 
@@ -772,7 +772,7 @@ Hotel jest przy tej drodze.
 **te sa ke?**
 Gdzie jesteś?
 
-**me sa dom.**
+**me sa dome.**
 Jestem w domu.
 
 **le sa ke?**
@@ -789,20 +789,19 @@ Pracuję w ...
 
 
 
-### domu <small>mieszkać</small>
+### doma <small>mieszkać</small>
 
-**te domu ke?**
+**te doma ke?**
 Gdzie mieszkasz?
 
-**me domu singapur.**
+**me doma singapur.**
 Mieszkam w Singapurze.
 
-**eska te domu ci hotel?**
+**eska te doma ci hotel?**
 Czy miszkasz w tym hotelu?
 
-Porada: Poprawnie jest też powiedzieć "te domu sa ke?" zamiast "te domu ke". Jakkolwiek **doma**
-już obejmuje znaczenie bycia w czymś, więc **sa**
-nie jest potrzebne.
+Porada: Poprawnie jest też powiedzieć "te doma sa ke?" zamiast "te doma ke".
+Jakkolwiek **doma** już obejmuje znaczenie bycia w czymś, więc **sa** nie jest potrzebne.
 
 
 

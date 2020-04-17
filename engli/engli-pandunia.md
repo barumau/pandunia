@@ -11,7 +11,7 @@ Abyssinia - habaxia
 Abyssinian - habaxi  
 accent (stress) - aksente  
 accept (say okay) - okeya  
-accommodate - doma  
+accommodate - domisa  
 achoo - aciy  
 acknowledge - resida  
 act (play a role) - rola  
@@ -1231,7 +1231,7 @@ holmium - holmium
 hologram - holografe  
 holy (sacred) - santi  
 Holy See (Vatican City State) - vatikania  
-home (residence) - dom (dome)  
+home (residence) - dome  
 homonym - samonam  
 homoromantic - samoromansi  
 homosexual - samoseksi  
@@ -1516,7 +1516,7 @@ Lithuanian - lietuvi
 little (few, not many) - xawi  
 little (small; a little, somewhat) - lil (lili)  
 live (be alive, living) - hayi  
-live (dwell, reside) - domu  
+live in (reside in, inhabit) - doma  
 livermorium - livermorium  
 load (to charge) - lada  
 loanword - jekolekse  

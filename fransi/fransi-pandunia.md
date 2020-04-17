@@ -357,6 +357,7 @@ magma - pastopetre
 magnésium - mangese  
 main - hande  
 mais (bien que) - a  
+maison - dome  
 manichéisme - manihayistia  
 marbre - marmare  
 marché (bazar) - bazar  
@@ -615,7 +616,7 @@ ville - site
 virus - virus (viruse)  
 visage - muke  
 vite (rapide) - rapidi  
-vivre (habiter) - domu  
+vivre (habiter) - doma  
 vocabulaire (lexique) - leksia  
 voile - hijabe  
 voir - vida  

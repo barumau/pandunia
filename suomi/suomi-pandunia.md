@@ -138,9 +138,9 @@ astatiini - astatin
 asti (saakka) - ata  
 astia (kulho) - tase  
 astma - asme  
-asua - domu  
-asunto (koti) - dom (dome)  
-asuttaa - doma  
+asua - doma  
+asunto (koti) - dome  
+asuttaa - domisa  
 ateisti (jumalankieltäjä) - nolodewiste  
 ateljee (studio) - estudia  
 Atlantin valtameri - atlanti samude  

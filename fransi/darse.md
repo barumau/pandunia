@@ -622,46 +622,46 @@ En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**me niama pang sa subi niam.**
+**me niama pang sa subi niame.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
 
-**gang**
+**gango**
 = (tout) juste, récemment
-**zay**
+**zayo**
 = actuellement, en ce moment
-**hay**
+**yexo**
 = toujours, en cours
-**sun**
+**suno**
 = bientôt
-**wil**
+**wilo**
 = dans le futur
 
 Les adjectifs pour le passé, le présent et le futur sont **pas, zay**
 et **wil**. Ils peuvent être utilisés pour modifier des noms.
 
-**sarah si mi pas xefe.**
+**sarah si mi pasi xefe.**
 = Sara est mon ex-patron.  
-**yusef si mi zay xefe.**
+**yusef si mi zayi xefe.**
 = Yusef est mon chef actuel.  
-**maria si mi wil xefe.**
+**maria si mi wili xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
 
-**me pas darba le.**
+**me paso darba le.**
 = Je l'ai frappé (dans le passé).  
-**me zay darba le.**
+**me zayo darba le.**
 = Je le frappe (actuellement)  
-**me wil darba le.**
+**me wilo darba le.**
 = Je le frapperai (dans le futur).
 
 On peut également placer l'expression du temps en fin de phrase.
 
-**me darba le pas.**  
-**me darba le zay.**  
-**me darba le wil.**
+**me darba le paso.**  
+**me darba le zayo.**  
+**me darba le wilo.**
 
 C'est également possible d'utiliser des expressions plus longues comme **sa pase** (dans le passé), etc.
 
@@ -672,11 +672,11 @@ C'est également possible d'utiliser des expressions plus longues comme **sa pas
 Il n'est pas nécessaire de répéter les expressions de temps à chaque
 phrase. Ce serait maladroit. Une seule indication temporelle suffit pour situer le moment du récit. Une autre expression de temps ne sera utile que si on parle à un autre temps au cours du récit, ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
-**me pas tena un maw.**
+**me paso tena un maw.**
 = J'ai eu un chat dans le passé.
 **le bon maw.**
 = C'était un bon chat.
-**me tena un waf zay.**
+**me tena un waf zayo.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le

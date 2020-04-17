@@ -641,8 +641,8 @@ There are also specific time words.
 = just, recently  
 **zayo**
 = currently, at the moment  
-**hayo**
-= still  
+**yexo**
+= still, yet  
 **suno**
 = soon  
 **wilo**

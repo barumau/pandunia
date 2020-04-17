@@ -767,7 +767,7 @@ Where do you come from?
 **me laya ca dubay.**
 I come from Dubai.
 
-**me laya dom badoden.**
+**me laya dome badoden.**
 I will come home tomorrow.
 
 
@@ -809,20 +809,19 @@ Tip! You can use **sa** as a preposition or alone as the verb.
 I work at ...
 
 
-### domu <small>to live, reside</small>
+### doma <small>to live, reside</small>
 
-**te domu ke?**
+**te doma ke?**
 Where do you live?
 
-**me domu singapur.**
+**me doma singapur.**
 I live in Singapore.
 
-**eska te domu yi hotel?**
+**eska te doma yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te domu sa ke?** instead of **te domu ke**.  However
-**doma** already covers the meaning of being at somewhere, so **sa** is not
-necessary.
+Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.
+However **doma** already covers the meaning of being at somewhere, so **sa** is not necessary.
 
 
 ### denga <small>to wait</small>
@@ -853,7 +852,7 @@ The man is looking at the woman.
 **le zayo xefe.**  
 He or she is currently the chief.
 
-**le zayo sa dom.**  
+**le zayo sa dome.**  
 He or she is currently at home.
 
 
@@ -898,7 +897,7 @@ The man will see the woman.
 **le wilo xefe.**  
 He or she will be the chief.
 
-**le wilo sa dom.**  
+**le wilo sa dome.**  
 He or she will be at home.
 
 

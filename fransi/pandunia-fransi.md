@@ -183,8 +183,9 @@ dine - religion
 diske - disque  
 dokume - document (dossier)  
 dolfine - dauphin  
+doma - vivre (habiter)  
+dome - maison  
 domi - domestique  
-domu - vivre (habiter)  
 donge - east (orient)  
 duga - lire  
 dul - deux (2)  

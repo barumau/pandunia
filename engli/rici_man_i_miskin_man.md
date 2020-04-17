@@ -10,7 +10,7 @@ sa teli pase, zayu un miskini man.
 </td><td>
 Long time ago there was a poor man.
 </td></tr><tr><td>
-le domu sa lili kamare supra bekeria.
+le doma sa lili kamare supra bekeria.
 </td><td>
 He lived in a little room above a bakery.
 </td></tr><tr><td>

@@ -399,7 +399,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **pliza niama kafe.** Servez-vous un café, faites donc !
 
-**pliza laya dom.** Viens à la maison, s’il te plait !
+**pliza laya dome.** Viens à la maison, s’il te plait !
 
 **pliza helpa me.** Aide moi, s’il te plait.
 
@@ -555,7 +555,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **te gowa ke?** Où vas-tu ?
 
-**me gowa dom.** Je vais à la maison.
+**me gowa dome.** Je vais à la maison.
 
 **me bixu gowa ke?** Où est-ce que je dois aller ?
 
@@ -574,7 +574,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **me laya ca dubay.** Je viens de Dubaï.
 
-**me laya dom badoden.** J'irai chez moi / à la maison demain.
+**me laya dome badoden.** J'irai chez moi / à la maison demain.
 
 
 ### safara <small>voyager</small>
@@ -605,15 +605,16 @@ Astuce ! Vous pouvez utiliser **sa** comme préposition ou tout seul comme un ve
 **me werka sa...** Je travaille à ...
 
 
-### domu <small>vivre, habiter, résider</small>
+### doma <small>vivre, habiter, résider</small>
 
-**te domu ke?** Où est-ce que tu habites ?
+**te doma ke?** Où est-ce que tu habites ?
 
-**me domu singapur.** Je vis à Singapore.
+**me doma singapur.** Je vis à Singapore.
 
-**eska te domu yi hotel?** Est-ce que tu résides dans cet hôtel ?
+**eska te doma yi hotel?** Est-ce que tu résides dans cet hôtel ?
 
-**Astuce :** On peut dire également **te domu sa ke?** au lieu de **te domu ke**. Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **sa** n'est pas nécessaire.
+**Astuce :** On peut dire également **te doma sa ke?** au lieu de **te doma ke**.
+Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **sa** n'est pas nécessaire.
 
 
 ### denga <small>attendre</small>
@@ -642,7 +643,7 @@ L'homme est en train de regarder la femme.
 **le zayo xefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
-**le zayo sa dom.**  
+**le zayo sa dome.**  
 En ce moment, il / elle est à la maison.
 
 
@@ -687,7 +688,7 @@ L'homme regardera la femme.
 **le wilo xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**le wilo sa dom.**  
+**le wilo sa dome.**  
 Il / Elle sera à la maison.
 
 

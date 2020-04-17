@@ -493,8 +493,8 @@ but sometimes a transitive verb can be used too.
 Examples:  
 **pang beku te.**
 – Bread is baked by you.  
-**pakse domu arbe.**
-– Birds live (in) trees.  
+**pakse domisu arbe.**
+– Birds are housed by trees.  
 **te suku me.**
 – You are pleased by me. (Or: You like me.)
 
@@ -656,11 +656,11 @@ So **te** is the _pivot_ of the entire sentence.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject
  
-1. **me gowa dom.**
+1. **me gowa dome.**
    – I go home.  
-2. **me abla gowa dom.**
+2. **me abla gowa dome.**
    – I can go home.  
-3. **me wana abla gowa dom.**
+3. **me wana abla gowa dome.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -678,9 +678,9 @@ This is done especially in commands and requests.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 – I ask you to come home.  
-**pliza laya dom!**
+**pliza laya dome!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -783,7 +783,7 @@ It indicates that the previous word has possession of the next one.
 
 **maria du mame**
 – Maria's mother  
-**maria du mame du dom**
+**maria du mame du dome**
 – Maria's mother's house
 
 **da** works like "of" in English.
@@ -791,14 +791,14 @@ It indicates that the next word has possession of the previous one.
 
 **mame da maria**
 – the mother of Maria  
-**dom da mame da maria**
+**dome da mame da maria**
 – the house of the mother of Maria
 
 It's possible to use **da** and **du** with personal pronouns too,
 so one can say things like
-**dom da me** (_the house of mine_)
+**dome da me** (_the house of mine_)
 but it's better to use the short possessive pronouns and say simply
-**mi dom** (_my house_).
+**mi dome** (_my house_).
 
 #### 9.2.2. Modification with noun phrases
 
@@ -970,14 +970,14 @@ Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
 **me denga ca te gowa.** - I have waited since you left.  
-**me denga pa te laya dom.** - I wait until you come home.  
+**me denga pa te laya dome.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
 #### 10.1.2. sa
 
 **sa** is an all-purpose preposition. Its basic meaning is "with".
  
-**me libu sa dom.**  
+**me libu sa dome.**  
 _I stand with house._  
 I stand by the house.
  
@@ -1012,7 +1012,7 @@ Here are some verbs that are usable as prepositions:
 Prepositions are not used as frequently in Pandunia as in English. In
 many phrases, the verb says enough alone.
 
-**me laya dom.** - I come home.  
+**me laya dome.** - I come home.  
 **te sida kurse.** - You sit (on) the chair.  
 **le lala sofa'.** - S/he lies (on) the sofa.  
 **fix nata daria.** - Fish swim (in) the sea.  
@@ -1070,10 +1070,10 @@ An ending is simply changed to another ending.
   For example **nile** means blue color.
 - The ending -i converts the idea into a description.
   The resulting modifier describes another idea with the modifying idea.
-  For example **nili dom** means a blue house.
+  For example **nili dome** means a blue house.
 - The ending -a converts the idea into an action.
   The resulting verb is about applying the idea to an object.
-  For example **nila dom** means _to apply blue on the house_ i.e. _to make the house blue_.
+  For example **nila dome** means _to apply blue on the house_ i.e. _to make the house blue_.
 - The ending -u creates an action just like -a.
   The only difference is that the word order is reversed.
 

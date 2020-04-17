@@ -521,14 +521,14 @@ doicia|dex|DE||Germany||Alemania||||||||||||||Saksa|Niemcy
 dokume|||eng:fra:document, rus:документ (dokument)|document (record, file)|document (dossier)|documento (archivo, nota)||||||||||||||asiakirja (dokumentti, tiedosto)|dokument
 dolare||||dollar||dolar|||||||||||||dolaro|dollari|dolar
 dolfine|||ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|dolphin|dauphin|delfín|golfinho (delfim)|дельфин||海豚|イルカ (ドルフィン)|||||||yunus (delfin)|delfeno|delfiini|
-dom (dome)|||rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|home (residence)||casa (hogar, residencia)||||房子|||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
-doma||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
+doma||||live in (reside in, inhabit)|vivre (habiter)|vivir (residir)|||||住む (居住する)||||||||loĝi|asua|mieszkać
+dome|||rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|home (residence)|maison|casa (hogar, residencia)||||房子|||||||||hejmo (loĝejo)|asunto (koti)|dom, mieszkanie
 domi||||domestic|domestique|doméstico|doméstico|домашний|||||||||||hejma|koti-|domowy
 dominikania|dex|DO||Dominican Republic||Republica Dominicana||||||||||||||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)
 dominikia|dex|DM||Dominica||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)
 dominogem||||dominoes||dominó||||||||||||||dominopeli|domino
-domu||||live (dwell, reside)|vivre (habiter)|vivir (residir)|||||||||||||loĝi|asua|mieszkać
-dona|||eng:dan:give, deu:geben, zho:给 (gěi)|give||dar|||||||||||||doni|antaa|dać, dawać
+domisa||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
+dona|||fra:donner, eng:donate, spa:por:donar|give||dar|||||||||||||doni|antaa|dać, dawać
 done||||gift||regalo (obsequio)|||||||||||||donaco|lahja|podarunek, dar, prezent
 donge|||zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|east (orient)|east (orient)|éste|este (leste)|восток (ост)||东|東|동|đông|पूर्व|পূর্ব|timur|mashariki|doğu|oriento|itä|wschód
 dongi||||eastern||oriental|||||||||||||||wschodni
@@ -2497,7 +2497,7 @@ sesame|||tur:susam, eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim
 sexel nesia|dex|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
 si|||spa:sí, por:sim, + zho:是 (shí), wuu:是 (sí)|yes|oui|sí|sim|да||对 (是)||||हाँ||ya||evet|jes|kyllä|tak
 sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
-sida|||rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|sit||sentar|||||||||||||sidi|istua|siedzieć
+sida|||rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|sit||sentar||сидеть|||||||||||sidi|istua|siedzieć
 sifa||||qualify (describe)||definir||||||||||||||määritellä (luonnehtia)|opisać (zakwalifikować)
 sife|||ara:(ṣifa), tur:sıfat, fas:(sefat), urd:(sifat), swa:sifa|attribute (charasteristic, quality, feature, description)||cualidad (atributo, descripción)||||||||||||||laatu (ominaisuus, ominaispiirre, määrite)|cecha, właściwość, parametr
 sifi||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy

@@ -460,7 +460,7 @@ Istnieją też konkretne słowa opisujące czas.
 > **ja** - już, przed określonym czasem  
 > **gang** - przed chwilą, niedawno  
 > **zay** - teraz, w tym momencie  
-> **hai** - nadal  
+> **yexo** - nadal  
 > **sun** - niedługo  
 > **futur** - w przyszłości
 

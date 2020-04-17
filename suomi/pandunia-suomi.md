@@ -497,13 +497,13 @@ doicia - Saksa
 dokume - asiakirja (dokumentti, tiedosto)  
 dolare - dollari  
 dolfine - delfiini  
-dom (dome) - asunto (koti)  
-doma - asuttaa  
+doma - asua  
+dome - asunto (koti)  
 domi - koti-  
 dominikania - Dominikaaninen Tasavalta  
 dominikia - Dominika  
 dominogem - dominopeli  
-domu - asua  
+domisa - asuttaa  
 dona - antaa  
 done - lahja  
 donge - itä  

@@ -538,7 +538,7 @@
 **pliza niama kafe.**
 コーヒーを頼む!
 
-**pliza laya dom.**
+**pliza laya dome.**
 お願いだから(家に)帰ってきて!
 
 **pliza helpa me.**
@@ -767,7 +767,7 @@ Where should I go?
 **me laya ca dubay.**
 私はドバイから来ました。
 
-**me laya dom badoden.**
+**me laya dome badoden.**
 私は明日家に帰ります。
 
 
@@ -794,7 +794,7 @@ Where should I go?
 **te sa ke?**
 (あなたは)どこにいますか?
 
-**me sa dom.**
+**me sa dome.**
 私は自宅にいます。
 
 **le sa ke?**
@@ -809,18 +809,18 @@ He/she sits in the room.
 I work at ...
 
 
-### domu <small>住む、居住する</small>
+### doma <small>住む、居住する</small>
 
-**te domu (sa) ke?**
+**te doma (sa) ke?**
 (あなたは)どこに住んでいますか?
 
-**me domu singapur.**
+**me doma singapur.**
 私はシンガポールに住んでいます。
 
-**eska te domu yi hotel?**
+**eska te doma yi hotel?**
 (あなたは)このホテルに宿泊していますか?
 
-ヒント: **te domu ke** の代わりに **te domu sa ke?** と言ってもOKです。
+ヒント: **te doma ke** の代わりに **te doma sa ke?** と言ってもOKです。
 但し **doma** は「どこかにいる」ことを
 含んでいるため **sa** は不要です。
 
@@ -853,7 +853,7 @@ I work at ...
 **le zayo xefe.**  
 彼/彼女/その人は今チーフです。
 
-**le zayo sa dom.**  
+**le zayo sa dome.**  
 彼/彼女/その人は今家にいます。
 
 
@@ -898,7 +898,7 @@ I work at ...
 **le wilo xefe.**  
 彼/彼女/その人はチーフになるでしょう。
 
-**le wilo sa dom.**  
+**le wilo sa dome.**  
 彼/彼女/その人は家にいるでしょう。
 
 

@@ -515,13 +515,13 @@ doicia - Alemania
 dokume - documento (archivo, nota)  
 dolare - dolar  
 dolfine - delfín  
-dom (dome) - casa (hogar, residencia)  
-doma - alojar (hospedar)  
+doma - vivir (residir)  
+dome - casa (hogar, residencia)  
 domi - doméstico  
 dominikania - Republica Dominicana  
 dominikia - Dominica  
 dominogem - dominó  
-domu - vivir (residir)  
+domisa - alojar (hospedar)  
 dona - dar  
 done - regalo (obsequio)  
 donge - éste  

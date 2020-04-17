@@ -10,7 +10,7 @@ sa teli pase, zayu un miskini man.
 </td><td>
 Il y a longtemps, il y avait un homme pauvre.
 </td></tr><tr><td>
-le domu sa lili kamare supra bekeria.
+le doma sa lili kamare supra bekeria.
 </td><td>
 Il vivait dans une petite pièce au-dessus d'une boulangerie.
 </td></tr><tr><td>

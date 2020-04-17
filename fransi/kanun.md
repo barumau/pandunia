@@ -476,8 +476,6 @@ mais parfois on peut utiliser également un verbe transitif.
 Examples:  
 **pang beku te.** 
 – Du pain est cuit par toi.  
-**pakse domu arbe.** 
-– Des oiseaux habitent / vivent (dans) les arbres.  
 **te suku me.** 
 – Tu es ravi.e de moi. (C'est-à-dire : Tu m'aimes.)
 
@@ -633,11 +631,11 @@ Donc **te** est le _pivot_ de la phrase entière.
 
 Il peut y avoir deux ou trois verbes dans une suite, voire davantage, et ils portent tous sur le même sujet.
 
-1. **me gowa dom.**
+1. **me gowa dome.**
    – Je vais à la maison.  
-2. **me abla gowa dom.**
+2. **me abla gowa dome.**
    – Je peux aller à la maison.  
-3. **me wana abla gowa dom.**
+3. **me wana abla gowa dome.**
    – Je veux pouvoir aller à la maison.
 
 ### 7.8. Omission des pronoms
@@ -654,9 +652,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 #### 7.8.2. Short pivot structure (VVO)
 
-**me pliza te laya dom.** 
+**me pliza te laya dome.** 
 – Je te prie de venir à la maison.  
-**pliza laya dom!** 
+**pliza laya dome!** 
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
@@ -759,20 +757,20 @@ Elle indique que le mot qui la précède est en possession du mot qui la suit.
 
 **maria du mame** 
 – La mère de Maria (Maria's mother)
-**maria du mame du dom** 
+**maria du mame du dome** 
 – La maison de la mère de Maria (Maria's mother's house)
 
 La particule **da** fonctionne comme "de" en français.
 Elle indique que le mot qui la suit est en possession du mot qui la précède.
 
 **mame da maria** – la mère de Maria  
-**dom da mame da maria** – la maison de la mère de Maria
+**dome da mame da maria** – la maison de la mère de Maria
 
 Il est également possible d'utiliser **da** et **du** avec des pronoms personnels. On peut donc dire par exemple :
 
-**dom da me** (_la maison à moi_)
+**dome da me** (_la maison à moi_)
 mais il est préférable d'utiliser des adjectifs possessifs et de dire simplement
-**mi dom** (_ma maison_).
+**mi dome** (_ma maison_).
 
 
 ### 9.2.2. Modification par des groupes nominal
@@ -944,14 +942,14 @@ Une préposition introduit un complément prépositionnel. Dans un complément p
 Les prépositions peuvent être aussi complétées par un groupe verbale. Dans ce cas, elles se réfèrent au temps.
 
 **me denga ca te gowa.** - J'ai attendu depuis que tu es parti.  
-**me denga pa te laya dom.** - J'attends que tu viennes à la maison.
+**me denga pa te laya dome.** - J'attends que tu viennes à la maison.
 **me denga sa te sona.** - J'attends pendant que tu dors.  
 
 #### 10.1.2. sa
 
 **sa** est une préposition aux nombreux sens. Sa signification de base est  "avec".
  
-**me libu sa dom.**  
+**me libu sa dome.**  
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
@@ -986,7 +984,7 @@ Here are some verbs that are usable as prepositions:
 Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
-**me laya dom.** - Je viens (à) la maison.  
+**me laya dome.** - Je viens (à) la maison.  
 **te sida kurse.** - Tu es assis (sur) une chaise.  
 **le lala sofah.** - Il/Elle est allongée (sur) le canapé.  
 **fix nata daria.** - Des poissons nagent (dans) la mer.  
@@ -1031,10 +1029,10 @@ Il suffit de remplacer une terminaison par une autre.
   Ainsi **nile** signifie _couleur bleue_.
 - The ending**-i** convertit l'idée en description.
   Le modificateur qui en résulte altère l'idée du mot complété par l'idée modificatrice.
-  Ainsi **nili dom** signifie _une maison bleue_.
+  Ainsi **nili dome** signifie _une maison bleue_.
 - La terminaison **-a** convertit l'idée en action.
   Le verbe qui en résulte permet d'appliquer cette idée à un objet.
-  Ainsi **nila dom** signifie _appliquer du bleu sur la maison_ i.e. _rendre la maison bleue_.
+  Ainsi **nila dome** signifie _appliquer du bleu sur la maison_ i.e. _rendre la maison bleue_.
 - La terminaison **-u** crée une action tout comme **-a**.
   La seule différence tient dans l'ordre des mots qui est inversé.
 

@@ -531,9 +531,9 @@ W powyższym przykładzie, **me wol** ma **te** jako swoje dopełnienie; jednocz
 
 Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot. Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
-1. **me gowa dom.** - Idę do domu.
-2. **me abla gowa dom.** - Mogę iśc do domu.
-3. **me wana abla gowa dom.** - Chcę móc iść do domu.
+1. **me gowa dome.** - Idę do domu.
+2. **me abla gowa dome.** - Mogę iśc do domu.
+3. **me wana abla gowa dome.** - Chcę móc iść do domu.
 
 
 ### 7.8. Opuszczanie zaimka
@@ -547,8 +547,8 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
-> **me pliza te lay dom.** - Proszę cię, żebyś wrócił do domu.
-> **pliza lay dom!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
+> **me pliza te lay dome.** - Proszę cię, żebyś wrócił do domu.
+> **pliza lay dome!** - Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
 
@@ -614,14 +614,14 @@ Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczow
 Przed **du** pojawia się posiadacz, a po nim posiadany obiekt.
 
 > **maria ya mama** - Marii matka
-> **me ya dom** - mój dom
-> **me ya pape ya dom** - mojego ojca dom
+> **me ya dome** - mój dom
+> **me ya pape ya dome** - mojego ojca dom
 
 Przed **du** pojawia się posiadany obiekt, a po nim posiadacz.
 
 > **mama da maria** - matka Marii
-> **dom da me** - dom mój
-> **dom da pape da me** - dom ojca mojego
+> **dome da me** - dom mój
+> **dome da pape da me** - dom ojca mojego
 
 #### 9.2.2. Nadawanie cech przymiotnikami
 
@@ -715,14 +715,14 @@ Przysłówek rozpoczyna wyrażenie przyimkowe. W prostym wyrażeniu przyimkowym 
 Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 
 > **me denga ze te enda.** - Czekam, od kiedy wyszłaś.
-> **me denga to te lay dom.** - Zaczekam, aż wrócisz do domu.
+> **me denga to te lay dome.** - Zaczekam, aż wrócisz do domu.
 > **me denga na te sona.** - Czekam, kiedy śpisz.
 
 #### 10.1.2. na
 
 **na** jest przyimkiem wszelkiego zastosowania. Jego podstawowym znaczeniem jest "przy".
 
-**me stasa na dom.**
+**me stasa na dome.**
 _Stoję przy domu._
 
 **me loga na pandunia.**
@@ -756,7 +756,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 
 Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
-> **me laya dom.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
+> **me laya dome.** - Przychodzę do domu. (Dosłownie: Przychodzę dom.)
 > **te sida kurse.** - Siedzisz na krześle. (Dosłownie: Siedzisz krzesło.)
 > **le lala sofah.** - Leży na sofie. (Dosłownie: Leży sofę.)
 > **fixe nata daria.** - Ryba pływa w morzu (Dosłownie: Ryba pływa morze.)

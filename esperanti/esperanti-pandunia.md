@@ -536,7 +536,7 @@ Hebrea - ibri
 heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmlingvo - jeni baxe  
-hejmo (loĝejo) - dom (dome)  
+hejmo (loĝejo) - dome  
 helikoptero - helisoviman  
 helio - helium  
 helpo - helpe  
@@ -845,8 +845,8 @@ lokigi - loka
 loko - loke  
 longa - longi  
 longigi - longa  
-loĝi - domu  
-loĝigi - doma  
+loĝi - doma  
+loĝigi - domisa  
 ludanto - gemer  
 ludi - gema  
 ludi rolon - rola  

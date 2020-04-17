@@ -523,13 +523,13 @@ doicia - Germany
 dokume - document (record, file)  
 dolare - dollar  
 dolfine - dolphin  
-dom (dome) - home (residence)  
-doma - accommodate  
+doma - live in (reside in, inhabit)  
+dome - home (residence)  
 domi - domestic  
 dominikania - Dominican Republic  
 dominikia - Dominica  
 dominogem - dominoes  
-domu - live (dwell, reside)  
+domisa - accommodate  
 dona - give  
 done - gift  
 donge - east (orient)  

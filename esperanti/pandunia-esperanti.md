@@ -352,10 +352,10 @@ diske - disko
 disprosium - disprozio  
 dolare - dolaro  
 dolfine - delfeno  
-dom (dome) - hejmo (loĝejo)  
-doma - loĝigi  
+doma - loĝi  
+dome - hejmo (loĝejo)  
 domi - hejma  
-domu - loĝi  
+domisa - loĝigi  
 dona - doni  
 done - donaco  
 donge - oriento  

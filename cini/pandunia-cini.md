@@ -135,7 +135,7 @@ dine - 宗教
 dinge - 钉子  
 diske - 圆盘  
 dolfine - 海豚  
-dom (dome) - 房子  
+dome - 房子  
 donge - 东  
 duga - 读 (看)  
 dul - 二 (2)  

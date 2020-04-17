@@ -96,7 +96,7 @@ alicate - pinser
 almendra - badame  
 almohada - kuxene  
 almuerzo - denoniam  
-alojar (hospedar) - doma  
+alojar (hospedar) - domisa  
 alquilar - kirisa  
 alquiler - kire  
 altar - altare  
@@ -451,7 +451,7 @@ carpa (toldo) - haime
 carpintero - mokojanger  
 cartografía - kartografia  
 carvis (alcaravea) - karawe  
-casa (hogar, residencia) - dom (dome)  
+casa (hogar, residencia) - dome  
 casado - mari  
 casamiento - maria  
 casar - mara  
@@ -2950,7 +2950,7 @@ visado - vize
 visitar - vizita  
 visitar - vizite  
 vista (visión) - vide  
-vivir (residir) - domu  
+vivir (residir) - doma  
 vivo (lleno de vida) - hayi  
 vocabulario (léxico) - leksia  
 vocal - vokale  

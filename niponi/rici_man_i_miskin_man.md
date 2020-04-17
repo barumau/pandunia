@@ -10,7 +10,7 @@ sa teli pase, zayu un miskini man.
 </td><td>
 昔々、ある所に哀れな男がいました。
 </td></tr><tr><td>
-le domu sa lili kamare supra bekeria.
+le doma sa lili kamare supra bekeria.
 </td><td>
 彼は小さな部屋でパン屋を営んで暮らしています。
 </td></tr><tr><td>

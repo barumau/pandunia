@@ -512,13 +512,13 @@ doici - niemiecki
 doicia - Niemcy  
 dokume - dokument  
 dolare - dolar  
-dom (dome) - dom, mieszkanie  
-doma - dać mieszkanie (zakwaterować)  
+doma - mieszkać  
+dome - dom, mieszkanie  
 domi - domowy  
 dominikania - Republika Dominikańska (Dominikana)  
 dominikia - Dominika (Wspólnota Dominiki)  
 dominogem - domino  
-domu - mieszkać  
+domisa - dać mieszkanie (zakwaterować)  
 dona - dać, dawać  
 done - podarunek, dar, prezent  
 donge - wschód  
