@@ -1,6 +1,6 @@
 # World Words
 
-# Where Pandunia words come from?
+<big>Where Pandunia words come from?</big>
 
 ## Principles
 
@@ -100,22 +100,22 @@ Words for objects of nature (for example plants and animal species) shall be ado
 
 So the first question is, does the word _belong_ to a certain region or culture?
 
-- Yes. → Select the word from languages that are important in that region or culture.
-- No. → Use the following word selection method.
+Yes. → Select the word from languages that are important in that region or culture.  
+No. → Use the following word selection method.
 
 1. Collect translations for a given word in the 12 languages or language teams that are listed below
    by using electronic or printed dictionaries, Wiktionary, Google Translate, or some other tool.
 2. Identify groups of similar words.
-   - Similar words can be historically related
-   - or they can sound alike by coincidence.
+    - Similar words can be historically related
+    - or they can sound alike by coincidence.
 3. Select the most international group of similar words.
-   - The more international, the better.
-   - The best words are cross-cultural.
-   - If there's no cross-cultural word, select the one that is known by the greatest number of 1st language speakers.
+    - The more international, the better.
+    - The best words are cross-cultural.
+    - If there's no cross-cultural word, select the one that is known by the greatest number of 1st language speakers.
 4. Select a word form that represents the group well and fits into Pandunia well.
-   - Strip off unnecessary prefixes and suffixes.
-   - Use [the sounds, the spelling and the normal word structure](abc.md) of Pandunia.
-   - Make sure that the new word is not identical or too similar to any already existing Pandunia word.
+    - Strip off unnecessary prefixes and suffixes.
+    - Use [the sounds, the spelling and the normal word structure](abc.md) of Pandunia.
+    - Make sure that the new word is not identical or too similar to any already existing Pandunia word.
 
 The list of source languages for general words:
 
@@ -140,14 +140,20 @@ Only in the last resort a word from only one language can be accepted.
 
 ### Selecting the word for "language"
 
-First possible candidates are searched from widely spoken languages. The search reveals that there are several words that are international.
+First possible candidates are searched from widely spoken languages.
+The search reveals that there are several words that are international.
 
-- Arabic لغة /luɣa/ is also known in Swahili _lugha_. It is also known in Persian and Turkic languages but with the meaning "dictionary".
+- Arabic لغة /luɣa/ is also known in Swahili _lugha_.
+  It is also known in Persian and Turkic languages but with the meaning "dictionary".
 - Persian زبان /zæba:n/ has spread to Urdu and Punjabi among others.
-- Latinate _lingua_ is found in the Romance languages and it has spread to most European languages in words like _linguistics_ and _multilingual_.
-- Indo-Aryan भाषा /bʱaʂa/ is used in Hindi and Bangla and it has spread to several neighbouring languages including Telugu, Thai and Indonesian.
+- Latinate _lingua_ is found in the Romance languages and it has spread to most European languages
+  in words like _linguistics_ and _multilingual_.
+- Indo-Aryan भाषा /bʱaʂa/ is used in Hindi and Bangla and it has spread to several neighbouring languages
+  including Telugu, Thai and Indonesian.
 
-The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhere in India, Indochina and Malay archipelago, which are some of the most densely populated areas in the world.
+The most prevalent of these words is /bʱaʂa/.
+It is recognised nearly everywhere in India, Indochina and Malay archipelago,
+which are some of the most densely populated areas in the world.
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -162,12 +168,16 @@ The most prevalent of these words is /bʱaʂa/. It is recognised nearly everywhe
 | Javanese   | basa         | basa            |
 | Sundanese  | basa         | basa            |
 
-As you can see, the same word is written and pronounced differently in different languages. This is typical of international words. They get adapted. Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia. So the Pandunia word for language becomes **bax**.
+As you can see, the same word is written and pronounced differently in different languages.
+This is typical of international words.
+They get adapted in almost every language to their own spelling system.
+Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
+So the Pandunia word for language becomes **baxe**.
 
 
 ### Examples of global words
 
-#### bir (beer)
+#### bire (beer)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -221,7 +231,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of semiglobal words
 
-#### bandir (flag)
+#### bandere (flag)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -235,7 +245,7 @@ As you can see, the same word is written and pronounced differently in different
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamis (shirt)
+#### kamise (shirt)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -253,7 +263,7 @@ As you can see, the same word is written and pronounced differently in different
 
 ### Examples of South Asian words
 
-#### pal (fruit)
+#### pale (fruit)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -308,7 +318,8 @@ As you can see, the same word is written and pronounced differently in different
 
 #### kitabe (writing)
 
-This word means _book_ in many languages. The original Arabic word means all kinds of writing.
+This word means _book_ in many languages.
+The original Arabic word means all kinds of writing.
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
@@ -324,7 +335,7 @@ This word means _book_ in many languages. The original Arabic word means all kin
 
 ### Examples of scattered words
 
-#### kamar (room, chamber)
+#### kamare (room, chamber)
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
