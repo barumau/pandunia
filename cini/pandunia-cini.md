@@ -8,7 +8,6 @@ aciya - 打喷嚏
 adali - 公正地  
 adalia - 正义  
 adrese - 地址  
-adulte - 成年人  
 aga - 如果 (要是)  
 agrese - 攻击  
 airoporte - 飞机场  
@@ -87,6 +86,7 @@ basi - 够
 baskobol - 篮球  
 batre - 电池  
 baxe - 语言  
+baxi jinse - 文法的性  
 baxolojia - 白色  
 bazar - 市场  
 baze - 底部  
@@ -96,6 +96,7 @@ bere - 浆果 (莓)
 bile - 帐单  
 bina - 建设  
 bire - 啤酒  
+biyi jinse - 生物性別  
 bol (bole) - كورة  
 bombe - 炸弹  
 bon (boni) - 好  
@@ -317,6 +318,7 @@ masale - 香料
 maste - 桅  
 maturi fem - 女人  
 maturi man - 男人  
+maturoren - 成年人  
 maw (mawe) - 猫  
 maxim (maximo) - 最  
 maye - 蚂蚁  
@@ -449,6 +451,7 @@ sihe - 健康
 sihi - 健康  
 sikliste - 骑自行车的人  
 sis - 六 (6)  
+soci jinse - 社會性別  
 socia - 社会  
 sole - 太阳  
 solosistem - 太阳系  
@@ -532,6 +535,7 @@ xope - 购物 (血拼)
 xukare - 糖  
 xute - 技术  
 ##y
+yexo - 还 (依然)  
 yoge - 瑜伽功  
 yongopetre - 熔岩  
 yongu - 融化  

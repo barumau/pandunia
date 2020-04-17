@@ -12,7 +12,6 @@
 |**adalia**|sprawiedliwość|ara:(ʿadl), tur:adalet, may:adalat, ben:আদালত (adalôt), fas:urd:('adālat)|
 |**ade**|nawyk (przyzwyczajenie)|ara:(ʿāda), fas:urd:('âdat), hin:आदत (ādat), pnb:ਆਦਤ (ādat), tur:adet|
 |**adrese**|adres|eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|
-|**adulte**|osoba dorosła|eng:adult, fra:adulte, por:spa:adulto|
 |**afrike**|Afryka|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika|
 |**aga**|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa|fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (gaa1), wuu:假 (ga)|
 |**agrese**|atak (agresja, napaść)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
@@ -277,9 +276,9 @@
 |**fonte**|fontanna (studnia, źródło)|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
 |**fora**|wiercić, borować|fra:forer, por:furar, eng:perforate, spa:perforar|
 |**forti**|silny|fra:fort, spa:fuerte, por:forte, eng:force|
+|**fote**|światło, oświetlenie|ell:φωτω- (photo-)|
 |**fuga**|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać|zho:复 (fù), yue:(fuk), vie:phục|
 |**fuke**|ubranie, ubiór, strój|zho:衣服 (yīfu), yue:(yifuk), jpn:衣服 (ifuku), kor:의복 (uibog)|
-|**fulani**|trochę; nieokreślony, nieograniczony, nieokreślony|swa:fulani, ara:(fulan), tur:falan|
 |**fule**|kwiat|hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|
 |**fune**|pył|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
 |**funge**|grzyb|eng:fungus, fra:fongus, por:fungo, spa:hongo|
@@ -357,7 +356,6 @@
 |**hasi**|specjalny, wyraźny, wyrazisty|ara:(xāṣṣ), fas:urd:(xās), may:ख़ास (xās), may:khas|
 |**hatare**|zagrożenie, niebezpieczeństwo|ara:(xaṭar), fas:(xatar), urd:(xatra), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|
 |**hawe**|wiatr|hin:हवा (havā), urd:(havā), pnb:ਹਵਾ (hawā), + ara:(hawāʾ), fas:(havā), tur:hava, may:hawa, som:hawo, swa:hewa, ben:হাওয়া (haowa)|
-|**hay (hayo)**|wciąż, nadal|zho:还 (hai)|
 |**haye**|życie|ara:حياة‎ (ḥaya), swa:uhai, hin:हयात (hayāt), may:hayat|
 |**he**|hę?, co?, pardon?|fra:por:hein, jpn:e|
 |**helise**|helisa|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
@@ -572,7 +570,6 @@
 |**lone**|dyskusja, debata, dyskurs|zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|
 |**longi**|długi|eng:fra:long, deu:lang, Por:longo|
 |**lose**|śruba, wkręt|zho:螺丝 (luòsī), yue:螺絲 (lo4 si1)|
-|**lote**|działka (teren)|por:lote, eng:fra:lot, spa:loteo|
 |**lote**|wsad, partia, porcja, seria|por:spa:lote, eng:fra:lot|
 |**lowa**|przeciekać, ciec|zho:漏 (lòu)|
 |**lugi**|zielony|zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|
@@ -690,7 +687,6 @@
 |**nostalgia**|nostalgia (tęsknota)|eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)|
 |**note**|uwaga, obserwacja|deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|
 |**novi**|nowy|rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|
-|**nure**|światło, oświetlenie|ara:fas:(nūr), swa:nuru|
 |**o**|lub, albo|spa:o, tgl:o, eng:or, zho:或 (huò), ara:(ʾaw)|
 |**onde**|fala|spa:por:ita:onda, fra:onde, may:ombak|
 |**onore**|respekt, honor, szacunek, poważanie|eng:pol:spa:honor, fra:honneur, por:honra, ita:onore, tur:onur|
@@ -896,7 +892,6 @@
 |**takse**|podatek, opłata|eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|
 |**tamare**|daktyl|por:tamara, ara:(tamar)|
 |**tami**|chciwy (żądny)|ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|
-|**tane**|sam, osobiście|hin:mar:तन (tan), fas:urd:(tan), taj:тан (tan), tha:ตน (ton), vie:thân, yue:親 (can3)|
 |**tanke**|zbiornik (cysterna, pojemnik, rezerwuar)|eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|
 |**tanure**|piec (piekarnik)|fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|
 |**tape**|korek, zatyczka, szpunt|spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|
@@ -1021,6 +1016,7 @@
 |**yake**|jak (zwierzę)|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |**yange**|rodzaj, typ, styl|zho: 样 (yàng), tha: อย่าง (yàang), khm: យ៉ាង (yaang)|
 |**yatime**|sierota|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
+|**yexo**|wciąż, nadal|rus:ещё (yeščo), pol:jeszcze|
 |**yeze**|kokos|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yi**|ten, te|hin:यह (ye), ben:এই (ei), tel:ఈ (ī), tam:இது (itu), kor:이 (i),|
 |**yoge**|joga|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|

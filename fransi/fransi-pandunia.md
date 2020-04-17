@@ -7,7 +7,7 @@ acheter - xopa
 actinium - acinium  
 action - acion (acione)  
 adresse - adrese  
-adulte - adulte  
+adulte - maturoren  
 afghan - avgani  
 Afghanistan - avgania  
 africain - afriki  
@@ -231,6 +231,7 @@ Einsteinium - ainstainium
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
+encore - yexo  
 enfant - bace  
 envelopper (emballer) - lifafa  
 erroné - galti  
@@ -269,6 +270,7 @@ gaz lacrymogène - kanosuyogas
 gazelle - gazele  
 geler (glacer) - aisu  
 genou - gute  
+genre grammatical - baxi jinse  
 geographie - zemografia  
 gingembre - zinje  
 giraffe - jirafe  

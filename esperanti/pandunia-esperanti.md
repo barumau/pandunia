@@ -17,7 +17,6 @@ aciya - terni
 adali - justa  
 adalia - justeco  
 adrese - adreso  
-adulte - plenaĝa  
 afrike - Afriko  
 afriki - afrika  
 afrikofiler - afrikamanto  
@@ -505,6 +504,10 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum (forume) - forumo  
+fote - lumo  
+foti - luma  
+fotobaton - torĉo  
+fotocirke - halo  
 fotograf - foto  
 fotografer - fotisto  
 fotografia - fotografio  
@@ -514,7 +517,6 @@ fransia - Francio
 fransium - franciumo  
 fuka - vesti  
 fuke - vesto  
-fulani - iu  
 fule - floro  
 fulovaze - vazo (florpoto)  
 funca - funkcii  
@@ -629,7 +631,6 @@ hatare - danĝero
 hatari - danĝera  
 hawa - venti  
 hawe - vento  
-hay (hayo) - ankoraŭ  
 haye - vivo  
 hayi - viva  
 hazine - trezoro  
@@ -992,6 +993,7 @@ matiker - matematikisto
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
+maturoren - plenaĝa  
 maw (mawe) - kato  
 max (maxo) - pli  
 max ko bas - tro  
@@ -1138,10 +1140,6 @@ note - noto (rimarko, komento)
 notobuke - kajero  
 novi - nova  
 novo - ĵus  
-nure - lumo  
-nuri - luma  
-nurobaton - torĉo  
-nurocirke - halo  
 nuton - newtono (N)  
 o - aŭ  
 ##o
@@ -1605,6 +1603,7 @@ yange - speco (tipo, stilo)
 ye - ĉi tio  
 yemenia - Jemeno  
 yesus - Jesuo  
+yexo - ankoraŭ  
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  

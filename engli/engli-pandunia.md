@@ -22,7 +22,7 @@ actor (actress) - roler
 additional - maxi  
 address - adrese  
 adjective - sifolekse  
-adult - adulte  
+adult - maturoren  
 adultery (infidelity) - zine  
 advance (progress, enter) - jina  
 adventure (venture) - aventure  
@@ -296,12 +296,14 @@ big (great) - day (dayi)
 bike (cycle) - sikle  
 bill (invoice) - bile  
 billion (giga-) - gigo-  
+biological sex - biyi jinse  
 biology (study of life) - biyolojia  
 bird - pakse  
 biromantic - duloromansi  
 birth - jene  
 birthday - jenoden  
 biscuit (cookie) - biskute  
+bisexual - duloseksi  
 bismuth - bismute  
 black - cerni  
 blacksmith (iron forger) - metalojanger  
@@ -459,7 +461,6 @@ central (middle) - jungi
 Central African Republic - jungafrikia  
 Ceres (dwarf planet) - seres  
 cerium - cerium  
-certain (indefinite, indeterminate, some, so-and-so) - fulani  
 certain (sure) - ameni  
 certainly (surely,amen) - ameno  
 Chad - cadia  
@@ -939,7 +940,7 @@ favorite (preferred) - favori
 fear (phobia) - fobia  
 feather - pere  
 February - mes 2 (mes dul)  
-fee (fare, tariff, rate) - tarife  
+fee (fare) - takse  
 feel (sense by touch) - senta  
 feel - emosa  
 feeze (get frozen) - aisu  
@@ -1055,7 +1056,7 @@ gauze - gaze
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gender (biological sex) - jinse  
+gender (sex) - jinse  
 genderqueer (non-binary) - bise  
 generosity (charity) - karimia  
 generous (charitable) - karimi  
@@ -1105,6 +1106,7 @@ government - governe
 gram (g) - grame  
 grammar - baxokanun  
 grammatical - baxokanuni  
+grammatical gender - baxi jinse  
 grandfather - lawopape  
 grandmother - lawomame  
 grape - putaw  
@@ -1157,7 +1159,7 @@ hafnium - hafnium
 hair - kexe  
 hairband (headband) - kexobende  
 Haiti - haitia  
-halo (aureola) - nurocirke  
+halo (aureola) - fotocirke  
 halve (divide by two) - dulo fena  
 hammer - hamare  
 hammock - hamake  
@@ -1405,7 +1407,7 @@ kilo- - kilo-
 kilogram (kg) - kilogram  
 kilometer (km) - kilometre  
 kind (nice, gentle) - jentili  
-kind (type, style) - yange  
+kind (style, sort, type) - yange  
 kinetic - kini  
 king - mani rajer  
 king or queen - rajer  
@@ -1491,8 +1493,8 @@ Libya - libia
 lie (lie down) - lala  
 Liechtenstein - lihtextainia  
 life - haye  
-light (bright) - nuri  
-light (illumination) - nure  
+light (bright) - foti  
+light (illumination) - fote  
 like (enjoy, be fond of) - suku  
 like - fila  
 lilac - lilake  
@@ -1529,7 +1531,7 @@ longitude - westodongia
 look (see) - vida  
 lose (fail to win) - luza  
 loser - luzer  
-lot (plot of land) - lote  
+lot (plot of land) - zemotike  
 love (liking, affection) - ame  
 love (to be in love with) - ama  
 love romantically - romansa  
@@ -1915,6 +1917,7 @@ order (arrangement) - ratibe
 order (command) - komande  
 order (issue a command) - komanda  
 ordinary (routine, normal) - adi  
+organic - biyi  
 organic life - biye  
 orgasm - orgazme  
 origin (source) - asle  
@@ -2240,7 +2243,7 @@ ramp (incline, slope) - rampe
 random - zari  
 rational (reasonable) - razoni  
 ray - rade  
-ray of light - nurorade  
+ray of light - fotorade  
 read - duga  
 ready - redi  
 realization (awareness, enlightenment, bodhi) - bude  
@@ -2418,7 +2421,7 @@ seed (semen) - seme
 seem - rupu  
 seismology - sismolojia  
 selenium - selenium  
-self - tane  
+self (identity) - aute  
 self - ze  
 self-moving (automotive, automobile) - automoti  
 seminal - semi  
@@ -2514,6 +2517,7 @@ sneeze - aciya
 snow - hime  
 soap - sabune  
 social - soci  
+social gender - soci jinse  
 social media - soci media  
 socialism - socistia  
 socialist - sociste  
@@ -2590,7 +2594,7 @@ steam (vapor) - suyogas
 steamed bun (mantou, manti) - mante  
 steer - gida  
 step (degree, rank, grade, level, class) - darje  
-still (yet) - hay (hayo)  
+still (yet) - yexo  
 stipulate - xarta  
 stone - petre  
 stop (halt) - tinga  
@@ -2679,11 +2683,11 @@ Taoism (Daoism) - dawistia
 Taoist - dawiste  
 tape - tepe  
 target (aim, objective) - dike  
+tarif (tax, duty) - tarife  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
 taste like - gustu ko  
 tattoo - tataw  
-tax (fee, fare) - takse  
 taxi (cab) - taksogare  
 taximeter - taksometer  
 tea - cay (caye)  
@@ -2791,7 +2795,7 @@ top (peak, pinnacle, summit, apex, vertex) - pike
 top (spinning top) - tolo  
 top - gawe  
 topic (subject, theme) - teme  
-torch - nurobaton  
+torch - fotobaton  
 touch - toca  
 tourism - safaristia  
 tourist - safariste  
@@ -2837,6 +2841,7 @@ turtle (tortoise) - tortuge
 Tuvalu - tuvalia  
 twice - dul ban  
 two (2) - dul  
+type (kind, genre) - tipe  
 typewriter - kitabomaxin  
 tyranny - tirania  
 tyrant - tiran  

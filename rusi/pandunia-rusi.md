@@ -6,7 +6,6 @@ aciya - чихать
 adali - справедливый  
 adalia - справедливость  
 adrese - адрес  
-adulte - взрослый  
 aga - если  
 agrese - нападение (атака)  
 airoporte - аэропорт  
@@ -82,6 +81,7 @@ basi - достаточно (довольно)
 baskobol - баскетбол  
 batre - батарея  
 baxe - язык  
+baxi jinse - род в грамматике  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 bazobol - бейсбол  
@@ -91,6 +91,7 @@ bere - ягода
 bile - счёт  
 bina - строить  
 bire - пиво  
+biyi jinse - биологический пол  
 bol (bole) - bola  
 bombe - бомба  
 bon (boni) - хороший  
@@ -309,6 +310,7 @@ marmare - мрамор
 masale - пряность  
 maske - маска  
 maste - мачта  
+maturoren - взрослый  
 maw (mawe) - кошка  
 maxime - максимум  
 me - я  
@@ -439,6 +441,7 @@ si - да
 sikliste - велосипедист  
 sis - шесть (6)  
 slavi - славянский  
+soci jinse - гендер  
 socia - общество (социум)  
 soke - носок  
 sole - солнце  
@@ -523,6 +526,7 @@ xukare - сахар
 ##y
 yemenia - Йемен  
 yesus - Иисус  
+yexo - ещё  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  

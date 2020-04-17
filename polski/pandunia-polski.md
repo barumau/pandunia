@@ -22,7 +22,6 @@ ade - nawyk (przyzwyczajenie)
 adi - zwyczajny (rutynowy, normalny)  
 adrese - adres  
 adresosimbol (@) - małpa (znak na  
-adulte - osoba dorosła  
 afrike - Afryka  
 afriki - afrykański, Afrykanin  
 afrikofiler - afrofil  
@@ -731,10 +730,15 @@ forme - forma, kształt
 forti - silny  
 fortia - siła  
 forum (forume) - forum  
+fote - światło, oświetlenie  
+foti - jasny, świetlny  
+fotobaton - pochochodnia (latarka)  
+fotocirke - efekt halo  
 fotograf - zdjęcie (fotografia)  
 fotografer - fotograf  
 fotografia - fotografia  
 fotomaxin - kamera, aparat fotograficzny  
+fotorade - promień światła  
 fransi krepe - francuski naleśnik (crêpe)  
 fransi polinesia - Polinezja Francuska  
 fransia - Francja  
@@ -742,7 +746,6 @@ fransium - frans
 fuga - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuka - nosić ubrania  
 fuke - ubranie, ubiór, strój  
-fulani - trochę; nieokreślony, nieograniczony, nieokreślony  
 fule - kwiat  
 fulovaze - wazon; donica, doniczka  
 fulu - kwitnąć, rozkwitnąć, rozkwitać  
@@ -921,7 +924,6 @@ hawayi nesia - Hawaje (archipelag hawajski)
 hawayia - Hawaje  
 hawe - wiatr  
 haxixe - haszysz  
-hay (hayo) - wciąż, nadal  
 hayakia - Armenia  
 haye - życie  
 hayi - żyć (żywy, żyjący)  
@@ -1533,7 +1535,6 @@ longa - przedłużyć, przedłużać
 longi - długi  
 longia - długość  
 lose - śruba, wkręt  
-lote - działka (teren)  
 lote - wsad, partia, porcja, seria  
 lowa - przeciekać, ciec  
 lowa sang - krwawić  
@@ -1634,6 +1635,7 @@ matrase - materac
 maturi - dorosły, dojrzały  
 maturi fem - kobieta, dorosła samica  
 maturi man - mężczyzna, dorosły samiec  
+maturoren - osoba dorosła  
 maw (mawe) - kot  
 max (maxo) - bardziej  
 max ko bas - zbyt  
@@ -1950,11 +1952,6 @@ novo - właśnie, dopiero co, ostatnio, niedawno
 nudi - nagi, goły, obnażony  
 nudiste - nudysta  
 nudistia - nudyzm  
-nure - światło, oświetlenie  
-nuri - jasny, świetlny  
-nurobaton - pochochodnia (latarka)  
-nurocirke - efekt halo  
-nurorade - promień światła  
 nuton - niuton (N)  
 o - lub, albo  
 ##o
@@ -2599,7 +2596,6 @@ tamare - daktyl
 tami - chciwy (żądny)  
 tamili - tamilski  
 tanah - Tanach, Biblia hebrajska  
-tane - sam, osobiście  
 tani - osobisty, intymny, prywatny  
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantalum - tantal  
@@ -2936,6 +2932,7 @@ yehudi - żydowski
 yehudistia - judaizm  
 yemenia - Jemen  
 yesus - Jezus  
+yexo - wciąż, nadal  
 yey - jej  
 yeze - kokos  
 yi - ten, te  
@@ -2976,6 +2973,7 @@ zemia - Ziemia
 zemodow - orzech ziemny  
 zemolaskeria - wosko lądowe (armia)  
 zemomedi samude - Morze Śródziemne  
+zemotike - działka (teren)  
 zeze - mucha  
 zigzage - zygzag  
 zikure - ziggurat  

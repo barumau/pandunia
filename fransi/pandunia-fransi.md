@@ -17,7 +17,6 @@ aciya - éternuer
 adali - juste  
 adalia - justice  
 adrese - adresse  
-adulte - adulte  
 afrike - Afrique  
 afriki - africain  
 afrikofiler - afrophile  
@@ -135,6 +134,7 @@ basi - assez
 baskobol - basketball  
 batre - pile (batterie)  
 baxe - langue  
+baxi jinse - genre grammatical  
 bazar - marché (bazar)  
 baze - base  
 bazobol - baseball  
@@ -390,6 +390,7 @@ marmare - marbre
 masale - épices  
 maske - masque  
 maste - mât  
+maturoren - adulte  
 maw (mawe) - chat  
 max (maxo) - plus  
 maxime - maximum  
@@ -638,6 +639,7 @@ xope - shopping
 xukare - sucre  
 ##y
 yesus - Jésus  
+yexo - encore  
 yongopetre - lave  
 yongu - melt  
 yuke - jade  

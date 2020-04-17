@@ -69,7 +69,7 @@ angulo - gone
 animo (psiko) - ruhe  
 animstato - emosohal  
 ankaŭ - plus (pluso)  
-ankoraŭ - hay (hayo)  
+ankoraŭ - yexo  
 ankro - anker  
 antaŭe (pasinte) - pas (paso)  
 antaŭiri - preda  
@@ -515,7 +515,7 @@ Gvatemalo - guatemalia
 ##h
 hafnio - hafnium  
 Haitio - haitia  
-halo - nurocirke  
+halo - fotocirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -611,7 +611,6 @@ isto de ismo - iste
 Italio - italia  
 iterbio - yuterbium  
 itrio - yutrium  
-iu - fulani  
 iu - koy (koyi)  
 iu ajn - eni  
 iu persono - koy ren  
@@ -852,8 +851,8 @@ ludanto - gemer
 ludi - gema  
 ludi rolon - rola  
 ludo - geme  
-luma - nuri  
-lumo - nure  
+luma - foti  
+lumo - fote  
 luno - lune  
 lupo - wolfe  
 lutecio - lutetium  
@@ -1143,7 +1142,7 @@ plantscienco (botaniko) - fitolojia
 plateno - platinum  
 plej - maxim (maximo)  
 plena - puri  
-plenaĝa - adulte  
+plenaĝa - maturoren  
 plene - puro  
 plenigi - pura  
 pli - max (maxo)  
@@ -1458,7 +1457,7 @@ torako - sinokafase
 torio - torium  
 torso - torse  
 torto - pay (paye)  
-torĉo - nurobaton  
+torĉo - fotobaton  
 traduki - tarja  
 tradukisto - tarjer  
 traduko - tarje  

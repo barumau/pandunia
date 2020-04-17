@@ -34,7 +34,7 @@ aihe (teema) - teme
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
 aikakausi - zamane  
-aikuinen - adulte  
+aikuinen - maturoren  
 aina - pan sate  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
@@ -309,7 +309,6 @@ Eris (kääpiöplaneetta) - eris
 Eritrea - eritria  
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
-eräs (muuan, joku, jokin) - fulani  
 esimerkiksi - misalo  
 esimerkki - misale  
 Espanja - espania  
@@ -625,7 +624,6 @@ istua - sida
 isä - pape  
 Italia - italia  
 itkeä - kuga  
-itse - tane  
 itse - ze  
 itsehallinto (autonomia) - autonomia  
 itseliikkuva - automoti  
@@ -2185,7 +2183,7 @@ Slovakia - slovakia
 Slovenia - slovenia  
 smaragdi - zumurude  
 sohva - kanape  
-soihtu - nurobaton  
+soihtu - fotobaton  
 soittaa (musisoida) - musika  
 sokeri - xukare  
 sokerinen (makea) - xukari  
@@ -2273,7 +2271,7 @@ syyllinen - doxi
 Syyria - suria  
 syyskuu - mes 9 (mes naw)  
 säde - rade  
-sädekehä (halo) - nurocirke  
+sädekehä (halo) - fotocirke  
 säe (riimi) - rime  
 sähkö - eletre  
 sähköinen - eletri  
@@ -2440,7 +2438,7 @@ toivoa - inxala
 tomaatti - tomate  
 Tonga - tongia  
 tonni (##0 kg) - megograme  
-tontti (maakaistale) - lote  
+tontti (maakaistale) - zemotike  
 tori (basaari) - bazar  
 torni - minare  
 torstai - var 4 (var car)  
@@ -2602,12 +2600,12 @@ valkoinen (valkea) - baki
 valkosipuli - lasune  
 Valkovenäjä - belorusia  
 valmis - redi  
-valo - nure  
-valoisa - nuri  
+valo - fote  
+valoisa - foti  
 valokuva (foto) - fotograf  
 valokuvaaja - fotografer  
 valokuvaus - fotografia  
-valonsäde - nurorade  
+valonsäde - fotorade  
 valta - kratia  
 valtameri - dayosamude  
 vanadiini - vanadium  
@@ -2682,7 +2680,7 @@ vetovoima (šarmi) - carme
 vety - hidre  
 vetää (kiskoa) - tira  
 viedä pois (viedä maasta) - wayomisa  
-vielä (yhä) - hay (hayo)  
+vielä (yhä) - yexo  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
 vierailla - vizita  

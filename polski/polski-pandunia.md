@@ -460,7 +460,7 @@ dzban, dzbanek; słój, słoik - jare
 dziadek (dziad) - lawopape  
 działanie (akcja) - acion (acione)  
 działanie (zachowanie, karma) - kare  
-działka (teren) - lote  
+działka (teren) - zemotike  
 działo - kanone  
 dziecko (nieletni) - bace  
 dziecko, potomek - pute  
@@ -494,7 +494,7 @@ Dżibuti - jibutia
 dżul (J) - jule  
 ##e
 echo - mirosonde  
-efekt halo - nurocirke  
+efekt halo - fotocirke  
 egipski - misri  
 Egipt - misria  
 egzonim - wayonam  
@@ -817,7 +817,7 @@ Japonia - niponia
 japoński - niponi  
 jaskinia - guhe  
 jasny, czysty - mingi  
-jasny, świetlny - nuri  
+jasny, świetlny - foti  
 jazz, dżez - jaze  
 jaśmin - malike  
 jebać, kopulować - coda  
@@ -1566,7 +1566,7 @@ osioł - gade
 osm - osmium  
 osmoza - osme  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - adulte  
+osoba dorosła - maturoren  
 osoba mówiąca w Panduni - panduniste  
 osoba; ludzie - ren (rene)  
 osobisty, intymny, prywatny - tani  
@@ -1722,7 +1722,7 @@ plemię - tribe
 Pluton (planeta karłowata) - pluton  
 pluton - plutonium  
 pluć - tuha  
-pochochodnia (latarka) - nurobaton  
+pochochodnia (latarka) - fotobaton  
 pociąg - tren (trene)  
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
@@ -1888,7 +1888,7 @@ promet - prometium
 promieniowanie - radia  
 promieniować - rada  
 promień - rade  
-promień światła - nurorade  
+promień światła - fotorade  
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - manihaye  
@@ -2139,7 +2139,6 @@ Saint Vincent - santi vinsente
 Saint Vincent and Grenadines - santi vinsente e grenadin  
 Saint Vincent i Grenadyny - walis e futun nesia  
 Salwador - salvadoria  
-sam, osobiście - tane  
 sam, siebie - ze  
 samar - samarium  
 Samoa - samowia  
@@ -2465,7 +2464,6 @@ towarzysz (partner, kumpel) - latoren
 transport - transeria  
 trawa - grase  
 treść (zawartość) - tene  
-trochę; nieokreślony, nieograniczony, nieokreślony - fulani  
 trucizna (toksyna) - tokse  
 trudność (trud) - kunane  
 trudny (ciężki) - kunani  
@@ -2599,7 +2597,7 @@ waza, garnek, pojemnik, słoik, dzban - vaze
 wazon; donica, doniczka - fulovaze  
 ważka - libele  
 ważny - hami  
-wciąż, nadal - hay (hayo)  
+wciąż, nadal - yexo  
 wcześniej (uprzednio) - predo  
 wczoraj - predoden  
 według ruchu wskazówek zegara - relojodixo  
@@ -2969,7 +2967,7 @@ zły, zrujnowany, zepsuty - harabi
 śruba, wkręt - lose  
 świadomy; oświecony - budi  
 świat - dunia  
-światło, oświetlenie - nure  
+światło, oświetlenie - fote  
 świeca - mumonur  
 świetny - kuli  
 świeży - tazi  

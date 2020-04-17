@@ -9,7 +9,6 @@
 |**abla**|povi|angla:able, hispana:hábil, franca:habile, ron:abil|
 |**adalia**|justeco|araba:(ʿadl), turka:adalet, malaja:adalat, bengala:আদালত (adalôt), persa:urdua:('adālat)|
 |**adrese**|adreso|angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço|
-|**adulte**|plenaĝa|angla:adult, franca:adulte, portugala:hispana:adulto|
 |**afrike**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika|
 |**aga**|se|persa:urdua:اگر‎‎ (agar), hindia:अगर (agar), turka:eğer, + kantona:假 (gaa1), vua:假 (ga)|
 |**agrese**|atako (agreso)|angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif|
@@ -224,8 +223,8 @@
 |**folia**|frenezeco|angla:folly, franca:folie, itala:follia|
 |**fora**|taladri|franca:forer, portugala:furar, angla:perforate, hispana:perforar|
 |**forti**|forta|franca:fort, hispana:fuerte, portugala:forte, angla:force|
+|**fote**|lumo|greka:φωτω- (photo-)|
 |**fuke**|vesto|mandarena:衣服 (yīfu), kantona:(yifuk), japana:衣服 (ifuku), korea:의복 (uibog)|
-|**fulani**|iu|svahila:fulani, araba:(fulan), turka:falan|
 |**fule**|floro|haŭsa:fure, igba:ifulu, lingala:folele, hindia:फूल (phul), bengala:ফুল (phul), franca:fleur, portugala:hispana:flor, angla:flower|
 |**fune**|polvo|mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)|
 |**funge**|fungo|angla:fungus, franca:fongus, portugala:fungo, hispana:hongo|
@@ -292,7 +291,6 @@
 |**hasi**|speciala|araba:(xāṣṣ), persa:urdua:(xās), malaja:ख़ास (xās), may:khas|
 |**hatare**|danĝero|araba:(xaṭar), persa:(xatar), urdua:(xatra), hindia:ख़तरा (xatrā), svahila:hatari, turka:muhatara|
 |**hawe**|vento|hindia:हवा (havā), urdua:(havā), panĝaba:ਹਵਾ (hawā), + araba:(hawāʾ), persa:(havā), turka:hava, malaja:hawa, som:hawo, svahila:hewa, bengala:হাওয়া (haowa)|
-|**hay (hayo)**|ankoraŭ|mandarena:还 (hai)|
 |**haye**|vivo|araba:حياة‎ (ḥaya), svahila:uhai, hindia:हयात (hayāt), malaja:hayat|
 |**he**|ĉu?|franca:portugala:hein, japana:e|
 |**helpe**|helpo|angla:help, deu:Hilfe|
@@ -521,7 +519,6 @@
 |**nostalgia**|nostalgio (saudado)|angla:portugala:hispana:nostalgia, franca:nostalgie, deu:Nostalgie, rusa:ностальгия (nostalʹgiya), japana:ノスタルジー (nosutarujī), persa:(nostâlži)|
 |**note**|noto (rimarko, komento)|deu:angla:franca:note, hispana:portugala:nota, turka:not, japana:ノート (nōto), korea:노트 (noteu), persa:(not)|
 |**novi**|nova|rusa:новый (novyy), portugala:novo, hispana:nuevo, hindia:नव (nav), angla:novel, franca:nouveau|
-|**nure**|lumo|araba:persa:(nūr), svahila:nuru|
 |**o**|aŭ|hispana:o, filipina:o, angla:or, mandarena:或 (huò), araba:(ʾaw)|
 |**onde**|ondo|hispana:portugala:itala:onda, franca:onde, malaja:ombak|
 |**onore**|honoro (respekto)|angla:polona:hispana:honor, franca:honneur, portugala:honra, itala:onore, turka:onur|
@@ -739,6 +736,7 @@
 |**xukare**|sukero|araba:(sukkar), svahila:sukari, portugala:açúcar, hispana:azúcar, Hin:शक्कर (śakkar), bengala:শর্করা (śôrkôra), turka:şeker, Tam:சக்கரை (cakkarai)|
 |**xule**|riparo|mandarena:修理 (xiūlǐ), japana:修理 (shūri), korea:수리 (suri)|
 |**yange**|speco (tipo, stilo)|mandarena: 样 (yàng), taja: อย่าง (yàang), kmera: យ៉ាង (yaang)|
+|**yexo**|ankoraŭ|rusa:ещё (yeščo), polona:jeszcze|
 |**yeze**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yi**|ĉi tiu|hindia:यह (ye), bengala:এই (ei), teluga:ఈ (ī), tamila:இது (itu), korea:이 (i),|
 |**yoge**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|

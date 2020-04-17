@@ -12,7 +12,6 @@
 |**adalia**|oikeus|arabia:(ʿadl), turkki:adalet, malaiji:adalat, bangla:আদালত (adalôt), persia:urdu:('adālat)|
 |**ade**|tapa|arabia:(ʿāda), persia:urdu:('âdat), hindi:आदत (ādat), pandzabi:ਆਦਤ (ādat), turkki:adet|
 |**adrese**|osoite|englanti:address, ranska:deu:adresse, venäjä:адрес (adres), portugali:endereço|
-|**adulte**|aikuinen|englanti:adult, ranska:adulte, portugali:espanja:adulto|
 |**afrike**|Afrikka|arabia:(ʾafrīqiyā), wolof:Afrig, fulani:Afirik, amhara:(ʾäfriḳa), hausa:Afirka, yoruba:Afirika, oromo:Afrikaa, suahili:Afrika|
 |**aga**|jos (olettaa)|persia:urdu:اگر‎‎ (agar), hindi:अगर (agar), turkki:eğer, + kantoninkiina:假 (gaa1), wu-kiina:假 (ga)|
 |**agrese**|hyökkäys (aggressio)|englanti:deu:ranska:agression, puola:agresja, venäjä:агрессия (agressiya), espanja:agresión, portugali:agressão, malaiji:agresif|
@@ -276,9 +275,9 @@
 |**fonte**|lähde (kaivo)|portugali:fonte, espanja:fuente, venäjä:фонтан (fontan), ranska:fontaine, englanti:fountain, japani:噴水 (funsui)|
 |**fora**|porata|ranska:forer, portugali:furar, englanti:perforate, espanja:perforar|
 |**forti**|voimakas (vahva)|ranska:fort, espanja:fuerte, portugali:forte, englanti:force|
+|**fote**|valo|kreikka:φωτω- (photo-)|
 |**fuga**|palauttaa|yleiskiina:复 (fù), kantoninkiina:(fuk), vietnami:phục|
 |**fuke**|vaate (puku)|yleiskiina:衣服 (yīfu), kantoninkiina:(yifuk), japani:衣服 (ifuku), korea:의복 (uibog)|
-|**fulani**|eräs (muuan, joku, jokin)|suahili:fulani, arabia:(fulan), turkki:falan|
 |**fule**|kukka|hausa:fure, igbo:ifulu, lingala:folele, hindi:फूल (phul), bangla:ফুল (phul), ranska:fleur, portugali:espanja:flor, englanti:flower|
 |**fune**|pöly (tomu)|yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)|
 |**funge**|sieni|englanti:fungus, ranska:fongus, portugali:fungo, espanja:hongo|
@@ -355,7 +354,6 @@
 |**hasi**|erikoinen (erityinen)|arabia:(xāṣṣ), persia:urdu:(xās), malaiji:ख़ास (xās), may:khas|
 |**hatare**|vaara|arabia:(xaṭar), persia:(xatar), urdu:(xatra), hindi:ख़तरा (xatrā), suahili:hatari, turkki:muhatara|
 |**hawe**|tuuli (puhallus)|hindi:हवा (havā), urdu:(havā), pandzabi:ਹਵਾ (hawā), + arabia:(hawāʾ), persia:(havā), turkki:hava, malaiji:hawa, som:hawo, suahili:hewa, bangla:হাওয়া (haowa)|
-|**hay (hayo)**|vielä (yhä)|yleiskiina:还 (hai)|
 |**haye**|elämä|arabia:حياة‎ (ḥaya), suahili:uhai, hindi:हयात (hayāt), malaiji:hayat|
 |**he**|häh?|ranska:portugali:hein, japani:e|
 |**helise**|kierre (spiraali)|kreikka: ἕλιξ (helix), englanti:helix, ranska:portugali:espanja:hélice, puola:helisa, arabia:(ḥalazūn), turkki:helezon|
@@ -564,7 +562,6 @@
 |**longi**|pitkä|englanti:ranska:long, deu:lang, Por:longo|
 |**lose**|ruuvi|yleiskiina:螺丝 (luòsī), kantoninkiina:螺絲 (lo4 si1)|
 |**lote**|erä (satsi)|portugali:espanja:lote, englanti:ranska:lot|
-|**lote**|tontti (maakaistale)|portugali:lote, englanti:ranska:lot, espanja:loteo|
 |**lowa**|vuotaa|yleiskiina:漏 (lòu)|
 |**lugi**|vihreä|yleiskiina:绿 (lǜ), kantoninkiina:綠 (luk6), vietnami:lục, korea:록/녹 (rok/nok), japani: 緑色 (ryokushoku)|
 |**lule**|helmi|amharabia:ሉል (lul), ara:(luʾluʾa), suahili:lulu, oromo:lu'ulu'a, hausa:lu'ulu'u, fulani:luuluuri, persia:(lo'lo')|
@@ -680,7 +677,6 @@
 |**nostalgia**|kaipuu (ikävä, nostalgia)|englanti:portugali:espanja:nostalgia, ranska:nostalgie, deu:Nostalgie, venäjä:ностальгия (nostalʹgiya), japani:ノスタルジー (nosutarujī), persia:(nostâlži)|
 |**note**|huomio (kommentti, merkintä)|deu:englanti:ranska:note, espanja:portugali:nota, turkki:not, japani:ノート (nōto), korea:노트 (noteu), persia:(not)|
 |**novi**|uusi|venäjä:новый (novyy), portugali:novo, espanja:nuevo, hindi:नव (nav), englanti:novel, ranska:nouveau|
-|**nure**|valo|arabia:persia:(nūr), suahili:nuru|
 |**o**|tai (vai)|espanja:o, filippiini:o, englanti:or, yleiskiina:或 (huò), arabia:(ʾaw)|
 |**onde**|aalto (laine)|espanja:portugali:italia:onda, ranska:onde, malaiji:ombak|
 |**onore**|kunnioitus (arvostus)|englanti:puola:espanja:honor, ranska:honneur, portugali:honra, italia:onore, turkki:onur|
@@ -882,7 +878,6 @@
 |**takse**|taksa (vero)|englanti:tax, portugali:taxa, espanja:tasa, hindi:टैक्स (ṭEks)|
 |**tamare**|taateli|portugali:tamara, arabia:(tamar)|
 |**tami**|ahne|arabia: طَمَّاع‎ (ṭammāʿ), yleiskiina:贪 (tān), korea:탐욕 (tamyok), vietnami:tham|
-|**tane**|itse|hindi:marathi:तन (tan), persia:urdu:(tan), taj:тан (tan), thai:ตน (ton), vietnami:thân, kantoninkiina:親 (can3)|
 |**tanke**|tankki (säiliö)|englanti:tank, hindi:टंकी (ṭaṅkī), suahili:tangi, espanja:tanque, japani:タンク (tanku), filippiini:tangke|
 |**tanure**|uuni|persia:heb:tanur, arabia:(tannūr), englanti:tandoor, athanor, turkki:tandır, hindi:तनूर (tanūr), urdu:(tanūr), pandzabi:ਤੰਦੂਰ (tandūr)|
 |**tape**|tulppa (tappi, korkki)|espanja:turkki:tapa, portugali:tampa, kreikka:τάπα (tapa), bul:тапа (tapa), englanti:tap|
@@ -1003,6 +998,7 @@
 |**yake**|jakki|englanti:deu:ranska:espanja:turkki:yak, portugali:iaque, hindi:याक (yāk)|
 |**yange**|laji (tyyppi, tyyli)|yleiskiina: 样 (yàng), thai: อย่าง (yàang), khmer: យ៉ាង (yaang)|
 |**yatime**|orpo|arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)|
+|**yexo**|vielä (yhä)|venäjä:ещё (yeščo), puola:jeszcze|
 |**yeze**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|
 |**yi**|tämä (nämä)|hindi:यह (ye), bangla:এই (ei), telugu:ఈ (ī), tamili:இது (itu), korea:이 (i),|
 |**yoge**|jooga|hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)|

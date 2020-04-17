@@ -22,7 +22,6 @@ ade - tapa
 adi - tavallinen  
 adrese - osoite  
 adresosimbol (@) - @-merkki  
-adulte - aikuinen  
 afrike - Afrikka  
 afriki - afrikkalainen  
 afrikofiler - afrofiili  
@@ -707,10 +706,15 @@ forme - muoto
 forti - voimakas (vahva)  
 fortia - voima  
 forum (forume) - foorumi  
+fote - valo  
+foti - valoisa  
+fotobaton - soihtu  
+fotocirke - sädekehä (halo)  
 fotograf - valokuva (foto)  
 fotografer - valokuvaaja  
 fotografia - valokuvaus  
 fotomaxin - kamera  
+fotorade - valonsäde  
 fransi krepe - kreppi  
 fransi polinesia - Ranskan Polynesia  
 fransia - Ranska  
@@ -718,7 +722,6 @@ fransium - fransium
 fuga - palauttaa  
 fuka - pukea  
 fuke - vaate (puku)  
-fulani - eräs (muuan, joku, jokin)  
 fule - kukka  
 fulovaze - kukkaruukku  
 fulu - kukkia  
@@ -891,7 +894,6 @@ hawayi nesia - Havaijin saaret
 hawayia - Havaiji  
 hawe - tuuli (puhallus)  
 haxixe - hasis  
-hay (hayo) - vielä (yhä)  
 hayakia - Armenia  
 haye - elämä  
 hayi - elää (olla elossa, elävä)  
@@ -1464,7 +1466,6 @@ longi - pitkä
 longia - pituus  
 lose - ruuvi  
 lote - erä (satsi)  
-lote - tontti (maakaistale)  
 lowa - vuotaa  
 lowa sang - vuotaa verta  
 lugi - vihreä  
@@ -1563,6 +1564,7 @@ matrase - patja
 maturi - kypsä (aikuinen)  
 maturi fem - nainen  
 maturi man - mies  
+maturoren - aikuinen  
 maw (mawe) - kissa  
 max (maxo) - enemmän  
 max ko bas - liikaa  
@@ -1867,11 +1869,6 @@ novo - äsken (vasta, juuri)
 nudi - alaston (paljas, naku)  
 nudiste - nudisti  
 nudistia - nudismi  
-nure - valo  
-nuri - valoisa  
-nurobaton - soihtu  
-nurocirke - sädekehä (halo)  
-nurorade - valonsäde  
 nuton - newton (N)  
 o - tai (vai)  
 ##o
@@ -2471,7 +2468,6 @@ tamare - taateli
 tami - ahne  
 tamili - tamil (eräs intialainen kieli)  
 tanah - tanakh  
-tane - itse  
 tani - henkilökohtainen (privaatti)  
 tanke - tankki (säiliö)  
 tanure - uuni  
@@ -2782,6 +2778,7 @@ yehudi - juutalainen
 yehudistia - juutalaisuus  
 yemenia - Jemen  
 yesus - Jeesus  
+yexo - vielä (yhä)  
 yey - jee! (hurraa!)  
 yeze - kookos  
 yi - tämä (nämä)  
@@ -2819,6 +2816,7 @@ zemia - Maapallo
 zemodow - maapähkinä  
 zemolaskeria - maavoimat  
 zemomedi samude - Välimeri  
+zemotike - tontti (maakaistale)  
 zeze - kärpänen  
 zigzage - siksakki  
 zikure - zikkurat  

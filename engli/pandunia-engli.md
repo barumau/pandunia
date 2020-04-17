@@ -22,7 +22,6 @@ ade - habit
 adi - ordinary (routine, normal)  
 adrese - address  
 adresosimbol (@) - @ symbol  
-adulte - adult  
 afrike - Africa  
 afriki - African  
 afrikofiler - afrophile  
@@ -149,6 +148,7 @@ atome - atom
 auda - hear (listen)  
 aure - gold  
 australia - Australia  
+aute - self (identity)  
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
@@ -239,6 +239,7 @@ batonopang - baguette
 batre - battery  
 baxa - speak (communicate)  
 baxe - language (communication)  
+baxi jinse - grammatical gender  
 baxokanun - grammar  
 baxokanuni - grammatical  
 baxolojia - linguistics  
@@ -287,6 +288,8 @@ biskute - biscuit (cookie)
 bismute - bismuth  
 bixu - must  
 biye - organic life  
+biyi - organic  
+biyi jinse - biological sex  
 biyolojia - biology (study of life)  
 bizari - odd (strange, weird)  
 bizi - busy (occupied)  
@@ -560,6 +563,7 @@ dulo fena - halve (divide by two)
 dulo multa - double (multiply by two)  
 dulomeni - double entendre  
 duloromansi - biromantic  
+duloseksi - bisexual  
 dumane - smoke  
 dume - tail  
 duni - global  
@@ -739,10 +743,15 @@ forme - form (shape)
 forti - strong  
 fortia - force (strength)  
 forum (forume) - forum (public space)  
+fote - light (illumination)  
+foti - light (bright)  
+fotobaton - torch  
+fotocirke - halo (aureola)  
 fotograf - photograph  
 fotografer - photographer  
 fotografia - photography  
 fotomaxin - camera  
+fotorade - ray of light  
 fransi krepe - crepe  
 fransi polinesia - French Polynesia  
 fransia - France  
@@ -750,7 +759,6 @@ fransium - francium
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
-fulani - certain (indefinite, indeterminate, some, so-and-so)  
 fule - flower  
 fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
@@ -930,7 +938,6 @@ hawayi nesia - Hawaiian archipelago
 hawayia - Hawaii  
 hawe - wind  
 haxixe - hashish  
-hay (hayo) - still (yet)  
 hayakia - Armenia  
 haye - life  
 hayi - live (be alive, living)  
@@ -1111,7 +1118,7 @@ jibutia - Djibouti
 jina - advance (progress, enter)  
 jino - foreward  
 jinomun - entrance  
-jinse - gender (biological sex)  
+jinse - gender (sex)  
 jinsi - sexual (pertaining to gender)  
 jirafe - giraffe  
 joke - joke  
@@ -1560,7 +1567,6 @@ longokrokodile - crocodile
 lontre - otter  
 lose - screw  
 lote - batch (lot)  
-lote - lot (plot of land)  
 lowa - leak  
 lowa sang - bleed  
 lugi - green  
@@ -1661,6 +1667,7 @@ matrase - mattress
 maturi - mature (ripe, adult)  
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
+maturoren - adult  
 maw (mawe) - cat  
 max (maxo) - more  
 max ko bas - too much  
@@ -1983,11 +1990,6 @@ novo - just (recently)
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
-nure - light (illumination)  
-nuri - light (bright)  
-nurobaton - torch  
-nurocirke - halo (aureola)  
-nurorade - ray of light  
 nuton - newton (N)  
 o - or  
 ##o
@@ -2544,6 +2546,7 @@ slovakia - Slovakia
 slovenia - Slovenia  
 soca - socialize (interact)  
 soci - social  
+soci jinse - social gender  
 soci media - social media  
 socia - society (association)  
 sociste - socialist  
@@ -2633,7 +2636,7 @@ taige - taiga
 taiwania - Taiwan (Republic of China)  
 tajikia - Tajikistan  
 taksa - collect fees or taxes  
-takse - tax (fee, fare)  
+takse - fee (fare)  
 taksogare - taxi (cab)  
 taksometer - taximeter  
 tala - lower (put down)  
@@ -2644,7 +2647,6 @@ tamare - date fruit
 tami - greedy  
 tamili - Tamil  
 tanah - Tanakh (Jewish Bible)  
-tane - self  
 tani - personal (intimate, private)  
 tanke - tank (reservoir)  
 tantalum - tantalum  
@@ -2653,7 +2655,7 @@ tanzania - Tanzania
 tapa - plug (stop with a plug)  
 tape - stopper (cap, peg, tap)  
 tapula - unplug (uncork)  
-tarife - fee (fare, tariff, rate)  
+tarife - tarif (tax, duty)  
 tarja - translate (interpret)  
 tarje - translation (interpretation)  
 tarjer - interpreter (translator)  
@@ -2716,6 +2718,7 @@ ting - stop
 tinga - stop (halt)  
 tingu - stop (halt)  
 tinogon - triangle  
+tipe - type (kind, genre)  
 tira - pull (draw, drag)  
 tira milke - milk (draw milk)  
 tiran - tyrant  
@@ -2978,7 +2981,7 @@ yago - about (approximately, nearly, almost)
 yagonese - peninsula  
 yake - yak  
 yala - hurry (hasten)  
-yange - kind (type, style)  
+yange - kind (style, sort, type)  
 yasene - ash tree  
 yatime - orphan  
 yatimodom - orphanage  
@@ -2987,6 +2990,7 @@ yehudi - Jewish
 yehudistia - Judaism  
 yemenia - Yemen  
 yesus - Jesus  
+yexo - still (yet)  
 yey - yay! (yeah!)  
 yeze - coconut tree  
 yi - this (these)  
@@ -3033,6 +3037,7 @@ zemokaski plate - tectonic plate
 zemolaskeria - ground force (army)  
 zemolojia - geology  
 zemomedi samude - Mediterranean  
+zemotike - lot (plot of land)  
 zeze - fly (housefly)  
 zigzage - zigzag  
 zikure - ziggurat  

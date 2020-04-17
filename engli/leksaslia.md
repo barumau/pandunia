@@ -12,7 +12,6 @@
 |**adalia**|justice|Arabic:(ʿadl), Turkish:adalet, Malay:adalat, Bengali:আদালত (adalôt), Persian:Urdu:('adālat)|
 |**ade**|habit|Arabic:(ʿāda), Persian:Urdu:('âdat), Hindi:आदत (ādat), Punjabi:ਆਦਤ (ādat), Turkish:adet|
 |**adrese**|address|English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço|
-|**adulte**|adult|English:adult, French:adulte, Portuguese:Spanish:adulto|
 |**afrike**|Africa|Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika|
 |**aga**|if (suppose, assume)|Persian:Urdu:اگر‎‎ (agar), Hindi:अगर (agar), Turkish:eğer, + Cantonese:假 (gaa1), Wu-Chinese:假 (ga)|
 |**agrese**|attack (assault, aggression)|English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif|
@@ -280,9 +279,9 @@
 |**fonte**|fountain (spring, well)|Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)|
 |**fora**|drill (bore, perforate)|French:forer, Portuguese:furar, English:perforate, Spanish:perforar|
 |**forti**|strong|French:fort, Spanish:fuerte, Portuguese:forte, English:force|
+|**fote**|light (illumination)|Greek:φωτω- (photo-)|
 |**fuga**|return (restore, recover, resume)|Mandarin:复 (fù), Cantonese:(fuk), Vietnamese:phục|
 |**fuke**|clothing|Mandarin:衣服 (yīfu), Cantonese:(yifuk), Japanese:衣服 (ifuku), Korean:의복 (uibog)|
-|**fulani**|certain (indefinite, indeterminate, some, so-and-so)|Swahili:fulani, Arabic:(fulan), Turkish:falan|
 |**fule**|flower|Hausa:fure, Igbo:ifulu, Lingala:folele, Hindi:फूल (phul), Bengali:ফুল (phul), French:fleur, Portuguese:Spanish:flor, English:flower|
 |**fune**|dust (powder)|Mandarin:粉 (fěn), Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)|
 |**funge**|fungus|English:fungus, French:fongus, Portuguese:fungo, Spanish:hongo|
@@ -360,7 +359,6 @@
 |**hasi**|special (distinct)|Arabic:(xāṣṣ), Persian:Urdu:(xās), Malay:ख़ास (xās), may:khas|
 |**hatare**|danger (peril)|Arabic:(xaṭar), Persian:(xatar), Urdu:(xatra), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara|
 |**hawe**|wind|Hindi:हवा (havā), Urdu:(havā), Punjabi:ਹਵਾ (hawā), + Arabic:(hawāʾ), Persian:(havā), Turkish:hava, Malay:hawa, som:hawo, Swahili:hewa, Bengali:হাওয়া (haowa)|
-|**hay (hayo)**|still (yet)|Mandarin:还 (hai)|
 |**haye**|life|Arabic:حياة‎ (ḥaya), Swahili:uhai, Hindi:हयात (hayāt), Malay:hayat|
 |**he**|huh? (pardon?)|French:Portuguese:hein, Japanese:e|
 |**helise**|spiral (helix, corkscrew, twist)|Greek: ἕλιξ (helix), English:helix, French:Portuguese:Spanish:hélice, Polish:helisa, Arabic:(ḥalazūn), Turkish:helezon|
@@ -411,7 +409,7 @@
 |**jeng**|fight (war, battle, combat)|Mandarin:爭 (zhēng), Vietnamese:tranh, Korean:전쟁 (jeonjaeng), Turkish:kur:ceng, Persian:Urdu:(jang), Hindi:जंग (jang)|
 |**jengoxute**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
 |**jina**|advance (progress, enter)|Mandarin:進 (jìn), Japanese:進 (shin, jin), Korean:진 (jin), Vietnamese:tiến|
-|**jinse**|gender (biological sex)|Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, English:gender, Portuguese:gênero|
+|**jinse**|gender (sex)|Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, English:gender, Portuguese:gênero|
 |**jirafe**|giraffe|Arabic:(zarāfa), Eng:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf),Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)|
 |**jovani**|young|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane|
 |**jumle**|sentence (phrase)|Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)|
@@ -584,7 +582,6 @@
 |**lontre**|otter|Spanish:Filipino:lutrino, French:loutre, Portuguese:lontra, Italian:lontra|
 |**lose**|screw|Mandarin:螺丝 (luòsī), Cantonese:螺絲 (lo4 si1)|
 |**lote**|batch (lot)|Portuguese:Spanish:lote, English:French:lot|
-|**lote**|lot (plot of land)|Portuguese:lote, English:French:lot, Spanish:loteo|
 |**lowa**|leak|Mandarin:漏 (lòu)|
 |**lugi**|green|Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)|
 |**lule**|pearl|Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')|
@@ -701,7 +698,6 @@
 |**nostalgia**|nostalgia (longing)|English:Portuguese:Spanish:nostalgia, French:nostalgie, deu:Nostalgie, Russian:ностальгия (nostalʹgiya), Japanese:ノスタルジー (nosutarujī), Persian:(nostâlži)|
 |**note**|note (observation, remark, comment)|deu:English:French:note, Spanish:Portuguese:nota, Turkish:not, Japanese:ノート (nōto), Korean:노트 (noteu), Persian:(not)|
 |**novi**|new (recent)|Russian:новый (novyy), Portuguese:novo, Spanish:nuevo, Hindi:नव (nav), English:novel, French:nouveau|
-|**nure**|light (illumination)|Arabic:Persian:(nūr), Swahili:nuru|
 |**o**|or|Spanish:o, Filipino:o, English:or, Mandarin:或 (huò), Arabic:(ʾaw)|
 |**onde**|wave|Spanish:Portuguese:Italian:onda, French:onde, Malay:ombak|
 |**onore**|respect (honor, esteem)|English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Italian:onore, Turkish:onur|
@@ -906,14 +902,13 @@
 |**tabake**|tobacco|deu:Tabak, Russian:табак (tabak), French:tabac, Spanish:Portuguese:tabaco, Japanese:タバコ (tabako), English:tobacco, Hindi:तंबाकू (tambākū), Malay:tembakau|
 |**table**|table (matrix)|English:table, French:tableau, Spanish:tabla, Russian:таблица (tablitsa), Malay:tabel|
 |**tafune**|storm (tempest, typhoon, hurricane, cyclone)|Mandarin:大风 (dàfēng), Cantonese:大風 (daai6fung1), Korean:태풍 (taepung), Japanese:台風 (taifuu), Thai:ไต้ฝุ่น (taifun), Arabic:(ṭūfān), Persian:Urdu:(tufān), Hindi:तूफ़ान (tūfān), Punjabi:ਤੂਫ਼ਾਨ (tūfān), Portuguese:tufão, Spanish:tifón, French:typhon, English:typhoon, Russian:тайфун (tayfun)|
-|**takse**|tax (fee, fare)|English:tax, Portuguese:taxa, Spanish:tasa, Hindi:टैक्स (ṭEks)|
+|**takse**|fee (fare)|English:tax, Portuguese:taxa, Spanish:tasa, Hindi:टैक्स (ṭEks)|
 |**tamare**|date fruit|Portuguese:tamara, Arabic:(tamar)|
 |**tami**|greedy|Arabic: طَمَّاع‎ (ṭammāʿ), Mandarin:贪 (tān), Korean:탐욕 (tamyok), Vietnamese:tham|
-|**tane**|self|Hindi:Marathi:तन (tan), Persian:Urdu:(tan), taj:тан (tan), Thai:ตน (ton), Vietnamese:thân, Cantonese:親 (can3)|
 |**tanke**|tank (reservoir)|English:tank, Hindi:टंकी (ṭaṅkī), Swahili:tangi, Spanish:tanque, Japanese:タンク (tanku), Filipino:tangke|
 |**tanure**|oven (furnace)|Persian:heb:tanur, Arabic:(tannūr), English:tandoor, athanor, Turkish:tandır, Hindi:तनूर (tanūr), Urdu:(tanūr), Punjabi:ਤੰਦੂਰ (tandūr)|
 |**tape**|stopper (cap, peg, tap)|Spanish:Turkish:tapa, Portuguese:tampa, Greek:τάπα (tapa), bul:тапа (tapa), English:tap|
-|**tarife**|fee (fare, tariff, rate)|English:tariff, Spanish:Portuguese:tarifa, deu:French:Turkish:tarif, Arabic:(taʿrīf), Russian:тариф (tarif), Hindi:टैरिफ़ (ṭairif)|
+|**tarife**|tarif (tax, duty)|English:tariff, Spanish:Portuguese:tarifa, deu:French:Turkish:tarif, Arabic:(taʿrīf), Russian:тариф (tarif), Hindi:टैरिफ़ (ṭairif)|
 |**tarje**|translation (interpretation)|Arabic:(tarjama), Hindi:तर्जुमा (tarjuma), Urdu:(tarjuma), Bengali:তর্জমা (tôrjôma), Malay:terjemah, Turkish:tercüme|
 |**tataw**|tattoo|sam:tah:tatau, haw:kākau, Malay:tato, English:tattoo, French:tatouage, Spanish:tatuaje, Russian:тату (tatu)|
 |**tatike**|tactics (strategy)|Portuguese:tática, Italian:tattica, English:tactic, Russian:тактика (taktika), deu:Taktik|
@@ -1034,8 +1029,9 @@
 |**xuxe**|rest (relief)|Mandarin:休息 (xiūxí), Korean:휴식 (hyusig)|
 |**yago**|about (approximately, nearly, almost)|Korean:약 (yag), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)|
 |**yake**|yak|English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)|
-|**yange**|kind (type, style)|Mandarin: 样 (yàng), Thai: อย่าง (yàang), Khmer: យ៉ាង (yaang)|
+|**yange**|kind (style, sort, type)|Mandarin: 样 (yàng), Thai: อย่าง (yàang), Khmer: យ៉ាង (yaang)|
 |**yatime**|orphan|Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)|
+|**yexo**|still (yet)|Russian:ещё (yeščo), Polish:jeszcze|
 |**yeze**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
 |**yi**|this (these)|Hindi:यह (ye), Bengali:এই (ei), Telugu:ఈ (ī), Tamil:இது (itu), Korean:이 (i),|
 |**yoge**|yoga|Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)|

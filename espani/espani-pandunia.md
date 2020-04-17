@@ -47,7 +47,7 @@ adjetivo - sifolekse
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
 adulterio - zine  
-adulto - adulte  
+adulto - maturoren  
 adverbo - modolekse  
 adversario (oponente) - anter  
 aeroplano - vimane  
@@ -147,7 +147,7 @@ Antigua - antigia
 Antigua y Barbuda - antigia e barbudia  
 Antillas Neerlandesas - nederlandi antilia  
 antimonio - estibium  
-antorcha - nurobaton  
+antorcha - fotobaton  
 antónimo - antoname  
 análisis - analize  
 anón (ates, saramuyo) - atis (atise)  
@@ -316,6 +316,7 @@ billete de ida y vuelta - retrotikete
 biología - biyolojia  
 birromántico - duloromansi  
 bisagra (gozne) - xarnir  
+bisexual - duloseksi  
 bismuto - bismute  
 blanco - baki  
 blando (mullido) - komali  
@@ -521,7 +522,6 @@ cielo - samane
 cien (##) - hon (honi)  
 ciencia (estudia, investigación) - lojia  
 ciencia política - politikolojia  
-cierto (algún, unos) - fulani  
 cigarro - sigare  
 cima (pico, cumbre, vértice) - pike  
 cinc - zinke  
@@ -539,10 +539,11 @@ ciudadano - dexoren
 civilización - sivilia  
 civilizado - sivili  
 ciénaga (pantano) - potistan  
-claro (luminoso) - nuri  
+claro (luminoso) - foti  
 claro - klari  
 clarín (corneta) - buge  
-clasificar - klase  
+clase (categoría) - klase  
+clasificar - klasa  
 clavo (pincho, punta) - dinge  
 clima (tiempo) - tenke  
 clima - klime  
@@ -1262,6 +1263,8 @@ gustarse (querer) - fila
 gusto (sabor) - guste  
 Guyana - gayania  
 Guyana Francesa - giyania  
+género gramatical - baxi jinse  
+género social - soci jinse  
 ##h
 haber (en el pasado) - pas (paso)  
 habilidad - able  
@@ -1283,7 +1286,7 @@ hacha - futawe
 hachís - haxixe  
 hafnio - hafnium  
 Haití - haitia  
-halo (aureola) - nurocirke  
+halo (aureola) - fotocirke  
 hamaca - hamake  
 hasio - hasium  
 hasta (también) - ato  
@@ -1393,6 +1396,7 @@ importante - hami
 importar - hamu  
 importar - indomisa  
 imprimir - capa  
+impuesto (tributo, tarifa) - tarife  
 imán - mangete  
 inclinar - terca  
 India - bartia  
@@ -1531,7 +1535,6 @@ kilometre - kilometre
 Kirguizistán - kirgizia  
 Kiribati - kiribatia  
 kiwi fruta - kiwe  
-klase (tipo, categoría) - klasa  
 konkani - konkani  
 Kosovo - kosovia  
 Kuwait - kuwaitia  
@@ -1643,7 +1646,7 @@ lutecio - lutetium
 luteranismo - lutheristia  
 luterano - lutheristi  
 Luxemburgo - luksemburgia  
-luz (iluminación) - nure  
+luz (iluminación) - fote  
 lágrima - kanosuy  
 lámpara - lampe  
 léxico - leksi  
@@ -1801,7 +1804,7 @@ ministro - minister
 minoría - minoria  
 minuto - minute  
 minúsculo (diminuto) - mini  
-mismo (yo) - tane  
+mismo (yo) - aute  
 mito (cuento divino) - dewi sage  
 miércoles - var 3 (var tin)  
 mochila - rukosake  
@@ -2012,6 +2015,7 @@ ordinario (habitual) - adi
 oreja - ore  
 orfanato - yatimodom  
 orgasmo - orgazme  
+orgánico - biyi  
 oriental - dongi  
 origen - asle  
 original - asli  
@@ -2380,7 +2384,7 @@ raro (extraño) - bizari
 ratón - muxe  
 raya (linea) - linye  
 rayo - rade  
-rayo luminoso - nurorade  
+rayo luminoso - fotorade  
 raza - rase  
 razonable - razoni  
 razón (causa) - sabe  
@@ -2581,7 +2585,8 @@ serie - serye
 serpiente (culebra) - serpe  
 servicio - serve  
 servir - serva  
-sexo - jinse  
+sexo (género) - jinse  
+sexo - biyi jinse  
 sexo - sekse  
 sexy (sexual) - seksi  
 Seychelles - sexel nesia  
@@ -2709,8 +2714,7 @@ taponar - tapa
 tapón (tapa) - tape  
 tarde (después de mediodía) - xamoden  
 tarjeta (carta) - karde  
-tasa (precio, impuesto, tarifa) - takse  
-tasa (precio, tarifa) - tarife  
+tasa (precio, cuota, tarifa) - takse  
 tatuaje - tataw  
 taxi (cab) - taksogare  
 Tayikistán - tajikia  
@@ -2748,7 +2752,7 @@ terbio - terbium
 terminar (acabar) - fina  
 termómetro - termometer  
 terremoto - sisme  
-terreno (solar) - lote  
+terreno (solar) - zemotike  
 terror - terore  
 terrorismo - teroristia  
 terrorista - teroriste  
@@ -2768,6 +2772,7 @@ tikka masala - masali tike
 Timor - timor  
 Timor Oriental - dongi timoria  
 tinta - moge  
+tipo (género) - tipe  
 tira (faja, vendaje, cinta) - faxe  
 tirano - tiran  
 tiranía - tirania  
@@ -2779,7 +2784,7 @@ tocar (rozar) - toca
 tocar música - musika  
 todas las cosas - pan xey  
 todas las personas - pan ren  
-todavía (aún) - hay (hayo)  
+todavía (aún) - yexo  
 todo - pan (pani)  
 Togo - togolia  
 togolés - togoli  
