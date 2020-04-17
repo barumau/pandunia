@@ -11,7 +11,7 @@ Many people are used to seeing this kind of world map. It is the
 famous _Mercator projection_ map. Unfortunately it distorts the land
 area terribly.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/mercator.jpg "Mercator projection")
+![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mercator projection")
 
 Why is that? The world is a 3-dimensional globe and drawing it into a
 flat, 2-dimensional map is not easy. Equal-area projections, such as
@@ -20,19 +20,19 @@ sizes of Greenland and Africa in these two maps. In the Mercator
 projection Greenland appears bigger, but the Peters projection shows
 correctly that in reality Africa is 14 times bigger than Greenland.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/cylindrical.jpg "Peters projection")
+![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Peters projection")
 
 That is the natural world. We live also in a human world, which is
 divided by borders between nations. In a normal map of world
 countries, sizes of the countries are defined by their geographic
 area.
 
-![](http://archive.worldmapper.org/images/largepng/1.png "Map by area")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Map by area")
 
 However the map projection below is based on the population of
 countries, not their geographic area.
 
-![](http://archive.worldmapper.org/images/largepng/2.png "Map by Population 2002")
+![](http://www.pandunia.info/grafe/karte_da_insania.png "Map by Population 2018")
 
 In our opinion the world language should represent the human world.
 Every part of the world, every culture, should be treated fairly and
@@ -197,7 +197,7 @@ Neither word tone nor variable word stress are necessary in the world
 language.
 
 Pandunia has fixed stress. The stress falls on the syllable that is
-before the last consonant. Like this: **me wóla lóga bón dúnia báx.**
+before the last consonant. Like this: **me wána lóga bón dúnia báxe.**
 
 Pandunia doesn't have lexical tone.
 

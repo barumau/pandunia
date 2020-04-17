@@ -6,8 +6,7 @@ Ofte homoj vidas mondan mapon kiel ĉi sube. Ĝi estas la renoma
 _Merkatora projekcio_. En tia mapo la tera surfaco estas ege
 distordita.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/mercator.jpg
-"Mercator projection")
+![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Mapo laŭ Mercator")
 
 Kial? Ĉar la mondo estas globa kaj ne plata kiel normala mapo!
 Egalareaj projekcioj, kiel _projekcio de Peters_ ĉi sube, montras
@@ -16,19 +15,17 @@ mapoj de Merkator kaj Peters. Groenlando ŝajnas pli granda sur la
 Merkatora mapo, sed la mapo de Peters montras ĝuste ke la areo de
 Afriko estas 14-oble pli granda ol la areo de Groenlando.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/cylindrical.jpg
-"Peters projection")
+![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Mapo laŭ Peters")
 
 Tio estas la fizika mondo. Ni vivas ankaŭ en la mondo de landoj kaj
 nacioj. En normalaj mapoj de landoj, areoj estas geografiaj.
 
-![](http://www.worldmapper.org/images/largepng/1.png "Map by area")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Mapo laŭ landareoj")
 
 Sed la ĉi suba mapo montras areojn de landoj laŭ ilia nombro de
 loĝantoj.
 
-![](http://www.worldmapper.org/images/largepng/2.png "Map by
-Population 2002")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Mapo laŭ nombro de loĝantoj 2018")
 
 Verkistoj de Pandunia opinias ke la mondlingvo devas reprezenti la
 homa mondo, ne la mondoj de politika aŭ kultura potenco. Ĉiu parto de
