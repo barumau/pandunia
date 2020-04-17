@@ -7,7 +7,7 @@ theme: cerulean
 nav:
     - Home: 'index.md'
     - 'Info':
-        - 'Introduction': dunia_bax.md
+        - 'Introduction': dunia_baxe.md
         - 'Principles': filsof.md
         - 'World words': dunia_loge.md
         - 'Questions & Answers': eske_i_jawabe.md

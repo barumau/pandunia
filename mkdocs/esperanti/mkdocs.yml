@@ -6,7 +6,7 @@ theme: cerulean
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Info':
-        - 'Enkonduko': dunia_bax.md
+        - 'Enkonduko': dunia_baxe.md
     - 'Lecionoj':
         - 'Prononco': abc.md
         - 'Utilaj frazoj': fraze.md
