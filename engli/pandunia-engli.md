@@ -22,7 +22,6 @@ ade - habit
 adi - ordinary (routine, normal)  
 adrese - address  
 adresosimbol (@) - @ symbol  
-adulte - adult  
 afrike - Africa  
 afriki - African  
 afrikofiler - afrophile  
@@ -149,6 +148,7 @@ atome - atom
 auda - hear (listen)  
 aure - gold  
 australia - Australia  
+aute - self (identity)  
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
@@ -239,6 +239,7 @@ batonopang - baguette
 batre - battery  
 baxa - speak (communicate)  
 baxe - language (communication)  
+baxi jinse - grammatical gender  
 baxokanun - grammar  
 baxokanuni - grammatical  
 baxolojia - linguistics  
@@ -287,6 +288,8 @@ biskute - biscuit (cookie)
 bismute - bismuth  
 bixu - must  
 biye - organic life  
+biyi - organic  
+biyi jinse - biological sex  
 biyolojia - biology (study of life)  
 bizari - odd (strange, weird)  
 bizi - busy (occupied)  
@@ -519,13 +522,14 @@ doici - German
 doicia - Germany  
 dokume - document (record, file)  
 dolare - dollar  
-dom (dome) - home (residence)  
-doma - accommodate  
+dolfine - dolphin  
+doma - live in (reside in, inhabit)  
+dome - home (residence)  
 domi - domestic  
 dominikania - Dominican Republic  
 dominikia - Dominica  
 dominogem - dominoes  
-domu - live (dwell, reside)  
+domisa - accommodate  
 dona - give  
 done - gift  
 donge - east (orient)  
@@ -559,6 +563,7 @@ dulo fena - halve (divide by two)
 dulo multa - double (multiply by two)  
 dulomeni - double entendre  
 duloromansi - biromantic  
+duloseksi - bisexual  
 dumane - smoke  
 dume - tail  
 duni - global  
@@ -738,10 +743,15 @@ forme - form (shape)
 forti - strong  
 fortia - force (strength)  
 forum (forume) - forum (public space)  
+fote - light (illumination)  
+foti - light (bright)  
+fotobaton - torch  
+fotocirke - halo (aureola)  
 fotograf - photograph  
 fotografer - photographer  
 fotografia - photography  
 fotomaxin - camera  
+fotorade - ray of light  
 fransi krepe - crepe  
 fransi polinesia - French Polynesia  
 fransia - France  
@@ -749,7 +759,6 @@ fransium - francium
 fuga - return (restore, recover, resume)  
 fuka - wear clothes  
 fuke - clothing  
-fulani - certain (indefinite, indeterminate, some, so-and-so)  
 fule - flower  
 fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
@@ -806,7 +815,6 @@ gawa - raise (lift)
 gawe - top  
 gawi - high  
 gawia - height (altitude)  
-gawolada - upload  
 gawotali - vertical  
 gawu - rise (go up)  
 gayania - Guyana  
@@ -930,7 +938,6 @@ hawayi nesia - Hawaiian archipelago
 hawayia - Hawaii  
 hawe - wind  
 haxixe - hashish  
-hay (hayo) - still (yet)  
 hayakia - Armenia  
 haye - life  
 hayi - live (be alive, living)  
@@ -971,7 +978,7 @@ hoke - hockey
 holere - cholera  
 holi - whole (entire)  
 holmium - holmium  
-holograme - hologram  
+holografe - hologram  
 hon (honi) - hundred (##)  
 hondurasia - Honduras  
 hongong - Hong Kong, SAR China  
@@ -1084,8 +1091,9 @@ je - which (relative pronoun)
 jebe - pocket  
 jebria - algebra  
 jeinistia - Jainism  
-jeka - borrow  
+jeka - borrow (lend)  
 jekodona - lend  
+jekogeta - borrow  
 jekolekse - loanword  
 jele - gel (jelly)  
 jelosi - jealous  
@@ -1110,7 +1118,7 @@ jibutia - Djibouti
 jina - advance (progress, enter)  
 jino - foreward  
 jinomun - entrance  
-jinse - gender (biological sex)  
+jinse - gender (sex)  
 jinsi - sexual (pertaining to gender)  
 jirafe - giraffe  
 joke - joke  
@@ -1158,6 +1166,7 @@ kake - excrement (shit)
 kalalia - Greenland  
 kalame - pen (writing tool)  
 kale - void (empty space)  
+kalende - calendar  
 kali - empty (void)  
 kali harfe - space (character)  
 kalifornium - californium  
@@ -1288,6 +1297,7 @@ kiribatia - Kiribati
 kirili abace - Cyrillic alphabet  
 kirisa - rent out (let, lease)  
 kirmi - red  
+kirmi linse - bobcat  
 kitaba - write  
 kitabe - writing (text)  
 kitabia - library  
@@ -1345,6 +1355,7 @@ konfuzistia - Confucianism
 konge - hole  
 kongoli - Congolese  
 konkani - Konkani  
+konserte - concert  
 konsida - consider (regard)  
 konsone - consonant  
 kontinu - continue (resume)  
@@ -1362,6 +1373,7 @@ korone - crown
 koronovirus - corona virus  
 korta - shorten  
 korti - short (brief)  
+kortokrokodile - alligator  
 kose - cough  
 kosmi - cosmic  
 kosmia - space (cosmos, universe)  
@@ -1383,6 +1395,7 @@ kreme - cream
 kremi - creamy (cream colored)  
 krepe - pancake  
 kreperia - crêperie  
+krevete - shrimp (prawn)  
 krime - crime  
 krimi - criminal  
 kriste - Christ (messiah)  
@@ -1394,6 +1407,8 @@ krita - cry (shout)
 kriton - krypton  
 krize - crisis  
 krizi - critical (pertaining to crisis)  
+krokodile - crocodillian  
+krokroke - frog  
 kromium - chromium  
 krote - mole (burrowing animal)  
 kruasante - croissant  
@@ -1514,6 +1529,7 @@ limogon - pentagon
 limone - lemon  
 limonorangi - yellow  
 linfe - lymph  
+linse - lynx  
 linye - line (stripe)  
 linyoparce - line break (newline)  
 lisane - tongue  
@@ -1547,16 +1563,17 @@ lone - discussion (debate, discourse)
 longa - lengthen (prolong)  
 longi - long (lengthy)  
 longia - length  
+longokrokodile - crocodile  
+lontre - otter  
 lose - screw  
 lote - batch (lot)  
-lote - lot (plot of land)  
 lowa - leak  
 lowa sang - bleed  
 lugi - green  
 luksemburgia - Luxembourg  
 lule - pearl  
 lune - moon  
-lunge - oriental dragon  
+lunge - dragon  
 lusune - asparagus  
 luta - rob (loot, plunder, pillage, ransack)  
 luter - robber (plunderer)  
@@ -1650,6 +1667,7 @@ matrase - mattress
 maturi - mature (ripe, adult)  
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
+maturoren - adult  
 maw (mawe) - cat  
 max (maxo) - more  
 max ko bas - too much  
@@ -1887,6 +1905,8 @@ nepalia - Nepal
 nese - island  
 nesia - archipelago  
 nete - net  
+netodona - upload  
+netogeta - download  
 netoloke - website  
 netune - Neptune  
 netunium - neptunium  
@@ -1970,11 +1990,6 @@ novo - just (recently)
 nudi - naked (bare, nude)  
 nudiste - nudist  
 nudistia - nudism  
-nure - light (illumination)  
-nuri - light (bright)  
-nurobaton - torch  
-nurocirke - halo (aureola)  
-nurorade - ray of light  
 nuton - newton (N)  
 o - or  
 ##o
@@ -2237,6 +2252,7 @@ puja - worship (revere)
 puje - worship (reveration)  
 pule - bridge  
 pulmone - lung  
+pume - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 pupe - doll (puppet)  
 pura - fill  
@@ -2530,6 +2546,7 @@ slovakia - Slovakia
 slovenia - Slovenia  
 soca - socialize (interact)  
 soci - social  
+soci jinse - social gender  
 soci media - social media  
 socia - society (association)  
 sociste - socialist  
@@ -2619,19 +2636,17 @@ taige - taiga
 taiwania - Taiwan (Republic of China)  
 tajikia - Tajikistan  
 taksa - collect fees or taxes  
-takse - tax (fee, fare)  
+takse - fee (fare)  
 taksogare - taxi (cab)  
 taksometer - taximeter  
 tala - lower (put down)  
 tale - bottom  
 tali - low  
 talium - thallium  
-talolada - download  
 tamare - date fruit  
 tami - greedy  
 tamili - Tamil  
 tanah - Tanakh (Jewish Bible)  
-tane - self  
 tani - personal (intimate, private)  
 tanke - tank (reservoir)  
 tantalum - tantalum  
@@ -2640,7 +2655,7 @@ tanzania - Tanzania
 tapa - plug (stop with a plug)  
 tape - stopper (cap, peg, tap)  
 tapula - unplug (uncork)  
-tarife - fee (fare, tariff, rate)  
+tarife - tarif (tax, duty)  
 tarja - translate (interpret)  
 tarje - translation (interpretation)  
 tarjer - interpreter (translator)  
@@ -2703,6 +2718,7 @@ ting - stop
 tinga - stop (halt)  
 tingu - stop (halt)  
 tinogon - triangle  
+tipe - type (kind, genre)  
 tira - pull (draw, drag)  
 tira milke - milk (draw milk)  
 tiran - tyrant  
@@ -2719,7 +2735,7 @@ tolera - tolerate
 tolo - top (spinning top)  
 tomate - tomato  
 tone - tone (note, pitch, shade)  
-tong - barrel (can, cask)  
+tonge - barrel (can, cask)  
 tongia - Tonga  
 tope - hat (cap)  
 torium - thorium  
@@ -2863,6 +2879,7 @@ waw - wow! (gee!)
 waxa - wash  
 waxington d c (do ce) - Washington D.C.  
 waxomaxin - washing machine  
+waxurse - raccoon  
 waya - oust (expel)  
 waye - outside (exterior)  
 wayi - outer (external)  
@@ -2904,6 +2921,7 @@ xamoniame - dinner
 xane - mountain (hill)  
 xanghai - Shanghai  
 xanti - calm (peaceful)  
+xarke - shark  
 xarme - shame (disgrace)  
 xarnir - hinge (pivot)  
 xarta - stipulate  
@@ -2963,7 +2981,7 @@ yago - about (approximately, nearly, almost)
 yagonese - peninsula  
 yake - yak  
 yala - hurry (hasten)  
-yange - kind (type, style)  
+yange - kind (style, sort, type)  
 yasene - ash tree  
 yatime - orphan  
 yatimodom - orphanage  
@@ -2972,6 +2990,7 @@ yehudi - Jewish
 yehudistia - Judaism  
 yemenia - Yemen  
 yesus - Jesus  
+yexo - still (yet)  
 yey - yay! (yeah!)  
 yeze - coconut tree  
 yi - this (these)  
@@ -3018,6 +3037,7 @@ zemokaski plate - tectonic plate
 zemolaskeria - ground force (army)  
 zemolojia - geology  
 zemomedi samude - Mediterranean  
+zemotike - lot (plot of land)  
 zeze - fly (housefly)  
 zigzage - zigzag  
 zikure - ziggurat  

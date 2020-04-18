@@ -207,7 +207,7 @@ lähteitä: espanja: si, portugali: sim, yleiskiina: 是 "shì", shanghainkiina:
 **me no sarah.**
 Minä en ole Sara.
 
-**me no dotor.**
+**me no dotore.**
 Minä en ole lääkäri.
 
 **eska te bon?**
@@ -766,7 +766,7 @@ Matkustatko junalla?
 **mome safara ca london pa paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar polo longi.**
+**safare multo longi.**
 Matka on hyvin pitkä.
 
 

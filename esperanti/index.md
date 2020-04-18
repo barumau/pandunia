@@ -30,7 +30,7 @@ Rimarkindaj trajtoj de pandunio estas:
 
 ## Artikoloj
 
-[Pandunio - egale monda lingvo](dunia_bax.md).
+[Pandunio - egale monda lingvo](dunia_baxe.md).
 
 ## Komunumo
 

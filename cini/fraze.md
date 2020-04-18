@@ -29,7 +29,7 @@
 **salam cute!**
 再见！
 
-**salam safar!**
+**salam safare!**
 一路平安！
 
 
@@ -194,10 +194,10 @@ We greet you.
 
 ### abla <small>会</small>
 
-**me abla gida kar.**
+**me abla xofa gare.**
 我会开车。
 
-**le no abla gida kar.**
+**le no abla xofa gare.**
 他不知道怎么开车。
 
 **eska te abla xula le?**

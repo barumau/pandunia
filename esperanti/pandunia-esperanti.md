@@ -17,7 +17,6 @@ aciya - terni
 adali - justa  
 adalia - justeco  
 adrese - adreso  
-adulte - plenaĝa  
 afrike - Afriko  
 afriki - afrika  
 afrikofiler - afrikamanto  
@@ -64,6 +63,7 @@ analize - analizo
 ande - ovo  
 andes - Andoj  
 anime - kartuno  
+anjile - mesaĝo  
 anker - ankro  
 antene - anteno  
 anti - kotraŭa  
@@ -351,10 +351,11 @@ dinogur - pastro
 diske - disko  
 disprosium - disprozio  
 dolare - dolaro  
-dom (dome) - hejmo (loĝejo)  
-doma - loĝigi  
+dolfine - delfeno  
+doma - loĝi  
+dome - hejmo (loĝejo)  
 domi - hejma  
-domu - loĝi  
+domisa - loĝigi  
 dona - doni  
 done - donaco  
 donge - oriento  
@@ -503,6 +504,10 @@ forme - formo
 forti - forta  
 fortia - forto  
 forum (forume) - forumo  
+fote - lumo  
+foti - luma  
+fotobaton - torĉo  
+fotocirke - halo  
 fotograf - foto  
 fotografer - fotisto  
 fotografia - fotografio  
@@ -512,7 +517,6 @@ fransia - Francio
 fransium - franciumo  
 fuka - vesti  
 fuke - vesto  
-fulani - iu  
 fule - floro  
 fulovaze - vazo (florpoto)  
 funca - funkcii  
@@ -627,7 +631,6 @@ hatare - danĝero
 hatari - danĝera  
 hawa - venti  
 hawe - vento  
-hay (hayo) - ankoraŭ  
 haye - vivo  
 hayi - viva  
 hazine - trezoro  
@@ -756,6 +759,7 @@ kaixu - komenciĝi
 kakawe - kakao  
 kake - feko  
 kalame - plumo  
+kalende - kalendaro  
 kali - malplena  
 kalifornium - kaliforniumo  
 kalium - kalio  
@@ -853,6 +857,7 @@ komuni - komuna
 komuniste - komunisto  
 komunistia - komunismo  
 konfuze - Konfuceo  
+konserte - koncerto  
 konsida - rigardi ia  
 kontra - kontraŭ  
 kope - taso  
@@ -988,6 +993,7 @@ matiker - matematikisto
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
+maturoren - plenaĝa  
 maw (mawe) - kato  
 max (maxo) - pli  
 max ko bas - tro  
@@ -1134,10 +1140,6 @@ note - noto (rimarko, komento)
 notobuke - kajero  
 novi - nova  
 novo - ĵus  
-nure - lumo  
-nuri - luma  
-nurobaton - torĉo  
-nurocirke - halo  
 nuton - newtono (N)  
 o - aŭ  
 ##o
@@ -1601,6 +1603,7 @@ yange - speco (tipo, stilo)
 ye - ĉi tio  
 yemenia - Jemeno  
 yesus - Jesuo  
+yexo - ankoraŭ  
 yeze - kokoso  
 yi - ĉi tiu  
 yoge - jogo  

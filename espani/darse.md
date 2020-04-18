@@ -189,7 +189,7 @@ Pidiendo
 **me pliza te salama le.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
-Esta oración es una _oración eje_. El primer verbo, **plisa** = pedir,
+Esta oración es una _oración eje_. El primer verbo, **pliza** = pedir,
 se dirije a **te** como su objeto. Al mismo tiempo **te** sirve
 también como el sujeto del segundo verbo, **salama** = saludar, del
 cual su objeto es **le**. Así **tu** tiene un doble papel: (1) objeto
@@ -211,7 +211,7 @@ pueden hacer frases más cortas.
 **pliza salama le.**
 = Por favor dile hola.
 
-¿Vea cómo la traducción de **plisa** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **pliza** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su
 uso. En español se refleja este cambio mediante el uso de diferentes
 palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los
@@ -231,14 +231,14 @@ utilizado para hacer peticiones corteses.
 = Por favor me da un poco de té.  
 **pliza niama cay.**
 = Por favor beba algo de té.  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **komanda** = ordenar. Se utiliza la misma estructura eje como para pedir con **plisa**.
+Las ordenes son introducidas con **komanda** = ordenar. Se utiliza la misma estructura eje como para pedir con **pliza**.
 
 > **komanda dona cay.**
 = ¡Deme un poco de té!
-> **komanda safa kamar.**
+> **komanda safa kamare.**
 = ¡Limpie la habitación!
 
 
@@ -256,12 +256,12 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Vocabulario
 
 **cay** té.
-**plisa** pedir, solicitar; por favor.
+**pliza** pedir, solicitar; por favor.
 **dona** dar.
 **danke** gracias.
 **e** y.
 **kafe** café.
-**kamar** habitación.
+**kamare** habitación.
 **komanda** to command.
 **o** o.
 **safa** limpiar.
@@ -274,7 +274,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 1. le niama cay.
 2. xefe pliza le sida.
 3. pliza niama kafe o cay.
-4. mame pliza me safa kamar.
+4. mame pliza me safa kamare.
 5. xefe sida e niama kafe.
 
 
@@ -313,7 +313,7 @@ Preguntas de Sí o No
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **plisa**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **pliza**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **eska** = preguntar.
 
 **me eska te niama cay.**
 = Yo preguntarte, tomas té.  
@@ -422,11 +422,11 @@ del verbo convertimos una oración afirmativa en negativa.
  a la palabra que la sigue. si que diferentes alcances de negación
  pueden resultar en función de la ubicación de la palabra negativa.
 
-**me pliza te safa kamar.**
+**me pliza te safa kamare.**
 = Yo te pedi limpiar la habitación.  
-**me no pliza te safa kamar.**
+**me no pliza te safa kamare.**
 = Yo no te pedi limpiar la habitación.  
-**me pliza te no safa kamar.**
+**me pliza te no safa kamare.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -467,7 +467,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Respuestas
 
-1. le no safa kamar.
+1. le no safa kamare.
 2. un kupe no hali.
 3. dul waf no niama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
@@ -525,7 +525,7 @@ de tiempo no son necesarias.
 
 **me niama cay sa predi den.**
 = Yo tomé té ayer.  
-**le safa kamar sa badi den.**
+**le safa kamare sa badi den.**
 = Él limpiará la habitación mañana.  
 **mome festa sa nen 2000 du predi xam.**
 = Nosotros celebraremos la víspera del año 2000.
@@ -578,7 +578,7 @@ Intenta traducir de Español a Pandunia.
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
 3. te niama supe zay.
-4. le safa kamar sa predi den.
+4. le safa kamare sa predi den.
 5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 
@@ -704,5 +704,5 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 1. me wana dona kafe pa xefe.
 2. eska te wana niama suy?
-3. le no wana safa zi kamar.
+3. le no wana safa zi kamare.
 

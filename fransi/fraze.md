@@ -71,7 +71,7 @@ Remarque : **Salam** est une salutation populaire qui est utilisée à la fois p
 
 **danke!** Thanks!
 
-**pol danke!** Merci beaucoup !
+**multo danke!** Merci beaucoup !
 
 **si, danke.** Oui, merci.
 
@@ -188,7 +188,7 @@ Dans ce cas, **si** ne sera plus traduit comme "être", mais comme "en effet".
 
 **me no sarah.** Je ne suis pas Sara.
 
-**me no dotor.** Je ne suis pas doctor.
+**me no dotore.** Je ne suis pas doctor.
 
 **eska te bon?** Est-ce que tu vas bien ?  
 **si. me bon.** Oui, je vais bien.
@@ -399,7 +399,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **pliza niama kafe.** Servez-vous un café, faites donc !
 
-**pliza laya dom.** Viens à la maison, s’il te plait !
+**pliza laya dome.** Viens à la maison, s’il te plait !
 
 **pliza helpa me.** Aide moi, s’il te plait.
 
@@ -458,7 +458,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **me abla xofa gare.** Je sais conduire une voiture.
 
-**le no abla gida gare.** Il/elle ne sait pas conduire une voiture.
+**le no abla xofa gare.** Il/elle ne sait pas conduire une voiture.
 
 **eska te abla xula le?** Est-ce que tu sais réparer ça ?
 
@@ -555,7 +555,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **te gowa ke?** Où vas-tu ?
 
-**me gowa dom.** Je vais à la maison.
+**me gowa dome.** Je vais à la maison.
 
 **me bixu gowa ke?** Où est-ce que je dois aller ?
 
@@ -574,7 +574,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **me laya ca dubay.** Je viens de Dubaï.
 
-**me laya dom badoden.** J'irai chez moi / à la maison demain.
+**me laya dome badoden.** J'irai chez moi / à la maison demain.
 
 
 ### safara <small>voyager</small>
@@ -583,7 +583,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **mome safara ca london pa paris.** Nous voyageons de Londres à Paris.
 
-**safar polo longi.** Le voyage est très long.
+**safare multo longi.** Le voyage est très long.
 
 
 ### sa <small>dans, sur, à</small>
@@ -605,15 +605,16 @@ Astuce ! Vous pouvez utiliser **sa** comme préposition ou tout seul comme un ve
 **me werka sa...** Je travaille à ...
 
 
-### domu <small>vivre, habiter, résider</small>
+### doma <small>vivre, habiter, résider</small>
 
-**te domu ke?** Où est-ce que tu habites ?
+**te doma ke?** Où est-ce que tu habites ?
 
-**me domu singapur.** Je vis à Singapore.
+**me doma singapur.** Je vis à Singapore.
 
-**eska te domu yi hotel?** Est-ce que tu résides dans cet hôtel ?
+**eska te doma yi hotel?** Est-ce que tu résides dans cet hôtel ?
 
-**Astuce :** On peut dire également **te domu sa ke?** au lieu de **te domu ke**. Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **sa** n'est pas nécessaire.
+**Astuce :** On peut dire également **te doma sa ke?** au lieu de **te doma ke**.
+Cependant **doma** couvre déjà l'idée de se trouver quelque part, donc **sa** n'est pas nécessaire.
 
 
 ### denga <small>attendre</small>
@@ -642,7 +643,7 @@ L'homme est en train de regarder la femme.
 **le zayo xefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
-**le zayo sa dom.**  
+**le zayo sa dome.**  
 En ce moment, il / elle est à la maison.
 
 
@@ -687,7 +688,7 @@ L'homme regardera la femme.
 **le wilo xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**le wilo sa dom.**  
+**le wilo sa dome.**  
 Il / Elle sera à la maison.
 
 
@@ -776,7 +777,7 @@ C’est le meilleur (de tous).
  Combien ça coûte ? 
 **nol.**
 Rien.
-**le kosta lil / pol.**
+**le kosta lil / multo.**
 C'est bon marché. / C'est cher.  
 
 **mome plizu laya.**

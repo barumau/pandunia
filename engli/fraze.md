@@ -82,7 +82,7 @@ Indonesian: selamat.</small>
 **danke!**
 Thanks!
 
-**pol danke!**
+**multo danke!**
 Thanks a lot!
 
 **si, danke.**
@@ -199,7 +199,7 @@ Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**. It is just a regular
 verb, not a special _question tag_. In fact, the previous question is simply
-abbreviated from **me eska te dotor.** (I ask, you doctor?) by dropping out the
+abbreviated from **me eska te dotore.** (I ask, you doctor?) by dropping out the
 first word.
 
 **eska te bon?**
@@ -254,7 +254,7 @@ The apple is a fruit.
 **me no sarah.**
 I'm not Sarah.
 
-**me no dotor.**
+**me no dotore.**
 I'm not a doctor.
 
 **eska te bon?**
@@ -336,16 +336,16 @@ What's this?
 **ye aple.**
 This is an apple.
 
-**ye ros aple.**
+**ye kirmi aple.**
 This is a red apple.
 
-**yi aple ros.**
+**yi aple kirmi.**
 This apple is red.
 
-Note: When an adjective, like **ros**, is placed before a noun, it works as a
+Note: When an adjective, like **kirmi**, is placed before a noun, it works as a
 modifier. When it follows the noun, it works as an adjectival verb.
 
-**ye ros.**
+**ye kirmi.**
 This is red.
 
 
@@ -357,13 +357,13 @@ What's that?
 **we aple.**
 That is an apple.
 
-**we ros aple.**
+**we kirmi aple.**
 That is a red apple.
 
-**wi aple ros.**
+**wi aple kirmi.**
 That apple is red.
 
-**we ros.**
+**we kirmi.**
 That is red.
 
 
@@ -388,7 +388,7 @@ So **me du** means "my", **te du** means "your" and so on.
 **le ke?**
 Who's he/she?
 
-**le si me du doste.**
+**le si mi doste.**
 He/she is my friend.
 
 **me si sarah du doste.**
@@ -597,7 +597,7 @@ I understand.
 **pardon. me no aha te.**
 Sorry. I don't understand you.
 
-**me no bas aha te.**
+**me no baso aha te.**
 I didn't quite understand you.
 
 **me aha nole.**
@@ -609,7 +609,7 @@ I don't understand at all.
 **me abla xofa gare.**
 I can drive a car.
 
-**le no abla gida gare.**
+**le no abla xofa gare.**
 He/she doesn't know how to drive a car.
 
 **eska te abla xula le?**
@@ -621,7 +621,7 @@ Can you speak Pandunia?
 **me abla pandunia.**
 I can speak Pandunia.
 
-**me abla lil pandunia.**
+**me abla lilo pandunia.**
 I can speak a little Pandunia.
 
 **me no abla engli.**
@@ -645,8 +645,8 @@ We talk to each other.
 **ze loga "cat" sa ki yange sa pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke sa pandunia?**
-What is "cat" in Pandunia?
+**"cat" logu ko sa pandunia?**
+How is "cat" said in Pandunia?
 
 **maw loga miaw.**
 Cat says meow.
@@ -711,11 +711,11 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**eska tote baxa pandunia.**
-Do you speak in Pandunia?
+**eska tote abla baxa pandunia.**
+Can you speak Pandunia?
 
-**mome baxa pandunia.**
-We speak in Pandunia.
+**mome abla baxa pandunia.**
+We can speak Pandunia.
 
 **eska te abla baxa engli?**
 Can you speak English?
@@ -752,7 +752,7 @@ To whom should I go?
 **haida gowa!**
 Let's go!
 
-**haida gowa sa pede**
+**haida gowa sa fute**
 Let's go by foot!
 
 
@@ -767,7 +767,7 @@ Where do you come from?
 **me laya ca dubay.**
 I come from Dubai.
 
-**me laya dom badoden.**
+**me laya dome badoden.**
 I will come home tomorrow.
 
 
@@ -779,7 +779,7 @@ Do you travel by train?
 **mome safara ca london pa paris.**
 We travel from London to Paris.
 
-**safar polo longi.**
+**safare multo longi.**
 The voyage is very long.
 
 
@@ -809,20 +809,19 @@ Tip! You can use **sa** as a preposition or alone as the verb.
 I work at ...
 
 
-### domu <small>to live, reside</small>
+### doma <small>to live, reside</small>
 
-**te domu ke?**
+**te doma ke?**
 Where do you live?
 
-**me domu singapur.**
+**me doma singapur.**
 I live in Singapore.
 
-**eska te domu yi hotel?**
+**eska te doma yi hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **te domu sa ke?** instead of **te domu ke**.  However
-**doma** already covers the meaning of being at somewhere, so **sa** is not
-necessary.
+Tip: It is also okay to say **te doma sa ke?** instead of **te doma ke**.
+However **doma** already covers the meaning of being at somewhere, so **sa** is not necessary.
 
 
 ### denga <small>to wait</small>
@@ -844,7 +843,7 @@ I wait for you in the hotel.
 
 ### zayo <small>currently</small>
 
-**me zay salama ti doste.**  
+**me zayo salama ti doste.**  
 I am greeting your friend.
 
 **man zayo vida fem.**  
@@ -853,7 +852,7 @@ The man is looking at the woman.
 **le zayo xefe.**  
 He or she is currently the chief.
 
-**le zayo sa dom.**  
+**le zayo sa dome.**  
 He or she is currently at home.
 
 
@@ -862,7 +861,7 @@ He or she is currently at home.
 **me paso salama te du doste.**  
 I greeted your friend.
 
-**man pas vida fem.**  
+**man paso vida fem.**  
 The man looked at the woman.
 
 **le paso xefe.**  
@@ -898,7 +897,7 @@ The man will see the woman.
 **le wilo xefe.**  
 He or she will be the chief.
 
-**le wilo sa dom.**  
+**le wilo sa dome.**  
 He or she will be at home.
 
 
@@ -932,10 +931,10 @@ I will take a coffee.
 **pliza kapa un kafe pa me.**
 Please take one coffee for me.
 
-**te pas kapa pese ya me.**
+**te lewo kapa pese ca me.**
 You already got money from me.
 
-**me kapa un bir.**
+**me kapa un bire.**
 I will take a beer.
 
 
@@ -989,10 +988,10 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**le kosta lil / pol.**
+**le kosta lil / multo.**
 It is cheap / expensive.  
 
-**mome plisu laya.**
+**mome plizu laya.**
 We are being called.
 
 **me serca tualete.**

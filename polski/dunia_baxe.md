@@ -10,7 +10,7 @@ być równo światowym językiem pomocniczym.
 Wiele ludzi jest przyzwyczajonych do patrzenia na taką mapę świata. To sławna mapa w _odwzorowaniu Merkatora_. Niestety, okropnie
 zniekształca powierzchnię lądową.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/mercator.jpg "Odwzorowanie Merkatora")
+![](http://www.pandunia.info/grafe/karte_da_merkator.jpg "Odwzorowanie Merkatora")
 
 Dlaczego tak jest? Ziemia jest trójwymiarową kulą i narysowanie jej
 na płaskiej, dwuwymiarowej mapie, nie jest łatwe. Odwzorowania
@@ -21,19 +21,19 @@ wygląda na większą, ale odwzorowanie Gall'a-Peters'a pokazuje
 poprawnie, że w rzeczywistości Afryka jest 14 razy większa od
 Grenlandii.
 
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/cylindrical.jpg "Odwzorowanie Gall'a-Peters'a")
+![](http://www.pandunia.info/grafe/karte_da_peters.jpg "Odwzorowanie Gall'a-Peters'a")
 
 Taki jest świat naturalny. Żyjemy też w świecie ludzkim, który jest
 podzielony granicami między państwami. Na normalnej mapie
 politycznej, rozmiary państw są zdefiniowane ich powierzchnią
 geograficzną.
 
-![](http://archive.worldmapper.org/images/largepng/1.png "Mapa według powierzchni")
+![](http://www.pandunia.info/grafe/karte_da_aria.png "Mapa według powierzchni")
 
 Jakkolwiek, mapa poniżej jest oparta o populację państw, nie
 ich powierzchnię geograficzną.
 
-![](http://archive.worldmapper.org/images/largepng/2.png "Mapa według populacji 2002")
+![](http://www.pandunia.info/grafe/karte_da_insania.png "Mapa według populacji 2002")
 
 W naszej opinii, język ogólnoświatowy powinien reprezentować świat
 ludzki. Każda część świata, każda kultura, powinna być traktowane

@@ -193,7 +193,7 @@ käytettään seuraavassa esimerkkilauseessa.
 **me pliza te salama le.**
 = Minä pyydän sinua tervehtimään häntä.
 
-Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi, **plisa**
+Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi, **pliza**
 = pyytää, saa kohteekseen sanan **te**, joka toimii samaan aikaan
 toisen verbin, **salama** = tervehtiä, tekijänä. Sen kohteena on
 **le**. Niinpä sanalla **te** on kaksi roolia: (1) ensimmäisen verbin
@@ -215,7 +215,7 @@ voi tehdä lyhyempiä.
 **pliza salama le.**
 = (Pyydän,) tervehdi häntä.
 
-Huomasitko miten sanan **plisa** rooli muuttui hieman kahdessa
+Huomasitko miten sanan **pliza** rooli muuttui hieman kahdessa
 edellisessä lauseessa? Sanan merkitys ei muuttunut, mutta sen
 käyttötapa muuttui. Eräissä kielissä pyyntöjen muodostamiseen
 käytetään apusanaa kuten englannissa _please_ ja saksassa _bitte_.
@@ -234,7 +234,7 @@ kohteliaiden pyyntöjen ilmaisemiseen.
 = Antaisitko teetä.  
 **pliza niama cay.**
 = Ottaisitko teetä.  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla **komanda** = käskeä, komentaa.
@@ -242,7 +242,7 @@ Käskyt aloitetaan sanalla **komanda** = käskeä, komentaa.
 
 **komanda dona cay.**
 = Anna teetä!  
-**komanda safa kamar.**
+**komanda safa kamare.**
 = Siivoa huone!
 
 Käytännössä napakat käskyt voi tehdä myös pelkällä verbillä ja
@@ -267,12 +267,12 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 ### Sanasto
 
 **cay** tee.
-**plisa** pyytää; ole hyvä.
+**pliza** pyytää; ole hyvä.
 **dona** antaa.
 **danke** kiitos.
 **i** ja.
 **kafe** kahvi.
-**kamar** huone.
+**kamare** huone.
 **orda** käskeä, komentaa.
 **u** tai, vai.
 **safa** siivota.
@@ -285,7 +285,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 1. le niama cay.
 2. xefe pliza le sida.
 3. pliza niama kafe u cay.
-4. mame pliza me safa kamar.
+4. mame pliza me safa kamare.
 5. xefe sida i niama kafe.
 6. (komanda) salama xefe!
 
@@ -324,7 +324,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 ### Kysyminen
 
 Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla
-saranarakenteella kuin pyynnöt, joissa käytetään sanaa **plisa**.
+saranarakenteella kuin pyynnöt, joissa käytetään sanaa **pliza**.
 Kysymyslauseet aloitetaan sanalla **eska** = kysyä.
 
 **me eska te niama cay.**
@@ -350,7 +350,7 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
 **eska xefe niama kafe?**
 = Juoko päällikkö kahvia?  
-**eska pape safa kamar?**
+**eska pape safa kamare?**
 = Siivoaako isä huoneen?  
 **eska niki baxa pandunia?**
 = Puhuuko Niki panduniaa?
@@ -442,11 +442,11 @@ tervehtimisen olemassaolon. Panduniassa kieltosana vaikuttaa aina
 seuraavaan sanaan. Siis eri asiat tulevat kielletyksi, kun kieltosanan
 paikka lauseessa muuttuu.
 
-**me pliza te safa kamar.**
+**me pliza te safa kamare.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**me no pliza te safa kamar.**
+**me no pliza te safa kamare.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**me pliza te no safa kamar.**
+**me pliza te no safa kamare.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
@@ -488,7 +488,7 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Harjoitusten vastaukset
 
-1. le no safa kamar.
+1. le no safa kamare.
 2. un kupe no hali.
 3. dul waf no niama supe.
 4. le no tena waf i maw. / le tena no waf i no maw.
@@ -649,7 +649,7 @@ tarvita muita aikaa ilmaisevia sanoja.
 
 **me jenu sa nen 2003.**
 = Minä synnyin _vuonna 2003_.  
-**le safa kamar sa badi den.**
+**le safa kamare sa badi den.**
 = Hän siivoa huoneen _huomenna_.
 
 
@@ -679,7 +679,7 @@ Käännä seuraavat lauseet panduniaksi.
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
 3. te niama kafe zay.
-4. le safa kamar sa predi den.
+4. le safa kamare sa predi den.
 5. maw niama milke sa badi den.
 6. ti mame festa sa predi noce.
 

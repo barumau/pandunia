@@ -31,7 +31,7 @@ Quelques traits remarquables du pandunia :
 
 ## Articles
 
-- [Le pandunia, une nouvelle langue de communication mondiale](dunia_bax.md)
+- [Le pandunia, une nouvelle langue de communication mondiale](dunia_baxe.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
 - [Esperanto vs. Pandunia](esperanti_i_pandunia.md)

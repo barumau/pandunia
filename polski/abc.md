@@ -45,18 +45,15 @@ Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w 
 
 Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 
-1. Słowa z tylko jedną sylabą są akcentowane. Np. máw, cíng.
-2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. komún, bazár, kamís.
-3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nówi, dúnia, musíke.
+1. Słowa z tylko jedną sylabą są akcentowane. Np. máw.
+2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. hotél.
+3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. nóvi, dúnia, musíke.
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     dunia si momi sundari planete.  
+    /dúnia sí mómi sundári planéte./
 
-     me wana loga komun bax, le si pandunia.  
-    /mé wána lóga komún báx, lé sí pandúnia./
-
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
+     me wana loga komuni baxe, le si pandunia.  
+    /mé wána lóga komúni báxe, lé sí pandúnia./
 
 
 ## Wielkość liter

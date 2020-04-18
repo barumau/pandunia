@@ -22,7 +22,6 @@ ade - costumbre (hábito)
 adi - ordinario (habitual)  
 adrese - dirección  
 adresosimbol (@) - arroba (@)  
-adulte - adulto  
 afrike - África  
 afriki - africano  
 aga - si (suponer)  
@@ -85,7 +84,7 @@ andoria - Andorra
 angolia - Angola  
 anima - animar  
 anime - animación (dibujo animado)  
-anjile - message  
+anjile - mensaje  
 anjiler - mensajero  
 anker - ancla  
 anta - oponerse (resistir)  
@@ -146,6 +145,7 @@ atome - átomo
 auda - oír (escuchar)  
 aure - oro  
 australia - Australia  
+aute - mismo (yo)  
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
@@ -236,6 +236,7 @@ batonopang - baguette
 batre - pila (batería)  
 baxa - hablar (comunicarse)  
 baxe - lengua (idioma)  
+baxi jinse - género gramatical  
 baxokanun - gramática  
 baxokanuni - gramatical  
 baxolojia - lingüística  
@@ -283,6 +284,8 @@ biskute - galleta
 bismute - bismuto  
 bixu - deber (necesitar)  
 biye - vida orgánica  
+biyi - orgánico  
+biyi jinse - sexo  
 biyolojia - biología  
 bizari - raro (extraño)  
 bizi - ocupado (atareado)  
@@ -511,13 +514,14 @@ doici - alemán
 doicia - Alemania  
 dokume - documento (archivo, nota)  
 dolare - dolar  
-dom (dome) - casa (hogar, residencia)  
-doma - alojar (hospedar)  
+dolfine - delfín  
+doma - vivir (residir)  
+dome - casa (hogar, residencia)  
 domi - doméstico  
 dominikania - Republica Dominicana  
 dominikia - Dominica  
 dominogem - dominó  
-domu - vivir (residir)  
+domisa - alojar (hospedar)  
 dona - dar  
 done - regalo (obsequio)  
 donge - éste  
@@ -550,6 +554,7 @@ dulo fena - reducir a la mitad (dividir en dos)
 dulo multa - doblar (multiplicar por dos)  
 dulomeni - doble sentido  
 duloromansi - birromántico  
+duloseksi - bisexual  
 dumane - humo  
 dume - cola (rabo)  
 duni - global (mundial)  
@@ -729,10 +734,15 @@ forme - forma (figura)
 forti - fuerte  
 fortia - fuerza  
 forum (forume) - foro (espacio público)  
+fote - luz (iluminación)  
+foti - claro (luminoso)  
+fotobaton - antorcha  
+fotocirke - halo (aureola)  
 fotograf - foto (fotografía)  
 fotografer - fotógrafo  
 fotografia - fotografía  
 fotomaxin - cámara  
+fotorade - rayo luminoso  
 fransi krepe - crepa (crep, tortilla de trigo)  
 fransi polinesia - Polinesia Francesa  
 fransia - Francia  
@@ -740,7 +750,6 @@ fransium - francio
 fuga - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuka - llevar (vestir)  
 fuke - ropa (vestimenta)  
-fulani - cierto (algún, unos)  
 fule - flor  
 fulovaze - florero  
 fulu - florecer  
@@ -798,7 +807,6 @@ gawa - levantar (elevar)
 gawe - alto (parte de arriba)  
 gawi - alto  
 gawia - altura (altitud)  
-gawolada - cargar (subir)  
 gawotali - vertical  
 gawu - subir (alzar)  
 gayania - Guyana  
@@ -922,7 +930,6 @@ hawayi nesia - archipiélago de Hawái
 hawayia - Hawái  
 hawe - viento  
 haxixe - hachís  
-hay (hayo) - todavía (aún)  
 hayakia - Armenia  
 haye - vida  
 hayi - vivo (lleno de vida)  
@@ -961,7 +968,7 @@ hoke - hockey
 holere - cólera  
 holi - entero (todo)  
 holmium - holmio  
-holograme - holograma  
+holografe - holograma  
 hon (honi) - cien (##)  
 hondurasia - Honduras  
 hongong - Hong Kong  
@@ -1073,8 +1080,9 @@ je - que (pronombre de las cláusulas relativas)
 jebe - bolsillo  
 jebria - álgebra  
 jeinistia - jainismo  
-jeka - pedir prestado  
+jeka - prestar (pedir prestado)  
 jekodona - prestar  
+jekogeta - pedir prestado  
 jekolekse - préstamo lingüístico  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
@@ -1099,7 +1107,7 @@ jibutia - Yibuti
 jina - avanzar (entrar, adelantar, progresar)  
 jino - adelante  
 jinomun - entrada  
-jinse - sexo  
+jinse - sexo (género)  
 jirafe - jirafa  
 joke - broma (chiste)  
 joker - bromista (chistoso)  
@@ -1146,6 +1154,7 @@ kake - caca
 kalalia - Groenlandia  
 kalame - bolígrafo  
 kale - espacio (separación)  
+kalende - calendario  
 kali - vacío (desocupado)  
 kali harfe - espacio (texto)  
 kalifornium - californio  
@@ -1275,6 +1284,7 @@ kiribatia - Kiribati
 kirili abace - alfabeto cirílico  
 kirisa - alquilar  
 kirmi - rojo  
+kirmi linse - lince rojo (gato montés)  
 kitaba - escribir  
 kitabe - escritura  
 kitabia - biblioteca  
@@ -1283,8 +1293,8 @@ kitaborupe - formateo
 kiwe - kiwi fruta  
 klara - aclarar (clarificar)  
 klari - claro  
-klasa - klase (tipo, categoría)  
-klase - clasificar  
+klasa - clasificar  
+klase - clase (categoría)  
 klime - clima  
 klimolojia - climatología  
 klimomute - cambio climático  
@@ -1330,6 +1340,7 @@ konfuzistia - confucianismo
 konge - agujero (hueco)  
 kongoli - congoleño  
 konkani - konkani  
+konserte - concierto  
 konsida - considerar (pensar en)  
 konsone - consonante  
 kontinu - continuar (reanudar)  
@@ -1346,6 +1357,7 @@ kornonose - rinoceronte
 korone - corona  
 korta - acortar (abreviar)  
 korti - corto (breve)  
+kortokrokodile - caimán (aligátor, yacaré)  
 kose - tos  
 kosmi - cósmico  
 kosmia - cosmos  
@@ -1365,6 +1377,7 @@ kratia - dominio (reinado)
 kreme - crema  
 kremi - cremoso  
 krepe - panqueque (crepa)  
+krevete - camarón  
 krime - crimen (delito)  
 krimi - criminal  
 kriste - Cristo (mesías)  
@@ -1376,6 +1389,8 @@ krita - gritar
 kriton - criptón (kriptón)  
 krize - crisis  
 krizi - crítico (fundamental)  
+krokodile - crocodilio  
+krokroke - rana  
 kromium - cromo  
 krote - topo  
 kruasante - cruasán  
@@ -1494,6 +1509,7 @@ limogon - pentágono
 limone - limón  
 limonorangi - amarillo  
 linfe - linfa  
+linse - lince  
 linye - raya (linea)  
 linyoparce - nueva línea  
 lisane - lengua  
@@ -1525,16 +1541,17 @@ lone - debatir (discutir)
 longa - alargar  
 longi - largo  
 longia - largo (longitud)  
+longokrokodile - cocodrilo  
+lontre - nutria  
 lose - tornillo  
 lote - lote (grupo)  
-lote - terreno (solar)  
 lowa - chorrear  
 lowa sang - sangrar  
 lugi - verde  
 luksemburgia - Luxemburgo  
 lule - perla  
 lune - luna  
-lunge - dragón chino  
+lunge - dragón  
 lusune - espárrago  
 luta - saquear (desvalijar, robar)  
 luter - ladrón  
@@ -1627,6 +1644,7 @@ matrase - colchón
 maturi - maduro (adulto, curado)  
 maturi fem - mujer (señora)  
 maturi man - hombre (señor)  
+maturoren - adulto  
 maw (mawe) - gato  
 max (maxo) - mas  
 max ko bas - demasiado  
@@ -1863,6 +1881,8 @@ nepalia - Nepal
 nese - isla  
 nesia - archipiélago  
 nete - red  
+netodona - cargar (subir)  
+netogeta - descargar  
 netoloke - sitio web  
 netune - Neptuno  
 netunium - neptunio  
@@ -1945,11 +1965,6 @@ novo - ahora mismo (justo)
 nudi - desnudo  
 nudiste - nudista  
 nudistia - nudismo  
-nure - luz (iluminación)  
-nuri - claro (luminoso)  
-nurobaton - antorcha  
-nurocirke - halo (aureola)  
-nurorade - rayo luminoso  
 nuton - newton (N)  
 o - o  
 ##o
@@ -2210,6 +2225,7 @@ puja - adorar (venerar)
 puje - adoración (veneración, culto)  
 pule - puente  
 pulmone - pulmón  
+pume - puma  
 punte - punto  
 pupe - marioneta (títere)  
 pura - llenar  
@@ -2499,6 +2515,7 @@ slovakia - Eslovaquia
 slovenia - Eslovenia  
 soca - alternar (interactuar)  
 soci - social  
+soci jinse - género social  
 soci media - redes sociales  
 socia - sociedad  
 sociste - socialista  
@@ -2588,18 +2605,16 @@ taige - taiga
 taiwania - Taiwán  
 tajikia - Tayikistán  
 taksa - gravar (cobrar tasas)  
-takse - tasa (precio, impuesto, tarifa)  
+takse - tasa (precio, cuota, tarifa)  
 taksogare - taxi (cab)  
 tala - bajar  
 tale - fondo  
 tali - bajo  
 talium - talio  
-talolada - descargar  
 tamare - dátil  
 tami - codicioso (avaro)  
 tamili - tamil  
 tanah - Tanaj (Biblia hebrea)  
-tane - mismo (yo)  
 tani - personal (privado)  
 tanke - tanque (cisterna)  
 tantalum - tántalo  
@@ -2608,7 +2623,7 @@ tanzania - Tanzania
 tapa - taponar  
 tape - tapón (tapa)  
 tapula - desatascar  
-tarife - tasa (precio, tarifa)  
+tarife - impuesto (tributo, tarifa)  
 tarja - traducir (interpretar)  
 tarje - tradicción (interpretación)  
 tarjer - traductor  
@@ -2671,6 +2686,7 @@ ting - parada (alto)
 tinga - parar (detener)  
 tingu - pararse (detenerse)  
 tinogon - triángulo  
+tipe - tipo (género)  
 tira - tirar  
 tira milke - ordeñar  
 tiran - tirano  
@@ -2686,7 +2702,7 @@ tolera - tolerar
 tolo - trompo  
 tomate - tomate  
 tone - tono  
-tong - barril (tonel)  
+tonge - barril (tonel)  
 tongia - Tonga  
 tope - sombrero  
 torium - torio  
@@ -2826,6 +2842,7 @@ wate - vatio
 waw - guau (vaya)  
 waxa - lavar  
 waxomaxin - lavadora  
+waxurse - mapache  
 waya - expulsar  
 waye - fuera (exterior)  
 wayi - exterior  
@@ -2865,6 +2882,7 @@ xamoden - tarde (después de mediodía)
 xamoniame - cena  
 xane - montaña (colina)  
 xanti - tranquilo (calmado)  
+xarke - tiburón  
 xarme - vergüenza (pena)  
 xarnir - bisagra (gozne)  
 xarta - espicificar (estipular)  
@@ -2933,6 +2951,7 @@ yehudi - judío
 yehudistia - judaísmo  
 yemenia - Yemen  
 yesus - Jesús  
+yexo - todavía (aún)  
 yey - yupi  
 yeze - coco  
 yi - esto  
@@ -2977,6 +2996,7 @@ zemokaski plate - placa tectónica
 zemolaskeria - ejército  
 zemolojia - geología  
 zemomedi samude - Mediterráneo  
+zemotike - terreno (solar)  
 zeze - mosco  
 zigzage - zigzag  
 zikure - zigurat  

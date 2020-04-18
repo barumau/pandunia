@@ -1,23 +1,74 @@
-# パンズニヤ語へよこそう
+パンドゥニア - シンプルな国際語
+==================================
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia ya bandir")
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
-パンズニヤ語 (pandunia) は、新しい[国際補助語](https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%A3%9C%E5%8A%A9%E8%AA%9E)の提案です。 パンズニヤ語は世界中の人々が共有する「ピジン言語」になるように設計されている新しい国際言語の思案である。
+## パンドゥニアとは?
 
-パンズニヤ語の特徴は、エスペラント語と違って、本当の意味の国際的な語彙をもって、簡単な音韻体系を利用し、「クレオル言語」のように単純な文法を使っています。具体的にいうと、パンズニヤ語とエスペラント語の違いは：（１）パンズニヤ語は動詞変更がない。（２）パンズニヤ語は複数と単数名詞がない。（３）パンズニヤ語は冠詞がない。（４）エスペラント語と英語と違って、パンズニヤ語には、男性と女性の代名詞がない。「彼」と「彼女」は同じ言葉。
+パンドゥニアは国際補助語です。
+それは他の共通言語で話せないときに、人々が互いに話すために
+使う簡単な言語です。
+多言語の世界で他の言語を補うことを目的としています。
 
-## 若干細かい説明
+パンドゥニアは人工言語です。
+英語、フランス語、スペイン語、中国語、ロシア語、アラビア語、ヒンディー語などの
+自然言語よりも簡単かつ規則的で学習しやすくなっています。
+パンドゥニアの学習は誰にとっても簡単です。
+その言葉は世界のすべての大陸とすべての文化の多くの言語から借用されています。
 
-今日の世界では、英語は広く国際的な言語として使用されていりのが事実だが、いくつかの理由を考えた上、英語は理想的な共通国際言語ではない。発音は困難で、文法は複雑、不規則的である。単語のなかで、意味がほとんど同じなのに、違う場面で違う単語を使わなければいけないという難点がある。さらに、英語が国際的な場面で使われている限り、英語のネイティブ・スピーカは不公平な利点がもらえる。
 
-パンズニヤ語は、この問題を克服するという考えの上に設計されている。パンズニヤ語は容易に世界中で多くの人々によって話され、相互理解されるようにに設計されている。例えば、異なった言語背景の人々によって発音しにくい音を使用しない。文法は簡単、規則的でありがちであるクリオールの言語に基づいている。単語の形態は変容しないおかげで、パンズニヤ語を学ぶことを容易である。語彙は小さいが、豊な表現を可能にする。そして単語は英語、中国語、ヒンディー語、スワヒリ語、アラビア語、ロシア語、インドネシア語、および日本語のような自然言語から導入してある。結果として、パンズニヤ語を学ぶことは、世界中のいろいろな文化からの人々によって使用されている単語を学ぶことでもある。
+## 学習資料
 
-最後に、パンズニヤ語についての重要なポイントの一つは、ユーザーによって形づけられて進化できるように設計されている。パンズニヤ語の背景にある理念は、様々な言語から最もよい要素を取っている世界の人々の"創造的合成" になることである。パンズニヤ語の基本原則は普遍的であるが、そのフレームワークの内で進化させる余裕がある。パンズニヤ語は1 つの青写真であって、最終的の世界言語になるものの例にすぎない。結局のところ、本物の世界言語を造ることはいろいろな言語のスピーカーの世界の人たちは一緒に作ることだ。 
+- [基本](baze.md) 初心者向けに短くまとめられています。
+- [対話形式のレッスン](darse.md)
+- [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
+- [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_darse.html)
+- [フレーズ集](fraze.md)
+- [つづり](abc.md) と [文法](kanun.md)
 
-## リンク
+<!-- - [検索可能な辞書](tiddly.html) -->
+<!-- - [英語→パンドゥニア](engli-pandunia.md) 辞書 -->
+- [パンドゥニア→日本語](pandunia-niponi.md) 辞書
+<!-- - [単語の語源一覧](leksaslia.md) ([ISO 639-2コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2コード一覧)) -->
 
-- [画像付きレッスン](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Facebook](http://www.facebook.com/groups/pandunia)に参加してください
-- [Twitter](https://twitter.com/pandunia_)でフォローします！
-- [Telegram](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)に参加してください
+<!-- - [あなたの名前をパンドゥニアで](ren_da_nam.md) This list is not at all suitable for Japanese. It is necessary to make a list exclusively for Japanese. -->
+
+## 物語
+
+- [お金持ちの男と貧乏な男](rici_man_i_miskin_man.md)
+
+## 資料
+
+<!-- - [パンドゥニア - 新しい国際語](dunia_bax.md) -->
+<!-- - [他の出版物でのパンドゥニアに関する言及](makal_tema_pandunia.md) -->
+- [何故パンドゥニアが好きなのですか?(英語)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - 学習者からの意見
+- [エスペラント VS パンドゥニア](esperanti_i_pandunia.md)
+<!-- - [雑記](note.md) -->
+
+## プレゼンテーション
+
+- [一般的なプレゼンテーション(PDF/英語)](Pandunia-presentation.pdf)
+
+## 他の参加方法
+
+多くの人々がすでにパンドゥニアに興味を持って話しています。 パンドゥニアフォーラムはいくつかの場所で見つけることができます:
+
+- リンクとディスカッション: [Reddit](https://www.reddit.com/r/pandunia/)
+- Facebook [Friends of Pandunia](http://www.facebook.com/groups/pandunia)
+- Telegram(インスタントメッセンジャー) のチャンネル:
+    * [多言語で](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
+    * [エスペラントで](https://pandunia.telegramo.org/)
+    * [パンドゥニアで](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
+- そのほかのパンドゥニア話者を見つけるには [Amikumu](https://amikumu.com/) アプリで!
+- [Discordのチャンネル](https://discord.gg/FWavWeG)
+- QQ channel: 717549404
+- [Twitter](https://twitter.com/pandunia_) の公式アカウントもフォロー出来ます。
+  言葉を広める! <!-- The official Twitter account is not functioning. -->
+- [Auxlang](https://listserv.brown.edu/archives/auxlang.html) メーリングリストでもパンドゥニアについて話すことができます。
+  _Subscribe_ をクリックし、リストに参加するためのメールアドレスを入力します。
+- このサイトの翻訳を[手伝ってください。](tarja_netoloke.md)
+
+パンドゥニアの制作者である Risto Kupsala にはEメール
+[risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで
+連絡できます。
 

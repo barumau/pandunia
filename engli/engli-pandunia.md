@@ -11,7 +11,7 @@ Abyssinia - habaxia
 Abyssinian - habaxi  
 accent (stress) - aksente  
 accept (say okay) - okeya  
-accommodate - doma  
+accommodate - domisa  
 achoo - aciy  
 acknowledge - resida  
 act (play a role) - rola  
@@ -22,7 +22,7 @@ actor (actress) - roler
 additional - maxi  
 address - adrese  
 adjective - sifolekse  
-adult - adulte  
+adult - maturoren  
 adultery (infidelity) - zine  
 advance (progress, enter) - jina  
 adventure (venture) - aventure  
@@ -57,6 +57,7 @@ alga - alge
 algebra - jebria  
 Algeria - jayeria  
 all - pan (pani)  
+alligator - kortokrokodile  
 allophone - alofone  
 allow (permit) - halala  
 almond - badame  
@@ -227,7 +228,7 @@ barbarian - barbare
 Barbuda - barbudia  
 barium - barium  
 barometer - airobarometer  
-barrel (can, cask) - tong  
+barrel (can, cask) - tonge  
 barrier - baryer  
 base (foundation) - baze  
 baseball - bazobol  
@@ -295,12 +296,14 @@ big (great) - day (dayi)
 bike (cycle) - sikle  
 bill (invoice) - bile  
 billion (giga-) - gigo-  
+biological sex - biyi jinse  
 biology (study of life) - biyolojia  
 bird - pakse  
 biromantic - duloromansi  
 birth - jene  
 birthday - jenoden  
 biscuit (cookie) - biskute  
+bisexual - duloseksi  
 bismuth - bismute  
 black - cerni  
 blacksmith (iron forger) - metalojanger  
@@ -314,6 +317,7 @@ blue - nili
 board (plank) - banze  
 board game - banzogem  
 boat (ship) - bote  
+bobcat - kirmi linse  
 bodily (corporal) - badani  
 body - badan (badane)  
 bodybuilding - muskulobine  
@@ -331,7 +335,8 @@ border (edge, fringe, margin, rim, side, shore, periphery) - kenare
 bored - bori  
 boredom - boria  
 boron - boron  
-borrow - jeka  
+borrow (lend) - jeka  
+borrow - jekogeta  
 Bosnia and Herzegovina - bosnia  
 botany (phytology) - fitolojia  
 bother - mafana  
@@ -395,6 +400,7 @@ cake (cookie) - keke
 calcium (Ca) - kalsium  
 calculate - hisaba  
 calculus (manipulation of symbolic expressions) - kalkulia  
+calendar - kalende  
 californium - kalifornium  
 caliph - halife  
 caliphate - halifia  
@@ -455,7 +461,6 @@ central (middle) - jungi
 Central African Republic - jungafrikia  
 Ceres (dwarf planet) - seres  
 cerium - cerium  
-certain (indefinite, indeterminate, some, so-and-so) - fulani  
 certain (sure) - ameni  
 certainly (surely,amen) - ameno  
 Chad - cadia  
@@ -578,6 +583,7 @@ compute (to process data) - komputa
 computer - komputer  
 concentrate - fokusa  
 conceptual - ideyi  
+concert - konserte  
 concrete (material with cement) - betone  
 condition (requirement) - xarte  
 cone - konuse  
@@ -620,6 +626,7 @@ cost (price) - koste
 cost - kosta  
 Costa Rica - kostarikia  
 cotton - gotone  
+cougar (puma, mountain lion) - pume  
 cough - kose  
 coulomb (unit) - kulombe  
 counterclockwise (anticlockwise) - antorelojodixo  
@@ -641,6 +648,8 @@ crisis - krize
 critic - pipinger  
 critical (pertaining to crisis) - krizi  
 Croatia - horvatia  
+crocodile - longokrokodile  
+crocodillian - krokodile  
 croissant - kruasante  
 cross (go across) - krusa  
 cross - kruse  
@@ -758,6 +767,7 @@ doer (agent, actor) - er (ere)
 dog - waf (wafe)  
 doll (puppet) - pupe  
 dollar - dolare  
+dolphin - dolfine  
 dome - kupe  
 domestic - domi  
 Dominica - dominikia  
@@ -770,7 +780,8 @@ double (multiply by two) - dulo multa
 double entendre - dulomeni  
 doubt (disbelief) - dute  
 downgrade - darjomala  
-download - talolada  
+download - netogeta  
+dragon - lunge  
 dragonfly - libele  
 drama - drame  
 draw - grafa  
@@ -929,7 +940,7 @@ favorite (preferred) - favori
 fear (phobia) - fobia  
 feather - pere  
 February - mes 2 (mes dul)  
-fee (fare, tariff, rate) - tarife  
+fee (fare) - takse  
 feel (sense by touch) - senta  
 feel - emosa  
 feeze (get frozen) - aisu  
@@ -1010,6 +1021,7 @@ Friday - var 5 (var lim)
 friend - doste  
 friendly - dosti  
 friendship - dostia  
+frog - krokroke  
 from (since, because) - ca  
 front - prede  
 frost - himorose  
@@ -1044,7 +1056,7 @@ gauze - gaze
 gay (homosexual) - geyi  
 gazelle - gazele  
 gel (jelly) - jele  
-gender (biological sex) - jinse  
+gender (sex) - jinse  
 genderqueer (non-binary) - bise  
 generosity (charity) - karimia  
 generous (charitable) - karimi  
@@ -1094,6 +1106,7 @@ government - governe
 gram (g) - grame  
 grammar - baxokanun  
 grammatical - baxokanuni  
+grammatical gender - baxi jinse  
 grandfather - lawopape  
 grandmother - lawomame  
 grape - putaw  
@@ -1146,7 +1159,7 @@ hafnium - hafnium
 hair - kexe  
 hairband (headband) - kexobende  
 Haiti - haitia  
-halo (aureola) - nurocirke  
+halo (aureola) - fotocirke  
 halve (divide by two) - dulo fena  
 hammer - hamare  
 hammock - hamake  
@@ -1215,10 +1228,10 @@ hockey - hoke
 hole - konge  
 holiday - festoden  
 holmium - holmium  
-hologram - holograme  
+hologram - holografe  
 holy (sacred) - santi  
 Holy See (Vatican City State) - vatikania  
-home (residence) - dom (dome)  
+home (residence) - dome  
 homonym - samonam  
 homoromantic - samoromansi  
 homosexual - samoseksi  
@@ -1394,7 +1407,7 @@ kilo- - kilo-
 kilogram (kg) - kilogram  
 kilometer (km) - kilometre  
 kind (nice, gentle) - jentili  
-kind (type, style) - yange  
+kind (style, sort, type) - yange  
 kinetic - kini  
 king - mani rajer  
 king or queen - rajer  
@@ -1480,8 +1493,8 @@ Libya - libia
 lie (lie down) - lala  
 Liechtenstein - lihtextainia  
 life - haye  
-light (bright) - nuri  
-light (illumination) - nure  
+light (bright) - foti  
+light (illumination) - fote  
 like (enjoy, be fond of) - suku  
 like - fila  
 lilac - lilake  
@@ -1503,7 +1516,7 @@ Lithuanian - lietuvi
 little (few, not many) - xawi  
 little (small; a little, somewhat) - lil (lili)  
 live (be alive, living) - hayi  
-live (dwell, reside) - domu  
+live in (reside in, inhabit) - doma  
 livermorium - livermorium  
 load (to charge) - lada  
 loanword - jekolekse  
@@ -1518,7 +1531,7 @@ longitude - westodongia
 look (see) - vida  
 lose (fail to win) - luza  
 loser - luzer  
-lot (plot of land) - lote  
+lot (plot of land) - zemotike  
 love (liking, affection) - ame  
 love (to be in love with) - ama  
 love romantically - romansa  
@@ -1534,6 +1547,7 @@ Lutheranism - lutheristia
 Luxembourg - luksemburgia  
 lychee (litchi) - lice  
 lymph - linfe  
+lynx - linse  
 ##m
 Macao - makaw  
 machine - maxine  
@@ -1903,9 +1917,9 @@ order (arrangement) - ratibe
 order (command) - komande  
 order (issue a command) - komanda  
 ordinary (routine, normal) - adi  
+organic - biyi  
 organic life - biye  
 orgasm - orgazme  
-oriental dragon - lunge  
 origin (source) - asle  
 original (authentic) - asli  
 Oromia - oromia  
@@ -1918,6 +1932,7 @@ osmosis - osme
 other - ali  
 otherwise (else) - alo  
 otitis - oritis  
+otter - lontre  
 Ottoman - osmane  
 Ottoman Empire - osmania  
 ouch (ow, alas) - ay  
@@ -2203,6 +2218,7 @@ quote (cite) - cita
 Quran (Koran) - kuran  
 ##r
 rabbit (hare) - tuze  
+raccoon - waxurse  
 race (breed) - rase  
 racism - rasistia  
 racist - rasiste  
@@ -2227,7 +2243,7 @@ ramp (incline, slope) - rampe
 random - zari  
 rational (reasonable) - razoni  
 ray - rade  
-ray of light - nurorade  
+ray of light - fotorade  
 read - duga  
 ready - redi  
 realization (awareness, enlightenment, bodhi) - bude  
@@ -2405,7 +2421,7 @@ seed (semen) - seme
 seem - rupu  
 seismology - sismolojia  
 selenium - selenium  
-self - tane  
+self (identity) - aute  
 self - ze  
 self-moving (automotive, automobile) - automoti  
 seminal - semi  
@@ -2436,6 +2452,7 @@ Shanghai - xanghai
 shape (sculpt) - forma  
 share - komuna  
 shari'a - islamisti xaria  
+shark - xarke  
 shatter (break into pieces) - parca  
 shea (vitellaria) - karite  
 sheep - mehe  
@@ -2458,6 +2475,7 @@ shoulder - kante
 show (display) - xowa  
 show (display, exhibition) - xowe  
 shower - duxe  
+shrimp (prawn) - krevete  
 Siberia - sibiria  
 sibling (brother or sister) - saudare  
 sickness (illness, disease) - patia  
@@ -2499,6 +2517,7 @@ sneeze - aciya
 snow - hime  
 soap - sabune  
 social - soci  
+social gender - soci jinse  
 social media - soci media  
 socialism - socistia  
 socialist - sociste  
@@ -2575,7 +2594,7 @@ steam (vapor) - suyogas
 steamed bun (mantou, manti) - mante  
 steer - gida  
 step (degree, rank, grade, level, class) - darje  
-still (yet) - hay (hayo)  
+still (yet) - yexo  
 stipulate - xarta  
 stone - petre  
 stop (halt) - tinga  
@@ -2664,11 +2683,11 @@ Taoism (Daoism) - dawistia
 Taoist - dawiste  
 tape - tepe  
 target (aim, objective) - dike  
+tarif (tax, duty) - tarife  
 taste (flavor) - guste  
 taste (sense flavor) - gusta  
 taste like - gustu ko  
 tattoo - tataw  
-tax (fee, fare) - takse  
 taxi (cab) - taksogare  
 taximeter - taksometer  
 tea - cay (caye)  
@@ -2776,7 +2795,7 @@ top (peak, pinnacle, summit, apex, vertex) - pike
 top (spinning top) - tolo  
 top - gawe  
 topic (subject, theme) - teme  
-torch - nurobaton  
+torch - fotobaton  
 touch - toca  
 tourism - safaristia  
 tourist - safariste  
@@ -2822,6 +2841,7 @@ turtle (tortoise) - tortuge
 Tuvalu - tuvalia  
 twice - dul ban  
 two (2) - dul  
+type (kind, genre) - tipe  
 typewriter - kitabomaxin  
 tyranny - tirania  
 tyrant - tiran  
@@ -2848,7 +2868,7 @@ unnecessary (extraneous) - nolonidi
 unplug (uncork) - tapula  
 until (til, up to) - ata  
 upgrade (level up) - darjobona  
-upload - gawolada  
+upload - netodona  
 upper - supri  
 uranium - uranium  
 Uranus - uran  

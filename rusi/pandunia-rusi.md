@@ -6,7 +6,6 @@ aciya - чихать
 adali - справедливый  
 adalia - справедливость  
 adrese - адрес  
-adulte - взрослый  
 aga - если  
 agrese - нападение (атака)  
 airoporte - аэропорт  
@@ -25,7 +24,7 @@ ama - любить
 analiza - анализировать  
 analize - анализ  
 anime - оживление  
-anjile - mensagem  
+anjile - месседж  
 anker - якорь  
 antene - антенна  
 anuse - анус  
@@ -82,6 +81,7 @@ basi - достаточно (довольно)
 baskobol - баскетбол  
 batre - батарея  
 baxe - язык  
+baxi jinse - род в грамматике  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 bazobol - бейсбол  
@@ -91,6 +91,7 @@ bere - ягода
 bile - счёт  
 bina - строить  
 bire - пиво  
+biyi jinse - биологический пол  
 bol (bole) - bola  
 bombe - бомба  
 bon (boni) - хороший  
@@ -125,6 +126,7 @@ dew (dewe) - бог
 dike - цель  
 dine - религия (вера)  
 diske - диск  
+dolfine - дельфин  
 domi - домашний  
 donge - восток (ост)  
 duga - читать  
@@ -216,6 +218,7 @@ kafase - клетка
 kafe - кофе  
 kagaze - бумага  
 kalame - ручка  
+kalende - календарь  
 kali - пустой  
 kamare - комната (камера)  
 kamise - рубашка  
@@ -236,6 +239,7 @@ kave - яма
 ke - что  
 kimia - химия  
 kirmi - красный  
+kirmi linse - рыжая рысь  
 kitaba - писать  
 kitabe - письмо  
 kitabia - библиотека  
@@ -246,16 +250,21 @@ ko - чем
 ko? - как  
 komputer - компьютер  
 koncunge - насекомое  
+konserte - концерт  
 kope - чаша (чашка, стакан)  
 kore - хор  
 kornonose - носорог  
 korone - корона  
+kortokrokodile - аллигатор  
 kosmi - космический  
 kosmia - космос  
 krabe - краб  
 krake - щель (трещина)  
 krane - кран  
 krepe - блин  
+krevete - креветка  
+krokodile - крокодил  
+krokroke - лягушка  
 kruasante - круассан  
 kruse - крест  
 kube - куб  
@@ -278,11 +287,13 @@ lider - руководитель (лидер)
 lil (lili) - маленький (малый)  
 lim - пять (5)  
 limone - лимон  
+linse - рысь  
 lisane - язык  
 liste - список  
 loga - говорить  
 loka - ставить  
 loke - место  
+lontre - выдра  
 lugi - зелёный  
 luter - грабитель  
 lutheristi - лютеранский  
@@ -299,6 +310,7 @@ marmare - мрамор
 masale - пряность  
 maske - маска  
 maste - мачта  
+maturoren - взрослый  
 maw (mawe) - кошка  
 maxime - максимум  
 me - я  
@@ -387,6 +399,7 @@ probleme - проблема
 problemi - проблематичный  
 programe - программа  
 projete - проект  
+pume - пума (кугуар)  
 pura - заполнять  
 puri - полный  
 ##r
@@ -425,9 +438,11 @@ semi - семенной
 sene - сцена  
 serye - серия  
 si - да  
+sida - сидеть  
 sikliste - велосипедист  
 sis - шесть (6)  
 slavi - славянский  
+soci jinse - гендер  
 socia - общество (социум)  
 soke - носок  
 sole - солнце  
@@ -492,11 +507,13 @@ wana - хотеть
 waw - вау!  
 waxa - мыть  
 waxomaxin - стиральная машина  
+waxurse - енот  
 wayoniame - пикник  
 werka - работать  
 werke - работа  
 werker - работник  
 ##x
+xarke - акула  
 xatan (xatane) - Сатана  
 xawi - мало  
 xefe - шеф  
@@ -510,6 +527,7 @@ xukare - сахар
 ##y
 yemenia - Йемен  
 yesus - Иисус  
+yexo - ещё  
 yoge - йога  
 yohani feste - Иванов день  
 yuke - нефрит (жад)  

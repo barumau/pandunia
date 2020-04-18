@@ -91,8 +91,8 @@ tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mar
    Niitä sanotaan yhteisesti määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
    Kaikki määritteet, lukuun ottamatta muutamaa yleisintä sanaa, loppuvat kirjaimeen **-i**.
-    - esim. 1. **rapi loge** = Nopea puhe.
-    - esim. 2. **te rapi loga.** = Sinä nopeasti puhut.
+    - esim. 1. **rapidi loge** = Nopea puhe.
+    - esim. 2. **te rapido loga.** = Sinä nopeasti puhut.
 6. Aktiivisen lauseen sanajärjestys on subjekti-verbi-objekti.
    Tällöin verbin pääte on **-a**.
     - esim. **me penta meze.** = Minä maalaan pöytiä.
@@ -173,9 +173,9 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**novi kar**
+**novi gare**
 – uusi auto  
-**rapi kar**
+**rapidi gare**
 – nopea auto  
 **day meze**
 = iso pöytä  
@@ -187,14 +187,14 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**kar novi.**
+**gare novi.**
 – Auto on uusi.  
-**bagre rapi.**
+**bagre rapidi.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-**novi kar rapi.**
+**novi gare rapidi.**
 = Uusi auto on nopea.
 
 ### 3.3 Verbin määrite
@@ -347,7 +347,7 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un jowan boy sa dom. _le_ duga buke.**
+**un jowan boy sa dome. _le_ duga buke.**
 _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
 ### 5.2. Refleksiivipronomini
@@ -714,18 +714,18 @@ Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aik
  
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
-1. **me gowa dom.**
+1. **me gowa dome.**
 = Minä menen kotiin.
-2. **me abla gowa dom.**
+2. **me abla gowa dome.**
 = Minä voin mennä kotiin.
-3. **me wana abla gowa dom.**
+3. **me wana abla gowa dome.**
 = Me haluan voida mennä kotiin.
  
 Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
  
-**me bixu gowa dom.**
+**me bixu gowa dome.**
 = Minun on pakko mennä kotiin.  
-**me xudu gowa dom.**
+**me xudu gowa dome.**
 = Minun pitäisi mennä kotiin.  
 
 
@@ -742,22 +742,22 @@ Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arva
 
 Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
  
-**me xina le gowa dom.**
+**me xina le gowa dome.**
 = Minä luulen, että hän menee kotiin.   
-**xina le gowa dom.**
+**xina le gowa dome.**
 = Kai hän menee kotiin.  
-**me xaka le gowa dom.**
+**me xaka le gowa dome.**
 = Minä epäilen, että hän menee kotiin.  
-**xaka le gowa dom.**
+**xaka le gowa dome.**
 = Tokko hän menee kotiin.
 
 #### 7.8.2. Lyhyt saranarakenne (VVO)
 
 Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
-**me pliza te laya dom.**
+**me pliza te laya dome.**
 = Minä pyydän sinua tulemaan kotiin.  
-**pliza laya dom!**
+**pliza laya dome!**
 = Pyydän, tule kotiin!
 
  
@@ -855,18 +855,18 @@ Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
 
 **maria da mame**
 = Marian äiti  
-**me da dom**
+**me da dome**
 = minun talo  
-**me da pape da dom**
+**me da pape da dome**
 = minun isän talo
 
 **ya** on sama mutta käänteisessä sanajärjestyksessä.
 
 **mame du maria**
 = äiti Marian  
-**dom du me**
+**dome du me**
 = talo minun  
-**dom du pape du me**
+**dome du pape du me**
 = talo isän minun
 
 
@@ -876,9 +876,9 @@ Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat
 
 Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **ya** avulla.
 
-**novi dom**
+**novi dome**
 = uusi talo  
-**dom du novi**
+**dome du novi**
 = talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
@@ -952,7 +952,7 @@ Panduniassa on kolme aikaa ja paikkaa ilmaisevaa prepositiota.
 
 Prepositioita ei tarvitse käyttää aina. Monesti teonsana kertoo tarpeeksi.
 
-**me lay dom.**
+**me laya dome.**
 = Minä tulen kotiin.  
 **te sida kurse.**
 = Sinä istut tuolia (tuolilla).  
@@ -978,7 +978,7 @@ Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on 
 
 **me denga ya te enda.**
 = Minä odotan sinun lähdöstä lähtien.  
-**me denga pa te lay dom.**
+**me denga pa te laya dome.**
 = Minä odotan siihen asti, kun tulet kotiin.  
 **me denga sa te sona.**
 = Minä odotan kun sinä nukut.  
@@ -987,7 +987,7 @@ Myös toinen lause voi toimia preposition täydennyksenä. Silloin kyseessä on 
 
 **sa** on monikäyttöinen prepositio. Sen perusmerkitys on "kanssa", mutta se kattaa myös paljon muita merkityksiä.
  
-**me stasa sa dom.**  
+**me stasa sa dome.**  
 Minä seison talon luona.
  
 **me loga sa pandunia.**  
@@ -1027,7 +1027,7 @@ Tässä on joitakin verbejä, joita voi käyttää prepositioiden asemasta:
 
 Panduniassa prepositioita käytetään vähemmän kuin suomessa ja englannissa. Monesti lauseen pääverbi ilmaisee asian jo riittävän tarkasti.
 
-**me laya dom.**
+**me laya dome.**
 = Minä tulen kotiin.  
 **te sida kurse.**
 = Sinä istut tuolia (tuolilla).  

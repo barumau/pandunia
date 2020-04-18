@@ -15,7 +15,8 @@ Introducing yourself
 <big>👩</big>
 **me si maria. le si ke?**
 = I am Maria. Who is that?  
-<big>🧔</big> **le si mi doste.**
+<big>🧔</big>
+**le si mi doste.**
 = That is my friend.  
 <big>👩</big>
 **li nam si ke?**
@@ -216,10 +217,10 @@ answers are after the word list.
 **pliza salama ti mame!**
 = Please tell greetings to your mother.  
 <big>🧒</big>
-**me salama le. salam!**
+**me salama le. salam reste!**
 = I will. Bye!  
 <big>🧓</big>
-**salam!**
+**salam cute!**
 = Bye!
 
 
@@ -234,7 +235,7 @@ following example sentence.
 **me pliza te salama le.**
 = I ask you to say hello to him/her.
 
-This sentence has a _pivot structure_. The first verb, **plisa** = to
+This sentence has a _pivot structure_. The first verb, **pliza** = to
 request, addresses **te** as its object. At the same time **te**
 serves also as the subject of the second verb, **salama** = to greet,
 whose object is **le**. So **te** has a double role: (1) object of
@@ -255,7 +256,7 @@ to keep on repeating them. In this manner phrases can be made shorter.
 **pliza salama le.**
 = Please say hello to him/her.
 
-See how the translation of **plisa** changed between the two sentences?
+See how the translation of **pliza** changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
 Pandunia can cope with changes like this without resorting to different
@@ -274,15 +275,15 @@ for making polite requests.
 = Please give me some tea.  
 **pliza niama cay.**
 = Please have some tea.  
-**pliza safa kamar.**
+**pliza safa kamare.**
 = Please clean the room.
 
 Commands are introduced with **komanda** = to command. They employ the
-same pivot structure as requests with **plisa**.
+same pivot structure as requests with **pliza**.
 
 **komanda dona cay.**
 = Give (me) some tea!  
-**komanda safa kamar.**
+**komanda safa kamare.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and
@@ -306,12 +307,12 @@ Try translating these sentences from English to Pandunia.
 ### Word List
 
 **cay** tea.
-**plisa** to ask; please.
+**pliza** to ask; please.
 **dona** to give.
 **danke** thanks.
 **e** and.
 **kafe** coffee.
-**kamar** room.
+**kamare** room.
 **komanda** to order, to command.
 **o** or.
 **safa** to clean.
@@ -324,7 +325,7 @@ Try translating these sentences from English to Pandunia.
 1. le niama cay.
 2. xefe pliza le sida.
 3. pliza niama kafe o cay.
-4. mame pliza me safa kamar.
+4. mame pliza me safa kamare.
 5. xefe sida e niama kafe.
 
 
@@ -363,7 +364,7 @@ Yes or no questions
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **plisa**, which you learned in the
+pivot structure as requests with **pliza**, which you learned in the
 previous lesson. Question sentences are introduced with **eska** = to ask.
 
 **me eska te niama cay.**
@@ -389,7 +390,7 @@ Of course common and proper nouns can also be used.
 
 **eska xefe niama kafe?**
 = Does the chief drink coffee?  
-**eska pape safa kamar?**
+**eska pape safa kamare?**
 = Does the father clean the room?  
 **eska niki baxa pandunia?**
 = Does Nicky speak Pandunia?
@@ -487,11 +488,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**me pliza te safa kamar.**
+**me pliza te safa kamare.**
 = I ask you to clean the room.  
-**me no pliza te safa kamar.**
+**me no pliza te safa kamare.**
 = I do NOT ask you to clean the room.  
-**me pliza te no safa kamar.**
+**me pliza te no safa kamare.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -534,7 +535,7 @@ is more than one correct answer.
 
 ### Answers to the Exercises
 
-1. le no safa kamar.
+1. le no safa kamare.
 2. un kupe no hali.
 3. dul waf no niama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
@@ -636,15 +637,15 @@ sentence tells about the past time.
 
 There are also specific time words.
 
-**gang**
+**gango**
 = just, recently  
-**zay**
+**zayo**
 = currently, at the moment  
-**hay**
-= still  
-**sun**
+**yexo**
+= still, yet  
+**suno**
 = soon  
-**wil**
+**wilo**
 = later, in the future
 
 
@@ -652,28 +653,28 @@ There are also specific time words.
 The adjectives for past, present and future are **pas, zay** and
 **wil**. They can be used for modifying nouns.
 
-**sarah si mi pas xefe.**
+**sarah si mi pasi xefe.**
 = Sarah is my former boss.  
-**yusef si mi zay xefe.**
+**yusef si mi zayi xefe.**
 = Yusef is my current boss.  
-**maria si mi wil xefe.**
+**maria si mi wili xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**me pas darba le.**
+**me paso darba le.**
 = I hit it (in the past).  
-**me zay darba le.**
+**me zayo darba le.**
 = I am hitting it (currently).  
-**me wil darba le.**
+**me wilo darba le.**
 = I will hit it (in the future).
 
 Alternatively the time word can be placed last in the sentence.
 
-**me darba le pas.**  
-**me darba le zay.**  
-**me darba le wil.**
+**me darba le paso.**  
+**me darba le zayo.**  
+**me darba le wilo.**
 
 It's also possible to use longer phrases like **sa pase** (in the past) etc.
 
@@ -691,11 +692,11 @@ with a time expression. Another time word will not be needed until
 the tense changes or until it becomes useful to stress that you are
 still talking in the same tense.
 
-**me pas tena un maw.**
+**me paso tena un maw.**
 = I had a cat in the past.  
 **le bon maw.**
 = It was a good cat.  
-**me tena un waf zay.**
+**me tena un waf zayo.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -703,7 +704,7 @@ time expression is present, other markers are not needed.
 
 **me jenu sa nen 2003.**
 = I was born in 2003.  
-**le safa kamar sa badi den.**
+**le safa kamare sa badi den.**
 = He will clean the room tomorrow.
 
 
@@ -720,19 +721,19 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pas** past, former.
-**zay** present, current.
-**wil** future.
+**paso** in the past, formerly.
+**zayo** at present, currently.
+**wilo** in future.
 **darba** to hit, to beat.
 **pang** bread.
-**subi niam** morning meal, breakfast.
+**suboniam** morning meal, breakfast.
 
 ### Answers to the Exercises
 
 1. mi xefe festa sa wile.
 2. me tena dul waf sa pase.
 3. te niama supe zay.
-4. le safa kamar sa predi den.
+4. le safa kamare sa predi den.
 5. maw niama kafe sa badi den.
 6. ti mame festa sa predi noce.
 

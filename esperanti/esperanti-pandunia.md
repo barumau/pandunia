@@ -69,7 +69,7 @@ angulo - gone
 animo (psiko) - ruhe  
 animstato - emosohal  
 ankaŭ - plus (pluso)  
-ankoraŭ - hay (hayo)  
+ankoraŭ - yexo  
 ankro - anker  
 antaŭe (pasinte) - pas (paso)  
 antaŭiri - preda  
@@ -258,6 +258,7 @@ defendi - defa
 defendo - defe  
 dek (10) - des  
 dekono - deco-  
+delfeno - dolfine  
 demanda - eski  
 demandi (ĉu) - eska  
 demando - eske  
@@ -514,7 +515,7 @@ Gvatemalo - guatemalia
 ##h
 hafnio - hafnium  
 Haitio - haitia  
-halo - nurocirke  
+halo - fotocirke  
 halti - tingu  
 haltigi - tinga  
 halto - ting  
@@ -535,7 +536,7 @@ Hebrea - ibri
 heijastaa kuvia (projisoida) - lancografa  
 hejma - domi  
 hejmlingvo - jeni baxe  
-hejmo (loĝejo) - dom (dome)  
+hejmo (loĝejo) - dome  
 helikoptero - helisoviman  
 helio - helium  
 helpo - helpe  
@@ -610,7 +611,6 @@ isto de ismo - iste
 Italio - italia  
 iterbio - yuterbium  
 itrio - yutrium  
-iu - fulani  
 iu - koy (koyi)  
 iu ajn - eni  
 iu persono - koy ren  
@@ -645,6 +645,7 @@ kaj - e
 kajero - notobuke  
 kakao - kakawe  
 kalcio - kalsium  
+kalendaro - kalende  
 kalifo - halife  
 kaliforniumo - kalifornium  
 kalio - kalium  
@@ -734,6 +735,7 @@ komunismo - komunistia
 komunisto - komuniste  
 koncentri - fokusa  
 koncentriĝo - fokuse  
+koncerto - konserte  
 kondiĉo (postulo) - xarte  
 konduki - xofa  
 Konfuceo - konfuze  
@@ -843,14 +845,14 @@ lokigi - loka
 loko - loke  
 longa - longi  
 longigi - longa  
-loĝi - domu  
-loĝigi - doma  
+loĝi - doma  
+loĝigi - domisa  
 ludanto - gemer  
 ludi - gema  
 ludi rolon - rola  
 ludo - geme  
-luma - nuri  
-lumo - nure  
+luma - foti  
+lumo - fote  
 luno - lune  
 lupo - wolfe  
 lutecio - lutetium  
@@ -926,6 +928,7 @@ memoro - meme
 merdo - xite  
 merkato (bazaro) - bazar  
 Merkuro - budan  
+mesaĝo - anjile  
 metalo - metale  
 metiero - pexe  
 metiisto - janger  
@@ -1139,7 +1142,7 @@ plantscienco (botaniko) - fitolojia
 plateno - platinum  
 plej - maxim (maximo)  
 plena - puri  
-plenaĝa - adulte  
+plenaĝa - maturoren  
 plene - puro  
 plenigi - pura  
 pli - max (maxo)  
@@ -1454,7 +1457,7 @@ torako - sinokafase
 torio - torium  
 torso - torse  
 torto - pay (paye)  
-torĉo - nurobaton  
+torĉo - fotobaton  
 traduki - tarja  
 tradukisto - tarjer  
 traduko - tarje  

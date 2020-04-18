@@ -53,7 +53,7 @@ Bonvenon!
 **salam cute!**
 Ĝis!
 
-**salam safar!**
+**salam safare!**
 Bonan vojaĝon!
 
 **salam son!**
@@ -550,10 +550,10 @@ Mi komprenas nenion.
 
 ### abla <small>povi</small>
 
-**me abla gida kar.**
+**me abla xofa gare.**
 Mi povas konduki aŭton.
 
-**le no abla gida kar.**
+**le no abla xofa gare.**
 Ŝi/li ne povas konduki aŭton.
 
 **eska te abla xula le?**
@@ -720,7 +720,7 @@ Mi venos hejmen morgaŭ.
 **mome safara ya london pa paris.**
 Ni vojaĝas el Londono al Parizo.
 
-**safar day long.**
+**safare day long.**
 La vojaĝo estas tre longa.
 
 ### domu <small>loĝi</small>

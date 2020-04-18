@@ -6,6 +6,9 @@ site_dir: ../../html/suomi
 theme: cerulean
 nav:
     - Kotisivu: 'index.md'
+    - 'Tietoa':
+        - 'Maailman yhteyskieli': dunia_baxe.md
+        - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
     - 'Opiskelu':
         - 'Ääntäminen': abc.md
         - 'Lauseita': fraze.md
@@ -16,7 +19,4 @@ nav:
         - 'Suomi-pandunia': suomi-pandunia.md
         - 'Alkuperäsanasto': leksaslia.md
     - 'Kielioppi': kanun.md
-    - 'Tietoa':
-        - 'Maailman yhteyskieli': dunia_bax.md
-        - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
 

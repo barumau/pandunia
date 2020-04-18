@@ -34,7 +34,7 @@ aihe (teema) - teme
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
 aikakausi - zamane  
-aikuinen - adulte  
+aikuinen - maturoren  
 aina - pan sate  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
@@ -138,9 +138,9 @@ astatiini - astatin
 asti (saakka) - ata  
 astia (kulho) - tase  
 astma - asme  
-asua - domu  
-asunto (koti) - dom (dome)  
-asuttaa - doma  
+asua - doma  
+asunto (koti) - dome  
+asuttaa - domisa  
 ateisti (jumalankieltäjä) - nolodewiste  
 ateljee (studio) - estudia  
 Atlantin valtameri - atlanti samude  
@@ -232,6 +232,7 @@ darmstadtium - darmositium
 darwinismi - darwinistia  
 darwinisti - darwiniste  
 data (numeerinen tieto) - date  
+delfiini - dolfine  
 demokraatti - demokratiste  
 demokraattinen - demokrati  
 demokratia - demokratia  
@@ -308,7 +309,6 @@ Eris (kääpiöplaneetta) - eris
 Eritrea - eritria  
 erottaa (nähdä ero) - hasa  
 erä (satsi) - lote  
-eräs (muuan, joku, jokin) - fulani  
 esimerkiksi - misalo  
 esimerkki - misale  
 Espanja - espania  
@@ -490,7 +490,7 @@ hockey (jääkiekko) - hoke
 hoitaa (lääkitä) - medika  
 hoitaa (pitää huolta) - kura  
 holmium - holmium  
-hologrammi - holograme  
+hologrammi - holografe  
 homo (homoseksuaali) - geyi  
 homonyymi - samonam  
 homoseksuaali - samoseksi  
@@ -624,7 +624,6 @@ istua - sida
 isä - pape  
 Italia - italia  
 itkeä - kuga  
-itse - tane  
 itse - ze  
 itsehallinto (autonomia) - autonomia  
 itseliikkuva - automoti  
@@ -747,6 +746,7 @@ kaksi (2) - dul
 kaksimielinen (kaksimerkityksinen) - dulomeni  
 kaksois- (duaalinen) - duli  
 kala - fixe  
+kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halife  
 kalifornium - kalifornium  
@@ -946,6 +946,7 @@ Komorit - komori nesia
 kone - maxine  
 kongolainen - kongoli  
 konkani (eräs intialainen kieli) - konkani  
+konsertti - konserte  
 konsonantti - konsone  
 kontaktikieli (pidgin) - pijine  
 kontiainen (maamyyrä) - krote  
@@ -1377,7 +1378,6 @@ merkitä (tarkoittaa) - mena
 merkki (jälki) - marke  
 merkki (signaali) - sinye  
 Merkurius - budan  
-mesaĝo - anjile  
 messiaaninen - kristi  
 mestari (asiantuntija) - mester  
 mestari (voittaja) - campion (campione)  
@@ -2183,7 +2183,7 @@ Slovakia - slovakia
 Slovenia - slovenia  
 smaragdi - zumurude  
 sohva - kanape  
-soihtu - nurobaton  
+soihtu - fotobaton  
 soittaa (musisoida) - musika  
 sokeri - xukare  
 sokerinen (makea) - xukari  
@@ -2271,7 +2271,7 @@ syyllinen - doxi
 Syyria - suria  
 syyskuu - mes 9 (mes naw)  
 säde - rade  
-sädekehä (halo) - nurocirke  
+sädekehä (halo) - fotocirke  
 säe (riimi) - rime  
 sähkö - eletre  
 sähköinen - eletri  
@@ -2438,7 +2438,7 @@ toivoa - inxala
 tomaatti - tomate  
 Tonga - tongia  
 tonni (##0 kg) - megograme  
-tontti (maakaistale) - lote  
+tontti (maakaistale) - zemotike  
 tori (basaari) - bazar  
 torni - minare  
 torstai - var 4 (var car)  
@@ -2503,7 +2503,7 @@ tykkimies - kanoner
 tykkääminen - filia  
 tykätä (pitää) - fila  
 tylsyys (pitkästys) - boria  
-tynnyri (tölkki) - tong  
+tynnyri (tölkki) - tonge  
 typerys (idiootti) - idiote  
 typpi - nitre  
 tyranni - tiran  
@@ -2600,12 +2600,12 @@ valkoinen (valkea) - baki
 valkosipuli - lasune  
 Valkovenäjä - belorusia  
 valmis - redi  
-valo - nure  
-valoisa - nuri  
+valo - fote  
+valoisa - foti  
 valokuva (foto) - fotograf  
 valokuvaaja - fotografer  
 valokuvaus - fotografia  
-valonsäde - nurorade  
+valonsäde - fotorade  
 valta - kratia  
 valtameri - dayosamude  
 vanadiini - vanadium  
@@ -2680,11 +2680,12 @@ vetovoima (šarmi) - carme
 vety - hidre  
 vetää (kiskoa) - tira  
 viedä pois (viedä maasta) - wayomisa  
-vielä (yhä) - hay (hayo)  
+vielä (yhä) - yexo  
 vieraanvarainen (antelias, hyväntahtoinen) - karimi  
 vierailija (vieras) - viziter  
 vierailla - vizita  
 vierailu (visiitti) - vizite  
+viesti - anjile  
 viestintuoja (airut) - anjiler  
 Vietnam - vietia  
 vietnamilainen - vieti  

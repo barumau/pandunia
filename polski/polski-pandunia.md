@@ -154,7 +154,7 @@ bawół domowy - kabawe
 baza danych (bank danych) - datobanke  
 bazowy, podstawowy - bazi  
 bańka - bule  
-beczka - tong  
+beczka - tonge  
 beduiński; nomadyczny - badawi  
 bejsbol (baseball) - bazobol  
 bel - bele  
@@ -379,7 +379,7 @@ darmsztadt - darmositium
 darwinista - darwiniste  
 darwinizm - darwinistia  
 data - nenomesoden  
-dać mieszkanie (zakwaterować) - doma  
+dać mieszkanie (zakwaterować) - domisa  
 dać, dawać - dona  
 debatować, prowadzić dyskurs - lona  
 decy-, dziesiąta część - deco-  
@@ -417,7 +417,7 @@ dokument - papire
 dokładnie (precyzyjnie, tylko) - justo  
 dolar - dolare  
 dolina - vale  
-dom, mieszkanie - dom (dome)  
+dom, mieszkanie - dome  
 Dominika (Wspólnota Dominiki) - dominikia  
 domino - dominogem  
 domowy - domi  
@@ -460,7 +460,7 @@ dzban, dzbanek; słój, słoik - jare
 dziadek (dziad) - lawopape  
 działanie (akcja) - acion (acione)  
 działanie (zachowanie, karma) - kare  
-działka (teren) - lote  
+działka (teren) - zemotike  
 działo - kanone  
 dziecko (nieletni) - bace  
 dziecko, potomek - pute  
@@ -494,7 +494,7 @@ Dżibuti - jibutia
 dżul (J) - jule  
 ##e
 echo - mirosonde  
-efekt halo - nurocirke  
+efekt halo - fotocirke  
 egipski - misri  
 Egipt - misria  
 egzonim - wayonam  
@@ -728,7 +728,7 @@ hokej - hoke
 hokej na lodzie - aisohoke  
 Holandia (Królestwo Niderlandów) - nederlandia  
 holm - holmium  
-hologram - holograme  
+hologram - holografe  
 homonim - samonam  
 homoromantyczny - samoromansi  
 homoseksualny - samoseksi  
@@ -817,7 +817,7 @@ Japonia - niponia
 japoński - niponi  
 jaskinia - guhe  
 jasny, czysty - mingi  
-jasny, świetlny - nuri  
+jasny, świetlny - foti  
 jazz, dżez - jaze  
 jaśmin - malike  
 jebać, kopulować - coda  
@@ -860,6 +860,7 @@ kaczka - bate
 kadm - kadomium  
 Kajmany - keiman nesia  
 kakao - kakawe  
+kalendarz - kalende  
 kalif - halife  
 kalifat - halifia  
 kaliforn - kalifornium  
@@ -970,6 +971,7 @@ komputer - komputer
 komunista - komuniste  
 komunizm - komunistia  
 komórka (biologia) - sele  
+koncert - konserte  
 konfucjanizm - konfuzistia  
 Konfucjusz - konfuze  
 kongijski - kongoli  
@@ -1248,7 +1250,7 @@ miejscowy, lokalny - loki
 miejski - nagri  
 mielić - molia  
 miesiąc - mes (mese)  
-mieszkać - domu  
+mieszkać - doma  
 mieć (partykuła posiadania) - da  
 mieć (posiadać) - malka  
 mieć (trzymać) - tena  
@@ -1554,7 +1556,6 @@ opowiedzieć, opowiadać - saga
 oprócz, minus - mina  
 opłata, taryfa - tarife  
 orgazm - orgazme  
-orientalny smok - lunge  
 orija - odisi  
 Oromia - oromia  
 oromo - oromi  
@@ -1565,7 +1566,7 @@ osioł - gade
 osm - osmium  
 osmoza - osme  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - adulte  
+osoba dorosła - maturoren  
 osoba mówiąca w Panduni - panduniste  
 osoba; ludzie - ren (rene)  
 osobisty, intymny, prywatny - tani  
@@ -1721,7 +1722,7 @@ plemię - tribe
 Pluton (planeta karłowata) - pluton  
 pluton - plutonium  
 pluć - tuha  
-pochochodnia (latarka) - nurobaton  
+pochochodnia (latarka) - fotobaton  
 pociąg - tren (trene)  
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
@@ -1845,7 +1846,7 @@ Południowa Afryka - sudafrikia
 południowy - sudi  
 połączenie, złącze, styk - samune  
 pośladki, pupa, tyłek, zadek - bume  
-pożyczać (pożyczyć) - jeka  
+pożyczać (pożyczyć) - jekogeta  
 pożyczać komuś (pożyczyć komuś) - jekodona  
 pożądanie, żadza - kamia  
 praca, zjęcie, zadanie - werke  
@@ -1887,7 +1888,7 @@ promet - prometium
 promieniowanie - radia  
 promieniować - rada  
 promień - rade  
-promień światła - nurorade  
+promień światła - fotorade  
 proroctwo - nabe  
 prorok - naber  
 prorok Mani - manihaye  
@@ -2138,7 +2139,6 @@ Saint Vincent - santi vinsente
 Saint Vincent and Grenadines - santi vinsente e grenadin  
 Saint Vincent i Grenadyny - walis e futun nesia  
 Salwador - salvadoria  
-sam, osobiście - tane  
 sam, siebie - ze  
 samar - samarium  
 Samoa - samowia  
@@ -2213,6 +2213,7 @@ smak - guste
 smakować jak - gustu ko  
 smakować, próbować smaku - gusta  
 smieszany (skonfudowany) - konfusi  
+smok - lunge  
 smutny - duki  
 sobota - var 6 (var sis)  
 socjalista - sociste  
@@ -2463,7 +2464,6 @@ towarzysz (partner, kumpel) - latoren
 transport - transeria  
 trawa - grase  
 treść (zawartość) - tene  
-trochę; nieokreślony, nieograniczony, nieokreślony - fulani  
 trucizna (toksyna) - tokse  
 trudność (trud) - kunane  
 trudny (ciężki) - kunani  
@@ -2571,7 +2571,6 @@ użytkownik - uzer
 użyć, używać, zatrudnić, stosować - uza  
 ##v
 Vanuatu - vanuatia  
-viesti - anjile  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 w przyszłości - wil (wilo)  
@@ -2598,7 +2597,7 @@ waza, garnek, pojemnik, słoik, dzban - vaze
 wazon; donica, doniczka - fulovaze  
 ważka - libele  
 ważny - hami  
-wciąż, nadal - hay (hayo)  
+wciąż, nadal - yexo  
 wcześniej (uprzednio) - predo  
 wczoraj - predoden  
 według ruchu wskazówek zegara - relojodixo  
@@ -2613,6 +2612,7 @@ wersja (wariacja, edycja, wydanie) - versione
 wesoły, ucieszony - suki  
 wewnętrzny - indi  
 wewnętrzny - indojeni  
+wiadomość - anjile  
 wiadomość, nius - habare  
 wiadomość, zawiadomienie, powiadomienie - notise  
 wiadomy, znany - jani  
@@ -2753,7 +2753,7 @@ Wyspy Salomona - solomon nesia
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - kabuverdia  
 Wyspy Świętego Tomasza i Książęca - santi tome e prinsipe  
 wystarczający - basi  
-wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - gawolada  
+wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodona  
 wysłać (wyemitować) - misa  
 wyć - ulula  
 wyświetlać - lancografa  
@@ -2952,7 +2952,7 @@ zły, zrujnowany, zepsuty - harabi
 łączyć, wiązać, złączyć - samuna  
 Święta Helena - santi helenia  
 ścieżka (droga, szlak, kurs) - rute  
-ściągać (ściągnąć, pobrać, pobierać) - talolada  
+ściągać (ściągnąć, pobrać, pobierać) - netogeta  
 śmiać się - haha  
 śmierć - morte  
 śmieć, odpadek - laje  
@@ -2967,7 +2967,7 @@ zły, zrujnowany, zepsuty - harabi
 śruba, wkręt - lose  
 świadomy; oświecony - budi  
 świat - dunia  
-światło, oświetlenie - nure  
+światło, oświetlenie - fote  
 świeca - mumonur  
 świetny - kuli  
 świeży - tazi  
