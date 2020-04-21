@@ -2,11 +2,14 @@
 
 ## Dictionary
 
-The original dictionary is [the spreadsheet in Google Docs](https://docs.google.com/spreadsheets/d/1QmNjYfAcNndgGJIhDacOIYgNGPHZsOyYck-8GTiupRc/edit#gid=0).
-It includes translations to many languages. All dictionaries are created from
-this spreadsheet with programs.
+The original dictionary a file called
+[pandunia-lekse.csv](https://github.com/barumau/pandunia/blob/master/pandunia-lekse.csv).
+It is in character-separated format (CSV) and the cell separator is the vertical bar "|".
+It includes translations to english and many other languages.
+All dictionaries in different languages are created from this file.
 
-You can request the right to edit the document from risto@pandunia.info
+You can edit the file in Microsoft Excel, LibreOffice Calc, other spreadsheet tools and text editors.
+
 
 ## Downloading source texts
 
