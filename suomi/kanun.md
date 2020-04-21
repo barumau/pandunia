@@ -39,8 +39,9 @@ Loppuvokaalit osoittavat sisältösanojen luokat seuraavasti:
 
 - **-e** tarkoittaa substantiivia
 - **-i** tarkoittaa adjektiivia
-- **-a** tarkoittaa myötäpäiväistä verbiä
-- **-u** tarkoittaa vastapäiväistä verbiä
+- **-o** tarkoittaa adverbia
+- **-a** tarkoittaa aktiivista verbiä
+- **-u** tarkoittaa passiivista verbiä
 
 (Selitämme myöhemmin, mitä myötäpäiväinen ja vastapäiväinen tarkoittavat tässä yhteydessä.)
 
@@ -52,6 +53,7 @@ ja ne osoittavat seuraavia sanaluokkia:
 
 - **-e** tarkoittaa pronominia
 - **-i** tarkoittaa tarkennetta
+- **-o** tarkoittaa adverbia
 - **-a** tarkoittaa prepositiota
 - **-u** tarkoittaa postpositiota
 
@@ -140,7 +142,7 @@ Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
 **petre petre**
 = kiviä, paljon kiviä  
-**xing xing**
+**xinge xinge**
 = tähtiä, paljon tähtiä  
 
 
@@ -203,11 +205,11 @@ Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
 Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
 
-**me _bon_ sona.**
+**me _bono_ sona.**
 = Minä _hyvin_ nukun.  
-**me sona _bon_.**
+**me sona _bono_.**
 = Minä nukun _hyvin_.  
-**te baxa pandunia _bon_.**
+**te baxa pandunia _bono_.**
 = Sinä puhut panduniaa _hyvin_.
 
 
@@ -219,18 +221,19 @@ Määrite voi määritellä myös toista määritettä. Esimerkiksi **day** (suu
 = iso henkilö  
 **lil ren**
 = pieni henkilö  
-**sundar ren**
+**sundari ren**
 = kaunis henkilö
 
-**day sundar ren**
+**dayo sundari ren**
 = suuresti (eli hyvin) kaunis henkilö  
-**lil sundar ren**
+**lilo sundari ren**
 = pienesti (eli vähän) kaunis henkilö
 
-Kun halutaan käyttää kahta määritettä erikseen, pannaan niiden väliin **i** (ja).
+Kun halutaan käyttää kahta määritettä erikseen,
+niiden väliin ei tarvitse panna sanaa **e** (ja).
 
-**lil e sundar ren**
-= pieni ja kaunis henkilö
+**lili sundari ren**
+= pieni, kaunis henkilö
 
 
 ### 3.5. Vertailu
@@ -241,13 +244,13 @@ Sekä adjektiiveja että adverbeja voi verrata.
 - **maxim** : eniten
 - **min** : vähemmän
 - **minim** : vähiten
-- **sam** : yhtä
+- **samo** : yhtä
 
 Pikkusana **ko** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
 **me si max bon ko te.**
 = Minä olen parempi kuin sinä.  
-**te loga sam bon ko me.**
+**te loga samo bono ko me.**
 = Sinä puhut yhtä hyvin kuin minä.
 
 
@@ -276,7 +279,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = kolme tähteä  
 **xaw xing**
 = vähän tähtiä  
-**pol xing**
+**multi xing**
 = paljon tähtiä
 
 
@@ -305,8 +308,8 @@ Perusluvut ovat:
 - 4 **car**
 - 5 **lim**
 - 6 **sis**
-- 7 **set**
-- 8 **bat**
+- 7 **seti**
+- 8 **bati**
 - 9 **noy**
 
 Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään – ihan samalla tavalla kuin ne kirjoitetaan matematiikan universaalilla kielellä.
@@ -338,17 +341,23 @@ Suuremmat luvut muodostetaan yksinkertaisesti asettamalla luku toisensa perään
 ## 5. Pronominit
 ### 5.1. Persoonapronominit
 
-**me** minä  
-**te** sinä  
-**le** hän, se  
-**mome** me  
-**tote** te  
-**lole** he  
+**me**
+– minä  
+**te**
+– sinä  
+**le**
+– hän, se  
+**mome**
+– me  
+**tote**
+– te  
+**lole**
+– he  
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un jowan boy sa dome. _le_ duga buke.**
-_Yksi nuori poika on kotona. Hän lukee kirjaa._
+**un jovani boy sa dome. _le_ duga buke.**
+– _Yksi nuori poika on kotona. Hän lukee kirjaa._
 
 ### 5.2. Refleksiivipronomini
 
@@ -374,16 +383,22 @@ Sen omistusmuoto on **zi**.
 
 Osoittava pronomini on:
 
-**ce**
-= tämä, tuo  
+**ye**
+– tämä, nämä  
+**we**
+– tuo, nuo
 
-**me wana ce.**
-= Minä haluan tämän/tuon.
+**me wana ye.**
+– Minä haluan tämän.  
+**le wana we.**
+– Hän haluaa tuon.
 
 I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.
 
-**ci maw**
-= tämä/tuo kissa
+**yi maw**
+– tämä kissa  
+**wi maw**
+– tuo kissa
 
 
 ### 5.4. Kysymyspronominit

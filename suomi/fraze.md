@@ -23,10 +23,11 @@ Huom! Kappaleissa on monesti tällaisia huomioita ja vinkkejä. Niissä kerrotaa
 
 
 
-Osa 1: Tervehdykset ja perussanoja
----------------------------
+## Osa 1: Tervehdykset ja perussanoja
 
 ### salam <small>tervehdys</small>
+
+<p style="font-size:5em;">🙋‍</p>
 
 **salam**
 Terve!
@@ -66,8 +67,41 @@ lähteitä: arabia: سَلَام‏ "salām", heprea: שָׁלוֹם‏ "šalom"
 indonesia: selamat.</small>
 
 
+### danke <small>kiitos</small>
+
+<p style="font-size:5em;">🙏</p>
+
+**danke!**
+Kiitos!
+
+**multo danke!**
+Paljon kiitoksia!
+
+**si, danke.**
+Kyllä, kiitos.
+
+**no, danke.**
+Ei, kiitos.
+
+**danka te.**
+Kiitos sinulle.
+
+**me danka te.**
+Minä kiitän sinua.
+
+**me danka te helpa me.**
+Minä kiitän sinua minun auttamisesta.
+
+**danka te helpa me.**
+Kiitos kun autoit minua.
+
+**te keci.**
+Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
+
 
 ### me <small>minä</small>
+
+<p style="font-size:5em;">🗨️🧑</p>
 
 **me sarah.**
 Minä olen Sara.
@@ -105,6 +139,8 @@ lähteitä: englanti: me, hindi: मैं (mẽĩ), espanja: me.</small>
 
 ### te <small>sinä</small>
 
+<p style="font-size:4em;">🗣️👉👤</p>
+
 **te tomas.**
 Sinä olet Tomas.
 
@@ -125,6 +161,8 @@ lähteitä: unkari: te, venäjä: ты (ty), italia: te, ranska: te.</small>
 
 
 ### le <small>hän, se</small>
+
+<p style="font-size:4em;">👥🗣️👉👤</p>
 
 **le man.**
 Hän on mies.
@@ -147,6 +185,8 @@ lähteitä: ranska: elle, espanja: él.</small>
 
 
 ### eska <small>kysyä</small>
+
+<p style="font-size:5em">🤔❓</p>
 
 **eska te tomas?**
 Oletko sinä Tomas?
@@ -283,7 +323,7 @@ Keitä he ovat?
 lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### ye <small>tämä, tuo</small>
+### ye e we <small>tämä ja tuo</small>
 
 **ye ke? / ke ye?**
 Mikä tämä on?
@@ -291,20 +331,27 @@ Mikä tämä on?
 **ye aple.**
 Tämä on omena.
 
-**ye ros aple.**
+**we ke? / ke we?**
+Mikä tuo on?
+
+**we oranje.**
+Tuo on appelsiini.
+
+**ye kirmi aple.**
 Tämä on punainen omena.
 
-**yi aple ros.**
+**yi aple kirmi.**
 Tämä omena on punainen.
 
-Huom! Kun adjektiivi, kuten **ros**, on ennen substantiivia, se toimii määreenä. Mutta kun adjektiivi on substantiivin perässä, se toimii verbinä.
+Huom! Kun adjektiivi, kuten **kirmi**, on ennen substantiivia, se toimii määreenä.
+Mutta kun adjektiivi on substantiivin perässä, se toimii ikään kuin verbinä.
 
-**ye ros.**
+**ye kirmi.**
 Tämä on punainen.
 
 
-Huom! Osoittavalla pronomineilla on kaksi muotoa: Muotoa **ce**
-käytetään yksinään, kun taas muotoa **ci** käytetään
+Huom! Osoittavilla pronomineilla on kaksi muotoa: Muotoa **ye**
+käytetään yksinään, kun taas muotoa **yi** käytetään
 määrittämään perässä olevaa substantiivia.
 
 **lole sa ke?**
@@ -325,7 +372,7 @@ Mikä tämä on?
 **ye me du fone.**
 Se on minun puhelin.
 
-**ce ke ya?**
+**ye ke du?**
 Kenen tämä on?
 
 **ye mi.**
@@ -337,7 +384,7 @@ tarkoittaa "minun", **te di** tarkoittaa "sinun" jne.
 **le ke?**
 Kuka hän on?
 
-**le si me du doste.**
+**le si mi doste.**
 Hän on minun ystävä.
 
 **me si sarah du doste.**
@@ -415,6 +462,8 @@ Voitko auttaa minua?
 **eska me abla helpa te?**
 Voinko auttaa sinua?
 
+**me wana helpa te.**
+Haluan auttaa sinua.
 
 
 ## Osa 2: Ruokailu
@@ -440,8 +489,10 @@ Juotko kahvia?
 **me niama kafe.**
 Minä juon kahvia.
 
-Vinkki: Sana **kana**
-sisältää sekä syömisen että juomisen. Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevä sana. Yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
+Vinkki: Sana **niama**
+sisältää sekä syömisen että juomisen.
+Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
+koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
 **me niama kafe e pang.**
 Minä nautin kahvia ja leipää.
@@ -500,29 +551,6 @@ Tulepa kotiin.
 Autapa minua.
 
 
-
-### danke <small>kiitos</small>
-
-**danke!**
-Kiitos!
-
-**danka te.**
-Kiitos sinulle.
-
-**me danka te.**
-Minä kiitän sinua.
-
-**me danka te helpa me.**
-Minä kiitän sinua minun auttamisesta.
-
-**danka te helpa me.**
-Kiitos kun autoit minua.
-
-**te keci.**
-Ole hyvä. (Sanan mukaisesti: _Olet kohtelias._)
-
-
-
 ### haida <small>tehkäämme</small>
 
 **haida niama!**
@@ -563,7 +591,7 @@ Anteeksi, minä en ymmärrä.
 **pardon! ye ke?**
 Anteeksi, mikä tämä on?
 
-**pardon. te namu ke?**
+**pardon. ti name ke?**
 Anteeksi, mikä sinun nimi on?
 
 
@@ -604,7 +632,7 @@ Osaatko panduniaa?
 **me abla pandunia.**
 Minä osaan panduniaa.
 
-**me abla lil pandunia.**
+**me abla lilo pandunia.**
 Minä osaan vähän panduniaa.
 
 **me no abla engli.**
@@ -699,8 +727,8 @@ Kirjoittaisitko sen tähän!
 **eska tote baxa pandunia.**
 Puhutteko te panduniaa?
 
-**mome baxa pandunia.**
-Me puhumme panduniaa.
+**mome abla baxa pandunia.**
+Me osaamme puhua panduniaa.
 
 **eska te abla baxa engli?**
 Osaatko puhua englantia?
@@ -794,24 +822,24 @@ Panduniassa sanaa **sa**
 voi käyttää yksinään ilman verbiä.
 
 **me werka sa...**
-Olen töissä ...lla.
+Työskentelen ...lla.
 
 
 
-### domu <small>asua</small>
+### doma <small>asua</small>
 
-**te domu ke?**
+**te doma ke?**
 Missä sinä asut?
 
-**me domu singapur.**
+**me doma singapur.**
 Asun Singaporessa.
 
 **eska te domu yi hotel?**
 Astuko tässä hotellissa?
 
-On oikein sanoa "te domu sa ke?" lyhyemmän muodon "te domu ke" sijasta. Kuitenkin **doma**
-kattaa yksinäänkin jossakin olemisen, joten sanaa **sa**
-ei välttämättä tarvita.
+On oikein sanoa "te doma sa ke?" lyhyemmän muodon "te doma ke" sijasta.
+Kuitenkin **doma** kattaa yksinäänkin jossakin olemisen,
+joten sanaa **sa** ei välttämättä tarvita.
 
 
 
@@ -819,6 +847,9 @@ ei välttämättä tarvita.
 
 **pliza denga!**
 Odota!
+
+**denga me!**
+Odota minua!
 
 **lole denga mome.**
 He odottavat meitä.
@@ -854,7 +885,7 @@ Minä tervehdin sinun ystävääsi.
 **man paso vida fem.**  
 Mies katsoi naista.
 
-**le pas xefe.**  
+**le paso xefe.**  
 Hän oli ennen päällikkö.
 
 **le paso sa dome.**  
