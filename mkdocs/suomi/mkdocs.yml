@@ -3,7 +3,12 @@ site_url: http://www.pandunia.info/suomi
 site_author: Risto Kupsala
 docs_dir: ../../suomi
 site_dir: ../../html/suomi
-theme: cerulean
+theme:
+  name: cerulean
+  language: fi
+plugins:
+    - search:
+        lang: fi
 nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':

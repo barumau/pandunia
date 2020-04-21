@@ -2,7 +2,9 @@ site_name: Pandunia
 site_url: http://www.pandunia.info/polski
 docs_dir: ../../polski
 site_dir: ../../html/polski
-theme: cerulean
+theme:
+  name: cerulean
+  language: pl
 nav:
     - Główna: 'index.md'
     - 'Info':

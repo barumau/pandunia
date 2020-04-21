@@ -2,7 +2,12 @@ site_name: Pandunia
 site_url: http://www.pandunia.info/fransi
 docs_dir: ../../fransi
 site_dir: ../../html/fransi
-theme: cerulean
+theme:
+  name: cerulean
+  language: fr
+plugins:
+    - search:
+        lang: fr
 nav:
     - Accueil: 'index.md'
     - 'Info':
