@@ -783,13 +783,13 @@ Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pr
 
 ### 8.1. Peruskonjunktiot
 
-1. **i** ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
-2. **u** tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)
+1. **e** ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
+2. **o** tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)
 3. **a** mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)
 
-**me suku maw i waf.**
+**me suku maw e waf.**
 = Minä pidän kissoista ja koirista.  
-**me suku maw u waf.**
+**me suku maw o waf.**
 = Minä pidän kissoista tai koirista.  
 **me suku maw a no waf.**
 = Minä pidän kissoista mutta en koirista.
@@ -1102,7 +1102,7 @@ Laatusanat ja lukusanat riippuvat pääsanastaan.
 
 Sanaluokkien arvojärjestys panduniassa:
 
-1. Konjunktiot: i, u
+1. Konjunktiot: e, o
 2. Määrepartikkelit: yu, ya
 3. Prepositiot: sa, pa, du
 4. Teonsanat
@@ -1111,17 +1111,17 @@ Sanaluokkien arvojärjestys panduniassa:
 7. Lukusanat
 8. Laatusanat
 
-Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **i** on yleisesti ottaen tärkeämpi kuin **sabu**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sarah**. **sabu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
+Seuraavassa esimerkissä näytetään, kuinka sanojen vaikutuspiiri vaikuttaa niiden lopulliseen asemaan puukaaviossa. Vaikka esimerkiksi **e** on yleisesti ottaen tärkeämpi kuin **sabu**, tässä sen vaikutuspiirissä on vain sanat **yusef** ja **sarah**. **sabu** on ylimmäisenä, koska se yhdistää kaksi alilausetta yhteen.
 
 
     Yusef ja Sara haluavat oppia panduniaa, koska se on hyvä maailmankieli.
-    yusef i sarah wana darsa pandunia, sabu le si bon dunia bax.
+    yusef e sarah wana darsa pandunia, sabu le si bon dunia bax.
 
                         sabu
                ┌──────────┴──────────┐
               wana                   si
           ┌────┴──────┐           ┌──┴──┐
-          i         darsa        le    bax
+          e         darsa        le    bax
       ┌───┴───┐    ┌──┴────┐            |
     yusef   sarah      pandunia       dunia
                                         |
