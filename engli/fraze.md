@@ -328,7 +328,7 @@ Who are they?
 Bengali: কী "ki".</small>
 
 
-### ye <small>this</small>
+### ye e we <small>this and that</small>
 
 **ye ke? / ke ye?**
 What's this?
@@ -336,35 +336,37 @@ What's this?
 **ye aple.**
 This is an apple.
 
+**we ke? / ke we?**
+What is that?
+
+**we oranje.**
+That is an orange.
+
 **ye kirmi aple.**
 This is a red apple.
 
 **yi aple kirmi.**
 This apple is red.
 
-Note: When an adjective, like **kirmi**, is placed before a noun, it works as a
-modifier. When it follows the noun, it works as an adjectival verb.
+Note: When an adjective, like **kirmi**, is placed before a noun, it works as a modifier.
+When it follows the noun, it works as an adjectival verb.
 
 **ye kirmi.**
 This is red.
 
+Note: The demonstrative pronouns have two forms.
+Forms **ye** and **we** are used when they stand alone.
+Forms **yi** and **wi** are used when they modify another noun.
 
-### we <small>that</small>
+**lole sa ke?**
+Where are they?
 
-**we ke? / ke we?**
-What's that?
+**lole sa we.**
+They are there.
 
-**we aple.**
-That is an apple.
+**mome sa ye.**
+We are here.
 
-**we kirmi aple.**
-That is a red apple.
-
-**wi aple kirmi.**
-That apple is red.
-
-**we kirmi.**
-That is red.
 
 
 

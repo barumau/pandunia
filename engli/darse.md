@@ -44,7 +44,7 @@ simply replace it with **no** (which is the word for _no_).
 
 **maw si hewan.**
 = The cat is an animal.  
-**dom no hewan.**
+**dome no hewan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying **me** and a word

@@ -262,7 +262,7 @@ They are put before the word or phrase that they qualify.
 – three stars  
 **xaw xing**
 – few stars  
-**pol xing**
+**multi xing**
 – many stars
 
 **un day kurse**
