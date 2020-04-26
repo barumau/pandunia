@@ -1281,7 +1281,6 @@ konkani - konkani (eräs intialainen kieli)
 konserte - konsertti  
 konsida - pitää jonakin  
 konsone - konsonantti  
-kontinu - jatkua  
 kontra - vastaan (vasten)  
 konuse - kartio (keila)  
 kope - kuppi (muki)  
@@ -1438,7 +1437,7 @@ lisane - kieli (elin)
 lisi - sileä  
 liste - lista (luettelo)  
 litium - litium  
-litre - litra  
+litre - litre  
 livermorium - livermorium  
 liwomate - neste  
 liwomati - nestemäinen  

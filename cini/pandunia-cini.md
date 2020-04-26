@@ -143,6 +143,7 @@ dunia - 世界
 e - 和  
 ##e
 ekore - 松鼠  
+eletrolinye - 电缆 (电线)  
 emoje - 绘文字  
 emosohal - 心情  
 esa - 对  
@@ -153,6 +154,7 @@ ewanjile - 福音
 fase - 面  
 fate - 事实  
 feme (fem) - 女  
+feni - 数字的  
 filosofia - 哲学  
 fiorde - 峡湾  
 firuze - 绿松石  
@@ -234,6 +236,7 @@ kanosuyogas - 催泪瓦斯
 karbonodulokside - 二氧化碳  
 karde - 牌  
 karolekse - 动词  
+karomisa - 提交  
 karte - 地图  
 kartografia - 地图学  
 kaske - 壳 (皮)  
@@ -257,6 +260,7 @@ komputer - 计算机
 koncunge - 昆虫  
 konfusi - 困惑 (混乱)  
 konserte - 音乐会  
+kontini - 指针式的  
 kope - 杯子  
 kortokrokodile - 短吻鳄  
 kosmi - 宇宙的  
@@ -294,6 +298,7 @@ limone - 柠檬
 linse - 猞猁 (山貓)  
 lisane - 舌头  
 liste - 单子  
+litre - литр  
 loga - 说话 (讲)  
 loka - 放置  
 loke - 地方  
@@ -332,6 +337,7 @@ memula - 忘记
 mene - 意义  
 mening - 脑脊膜  
 metalojanger - 铁匠  
+metre - 米 (公尺)  
 mey (meyi) - 每  
 meze - 桌子  
 migra - 搬家  
@@ -425,6 +431,7 @@ rototufane - 飓风 (台风)
 roze - 玫瑰  
 rupoboni - 好看  
 ##s
+sa linye - 在线  
 sabune - 肥皂  
 safare - 旅行  
 sahi - 正确  
@@ -432,6 +439,7 @@ salame - 迎接
 sale - 盐  
 samane - 天空  
 samoraye - 一致  
+samosifia - 模型   
 samude - 海  
 samudojel - 海蜇  
 samudotate - 海岸  
@@ -450,6 +458,7 @@ si - 对 (是)
 sihe - 健康  
 sihi - 健康  
 sikliste - 骑自行车的人  
+sira - 隐藏  
 sis - 六 (6)  
 soci jinse - 社會性別  
 socia - 社会  

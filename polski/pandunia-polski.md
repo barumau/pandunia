@@ -1339,7 +1339,7 @@ konkani - konkani
 konserte - koncert  
 konsida - rozważać, brać pod uwagę  
 konsone - spółgłoska  
-kontinu - kontynuować; wznawiać, ponawiać  
+kontini - kontinu  
 kontra - być przeciw  
 konuse - szyszka  
 kope - kubek  
@@ -1508,7 +1508,7 @@ lisane - język
 lisi - gładki  
 liste - lista, spis, wykaz  
 litium - lit  
-litre - litr  
+litre - litro  
 livermorium - liwermor  
 liwomate - ciecz (płyn)  
 liwomati - ciekły (płynny)  

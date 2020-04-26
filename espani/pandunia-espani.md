@@ -316,6 +316,8 @@ botolefte - babor
 botone - botón  
 botoraite - estribor  
 botoxefe - capitán  
+brauza - explorar  
+brauzer - navegador web  
 bravo - bravo!  
 brazavili kongolia - República del Congo  
 brazilia - Brasil  
@@ -386,6 +388,7 @@ cerium - cerio
 cerni - negro  
 cernogoria - Montenegro  
 cesium - cesio  
+ciani - cian  
 cilia - Chile  
 cimpanze - chimpancé  
 cincile - chinchilla  
@@ -513,6 +516,7 @@ dixo - directamente
 doici - alemán  
 doicia - Alemania  
 dokume - documento (archivo, nota)  
+dokumosanduke - carpeta  
 dolare - dolar  
 dolfine - delfín  
 doma - vivir (residir)  
@@ -581,6 +585,7 @@ ekrane - pantalla
 ekuador - Ecuador  
 eletre - electricidad  
 eletri - eléctrico  
+eletrolinye - cable  
 eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eme - unidad fundumental  
@@ -610,6 +615,7 @@ eska - preguntar (inquirir)
 eskale - escalera  
 eske - pregunta  
 eski - interrogativa  
+eskodokum - formulario  
 eskotia - Escocia  
 eskulta - esculpir  
 eskulte - escultura (estatua)  
@@ -675,6 +681,7 @@ femiste - feministe
 femistia - feminismo  
 fena - dividir (repartir)  
 fene - parte (fracción)  
+feni - discreto (digital)  
 fenodona - contribuir  
 fenu - partir (dividirse)  
 fere - hierro  
@@ -1212,6 +1219,7 @@ karma - hacer (actuar, cometer)
 karnadi - cararés  
 karnadia - Karnataka  
 karolekse - verbo  
+karomisa - entregar (enviar)  
 karote - zanahoria  
 karte - mapa  
 kartografia - cartografía  
@@ -1343,7 +1351,7 @@ konkani - konkani
 konserte - concierto  
 konsida - considerar (pensar en)  
 konsone - consonante  
-kontinu - continuar (reanudar)  
+kontini - continuo (analógico)  
 kontra - estar en contra  
 konuse - cono  
 kope - vaso (taza, copa)  
@@ -1562,6 +1570,7 @@ luza - perder (no ganar)
 luzer - perdedor  
 ##m
 maca - emparejar (quedar)  
+macabli - compatible  
 madagasi - malgache  
 madagasia - Madagascar  
 madiaria - Hungría  
@@ -1576,6 +1585,7 @@ maidani - abierto (extenso)
 maidanofobia - agorafobia  
 maise - maíz  
 maitnerium - meitnerio  
+majenti - magenta (fucsia)  
 makale - artículo (texto)  
 makane - mantequilla  
 makase - tijera  
@@ -1714,7 +1724,7 @@ metale - metal
 metalojanger - herrero  
 mete - medida  
 metode - método  
-metre - metre  
+metre - metro  
 mexikia - México  
 mexikia site - Ciudad de México  
 mey (meyi) - cada  
@@ -2360,6 +2370,7 @@ rutine - rutina (hábito)
 ##s
 sa - con (en, a)  
 sa ke - dónde  
+sa linye - en línea  
 sa sabu - porque  
 sa ye - acá (aquí)  
 saba - causar  
@@ -2408,6 +2419,9 @@ samoraya - acordar
 samoraye - acuerdo  
 samoromansi - homorromántico  
 samoseksi - homosexual  
+samosifa - simular  
+samosifi - similar  
+samosifia - modelo (similitud, simulación)  
 samowia - Samoa  
 samu - parecerse a  
 samude - mar  
@@ -2451,6 +2465,8 @@ sekunde - segundo
 sekundometer - cronómetro  
 sekura - proteger (asegurar, guardar)  
 sekuri - seguro  
+sekurokode - contraseña  
+sekuronombre - número de identificación personal  
 sele - célula  
 selenium - selenio  
 selolojia - citología  
@@ -2497,6 +2513,7 @@ singapur - Singapur
 singe - león  
 sinokafase - caja torácica  
 sinye - señal (letrero, indicio)  
+sira - ocultar (esconder)  
 siri - secreto  
 sirke - vinagre  
 sis - seis (6)  
@@ -2768,6 +2785,7 @@ usamerikia - Estados Unidos de América
 uza - usar (aplicar)  
 uzbekia - Uzbekistán  
 uzer - usuario  
+uzeronam - nombre de usuario  
 ##v
 vagine - vagina  
 vaginitis - vaginitis  

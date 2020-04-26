@@ -377,6 +377,7 @@ búbalo (arni) - kabawe
 caballo - gude  
 cabeza - sare  
 cabina - kabine  
+cable - eletrolinye  
 Cabo Verde - kabuverdia  
 cabra - buze  
 caca - kake  
@@ -448,6 +449,7 @@ carne - manse
 carne de cerdo - gurubomanse  
 carne de vaca - muhomanse  
 carpa (toldo) - haime  
+carpeta - dokumosanduke  
 carpintero - mokojanger  
 cartografía - kartografia  
 carvis (alcaravea) - karawe  
@@ -517,6 +519,7 @@ chocolate - cokolate
 choque (sacudida) - xoke  
 chorrear - lowa  
 chupar (succionar) - cupa  
+cian - ciani  
 ciclista - sikliste  
 cielo - samane  
 cien (##) - hon (honi)  
@@ -595,6 +598,7 @@ comino - zire
 Comoros - komori nesia  
 compartir (tener en común) - komuna  
 compasión - samemose  
+compatible - macabli  
 compatriota - samodexi  
 compañero (compinche) - latoren  
 compañía (empresa, corporación) - kompania  
@@ -642,8 +646,9 @@ constitución - bazokanun
 construir (edificar) - bina  
 contener - inda  
 contenido - tene  
-continuar (reanudar) - kontinu  
+continuo (analógico) - kontini  
 contrario (opuesto) - anti  
+contraseña - sekurokode  
 contribuir - fenodona  
 copiar (réplica) - kopiya  
 copiar (réplica) - kopiye  
@@ -841,6 +846,7 @@ dirigente (líder) - lider
 dirigir (gestionar, administrar) - noma  
 dirigir (mandar, conducir, capitanear) - lida  
 disco - diske  
+discreto (digital) - feni  
 discusión (debate, discurso) - lona  
 disentir (no estar de acuerdo) - aloraya  
 disionario (lexicón) - leksoliste  
@@ -942,6 +948,7 @@ empresario - bizneser
 empujar (presionar) - puxa  
 en el sentido contrario al las agujas del reloj - antorelojodixo  
 en el sentido del las agujas del reloj - relojodixo  
+en línea - sa linye  
 encanto - carme  
 encarcelar (aprisionar) - prizona  
 encontrar - mita  
@@ -962,6 +969,7 @@ entender (comprender) - aha
 entero (todo) - holi  
 entrada - jinomun  
 entre - medu  
+entregar (enviar) - karomisa  
 entristecer (poner triste) - duka  
 enviar (transmitar) - misa  
 envoltura - lifafe  
@@ -1063,6 +1071,7 @@ excelente - guni
 excepto (menos) - mina  
 exceptuar (excepto, salvo) - cula  
 existir (estar presente) - zayu  
+explorar - brauza  
 exportar - wayomisa  
 exposición (espectáculo) - xowe  
 expulsar - waya  
@@ -1122,6 +1131,7 @@ fono (segmento acústico) - fone
 fonología - fonolojia  
 forma (figura) - forme  
 formateo - kitaborupe  
+formulario - eskodokum  
 foro (espacio público) - forum (forume)  
 fosa - kave  
 foto (fotografía) - fotograf  
@@ -1667,6 +1677,7 @@ maestro (experto) - mester
 maestro (gurú, profesor) - gure  
 maestro (profesor) - darsogur  
 maestro (profesor) - xense  
+magenta (fucsia) - majenti  
 magia - magia  
 magical - magi  
 magma - pastopetre  
@@ -1775,7 +1786,7 @@ meta (gol) - gole
 metal - metale  
 metal pesado - barometal  
 meter prisa - yala  
-metre - metre  
+metro - metre  
 metro - tunelotren  
 mez - mes (mese)  
 mezclar - mixa  
@@ -1811,6 +1822,7 @@ mochila - rukosake
 moda (moderno, popular) - faxoni  
 moda (tendencia) - faxone  
 modelar - modele  
+modelo (similitud, simulación) - samosifia  
 modelo - modela  
 modo (manera, forma) - mode  
 modo nocturno - nocomode  
@@ -1902,6 +1914,7 @@ nanometre - nanometre
 naranja - oranje  
 nariz - nose  
 nasal - nosi  
+navegador web - brauzer  
 navegar (ir en bote) - bota  
 Navidad - kristojen  
 Nazi - naciste  
@@ -1943,6 +1956,7 @@ nobiembre - mes 11 (mes des un)
 noche (tarde) - xame  
 noche - noce  
 nombre - nam (name)  
+nombre de usuario - uzeronam  
 norma - norme  
 norma - normi  
 norte - norde  
@@ -1973,6 +1987,7 @@ Níger - nijeria
 níquel - nikele  
 nómada - badawi  
 número - nombre  
+número de identificación personal - sekuronombre  
 o - o  
 ##o
 oasis - wase  
@@ -1982,6 +1997,7 @@ occidental - westi
 Oceanía - oseania  
 ocho (8) - bal  
 octubre - mes 10 (mes des)  
+ocultar (esconder) - sira  
 ocupado (atareado) - bizi  
 océano - dayosamude  
 océano Antártico - antarti samude  
@@ -2607,8 +2623,10 @@ silencioso - xixi
 silicio - silike  
 silla - kurse  
 similar (mismo) - sami  
+similar - samosifi  
 simple - simpli  
 simpático (amable) - dosti  
+simular - samosifa  
 sin - na  
 sin embargo - lekin (lekino)  
 Singapur - singapur  

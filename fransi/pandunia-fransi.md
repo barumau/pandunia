@@ -209,6 +209,7 @@ fase - face (facette)
 fata - faire  
 fate - fait  
 favori - favori (préféré)  
+feni - distinct (numérique)  
 filosofia - philosophie  
 fiorde - fiord  
 fitolojia - botanique  
@@ -297,6 +298,7 @@ karde - carte
 karimi - généreux  
 karimia - générosité (charité)  
 karolekse - verbe  
+karomisa - soumettre   
 karte - carte  
 kartografia - cartographie  
 kaske - carapace (coquille, coquillage, croûte)  
@@ -318,6 +320,7 @@ komputer - ordinateur
 koncunge - insecte  
 konfusi - perplexe (désorienté)  
 konserte - concert  
+kontini - continu (analogique)  
 kope - coupe (tasse, verre)  
 korne - corne  
 korone - couronne  
@@ -363,6 +366,7 @@ limone - citron
 linse - lynx  
 lisane - langue  
 liste - liste  
+litre - eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita  
 loga - parler  
 logivi - loquace  
 loka - mettre (placer)  
@@ -407,6 +411,7 @@ memula - oublier
 mening - méninge  
 mes (mese) - mois  
 mester - maître  
+metre - mètre  
 meze - table  
 migre - migration  
 migru - s'installer (déménager)  
@@ -519,6 +524,7 @@ roze - rose
 ruhe - psyché  
 ruholojia - psychologie  
 ##s
+sa linye - en ligne  
 safariste - touriste  
 sahi - correct (juste)  
 sake - sac  
@@ -527,6 +533,7 @@ sale - sel
 samane - ciel  
 samemose - compassion  
 samoraye - accord  
+samosifia - simulation  
 samude - mer  
 samudojel - méduse  
 samudotate - côte  
@@ -546,6 +553,7 @@ sihe - santé
 sihi - sain  
 sikle - bicyclette  
 sikliste - cycliste  
+sira - cacher  
 sis - six (6)  
 site - ville  
 socia - société  

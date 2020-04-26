@@ -941,6 +941,7 @@ lisane - lango
 lisi - glata  
 liste - listo  
 litium - litio  
+litre - lita  
 lobake - rafaneto  
 loga - paroli  
 loge - parolo (vortoj)  
@@ -1021,6 +1022,7 @@ meta - mezuri
 metale - metalo  
 mete - mezuro  
 metode - metodo  
+metre - metro  
 mexikia - Meksikio  
 mey (meyi) - ĉiu(j)  
 meze - tablo  

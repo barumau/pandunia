@@ -981,7 +981,7 @@ konkurować, rywalizować; odbyć mecz, odbywać mecz - meca
 konopie - ganje  
 konsekwencja, skutek - bade  
 konstytucja - bazokanun  
-kontynuować; wznawiać, ponawiać - kontinu  
+kontinu - kontini  
 konwencjonalny, zwyczajowy, tradycyjny - rasmi  
 kopernik - kopernikium  
 kopia, replika - kopiye  
@@ -1126,7 +1126,7 @@ listopad - mes 8 (mes bal)
 lit - litium  
 litera, znak - harfe  
 litewski - lietuvi  
-litr - litre  
+litro - litre  
 Litwa - lietuvia  
 liwermor - livermorium  
 lodowy - aisi  

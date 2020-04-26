@@ -2,7 +2,7 @@
 
 ## Dictionary
 
-The original dictionary a file called
+The original dictionary is a file called
 [pandunia-lekse.csv](https://github.com/barumau/pandunia/blob/master/pandunia-lekse.csv).
 It is in character-separated format (CSV) and the cell separator is the vertical bar "|".
 It includes translations to english and many other languages.

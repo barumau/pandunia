@@ -835,6 +835,7 @@ lingvistiko - baxolojia
 lingvo - baxe  
 lipo - labe  
 listo - liste  
+lita - litre  
 litero - harfe  
 litio - litium  
 lito - bede  
@@ -933,6 +934,7 @@ metalo - metale
 metiero - pexe  
 metiisto - janger  
 metodo - metode  
+metro - metre  
 metroo - tunelotren  
 mezo - medi  
 mezuri - meta  

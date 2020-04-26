@@ -361,6 +361,7 @@ brighten - minga
 broken (shattered) - parci  
 bromine - bromium  
 brown - bruni  
+browser - brauzer  
 Brunei Darussalam - bruneyia  
 brush - broxe  
 bubble - bule  
@@ -391,6 +392,7 @@ buy (purchase) - xopa
 buyer - xoper  
 ##c
 cabin (booth) - kabine  
+cable (wire, line) - eletrolinye  
 Cabo Verde (Cape Verde) - kabuverdia  
 cadmium - kadomium  
 caesium - cesium  
@@ -577,6 +579,7 @@ Comoros - komori nesia
 companion (partner, sidekick) - latoren  
 company (corporation) - kompania  
 compassion (sympathy) - samemose  
+compatible (supported) - macabli  
 compatriot - samodexi  
 compete (have a match) - meca  
 compute (to process data) - komputa  
@@ -604,7 +607,7 @@ consonant - konsone
 consume (eat or drink) - niama  
 contain (include) - inda  
 content (possession) - tene  
-continue (resume) - kontinu  
+continuous (analog) - kontini  
 contribute - fenodona  
 conventional (customary, traditional) - rasmi  
 cook (chef) - kuker  
@@ -672,6 +675,7 @@ cushion (pillow) - kuxene
 custom (tradition, practice, convention) - rasme  
 cut - kata  
 cute (sweet) - kawayi  
+cyan - ciani  
 cyclist - sikliste  
 cyclone (hurrican, tornado, typhoon) - rototufane  
 Cyprus - kipris  
@@ -703,6 +707,7 @@ debate (discuss) - lona
 December - mes 12 (mes des dul)  
 deci- - deco-  
 decibel - decobel  
+decrement - minodarja  
 deed (fact) - fate  
 deem (think that) - raya  
 defecate (shit) - kaka  
@@ -746,6 +751,7 @@ directly - dixo
 disagree - aloraya  
 disagreement (disconsent) - aloraye  
 disc (disk) - diske  
+discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lone  
 dish - tase  
 disperse - jamula  
@@ -844,6 +850,7 @@ emotional (emotive) - emosi
 emperor - imperer  
 empire - imperia  
 empty (void) - kali  
+emulate (simulate, mimic, model) - samosifa  
 encode - koda  
 end - fine  
 endonym - indoname  
@@ -904,6 +911,7 @@ exist (be present) - zayu
 exit (leaving) - cute  
 exit door - cutomun  
 exonym - wayonam  
+explore (browse) - brauza  
 export - wayomisa  
 eye (look, watch) - kana  
 eye - kan (kane)  
@@ -983,6 +991,7 @@ fluorine - flure
 fly (go through air) - feya  
 fly (housefly) - zeze  
 focus (concentration) - fokuse  
+folder (directory) - dokumosanduke  
 follow (come after) - bada  
 food (meal) - niam (niame)  
 fool (buffoon) - bufone  
@@ -999,6 +1008,7 @@ forest (jungle, woods) - jangale
 foreward - jino  
 forget - memula  
 fork - forke  
+form (questionaire) - eskodokum  
 form (shape) - forme  
 formatting - kitaborupe  
 forum (public space) - forum (forume)  
@@ -1212,6 +1222,7 @@ heteroromantic - aloromansi
 heterosexual - aloseksi  
 hexagon - sisogon  
 hexahedron (cube) - sisofas  
+hide (conceal) - sira  
 high - gawi  
 Himalayas - himalia  
 Hindu - hindiste  
@@ -1292,6 +1303,7 @@ imperialist - imperiste
 import - indomisa  
 important - hami  
 imprison (jail) - prizona  
+increment - maxodarja  
 India - bartia  
 Indian - barti  
 Indian Ocean - barti samude  
@@ -1320,6 +1332,7 @@ intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - tez
 interest - interese  
 interesting - interesi  
 interethnic - zukomedi  
+interface - medofase  
 international - nasomedi  
 internet - internete  
 interpreter (translator) - tarjer  
@@ -1555,6 +1568,7 @@ mad (insane, crazy) - foli
 Madagascar - madagasia  
 madness (insanity) - folia  
 magazine (journal, gazette) - gazete  
+magenta (fuchsia) - majenti  
 magic - magia  
 magical - magi  
 magician (sorcerer) - mager  
@@ -1633,6 +1647,7 @@ mature (ripe, adult) - maturi
 Mauritania - muritania  
 Mauritius - morisia  
 maximal - maximi  
+maximize - maxima  
 maximum - maxime  
 May - mes 5 (mes lim)  
 Maya - mayane  
@@ -1695,6 +1710,7 @@ mineral (ore) - kuange
 mineral water - kuangosuy  
 minimal - minimi  
 minimalism - minimalistia  
+minimize - minima  
 minister - minister  
 ministry - ministeria  
 minor (not major) - minori  
@@ -1709,6 +1725,7 @@ mix (blend) - mixa
 mixer (blender) - mixer  
 model (design) - modela  
 model (design) - modele  
+model (similarity, simulation) - samosifia  
 Moldova - moldovia  
 mole (burrowing animal) - krote  
 mole (unit) - mole  
@@ -1888,6 +1905,7 @@ office (position) - ofise
 office (room) - ofiseria  
 officer - ofiser  
 official - ofisi  
+offline - na linye  
 often (frequently) - cango  
 oganesson - oganeson  
 ogre (troll, goblin) - guye  
@@ -1899,6 +1917,7 @@ Oman - omania
 once - un ban  
 one (1) - un  
 onion - piaze  
+online - sa linye  
 only (alone, solely, just) - mono  
 open (not closed) - kayi  
 open (wide, spacious) - maidani  
@@ -1908,6 +1927,7 @@ opponent (antagonist) - anter
 opportunity (chance) - canse  
 oppose (resist) - anta  
 opposite (anti-) - anti  
+optimize - kamila  
 option (choice) - cuzable  
 or - o  
 orange (fruit) - oranje  
@@ -2001,6 +2021,7 @@ pascal (Pa) - paskale
 pass (go by, go past) - pasa  
 pass (of time) - duru  
 passport - pasporte  
+password (security code) - sekurokode  
 past (bygone) - pasi  
 past times - pase  
 paste - paste  
@@ -2031,6 +2052,7 @@ permissible (allowed, halal) - halali
 Persian (Farsi) - farsi  
 person (people) - ren (rene)  
 personal (intimate, private) - tani  
+personal identification number (PIN) - sekuronombre  
 Peru - peruvia  
 Philippines - filipinia  
 philosopher - filosofer  
@@ -2488,6 +2510,7 @@ Sikhism - sikistia
 silent - xixi  
 silicon - silike  
 silver - argente  
+similar (analogous) - samosifi  
 simple (not complicated) - simpli  
 sing - canta  
 Singapore - singapur  
@@ -2612,6 +2635,7 @@ student (pupil, learner) - darser
 studio - estudia  
 stupid (idiotic) - idioti  
 submission (surrender) - islame  
+submit (present) - karomisa  
 substitute (replace) - visa  
 subway (metro) - tunelotren  
 suck - cupa  
@@ -2879,12 +2903,14 @@ use (employ, apply) - uza
 use (utility, benefit, gain, advantage) - faide  
 useful (beneficial) - faidi  
 user - uzer  
+username - uzeronam  
 Uzbekistan - uzbekia  
 ##v
 vaccine - vaksine  
 vacuum cleaner - funocuper  
 vagina - vagine  
 vaginitis - vaginitis  
+valid (workable) - funcubli  
 valley - vale  
 valve (tap, faucet) - krane  
 vampire - vampire  

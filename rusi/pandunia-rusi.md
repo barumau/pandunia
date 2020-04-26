@@ -99,6 +99,8 @@ bote - лодка (бот)
 botolefte - левый борт  
 botone - пуговица  
 botoraite - правый борт  
+brauza - исследовать  
+brauzer - браузер (веб-обозреватель)  
 bravo - браво  
 bruni - коричневый  
 buke - книга  
@@ -111,6 +113,7 @@ carme - шарм
 cay (caye) - чай  
 cayokupe - чайная чашка  
 cerni - чёрный  
+ciani - циан  
 cini - хань  
 cise - сыр  
 cokolate - шоколад  
@@ -135,11 +138,13 @@ dul o tin - пара
 dunia - мир (свет)  
 ##e
 ekore - белка  
+eletrolinye - провод (кабель)  
 emoje - смайлик (эмодзи)  
 emose - эмоция (чувство)  
 emosi - эмоциональный  
 emosohal - настроение  
 esa - быть  
+eskodokum - анкета  
 eskulter - скульптор  
 ewanjile - евангелие  
 ##f
@@ -290,6 +295,7 @@ limone - лимон
 linse - рысь  
 lisane - язык  
 liste - список  
+litre - litro  
 loga - говорить  
 loka - ставить  
 loke - место  
@@ -301,6 +307,7 @@ lutheristia - лютера́нство
 ##m
 magribia - Марокко  
 maidane - площадь (сквер, майдан)  
+majenti - маджента (фуксия)  
 mame - мать (мама)  
 mangese - магний  
 manihayistia - манихейство  
@@ -323,6 +330,7 @@ memonote - меморандум
 memula - забывать  
 mes (mese) - месяц  
 mester - мастер  
+metre - метр  
 meze - стол  
 migre - миграция  
 migru - переезжать  
@@ -417,6 +425,7 @@ roze - роза
 ruhe - душа (дух)  
 rukosake - рюкзак  
 ##s
+sa linye - онлайн  
 safrane - шафран  
 sahi - правильный  
 salame - приветствие  
@@ -424,6 +433,7 @@ sale - соль
 samane - небо  
 samemose - сострадание  
 samoraye - согласие  
+samosifia - симуляция  
 samude - море  
 samudi - морской  
 sanduice - сандвич  
@@ -440,6 +450,7 @@ serye - серия
 si - да  
 sida - сидеть  
 sikliste - велосипедист  
+sira - скрывать  
 sis - шесть (6)  
 slavi - славянский  
 soci jinse - гендер  

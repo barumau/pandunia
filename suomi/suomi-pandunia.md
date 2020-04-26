@@ -646,7 +646,6 @@ Jamaika - jamaikia
 Japani - niponia  
 japanilainen - niponi  
 jasmiini - malike  
-jatkua - kontinu  
 jauhaa myllyssä - mola  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yey  
@@ -1201,7 +1200,7 @@ lippu - bandere
 lista (luettelo) - liste  
 lisä- - maxi  
 litium - litium  
-litra - litre  
+litre - litre  
 litteä - plati  
 litši - lice  
 livermorium - livermorium  

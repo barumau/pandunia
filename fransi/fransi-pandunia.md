@@ -132,6 +132,7 @@ brûler - pira
 but - gole  
 bébé - bebe  
 ##c
+cacher - sira  
 café - kafe  
 cage - kafase  
 calculer - hisaba  
@@ -171,6 +172,7 @@ compote de pommes - aplosose
 comprendre (réaliser) - aha  
 concert - konserte  
 construire - bina  
+continu (analogique) - kontini  
 corne - korne  
 corps - badan (badane)  
 correct (juste) - sahi  
@@ -213,6 +215,7 @@ dieu - dew (dewe)
 dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
 disque - diske  
+distinct (numérique) - feni  
 divers (plusieurs) - balibali  
 document (dossier) - dokume  
 domestique - domi  
@@ -231,8 +234,10 @@ Einsteinium - ainstainium
 empruntre - jekogeta  
 en arrière - retro  
 en avant - jino  
+en ligne - sa linye  
 encore - yexo  
 enfant - bace  
+eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita - litre  
 envelopper (emballer) - lifafa  
 erroné - galti  
 espace - kali harfe  
@@ -388,6 +393,7 @@ moulin - molia
 mur - wale  
 mât - maste  
 mère (maman) - mame  
+mètre - metre  
 méduse - samudojel  
 mémoire - meme  
 méninge - mening  
@@ -547,11 +553,13 @@ sept (7) - sem
 sexe - jinse  
 shopping - xope  
 si - aga  
+simulation - samosifia  
 situation (état de choses) - xeyohale  
 six (6) - sis  
 société - socia  
 soldat - lasker  
 soleil - sole  
+soumettre  - karomisa  
 sucre - xukare  
 sueur - suede  
 suffixe pour dériver les noms - -e  

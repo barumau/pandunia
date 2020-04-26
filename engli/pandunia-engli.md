@@ -320,6 +320,8 @@ botolefte - port (left side of a ship)
 botone - button  
 botoraite - starboard (right side of a ship)  
 botoxefe - captain  
+brauza - explore (browse)  
+brauzer - browser  
 bravi - brave (gallant, valiant)  
 bravo - bravo!  
 brazavili kongolia - Congo (Brazzaville)  
@@ -391,6 +393,7 @@ cerium - cerium
 cerni - black  
 cernogoria - Montenegro  
 cesium - caesium  
+ciani - cyan  
 cilia - Chile  
 cimpanze - chimpanzee  
 cincile - chinchilla  
@@ -521,6 +524,7 @@ dixo - directly
 doici - German  
 doicia - Germany  
 dokume - document (record, file)  
+dokumosanduke - folder (directory)  
 dolare - dollar  
 dolfine - dolphin  
 doma - live in (reside in, inhabit)  
@@ -590,6 +594,7 @@ ekrane - screen
 ekuador - Ecuador  
 eletre - electricity  
 eletri - electric  
+eletrolinye - cable (wire, line)  
 eletron - electron  
 eletroposte (e-poste) - e-mail  
 eme - least distinguishable unit  
@@ -619,6 +624,7 @@ eska - ask (inquire)
 eskale - stairs (ladder)  
 eske - question  
 eski - interrogative  
+eskodokum - form (questionaire)  
 eskotia - Scotland  
 eskulta - sculpt  
 eskulte - sculpture (statue)  
@@ -684,6 +690,7 @@ femiste - feminist
 femistia - feminism  
 fena - divide (to partition)  
 fene - part (fraction)  
+feni - discrete (digital, quantized)  
 fenodona - contribute  
 fenu - split (fall apart)  
 fere - iron  
@@ -763,6 +770,7 @@ fule - flower
 fulovaze - vase (flower pot)  
 fulu - blossom (bloom)  
 funca - function (work)  
+funcubli - valid (workable)  
 fune - dust (powder)  
 funge - fungus  
 funocuper - vacuum cleaner  
@@ -1179,6 +1187,7 @@ kamarotale - floor
 kambudia - Cambodia  
 kamerunia - Cameroon  
 kamia - sexual desire (lust)  
+kamila - optimize  
 kamili - perfect  
 kamise - shirt  
 kamote - sweet potato  
@@ -1225,6 +1234,7 @@ karma - do (act, perform)
 karnadi - Kannada  
 karnadia - Karnataka  
 karolekse - verb  
+karomisa - submit (present)  
 karote - carrot  
 karte - map (chart)  
 kartografia - cartography  
@@ -1358,7 +1368,7 @@ konkani - Konkani
 konserte - concert  
 konsida - consider (regard)  
 konsone - consonant  
-kontinu - continue (resume)  
+kontini - continuous (analog)  
 kontra - be against  
 konuse - cone  
 kope - drinking vessel (cup, glass, mug)  
@@ -1584,6 +1594,7 @@ luza - lose (fail to win)
 luzer - loser  
 ##m
 maca - match (fit, suit, conform)  
+macabli - compatible (supported)  
 madagasi - Malagasy  
 madagasia - Madagascar  
 madiaria - Hungary  
@@ -1598,6 +1609,7 @@ maidani - open (wide, spacious)
 maidanofobia - agoraphobia  
 maise - corn (maize)  
 maitnerium - meitnerium  
+majenti - magenta (fuchsia)  
 makah - Mecca  
 makale - article (writing)  
 makane - butter  
@@ -1674,9 +1686,11 @@ max ko bas - too much
 maxel nesia - Marshall Islands  
 maxi - additional  
 maxim (maximo) - most (maximally)  
+maxima - maximize  
 maxime - maximum  
 maximi - maximal  
 maxine - machine  
+maxodarja - increment  
 maxori - major (not minor)  
 maxoria - majority  
 mayane - Maya  
@@ -1694,6 +1708,7 @@ mediker - doctor (physician, healer)
 medikia - medicine (field of study)  
 medileti den - Midsummer Day  
 medita - meditate (ponder)  
+medofase - interface  
 medu - among (amid, between)  
 megame - cloud  
 megi - million  
@@ -1763,10 +1778,12 @@ minare - tower
 minga - brighten  
 mingi - bright (brilliant, clear)  
 minim (minimo) - least (minimally)  
+minima - minimize  
 minimalistia - minimalism  
 minimi - minimal  
 minister - minister  
 ministeria - ministry  
+minodarja - decrement  
 minori - minor (not major)  
 minoria - minority  
 minute - minute  
@@ -1860,6 +1877,7 @@ muxe - mouse
 muxing - Jupiter  
 ##n
 na - without  
+na linye - offline  
 nabe - prophecy  
 naber - prophet  
 naciste - Nazi  
@@ -2390,6 +2408,7 @@ rutine - routine (habit)
 ##s
 sa - with (by, at, in, on)  
 sa ke - where  
+sa linye - online  
 sa sabu - because  
 sa ye - here (there)  
 saba - cause (be the cause for)  
@@ -2438,6 +2457,9 @@ samoraya - agree (concur)
 samoraye - agreement (consent)  
 samoromansi - homoromantic  
 samoseksi - homosexual  
+samosifa - emulate (simulate, mimic, model)  
+samosifi - similar (analogous)  
+samosifia - model (similarity, simulation)  
 samowia - Samoa  
 samu - resemble (be like)  
 samude - sea  
@@ -2482,6 +2504,8 @@ sekunde - second(s)
 sekundometer - stop watch  
 sekura - protect (secure, save)  
 sekuri - safe (secure, protected)  
+sekurokode - password (security code)  
+sekuronombre - personal identification number (PIN)  
 sele - cell (biology)  
 selenium - selenium  
 selolojia - cytology  
@@ -2528,6 +2552,7 @@ singapur - Singapore
 singe - lion  
 sinokafase - rib cage  
 sinye - sign (signal)  
+sira - hide (conceal)  
 siri - secret  
 sirke - vinegar  
 sis - six (6)  
@@ -2803,6 +2828,7 @@ usamerikia - United States of America (USA)
 uza - use (employ, apply)  
 uzbekia - Uzbekistan  
 uzer - user  
+uzeronam - username  
 ##v
 vagine - vagina  
 vaginitis - vaginitis  
