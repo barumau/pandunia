@@ -211,8 +211,9 @@ barbados|dex|BB||Barbados||Barbados||||||||||||||Barbados|Barbados
 barbare|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian||bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 barbudia|dex|||Barbuda||Barbuda||||||||||||||Barbuda|Barbuda
 barde|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard|barbe|barba|barba|борода|||||||||||barbo|parta|broda
-bare||||weight||peso|||||||||||||pezo|paino|waga (ciężkość)
+bare||||weight (burden)||pesa|||||||||||||||
 bari|||ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel:బరువు (baruvu), may:berat, ell: βαρύς (barýs)|heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
+baria||||weight (heaviness, gravity)||peso (gravedad)|||||||||||||pezo|paino|waga (ciężkość)
 barium|mate|Ba||barium|baryum|bario|||||||||||||bario|barium|bar
 barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
 barke!||||congratulations!||¡Felicitaciones!||||||||||||||onneksi olkoon!|gratulacje!
@@ -470,6 +471,7 @@ daw (dawe)|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:�
 dawiste||||Taoist||taoísta||||||||||||||taolainen|taoista
 dawistia||||Taoism (Daoism)||taoísmo||||||||||||||taolaisuus|taoizm
 day (dayi)|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great)||grande|||||||||||||granda|iso (suuri)|duży
+dayia||||size||tamaño|||||||||||||||
 dayodarsia||||university||universidad||||||||||||||yliopisto|uniwersytet
 dayosamude|||vie:đại dương, kor:대양 (daeyang), jpn:大洋 (taiyō), zho:大洋 (dàyáng), tha:มหาสมุทร (mahasamut), hin:महासागर (mahāsāgar)|ocean|océan|océano|oceano|океан||大洋||||महासागर||samudra (lautan)||okyanus|oceano|valtameri|ocean
 dayu||||grow (get bigger)||crecer (aumentar)||||||||||||||kasvaa (suurentua)|urosnąć, rosnąć, wzrosnąć, wzrastać
@@ -865,6 +867,7 @@ grome|||rus:гром (grom), pol:grom|thunder (roaring)||truenos (estruendo)||г
 gromotufane||||thunderstorm||tormenta||||||||||||||ukkosmyrsky|burza z piorunami
 grosi|||fra:gros, por:grosso, spa:grueso|thick||grueso||||||||||||||paksu|gruby
 grosi harfe||||bold letter||letra negrita||||||||||||||lihavoitu kirjain|pogrubiona litera
+grosia||||thickness||grosor|||||||||||||||
 grupe|||deu:Gruppe, fra:groupe, eng:group, spa:por:grupo, rus:группа (gruppa), kor:그룹 (geurup), jpn:グループ (gurūpu), tur:grup, hin:ग्रूप (grūp)|group|groupe|grupo|grupo|группа||||||||||grup|grupo|ryhmä|grupa
 guadelupia|dex|GP||Guadeloupe||Guadalupe||||||||||||||Guadeloupe|Gwadelupa
 guamia|dex|GU||Guam||Guam||||||||||||||Guam|Guam
@@ -1419,9 +1422,10 @@ kruasante|niame||fra:eng:croissant, por:croassã, spa:cruasán, rus:круасс
 krusa||||cross (go across)||cruzar|||||||||||||||przejść w poprzek
 kruse|||eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|cross|croix|cruz|cruz|крест||||||||||çarpı (haç)|kruco|risti|krzyż
 krusofiksa||||crucify||crucificar||||||||||||||ristiinnaulita|ukrzyżować
-kuange|||zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|mineral (ore)||ancho||||||||||||||kivennäinen (mineraali)|minerał, ruda
-kuangosuy||||mineral water||mineral (mena)||||||||||||||kivennäisvesi|woda mineralna
-kuani|||zho:宽 (kuān), tha:กว้าง (kwang), vie:quảng|wide (broad)||agua mineral||||宽||||||||||leveä|szeroki
+kuange|||zho:矿 (kuàng), vie:khoáng, kor:광 (guang)|mineral (ore)||mineral (mena)||||||||||||||kivennäinen (mineraali)|minerał, ruda
+kuangosuy||||mineral water||agua mineral||||||||||||||kivennäisvesi|woda mineralna
+kuani|||zho:宽 (kuān), tha:กว้าง (kwang), vie:quảng|wide (broad)||ancho||||||||||||||leveä|szeroki
+kuania||||width (breadth)||anchura|||||||||||||||
 kube|||spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|cube|cube|cubo|cubo|куб|كَعْبَة|立方体|立方体|입방체|hình lập phương|घन|ঘনক|kubus||küp|kubo|kuutio|sześcian
 kubia|dex|CU||Cuba||Cuba||||||||||||||Kuuba|Kuba
 kuga|||zho:哭 (kū), yue:哭 (huk1), vie:khóc|weep (cry)||llorar|||||||||||||plori|itkeä|płakać, łkać
@@ -1475,6 +1479,7 @@ lato||||sideways||de lado|||||||||||||||z boku (na bok)
 latoren||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
 latovia|dex|LV||Latvia|Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa
 laurensium|mate|Lr||lawrencium||laurencio|||||||||||||laŭrencio|lawrensium|lorens
+lawe||||elder||viejo (anciano)|||||||||||||||
 lawi|||zho:老 (lǎo), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo (anciano)|idoso|пожилой||老 (老年, 年歲大)|年配||già (lão)||||||||stary (sędziwy, wiekowy)
 lawi||||Lao (Laotian)||laosiano||||||||||||||laoslainen|laotański
 lawia|dex|LA||Laos||Laos||||||||||||||Laos|Laos
@@ -1846,6 +1851,7 @@ muke|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), 
 mukofun||||face powder||polvo de cara||||||||||||||puuteri|puder
 mule|||hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|root|racine|raiz|raíz|корень|جَذْر|根|根|뿌리|rễ|मूल (जड़)|মূল|akar|mzizi|kök|radiko|juuri|korzeń
 multi|||por:muito, Eng:fra:spa:multi-, rus:мульти- (mulʹti-)|many||muchos||||||||||||||moni (usea)|wiele
+multia||||number (abundance)||número (muchedumbre)|||||||||||||||
 multokulturi||||multicultural||multicultural|||||||||||||||wielokulturowy
 multokulturistia||||multiculturalism||multiculturalismo|||||||||||||||wielokulturowość
 multonasi||||multinational||multinacional||||||||||||||monikansallinen|wielonarodowy
@@ -1992,6 +1998,7 @@ notisa||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiad
 notise||||notice (notification)||aviso (notificación)||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
 notobuke||||notebook||cuaderno (libreta)|||||||||||||kajero|muistikirja|notatnik
 nova||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
+nove||||novelty||novedad|||||||||||||||
 novi|||rus:новый (novyy), por:novo, spa:nuevo, hin:नव (nav), eng:novel, fra:nouveau|new (recent)|nouveau|nuevo|novo|новый|جَدِيد|新|新しい|||नया||baru|-pya||nova|uusi|nowy
 novi kaledonia|dex|NC||New Caledonia||Nueva Caledonia||||||||||||||Uusi-Kaledonia|Nowa Kaledonia
 novi yorke site||||New York City|||||||||||||||||
@@ -2200,13 +2207,14 @@ podia|||tib:བོད (bod, phØ)|Tibet||Tíbet|||||||||||||Tibeto|Tiibet|Tybet
 poke|||eng:poker, zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|poker||póquer|||||||||||||pokero|pokeri|poker
 polaw|||fas:(polou), hin:पुलाव (pulav), tur:pilav, rus:плов (plov)|pilaf (pulao)||pilaf (pulaw)||плов||||||||||pilav||pilahvi|pilaw
 poli|||ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)|many (much)||muy|||||||||||||multe|paljon (monta)|wiele
-poli||||poly- (multi-)||mucho||||||||||||||moni- (poly-, multi-)|wielo- (poli-, multi-)
+polia||||amount (quantity)||cantidad|||||||||||||||
 polise||||police||policía||||||||||||||poliisi|policja
 poliser||||police officer||policía||||||||||||||poliiisi (poliisimies)|oficer policji, policjant
 politike|||ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)|politics||política|||||||||||||politiko|politiikka|polityka
 politiker||||politician||político|||||||||||||politikisto|poliitikko|polityk
 politiki||||political||político|||||||||||||politika|poliittinen|polityczny
 politikolojia||||politocology||ciencia política||||||||||||||politiikantutkimus|politologia
+polo||||poly- (multi-)||poli-||||||||||||||moni- (poly-, multi-)|wielo- (poli-, multi-)
 polodewistia||||polytheism||politeísmo||||||||||||||polyteismi (monijumalisuus)|politeizm
 polofase||||polyhedron||poliedro||||||||||||||monitahokas|wielościan
 pologone||||polygon||polígono|||||||||||||poligono|monikulmio (polygoni)|wielokąt (wielościan)
@@ -2265,6 +2273,7 @@ pume|||eng:spa:fra:por:swa:msa:tur:puma, rus:пума (puma), jpn:ピューマ (
 punte|||spa:punto, rus:пункт (punkt), eng:point|point (period, full stop)||punto|||||||||||||punkto|piste (täplä)|kropka (znak interpunkcyjny)
 pupe|||fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|doll (puppet)||marioneta (títere)||||||||||||||nukke|lalka, kukiełka, pacynka, marionetka
 pura||||fill|remplir|llenar||заполнять|||||||||||plenigi|täyttää|wypełnić, wypełniać
+purane||||relic||reliquia|||||||||||||||
 purani|||hin:पुराना (purānā), urd:(purānā), ben:পুৰণা (puron), pnb:ਪੁਰਾਣਾ (purāṇā)|old (ancient)||viejo (antiguo)||||||||पुराना|পুৰণা||||malnova|vanha (muinainen)|stary, starożytny
 puri|||hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)|full (complete)|plein|lleno (completo)|cheio|полный||||||पूर्ण|পূর্ণ||||plena|täysi|pełny
 puro||||fully (completely)|||||||||||||||plene|täysin|
@@ -2293,8 +2302,8 @@ randa||||smoothen with a plane||cepillar con garlopa||||||||||||||höylätä|heb
 rander|||tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)|plane (tool for making a smooth surface)||garlopa||||||||||||||höylä|hebel, strug
 rang (range)|||ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|color|couleur|color|cor|||||||रंग|রং||rangi|renk|koloro|väri|kolor
 rangi||||colored||colorido|||||||||||||kolora|värilline|kolorowy
-rapide||||speed (velocity)||rapidez (velocidad)|||||||||||||rapideco|nopeus (vauhti)|prędkość (szybkość)
 rapidi|||spa:por:rápido, eng:rapid, fra:rapide|fast (quick, rapid, speedy)|vite (rapide)|rápido|rápido|быстрый||快|速い|빠르다|Mau (nhanh)|तेज़ (तीव्र)||cepat|haraka|hızlı|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
+rapidia||||speed (velocity)||rapidez (velocidad)|||||||||||||rapideco|nopeus (vauhti)|prędkość (szybkość)
 rapidometer||||speedometer||velocímetro||||||||||||||nopeusmittari|prędkościomierz
 rase|||eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|race (breed)|race|raza|raça|раса||种族|人種|인종|chủng tộc|वंश (जाति)||bangsa (ras)||ırk|raco|rotu|rasa
 rasiste||||racist||racista|||||||||||||racisto|rasisti|rasista
@@ -2942,6 +2951,7 @@ xataniste||||Satanist||satanista||||||||||||||satanisti|satanista
 xatanistia||||Satanism (devil worship)||satanismo||||||||||||||satanismi (paholaisenpalvonta)|satanizm
 xatranje|||hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|chess||ajedrez||||||||शतरंज||catur|sataranji||ŝako|šakki|szachy
 xawi|||zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|little (few, not many)|peu|pocos|poucos|мало||少||||कम|||||malmulte|vähän|niewiele (mało)
+xawia||||scarcity||escasez|||||||||||||||
 xaxu|||zho:(shasha)|rustle||susurrar (curjir)||||||||||||||kahista|szeleścić
 xefe|||fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|chief (boss)|chef|jefe|chefe|шеф|||||||||||estro (ĉefulo)|päällikkö (pomo)|szef, kierownik
 xefi||||main (principal)||principal||||||||||||||pää-|główny
