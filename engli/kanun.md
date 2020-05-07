@@ -448,11 +448,11 @@ If there is anything right after the verb, it is the agent.
 Consider the following examples:  
 **me safa.**
 – I clean.  
-**me safa kamar.**
+**me safa kamare.**
 – I clean a room.  
-**kamar safu.**
+**kamare safu.**
 – Room is cleaned.  
-**kamar safu me.**
+**kamare safu me.**
 – Room is cleaned by me.
 
 As you can see, **-a** and **-u** indicate word orders that are opposite to each other.
@@ -618,7 +618,7 @@ recipient–verb–(optional agent).
 – Music is heard.  
 **pang beku.**
 – Bread is baked.  
-**kupe kaputu.**
+**kope parcu.**
 – Cup breaks. (Cup gets broken.)
 
 The agent can be mentioned after the verb with or without the preposition **da**.
