@@ -905,7 +905,7 @@ may be more understandable to simply rearrange the sentence entirely.
 
 **le loga loke da me no abla eureka sa karte.**
 – They named a place I couldn't find on the map.
-**me lewo cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
+**me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
 
 ### 9.3. Modal Particles
