@@ -891,6 +891,22 @@ With the modified noun at the beginning, we need to call into action the otherwi
 **yi kalam da su me zay kitaba si novi.**
 – This pen, with which I’m writing now, is new.
 
+#### 9.2.5. Modification with clauses
+
+Any clause can modify a noun in the same manner: the modified noun is moved to the beginning of the modifying clause
+and separated out with **da**, or moved to the end and separated out with **du**.
+
+**me xerca me paso abla laxa du eni xey.**
+– I'm looking for anything I might have left behind.
+
+In more complex cases, it can become challenging to maneuver the noun to the end of the clause. In these cases, the
+word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
+may be more understandable to simply rearrange the sentence entirely.
+
+**lole loga loke da me no abla eureka sa karte.**
+– They named a place I couldn't find on the map.
+**me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
+– I've tabulated the people that I think we should ask about joining our party.
 
 ### 9.3. Modal Particles
 
