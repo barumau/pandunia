@@ -93,13 +93,13 @@ Elles seront abordées plus en détail plus loin dans ce document.
 9. Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
     - ex. **me pliza te dona pes.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
-    - **me eska te baxa pandunia?** ‚Üí **eska te baxa pandunia?** = Parles-tu le pandunia?
-    - **me pliza te loga mingo.** ‚Üí  **pliza loga mingo.**
+    - **me eska te baxa pandunia?** → **eska te baxa pandunia?** = Parles-tu le pandunia?
+    - **me pliza te loga mingo.** →  **pliza loga mingo.**
       = S'il te plait, parle distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
     La liaison entre eux est marquée par la voyelle **-o-** qui s'insère entre les racines.
-    - ex. **hur-** (liberté) + **ist-** (partisan) ‚Üí **huriste** (libéraliste)
-    - ex. **post-** (courrier) + **sanduk-** (boîte) ‚Üí **postosanduke** (boîte à lettres)
+    - ex. **hur-** (liberté) + **ist-** (partisan) → **huriste** (libéraliste)
+    - ex. **post-** (courrier) + **sanduk-** (boîte) → **postosanduke** (boîte à lettres)
 
 
 ----------
