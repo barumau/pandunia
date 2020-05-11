@@ -903,7 +903,7 @@ In more complex cases, it can become challenging to maneuver the noun to the end
 word order may be relaxed as long as it is clear where in the modifying clause the noun goes. Note, however, that it
 may be more understandable to simply rearrange the sentence entirely.
 
-**le loga loke da me no abla eureka sa karte.**
+**lole loga loke da me no abla eureka sa karte.**
 – They named a place I couldn't find on the map.
 **me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
