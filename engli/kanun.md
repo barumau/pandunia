@@ -980,7 +980,7 @@ the preposition is complemented by a pronoun or a noun phrase.
 **me sa hotel.** - I'm in the hotel.  
 **me sona sa hotel.** - I sleep in the hotel.  
 **me sona ca xam pa sube.** - I sleep since evening until morning.  
-**me safara du london pa paris.** - I travel from London to Paris.  
+**me safara ca london pa paris.** - I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
