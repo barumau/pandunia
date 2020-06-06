@@ -141,11 +141,11 @@ Number can be mentioned with number words when it is needed.
 – a chair or chairs  
 **un kurse**
 – one chair  
-**dul kurse**
+**duli kurse**
 – two chairs  
-**tin kurse**
+**tini kurse**
 – three chairs  
-**pol kurse**
+**poli kurse**
 – many chairs; chairs
 
 
@@ -256,57 +256,57 @@ They are put before the word or phrase that they qualify.
 
 **un xing**
 – one star  
-**dul xing**
+**duli xing**
 – two stars  
-**tin xing**
+**tini xing**
 – three stars  
-**xaw xing**
+**xawi xing**
 – few stars  
 **multi xing**
 – many stars
 
 **un day kurse**
 – one big chair  
-**dul day kurse**
+**duli day kurse**
 – two big chairs  
-**tin bon kurse**
+**tini bon kurse**
 – three good chairs
 
 Ordinal numbers come after the word that they modify.
 
 **fen un**
 – the first part (part one)
-**fen dul**
+**fen duli**
 – the second part (part two)
-**fen tin**
+**fen tini**
 – the third part (part three)
 
 The basic number words are:
 
 - 0 **nol**
 - 1 **un**
-- 2 **dul**
-- 3 **tin**
-- 4 **car**
-- 5 **lim**
-- 6 **sis**
-- 7 **sem**
-- 8 **bal**
-- 9 **naw**
+- 2 **duli**
+- 3 **tini**
+- 4 **cari**
+- 5 **limi**
+- 6 **sisi**
+- 7 **seti**
+- 8 **bali**
+- 9 **navi**
 
 Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of mathematics.
 
-- 10 **un nol** or **des**
+- 10 **un nol** or **desi**
 - 11 **un un**
-- 12 **un dul**
+- 12 **un duli**
 - 13 **un tin**
-- 20 **dul nol**
-- 21 **dul un**
-- 22 **dul dul**
-- 100 **un nol nol** or **hon**
-- 101 **un nol un** or **hon un**
-- 200 **dul nol nol** or **dul hon**
+- 20 **duli nol**
+- 21 **duli un**
+- 22 **duli duli**
+- 100 **un nol nol** or **honi**
+- 101 **un nol un** or **honi un**
+- 200 **duli nol nol** or **duli honi**
 
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
