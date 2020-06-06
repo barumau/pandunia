@@ -219,7 +219,7 @@ bari|||ben:ভারী (bharī), hin:भारा (bhārā), urd:(bhārā), tel
 baria||||weight (heaviness, gravity)||peso (gravedad)|||||||||||||pezo|paino|waga (ciężkość)
 barium|mate|Ba||barium|baryum|bario|||||||||||||bario|barium|bar
 barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
-barke!||||congratulations!||¡Felicitaciones!||||||||||||||onneksi olkoon!|gratulacje!
+barke!||||congratulations! (blessing)||¡Felicitaciones!||||||||||||||onneksi olkoon!|gratulacje!
 barometal||||heavy metal||metal pesado|||||||||||||pezmetalo|raskasmetalli|metal ciężki
 barometer||||scales (weighing device)||pesa (báscula, balanza)||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
 barti|||hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|Indian||indio (hindú)|||||||||||||Barata|intialainen|Indyjski
@@ -316,7 +316,6 @@ bolivia||||Bolivia||Bolivia|||||||||||||Bolivio|Bolivia|Boliwia
 bombe|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|bomb|bombe|bomba|bomba|бомба||炸弹||||बम||bom||bomba|bombo|pommi|bomba
 bon (boni)|||fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|good|bon|bueno|bom|хороший|حَسَن|好|良い|||अच्छा||bagus|mzuri||bona|hyvä|dobry
 bon zare||||good luck||buena suerte||||||||||||||hyvä onni (tuuri, säkä, lykky)|dobry los, szczęście
-bonefete||||blessing (boon)||bendición||благо|||恵み||||||||||
 bonosinyi||||auspicious (promising)||auspicioso||благоприятный||吉利的|||||||||||
 bori|||eng:bored, hin:(bhorī)|bored||aburrido|||||||||||||enui|pitkästynyt|znudzony
 boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||enuo|tylsyys (pitkästys)|nuda (znudzenie)
@@ -610,7 +609,6 @@ duwa|||tur: dua, swa: dua, may: doa, ara: دُعَاء‏ /duʿāʾ/|pray||rezar
 duwe||||prayer||rezo (oración)|||||||||||||preĝo|rukous|modlitwa
 duxe|||fra: douche, deu:Dusche, tur:duş, rus:душ (duš), ara:(duš), spa:por:ducha|shower||ducha|||||||||||||duŝo|suihku|prysznic
 e|||fra:et, por:e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja|i, oraz
-efete|||spa:efecto, por:efeito, fra:effet, eng:effect, deu:Effekt, rus:эффект (effekt), tur:efekt, may:efek|effect (result)|effet|efecto|efeito|эффект||影响|効果||||||||||
 egali|||fra:égal, spa:por:igual, eng:equal|equal (fair)||igual (justo)|||||||||||||egala|tasapuolinen (reilu)|prawy, sprawiedliwy, słuszny, uczciwy, fair
 egalolinye||||equator||ecuador||||||||||||||päiväntasaaja|równik
 egalolinyi ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
@@ -1530,10 +1528,12 @@ laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)||basura (desechos)||||||||||
 lake||||lacquer (varnish)||laca||||||||||||||lakka|lakier
 lala|||swa:-lala|lie (lie down)||acostarse (echarse, tenderse, tumbarse)|||||||||||||kuŝi|maata (makoilla)|leżeć
 lampe|||fra:deu:lampe, eng:lamp, may:lampu|lamp||lámpara|||||||||||||lampo|lamppu|lampa
+lana||||curse (swear)||maldecir|||||呪う||||||||||
 lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
 lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||wyświetlać
 lancografe||||projection (image)|projection|proyección|projeção|||投影|投影||||||||projektio (diakuva)||rzut (projekcja)
 lancografer||||image projector||proyector|||||||||||||projektori (videotykki, piirtoheitin)||projektor (rzutnik)
+lane|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, far:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||
 langane|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 lankia|dex|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
 lantanum|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lantaani|lantan
@@ -1674,7 +1674,7 @@ madagasia|dex|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madiaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 mafana||||bother||molestar (preocupar)||||||||||||||vaivata|przeszkodzić, przeszkadzać, robić kłopot
 mafane||||trouble (disturbance, bother)||problema (disturio)||||||||||||||vaiva (haitta)|problem, kłopot, zakłócenie
-magefete||||spell (enchantment)|||||||||||||||||
+magorezulte||||spell (enchantment)|||||||||||||||||
 mager||||magician (sorcerer)||mago||||||||||||||taikuri|magik, czarownik
 magi||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
 magia||||magic||magia|||||||||||||magio|taika (taikuus, magia)|magia
@@ -1697,7 +1697,6 @@ malaria||||malaria||malaria (paludismo)||||||||||||||malaria|malaria
 malawia|dex|MW||Malawi||Malaui||||||||||||||Malawi|Malawi
 malayali|nas|||Malayali (Malayalam)||malayali (malabar, malayalam)||||||||||||||malajalam (eräs intialainen kieli)|malajski
 malayi||||Malay||malayo||||||||||||||malaiji|malajski
-malefete||||curse (bane)||maldición||проклятие|||呪い||||||||||
 malia|dex|ML||Mali||Mali|||||||||||||Malio|Mali|Mali
 malike|||kan:(mallige), tam:(mallikai), tel:(malla), may:melati,  kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì)|jasmine||jazmín|||||||||||||jasmeno|jasmiini|jaśmin
 malka||||own||poseer (ser dueño de)||||||||||||||omistaa|mieć (posiadać)
@@ -2459,7 +2458,7 @@ rezerva||||reserve (book)||reservar||||||||||||rezerve ettirmek|||rezerwować (z
 rezerve|||eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|reservation (booking, withholding)||réservation|reserva||||||||||||rezervo|varaus (ennakkovaraus)|rezerwacja
 rezine|||eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine|resin||resina|||||||||||||rezino|pihka (hartsi)|żywica
 rezulta||||lead to (bring about, result to)||||||||||||||||tuottaa (johtaa tulokseen)|
-rezulte||||result (outcome)||resulta||||||||||||||tulos|rezult, wynik
+rezulte||||result (effect, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果|||||||||tulos|rezult, wynik
 rici|||eng:rich, fra:riche, por:spa:rico|rich|riche|rico||||||||||||||rikas|bogaty
 rime|||spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|rhyme (verse)|rime|rima|rima|рифма||||||||||||säe (riimi)|rym (wers)
 riske|||fra:risque, eng:tur:risk, por:risco, rus:риск (risk), jpn:リスク (ja) (risuku), deu:may:risiko|risk||riesgo|||||||||||||risko|riski|ryzyko
