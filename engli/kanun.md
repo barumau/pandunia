@@ -1174,12 +1174,12 @@ These are the rules:
 - Modifiers almost always have the ending **-i**.
   The most common adjectives are exceptions to the rule: **bon, mal, lil, day**.
 - Nouns almost always have the ending **-e** or **-ia**.
-  Some common nouns are exceptions to the rule (ex. **cay, maw, man, fem, hotel**).
+  Some common nouns and suffixes are exceptions to the rule (ex. **cay, maw, hotel, kitaber, helium**).
 
 For example we normally use short word **insan** (_human being_) instead of **insane**.
 Likewise we normally say **bon** (_good_) instead of **boni**.
 Note that it is always acceptable to use the vowel endings on every word.
-It is an artistic choice by the authors of Pandunia to not require them on these basic words.
+It is an artistic choice by the authors of Pandunia to not require them on these words.
 
 
 ### 11.2. Compound words
