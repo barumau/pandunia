@@ -300,7 +300,7 @@ exactly like they are written in the universal numerical language of mathematics
 - 10 **un nol** or **desi**
 - 11 **un un**
 - 12 **un duli**
-- 13 **un tin**
+- 13 **un tini**
 - 20 **duli nol**
 - 21 **duli un**
 - 22 **duli duli**
@@ -311,7 +311,7 @@ exactly like they are written in the universal numerical language of mathematics
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
 
-- 1 000 **kil**
+- 1 000 **kili**
 - 1 000 000 **megi**
 - 1 000 000 000 **gigi**
 - 1 000 000 000 000 **teri**
@@ -1173,14 +1173,13 @@ These are the rules:
 - Verbs always have an ending: **-a** or **-u**.
 - Modifiers almost always have the ending **-i**.
   The most common adjectives are exceptions to the rule: **bon, mal, lil, day**.
-- Nouns have the ending after _hard_ consonants (ex. **supe, pede, yuke**)
-  and consonant groups (ex. **cante, poste, zebre**)
-  but not after _soft_ consonants (ex. **cay, maw, man, fem, hotel**).
+- Nouns almost always have the ending **-e** or **-ia**.
+  Some common nouns are exceptions to the rule (ex. **cay, maw, man, fem, hotel**).
 
 For example we normally use short word **insan** (_human being_) instead of **insane**.
 Likewise we normally say **bon** (_good_) instead of **boni**.
 Note that it is always acceptable to use the vowel endings on every word.
-It is an artistic choice by the authors of Pandunia to not require them on noun stems that end in soft vowels.
+It is an artistic choice by the authors of Pandunia to not require them on these basic words.
 
 
 ### 11.2. Compound words
