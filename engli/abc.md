@@ -45,7 +45,7 @@ As semivowels **y** is close to **i** sound and **w** is close to
 
 Semivowels **y** and **w** are always followed by a full vowel or
 a word break (when the bare word stem is used). For example:  
-**maw tena naw hay.** = The cat has nine lives.
+**maw nica gawi daw.** = The cat goes under the high road.
 
 
 ## Vowel Sounds
@@ -107,7 +107,7 @@ because they are used to them in other languages. But still capital letters are
 unnecessary and not recommended.
 
 Capital letters are used in standard international acronyms. For example: 10 Mb
-(des megobite), 100 Gb (hon gigobite), 2 mm (dul milometre), 1 kJ (un kilojul).
+(desi megobite), 100 Gb (honi gigobite), 2 mm (duli milometre), 1 kJ (un kilojul).
 
 
 ## Syllabification
