@@ -141,11 +141,11 @@ Number can be mentioned with number words when it is needed.
 – a chair or chairs  
 **un kurse**
 – one chair  
-**dul kurse**
+**duli kurse**
 – two chairs  
-**tin kurse**
+**tini kurse**
 – three chairs  
-**pol kurse**
+**poli kurse**
 – many chairs; chairs
 
 
@@ -256,62 +256,62 @@ They are put before the word or phrase that they qualify.
 
 **un xing**
 – one star  
-**dul xing**
+**duli xing**
 – two stars  
-**tin xing**
+**tini xing**
 – three stars  
-**xaw xing**
+**xawi xing**
 – few stars  
 **multi xing**
 – many stars
 
 **un day kurse**
 – one big chair  
-**dul day kurse**
+**duli day kurse**
 – two big chairs  
-**tin bon kurse**
+**tini bon kurse**
 – three good chairs
 
 Ordinal numbers come after the word that they modify.
 
 **fen un**
 – the first part (part one)
-**fen dul**
+**fen duli**
 – the second part (part two)
-**fen tin**
+**fen tini**
 – the third part (part three)
 
 The basic number words are:
 
 - 0 **nol**
 - 1 **un**
-- 2 **dul**
-- 3 **tin**
-- 4 **car**
-- 5 **lim**
-- 6 **sis**
-- 7 **sem**
-- 8 **bal**
-- 9 **naw**
+- 2 **duli**
+- 3 **tini**
+- 4 **cari**
+- 5 **limi**
+- 6 **sisi**
+- 7 **seti**
+- 8 **bali**
+- 9 **navi**
 
 Greater numbers are simply made by putting one digit after another –
 exactly like they are written in the universal numerical language of mathematics.
 
-- 10 **un nol** or **des**
+- 10 **un nol** or **desi**
 - 11 **un un**
-- 12 **un dul**
-- 13 **un tin**
-- 20 **dul nol**
-- 21 **dul un**
-- 22 **dul dul**
-- 100 **un nol nol** or **hon**
-- 101 **un nol un** or **hon un**
-- 200 **dul nol nol** or **dul hon**
+- 12 **un duli**
+- 13 **un tini**
+- 20 **duli nol**
+- 21 **duli un**
+- 22 **duli duli**
+- 100 **un nol nol** or **honi**
+- 101 **un nol un** or **honi un**
+- 200 **duli nol nol** or **duli honi**
 
 Numbers that are greater than 999 may use the multiples from the International System of Units.
 So for example kilo denotes a multiple of a thousand.
 
-- 1 000 **kil**
+- 1 000 **kili**
 - 1 000 000 **megi**
 - 1 000 000 000 **gigi**
 - 1 000 000 000 000 **teri**
@@ -1173,14 +1173,13 @@ These are the rules:
 - Verbs always have an ending: **-a** or **-u**.
 - Modifiers almost always have the ending **-i**.
   The most common adjectives are exceptions to the rule: **bon, mal, lil, day**.
-- Nouns have the ending after _hard_ consonants (ex. **supe, pede, yuke**)
-  and consonant groups (ex. **cante, poste, zebre**)
-  but not after _soft_ consonants (ex. **cay, maw, man, fem, hotel**).
+- Nouns almost always have the ending **-e** or **-ia**.
+  Some common nouns and suffixes are exceptions to the rule (ex. **cay, maw, hotel, kitaber, helium**).
 
 For example we normally use short word **insan** (_human being_) instead of **insane**.
 Likewise we normally say **bon** (_good_) instead of **boni**.
 Note that it is always acceptable to use the vowel endings on every word.
-It is an artistic choice by the authors of Pandunia to not require them on noun stems that end in soft vowels.
+It is an artistic choice by the authors of Pandunia to not require them on these words.
 
 
 ### 11.2. Compound words

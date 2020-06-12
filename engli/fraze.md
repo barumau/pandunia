@@ -432,7 +432,7 @@ I want to have a new phone.
 
 **eska te tena bace?**
 Do you have children?  
-**me tena dul bace.**
+**me tena duli bace.**
 I have two children.
 
 

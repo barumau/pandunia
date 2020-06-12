@@ -357,7 +357,7 @@ Yes or no questions
 = Would he like to have soup?  
 ☺: **no niama.**
 = No.  
-☻: **danke. me dona un cay e un kafe e un supe sa bade da des minute.**
+☻: **danke. me dona un cay e un kafe e un supe sa bade da desi minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -451,7 +451,7 @@ Try translating these sentences from English to Pandunia.
 **suy** water.
 **supe** soup.
 **un** one (1).
-**des** ten.
+**desi** ten.
 **eska** to ask a question.
 **si** yes.
 
@@ -504,7 +504,7 @@ and even numeral.
 = She has no cats but dogs.  
 **no le, a me tena maw.**
 = Not she but I have cats.  
-**me tena no un, a dul maw.**
+**me tena no un, a duli maw.**
 = I have not one but two cats.
 
 
@@ -524,11 +524,11 @@ is more than one correct answer.
 ### Word List
 
 **kupe** cup, glass, mug.
-**hali** empty.
+**kali** empty.
 **tena** to have.
 **maw** cat.
 **waf** dog.
-**dul** two.
+**duli** two.
 **nol** zero.
 **a** but.
 
@@ -536,11 +536,11 @@ is more than one correct answer.
 ### Answers to the Exercises
 
 1. le no safa kamare.
-2. un kupe no hali.
-3. dul waf no niama supe.
+2. un kupe no kali.
+3. duli waf no niama supe.
 4. le no tena waf e maw. / le tena no waf e no maw.
 5. xefe niama cay a no kafe.
-6. mame tena no waf a dul maw.
+6. mame tena no waf a duli maw.
 
 
 --------------------------------------------------------------------------------
@@ -608,7 +608,7 @@ something, even when not answering to a question.
 1. ki ren suku supe?
 2. pape suku.
 3. ki zaman le laya?
-4. sa bade da des minute.
+4. sa bade da desi minute.
 5. ke saba le no niama?
 6. sabu le no suku kafe o supe.
 
@@ -731,7 +731,7 @@ Try translating these sentences from English to Pandunia.
 ### Answers to the Exercises
 
 1. mi xefe festa sa wile.
-2. me tena dul waf sa pase.
+2. me tena duli waf sa pase.
 3. te niama supe zay.
 4. le safa kamare sa predi den.
 5. maw niama kafe sa badi den.
