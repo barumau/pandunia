@@ -29,7 +29,6 @@ aga|||fas:urd:اگر‎‎ (agar), hin:अगर (agar), tur:eğer, + yue:假 (g
 agrese|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression)|agression (attaque)|ataque|ataque|нападение (атака)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (aggressio)|atak (agresja, napaść)
 agresi||||aggressive||agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 aha|||rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|understand (realize)|comprendre (réaliser)|entender (comprender)|||||||||||||kompreni|oivaltaa (tajuta)|rozumieć, pojmować
-ahota|||hin:आखेट (ākheṭ), ben:খোজা (khōjā), eng:hunt, rus:охота (ohota), eng:hunt|hunt|chasser|cazar|caçar|охотиться||打猎|狩る||||||||||
 ahoter||||hunter||cazador|||||狩人||||||||||
 ainstainium|mate|Es||einsteinium|Einsteinium|einsteinium|||||||||||||ejnŝtejnio|einsteinium|einstein
 aire|||eng:fra:spa:air, por:ar|air||aire||||||||हवा (वायु)|||||aero|ilma|powietrze
@@ -742,7 +741,7 @@ filer|||eng:fra:-phile, por:spa:-filo|fan (-phile)||fan (-filo)||||||||||||||fan
 filia||||attraction (-philia)||attracción (-filia)||||||||||||||tykkääminen|zamiłowanie (-filia)
 filipinia|dex|PH||Philippines||Filipinas|||||||||||||Filipinoj|Filippiinit|Filipiny
 filistinia|dex|PS||Palestinian Territory||Palestina||||||||||||||Palestiina|Terytorium Palestyńskie
-filme||||film (video)||película (video)|||||||||||||filmo|filmi|film
+filme|||eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem|film (membrane, video)||película (film, membrana)||плева (фильм)||膜|フィルム (膜)||||||||filmo|filmi|film
 filosofer||||philosopher||filósofo|||||||||||||filozofo|filosofi|filozof
 filosofi||||philosophic||filosófico|||||||||||||filozofia|filosofinen|filozoficzny
 filosofia|||spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā), eng:philosophy, fra:philosophie|philosophy|philosophie|filosofía|filosofia|философия|فَلْسَفَة|哲学|哲学|철학|triết học|दर्शन (फ़लसफ़ा)||filsafat|falsafa|felsefe|filozofio|filosofia|filozofia
@@ -1161,9 +1160,9 @@ jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotil
 jengoxute|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||arte marcial||||||||||||||kamppailulaji|sztuka walki
 jeni baxe||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 jenoden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
+jenogrupe||||generation (cohort)||generación (cohorte)||поколение|||||||||||||
 jenoklase||||caste||casta||||||||||||||sääty (kasti)|kasta
 jenotipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
-jenozamane||||generation (cohort)||generación (cohorte)||поколение|||||||||||||
 jentili||||kind (nice, gentle)||amable (atento, tierno, dulce)|||||||||||||bonkora|kiltti|uprzejmy, miły
 jenu||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
 jenxene||||ginseng||ginseng||||||||||||||ginseng|żeń-szeń
@@ -1802,7 +1801,6 @@ melovespe||||honeybee||abeja||||||||||||||mehiläinen|pszczoła miodna
 mema||||remember (recall)|se rappeler (se remémorer)|acordarse|lembrar-se (recordar-se)|помнить|تَذَكَّرَ|记得 (回忆)|思い出す|기억하다|nhớ|याद करना|মনে রাখা|ingat||hatırlamak|memori|muistaa|pamiętać
 memba||||belong (be a member)||pertenecer (ser miembro de)||||||||||||||kuulua (olla jäsenenä)|należeć (być członkiem)
 member||||member (component)||miembro (componente)|||||||||||||membro|jäsen (osatekijä, komponentti)|członek
-membrane|||eng:fra:membrane, spa:por:ita:membrana, deu:Membran, rus:мембрана (membrana), may:membran|membrane (film)|membrane|membrana|membrana|плева (перепонка)||膜|膜||||||||||
 meme|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)|mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć
 memobine||||monument (memorial)||monumento|||||追悼塔 (碑)||||||||||
 memonote||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
@@ -2540,6 +2538,7 @@ sage||||tale (story, legend, saga)||historia (cuento, relato, leyenda)||||||||||
 saha||||correct (make right)||corregir|||||||||||||pravigi|korjata (tehdä oikeaksi)|poprawić, poprawiać, prostować, korygować
 sahi|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|right (correct, accurate)|correct (juste)|correcto (justo)|correto (justo)|правильный|صَحِيح|正确|正しい|옳다|phải (đúng)|सही||betul (benar)|sahihi|doğru|ĝusta (prava)|oikea (paikkansapitävä)|właściwy, poprawny
 sahrawia|dex|||Sahrawi Arab Democratic Republic||República Árabe Saharaui Democrática|||||||||||||||Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)
+saida||||hunt (fish)|chasser|cazar|caçar|охотиться||打猎|狩る||||||||||
 sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
 salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
 salam (salami)||||good (in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
@@ -2630,9 +2629,8 @@ semodane||||seed (fertilized grain)||pepita||||种子|種|||||biji benih||||siem
 sene|||fra:scène, spa:escena, rus:сцена (scena), deu:Szene, tur:sahne, fas:(sahne)|stage (scene)||escenario||сцена||||||||||||lava (näyttämö)|scena
 senegalia|dex|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
 sensa||||sense (detect)||sentir (detectar)|||||||||||||||
-sense||||sense||sentido|||||||||||||||zmysł
+sense||||sense (sensation, feeling)||sentido|||||||||||||||zmysł
 senser||||sensor (detector)|||||||||||||||||
-sensia||||sensation (feeling)|||||||||||||||||
 senta||||feel (sense by touch)||palpar (tocar)|||||||||||||senti|tuntea|czuć
 serbia|dex|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
 serca|||eng:search, fra:chercher|search||buscar|||||||||||||||szukać
