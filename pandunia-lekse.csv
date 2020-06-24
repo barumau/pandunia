@@ -1016,7 +1016,7 @@ hem|||eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|hmm||hm|||||||||||||hm|hm
 hema||||ponder (think)||considerar (reflexionar)|||||||||||||pripensi|miettiä (pohtia)|dumać, rozmyślać, zastanawiać się
 hene|||zho:(hen), fra:(haine)|hate||odio|||||||||||||malamo|viha|nienawidzić
 herze|unomete|Hz||hertz (Hz)||hercio (Hz)||||||||||||||hertsi (Hz)|herc
-hewane|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mniama|hayvan|besto|eläin|animal
+hewane|||may:kewan, ara:(haywān), hin:हैवान (haivān), tur:hayvan|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 hewan-parke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园||||||kebun binatang||hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 hibride||||hybrid (mongrel)||híbrido (mestizo)|||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
 hidre|mate|H||hydrogen||hidrógeno|||||||||||||hidrogeno|vety|wodór
@@ -2043,17 +2043,17 @@ nevis|dex|||Nevis||Nieves||||||||||||||Nevis|Nevis
 niam (niame)||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 niama|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|consume (eat or drink)||comer (bebir)|||||食べる||||||||manĝi (trinki)|nauttia (syödä, juoda)|skonsumować, konsumować, zjeść, jeść, wypić, pić)
 niami||||delicious (yummy)||delicioso|||||美味しい|||||||||herkullinen (nami)|pyszny
-niamokamare||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
-niamowane||||hunger|||||||||||||||||
+niam-kamare||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
+niam-wane||||hunger|||||||||||||||||
 nica|coverb|||under (go under)||debajo (estar debajo)||||||||||||||alittaa (alla)|pod, poniżej; iść w dół, iść pod spód, iść na dno
 nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nici||||lower||inferior||||||||||||||ala-|poniższy
 nida|||eng: need|need|avoir besoin de|necesitar|necessitar|нуждаться||需要|||cần|ज़रूरत होना||perlu|kuhitaji||bezoni|tarvita|potrzebować
 nide||||need|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja||||potrzeba
 nidi||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
-nidoxina||||trust (rely)|fier|confiar (contar con)|confiar (contar com)|доверять (понадеяться)||信赖|信頼する||||||||||
-nidoxinabli||||loyal (faithful, trustworthy)||leal (fiel)||верный||忠实|忠実||||||||||
-nidoxinablia||||loyalty (faithfulness)||lealtad (fidelidad)||верность|||||||||||||
+nid-xina||||trust (rely)|fier|confiar (contar con)|confiar (contar com)|доверять (понадеяться)||信赖|信頼する||||||||||
+nid-xinabli||||loyal (faithful, trustworthy)||leal (fiel)||верный||忠实|忠実||||||||||
+nid-xinablia||||loyalty (faithfulness)||lealtad (fidelidad)||верность|||||||||||||
 nijeria|dex|NE||Niger||Níger|||||||||||||Niĝero|Niger|Niger
 nikaragia|dex|NI||Nicaragua||Nicaragua|||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikele|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
@@ -2298,8 +2298,8 @@ piratiste||||pirate (one who disobeys intellectual property laws)||partidario de
 piratisti partia||||Pirate Party||Partido Pirata||||||||||||||piraattipuolue|Partia Piratów
 pire|||eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|fire (burning)|feu|fuego|fogo|огонь|نَار|火|火|불|lửa|आग (अग्नि)|আগুন (অগ্নি)|api|moto|ateş|fajro|tuli|ogień
 piri||||fiery||ardiente (encendido)|||||||||||||fajra|tulinen|ognisty
-piropujia||||pyrolatry|||||||||||||||||kult ognia
-pirotehne||||fireworks (pyrotechnics)|feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||烟火|花火||||||||||
+pir-pujia||||pyrolatry|||||||||||||||||kult ognia
+pir-tehne||||fireworks (pyrotechnics)|feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||烟火|花火||||||||||
 piru||||burn (be burned)||quemarse|queimarse|||烧|燃える|타다 (불타다)||जलना||||||palaa|spłonąć, płonąć
 pistole||||pistol||pistola||||||||||||||pistooli|pistolet
 pitkerne|dex|PN||Pitcairn||Islas Pitcairn||||||||||||||Pitcairn|Pitcairn
@@ -2341,10 +2341,10 @@ politiker||||politician||político|||||||||||||politikisto|poliitikko|polityk
 politiki||||political||político|||||||||||||politika|poliittinen|polityczny
 politikolojia||||politocology||ciencia política||||||||||||||politiikantutkimus|politologia
 polo||||poly- (multi-)||poli-||||||||||||||moni- (poly-, multi-)|wielo- (poli-, multi-)
-polodewistia||||polytheism||politeísmo||||||||||||||polyteismi (monijumalisuus)|politeizm
-polofase||||polyhedron||poliedro||||||||||||||monitahokas|wielościan
-pologone||||polygon||polígono|||||||||||||poligono|monikulmio (polygoni)|wielokąt (wielościan)
-polomeni||||ambiguous||ambiguo||||||||||||||monimerkityksinen|wieloznaczny
+pol-dewistia||||polytheism||politeísmo||||||||||||||polyteismi (monijumalisuus)|politeizm
+pol-fase||||polyhedron||poliedro||||||||||||||monitahokas|wielościan
+pol-gone||||polygon||polígono|||||||||||||poligono|monikulmio (polygoni)|wielokąt (wielościan)
+pol-meni||||ambiguous||ambiguo||||||||||||||monimerkityksinen|wieloznaczny
 polonium|mate|Po||polonium||polonio|||||||||||||polonio|polonium|polon
 polski||||Polish||polaco||||||||||||||puolalainen|polski
 polskia|dex|PL||Poland||Polonia||||||||||||||puola|Polska
@@ -2353,7 +2353,7 @@ ponta|||eng:point, por:apontar, spa:apuntar, fra:pointer|point at (indicate)||ap
 ponter||||pointer (indicator)||indicador (cursor)||||||||||||||osoitin (viisari)|wskaźnik
 pontopine||||compass (magnetized needle)||brújula||компас||指南针|羅針盤||||||||||
 porne||||porn||porno||||||||||||||porno|porno, film erotyczny
-pornografia||||pornography||pornografía||||||||||||||pornografia|pornografia
+porn-grafia||||pornography||pornografía||||||||||||||pornografia|pornografia
 porte|||eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|port (station)|porte|porto|porto|порт||港||||||bandar||liman|haveno|asema (satama, lentokenttä)|port
 portorikia|dex|PR||Puerto Rico||Puerto Rico||||||||||||||Puerto Rico|Puerto Rico
 portugalia|dex|PT||Portugal||Portugal||||||||||||||Portugali|Portugalia
@@ -2375,11 +2375,11 @@ predaga||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
 prede||||front||frente|||||前||||||||||przód
 predi||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
 predo||||earlier (before)||más temprano (antes)|||||||||||||||wcześniej (uprzednio)
-predoden||||yesterday||ayer|||||昨日|||||||||eilinen|wczoraj
-predofikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
-predogara||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
-predovida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)||||||||||
-predovidi||||expected|||||||||||||||||
+pred-den||||yesterday||ayer|||||昨日|||||||||eilinen|wczoraj
+pred-fikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
+pred-gara||||assume (presuppose)||presuponer|||||||||||||||zakładać (założyć)
+pred-vida||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)||||||||||
+pred-vidi||||expected|||||||||||||||||
 prezidente||||president||presidente|||||||||||||prezidento|presidentti|prezydent
 prizona||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 prizone|||eng:fra:prison, spa:prisión, por:prisão|prison (imprisonment)||prisión||||||||||||||vankeus|więzienie, kara więzienia, kara pozbawienia wolności
@@ -2741,7 +2741,7 @@ sonda||||sound (make a sound)||sonar||||||||||||||ääntää|brzmieć, wydać d�
 sonde|||eng:sound,sonic, fra:son, spa:son,sonido, ita:suono, + kor:소리 (sori)|sound (audio)||sonido (audio)|||||||||||||sono|ääni|dźwięk, brzmienie
 sone|||rus:сон (son), por:sono, hin:सोना (sonā), ben:শোয়া (śoya)|sleep||sueño|||||||||||||dormo|nukkuminen (uni)|sen
 songe|||zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|pine tree||pino|||||||||||||pino|mänty|sosna
-sonokamare||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
+son-kamare||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
 sonu||||sleep (be asleep)|dormir|dormir|dormir|спать||睡觉 (困觉)|寝る|자다||सोना|শোয়া|tidur|kulala|uyumak|dormi|nukkua|spać
 sose|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), that:ซอส (soot), kor:소스 (soseu), may:saus|sauce|sauce|salsa||соус||||||सॉस||saus|||saŭco|kastike (soosi)|sos
 sosise|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage|saucisse|salchicha|salsicha|колбаса (сосиска)|سُجُق|香肠|ソーセージ|||सॉसेज||sosis (sosej)|soseji||kolbaso|makkara|kiełbasa
@@ -2751,8 +2751,8 @@ sualbardia|dex|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suani|||zho:酸 (suān)|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny
 suatia|dex|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
 sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
-suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
-suboniam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
+sub-den||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
+sub-niam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
 sudafrikia|dex|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudania|dex|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
 sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|południe
@@ -3011,7 +3011,7 @@ var 7 (var sem)||||Sunday||domingo|||||日曜日|||||||||sunnuntai|niedziela
 vatikania|dex|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
 vejete||||vegetable||vegetal||||蔬菜|||||||||legomo|kasvis|warzywo
-vejetoniamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
+vejet-niamiste|||eng:vegetarian, fra:végétarien, por:spa:vegetariano, rus:вегетарианец  (vegetarianets), tur:vejetaryen, jpn:ベジタリアン (bejitarian)|vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
 venda|||eng:vend, spa:por:vender, fra:vendre|sell (vend)|vendre|vender|vender|продать||卖|売る||||||||||
 vendoxopa||||trade (buy and sell)|commercer|comerciar|торговать|обмениваться|||売買する||||||||||
 vendoxope||||trade (commerce)||comercio||||贸易|交易 (売買)||||||||||
@@ -3073,17 +3073,17 @@ wate||||watt||vatio|||||||||||||vato|watti|wat
 waw|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 waxa|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||||lavi|pestä|prać, umyć, myć
 waxington d c (do ce)||||Washington D.C.|||||||||||||||||
-waxomaxine||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
+wax-maxine||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
 waxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||
 waya||||oust (expel)||expulsar||||||||||||||poistaa|wyrzucać (wyrzucić, wydalać, wydalić)
 waye|||zho:外 (wài)|outside (exterior)||fuera (exterior)|||||外||||||||ekstero|ulkopuoli|zęwnętrzny
 wayi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-wayodexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
-wayodexia||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
-wayomisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
-wayonam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
-wayoniame||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
-wayotira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||
+way-dexi|||hin:(videśī), tel:(vidēśi), zho:外国的 (wàiguóde)|foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
+way-dexia||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
+way-misa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
+way-name||||exonym||exónimo||||||||||||||eksonyymi|egzonim
+way-niame||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
+way-tira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||
 we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki||||awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
@@ -3114,7 +3114,7 @@ xale|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (sh
 xamane|||rus:шаман (šaman), eng:shaman|shaman||chamán (brujo, hechicero)|||||||||||||ŝamano|šamaani|szaman
 xame|||hin: शाम (śām), fas:(šām), tur:akşam|evening||noche (tarde)||||晚上|夕べ||||||||vespero|ilta|wieczór
 xamoden||||afternoon||tarde (después de mediodía)|||||||||||||posttagmeze|iltapäivä|popołudnie
-xamoniame||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
+xam-niame||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
 xane|||zho: 山 (shān), kor: 산 (san), vie:sơn|mountain (hill)||montaña (colina)|||||||||||||monto|vuori (mäki)|góra, wzgórze
 xanghai||||Shanghai||||||上海|||||||||||
 xanti||||calm (peaceful)||tranquilo (calmado)|||||||||||||trankvila|rauhallinen (tyyni)|spokojny
