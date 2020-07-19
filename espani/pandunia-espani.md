@@ -409,6 +409,7 @@ cerni - negro
 cernogoria - Montenegro  
 cesium - cesio  
 ciani - cian  
+cile - chile  
 cilia - Chile  
 cimpanze - chimpancé  
 cincile - chinchilla  
@@ -2247,7 +2248,6 @@ pijine - pidgin
 pike - cima (pico, cumbre, vértice)  
 pile - piel  
 piloter - piloto  
-pimente - pimienta  
 pine - alfiler (aguja)  
 pinguine - pingüino  
 pinser - alicate  
@@ -2255,6 +2255,7 @@ pipe - tubo (caño)
 pipinga - criticar (evaluar)  
 pipinge - evaluación (crítica)  
 pipinger - crítico  
+pipre - pimienta  
 pira - quemar  
 pirame - pirámide  
 pirater - pirata  

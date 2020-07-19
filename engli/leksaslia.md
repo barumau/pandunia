@@ -173,6 +173,7 @@
 |**cerize**|cherry|English:cherry, French:cerise, Spanish:cereza, Portuguese:cereja, Russian:черешня (čerešnya), Arabic:(karaz), Turkish:kiraz, Hindi:गिलास (gilās), ben;চেরি  (ceri), Malay:ceri, Japanese:チェリー (cherī), Korean:체리 (cheri)|
 |**cerni**|black|Russian:чёрный (čornyy), Polish:czarny|
 |**ciani**|cyan|English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian|
+|**cile**|pepper (capsicum)|English:chili, Portuguese:Spanish:chile, Japanese:チリ (chiri), Korean:칠리 (chilli), Malay:cili|
 |**cini**|Han Chinese|Hindi:चीनी (cīnī), Turkish:Çin, Arabic:(ṣiniy), Spanish:chino, English:Chinese, Thai:จีน (chin), Mandarin:秦 (qín)|
 |**cira**|tear (rip, split)|Hindi:Marathi:चीर (chīra), Bengali:চেরা (chērā), pan:ਚੀਰ (chīra) + English:tear|
 |**cise**|cheese|English: cheese, Mandarin: 起司 (qǐsī), Swahili: chizi, Japanese:チーズ (chīzu), Korean:치즈 (chijeu)|
@@ -794,11 +795,11 @@
 |**piaze**|onion|Persian:Urdu:پیاز (piaz), Hindi:प्याज (pyaz), Bengali:পেঁয়াজ (peadz)|
 |**pike**|top (peak, pinnacle, summit, apex, vertex)|English:peak, Russian:пик (pik), French:pic, Spanish:Portuguese:pico, que:pikchu|
 |**pile**|skin (peel, leather)|English:peel, Spanish:piel, Portuguese:pele, Mandarin:皮 (pí), Wu-Chinese:皮 (bí), Cantonese:皮 (pei4)|
-|**pimente**|pepper (Piper nigrum)|Spanish:pimienta, Filipino:pamenta|
 |**pine**|needle (pin)|English:pin, Japanese:ピン (pin), Korean:핀 (pin), Hindi:पिन (pin)|
 |**pinser**|pliers (pincers)|English:pincers, French:pinces, Turkish:pense, Japanese:ペンチ (penchi)|
 |**pipe**|pipe|Spanish:Malay:pipa, English:French:pipe, Persian:(pip), Vietnamese:píp|
 |**pipinga**|evaluate (review, criticise)|Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)|
+|**pipre**|pepper (peppercorn)|English:pepper, deu:Pfeffer, Italian:pepe, Bengali:পিপুল (pipul), Mandarin:荜拔 (bìbá), Telugu:పిప్పలి (pippali), Persian:(pelpel), Swahili:pilipili|
 |**pirame**|pyramid|English:pyramid, + Arabic:(haram)|
 |**pire**|fire (burning)|English:French:pyro-, Portuguese:Spanish:piro-, Russian:пиро- (piro-)|
 |**pixe**|piss (urine)|English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis|

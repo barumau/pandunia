@@ -536,6 +536,7 @@ photographie - fotografia
 pierre - cirki petre  
 pieu (poteau) - zonge  
 pile (batterie) - batre  
+piment - cile  
 pioche - pikosape  
 piquenique - wayoniame  
 piraterie - piratia  
@@ -552,6 +553,8 @@ plume - kalame
 plus - max (maxo)  
 pluvieux - barxi  
 pocion - medikosuy  
+poivre - pipre  
+poivre long - longi pipre  
 poli - fotofrika  
 pomme - aple  
 pont - pule  

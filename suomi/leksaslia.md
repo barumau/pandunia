@@ -161,6 +161,7 @@
 |**cenge**|kerros|yleiskiina:层 (céng), kantoninkiina:層 (cang4), korea:층 (chŭng), vietnami:tầng|
 |**cerize**|kirsikka|englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), ben;চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)|
 |**cerni**|musta|venäjä:чёрный (čornyy), puola:czarny|
+|**cile**|paprika|englanti:chili, portugali:espanja:chile, japani:チリ (chiri), korea:칠리 (chilli), malaiji:cili|
 |**cini**|han-kiinalainen|hindi:चीनी (cīnī), turkki:Çin, arabia:(ṣiniy), espanja:chino, englanti:Chinese, thai:จีน (chin), yleiskiina:秦 (qín)|
 |**cise**|juusto|englanti: cheese, yleiskiina: 起司 (qǐsī), suahili: chizi, japani:チーズ (chīzu), korea:치즈 (chijeu)|
 |**coda**|nussia (panna)|bangla:চোদা (coda), hindi:चोदना (codnā)|
@@ -733,11 +734,11 @@
 |**piaze**|sipuli|persia:urdu:پیاز (piaz), hindi:प्याज (pyaz), bangla:পেঁয়াজ (peadz)|
 |**pike**|huippu|englanti:peak, venäjä:пик (pik), ranska:pic, espanja:portugali:pico, que:pikchu|
 |**pile**|nahka (kuori, iho)|englanti:peel, espanja:piel, portugali:pele, yleiskiina:皮 (pí), wu-kiina:皮 (bí), kantoninkiina:皮 (pei4)|
-|**pimente**|pippuri|espanja:pimienta, filippiini:pamenta|
 |**pine**|neula|englanti:pin, japani:ピン (pin), korea:핀 (pin), hindi:पिन (pin)|
 |**pinser**|pihdit|englanti:pincers, ranska:pinces, turkki:pense, japani:ペンチ (penchi)|
 |**pipe**|piippu|espanja:malaiji:pipa, englanti:ranska:pipe, persia:(pip), vietnami:píp|
 |**pipinga**|arvioida (arvostella, kritisoida)|yleiskiina:批评 (pīpíng), vietnami:phê bình, korea:비평 (bipyeong)|
+|**pipre**|pippuri|englanti:pepper, deu:Pfeffer, italia:pepe, bangla:পিপুল (pipul), yleiskiina:荜拔 (bìbá), telugu:పిప్పలి (pippali), persia:(pelpel), suahili:pilipili|
 |**pirame**|pyramidi|englanti:pyramid, + arabia:(haram)|
 |**pire**|tuli|englanti:ranska:pyro-, portugali:espanja:piro-, venäjä:пиро- (piro-)|
 |**pixe**|virtsa (pissa, kusi)|englanti:piss, ranska:pisse, italia:piscia, hindi:पेशाब (pešāb), malaiji:pipis|

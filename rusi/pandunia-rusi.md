@@ -130,6 +130,7 @@ cayokope - чайная чашка
 cerize - черешня  
 cerni - чёрный  
 ciani - циан  
+cile - перец (паприка)  
 cini - хань  
 cira - рвать  
 cire - рвать  
@@ -379,6 +380,7 @@ liwokope - воронка
 loga - говорить  
 loka - ставить  
 loke - место  
+longi pipre - перец длинный  
 lontre - выдра  
 lugi - зелёный  
 luter - грабитель  
@@ -495,6 +497,7 @@ piaze - лук
 pike - вершина  
 pikosape - киркомотыга  
 pine - булавка  
+pipre - перец  
 pira - жечь (палить)  
 pire - огонь  
 piropetre - кремень  

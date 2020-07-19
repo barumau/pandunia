@@ -1667,7 +1667,7 @@ piekarz - beker
 piekło - narake  
 pielęgnować, leczyć - kura  
 pieniądze - pese  
-pieprz - pimente  
+pieprz - pipre  
 pierdnięcie - pede  
 pierdzieć - peda  
 pierwszy, numer jeden - nombre un  

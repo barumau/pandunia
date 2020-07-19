@@ -1721,6 +1721,8 @@ pantheon - panodewia
 papaija - papaye  
 paperi - kagaze  
 pappi - dinogure  
+paprika - cile  
+paprikajauhe - cilofune  
 papu tai herne - dowe  
 Papua Uusi-Guinea - papuwi novi ginia  
 papukaija - papagaye  
@@ -1794,7 +1796,7 @@ pimeä (hämärä) - oskuri
 pingviini - pinguine  
 pinta (tahko) - fase  
 pioni - mudane  
-pippuri - pimente  
+pippuri - pipre  
 piraatti (joka ei kunnioita tekijänoikeuksia) - piratiste  
 piraattipuolue - piratisti partia  
 pirullinen - xatani  
@@ -1803,6 +1805,7 @@ piste (täplä) - punte
 pistooli - pistole  
 Pitcairn - pitkerne  
 pitkä - longi  
+pitkäpippuri - longi pipre  
 pitkästynyt - bori  
 pitsa (pizza) - pize  
 pitseria - pizeria  

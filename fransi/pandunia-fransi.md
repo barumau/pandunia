@@ -174,6 +174,7 @@ cay (caye) - thé
 cayokope - tasse à thé  
 cerize - cerise  
 cerni - noir  
+cile - piment  
 cira - déchirer  
 cire - déchirer  
 cirki petre - pierre  
@@ -430,6 +431,7 @@ loka - mettre (placer)
 loke - lieu  
 loki - local  
 longi - long  
+longi pipre - poivre long  
 longokrokodile - crocodile  
 lontre - loutre  
 lugi - vert  
@@ -555,6 +557,7 @@ piaze - oignon
 pike - cime (pic, sommet)  
 pikosape - pioche  
 pine - épingle  
+pipre - poivre  
 pira - brûler  
 piratia - piraterie  
 pire - feu  

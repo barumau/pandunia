@@ -560,9 +560,9 @@
 |**pexe**|metiero|persa:(piše), hindia:पेशा (peśā), bengala:পেশা (peśa)|
 |**piaze**|cepo|persa:urdua:پیاز (piaz), hindia:प्याज (pyaz), bengala:পেঁয়াজ (peadz)|
 |**pile**|haŭto|angla:peel, hispana:piel, portugala:pele, mandarena:皮 (pí), vua:皮 (bí), kantona:皮 (pei4)|
-|**pimente**|pipro|hispana:pimienta, filipina:pamenta|
 |**pine**|nadlo (pinglo)|angla:pin, japana:ピン (pin), korea:핀 (pin), hindia:पिन (pin)|
 |**pinser**|pinĉilo|angla:pincers, franca:pinces, turka:pense, japana:ペンチ (penchi)|
+|**pipre**|pipro|angla:pepper, deu:Pfeffer, itala:pepe, bengala:পিপুল (pipul), mandarena:荜拔 (bìbá), teluga:పిప్పలి (pippali), persa:(pelpel), svahila:pilipili|
 |**pirame**|piramido|angla:pyramid, + araba:(haram)|
 |**pire**|fajro|angla:franca:pyro-, portugala:hispana:piro-, rusa:пиро- (piro-)|
 |**pixe**|piso (urino)|angla:piss, franca:pisse, itala:piscia, hindia:पेशाब (pešāb), malaja:pipis|

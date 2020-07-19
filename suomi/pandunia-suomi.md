@@ -376,7 +376,9 @@ cerize - kirsikka
 cerni - musta  
 cernogoria - Montenegro  
 cesium - cesium  
+cile - paprika  
 cilia - Chile  
+cilofune - paprikajauhe  
 cimpanze - simpanssi  
 cincile - chinchilla  
 cini - han-kiinalainen  
@@ -1465,6 +1467,7 @@ lona - keskustelu (debatti)
 lone - väittely (debatti)  
 longa - pidentää  
 longi - pitkä  
+longi pipre - pitkäpippuri  
 longia - pituus  
 lose - ruuvi  
 lote - erä (satsi)  
@@ -2015,7 +2018,6 @@ pijine - kontaktikieli (pidgin)
 pike - huippu  
 pile - nahka (kuori, iho)  
 piloter - ohjaaja (pilotti, luotsi)  
-pimente - pippuri  
 pine - neula  
 pinguine - pingviini  
 pinser - pihdit  
@@ -2023,6 +2025,7 @@ pipe - piippu
 pipinga - arvioida (arvostella, kritisoida)  
 pipinge - arvio (arvostelu, kritiikki)  
 pipinger - arvostelija (kriitikko)  
+pipre - pippuri  
 pira - polttaa  
 pirame - pyramidi  
 pirater - merirosvo (piraatti)  

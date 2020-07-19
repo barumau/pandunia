@@ -1675,6 +1675,7 @@ logical - logiki
 logophile (word buff) - logofiler  
 London - london  
 long (lengthy) - longi  
+long pepper (pipli) - longi pipre  
 longitude - westodongia  
 look (see) - vida  
 loom - texomaxine  
@@ -2158,6 +2159,7 @@ pantheon - panodewia
 pants (trousers) - pantalone  
 papaya - papaye  
 paper (material) - kagaze  
+paprika - cilofune  
 Papua New Guinea - papuwi novi ginia  
 Paraguay - paraguayia  
 parallel (longitudinal) - parogowi  
@@ -2202,7 +2204,8 @@ pentahedron (prism) - limofase
 peony - mudane  
 people (folk) - nase  
 people (population) - deme  
-pepper (Piper nigrum) - pimente  
+pepper (capsicum) - cile  
+pepper (peppercorn) - pipre  
 perfect (optimize, refine, polish) - kamila  
 perfect - kamili  
 peripheral - kenari  

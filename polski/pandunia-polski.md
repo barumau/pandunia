@@ -2101,7 +2101,6 @@ pijine - pidżin, język pomocniczy
 pike - szczyt (wierzchołek)  
 pile - skóra  
 piloter - pilot  
-pimente - pieprz  
 pine - igła, szpilka  
 pinguine - pingwin  
 pinser - obcęgi, kleszcze, szczypce  
@@ -2109,6 +2108,7 @@ pipe - fajka
 pipinga - ocenić, oceniać, recenzować, komentować, krytykować  
 pipinge - ocena, krytyka  
 pipinger - krytyk  
+pipre - pieprz  
 pira - spalić, palić  
 pirame - piramida  
 pirater - pirat  

@@ -1132,7 +1132,7 @@ pilko - bol (bole)
 pingveno - pinguine  
 pino - songe  
 pinĉilo - pinser  
-pipro - pimente  
+pipro - pipre  
 piramido - pirame  
 piro - leze  
 pisi (urini) - pixa  

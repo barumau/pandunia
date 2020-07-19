@@ -125,6 +125,8 @@ cay (caye) - 茶
 cayokope - 茶碗  
 cenge - 层  
 cerni - 黑色  
+cile - 菜椒  
+cilofune - 辣椒粉  
 cini - 汉族  
 cira - 撕裂  
 cire - 撕裂  
@@ -367,6 +369,7 @@ loke - 地方
 lole - 他们  
 lone - 论  
 longi - 长  
+longi pipre - 荜拔  
 lontre - 獭  
 lugi - 绿色  
 lunge - 龙  
@@ -481,6 +484,7 @@ piaze - 洋葱
 pikosape - 镐  
 pile - 皮  
 pine - 别针  
+pipre - 胡椒  
 pira - 燃烧  
 pire - 火  
 piropetre - 燧石  

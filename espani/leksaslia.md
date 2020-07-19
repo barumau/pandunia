@@ -171,6 +171,7 @@
 |**cerize**|cereza|eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben;চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|
 |**cerni**|negro|rus:чёрный (čornyy), pol:czarny|
 |**ciani**|cian|eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|
+|**cile**|chile|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
 |**cini**|chinés (de los Han)|hin:चीनी (cīnī), tur:Çin, ara:(ṣiniy), spa:chino, eng:Chinese, tha:จีน (chin), zho:秦 (qín)|
 |**cira**|rasgar (romper)|hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|
 |**cise**|queso|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
@@ -787,11 +788,11 @@
 |**piaze**|cebolla|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pike**|cima (pico, cumbre, vértice)|eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|
 |**pile**|piel|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
-|**pimente**|pimienta|spa:pimienta, tgl:pamenta|
 |**pine**|alfiler (aguja)|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pinser**|alicate|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
 |**pipe**|tubo (caño)|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |**pipinga**|criticar (evaluar)|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
+|**pipre**|pimienta|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
 |**pirame**|pirámide|eng:pyramid, + ara:(haram)|
 |**pire**|fuego|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
 |**pixe**|pis (meados)|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|

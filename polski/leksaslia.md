@@ -742,11 +742,11 @@
 |**piaze**|cebula|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|
 |**pike**|szczyt (wierzchołek)|eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|
 |**pile**|skóra|eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|
-|**pimente**|pieprz|spa:pimienta, tgl:pamenta|
 |**pine**|igła, szpilka|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pinser**|obcęgi, kleszcze, szczypce|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
 |**pipe**|fajka|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |**pipinga**|ocenić, oceniać, recenzować, komentować, krytykować|zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|
+|**pipre**|pieprz|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
 |**pirame**|piramida|eng:pyramid, + ara:(haram)|
 |**pire**|ogień|eng:fra:pyro-, por:spa:piro-, rus:пиро- (piro-)|
 |**pixe**|siki|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|

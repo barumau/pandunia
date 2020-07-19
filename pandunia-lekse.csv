@@ -420,6 +420,8 @@ cerni|rang||rus:чёрный (čornyy), pol:czarny|black|noir|negro|preto|чёр
 cernogoria|dex|ME||Montenegro||Montenegro||||||||||||||Montenegro|Czarnogóra
 cesium|mate|Cs||caesium||cesio|||||||||||||cezio|cesium|cez
 ciani|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン||||||||||
+cile|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|pepper (capsicum)|piment|chile|cápsico|перец (паприка)||菜椒||||मिर्च||lada (cili)||||paprika|
+cilofune||||paprika||||||辣椒粉|パプリカ|||||||||paprikajauhe|
 cilia|dex|CL||Chile||Chile|||||||||||||Ĉilio|Chile|Chile
 cimpanze||||chimpanzee||chimpancé|||||||||||||ĉimpanzo|simpanssi|szympans
 cincile||||chinchilla||chinchilla|||||||||||||ĉinĉilo|chinchilla|szynszyla
@@ -1708,6 +1710,7 @@ london||||London|||||||||||||||||
 lone|||zho:论 (lùn), yue:論 (lœn6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||debatir (discutir)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
 longa||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
 longi|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)||panjang|uzun|longa|pitkä|długi
+longi pipre||||long pepper (pipli)|poivre long|||перец длинный||荜拔|畢撥|필발||पिप्पली|পিঁপুল|||||pitkäpippuri|
 longia||||length||largo (longitud)||||||||||||||pituus|długość
 longokrokodile||||crocodile|crocodile|cocodrilo|crocodilo||||クロコダイル||||||||||
 lontre|||spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||
@@ -2330,7 +2333,6 @@ pike|||eng:peak, rus:пик (pik), fra:pic, spa:por:pico, que:pikchu|top (peak, 
 pikosape||||pickaxe|pioche||picareta|киркомотыга||镐|||||||||||
 pile|||eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|skin (peel, leather)||piel|pele|||皮|||||||||haŭto|nahka (kuori, iho)|skóra
 piloter||||pilot||piloto||||||||||||||ohjaaja (pilotti, luotsi)|pilot
-pimente|||spa:pimienta, tgl:pamenta|pepper (Piper nigrum)||pimienta|||||||||||||pipro|pippuri|pieprz
 pina||||prick (sting)|||||||||||||||||
 pine|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin)|épingle|alfiler (aguja)|alfinete|булавка||别针|ピン|핀|ghim|पिन|||||nadlo (pinglo)|neula|igła, szpilka
 pinguine||||penguin||pingüino|||||||||||||pingveno|pingviini|pingwin
@@ -2339,6 +2341,7 @@ pipe|||spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|pipe||tubo (caño)|||||||
 pipinga|||zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)|evaluate (review, criticise)||criticar (evaluar)||||||||||||||arvioida (arvostella, kritisoida)|ocenić, oceniać, recenzować, komentować, krytykować
 pipinge||||evaluation (criticism)||evaluación (crítica)||||||||||||||arvio (arvostelu, kritiikki)|ocena, krytyka
 pipinger||||critic||crítico||||||||||||||arvostelija (kriitikko)|krytyk
+pipre|||eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|pepper (peppercorn)|poivre|pimienta|pimenta|перец||胡椒||||गोलमिर्च||lada hitam|||pipro|pippuri|pieprz
 pira||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
 pirame|||eng:pyramid, + ara:(haram)|pyramid||pirámide|||||||||||||piramido|pyramidi|piramida
 pirater||||pirate (sea robber)||pirata||||||||||||||merirosvo (piraatti)|pirat

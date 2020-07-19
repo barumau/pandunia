@@ -544,6 +544,7 @@ chamán (brujo, hechicero) - xamane
 chapati (pan sin levadura) - capate  
 chaqueta - jake  
 charlar (parlotear, chatear) - blabla  
+chile - cile  
 Chile - cilia  
 chimpancé - cimpanze  
 China - jungogia  
@@ -2333,7 +2334,7 @@ piel - pile
 pila (batería) - batre  
 pilaf (pulaw) - polave  
 piloto - piloter  
-pimienta - pimente  
+pimienta - pipre  
 pincho (brocheta) - kababe  
 pingüino - pinguine  
 pino - songe  

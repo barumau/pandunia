@@ -1215,10 +1215,10 @@ piane - piano
 piaze - cepo  
 pijine - piĝino  
 pile - haŭto  
-pimente - pipro  
 pine - nadlo (pinglo)  
 pinguine - pingveno  
 pinser - pinĉilo  
+pipre - pipro  
 pirame - piramido  
 pire - fajro  
 piri - fajra  

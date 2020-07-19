@@ -421,7 +421,9 @@ cerni - black
 cernogoria - Montenegro  
 cesium - caesium  
 ciani - cyan  
+cile - pepper (capsicum)  
 cilia - Chile  
+cilofune - paprika  
 cimpanze - chimpanzee  
 cincile - chinchilla  
 cini - Han Chinese  
@@ -1714,6 +1716,7 @@ london - London
 lone - discussion (debate, discourse)  
 longa - lengthen (prolong)  
 longi - long (lengthy)  
+longi pipre - long pepper (pipli)  
 longia - length  
 longokrokodile - crocodile  
 lontre - otter  
@@ -2339,7 +2342,6 @@ pike - top (peak, pinnacle, summit, apex, vertex)
 pikosape - pickaxe  
 pile - skin (peel, leather)  
 piloter - pilot  
-pimente - pepper (Piper nigrum)  
 pina - prick (sting)  
 pine - needle (pin)  
 pinguine - penguin  
@@ -2348,6 +2350,7 @@ pipe - pipe
 pipinga - evaluate (review, criticise)  
 pipinge - evaluation (criticism)  
 pipinger - critic  
+pipre - pepper (peppercorn)  
 pira - burn (cause to burn)  
 pirame - pyramid  
 pirater - pirate (sea robber)  
