@@ -1,4 +1,4 @@
-## 4. Numerals
+# Numerals
 
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.

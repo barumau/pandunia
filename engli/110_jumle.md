@@ -1,6 +1,6 @@
-## 7. Sentences
+# Sentences
 
-### 7.1. Observations
+## Observations
 
 Observations are the simplest sentence type.
 They may consist of only one word, which draws the listener's attention.
@@ -10,9 +10,9 @@ They may consist of only one word, which draws the listener's attention.
 **barxa!**
 – (It) rains!
 
-### 7.2. Stative Sentences
+## Stative Sentences
 
-#### 7.2.1. With noun or pronoun subject
+### With noun or pronoun subject
 
 Normally a sentence consists of a subject and a predicate.
 In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
@@ -59,7 +59,7 @@ Also two personal pronouns can be combined with **si** and **no**.
 **me no te.**
 – I'm not you.
 
-#### 7.2.2. With adjective subject
+### With adjective subject
 
 The same rule applies also for two adjectives.
 
@@ -68,7 +68,7 @@ The same rule applies also for two adjectives.
 **novi no purani.**
 – New is not old.  
 
-#### 7.2.3. With verb subject
+### With verb subject
 
 A verb can't be subject as such.
 So the verb is first, use **ye** to start a comment about the verb.
@@ -76,12 +76,8 @@ So the verb is first, use **ye** to start a comment about the verb.
 **canta, ye bon.**
 – Singing, that is good. (Singing is good.)
 
-#### 7.2.4. To be
 
-Pandunia doesn't use a verb like "to be" in English.
-
-
-### 7.3. Active Sentences
+## Active Sentences
 
 An active sentence is a sentence where the subject does the action denoted by the verb to the object.
 The focus is on the subject as the active participant.
@@ -98,7 +94,7 @@ The following sentences are in SVO order.
 – I see you.
 
 
-### 7.4. Passive Sentences
+## Passive Sentences
 
 In the passive voice the focus of the sentence is on a subject
 that is a passive recipient that undergoes the action.
@@ -131,9 +127,9 @@ That is because the direction of pleasing is from the active doer to the passive
 – I am pleased by music. / I like music.
 
 
-### 7.6. Pivot structure
+## Pivot structure
 
-#### 7.6.1. Basic pivot structure (SVOVO)
+### Basic pivot structure (SVOVO)
 
 In the _pivot structure_ the word order is:  
 subject – verb 1 – object 1 – verb 2 – object 2.
@@ -148,7 +144,7 @@ In the example above, **me wana** has **te** as its object.
 At the same time, **te** functions as the subject of the following predicate, **niama sabze**.
 So **te** is the _pivot_ of the entire sentence.
 
-### 7.7. Serial verbs
+## Verb series
 
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject
@@ -161,19 +157,19 @@ and all of them are about the same subject
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
-### 7.8. Pronoun dropping
+## Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity.
 This is done especially in commands and requests.
 
-#### 7.8.1. Short pivot structure (VOVO)
+### Short pivot structure (VOVO)
 
 **me eska te baxa pandunia.**
 – I ask do you speak Pandunia.  
 **eska te baxa pandunia?**
 – Do you speak Pandunia.
 
-#### 7.8.2. Short pivot structure (VVO)
+### Short pivot structure (VVO)
 
 **me pliza te laya dome.**
 – I ask you to come home.  
@@ -181,11 +177,10 @@ This is done especially in commands and requests.
 – Please come home!
 (Word for word: _Request come home!_)
 
---------------------------------------------------------------------------------
 
-## 8. Conjunctions
+## Combining phrases with conjunctions
 
-### 8.1. Basic conjunctions
+### Basic conjunctions
 
 1. **e** and (connects two similar words or phrases)
 2. **o** or (connects two alternative words or phrases)
@@ -201,11 +196,11 @@ This is done especially in commands and requests.
 
 --------------------------------------------------------------------------------
 
-## 9. Particles
+## Particles
 
-### 9.1. Affirmation and Negation
+### Affirmation and Negation
 
-### 9.1.1. Affirmative
+#### Affirmative
 
 Particle **si** is affirmative and **no** is negative.
 **si** affirms the existence of something, whereas **no** denies it.
@@ -219,7 +214,7 @@ However it is especially convenient in expressions of state.
 **le si novi meze.**
 – It is a new table.
 
-### 9.1.2. Negative
+#### Negative
 
 Such sentences can be simply negated with **no**.
 
@@ -265,13 +260,13 @@ Negative questions are answered so that **si** and **no** apply to the verb, not
 – No. (I don't see you.)
 
 
-### 9.2. Modifier particles
+### Modifier particles
 
 Particles **du** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
 **du** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
-#### 9.2.1. Possession
+#### Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
@@ -297,7 +292,7 @@ so one can say things like
 but it's better to use the short possessive pronouns and say simply
 **mi dome** (_my house_).
 
-#### 9.2.2. Modification with noun phrases
+#### Modification with noun phrases
 
 Another way to use these particles is to connect an adjective or other words with a noun.
 It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
@@ -333,7 +328,7 @@ So a modifier phrase with and without **du** can mean a different thing.
 **max du sundari fule**
 – more of beautiful flowers
 
-#### 9.2.3. Modification with verb phrases
+#### Modification with verb phrases
 
 Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
 The places of the agent and the recipient stay the same in modifying phrases as in declarative phrases.
@@ -373,7 +368,7 @@ Pay attention to the final vowels! They are crucial for the meaning!
 Note! In Pandunia, words can be put in many different orders.
 That's why some translations sound clumsy in English although the original phrases are perfectly natural in Pandunia.
 
-#### 9.2.4. Modification with adposition phrases
+#### Modification with adposition phrases
 
 The modified noun can be part of an adposition phrase too.
 
@@ -405,7 +400,7 @@ may be more understandable to simply rearrange the sentence entirely.
 **me cana table da ren. me raya mome xudu eska lole tema liga momi partia.**
 – I've tabulated the people that I think we should ask about joining our party.
 
-### 9.3. Modal Particles
+### Modal Particles
 
 Modal particles indicate what the speaker thinks about s/he says in relation to the listener.
 Modal particles are commonly used in many languages.
@@ -428,7 +423,7 @@ The particle **plus** _(also)_ is a good example because it functions much like 
 Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
 
 
-### 9.4. Tense and Aspect Particles
+### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **pas** (past), **zay** (present) and **wil** (future, upcoming).

@@ -1,11 +1,11 @@
-## 11. Word building
+# Word building
 
 It's possible to build new words in Pandunia.
 Pandunia has a productive system of word derivation.
 Most of the suffixes that are used in Pandunia are already in international use.
 Many of them come from ancient Greek, Latin, Arabic and Persian.
 
-### 11.1. Word class markers
+## Word class markers
 
 Pandunia uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
@@ -61,7 +61,7 @@ Here are a few examples of different types of ideas.
 	- **hamaru** to be hammered (passive verb)
 
 
-#### 11.1.2. Deriving verbs
+### Deriving verbs
 
 **-a** and **-u** are the endings for verbs.
 
@@ -73,7 +73,7 @@ Here are a few examples of different types of ideas.
    For example from **hamar** (_hammer_) we get **hamara** (_to hammer_).
 
 
-#### 11.1.3. Deriving nouns
+### Deriving nouns
 
 **-e** is the ending for nouns.
 
@@ -86,7 +86,7 @@ For example from **novi** (_new_) we get **nove** (_a novelty_ i.e. something ne
 
 Additional noun suffixes are presented below.
 
-#### 11.1.4. Deriving adjectives
+### Deriving adjectives
 
 **-i** is the ending for adjectives and adjectival verbs.
 
@@ -107,7 +107,7 @@ If the root is a place word, then its adjectival form will mean "that which is f
 **europe** Europe, **europi** European  
 **asia** Asia, **asi** Asian
 
-#### 11.1.5. Words without an ending
+### Words without an ending
 
 Some words in Pandunia don't have a vowel ending.
 These are the rules:
@@ -124,7 +124,7 @@ Note that it is always acceptable to use the vowel endings on every word.
 It is an artistic choice by the authors of Pandunia to not require them on these words.
 
 
-### 11.2. Compound words
+## Compound words
 
 Two or more words can be put together to make a _compound word_.
 The last word is the most meaningful word in the compound
@@ -162,16 +162,16 @@ The ending vowel of the first word is always dropped when a compound word is mad
     =  paciste      (proponent of peace, pacifist)
 
 
-### 11.3. Common Suffixes
+### Common Suffixes
 
-#### 11.3.1. -bli
+#### -bli
 
 Indicates possibility. It is attached after the verb root.
 
 **vidabli** which can be seen, visible  
 **vidubli** who/which can see
 
-#### 11.3.2. -er
+#### -er
 
 Creates agent nouns. It denotes a person or a tool which does the action.
 
@@ -201,7 +201,7 @@ thing to whom the action is done.
 
 -->
 
-#### 11.3.3. -ia
+#### -ia
 
 Creates aggregate nouns. It denotes a group of elements named by the
 root as a whole.
@@ -232,7 +232,7 @@ When it is added after -er, it means a place of work.
 **fateria** factory  
 **sapateria** shoemaker's shop  
 
-#### 11.3.4. -is-
+#### -is-
 
 Causative suffix.
 
@@ -241,7 +241,7 @@ Causative suffix.
 **nota** to note  
 **notisa** to notify  
 
-#### 11.3.5. -ist-
+#### -ist-
 
 This suffix that denotes a person who tends to behave or think in a
 certain way or to follow a certain ideology or religion.
@@ -251,14 +251,14 @@ certain way or to follow a certain ideology or religion.
 **dewisti** theistic  
 **dewistia** theism (system of belief in a god or gods)  
 
-#### 11.3.6. -ul-
+#### -ul-
 
 Creates verbs that reverse the meaning of the base verb.
 
 **noda** to tie; **nodula** to untie  
 **tapa** to plug, to close with a plug; **tapula** to unplug, to open the plug.  
 
-### 11.4. Function Words
+### Function Words
 
 _Function words_ are words that help to organize words into more or less complex sentences.
 It is a closed class i.e. new words are never or only very seldom be added to it.

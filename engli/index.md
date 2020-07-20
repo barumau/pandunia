@@ -24,7 +24,6 @@ Its words have been borrowed from many languages on all continents and all cultu
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Phrasebook](fraze.md)
-- [Spelling](abc.md) and [grammar](kanun.md)
 
 - [Searchable dictionary](tiddly.html)
 - [English-Pandunia](engli-pandunia.md) dictionary

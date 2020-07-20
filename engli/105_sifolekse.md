@@ -1,9 +1,9 @@
-## 3. Modifiers
+# Adjectives
 
 A modifier is a word that adds some quality or description to another word,
 for example good, bad, big, and fast.
 
-### 3.1. Modifying a noun
+## Modifying a noun
 
 An adjective is a word that adds a particular quality for a noun.
 In Pandunia, adjectives typically end in **-i** and their place is before a noun.
@@ -12,16 +12,16 @@ In Pandunia, adjectives typically end in **-i** and their place is before a noun
 – new car(s)  
 **rapidi gare**
 – fast car(s)  
-**day meze**
+**dayi meze**
 – big table(s)  
 **gawi meze**
 – high table(s)  
-**bon kurse**
+**boni kurse**
 – good chair(s)
 
 Two or more adjectives can modify the same word.
 
-**lil novi gare**
+**lili novi gare**
 – a little, new car
 
 Adjective can be also after the noun.

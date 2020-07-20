@@ -1,6 +1,6 @@
-## 5. Pronouns
+# Pronouns
 
-### 5.1. Personal pronouns
+## Personal pronouns
 
 Pronouns can substitute nouns and noun phrases.
 
@@ -17,7 +17,7 @@ Pronouns can substitute nouns and noun phrases.
 **lole**
 – they
 
-### 5.2. Reflexive pronoun
+## Reflexive pronoun
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
@@ -34,7 +34,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mome vida ze.**
 – We see ourselves.
 
-### 5.3. Demonstrative pronouns
+## Demonstrative pronouns
 
 The demonstrative pronouns are:
 
@@ -55,7 +55,7 @@ They end in **-i** when they function as modifiers i.e. when they come before a 
 **wi maw**
 – That cat
 
-### 5.4. Interrogative pronouns
+## Interrogative pronouns
 
 **ke** is a general-purpose interrogative pronoun.
 It does the job of English words _who_ and _what_.

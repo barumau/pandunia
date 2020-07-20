@@ -1,4 +1,6 @@
-### 3.2 Modifying a verb
+# Adverbs
+
+## Modifying a verb
 
 An adverb is a word that modifies a verb or another modifier.
 
@@ -12,7 +14,7 @@ or at the end of the sentence.
 **te baxa pandunia _bono_.**
 – You speak Pandunia _well_.
 
-### 3.3. Modifying another modifier
+## Modifying another modifier
 
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
@@ -30,7 +32,7 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 – somewhat beautiful person
 
 
-### 3.4. Comparison
+## Comparison
 
 Modifiers can be compared.
 

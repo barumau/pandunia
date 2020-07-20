@@ -1,6 +1,6 @@
-## 6. Verbs
+# Verbs
 
-### 6.1. Introduction
+## Introduction
 
 A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
 
@@ -35,7 +35,7 @@ As you can see, **-a** and **-u** indicate word orders that are opposite to each
 Verbs that end in **-a** are active
 and verbs that end in **-u** are called passive.
 
-### 6.2. Active verbs
+## Active verbs
 
 Verbs that end in **-a** are called _active verbs_.
 The sentence word order is subject–verb–object.
@@ -53,7 +53,7 @@ Examples:
 **te beka pang.**
 – You bake bread.  
 
-### 6.3. Passive verbs
+## Passive verbs
 
 Verbs that end in **-u** are called _passive verbs_.
 The sentence word order is again subject–verb–object,
@@ -75,9 +75,11 @@ Examples:
 – You are pleased by me. (Or: You like me.)
 
 
-## 10. Prepositions
+## Prepositions
 
-### 10.1. Prepositions of place and time
+In Pandunia, prepositions are basically a sub-category of verbs.
+
+### Prepositions of place and time
 
 Pandunia has four prepositions of place and time.
 
@@ -102,7 +104,7 @@ refer to time.
 **me denga pa te laya dome.** - I wait until you come home.  
 **me denga sa te sona.** - I wait while you sleep.  
 
-#### 10.1.2. sa
+#### sa
 
 **sa** is an all-purpose preposition. Its basic meaning is "with".
  
@@ -118,7 +120,7 @@ I speak in Pandunia.
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia by telephone.
 
-#### 10.1.3. Verbs as prepositions
+#### Verbs as prepositions
 
 In Pandunia some verbs function like prepositions do in English.
 
@@ -136,7 +138,7 @@ Here are some verbs that are usable as prepositions:
 **sirka** - to surround; around  
 **supra** - to surpass; over, above  
 
-#### 10.1.4. Verbs without prepositions
+#### Verbs without prepositions
 
 Prepositions are not used as frequently in Pandunia as in English. In
 many phrases, the verb says enough alone.
@@ -147,7 +149,7 @@ many phrases, the verb says enough alone.
 **fix nata daria.** - Fish swim (in) the sea.  
 **jenger marca daw.** - Warriors march (on) the road.  
 
-### 10.2. Preposition of relation
+### Preposition of relation
 
 Preposition **ko** indicates manner or style. It corresponds to
 English prepositions _like_, _than_, _as_ and _as if_.
@@ -166,7 +168,4 @@ the point of comparison.
 **ko** relates the adverbs of comparison – **max** (more), **min**
 (less) and **samo** (same) – to the point of comparison, which is
 **pape** (father) in the examples above.
-
-
-
 
