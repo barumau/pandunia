@@ -3,17 +3,27 @@ site_url: http://www.pandunia.info/engli
 site_author: Risto Kupsala
 docs_dir: ../../engli
 site_dir: ../../html/engli
-theme: cerulean
+theme: readthedocs
 nav:
     - Home: 'index.md'
     - 'Info':
         - 'Introduction': dunia_baxe.md
         - 'Principles': filsof.md
-        - 'World words': dunia_loge.md
         - 'Questions & Answers': eske_i_jawabe.md
         - 'Translate this site': tarja_netoloke.md
+    - 'Grammar and Rules':
+        - 'The basic rules': 100_bazi_kanune.md
+        - 'World words': 101_duni_lekse.md
+        - 'Spelling and pronunciation': 102_ABC.md
+        - 'Nouns': 104_namolekse.md
+        - 'Adjectives': 105_sifolekse.md
+        - 'Adverbs': 106_modolekse.md
+        - 'Numerals': 107_nume.md
+        - 'Pronouns': 108_visolekse.md
+        - 'Verbs': 109_karolekse.md
+        - 'Sentences': 110_jumle.md
+        - 'Word building': 111_leksobine.md
     - 'Lessons':
-        - 'Sounds and letters': abc.md
         - 'Basic Phrases': fraze.md
         - 'Course': darse.md
     - 'Words':
@@ -21,5 +31,4 @@ nav:
         - 'English-Pandunia': engli-pandunia.md
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
-    - 'Grammar': kanun.md
 
