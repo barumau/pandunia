@@ -74,7 +74,7 @@ amari - Amhara (an Ethiopian ethnic group and language)
 ame - love (liking, affection)  
 amena - assure (affirm)  
 ameni - certain (sure)  
-ameno - certainly (surely,amen)  
+ameno - certainly (surely, amen)  
 amerike - America (continent)  
 ameriki - American  
 amerikium - americium  
@@ -155,6 +155,7 @@ auda - hear (listen)
 aure - gold  
 australia - Australia  
 aute - self (identity)  
+auti - personal (intimate, private)  
 automoti - self-moving (automotive, automobile)  
 autonomi - autonomous  
 autonomia - autonomy  
@@ -180,8 +181,8 @@ badani - bodily (corporal)
 badawi - bedouin (nomadic)  
 bade - consequence (back, follow-up)  
 badi - next (following, back)  
-badi den - tomorrow  
 bado - later (after)  
+badoden - tomorrow  
 badofikse - suffix  
 bagaje - luggage (baggage)  
 bagre - tiger  
@@ -619,7 +620,7 @@ dumane - smoke
 dume - tail  
 duni - global  
 dunia - world  
-dunia bax - world language  
+dunia baxe - world language  
 dura - last (take time, during)  
 dure - duration  
 duru - pass (of time)  
@@ -703,7 +704,7 @@ eureka - find (discover)
 europe - Europe  
 europese - euro (€)  
 europi - European  
-europi unia - European Union (EU)  
+europi unisia - European Union (EU)  
 europium - europium  
 ewanjile - gospel (divine message)  
 ewi - beneficial (good)  
@@ -748,7 +749,7 @@ faxoni - popular (trendy)
 faze - stage (phase)  
 febre - fiever  
 fem (feme) - female  
-femi bace - daughter  
+femi pute - daughter  
 femi rajer - queen  
 femiste - feminist  
 femistia - feminism  
@@ -995,8 +996,8 @@ haime - tent
 haitia - Haiti  
 hake - right (entitlement)  
 hakima - judge  
+hakime - judgment (sentence)  
 hakimer - judge (referee)  
-hakimer - judgment (sentence)  
 halala - allow (permit)  
 halali - permissible (allowed, halal)  
 hale - state (condition, status, situation)  
@@ -1588,7 +1589,8 @@ lada - load (to charge)
 lage - lake  
 laje - garbage (rubbish, trash)  
 lake - lacquer (varnish)  
-lala - lie (lie down)  
+lala - lay (lay down)  
+lalu - lie (lie down)  
 lampe - lamp  
 lana - curse (swear)  
 lanca - throw (launch)  
@@ -1790,7 +1792,7 @@ mangese - magnesium
 mangete - magnet  
 mangeti - magnetic  
 manguse - mangosteen  
-mani bace - son  
+mani pute - son  
 mani rajer - king  
 manihaye - prophet Mani  
 manihayistia - Manichaeism  
@@ -1826,10 +1828,10 @@ mati - material
 matike - mathematics (math)  
 matiker - mathematician  
 matrase - mattress  
+mature - adult  
 maturi - mature (ripe, adult)  
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
-maturoren - adult  
 maw (mawe) - cat  
 max (maxo) - more  
 max ko bas - too much  
@@ -2872,7 +2874,7 @@ supre - overpass
 supri - upper  
 suprize - surprise  
 suria - Syria  
-surinami bax - Sranan Tongo  
+surinami baxe - Sranan Tongo  
 surinamia - Suriname  
 susane - lily  
 suta - sew  
@@ -2908,7 +2910,6 @@ tamare - date fruit
 tami - greedy  
 tamili - Tamil  
 tanah - Tanakh (Jewish Bible)  
-tani - personal (intimate, private)  
 tanke - tank (reservoir)  
 tantalum - tantalum  
 tanure - oven (furnace)  
@@ -3086,13 +3087,13 @@ vanadium - vanadium
 vanile - vanilla  
 vanuatia - Vanuatu  
 var (vare) - day of the week  
-var 1 (var un) - Monday  
-var 2 (var dul) - Tuesday  
-var 3 (var tin) - Wednesday  
-var 4 (var car) - Thursday  
-var 5 (var lim) - Friday  
-var 6 (var sis) - Saturday  
-var 7 (var sem) - Sunday  
+var 1 (var uni) - Monday  
+var 2 (var duli) - Tuesday  
+var 3 (var tini) - Wednesday  
+var 4 (var cari) - Thursday  
+var 5 (var limi) - Friday  
+var 6 (var sisi) - Saturday  
+var 7 (var seti) - Sunday  
 vatikania - Holy See (Vatican City State)  
 vaze - pot (vase, bin, jar, jug)  
 vejete - vegetable  

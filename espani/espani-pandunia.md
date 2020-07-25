@@ -30,7 +30,8 @@ acontecimiento (caso, suceso, evento) - kase
 acordar - samoraya  
 acordarse - mema  
 acortar (abreviar) - korta  
-acostarse (echarse, tenderse, tumbarse) - lala  
+acostar (poner) - lala  
+acostarse (echarse, tenderse, tumbarse) - lalu  
 actinio - acinium  
 actor (actriz) - roler  
 actuar (hacer un papel) - rola  
@@ -48,7 +49,7 @@ adoquín - cirki petre
 adoración (veneración, culto) - puje  
 adorar (venerar) - puja  
 adulterio - zine  
-adulto - maturoren  
+adulto - mature  
 adverbo - modolekse  
 adversario (oponente) - anter  
 aeroplano - vimane  
@@ -277,7 +278,6 @@ balcón (terraza, veranda) - berande
 balcón - balkone  
 balde (cubo) - balde  
 baldosa (teja, azulejo) - taile  
-balle (boule) - bol (bole)  
 ballesta - krusarke  
 baloncesto - baskobol  
 bambú - banse  
@@ -350,6 +350,7 @@ bodega - vineria
 bohrio - borium  
 boicot - boikote  
 boina - berete  
+bola - bol (bole)  
 boleto - tikete  
 Bolivia - bolivia  
 bolsillo - jebe  
@@ -937,7 +938,7 @@ doler (hacer daño) - paxa
 dolor - tunge  
 doloroso - paxi  
 dominar - mesta  
-domingo - var 7 (var sem)  
+domingo - var 7 (var seti)  
 Dominica - dominikia  
 dominio (reinado) - kratia  
 dominó - dominogeme  
@@ -1161,7 +1162,7 @@ exónimo - wayonam
 ##f
 falda - jupe  
 falla (mal funcionamiento) - malofunce  
-fallo (juicio, criterio) - hakimer  
+fallo (juicio, criterio) - hakime  
 falso - falsi  
 familia - famile  
 fan (-filo) - filer  
@@ -1417,8 +1418,8 @@ hidrógeno - hidre
 hielo - aise  
 hierro - fere  
 higiene - hijenia  
-hija - femi bace  
-hijo - mani bace  
+hija - femi pute  
+hijo - mani pute  
 hijo o hija - pute  
 hilo (cordel) - korde  
 Himalaya - himalia  
@@ -1613,7 +1614,7 @@ judío - yehudi
 juego - geme  
 juego de mazmorras - aventure da donjone  
 juego de mesa - banzogeme  
-jueves - var 4 (var car)  
+jueves - var 4 (var cari)  
 juez (árbitro, réferi) - hakimer  
 jugador - gemer  
 jugar un juego - gema  
@@ -1682,7 +1683,7 @@ lejano (lejos) - teli
 lengua (idioma) - baxe  
 lengua - lisane  
 lengua materna - jeni baxe  
-lengua mundial - dunia bax  
+lengua mundial - dunia baxe  
 lento (despacio) - lenti  
 Lesoto - sotowia  
 Letonia - latovia  
@@ -1754,7 +1755,7 @@ luchador (guerrero) - jenger
 lugar - loke  
 lujuria (deseo) - kamia  
 luna - lune  
-lunes - var 1 (var un)  
+lunes - var 1 (var uni)  
 lutecio - lutetium  
 luteranismo - lutheristia  
 luterano - lutheristi  
@@ -1835,7 +1836,7 @@ marmól - marmare
 Marruecos - magribia  
 marrón - bruni  
 Marte - marse  
-martes - var 2 (var dul)  
+martes - var 2 (var duli)  
 martillo (mazo) - hamare  
 marzo - mes 3 (mes tini)  
 marítimo - samudi  
@@ -1857,7 +1858,7 @@ Mayotte (Mahoré) - mayotia
 mazmorra - zemonici prizone  
 maíz - maise  
 mañana (antes mediodía) - suboden  
-mañana - badi den  
+mañana - badoden  
 mañana - sube  
 mear - pixa  
 medallón - medale  
@@ -1929,7 +1930,7 @@ minuto - minute
 minúsculo (diminuto) - mini  
 mismo (yo) - aute  
 mito (cuento divino) - dewi sage  
-miércoles - var 3 (var tin)  
+miércoles - var 3 (var tini)  
 mochila - rukosake  
 moda (moderno, popular) - faxoni  
 moda (tendencia) - faxone  
@@ -2313,7 +2314,7 @@ permitir (dejar) - halala
 pero - a  
 perro - waf (wafe)  
 persona (gente) - ren (rene)  
-personal (privado) - tani  
+personal (privado) - auti  
 perspectiva (punto de vista) - vidopunte  
 pertenecer (ser miembro de) - memba  
 Perú - peruvia  
@@ -2674,7 +2675,6 @@ rápido - rapidi
 réservation - rezerve  
 rígido (sólido) - gatomati  
 ##s
-sabado - var 6 (var sis)  
 sabana - savane  
 sabbat - sabate  
 saber (conocer) - jana  
@@ -2822,7 +2822,7 @@ sopa - supe
 soplar (echar) - hawa  
 soporte (perchero, atril) - libobaze  
 sorpresa - suprize  
-sranan tongo - surinami bax  
+sranan tongo - surinami baxe  
 Sri Lanka - lankia  
 strontium - estrontium  
 suajili - suahili  
@@ -2866,6 +2866,7 @@ sustantivo - namolekse
 sustituir (reemplezar) - visa  
 susurrar (curjir) - xaxu  
 Svalbard - sualbardia  
+sábado - var 6 (var sisi)  
 sándwich (sánduche) - sanduice  
 sí - si  
 sólido - gatomate  
@@ -3061,7 +3062,7 @@ unido - unisi
 unir - unisa  
 universidad - dayodarsia  
 unión - unisia  
-Unión Europea - europi unia  
+Unión Europea - europi unisia  
 uno (1) - un (uni)  
 uranio - uranium  
 Urano - urane  
@@ -3137,7 +3138,7 @@ viejo (anciano) - lawe
 viejo (anciano) - lawi  
 viejo (antiguo) - purani  
 viento - hawe  
-viernes - var 5 (var lim)  
+viernes - var 5 (var limi)  
 Vietnam - vietia  
 vietnamita - vieti  
 vigilante (guardia) - garder  

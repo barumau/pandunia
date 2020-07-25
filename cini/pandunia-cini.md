@@ -104,7 +104,7 @@ bire - 啤酒
 biyi jinse - 生物性別  
 biyomutu - 发酵  
 biyosisteme - 生物群系  
-bol (bole) - كورة  
+bol (bole) - 球  
 bombe - 炸弹  
 bon (boni) - 好  
 bonosinyi - 吉利的  
@@ -390,9 +390,9 @@ mantole - 斗篷
 marmare - 大理石  
 masale - 香料  
 maste - 桅  
+mature - 成年人  
 maturi fem - 女人  
 maturi man - 男人  
-maturoren - 成年人  
 maw (mawe) - 猫  
 maxim (maximo) - 最  
 maxoforte - 加固  
@@ -615,6 +615,13 @@ ura - 好哇
 ##v
 vagine - 阴道  
 vampire - 吸血鬼  
+var 1 (var uni) - 星期一 (禮拜一)  
+var 2 (var duli) - 星期二 (禮拜二)  
+var 3 (var tini) - 星期三 (禮拜三)  
+var 4 (var cari) - 星期四 (禮拜四)  
+var 5 (var limi) - 星期五 (禮拜五)  
+var 6 (var sisi) - 星期六 (礼拜六)  
+var 7 (var seti) - 星期日 (禮拜日)  
 vejete - 蔬菜  
 vejetoniamiste - 素食主义者  
 venda - 卖  

@@ -23,7 +23,7 @@ actor (actress) - roler
 additional - maxi  
 address - adrese  
 adjective - sifolekse  
-adult - maturoren  
+adult - mature  
 adultery (infidelity) - zine  
 advance (progress, enter) - jina  
 adventure (venture) - aventure  
@@ -496,7 +496,7 @@ Central African Republic - jungafrikia
 Ceres (dwarf planet) - seres  
 cerium - cerium  
 certain (sure) - ameni  
-certainly (surely,amen) - ameno  
+certainly (surely, amen) - ameno  
 Chad - cadia  
 chain - silsile  
 chain mail - silsilonete  
@@ -755,7 +755,7 @@ data (numeric information) - date
 database (databank) - datobanke  
 date - nenomesoden  
 date fruit - tamare  
-daughter - femi bace  
+daughter - femi pute  
 day (daytime) - den (dene)  
 day of the week - var (vare)  
 deactivate (disable, turn off) - karivula  
@@ -965,7 +965,7 @@ Eurasia - eurasia
 euro (€) - europese  
 Europe - europe  
 European - europi  
-European Union (EU) - europi unia  
+European Union (EU) - europi unisia  
 europium - europium  
 evaluate (review, criticise) - pipinga  
 evaluation (criticism) - pipinge  
@@ -1126,7 +1126,7 @@ French Guiana - giyania
 French Polynesia - fransi polinesia  
 frequency - cangia  
 fresh - tazi  
-Friday - var 5 (var lim)  
+Friday - var 5 (var limi)  
 friend - doste  
 friendly - dosti  
 friendship - dostia  
@@ -1508,7 +1508,7 @@ journalist - gazeter
 Judaism - yehudistia  
 judge (referee) - hakimer  
 judge - hakima  
-judgment (sentence) - hakimer  
+judgment (sentence) - hakime  
 judo - judaw  
 jug (jar, pitcher) - jare  
 juice - juse  
@@ -1592,6 +1592,7 @@ laugh - haha
 lava - yongopetre  
 law - kanune  
 lawrencium - laurensium  
+lay (lay down) - lala  
 layer (level, storey, floor, stratum) - cenge  
 lead (direct) - lida  
 lead - plumbe  
@@ -1632,7 +1633,7 @@ Liberia - liberia
 librarian - kitabominister  
 library - kitabia  
 Libya - libia  
-lie (lie down) - lala  
+lie (lie down) - lalu  
 Liechtenstein - lihtextainia  
 life - haye  
 light (bright) - foti  
@@ -1881,7 +1882,7 @@ mollusk - moluske
 molybdenum - molidenum  
 moment (while, short time) - sate  
 Monaco - monakia  
-Monday - var 1 (var un)  
+Monday - var 1 (var uni)  
 money - pese  
 Mongol - mongoli  
 Mongolia - mongolia  
@@ -2212,7 +2213,7 @@ peripheral - kenari
 permissible (allowed, halal) - halali  
 Persian (Farsi) - farsi  
 person (people) - ren (rene)  
-personal (intimate, private) - tani  
+personal (intimate, private) - auti  
 personal identification number (PIN) - sekuronombre  
 perspective (point of view) - vidopunte  
 Peru - peruvia  
@@ -2599,7 +2600,7 @@ Sao Paulo - santi paule
 Sao Tome and Principe - santi tome e prinsipe  
 Satanism (devil worship) - xatanistia  
 Satanist - xataniste  
-Saturday - var 6 (var sis)  
+Saturday - var 6 (var sisi)  
 Saturn - saturne  
 sauce - sose  
 Saudi Arabia - saudi arabia  
@@ -2781,7 +2782,7 @@ some - koy (koyi)
 someone (somebody) - koy ren  
 something - koy xey  
 sometime - koy sate  
-son - mani bace  
+son - mani pute  
 song - cante  
 soon - suno  
 sorry (pardon) - pardon (pardone)  
@@ -2823,7 +2824,7 @@ spring (springtime) - cune
 square (tetragon) - carogone  
 squeeze (squish) - indo puxa  
 squirrel - ekore  
-Sranan Tongo - surinami bax  
+Sranan Tongo - surinami baxe  
 Sri Lanka (Ceylon) - lankia  
 stadium (arena) - estadia  
 stage (phase) - faze  
@@ -2892,7 +2893,7 @@ sum up (add together) - suma
 summer - lete  
 summon (add, spawn) - zayisa  
 sun - sole  
-Sunday - var 7 (var sem)  
+Sunday - var 7 (var seti)  
 superb (wonderful, super) - super (superi)  
 supply (dispense, issue, put out) - fada  
 surface (face) - fase  
@@ -3024,7 +3025,7 @@ throw up (vomit, regurgitate) - retrogula
 thulium - tulium  
 thunder (roaring) - grome  
 thunderstorm - gromotafune  
-Thursday - var 4 (var car)  
+Thursday - var 4 (var cari)  
 Tibet - podia  
 ticket - tikete  
 tie (fasten, bind) - benda  
@@ -3052,7 +3053,7 @@ toilet (WC) - tuale
 Tokyo - tokyo  
 tolerate - tolera  
 tomato - tomate  
-tomorrow - badi den  
+tomorrow - badoden  
 tone (note, pitch, shade) - tone  
 Tonga - tongia  
 tongue - lisane  
@@ -3106,7 +3107,7 @@ trunk (torso) - torse
 trust (rely) - nidoxina  
 try (attempt) - testa  
 tube (pipe) - tube  
-Tuesday - var 2 (var dul)  
+Tuesday - var 2 (var duli)  
 tulip - tulpane  
 tundra - tundre  
 tungsten (wolfram) - wolfram  
@@ -3257,7 +3258,7 @@ wear clothes - fuka
 weather - tenke  
 weave - texa  
 website - netoloke  
-Wednesday - var 3 (var tin)  
+Wednesday - var 3 (var tini)  
 week - semane  
 weep (cry) - kuga  
 weight (burden) - bare  
@@ -3311,7 +3312,7 @@ work (job, task) - werke
 work - werka  
 worker - werker  
 world - dunia  
-world language - dunia bax  
+world language - dunia baxe  
 worm - verme  
 worship (reveration) - puje  
 worship (revere) - puja  

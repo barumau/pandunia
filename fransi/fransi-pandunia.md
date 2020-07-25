@@ -9,7 +9,7 @@ actinium - acinium
 action - acion (acione)  
 adhésif (collant) - gluti  
 adresse - adrese  
-adulte - maturoren  
+adulte - mature  
 afghan - avgani  
 Afghanistan - avgania  
 africain - afriki  
@@ -95,7 +95,7 @@ baie - bere
 bain - banye  
 baisser - tala  
 balcon - balkone  
-ball - bol (bole)  
+balle (boule) - bol (bole)  
 bambou - banse  
 banane - banane  
 bande - bande  
@@ -239,6 +239,7 @@ destin (destination) - destine
 deux (2) - duli  
 diamant - almase  
 dieu - dew (dewe)  
+dimanche - var 7 (var seti)  
 diorite - diorite  
 dioxyde de carbone - karbonodulokside  
 dirigeant (leader) - lider  
@@ -367,6 +368,7 @@ jade - yuke
 Japon - niponia  
 jaïnisme - jeinistia  
 je (me) - me  
+jeudi - var 4 (var cari)  
 joule (J) - jule  
 jus - juse  
 jusque (jusqu’à) - ata  
@@ -404,6 +406,7 @@ loquace - logivi
 loup - wolfe  
 lourd - bari  
 loutre - lontre  
+lundi - var 1 (var uni)  
 luthéranisme - lutheristia  
 luthérien - lutheristi  
 lynx - linse  
@@ -421,6 +424,7 @@ manche - kamisi xake
 manichéisme - manihayistia  
 marbre - marmare  
 marché (bazar) - bazare  
+mardi - var 2 (var duli)  
 mariage - maria  
 Maroc - magribia  
 masque - maske  
@@ -430,6 +434,7 @@ maître - mester
 medio - medi  
 melt - yongu  
 mer - samude  
+mercredi - var 3 (var tini)  
 merde - xite  
 message - anjile  
 mettre (placer) - loka  
@@ -616,6 +621,7 @@ sac - sake
 sain - sihi  
 salle de bains - banyokamare  
 salut (salam) - salame  
+samedi - var 6 (var sisi)  
 sandwich - sanduice  
 sang - sange  
 santé - sihe  
@@ -646,7 +652,7 @@ société - socia
 soie - sile  
 soldat - lasker  
 soleil - sole  
-soumettre  - karomisa  
+soumettre - karomisa  
 squelette - ostojamia  
 sucre - xukare  
 sueur - suede  
@@ -709,6 +715,7 @@ vampire - vampire
 vapeur d’eau - suyogase  
 vase - vaze  
 vendre - venda  
+vendredi - var 5 (var limi)  
 Venezuela - venezolia  
 ver - verme  
 verbe - karolekse  

@@ -118,7 +118,7 @@ badani - korpa
 badawi - beduino (nomado)  
 bade - sekvo  
 badi - sekva  
-badi den - morgaŭ  
+badoden - morgaŭ  
 bagaje - pakaĵo  
 bagre - tigro  
 bahayiste - bahaisto  
@@ -380,7 +380,7 @@ dumane - fumo
 dume - vosto  
 duni - tera  
 dunia - mondo  
-dunia bax - mondlingvo  
+dunia baxe - mondlingvo  
 dura - daŭri (dum)  
 dure - daŭro  
 dute - dubo  
@@ -430,7 +430,7 @@ eureka - trovi
 europe - Eŭropo  
 europese - eŭro  
 europi - Eŭropa  
-europi unia - Eŭropa Unio (EU)  
+europi unisia - Eŭropa Unio (EU)  
 europium - eŭropio  
 ewanjile - evangelio  
 ##f
@@ -458,7 +458,7 @@ faxiste - faŝisto
 faxistia - faŝismo  
 febre - febro  
 fem (feme) - ino  
-femi bace - filino  
+femi pute - filino  
 fena - dividi  
 fene - parto (frakcio)  
 fere - fero  
@@ -608,8 +608,8 @@ haida - ni faru...
 haime - tendo  
 haitia - Haitio  
 hake - rajto  
+hakime - juĝo  
 hakimer - juĝisto  
-hakimer - juĝo  
 hale - stato  
 halife - kalifo  
 halow - saluton!  
@@ -992,10 +992,10 @@ maske - masko
 maste - masto  
 matike - matematiko  
 matiker - matematikisto  
+mature - plenaĝa  
 maturi - matura (plenkreska)  
 maturi fem - virino  
 maturi man - viro  
-maturoren - plenaĝa  
 maw (mawe) - kato  
 max (maxo) - pli  
 max ko bas - tro  
@@ -1524,6 +1524,13 @@ uza - uzi
 vagine - vagino  
 vaginitis - vaginito  
 vale - valo  
+var 1 (var uni) - luno  
+var 2 (var duli) - mardo  
+var 3 (var tini) - merredo  
+var 4 (var cari) - ĵaŭdo  
+var 5 (var limi) - vendredo  
+var 6 (var sisi) - sabato  
+var 7 (var seti) - dimanĉosunnuntai  
 vaze - vazo  
 vejete - legomo  
 veri - vera  

@@ -141,6 +141,7 @@ atome - atomi
 auda - kuulla (kuunnella)  
 aure - kulta  
 australia - Australia  
+auti - henkilökohtainen (privaatti)  
 automoti - itseliikkuva  
 autonomi - autonominen  
 autonomia - itsehallinto (autonomia)  
@@ -165,7 +166,7 @@ badani - ruumiillinen
 badawi - beduiini  
 bade - seuraus  
 badi - seuraava  
-badi den - huominen  
+badoden - huominen  
 badofikse - loppuliite (jälkiliite)  
 bagaje - matkatavarat  
 bagre - tiikeri  
@@ -541,7 +542,7 @@ dumane - savu
 dume - häntä  
 duni - maailman-  
 dunia - maailma  
-dunia bax - maailmankieli  
+dunia baxe - maailmankieli  
 dura - kestää (viedä aikaa)  
 dure - kesto (kestoaika)  
 duru - kulua (ajasta)  
@@ -611,7 +612,7 @@ eureka - löytää (keksiä)
 europe - Eurooppa  
 europese - euro (€)  
 europi - eurooppalainen  
-europi unia - Euroopan unioni  
+europi unisia - Euroopan unioni  
 europium - europium  
 ewanjile - evankeliumi(hyvä sana)  
 ewi - hyvä (eettisesti hyvä)  
@@ -646,7 +647,7 @@ faxoni - suosittu (trendikäs)
 faze - vaihe (etappi)  
 febre - kuume  
 fem (feme) - naaras  
-femi bace - tyttölapsi  
+femi pute - tyttölapsi  
 femi rajer - kuningatar  
 fena - jakaa (paloitella)  
 fene - osa (pala)  
@@ -859,8 +860,8 @@ haime - teltta
 haitia - Haiti  
 hake - oikeus (oikeutus)  
 hakima - tuomita  
+hakime - tuomio  
 hakimer - tuomari  
-hakimer - tuomio  
 halala - sallia (antaa lupa)  
 halali - sallittu (hyväksytty)  
 hale - tila (tilanne, seikka)  
@@ -1532,7 +1533,7 @@ mangese - magnesium
 mangete - magneetti  
 mangeti - magneettinen  
 manguse - mangostani  
-mani bace - poika  
+mani pute - poika  
 mani rajer - kuningas  
 manihaye - profeetta Mani  
 manihayistia - manikealaisuus  
@@ -1566,10 +1567,10 @@ mati - aineellinen (materiaalinen)
 matike - matematiikka (matikka)  
 matiker - matemaatikko  
 matrase - patja  
+mature - aikuinen  
 maturi - kypsä (aikuinen)  
 maturi fem - nainen  
 maturi man - mies  
-maturoren - aikuinen  
 maw (mawe) - kissa  
 max (maxo) - enemmän  
 max ko bas - liikaa  
@@ -2445,7 +2446,7 @@ supra - ylittää (yllä, päällä)
 supre - ylitys  
 suprize - yllätys  
 suria - Syyria  
-surinami bax - sranan tongo  
+surinami baxe - sranan tongo  
 surinamia - Surinam  
 susane - lilja  
 suta - ommella  
@@ -2476,7 +2477,6 @@ tamare - taateli
 tami - ahne  
 tamili - tamil (eräs intialainen kieli)  
 tanah - tanakh  
-tani - henkilökohtainen (privaatti)  
 tanke - tankki (säiliö)  
 tanure - uuni  
 tanzania - Tansania  
@@ -2624,13 +2624,13 @@ vanadium - vanadiini
 vanile - vanilja  
 vanuatia - Vanuatu  
 var (vare) - viikonpäivä  
-var 1 (var un) - maanantai  
-var 2 (var dul) - tiistai  
-var 3 (var tin) - keskiviikko  
-var 4 (var car) - torstai  
-var 5 (var lim) - perjantai  
-var 6 (var sis) - lauantai  
-var 7 (var sem) - sunnuntai  
+var 1 (var uni) - maanantai  
+var 2 (var duli) - tiisai  
+var 3 (var tini) - keskiviikko  
+var 4 (var cari) - torstai  
+var 5 (var limi) - perjantai  
+var 6 (var sisi) - lauantai  
+var 7 (var seti) - niedziela  
 vatikania - Vatikaanivaltio  
 vaze - ruukku (maljakko, vaasi)  
 vejete - kasvis  

@@ -33,7 +33,7 @@ aihe (teema) - teme
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - saba  
 aikakausi - zamane  
-aikuinen - maturoren  
+aikuinen - mature  
 aina - pan sate  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mati  
@@ -332,7 +332,7 @@ etäisyys (kaukaisuus) - tele
 etäisyys (kaukaisuus) - telia  
 Euraasia - eurasia  
 euro (€) - europese  
-Euroopan unioni - europi unia  
+Euroopan unioni - europi unisia  
 Eurooppa - europe  
 eurooppalainen - europi  
 europium - europium  
@@ -448,7 +448,7 @@ helvetti - narake
 hengitys (henkäys) - nafase  
 henki (sielu, mieli, psyyke) - ruhe  
 henkilö - ren (rene)  
-henkilökohtainen (privaatti) - tani  
+henkilökohtainen (privaatti) - auti  
 henkinen (psyykkinen) - ruhi  
 heprea - ibri  
 herkullinen (nami) - niami  
@@ -516,7 +516,7 @@ huomata (hoksata) - nota
 huomauttaa - notisa  
 huomautus - notise  
 Huomenta! - salam sube  
-huominen - badi den  
+huominen - badoden  
 huomio (kommentti, merkintä) - note  
 huone - kamare  
 huono - mal (mali)  
@@ -854,7 +854,7 @@ keskittyä (olla keskellä) - jungu
 keskittää - fokusa  
 keskittää - junga  
 keskiverto (keski-) - medi  
-keskiviikko - var 3 (var tin)  
+keskiviikko - var 3 (var tini)  
 keskus (keskikohta) - junge  
 keskustelu (debatti) - lona  
 keskusteluhuone - blableria  
@@ -1142,7 +1142,7 @@ latinalaiset aakkoset - latini abace
 latinoida - latinokitaba  
 lattia - kamarotale  
 Latvia - latovia  
-lauantai - var 6 (var sis)  
+lauantai - var 6 (var sisi)  
 laulaa - canta  
 laulu - cante  
 lauta (lankku) - banze  
@@ -1272,7 +1272,7 @@ maa (multa) - darte
 maa (valtio) - dexe  
 maailma - dunia  
 maailman- - duni  
-maailmankieli - dunia bax  
+maailmankieli - dunia baxe  
 maailmanlaajuinen (globaali) - panoduni  
 maalais- - rusti  
 maalari - penter  
@@ -1280,7 +1280,7 @@ maalata - penta
 maali (maalitaulu, kohde) - dike  
 maali (pelissä) - gole  
 maaliskuu - mes 3 (mes tini)  
-maanantai - var 1 (var un)  
+maanantai - var 1 (var uni)  
 maanjäristys - zemosisme  
 maanviljelijä - nonger  
 Maapallo - zemia  
@@ -1533,6 +1533,7 @@ neuvo - mente
 neuvontantaja (mentori) - menter  
 Nevis - nevis  
 newton (N) - nuton  
+niedziela - var 7 (var seti)  
 niellä - gula  
 Niger - nijeria  
 Nigeria - naijiria  
@@ -1755,7 +1756,7 @@ perhe - famile
 perhonen - pelpele  
 perimä (genotyyppi) - jenotipe  
 perintö - warise  
-perjantai - var 5 (var lim)  
+perjantai - var 5 (var limi)  
 persia (farsi) - farsi  
 Peru - peruvia  
 perua - ula  
@@ -1832,7 +1833,7 @@ Pohjois-Korea - nordi cosenia
 Pohjois-Kypros - nordi kipris  
 pohtia (meditoida) - medita  
 poika (nuori mies) - jovani man  
-poika - mani bace  
+poika - mani pute  
 poistaa - waya  
 poistua - cuta  
 poistuminen - cute  
@@ -2214,7 +2215,7 @@ sotilas - lasker
 soturi (taistelija) - jenger  
 sovellus - aplike  
 soveltaa - aplika  
-sranan tongo - surinami bax  
+sranan tongo - surinami baxe  
 Sri Lanka - lankia  
 stadioni (areena) - estadia  
 strontium - estrontium  
@@ -2234,7 +2235,6 @@ sulaa yhteen (fuusioitua) - liwunisu
 sulka - pere  
 sulkea vetoketjulla - zipa  
 summa - sume  
-sunnuntai - var 7 (var sem)  
 suo (räme) - potistan  
 suodattaa - filter  
 suojella (suojata, turvata) - sekura  
@@ -2419,7 +2419,7 @@ tietysti (selvästi) - klaro
 tietää (tuntea) - jana  
 Tiibet - podia  
 tiikeri - bagre  
-tiistai - var 2 (var dul)  
+tiisai - var 2 (var duli)  
 tikari - kanjare  
 tikka masala - masali tike  
 tila (tilanne, seikka) - hale  
@@ -2450,7 +2450,7 @@ tonni (##0 kg) - megograme
 tontti (maakaistale) - zemotike  
 tori (basaari) - bazare  
 torni - minare  
-torstai - var 4 (var car)  
+torstai - var 4 (var cari)  
 torvi (torvisoitin) - buge  
 tosi (aito) - veri  
 toukka - larve  
@@ -2484,7 +2484,7 @@ tuo (nuo) - wi
 tuo - we  
 tuoli - kurse  
 tuomari - hakimer  
-tuomio - hakimer  
+tuomio - hakime  
 tuomita - hakima  
 tuore (raikas) - tazi  
 tuotanto - cania  
@@ -2518,7 +2518,7 @@ typpi - nitre
 tyranni - tirane  
 tyrannia - tirania  
 tyttö (nuori neito) - jovani fem  
-tyttölapsi - femi bace  
+tyttölapsi - femi pute  
 Tyyni valtameri - paci samude  
 tyyny - kuxene  
 tyyrpuuri - botoraite  

@@ -151,7 +151,7 @@ bire - bière
 biyocaniver - compost  
 biyomutu - fermenter  
 biyosisteme - biome  
-bol (bole) - ball  
+bol (bole) - balle (boule)  
 bombe - bombe  
 bon (boni) - bon  
 bote - bateau  
@@ -345,7 +345,7 @@ karde - carte
 karimi - généreux  
 karimia - générosité (charité)  
 karolekse - verbe  
-karomisa - soumettre   
+karomisa - soumettre  
 karsi - rêche (rugueux, gros)  
 karte - carte  
 kartografia - cartographie  
@@ -456,7 +456,7 @@ marmare - marbre
 masale - épices  
 maske - masque  
 maste - mât  
-maturoren - adulte  
+mature - adulte  
 maw (mawe) - chat  
 max (maxo) - plus  
 maxime - maximum  
@@ -702,6 +702,13 @@ urse - ours
 vagine - vagine  
 vaginitis - vaginite  
 vampire - vampire  
+var 1 (var uni) - lundi  
+var 2 (var duli) - mardi  
+var 3 (var tini) - mercredi  
+var 4 (var cari) - jeudi  
+var 5 (var limi) - vendredi  
+var 6 (var sisi) - samedi  
+var 7 (var seti) - dimanche  
 vaze - vase  
 vejetoniamiste - végétarien  
 venda - vendre  

@@ -101,7 +101,7 @@ biyi jinse - биологический пол
 biyocaniver - компост  
 biyomutu - заквасить  
 biyosisteme - биом  
-bol (bole) - bola  
+bol (bole) - шар  
 bombe - бомба  
 bon (boni) - хороший  
 bonosinyi - благоприятный  
@@ -403,7 +403,7 @@ marmare - мрамор
 masale - пряность  
 maske - маска  
 maste - мачта  
-maturoren - взрослый  
+mature - взрослый  
 maw (mawe) - кошка  
 maxime - максимум  
 maxoforte - пополнение  
@@ -637,6 +637,13 @@ ura - ура
 vagine - влагалище (вагина)  
 vaginitis - вагинит  
 vampire - вампир (упырь)  
+var 1 (var uni) - понедельник  
+var 2 (var duli) - вторник  
+var 3 (var tini) - среда  
+var 4 (var cari) - четверг  
+var 5 (var limi) - пятница  
+var 6 (var sisi) - суббота  
+var 7 (var seti) - воскресенье  
 vaze - ваза  
 vejetoniamiste - вегетарианец  
 venda - продать  

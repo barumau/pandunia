@@ -353,7 +353,7 @@ cześć, szacunek - puje
 cztery (4) - cari  
 czuć - senta  
 czuć, odczuć, odczuwać - emosa  
-czwartek - var 4 (var car)  
+czwartek - var 4 (var cari)  
 czyn, uczynek - fate  
 czynić (uczynić, wykonywać, wykonać) - kara  
 czysty (higieniczny, sanitarny) - hijeni  
@@ -366,7 +366,7 @@ część (fragment, strzęp, kawałek, okruch) - parce
 część, ułamek - fene  
 członek - member  
 człowiek, istota ludzka - insan (insane)  
-córka - femi bace  
+córka - femi pute  
 ##d
 dach - cate  
 daktyl - tamare  
@@ -844,13 +844,13 @@ Joruba - yorubi
 judaizm - yehudistia  
 judo - judaw  
 Jupiter - muxing  
-jutro - badi den  
+jutro - badoden  
 już (skończona czynność) - lewo  
 język - lisane  
 język ojczysty (język rodzimy) - jeni baxe  
-język surinamski - surinami bax  
+język surinamski - surinami baxe  
 język sztuczny - canobaxe  
-język świata, język ogólnoświatowy - dunia bax  
+język świata, język ogólnoświatowy - dunia baxe  
 język; komunikacja - baxe  
 językoznastwo - baxolojia  
 ##k
@@ -1428,7 +1428,6 @@ niebieski - nili
 niebieski, niebiański, podniebny - samani  
 niebo - samane  
 niech my, hajda - haida  
-niedziela - var 7 (var sem)  
 niedźwiedź - urse  
 Niemcy - doicia  
 niemiecki - doici  
@@ -1565,10 +1564,10 @@ osioł - gade
 osm - osmium  
 osmoza - osme  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - maturoren  
+osoba dorosła - mature  
 osoba mówiąca w Panduni - panduniste  
 osoba; ludzie - ren (rene)  
-osobisty, intymny, prywatny - tani  
+osobisty, intymny, prywatny - auti  
 ostatni, końcowy - fini  
 oszacować, szacować, przybliżyć, przybliżać - yaga  
 oszczędzać (deponować) - banka  
@@ -1695,7 +1694,7 @@ pizza - pize
 pizzeria - pizeria  
 pióro - pere  
 pióro, długopis - kalame  
-piątek - var 5 (var lim)  
+piątek - var 5 (var limi)  
 pięciokąt (pentagon) - limogone  
 pięciościan (pryzmat) - limofase  
 piękno - sundaria  
@@ -1777,7 +1776,7 @@ pomoc, wsparcie - helpe
 pomodlić się, modlić się - duwa  
 pompować - pompa  
 pomóc, pomagać, asystować - helpa  
-poniedziałek - var 1 (var un)  
+poniedziałek - var 1 (var uni)  
 ponieważ, bo - sa sabu  
 poniższy - nici  
 popełnić błąd - galta  
@@ -2214,7 +2213,7 @@ smakować, próbować smaku - gusta
 smieszany (skonfudowany) - konfusi  
 smok - lunge  
 smutny - duki  
-sobota - var 6 (var sis)  
+sobota - var 6 (var sisi)  
 socjalista - sociste  
 socjalizm - socistia  
 socjalizować się - soca  
@@ -2305,7 +2304,7 @@ sushi - suxe
 suszyć (wysuszyć) - gana  
 Swalbard - sualbardia  
 Syberia - sibiria  
-syn - mani bace  
+syn - mani pute  
 sypialnia - sonokamare  
 Syria - suria  
 syrop - xirope  
@@ -2528,7 +2527,7 @@ ukrzyżować - krusofiksa
 ukształtować, kształtować, urzeźbić, rzeźbić - forma  
 układ słoneczny - solosisteme  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medika  
-ulubiony  - favori  
+ulubiony - favori  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - jangi  
 umiejętny (wprawny) - xuti  
@@ -2536,7 +2535,7 @@ umieścić (postawić) - loka
 umrzeć, umierać - mortu  
 umysłowy (psychiczny) - ruhi  
 unia - unisia  
-Unia Europejska (EU) - europi unia  
+Unia Europejska (EU) - europi unisia  
 uniwersytet - dayodarsia  
 uprawiać jogę - yoga  
 uprawić, uprawiać - nonga  
@@ -2709,7 +2708,7 @@ wstrzyknąć, wstrzykiwać - juxa
 wstyd (hańba, kompromitacja) - xarme  
 wszyscy, wszystkie, wszystko; każdy - pan (pani)  
 wszystko - pan xey  
-wtorek - var 2 (var dul)  
+wtorek - var 2 (var duli)  
 wy, was - tote  
 wybrać, wybierać, selekcjonować - cuza  
 wybrzeże (brzeg, krawędź) - tate  
@@ -2734,7 +2733,7 @@ wynająć, oddać w najem - kirisa
 wynająć, wynajmować, zatrudnić, zatrudniać - kire  
 wyobrazić, wyobrażać, fantazjować - fantaza  
 wypełnić, wypełniać - pura  
-wyrok - hakimer  
+wyrok - hakime  
 wyrzucać (wyrzucić, wydalać, wydalić) - waya  
 wyrzutek - paraye  
 wyrzutnia rakietowa - roketolancer  
@@ -2961,7 +2960,7 @@ zły, zrujnowany, zepsuty - harabi
 śnieg - hime  
 śpiewać - canta  
 średni - medi  
-środa - var 3 (var tin)  
+środa - var 3 (var tini)  
 środek - mede  
 środkowy, centralny - junge  
 środowiskowy, naturalny - eki  

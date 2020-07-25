@@ -145,6 +145,7 @@ atome - atom
 auda - usłyszeć, słyszeć; słuchać  
 aure - złoto  
 australia - Australia  
+auti - osobisty, intymny, prywatny  
 automoti - samobieżny  
 autonomi - autonomiczny  
 autonomia - autonomia  
@@ -169,8 +170,8 @@ badani - cielesny
 badawi - beduiński; nomadyczny  
 bade - konsekwencja, skutek  
 badi - następny (następujący)  
-badi den - jutro  
 bado - później  
+badoden - jutro  
 badofikse - przyrostek (sufiks)  
 bagaje - bagaż  
 bagre - tygrys  
@@ -554,7 +555,7 @@ dumane - dym
 dume - ogon  
 duni - globalny  
 dunia - świat  
-dunia bax - język świata, język ogólnoświatowy  
+dunia baxe - język świata, język ogólnoświatowy  
 dura - trwać, zająć czas; przez  
 dure - trwanie  
 duru - minąć, mijać (czas)  
@@ -627,7 +628,7 @@ eureka - znaleźć, znajdywać, odkryć, odkrywać
 europe - Europa  
 europese - euro (€)  
 europi - europejski  
-europi unia - Unia Europejska (EU)  
+europi unisia - Unia Europejska (EU)  
 europium - europ  
 ewanjile - ewangelia  
 ewi - korzystny (dobry)  
@@ -655,7 +656,7 @@ fate - czyn, uczynek
 fater - twórca, kreator, czynnik  
 fateria - fabryka, manufaktura  
 favora - preferować (woleć)  
-favori - ulubiony   
+favori - ulubiony  
 faxe - bandaż, taśma, wstążka  
 faxiste - faszysta  
 faxistia - faszyzm  
@@ -664,7 +665,7 @@ faxoni - popularny, modny
 faze - etap, faza  
 febre - gorączka  
 fem (feme) - kobieta; kobiecy  
-femi bace - córka  
+femi pute - córka  
 femi rajer - królowa  
 femiste - feminista (feministka)  
 femistia - feminizm  
@@ -886,8 +887,8 @@ haime - namiot
 haitia - Haiti  
 hake - prawo, przywilej  
 hakima - sądzić (osądzić)  
+hakime - wyrok  
 hakimer - sędzia  
-hakimer - wyrok  
 halala - pozwolić, pozwalać, zezwolić, zezwalać  
 halali - dozwolony (dopuszczalny, zezwolony, halal)  
 hale - stan  
@@ -1596,7 +1597,7 @@ mangese - magnez
 mangete - magnes  
 mangeti - magnetyczny  
 manguse - mangostan  
-mani bace - syn  
+mani pute - syn  
 mani rajer - król  
 manihaye - prorok Mani  
 manihayistia - manicheizm  
@@ -1631,10 +1632,10 @@ mati - materialny
 matike - matematyka  
 matiker - matematyk  
 matrase - materac  
+mature - osoba dorosła  
 maturi - dorosły, dojrzały  
 maturi fem - kobieta, dorosła samica  
 maturi man - mężczyzna, dorosły samiec  
-maturoren - osoba dorosła  
 maw (mawe) - kot  
 max (maxo) - bardziej  
 max ko bas - zbyt  
@@ -2564,7 +2565,7 @@ supre - wiadukt, przejście powyżej
 supri - górny  
 suprize - zaskoczenie  
 suria - Syria  
-surinami bax - język surinamski  
+surinami baxe - język surinamski  
 surinamia - Surinam  
 susane - lilia  
 suta - szyć  
@@ -2596,7 +2597,6 @@ tamare - daktyl
 tami - chciwy (żądny)  
 tamili - tamilski  
 tanah - Tanach, Biblia hebrajska  
-tani - osobisty, intymny, prywatny  
 tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantalum - tantal  
 tanure - piec (piekarnik)  
@@ -2759,13 +2759,12 @@ vanadium - wanad
 vanile - wanilia  
 vanuatia - Vanuatu  
 var (vare) - dzień tygodnia  
-var 1 (var un) - poniedziałek  
-var 2 (var dul) - wtorek  
-var 3 (var tin) - środa  
-var 4 (var car) - czwartek  
-var 5 (var lim) - piątek  
-var 6 (var sis) - sobota  
-var 7 (var sem) - niedziela  
+var 1 (var uni) - poniedziałek  
+var 2 (var duli) - wtorek  
+var 3 (var tini) - środa  
+var 4 (var cari) - czwartek  
+var 5 (var limi) - piątek  
+var 6 (var sisi) - sobota  
 vatikania - Watykan, Państwo Watykańskie  
 vaze - waza, garnek, pojemnik, słoik, dzban  
 vejete - warzywo  

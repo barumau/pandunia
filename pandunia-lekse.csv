@@ -501,7 +501,7 @@ darser||||student (pupil, learner)||estudiante|||||||||||||studento (lernanto)|o
 darsia||||school (institution)||escuela (colegio, institución)|||||||||||||lernejo|koulu (opisto)|szkoła (instytucja)
 darsogure||||teacher||maestro (profesor)|||||||||||||instruisto|opettaja|nauczyciel
 darsoxefe||||headmaster (principal)||director de colegio||||||||||||||rehtori|dyrektor szkoły
-darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất|soil (dirt)||tierra (barro)|||||土|||||||||maa (multa)|grunt (ziemia, próchnica)
+darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|soil (dirt)||tierra (barro)|||||土|||||||||maa (multa)|grunt (ziemia, próchnica)
 darti||||soily (dirty)||sucio|||||||||||||||ziemny (glebowy, gruntowy)
 darwiniste||||Darwinist||darwinista||||||||||||||darwinisti|darwinista
 darwinistia||||Darwinism||darwinismo||||||||||||||darwinismi|darwinizm
@@ -3074,13 +3074,13 @@ vanadium|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
 vanile||||vanilla||vainilla||||||||||||||vanilja|wanilia
 vanuatia|dex|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
 var (vare)||||day of the week||día de la semana|||||曜日|||||||||viikonpäivä|dzień tygodnia
-var 1 (var uni)||||Monday||lunes|||||月曜日|||||||||maanantai|poniedziałek
-var 2 (var duli)||||Tuesday||martes|||||火曜日|||||||||tiistai|wtorek
-var 3 (var tini)||||Wednesday||miércoles|||||水曜日|||||||||keskiviikko|środa
-var 4 (var cari)||||Thursday||jueves|||||木曜日|||||||||torstai|czwartek
-var 5 (var limi)||||Friday||viernes|||||金曜日|||||||||perjantai|piątek
-var 6 (var sisi)||||Saturday||sabado|||||土曜日|||||||||lauantai|sobota
-var 7 (var seti)||||Sunday||domingo|||||日曜日|||||||||sunnuntai|niedziela
+var 1 (var uni)||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
+var 2 (var duli)||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiisai|wtorek
+var 3 (var tini)||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
+var 4 (var cari)||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
+var 5 (var limi)||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
+var 6 (var sisi)||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
+var 7 (var seti)||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela
 vatikania|dex|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
 vejete||||vegetable||vegetal||||蔬菜|||||||||legomo|kasvis|warzywo

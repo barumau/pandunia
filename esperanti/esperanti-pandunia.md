@@ -282,6 +282,7 @@ deziro - kamia
 dia - dewi  
 diablo (Satano) - xatan (xatane)  
 diamanto - almase  
+dimanĉosunnuntai - var 7 (var seti)  
 dio - dew (dewe)  
 disigi - jamula  
 disko - diske  
@@ -367,7 +368,7 @@ eĥo - mirosonde
 Eŭrazio - eurasia  
 eŭro - europese  
 Eŭropa - europi  
-Eŭropa Unio (EU) - europi unia  
+Eŭropa Unio (EU) - europi unisia  
 eŭropio - europium  
 Eŭropo - europe  
 ##f
@@ -402,7 +403,7 @@ feĉo - hamire
 figuro - figure  
 fiki - coda  
 fiksi - fiksa  
-filino - femi bace  
+filino - femi pute  
 Filipinoj - filipinia  
 filmo - filme  
 filozofia - filosofi  
@@ -636,7 +637,7 @@ jupo - jupe
 justa - adali  
 justeco - adalia  
 juĝisto - hakimer  
-juĝo - hakimer  
+juĝo - hakime  
 ##k
 kadmio - kadomium  
 kafejo - kaferia  
@@ -855,6 +856,7 @@ ludo - geme
 luma - foti  
 lumo - fote  
 luno - lune  
+luno - var 1 (var uni)  
 lupo - wolfe  
 lutecio - lutetium  
 ##m
@@ -904,6 +906,7 @@ manĝi (trinki) - niama
 manĝoĉambro - niamokamare  
 mara - samudi  
 maratono - maratone  
+mardo - var 2 (var duli)  
 margarino - margarine  
 marmoro - marmare  
 maro - samude  
@@ -929,6 +932,7 @@ memoro - meme
 merdo - xite  
 merkato (bazaro) - bazare  
 Merkuro - budan  
+merredo - var 3 (var tini)  
 mesaĝo - anjile  
 metalo - metale  
 metiero - pexe  
@@ -962,7 +966,7 @@ mola - komali
 molibdeno - molidenum  
 molusko - moluske  
 monato - mes (mese)  
-mondlingvo - dunia bax  
+mondlingvo - dunia baxe  
 mondo - dunia  
 monero - pesodiske  
 mongola - mongoli  
@@ -973,7 +977,7 @@ monstro - monster
 monto - xane  
 montri (ekspozicii) - xowe  
 montri - ponta  
-morgaŭ - badi den  
+morgaŭ - badoden  
 morta - morti  
 mortigi - morta  
 mortigisto - morter  
@@ -1144,7 +1148,7 @@ plantscienco (botaniko) - fitolojia
 plateno - platinum  
 plej - maxim (maximo)  
 plena - puri  
-plenaĝa - maturoren  
+plenaĝa - mature  
 plene - puro  
 plenigi - pura  
 pli - max (maxo)  
@@ -1284,6 +1288,7 @@ ruterfordio - ruterfordium
 rutino (kutimo) - rutine  
 ruĝa - kirmi  
 ##s
+sabato - var 6 (var sisi)  
 sablo - rege  
 safrano - safrane  
 saga - sofia  
@@ -1508,6 +1513,7 @@ varma - garmi
 vato - wate  
 vazo (florpoto) - fulovaze  
 vazo - vaze  
+vendredo - var 5 (var limi)  
 veni - laya  
 venki - wina  
 venko - wine  
@@ -1622,6 +1628,7 @@ zuluo - zuli
 ĝusta (prava) - sahi  
 ĝuste (ekzakte) - justo  
 ĥemio (kemio) - kimia  
+ĵaŭdo - var 4 (var cari)  
 ĵeti (lanĉi) - lanca  
 ĵetkubo - dade  
 ĵudo - judaw  

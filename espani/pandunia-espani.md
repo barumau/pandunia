@@ -150,6 +150,7 @@ auda - oír (escuchar)
 aure - oro  
 australia - Australia  
 aute - mismo (yo)  
+auti - personal (privado)  
 automoti - automotor (automotriz)  
 autonomi - autónomo  
 autonomia - autonomía  
@@ -175,8 +176,8 @@ badani - corporal (corpóreo)
 badawi - nómada  
 bade - consecuencia (siguiente)  
 badi - siguiente (trasero)  
-badi den - mañana  
 bado - más tarde  
+badoden - mañana  
 badofikse - sufijo  
 bagaje - equipaje  
 bagre - tigre  
@@ -309,7 +310,7 @@ blableria - sala de chat (tertuliadero)
 bloge - blog  
 boikote - boicot  
 boke - boca  
-bol (bole) - balle (boule)  
+bol (bole) - bola  
 bolgaria - Bulgaria  
 bolivia - Bolivia  
 bombe - bomba  
@@ -597,7 +598,7 @@ dumane - humo
 dume - cola (rabo)  
 duni - global (mundial)  
 dunia - mundo  
-dunia bax - lengua mundial  
+dunia baxe - lengua mundial  
 dura - durar (durante, llevar tiempo)  
 dure - duración  
 duru - pasar (transcurrir)  
@@ -678,7 +679,7 @@ eureka - econtrar (hallar)
 europe - Europa  
 europese - euro  
 europi - europeo  
-europi unia - Unión Europea  
+europi unisia - Unión Europea  
 europium - europio  
 ewanjile - evangelio  
 ewi - beneficioso (bueno)  
@@ -720,7 +721,7 @@ faxoni - moda (moderno, popular)
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
 fem (feme) - mujer (hembra)  
-femi bace - hija  
+femi pute - hija  
 femi rajer - reina  
 femiste - feministe  
 femistia - feminismo  
@@ -961,7 +962,7 @@ haime - carpa (toldo)
 haitia - Haití  
 hake - derecho  
 hakima - juzgar (considerar)  
-hakimer - fallo (juicio, criterio)  
+hakime - fallo (juicio, criterio)  
 hakimer - juez (árbitro, réferi)  
 halala - permitir (dejar)  
 halali - permitido (admisible)  
@@ -1525,7 +1526,8 @@ lada - cargar
 lage - lago  
 laje - basura (desechos)  
 lake - laca  
-lala - acostarse (echarse, tenderse, tumbarse)  
+lala - acostar (poner)  
+lalu - acostarse (echarse, tenderse, tumbarse)  
 lampe - lámpara  
 lana - maldecir  
 lanca - tirar (lanzar, echar, arrojar, aventar)  
@@ -1717,7 +1719,7 @@ mangese - magnesio
 mangete - imán  
 mangeti - magnético  
 manguse - mangostán (jobo de la India)  
-mani bace - hijo  
+mani pute - hijo  
 mani rajer - rey  
 manihaye - profeta Mani  
 manihayistia - maniqueísmo  
@@ -1753,10 +1755,10 @@ mati - material
 matike - matemática  
 matiker - matemático  
 matrase - colchón  
+mature - adulto  
 maturi - maduro (adulto, curado)  
 maturi fem - mujer (señora)  
 maturi man - hombre (señor)  
-maturoren - adulto  
 maw (mawe) - gato  
 max (maxo) - mas  
 max ko bas - demasiado  
@@ -2756,7 +2758,7 @@ supre - paso elevado
 supri - superior (más alto)  
 suprize - sorpresa  
 suria - Siria  
-surinami bax - sranan tongo  
+surinami baxe - sranan tongo  
 surinamia - Surinam  
 susane - lirio  
 suta - coser  
@@ -2790,7 +2792,6 @@ tamare - dátil
 tami - codicioso (avaro)  
 tamili - tamil  
 tanah - Tanaj (Biblia hebrea)  
-tani - personal (privado)  
 tanke - tanque (cisterna)  
 tantalum - tántalo  
 tanure - horno  
@@ -2964,13 +2965,13 @@ vanadium - vanadio
 vanile - vainilla  
 vanuatia - Vanuatu  
 var (vare) - día de la semana  
-var 1 (var un) - lunes  
-var 2 (var dul) - martes  
-var 3 (var tin) - miércoles  
-var 4 (var car) - jueves  
-var 5 (var lim) - viernes  
-var 6 (var sis) - sabado  
-var 7 (var sem) - domingo  
+var 1 (var uni) - lunes  
+var 2 (var duli) - martes  
+var 3 (var tini) - miércoles  
+var 4 (var cari) - jueves  
+var 5 (var limi) - viernes  
+var 6 (var sisi) - sábado  
+var 7 (var seti) - domingo  
 vatikania - Santa Sede (Estado de la Ciudad del Vaticano)  
 vaze - jarrón (bote)  
 vejete - vegetal  
