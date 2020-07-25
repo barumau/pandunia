@@ -45,6 +45,23 @@ The alphabet of Pandunia uses logically only the small Basic Latin letters.
 
 
 
+## Pronunciation
+
+The sounds in Esperanto and the rules that govern how they go together are
+primarily based on Polish, with additional influence from other European
+languages like English and German, with little regard for how easy they
+are to pronounce internationally. This gives rise to consonant clusters that
+are difficult to pronounce for most people, especially at the beginnings
+of words, such as "kn" as in "knabo", "kv" as in "kvar", "mn" as in
+"mnemonika", "ŝr" as in "ŝranko", and "sc" as in "scii".
+
+Pandunia's word structure is designed to balance keeping international words
+recognizable and making them easy to pronounce for as many people as possible.
+Thus, the only consonant cluster permitted at the beginning of a word is a
+stop or fricative plus a liquid, such as "kr" as in "kristal".
+
+
+
 ## Eurocentrism
 
 ### Eurocentric grammar
@@ -90,11 +107,10 @@ language. Many learners stumble with articles and "difficult" personal
 pronouns. The world language should be free of such unnecessary features
 and rules.
 
-Pandunia has only feature number 1: _Word class is defined by suffixes._
-It is also a main feature of Esperanto. But otherwise Pandunia diverges
-greatly from Esperanto in particular and from Standard Average European
-grammar in general. So grammar-wise Pandunia is not Eurocentric like
-Esperanto.
+Pandunia has only features 1 and 11. These are also main features of
+Esperanto. But otherwise Pandunia diverges greatly from Esperanto in
+particular and from Standard Average European grammar in general. So
+grammar-wise Pandunia is not Eurocentric like Esperanto.
 
 
 ### Western or global vocabulary?
@@ -120,47 +136,8 @@ global.
 
 Simple word class marking with final vowels is an ingenious idea and
 it fits well with the Indo-European root-and-suffix word pattern. But
-what about words that don't use this pattern?
-
-### Importing nouns to Esperanto
-
-In Esperanto nouns end in -o. There are three methods how the ending
-is added:
-
-1. Add the ending to root that already ends in a consonant. Ex. birdo
-   (bird), boato (boat), roko (rock), supo (soup), problemo (problem).
-2. Add the ending and keep the final vowel as part of the root. Ex.
-   sufleo (soufflé), kopio (copy), heroo (hero), ŝampuo (shampoo).
-3. Replace the original final vowel with -o. Ex. sofo (sofa), ĉimpanzo
-   (chimpanzee), zebro (zebra).
-
-Most people think that method 1 produces words that sound natural, but
-methods 2 and 3 produce words that sound unnatural.
-
-This issue becomes a real problem when names are imported to Esperanto.
-Is it possible to transfer similar names like Mary, Maria and Mario to
-Esperanto so that they remain distinct? It seems like no. Normally Mary
-and Maria are written "Maria" in Esperanto – though -a is officially an
-adjective ending!
-
-### Importing nouns to Pandunia
-
-In Pandunia nouns end in -e or they don't have any ending at all. In
-general -e is used after roots that are difficult to pronounce without
-it.
-
-1. Add no ending to roots that are universally easy to pronounce.
-   Ex. problem (problem).
-2. Add ending -e to roots that end in more difficult consonants.
-   Ex. bote (boat), supe (soup), sufle (soufflé).
-3. Add apostrophe to the end of roots that end in an inseparable 
-   vowel. Ex. hero' (hero), xampu' (shampoo), and sofa' (sofa).
-   The apostrophe moves the stress accent to the last vowel, like a
-   regular consonant, so the difference is present both in written
-   and in spoken language.
-
-With this solution all kinds of words can be imported to Pandunia
-without changing or deleting any important letters.
+the way different word classes relate to each other can be confusing
+if not handled carefully.
 
 
 ### Esperanto roots have inherent word class

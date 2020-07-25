@@ -74,7 +74,7 @@ amari||||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique
 ame|||fra:amour, spa:por:amor|love (liking, affection)|amour (affection)||||||||||||||amo|rakkaus (tykkääminen)|miłość (afekt)
 amena||||assure (affirm)||asegurar (confirmar)|||||||||||||certigi|varmistaa|zapewniać (zapewnić)
 ameni||||certain (sure)||seguro|||||||||||||certa|varma|
-ameno|||ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|certainly (surely,amen)|sûrement|seguramente (amén)|||||||||||||certe|varmasti (totisesti, aamen)|
+ameno|||ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|certainly (surely, amen)|sûrement|seguramente (amén)|||||||||||||certe|varmasti (totisesti, aamen)|
 amerike||||America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
 ameriki||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 amerikium|mate|Am||americium||americio|||||||||||||americio|amerikium|ameryk
@@ -156,6 +156,7 @@ auda||||hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuu
 aure|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
 australia|dex|AU||Australia||Australia|||||||||||||Aŭstralio|Australia|Australia
 aute||||self (identity)||mismo (yo)|||||自己||||||||||
+auti||||personal (intimate, private)||personal (privado)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 automoti||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
 autonomi||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
 autonomia||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
@@ -180,8 +181,8 @@ badani||||bodily (corporal)||corporal (corpóreo)|||||||||||||korpa|ruumiillinen
 badawi||||bedouin (nomadic)||nómada|||||||||||||beduino (nomado)|beduiini|beduiński; nomadyczny
 bade||||consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
 badi||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
-badi den||||tomorrow||mañana|||||||||||||morgaŭ|huominen|jutro
 bado||||later (after)||más tarde|||||||||||||||później
+badoden||||tomorrow||mañana|||||明日||||||||morgaŭ|huominen|jutro
 badofikse||||suffix||sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
 bagaje||||luggage (baggage)|bagage|equipaje|bagagem|багаж||行李||||सामान||bagaj||bagasi (kopor)|pakaĵo|matkatavarat|bagaż
 bagre|||hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:тигр (tigr)|tiger|tigre|tigre|tigre|тигр||虎||||बाघ||harimau||kaplan|tigro|tiikeri|tygrys
@@ -317,7 +318,7 @@ blableria||||chat room||sala de chat (tertuliadero)|||||||||||||babilejo|keskust
 bloge||||blog (web log)||blog||||||||||||||blogi (nettikolumni)|blog
 boikote||||boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
 boke|||spa:por:boca|mouth||boca|||||||||||||buŝo|suu|usta
-bol (bole)|||eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|ball|ball|balle (boule)||bola|шар|كورة|球|玉 (球)|||गोला||bola|mpira|pilko|pallo|piłka
+bol (bole)|||eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule,balle|ball|balle (boule)|bola|bola|шар|كورة|球|玉 (球)||||गोला||bola|mpira|pilko|pallo|piłka
 bolgaria|dex|BG||Bulgaria||Bulgaria|||||||||||||Bulgario|Bulgaria|Bułgaria
 bolivia||||Bolivia||Bolivia|||||||||||||Bolivio|Bolivia|Boliwia
 bombe|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|bomb|bombe|bomba|bomba|бомба||炸弹||||बम||bom||bomba|bombo|pommi|bomba
@@ -374,7 +375,7 @@ burge|||deu:Burg, egy:(burg), ara:urd:(burj), hin:बुर्ज (burj), may:pu
 burkinia|dex|BF||Burkina Faso||Burkina Faso||||||||||||||Burkina Faso|Burkina Faso
 bus (buse)|||deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)|bus||bus (autobús)|||||||||||||buso|linja-auto (bussi)|autobus, autokar
 buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|bust (bosom)||pecho (busto)||||||||||||||povi|biust
-bute|||eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, far: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot|botte|bota|bota|ботинок|||ブーツ||||||||||
+bute|||eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot|botte|bota|bota|ботинок|||ブーツ||||||||||
 butone|||eng:button, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|key (push-button, switch)||tecla (botón)|||||||||||||klavo|nappi (näppäin, kytkin, nappula)|klawisz, przycisk, przełącznik
 butonobanze||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
 buye|||swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|baobab||baobab|||||||||||||baobabo|apinanleipäpuu (baobab)|baobab
@@ -474,7 +475,7 @@ damaje|||eng:damage, fra:dommage|damage (injury, harm)|dommage|daño||||||||||||
 damaji||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen|krzywdzący (szkodliwy)
 damogeme|||fra:jeu de dames, ara:(dāmā), may:dam, spa:por:damas, deu:Damespiel|checkers (draughts)||damas||||||||||||||tammipeli|warcaby
 dane|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
-danga|||eng:dong, por:dlim-dlão, spa:tilín, cmn:叮 (dīng), jpn:がんがん (gangan), tha:กระดิ่ง (grà-dìng)|ring (toll, clang)||||звенеть|||||||||||||
+danga|||eng:dong, por:dlim-dlão, spa:tilín, zho:叮 (dīng), jpn:がんがん (gangan), tha:กระดิ่ง (grà-dìng)|ring (toll, clang)||||звенеть|||||||||||||
 danger||||bell|cloche|campana (cencerro)|sino (campainha)|звонок||钟 (摇铃)|鐘 (鈴)||||||||||
 dania|dex|DK||Denmark||Dinamarca|||||||||||||Danio|Tanska|Dania
 danka||||thank||agradecer|||||||||||||danki|kiittää|dziękować
@@ -618,7 +619,7 @@ dumane|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), be
 dume||||tail||cola (rabo)|||||||||||||vosto|häntä|ogon
 duni||||global||global (mundial)|||||||||||||tera|maailman-|globalny
 dunia|||may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), urd:(duniyā), hau:duniya, fas:(donya)|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
-dunia bax||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
+dunia baxe||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
 dura|coverb|||last (take time, during)||durar (durante, llevar tiempo)|||||||||||||daŭri (dum)|kestää (viedä aikaa)|trwać, zająć czas; przez
 dure|||eng:duration, fra:durée, spa:por:durar, deu:dauer|duration||duración|||||||||||||daŭro|kesto (kestoaika)|trwanie
 duru||||pass (of time)||pasar (transcurrir)||||||||||||||kulua (ajasta)|minąć, mijać (czas)
@@ -701,7 +702,7 @@ eureka||||find (discover)||econtrar (hallar)|||||||||||||trovi|löytää (keksi�
 europe||||Europe|Europe|Europa|||||||||||||Eŭropo|Eurooppa|Europa
 europese||||euro (€)||euro|||||||||||||eŭro|euro (€)|euro (€)
 europi||||European|européen|europeo|||||||||||||Eŭropa|eurooppalainen|europejski
-europi unia||||European Union (EU)||Unión Europea|||||||||||||Eŭropa Unio (EU)|Euroopan unioni|Unia Europejska (EU)
+europi unisia||||European Union (EU)||Unión Europea|||||||||||||Eŭropa Unio (EU)|Euroopan unioni|Unia Europejska (EU)
 europium|mate|Eu||europium||europio|||||||||||||eŭropio|europium|europ
 ewanjile||||gospel (divine message)|évangile|evangelio|evangelho|евангелие||福音||||सुसमाचार||injil||incil|evangelio|evankeliumi(hyvä sana)|ewangelia
 ewi|||eng:fra:spa:por:eu-|beneficial (good)||beneficioso (bueno)||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
@@ -736,7 +737,7 @@ fateria||||factory||fábrica|||||||||||||fabriko|tehdas|fabryka, manufaktura
 fatigia|||eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|fatigue (weariness)|fatigue|fatiga|fadiga|усталость|||疲労||||||||||
 fatigu||||tire (wear)||cansarse (fatigar)||устать||疲劳|疲れる (疲労する)||||||||||
 favora||||prefer||preferir (favorecer)|||||||||||||||preferować (woleć)
-favori||||favorite (preferred)|favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||好き (お気に入りの)|||||kegemaran||||suosikki (suosittu)|ulubiony 
+favori||||favorite (preferred)|favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||好き (お気に入りの)|||||kegemaran||||suosikki (suosittu)|ulubiony
 faxe|||ita:fascia, por:faixa, spa:faja|bandage (strip, ribbon)||tira (faja, vendaje, cinta)||||||||||||||side (remmi)|bandaż, taśma, wstążka
 faxiste||||fascist||fascista|||||||||||||faŝisto|fasisti|faszysta
 faxistia||||fascism||fascismo|||||||||||||faŝismo|fasismi|faszyzm
@@ -745,7 +746,7 @@ faxoni||||popular (trendy)||moda (moderno, popular)||||||||||||||suosittu (trend
 faze|||spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|stage (phase)||etapa (fase)||||||||||||||vaihe (etappi)|etap, faza
 febre|||por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|fiever||fiebrie (calentura)|||||||||||||febro|kuume|gorączka
 fem (feme)|||fra:femme, por:fêmea, eng:female|female||mujer (hembra)||||女|女||||||||ino|naaras|kobieta; kobiecy
-femi bace||||daughter||hija|||||||||||||filino|tyttölapsi|córka
+femi pute||||daughter||hija|||||||||||||filino|tyttölapsi|córka
 femi rajer||||queen||reina|||||女王|||||||||kuningatar|królowa
 femiste||||feminist||feministe|||||||||||||||feminista (feministka)
 femistia||||feminism||feminismo|||||||||||||||feminizm
@@ -868,7 +869,7 @@ galto buda||||misunderstand||malinterpretar||||||||ग़लत समझना|
 gambia|dex|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamele||||camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gana||||dry out||secar||||||||||||||kuivata (kuivattaa)|suszyć (wysuszyć)
-gance|||spa:por:gancho, ita:gancio, may:gancu, ell:γάντζος (gántsos), tur:kanca, cmn:钩子 (gōuzi), kar:კაუჭი (ḳauč̣i)|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк||钩|掛 (針, 鉤)||||||||||
+gance|||spa:por:gancho, ita:gancio, may:gancu, ell:γάντζος (gántsos), tur:kanca, zho:钩子 (gōuzi), kar:კაუჭი (ḳauč̣i)|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк||钩|掛 (針, 鉤)||||||||||
 gandia|dex|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
 gandume|||may:gandum, fas:گندم‎(gandom), urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|wheat|blé|trigo|trigo|пшеница|قمح‎|麦|小麦|밀|lúa mì|गेहूँ|গম|gandum|ngano|buğday|tritiko|vehnä|pszenica
 ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
@@ -992,7 +993,7 @@ haime|||ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah
 haitia|dex|HT||Haiti||Haití|||||||||||||Haitio|Haiti|Haiti
 hake|||ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|right (entitlement)|droit|derecho|direito|||权利|権利|권리||अधिकार (हक़)|অধিকার||||rajto|oikeus (oikeutus)|prawo, przywilej
 hakima||||judge||juzgar (considerar)||||||||||||||tuomita|sądzić (osądzić)
-hakimer||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
+hakime||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 hakimer||||judge (referee)||juez (árbitro, réferi)|||||||||||||juĝisto|tuomari|sędzia
 halala||||allow (permit)||permitir (dejar)||||||||||||||sallia (antaa lupa)|pozwolić, pozwalać, zezwolić, zezwalać
 halali|||ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|permissible (allowed, halal)||permitido (admisible)||||||||||||||sallittu (hyväksytty)|dozwolony (dopuszczalny, zezwolony, halal)
@@ -1337,7 +1338,7 @@ karivuli||||off (deactivated, disabled)|||||||||||||||||
 karnadi|nas|||Kannada||cararés||||||||||||||kannada (eräs intialainen kieli)|kannada
 karnadia||||Karnataka||Karnataka||||||||||||||Karnataka (Intian osavaltio)|Karnataka
 karolekse|||hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
-karomisa||||submit (present)|soumettre |entregar (enviar)||||提交|提出||||||||||
+karomisa||||submit (present)|soumettre|entregar (enviar)||||提交|提出||||||||||
 karote||||carrot||zanahoria|||||||||||||karoto|porkkana|marchew
 karsi|||eng:coarse, may:kasar, ara:خشن (khashin)|rough (coarse)|rêche (rugueux, gros)|áspero (basto)|áspero|грубой||粗糙|荒い||||||||||
 karte|||deu:Karte, rus:карта (karta), fra:carte, ita:por:carta, ara:(xarīṭa), tur:harita, fas:(xarite), som:khariiddo|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
@@ -1582,7 +1583,8 @@ lada||||load (to charge)||cargar||||||||||||||ladata|naładować, załadować, o
 lage|||eng:lake, spa:por:ita:lago, fra:lac|lake|lac|lago|lago|||湖|湖||||||||||jezioro
 laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)||basura (desechos)|||||||||||||rubo|roska|śmieć, odpadek
 lake||||lacquer (varnish)||laca||||||||||||||lakka|lakier
-lala|||swa:-lala|lie (lie down)||acostarse (echarse, tenderse, tumbarse)|||||||||||||kuŝi|maata (makoilla)|leżeć
+lala|||swa:-lala|lay (lay down)||acostar (poner)|||||横たえる||||||||kuŝi|maata (makoilla)|leżeć
+lalu||||lie (lie down)||acostarse (echarse, tenderse, tumbarse)|||||寝転ぶ||||||||||
 lampe|||fra:deu:lampe, eng:lamp, may:lampu|lamp||lámpara|||||||||||||lampo|lamppu|lampa
 lana||||curse (swear)||maldecir|||||呪う||||||||||
 lanca|||eng:launch, ita:lanciare, por:lançar, fra:lancer, spa:lanzar, deu:lancieren|throw (launch)||tirar (lanzar, echar, arrojar, aventar)|||||||||||||ĵeti (lanĉi)|heittää (paiskata)|rzucić, rzucać, miotać, cisnąć, ciskać
@@ -1591,7 +1593,7 @@ lanci vute||||projectile (missile)|projectile|proyectil (misil)|projétil|сна
 lancografa||||project (cast)|projeter (donner)|proyectar||||投射|映す (投影する)||||||||heijastaa kuvia (projisoida)||wyświetlać
 lancografe||||projection (image)|projection|proyección|projeção|||投影|投影||||||||projektio (diakuva)||rzut (projekcja)
 lancografer||||image projector||proyector|||||||||||||projektori (videotykki, piirtoheitin)||projektor (rzutnik)
-lane|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, far:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||
+lane|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||
 langane|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 lankia|dex|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
 lantanum|mate|La||lanthanum||lantano||||鑭|ランタン|||||||||lantaani|lantan
@@ -1783,7 +1785,7 @@ mangese|mate|Mg||magnesium|magnésium|magnesio|magnésio|магний||镁|マ�
 mangete||||magnet||imán||||||||||||||magneetti|magnes
 mangeti||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 manguse||||mangosteen||mangostán (jobo de la India)||||||||||||||mangostani|mangostan
-mani bace||||son||hijo||||||||||||||poika|syn
+mani pute||||son||hijo||||||||||||||poika|syn
 mani rajer||||king||rey|||||王様|||||||||kuningas|król
 manihaye||||prophet Mani||profeta Mani||||||||||||||profeetta Mani|prorok Mani
 manihayistia||||Manichaeism|manichéisme|maniqueísmo|maniqueísmo|манихейство||摩尼教||||||||||manikealaisuus|manicheizm
@@ -1822,7 +1824,7 @@ matrase||||mattress||colchón||||||||||||||patja|materac
 maturi|||eng:fra:mature, spa:por:maduro|mature (ripe, adult)||maduro (adulto, curado)|||||||||||||matura (plenkreska)|kypsä (aikuinen)|dorosły, dojrzały
 maturi fem||||woman (adult female)||mujer (señora)||||女人|女の人||||||||virino|nainen|kobieta, dorosła samica
 maturi man||||man (adult male)||hombre (señor)||||男人|男の人||||||||viro|mies|mężczyzna, dorosły samiec
-maturoren||||adult|adulte|adulto||взрослый||成年人|大人||||||||plenaĝa|aikuinen|osoba dorosła
+mature||||adult|adulte|adulto||взрослый||成年人|大人||||||||plenaĝa|aikuinen|osoba dorosła
 maw (mawe)|||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
 max (maxo)|||spa:mas, por:mais, eng: max-|more|plus|mas|mais||||||||||||pli|enemmän|bardziej
 max ko bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
@@ -2862,7 +2864,7 @@ supre||||overpass||paso elevado|||||上|||||||||ylitys|wiadukt, przejście powy�
 supri||||upper||superior (más alto)||||||||||||||ylä- (yli-)|górny
 suprize|||eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|surprise||sorpresa||||惊奇|||||||||surprizo|yllätys|zaskoczenie
 suria|dex|SY||Syria||Siria||||||||||||||Syyria|Syria
-surinami bax||||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
+surinami baxe||||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
 surinamia|dex|SR||Suriname||Surinam||||||||||||||Surinam|Surinam
 susane|||fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|lily|lys|lirio|lírio|лилия||百合花||||कुमुदिनी||lili||zambak||lilja|lilia
 suta|||hin:सीना (sīnā), rus:шить (šit'), eng:sew|sew||coser||||||||||||||ommella|szyć
@@ -2897,7 +2899,6 @@ tamare|||por:tamara, ara:(tamar)|date fruit||dátil||||||||||||||taateli|daktyl
 tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)
 tamili|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
 tanah||||Tanakh (Jewish Bible)||Tanaj (Biblia hebrea)||||||||||||||tanakh|Tanach, Biblia hebrajska
-tani||||personal (intimate, private)||personal (privado)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 tanke|||eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, jpn:タンク (tanku), tgl:tangke|tank (reservoir)||tanque (cisterna)||||||||||||||tankki (säiliö)|zbiornik (cysterna, pojemnik, rezerwuar)
 tantalum|mate|Ta||tantalum||tántalo|||||||||||||tantalo||tantal
 tanure|||fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|oven (furnace)||horno|||||||||||||forno|uuni|piec (piekarnik)
@@ -3073,13 +3074,13 @@ vanadium|mate|V||vanadium||vanadio||||||||||||||vanadiini|wanad
 vanile||||vanilla||vainilla||||||||||||||vanilja|wanilia
 vanuatia|dex|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
 var (vare)||||day of the week||día de la semana|||||曜日|||||||||viikonpäivä|dzień tygodnia
-var 1 (var un)||||Monday||lunes|||||月曜日|||||||||maanantai|poniedziałek
-var 2 (var dul)||||Tuesday||martes|||||火曜日|||||||||tiistai|wtorek
-var 3 (var tin)||||Wednesday||miércoles|||||水曜日|||||||||keskiviikko|środa
-var 4 (var car)||||Thursday||jueves|||||木曜日|||||||||torstai|czwartek
-var 5 (var lim)||||Friday||viernes|||||金曜日|||||||||perjantai|piątek
-var 6 (var sis)||||Saturday||sabado|||||土曜日|||||||||lauantai|sobota
-var 7 (var sem)||||Sunday||domingo|||||日曜日|||||||||sunnuntai|niedziela
+var 1 (var uni)||||Monday||lunes|||||月曜日|||||||||maanantai|poniedziałek
+var 2 (var duli)||||Tuesday||martes|||||火曜日|||||||||tiistai|wtorek
+var 3 (var tini)||||Wednesday||miércoles|||||水曜日|||||||||keskiviikko|środa
+var 4 (var cari)||||Thursday||jueves|||||木曜日|||||||||torstai|czwartek
+var 5 (var limi)||||Friday||viernes|||||金曜日|||||||||perjantai|piątek
+var 6 (var sisi)||||Saturday||sabado|||||土曜日|||||||||lauantai|sobota
+var 7 (var seti)||||Sunday||domingo|||||日曜日|||||||||sunnuntai|niedziela
 vatikania|dex|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vaze|||deu:eng:fra:vase, pol:waza, rus:ваза (vaza), tur:vazo|pot (vase, bin, jar, jug)|vase|jarrón (bote)||ваза||||||||||vazo|vazo|ruukku (maljakko, vaasi)|waza, garnek, pojemnik, słoik, dzban
 vejete||||vegetable||vegetal||||蔬菜|||||||||legomo|kasvis|warzywo
@@ -3160,7 +3161,7 @@ wayotira||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть|
 we||||that one||eso|||||それ (あれ)||||||||tiu|tuo|tamten
 weka||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 weki||||awake|éveillé|despierto||||||||||||||olla hereillä|przebudzony, przytomny
-wene||||ring||anillo|||||||||||||||
+wene|||zho:环 (huán), yue:環 (waan4), wuu:環 (gue3), kor:환 (hwan), tha:แหวน (wɛ̌ɛn), jpn:輪 (wa)|ring||anillo|||||||||||||||
 werka||||work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
 werke||||work (job, task)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja|kazi|iş|laboro|työ (tehtävä)|praca, zjęcie, zadanie
 werker||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
