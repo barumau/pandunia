@@ -136,7 +136,8 @@ global.
 
 Simple word class marking with final vowels is an ingenious idea and
 it fits well with the Indo-European root-and-suffix word pattern. But
-what about words that don't use this pattern?
+the way different word classes relate to each other can be confusing
+if not handled carefully.
 
 
 ### Esperanto roots have inherent word class
