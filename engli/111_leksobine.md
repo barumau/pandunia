@@ -130,36 +130,24 @@ Two or more words can be put together to make a _compound word_.
 The last word is the most meaningful word in the compound
 and the words that come before it only modify its meaning.
 
-Compound words are made of bare word stems,
-which are joined together by the linking vowel **-o-**.
+Compound words are made of bare word stems and a vowel ending.
 
-For example, this is how **kanosuy** (_tears_) is made:
+For example, this is how the word **kansuye** (_tears_) is made:
 
           kan       (eye)
        +  suy       (water)
-    ____________
-    = kanosuy       (eyewater, tear)
+       +    e       (noun ending)
+   _____________
+    = kansuye       (eyewater, tear)
 
-And this is how **termometer** (_thermometer_) is made:
+And this is how the word **andewisti** (atheistic) is made:
 
-         terme      (temperature)  
-       + meter      (measuring device)
-    ____________
-    = termometer    (thermometer)
-
-The linking vowel **-o-** is not used when the second word begins with a vowel.
-
-          dew       (god)  
-       + iste       (proponent, -ist)
-    ____________
-    =  dewiste      (theist)
-
-The ending vowel of the first word is always dropped when a compound word is made.
-
-         pace       (peace)
-       + iste       (proponent, -ist)
-    ____________
-    =  paciste      (proponent of peace, pacifist)
+           an       (negation)
+       +  dew       (god)  
+       +  ist       (proponent, -ist)
+       +    i       (adjective ending)
+   _____________
+   = andewisti      (atheistic)
 
 
 ### Common Suffixes
