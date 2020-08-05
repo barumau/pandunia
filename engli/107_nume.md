@@ -72,3 +72,17 @@ So for example kilo denotes a multiple of a thousand.
 Sometimes it is known from the context how many objects are spoken about.
 For example, the word **sol** (sun) normally refers to just one sun because there is only one.
 
+
+## Fractions
+
+Fractions are formed with the help of
+**fene**
+(fraction, part).
+
+**uni dulfene**
+– a half, ½  
+**uni carfene**
+– a quarter, ¼  
+**tini carfene**
+– three quarters, ¾
+
